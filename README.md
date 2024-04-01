@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 13:52:59**
+As of **2024-04-01 14:04:07**
 
 ## Newspaper Stats
 
-*Scraped **16,359** Articles*
+*Scraped **16,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,180 @@ newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 893
 islandlk | 912
-adalk | 1,374
+adalk | 1,375
 tamilmirrorlk | 1,957
-adaderanalk | 1,971
-virakesarilk | 2,323
+adaderanalk | 1,973
+virakesarilk | 2,326
 dailymirrorlk | 2,517
-adaderanasinhalalk | 2,649
+adaderanasinhalalk | 2,650
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,357 (100.0%) of 16,359 articles have been extended.
+16,359 (100.0%) of 16,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### தேர்தல் தொடர்பில் வெளியான தகவல்
+### Katchatheevu neither acquired nor ceded, lies in Sri Lankan maritime area – UBT leader
 
-*2024-04-01 13:35:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-தொடர்பில்-வெளியான-தகவல்/175-335452) · `ta`
+*2024-04-01 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98346/katchatheevu-neither-acquired-nor-ceded-lies-in-sri-lankan-maritime-area-ubt-leader) · `en`
 
-இந்த ஆண்டு ஜனாதிபதி தேர்தலை நடத்துவதற்கான ஏற்பாடுகள் ஏற்கெனவே பூர்த்தி செய்யப்பட்டுள்ளதாக தேசிய தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+Adding fuel to the Katchatheevu row, India’s Shiv Sena (UBT) leader Priyanka Chaturvedi shared an RTI reply of 2015 where it was mentioned that the Katchatheevu island was neither acquired nor ceded and that it lies on the Sri Lankan side of the India-Sri Lanka International Maritime Boundary Line.
 
-இதேவேளை, சர்வதேச நாணய நிதியத்தின் கடன் மறுசீரமைப்பு வேலைத்திட்டம் ஜூலை மாதம் இறுதிவரை இடம்பெறும் என்பதால் அதற்கு முன்னர் தேர்தல் நடத்தப்பட மாட்டாது என ஜனாதிபதி ரணில் விக்கிரமசிங்க அமைச்சரவைக்கும் தேர்தல்கள் ஆணைக்குழுவுக்கும் அறிவித்துள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+In a post on ‘X’, Chaturvedi pointed out that the Ministry of External Affairs (MEA) should be able to address the “discrepancies” in its RTI response in 2015 and its position in 2024.
 
-அரசியலமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தல் இவ்வருடம் நடத்தப்பட வேண்டும் எனவும், அது செப்டெம்பர் மாத இறுதியில் அல்லது ஒக்டோபர் மாத தொடக்கத்தில் நடத்தப்படும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
-
-கடந்த வரவு - செலவுத் திட்டத்தில் ஜனாதிபதி தேர்தலுக்காக ஆயிரம் கோடி ரூபாய் ஒதுக்கப்பட்டுள்ளதாகவும், தேர்தலை நடத்துவதற்கான நடவடிக்கைகள் குறித்து அனைத்து உதவி தேர்தல் ஆணையாளர்களுக்கும் அறிவிக்கப்பட்டுள்ளதாக தேர்தல்கள் ஆணைக்குழு உறுப்பினர் ஒருவர் குறிப்பிட்டுள்ளார்.
+“Maybe @MEAIndia will be able to address these discrepancies in its RTI response in 2015 vis a vis 2024,” Chaturvedi said. “This did not involve either acquiring or ceding of territory belonging to India since the area in question had never been demarcated. Under the Agreements, the Island of Katchatheevu lies on the Sri Lankan side of the India-Sri Lanka International Maritime Boundary Line,” the RTI reply which Chaturvedi said was from the MEA in 2015 read.
 
 ...
 
-[Data](articles/b9cfd62f.json)
+[Data](articles/106f8724.json)
 
 ---
 
-### අධිකරණ ඇමති සංශෝධන ඉල්ලා අස්කර ගනී
+### ලොකු ලූනුවලින් කෝටි 8,000ක අයුතු ලාභයක් - ප්‍රධාන ආදායම් ආයතන ගැනත් හෙළිදරව්වක්
+
+*2024-04-01 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195170) · `si`
+
+2023 වසරේ දී මෙරටට බී ලූනු ආනයනය කළ ව්‍යාපාරිකයින් රුපියල් කෝටි 8,000ක පමණ අයථා ලාභයක් ලබාගෙන ඇති බවට ක්‍රම සහ විධි පිළිබඳ කාරක සභාවේදී අනාවරණ වී තිබේ.
+
+එම කාරක සභාවේ සභාපති පාඨලී චම්පික රණවක මහතා අද (01) පාර්ලිමේන්තුවේදි ඊට අදාළ වාර්තා ඉදිරිපත් කරමින් මේ පිළිබඳ කරුණු පැහැදිලි කළේය.
+
+මේ අතර, ශ්‍රී ලංකා රේගුව, දේශීය ආදයම් දෙපාර්තමේන්තුව සහ සුරාබදු දෙපාර්තමේන්තුව මඟින් රජයට රු.බි. 1,066ක් එකතු කළ යුතු හිඟ බදු පවතින බවද පාඨලී චම්පික රණවක මහතා පැවසීය.
+
+මේ වසරේ ජනවාරී පළමු වැනිදා වැට් බදු වැඩි කිරීම සිදුකළේ රු.බි. 600ක් රජයට එකතු කර ගැනීමේ අරමුණෙන් බවත්, පසුගිය අවුරුදු පහ තුළ ඉහත ආයතන විසින් එකතු කර නොගත් බදු ආදායම් ප්‍රමාණය රු. බි. 656ක් බව ද  පාර්ලිමේන්තුව අමතමින් පාඨලී චම්පික රණවක මහතා පැවසුවේය.
+
+...
+
+[Data](articles/7dee9d7c.json)
+
+---
+
+### Information
+
+*2024-04-01 13:35:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-தொடர்பில்-வெளியான-தகவல்/175-335452) · `ta`
+
+The National Elections Commission has finalized arrangements for the presidential election this year, set for late September or early October. President Ranil Wickremesinghe has extended the IMF's Debt Relief Program until July. The Sri Lanka PA requests a general election before the presidential one, preferably before August.
+
+🟩
+
+The National Elections Commission said that arrangements for holding the presidential election this year have already been completed.
+
+Meanwhile, President Ranil Wickremesinghe has informed the Cabinet and the Elections Commission that the International Monetary Fund's Debt Relief Program will be held until the end of July.
+
+According to the Constitution, the presidential election should be held this year and it will be held in late September or early October.
+
+A member of the Election Commission said that the last budget has allocated Rs.
+
+However, the Sri Lanka PA had asked the President of the PA to hold a general election before the presidential election and to hold the general election before August.
+
+◼️
+
+[Data](articles/b9cfd62f.json)
+
+[Extended Data](ext_articles/b9cfd62f.ext.json)
+
+---
+
+### Judicial Minister's Amendments withdraw
 
 *2024-04-01 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195169) · `si`
 
-වයස අවුරුදු 14ත් 16ත් අතර ගැහැණු දරුවෙකු සිය කැමැත්ත සහිතව වයස අවුරුදු 22ට අඩු පුද්ගලයෙකු සමග ලිංගික සබඳතාවක් පැවැත්වුහොත් ඊට ලබාදෙන දඬුවම ලිහිල් කිරීමට අදාළව රජය ගෙන ඒමට යෝජිත සංශෝධන ඉල්ලා අස්කර ගත් බව අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පවසයි.
+Proposed amendments to lower the age of consent from 22 to 16 were withdrawn. The President's Counsel and other professionals met to discuss the case, which led to increased scrutiny in the High Court. The amendment aimed to ease punishment for girls aged 14-16 having children with men under 22, but was rejected by the National Child Protection Authority.
 
-"මෙම පනත් කෙටුම්පත ජනාධිපති නීතීඥවරු වෙනත් නීතීඥවරු සහ වෘත්තිකයින් කිහිපදෙනෙකු එකතුවෙලා අවුරුදු 5ක් පමණ අධ්‍යයනය කරලා තමයි, මේ නිර්දේශය අධීකරණ අමාත්‍යාංශයට ලබාදුන්නේ."
+🟩
 
-මේ නඩු මහාධිකරණයට එනකොට 90%ක්ම ඒගොල්ලෝ වැඩිවියට පත්වෙලා. විවාහ වීමට හැකියාව තියෙනවා. ඒ අයට දරුවොත් ඉන්නවා. සමහර අය බැඳලා. සමහර අය බඳින්න කැමතියි. නමුත් අනවාර්යය දඬුවමක් නිසා ඒ තරුණයා අනිවාර්යයෙන්ම අවුරුදු 10ක් හිරේ යවන්න ඕනේ."
+The proposed amendments have been withdrawn from the age of 22 to 16 years of consent, the proposed amendments have been withdrawn from the age of 22.
 
-මේක ප්‍රායෝගික ප්‍රශ්නයක්. මේක මානූෂිය පැත්තෙන් බලලා ශ්‍රේෂ්ඨාධිකරණය නඩු තීන්දු 3ක් දීලා තියෙනවා.
+"The President's Counsel was collected to the Ministry of Education, which was joining the President's Counsel, other lawyers and several professionals joined.
+
+When the case approached the High Court, they had increased. There is the ability to get married. They have children. Some people tied. Some people love to marry. But because of a punishment, the young man must be sent to jail for 10 years. "
+
+This is a practical question. This has been given three cases of judicial decisions.
+
+The book is one law, but the judiciary follows a separate law. There should be a situation where these two comparisons. Otherwise this is a problem. There is one in the law one is in court. We are withdrawn and we withdraw this. If there is an amendment that may agree in the future, we present. "
 
 ...
 
 [Data](articles/00c00483.json)
+
+[Extended Data](ext_articles/00c00483.ext.json)
+
+---
+
+### தெல்லிப்பழை பாடசாலையொன்றின் கார்த்திகை பூ விவகாரம் - மனித உரிமை ஆணைக்குழுவில் முறையிட நடவடிக்கை
+
+*2024-04-01 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180133) · `ta`
+
+பாடசாலை மட்ட நிகழ்வுகளில் பொலிஸாரினதும் அரச புலனாய்வாளரினதும் இராணுவத்தினரின் தலையீடுகள் மற்றும் விசாரணை செயற்பாடுகளை இலங்கை ஆசிரியர் சங்கம் வன்மையாக என இலங்கை ஆசிரியர் சங்க உப தலைவர் தீபன் தீலீசன் தெரிவித்துள்ளார்.
+
+ஊடகங்களுக்கு இன்று திங்கட்கிழமை (01)   தீபன் திலீசன் அனுப்பி வைத்துள்ள செய்தி குறிப்பிலையே அவ்வாறு குறிப்பிடப்பட்டுள்ளது.
+
+பாடசாலைகளில் நடைபெற்றுவரும் இல்ல விளையாட்டு நிகழ்வுகளில் அலங்கரிக்கப்படும் செயற்பாடுகள் தொடர்பாக - குறிப்பாக, வடக்கு கிழக்கு மாகாண பாடசாலைகளில் பொலிஸாரினதும் இராணுவத்தினரதும், அரச புலனாய்வாளர்களினதும் அச்சுறுத்தல் இடம்பெற்றுவருவது தனிமனித சிந்தனை மற்றும் மனச்சாட்சி சுதந்திரங்களை நசுக்கும் அடிப்படை மனித உரிமை மீறல்களாகும்.
+
+இலங்கை அரசின் சட்ட வரையறைக்குட்பட்டு கருத்தியல் ரீதியாகவும் - கலை ரீதியாகவும் - குறியீட்டு வடிவங்கள் மூலமாகவும் - சமூகம் சார் பிரக்ஞைகளை வெளிப்படுத்தும் போது, அதனை அரச இயந்திரங்களால் நசுக்கும் செயற்பாடுகள் நடைபெறுவதற்கு அனுமதிக்க முடியாது.
+
+...
+
+[Data](articles/0b424192.json)
+
+---
+
+### 15 பேருடன் சென்று கொண்டிருந்த ஜீப் 75 அடி பள்ளத்தில் வீழ்ந்து 10 பேர்  காயம்!
+
+*2024-04-01 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180132) · `ta`
+
+பொலெரோ வகை ஜீப் வண்டியொன்று பண்டாரவளையில் இருந்து ரம்புக்கனை நோக்கி பயணித்தபோது  கம்பளை தெல்பிடிய பிரதேசத்தில் வீதியை விட்டு விலகி சுமார் 75 அடி பள்ளத்தில் வீழந்து விபத்துக்குள்ளாகியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இதன்போது ஜீப் வண்டியில் 15 பேர் பயணித்ததோடு,10 பேர் காயமடைந்த நிலையில் கம்பளை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+பண்டாரவளை பிரதேசத்தில் இடம்பெற்ற மரண வீட்டில் கலந்து கொண்டு  திரும்பிய குழுவினரின் பயணித்த ஜீப் வண்டியே இன்று அதிகாலை 4 மணியளவில் இவ்வாறு விபத்துக்குள்ளானது.
+
+◼️
+
+[Data](articles/f8b090f0.json)
+
+---
+
+### ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழுவிலிருந்து மூவர் நீக்கப்பட்டமைக்கு இடைக்காலத் தடை விதித்த நீதிமன்றம்!
+
+*2024-04-01 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180131) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழு பதவிகளில் இருந்து துமிந்த திசாநாயக்க, லசந்த அழகியவண்ண மற்றும் மஹிந்த அமரவீர ஆகியோரை நீக்குவதற்கு கொழும்பு மாவட்ட நீதிமன்றம் இடைக்காலத் தடையுத்தரவு பிறப்பித்துள்ளது.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதவிகளிலிருந்து துமிந்த திசாநாயக்க, லசந்த அழகியவண்ண மற்றும் மஹிந்த அமரவீர ஆகியோர் கடந்த சனிக்கிழமை (30) நீக்கப்பட்டனர்.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் நிறைவேற்று சபைக் கூட்டம் அன்றைய தினம் கட்சித் தலைமையகத்தில் இடம்பெற்றதுடன், இந்தத் தீர்மானங்கள் எடுக்கப்பட்டன.
+
+இதன்படி, ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தேசிய அமைப்பாளர் பதவியில் இருந்து நீக்கப்பட்ட  துமிந்த திஸாநாயக்கவுக்கு பதிலாக மஹியங்கனை தொகுதி அமைப்பாளர் கே.பி.குணவர்தன நியமிக்கப்பட்டுள்ளார்.
+
+அத்துடன், பொருளாளர் பதவியிலிருந்து நீக்கப்பட்ட லசந்த அழகியவண்ணவுக்கு பதிலாக மேல் மாகாண சபையின் முன்னாள் அமைச்சர் ஹெக்டர் பெத்மகேவும், சிரேஷ்ட உபதலைவராக இருந்த மஹிந்த அமரவீரவுக்கு பதிலாக சரத் ஏக்கநாயக்கவும் நியமிக்கப்பட்டனர்.
+
+◼️
+
+[Data](articles/12a23d1b.json)
+
+---
+
+### Uncertainty looms over Presidential Election date amidst IMF program and political demands
+
+*2024-04-01 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98345/uncertainty-looms-over-presidential-election-date-amidst-imf-program-and-political-demands) · `en`
+
+The preliminary arrangements required to hold the presidential election have been completed, according to the Election Commission.
+
+Nevertheless, internal sources within the government revealed that President Ranil Wickremesinghe informed the Cabinet of Ministers and the Election Commission that no election will take place before the month of July, as the country’s debt restructuring programme under the International Monetary Fund (IMF) will be in progress until July.
+
+However, the Presidential Election is required to be held within this year, as per the Constitution.
+
+Last week, reports claimed that the presidential election will possibly take place in the period between end-September to early-October this year.
+
+Meanwhile, a member of the Election Commission stated that an amount of Rs. 10 billion has been allocated from the budget for holding the elections this year, and that all Assistant Election Commissioners have been informed regarding the preparation activities to hold the election.
+
+...
+
+[Data](articles/ec71fa15.json)
 
 ---
 
@@ -121,6 +245,8 @@ Sri Lanka has recorded over 635,000 tourist arrivals within the first three mont
 Minister of Tourism Harin Fernando stated that the total tourist arrivals for year 2024 as of March 31 stand at 635,784.
 
 Posting on X (formerly Twitter), Fernando mentioned that Sri Lanka has recorded 209,181 arrivals in the month of March and that accordingly, the first three months of 2024 have all surpassed 200,000 tourist arrivals.
+
+The minister further stated that this is a “remarkable turn around” for the country’s tourism sector and the economy.
 
 ◼️
 
@@ -1480,6 +1606,20 @@ The government decided in February to exclusively raise the DAT allowance by Rs 
 
 ---
 
+### පාරටම පැමිණි මුහුදු රළ
+
+*2024-04-01 09:40:33* · [`adalk`](https://www.ada.lk/picture_story/පාරටම-පැමිණි-මුහුදු-රළ/10-408872) · `si`
+
+මහ මුහුද රළුවී මුහුදු රල මාර්ගයට පැමිණීම හේතුවෙන් අද (1) ගාල්ල කොළඹ ප්‍රධාන මාර්ගයේ කහව මංසන්ධියේ සිට තෙල්වත්ත මංසන්දිය දක්වා රට වාහන ධාවනයට දැඩි බාධා එල්ලවී තිබේ.
+
+ඊයේ( 31) රෑ සිට මෙම තත්ත්වය උද්ගත වූ බව ප්‍ර දේශවාසීහු කියති. මුහුදු රල පහරත් සමග මුහුද අයිනේ දමා ඇති ගල් වැටියේ ඇති ගල් විටින් විට  මහ පාරට පැමිණෙමින් තිබෙන අතර එහි පදිංචිකරුවන්  ගල් ඉවත් කරමින් වාහන ධාවනයට මාර්ගය සකසාදීමට දැඩි උත්සහායක නිරතවී සිටිති.
+
+◼️
+
+[Data](articles/2db3db53.json)
+
+---
+
 ### The remnant of the streets
 
 *2024-04-01 09:40:33* · [`adalk`](https://www.ada.lk/picture_story/පාරටම-පැමිණි-මුදුදු-රළ/10-408872) · `si`
@@ -2135,139 +2275,5 @@ A teacher in charge of a high -quality business unit in a popular school in Mata
 [Data](articles/67d181c7.json)
 
 [Extended Data](ext_articles/67d181c7.ext.json)
-
----
-
-### Mannar Wind Farm Project: Another folly like the Sinharaja Logging Project on the horizon?
-
-*2024-04-01 04:07:00* · [`islandlk`](http://island.lk/mannar-wind-farm-project-another-folly-like-the-sinharaja-logging-project-on-the-horizon/) · `en`
-
-A wind farm consisting of 30 towers generating 100MW (Phase 1- Thambapavani) was established on the southern coast of Mannar Island in 2020, with financial assistance from the Asian Development Bank (ADB). The widespread criticism of this project due to its positioning within one of the main bird migratory corridors in the Asian region (detailed elsewhere in the article) was largely overlooked or ignored due to the economic priorities that prevailed at the time, as it happened with the now infamous Canadian-funded Sinharaja Mechanized Logging Project of the 1970s.
-
-...
-
-[Data](articles/e1e620a8.json)
-
-[Extended Data](ext_articles/e1e620a8.ext.json)
-
----
-
-### Opposition politicians unite to critique current political culture
-
-*2024-04-01 03:48:56* · [`dailyftlk`](https://www.ft.lk/news/Opposition-politicians-unite-to-critique-current-political-culture/56-760169) · `en`
-
-Former Sports Minister attending event by Piripun SL says public administration is at its weakest since 1970s
-
-NFF leader Wimal Weerawansa likens SL’s situation to a house on fire being robbed
-
-FPC member Prof. Charitha Herath highlights challenge of translating strategic plans into action
-
-MJP leader Dilith Jayaweera emphasises necessity to change political narrative in SL
-
-Former Minister of Sports and estranged Government MP Roshan Ranasinghe
-
-Former Minister of Sports and estranged Government MP Roshan Ranasinghe yesterday maintained that the Parliament elected in 2020 is the most corrupt to date.
-
-Ranasinghe, who has served in three parliaments, said, “These sentiments may discomfort some individuals, but they need to be articulated. Among the three parliaments I have been part of, the one elected in 2020 stands out as the most corrupt.”
-
-...
-
-[Data](articles/95807bee.json)
-
-[Extended Data](ext_articles/95807bee.ext.json)
-
----
-
-### Dilith declares himself as most suitable Pohottuwa presidential candidate
-
-*2024-04-01 03:45:07* · [`dailyftlk`](https://www.ft.lk/news/Dilith-declares-himself-as-most-suitable-Pohottuwa-presidential-candidate/56-760168) · `en`
-
-Says 6.9 million votes received by SLPP were not cast in favour of a person or a particular family
-
-Asks SLPP leader Mahinda Rajapaksa to ensure his family follows the correct path as party members are not their slaves
-
-Urges party to nominate him as its Presidential candidate as he is most suitable for it
-
-Mawbima Janatha Party Leader Dilith Jayaweera proposed he should be nominated for the presidential candidacy of the Sri Lanka Podujana Peramuna (SLPP) yesterday.
-
-Speaking at a public gathering in Badulla, Jayaweera referenced a recent statement by SLPP Chief Government Whip and Urban Development and Housing Minister Prasanna Ranatunga, who mentioned that the SLPP does not have a suitable candidate for the upcoming Presidential polls.
-
-...
-
-[Data](articles/eedb2585.json)
-
-[Extended Data](ext_articles/eedb2585.ext.json)
-
----
-
-### Manusha says President successfully completes economic recovery ‘suicide mission’
-
-*2024-04-01 03:42:47* · [`dailyftlk`](https://www.ft.lk/news/Manusha-says-President-successfully-completes-economic-recovery-suicide-mission/56-760167) · `en`
-
-Labour and Foreign Employment Minister Manusha Nanayakkara on Friday described addressing the economic crisis was like a ‘suicide mission,’ and President Ranil Wickremesinghe has successfully completed the task of restoring the economy to normalcy.
-
-He noted that an uninformed group believes that bringing down inflation, improving exchange rates, and increasing salaries can be achieved during an election to gain an advantage. He argued this clearly proves that such groups are being misled. He pointed out that recent statistics indicate the President has successfully tackled the economic challenges.
-
-The Minister made this observation during the inauguration of the Jayagamu Sri Lanka program at Gamini Vidyalaya’s Ground in Vavuniya.
-
-...
-
-[Data](articles/7b4addef.json)
-
-[Extended Data](ext_articles/7b4addef.ext.json)
-
----
-
-### Mody claims 1974 handover of Katchatheevu to SL has angered every Indian
-
-*2024-04-01 03:40:49* · [`dailyftlk`](https://www.ft.lk/news/Mody-claims-1974-handover-of-Katchatheevu-to-SL-has-angered-every-Indian/56-760166) · `en`
-
-“New facts reveal how Congress callously gave away Katchatheevu…This has angered every Indian,” Prime Minister Narendra Modi posted on X.
-
-Modi on Sunday (31 March) once again attacked the Congress about its decision to “callously give away” the island of Katchatheevu.
-
-“Eye opening and startling! New facts reveal how Congress callously gave away #Katchatheevu. This has angered every Indian and reaffirmed in people’s minds — we can’t ever trust Congress!” he posted on X.
-
-The prime minister’s post comes after documents obtained by BJP Tamil Nadu chief K. Annamalai seemed to indicate that Congress never attached much importance to the tiny, uninhabited island, The Times of India reported. According to the report, Jawaharlal Nehru once even remarked that he would not hesitate “in giving up claims to the island” altogether.
-
-...
-
-[Data](articles/bbb772df.json)
-
-[Extended Data](ext_articles/bbb772df.ext.json)
-
----
-
-### SL exporters explore cutting-edge food technology at Anuga FoodTec Exhibition in Germany
-
-*2024-04-01 03:40:04* · [`dailyftlk`](https://www.ft.lk/business/SL-exporters-explore-cutting-edge-food-technology-at-Anuga-FoodTec-Exhibition-in-Germany/34-760165) · `en`
-
-A delegation of nine representatives from Sri Lanka, representing key stakeholders from the Ministry of Agriculture, Elpitiya Plantation, Eastern and Allied Agencies and Hettigoda Industries embarked on a visit to the Anuga FoodTec trade fair in Köln, Germany. Organized by the Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka), this initiative aimed to immerse the delegates in the latest advancements in food production, processing, packaging, and storage.
-
-Anuga FoodTec, which commenced on 19 March 2024, stands as a global leader in showcasing innovations across the entire spectrum of food technology, making it the ultimate destination for industry professionals seeking to stay at the forefront of developments in the field.
-
-...
-
-[Data](articles/708af096.json)
-
-[Extended Data](ext_articles/708af096.ext.json)
-
----
-
-### ‘Worky’ aims to revolutionise Sri Lanka’s job market
-
-*2024-04-01 03:38:07* · [`dailyftlk`](https://www.ft.lk/business/Worky-aims-to-revolutionise-Sri-Lanka-s-job-market/34-760164) · `en`
-
-In a significant boost to Sri Lanka’s employment landscape, especially during its challenging economic times, a groundbreaking platform named ‘Worky’ was launched on 20 March.
-
-Designed to bridge the gap between job seekers, part-time workers, students, and service seekers, ‘Worky’ is poised to revolutionise the way people find work and hire for services in Sri Lanka.
-
-At its core, ‘Worky’ is a location-based service platform that allows prospective job seekers and part-time workers, including students, to register free of charge. This innovative app enables service seekers to log in and locate the nearest available worker, facilitating immediate bookings for a wide array of services. From traditional roles like plumbers and carpenters to new-age job functions such as dog walking and pet grooming, ‘Worky’ caters to a diverse range of employment opportunities, directly addressing the varied needs of Sri Lankan households.
-
-...
-
-[Data](articles/c13f817c.json)
-
-[Extended Data](ext_articles/c13f817c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 16:03:54**
+As of **2024-04-01 16:18:28**
 
 ## Newspaper Stats
 
-*Scraped **16,384** Articles*
+*Scraped **16,386** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,77 @@ islandlk | 912
 adalk | 1,376
 tamilmirrorlk | 1,959
 adaderanalk | 1,975
-virakesarilk | 2,330
+virakesarilk | 2,331
 dailymirrorlk | 2,520
-adaderanasinhalalk | 2,655
+adaderanasinhalalk | 2,656
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,383 (100.0%) of 16,384 articles have been extended.
+16,384 (100.0%) of 16,386 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### ගාසා ළමුන්ට ශ්‍රී ලංකාවෙන් ඩොලර් මිලියනයක්
+### லாப் எரிவாயு விலை குறைப்பு
+
+*2024-04-01 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/180154) · `ta`
+
+லாப் சமையல் எரிவாயுவின் விலைகள் இன்று திங்கட்கிழமை (01) நள்ளிரவு முதல் குறைக்கப்படவுள்ளதாக லாப் நிறுவனம் தெரிவித்துள்ளது.
+
+அதன்படி 12.5 கிலோ கிராம் நிறையுடைய சமையல் எரிவாயு சிலிண்டரின் விலை 625 ரூபாவால் குறைக்கப்படவுள்ளதுடன் அதன் புதிய விலை 4,115 ரூபாவாகும்.
+
+5 கிலோ கிராம் நிறையுடைய சமையல் எரிவாயு சிலிண்டரின் விலை 248 ரூபாவால் குறைக்கப்படவுள்ளதுடன் அதன் புதிய விலை 1,652 ரூபாவாகும்.
+
+◼️
+
+[Data](articles/1fe7ce3f.json)
+
+---
+
+### විදෙස් ශ්‍රමිකයින් සඳහා ව්ද්‍යුත් වාහන ආනයනයේදී සිදුවන වංචා
+
+*2024-04-01 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195176) · `si`
+
+විදෙස් ශ්‍රමිකයන් සඳහා විද්‍යුත් වාහන ආනයනය කිරීමේදී දූෂිත ක්‍රියා බොහොමයක් සිදුව ඇති බව මුදල් පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේ සභාපති, ආචාර්ය හර්ෂ ද සිල්වා මහතා පවසයි.
+
+සභාපතිවරයා ඒ බව පැවසුවේ රජයේ මුදල් පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේ වාර්තාවක් ඉදිරිපත් කරමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ මුදල් පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතා...
+
+...
+
+[Data](articles/817a5b04.json)
+
+---
+
+### Gaza children a million dollars in Sri Lanka
 
 *2024-04-01 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195175) · `si`
 
-ගාසා තීරයේ ගැටුම්වලින් විපතට පත්වූ දරුවන් වෙනුවෙන් ශ්‍රී ලංකා රජයෙන් අමෙරිකානු ඩොලර් මිලියනයක පරිත්‍යාගයක් සිදුකර තිබේ.
+Sri Lanka donates $1M to Gaza children's fund, handed over by President Ranil Wickremesinghe. The fund, managed by the Palestinian government, aims to aid children affected by Gaza clashes.
 
-එම පරිත්‍යාගය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් එක්සත් ජාතීන්ගේ නිල නියෝජිතායතනය හරහා පලස්තීන රජය වෙත භාරදීම අද පෙරවරුවේ ජනාධිපති කාර්යාලයේදී සිදුකෙරිණි.
+🟩
 
-ඊට අදාළ චෙක්පත ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ශ්‍රී ලංකාවේ සිටින පලස්තීන තානාපති ආචාර්ය සුහයිර් එම්.එච්. සෙයිඩ් (HE. Zuhair M.H. Dar Zaid) මහතා වෙත නිල වශයෙන් භාර දෙනු ලැබීය.
+The Government of Sri Lanka has made a $ 1 million donation from the Government of Sri Lanka for children who were affected by clashes in Gaza.
 
-මෙවර ඉෆ්තාර් සැමරුම පැවැත්වීම වෙනුවෙන් අමාත්‍යාංශ සහ රජයේ ආයතන විසින් වෙන් කර තිබූ ප්‍රතිපාදන ද මෙම අරමුදල වෙත ලබාදෙන ලෙස ජනාධිපතිවරයා කළ ඉල්ලීමට අනුව අරමුදල වෙත ලැබුණු ඇමරිකන් ඩොලර් මිලියනයක මුදල මෙලෙස පළමු අදියර යටතේ පලස්තීන රජය වෙත පරිත්‍යාග කිරීම සිදු කෙරිණි.
+The donation was handed over to the Palestinian government through the presidential official of the UN officials from the president's government.
 
-එසේම “Children of Gaza Fund” අරමුදලට දායක වන ලෙස මෙරට පරිත්‍යාගශිලි ජනතාවගෙන් ජනාධිපති කාර්යාලය සිදු කළ ඉල්ලීම පරිදි රුපියල් මිලියන 20කට අධික මුදලක් මේ වන විට අරමුදල වෙත ලැබී ඇති අතර එම මුදල් ද ඉදිරියේ දී පලස්තීන රජය වෙත නිල වශයෙන් භාර දීමට නියමිතය.
+President Ranil Wickremesinghe, President Ranil Wickremesinghe, is Dr. Suhhir MH. Zyeid (he. Zuhair m.h. DAR Zaid) was officially handed over to Mr. Dar Zaid.
+
+Under the first phase, the first phase of US donations were made to the Palestinian government to the Fund to hold this fund to the fund.
+
+More than Rs. 20 million has been received by the President's Office to contribute to the "Children of Gaza Fund" to contribute to the "Children of Gaza Fund".
+
+Donor to the people of the Sonid to contribute to this fund from April 30, 2024 and donors will be provided to the Fund (7010) in the Post, PostCon (747), on April 30,The Presidential office was informed to refer to the relevant receipt to 077-973036.
 
 ...
 
 [Data](articles/067d5b0c.json)
+
+[Extended Data](ext_articles/067d5b0c.ext.json)
 
 ---
 
@@ -142,13 +182,15 @@ Despite being treated for the prisoner at the hospital, he died without treatmen
 
 *2024-04-01 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98347/sri-lanka-donates-usd-1-million-to-aid-children-in-gaza) · `en`
 
-The Government of Sri Lanka has donated USD 1 million to aid Gaza’s conflict-affected children.
+The Government of Sri Lanka donated USD 01 million to assist children impacted by the conflicts in the Gaza Strip. The donation was formally transferred to the Government of Palestine through the United Nations’ official channel, overseen by President Ranil Wickremesinghe at the Presidential Secretariat this morning (01).
 
-Issuing a statement, the President’s Media Division (PMD) said that President Ranil Wickremesinghe handed over the relevant cheque to Palestinian Ambassador Dr. Zuhair Hamdallah Zaid.
+Issuing a statement, the President’s Media Division (PMD) said that President Ranil Wickremesinghe personally presented the donation cheque to Mr. Zuhair M.H. Zaid, the Palestinian Ambassador in Sri Lanka.
 
-The donation is a part of the Children of Gaza Fund initiated by President Wickremesinghe, with additional donors contributing, according to the PMD.
+This contribution adds to the growing support for the Children of Gaza Fund, initiated by President Ranil Wickremesinghe to provide aid to affected children in the Gaza Strip.
 
-◼️
+In response to the President’s call to allocate funds from ministries and government institutions for this cause, the initial USD 01 million donated to the fund has been transferred to the Palestinian government in the first phase, according to the PMD.
+
+...
 
 [Data](articles/db724c80.json)
 
@@ -2239,65 +2281,5 @@ Residents of the area have expressed concern that the youths are addicted to the
 [Data](articles/cf8f7aa1.json)
 
 [Extended Data](ext_articles/cf8f7aa1.ext.json)
-
----
-
-### There is no chance to postpone the presidential election
-
-*2024-04-01 09:07:19* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-කල්-දාන්න-කිසිම-අවස්ථාවක්-නෑ/11-408870) · `si`
-
-The presidential election cannot be postponed. Parliamentary elections are scheduled between September 17 and the end of the event. The UPFA Ratnapura District Conference was held at the Town Hall. Basil Daivika mentioned no chance of postponement until May 9, 2022. Gas shortages affected innocent road users. Hammithin Hamabnoknokin cannot return to Parliament after the next presidential election. Politics has disappointed families. Some expected more than Rs. due to fraudulent sticker issues. The Excise Department expelled a member for fraudulent liquor business. Meii is late, but a program to build the country is presented. Medi Cati's engineers, including university professors, left to create Mei Cycli.
-
-🟩
-
-Parliamentary election should be held between September 17 and the event was held between Rathwriting and the end of the event.
-
-The Ratnapura District Conference on the UPFA was held at the Ratnapura Town Hall, addressing it.
-
-"Mr. Basil suddenly, Daivika says that there is no penal to see there is no January. Dis until May 9, 2022, lost the mandate.Without gas, the stomach was lost to the innocent people who came to the road to the road to the road.
-
-Now, Hammithin to Hamabnoknokin is to come back from the next presidential election cannot come back to Parliament.
-
-Now there is a disappointment about politics, families are not found in the face of squeezing families.
-
-There is always a strong discussion with the people, not all of the politics in politics.
-
-Those who were expecting more than Rs.
-
-...
-
-[Data](articles/ccbb30b2.json)
-
-[Extended Data](ext_articles/ccbb30b2.ext.json)
-
----
-
-### Kachithave Island: Can India be returned from Sri Lanka?
-
-*2024-04-01 09:05:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72dg1djg1wo) · `si`
-
-Kachchativu Island, a disputed territory between India and Sri Lanka, has sparked controversy and political debate. The island's ownership was confirmed by Sri Lanka in 1974, but India has expressed interest in reclaiming it. The issue has been linked to the Indian general election, with international political researchers suggesting it could influence the outcome. The island's strategic importance, including its fishing and gas potential, complicates the situation.
-
-🟩
-
-Kachituwe Island, which has now begged Sri Lanka, has become a controversial topic that has aimed at the election of India.
-
-Indian Prime Minister Narendra Modi stated a note on 31 March
-
-It states that every Indian is angry and the Congress Party cannot be confirmed again.
-
-SKIP Twitter PostTwitter Can you agree to reach content? This article contains the content provided by Twitter. Since they use cookies and other technologies, we urgent your permission before they load. You may need to read Twitter cookie policy and privacy policy before it is permitted. Select 'acknowledged forward' to view this content. The above is not responsible for the content of the END Twitter post.
-
-Kachuthativa Island is an island group of the islands of the country, and Kachchativu Island is the most distance to Sri Lanka.
-
-Kachchativu Island is located near the city of Ramacheck in South India.
-
-The distance from Ramadhattiva Island in South India is close to 24 km from Jaffna to Kachchativu Island, nearly 63 km.
-
-...
-
-[Data](articles/cc7a886e.json)
-
-[Extended Data](ext_articles/cc7a886e.ext.json)
 
 ---

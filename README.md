@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 12:19:12**
+As of **2024-04-01 12:33:39**
 
 ## Newspaper Stats
 
-*Scraped **16,336** Articles*
+*Scraped **16,346** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,154 @@ newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 893
 islandlk | 912
-adalk | 1,368
+adalk | 1,373
 tamilmirrorlk | 1,954
-adaderanalk | 1,969
-virakesarilk | 2,318
-dailymirrorlk | 2,514
-adaderanasinhalalk | 2,645
+adaderanalk | 1,970
+virakesarilk | 2,319
+dailymirrorlk | 2,515
+adaderanasinhalalk | 2,647
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,329 (100.0%) of 16,336 articles have been extended.
+16,336 (99.9%) of 16,346 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### மாணவி துஷ்பிரயோகம்  ; காதல் உறவை ஏற்படுத்தி சந்தேக நபர் கைது
+### 2024 මැතිවරණ ගැන ඉඟියක්
+
+*2024-04-01 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195167) · `si`
+
+මෙම වසරේදී ජනාධිපතිවරණය පැවැත්වීම සදහා මුලික කටයුතු මේ වනවිටත් සුදානම් කර අවසන් බව ජාතික මැතිවරණ කොමිසම පවසයි.
+
+ඒ අතර රජයේ අභ්‍යන්තර ආරංචි මාර්ග පවසන්නේ ජාත්‍යන්තර මූල්‍ය අරමුදලේ ණය ප්‍රතිව්‍යුහගතකරණ වැඩසටහන ජූලි මාසයේ අග වන තෙක් ක්‍රියාත්මක වන බැවින් ඊට පෙර කිසිදු මැතිවරණයක් නොපැවැත්වෙනු ඇතැයි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කැබිනට් මණ්ඩලයට සහ මැතිවරණ කොමිසමට දැනුම්දුන් බවයි.
+
+මෙම වසරේදී ව්‍යවස්ථානුකූලව ජනාධිපතිවරණය පැවැත්විය යුතු වන අතර එළැඹෙන සැප්තැම්බර් අග හෝ ඔක්තෝබර් මුලදී එය පැවැත්වෙනු ඇතැයි වාර්තා විය.
+
+මැතිවරණ කොමිසමේ සාමාජිකයකු ප්‍රකාශ කළේ ජනාධිපතිවරණය සදහා රුපියල් කෝටි දහසක මුදලක් පසුගිය අයවැයෙන් වෙන්කර ඇති අතර මැතිවරණය පැවැත්වීම සඳහා සිදුකෙරෙන කටයුතු පිළිබඳ සියලු සහකාර මැතිවරණ කොමසාරිස්වරුන් දැනුවත් කර ඇති බවයි.
+
+කෙසේ වෙතත් ජනාධිපතිවරණයට පෙර මහ මැතිවරණයක් පවත්වන ලෙස ශ්‍රී ලංකා පොදුජන පෙරමුණ ජනපතිවරයාගෙන් ඉල්ලා තිබූ අතර එසේ පවත්වන්නේ නම් මහ මැතිවරණය අගෝස්තු මාසයට පෙර පැවැත්විය යුතු වෙයි.
+
+◼️
+
+[Data](articles/2b75fce2.json)
+
+---
+
+### Court order issued preventing removal of Amaraweera and others from SLFP posts
+
+*2024-04-01 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98343/court-order-issued-preventing-removal-of-amaraweera-and-others-from-slfp-posts) · `en`
+
+The Colombo District Court has issued an interim injunction order preventing the Sri Lanka Freedom Party’s (SLFP) Executive Committee from removing Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera from their respective positions in the party, Ada Derana reporter said.
+
+The Executive Committee of the SLFP decided to remove Dissanayake, Alagiyawanna and Amaraweera from their respective positions in the party, during a special party meeting held on Tuesday (March 30).
+
+Accordingly, Dissanayake was stripped of his post as the National Organizer, Alagiyawanna was removed as the Treasurer and Amaraweera as the Senior Vice President.
+
+Meanwhile, SLFP also appointed a new Senior Vice President, a Treasurer and a National Organizer after the trio was stripped of their respective positions.
+
+...
+
+[Data](articles/2f3baa1c.json)
+
+---
+
+### லிட்ரோ சமையல் எரிவாயுவின் விலை குறைப்பு
+
+*2024-04-01 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180121) · `ta`
+
+லிட்ரோ சமையல் எரிவாயுவின் விலைகள் இன்று திங்கட்கிழமை (01) நள்ளிரவு முதல் குறைக்கப்படவுள்ளதாக லிட்ரோ நிறுவனம் தெரிவித்துள்ளது.
+
+அதன்படி 12.5 கிலோ கிராம் நிறையுடைய சமையல் எரிவாயு சிலிண்டரின் விலை 135 ரூபாவால் குறைக்கப்படவுள்ளதுடன் அதன் புதிய விலை 4,115 ரூபாவாகும்.
+
+5 கிலோ கிராம் நிறையுடைய சமையல் எரிவாயு சிலிண்டரின் விலை 55 ரூபாவால் குறைக்கப்படவுள்ளதுடன் அதன் புதிய விலை 1,652 ரூபாவாகும்.
+
+அதேவேளை, 2.3 கிலோ கிராம் நிறையுடைய சமையல் எரிவாயு சிலிண்டரின் விலை 23 ரூபாவால் குறைக்கப்படவுள்ளதுடன் அதன் புதிய விலை 772 ரூபாவாகும்.
+
+◼️
+
+[Data](articles/76d55c5a.json)
+
+---
+
+### දුමින්ද, ලසන්ත සහ මහින්ද නෙරපීමට එරෙහිව අතුරු තහනමක්
+
+*2024-04-01 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195166) · `si`
+
+දුමින්ද දිසානායක, ලසන්ත අලගියවන්න සහ මහින්ද අමරවීර යන මහත්වරුන් ශ්‍රී ලංකා නිදහස් පක්ෂයේ කෘත්‍යාධිකාරී මණ්ඩලයේ ධූරවලින් ඉවත් කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය අතුරු තහනම් නියෝගයක් නිකුත් කර තිබේ.
+
+දුමින්ද දිසානායක, ලසන්ත අලගියවන්න සහ මහින්ද අමරවීර ශ්‍රී ලංකා නිදහස් පක්ෂයේ තනතුරුවලින් පසුගිය සෙනසුරාදා (30) ඉවත්කර තිබුණි.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභාව එදින පක්ෂ මූලස්ථානයේදී රැස්වූ අතර එහිදී මෙම තීරණ ගෙන තිබුණි.
+
+ඒ අනුව, ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජාතික සංවිධායක ධූරයෙන් ඉවත් කළ දුමින්ද දිසානායක මහතා වෙනුවට මහියංගනය ආසන සංවිධායක කේ.පී ගුණවර්ධන මහතා පත්කළේය.
+
+එසේම භාණ්ඩාගාරික ධුරයෙන් ඉවත් කළ ලසන්ත අලගියවන්න මහතා වෙනුවට බස්නාහිර පළාත් සභාවේ හිටපු අමාත්‍ය හෙක්ටර් බෙත්මගේ මහතා පත්කළ අතර පක්ෂයේ ජ්‍යෙෂ්ඨ උප සභාපති ලෙස කටයුතු කළ මහින්ද අමරවීර මහතා වෙනුවට සරත් ඒකනායක මහතාව පත් කර තිබුණි.
+
+◼️
+
+[Data](articles/5cac0f50.json)
+
+---
+
+### ලිට්‍රෝ ගෑස් මිල පහළට
+
+*2024-04-01 12:13:23* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-පහළට/11-408878) · `si`
+
+අද අප්‍රේල් 01දා මධ්‍යම රාත්‍රිෙය් සිට ගෘහස්ත ගෑස් සිලින්ඩරයක මිල පහළ දැමීමට ලිට්‍රෝ ගෑස් සමාගම තීරණය කර ඇත.
+
+◼️
+
+[Data](articles/82cd4cbe.json)
+
+---
+
+### Litro gas prices reduced from today
+
+*2024-04-01 12:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Litro-gas-prices-reduced-from-today/108-279959) · `en`
+
+Colombo, April 1 (Daily Mirror)- The price of a 12.5 kg domestic Litro LP gas cylinder will reduced by Rs. 135 from midnight today, Litro Gas said.
+
+Accordingly, the new retail price of a cylinder of 12.5 kg LP gas will be Rs.4,115.
+
+The 5 kg cylinder of LP gas will be reduced by Rs. 55 and the new retail price will be Rs.1,652.
+
+The 2.3 kg cylinder of LP gas will be reduced by Rs. 23 and the new retail price will be Rs.772.
+
+◼️
+
+[Data](articles/46642a39.json)
+
+---
+
+### Student abuse;Suspect arrested for having a romantic relationship
 
 *2024-04-01 12:05:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாணவி-துஷ்பிரயோகம்-காதல்-உறவை-ஏற்படுத்தி-சந்தேக-நபர்-கைது/76-335448) · `ta`
 
-பேஸ்புக் மூலம் தொடர்பு கொண்டு பாடசாலை மாணவி ஒருவரை  துஷ்பிரயோகம்  செய்த  29 வயதுடைய இளைஞர் ஒருவரை, பெண்  பொலிஸ் ஒருவருடன் போலி காதல் உறவை  ஏற்படுத்தி கைது  செய்யப்பட்ட  சம்பவம்  திங்கட்கிழமை ( 01) பதிவாகியுள்ளது .
+A 29-year-old man was arrested for allegedly having a romantic relationship with a 14-year-old schoolgirl from Bandarawela. The girl's parents lodged a complaint, leading to the suspect's arrest. The police found the suspect's phone and discovered a relationship with a female officer, who allegedly helped him travel. The suspect was arrested on a bus from Balangoda to Colombo.
 
-பண்டாரவளை கினிகம பிரதேசத்தை  சேர்ந்த  14 வயதுடைய   பாடசாலை மாணவி ஒருவருடன் முகநூல் ஊடாக நட்பை ஏற்படுத்தி அவரை கொழும்பில் உள்ள தங்குமிட விடுதி ஒன்றிற்கு அழைத்துச் சென்று  சில நாட்களாக  துஷ்பிரயோகம்  செய்துள்ளதாக  குறித்த  மாணவியின்  பெற்றோரிடமிருந்து பண்டாரவளை பொலிஸ்  நிலையத்தில்  முறைப்பாடு  பதிவு செய்யப்பட்டுள்ளது .
+🟩
 
-அதற்கமைய விசாரணைகளை  முன்னெடுத்த  பொலிஸார் ,  சந்தேக நபரின்  தொலைபேசி இலக்கத்தை  கண்டுபிடித்து , அந்த எண்ணுக்கு பெண் பொலிஸ் அதிகாரி ஒருவரால் தொடர்பை  ஏற்ப்படுத்தி காதல்  ஆசை  தூண்டுவது  போல் நடித்து சந்தேக நபருடன் உறவை வளர்த்துள்ளனர் .
+The incident of a 29 -year -old youth who had been involved in a schoolgirl who had been involved in Facebook was arrested on Monday (01).
+
+A 14 -year -old schoolgirl from Ginigama area in Bandarawela has lodged a complaint at the Bandarawela police station from the student's parents that he had been taken to a accommodation in Colombo for a few days.
+
+Accordingly, the police, who investigated the investigation, have found the suspect's telephone number, and have developed a relationship with a female police officer and pretended to be a love desire.
+
+Speaking for about two weeks, the female police officer told her to find a job and said that the suspect had come to the house of a relative in Welimada and would meet at Bandarawala and go to Colombo.
+
+But later the woman told the police officer to change the place and come to the Balangoda bus station.
+
+Two female police officers were on duty and arrested the suspect in a bus traveling from Balangoda to Colombo.
 
 ...
 
 [Data](articles/fbdf98a9.json)
+
+[Extended Data](ext_articles/fbdf98a9.ext.json)
 
 ---
 
@@ -59,6 +177,8 @@ According to the official exchange rates announced today by the CBSL, the buying
 ◼️
 
 [Data](articles/35c3f794.json)
+
+[Extended Data](ext_articles/35c3f794.ext.json)
 
 ---
 
@@ -121,6 +241,24 @@ The dollar's purchase is Rs. 295.57 and the sale price is Rs. 305.10.
 [Data](articles/554939f1.json)
 
 [Extended Data](ext_articles/554939f1.ext.json)
+
+---
+
+### යතුරුපැදි සොරාගෙන විකුණා කුඩු පානය කළ  පුද්ගලයින් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-04-01 11:47:39* · [`adalk`](https://www.ada.lk/breaking_news/යතුරුපැදි-සොරාගෙන-විකුණා-කුඩු-පානය-කළ--පුද්ගලයින්-දෙදෙනෙක්-අත්අඩංගුවට/11-408876) · `si`
+
+ප්‍රදේශ රැසක මහමග  නතර කර තිබූ  යතුරු පැදි සොරාගෙන  අන්තර්ජාලයේ දැන්වීම් දමා අඩු මුදලට විකුණා හොරයින් මත්කුඩු පානය කළ යතුරුපැදි කාර්මිකයකු ඇතුළු පුද්ගලයන් දෙදෙනකු අත්අඩංගුවට ගත් බව බොරලැස්ගමුව පොලිසිය කියයි.
+
+එම සැකකරුවන් දෙදෙනා සමග  සොරා ගත් රුපියල් ලක්ෂ 25 ක් පමණ වටිනා යතුරුපැදි හයක් සොරකමට යොදාගත් යතුරුපැදිය ටයර් දෙකක්, දෙකක් වෙනත් යතුරුපැදි පහක අංකත තහඩු 5 ක් සහ, සැකකාර යතුරුපැදි කාර්මිකයකු සන්තකයේ තිබූ හොරයින් මත්කුඩු මිලිගෑම් 12400 ක්  පොලිස් භාරයට ගෙන ඇත.
+
+ඔහු කාලයක සිට හෝකන්දර උතුර ප්‍රදේශයේ තවත් පුද්ගලයෙකු සමග එක්ව සිදුකළ  යතුරුපැදි සොරකම් හයක තොරතුරු අනාවරණය කර ගැනීමට හැකිවූ බව පොලිසිය කියයි.
+
+ඒ අතර  සැකකරුවන් දෙදෙනා එක්ව ඉකුත් මස 8 වෙනි දින බොරලැස්ගමුව  සෝමරත්න මාවතේ නිවසක් ඉදිරිපිට නතර කර තිබූ යතුරුපැදියක් සොරා ගැනීම සම්බන්ධයෙන්  හා මිරිහාන  මහරගම දෙහිවල ගල්කිස්ස හා හෝමාගම ආදී පොලිස් වසම් සිදු කළ තවත් යතුරු පැදි සොරකම් පහක තොරතුරු අනාවරණය කර ගැනීමට හැකිවූ බව විමර්ශන පවත්වන නිලධාරියකු පැවසීය.
+
+...
+
+[Data](articles/ef59c51a.json)
 
 ---
 
@@ -237,6 +375,8 @@ Fuel prices are revised on the first of each month. Wijesekera provided a CPC fu
 ...
 
 [Data](articles/72c0845c.json)
+
+[Extended Data](ext_articles/72c0845c.ext.json)
 
 ---
 
@@ -384,6 +524,24 @@ He was arrested following information received by the police and after a long in
 
 ---
 
+### අභිරහස් ලෙස මියගිය සූපවෙදියාගෙ මරණයට විවෘත තීන්දුවක්
+
+*2024-04-01 11:10:34* · [`adalk`](https://www.ada.lk/breaking_news/අභිරහස්-ලෙස-මියගිය-සූපවෙදියාගෙ-මරණයට-විවෘත-තීන්දුවක්/11-408875) · `si`
+
+තලවතුගොඩ උතුවන්කන්ද හන්දිය ආසන්නයේ මහමග වැටී අභිරහස් ලෙස මියගොස් සිටි සූපවේදියකුගේ මළ සිරුරක් සොයාගත් බව තලංගම පොලිසිය පවසයි.
+
+මෙසේ මියගොස් ඇත්තේ පන්නිපිටිය කොට්ටාව ගැමුණු පුර 2  පටුමග  පදිංචි  ශාන් මධුසංක නමැති (35) හැවිරිදි අවිවාහක සූපවේදියකු බව පොලිසිය කියයි.
+
+මෙම පුද්ගලයා තලවතුගොඩ උතුවන්කන්ද හන්දිය ආසන්නයේ එළවළු වෙළඳසැලක් අසල මහමග වැටී සිටියදී අසල්වාසීන් විසින් 119 හදිසි ඇමතුම් අංකයට දන්වා ඇති අතර ඒ අනුව පොලිසිය පැමිණ 1990 සුවසැරිය ගිලන් රථයක් ගෙන්වා රෝහල්ගත කිරීමට යාමේදී ඔහු මියගොස් ඇති බවට අනාවරණය වී තිබේ.
+
+ඒ අනුව මෘත දේහය  එම ස්ථානයෙන් ඉවත් නොකොට තලංගම හදිසි මරණ පරීක්ෂිකා සාම මිනිසුරු ප්‍රේමලතා අබේවර්ධන මහත්මිය ස්ථානීය පරීක්ෂණයක් සඳහා කැඳවන ලදී. එම අවස්ථාවේදී මෘත දේහය අසල  මත්පැන් තිබූ බෝතලයක් සහ වස තිබූ බෝතලයක් තිබී හමු වූ බව පැවසේ.
+
+...
+
+[Data](articles/2f69ed03.json)
+
+---
+
 ### Sri Lankan saves Melbourne woman from romance scam
 
 *2024-04-01 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98339/sri-lankan-saves-melbourne-woman-from-romance-scam) · `en`
@@ -443,6 +601,22 @@ Accordingly, Lalanthi Perera of Kalutara will be summoned for her post which cal
 [Data](articles/76478f3e.json)
 
 [Extended Data](ext_articles/76478f3e.ext.json)
+
+---
+
+### පුතු නිවසේ නැති අතරේ මවට අත්වූ ඉරණම
+
+*2024-04-01 10:57:34* · [`adalk`](https://www.ada.lk/breaking_news/පුතු-නිවසේ-නැති-අතරේ-මවට-අත්වූ-ඉරණම/11-408874) · `si`
+
+ඊයේ (31) වන දින සවස් කාලයේදී දංයකාටුව - කටුකෙන්ද පොලිස්  ප්‍රයේශයේ නිවසක් තුල කාන්තාවක් ඝාතනය කර ඇති බව දංකොටුව පෙලීසිය පවසයි.
+
+මෙම කාන්තාව හා ඇගේ පුත්‍රයා කටුකෙන්ද පුදේශයේ උළු කම්හලකට අයත් නිවසක පදිංචිව සිට ඇති අතර ඊයේ (31) දින උදෑසන ඇයයේ පුත්‍රයා නිවසින් බැහැරව ගොස් තිබිණි. සවස් කාලයේ නැවතත් නිවසට පැමිණ මව පිළිබඳ සොයා බැලීමේදී නිව‌සේ කාමරයක් තුල ගෙල සිරකර ඝාතනය කර තිබූ සිය මවයේ සිරුර දැක ඇති බවට පෙලීසිය සිදුකළ විමර්ශනයේදී අනාවරණය වී ඇත. මියගිය කාන්තාව වයස අවුරුදු 52 ක තැනැත්තියකි.
+
+අපරාධයට දම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා දං‌කොටුව පොලිසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/497ebe79.json)
 
 ---
 
@@ -603,6 +777,24 @@ He said that he has been invited to lect on the current political situation. Dur
 [Data](articles/c1a26e9a.json)
 
 [Extended Data](ext_articles/c1a26e9a.ext.json)
+
+---
+
+### මැදපෙරදිග සේවයකළ බිරිඳ හාම්පුතා සමඟ පැමිණෙයි, උරණ වූ ගෙට ගිනි තියලා, සැමියාගේ පියා මරුට
+
+*2024-04-01 10:39:27* · [`adalk`](https://www.ada.lk/breaking_news/මැදපෙරදිග-සේවයකළ-බිරිඳ-හාම්පුතා-සමඟ-පැමිණෙයි--උරණ-වූ-ගෙට-ගිනි-තියලා--සැමියාගේ-පියා-මරුට/11-408873) · `si`
+
+බිබිල පොලිස් වසමට අයත් මඩකලපුව පාර වැලිපොතයාය ප්‍රදේශයේ පදිංචි කාන්තාවක් කුවේට් දේශයේ රැකියාවක නිරතව සිට මීට දින කිහිපයකට පමණ ඉහතදී හාම්පුතා සහ හාම්පුතාගේ රියදුරු සමඟ පැමිණීම නිසා බිරිඳ සහ සැමියා අතර ඇතිවූ විරසකයක් දුරදිගයාමෙන් සැමියා විසින් බිරිඳට, හාම්පුතාට සහ රියදුරුට පහරදී ඉකුත් (30) වෙනිදා නිවසට ගිනිතැබීම නිසා නිවසේ සිටි සැමියාගේ පියා මියයාමේ සිද්ධියක් පිළිබඳව බිබිල පොලීසිය පරීක්ෂණ පවත්වයි.
+
+අවුරුදු 40 පමණ වයසැති මෙම කාන්තාව කුවේට් රාජ්‍යයේ රැකියාවක නිරතව සිට 80 හැවිරිදි අබ්දුල් සේඩ් අලබල්ලයන් නැමති තම හාම්පුතා සහ රියදුරු වන කේ.කේ නාමල් යන අය සමඟ නිවසට පැමිණ ඇත.
+
+මීට පෙරද ඇය අවස්ථා කිහිපයකදී හාම්පුතා සමඟ නිවසට පැමිණ තිබේ.ඒ සම්බන්ධයෙන් සැමියා සහ බිරිඳ අතර ආරවුලක් ඇතිවී සැමියා බිරිඳට සහ ඇය සමඟ පැමිණි කුවේට් ජාතිකයාට සහ රියදුරුට පහරදී නිවසට ගිනි තබා ඇත.
+
+ඇය කුවේට් ජාතිකයා සහ රියදුරු බිබිල මූලික රෝහලේ ප්‍රතිකාරලබමින් පසුවේ.
+
+...
+
+[Data](articles/f52b707a.json)
 
 ---
 
@@ -812,6 +1004,8 @@ The Colombo Stock Exchange opened down; the All Share Price Index was down 0.21 
 
 [Data](articles/b014a7a6.json)
 
+[Extended Data](ext_articles/b014a7a6.ext.json)
+
 ---
 
 ### Very special to those who have not received the revenue
@@ -879,6 +1073,8 @@ The delegation came after an earlier visit by Hambantota Port to Thailand.
 ...
 
 [Data](articles/c1e68d66.json)
+
+[Extended Data](ext_articles/c1e68d66.ext.json)
 
 ---
 
@@ -1428,6 +1624,8 @@ The current account surplus is roughly the mirror image of the financial (and ca
 
 [Data](articles/b99f7a2d.json)
 
+[Extended Data](ext_articles/b99f7a2d.ext.json)
+
 ---
 
 ### Sri Lanka’s Rajapakshe says in discussion with religious leaders on common presidential candidate
@@ -1445,6 +1643,8 @@ In his response to media over possibility of becoming a common candidate, he sai
 ...
 
 [Data](articles/99c867eb.json)
+
+[Extended Data](ext_articles/99c867eb.ext.json)
 
 ---
 
@@ -1975,217 +2175,5 @@ I am trying to unite the party, leadership and other parties. In our party, the 
 [Data](articles/c9b1d791.json)
 
 [Extended Data](ext_articles/c9b1d791.ext.json)
-
----
-
-### Official announcement of presidential election in July and August - Independent Election Commission
-
-*2024-04-01 01:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180098) · `ta`
-
-The Independent Election Commission will announce the presidential election in July or August, with voting from September 17 to October 17. The current election law will be used, and the new voter list for 2024. Voter registration is ongoing, expected to finish by July, with an estimated cost of 10 billion rupees.
-
-🟩
-
-The Independent Election Commission has announced that an official announcement will be made at the end of July or early August on the presidential election.
-
-Commission Chairman RMAL Ratnayake said the election would be held between September 17 and October 17.
-
-He added that the current election law would manage the election process. He said the new voter list would be used for 2024 for the upcoming presidential election.
-
-While voter registration work is currently underway, it is expected to be completed by July. The estimated cost of the upcoming presidential election is 10 billion rupees.
-
-◼️
-
-[Data](articles/10dc75b6.json)
-
-[Extended Data](ext_articles/10dc75b6.ext.json)
-
----
-
-### Maithripala Sirisena's recent behavior reveals that his mood is not correct - Mahinda Amaraweera regarding the dismissal
-
-*2024-04-01 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/180097) · `ta`
-
-Maithripala Sirisena's recent actions suggest a negative mood, despite dismissals without formal reasons. Minister Mahinda Amaraweera criticizes the lack of transparency and the removal from positions, calling it an attempt to separate from the Sri Lanka Freedom Party. He accuses the coalition of legal action and describes the situation as imperialistic, vowing to fight it in court.
-
-🟩
-
-Former President Maithripala Sirisena's recent behavior reveals that his mood is not correct. We have been sacked from positions without any formal factors presented. Minister Mahinda Amaraweera said that we can never be separated from the Sri Lanka Freedom Party.
-
-He further stated at a press conference held in Colombo on Saturday (30).
-
-We have been removed from the positions. He called for a special discussion and would not allow us to present his comments and make any comments to us.. But even the correct allegations are not put forward on us.
-
-Indicate that the coalition has been sued. He is well aware of why the case was filed. However, in his behaviors these days there is a stumbling block. From his comments, it is clear that his mood is not correct.
-
-However, we will definitely go to court against this illegal action. We are not aware that we are so unjust. Party membership is not removed. We have only been removed from the posts. We see this as imperialism.
-
-...
-
-[Data](articles/8f8cfe9e.json)
-
-[Extended Data](ext_articles/8f8cfe9e.ext.json)
-
----
-
-### Opposition leader warns the government
-
-*2024-04-01 01:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180096) · `ta`
-
-Opposition leader Sajith Premadasa warns against reducing the age of consent to 14, threatening demonstrations if the amendment isn't withdrawn. He emphasizes the need for constitutional amendments to protect women and children's rights, aiming to increase women's participation in the workforce and address issues like sexual harassment.
-
-🟩
-
-The government has put forward amendment to the Penal Code to reduce the age of women's sexual relations from 16 to 14. Opposition leader Sajith Premadasa warned the government that if the government does not recover the amendment during the parliamentary session this week, we will be prepared for massive demonstrations.
-
-He further stated that the United People's Power Women's Conference was held in Badulla on Sunday (31).
-
-The safety of girls and boys in the Constitution is not clearly confirmed. So I promise that the constitutional amendment will be made to include the rights of women and children in basic rights. Our goal is to 'modern women'. We will carry out the People's Power Women Development Program to create modern women in the country.
-
-...
-
-[Data](articles/ad524eff.json)
-
-[Extended Data](ext_articles/ad524eff.ext.json)
-
----
-
-### The hill country Hindu clergymen met Anura
-
-*2024-04-01 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180095) · `ta`
-
-Hill country Hindu clergy met with Anura Kumara Dissanayake, discussing home and land issues, and enhancing Hinduism and culture. Dissanayake addressed political solutions and current conditions affecting the hill country's people.
-
-🟩
-
-The Hindu clergy of the hill country met with the National People's Power President Comrade Anura Kumara Dissanayake on Sunday (31) at the headquarters of the Janatha Vimukthi Peramuna (JVP).
-
-The hill country of the people of the hill country brought to the notice of Comrade Anura Kumara Dissanayake on the issue of the homes and land issues of the hill country, and the improving Hinduism and culture in the hill country.
-
-Comrade Anura Kumara Dissanayake made it clear that the long -standing conversation was on the issue of the people of the hill country and what kind of political solutions and current political and economic conditions.
-
-◼️
-
-[Data](articles/a939358f.json)
-
-[Extended Data](ext_articles/a939358f.ext.json)
-
----
-
-### Opposition protest in Kalmunai demanding justice for a life -threatening Sunday attack
-
-*2024-04-01 00:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/180094) · `ta`
-
-Protest in Kalmunai demands justice for Sunday attack, led by Kripairaja, marking five years since suicide bombings.
-
-🟩
-
-On Sunday (31), there was a protest in front of the Kalmunai Iridayanathar Temple and that the Christian people living in Kalmunai had no justice for the survival Sunday attack and should be immediately investigated.
-
-The protest was led by worship pastor Kripairaja, and demanded justice for the survival Sunday attack on protest slogans.
-
-Five years have passed since the suicide bombings on Sunday, a specialist in the Christian churches across the country.
-
-◼️
-
-[Data](articles/e2062cd8.json)
-
-[Extended Data](ext_articles/e2062cd8.ext.json)
-
----
-
-### Bunker demand rises across Sri Lankan ports
-
-*2024-04-01 00:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bunker-demand-rises-across-Sri-Lankan-ports/108-279907) · `en`
-
-As shipowners and charters continue to take longer voyages to avoid Red Sea, bunker demand across ports on India’s west coast has risen and VLSFO supplies at the ports of Kochi and Mumbai remain disrupted.
-
-Despite the increased demand, price movements were mixed as of March 28. Platts, part of S&P Global Commodity Insights, assessed 0.5 percent marine fuel oil delivered to Kochi at US $ 700/mt CFR, up US $ 20/mt on the week, while in Mumbai, prices fell to US $ 698/mt, down US $ 8/mt.
-
-In Sri Lanka, prices at Colombo were assessed at US $ 700/mt, down US $ 7/mt on the week, according to S&P Global data.
-
-“Demand has substantially increased, almost by 30 percent across Mumbai, Kochi and Gujrat ports. Long haul vessels are calling more often now. The volumes that were being lifted at King Abdullah port, Yanbu, Djibouti and Suez Canal have now shifted to Indian and Sri Lankan ports,” a Gujarat-based trader told S&P Global.
-
-...
-
-[Data](articles/afbad663.json)
-
-[Extended Data](ext_articles/afbad663.ext.json)
-
----
-
-### Is the Chinese economy doomed as some forecasts say?
-
-*2024-04-01 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Is-the-Chinese-economy-doomed-as-some-forecasts-say/172-279898) · `en`
-
-One should be cautious about making doomsday predictions, and should not  forget the resilience, determination and energy which made it possible  to lift millions of Chinese out of poverty in two decades
-
-While social media is packed with doomsday predictions of the American economy (Europe isn’t doing any better, either), there is an equal or greater number of videos forecasting the decline of China, an economic juggernaut that looked set to overtake the US before the pandemic.
-
-When navigating across this sea of negative analyses of China, from American, European or Indian sources, one must bear in mind that there are those who either dislike or fear China enough to wish it economic doom.
-
-...
-
-[Data](articles/3587b52c.json)
-
-[Extended Data](ext_articles/3587b52c.ext.json)
-
----
-
-### Lanka’s foreign debt and Chinese puzzle - EDITORIAL
-
-*2024-04-01 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Lankas-foreign-debt-and-Chinese-puzzle-EDITORIAL/172-279897) · `en`
-
-In March this year, President Wickremesinghe in an interview said Lanka was committed to repaying its debt within the period 2027-2042. The president said he expected the ongoing debt restructuring negotiations would bring the annual external debt payments down to 4% of GDP.
-
-The country’s foreign reserves, which stood at less than $20 million in April 2022 at the height of the economic crisis, now stand at over $3 billion, Wickremesinghe said.
-
-For long, the International Monetary Fund, the World Bank and Western nations have claimed the delay in rescheduling Lanka’s international debt was China-which holds the largest share of our foreign debt. It was also claimed Sri Lanka was caught in a Chinese debt trap caused by taking loans to an extent they cannot be repaid.
-
-They warned Lanka would ultimately end up with China taking over assets of the country to meet the bill.
-
-...
-
-[Data](articles/94323bef.json)
-
-[Extended Data](ext_articles/94323bef.ext.json)
-
----
-
-### Trade account reflects normalising economy
-
-*2024-04-01 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Trade-account-reflects-normalising-economy/108-279920) · `en`
-
-Both imports & exports up in a sign of synchronised reinvigoration across all sectors
-
-The deficit in the trade account of the Balance of Payment (BoP) widened in February from a year ago on higher imports as the economy normalises. But it narrowed from a month earlier levels significantly due to less spending on fuel imports as the demand had been lower than expected.
-
-Sri Lanka imported goods worth US$ 1,378 million and exported goods valued US$ 1,059 million to record a negative trade balance of US$ 319 million for February, nearly ten times the level of US$ 39 million a year ago as the economy was under pressure due to limited foreign exchange at the time.
-
-However, on a month-on-month basis, the deficit was much lower than the US$ 541 million recorded in January as exports strengthened while imports fell due to aforementioned reasons.
-
-...
-
-[Data](articles/0d2dca66.json)
-
-[Extended Data](ext_articles/0d2dca66.ext.json)
-
----
-
-### Anti-privatization statements will depress bid prices: Will JVP be held accountable?
-
-*2024-04-01 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Anti-privatization-statements-will-depress-bid-prices-Will-JVP-be-held-accountable/172-279896) · `en`
-
-Sunil Handunetti, a senior and respected leader of the JVP, has urged the government not to sell (and potential buyers not to buy) state-owned enterprises such as the SriLankan Airlines, SLT and Litro, for which requests for proposals have been called.
-
-He implicitly threatens to expropriate the sold entities. The Ceylon Electricity Board (CEB) is also mentioned, but there is no such process underway for it.
-
-This coincided with the government taking USD 210 million in dollar loans and LKR 41.4 billion in rupee loans off the Airline’s books. This has, understandably, angered many members of the public. They argue that wrong decisions led an airline that once paid dividends to the Treasury to come to this sorry state. They argue that those who made these decisions should be held to account.
-
-...
-
-[Data](articles/2bcba863.json)
-
-[Extended Data](ext_articles/2bcba863.ext.json)
 
 ---

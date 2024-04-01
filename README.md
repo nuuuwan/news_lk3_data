@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 13:18:04**
+As of **2024-04-01 13:35:00**
 
 ## Newspaper Stats
 
-*Scraped **16,351** Articles*
+*Scraped **16,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 881
 economynextcom | 893
 islandlk | 912
 adalk | 1,374
-tamilmirrorlk | 1,955
-adaderanalk | 1,970
-virakesarilk | 2,319
+tamilmirrorlk | 1,956
+adaderanalk | 1,971
+virakesarilk | 2,323
 dailymirrorlk | 2,517
 adaderanasinhalalk | 2,648
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 2,648
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,349 (100.0%) of 16,351 articles have been extended.
+16,351 (100.0%) of 16,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### ஆப்கானில் கண்ணிவெடியில் சிக்கி 9 சிறார்கள் பலி
+
+*2024-04-01 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180130) · `ta`
+
+ஆப்கானிஸ்தானில் கண்ணிவெடியொன்றில் சிக்கி 9 சிறார்கள் உயிரிழந்துள்ளனர் என அதிகாரி ஒருவர் இன்று தெரிவித்துள்ளார்.
+
+ஆப்கானிஸ்தானில் ரஷ்ய படையெடுப்பு காலத்தில் புதைக்கப்பட்டிருந்த கண்ணிவெடியொன்றே வெடித்துள்ளதாக அம்மாகாண அதிகாரி தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/6f934c70.json)
+
+---
+
+### 75 அடி பள்ளத்தில் பொலேரோ: 10 பேர் படுகாயம்
+
+*2024-04-01 13:09:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/75-அடி-பள்ளத்தில்-பொலேரோ-10-பேர்-படுகாயம்/76-335451) · `ta`
+
+பதினைந்து பேரை ஏற்றிச் சென்ற பொலேரோ ரக ஜீப் ஒன்று பண்டாரவளையில் இருந்து ரம்புக்கனை நோக்கி பயணித்த போது கம்பளை நெட்டாபிட்டிய பிரதேசத்தில் வீதியை விட்டு விலகி சுமார் 75 அடிக்கு கீழே கவிழ்ந்துள்ளதாக கம்பளை பொலிஸார் தெரிவித்தனர். காயமடைந்த 10 பேர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர் என்றும் பொலிஸார் தெரிவித்தனர்.
+
+பண்டாரவளை பிரதேசத்தில் இடம்பெற்ற இறுதி ஊர்வலத்தில் கலந்து கொண்டு இரவு வந்த இந்தக் குழுவினர் திங்கட்கிழமை (01) அதிகாலை 4 மணியளவில் இந்த விபத்திற்கு முகங்கொடுத்துள்ளனர்.
+
+மூன்று நாட்களாக இறுதி ஊர்வலத்தில் இருந்த இந்தக் குழுவினர், வேலைக்குச் செல்லும் நோக்கில் கிராமங்களுக்குச் திரும்பியுள்ளனர். டிரைவர் தூங்கியதால் விபத்து நடந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+சிறிய குழந்தைகள் உட்பட ஆறு பெண்களும் ஒன்பது ஆண்களும் இ​தில் பயணித்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/b9d0b1b7.json)
+
+---
+
+### Sri Lanka records over 635,000 tourist arrivals in first three months of 2024
+
+*2024-04-01 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98344/sri-lanka-records-over-635000-tourist-arrivals-in-first-three-months-of-2024-) · `en`
+
+Sri Lanka has recorded over 635,000 tourist arrivals within the first three months of this year.
+
+Minister of Tourism Harin Fernando stated that the total tourist arrivals for year 2024 as of March 31 stand at 635,784.
+
+Posting on X (formerly Twitter), Fernando mentioned that Sri Lanka has recorded 209,181 arrivals in the month of March and that accordingly, the first three months of 2024 have all surpassed 200,000 tourist arrivals.
+
+◼️
+
+[Data](articles/0f78a0a3.json)
+
+---
 
 ### AG’s Department has done its duty, other institutions should act: Minister
 
@@ -45,6 +93,24 @@ Leader of the House Susil Premajayantha informed the Parliament that the Attorne
 ...
 
 [Data](articles/a911c792.json)
+
+[Extended Data](ext_articles/a911c792.ext.json)
+
+---
+
+### மதுரங்குளி பிரதேசத்தில் வீடொன்றில் தீ
+
+*2024-04-01 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180119) · `ta`
+
+இதன்போது வீட்டிற்கு அருகில் நிறுத்தி வைக்கப்பட்டிருந்த வாகனங்கள் சேதமடைந்துள்ளதாகவும், உயிர் சேதங்கள் எதுவும் ஏற்படவில்லை எனவும் பொலிஸார் தெரிவித்தனர்.
+
+இந்த சம்பவம் நேற்றிரவு 11 மணியளவில் இடம்பெற்றதோடு, சிலாபம் மாநகர சபையின் தீயணைப்பு பிரிவினர் தீயணைப்பு பணிகளில் ஈடுபட்டுள்ளனர்.
+
+அத்தோடு, இந்த பிரதேசத்தில் வாழும் இருவரால் வீட்டிற்கு தீ வைக்கப்பட்டிருக்கலாம் என சந்தேகிக்கப்படுவதாக பொலிஸார் தெரிவித்த நிலையில், அப் பிரதேசத்தின் டின் மீன் தொழற்சாலை தொடர்பாக வீட்டின் உரிமையாளருடன் ஏற்பட்ட பிரச்சினையின் காரணமாகவே தீ விபத்து இடம் பெற்றுள்ளதாக விசாரணையில் தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/f571b2ec.json)
 
 ---
 
@@ -75,6 +141,32 @@ It was also reported that problems have arisen regarding the water quality of th
 [Data](articles/37e8f99b.json)
 
 [Extended Data](ext_articles/37e8f99b.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-04-01 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/180128) · `ta`
+
+இன்று திங்கட்கிழமை (ஏப்ரல் 01) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 295.5750 ஆகவும் விற்பனை விலை ரூபா 305.1018 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/608d6598.json)
+
+---
+
+### சட்டமூலங்களின் பரிசீலனைக்கு உறுப்பினர்கள் நியமனம் - சபாநாயகர் சபைக்கு அறிவிப்பு
+
+*2024-04-01 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/180127) · `ta`
+
+“சவீர மன்றம் (கூட்டிணைத்தல்)” எனும் சட்டமூலத்தின் பரிசீலனைக்கென 113 (2) ஆம் இலக்க பாராளுமன்ற நிலையியற் கட்டளையின் பிரகாரம் சட்டவாக்க நிலையியற் குழுவில் சேவையாற்றும் பொருட்டு  அனுப பஸ்குவல்,  (கலாநிதி) சரத் வீரசேக்கர, (மேஜர்) சுதர்ஷன தெனிபிடிய, கௌரவ மாயாதுன்ன சிந்தக அமல்,   லலித் வர்ண குமார,  ரோஹண பண்டார,  அசங்க நவரத்ன மற்றும்   உதயன கிரிந்திகொட ஆகிய பாராளுமன்ற உறுப்பினர்களை மேலதிக உறுப்பினர்களாக நியமித்துள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன இன்று (01) பாராளுமன்றத்தில் அறிவித்தார்.
+
+“தண்டனைச் சட்டக்கோவை (திருத்தம்)” எனும் சட்டமூலத்தின் பரிசீலனைக்கென சட்டவாக்க நிலையியற் குழுவில் சேவையாற்றும் பொருட்டு ஜீவன் தொண்டமான், தாரக்க பாலசூரிய, அநுராத ஜயரத்ன, (திருமதி) டயனா கமகே, புத்திக பத்திறண, மொஹமட் முஸம்மில், (திருமதி) முதிதா பிரிஸான்தி மற்றும் கெவிந்து குமாரதுங்க ஆகிய பாராளுமன்ற உறுப்பினர்கள் மேலதிக உறுப்பினர்களாக நியமிக்கப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/513cc45b.json)
 
 ---
 
@@ -2141,111 +2233,5 @@ Liew Nam Soon Asean Regional Managing Partner as well as EY Singapore and Brunei
 [Data](articles/47c9db21.json)
 
 [Extended Data](ext_articles/47c9db21.ext.json)
-
----
-
-### Dhaka Chamber of Commerce and Industry discusses economic cooperation with High Commission of Sri Lanka
-
-*2024-04-01 03:34:16* · [`dailyftlk`](https://www.ft.lk/business/Dhaka-Chamber-of-Commerce-and-Industry-discusses-economic-cooperation-with-High-Commission-of-Sri-Lanka/34-760161) · `en`
-
-High Commissioner of Sri Lanka to Bangladesh Dharmapala Weerakkody accompanied by Counsellor/Commerce of the High Commission Srimali Jayarathne held a productive meeting with the newly appointed President of the Dhaka Chamber of Commerce and Industry (DCCI) Ashraf Ahmed on 24 March at the DCCI office in Dhaka.
-
-During the meeting, DCCI President Ashraf Ahmed appreciated the close bilateral economic cooperation between the two countries and emphasised the importance of further expanding mutually beneficial partnership in the bilateral trade and investment sectors particularly in the areas of healthcare and hospitality. The DCCI President further highlighted the investment opportunities available for Sri Lanka in Bangladesh in the field of deep-sea fishing. The DCCI also pledged its continuous support to arrange B2Bs, seminars, and organise other related activities in order to promote bilateral economic relations between the two countries.
-
-...
-
-[Data](articles/39b62372.json)
-
-[Extended Data](ext_articles/39b62372.ext.json)
-
----
-
-### PRISL holds strategic workshop on future of tyre and rubber products industry
-
-*2024-04-01 03:33:45* · [`dailyftlk`](https://www.ft.lk/business/PRISL-holds-strategic-workshop-on-future-of-tyre-and-rubber-products-industry/34-760160) · `en`
-
-The Plastics and Rubber Institute of Sri Lanka (PRISL) held a highly successful high level strategic workshop titled “Navigating the Future: Sustainability, Innovation and Compliance, in the Tyre and Rubber Products Industry” on 15 and 16 March at the BMICH, Colombo.
-
-The chief resource person was the Indian Rubber Institute Chairman Dr. R. Mukhopadhyay while the local support was provided by Dr. Upul Ratnayaka and Devaki Rodrigo of Dipped Products Ltd., a leading latex glove manufacturer, and Colombo Rubber Traders Association (CRTA) Chairman Manoj Udugampola. The Inauguration ceremony, was graced by some senior officials from the Sri Lanka Export Development Board, and the Ministry of Industries as well Polymer Advisory Council  Chairman and PRISL Past President Kaushal Rajapaksa and  Sri Lanka Association of Manufacturers and Exporters of Rubber Products (SLAMERP) Chairman Pushpika Janadheera, and Director General Dr. Sisira Ranathunga.
-
-...
-
-[Data](articles/609df672.json)
-
-[Extended Data](ext_articles/609df672.ext.json)
-
----
-
-### Lawyers trained in mediation advocacy
-
-*2024-04-01 03:31:30* · [`dailyftlk`](https://www.ft.lk/business/Lawyers-trained-in-mediation-advocacy/34-760159) · `en`
-
-A training for lawyers on “Mediation Advocacy” was organised by the International ADR Center (IADRC) on 26 and 27 March.
-
-Resource persons from the Singapore International Mediation Center (SIMC) provided the training for 24 lawyers drawn from among chambers of private practitioners, from leading law firms, corporates and the Attorney General’s department.
-
-Globally, mediation is fast becoming a preferred method of dispute resolution because of the several benefits it offers. It is expeditious (usually completed in a single day or a few months), cost effective, has the potential to find resolutions to satisfy the interests of disputants and to restore fractured relationships. Mediation is used for the resolution of all categories of disputes ranging from Investor-State, Intellectual Property, Family, Trade and Business to Construction and Creditor-Debtor disputes.
-
-...
-
-[Data](articles/09aeeef2.json)
-
-[Extended Data](ext_articles/09aeeef2.ext.json)
-
----
-
-### Dr. Pethiyagoda to speak on ‘Cashing in on Climate’ at BALPP 6th Eminence Lecture
-
-*2024-04-01 03:30:18* · [`dailyftlk`](https://www.ft.lk/business/Dr-Pethiyagoda-to-speak-on-Cashing-in-on-Climate-at-BALPP-6th-Eminence-Lecture/34-760158) · `en`
-
-The 6th Eminence Lecture hosted by the Bandaranaike Academy for Leadership and Public Policy (BALLP) on 9 April at 4.30 p.m. at the BMICH is by renowned environmentalist Dr. Rohan Pethiyagoda.
-
-Dr. Pethiyagoda, whose expertise in conservation biology and natural history has garnered international acclaim. Pethiyagoda, the recipient of the Linnean Medal in 2022, which is considered the “Nobel Prize for naturalists”, brings a wealth of knowledge and experience to this discussion on the intersection of climate change and evidence-based policy making.
-
-Dr. Pethiyagoda argues for calm, in the face of climate emergency rhetoric. He advocates that Sri Lanka should study the science and calmly evaluate policy options, putting reality ahead of rhetoric.
-
-...
-
-[Data](articles/1e940b9a.json)
-
-[Extended Data](ext_articles/1e940b9a.ext.json)
-
----
-
-### CBSL salary hike: Is it the Governor who is responsible?
-
-*2024-04-01 02:22:40* · [`dailyftlk`](https://www.ft.lk/opinion/CBSL-salary-hike-Is-it-the-Governor-who-is-responsible/14-760146) · `en`
-
-CBSL governing board (from left): Dr. P. Nandalal Weerasinghe, Nihal Fonseka, Dr. Ravi Rathnayake, Anushka Wijesinha, Vish Govindasamy, Rajeev Amarasuriya, Manil Jayesinghe
-
-Not only the rule of law but the spirit of the law is vital during a crisis
-
-The last few weeks have seen a massive media interest and public attention on the salary hikes amounting up to 70% at the Central Bank of Sri Lanka (CBSL) at a time of an economic downfall in the country. I welcome the recommendations made by the Committee on Public Finance (COPF) at the Parliament and the acceptance of the recommendations by the CBSL governor and the staff to re-visit and reverse the proposed increase in the national interest.
-
-There is a clear attempt to target the Governor of the Central Bank, Dr. Nandalal Weerasinghe, and make him the scapegoat for the proposed increases. This in my view is politically motivated by many who were responsible for the economic downfall of the country.
-
-...
-
-[Data](articles/f39f04d8.json)
-
-[Extended Data](ext_articles/f39f04d8.ext.json)
-
----
-
-### DDR for Sri Lanka and SLR for CBSL:  CB Governor’s rationale is puerile
-
-*2024-04-01 02:19:05* · [`dailyftlk`](https://www.ft.lk/opinion/DDR-for-Sri-Lanka-and-SLR-for-CBSL-CB-Governor-s-rationale-is-puerile/14-760145) · `en`
-
-Governor of the Central Bank, Dr. Nandalal Weerasinghe having made the blunder of unilaterally deciding to grant a phenomenal and unprecedented increase in the emoluments for the Central Bank (CB) staffers has further aggravated the issue by citing that for some employees the take home salary will be negative if the revised salary is not granted.
-
-I would like the CB Governor to elaborate as to how the take home salary will be negative because of the loan given to the staff? It is normal that when an employer grants a loan to an employee, the loan amount is such that it is recovered in instalments over a period of time whilst the employee at the same time gets a reduced amount of take home pay (because of the deduction of the loan).
-
-For the take home pay to be negative, I think that the Governor has made an additional blunder having given a colossal sum as loan which if it is to be recovered, within a short period of time, from the salary will make the take home salary negative!
-
-...
-
-[Data](articles/1dc1793d.json)
-
-[Extended Data](ext_articles/1dc1793d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 13:03:10**
+As of **2024-04-01 13:18:04**
 
 ## Newspaper Stats
 
-*Scraped **16,349** Articles*
+*Scraped **16,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,62 @@ adalk | 1,374
 tamilmirrorlk | 1,955
 adaderanalk | 1,970
 virakesarilk | 2,319
-dailymirrorlk | 2,515
+dailymirrorlk | 2,517
 adaderanasinhalalk | 2,648
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,348 (100.0%) of 16,349 articles have been extended.
+16,349 (100.0%) of 16,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### අනතුරට පත් නෞකාවේ විෂ සහිත අපද්‍රව්‍ය ප්‍රවාහනය කළ බවට අනාවරණයක්
+### AG’s Department has done its duty, other institutions should act: Minister
+
+*2024-04-01 13:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AGs-Department-has-done-its-duty-other-institutions-should-act-Minister/108-279960) · `en`
+
+The Attorney General's Department has implemented the action recommended by the Presidential Commission which probed the Easter Sunday attacks while it is up to other institutions to act, Minister of Justice Wijedasa Rajapakshe told Parliament today.
+
+“The Presidential Commission which probed the Easter Sunday attacks made recommendations to various institutions such as the Attorney General’s Department and the police. The Attorney General’s Department had filed 41 court cases against 79 persons as of now. It is essential for the other institutions such as the police to implement the other recommendations of the Presidential Commission,” the Minister said.
+
+Leader of the House Susil Premajayantha informed the Parliament that the Attorney General’s Department has already begun a legal exercise on the recent remark made by former President Maithripala Sirisena that he is aware of the mastermind behind the Easter Sunday attacks.
+
+...
+
+[Data](articles/a911c792.json)
+
+---
+
+### Discovered that the toxic waste was transported in the vessel
 
 *2024-04-01 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195168) · `si`
 
-අමෙරිකාවේ බැල්ටිමෝර්හි පාලමක ගැටී අනතුරට පත් ශ්‍රී ලංකාව බලා යාත්‍රා කරමින් පැවැති නෞකාව තුළ විෂ සහිත අපද්‍රව්‍ය ප්‍රවාහනය කරමින් පැවති බව අමෙරිකානු මාධ්‍ය වාර්තා කරයි.
+A vessel carrying 56 toxic containers crashed in Baltimore, USA, affecting 984 feet and 746 tons of hazardous materials, including corrosive substances, fire complexes, explosives, and Lithium Iron batteries. The accident led to 14 containers falling into the river, and the US Transport Security Board is investigating the remaining 4,644 containers. Water quality issues have also been reported in the area.
 
-අමෙරිකාවේ බැල්ටිමෝර්හි ෆ්‍රැන්සිස් ස්කොට් කී පාලමේ ගැටී අනතුරට ලක්වූ ද ඩාලි බහාලුම් ප්‍රවාහන නෞකාව එම අනතුර සිදුවන විට ශ්‍රී ලංකාව බලා යාත්‍රා කරමින් පැවතියේය.
+🟩
 
-අඩි 984ක් දිගින් යුතු එම නෞකාව තුළ විෂ ද්‍රව්‍ය රැගත් බහාලුම් 56ක් තිබී ඇති බව අමෙරිකානු මාධ්‍ය වාර්තා කරයි.
+US media reports that crashed waste to Sri Lanka in Baltimore, USA, was transporting toxidated waste in Sri Lanka.
 
-ඔවුන්ට අනුව ඒ තුළ ටොන් 746ක් බරැති, විඛාදන, ගිනි ගන්නා සුළු, සංකීර්ණ ද්‍රව්‍ය සහ ප්‍රවාහනයේදී සැලකිලිමත්විය යුතු පුපුරන ද්‍රව්‍ය, ලිතියම් අයන් බැටරි ද තිබී ඇතැයි සඳහන් ය.
+The Dali Container Transport Board was sailing to Sri Lanka when the accident occurred while the accident occurred in Baltimao.
 
-අනතුර සිදුවූ අවස්ථාවේදී අදාළ බහාලුම්වලින් 14ක් ගංගාවට ඇදවැටී ඇතැයි ද මේ වාර්තාවල වැඩිදුරටත් දැක්වෙයි.
+The US media reports that 56 containers carrying toxins had been in the event of 984 feet.
 
-නෞකාව මත ඇති අනෙක් බහාලුම් 4,644 සම්බන්ධයෙන් අමෙරිකානු ප්‍රවාහන ආරක්ෂක මණ්ඩලය විමර්ශන සිදුකරමින් පවතී.
+According to them, 746 tons weighing 746 tonnes, corrosing, fire, complexes and explosives, and Lithium Iron batteries.
 
-එමෙන්ම වාර්තා වූයේ පැටැප්ස්කෝ ගංගාවේ ජලයේ ගුණාත්මකභාවය සම්බන්ධව ගැටලු මතුව ඇති බවයි.
+The 14 respective containers have been reduced to the river when the accident occurred.
+
+The US Transport Security Board is conducting further investigations into the other 4,644 containers on the ship.
+
+It was also reported that problems have arisen regarding the water quality of the Patpaesco.
 
 ◼️
 
 [Data](articles/37e8f99b.json)
+
+[Extended Data](ext_articles/37e8f99b.ext.json)
 
 ---
 
@@ -2225,21 +2247,5 @@ For the take home pay to be negative, I think that the Governor has made an addi
 [Data](articles/1dc1793d.json)
 
 [Extended Data](ext_articles/1dc1793d.ext.json)
-
----
-
-### Why elections for Presidency all political parties have promised to abolish?
-
-*2024-04-01 02:07:15* · [`dailyftlk`](https://www.ft.lk/columns/Why-elections-for-Presidency-all-political-parties-have-promised-to-abolish/4-760144) · `en`
-
-None in mainstream politics would lead this country on a right path to freedom, democracy and an inclusive society with socio-economic and cultural development. These political leaderships simply have no valid “development program” to back their criticism of the past and the present and their request for political power at the next “presidential” election. A larger crisis therefore is the timidity of the educated urban polity that has access to new information, new knowledge and new social discourses beyond geographical boundaries
-
-President Ranil Wickremesinghe is reported to have told the cabinet of ministers, priority has to be given to the IMF program to ensure economic stability and elections will have to be postponed till the IMF program is concluded. One newspaper report had it, the President had in fact informed the Election Commission too about postponing elections.
-
-...
-
-[Data](articles/2742624a.json)
-
-[Extended Data](ext_articles/2742624a.ext.json)
 
 ---

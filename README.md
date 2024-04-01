@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 06:21:20**
+As of **2024-04-01 06:58:32**
 
 ## Newspaper Stats
 
-*Scraped **16,251** Articles*
+*Scraped **16,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,123 @@ dbsjeyarajcom | 201
 newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 888
-islandlk | 900
+islandlk | 910
 adalk | 1,363
-tamilmirrorlk | 1,939
+tamilmirrorlk | 1,940
 adaderanalk | 1,959
 virakesarilk | 2,311
 dailymirrorlk | 2,500
-adaderanasinhalalk | 2,629
+adaderanasinhalalk | 2,630
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,251 (100.0%) of 16,251 articles have been extended.
+16,251 (99.9%) of 16,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### අද පළාත් කිහිපයකට වැසි හෝ ගිගුරුම් සහිත වැසි
+
+*2024-04-01 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195149) · `si`
+
+බස්නාහිර, දකුණ, සබරගමුව සහ ඌව පළාත්වල ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+වයඹ සහ මධ්‍යම පළාත්වලත් මන්නාරම සහ වව්නියාව දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+
+බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/e0a84210.json)
+
+---
+
+### John Keells Foundation initiates nutrition awareness sessions in schools
+
+*2024-04-01 04:48:00* · [`islandlk`](http://island.lk/john-keells-foundation-initiates-nutrition-awareness-sessions-in-schools/) · `en`
+
+John Keells Foundation (JKF), in collaboration with the Scaling Up Nutrition People’s Forum (SUN PF), successfully initiated a series of nutritional awareness sessions, as part of the ongoing School Nutrition Programme, targeting ten selected schools in the John Keells Praja Shakthi locations of Colombo 02 and Ja-Ela. The programme is aimed at fostering nutrition awareness and promoting sustainable practices such as school gardening to complement the school meal programme implemented previously.
+
+Awareness sessions were conducted from 5th to 7th March 2024 in two schools in Colombo 2 and during the period of 16th to 27th February 2024 in five schools in Ja-Ela, following a well-received session held in December 2023, in two schools in Colombo 2 benefiting a diverse audience of 1,211 students, teachers and parents.
+
+...
+
+[Data](articles/347690f0.json)
+
+---
+
+### Orzone exports first consignment of bottled mineral water to Sydney, Australia
+
+*2024-04-01 04:48:00* · [`islandlk`](http://island.lk/orzone-exports-first-consignment-of-bottled-mineral-water-to-sydney-australia/) · `en`
+
+Orzone Mineral Water Exports Private Limited recently exported 40 high-cube (HQ) containers of 600ml bottled mineral water to Sydney, Australia, becoming the first ever Sri Lankan company to do so, the company stated.
+
+Orzone has been awarded an order to supply one million 600 ml bottled drinking water to Sydney, Australia, and the recent export marked the initial phase of it. The company started exporting bottled drinking water to other parts of the world 30 years ago, and has commenced exports to Australia with the aim of expanding the business.
+
+“Our aim is to expand our production capacity and necessary plans for that have already been made. By doing so, we will be able to export more and help strengthen the country’s foreign currency reserves.” Orzone Group of Companies Managing Director, Dr. Upul B. Senarath said.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/d57fbe2e.json)
+
+---
+
+### Sanasa Life Insurance secures double win at CPM Awards 2024
+
+*2024-04-01 04:48:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-secures-double-win-at-cpm-awards-2024/) · `en`
+
+Sanasa Life Insurance announced a double win at the CPM Awards on March 13th, 2024, securing the coveted ‘Insurance Award in the Private Sector Category’ and being placed among the ‘Top 10 Companies for Best Management Practices. Held annually, the CPM Awards are a highlight for Sri Lankan businesses an organized by the Institute of Chartered Professional Managers of Sri Lanka (CPM Sri Lanka), these awards recognize public and private sector companies showcasing excellence in organizational management and leadership, leading to better management practices, resulting in growth, and success.
+
+...
+
+[Data](articles/dd537b97.json)
+
+---
+
+### Assetline Finance opens its 56th branch in Panadura
+
+*2024-04-01 04:48:00* · [`islandlk`](http://island.lk/assetline-finance-opens-its-56th-branch-in-panadura/) · `en`
+
+Assetline Finance Limited (AFL), the financial services arm of the David Pieris Group, opened its 56th branch in Panadura. Located at No. 519, Galle Road, Panadura. This new branch marks another milestone in the company’s expansion strategy.
+
+The new branch is a strategic addition to the Company’s island-wide network given Panadura significance as a thriving business hub, with numerous entrepreneurs and small to medium enterprises. Residents of Panadura now have access to Assetline Finance’s renowned personalised, flexible, ethical, and professional services., The new branch aims to serve the local community with financial solutions including Vehicle Leasing, Auto Loans, Working Capital Loans, Fixed Deposits and more.
+
+Inflated construction material prices ‘not coming down’ despite strengthened LKR
+
+Orzone exports first consignment of bottled mineral water to Sydney, Australia
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/eed73110.json)
+
+---
+
+### முதலை தாக்கி பெண் பலி
+
+*2024-04-01 04:44:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலை-தாக்கி-பெண்-பலி/175-335430) · `ta`
+
+கலங்குட்டிவ ஆற்றில் நீராடச் சென்ற பெண் ஒருவர் முதலை தாக்கி உயிரிழந்துள்ளார் என மெகலேவ பொலிஸார் தெரிவித்தள்ளனர்.
+
+லிகொலவெவ, சியம்பலங்காமுவ பிரதேசத்தைச் சேர்ந்த 66 வயதுடைய பெண் ஒருவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த பெண் ஆற்றில் நீராடச் சென்ற போதே இச்சம்பவம் நேர்ந்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+பிரதேசவாசிகள் முதலையிடமிருந்து பெண்ணை மீட்டு தம்புத்தேகம வைத்தியசாலையில் சேர்த்த போதும் அவர் உயிரிழந்துள்ளார் எனத் தெரிவிக்கப்படுகிறது. (a)
+
+◼️
+
+[Data](articles/401b78b8.json)
+
+---
 
 ### Teacher killed in accident
 
@@ -786,6 +886,38 @@ Octane 92 variants of petrol and Otto diesel have not changed
 
 ---
 
+### Ceylinco General Insurance: ‘People’s General Insurance Brand’ for 18th consecutive year
+
+*2024-03-31 22:00:00* · [`islandlk`](http://island.lk/ceylinco-general-insurance-peoples-general-insurance-brand-for-18th-consecutive-year/) · `en`
+
+Ceylinco General Insurance expresses its heartfelt gratitude to the people of Sri Lanka for being crowned the ‘People’s General Insurance Brand of The Year’ at the 2024 SLIM Kantar People’s Awards for an unprecedented 18th consecutive year!
+
+As these awards are based on brands that are close to people’s hearts and reflects their perceptions about brands, the selection process is determined on the results of a survey rather than an application or an evaluation process – which indicates the true opinions of the people of Sri Lanka. The People’s Award is the most coveted award for corporates because it reflects the voice of the people and indicates the brand they love and respect.
+
+...
+
+[Data](articles/45eac071.json)
+
+---
+
+### Lanka Harness, Japanese-owned BOI company recognised at CPM Awards 2024
+
+*2024-03-31 22:00:00* · [`islandlk`](http://island.lk/lanka-harness-japanese-owned-boi-company-recognised-at-cpm-awards-2024/) · `en`
+
+Lanka Harness Co. a fully Japanese owned BOI enterprise won overall silver winner of the best management practices awards 2024, best management practices excellence awards 2024 and category winner of manufacturing at the best management practices company awards 2024, organised by the institute of Chartered Professional Managers of Sri Lanka (CPM Sri Lanka) at the Cinnamon Grand recently. Mekala Dunuwila of Lanka Harness Company receives the award from Mizukoshi Hideaki, the Japanese Ambassador in Sri Lanka.
+
+Ceylinco General Insurance: ‘People’s General Insurance Brand’ for 18th consecutive year
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/b0e5123d.json)
+
+---
+
 ### A lot of cricket records from Komun
 
 *2024-03-31 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195147) · `si`
@@ -817,6 +949,20 @@ Earlier, India had scored 524 runs for the loss of 9 wickets in 1976/77.
 [Data](articles/da5416bc.json)
 
 [Extended Data](ext_articles/da5416bc.ext.json)
+
+---
+
+### Inflated construction material prices ‘not coming down’ despite strengthened LKR
+
+*2024-03-31 21:58:00* · [`islandlk`](http://island.lk/inflated-construction-material-prices-not-coming-down-despite-strengthened-lkr/) · `en`
+
+Construction material prices have not shown any downward adjustments despite Sri Lanka rupee strengthening against the US dollar, Susantha Liyanaarachchi · Chairman at National Construction Association of Sri Lanka (NCASL) told the media on Saturday.
+
+“The construction material market has not marked down their prices in line with the appreciation of the rupee. This needs to be done to pass the benefit to the customer who would otherwise be paying the same prices as before because material prices went up from time to time when the rupee was depreciating, and now the reverse should happen,” Susantha said.
+
+...
+
+[Data](articles/8ee4aad7.json)
 
 ---
 
@@ -2103,221 +2249,5 @@ President Ranil Wickremesinghe expressed his views to address the awards ceremon
 [Data](articles/08d53e8e.json)
 
 [Extended Data](ext_articles/08d53e8e.ext.json)
-
----
-
-### Ranmillas robbed from a keyword that belongs to a sergeant
-
-*2024-03-31 14:52:44* · [`adalk`](https://www.ada.lk/breaking_news/සැරයන්වරයෙකුට-අයත්-යතුරුපදියකින්-රන්මාල-කොල්ල-කාල/11-408857) · `si`
-
-Police arrested two members of a three-person gang linked to a Sergeant in the Police Cultural Division, seizing 3775 liters of drugs. The suspects were previously jailed for 16-17 years. A woman in Puttalam was found bound with a motorcycle, and the suspects were quickly identified and arrested.
-
-🟩
-
-Antimber police say two have been arrested in a group of three-member list of the bush belonging to a Sergeant in the Police Cultural Division
-
-Police have also seized the 3775 lit drugs with the suspects
-
-Police investigations have revealed that the two suspects were released in jail for 16 and 17 years in jail for a few and 17 years in jail for several years and 17 years ago.
-
-A woman in Puttalam has come to a domestic news of a cousin in Puttalam area for a few days ago while she had bound her neck with a motorcycle and bound the Ranmal
-
-The residents of the area took a robber with a robbery immediately after the verdictor of an acquisition immediately.
-
-The police Cultural Division was owned by a police sergeant in the checking number on which the motorbike was placed.
-
-The suspects are to be produced before the Horana Magistrate's Court.
-
-◼️
-
-[Data](articles/425e2738.json)
-
-[Extended Data](ext_articles/425e2738.ext.json)
-
----
-
-### A new incentive from the government
-
-*2024-03-31 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195130) · `si`
-
-The government offers a Rs. 10,000 monthly incentive to staff officers at Divisional Secretariats from March to December, aiming to empower these regional centers of government development.
-
-🟩
-
-The Government has decided to provide a special monthly incentive to the staff officers attached to the Divisional Secretariats.
-
-It is reported that the incentive is to be granted to 10 months to 10 months from March to December.
-
-The Circular meeting held on the 11th of this month was issued by the Secretary to the Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government.
-
-In addition, the Assistant Divisional Secretary, Assistant Divisional Secretary, Assistant Director and Accountant will receive a monthly allowance of Rs. 10,000 each.
-
-The Ministry of Public Administration has informed the implementation of the decentralized budget for the payment of these allowances.
-
-The monthly incentive allowance will also be provided with the objective of empowering Divisional Secretariats, the regional center of the government's development mechanism.
-
-◼️
-
-[Data](articles/38897b97.json)
-
-[Extended Data](ext_articles/38897b97.ext.json)
-
----
-
-### Two friends remanded for capturing Retir Pump
-
-*2024-03-31 14:33:07* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රේෂර්-පම්පය-අල්ලා-මරුමුවට-පත්-සිද්ධියට-මිතුරන්-දෙදෙනා-රිමාන්ඩ්/11-408856) · `si`
-
-Two friends arrested for capturing a Retir Pump were remanded until April 5. Magistrate Sunga Champara Perera, arrested and in critical condition, died in Ragama Hospital.
-
-🟩
-
-The Magistrate Sunga Champara Perera, who was arrested by the employees of a private sector in the Mail area, remanded until April 2 to be remanded until April 2.Received.
-
-He was in critical condition and was admitted to the Ragama Hospital.
-
-He was receiving treatment at the night and died on the night.
-
-The two suspects were arrested at the time of the incident and remanded until the 28th of this month and further extended it until April 5.
-
-◼️
-
-[Data](articles/2db8c4f9.json)
-
-[Extended Data](ext_articles/2db8c4f9.ext.json)
-
----
-
-### One arrested with a firearm made abroad
-
-*2024-03-31 14:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180064) · `ta`
-
-A 21-year-old from Rukahawila, Udukoda, was arrested near Gampaha railway station with a firearm and bullets made abroad. The suspect had 10 bullets for the T-56 category, 2.2 mm, and 7 bullets. Police took further action under Senior Superintendent of Police advice.
-
-🟩
-
-One person has been arrested with firearms and bullets made abroad near the Gampaha railway station, police said.
-
-Based on information received by the Gampaha Criminal Investigation Division, the suspect was seized from the suspect with a gun with 10 bullets used for the T -56 category, with 2.2 mm and 7 bullets.
-
-The suspect was the 21 -year -old from Rukahawila, Udukoda, who was arrested.
-
-In this regard, the police have taken further action under the advice of the Senior Superintendent of Police.
-
-◼️
-
-[Data](articles/803b09a7.json)
-
-[Extended Data](ext_articles/803b09a7.ext.json)
-
----
-
-### Arrested for illegal liquor production in Mullaitivu
-
-*2024-03-31 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180057) · `ta`
-
-A man in Mullaitivu was arrested for illegal liquor production. Seized were 85 liters and 9 kota barrels. He claimed to have been preparing pastai with state permission and used a water supply system.
-
-🟩
-
-A man in Mullaitivu, Mulliyawala has been arrested. He was arrested on Saturday at his residence by the police.
-
-In addition, illegal liquor has been seized by 85 liters and 9 kota barrels.
-
-The arrested person said that the man was involved in the preparation of the pastai with the permission of the state and that the water supply system was obtained through the supply of water.
-
-The person is buried in the middle of the pipe system and is involved in the manufacture of liquor. As the police removed the water pipe parts, the suspect was found to be the manufacture of illegal liquor.
-
-◼️
-
-[Data](articles/63525640.json)
-
-[Extended Data](ext_articles/63525640.ext.json)
-
----
-
-### Philippines’ Marcos boosts maritime security as China tension rises
-
-*2024-03-31 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98323/philippines-marcos-boosts-maritime-security-as-china-tension-rises) · `en`
-
-Philippine President Ferdinand Marcos Jr has ordered his government to strengthen its coordination on maritime security to confront “a range of serious challenges” to territorial integrity and peace, as a dispute with China escalates.
-
-The order, signed on Monday and made public on Sunday, does not mention China but follows a series of bilateral maritime confrontations and mutual accusations over a disputed area of the South China Sea.
-
-Beijing claims almost all of the South China Sea, a conduit for more than $3 trillion of annual ship-borne commerce. China’s claims overlap those of the Philippines, Vietnam, Indonesia, Malaysia and Brunei. The Permanent Court of Arbitration in 2016 said China’s claims had no legal basis.
-
-The latest flare-up occurred last weekend, when China used water cannon to disrupt a Philippine resupply mission to the Second Thomas Shoal for soldiers guarding a warship intentionally grounded on a reef 25 years ago.
-
-...
-
-[Data](articles/80e665c8.json)
-
-[Extended Data](ext_articles/80e665c8.ext.json)
-
----
-
-### Great teeth
-
-*2024-03-31 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195129) · `si`
-
-Sri Lanka scored 472/6 in the 2nd Test against Bangladesh, losing Prabath Jayasuriya due to a lack of safe bowlers.
-
-🟩
-
-Today is the second day of the second Test between Sri Lanka and Bangladesh.
-
-The Sri Lankan team scored 472 runs for the loss of 6 wickets.
-
-Bangladeshi players lost Prabath Jayasuriya at the time of the lack of safe bowler.
-
-◼️
-
-[Data](articles/c64454f1.json)
-
-[Extended Data](ext_articles/c64454f1.ext.json)
-
----
-
-### Egg prices will decrease during festivals!
-
-*2024-03-31 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180047) · `ta`
-
-During Tamil-Sinhala New Year, egg prices will decrease by over 35 rupees, from 42-48 rupees, with the Ministry of Agriculture ensuring no shortage of poultry meat and eggs.
-
-🟩
-
-The Ministry of Agriculture and Plantation Industries said that the price of an egg at home in the Tamil -Sinhala New Year will be reduced by more than 35 rupees.
-
-The ministry said the price of a chicken egg in the domestic market is 42 - 48 rupees.
-
-In addition, the Ministry of Agriculture and Match the Ministry of Agriculture and the Matching Industry said that steps will be taken to provide poultry meat and eggs to the market without shortage.
-
-◼️
-
-[Data](articles/d1cacc1b.json)
-
-[Extended Data](ext_articles/d1cacc1b.ext.json)
-
----
-
-### 803 arrested in police raid
-
-*2024-03-31 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180062) · `ta`
-
-803 suspects arrested in drug raid, 40 held for further investigation. Seized with heroin, ice, and cannabis.
-
-🟩
-
-803 suspects have been arrested in connection with the raid on Saturday (30) in connection with the drug.
-
-40 of them will be kept in police custody for further investigations, police said.
-
-During this time, the suspects were seized with heroin, ice and cannabis.
-
-◼️
-
-[Data](articles/ff69ccde.json)
-
-[Extended Data](ext_articles/ff69ccde.ext.json)
 
 ---

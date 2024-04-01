@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 14:33:50**
+As of **2024-04-01 14:51:45**
 
 ## Newspaper Stats
 
-*Scraped **16,368** Articles*
+*Scraped **16,373** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,123 @@ islandlk | 912
 adalk | 1,375
 tamilmirrorlk | 1,957
 adaderanalk | 1,973
-virakesarilk | 2,326
-dailymirrorlk | 2,518
-adaderanasinhalalk | 2,651
+virakesarilk | 2,327
+dailymirrorlk | 2,520
+adaderanasinhalalk | 2,653
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,367 (100.0%) of 16,368 articles have been extended.
+16,368 (100.0%) of 16,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### මාස 3ට සංචාරකයින් ලක්ෂ 6 ඉක්මවයි
+### බංග්ලාදේශය පළමු ඉනිම 178න් නවතියි
+
+*2024-04-01 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195173) · `si`
+
+දෙවන ටෙස්ට් තරගයේ සිය පළමු ඉනිම ක්‍රීඩා කළ බංග්ලාදේශයේ මීට සුළු මොහොතකට පෙර ලකුණු 178කට සියලුදෙනා දැවී ගියේය.
+
+එහිදී ශ්‍රී ලංකාව වෙනුවෙන් අගනා පන්දු යැවීමක නිරත වූ අසිත ප්‍රනාන්දු පන්දුවාර 10යි පන්දු 4කදී ලකුණු 34කට කඩුලු 4ක් දවාගත්තේය.
+
+ළහිරු කුමාර, ප්‍රභාත් ජයසූරිය සහ විශ්ව ප්‍රනාන්දු කඩුලු 2 බැගින් දවාගැනීමට සමත්විය.
+
+◼️
+
+[Data](articles/2592f5a4.json)
+
+---
+
+### පාස්කු ප්‍රහාරය ගැන සැකපිට මාස 6 රඳවාගෙන සිටි තිදෙනාගෙන් පොලිස් නිලධාරීන් සමාව ඉල්ලයි
+
+*2024-04-01 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195172) · `si`
+
+පාස්කු දින ත්‍රස්ත ප්‍රහාරය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන රඳවා තබාගැනීම සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන මේ වනවිට නිදහස් කර ඇති හොරොව්පතාන ප්‍රදේශයේ පුද්ගලයන් තුන්දනෙකුගෙන් හොරොව්පතාන පොලිස් ස්ථානාධිපතිවරයා ඇතුළු පොලිස් නිලධාරීන් පස්දෙනෙකු අද (01) ශ්‍රේෂ්ඨාධිකරණය හමුවේ  සිංහල ක්‍රමයට ඔවුන්ට  ආචාර කර සමාව ඉල්ලා සිටියේය.
+
+තමන්ව නීතිවිරෝධී ලෙස අත්අඩංගුවට ගෙන මාස හයකට වැඩි කාලයක් රඳවා තබා ගැනීම තුළින් සිය මූලික අයිතිවාසිකම් උල්ලංඝනය කර ඇති බවට චෝදනා කරමින් සෙනූල් ආබ්දීන් ඉර්ෆාන්,  සෙනුල් ආබ්දීන් කලීෆාතුල්ලා සහ නූර්ගේ සකරියා යන අය විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් අද ශ්‍රේෂ්ඨාධිකරණය හමුවේ කැඳවූ අවස්ථාවේදී මෙම සමාව ගැනීම සිදුකළේය.
+
+සිද්ධිය සම්බන්ධයෙන් අදාළ පුද්ගලයින්ගෙන් යළි ප්‍රශ්න කිරීම් නොකරන බවත් අදාළ පොලිස් නිලධාරීන් වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරල්වරයා අධිකරණය හමුවේ සඳහන් කළේය.
+
+එස්  තුරෙයි රාජා, කුමුදුනී වික්‍රමසිංහ සහ අචල වෙන්ගප්පුලි යන ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල හමුවේ මෙම පෙත්සම් කැඳවනු ලැබීය.
+
+...
+
+[Data](articles/e9b08761.json)
+
+---
+
+### தெற்கின் கடலோரப் பகுதியில் நிலத்தை நோக்கி வரும் பாரிய அலைகள்!
+
+*2024-04-01 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180140) · `ta`
+
+கடல் சீற்றம் காரணமாக காலி -  கொழும்பு பிரதான வீதியில் கஹவ சந்தியில் இருந்து தெல்வத்தை சந்தி வரையில்  பாரிய கடல் அலைகள் நிலத்தை நோக்கி வருகின்றன.
+
+இதனால் அந்த  வீதியின்  போக்குவரத்துக்கு கடும் இடையூறு ஏற்பட்டுள்ளது. நேற்று (31) மாலை  இந்த நிலை ஏற்பட்டதாக பிரதேச மக்கள் தெரிவித்தனர்.
+
+கடல் அலைகளுடன்,   கடற்கரையோரப் பகுதிகளில்  போடப்பட்டுள்ள கடலரிப்பு தடைக்காகப் போடப்பட்டுள்ள   கற்களும் அவ்வப்போது வருவதால் அப்பகுதி மக்கள் வாகனங்கள் செல்வதற்காக கற்களை அகற்றுவதனைக்  காண முடிகிறது.
+
+◼️
+
+[Data](articles/2ca693fc.json)
+
+---
+
+### 500 bicycles donated from Japan to support school attendance in remote areas
+
+*2024-04-01 14:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/500-bicycles-donated-from-Japan-to-support-school-attendance-in-remote-areas/108-279964) · `en`
+
+Colombo, April 1 (Daily Mirror) - In order to encourage the daily school attendance of school children in remote areas, a total of 500 bicycles were given as a grant from the Japanese 'ChildFund' organization to Sri Lanka to provide students with the opportunity to attend school continuously.
+
+These bicycles were officialy handed over today by Education Minister Susil Premajayantha at Water's Edge, Battaramulla.
+
+Japanese Ambassador to Sri Lanka Mizukoshi Hadeaki, representative of the Japanese 'Childfund' Institute Yuko Ishanda and the National Director of the Sri Lankan 'Childfund' Institute Ms. Aditi Gosh participated in the event.
+
+Suitable students between the ages of 12 and 16 have been selected from 108 schools in 12 districts with transportation difficulties such as Moneragala, Puttalam and Mullaitivu to provide this stock of bicycles that have already been received in Sri Lanka.
+
+...
+
+[Data](articles/04c1e2f0.json)
+
+---
+
+### UNDP meets NPP; discusses increasing poverty in Sri Lanka
+
+*2024-04-01 14:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNDP-meets-NPP-discusses-increasing-poverty-in-Sri-Lanka/108-279963) · `en`
+
+Colombo, April 1 (Daily Mirror)- The United Nations Development Programme (UNDP) met with National People's Power (NPP) today at the JVP Head Office, party sorces said.
+
+UNDP Resident Representative in Sri Lanka Azusa Kubota, Policy Specialist Chandrika Karunaratna took part in the discussion.
+
+They briefed the NPP representatives about the projects initiated by the UNPD in Sri Lanka and they have also mentioned that their attention has been drawn to increasing poverty in Sri Lanka due to the prevailing economic situation.
+
+NPP members MP Harini Amarasuriya and Politburo member Bimal Ratnayake participated in the discussion.
+
+◼️
+
+[Data](articles/f55e49f6.json)
+
+---
+
+### 3 months tourist arrivals exceeding 600,000
 
 *2024-04-01 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195171) · `si`
 
-මාර්තු මසයේ 31 වනදා වන විට මෙම වසර සඳහා  සංචාරකයින්  635,784 මෙරටට පැමිණ ඇති බව සංචාරක අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+Sri Lanka saw over 600,000 tourist arrivals in 3 months, with a total of 635,784 by March 31, 2024, according to Travel Minister Harin Fernando.
 
-ඒ අනුව 2024 මුල් මාස 3දී සෑම මසකම සංචාරකයින් ලක්ෂ 2කට වැඩි ප්‍රමාණයක් මෙරටට පැමණ තිබේ.
+🟩
+
+Tourist arrivals have reached Sri Lanka for 635,784 tourists to this year on March 31, said Travel Minister Harin Fernando.
+
+Accordingly, over the first 3 months of 2024, more than 2 lakhs of tourists have raised their lives.
 
 ◼️
 
 [Data](articles/de622097.json)
+
+[Extended Data](ext_articles/de622097.ext.json)
 
 ---
 
@@ -2203,101 +2295,5 @@ The Department of Meteorology urges the public to take necessary steps to be tak
 [Data](articles/e0a84210.json)
 
 [Extended Data](ext_articles/e0a84210.ext.json)
-
----
-
-### Transition in the movie Corporation
-
-*2024-04-01 04:49:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரைப்படக்-கூட்டுத்தாபனத்தில்-மாற்றம்-ஏற்படும்/175-335431) · `ta`
-
-President Ranil Wickremesinghe announced a modernization of the film industry in Sri Lanka, including AI integration and foreign training for artists.
-
-🟩
-
-President Ranil Wickremesinghe said that the film Corporation with ancient heritage will be transformed into modern technology and will be built as a Sri Lankan film and television theater development agency.
-
-At the same time, the President said that foreign training opportunities would be given to strengthen artists and designers with modern technology and pointed out that the film and television theater should be prepared to move forward with modern technology.
-
-Artificial Intelligence (AI) technology has been embedded in the world film industry today. The President also announced that the government would support the production of the first AI film to bring it forward.
-
-President Ranil Wickremesinghe made this statement while addressing the 20th Rikam Tellis Awards ceremony held at Shankrela Hotel, Colombo. (A)
-
-◼️
-
-[Data](articles/df49e3d4.json)
-
-[Extended Data](ext_articles/df49e3d4.ext.json)
-
----
-
-### John Keells Foundation initiates nutrition awareness sessions in schools
-
-*2024-04-01 04:48:00* · [`islandlk`](http://island.lk/john-keells-foundation-initiates-nutrition-awareness-sessions-in-schools/) · `en`
-
-John Keells Foundation (JKF), in collaboration with the Scaling Up Nutrition People’s Forum (SUN PF), successfully initiated a series of nutritional awareness sessions, as part of the ongoing School Nutrition Programme, targeting ten selected schools in the John Keells Praja Shakthi locations of Colombo 02 and Ja-Ela. The programme is aimed at fostering nutrition awareness and promoting sustainable practices such as school gardening to complement the school meal programme implemented previously.
-
-Awareness sessions were conducted from 5th to 7th March 2024 in two schools in Colombo 2 and during the period of 16th to 27th February 2024 in five schools in Ja-Ela, following a well-received session held in December 2023, in two schools in Colombo 2 benefiting a diverse audience of 1,211 students, teachers and parents.
-
-...
-
-[Data](articles/347690f0.json)
-
-[Extended Data](ext_articles/347690f0.ext.json)
-
----
-
-### Orzone exports first consignment of bottled mineral water to Sydney, Australia
-
-*2024-04-01 04:48:00* · [`islandlk`](http://island.lk/orzone-exports-first-consignment-of-bottled-mineral-water-to-sydney-australia/) · `en`
-
-Orzone Mineral Water Exports Private Limited recently exported 40 high-cube (HQ) containers of 600ml bottled mineral water to Sydney, Australia, becoming the first ever Sri Lankan company to do so, the company stated.
-
-Orzone has been awarded an order to supply one million 600 ml bottled drinking water to Sydney, Australia, and the recent export marked the initial phase of it. The company started exporting bottled drinking water to other parts of the world 30 years ago, and has commenced exports to Australia with the aim of expanding the business.
-
-“Our aim is to expand our production capacity and necessary plans for that have already been made. By doing so, we will be able to export more and help strengthen the country’s foreign currency reserves.” Orzone Group of Companies Managing Director, Dr. Upul B. Senarath said.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/d57fbe2e.json)
-
-[Extended Data](ext_articles/d57fbe2e.ext.json)
-
----
-
-### Sanasa Life Insurance secures double win at CPM Awards 2024
-
-*2024-04-01 04:48:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-secures-double-win-at-cpm-awards-2024/) · `en`
-
-Sanasa Life Insurance announced a double win at the CPM Awards on March 13th, 2024, securing the coveted ‘Insurance Award in the Private Sector Category’ and being placed among the ‘Top 10 Companies for Best Management Practices. Held annually, the CPM Awards are a highlight for Sri Lankan businesses an organized by the Institute of Chartered Professional Managers of Sri Lanka (CPM Sri Lanka), these awards recognize public and private sector companies showcasing excellence in organizational management and leadership, leading to better management practices, resulting in growth, and success.
-
-...
-
-[Data](articles/dd537b97.json)
-
-[Extended Data](ext_articles/dd537b97.ext.json)
-
----
-
-### Assetline Finance opens its 56th branch in Panadura
-
-*2024-04-01 04:48:00* · [`islandlk`](http://island.lk/assetline-finance-opens-its-56th-branch-in-panadura/) · `en`
-
-Assetline Finance Limited (AFL), the financial services arm of the David Pieris Group, opened its 56th branch in Panadura. Located at No. 519, Galle Road, Panadura. This new branch marks another milestone in the company’s expansion strategy.
-
-The new branch is a strategic addition to the Company’s island-wide network given Panadura significance as a thriving business hub, with numerous entrepreneurs and small to medium enterprises. Residents of Panadura now have access to Assetline Finance’s renowned personalised, flexible, ethical, and professional services., The new branch aims to serve the local community with financial solutions including Vehicle Leasing, Auto Loans, Working Capital Loans, Fixed Deposits and more.
-
-Inflated construction material prices ‘not coming down’ despite strengthened LKR
-
-Orzone exports first consignment of bottled mineral water to Sydney, Australia
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/eed73110.json)
-
-[Extended Data](ext_articles/eed73110.ext.json)
 
 ---

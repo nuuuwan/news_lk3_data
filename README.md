@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 21:03:13**
+As of **2024-04-01 21:18:16**
 
 ## Newspaper Stats
 
-*Scraped **16,454** Articles*
+*Scraped **16,455** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 201
 newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 908
-islandlk | 912
+islandlk | 913
 adalk | 1,385
 tamilmirrorlk | 1,960
 adaderanalk | 1,981
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,665
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,453 (100.0%) of 16,454 articles have been extended.
+16,454 (100.0%) of 16,455 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The document reports the government’s estimates of the total revenue foregone 
 ...
 
 [Data](articles/f9c15a9b.json)
+
+[Extended Data](ext_articles/f9c15a9b.ext.json)
 
 ---
 
@@ -73,6 +75,28 @@ The suspect was due to be produced before the Kalutara Magistrate's Court.
 [Data](articles/5a0c46d5.json)
 
 [Extended Data](ext_articles/5a0c46d5.ext.json)
+
+---
+
+### Excise Officers caught with cannabis!8 people arrested
+
+*2024-04-01 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180188) · `ta`
+
+Police arrested 8, including 4 excise officers, for smuggling 45 kg Kerala ganja in Negombo and Chilaw. A van from the Excise Department is now under police custody.
+
+🟩
+
+Police have arrested eight suspects, including four excise officers, along with Kerala ganja in Negombo and Chilaw areas.
+
+Eight people have been arrested by the police narcotics unit with 45 kilograms of Kerala ganja, police said.
+
+Meanwhile, a van belonging to the Excise Department, which was arrested by the arrested officers, has been placed under police custody.
+
+◼️
+
+[Data](articles/7481f669.json)
+
+[Extended Data](ext_articles/7481f669.ext.json)
 
 ---
 
@@ -123,28 +147,6 @@ However the woman was adamant she needed to send the money to her "boyfriend" fo
 [Data](articles/8def5b0c.json)
 
 [Extended Data](ext_articles/8def5b0c.ext.json)
-
----
-
-### Excise Officers caught with cannabis!8 people arrested
-
-*2024-04-01 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/180188) · `ta`
-
-Police arrested 8, including 4 excise officers, for smuggling 45 kg Kerala ganja in Negombo and Chilaw. A van from the Excise Department is now under police custody.
-
-🟩
-
-Police have arrested eight suspects, including four excise officers, along with Kerala ganja in Negombo and Chilaw areas.
-
-Eight people have been arrested by the police narcotics unit with 45 kilograms of Kerala ganja, police said.
-
-Meanwhile, a van belonging to the Excise Department, which was arrested by the arrested officers, has been placed under police custody.
-
-◼️
-
-[Data](articles/7481f669.json)
-
-[Extended Data](ext_articles/7481f669.ext.json)
 
 ---
 

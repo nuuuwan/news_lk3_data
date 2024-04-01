@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 21:52:45**
+As of **2024-04-01 22:05:45**
 
 ## Newspaper Stats
 
-*Scraped **16,459** Articles*
+*Scraped **16,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 908
 islandlk | 913
-adalk | 1,386
+adalk | 1,387
 tamilmirrorlk | 1,961
 adaderanalk | 1,982
 virakesarilk | 2,346
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,665
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,457 (100.0%) of 16,459 articles have been extended.
+16,459 (100.0%) of 16,460 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,19 +46,27 @@ The Finance State Minister further announced that following the distribution of 
 
 [Data](articles/cb131ba8.json)
 
+[Extended Data](ext_articles/cb131ba8.ext.json)
+
 ---
 
-### கலால் திணைக்கள அதிகாரிகள் உட்பட 8 பேர் கைது
+### 8 arrested, including officials of the Department of Excise
 
 *2024-04-01 21:24:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலால்-திணைக்கள-அதிகாரிகள்-உட்பட-8-பேர்-கைது/175-335470) · `ta`
 
-4 கலால் திணைக்கள அதிகாரிகள் உட்பட 8 பேர் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவினரால் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+Eight, including 4 Excise Department officials, arrested by the Police Media Executive Unit with 45 kg Kerala cannabis from Negombo and Chilaw.
 
-நீர்கொழும்பு மற்றும் சிலாபம் பகுதிகளில் இருந்து 45 கிலோகிராம் கேரள கஞ்சாவுடன் இவர்கள் கைத செய்யப்பட்டுள்ளனர். R
+🟩
+
+Eight people, including 4 Excise Department officials, have been arrested by the Police Media Executive Unit, the Police Media Unit said.
+
+They have been arrested with 45 kilograms of Kerala cannabis from Negombo and Chilaw areas. Remble
 
 ◼️
 
 [Data](articles/aa82df24.json)
+
+[Extended Data](ext_articles/aa82df24.ext.json)
 
 ---
 
@@ -339,6 +347,22 @@ The number of Kerala cannabis has been found nearly 45 kilograms.
 [Data](articles/7fefb3d0.json)
 
 [Extended Data](ext_articles/7fefb3d0.ext.json)
+
+---
+
+### මහින්ද, දුමින්ද හා ලසන්ත ධූරවලින් ඉවත් කිරීම තාවකාලිකව අත්හිටුවයි
+
+*2024-04-01 18:52:21* · [`adalk`](https://www.ada.lk/breaking_news/මහින්ද--දුමින්ද-හා-ලසන්ත-ධූරවලින්-ඉවත්-කිරීම-තාවකාලිකව-අත්හිටුවයි/11-408889) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ කෘත්‍යාධිකාරී මණ්ඩලයේ ධූරවලින් දුමින්ද දිසානායක, ලසන්ත අලගියවන්න සහ මහින්ද අමරවීර යන මහත්වරුන් ඉවත් කිරීම වළක්වාලමින් කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා අතුරු තහනම් නියෝගයක් අද (01) නිකුත් කළේය.
+
+ස්වාභාවික යුක්ති මූල ධර්ම උල්ලංඝණය කරමින් නිසි විනය පරීක්ෂණයක් හෝ පැවැත්වීමකින් තොරව පක්ෂ ව්‍යවස්ථාවට පටහැනිව තමන් තනතුරු වලින් ඉවත් කිරීමට ශ්‍රී ලංකා නිදහස් පක්ෂය අනීතික සහ අත්තනෝමතික ක්‍රියා කර ඇතැයි පෙන්වා දෙමින් පෙත්සම්කරුවන් කළ ඉල්ලීම් සළකා බැලීමෙන් අනතුරුව අප්‍රේල් 08 දක්වා බලපැවැත්වෙන අන්දමට අදාළ අතුරු තහනම් නියෝගය නිකුත් කළේය.
+
+අතුරු තහනම් නියෝගය සම්බන්ධයෙන් විරෝධතා ඇත්නම් පෙත්සම් යළි කැඳවන අප්‍රේල් 08 වැනිදා විරෝධතා දැක්වීමට වගඋත්තරකරුවන්ට නියම කළ දිසා විනිසුරුවරයා අතුරු තහනම් දැන්වීම් හා නොතීසි ද වගඋත්තරකරුවන් වෙත යැවීමටද නියම කළේය.
+
+...
+
+[Data](articles/28e38fc9.json)
 
 ---
 
@@ -2235,27 +2259,5 @@ However, the Colombo Harbor Deputy Noterassati Lakshya Lakshya Lakshya service t
 [Data](articles/15fde174.json)
 
 [Extended Data](ext_articles/15fde174.ext.json)
-
----
-
-### Fire at a house in Maduranguli area
-
-*2024-04-01 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180119) · `ta`
-
-A fire at a house in Maduranguli damaged nearby vehicles but caused no casualties. The Chilaw Municipal Council's fire brigade is investigating. The incident, around 11 pm, may be linked to a dispute over tin fishing.
-
-🟩
-
-Police said the vehicles parked near the house were damaged and no casualties were caused.
-
-The incident took place around 11 pm and the fire brigade of the Chilaw Municipal Council is engaged in fire.
-
-Investigations have revealed that the house was due to the problem with the owner of the house in connection with the tin fishing in the area, while police said they were suspected of setting fire to the house by two living in the area.
-
-◼️
-
-[Data](articles/f571b2ec.json)
-
-[Extended Data](ext_articles/f571b2ec.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 17:54:16**
+As of **2024-04-01 18:10:44**
 
 ## Newspaper Stats
 
-*Scraped **16,429** Articles*
+*Scraped **16,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 908
 islandlk | 912
-adalk | 1,381
+adalk | 1,382
 tamilmirrorlk | 1,960
-adaderanalk | 1,979
-virakesarilk | 2,338
+adaderanalk | 1,980
+virakesarilk | 2,339
 dailymirrorlk | 2,525
-adaderanasinhalalk | 2,661
+adaderanasinhalalk | 2,662
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,413 (99.9%) of 16,429 articles have been extended.
+16,428 (100.0%) of 16,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### காதில்  ஹியர்போன் அணிந்தவாறு நடந்து சென்ற பேராதனை பல்கலை மாணவன் ரயிலால் மோதப்பட்டு உயிரிழப்பு!
+
+*2024-04-01 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180177) · `ta`
+
+பேராதனை பல்கலைக்கழகத்தின் கலைப் பீடத்தின் சட்டக் கற்கைகள் பிரிவின் மூன்றாம் வருட மாணவர்  ஒருவர்  பெனிதெனிய பிரதேசத்தில் ரயிலால் மோதப்பட்டு  உயிரிழந்துள்ளதாக பேராதனை பொலிஸார் தெரிவித்தனர்.
+
+பேராதனைப் பல்கலைக்கழகத்தின் சட்டக் கற்கைப் பிரிவில் மூன்றாம் ஆண்டில் கல்வி கற்று வந்த வத்துவ பிரதேசத்தைச் சேர்ந்த சித்சரதா சில்வா என்பவரே உயிாிழந்துள்ளார்.
+
+ஹியர்போன் கேட்கும் கருவியை காதில் அணிந்து கொண்டு  ரயில் பாதையில் நடந்து சென்று கொண்டிருந்தபோதே  நாவலப்பிட்டி - கண்டி ரயிலால் மோதப்பட்டு  இந்த மாணவர் உயிரிழந்துள்ளதாக பேராதனை பொலிஸார் தெரிவிக்கின்றனர்.
+
+பேராதனை பொலிஸ் நிலைய பிரதான பொலிஸ் பரிசோதகர் விஜித் விஜேகோன் தலைமையில் மேலதிக விசாரணைகள் இடம்பெற்று வருகின்றன.
+
+◼️
+
+[Data](articles/32092b18.json)
+
+---
+
+### ඉම්රාන් ඛාන්ගේ වසර 14ක සිර දඬුවම අත්හිටුවයි
+
+*2024-04-01 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195182) · `si`
+
+පාකිස්තානයේ හිටපු අග්‍රාමාත්‍ය ඉම්රාන් ඛාන්ට පනවා තිබූ වසර 14ක සිර දඬුවම අත්හිටුවීමට එරට ඉස්ලාමාබාද් මහාධිකරණය නියෝග කර තිබේ.
+
+ඔහු විසින් ගොනුකර තිබූ අභියාචනයක් සළකාබැලීමට තීරණය කිරීමත් සමග අධිකරණය මෙම නියෝගය ලබාදී ඇත.
+
+කෙසේ වෙතත් මීට පෙර ඔහුට එරෙහිව පවරා ඇති නඩු කටයුතු හේතුවෙන් හිටපු අග්‍රාමාත්‍ය ඉම්රාන් ඛාන් තවදුරටත් බන්ධනාගාරගතව සිටී.
+
+◼️
+
+[Data](articles/30712283.json)
+
+---
+
+### Imran Khan: Pakistan court suspends jail sentence in graft appeal
+
+*2024-04-01 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98353/imran-khan-pakistan-court-suspends-jail-sentence-in-graft-appeal) · `en`
+
+A Pakistani court on Monday granted former Prime Minister Imran Khan an appeal of his conviction for graft and suspended his 14-year jail sentence, his lawyer said, a relief for his embattled party which had won most seats in February’s national polls.
+
+Just a week ahead of the Feb. 8 elections, Khan and his wife Bushra Bibi were both handed a 14-year sentence on charges of unlawfully selling state gifts by an anti-graft court.
+
+Despite the suspension, Khan will remain in jail on multiple other sentences which were imposed on the ex-cricket star ahead of the polls, which also disqualified him from holding any public office for 10 years.
+
+Islamabad High Court said that the couple’s graft sentence will remain suspended until a final decision on the conviction which will be taken up for arguments and evidence as a main petition after Eid holidays, said the lawyer, Barrister Ali Zafar.
+
+...
+
+[Data](articles/d904123b.json)
+
+---
 
 ### Sri Lanka producers meeting demand, egg at Rs35 for new year: Minister
 
@@ -50,27 +102,39 @@ At present, the price of an egg in the local market varies between 42-48 rupees.
 
 [Data](articles/a4e2dcad.json)
 
+[Extended Data](ext_articles/a4e2dcad.ext.json)
+
 ---
 
-### ඩිලාන්ගේ සැකය නිසා විදෙස් කාන්තාව බේරෙයි
+### Dilan's suspicion survives overseas
 
 *2024-04-01 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195181) · `si`
 
-සමාජ මාධ්‍ය ඔස්සේ හමු වූ තම පෙම්වතා බව කියන පුද්ගලයෙකුගේ මුල්‍ය වංචාවකට හසුවීමට ගිය මෙල්බන් හි පදිංචි කාන්තාවක් ඉන් බේරා ගැනීමට ශ්‍රී ලංකික බැංකු නිලධාරියෙකු සමත්වී ඇති බව ඔස්ට්‍රේලියානු මාධ්‍ය වාර්තා සඳහන් කරයි.
+A Sri Lankan bank officer in Melbourne helped a woman send money to a boyfriend in Turkey, claiming it was for medical treatment. Dilan Pathirana, investigating the case, found the boyfriend was suspended on social media, and the woman had never met him. The case highlights the craftiness of financial frauds and the rise in scams involving romance and friendship, costing Australians $33 million last year.
 
-අදාළ කාන්තාව තම පෙම්වතා බව කියන විදේශිකයෙකුට මුදල් යැවීම සඳහා "ජාතික ඔස්ට්‍රේලියානු බැංකුවේ" (NAB) මෙල්බර්න් ශාඛාවකට ගොස් තිබුණාය.
+🟩
 
-එහෙත් එම බැංකුවේ පාරිභෝගික උපදේශක නිලධාරියා ලෙසට සිටි ශ්‍රී ලංකිකයෙකු වන ඩිලාන් පතිරණට මෙම කාන්තාව ලබාදුන් තොරතුරු පිළිබඳ ඇති වූ සැකයක් මත වැඩිදුරටත් සොයා බලා තිබුණි.
+According to Australian bank official, a Sri Lankan banking officer has been able to save a person who has been living in Melbourne who was found in the social media.
 
-වයස අවුරුදු 60ක් පමණ වන කාන්තාවට බැංකුවට ගොස් මුදල් යැවීමට උදව් අවශ්‍ය බව පැවසුව ද එම මුදල් ලබන්නාගේ වාසගම තමන් නොදන්නා බව ඇය ප්‍රකාශ කළාය.
+The woman had gone to a Melbourne branch (Nab) to send money to a foreigner who was saying to be their boyfriend.
 
-කාන්තාව, පෙම්වතාගේ නම සොයා ගැනීමට ඇයට ලැබුණු කෙටි පණිවුඩ ඩිලාන් ට පෙන්වා ඇති අතර එහිදී මෙය යම් වංචාවක් විය හැකි බවට ඔහුට වැටහී තිබුණි.
+However, Sri Lanka, a Sri Lankan consumer consultative officer, had been investigated by Dilan Pathirana.
 
-කෙසේ වෙතත්, එම කාන්තාව දැඩි ලෙස ප්‍රකාශ කර ඇත්තේ තුර්කියේ සිටින තම පෙම්වතාට වෛද්‍ය ප්‍රතිකාර සඳහා එක්සත් රාජධානියට යාමට ඩොලර් 2000ක් යැවිය යුතු බවයි.
+She said that the age of 60 years of age to go to the bank and send money to the bank, she said he was unknown to the resident of the recipient.
+
+The woman has shown the SMS Dilan received to find her boyfriend's name, where this could be a fraud.
+
+However, the woman had strictly declared that his boyfriend in Turkey should send $ 2000 to go to the UK for medical treatment.
+
+But Dilan Pathirana had said that the woman's boyfriend had been suspended in the social media.
+
+It was noteworthy that the money was given to whom she was given to whom she was never met.
 
 ...
 
 [Data](articles/54eff96e.json)
+
+[Extended Data](ext_articles/54eff96e.ext.json)
 
 ---
 
@@ -91,6 +155,8 @@ Sri Lanka reported over 600,000 tourist arrivals within the first three months o
 ...
 
 [Data](articles/ece32295.json)
+
+[Extended Data](ext_articles/ece32295.ext.json)
 
 ---
 
@@ -228,6 +294,8 @@ A bond maturing on 15.12.2028 closed stable at 12.10/20 percent. (Colombo/Apr1/2
 
 [Data](articles/b1ada02c.json)
 
+[Extended Data](ext_articles/b1ada02c.ext.json)
+
 ---
 
 ### President to review the increase in salary increase
@@ -316,6 +384,8 @@ The central bank paid its staff salary hikes of 70 percent or more after the lat
 
 [Data](articles/d37a8d6e.json)
 
+[Extended Data](ext_articles/d37a8d6e.ext.json)
+
 ---
 
 ### Sri Lanka stocks close up, turnover at 4.1bn
@@ -339,6 +409,8 @@ Large conglomerates Hayleys Plc (up at 85.10) and Melstacorp Plc (up at 89.00), 
 ◼️
 
 [Data](articles/563dee7c.json)
+
+[Extended Data](ext_articles/563dee7c.ext.json)
 
 ---
 
@@ -606,6 +678,8 @@ A new bilateral air services agreement was also signed, and Sri Lanka and Thaila
 
 [Data](articles/d709f3df.json)
 
+[Extended Data](ext_articles/d709f3df.ext.json)
+
 ---
 
 ### Sri Lanka president took on task of stabilising economy, must now restructure debt: Patali
@@ -619,6 +693,8 @@ ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe’s claim that he alone
 ...
 
 [Data](articles/f9219cdd.json)
+
+[Extended Data](ext_articles/f9219cdd.ext.json)
 
 ---
 
@@ -701,6 +777,8 @@ The official visit to China is significant as Sri Lanka needs Beijing’s help t
 ...
 
 [Data](articles/ef27e8e8.json)
+
+[Extended Data](ext_articles/ef27e8e8.ext.json)
 
 ---
 
@@ -940,6 +1018,8 @@ Reforms under an IMF program, and credible economic management and decision-maki
 
 [Data](articles/c4027f02.json)
 
+[Extended Data](ext_articles/c4027f02.ext.json)
+
 ---
 
 ### A young man drowned in a sea of sheep in Jaffna
@@ -981,6 +1061,8 @@ He is credited with leading research reports including reports on banking sector
 ...
 
 [Data](articles/b93d1eaa.json)
+
+[Extended Data](ext_articles/b93d1eaa.ext.json)
 
 ---
 
@@ -1112,6 +1194,8 @@ Sri Lanka is targeting 2.3 million visitors in 2024 after getting 1.48 million v
 
 [Data](articles/9876857c.json)
 
+[Extended Data](ext_articles/9876857c.ext.json)
+
 ---
 
 ### Massive waves coming to the land on the coast of the south!
@@ -1237,6 +1321,22 @@ The 10-50 million people have over Rs.Speaking, Patali Champika Ranawaka added t
 [Data](articles/7dee9d7c.json)
 
 [Extended Data](ext_articles/7dee9d7c.ext.json)
+
+---
+
+### දුෂ්කර ප්‍රදේශවල සිසුන්ගේ පාසල් පැමිණීම දිරිගැන්වීමට ජපානයෙන් පාපැදි
+
+*2024-04-01 13:48:28* · [`adalk`](https://www.ada.lk/breaking_news/දුෂ්කර-ප්‍රදේශවල-සිසුන්ගේ-පාසල්-පැමිණීම-දිරිගැන්වීමට-ජපානයෙන්-පාපැදි/11-408881) · `si`
+
+දුෂ්කර ප්‍රදේශවල පාසල් දරුවන්ගේ දෛනික පාසල් පැමිණීම දිරිමත් කිරීමේ අරමුණින් සිසුන්ට අඛණ්ඩ ව පාසල් පැමිණීමේ අවස්ථාව සලසා දීම සඳහා ජපන්  'චයිල්ෆන්ඩ්'ආයතනය මෙරටට පාපැදි 500ක ප්‍රදානයක් ලබා දී ඇත.
+
+මෙම පාපැදි නිල වශයෙන් භාර දීම අද දින අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතාගේ ප්‍රධානත්වයෙන් බත්තරමුල්ල .වෝටර්ස් එජ්හි. දී පැවති  අතර එම අවස්ථාවට මෙරට ජපන් තානාපති මිෂුකොෂි හයිදේකි (MIZUKOSHI Hadeaki) මහතා, ජපන් 'චයිල්ඩ්ෆන්ඩ්' ආයතනයේ නියෝජිත යුකෝ ඉෂාණ්ඩා (YUKO ISHANDA) හා ලංකා  'චයිල්ඩ්ෆන්ඩ්' ආයතනයේ ජාතික අධ්‍යක්ෂ ආදිති ගෝෂ් (ADITI GOSH) මහත්මිය යන අය සහභාගි වූහ.
+
+මේ වන විටත් මෙරටට ලැබී ඇති මෙම පාපැදි තොගය ලබා දීම සඳහා මොණරාගල, පුත්තලම, මුලතිව් වැනි ප්‍රවාහන දුෂ්කරතා සහිත  දිස්ත්‍රික්ක 12ක පාසල් 108කින්  වයස අවුරුදු 12-16ත් අතර සුදුසු සිසු සිසුවියන් තෝරාගනු ලැබ ඇත. නිවසේ සිට පාසලට අවම වශයෙන් කිලෝමීටර් දෙකහමාරක දුරක් පැමිණිය යුතු වීම මෙම පාපැදි ලබා දීමේ දී සලකා බැලු‍ණු ප්‍රධාන නිර්ණායකයකි. සිසුන්ගේ පවුල්වල ආර්ථික දුෂ්කරතා හා වෙනත් අපහසුතා ද මෙහි දී සැලකිල්ලට බඳුන් කර ඇත.
+
+...
+
+[Data](articles/0c81f88b.json)
 
 ---
 
@@ -1375,6 +1475,8 @@ Fitch Affirms AMW Capital Leasing and Finance at ‘BBB(lka)’; Outlook Remains
 ...
 
 [Data](articles/7be5b63a.json)
+
+[Extended Data](ext_articles/7be5b63a.ext.json)
 
 ---
 
@@ -1612,6 +1714,8 @@ The share last traded around 150.50, before the delisting was announced. Expolan
 
 [Data](articles/fe109239.json)
 
+[Extended Data](ext_articles/fe109239.ext.json)
+
 ---
 
 ### Appointment of Members for Review of Bill - Notification to Speaker
@@ -1657,6 +1761,8 @@ The butane price was also raised by 10 dollars to 640 dollars and left unchanged
 ◼️
 
 [Data](articles/745dc07c.json)
+
+[Extended Data](ext_articles/745dc07c.ext.json)
 
 ---
 
@@ -2129,99 +2235,5 @@ Fuel prices are revised on the first of each month. Wijesekera provided a CPC fu
 [Data](articles/72c0845c.json)
 
 [Extended Data](ext_articles/72c0845c.ext.json)
-
----
-
-### Wife with Kuwait Employer: Fire in Husband's House
-
-*2024-04-01 11:16:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குவைட்-முதலாளியுடன்-மனைவி-ஆத்திரத்தில்-கணவன்-வீட்டுக்கு-தீ/76-335442) · `ta`
-
-A woman from Kuwait, staying with her husband and father-in-law, set fire to their house, injuring her boss and driver. The husband's father died in the incident. The couple had a history of conflicts.
-
-🟩
-
-A woman who worked in Kuwait has come up with her boss and driver for the past few days. The two are staying at the woman's house.
-
-Thus, there was an upset between the wife and the husband. There is also a fierce fight. Impatient husband and wife attacked. He set fire to the house on Saturday (30).
-
-The Kuwait boss and his driver suffered severe burns in the incident. Husband's father has died in the incident.
-
-The incident took place in Batticaloa Road, Batticaloa Road, Welipodaya.
-
-The 40 -year -old woman has returned home with her 80 -year -old Abdul Said Alaballayan and her driver KK Namal.
-
-Husband and wife have been rumored to have come home several times before.. In the meantime, a furious husband and wife attacked his wife and set fire to the Kuwait and driver who accompanied him.
-
-Kuwait and driver are injured and are being treated at the Bibila Hospital.
-
-Tissa Hettiarachchi, a 70 -year -old husband, who was sick, died after being admitted to the Bibila Hospital after being burned.
-
-...
-
-[Data](articles/244d313e.json)
-
-[Extended Data](ext_articles/244d313e.ext.json)
-
----
-
-### Four years later came to the island
-
-*2024-04-01 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195163) · `si`
-
-"Four years later, Thai Airways returns to the island."
-
-🟩
-
-A Thai Airways has arrived in the island after four years.
-
-◼️
-
-[Data](articles/141e0f30.json)
-
-[Extended Data](ext_articles/141e0f30.ext.json)
-
----
-
-### Social Media Record: Call for Woman
-
-*2024-04-01 11:13:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-ஊடக-பதிவு-பெண்ணுக்கு-அழைப்பு/175-335441) · `ta`
-
-Lalandi Perera from Kalutara is invited to Parliamentary Privacy Committee for criticizing MP Rohitha Abeygunawardena. Speaker Mahinda Yapa Abeywardena announced this. MP, Inspector General of Police, and others have commented.
-
-🟩
-
-A woman will be invited to the Parliamentary Privacy Committee on the record posted on social media criticizing a Member of Parliament.
-
-Speaker Mahinda Yapa Abeywardena today announced that a woman named Lalandi Perera from Kalutara will be called.
-
-The woman, MP Rohitha Abeygunawardena and the Inspector General of Police, Desabandu Tennakoon, have said that he has commented.
-
-◼️
-
-[Data](articles/4d50a150.json)
-
-[Extended Data](ext_articles/4d50a150.ext.json)
-
----
-
-### Social Media Registration: Calling the Woman to the Privacy Committee
-
-*2024-04-01 11:13:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-ஊடக-பதிவு-சிறப்புரிமைக்-குழுவுக்கு-பெண்ணுக்கு-அழைப்பு/175-335441) · `ta`
-
-A woman, Lalandi Perera, will be invited to the Parliamentary Privacy Committee for comments on social media criticizing MP Rohitha Abeygunawardena, as announced by Speaker Mahinda Yapa Abeywardena.
-
-🟩
-
-A woman will be invited to the Parliamentary Privacy Committee on the record posted on social media criticizing a Member of Parliament.
-
-Speaker Mahinda Yapa Abeywardena today announced that a woman named Lalandi Perera from Kalutara will be called.
-
-He said that the woman, MP Rohitha Abeygunawardena and the Inspector General of Police Deshabandu Tennakoon have been commenting.
-
-◼️
-
-[Data](articles/a1f405a8.json)
-
-[Extended Data](ext_articles/a1f405a8.ext.json)
 
 ---

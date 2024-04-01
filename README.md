@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 11:03:25**
+As of **2024-04-01 11:18:07**
 
 ## Newspaper Stats
 
-*Scraped **16,307** Articles*
+*Scraped **16,313** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 881
 economynextcom | 888
 islandlk | 912
 adalk | 1,367
-tamilmirrorlk | 1,945
-adaderanalk | 1,965
-virakesarilk | 2,314
+tamilmirrorlk | 1,948
+adaderanalk | 1,966
+virakesarilk | 2,316
 dailymirrorlk | 2,512
 adaderanasinhalalk | 2,641
 
@@ -26,11 +26,67 @@ adaderanasinhalalk | 2,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,299 (100.0%) of 16,307 articles have been extended.
+16,307 (100.0%) of 16,313 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### Sri Lankan saves Melbourne woman from romance scam
+
+*2024-04-01 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98339/sri-lankan-saves-melbourne-woman-from-romance-scam) · `en`
+
+A Melbourne woman has been saved from sending thousands of dollars to her sick overseas “boyfriend” after being caught up in a romance scam.
+
+The woman, aged in her 60s, went to a NAB branch in Cranbourne, in Melbourne’s southeast in February, wanting to deposit $2,000 into an account to help her boyfriend, whom she met on social media.
+
+She said her boyfriend, who was living in Turkey, was sick and needed the money to fly to the UK for treatment. But his account had apparently been frozen.
+
+“He told her to instead send the money to his friend in Sydney who could then transfer him the money,” NAB Customer Advisor, Dilan Pathirannahalage said in a statement.
+
+However, alarm bells quickly went off for Mr Pathirannahalage when the woman wasn’t able to provide the recipient’s surname.
+
+“The reason she didn’t know who she was transferring the funds to was because she had never met the person on the other end of the line who she thought was her boyfriend, and so didn’t know their friends either.”
+
+...
+
+[Data](articles/a942f920.json)
+
+---
+
+### மது விருந்து நடாத்திய மாணவ மாணவிகள் கைது
+
+*2024-04-01 11:04:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மது-விருந்து-நடாத்திய-மாணவ-மாணவிகள்-கைது/175-335440) · `ta`
+
+வெலிமடை பகுதியில் கைவிடப்பட்ட கட்டிடத்தில் மது விருந்து நடத்திய பாடசாலை மாணவர்களை பொலிஸார் கைது செய்தனர்.
+
+பழைய கட்டிடத்தில் விருந்து வைத்து கொண்டிருந்த 5 பாடசாலை மாணவர்கள் மற்றும் இரண்டு பாடசாலை மாணவிகளை பொலிஸார் கைது செய்தனர்.
+
+மேலும் விசாரணையில், அவர்கள் தனியார் வகுப்புகளுக்கு செல்வதாக கூறி கைவிடப்பட்ட கட்டிடத்தில் கூடி மது விருந்துக்கு ஏற்பாடு செய்ததாக பொலிஸாரிடம் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/5dca20e6.json)
+
+---
+
+### AI தேர்தல் முறைகேடுகளுக்குத் தயாராகும் இலங்கை
+
+*2024-04-01 10:54:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/AI-தேர்தல்-முறைகேடுகளுக்குத்-தயாராகும்-இலங்கை/175-335439) · `ta`
+
+AI (செயற்கை நுண்ணறிவு) இன் பயன்பாடு அதிகரித்துள்ளதையடுத்து தேர்தல் முறைகேடுகள் உலகளாவிய ரீதியில் அதிகரித்துள்ளதுடன், இலங்கையின் தேர்தல் ஆணைக்குழு எதிர்காலத் தேர்தல்களில் அத்தகைய சாத்தியக்கூறுகளை உருவாக்கி வருவதாக நேற்று அதிகாரி ஒருவர் தெரிவித்தார்.
+
+உலகளாவிய அனுபவத்தின்படி, ஒரு குறிப்பிட்ட வழியில் வாக்களிக்க மக்களை வற்புறுத்துவதற்கான முயற்சிகளுக்கு பங்களிப்பதில் AI இனால் போலித் தகவல்களின் உற்பத்தி மற்றும் பரவலை துரிதப்படுத்த முடியும்.
+
+AI ஆல் தவறான தகவல்களின் அளவை ஆயிரக்கணக்கான மடங்கு பெரிதாக்க முடியும். மேலும் , மிக யதார்த்தமான ஆழமான போலியான படங்கள், ஒலிப்பதிவு அல்லது வீடியோ வாக்காளர்களை உண்மைச் சரிபார்ப்புக்கு முன் சக்திவாய்ந்த முறையில் பாதிக்கலாம். சமூக ஊடக தளங்களால் இவ் அபாயங்கள் இன்னும் கூட்டப்படுகின்றன.
+
+இலங்கையின் தயார்நிலை குறித்து வினவிய போது ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க, ஜனநாயக தேர்தல் நடைமுறைக்கு எதிரான இத்தகைய சவால்களுக்கு ஏனைய நாடுகள் எவ்வாறு பதிலளிப்பது என்பதை ஆராய்வதில் தாம் தற்போது ஈடுபட்டுள்ளதாக தெரிவித்தார்.
+
+...
+
+[Data](articles/ceb4b274.json)
+
+---
 
 ### Management and daily operations of expressways handed over to private sector
 
@@ -48,39 +104,55 @@ Accordingly, the expressway network, lands owned by the expressway, and the rela
 
 [Data](articles/7550b1e9.json)
 
+[Extended Data](ext_articles/7550b1e9.ext.json)
+
 ---
 
-### ගුරු පත්වීම් ගැන අධ්‍යාපන ඇමතිගෙන් විශේෂ දැනුම්දීමක්
+### Minister of Education Special Notice of Teacher Appointments
 
 *2024-04-01 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195161) · `si`
 
-බස්නාහිර පළාතේ ගුරු විභාගයෙන් උපාධිධාරීන් 2,400ක පිරිසක් මේ වනවිට තෝරාගෙන අවසන් බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත් මහතා පවසයි.
+The Minister of Education, Susil Premajayath, announced that 2,400 graduates have been selected from the Teachers' Examination in the Western Province. A special program will be implemented for the remaining examinations, with appointments to be made after the April vacation. The program aims to recruit 2,700 graduates for science, mathematics, and technical subjects, with appointments under the Ministry of Education. Action will also be taken regarding retired and foreign governors and governments.
 
-අද (01) පාර්ලිමේන්තුවේ දී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා උපාධිධාරී ගුරු පත්වීම් සම්බන්ධයෙන් අසන ලද පැනයකට පිළිතුරු දෙමින් අමාත්‍යවරයා මේ බව කියා සිටියේය.
+🟩
 
-ගුරු විභාගය සමත් ඉතිරි පිරිස සම්බන්ධයෙන් මේ දිනවල විශේෂ වැඩසටහනක් ක්‍රියාත්මක කරන බවත් අප්‍රේල් නිවාඩුවෙන් පසුව ඔවුන්ට ද පත්වීම් ලබාදීමට බලාපොරොත්තු වන බව අධ්‍යාපන අමාත්‍යවරයා සඳහන් කළේය.
+Minister of Education Susil Premajayath says that 2,400 graduates have already been selected from the Teachers' Examination in the Western Province.
 
-මේ අතර, උපාධිධාරීන් 2,700ක් විද්‍යාව, ගණිතය, තාක්ෂණික විෂය ධාරා යටතේ බඳවා ගැනීමට ගුරු විභාගය පවත්වා අවසන් බව ද පැවසු අමාත්‍යවරයා, මේ සතියේ ඔවුන්ගේ ප්‍රතිඵල ලබාදීමට නියමිත බව ද පැවසීය.
+The Minister was responding to a question raised by the Opposition Leader of the Graduate Teachers in Parliament today (01).
 
-ඒ අනුව ඔවුන්ට අධ්‍යාපන අමාත්‍යාංශය යටතේ ඇති පුරප්පාඩු සඳහා පත්වීම් ලබාදීමට නියමිත බව ද සුසිල් ප්‍රේම්ජයන්ත් මහතා කියා සිටියේය.
+A special program will be implemented these days regarding the rest of the Teachers' Examination and will be given to appointments after the April vacation.
 
-ඊට අමතරව විශ්‍රාම ගිය සහ විදේශගත වූ ගුරුවරු වෙනුවෙන් සියලු පළාත් ආවරණය කරමින් පුරප්පාඩු 13,000කට අදාළව නව පත්වීම් ලබාදීමට කටයුතු කරන බව ද අමාත්‍යවරයා පැවසීය.
+He said that the teacher will have been taken up to the recruitment of 2,700 graduates under science, mathematics, technical subjects.
+
+According to Susil Premjages, they will be appointed to the vacancies under the Ministry of Education.
+
+In addition, action will be taken to grant the new appointments with regard to the retired and governors and governments abroad.
+
+"We too need teachers. Mostly willing to hire graduates. Of these, 15,000 covers the rest of the people.
 
 ...
 
 [Data](articles/eb92ca98.json)
 
+[Extended Data](ext_articles/eb92ca98.ext.json)
+
 ---
 
-### விமல் வீரவன்ச விடுதலை
+### Wimal Weerawansa's release
 
 *2024-04-01 10:46:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமல்-வீரவன்ச-விடுதலை/175-335437) · `ta`
 
-நீர்கொழும்பு நீதவான் நீதிமன்றத்தினால் வழங்கப்பட்ட உத்தரவுக்கு அமையவே  பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச கடவுச்சீட்டு வழக்கில் இருந்து விடுவிக்கப்பட்டுள்ளார். R
+Wimal Weerawansa, a parliamentarian, has been acquitted in a passport case by the Negombo Magistrate's Court.
+
+🟩
+
+Parliamentarian Wimal Weerawansa has been acquitted from a passport case in accordance with the order issued by the Negombo Magistrate's Court. Remble
 
 ◼️
 
 [Data](articles/2f0e338e.json)
+
+[Extended Data](ext_articles/2f0e338e.ext.json)
 
 ---
 
@@ -98,11 +170,13 @@ However, the MP had claimed that upon arriving at the airport he realized that t
 
 [Data](articles/f3612b71.json)
 
+[Extended Data](ext_articles/f3612b71.ext.json)
+
 ---
 
-### SLFP  இன் குழுக்கூட்டத்தில் கலந்து கொண்ட நீதியமைச்சர்
+### SLFP  இன் குழுக்கூட்டத்தில்  நீதியமைச்சர்
 
-*2024-04-01 10:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SLFP-இன்-குழுக்கூட்டத்தில்-கலந்து-கொண்ட-நீதியமைச்சர்/175-335436) · `ta`
+*2024-04-01 10:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SLFP-இன்-குழுக்கூட்டத்தில்-நீதியமைச்சர்/175-335436) · `ta`
 
 வார இறுதியில் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் மத்திய குழுக் கூட்டத்தில் அமைச்சர் விஜயதாச ராஜபக்ஷ கலந்துகொண்டமை பலரையும் ஆச்சரியத்தில் ஆழ்த்தியுள்ளது. ஶ்ரீலங்கா சுதந்திரக் கட்சியில் இணையவிருக்கிறாரா என வினவிய ஊடகவியலாளர்களுக்கு பதிலளித்த அமைச்சர், தான்  பின்னர் அரசியல் தீர்மானம் ஒன்றை மேற்கொள்வதாக தெரிவித்தார்.
 
@@ -114,19 +188,67 @@ However, the MP had claimed that upon arriving at the airport he realized that t
 
 ◼️
 
-[Data](articles/c1a26e9a.json)
+[Data](articles/6877907a.json)
 
 ---
 
-### විමල් නිදොස්කොට නිදහස්
+### Justice Minister who attended SLFP's group
+
+*2024-04-01 10:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SLFP-இன்-குழுக்கூட்டத்தில்-கலந்து-கொண்ட-நீதியமைச்சர்/175-335436) · `ta`
+
+Justice Minister Vijayadasa Rajapaksa attended SLFP's Central Committee, surprising many. He clarified he's a long-time SLFP member and will make a political resolution. He was invited to lecture on the SLFP's role in stabilizing the economy.
+
+🟩
+
+Minister Vijayadasa Rajapaksa's attendance at the Central Committee of the Sri Lanka Freedom Party (SLFP) has surprised many.. Responding to journalists whether he was joining the Sri Lanka Freedom Party, the minister said he would later make a political resolution.
+
+“I was a member of the Sri Lanka Freedom Party (SLFP) since the time when the late Prime Minister Sirimavo Bandaranaike led the party. So I attend the Sri Lanka Freedom Party's central committee meeting is nothing new. ”
+
+Will you resign from the ministry and join the SLFP for a full -time Sri Lanka Freedom Party?Responding to the question, the minister said he would take a political decision.
+
+He said that he has been invited to lect on the current political situation. During my lecture, I explained how the Sri Lanka Freedom Party (SLFP) could play a role in stabilizing the country's economy, ”he said.
+
+◼️
+
+[Data](articles/c1a26e9a.json)
+
+[Extended Data](ext_articles/c1a26e9a.ext.json)
+
+---
+
+### தெரிவு செய்யப்பட்ட  வைத்தியசாலைகளில் சுகாதார தொழிற்சங்கங்கள் பணிப்பகிஷ்கரிப்பு
+
+*2024-04-01 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/180109) · `ta`
+
+சம்பள பிரச்சினையை முன்வைத்து சுகாதார தொழிற்சங்க கூட்டமைப்பு இன்று திங்கட்கிழமை (01) பணிப்பகிஷ்கரிப்பு போராட்டத்தை ஆரம்பித்துள்ளது.
+
+இன்று காலை 6.30 மணி முதல் தெரிவு செய்யப்பட்ட சில வைத்தியசாலைகளில் பணிப்பகிஷ்கரிப்பு  போராட்டம் முன்னெடுக்கப்படவுள்ளதாக கூட்டமைப்பின் இணை அழைப்பாளர் சானக்க தர்மவிக்ரம தெரிவித்துள்ளார்.
+
+இதேவேளை, தமது முறைப்பாடுகளுக்கு தீர்வு கிடைக்காவிடின், நாளை செவ்வாய்க்கிழமை (02) நாடளாவிய ரீதியில் காலவரையற்ற பணிப்பகிஷ்கரிப்பு  போராட்டத்தை முன்னெடுக்க தீர்மானித்துள்ளனர்.
+
+நாடளாவிய ரீதியில் அனைத்து வைத்தியசாலைகளிலும் 4 மணிநேர பணிப்பகிஷ்கரிப்பு போராட்டத்தை முன்னெடுக்க தீர்மானித்திருந்தோம், ஆனால் இன்று ஜனாதிபதி அலுவலகம் எங்களை கலந்துரையாடலுக்கு அழைத்துள்ளது. எனவே, திட்டமிட்ட வேலைநிறுத்தத்தை கண்டி, அனுராதபுரம், இரத்தினபுரி, குருநாகல் மற்றும் பதுளை போன்ற 05 வைத்தியசாலைகளுக்கு மட்டுப்படுத்த தீர்மானித்தோம். இன்று தீர்வு கிடைக்காவிட்டால் நாளை நாடாளவிய பணிப்பகிஷ்கரிப்பில் ஈடுபடுவோம் என அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/6e605e07.json)
+
+---
+
+### Wimal acquitted
 
 *2024-04-01 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195160) · `si`
 
-විදේශ ගමන් බලපත්‍ර නඩුවෙන් පාර්ලිමේන්තු මන්ත්‍රී විමල් වීරවංශ මහතා නිදොස් කොට නිදහස් කොට තිබේ.
+MP Wimal Weerawansa acquitted in passport case.
+
+🟩
+
+MP Wimal Weerawansa has acquired and released from the passport case.
 
 ◼️
 
 [Data](articles/eef5c205.json)
+
+[Extended Data](ext_articles/eef5c205.ext.json)
 
 ---
 
@@ -189,6 +311,22 @@ He said he was invited to deliver a lecture on current political situation.” I
 [Data](articles/2b8c8ae3.json)
 
 [Extended Data](ext_articles/2b8c8ae3.ext.json)
+
+---
+
+### யாழில் வைத்தியசாலை பணியாளர் மீது தாக்குதல்
+
+*2024-04-01 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180108) · `ta`
+
+யாழ்ப்பாணம் - குறிகட்டுவான் இறங்குதுறையில் வைத்து, புங்குடுதீவு வைத்தியசாலை பணியாளர் மீது தாக்குதல் மேற்கொள்ளப்பட்டுள்ளது.
+
+நயினாதீவில் வசிக்கும் குறித்த பணியாளார் நேற்று ஞாயிற்றுக்கிழமை , நயினாதீவில் இருந்து, படகில் குறிகட்டுவான் இறங்குதுறையில் வந்து இறங்கிய வேளை, அங்கு காத்திருந்த இருவர் அவர் மீது தாக்குதலை நடத்தியுள்ளனர்.
+
+கடற்படையினர் , பொதுமக்கள் பார்த்திருக்க இருவரும் பணியாளர் மீது சரமாரியாக தாக்குதலை நடத்தி விட்டு தப்பி சென்றுள்ளனர்.
+
+◼️
+
+[Data](articles/100a3edb.json)
 
 ---
 
@@ -436,29 +574,9 @@ The Department of Immigration and Emigration has summoned the officers of the De
 
 ---
 
-### Person dies after fire
-
-*2024-04-01 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195157) · `si`
-
-A person died in a fire in Sakupitiya, Dehiattakandiya. The deceased set the fire in paddy fields.
-
-🟩
-
-A person was burned to fire in the Sakupitiya area in Dehiattakandiya police, police said.
-
-The deceased has left the house saying that the deceased was to set fire to the paddy fields.
-
-◼️
-
-[Data](articles/b11d3326.json)
-
-[Extended Data](ext_articles/b11d3326.ext.json)
-
----
-
 ### Karthik Flower No Magnetic Flower: We gave teachers "Subrise"
 
-*2024-04-01 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180103) · `ta`
+*2024-04-01 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180103) · `ta`
 
 During a Home Athletics Competition in Tellipala, Jaffna, a Karthik Flower and Military Vehicle display led to police questioning students and teachers about decorations. Students denied knowledge of the flower and its decoration, and the principal clarified that teachers had discussed the competition's decorations.
 
@@ -488,23 +606,53 @@ During this time, the students repeated the same response, even though the polic
 
 ---
 
-### ලංකාවේ ළාබාලම ජාතික චෙස් ශූරිය ඕෂිනි
+### Person dies after fire
+
+*2024-04-01 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195157) · `si`
+
+A person died in a fire in Sakupitiya, Dehiattakandiya. The deceased set the fire in paddy fields.
+
+🟩
+
+A person was burned to fire in the Sakupitiya area in Dehiattakandiya police, police said.
+
+The deceased has left the house saying that the deceased was to set fire to the paddy fields.
+
+◼️
+
+[Data](articles/b11d3326.json)
+
+[Extended Data](ext_articles/b11d3326.ext.json)
+
+---
+
+### Sri Lankan youngest National Chess Shuriya Ocean
 
 *2024-04-01 09:21:49* · [`adalk`](https://www.ada.lk/sports/ලංකාවේ-ළාබාලම-ජාතික-චෙස්-ශූරිය-ඕෂිනි/9-408871) · `si`
 
-2024 ශ්‍රී ලංකා ජාතික චෙස් ශූරතාවලියේදී පිරිමි ශූරතාව කොළඹ ලවුපර් චෙස් ක්‍රීඩා රනිදු දිෂාන් ලියනගේ දිනා ගත්තේය.එහි කාන්තා ශූරතාව දිනා කොළඹ විචර්ලි ජාත්‍යන්තර පාසලේ ඔෂිනි දේවින්ද්‍යා ගුණවර්ධන දිනා ගත්තාය.
+Colombo Laked Liyanage won the women's championship in the Sri Lanka National Chess Championships. Gunawardena secured the National Chess title for the second time. The tournament, held from 22 to 31 March, featured intense competition, with notable performances from Liyanage, De Silva, and Gunawardena.
 
-පැවති තරග වට 13න් ලකුණු 12ක් ලබා ගනිමින් රනිදු දිල්ෂාන් ලියනගේ මෙවර ජාතික චෙස් ශූරයා ලෙස අබිසෙස් ලබා ගනිද්දී තරග වට 13න් ලකුණු 11ක් ලබාගත් ඔෂිනි දේවින්ද්‍යා ගුණවර්ධන ජාතික චෙස් ශූරිය ලෙස අභිසෙස් ලැබුවාය.
+🟩
 
-රනිදු දිල්ෂාන් ලියනගේ ශ්‍රී ලංකා ජාතික චෙස් ශූරයා ලෙස තේරීපත්වූවේ දෙවැනි වරටය.ඒ ශ්‍රී ලංකා ජාතික චෙස් ශූරයා ලෙස ගිය වසර ඇතුලත්ව පිට පිටම තුන් වතාවක් ජාතික චෙස් ශූරයාවූ කොළඹ නාලන්දා විද්‍යාලයේ ලොකුගේ සුසාල් ද සිල්වා පරාජය කරමින්වීම විශේෂත්වයකි.
+In the Sri Lanka National Chess Championships, Colombo Laked Liyanage won the women's championship.
 
-එමෙන්ම තවත් ශ්‍රී ලංකා ජාතික චෙස් ශූරයා ලෙස කිරුළු පැළද සිටි මොරටුව විශ්වවිද්‍යාලයේ හර්ෂණ තිලකරත්නයන්ද අභිබවමින් වීම ද මෙහි ඇති තවත් විශේෂත්වයකි.
+When the National Chessz Liyanage received 12 runs in the 13 match rooms, West obtained as the National Chess Chassy Gunawardena.
 
-ඔෂිනි දේවින්ද්‍යා ගුණවර්ධන ශ්‍රී ලංකා ජාතික චෙස් ශූරිය ලෙස කිරුළු පැලදියේ මේ පළමු වරටය.එමෙන්ම මේසා ලාබාල චෙස් ක්‍රීඩිකාවක් ශ්‍රී ලංකා ජාතික චෙස් ශූරිය ලෙස කිරුළු පැළදි පළමු අවස්ථාව මෙයවීමද විශේෂත්වයකි.
+The second time he was elected as Sri Lanka's national chess champion in Sri Lanka.
+
+It is also another specialty of Sri Lanka's national chess champion as crown.
+
+The first time at the first time in the crown of Sri Lanka as the Sri Lankan Chess Chaza, the Sri Lanka National Chess Chasshop is a Sri Lankan chess champion as Sri Lanka National Chess Chaser.
+
+Sri Lankan National Chess Chasor, the youngest chess player, who exceeds Sri Lankan chess championer in the University of Kelaniya and Hatton National Bank PLC.Especially noticeable.
+
+The Sri Lanka Chess Federation organized by the Sri Lankan Chess Federation was held at the Sports Medical Institution Auditorium from 22 to 31 March.
 
 ...
 
 [Data](articles/733928dc.json)
+
+[Extended Data](ext_articles/733928dc.ext.json)
 
 ---
 
@@ -560,25 +708,33 @@ Residents of the area have expressed concern that the youths are addicted to the
 
 ---
 
-### ජනපතිවරණය කල් දාන්න කිසිම අවස්ථාවක් නෑ
+### There is no chance to postpone the presidential election
 
 *2024-04-01 09:07:19* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-කල්-දාන්න-කිසිම-අවස්ථාවක්-නෑ/11-408870) · `si`
 
-ජනාධිපතිවරණය සැප්තැම්බර් 17දාත් ඔක්තෝමිිබර් 17දාත් අතර පැවැත්විය යුතු බවත් එය කල් දැමීමට අවස්ථවක් නොමැති බවත් පාර්ලිමෙන්තු මන්ත්‍රී පාඨලි චම්පික රණවක මහතා පවසයි.
+The presidential election cannot be postponed. Parliamentary elections are scheduled between September 17 and the end of the event. The UPFA Ratnapura District Conference was held at the Town Hall. Basil Daivika mentioned no chance of postponement until May 9, 2022. Gas shortages affected innocent road users. Hammithin Hamabnoknokin cannot return to Parliament after the next presidential election. Politics has disappointed families. Some expected more than Rs. due to fraudulent sticker issues. The Excise Department expelled a member for fraudulent liquor business. Meii is late, but a program to build the country is presented. Medi Cati's engineers, including university professors, left to create Mei Cycli.
 
-එක්සත් ජනරජ පෙරමුණේ රත්නපුර  දිස්ත්‍රික් සමුළුව රත්නපුර නගර ශාලාවේ පැවැති අතර එය අමතමින් ඔහු මේ බව පැවැසීය.
+🟩
 
-"බැසිල් මහත්තයා හදිසියේම මවි රටෙිි සිට ඇවිදින් මහ මැතිවරණයක්  දියවිි කියනවා ජන වරමක් නැතිලු දැන් තමයි තේරෙන්නේ ජනවරම නැහැ කියලා. ජනවරම නැති වුනේ 2022 මැයි 9වන දිනයි. ගෑස් නැතිව තෙල් නැතිව බඩ ගින්නේ මහ පාරට ආපු අහිංසක මිනිසුන්ට ගහලා තමයි ජන වරම නැති කර ගත්තේ.
+Parliamentary election should be held between September 17 and the event was held between Rathwriting and the end of the event.
 
-දැන් ජනවරම  ඉල්ලනවා හමිිබන්තොටින් නැවත එන්න බලනවා ඊළඟ ජනාධිපතිවරනයෙන්  කාටවත් රාජපක්ෂ  පවුලේ අයට නැවත පාර්ලිමේන්තුවට එන්න බැහැ.
+The Ratnapura District Conference on the UPFA was held at the Ratnapura Town Hall, addressing it.
 
-දැන් දේශපාලනය  ගැන කලකිරිමක් තිබෙනවා ජිිවන බරින් පවුල් මිරිකිලා  කන වෙිිල සොයා ගන්න බැරි තත්වයට පත්වෙලා.
+"Mr. Basil suddenly, Daivika says that there is no penal to see there is no January. Dis until May 9, 2022, lost the mandate.Without gas, the stomach was lost to the innocent people who came to the road to the road to the road.
 
-දේශපාලනයේ හැමෝ⁣ම හොරු නෙවෙයි දැන් මතයක් හදලා තිබෙනවා 225 හොරු කියලා හැමෝම හොරු නොවෙයි දුෂිතයින්  නොවෙයි  මෙිි රට ගොඩ ගන්න කැමති පිරිසක්  ඉන්නවා අන්න ඒ පිරිස සමඟ ඉදිරියට  යන්න අපි කථා කරගෙන යනවා එකමුතු වෙලා ඒ ශක්තිමත් සාකච්ඡාව  අරගෙන යනවා.
+Now, Hammithin to Hamabnoknokin is to come back from the next presidential election cannot come back to Parliament.
+
+Now there is a disappointment about politics, families are not found in the face of squeezing families.
+
+There is always a strong discussion with the people, not all of the politics in politics.
+
+Those who were expecting more than Rs.
 
 ...
 
 [Data](articles/ccbb30b2.json)
+
+[Extended Data](ext_articles/ccbb30b2.ext.json)
 
 ---
 
@@ -2055,149 +2211,5 @@ David Miller did not play with 44 runs and Vijay Shankar 14 runs.
 [Data](articles/47419069.json)
 
 [Extended Data](ext_articles/47419069.ext.json)
-
----
-
-### This is an event that is angry with every Indian - Modi
-
-*2024-03-31 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195144) · `si`
-
-Narendra Modi accuses Congress of ceding Kachchativu Island to Sri Lanka in 1974, claiming it weakens India's unity. Critics argue the island's status is disputed. Tamil Nadu fishermen report Sri Lankan Navy's boycott of their elections.
-
-🟩
-
-Indian Prime Minister Narendra Madhi alleges that the Government of the Congress has acted in 1974 to provide Kachchativu Island to Sri Lanka.
-
-The Indian Prime Minister has shown that the Congress Party has weakened the unity of the unity of India by the process.
-
-Indian Prime Minister Narendra Modi had stated that in conservation of the Kachchativu Island in 1974 by the Government of Kachchativu.
-
-The Prime Minister of the Indian Prime Minister has shown that the Government of Congress has been given Kachchativu Island to Sri Lanka.
-
-Narendra Modi has stated that every Indian is an angry incident and can never be relied on the Congress Party.
-
-However, political critics show that the title of Kachchativu Island has come to the fleet.
-
-Tamil Nadu Fisheries Assistants have already stated that the Sri Lankan Navy continues to boycott the election of the Indian fishermen.
-
-◼️
-
-[Data](articles/fa5b90f3.json)
-
-[Extended Data](ext_articles/fa5b90f3.ext.json)
-
----
-
-### Kilinochchi Ayurvedic Hospitals shortage for pharmaceuticals
-
-*2024-03-31 21:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180078) · `ta`
-
-Kilinochchi Ayurvedic Hospitals face a severe pharmaceutical shortage, affecting patient treatments and economic crisis-induced medicine purchases. Over 50% of drugs are scarce for over six months, with no new supplies from Colombo.
-
-🟩
-
-It has been pointed out by the public that there is a severe shortage of medicines in Ayurvedic hospitals in Kilinochchi.
-
-It has been pointed out that doctors are recommended to obtain medications for patients who go to Ayurvedic treatments and that most of the public is unable to buy medicines due to economic crisis.
-
-When contacted by the doctors involved in this regard, they said that over 50 percent of the drugs have been scarce for more than six months and that they have not received the medicine from Colombo, they said.
-
-◼️
-
-[Data](articles/8d23fcd4.json)
-
-[Extended Data](ext_articles/8d23fcd4.ext.json)
-
----
-
-### Surya with Karthik Subburaj with Karthik Subburaj
-
-*2024-03-31 20:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/180080) · `ta`
-
-Surya stars in a new film with director Karthik Subburaj, following 'Gangua'. Subburaj, known for 'Jigarthanda Double X' and Ram Saran's 'Game Changer', is producing 'Surya 44', expected to start soon, with a first look on April 14.
-
-🟩
-
-Following the film 'Gangua', Surya, director Karthik Subburaj, is starring in the new film.. An official announcement has been made.
-
-Karthik Subburaj, who directed the film 'Jigarthanda Double X', which was a huge success in the last year.. Director Karthik Subburaj has also written the story of Telugu star actor Ram Saran: Game Changer '. Product- distribution- movement-.. Surya has agreed to act in a new film with Karthik Subburaj, who has a unique place in the film industry.
-
-Surya, who agreed to star in the film 'Surra Kongara' directed by Sudha Kongara, directed by director Vijayamaran's film 'Vadivasal'.. The filmmakers have said that Surya has agreed to act in an unnamed film directed by Karthik Subburaj.
-
-The film is produced by Surya's own film company 2D Entertainment Company as usual. The film, titled 'Surya 44', is observed that the work of the film will begin soon. Look or First Look is expected to be released on April 14, the official title of this.
-
-...
-
-[Data](articles/d6e88189.json)
-
-[Extended Data](ext_articles/d6e88189.ext.json)
-
----
-
-### Motion poster release of Vaibhav starring 'Chennai City Gangsters'
-
-*2024-03-31 20:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180082) · `ta`
-
-"Motion poster of 'Chennai City Gangsters' released, featuring Vaibhav and a star-studded cast. Directed by Vikram Rajeswar and Arun Keshav, produced by BBI Universal Productions. The film, a dark horror, has been eagerly anticipated by fans."
-
-🟩
-
-The motion poster of the film 'Chennai City Gangsters:' has been released as the hero of the story of actor Vaibhav, who is a hope star for small investment films.
-
-Directors Vikram Rajeswar and Arun Keshav starring Vaibhav, Atulia Ravi, Manikandan Rajesh, Anand Rajesh, Anand Raj, I God Rajendran, John Vijay, Redin Kingsley, Sunil Reddy, Prince, Livingston, Shihan Husini. Tijo Tony's cinematography. Iman has composed music. The film is being produced by BBI Universal Productions, produced by Bobi Balachandran, who produced the film 'Demandi Colony 2'.
-
-The film's motion poster has been released as Look has been released on the title of the film. The film, which is being developed as Dark Hemoor, has been welcomed by the fans.
-
-◼️
-
-[Data](articles/75c3999f.json)
-
-[Extended Data](ext_articles/75c3999f.ext.json)
-
----
-
-### Colombo University Business Economic Summit 2024: Keynote address
-
-*2024-03-31 20:56:32* · [`dailyftlk`](https://www.ft.lk/columns/Colombo-University-Business-Economic-Summit-2024-Keynote-address/4-760120) · `en`
-
-Since India is also planning to become a developed country just one year before Sri Lanka’s target year, it is important that Sri Lanka should ride the bandwagon of India
-
-Sri Lanka should reduce the size of its Government progressively and reallocate its scanty resources for the promotion of the technological base in the economy. For this purpose, it should engage its universities and research institutes to conduct new research and come up with inventions which could be successfully converted to commercial products for sale in the global markets. For this, it is necessary for the country to establish a learning society at all levels, family, schools, universities, and workplaces. It is only a learning society that could create new things that will enable the country to generate wealth and prosperity
-
-...
-
-[Data](articles/8397c9e6.json)
-
-[Extended Data](ext_articles/8397c9e6.ext.json)
-
----
-
-### Sirisena-former president's new colleague, who accused India of the lifeblood attack on the Sunday attack, was responsible for the allegation.
-
-*2024-03-31 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180066) · `ta`
-
-Sirisena accuses India of the Sunday attack, revealing new information days before the event. He claims to know who is behind the attack and plans to report it in court. Public Security Minister Tran Ales orders an investigation into Sirisena's claims. Sirisena admits India is behind the attack, citing diplomatic discussions. The government investigates allegations of involvement, focusing on national security.
-
-🟩
-
-Former President Maithripala Sirisena has said that India has said that India is behind the Sunday attack, saying that a person who has recently joined with Sirisena, who has recently joined the allegation, is investigating whether the government is in the wake of the allegation.
-
-Former President Maithripala Sirisena has released new information to change the history of the past.
-
-He released this new information as he had a few days for the survival Sunday.
-
-When he visited Kandy last Friday, he outlined that new issues were revealed about his life -threatening Sunday.
-
-After attending his events in Kandy, he spoke to journalists and said he was aware of who was behind the Sunday attack.
-
-Maithripala Sirisena said that he would report it in the presence of the court.
-
-It was evident that two of her assistants had made arrangements to interview Sirisena media in Colombo.
-
-...
-
-[Data](articles/8aa9e2c9.json)
-
-[Extended Data](ext_articles/8aa9e2c9.ext.json)
 
 ---

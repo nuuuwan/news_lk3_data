@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 17:18:06**
+As of **2024-04-01 17:35:15**
 
 ## Newspaper Stats
 
-*Scraped **16,401** Articles*
+*Scraped **16,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,146 @@ economynextcom | 893
 islandlk | 912
 adalk | 1,381
 tamilmirrorlk | 1,960
-adaderanalk | 1,977
-virakesarilk | 2,335
-dailymirrorlk | 2,520
-adaderanasinhalalk | 2,658
+adaderanalk | 1,979
+virakesarilk | 2,338
+dailymirrorlk | 2,525
+adaderanasinhalalk | 2,660
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,398 (100.0%) of 16,401 articles have been extended.
+16,401 (99.9%) of 16,413 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### மட்டக்களப்பு பட்டிருப்பு தேசிய பாடசாலை ஆசிரியர்கள் கவனயீர்ப்பு போராட்டம்
+
+*2024-04-01 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180162) · `ta`
+
+மட்டக்களப்பு மாவட்டத்தின் பட்டிருப்பு கல்வி வலயத்திற்குட்பட்ட பட்டிருப்பு தேசிய பாடசாலையின் ஆசிரியர்கள் இன்று திங்கட்கிழமை (01) பிற்பகல் பாடசாலைக்கு முன்பாக கவனஈர்ப்பு போராட்டம் ஒன்றினை மேற்கொண்டனர்.
+
+பட்டிருப்பு வலய கல்விப்பணிப்பாளரினால் ஆசிரியர் இடமாற்றத்தின்போது பிழையான வகையான செயற்பாடுகள் முன்னெடுப்பதாக கூறி இந்த போராட்டம் முன்னெடுக்கப்பட்டது.
+
+தேசிய அரசாங்கத்தின் கீழ் தேசிய பாடசாலைகள் இயங்கும் நிலையில் மாகாணசபையின் கீழ் இயங்கும் நிர்வாகங்கள் இடமாற்றங்களை மேற்கொள்ளும் செயற்பாடுகளை கண்டித்தே இந்த ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
+
+நீதியற்ற முறையில் இடம்பெற்றுவருகின்ற ஆசிரியர் இடமாற்றத்திற்கு எதிராக இன்றைய தினம் பாடசாலை கற்றல் நடவடிக்கைகள் நிறைவடைந்த பின்னர் இந்த கவனயீர்ப்பு போராட்டம் பாடசாலையில் முன்பாக இடம்பெற்றது.
+
+தாங்கள் தேசிய பாடசாலையின் கீழ் நியமனம்பெற்றுள்ள நிலையில் தங்களுக்கு இடமாற்றங்கள் வழங்கவேண்டுமானால் இன்னுமொரு தேசிய பாடசாலைக்கே இடமாற்றம் வழங்கவேண்டும் என்றும் மாறாக மாகாண பாடசாலைகளுக்கு இடமாற்றம் செய்வதை அனுமதிக்கமுடியாது எனவும் ஆசிரியர்கள் இதன்போது தெரிவித்தனர்.
+
+...
+
+[Data](articles/b719ff9c.json)
+
+---
+
+### Sri Lanka extends free visa scheme for 7 countries
+
+*2024-04-01 17:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98352/sri-lanka-extends-free-visa-scheme-for-7-countries) · `en`
+
+The pilot project of granting visa-free entry to Sri Lanka for visitors from seven countries will be extended until April 30, 2024, Minister of Tourism Harin Fernando said.
+
+Posting on ‘X’ (formerly Twitter), the Minister further explained that a final decision regarding the matter will be taken during the next few weeks of the pilot project.
+
+In October 2023, the Cabinet of Ministers approved visa-free entry for visitors from seven countries - India, China, Russia, Malaysia, Japan, Indonesia and Thailand as a pilot project until 31 March 2024.
+
+Earlier, the Tourism Minister had stated that the purpose of exempting tourists from many countries from visas is to “attract more tourists to Sri Lanka. “Accordingly, it is expected to increase tourist arrivals to five million over the coming years”, according to the minister.
+
+◼️
+
+[Data](articles/1ee87cd4.json)
+
+---
+
+### 3 மாதங்களில் 6 இலட்சம் சுற்றுலாப் பயணிகள் நாட்டிற்கு வருகை
+
+*2024-04-01 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/180156) · `ta`
+
+இவ் ஆண்டின் முதல் மூன்று மாதங்களில் நாட்டிற்கு 600,000 சுற்றுலாப் பயணிகள் வருகை தந்துள்ளனர்.
+
+அதன்படி, மார்ச் மாதம் 31 ஆம் திகதி நிலவரப்படி  நாட்டிற்கு 608,475 சுற்றுலாப் பயணிகள் வருகை தந்துள்ளதாக சுற்றுலாத் துறை அமைச்சர்  ஹரின் பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+இவ் ஆண்டில் முதல் மூன்று மாதங்களில் ஒவ்வொரு மாதமும்  200,000 சுற்றுலாப் பயணிகள் வருகை தந்துள்ளதோடு, இது இலங்கைக்கு ஒரு  திருப்பு முனையாகவுள்ளதாக அமைச்சர் ஹரின் பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+2018 ஆம் ஆண்டில் நாட்டிற்கு வருகை தந்த சுற்றுலாப்பயணிகளின் எண்ணிகையை அண்மித்துள்ளதாக இலங்கை சுற்றுலா அபிவிருத்தி அதிகாரசபையின் (SLTDA)தரவுகள் சுட்டிகாட்டியுள்ளது.
+
+இந்நிலையில், 2024 ஆம் ஆண்டில் ஜனவரி மாதத்தில் 208,253 பேரும், பெப்ரவரி மாதத்தில்  218,350 பேரும், மார்ச் மாதத்தில் 209,181 பேரும் வருகை தந்துள்ளானர்.
+
+மார்ச் மாதத்தில் இந்தியாவிலிருந்து 28,218 பேரும்,  ரஷ்யாவிலிருந்து 25,112  பேரும், ஜேர்மனியில் இருந்து 16,745 பேரும், ஐக்கிய இராச்சியத்திலிருந்து 16,649  பேரும், சீனாவிலிருந்து 11,220 பேரும் வருகை தந்துள்ளனர்.
+
+...
+
+[Data](articles/a357c389.json)
+
+---
+
+### Health trade unions to launch 4-hour strike in 10 major hospitals tomorrow
+
+*2024-04-01 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98351/health-trade-unions-to-launch-4-hour-strike-in-10-major-hospitals-tomorrow) · `en`
+
+The trade unions affiliated with the Health Trade Union Alliance have decided to launch a 4-hour token strike in 10 selected hospitals on Tuesday (02).
+
+Speaking to the media, Co-convener of the Health Trade Union Alliance Ravi Kumudesh said that they will go on strike within 10 major hospitals across the island, starting from 06.30 a.m. tomorrow.
+
+He stated that they have been informed by the Health Secretary that the discussion which was scheduled to be held today at the Presidential Secretariat has been postponed until tomorrow evening due to unavoidable reasons.
+
+Therefore, he said they decided to postpone the indefinite strike action which was to commence tomorrow morning by 24 hours. At the same time, a decision was taken to engage in a 4-hour token strike at 10 hospitals from 6.30 a.m. tomorrow.
+
+The hospitals in which the token strike is in place are as follows;
+
+...
+
+[Data](articles/f7140d43.json)
+
+---
+
+### ශ්‍රී ලංකාව ලකුණු 455ක් ඉදිරියෙන්
+
+*2024-04-01 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195180) · `si`
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවැත්වෙන දෙවැනි ටෙස්ට් තරගයේ තුන්වැනි දිනය අවසන් වන විට ශ්‍රී ලංකා කණ්ඩායම සිය දෙවැනි ඉනිම සඳහා කඩුලු 6ක් දැවී ලකුණු 106ක් ලබා සිටියේය.
+
+ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම බංග්ලාදේශයට වඩා ලකුණු 455ක් ඉදිරියෙන් සිටී.
+
+◼️
+
+[Data](articles/4503bc95.json)
+
+---
+
+### මහ බැංකුවේ වැටුප් වැඩිවීම සමාලෝචනයට ජනපතිගෙන් කමිටුවක්
+
+*2024-04-01 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195179) · `si`
+
+රජයේ මුදල් පිළිබඳ කාරක සභාවේ නිර්දේශ මත පදනම්ව ශ්‍රී ලංකා මහ බැංකුවේ වැටුප් වැඩිවීම සමාලෝචනය කිරීම සඳහා මුදල් ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යවරයා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ස්වාධීන පාරිශ්‍රමික කමිටුවක් පත් කර තිබේ.
+
+දිනේෂ් ස්ටීවන් වීරක්කොඩි, අර්ජුන හේරත්, ආචාර්ය ඉන්ද්‍රජිත් කුමාරස්වාමි, සුධර්මා කරුණාරත්න, ඇන්තනී නිහාල් ෆොන්සේකා, අනුෂ්ක එස්. විජේසිංහ, දුමින්ද හුලංගමුව යන මහත්ම මහත්මීන් මෙම කමිටුවේ සාමාජිකයන් ලෙස පත් කර ඇත.
+
+රජයේ මුදල් කාරක සභාව හා ශ්‍රී ලංකා මහ බැංකුව අතර සිදු වූ සියලු ලිපි ගණුදෙනු මත පදනම්ව, ශ්‍රී ලංකා මහ බැංකුවේ ස්වාධීනත්වයට හානියක් නොවන පරිදි ගැටළුවට සාධාරණ විසඳුමක් සහිතව සහ ශ්‍රී ලංකා මහ බැංකුවේ 2024-2026 වැටුප් සංශෝධනය ශීර්ෂය සහිත 2024-03-16 දිනැති ශ්‍රී ලංකා මහ බැංකුවේ ලිපියට විශේෂ අවධානයක් යොමු කරමින් සාකච්ඡාවට තුඩු දී ඇති වැටුප් වැඩි කිරීම සලකා බැලීම සඳහා මුදල් අමාත්‍යවරයා ලෙස ජනාධිපතිවරයා විසින් මෙම කමිටුව පත් කර තිබේ.
+
+◼️
+
+[Data](articles/3132ce71.json)
+
+---
+
+### கேகாலை, நுவரெலியா, பதுளை, பொலன்னறுவை மாவட்ட அஸ்வெசும பயனாளிகளுக்கு சித்தரைப் புத்தாண்டுக்கு முன்னர் கொடுப்பனவு
+
+*2024-04-01 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180169) · `ta`
+
+கேகாலை, நுவரெலியா, பதுளை மற்றும் பொலன்னறுவை மாவட்டங்களில் அஸ்வெசும நலன்புரி கொடுப்பனவு திட்டத்தின் கீழ் 2500 ரூபாவைப் பெற்றுக் கொள்வதற்கு தகுதி பெற்ற பயனாளிகள் பல்வேறு நெருக்கடிகளை எதிர்கொண்டிருந்தனர். அவர்களுக்கு சித்திரைப் புத்தாண்டுக்கு முன்னர் குறித்த கொடுப்பனவை வழங்குவதற்கு நடவடிக்கை எடுக்கப்படும் என்று நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டி தெரிவித்தார்.
+
+இந்த மாவட்டங்களில் அஸ்வெசும பயனாளிகள் தெரிவு செய்யப்பட்ட போது, குறைந்த புள்ளிகளைப் பெற்றுக் கொண்ட பெறுமளவானவர்கள் பெயர்பட்டியலில் உள்ளடக்கப்பட்டிருந்தமையால், அந்த மாவட்டங்களுக்கான கோட்டாவை விட உயர் மட்டத்தில் காணப்பட்டமையால் இந்த நெருக்கடி ஏற்பட்டிருந்தது.
+
+எவ்வாறிருப்பினும் இம்மாதம் முதல் வாரத்துக்குள் இந்த சிக்கல்கள் அனைத்தும் நிவர்த்தி செய்யப்படும். அதற்கமைய 2500 ரூபா கொடுப்பனவு தடையின்றி வழங்கப்படும். கடந்த வாரம் இடம்பெற்ற அஸ்வெசும நலன்புரி சபைக் கூட்டத்தில் இதற்கான இணக்கப்பாடு எட்டப்பட்டதாக இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டி மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/b941dba2.json)
+
+---
 
 ### Health workers and nurses in Nuwara Eliya in Nuwara Eliya
 
@@ -134,6 +260,22 @@ Sudarshani Fernando Point of Parliamentary Women's Union, Sudarshani Fernando Po
 
 ---
 
+### President appoints Independent Remuneration Committee to review Central Bank pay hike
+
+*2024-04-01 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-appoints-Independent-Remuneration-Committee-to-review-Central-Bank-pay-hike/108-279969) · `en`
+
+Colombo, April 1 (Daily Mirror) - President Ranil Wickremesinghe, in his capacity as the Minister of Finance, Economic Stabilization and National Policies has appointed an Independent Remuneration Committee to review the salary increase of the Central Bank.
+
+The Committee has been appointed based on the recommendation in the report of the Committee on Public Finance (CoPF) on the salary revision of the Central Bank.
+
+The CoPF, in its report recommended that an independent committee be appointed by the Finance Ministry to review the Central Bank salary revisions.
+
+◼️
+
+[Data](articles/1dcbbd98.json)
+
+---
+
 ### President appoints independent committee to review CBSL salary hikes
 
 *2024-04-01 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98349/president-appoints-independent-committee-to-review-cbsl-salary-hikes) · `en`
@@ -167,6 +309,20 @@ This appointment of the committee has been made based on the recommendation in t
 [Data](articles/5ede28fe.json)
 
 [Extended Data](ext_articles/5ede28fe.ext.json)
+
+---
+
+### Ten distillery companies default taxes worth Rs 6.9 billion in 2023
+
+*2024-04-01 16:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ten-distillery-companies-default-taxes-worth-Rs-6-9-billion-in-2023/108-279968) · `en`
+
+Ten distillery companies have defaulted taxes to the tune of Rs 6.9 billion in 2023 as per the report of the Ways and Means Committee which was tabled in Parliament today.
+
+The companies that have defaulted include W.M. Mendis & Company, Wayamba Distilleries, Wayamba Spirit, Globe Blenders, McCallum Brewery, Kalutara Cooperative Distilleries, Synergy Distilleries, Randenigala Distilleries, Hingurana Distilleries and Royal Ceylon Distilleries.
+
+...
+
+[Data](articles/7603773d.json)
 
 ---
 
@@ -216,19 +372,25 @@ Former President Maithripala Sirisena recently said that he was aware of the Eas
 
 ---
 
-### ගාසාහි ළමා අරමුදලට ලංකාවෙනුත් ඩොලර් මල්ලක්
+### Sri Lanka is also a bag of dollars in Gaza
 
 *2024-04-01 16:11:45* · [`adalk`](https://www.ada.lk/breaking_news/ගාසාහි-ළමා-අරමුදලට-ලංකාවෙනුත්-ඩොලර්-මල්ලක්/11-408885) · `si`
 
-ගාසා තීරයේ ගැටුම් වලින් විපතට පත් දරුවන් සඳහා ශ්‍රී ලංකා රජය ඇමරිකානු ඩොලර් මිලියනයක පරිත්‍යාගයක් ඒක්සත් ජාතීන්ගේ නිල නියොජිතයානියොජිතයා හරහා පලස්තීන රජය වෙත භාරදීම අද (01) දින සිදුවිය.
+Sri Lanka's government handed over to Palestine. President Ranil Wickremesinghe met with Dr. Suhhir MH. Zyeid, Palestinian representative, and other officials.
 
-ඊට අදාළ චෙක්පත ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ශ්‍රී ලංකාවේ සිටින පලස්තීන තානාපති ආචාර්ය සුහයිර් එම්.එච්. සෙයිඩ් (HE. Zuhair M.H. Dar Zaid) මහතා වෙත නිල වශයෙන් භාර දෙනු ලැබීය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ පුධානත්වයෙන් සහ විදේශ කටයුතු අලි සබ්‍රි, ජනාධිපති ලේකම් සමන් ඒකනායක ඇතුළු මහත්ම මහත්මීන් හා ශ්‍රී ලංකාවේ පලස්තීන තානාපති කාර්යාලයේ ජ්‍යෙෂ්ඨ නිලධාරිහු පිරිසක් ඊට එක්ව සිටියහ.
+The Government of Sri Lanka has been handed over to the Palestinian government through the official representatives of the Abeyers.
+
+President Ranil Wickremesinghe, President Ranil Wickremesinghe, is Dr. Suhhir MH. Zyeid (he. Zuhair m.h. DAR Zaid) was officially handed over to Mr. Dar Zaid.
+
+Senior Sabri, Foreign Ava, Samun Ekanayake and the Chairman of the Palestinian Embassy in Sri Lanka, were joined the President with President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/10555bc7.json)
+
+[Extended Data](ext_articles/10555bc7.ext.json)
 
 ---
 
@@ -322,6 +484,22 @@ Chairman of the Parliamentary Committee on Finance Dr. Harsha de Silva ...
 
 ---
 
+### Recent fuel price revision shows which sections of society affected most
+
+*2024-04-01 15:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Recent-fuel-price-revision-shows-which-sections-of-society-affected-most/108-279967) · `en`
+
+Colombo, April 1 (Daily Mirror) - The recent reduction of Petrol 95 Octane by Rs.7 and super diesel by Rs. 72 shows which sections of society were most affected by the economic difficulties, All-Island Three-Wheeler Drivers’ Union (AITWDU) President Lalith Dharmasekera said.
+
+While criticising the recent fuel price revision, he said the people who use super diesel were affected the most by the economic difficulties.
+
+"However, based on the fuel revision formula, the decision-makers chose not to lower the prices of auto diesel and petrol 92 Octane. They reasoned that since most passenger services heavily rely on auto diesel and many three-wheeler operators use petrol 92 Octane, they believed that people who depend on these fuels will somehow manage to endure any hardships that may arise," he said.
+
+...
+
+[Data](articles/33a022df.json)
+
+---
+
 ### Driver arrested by intelligent pistol
 
 *2024-04-01 15:36:44* · [`adalk`](https://www.ada.lk/breaking_news/බුද්ධි-නිලධාරියාට-සෙල්ලම්-පිස්තෝලයෙන්-වැඩ-පෙන්නූ-රියදුරු-අත්අඩංගුවට/11-408883) · `si`
@@ -373,6 +551,22 @@ Donor to the people of the Sonid to contribute to this fund from April 30, 2024 
 [Data](articles/067d5b0c.json)
 
 [Extended Data](ext_articles/067d5b0c.ext.json)
+
+---
+
+### Sri Lanka donates USD 01 mn aid to Gaza’s conflict-affected children
+
+*2024-04-01 15:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-donates-USD-01-mn-aid-to-Gazas-conflict-affected-children/108-279966) · `en`
+
+Colombo, April 1 (Daily Mirror)- Sri Lanka today donated USD 01 million as aid to Gaza's conflict-affected children, the President's Media Division (PMD) said.
+
+President Ranil Wickremesinghe handed over the cheque to Palestinian Ambassador Dr. Zuhair Hamdallah Zaid.
+
+"It is part of the Children of Gaza Fund initiated by President Wickremesinghe, with additional donors contributing," the PMD said.
+
+◼️
+
+[Data](articles/b39eef1b.json)
 
 ---
 
@@ -945,6 +1139,18 @@ A mummy official said that there was only a mines buried during the Russian inva
 [Data](articles/6f934c70.json)
 
 [Extended Data](ext_articles/6f934c70.ext.json)
+
+---
+
+### Health workers protest
+
+*2024-04-01 13:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Health-workers-protest/110-279961) · `en`
+
+Health workers today held a protest in front of the Health Ministry over several demands, including the provision of a Disturbance, Availability and Transport (DAT) allowance. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/0b3b6ec2.json)
 
 ---
 
@@ -1890,21 +2096,33 @@ In addition, action will be taken to grant the new appointments with regard to t
 
 ---
 
-### පාස්කු ඉරුදින ප්‍රහාරයෙන් පසු රඳවාගෙන සිටි සැකකරුවන් තුන්දෙනෙකුගෙන් පොලිසිය සමාව ගනියි
+### Police apologize to three suspects who were detained after the Passover attack
 
 *2024-04-01 10:47:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c25ld87dw4qo) · `si`
 
-පාස්කු ඉරුදින ප්‍රහාරයෙන් පසු රඳවාගෙන සිටි සැකකරුවන් තුන්දෙනෙකුගෙන් පොලිසිය සමාව ගනියි
+Police apologize to three suspects detained after Passover attack. Horowpathana OIC released by Supreme Court, alleging illegal arrest. Deputy Solicitor General defends police.
 
-පාස්කු ඉරු දින ප්‍රහාරය සම්බන්ධයෙන් සැකපිට  අත්අඩංගුවට ගෙන රඳවා තබා ගැනීම  සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන මේ වන විට නිදහස් කර ඇති හොරොව්පතාන  ප්‍රදේශයේ පුද්ගලයන් තුන් දෙනෙකුගෙන් හොරොව්පතාන  පොලිස් ස්ථානාධිපතිවරයා ඇතුළු පොලිස් නිලධාරීන් 05 දෙනෙක්  අද (අප්‍රේල් 01වැනිදා) ශ්‍රේෂ්ඨාධිකරණය හමුවේ  ආචාර කර සමාව ඉල්ලා සිටියහ.
+🟩
 
-තමන්ව නීති විරෝධී ලෙස අත්අඩංගුවට ගෙන මාස හයකට වැඩි කාලයක් රඳවා තබා ගැනීම තුළින් සිය මූලික අයිතිවාසිකම් උල්ලංඝණය කර ඇති බවට චෝදනා කරමින් සෙනූල් ආබ්දීන් ඉර්ෆාන්,  සෙනුල්ආබ්දීන් කලීෆාතුල්ලා සහනූර්ගේ සකරියා යන අය  විසින්  ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් අද ශ්‍රේෂ්ඨාධිකරණය හමුවේ කැඳවූ අවස්ථාවේදී  පොලිස් නිලධාරීන් විසින් මෙලෙස සමාව ගනු ලැබීය.
+Police apologize to three suspects who were detained after the Passover attack
 
-සිද්ධිය සම්බන්ධයෙන් අදාළ පුද්ගලයින්ගෙන් යලි ප්‍රශ්න කිරීම්  නොකරන බවත් අදාළ පොලිස් නිලධාරීන් වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරල්වරයා අධිකරණය හමුවේ සඳහන් කළේය.
+The Horowpathana OIC of the Horowpathana Police (OIC) has been released by the Supreme Court today (April 1).
+
+Senale Abdethen Irfan, Senul Abden Irfan, Senul Abdethen Kalakaden, Sanulipahathiyaden Karifanur, Sanulipahathiyaden Karipahathuthu, has been called by the Supreme Court today, alleging that they have been illegally arrested.Received.
+
+The Deputy Solicitor General who appeared for the police not interrogation into the incidents and the Deputy Solicitor General he appeared in court.
+
+S. The petitions were summoned before the Supreme Court Judge Turai Raja and Kumuduni Wickremasinghe and Aetala Vengapulu.
+
+Are police arrests legitimate? Easter Sunday attack: What is Sri Lanka's response to Channel 4 report?
+
+At that time, the OIC of Horowpathana Police OIC, Roshan Premaratne, the police sergeant, and the OIC of the police said.
 
 ...
 
 [Data](articles/14f84fec.json)
+
+[Extended Data](ext_articles/14f84fec.ext.json)
 
 ---
 
@@ -1992,29 +2210,11 @@ He said that he has been invited to lect on the current political situation. Dur
 
 ---
 
-### මැදපෙරදිග සේවයකළ බිරිඳ හාම්පුතා සමඟ ආවාට, උරණ වූ සැමියා ගෙට ගිනි තියලා
+### The husband who came with his wife, who served with the Middle East, set fire to the house
 
 *2024-04-01 10:39:27* · [`adalk`](https://www.ada.lk/breaking_news/මැදපෙරදිග-සේවයකළ-බිරිඳ-හාම්පුතා-සමඟ-ආවාට--උරණ-වූ-සැමියා-ගෙට-ගිනි-තියලා/11-408873) · `si`
 
-බිබිල පොලිස් වසමට අයත් මඩකලපුව පාර වැලිපොතයාය ප්‍රදේශයේ පදිංචි කාන්තාවක් කුවේට් දේශයේ රැකියාවක නිරතව සිට මීට දින කිහිපයකට පමණ ඉහතදී හාම්පුතා සහ හාම්පුතාගේ රියදුරු සමඟ පැමිණීම නිසා බිරිඳ සහ සැමියා අතර ඇතිවූ විරසකයක් දුරදිගයාමෙන් සැමියා විසින් බිරිඳට, හාම්පුතාට සහ රියදුරුට පහරදී ඉකුත් (30) වෙනිදා නිවසට ගිනිතැබීම නිසා නිවසේ සිටි සැමියාගේ පියා මියයාමේ සිද්ධියක් පිළිබඳව බිබිල පොලීසිය පරීක්ෂණ පවත්වයි.
-
-අවුරුදු 40 පමණ වයසැති මෙම කාන්තාව කුවේට් රාජ්‍යයේ රැකියාවක නිරතව සිට 80 හැවිරිදි අබ්දුල් සේඩ් අලබල්ලයන් නැමති තම හාම්පුතා සහ රියදුරු වන කේ.කේ නාමල් යන අය සමඟ නිවසට පැමිණ ඇත.
-
-මීට පෙරද ඇය අවස්ථා කිහිපයකදී හාම්පුතා සමඟ නිවසට පැමිණ තිබේ.ඒ සම්බන්ධයෙන් සැමියා සහ බිරිඳ අතර ආරවුලක් ඇතිවී සැමියා බිරිඳට සහ ඇය සමඟ පැමිණි කුවේට් ජාතිකයාට සහ රියදුරුට පහරදී නිවසට ගිනි තබා ඇත.
-
-ඇය කුවේට් ජාතිකයා සහ රියදුරු බිබිල මූලික රෝහලේ ප්‍රතිකාරලබමින් පසුවේ.
-
-...
-
-[Data](articles/7c70629b.json)
-
----
-
-### The wife of the Middle East will come with an employer, firewood to her father, father
-
-*2024-04-01 10:39:27* · [`adalk`](https://www.ada.lk/breaking_news/මැදපෙරදිග-සේවයකළ-බිරිඳ-හාම්පුතා-සමඟ-පැමිණෙයි--උරණ-වූ-ගෙට-ගිනි-තියලා--සැමියාගේ-පියා-මරුට/11-408873) · `si`
-
-A woman from Kuwait, working with the Bibila police, was assaulted by her husband, leading to her father's death. The husband, Tissa Hettiarachchi, was hospitalized. The Bibila police are investigating the fire and the husband's assault.
+A 40-year-old man, Abdul Said Albella, and his employer were visiting a house in Welippothaaya when it caught fire. The husband, Tissa Hettiarachchi, assaulted his wife, her employer, and the driver, leading to the fire. The Bibila police are investigating the fire and the assault.
 
 🟩
 
@@ -2032,242 +2232,8 @@ The magisterial inquiry into the death of the deceased is Bibila Acting Magistra
 
 ...
 
-[Data](articles/f52b707a.json)
+[Data](articles/7c70629b.json)
 
-[Extended Data](ext_articles/f52b707a.ext.json)
-
----
-
-### Health Trade Unions in Selected Hospitals
-
-*2024-04-01 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/180109) · `ta`
-
-The Health Trade Union Federation is holding a workshop on pay issues in selected hospitals today, starting at 6:30 am. If unresolved, they plan a nationwide indefinite workshop tomorrow. Initially, a 4-hour workshop was planned for all hospitals, but due to a Presidential Office invitation, it's limited to 5 hospitals. If no solution is found, they'll proceed with tomorrow's workshop.
-
-🟩
-
-The Health Trade Union Federation has launched a workshop on Monday (01) on the issue of pay issue.
-
-The co -invitation of the federation, Chanaka Dharmavikrama said that the work will be carried out in some of the selected hospitals from 6.30 am today.
-
-Meanwhile, if their complaints are not resolved, they have decided to carry out an indefinite workshop nationwide tomorrow (02).
-
-We have decided to carry out a 4 -hour workshop in all hospitals nationwide, but today the Presidential Office has invited us to discuss discussion.. Therefore, we decided to limit the planned strike to 05 hospitals such as Kandy, Anuradhapura, Ratnapura, Kurunegala and Badulla. If there is no solution today, we will engage in tomorrow's workshop, ”he added.
-
-◼️
-
-[Data](articles/6e605e07.json)
-
-[Extended Data](ext_articles/6e605e07.ext.json)
-
----
-
-### Wimal acquitted
-
-*2024-04-01 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195160) · `si`
-
-MP Wimal Weerawansa acquitted in passport case.
-
-🟩
-
-MP Wimal Weerawansa has acquired and released from the passport case.
-
-◼️
-
-[Data](articles/eef5c205.json)
-
-[Extended Data](ext_articles/eef5c205.ext.json)
-
----
-
-### Libyan PM’s residence targeted with RPGs, no casualties reported
-
-*2024-04-01 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/98336/libyan-pms-residence-targeted-with-rpgs-no-casualties-reported) · `en`
-
-The residence of Libyan Prime Minister Abdulhamid al-Dbeibah was targeted with rocket-propelled grenades on Sunday in an attack that left no casualties, a Libyan minister told Reuters.
-
-The minister, who spoke in condition of anonymity, confirmed in a message that the attack only caused some damage. The minister has not disclosed any further details.
-
-Two citizens said they had heard massive explosions near the sea in Tripoli’s luxury Hay Andalus neighbourhood, the home to PM Dbeibah’s residence.
-
-A citizen said that after the massive explosions were heard, heavy security forces with their vehicles were deployed around the area.
-
-Libya has had little peace or stability since a 2011 NATO-backed uprising, and split in 2014 between eastern and western factions, with rival administrations governing each area.
-
-...
-
-[Data](articles/2809fe05.json)
-
-[Extended Data](ext_articles/2809fe05.ext.json)
-
----
-
-### Katchatheevu island row: Modi says ‘new details unmasked DMK’s double standards’
-
-*2024-04-01 10:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98335/katchatheevu-island-row-modi-says-new-details-unmasked-dmks-double-standards) · `en`
-
-Indian Prime Minister Narendra Modi on Monday said that new details on the Katchatheevu island issue “have unmasked DMK’s (Dravida Munnetra Kazhagam) double standards totally”. His remarks came a day after he attacked the Congress over its decision to hand over the strategic island to Sri Lanka in the 1970s.
-
-In a post on X, the Prime Minister said, “Rhetoric aside, DMK has done NOTHING to safeguard Tamil Nadu’s interests. New details emerging on #Katchatheevu have UNMASKED the DMK’s double standards totally.”
-
-“Congress and DMK are family units. They only care that their own sons and daughters rise. They don’t care for anyone else. Their callousness on Katchatheevu has harmed the interests of our poor fishermen and fisherwomen in particular,” he added.
-
-Katchatheevu island is where fishermen from Tamil Nadu go to fish. But they are detained by the Sri Lankan Navy as soon as they cross the International Maritime Border Line (IMBL) to reach the island.
-
-...
-
-[Data](articles/04e6e919.json)
-
-[Extended Data](ext_articles/04e6e919.ext.json)
-
----
-
-### Wijeyadasa’s presence at SLFP meeting creates stir
-
-*2024-04-01 10:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wijeyadasas-presence-at-SLFP-meeting-creates-stir/108-279928) · `en`
-
-Colombo, April 1 (Daily Mirror)- Presence of Minister Wijeyadasa Rajapakshe at the SLFP central committee meeting over the weekend surprised many. Responding to journalists as to whether he intends joining SLFP, the Minister said he will make a political decision later.
-
-“I have been a member of SLFP from the time late Prime Minister Sirimavo Bandaranaike led the party.therefore my presence at SLFP Central Commitee meeting is nothing new,” he said.
-
-Asked whether he will resign from his ministry and join SLFP full time, the Minister said he will make a political decision later.
-
-He said he was invited to deliver a lecture on current political situation.” I explained how SLFP could play a role in stabilizing the country’s economy during my lecture,” he said.
-
-◼️
-
-[Data](articles/2b8c8ae3.json)
-
-[Extended Data](ext_articles/2b8c8ae3.ext.json)
-
----
-
-### Attack on hospital employee in Jaffna
-
-*2024-04-01 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180108) · `ta`
-
-A Punguduthivu Hospital employee was attacked at Jaffna-Indicatuwan landing by two men who fled after the incident.
-
-🟩
-
-The Punguduthivu Hospital employee has been attacked at the Jaffna - Indicatuwan landing.
-
-The two men who were waiting for him were waiting for him when he landed on the boat from Nainadivu on Sunday, Nainadivu.
-
-The Marines and the public have seen the two men who have fled the scene.
-
-◼️
-
-[Data](articles/100a3edb.json)
-
-[Extended Data](ext_articles/100a3edb.ext.json)
-
----
-
-### SL braces for AI powered election malpractices in future
-
-*2024-04-01 10:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-braces-for-AI-powered-election-malpractices-in-future/108-279927) · `en`
-
-In the wake of AI (Artificial Intelligence) powered election malpractices mushrooming globally, Sri Lanka’s Election Commission is bracing for such possibilities in the future elections here, an official said yesterday.
-
-According to global experience ,AI can accelerate the production and dif­fusion of disinformation in contributing to organised attempts to
-
-AI can magnify the scale of disinformation by thousands of times. Also , hyper-realistic deep fakes of pictures, audio, or video could influence voters powerfully before they can be possibly fact-checked. The risks are compounded by social media platforms.
-
-Asked about Sri Lanka’s preparation , Commission’s Chairman R.M.A.L. Rathnayake said his office is currently in the process of studying how other countries respond to such challenges to the democratic electoral process.
-
-He said the Commission would decide on measures including legislation to curb impacts of such malpractices on elections in the future.
-
-◼️
-
-[Data](articles/572352d9.json)
-
-[Extended Data](ext_articles/572352d9.ext.json)
-
----
-
-### Health trade unions strike in selected hospitals
-
-*2024-04-01 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98334/health-trade-unions-strike-in-selected-hospitals) · `en`
-
-The Health Trade Union Alliance has launched a token strike over the wage issue today (April 01).
-
-The Co-convener of the alliance Chanaka Dharmawickrema stated that the strike will be carried out in a few selected hospitals from 6.30 a.m. today.
-
-Meanwhile, they have decided to launch an indefinite island-wide strike on Tuesday (02), if no solutions are received to their grievances.
-
-“We had decided to carry out a 4-hour strike in all hospitals island-wide, but today the President’s office has called us for a discussion. Therefore, we decided to limit the planned strike to 05 hospitals such as Kandy, Anuradhapura, Ratnapura, Kurunegala and Badulla. If no solution is received today, we will launch a nationwide strike tomorrow”, he added.
-
-◼️
-
-[Data](articles/72e31f95.json)
-
-[Extended Data](ext_articles/72e31f95.ext.json)
-
----
-
-### Man who came first in drinking competition dies within hours
-
-*2024-04-01 10:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-who-came-first-in-drinking-competition-dies-within-hours/108-279926) · `en`
-
-Hatton, April 1 (Daily Mirror)- An individual who came first in a drinking competition in Lethenty estate in Hatton had died within hours of the competition.
-
-The victim Ganeshan Ramachandran (39) was a worker in the estate.
-
-A group of young men had organised the drinking competition after the Ther festival at the Hindu Kovil in the estate. Several young men including Ganesan had joined the competition and they had been provided 750ml.bottles of arrack each. The competitor who finished drinking in minimum time was to be the winner.
-
-However the individual who finished the race first and was declared the winner had died after going to bed.
-
-Another competitor who had seriously fallen ill was admitted to the Dickoya Base Hospital and transferred in critical condition to Nawalapitiya General Hospital.
-
-...
-
-[Data](articles/5b72f0e3.json)
-
-[Extended Data](ext_articles/5b72f0e3.ext.json)
-
----
-
-### Sri Lanka rupee opens at 300.00/20 to the US dollar
-
-*2024-04-01 10:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-300-00-20-to-the-us-dollar-156722/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 300.00/20 to the US dollar in the spot forex market on Monday, stronger from 300.40/50 on Thursday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 was quoted stable at  11.30/40 percent.
-
-A bond maturing on 15.12.2028 was quoted stable at 12.10/20 percent.
-
-The Colombo Stock Exchange opened down; the All Share Price Index was down 0.21 percent at 11,420; the S&P SL20 was down 0.65 percent at 3,296. (Colombo/Apr1/2024)
-
-◼️
-
-[Data](articles/b014a7a6.json)
-
-[Extended Data](ext_articles/b014a7a6.ext.json)
-
----
-
-### Very special to those who have not received the revenue
-
-*2024-04-01 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195159) · `si`
-
-Minister Ranjith Siyambalapitiya announced a revenue benefit for 4 districts, including Kegalle, Nuwara Eliya, Badulla, and Polonnaruwa, with a 2,500 allowance for each district. This initiative aims to compensate for past issues and is set to start from July 2023.
-
-🟩
-
-Minister of State Ranjith Siyambalapitiya says that all the revenues of 4 districts will be benefited by the Sinhala Hindu New Year.
-
-Accordingly, the revenue of the seven districts of Kegalle, Nuwara Eliya, Badulla and Polonnaruwa. 2,500 will be given the allowance.
-
-The Minister further stated that the procedure had been propagated as a large number of people in the districts with a large number of contributions to the regulators in these districts.
-
-However, during early April, corrected all these problems and collect everything and Rs.. The revenue beneficiary has been agreed to the benefit of all of 2023 from July 2023 to the benefit of the 2,500 reward.
-
-◼️
-
-[Data](articles/d2703fb3.json)
-
-[Extended Data](ext_articles/d2703fb3.ext.json)
+[Extended Data](ext_articles/7c70629b.ext.json)
 
 ---

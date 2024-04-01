@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 15:03:12**
+As of **2024-04-01 15:18:10**
 
 ## Newspaper Stats
 
-*Scraped **16,374** Articles*
+*Scraped **16,378** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 881
 economynextcom | 893
 islandlk | 912
 adalk | 1,375
-tamilmirrorlk | 1,957
-adaderanalk | 1,973
-virakesarilk | 2,327
+tamilmirrorlk | 1,959
+adaderanalk | 1,974
+virakesarilk | 2,328
 dailymirrorlk | 2,520
 adaderanasinhalalk | 2,653
 
@@ -26,11 +26,77 @@ adaderanasinhalalk | 2,653
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,373 (100.0%) of 16,374 articles have been extended.
+16,374 (100.0%) of 16,378 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### Sri Lanka donates USD 1 million to aid children in Gaza
+
+*2024-04-01 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98347/sri-lanka-donates-usd-1-million-to-aid-children-in-gaza) · `en`
+
+The Government of Sri Lanka has donated USD 1 million to aid Gaza’s conflict-affected children.
+
+Issuing a statement, the President’s Media Division (PMD) said that President Ranil Wickremesinghe handed over the relevant cheque to Palestinian Ambassador Dr. Zuhair Hamdallah Zaid.
+
+The donation is a part of the Children of Gaza Fund initiated by President Wickremesinghe, with additional donors contributing, according to the PMD.
+
+◼️
+
+[Data](articles/db724c80.json)
+
+---
+
+### யாழில் மட்டி எடுக்க சென்ற இளைஞன் கடலில் மூழ்கி உயிரிழப்பு
+
+*2024-04-01 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180145) · `ta`
+
+யாழ்ப்பாணத்தில் மட்டி எடுப்பதற்காக கடலுக்கு சென்ற இளைஞன் , கடலில் மூழ்கி உயிரிழந்துள்ளார்.
+
+மட்டக்களப்பு பெரியகல்லாறு ஓடக்கரையைச் சேர்ந்த 19 வயதான ரவீந்திரன் யதுசன் என்பவரே உயிரிழந்தார்.
+
+கொழும்புத்துறை கடற்பகுதியில் நேற்று ஞாயிற்றுக்கிழமை மட்டி எடுப்பதற்கு கடலுக்குள் சென்றவர் காணாமல் போன நிலையில் இன்று திங்கட்கிழமை காலை சடலமாக மீட்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/d5348f8f.json)
+
+---
+
+### வித்யா படுகொலை ;  மரண தண்டனை கைதி மரணம்
+
+*2024-04-01 14:40:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வித்யா-படுகொலை-மரண-தண்டனை-கைதி-மரணம்/175-335455) · `ta`
+
+கடந்த  2015 ஆண்டில்  ,யாழ்ப்பாணம், புங்குடுதீவு பகுதியை  சேர்ந்த 18 வயதுடைய  சிவலோகநாதன் வித்யா  என்ற  பாடசாலை மாணவியை  கூட்டு வன்புணர்வு செய்யப்பட்டு படுகொலை செய்யப்பட்ட சம்பவம் தொடர்பில் மரண தண்டனை விதிக்கப்பட்ட  கைதி  ஒருவர்  கண்டி  தேசிய வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்துள்ளதாக வைத்தியசாலை வட்டாரங்கள் தெரிவித்துள்ளது .
+
+புங்குடுதீவு கைட்ஸ் பகுதியைச் சேர்ந்த  புபாலசிங்கம் தவகுமார் செந்தில் (37) என்பவரே இவ்வாறு  உயிரிழந்துள்ளார்.
+
+குறித்த  நபர்  சுகயீனம் காரணமாக ஞாயிற்றுக்கிழமை  (31) கண்டி தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டு  சில நிமிடங்களிலேயே உயிரிழந்துள்ளதாகவும், அவர்  நிமோனியா நோயினால் பாதிக்கப்பட்டிருந்ததாகவும் வைத்தியசாலையின்  ஊடக பேச்சாளர்  ஒருவர்  தெரிவித்துள்ளார் .
+
+மேலும்  குறித்த  நபரின்  சடலம்  கண்டி  தேசிய வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன்  இது தொடர்பிலான  மேலதிக  விசாரணைகளை பொலிஸார்  மேற்கொண்டுள்ளமை குறிப்பிடத்தக்கது .
+
+◼️
+
+[Data](articles/22ff4b18.json)
+
+---
+
+### வரியை நீக்கினால் ஒரு கிலோ கேக் ரூ.400?
+
+*2024-04-01 14:35:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரியை-நீக்கினால்-ஒரு-கிலோ-கேக்-ரூ-400/175-335454) · `ta`
+
+முட்டை ஒன்றின் விலை 35 ரூபாக குறைப்பதன் மூலமும் , பட்டருக்கு விதிக்கப்பட்டுள்ள  வரியை அகற்றுவதன் மூலமும்  ஒரு கிலோ கேக் 400 ரூபாவுக்கு விற்பனை செய்ய முடியும் என அகில இலங்கை பேக்கரி உரிமையாளர்கள் சங்கத்தின் தலைவர் என்.கே.ஜெயவர்தன தெரிவித்துள்ளார்.
+
+இதற்கமைய, தரமான கேக் கிலோ ஒன்றின் விலை சுமார் 1000 ரூபா எனவும், 35 ரூபாவிற்கு முட்டை வழங்கினால் ஒரு கிலோ கேக்கின் விலை 100 ரூபாவினால் குறைக்கப்படும்.
+
+ஒரு கிலோ வெண்ணெயின் மீது விதிக்கப்பட்டுள்ள 900 ரூபா வரியை நீக்கினால் ஒரு கிலோ கேக்கை 400 ரூபாவிற்கு வழங்க முடியும் எனவும் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/17a695bb.json)
+
+---
 
 ### Bangladesh stood at first 178 innings
 
@@ -81,6 +147,20 @@ He added that in the year 2022, they were acquitted and released.
 [Data](articles/e9b08761.json)
 
 [Extended Data](ext_articles/e9b08761.ext.json)
+
+---
+
+### Electing a President: Three against one in the US, and three against three in Sri Lanka
+
+*2024-04-01 14:25:00* · [`islandlk`](http://island.lk/electing-a-president-three-against-one-in-the-us-and-three-against-three-in-sri-lanka/) · `en`
+
+On Thursday, in New York, President Joe Biden and his two Democratic predecessors, Barrack Obama and Bill Clinton, appeared together in a fund raising event to launch Biden’s reelection campaign against Donald Trump, their common foe and America’s ugly manifestation. The fundraiser reportedly netted in over $25 million boosting Biden’s impressive war chest which is said to be more than $150 million. Trump is handicapped with less than a third of that to spend on elections in addition to his personal financial challenges of having to cough up over half a billion dollars in penalties and damages in civil fraud and personal libel cases. The three amigos and the lone fraudster and felon represent the best and worst of America.
+
+...
+
+[Data](articles/50d9597c.json)
+
+[Extended Data](ext_articles/50d9597c.ext.json)
 
 ---
 
@@ -2048,19 +2128,33 @@ Those who were expecting more than Rs.
 
 ---
 
-### කච්චතීව් දූපත: ශ්‍රී ලංකාවෙන් ඉන්දියාවට යළි පවරා ගත හැකිද ?
+### Kachithave Island: Can India be returned from Sri Lanka?
 
 *2024-04-01 09:05:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72dg1djg1wo) · `si`
 
-මේ වන විට ශ්‍රී ලංකාවට අයත්ව තිබෙන කච්චතීව් දූපත ඉන්දියාවේ මැතිවරණය ඉලක්ක කර ගත් ආන්දෝලනාත්මක මාතෘකාවක් බවට පත්ව තිබේ.
+Kachchativu Island, a disputed territory between India and Sri Lanka, has sparked controversy and political debate. The island's ownership was confirmed by Sri Lanka in 1974, but India has expressed interest in reclaiming it. The issue has been linked to the Indian general election, with international political researchers suggesting it could influence the outcome. The island's strategic importance, including its fishing and gas potential, complicates the situation.
 
-ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මාර්තු 31 වන දා සිය නිල එක්ස් (මීට පෙර ට්විටර්) ගිණුමෙහි සටහනක් තබමින් සඳහන් කර තිබුණේ, "ඉන්දීය ජනතාව ගැන නොසිතා කොංග්‍රස් පක්ෂය කච්චතීව් දූපත ශ්‍රී ලංකාවට පිරිනැමීම සම්බන්ධයෙන් නව කරුණු අනාවරණය වී ඇති," බව ය.
+🟩
 
-මේ සම්බන්ධයෙන් සෑම ඉන්දියානුවෙකු ම කෝපයට පත්ව සිටින බවත්, කොංග්‍රස් පක්ෂය සම්බන්යෙන් තවදුරටත් විශ්වාසයක් තැබිය නොහැකි බවත් ජනතාවට යළිත් තහවුරු වී ඇති බව ද එහි දැක්වේ.
+Kachituwe Island, which has now begged Sri Lanka, has become a controversial topic that has aimed at the election of India.
+
+Indian Prime Minister Narendra Modi stated a note on 31 March
+
+It states that every Indian is angry and the Congress Party cannot be confirmed again.
+
+SKIP Twitter PostTwitter Can you agree to reach content? This article contains the content provided by Twitter. Since they use cookies and other technologies, we urgent your permission before they load. You may need to read Twitter cookie policy and privacy policy before it is permitted. Select 'acknowledged forward' to view this content. The above is not responsible for the content of the END Twitter post.
+
+Kachuthativa Island is an island group of the islands of the country, and Kachchativu Island is the most distance to Sri Lanka.
+
+Kachchativu Island is located near the city of Ramacheck in South India.
+
+The distance from Ramadhattiva Island in South India is close to 24 km from Jaffna to Kachchativu Island, nearly 63 km.
 
 ...
 
 [Data](articles/cc7a886e.json)
+
+[Extended Data](ext_articles/cc7a886e.ext.json)
 
 ---
 
@@ -2211,109 +2305,5 @@ Seven categories was awarded seven awards, evaluating the excellence of Televisi
 [Data](articles/0b38d2d9.json)
 
 [Extended Data](ext_articles/0b38d2d9.ext.json)
-
----
-
-### Daily Operations on Highways to the private sector
-
-*2024-04-01 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195152) · `si`
-
-Highways' daily operations now managed by private sector. Road Development Authority and Personality Division to transfer assets within 6 months after feasibility study. Transport Minister Bandula Gunawardena announced this at a cabinet meeting.
-
-🟩
-
-The daily operations and management activities of highways have been handed over to the private sector under a formal management agreement from today (01).
-
-It is also due to be transferred to all relevant assets within six months after a legal and financial feasibility study, the Road Development Authority and the Personality Division.
-
-Transport and Highways Minister Bandula Gunawardena presented the cabinet at the Cabinet meeting on the 25th.
-
-The Expressway, the Expressway and the more commercially managed the staffs and other commercially managed their respective staff have been decided to handle the company.
-
-◼️
-
-[Data](articles/6b8dd2d8.json)
-
-[Extended Data](ext_articles/6b8dd2d8.ext.json)
-
----
-
-### Strike on several hospitals
-
-*2024-04-01 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195151) · `si`
-
-The Health Trade Union Alliance is striking several hospitals today.
-
-🟩
-
-The Health Trade Union Alliance has decided to engage in a token strike today (01).
-
-◼️
-
-[Data](articles/f90abe6a.json)
-
-[Extended Data](ext_articles/f90abe6a.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-04-01 06:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98333/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at several places in Western, Southern, Sabaragamuwa and Uva provinces after 2.00 p.m. while fairly heavy showers above 50 mm are likely at some places.
-
-Showers or thundershowers may occur at a few places in North-western and Central provinces and in Mannar and Vavuniya districts in the evening or night.
-
-Misty conditions can be expected at some places in Western, Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/01b2fc31.json)
-
-[Extended Data](ext_articles/01b2fc31.ext.json)
-
----
-
-### Sri Lanka current account in US$1.6bn surplus in 2023
-
-*2024-04-01 06:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-current-account-in-us1-6bn-surplus-in-2023-156688/) · `en`
-
-ECONOMYNEXT – Sri Lanka has recorded a surplus of 1,559 million dollars in the external current account by end 2023, official data show, amid reserve collections by the central bank and private banks repaying debt.
-
-In the December 2023 quarter Sri Lanka recorded a current account surplus of 237 million US dollars.
-
-Revised central bank data show that a current account surplus of 687 million US dollars was recorded in the third quarter, 51 million dollars in the second quarter and 584 million dollars in the first quarter.
-
-Sri Lanka started to record a current account surplus from the third quarter of 2022, with monetary stability also being restored around the same time and the overall balance of payments also going into surplus with deflationary monetary policy.
-
-The current account surplus is roughly the mirror image of the financial (and capital) accounts, subject to errors and omissions (a balancing item).
-
-...
-
-[Data](articles/b99f7a2d.json)
-
-[Extended Data](ext_articles/b99f7a2d.ext.json)
-
----
-
-### Sri Lanka’s Rajapakshe says in discussion with religious leaders on common presidential candidate
-
-*2024-04-01 06:33:00* · [`economynextcom`](https://economynext.com/sri-lankas-rajapakshe-says-in-discussion-with-religious-leaders-on-common-presidential-candidate-156687/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Justice Minister Wijeyadasa Rajapakshe is in discussion with religious leaders who have requested him to be the common candidate in the upcoming presidential elections expected to ne held between September 18 and October 18, the legal expert said.
-
-Rajapakshe, 65, has been in the parliament for two decades since 2004 and had held various positions including cabinet portfolio. He gained overnight popularity after exposing corruptions at state-run enterprises as the Chairman of parliament Committee on Public Enterprises (COPE).
-
-In his response to media over possibility of becoming a common candidate, he said he is still discussing with religious leaders on that.
-
-“All religious leaders including all Nikayas of Buddhist clergies, Hindu, Christianity and Islam have requested me,” to consider becoming a presidential candidate, he told reporters on Friday (29)  after visiting Kandy Asgiriya temple.
-
-...
-
-[Data](articles/99c867eb.json)
-
-[Extended Data](ext_articles/99c867eb.ext.json)
 
 ---

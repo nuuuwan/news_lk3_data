@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 18:51:26**
+As of **2024-04-01 19:03:14**
 
 ## Newspaper Stats
 
-*Scraped **16,439** Articles*
+*Scraped **16,440** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 147
-bbccomsinhala | 173
+bbccomsinhala | 174
 dbsjeyarajcom | 201
 newsfirstlk | 363
 dailyftlk | 881
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,662
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,436 (100.0%) of 16,439 articles have been extended.
+16,439 (100.0%) of 16,440 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,8 @@ The Supreme Court's three-judge-bench comprised Justices S. Thurairaja, Kumuduni
 ◼️
 
 [Data](articles/85aee503.json)
+
+[Extended Data](ext_articles/85aee503.ext.json)
 
 ---
 
@@ -198,6 +200,8 @@ He had reportedly been walking on the railway tracks while wearing a pair of hea
 
 [Data](articles/dc937bf2.json)
 
+[Extended Data](ext_articles/dc937bf2.ext.json)
+
 ---
 
 ### Imran Khan: Pakistan court suspends jail sentence in graft appeal
@@ -274,23 +278,33 @@ It was noteworthy that the money was given to whom she was given to whom she was
 
 ---
 
-### ஏப்ரல் விடுமுறைக்கு பின் ஆசிரியர் வெற்றிடங்களுக்கான நியமனம் - சுசில்
+### Appointment for Teacher Vacancies after April Vacation - Susil
 
 *2024-04-01 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180170) · `ta`
 
-மேல் மாகாணத்தில் நிலவும் ஆசிரியர் வெற்றிடங்களை நிரப்புவதற்காக நடத்தப்பட்ட பரீட்சையில் சித்தியடைந்த அனைவருக்கும் ஏப்ரல் விடுமுறைக்கு பின்னர் நியமனம் வழங்க நடவடிக்கை எடுப்போம் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+Education Minister Susil Premajayantha announced that teacher vacancies in the Western Province will be filled after the April holiday, with 2,300 eligible candidates already selected. There are 2,700 more vacancies to be filled, totaling 5,453. The government plans to quickly recruit the remaining 40,000 unemployed graduates.
 
-பாராளுமன்றத்தில் திங்கட்கிழமை (1)  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச விசேட கூற்றொன்றை முன்வைத்து எழுப்பிய கேள்விக்கு பதிலளிக்கையிலேயே இவ்வாறு  தெரிவித்தார்.
+🟩
 
-மேல்மாகாணத்தில் 5,000க்கும் மேற்பட்ட ஆசிரியர் வெற்றிடங்கள் நிலவும் நிலையில், 2,300 தகுதி வாய்ந்த பரீட்சார்த்திகள் இணைத்துக் கொள்ளப்பட்டுள்ளனர்.
+Education Minister Susil Premajayantha said that all those who have passed the examination to fill the teacher vacancies in the Western Province will be appointed after the April holiday.
 
-மேலும் 2700 வெற்றிடங்கள் நிலவுகின்றன. மொத்தம் 5453 வெற்றிடங்கள் காணப்படுவதால், எஞ்சிய ஆட்சேர்ப்புகளை விரைவாக மேற்கொள்ள வேண்டும்.
+In response to a question raised by Opposition Leader Sajith Premadasa on Monday (1) in Parliament.
 
-அதேபோன்று நாட்டில் 40ஆயிரம் வேலையற்ற பட்டதாரிகள் இருக்கின்றனர்.தொழில் இல்லாமல் வீதியில் இருக்கும் இந்த பட்டதாரிகள் தொடர்பில் அரசாங்கத்தின் வேலைத்திட்டம் என்ன? இவர்கள் தொடர்பில் விரைவாக நடவடிக்கை எடுக்க வேண்டும் என்றார்.
+With more than 5,000 teacher vacancies in the Western Province, 2,300 eligible candidates have been incorporated.
+
+There are more 2700 vacancies. With a total of 5453 vacancies, the rest of the recruitment must be carried out quickly.
+
+There are 40 thousand unemployed graduates in the country.He said they should take immediate action in connection with them.
+
+2400 teachers were first selected on the basis of the results of the exam and the teacher type to fill the vacancies in the Western Province.
+
+We are taking action these days on other people who have passed the examination. I hope they can be appointed after April vacation.
 
 ...
 
 [Data](articles/5e0b01a2.json)
+
+[Extended Data](ext_articles/5e0b01a2.ext.json)
 
 ---
 
@@ -1782,6 +1796,24 @@ Leader of the House Susil Premajayantha informed the Parliament that the Attorne
 
 ---
 
+### බොල්ටිමෝර් සිට කොළඹට එද්දී පාලමක ගැටුණු ඩාලි නැවේ තිබුණේ ‘විෂ අපද්‍රව්‍ය’ ද?
+
+*2024-04-01 12:54:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz9ze3y3vq7o) · `si`
+
+බොල්ටිමෝර් සිට කොළඹට එද්දී පාලමක ගැටුණු ඩාලි නැවේ තිබුණේ ‘විෂ අපද්‍රව්‍ය’ ද?
+
+ශ්‍රී ලංකාවේ කොළඹ වරාය බලා යාත්‍රා කරමින් තිබියදී ඇමෙරිකාවේ බොල්ටිමෝර්හි ෆ්‍රැන්සිස් ස්කොට් කී පාලමෙහි (Francis Scott Key Bridge) ගැටුණු සිංගප්පූරු ධජය සහිත ඩාලි (Dali) නමැති භාණ්ඩ ප්‍රවාහන නෞකාවේ අන්තරායකර ද්‍රව්‍ය (hazardous materials) ටොන් 764ක් තිබූ බව වෙබ් අඩවියක් විසින් අනාවරණය කරනු ලැබ තිබේ.
+
+එම වෙබ් අඩවිය වාර්තා කළේ, බහාලුම් 56ක් තුළ විඛාදනයට ලක්වනසුලු, ගිනිගන්නාසුලු, විවිධ අනතුරුදායක ද්‍රව්‍ය සහ පුපුරන ද්‍රව්‍ය මෙන් ම, ලිතියම් බැට්රි ඇතුළු 9 වන පන්තියේ අන්තරායදායක ද්‍රව්‍ය (විදුලි උපකරණ ආදී ද්‍රව්‍ය) තිබූ බව අනාවරණය වී ඇති බව ය.
+
+අදාළ වෙබ් අඩවිය එම ලිපිය පළ කර ඇත්තේ, "ඇමෙරිකාවේ විෂ සහිත අපද්‍රව්‍ය ශ්‍රී ලංකාවට රැගෙන යමින් තිබූ නෞකාව බොල්ටිමෝර් පාලමේ ගැටෙයි," (Ship Exporting US Toxic Waste to Sri Lanka Crashes Baltimore Bridge) යන සිරස්තලය යටතේ ය.
+
+...
+
+[Data](articles/15fde174.json)
+
+---
+
 ### Fire at a house in Maduranguli area
 
 *2024-04-01 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180119) · `ta`
@@ -2207,25 +2239,5 @@ He said the amendment was proposed due to a practical issue where the girl and t
 [Data](articles/32ba30c8.json)
 
 [Extended Data](ext_articles/32ba30c8.ext.json)
-
----
-
-### Defence Ministry affirms no legal deployment of military to Russia or Ukraine amid reports of involvement in war
-
-*2024-04-01 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98341/defence-ministry-affirms-no-legal-deployment-of-military-to-russia-or-ukraine-amid-reports-of-involvement-in-war) · `en`
-
-All members of Sri Lankan tri-forces have been informed not to join Russian or Ukraine forces in illegal means, the Ministry of Defence announced.
-
-In response to the recent foreign media reports regarding the Sri Lankan soldiers killed in Russia – Ukraine war, the Defence Ministry clarified that although information has been revealed that the members of Sri Lankan security forces have joined the Russian forces, the Defence Ministry has no relation to the matter.
-
-However, the Ministry of Defence highlighted that no information have been received through the embassies that two Sri Lankan army soldiers being killed in Russia during the war.
-
-The Ministry of Defense also mentioned that against a background where there is no agreement between the Sri Lankan army and the Russian army to send Sri Lankan military members to serve in Russia, such incidents will damage the reputation of the country.
-
-...
-
-[Data](articles/ffa25ab5.json)
-
-[Extended Data](ext_articles/ffa25ab5.ext.json)
 
 ---

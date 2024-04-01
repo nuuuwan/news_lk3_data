@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 02:03:12**
+As of **2024-04-02 02:18:56**
 
 ## Newspaper Stats
 
-*Scraped **16,493** Articles*
+*Scraped **16,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 147
 bbccomsinhala | 174
 dbsjeyarajcom | 201
 newsfirstlk | 363
-dailyftlk | 891
+dailyftlk | 895
 economynextcom | 909
 islandlk | 913
 adalk | 1,387
@@ -26,11 +26,83 @@ adaderanasinhalalk | 2,668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,490 (100.0%) of 16,493 articles have been extended.
+16,493 (100.0%) of 16,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### Minister clarifies CPC fuel costs amid price revision
+
+*2024-04-02 02:03:35* · [`dailyftlk`](https://www.ft.lk/business/Minister-clarifies-CPC-fuel-costs-amid-price-revision/34-760213) · `en`
+
+Cites refinery costs, VAT, refinery gains or losses as factors influencing prices
+
+Says pricing formula allows for maximum profit of 4% on all products except kerosene
+
+Asserts US dollar rates calculated based on average monthly purchase rates
+
+Reveals gains or losses from other products cannot be transferred, as cost-reflective pricing formula applies to each product individually
+
+Power and Energy Minister Kanchana Wijesekera yesterday shed light on the particulars of the Ceylon Petroleum Corporation’s (CPC) fuel costs, following the recent fuel price revision announced on Sunday.
+
+In a comprehensive 6-point statement shared via ‘X’, he provided insights into the factors influencing the decision not to reduce the prices of 92 Octane Petrol and Auto Diesel.
+
+...
+
+[Data](articles/c6127606.json)
+
+---
+
+### LAUGFS Gas cuts 12.5kg cylinder price by Rs. 625
+
+*2024-04-02 02:01:57* · [`dailyftlk`](https://www.ft.lk/business/LAUGFS-Gas-cuts-12-5kg-cylinder-price-by-Rs-625/34-760212) · `en`
+
+LAUGFS Gas PLC, yesterday announced a substantial massive reduction in the prices of its LAUGFS branded domestic LPG.
+
+The price of a 12.5kg domestic cylinder under the LAUGFS brand will be reduced by a staggering Rs. 625 to be at an MRP of Rs. 4,115 within the Colombo District. Prices in other areas and pack sizes will be adjusted accordingly.
+
+LAUGF said this significant price revision comes as a testament to several positive developments and factors contributing to the favourable economic climate. It acknowledged the supportive Government policies, including the appreciating value of the Sri Lankan rupees against the US dollar, reduction in interest rates, and the availability of ample foreign exchange facilitating the opening of letters of credit.
+
+LAUGFS is the only private sector LPG company listed on the Colombo Stock Exchange (CSE).
+
+...
+
+[Data](articles/a74f4c9b.json)
+
+---
+
+### Shaping Sri Lanka’s industrial recovery: Industry and Government leaders convene
+
+*2024-04-02 02:01:47* · [`dailyftlk`](https://www.ft.lk/business/Shaping-Sri-Lanka-s-industrial-recovery-Industry-and-Government-leaders-convene/34-760211) · `en`
+
+Presentation of the research documents published by UNIDO to Ministry of Industry Secretary Thilaka Jayasundara by EU Head of Cooperation Dr. Johann Hesse
+
+Discussions about achieving commitment to reduce industry GHG emissions by 7% by 2030
+
+Industries employ 30% of nation’s workforce, contribute second-highest share of GDP, but consume significant fossil fuel imports
+
+Representatives from Sri Lanka’s business community, Government, and the finance sector convened in Colombo to discuss the mix of policies, financial mechanisms and technologies, crucial for propelling the country’s industrial decarbonisation and economic recovery. This event is the second edition of the Industry Dialogue organised by the European Union (EU)-funded Accelerating Industries’ Climate Response in Sri Lanka project.
+
+...
+
+[Data](articles/e2162f5b.json)
+
+---
+
+### SLMLBC hosts interactive session with High Commissioner-designate to Maldives
+
+*2024-04-02 01:58:54* · [`dailyftlk`](https://www.ft.lk/business/SLMLBC-hosts-interactive-session-with-High-Commissioner-designate-to-Maldives/34-760210) · `en`
+
+The Sri Lanka - Maldives Business Council (SLMLBC) recently hosted an interactive session with High Commissioner Designate to the Maldives Ranga Goonawardena, at the Ceylon Chamber of Commerce.
+
+The session aimed to facilitate dialogue and provide insights into the business landscape of the Maldives. Ranga Goonawardena, in his address, shared information on opportunities for collaboration in several industry sectors. Referring to ongoing discussions between Sri Lanka and the Maldives addressing the investment landscape including investor protection and double taxation, he emphasised that an increasingly investor friendly environment would create enhanced opportunities for bilateral cooperation.
+
+...
+
+[Data](articles/1710fe5d.json)
+
+---
 
 ### SJB renews challenge to NPP for debate on economy
 
@@ -52,6 +124,8 @@ Addressing a press conference over the weekend, SJB MP Harsha de Silva slammed t
 
 [Data](articles/410cc575.json)
 
+[Extended Data](ext_articles/410cc575.ext.json)
+
 ---
 
 ### Dismissed SLFP office bearers urge Maithri to reconcile
@@ -72,25 +146,33 @@ Dissanayake, Alagiy-awanna, and Amaraweera were dismissed from their roles withi
 
 [Data](articles/e43805cd.json)
 
+[Extended Data](ext_articles/e43805cd.ext.json)
+
 ---
 
-### வரிச் சலுகைகள் 2022/23 நிதியாண்டில் LKR 978 பில்லியன் வருவாயை இழக்க வழிவகுக்கும்
+### Tax offers will lead to losing LKR 978 billion in fiscal year 2022/23
 
 *2024-04-02 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/180197) · `ta`
 
-2022/23 நிதியாண்டில் (ஏப்ரல் முதல் மார்ச் வரை), வரிச்சலுகைகள் மொத்தமாக 978 பில்லியன் ரூபாயை வருவாயாக ஈட்டியதாக அரசாங்கம் ஞாயிற்றுக்கிழமை (மார்ச் 31) தெரிவித்துள்ளது.
+In 2022/23, Sri Lanka lost LKR 978 billion due to tax concessions, 56% of total tax revenue. The Ministry of Finance's "Tax Expenditure Report" aims to improve transparency. The government plans to list all tax-exempt companies by March 2023, as part of the IMF project.
 
-இது 2022 ஆம் ஆண்டில் அரசாங்கத்தால் சேகரிக்கப்பட்ட மொத்த வரி வருவாயில் 56% ஆகும்.
+🟩
 
-வெறிற்றே ரிசர்ச் இனால் பராமரிக்கப்படும் இலங்கையின் முதன்மையான பொருளாதார நுண்ணறிவு தளமான PublicFinance.lk ஆல் இது முன்னிலைப்படுத்தப்பட்டது.
+The government said on Sunday (March 31) that the tax concessions were earned by a total of 978 billion rupees in the fiscal year 202/23 (April to March).
 
-இலங்கையின் நிதி அமைச்சினால் 2024 ஆம் ஆண்டு மார்ச் 31 ஆம் திகதி வெளியிடப்பட்ட “வரிச் செலவின அறிக்கை” என்ற ஆவணத்தை மூலமாகக் கொண்டு இவ் ஆய்வு வெளியிடப்பட்டள்ளது.
+This is 56% of the total tax revenue collected by the government by 2022.
 
-இலங்கை வழங்கிய பல்வேறு சிறப்பு இலக்கு வரிச் சலுகைகள் காரணமாக இழக்கப்பட்ட மொத்த வருவாய் குறித்த அரசாங்கத்தின் மதிப்பீடுகளை இவ் ஆவணம் தெரிவிக்கிறது. "சர்வதேச சிறந்த நடைமுறைகளிற்கேட்ப இலங்கையின் நிதி அறிக்கைகளில் வெளிப்படைத்தன்மையை மேம்படுத்துவது" என ஆவணம் அதன் நோக்கத்தைக் கூறுகிறது.
+It was highlighted by Publicfinance.lk, Sri Lanka's first economic intelligence site, maintained by the research research.
+
+The study was published by the Ministry of Finance of Sri Lanka on March 31, 2024, with a document called "Tax Expenditure Report".
+
+The document indicates the government's estimates of the total income lost due to various special target tax concessions provided by Sri Lanka. The document states its aim to "improve transparency in Sri Lanka's financial statements that seek international better practices."
 
 ...
 
 [Data](articles/1556288b.json)
+
+[Extended Data](ext_articles/1556288b.ext.json)
 
 ---
 
@@ -2151,91 +2233,5 @@ The announcement comes shortly after Litro Gas Lanka announced its decision to r
 [Data](articles/e5b19c42.json)
 
 [Extended Data](ext_articles/e5b19c42.ext.json)
-
----
-
-### Three elephants are restless
-
-*2024-04-01 15:19:43* · [`adalk`](https://www.ada.lk/breaking_news/අලි-තිදෙනෙක්-නිසා-ගමක්-නොසන්සුන්/11-408882) · `si`
-
-Three elephants caused tension in Ratawala, Ambalawala, their first visit. Officials from Hambantota and Kalamapitiya chased them away at night.
-
-🟩
-
-The people of the area have been tense due to three elephants arriving in Ratawala, Ambalawala today. The people of the area claim that the elephants have never come before this area before.
-
-However, the officials of the living office in Hambantota and Kalamapitiya, which was in the afternoon, were protected to the area, and the three elephants were chased away from the night.
-
-◼️
-
-[Data](articles/0c738e64.json)
-
-[Extended Data](ext_articles/0c738e64.ext.json)
-
----
-
-### LAUGFS GAS Price
-
-*2024-04-01 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195174) · `si`
-
-LAUGFS reduces gas prices from midnight. 12.5kg cylinder now Rs. 4,111, down from Rs. 4,736. 5kg cylinder is Rs. 1,652.
-
-🟩
-
-LAUGFS has decided to reduce the price of gas prices as operated from midnight today.
-
-Accordingly, the price of a 12.5kg LAUGS gas cylinder will be reduced by Rs. 625.
-
-Accordingly, a 12.5kg Laugfs gas cylinder is Rs. 4,111.
-
-The price of a 5kg of LAUGFS gas cylinder has decided to detect the price of Rs. 1,652.
-
-◼️
-
-[Data](articles/2d16fc56.json)
-
-[Extended Data](ext_articles/2d16fc56.ext.json)
-
----
-
-### A prisoner who was detained at the Vavuniya Prison dies in hospital
-
-*2024-04-01 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180147) · `ta`
-
-A 34-year-old prisoner from Vavuniya Prison died at Vavuniya Hospital after being treated for a heart attack.
-
-🟩
-
-A prisoner who was detained at the Vavuniya Prison died at the Vavuniya Hospital on Sunday evening.
-
-A prisoner who was detained at the Vavuniya Prison has been taken to the Vavuniya Hospital by the Prison Officers.
-
-Despite being treated for the prisoner at the hospital, he died without treatment. Doctors said the death was caused by a heart attack.The 34 -year -old youth from the Ja Ela area is the deceased.
-
-◼️
-
-[Data](articles/189d0943.json)
-
-[Extended Data](ext_articles/189d0943.ext.json)
-
----
-
-### Sri Lanka donates USD 1 million to aid children in Gaza
-
-*2024-04-01 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98347/sri-lanka-donates-usd-1-million-to-aid-children-in-gaza) · `en`
-
-The Government of Sri Lanka donated USD 01 million to assist children impacted by the conflicts in the Gaza Strip. The donation was formally transferred to the Government of Palestine through the United Nations’ official channel, overseen by President Ranil Wickremesinghe at the Presidential Secretariat this morning (01).
-
-Issuing a statement, the President’s Media Division (PMD) said that President Ranil Wickremesinghe personally presented the donation cheque to Mr. Zuhair M.H. Zaid, the Palestinian Ambassador in Sri Lanka.
-
-This contribution adds to the growing support for the Children of Gaza Fund, initiated by President Ranil Wickremesinghe to provide aid to affected children in the Gaza Strip.
-
-In response to the President’s call to allocate funds from ministries and government institutions for this cause, the initial USD 01 million donated to the fund has been transferred to the Palestinian government in the first phase, according to the PMD.
-
-...
-
-[Data](articles/db724c80.json)
-
-[Extended Data](ext_articles/db724c80.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 08:17:59**
+As of **2024-04-01 08:33:31**
 
 ## Newspaper Stats
 
-*Scraped **16,271** Articles*
+*Scraped **16,272** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,73 +20,113 @@ tamilmirrorlk | 1,941
 adaderanalk | 1,960
 virakesarilk | 2,311
 dailymirrorlk | 2,500
-adaderanasinhalalk | 2,634
+adaderanasinhalalk | 2,635
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,267 (100.0%) of 16,271 articles have been extended.
+16,271 (100.0%) of 16,272 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### රුසියානු හමුදාව සමග එක්නොවෙන්නැයි ත්‍රිවිධ හමුදා සාමාජිකයින්ට දැනුම්දීමක්
+### ගාසා රෝහලකට ප්‍රහාරයක්
 
-*2024-04-01 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195154) · `si`
+*2024-04-01 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195155) · `si`
 
-රැසියානු හමුදාවට එක්නොවන ලෙස සියලු ත්‍රිවිධ හමුදා සාමාජිකයින්ට දැනුම් දී ඇති බව ආරක්ෂක අමාත්‍යංශය පවසයි.
+ගාසා තීරයේ පිහිටි රෝහලකට එල්ල කරන ලද ගුවන් ප්‍රහාරයකින් මාධ්‍යවේදීන් පිරිසක් තුවාල ලබා ඇති බව විදෙස් වාර්තා සඳහන් කරයි.
 
-රුසියානු හමුදාවට මෙරට ආරක්ෂක අංශ සාමාජිකයින් එක්වන බවට තොරතුරු අනාවරණය වන අතර ඒ සම්බන්ධයෙන් ආරක්ෂක අමාත්‍යංශයේ කිසිදු සබඳතාවයක් නොමැති බව එම අමාත්‍යංශය සඳහන් කළේය.
+මෙම ගුවන් ප්‍රහාරයෙන් මාධ්‍යවේදීන් 07 දෙනෙකු තුවාල ලබා ඇති බව වාර්තා වේ.
 
-රුසියානු හමුදාවට එක්වු මෙරට හමුදා සාමාජිකයින් දෙදෙනෙකු පසුගිය දා මියගොස් ඇති බවට අල්ජසීරා පුවත් සේවය සිදුකළ අනාවරණයත් සමග ඒ සම්බන්ධයෙන් මේ වන විට දැඩි කතාබහක් මතුව තිබේ.
+කෙසේවෙතත් ප්‍රහාරයෙන් ඉස්ලාමීය ජිහාඩ් සටන්කාමීන් සිව්දෙනෙකු මියගොස් ඇති බව ද බී.බී.සී පුවත් සේවය වාර්තා කළේය.
 
-කෙසේවෙතත් මෙරට හමුදා සාමාජිකයින් දෙදෙනෙකු එලෙස මියගොස් ඇති  බවට මේ දක්වාත් තානාපති කාර්යාල හරහා මෙරටට දැනුම් දී නොමැති බව ආරක්ෂක අමාත්‍යංශය සඳහන් කළේය.
+මෙම ප්‍රහාරය සම්බන්ධයෙන් ඊශ්‍රයල හමුදා ප්‍රකාශ කර ඇත්තේ ඩීල් අල් බාලාහී අල් අක්සා රෝහල් භූමියේ පිහිටි ඉස්ලාමීය ජිහාඩ් අණදෙන මධ්‍යස්ථානයකට තමන් ප්‍රහාර එල්ල කළ බවය.
 
-ශ්‍රී ලාංකකි හමුදා සාමාජිකයින් රුසියාවේ සේවයට යොමු කිරීම සඳහා මෙරට හමුදාව සහ රුසියානු හමුදාව අතර කිසිදු එකඟතාවක් නොමැති පසුබිමක මෙවැනි සිදුවීම් මෙරට කීර්තිනාමයට හානියක් එල්ල කරන බව ද ආරක්ෂක අමාත්‍යංශය පැවසුවේය.
+කෙසේවෙතත් රෝහල් කඳවුරු ලෙසට භාවිතා කරන බවට ඊශ්‍රායල චෝදනා හමාස් සහ වෛද්‍ය කාර්ය මණ්ඩල ප්‍රතික්ෂේප කර තිබේ.
 
-මෙම තත්ත්වය තුළ මෙරට හමුදා සාමාජිකයින්ට රුසියානු හමුදාව සමග එක්නොවන ලෙස දැනුම් දී ඇතැයි ආරක්ෂක අමාත්‍යංශය සඳහන් කළේය.
+◼️
 
-...
-
-[Data](articles/23d8fada.json)
+[Data](articles/c6dd0be8.json)
 
 ---
 
-### 14 හැවිරිදි සිසුවාට දිවි අහිමි වූ අනතුර
+### Announcement to the Armed Forces to join the Russian army
+
+*2024-04-01 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195154) · `si`
+
+The Russian army is joining Sri Lanka's security forces, but the Sri Lankan Defense Ministry has warned against joining. Two Sri Lankan soldiers who joined the Russian army have died, and two others were not informed. This situation could harm Sri Lanka's reputation without an agreement between the Sri Lankan and Russian armies.
+
+🟩
+
+All three armed forces have been informed to do not join the Russian army, the Defense Ministry said.
+
+It is revealed that the Russian army is joining the security forces of Sri Lanka, the Ministry of Defense said.
+
+As two army soldiers who joined the Russian army have recently died, according to the disagreement of the Aljezara.
+
+However, two army soldiers have not been informed through the embassies.
+
+The Ministry of Defense said that such incidents would be harming the reputation of the country in the absence of any agreement between the Sri Lankan army and the Russian army to serve as Russia.
+
+In this situation, military personnel have been informed not to join the Russian army.
+
+Meanwhile, in December last year, three other former army soldiers in Sri Lanka have been killed while serving in the Ukrainian army.
+
+◼️
+
+[Data](articles/23d8fada.json)
+
+[Extended Data](ext_articles/23d8fada.ext.json)
+
+---
+
+### 14-year-old student's survivor
 
 *2024-04-01 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195153) · `si`
 
-පරගහදෙණිය පුස්වැල්ල මාර්ගයේ සිංහපුර ප්‍රදේශයේ දී පරගහදෙණිය දෙස සිට පුස්සැල්ල දෙසට ධාවනය වූ යතුරුපැදියක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි යතුරුපැදියක ගැටී අනතුරක් සිදුව තිබිණි.
+A 14-year-old student was killed in a motorbike accident near Paragahandeniya, while rushing to Mawathagama hospital. The deceased was identified as a Sinhapura Paragahadeniya school student. Other injured were transferred to Kurunegala Hospital.
 
-අනතුරින් බරපතළ තුවාල ලැබූ යතුරුපැදි දෙකෙහි පැදිකරුවන් හා පසුපැදිකරුවන් මාවතගම රෝහලට ඇතුළත් කිරීමේ දී පැදිකරුවෙකු මියගොස් තිබේ.
+🟩
 
-මෙලෙස මියගොස් ඇත්තේ අවුරුදු 14ක් වයසැති සිංහපුර පරගහදෙණිය ප්‍රදේශයේ පාසල් සිසුවෙකි.
+A motorbike was a motorbike with a motorcycle who was traveling to Paragahandeniya from Paragahadeniya Pussapura, Paragahadeniya Pushawapapura area.
 
-අනෙක් තුවාලකරුවන් වැඩිදුර ප්‍රතිකාර සඳහා කුරුණෑගල රෝහල වෙත මාරුකර යවා ඇති බව පොලීසිය පවසයි.
+The drivers were killed in rushing to the Mawathagama hospital with serious injured motorbikes.
+
+The deceased has been identified as a school student of the Sinhapura Paragahadeniya area in the Sinhapuradeniya.
+
+The other injured have been transferred to Kurunegala Hospital for further treatment.
 
 ◼️
 
 [Data](articles/550108b8.json)
 
+[Extended Data](ext_articles/550108b8.ext.json)
+
 ---
 
-### අධිවේගී මාර්ගවල දෛනික මෙහෙයුම් කටයුතු පෞද්ගලික අංශයට
+### Daily Operations on Highways to the private sector
 
 *2024-04-01 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195152) · `si`
 
-අධිවේගී මාර්ගවල දෛනික මෙහෙයුම් කටයුතු හා කළමනාකරණ කටයුතු අද (01) සිට විධිමත් කළමනාකරණ ගිවිසුමක් යටතේ පෞද්ගලික අංශය වෙත පවරා තිබේ.
+Highways' daily operations now managed by private sector. Road Development Authority and Personality Division to transfer assets within 6 months after feasibility study. Transport Minister Bandula Gunawardena announced this at a cabinet meeting.
 
-මාර්ග සංවර්ධන අධිකාරිය සහ පෞද්ගිලක අංශය ඒකාබද්ධව සිදුකරන නීතිමය හා මූල්‍යමය ශක්‍යතා අධ්‍යයනයකින් පසු මාස හයක් ඇතුළත අදාළ සියලු වත්කම් ඔවුන්ට පැවරීමට ද නියමිතව ඇති බව සඳහන්ය.
+🟩
 
-අදාළ කැබිනට් පත්‍රිකාව ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය බන්දුල ගුණවර්ධන මහතා විසින් පසුගිය 25 වැනිදා පැවැති කැබිනට් රැස්වීම වෙත ඉදිරිපත් කර තිබිණි.
+The daily operations and management activities of highways have been handed over to the private sector under a formal management agreement from today (01).
 
-අධිවේගී මාර්ගජාලය, අධිවේගී මාර්ග සතු ඉඩම් සහ අදාළ කාර්ය මණ්ඩල වඩාත් වාණිජමය වශයෙන් කළමනාකරණය කිරීමට හැකිවන පරිදි මාර්ග සංවර්ධන අධිකාරියෙන් වෙන්කොට අදාළ සමාගමට පැවරීමට තීරණය කර ඇත.
+It is also due to be transferred to all relevant assets within six months after a legal and financial feasibility study, the Road Development Authority and the Personality Division.
+
+Transport and Highways Minister Bandula Gunawardena presented the cabinet at the Cabinet meeting on the 25th.
+
+The Expressway, the Expressway and the more commercially managed the staffs and other commercially managed their respective staff have been decided to handle the company.
 
 ◼️
 
 [Data](articles/6b8dd2d8.json)
+
+[Extended Data](ext_articles/6b8dd2d8.ext.json)
 
 ---
 
@@ -572,25 +612,35 @@ President Ranil Wickremesinghe is reported to have told the cabinet of ministers
 
 ---
 
-### උසස් පෙළ නොකර ම වයස අවුරුදු 19 වන විට උපාධිධරයෙක් වන්නේ කෙසේ ද?
+### How can be a graduate by 19 years of age without the age of 19?
 
 *2024-04-01 02:04:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpekp85x35no) · `si`
 
-උසස් පෙළ නොකර ම වයස අවුරුදු 19 වන විට උපාධිධරයෙක් වන්නේ කෙසේ ද?
+Siriwardena, a software manager, achieved his degree at 19 with 8 months of experience, skipping the GCE A/L exam. He pursued a diploma in NIBM, interned, and was hired as an Assistant Software Engineer at 18. He's now studying for a B.Eng. degree, aiming to complete it by December.
 
-චලක සිරිවර්ධන යනු කොළඹ පිහිටි මෘදුකාංග නිෂ්පාදන සමාගමක මෘදුකාංග ඉංජිනේරුවරයෙකු ලෙස සේවය කරන්නෙකි.
+🟩
 
-වසරක් සහ මාස 8ක සේවා පළපුරුද්දක් සහිත ඔහුගේ වයස තවමත් අවුරුදු 19 ඉක්මවා නැත‍.
+How can be a graduate by 19 years of age without the age of 19?
 
-අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය A සම්මාන 8ක් සහ B සම්මානයක් සමගින් ඉහළින් සමත් වූ චලක, උසස් පෙළ විභාගයට පෙනී සිටියේ නැත‍.
+Siriwela Siriwardena is a software manager of a software manager in Colombo.
 
-"මම දැන් සැලකිය යුතු වැටුපක් ලබන අවුරුද්දයි මාස අටක පළපුරුද්දක් සහිත මෘදුකාංග ඉංජිනේරුවෙක්. මාත් එක්ක සාමාන්‍ය පෙළ කරලා, උසස් පෙළ විභාගය ලියපු යාළුවො තාම විශ්වවිද්‍යාලයට යන්න බලාගෙන ඉන්නවා. මට වඩා වයසින් වැඩිමල් අය මට වඩා පහළ තනතුරුවල සේවය කරනවා," චලක සිරිවර්ධන තමන් ආ ගමන් මග දෙස ආපසු හැරී බලන්නේ සතුටිනි.
+His age is still over 19 years with a year and 8 months work experience.
 
-ජාත්‍යන්තරව පිළිගත් උසස් අධ්‍යාපන හෝ වෘත්තීය පුහුණු ආයතනයක් තෝරා ගන්නේ කොහොමද?ශ්‍රී ලංකාවේ දී අධ්‍යාපනය අවසන් කිරීමට අනෙක් රටවලට වඩා වැඩි කාලයක් ගතවෙනවා ද?
+The GCE Ordinary Level Examination was not sent to the A / L examination, which passed the 8 Awards.
+
+"I am a substantial wage that is a software engineer with eight months experience. Friends to go to the GCE Advanced Level Examination. Older people older than me, serving in lower positions, "Champion Siriwardena is happy to look back at the course.
+
+How to Choose a Higher Education or Vocational Training Institute internationally? Is it more time to finish education in Sri Lanka?
+
+As he said, it was time that it was time that it was time that it was a waste of time to spend a few years when he had experienced economic hardship after his father's death.
+
+After the results of the GCE O / L examination, he described the way he came.
 
 ...
 
 [Data](articles/91afbc9d.json)
+
+[Extended Data](ext_articles/91afbc9d.ext.json)
 
 ---
 
@@ -2237,19 +2287,5 @@ Ganesan Ramachandran has died due to pneumonia fever and feeding in the neck.
 [Data](articles/e11681ab.json)
 
 [Extended Data](ext_articles/e11681ab.ext.json)
-
----
-
-### Russian Presidential Election results
-
-*2024-03-31 15:58:00* · [`islandlk`](http://island.lk/russian-presidential-election-results/) · `en`
-
-Russia is exultant about the outcome of the Presidential election. The poll was 77% of the electorate and Putin secured 87% of the votes cast; a landslide on both counts. The voting was not rigged; why upset the show when you have this kind of triumph to your credit? To what extent Russia is democratic is a separate matter that I will discuss later on. Russians are enjoying themselves mocking America and the West: “When has your President ever won 87% of the vote in a poll where 77% of the electorate participated?” Actually, never since 1904 has the turnout at a US election exceeded 66% and, in any case direct comparison in not possible because of the American “Electoral College System”.
-
-...
-
-[Data](articles/4b5d6636.json)
-
-[Extended Data](ext_articles/4b5d6636.ext.json)
 
 ---

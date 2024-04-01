@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 21:18:16**
+As of **2024-04-01 21:34:05**
 
 ## Newspaper Stats
 
-*Scraped **16,455** Articles*
+*Scraped **16,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 908
 islandlk | 913
-adalk | 1,385
+adalk | 1,386
 tamilmirrorlk | 1,960
 adaderanalk | 1,981
 virakesarilk | 2,346
-dailymirrorlk | 2,531
+dailymirrorlk | 2,532
 adaderanasinhalalk | 2,665
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,454 (100.0%) of 16,455 articles have been extended.
+16,455 (100.0%) of 16,457 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,28 @@ The document reports the government’s estimates of the total revenue foregone 
 [Data](articles/f9c15a9b.json)
 
 [Extended Data](ext_articles/f9c15a9b.ext.json)
+
+---
+
+### Eight including Excise officials arrested for Kerala Ganja trafficking
+
+*2024-04-01 20:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Eight-including-Excise-officials-arrested-for-Kerala-Ganja-trafficking/108-279978) · `en`
+
+Colombo, April 1 (Daily Mirror) - Eight suspects, including four Excise officials were arrested by the Police Narcotics Bureau (PNB) for allegedly transporting 45 kilograms of Kerala Ganja in a cab belonging to the Excise Office.
+
+Police said an Excise Inspector, an Excise Sergeant, an Excise driver and an assistant attached to an Excise office in Colombo were among those arrested.
+
+The other suspects are residents of Negombo and Chilaw areas.
+
+It has been revealed that they have been involved in Kerala ganja trafficking for a long time.
+
+PNB officials arrested the suspects based on information that a cab belonging to the Excise Department was smuggling Kerala ganja.
+
+Meanwhile, State Minister of Finance Ranjith Siyambalapitiya said that the four officers arrested with a quantity of Kerala Ganja have been suspended from the service.
+
+...
+
+[Data](articles/2a656b6b.json)
 
 ---
 
@@ -353,6 +375,30 @@ The Supreme Court's three-judge-bench comprised Justices S. Thurairaja, Kumuduni
 [Data](articles/85aee503.json)
 
 [Extended Data](ext_articles/85aee503.ext.json)
+
+---
+
+### මහ දවල් හොරණ මහ කොල්ලයක්
+
+*2024-04-01 18:29:22* · [`adalk`](https://www.ada.lk/breaking_news/මහ-දවල්-හොරණ-මහ-කොල්ලයක්/11-408888) · `si`
+
+හොරණ  සව්ගස් හන්දිය නියෝජිත ආයතනයකට අද (1) පස්වරුවේ තියුණු ආයුධ රැගෙන කඩා වැදුණු පුද්ගලයන් දෙදෙනෙක් රුපියල් ලක්ෂ 39 1/2 ක මුදලක් කොල්ලකා පලා ගොස් ඇතැයි හොරණ මූලස්ථාන පොලිසිය කියයි
+
+පස්වරු  2.45 ට පමණ  යතුරුපැදියකින් පැමිණ තිබූ කොල්ලකරුවන් දෙදෙනා දෙමහල් ගොඩනැගිල්ලේ ඉහළ මහලට ඇතුළු වී කාර්යාලයේ මේසය මත තිබූ මුදල් මෙලෙස කොල්ලකා ඇතැයි පොලිසිය කියයි
+
+මුදල් අයකැමීවරිය සහ මුදල් එකතු කරන පුද්ගලයා එම අවස්ථාවේ කාර්යාලය තුල සිට ඇති අතර ඔවුන් මුදල් බැංකු ගත කිරීම සඳහා පිළියෙල කරමින් සිටියදී කොල්ලකරුවන් දෙදෙනා ගොඩනැගිල්ල තුළට කඩා වැදි කාර්යාලයේ දොර වසා තිබූ බැවින්  අත
+
+දරා සිටි මන්නයෙන්  වීදුරුවට කඩා බිඳ කාර්යාලයට ඇතුළු වී   ඇති බව පොලිසිය සිදු කරන ලද විමර්ශනවලදී අනාවරණය වී ඇත.
+
+කොල්ලය සඳහා කොල්ලකරුවන් පැමිණ ඇත්තේ යතුරුපැදියේ අංක තහඩු වසාගෙන බවට මෙතෙක් කරන ලද විමර්ශනවලදී අනාවරණය වී ඇත.
+
+කොල්ලය සිදු කිරීමෙන් අනතුරුව කොල්ලකරුවන් මොරගහහේන  දෙසට පලා ගොස් ඇතැයි පොලිසිය කියයි.
+
+කොල්ලකරුවට ඇත්තඩංගුවට ගැනීම සඳහා සීසීටීවී දර්ශන ඔස්සේ විමර්ශන සිදු කෙරේ.
+
+◼️
+
+[Data](articles/922444f9.json)
 
 ---
 
@@ -2221,53 +2267,5 @@ The US dollar purchasing price was 295.5750 and the sales price were 305.1018 ba
 [Data](articles/608d6598.json)
 
 [Extended Data](ext_articles/608d6598.ext.json)
-
----
-
-### Sri Lanka’s Expolanka Holdings Plc changes director board
-
-*2024-04-01 12:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-expolanka-holdings-plc-changes-director-board-156761/) · `en`
-
-ECONOMYNEXT – Expolanka Holdings Plc has announced that Bokuto Yamauchi, in addition to his capacity as the Chairman of the Board, will assume duties as the Group CEO of the Company with effect from today.
-
-“Hanif Yusoof will step down as Group CEO with effect from 31st March 2024 and will serve on the Board as an Executive Director,” the company said in a stock exchange filing.
-
-The Board of Directors of Expolanka Holdings PLC has been re-constituted as follows;
-
-SG Holdings, the parent company of Expolanka Holdings Plc, announced on March 1 it was delisting the company from the Colombo Stock Exchange.
-
-SG Holdings Global Pte Ltd, the company’s majority shareholder, said it will purchase its shares from shareholders at 185.00 rupees a share.
-
-The share last traded around 150.50, before the delisting was announced. Expolanka is the largest listed company on the Colombo Stock Exchange.
-
-...
-
-[Data](articles/fe109239.json)
-
-[Extended Data](ext_articles/fe109239.ext.json)
-
----
-
-### Appointment of Members for Review of Bill - Notification to Speaker
-
-*2024-04-01 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/180127) · `ta`
-
-Parliament appointed Bandara, Nawaratne, Kirindikoda, and others to review the "Savira Forum (Monetaling)" Bill. Also, Santha Bandara, Pascol, and others were appointed for the "Samadhi Health Services, Environment, Agricultural, Cultural, and Sports Station (Alliance)" Bill. Privilege issues raised in Parliament on November 20, 2023, and February 9, 2024, were given to specific committees.
-
-🟩
-
-The "Savira Forum (Monetaling)" Bill is being reviewed by the Parliamentary Standing Ordinance No. 113 (2) to serve the Legislative Standing Committee, (Dr.) Sarath Weerasekara, (Major) Sudarshana Thenipitiya, Hon.Speaker Mahinda Yapa Abeywardena announced in Parliament today (01) that Bandara, Asanga Nawaratne and Udayana Kirindikoda have been appointed as additional members.
-
-Jeevan Thondaman, Taraka Balasuriya, Anuradha Jayaratne, (Mrs) Diana Kamage, Buddhika Pathirna, Mohammed Muzammil, (Mrs.).
-
-Vidura Vikramanayake, Prasanna Ranavira, Gayantha Karunathilaka, (Prof.). Sujit Sanjaya Perera, Upul Mahendra Rajapaksa, M. Diplius. Tea. The Speaker also announced that Sahan Pradeep Vidhana and (Mrs) Manjula Dissanayake have been appointed as additional members.
-
-“Samadhi Health Services, Environment, Agricultural, Cultural, and Sports Station (Alliance)” Bill
-
-...
-
-[Data](articles/513cc45b.json)
-
-[Extended Data](ext_articles/513cc45b.ext.json)
 
 ---

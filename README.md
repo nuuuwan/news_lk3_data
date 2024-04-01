@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 18:22:16**
+As of **2024-04-01 18:33:43**
 
 ## Newspaper Stats
 
-*Scraped **16,435** Articles*
+*Scraped **16,436** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 908
 islandlk | 912
-adalk | 1,382
+adalk | 1,383
 tamilmirrorlk | 1,960
 adaderanalk | 1,980
 virakesarilk | 2,341
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,662
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,433 (100.0%) of 16,435 articles have been extended.
+16,435 (100.0%) of 16,436 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,41 +46,53 @@ A wind farm consisting of 30 towers generating 100MW (Phase 1- Thambapavani) was
 
 ---
 
-### புறக்கோட்டை சந்தையில் சீனாவின் பெரிய வெங்காயம் விற்பனை!
+### China's big onion sales on the outskirts of Pettah
 
 *2024-04-01 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180179) · `ta`
 
-சீனாவிலிருந்து இறக்குமதி செய்யப்பட்ட  பெரிய வெங்காயத்தை புறக்கோட்டை  மொத்த வியாபார  சந்தையில் முதல் முறையாக வாங்க முடியும் என இறக்குமதியாளர்கள் மற்றும் மொத்த விற்பனையாளர்கள் தெரிவிக்கின்றனர்.
+China's big onion sales in Sri Lanka's wholesale market, priced at 320 rupees per kg, address India and Pakistan's ban, ensuring no festive season shortage.
 
-இந்த சீன வெங்காயத்தின்  ஒரு கிலோவின் மொத்த விலை 320 ரூபா எனவும் இந்த  வெங்காயம் நல்ல நிலையில்  காணப்படுவதாகவும் கூறுகின்றனர்.
+🟩
 
-இந்தியாவும் பாகிஸ்தானும் பெரிய வெங்காய ஏற்றுமதிக்கு தடை விதித்ததையடுத்து,  இலங்கையில்  இறக்குமதியாளர்கள் மற்றும் மொத்த விற்பனையாளர்கள் கடும் நெருக்கடிக்கு உள்ளாகியதாகவும் அவர்கள் கூறுகின்றனர்.
+Importers and wholesalers say the big onions imported from China can be purchased for the first time in the wholesale market.
 
-இதனையடுத்தே இறக்குமதியாளர்கள் மற்றும் மொத்த வியாபாரிகள் சீனாவிலிருந்து பெரிய வெங்காயத்தை இறக்குமதி செய்ய ஆரம்பித்ததுடன் திங்கட்கிழமை (01) முதல் புறக்கோட்டை மொத்த விற்பனை சந்தையில் சீன பெரிய வெங்காயம் விற்பனை செய்யப்படுவதாக தெரிவித்தனர்.
+They say that the total cost of one kilogram of Chinese onion is 320 rupees and the onion is in good condition.
 
-இதனால், பண்டிகைக் காலங்களில் வெங்காயத்துக்கு தட்டுப்பாடு ஏற்படாது என்றும், நுகர்வோர் தங்களுக்குத் தேவையான வெங்காயத்தை தட்டுப்படின்றி பெற்றுக்  கொள்ளலாம் என்றும் இறக்குமதியாளர்கள் தெரிவிக்கின்றனர்.
+They claim that importers and wholesalers in Sri Lanka are in severe crisis after India and Pakistan banned big onion exports.
+
+Importers and wholesalers have started importing large onions from China and said that the Chinese big onions are being sold in the wholesale market on Monday (01).
+
+Importers say that there will be no shortage of onions during the festive season and consumers can get the onion they need.
 
 ◼️
 
 [Data](articles/c26a7495.json)
 
+[Extended Data](ext_articles/c26a7495.ext.json)
+
 ---
 
-### இம்ரான் கான், புஷ்ரா பீபியின் 14 வருட சிறைத்தண்டனை இடைநிறுத்தம்
+### Imran Khan, Bushra Bibi's 14 -year imprisonment suspended
 
 *2024-04-01 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180178) · `ta`
 
-பாகிஸ்தானின் முன்னாள் பிரதமர் இம்ரான் கான், அவரின் மனைவி புஷ்ரா பீபி ஆகியோருக்கு தோஷகானா ஊழல் வழக்கில் விதிக்கப்பட்ட 14 வருட சிறைத்தண்டனையை இஸ்லாமாபாத் உயர் நீதிமன்றம் இன்று இடைநிறுத்தியுள்ளது.
+Imran Khan and Bushra Bibi's 14-year prison sentences in the Doshakana scam are suspended by the Islamabad High Court, but they remain incarcerated due to other case verdicts.
 
-எனினும், ஏனைய வழக்குகளில் அளிக்கப்பட்ட தீர்ப்புகள் காரணமாக அவர்கள் இருவரும் சிறையிலிருந்து விடுவிக்கப்பட மாட்டார்கள்.
+🟩
 
-இம்ரான் கானுக்கும் புஷ்ரா பீபிக்கும்  14 வருட சிறைத்தண்டனை விதித்து இஸ்லாமாபாத் பொறுப்புடைமை நீதிமன்றம் ஜனவரி 31 ஆம்  திகதி தீர்ப்பளித்தது. இவர்கள் தலா 10 வருட காலம் அரச பதவிகளை வகிப்பதற்கு தடை விதிக்கப்பட்டதுடன் இருவருக்கும் தலா 787 மில்லியன் பாகிஸ்தான் ரூபா அபராதமும் விதிக்கப்பட்டது.
+The Islamabad High Court today suspended 14 years in prison sentenced to former Pakistani Prime Minister Imran Khan and his wife Bushra Bibi in the Doshakana scam.
 
-இத்தீர்ப்புக்கு எதிரான இம்ரான் கானின் மேன்முறையீட்டு மனுவை இஸ்லாமாபாத்  மேல் நீதிமன்றம் ஏற்றுக்கொண்டுள்ள நிலையில், மேற்படி தண்டனைகள் இடைநிறுத்தப்பட்டுள்ளன.
+However, due to the verdicts given in other cases, they will not be released from prison.
+
+The Islamabad accountability court sentenced Imran Khan and Bushra Bibu to 14 years in prison on January 31. They were banned from holding state positions for 10 years and the two were fined 787 million Pakistani rupees each.
+
+As the Islamabad High Court has accepted Imran Khan's appeal against the verdict, these sentences have been suspended.
 
 ◼️
 
 [Data](articles/1e5cec9a.json)
+
+[Extended Data](ext_articles/1e5cec9a.ext.json)
 
 ---
 
@@ -1430,6 +1442,20 @@ Addressing the media today, he said private buses are operating while incuring a
 
 ---
 
+### ගාලු මුවදොර ජාතික ධජය එසවීම නාවික හමුදාවෙන් ගුවන් හමුදාවට
+
+*2024-04-01 13:40:58* · [`adalk`](https://www.ada.lk/breaking_news/ගාලු-මුවදොර-ජාතික-ධජය-එසවීම-නාවික-හමුදාවෙන්-ගුවන්-හමුදාවට/11-408880) · `si`
+
+කොළඹ, ගාලු මුවදොර ජාතික ධජය එසවීම හා කොළඹ ජනාධිපති මන්දිරයේ විශේෂ චාරිත්‍ර සම්මාන මුරය සම්බන්ධ රාජකාරීන් ශ්‍රී ලංකා නාවික හමුදාව වෙතින් ශ්‍රී ලංකා ගුවන් හමුදාව වෙත භාර දීම 2024 මාර්තු මස 31 වන දින සහ අද දින (2024 අප්‍රේල් 01) කොළඹ ගාලු මුවදොරදී සහ ගුවන් හමුදා මූලස්ථානයේදී සිදු කෙරිණි.
+
+ඒ අනුව, ඉදිරි මාස 03 ක කාලසීමාවක් මෙම ගාලු මුවදොර ජාතික ධජය එසවීමේ රාජකාරීන් සහ ජනාධිපති මන්දිරයේ විශේෂ චාරිත්‍ර සම්මාන මුරයේ රාජකාරීන් ශ්‍රී ලංකා‍ ගුවන් හමුදාව විසින් සිදු කරනු ඇත.
+
+◼️
+
+[Data](articles/677991ed.json)
+
+---
+
 ### Information
 
 *2024-04-01 13:35:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-தொடர்பில்-வெளியான-தகவல்/175-335452) · `ta`
@@ -2219,31 +2245,5 @@ The question of the people of Tamil Nadu for 10 years and the Tamil Nadu people 
 [Data](articles/ffcf7220.json)
 
 [Extended Data](ext_articles/ffcf7220.ext.json)
-
----
-
-### The government will support the production of the first AI film in the country - the president
-
-*2024-04-01 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/180115) · `ta`
-
-The government will support Sri Lanka's first AI film, aiming to modernize the film industry. President Ranil Wickremesinghe highlighted the importance of AI in cinema and announced initiatives to strengthen artists with foreign training.
-
-🟩
-
-President Ranil Wickremesinghe said that the film Corporation with ancient heritage will be transformed into modern technology and will be built as a Sri Lankan film and television drama development company.
-
-At the same time, the President said that foreign training opportunities would be given to strengthen artists and designers with modern technology and pointed out that the film and television theater should be prepared to move forward with modern technology.
-
-Artificial Intelligence (AI) technology has been embedded in the world film industry today. The President also announced that the government would support the production of the first AI film to bring it forward.
-
-President Ranil Wickremesinghe made this statement while addressing the 20th Rikam Teleis Awards ceremony held at the Shankrela Hotel in Colombo last night.
-
-The award ceremony is organized annually, based on the ally of the country's leading businessman Kingdom of Raigam Group Dr. Ravi Liyanage.
-
-...
-
-[Data](articles/5c9b5e66.json)
-
-[Extended Data](ext_articles/5c9b5e66.ext.json)
 
 ---

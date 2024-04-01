@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 08:33:31**
+As of **2024-04-01 08:51:21**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 2,635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,271 (100.0%) of 16,272 articles have been extended.
+16,272 (100.0%) of 16,272 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### ගාසා රෝහලකට ප්‍රහාරයක්
+### Gaza was attacked by hospital
 
 *2024-04-01 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195155) · `si`
 
-ගාසා තීරයේ පිහිටි රෝහලකට එල්ල කරන ලද ගුවන් ප්‍රහාරයකින් මාධ්‍යවේදීන් පිරිසක් තුවාල ලබා ඇති බව විදෙස් වාර්තා සඳහන් කරයි.
+In Gaza, an air strike on a hospital injured seven journalists. Four Islamic Jihad militants were reported dead. Israel denied using the hospital as a base.
 
-මෙම ගුවන් ප්‍රහාරයෙන් මාධ්‍යවේදීන් 07 දෙනෙකු තුවාල ලබා ඇති බව වාර්තා වේ.
+🟩
 
-කෙසේවෙතත් ප්‍රහාරයෙන් ඉස්ලාමීය ජිහාඩ් සටන්කාමීන් සිව්දෙනෙකු මියගොස් ඇති බව ද බී.බී.සී පුවත් සේවය වාර්තා කළේය.
+A group of journalists were injured in an air strike on a hospital in Gaza.
 
-මෙම ප්‍රහාරය සම්බන්ධයෙන් ඊශ්‍රයල හමුදා ප්‍රකාශ කර ඇත්තේ ඩීල් අල් බාලාහී අල් අක්සා රෝහල් භූමියේ පිහිටි ඉස්ලාමීය ජිහාඩ් අණදෙන මධ්‍යස්ථානයකට තමන් ප්‍රහාර එල්ල කළ බවය.
+Seven journalists were injured in this air attack.
 
-කෙසේවෙතත් රෝහල් කඳවුරු ලෙසට භාවිතා කරන බවට ඊශ්‍රායල චෝදනා හමාස් සහ වෛද්‍ය කාර්ය මණ්ඩල ප්‍රතික්ෂේප කර තිබේ.
+However, four Islamic jihad jihad militants reported dead, "BBC.
+
+The army has said that he had attacked the Islamic Jihad Commanding Center at Deal Al Bananda Allem.
+
+However, Israel's allegations have refused to be used as the camps of the hospital.
 
 ◼️
 
 [Data](articles/c6dd0be8.json)
+
+[Extended Data](ext_articles/c6dd0be8.ext.json)
 
 ---
 

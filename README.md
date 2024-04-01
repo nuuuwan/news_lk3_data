@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 12:03:46**
+As of **2024-04-01 12:19:12**
 
 ## Newspaper Stats
 
-*Scraped **16,329** Articles*
+*Scraped **16,336** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 171
 dbsjeyarajcom | 201
 newsfirstlk | 363
 dailyftlk | 881
-economynextcom | 888
+economynextcom | 893
 islandlk | 912
 adalk | 1,368
-tamilmirrorlk | 1,953
-adaderanalk | 1,968
+tamilmirrorlk | 1,954
+adaderanalk | 1,969
 virakesarilk | 2,318
 dailymirrorlk | 2,514
 adaderanasinhalalk | 2,645
@@ -26,11 +26,41 @@ adaderanasinhalalk | 2,645
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,321 (100.0%) of 16,329 articles have been extended.
+16,329 (100.0%) of 16,336 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### மாணவி துஷ்பிரயோகம்  ; காதல் உறவை ஏற்படுத்தி சந்தேக நபர் கைது
+
+*2024-04-01 12:05:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாணவி-துஷ்பிரயோகம்-காதல்-உறவை-ஏற்படுத்தி-சந்தேக-நபர்-கைது/76-335448) · `ta`
+
+பேஸ்புக் மூலம் தொடர்பு கொண்டு பாடசாலை மாணவி ஒருவரை  துஷ்பிரயோகம்  செய்த  29 வயதுடைய இளைஞர் ஒருவரை, பெண்  பொலிஸ் ஒருவருடன் போலி காதல் உறவை  ஏற்படுத்தி கைது  செய்யப்பட்ட  சம்பவம்  திங்கட்கிழமை ( 01) பதிவாகியுள்ளது .
+
+பண்டாரவளை கினிகம பிரதேசத்தை  சேர்ந்த  14 வயதுடைய   பாடசாலை மாணவி ஒருவருடன் முகநூல் ஊடாக நட்பை ஏற்படுத்தி அவரை கொழும்பில் உள்ள தங்குமிட விடுதி ஒன்றிற்கு அழைத்துச் சென்று  சில நாட்களாக  துஷ்பிரயோகம்  செய்துள்ளதாக  குறித்த  மாணவியின்  பெற்றோரிடமிருந்து பண்டாரவளை பொலிஸ்  நிலையத்தில்  முறைப்பாடு  பதிவு செய்யப்பட்டுள்ளது .
+
+அதற்கமைய விசாரணைகளை  முன்னெடுத்த  பொலிஸார் ,  சந்தேக நபரின்  தொலைபேசி இலக்கத்தை  கண்டுபிடித்து , அந்த எண்ணுக்கு பெண் பொலிஸ் அதிகாரி ஒருவரால் தொடர்பை  ஏற்ப்படுத்தி காதல்  ஆசை  தூண்டுவது  போல் நடித்து சந்தேக நபருடன் உறவை வளர்த்துள்ளனர் .
+
+...
+
+[Data](articles/fbdf98a9.json)
+
+---
+
+### USD indicative rate reaches Rs. 300 for first time since June 2023
+
+*2024-04-01 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98342/usd-indicative-rate-reaches-rs-300-for-first-time-since-june-2023) · `en`
+
+The indicative rate of the US Dollar has reached the Rs. 300 level today for the first time since June 13, 2023, the Central Bank of Sri Lanka (CBSL) announced.
+
+According to the official exchange rates announced today by the CBSL, the buying rate of the USD is Rs. 295.57 and the selling rate is Rs. 305.10.
+
+◼️
+
+[Data](articles/35c3f794.json)
+
+---
 
 ### Government withdraws Bill to reduce consent age for sex to 14 years
 
@@ -47,6 +77,8 @@ He said the amendment was proposed due to a practical issue where the girl and t
 ...
 
 [Data](articles/32ba30c8.json)
+
+[Extended Data](ext_articles/32ba30c8.ext.json)
 
 ---
 
@@ -66,59 +98,83 @@ The Ministry of Defense also mentioned that against a background where there is 
 
 [Data](articles/ffa25ab5.json)
 
+[Extended Data](ext_articles/ffa25ab5.ext.json)
+
 ---
 
-### ඩොලරයේ වෙනසක්
+### A change of dollar
 
 *2024-04-01 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195165) · `si`
 
-අමෙරිකානු ඩොලරයක ගැණුම් මිල සහ විකුණුම් මිල සම්බන්ධයෙන් නවතම දත්ත ශ්‍රී ලංකා මහ බැංකුව විසින් නිකුත් කර තිබේ.
+The Central Bank of Sri Lanka has updated the US dollar's purchasing price to Rs. 295.57 and selling price to Rs. 305.10, effective after June 13.
 
-මේ අතර පසුගිය ජූනි 13 වනදායින් පසුව ඩොලරයක නිරූපිත අනුපාතය රු 300ක් ලෙස අද දින වාර්තා වී තිබේ.
+🟩
 
-එසේම ඩොලරයක ගැණුම් මිල රු 295.57ක් ලෙසත් විකුණුම් මිල රු 305.10ක් ලෙස සඳහන් වේ.
+The Central Bank of Sri Lanka has issued the latest data regarding the purchasing price and selling price of a US dollar.
+
+Meanwhile, after the next June 13, a dollar has been recorded as Rs.
+
+The dollar's purchase is Rs. 295.57 and the sale price is Rs. 305.10.
 
 ◼️
 
 [Data](articles/554939f1.json)
 
+[Extended Data](ext_articles/554939f1.ext.json)
+
 ---
 
-### மோடி கும்பகர்ண தூக்கம் :  ஸ்டாலின் பாய்ச்சல்
+### Modi Kumbhakarna Sleep: Stalin's leap
 
 *2024-04-01 11:41:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடி-கும்பகர்ண-தூக்கம்-ஸ்டாலின்-பாய்ச்சல்/175-335447) · `ta`
 
-பாராளுமன்ற தேர்தல் நெருங்கிவரும் நிலையில் கச்சத்தீவு விவகாரத்தை பாரதிய ஜனதா கட்சி( பா.ஜ.க) கையில் எடுத்துள்ளது. கச்சத்தீவு விவகாரத்தில் திராவிட முன்னேற்ற கழகம் ( தி.மு.க.) இரட்டை வேடம் போடுவதாக பிரதமர் மோடி குற்றஞ்சாட்டியுள்ளார்.
+BJP takes over Kachchativu issue, accusing DMK of double role. Modi questions Stalin on tax refunds, flood relief, and Tamil Nadu projects.
 
-இது தொடர்பாக பிரதமர் மோடி,  திங்கட்கிழமை (01) தனது டுவிட்டர் பக்கத்தில் வெளியிட்ட பதிவில்,
+🟩
 
-கச்சத்தீவு விவகாரத்தில் தி.மு.க. இரட்டை வேடம் போடுகிறது. தமிழ்நாட்டின் நலன்களை பாதுகாப்பதற்கு தி.மு.க. எதுவும் செய்யவில்லை. கச்சத்தீவு பற்றிய புதிய விவரங்கள் வெளிப்பட்டுவருவதனால் முற்றிலும் இரட்டை நிலைப்பாட்டை கொண்ட தி.மு.க.வின் வேடம் கலைந்துள்ளது
+The Bharatiya Janata Party (BJP) has taken over the Kachchativu issue as the parliamentary election is nearing. Prime Minister Modi has accused the Dravida Munnetra Kazhagam (DMK) of playing a double role in the Kachchativu issue.
 
-இந்நிலையில், கச்சத்தீவு விவகாரத்தில் தேர்தலுக்காக திடீர் மீனவர் பாச நாடத்தை பா.ஜ.க. அரங்கேற்றுவதாக முதல்-அமைச்சர் மு.க.ஸ்டாலின் குற்றஞ்சாட்டியுள்ளார்.
+Prime Minister Modi posted on Monday (01) on his Twitter page.
 
-மேலும், பிரதமர் மோடிக்கு முதல் -அமைச்சர் மு.க.ஸ்டாலின் 3 கேள்விகளை எழுப்பியுள்ளார். இது தொடர்பாக மு.க.ஸ்டாலின் தனது டுவிட்டர் பக்கத்தில் வெளியிட்டுள்ள பதிவில்,
+DMK on Kachchativu issue. Dual role. DMK to protect the interests of Tamil Nadu. Nothing has done. The role of the DMK, which is completely double -standing, has been dissolved as new details on Kachchativu emerge
+
+In this case, the BJP is a sudden fisherman for the election on the Kachchativu issue.. Chief Minister MK Stalin has accused the stage.
+
+Also, Prime Minister Modi has raised 3 questions for the first -minister MK Stalin. In a post posted on MK Stalin on his Twitter page,
+
+The question of the people of Tamil Nadu for 10 years and the Tamil Nadu people asks those who have been sleeping in a sudden fisherman for the election.
 
 ...
 
 [Data](articles/ffcf7220.json)
 
+[Extended Data](ext_articles/ffcf7220.ext.json)
+
 ---
 
-### நாட்டில் முதலாவது AI திரைப்படம் தயாரிப்பதற்கு அரசாங்கம் ஆதரவளிக்கும் - ஜனாதிபதி
+### The government will support the production of the first AI film in the country - the president
 
 *2024-04-01 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/180115) · `ta`
 
-பழமையான பாரம்பரியத்துடன் காணப்படும் திரைப்படக் கூட்டுத்தாபனம் நவீன தொழில்நுட்பத்துடன் மாற்றத்திற்கு உள்ளாக்கப்பட்டு இலங்கை திரைப்படம் மற்றும் தொலைக்காட்சி நாடக அபிவிருத்தி நிறுவனமாக கட்டியெழுப்பப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+The government will support Sri Lanka's first AI film, aiming to modernize the film industry. President Ranil Wickremesinghe highlighted the importance of AI in cinema and announced initiatives to strengthen artists with foreign training.
 
-அதேவேளை, கலைஞர்கள் மற்றும் வடிவமைப்பாளர்களை நவீன தொழில்நுட்ப அறிவுடன் வலுவூட்டுவதற்கு வெளிநாட்டு பயிற்சி வாய்ப்புகள் வழங்கப்படும் என தெரிவித்த ஜனாதிபதி, நவீன தொழில்நுட்பத்துடன் முன்னோக்கிச் செல்ல திரைப்படம் மற்றும் தொலைக்காட் நாடகத்துறையை தயார் செய்ய வேண்டும் எனவும் சுட்டிக்காட்டினார்.
+🟩
 
-செயற்கை நுண்ணறிவு  (AI) தொழிநுட்பம் இன்று உலகத் திரைப்படத்துறையில் உள்வாங்கப்பட்டிருக்கிறது. எனவே, அதனை முன்னோக்கி கொண்டுச் செல்லும் வகையில் முதலாவது AI திரைப்படத்தை தயாரிப்பதற்கு அரசாங்கம் ஆதரவு வழங்கும் என்றும் ஜனாதிபதி அறிவித்தார்.
+President Ranil Wickremesinghe said that the film Corporation with ancient heritage will be transformed into modern technology and will be built as a Sri Lankan film and television drama development company.
 
-கொழும்பு ஷங்ரீலா ஹோட்டலில் நேற்று (30) இரவு நடைபெற்ற 20 ஆவது ரைகம் டெலிஸ் விருது வழங்கும் விழாவில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத்  தெரிவித்தார்.
+At the same time, the President said that foreign training opportunities would be given to strengthen artists and designers with modern technology and pointed out that the film and television theater should be prepared to move forward with modern technology.
+
+Artificial Intelligence (AI) technology has been embedded in the world film industry today. The President also announced that the government would support the production of the first AI film to bring it forward.
+
+President Ranil Wickremesinghe made this statement while addressing the 20th Rikam Teleis Awards ceremony held at the Shankrela Hotel in Colombo last night.
+
+The award ceremony is organized annually, based on the ally of the country's leading businessman Kingdom of Raigam Group Dr. Ravi Liyanage.
 
 ...
 
 [Data](articles/5c9b5e66.json)
+
+[Extended Data](ext_articles/5c9b5e66.ext.json)
 
 ---
 
@@ -159,6 +215,28 @@ Accordingly, a 12.5 kilogram litro gas cylinder has been reduced by Rs. 135.
 [Data](articles/9c042634.json)
 
 [Extended Data](ext_articles/9c042634.ext.json)
+
+---
+
+### Sri Lanka fuel price formula allows for max profit margin of 4 percent: Minister
+
+*2024-04-01 11:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-fuel-price-formula-allows-for-max-profit-margin-of-4-percent-minister-156749/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s current fuel price formula allows for a maximum profit margin of 4 percent on all products, Power and Energy Minister Kanchana Wijesekera has said.
+
+“If a full 4 percent profit margin is applied, a price increase was due on auto diesel and 92 petrol,” Wijesekera said on his social media page on X (twitter).
+
+Fuel prices are revised on the first of each month. Wijesekera provided a CPC fuel cost break down after the price revision last night:
+
+“1.Refinery cost has an impact on auto diesel, 92 petrol and kerosene. VAT is applicable for refinery products as well from the 1st of January. Refinery gains and losses are calculated on the above products. Refinery does not produce Super Diesel or 95 Petrol.
+
+2. Formula allows for a maximum profit margin of 4% on all products.
+
+3. Auto Diesel and 92 Petrol full profit margins are not applied to maintain prices. If a full 4% profit margin is applied a price increase was due on Auto diesel and 92 Petrol.
+
+...
+
+[Data](articles/72c0845c.json)
 
 ---
 
@@ -212,19 +290,25 @@ A Thai Airways has arrived in the island after four years.
 
 ---
 
-### சமூக ஊடக பதிவு:  பெண்ணுக்கு அழைப்பு
+### Social Media Record: Call for Woman
 
 *2024-04-01 11:13:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-ஊடக-பதிவு-பெண்ணுக்கு-அழைப்பு/175-335441) · `ta`
 
-பாராளுமன்ற உறுப்பினர் ஒருவரை விமர்சித்து சமூக ஊடகங்களில் வெளியான பதிவு தொடர்பில் பெண் ஒருவர் பாராளுமன்ற சிறப்புரிமைகள் குழுவுக்கு அழைக்கப்படவுள்ளார்.
+Lalandi Perera from Kalutara is invited to Parliamentary Privacy Committee for criticizing MP Rohitha Abeygunawardena. Speaker Mahinda Yapa Abeywardena announced this. MP, Inspector General of Police, and others have commented.
 
-களுத்துறையைச் சேர்ந்த லலந்தி பெரேரா என்ற பெண்ணே இவ்வாறு அழைக்கப்படவுள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன, இன்று (01) அறிவித்துள்ளார்.
+🟩
 
-குறித்த பெண், பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன மற்றும் பொலிஸ்மா அதிபர் தேசபந்து தென்னகோன் ஆகியோர் தொடர்பில் கருத்து பதிவிட்டுள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+A woman will be invited to the Parliamentary Privacy Committee on the record posted on social media criticizing a Member of Parliament.
+
+Speaker Mahinda Yapa Abeywardena today announced that a woman named Lalandi Perera from Kalutara will be called.
+
+The woman, MP Rohitha Abeygunawardena and the Inspector General of Police, Desabandu Tennakoon, have said that he has commented.
 
 ◼️
 
 [Data](articles/4d50a150.json)
+
+[Extended Data](ext_articles/4d50a150.ext.json)
 
 ---
 
@@ -357,6 +441,8 @@ Accordingly, Lalanthi Perera of Kalutara will be summoned for her post which cal
 ◼️
 
 [Data](articles/76478f3e.json)
+
+[Extended Data](ext_articles/76478f3e.ext.json)
 
 ---
 
@@ -710,6 +796,24 @@ Another competitor who had seriously fallen ill was admitted to the Dickoya Base
 
 ---
 
+### Sri Lanka rupee opens at 300.00/20 to the US dollar
+
+*2024-04-01 10:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-300-00-20-to-the-us-dollar-156722/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 300.00/20 to the US dollar in the spot forex market on Monday, stronger from 300.40/50 on Thursday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 was quoted stable at  11.30/40 percent.
+
+A bond maturing on 15.12.2028 was quoted stable at 12.10/20 percent.
+
+The Colombo Stock Exchange opened down; the All Share Price Index was down 0.21 percent at 11,420; the S&P SL20 was down 0.65 percent at 3,296. (Colombo/Apr1/2024)
+
+◼️
+
+[Data](articles/b014a7a6.json)
+
+---
+
 ### Very special to those who have not received the revenue
 
 *2024-04-01 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195159) · `si`
@@ -755,6 +859,26 @@ As the police have been informed, the Thangotuwa police are conducting further i
 [Data](articles/6dde49b7.json)
 
 [Extended Data](ext_articles/6dde49b7.ext.json)
+
+---
+
+### Thailand explores Hambantota Port ahead of FTA, box handling
+
+*2024-04-01 10:01:00* · [`economynextcom`](https://economynext.com/thailand-explores-hambantota-port-ahead-of-fta-box-handling-156726/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s China-run Hambantota Port has briefed a visiting delegation from the Thai Prime Minister’s Office on planned container handling and an industrial park, a statement said.
+
+The visiting delegation headed by Wannaporn Niyomthong, Deputy Director from Directorate 8 of Thailand, was briefed on Hambantota International Port’s, energy, maritime services, roll-on-roll-off vehicle transfers.
+
+‘The port’s plans to commence its first phase of container operations was also discussed,” the port statment said.
+
+The delegation came after an earlier visit by Hambantota Port to Thailand.
+
+“The free trade agreement Sri Lanka and Thailand is preparing to sign provides further impetus for these interactions and HIP wishes to engage with Thai businesses and investors on several levels,” Tissa Wickremasinghe, Chief operating officer of Hambantota International Port Group (HIPG) said in a statement.
+
+...
+
+[Data](articles/c1e68d66.json)
 
 ---
 
@@ -1283,6 +1407,44 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/01b2fc31.json)
 
 [Extended Data](ext_articles/01b2fc31.ext.json)
+
+---
+
+### Sri Lanka current account in US$1.6bn surplus in 2023
+
+*2024-04-01 06:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-current-account-in-us1-6bn-surplus-in-2023-156688/) · `en`
+
+ECONOMYNEXT – Sri Lanka has recorded a surplus of 1,559 million dollars in the external current account by end 2023, official data show, amid reserve collections by the central bank and private banks repaying debt.
+
+In the December 2023 quarter Sri Lanka recorded a current account surplus of 237 million US dollars.
+
+Revised central bank data show that a current account surplus of 687 million US dollars was recorded in the third quarter, 51 million dollars in the second quarter and 584 million dollars in the first quarter.
+
+Sri Lanka started to record a current account surplus from the third quarter of 2022, with monetary stability also being restored around the same time and the overall balance of payments also going into surplus with deflationary monetary policy.
+
+The current account surplus is roughly the mirror image of the financial (and capital) accounts, subject to errors and omissions (a balancing item).
+
+...
+
+[Data](articles/b99f7a2d.json)
+
+---
+
+### Sri Lanka’s Rajapakshe says in discussion with religious leaders on common presidential candidate
+
+*2024-04-01 06:33:00* · [`economynextcom`](https://economynext.com/sri-lankas-rajapakshe-says-in-discussion-with-religious-leaders-on-common-presidential-candidate-156687/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Justice Minister Wijeyadasa Rajapakshe is in discussion with religious leaders who have requested him to be the common candidate in the upcoming presidential elections expected to ne held between September 18 and October 18, the legal expert said.
+
+Rajapakshe, 65, has been in the parliament for two decades since 2004 and had held various positions including cabinet portfolio. He gained overnight popularity after exposing corruptions at state-run enterprises as the Chairman of parliament Committee on Public Enterprises (COPE).
+
+In his response to media over possibility of becoming a common candidate, he said he is still discussing with religious leaders on that.
+
+“All religious leaders including all Nikayas of Buddhist clergies, Hindu, Christianity and Islam have requested me,” to consider becoming a presidential candidate, he told reporters on Friday (29)  after visiting Kandy Asgiriya temple.
+
+...
+
+[Data](articles/99c867eb.json)
 
 ---
 
@@ -2025,183 +2187,5 @@ This coincided with the government taking USD 210 million in dollar loans and LK
 [Data](articles/2bcba863.json)
 
 [Extended Data](ext_articles/2bcba863.ext.json)
-
----
-
-### 2024-03-31 (Sunday)
-
-### Vishmi, Kavisha cricketSri Lanka beat South Africa in T20
-
-*2024-03-31 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180093) · `ta`
-
-Sri Lanka won the 2nd Women's T20 match against South Africa by 7 wickets, balancing the series 1-1. Vishmi Gunaratne and Kavisha scored 76 runs, but South Africa lost to a low score. Sri Lanka's Vishmi lost 57 balls with 9 fours, 65 runs, and Kavisha Dilhari scored 45 off 28 balls. South Africa's Anek Bosh and Maurizan Keb scored 50 and 44 runs respectively.
-
-🟩
-
-Sri Lanka easily won South Africa by 7 wickets in the 2nd Women's International T20 cricket match held on Saturday (30) at the Pochevstrom Senvez Bagh Stadium.
-
-Sri Lanka has balanced the 3 -match women's T20 International Cricket Series 1 - 1.
-
-18 -year -old Manga Vishmi Gunaratne and 23 -year -old Kavisha have shared 76 runs in the 4th wicket that are not efficient.
-
-In the upcoming match, the Sri Lankan women's team won 138 runs for the loss of 138 runs in the upcoming match.
-
-Team captain Samari Athapathu (6), Harshita Samarawickrama (12) and Hassini Perera (1) lost the game with a low run.. (62 - 3 wig.)
-
-However, Vishmi Gunaratne lost 57 balls with 9 fours, 65 runs, including one six and Kavisha Dilhari, 45 off 28 balls and 45 runs.
-
-South Africa first scored 137 runs for the loss of 8 wickets in 20 overs.
-
-Anek Bosh shone in 50 runs and Maurizan Keb 44 runs.
-
-Achini Kulasuriya took 2 wickets for 26 runs and Inoshi Priyadarshani, Samari Attapattu and Kavisha Tilhari took one wicket each.
-
-◼️
-
-[Data](articles/702c1923.json)
-
-[Extended Data](ext_articles/702c1923.ext.json)
-
----
-
-### There will be massive crises without debt restructuring by July - Batali Champika Ranawaka
-
-*2024-03-31 23:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180092) · `ta`
-
-Batali Champika Ranawaka warns of national and international crises without debt restructuring by July. He criticizes the handling of racial conflicts and the imprisonment of Gnanasara Thera. The country is slightly stable from the economic crisis, and Ranawaka supports government economic recovery efforts.
-
-🟩
-
-If foreign state loans are not reorganized by the next July, there will be massive crises at the national and international level. Does Bashil's advice?Or stabilizing the country?The president should decide, the UNP leader and parliamentarian Patali Champika Ranawaka said.
-
-He was speaking at a function held on Sunday (31) in Ratnapura.
-
-The truth has not yet been revealed as the life of the Sunday bombing was carried out.
-
-The Supreme Court has sentenced the General Secretary of the Bodu Bala Sena Organization Gnanasara Thera to four years' imprisonment for the commentary to create conflicts and harm the reconciliation.Those who have created conflicts among the ethnicities are free today. Before the Sunday bombing incident, racial conflicts were systematically created.
-
-It must be accepted that the country is slightly stable from the economic crisis.. We will cooperate with the best resolutions of the government for economic recovery.
-
-...
-
-[Data](articles/c8da2680.json)
-
-[Extended Data](ext_articles/c8da2680.ext.json)
-
----
-
-### DERANA 60 PLUS SEASON 05 Ceremony Ranjith Ratnayake
-
-*2024-03-31 23:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195148) · `si`
-
-Ranjith Ratnayake won Drana 60 Plus Season 05, with Sunimal Peiris in second and third place. Ms. Samanmali Geethagege's song was the most popular.
-
-🟩
-
-Ranjith Ratnayake was able to win the crowd of the Drana 60 plus Season, which will be held for Senior Citizens with singing capacity.
-
-Derana 60 PUS Season 05 The final was held at the end of the night.
-
-Sunimal Peiris won the second place in the final.
-
-Drana 60 Plus Season 05 The third place was placed third in the final.
-
-Meanwhile, Ms. Samanmali Geethagege was elected as the most popular song of the final.
-
-The first Taualty experience of the country's media company organized a stage for the exhibition of senior citizens exhibition at the age of 60, the Drana 60 plus tournament.
-
-◼️
-
-[Data](articles/2ecab1f4.json)
-
-[Extended Data](ext_articles/2ecab1f4.ext.json)
-
----
-
-### Ranjith Rathnayake wins ‘Derana 60 Plus - Season 5’
-
-*2024-03-31 22:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98332/ranjith-rathnayake-wins-derana-60-plus-season-5) · `en`
-
-Ranjith Rathnayake won the Grand Finale of “Derana 60 Plus - Season 5” which was held in Colombo on Sunday (31).
-
-◼️
-
-[Data](articles/f717ac05.json)
-
-[Extended Data](ext_articles/f717ac05.ext.json)
-
----
-
-### Pope Francis, in Easter address, calls for Gaza ceasefire
-
-*2024-03-31 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98331/pope-francis-in-easter-address-calls-for-gaza-ceasefire) · `en`
-
-Pope Francis called for an immediate ceasefire in Gaza and the release of all Israeli hostages in an Easter Sunday address that marked the most important day on the Christian calendar by deploring the suffering caused by wars.
-
-The pontiff presided over Mass in a packed and flower-bedecked St Peter’s Square, and then delivered his “Urbi et Orbi” (to the city and the world) blessing and message from the central balcony of St. Peter’s Basilica.
-
-Francis, 87, has been in poor health in recent weeks, forcing him on repeated occasions to limit his public speaking and cancel engagements as he did on Good Friday, skipping at short notice a procession at Rome’s Colosseum.
-
-However, he took part in other Holy Week events leading up to Easter, and appeared in relatively good spirits on Sunday. Easter celebrates the day in which the faithful believe Jesus rose from the dead.
-
-...
-
-[Data](articles/25a0e00f.json)
-
-[Extended Data](ext_articles/25a0e00f.ext.json)
-
----
-
-### Correction in fuel prices!
-
-*2024-03-31 22:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180090) · `ta`
-
-Fuel prices reduced from 12 midnight Sunday, 31st. Octane 95 now 440 rupees, diesel 386 rupees, kerosene 245 rupees. Octane 92 and Otto Diesel prices unchanged.
-
-🟩
-
-The amendment has been made from 12 midnight on Sunday, 31st of the fuel prices.
-
-The Ministry of Power and Energy said that the prices of fuel have been reduced as per the amendment.
-
-Accordingly, the price of a liter of Octane 95 petrol was reduced by 7 rupees and the new price was announced at 440 rupees.
-
-The price of a liter of diesel is reduced by 72 rupees and sold to 386 rupees.
-
-In addition, the price of a liter of kerosene has been reduced by 12 rupees and will be sold for 245 rupees.
-
-It has also been announced that the price of the Octane 92 parents and the price of Otto Diesel has not changed.
-
-◼️
-
-[Data](articles/e3ee6a19.json)
-
-[Extended Data](ext_articles/e3ee6a19.ext.json)
-
----
-
-### Harsha is about the news that has an impact on Sri Lanka -Indian diplomatic relationship
-
-*2024-03-31 22:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/180091) · `ta`
-
-Dr. Harsha de Silva criticizes an English newspaper's article on Sri Lanka-India relations, accusing it of spreading false information. Maithripala Sirisena's comments on a diplomat's inability to execute programs have sparked controversy. The opposition leader promises justice for victims of the Sunday attacks, despite fines from investigations.
-
-🟩
-
-An English newspaper has published a paragraph pointing of baseless factors regarding life. United People's Power Member Dr. Harsha de Silva has said that the paragraph is an impact on the diplomatic relationship between Sri Lanka and India.
-
-He further stated at a press conference held at the opposition leader's office in Colombo on Sunday.
-
-Former President Maithripala Sirisena has issued controversial comments as five years after the deaths of the Sunday Sunday.. In the political column of a popular English newspaper, Maithri has stated that a prominent diplomat in India has been reported.
-
-The reason for this is the inability to carry out their programs. If so, what is the opinion of these attacks so far?Who is trying to whitewash?What is this newly released political maneuver?
-
-We see such a news release on the day of Jubilee Sunday. Such news has been revealed as investigations have been carried out so far and have been fined 100 million.
-
-...
-
-[Data](articles/64fe7f39.json)
-
-[Extended Data](ext_articles/64fe7f39.ext.json)
 
 ---

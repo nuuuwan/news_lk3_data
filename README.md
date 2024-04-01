@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 11:52:47**
+As of **2024-04-01 12:03:46**
 
 ## Newspaper Stats
 
-*Scraped **16,321** Articles*
+*Scraped **16,329** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,111 @@ dailyftlk | 881
 economynextcom | 888
 islandlk | 912
 adalk | 1,368
-tamilmirrorlk | 1,950
-adaderanalk | 1,967
-virakesarilk | 2,317
-dailymirrorlk | 2,512
-adaderanasinhalalk | 2,644
+tamilmirrorlk | 1,953
+adaderanalk | 1,968
+virakesarilk | 2,318
+dailymirrorlk | 2,514
+adaderanasinhalalk | 2,645
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,320 (100.0%) of 16,321 articles have been extended.
+16,321 (100.0%) of 16,329 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### Government withdraws Bill to reduce consent age for sex to 14 years
+
+*2024-04-01 11:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-withdraws-Bill-to-reduce-consent-age-for-sex-to-14-years/108-279950) · `en`
+
+Parliament, April 1 (Daily Mirror)- The government today withdrew the Penal Code (Amendment) Bill which calls to reduce the consent age for sex to 14 years.
+
+Justice Minister Wijeyadasa Rajapakshe told Parliament that the government was withdrawing the Bill and said that an amendment which could be agreeable to all interested parties will be presented to Parliament in the future.
+
+The Minister said the recommendation on the Bill was presented to the Justice Ministry by senior President's Counsels, other Attorneys and professionals after studying for five years.
+
+He said the amendment was proposed due to a practical issue where the girl and the boy, who had sexual relationships on consent over a romantic relationship, had to face.
+
+...
+
+[Data](articles/32ba30c8.json)
+
+---
+
+### Defence Ministry affirms no legal deployment of military to Russia or Ukraine amid reports of involvement in war
+
+*2024-04-01 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98341/defence-ministry-affirms-no-legal-deployment-of-military-to-russia-or-ukraine-amid-reports-of-involvement-in-war) · `en`
+
+All members of Sri Lankan tri-forces have been informed not to join Russian or Ukraine forces in illegal means, the Ministry of Defence announced.
+
+In response to the recent foreign media reports regarding the Sri Lankan soldiers killed in Russia – Ukraine war, the Defence Ministry clarified that although information has been revealed that the members of Sri Lankan security forces have joined the Russian forces, the Defence Ministry has no relation to the matter.
+
+However, the Ministry of Defence highlighted that no information have been received through the embassies that two Sri Lankan army soldiers being killed in Russia during the war.
+
+The Ministry of Defense also mentioned that against a background where there is no agreement between the Sri Lankan army and the Russian army to send Sri Lankan military members to serve in Russia, such incidents will damage the reputation of the country.
+
+...
+
+[Data](articles/ffa25ab5.json)
+
+---
+
+### ඩොලරයේ වෙනසක්
+
+*2024-04-01 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195165) · `si`
+
+අමෙරිකානු ඩොලරයක ගැණුම් මිල සහ විකුණුම් මිල සම්බන්ධයෙන් නවතම දත්ත ශ්‍රී ලංකා මහ බැංකුව විසින් නිකුත් කර තිබේ.
+
+මේ අතර පසුගිය ජූනි 13 වනදායින් පසුව ඩොලරයක නිරූපිත අනුපාතය රු 300ක් ලෙස අද දින වාර්තා වී තිබේ.
+
+එසේම ඩොලරයක ගැණුම් මිල රු 295.57ක් ලෙසත් විකුණුම් මිල රු 305.10ක් ලෙස සඳහන් වේ.
+
+◼️
+
+[Data](articles/554939f1.json)
+
+---
+
+### மோடி கும்பகர்ண தூக்கம் :  ஸ்டாலின் பாய்ச்சல்
+
+*2024-04-01 11:41:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடி-கும்பகர்ண-தூக்கம்-ஸ்டாலின்-பாய்ச்சல்/175-335447) · `ta`
+
+பாராளுமன்ற தேர்தல் நெருங்கிவரும் நிலையில் கச்சத்தீவு விவகாரத்தை பாரதிய ஜனதா கட்சி( பா.ஜ.க) கையில் எடுத்துள்ளது. கச்சத்தீவு விவகாரத்தில் திராவிட முன்னேற்ற கழகம் ( தி.மு.க.) இரட்டை வேடம் போடுவதாக பிரதமர் மோடி குற்றஞ்சாட்டியுள்ளார்.
+
+இது தொடர்பாக பிரதமர் மோடி,  திங்கட்கிழமை (01) தனது டுவிட்டர் பக்கத்தில் வெளியிட்ட பதிவில்,
+
+கச்சத்தீவு விவகாரத்தில் தி.மு.க. இரட்டை வேடம் போடுகிறது. தமிழ்நாட்டின் நலன்களை பாதுகாப்பதற்கு தி.மு.க. எதுவும் செய்யவில்லை. கச்சத்தீவு பற்றிய புதிய விவரங்கள் வெளிப்பட்டுவருவதனால் முற்றிலும் இரட்டை நிலைப்பாட்டை கொண்ட தி.மு.க.வின் வேடம் கலைந்துள்ளது
+
+இந்நிலையில், கச்சத்தீவு விவகாரத்தில் தேர்தலுக்காக திடீர் மீனவர் பாச நாடத்தை பா.ஜ.க. அரங்கேற்றுவதாக முதல்-அமைச்சர் மு.க.ஸ்டாலின் குற்றஞ்சாட்டியுள்ளார்.
+
+மேலும், பிரதமர் மோடிக்கு முதல் -அமைச்சர் மு.க.ஸ்டாலின் 3 கேள்விகளை எழுப்பியுள்ளார். இது தொடர்பாக மு.க.ஸ்டாலின் தனது டுவிட்டர் பக்கத்தில் வெளியிட்டுள்ள பதிவில்,
+
+...
+
+[Data](articles/ffcf7220.json)
+
+---
+
+### நாட்டில் முதலாவது AI திரைப்படம் தயாரிப்பதற்கு அரசாங்கம் ஆதரவளிக்கும் - ஜனாதிபதி
+
+*2024-04-01 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/180115) · `ta`
+
+பழமையான பாரம்பரியத்துடன் காணப்படும் திரைப்படக் கூட்டுத்தாபனம் நவீன தொழில்நுட்பத்துடன் மாற்றத்திற்கு உள்ளாக்கப்பட்டு இலங்கை திரைப்படம் மற்றும் தொலைக்காட்சி நாடக அபிவிருத்தி நிறுவனமாக கட்டியெழுப்பப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+அதேவேளை, கலைஞர்கள் மற்றும் வடிவமைப்பாளர்களை நவீன தொழில்நுட்ப அறிவுடன் வலுவூட்டுவதற்கு வெளிநாட்டு பயிற்சி வாய்ப்புகள் வழங்கப்படும் என தெரிவித்த ஜனாதிபதி, நவீன தொழில்நுட்பத்துடன் முன்னோக்கிச் செல்ல திரைப்படம் மற்றும் தொலைக்காட் நாடகத்துறையை தயார் செய்ய வேண்டும் எனவும் சுட்டிக்காட்டினார்.
+
+செயற்கை நுண்ணறிவு  (AI) தொழிநுட்பம் இன்று உலகத் திரைப்படத்துறையில் உள்வாங்கப்பட்டிருக்கிறது. எனவே, அதனை முன்னோக்கி கொண்டுச் செல்லும் வகையில் முதலாவது AI திரைப்படத்தை தயாரிப்பதற்கு அரசாங்கம் ஆதரவு வழங்கும் என்றும் ஜனாதிபதி அறிவித்தார்.
+
+கொழும்பு ஷங்ரீலா ஹோட்டலில் நேற்று (30) இரவு நடைபெற்ற 20 ஆவது ரைகம் டெலிஸ் விருது வழங்கும் விழாவில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத்  தெரிவித்தார்.
+
+...
+
+[Data](articles/5c9b5e66.json)
+
+---
 
 ### Litro Gas prices reduced
 
@@ -45,6 +135,8 @@ Meanwhile, the price of the 2.3 kg cylinder has been reduced by Rs. 23 with the 
 ◼️
 
 [Data](articles/02dc865c.json)
+
+[Extended Data](ext_articles/02dc865c.ext.json)
 
 ---
 
@@ -120,6 +212,22 @@ A Thai Airways has arrived in the island after four years.
 
 ---
 
+### சமூக ஊடக பதிவு:  பெண்ணுக்கு அழைப்பு
+
+*2024-04-01 11:13:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-ஊடக-பதிவு-பெண்ணுக்கு-அழைப்பு/175-335441) · `ta`
+
+பாராளுமன்ற உறுப்பினர் ஒருவரை விமர்சித்து சமூக ஊடகங்களில் வெளியான பதிவு தொடர்பில் பெண் ஒருவர் பாராளுமன்ற சிறப்புரிமைகள் குழுவுக்கு அழைக்கப்படவுள்ளார்.
+
+களுத்துறையைச் சேர்ந்த லலந்தி பெரேரா என்ற பெண்ணே இவ்வாறு அழைக்கப்படவுள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன, இன்று (01) அறிவித்துள்ளார்.
+
+குறித்த பெண், பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன மற்றும் பொலிஸ்மா அதிபர் தேசபந்து தென்னகோன் ஆகியோர் தொடர்பில் கருத்து பதிவிட்டுள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/4d50a150.json)
+
+---
+
 ### Social Media Registration: Calling the Woman to the Privacy Committee
 
 *2024-04-01 11:13:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-ஊடக-பதிவு-சிறப்புரிமைக்-குழுவுக்கு-பெண்ணுக்கு-அழைப்பு/175-335441) · `ta`
@@ -170,7 +278,7 @@ The number of people who are trying to illegally migrate to illegally be illegal
 
 ### Suspect arrested with knives near church on Easter Day
 
-*2024-04-01 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180107) · `ta`
+*2024-04-01 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/180107) · `ta`
 
 A 43-year-old man from Kokkadichcholai was arrested near a Negombo church on Easter Day with knives. He was a former LTTE member.
 
@@ -235,6 +343,20 @@ In addition, they told the police that they had gathered in an abandoned buildin
 [Data](articles/5dca20e6.json)
 
 [Extended Data](ext_articles/5dca20e6.ext.json)
+
+---
+
+### Woman to be summoned before Privileges Committee over social media post
+
+*2024-04-01 10:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Woman-to-be-summoned-before-Privileges-Committee-over-social-media-post/108-279930) · `en`
+
+Parliament, April 1 (Dailyb Mirror)- A person is to be summoned before the Commitee on Privileges for a post uploaded on social media criticising an MP.
+
+Accordingly, Lalanthi Perera of Kalutara will be summoned for her post which called MP Rohitha Abeygunawarde and IGP Deshabandu Tennekoon rogues, according to the announcement by Speaker Mahinda Yapa Abeywardena.
+
+◼️
+
+[Data](articles/76478f3e.json)
 
 ---
 
@@ -2081,155 +2203,5 @@ We see such a news release on the day of Jubilee Sunday. Such news has been reve
 [Data](articles/64fe7f39.json)
 
 [Extended Data](ext_articles/64fe7f39.ext.json)
-
----
-
-### Sri Lanka cuts super diesel by Rs72, Octane 05 by Rs7
-
-*2024-03-31 22:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-super-diesel-by-rs72-octane-05-by-rs7-156669/) · `en`
-
-ECONOMYNEXT – Sri Lanka has cut the price of super diesel Euro 4, by 72 rupees a litre to 386 rupees, and petrol Octane 95 Euro 04 by 7 rupees to 440 rupees, state-run Ceylon Petroleum Corporation said.
-
-Kerosene prices was also cut by 12 rupees to 245 rupees a litre
-
-Standard diesel also remains unchanged at 363 rupees a litre, the CPC said.
-
-◼️
-
-[Data](articles/a89e2508.json)
-
-[Extended Data](ext_articles/a89e2508.ext.json)
-
----
-
-### Sri Lanka cuts super diesel by Rs72, Octane 95 by Rs7
-
-*2024-03-31 22:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-super-diesel-by-rs72-octane-95-by-rs7-156669/) · `en`
-
-ECONOMYNEXT – Sri Lanka has cut the price of super diesel Euro 4, by 72 rupees a litre to 386 rupees, and petrol Octane 95 Euro 04 by 7 rupees to 440 rupees, state-run Ceylon Petroleum Corporation said.
-
-Kerosene prices was also cut by 12 rupees to 245 rupees a litre
-
-Standard diesel also remains unchanged at 363 rupees a litre, the CPC said.
-
-Sinopec Lanka said it also matched the price cuts. Sinopec is selling, premium and standard petrol and diesel 3 rupees below that if CPC.
-
-◼️
-
-[Data](articles/c19d8c2d.json)
-
-[Extended Data](ext_articles/c19d8c2d.ext.json)
-
----
-
-### A reduction in prices in fuels
-
-*2024-03-31 22:00:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்களில்-விலை-குறைப்பு/175-335416) · `ta`
-
-The Sri Lankan Petroleum Corporation has reduced fuel prices effective from midnight on Sunday. Octane 95 petrol is now 440 rupees, super diesel 386 rupees, and kerosene 245 rupees. Octane 92 and Otto diesel prices remain unchanged.
-
-🟩
-
-The Sri Lankan Petroleum Corporation has announced that it has been changed in effect from midnight on Sunday (31).
-
-The price of a liter of octane 95 petrol has been reduced by 7 rupees and its new price has been fixed at 440 rupees.
-
-The price of a liter of super diesel has been reduced by 72 rupees and its new price has been fixed at 386 rupees.
-
-The price of a liter of kerosene has been reduced by 12 rupees and its new price has been fixed at 245 rupees.
-
-Octane 92 variants of petrol and Otto diesel have not changed
-
-◼️
-
-[Data](articles/2b85403c.json)
-
-[Extended Data](ext_articles/2b85403c.ext.json)
-
----
-
-### Ceylinco General Insurance: ‘People’s General Insurance Brand’ for 18th consecutive year
-
-*2024-03-31 22:00:00* · [`islandlk`](http://island.lk/ceylinco-general-insurance-peoples-general-insurance-brand-for-18th-consecutive-year/) · `en`
-
-Ceylinco General Insurance expresses its heartfelt gratitude to the people of Sri Lanka for being crowned the ‘People’s General Insurance Brand of The Year’ at the 2024 SLIM Kantar People’s Awards for an unprecedented 18th consecutive year!
-
-As these awards are based on brands that are close to people’s hearts and reflects their perceptions about brands, the selection process is determined on the results of a survey rather than an application or an evaluation process – which indicates the true opinions of the people of Sri Lanka. The People’s Award is the most coveted award for corporates because it reflects the voice of the people and indicates the brand they love and respect.
-
-...
-
-[Data](articles/45eac071.json)
-
-[Extended Data](ext_articles/45eac071.ext.json)
-
----
-
-### Construction activities expand in February 2024
-
-*2024-03-31 22:00:00* · [`islandlk`](http://island.lk/construction-activities-expand-in-february-2024/) · `en`
-
-Sri Lanka Purchasing Managers’ Index for Construction (PMI – Construction) released by the Central bank of Sri Lanka indicates an expansion in construction activities in February 2024, as reflected by the Total Activity Index, which recorded an index value of 57.1. Many firms attributed the growth in construction activities to the current conducive environment and the resumption of several temporarily suspended projects.
-
-New Orders continued to increase for the second consecutive month, reflecting the improved demand conditions in the industry. The respondents mentioned that large-scale infrastructure projects, particularly foreign-funded ones, are also among the available tender opportunities. However, Employment remained contracted in February, yet at a slower rate than the previous month. Several survey respondents cautioned about the shortage of skilled and experienced construction workers.
-
-...
-
-[Data](articles/5dd7b5e3.json)
-
-[Extended Data](ext_articles/5dd7b5e3.ext.json)
-
----
-
-### Lanka Harness, Japanese-owned BOI company recognised at CPM Awards 2024
-
-*2024-03-31 22:00:00* · [`islandlk`](http://island.lk/lanka-harness-japanese-owned-boi-company-recognised-at-cpm-awards-2024/) · `en`
-
-Lanka Harness Co. a fully Japanese owned BOI enterprise won overall silver winner of the best management practices awards 2024, best management practices excellence awards 2024 and category winner of manufacturing at the best management practices company awards 2024, organised by the institute of Chartered Professional Managers of Sri Lanka (CPM Sri Lanka) at the Cinnamon Grand recently. Mekala Dunuwila of Lanka Harness Company receives the award from Mizukoshi Hideaki, the Japanese Ambassador in Sri Lanka.
-
-Ceylinco General Insurance: ‘People’s General Insurance Brand’ for 18th consecutive year
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/b0e5123d.json)
-
-[Extended Data](ext_articles/b0e5123d.ext.json)
-
----
-
-### A lot of cricket records from Komun
-
-*2024-03-31 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195147) · `si`
-
-In the 2nd day of the 2nd Test against Sri Lanka, Bangladesh scored 55 runs. Sri Lanka's 1st innings ended at 531 runs, with Kamindu Mendis losing his century. He scored 419 runs, equalling the record set in 1976. Sri Lanka's score was the highest in Test history without a century.
-
-🟩
-
-The Bangladesh team scored 55 legs when the second day of the second day of Sri Lanka - 13th Test Competition.
-
-Sri Lanka scored 531 runs in their first innings, where several Test reports were renewed.
-
-The third century with the end of the end of the Sri Lankan innings, Kamindu Mendis lost his centurion.
-
-Kammin has scored 419 runs in the four-year-old Test Irum.
-
-He was diagnosed with 419 runs in the first Test Irum, Pakistan in 1976.
-
-In addition, Kamindu Mendis was also present as the third player recorded in the first 4 Test innings.
-
-Accordingly, Sri Lanka scored 531 runs for the loss of all wickets.
-
-The number of marks was accompanied by a group of players in a Test history, not a century in Test innings.
-
-Earlier, India had scored 524 runs for the loss of 9 wickets in 1976/77.
-
-◼️
-
-[Data](articles/da5416bc.json)
-
-[Extended Data](ext_articles/da5416bc.ext.json)
 
 ---

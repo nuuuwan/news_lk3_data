@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 00:33:37**
+As of **2024-04-02 00:51:14**
 
 ## Newspaper Stats
 
-*Scraped **16,476** Articles*
+*Scraped **16,482** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 147
 bbccomsinhala | 174
 dbsjeyarajcom | 201
 newsfirstlk | 363
-dailyftlk | 881
+dailyftlk | 886
 economynextcom | 909
 islandlk | 913
 adalk | 1,387
 tamilmirrorlk | 1,963
 adaderanalk | 1,984
-virakesarilk | 2,349
+virakesarilk | 2,350
 dailymirrorlk | 2,537
 adaderanasinhalalk | 2,668
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 2,668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,476 (100.0%) of 16,476 articles have been extended.
+16,476 (100.0%) of 16,482 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### ராஜஸ்தான் 3ஆவது நேரடி வெற்றியை சுவைக்க மும்பையின் தோல்வி தொடர்கிறது
+
+*2024-04-02 00:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180192) · `ta`
+
+மும்பை இண்டியன்ஸுக்கு எதிராக வான்கடே விளையாட்ரங்கில் திங்கட்கிழமை (01) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 14ஆவது போட்டியில் ராஜஸ்தான் றோயல்ஸ் 6 விக்கெட்களால் மிக இலகுவாக வெற்றிபெற்றது.
+
+யுஸ்வேந்த்ர சஹால், ட்ரென்ட் போல்ட் ஆகியோரின் துல்லியமான பந்துவீச்சுகள், வீரர்களின் சிறப்பான களத்தடுப்பு, ரியான் பராக் குவித்த ஆட்டம் இழக்காத அரைச் சதம் என்பன ராஜஸ்தான் றோயல்ஸுக்கு இலகுவான வெற்றியை ஈட்டிக்கொடுத்தன.
+
+மும்பை இண்டியன்ஸுக்கு 250ஆவது ஐபிஎல் போட்டியாக அமைந்த இந்தப் போட்டி ஏமாற்றத்தையே கொடுத்தது.
+
+ஐந்து தடவைகள் சம்பயினான மும்பை இண்டியன்ஸ் 17ஆவது ஐபிஎல் அத்தியாயத்தில் இதுவரை விளையாடிய 3 போட்டிகளிலும் தோல்வி அடைந்துள்ளதுடன் இந்த அணி மாத்திரமே இவ் வருடம் இதுவரை வெற்றிபெறாத அணியாக இருக்கிறது.
+
+மும்பை இண்டியன்ஸினால் நிர்ணயிக்கப்பட்ட சுமாரான 126 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய ராஜஸ்தான் றோயல்ஸ் 15.3 ஓவர்களில் 4 விக்கெட்களை இழந்து 127 ஓட்டங்களைப் பெற்று அமோக வெற்றியீட்டியது.
+
+...
+
+[Data](articles/c134d0a2.json)
+
+---
+
+### Taxation and the social contract: Thatcherites holding Sri Lanka back
+
+*2024-04-02 00:27:23* · [`dailyftlk`](https://www.ft.lk/columns/Taxation-and-the-social-contract-Thatcherites-holding-Sri-Lanka-back/4-760192) · `en`
+
+The UNP has always operated on a centre-right economic policy maxim, remaining on a continuum of Thatcherite or Reaganite low tax, small government, pro-business, pro-market foundations
+
+Peter Breuer of the IMF’s visiting delegation made some interesting comments specifically related to alternatives or alterations to the current program. He stated that any alternative proposals must be realistic before repeating the urgency for improving revenue and meeting Intended Targets (ITs) and noting the “commitment in the (IMF) program to not grant any more tax concessions. Tax concessions are a missing component of tax revenues”.
+
+The given graphs extracted from ADB and IMF reports reiterate Breuer’s point that Sri Lanka’s tax revenues are inadequate in terms of value and imbalanced in terms of revenue source.
+
+...
+
+[Data](articles/f1cb2e37.json)
+
+---
 
 ### Mushrooming Alliances! Exploring pros and cons of coalition politics
 
@@ -70,13 +106,53 @@ S. Ramanujam, a retired former Senior Administrative Officer of the Indian gover
 
 ### 2024-04-01 (Monday)
 
+### Enhancing future-proof competencies: Education for excellence
+
+*2024-04-01 23:30:43* · [`dailyftlk`](https://www.ft.lk/columns/Enhancing-future-proof-competencies-Education-for-excellence/4-760185) · `en`
+
+It is heartening to see some serious efforts are being made to reform the education system in Sri Lanka. Fulfilling a long overdue, launching of a STEAM (Science, Technology, Engineering, Arts and Mathematics) initiative is also a welcome move. Despite the resource constraints, socio-economic challenges, amidst political inconstancies, uplifting our education system is commendable. Let me reflect on 10 essential competencies for future-proof Sri Lankans in making them competitive locally, regionally, and globally. Today’s column is a reflection on 10 future-proof competencies for Sri Lankans.
+
+...
+
+[Data](articles/3c5da2f4.json)
+
+---
+
+### “A single window for all investments that simplifies investment”
+
+*2024-04-01 23:27:25* · [`dailyftlk`](https://www.ft.lk/business/A-single-window-for-all-investments-that-simplifies-investment/34-760184) · `en`
+
+Board of Investment (BOI) and Port City Economic Commission Chairman Dinesh Weerakkody in this interview responds to some of the questions posed covering the investment challenges facing the country.
+
+Q: Why does Sri Lanka get less FDI than most regional neighbours?
+
+A: According to most credible surveys carried out, the main drivers of investment decisions are political and macroeconomic stability and the country’s regulatory and business environment. Excluding the civil conflict and the pandemic, policy inconsistency has impacted Sri Lanka’s investment climate significantly. Even prior to the recent economic crisis, Sri Lanka had a tendency of changing key policies. This has resulted in investors facing practical difficulties in running their businesses, especially with respect to the tax regime of the country.
+
+...
+
+[Data](articles/3c22da6a.json)
+
+---
+
+### Enterprise leadership: Catalysing value through innovation
+
+*2024-04-01 23:25:21* · [`dailyftlk`](https://www.ft.lk/business/Enterprise-leadership-Catalysing-value-through-innovation/34-760183) · `en`
+
+“Innovation is the commercialisation of invention, it is a tool for business,” opined InQube Global Founder and Managing Director Dilan Gooneratne speaking to an audience of Company Directors and senior corporate executives. Enterprise leadership: Catalysing value through Innovation, organised by the Innovation and Technology Committee of the Sri lanka Institute of Directors (SLID), explored the role innovation can play in deriving a strategic advantage, and the eco-system needed to foster and facilitate innovation in an organisation.
+
+...
+
+[Data](articles/49228494.json)
+
+---
+
 ### Sri Lanka exporters protest rupee appreciation, forced conversion rules
 
 *2024-04-01 23:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-exporters-protest-rupee-appreciation-forced-conversion-rules-156862/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s export associations have protested the recent sharp appreciation of the rupee saying, forced forex conversion rules have been forced on them and some costs are not falling in line with the rupee gains, leading to a loss of cost competitiveness.
+ECONOMYNEXT – Sri Lanka’s export associations have protested the recent sharp appreciation of the rupee saying forex conversion rules have been forced on them and some costs are not falling in line with the rupee gains, leading to a loss of cost competitiveness.
 
-Sri Lanka’s central bank is operating a de facto pegged exchange rate where the agency’s domestic assets are being reduced against dollar purchases (reversing ‘money printing’), triggering a balance if payments surplus allowing the exchange rate to be appreciated if the agency wishes, analysts have shown.
+Sri Lanka’s central bank is operating a de facto pegged exchange rate where the agency’s domestic assets are being reduced against dollar purchases (reversing ‘money printing’), triggering a balance of payments surplus allowing the exchange rate to be appreciated if the agency wishes, analysts have shown.
 
 There is however a widespread belief that suspending debt repayments have helped appreciate the rupee, though the financial account turned into a deficit in the last quarter of 2022, just as monetary stability was restored allowing out payments to be made and reserves to be collected.
 
@@ -105,6 +181,18 @@ According to the World Health Organization's report, 39 million people live infe
 [Data](articles/be6ec271.json)
 
 [Extended Data](ext_articles/be6ec271.ext.json)
+
+---
+
+### Professional accountants: Best equipped and placed in fighting bribery and corruption
+
+*2024-04-01 23:00:56* · [`dailyftlk`](https://www.ft.lk/columns/Professional-accountants-Best-equipped-and-placed-in-fighting-bribery-and-corruption/4-760182) · `en`
+
+A distinguishing mark of the accounting profession is its acceptance of the responsibility to act in the public interest. In this battle against bribery, corruption and accounting malfeasance, The Institute of Chartered Accountants, Sri Lanka (ICASL) and other Professional Accounting Organisations (PAOs), present and operating in Sri Lanka, can play a more active role in empowering their members to doing what is ethical
+
+...
+
+[Data](articles/37bcbaca.json)
 
 ---
 
@@ -2139,129 +2227,5 @@ Suitable students between the ages of 12 and 16 have been selected from 108 scho
 [Data](articles/04c1e2f0.json)
 
 [Extended Data](ext_articles/04c1e2f0.ext.json)
-
----
-
-### UNDP meets NPP; discusses increasing poverty in Sri Lanka
-
-*2024-04-01 14:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNDP-meets-NPP-discusses-increasing-poverty-in-Sri-Lanka/108-279963) · `en`
-
-Colombo, April 1 (Daily Mirror)- The United Nations Development Programme (UNDP) met with National People's Power (NPP) today at the JVP Head Office, party sorces said.
-
-UNDP Resident Representative in Sri Lanka Azusa Kubota, Policy Specialist Chandrika Karunaratna took part in the discussion.
-
-They briefed the NPP representatives about the projects initiated by the UNPD in Sri Lanka and they have also mentioned that their attention has been drawn to increasing poverty in Sri Lanka due to the prevailing economic situation.
-
-NPP members MP Harini Amarasuriya and Politburo member Bimal Ratnayake participated in the discussion.
-
-◼️
-
-[Data](articles/f55e49f6.json)
-
-[Extended Data](ext_articles/f55e49f6.ext.json)
-
----
-
-### 3 months tourist arrivals exceeding 600,000
-
-*2024-04-01 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195171) · `si`
-
-Sri Lanka saw over 600,000 tourist arrivals in 3 months, with a total of 635,784 by March 31, 2024, according to Travel Minister Harin Fernando.
-
-🟩
-
-Tourist arrivals have reached Sri Lanka for 635,784 tourists to this year on March 31, said Travel Minister Harin Fernando.
-
-Accordingly, over the first 3 months of 2024, more than 2 lakhs of tourists have raised their lives.
-
-◼️
-
-[Data](articles/de622097.json)
-
-[Extended Data](ext_articles/de622097.ext.json)
-
----
-
-### Katchatheevu neither acquired nor ceded, lies in Sri Lankan maritime area – UBT leader
-
-*2024-04-01 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98346/katchatheevu-neither-acquired-nor-ceded-lies-in-sri-lankan-maritime-area-ubt-leader) · `en`
-
-Adding fuel to the Katchatheevu row, India’s Shiv Sena (UBT) leader Priyanka Chaturvedi shared an RTI reply of 2015 where it was mentioned that the Katchatheevu island was neither acquired nor ceded and that it lies on the Sri Lankan side of the India-Sri Lanka International Maritime Boundary Line.
-
-In a post on ‘X’, Chaturvedi pointed out that the Ministry of External Affairs (MEA) should be able to address the “discrepancies” in its RTI response in 2015 and its position in 2024.
-
-“Maybe @MEAIndia will be able to address these discrepancies in its RTI response in 2015 vis a vis 2024,” Chaturvedi said. “This did not involve either acquiring or ceding of territory belonging to India since the area in question had never been demarcated. Under the Agreements, the Island of Katchatheevu lies on the Sri Lankan side of the India-Sri Lanka International Maritime Boundary Line,” the RTI reply which Chaturvedi said was from the MEA in 2015 read.
-
-...
-
-[Data](articles/106f8724.json)
-
-[Extended Data](ext_articles/106f8724.ext.json)
-
----
-
-### 8,000 million in terms of big onions - an revelation of major revenue agencies
-
-*2024-04-01 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195170) · `si`
-
-Sri Lanka's 2023 imported profits revealed: Rs. 8,000 million, with Rs. 1,066 in tax arrears. VAT increase to Rs. 600 per person, totaling Rs. 656 million. Patali Champika Ranawaka criticizes tax evasion, highlighting the impact on the economy.
-
-🟩
-
-Businesses have revealed that the imported profits of the Sri Lanka in 2023 in 2023 in the Committee on Palace have received an abuse of Rs. 8,000.
-
-The Chairman of the Committee Patali Champika Ranawaka made these relevant reports today (01).
-
-Meanwhile, the Government of Sri Lanka Customs, Department of Local Revere Development and Excise Department Rs. The arrears of Rs. 1,066 have been taxed, Patali Champika Ranawaka said.
-
-VAT was increased on January 1st January this year.. 600 is for collecting 600 people to the government and the total tax revenue is Rs.. B. Patali Champika Ranawaka said that 656 and addressing the Parliament.
-
-The 10-50 million people have over Rs.Speaking, Patali Champika Ranawaka added that it is not justified in the country's population without charges with a tax collar's 4,479 tax elections.
-
-...
-
-[Data](articles/7dee9d7c.json)
-
-[Extended Data](ext_articles/7dee9d7c.ext.json)
-
----
-
-### Japan bicycles to encourage students' attendance in remote areas
-
-*2024-04-01 13:48:28* · [`adalk`](https://www.ada.lk/breaking_news/දුෂ්කර-ප්‍රදේශවල-සිසුන්ගේ-පාසල්-පැමිණීම-දිරිගැන්වීමට-ජපානයෙන්-පාපැදි/11-408881) · `si`
-
-Japan's 'China' Chailfand grants 500 bicycles to Sri Lankan schools in remote areas, aiming to boost student attendance. The initiative, supported by the Japanese Ambassador and the Sri Lanka Chailfand, benefits students in Moneragala, Puttalam, and Mullaitivu districts.
-
-🟩
-
-The Japanese 'China' Chailfand has been given a grant of 500 bicycles to encourage students to attend school children's daily school children.
-
-Educational Minister Susil Premajayantha today under the patronage of Minister of Education Dr. Susil Premajayantha today under the patronage of Minister of Education Dr. Susil Premajayantha today. In the event, Japanese Ambassador to the Japanese Ambassador, Mizukoshi Hadeaki (Mizukoshi Hadeaki) and National Director of the Japanese Chayildfund (Uki Gosh) and the national director of Lanka Chillfad.
-
-These bicycle consumption has already been selected from 108 schools in 12 districts such as Moneragala, Puttalam and Mullaitivu.. At least two and a half miles [a half kilometers) from home to school is a major criterion of these bicycles. The students' families have also considered economic hardships and other difficulties.
-
-...
-
-[Data](articles/0c81f88b.json)
-
-[Extended Data](ext_articles/0c81f88b.ext.json)
-
----
-
-### No bus fare revision at this time, potential switch to super diesel if price decreases further: Gemunu
-
-*2024-04-01 13:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-bus-fare-revision-at-this-time-potential-switch-to-super-diesel-if-price-decreases-further-Gemunu/108-279962) · `en`
-
-Colombo, April 1 (Daily Mirror) - Since there hasn't been a price revision for Lanka Auto Diesel, it is not possible to consider a bus fare revision right now, but if the prices of Lanka Super Diesel decrease further, they may be able to switch to using it, Lanka Private Bus Owners Association (LPBOA) president Gemunu Wijerathne said.
-
-Addressing the media today, he said private buses are operating while incuring a loss of Rs. 28 and eventhough the Lanka Auto Diesel price was reuced by Rs. 50, they are unable to reduce private bus fares.
-
-"Despite the fuel price revision, the current increase in diesel prices has not exceeded 4%. We couldn't raise bus fares even when the price of Lanka Auto Diesel went up by Rs. 28," he said.
-
-...
-
-[Data](articles/7048f1f2.json)
-
-[Extended Data](ext_articles/7048f1f2.ext.json)
 
 ---

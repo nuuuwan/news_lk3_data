@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 07:21:06**
+As of **2024-04-01 07:45:08**
 
 ## Newspaper Stats
 
-*Scraped **16,265** Articles*
+*Scraped **16,266** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 881
 economynextcom | 888
 islandlk | 910
 adalk | 1,363
-tamilmirrorlk | 1,940
+tamilmirrorlk | 1,941
 adaderanalk | 1,960
 virakesarilk | 2,311
 dailymirrorlk | 2,500
@@ -26,21 +26,27 @@ adaderanasinhalalk | 2,631
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,262 (100.0%) of 16,265 articles have been extended.
+16,265 (100.0%) of 16,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### රෝහල් කිහිපයක වර්ජනයක්
+### Strike on several hospitals
 
 *2024-04-01 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195151) · `si`
 
-වැටුප් ගැටලුව මුල් කරගනිමින් අද (01) දිනයේ සංකේත වැඩවර්ජනයක නිරත වීමට සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය තීරණය කර තිබේ.
+The Health Trade Union Alliance is striking several hospitals today.
+
+🟩
+
+The Health Trade Union Alliance has decided to engage in a token strike today (01).
 
 ◼️
 
 [Data](articles/f90abe6a.json)
+
+[Extended Data](ext_articles/f90abe6a.ext.json)
 
 ---
 
@@ -59,6 +65,8 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/01b2fc31.json)
+
+[Extended Data](ext_articles/01b2fc31.ext.json)
 
 ---
 
@@ -83,6 +91,24 @@ The Department of Meteorology urges the public to take necessary steps to be tak
 [Data](articles/e0a84210.json)
 
 [Extended Data](ext_articles/e0a84210.ext.json)
+
+---
+
+### ’திரைப்படக் கூட்டுத்தாபனத்தில் மாற்றம் ஏற்படும்’
+
+*2024-04-01 04:49:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரைப்படக்-கூட்டுத்தாபனத்தில்-மாற்றம்-ஏற்படும்/175-335431) · `ta`
+
+பழமையான பாரம்பரியத்துடன் காணப்படும் திரைப்படக் கூட்டுத்தாபனம் நவீன தொழில்நுட்பத்துடன் மாற்றத்திற்கு உள்ளாக்கப்பட்டு இலங்கை திரைப்படம் மற்றும் தொலைக்காட்சி நாடக அபிவிருத்தி நிறுவனமாக கட்டியெழுப்பப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+அதேவேளை, கலைஞர்கள் மற்றும் வடிவமைப்பாளர்களை நவீன தொழில்நுட்ப அறிவுடன் வலுவூட்டுவதற்கு வெளிநாட்டு பயிற்சி வாய்ப்புகள் வழங்கப்படும் என தெரிவித்த ஜனாதிபதி, நவீன தொழில்நுட்பத்துடன் முன்னோக்கிச் செல்ல திரைப்படம் மற்றும் தொலைக்காட் நாடகத்துறையை தயார் செய்ய வேண்டும் எனவும் சுட்டிக்காட்டினார்.
+
+செயற்கை நுண்ணறிவு (AI) தொழிநுட்பம் இன்று உலகத் திரைப்படத்துறையில் உள்வாங்கப்பட்டிருக்கிறது. எனவே, அதனை முன்னோக்கி கொண்டுச் செல்லும் வகையில் முதலாவது AI திரைப்படத்தை தயாரிப்பதற்கு அரசாங்கம் ஆதரவு வழங்கும் என்றும் ஜனாதிபதி அறிவித்தார்.
+
+கொழும்பு ஷங்ரீலா ஹோட்டலில் நடைபெற்ற 20 ஆவது ரைகம் டெலிஸ் விருது வழங்கும் விழாவில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க இதனைத் தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/df49e3d4.json)
 
 ---
 
@@ -2221,29 +2247,5 @@ President Ranil Wickremesinghe made this statement while addressing the 20th Rai
 [Data](articles/7d0dec05.json)
 
 [Extended Data](ext_articles/7d0dec05.ext.json)
-
----
-
-### Licensing father BB to be killed
-
-*2024-03-31 15:10:41* · [`adalk`](https://www.ada.lk/breaking_news/තරෙගට-මත්පැන්-බී-තිදරු-පියා-ජිවිතක්ෂයට/11-408858) · `si`
-
-Three residents of Hatton Police Division died from alcohol poisoning. A post-mortem revealed Newmania fever as the cause of death.
-
-🟩
-
-A large number of three drunken person has been killed in a large number of alcohol. The victim was a resident of the Hatton Police Division, a resident of the Hatton Police Division, a residents of the Hatton Police Division.
-
-The estate was held at the estate last night, and a group of young people who drink the largest alcohol have played the highest number of alcohol.
-
-Three of the people of the estate place have been submitted and three milletars have been submitted and 350 millilitar has been provided with alcohol bottles.
-
-Plantation workers said that he had been drinking heavy alcohol before the matching match. The father of the oldest daughter of the elder daughter of the eldest daughter of the elder daughter of the elder daughter of the elder daughter of the older daughter has been killed when his father had come to her house night.
-
-...
-
-[Data](articles/b543a469.json)
-
-[Extended Data](ext_articles/b543a469.ext.json)
 
 ---

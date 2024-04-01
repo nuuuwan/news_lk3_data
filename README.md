@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 11:33:49**
+As of **2024-04-01 11:52:47**
 
 ## Newspaper Stats
 
-*Scraped **16,320** Articles*
+*Scraped **16,321** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 888
 islandlk | 912
 adalk | 1,368
 tamilmirrorlk | 1,950
-adaderanalk | 1,966
+adaderanalk | 1,967
 virakesarilk | 2,317
 dailymirrorlk | 2,512
 adaderanasinhalalk | 2,644
@@ -26,111 +26,169 @@ adaderanasinhalalk | 2,644
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,313 (100.0%) of 16,320 articles have been extended.
+16,320 (100.0%) of 16,321 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### ලිට්‍රෝ මිලෙත් වෙනසක්
+### Litro Gas prices reduced
+
+*2024-04-01 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98340/litro-gas-prices-reduced) · `en`
+
+The price of Litro domestic LP gas cylinders have been slashed with effect from today (April 01), the Chairman of Litro Gas Muditha Peiris announced.
+
+Accordingly, the price of the 12.5 kg cylinder has been reduced by Rs. 135 to Rs. 4,115 while the price of the 05 kg cylinder has been reduced by Rs. 55 to Rs. 1,652.
+
+Meanwhile, the price of the 2.3 kg cylinder has been reduced by Rs. 23 with the new price of Rs. 772.
+
+◼️
+
+[Data](articles/02dc865c.json)
+
+---
+
+### A change of Litro
 
 *2024-04-01 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195164) · `si`
 
-අප්‍රේල් මාසය සඳහා ලිට්‍රෝ ගෑස් මිල පහළ දැමීමට එම සමාගම තීරණය කර තිබේ.
+Litro gas prices reduced in April. Mr. Muditha Peiris announced a Rs. 135 decrease for a 12.5 kg cylinder at a media briefing.
 
-මේ මොහොතේ පැවැත්වෙන මාධ්‍ය හමුවකට එක්වෙමින් එම සමාගමේ සභාපති,  මුදිත පීරිස් මහතා මේ බව පැවසීය.
+🟩
 
-ඒ අනුව කිලෝග්‍රෑම් 12.5ක ලිට්‍රෝ ගෑස් සිලින්ඩරයක් රුපියල් 135කින් පහළ දමා තිබේ.
+The company has decided to reduce the litro gas prices for April.
+
+He was speaking at a media briefing held at the moment, Mr. Muditha Peiris said this.
+
+Accordingly, a 12.5 kilogram litro gas cylinder has been reduced by Rs. 135.
 
 ◼️
 
 [Data](articles/9c042634.json)
 
+[Extended Data](ext_articles/9c042634.ext.json)
+
 ---
 
-### குவைட் முதலாளியுடன் மனைவி : ஆத்திரத்தில் கணவன் வீட்டுக்கு தீ
+### Wife with Kuwait Employer: Fire in Husband's House
 
 *2024-04-01 11:16:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குவைட்-முதலாளியுடன்-மனைவி-ஆத்திரத்தில்-கணவன்-வீட்டுக்கு-தீ/76-335442) · `ta`
 
-குவைட்டில் பணிபுரிந்த பெண்ணொருவர் தனது முதலாளி மற்றும் சாரதியுடன் கடந்த சில தினங்களுக்கு முன்னர் வந்துள்ளார். அவ்விருவரும் அந்த பெண்ணின் வீட்டிலேயே தங்கியும் உள்ளனர்.
+A woman from Kuwait, staying with her husband and father-in-law, set fire to their house, injuring her boss and driver. The husband's father died in the incident. The couple had a history of conflicts.
 
-இதனால்,  மனைவிக்கும் கணவனுக்கும் இடையில்   மனக்கசப்பு ஏற்பட்டது. கடும் சண்டையும் ஏற்பட்டுள்ளது. பொறுமை இழந்த கணவன், மனைவியை தாக்கியுள்ளார்.   சனிக்கிழமை  (30) வீட்டிற்கு தீ வைத்துள்ளார்.
+🟩
 
-இந்த சம்பவத்தில் குவைட் முதலாளி, அவருடைய சாரதி கடும் தீக்காயங்களுக்கு உள்ளாகினர். சம்பவத்தில் தீக்காயங்களுக்கு உள்ளான  கணவரின் தந்தையின் மரணமடைந்துள்ளார்.
+A woman who worked in Kuwait has come up with her boss and driver for the past few days. The two are staying at the woman's house.
 
-இந்த சம்பவம், பிபில பொலிஸ் பிரிவுக்குட்பட்ட மட்டக்களப்பு வீதி, வெலிபோதாய பிரதேசத்தில் இடம்பெற்றுள்ளது.
+Thus, there was an upset between the wife and the husband. There is also a fierce fight. Impatient husband and wife attacked. He set fire to the house on Saturday (30).
 
-சுமார் 40 வயதுடைய இந்தப் பெண், குவைத்தில் பணிபுரிந்து வந்த தனது முதலாளியான 80 வயதான அப்துல் சைட் ஆலபல்லாயன் மற்றும் அவரது சாரதி கே.கே.நாமல் ஆகியோருடன் வீடு திரும்பியுள்ளார்.
+The Kuwait boss and his driver suffered severe burns in the incident. Husband's father has died in the incident.
+
+The incident took place in Batticaloa Road, Batticaloa Road, Welipodaya.
+
+The 40 -year -old woman has returned home with her 80 -year -old Abdul Said Alaballayan and her driver KK Namal.
+
+Husband and wife have been rumored to have come home several times before.. In the meantime, a furious husband and wife attacked his wife and set fire to the Kuwait and driver who accompanied him.
+
+Kuwait and driver are injured and are being treated at the Bibila Hospital.
+
+Tissa Hettiarachchi, a 70 -year -old husband, who was sick, died after being admitted to the Bibila Hospital after being burned.
 
 ...
 
 [Data](articles/244d313e.json)
 
+[Extended Data](ext_articles/244d313e.ext.json)
+
 ---
 
-### සිව් වසරකට පසු දිවයිනට ආ අමුත්තා
+### Four years later came to the island
 
 *2024-04-01 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195163) · `si`
 
-වසර 04 කට පසු තායි එයාර්වේස් ගුවන්යානයක් දිවයිනට පැමිණ තිබේ.
+"Four years later, Thai Airways returns to the island."
+
+🟩
+
+A Thai Airways has arrived in the island after four years.
 
 ◼️
 
 [Data](articles/141e0f30.json)
 
+[Extended Data](ext_articles/141e0f30.ext.json)
+
 ---
 
-### சமூக ஊடக பதிவு: சிறப்புரிமைக் குழுவுக்கு பெண்ணுக்கு அழைப்பு
+### Social Media Registration: Calling the Woman to the Privacy Committee
 
 *2024-04-01 11:13:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-ஊடக-பதிவு-சிறப்புரிமைக்-குழுவுக்கு-பெண்ணுக்கு-அழைப்பு/175-335441) · `ta`
 
-பாராளுமன்ற உறுப்பினர் ஒருவரை விமர்சித்து சமூக ஊடகங்களில் வெளியான பதிவு தொடர்பில் பெண் ஒருவர் பாராளுமன்ற சிறப்புரிமைகள் குழுவுக்கு அழைக்கப்படவுள்ளார்.
+A woman, Lalandi Perera, will be invited to the Parliamentary Privacy Committee for comments on social media criticizing MP Rohitha Abeygunawardena, as announced by Speaker Mahinda Yapa Abeywardena.
 
-களுத்துறையைச் சேர்ந்த லலந்தி பெரேரா என்ற பெண்ணே இவ்வாறு அழைக்கப்படவுள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன, இன்று (01) அறிவித்துள்ளார்.
+🟩
 
-குறித்த பெண், பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன மற்றும் பொலிஸ்மா அதிபர் தேசபந்து தென்னகோன் ஆகியோர் தொடர்பில் கருத்து பதிவிட்டுள்ளதாக அவர் குறிப்பிட்டள்ளார்.
+A woman will be invited to the Parliamentary Privacy Committee on the record posted on social media criticizing a Member of Parliament.
+
+Speaker Mahinda Yapa Abeywardena today announced that a woman named Lalandi Perera from Kalutara will be called.
+
+He said that the woman, MP Rohitha Abeygunawardena and the Inspector General of Police Deshabandu Tennakoon have been commenting.
 
 ◼️
 
 [Data](articles/a1f405a8.json)
 
+[Extended Data](ext_articles/a1f405a8.ext.json)
+
 ---
 
-### චීන ජාතිකයින් පිරිසක් මරුට
+### A group of Chinese nationals killed
 
 *2024-04-01 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195162) · `si`
 
-චීන ජාතිකයින් 8 දෙනෙකුගේ සිරුරු මෙක්සිකෝවේ "Oaxaca" ප්‍රාන්තයේ වෙරළේ තිබී හමුවී ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+Eight Chinese nationals found dead on Mexico's coast, believed to have died trying to illegally migrate to the US. Seven women, one man, and one survivor.
 
-ඔවුන් නීතිවිරෝධී ලෙස අමෙරිකාවට සංක්‍රමණය වීමට උත්සාහ කිරීමේදී බෝට්ටුව අනතුරට ලක්වන්නට ඇතැයි සැක කෙරේ.
+🟩
 
-මියගිය පිරිස අතර කාන්තාවන් 7 දෙනෙක් සහ පිරිමි පුද්ගලයෙක් සිටි බව සඳහන් ය.
+International media reports that the bodies of 8 Chinese are found in the coast of the state of Mexico.
 
-එම බෝට්ටුවේ සිටි තවත් එක් අයෙක් දිවි ගලවාගෙන ඇති අතර බෝට්ටුව පැදවූ පුද්ගලයාට කුමක් වූයේද යන්න අපැහැදිලිය.
+It is suspected that the boat is in danger when they try to illegally migrate to the United States.
 
-මෑතක සිට නීතිවිරෝධී ලෙස අමෙරිකාව ට සංක්‍රමණය වීමට උත්සාහ දරන පුද්ගලයින්ගේ ගණන වැඩිවී ඇති අතර එම පුද්ගලයින් බහුලව මෙක්සිකෝව හරහා අමෙරිකාවට යෑමට උත්සාහ ගන්නා බව සඳහන් වෙයි.
+There were seven women and a man among the deceased.
+
+One more of the boat survived and was unclear to the person who was riding the boat.
+
+The number of people who are trying to illegally migrate to illegally be illegally increased to the United States of Mexico via Mexico.
 
 ◼️
 
 [Data](articles/ca55c7db.json)
 
+[Extended Data](ext_articles/ca55c7db.ext.json)
+
 ---
 
-### ஈஸ்டர் தினத்தன்று தேவாலயத்திற்கு அருகில் கத்திகளுடன் சந்தேக நபரொருவர் கைது
+### Suspect arrested with knives near church on Easter Day
 
 *2024-04-01 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180107) · `ta`
 
-நீர்கொழும்பு பிரதேசத்தில் உள்ள தேவாலயத்தில் நேற்று ஞாயிற்றுக்கிழமை (31) ஈஸ்டர் தினத்தன்று தேவாலயத்தின் நுழைவாயிலில் கூரிய கத்திகளுடன் நபரொருவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+A 43-year-old man from Kokkadichcholai was arrested near a Negombo church on Easter Day with knives. He was a former LTTE member.
 
-இவ்வாறு கைது செய்த நபர் மட்டக்களப்பு, கொக்கட்டிச்சோலை பிரதேசத்தைச் சேர்ந்த 43 வயதுடைய கந்தசாமி வேதநாயகம் என்ற முன்னாள் விடுதலை புலி உறுப்பினர் என விசாரணைகளின் போது தெரியவந்துள்ளது.
+🟩
 
-அத்தோடு, இவரை கைது செய்த போது காற்சட்டைப் பையில் மறைத்து வைக்கப்பட்டிருந்த கத்தி ஒன்றும் பயணப் பையிலிருந்த கத்தியொன்றும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+A person was arrested by police with sharp knives at the entrance of the church on Easter Day on Sunday (31) at the church in Negombo.
 
-பொலிஸாருக்கு கிடைத்த தகவலையடுத்து இவர் கைது செய்யப்பட்டதோடு இவரிடம் மேற்கொண்ட நீண்ட விசாரணைகளின்  பின்பு விடுதலை புலியின்  ஆயுத பிரிவைச் சேர்ந்த முன்னாள் உறுப்பினர் என்ற தகவலை வெளிப்படுத்தியதாக பொலிஸார் தெரிவித்தனர்.
+Investigations revealed that the arrested person was a former 43 -year -old Kandaswamy Vedanayagam, a 43 -year -old man from Kokkadichcholai, Batticaloa.
+
+In addition, the police seized a knife and a knife in the pocket, hidden in the pants bag when he was arrested.
+
+He was arrested following information received by the police and after a long investigation into him, the police said that he was revealed that he was a former member of the LTTE.
 
 ◼️
 
 [Data](articles/7623bda4.json)
+
+[Extended Data](ext_articles/7623bda4.ext.json)
 
 ---
 
@@ -656,17 +714,23 @@ The government decided in February to exclusively raise the DAT allowance by Rs 
 
 ---
 
-### පාරටම පැමිණි මුදුදු රළ
+### The remnant of the streets
 
 *2024-04-01 09:40:33* · [`adalk`](https://www.ada.lk/picture_story/පාරටම-පැමිණි-මුදුදු-රළ/10-408872) · `si`
 
-මහ මුහුද රළුවී මුහුදු රල මාර්ගයට පැමිණීම හේතුවෙන් අද (1) ගාල්ල කොළඹ ප්‍රධාන මාර්ගයේ කහව මංසන්ධියේ සිට තෙල්වත්ත මංසන්දිය දක්වා රට වාහන ධාවනයට දැඩි බාධා එල්ලවී තිබේ.
+"The streets near Kahawa Junction on the Galle-Colombo road are blocked due to sea waves and stones. Residents have been evacuated to ensure safety."
 
-ඊයේ( 31) රෑ සිට මෙම තත්ත්වය උද්ගත වූ බව ප්‍ර දේශවාසීහු කියති. මුහුදු රල පහරත් සමග මුහුද අයිනේ දමා ඇති ගල් වැටියේ ඇති ගල් විටින් විට  මහ පාරට පැමිණෙමින් තිබෙන අතර එහි පදිංචිකරුවන්  ගල් ඉවත් කරමින් වාහන ධාවනයට මාර්ගය සකසාදීමට දැඩි උත්සහායක නිරතවී සිටිති.
+🟩
+
+The country has been severely obstructed from Kahawa Junction on the Kahawa junction on the Galle-Colombo main road due to the visit of the sea.
+
+The statistries that this situation has been affected by last night (31). The stones in the sea with sea waves are coming from time to time and residents are evacuated to take off the road to vehicle running.
 
 ◼️
 
 [Data](articles/ce597bf5.json)
+
+[Extended Data](ext_articles/ce597bf5.ext.json)
 
 ---
 
@@ -2167,21 +2231,5 @@ Earlier, India had scored 524 runs for the loss of 9 wickets in 1976/77.
 [Data](articles/da5416bc.json)
 
 [Extended Data](ext_articles/da5416bc.ext.json)
-
----
-
-### Inflated construction material prices ‘not coming down’ despite strengthened LKR
-
-*2024-03-31 21:58:00* · [`islandlk`](http://island.lk/inflated-construction-material-prices-not-coming-down-despite-strengthened-lkr/) · `en`
-
-Construction material prices have not shown any downward adjustments despite Sri Lanka rupee strengthening against the US dollar, Susantha Liyanaarachchi · Chairman at National Construction Association of Sri Lanka (NCASL) told the media on Saturday.
-
-“The construction material market has not marked down their prices in line with the appreciation of the rupee. This needs to be done to pass the benefit to the customer who would otherwise be paying the same prices as before because material prices went up from time to time when the rupee was depreciating, and now the reverse should happen,” Susantha said.
-
-...
-
-[Data](articles/8ee4aad7.json)
-
-[Extended Data](ext_articles/8ee4aad7.ext.json)
 
 ---

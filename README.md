@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 02:18:56**
+As of **2024-04-02 02:35:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,493 (100.0%) of 16,497 articles have been extended.
+16,497 (100.0%) of 16,497 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ In a comprehensive 6-point statement shared via ‘X’, he provided insights in
 
 [Data](articles/c6127606.json)
 
+[Extended Data](ext_articles/c6127606.ext.json)
+
 ---
 
 ### LAUGFS Gas cuts 12.5kg cylinder price by Rs. 625
@@ -69,6 +71,8 @@ LAUGFS is the only private sector LPG company listed on the Colombo Stock Exchan
 ...
 
 [Data](articles/a74f4c9b.json)
+
+[Extended Data](ext_articles/a74f4c9b.ext.json)
 
 ---
 
@@ -88,6 +92,8 @@ Representatives from Sri Lanka’s business community, Government, and the finan
 
 [Data](articles/e2162f5b.json)
 
+[Extended Data](ext_articles/e2162f5b.ext.json)
+
 ---
 
 ### SLMLBC hosts interactive session with High Commissioner-designate to Maldives
@@ -101,6 +107,8 @@ The session aimed to facilitate dialogue and provide insights into the business 
 ...
 
 [Data](articles/1710fe5d.json)
+
+[Extended Data](ext_articles/1710fe5d.ext.json)
 
 ---
 

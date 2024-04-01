@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 20:03:09**
+As of **2024-04-01 20:18:09**
 
 ## Newspaper Stats
 
-*Scraped **16,448** Articles*
+*Scraped **16,449** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 912
 adalk | 1,384
 tamilmirrorlk | 1,960
 adaderanalk | 1,981
-virakesarilk | 2,344
+virakesarilk | 2,345
 dailymirrorlk | 2,529
 adaderanasinhalalk | 2,664
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,664
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,448 (100.0%) of 16,448 articles have been extended.
+16,448 (100.0%) of 16,449 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### கஞ்சாவுடன் சிக்கிய கலால் அதிகாரிகள்!  8 பேர் கைது
+
+*2024-04-01 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/180188) · `ta`
+
+நீர்கொழும்பு மற்றும் சிலாபம் பகுதிகளில் கேரள கஞ்சாவுடன் நான்கு கலால் அதிகாரிகள் உட்பட 08 சந்தேக நபர்களை பொலிஸார் கைது செய்துள்ளனர்.
+
+45 கிலோகிராம் கேரள கஞ்சாவுடன் 8 பேர் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவினரால் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இதேவேளை, கைது செய்யப்பட்ட அதிகாரிகள் பயணித்த கலால் திணைக்களத்திற்குச் சொந்தமான வேன் ஒன்றும் பொலிஸ் காவலில் வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/7481f669.json)
+
+---
 
 ### Visa-free entry extended to visitors from seven countries including India, Russia
 
@@ -2243,29 +2259,5 @@ Meanwhile, SLFP also appointed a new Senior Vice President, a Treasurer and a Na
 [Data](articles/2f3baa1c.json)
 
 [Extended Data](ext_articles/2f3baa1c.ext.json)
-
----
-
-### Litro cooking gas reduction
-
-*2024-04-01 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180121) · `ta`
-
-Litro reduces cooking gas prices from midnight Monday. 12.5 kg cylinder now 4,115 rupees, 5 kg 1,652 rupees, and 2.3 kg 772 rupees.
-
-🟩
-
-The prices of Litro cooking gas will be reduced from midnight on Monday (01), Litro said.
-
-Accordingly, the price of the cooking gas cylinder, which is 12.5 kg, will be reduced by 135 rupees and its new price is 4,115 rupees.
-
-The price of 5 kg of cooking gas cylinder will be reduced by 55 rupees and its new price is 1,652 rupees.
-
-At the same time, the price of 2.3 kg of cooking gas cylinder will be reduced by 23 rupees and its new price is 772 rupees.
-
-◼️
-
-[Data](articles/76d55c5a.json)
-
-[Extended Data](ext_articles/76d55c5a.ext.json)
 
 ---

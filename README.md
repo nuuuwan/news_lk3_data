@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 09:52:28**
+As of **2024-04-01 10:03:23**
 
 ## Newspaper Stats
 
-*Scraped **16,281** Articles*
+*Scraped **16,287** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,63 +14,93 @@ dbsjeyarajcom | 201
 newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 888
-islandlk | 911
+islandlk | 912
 adalk | 1,365
 tamilmirrorlk | 1,942
 adaderanalk | 1,960
 virakesarilk | 2,313
-dailymirrorlk | 2,501
+dailymirrorlk | 2,506
 adaderanasinhalalk | 2,638
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,277 (100.0%) of 16,281 articles have been extended.
+16,281 (100.0%) of 16,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### வைத்தியசாலை ஊழியர்கள் பணி புறக்கணிப்பு
+### Another health strike to inconvenience millions
+
+*2024-04-01 09:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Another-health-strike-to-inconvenience-millions/108-279923) · `en`
+
+Colombo, April 01 (Daily Mirror) -The specter of a widespread health worker strike looms over Sri Lanka's medical landscape, as the Health Trade Union Alliance, representing 72 unions, has issued an ultimatum slated to commence on Tuesday, April 2, at 6:30 a.m.
+
+The year 2024 has thus far witnessed a series of health strike actions, with the latest marking the fourth occurrence in the past three months.
+
+Among the unresolved grievances plaguing the health workers, the main concern is the failure to provide an allowance akin to the DAT (Disturbance, Availability, and Transport) allowance extended to doctors.
+
+The government decided in February to exclusively raise the DAT allowance by Rs 35,000 for doctors. Subsequently, the health trade unions were agitated by the decision, prompting them to demand a similar allowance to the DAT.
+
+...
+
+[Data](articles/c17e474d.json)
+
+---
+
+### Hospital employees' work boycott
 
 *2024-04-01 09:35:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலை-ஊழியர்கள்-பணி-புறக்கணிப்பு/175-335433) · `ta`
 
-சம்பள பிரச்சனையை முன்வைத்து அடையாள பணி புறக்கணிப்பில் ஈடுபடுவதற்கு சுகாதார தொழிற்சங்கங்களின் கூட்டமைப்பு தீர்மானித்துள்ளது.
+The Federation of Health Trade Unions is boycotting identity work due to a salary issue, affecting 5 hospitals from 6.30 am today. If no solution is provided, strikes will start from tomorrow. The Presidential Office has called for a discussion.
 
-அதன்படி, குறிப்பிட்ட சில வைத்தியசாலைகளில் இன்று (01)  காலை 6.30 முதல் பணிப்புறக்கணிப்பு முன்னெடுக்கப்படும் என, சுகாதார தொழிற்சங்க கூட்டமைப்பின் ஒருங்கிணைப்பாளர் சானக தர்மவிக்ரம தெரிவித்துள்ளார்.
+🟩
 
-தமது பிரச்சினைக்கு உரிய தீர்வை வழங்க அதிகாரிகள் தவறினால் நாளை (02) முதல் நாடளாவிய ரீதியில் தொடர் வேலை நிறுத்தப் போராட்டத்தில் ஈடுபடவுள்ளதாக அவர் கூறியுள்ளார்.
+The Federation of Health Trade Unions has decided to propose a salary issue and boycott identity work.
 
-நாடளாவிய ரீதியில் அனைத்து வைத்தியசாலைகளிலும் 4 மணித்தியால வேலைநிறுத்தப் போராட்டத்தில் ஈடுபட தீர்மானித்திருந்த போதும், ஜனாதிபதி அலுவலகம் இன்றைய தினம் கலந்துரையாடலுக்கு அழைப்பு விடுத்துள்ளது.
+Accordingly, some hospitals will be carried out from 6.30 am today, said Sanaka Dharmavickrama, Coordinator of the Health Trade Union Federation.
 
-இதன் காரணமாக பணி புறக்கணிப்பை 5 வைத்தியசாலைகளுக்கு மட்டுப்படுத்த தீர்மானித்துள்ளதாக அவர் கூறியுள்ளார்.
+He said that if the authorities fail to provide a solution to their problem, he would go on a series of strikes from tomorrow (02).
 
-அநுராதபுரம், இரத்தினபுரி, குருநாகல், பதுளை ஆகிய வைத்தியசாலைகளில் இன்று காலை 6.30 மணி முதல் பணிப்புறக்கணிப்புப் போராட்டம் முன்னெடுக்கப்படும் எனவும் அவர் மேலும் தெரிவித்தார்.
+The Presidential Office has called for a discussion today, though all the country's hospitals have decided to go on a 4 -hour strike.
+
+Due to this, he has decided to limit work boycott to 5 hospitals.
+
+He added that the workshop will be launched at the hospitals in Anuradhapura, Ratnapura, Kurunegala and Badulla from 6.30 am today.
 
 ◼️
 
 [Data](articles/4d7d70e2.json)
 
+[Extended Data](ext_articles/4d7d70e2.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Parliamentary Council begins
 
 *2024-04-01 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195158) · `si`
 
-අද (01) දින ආයුර්වේද පනත යටතේ නියෝග විවාදයට ගැනීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+The Parliamentary Council starts with the Ayurvedic Act's orders, a Second Reading Debate on the Paradise Law amendment, and discussions on the Colombo Harbor to the City Economic Project Act, Treen Tax Act, and Import and Export Control Act. Public Finance and Accounts Committees will meet, and the Department of Immigration and Emigration will convene its officers.
 
-හෙට (02) දිනයේ දී පරාටේ නීතිය සංශෝධනය කිරීමට අදාළ බැංකු සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමට නියමිතය.
+🟩
 
-ඊට අමතරව කොළඹ වරාය නගර ආර්ථික කොමිශන් සභා පනත යටතේ වන නියෝග, එකතු කළ අගය මත බදු පනත යටතේ වන නියමනයන් සහ ආනයන හා අපනයන පාලන පනත යටතේ වන රෙගුලාසි අගහරුවාදා දිනයේ විවාදයට ගැනීමට නියමිත බවයි පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සදහන් කළේ.
+The parliamentary communications department stated that the orders under the Ayurvedic Act today (01).
 
-මේ අතර හෙට දිනයේ දී රජයේ මුදල් පිළිබඳ කාරක සභාව සහ රජයේ ගිණුම් පිළිබඳ කාරක සභාව ද රැස්වීමට නියමිතව තිබේ.
+The Second Reading Debate will be conducting the Second Reading Bill to amend the Paradise Law tomorrow (02).
 
-එදිනට රජයේ ගිණුම් පිළිබඳ කාරක සභාව හමුවට ආගමන හා විගමන දෙපාර්තමේන්තුවේ නිලධාරීන් කැඳවා ඇති බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+In addition, the order under the Colombo Harbor to the City Economic Project Act, the Department of Parliament said that the regulations under the Treen Tax Act and Regulations under the Import and Export Control Act stated that regulations under the Import and Export Control Act.
+
+Meanwhile, the Committee on Public Finance and the Committee on Public Accounts are due to meet.
+
+The Department of Immigration and Emigration has summoned the officers of the Department of Immigration and Emigration on that day.
 
 ◼️
 
 [Data](articles/cf7d603e.json)
+
+[Extended Data](ext_articles/cf7d603e.ext.json)
 
 ---
 
@@ -94,25 +124,35 @@ The deceased has left the house saying that the deceased was to set fire to the 
 
 ---
 
-### கார்த்திகைப் பூ இல்லை காந்தள் பூ : ஆசிரியர்களுக்கு  "சப்றைஸ்" கொடுக்கவே  செய்தோம் - பொலிஸாருக்கு வகுப்பெடுத்த மாணவர்கள்
+### Karthik Flower No Magnetic Flower: We gave teachers "Subrise"
 
 *2024-04-01 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180103) · `ta`
 
-யாழ்ப்பாணம் தெல்லிப்பழையில் பாடசாலையொன்றில் இடம்பெற்ற இல்ல மெய்வல்லுனர் போட்டியில் கார்த்திகைப் பூ மற்றும் இராணுவ வாகனத்தை ஒத்த அலங்காரங்கள் நேற்று முன்தினம் சனிக்கிழமை காட்சிப்படுத்தப்பட்டது.
+During a Home Athletics Competition in Tellipala, Jaffna, a Karthik Flower and Military Vehicle display led to police questioning students and teachers about decorations. Students denied knowledge of the flower and its decoration, and the principal clarified that teachers had discussed the competition's decorations.
 
-குறித்த விடயம் தொடர்பில் தெல்லிப்பழை பொலிஸார் சில  மாணவர்களையும் ஆசிரியர்களையும் நேற்று ஞாயிற்றுக்கிழமை விசாரணைக்காக  பொலிஸ் நிலையம் வருமாறு அழைத்தனர்.
+🟩
 
-விசாரணைக்காக மூன்று மாணவர்கள் சென்றதாகத் தெரிவிக்கப்படும் நிலையில் பொலிஸார் விசாரணையில்  நீங்கள் இல்ல அலங்காரம் செய்தது கார்த்திகைப் பூவைத் தானே இதற்கான ஆலோசனைகளை ஆசிரியர்கள் தானே வழங்கினார்கள் என கேள்வி எழுப்பினார்.
+The Karthik Poo and Military Vehicle were displayed on Saturday at the Home Athletics Competition held at a school in Tellipala, Jaffna.
 
-இதன் போது பதில் வழங்கிய மாணவர்கள்  நீங்கள் கூறுவதைப் போல குறித்த பூ கார்த்திகைப் பூ என நாங்கள் அறிந்திருக்கவில்லை காந்தள் மலர் என அறிந்துள்ளோம் எமது பாடப்புத்தகத்தில் அவ்வாறே உள்ளது.
+Tellipallai police summoned some students and teachers to come to the police station on Sunday.
 
-அது மட்டுமல்லாது வருடத்தில் ஒரு முறை பூக்கும் அரிய மலர் அதனை பாதுகாக்க வேண்டும் என்பதற்காகவே காட்சிப்படுத்தினோம்.
+While the three students were reported to have gone to the investigation, the police questioned that you had decorated the house and questioned that the teachers themselves had given suggestions.
 
-இதன் போது கேள்வி எழுப்பிய பொலிஸார் உங்கள் இல்ல அலங்காரத்திற்கான ஆலோசனையை ஆசிரியர்கள் தானே வழங்கினார்கள் எனக் கேள்வி எழுப்பினார்.
+The students who responded at this time are not aware of the flower karthik flower as you say.
+
+Not only that, but once a year, we showed the rare flower to protect it.
+
+The police questioned the question that the teachers themselves were given the advice of your home decoration.
+
+The students who responded at this were not related to the teachers and the magnetic flower decoration.
+
+During this time, the students repeated the same response, even though the police were trying to tie the house decoration and school teachers in various ways
 
 ...
 
 [Data](articles/fc2d0c61.json)
+
+[Extended Data](ext_articles/fc2d0c61.ext.json)
 
 ---
 
@@ -165,6 +205,26 @@ Residents of the area have expressed concern that the youths are addicted to the
 [Data](articles/cf8f7aa1.json)
 
 [Extended Data](ext_articles/cf8f7aa1.ext.json)
+
+---
+
+### Construction sector activities gather momentum as infrastructure projects return
+
+*2024-04-01 09:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Construction-sector-activities-gather-momentum-as-infrastructure-projects-return/108-279919) · `en`
+
+Sector remains upbeat about future due to higher availability of projects
+
+The construction sector, which picked up at the start of the year, is seen gathering pace as the Purchasing Manager’s Index (PMI) compiled only for the sector showed continued expansion in February.
+
+The widely watched index which provides a close barometer of how vibrant the construction sector activities are, recorded 57.1 index points for February, up from 52.9 index points in January.
+
+The respondents who participated in the monthly survey conducted by the Central Bank had attributed this to the current conducive business environment and the resumption of several temporarily suspended projects.
+
+They in particular singled out the large scale infrastructure projects, particularly the ones which are foreign funded are now coming for bidding at the tenders.
+
+...
+
+[Data](articles/30f86b77.json)
 
 ---
 
@@ -245,6 +305,24 @@ The other injured have been transferred to Kurunegala Hospital for further treat
 [Data](articles/550108b8.json)
 
 [Extended Data](ext_articles/550108b8.ext.json)
+
+---
+
+### Tourist arrivals cross 600,000 mark within three months
+
+*2024-04-01 07:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-arrivals-cross-600-000-mark-within-three-months/108-279917) · `en`
+
+Tourist arrivals to Sri Lanka surged past the 600,000 mark by 27 March, in nearly half the time compared to last year.
+
+Provisional data from the Sri Lanka Tourism Development Authority (SLTDA) revealed that tourist arrivals reached 608,475 in the first 27 days of March. By contrast, in 2023, the country reached the 600,000 mark towards the end of June.
+
+Compared to the arrivals before the Covid pandemic and the Easter Sunday attacks, Sri Lanka successfully crossed the 700,000 mark by the end of March in 2018 and 2019.
+
+As of March 27, 2024, Sri Lanka has welcomed a total of 181,872 international visitors. The weekly arrival average is about 46,000, with a daily average of about 6,700. At the current rate, tourist arrivals to Sri Lanka are projected to just about cross the 200,000 mark in March. Analysis of tourist arrival rates from 2015 shows that from the third month of the year, the influx of international visitors typically experiences a slowdown until the month of July.
+
+...
+
+[Data](articles/dd1b6255.json)
 
 ---
 
@@ -501,6 +579,18 @@ A teacher in charge of a high -quality business unit in a popular school in Mata
 [Data](articles/67d181c7.json)
 
 [Extended Data](ext_articles/67d181c7.ext.json)
+
+---
+
+### Mannar Wind Farm Project: Another folly like the Sinharaja Logging Project on the horizon?
+
+*2024-04-01 04:07:00* · [`islandlk`](http://island.lk/mannar-wind-farm-project-another-folly-like-the-sinharaja-logging-project-on-the-horizon/) · `en`
+
+A wind farm consisting of 30 towers generating 100MW (Phase 1- Thambapavani) was established on the southern coast of Mannar Island in 2020, with financial assistance from the Asian Development Bank (ADB). The widespread criticism of this project due to its positioning within one of the main bird migratory corridors in the Asian region (detailed elsewhere in the article) was largely overlooked or ignored due to the economic priorities that prevailed at the time, as it happened with the now infamous Canadian-funded Sinharaja Mechanized Logging Project of the 1970s.
+
+...
+
+[Data](articles/e1e620a8.json)
 
 ---
 
@@ -970,6 +1060,24 @@ Five years have passed since the suicide bombings on Sunday, a specialist in the
 
 ---
 
+### Bunker demand rises across Sri Lankan ports
+
+*2024-04-01 00:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bunker-demand-rises-across-Sri-Lankan-ports/108-279907) · `en`
+
+As shipowners and charters continue to take longer voyages to avoid Red Sea, bunker demand across ports on India’s west coast has risen and VLSFO supplies at the ports of Kochi and Mumbai remain disrupted.
+
+Despite the increased demand, price movements were mixed as of March 28. Platts, part of S&P Global Commodity Insights, assessed 0.5 percent marine fuel oil delivered to Kochi at US $ 700/mt CFR, up US $ 20/mt on the week, while in Mumbai, prices fell to US $ 698/mt, down US $ 8/mt.
+
+In Sri Lanka, prices at Colombo were assessed at US $ 700/mt, down US $ 7/mt on the week, according to S&P Global data.
+
+“Demand has substantially increased, almost by 30 percent across Mumbai, Kochi and Gujrat ports. Long haul vessels are calling more often now. The volumes that were being lifted at King Abdullah port, Yanbu, Djibouti and Suez Canal have now shifted to Indian and Sri Lankan ports,” a Gujarat-based trader told S&P Global.
+
+...
+
+[Data](articles/afbad663.json)
+
+---
+
 ### Is the Chinese economy doomed as some forecasts say?
 
 *2024-04-01 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Is-the-Chinese-economy-doomed-as-some-forecasts-say/172-279898) · `en`
@@ -1023,6 +1131,8 @@ However, on a month-on-month basis, the deficit was much lower than the US$ 541 
 ...
 
 [Data](articles/0d2dca66.json)
+
+[Extended Data](ext_articles/0d2dca66.ext.json)
 
 ---
 
@@ -1385,6 +1495,26 @@ Construction material prices have not shown any downward adjustments despite Sri
 [Data](articles/8ee4aad7.json)
 
 [Extended Data](ext_articles/8ee4aad7.ext.json)
+
+---
+
+### Fuel prices revised from tonight
+
+*2024-03-31 21:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Fuel-prices-revised-from-tonight/155-279901) · `en`
+
+The Ceylon Petroleum Corporation (CPC) has decided to revise its fuel prices with effect from tonight.
+
+Accordingly, a litre of Lanka Petrol 95 Octane Euro 4 (Rs. 447) has been reduced by Rs. 7, and its new retail price will be Rs. 440.
+
+A litre of Lanka Super Diesel 4 Star Euro 4 (Rs. 458) has been reduced by Rs. 72, and its new retail price will be Rs. 386.
+
+A litre of Lanka Kerosene (Rs. 257) has been reduced by Rs. 12, and its new retail price will be Rs. 245
+
+A litre of Lanka Petrol 92 Octane (Rs.371) and a litre of Lanka Auto Diesel (Rs. 363) remain unchanged.
+
+◼️
+
+[Data](articles/521a6dc1.json)
 
 ---
 
@@ -2135,149 +2265,5 @@ As a result, the Department issued a series of instructions to be followed by th
 [Data](articles/9cb1234f.json)
 
 [Extended Data](ext_articles/9cb1234f.ext.json)
-
----
-
-### Sevaka transport sector losses losses
-
-*2024-03-31 17:35:30* · [`adalk`](https://www.ada.lk/breaking_news/සතොස-ප්‍රවාහන-අංශයේ-අවු-04ක-පාඩුව-කෝටි-විසිහතයි/11-408868) · `si`
-
-The Co-operative Wholesale Trade Corporation's Transport Division incurred a loss of Rs. 75,143,787 in 2022, up from Rs. 2 million in 2021. An audit report highlighted inefficiencies in management, with no answers provided to the audit's findings.
-
-🟩
-
-The Co-operative Wholesale Trade Corporation has continuous losses to December 1, 2019, a loss of Rs. 31A newly issued audit report issued by the office is stated.
-
-The loss incurred by the Co-operative Wholesale Corporation's Transport Division only during the year 2022 only losses. (75,143,787) The CWE, the CWE Transportation Division has been increased by 2022 compared to 2021, with increased Rs.
-
-The CWE Transport Division is a loss of Rs. 2 million and Rs.
-
-Audit recommended that the objectives should be fulfilled efficiently and effectively. The audit revealed that the management of the Co-operative Wholesale Merchant Trade Corporation had not provided any answer.
-
-◼️
-
-[Data](articles/449d0fef.json)
-
-[Extended Data](ext_articles/449d0fef.ext.json)
-
----
-
-### Two police arrested for disrupting the duty of the police in Kalupitiya
-
-*2024-03-31 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180076) · `ta`
-
-Two police officers arrested for disrupting raids near a hostel in Kalupitiya. One is a constable driver from the Mirihana Police.
-
-🟩
-
-Two police have been arrested on charges of disrupting the duty of the police who were conducting raids near a popular hostel in Kalupitiya.
-
-A constable driver, a constable driver, who is working in the office of the Senior Deputy Inspector General of Police, who is serving at the Mirihana Police, has been arrested.
-
-It was revealed that the suspects were disrupted by the suspects during the raid.
-
-Police said that the two had been arrested after the voting argument between them.
-
-◼️
-
-[Data](articles/eec9e895.json)
-
-[Extended Data](ext_articles/eec9e895.ext.json)
-
----
-
-### 6 lakh tourists arrived in three months
-
-*2024-03-31 17:30:01* · [`adalk`](https://www.ada.lk/breaking_news/මාස-තුනට-සංචාරකයන්-ලක්ෂ-6ක්-ඇවිත්/11-408867) · `si`
-
-In 2024, Sri Lanka saw 608,475 tourists, with 181,872 arriving in March. Indian tourists numbered 92,644 from Jan 1 to Aug 27, and 88,301 from Jan 1 to Mar 27.
-
-🟩
-
-The total number of tourists visiting Sri Lanka in 2024 has increased to 608,475 tourists.
-
-181,872 foreign tourists have arrived in Sri Lanka during March 1 to 27.
-
-The total number of Indian tourists reached Sri Lanka from 1st January to March 27, between January 1 to August 27, was 92,644 and 88,301.
-
-◼️
-
-[Data](articles/26c039d6.json)
-
-[Extended Data](ext_articles/26c039d6.ext.json)
-
----
-
-### Will the fuel prices fall today?
-
-*2024-03-31 17:25:16* · [`adalk`](https://www.ada.lk/breaking_news/අද-ඉන්ධන-මිල-අඩුවෙයිද-/11-408866) · `si`
-
-Fuel prices may decrease today due to the strength of the rupee and global crude oil price reductions.
-
-🟩
-
-Fuel prices are to be revised today. Many express the ability to reduce fuel prices today.
-
-It is reported that a fuel prices will take place in terms of the strength of the rupee and reducing the price of crude oil prices in the world market.
-
-◼️
-
-[Data](articles/05358f17.json)
-
-[Extended Data](ext_articles/05358f17.ext.json)
-
----
-
-### Modi slams India Congress for giving up claims on Kachchthivu island to Sri Lanka
-
-*2024-03-31 17:21:00* · [`economynextcom`](https://economynext.com/modi-slams-india-congress-for-giving-up-claims-on-kachchthivu-island-to-sri-lanka-156628/) · `en`
-
-ECONOMYNEXT – India’s Prime Minister Narendra Modi has slammed a decision by India’s Congress party for giving up claims over Kachchathivu island, in the run up to April elections.
-
-“New facts reveal how Congress callously gave away #Katchatheevu,” Modi said in an X.com (twitter) post.
-
-“This has angered every Indian and reaffirmed in people’s minds- we can’t ever trust Congress!
-
-“Weakening India’s unity, integrity and interests has been Congress’ way of working for 75 years and counting.”
-
-He was citing a story on the Time of India which featured documents obtained by an RTI application.
-
-READ MORE: RTI reply shows how Indira Gandhi ceded island to Sri Lanka
-
-The Indian claims were based in part on rights given by the British East India Company to the Raja of Ramnad, according to the report.
-
-...
-
-[Data](articles/18858d97.json)
-
-[Extended Data](ext_articles/18858d97.ext.json)
-
----
-
-### 476 Bangladesh following the date
-
-*2024-03-31 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195135) · `si`
-
-Bangladesh scored 55 runs, losing one wicket, with Lahiru Kumara's 21 runs. Sri Lanka, after losing all first innings wickets, scored 531 runs, with Kusal Mendis (93 runs) and Dinesh Chandimal (59 runs) highlighting.
-
-🟩
-
-The Bangladesh team scored 55 runs for the loss of one wicket.
-
-Lahiru Kumara, a band, was satisfied with 21 runs.
-
-By the end of the day, Bangladesh was 476 runs more than Sri Lanka.
-
-Sri Lanka scored 531 runs for the loss of all of the first innings.
-
-Kumindu Mendis, who played a premier innings, scored 92 runs.
-
-Kusal Mendis scored 93 runs and Dinesh Chandimal scored 59 runs and Dinesh Chandimal scored 59 runs.
-
-◼️
-
-[Data](articles/cecb064a.json)
-
-[Extended Data](ext_articles/cecb064a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 22:05:45**
+As of **2024-04-01 22:18:10**
 
 ## Newspaper Stats
 
-*Scraped **16,460** Articles*
+*Scraped **16,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ economynextcom | 908
 islandlk | 913
 adalk | 1,387
 tamilmirrorlk | 1,961
-adaderanalk | 1,982
-virakesarilk | 2,346
-dailymirrorlk | 2,532
-adaderanasinhalalk | 2,665
+adaderanalk | 1,983
+virakesarilk | 2,347
+dailymirrorlk | 2,535
+adaderanasinhalalk | 2,668
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,459 (100.0%) of 16,460 articles have been extended.
+16,460 (100.0%) of 16,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### Excise officers arrested with cannabis interdicted; all officers of narcotics unit transferred
+
+*2024-04-01 22:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98358/excise-officers-arrested-with-cannabis-interdicted-all-officers-of-narcotics-unit-transferred) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya says instruction have been issued to transfer all officers of the Excise Department’s Narcotics Prevention Unit, in the aftermath of the arrest of four excise officers with a haul of cannabis.
+
+A statement issued by the State Minister’s media unit stated that the 04 officers of the Excise Department who were arrested while transporting Kerala cannabis have been interdicted and that a special investigation has been ordered into the incident.
+
+Meanwhile, the state minister has also instructed to transfer all officers attached to the Narcotics Prevention Unit of the Excise Department effective immediately.
+
+Siyambalapitiya further states that the law will be implemented to the letter against all the officials involved in these illegal activities regardless of their positions.
+
+...
+
+[Data](articles/8ff2cfd8.json)
+
+---
+
+### இலங்கையில் அதிகரிக்கும் ஏஜ்.ஐ.வி/ எயிட்ஸ் நோய்த்தாக்கம்
+
+*2024-04-01 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/180190) · `ta`
+
+உலகின் சவால் மிக்க தொற்றுநோய்களுள் ஏஜ்.ஐ.வி மற்றும் எயிட்ஸ் பாதிப்பு முக்கியமானதாக இனங்காணப்படுகிறது. உலகம் முழுவதும்  இத் தொற்றினால்  பாதிக்கப்படுபவர்களின் எண்ணிக்கையில்  சடுதியான அதிகரிப்பை காணமுடிகிறது. நவீன மருத்துவ சிகிச்சை முறைகளும், விழிப்புணர்வும் தொற்றுடன் வாழ்பவர்களுக்கு தன்நம்பிக்கையையும் வாழ்க்கைத் தரத்தையும் அதிகரித்திருந்தாலும்,  தொற்றாளர்களின் அதிகரிப்பு இன்னும் அவசியமான திட்டங்களுக்கான  தேவையை உணர்த்துகிறது.
+
+உலக சுகாதார  ஸ்தாபனத்தின் அறிக்கையின் படி 2022 ஆம்  ஆண்டின் இறுதியில்  39 மில்லியன் பேர் தொற்றுடன் வாழ்கின்றனர். இவர்களில் 1.5 மில்லியன் பேர் சிறுவர்கள்.  மேலும் சம வருடத்தில் 1.3 புதிய தொற்றாளர்கள் இனங்காணப்பட்டுள்ளனர் .  மொத்த தொற்றாளர்களின் எண்ணிக்கையில் 53 வீதமானவர்கள் பெண்கள். 2022 ஆம் ஆண்டில் ஏஜ்.ஐ.வி / எயிட்ஸ் தொடர்பான காரணிகளால் 630000 இறப்புகள் சம்பவித்துள்ளன. 2010 முதல் எய்ட்ஸ் தொடர்பான  இறப்பு  பெண்கள் மற்றும் சிறுமிகளிடம் 55% ஆகவும், ஆண்கள் மற்றும் சிறுவர்களிடையே 47% ஆகவும் குறைந்துள்ளது .
+
+...
+
+[Data](articles/be6ec271.json)
+
+---
+
+### ලෝකෙම කතාවෙන මතීෂ පියඹා ඇල්ලූ උඩ පන්දුව
+
+*2024-04-01 21:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195188) · `si`
+
+IPL තරගාවලියේ ඊයේ පැවති තරගයකදී මතීෂ රැකගත් විශිෂ්ට උඩපන්දුවක් ගැන ලොවපුරා සුවිශේෂී කතාබහක් ඇතිවී තිබේ.
+
+මතීෂ පතිරණ මෙලෙස විශිෂ්ට ලෙස උඩ පන්දුවක් රැකගනිමින් ක්‍රීඩාගාරයට හරවා යවන්නේ ප්‍රබල ඔස්ට්‍රේලියානු ප්‍රහාරක පිතිකරුවෙකු වන ඩේවිඩ් වෝනර් වීම විශේෂත්වයකි.
+
+ඩේවිඩ් වෝනර් දැවී යනවිට පන්දු 35කදී ලකුණු 52ක් රැස්කරගෙන සිටියේය.
+
+පන්දුවෙන්ද දස්තම් දැක්වූ පතිරණ සුපිරි පන්දු යැවීමක ලකුණු 33කට දවාගත් කඩුලු සංඛ්‍යාව 3කි.
+
+◼️
+
+[Data](articles/ef69a927.json)
+
+---
+
+### KG සමග කොටුවූ සුරාබදු නිලධාරීන්ගේ වැඩ තහනම්
+
+*2024-04-01 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195187) · `si`
+
+කේරළ ගංජා සමග පොලීසිය විසින් අත්අඩංගුවට ගත් සුරාබදු නිලධාරීන්ගේ වැඩ තහනම් කිරීමට පියවර ගෙන තිබේ.
+
+මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කර ඇත.
+
+එම නිවේදනයන් මුදල් රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කර ඇත්තේ මේ සම්බන්ධයෙන් විශේෂ පරීක්ෂණයක් සිදුකිරීම සඳහා අදාළ බලධාරීන්ට නියෝග කළ බවය.
+
+එසේම පරීක්ෂණවලින් අනතුරුව මෙම ක්‍රියාවට සම්බන්ධ සියලු නිලධාරීන්ට එරෙහිව තරාතිරම නොබලා නීතිය අකුරටම ක්‍රියාත්මක කිරීමට පියවර ගන්නා බවද මුදල් රාජ්‍ය අමාත්‍යවරයා සඳහන් කර තිබේ.
+
+කේරළ ගංජා තොගයක් සමග සුරාබදු නිලධාරීන් සිව්දෙනෙකු ඇතුළු සැකකරුවන් 08 දෙනෙකු අත්අඩංගුවට ගනු ලැබුවේ පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය විසින් මීගමුව සහ හලාවත ප්‍රදේශ ආශ්‍රිතව සිදුකළ වැටලීමකදීය.
+
+මෙහිදී සොයාගෙන ඇති කේරළ ගංජා ප්‍රමාණය කිලෝ 45කට ආසන්න බව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/7ef92b3b.json)
+
+---
 
 ### Obtaining IMF’s third tranche increasingly challenging – State Minister
 
@@ -47,6 +119,24 @@ The Finance State Minister further announced that following the distribution of 
 [Data](articles/cb131ba8.json)
 
 [Extended Data](ext_articles/cb131ba8.ext.json)
+
+---
+
+### දෙහිවල ගුවන් පාලමේදී මෝටර් රථයක් ගිනිගනී
+
+*2024-04-01 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195186) · `si`
+
+දෙහිවල ගුවන් පාලම මතදී මෝටර් රථයක් එක්වරම ගිනිගැනීමට ලක්වීමෙන් අද රාත්‍රියේ අනතුරක් සිදුවිය.
+
+එම අවස්ථාවේ මෝටර් රථයේ ගමන්කරමින් සිටි පුද්ගලයා ඉන් පිටතට පැන දිවි බේරාගැනීමට සමත්ව ඇත.
+
+දෙහිවල ගල්කිස්ස මහනගර සභාවේ ගිනි නිවීමේ ඒකකයේ රථ දෙකක් පැමිණ ගින්න නිවාදැමීමට කටයුතු කර තිබුණි.
+
+මෝටර් රථයේ ඇතිවූ විදුලි කාර්මික දෝෂයක් මෙම ගින්නට හේතුවන්නට ඇති බවට සැක පළකරයි.
+
+◼️
+
+[Data](articles/01948965.json)
 
 ---
 
@@ -350,19 +440,27 @@ The number of Kerala cannabis has been found nearly 45 kilograms.
 
 ---
 
-### මහින්ද, දුමින්ද හා ලසන්ත ධූරවලින් ඉවත් කිරීම තාවකාලිකව අත්හිටුවයි
+### Mahinda, Duminda and Lasantha suspended
 
 *2024-04-01 18:52:21* · [`adalk`](https://www.ada.lk/breaking_news/මහින්ද--දුමින්ද-හා-ලසන්ත-ධූරවලින්-ඉවත්-කිරීම-තාවකාලිකව-අත්හිටුවයි/11-408889) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ කෘත්‍යාධිකාරී මණ්ඩලයේ ධූරවලින් දුමින්ද දිසානායක, ලසන්ත අලගියවන්න සහ මහින්ද අමරවීර යන මහත්වරුන් ඉවත් කිරීම වළක්වාලමින් කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා අතුරු තහනම් නියෝගයක් අද (01) නිකුත් කළේය.
+A Colombo District Judge issued an interim injunction to prevent the removal of Duminda Dissanayake, Lasantha Alagiyawanna, and Mahinda Amaraweera from the Sri Lanka Freedom Party (SLFP), citing arbitrary demands and lack of proper discipline. The petitioners argue that their reputations were damaged without a disciplinary inquiry.
 
-ස්වාභාවික යුක්ති මූල ධර්ම උල්ලංඝණය කරමින් නිසි විනය පරීක්ෂණයක් හෝ පැවැත්වීමකින් තොරව පක්ෂ ව්‍යවස්ථාවට පටහැනිව තමන් තනතුරු වලින් ඉවත් කිරීමට ශ්‍රී ලංකා නිදහස් පක්ෂය අනීතික සහ අත්තනෝමතික ක්‍රියා කර ඇතැයි පෙන්වා දෙමින් පෙත්සම්කරුවන් කළ ඉල්ලීම් සළකා බැලීමෙන් අනතුරුව අප්‍රේල් 08 දක්වා බලපැවැත්වෙන අන්දමට අදාළ අතුරු තහනම් නියෝගය නිකුත් කළේය.
+🟩
 
-අතුරු තහනම් නියෝගය සම්බන්ධයෙන් විරෝධතා ඇත්නම් පෙත්සම් යළි කැඳවන අප්‍රේල් 08 වැනිදා විරෝධතා දැක්වීමට වගඋත්තරකරුවන්ට නියම කළ දිසා විනිසුරුවරයා අතුරු තහනම් දැන්වීම් හා නොතීසි ද වගඋත්තරකරුවන් වෙත යැවීමටද නියම කළේය.
+Colombo District Judge Sandun Withana issued an interim injunction to prevent the removal of Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera from the Sri Lanka Freedom Party.
+
+The interim injunction order issued by the petitioners, pointed out that the Sri Lanka Freedom Party (SLFP) demands or arbitrary was imposed on the positions without a proper discipline without a proper discipline without a proper discipline.
+
+If the petitions have been taken up on April 8, the district judge prescribed the respondents to respond to the respondents on April 8, to send the banned notice and notice to respondents.
+
+SLFP Chairman Maithripala Sirisena, President of Sri Lanka Freedom, Sarahi Siripala de Silva, Senior Vice Chairman, President of the SLFP Sarappala de Silva, President's Counser Mr. Nimal Siripala de Silva, President's Counser Mustapha.P. Multiplier have been made.
 
 ...
 
 [Data](articles/28e38fc9.json)
+
+[Extended Data](ext_articles/28e38fc9.ext.json)
 
 ---
 
@@ -1089,6 +1187,22 @@ The CoPF, in its report recommended that an independent committee be appointed b
 [Data](articles/1dcbbd98.json)
 
 [Extended Data](ext_articles/1dcbbd98.ext.json)
+
+---
+
+### President appoints Independent Remuneration Committee to review Central Bank pay hike
+
+*2024-04-01 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/President-appoints-Independent-Remuneration-Committee-to-review-Central-Bank-pay-hike/155-279969) · `en`
+
+Colombo, April 1 (Daily Mirror) - President Ranil Wickremesinghe, in his capacity as the Minister of Finance, Economic Stabilization and National Policies has appointed an Independent Remuneration Committee to review the salary increase of the Central Bank.
+
+The Committee has been appointed based on the recommendation in the report of the Committee on Public Finance (CoPF) on the salary revision of the Central Bank.
+
+The CoPF, in its report recommended that an independent committee be appointed by the Finance Ministry to review the Central Bank salary revisions.
+
+◼️
+
+[Data](articles/a2fcb066.json)
 
 ---
 
@@ -2133,131 +2247,5 @@ Meanwhile, a member of the Election Commission stated that an amount of Rs. 10 b
 [Data](articles/ec71fa15.json)
 
 [Extended Data](ext_articles/ec71fa15.ext.json)
-
----
-
-### 9 children killed
-
-*2024-04-01 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180130) · `ta`
-
-9 children died in a mine in Afghanistan, claimed by an official. A mummy official said it was a mine buried during the Russian invasion.
-
-🟩
-
-An official said today that 9 children were killed in a mines in Afghanistan.
-
-A mummy official said that there was only a mines buried during the Russian invasion in Afghanistan.
-
-◼️
-
-[Data](articles/6f934c70.json)
-
-[Extended Data](ext_articles/6f934c70.ext.json)
-
----
-
-### Health workers protest
-
-*2024-04-01 13:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Health-workers-protest/110-279961) · `en`
-
-Health workers today held a protest in front of the Health Ministry over several demands, including the provision of a Disturbance, Availability and Transport (DAT) allowance. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/0b3b6ec2.json)
-
-[Extended Data](ext_articles/0b3b6ec2.ext.json)
-
----
-
-### Polero in 75 feet in ditch: 10 people injured
-
-*2024-04-01 13:09:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/75-அடி-பள்ளத்தில்-பொலேரோ-10-பேர்-படுகாயம்/76-335451) · `ta`
-
-A Polero jeep carrying 15 people crashed into a ditch in Gampala, injuring 10. The group, returning from a funeral, was traveling from Bandarawela to Rambukkan. The accident occurred at 4 am on Monday, with the driver falling asleep. The group included 6 women, 9 men, and small children.
-
-🟩
-
-Gampala police said that a Polero jeep carrying fifteen people was traveling from Bandarawela to Rambukkan.. 10 injured have been admitted to the hospital, police said.
-
-The group, who attended the funeral procession in Bandarawela area, faced the accident at around 4 am on Monday (01).
-
-The group, who had been in the funeral for three days, returned to the villages to go to work. Police said the accident occurred as the driver fell asleep.
-
-Six women and nine men, including small children, have traveled, police said.
-
-◼️
-
-[Data](articles/b9d0b1b7.json)
-
-[Extended Data](ext_articles/b9d0b1b7.ext.json)
-
----
-
-### Sri Lanka records over 635,000 tourist arrivals in first three months of 2024
-
-*2024-04-01 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98344/sri-lanka-records-over-635000-tourist-arrivals-in-first-three-months-of-2024-) · `en`
-
-Sri Lanka has recorded over 635,000 tourist arrivals within the first three months of this year.
-
-Minister of Tourism Harin Fernando stated that the total tourist arrivals for year 2024 as of March 31 stand at 635,784.
-
-Posting on X (formerly Twitter), Fernando mentioned that Sri Lanka has recorded 209,181 arrivals in the month of March and that accordingly, the first three months of 2024 have all surpassed 200,000 tourist arrivals.
-
-The minister further stated that this is a “remarkable turn around” for the country’s tourism sector and the economy.
-
-◼️
-
-[Data](articles/0f78a0a3.json)
-
-[Extended Data](ext_articles/0f78a0a3.ext.json)
-
----
-
-### AG’s Department has done its duty, other institutions should act: Minister
-
-*2024-04-01 13:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AGs-Department-has-done-its-duty-other-institutions-should-act-Minister/108-279960) · `en`
-
-The Attorney General's Department has implemented the action recommended by the Presidential Commission which probed the Easter Sunday attacks while it is up to other institutions to act, Minister of Justice Wijedasa Rajapakshe told Parliament today.
-
-“The Presidential Commission which probed the Easter Sunday attacks made recommendations to various institutions such as the Attorney General’s Department and the police. The Attorney General’s Department had filed 41 court cases against 79 persons as of now. It is essential for the other institutions such as the police to implement the other recommendations of the Presidential Commission,” the Minister said.
-
-Leader of the House Susil Premajayantha informed the Parliament that the Attorney General’s Department has already begun a legal exercise on the recent remark made by former President Maithripala Sirisena that he is aware of the mastermind behind the Easter Sunday attacks.
-
-...
-
-[Data](articles/a911c792.json)
-
-[Extended Data](ext_articles/a911c792.ext.json)
-
----
-
-### Did Dali ship, who clashed in a bridge when he arrived in Colombo from Boltimore, is 'toxic waste'?
-
-*2024-04-01 12:54:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz9ze3y3vq7o) · `si`
-
-A ship carrying 764 tonnes of toxic waste from Baltimore to Sri Lanka, including corrosive materials and explosives, clashed on a bridge in Colombo. Sri Lanka's Central Environmental Authority (CEA) asserts it won't allow waste to be landed without permission, despite the ship's arrival on April 22, not March 26 as initially reported.
-
-🟩
-
-Did Dali ship, who clashed in a bridge when he arrived in Colombo from Boltimore, is 'toxic waste'?
-
-A website has revealed that there were 764 tonnes of the Singapore, Dali (Dali), the Francis Scott Key Bridge in Boultimore, the Francis Scott Key Bridge of the Sri Lanka Harbor in Sri Lanka.
-
-The site reported that corrosive, burn, vulnerable materials, various dangerous materials and explosives, as well as explosives, and Lithium Brry.
-
-The website is published under the headline of the ship, which was carrying toxic waste to Sri Lanka in America to Sri Lanka.
-
-The report also stated that 4,700 containers were found in the US National Transport Protection Board (US National Transportation Board).
-
-The ship, which leaving the Boaltimore on March 26, was to arrive at the Port of Colombo on March 26, as indicated in international voyages.
-
-However, the Colombo Harbor Deputy Noterassati Lakshya Lakshya Lakshya service told the BBC Sinhala service.
-
-...
-
-[Data](articles/15fde174.json)
-
-[Extended Data](ext_articles/15fde174.ext.json)
 
 ---

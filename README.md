@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 10:03:23**
+As of **2024-04-01 10:18:07**
 
 ## Newspaper Stats
 
-*Scraped **16,287** Articles*
+*Scraped **16,291** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ dailyftlk | 881
 economynextcom | 888
 islandlk | 912
 adalk | 1,365
-tamilmirrorlk | 1,942
+tamilmirrorlk | 1,943
 adaderanalk | 1,960
-virakesarilk | 2,313
-dailymirrorlk | 2,506
+virakesarilk | 2,314
+dailymirrorlk | 2,508
 adaderanasinhalalk | 2,638
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,281 (100.0%) of 16,287 articles have been extended.
+16,287 (100.0%) of 16,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### வீடொன்றில் இருந்து பெண் சடலமாக மீட்பு
+
+*2024-04-01 10:01:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீடொன்றில்-இருந்து-பெண்-சடலமாக-மீட்பு/175-335434) · `ta`
+
+கழுத்து நெரிக்கப்பட்டு கொலை செய்யப்பட்ட நிலையில், பெண்ணின் சடலம் தங்கொட்டுவ, கட்டுகெந்த பிரதேசத்தில் உள்ள வீடொன்றில் இருந்து மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கட்டுகெந்த தங்கொட்டுவ பிரதேசத்தைச் சேர்ந்த 52 வயதுடைய பெண்ணே நேற்று (31) படுகொலை செய்யப்பட்டுள்ளதாக பொலிஸார் கூறினர்.
+
+அவரது மகன்  மாலை வீட்டுக்கு வந்து பார்த்தபோது, ​​அறையில் கழுத்து நெரிக்கப்பட்ட நிலையில்  தாய் சடலமாக கிடந்துள்ளார்.
+
+இதுகுறித்து பொலிஸாருக்கு அறிவிக்கப்பட்ட நிலையில், தங்கொட்டுவ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/6dde49b7.json)
+
+---
+
+### Ship was carrying toxic waste to Sri Lanka: Report
+
+*2024-04-01 09:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Ship-was-carrying-toxic-waste-to-Sri-Lanka-Report/155-279925) · `en`
+
+The Singapore cargo ship Dali chartered by Maersk, which crashed into the Baltimore, US bridge on Tuesday 26 March, was carrying 764 tons of hazardous materials to Sri Lanka,
+
+US media reported. The waste included mostly corrosives, flammables, miscellaneous hazardous materials, and Class-9 hazardous materials, including explosives & lithium-ion batteries – in 56 containers. So says the US National Transportation Safety Board, still ‘analyzing the ship’s manifest to determine what was onboard’ in its other 4,644 containers.
+
+...
+
+[Data](articles/054e2e3c.json)
+
+---
+
+### ஆடம்பர கைக்கடிகாரம் தொடர்பில் பெரு ஜனாதிபதியின் வீட்டில் சோதனை
+
+*2024-04-01 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180104) · `ta`
+
+ஆடம்பர கைக்கடிகாரங்கள் சம்பந்தப்பட்ட ஊழல் குற்றச்சாட்டு விசாரணைகளின் ஒரு பகுதியாக, பெரு ஜனாதிபதி தீனா பொலுவார்த்தேயின் இல்லத்தில் அந்நாட்டு அதிகாரிகள் திடீர் சோதனை நடத்தினர்.
+
+ஜனாதிபதி பொலுவார்தே, உத்தியோகபூர்வ நிகழ்வுகளில் ஆடம்பர ரோலக்ஸ் கைக்கடிகாரம் அணிந்திருந்தமை தொடர்பில் சர்ச்சை ஏற்பட்டிருந்தது.
+
+இந்நிலையில், வழக்குத் தொடுநர்களின் கோரிக்கைக்கு அமைய நீதிமன்றம் அளித்ததையடுத்து நேற்று அதிகாலை ஜனாதிபதி தீனா பொலுவார்த்தேயின் இல்லத்தில் நேற்றுமுன்தினம் சோதனை நடத்தப்பட்டது.
+
+பொலிஸார் உட்பட 40 அதிகாரிகள் இச்சோதனையில் பங்குபற்றினர். ஜனாதிபதி பொலுவார்த்தே அப்போது அவ்வீட்டில் இருக்கவில்லை எனத் தெரிவிக்கப்படுகிறது.
+
+ஆடம்பர கைக்கடிகாரத்தை எப்படி தீனா பொலுவாரத்தே (61) வாங்கினார் என முன்னர் கேட்கப்பட்டபோது தான் 18 வயதிலிருந்து உழைத்ததால் அதை வாங்க முடிந்ததாக அவர் பதிலளித்திருந்தார்.
+
+◼️
+
+[Data](articles/7a1b0f7e.json)
+
+---
 
 ### Another health strike to inconvenience millions
 
@@ -47,6 +99,8 @@ The government decided in February to exclusively raise the DAT allowance by Rs 
 ...
 
 [Data](articles/c17e474d.json)
+
+[Extended Data](ext_articles/c17e474d.ext.json)
 
 ---
 
@@ -226,6 +280,8 @@ They in particular singled out the large scale infrastructure projects, particul
 
 [Data](articles/30f86b77.json)
 
+[Extended Data](ext_articles/30f86b77.ext.json)
+
 ---
 
 ### Gaza was attacked by hospital
@@ -323,6 +379,8 @@ As of March 27, 2024, Sri Lanka has welcomed a total of 181,872 international vi
 ...
 
 [Data](articles/dd1b6255.json)
+
+[Extended Data](ext_articles/dd1b6255.ext.json)
 
 ---
 
@@ -591,6 +649,8 @@ A wind farm consisting of 30 towers generating 100MW (Phase 1- Thambapavani) was
 ...
 
 [Data](articles/e1e620a8.json)
+
+[Extended Data](ext_articles/e1e620a8.ext.json)
 
 ---
 
@@ -1076,6 +1136,8 @@ In Sri Lanka, prices at Colombo were assessed at US $ 700/mt, down US $ 7/mt on 
 
 [Data](articles/afbad663.json)
 
+[Extended Data](ext_articles/afbad663.ext.json)
+
 ---
 
 ### Is the Chinese economy doomed as some forecasts say?
@@ -1515,6 +1577,8 @@ A litre of Lanka Petrol 92 Octane (Rs.371) and a litre of Lanka Auto Diesel (Rs.
 ◼️
 
 [Data](articles/521a6dc1.json)
+
+[Extended Data](ext_articles/521a6dc1.ext.json)
 
 ---
 
@@ -2189,81 +2253,5 @@ At & T's wireless 5G network covers 290 million customers worldwide, one of the 
 [Data](articles/538f5f17.json)
 
 [Extended Data](ext_articles/538f5f17.ext.json)
-
----
-
-### Mayurapathi Sri Patrakali Amman Temple Annual Promotion Festival
-
-*2024-03-31 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/180084) · `ta`
-
-The Mayurapathi Sri Patrakali Amman Temple's annual festival, led by Chief Guru Udayaragawak priests, was held on Sunday, 2024. Periyasamy Sundaralingam, Chairman of the Board of Trustees, and members attended, along with many devotees.
-
-🟩
-
-The annual festival of Mayurapathi Sri Patrakali Amman Temple was held on Sunday, 2024, led by the Chief Guru Udayaragawak priests of the temple.. The Chairman of the Board of Trustees. Periyasamy Sundaralingam, Members of the Board of Trustees and a large number of devotees attended the election festival. (Shooting: J. Sajeewa Kumar)
-
-◼️
-
-[Data](articles/f08eb8f0.json)
-
-[Extended Data](ext_articles/f08eb8f0.ext.json)
-
----
-
-### Teacher star retires from a terrible accident
-
-*2024-03-31 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195137) · `si`
-
-A 51-year-old teacher, Samantika Jayasinghe, died in a car accident on Embilipitiya road. The accident occurred while returning from Trincomalee to Matara. The car veered off Banagamwila road, and the driver was suspected to be asleep. The victim's husband and two children were injured and taken to Hambantota hospital.
-
-🟩
-
-A school teacher has died in an accident on Embilipitiya road.
-
-The victim was a 51-year-old Samantika Jayasinghe, aged after 51.
-
-She served as the Head of the A / L Commerce of the AG of St. Sarventz College, Matara.
-
-Police say that a principal, her husband and two children have been in the car at the time of the accident.
-
-The injured were admitted to the Hambantota hospital for further treatment.
-
-The accident had occurred while they were returning home from Trincomalee in Hambantota.
-
-The accident had occurred when the car had taken away from the Banagamwila road in Nongama road.
-
-The suspension is that the accident had occurred due to sleeping driver.
-
-◼️
-
-[Data](articles/75472717.json)
-
-[Extended Data](ext_articles/75472717.ext.json)
-
----
-
-### Colombo Rathnapura tomorrow
-
-*2024-03-31 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195136) · `si`
-
-The Meteorological Department warns of warmer weather in Western, Southern-North-Central, and Eastern Provinces tomorrow, affecting Ratnapura, Moneragala, Vavuniya, and Mullaitivu districts. Instructions have been issued for these areas.
-
-🟩
-
-The Meteorological Department has issued a warning that there is more warm weather than several parts of the island tomorrow (01).
-
-The department has issued an anticipated announcement in this regard.
-
-This is likely that this situation can occur in the Western, Southern-North-Central and Eastern Provinces.
-
-In addition, the Meteorological Department foretold the temperature of the warm index in some locations, Ratnapura, Moneragala, Vavuniya, and Mullaitivu districts.
-
-As a result, the Department issued a series of instructions to be followed by the people in these areas.
-
-◼️
-
-[Data](articles/9cb1234f.json)
-
-[Extended Data](ext_articles/9cb1234f.ext.json)
 
 ---

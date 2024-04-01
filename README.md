@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 19:18:00**
+As of **2024-04-01 19:33:51**
 
 ## Newspaper Stats
 
-*Scraped **16,442** Articles*
+*Scraped **16,446** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 908
 islandlk | 912
-adalk | 1,383
+adalk | 1,384
 tamilmirrorlk | 1,960
 adaderanalk | 1,981
 virakesarilk | 2,343
-dailymirrorlk | 2,527
-adaderanasinhalalk | 2,662
+dailymirrorlk | 2,528
+adaderanasinhalalk | 2,664
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,440 (100.0%) of 16,442 articles have been extended.
+16,442 (100.0%) of 16,446 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### Pakistan court suspends Imran Khan’s prison sentence in state gifts case
+
+*2024-04-01 19:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pakistan-court-suspends-Imran-Khans-prison-sentence-in-state-gifts-case/108-279974) · `en`
+
+Islamabad, Pakistan (AL Jazeera) – A court in Pakistan has suspended former Prime Minister Imran Khan’s jail sentence in a case related to illegal selling of state gifts.
+
+Khan and his wife Bushra Bibi were each handed a 14-year sentence in the case on January 31 – just a week ahead of the February 8 elections, which Khan’s party alleges were rigged.
+
+The Islamabad High Court on Monday said the couple’s sentence will remain suspended until a decision is taken on the case after the Eid holidays, which begin in 10 days.
+
+Khan, 71, is accused of not disclosing assets based on the sale of state gifts worth more than 140 million rupees ($504,000) he received when he was the prime minister from 2018 to April 2022.
+
+The case was brought by Pakistan’s anticorruption agency, which accused Khan and his wife of unlawfully buying and selling the gifts.
+
+...
+
+[Data](articles/ac79bf28.json)
+
+---
+
+### කටුනායකට ඉන්ධන රැගෙන ගිය දුම්රිය බිහිසුණු අනතුරකට ලක්වෙයි
+
+*2024-04-01 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195184) · `si`
+
+රාගම පේරලන්ද පල්ලිය ආසන්නයේ දුම්රිය හරස් මාර්ගයකදී ලොරි රථයක් දුම්රියක ගැටීමෙන් බිහිසුණු අනතුරක් සිදුව තිබේ.
+
+අනතුරින් තුවාල ලැබූ ලොරි රථයේ රියදුරු සහ සහායක ප්‍රතිකාර සඳහා රෝහල්ගතකර තිබේ.
+
+එසේම දුම්රිය එන්ජින් රියදුරුද මෙම අනතුර හේතුවෙන් සුළු තුවාල ලබා ඇති බව පොලීසිය පැවසීය.
+
+ඒ ආසන්නයේ තිබූ එළවළු වෙළෙඳසැලකට අනතුරින් බරපතළ හානි සිදුව ඇති අතර එම අවස්ථාවේ එහි හිමිකරු එය වසාදමා පිටව ගොස් තිබීමෙන් විශාල අනතුරක් වැළකී තිබුණි.
+
+කොළොන්නාව සිට කටුනායක ගුවන්තොටුපොළ දක්වා ඉන්ධන ප්‍රවාහනය කරමින් තිබූ දුම්රියක් මෙලෙස අනතුරට ලක්ව ඇත.
+
+අනතුරින් දුම්රිය එන්ජිමට හානි සිදුව ඇති අතර ලොරි රථයට බරපතළ හානි සිදුව ඇති බව පොලීසිය පවසයි.
+
+රාගම පොලීසිය අනතුර සම්බන්ධයෙන් මේ වනවිට වැඩිදුර විමර්ශන ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/86e3f5f9.json)
+
+---
 
 ### Eight including 4 excise officers arrested with Kerala cannabis
 
@@ -42,23 +86,47 @@ Eight persons including 04 officers of the Excise Department have been arrested 
 
 [Data](articles/440bfbca.json)
 
+[Extended Data](ext_articles/440bfbca.ext.json)
+
 ---
 
-### யாழில் வாள்வெட்டுத் தாக்குதல் : வெட்டிய கையையும் எடுத்துச் சென்ற கும்பல்!
+### කේරළ ගංජා සමග සුරාබදු නිලධාරීන් පිරිසක් අත්අඩංගුවට
+
+*2024-04-01 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195183) · `si`
+
+කේරළ ගංජා තොගයක් සමග සුරාබදු නිලධාරීන් සිව්දෙනෙකු ඇතුළු සැකකරුවන් 08 දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය විසින් මීගමුව සහ හලාවත ප්‍රදේශ ආශ්‍රිතව සිදුකළ වැටලීමකදී මෙම සැකකරුවන් පිරිස අත්අඩංගුවට ගෙන තිබේ.
+
+මෙහිදී සොයාගෙන ඇති කේරළ ගංජා ප්‍රමාණය කිලෝ 45කට ආසන්න බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/7fefb3d0.json)
+
+---
+
+### Sword attack in Jaffna: gang carrying cut hands!
 
 *2024-04-01 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/180183) · `ta`
 
-யாழ்ப்பாணம் - வடமராட்சி தம்பசிட்டி வட்டுவன் பகுதியில் ஞாயிற்றுக்கிழமை (31) வாள் வெட்டு சம்பவம் ஒன்று இடம் பெற்றுள்ளது.
+In Jaffna, a man lost his hand to a sword attack in Vadamarachchi Thambasiti Vaduvan. Selvanayagam Senthuran, 30, was transferred from Point Pedro Hospital to Jaffna Teaching Hospital for further treatment.
 
-ஞாயிற்றுக்கிழமை (31) வாள்களுடன்  சென்ற குழு ஒன்று பருத்தித்துறை தம்பசிட்டி வட்டுவன் பகுதியில் உள்ள நபர் ஒருவர் மீது வாளால் வெட்டியதுடன் வாளால் வெட்டியபோது கீழே வீழ்ந்த கை துண்டையும் எடுத்துச் சென்றுள்ளதாகவும் பொலிஸார் தகவல்கள் தெரிவிக்கின்றன.
+🟩
 
-வாள் வெட்டுக்கு இலக்கான நபர் பருத்தித்துறை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்த நிலையில் மேலதிக சிகிச்சைக்காக யாழ்ப்பாணம் போதனா வைத்திய சாலைக்கு மாற்றப்பட்டுள்ளார்.
+A sword cutting incident in Jaffna - Vadamarachchi Thambasiti Vaduvan area on Sunday (31).
 
-கையை இழந்தவர் செல்வநாயகம் செந்தூரன் எனும் 30 வயதுடைய இளம் குடும்பஸ்தர் ஆவார்.
+A group of swords with swords on Sunday (31) had been cut off a man in the Vaduvan area of Point Pedro, and had taken the bottom of the hand that had fallen down when cutting the sword.
+
+The person who was admitted to the Point Pedro Hospital has been transferred to the Jaffna Teaching Hospital for further treatment.
+
+The man who lost his hand is Selvanayagam Senthuran, a 30 -year -old young family.
 
 ◼️
 
 [Data](articles/d884b3e3.json)
+
+[Extended Data](ext_articles/d884b3e3.ext.json)
 
 ---
 
@@ -251,6 +319,24 @@ Islamabad High Court said that the couple’s graft sentence will remain suspend
 [Data](articles/d904123b.json)
 
 [Extended Data](ext_articles/d904123b.ext.json)
+
+---
+
+### කෝටි 2 කට විකුණන්න සුදානම්වු ගජමුතු 4 සමග යුද හමුදා හිටපු බලලත් නිලධාරීයෙකු අත්අඩංගුවට
+
+*2024-04-01 17:37:34* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-2-කට-විකුණන්න-සුදානම්වු-ගජමුතු-4-සමග-යුද-හමුදා-හිටපු-බලලත්-නිලධාරීයෙකු-අත්අඩංගුවට/11-408886) · `si`
+
+රුපියල් කෝටි දෙකකට අලෙවි කිරීමට සූදානම් කර තිබූ ගජමුතු හතරක් සමඟ විශ්‍රාමික යුද හමුදා බලලත් නිලධාරි වරයෙකු ඊයේ (01) පස්වරුවේ  අත්අඩංගුවට ගත්බව බේරුවල පොලිසිය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ, ගර්ගා නගරය තල්ගස්ගොඩ මීගම ප්‍රදේශයේ පදිංචි 50 පුද්ගලයකු බව පොලිසිය කීය.
+
+යුද හමුදාවේ හිටපු බලලත් නිලධාරීවරයෙකු ගජමුතු තොගයක් රුපියල් කෝටි දෙකකට අලෙවි කිරීමට සූදානම් කර ඇති බවට ගුවන් හමුදා බුද්ධි නිලධාරීන්ට ලද තොරතුරක් මත උප පොලිස් පරීක්ෂක කසුන් පතිරණ මහතා ඇතුළු පොලිස් කණ්ඩායම බේරුවල මරදාන ප්‍රදේශයේදී සැකකරු අත්අඩංගුවට ගෙන ගජමුතු හතර පොලිස් භාරයට ගෙන තිබේ.
+
+ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී කාවින්ද පියසේකර, සහකාර පොලිස් අධිකාරි දුමින්ද රාජපක්ෂ යන මහත්වරුන්ගේ උපදෙස් පරිදි ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ලලිත් පත්ම කුමාර මහතාගේ මෙහෙයවීමෙන් දූෂණ මර්දන අංශ ස්ථානාධිපති උප පොලිස් පරීක්ෂක කසුන් පතිරණ මහතාගේ ප්‍රධානත්වයෙන් පරීක්ෂණ පවත්වති.
+
+◼️
+
+[Data](articles/118bf3bc.json)
 
 ---
 
@@ -2155,95 +2241,5 @@ Today, Litro Gas has decided to reduce the price of a domestic gas cylinder toda
 [Data](articles/82cd4cbe.json)
 
 [Extended Data](ext_articles/82cd4cbe.ext.json)
-
----
-
-### Podden in Lancashire to Sri Lanka
-
-*2024-04-01 12:11:11* · [`adalk`](https://www.ada.lk/sports/ලැන්කෂයර්-ප්‍රාන්තයේ-ක්‍රිකට්-පොඩ්ඩෝ-ලංකාවට/9-408877) · `si`
-
-A 14-member Lancashire cricket team, aged 19 and 15, arrived in Sri Lanka on 04/01 for three days of Twenty20 matches in Colombo and Galle. The team, led by Luke Yates, includes fast bowlers and spinners.
-
-🟩
-
-A team of 14 members of Lancashire, 19 and 15, arrived at the Katunayake Airport on 04/01.
-
-They will participate in three days in Colombo and will participate in three Twenty20 cricket matches and Galle and Colombo.
-
-The team's coach, who started in the cricket batsmen, and sparks of the cricketers of the cricket team have a number of fast bowlers and sparmers.He said at the Katunayake airport.
-
-Luke Yates (LUKE YATES) is the leader of the cricket team. Lancashire's state cricket team from Dubai to 8:30 am on 08.30 am, from Dubai to Emirates Airport.
-
-◼️
-
-[Data](articles/c14cf654.json)
-
-[Extended Data](ext_articles/c14cf654.ext.json)
-
----
-
-### Litro gas prices reduced from today
-
-*2024-04-01 12:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Litro-gas-prices-reduced-from-today/108-279959) · `en`
-
-Colombo, April 1 (Daily Mirror)- The price of a 12.5 kg domestic Litro LP gas cylinder will reduced by Rs. 135 from midnight today, Litro Gas said.
-
-Accordingly, the new retail price of a cylinder of 12.5 kg LP gas will be Rs.4,115.
-
-The 5 kg cylinder of LP gas will be reduced by Rs. 55 and the new retail price will be Rs.1,652.
-
-The 2.3 kg cylinder of LP gas will be reduced by Rs. 23 and the new retail price will be Rs.772.
-
-◼️
-
-[Data](articles/46642a39.json)
-
-[Extended Data](ext_articles/46642a39.ext.json)
-
----
-
-### Sri Lanka stocks up in mid-day trade, turnover pushed by Taprobane
-
-*2024-04-01 12:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-up-in-mid-day-trade-turnover-pushed-by-taprobane-156755/) · `en`
-
-ECONOMYNEXT – Several large transactions of Taprobane shares, totaling 1.5 billion, pushed the turnover of the Colombo Stock Exchange past 2.3 billion by noon on Monday.
-
-The market had opened down. At noon, the All Share Price Index was up 0.05 percent at 11,450. The S&P SL20 was still down 0.40 percent at 3,304.
-
-Taprobane Holdings, repositioned as Ambeon Capital Plc, saw several transactions amounting to a total of 274,853,407 shares changing hands for 1,513,675,780 rupees.
-
-◼️
-
-[Data](articles/840e4ad5.json)
-
-[Extended Data](ext_articles/840e4ad5.ext.json)
-
----
-
-### Student abuse;Suspect arrested for having a romantic relationship
-
-*2024-04-01 12:05:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாணவி-துஷ்பிரயோகம்-காதல்-உறவை-ஏற்படுத்தி-சந்தேக-நபர்-கைது/76-335448) · `ta`
-
-A 29-year-old man was arrested for allegedly having a romantic relationship with a 14-year-old schoolgirl from Bandarawela. The girl's parents lodged a complaint, leading to the suspect's arrest. The police found the suspect's phone and discovered a relationship with a female officer, who allegedly helped him travel. The suspect was arrested on a bus from Balangoda to Colombo.
-
-🟩
-
-The incident of a 29 -year -old youth who had been involved in a schoolgirl who had been involved in Facebook was arrested on Monday (01).
-
-A 14 -year -old schoolgirl from Ginigama area in Bandarawela has lodged a complaint at the Bandarawela police station from the student's parents that he had been taken to a accommodation in Colombo for a few days.
-
-Accordingly, the police, who investigated the investigation, have found the suspect's telephone number, and have developed a relationship with a female police officer and pretended to be a love desire.
-
-Speaking for about two weeks, the female police officer told her to find a job and said that the suspect had come to the house of a relative in Welimada and would meet at Bandarawala and go to Colombo.
-
-But later the woman told the police officer to change the place and come to the Balangoda bus station.
-
-Two female police officers were on duty and arrested the suspect in a bus traveling from Balangoda to Colombo.
-
-...
-
-[Data](articles/fbdf98a9.json)
-
-[Extended Data](ext_articles/fbdf98a9.ext.json)
 
 ---

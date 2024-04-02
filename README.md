@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 21:18:12**
+As of **2024-04-02 21:34:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,702
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,696 (100.0%) of 16,699 articles have been extended.
+16,699 (100.0%) of 16,699 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,8 @@ The health workers also engaged in a 4-hour strike at 10 selected hospitals at 6
 ◼️
 
 [Data](articles/ec2b0f21.json)
+
+[Extended Data](ext_articles/ec2b0f21.ext.json)
 
 ---
 
@@ -506,19 +508,25 @@ Istanbul Governor Dawood Gul said 10 people were killed and 13 others were injur
 
 ---
 
-### මැයි මස  22, 23 හා 24 සියලුම සුරාසැල් වසයි
+### May 22, 23 and 24 all liquor shoes
 
 *2024-04-02 18:19:56* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-මස--22--23-හා-24-සියලුම-සුරාසැල්-වසයි/11-408910) · `si`
 
-ජාතික වෙසක් උත්සවයට සමගාමීව මැයි මස 22 දා සිට 24 යන තෙදින තුළ සියලුම සුරා සැල් වසා තැබීමට බුද්ධ ශාසන හා ආගමික කටයුතු අමාත්‍යාංශය ඉදිරිපත් කළ යෝජනාවට කැබිනට් අනුමැතිය ලැබී තිබේ.
+The Ministry of Buddha Sasana and Religious Affairs approved a proposal to close liquor stores, animal slaughterhouses, and meat markets during the National Vesak Festival from May 21 to 27.
 
-සුරසැල් වසා තැබීමට අමතරව සත්ව ඝාතන සිදුකරන ස්ථාන හා මස් හා මාංශ අලෙව් කරන ස්ථානද වසා තැබීමට නියමිතය.
+🟩
 
-ජාතික වෙසක් සතිය මැයි 21 දා සිට 27 දා දක්වා මාතලේ දිස්ත්‍රික්කය කේන්ද්‍ර කර ගනිමින් පැවැත්වීමට නියමිතය.
+The proposal made by the Ministry of Buddha Sasana and Religious Affairs has been approved by the Ministry of Buddha Sasana and Religious Affairs to cover up with the National Vesak Festival.
+
+In addition to the closure of exploits, animal slabs and meatism and fastest sites will be closed.
+
+The National Vesak week will be held from May 21 to 27 to 27th to 27th.
 
 ◼️
 
 [Data](articles/f1902714.json)
+
+[Extended Data](ext_articles/f1902714.ext.json)
 
 ---
 
@@ -656,21 +664,29 @@ Although it has been repeatedly said that the elephant fences are said to be set
 
 ---
 
-### கல்முனை பிரதேச செயலக பிரச்சினைக்கு முஸ்லிம் அரசியல் தலைமைகளோ முஸ்லிம் எம்.பி.க்களோ காரணமல்ல - ஹரீஸ்
+### Muslim political leaders or Muslim MPs are not responsible for the Kalmunai Divisional Secretariat issue - Haris
 
 *2024-04-02 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180253) · `ta`
 
-வடகிழக்கில் தமிழ் முஸ்லிம் இனம் அரசியல் தீர்வை, அதிகாரபகிர்வை வேண்டி நிற்கின்றபோது கல்முனை மாநகரத்தில் வெறுமனே ஒரு வட்டாரத்தில் 3500 தமிழ் மக்கள் முஸ்லிம்களோடு இணைந்து  வாழ்வதற்கு இடமளிக்காது தமிழ் தலைமைகள் எவ்வாறு வட ,கிழக்கில் தமிழ், முஸ்லிம் மக்கள் ஒற்றுமையாக அதிகாரப்பகிர்வை எட்ட முடியும்,
+Muslim political leaders in Sri Lanka deny responsibility for the Kalmunai Divisional Secretariat issue, highlighting the complexities of political and ethnic relations in the region. Despite the Court of Appeal's rejection of the Kalmunai North Divisional Secretariat and Land Authority, the situation remains unresolved, with no clear government intervention strategy.
 
-நாம் தமிழ் மக்களுக்கு எதிரானவர்கள் அல்ல. கல்முனையில் தமிழ் மக்களுக்கென ஒரு எல்லையுடனான பிரதேச செயலகம் அமைத்துக்கொடுக்கப்பட வேண்டும் என நாம் வலியுறுத்துகிறோம்  என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் உறுப்பினர் எச்.எம்.எம். ஹரீஸ்  தெரிவித்தார்.
+🟩
 
-அத்துடன் கல்முனை பிரதேச செயலக பிர்ச்சினைக்கு முஸ்லிம் அரசியல் தலைமைகளோ முஸ்லிம் எம்.பி.க்களோ காரணமல்ல.
+When the Tamil Muslim race in the Northeast is seeking political solutions and devolution of power, 3500 Tamil people in Kalmunai metropolitan area will not allow the Tamil people to live with the Muslims in a region.
 
-மேன்முறையீட்டு நீதிமன்றம் தமிழ் தரப்பினர்  வேண்டிநிற்கின்ற கல்முனை வடக்கு பிரதேச செயலக விடயம், காணி  அதிகாரம் போன்றவற்றை  இடைக்காலத் தீர்ப்பில் நிராகரித்துள்ளநிலையிலும்  .வழக்கு இன்னும் முடியாத நிலையிலும்.  இந்த பிரச்சினையில் அரசு எப்படி தலையிட முடியும்? எனவும் கேள்வி எழுப்பியினார்.
+We are not against the Tamil people. Sri Lanka Muslim Congress member HMM says that we urge the Tamil people to be set up with a border secretariat for the Tamil people in Kalmunai. Haris said.
+
+And the Muslim political leadership or Muslim MPs are not responsible for the Kalmunai Divisional Secretariat.
+
+While the Court of Appeal has rejected the Kalmunai North Divisional Secretariat and Land Authority in the interim judgment.How can the government intervene in this issue?He also questioned.
+
+He said this while addressing the debate on the Bank (Amendment) Bill held in Parliament on Tuesday (02).
 
 ...
 
 [Data](articles/b021c3a4.json)
+
+[Extended Data](ext_articles/b021c3a4.ext.json)
 
 ---
 

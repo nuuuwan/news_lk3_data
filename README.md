@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 00:19:18**
+As of **2024-04-03 00:33:29**
 
 ## Newspaper Stats
 
-*Scraped **16,712** Articles*
+*Scraped **16,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 149
 bbccomsinhala | 176
 dbsjeyarajcom | 202
 newsfirstlk | 363
-dailyftlk | 895
-economynextcom | 912
+dailyftlk | 896
+economynextcom | 922
 islandlk | 925
 adalk | 1,408
 tamilmirrorlk | 1,991
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,712 (100.0%) of 16,712 articles have been extended.
+16,712 (99.9%) of 16,723 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1150,6 +1150,44 @@ SLC says that the public is requested to respect his privacy.
 
 ---
 
+### World Bank concerned over potential reform fatigue in Sri Lanka’s election year
+
+*2024-04-02 17:50:00* · [`economynextcom`](https://economynext.com/world-bank-concerned-over-potential-reform-fatigue-in-sri-lankas-election-year-157119/) · `en`
+
+ECONOMYNEXT — With elections coming up in Sri Lanka, the World Bank is concerned that reform fatigue could set in, leading to potential policy reversal, particularly with regard to state-owned enterprises (SOEs), a World Bank official said.
+
+Senior Country Economist for the Maldives and Sri Lanka Richard Walker told EconomyNext that the World Bank is specifically concerned about SOE reforms as progress in that area has not been as rapid as hoped despite considerable macroeconomic gains made since the country’s worst financial crisis in decades.
+
+“Maybe we haven’t seen it progress as far as we’d hoped. In terms of trying to put in place a much better framework to ensure better governance and options for private participation, that hasn’t moved as fast we’d hoped,” Walker said on the sidelines of an event held in Colombo on Tuesday April 02 to launch the World Bank’s Development Updates for Sri Lanka and South Asia.
+
+...
+
+[Data](articles/d2deacec.json)
+
+---
+
+### Sri Lanka’s mothers should avoid foreign employment: Minister
+
+*2024-04-02 17:31:00* · [`economynextcom`](https://economynext.com/sri-lankas-mothers-should-avoid-foreign-employment-minister-157200/) · `en`
+
+ECONOMYNEXT – Mothers of infants should avoid working abroad, Sri Lanka’s Minister of Women’s Affairs, Geetha Kumarasinghe, has said.
+
+“A mother should stay with the child till the child is two years,” Kumarasinghe said. “To whom are they going to give the responsibility? To the grandparents? To the husband? No, it is the mother who does that. You have to look after the child.”
+
+At an event for International Women’s Day last month, Kumarasinghe said she was in favor of requesting mothers with children under two to refrain from foreign employment.
+
+However, Minister of Labor and Foreign Employment, Manusha Nanayakkara has rejected this recommendation.
+
+“Parental responsibility belongs to both the mother and father,” Nanayakkara told EconomyNext. “Why should restrictions apply to mothers and not to fathers?”
+
+However, Kumarasinghe was adamant that Sri Lankan ‘culture’ dictated that women were the sole provider of childcare, or unpaid care work.
+
+...
+
+[Data](articles/8933b051.json)
+
+---
+
 ### Opposition victory in Turkish local elections
 
 *2024-04-02 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180269) · `ta`
@@ -1193,6 +1231,26 @@ Meanwhile, the Second Reading of the Banking (Amendment) Bill was followed by th
 [Data](articles/69daea67.json)
 
 [Extended Data](ext_articles/69daea67.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 299.95/300.05 to the US dollar
+
+*2024-04-02 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-299-95-300-05-to-the-us-dollar-157191/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 299.95/300.05 to the US dollar in the spot forex market on Tuesday, stronger from 300.00/06 on Monday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed stable at 11.30/40 percent.
+
+A bond maturing on 15.09.2027 closed at 11.90/12.00 percent from 11.90/12.05 percent.
+
+A bond maturing on 15.12.2028 closed stable at 12.10/20 percent.
+
+A bond maturing on 01.07.2032 closed at 12.50/75 percent. (Colombo/Apr2/2024)
+
+◼️
+
+[Data](articles/1ca3d7f1.json)
 
 ---
 
@@ -1290,6 +1348,26 @@ Meanwhile, the Bank Amendment Bill was completed today (02) and passed a revisio
 
 ---
 
+### Sri Lanka President appoints Wijerathne as new DG for CIABOC with wide powers
+
+*2024-04-02 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-appoints-wijerathne-as-new-dg-for-ciaboc-with-wide-powers-157182/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe appointed High Court Judge W. K. D. Wijerathne as the Director General of the Commission to Investigate Allegations of Bribery or Corruption, which has wide powers under the new Anti Corruption Act.
+
+Wijerathne has functioned in the same role before, but this new appointment is under the new Act which was passed in the parliament in September last year.
+
+The new Act is one of the commitments President Wickremesinghe’s government made to the International Monetary Fund in return to its $3 billion loan.
+
+The new Act has empowered CIABOC, granting it more authority to effectively investigate and prosecute cases of bribery and corruption.
+
+The anti-graft body in the past has investigated into the allegations of bribery and corruptions, but has failed to live up to the expectation because most complaints did not see prosecutions.
+
+...
+
+[Data](articles/d4001ebf.json)
+
+---
+
 ### Parliament approves VAT increase from 15% to 18%
 
 *2024-04-02 16:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-approves-VAT-increase-from-15-to-18/108-280047) · `en`
@@ -1305,6 +1383,26 @@ The gazette notification for the amendment was issued in January this year.
 [Data](articles/1d132718.json)
 
 [Extended Data](ext_articles/1d132718.ext.json)
+
+---
+
+### SriLankan Airlines to lease four wide-body aircraft
+
+*2024-04-02 16:53:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-to-lease-four-wide-body-aircraft-157180/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers have given approval for state-run SriLankan Airlines to acquire four wide body aircraft on operating leases, Minister Bandula Gunawardana has said.
+
+The national carrier will lease two aircraft from ORIX Aviation for 6 years at a fee of 360,000 dollars.
+
+Another two aircraft will be leased from Aergo Capital Limited for 8 years at a fee of 365,000 dollars, he said.
+
+Sri Lankan has contracts of several leased aircraft expire, after legislators blocked the first tender floated to lease aircraft in 2022, around the time the island defaulted on its sovereign bond.
+
+Airbus A330-200s will be leased from ORIX and Airbus A330-300s will be leased from Aergo, an airline official said. (Colombo/Apr02/2024)
+
+◼️
+
+[Data](articles/194fa033.json)
 
 ---
 
@@ -1446,6 +1544,32 @@ It was reported that importers of essential items such as big onions, potatoes a
 
 ---
 
+### Sri Lanka stocks close up, banks and capital goods drive turnover
+
+*2024-04-02 16:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-and-capital-goods-drive-turnover-157168/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader All Share Index closed up 0.60 percent, or 68.89 points, at 11,547; while the S&P SL20 Index closed up 0.63 percent, or 20.85 points, at 3,350.
+
+Turnover was at 2 billion. The Banks (Rs532mn) and Capital Goods (Rs525mn) sectors brought in nearly half of this.
+
+Pan Asia Banking Corporation Plc saw the most active volumes traded (Rs131mn), and the share closed up at 21.50.
+
+First Capital Holdings Plc saw some interest (Rs68mn), and the share closed up at 36.70.
+
+Singer (Sri Lanka) Plc also saw some interest (Rs53mn), and the share closed up at 17.10.
+
+Major contributors to the Index included Ceylinco Insurance Plc (up at 2,460.00), Hatton National Bank Plc (up at 184.50), and John Keells Holdings Plc (up at 197.00).
+
+There was a net foreign inflow of 71 million. (Colombo/Apr2/2024)
+
+◼️
+
+[Data](articles/9937a68a.json)
+
+---
+
 ### Yall. A house in the east of Arali burned in fire
 
 *2024-04-02 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180251) · `ta`
@@ -1567,6 +1691,24 @@ Accordingly, the cabinet approves the importation of 750 vans and 250 buses of 1
 [Data](articles/35c22541.json)
 
 [Extended Data](ext_articles/35c22541.ext.json)
+
+---
+
+### Sri Lanka to allow import of 750 vans and 250 buses for tourism
+
+*2024-04-02 15:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-allow-import-of-750-vans-and-250-buses-for-tourism-157122/) · `en`
+
+ECONOMYNEXT – Sri Lanka will import 750 electric and hybrid vans with 6–15 seating capacity, 250 buses with 6–30 seating capacity, and 30–45 seating capacity without any special tax relief, for transportation of tourists.
+
+“As a result of import restrictions on vehicles and essential spare parts, the state of many vehicles used in the tourist industry are not of a satisfactory level,” Cabinet spokesman Bandula Gunawardena said.
+
+“The use of outdated vehicles for tourist transportation is damaging Sri Lanka’s reputation as a premier tourist destination.”
+
+Providing modern transportation facilities for an accelerated development in the tourism industry was essential, the minister said “considering the contribution of the tourist industry within the economic revival process of Sri Lanka”.
+
+...
+
+[Data](articles/15c77163.json)
 
 ---
 
@@ -1898,6 +2040,24 @@ He also said that Dissanayake is ready for the debate with United People's Power
 
 ---
 
+### Sri Lanka’s Access Engineering wins work under airport expansion project
+
+*2024-04-02 14:51:00* · [`economynextcom`](https://economynext.com/sri-lankas-access-engineering-wins-work-under-airport-expansion-project-157057/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Access Engineering has been awarded ‘identified work’ at a development project at Colombo’s Bandaranaike International Airport, Cabinet spokesman, Minister Bandula Gunawardena said.
+
+In October 30, 2023 there was a cabinet decision to call for competitive tenders from contractors registered at CIDA.
+
+Four bids had been received after tenders were called, Gunawardena said, and the contract was awarded to Sri Lankan construction firm Access Engineering Plc.
+
+The BIA Development Project Phase II, State 2 involves the construction of a main terminal building and air bridges number 2 and 3, he said. (Colombo/Apr2/2024 – This story has been recast to show that contract involves unspecified identified work in the project)
+
+◼️
+
+[Data](articles/9bf616b7.json)
+
+---
+
 ### Gnanasara Thera's bail demand rejection
 
 *2024-04-02 14:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஞானசார-தேரரின்-பிணை-கோரிக்கை-நிராகரிப்பு/175-335514) · `ta`
@@ -2115,177 +2275,5 @@ The crew is on board the container vessel Dali that collided with the 2.6-km-lon
 [Data](articles/b398df70.json)
 
 [Extended Data](ext_articles/b398df70.ext.json)
-
----
-
-### A firearm under a bridge beat a Maligawatta
-
-*2024-04-02 13:56:42* · [`adalk`](https://www.ada.lk/breaking_news/මාලිගාවත්ත-පාලමක්-යට-ගිනි-අවියක්-සොයාගනී/11-408900) · `si`
-
-The Colombo Crimes Division discovered a cache of firearms, including Germany-manufactured revolvers and bullets, under a bridge near the Maligawatta Apple Estate.
-
-🟩
-
-The Colombo Crimes Division says that a large number of firearms in a foreign country and a bullest production deployed under a bridge near the Maligawatta Apple Estate is found under a bridge next to the Milania Housing Complex.
-
-The number of Germany's manufactured revolvers in Germany has been found in its production revolvers and 21 bullets.
-
-The police said that the firearm in the Underground Crimes Division, the Maligawatta Apple Estate, has been found under the Bridge to the Maliwatta Apple Watta Housing Complex in the Maligawatta Apple Estate, the Maligawatta Apple Watta.
-
-◼️
-
-[Data](articles/27343db7.json)
-
-[Extended Data](ext_articles/27343db7.ext.json)
-
----
-
-### Ehelpola Walawwa delegates Sri Dalada Maligawa
-
-*2024-04-02 13:51:05* · [`adalk`](https://www.ada.lk/breaking_news/ඇහැළේපොළ-වලව්ව-ශ්‍රී-දළදා-මාලිගාවට-පවරා-දෙයි/11-408899) · `si`
-
-The President recommends transferring Ehelpola Walawwa to Sri Dalada Maligawa for tourism. The Cabinet approves, aiming to enhance local and foreign tourism.
-
-🟩
-
-The President has informed the Secretary to the President to submit a recommendation report to the Cabinet in the Meetings taken by the Cabinet Meeting on the delegation of Ehelpola Walawwa to the Sri Dalada Maligawa.
-
-Accordingly, the report presented by the Ehelepola family, the Kandy Relayance of the Kandy Reconciliation and the environment, it is more attractive to the current community to present the history of the country.The Sri Dalada Maligawa project has been prepared by the Sri Dalada Maligawa project, aims to establish local and foreign tourism.
-
-Therefore, it is recommended that it is advisable to transfer the relevant building to the Dalada Maligawa.
-
-The Cabinet has been approved by the Cabinet of the President to hand over Ehelepola Walawwa and the land of Ehelepola Walawwa and a sacred offer.
-
-◼️
-
-[Data](articles/cbf53030.json)
-
-[Extended Data](ext_articles/cbf53030.ext.json)
-
----
-
-### Score of the battle to obtain a general election
-
-*2024-04-02 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195213) · `si`
-
-The Sri Lanka Knowledge President's general election is incomplete, with MPs from the Commonwealth Front expressing differing views. The Executive Council is working with the President of the Sri Lanka General Hospital, indicating a political stalemate. The Sri Lanka General Front is in crisis. The upcoming presidential election has 77,000 eligible voters, an increase from the 2019 election, with 18-year-olds now eligible.
-
-🟩
-
-Political sources say that the President of the Sri Lanka Knowledge has not completed the general election.
-
-Many MPs representing the Commonwealth Front expressed various views on holding a general election in press conferences and political discussions.
-
-Accordingly, there is a political field that there will be any political backyard after the Sinhala New Year.
-
-However, the Executive Council has stated in the Executive Council to work with the President of the Sri Lanka General Hospital.
-
-It is reported that with this statement, Kanchan Wijesara, Prasanna Ranatunga, Bandula Gunawardena Prawatunga Pradeshiya Siddhandasala Prawitanga, Prasanna Ranatunga and Bandula Gunawardena Prain Tennakoon.
-
-The Sri Lanka General Front has been stating in a crisis.
-
-Meanwhile, seventy-seven thousand elections have been eligible to vote in the upcoming presidential election.
-
-Although voters were eligible for the last presidential election in 2019, the number has increased by Rs.
-
-...
-
-[Data](articles/c957695c.json)
-
-[Extended Data](ext_articles/c957695c.ext.json)
-
----
-
-### Two and a half hours of adjournment
-
-*2024-04-02 13:38:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டரை-மணிநேரம்-சபை-ஒத்திவைப்பு/175-335512) · `ta`
-
-Deputy Speaker Ajith Rajapaksa adjourned council action till 4 pm today due to lack of ruling party and opposition members for a debate on the Ban Amendment Bill. Opposition named 15 people and 6 ruling party members, but one was absent. The council's work was temporarily suspended.
-
-🟩
-
-Deputy Speaker Ajith Rajapaksa adjourned the council action till 4 pm today (02) due to lack of ruling party and opposition members called for a debate on the Ban Amendment Bill.
-
-Opposition members called the names of fifteen people and the names of six ruling party members, but the member was not even in the House.. Subsequently, the Deputy Speaker said that the work of the council was temporarily suspended.
-
-◼️
-
-[Data](articles/95febde1.json)
-
-[Extended Data](ext_articles/95febde1.ext.json)
-
----
-
-### Three injured in child shooting at Finland School
-
-*2024-04-02 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180236) · `ta`
-
-Three children injured in a shooting at a Finnish elementary school.
-
-🟩
-
-Three children were injured in a child's shooting at an elementary school in Finland.
-
-◼️
-
-[Data](articles/6c56bfd1.json)
-
-[Extended Data](ext_articles/6c56bfd1.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-04-02 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180237) · `ta`
-
-On April 2, the US $295.2015 was exchanged for Rs 295.2015, with a sales price of Rs 304.9073.
-
-🟩
-
-The US $ 295.2015 was recorded at Rs 295.2015 and the sales price at Rs 304.9073, based on the Central Bank's currency exchange rate on Tuesday (April 02).
-
-◼️
-
-[Data](articles/7c1e24e6.json)
-
-[Extended Data](ext_articles/7c1e24e6.ext.json)
-
----
-
-### Cabinet approves providing free sanitary pads for 800,000 remote school students
-
-*2024-04-02 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-approves-providing-free-sanitary-pads-for-800-000-remote-school-students/108-280037) · `en`
-
-Colombo, April 2 (Daily Mirror) - Cabinet approval was granted to implement a programme to provide sanitary pads free of charge annually from April 2024 to 800,000 female students studying in most remote schools.
-
-The sanitary pads will be distributed among 1.2 million female students who have attained age in remote, isolated, estate and urban schools attended by poor female students.
-
-The total student population in Sri Lanka amounts to four million.
-
-◼️
-
-[Data](articles/cdbf0a2c.json)
-
-[Extended Data](ext_articles/cdbf0a2c.ext.json)
-
----
-
-### Cabinet approves contract for four aircraft to Sri Lankan Aviation Company
-
-*2024-04-02 13:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-approves-contract-for-four-aircraft-to-Sri-Lankan-Aviation-Company/108-280036) · `en`
-
-Colombo, April 2 (Daily Mirror) - Cabinet granted approval to award the contract for obtaining two out of the five required wide-body aircraft for Sri Lankan Aviation Company Limited under the operational lease scheme.
-
-Addressing the media, Cabinet spokesman and Minister Bandula Gunawardana said the decision was taken based on the recommendations of the Technical Evaluation Committee (TEC) and the Standing Procurement Committee.
-
-The resolution was furnished by the Ports, Shipping and Aviation Services Minister to award the contract for obtaining four wide-body aircraft on a monitoring lease facility, along with an additional aircraft.
-
-Accordingly, the relavant contracts to obtain two aircraft from Orix Aviation for a monthly lease of USD 360,000 for a period of six years and another contract relevant to obtaining two aircraft from Aergo Capital Limited for a monthly lease of USD 365,000 for a period of eight years were approved.
-
-◼️
-
-[Data](articles/7ab5dd83.json)
-
-[Extended Data](ext_articles/7ab5dd83.ext.json)
 
 ---

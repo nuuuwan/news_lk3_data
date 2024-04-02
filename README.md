@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 19:18:25**
+As of **2024-04-02 19:33:30**
 
 ## Newspaper Stats
 
-*Scraped **16,677** Articles*
+*Scraped **16,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,48 +19,84 @@ adalk | 1,404
 tamilmirrorlk | 1,987
 adaderanalk | 2,001
 virakesarilk | 2,397
-dailymirrorlk | 2,567
+dailymirrorlk | 2,568
 adaderanasinhalalk | 2,699
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,672 (100.0%) of 16,677 articles have been extended.
+16,677 (100.0%) of 16,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### வற் சட்டத்தின் கீழ் கட்டளை மேலதிக வாக்குகளால் நிறைவேற்றம்
+### President addresses challenges confronting Muslim schools in Colombo
+
+*2024-04-02 19:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-addresses-challenges-confronting-Muslim-schools-in-Colombo/108-280049) · `en`
+
+Colombo, April 02 - In a concerted effort to tackle the educational hurdles encountered by Muslim schools in the Colombo region, President Ranil Wickremesinghe chaired a formal discussion at the Presidential Secretariat today (02).
+
+The meeting, which brought together key stakeholders, including Minister Ali Sabry and representatives of school principals and organizations, addressed a range of pressing issues.
+
+Among the challenges discussed were the shortage of teachers, inadequate infrastructure including classroom space, difficulties in teaching Islam in Sinhala, and the absence of schools in Muslim-majority areas.
+
+Minister Ali Sabry underscored the gravity of the situation, pointing out that while there are approximately 70 Muslim schools in Kalutara, there are only around 19 in Colombo. This disparity has led to a higher dropout rate in Colombo, exacerbating social issues not only within the community but also impacting the nation at large.
+
+...
+
+[Data](articles/f98895f2.json)
+
+---
+
+### Mandate
 
 *2024-04-02 19:05:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வற்-சட்டத்தின்-கீழ்-கட்டளை-மேலதிக-வாக்குகளால்-நிறைவேற்றம்/175-335522) · `ta`
 
-பெறுமதி சேர் வரிச் சட்டத்தின் கீழ் கட்டளை இன்று (02) பாராளுமன்றத்தில் 36 மேலதிக வாக்குகளால் நிறைவேற்றப்பட்டது.
+The Value Added Tax Act was passed by 36 votes, with opposition demanding a referendum. The Banking Industry Amendment Bill was passed without amendment.
 
-இதற்காக, எதிர்க்கட்சிகள் வாக்கெடுப்பிற்கு கோரியிருந்த நிலையில், கட்டளைக்கு ஆதரவாக 55 வாக்குகளும், எதிராக 19 வாக்குகளும் பதிவாகின.
+🟩
 
-இதேவேளை, வங்கித் தொழில் திருத்தச் சட்டமூலம் இன்று (02) பாராளுமன்றத்தில் மூன்றாவது முறையாக வாசிக்கப்பட்டு திருத்தம் இன்றி நிறைவேற்றப்பட்டது. R
+Under the Value Added Tax Act, the Command was passed today (02) by 36 additional votes.
+
+To this end, the opposition parties demanded a referendum, with 55 votes in favor of the command and 19 votes.
+
+Meanwhile, the Banking Industry Amendment Bill was read in Parliament today (02) and passed without amendment.. Remble
 
 ◼️
 
 [Data](articles/25bc5f1a.json)
 
+[Extended Data](ext_articles/25bc5f1a.ext.json)
+
 ---
 
-### பெரிய வெங்காயம் இறக்குமதி 92 ரூபா; சில்லறை விற்பனை விலை 700 ரூபா கோடி கணக்கான இலாபத்தில் 36% மீள அறவிட பணிப்பு - பாராளுமன்ற வழிவகைகள் பற்றிய குழு
+### Big onion import 92 rupees;Retail Price 700 crores of rupees 36% of the profit
 
 *2024-04-02 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180276) · `ta`
 
-சகல வரிகளும் நீங்கலாக 92 ரூபாய்க்கு பெரிய வெங்காயத்தை இறக்குமதி செய்து அதனை 700 ரூபாவுக்கு விற்று சுரண்டி பிழைக்கும் செயற்பாட்டை வர்த்தகர்கள் இனியேனும் தவிர்த்துக் கொள்ள வேண்டும். கடந்த ஆண்டு மாத்திரம் பெரிய வெங்காய இறக்குமதியாளர்கள் 8000 கோடி ரூபா இலாபமடைந்துள்ளார்கள். அத்தியாவசிய உணவு பொருட்கள் இறக்குமதியாளர்கள் பெற்றுக்கொண்டுள்ள இலாபத்தில்  36 சதவீதத்தை மீளப்பெற்றுக்கொள்வதற்கு உரிய நடவடிக்கைகளை முன்னெடுக்குமாறு உள்நாட்டு இறைவரித் திணைக்களத்துக்கு ஆலோசனை வழங்கியுள்ளோம் என வழி வகைகள் பற்றிய குழுவின் தலைவர் பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+Big onion importers made a profit of 8,000 crore rupees by selling for 700 rupees, exploiting the economically affected. The Committee advised the Internal Revenue Department to recover 36% of these profits.
 
-பாராளுமன்ற குழு அறையில் செவ்வாய்க்கிழமை (2) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-பொருளாதார பாதிப்புக்கு மத்தியில் மக்களை சுரண்டிப் பிழைக்கும் செயற்பாட்டில் ஒருசில வர்த்தகர்கள் ஈடுபடுகிறார்கள்.அத்தியாவசிய பொருட்களின் விலை நியாயமற்ற வகையில் அதிகரிக்கப்பட்டுள்ளன.டொலரின் பெறுமதி குறைவடைந்துள்ள நிலையிலும் அத்தியாவசிய பொருட்களின் விலை குறைவடையவில்லை.
+Traders should avoid the process of importing large onions for 92 rupees, excluding all taxes and exploiting it for 700 rupees.. Last year, big onion importers made a profit of Rs 8,000 crore. The Chairman of the Committee, Patali Champika Ranawaka, said that we have advised the Internal Revenue Department to take appropriate measures to recover 36 per cent of the profits received by the importers of essential food products.
+
+He made this statement during a media briefing held in the parliamentary committee room on Tuesday (2).
+
+A few traders are engaged in the process of exploiting people amid economic impacts.
+
+On Tuesday (2), we summoned officials of state institutions, including the Department of Consumer Authority, Consumer Authority, Consumer Authority, Authority and Statistics and Exports and Import Controller, to the Committee on Parliamentary Provisions on Tuesday (2).
+
+In the year 2023, the big onion was imported for Rs.
+
+Similarly, one per liter of potatoes has been imported at Rs.
 
 ...
 
 [Data](articles/03c77a44.json)
+
+[Extended Data](ext_articles/03c77a44.ext.json)
 
 ---
 
@@ -84,19 +120,25 @@ Despite co-ordinating movements with the Israeli Defence Force, the convoy was h
 
 ---
 
-### துருக்கியில் அடுக்குமாடி கட்டடத்தில் தீ: 10 பேர் பலி
+### Fire in apartment building in Turkey: 10 killed
 
 *2024-04-02 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180274) · `ta`
 
-துருக்கியின் இஸ்தான்புல் நகரிலுள்ள கட்டிடமொன்றில் இன்று பரவிய தீயினால் குறைந்தபட்சம் 10 பேர் உயிரிழந்ததுடன் மேலும் 13 பேர் காயமடைந்துள்ளனர்.
+A fire in Istanbul's Pastikas killed 10 and injured 13.
 
-துருக்கியின் மிகப் பெரிய நகரான இஸ்தான்புல்லின் பேஸ்டிகாஸ் நகரிலுள்ள 16 மாடி கட்டடத்தில் தீ பரவியது.
+🟩
 
-இத்தீயினால் 10 பேர் உயிரிழந்ததுடன் மேலும் 13 பேர் காயமடைந்துள்ளனர் என இஸ்தான்புல் ஆளுநர் தாவுத் குல் தெரிவித்துள்ளார்.
+At least 10 people were killed and 13 others were injured in a fire that broke out in a building in Istanbul, Turkey.
+
+The fire broke out in a 16 -storey building in Pastikas, Istanbul, the largest city in Turkey.
+
+Istanbul Governor Dawood Gul said 10 people were killed and 13 others were injured.
 
 ◼️
 
 [Data](articles/87d9f066.json)
+
+[Extended Data](ext_articles/87d9f066.ext.json)
 
 ---
 
@@ -214,17 +256,25 @@ Although it has been repeatedly said that the elephant fences are said to be set
 
 ---
 
-### மக்களின் இறையாண்மைக்கு இலட்சக்கணக்கான மக்களே  அச்சுறுத்தல் விடுத்தார்கள் - சபாநாயகர்
+### Hundreds of thousands of people threatened the sovereignty of the people - the Speaker
 
 *2024-04-02 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180261) · `ta`
 
-உள்ளக மட்டத்தில் குறைப்பாடுகளுடன் செயற்படும் போது பிற தரப்பினர் தலையிடுவார்கள். அறகலயவில் ஆரம்பத்தில் இருந்து அவ்வாறான தன்மையே காணப்பட்டது. நாட்டின் இறையாண்மைக்கு வெளி தரப்பினர் அச்சுறுத்தல் விடுத்ததாக நான் அறியவில்லை. மக்களின் இறையாண்மைக்கு இலட்சக்கணக்கான மக்களே அச்சுறுத்தல் விடுத்தார்கள். இந்நிலைமை எதிர்காலத்தில் தோற்றம் பெறாத வகையில்  அனைவரும் பொறுப்புடன் செயற்பட வேண்டும் என சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தேசிய சுதந்திர முன்னணியின் தலைவர் விமல் வீரவன்சவை நோக்கி குறிப்பிட்டார்.
+The Speaker of Parliament, Mahinda Yapa Abeywardena, addressed concerns raised by the National Freedom Front leader, Wimal Weerawansa, about the sovereignty of the country during the Arakalaya event. Abeywardena denied foreign threats, emphasizing instead that it was the actions of hundreds of thousands of people that posed a threat.
 
-பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (02) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றிய தேசிய சுதந்திர முன்னணியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான  விமல் வீரவன்ச,அரகலய சந்தர்ப்பத்தில் நாட்டின் இறையாண்மைக்கு எதிராக செயற்பட்ட சர்வதேச தரப்பினர் குறித்து விசாரணைகளை முன்னெடுக்க பாராளுமன்ற தெரிவுக்குழுவை நியமிக்குமாறு வலியுறுத்தினார். இதற்கு பதிலளிக்கையில் சபாநாயகர் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
+
+Other sides intervene when they act with reduction at the internal level. Such is the case from the beginning. I do not know that foreign parties threatened the sovereignty of the country. Hundreds of thousands of people threatened the sovereignty of the people. Speaker Mahinda Yapa Abeywardena told the National Freedom Front leader Wimal Weerawansa that the situation should not appear in the future.
+
+Speaking at a session held in Parliament on Tuesday (02), Wimal Weerawansa, the leader of the National Freedom Front and Member of Parliament, urged the Parliamentary Select Committee to investigate the international parties who were acting against the sovereignty of the country during the Arakalaya occasion.. In response, the Speaker said the above.
+
+Hundreds of thousands of people threatened the sovereignty of the people. On the occasion of the Arakalai, a party came to surround the building. Amidst a massive struggle, we defended Parliament.
 
 ...
 
 [Data](articles/2da89c11.json)
+
+[Extended Data](ext_articles/2da89c11.ext.json)
 
 ---
 
@@ -340,19 +390,25 @@ Subsequently, in the electronic vote, 55 votes were cast in favor of the order u
 
 ---
 
-### චන්දිමාල් හදිසියේම ලංකාවට එයි
+### Chandimal suddenly returns to Sri Lanka
 
 *2024-04-02 17:55:04* · [`adalk`](https://www.ada.lk/sports/චන්දිමාල්-හදිසියේම-ලංකාවට-එයි/9-408907) · `si`
 
-තම පවුලේ හදිසි වෛද්‍ය අවස්ථාවක් හේතුවෙන් ශ්‍රී ලංකා පිතිකරු දිනේෂ් චන්දිමාල් බංග්ලාදේශය සමග පැවැත්වෙන ටෙස්ට් තරගය අත්හැර දමා වහාම ශ්‍රී ලංකාවට පැමිණ තිබේ.
+Dinesh Chandimal leaves Sri Lanka's Test match with Bangladesh due to a family health issue. SLC supports him and asks for privacy.
 
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනයක් නිකුත් කරමින් සඳහන් කළේ කණ්ඩායමේ සෙසු සඟයන් හා පුහුණුකාරිත්ව මණ්ඩලය මේ අපහසු අවස්ථාවේදී චන්දිමාල්ට පූර්ණ සහයෝගය ලබා දෙන බවයි.
+🟩
 
-එසේම ඔහුගේ පෞද්ගලිකත්වයට ගරු කරන ලෙස ජනතාවගෙන් ඉල්ලා සිටින බවද ක්‍රිකට් ආයතනය පවසයි.
+Sri Lankan batsmen Dinesh Chandimal has left the Test with Bangladesh due to a healthy medical situation in his family.
+
+Sri Lanka Cricket (SLC) has announced that the group's fellows and training Board will support Chandimal at the difficult time.
+
+SLC says that the public is requested to respect his privacy.
 
 ◼️
 
 [Data](articles/3bdc381e.json)
+
+[Extended Data](ext_articles/3bdc381e.ext.json)
 
 ---
 
@@ -2187,33 +2243,5 @@ The event was attended by Jaffna Indian Ambassador Ram Mahesh.
 [Data](articles/f59d1ba4.json)
 
 [Extended Data](ext_articles/f59d1ba4.ext.json)
-
----
-
-### Mother Airways resumed flight to Sri Lanka
-
-*2024-04-02 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180214) · `ta`
-
-Mother Airways resumed flights to Sri Lanka, marking the launch of Thai Airways' service. The airline's first flight, TG 307, landed at Katunayake airport at 11.55 pm on Monday, carrying about 150 foreign tourists from Bangkok. The minister of Ports, Shipping, and Aviation, Nimal Siripala de Silva, welcomed the arrival. The daily service is expected to boost tourism, with Katunayake airport already serving 800,000 flights in the last three months.
-
-🟩
-
-Four years later, Thailand's airline "Thai Airways" has launched Sri Lanka's airline.
-
-The company's TG 307 arrived at the Katunayake airport at 11.55 pm on Monday (01).
-
-About 150 foreign tourists, including Thailand citizens, arrived on the flight from Bangkok, Thailand.. Katunayake airport officials said that the airlines between Thailand and Sri Lanka are operating daily.
-
-Ports, Shipping and Aviation Minister Nimal Siripala de Silva welcomed the aircraft and its passengers.
-
-The number of tourists visiting Sri Lanka by 2024 has increased. In the last three months alone, about 800,000 flights have been obtained by Katunayake Bandaranaike International Airport services.
-
-The introduction of Thai Airways daily airline will further increase the arrival of tourists.He said that if air fares are reduced, Sri Lankan passengers can attract to Thailand and thereby improve bilateral tourism.
-
-◼️
-
-[Data](articles/6be66b20.json)
-
-[Extended Data](ext_articles/6be66b20.ext.json)
 
 ---

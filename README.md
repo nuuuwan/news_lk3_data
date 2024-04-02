@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 06:17:18**
+As of **2024-04-02 06:57:03**
 
 ## Newspaper Stats
 
-*Scraped **16,497** Articles*
+*Scraped **16,509** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,9 +14,9 @@ dbsjeyarajcom | 201
 newsfirstlk | 363
 dailyftlk | 895
 economynextcom | 909
-islandlk | 913
+islandlk | 924
 adalk | 1,387
-tamilmirrorlk | 1,964
+tamilmirrorlk | 1,965
 adaderanalk | 1,984
 virakesarilk | 2,355
 dailymirrorlk | 2,537
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,497 (100.0%) of 16,497 articles have been extended.
+16,497 (99.9%) of 16,509 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -320,6 +320,22 @@ Subsequently, the body has been sent to the Trincomalee General Hospital for aut
 
 ---
 
+### 10 வைத்தியசாலைகளில் இன்று பணிப்புறக்கணிப்பு
+
+*2024-04-02 01:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-வைத்தியசாலைகளில்-இன்று-பணிப்புறக்கணிப்பு/175-335486) · `ta`
+
+நாடளாவிய ரீதியில் 10 வைத்தியசாலைகளில் இன்று பணிப்புறக்கணிப்பு போராட்டம் முன்னெடுக்கப்படவுள்ளதாக சுகாதார தொழிற்சங்கங்களின் கூட்டமைப்பு தெரிவித்துள்ளது.
+
+நேற்று இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில், சுகாதார தொழிற்சங்கங்களின் கூட்டமைப்பின் ஒருங்கிணைப்பாளர் ரவி குமுதேஷ் இதனைத் தெரிவித்திருந்தார்.
+
+அதன்படி, இலங்கை தேசிய வைத்தியசாலை, கராபிட்டிய, யாழ்ப்பாணம், மட்டக்களப்பு, திருகோணமலை, பேராதனை ஆகிய போதனா வைத்தியசாலைகள், கேகாலை, பொலன்னறுவை ஆகிய பொது வைத்தியசாலைகள் மற்றும் மன்னார் ஆதார வைத்தியசாலை என்பவற்றில் இந்தப் பணிப்புறக்கணிப்பு போராட்டம் முன்னெடுக்கப்படும் என அவர் குறிப்பிட்டுள்ளார்.  (a)
+
+◼️
+
+[Data](articles/87007ddb.json)
+
+---
+
 ### Corpse recovery with the hand and legs tied
 
 *2024-04-02 00:58:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கை-கால்கள்-கட்டப்பட்ட-நிலையில்-சடலம்-மீட்பு/175-335485) · `ta`
@@ -538,6 +554,42 @@ A distinguishing mark of the accounting profession is its acceptance of the resp
 
 ---
 
+### A worthy cause
+
+*2024-04-01 22:44:00* · [`islandlk`](http://island.lk/a-worthy-cause/) · `en`
+
+This scene, ‘Waggoners Musical Extravaganza 2024’, is for a worthy cause as the proceeds from the event will support social welfare projects of the Army Seva Vanitha Unit.
+
+Organised by the Army Service Corps Seva Vanitha Branch, ‘Waggoners Musical Extravaganza 2024’ will feature the group Infinity along with Sanuka, Falan, Vindi, JAYASRI, and Centigradz.
+
+This concert will be held on 5th April at the Lotus Tower Outdoor Arena, from 8 pm onwards.
+
+The show will also feature dance performances by the One Step Dance troupe
+
+The lineup of artistes look interesting and since it’s for a worthy cause, it would be nice to see music lovers checking out this scene.
+
+Positioning the idea of Sri Lankan English in the field of English language teaching in Sri Lanka
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/9c097700.json)
+
+---
+
+### Positioning the idea of Sri Lankan English in the field of English language teaching in Sri Lanka
+
+*2024-04-01 22:29:00* · [`islandlk`](http://island.lk/positioning-the-idea-of-sri-lankan-english-in-the-field-of-english-language-teaching-in-sri-lanka/) · `en`
+
+...
+
+[Data](articles/20395578.json)
+
+---
+
 ### Sri Lanka’s Tamil parties plan to field presidential candidate from community
 
 *2024-04-01 22:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98359/sri-lankas-tamil-parties-plan-to-field-presidential-candidate-from-community) · `en`
@@ -581,6 +633,48 @@ Subsequently, the culprits were detained at the Kandy Pokambara Prison. At the s
 [Data](articles/17bd08db.json)
 
 [Extended Data](ext_articles/17bd08db.ext.json)
+
+---
+
+### Empowering Your Digital Fortress: Where Cybersecurity meets Unrivaled Protection for Every Digital Realm
+
+*2024-04-01 22:10:00* · [`islandlk`](http://island.lk/empowering-your-digital-fortress-where-cybersecurity-meets-unrivaled-protection-for-every-digital-realm/) · `en`
+
+Dialog Enterprise, the corporate ICT solutions arm of Dialog Axiata PLC., in partnership with Bahrain-based award-winning cybersecurity solutions partner, CTM360, now presents a Digital Risk Protection (DRP) platform empowering organizations and enterprises to navigate the digital landscape confidently amidst ever-evolving cybersecurity threats.
+
+A holistic solution stack to address the current cybersecurity challenges faced by organizations, CTM360’s fully integrated, security platform operates in real-time, outside the firewall of an organization, and does not require any configuration or installation.
+
+Proficient in External Attack Surface Management (EASM), CTM360 features cloud-based Auto Discovery of digital assets, maintains a digital asset inventory and is capable of carrying out Security Ratings and External Asset Vulnerability Detection, along with effective mitigation guidelines.
+
+...
+
+[Data](articles/e5ab2308.json)
+
+---
+
+### Silverlake Symmetri and Just In Time Group host successful forum on Sri Lanka’s banking future
+
+*2024-04-01 22:09:00* · [`islandlk`](http://island.lk/silverlake-symmetri-and-just-in-time-group-host-successful-forum-on-sri-lankas-banking-future/) · `en`
+
+Silverlake Symmetri, in collaboration with Just In Time Group, recently concluded a groundbreaking forum titled “Global Tech, Local Impact: Banking’s New Frontier” in Sri Lanka. This insightful event, held in Colombo, gathered esteemed industry leaders and experts to explore the transformative role of technology in shaping the future of banking and investment services.
+
+...
+
+[Data](articles/d1cde532.json)
+
+---
+
+### Major transactions in Taprobane shares take CSE turnover past Rs. 4 billion mark
+
+*2024-04-01 22:05:00* · [`islandlk`](http://island.lk/major-transactions-in-taprobane-shares-take-cse-turnover-past-rs-4-billion-mark/) · `en`
+
+Several large transactions of Taprobane shares, totaling Rs 1.5 billion, pushed the turnover of the stock market past the Rs 4.billion mark yesterday. Taprobane Holdings, propositioned as Ambeon Capital, saw multiple shares changing hands for Rs 1.5 billion.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 61 points while S and P SL20 rose by 16.81 points. Turnover stood at Rs 4.1 billion with seven crossings.
+
+...
+
+[Data](articles/93ef0a09.json)
 
 ---
 
@@ -759,6 +853,28 @@ They have been arrested with 45 kilograms of Kerala cannabis from Negombo and Ch
 [Data](articles/aa82df24.json)
 
 [Extended Data](ext_articles/aa82df24.ext.json)
+
+---
+
+### President orders review of Central Bank salary increase
+
+*2024-04-01 20:57:00* · [`islandlk`](http://island.lk/president-orders-review-of-central-bank-salary-increase/) · `en`
+
+Responding to mounting pressures from Members of Parliament,  the Committee on Public Finance (CoPF) and public concerns President Wickremesinghe in his capacity as the Minister of Finance, Economic Stabilization and National Policies has established an independent remuneration committee to review the recent increase in staff remuneration at the Central Bank of Sri Lanka (CBSL).
+
+The Independent Remuneration Committee members include Mr Dinesh Stephen Weerakkody, Mr Arjuna Herath, Dr Indrajit Coomaraswamy, Mrs Sudharma Karunarathne, Mr Anthony Nihal Fonseka, Mr Anushka S Wijesinha and Mr Duminda Hulangamuwa.
+
+Related Topics:CBSL salary hikeCentral Bank of Sri Lanka (CBSL)Committee on Public Finance (CoPF)
+
+Boult, Chahal and Parag make it 3-0 for Royals and 0-3 for Mumbai Indians
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/70e8e7df.json)
 
 ---
 
@@ -2089,157 +2205,5 @@ Chairman of the Parliamentary Committee on Finance Dr. Harsha de Silva ...
 [Data](articles/817a5b04.json)
 
 [Extended Data](ext_articles/817a5b04.ext.json)
-
----
-
-### No pressure from China, says Sri Lanka state finmin after official visit
-
-*2024-04-01 15:40:00* · [`economynextcom`](https://economynext.com/no-pressure-from-china-says-sri-lanka-state-finmin-after-official-visit-156797/) · `en`
-
-ECONOMYNEXT – There was no pressure from China during an official visit by Sri Lankan delegation led by Prime Minister Dinesh Gunawardena, State Finance Minister Shehan Semasinghe said after concluding a six-day official visit to the World’s second largest economy.
-
-Prime Minister Dinesh Gunawardena met Chinese President Xi Jinping and Prime Minister Li Qiang in Beijing before participating in BOAO Forum for Asia Annual Conference 2024 in Hainan in China.
-
-“The visit was good. There was no pressure,” Semasinghe told EconomyNext when asked if there were any specific pressure from China after Beijing’s strong protest over Sri Lanka allowing a German research vessel despite a one-year ban on all research ships was in place.
-
-“No project was discussed. We just wanted to conclude the (debt) resolutions. We signed some MOUs, and discussed on the debt restructuring.”
-
-The official visit to China is significant as Sri Lanka needs Beijing’s help to conclude bilateral and commercial debt restructuring.
-
-...
-
-[Data](articles/ef27e8e8.json)
-
-[Extended Data](ext_articles/ef27e8e8.ext.json)
-
----
-
-### Recent fuel price revision shows which sections of society affected most
-
-*2024-04-01 15:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Recent-fuel-price-revision-shows-which-sections-of-society-affected-most/108-279967) · `en`
-
-Colombo, April 1 (Daily Mirror) - The recent reduction of Petrol 95 Octane by Rs.7 and super diesel by Rs. 72 shows which sections of society were most affected by the economic difficulties, All-Island Three-Wheeler Drivers’ Union (AITWDU) President Lalith Dharmasekera said.
-
-While criticising the recent fuel price revision, he said the people who use super diesel were affected the most by the economic difficulties.
-
-"However, based on the fuel revision formula, the decision-makers chose not to lower the prices of auto diesel and petrol 92 Octane. They reasoned that since most passenger services heavily rely on auto diesel and many three-wheeler operators use petrol 92 Octane, they believed that people who depend on these fuels will somehow manage to endure any hardships that may arise," he said.
-
-...
-
-[Data](articles/33a022df.json)
-
-[Extended Data](ext_articles/33a022df.ext.json)
-
----
-
-### Driver arrested by intelligent pistol
-
-*2024-04-01 15:36:44* · [`adalk`](https://www.ada.lk/breaking_news/බුද්ධි-නිලධාරියාට-සෙල්ලම්-පිස්තෝලයෙන්-වැඩ-පෙන්නූ-රියදුරු-අත්අඩංගුවට/11-408883) · `si`
-
-A 22-year-old driver, Kehel Pannala Ambalana, was arrested by an intelligent pistol in Yakpitiya, Colombo. He's part of an organized criminal group and was detained at the Colombo Crimes Division.
-
-🟩
-
-The Colombo Crimes Division said that the suspect was arrested by a pistol weapon and fiercely frightened by a bill exchanging of the intelligence in the Dice Road, Yakpitiya.
-
-IGP Sub-Inspector Lakmal official's team of intelligence officer in the Gamaduwa Criminal Officer of the IGP, police officer was launched to the Colombo Crimes Division.
-
-According to information, the suspect had been arrested immediately and was arrested by the car via the candidate and to leave Yakpitiya.
-
-The suspect is a 22 year old Kehel Pannala Ambalana, who is a driver.
-
-The suspect is a detailed criminal group of the organized criminal group, whether the toy pistol has carried out the weapon and detention in the Colombo Crimes Division, a senior police officer.
-
-◼️
-
-[Data](articles/08106c0c.json)
-
-[Extended Data](ext_articles/08106c0c.ext.json)
-
----
-
-### Gaza children a million dollars in Sri Lanka
-
-*2024-04-01 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195175) · `si`
-
-Sri Lanka donates $1M to Gaza children's fund, handed over by President Ranil Wickremesinghe. The fund, managed by the Palestinian government, aims to aid children affected by Gaza clashes.
-
-🟩
-
-The Government of Sri Lanka has made a $ 1 million donation from the Government of Sri Lanka for children who were affected by clashes in Gaza.
-
-The donation was handed over to the Palestinian government through the presidential official of the UN officials from the president's government.
-
-President Ranil Wickremesinghe, President Ranil Wickremesinghe, is Dr. Suhhir MH. Zyeid (he. Zuhair m.h. DAR Zaid) was officially handed over to Mr. Dar Zaid.
-
-Under the first phase, the first phase of US donations were made to the Palestinian government to the Fund to hold this fund to the fund.
-
-More than Rs. 20 million has been received by the President's Office to contribute to the "Children of Gaza Fund" to contribute to the "Children of Gaza Fund".
-
-Donor to the people of the Sonid to contribute to this fund from April 30, 2024 and donors will be provided to the Fund (7010) in the Post, PostCon (747), on April 30,The Presidential office was informed to refer to the relevant receipt to 077-973036.
-
-...
-
-[Data](articles/067d5b0c.json)
-
-[Extended Data](ext_articles/067d5b0c.ext.json)
-
----
-
-### Sri Lanka donates USD 01 mn aid to Gaza’s conflict-affected children
-
-*2024-04-01 15:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-donates-USD-01-mn-aid-to-Gazas-conflict-affected-children/108-279966) · `en`
-
-Colombo, April 1 (Daily Mirror)- Sri Lanka today donated USD 01 million as aid to Gaza's conflict-affected children, the President's Media Division (PMD) said.
-
-President Ranil Wickremesinghe handed over the cheque to Palestinian Ambassador Dr. Zuhair Hamdallah Zaid.
-
-"It is part of the Children of Gaza Fund initiated by President Wickremesinghe, with additional donors contributing," the PMD said.
-
-◼️
-
-[Data](articles/b39eef1b.json)
-
-[Extended Data](ext_articles/b39eef1b.ext.json)
-
----
-
-### During the construction of a house
-
-*2024-04-01 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180151) · `ta`
-
-In Kahawatta, Poojapitiya, a mud collapse during house construction killed 54-year-old Jagath Wijesuriya and injured another. Both were rescued but one died, the other critically injured and transferred to Kandy National Hospital.
-
-🟩
-
-Police say one person has died and injured when a mud collapsed on two persons who were cutting down the foundation of the foundation for the construction of a house in the Kahawatta area of Poojapitiya.
-
-The father of four children aged 54, Jagath Wijesuriya, a resident of Diwanawatta, Poojapitiya, has died.
-
-Though the two residents were rescued and taken to the Akurana Hospital, one person died and the other person who was in critical condition has been transferred to the Kandy National Hospital.
-
-◼️
-
-[Data](articles/756f1a9a.json)
-
-[Extended Data](ext_articles/756f1a9a.ext.json)
-
----
-
-### Laugfs Gas also slashes prices
-
-*2024-04-01 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98348/laugfs-gas-also-slashes-prices-) · `en`
-
-Laugfs Gas PLC, one of the main suppliers of liquefied petroleum (LP) gas in Sri Lanka, has also decided to revise the prices of its domestic LP gas cylinders with effect from midnight today (01).
-
-Accordingly, the price of the 12.5 kg cylinder has been reduced by Rs. 625 to Rs. 4,115 while the price of the 05 kg cylinder has been reduced by Rs. 248 to Rs. 1,652.
-
-The announcement comes shortly after Litro Gas Lanka announced its decision to reduce the prices ahead of the festive season.
-
-◼️
-
-[Data](articles/e5b19c42.json)
-
-[Extended Data](ext_articles/e5b19c42.ext.json)
 
 ---

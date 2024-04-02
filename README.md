@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 13:52:38**
+As of **2024-04-02 14:18:00**
 
 ## Newspaper Stats
 
-*Scraped **16,598** Articles*
+*Scraped **16,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,48 +15,350 @@ newsfirstlk | 363
 dailyftlk | 895
 economynextcom | 912
 islandlk | 924
-adalk | 1,394
-tamilmirrorlk | 1,981
-adaderanalk | 1,994
-virakesarilk | 2,368
-dailymirrorlk | 2,551
-adaderanasinhalalk | 2,690
+adalk | 1,396
+tamilmirrorlk | 1,982
+adaderanalk | 1,996
+virakesarilk | 2,374
+dailymirrorlk | 2,556
+adaderanasinhalalk | 2,691
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,595 (100.0%) of 16,598 articles have been extended.
+16,611 (100.0%) of 16,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### පාර්ලිමේන්තු කටයුතු හදිසියේ කල් තැබේ
+### Indian, Sri Lankan crew stay aboard ship till probe is complete
+
+*2024-04-02 13:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-Sri-Lankan-crew-stay-aboard-ship-till-probe-is-complete/108-280040) · `en`
+
+Baltimore , April 2 (PTI) - The crew of 20 Indians and a Sri Lankan of the container vessel that collided with a key Baltimore bridge last week is “busy with their normal duties” and will remain on board until the investigation into the accident is completed.
+
+“It is confirmed there are 21 crew members on board. The crew members are busy with their normal duties on the ship as well as assisting the National Transportation Safety Board and Coast Guard investigators on board," a spokesperson of Grace Ocean Pte and Synergy Marine told PTI.
+
+The crew is on board the container vessel Dali that collided with the 2.6-km-long four-lane Francis Scott Key Bridge over the Patapsco River in Baltimore in the early hours of March 26. The 984-foot cargo ship was bound for Colombo, Sri Lanka.
+
+...
+
+[Data](articles/b398df70.json)
+
+---
+
+### ඇහැළේපොළ වලව්ව ශ්‍රී දළදා මාලිගාවට පවරා දෙයි
+
+*2024-04-02 13:51:05* · [`adalk`](https://www.ada.lk/breaking_news/ඇහැළේපොළ-වලව්ව-ශ්‍රී-දළදා-මාලිගාවට-පවරා-දෙයි/11-408899) · `si`
+
+ඇහැළේපොළ වලව්ව ශ්‍රී දළදා මාලිගාව වෙත පවරාදීම සම්බන්ධයෙන් 2024-2-19 දින අමාත්‍ය මණ්ඩල රැස්වීමේදී ගනු ලැබූ තීරණය අනුව  අදාළ සියලු පාර්ශවයන් සමඟ සාකච්ඡා කර අමාත්‍ය මණ්ඩලය වෙත නිර්දේශ සහිත වාර්තාවක් ඉදිරිපත් කරන ලෙස ජනාධිපති ලේකම්ට දැනුම් දී තිබේ.
+
+ඒ අනුව ඉදිරිපත් කර ඇති වාර්තාව මගින් ඇහැලේපොළ පවුල ප්‍රමුඛ කර ගනිමින් වසර සිය ගණනකට එපිට පැවති මහනුවර රාජධානිය ශ්‍රී විභූතිය හා එම පරිසරයේ පසුබිම නිරූපණය වන අයුරින් මෙම ගොඩනැගිල්ල තුළ ඉටි රූප කෞතුකාගාරයක් පිහිටුවීමටත් එමඟින් එම ඉතිහාසය පිළිබඳ තොරතුරු වර්තමාන ජන සමාජය වෙත වඩාත් ආකර්ෂණීය අයුරින් ඉදිරිපත් කිරීමට සහ දේශීය හා විදේශීය සංචාරක ආකර්ෂණය ඇති කිරීමත් අරමුණු කරගනිමින් ශ්‍රී දළදා මාලිගාව විසින් ඇහැලේපොළ වලව්ව  ආශ්‍රිත ව්‍යාපෘතියක් සකස් කරනු ලැබ ඇත.
+
+එබැවින් අදාල ගොඩනැගිල්ල ශ්‍රී දළදා  මාලිගාව වෙත පවරාදීම සුදුසු බවට නිර්දේශ කර තිබේ.
+
+ඒ අනුව ඇහැලේපොළ වලව්ව හා ඊට අයත් භූමිය පූජා ඔප්පුවක් මගින්  දළදා මාලිගාව වෙත පවරාදීම පිණිස ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කර තිබේ.
+
+◼️
+
+[Data](articles/cbf53030.json)
+
+---
+
+### Score of the battle to obtain a general election
+
+*2024-04-02 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195213) · `si`
+
+The Sri Lanka Knowledge President's general election is incomplete, with MPs from the Commonwealth Front expressing differing views. The Executive Council is working with the President of the Sri Lanka General Hospital, indicating a political stalemate. The Sri Lanka General Front is in crisis. The upcoming presidential election has 77,000 eligible voters, an increase from the 2019 election, with 18-year-olds now eligible.
+
+🟩
+
+Political sources say that the President of the Sri Lanka Knowledge has not completed the general election.
+
+Many MPs representing the Commonwealth Front expressed various views on holding a general election in press conferences and political discussions.
+
+Accordingly, there is a political field that there will be any political backyard after the Sinhala New Year.
+
+However, the Executive Council has stated in the Executive Council to work with the President of the Sri Lanka General Hospital.
+
+It is reported that with this statement, Kanchan Wijesara, Prasanna Ranatunga, Bandula Gunawardena Prawatunga Pradeshiya Siddhandasala Prawitanga, Prasanna Ranatunga and Bandula Gunawardena Prain Tennakoon.
+
+The Sri Lanka General Front has been stating in a crisis.
+
+Meanwhile, seventy-seven thousand elections have been eligible to vote in the upcoming presidential election.
+
+Although voters were eligible for the last presidential election in 2019, the number has increased by Rs.
+
+...
+
+[Data](articles/c957695c.json)
+
+[Extended Data](ext_articles/c957695c.ext.json)
+
+---
+
+### Two and a half hours of adjournment
+
+*2024-04-02 13:38:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டரை-மணிநேரம்-சபை-ஒத்திவைப்பு/175-335512) · `ta`
+
+Deputy Speaker Ajith Rajapaksa adjourned council action till 4 pm today due to lack of ruling party and opposition members for a debate on the Ban Amendment Bill. Opposition named 15 people and 6 ruling party members, but one was absent. The council's work was temporarily suspended.
+
+🟩
+
+Deputy Speaker Ajith Rajapaksa adjourned the council action till 4 pm today (02) due to lack of ruling party and opposition members called for a debate on the Ban Amendment Bill.
+
+Opposition members called the names of fifteen people and the names of six ruling party members, but the member was not even in the House.. Subsequently, the Deputy Speaker said that the work of the council was temporarily suspended.
+
+◼️
+
+[Data](articles/95febde1.json)
+
+[Extended Data](ext_articles/95febde1.ext.json)
+
+---
+
+### Three injured in child shooting at Finland School
+
+*2024-04-02 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180236) · `ta`
+
+Three children injured in a shooting at a Finnish elementary school.
+
+🟩
+
+Three children were injured in a child's shooting at an elementary school in Finland.
+
+◼️
+
+[Data](articles/6c56bfd1.json)
+
+[Extended Data](ext_articles/6c56bfd1.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-04-02 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180237) · `ta`
+
+On April 2, the US $295.2015 was exchanged for Rs 295.2015, with a sales price of Rs 304.9073.
+
+🟩
+
+The US $ 295.2015 was recorded at Rs 295.2015 and the sales price at Rs 304.9073, based on the Central Bank's currency exchange rate on Tuesday (April 02).
+
+◼️
+
+[Data](articles/7c1e24e6.json)
+
+[Extended Data](ext_articles/7c1e24e6.ext.json)
+
+---
+
+### Cabinet approves providing free sanitary pads for 800,000 remote school students
+
+*2024-04-02 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-approves-providing-free-sanitary-pads-for-800-000-remote-school-students/108-280037) · `en`
+
+Colombo, April 2 (Daily Mirror) - Cabinet approval was granted to implement a programme to provide sanitary pads free of charge annually from April 2024 to 800,000 female students studying in most remote schools.
+
+The sanitary pads will be distributed among 1.2 million female students who have attained age in remote, isolated, estate and urban schools attended by poor female students.
+
+The total student population in Sri Lanka amounts to four million.
+
+◼️
+
+[Data](articles/cdbf0a2c.json)
+
+[Extended Data](ext_articles/cdbf0a2c.ext.json)
+
+---
+
+### Cabinet approves contract for four aircraft to Sri Lankan Aviation Company
+
+*2024-04-02 13:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-approves-contract-for-four-aircraft-to-Sri-Lankan-Aviation-Company/108-280036) · `en`
+
+Colombo, April 2 (Daily Mirror) - Cabinet granted approval to award the contract for obtaining two out of the five required wide-body aircraft for Sri Lankan Aviation Company Limited under the operational lease scheme.
+
+Addressing the media, Cabinet spokesman and Minister Bandula Gunawardana said the decision was taken based on the recommendations of the Technical Evaluation Committee (TEC) and the Standing Procurement Committee.
+
+The resolution was furnished by the Ports, Shipping and Aviation Services Minister to award the contract for obtaining four wide-body aircraft on a monitoring lease facility, along with an additional aircraft.
+
+Accordingly, the relavant contracts to obtain two aircraft from Orix Aviation for a monthly lease of USD 360,000 for a period of six years and another contract relevant to obtaining two aircraft from Aergo Capital Limited for a monthly lease of USD 365,000 for a period of eight years were approved.
+
+◼️
+
+[Data](articles/7ab5dd83.json)
+
+[Extended Data](ext_articles/7ab5dd83.ext.json)
+
+---
+
+### Health trade union struggle at Jaffna Bodhana Hospital
+
+*2024-04-02 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180234) · `ta`
+
+72 health trade unions protested at Jaffna Teaching Hospital for 4 hours, supporting their cause from 8 am to 12 noon.
+
+🟩
+
+72 health trade unions across the country have been involved in trade union action on Tuesday for 4 hours.
+
+The protest was carried out at the Jaffna Teaching Hospital in support of this. From 8 am to 12 noon, they left the service and engaged in trade union action.
+
+◼️
+
+[Data](articles/975b675a.json)
+
+[Extended Data](ext_articles/975b675a.ext.json)
+
+---
+
+### Gnanasara Thero’s bail application rejected
+
+*2024-04-02 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98370/gnanasara-theros-bail-application-rejected) · `en`
+
+The Colombo High Court on Tuesday (02) rejected the bail application filed by the General Secretary of ‘Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thero, who was earlier sentenced to 4 years of rigorous imprisonment.
+
+◼️
+
+[Data](articles/63ad0c6a.json)
+
+[Extended Data](ext_articles/63ad0c6a.ext.json)
+
+---
+
+### Court refuses bail to Ven. Gnanasara Thera
+
+*2024-04-02 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Court-refuses-bail-to-Ven-Gnanasara-Thera/155-280035) · `en`
+
+Colombo, April 2 (Daily Mirror) - The Colombo High Court today refused to release Bodu Bala Sena (BBS) General Secretary Ven. Galaboda Atte Gnanasara Thera on bail.
+
+Accordingly, Colombo High Court Judge Adithya Patabendige rejected the bail application filed on behalf of Ven. Gnanasara Thera citing there are no special circumstances revealed before court to release Ven. Gnanasara Thera on bail.
+
+The defence requested court to release Ven. Gnanasara Thera on bail pending appeal and moved court that the accused be released on bail taking into consideration the delay in concluding hearing of an appeal in the Court of Appeal  and his health condition.
+
+◼️
+
+[Data](articles/20293155.json)
+
+---
+
+### Court refuses bail to Ven. Gnanasara Thera
+
+*2024-04-02 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-refuses-bail-to-Ven-Gnanasara-Thera/108-280035) · `en`
+
+Colombo, April 2 (Daily Mirror) - The Colombo High Court today refused to release Bodu Bala Sena (BBS) General Secretary Ven. Galaboda Atte Gnanasara Thera on bail.
+
+Accordingly, Colombo High Court Judge Adithya Patabendige rejected the bail application filed on behalf of Ven. Gnanasara Thera citing there are no special circumstances revealed before court to release Ven. Gnanasara Thera on bail.
+
+The defence requested court to release Ven. Gnanasara Thera on bail pending appeal and moved court that the accused be released on bail taking into consideration the delay in concluding hearing of an appeal in the Court of Appeal  and his health condition.
+
+◼️
+
+[Data](articles/299cf20f.json)
+
+[Extended Data](ext_articles/299cf20f.ext.json)
+
+---
+
+### Action to remove dangerous trees at the Kalabapa-Hatton Railway
+
+*2024-04-02 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180222) · `ta`
+
+The Railway Department is removing dangerous trees on the Kalabapa-Hatton line due to nine tree collapses in three months, aiming to prevent further disruptions before the rainy season.
+
+🟩
+
+The Superintendent of the Railway Department, S. Kodke said that it has decided to remove the dangerous trees on both sides of the railway line between Kalabapa and Hatton.
+
+He noted that the railway service in the hill country has been affected by the collapse of the trees nine times in the last three months.
+
+Therefore. Before the rainy weather in the hill country, the necessary steps are being taken to cut down the dangerous trees in the hill country.
+
+◼️
+
+[Data](articles/eb7b2f4b.json)
+
+[Extended Data](ext_articles/eb7b2f4b.ext.json)
+
+---
+
+### Parliamentary affairs suddenly adjourn
 
 *2024-04-02 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195212) · `si`
 
-කථා කිරීමට නියමිතව සිටි මන්ත්‍රීවරුන් සභාගර්භය තුළ නොසිටීම හේතුවෙන් පාර්ලිමේන්තුවේ කටයුතු තාවකාලිකව සවස 4 දක්වා කල්තබා තිබේ.
+Parliamentary activities temporarily halted due to non-speaking MPs.
+
+🟩
+
+The proceedings of Parliament has temporarily postponed the activities of Parliament temporarily due to the non-speaking MPs.
 
 ◼️
 
 [Data](articles/6752a2d3.json)
 
+[Extended Data](ext_articles/6752a2d3.ext.json)
+
 ---
 
-### ඥානසාර හිමිගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කෙරේ
+### Killing humanitarian workers in Gaza;Something that can never be accepted - Australia
+
+*2024-04-02 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/180233) · `ta`
+
+Australia condemns killing of humanitarian workers in Gaza, calling it unacceptable. PM Antony Albanis emphasizes the importance of their work and Australia's commitment to protecting those involved. The Israeli Ambassador is being held accountable.
+
+🟩
+
+The Australian Prime Minister has said that the killing of humanitarian employees of the world, including Australia, including Australia, is completely unacceptable.
+
+They were involved in the most important humanitarian work, he said.
+
+Australia has a firm policy that Antony Albanis has said that protection should be provided to those involved in humanitarian tasks and the public.
+
+The tragedy of the news is that we have asked the Israeli Ambassador to be held accountable for this issue, he said.
+
+◼️
+
+[Data](articles/9d32f7f3.json)
+
+[Extended Data](ext_articles/9d32f7f3.ext.json)
+
+---
+
+### Gnanasara Thera declines bail
 
 *2024-04-02 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195211) · `si`
 
-බරපතළ වැඩසහිත වසර හතරක සිරදඬුවම් නියම වී සිටින පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන් ඇප මත මුදාහරින ලෙස කර තිබූ ඉල්ලීම කොළඹ මහාධිකරණය විසින් ප්‍රතික්ෂේප කළේය.
+Gnanasara Thera's bail request was denied by the Colombo High Court, with Judge Aduri Pandemi sentencing him to four years in prison.
 
-ඥානසාර හිමියන්ට සිරදඬුවම් නියම කළ කොළඹ මහාධිකරණ විනිසුරු ආදිත්‍ය පටබැඳිගේ මහතාම විසින් මෙම තීන්දුව ලබා දුන්නේය.
+🟩
 
-දැනට නියම කර තිබෙන වසර හතරක සිරදඬුවමට එරෙහිව අභියාචනයක් ඉදිරිපත් කර ඇති නිසා විත්තිකාර ඥානසාර හිමියන් ඇපමත මුදාහරින ලෙස ඉල්ලමින් ඔහුගේ නීතිඥවරු විසින් මෙම ඇප ඉල්ලීම අධිකරණයට ඉදිරිපත් කර තිබිණි.
+The Colombo High Court rejected the request of Ven. Galagodaatte Gnanasara Thero was released on bail.
+
+The Colombo High Court Judge Aduri Pandemi gave Gnanasara Thera his sentence.
+
+His lawyers were produced in court, asking for the release of the four-year imprisonment of four years prison.
 
 ◼️
 
 [Data](articles/cd1a8ea9.json)
+
+[Extended Data](ext_articles/cd1a8ea9.ext.json)
+
+---
+
+### Parliamentary session suspended until 4.30pm
+
+*2024-04-02 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98369/parliamentary-session-suspended-until-430pm) · `en`
+
+Parliamentary proceedings have been postponed until 4.30 p.m. today (02) by Deputy Speaker Ajith Rajapakse.
+
+The decision was taken due to the absence of the parliamentarians from both government and opposition sides, who were scheduled to speak during today’s debate.
+
+◼️
+
+[Data](articles/1c856ece.json)
+
+[Extended Data](ext_articles/1c856ece.ext.json)
 
 ---
 
@@ -170,6 +472,36 @@ However, there are no special tax concessions for the importation of the vehicle
 
 ---
 
+### Australia's humanitarian worker killed in Israel's attack in Gaza
+
+*2024-04-02 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180230) · `ta`
+
+Australian humanitarian Lalsawmi Frankom, 43, killed in Gaza by Israel's attack. Family mourns her courage and love. Seven humanitarian workers, including from Australia, Britain, and Palestine, died in the attack. They were transporting 100 tonnes of aid when attacked.
+
+🟩
+
+Her family said that Lalsawmi Frankom, a female humanitarian employee who was killed in Israel's attack in Gaza, was very loved.
+
+The family said that our brave beloved Jomi was very sad to learn that he was killed when he was working on providing food to the people of Gaza.
+
+The family said that she would leave her tradition of courage and love.
+
+The 43 -year -old humanitarian from Melbourne has been interested in providing it with a humanitarian employee all over the world.
+
+Seven humanitarian workers from many countries, including Australia Britain, have been killed in Israel's attack on Gaza.
+
+Humanitarian employees of Puttuid Sariti have been killed in Gaza due to Israel's attack, according to the World Central Kitchen Organization.
+
+Britain, Australia's humanitarian workers from Palestine and the US Canadian -based citizens of Palestine have died in the attack.
+
+...
+
+[Data](articles/fa77807d.json)
+
+[Extended Data](ext_articles/fa77807d.ext.json)
+
+---
+
 ### Allow free sanitary napkin offering
 
 *2024-04-02 13:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலவச-சானிட்டரி-நாப்கின்-வழங்கும்-திட்டத்துக்கு-அனுமதி/175-335506) · `ta`
@@ -239,6 +571,18 @@ With Australia, Poland and Britain;A man with a Canadian dual citizen and a Pale
 [Data](articles/58f4ed4a.json)
 
 [Extended Data](ext_articles/58f4ed4a.ext.json)
+
+---
+
+### පාසල් සිසුවියන්ට නොමිලේ සනීපාරක්ෂක තුවා
+
+*2024-04-02 12:48:57* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුවියන්ට-නොමිලේ-සනීපාරක්ෂක-තුවා/11-408898) · `si`
+
+තෝරගත් ග්‍රාමීය පාසල්වල සහ දරිද්‍රතාවයට මුහුණදෙන සිසුවියන් සඳහා නෙමිලේ සනීපාරක්ෂක තුවා ලබාදීමේ අදාළ වැඩසටහනට කැබිනට් අනුමැතිය ලබාදී ඇත.
+
+◼️
+
+[Data](articles/0efeb017.json)
 
 ---
 
@@ -1758,6 +2102,8 @@ Iran has reported that Brigadier General Mohammed Rasa Jakedy has been killed in
 
 [Data](articles/c191ff2d.json)
 
+[Extended Data](ext_articles/c191ff2d.ext.json)
+
 ---
 
 ### Showers over 75mm
@@ -1875,373 +2221,5 @@ LAUGFS is the only private sector LPG company listed on the Colombo Stock Exchan
 [Data](articles/a74f4c9b.json)
 
 [Extended Data](ext_articles/a74f4c9b.ext.json)
-
----
-
-### Shaping Sri Lanka’s industrial recovery: Industry and Government leaders convene
-
-*2024-04-02 02:01:47* · [`dailyftlk`](https://www.ft.lk/business/Shaping-Sri-Lanka-s-industrial-recovery-Industry-and-Government-leaders-convene/34-760211) · `en`
-
-Presentation of the research documents published by UNIDO to Ministry of Industry Secretary Thilaka Jayasundara by EU Head of Cooperation Dr. Johann Hesse
-
-Discussions about achieving commitment to reduce industry GHG emissions by 7% by 2030
-
-Industries employ 30% of nation’s workforce, contribute second-highest share of GDP, but consume significant fossil fuel imports
-
-Representatives from Sri Lanka’s business community, Government, and the finance sector convened in Colombo to discuss the mix of policies, financial mechanisms and technologies, crucial for propelling the country’s industrial decarbonisation and economic recovery. This event is the second edition of the Industry Dialogue organised by the European Union (EU)-funded Accelerating Industries’ Climate Response in Sri Lanka project.
-
-...
-
-[Data](articles/e2162f5b.json)
-
-[Extended Data](ext_articles/e2162f5b.ext.json)
-
----
-
-### SLMLBC hosts interactive session with High Commissioner-designate to Maldives
-
-*2024-04-02 01:58:54* · [`dailyftlk`](https://www.ft.lk/business/SLMLBC-hosts-interactive-session-with-High-Commissioner-designate-to-Maldives/34-760210) · `en`
-
-The Sri Lanka - Maldives Business Council (SLMLBC) recently hosted an interactive session with High Commissioner Designate to the Maldives Ranga Goonawardena, at the Ceylon Chamber of Commerce.
-
-The session aimed to facilitate dialogue and provide insights into the business landscape of the Maldives. Ranga Goonawardena, in his address, shared information on opportunities for collaboration in several industry sectors. Referring to ongoing discussions between Sri Lanka and the Maldives addressing the investment landscape including investor protection and double taxation, he emphasised that an increasingly investor friendly environment would create enhanced opportunities for bilateral cooperation.
-
-...
-
-[Data](articles/1710fe5d.json)
-
-[Extended Data](ext_articles/1710fe5d.ext.json)
-
----
-
-### SJB renews challenge to NPP for debate on economy
-
-*2024-04-02 01:54:11* · [`dailyftlk`](https://www.ft.lk/news/SJB-renews-challenge-to-NPP-for-debate-on-economy/56-760209) · `en`
-
-SJB MP Harsha de Silva says despite various claims by certain political parties debt once restructured cannot be renegotiated once more
-
-Stresses failure to execute restructuring could result in collapse of the country
-
-SJB MP Nalin Bandara says NPP’s proposals for economy and debt restructuring lack practicality
-
-Questions NPP’s competency in implementing their proposals as it lacks a capable team
-
-The main Opposition party, the Samagi Jana Balawegaya (SJB), re-issued its challenge to the National People’s Power (NPP) for a debate on the economy, proposing a showdown between the two parties’ economic councils.
-
-Addressing a press conference over the weekend, SJB MP Harsha de Silva slammed the NPP for its comments critical of the SJB and said the NPP has avoided the party’s invitation extended by SJB MP Nalin Bandara on seven separate occasions.
-
-...
-
-[Data](articles/410cc575.json)
-
-[Extended Data](ext_articles/410cc575.ext.json)
-
----
-
-### Dismissed SLFP office bearers urge Maithri to reconcile
-
-*2024-04-02 01:53:06* · [`dailyftlk`](https://www.ft.lk/news/Dismissed-SLFP-office-bearers-urge-Maithri-to-reconcile/56-760208) · `en`
-
-Asks Party Chairman Maithripla Sirisena to set all differences aside for party’s sake
-
-SLFP Treasurer Lasantha Alagiyawanna claims Sirisena is being misled by certain party organisers
-
-SLFP National Organiser Duminda Dissanayake says he along with Alagiyawanna and Mahinda Amaraweera moved courts to protect party and not posts
-
-The Colombo District Court issued an order yesterday preventing the Sri Lanka Freedom Party (SLFP) from removing party members Duminda Dissanayake, Lasantha Alagiyawanna, and Mahinda Amaraweera from their positions in the party.
-
-Dissanayake, Alagiy-awanna, and Amaraweera were dismissed from their roles within the party by the SLFP Executive Committee during a meeting held over the weekend.  Accordingly Dissanayake was ousted from his role as National Organiser, while Alagiyawanna and Amaraweera were similarly removed from their positions as Treasurer and Vice President, respectively.
-
-...
-
-[Data](articles/e43805cd.json)
-
-[Extended Data](ext_articles/e43805cd.ext.json)
-
----
-
-### Tax offers will lead to losing LKR 978 billion in fiscal year 2022/23
-
-*2024-04-02 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/180197) · `ta`
-
-In 2022/23, Sri Lanka lost LKR 978 billion due to tax concessions, 56% of total tax revenue. The Ministry of Finance's "Tax Expenditure Report" aims to improve transparency. The government plans to list all tax-exempt companies by March 2023, as part of the IMF project.
-
-🟩
-
-The government said on Sunday (March 31) that the tax concessions were earned by a total of 978 billion rupees in the fiscal year 202/23 (April to March).
-
-This is 56% of the total tax revenue collected by the government by 2022.
-
-It was highlighted by Publicfinance.lk, Sri Lanka's first economic intelligence site, maintained by the research research.
-
-The study was published by the Ministry of Finance of Sri Lanka on March 31, 2024, with a document called "Tax Expenditure Report".
-
-The document indicates the government's estimates of the total income lost due to various special target tax concessions provided by Sri Lanka. The document states its aim to "improve transparency in Sri Lanka's financial statements that seek international better practices."
-
-...
-
-[Data](articles/1556288b.json)
-
-[Extended Data](ext_articles/1556288b.ext.json)
-
----
-
-### Examining Sri Lanka’s New ‘Romeo & Juliet Law’: A Departure From The 1995 Age Of Consent Legislation
-
-*2024-04-02 01:36:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/examining-sri-lankas-new-romeo-juliet-law-a-departure-from-the-1995-age-of-consent-legislation/) · `en`
-
-According to an article by Shamindra Ferdinando published in the Island newspaper on March 25, 2024, Dr. Sudarshini Fernandopulle, MP, raised concerns about the lack of consultation with the Women Parliamentarians’ Caucus before the Justice Ministry gazetted a bill on February 9, 2024. This bill aimed to amend Chapter 19 of the Penal Code, proposing a reduction in the age of consent for sexual intercourse to 14 years. Dr. Fernandopulle emphasized that this provision directly relates to the human rights of children, with a specific focus on girls. She highlighted the profound impact such legislation could have on their lives, including implications for health and individual identity. Therefore, she stressed the importance of a cautious and sensitive approach to safeguard children’s rights and well-being.
-
-...
-
-[Data](articles/a45a6310.json)
-
-[Extended Data](ext_articles/a45a6310.ext.json)
-
----
-
-### Health workers and nurses of the Mannar District General Hospital
-
-*2024-04-02 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180196) · `ta`
-
-Nurses at Mannar District Hospital protested for better pay and uniform allowance, demanding Presidential intervention. They threatened continued protests if demands aren't met, echoing similar demands by 72 unions nationwide.
-
-🟩
-
-The protest was launched at the Mannar District Hospital on Monday (01) in support of all the nurses who have decided to withdraw from the duty for three hours and engage in trade union action.
-
-Nurses working at the Mannar District Hospital
-
-Those involved in the struggle went on a protest demanding a solution to many issues, including the salary and uniform allowance of the nurses.
-
-They said that the President should immediately intervene and resolve the problems of health and nurses, and that if their demands are not resolved, they will continue to carry out protests.
-
-The massive protests launched by 72 unions across the country in the past have been put forward by various demands. The additional allowance provided to doctors in the health sector must be given 35 thousand rupees. The struggle is being carried out in front of a legitimate demand for the supply of 72 union members.
-
-...
-
-[Data](articles/1a40437d.json)
-
-[Extended Data](ext_articles/1a40437d.ext.json)
-
----
-
-### China, SL issue joint statement after PM Gunawardena’s visit
-
-*2024-04-02 01:26:53* · [`dailyftlk`](https://www.ft.lk/news/China-SL-issue-joint-statement-after-PM-Gunawardena-s-visit/56-760205) · `en`
-
-At the invitation of Premier of the State Council of the People’s Republic of China Li Qiang, Prime Minister Dinesh Gunawardena paid an official visit to China and attended the Boao Forum for Asia
-
-During the visit, Prime Minister Dinesh Gunawardena called on People’s Republic of China President Xi Jinping, held talks with Premier Li Qiang, and met with National People’s Congress Standing Committee Chairman Zhao Leji. In a cordial and friendly atmosphere, the two sides had in-depth discussions and reached extensive common understandings on bilateral relations and regional and international issues of mutual interest.
-
-...
-
-[Data](articles/6bd2559c.json)
-
-[Extended Data](ext_articles/6bd2559c.ext.json)
-
----
-
-### 53rd Anniversary of Independence and National Day of Bangladesh observed in Colombo
-
-*2024-04-02 01:25:44* · [`dailyftlk`](https://www.ft.lk/news/53rd-Anniversary-of-Independence-and-National-Day-of-Bangladesh-observed-in-Colombo/56-760204) · `en`
-
-The Bangladesh High Commission in Colombo observed the 53rd Anniversary of Independence and National Day of Bangladesh with due fervour and festivities on 26 March.
-
-The observance commenced at the chancery in the morning with ceremonial hoisting of the National Flag by High Commissioner Tareq Md Ariful Islam, placing of floral wreath at the portrait of the Father of the Nation Bangabandhu Sheikh Mujibur Rahman and observing one-minute silence as a mark of respect to the martyrs of the glorious War of Liberation. Then messages of the President, Prime Minister and Foreign Minister of Bangladesh were read out; a documentary was screened; and special prayers were offered seeking continued peace, progress and prosperity of the nation and eternal peace for the martyrs of the Liberation War, Father of the Nation and his martyred family members and four national leaders.
-
-...
-
-[Data](articles/3e4a4bf1.json)
-
-[Extended Data](ext_articles/3e4a4bf1.ext.json)
-
----
-
-### Many senior directors of the Northern Province Health Service are new appointment
-
-*2024-04-02 01:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180195) · `ta`
-
-The Northern Province Health Service has appointed new senior directors, including Dr. Wee Be Pea S. Tea as Director of Northern Health Services, and Dr. S. Subhaskaran in Vavuniya, among others. These appointments are crucial for the health service's development.
-
-🟩
-
-Recently, interviews were held for senior medical administrators for health services and large hospitals across the country.
-
-As a result, the appointment of vacancies for senior medical administrators across the country was handed over by the Ministry of Health.
-
-In that respect, the following new doctors have been appointed to the vacancies for medical administrators in the Northern Province.
-
-1. Director of Northern Health Services: Wee. Be pea. S.. Tea. The paragraph (dr. D. B.. Ssh. T. They are)
-
-2. Regional Health Services Director, Vavuniya: S. Subhaskaran (Dr. Ssh. Subashkaran)
-
-3. Regional Health Services Director, Mullaitivu: M. S.. Umasankar (Dr. On the. Ssh. Umasankar)
-
-4. Regional Health Services Director, Mannar: Bee. K. Wickremesinghe (Dr. B.. K. Visakram Singke)
-
-5. Regional Health Services Director, Kilinochchi: Tea. Vinodhan (Dr. T. Vinodhan)
-
-6. Servant, District General Hospital, Vavuniya: J. Sukunan (Dr. K. Sukunan)
-
-...
-
-[Data](articles/40d8fb2f.json)
-
-[Extended Data](ext_articles/40d8fb2f.ext.json)
-
----
-
-### Ranil Wickremesinghe
-
-*2024-04-02 01:14:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருத்தமான-தலைவர்-ரணில்-விக்கிரமசிங்க/175-335489) · `ta`
-
-Sehan Semasinghe praises President Ranil Wickremesinghe as the most talented leader to resolve Sri Lanka's economic crisis, despite criticisms.
-
-🟩
-
-State Minister Sehan Semasinghe said that President Ranil Wickremesinghe is the most talented and relevant leader to resolve the economic crisis in the country.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-In relation to the economy, various persons referred to some issues and presented various criticisms. But it has been proven to the people that they are not fair. The leadership of President Ranil Wickremesinghe should be praised to restore the economy.
-
-The progress that has been made so far is President Ranil Wickremesinghe, the most efficient and relevant leader to resolve the economic crisis in the country. Cope with the economic crisis very efficiently. So, his leadership continued to need the country. (A)
-
-◼️
-
-[Data](articles/e8ca68a9.json)
-
-[Extended Data](ext_articles/e8ca68a9.ext.json)
-
----
-
-### Colombo Lions, Westton Lion Corporations in Wellawatte
-
-*2024-04-02 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180194) · `ta`
-
-Colombo Lions and Westane Lion Corporations cleaned Wellawatte Railway Station with help from Lions Club and Municipal Council members.
-
-🟩
-
-The Colombo Lions Corporation and the Westane Lion Corporation jointly carried out the "Siramanam" work on the Wellawatte Railway Station last Sunday morning.
-
-Members of the Lions Club, the Municipal Council, can be used to clean the plastic and debris on the beach.. (Shooting:-S. M.. Surendran)
-
-◼️
-
-[Data](articles/fcf11725.json)
-
-[Extended Data](ext_articles/fcf11725.ext.json)
-
----
-
-### Donate to Gaza Children's Fund
-
-*2024-04-02 01:10:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காஸா-சிறுவர்-நிதியத்திற்கு-நன்கொடை/175-335488) · `ta`
-
-President Ranil Wickremesinghe received a donation from the Gaza Children's Fund, presented by Palestinian Ambassador Dr. Suhaher Hamdallah Zaid, with officials including External Affairs Minister Ali Sabri and President's Secretary Saman Ekanayake present.
-
-🟩
-
-President Ranil Wickremesinghe, headed by President Ranil Wickremesinghe, was handed over to the Palestinian government to the Palestinian government by the United Nations official agency.
-
-The check was officially handed over to President Ranil Wickremesinghe to Palestinian Ambassador to Sri Lanka, Dr. Suhaher Hamdallah Zaid.
-
-External Affairs Minister Ali Sabri, President's Secretary Saman Ekanayake, Secretary to the Ministry of External Affairs Aruni Wijewardena and Palestinian Embassy officials in Sri Lanka were present at the meeting held at the Presidential Office yesterday.. (A)
-
-◼️
-
-[Data](articles/d214ba10.json)
-
-[Extended Data](ext_articles/d214ba10.ext.json)
-
----
-
-### No bus fare correction
-
-*2024-04-02 01:06:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டண-திருத்தம்-இல்லை/175-335487) · `ta`
-
-Gemunu Wijeratne, President of the Private Bus Owners Association, denied the consideration of bus fare correction in the amendment. He mentioned that private buses are operating at a loss and suggested that prices of Lanka Super Diesel must decrease further for buses to be viable.
-
-🟩
-
-Private Bus Owners Association President Gemunu Wijeratne says that it is not currently being considered on the bus fare amendment.
-
-He said this while speaking to the media yesterday. He further stated that
-
-Private buses are running at a loss. He said buses could be used if the prices of Lanka Super Diesel decrease further. (A)
-
-◼️
-
-[Data](articles/d00d924c.json)
-
-[Extended Data](ext_articles/d00d924c.ext.json)
-
----
-
-### Father of 3 children
-
-*2024-04-02 01:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180193) · `ta`
-
-A body found in Muttur-Bahriya, tied with ropes, suspected murder. Abdul Hamid Nabris, 39, father of 3, identified. Autopsy at Trincomalee General Hospital.
-
-🟩
-
-Muttur police said that a body has been recovered on Monday (01) after he died in the Muttur -Bahriya Nagar field in the Muttur police division.
-
-Abdul Hamid Nabris (age 39), the father of three children from Muttur -Bahriya, who was recovered.
-
-Thus the body and legs are tied with ropes and a mud bundle in the wittle. This has led to suspicion that this is a murder.
-
-Subsequently, the body has been sent to the Trincomalee General Hospital for autopsy, after the Muttur Magistrate's Court Judge Dasneem Bausan visited the site and investigated the body.
-
-◼️
-
-[Data](articles/aa33aa20.json)
-
-[Extended Data](ext_articles/aa33aa20.ext.json)
-
----
-
-### 10 hospitals today
-
-*2024-04-02 01:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-வைத்தியசாலைகளில்-இன்று-பணிப்புறக்கணிப்பு/175-335486) · `ta`
-
-The Federation of Health Trade Unions announced a workplace struggle in 10 hospitals across Sri Lanka today, including the Sri Lanka National Hospital, Karapitiya, Jaffna, Batticaloa, Trincomalee, Peradeniya, and General Hospitals in Kegalle, Polonnaruwa, and Mannar Resource Hospital.
-
-🟩
-
-The Federation of Health Trade Unions said that the workplace struggle will be carried out in 10 hospitals across the country today.
-
-At a media briefing held yesterday, Ravi Kumudesh, coordinator of the Federation of Health Trade Unions, made this statement.
-
-Accordingly, the workplace will be carried out in the Sri Lanka National Hospital, Karapitiya, Jaffna, Batticaloa, Trincomalee, Peradeniya and General Hospitals in Kegalle, Polonnaruwa and Mannar Resource Hospital.(a)
-
-◼️
-
-[Data](articles/87007ddb.json)
-
-[Extended Data](ext_articles/87007ddb.ext.json)
-
----
-
-### Local milk powder consumption slowly increasing: Maliban
-
-*2024-04-02 01:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Local-milk-powder-consumption-slowly-increasing-Maliban/108-280007) · `en`
-
-Monthly milk powder consumption dropped from 7000 MT to 3000 MT over last few years
-
-Sri Lanka’s monthly milk powder consumption, which almost halved following the economic crisis, due to the price escalation, is witnessing a slight increase, a senior industry representative said.
-
-The monthly milk powder consumption, which was about 7,000 MT pre-Covid, dropped to about 3,000 MT over the last three years, due to the price increases caused by the increase in the US dollar, an increase in global market milk prices and a hike in government taxes.
-
-However, with the economic conditions slightly improving, over one million households have returned to the market, although the overall consumption remains lower than the pre-COVID levels, Maliban Group Chief Executive Officer Ravi Jayawardena said. He shared his views while addressing a panel discussion hosted by Capital Alliance Limited, which delved into the current trends in consumer spending and post-crisis outlook in Sri Lanka.
-
-...
-
-[Data](articles/1c920500.json)
-
-[Extended Data](ext_articles/1c920500.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 08:05:38**
+As of **2024-04-02 08:17:55**
 
 ## Newspaper Stats
 
@@ -26,73 +26,91 @@ adaderanasinhalalk | 2,672
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,514 (100.0%) of 16,521 articles have been extended.
+16,521 (100.0%) of 16,521 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### තැන තැන සිදුවන ඝාතන
+### The killings in the place
 
 *2024-04-02 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195193) · `si`
 
-ප්‍රදේශ දෙකකින් මනුෂ්‍ය ඝාතන දෙකක් වාර්තා වී ඇති බව පොලීසිය පවසයි.
+Two murders reported in Kalawana and Muttur areas. Suspects tied up, suspected human murder. One victim, 39, from Bhirashi Nagar, left house 30 days ago, had mental illness. Kalawana suspect arrested near Matugama road.
 
-ඊයේ (02) එම ඝාතන සිදුව ඇත්තේ, කලවාන සහ මූතූර් පොලිස් වසම්වලින්ය.
+🟩
 
-මූතුර්, බහිරියා නගර් කලපු ප්‍රදේශයේ දී පුද්ගලයෙකු සැකකටයුතු ලෙස මියගොස් ඇතැයි පොලීසියට තොරතුරක් ලැබී තිබිණි.
+Two murders have been reported from two areas, police said.
 
-එලෙස මියගොස් ඇත්තේ, බහිරියා නගර්, මූතුරු 01 ප්‍රදේශයේ පදිංචිව සිටි 39 හැවිරිදි අයෙකි.
+The murders were taken place yesterday (02) by the Kalawana and Muttur Police Divisions.
 
-මරණකරුගේ දෑත් සහ දෙපා ගැට ගසා දෙඅත්වල වැලි උරයක්ද ගැට ගසා තිබී ඇති අතර මෙය මනුෂ්‍ය ඝාතනයක් බවට පොලීසිය සැකකරයි.
+The police had received suspicion that Mothur was muspicious in the Kalapath area in Kalapatha area.
 
-මෙම පුද්ගලයා පසුගිය 30 වනදා රාත්‍රී කාලයේදී කිසිවෙකුටත් නොදන්වා නිවසින් පිටව ගොස් ඇති බවත් ඔහු මානසික රෝගයකින් පෙළෙන පුද්ගලයෙකු බවටත් අනාවරණය වී ඇති බව වාර්තා වේ.
+The deceased has been identified as a 39 year old resident of the area of Bhirashi Nagar.
 
-ඝාතනය සිදුකළ සැකකරු අත්අඩංගුවට ගැනීම සඳහා මූතුර් පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The arms of the deceased have been tied up and a sand festival of the deceased and the police suspect this is a human murder.
 
-මේ අතර කලවාව - මතුගම මාර්ගයේ නගරය ආසන්නයේදී තියුණු ආයුධයකින් ගෙල කපා පුද්ගලයෙකු ඝාතනය කර තිබේ.
+It has been reported that the man had left the house without knowing the past 30 and he had a mental illness.
 
-ඝාතනය සිදුකළ 37 හැවිරිදි සැකකරු අත්අඩංගුවට ගෙන ඇති අතර සිද්ධිය සම්බන්ධයෙන් කලවාන පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+Mother Police are conducting further investigations to arrest the murder.
+
+Meanwhile, Kalawwawa has been cut off with a sharp weapon near the city of Matugama road.
+
+The 37-year-old suspect was arrested and the Kalawana Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/cba7a605.json)
 
+[Extended Data](ext_articles/cba7a605.ext.json)
+
 ---
 
-### බැංකු සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය අද
+### Bank Amendment Bill Second Reading Debate Today
 
 *2024-04-02 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195192) · `si`
 
-අද (02) බැංකු සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+The Bank Amendment Bill's second reading debate is today. Key rules are highlighted by Chief Minister Ranjith Siyambalapitiya. Other debates include Ground Ports UPFA Act and Exam and Export Control Act regulations. Government Finance and Public Accounts Committees will meet, with the Department of Immigration and Emigration involved.
 
-මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසුවේ, අදාළ පනත් කෙටුම්පතේ බැංකු ක්‍රමය ආරක්ෂා වන වැදගත් නීති රැසක් අන්තර්ගත බවය.
+🟩
 
-මේ අතර කොළඹ වරාය නගර ආර්ථික කොමිෂන් සභා පනත යටතේ වන නියෝග, එකතු කළ අගය මත බදු පනත යටතේ වන නියමනයන් සහ ආනයන හා අපනයන පාලන පනත යටතේ වන රෙගුලාසි ද අද විවාදයට ගැනීමට නියමිතව තිබේ.
+The second reading of the Banking Amendment Bill will be held today, said the Parliament Communication Department said.
 
-මේ අතර අද රජයේ මුදල් පිළිබඳ කාරක සභාව සහ රජයේ ගිණුම් පිළිබඳ කාරක සභාව රැස්වීමට නියමිත අතර රජයේ ගිණුම් පිළිබඳ කාරක සභාව හමුවට ආගමන හා විගමන දෙපාර්තමේන්තුවේ නිලධාරීන් කැඳවා තිබේ.
+Chief Minister Ranjith Siyambalapitiya said the bank system of the Bill of the Bill contains important rules.
+
+Meanwhile, the regulations under the Ground Ports UPFA Act and regulations under the Exam and Export Control Act are due to be debated today.
+
+Meanwhile, the Committee on Government Finance and the Committee on Public Accounts will meet and the Department of Immigration and Emigration have been called for the Committee on Public Accounts.
 
 ◼️
 
 [Data](articles/214d0e5d.json)
 
+[Extended Data](ext_articles/214d0e5d.ext.json)
+
 ---
 
-### සරසවි සිසුවෙක් දුම්රියේ ගැටෙයි
+### University student collins
 
 *2024-04-02 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195191) · `si`
 
-පේරාදෙණිය විශ්වවිද්‍යාලයේ ශ්‍රාස්ත්‍ර පිඨයේ අවසන් වසරේ සිසුවෙක් දුම්රියක ගැටී ජීවිතක්ෂයට පත් තිබේ.
+A 24-year-old university student from Wadduwa, near Peradeniya, was hit by a train yesterday near Kalpalama.
 
-ඊයේ (01) සවස එම අනතුර සිදුව තිබුණේ, පේරාදෙණිය පොලිස් වසමේ පැණිදෙණිය කළුපාලම අසල දුම්රිය මාර්ගයේදීය.
+🟩
 
-පොලීසිය පවසන්නේ, මහනුවර සිට නාවලපිටිය බලා ධාවනය වූ  දුම්රියක මෙම සිසුවා ගැටී ඇති බවය.
+A student of the final year of the Faculty of Faculty of Faculty of the Peradeniya University has been hit by a train.
 
-එසේ මියගොස් ඇත්තේ, තල්පිටිය උතුර, වාද්දූව ප්‍රදේශයේ පදිංචි 24 හැවිරිදි විශ්වවිද්‍යාල සිසුවෙකි.
+The accident had occurred yesterday (01) at the Peradeniya Police Division was at the railway line near Kalpalama.
+
+The student has clashed with a train traveling from Kandy to Nawalapitiya.
+
+The deceased has been identified as a 24 year old university student from Wadduwa, Thalpitiya North, Wadduwa.
 
 ◼️
 
 [Data](articles/117e65bc.json)
+
+[Extended Data](ext_articles/117e65bc.ext.json)
 
 ---
 
@@ -154,21 +172,27 @@ Iran has reported that Brigadier General Mohammed Rasa Jakedy has been killed in
 
 ---
 
-### ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවු වැසි
+### Showers over 75mm
 
 *2024-04-02 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195189) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ, දකුණ, උතුරු-මැද සහ ඌව පළාත්වල අද (02) ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers over 75mm expected in Western, Sabaragamuwa, Central, North Western, Southern, North-Central, and Uva provinces, with heavy rains in Anuradhapura and Moneragala. Thunderstorms may cause lightning accidents.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ දකුණු පළාත්වලත් අනුරාධපුර සහ මොනරාගල දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි. මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+🟩
 
-බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+Today is the Western, Sabaragamuwa, Central, North Western, Southern, North-Central and Uva provinces. Showers or thundershowers will occur at several places, about 2.00.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The department states in the Western, Sabaragamuwa, Central, Central, North Western and Southern provinces, Anuradhapura and Moneragala Districts. Mee. Heavy rains can occur at more than 75.
+
+In some places in the Western, Central, Sabaragamuwa and Uva provinces, in some places, are expected to be fired in the Galle and Matara districts.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/53a2f8b6.json)
+
+[Extended Data](ext_articles/53a2f8b6.ext.json)
 
 ---
 
@@ -354,6 +378,8 @@ According to an article by Shamindra Ferdinando published in the Island newspape
 
 [Data](articles/a45a6310.json)
 
+[Extended Data](ext_articles/a45a6310.ext.json)
+
 ---
 
 ### Health workers and nurses of the Mannar District General Hospital
@@ -468,19 +494,25 @@ Members of the Lions Club, the Municipal Council, can be used to clean the plast
 
 ---
 
-### பஸ் கட்டண திருத்தம் இல்லை
+### No bus fare correction
 
 *2024-04-02 01:06:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டண-திருத்தம்-இல்லை/175-335487) · `ta`
 
-பஸ் கட்டண திருத்தம் தொடர்பில் தற்போது பரிசீலிக்க முடியாது என  தனியார் பஸ் உரிமையாளர்கள் சங்கத்தின் தலைவர் கெமுனு விஜேரத்ன தெரிவித்துள்ளார்.
+Gemunu Wijeratne, President of the Private Bus Owners Association, denied the consideration of bus fare correction in the amendment. He mentioned that private buses are operating at a loss and suggested that prices of Lanka Super Diesel must decrease further for buses to be viable.
 
-இது தொடர்பில் நேற்று ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்துள்ளார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-தனியார் பஸ்கள் நஷ்டத்தில் இயங்கி வருகின்றன. லங்கா சுப்பர் டீசலின் விலைகள் மேலும் குறையும் பட்சத்தில் இதனை பஸ்கள் பயன்படுத்துவதற்கு முடியும் என்றார். (a)
+Private Bus Owners Association President Gemunu Wijeratne says that it is not currently being considered on the bus fare amendment.
+
+He said this while speaking to the media yesterday. He further stated that
+
+Private buses are running at a loss. He said buses could be used if the prices of Lanka Super Diesel decrease further. (A)
 
 ◼️
 
 [Data](articles/d00d924c.json)
+
+[Extended Data](ext_articles/d00d924c.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 05:18:20**
+As of **2024-04-02 05:37:38**
 
 ## Newspaper Stats
 
@@ -490,9 +490,9 @@ A: According to most credible surveys carried out, the main drivers of investmen
 
 *2024-04-01 23:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-exporters-protest-rupee-appreciation-forced-conversion-rules-156862/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s export associations have protested the recent sharp appreciation of the rupee saying forex conversion rules have been forced on them and some costs are not falling in line with the rupee gains, leading to a loss of cost competitiveness.
+ECONOMYNEXT – Sri Lanka’s export associations have protested the recent sharp appreciation of the rupee saying forex conversion rules have been forced on them and some costs are not falling in line with rupee gains, leading to a loss of cost competitiveness.
 
-Sri Lanka’s central bank is operating a de facto pegged exchange rate where the agency’s domestic assets are being reduced against dollar purchases (reversing ‘money printing’), triggering a balance of payments surplus allowing the exchange rate to be appreciated if the agency wishes, analysts have shown.
+Sri Lanka’s central bank is operating a de facto pegged exchange rate where the agency’s domestic assets are being reduced against dollar purchases (reversing ‘money printing’), triggering a balance of payments surplus, allowing the exchange rate to be appreciated if the agency wishes, analysts have shown.
 
 There is however a widespread belief that suspending debt repayments have helped appreciate the rupee, though the financial account turned into a deficit in the last quarter of 2022, just as monetary stability was restored allowing out payments to be made and reserves to be collected.
 

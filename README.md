@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 08:17:55**
+As of **2024-04-02 08:33:48**
 
 ## Newspaper Stats
 
-*Scraped **16,521** Articles*
+*Scraped **16,524** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 909
 islandlk | 924
 adalk | 1,387
 tamilmirrorlk | 1,966
-adaderanalk | 1,984
+adaderanalk | 1,985
 virakesarilk | 2,356
 dailymirrorlk | 2,542
-adaderanasinhalalk | 2,672
+adaderanasinhalalk | 2,674
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,521 (100.0%) of 16,521 articles have been extended.
+16,521 (100.0%) of 16,524 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### මාළු අල්ලන්න ගිය 19 හැවිරිදි තරුණයා මරුට
+
+*2024-04-02 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195195) · `si`
+
+යාපනය පොලිස් වසමේ කොළොම්බුතුරෙයි ප්‍රදේශයේ මුහුදු වෙරළේ ධීවර කටයුතු සඳහා ගිය තරුණයෙක් දියේ ගිලී අතුරුදන්ව තිබේ.
+
+යාපනය පොලීසියට ලද පැමිණිල්ලක් මත විමර්ශන ආරම්භ කර නාවික හමුදා කිමිදුම්කරුවන් විසින් මෘත ශරීරය සොයාගෙන තිබිණි.
+
+එලෙස දියේ ගිලී මියගොස් ඇත්තේ, 19 හැවිරිදි පෙරියකල්ලාරු ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+තරුණයා මුහුදේ මාළු අල්ලමින් සිටිය දී මෙලෙස අනතුරට ලක්ව ඇති බව විමර්ශනයේ දී අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/cb9ce65b.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-04-02 08:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98360/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at several places in Western, Southern, Sabaragamuwa and Uva provinces after 2.00 p.m. with fairly heavy showers above 50 mm likely at some places.
+
+Showers or thundershowers may occur at a few places in North-western and Central provinces and in Mannar and Vavuniya districts in the evening or night.
+
+Misty conditions can be expected at some places in Western, Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/1e7b98ae.json)
+
+---
+
+### සිරියාවේ ඉරාන කොන්සියුලර් කාර්යාලයට ප්‍රහාරයක්
+
+*2024-04-02 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195194) · `si`
+
+සිරියාවේ ඩැමස්කස් අගනුවර ඉරාන කොන්සියුලර් කාර්යාල ගොඩනැගිල්ලට ඊශ්‍රායල ප්‍රහාරයක් එල්ල කිරීමෙන් නිලධාරීන් 7දෙනෙකු මිය ගිය බව ඉරාන විප්ලවවාදී ආරක්ෂක බළකාය පවසයි.
+
+ප්‍රහාරයෙන් ජ්‍යේෂ්ඨ අණදෙන නිලධාරියකු වූ බ්‍රිගේඩියර් ජනරාල් මොහොමඩ් රීසා සහේඩි සහ ඔහුගේ නියෝජ්‍ය නිලධාරි බ්‍රිගේඩියර් ජනරාල් මොහොමඩ් හාඩි හාජි-රහිමි මියගිය අය අතර වන බව වාර්තා වේ.
+
+ඉරාන සහ සිරියාවේ රජයන් ඉරාන තානාපති කාර්යාලයට යාබඳ ගොඩනැගිල්ලට එල්ල කළ ප්‍රහාරය හෙළා දැක තිබේ.
+
+ඊශ්‍රායල හමුදාව ප්‍රකාශ කළේ, විදෙස් මාධ්‍ය වාර්තා සම්බන්ධයෙන් තමන් අදහස් පළ නොකරන බවය.
+
+◼️
+
+[Data](articles/4c7e5851.json)
+
+---
 
 ### The killings in the place
 
@@ -2169,71 +2223,5 @@ A large number of donations have already been funded by the Gaza Children's Fund
 [Data](articles/7bc88800.json)
 
 [Extended Data](ext_articles/7bc88800.ext.json)
-
----
-
-### Babar Azam again as the captain of Pakistan's white ball cricket teams
-
-*2024-04-01 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180146) · `ta`
-
-Babar Azam reappointed as Pakistan's T20 captain, preparing for the ICC R20 World Cup.
-
-🟩
-
-Babar Azam has been re -appointed as the captain of Pakistan's white ball cricket teams as the ICC R20 World Cricket cricket is set to take place this year in the United States and the Caribbean Islands.
-
-Pakistan Cricket Board has re -appointed Pakistan captain of the two -croped overs cricket as it is only 2 months before the ICC Men's T20 World Cup tournament started.
-
-Babar Azam will lead the Pakistan team in the T20 World Cup.
-
-Babar Azam has been re -elected as the captain of the Pakistan Cricket Board.
-
-Pakistan Cricket Board has confirmed on social media that Pakistan Cricket Board Chairman Moshin Naqvi has appointed Babar Azam as the captain of Pakistan's international ODI and international R20 cricket team.
-
-Babar Azam will reopen the team captain of the five -match international T20 cricket series against New Zealand.
-
-The series will be a series of Pakistan and New Zealand to prepare themselves for the World Cup.
-
-...
-
-[Data](articles/7b7949ac.json)
-
-[Extended Data](ext_articles/7b7949ac.ext.json)
-
----
-
-### President appoints Independent Remuneration Committee to review Central Bank pay hike
-
-*2024-04-01 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-appoints-Independent-Remuneration-Committee-to-review-Central-Bank-pay-hike/108-279969) · `en`
-
-Colombo, April 1 (Daily Mirror) - President Ranil Wickremesinghe, in his capacity as the Minister of Finance, Economic Stabilization and National Policies has appointed an Independent Remuneration Committee to review the salary increase of the Central Bank.
-
-The Committee has been appointed based on the recommendation in the report of the Committee on Public Finance (CoPF) on the salary revision of the Central Bank.
-
-The CoPF, in its report recommended that an independent committee be appointed by the Finance Ministry to review the Central Bank salary revisions.
-
-◼️
-
-[Data](articles/1dcbbd98.json)
-
-[Extended Data](ext_articles/1dcbbd98.ext.json)
-
----
-
-### President appoints Independent Remuneration Committee to review Central Bank pay hike
-
-*2024-04-01 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/President-appoints-Independent-Remuneration-Committee-to-review-Central-Bank-pay-hike/155-279969) · `en`
-
-Colombo, April 1 (Daily Mirror) - President Ranil Wickremesinghe, in his capacity as the Minister of Finance, Economic Stabilization and National Policies has appointed an Independent Remuneration Committee to review the salary increase of the Central Bank.
-
-The Committee has been appointed based on the recommendation in the report of the Committee on Public Finance (CoPF) on the salary revision of the Central Bank.
-
-The CoPF, in its report recommended that an independent committee be appointed by the Finance Ministry to review the Central Bank salary revisions.
-
-◼️
-
-[Data](articles/a2fcb066.json)
-
-[Extended Data](ext_articles/a2fcb066.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 00:33:29**
+As of **2024-04-03 00:48:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,712 (99.9%) of 16,723 articles have been extended.
+16,723 (100.0%) of 16,723 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1164,6 +1164,8 @@ Senior Country Economist for the Maldives and Sri Lanka Richard Walker told Econ
 
 [Data](articles/d2deacec.json)
 
+[Extended Data](ext_articles/d2deacec.ext.json)
+
 ---
 
 ### Sri Lanka’s mothers should avoid foreign employment: Minister
@@ -1185,6 +1187,8 @@ However, Kumarasinghe was adamant that Sri Lankan ‘culture’ dictated that wo
 ...
 
 [Data](articles/8933b051.json)
+
+[Extended Data](ext_articles/8933b051.ext.json)
 
 ---
 
@@ -1251,6 +1255,8 @@ A bond maturing on 01.07.2032 closed at 12.50/75 percent. (Colombo/Apr2/2024)
 ◼️
 
 [Data](articles/1ca3d7f1.json)
+
+[Extended Data](ext_articles/1ca3d7f1.ext.json)
 
 ---
 
@@ -1366,6 +1372,8 @@ The anti-graft body in the past has investigated into the allegations of bribery
 
 [Data](articles/d4001ebf.json)
 
+[Extended Data](ext_articles/d4001ebf.ext.json)
+
 ---
 
 ### Parliament approves VAT increase from 15% to 18%
@@ -1403,6 +1411,8 @@ Airbus A330-200s will be leased from ORIX and Airbus A330-300s will be leased fr
 ◼️
 
 [Data](articles/194fa033.json)
+
+[Extended Data](ext_articles/194fa033.ext.json)
 
 ---
 
@@ -1568,6 +1578,8 @@ There was a net foreign inflow of 71 million. (Colombo/Apr2/2024)
 
 [Data](articles/9937a68a.json)
 
+[Extended Data](ext_articles/9937a68a.ext.json)
+
 ---
 
 ### Yall. A house in the east of Arali burned in fire
@@ -1709,6 +1721,8 @@ Providing modern transportation facilities for an accelerated development in the
 ...
 
 [Data](articles/15c77163.json)
+
+[Extended Data](ext_articles/15c77163.ext.json)
 
 ---
 
@@ -2055,6 +2069,8 @@ The BIA Development Project Phase II, State 2 involves the construction of a mai
 ◼️
 
 [Data](articles/9bf616b7.json)
+
+[Extended Data](ext_articles/9bf616b7.ext.json)
 
 ---
 

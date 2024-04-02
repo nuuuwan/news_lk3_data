@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 18:10:11**
+As of **2024-04-02 18:21:57**
 
 ## Newspaper Stats
 
@@ -26,61 +26,81 @@ adaderanasinhalalk | 2,698
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,655 (100.0%) of 16,662 articles have been extended.
+16,662 (100.0%) of 16,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### வற்வரி திருத்தச் சட்டமூலம் 36 மேலதி வாக்குகளால் நிறைவேற்றம்
+### The Film Amendment Bill is passed by 36 votes
 
 *2024-04-02 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180271) · `ta`
 
-15 வீதமாகவுள்ள வற் வரியை 18 வீதமாக அதிகரிக்கும் சேர் பெறுமதி வரி சட்டத்தின் கீழான கட்டளை 36 மேலதிக வாக்குகளினால் நிறைவேற்றப்பட்டது.
+The Film Amendment Bill and Value Tax Act increase passed with 36 votes. Lakshman Kiriella voted in favor.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (2) சேர் பெறுமதி வரி சட்டத்தின் கீழான கட்டளையை நிறைவேற்ற எதிர்க்கட்சி பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல வாக்கெடுப்பைக்கோரினார்.
+🟩
 
-இதனையடுத்து இடம்பெற்ற இலத்திரனியல் முறையிலான வாக்கெடுப்பில் சேர் பெறுமதி வரி சட்டத்தின் கீழான கட்டளைக்கு ஆதரவாக 55 வாக்குகளும் எதிராக 19 வாக்குகளும் அளிக்கப்பட்ட நிலையிலேயே 36 மேலதிக வாக்குகளினால் நிறைவேற்றப்பட்டது.
+Under the Value Tax Act, which will increase the 15 percent tax to 18 percent, the order was passed by 36 additional votes.
+
+On Tuesday (2) in Parliament, Lakshman Kiriella, the Opposition's Prime Minister, made a vote of voting to pass the order under the Value Tax Act.
+
+Subsequently, in the electronic vote, 55 votes were cast in favor of the order under the Value Tax Act and 19 votes were passed by 36 additional votes.
 
 ◼️
 
 [Data](articles/cc857322.json)
 
+[Extended Data](ext_articles/cc857322.ext.json)
+
 ---
 
-### பொருளாதாரம் உறுதியாக இருந்தாலும் இலங்கையில் வறுமைநிலை உயர்வாகவே காணப்படுகின்றது - உலக வங்கி
+### Although the economy is firm, poverty in Sri Lanka is high - the World Bank
 
 *2024-04-02 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180270) · `ta`
 
-இலங்கையின் பொருளாதாரம் மீண்டெழும் பாதையில் பயணித்தாலும் ஏழைகள் மற்றும் பாதிக்கப்பட்ட நிலையில் வாழும் மக்களின் பொருளாதார நெருக்கடிகள் ஏற்படுத்திய தாக்கத்தினை தணிப்பதற்கான உறுதியான முயற்சிகள் முக்கியமானவை இதனுடன் காத்திரமான நம்பகமான கட்டமைப்புசார் நடவடிக்கைகளுக்கான வழிமுறைகளும் முன்னெடுக்கப்பட வேண்டுமென மாலைதீவு, நேபாளம், இலங்கை ஆகிய நாடுகளுக்கான உலக வங்கியின் பணிப்பாளர் பாரிஸ் ஹடாட்ட ரெஸோஸ் தெரிவித்தார்.
+Despite Sri Lanka's economic recovery, high poverty and income inequality persist. The World Bank predicts 2.2% growth in 2024, but warns of challenges like high poverty levels and industrial market concerns. Poverty has risen for four years, with 25.9% of Sri Lankans living below the poverty line by 2023. The report highlights the need for state-owned financial stability and private sector investments to address future opportunities and the impact of the crisis.
 
-இதேவேளை, இது இரு விதமான உபாயமுறைகளைக் கொண்டுள்ளதாகவும் முதலாவதாக  பேரினப் பொருளியல் உறுதித் தன்மைக்கு பங்களிப்புச் செய்கின்ற மறுசீரமைப்புக்களை  பேணுதல். இரண்டாவது, தனியார் முதலீடுகளை தூண்டக்கூடிய மற்றும் முலீட்டு உள் வருகையை தூண்டக்கூடிய மறுசீரமைப்புக்களை துரிதப்படுத்தல், இவை பொருளாதார வளர்ச்சி மற்றும் வறுமையை குறைத்தல் ஆகியவற்றிற்கு முக்கியமாகும் என்றும் குறிப்பிட்டுள்ளார்.
+🟩
+
+The Director of the World Bank of Maldives, Nepal and Sri Lanka, Paris Hatta Resos, said that despite the travelers on the road to the economy of Sri Lanka, the impact of the impact of the impact of the poor and the affected people.
+
+At the same time, it has two types of subordinates and first maintains the restructuring that contributes to the economy's stability.. Second, he noted that acceleration of the reorganization of private investments and stimulating the internal influx, which is important for economic growth and reducing poverty.
+
+He said that inflation is declining in Sri Lanka, the new state policy policies are in the backdrop, and the first excess of practice has increased in the first five decades, and the money laundering has increased and the tourism industry has revived.
 
 ...
 
 [Data](articles/da29fb03.json)
 
+[Extended Data](ext_articles/da29fb03.ext.json)
+
 ---
 
-### துருக்கிய  உள்ளூராட்சித் தேர்தல்களில் எதிர்க்கட்சி அபார வெற்றி
+### Opposition victory in Turkish local elections
 
 *2024-04-02 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180269) · `ta`
 
-இத்தேர்தல்களில் எதிர்ககட்சியான குடியரசு மக்களின் கட்சி (சி.எச்.பி.) அதிக உள்ளூராட்சி சபைகளை கைப்பற்றியுள்ளது.
+The Republican People's Party (CHP) won more local councils in Turkish elections, with President Taip Ardhuan's AKP holding 24. The Kurdish party and Yenidane Refa captured 10 and 2 congregations, respectively. CHP mayors were elected in major cities like Istanbul and Ankara. This is AKP's worst defeat since 2002, partly due to a 67% inflation rise.
 
-81 மாகாண தலைநகரங்களில் 35 சபைகளை எதிர்கட்சியான சி.எச்.பி. வென்றுள்ளது. 24 சபைகளில் மாத்திரம் ஜனாதிபதி தையீப் அர்துவானின் ஏ.கே.பி. கட்சி வென்றுள்ளது.
+🟩
 
-குர்திஷ் கட்சியான டீ.ஈ.எம். 10 சபைகளையும் இஸ்லாமியக் கட்சியான யேனிடேன் ரெஃபா 2 சபைகளையும் கைப்பற்றியுள்ளன.
+In these elections, the opposition party, the Republican People's Party (CHP), has seized more local councils.
 
-துருக்கியின் மிகப் பெரிய நகரான இஸ்தான்புல், தலைநகர் அங்காரா, அடானா, புர்ஸா, அன்டால்யா நகரங்கிளலும் சி.எச்.பி. கட்சியின் மேயர்கள் தெரிவாகியுள்ளனர்.
+Opposition CHP in 81 provincial capitals. Has won. In 24 congregations only President Taip Ardhuan's AKP. The party has won.
 
-2002 ஆம் அண்டு அர்துவானின் ஏ.கே.பி. கட்சி அதிகாரத்துக்கு வந்த பின்னர் அக்கட்சி அடைந்த மிக மோசமான தோல்வி இதுவாகும்.
+Kurdish party. 10 congregations and Islamic Party, Yenidane Refa, has captured 2 congregations.
 
-பணவீக்கம் 67 சதவீதமாக அதிகரித்துள்ளமை இத் தேர்தல் பெறுபேறுகளுக்கு ஒரு பிரதான காரணம் எனக் கருதப்படுகிறது.
+Turkey's largest city, Istanbul, capital Ankara, Adana, Burza, Antalya City and CHP. The mayors of the party have been elected.
+
+AKP of Ardhuan in 2002. This is the worst defeat that the party reached after the party came to power.
+
+The rise in inflation to 67 percent is considered a main reason for the election results.
 
 ◼️
 
 [Data](articles/f061cb53.json)
+
+[Extended Data](ext_articles/f061cb53.ext.json)
 
 ---
 
@@ -98,23 +118,33 @@ Meanwhile, the Second Reading of the Banking (Amendment) Bill was followed by th
 
 [Data](articles/69daea67.json)
 
+[Extended Data](ext_articles/69daea67.ext.json)
+
 ---
 
-### கார்த்திகை பூ விவகாரம் ; மனிதவுரிமை ஆணைக்குழுவில் முறைப்பாடு
+### Karthika flower affair;Complaint at the Human Rights Commission
 
 *2024-04-02 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180254) · `ta`
 
-பாடசாலை மட்ட நிகழ்வுகளில் பொலிஸாரினதும் அரச புலனாய்வாளரினதும் இராணுவத்தினரின் தலையீடுகள் குறித்து இலங்கை மனிதவுரிமை ஆணைக்குழுவிடம் ஆசிரியர் சங்கம் முறைப்பாடு செய்துள்ளது.
+The Teachers Association has filed a complaint with the Sri Lanka Human Rights Commission, accusing the police and state investigators of interfering with school events. The complaint, lodged at the Jaffna Regional Office, concerns the Tellippalai Union College's Home Audit Competition, which they claim violates basic human rights by inviting students and teachers to scrutinize student decorations. The association demands the commission's intervention against the Tellippal police's alleged oppression of school activities.
 
-மனிதவுரிமை ஆணைக்குழுவின் யாழ். பிராந்திய அலுவலகத்தில் இன்று செவ்வாய்க்கிழமை , பிராந்திய இணைப்பாளர் த. கனகராஜிடம் முறைப்பாட்டை கையளித்துள்ளனர்.
+🟩
 
-கடந்த வாரம் நடைபெற்ற தெல்லிப்பழை யூனியன் கல்லூரியின் இல்ல மெய்வன்மை போட்டியின், இல்ல அலங்காரங்களில் மாணவர்களின் வெளிப்பாடுகள் தொடர்பாக, தெல்லிப்பழைப் பிரிவு பொலிஸார் மாணவர்களையும் ஆசிரியர்களையும் விசாரணைக்கு அழைத்தமையும், விசாரணைக்கு உட்படுத்தியமையும் அடிப்படை மனித உரிமைகளை மீறுகின்ற நடவடிக்கையாகும்.
+The Teachers Association has lodged a complaint with the Sri Lanka Human Rights Commission on the interventions of the police and the state investigators at the school level events.
 
-இலங்கை அரசியலமைப்பின் சட்ட வரையறைக்குட்பட்டு கருத்தியல் ரீதியாகவும் கலை ரீதியாகவும் - குறியீட்டு வடிவங்கள் மூலமாகவும் பாடசாலை மட்ட இல்ல விளையாட்டு போட்டி அலங்காரங்களில் மாணவர்களின் பாடசாலை மட்ட வெளிப்பாடுகள், இலங்கை அரசியலமைப்பில் ஏற்று அங்கீகரிக்கப்பட்டுள்ள அடிப்படை மனித உரிமைகள் தொடர்பான சிந்தனை மற்றும் மனச்சாட்சி சுதந்திரத்துக்கு உட்பட்டதாகும்.
+Human Rights Commission's Jaffna. Tuesday, Regional Coordinator at the Regional Office. They have lodged a complaint with Kanakaraj.
+
+The Tellippalai Union College's Home Audit Competition, held last week, is a violation of the basic human rights that the Tellippalai police have invited students and teachers to investigate and investigate the manifestations of students in home decorations.
+
+Students' school level expressions in the school -level sports competition are subject to the freedom of thinking and conscience of the Sri Lankan Constitution.
+
+Investigations with the threats of Tellipal police, which do not respect such freedoms, are the violation of basic human rights and the oppression of the school administration.
 
 ...
 
 [Data](articles/864c18d1.json)
+
+[Extended Data](ext_articles/864c18d1.ext.json)
 
 ---
 
@@ -144,17 +174,23 @@ Batting first, Sri Lanka scored 531 runs for the loss of all of the people.
 
 ---
 
-### வடக்கு, கிழக்கில் பொருளாதார நெருக்கடியின் பின்னரான நுண்நிதிச் செயற்பாடுகளும் பெண்களும்
+### Microscopic activities and women after the economic crisis in the North and East
 
 *2024-04-02 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180245) · `ta`
 
-இலங்கையில் தற்போது நிலவும் பொருளாதார நெருக்கடியின் சுமைகள் ஒவ்வொரு குடும்பங்கள் மற்றும் பெண்களின் மீதும் சுமத்தப்பட்டுள்ளன. இந்த சூழ்நிலையில் கடனைப் பெறுவது பெண்கள் தமது நிதி தேவையை சமாளிக்கும் ஒரு வழியாக இருக்கின்றது. இது மேலும் அவர்கள் சுரண்டப்படுவதற்கும், உடமையிழப்பிற்கு ஆளாவதற்கும் வழிவகுக்கின்றது.
+In Sri Lanka, the economic crisis burdens families and women, leading to increased microfinance activities and debt. Women in rural areas participate in weekly savings groups, aiming to secure emergency loans, but face high-interest debt. The government's lack of relief and the financialization of rural economies exacerbate the crisis, exploiting women's labor and possessions.
 
-யுத்தத்திற்குப் பின்னரான வடக்கு மற்றும் கிழக்கில் நுண்கடன் ஒரு முக்கிய பிரச்சனையாக பரிணாமித்தது. 2018ல் நுண்கடன் நிறுவனங்களின் செயற்பாடுகளை குறைக்க சில முயற்சிகள் மேற்கொள்ளப்பட்டன. கோவிட் காலத்தில் கடன் மீளச்செலுத்தும் கால அவகாசங்களும் நீடிக்கப்பட்டது. எனினும், தற்போதைய பொருளாதார நெருக்கடியின் தாக்கத்தினால் நுண்நிதிக் கடன்கள் மற்றும் குடும்பக் கடன்கள்; அதிகரிப்பதை மீண்டும் அவதானிக்க முடிகின்றது. அன்று நுண்கடன் நிதிநிறுவனங்களுக்கு எதிராக முன்னெடுக்கப்பட்ட முயற்சிகள் தற்காலிக தீர்வையே கொடுத்திருந்தது. தற்போது நாம் எதிர்கொண்டிருக்கும் பொருளாதார நெருக்கடியுடன் ஏற்பட்டுள்ள நீண்டகால தாக்கம் வித்தியாசமானதும் புதிரானதுமான சூழலை உருவாக்கியுள்ளது.
+🟩
+
+The burden of the current economic crisis in Sri Lanka is imposed on every families and women. Getting loans in this situation is a way of dealing with their financial needs. This also leads to their exploitation and dismay.
+
+Evolved into a major problem with follicle in the post -war north and east. In 2018, some attempts were made to reduce the activities of companies. Debt Returns and Loan Time. However, microfinance and family loans due to the impact of the current economic crisis;Can re -observe the increase. Attempts against the financial institutions on that day provided a temporary solution. The long -standing impact of the economic crisis we are currently facing has created a different and intriguing environment.
 
 ...
 
 [Data](articles/bb588b11.json)
+
+[Extended Data](ext_articles/bb588b11.ext.json)
 
 ---
 
@@ -218,21 +254,27 @@ Sathosa's steps have also been taken to sell an egg at a retail price.
 
 ---
 
-### பிலிப்பைன்ஸில் வெப்பநிலை அதிகரிப்பினால் பாடசாலைகள் மூடப்பட்டன
+### Schools closed due to temperature increase in the Philippines
 
 *2024-04-02 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180259) · `ta`
 
-தலைநகர் மணிலாவிலுள்ள டசின் கணக்கான பாடசாலைகள் உட்பட நூற்றுக்கணக்கான பாடசாலைகளில் நேரபடி வகுப்புகள் இடைநிறுத்தப்பட்டுள்ளன  கல்வி அதிகாரிகள் இன்று தெரிவித்துள்ளனர்.
+Schools in the Philippines, including Manila, are closed due to a temperature increase. Tomorrow's expected temperature in Manila is 43°C, surpassing the record of 38.6°C set on May 17, 1915. Schools in Luzon, Buppin, Luson, and Diwana Mindanova have also been suspended or reduced to school time.
 
-மணிலாவில் நாளை புதன்கிழமை 43 பாகை செல்சியஸ் வெப்பநிலை நிலவும் என எதிர்பார்க்கப்படுகிறது.
+🟩
 
-இன்று செவ்வாய்க்கழமை 35.7 பாகை செல்சியஸ் வெப்பநிலை பதிவாகியது. அங்கு 1915 மே 17 ஆம் திகதி 38.6 பாகை செல்சியஸ் வெப்பநிலை பதிவாகியமையே சாதனையாக உள்ளது.
+Hundreds of schools, including tens of schools in the capital, Manila, have been suspended.
 
-புpலிப்பைன்ஸின் பிரதான தீவான லுஸோன், தென் பகுதி தீவானா மின்டானோவா ஆகியவற்றில் பாடசாலைகளில் நேரடி வகுப்புகள் இடைநிறுத்தப்பட்டுள்ளதாக அல்லது பாடசாலை நேரம் குறைக்கப்பட்டுள்ளதாக அந்நாட்டின் கல்வி அமைச்சு தெரிவித்துள்ளது.
+The temperature is expected to occur at 43 degrees Celsius tomorrow in Manila.
+
+Today's Temperature recorded 35.7 degrees Celsius. There, the record of 38.6 degrees Celsius was recorded on May 17, 1915.
+
+Luzon, the main island of the Buppin, Luson and Diwana Mindanova, have been suspended in schools in schools or have been reduced to school time, the Ministry of Education said.
 
 ◼️
 
 [Data](articles/835dfaca.json)
+
+[Extended Data](ext_articles/835dfaca.ext.json)
 
 ---
 

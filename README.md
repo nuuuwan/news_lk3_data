@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 06:57:03**
+As of **2024-04-02 07:17:51**
 
 ## Newspaper Stats
 
-*Scraped **16,509** Articles*
+*Scraped **16,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,85 @@ islandlk | 924
 adalk | 1,387
 tamilmirrorlk | 1,965
 adaderanalk | 1,984
-virakesarilk | 2,355
-dailymirrorlk | 2,537
+virakesarilk | 2,356
+dailymirrorlk | 2,542
 adaderanasinhalalk | 2,668
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,497 (99.9%) of 16,509 articles have been extended.
+16,506 (99.9%) of 16,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### Sri Lanka unaware of ship carrying toxic wastes from the US
+
+*2024-04-02 06:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-unaware-of-ship-carrying-toxic-wastes-from-the-US/155-280010) · `en`
+
+Colombo, April 2 (Daily Mirror) - Sri Lanka is not yet aware of the nature of hazardous materials in the Singapore cargo ship Dali chartered by Maersk, which crashed into the Baltimore, US bridge on March 26, carrying 764 tons of hazardous materials as reported by the US media, an official said.
+
+According to information available, there are 57 containers with such toxic materials that can be categorized under the International Maritime Dangerous Goods Code.
+
+The waste included mostly corrosives, flammables, miscellaneous hazardous materials, and Class-9 hazardous materials, including explosives & lithium-ion batteries – in 56 containers. So says the US National Transportation Safety Board, still ‘analyzing the ship’s manifest to determine what was onboard’ in its other 4,644 containers.
+
+...
+
+[Data](articles/ab80ec44.json)
+
+---
+
+### Katchatheevu Island a done deal, India has no intention to reverse agreement
+
+*2024-04-02 06:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Katchatheevu-Island-a-done-deal-India-has-no-intention-to-reverse-agreement/108-280009) · `en`
+
+Colombo, April 2 (Daily Mirror) - India has no intention to reverse the agreement that ceded the Katchatheevu Island to Sri Lanka despite the political debate in India that is primarily meant for domestic consumption in view of the upcoming Lok Sabha elections, Daily Mirror learns.
+
+Indian Prime Minister Narendra Modi on Monday targeted the DMK over the Katchatheevu island issue, alleging the ruling party of Tamil Nadu did nothing to safeguard the state's interests. New details emerging on the issue of India handing over the Katchatheevu island to Sri Lanka have unmasked the DMK's double standards totally, he said on X.
+
+It is apparent that the current Indian ruling Bharatiya Janata Party (BJP) is not in favour of the position taken by the then Indian National Congress government. However, the agreement has now been signed, and an informed source said the current debate in India has nothing to do with Sri Lanka.
+
+...
+
+[Data](articles/12782ee4.json)
+
+---
+
+### சிரியாவில் ஈரானின் துணைதூதரகம் மீது இஸ்ரேல் தாக்குதல் - ஈரான் இராணுவத்தின் உயர் அதிகாரிகள்  பலி
+
+*2024-04-02 06:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/180199) · `ta`
+
+சிரியாவில் உள்ள ஈரானிய துணை தூதரகம் ஒன்றின் மீது  இஸ்ரேல் மேற்கொண்ட தாக்குதலில் ஈரான் இராணுவத்தின் உயர் அதிகாரிகள்  உட்பட ஏழுபேர் கொல்லப்பட்டுள்ளனர்
+
+சிரிய தலைநகர் டமஸ்கசிற்கு மேற்கே உள்ள பகுதியொன்றில் கட்டிடமொன்று முற்றாக தரைமட்டமான நிலையில் காணப்படுவதை காண்பிக்கும் புகைப்படங்களும் வீடியோக்களும் வெளியாகியுள்ளன.
+
+பிரிகேடியர் ஜெனரல் முகமட் ரேசா ஜகேடி இஸ்ரேலின் தாக்குதலிற்கு பலியாகியுள்ளார் என  ஈரான் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/0ae1a68e.json)
+
+---
+
+### Exporters call for urgent action on rupee appreciation
+
+*2024-04-02 03:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Exporters-call-for-urgent-action-on-rupee-appreciation/108-280008) · `en`
+
+Say stronger rupee means goods become more expensive for international buyers
+
+Point out timing of rupee’s appreciation coincides with weak global demand
+
+Five leading export associations have called on the authorities to tackle the pressing challenges posed by the Sri Lankan rupee’s appreciation against the US dollar.
+
+They also highlighted the additional hurdles, including the restrictions on foreign currency movement between commercial banks and compulsory conversion of export earnings into local currency.
+
+...
+
+[Data](articles/87f35fc5.json)
+
+---
 
 ### Minister clarifies CPC fuel costs amid price revision
 
@@ -320,19 +386,43 @@ Subsequently, the body has been sent to the Trincomalee General Hospital for aut
 
 ---
 
-### 10 வைத்தியசாலைகளில் இன்று பணிப்புறக்கணிப்பு
+### 10 hospitals today
 
 *2024-04-02 01:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-வைத்தியசாலைகளில்-இன்று-பணிப்புறக்கணிப்பு/175-335486) · `ta`
 
-நாடளாவிய ரீதியில் 10 வைத்தியசாலைகளில் இன்று பணிப்புறக்கணிப்பு போராட்டம் முன்னெடுக்கப்படவுள்ளதாக சுகாதார தொழிற்சங்கங்களின் கூட்டமைப்பு தெரிவித்துள்ளது.
+The Federation of Health Trade Unions announced a workplace struggle in 10 hospitals across Sri Lanka today, including the Sri Lanka National Hospital, Karapitiya, Jaffna, Batticaloa, Trincomalee, Peradeniya, and General Hospitals in Kegalle, Polonnaruwa, and Mannar Resource Hospital.
 
-நேற்று இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில், சுகாதார தொழிற்சங்கங்களின் கூட்டமைப்பின் ஒருங்கிணைப்பாளர் ரவி குமுதேஷ் இதனைத் தெரிவித்திருந்தார்.
+🟩
 
-அதன்படி, இலங்கை தேசிய வைத்தியசாலை, கராபிட்டிய, யாழ்ப்பாணம், மட்டக்களப்பு, திருகோணமலை, பேராதனை ஆகிய போதனா வைத்தியசாலைகள், கேகாலை, பொலன்னறுவை ஆகிய பொது வைத்தியசாலைகள் மற்றும் மன்னார் ஆதார வைத்தியசாலை என்பவற்றில் இந்தப் பணிப்புறக்கணிப்பு போராட்டம் முன்னெடுக்கப்படும் என அவர் குறிப்பிட்டுள்ளார்.  (a)
+The Federation of Health Trade Unions said that the workplace struggle will be carried out in 10 hospitals across the country today.
+
+At a media briefing held yesterday, Ravi Kumudesh, coordinator of the Federation of Health Trade Unions, made this statement.
+
+Accordingly, the workplace will be carried out in the Sri Lanka National Hospital, Karapitiya, Jaffna, Batticaloa, Trincomalee, Peradeniya and General Hospitals in Kegalle, Polonnaruwa and Mannar Resource Hospital.(a)
 
 ◼️
 
 [Data](articles/87007ddb.json)
+
+[Extended Data](ext_articles/87007ddb.ext.json)
+
+---
+
+### Local milk powder consumption slowly increasing: Maliban
+
+*2024-04-02 01:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Local-milk-powder-consumption-slowly-increasing-Maliban/108-280007) · `en`
+
+Monthly milk powder consumption dropped from 7000 MT to 3000 MT over last few years
+
+Sri Lanka’s monthly milk powder consumption, which almost halved following the economic crisis, due to the price escalation, is witnessing a slight increase, a senior industry representative said.
+
+The monthly milk powder consumption, which was about 7,000 MT pre-Covid, dropped to about 3,000 MT over the last three years, due to the price increases caused by the increase in the US dollar, an increase in global market milk prices and a hike in government taxes.
+
+However, with the economic conditions slightly improving, over one million households have returned to the market, although the overall consumption remains lower than the pre-COVID levels, Maliban Group Chief Executive Officer Ravi Jayawardena said. He shared his views while addressing a panel discussion hosted by Capital Alliance Limited, which delved into the current trends in consumer spending and post-crisis outlook in Sri Lanka.
+
+...
+
+[Data](articles/1c920500.json)
 
 ---
 
@@ -415,6 +505,26 @@ The given graphs extracted from ADB and IMF reports reiterate Breuer’s point t
 [Data](articles/f1cb2e37.json)
 
 [Extended Data](ext_articles/f1cb2e37.ext.json)
+
+---
+
+### Laugfs Gas announces massive price drop in domestic LPG
+
+*2024-04-02 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Laugfs-Gas-announces-massive-price-drop-in-domestic-LPG/108-280003) · `en`
+
+Laugfs Gas PLC yesterday announced a substantial reduction in the prices of its Laugfs-branded domestic liquefied petroleum gas (LPG), effective midnight.
+
+As of today, the price of a 12.5kg domestic cylinder, under the Laugfs brand, will be reduced by Rs.625, to an MRP of Rs.4,115, within the Colombo district.
+
+The prices in the other areas and pack sizes will be adjusted accordingly.
+
+“This significant price revision comes as a testament to several positive developments and factors contributing to the favourable economic climate,” Laugfs Gas said in a statement.
+
+It went on to acknowledge the supportive government policies, including the appreciating value of the Sri Lankan rupees against the US dollar, reduction in interest rates and availability of ample foreign exchange, facilitating the opening of letters of credit.
+
+...
+
+[Data](articles/d7879ac1.json)
 
 ---
 
@@ -578,6 +688,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/9c097700.json)
 
+[Extended Data](ext_articles/9c097700.ext.json)
+
 ---
 
 ### Positioning the idea of Sri Lankan English in the field of English language teaching in Sri Lanka
@@ -587,6 +699,8 @@ Save my name, email, and website in this browser for the next time I comment.
 ...
 
 [Data](articles/20395578.json)
+
+[Extended Data](ext_articles/20395578.ext.json)
 
 ---
 
@@ -650,6 +764,8 @@ Proficient in External Attack Surface Management (EASM), CTM360 features cloud-b
 
 [Data](articles/e5ab2308.json)
 
+[Extended Data](ext_articles/e5ab2308.ext.json)
+
 ---
 
 ### Silverlake Symmetri and Just In Time Group host successful forum on Sri Lanka’s banking future
@@ -661,6 +777,8 @@ Silverlake Symmetri, in collaboration with Just In Time Group, recently conclude
 ...
 
 [Data](articles/d1cde532.json)
+
+[Extended Data](ext_articles/d1cde532.ext.json)
 
 ---
 
@@ -675,6 +793,8 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 ...
 
 [Data](articles/93ef0a09.json)
+
+[Extended Data](ext_articles/93ef0a09.ext.json)
 
 ---
 
@@ -875,6 +995,8 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/70e8e7df.json)
+
+[Extended Data](ext_articles/70e8e7df.ext.json)
 
 ---
 
@@ -2075,135 +2197,5 @@ Senior Sabri, Foreign Ava, Samun Ekanayake and the Chairman of the Palestinian E
 [Data](articles/10555bc7.json)
 
 [Extended Data](ext_articles/10555bc7.ext.json)
-
----
-
-### What happened to the local government election?
-
-*2024-04-01 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195177) · `si`
-
-Four petitions against local gov't polls on March 9 were returned to the Supreme Court by the United Nations Force, National Zealous Forces, CPA, and PAFFRAL. The Elections Commission failed to follow local gov't election camp provisions, leading to an economic crisis.
-
-🟩
-
-Four petitions filed against the delegation of the local government polls for March 9 last year have been taken back to the Supreme Court.
-
-These petitions were presented by the United Nations Force, National Zealous Forces, CPA and PAFFRAL.
-
-These petitions were taken back to the president of Chief Justice Jayantha Jayasuriya, a five-member Supreme Court judge.
-
-Additional Solicitor General, who appeared for the Attorney General, said that the country had a large economic crisis in the country and had a large economic crisis in the country.
-
-Additional Solicitor General said that the Elections Commission was also informed of the local election.
-
-The Elections Commission did not follow the provision of the local government election camps and demanding the necessary money to hold the elections in the event of a poll.
-
-◼️
-
-[Data](articles/bb681f76.json)
-
-[Extended Data](ext_articles/bb681f76.ext.json)
-
----
-
-### Thai Airways resumes daily flights between Bangkok and Colombo
-
-*2024-04-01 15:58:00* · [`economynextcom`](https://economynext.com/thai-airways-resumes-daily-flights-between-bangkok-and-colombo-156824/) · `en`
-
-ECONOMYNEXT – The first Thai Airways flight arrived at the Bandaranaike International Airport this morning after operations resumed between Sri Lanka and Thailand.
-
-Thailand’s Thai Airways resumed daily flights to Colombo from April 01, state-run Airport and Aviation Services, which runs the Indian Ocean island’s airports said.
-
-Thai Ambassador to Sri Lanka Paitoon Mahapannaporn, Minister of Ports, Shipping and Aviation Nimal Siripala de Silva and senior officials of Airports and Aviation Services were present on the occasion.
-
-Sri Lanka has seen an uptick in tourist arrivals, and seeks to boost regional tourism further.
-
-Sri Lanka and Thailand signed a free trade agreement which will allow the two countries to benefit from potential trade and investment that is largely untapped at the moment.
-
-A new bilateral air services agreement was also signed, and Sri Lanka and Thailand are considering visa free travel to strengthen economic links between the two countries. (Colombo/Apr1/2024)
-
-◼️
-
-[Data](articles/d709f3df.json)
-
-[Extended Data](ext_articles/d709f3df.ext.json)
-
----
-
-### Sri Lanka president took on task of stabilising economy, must now restructure debt: Patali
-
-*2024-04-01 15:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-took-on-task-of-stabilising-economy-must-now-restructure-debt-patali-156821/) · `en`
-
-ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe’s claim that he alone took on the responsibility of stabilising the economy is valid, according to opposition MP Patali Champika Ranawaka who said the president now faces the challenge of restructuring external debt by June.
-
-“[President Wickremesinghe] said ‘I have a bigger responsibility than holding elections. I have the responsibility of restructuring the country’s debt and stabilising the economy’. Now he has a challenge facing him. Domestic debt was restructured last year. He now has the challenge of restructuring external debt before June,” Ranawaka said speaking at an event on Sunday March 31.
-
-...
-
-[Data](articles/f9219cdd.json)
-
-[Extended Data](ext_articles/f9219cdd.ext.json)
-
----
-
-### Laughs gas prices down
-
-*2024-04-01 15:56:41* · [`adalk`](https://www.ada.lk/breaking_news/ලාෆ්ස්-ගෑස්-මිලද-පහළට/11-408884) · `si`
-
-LAUGFS gas prices in LA have been reduced from midnight today.
-
-🟩
-
-From midnight today, LAUGFS gas has been reduced.
-
-◼️
-
-[Data](articles/af531131.json)
-
-[Extended Data](ext_articles/af531131.ext.json)
-
----
-
-### Lap gas price reduction
-
-*2024-04-01 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/180154) · `ta`
-
-Lap gas prices reduced from midnight Monday. 12.5 kg cylinder now 4,115 rupees, 5 kg cylinder now 1,652 rupees.
-
-🟩
-
-Prices of Lap Cooking gas will be reduced from midnight on Monday (01), Lap Company said.
-
-Accordingly, the price of the cooking gas cylinder, which is 12.5 kg, will be reduced by 625 rupees and its new price is 4,115 rupees.
-
-The price of 5 kg of cooking gas cylinder will be reduced by 248 rupees and its new price is 1,652 rupees.
-
-◼️
-
-[Data](articles/1fe7ce3f.json)
-
-[Extended Data](ext_articles/1fe7ce3f.ext.json)
-
----
-
-### Cheats in imports of vehicles for foreign workers
-
-*2024-04-01 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195176) · `si`
-
-Dr. Harsha de Silva, Chairman of the Parliamentary Committee on Finance, revealed corruption in the import of vehicles for foreign workers. A customs investigation found 9 out of 154 vehicles imported illegally, including a BMW from Germany. Despite the evidence, customs officials claimed ignorance, prompting a call for law changes.
-
-🟩
-
-The Chairman of the Parliamentary Committee on Finance Committee, Dr. Harsha de Silva says that many corrupt practices have occurred when most of the electrical vehicles for foreign workers.
-
-The Chairman made this statement on the Parliamentary Committee report on government currency.
-
-Chairman of the Parliamentary Committee on Finance Dr. Harsha de Silva ...
-
-...
-
-[Data](articles/817a5b04.json)
-
-[Extended Data](ext_articles/817a5b04.ext.json)
 
 ---

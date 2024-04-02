@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 09:03:14**
+As of **2024-04-02 09:18:03**
 
 ## Newspaper Stats
 
-*Scraped **16,530** Articles*
+*Scraped **16,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 909
 islandlk | 924
 adalk | 1,388
 tamilmirrorlk | 1,968
-adaderanalk | 1,986
+adaderanalk | 1,987
 virakesarilk | 2,356
 dailymirrorlk | 2,542
 adaderanasinhalalk | 2,675
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,675
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,526 (100.0%) of 16,530 articles have been extended.
+16,530 (100.0%) of 16,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### Sri Lankan minister says no word from India on Katchatheevu
+
+*2024-04-02 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98363/sri-lankan-minister-says-no-word-from-india-on-katchatheevu) · `en`
+
+India has not sent any official communication yet on the Katchatheevu island issue, a senior Sri Lanka minister told The Indian Express on Monday even as the BJP scaled up its attack on the Congress, accusing it and the DMK of giving away the island, and the party’s Tamil Nadu unit chief K Annamalai claiming that the Centre is taking all possible measures to reclaim the territory.
+
+“As far as Sri Lanka is concerned, Katchatheevu island falls within the Sri Lankan line of control. Narendra Modi’s foreign policy with Sri Lanka is organic and healthy. So far, there has not been an official communication from India to return the powers of Katchatheevu island. No such request from India so far. If there is such a communication, the foreign ministry will reply to that,” Jeevan Thondaman, a minister in President Ranil Wickremesinghe’s Cabinet, told The Indian Express.
+
+...
+
+[Data](articles/b0b0191b.json)
+
+---
 
 ### A NOTIFICI OF ADDIT
 
@@ -320,25 +334,33 @@ They also highlighted the additional hurdles, including the restrictions on fore
 
 ---
 
-### 'මේ පොත හදන්න වර්ග කිලෝමීටර් 2.5ක් තරමේ ටොෆි, චොක්ලට් කොළ ඕනා'
+### 2.5 square kilometers to build this book tofox, chocolate leaves.
 
 *2024-04-02 02:03:35* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gj0zz3en0o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''මේ ඩයරියේ පිටකවරය තුළ තියෙන්නේ මගේම හිසකෙස්''
+Nassara Ratnayake, an eco-friendly business owner in Katana, West Kalvaratipuwawa, is highlighted for her recycling efforts, despite not focusing on the value of recycling. She and her father run an eco-friendly business. M. Jayantha Kumarasiri emphasizes the importance of artistic and time-sensitive design, aiming to change the BBC Sinhala service's attitude towards recycling.
 
-'මේ පොත හදන්න වර්ග කිලෝමීටර් 2.5ක් තරමේ ටොෆි, චොක්ලට් කොළ ඕනා'
+🟩
 
-ප්‍රතිචක්‍රීකරණය (Recycling) ගැන අවදානය යොමුව තිබුණ ද ඒවාට අගය එකතු කර නව නිෂ්පාදනයක් (Upcycling) කිරීම  ගැන වැඩි අවධානයක් ශ්‍රී ලංකාවේ යොමුව නැති බව නේෂා රත්නායක පවසන්නීය.
+None contains none of this.
 
-කටාන, බටහිර කළුවාරිප්පුව ප්‍රදේශයේ ජීවත්වෙන ඇය සිය පියා සමග එක්ව එවැනි පරිසර හිතකාමී ව්‍යාපාරයක් පවත්වාගෙන යනු ලැබේ.
+2.5 square kilometers to build this book tofox, chocolate leaves.
 
-''අප්සයිකල් වලදී රීසයිකල් වලට වඩා කලාත්මක, කාලයක් පවතින නිර්මාණයක් අපිට කරන්න පුළුවන්. ඒ වගේම විශාල සමාජයේ ආකල්ප වෙනසක් ඇති කරන්න පුළුවන්'' යනුවෙන් ඇය BBC සිංහල සේවයට පැවසුවාය.
+Nassara Ratnayake is said to have no attention to the reference to the value of the recycling, but it is not more intent to add value to the new product.
 
-පාසල් සිසුන්, සරසවි සිසුන් සහ පරිසරය කෙරෙහි උනන්දුවක් දක්වන පිරිස් දැනටමත් ඉවතලන දේ ඔවුන්ට බාර දෙති.
+She lives in Katana, in the West Kalvaratipuwawa, and maintains such an eco-friendly business with his father.
 
-...
+"At US, we can do an artistic and time design more than Recipel. And the attitude of the majority can change the BBC Sinhala service.
+
+People who are interested in school children, university students and the environment are already assigned to them what they discard.
+
+"This is the leftover of his medicine in his medicine. How beautiful are the hearts of these people who are not burdensome?We need to make this attitude change. To make this book, 2.5 square kilometers need to add the chocolate leaves. ". M. Jayantha Kumarasiri told BBC Sinhala.
+
+◼️
 
 [Data](articles/54328c11.json)
+
+[Extended Data](ext_articles/54328c11.ext.json)
 
 ---
 
@@ -600,21 +622,27 @@ In that respect, the following new doctors have been appointed to the vacancies 
 
 ---
 
-### ’பொருத்தமான தலைவர் ரணில் விக்கிரமசிங்க’
+### Ranil Wickremesinghe
 
 *2024-04-02 01:14:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருத்தமான-தலைவர்-ரணில்-விக்கிரமசிங்க/175-335489) · `ta`
 
-நாட்டில் ஏற்பட்டுள்ள பொருளாதார நெருக்கடியைத் தீர்ப்பதற்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க மிகவும் திறமையான மற்றும் பொருத்தமான தலைவர் என்பதை இதுவரை அடைந்துள்ள முன்னேற்றம் உறுதிப்படுத்துகிறது என இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+Sehan Semasinghe praises President Ranil Wickremesinghe as the most talented leader to resolve Sri Lanka's economic crisis, despite criticisms.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-பொருளாதாரம் தொடர்பாக, பல்வேறு நபர்கள் சில விடயங்களை குறிப்பிட்டு, பல்வேறு விமர்சனங்களை முன்வைத்தனர். ஆனால் அவைகள் நியாயமானவைகள் அல்ல என்பது நாட்டு மக்களுக்கு நிரூபிக்கப்பட்டுள்ளது. பொருளாதாரத்தை மீட்டெடுக்க ஜனாதிபதி ரணில் விக்கிரமசிங்க வழங்கிய தலைமைத்துவத்தைப் பாராட்ட வேண்டும்.
+State Minister Sehan Semasinghe said that President Ranil Wickremesinghe is the most talented and relevant leader to resolve the economic crisis in the country.
 
-நாட்டில் ஏற்பட்டுள்ள பொருளாதார நெருக்கடியைத் தீர்ப்பதற்கு மிகவும் திறமையான மற்றும் பொருத்தமான தலைவர் ஜனாதிபதி ரணில் விக்கிரமசிங்க என்பதை இதுவரை அடைந்துள்ள முன்னேற்றம் உறுதிப்படுத்துகிறது. பொருளாதார நெருக்கடியை மிகவும் திறமையாக சமாளித்தார். எனவே, அவரது தலைமை தொடர்ந்தும் நாட்டுக்குத் தேவை என்றார். (a)
+He said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+In relation to the economy, various persons referred to some issues and presented various criticisms. But it has been proven to the people that they are not fair. The leadership of President Ranil Wickremesinghe should be praised to restore the economy.
+
+The progress that has been made so far is President Ranil Wickremesinghe, the most efficient and relevant leader to resolve the economic crisis in the country. Cope with the economic crisis very efficiently. So, his leadership continued to need the country. (A)
 
 ◼️
 
 [Data](articles/e8ca68a9.json)
+
+[Extended Data](ext_articles/e8ca68a9.ext.json)
 
 ---
 
@@ -638,19 +666,25 @@ Members of the Lions Club, the Municipal Council, can be used to clean the plast
 
 ---
 
-### காஸா சிறுவர் நிதியத்திற்கு நன்கொடை
+### Donate to Gaza Children's Fund
 
 *2024-04-02 01:10:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காஸா-சிறுவர்-நிதியத்திற்கு-நன்கொடை/175-335488) · `ta`
 
-காஸா பகுதியில் இடம்பெறும் மோதல்களினால் பாதிக்கப்பட்ட சிறுவர்களுக்காக இலங்கை அரசாங்கத்தின் ஒரு மில்லியன் அமெரிக்க டொலர் நன்கொடையை ஐக்கிய நாடுகள் சபையின் உத்தியோகபூர்வ முகவர் நிறுவனத்தின் ஊடாக பாலஸ்தீன அரசாங்கத்திடம் கையளிக்கும் நிகழ்வு நேற்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+President Ranil Wickremesinghe received a donation from the Gaza Children's Fund, presented by Palestinian Ambassador Dr. Suhaher Hamdallah Zaid, with officials including External Affairs Minister Ali Sabri and President's Secretary Saman Ekanayake present.
 
-இதற்கான காசோலை ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் இலங்கைக்கான பலஸ்தீன தூதுவர் கலாநிதி சுஹேர் ஹம்தல்லாஹ் ஸைதிடம் உத்தியோகபூர்வமாக கையளிக்கப்பட்டது.
+🟩
 
-ஜனாதிபதி அலுவலகத்தில் நேற்று நடைபெற்ற காசோலை கையளிக்கும் நிகழ்வில், வெளிவிவகார அமைச்சர் ஜனாதிபதி சட்டத்தரணி அலி சப்ரி, ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க, வெளிவிவகார அமைச்சின் செயலாளர் அருணி விஜேவர்தன மற்றும் இலங்கைக்கான பலஸ்தீன தூதரக சிரேஷ்ட அதிகாரிகள் உள்ளிட்டோர் கலந்துகொண்டனர். (a)
+President Ranil Wickremesinghe, headed by President Ranil Wickremesinghe, was handed over to the Palestinian government to the Palestinian government by the United Nations official agency.
+
+The check was officially handed over to President Ranil Wickremesinghe to Palestinian Ambassador to Sri Lanka, Dr. Suhaher Hamdallah Zaid.
+
+External Affairs Minister Ali Sabri, President's Secretary Saman Ekanayake, Secretary to the Ministry of External Affairs Aruni Wijewardena and Palestinian Embassy officials in Sri Lanka were present at the meeting held at the Presidential Office yesterday.. (A)
 
 ◼️
 
 [Data](articles/d214ba10.json)
+
+[Extended Data](ext_articles/d214ba10.ext.json)
 
 ---
 
@@ -1530,21 +1564,27 @@ The case was brought by Pakistan’s anticorruption agency, which accused Khan a
 
 ---
 
-### මහ බැංකුවේ වැටුප් වැඩිවීම සමාලෝචනයට ජනපතිගෙන් ස්වාධීන පාරිශ්‍රමික කමිටුවක්
+### President appoints independent review to review the increase in salary increases
 
 *2024-04-01 19:07:34* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකුවේ-වැටුප්-වැඩිවීම-සමාලෝචනයට-ජනපතිගෙන්-ස්වාධීන-පාරිශ්‍රමික-කමිටුවක්/11-408890) · `si`
 
-රජයේ මුදල් පිළිබඳ කාරක සභාවේ නිර්දේශ මත පදනම්ව ශ්‍රී ලංකා මහ බැංකුවේ වැටුප් වැඩිවීම සමාලෝචනය කිරීම සඳහා මුදල් ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යවරයා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ස්වාධීන පාරිශ්‍රමික කමිටුවක් පත් කර තිබේ.
+President Ranil Wickremesinghe appointed an independent review to assess salary increases, based on the Committee's recommendations. The committee, including Dinesh Stewen Weerakkody and others, will consider the Central Bank's letter dated 2024-03-16, aiming for a fair solution for the Central Bank's independence and staff grades.
 
-රජයේ මුදල් කාරක සභාව හා ශ්‍රී ලංකා මහ බැංකුව අතර සිදු වූ සියලු ලිපි ගණුදෙනු මත පදනම්ව,  ශ්‍රී ලංකා මහ බැංකුවේ ස්වාධීනත්වයට හානියක් නොවන පරිදි ගැටළුවට සාධාරණ විසඳුමක් සහිතව සහ ශ්‍රී ලංකා මහ බැංකුවේ 2024-2026
+🟩
 
-වැටුප් සංශෝධනය ශීර්ෂය සහිත 2024-03-16 දිනැති ශ්‍රී ලංකා මහ බැංකුවේ ලිපියට විශේෂ අවධානයක් යොමු කරමින් සාකච්ඡාවට තුඩු දී ඇති වැටුප් වැඩි කිරීම සලකා බැලීම සඳහා මුදල් අමාත්‍යවරයා ලෙස ජනාධිපතිවරයා විසින් මෙම කමිටුව පත් කර තිබේ.
+Based on the recommendations of the Committee of the Committee of the Committee, President Ranil Wickremesinghe has appointed an independent remuneration as the Minister of Economic Standing and National Policies.
 
-දිනේෂ් ස්ටීවන් වීරක්කොඩි, අර්ජුන හේරත්, ආචාර්ය ඉන්ද්‍රජිත් කුමාරස්වාමි, සුධර්මා කරුණාරත්න, ඇන්තනී නිහාල් ෆොන්සේකා, අනුෂ්ක එස්. විජේසිංහ, දුමින්ද හුලංගමුව යන මහත්ම මහත්මීන් මෙම කමිටුවේ සාමාජිකයන් ලෙස පත් කර ඇත.
+Government Finance Committee and the Central Bank of Sri Lanka is based on a fair solution to the Central Bank's independence and the Central Bank of Sri Lanka 2024-2026
+
+The committee has been appointed as the Minister of Finance to considering the wage minister of the Sri Lanka's letter to the Central Bank of Sri Lanka with special attention to the letter of the Sri Lanka's letter dated 2024-03-16.
+
+Dinesh Stewen Weerakkody, Arjuna Herath, Dr. Indrajith Kumaraswamy, Sudhirma Karunaratne, Anthony Nihal Fonseka.Mrs. Wijesinghe, Duminda Hulangamuwa have been appointed as members of the committee.
 
 ...
 
 [Data](articles/b6428f80.json)
+
+[Extended Data](ext_articles/b6428f80.ext.json)
 
 ---
 
@@ -2187,25 +2227,5 @@ Accordingly, the Sri Lankan team is leading 455 runs than Bangladesh.
 [Data](articles/4503bc95.json)
 
 [Extended Data](ext_articles/4503bc95.ext.json)
-
----
-
-### Sri Lanka rupee closes at 300.00/06 to the US dollar
-
-*2024-04-01 17:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-300-00-06-to-the-us-dollar-156832/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 300.00/06 to the US dollar in the spot forex market on Monday, stronger from 300.40/50 on Thursday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed stable at 11.30/40 percent.
-
-A bond maturing on 15.09.2027 closed at 11.90/12.05 percent from 11.90/95 percent.
-
-A bond maturing on 15.12.2028 closed stable at 12.10/20 percent. (Colombo/Apr1/2024)
-
-◼️
-
-[Data](articles/b1ada02c.json)
-
-[Extended Data](ext_articles/b1ada02c.ext.json)
 
 ---

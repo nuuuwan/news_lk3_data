@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 10:51:03**
+As of **2024-04-02 11:03:06**
 
 ## Newspaper Stats
 
-*Scraped **16,551** Articles*
+*Scraped **16,557** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,126 @@ newsfirstlk | 363
 dailyftlk | 895
 economynextcom | 909
 islandlk | 924
-adalk | 1,390
-tamilmirrorlk | 1,972
+adalk | 1,391
+tamilmirrorlk | 1,973
 adaderanalk | 1,990
 virakesarilk | 2,361
-dailymirrorlk | 2,543
-adaderanasinhalalk | 2,679
+dailymirrorlk | 2,544
+adaderanasinhalalk | 2,682
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,546 (100.0%) of 16,551 articles have been extended.
+16,551 (100.0%) of 16,557 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### බංග්ලාදේශයට ලැබුණු ඉලක්කය
+
+*2024-04-02 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195202) · `si`
+
+ශ්‍රී ලංකා - බංග්ලාදේශ දෙවැනි ටෙස්ට් තරගයේ සිව් වැනි දිනය අදයි.
+
+මීට සුළු මොහොතකට පෙර ශ්‍රී ලංකා කණ්ඩායම සිය දෙවැනි ඉනිම අත්හිටුවීය.
+
+ඒ වනවිට ශ්‍රී ලංකා කණ්ඩායම කඩුලු 7ක් දැවී ලකුණු 157ක් ලබාගෙන සිටියේය.
+
+ඒ අනුව මෙම තරගය ජය ගැනීම සඳහා බංග්ලාදේශ කණ්ඩායම ලකුණු 511ක් ලබාගත යුතුය.
+
+ශ්‍රී ලංකා දෙවැනි ඉනිම වෙනුවෙන් ඇන්ජලෝ මැතිව්ස් ලකුණු 56ක් ලබාගත්තේය.
+
+තරගයේ පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම ලකුණු 531ක් ලබාගත් අතර බංග්ලාදේශ කණ්ඩායම සිය පළමු ඉනිම සඳහා රැස්කළේ ලකුණු 178ක් පමණි.
+
+◼️
+
+[Data](articles/1430706d.json)
+
+---
+
+### අල්ලස් කොමිෂන් සභාවට නව අධ්‍යක්ෂවරයෙක්
+
+*2024-04-02 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195203) · `si`
+
+අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ අධ්‍යක්ෂ ජනරාල්වරයා ලෙස ඩබ්ලිව්.කේ.ඩී. විජේරත්න මහතා පත්කර තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් එම පත්කිරීම සිදුකර ඇති බව ජනාධිපති මාධ්‍ය අංශය පැවසුවේය.
+
+නව දූෂණ විරෝධී පනතේ විධිවිධානවලට අනුව ජනාධිපතිවරයා විසින් මෙම පත්කිරීම සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/709d7312.json)
+
+---
+
+### லாஃப்ஸ் எரிவாயு சடுதியாக விலைகுறைப்பு
+
+*2024-04-02 10:46:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லாஃப்ஸ்-எரிவாயு-சடுதியாக-விலைகுறைப்பு/175-335495) · `ta`
+
+லாஃப்ஸ் எரிவாயு பிஎல்சி நேற்று நள்ளிரவு முதல் அதன் லாஃப்ஸ் உள்நாட்டு திரவமாக்கப்பட்ட பெட்ரோலிய எரிவாயுவின் (எல்பிஜி) விலைகளைக் கணிசமாக குறைத்துள்ளது.
+
+இன்றைய நிலவரப்படி, கொழும்பு மாவட்டத்தில் லாஃப்ஸ் வர்த்தக நாமத்தின் கீழ் 12.5 கிலோகிராம் உள்நாட்டு சிலிண்டரின் விலை ரூ.625 ஆல் குறைக்கப்பட்டு, ரூ.4,115 ஆக விற்கப்படும்.
+
+"இந்த குறிப்பிடத்தக்க விலை திருத்தம் பல சாதகமான முன்னேற்றங்கள் மற்றும் சாதகமான பொருளாதார சூழலுக்கு பங்களிக்கும் காரணிகளுக்கு ஒரு சான்றாக வருகிறது" என்று லாஃப்ஸ் கேஸ் ஒரு அறிக்கையில் தெரிவித்துள்ளது.
+
+அமெரிக்க டொலருக்கு நிகரான இலங்கை ரூபாவின் பெறுமதி அதிகரிப்பு, வட்டி விகிதங்கள் குறைப்பு மற்றும் ஏராளமான அந்நியச் செலாவணி கிடைப்பது, கடன் பெற திறப்பதற்கு வசதியாக இருப்பது உள்ளிட்ட அரசாங்கக் கொள்கைகளுக்கு அது ஆதரவாகவுள்ளது.
+
+◼️
+
+[Data](articles/dd8d49e3.json)
+
+---
+
+### Central Environment Authority investigating into ship carrying toxic wastes from US: Minister
+
+*2024-04-02 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Environment-Authority-investigating-into-ship-carrying-toxic-wastes-from-US-Minister/108-280018) · `en`
+
+Parliament, April 2 (Daily Mirror)- The Central Environment Authority (CEA) has launched a comprehensive investigation into the incident where a Singapore cargo ship was carrying hazardous materials to Sri Lanka from the US, State Minister of Environment Janaka Wakkumbura said today.
+
+He told Parliament that the CEA was unaware that the cargo ship carrying hazardous materials was heading to Sri Lanka.
+
+The Minister said this while responding to a question raised by Opposition Leader Sajith Premadasa, who asked the government's reaction to the media reports on the Singapore cargo ship Dali chartered by Maersk, which crashed onto the Baltimore, US bridge on March 26, carrying 764 tons of hazardous materials.
+
+The Opposition Leader said a proper investigation should be conducted as to how such a cargo ship carrying hazardous materials was heading to Sri Lanka without the knowledge of the country.
+
+...
+
+[Data](articles/0d100f26.json)
+
+---
+
+### තියුණු ආයුධයකින් පහරදී දෙදරු පියෙකු මරුට
+
+*2024-04-02 10:39:12* · [`adalk`](https://www.ada.lk/breaking_news/තියුණු-ආයුධයකින්-පහරදී-දෙදරු-පියෙකු-මරුට/11-408895) · `si`
+
+කලවාන නගරයේ පෞද්ගලික වාහන සේවා ආයතනයක් අසලදී ඊයේ  01දා  තියුණු ආයුධයකින් පහරදී  පුද්ගලයකු  ඝාතනය කර ඇති බව කලවාන පොලිසිය පැවසීය.
+
+මෙලෙස මියගොස් ඇත්තේ කලවාන ගොණගලකන්ද ප්‍රදේශයේ පදිංචි රාජිත ජයසූරිය නැමැති (54) හැවැරිදි  විවාහක දෙදරු පියෙකු  බව කලවාන පොලිසිය පැවසීය.  පුද්ගලයකු සමග ඇති වූ බහින් බස් වීමකින් අනතුරුව තියුණු ආයුධයකින් පහර දී ඔහු එම ස්ථානයේ ඝාතනය කර ඇති බව කලවාන පොලිසිය පැවසීය. රෝහල වෙත ඇතුළත් කරන විටත් ඔහු මියගොස් සිටි බව රෝහල් ප්‍රකාශකයකු පැවසීය. මෙම ඝාතනය සම්බන්ධයෙන් සැකපිට පුද්ගලයකු කලවාන පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/40feb31f.json)
+
+---
+
+### චන්දිමාල් හදිසියේ ම නැවත පැමිණෙයි
+
+*2024-04-02 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195201) · `si`
+
+මේ වනවිට පැවැත්වෙන ශ්‍රී ලංකා - බංග්ලාදේශ දෙවැනි ටෙස්ට් තරගයට සහභාගී වෙමින් සිටි දිනේෂ් චන්දිමාල් වහාම ක්‍රියාත්මක වන පරිදි එම තරගයෙන් ඉවත්වී තිබේ.
+
+ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනයක් නිකුත් කරමින් පවසන්නේ, "ඔහුගේ පවුලේ වෛද්‍යමය හදිසි තත්ත්වයක්" හේතුවෙන් ඔහු එම තීරණය ගෙන ඇති බවය.
+
+දිනේෂ් චන්දිමාල් හැකි ඉක්මනින් මෙරටට පැමිණීමට නියමිත බව ද ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිකුත් කළ නිවේදනයේ දැක්වේ.
+
+◼️
+
+[Data](articles/4e1bbf69.json)
+
+---
 
 ### Consideration of petitions challenging IGP Tennakoon’s appointment begins today
 
@@ -48,23 +152,33 @@ The petitioners allege that Tennakoon had neglected his duties during his tenure
 
 [Data](articles/bf18627f.json)
 
+[Extended Data](ext_articles/bf18627f.ext.json)
+
 ---
 
-### அம்பன் பகுதியில் சட்டவிரோதமாக மணல் அகழ்வில் ஈடுபட்டபோது கைது செய்யப்பட்ட 6 பேரும் பிணையில் விடுவிப்பு!
+### Six persons arrested for illegal sand excavation in Amban area
 
 *2024-04-02 10:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180207) · `ta`
 
-கடந்த மாதம் 24 ஆம் திகதி மணல் அகழ்வில் ஈடுபட்டுக் கொண்டிருந்தபோது சிறப்பு அதிரடி படையினரால் கைப்பற்றப்பட்ட ஆறு உழவு இயந்திரங்களும், கைது செய்யப்பட்டவர்களும் நேற்று திங்கட்கிழமை தலா ஒருலட்சம் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+Six individuals arrested for illegal sand excavation in Amban were released on bail after their case was filed at the Point Pedro Court. The plowing machines were released on the 22nd. The drivers celebrated their release, causing shock among locals.
 
-24 ஆம் திகதி சிறப்பு அதிரடி படையினரால் ஆறு உழவு இயந்திரங்களுடன் , ஆறு சாரதிகளும் கைது செய்யப்பட்டு மருதங்கேணி பொலிஸாரிடம் ஒப்படைக்கப்பட்டிருந்த நிலையிலே அன்றைய தினமே மருதங்கேணி பொலிசாரால் பொலிஸ் பிணையில் விடுவிக்கப்பட்டிருந்தனர்.
+🟩
 
-இந்நிலையில் நேற்று திங்கட்கிழமை (01) பருத்தித்துறை நீதிமன்றில் வழக்கு இடம் பெற்றவேளை தலா ஒருலட்சம் பிணையில் செல்வதற்கு அனுமதிக்கப்பட்டதுடன்  உழவு இயந்திரங்களில் இருந்த மணல்மண் நீதிமன்றின் பொறுப்பில் எடுக்கப்பட்டு உழவு இயந்திரங்கள் விடுவிக்கப்பட்டுள்ளதுடன் எதிர்வரும் 22 ஆம் திகதி வழக்கிற்கு தவணையிடப்பட்டுள்ளது.
+Six plowing machines and arrested persons seized by Special Task Force soldiers were released on bail yesterday.
 
-இந்நிலையில் விடுவிக்கப்பட்ட உழவு இயந்திர சாரதிகள் தமது மகிழ்ச்சியை வெளிப்படுத்துவதற்காக குடத்தனை அம்பன் ஊர் எல்லை பகுதியிலிருந்து  அம்பன் கிழக்கிலுள்ள ஒவ்வொருவரது வீட்டு வாசல்களிலும் வெடிகளை கொழுத்துயுள்ளனர்.
+On the 24th, on the 24th, the six plowing machines and six drivers were arrested and handed over to the Maruthankeni police.
 
-...
+In this case, the case was filed at the Point Pedro Court yesterday (01) and was allowed to go on bail each and the plowing machines were released on the 22nd of this month.
+
+In this case, the liberated plowing drivers have exploded on the doorstep of everyone in the east of Amban, from the Kudana Amban town border to express their happiness.
+
+The boys of the area are alert and the people are shocked to understand what is happening.
+
+◼️
 
 [Data](articles/107b953d.json)
+
+[Extended Data](ext_articles/107b953d.ext.json)
 
 ---
 
@@ -94,23 +208,31 @@ Dally, the cargo carrier collapsed on March 26, and a group of workers in the br
 
 ---
 
-### ஷெங்கன் வலயத்தில்  ருமேனியா, பல்கேரியா பகுதியளவில் இணைந்தன
+### Romania and Bulgaria partially joined the Shengan Zone
 
 *2024-04-02 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180206) · `ta`
 
-ஐரோப்பாவின் ஷெங்கன் விசா வலயத்தில் ருமேனியாவும் பல்கேரியாவும் நேற்று முன்தினம் முதல்  இன்று முதல்  பகுதியளவில் இணைந்துள்ளன. இதன் மூலம் இவ்விரு நாடுகளுக்கும் ஏனைய ஷெங்கன் வலய நாடுகளுக்கும் இடையில்  கடல் மற்றும் வான் வழியாக விஷா சோதனைகளின்றி பயணம் செய்ய முடியும்.
+Romania and Bulgaria joined the Shengen Zone, allowing visa-free travel between them and other Shengen countries by sea and air. Despite joining the EU in 2007, their Shengen application was initially rejected in 2011 but later supported by the European Council. Criticisms of inadequate measures against crime and illegal settlements persist.
 
-ருமேனியாவும் பல்கேரியாவும் 2007 ஆம் ஆண்டு ஐரோப்பிய ஒன்றியத்தில் இணைந்தன. எனினும், விசா கட்டுப்பாடுகள் அற்ற ஷெங்கன் வலயத்தில் இணைவதற்கு இந்நாடுகள் நீண்டகாலம் காத்திருக்க வேண்டியிருந்தது.
+🟩
 
-இந்நாடுகளின் ஷெங்கன் விண்ணப்பத்தை ஐரோப்பிய பாராளுமன்றம் 2011 ஆம் ஆண்டு அங்கீகரித்தது. எனினும் அதே வருடம் ஐரோப்பிய அமைச்சர்கள் அவையில் அது தோற்கடிக்கப்பட்டது.
+Romania and Bulgaria have joined the Shengen Visa Zone in Europe since yesterday.This can travel between the two countries and the other Shengan Zonal countries through the sea and the air without Visha tests.
 
-திட்டமிடப்பட்ட குற்றச் செயல்கள், சட்டவிரோத குடியேற்றங்கள் தொடர்பில் ருமேனியாவும் பல்கேரியாவும் போதிய நடவடிக்கை எடுக்கவில்லை என பல நாடுகள் குற்றம் சுமத்தி வந்தன.
+Romania and Bulgaria joined the EU in 2007. However, these countries had to wait a long time to join the Shengan Zone with no visa restrictions.
 
-இந்நிலையில், மார்ச் 31 முதல் இந்நாடுகளை ஷெங்கன் வலயத்தில் இணைப்பதற்கு ஐரோப்பிய கவுன்சில் கடந்த டிசெம்பர் மாதம் ஏகமனதாக ஆதரவு தெரிவித்தது.
+The European Parliament approved the Shengen application of these countries in 2011. However, it was defeated in the European ministers that same year.
+
+Many countries have accused Romania and Bulgaria of not taking adequate measures regarding planned crimes and illegal settlements.
+
+In the meantime, the European Council unanimously supported the country from March 31 to the Shengan Zone.
+
+Accordingly, the Romania and other Shengen countries can travel by sea and air without a visa. Border restrictions on the ground journey. It has been reported that the restriction will be removed later.
 
 ...
 
 [Data](articles/8e1770c3.json)
+
+[Extended Data](ext_articles/8e1770c3.ext.json)
 
 ---
 
@@ -222,6 +344,8 @@ Today is the 4th day of the 2nd Test match between Sri Lanka and Bangladesh, whi
 
 [Data](articles/7236a0de.json)
 
+[Extended Data](ext_articles/7236a0de.ext.json)
+
 ---
 
 ### The kilman of Jaffna science girl dies in prison
@@ -278,17 +402,25 @@ There is a different news about the 2019 bombing of many people. Pillaiyan is th
 
 ---
 
-### “மூவரையும் கைது செய்தால் உண்மை வெளிவரும்”
+### "If the three are arrested, the truth will come out"
 
 *2024-04-02 09:38:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மூவரையும்-கைது-செய்தால்-உண்மை-வெளிவரும்/73-335493) · `ta`
 
-ஈஸ்டர் குண்டுதாக்குதல் தொடர்பாக முன்னாள் ஜனாதிபதி மைத்திபால சிறிசேன, கருணா, பிள்ளையான் ஆகியவர்களுக்கிடையே ஏதே ஒன்று மறைந்திருக்கின்றது. ஆகவே இவர்கள் 3 பேரையும்  கைது செய்து விசாரித்தால்  இந்த குண்டுதாக்குதல் தொடர்பாக சரியான சூத்திரதாரி யார் என்பதை அறிய முடியும். எனவே இவர்களை உடன் கைது செய்து விசாரணை நடத்துமாறு  பாராளுமன்ற முன்னாள் உறுப்பினர் சீனித்தம்பி யோகேஸ்வரன் தெரிவித்தார்.
+"If Maithripala Sirisena, Karuna, and Pillaiyan are arrested, the truth about the Easter bombing will be revealed. Srinithambi Yogeswaran calls for their arrest and investigation. Pillaiyan, an adviser to Minister C. Chandrakanthan, is accused of involvement in the bombing. Despite being in Switzerland, he published a book on the attack. Karuna has commented on Pillaiyan's book. If these three are arrested, it could lead to legal action against them for their roles in the bombing."
 
-கருணா படையணி என்பது வழமையான செயற்பாடு. தேர்தல் நெருங்குகின்றது தேர்தலுக்கான நாடகம். கடந்த பாராளுமன்ற தேர்தலில் கல்முனை வடக்கு தமிழ் பிரதேச செயலகத்தை பூரண அதிகாரத்துடன் மீட்டுத்தருவதாக கூறி, தமிழ் தேசிய மக்களுக்கு வாக்களிக்க இருந்த மக்கள் எல்லாம் தன்பக்கம் திசைதிருப்பி வாக்குகளை சிதறடித்து அந்த மாவட்டத்தில் தமிழ் மக்கள் பிரதி நிதி ஒருவர் வராமல் செய்து முஸ்லீம் மக்களின் பிரதிநிதித்துவம் அதிகரிக்க செய்த பெருமை செய்தவர்.
+🟩
+
+Something has been hidden between former President Maithripala Sirisena, Karuna and Pillaiyan over Easter bombing. Therefore, if they are arrested and investigated, they can know who the right masterpiece is about the bombing.. Former Member of Parliament, Srinithambi Yogeswaran, said that they should be arrested and investigated.
+
+The Karuna Brigade is the usual activity. Election is approaching. In the last parliamentary election, the people who voted for the Tamil nationalist people voted in the last parliamentary election, the people who voted for the Tamil nationalist people were distracted by the votes of the Tamil people in the district, and the pride of the Muslim people in the district.
+
+There is a different news about the 2019 bombing of many people. Pillaiyan is the adviser to the Minister of State C. Chandrakanthan, who has sought refuge in the Swissatam, and has said that Pillayan is guilty in the Media 4 media.
 
 ...
 
 [Data](articles/a349ec57.json)
+
+[Extended Data](ext_articles/a349ec57.ext.json)
 
 ---
 
@@ -2059,135 +2191,5 @@ The Ragama Police are conducting further investigations into the accident.
 [Data](articles/86e3f5f9.json)
 
 [Extended Data](ext_articles/86e3f5f9.ext.json)
-
----
-
-### Eight including 4 excise officers arrested with Kerala cannabis
-
-*2024-04-01 19:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98356/eight-including-4-excise-officers-arrested-with-kerala-cannabis) · `en`
-
-Eight persons including 04 officers of the Excise Department have been arrested by Police Narcotics Bureau (PNB) along with 45 kg of Kerala cannabis from Negombo and Chilaw areas, the police said.
-
-Meanwhile, a van belonging to the Excise Department in which the arrested officers were travelling has also been taken to police custody.
-
-◼️
-
-[Data](articles/440bfbca.json)
-
-[Extended Data](ext_articles/440bfbca.ext.json)
-
----
-
-### Excise persons arrested with Kerala cannabis
-
-*2024-04-01 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195183) · `si`
-
-Police arrest 4 Excise Officers and 8 suspects in Kerala for cannabis possession. Nearly 45 kg of Kerala cannabis found during raids in Negombo and Chilaw.
-
-🟩
-
-Four of Excise Officers and eight suspects have been arrested by police including Kerala cannabis.
-
-The suspects were arrested following a raid on Negombo and Chilaw areas by the Police Narcotics Bureau.
-
-The number of Kerala cannabis has been found nearly 45 kilograms.
-
-◼️
-
-[Data](articles/7fefb3d0.json)
-
-[Extended Data](ext_articles/7fefb3d0.ext.json)
-
----
-
-### Mahinda, Duminda and Lasantha suspended
-
-*2024-04-01 18:52:21* · [`adalk`](https://www.ada.lk/breaking_news/මහින්ද--දුමින්ද-හා-ලසන්ත-ධූරවලින්-ඉවත්-කිරීම-තාවකාලිකව-අත්හිටුවයි/11-408889) · `si`
-
-A Colombo District Judge issued an interim injunction to prevent the removal of Duminda Dissanayake, Lasantha Alagiyawanna, and Mahinda Amaraweera from the Sri Lanka Freedom Party (SLFP), citing arbitrary demands and lack of proper discipline. The petitioners argue that their reputations were damaged without a disciplinary inquiry.
-
-🟩
-
-Colombo District Judge Sandun Withana issued an interim injunction to prevent the removal of Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera from the Sri Lanka Freedom Party.
-
-The interim injunction order issued by the petitioners, pointed out that the Sri Lanka Freedom Party (SLFP) demands or arbitrary was imposed on the positions without a proper discipline without a proper discipline without a proper discipline.
-
-If the petitions have been taken up on April 8, the district judge prescribed the respondents to respond to the respondents on April 8, to send the banned notice and notice to respondents.
-
-SLFP Chairman Maithripala Sirisena, President of Sri Lanka Freedom, Sarahi Siripala de Silva, Senior Vice Chairman, President of the SLFP Sarappala de Silva, President's Counser Mr. Nimal Siripala de Silva, President's Counser Mustapha.P. Multiplier have been made.
-
-...
-
-[Data](articles/28e38fc9.json)
-
-[Extended Data](ext_articles/28e38fc9.ext.json)
-
----
-
-### Sword attack in Jaffna: gang carrying cut hands!
-
-*2024-04-01 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/180183) · `ta`
-
-In Jaffna, a man lost his hand to a sword attack in Vadamarachchi Thambasiti Vaduvan. Selvanayagam Senthuran, 30, was transferred from Point Pedro Hospital to Jaffna Teaching Hospital for further treatment.
-
-🟩
-
-A sword cutting incident in Jaffna - Vadamarachchi Thambasiti Vaduvan area on Sunday (31).
-
-A group of swords with swords on Sunday (31) had been cut off a man in the Vaduvan area of Point Pedro, and had taken the bottom of the hand that had fallen down when cutting the sword.
-
-The person who was admitted to the Point Pedro Hospital has been transferred to the Jaffna Teaching Hospital for further treatment.
-
-The man who lost his hand is Selvanayagam Senthuran, a 30 -year -old young family.
-
-◼️
-
-[Data](articles/d884b3e3.json)
-
-[Extended Data](ext_articles/d884b3e3.ext.json)
-
----
-
-### The Justice Minister reconstructed the bill to reduce the age of intercourse to 14
-
-*2024-04-01 18:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180144) · `ta`
-
-Justice Minister Wijayadasa Rajapaksa proposed reducing the age of intercourse to 14, sparking political and civil debate. The amendment aims to align with the 1995 Penal Code, which considers consensual intercourse with a 16-year-old as rape. Parliamentary Women's Union leader Sudarshani Fernando expressed concern, urging reconsideration.
-
-🟩
-
-The Minister of Justice, Prison Affairs and Political Reforms Wijayadasa Rajapaksa has renovated the proposed Bill, which was submitted to a second estimate of Section 364 of the Penal Code, to reduce the age of intercourse to 14.
-
-In accordance with the amendment to the 1995 Penal Code, a 16 -year -old woman has intercourse at her own wishes, but it will be considered a rape.. However, the idea was proposed to reduce the age of the age of 14 through the amendment proposed by the Minister of Justice to the Penal Code.
-
-The bill, which was presented by the Justice Minister, has arisen among the political and civil faction of the politics.. Various parties continued to urge the restoration of the bill.
-
-Sudarshani Fernando Point of Parliamentary Women's Union, Sudarshani Fernando Point, stated that he would express her concern for the proposed amendment to Article 364 of the Penal Code and informed the Justice Ministry by letter on the proposed amendment to Article 364.
-
-...
-
-[Data](articles/39a8feed.json)
-
-[Extended Data](ext_articles/39a8feed.ext.json)
-
----
-
-### Cops tender apologies as per Sinhala tradition
-
-*2024-04-01 18:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cops-tender-apologies-as-per-Sinhala-tradition/108-279972) · `en`
-
-Colombo, April 1 (Daily Mirror) - Five policemen have tendered an apology as per Sinhala tradition during a Supreme Court hearing involving the arrest of three individuals over Easter Sunday attacks.
-
-Five policemen including the OIC of Horowpothana and Kebithigollewa Police stations bowed and tendered apologies to three petitioners who were arrested on suspicion of being associates of Zahran Hashim.
-
-Five policemen tendered this apology to three petitioners as a part of the settlement reached between the parties into Fundamental Rights petitions filed by the petitioners challenging their illegal arrest and detention.
-
-The Supreme Court's three-judge-bench comprised Justices S. Thurairaja, Kumuduni Wickremasinghe and Achala Wengappuli.
-
-◼️
-
-[Data](articles/85aee503.json)
-
-[Extended Data](ext_articles/85aee503.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 10:33:30**
+As of **2024-04-02 10:51:03**
 
 ## Newspaper Stats
 
-*Scraped **16,546** Articles*
+*Scraped **16,551** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,61 +16,131 @@ dailyftlk | 895
 economynextcom | 909
 islandlk | 924
 adalk | 1,390
-tamilmirrorlk | 1,971
-adaderanalk | 1,989
-virakesarilk | 2,359
-dailymirrorlk | 2,542
+tamilmirrorlk | 1,972
+adaderanalk | 1,990
+virakesarilk | 2,361
+dailymirrorlk | 2,543
 adaderanasinhalalk | 2,679
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,543 (100.0%) of 16,546 articles have been extended.
+16,546 (100.0%) of 16,551 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### ඒ නැව ට අවසර දුන්නේ කවුද ? මධ්‍යම පරිසර අධිකාරිය පරීක්ෂණ අරඹයි
+### Consideration of petitions challenging IGP Tennakoon’s appointment begins today
+
+*2024-04-02 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98365/consideration-of-petitions-challenging-igp-tennakoons-appointment-begins-today) · `en`
+
+The fundamental rights (FR) petitions filed against the appointment of Inspector-General of Police (IGP) Deshabandu Tennakoon are slated to be taken up for consideration before the Supreme Court on Tuesday (02).
+
+A three-member bench led by Chief Justice Jayantha Jayasuriya will sit for the consideration of the petitions put forward by His Eminence Malcolm Cardinal Ranjith, Prof. Savitri Gunasekara, former MP Hirunika Premachandra and several others.
+
+The Speaker of Parliament, the members of the Constitutional Council, IGP Tennakoon, the Attorney General and several others have been named as the respondents of the petitions.
+
+The petitioners allege that Tennakoon had neglected his duties during his tenure as the Senior Deputy Inspector General of Police (SDIG) of the Western Province when the 2019 Easter attacks happened, and a pre-mediated attack was launched on the ‘GotaGoGama’ protest site at the Galle Face Green where several protesters were brutally beaten.
+
+...
+
+[Data](articles/bf18627f.json)
+
+---
+
+### அம்பன் பகுதியில் சட்டவிரோதமாக மணல் அகழ்வில் ஈடுபட்டபோது கைது செய்யப்பட்ட 6 பேரும் பிணையில் விடுவிப்பு!
+
+*2024-04-02 10:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180207) · `ta`
+
+கடந்த மாதம் 24 ஆம் திகதி மணல் அகழ்வில் ஈடுபட்டுக் கொண்டிருந்தபோது சிறப்பு அதிரடி படையினரால் கைப்பற்றப்பட்ட ஆறு உழவு இயந்திரங்களும், கைது செய்யப்பட்டவர்களும் நேற்று திங்கட்கிழமை தலா ஒருலட்சம் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+
+24 ஆம் திகதி சிறப்பு அதிரடி படையினரால் ஆறு உழவு இயந்திரங்களுடன் , ஆறு சாரதிகளும் கைது செய்யப்பட்டு மருதங்கேணி பொலிஸாரிடம் ஒப்படைக்கப்பட்டிருந்த நிலையிலே அன்றைய தினமே மருதங்கேணி பொலிசாரால் பொலிஸ் பிணையில் விடுவிக்கப்பட்டிருந்தனர்.
+
+இந்நிலையில் நேற்று திங்கட்கிழமை (01) பருத்தித்துறை நீதிமன்றில் வழக்கு இடம் பெற்றவேளை தலா ஒருலட்சம் பிணையில் செல்வதற்கு அனுமதிக்கப்பட்டதுடன்  உழவு இயந்திரங்களில் இருந்த மணல்மண் நீதிமன்றின் பொறுப்பில் எடுக்கப்பட்டு உழவு இயந்திரங்கள் விடுவிக்கப்பட்டுள்ளதுடன் எதிர்வரும் 22 ஆம் திகதி வழக்கிற்கு தவணையிடப்பட்டுள்ளது.
+
+இந்நிலையில் விடுவிக்கப்பட்ட உழவு இயந்திர சாரதிகள் தமது மகிழ்ச்சியை வெளிப்படுத்துவதற்காக குடத்தனை அம்பன் ஊர் எல்லை பகுதியிலிருந்து  அம்பன் கிழக்கிலுள்ள ஒவ்வொருவரது வீட்டு வாசல்களிலும் வெடிகளை கொழுத்துயுள்ளனர்.
+
+...
+
+[Data](articles/107b953d.json)
+
+---
+
+### Who authorized that ship?Central Environmental Authority begins investigations
 
 *2024-04-02 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195200) · `si`
 
-ශ්‍රී ලංකාව බලා එමින් සිටියදී පසුගියදා අමෙරිකාවේ බොල්ටිමෝ පාලමෙහි ගැටුණු භාණ්ඩ ප්‍රවාහන නෞකාවේ අඩංගු ද්‍රව්‍ය මෙරටට ගෙන ඒමට නිසි අවසරයක් ගෙන තිබුණේද යන්න සම්බන්ධයෙන් පරීක්ෂණයක් පවත්වන බව පරිසර රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර මහතා පැවසීය.
+The Central Environmental Authority (CEA) began investigations into a ship's unauthorized entry into the United States, despite proper permissions. The CEA was not informed of the investigation. The ship was caught due to its cargo. Professor Chariters and Opposition Leader Sajith Premadasa responded to questions. On March 26, a cargo carrier collapsed at the Boltotha Bridge, causing workers to fall into the river.
 
-එම පරීක්ෂණය මේ වනවිටත් ආරම්භකර ඇති බව පැවසූ රාජ්‍ය අමාත්‍යවරයා එම නෞකාවේ තිබූ ද්‍රව්‍ය සම්බන්ධයෙන් මධ්‍යම පරිසර අධිකාරිය දැනුවත් කර නොතිබූ බවත් පැවසීය.
+🟩
 
-"ඇත්තවශයෙන්ම මේ නැව හැප්පුණු නිසා තමයි එහි තිබූ භාණ්ඩ ගැන දැනගන්නට පුළුවන් වුණේ.."
+A investigating as an inquiry was held in the Boltotha Bridge in the United States was a proper permission to bring the goods contained in the United States.
 
-ඔහු ඒ බව පැවසුවේ පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය චරිත හේරත් සහ විපක්ෂ නායක සජිත් ප්‍රේමදාස යන මහත්වරුන් නැගූ ප්‍රශ්නවලට පිළිතුරු ලබා දෙමිනි.
+He said that the investigation was already inaugurated and said that the CEA had not informed the CEA.
 
-ද ඩාලි නම් එම භාණ්ඩ ප්‍රවාහන නෞකාව මාර්තු 26 වනදා බොල්ටිමෝ පාලමේ ගැටුණු අතර ඒ හේතුවෙන් වසර 47ක් පමණ පැරණි එම පාලම කඩා වැටුණු අතර එම පාලමේ නඩත්තු කටයුතු කරමින් සිටි සේවකයින් පිරිසක් ගඟට වැටී අතුරුදන් වුණි.
+"Of course, the ship was caught up because of the goods."
+
+He was speaking to the Professor Chariters and Opposition Leader Sajith Premadasa answers the questions raised.
+
+Dally, the cargo carrier collapsed on March 26, and a group of workers in the bridge fell into the river.
 
 ◼️
 
 [Data](articles/1da8d6ce.json)
 
+[Extended Data](ext_articles/1da8d6ce.ext.json)
+
 ---
 
-### පොලිස්පති පත්කිරීමට එරෙහි පෙත්සම් සලකා බැලීම අද
+### ஷெங்கன் வலயத்தில்  ருமேனியா, பல்கேரியா பகுதியளவில் இணைந்தன
 
-*2024-04-02 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195199) · `si`
+*2024-04-02 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180206) · `ta`
 
-පොලිස්පතිවරයා වශයෙන් දේශබන්දු තෙන්නකෝන් මහතා පත්කිරීමට ජනාධිපතිවරයා ගනු ලැබූ තීරණය අභියෝගයට ලක් කරමින් ගොනුකර තිබෙන මූලික අයිතිවාසිකම් පෙත්සම් අද (02) ශ්‍රේෂ්ඨාධිකරණය හමුවේ සලකා බැලීමට නියමිතය.
+ஐரோப்பாவின் ஷெங்கன் விசா வலயத்தில் ருமேனியாவும் பல்கேரியாவும் நேற்று முன்தினம் முதல்  இன்று முதல்  பகுதியளவில் இணைந்துள்ளன. இதன் மூலம் இவ்விரு நாடுகளுக்கும் ஏனைய ஷெங்கன் வலய நாடுகளுக்கும் இடையில்  கடல் மற்றும் வான் வழியாக விஷா சோதனைகளின்றி பயணம் செய்ய முடியும்.
 
-අගවිනිසුරු ජයන්ත ජයසූරිය මහතා ප්‍රමුඛ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ මෙම පෙත්සම් සලකා බැලීමට නියමිතව තිබේ.
+ருமேனியாவும் பல்கேரியாவும் 2007 ஆம் ஆண்டு ஐரோப்பிய ஒன்றியத்தில் இணைந்தன. எனினும், விசா கட்டுப்பாடுகள் அற்ற ஷெங்கன் வலயத்தில் இணைவதற்கு இந்நாடுகள் நீண்டகாலம் காத்திருக்க வேண்டியிருந்தது.
 
-කාදිනල් අති උතුම් මැල්කම් රංජිත් හිමිපාණන්, මහාචාර්ය සාවිත්‍රි ගුණසේකර, හිටපු පාර්ලිමේන්තු මන්ත්‍රිණි හිරුණිකා ප්‍රේමචන්ද්‍ර ඇතුළු පිරිසක් විසින් මෙම පෙත්සම් ඉදිරිපත් කර ඇත.
+இந்நாடுகளின் ஷெங்கன் விண்ணப்பத்தை ஐரோப்பிய பாராளுமன்றம் 2011 ஆம் ஆண்டு அங்கீகரித்தது. எனினும் அதே வருடம் ஐரோப்பிய அமைச்சர்கள் அவையில் அது தோற்கடிக்கப்பட்டது.
 
-අදාළ පෙත්සමේ වගඋත්තරකරුවන් ලෙස කථානායකවරයා ඇතුළු ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාවේ සාමාජිකයින්, පොලිස්පති දේශබන්දු තෙන්නකෝන්, නීතිපති ඇතුළු පිරිසක් නම් කර තිබේ.
+திட்டமிடப்பட்ட குற்றச் செயல்கள், சட்டவிரோத குடியேற்றங்கள் தொடர்பில் ருமேனியாவும் பல்கேரியாவும் போதிய நடவடிக்கை எடுக்கவில்லை என பல நாடுகள் குற்றம் சுமத்தி வந்தன.
 
-පෙත්සම්කරුවන් කියා සිටින්නේ, පොලිස්පතිවරයා වශයෙන් පත්කිරීම සඳහා ජනාධිපතිවරයා විසින් නිර්දේශ කරනු ලැබූ දේශබන්දු තෙන්නකෝන් මහතාගේ නාම යෝජනාව ආණ්ඩුක්‍රම ව්‍යස්ථාදායක සභාව විසින් විධිමත් ආකාරයෙන් අනුමත කර නොමැති බවය.
-
-එවැනි අවස්ථාවක ඔහු එම තනතුර සඳහා පත්කිරීමට ජනාධිපතිවරයා ගනු ලැබූ තීරණය සම්පූර්ණයෙන්ම නීතියට පටහැනි බවත් පෙත්සම්වල සඳහන් වේ.
+இந்நிலையில், மார்ச் 31 முதல் இந்நாடுகளை ஷெங்கன் வலயத்தில் இணைப்பதற்கு ஐரோப்பிய கவுன்சில் கடந்த டிசெம்பர் மாதம் ஏகமனதாக ஆதரவு தெரிவித்தது.
 
 ...
 
+[Data](articles/8e1770c3.json)
+
+---
+
+### Petitions against IGP should consider today
+
+*2024-04-02 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195199) · `si`
+
+Supreme Court today considers petitions challenging President's IGP nomination. Petitioners, including Cardinal Malcolm Ranjith and Prof. Savitri Gunasekara, argue the nomination of Deshabandu Tennakoon lacks constitutional approval.
+
+🟩
+
+The Fundamental Rights Petitions filed by the Supreme Court today to be considered as the Supreme Court today to challenge the President's decision as the IGP.
+
+These petitions are due to be considered before the Supreme Court Judge of Chief Justice Jayantha Jayasuriya.
+
+The petitions were presented by the Cardinal Malcolm Ranjith, Prof. Savitri Gunasekara, former Parliamentarian Premachandra and others.
+
+The Speaker, including the Speaker, including the Speaker, including the Speaker, including the Speaker, and the Attorney General, have been named as the respondents in the petition.
+
+Petitioners claim that the nomination of Deshabandu Tennakoon, who was recommended by the President to appoint as IGP, has not been properly approved by the Constitution.
+
+Atthism, the petitions referred to that the President's decision was fully contradicted to appoint him in such a case.
+
+Accordingly, the appointment order has been issued to issue a powerful order and requested petitions.
+
+◼️
+
 [Data](articles/73ee7c1d.json)
+
+[Extended Data](ext_articles/73ee7c1d.ext.json)
 
 ---
 
@@ -110,6 +180,8 @@ A special cultural dance performance had also been organized by the Airport and 
 
 [Data](articles/bb8d0cac.json)
 
+[Extended Data](ext_articles/bb8d0cac.ext.json)
+
 ---
 
 ### The government fails to provide justice to victims of the survival Sunday attack - Leader of the Opposition
@@ -131,6 +203,24 @@ He was speaking in Parliament on Monday (01) under the Standing Ordinance of 27 
 [Data](articles/95b70265.json)
 
 [Extended Data](ext_articles/95b70265.ext.json)
+
+---
+
+### Dinesh Chandimal withdraws from ongoing 2nd Test match
+
+*2024-04-02 09:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dinesh-Chandimal-withdraws-from-ongoing-2nd-Test-match/108-280017) · `en`
+
+Colombo, April 2 (Daily Mirror) - Dinesh Chandimal has withdrawn from the team playing the 2nd Test match against Bangladesh with immediate effect due to a 'family medical emergency.'
+
+Accordingly, Chandimal will return home immediately, Sri Lanka Cricket (SLC) said.
+
+"Sri Lanka Cricket, his teammates, and the coaching staff fully support Dinesh Chandimal at this moment of need and request that the public respect his and his family's privacy," SLC said.
+
+Today is the 4th day of the 2nd Test match between Sri Lanka and Bangladesh, which is being played in Chattogram, Bangladesh.
+
+◼️
+
+[Data](articles/7236a0de.json)
 
 ---
 
@@ -185,6 +275,20 @@ There is a different news about the 2019 bombing of many people. Pillaiyan is th
 [Data](articles/07114bfa.json)
 
 [Extended Data](ext_articles/07114bfa.ext.json)
+
+---
+
+### “மூவரையும் கைது செய்தால் உண்மை வெளிவரும்”
+
+*2024-04-02 09:38:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மூவரையும்-கைது-செய்தால்-உண்மை-வெளிவரும்/73-335493) · `ta`
+
+ஈஸ்டர் குண்டுதாக்குதல் தொடர்பாக முன்னாள் ஜனாதிபதி மைத்திபால சிறிசேன, கருணா, பிள்ளையான் ஆகியவர்களுக்கிடையே ஏதே ஒன்று மறைந்திருக்கின்றது. ஆகவே இவர்கள் 3 பேரையும்  கைது செய்து விசாரித்தால்  இந்த குண்டுதாக்குதல் தொடர்பாக சரியான சூத்திரதாரி யார் என்பதை அறிய முடியும். எனவே இவர்களை உடன் கைது செய்து விசாரணை நடத்துமாறு  பாராளுமன்ற முன்னாள் உறுப்பினர் சீனித்தம்பி யோகேஸ்வரன் தெரிவித்தார்.
+
+கருணா படையணி என்பது வழமையான செயற்பாடு. தேர்தல் நெருங்குகின்றது தேர்தலுக்கான நாடகம். கடந்த பாராளுமன்ற தேர்தலில் கல்முனை வடக்கு தமிழ் பிரதேச செயலகத்தை பூரண அதிகாரத்துடன் மீட்டுத்தருவதாக கூறி, தமிழ் தேசிய மக்களுக்கு வாக்களிக்க இருந்த மக்கள் எல்லாம் தன்பக்கம் திசைதிருப்பி வாக்குகளை சிதறடித்து அந்த மாவட்டத்தில் தமிழ் மக்கள் பிரதி நிதி ஒருவர் வராமல் செய்து முஸ்லீம் மக்களின் பிரதிநிதித்துவம் அதிகரிக்க செய்த பெருமை செய்தவர்.
+
+...
+
+[Data](articles/a349ec57.json)
 
 ---
 
@@ -2085,123 +2189,5 @@ The Supreme Court's three-judge-bench comprised Justices S. Thurairaja, Kumuduni
 [Data](articles/85aee503.json)
 
 [Extended Data](ext_articles/85aee503.ext.json)
-
----
-
-### A robbery spoil
-
-*2024-04-01 18:29:22* · [`adalk`](https://www.ada.lk/breaking_news/මහ-දවල්-හොරණ-මහ-කොල්ලයක්/11-408888) · `si`
-
-Two robbers, armed with sharp weapons, entered a building, stole money, and fled to Moragahahena. Police investigated using CCTV and found the robbers had covered their motorcycle's number plates.
-
-🟩
-
-Two persons who had plundered a sharp weapons to a Sawas Junction representative to a delegation of sharp weapons today
-
-Two robbers who had come to a motorbike around 2.45 pm have entered the upper floor of the two storied building and the money on the table was labored on the table, police said
-
-The person who collects money and the money was in office and the two robbers were closed in the building while they were preparing for money.
-
-Investigations have revealed that the police have demonstrated the glass in the glass.
-
-Investigations have revealed that the robbers had come to cover the number plates of the motorcycle.
-
-The robber has fled to Moragahahena after the looting.
-
-Investigations are conducted through CCTV footage to make the burglary.
-
-◼️
-
-[Data](articles/922444f9.json)
-
-[Extended Data](ext_articles/922444f9.ext.json)
-
----
-
-### Mannar Wind Farm Project: Another folly like the Sinharaja Logging Project on the horizon?
-
-*2024-04-01 18:05:00* · [`islandlk`](http://island.lk/mannar-wind-farm-project-another-folly-like-the-sinharaja-logging-project-on-the-horizon/) · `en`
-
-A wind farm consisting of 30 towers generating 100MW (Phase 1- Thambapavani) was established on the southern coast of Mannar Island in 2020, with financial assistance from the Asian Development Bank (ADB). The widespread criticism of this project due to its positioning within one of the main bird migratory corridors in the Asian region (detailed elsewhere in the article) was largely overlooked or ignored due to the economic priorities that prevailed at the time, as it happened with the now infamous Canadian-funded Sinharaja Mechanized Logging Project of the 1970s.
-
-...
-
-[Data](articles/e1e620a8.json)
-
-[Extended Data](ext_articles/e1e620a8.ext.json)
-
----
-
-### China's big onion sales on the outskirts of Pettah
-
-*2024-04-01 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180179) · `ta`
-
-China's big onion sales in Sri Lanka's wholesale market, priced at 320 rupees per kg, address India and Pakistan's ban, ensuring no festive season shortage.
-
-🟩
-
-Importers and wholesalers say the big onions imported from China can be purchased for the first time in the wholesale market.
-
-They say that the total cost of one kilogram of Chinese onion is 320 rupees and the onion is in good condition.
-
-They claim that importers and wholesalers in Sri Lanka are in severe crisis after India and Pakistan banned big onion exports.
-
-Importers and wholesalers have started importing large onions from China and said that the Chinese big onions are being sold in the wholesale market on Monday (01).
-
-Importers say that there will be no shortage of onions during the festive season and consumers can get the onion they need.
-
-◼️
-
-[Data](articles/c26a7495.json)
-
-[Extended Data](ext_articles/c26a7495.ext.json)
-
----
-
-### Imran Khan, Bushra Bibi's 14 -year imprisonment suspended
-
-*2024-04-01 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180178) · `ta`
-
-Imran Khan and Bushra Bibi's 14-year prison sentences in the Doshakana scam are suspended by the Islamabad High Court, but they remain incarcerated due to other case verdicts.
-
-🟩
-
-The Islamabad High Court today suspended 14 years in prison sentenced to former Pakistani Prime Minister Imran Khan and his wife Bushra Bibi in the Doshakana scam.
-
-However, due to the verdicts given in other cases, they will not be released from prison.
-
-The Islamabad accountability court sentenced Imran Khan and Bushra Bibu to 14 years in prison on January 31. They were banned from holding state positions for 10 years and the two were fined 787 million Pakistani rupees each.
-
-As the Islamabad High Court has accepted Imran Khan's appeal against the verdict, these sentences have been suspended.
-
-◼️
-
-[Data](articles/1e5cec9a.json)
-
-[Extended Data](ext_articles/1e5cec9a.ext.json)
-
----
-
-### Peradeniya University student dies in a train
-
-*2024-04-01 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180177) · `ta`
-
-A third-year Peradeniya University student died after being hit by a train in Beniteniya.
-
-🟩
-
-A third year student of the Legal Studies Division of the Peradeniya University Faculty of Peradeniya has died by a train in Beniteniya area, Peradeniya Police said.
-
-Sidcharata Silva, a resident of Vatu, who was educated in the third year of the Law Studies of the University of Peradeniya, died.
-
-Peradeniya police say that the student has died after being hit by a Nawalapitiya -Kandy train while walking on the railway line wearing a Heyerbone listening tool.
-
-Further investigations are underway under the leadership of Chief Inspector of Police Vijith Wihekoon.
-
-◼️
-
-[Data](articles/32092b18.json)
-
-[Extended Data](ext_articles/32092b18.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 12:34:04**
+As of **2024-04-02 12:51:00**
 
 ## Newspaper Stats
 
-*Scraped **16,575** Articles*
+*Scraped **16,580** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,51 +18,79 @@ islandlk | 924
 adalk | 1,392
 tamilmirrorlk | 1,977
 adaderanalk | 1,992
-virakesarilk | 2,362
+virakesarilk | 2,366
 dailymirrorlk | 2,548
-adaderanasinhalalk | 2,685
+adaderanasinhalalk | 2,686
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,573 (100.0%) of 16,575 articles have been extended.
+16,575 (100.0%) of 16,580 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### අරගල සමයේ විදෙස් කුමන්ත්‍රණ ගැන සොයන්න - විමල් ඉල්ලයි
+### වාහන ආනයනය ගැන ගත් අලුත්ම කැබිනට් තීරණය
+
+*2024-04-02 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195208) · `si`
+
+සංචාරක ව්‍යාපාරයේ අවශ්‍යතාවයන් සඳහා අවශ්‍ය වෑන් රථ සහ කුඩා ප්‍රමාණයේ බස් රථ ආනයනය සඳහා සංචාරක අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා ඉදිරිපත් කර ඇති යෝජනාවකට කැබිනට් අනුමැතිය හිමිවූ බව කැබිනට් ප්‍රකාශක අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පැවසීය.
+
+ඒ අනුව විශේෂයෙන්ම සංචාරකයන් ප්‍රවාහනය කිරීම සඳහා භාවිත කිරීම පිණිස ආසන 6 - 15 වෑන් රථ 750ක් (විදුලි සහ දෙමුහුන් රථ ඇතුළුව)  සහ ආසන 16-30 කුඩා ප්‍රමාණයේ බස් රථ හා ආසන 30-45 බස් රථ 250ක් ආනයනය කිරීම ට අනුමැතිය ලැබුණි.
+
+◼️
+
+[Data](articles/93b9cf22.json)
+
+---
+
+### Wimal requests foreign conspiracies during the struggle
 
 *2024-04-02 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195207) · `si`
 
-පසුගිය අරගල සමයේදී සිදුවූ බවට සැක කෙරෙන දෙස් විදෙස් ක්‍රමන්ත්‍රණ පිළිබඳ සොයාබැලීම සඳහා පාර්ලිමේන්තු තේරිම් කාරක සභාවක් පත් කරන ලෙස පාර්ලිමේන්තු මන්ත්‍රී විමල් වීරවංශ මහතා ඉල්ලීමක් කළේය.
+MP Wimal Weerawansa calls for a parliamentary selective committee to investigate foreign and local organizations involved in past struggles, including opposition members. He also demands a two-day debate on the influence of foreign forces on the presidency and sovereignty, criticizing former President Gotabhaya Rajapaksa's book for abandoning him due to local and foreign forces.
 
-අද පාර්ලිමේන්තුවේදී මන්ත්‍රීවරයා ඉල්ලා සිටියේ එම තේරිම් කාරක සභාවට පක්ෂ විපක්ෂ මන්ත්‍රීවරුන් එක් කරන ලෙසය.
+🟩
 
-එමෙන්ම අරගල සමයේදී සිදුවූ ඇතැම් සිද්ධි සම්බන්ධයෙන් දින දෙකක පාර්ලිමේන්තු විවාදයක් පවත්වන ලෙසත් පාර්ලිමේන්තු මන්ත්‍රී විමල් වීරවංශ මහතා ඉල්ලීමක් කළේය.
+MP Wimal Weerawansa requested a appointment of a parliamentary selective committee to look into the local and foreign organizations suspected of the past struggles.
 
-"අරගල සමයේදී ඔබතුමාව ව්‍යවස්ථාවට පිටින් රටේ ප්‍රධාන වගකීම.. ඒ කියන්නේ ජනාධිපති වගකීම භාරගැනීම සඳහා දෙස් විදෙස් ඇතැම් කණ්ඩායම් බලපෑම් ඇති කරපු බවට ඒ වගේම "09 සැඟවුණු කථාව" කියලා මම පොතක් එළිදැක්වූවා ඒ පොතේ ඒ කරුණ මම විවෘත්තව එළිදැක්වුවා ඔබතුමාට කුමන තානාපති කාර්යාලද, කුමන තානාපතිවරුන්ද සහ දේශපාලඥයින් කවුරුන්ද ඒ බලපෑම එල්ල කළේ කියලා."
+The MP was also requested in parliament to add opposition members of the party.
+
+Also, the two cases during the struggle was also requested to hold a two-day parliamentary debate.
+
+"During the struggle, you are the main responsibility of the constitution.. That means that some group of teams have influenced the presidency, and some embassies, and what ambassadors and politicians were involved in the book. "
+
+"Former President Gotabhaya Rajapaksa's book has made a situation where he abandoned him due to local and foreign forces. Now this point is three true this is a very serious situation. This is a question of sovereignty of this country. This was what happened to the past, that's all you think we should talk about it now a serious disgrace to the sovereignty of the country. "
 
 ...
 
 [Data](articles/c9d1dde1.json)
 
+[Extended Data](ext_articles/c9d1dde1.ext.json)
+
 ---
 
-### ඇහැලේපොළ වලව්ව ශ්‍රී දළදා මාළිගාව ට
+### Ehelepola Walawwa for Sri Dalada Maligawa
 
 *2024-04-02 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195206) · `si`
 
-ඇහැලේපොළ වලව්ව ශ්‍රී දළදා මාළිගාව වෙත පවරාදීම සම්බන්ධයෙන් අදාළ සියලු පාර්ශ්වයන් සමඟ සාකච්ඡා කර අමාත්‍ය මණ්ඩලය වෙත නිර්දේශ සහිත වාර්තාවක් ඉදිරිපත් කරන ලෙස ජනාධිපති ලේකම්වරයාට 2024 පෙබරවාරි19 වනදා පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී ගනු ලැබ ඇති තීරණයක් පරිදි, දැනුම් දී තිබුණි.
+Ehelepola Walawwa, a Sri Lankan kingdom site, is recommended for Sri Dalada Maligawa. The Presidential Secretary's report, based on a Cabinet meeting on Feb 19, 2024, suggests handing over the building and land to the Maligawa, aligning with its role as a local tourist attraction.
 
-ඒ අනුව, ඉදිරිපත් කර ඇති වාර්තාව මගින්, ඇහැලේපොළ පවුල ප්‍රමුඛ කර ගනිමින් වසර සිය ගණනකට එපිට පැවති මහනුවර රාජධානියේ ශ්‍රී විභූතිය හා එම පරිසර පසුබිම නිරූපණය වන අයුරින් මෙම ගොඩනැගිල්ල තුළ ඉටි රූප කෞතුකාගාරයක් පිහිටුවීමටත්, එමඟින් එම ඉතිහාසය පිළිබඳ තොරතුරු වර්තමාන ජන සමාජය වෙත වඩාත් ආකර්ෂණීය අයුරින් ඉදිරිපත් කිරීමට සහ දේශීය හා විදේශීය සංචාරක ආකර්ෂණය ඇති කිරීමත් අරමුණු කර ගනිමින් ශ්‍රී දළදා මාළිගාව විසින් ඇහැලේපොළ වලව්ව ආශ්‍රිතව ව්‍යාපෘතියක් සකස් කරනු ලැබ ඇත.
+🟩
 
-අදාළ ගොඩනැගිල්ල ශ්‍රී දළදා මාළිගාව වෙත පවරා දීම සුදුසු බවට ජනාධිපති ලේකම්වරයාගේ වාර්තාව මගින් නිර්දේශ කර තිබේ.
+The Secretary to the President had informed the Presidential Secretary to submit a recommended report on February 19, 2024 to submit a recommendation from the Cabinet meeting held at the Cabinet Meeting held at the Cabinet Meeting held at the Cabinet Meeting held at the Cabinet Meeting held on February 19, 2024.
+
+Accordingly, the report presented by the Ehelepola family, the Sri Lankan kingdom, which was foremost, the Sri Lankan kingdom, and the history of the Kandyan Kingdom, is more attractive to the current community.The Dalada Maligawa has been prepared by the Sri Dalada Maligawa by the Sri Dalada Maligawa, aimed at present and local tourist attraction.
+
+The Presidential Secretary's Secretary has recommended that it is appropriate to hand over the building to the Dalada Maligawa.
 
 ...
 
 [Data](articles/9f3fcb3e.json)
+
+[Extended Data](ext_articles/9f3fcb3e.ext.json)
 
 ---
 
@@ -85,6 +113,38 @@ The SLMCS, which was formed following the 2019 Easter attacks in Colombo that ki
 [Data](articles/e8885683.json)
 
 [Extended Data](ext_articles/e8885683.ext.json)
+
+---
+
+### ஊழியர்களின் பற்றாக்குறையினால் தபால் சேவையில் தாமதம்!
+
+*2024-04-02 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/180209) · `ta`
+
+தபால் ஊழியர்களின் பற்றாக்குறையினால் நாட்டின்  சில பகுதிகளில் தபால் விநியோகம் தாமதமடைந்துள்ளதாக தபால்மா அதிபர் பி. சத்குமார தெரிவித்துள்ளார்.
+
+இதன் காரணமாக சில மாகாணங்களில் ஒரு நாள் தாமதமாக தபால் விநியோகம் மேற்கொள்ளப்பட்டுள்ளதாக  தெரிவித்துள்ளார்.
+
+தபால் திணைக்களத்தின் ஊழியர்கள் ஓய்வு பெற்ற நிலையில் புதிய ஊழியர்களை உள்வாங்காமையினால்  குறிப்பிட்ட சேவைகளை  தடைப்பட்டுள்ளது என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/01d95793.json)
+
+---
+
+### பொலிஸாருக்கு  எதிராக குற்றப்பத்திரிகையை சமர்ப்பிக்க ஆதாரங்களை பரிசீலிப்பதாக சட்டமா அதிபர் உயர்  நீதிமன்றத்தில் தெரிவிப்பு!
+
+*2024-04-02 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180217) · `ta`
+
+போதைப்பொருள் கடத்தல் விவகாரம் தொடர்பில் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவினரால்  கைது செய்யப்பட்டு பிணையில் விடுவிக்கப்பட்ட  பணியகத்தின் பொலிஸ் உத்தியோகத்தர்கள் குழுவுக்கு எதிராக குற்றப்பத்திரிகையை முன்வைப்பதற்கான ஆதாரங்களை பரிசீலித்து வருவதாக சட்டமா அதிபர் உயர்  நீதிமன்றத்தில் தெரிவித்துள்ளார்.
+
+குற்றப் புலனாய்வுப் பிரிவினரால் எவ்வித நியாயமான காரணமும் இன்றி கைது செய்யப்பட்டு தடுத்து வைக்கப்பட்டதன் மூலம் தனது அடிப்படை மனித உரிமைகள் மீறப்பட்டுள்ளதாகத் தீர்ப்பளிக்கக் கோரி பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவின் முன்னாள் உப பொலிஸ் பரிசோதகர் உதர சதுரங்க பிரேமசிறி தாக்கல் செய்த அடிப்படை உரிமை மனு நேற்று (01) பரிசீலனைக்கு எடுத்துக் கொள்ளப்பட்டது. சட்டமா அதிபர் சார்பில் ஆஜரான சொலிசிட்டர் ஜெனரல் திலீப பீர்ஸ் இதனைக் குறிப்பிட்டார்.
+
+பிரீதி பத்மன் சூரசேன, ஷிரான் குணரத்ன மற்றும் மஹிந்த சமயவர்தன ஆகிய மூவரடங்கிய உயர்  நீதிமன்ற நீதிபதிகள் குழாம் முன்னிலையில் இந்த மனு பரிசீலிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/fa3193fd.json)
 
 ---
 
@@ -115,6 +175,42 @@ The Colombo Crimes Division has arrested a 32 year old resident of Battaramulla 
 [Data](articles/5ba83306.json)
 
 [Extended Data](ext_articles/5ba83306.ext.json)
+
+---
+
+### யாழ். இந்திய துணைத் தூதுவரும் யாழ்ப்பாண விமானப்படையின் கட்டளை தளபதியும் சந்திப்பு
+
+*2024-04-02 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180216) · `ta`
+
+யாழ்ப்பாண இந்திய துணைத் தூதுவர் சாய் முரளிக்கும், யாழ்ப்பாண விமானப்படையின் கட்டளை தளபதி  குரூப் கப்டன் சமிந்த ஹேரத் இடையிலான சந்திப்பு ஒன்று யாழ்ப்பாணம் மருதடி வீதியில் உள்ள யாழ்ப்பாண இந்திய துணைத்தூதரக அலுவலகத்தில் திங்கட்கிழமை (01) இடம்பெற்றது.
+
+இதில் யாழ்ப்பாண விமானப்படையின் தற்போதைய நிலைமைகள் மற்றும் பொதுமக்களுக்கு செயலாற்றக்கூடிய வகையிலான உதவித்திட்டங்கள், பரஸ்பர உதவித்திட்டங்கள் பற்றி கலந்துரையாடப்பட்டன.
+
+இந்நிகழ்வில் யாழ்ப்பாண இந்திய துணைத் தூதுவர் அதிகாரி ராம் மகேஸ் உள்ளிட்டவர்கள் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/f59d1ba4.json)
+
+---
+
+### இலங்கைக்கான விமான சேவையை மீண்டும் ஆரம்பித்தது தாய் ஏர்வேஸ்
+
+*2024-04-02 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180214) · `ta`
+
+நான்கு வருடங்களின் பின் தாய்லாந்து விமான நிறுவனமான “தாய் ஏர்வேஸ்” இலங்கைக்கான விமான சேவையை ஆரம்பித்துள்ளது.
+
+இந்நிலையில், குறித்த நிறுவனத்தின் TG 307 என்ற விமானமானது நேற்று திங்கட்கிழமை (01) இரவு 11.55 மணிக்கு  கட்டுநாயக்க விமான நிலையத்தை  வந்தடைந்தது.
+
+தாய்லாந்தின் பேங்கொக்கில் இருந்து புறப்பட்ட இந்த விமானத்தில் தாய்லாந்து பிரஜைகள் உட்பட சுமார் 150 வெளிநாட்டு சுற்றுலா பயணிகள் வருகை தந்தனர். தாய்லாந்துக்கும் இலங்கைக்கும் இடையிலான விமான சேவைகள் நாளாந்தம் இயங்கி வருவதாக கட்டுநாயக்க விமான நிலைய அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+விமானத்தையும் அதன் பயணிகளையும் துறைமுகங்கள், கப்பல் போக்குவரத்து மற்றும் விமானப் போக்குவரத்து அமைச்சர் நிமல் சிறிபால டி சில்வா வரவேற்றார்.
+
+2024 ஆம் ஆண்டில் இலங்கைக்கு வருகை தரும் சுற்றுலா பயணிகளின் எண்ணிக்கை அதிகரித்துள்ளது. கடந்த மூன்று மாதங்களில் மட்டும் சுமார் 800,000 விமானப் பயணிகள் கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச  விமானநிலைய சேவைகளைப் பெற்றுக்கொண்டுள்ளார்கள்.
+
+...
+
+[Data](articles/6be66b20.json)
 
 ---
 
@@ -2093,95 +2189,5 @@ Subsequently, the culprits were detained at the Kandy Pokambara Prison. At the s
 [Data](articles/17bd08db.json)
 
 [Extended Data](ext_articles/17bd08db.ext.json)
-
----
-
-### Empowering Your Digital Fortress: Where Cybersecurity meets Unrivaled Protection for Every Digital Realm
-
-*2024-04-01 22:10:00* · [`islandlk`](http://island.lk/empowering-your-digital-fortress-where-cybersecurity-meets-unrivaled-protection-for-every-digital-realm/) · `en`
-
-Dialog Enterprise, the corporate ICT solutions arm of Dialog Axiata PLC., in partnership with Bahrain-based award-winning cybersecurity solutions partner, CTM360, now presents a Digital Risk Protection (DRP) platform empowering organizations and enterprises to navigate the digital landscape confidently amidst ever-evolving cybersecurity threats.
-
-A holistic solution stack to address the current cybersecurity challenges faced by organizations, CTM360’s fully integrated, security platform operates in real-time, outside the firewall of an organization, and does not require any configuration or installation.
-
-Proficient in External Attack Surface Management (EASM), CTM360 features cloud-based Auto Discovery of digital assets, maintains a digital asset inventory and is capable of carrying out Security Ratings and External Asset Vulnerability Detection, along with effective mitigation guidelines.
-
-...
-
-[Data](articles/e5ab2308.json)
-
-[Extended Data](ext_articles/e5ab2308.ext.json)
-
----
-
-### Silverlake Symmetri and Just In Time Group host successful forum on Sri Lanka’s banking future
-
-*2024-04-01 22:09:00* · [`islandlk`](http://island.lk/silverlake-symmetri-and-just-in-time-group-host-successful-forum-on-sri-lankas-banking-future/) · `en`
-
-Silverlake Symmetri, in collaboration with Just In Time Group, recently concluded a groundbreaking forum titled “Global Tech, Local Impact: Banking’s New Frontier” in Sri Lanka. This insightful event, held in Colombo, gathered esteemed industry leaders and experts to explore the transformative role of technology in shaping the future of banking and investment services.
-
-...
-
-[Data](articles/d1cde532.json)
-
-[Extended Data](ext_articles/d1cde532.ext.json)
-
----
-
-### Major transactions in Taprobane shares take CSE turnover past Rs. 4 billion mark
-
-*2024-04-01 22:05:00* · [`islandlk`](http://island.lk/major-transactions-in-taprobane-shares-take-cse-turnover-past-rs-4-billion-mark/) · `en`
-
-Several large transactions of Taprobane shares, totaling Rs 1.5 billion, pushed the turnover of the stock market past the Rs 4.billion mark yesterday. Taprobane Holdings, propositioned as Ambeon Capital, saw multiple shares changing hands for Rs 1.5 billion.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 61 points while S and P SL20 rose by 16.81 points. Turnover stood at Rs 4.1 billion with seven crossings.
-
-...
-
-[Data](articles/93ef0a09.json)
-
-[Extended Data](ext_articles/93ef0a09.ext.json)
-
----
-
-### Excise officers arrested with cannabis interdicted; all officers of narcotics unit transferred
-
-*2024-04-01 22:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98358/excise-officers-arrested-with-cannabis-interdicted-all-officers-of-narcotics-unit-transferred) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya says instruction have been issued to transfer all officers of the Excise Department’s Narcotics Prevention Unit, in the aftermath of the arrest of four excise officers with a haul of cannabis.
-
-A statement issued by the State Minister’s media unit stated that the 04 officers of the Excise Department who were arrested while transporting Kerala cannabis have been interdicted and that a special investigation has been ordered into the incident.
-
-Meanwhile, the state minister has also instructed to transfer all officers attached to the Narcotics Prevention Unit of the Excise Department effective immediately.
-
-Siyambalapitiya further states that the law will be implemented to the letter against all the officials involved in these illegal activities regardless of their positions.
-
-...
-
-[Data](articles/8ff2cfd8.json)
-
-[Extended Data](ext_articles/8ff2cfd8.ext.json)
-
----
-
-### Action action in connection with excise officials
-
-*2024-04-01 22:02:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலால்-அதிகாரிகள்-தொடர்பில்-அதிரடி-நடவடிக்கை/175-335484) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya suspends Excise Officers arrested with Kerala Cannabis, orders special inquiries. After inquiry, all involved will face legal action.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya has stated that steps have been taken to suspend the Excise Officers arrested by the police with Kerala Cannabis.
-
-The Minister of Finance further stated in the statement that the authorities have been ordered to conduct special inquiries into the matter.
-
-He also stated that after the inquiry, all the authorities involved in this act will be implemented to implement the law without quality.. Remble
-
-◼️
-
-[Data](articles/67fc895b.json)
-
-[Extended Data](ext_articles/67fc895b.ext.json)
 
 ---

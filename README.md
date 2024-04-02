@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 01:50:52**
+As of **2024-04-03 02:03:36**
 
 ## Newspaper Stats
 
@@ -26,47 +26,69 @@ adaderanasinhalalk | 2,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,723 (100.0%) of 16,725 articles have been extended.
+16,725 (100.0%) of 16,725 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### கொழும்பு வலயத்தின் முஸ்லிம் பாடசாலைகளின் பிரச்சினைகளுக்கு விரைவில் தீர்வு காண ஜனாதிபதி பணிப்பு
+### The Presidential Work to Solve the issues of Muslim schools in the Colombo Zone
 
 *2024-04-03 01:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180283) · `ta`
 
-கொழும்பு வலயத்திலிருந்தும் முஸ்லிம் பாடசாலைகளின் பிரச்சினைகள் குறித்து தேடியறிந்து அவற்றுக்கு விரைவில் தீர்வை பெற்றுக்கொடுக்குமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe addresses Muslim school issues in Colombo, highlighting teacher shortages, classroom deficits, and the need for Islamic education. He advises training for qualified individuals and investigates land provision and accommodation for new schools.
 
-கொழும்பு பிரதேசத்திலுள்ள முஸ்லிம் பாடசாலைகள் எதிர்கொள்ளும் கல்விசார்ந்த பிரச்சினைகள் தொடர்பாக செவ்வாய்க்கிழமை (02) ஜனாதிபதி செயலகத்தில் நடைபெற்ற கலந்துரையாடலிலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இவ்வாறு பணிப்புரை விடுத்தார்.
+🟩
 
-கொழும்பிலுள்ள முஸ்லிம் பாடசாலைகள் எதிர்கொள்ளும் பிரச்சினைகள் தொடர்பில் வெளிவிவகார அமைச்சர் அலி சப்ரி மற்றும் பாடசாலைகள் அதிபர்கள் மற்றும் அமைப்புகளின் பிரதிநிதிகள்  ஜனாதிபதியிடம் எடுத்துரைத்தனர்.
+President Ranil Wickremesinghe said that the problems of Muslim schools from the Colombo Zone should be searched and resolved soon.
 
-ஆசிரியர் பற்றாக்குறை,இடநெருக்கடி, வகுப்பறைகள் தட்டுப்பாடு,சிங்கள மூலம் இஸ்லாம் பாடம் கற்பிக்கும் ஆசிரியர் இன்மை,அதிகமாக முஸ்லிம்கள் வாழும் பகுதிகளில் பாடசாலைகள் இன்மை உள்ளிட்ட விடயங்கள் குறித்தும் இதன் போது ஆராயப்பட்டது.
+President Ranil Wickremesinghe made the announcement at a discussion held at the Presidential Secretariat on Tuesday (02) regarding the educational issues facing Muslim schools in Colombo.
+
+External Affairs Minister Ali Sabri and representatives of schools and organizations have spoken to the President on the issues facing Muslim schools in Colombo.
+
+The shortage of teachers, the shortage of the classrooms, the lack of teacher teaching Islam by Sinhala, and the lack of schools in the most Muslim areas of Muslims were also investigated.
+
+About 40 thousand students are educated by Sinhala language and the issue faced by the students to teach them the lesson of Islam.. Representatives of the principals and organizations pointed out that there are about 200 teachers in 19 Muslim schools in Colombo and focused on solving them.
 
 ...
 
 [Data](articles/c2fff9b2.json)
 
+[Extended Data](ext_articles/c2fff9b2.ext.json)
+
 ---
 
-### 19 வயதின் கீழ் மகளிர் ரி20 மும்முனை கிரிக்கெட் : ஆஸி.யை 7 விக்கெட்களால் வென்றது இங்கிலாந்து
+### Under the age of 19, women's R20 cricket cricket: England beat Aussie by 7 wickets
 
 *2024-04-03 01:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180282) · `ta`
 
-ஹம்பாந்தோட்டை மஹிந்த ராஜபக்ஷ சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் நடைபெற்றுவரும் 19 வயதுக்குட்பட்ட மகளிர் ரி20 மும்முனை கிரிக்கெட் தொடரின் 5ஆவது போட்டியில் அவுஸ்திரேலியாவை 7 விக்கெட்களால் இங்கிலாந்து இலகுவாக வெற்றிகொண்டது.
+England's U19 women's cricket team defeated Australia by 7 wickets in the 5th match of the T20 series at Hambantota. England won all 4 matches, while Australia scored 124 runs in 20 overs, with Amy Smith (50) and Lucy Finn (36) highlighting their batting. England lost 3 wickets in 13.3 overs, scoring 126 runs, with Erin Thomas and Davina Perin contributing 50 runs. Davina Perin and Abhi Nogro's partnership of 52 runs helped England secure the win.
 
-இலங்கையின் 19 வயதுக்குட்பட்ட மகளிர் அணியும் பங்குபற்றும் இந்த மும்முனை தொடரில் அவுஸ்திரெலியா தான் விளையாடிய 4 போட்டிகளில் ஒரு வெற்றியையே ஈட்டியுள்ளது.
+🟩
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய 19 வயதுக்குட்பட்ட அவுஸ்திரேலிய மகளிர் அணி 20 ஓவர்களில் 9 விக்கெட்களை இழந்து 124 ஓட்டங்களைப் பெற்றது.
+England easily won Australia by 7 wickets in the 5th match of the Under -19 Women's T20 cricket series at Mahinda Rajapaksa International Cricket Stadium in Hambantota.
 
-முதல் 3 விக்கெட்களை 29 ஓட்டங்களுக்கு இழந்த அவுஸ்திரேலியா, அணித் தலைவி அமி ஸ்மித், லூசி ஃபின் ஆகியோர் 4ஆவது விக்கெட்டில் பகிர்ந்த 91 ஓட்டங்களின் மூலம் கௌரவமான நிலையை அடைந்தது.
+Sri Lanka's under -19 women's team has made a victory in the four matches she played in the three -day series.
 
-அமி ஸ்மித் 45 பந்துகளில் 3 பவுண்டறிகள், 2 சிக்ஸ்களுடன் 50 ஓட்டங்களையும் லூசி ஃபின் 27 பந்துகளில் 3 பவுண்டறிகளுடன் 36 ஓட்டங்களையும் பெற்றனர்.
+Under the age of 19, the Australian women's team scored 124 runs for the loss of 9 wickets in 20 overs.
+
+Australia, who lost the first 3 wickets for 29 runs, reached the honor of 91 runs by team captain Amy Smith and Lucy Finn in the 4th wicket.
+
+Amy Smith scored 50 runs off 45 balls, 50 runs with 2 sixes and Lucy Finn 36 off 27 balls with 3 pounds.
+
+In the bowling, Delhi Cotheen Kolman took 3 wickets for 15 runs, Josi Groves 2 wickets for 22 runs and Ava Lee 2 for 23 runs.
+
+Under the age of 19, the UK women's team lost 3 wickets in 13.3 overs and scored 126 runs.
+
+Erin Thomas (16) and Davina Perin shared 50 runs and made it a good start.
+
+When the total number was 66 runs, Jodi Krukok lost the game with 6 runs.
 
 ...
 
 [Data](articles/5e3d7902.json)
+
+[Extended Data](ext_articles/5e3d7902.ext.json)
 
 ---
 

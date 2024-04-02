@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 07:17:51**
+As of **2024-04-02 07:41:26**
 
 ## Newspaper Stats
 
-*Scraped **16,515** Articles*
+*Scraped **16,520** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 147
+colombotelegraphcom | 148
 bbccomsinhala | 174
 dbsjeyarajcom | 201
 newsfirstlk | 363
@@ -16,21 +16,57 @@ dailyftlk | 895
 economynextcom | 909
 islandlk | 924
 adalk | 1,387
-tamilmirrorlk | 1,965
+tamilmirrorlk | 1,966
 adaderanalk | 1,984
 virakesarilk | 2,356
 dailymirrorlk | 2,542
-adaderanasinhalalk | 2,668
+adaderanasinhalalk | 2,671
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,506 (99.9%) of 16,515 articles have been extended.
+16,514 (100.0%) of 16,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### බැංකු සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය අද
+
+*2024-04-02 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195192) · `si`
+
+අද (02) බැංකු සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසුවේ, අදාළ පනත් කෙටුම්පතේ බැංකු ක්‍රමය ආරක්ෂා වන වැදගත් නීති රැසක් අන්තර්ගත බවය.
+
+මේ අතර කොළඹ වරාය නගර ආර්ථික කොමිෂන් සභා පනත යටතේ වන නියෝග, එකතු කළ අගය මත බදු පනත යටතේ වන නියමනයන් සහ ආනයන හා අපනයන පාලන පනත යටතේ වන රෙගුලාසි ද අද විවාදයට ගැනීමට නියමිතව තිබේ.
+
+මේ අතර අද රජයේ මුදල් පිළිබඳ කාරක සභාව සහ රජයේ ගිණුම් පිළිබඳ කාරක සභාව රැස්වීමට නියමිත අතර රජයේ ගිණුම් පිළිබඳ කාරක සභාව හමුවට ආගමන හා විගමන දෙපාර්තමේන්තුවේ නිලධාරීන් කැඳවා තිබේ.
+
+◼️
+
+[Data](articles/214d0e5d.json)
+
+---
+
+### සරසවි සිසුවෙක් දුම්රියේ ගැටෙයි
+
+*2024-04-02 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195191) · `si`
+
+පේරාදෙණිය විශ්වවිද්‍යාලයේ ශ්‍රාස්ත්‍ර පිඨයේ අවසන් වසරේ සිසුවෙක් දුම්රියක ගැටී ජීවිතක්ෂයට පත් තිබේ.
+
+ඊයේ (01) සවස එම අනතුර සිදුව තිබුණේ, පේරාදෙණිය පොලිස් වසමේ පැණිදෙණිය කළුපාලම අසල දුම්රිය මාර්ගයේදීය.
+
+පොලීසිය පවසන්නේ, මහනුවර සිට නාවලපිටිය බලා ධාවනය වූ  දුම්රියක මෙම සිසුවා ගැටී ඇති බවය.
+
+එසේ මියගොස් ඇත්තේ, තල්පිටිය උතුර, වාද්දූව ප්‍රදේශයේ පදිංචි 24 හැවිරිදි විශ්වවිද්‍යාල සිසුවෙකි.
+
+◼️
+
+[Data](articles/117e65bc.json)
+
+---
 
 ### Sri Lanka unaware of ship carrying toxic wastes from the US
 
@@ -45,6 +81,8 @@ The waste included mostly corrosives, flammables, miscellaneous hazardous materi
 ...
 
 [Data](articles/ab80ec44.json)
+
+[Extended Data](ext_articles/ab80ec44.ext.json)
 
 ---
 
@@ -62,21 +100,47 @@ It is apparent that the current Indian ruling Bharatiya Janata Party (BJP) is no
 
 [Data](articles/12782ee4.json)
 
+[Extended Data](ext_articles/12782ee4.ext.json)
+
 ---
 
-### சிரியாவில் ஈரானின் துணைதூதரகம் மீது இஸ்ரேல் தாக்குதல் - ஈரான் இராணுவத்தின் உயர் அதிகாரிகள்  பலி
+### Israeli attack on Iran's vice -embassy in Syria
 
 *2024-04-02 06:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/180199) · `ta`
 
-சிரியாவில் உள்ள ஈரானிய துணை தூதரகம் ஒன்றின் மீது  இஸ்ரேல் மேற்கொண்ட தாக்குதலில் ஈரான் இராணுவத்தின் உயர் அதிகாரிகள்  உட்பட ஏழுபேர் கொல்லப்பட்டுள்ளனர்
+Israeli attack on Iran's consulate in Syria kills seven, including top Iranian officers. Brigadier General Mohammed Rasa Jakedy among the dead.
 
-சிரிய தலைநகர் டமஸ்கசிற்கு மேற்கே உள்ள பகுதியொன்றில் கட்டிடமொன்று முற்றாக தரைமட்டமான நிலையில் காணப்படுவதை காண்பிக்கும் புகைப்படங்களும் வீடியோக்களும் வெளியாகியுள்ளன.
+🟩
 
-பிரிகேடியர் ஜெனரல் முகமட் ரேசா ஜகேடி இஸ்ரேலின் தாக்குதலிற்கு பலியாகியுள்ளார் என  ஈரான் தெரிவித்துள்ளது.
+Seven people, including top Iranian army officers, have been killed in an Israeli attack on an Iranian consulate in Syria
+
+Photos and videos have been revealed in a building in a part of the Syrian capital, Damascus.
+
+Iran has reported that Brigadier General Mohammed Rasa Jakedy has been killed in Israel's attack.
 
 ◼️
 
 [Data](articles/0ae1a68e.json)
+
+[Extended Data](ext_articles/0ae1a68e.ext.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවු වැසි
+
+*2024-04-02 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195189) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ, දකුණ, උතුරු-මැද සහ ඌව පළාත්වල අද (02) ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ දකුණු පළාත්වලත් අනුරාධපුර සහ මොනරාගල දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි. මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+
+බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/53a2f8b6.json)
 
 ---
 
@@ -95,6 +159,8 @@ They also highlighted the additional hurdles, including the restrictions on fore
 ...
 
 [Data](articles/87f35fc5.json)
+
+[Extended Data](ext_articles/87f35fc5.ext.json)
 
 ---
 
@@ -250,6 +316,18 @@ The document indicates the government's estimates of the total income lost due t
 
 ---
 
+### Examining Sri Lanka’s New ‘Romeo & Juliet Law’: A Departure From The 1995 Age Of Consent Legislation
+
+*2024-04-02 01:36:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/examining-sri-lankas-new-romeo-juliet-law-a-departure-from-the-1995-age-of-consent-legislation/) · `en`
+
+According to an article by Shamindra Ferdinando published in the Island newspaper on March 25, 2024, Dr. Sudarshini Fernandopulle, MP, raised concerns about the lack of consultation with the Women Parliamentarians’ Caucus before the Justice Ministry gazetted a bill on February 9, 2024. This bill aimed to amend Chapter 19 of the Penal Code, proposing a reduction in the age of consent for sexual intercourse to 14 years. Dr. Fernandopulle emphasized that this provision directly relates to the human rights of children, with a specific focus on girls. She highlighted the profound impact such legislation could have on their lives, including implications for health and individual identity. Therefore, she stressed the importance of a cautious and sensitive approach to safeguard children’s rights and well-being.
+
+...
+
+[Data](articles/a45a6310.json)
+
+---
+
 ### Health workers and nurses of the Mannar District General Hospital
 
 *2024-04-02 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180196) · `ta`
@@ -362,6 +440,22 @@ Members of the Lions Club, the Municipal Council, can be used to clean the plast
 
 ---
 
+### பஸ் கட்டண திருத்தம் இல்லை
+
+*2024-04-02 01:06:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டண-திருத்தம்-இல்லை/175-335487) · `ta`
+
+பஸ் கட்டண திருத்தம் தொடர்பில் தற்போது பரிசீலிக்க முடியாது என  தனியார் பஸ் உரிமையாளர்கள் சங்கத்தின் தலைவர் கெமுனு விஜேரத்ன தெரிவித்துள்ளார்.
+
+இது தொடர்பில் நேற்று ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்துள்ளார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+தனியார் பஸ்கள் நஷ்டத்தில் இயங்கி வருகின்றன. லங்கா சுப்பர் டீசலின் விலைகள் மேலும் குறையும் பட்சத்தில் இதனை பஸ்கள் பயன்படுத்துவதற்கு முடியும் என்றார். (a)
+
+◼️
+
+[Data](articles/d00d924c.json)
+
+---
+
 ### Father of 3 children
 
 *2024-04-02 01:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180193) · `ta`
@@ -423,6 +517,8 @@ However, with the economic conditions slightly improving, over one million house
 ...
 
 [Data](articles/1c920500.json)
+
+[Extended Data](ext_articles/1c920500.ext.json)
 
 ---
 
@@ -525,6 +621,8 @@ It went on to acknowledge the supportive government policies, including the appr
 ...
 
 [Data](articles/d7879ac1.json)
+
+[Extended Data](ext_articles/d7879ac1.ext.json)
 
 ---
 
@@ -2095,107 +2193,5 @@ On March 20, the Committee on Public Finance recommended to the Central Bank to 
 [Data](articles/30dda84e.json)
 
 [Extended Data](ext_articles/30dda84e.ext.json)
-
----
-
-### President appoints independent committee to review CBSL salary hikes
-
-*2024-04-01 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98350/president-appoints-independent-committee-to-review-cbsl-salary-hikes) · `en`
-
-President Ranil Wickremesinghe, in his capacity as the Minister of Finance, Economic Stabilization and National Policies, has appointed an Independent Remuneration Committee to review the salary increase of the Central Bank of Sri Lanka (CBSL).
-
-The Independent Remuneration Committee members include Mr Dinesh Stephen Weerakkody, Mr Arjuna Herath, Dr Indrajit Coomaraswamy, Mrs Sudharma Karunarathne, Mr Anthony Nihal Fonseka, Mr Anushka S Wijesinha and Mr Duminda Hulangamuwa.
-
-Responding to mounting pressures from Members of Parliament and the Committee on Public Finance (CoPF), President Wickremesinghe has established an independent remuneration committee. This committee will review the contentious salary hike based on the recommendations delineated in the CoPF report on CBSL salary revision, the President’s Media Division said.
-
-...
-
-[Data](articles/5ede28fe.json)
-
-[Extended Data](ext_articles/5ede28fe.ext.json)
-
----
-
-### Ten distillery companies default taxes worth Rs 6.9 billion in 2023
-
-*2024-04-01 16:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ten-distillery-companies-default-taxes-worth-Rs-6-9-billion-in-2023/108-279968) · `en`
-
-Ten distillery companies have defaulted taxes to the tune of Rs 6.9 billion in 2023 as per the report of the Ways and Means Committee which was tabled in Parliament today.
-
-The companies that have defaulted include W.M. Mendis & Company, Wayamba Distilleries, Wayamba Spirit, Globe Blenders, McCallum Brewery, Kalutara Cooperative Distilleries, Synergy Distilleries, Randenigala Distilleries, Hingurana Distilleries and Royal Ceylon Distilleries.
-
-...
-
-[Data](articles/7603773d.json)
-
-[Extended Data](ext_articles/7603773d.ext.json)
-
----
-
-### Tomorrow of 10 major hospitals strike
-
-*2024-04-01 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195178) · `si`
-
-Tomorrow, 10 major hospitals will strike, affecting 9 on the island, according to UPFA. Ravi Kudash, the Alliance's convener, announced this at a press conference.
-
-🟩
-
-The Health Trade Union UPFA says that a 9 hospitals in the island will be implemented tomorrow.
-
-The convener of the Alliance Ravi Kudash said this at a press conference.
-
-◼️
-
-[Data](articles/d3b846d0.json)
-
-[Extended Data](ext_articles/d3b846d0.ext.json)
-
----
-
-### “He must reveal everything he knows”
-
-*2024-04-01 16:18:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனக்கு-தெரிந்த-அனைத்தையும்-அவர்-வெளிப்படுத்த-வேண்டும்/175-335467) · `ta`
-
-Justice Minister Wijeyadasa Rajapakse announced that the Attorney General's Department is following the Presidential Commission's recommendations to investigate the Easter Sunday attacks, with 41 court cases filed against 79 individuals. Former President Maithripala Sirisena acknowledged knowledge of the attacks, and legal action has begun. Parliamentarian Kavinda Jayawardena requested Speaker Mahinda Yapa Abeywardena to reveal all he knows about the attacks.
-
-🟩
-
-Justice Minister Wijeyadasa Rajapakse told Parliament today that the Attorney General's Department has implemented the recommendation of the Presidential Commission to investigate the Easter Sunday attacks.
-
-“The Presidential Commission, which investigated the Easter Sunday attacks, made recommendations to various companies such as the Attorney General's Department and the Police.
-
-So far, 41 court cases have been filed against 79 people by the Attorney General's Department. It is imperative that other institutions like the police are implementing other recommendations of the Presidential Commission, ”the minister said.
-
-Former President Maithripala Sirisena recently said that he was aware of the Easter's Sunday attack, the Attorney General's Department has already begun legal action, said council chairman Susil Premajayantha.
-
-“MP. The report on Sirisena's comments is justice, ”he said.
-
-...
-
-[Data](articles/7222b7f2.json)
-
-[Extended Data](ext_articles/7222b7f2.ext.json)
-
----
-
-### Sri Lanka is also a bag of dollars in Gaza
-
-*2024-04-01 16:11:45* · [`adalk`](https://www.ada.lk/breaking_news/ගාසාහි-ළමා-අරමුදලට-ලංකාවෙනුත්-ඩොලර්-මල්ලක්/11-408885) · `si`
-
-Sri Lanka's government handed over to Palestine. President Ranil Wickremesinghe met with Dr. Suhhir MH. Zyeid, Palestinian representative, and other officials.
-
-🟩
-
-The Government of Sri Lanka has been handed over to the Palestinian government through the official representatives of the Abeyers.
-
-President Ranil Wickremesinghe, President Ranil Wickremesinghe, is Dr. Suhhir MH. Zyeid (he. Zuhair m.h. DAR Zaid) was officially handed over to Mr. Dar Zaid.
-
-Senior Sabri, Foreign Ava, Samun Ekanayake and the Chairman of the Palestinian Embassy in Sri Lanka, were joined the President with President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/10555bc7.json)
-
-[Extended Data](ext_articles/10555bc7.ext.json)
 
 ---

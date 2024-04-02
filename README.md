@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 02:33:54**
+As of **2024-04-03 02:50:14**
 
 ## Newspaper Stats
 
-*Scraped **16,728** Articles*
+*Scraped **16,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,77 @@ islandlk | 925
 adalk | 1,408
 tamilmirrorlk | 1,991
 adaderanalk | 2,009
-virakesarilk | 2,409
-dailymirrorlk | 2,574
+virakesarilk | 2,410
+dailymirrorlk | 2,577
 adaderanasinhalalk | 2,704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,728 (100.0%) of 16,728 articles have been extended.
+16,728 (100.0%) of 16,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### Sri Lanka’s sovereignty of Kachchativu was never in doubt
+
+*2024-04-03 02:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sri-Lankas-sovereignty-of-Kachchativu-was-never-in-doubt/172-280075) · `en`
+
+Sri Lanka’s sovereignty over Kachchativu, according to the narrative, was never in doubt and it was in fact the Kachchativu issue that decided the demarcation of the maritime boundary between Sri Lanka and India
+
+The book relates how laws were brought to confine fishing to areas within the boundary of each country
+
+There were also reports of illicit immigrants from South India using the Kachchativu Festival to enter Sri Lanka
+
+The sovereignty of Kachchativu Island which Sri Lanka had exercised throughout history is once again disputed by India. This is despite India having withdrawn the claim- that it owned this island- with the presentation of facts to the Government of New Delhi some years ago.  However, the island, barren and uninhabited most of the year, had remained a contentious issue for over a hundred years.
+
+...
+
+[Data](articles/38224f20.json)
+
+---
+
+### Child pregnancies, minimum age for marriage and consent debate - EDITORIAL
+
+*2024-04-03 02:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Child-pregnancies-minimum-age-for-marriage-and-consent-debate-EDITORIAL/172-280074) · `en`
+
+With the government on Monday withdrawing the Bill that was gazetted on February 9 this year to amend the Penal Code to lower the age for girls for sexual consent from 16 to 14, a question is naturally being raised as to what prompted the government to introduce the Bill without consulting all stakeholders.
+
+Chair of the Women Parliamentarians’ Caucus, MP Dr. Sudarshini Fernandopulle, while writing to Justice, Prison Affairs and Constitutional Reforms Minister Wijeyadasa Rajapakshe had last month expressed the deep concern of the Caucus about the Bill and requested him to withdraw it. It was against that backdrop the minister had agreed to abandon the Bill. Accordingly, the government has informed the Supreme Court that it would not go ahead with the Bill.
+
+...
+
+[Data](articles/1f35dfa6.json)
+
+---
+
+### Easter Sunday attacks: Maithripala’s Indian hand claim and its far-reaching implications on bilateral ties
+
+*2024-04-03 02:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Easter-Sunday-attacks-Maithripalas-Indian-hand-claim-and-its-far-reaching-implications-on-bilateral-ties/172-280073) · `en`
+
+Having languished in relative obscurity and been found responsible by the Supreme Court for failing to prevent the Easter Sunday carnage  former President Maithripala Sirisena is making headlines again for all the wrong reasons.
+
+Two weeks back, he made an astounding revelation that he knew who was behind the Easter Sunday attacks which killed 269 worshippers and tourists and wounded over 500.
+
+...
+
+[Data](articles/9dd09ed6.json)
+
+---
+
+### வேதனச் சட்ட திருத்தமும்  தோட்டத் தொழிலாளர்களும்!
+
+*2024-04-03 01:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180287) · `ta`
+
+2016ஆம் ஆண்டின் 3ஆம் இலக்க தொழிலாளர் தேசிய குறைந்தபட்ச வேதனச் சட்டத்தின் ஏற்பாடுகளுக்கமைய, தொழிலாளர்களின்  தேசிய குறைந்தபட்ச வேதனத்தை  17.500 ரூபாவாக அதிகரிப்பதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது. இதன் படி 12.500 ரூபாவாக  இருந்த மாதாந்த வேதனம் ஐயாயிரம் ரூபாயால் அதிகரிக்கப்பட்டுள்ளது. அதே வேளை ஆகக்குறைந்த நாளாந்த சம்பளத்திலும் மாற்றங்கள் ஏற்பட்டுள்ளன.
+
+...
+
+[Data](articles/16519871.json)
+
+---
 
 ### New law to solve family violence -Geeta Kumarasinghe
 
@@ -2239,105 +2297,5 @@ He added that no special circumstances have been presented in court to release G
 [Data](articles/4c244158.json)
 
 [Extended Data](ext_articles/4c244158.ext.json)
-
----
-
-### 'Chekka Sivanta Sky' connected with Kamal
-
-*2024-04-02 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180241) · `ta`
-
-"Chekka Sivanta Sky" connected with Kamal. Arun Vijay and Silambarasan co-star in Mani Ratnam's 'Tak Life', replacing Jaime Ravi and Dulquer Salman. Kamal Haasan, Arun Vijay, and Silambarasan form a new leading star coalition. The film's first shoot will be in Azerbaijan, produced by Kamal Haasan, Ravi K, and Mani Ratnam.
-
-🟩
-
-The film crew has confirmed that Arun Vijay and Silambarasan will co -star in 'Tak Life' in 'Tak Life'.
-
-Kamal Haasan plays the hero of the story in Mani Ratnam's upcoming film 'Tak Life'.
-
-It was announced that Jaime Ravi and Dulquer Salman will be playing an important role.. This was a great welcome because it was a new coalition of leading star actors who stamped Kamal Haasan -Jayam Ravi - Dulquer Salman.
-
-Dulquer Salman withdrew from the film as he was unable to assign the dates as the shooting was not planned as planned.. Jaime Ravi also quit the same reason.
-
-Following this, director Mani Ratnam has chosen Arun Vijay and Silambarasan, who showcased their performance in the film 'Chekka Sivanta Vaanam' which was released in his direction to co -star with the world leader Kamal Haasan.
-
-The official announcement on this is expected to be released soon with a special photo.
-
-...
-
-[Data](articles/24ec7998.json)
-
-[Extended Data](ext_articles/24ec7998.ext.json)
-
----
-
-### Anura ready for public debate with Sajith on economic policies: Handunnetti
-
-*2024-04-02 14:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-ready-for-public-debate-with-Sajith-on-economic-policies-Handunnetti/108-280042) · `en`
-
-Colombo, April 2 (Daily Mirror)- The National People's Power (NPP) today invited Opposition Leader Sajith Premadasa for a public debate on economic policies with NPP leader and presidential candidate Anura Kumara Dissanayake.
-
-NPP politburo member Sunil Handunnetti told a news conference that the NPP was ready to take up SJB MPs Nalin Bandara and Dr. Harsha De Silva‘s challenge to the NPP Economic Council for a public debate on economic policies and requested them to convey it in writing.
-
-He said it was a good move to have a debate on economic policies of the presidential candidates ahead of the polls so that people can know their policies, adding that Anura Kumara Dissanayake was ready for a debate with SJB leader Sajith Premadasa.
-
-...
-
-[Data](articles/4982422a.json)
-
-[Extended Data](ext_articles/4982422a.ext.json)
-
----
-
-### Three kids wounded in Finland school shooting; child suspect caught
-
-*2024-04-02 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98371/three-kids-wounded-in-finland-school-shooting-child-suspect-caught) · `en`
-
-Three 12-year-old children were shot and wounded at a school in Finland on Tuesday and the suspect, also 12, was taken into custody, police said.
-
-The victims were taken to hospital, a police spokesperson told Reuters. No further details were immediately available.
-
-The shooting took place at the Viertola school in Vantaa, a suburb of the capital Helsinki, which has around 800 pupils from first to ninth grade and a staff of 90 people, according to the local municipality.
-
-“The immediate danger is over,” the Viertola school’s principal Sari Laasila told Reuters, declining to comment further on the incident.
-
-“The day started in a horrifying way. There has been a shooting incident at the Viertola school in Vantaa. I can only imagine the pain and worry that many families are experiencing at the moment. The suspected perpetrator has been caught,” Interior Minister Mari Rantanen said on X.
-
-Previous school shootings in Finland have put a harsh focus on Finland’s gun policy.
-
-...
-
-[Data](articles/7c24a5c8.json)
-
-[Extended Data](ext_articles/7c24a5c8.ext.json)
-
----
-
-### Wimal urges Speaker to appoint Parliamentary Select Committee
-
-*2024-04-02 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180227) · `ta`
-
-Wimal Weerawansa, MP and NFF leader, urged the Speaker to establish a Parliamentary Select Committee to investigate parties undermining national sovereignty, following a special speech in Parliament. He highlighted pressure exerted by national and international parties during the Charitable Trust presidency and criticized the absence of mention in a book by former President Gotabhaya Rajapaksa.
-
-🟩
-
-The Parliamentary Select Committee should be set up to investigate the national and international parties who have acted against the sovereignty of the country at the event.
-
-The National Freedom Front leader and Member of Parliament, Wimal Weerawansa, urged the Speaker to hold a two -day debate on the issue.
-
-He was speaking at a special speech during a session held in Parliament on Tuesday (2).
-
-On the day when the referendum on the no -confidence motion against the Speaker was completed, you made a special address to the House (Speaker).
-
-You mentioned that pressure was imposed on the national and international level and the level of the political party to take over the presidency of the presidency at the time of the Charitable Trust.
-
-I published a book titled '9 Sekownu'.
-
-Similarly, former President Gotabhaya Rajapaksa recently published the front cover of the book 'maneuver'.. But there is no mention in the book.
-
-...
-
-[Data](articles/ca843972.json)
-
-[Extended Data](ext_articles/ca843972.ext.json)
 
 ---

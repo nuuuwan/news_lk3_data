@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 18:21:57**
+As of **2024-04-02 18:33:55**
 
 ## Newspaper Stats
 
-*Scraped **16,662** Articles*
+*Scraped **16,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,45 +18,39 @@ islandlk | 925
 adalk | 1,402
 tamilmirrorlk | 1,986
 adaderanalk | 2,000
-virakesarilk | 2,388
-dailymirrorlk | 2,566
-adaderanasinhalalk | 2,698
+virakesarilk | 2,394
+dailymirrorlk | 2,567
+adaderanasinhalalk | 2,699
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,662 (100.0%) of 16,662 articles have been extended.
+16,662 (100.0%) of 16,670 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### The Film Amendment Bill is passed by 36 votes
+### සෞඛ්‍ය සේවකයන්ගේ තීරණය අද රාත්‍රියේ
 
-*2024-04-02 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180271) · `ta`
+*2024-04-02 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195221) · `si`
 
-The Film Amendment Bill and Value Tax Act increase passed with 36 votes. Lakshman Kiriella voted in favor.
+වෛද්‍යවරුන්ට ලබාදුන් ඩැට් දීමනාව හා සමාන දීමනාවක් තමන්ට ද ලබාදෙන ලෙස ඉල්ලා සෞඛ්‍ය වෘත්තීය සමිති අද (02) වෘත්තීය ක්‍රියාමාර්ගවල නිරත වුණි.
 
-🟩
+පසුව බලධාරීන් සමග සාකච්ඡාවක් පැවැති අතර එය ප්‍රතිපත්තිමය එකඟතාවයකින් අවසන් වූ බව වාර්තා විය.
 
-Under the Value Tax Act, which will increase the 15 percent tax to 18 percent, the order was passed by 36 additional votes.
-
-On Tuesday (2) in Parliament, Lakshman Kiriella, the Opposition's Prime Minister, made a vote of voting to pass the order under the Value Tax Act.
-
-Subsequently, in the electronic vote, 55 votes were cast in favor of the order under the Value Tax Act and 19 votes were passed by 36 additional votes.
+ඒ අනුව ඉදිරි වර්ජන ක්‍රියාමාර්ගය පිළිබඳව අද රාත්‍රී 07ට අවසන් තීරණයක් ගැනීමට නියමිත බව සෞඛ්‍ය වෘත්තීය සමිති පැවසීය.
 
 ◼️
 
-[Data](articles/cc857322.json)
-
-[Extended Data](ext_articles/cc857322.ext.json)
+[Data](articles/300505be.json)
 
 ---
 
 ### Although the economy is firm, poverty in Sri Lanka is high - the World Bank
 
-*2024-04-02 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180270) · `ta`
+*2024-04-02 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180270) · `ta`
 
 Despite Sri Lanka's economic recovery, high poverty and income inequality persist. The World Bank predicts 2.2% growth in 2024, but warns of challenges like high poverty levels and industrial market concerns. Poverty has risen for four years, with 25.9% of Sri Lankans living below the poverty line by 2023. The report highlights the need for state-owned financial stability and private sector investments to address future opportunities and the impact of the crisis.
 
@@ -73,6 +67,142 @@ He said that inflation is declining in Sri Lanka, the new state policy policies 
 [Data](articles/da29fb03.json)
 
 [Extended Data](ext_articles/da29fb03.ext.json)
+
+---
+
+### யாழில் வாள் வெட்டு ; 22 பேர் வைத்தியசாலையில்
+
+*2024-04-02 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180243) · `ta`
+
+யாழ்ப்பாணம் புறநகர் பகுதியில் இரண்டு வன்முறை கும்பல்களுக்கு இடையில் ஏற்பட்ட மோதல் சம்பவத்தில் காயமடைந்த நிலையில் 22 பேர் யாழ்.போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+தாக்குதல்களுக்கு இலக்காகி காயங்களுடன் திடீரென 22 பேர் வைத்தியசலையில் குறிப்பிட்ட சில மணி நேரங்களுக்குள் அனுமதிக்கப்பட்டமையால், வைத்தியர்கள் நெருக்கடிகளை எதிர்கொண்டதாக தெரிவிக்கப்படுகிறது.
+
+அதேவேளை சிகிச்சைக்காக அனுமதிக்கப்பட்டவர்கள், அவர்களுடன் உதவிக்கு வந்தவர்கள், வைத்தியசாலையினுள்ளும் மோதல் போக்குடன் காணப்பட்டதுடன், மோதலில் ஈடுபடவும் முயன்றுள்ளனர்.
+
+◼️
+
+[Data](articles/5decd69c.json)
+
+---
+
+### 12-year-old shoots classmate dead, wounds two others in Finland
+
+*2024-04-02 18:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/12-year-old-shoots-classmate-dead-wounds-two-others-in-Finland/108-280048) · `en`
+
+HELSINKI, April 2 (Reuters) - One child was killed and two seriously wounded in a shooting at a school outside the Finnish capital on Tuesday, police said, with a 12-year-old fellow pupil suspected of the attack taken into custody.
+
+In the aftermath of the shooting, police cordoned off a building at the Viertola school in the Vantaa suburb of Helsinki.
+
+The arrest was made without further violence in the suburb of Siltamaki, away from the school. Both the suspect and the weapon were now in police custody, police said.
+
+There were no other suspects for now, police said. They provided no details of the identity of the suspect or victims, apart from saying they were all 12-year-old Finns and pupils at the school.
+
+Education Minister Anna-Maja Henriksson broke into tears while speaking at a press conference hours after the attack.
+
+"One 12-year-old child will never again return home from school," she said.
+
+...
+
+[Data](articles/65f6f31d.json)
+
+---
+
+### தேராவில் பிரதேசத்தில் காட்டு யானைகள் அட்டகாசம் ! யானை வேலி அமைத்து தருமாறு மக்கள் கோரிக்கை
+
+*2024-04-02 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180249) · `ta`
+
+முல்லைத்தீவு  மாவட்டத்தின் புதுக்குடியிருப்பு பிரதேச செயலாளர் பிரிவுக்குட்பட்ட தேராவில் கிராமத்தில் காட்டு யானைகளின் அட்டகாசம் அதிகரித்துள்ளதாக மக்கள் கவலை வெளியிட்டுள்ளனர்.
+
+மாலை வேளையிலேயே ஊர்மனைக்குள் வருகின்ற யானைகள்   அதிகாலை வரை  ஊரில் உள்ள பயன் தரும் மரங்கள் மற்றும் தோட்ட செய்கைகள்  சொத்துக்கள் என பல்வேறு சேதங்களை  ஏற்படுத்தி வருவதோடு இதனால் தொடர்ச்சியாக தாம்  பாதிக்கப்பட்டு வருவதாக மக்கள் தெரிவிக்கின்றனர்
+
+குறிப்பாக அண்மை நாட்களாக வருகை தந்த யானைகள் தங்களது பயன்தரு தென்னை மரங்கள் உள்ளிட்ட பல்வேறு மரங்களை நாசம் செய்துள்ளதோடு வேலிகளுக்காக போட்ட தூண்கள் உள்ளிட்ட பல்வேறு பொருட்களையும் சேதப்படுத்தி உள்ளது இதனால் வீடுகளில் வாழும் மக்கள் அச்சத்தோடு வாழ வேண்டியுள்ளதோடு இதனால் தமது வாழ்வாதாரம் வெகுவாக பாதிக்கப்பட்டு வருவதாக மக்கள் கவலை வெளியிட்டுள்ளனர்
+
+...
+
+[Data](articles/813bfbef.json)
+
+---
+
+### 'என்னை காப்பாற்றியது ரசிகர்களின் பிரார்த்தனை தான்' - 'மக்கள் நாயகன்' ராமராஜன்
+
+*2024-04-02 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180265) · `ta`
+
+தமிழ் சினிமாவின் சரித்திரத்தில் தவிர்க்க முடியாத சக்தியாக இருப்பவர் 'மக்கள் நாயகன்' ராமராஜன். சிறிய இடைவெளிக்கு பிறகு அவர் கதையின் நாயகனாக நடித்திருக்கும் திரைப்படம் 'சாமானியன்'. விரைவில் வெளியாகவிருக்கும் இந்த திரைப்படத்தின் இசை மற்றும் முன்னோட்ட வெளியீட்டு விழா சென்னையில் சிறப்பாக நடைபெற்றது.
+
+இயக்குநர் ராகேஷ் இயக்கத்தில் உருவாகி இருக்கும் 'சாமானியன்' எனும் திரைப்படத்தில் ராமராஜன், நக்ஷா சரண், ஸ்மிருதி வெங்கட், அபர்னதி, ராதா ரவி, எம். எஸ். பாஸ்கர், லியோ சிவக்குமார், ராஜா ராணி பாண்டியன், மைம் கோபி, போஸ்ட் வெங்கட், வினோதினி, கே. எஸ். ரவிக்குமார், ரோபோ சங்கர் உள்ளிட்ட பலர் நடித்துள்ளனர். அருள் செல்வன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு இசை ஞானி இளையராஜா இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை எட்செட்ரா என்டர்டெயின்மென்ட் பட நிறுவனம் சார்பில் தயாரிப்பாளர் வி. மதியழகன் தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/479f35f0.json)
+
+---
+
+### பான் இந்திய நட்சத்திர நடிகரான பிரபாஸ் பெருமிதத்துடன் வெளியிட்ட 'டபுள் டக்கர்' பட முன்னோட்டம்
+
+*2024-04-02 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180266) · `ta`
+
+சென்னையின் பிரபலமான இதய சத்திர சிகிச்சை நிபுணரும், நடிகருமான தீரஜ் கதையின் நாயகனாக நடித்திருக்கும் 'டபுள் டக்கர்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியாகி இருக்கிறது.
+
+இதனை 'பாகுபலி' படத்தின் மூலம் பான் இந்திய நட்சத்திர நடிகராக உயர்ந்த நடிகர் பிரபாஸ் அவருடைய இணைய பக்கத்தில் வெளியிட்டு, படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+
+தமிழ் மற்றும் தெலுங்கு மொழியில் வெளியாகி இருக்கும் இந்த திரைப்படத்தின் முன்னோட்டம் குறுகிய கால அவகாசத்திற்குள் ஒரு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்திருக்கிறது.
+
+...
+
+[Data](articles/8527c485.json)
+
+---
+
+### வளரிளம் பருவ குழந்தைகளின் குதூகல கொண்டாட்டத்திற்கு தயாராகும் 'டீன்ஸ்'
+
+*2024-04-02 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180263) · `ta`
+
+திரையில் ஒற்றை கதாபாத்திரத்தின் மூலம் கதை சொல்லுதல்... சிங்கிள் ஷாட்டில் கதை சொல்லுதல்... என புதிய முயற்சிகளை, 'புதிய பாதை' படத்திலிருந்து தொடர்ந்து இன்று வரை முயற்சித்து, சாதித்து.. சாதனையாளராக திகழும் இரா. பார்த்திபனின் மற்றொரு புதிய  முயற்சியாக உருவாகி இருக்கும் 'டீன்ஸ்' திரைப்படத்தின் டீசர் வெளியாகி இருக்கிறது.
+
+இயக்குநர் இரா. பார்த்திபன் இயக்கத்தில் உருவாகி இருக்கும் 'டீன்ஸ்' திரைப்படத்தில் வளரிளம் பருவத்தில் இருக்கும் புதுமுக நட்சத்திரங்கள் நடித்திருக்கிறார்கள். கேவ்மிக் ஆரி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு டி. இமான் இசையமைத்திருக்கிறார். ஹாரர் திரில்லர் ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை பயாஸ்கோப் ஃபிரேம்ஸ் எல் எல் பி மற்றும் அகிரா புரொடக்ஷன்ஸ் பிரைவேட் லிமிடெட் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் கால்டுவெல் வேள்நம்பி, டாக்டர் பாலசுவாமிநாதன், டாக்டர் பின்சி ஸ்ரீனிவாசன், ரஞ்சித் தண்டபாணி மற்றும் ராதாகிருஷ்ணன் பார்த்திபன் ஆகியோர் இணைந்து தயாரித்துள்ளனர்.
+
+...
+
+[Data](articles/c396a4b4.json)
+
+---
+
+### தி ஃபேமிலி ஸ்டார்'ஆகும் விஜய் தேவரகொண்டா
+
+*2024-04-02 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180267) · `ta`
+
+தமிழ் திரையுலகிலிருந்து விரைவில் அரசியல் உலகிற்குள் நடிகர் விஜய் பிரவேசிக்கவிருப்பதால்... அவருடைய திரையுலக இடத்தை கைப்பற்றுவதற்கு தமிழ் திரையுலகிலிருந்து மட்டுமல்லாமல் தெலுங்கு திரையுலகின் முன்னணி நட்சத்திர நடிகர்களும் போட்டியில் குதித்திருக்கிறார்கள்.
+
+அதில் விஜய் தேவரகொண்டாவும் ஒருவர். இவர் நடிப்பில் உருவாகி இருக்கும் 'தி ஃபேமிலி ஸ்டார்' எனும் திரைப்படம் எதிர்வரும் ஐந்தாம் திகதி என்று தமிழ் மற்றும் தெலுங்கு மொழியில் உலகம் முழுவதும் படமாளிகையில் வெளியாகிறது.
+
+இந்நிலையில் படத்தை விளம்பரப்படுத்தும் பணியில் படக்குழுவினர் தீவிரமாக ஈடுபட்டுள்ளனர். இதன் ஒரு பகுதியாக சென்னையில் உள்ள நட்சத்திர ஹொட்டேல் ஒன்றில் அவர்கள் பத்திரிக்கையாளர்களை சந்தித்தனர்.
+
+...
+
+[Data](articles/0a6d1262.json)
+
+---
+
+### The Film Amendment Bill is passed by 36 votes
+
+*2024-04-02 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180271) · `ta`
+
+The Film Amendment Bill and Value Tax Act increase passed with 36 votes. Lakshman Kiriella voted in favor.
+
+🟩
+
+Under the Value Tax Act, which will increase the 15 percent tax to 18 percent, the order was passed by 36 additional votes.
+
+On Tuesday (2) in Parliament, Lakshman Kiriella, the Opposition's Prime Minister, made a vote of voting to pass the order under the Value Tax Act.
+
+Subsequently, in the electronic vote, 55 votes were cast in favor of the order under the Value Tax Act and 19 votes were passed by 36 additional votes.
+
+◼️
+
+[Data](articles/cc857322.json)
+
+[Extended Data](ext_articles/cc857322.ext.json)
 
 ---
 
@@ -223,6 +353,8 @@ Meanwhile, the Bank Amendment Bill was completed today (02) and passed a revisio
 Parliament, April 2 (Daily Mirror)- The order under the Value Added Tax (VAT) which proposed to increase the VAT percentage from 15 percent to 18 percent was passed in Parliament with a majority of 36 votes.
 
 A total of 55 MPs voted in favour while 19 MPs voted against.
+
+The gazette notification for the amendment was issued in January this year.
 
 ◼️
 
@@ -2041,183 +2173,5 @@ Therefore, necessary activities are being carried out to cut and remove dangerou
 [Data](articles/01782c40.json)
 
 [Extended Data](ext_articles/01782c40.ext.json)
-
----
-
-### “CEA is not aware of that freight ship”
-
-*2024-04-02 11:05:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்த-சரக்கு-கப்பல்-பற்றி-CEA-அறிந்திருக்கவில்லை/175-335497) · `ta`
-
-The Central Environmental Authority (CEA) is unaware of a Singapore cargo ship carrying hazardous goods from the US to Sri Lanka. The ship, MAERSK, crashed into a Baltimore Bridge with 764 tonnes of hazardous items on March 26. Opposition Leader Sajith Premadasa calls for an investigation into how the ship was allowed to carry hazardous items to Sri Lanka. Minister Wakumbura agrees, stating that Sri Lanka would not have known about the hazardous cargo unless the ship crashed. The Sri Lankan Customs and Colombo port have been notified, and a formal inquiry is underway.
-
-🟩
-
-The Central Environmental Authority has launched a comprehensive investigation into the incident of a Singapore cargo ship from the United States to Sri Lanka from the United States.
-
-He told Parliament that the CEA did not know how to travel to Sri Lanka to carry hazardous goods.
-
-Responding to a question raised by Opposition Leader Sajith Premadasa, hearing the government's reflection of the government about the media reporting in the media about the MAERSK, a rented Singapore cargo ship, which crashed into a Baltimore Bridge in the United States with 764 tonnes of hazardous items on March 26.
-
-The Opposition Leader said that a proper investigation should be held on how such a freight ship moved towards Sri Lanka by loading hazardous items from the country.
-
-We will not be aware of the hazardous items in the cargo ship until the crash is not encountered. A formal inquiry should be conducted on how such a ship went to Sri Lanka.
-
-...
-
-[Data](articles/92e5e308.json)
-
-[Extended Data](ext_articles/92e5e308.ext.json)
-
----
-
-### Wijeratne appointed as Director of Bribery Commission
-
-*2024-04-02 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180213) · `ta`
-
-Wijeratne named Director of Bribery Commission.
-
-🟩
-
-◼️
-
-[Data](articles/0bb228f6.json)
-
-[Extended Data](ext_articles/0bb228f6.ext.json)
-
----
-
-### New Director General appointed to Bribery Commission
-
-*2024-04-02 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98366/new-director-general-appointed-to-bribery-commission) · `en`
-
-Mr. W. K. D. Wijerathne has been appointed as the Director General of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), the President’s Media Division (PMD) said.
-
-The appointment was made by President Ranil Wickremesinghe, in accordance with the provisions of the new Anti-Corruption Act.
-
-◼️
-
-[Data](articles/85a92472.json)
-
-[Extended Data](ext_articles/85a92472.ext.json)
-
----
-
-### Increase
-
-*2024-04-02 10:56:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உள்நாட்டு-பால்மா-பாவனை-அதிகரிப்பு/175-335496) · `ta`
-
-Sri Lanka's milk consumption has slightly increased post-crisis, but overall, it's less than before. Economic recovery has seen over a million families return to the market, but the dairy industry needs at least two years to reach pre-crisis levels.
-
-🟩
-
-Following the economic crisis, a senior industry representative said the use of Sri Lanka's monthly milk, which has been reduced by almost half of the price rise, has seen a slight increase.
-
-Consumption of 7,000 metric tonnes of milk powder in the last three years has declined to 3,000 metric tonnes in the last three years due to the rise in US dollar prices, milk prices in the world market and government tax hikes.
-
-However, with the slightest improvement of economic conditions, more than one million families have returned to the market, although the overall consumption is less than the previous level, said Ravi Jayawardena, CEO of the Maliban Group.
-
-He shared his views while addressing a group debate by the Kabital Alliance Limited, which examines the current trends of Sri Lankan consumer spending and the post -crisis view.
-
-According to Jayawardena, the domestic dairy industry will take at least two years to return to Kovit's previous consumption.
-
-...
-
-[Data](articles/ce8a02cb.json)
-
-[Extended Data](ext_articles/ce8a02cb.ext.json)
-
----
-
-### Goal received by Bangladesh
-
-*2024-04-02 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195202) · `si`
-
-Bangladesh needs 511 runs to win against Sri Lanka in the 2nd Test. Sri Lanka scored 531 in the first innings, and Bangladesh 178. Sri Lanka's second innings was suspended at 157/7, with Angelo Mathews scoring 56.
-
-🟩
-
-Today is the fourth day of the Second Test match of the Sri Lanka - Bangladesh.
-
-Sri Lanka suspended its second innings before a few months ago.
-
-At that time, Sri Lanka scored 157 runs for the loss of 7 wickets.
-
-Bangladesh must obtain 511 runs in order to win the match.
-
-Angelo Mathews scored 56 runs for the second innings of Sri Lanka.
-
-Batting first, Sri Lanka scored 531 runs while Bangladesh scored 178 runs for the first innings.
-
-◼️
-
-[Data](articles/1430706d.json)
-
-[Extended Data](ext_articles/1430706d.ext.json)
-
----
-
-### New Director of Bribery Commission
-
-*2024-04-02 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195203) · `si`
-
-Mr. Wijeratne appointed as Director General of Bribery or Corruption by President Ranil Wickremesinghe, under the new corruption Act.
-
-🟩
-
-WDD as Director General of Bribery or Corruption. Mr. Wijeratne has been appointed.
-
-President Ranil Wickremesinghe has made the appointment by the Presidential Media Unit.
-
-The President has appointed the appointment by the provisions of the new corruption Act.
-
-◼️
-
-[Data](articles/709d7312.json)
-
-[Extended Data](ext_articles/709d7312.ext.json)
-
----
-
-### Lafs Gas Gas Fully Prices
-
-*2024-04-02 10:46:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லாஃப்ஸ்-எரிவாயு-சடுதியாக-விலைகுறைப்பு/175-335495) · `ta`
-
-Lafs Gas PLC reduces LPG prices, citing economic improvements and government support.
-
-🟩
-
-Lafs gas PLC has significantly reduced the prices of its Lafs domesticated petroleum gas (LPG) since midnight yesterday.
-
-As of today, the price of 12.5 kilograms of domestic cylinder in the Colombo district will be reduced by Rs 625 and sold at Rs 4,115.
-
-“This significant price correction comes as a testament to many positive improvements and favorable economic environment,” the Lafs Case said in a statement.
-
-It supports government policies, including the increase in the value of the Sri Lankan rupee against the US dollar, the reduction of interest rates, the availability of a large number of foreign exchange, and the facility to open a loan.
-
-◼️
-
-[Data](articles/dd8d49e3.json)
-
-[Extended Data](ext_articles/dd8d49e3.ext.json)
-
----
-
-### Central Environment Authority investigating into ship carrying toxic wastes from US: Minister
-
-*2024-04-02 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Environment-Authority-investigating-into-ship-carrying-toxic-wastes-from-US-Minister/108-280018) · `en`
-
-Parliament, April 2 (Daily Mirror)- The Central Environment Authority (CEA) has launched a comprehensive investigation into the incident where a Singapore cargo ship was carrying hazardous materials to Sri Lanka from the US, State Minister of Environment Janaka Wakkumbura said today.
-
-He told Parliament that the CEA was unaware that the cargo ship carrying hazardous materials was heading to Sri Lanka.
-
-The Minister said this while responding to a question raised by Opposition Leader Sajith Premadasa, who asked the government's reaction to the media reports on the Singapore cargo ship Dali chartered by Maersk, which crashed onto the Baltimore, US bridge on March 26, carrying 764 tons of hazardous materials.
-
-The Opposition Leader said a proper investigation should be conducted as to how such a cargo ship carrying hazardous materials was heading to Sri Lanka without the knowledge of the country.
-
-...
-
-[Data](articles/0d100f26.json)
-
-[Extended Data](ext_articles/0d100f26.ext.json)
 
 ---

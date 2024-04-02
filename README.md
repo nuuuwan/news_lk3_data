@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 17:18:03**
+As of **2024-04-02 17:35:38**
 
 ## Newspaper Stats
 
-*Scraped **16,651** Articles*
+*Scraped **16,652** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,57 @@ tamilmirrorlk | 1,986
 adaderanalk | 1,999
 virakesarilk | 2,382
 dailymirrorlk | 2,563
-adaderanasinhalalk | 2,697
+adaderanasinhalalk | 2,698
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,650 (100.0%) of 16,651 articles have been extended.
+16,651 (100.0%) of 16,652 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### වැට් වැඩිකිරීමට අදාළ නියමය වැඩි ඡන්දයෙන් සම්මත වෙයි
+### ශ්‍රී ලංකාව ජයග්‍රහණය අභියස
+
+*2024-04-02 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195220) · `si`
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවැත්වෙන දෙවැනි ටෙස්ට් ක්‍රිකට් තරගයේ සිව් වැනි දිනය අවසන් වනවිට බංග්ලාදේශ කණ්ඩායම සිය දෙවැනි ඉනිම සඳහා කඩුලු 7ක් දැවී ලකුණු 268ක් ලබා සිටියේය.
+
+අද දිනය ආරම්භ කරන විට කඩුලු 6ක් දැවී ලකුණු 102ක් ලබාගෙන සිටි සංචාරක ශ්‍රී ලංකා කණ්ඩායම සිය දෙවැනි ඉනිම සඳහා කඩුලු 7ක් දැවී ලකුණු 157ක් ලබා ගත්තේය.
+
+ඒ අනුව තරගයෙන් ජයග්‍රහණය සඳහා සත්කාරක බංග්ලාදේශ කණ්ඩායමට හිමි වූ ඉලක්කය ලකුණු 511කි.
+
+එහෙත් සිව් වන දිනය සඳහා තරගය නතර කරන විට බංග්ලාදේශ කණ්ඩායම සිය දෙවැනි ඉනිම සඳහා ලබා සිටියේ කඩුලු 7ක් දැවී ලකුණු 268ක් පමණි.
+
+මෙම තරගයේ පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම සියලුදෙනා දැවී ලකුණු 531ක් රැස්කළේය.
+
+◼️
+
+[Data](articles/89ccc0d2.json)
+
+---
+
+### The law pertaining to the growth of VAT is passed by a majority
 
 *2024-04-02 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195219) · `si`
 
-එකතු කළ අගය මත බදු පනත යටතේ නියමය අද (02) පාර්ලිමේන්තුවේදී වැඩි ඡන්ද 36කින් සම්මත කෙරුණි.
+The Added Tax Act, passed by a majority, increases VAT. The opposition secured 55 votes in favor. Today, the Bank Amendment Bill was revised and passed.
 
-ඒ සඳහා විපක්ෂය ඡන්දයක් ඉල්ලා සිටි අතර එහිදී නියමයට පක්ෂව ඡන්ද 55ක් සහ විරුද්ධව ඡන්ද 19ක් හිමිවිය.
+🟩
 
-මේ අතර බැංකු සංශෝධන පනත් කෙටුම්පත අද (02) පාර්ලිමේන්තුවේදී තුන්වන වර කියවා සංශෝධන රහිතව සම්මත කර ගැනුණි.
+Under the Added Tax Act, the law was passed today (02) in Parliament today.
+
+The opposition demanded a vote and 55 votes were cast in favor of the following.
+
+Meanwhile, the Bank Amendment Bill was completed today (02) and passed a revision.
 
 ◼️
 
 [Data](articles/99bfc761.json)
+
+[Extended Data](ext_articles/99bfc761.ext.json)
 
 ---
 
@@ -2207,25 +2233,5 @@ A special cultural dance performance had also been organized by the Airport and 
 [Data](articles/0bc61bce.json)
 
 [Extended Data](ext_articles/0bc61bce.ext.json)
-
----
-
-### Thai Airways resumes daily flights to Sri Lanka
-
-*2024-04-02 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98364/thai-airways-resumes-daily-flights-to-sri-lanka) · `en`
-
-After a four-year hiatus, Thai Airways flight TG 307 arrived at Bandaranaike International Airport (BIA) in Katunayake at 11.55 p.m. on Monday (01).
-
-Originating from Bangkok, Thailand, the flight carried approximately 150 foreign tourists, including Thai nationals. According to Katunayake airport authorities, flights between Thailand and Sri Lanka are now operating daily.
-
-Nimal Siripala de Silva, the Minister of Ports, Shipping & Aviation welcomed the flight and its passengers at the arrival terminal.
-
-A special cultural dance performance had also been organized by the Airport and Aviation Services (Sri Lanka) Ltd. (AASL) to commemorate the occasion and welcome the flight and passengers. Several officials, including Eng. Athula Galketiya, the AASL chairman were in attendance at the event.
-
-...
-
-[Data](articles/bb8d0cac.json)
-
-[Extended Data](ext_articles/bb8d0cac.ext.json)
 
 ---

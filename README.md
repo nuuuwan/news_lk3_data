@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 17:35:38**
+As of **2024-04-02 17:54:19**
 
 ## Newspaper Stats
 
-*Scraped **16,652** Articles*
+*Scraped **16,655** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,42 @@ adalk | 1,402
 tamilmirrorlk | 1,986
 adaderanalk | 1,999
 virakesarilk | 2,382
-dailymirrorlk | 2,563
+dailymirrorlk | 2,566
 adaderanasinhalalk | 2,698
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,651 (100.0%) of 16,652 articles have been extended.
+16,652 (100.0%) of 16,655 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### ශ්‍රී ලංකාව ජයග්‍රහණය අභියස
+### Sri Lanka wins victory
 
 *2024-04-02 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195220) · `si`
 
-ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවැත්වෙන දෙවැනි ටෙස්ට් ක්‍රිකට් තරගයේ සිව් වැනි දිනය අවසන් වනවිට බංග්ලාදේශ කණ්ඩායම සිය දෙවැනි ඉනිම සඳහා කඩුලු 7ක් දැවී ලකුණු 268ක් ලබා සිටියේය.
+Sri Lanka wins the Test match against Bangladesh, with Bangladesh scoring 511 runs in their second innings, and Sri Lanka 152. Sri Lanka scored 531 runs in their first innings.
 
-අද දිනය ආරම්භ කරන විට කඩුලු 6ක් දැවී ලකුණු 102ක් ලබාගෙන සිටි සංචාරක ශ්‍රී ලංකා කණ්ඩායම සිය දෙවැනි ඉනිම සඳහා කඩුලු 7ක් දැවී ලකුණු 157ක් ලබා ගත්තේය.
+🟩
 
-ඒ අනුව තරගයෙන් ජයග්‍රහණය සඳහා සත්කාරක බංග්ලාදේශ කණ්ඩායමට හිමි වූ ඉලක්කය ලකුණු 511කි.
+By the end of the fourth Test match between Sri Lanka and Bangladesh, Bangladesh scored 268 runs for the loss of 7 wickets in their second innings.
 
-එහෙත් සිව් වන දිනය සඳහා තරගය නතර කරන විට බංග්ලාදේශ කණ්ඩායම සිය දෙවැනි ඉනිම සඳහා ලබා සිටියේ කඩුලු 7ක් දැවී ලකුණු 268ක් පමණි.
+Tourism Sri Lanka scored 152 runs for the loss of 7 wickets in their second innings.
 
-මෙම තරගයේ පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම සියලුදෙනා දැවී ලකුණු 531ක් රැස්කළේය.
+Accordingly, the Host Bangladesh team scored 511 runs.
+
+But the Bangladesh team scored 268 runs for the loss of 7 wickets in their second innings when the match was stopped.
+
+Batting first, Sri Lanka scored 531 runs for the loss of all of the people.
 
 ◼️
 
 [Data](articles/89ccc0d2.json)
+
+[Extended Data](ext_articles/89ccc0d2.ext.json)
 
 ---
 
@@ -71,6 +77,20 @@ Meanwhile, the Bank Amendment Bill was completed today (02) and passed a revisio
 [Data](articles/99bfc761.json)
 
 [Extended Data](ext_articles/99bfc761.ext.json)
+
+---
+
+### Parliament approves VAT increase from 15% to 18%
+
+*2024-04-02 16:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-approves-VAT-increase-from-15-to-18/108-280047) · `en`
+
+Parliament, April 2 (Daily Mirror)- The order under the Value Added Tax (VAT) which proposed to increase the VAT percentage from 15 percent to 18 percent was passed in Parliament with a majority of 36 votes.
+
+A total of 55 MPs voted in favour while 19 MPs voted against.
+
+◼️
+
+[Data](articles/1d132718.json)
 
 ---
 
@@ -134,6 +154,26 @@ Gnanasara Thera had released the bail of Gnanasara Thera to release the Barantee
 
 ---
 
+### Taxes to be levied from importers who have earned undue profits
+
+*2024-04-02 16:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Taxes-to-be-levied-from-importers-who-have-earned-undue-profits/108-280046) · `en`
+
+Parliament, April 2 (Daily Mirror)- The Ways and Means Committee has requested the Customs to handover the names of importers, who have earned undue profits last year, to the Inland Revenue Department so that they could be taxed, the Chairman of the Committee Patali Champika Ranawaka said today.
+
+MP Ranawaka told a media briefing in Parliament that the Inland Revenue Department will charge 36 percent of their income as taxes.
+
+“Some of the importers have  started companies temporarily to import essential items and then fraudulently changed over to other companies,” the MP added.
+
+Member of the Ways and Means Committee MP Dayasiri Jayasekera said some have registered companies on the names of their family members and have evaded paying Value Added Tax (VAT).
+
+It was reported that importers of essential items such as big onions, potatoes and dried sprats have earned a total profit of Rs. 114 billion last year, the report of the Ways and Means Committee which was tabled in Parliament revealed.
+
+...
+
+[Data](articles/6e18f107.json)
+
+---
+
 ### The Central Bank Assistant Governor has commented on the quota
 
 *2024-04-02 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180257) · `ta`
@@ -153,6 +193,20 @@ From March 2021, the Central Bank had a mutual transaction with the RMP 10 billi
 [Data](articles/42030451.json)
 
 [Extended Data](ext_articles/42030451.ext.json)
+
+---
+
+### Sri Lanka’s economy shows signs of stabilization, but poverty remains elevated
+
+*2024-04-02 16:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-economy-shows-signs-of-stabilization-but-poverty-remains-elevated/108-280045) · `en`
+
+April 02 -  Sri Lanka’s economy is projected to see moderate growth of 2.2% in 2024, showing signs of stabilization, following the severe economic downturn of 2022 while the country still faces elevated poverty levels, income inequality, and labor market concerns, said the World Bank's latest bi-annual update.
+
+According to the Sri Lanka Development Update released today, Sri Lanka saw declining inflation, higher revenues on the back of the implementation of new fiscal policies, and a current account surplus for the first time in nearly five decades, buoyed by increased remittances and a rebound in tourism.
+
+...
+
+[Data](articles/e94f7740.json)
 
 ---
 
@@ -962,7 +1016,7 @@ Gnanasara Thero had been accused of making defamatory comments against Islam dur
 
 Colombo, April 2 (Daily Mirror) - The Colombo High Court today refused to release Bodu Bala Sena (BBS) General Secretary Ven. Galaboda Atte Gnanasara Thera on bail.
 
-Accordingly, Colombo High Court Judge Adithya Patabendige rejected the bail application filed on behalf of Ven. Gnanasara Thera citing there are no special circumstances revealed before court to release Ven. Gnanasara Thera on bail.
+Accordingly, Colombo High Court Judge Adithya Patabendige rejected the bail application filed on behalf of Ven. Gnanasara Thera citing there are no exceptional circumstances revealed before court to release Ven. Gnanasara Thera on bail.
 
 The defence requested court to release Ven. Gnanasara Thera on bail pending appeal and moved court that the accused be released on bail taking into consideration the delay in concluding hearing of an appeal in the Court of Appeal  and his health condition.
 
@@ -2163,75 +2217,5 @@ The Colombo Stock Exchange opened up; the All Share Price Index was up 0.11 perc
 [Data](articles/885c9396.json)
 
 [Extended Data](ext_articles/885c9396.ext.json)
-
----
-
-### Petitions against IGP should consider today
-
-*2024-04-02 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195199) · `si`
-
-Supreme Court today considers petitions challenging President's IGP nomination. Petitioners, including Cardinal Malcolm Ranjith and Prof. Savitri Gunasekara, argue the nomination of Deshabandu Tennakoon lacks constitutional approval.
-
-🟩
-
-The Fundamental Rights Petitions filed by the Supreme Court today to be considered as the Supreme Court today to challenge the President's decision as the IGP.
-
-These petitions are due to be considered before the Supreme Court Judge of Chief Justice Jayantha Jayasuriya.
-
-The petitions were presented by the Cardinal Malcolm Ranjith, Prof. Savitri Gunasekara, former Parliamentarian Premachandra and others.
-
-The Speaker, including the Speaker, including the Speaker, including the Speaker, including the Speaker, and the Attorney General, have been named as the respondents in the petition.
-
-Petitioners claim that the nomination of Deshabandu Tennakoon, who was recommended by the President to appoint as IGP, has not been properly approved by the Constitution.
-
-Atthism, the petitions referred to that the President's decision was fully contradicted to appoint him in such a case.
-
-Accordingly, the appointment order has been issued to issue a powerful order and requested petitions.
-
-◼️
-
-[Data](articles/73ee7c1d.json)
-
-[Extended Data](ext_articles/73ee7c1d.ext.json)
-
----
-
-### SL border officials thwart 10 illegal migration attempts via BIA in first quarter
-
-*2024-04-02 10:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-border-officials-thwart-10-illegal-migration-attempts-via-BIA-in-first-quarter/108-280019) · `en`
-
-Colombo, April 1 (Daily Mirror) - About ten unlawful attempts by the Sri Lankans to leave their homeland for good in search of European greener pastures have been thwarted by the local border controlling agents during the first quarter of this year.
-
-The Department of Immigration and Emigration officials stationed at the country’s main airport Bandaranaike International Airport (BIA) have made these interceptions from January 01 to March 31 in 2024.
-
-A senior official of the department’s investigation wing told the Daily Mirror that most of the arrested passengers were from the North and East areas of Jaffna, Vavuniya and Batticaloa.
-
-The intercepted passengers have either used forged Sri Lankan passports, forged international visas pasted in the genuine local passports or fake foreign resident visa cards. And their favourite destination has been identified as Italy.
-
-...
-
-[Data](articles/943c452f.json)
-
-[Extended Data](ext_articles/943c452f.ext.json)
-
----
-
-### Thai Airways resumes operations to Sri Lanka
-
-*2024-04-02 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98364/thai-airways-resumes-operations-to-sri-lanka) · `en`
-
-After a four-year hiatus, Thai Airways flight TG 307 arrived at Bandaranaike International Airport (BIA) in Katunayake at 11.55 p.m. on Monday (01).
-
-Originating from Bangkok, Thailand, the flight carried approximately 150 foreign tourists, including Thai nationals. According to Katunayake airport authorities, flights between Thailand and Sri Lanka are now operating daily.
-
-Nimal Siripala de Silva, the Minister of Ports, Shipping & Aviation welcomed the flight and its passengers at the arrival terminal.
-
-A special cultural dance performance had also been organized by the Airport and Aviation Services (Sri Lanka) Ltd. (AASL) to commemorate the occasion and welcome the flight and passengers. Several officials, including Eng. Athula Galketiya, the AASL chairman were in attendance at the event.
-
-...
-
-[Data](articles/0bc61bce.json)
-
-[Extended Data](ext_articles/0bc61bce.ext.json)
 
 ---

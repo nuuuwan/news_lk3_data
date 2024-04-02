@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 15:33:45**
+As of **2024-04-02 15:52:03**
 
 ## Newspaper Stats
 
-*Scraped **16,622** Articles*
+*Scraped **16,623** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,397
 tamilmirrorlk | 1,982
 adaderanalk | 1,997
 virakesarilk | 2,374
-dailymirrorlk | 2,560
+dailymirrorlk | 2,561
 adaderanasinhalalk | 2,692
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,620 (100.0%) of 16,622 articles have been extended.
+16,622 (100.0%) of 16,623 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The opening ceremony of the festival is scheduled to be held at the premises of 
 ◼️
 
 [Data](articles/c5386184.json)
+
+[Extended Data](ext_articles/c5386184.ext.json)
 
 ---
 
@@ -116,6 +118,22 @@ Previous school shootings in Finland have put a harsh focus on Finland’s gun p
 
 ---
 
+### Ehelepola Walawwa to be handed over to Dalada Maligawa
+
+*2024-04-02 14:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ehelepola-Walawwa-to-be-handed-over-to-Dalada-Maligawa/108-280041) · `en`
+
+Colombo, April 2 (Daily Mirror) - In accordance with a decision at the Cabinet meeting held on February 19, approval was granted to hand over the Ehelepola Walawwa to the Temple of the Tooth Relic (Sri Dalada Maligawa).
+
+The decision was taken after the President and Secretary had been informed to discuss this matter with all the relevant parties and submit a report with recommendations for Cabinet approval.
+
+Accordingly, the report has recommended that the Ehelepola Walawwa be transferred to the Temple of the Tooth Relic since a project has been prepared by the Temple, aiming to present information on history in a more attractive way to the present society by establishing a museum in this building to represent the great historical and environmental background of the Kingdom of Kandy that existed hundreds of years ago.
+
+...
+
+[Data](articles/6c37c6b9.json)
+
+---
+
 ### Ehelepola Walawwa to be hand over to Dalada Maligawa, to be converted to wax museum
 
 *2024-04-02 14:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ehelepola-Walawwa-to-be-hand-over-to-Dalada-Maligawa-to-be-converted-to-wax-museum/108-280041) · `en`
@@ -152,19 +170,25 @@ The crew is on board the container vessel Dali that collided with the 2.6-km-lon
 
 ---
 
-### මාලිගාවත්ත පාලමක් යට ගිනි අවියක් සොයාගනී
+### A firearm under a bridge beat a Maligawatta
 
 *2024-04-02 13:56:42* · [`adalk`](https://www.ada.lk/breaking_news/මාලිගාවත්ත-පාලමක්-යට-ගිනි-අවියක්-සොයාගනී/11-408900) · `si`
 
-මාලිගාවත්ත ඇපල් වත්ත මිලානියා නිවාස සංකීර්ණයට යාබද පාලමක් යට තිබී හිමිකරුවෙකු නොමැති  විදේශීය රටක නිෂ්පාදිත ගිනි අවියක් සහ එයට යොදන ජිව   උණ්ඩ තොගයක් සොයාගත් බව කොළඹ අපරාධ කොට්ඨාසය කියයි.
+The Colombo Crimes Division discovered a cache of firearms, including Germany-manufactured revolvers and bullets, under a bridge near the Maligawatta Apple Estate.
 
-අංක 637389 ජර්මනියේ නිෂ්පාදිත රිවෝල්වර වර්ගයේ ගිනි අවිය සහ ජිව උන්ඩ 21 ක්  එහි තිබී සොයාගෙන ඇත.
+🟩
 
-පාතාල සහ සංවිධානාත්මක අපරාද කල්ලි මෙන්ම මත්ද්‍රව ජාවාරම මැඩලීමේ මෙහෙයුමේ  නිරත කොළඹ අපරාධ කොට්ඨාසයට අනුයුක්ත  කණ්ඩායම සිදුකළ මෙහෙයුමකදී මාලිගාවත්ත ඇපල් වත්ත මිලානියා නිවාස සංකීර්ණයට යාබදව පිහිටි පාලම යට කවරේක තා තිබූ මෙම ගිනි අවීය හා ජීව උණ්ඩ තොගය සොයා ගැනීමට හැකි වූ බව පොලිසිය කියයි
+The Colombo Crimes Division says that a large number of firearms in a foreign country and a bullest production deployed under a bridge near the Maligawatta Apple Estate is found under a bridge next to the Milania Housing Complex.
+
+The number of Germany's manufactured revolvers in Germany has been found in its production revolvers and 21 bullets.
+
+The police said that the firearm in the Underground Crimes Division, the Maligawatta Apple Estate, has been found under the Bridge to the Maliwatta Apple Watta Housing Complex in the Maligawatta Apple Estate, the Maligawatta Apple Watta.
 
 ◼️
 
 [Data](articles/27343db7.json)
+
+[Extended Data](ext_articles/27343db7.ext.json)
 
 ---
 
@@ -2213,23 +2237,5 @@ The waste included mostly corrosives, flammables, miscellaneous hazardous materi
 [Data](articles/edd67ff2.json)
 
 [Extended Data](ext_articles/edd67ff2.ext.json)
-
----
-
-### Katchatheevu Island a done deal, India has no intention to reverse agreement
-
-*2024-04-02 06:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Katchatheevu-Island-a-done-deal-India-has-no-intention-to-reverse-agreement/108-280009) · `en`
-
-Colombo, April 2 (Daily Mirror) - India has no intention to reverse the agreement that ceded the Katchatheevu Island to Sri Lanka despite the political debate in India that is primarily meant for domestic consumption in view of the upcoming Lok Sabha elections, Daily Mirror learns.
-
-Indian Prime Minister Narendra Modi on Monday targeted the DMK over the Katchatheevu island issue, alleging the ruling party of Tamil Nadu did nothing to safeguard the state's interests. New details emerging on the issue of India handing over the Katchatheevu island to Sri Lanka have unmasked the DMK's double standards totally, he said on X.
-
-It is apparent that the current Indian ruling Bharatiya Janata Party (BJP) is not in favour of the position taken by the then Indian National Congress government. However, the agreement has now been signed, and an informed source said the current debate in India has nothing to do with Sri Lanka.
-
-...
-
-[Data](articles/12782ee4.json)
-
-[Extended Data](ext_articles/12782ee4.ext.json)
 
 ---

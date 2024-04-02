@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 20:51:33**
+As of **2024-04-02 21:03:29**
 
 ## Newspaper Stats
 
-*Scraped **16,692** Articles*
+*Scraped **16,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,88 @@ economynextcom | 912
 islandlk | 925
 adalk | 1,406
 tamilmirrorlk | 1,989
-adaderanalk | 2,004
+adaderanalk | 2,006
 virakesarilk | 2,401
-dailymirrorlk | 2,569
-adaderanasinhalalk | 2,701
+dailymirrorlk | 2,570
+adaderanasinhalalk | 2,702
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,689 (100.0%) of 16,692 articles have been extended.
+16,692 (100.0%) of 16,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### මත්පැන් බලපත්‍රවලට අදාළව අතුරු තහනමක්
+### සෞඛ්‍ය වර්ජනය අවසන්
 
-*2024-04-02 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195224) · `si`
+*2024-04-02 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195225) · `si`
 
-සුරාබදු පනතේ විධිවිධානයන්ට පටහැනි ආකාරයෙන් මත්පැන් බලපත්‍ර නිකුත් කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය විසින් අද (02)  අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+සෞඛ්‍ය වෘත්තීය සමිති ක්‍රියාත්මක කළ වැඩවර්ජනය සති 03කට අත්හිටුවීමට අද (02) තීරණය කර තිබේ.
 
-ශ්‍රී ලංකා මත්පැන් බලපත්‍රහිමියන්ගේ සංගමය ඇතුළු පාර්ශ්ව කිහිපයක් විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් 03ක් සලකාබැලීමෙන් අනතුරුව ශ්‍රේෂ්ඨාධිකරණය විසින් මැයි මස 10 වනදා තෙක් බලපැවැත්වෙන පරිදි මෙම අතුරු තහනම් නියෝගය නිකුත් කර තිබේ.
+සෞඛ්‍ය වෘත්තියවේදීන්ගේ විද්වත් සංගමයේ සභාපති රවී කුමුදේශ් මහතා සඳහන් කළේ සෞඛ්‍ය අමාත්‍යාංශයෙන් ලිපියක් ලැබීම හේතුවෙන් මෙම තීරණය ගත් බවය.
 
-පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ සංජීව ජයවර්ධන මහතා ඇතුළු සෙසු නීතිඥවරුන් අධිකරණය හමුවේ කරුණු දක්වමින් වර්තමානයේ අවිධිමත් ආකාරයට නීතියට පටහැනි ලෙස මත්පැන් හල් බලපත්‍ර නිකුත් කිරීම සිදුවන බවට චෝදනා කළේය.
+ඒ අනුව වෛද්‍යවරුන්ට ලබාදෙන ඩැට් හෙවත් ප්‍රවාහන හා නිර්බාධක දීමනාවට සමාන්තර දීමනාවක් තමන්ටද ලැබෙන බවත් මැයි මාසයේ වැටුපට ඉන් 50%ක් එකතු වීමට නියමිත බවත් ඔහු පවසයි.
 
-ඇතැම් බලපත්‍ර නිකුත් කිරීමේදී සුරා බදු රෙගුලාසිවල සඳහන් මූලික අවශ්‍යතා පවා උල්ලංඝනය කර තිබෙන බවත් ජනාධිපති නීතිඥ ජයවර්ධන මහතා පෙන්වා දුනි.
+◼️
 
-ඒ අනුව සුරාබදු පනතේ හා රෙගුලාසිවල සඳහන් ප්‍රතිපාදන අබිබවා ගොස් මත්පැන්  බලපත්‍ර නිකුත් කිරීම තහනම් කිරීමේ නියෝගයක් නිකුත් කරන ලෙසද ජනාධිපති නීතිඥවරයා ඇතුළු සෙසු නීතිඥවරුන් අධිකරණයෙන් ඉල්ලා තිබුණි.
+[Data](articles/d222cc79.json)
+
+---
+
+### Health trade unions call off ongoing strike
+
+*2024-04-02 20:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98382/health-trade-unions-call-off-ongoing-strike) · `en`
+
+The ongoing trade union action launched by the health sector workers was called off on Tuesday evening (02).
+
+◼️
+
+[Data](articles/daf90c6f.json)
+
+---
+
+### Have Sri Lanka become more aggressive under De Silva’s captaincy?
+
+*2024-04-02 20:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Have-Sri-Lanka-become-more-aggressive-under-De-Silvas-captaincy/108-280051) · `en`
+
+Colombo, April 2 (Daily Mirror) - Sri Lanka were just three wickets away from claiming a comfortable 2-0 series win against Bangladesh at the end of fourth day's play in the ongoing second Test in Chattogram.
+
+Newly appointed Test captain Dhananjaya de Silva is on the verge of securing back to back series victories on a relatively decent pitches. Although Bangladesh and Afghanistan cannot be considered as top class teams such as Australia or India, they are no longer easy games.
 
 ...
 
+[Data](articles/981f7603.json)
+
+---
+
+### Interim burn related to liquor licenses
+
+*2024-04-02 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195224) · `si`
+
+The Supreme Court issued an interim injunction preventing liquor license issuance, following a dispute involving the Liquor Licensing Licenshyan's Association. President's Counsel Sanjeewa Jayawardena argued that the licenses violated the Excise Act's basic needs. The court later released the suspects.
+
+🟩
+
+The Supreme Court today issued an interim injunction today, preventing liquor licenses in the Excise Act.
+
+The interim injunction has been issued to the Supreme Court under the aftermath of the Supreme Court following a few parties including the Liquor Licensing Licenshyan's Association.
+
+President's Counsel Sanjeewa Jayawardena, who appeared for the petitioner, and other lawyers accused the issuance of liquor license as the law of the courts.
+
+President's Counsel Jayawardene has pointed out that the issuance of certain licenses have violated even the basic needs of the Excise Rebuments.
+
+Accordingly, the President's Counsel, including the Presidential Attorneys and other lawyers had asked the court to issue the allocation of the Excise Act and regulations.
+
+The suspects were later released by the Supreme Court Bench.
+
+◼️
+
 [Data](articles/f30a4b70.json)
+
+[Extended Data](ext_articles/f30a4b70.ext.json)
 
 ---
 
@@ -72,25 +122,33 @@ SIL is a 100 percent state-owned company under the Treasury and the RDA.
 
 [Data](articles/079adbc3.json)
 
+[Extended Data](ext_articles/079adbc3.ext.json)
+
 ---
 
-### திருச்சி சிறப்பு முகாமில் இருந்து விடுதலை: தாயகம் திரும்பும் முருகன், பாயஸ், ஜெயக்குமார்
+### Release from Trichy Special Camp: Murugan, Bayas, Jayakumar
 
 *2024-04-02 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180279) · `ta`
 
-ராஜீவ் காந்தி கொலைக் குற்றச்சாட்டில் திருச்சி சிறப்பு முகாமில் தடுத்து வைக்கப்பட்டுள்ள முருகன், ரொபட் பாயஸ் மற்றும் ஜெயக்குமார் ஆகியோர் நாட்டுக்கு அழைத்து வரப்படவுள்ளனர்.
+Murugan, Bayas, and Jayakumar, released from Trichy Special Camp for Rajiv Gandhi's murder charge, will arrive at Katunayake airport tomorrow at 11.30 am. They were among 33 released from jail in 2022. Shantan, another involved, died last month.
 
-நாளை காலை 11.30 மணிக்கு கட்டுநாயக்க விமான நிலையத்துக்கு இவ் மூவரும் வந்தடைவார்கள் என தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-ராஜீவ் காந்தி கொலை வழக்கில் 33 ஆண்டுகள் வரையில் சிறையில் இருந்த குறித்த அனைவரும் 2022 ஆம் ஆண்டு விடுதலை செய்யப்பட்ட நிலையில், திருச்சி சிறப்பு முகாமில் தடுத்துவைக்கப்பட்டனர்.
+Murugan, Robot Bayas and Jayakumar, who were detained at the Trichy special camp on Rajiv Gandhi's murder charge, will be brought to the country.
 
-இதில் சாந்தன் நோய்வாய்ப்பட்ட நிலையில், கடந்த மாதம் உயிரிழந்தார். இதனையடுத்து அவரது உடல் யாழ்ப்பாணத்தில் நல்லடக்கம் செய்யப்பட்டது.
+It is reported that the trio will arrive at the Katunayake airport at 11.30 am tomorrow.
 
-இந்நிலையில், ஏனைய மூவரையும் விரைவில் இலங்கைக்கு அனுப்ப வேண்டும் என்ற கோரிக்கை வலுப்பெற்ற நிலையில்,
+In the Rajiv Gandhi assassination case, all those who were in jail for 33 years were released in the Trichy special camp after being released in 2022.
+
+In this, Shantan died last month. Subsequently his body was well -had been in Jaffna.
+
+In this case, the demand for the other three to be sent to Sri Lanka soon
 
 ◼️
 
 [Data](articles/91102bc1.json)
+
+[Extended Data](ext_articles/91102bc1.ext.json)
 
 ---
 
@@ -141,6 +199,26 @@ As such, the petitioning party requested the judge bench to deliver an injunctio
 [Data](articles/62db760d.json)
 
 [Extended Data](ext_articles/62db760d.ext.json)
+
+---
+
+### Interim injunction issued on Excise Dept. over issuing liquor licenses
+
+*2024-04-02 20:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98380/interim-injunction-issued-on-excise-dept-over-issuing-liquorlicenses) · `en`
+
+Supreme Court on Tuesday (02) issued an interim injunction preventing the Excise Department from issuing liquor licenses in violation of the provisions of the Excise Act of Sri Lanka.
+
+The court order will be in effect until 10 May 2024, according to Ada Derana correspondent.
+
+A three-member bench comprising Justices Yasantha Kodagoda, Janak de Silva and Arjuna Obeysekera delivered the interim injunction after taking into consideration three fundamental rights (FR) petitions filed by the Sri Lanka Liquor Licensees’ Association and several other parties.
+
+Appearing on behalf of the petitioners, President’s Counsel Sanjeewa Jayawardena and several other legal counsels told the court that the Excise Department has been issuing liquor licenses in an irregular manner.
+
+As such, the petitioning party requested the judge bench to deliver an injunction preventing the Excise Department from overriding the provisions of the Excise Act and regulations when issuing liquor licenses.
+
+◼️
+
+[Data](articles/bc746b1e.json)
 
 ---
 
@@ -2165,95 +2243,5 @@ Health workers today held a protest in front of the Health Ministry for the seco
 [Data](articles/029a68b5.json)
 
 [Extended Data](ext_articles/029a68b5.ext.json)
-
----
-
-### One arrested with beedi leaves illegally brought from India
-
-*2024-04-02 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180228) · `ta`
-
-The Puttalam Regional Police arrested a person for smuggling 1,435 kg of beedi leaves from India to Sri Lanka, seizing 49 texts. The suspect, from Madurangulipal, faces charges for illegal trafficking.
-
-🟩
-
-The Puttalam Regional Police Criminal Investigation Department (PTA) has arrested a person who tried to carry out the illegal beedi leaves from Puttalam Mamburi area to Mathuranguli area this morning.
-
-According to the Puttalam Regional Police Criminal Investigation Division (Puttalam), the Puttalam Regional Police Criminal Investigation Division (Puttalam) has been able to cover the lorry in the Mampuri area.. About 49 texts have seized 1,435 kg of beedi leaves.
-
-The police Criminal Investigation Department said that the suspect was from Madurangulipal area.
-
-The seized beedi leaves are reported to be worth more than Rs 1 crore.
-
-The Criminal Investigation Department said that the beedi leaves were illegally brought from India to maritime.
-
-The beedi leaves seized with the arrested suspect and the lorry used for trafficking have been handed over to the foam police station.
-
-...
-
-[Data](articles/c3c3510e.json)
-
-[Extended Data](ext_articles/c3c3510e.ext.json)
-
----
-
-### Allow free sanitary napkin offering
-
-*2024-04-02 13:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலவச-சானிட்டரி-நாப்கின்-வழங்கும்-திட்டத்துக்கு-அனுமதி/175-335506) · `ta`
-
-The Cabinet approved free sanitary napkins for 800,000 students in poverty-stricken schools, starting April, as proposed by Education Minister Susil Premjayantha.
-
-🟩
-
-The Cabinet has granted permission to provide sanitary napkin to students from selected schools.
-
-Free sanitary napkin will be provided to 800,000 students studying in schools under the poverty line.
-
-Education Minister Susil Premjayantha had proposed the proposal to implement the project from April.
-
-◼️
-
-[Data](articles/2cf0a857.json)
-
-[Extended Data](ext_articles/2cf0a857.ext.json)
-
----
-
-### 7 US charity employees killed in Israel's attack
-
-*2024-04-02 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180226) · `ta`
-
-Seven World Central Kitchen employees, including foreigners, were killed in an Israeli attack in Gaza while unloading food from Cyprus. A Canadian dual citizen and a Palestinian also died.
-
-🟩
-
-The US -based World Central Kitchen, a charity, said today that seven employees, including foreigners, were killed in an Israeli attack in Gaza.
-
-World Central Kitchen said that the attack was carried out while unloading food items shipped from Cyprus in a repository.
-
-With Australia, Poland and Britain;A man with a Canadian dual citizen and a Palestinian died in the incident, the company said.
-
-◼️
-
-[Data](articles/58f4ed4a.json)
-
-[Extended Data](ext_articles/58f4ed4a.ext.json)
-
----
-
-### Free Sanitary Towels for School Children
-
-*2024-04-02 12:48:57* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුවියන්ට-නොමිලේ-සනීපාරක්ෂක-තුවා/11-408898) · `si`
-
-The Cabinet approved providing free sanitary towels to selected rural schools and areas of poverty.
-
-🟩
-
-The Cabinet has approved the issuance of the nemue of hygiene towels for selected rural schools and poverty.
-
-◼️
-
-[Data](articles/0efeb017.json)
-
-[Extended Data](ext_articles/0efeb017.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 21:34:02**
+As of **2024-04-02 21:52:48**
 
 ## Newspaper Stats
 
-*Scraped **16,699** Articles*
+*Scraped **16,702** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ newsfirstlk | 363
 dailyftlk | 895
 economynextcom | 912
 islandlk | 925
-adalk | 1,407
+adalk | 1,408
 tamilmirrorlk | 1,989
 adaderanalk | 2,007
 virakesarilk | 2,402
-dailymirrorlk | 2,570
-adaderanasinhalalk | 2,702
+dailymirrorlk | 2,571
+adaderanasinhalalk | 2,703
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,699 (100.0%) of 16,699 articles have been extended.
+16,699 (100.0%) of 16,702 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### පෙම්වතිය සමග ජංගල් බීච් ගිය සිසුවා අතුරුදන්
+
+*2024-04-02 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195226) · `si`
+
+පෞද්ගලික උසස් අධ්‍යාපන ආයතනයක පාඨමාලාවකට සහභාගීවීමට ගිය 17 හැවිරිදි සිසුවෙකු දින 15ක් තිස්සේ අතුරුදන්වී ඇතැයි ඔහුගේ ඥාතීන් පවසයි.
+
+එම සිසුවා, සිය 21 හැවිරිදි පෙම්වතිය සමග මුහුදු වෙරළට ගොස් සිටියදී රළ පහරකට හසුවූ බව පෙම්වතිය පොලීසියට පවසා ඇතත් සිසුවාගේ ඥාතීන්ට ඒ පිළිබඳ සැක මතුවී තිබේ.
+
+ඒ අනුව ගාල්ල, වලහන්දූව ප්‍රදේශයේ පදිංචි සෙනුක දේශාන් නම් සිසුවෙක් පසුගිය මාර්තු 18 වනදා සිට අතුරුදන්ව සිටී.
+
+ඔහු එදින පෙරවරුවේ සිය නිවසින් පිටව ගොස් තිබුණේ පෞද්ගලික උසස් අධ්‍යාපන ආයතනයක පාඨමාලාවකට සහභාගී වන බව මවට පවසමිනි.
+
+පසුව හෙළිවී ඇත්තේ 17 හැවිරිදි සෙනුක සිය 21 හැවිරිදි පෙම්වතිය සමග සවස් කාලයේ ගාල්ල ජංගල් බීච් වෙත ගොස් ඇයගේ උපන්දිනය සමරා ඇති බවය.
+
+අදාළ තරුණිය ප්‍රකාශ කර ඇත්තේ, ජංගල් බීච් හි රැඳී සිට ආපසු පැමිණීමට සූදානම් වෙද්දි එක්වරම පැමිණි රළ පහරකට ඔවුන් දෙදෙනා මුහුදට ඇදවැටුණු බවය.
+
+තමන් ඉන් බේරුණු නමුත් පෙම්වතා දියේ ගිලුණු බව ඇය පොලීසියට පවසා තිබුණි.
+
+කෙසේවෙතත්  අවස්ථා කිහිපයකදී සිද්ධිය පිළිබඳ පොලීසියට පැමිණිළි කර ඇති සෙනුකගේ ඥාතීන්ට පෙම්වතිය පවසන කරුණු පිළිබඳව පවතින්නේ සැකයකි.
+
+...
+
+[Data](articles/23ce2c8a.json)
+
+---
+
+### Fire at nightclub in Turkey’s Istanbul kills at least 29
+
+*2024-04-02 21:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fire-at-nightclub-in-Turkeys-Istanbul-kills-at-least-29/108-280052) · `en`
+
+(BBC) - At least 29 people have been killed and one injured in a fire in a nightclub in Turkey.
+
+The Masquerade club, in the basement of a high-rise building in Istanbul, was closed and being renovated during the day.
+
+The fire broke out just after midday, Istanbul governor Davut Gül said, adding that the cause was unclear.
+
+Mr Gül said that the victims of the fire were thought to have been involved in the renovation work.
+
+Five people have been arrested in connection with the fire as investigations continue.
+
+They include three workplace officials, the nightclub manager and the manager of the renovations.
+
+Firefighters and other first responders surrounded the charred and smoking entrance to the club, which occupies two floors underneath a 16-storey residential building in the city's Gayrettepe district.
+
+The number of victims has rapidly increased throughout the afternoon, with the governor's office issuing a string of updates.
+
+...
+
+[Data](articles/b42a1af5.json)
+
+---
 
 ### The health strike ends
 
@@ -483,6 +535,24 @@ Despite co-ordinating movements with the Israeli Defence Force, the convoy was h
 [Data](articles/b66507d8.json)
 
 [Extended Data](ext_articles/b66507d8.ext.json)
+
+---
+
+### කොළඹ මුස්ලිම් පාසල්වල ගැටළු කඩිනමින් විසඳීමට ජනපති උපදෙස්
+
+*2024-04-02 18:29:14* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-මුස්ලිම්-පාසල්වල-ගැටළු-කඩිනමින්-විසඳීමට-ජනපති-උපදෙස්/11-408911) · `si`
+
+කොළඹ කලාපයේ පිහිටි මුස්ලිම් පාසල්වල තිබෙන ගැටළු පිළිබඳ සොයා බලා ඒවාට කඩිනම් විසඳුම් ලබා දෙන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අදාළ නිලධාරීන්ට උපදෙස් දුන්නේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම උපදෙස් ලබා දුන්නේ කොළඹ කලාපයේ මුස්ලිම් පාසල් මුහුණ දී තිබෙන ගැටළු පිළිබඳ ජනාධිපති කාර්යාලයේ දී අද (02) පැවැති සාකච්ඡාවට එක් වෙමිනි.
+
+විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතීඥ අලි සබ්‍රි මහතා ඇතුළු පාසල් විදුහල්පතිවරුන් සහ මුස්ලිම් ප්‍රජාව නියෝජනය කරන සංවිධාන කිහිපයක නියෝජිතයින් මෙම සාකච්ඡාවට එක්ව සිටී අතර කොළඹ කලාපයේ මුස්ලිම් පාසල් මුහුණ දී තිබෙන අභියෝග පිළිබඳව එහිදී ඔවුන් ජනාධිපතිවරයාව දැනුවත් කළහ.
+
+ගුරු පුරප්පාඩු, පන්ති කාමර හිඟය සහ ඉඩ පහසුකම් ප්‍රමාණවත් නොවීම, ඉස්ලාම් දහම සිංහලෙන් ඉගැන්වීමේ දුෂ්කරතා සහ මුස්ලිම් ප්‍රජාව බහුතරයක් වෙසෙන ප්‍රදේශවල මුස්ලිම් පාසල් නොමැතිකම වැනි ගැටළු පිළිබඳ ‍මෙහිදී අවධානය යොමු කෙරිණි.
+
+...
+
+[Data](articles/6fd323f7.json)
 
 ---
 
@@ -2191,69 +2261,5 @@ According to foreign media reports, 800 students and 90 staff have been in the s
 [Data](articles/e6d7e74c.json)
 
 [Extended Data](ext_articles/e6d7e74c.ext.json)
-
----
-
-### Arrest
-
-*2024-04-02 13:17:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காதை-கிழித்த-சு-க-உறுப்பினர்-கைது/76-335509) · `ta`
-
-A former SLFP member of the Kandy Municipal Council was arrested for assaulting a council employee, causing severe injuries. The incident involved a dispute over garbage disposal, leading to protests by Kandy-Sudhambola employees. The police are investigating further.
-
-🟩
-
-A former member of the Sri Lanka Freedom Party (SLFP) of the Kandy Municipal Council has been arrested on charges of slapping three stitches in one room.
-
-He has been arrested by the police on charges of assaulting an employee of the Kandy Municipal Council.
-
-Hospital sources said that the city council employee suffered severe injuries during the attack and three stitches were put in his ear due to the injuries.
-
-Have been brought in by vehicle without classification of garbage. The employees, who opposed it, have been unloaded in the car, demanding that the trash be properly carried out.. As well as the vehicle has tried to film the number. Meanwhile, Indika Tennakoon has been arrested by a former member of the Kandy Municipal Council.
-
-Kandy-Sudhambola employees of the Department of Disaster Management have left work on Tuesday (02) in protest of the attack.
-
-Kandy Municipal Commissioner Ishaan Wijeedilaka said that proper removal of garbage has become a major problem.
-
-...
-
-[Data](articles/0fcad85f.json)
-
-[Extended Data](ext_articles/0fcad85f.ext.json)
-
----
-
-### Parliament sessions suspended due to absence of scheduled speakers
-
-*2024-04-02 13:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-sessions-suspended-due-to-absence-of-scheduled-speakers/108-280033) · `en`
-
-Parliament, April (Daily Mirror)- Parliament sessions were suspended till 4.00 pm today by Deputy Speaker Ajith Rajapakse due to the absence of both Government and Opposition MPs to speak in the debate scheduled for today.
-
-The Banking (Amendment) Bill and regulations under the Colombo Port City Economic Commission Act were taken for debate today.
-
-◼️
-
-[Data](articles/6a4a7d87.json)
-
-[Extended Data](ext_articles/6a4a7d87.ext.json)
-
----
-
-### New Director of Bribery Commission
-
-*2024-04-02 13:13:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்ச-ஊழல்-ஒ-ழிப்பு-ஆணைக்குழுவுக்கு-புதிய-பணிப்பாளர்/175-335508) · `ta`
-
-President Ranil Wickremesinghe appoints WKD Wiramasinghe as Director General of the Bribery Commission, following the new Corruption Act rules.
-
-🟩
-
-President Ranil Wickremesinghe has appointed WKD Wiramasinghe as the Director General of the Commission to Investigate Bribery or Corruption.
-
-The President has made this appointment in accordance with the rules of the new Corruption Act.
-
-◼️
-
-[Data](articles/7d95cccb.json)
-
-[Extended Data](ext_articles/7d95cccb.ext.json)
 
 ---

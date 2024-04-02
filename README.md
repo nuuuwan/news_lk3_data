@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 23:18:08**
+As of **2024-04-02 23:33:57**
 
 ## Newspaper Stats
 
-*Scraped **16,708** Articles*
+*Scraped **16,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 895
 economynextcom | 912
 islandlk | 925
 adalk | 1,408
-tamilmirrorlk | 1,989
+tamilmirrorlk | 1,990
 adaderanalk | 2,008
 virakesarilk | 2,403
 dailymirrorlk | 2,574
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,708 (100.0%) of 16,708 articles have been extended.
+16,708 (100.0%) of 16,709 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### சுகாதார தொழிற்சங்கங்களின் போராட்டம் கைவிடப்பட்டது
+
+*2024-04-02 23:16:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-தொழிற்சங்கங்களின்-போராட்டம்-கைவிடப்பட்டது/175-335538) · `ta`
+
+சுகாதார தொழிற்சங்கங்களினால் முன்னெடுக்கப்பட்ட பணிப்புறக்கணிப்பை 03 வாரங்களுக்கு இடைநிறுத்துவதற்கு இன்று (02) தீர்மானிக்கப்பட்டுள்ளதாக சுகாதார தொழில் வல்லுனர்கள் சங்கத்தின் தலைவர் ரவி குமுதேஷ் தெரிவித்துள்ளார்.
+
+அதன்படி, வைத்தியர்களுக்கு வழங்கப்படும் 'டெட்' என்ற போக்குவரத்து கொடுப்பனவுக்கு இணையான கொடுப்பனவொன்று தமக்கும் கிடைக்கவுள்ளதாகவும் அதில் 50% மே மாத சம்பளத்தில் சேர்க்கப்படும் என்றும் அவர் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/39eeece9.json)
+
+---
 
 ### Sri Lanka to import 1,000 vehicles to improve tourism sector transportation
 
@@ -2257,23 +2271,5 @@ The defence requested court to release Ven. Gnanasara Thera on bail pending appe
 [Data](articles/20293155.json)
 
 [Extended Data](ext_articles/20293155.ext.json)
-
----
-
-### Court refuses bail to Ven. Gnanasara Thera
-
-*2024-04-02 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-refuses-bail-to-Ven-Gnanasara-Thera/108-280035) · `en`
-
-Colombo, April 2 (Daily Mirror) - The Colombo High Court today refused to release Bodu Bala Sena (BBS) General Secretary Ven. Galaboda Atte Gnanasara Thera on bail.
-
-Accordingly, Colombo High Court Judge Adithya Patabendige rejected the bail application filed on behalf of Ven. Gnanasara Thera citing there are no special circumstances revealed before court to release Ven. Gnanasara Thera on bail.
-
-The defence requested court to release Ven. Gnanasara Thera on bail pending appeal and moved court that the accused be released on bail taking into consideration the delay in concluding hearing of an appeal in the Court of Appeal  and his health condition.
-
-◼️
-
-[Data](articles/299cf20f.json)
-
-[Extended Data](ext_articles/299cf20f.ext.json)
 
 ---

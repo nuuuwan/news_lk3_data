@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 19:33:30**
+As of **2024-04-02 19:50:56**
 
 ## Newspaper Stats
 
-*Scraped **16,678** Articles*
+*Scraped **16,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 895
 economynextcom | 912
 islandlk | 925
-adalk | 1,404
-tamilmirrorlk | 1,987
-adaderanalk | 2,001
+adalk | 1,405
+tamilmirrorlk | 1,988
+adaderanalk | 2,002
 virakesarilk | 2,397
 dailymirrorlk | 2,568
 adaderanasinhalalk | 2,699
@@ -26,11 +26,47 @@ adaderanasinhalalk | 2,699
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,677 (100.0%) of 16,678 articles have been extended.
+16,678 (100.0%) of 16,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### சதொச சென்றால் சந்தோஷம்...
+
+*2024-04-02 19:26:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதொச-சென்றால்-சந்தோஷம்/175-335523) · `ta`
+
+எதிர்வரும் சிங்கள தமிழ் புத்தாண்டை முன்னிட்டு நாடளாவிய ரீதியில் உள்ள அனைத்து சதொச கிளைகளிலும் இன்று (02) முதல் வாடிக்கையாளர்களுக்கு நிவாரணப் பொதி ஒன்றை கொள்வனவு செய்யும் வாய்ப்பு வழங்கப்பட்டுள்ளது.
+
+4,500 ரூபா பெறுமதியான 11 உணவுப் பொருட்கள் அடங்கிய இந்த நிவாரணப் பொதியை 3,420 ரூபா என்ற சில்லறை விலையில் கொள்வனவு செய்வதற்கான சந்தர்ப்பம் பொது மக்களுக்கு வழங்கப்பட்டதாக சதொச தலைவர்  பசந்த யாப்பா அபேவர்தன குறிப்பிட்டார்.
+
+மேலும், சதொச நிறுவனம் இன்று முதல் ஒரு முட்டையை 36 ரூபா என்ற சில்லறை விலையில் விற்பனை செய்ய நடவடிக்கை எடுத்துள்ளது. R
+
+◼️
+
+[Data](articles/356770c7.json)
+
+---
+
+### Gamini Lokuge elected chair of Committee on Banking and Financial Services
+
+*2024-04-02 19:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98379/gamini-lokuge-elected-chair-of-committee-on-banking-and-financial-services) · `en`
+
+Member of Parliament Gamini Lokuge has been unanimously elected as the new Chairman of the Committee on Banking and Financial Services for the Fifth Session of the Ninth Parliament.
+
+The first meeting of the Committee on Banking and Financial Services for the Fifth Session of the Ninth Parliament was held yesterday (01).
+
+The name of Gamini Lokuge was proposed by Member of Parliament Kokila Gunawardena and seconded by Member of Parliament Udaya Gammanpila.
+
+Gamini Lokuge chaired this committee in the fourth session of the Ninth Parliament.
+
+Addressing the meeting, the Chair expressed his gratitude to all the Members of Parliament who supported this committee during the previous session and said that he expects that all members will continue to support the committee in the future as well.
+
+...
+
+[Data](articles/92e4b55a.json)
+
+---
 
 ### President addresses challenges confronting Muslim schools in Colombo
 
@@ -47,6 +83,8 @@ Minister Ali Sabry underscored the gravity of the situation, pointing out that w
 ...
 
 [Data](articles/f98895f2.json)
+
+[Extended Data](ext_articles/f98895f2.ext.json)
 
 ---
 
@@ -253,6 +291,18 @@ Although it has been repeatedly said that the elephant fences are said to be set
 [Data](articles/813bfbef.json)
 
 [Extended Data](ext_articles/813bfbef.ext.json)
+
+---
+
+### වැට් වැඩි කිරීම සම්මතයි
+
+*2024-04-02 18:04:54* · [`adalk`](https://www.ada.lk/breaking_news/වැට්-වැඩි-කිරීම-සම්මතයි/11-408908) · `si`
+
+එකතු කළ අගය මත බද්ද (වැට්) සියයට 15 සිට 18 දක්වා වැඩි කිරීමට අදාල නියෝගය වැඩි ඡන්ද 36කින් පාර්ලිමේන්තුවේදී අද (2) සම්මතවිය. පනතට පක්ෂව ඡන්ද 55ක් ලැබුණු අතර විපක්ෂවය ඡන්ද 19ක් ලැබුණි.
+
+◼️
+
+[Data](articles/45779f75.json)
 
 ---
 
@@ -2169,79 +2219,5 @@ Employees of the Postal Department said that when the new employees were retired
 [Data](articles/01d95793.json)
 
 [Extended Data](ext_articles/01d95793.ext.json)
-
----
-
-### Attorney -at -Law
-
-*2024-04-02 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180217) · `ta`
-
-The Attorney General defends the Bureau of Police against charges, with the Supreme Court reviewing a petition by a former police officer, Udaranga Premasiri, accusing the Criminal Investigation Division of violating his rights.
-
-🟩
-
-The Attorney General has told the Supreme Court that the Bureau of Police has been considering evidence to present the charge sheet against the Bureau of Bureau of Police, who was arrested and released on bail by the police drug abolition.
-
-The fundamental rights petition filed by the former Sub Inspector of the Police Drug Eradication Unit, Udaranga Premasiri, was taken to review yesterday (01) demanding that his basic human rights be violated by the Criminal Investigation Division for no legitimate reason.. Solicitor General Dileepa Beers, appearing on behalf of the Attorney General, said this.
-
-The petition was considered in the presence of a panel of High Court Judges - Prithi Padman Surasena, Shiran Gunaratne and Mahinda Samaratne.
-
-◼️
-
-[Data](articles/fa3193fd.json)
-
-[Extended Data](ext_articles/fa3193fd.ext.json)
-
----
-
-### Another underworld gang cell is box
-
-*2024-04-02 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195205) · `si`
-
-Underworld gang cell dismantled, 237 suspects arrested across Western & Southern Provinces. Key arrests include a 32-year-old in Galle, a 40-year-old with 360mg of ice, and a 34-year-old in Kalutara, along with a 32-year-old in Hikkaduwa and a 32-year-old in Battaramulla with 820mg of Pettah.
-
-🟩
-
-Nine members and three suspects have been arrested for arrest of organized crime gangs.
-
-The group has arrested the number of justice operations island wide to arrest organized crime criminal groups working in the Western Province and Southern Province.
-
-A 32-year-old criminal gang member has been arrested by the officials of the Galle Crime Kotawalauwa yesterday (01).
-
-Meanwhile, a 40-year-old criminal criminal criminagoda has been arrested with 360 milligrams of ice.
-
-Meanwhile, a 32-year-old criminal gang member arrested with a 32-year-old criminal gang of the Hikkaduwa Police Division in Hikkaduwa area.
-
-The officials of the Kalutara Crimes Division arrested a 34-year-old crime gang member arrested by the Western Criminal Officers of the Western Criminal Officers and two 40-year-old criminal gangs were arrested.
-
-The Colombo Crimes Division has arrested a 32 year old resident of Battaramulla with 820 milligrams of Pettah.
-
-...
-
-[Data](articles/5ba83306.json)
-
-[Extended Data](ext_articles/5ba83306.ext.json)
-
----
-
-### Yall. Indian Ambassador and Commander of the Jaffna Air Force
-
-*2024-04-02 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180216) · `ta`
-
-A meeting between Jaffna Indian Ambassador Sai and Jaffna Air Force Commander Group Captain Saminda Herath was held to discuss the Jaffna Air Force's current conditions and potential mutual scholarships for the public.
-
-🟩
-
-A meeting between Jaffna Indian Ambassador Sai, Jaffna Air Force Commander Group Captain Saminda Herath was held on Monday (01) at the Jaffna Indian Embassy at Maruthi Road, Jaffna.
-
-This included discussions on the current conditions of the Jaffna Air Force and the mutual scholarships that could be implemented to the public.
-
-The event was attended by Jaffna Indian Ambassador Ram Mahesh.
-
-◼️
-
-[Data](articles/f59d1ba4.json)
-
-[Extended Data](ext_articles/f59d1ba4.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 18:51:45**
+As of **2024-04-02 19:03:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,699
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,670 (100.0%) of 16,672 articles have been extended.
+16,672 (100.0%) of 16,672 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Despite co-ordinating movements with the Israeli Defence Force, the convoy was h
 ...
 
 [Data](articles/b66507d8.json)
+
+[Extended Data](ext_articles/b66507d8.ext.json)
 
 ---
 
@@ -434,29 +436,35 @@ The gazette notification for the amendment was issued in January this year.
 
 ---
 
-### සතොස භාණ්ඩ කීපයක මිල බස්සයි
+### Sathosa's prices down in several items
 
 *2024-04-02 16:49:21* · [`adalk`](https://www.ada.lk/breaking_news/සතොස-භාණ්ඩ-කීපයක-මිල-බස්සයි/11-408906) · `si`
 
-අද 02දා සිට ලංකා සතොස අත්‍යවශ්‍ය භාණ්ඩ 9 ක මිල අඩු කිරීමට පියවර ගත් බව ලංකා සතොස පැවසීය.
+Sathosa reduces prices of essential commodities. Crog onions now Rs. 495, red onion Rs. 290, Jambo crises Rs. 494, Pakistan prices Rs. 195, milk powder Rs. 925, white rice Rs. 192, soy meat Rs. 593.
 
-පාකිස්තාන්ලොකු ලූනු කිලෝවක් රුපියල් 55 කින්. නව මිල රුපියල් 495 ක් ද
+🟩
 
-රතු ලූනු කිලෝවක මිල රුපියල් 30 කින්. නව මිල රුපියල් 290 ක් ද
+Lanka Sathosa said that the Ceylon Sathosa has been reduced to the price of nine essential commodities from today.
 
-ජම්බෝ කඩල කිලෝවක මිල රුපියල් 16 කින්.  නව මිල රුපියල් 494 ක් ද
+Pakistanlon crog onions by Rs. 55. The new price is Rs 495
 
-පාකිස්තාන් අර්තාපල්  කිලෝවක මිල රුපියල් 15 කින්.  නව මිල රුපියල් 195 ක් ද
+The price of a kilogram of red onion is by Rs 30. The new price is Rs. 290
 
-කිරිපිටි ග්‍රෑම් 400 මිල රුපියල් 10 කින්. නව මිල රුපියල් 925 ක් ද
+The price of a kilogram of Jambo crises is 16 rupees.The new price is Rs. 494
 
-සුදු කැකුළු සහල් කිලෝවක මිල රුපියල් 3 කින්. නව මිල රුපියල් 192 ක් ද
+Prices of Pakistan prices by 15 rupees.The new price is Rs. 195
 
-සෝයා මීට් කිලෝවක මිල රුපියල් 2 කින්. නව මිල රුපියල් 593 ක් ද
+400 g of milk powder prices of Rs.10. The new price is Rs. 925
+
+The price of a kilogram of white rice rice is Rs 3. The new price is Rs. 192
+
+Soy Meet price of a kilogram of soy meat by Rs 2. The new price is Rs. 593
 
 ◼️
 
 [Data](articles/2ba9d4dd.json)
+
+[Extended Data](ext_articles/2ba9d4dd.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 21:52:48**
+As of **2024-04-02 22:05:22**
 
 ## Newspaper Stats
 
@@ -26,35 +26,41 @@ adaderanasinhalalk | 2,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,699 (100.0%) of 16,702 articles have been extended.
+16,702 (100.0%) of 16,702 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### පෙම්වතිය සමග ජංගල් බීච් ගිය සිසුවා අතුරුදන්
+### Student who went to Jungle Beach with girlfriend disappeared
 
 *2024-04-02 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195226) · `si`
 
-පෞද්ගලික උසස් අධ්‍යාපන ආයතනයක පාඨමාලාවකට සහභාගීවීමට ගිය 17 හැවිරිදි සිසුවෙකු දින 15ක් තිස්සේ අතුරුදන්වී ඇතැයි ඔහුගේ ඥාතීන් පවසයි.
+A 17-year-old student, Patan, from Walahanduwa, Galle, disappeared after attending a course at a private higher education institute on March 18. He was last seen with his 21-year-old girlfriend at Jungle Beach, where they celebrated his birthday. The girlfriend claimed they fell into the sea, with him surviving but her not. Relatives suspect foul play, but no criminal charges have been filed.
 
-එම සිසුවා, සිය 21 හැවිරිදි පෙම්වතිය සමග මුහුදු වෙරළට ගොස් සිටියදී රළ පහරකට හසුවූ බව පෙම්වතිය පොලීසියට පවසා ඇතත් සිසුවාගේ ඥාතීන්ට ඒ පිළිබඳ සැක මතුවී තිබේ.
+🟩
 
-ඒ අනුව ගාල්ල, වලහන්දූව ප්‍රදේශයේ පදිංචි සෙනුක දේශාන් නම් සිසුවෙක් පසුගිය මාර්තු 18 වනදා සිට අතුරුදන්ව සිටී.
+His relatives say that a 17-year-old student who went to attend a course of a private higher education company has been disappeared for 15 days.
 
-ඔහු එදින පෙරවරුවේ සිය නිවසින් පිටව ගොස් තිබුණේ පෞද්ගලික උසස් අධ්‍යාපන ආයතනයක පාඨමාලාවකට සහභාගී වන බව මවට පවසමිනි.
+The student had told the police that the student had been hit with his 21-year-old girl, but the relatives of the student have been suspected.
 
-පසුව හෙළිවී ඇත්තේ 17 හැවිරිදි සෙනුක සිය 21 හැවිරිදි පෙම්වතිය සමග සවස් කාලයේ ගාල්ල ජංගල් බීච් වෙත ගොස් ඇයගේ උපන්දිනය සමරා ඇති බවය.
+Accordingly, a student named Patan, a resident of Walahanduwa, Galle has gone missing from March 18.
 
-අදාළ තරුණිය ප්‍රකාශ කර ඇත්තේ, ජංගල් බීච් හි රැඳී සිට ආපසු පැමිණීමට සූදානම් වෙද්දි එක්වරම පැමිණි රළ පහරකට ඔවුන් දෙදෙනා මුහුදට ඇදවැටුණු බවය.
+He was told that he had left his home that morning at a course at a private higher education institute.
 
-තමන් ඉන් බේරුණු නමුත් පෙම්වතා දියේ ගිලුණු බව ඇය පොලීසියට පවසා තිබුණි.
+It was later revealed that 17, 17, a 21-year-old woman, with his 21-year-old girl, went to Jungle Beach in the evening and the birthday was celebrated.
 
-කෙසේවෙතත්  අවස්ථා කිහිපයකදී සිද්ධිය පිළිබඳ පොලීසියට පැමිණිළි කර ඇති සෙනුකගේ ඥාතීන්ට පෙම්වතිය පවසන කරුණු පිළිබඳව පවතින්නේ සැකයකි.
+The girl has said that the two of them fell into the sea at the time of the arrival of the Jungle Beach.
+
+She had told the police that he survived it, but she had sunk dropped.
+
+However, it is doubtful that the relatives of the Girlfriend has told the relatives who have complained to the police on several occasions.
 
 ...
 
 [Data](articles/23ce2c8a.json)
+
+[Extended Data](ext_articles/23ce2c8a.ext.json)
 
 ---
 
@@ -81,6 +87,8 @@ The number of victims has rapidly increased throughout the afternoon, with the g
 ...
 
 [Data](articles/b42a1af5.json)
+
+[Extended Data](ext_articles/b42a1af5.ext.json)
 
 ---
 
@@ -538,21 +546,27 @@ Despite co-ordinating movements with the Israeli Defence Force, the convoy was h
 
 ---
 
-### කොළඹ මුස්ලිම් පාසල්වල ගැටළු කඩිනමින් විසඳීමට ජනපති උපදෙස්
+### President instructs to solve problems in Colombo schools
 
 *2024-04-02 18:29:14* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-මුස්ලිම්-පාසල්වල-ගැටළු-කඩිනමින්-විසඳීමට-ජනපති-උපදෙස්/11-408911) · `si`
 
-කොළඹ කලාපයේ පිහිටි මුස්ලිම් පාසල්වල තිබෙන ගැටළු පිළිබඳ සොයා බලා ඒවාට කඩිනම් විසඳුම් ලබා දෙන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අදාළ නිලධාරීන්ට උපදෙස් දුන්නේය.
+President Ranil Wickremesinghe addressed issues in Muslim schools in Colombo, including teacher shortages and inadequate facilities. He urged officials to explore solutions, including vocational training for students.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම උපදෙස් ලබා දුන්නේ කොළඹ කලාපයේ මුස්ලිම් පාසල් මුහුණ දී තිබෙන ගැටළු පිළිබඳ ජනාධිපති කාර්යාලයේ දී අද (02) පැවැති සාකච්ඡාවට එක් වෙමිනි.
+🟩
 
-විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතීඥ අලි සබ්‍රි මහතා ඇතුළු පාසල් විදුහල්පතිවරුන් සහ මුස්ලිම් ප්‍රජාව නියෝජනය කරන සංවිධාන කිහිපයක නියෝජිතයින් මෙම සාකච්ඡාවට එක්ව සිටී අතර කොළඹ කලාපයේ මුස්ලිම් පාසල් මුහුණ දී තිබෙන අභියෝග පිළිබඳව එහිදී ඔවුන් ජනාධිපතිවරයාව දැනුවත් කළහ.
+President Ranil Wickremesinghe instructed the relevant officials to look into the issues in Muslim schools in the Colombo Zone.
 
-ගුරු පුරප්පාඩු, පන්ති කාමර හිඟය සහ ඉඩ පහසුකම් ප්‍රමාණවත් නොවීම, ඉස්ලාම් දහම සිංහලෙන් ඉගැන්වීමේ දුෂ්කරතා සහ මුස්ලිම් ප්‍රජාව බහුතරයක් වෙසෙන ප්‍රදේශවල මුස්ලිම් පාසල් නොමැතිකම වැනි ගැටළු පිළිබඳ ‍මෙහිදී අවධානය යොමු කෙරිණි.
+President Ranil Wickremesinghe gave this advice at the Presidential Secretariat today (02) at the Presidential Secretariat on Muslim schools in the Colombo-region.
+
+The discussion of the discussion of the President's Counterparty Ali Sabri and several organizations representing the President's Counterparty Ali Sabri and several organizations representing the school principals and the Muslim community representing the members of the GMOA informed the President.
+
+The focus of teachers vacancies, classroom deficit and space is not sufficient in teaching and the Muslim lack of Muslim community in the majority of the Muslim community.
 
 ...
 
 [Data](articles/6fd323f7.json)
+
+[Extended Data](ext_articles/6fd323f7.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 15:03:20**
+As of **2024-04-02 15:18:01**
 
 ## Newspaper Stats
 
-*Scraped **16,619** Articles*
+*Scraped **16,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 1,982
 adaderanalk | 1,997
 virakesarilk | 2,374
 dailymirrorlk | 2,559
-adaderanasinhalalk | 2,691
+adaderanasinhalalk | 2,692
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,618 (100.0%) of 16,619 articles have been extended.
+16,619 (100.0%) of 16,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### සේනක බටගොඩ ට ගීත 7ක් ගායනා කිරීමට වාරණයක්
+
+*2024-04-02 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195214) · `si`
+
+ගායන ශිල්පී සේනක බටගොඩ මහතාට ඔහු ගායනා කළ ගීත 7ක් මින් ඉදිරියට ගායනය කිරීම වළක්වාලමින් කොළඹ වාණිජ මහාධිකරණ විනිසුරු ප්‍රියන්ත ප්‍රනාන්දු මහතා අද (02) වාරණයක් නිකුත් කළේය.
+
+අපි කවුරුද, අපි සැනසිල්ලේ, අළු යට ගිනි, රස්තා, හීනවලට පනක් තිබෙනවා, හොඳම දේ, සැනසෙන්නම් යන ගීත 7 ගායනය කිරීම වළක්වමින් එලෙස වාරණ නියෝගය නිකුත් කර ඇත.
+
+ඒකාබද්ධ ගීත පදරචනය, තනු නිර්මාණය සහ සංගීත සංකල්පය කළ ජනත් කුලතිලක මහතාට බුද්ධිමය දේපොළ පනත යටතේ ගෙවිය යුතු කතෘ භාගය නොගෙවීම සම්බන්ධයෙන් මෙම තීරණය දැනුම්දී තිබේ.
+
+ජනත් කුලතිලක මහතා විසින් සිය නීතිඥයින් මාර්ගයෙන් ගොනුකර තිබූ පැමිණිල්ලක් සලකාබැලූ විනිසුරුවරයා ජනත් කුලතිලක මහතාගේ ලිඛිත අවසරයකින් තොරව එම ගීත 7 වෙනත් පාර්ශ්වයන් වෙත පැවරීම වළක්වාලමින් ද වාරණයක් නිකුත් කරනු ලැබීය.
+
+◼️
+
+[Data](articles/3237366c.json)
+
+---
 
 ### Anura ready for public debate with Sajith on economic policies: Handunnetti
 
@@ -45,6 +63,8 @@ He said it was a good move to have a debate on economic policies of the presiden
 ...
 
 [Data](articles/4982422a.json)
+
+[Extended Data](ext_articles/4982422a.ext.json)
 
 ---
 
@@ -427,6 +447,10 @@ His lawyers were produced in court, asking for the release of the four-year impr
 Parliamentary proceedings have been postponed until 4.30 p.m. today (02) by Deputy Speaker Ajith Rajapakse.
 
 The decision was taken due to the absence of the parliamentarians from both government and opposition sides, who were scheduled to speak during today’s debate.
+
+Among the absentees from the opposition were Dr. Harsha de Silva, M. A. Sumanthiran, Vijitha Herath, Patali Champika Ranawaka, Niroshan Perera, S. M. Marikkar, Prof. Charitha Herath, Gamini Waleboda, Nalaka Godahewa, Thushara Indunil Amarasena, Velu Kumar, Udaya Kumara, Charles Nirmalanathan, Selvarajah Kajendren, and Weerasumana Weerasinghe.
+
+From the government’s side, Prof. Ranjith Bandara, Suren Raghavan, S. M. M. Muszhaaraff, Bandula Gunawardena, Vadivel Suresh and Shehan Semasinghe were absent in the Chamber.
 
 ◼️
 
@@ -2201,29 +2225,5 @@ Iran has reported that Brigadier General Mohammed Rasa Jakedy has been killed in
 [Data](articles/c191ff2d.json)
 
 [Extended Data](ext_articles/c191ff2d.ext.json)
-
----
-
-### Showers over 75mm
-
-*2024-04-02 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195189) · `si`
-
-Showers over 75mm expected in Western, Sabaragamuwa, Central, North Western, Southern, North-Central, and Uva provinces, with heavy rains in Anuradhapura and Moneragala. Thunderstorms may cause lightning accidents.
-
-🟩
-
-Today is the Western, Sabaragamuwa, Central, North Western, Southern, North-Central and Uva provinces. Showers or thundershowers will occur at several places, about 2.00.
-
-The department states in the Western, Sabaragamuwa, Central, Central, North Western and Southern provinces, Anuradhapura and Moneragala Districts. Mee. Heavy rains can occur at more than 75.
-
-In some places in the Western, Central, Sabaragamuwa and Uva provinces, in some places, are expected to be fired in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/53a2f8b6.json)
-
-[Extended Data](ext_articles/53a2f8b6.ext.json)
 
 ---

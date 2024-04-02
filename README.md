@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 14:33:52**
+As of **2024-04-02 14:51:14**
 
 ## Newspaper Stats
 
-*Scraped **16,616** Articles*
+*Scraped **16,618** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 912
 islandlk | 924
 adalk | 1,396
 tamilmirrorlk | 1,982
-adaderanalk | 1,996
+adaderanalk | 1,997
 virakesarilk | 2,374
-dailymirrorlk | 2,557
+dailymirrorlk | 2,558
 adaderanasinhalalk | 2,691
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,615 (100.0%) of 16,616 articles have been extended.
+16,616 (100.0%) of 16,618 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### Three kids wounded in Finland school shooting; child suspect caught
+
+*2024-04-02 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98371/three-kids-wounded-in-finland-school-shooting-child-suspect-caught) · `en`
+
+Three 12-year-old children were shot and wounded at a school in Finland on Tuesday and the suspect, also 12, was taken into custody, police said.
+
+The victims were taken to hospital, a police spokesperson told Reuters. No further details were immediately available.
+
+The shooting took place at the Viertola school in Vantaa, a suburb of the capital Helsinki, which has around 800 pupils from first to ninth grade and a staff of 90 people, according to the local municipality.
+
+“The immediate danger is over,” the Viertola school’s principal Sari Laasila told Reuters, declining to comment further on the incident.
+
+“The day started in a horrifying way. There has been a shooting incident at the Viertola school in Vantaa. I can only imagine the pain and worry that many families are experiencing at the moment. The suspected perpetrator has been caught,” Interior Minister Mari Rantanen said on X.
+
+Previous school shootings in Finland have put a harsh focus on Finland’s gun policy.
+
+...
+
+[Data](articles/7c24a5c8.json)
+
+---
+
+### Ehelepola Walawwa to be hand over to Dalada Maligawa, to be converted to wax museum
+
+*2024-04-02 14:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ehelepola-Walawwa-to-be-hand-over-to-Dalada-Maligawa-to-be-converted-to-wax-museum/108-280041) · `en`
+
+Colombo, April 2 (Daily Mirror) - In accordance with a decision at the Cabinet meeting held on February 19, approval was granted to hand over the Ehelepola Walawwa to the Temple of the Tooth Relic (Sri Dalada Maligawa).
+
+The decision was taken after the President and Secretary had been informed to discuss this matter with all the relevant parties and submit a report with recommendations for Cabinet approval.
+
+Accordingly, the report has recommended that the Ehelepola Walawwa be transferred to the Temple of the Tooth Relic since a project has been prepared by the Temple, aiming to present information on history in a more attractive way to the present society by establishing a museum in this building to represent the great historical and environmental background of the Kingdom of Kandy that existed hundreds of years ago.
+
+...
+
+[Data](articles/de31b484.json)
+
+---
 
 ### Indian, Sri Lankan crew stay aboard ship till probe is complete
 
@@ -2090,6 +2128,8 @@ The waste included mostly corrosives, flammables, miscellaneous hazardous materi
 
 [Data](articles/edd67ff2.json)
 
+[Extended Data](ext_articles/edd67ff2.ext.json)
+
 ---
 
 ### Katchatheevu Island a done deal, India has no intention to reverse agreement
@@ -2185,59 +2225,5 @@ They also highlighted the additional hurdles, including the restrictions on fore
 [Data](articles/87f35fc5.json)
 
 [Extended Data](ext_articles/87f35fc5.ext.json)
-
----
-
-### 2.5 square kilometers to build this book tofox, chocolate leaves.
-
-*2024-04-02 02:03:35* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gj0zz3en0o) · `si`
-
-Nassara Ratnayake, an eco-friendly business owner in Katana, West Kalvaratipuwawa, is highlighted for her recycling efforts, despite not focusing on the value of recycling. She and her father run an eco-friendly business. M. Jayantha Kumarasiri emphasizes the importance of artistic and time-sensitive design, aiming to change the BBC Sinhala service's attitude towards recycling.
-
-🟩
-
-None contains none of this.
-
-2.5 square kilometers to build this book tofox, chocolate leaves.
-
-Nassara Ratnayake is said to have no attention to the reference to the value of the recycling, but it is not more intent to add value to the new product.
-
-She lives in Katana, in the West Kalvaratipuwawa, and maintains such an eco-friendly business with his father.
-
-"At US, we can do an artistic and time design more than Recipel. And the attitude of the majority can change the BBC Sinhala service.
-
-People who are interested in school children, university students and the environment are already assigned to them what they discard.
-
-"This is the leftover of his medicine in his medicine. How beautiful are the hearts of these people who are not burdensome?We need to make this attitude change. To make this book, 2.5 square kilometers need to add the chocolate leaves. ". M. Jayantha Kumarasiri told BBC Sinhala.
-
-◼️
-
-[Data](articles/54328c11.json)
-
-[Extended Data](ext_articles/54328c11.ext.json)
-
----
-
-### Minister clarifies CPC fuel costs amid price revision
-
-*2024-04-02 02:03:35* · [`dailyftlk`](https://www.ft.lk/business/Minister-clarifies-CPC-fuel-costs-amid-price-revision/34-760213) · `en`
-
-Cites refinery costs, VAT, refinery gains or losses as factors influencing prices
-
-Says pricing formula allows for maximum profit of 4% on all products except kerosene
-
-Asserts US dollar rates calculated based on average monthly purchase rates
-
-Reveals gains or losses from other products cannot be transferred, as cost-reflective pricing formula applies to each product individually
-
-Power and Energy Minister Kanchana Wijesekera yesterday shed light on the particulars of the Ceylon Petroleum Corporation’s (CPC) fuel costs, following the recent fuel price revision announced on Sunday.
-
-In a comprehensive 6-point statement shared via ‘X’, he provided insights into the factors influencing the decision not to reduce the prices of 92 Octane Petrol and Auto Diesel.
-
-...
-
-[Data](articles/c6127606.json)
-
-[Extended Data](ext_articles/c6127606.ext.json)
 
 ---

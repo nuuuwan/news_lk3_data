@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 17:03:09**
+As of **2024-04-02 17:18:03**
 
 ## Newspaper Stats
 
-*Scraped **16,650** Articles*
+*Scraped **16,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,53 @@ tamilmirrorlk | 1,986
 adaderanalk | 1,999
 virakesarilk | 2,382
 dailymirrorlk | 2,563
-adaderanasinhalalk | 2,696
+adaderanasinhalalk | 2,697
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,642 (100.0%) of 16,650 articles have been extended.
+16,650 (100.0%) of 16,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### සතොස හරහා අද සිට සහන මල්ලක් - බිත්තරයක් රු 36කට
+### වැට් වැඩිකිරීමට අදාළ නියමය වැඩි ඡන්දයෙන් සම්මත වෙයි
+
+*2024-04-02 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195219) · `si`
+
+එකතු කළ අගය මත බදු පනත යටතේ නියමය අද (02) පාර්ලිමේන්තුවේදී වැඩි ඡන්ද 36කින් සම්මත කෙරුණි.
+
+ඒ සඳහා විපක්ෂය ඡන්දයක් ඉල්ලා සිටි අතර එහිදී නියමයට පක්ෂව ඡන්ද 55ක් සහ විරුද්ධව ඡන්ද 19ක් හිමිවිය.
+
+මේ අතර බැංකු සංශෝධන පනත් කෙටුම්පත අද (02) පාර්ලිමේන්තුවේදී තුන්වන වර කියවා සංශෝධන රහිතව සම්මත කර ගැනුණි.
+
+◼️
+
+[Data](articles/99bfc761.json)
+
+---
+
+### Swassal bag to relief flower from today - an egg for Rs.6
 
 *2024-04-02 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195218) · `si`
 
-අද (02) සිට දිවයිනේ සියලුම සතොස ශාඛා වෙතින් සහන මල්ලක් මිල දී ගැනීමට පාරිභෝගිකයන්ට අවස්ථාව ලබාදී තිබේ.
+Sathosa offers a relief bag for Rs.11 from 02/03/2023, and an egg at retail price.
 
-සතොස සභාපති පසඳ යාපා අබේවර්ධන මහතා සඳහන් කළේ රුපියල් 4,500ක්  වටිනා ආහාර ද්‍රව්‍ය 11ක් අඩංගු මෙම සහන මල්ල රුපියල් 3,420ක් වැනි සිල්ලර මිලකට මිළදී ගැනීමට මෙහිදී අවස්ථාව ලබාදී ඇති බවය.
+🟩
 
-එමෙන්ම අද සිට බිත්තරයක් රුපියල් 36 වැනි සිල්ලර මිලකට අලෙවි කිරීමටද සතොස පියවර ගෙන තිබේ.
+Customers have been given the opportunity to buy a relief bag from today (02) from all Sathosa branches in the country.
+
+Suda Chairman Pasolma Abeywardena stated that the concessionary bag of 11 worth Rs.
+
+Sathosa's steps have also been taken to sell an egg at a retail price.
 
 ◼️
 
 [Data](articles/658850e1.json)
+
+[Extended Data](ext_articles/658850e1.ext.json)
 
 ---
 
@@ -62,19 +84,27 @@ As per the report, the Dalada Maligawa has prepared a project, aiming to present
 
 [Data](articles/093fb4ac.json)
 
+[Extended Data](ext_articles/093fb4ac.ext.json)
+
 ---
 
-### ඥානසාර හිමිගේ ඇප ඉල්ලීමට අද දුන් තීන්දුව
+### Government's decision to request Gnanasara Thera
 
 *2024-04-02 16:30:33* · [`adalk`](https://www.ada.lk/breaking_news/ඥානසාර-හිමිගේ-ඇප-ඉල්ලීමට-අද-දුන්-තීන්දුව/11-408905) · `si`
 
-දැනට නියම කර තිබෙන  බරපතළ වැඩසහිත වසර හතරක සිරදඬුවම් නියම වී සිටින පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන් ඇප මත මුදාහරින ලෙස කර තිබූ ඉල්ලීම කොළඹ මහාධිකරණය විසින් ප්‍රතික්ෂේප කර ඇත.
+The Colombo High Court rejected Ven. Galagodaatte Gnanasara Thero's bail request, delaying his release.
 
-ඥානසාර හිමියන්ගේ සෞඛ්‍ය තත්වය සැලකිල්ලට ගෙන  අභියාචනාධිකරණය ඉදිරියේ අභියාචනයක් විභාග කිරීම ප්‍රමාද වීම සලකමින් උන්වහන්සේ ඇපමත මුදා හරින ලෙසට ඥානසාර හිමියන්ගෙන් නීතිඥයන් විසින් මෙම ඇප ඉල්ලීම ඉදිරිපත් කර තිබිණි.
+🟩
+
+The Colombo High Court has rejected Ven. Galagodaatte Gnanasara Thero was released on bail.
+
+Gnanasara Thera had released the bail of Gnanasara Thera to release the Barantee by taking delay in the Court of Gnanasara Thera by taking revelation before the Court of Appeal.
 
 ◼️
 
 [Data](articles/17463b1a.json)
+
+[Extended Data](ext_articles/17463b1a.ext.json)
 
 ---
 
@@ -100,39 +130,51 @@ From March 2021, the Central Bank had a mutual transaction with the RMP 10 billi
 
 ---
 
-### නැගෙනහිර යුරෝපයේ රැකියා අවස්ථා ලැබුණු අපේ අය විඳින දුක
+### Our sadness experienced in Eastern Europe
 
 *2024-04-02 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195217) · `si`
 
-නැගෙනහිර යුරෝපීය රටවලට රැකියා අවස්ථාව හිමිවූ මෙරට ශ්‍රමිකයින්ට වීසා ලබාගැනීමට ඉන්දියාවට යෑමට සිදුවී තිබීමෙන් ගැටලු රාශියක් මතුව ඇති බව බලපත්‍රලාභී විදේශ රැකියා සංගමය පවසයි.
+The Licensed Foreign Employment Union highlights the challenges Sri Lankan workers face in accessing employment opportunities in countries like Poland and Hungary due to lack of embassies and high costs. Delays in visas can lead to cancellation of employment licenses, causing financial loss. The union discusses the issue with the Foreign Affairs Minister, noting the foreign employment market's potential to earn over $5 billion.
 
-විශේෂයෙන් පෝලන්තය, හංගේරියාව වැනි රටවල් පහළොවකට පමණ මෙම තත්ත්වය උදාවී ඇති බව ඔවුන් සඳහන් කළේය.
+🟩
 
-එම රටවල තානාපති කාර්යාල මෙරට ස්ථාපනය කර නොමැති නිසා එම රටවලට විදේශ රැකියා සඳහා යන ශ්‍රමිකයින්ට වීසා අත්සන් කර ගැනීමට ඉන්දියාවට යෑමට සිදුවීම නිසා ඔවුන්ට අමතරව රුපියල් ලක්ෂ තුනකට වැඩි මුදලක් වැයවෙන බව සඳහන් ය.
+The Licensed Foreign Employment Union (Licensed Foreign Employment Association says that the Sri Lankan workers have to travel to Sri Lanka to visit India to Sri Lanka's employment opportunities.
 
-එසේම වීසා ලබාගැනීම පමා වුවහොත් රැකියා බලපත්‍රය ද  අවලංගු වීමට ඉඩ ඇති අතර එසේ වුවහොත් එම අයදුම්කරුට විශාල මුදලක් අහිමි වන බව එම සංගමය පෙන්වා දෙයි.
+They said that about fifteen countries, such as Poland, Hungary, has come to the situation.
 
-මේ සම්බන්ධයෙන් 2016 සිට තිලක් මාරපන මහතා විදේශ කටයුතු අමාත්‍යවරයා ලෙස සිටින සමයේදී පවා සාකච්ඡා පැවැත්වූ බවත් වර්තමාන විදේශ කටයුතු අමාත්‍යවරයා සමග පවා මේ පිළිබඳ සාකච්ඡා කළත් ගැටලුවට නිසි පිළිතුරක් නොලැබුණු බව ඔවුන් සඳහන් කරයි.
+Since the embassies in those countries are not installed in this country, they have cost more than Rs.
 
-ඩොලර් බිලියන පහකට වඩා වැඩි ආදායමක් ලබා ගැනීමට හැකියාවක් ඇති මෙම විදේශ රැකියා වෙළෙඳපොළ ට ඇති බවද එම සංගමය පැවසීය.
+Also, if visa is delayed, the employment license is also canceled and the applicant will lose a lot of money.
+
+They noted that Mr. Thilak Marapana has been discussed as a foreign affairs minister in 2016 and discussed the problem with the present Foreign Affairs.
+
+The foreign employment market has the ability to earn more than $ 5 billion.
 
 ◼️
 
 [Data](articles/e8ffe1ce.json)
 
+[Extended Data](ext_articles/e8ffe1ce.ext.json)
+
 ---
 
-### වාහන ආනයනය ගැන රජයේ අලුත්ම තීරණය
+### Government's new decision on imports
 
 *2024-04-02 16:01:06* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ගැන-රජයේ-අලුත්ම-තීරණය/11-408904) · `si`
 
-වෑන් රථ සහ කුඩා ප්‍රමාණයේ බස් රථ ආනයනය සඳහා කැබිනට් අනුමැතිය හිමිවී තිබේ. ඒ සංචාරක අමාත්‍ය හරීන් ප්‍රනාන්දු ඉදිරිපත් කර ඇති යෝජනාවකට අනුව සංචාරක ව්‍යාපාරයේ ප්‍රවාහන අවශ්‍යතාවයන් සඳහායි.
+The government approved importing 750 vans and 250 buses for tourist transportation, as proposed by Minister Harin Fernando.
 
-ඒ අනුව විශේෂයෙන්ම සංචාරකයන් ප්‍රවාහනය කිරීම සඳහා භාවිත කිරීමට ආසන 6 - 15 වෑන් රථ 750ක්  සහ ආසන 16-30 කුඩා ප්‍රමාණයේ බස් රථ හා ආසන 30-45 බස් රථ 250ක් ආනයනය කිරීමටයි කැබිනට් අනුමැතිය හිමි ඇත්තේ.
+🟩
+
+Cabinet approval has been given to import imports of vans and small buses. According to a proposal made by Minister Harin Fernando, a proposal presented by Minister Harin Fernando, is for transportation needs.
+
+Accordingly, the cabinet approves the importation of 750 vans and 250 buses of 16-30 buses to transport tourists.
 
 ◼️
 
 [Data](articles/35c22541.json)
+
+[Extended Data](ext_articles/35c22541.ext.json)
 
 ---
 
@@ -174,19 +216,25 @@ It is apparent that the condition of the vehicles used in the tourism industry i
 
 ---
 
-### සේනක බටගොඩ මහතාට ගීත හතක් ගායනා කිරීමට වාරණයක්
+### Senaka Batagoda censes to sing seven songs
 
 *2024-04-02 15:41:36* · [`adalk`](https://www.ada.lk/breaking_news/සේනක-බටගොඩ-මහතාට-ගීත-හතක්-ගායනා-කිරීමට-වාරණයක්/11-408903) · `si`
 
-ජනත් කුලතිලක මහතාට බුද්ධිමය දේපොළ පනත යටතේ ගෙවිය යුතු කතෘ භාගය නොගෙවීම හේතුවෙන් ගායන ශිල්පී සේනක බටගොඩ මහතාට අපි කවුරුද, හීනවලට පනක් තිබෙනවා, අළු යට ගිනි, අපි සැනසිල්ලේ,  රස්තා,  හොඳම දේ, සැනසෙන්නම් යන ගීත 7  මින් ඉදිරියට ගායනය කිරීම වළක්වාලමින් කොළඹ වාණිජ මහාධිකරණ විනිසුරු ප්‍රියන්ත ප්‍රනාන්දු මහතා අද 02දා වාරණයක් නිකුත් කළේය.
+Senaka Batagoda censored for singing seven songs. High Court Judge Priyantha Fernando issued a censorship order. Case to be heard on April 16.
 
-එම ගීතවල ඒකාබද්ධ පදරචනය, තනු නිර්මාණය සහ සංගීත සංකල්පය කළ ජනත් කුලතිලක මහතා විසින් සිය නීතිඥයින් මාර්ගයෙන් ගොනුකර තිබූ පැමිණිල්ලක් සලකාබැලූ විනිසුරුවරයා ජනත් කුලතිලක මහතාගේ ලිඛිත අවසරයකින් තොරව එම ගීත 7 වෙනත් පාර්ශ්වයන් වෙත පැවරීම වළක්වාලමින් ද වාරණයක් නිකුත් කරනු ලැබීය.
+🟩
 
-මෙම නඩුව නැවත අප්‍රේල් 16 දින කැදවීමටයි ගරු වානිජ මහාධිකරණය නියෝග කරනු ලැබීය.
+Champion Senaka Batagoda has no printing of the letter under the Intellectual Property Act, we have a manifestation, under the ashes, and the Colombo Commerce High Court JudgePriyantha Fernando issued a censorship today.
+
+The judge who considered a complaint filed by his lawyers by his lawyers with the combined standard of these songs, the melodic and concept of music, issued a censored by the Jana Kulatilake.
+
+The commercial High Court was ordered to call this case on April 16 and the Hon.
 
 ◼️
 
 [Data](articles/28c5615e.json)
+
+[Extended Data](ext_articles/28c5615e.ext.json)
 
 ---
 
@@ -308,17 +356,29 @@ President Ranil Wickremesinghe, who returned to history, has said that it has be
 
 ---
 
-### පුතු බෙිරීමට මැදිහත් වූ පියා මිතුරන්ගෙන් පහර කා මරුට
+### Father who interfered with the son was hit by friends
 
 *2024-04-02 15:26:51* · [`adalk`](https://www.ada.lk/breaking_news/පුතු-බෙිරීමට-මැදිහත්-වූ-පියා-මිතුරන්ගෙන්-පහර-කා-මරුට/11-408902) · `si`
 
-පුතා සමග මිතුරන්  පිරිසක් පෙර ඇති කර ගෙන තිබූ කෝන්තරයක් සංගීත සංදර්ශනයක් අතරතුරදී යළි හට ගත් අවස්ථාවේ ඊට මැදිහත්ව බෙිරීමට ගිය පියාට සංගීත සංදර්ශනය නිම වී පිටතට පැමිණි පසු එහි රැක සිට පහර දීමෙන් පියා මරණයට පත්ව ඇති බව නාරම්මල පොලීසිය පවසයි.
+A father involved in a dispute was killed during a musical show at Wijekoon Stadium. He ran a fish sales business and was hospitalized. His death occurred after a conflict with two men, leading to his assault and hospitalization. The main suspect has been arrested, and investigations are ongoing.
 
-එසේ පහර දීමෙන් රෝහල්ගතව ප්‍රතිකාර ලබමින් සිටියදී මරණයට පත්ව ඇත්තේ නො -  80 , කෝන්ගහකොටුව   , කලුගමුව, මීවැව ලිපිනයේ පදිංචිව සිටි සේනාධීර පතිරැන්නැහැලාගේ  ප්‍රදීප්  ගුණතිලක  ( 43 ) නමැති එක් දරු පියෙකි. ඔහු මාළු අලෙවිය ව්‍යාපාරයක් ලෙස පවත්වාගෙන ගොස් ඇත.
+🟩
+
+The father has died when a group of crowd had resulted in a musical show during a musical show.
+
+The death was killed while he was hospitalized after being treated in the hospital.. He has run the fish sales as a business.
+
+Narammala UB. The deceased was resolved at a musical show at the Wijekoon Stadium, the deceased was spreading the musical show, but after the death of the musical show, the murder was completed and about 1.45 am after the corporation.The two men have again attacked the two-son son, when the two-two people arrived.
+
+The deceased has spoken to the deceased to resolve the conflict, but he has not allowed him. The following two sons have assaulted them to protect them from them and have been assaulted by the police.
+
+One of the people who had been assaulted had hit the deceased to the head of the deceased, police said.
 
 ...
 
 [Data](articles/6d33d964.json)
+
+[Extended Data](ext_articles/6d33d964.ext.json)
 
 ---
 
@@ -374,21 +434,29 @@ The opening ceremony of the festival is scheduled to be held at the premises of 
 
 ---
 
-### ඉඩම් ගැටලුවකට මස්සිනාගේ අතකපා අරන් ගිහින්
+### Brother-in-law was handed over to a land issue
 
 *2024-04-02 15:10:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉඩම්-ගැටලුවකට-මස්සිනාගේ-අතකපා-අරන්-ගිහින්/11-408901) · `si`
 
-යාපනය වඩමාරච්චි තම්පසිට්ටි වට්ටුවාන් ප්‍රදේශයේදී පවුල් දෙකක් අතර වූ ආරවුලක් දුරදිග යාම හේතුවෙන් අතක් වෙන්වන සේ කපාදමා රැගෙන ගිය පුද්ගලයෙකු ඊයේ 01දා අත්අඩංගුවට ගත් බව පේදුරුතුඩුව පොලීසිය පැවසීය.
+A land dispute led to the arrest of a man in Vadamarachchi. The victim was hospitalized and transferred. The suspect, a 30-year-old, was arrested and will be investigated by the Point Pedro Magistrate.
 
-අදාල පවුල් කලක සිට ඉඩම් ගැටලුවක් හේතුවෙන් ආරවුල් ඇතිකරගන්නා අතර ඊයේ දිනද ඒලෙසින් ආරවුලක් ඇති වූ අවස්ථාවේදී සිය මස්සිනාගේ අත වෙන්වන සේ කපා වෙන් වූ අතේ කොටසද රැගෙන අනෙක් මස්සිනා පලා ගොස් ඇත.
+🟩
 
-පසුව අත කපාදැමීමෙන් බරපතල තත්වයේ සිටි පුද්ගලයා පේදුරුතුඩුව රෝහලට රැගෙන යාමෙන් පසුව වැඩිදුර ප්‍රතිකාර සඳහා යාපනය ශික්ෂණ රෝහලට මාරුකොට යැවීය.
+A person was arrested yesterday, a man was arrested by two families in Vadamarachchi Vadamarachchi Vadamarachchi Vaduasitty Weet Wattala.
 
-මෙලෙස අතක කොටසක් අහිමිවී ඇත්තේ 30 හැවිරිදි ‌ෙසල්වනායගම් සෙන්තුරන් නැමත්තාට වූ අතර ඔහුගේ ඥාතීන් විසින් මේ පිළිබඳව පේදුරුතුඩුව පොලීසියට පැමිණිළි කිරීමට පියවර ගෙන තිබුණි. එහිදී ක්‍රියාත්මක වූ පොලීසිය විසින් පලාගිය සැකකරු අත්අඩංගුවට ගත්තද රැගෙන ගිය අතෙහි කොටස මෙතෙක් හමු නොවීම හේතුවෙන් තුවාල ලැබූ පුද්ගලයාට අතෙහි මැණික්කටුව ආසන්නයෙන් අතෙහි කොටස අහිමි විය.
+The other brother-in-law had run away with the hand of his brother-in-handed part of the hand of his brother-in-handed hand as a dispute since a land issue.
 
-...
+The victim was taken to the Point Pedro Yathuruwa Hospital and later transferred to Jaffna Teaching Hospital for further treatment.
+
+The 30-year-old sethings were lost to Sethuran, 30-year-old sethnuran.. The suspect was arrested by the police, the suspect was arrested despite the arrest of the hand of the hand, lost the part of the hand near the hand.
+
+Steps have been taken to be produced before the Point Pedro Magistrate and investigated, he added.
+
+◼️
 
 [Data](articles/8ad22120.json)
+
+[Extended Data](ext_articles/8ad22120.ext.json)
 
 ---
 
@@ -2159,27 +2227,5 @@ A special cultural dance performance had also been organized by the Airport and 
 [Data](articles/bb8d0cac.json)
 
 [Extended Data](ext_articles/bb8d0cac.ext.json)
-
----
-
-### The government fails to provide justice to victims of the survival Sunday attack - Leader of the Opposition
-
-*2024-04-02 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180204) · `ta`
-
-The government's failure to provide justice for victims of the Survivor Sunday attack has been criticized by the Leader of the Opposition, Sajith Premadasa. Despite President Gotabhaya Rajapakse's promise to find the main masterminds, no progress has been made. The government has not implemented recommendations from the Presidential Commission, Malakkoda Committee, or Parliamentary Select Committee. Controversial comments and lack of transparency in investigations have been highlighted.
-
-🟩
-
-The President Gotabhaya Rajapakse promised to find the main masterminds on the basis of the lifeblood Sunday attack, but it was not fulfilled.. At the same time, the President said that an international investigation into the attack. The government must report whether the investigation is taking place. Opposition leader Sajith Premadasa said that the government was unable to provide justice for the victims for five years.
-
-He was speaking in Parliament on Monday (01) under the Standing Ordinance of 27 2.
-
-5 years after the resurrection Sunday attack. However, the government has not yet taken steps to implement the recommendations that have been made or the recommendations that have been made through the Presidential Commission report, the Malakkoda Committee and the Parliamentary Select Committee on the attack.. Part of these statements are still hidden to MPs.
-
-...
-
-[Data](articles/95b70265.json)
-
-[Extended Data](ext_articles/95b70265.ext.json)
 
 ---

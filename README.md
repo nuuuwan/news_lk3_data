@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 15:18:01**
+As of **2024-04-02 15:33:45**
 
 ## Newspaper Stats
 
-*Scraped **16,620** Articles*
+*Scraped **16,622** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,62 @@ newsfirstlk | 363
 dailyftlk | 895
 economynextcom | 912
 islandlk | 924
-adalk | 1,396
+adalk | 1,397
 tamilmirrorlk | 1,982
 adaderanalk | 1,997
 virakesarilk | 2,374
-dailymirrorlk | 2,559
+dailymirrorlk | 2,560
 adaderanasinhalalk | 2,692
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,619 (100.0%) of 16,620 articles have been extended.
+16,620 (100.0%) of 16,622 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### සේනක බටගොඩ ට ගීත 7ක් ගායනා කිරීමට වාරණයක්
+### Close all liquor, meat shops on May 22, 23 and 24
+
+*2024-04-02 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Close-all-liquor-meat-shops-on-May-22-23-and-24/108-280043) · `en`
+
+Colombo, April 2 (Daily Mirror) - Due to a series of programms to be held for the State Vesak festival for Sri Buddha year 2568 (2024), the Buddha Sasana, Religious and Cultural Affairs Ministry requested to stop the slaughter of animals and to close down meat shops and places where drugs are sold, including liquor stores, on May 22, 23 and 24.
+
+Meanwhile, Cabinet spokesman and Minister Bandula Gunawardana said the State Vesak festival is scheduled to be held from May 21 to 27, naming it Vesak week and focusing on the Matale district.
+
+The theme of this year's State Vesak festival is "Let's not look at what others have done and look at what we have done."
+
+The opening ceremony of the festival is scheduled to be held at the premises of the Dharmaraja Pirivena in Matale and the closing ceremony at the Millawana Sri Sunandarama Temple premises in the Pallepola Divisional Secretariat.
+
+◼️
+
+[Data](articles/c5386184.json)
+
+---
+
+### Seneage to Senaka Batagoda to sing seven songs
 
 *2024-04-02 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195214) · `si`
 
-ගායන ශිල්පී සේනක බටගොඩ මහතාට ඔහු ගායනා කළ ගීත 7ක් මින් ඉදිරියට ගායනය කිරීම වළක්වාලමින් කොළඹ වාණිජ මහාධිකරණ විනිසුරු ප්‍රියන්ත ප්‍රනාන්දු මහතා අද (02) වාරණයක් නිකුත් කළේය.
+Judge Priyantha Fernando lifted the censorship on seven songs for Senaka Batagoda, noting they didn't violate the Intellectual Property Act. The decision was based on a complaint by Janath Kulathilaka, who was censored by the judge.
 
-අපි කවුරුද, අපි සැනසිල්ලේ, අළු යට ගිනි, රස්තා, හීනවලට පනක් තිබෙනවා, හොඳම දේ, සැනසෙන්නම් යන ගීත 7 ගායනය කිරීම වළක්වමින් එලෙස වාරණ නියෝගය නිකුත් කර ඇත.
+🟩
 
-ඒකාබද්ධ ගීත පදරචනය, තනු නිර්මාණය සහ සංගීත සංකල්පය කළ ජනත් කුලතිලක මහතාට බුද්ධිමය දේපොළ පනත යටතේ ගෙවිය යුතු කතෘ භාගය නොගෙවීම සම්බන්ධයෙන් මෙම තීරණය දැනුම්දී තිබේ.
+High Court High Court High Court Judge Priyantha Fernando released the censorship of seven songs to the singing Senaka Batagoda.
 
-ජනත් කුලතිලක මහතා විසින් සිය නීතිඥයින් මාර්ගයෙන් ගොනුකර තිබූ පැමිණිල්ලක් සලකාබැලූ විනිසුරුවරයා ජනත් කුලතිලක මහතාගේ ලිඛිත අවසරයකින් තොරව එම ගීත 7 වෙනත් පාර්ශ්වයන් වෙත පැවරීම වළක්වාලමින් ද වාරණයක් නිකුත් කරනු ලැබීය.
+We have, we have a comforting, gray fires, ashes, rats, and the sound, preclude the injunction precluding the best of comforting songs.
+
+The decision has been informed of not paying the letter to the Intellectual Property Act, the intellectual property Act, which is combined with combined songs, melodies and the concept of music.
+
+The judge who considered a complaint filed by the Janath Kulathilaka by his lawyers, the judge issued a censored by the judge of Janath Kulatilake.
 
 ◼️
 
 [Data](articles/3237366c.json)
+
+[Extended Data](ext_articles/3237366c.ext.json)
 
 ---
 
@@ -125,6 +149,22 @@ The crew is on board the container vessel Dali that collided with the 2.6-km-lon
 [Data](articles/b398df70.json)
 
 [Extended Data](ext_articles/b398df70.ext.json)
+
+---
+
+### මාලිගාවත්ත පාලමක් යට ගිනි අවියක් සොයාගනී
+
+*2024-04-02 13:56:42* · [`adalk`](https://www.ada.lk/breaking_news/මාලිගාවත්ත-පාලමක්-යට-ගිනි-අවියක්-සොයාගනී/11-408900) · `si`
+
+මාලිගාවත්ත ඇපල් වත්ත මිලානියා නිවාස සංකීර්ණයට යාබද පාලමක් යට තිබී හිමිකරුවෙකු නොමැති  විදේශීය රටක නිෂ්පාදිත ගිනි අවියක් සහ එයට යොදන ජිව   උණ්ඩ තොගයක් සොයාගත් බව කොළඹ අපරාධ කොට්ඨාසය කියයි.
+
+අංක 637389 ජර්මනියේ නිෂ්පාදිත රිවෝල්වර වර්ගයේ ගිනි අවිය සහ ජිව උන්ඩ 21 ක්  එහි තිබී සොයාගෙන ඇත.
+
+පාතාල සහ සංවිධානාත්මක අපරාද කල්ලි මෙන්ම මත්ද්‍රව ජාවාරම මැඩලීමේ මෙහෙයුමේ  නිරත කොළඹ අපරාධ කොට්ඨාසයට අනුයුක්ත  කණ්ඩායම සිදුකළ මෙහෙයුමකදී මාලිගාවත්ත ඇපල් වත්ත මිලානියා නිවාස සංකීර්ණයට යාබදව පිහිටි පාලම යට කවරේක තා තිබූ මෙම ගිනි අවීය හා ජීව උණ්ඩ තොගය සොයා ගැනීමට හැකි වූ බව පොලිසිය කියයි
+
+◼️
+
+[Data](articles/27343db7.json)
 
 ---
 
@@ -2191,39 +2231,5 @@ It is apparent that the current Indian ruling Bharatiya Janata Party (BJP) is no
 [Data](articles/12782ee4.json)
 
 [Extended Data](ext_articles/12782ee4.ext.json)
-
----
-
-### Israeli attack on Iran's vice -embassy in Syria
-
-*2024-04-02 06:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/180199) · `ta`
-
-Israeli attack on Iran's consulate in Syria kills seven, including top Iranian officers. Brigadier General Mohammed Rasa Jakedy among the dead.
-
-🟩
-
-Seven people, including top Iranian army officers, have been killed in an Israeli attack on an Iranian consulate in Syria
-
-Photos and videos have been revealed in a building in a part of the Syrian capital, Damascus.
-
-Iran has reported that Brigadier General Mohammed Rasa Jakedy has been killed in Israel's attack.
-
-◼️
-
-[Data](articles/0ae1a68e.json)
-
-[Extended Data](ext_articles/0ae1a68e.ext.json)
-
----
-
-### Sinhala Buddhist Nationalism & Women In Sri Lanka
-
-*2024-04-02 06:23:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sinhala-buddhist-nationalism-women-in-sri-lanka/) · `en`
-
-...
-
-[Data](articles/c191ff2d.json)
-
-[Extended Data](ext_articles/c191ff2d.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 19:50:56**
+As of **2024-04-02 20:03:21**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,699
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,678 (100.0%) of 16,681 articles have been extended.
+16,681 (100.0%) of 16,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### சதொச சென்றால் சந்தோஷம்...
+### Sathosa is happy ...
 
 *2024-04-02 19:26:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதொச-சென்றால்-சந்தோஷம்/175-335523) · `ta`
 
-எதிர்வரும் சிங்கள தமிழ் புத்தாண்டை முன்னிட்டு நாடளாவிய ரீதியில் உள்ள அனைத்து சதொச கிளைகளிலும் இன்று (02) முதல் வாடிக்கையாளர்களுக்கு நிவாரணப் பொதி ஒன்றை கொள்வனவு செய்யும் வாய்ப்பு வழங்கப்பட்டுள்ளது.
+Sathosa offers a relief package with 11 food items for Rs 3,420, and sells eggs at Rs 36, starting today.
 
-4,500 ரூபா பெறுமதியான 11 உணவுப் பொருட்கள் அடங்கிய இந்த நிவாரணப் பொதியை 3,420 ரூபா என்ற சில்லறை விலையில் கொள்வனவு செய்வதற்கான சந்தர்ப்பம் பொது மக்களுக்கு வழங்கப்பட்டதாக சதொச தலைவர்  பசந்த யாப்பா அபேவர்தன குறிப்பிட்டார்.
+🟩
 
-மேலும், சதொச நிறுவனம் இன்று முதல் ஒரு முட்டையை 36 ரூபா என்ற சில்லறை விலையில் விற்பனை செய்ய நடவடிக்கை எடுத்துள்ளது. R
+Customers have been given the opportunity to buy a relief package from today (02) at all the Sadhosa branches across the country ahead of the upcoming Sinhala Tamil New Year.
+
+Sathosa leader Basantha Yapa Abeywardena said that the relief package containing 11 food items worth Rs 4,500 was given to the public at a retail price of Rs 3,420.
+
+In addition, Sathosa has taken steps to sell an egg at a retail price of 36 rupees from today. Remble
 
 ◼️
 
 [Data](articles/356770c7.json)
+
+[Extended Data](ext_articles/356770c7.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ Addressing the meeting, the Chair expressed his gratitude to all the Members of 
 ...
 
 [Data](articles/92e4b55a.json)
+
+[Extended Data](ext_articles/92e4b55a.ext.json)
 
 ---
 
@@ -294,15 +302,21 @@ Although it has been repeatedly said that the elephant fences are said to be set
 
 ---
 
-### වැට් වැඩි කිරීම සම්මතයි
+### VAT increases standard
 
 *2024-04-02 18:04:54* · [`adalk`](https://www.ada.lk/breaking_news/වැට්-වැඩි-කිරීම-සම්මතයි/11-408908) · `si`
 
-එකතු කළ අගය මත බද්ද (වැට්) සියයට 15 සිට 18 දක්වා වැඩි කිරීමට අදාල නියෝගය වැඩි ඡන්ද 36කින් පාර්ලිමේන්තුවේදී අද (2) සම්මතවිය. පනතට පක්ෂව ඡන්ද 55ක් ලැබුණු අතර විපක්ෂවය ඡන්ද 19ක් ලැබුණි.
+Parliament passed a bill to raise VAT from 15% to 18%, with 55 votes in favor and 19 against.
+
+🟩
+
+The order to increase the value added tax (VAT) to increase the increase from 15 to 18 percent of 36 votes was passed in parliament today (2). The bill received 55 votes and the opposition received 19 votes.
 
 ◼️
 
 [Data](articles/45779f75.json)
+
+[Extended Data](ext_articles/45779f75.ext.json)
 
 ---
 

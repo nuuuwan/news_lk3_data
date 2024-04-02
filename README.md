@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 11:33:54**
+As of **2024-04-02 11:52:50**
 
 ## Newspaper Stats
 
-*Scraped **16,563** Articles*
+*Scraped **16,572** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,50 +13,182 @@ bbccomsinhala | 175
 dbsjeyarajcom | 202
 newsfirstlk | 363
 dailyftlk | 895
-economynextcom | 909
+economynextcom | 912
 islandlk | 924
 adalk | 1,392
-tamilmirrorlk | 1,975
+tamilmirrorlk | 1,977
 adaderanalk | 1,991
 virakesarilk | 2,362
-dailymirrorlk | 2,545
-adaderanasinhalalk | 2,682
+dailymirrorlk | 2,548
+adaderanasinhalalk | 2,683
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,558 (100.0%) of 16,563 articles have been extended.
+16,563 (99.9%) of 16,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### ”அந்த சரக்கு கப்பல் பற்றி CEA அறிந்திருக்கவில்லை”
+### තවත් පාතාල කල්ලි සාමාජිකයින් පිරිසක් කොටුවෙති
+
+*2024-04-02 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195205) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් 9 දෙනෙක් සහ සැකකරුවන් තිදෙනෙක් අත්අඩංගුවට ගැනීමට පොලීසිය සමත්ව තිබේ.
+
+බස්නාහිර පළාත හා දකුණු පළාත මුලික කරගෙන ක්‍රියාත්මක සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් අත්අඩංගුවට ගැනීම සඳහා දිවයින පුරා සිදුකරන විශේෂ යුක්තිය මෙහෙයුම යටතේ මෙම පිරිස අත්අඩංගුවට ගැනීමට සමත්ව තිබේ.
+
+ඊයේ (01) ගාල්ල අපරාධ කොට්ටඨාසයේ නිලධාරීන් විසින් ගෝනපීනුවල පොලිස් වසමේ වැටලීමක් සිදුකර 32 හැවිරිදි අපරාධ කල්ලි සාමාජිකාවක් අත්අඩංගුවට ගෙන ඇත.
+
+මේ අතර, ගාල්ල අපරාධ කොට්ඨාසයේ නිලධාරීන් විසින්ම බේරුවල වැටලීමක් සිදුකර 40 හැවිරිදි හිඟුරක්ගොඩ පදිංචි සංවිධානාත්මක අපරාධකල්ලි සාමාජිකයෙක් අයිස් මිලිග්‍රෑම් 360ක් සමග අත්අඩංගුවට ගෙන තිබේ.
+
+මේ අතර හික්කඩුව පොලිස් වසමේ තිරාණගම ප්‍රදේශයේ සිදුකළ වැටලීමක දී 32 හැවිරිදි අපරාධ කල්ලි සාමාජිකයෙක් අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 1 මිලිග්‍රෑම් 100 සමග අත්අඩංගුවට පත්ව ඇත.
+
+...
+
+[Data](articles/5ba83306.json)
+
+---
+
+### மூதாட்டி சடலத்தின் பெரு விரலில் மை
+
+*2024-04-02 11:29:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மூதாட்டி-சடலத்தின்-பெரு-விரலில்-மை/71-335499) · `ta`
+
+யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்த மூதாட்டியின் கை பெரு விரலில் மை கிடந்தமை தொடர்பில் பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+மூதாட்டியின் சொத்துக்களை சட்டவிரோதமாக பெற்று இருக்கலாம் எனும் சந்தேகத்திலையே பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+மானிப்பாய் பகுதியை சேர்ந்த பெண்ணொருவர் திடீர் சுகவீனம் காரணமாக யாழ்.போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+சடலம் உடற்கூற்று பரிசோதனைக்காக பிரேத அறையில் வைக்கப்பட்டிருந்த நிலையில் , உயிரிழந்த பெண்ணின் மகன் வெளிநாட்டில் இருந்து , வைத்தியசாலை பணிப்பாளருடன் தொலைபேசியில் தொடர்பு கொண்டு , " தாயிடம் இருந்து சிலர் சட்டவிரோதமான முறையில் சொத்துக்களை எழுதி வாங்கியுள்ளார்" என எனக்கு தகவல் கிடைத்துள்ளது. அது தொடர்பில் விசாரணைகளை முன்னெடுக்க வேண்டும் என கூறியுள்ளார்.
+
+அதனை அடுத்து , பணிப்பாளர் சட்ட வைத்திய அதிகாரிக்கு இந்த விடயத்தினை தெரியப்படுத்தியுள்ளார். அத்துடன் திடீர் மரண விசாரணை அதிகாரியும் விசாரணைகளை முன்னெடுத்துள்ளார்.
+
+...
+
+[Data](articles/4d643851.json)
+
+---
+
+### ரோகித் அவுட்டானதை கொண்டாடிய ரசிகர் அடித்து கொலை
+
+*2024-04-02 11:24:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ரோகித்-அவுட்டானதை-கொண்டாடிய-ரசிகர்-அடித்து-கொலை/44-335498) · `ta`
+
+ஐ.பி.எல். தொடரில் ஐதராபாத்தில் கடந்த 27-ந் திகதிய நடந்த ஆட்டத்தில் மும்பை இந்தியன்ஸ் மற்றும் சன்ரைசர்ஸ் ஐதராபாத் அணிகள் மோதின. முதலில் துடுப்பெடுத்தாடிய  ஐதராபாத் அணி 20 ஓவர்கள் முடிவில் 3 விக்கெட் இழப்புக்கு 277 ஓட்டங்களை குவித்தது. 278  ஓட்டங்கள் என்ற வெற்றி இலக்குடன் மும்பை அணி விளையாடியது.
+
+அந்த அணியின் தொடக்க ஆட்டக்காரர்களாக இஷான் கிஷன் மற்றும் ரோகித் சர்மா விளையாடினர். போட்டியில், ரோகித் 26 ஓட்டங்களில் ஆட்டமிழந்து வெளியேறினார். இதனை கொண்டாடிய ஒருவர், நண்பராலேயே அடித்து கொல்லப்பட்ட அதிர்ச்சி சம்பவம் நடந்துள்ளது.
+
+மராட்டியத்தின் கோலாப்பூர் நகரில் அனுமந்த்வாடி கிராமத்தில், இந்த போட்டியை காண்பதற்காக பந்தோபண்ட் திபிலே (வயது 63) என்பவர் நண்பர் ஒருவரின் வீட்டுக்கு சென்றுள்ளார். அதே வீட்டுக்கு திபிலேவின் மற்றொரு நண்பரான பலவந்த் ஜாஞ்ஜே (வயது 50) என்பவரும் வந்துள்ளார்.
+
+...
+
+[Data](articles/f3ff6805.json)
+
+---
+
+### World’s End attracts more tourists...
+
+*2024-04-02 11:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Worlds-End-attracts-more-tourists/110-280021) · `en`
+
+During the recent long weekend, a significant number of tourists and local residents were observed visiting World's End. With the country's economy on the mend, there has been an increase in tourist arrivals, leading them to explore various areas, including Nuwara Eliya, for leisure activities. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/10674b06.json)
+
+---
+
+### New Director General appointed to Bribery Commission
+
+*2024-04-02 11:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-Director-General-appointed-to-Bribery-Commission/108-280020) · `en`
+
+Colombo, April 2 (Daily Mirror)- President Ranil Wickremesinghe has appointed W.K.D. Wijerathne as the Director General of the Commission to Investigate Allegations of Bribery or Corruption, the President's Media Division (PMD) said.
+
+The President has made the appointment in accordance with the provisions of the new Anti-corruption Act.
+
+◼️
+
+[Data](articles/eedd5993.json)
+
+---
+
+### Japan gives bikes to Sri Lanka schoolchildren
+
+*2024-04-02 11:13:00* · [`economynextcom`](https://economynext.com/japan-gives-bikes-to-sri-lanka-schoolchildren-156977/) · `en`
+
+ECONOMYNEXT – Japan has donated 517 bicycles to rural schoolchildren in Sri Lanka to help them get to school daily.
+
+“To encourage safe and daily attendance of school in rural areas, 517 bicycles were donated by the people of Japan through ChildFund Japan,” ChildFund Sri Lanka said in a statement.
+
+Schoolchildren between the ages of 12-16 were selected from 108 schools in 12 districts where there are transportation difficulties, such as Monaragala, Puttalam, and Mullaitivu.
+
+Some students in these areas have to travel over two and a half kilometers from home to school with no means of transport available.
+
+The bicycles were handed over to the Ministry of Education, Sri Lanka on Monday with Ambassador Mizukoshi Hideaki and Minister of Education Susil Premajayantha participating. The bicycles will be distributed to the selected schools and children by ChildFund Sri Lanka. (Colombo/Apr2/2024)
+
+◼️
+
+[Data](articles/c62e10fe.json)
+
+---
+
+### Railways to remove hazardous trees along Galabada-Hatton line
+
+*2024-04-02 11:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Railways-to-remove-hazardous-trees-along-Galabada-Hatton-line/108-280022) · `en`
+
+The Railways Department has decided to remove the dangerous trees on both sides of the railway line between Galabada and Hatton, Railways Superintendent S. Godage said.
+
+He said in the past three months, the upcountry railway line has been obstructed due to falling trees on nine occasions.
+
+Therefore, necessary activities are being carried out to cut and remove dangerous trees along the upcountry railway line before the rainy weather that may occur in the central mountains in the future.
+
+◼️
+
+[Data](articles/01782c40.json)
+
+---
+
+### “CEA is not aware of that freight ship”
 
 *2024-04-02 11:05:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்த-சரக்கு-கப்பல்-பற்றி-CEA-அறிந்திருக்கவில்லை/175-335497) · `ta`
 
-சிங்கப்பூர் சரக்குக் கப்பல் ஒன்று அமெரிக்காவில் இருந்து இலங்கைக்கு அபாயகரமான பொருட்களை ஏற்றி வந்த சம்பவம் தொடர்பில் விரிவான விசாரணைகளை மத்திய சுற்றாடல் அதிகாரசபை ஆரம்பித்துள்ளதாக சுற்றாடல் இராஜாங்க அமைச்சர் ஜானக வக்கும்புர தெரிவித்துள்ளார்.
+The Central Environmental Authority (CEA) is unaware of a Singapore cargo ship carrying hazardous goods from the US to Sri Lanka. The ship, MAERSK, crashed into a Baltimore Bridge with 764 tonnes of hazardous items on March 26. Opposition Leader Sajith Premadasa calls for an investigation into how the ship was allowed to carry hazardous items to Sri Lanka. Minister Wakumbura agrees, stating that Sri Lanka would not have known about the hazardous cargo unless the ship crashed. The Sri Lankan Customs and Colombo port have been notified, and a formal inquiry is underway.
 
-அபாயகரமான பொருட்களை ஏற்றிச் செல்லும் சரக்குக் கப்பல் இலங்கைக்கு செல்வது CEAக்கு தெரியாது என அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+🟩
 
-கடந்த மார்ச் 26ஆம் திகதி 764 தொன்கள் அபாயகரமான பொருட்களுடன் அமெரிக்காவின் பால்டிமோர் பாலத்தில் மோதி விபத்துக்குள்ளான Maersk நிறுவனத்தால் வாடகைக்கு எடுக்கப்பட்ட சிங்கப்பூர் சரக்குக் கப்பலான டாலி குறித்து ஊடகங்களில் வெளியான செய்தி தொடர்பில் அரசாங்கத்தின் பிரதிபலிப்பைக் கேட்ட எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச எழுப்பிய கேள்விக்கு பதிலளிக்கும் போதே அமைச்சர் மேற்கண்டவாறு தெரிவித்தார்.
+The Central Environmental Authority has launched a comprehensive investigation into the incident of a Singapore cargo ship from the United States to Sri Lanka from the United States.
 
-நாட்டுக்குத் தெரியாமல் அபாயகரமான பொருட்களை ஏற்றிக்கொண்டு இவ்வாறான சரக்குக் கப்பல் எவ்வாறு இலங்கை நோக்கிச் சென்றது என்பது தொடர்பில் உரிய விசாரணை நடத்தப்பட வேண்டுமென எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+He told Parliament that the CEA did not know how to travel to Sri Lanka to carry hazardous goods.
+
+Responding to a question raised by Opposition Leader Sajith Premadasa, hearing the government's reflection of the government about the media reporting in the media about the MAERSK, a rented Singapore cargo ship, which crashed into a Baltimore Bridge in the United States with 764 tonnes of hazardous items on March 26.
+
+The Opposition Leader said that a proper investigation should be held on how such a freight ship moved towards Sri Lanka by loading hazardous items from the country.
+
+We will not be aware of the hazardous items in the cargo ship until the crash is not encountered. A formal inquiry should be conducted on how such a ship went to Sri Lanka.
 
 ...
 
 [Data](articles/92e5e308.json)
 
+[Extended Data](ext_articles/92e5e308.ext.json)
+
 ---
 
-### இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் பணிப்பாளராக விஜேரத்ன நியமனம்!
+### Wijeratne appointed as Director of Bribery Commission
 
 *2024-04-02 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180213) · `ta`
+
+Wijeratne named Director of Bribery Commission.
+
+🟩
 
 ◼️
 
 [Data](articles/0bb228f6.json)
+
+[Extended Data](ext_articles/0bb228f6.ext.json)
 
 ---
 
@@ -76,21 +208,29 @@ The appointment was made by President Ranil Wickremesinghe, in accordance with t
 
 ---
 
-### உள்நாட்டு பால்மா பாவனை அதிகரிப்பு
+### Increase
 
 *2024-04-02 10:56:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உள்நாட்டு-பால்மா-பாவனை-அதிகரிப்பு/175-335496) · `ta`
 
-பொருளாதார நெருக்கடியைத் தொடர்ந்து, விலையேற்றம் காரணமாக ஏறக்குறைய பாதியாகக் குறைந்துள்ள இலங்கையின் மாதாந்த பால் மா பாவனையானது, சிறிதளவு அதிகரிப்பைக் கண்டு வருவதாக, சிரேஷ்ட தொழில்துறை பிரதிநிதி ஒருவர் தெரிவித்தார்.
+Sri Lanka's milk consumption has slightly increased post-crisis, but overall, it's less than before. Economic recovery has seen over a million families return to the market, but the dairy industry needs at least two years to reach pre-crisis levels.
 
-அமெரிக்க டொலரின் விலை உயர்வு, உலக சந்தையில் பால் விலை உயர்வு மற்றும் அரசாங்க வரி உயர்வு போன்ற காரணங்களால், கடந்த மூன்று ஆண்டுகளில் 7,000 மெட்ரிக் டன் பால் பவுடர் நுகர்வு, கடந்த மூன்று ஆண்டுகளில் சுமார் 3,000 மெட்ரிக் டன்னாக குறைந்துள்ளது.
+🟩
 
-எவ்வாறாயினும், பொருளாதார நிலைமைகள் சிறிதளவு முன்னேற்றத்துடன், ஒரு மில்லியனுக்கும் அதிகமான குடும்பங்கள் சந்தைக்கு திரும்பியுள்ளன, இருப்பினும் ஒட்டுமொத்த நுகர்வு கோவிட்-க்கு முந்தைய அளவை விட குறைவாகவே உள்ளது என்று மலிபன் குழுமத்தின் தலைமை நிர்வாக அதிகாரி ரவி ஜெயவர்தன கூறினார்.
+Following the economic crisis, a senior industry representative said the use of Sri Lanka's monthly milk, which has been reduced by almost half of the price rise, has seen a slight increase.
 
-இலங்கையின் நுகர்வோர் செலவினங்களின் தற்போதைய போக்குகள் மற்றும் நெருக்கடிக்குப் பிந்தைய கண்ணோட்டம் குறித்து ஆராயும் கபிட்டல் அலையன்ஸ் லிமிடெட் நடத்திய குழு விவாதத்தில் உரையாற்றும் போது அவர் தனது கருத்துக்களைப் பகிர்ந்து கொண்டார்.
+Consumption of 7,000 metric tonnes of milk powder in the last three years has declined to 3,000 metric tonnes in the last three years due to the rise in US dollar prices, milk prices in the world market and government tax hikes.
+
+However, with the slightest improvement of economic conditions, more than one million families have returned to the market, although the overall consumption is less than the previous level, said Ravi Jayawardena, CEO of the Maliban Group.
+
+He shared his views while addressing a group debate by the Kabital Alliance Limited, which examines the current trends of Sri Lankan consumer spending and the post -crisis view.
+
+According to Jayawardena, the domestic dairy industry will take at least two years to return to Kovit's previous consumption.
 
 ...
 
 [Data](articles/ce8a02cb.json)
+
+[Extended Data](ext_articles/ce8a02cb.ext.json)
 
 ---
 
@@ -330,6 +470,26 @@ Accordingly, the Romania and other Shengen countries can travel by sea and air w
 
 ---
 
+### Sri Lanka rupee strengthens crossing 300 to the US dollar
+
+*2024-04-02 10:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-strengthens-crossing-300-to-the-us-dollar-156948/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 299.85/95 to the US dollar in the spot forex market on Tuesday, crossing the 300 mark after opening at 299.90/300.00, dealers said.
+
+A bond maturing on 15.12.2026 was quoted stable at 11.30/40 percent.
+
+A bond maturing on 15.09.2027 was quoted at 11.85/12.00 percent from 11.90/12.05 percent.
+
+A bond maturing on 15.12.2028 was quoted stable at 12.10/20 percent.
+
+The Colombo Stock Exchange opened up; the All Share Price Index was up 0.11 percent at 11,491, and the S&P SL20 was up 0.16 percent at 3,334. (Colombo/Apr2/2024)
+
+◼️
+
+[Data](articles/885c9396.json)
+
+---
+
 ### Petitions against IGP should consider today
 
 *2024-04-02 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195199) · `si`
@@ -375,6 +535,8 @@ The intercepted passengers have either used forged Sri Lankan passports, forged 
 ...
 
 [Data](articles/943c452f.json)
+
+[Extended Data](ext_articles/943c452f.ext.json)
 
 ---
 
@@ -598,27 +760,33 @@ The second reading of the Banking Amendment Bill will be held today.
 
 ---
 
-### ලොරි හා දුම්රිය ගැටී දුම්රිය රියදුරු අතුළු තිදෙනෙකුට තුවාල
+### Three train driver collided with lorries and train injured
 
 *2024-04-02 09:16:38* · [`adalk`](https://www.ada.lk/breaking_news/ලොරි-හා-දුම්රිය-ගැටී-දුම්රිය-රියදුරු-අතුළු-තිදෙනෙකුට-තුවාල/11-408894) · `si`
 
-රාගම පේරලන්ද පල්ලිය ආසන්නයේ දුම්රිය හරස් මාර්ගයකදී ලොරි රථයක් දුම්රියක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+A train and three lorries collided near Peralanda Church, injuring the train driver and lorry passengers. The train was carrying fuel from Kolonnawa to Katunayake airport. The accident led to hospitalization of the injured and minor injuries to the train's engine driver. The lorry owner faced serious damage, despite closing the vehicle. Police and Ragama Police are investigating.
 
-අනතුරින් තුවාල ලැබූ ලොරි රථයේ රියදුරු සහ සහායක ප්‍රතිකාර සඳහා රෝහල්ගතකර තිබේ.
+🟩
 
-එසේම දුම්රිය එන්ජින් රියදුරුද මෙම අනතුර හේතුවෙන් සුළු තුවාල ලබා ඇති බව පොලීසිය පැවසීය.
+Ragama collided with a train near a railway crossing near the Peralanda Church.
 
-ඒ ආසන්නයේ තිබූ එළවළු වෙළෙඳසැලකට අනතුරින් බරපතළ හානි සිදුව ඇති අතර එම අවස්ථාවේ එහි හිමිකරු එය වසාදමා පිටව ගොස් තිබීමෙන් විශාල අනතුරක් වැළකී තිබුණි.
+The injured have been hospitalized for the treatment of the lorry and assistant treatments of the lorry.
 
-කොළොන්නාව සිට කටුනායක ගුවන්තොටුපොළ දක්වා ඉන්ධන ප්‍රවාහනය කරමින් තිබූ දුම්රියක් මෙලෙස අනතුරට ලක්ව ඇත.
+The rank engine driver also suffered minor injuries due to the accident.
 
-අනතුරින් දුම්රිය එන්ජිමට හානි සිදුව ඇති අතර ලොරි රථයට බරපතළ හානි සිදුව ඇති බව පොලීසිය පවසයි.
+The owner was seriously damaged in the accident, while the owner had closed it and had a great risk.
 
-රාගම පොලීසිය අනතුර සම්බන්ධයෙන් මේ වනවිට වැඩිදුර විමර්ශන ආරම්භ කර තිබේ.
+A train transporting fuel from Kolonnawa to Katunayake airport, a train was crashed.
+
+The lorry was damaged in the accident and the lorry was seriously damaged, police said.
+
+The Ragama Police are conducting further investigations into the accident.
 
 ◼️
 
 [Data](articles/629386db.json)
+
+[Extended Data](ext_articles/629386db.ext.json)
 
 ---
 
@@ -877,6 +1045,26 @@ The 37-year-old suspect was arrested and the Kalawana Police are conducting furt
 [Data](articles/cba7a605.json)
 
 [Extended Data](ext_articles/cba7a605.ext.json)
+
+---
+
+### Sri Lanka central bank buys $484mn from markets to Feb 2024
+
+*2024-04-02 07:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-buys-484mn-from-markets-to-feb-2024-156929/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has bought 484.8 million US dollars from forex markets in the first two months of the year, official data show as the monetary authority continued to operate deflationary policy.
+
+The central bank bought 245.3 million US dollars from banks in January 2024 and 248.5 million in February with only 9 million dollars in sales, data show.
+
+The central bank is operating deflationary monetary policy, mopping up inflows from dollar purchases at an appropriate market interest rate that reduces domestic credit and investments and allows dollars to be collected for external payments.
+
+Despite the 484.8 million dollars being bought over two months, gross official reserves only went up 29 million US dollars from 4,491 million dollars in December to 4,520 million dollars in February.
+
+Gross official reserves also include fiscal balances of the Treasury, which may rise when IMF or other budget support loans are given and fall when loans are repaid.
+
+...
+
+[Data](articles/0e510313.json)
 
 ---
 
@@ -1975,205 +2163,5 @@ The number of Kerala cannabis is nearly 45 kilograms.
 [Data](articles/7ef92b3b.json)
 
 [Extended Data](ext_articles/7ef92b3b.ext.json)
-
----
-
-### Obtaining IMF’s third tranche increasingly challenging – State Minister
-
-*2024-04-01 21:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98357/obtaining-imfs-third-tranche-increasingly-challenging-state-minister) · `en`
-
-Finance State Minister Shehan Semasinghe emphasized the significant progress made under the leadership of President Ranil Wickremesinghe, affirming his capability to tackle the country’s economic crisis effectively.
-
-Stressing the necessity of President Wickremesinghe’s continued leadership, Semasinghe cautioned against the misconception that anyone could manage the country’s affairs, highlighting the unique expertise and suitability of President Wickremesinghe for the task.
-
-The Finance State Minister further announced that following the distribution of relief benefits to 2.4 million “Aswesuma” recipients, plans are underway to conduct a follow-up survey. These statements were made by the State Minister during a press briefing held at the Presidential Media Centre today (01), focusing on the theme “Collective Path to a Stable Country.”
-
-...
-
-[Data](articles/cb131ba8.json)
-
-[Extended Data](ext_articles/cb131ba8.ext.json)
-
----
-
-### A car offspring in Dehiwala flyover
-
-*2024-04-01 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195186) · `si`
-
-A car on Dehiwala flyover caught fire, saving lives by ejecting the driver. Firefighters from Dehiwala-Mount Lavinia Municipal Council are extinguishing the blaze.
-
-🟩
-
-On the flyover of the Dehiwala flyover, a car was burning tonight.
-
-At that time, the man who was traveling in the car was dropped out and save lives.
-
-Two vehicles in the Dehiwala-Mount Lavinia Municipal Council have come to resume the fire.
-
-The fire has been caused by the fire.
-
-◼️
-
-[Data](articles/01948965.json)
-
-[Extended Data](ext_articles/01948965.ext.json)
-
----
-
-### 8 arrested, including officials of the Department of Excise
-
-*2024-04-01 21:24:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலால்-திணைக்கள-அதிகாரிகள்-உட்பட-8-பேர்-கைது/175-335470) · `ta`
-
-Eight, including 4 Excise Department officials, arrested by the Police Media Executive Unit with 45 kg Kerala cannabis from Negombo and Chilaw.
-
-🟩
-
-Eight people, including 4 Excise Department officials, have been arrested by the Police Media Executive Unit, the Police Media Unit said.
-
-They have been arrested with 45 kilograms of Kerala cannabis from Negombo and Chilaw areas. Remble
-
-◼️
-
-[Data](articles/aa82df24.json)
-
-[Extended Data](ext_articles/aa82df24.ext.json)
-
----
-
-### President orders review of Central Bank salary increase
-
-*2024-04-01 20:57:00* · [`islandlk`](http://island.lk/president-orders-review-of-central-bank-salary-increase/) · `en`
-
-Responding to mounting pressures from Members of Parliament,  the Committee on Public Finance (CoPF) and public concerns President Wickremesinghe in his capacity as the Minister of Finance, Economic Stabilization and National Policies has established an independent remuneration committee to review the recent increase in staff remuneration at the Central Bank of Sri Lanka (CBSL).
-
-The Independent Remuneration Committee members include Mr Dinesh Stephen Weerakkody, Mr Arjuna Herath, Dr Indrajit Coomaraswamy, Mrs Sudharma Karunarathne, Mr Anthony Nihal Fonseka, Mr Anushka S Wijesinha and Mr Duminda Hulangamuwa.
-
-Related Topics:CBSL salary hikeCentral Bank of Sri Lanka (CBSL)Committee on Public Finance (CoPF)
-
-Boult, Chahal and Parag make it 3-0 for Royals and 0-3 for Mumbai Indians
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/70e8e7df.json)
-
-[Extended Data](ext_articles/70e8e7df.ext.json)
-
----
-
-### Tax concessions lead to Rs 978 bn foregone revenue in FY 2022/23
-
-*2024-04-01 20:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tax-concessions-lead-to-Rs-978-bn-foregone-revenue-in-FY-202223/108-279977) · `en`
-
-Colombo, April 01 -  For the fiscal year 2022/23 (April to March), tax concessions resulted in a total of LKR 978 billion in foregone revenue, the government reported yesterday (31 March).
-
-The foregone revenue amounts to 56% of the total tax revenue collected by the government in 2022.
-
-This was highlighted by PublicFinance.lk, Sri Lanka’s premier economic insights platform, maintained by Verité Research.
-
-The source was a document titled “Tax Expenditure Statement” published on March 31, 2024 by the Ministry of Finance of Sri Lanka.
-
-The document reports the government’s estimates of the total revenue foregone due to various special targeted tax concessions provided by the country. The disclosure states its purpose as “to improve transparency in Sri Lanka’s financial reporting, aligned with international best practices”.
-
-...
-
-[Data](articles/f9c15a9b.json)
-
-[Extended Data](ext_articles/f9c15a9b.ext.json)
-
----
-
-### Eight including Excise officials arrested for Kerala Ganja trafficking
-
-*2024-04-01 20:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Eight-including-Excise-officials-arrested-for-Kerala-Ganja-trafficking/108-279978) · `en`
-
-Colombo, April 1 (Daily Mirror) - Eight suspects, including four Excise officials were arrested by the Police Narcotics Bureau (PNB) for allegedly transporting 45 kilograms of Kerala Ganja in a cab belonging to the Excise Office.
-
-Police said an Excise Inspector, an Excise Sergeant, an Excise driver and an assistant attached to an Excise office in Colombo were among those arrested.
-
-The other suspects are residents of Negombo and Chilaw areas.
-
-It has been revealed that they have been involved in Kerala ganja trafficking for a long time.
-
-PNB officials arrested the suspects based on information that a cab belonging to the Excise Department was smuggling Kerala ganja.
-
-Meanwhile, State Minister of Finance Ranjith Siyambalapitiya said that the four officers arrested with a quantity of Kerala Ganja have been suspended from the service.
-
-...
-
-[Data](articles/2a656b6b.json)
-
-[Extended Data](ext_articles/2a656b6b.ext.json)
-
----
-
-### A retired army officer arrested
-
-*2024-04-01 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195185) · `si`
-
-A 50-year-old retired army officer from Dharga town was arrested by Beruwala Police for planning to sell 4 Gajamunamu for Rs. 4 crores.
-
-🟩
-
-Beruwala Police have arrested four previous gajamuthu, with four instruments.
-
-The arrested army officer from a 50-year-old retirement army officer who was 50-year-old Dharga town.
-
-Police state the suspect is planning to sell 4 Gajamunamu 4 crores for nearly Rs.
-
-The suspect was due to be produced before the Kalutara Magistrate's Court.
-
-◼️
-
-[Data](articles/5a0c46d5.json)
-
-[Extended Data](ext_articles/5a0c46d5.ext.json)
-
----
-
-### Excise Officers caught with cannabis!8 people arrested
-
-*2024-04-01 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180188) · `ta`
-
-Police arrested 8, including 4 excise officers, for smuggling 45 kg Kerala ganja in Negombo and Chilaw. A van from the Excise Department is now under police custody.
-
-🟩
-
-Police have arrested eight suspects, including four excise officers, along with Kerala ganja in Negombo and Chilaw areas.
-
-Eight people have been arrested by the police narcotics unit with 45 kilograms of Kerala ganja, police said.
-
-Meanwhile, a van belonging to the Excise Department, which was arrested by the arrested officers, has been placed under police custody.
-
-◼️
-
-[Data](articles/7481f669.json)
-
-[Extended Data](ext_articles/7481f669.ext.json)
-
----
-
-### Imran Khan's 14 -year prison suspended
-
-*2024-04-01 20:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180189) · `ta`
-
-Imran Khan's 14-year prison sentence suspended by Islamabad High Court, but he remains in jail for other cases.
-
-🟩
-
-The Islamabad High Court has ordered the suspension of 14 years in prison sentenced to former Pakistani Prime Minister Imran Khan.
-
-The court has decided to consider the appeal filed by him.
-
-However, former Prime Minister Imran Khan is still in jail due to cases.
-
-◼️
-
-[Data](articles/80287e4f.json)
-
-[Extended Data](ext_articles/80287e4f.ext.json)
 
 ---

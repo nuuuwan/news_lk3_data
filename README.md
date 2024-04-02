@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 08:33:48**
+As of **2024-04-02 08:52:07**
 
 ## Newspaper Stats
 
-*Scraped **16,524** Articles*
+*Scraped **16,526** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,70 @@ economynextcom | 909
 islandlk | 924
 adalk | 1,387
 tamilmirrorlk | 1,966
-adaderanalk | 1,985
+adaderanalk | 1,986
 virakesarilk | 2,356
 dailymirrorlk | 2,542
-adaderanasinhalalk | 2,674
+adaderanasinhalalk | 2,675
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,521 (100.0%) of 16,524 articles have been extended.
+16,524 (100.0%) of 16,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### මාළු අල්ලන්න ගිය 19 හැවිරිදි තරුණයා මරුට
+### නීතිපතිගෙන් ශ්‍රේෂ්ඨාධිකරණයට දැනුම්දීමක්
+
+*2024-04-02 08:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195196) · `si`
+
+පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය මඟින් අත්අඩංගුවට ගනු ලබන මත්ද්‍රව්‍ය තොග ජාවාරම් කිරීමේ සිද්ධිය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන ඇපමත මුදා හැර සිටින එම කාර්යාංශයට අනුයුක්තව සිටි පොලිස් නිලධාරීන් පිරිසකට එරෙහිව අධිචෝදනා ඉදිරිපත් කිරීම සඳහා කරුණු සලකා බලමින් සිටින බව නීතිපතිවරයා ඊයේ (01) ශ්‍රේෂ්ඨාධිකරණය හමුවේ ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/aa6c9749.json)
+
+---
+
+### Israel bombs Iran embassy in Syria, Iranian commanders among dead
+
+*2024-04-02 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98362/israel-bombs-iran-embassy-in-syria-iranian-commanders-among-dead) · `en`
+
+(Reuters) - Suspected Israeli warplanes bombed Iran’s embassy in Syria on Monday, a marked escalation in a war pitting Israel against its regional adversaries, and Tehran said the strike killed seven military advisers including three senior commanders.
+
+Reuters reporters at the site in the Mezzeh district of Damascus saw emergency workers clambering atop rubble of a destroyed building inside the diplomatic compound, adjacent to the main embassy building. Emergency vehicles were parked outside. An Iranian flag hung from a pole by the debris.
+
+The Syrian foreign minister and interior minister were both spotted at the scene. “We strongly condemn this atrocious terrorist attack that targeted the Iranian consulate building in Damascus and killed a number of innocents,” Syria’s Foreign Minister Faisal Mekdad said.
+
+...
+
+[Data](articles/d4be7fb2.json)
+
+---
+
+### 19 year old youth dies after fishing
 
 *2024-04-02 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195195) · `si`
 
-යාපනය පොලිස් වසමේ කොළොම්බුතුරෙයි ප්‍රදේශයේ මුහුදු වෙරළේ ධීවර කටයුතු සඳහා ගිය තරුණයෙක් දියේ ගිලී අතුරුදන්ව තිබේ.
+A 19-year-old from Periyalulara drowned while fishing near Jaffna. Navy divers found his body after a complaint to Jaffna Police.
 
-යාපනය පොලීසියට ලද පැමිණිල්ලක් මත විමර්ශන ආරම්භ කර නාවික හමුදා කිමිදුම්කරුවන් විසින් මෘත ශරීරය සොයාගෙන තිබිණි.
+🟩
 
-එලෙස දියේ ගිලී මියගොස් ඇත්තේ, 19 හැවිරිදි පෙරියකල්ලාරු ප්‍රදේශයේ පදිංචිකරුවෙකි.
+A young man drowned with a seashore to the beach in the Jaffna Police Division in Kohumbuwei area.
 
-තරුණයා මුහුදේ මාළු අල්ලමින් සිටිය දී මෙලෙස අනතුරට ලක්ව ඇති බව විමර්ශනයේ දී අනාවරණය වී තිබේ.
+The body was found by the Navy divers on a complaint lodged with the Jaffna Police.
+
+The deceased has been identified as a 19 year old resident of Periyalulara.
+
+The investigation revealed that the youth was fishing at the sea.
 
 ◼️
 
 [Data](articles/cb9ce65b.json)
+
+[Extended Data](ext_articles/cb9ce65b.ext.json)
 
 ---
 
@@ -66,23 +100,31 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/1e7b98ae.json)
 
+[Extended Data](ext_articles/1e7b98ae.ext.json)
+
 ---
 
-### සිරියාවේ ඉරාන කොන්සියුලර් කාර්යාලයට ප්‍රහාරයක්
+### Syrian Iranian Consular Office attack
 
 *2024-04-02 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195194) · `si`
 
-සිරියාවේ ඩැමස්කස් අගනුවර ඉරාන කොන්සියුලර් කාර්යාල ගොඩනැගිල්ලට ඊශ්‍රායල ප්‍රහාරයක් එල්ල කිරීමෙන් නිලධාරීන් 7දෙනෙකු මිය ගිය බව ඉරාන විප්ලවවාදී ආරක්ෂක බළකාය පවසයි.
+The Iranian Revolutionary Defense Force reports seven officials killed in the Syrian Iranian Consular Office attack in Damascus. Iran and Syria condemn the attack. The Israeli army refuses to comment on foreign media reports.
 
-ප්‍රහාරයෙන් ජ්‍යේෂ්ඨ අණදෙන නිලධාරියකු වූ බ්‍රිගේඩියර් ජනරාල් මොහොමඩ් රීසා සහේඩි සහ ඔහුගේ නියෝජ්‍ය නිලධාරි බ්‍රිගේඩියර් ජනරාල් මොහොමඩ් හාඩි හාජි-රහිමි මියගිය අය අතර වන බව වාර්තා වේ.
+🟩
 
-ඉරාන සහ සිරියාවේ රජයන් ඉරාන තානාපති කාර්යාලයට යාබඳ ගොඩනැගිල්ලට එල්ල කළ ප්‍රහාරය හෙළා දැක තිබේ.
+The Iranian Revolutionary Defense Force says that seven officials were killed by the Iranian Consulate building in the capital of Damascus capital in the capital of Damascus.
 
-ඊශ්‍රායල හමුදාව ප්‍රකාශ කළේ, විදෙස් මාධ්‍ය වාර්තා සම්බන්ධයෙන් තමන් අදහස් පළ නොකරන බවය.
+A senior commander of the attack reports
+
+The government of Iran and Syria condemns the attack on the Iranian embassy.
+
+The Israeli army stated that he does not comment on foreign media reports.
 
 ◼️
 
 [Data](articles/4c7e5851.json)
+
+[Extended Data](ext_articles/4c7e5851.ext.json)
 
 ---
 
@@ -2173,55 +2215,5 @@ The central bank paid its staff salary hikes of 70 percent or more after the lat
 [Data](articles/d37a8d6e.json)
 
 [Extended Data](ext_articles/d37a8d6e.ext.json)
-
----
-
-### Sri Lanka stocks close up, turnover at 4.1bn
-
-*2024-04-01 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-at-4-1bn-156828/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader All Share Index closed up 0.30 percent, or 34.62 points, at 11,479; while the S&P SL20 Index closed up 0.35 percent, or 11.66 points, at 3,329.
-
-Turnover was at 4.1 billion. 1.5 billion of this came from several large trades in Ambeon Capital Plc. The share closed up at 8.80.
-
-“There was also a lot of interest in the banks sector, due to XD dates. Bank shares started trading low, but saw a significant recovery later in the day,” market participants said.
-
-Sampath Bank Plc saw selling pressure, the share closed down at 77.90, and Commercial Bank of Ceylon Plc closed down at 94.50.
-
-Major contributors to the Index included banks Hatton National Bank Plc (up at 182.00), DFCC Bank Plc (up at 79.80), and National Development Bank Plc (up at 70.60).
-
-Large conglomerates Hayleys Plc (up at 85.10) and Melstacorp Plc (up at 89.00), also were among top positive contributors of the day. (Colombo/Apr1/2024)
-
-◼️
-
-[Data](articles/563dee7c.json)
-
-[Extended Data](ext_articles/563dee7c.ext.json)
-
----
-
-### Gaza Children's Donation from the Government of Sri Lanka to $ 1 million from the Government of Sri Lanka
-
-*2024-04-01 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180166) · `ta`
-
-The Government of Sri Lanka donated $1M to the Gaza Children's Fund, led by President Ranil Wickremesinghe, at a ceremony attended by officials including the Palestinian Ambassador. This follows a request by the President to fund Iftar events and provide relief to children in Gaza. Donations are open until April 30, with contributions accepted at the Ceylon Bank Tabrabane branch or via WhatsApp.
-
-🟩
-
-President Ranil Wickremesinghe at the Presidential Office headed by President Ranil Wickremesinghe on Monday morning at the Palestinian government's official agency agency by the United Nations official agency.
-
-The check for this was told by President Ranil Wickremesinghe, the Palestinian Ambassador to Sri Lanka, Dr. Suhaher Hamdallah Zaid (Dr.. Zuhair Hamdallah Zaid was officially handed over.
-
-External Affairs Minister Ali Sabri, President's Secretary Saman Ekanayake, Secretary to the Ministry of External Affairs Aruni Wijewardena and Palestinian embassy officials in Sri Lanka were present at the handing over of the check handed over to the Presidential Office today (01).
-
-A large number of donations have already been funded by the Gaza Children's Fund to provide relief to children affected by the clashes in the Gaza area on the idea of President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/7bc88800.json)
-
-[Extended Data](ext_articles/7bc88800.ext.json)
 
 ---

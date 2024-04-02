@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 12:51:00**
+As of **2024-04-02 13:03:18**
 
 ## Newspaper Stats
 
-*Scraped **16,580** Articles*
+*Scraped **16,582** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,72 @@ economynextcom | 912
 islandlk | 924
 adalk | 1,392
 tamilmirrorlk | 1,977
-adaderanalk | 1,992
+adaderanalk | 1,993
 virakesarilk | 2,366
 dailymirrorlk | 2,548
-adaderanasinhalalk | 2,686
+adaderanasinhalalk | 2,687
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,575 (100.0%) of 16,580 articles have been extended.
+16,580 (100.0%) of 16,582 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### වාහන ආනයනය ගැන ගත් අලුත්ම කැබිනට් තීරණය
+### පාසල් දැරියන්ට සනීපාරක්ෂක තුවා ලබාදීමේ වැඩසටහනට කැබිනට් අනුමැතිය
+
+*2024-04-02 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195209) · `si`
+
+පාසල් සිසුවියන් සඳහා සනීපාරක්ෂක තුවා ලබාදීමේ වැඩසටහන ක්‍රියාත්මක කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+ශ්‍රී ලංකාවේ සමස්ත ශිෂ්‍ය ජනගහනය මිලියන 04ක් පමණ වන අතර ඒ තුළ වැඩිවියට පත් ශිෂ්‍යාවන් මිලියන 1.2ක් පමණ වන බවට ගණනය කරනු ලැබ ඇත.
+
+එම ශිෂ්‍යාවන් අතුරින් අති දුෂ්කර පාසල්, දුෂ්කර පාසල්, හුදෙකලා පාසල්, වතු පාසල් හා දරිද්‍රතා සිසු සිසුවියන් සහිත නාගරික පාසල්වල ඉගෙනුම ලබන ශිෂ්‍යාවන් 800,000කට මෙම වසරේ අප්‍රේල් මස සිට ක්‍රියාත්මක වන පරිදි වාර්ෂිකව සනීපාරක්ෂක තුවා නොමිලේ ලබා දීමේ වැඩසටහනක් ක්‍රියාත්මක කිරීමට අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජය්න්ත් මහතා ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+◼️
+
+[Data](articles/cea1a19c.json)
+
+---
+
+### Latest cabinet decision taken about vehicle imports
 
 *2024-04-02 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195208) · `si`
 
-සංචාරක ව්‍යාපාරයේ අවශ්‍යතාවයන් සඳහා අවශ්‍ය වෑන් රථ සහ කුඩා ප්‍රමාණයේ බස් රථ ආනයනය සඳහා සංචාරක අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා ඉදිරිපත් කර ඇති යෝජනාවකට කැබිනට් අනුමැතිය හිමිවූ බව කැබිනට් ප්‍රකාශක අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පැවසීය.
+Cabinet approved proposal for tourism needs, including 750 buses: 650 and 250 16-30 seaters.
 
-ඒ අනුව විශේෂයෙන්ම සංචාරකයන් ප්‍රවාහනය කිරීම සඳහා භාවිත කිරීම පිණිස ආසන 6 - 15 වෑන් රථ 750ක් (විදුලි සහ දෙමුහුන් රථ ඇතුළුව)  සහ ආසන 16-30 කුඩා ප්‍රමාණයේ බස් රථ හා ආසන 30-45 බස් රථ 250ක් ආනයනය කිරීම ට අනුමැතිය ලැබුණි.
+🟩
+
+Cabinet, Minister of Cabinet, Bandula Gunawardena said that the cabinet was approved by the Cabinet for the proposal for the needs of tourism.
+
+Accordingly, 750 seats, especially 650 and 250 buses and 250 seats, especially 16-30 buses and 250 seats in 16-30 seats.
 
 ◼️
 
 [Data](articles/93b9cf22.json)
+
+[Extended Data](ext_articles/93b9cf22.ext.json)
+
+---
+
+### Govt. to provide free sanitary napkins to schoolgirls annually
+
+*2024-04-02 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98368/govt-to-provide-free-sanitary-napkins-to-schoolgirls-annually) · `en`
+
+The government has decided to provide free-of-charge sanitary napkins to schoolgirls starting this month.
+
+At its meeting on Monday (01), the Cabinet of Ministers green-lighted a proposal presented by Education Minister Susil Premajayantha to carry out the program annually.
+
+Thereby, as many as 800,000 schoolgirls from rural schools, remote schools, estate schools, and urban schools with poverty-stricken students, will thus be provided with sanitary napkins free of charge.
+
+According to the government, out of Sri Lankan’s student population, which amounts to approximately 4 million, a total of 1.2 million are menstruating schoolgirls.
+
+◼️
+
+[Data](articles/b36d6416.json)
 
 ---
 
@@ -116,35 +156,47 @@ The SLMCS, which was formed following the 2019 Easter attacks in Colombo that ki
 
 ---
 
-### ஊழியர்களின் பற்றாக்குறையினால் தபால் சேவையில் தாமதம்!
+### Delay in postal service due to shortage of employees!
 
 *2024-04-02 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/180209) · `ta`
 
-தபால் ஊழியர்களின் பற்றாக்குறையினால் நாட்டின்  சில பகுதிகளில் தபால் விநியோகம் தாமதமடைந்துள்ளதாக தபால்மா அதிபர் பி. சத்குமார தெரிவித்துள்ளார்.
+Postal service delayed in parts of the country due to employee shortage. New retirees blocked specific services.
 
-இதன் காரணமாக சில மாகாணங்களில் ஒரு நாள் தாமதமாக தபால் விநியோகம் மேற்கொள்ளப்பட்டுள்ளதாக  தெரிவித்துள்ளார்.
+🟩
 
-தபால் திணைக்களத்தின் ஊழியர்கள் ஓய்வு பெற்ற நிலையில் புதிய ஊழியர்களை உள்வாங்காமையினால்  குறிப்பிட்ட சேவைகளை  தடைப்பட்டுள்ளது என தெரிவித்துள்ளார்.
+Due to the shortage of postal staff, postal supplies have been delayed in some parts of the country. Said Satkumara.
+
+Due to this, some provinces have been delayed by postal distribution in some provinces.
+
+Employees of the Postal Department said that when the new employees were retired, specific services were blocked.
 
 ◼️
 
 [Data](articles/01d95793.json)
 
+[Extended Data](ext_articles/01d95793.ext.json)
+
 ---
 
-### பொலிஸாருக்கு  எதிராக குற்றப்பத்திரிகையை சமர்ப்பிக்க ஆதாரங்களை பரிசீலிப்பதாக சட்டமா அதிபர் உயர்  நீதிமன்றத்தில் தெரிவிப்பு!
+### Attorney -at -Law
 
 *2024-04-02 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180217) · `ta`
 
-போதைப்பொருள் கடத்தல் விவகாரம் தொடர்பில் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவினரால்  கைது செய்யப்பட்டு பிணையில் விடுவிக்கப்பட்ட  பணியகத்தின் பொலிஸ் உத்தியோகத்தர்கள் குழுவுக்கு எதிராக குற்றப்பத்திரிகையை முன்வைப்பதற்கான ஆதாரங்களை பரிசீலித்து வருவதாக சட்டமா அதிபர் உயர்  நீதிமன்றத்தில் தெரிவித்துள்ளார்.
+The Attorney General defends the Bureau of Police against charges, with the Supreme Court reviewing a petition by a former police officer, Udaranga Premasiri, accusing the Criminal Investigation Division of violating his rights.
 
-குற்றப் புலனாய்வுப் பிரிவினரால் எவ்வித நியாயமான காரணமும் இன்றி கைது செய்யப்பட்டு தடுத்து வைக்கப்பட்டதன் மூலம் தனது அடிப்படை மனித உரிமைகள் மீறப்பட்டுள்ளதாகத் தீர்ப்பளிக்கக் கோரி பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவின் முன்னாள் உப பொலிஸ் பரிசோதகர் உதர சதுரங்க பிரேமசிறி தாக்கல் செய்த அடிப்படை உரிமை மனு நேற்று (01) பரிசீலனைக்கு எடுத்துக் கொள்ளப்பட்டது. சட்டமா அதிபர் சார்பில் ஆஜரான சொலிசிட்டர் ஜெனரல் திலீப பீர்ஸ் இதனைக் குறிப்பிட்டார்.
+🟩
 
-பிரீதி பத்மன் சூரசேன, ஷிரான் குணரத்ன மற்றும் மஹிந்த சமயவர்தன ஆகிய மூவரடங்கிய உயர்  நீதிமன்ற நீதிபதிகள் குழாம் முன்னிலையில் இந்த மனு பரிசீலிக்கப்பட்டது.
+The Attorney General has told the Supreme Court that the Bureau of Police has been considering evidence to present the charge sheet against the Bureau of Bureau of Police, who was arrested and released on bail by the police drug abolition.
+
+The fundamental rights petition filed by the former Sub Inspector of the Police Drug Eradication Unit, Udaranga Premasiri, was taken to review yesterday (01) demanding that his basic human rights be violated by the Criminal Investigation Division for no legitimate reason.. Solicitor General Dileepa Beers, appearing on behalf of the Attorney General, said this.
+
+The petition was considered in the presence of a panel of High Court Judges - Prithi Padman Surasena, Shiran Gunaratne and Mahinda Samaratne.
 
 ◼️
 
 [Data](articles/fa3193fd.json)
+
+[Extended Data](ext_articles/fa3193fd.ext.json)
 
 ---
 
@@ -178,39 +230,53 @@ The Colombo Crimes Division has arrested a 32 year old resident of Battaramulla 
 
 ---
 
-### யாழ். இந்திய துணைத் தூதுவரும் யாழ்ப்பாண விமானப்படையின் கட்டளை தளபதியும் சந்திப்பு
+### Yall. Indian Ambassador and Commander of the Jaffna Air Force
 
 *2024-04-02 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180216) · `ta`
 
-யாழ்ப்பாண இந்திய துணைத் தூதுவர் சாய் முரளிக்கும், யாழ்ப்பாண விமானப்படையின் கட்டளை தளபதி  குரூப் கப்டன் சமிந்த ஹேரத் இடையிலான சந்திப்பு ஒன்று யாழ்ப்பாணம் மருதடி வீதியில் உள்ள யாழ்ப்பாண இந்திய துணைத்தூதரக அலுவலகத்தில் திங்கட்கிழமை (01) இடம்பெற்றது.
+A meeting between Jaffna Indian Ambassador Sai and Jaffna Air Force Commander Group Captain Saminda Herath was held to discuss the Jaffna Air Force's current conditions and potential mutual scholarships for the public.
 
-இதில் யாழ்ப்பாண விமானப்படையின் தற்போதைய நிலைமைகள் மற்றும் பொதுமக்களுக்கு செயலாற்றக்கூடிய வகையிலான உதவித்திட்டங்கள், பரஸ்பர உதவித்திட்டங்கள் பற்றி கலந்துரையாடப்பட்டன.
+🟩
 
-இந்நிகழ்வில் யாழ்ப்பாண இந்திய துணைத் தூதுவர் அதிகாரி ராம் மகேஸ் உள்ளிட்டவர்கள் கலந்துகொண்டனர்.
+A meeting between Jaffna Indian Ambassador Sai, Jaffna Air Force Commander Group Captain Saminda Herath was held on Monday (01) at the Jaffna Indian Embassy at Maruthi Road, Jaffna.
+
+This included discussions on the current conditions of the Jaffna Air Force and the mutual scholarships that could be implemented to the public.
+
+The event was attended by Jaffna Indian Ambassador Ram Mahesh.
 
 ◼️
 
 [Data](articles/f59d1ba4.json)
 
+[Extended Data](ext_articles/f59d1ba4.ext.json)
+
 ---
 
-### இலங்கைக்கான விமான சேவையை மீண்டும் ஆரம்பித்தது தாய் ஏர்வேஸ்
+### Mother Airways resumed flight to Sri Lanka
 
 *2024-04-02 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180214) · `ta`
 
-நான்கு வருடங்களின் பின் தாய்லாந்து விமான நிறுவனமான “தாய் ஏர்வேஸ்” இலங்கைக்கான விமான சேவையை ஆரம்பித்துள்ளது.
+Mother Airways resumed flights to Sri Lanka, marking the launch of Thai Airways' service. The airline's first flight, TG 307, landed at Katunayake airport at 11.55 pm on Monday, carrying about 150 foreign tourists from Bangkok. The minister of Ports, Shipping, and Aviation, Nimal Siripala de Silva, welcomed the arrival. The daily service is expected to boost tourism, with Katunayake airport already serving 800,000 flights in the last three months.
 
-இந்நிலையில், குறித்த நிறுவனத்தின் TG 307 என்ற விமானமானது நேற்று திங்கட்கிழமை (01) இரவு 11.55 மணிக்கு  கட்டுநாயக்க விமான நிலையத்தை  வந்தடைந்தது.
+🟩
 
-தாய்லாந்தின் பேங்கொக்கில் இருந்து புறப்பட்ட இந்த விமானத்தில் தாய்லாந்து பிரஜைகள் உட்பட சுமார் 150 வெளிநாட்டு சுற்றுலா பயணிகள் வருகை தந்தனர். தாய்லாந்துக்கும் இலங்கைக்கும் இடையிலான விமான சேவைகள் நாளாந்தம் இயங்கி வருவதாக கட்டுநாயக்க விமான நிலைய அதிகாரிகள் தெரிவித்துள்ளனர்.
+Four years later, Thailand's airline "Thai Airways" has launched Sri Lanka's airline.
 
-விமானத்தையும் அதன் பயணிகளையும் துறைமுகங்கள், கப்பல் போக்குவரத்து மற்றும் விமானப் போக்குவரத்து அமைச்சர் நிமல் சிறிபால டி சில்வா வரவேற்றார்.
+The company's TG 307 arrived at the Katunayake airport at 11.55 pm on Monday (01).
 
-2024 ஆம் ஆண்டில் இலங்கைக்கு வருகை தரும் சுற்றுலா பயணிகளின் எண்ணிக்கை அதிகரித்துள்ளது. கடந்த மூன்று மாதங்களில் மட்டும் சுமார் 800,000 விமானப் பயணிகள் கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச  விமானநிலைய சேவைகளைப் பெற்றுக்கொண்டுள்ளார்கள்.
+About 150 foreign tourists, including Thailand citizens, arrived on the flight from Bangkok, Thailand.. Katunayake airport officials said that the airlines between Thailand and Sri Lanka are operating daily.
 
-...
+Ports, Shipping and Aviation Minister Nimal Siripala de Silva welcomed the aircraft and its passengers.
+
+The number of tourists visiting Sri Lanka by 2024 has increased. In the last three months alone, about 800,000 flights have been obtained by Katunayake Bandaranaike International Airport services.
+
+The introduction of Thai Airways daily airline will further increase the arrival of tourists.He said that if air fares are reduced, Sri Lankan passengers can attract to Thailand and thereby improve bilateral tourism.
+
+◼️
 
 [Data](articles/6be66b20.json)
+
+[Extended Data](ext_articles/6be66b20.ext.json)
 
 ---
 
@@ -2143,51 +2209,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/20395578.json)
 
 [Extended Data](ext_articles/20395578.ext.json)
-
----
-
-### Sri Lanka’s Tamil parties plan to field presidential candidate from community
-
-*2024-04-01 22:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98359/sri-lankas-tamil-parties-plan-to-field-presidential-candidate-from-community) · `en`
-
-Sri Lanka’s Tamil political parties plan to field a candidate from the minority community for the presidential election who would present a credible and acceptable political solution for them, a senior community leader has said.
-
-Sri Lanka is set to hold the next presidential election in the last quarter of 2024. The next president would be elected by mid-November at the latest.
-
-Addressing reporters at his residence in the eastern district of Trincomalee on Sunday, senior Tamil leader R Sampanthan said that Tamils would be well served in the forthcoming presidential election by supporting a candidate who would pledge to resolve all issues concerning the Tamil minority through an acceptable political solution.
-
-...
-
-[Data](articles/3357cba3.json)
-
-[Extended Data](ext_articles/3357cba3.ext.json)
-
----
-
-### Punguduthivu student dies of murder
-
-*2024-04-01 22:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180191) · `ta`
-
-Poobalasingham Thakumar, a 37-year-old from Punguduthivu, died at Kandy National Hospital due to pneumonia. He was sentenced to death in the Punguduthivu student murder case in 2017, with seven others receiving the death penalty and 30 years imprisonment. The culprits appealed their verdict.
-
-🟩
-
-Punguduthivu student has died at the Kandy National Hospital.
-
-The deceased is Poobalasingham Thakumar (age 37) from Punguduthivu, Jaffna.
-
-The death penalty man was detained at the Kandy Bogambara prison on Sunday (31) due to illness.
-
-It is reported that the pneumonia is the cause of the death and the body is kept in the hospital.
-
-On September 27, 2017, the Tribunal sentenced seven people to death and 30 years rigorous imprisonment in the Punguduthivu student murder case.
-
-Subsequently, the culprits were detained at the Kandy Pokambara Prison. At the same time, the culprits have appealed against the verdict against them.
-
-◼️
-
-[Data](articles/17bd08db.json)
-
-[Extended Data](ext_articles/17bd08db.ext.json)
 
 ---

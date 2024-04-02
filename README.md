@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 22:18:37**
+As of **2024-04-02 22:34:00**
 
 ## Newspaper Stats
 
-*Scraped **16,703** Articles*
+*Scraped **16,707** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,98 @@ economynextcom | 912
 islandlk | 925
 adalk | 1,408
 tamilmirrorlk | 1,989
-adaderanalk | 2,007
+adaderanalk | 2,008
 virakesarilk | 2,402
-dailymirrorlk | 2,571
+dailymirrorlk | 2,574
 adaderanasinhalalk | 2,704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,702 (100.0%) of 16,703 articles have been extended.
+16,703 (100.0%) of 16,707 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### දමිතාගේ ඉල්ලීම අධිකරණය ප්‍රතික්ෂේප කරයි
+### Sri Lanka to import 1,000 vehicles to improve tourism sector transportation
+
+*2024-04-02 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98383/sri-lanka-to-import-1000-vehicles-to-improve-tourism-sector-transportation) · `en`
+
+The government has decided to import a total of 1,000 buses and vans to improve the transportation facilities provided to tourists.
+
+Accordingly, in a bid to boost the tourism sector, the Cabinet of Ministers granted approval to a proposal presented by the Minister of Tourism and Lands to import 750 vans and 250 buses.
+
+As per the proposal, 6-15 seater vans, as well as 16-30 seater (small) buses and 30-45 seater (large) buses are planned to be imported, without any special tax relief.
+
+The government says that, although it is considered a custom in the tourist industry that vehicles engaged in the industry for tourist transportation should not be used for more than 6 years, it is apparent that the condition of the vehicles used in the industry is not satisfactory and sufficient.
+
+In a statement, it added that the fame earned by Sri Lanka as a prominent tourist destination is tarnished due to the usage of age-old vehicles as a result of the limitation of vehicles and essential spare parts.
+
+...
+
+[Data](articles/ec2147a4.json)
+
+---
+
+### Sri Lanka tops best places for solo female travel in 2024
+
+*2024-04-02 22:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-tops-best-places-for-solo-female-travel-in-2024/108-280054) · `en`
+
+Sri Lanka has claimed the coveted title of the number one destination for solo female travelers in 2024, according to Timeout.com
+
+Solo female travel is on the rise, with a recent survey indicating that over half of Gen Z women are considering traveling abroad alone. With more women seeking adventure, cultural immersion, and memorable experiences, the question arises: where to go and what to know?
+
+Several countries are renowned for being safe and accommodating for solo female travelers, offering well-established backpacker routes, friendly locals, and opportunities for both social interaction and peaceful solitude. Among these destinations, Sri Lanka stands out as a top choice for solo female travelers in 2024.
+
+...
+
+[Data](articles/766c70dc.json)
+
+---
+
+### Court denies Damitha's request
 
 *2024-04-02 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195227) · `si`
 
-ජනප්‍රිය රංගන ශිල්පිනී දමිතා අබේරත්න සහ ඇයගේ සැමියා ආගමන හා විගමන පනත යටතේ අත්අඩංගුවට ගැනීම වළක්වාලන අතුරු තහනම් නියෝගයක් නිකුත් කිරීම ප්‍රතික්ෂේප කිරීමට අභියාචනාධිකරණය අද (02) තීන්දු කළේය.
+The Court of Appeal denied Damitha Abeyratne's request for foreign employment under the Immigration and Emigration Act, rejecting her appeal against a cheating money case.
 
-ඒ, විදේශ රැකියා ලබාදෙන බව පවසා මුදල් වංචා කිරීමේ සිද්ධියක් සම්බන්ධයෙනි.
+🟩
 
-දමිතා අබේරත්න සිය නීතිඥවරුන් මාර්ගයෙන් ඉදිරිපත් කළ රිට් පෙත්සමක් විභාගයට ගැනීමට අවසර දෙමින් සෝභිත රාජකරුණා සහ ධම්මික ගනේපොළ යන විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කර ඇත.
+The Court of Appeal today decided to reject the issuance of the popular performance Damitha Abeyratne and her husband under the Immigration and Emigration Act.
 
-ඉදිරිපත් වූ කරුණු සලකාබැලූ විනිසුරු මඩුල්ල පෙත්සම්කාරිය අත්අඩංගුවට ගැනීම වැළැක්වීමේ අතුරු තහනම් නියෝගයක් නිකුත් නොකිරීමට තීරණය කරමින් පෙත්සම විභාගයට ගැනීම සඳහා වග උත්තරකරුවන්ට නොතිසි නිකුත් කරන ලෙස නියෝග කර තිබේ.
+It is with regard to a case of cheating money that will be given foreign employment.
+
+Damitha Abeyratne has issued the order by a panel of judges to be heard by his lawyers to take a radical petition.
+
+The judges have been declared to hear the petitioners to hear the petition not issued by the arrest of the panel of judges.
 
 ◼️
 
 [Data](articles/a05f3962.json)
+
+[Extended Data](ext_articles/a05f3962.ext.json)
+
+---
+
+### Health strike called off
+
+*2024-04-02 21:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-strike-called-off/108-280053) · `en`
+
+Colombo, April 02- The ongoing trade union action initiated by health sector workers has been called off following constructive discussions held earlier today at the Presidential Secretariat.
+
+The decision to abort the indefinite strike comes after a meeting between representatives of the Health Trade Union Alliance and ministerial authorities yielded positive outcomes.
+
+Originally scheduled for Monday, the crucial discussion was deferred to today, leading to concerns of an impending indefinite strike by unions affiliated to the Health Trade Union Alliance.
+
+However, the meeting convened at the Presidential Secretariat earlier today concluded on a positive note, fostering agreement and understanding among the parties involved.
+
+The trade unions had previously announced plans for an indefinite strike starting tomorrow (03) in response to unresolved grievances.
+
+...
+
+[Data](articles/5fda830d.json)
 
 ---
 
@@ -1308,6 +1370,20 @@ From March 2021, the Central Bank had a mutual transaction with the RMP 10 billi
 
 ### Sri Lanka’s economy shows signs of stabilization, but poverty remains elevated
 
+*2024-04-02 16:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lankas-economy-shows-signs-of-stabilization-but-poverty-remains-elevated/155-280045) · `en`
+
+April 02 -  Sri Lanka’s economy is projected to see moderate growth of 2.2% in 2024, showing signs of stabilization, following the severe economic downturn of 2022 while the country still faces elevated poverty levels, income inequality, and labor market concerns, said the World Bank's latest bi-annual update.
+
+According to the Sri Lanka Development Update released today, Sri Lanka saw declining inflation, higher revenues on the back of the implementation of new fiscal policies, and a current account surplus for the first time in nearly five decades, buoyed by increased remittances and a rebound in tourism.
+
+...
+
+[Data](articles/397d7960.json)
+
+---
+
+### Sri Lanka’s economy shows signs of stabilization, but poverty remains elevated
+
 *2024-04-02 16:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-economy-shows-signs-of-stabilization-but-poverty-remains-elevated/108-280045) · `en`
 
 April 02 -  Sri Lanka’s economy is projected to see moderate growth of 2.2% in 2024, showing signs of stabilization, following the severe economic downturn of 2022 while the country still faces elevated poverty levels, income inequality, and labor market concerns, said the World Bank's latest bi-annual update.
@@ -2185,89 +2261,5 @@ Therefore. Before the rainy weather in the hill country, the necessary steps are
 [Data](articles/eb7b2f4b.json)
 
 [Extended Data](ext_articles/eb7b2f4b.ext.json)
-
----
-
-### Parliamentary affairs suddenly adjourn
-
-*2024-04-02 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195212) · `si`
-
-Parliamentary activities temporarily halted due to non-speaking MPs.
-
-🟩
-
-The proceedings of Parliament has temporarily postponed the activities of Parliament temporarily due to the non-speaking MPs.
-
-◼️
-
-[Data](articles/6752a2d3.json)
-
-[Extended Data](ext_articles/6752a2d3.ext.json)
-
----
-
-### Killing humanitarian workers in Gaza;Something that can never be accepted - Australia
-
-*2024-04-02 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/180233) · `ta`
-
-Australia condemns killing of humanitarian workers in Gaza, calling it unacceptable. PM Antony Albanis emphasizes the importance of their work and Australia's commitment to protecting those involved. The Israeli Ambassador is being held accountable.
-
-🟩
-
-The Australian Prime Minister has said that the killing of humanitarian employees of the world, including Australia, including Australia, is completely unacceptable.
-
-They were involved in the most important humanitarian work, he said.
-
-Australia has a firm policy that Antony Albanis has said that protection should be provided to those involved in humanitarian tasks and the public.
-
-The tragedy of the news is that we have asked the Israeli Ambassador to be held accountable for this issue, he said.
-
-◼️
-
-[Data](articles/9d32f7f3.json)
-
-[Extended Data](ext_articles/9d32f7f3.ext.json)
-
----
-
-### Gnanasara Thera declines bail
-
-*2024-04-02 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195211) · `si`
-
-Gnanasara Thera's bail request was denied by the Colombo High Court, with Judge Aduri Pandemi sentencing him to four years in prison.
-
-🟩
-
-The Colombo High Court rejected the request of Ven. Galagodaatte Gnanasara Thero was released on bail.
-
-The Colombo High Court Judge Aduri Pandemi gave Gnanasara Thera his sentence.
-
-His lawyers were produced in court, asking for the release of the four-year imprisonment of four years prison.
-
-◼️
-
-[Data](articles/cd1a8ea9.json)
-
-[Extended Data](ext_articles/cd1a8ea9.ext.json)
-
----
-
-### Parliamentary session suspended until 4.30pm
-
-*2024-04-02 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98369/parliamentary-session-suspended-until-430pm) · `en`
-
-Parliamentary proceedings have been postponed until 4.30 p.m. today (02) by Deputy Speaker Ajith Rajapakse.
-
-The decision was taken due to the absence of the parliamentarians from both government and opposition sides, who were scheduled to speak during today’s debate.
-
-Among the absentees from the opposition were Dr. Harsha de Silva, M. A. Sumanthiran, Vijitha Herath, Patali Champika Ranawaka, Niroshan Perera, S. M. Marikkar, Prof. Charitha Herath, Gamini Waleboda, Nalaka Godahewa, Thushara Indunil Amarasena, Velu Kumar, Udaya Kumara, Charles Nirmalanathan, Selvarajah Kajendren, and Weerasumana Weerasinghe.
-
-From the government’s side, Prof. Ranjith Bandara, Suren Raghavan, S. M. M. Muszhaaraff, Bandula Gunawardena, Vadivel Suresh and Shehan Semasinghe were absent in the Chamber.
-
-◼️
-
-[Data](articles/1c856ece.json)
-
-[Extended Data](ext_articles/1c856ece.ext.json)
 
 ---

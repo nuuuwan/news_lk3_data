@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 12:04:21**
+As of **2024-04-02 12:18:09**
 
 ## Newspaper Stats
 
-*Scraped **16,572** Articles*
+*Scraped **16,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 912
 islandlk | 924
 adalk | 1,392
 tamilmirrorlk | 1,977
-adaderanalk | 1,991
+adaderanalk | 1,992
 virakesarilk | 2,362
 dailymirrorlk | 2,548
 adaderanasinhalalk | 2,683
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,683
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,572 (100.0%) of 16,572 articles have been extended.
+16,572 (100.0%) of 16,573 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### Sri Lankan Muslims host interfaith iftar to ‘build bridges’ between communities
+
+*2024-04-02 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98367/sri-lankan-muslims-host-interfaith-iftar-to-build-bridges-between-communities) · `en`
+
+A Sri Lanka Muslim organization hosted an iftar in Colombo on Sunday for over 1,500 students from different religious backgrounds to promote interfaith understanding and dialogue.
+
+Muslims make up less than 10 percent of Sri Lanka’s 22 million people, who are predominantly Sinhalese Buddhists.
+
+The students and their parents gathered in the Sri Lankan capital for the event.
+
+“Sri Lanka being a multi-religious and multi-ethnic country, we want to share our thoughts and benefits of iftar,” Siddi Farook, chairman of the event’s co-organizer, the Sri Lanka Muslim Civil Society, told Arab News.
+
+The SLMCS, which was formed following the 2019 Easter attacks in Colombo that killed at least 250 people, has partnered with Soup Kitchen Sri Lanka for the Break Fast at Sunset events over the last three years. The aim is to promote a better understanding among the country’s diverse communities.
+
+...
+
+[Data](articles/e8885683.json)
+
+---
 
 ### Another underworld gang cell is box
 
@@ -2173,33 +2193,5 @@ Despite being treated at the hospital, he died without treatment.
 [Data](articles/86279658.json)
 
 [Extended Data](ext_articles/86279658.ext.json)
-
----
-
-### Work on Excise Officers trapped with kg suspended
-
-*2024-04-01 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195187) · `si`
-
-Kerala: Excise Officers arrested with 45kg cannabis. Ranjith Siyambalapitiya orders investigation. Minister of Finance promises legal action.
-
-🟩
-
-Steps have been taken to ban the work of the Excise Officers arrested by police with Kerala cannabis.
-
-The Minister of State Ranjith Siyambalapitiya has issued a statement.
-
-The State Minister further stated that the relevant authorities have ordered the authorities to conduct a special investigation into the matter.
-
-The Minister of Finance said that steps will be taken to implement the lawlessly against all the officials involved in the incident.
-
-Four of Excise Officers and eight suspects were arrested by the Police Narcotics Bureau with a stock of Kerala cannabis.
-
-The number of Kerala cannabis is nearly 45 kilograms.
-
-◼️
-
-[Data](articles/7ef92b3b.json)
-
-[Extended Data](ext_articles/7ef92b3b.ext.json)
 
 ---

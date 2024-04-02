@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 15:52:03**
+As of **2024-04-02 16:03:31**
 
 ## Newspaper Stats
 
-*Scraped **16,623** Articles*
+*Scraped **16,626** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 149
-bbccomsinhala | 175
+bbccomsinhala | 176
 dbsjeyarajcom | 202
 newsfirstlk | 363
 dailyftlk | 895
@@ -17,20 +17,54 @@ economynextcom | 912
 islandlk | 924
 adalk | 1,397
 tamilmirrorlk | 1,982
-adaderanalk | 1,997
+adaderanalk | 1,998
 virakesarilk | 2,374
-dailymirrorlk | 2,561
+dailymirrorlk | 2,562
 adaderanasinhalalk | 2,692
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,622 (100.0%) of 16,623 articles have been extended.
+16,623 (100.0%) of 16,626 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### Sri Lanka’s economy shows signs of stabilization, but poverty to remain elevated – World Bank
+
+*2024-04-02 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98373/sri-lankas-economy-shows-signs-of-stabilization-but-poverty-to-remain-elevated-world-bank) · `en`
+
+Sri Lanka’s economy is projected to see moderate growth of 2.2% in 2024, showing signs of stabilization, following the severe economic downturn of 2022. But, the country still faces elevated poverty levels, income inequality, and labor market concerns, says the World Bank’s latest bi-annual update.
+
+Released today, the Sri Lanka Development Update, Bridge to Recovery, highlights that Sri Lanka saw declining inflation, higher revenues on the back of the implementation of new fiscal policies, and a current account surplus for the first time in nearly five decades, buoyed by increased remittances and a rebound in tourism.
+
+However, poverty rates continued to rise for the fourth year in a row, with an estimated 25.9% of Sri Lankans living below the poverty line in 2023. Labor force participation has also seen a decline, particularly among women and in urban areas, exacerbated by the closure of micro, small, and medium-sized enterprises (MSMEs).
+
+...
+
+[Data](articles/e148e07c.json)
+
+---
+
+### 1,000 vehicles to be imported to accelerate tourism industry development
+
+*2024-04-02 15:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/1-000-vehicles-to-be-imported-to-accelerate-tourism-industry-development/108-280044) · `en`
+
+Colombo, April 2 (Daily Mirror) - Cabinet approval has been granted to import 1,000 vehicles only for the tourism industry to transport tourists, Cabinet spokesman and Minister Bandula Gunawardana said.
+
+Addressing the weekly media briefing to inform Cabinet decisions, he said this was after taking into consideration that vehicles in the tourism sector engaged in transporting tourists cannot be used for more than six years.
+
+It is apparent that the condition of the vehicles used in the tourism industry is not satisfactory and sufficient, and the fame earned by Sri Lanka as a prominent tourist destination is tarnished due to the use of old vehicles as a result of the limitations of vehicles and essential spare parts, the Minister said.
+
+"Therefore, the requirement of importing vehicles essential for enhancing the industry has been recognized considering the contribution to the tourist industry within the economic revival process of Sri Lanka.
+
+...
+
+[Data](articles/72e0dddb.json)
+
+---
 
 ### Close all liquor, meat shops on May 22, 23 and 24
 
@@ -131,6 +165,8 @@ Accordingly, the report has recommended that the Ehelepola Walawwa be transferre
 ...
 
 [Data](articles/6c37c6b9.json)
+
+[Extended Data](ext_articles/6c37c6b9.ext.json)
 
 ---
 
@@ -1784,6 +1820,24 @@ There is a different news about the 2019 bombing of many people. Pillaiyan is th
 
 ---
 
+### පාසල් යන ඔබේ දරුවාත් මතට ලොල් වෙලා ද?
+
+*2024-04-02 09:36:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2lwwd8n80wo) · `si`
+
+“තූල් දැම්මා, පෙති ජාති ගැහුවා, KG, ගංජා වර්ග ඔක්කෝම ගහලා තියෙනවා. සිගරට් බීලා තියෙනවා.” ඒ කසුන් මීට වසරකට පමණ පෙර භාවිතය නවතා දැමීමට පෙර ඇබ්බැහි වී සිටි මත්ද්‍රව්‍ය කිහිපයකි. උසස් පෙළ ප්‍රතිඵල අපේක්ෂාවෙන් සිටින ඔහු මත්ද්‍රව්‍යවලට ඇබ්බැහි වී ඇත්තේ පාසලේ 6 -7 වසරවල සිට ය.
+
+පසුගිය වසරේ දෙසැම්බර් සිට විෂ මත්ද්‍රව්‍ය තුරන් කිරිමේ අරමුණින් ආරම්භ කළ යුක්තිය මෙහෙයුමෙන් පසු ඒ පිළිබඳව සමාජයේ කතා බහක් ඇති වු අතර පාසල් දරුවන් මතට යොමු වීම සම්බන්ධ සිද්ධි ද වාර්තා වී තිබුණි.
+
+කසුන් ද මත්ද්‍රව්‍ය ජාවාරම්කරුවන්ගේ ගොදුරක් වී තිබු අතර මේ වන විට ඔහු ඉන් සම්පුර්ණයෙන් මිදි ඇති අතර මත්ද්‍රව්‍ය භාවිතයට යොමු වූ ආකාරය හා ඉන් ගැලවී ගෙවන ජීවිතය ගැන අත්දැකිම් බෙදා හදා ගැනීමට බීබීසී සිංහල හා කතා බහකට එක්වුයේ ඔහුගේ අනන්‍යතාවය හෙළි නොකරන ලෙස ඉල්ලමින්ය.
+
+කසුන් මෙන්ම මෙම ලිපියට තොරතුරු ලබා දුන් බොහෝ දෙනෙකුගේ අනන්‍යතාවය මෙන්ම පාසල්වල සත්‍ය නම් ගම් අප හෙළි නොකරන්නේ එම පාසල්වල කීර්ති නාමය ආරක්ෂා කිරිමට මෙන්ම තොරතුරු ලබා දුන් අයගේ ආරක්ෂාව වෙනුවෙනි.
+
+...
+
+[Data](articles/8e5a9c1c.json)
+
+---
+
 ### Muslim officials continue to be ignored for the post of Secretary in the Eastern Province - Imran Mahroof
 
 *2024-04-02 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180203) · `ta`
@@ -2177,65 +2231,5 @@ Meanwhile, the Committee on Government Finance and the Committee on Public Accou
 [Data](articles/214d0e5d.json)
 
 [Extended Data](ext_articles/214d0e5d.ext.json)
-
----
-
-### University student collins
-
-*2024-04-02 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195191) · `si`
-
-A 24-year-old university student from Wadduwa, near Peradeniya, was hit by a train yesterday near Kalpalama.
-
-🟩
-
-A student of the final year of the Faculty of Faculty of Faculty of the Peradeniya University has been hit by a train.
-
-The accident had occurred yesterday (01) at the Peradeniya Police Division was at the railway line near Kalpalama.
-
-The student has clashed with a train traveling from Kandy to Nawalapitiya.
-
-The deceased has been identified as a 24 year old university student from Wadduwa, Thalpitiya North, Wadduwa.
-
-◼️
-
-[Data](articles/117e65bc.json)
-
-[Extended Data](ext_articles/117e65bc.ext.json)
-
----
-
-### Sri Lanka unaware of ship carrying toxic wastes from the US
-
-*2024-04-02 06:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-unaware-of-ship-carrying-toxic-wastes-from-the-US/155-280010) · `en`
-
-Colombo, April 2 (Daily Mirror) - Sri Lanka is not yet aware of the nature of hazardous materials in the Singapore cargo ship Dali chartered by Maersk, which crashed into the Baltimore, US bridge on March 26, carrying 764 tons of hazardous materials as reported by the US media, an official said.
-
-According to information available, there are 57 containers with such toxic materials that can be categorized under the International Maritime Dangerous Goods Code.
-
-The waste included mostly corrosives, flammables, miscellaneous hazardous materials, and Class-9 hazardous materials, including explosives & lithium-ion batteries – in 56 containers. So says the US National Transportation Safety Board, still ‘analyzing the ship’s manifest to determine what was onboard’ in its other 4,644 containers.
-
-...
-
-[Data](articles/ab80ec44.json)
-
-[Extended Data](ext_articles/ab80ec44.ext.json)
-
----
-
-### Sri Lanka unaware of ship carrying toxic wastes from the US
-
-*2024-04-02 06:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-unaware-of-ship-carrying-toxic-wastes-from-the-US/108-280010) · `en`
-
-Colombo, April 2 (Daily Mirror) - Sri Lanka is not yet aware of the nature of hazardous materials in the Singapore cargo ship Dali chartered by Maersk, which crashed into the Baltimore, US bridge on March 26, carrying 764 tons of hazardous materials as reported by the US media, an official said.
-
-According to information available, there are 57 containers with such toxic materials that can be categorized under the International Maritime Dangerous Goods Code.
-
-The waste included mostly corrosives, flammables, miscellaneous hazardous materials, and Class-9 hazardous materials, including explosives & lithium-ion batteries – in 56 containers. So says the US National Transportation Safety Board, still ‘analyzing the ship’s manifest to determine what was onboard’ in its other 4,644 containers.
-
-...
-
-[Data](articles/edd67ff2.json)
-
-[Extended Data](ext_articles/edd67ff2.ext.json)
 
 ---

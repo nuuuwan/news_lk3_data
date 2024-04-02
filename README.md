@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 13:33:39**
+As of **2024-04-02 13:52:38**
 
 ## Newspaper Stats
 
-*Scraped **16,595** Articles*
+*Scraped **16,598** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 148
+colombotelegraphcom | 149
 bbccomsinhala | 175
 dbsjeyarajcom | 202
 newsfirstlk | 363
@@ -20,51 +20,95 @@ tamilmirrorlk | 1,981
 adaderanalk | 1,994
 virakesarilk | 2,368
 dailymirrorlk | 2,551
-adaderanasinhalalk | 2,688
+adaderanasinhalalk | 2,690
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,590 (100.0%) of 16,595 articles have been extended.
+16,595 (100.0%) of 16,598 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### ෆින්ලන්තයේ පාසලක වෙඩිතැබීමක්
+### පාර්ලිමේන්තු කටයුතු හදිසියේ කල් තැබේ
+
+*2024-04-02 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195212) · `si`
+
+කථා කිරීමට නියමිතව සිටි මන්ත්‍රීවරුන් සභාගර්භය තුළ නොසිටීම හේතුවෙන් පාර්ලිමේන්තුවේ කටයුතු තාවකාලිකව සවස 4 දක්වා කල්තබා තිබේ.
+
+◼️
+
+[Data](articles/6752a2d3.json)
+
+---
+
+### ඥානසාර හිමිගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කෙරේ
+
+*2024-04-02 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195211) · `si`
+
+බරපතළ වැඩසහිත වසර හතරක සිරදඬුවම් නියම වී සිටින පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන් ඇප මත මුදාහරින ලෙස කර තිබූ ඉල්ලීම කොළඹ මහාධිකරණය විසින් ප්‍රතික්ෂේප කළේය.
+
+ඥානසාර හිමියන්ට සිරදඬුවම් නියම කළ කොළඹ මහාධිකරණ විනිසුරු ආදිත්‍ය පටබැඳිගේ මහතාම විසින් මෙම තීන්දුව ලබා දුන්නේය.
+
+දැනට නියම කර තිබෙන වසර හතරක සිරදඬුවමට එරෙහිව අභියාචනයක් ඉදිරිපත් කර ඇති නිසා විත්තිකාර ඥානසාර හිමියන් ඇපමත මුදාහරින ලෙස ඉල්ලමින් ඔහුගේ නීතිඥවරු විසින් මෙම ඇප ඉල්ලීම අධිකරණයට ඉදිරිපත් කර තිබිණි.
+
+◼️
+
+[Data](articles/cd1a8ea9.json)
+
+---
+
+### A shot of a school in Finland
 
 *2024-04-02 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195210) · `si`
 
-ෆින්ලන්තයේ, වැන්ටා නගරයේ පාසලක සිදුවූ වෙඩි තැබීමකින් පුද්ගලයන් කිහිපදෙනෙකු තුවාල ලබා තිබේ.
+A school shooting in Vanta, Finland, injured several people this morning. The suspect was arrested. 800 students and 90 staff were present.
 
-එරට වෙලාවෙන් අද (02) උදෑසන එම වෙඩි තැබීම සිදුකර ඇති බව විදසේ මාධ්‍ය වාර්තා කරයි.
+🟩
 
-වෙඩි තැබීම සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගත් බව එරට පොලීසිය සඳහන් කරයි.
+Several people were injured in a school shooting at Vanta, Finland.
 
-විදෙස් මාධ්‍ය වාර්තාවලට අනුව එම පාසලේ සිසුන් 800ක් සහ කාර්ය මණ්ඩලයේ 90ක් පමණ දෙනා සිට ඇත.
+According to the media, the shooting has been carried out this morning.
+
+The suspect was arrested over the shooting, police said.
+
+According to foreign media reports, 800 students and 90 staff have been in the school.
 
 ◼️
 
 [Data](articles/e6d7e74c.json)
 
+[Extended Data](ext_articles/e6d7e74c.ext.json)
+
 ---
 
-### காதை கிழித்த சு.க உறுப்பினர் கைது
+### Arrest
 
 *2024-04-02 13:17:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காதை-கிழித்த-சு-க-உறுப்பினர்-கைது/76-335509) · `ta`
 
-ஒரேயொரு அறையில் காதொன்றில் மூன்று தையல்கள் போடுமளவுக்கு அறைந்தார் என்றக் குற்றச்சாட்டில் கண்டி மாநகர சபையின் ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் முன்னாள் உறுப்பினர் கைது செய்யப்பட்டுள்ளார்.
+A former SLFP member of the Kandy Municipal Council was arrested for assaulting a council employee, causing severe injuries. The incident involved a dispute over garbage disposal, leading to protests by Kandy-Sudhambola employees. The police are investigating further.
 
-கண்டி மாநகர சபையின் திண்மக்கழிவு முகாமைத்துவ திணைக்கள ஊழியர் ஒருவரை தாக்கியதாக கூறப்படும் குற்றச்சாட்டின் கீழ் அவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-தாக்குதலின் போது நகர சபை ஊழியருக்கு காது பகுதியில் பலத்த காயங்கள் ஏற்பட்டதாகவும், அந்த காயங்கள் காரணமாக அவரது காது பகுதியில் மூன்று தையல்கள் போடப்பட்டதாகவும் மருத்துவமனை வட்டாரங்கள் தெரிவிக்கின்றன.
+A former member of the Sri Lanka Freedom Party (SLFP) of the Kandy Municipal Council has been arrested on charges of slapping three stitches in one room.
 
-குப்பைகளை வகைப்படுத்தாமல், குப்பைப் பையை வாகனம் மூலம் கொண்டு வந்துள்ளனர். அதற்கு எதிர்ப்புத் தெரிவித்த ஊழியர்கள், குப்பையை முறையாக கொண்டு வருமாறு கூறி,  குப்பை பொறுப்​பெடுக்காது, காரிலேயே ஏற்றிவிட்டுள்ளனர். அத்துடன், வாகனத்தை இலக்கத்தை படம் எடுக்க முயன்றுள்ளனர். இதன்போதே,      கண்டி மாநகர சபையின் முன்னாள் உறுப்பினர் இந்திக்க தென்னகோன் கைது செய்யப்பட்டுள்ளார்.
+He has been arrested by the police on charges of assaulting an employee of the Kandy Municipal Council.
+
+Hospital sources said that the city council employee suffered severe injuries during the attack and three stitches were put in his ear due to the injuries.
+
+Have been brought in by vehicle without classification of garbage. The employees, who opposed it, have been unloaded in the car, demanding that the trash be properly carried out.. As well as the vehicle has tried to film the number. Meanwhile, Indika Tennakoon has been arrested by a former member of the Kandy Municipal Council.
+
+Kandy-Sudhambola employees of the Department of Disaster Management have left work on Tuesday (02) in protest of the attack.
+
+Kandy Municipal Commissioner Ishaan Wijeedilaka said that proper removal of garbage has become a major problem.
 
 ...
 
 [Data](articles/0fcad85f.json)
+
+[Extended Data](ext_articles/0fcad85f.ext.json)
 
 ---
 
@@ -80,35 +124,49 @@ The Banking (Amendment) Bill and regulations under the Colombo Port City Economi
 
 [Data](articles/6a4a7d87.json)
 
+[Extended Data](ext_articles/6a4a7d87.ext.json)
+
 ---
 
-### இலஞ்ச ஊழல் ஒ​ழிப்பு ஆணைக்குழுவுக்கு புதிய பணிப்பாளர்
+### New Director of Bribery Commission
 
 *2024-04-02 13:13:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்ச-ஊழல்-ஒ-ழிப்பு-ஆணைக்குழுவுக்கு-புதிய-பணிப்பாளர்/175-335508) · `ta`
 
-இலஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரணை செய்யும் ஆணைக்குழுவின் பணிப்பாளர் நாயகமாக டபிள்யூ.கே.டி.விஜேரத்னவை ஜனாதிபதி ரணில் விக்கிரமசிங்க நியமித்துள்ளதாக ஜனாதிபதியின் ஊடகப் பிரிவு (PMD) தெரிவித்துள்ளது.
+President Ranil Wickremesinghe appoints WKD Wiramasinghe as Director General of the Bribery Commission, following the new Corruption Act rules.
 
-புதிய ஊழல் தடுப்புச் சட்டத்தின் விதிமுறைகளுக்கு அமைய ஜனாதிபதி இந்த நியமனத்தை வழங்கியுள்ளார்.
+🟩
+
+President Ranil Wickremesinghe has appointed WKD Wiramasinghe as the Director General of the Commission to Investigate Bribery or Corruption.
+
+The President has made this appointment in accordance with the rules of the new Corruption Act.
 
 ◼️
 
 [Data](articles/7d95cccb.json)
 
+[Extended Data](ext_articles/7d95cccb.ext.json)
+
 ---
 
-### வாகன இறக்குமதி தொடர்பில் புதிய தீர்மானம்
+### New Resolution on Vehicle Import
 
 *2024-04-02 13:09:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-தொடர்பில்-புதிய-தீர்மானம்/175-335507) · `ta`
 
-சுற்றுலாத்துறையின் தேவைக்காக வான் மற்றும் சிறிய பஸ்களை இறக்குமதி செய்வதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Cabinet approved importing air and small buses for tourism, without tax concessions.
 
-சுற்றுலாத்துறை அமைச்சர் ஹரின் பெர்னாண்டோவினால் முன்வைக்கப்பட்ட யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியதாக அமைச்சரவை பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+🟩
 
-எனினும், அந்த வாகனங்களின் இறக்குமதிக்கு சிறப்பு வரிச் சலுகைகள் எதுவும் இல்லை என அவர் கூறியுள்ளார்.
+The Cabinet has approved the importation of air and small buses for the needs of the tourism industry.
+
+Cabinet spokesman Minister Bandula Gunawardena said that the Cabinet had approved the proposal put forward by Tourism Minister Harin Fernando.
+
+However, there are no special tax concessions for the importation of the vehicles, he said.
 
 ◼️
 
 [Data](articles/b09c93cb.json)
+
+[Extended Data](ext_articles/b09c93cb.ext.json)
 
 ---
 
@@ -1692,6 +1750,16 @@ Iran has reported that Brigadier General Mohammed Rasa Jakedy has been killed in
 
 ---
 
+### Sinhala Buddhist Nationalism & Women In Sri Lanka
+
+*2024-04-02 06:23:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sinhala-buddhist-nationalism-women-in-sri-lanka/) · `en`
+
+...
+
+[Data](articles/c191ff2d.json)
+
+---
+
 ### Showers over 75mm
 
 *2024-04-02 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195189) · `si`
@@ -2175,69 +2243,5 @@ However, with the economic conditions slightly improving, over one million house
 [Data](articles/1c920500.json)
 
 [Extended Data](ext_articles/1c920500.ext.json)
-
----
-
-### Corpse recovery with the hand and legs tied
-
-*2024-04-02 00:58:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கை-கால்கள்-கட்டப்பட்ட-நிலையில்-சடலம்-மீட்பு/175-335485) · `ta`
-
-A 39-year-old father from Muttur-Bahria city was found dead with his hands and legs tied, and a sandbag in his stomach.
-
-🟩
-
-A 39 -year -old father of 2 children from Muttur - Bahria city has been found dead.
-
-The body of the body and legs was tied with a rope and a sandbag was tied in the stomach, police said.
-
-◼️
-
-[Data](articles/d56588e1.json)
-
-[Extended Data](ext_articles/d56588e1.ext.json)
-
----
-
-### Developing sustainable business: Power of people-centric management
-
-*2024-04-02 00:38:49* · [`dailyftlk`](https://www.ft.lk/columns/Developing-sustainable-business-Power-of-people-centric-management/4-760194) · `en`
-
-As businesses navigate complex challenges and pursue growth opportunities in a turbulent environment, it is imperative to recognise that the true engine driving success lies in effectively harnessing and optimising human resources. It is people who drive all other resources, thus becoming the central force. Gone are the days when success was solely measured by financial metrics or technological competence. While money, machinery, and markets undoubtedly play crucial roles, they are merely tools in the hands of people. The real value lies in the talent, creativity, and dedication of individuals who comprise the workforce
-
-...
-
-[Data](articles/4e3fe37a.json)
-
-[Extended Data](ext_articles/4e3fe37a.ext.json)
-
----
-
-### Mumbai's failure continues to taste Rajasthan 3rd direct victory
-
-*2024-04-02 00:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/180192) · `ta`
-
-Rajasthan Royals won their 3rd direct victory in the 17th IPL chapter, defeating Mumbai Indians by 6 wickets. Yusvendra Sahal and Trent Bolt's bowling, along with Ryan Barak's 50, led to a lighter victory. Mumbai Indians, having lost all three matches in this chapter five times, scored 125 runs in 20 overs.
-
-🟩
-
-Rajasthan Royals won by 6 wickets in the 14th match of the 17th Indian Premier League chapter held on Monday (01) at the Vankade Playing in Mumbai.
-
-The accurate bowling of Yuswendra Sahal and Trent Bolt, the excellent field of players, and the unbearable half -century of Ryan Barak have made a lighter victory for Rajasthan Royals.
-
-The competition, the 250th IPL for the Mumbai Indians, was disappointing.
-
-Mumbai Indians have lost all three matches in the 17th IPL chapter five times and the team is the only team that has not won so much.
-
-Rajasthan Royals lost 4 wickets in 15.3 overs, scoring 127 runs in response to the goal of the 126 -run victory for the Mumbai Indians.
-
-Yaswvi Jaiswal, who scored 10 runs off 5 balls in the first over of the first over of the 17 -year -old young fast bowler, Kwana Mafaka, lost the last ball.
-
-Jose Butler and team captain Sanju Semsan tried to retrieve the team, but their attempt was not handed over.
-
-...
-
-[Data](articles/c134d0a2.json)
-
-[Extended Data](ext_articles/c134d0a2.ext.json)
 
 ---

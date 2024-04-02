@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 20:33:39**
+As of **2024-04-02 20:51:33**
 
 ## Newspaper Stats
 
-*Scraped **16,689** Articles*
+*Scraped **16,692** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,81 @@ islandlk | 925
 adalk | 1,406
 tamilmirrorlk | 1,989
 adaderanalk | 2,004
-virakesarilk | 2,400
-dailymirrorlk | 2,568
-adaderanasinhalalk | 2,700
+virakesarilk | 2,401
+dailymirrorlk | 2,569
+adaderanasinhalalk | 2,701
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,685 (100.0%) of 16,689 articles have been extended.
+16,689 (100.0%) of 16,692 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### මත්පැන් බලපත්‍රවලට අදාළව අතුරු තහනමක්
+
+*2024-04-02 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195224) · `si`
+
+සුරාබදු පනතේ විධිවිධානයන්ට පටහැනි ආකාරයෙන් මත්පැන් බලපත්‍ර නිකුත් කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය විසින් අද (02)  අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+
+ශ්‍රී ලංකා මත්පැන් බලපත්‍රහිමියන්ගේ සංගමය ඇතුළු පාර්ශ්ව කිහිපයක් විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් 03ක් සලකාබැලීමෙන් අනතුරුව ශ්‍රේෂ්ඨාධිකරණය විසින් මැයි මස 10 වනදා තෙක් බලපැවැත්වෙන පරිදි මෙම අතුරු තහනම් නියෝගය නිකුත් කර තිබේ.
+
+පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ සංජීව ජයවර්ධන මහතා ඇතුළු සෙසු නීතිඥවරුන් අධිකරණය හමුවේ කරුණු දක්වමින් වර්තමානයේ අවිධිමත් ආකාරයට නීතියට පටහැනි ලෙස මත්පැන් හල් බලපත්‍ර නිකුත් කිරීම සිදුවන බවට චෝදනා කළේය.
+
+ඇතැම් බලපත්‍ර නිකුත් කිරීමේදී සුරා බදු රෙගුලාසිවල සඳහන් මූලික අවශ්‍යතා පවා උල්ලංඝනය කර තිබෙන බවත් ජනාධිපති නීතිඥ ජයවර්ධන මහතා පෙන්වා දුනි.
+
+ඒ අනුව සුරාබදු පනතේ හා රෙගුලාසිවල සඳහන් ප්‍රතිපාදන අබිබවා ගොස් මත්පැන්  බලපත්‍ර නිකුත් කිරීම තහනම් කිරීමේ නියෝගයක් නිකුත් කරන ලෙසද ජනාධිපති නීතිඥවරයා ඇතුළු සෙසු නීතිඥවරුන් අධිකරණයෙන් ඉල්ලා තිබුණි.
+
+...
+
+[Data](articles/f30a4b70.json)
+
+---
+
+### Building expressways is a myth till debt restructuring process completed: Bandula
+
+*2024-04-02 20:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Building-expressways-is-a-myth-till-debt-restructuring-process-completed-Bandula/108-280050) · `en`
+
+Colombo, April 02 (Daily Mirror) - Cabinet spokesman and Minister Bandula Gunawardana said today that completing the expressway structure of the country has become a myth till the debt restructuring process is finalized.
+
+"Even I hope of completing the expressway system in the country as soon as possible. But we are unable to get loans until the debt restructuring process is finalized," he said.
+
+"We can only think of completing expressways after the debt restructuring process of the Road Development Authority (RDA) is completed," he further said.
+
+Moreover, he said there is no truth in handing over the daily operations and management of highways to a private company.
+
+The Ministry had approved the transfer of daily operations and management of expressways from the Road Development Authority (RDA) to a state-owned company called Sahasya Investments (SIL).
+
+SIL is a 100 percent state-owned company under the Treasury and the RDA.
+
+...
+
+[Data](articles/079adbc3.json)
+
+---
+
+### திருச்சி சிறப்பு முகாமில் இருந்து விடுதலை: தாயகம் திரும்பும் முருகன், பாயஸ், ஜெயக்குமார்
+
+*2024-04-02 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180279) · `ta`
+
+ராஜீவ் காந்தி கொலைக் குற்றச்சாட்டில் திருச்சி சிறப்பு முகாமில் தடுத்து வைக்கப்பட்டுள்ள முருகன், ரொபட் பாயஸ் மற்றும் ஜெயக்குமார் ஆகியோர் நாட்டுக்கு அழைத்து வரப்படவுள்ளனர்.
+
+நாளை காலை 11.30 மணிக்கு கட்டுநாயக்க விமான நிலையத்துக்கு இவ் மூவரும் வந்தடைவார்கள் என தெரிவிக்கப்பட்டுள்ளது.
+
+ராஜீவ் காந்தி கொலை வழக்கில் 33 ஆண்டுகள் வரையில் சிறையில் இருந்த குறித்த அனைவரும் 2022 ஆம் ஆண்டு விடுதலை செய்யப்பட்ட நிலையில், திருச்சி சிறப்பு முகாமில் தடுத்துவைக்கப்பட்டனர்.
+
+இதில் சாந்தன் நோய்வாய்ப்பட்ட நிலையில், கடந்த மாதம் உயிரிழந்தார். இதனையடுத்து அவரது உடல் யாழ்ப்பாணத்தில் நல்லடக்கம் செய்யப்பட்டது.
+
+இந்நிலையில், ஏனைய மூவரையும் விரைவில் இலங்கைக்கு அனுப்ப வேண்டும் என்ற கோரிக்கை வலுப்பெற்ற நிலையில்,
+
+◼️
+
+[Data](articles/91102bc1.json)
+
+---
 
 ### At least 29 killed in Istanbul nightclub fire
 
@@ -56,33 +118,49 @@ The number of victims has rapidly increased throughout the afternoon, with the g
 
 [Data](articles/c7640bc5.json)
 
+[Extended Data](ext_articles/c7640bc5.ext.json)
+
 ---
 
 ### Supreme Court issues interim injunction on Excise Dept.
 
 *2024-04-02 20:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98380/supreme-court-issues-interim-injunction-on-excise-dept) · `en`
 
-The Supreme Court on Tuesday (02) issued an interim injunction, preventing the Excise Department from issuing liquor licenses in violation of the provisions of the Excise Act of Sri Lanka.
+Supreme Court on Tuesday (02) issued an interim injunction preventing the Excise Department from issuing liquor licenses in violation of the provisions of the Excise Act of Sri Lanka.
 
 The court order will be in effect until 10 May 2024, according to Ada Derana correspondent.
+
+A three-member bench comprising Justices Yasantha Kodagoda, Janak de Silva and Arjuna Obeysekera delivered the interim injunction after taking into consideration three fundamental rights (FR) petitions filed by the Sri Lanka Liquor Licensees’ Association and several other parties.
+
+Appearing on behalf of the petitioners, President’s Counsel Sanjeewa Jayawardena and several other legal counsels told the court that the Excise Department has been issuing liquor licenses in an irregular manner.
+
+As such, the petitioning party requested the judge bench to deliver an injunction preventing the Excise Department from overriding the provisions of the Excise Act and regulations when issuing liquor licenses.
 
 ◼️
 
 [Data](articles/62db760d.json)
 
+[Extended Data](ext_articles/62db760d.ext.json)
+
 ---
 
-### තුර්කියේ නයිට් ක්ලබ් ගින්නකින් 29ක් මරුට
+### Turkey kills 29 kills fire
 
 *2024-04-02 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195223) · `si`
 
-තුර්කියේ රාත්‍රී සමාජ ශාලාවක ඇතිවූ ගින්නකින් විශාල පිරිසක් අනතුරට පත්වී ඇති බව වාර්තා වෙයි.
+A fire at a club in Turkey reportedly killed 29 people.
 
-ජාත්‍යන්තර මාධ්‍ය වාර්තා සඳහන් කරන්නේ ඉන් මේ වනවිට 29 දෙනෙක් මියගොස් ඇති බවයි.
+🟩
+
+It is reported that a large number of fire has occurred in a fire club in Turkey.
+
+International media reports states that 29 people have died.
 
 ◼️
 
 [Data](articles/75b418a8.json)
+
+[Extended Data](ext_articles/75b418a8.ext.json)
 
 ---
 
@@ -342,17 +420,23 @@ Accordingly, the health unions said that a final decision will be taken to take 
 
 ---
 
-### සංචාරක ව්‍යාපාරය ලොකු පිම්මක
+### Tourism in a big leap
 
 *2024-04-02 18:09:50* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරක-ව්‍යාපාරය-ලොකු-පිම්මක/11-408909) · `si`
 
-දෙසැම්බර් මාසයේ සිට මේ වසරේ මාර්තු මාසය දක්වා ශ්‍රී ලංකාවට අඛණ්ඩවම විදෙස් සංචාරකයන් ලක්ෂ 2ක සීමාව ඉක්මවා පැමිණ ඇති බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරියේ නවතම දත්ත පෙන්වා දෙයි.
+Sri Lanka's tourism surged, with 635,784 visitors in March, marking a significant leap in tourist arrivals.
 
-පසුගිය මාර්තු මාසය තුළද සංචාරකයන් 209,181 ක් ශ්‍රී ලංකාවට පැමිණ ඇති අතර ඒ අනුව මේ වසරේ ගතවූ මාස තුනක කාලය තුළ ශ්‍රී ලංකාවට පැමිණ ඇති සංචාරකයන් සංඛ්‍යාව 635,784 කි.
+🟩
+
+The latest data of the Tourism Development Authority (SLTB) points out that Sri Lanka has passed over Rs.
+
+Tourist arrivals had arrived in Sri Lanka in March last March and was 635,784 tourists to Sri Lanka during the last three months.
 
 ◼️
 
 [Data](articles/b693943e.json)
+
+[Extended Data](ext_articles/b693943e.ext.json)
 
 ---
 
@@ -2171,67 +2255,5 @@ The Cabinet has approved the issuance of the nemue of hygiene towels for selecte
 [Data](articles/0efeb017.json)
 
 [Extended Data](ext_articles/0efeb017.ext.json)
-
----
-
-### Cabinet approval for school girls to provide hygiene towels
-
-*2024-04-02 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195209) · `si`
-
-The Cabinet has approved a Sanitary Towels Program for schoolgirls in Sri Lanka, targeting 800,000 students in urban, isolated, estate, and poverty-stricken schools.
-
-🟩
-
-Cabinet approval has been approved to implement the Sanitary Towels Program for schoolchildren.
-
-The total number of student population in Sri Lanka is about 4 million and is estimated to reach around 1.2 million years of age.
-
-Minister of Education Susil Premajandh offers a free delivery program for 800,000 students in urban schools, isolated schools, estate schools, estate schools and poverty.The proposal was given to the Cabinet approval.
-
-◼️
-
-[Data](articles/cea1a19c.json)
-
-[Extended Data](ext_articles/cea1a19c.ext.json)
-
----
-
-### Latest cabinet decision taken about vehicle imports
-
-*2024-04-02 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195208) · `si`
-
-Cabinet approved proposal for tourism needs, including 750 buses: 650 and 250 16-30 seaters.
-
-🟩
-
-Cabinet, Minister of Cabinet, Bandula Gunawardena said that the cabinet was approved by the Cabinet for the proposal for the needs of tourism.
-
-Accordingly, 750 seats, especially 650 and 250 buses and 250 seats, especially 16-30 buses and 250 seats in 16-30 seats.
-
-◼️
-
-[Data](articles/93b9cf22.json)
-
-[Extended Data](ext_articles/93b9cf22.ext.json)
-
----
-
-### Govt. to provide free sanitary napkins to schoolgirls annually
-
-*2024-04-02 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98368/govt-to-provide-free-sanitary-napkins-to-schoolgirls-annually) · `en`
-
-The government has decided to provide free-of-charge sanitary napkins to schoolgirls starting this month.
-
-At its meeting on Monday (01), the Cabinet of Ministers green-lighted a proposal presented by Education Minister Susil Premajayantha to carry out the program annually.
-
-Thereby, as many as 800,000 schoolgirls from rural schools, remote schools, estate schools, and urban schools with poverty-stricken students, will thus be provided with sanitary napkins free of charge.
-
-According to the government, out of Sri Lankan’s student population, which amounts to approximately 4 million, a total of 1.2 million are menstruating schoolgirls.
-
-◼️
-
-[Data](articles/b36d6416.json)
-
-[Extended Data](ext_articles/b36d6416.ext.json)
 
 ---

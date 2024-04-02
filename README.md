@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 11:52:50**
+As of **2024-04-02 12:04:21**
 
 ## Newspaper Stats
 
@@ -26,65 +26,91 @@ adaderanasinhalalk | 2,683
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,563 (99.9%) of 16,572 articles have been extended.
+16,572 (100.0%) of 16,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### තවත් පාතාල කල්ලි සාමාජිකයින් පිරිසක් කොටුවෙති
+### Another underworld gang cell is box
 
 *2024-04-02 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195205) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් 9 දෙනෙක් සහ සැකකරුවන් තිදෙනෙක් අත්අඩංගුවට ගැනීමට පොලීසිය සමත්ව තිබේ.
+Underworld gang cell dismantled, 237 suspects arrested across Western & Southern Provinces. Key arrests include a 32-year-old in Galle, a 40-year-old with 360mg of ice, and a 34-year-old in Kalutara, along with a 32-year-old in Hikkaduwa and a 32-year-old in Battaramulla with 820mg of Pettah.
 
-බස්නාහිර පළාත හා දකුණු පළාත මුලික කරගෙන ක්‍රියාත්මක සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් අත්අඩංගුවට ගැනීම සඳහා දිවයින පුරා සිදුකරන විශේෂ යුක්තිය මෙහෙයුම යටතේ මෙම පිරිස අත්අඩංගුවට ගැනීමට සමත්ව තිබේ.
+🟩
 
-ඊයේ (01) ගාල්ල අපරාධ කොට්ටඨාසයේ නිලධාරීන් විසින් ගෝනපීනුවල පොලිස් වසමේ වැටලීමක් සිදුකර 32 හැවිරිදි අපරාධ කල්ලි සාමාජිකාවක් අත්අඩංගුවට ගෙන ඇත.
+Nine members and three suspects have been arrested for arrest of organized crime gangs.
 
-මේ අතර, ගාල්ල අපරාධ කොට්ඨාසයේ නිලධාරීන් විසින්ම බේරුවල වැටලීමක් සිදුකර 40 හැවිරිදි හිඟුරක්ගොඩ පදිංචි සංවිධානාත්මක අපරාධකල්ලි සාමාජිකයෙක් අයිස් මිලිග්‍රෑම් 360ක් සමග අත්අඩංගුවට ගෙන තිබේ.
+The group has arrested the number of justice operations island wide to arrest organized crime criminal groups working in the Western Province and Southern Province.
 
-මේ අතර හික්කඩුව පොලිස් වසමේ තිරාණගම ප්‍රදේශයේ සිදුකළ වැටලීමක දී 32 හැවිරිදි අපරාධ කල්ලි සාමාජිකයෙක් අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 1 මිලිග්‍රෑම් 100 සමග අත්අඩංගුවට පත්ව ඇත.
+A 32-year-old criminal gang member has been arrested by the officials of the Galle Crime Kotawalauwa yesterday (01).
+
+Meanwhile, a 40-year-old criminal criminal criminagoda has been arrested with 360 milligrams of ice.
+
+Meanwhile, a 32-year-old criminal gang member arrested with a 32-year-old criminal gang of the Hikkaduwa Police Division in Hikkaduwa area.
+
+The officials of the Kalutara Crimes Division arrested a 34-year-old crime gang member arrested by the Western Criminal Officers of the Western Criminal Officers and two 40-year-old criminal gangs were arrested.
+
+The Colombo Crimes Division has arrested a 32 year old resident of Battaramulla with 820 milligrams of Pettah.
 
 ...
 
 [Data](articles/5ba83306.json)
 
+[Extended Data](ext_articles/5ba83306.ext.json)
+
 ---
 
-### மூதாட்டி சடலத்தின் பெரு விரலில் மை
+### Ink on the big finger of the grandmother's corpse
 
 *2024-04-02 11:29:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மூதாட்டி-சடலத்தின்-பெரு-விரலில்-மை/71-335499) · `ta`
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்த மூதாட்டியின் கை பெரு விரலில் மை கிடந்தமை தொடர்பில் பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+Police investigate the death of a grandmother at Jaffna Teaching Hospital, suspecting illegal property acquisition. A woman from Manipayi died at Jaffna Bodhana Hospital, and her son alleges illegal property transactions. Investigations are ongoing, focusing on the woman's hand and the hospital's handling of the deceased's body.
 
-மூதாட்டியின் சொத்துக்களை சட்டவிரோதமாக பெற்று இருக்கலாம் எனும் சந்தேகத்திலையே பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+🟩
 
-மானிப்பாய் பகுதியை சேர்ந்த பெண்ணொருவர் திடீர் சுகவீனம் காரணமாக யாழ்.போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+Police are conducting investigations into the death of a grandmother who died after being treated at the Jaffna Teaching Hospital.
 
-சடலம் உடற்கூற்று பரிசோதனைக்காக பிரேத அறையில் வைக்கப்பட்டிருந்த நிலையில் , உயிரிழந்த பெண்ணின் மகன் வெளிநாட்டில் இருந்து , வைத்தியசாலை பணிப்பாளருடன் தொலைபேசியில் தொடர்பு கொண்டு , " தாயிடம் இருந்து சிலர் சட்டவிரோதமான முறையில் சொத்துக்களை எழுதி வாங்கியுள்ளார்" என எனக்கு தகவல் கிடைத்துள்ளது. அது தொடர்பில் விசாரணைகளை முன்னெடுக்க வேண்டும் என கூறியுள்ளார்.
+Police are investigating the suspicion that the assets of the grandmother may have been illegally obtained.
 
-அதனை அடுத்து , பணிப்பாளர் சட்ட வைத்திய அதிகாரிக்கு இந்த விடயத்தினை தெரியப்படுத்தியுள்ளார். அத்துடன் திடீர் மரண விசாரணை அதிகாரியும் விசாரணைகளை முன்னெடுத்துள்ளார்.
+A woman from Manipayi area has died after being admitted to the Jaffna Bodhana Hospital due to sudden illness.
+
+While the body was placed in the corpse for an anatomical examination, I was informed that the son of the deceased, who had telephoned the hospital director from abroad, "some people from the mother have illegally written property.". He said that investigations should be carried out.
+
+Subsequently, the Director has informed the legal officer. The sudden death officer has also launched investigations.
+
+The woman's hand has been identified on the big toe, which is being investigated by Manipay police.
 
 ...
 
 [Data](articles/4d643851.json)
 
+[Extended Data](ext_articles/4d643851.ext.json)
+
 ---
 
-### ரோகித் அவுட்டானதை கொண்டாடிய ரசிகர் அடித்து கொலை
+### Fan who celebrates Rohit's out
 
 *2024-04-02 11:24:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ரோகித்-அவுட்டானதை-கொண்டாடிய-ரசிகர்-அடித்து-கொலை/44-335498) · `ta`
 
-ஐ.பி.எல். தொடரில் ஐதராபாத்தில் கடந்த 27-ந் திகதிய நடந்த ஆட்டத்தில் மும்பை இந்தியன்ஸ் மற்றும் சன்ரைசர்ஸ் ஐதராபாத் அணிகள் மோதின. முதலில் துடுப்பெடுத்தாடிய  ஐதராபாத் அணி 20 ஓவர்கள் முடிவில் 3 விக்கெட் இழப்புக்கு 277 ஓட்டங்களை குவித்தது. 278  ஓட்டங்கள் என்ற வெற்றி இலக்குடன் மும்பை அணி விளையாடியது.
+A fan, Bandophand Tibile, died after an argument with a friend, Balant Janjee, over a cricket match. Tibile, a Chennai Super Kings fan, celebrated Rohit Sharma's dismissal, while Janjee, a Rohit Sharma fan, was upset. The argument escalated, leading to Tibile's death.
 
-அந்த அணியின் தொடக்க ஆட்டக்காரர்களாக இஷான் கிஷன் மற்றும் ரோகித் சர்மா விளையாடினர். போட்டியில், ரோகித் 26 ஓட்டங்களில் ஆட்டமிழந்து வெளியேறினார். இதனை கொண்டாடிய ஒருவர், நண்பராலேயே அடித்து கொல்லப்பட்ட அதிர்ச்சி சம்பவம் நடந்துள்ளது.
+🟩
 
-மராட்டியத்தின் கோலாப்பூர் நகரில் அனுமந்த்வாடி கிராமத்தில், இந்த போட்டியை காண்பதற்காக பந்தோபண்ட் திபிலே (வயது 63) என்பவர் நண்பர் ஒருவரின் வீட்டுக்கு சென்றுள்ளார். அதே வீட்டுக்கு திபிலேவின் மற்றொரு நண்பரான பலவந்த் ஜாஞ்ஜே (வயது 50) என்பவரும் வந்துள்ளார்.
+IPL. Mumbai Indians and Sunrisers Hyderabad teams clashed in Hyderabad on the 27th. Hyderabad scored 277 runs for the loss of 3 wickets at the end of 20 overs. The Mumbai team played a target of 278 runs.
+
+Ishan Kishan and Rohit Sharma played the team's opening players. In the match, Rohit was dismissed for 26 runs. The shocking incident in which someone celebrated this was beaten by a friend.
+
+Bandophand Tibile (age 63) has gone to a friend's house to watch the match at Manantwadi village in Kolhapur, Maratham.. Another friend of Tibile, Balant Janjee (age 50), has also arrived at the same house.
+
+IPL. The match was enthusiastic. Tibile, Chennai Super Kings are an avid fan. When Rohit Sharma was out, he celebrated it with joy. But Janjee is an avid fan of Rohit.
 
 ...
 
 [Data](articles/f3ff6805.json)
+
+[Extended Data](ext_articles/f3ff6805.ext.json)
 
 ---
 
@@ -97,6 +123,8 @@ During the recent long weekend, a significant number of tourists and local resid
 ◼️
 
 [Data](articles/10674b06.json)
+
+[Extended Data](ext_articles/10674b06.ext.json)
 
 ---
 
@@ -111,6 +139,8 @@ The President has made the appointment in accordance with the provisions of the 
 ◼️
 
 [Data](articles/eedd5993.json)
+
+[Extended Data](ext_articles/eedd5993.ext.json)
 
 ---
 
@@ -132,6 +162,8 @@ The bicycles were handed over to the Ministry of Education, Sri Lanka on Monday 
 
 [Data](articles/c62e10fe.json)
 
+[Extended Data](ext_articles/c62e10fe.ext.json)
+
 ---
 
 ### Railways to remove hazardous trees along Galabada-Hatton line
@@ -147,6 +179,8 @@ Therefore, necessary activities are being carried out to cut and remove dangerou
 ◼️
 
 [Data](articles/01782c40.json)
+
+[Extended Data](ext_articles/01782c40.ext.json)
 
 ---
 
@@ -487,6 +521,8 @@ The Colombo Stock Exchange opened up; the All Share Price Index was up 0.11 perc
 ◼️
 
 [Data](articles/885c9396.json)
+
+[Extended Data](ext_articles/885c9396.ext.json)
 
 ---
 
@@ -1065,6 +1101,8 @@ Gross official reserves also include fiscal balances of the Treasury, which may 
 ...
 
 [Data](articles/0e510313.json)
+
+[Extended Data](ext_articles/0e510313.ext.json)
 
 ---
 

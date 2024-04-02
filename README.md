@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 17:54:19**
+As of **2024-04-02 18:10:11**
 
 ## Newspaper Stats
 
-*Scraped **16,655** Articles*
+*Scraped **16,662** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 912
 islandlk | 925
 adalk | 1,402
 tamilmirrorlk | 1,986
-adaderanalk | 1,999
-virakesarilk | 2,382
+adaderanalk | 2,000
+virakesarilk | 2,388
 dailymirrorlk | 2,566
 adaderanasinhalalk | 2,698
 
@@ -26,11 +26,97 @@ adaderanasinhalalk | 2,698
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,652 (100.0%) of 16,655 articles have been extended.
+16,655 (100.0%) of 16,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### வற்வரி திருத்தச் சட்டமூலம் 36 மேலதி வாக்குகளால் நிறைவேற்றம்
+
+*2024-04-02 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180271) · `ta`
+
+15 வீதமாகவுள்ள வற் வரியை 18 வீதமாக அதிகரிக்கும் சேர் பெறுமதி வரி சட்டத்தின் கீழான கட்டளை 36 மேலதிக வாக்குகளினால் நிறைவேற்றப்பட்டது.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (2) சேர் பெறுமதி வரி சட்டத்தின் கீழான கட்டளையை நிறைவேற்ற எதிர்க்கட்சி பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல வாக்கெடுப்பைக்கோரினார்.
+
+இதனையடுத்து இடம்பெற்ற இலத்திரனியல் முறையிலான வாக்கெடுப்பில் சேர் பெறுமதி வரி சட்டத்தின் கீழான கட்டளைக்கு ஆதரவாக 55 வாக்குகளும் எதிராக 19 வாக்குகளும் அளிக்கப்பட்ட நிலையிலேயே 36 மேலதிக வாக்குகளினால் நிறைவேற்றப்பட்டது.
+
+◼️
+
+[Data](articles/cc857322.json)
+
+---
+
+### பொருளாதாரம் உறுதியாக இருந்தாலும் இலங்கையில் வறுமைநிலை உயர்வாகவே காணப்படுகின்றது - உலக வங்கி
+
+*2024-04-02 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180270) · `ta`
+
+இலங்கையின் பொருளாதாரம் மீண்டெழும் பாதையில் பயணித்தாலும் ஏழைகள் மற்றும் பாதிக்கப்பட்ட நிலையில் வாழும் மக்களின் பொருளாதார நெருக்கடிகள் ஏற்படுத்திய தாக்கத்தினை தணிப்பதற்கான உறுதியான முயற்சிகள் முக்கியமானவை இதனுடன் காத்திரமான நம்பகமான கட்டமைப்புசார் நடவடிக்கைகளுக்கான வழிமுறைகளும் முன்னெடுக்கப்பட வேண்டுமென மாலைதீவு, நேபாளம், இலங்கை ஆகிய நாடுகளுக்கான உலக வங்கியின் பணிப்பாளர் பாரிஸ் ஹடாட்ட ரெஸோஸ் தெரிவித்தார்.
+
+இதேவேளை, இது இரு விதமான உபாயமுறைகளைக் கொண்டுள்ளதாகவும் முதலாவதாக  பேரினப் பொருளியல் உறுதித் தன்மைக்கு பங்களிப்புச் செய்கின்ற மறுசீரமைப்புக்களை  பேணுதல். இரண்டாவது, தனியார் முதலீடுகளை தூண்டக்கூடிய மற்றும் முலீட்டு உள் வருகையை தூண்டக்கூடிய மறுசீரமைப்புக்களை துரிதப்படுத்தல், இவை பொருளாதார வளர்ச்சி மற்றும் வறுமையை குறைத்தல் ஆகியவற்றிற்கு முக்கியமாகும் என்றும் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/da29fb03.json)
+
+---
+
+### துருக்கிய  உள்ளூராட்சித் தேர்தல்களில் எதிர்க்கட்சி அபார வெற்றி
+
+*2024-04-02 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180269) · `ta`
+
+இத்தேர்தல்களில் எதிர்ககட்சியான குடியரசு மக்களின் கட்சி (சி.எச்.பி.) அதிக உள்ளூராட்சி சபைகளை கைப்பற்றியுள்ளது.
+
+81 மாகாண தலைநகரங்களில் 35 சபைகளை எதிர்கட்சியான சி.எச்.பி. வென்றுள்ளது. 24 சபைகளில் மாத்திரம் ஜனாதிபதி தையீப் அர்துவானின் ஏ.கே.பி. கட்சி வென்றுள்ளது.
+
+குர்திஷ் கட்சியான டீ.ஈ.எம். 10 சபைகளையும் இஸ்லாமியக் கட்சியான யேனிடேன் ரெஃபா 2 சபைகளையும் கைப்பற்றியுள்ளன.
+
+துருக்கியின் மிகப் பெரிய நகரான இஸ்தான்புல், தலைநகர் அங்காரா, அடானா, புர்ஸா, அன்டால்யா நகரங்கிளலும் சி.எச்.பி. கட்சியின் மேயர்கள் தெரிவாகியுள்ளனர்.
+
+2002 ஆம் அண்டு அர்துவானின் ஏ.கே.பி. கட்சி அதிகாரத்துக்கு வந்த பின்னர் அக்கட்சி அடைந்த மிக மோசமான தோல்வி இதுவாகும்.
+
+பணவீக்கம் 67 சதவீதமாக அதிகரித்துள்ளமை இத் தேர்தல் பெறுபேறுகளுக்கு ஒரு பிரதான காரணம் எனக் கருதப்படுகிறது.
+
+◼️
+
+[Data](articles/f061cb53.json)
+
+---
+
+### Order under VAT Act passed by majority in parliament
+
+*2024-04-02 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98377/order-under-vat-act-passed-by-majority-in-parliament) · `en`
+
+The Order under the Value Added Tax Act, in relation to increasing the VAT from 15% to 18%, was passed in Parliament today (02) by a majority of 36 votes.
+
+During the vote held this evening, after the opposition had asked for a division, a total of 55 Members of Parliament voted in favor of the order and 19 voted against it.
+
+Meanwhile, the Second Reading of the Banking (Amendment) Bill was followed by the Committee Stage and Third Reading, which was passed in parliament today without amendments and without a vote.
+
+◼️
+
+[Data](articles/69daea67.json)
+
+---
+
+### கார்த்திகை பூ விவகாரம் ; மனிதவுரிமை ஆணைக்குழுவில் முறைப்பாடு
+
+*2024-04-02 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180254) · `ta`
+
+பாடசாலை மட்ட நிகழ்வுகளில் பொலிஸாரினதும் அரச புலனாய்வாளரினதும் இராணுவத்தினரின் தலையீடுகள் குறித்து இலங்கை மனிதவுரிமை ஆணைக்குழுவிடம் ஆசிரியர் சங்கம் முறைப்பாடு செய்துள்ளது.
+
+மனிதவுரிமை ஆணைக்குழுவின் யாழ். பிராந்திய அலுவலகத்தில் இன்று செவ்வாய்க்கிழமை , பிராந்திய இணைப்பாளர் த. கனகராஜிடம் முறைப்பாட்டை கையளித்துள்ளனர்.
+
+கடந்த வாரம் நடைபெற்ற தெல்லிப்பழை யூனியன் கல்லூரியின் இல்ல மெய்வன்மை போட்டியின், இல்ல அலங்காரங்களில் மாணவர்களின் வெளிப்பாடுகள் தொடர்பாக, தெல்லிப்பழைப் பிரிவு பொலிஸார் மாணவர்களையும் ஆசிரியர்களையும் விசாரணைக்கு அழைத்தமையும், விசாரணைக்கு உட்படுத்தியமையும் அடிப்படை மனித உரிமைகளை மீறுகின்ற நடவடிக்கையாகும்.
+
+இலங்கை அரசியலமைப்பின் சட்ட வரையறைக்குட்பட்டு கருத்தியல் ரீதியாகவும் கலை ரீதியாகவும் - குறியீட்டு வடிவங்கள் மூலமாகவும் பாடசாலை மட்ட இல்ல விளையாட்டு போட்டி அலங்காரங்களில் மாணவர்களின் பாடசாலை மட்ட வெளிப்பாடுகள், இலங்கை அரசியலமைப்பில் ஏற்று அங்கீகரிக்கப்பட்டுள்ள அடிப்படை மனித உரிமைகள் தொடர்பான சிந்தனை மற்றும் மனச்சாட்சி சுதந்திரத்துக்கு உட்பட்டதாகும்.
+
+...
+
+[Data](articles/864c18d1.json)
+
+---
 
 ### Sri Lanka wins victory
 
@@ -55,6 +141,20 @@ Batting first, Sri Lanka scored 531 runs for the loss of all of the people.
 [Data](articles/89ccc0d2.json)
 
 [Extended Data](ext_articles/89ccc0d2.ext.json)
+
+---
+
+### வடக்கு, கிழக்கில் பொருளாதார நெருக்கடியின் பின்னரான நுண்நிதிச் செயற்பாடுகளும் பெண்களும்
+
+*2024-04-02 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180245) · `ta`
+
+இலங்கையில் தற்போது நிலவும் பொருளாதார நெருக்கடியின் சுமைகள் ஒவ்வொரு குடும்பங்கள் மற்றும் பெண்களின் மீதும் சுமத்தப்பட்டுள்ளன. இந்த சூழ்நிலையில் கடனைப் பெறுவது பெண்கள் தமது நிதி தேவையை சமாளிக்கும் ஒரு வழியாக இருக்கின்றது. இது மேலும் அவர்கள் சுரண்டப்படுவதற்கும், உடமையிழப்பிற்கு ஆளாவதற்கும் வழிவகுக்கின்றது.
+
+யுத்தத்திற்குப் பின்னரான வடக்கு மற்றும் கிழக்கில் நுண்கடன் ஒரு முக்கிய பிரச்சனையாக பரிணாமித்தது. 2018ல் நுண்கடன் நிறுவனங்களின் செயற்பாடுகளை குறைக்க சில முயற்சிகள் மேற்கொள்ளப்பட்டன. கோவிட் காலத்தில் கடன் மீளச்செலுத்தும் கால அவகாசங்களும் நீடிக்கப்பட்டது. எனினும், தற்போதைய பொருளாதார நெருக்கடியின் தாக்கத்தினால் நுண்நிதிக் கடன்கள் மற்றும் குடும்பக் கடன்கள்; அதிகரிப்பதை மீண்டும் அவதானிக்க முடிகின்றது. அன்று நுண்கடன் நிதிநிறுவனங்களுக்கு எதிராக முன்னெடுக்கப்பட்ட முயற்சிகள் தற்காலிக தீர்வையே கொடுத்திருந்தது. தற்போது நாம் எதிர்கொண்டிருக்கும் பொருளாதார நெருக்கடியுடன் ஏற்பட்டுள்ள நீண்டகால தாக்கம் வித்தியாசமானதும் புதிரானதுமான சூழலை உருவாக்கியுள்ளது.
+
+...
+
+[Data](articles/bb588b11.json)
 
 ---
 
@@ -92,6 +192,8 @@ A total of 55 MPs voted in favour while 19 MPs voted against.
 
 [Data](articles/1d132718.json)
 
+[Extended Data](ext_articles/1d132718.ext.json)
+
 ---
 
 ### Swassal bag to relief flower from today - an egg for Rs.6
@@ -113,6 +215,24 @@ Sathosa's steps have also been taken to sell an egg at a retail price.
 [Data](articles/658850e1.json)
 
 [Extended Data](ext_articles/658850e1.ext.json)
+
+---
+
+### பிலிப்பைன்ஸில் வெப்பநிலை அதிகரிப்பினால் பாடசாலைகள் மூடப்பட்டன
+
+*2024-04-02 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180259) · `ta`
+
+தலைநகர் மணிலாவிலுள்ள டசின் கணக்கான பாடசாலைகள் உட்பட நூற்றுக்கணக்கான பாடசாலைகளில் நேரபடி வகுப்புகள் இடைநிறுத்தப்பட்டுள்ளன  கல்வி அதிகாரிகள் இன்று தெரிவித்துள்ளனர்.
+
+மணிலாவில் நாளை புதன்கிழமை 43 பாகை செல்சியஸ் வெப்பநிலை நிலவும் என எதிர்பார்க்கப்படுகிறது.
+
+இன்று செவ்வாய்க்கழமை 35.7 பாகை செல்சியஸ் வெப்பநிலை பதிவாகியது. அங்கு 1915 மே 17 ஆம் திகதி 38.6 பாகை செல்சியஸ் வெப்பநிலை பதிவாகியமையே சாதனையாக உள்ளது.
+
+புpலிப்பைன்ஸின் பிரதான தீவான லுஸோன், தென் பகுதி தீவானா மின்டானோவா ஆகியவற்றில் பாடசாலைகளில் நேரடி வகுப்புகள் இடைநிறுத்தப்பட்டுள்ளதாக அல்லது பாடசாலை நேரம் குறைக்கப்பட்டுள்ளதாக அந்நாட்டின் கல்வி அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/835dfaca.json)
 
 ---
 
@@ -172,11 +292,35 @@ It was reported that importers of essential items such as big onions, potatoes a
 
 [Data](articles/6e18f107.json)
 
+[Extended Data](ext_articles/6e18f107.ext.json)
+
+---
+
+### Yall. A house in the east of Arali burned in fire
+
+*2024-04-02 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180251) · `ta`
+
+A house in Arali East, Jaffna, was completely damaged by fire yesterday. No casualties, but property destroyed. Cause unknown. Vaddukoddai police investigating.
+
+🟩
+
+A house in the Arali East of the Vaddukoddai Police Division in Jaffna has been completely damaged in a fire. The incident took place yesterday (01).
+
+The disaster occurred in an unexpected. However, the cause of the fire is not yet known.
+
+None of the casualties caused. However, the property in the house has been burnt and destroyed. Vaddukoddai police are investigating the matter.
+
+◼️
+
+[Data](articles/d5188807.json)
+
+[Extended Data](ext_articles/d5188807.ext.json)
+
 ---
 
 ### The Central Bank Assistant Governor has commented on the quota
 
-*2024-04-02 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180257) · `ta`
+*2024-04-02 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180257) · `ta`
 
 The Central Bank Assistant Governor's claim about the quota, based on Sri Lanka's weekly economic indicators and IMF reports, contradicts the actual value of 3.0 billion, not the 4.4 billion mentioned. The PBOC exchange facility doesn't meet BPM6 standards for reserve assets, and the term "useless quotas" is not aligned with BPM6's asset definition.
 
@@ -207,6 +351,8 @@ According to the Sri Lanka Development Update released today, Sri Lanka saw dec
 ...
 
 [Data](articles/e94f7740.json)
+
+[Extended Data](ext_articles/e94f7740.ext.json)
 
 ---
 
@@ -315,28 +461,6 @@ The commercial High Court was ordered to call this case on April 16 and the Hon.
 [Data](articles/28c5615e.json)
 
 [Extended Data](ext_articles/28c5615e.ext.json)
-
----
-
-### Yall. A house in the east of Arali burned in fire
-
-*2024-04-02 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/180251) · `ta`
-
-A house in Arali East, Jaffna, was completely damaged by fire yesterday. No casualties, but property destroyed. Cause unknown. Vaddukoddai police investigating.
-
-🟩
-
-A house in the Arali East of the Vaddukoddai Police Division in Jaffna has been completely damaged in a fire. The incident took place yesterday (01).
-
-The disaster occurred in an unexpected. However, the cause of the fire is not yet known.
-
-None of the casualties caused. However, the property in the house has been burnt and destroyed. Vaddukoddai police are investigating the matter.
-
-◼️
-
-[Data](articles/d5188807.json)
-
-[Extended Data](ext_articles/d5188807.ext.json)
 
 ---
 
@@ -2053,169 +2177,5 @@ The Opposition Leader said a proper investigation should be conducted as to how 
 [Data](articles/0d100f26.json)
 
 [Extended Data](ext_articles/0d100f26.ext.json)
-
----
-
-### Father killed in a sharp weapon
-
-*2024-04-02 10:39:12* · [`adalk`](https://www.ada.lk/breaking_news/තියුණු-ආයුධයකින්-පහරදී-දෙදරු-පියෙකු-මරුට/11-408895) · `si`
-
-Rajitha Jayasuriya, a Kalawana resident, was killed by a sharp weapon in an argument, leading to his arrest for murder.
-
-🟩
-
-A person has been assaulted by a private vehicle service company in Kalawana, Kalawana Police said.
-
-The deceased have been identified as Rajitha Jayasuriya, a resident of Kalawana, Kalawana, said the Kalawana Police said.Kalawana Police said that he had been assaulted by a sharp weapon after a heated argument with a person. A hospital spokesman said he had died when he was admitted to the hospital. A person has been arrested by the Kalawana Police on suspicion of the murder.
-
-◼️
-
-[Data](articles/40feb31f.json)
-
-[Extended Data](ext_articles/40feb31f.ext.json)
-
----
-
-### Chandimal is suddenly returning
-
-*2024-04-02 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195201) · `si`
-
-Dinesh Chandimal, in Sri Lanka and Bangladesh, leaves match due to family medical emergency. Sri Lanka Cricket confirms his return to Sri Lanka.
-
-🟩
-
-Dinesh Chandimal, who is currently in Sri Lanka and Bangladesh, has left the match with immediate effect.
-
-The Sri Lanka Cricket has issued a statement, "his family medical emergency," he has taken this decision.
-
-Sri Lanka Cricket announced that Dinesh Chandimal is due to return to Sri Lanka as soon as possible.
-
-◼️
-
-[Data](articles/4e1bbf69.json)
-
-[Extended Data](ext_articles/4e1bbf69.ext.json)
-
----
-
-### Consideration of petitions challenging IGP Tennakoon’s appointment begins today
-
-*2024-04-02 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98365/consideration-of-petitions-challenging-igp-tennakoons-appointment-begins-today) · `en`
-
-The fundamental rights (FR) petitions filed against the appointment of Inspector-General of Police (IGP) Deshabandu Tennakoon are slated to be taken up for consideration before the Supreme Court on Tuesday (02).
-
-A three-member bench led by Chief Justice Jayantha Jayasuriya will sit for the consideration of the petitions put forward by His Eminence Malcolm Cardinal Ranjith, Prof. Savitri Gunasekara, former MP Hirunika Premachandra and several others.
-
-The Speaker of Parliament, the members of the Constitutional Council, IGP Tennakoon, the Attorney General and several others have been named as the respondents of the petitions.
-
-The petitioners allege that Tennakoon had neglected his duties during his tenure as the Senior Deputy Inspector General of Police (SDIG) of the Western Province when the 2019 Easter attacks happened, and a pre-mediated attack was launched on the ‘GotaGoGama’ protest site at the Galle Face Green where several protesters were brutally beaten.
-
-...
-
-[Data](articles/bf18627f.json)
-
-[Extended Data](ext_articles/bf18627f.ext.json)
-
----
-
-### Six persons arrested for illegal sand excavation in Amban area
-
-*2024-04-02 10:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180207) · `ta`
-
-Six individuals arrested for illegal sand excavation in Amban were released on bail after their case was filed at the Point Pedro Court. The plowing machines were released on the 22nd. The drivers celebrated their release, causing shock among locals.
-
-🟩
-
-Six plowing machines and arrested persons seized by Special Task Force soldiers were released on bail yesterday.
-
-On the 24th, on the 24th, the six plowing machines and six drivers were arrested and handed over to the Maruthankeni police.
-
-In this case, the case was filed at the Point Pedro Court yesterday (01) and was allowed to go on bail each and the plowing machines were released on the 22nd of this month.
-
-In this case, the liberated plowing drivers have exploded on the doorstep of everyone in the east of Amban, from the Kudana Amban town border to express their happiness.
-
-The boys of the area are alert and the people are shocked to understand what is happening.
-
-◼️
-
-[Data](articles/107b953d.json)
-
-[Extended Data](ext_articles/107b953d.ext.json)
-
----
-
-### Who authorized that ship?Central Environmental Authority begins investigations
-
-*2024-04-02 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195200) · `si`
-
-The Central Environmental Authority (CEA) began investigations into a ship's unauthorized entry into the United States, despite proper permissions. The CEA was not informed of the investigation. The ship was caught due to its cargo. Professor Chariters and Opposition Leader Sajith Premadasa responded to questions. On March 26, a cargo carrier collapsed at the Boltotha Bridge, causing workers to fall into the river.
-
-🟩
-
-A investigating as an inquiry was held in the Boltotha Bridge in the United States was a proper permission to bring the goods contained in the United States.
-
-He said that the investigation was already inaugurated and said that the CEA had not informed the CEA.
-
-"Of course, the ship was caught up because of the goods."
-
-He was speaking to the Professor Chariters and Opposition Leader Sajith Premadasa answers the questions raised.
-
-Dally, the cargo carrier collapsed on March 26, and a group of workers in the bridge fell into the river.
-
-◼️
-
-[Data](articles/1da8d6ce.json)
-
-[Extended Data](ext_articles/1da8d6ce.ext.json)
-
----
-
-### Romania and Bulgaria partially joined the Shengan Zone
-
-*2024-04-02 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180206) · `ta`
-
-Romania and Bulgaria joined the Shengen Zone, allowing visa-free travel between them and other Shengen countries by sea and air. Despite joining the EU in 2007, their Shengen application was initially rejected in 2011 but later supported by the European Council. Criticisms of inadequate measures against crime and illegal settlements persist.
-
-🟩
-
-Romania and Bulgaria have joined the Shengen Visa Zone in Europe since yesterday.This can travel between the two countries and the other Shengan Zonal countries through the sea and the air without Visha tests.
-
-Romania and Bulgaria joined the EU in 2007. However, these countries had to wait a long time to join the Shengan Zone with no visa restrictions.
-
-The European Parliament approved the Shengen application of these countries in 2011. However, it was defeated in the European ministers that same year.
-
-Many countries have accused Romania and Bulgaria of not taking adequate measures regarding planned crimes and illegal settlements.
-
-In the meantime, the European Council unanimously supported the country from March 31 to the Shengan Zone.
-
-Accordingly, the Romania and other Shengen countries can travel by sea and air without a visa. Border restrictions on the ground journey. It has been reported that the restriction will be removed later.
-
-...
-
-[Data](articles/8e1770c3.json)
-
-[Extended Data](ext_articles/8e1770c3.ext.json)
-
----
-
-### Sri Lanka rupee strengthens crossing 300 to the US dollar
-
-*2024-04-02 10:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-strengthens-crossing-300-to-the-us-dollar-156948/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted at 299.85/95 to the US dollar in the spot forex market on Tuesday, crossing the 300 mark after opening at 299.90/300.00, dealers said.
-
-A bond maturing on 15.12.2026 was quoted stable at 11.30/40 percent.
-
-A bond maturing on 15.09.2027 was quoted at 11.85/12.00 percent from 11.90/12.05 percent.
-
-A bond maturing on 15.12.2028 was quoted stable at 12.10/20 percent.
-
-The Colombo Stock Exchange opened up; the All Share Price Index was up 0.11 percent at 11,491, and the S&P SL20 was up 0.16 percent at 3,334. (Colombo/Apr2/2024)
-
-◼️
-
-[Data](articles/885c9396.json)
-
-[Extended Data](ext_articles/885c9396.ext.json)
 
 ---

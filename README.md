@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 22:34:00**
+As of **2024-04-02 22:51:34**
 
 ## Newspaper Stats
 
-*Scraped **16,707** Articles*
+*Scraped **16,708** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 925
 adalk | 1,408
 tamilmirrorlk | 1,989
 adaderanalk | 2,008
-virakesarilk | 2,402
+virakesarilk | 2,403
 dailymirrorlk | 2,574
 adaderanasinhalalk | 2,704
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,703 (100.0%) of 16,707 articles have been extended.
+16,707 (100.0%) of 16,708 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,28 @@ In a statement, it added that the fame earned by Sri Lanka as a prominent touris
 
 [Data](articles/ec2147a4.json)
 
+[Extended Data](ext_articles/ec2147a4.ext.json)
+
+---
+
+### 2ஆவது ரி20 ஹெட்-ட்ரிக் பதிவுசெய்து வரலாறு படைத்தார் பரிஹா; ராமநாயக்கவின் ஆலோசனைகளே சாதனைக்கு காரணமாம்
+
+*2024-04-02 22:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180280) · `ta`
+
+அவுஸ்திரேலியாவுக்கு எதிராக மிர்பூர், ஷியரே பங்ளா தேசிய விளையாட்டரங்கில் செவ்வாய்க்கிழமை (02) நடைபெற்ற இரண்டாவது மகளிர் சர்வதேச ரி20 கிரிக்கெட் போட்டியில் பங்களாதேஷ் வீராங்கனை பரிஹா ட்ரிஸ்னா, ஹெட் - ட்ரிக் முறையில் விக்கெட்களை வீழ்த்தி வரலாறு படைத்தார்.
+
+மகளிர் சர்வதேச ரி20 கிரிக்கெட் போட்டிகளில் அவர் பதிவு செய்த இரண்டாவது ஹெட்-ட்ரிக் இதுவாகும். அதன் மூலம் மகளிர் ரி20 சர்வதேச கிரிக்கெட் போட்டிகளில் 2 ஹெட்-ட்ரிக்குகளைப் பதிவுசெய்த முதலாவது வேகப்பந்துவீச்ச வீராங்கனை என்ற வரலாற்றுச் சாதனையை பரிஹா படைத்தார்.
+
+இரண்டு வருடங்களுக்கு முன்னர் மலேசியாவுக்கு எதிராக சில்ஹெட்டில் நடைபெற்ற மகளிர் சர்வதேச ரி20 கிரிக்கெட் போட்டியில் பரிஹா ட்ரிஸ்னா முதலாவது ஹெட்-ட்ரிக்கை பதிவு செய்திருந்தார்.
+
+எலிஸ் பெரி, சொஃபி மொலினொக்ஸ், பெத் மூனி ஆகியோரையே கடைசி 3 பந்துகளில் பரிஹா ஆட்டம் இழக்கச் செய்தார்.
+
+உபாதை காரணமாக சுமார் 6 மாதங்கள் சிகிச்சையுடன் ஒய்வு பெற்றுவந்த பரிஹா, தனது மீள்வருகையில் ஹெட்-ட்ரிக்கை பதிவு செய்து அரங்கில் இருந்த சிறுதொகை இரசிகர்களின் பாராட்டைப் பெற்றார்.
+
+...
+
+[Data](articles/60ce26d0.json)
+
 ---
 
 ### Sri Lanka tops best places for solo female travel in 2024
@@ -65,6 +87,8 @@ Several countries are renowned for being safe and accommodating for solo female 
 ...
 
 [Data](articles/766c70dc.json)
+
+[Extended Data](ext_articles/766c70dc.ext.json)
 
 ---
 
@@ -109,6 +133,8 @@ The trade unions had previously announced plans for an indefinite strike startin
 ...
 
 [Data](articles/5fda830d.json)
+
+[Extended Data](ext_articles/5fda830d.ext.json)
 
 ---
 
@@ -1380,6 +1406,8 @@ According to the Sri Lanka Development Update released today, Sri Lanka saw dec
 
 [Data](articles/397d7960.json)
 
+[Extended Data](ext_articles/397d7960.ext.json)
+
 ---
 
 ### Sri Lanka’s economy shows signs of stabilization, but poverty remains elevated
@@ -2239,27 +2267,5 @@ The defence requested court to release Ven. Gnanasara Thera on bail pending appe
 [Data](articles/299cf20f.json)
 
 [Extended Data](ext_articles/299cf20f.ext.json)
-
----
-
-### Action to remove dangerous trees at the Kalabapa-Hatton Railway
-
-*2024-04-02 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180222) · `ta`
-
-The Railway Department is removing dangerous trees on the Kalabapa-Hatton line due to nine tree collapses in three months, aiming to prevent further disruptions before the rainy season.
-
-🟩
-
-The Superintendent of the Railway Department, S. Kodke said that it has decided to remove the dangerous trees on both sides of the railway line between Kalabapa and Hatton.
-
-He noted that the railway service in the hill country has been affected by the collapse of the trees nine times in the last three months.
-
-Therefore. Before the rainy weather in the hill country, the necessary steps are being taken to cut down the dangerous trees in the hill country.
-
-◼️
-
-[Data](articles/eb7b2f4b.json)
-
-[Extended Data](ext_articles/eb7b2f4b.ext.json)
 
 ---

@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 08:52:07**
+As of **2024-04-02 09:03:14**
 
 ## Newspaper Stats
 
-*Scraped **16,526** Articles*
+*Scraped **16,530** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 148
-bbccomsinhala | 174
+bbccomsinhala | 175
 dbsjeyarajcom | 201
 newsfirstlk | 363
 dailyftlk | 895
 economynextcom | 909
 islandlk | 924
-adalk | 1,387
-tamilmirrorlk | 1,966
+adalk | 1,388
+tamilmirrorlk | 1,968
 adaderanalk | 1,986
 virakesarilk | 2,356
 dailymirrorlk | 2,542
@@ -26,21 +26,27 @@ adaderanasinhalalk | 2,675
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,524 (100.0%) of 16,526 articles have been extended.
+16,526 (100.0%) of 16,530 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### නීතිපතිගෙන් ශ්‍රේෂ්ඨාධිකරණයට දැනුම්දීමක්
+### A NOTIFICI OF ADDIT
 
 *2024-04-02 08:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195196) · `si`
 
-පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය මඟින් අත්අඩංගුවට ගනු ලබන මත්ද්‍රව්‍ය තොග ජාවාරම් කිරීමේ සිද්ධිය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන ඇපමත මුදා හැර සිටින එම කාර්යාංශයට අනුයුක්තව සිටි පොලිස් නිලධාරීන් පිරිසකට එරෙහිව අධිචෝදනා ඉදිරිපත් කිරීම සඳහා කරුණු සලකා බලමින් සිටින බව නීතිපතිවරයා ඊයේ (01) ශ්‍රේෂ්ඨාධිකරණය හමුවේ ප්‍රකාශ කළේය.
+The Attorney General announced that suspects arrested by the Police Narcotics Bureau were released on bail.
+
+🟩
+
+The Attorney General stated yesterday that the suspects were arrested on suspicion and released on bail with the suspects arrested by the Police Narcotics Bureau.
 
 ◼️
 
 [Data](articles/aa6c9749.json)
+
+[Extended Data](ext_articles/aa6c9749.ext.json)
 
 ---
 
@@ -57,6 +63,8 @@ The Syrian foreign minister and interior minister were both spotted at the scene
 ...
 
 [Data](articles/d4be7fb2.json)
+
+[Extended Data](ext_articles/d4be7fb2.ext.json)
 
 ---
 
@@ -309,6 +317,28 @@ They also highlighted the additional hurdles, including the restrictions on fore
 [Data](articles/87f35fc5.json)
 
 [Extended Data](ext_articles/87f35fc5.ext.json)
+
+---
+
+### 'මේ පොත හදන්න වර්ග කිලෝමීටර් 2.5ක් තරමේ ටොෆි, චොක්ලට් කොළ ඕනා'
+
+*2024-04-02 02:03:35* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gj0zz3en0o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''මේ ඩයරියේ පිටකවරය තුළ තියෙන්නේ මගේම හිසකෙස්''
+
+'මේ පොත හදන්න වර්ග කිලෝමීටර් 2.5ක් තරමේ ටොෆි, චොක්ලට් කොළ ඕනා'
+
+ප්‍රතිචක්‍රීකරණය (Recycling) ගැන අවදානය යොමුව තිබුණ ද ඒවාට අගය එකතු කර නව නිෂ්පාදනයක් (Upcycling) කිරීම  ගැන වැඩි අවධානයක් ශ්‍රී ලංකාවේ යොමුව නැති බව නේෂා රත්නායක පවසන්නීය.
+
+කටාන, බටහිර කළුවාරිප්පුව ප්‍රදේශයේ ජීවත්වෙන ඇය සිය පියා සමග එක්ව එවැනි පරිසර හිතකාමී ව්‍යාපාරයක් පවත්වාගෙන යනු ලැබේ.
+
+''අප්සයිකල් වලදී රීසයිකල් වලට වඩා කලාත්මක, කාලයක් පවතින නිර්මාණයක් අපිට කරන්න පුළුවන්. ඒ වගේම විශාල සමාජයේ ආකල්ප වෙනසක් ඇති කරන්න පුළුවන්'' යනුවෙන් ඇය BBC සිංහල සේවයට පැවසුවාය.
+
+පාසල් සිසුන්, සරසවි සිසුන් සහ පරිසරය කෙරෙහි උනන්දුවක් දක්වන පිරිස් දැනටමත් ඉවතලන දේ ඔවුන්ට බාර දෙති.
+
+...
+
+[Data](articles/54328c11.json)
 
 ---
 
@@ -570,6 +600,24 @@ In that respect, the following new doctors have been appointed to the vacancies 
 
 ---
 
+### ’பொருத்தமான தலைவர் ரணில் விக்கிரமசிங்க’
+
+*2024-04-02 01:14:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருத்தமான-தலைவர்-ரணில்-விக்கிரமசிங்க/175-335489) · `ta`
+
+நாட்டில் ஏற்பட்டுள்ள பொருளாதார நெருக்கடியைத் தீர்ப்பதற்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க மிகவும் திறமையான மற்றும் பொருத்தமான தலைவர் என்பதை இதுவரை அடைந்துள்ள முன்னேற்றம் உறுதிப்படுத்துகிறது என இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+பொருளாதாரம் தொடர்பாக, பல்வேறு நபர்கள் சில விடயங்களை குறிப்பிட்டு, பல்வேறு விமர்சனங்களை முன்வைத்தனர். ஆனால் அவைகள் நியாயமானவைகள் அல்ல என்பது நாட்டு மக்களுக்கு நிரூபிக்கப்பட்டுள்ளது. பொருளாதாரத்தை மீட்டெடுக்க ஜனாதிபதி ரணில் விக்கிரமசிங்க வழங்கிய தலைமைத்துவத்தைப் பாராட்ட வேண்டும்.
+
+நாட்டில் ஏற்பட்டுள்ள பொருளாதார நெருக்கடியைத் தீர்ப்பதற்கு மிகவும் திறமையான மற்றும் பொருத்தமான தலைவர் ஜனாதிபதி ரணில் விக்கிரமசிங்க என்பதை இதுவரை அடைந்துள்ள முன்னேற்றம் உறுதிப்படுத்துகிறது. பொருளாதார நெருக்கடியை மிகவும் திறமையாக சமாளித்தார். எனவே, அவரது தலைமை தொடர்ந்தும் நாட்டுக்குத் தேவை என்றார். (a)
+
+◼️
+
+[Data](articles/e8ca68a9.json)
+
+---
+
 ### Colombo Lions, Westton Lion Corporations in Wellawatte
 
 *2024-04-02 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180194) · `ta`
@@ -587,6 +635,22 @@ Members of the Lions Club, the Municipal Council, can be used to clean the plast
 [Data](articles/fcf11725.json)
 
 [Extended Data](ext_articles/fcf11725.ext.json)
+
+---
+
+### காஸா சிறுவர் நிதியத்திற்கு நன்கொடை
+
+*2024-04-02 01:10:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காஸா-சிறுவர்-நிதியத்திற்கு-நன்கொடை/175-335488) · `ta`
+
+காஸா பகுதியில் இடம்பெறும் மோதல்களினால் பாதிக்கப்பட்ட சிறுவர்களுக்காக இலங்கை அரசாங்கத்தின் ஒரு மில்லியன் அமெரிக்க டொலர் நன்கொடையை ஐக்கிய நாடுகள் சபையின் உத்தியோகபூர்வ முகவர் நிறுவனத்தின் ஊடாக பாலஸ்தீன அரசாங்கத்திடம் கையளிக்கும் நிகழ்வு நேற்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+
+இதற்கான காசோலை ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் இலங்கைக்கான பலஸ்தீன தூதுவர் கலாநிதி சுஹேர் ஹம்தல்லாஹ் ஸைதிடம் உத்தியோகபூர்வமாக கையளிக்கப்பட்டது.
+
+ஜனாதிபதி அலுவலகத்தில் நேற்று நடைபெற்ற காசோலை கையளிக்கும் நிகழ்வில், வெளிவிவகார அமைச்சர் ஜனாதிபதி சட்டத்தரணி அலி சப்ரி, ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க, வெளிவிவகார அமைச்சின் செயலாளர் அருணி விஜேவர்தன மற்றும் இலங்கைக்கான பலஸ்தீன தூதரக சிரேஷ்ட அதிகாரிகள் உள்ளிட்டோர் கலந்துகொண்டனர். (a)
+
+◼️
+
+[Data](articles/d214ba10.json)
 
 ---
 
@@ -1466,6 +1530,24 @@ The case was brought by Pakistan’s anticorruption agency, which accused Khan a
 
 ---
 
+### මහ බැංකුවේ වැටුප් වැඩිවීම සමාලෝචනයට ජනපතිගෙන් ස්වාධීන පාරිශ්‍රමික කමිටුවක්
+
+*2024-04-01 19:07:34* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකුවේ-වැටුප්-වැඩිවීම-සමාලෝචනයට-ජනපතිගෙන්-ස්වාධීන-පාරිශ්‍රමික-කමිටුවක්/11-408890) · `si`
+
+රජයේ මුදල් පිළිබඳ කාරක සභාවේ නිර්දේශ මත පදනම්ව ශ්‍රී ලංකා මහ බැංකුවේ වැටුප් වැඩිවීම සමාලෝචනය කිරීම සඳහා මුදල් ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යවරයා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ස්වාධීන පාරිශ්‍රමික කමිටුවක් පත් කර තිබේ.
+
+රජයේ මුදල් කාරක සභාව හා ශ්‍රී ලංකා මහ බැංකුව අතර සිදු වූ සියලු ලිපි ගණුදෙනු මත පදනම්ව,  ශ්‍රී ලංකා මහ බැංකුවේ ස්වාධීනත්වයට හානියක් නොවන පරිදි ගැටළුවට සාධාරණ විසඳුමක් සහිතව සහ ශ්‍රී ලංකා මහ බැංකුවේ 2024-2026
+
+වැටුප් සංශෝධනය ශීර්ෂය සහිත 2024-03-16 දිනැති ශ්‍රී ලංකා මහ බැංකුවේ ලිපියට විශේෂ අවධානයක් යොමු කරමින් සාකච්ඡාවට තුඩු දී ඇති වැටුප් වැඩි කිරීම සලකා බැලීම සඳහා මුදල් අමාත්‍යවරයා ලෙස ජනාධිපතිවරයා විසින් මෙම කමිටුව පත් කර තිබේ.
+
+දිනේෂ් ස්ටීවන් වීරක්කොඩි, අර්ජුන හේරත්, ආචාර්ය ඉන්ද්‍රජිත් කුමාරස්වාමි, සුධර්මා කරුණාරත්න, ඇන්තනී නිහාල් ෆොන්සේකා, අනුෂ්ක එස්. විජේසිංහ, දුමින්ද හුලංගමුව යන මහත්ම මහත්මීන් මෙම කමිටුවේ සාමාජිකයන් ලෙස පත් කර ඇත.
+
+...
+
+[Data](articles/b6428f80.json)
+
+---
+
 ### The train carrying fuel to Katunayake is in a terrible accident
 
 *2024-04-01 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195184) · `si`
@@ -2125,95 +2207,5 @@ A bond maturing on 15.12.2028 closed stable at 12.10/20 percent. (Colombo/Apr1/2
 [Data](articles/b1ada02c.json)
 
 [Extended Data](ext_articles/b1ada02c.ext.json)
-
----
-
-### President to review the increase in salary increase
-
-*2024-04-01 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195179) · `si`
-
-President Ranil Wickremesinghe appointed an independent remuneration committee, including Dinesh Stewen Weerakkody and others, to review salary increases. The committee, appointed by the Minister of Finance, will consider salary adjustments for the Central Bank of Sri Lanka until 2024-03-16.
-
-🟩
-
-Based on the recommendations of the Committee of the Committee of the Committee, President Ranil Wickremesinghe has appointed an independent remuneration as the Minister of Economic Standing and National Policies.
-
-Dinesh Stewen Weerakkody, Arjuna Herath, Dr. Indrajith Kumaraswamy, Sudhirma Karunaratne, Anthony Nihal Fonseka, Antonny Nihal Fonseka. Mrs. Wijesinghe, Duminda Hulangamuwa have been appointed as members of the committee.
-
-Government Finance Committee and all correspondence between the Central Bank of Sri Lanka with a fair solution to the Central Bank of Sri Lanka with a fair solution to the Central Bank of Sri Lanka with a fair to 2024-03-16.The committee has been appointed as the Minister of Finance to considering the salary minister that has been paid to the respective Bank's letter.
-
-◼️
-
-[Data](articles/3132ce71.json)
-
-[Extended Data](ext_articles/3132ce71.ext.json)
-
----
-
-### Benefits of Aswesuma Beneficiaries of Kegalle, Nuwara Eliya, Badulla, Polonnaruwa District
-
-*2024-04-01 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180169) · `ta`
-
-Aswesuma beneficiaries in Kegalle, Nuwara Eliya, Badulla, and Polonnaruwa Districts will receive Rs. 2500 each, with payments before New Year. Issues caused by selection process will be resolved within a week.
-
-🟩
-
-Beneficiaries who qualified to receive Rs.. Finance Minister Ranjith Siyambalapitiya said that steps will be taken to make the payments before the New Year.
-
-The crisis was caused by the fact that the beneficiaries in these districts were selected, and the number of people who received the lower points were included in the name of the name of the districts.
-
-However, all these problems will be addressed within the first week of this month. 2500 rupees will be paid free of charge. Minister of State Ranjith Siyambalapitiya added that the consensus was reached at a meeting of the Assuming Welfare Council last week.
-
-◼️
-
-[Data](articles/b941dba2.json)
-
-[Extended Data](ext_articles/b941dba2.ext.json)
-
----
-
-### Health workers and nurses in Nuwara Eliya in Nuwara Eliya
-
-*2024-04-01 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/180167) · `ta`
-
-Nurses in Nuwara Eliya protested at the District Hospital, demanding salary and uniform allowance issues be resolved. They threatened continued protests if demands aren't met.
-
-🟩
-
-The protest was launched at the Nuwara Eliya District Hospital on Monday (01) in support of all the nurse's decision to withdraw from the duty for three hours and engage in union activities.
-
-Nurse officials working at the Nuwara Eliya District Hospital were carried out in front of the main entrance of the hospital.
-
-The protesters were involved in the struggle demanding a solution to many issues, including the payment of salaries and uniform allowances.
-
-They said that the President should immediately intervene and resolve the problems of the nurses, and that if their demands are not resolved, they will continue to carry out protests.
-
-◼️
-
-[Data](articles/508a70c6.json)
-
-[Extended Data](ext_articles/508a70c6.ext.json)
-
----
-
-### Sri Lanka president appoints independent committee to review central bank salary hike
-
-*2024-04-01 16:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-appoints-independent-committee-to-review-central-bank-salary-hike-156829/) · `en`
-
-ECONOMYNEXT — President Ranil Wickremesinghe has appointed an Independent Remuneration Committee that includes former governor Indrajit Coomaraswamy to review a controversial salary increase at the Central Bank of Sri Lanka (CBSL).
-
-An official from the President’s Media Division (PMD) said the committee was formed by Wickremesinghe in his capacity as Minister of Finance, on the recommendation of parliamentary Committee on Public Finances (CoPF).
-
-The committee comprises Dinesh Stephen Weerakoddy, Arjuna Herath, former central bank governor Indrajit Coomaraswamy, Sudharma Karunarathne, Anthony Nihal Fonseka, Anushka S Wijesinha and Duminda Hulangamuwa.
-
-The CoPF on March 20 recommended the suspension of a steep salary hike the for the central staff.
-
-The central bank paid its staff salary hikes of 70 percent or more after the latest currency crisis it triggered by rate cuts, impoverishing a large section of the population.
-
-...
-
-[Data](articles/d37a8d6e.json)
-
-[Extended Data](ext_articles/d37a8d6e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 13:03:18**
+As of **2024-04-02 13:18:25**
 
 ## Newspaper Stats
 
-*Scraped **16,582** Articles*
+*Scraped **16,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,94 @@ newsfirstlk | 363
 dailyftlk | 895
 economynextcom | 912
 islandlk | 924
-adalk | 1,392
-tamilmirrorlk | 1,977
-adaderanalk | 1,993
-virakesarilk | 2,366
-dailymirrorlk | 2,548
+adalk | 1,394
+tamilmirrorlk | 1,978
+adaderanalk | 1,994
+virakesarilk | 2,368
+dailymirrorlk | 2,550
 adaderanasinhalalk | 2,687
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,580 (100.0%) of 16,582 articles have been extended.
+16,582 (100.0%) of 16,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### පාසල් දැරියන්ට සනීපාරක්ෂක තුවා ලබාදීමේ වැඩසටහනට කැබිනට් අනුමැතිය
+### இலவச சானிட்டரி நாப்கின் வழங்கும் திட்டத்துக்கு அனுமதி
+
+*2024-04-02 13:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலவச-சானிட்டரி-நாப்கின்-வழங்கும்-திட்டத்துக்கு-அனுமதி/175-335506) · `ta`
+
+தெரிவு செய்யப்பட்ட பாடசாலைகளை சேர்ந்த மாணவிகளுக்கு சானிட்டரி நாப்கின் வழங்கும் திட்டத்துக்கு அமைச்சரவை அனுமதி அளித்துள்ளது.
+
+வறுமைக் கோட்டுக்கு உட்பட்ட பாடசாலைகளில் கல்வி பயிலும் 800,000 மாணவிகளுக்கு இவ்வாறு இலவச சானிட்டரி நாப்கின் வழங்கப்படவுள்ளது.
+
+ஏப்ரல் மாதம் முதல் இந்த திட்டத்தை நடைமுறைப்படுத்த கல்வி அமைச்சர் சுசில் பிரேம்ஜயந்த பிரேரணை முன்வைத்திருந்தார்.
+
+◼️
+
+[Data](articles/2cf0a857.json)
+
+---
+
+### இந்தியாவிலிருந்து சட்டவிரோதமாக  கொண்டுவரப்பட்ட பீடி இலைகளுடன் ஒருவர் கைது
+
+*2024-04-02 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/180228) · `ta`
+
+புத்தளம் மாம்புரி பகுதியிலிருந்து மதுரங்குளி பகுதிக்கு அனுமதிப்பத்திரமில்லாமல் சட்டவிரோதமாக பீடி இலைகளைக் கொண்டு செல்ல முற்பட்ட ஒருவர் புத்தளம் பிராந்திய பொலிஸ் குற்றப் புலனாய்வுப் பிரிவினர் இன்று அதிகாலை கைது செய்துள்ளனர்.
+
+இவ்வாறு அனுமதிப்பத்திரமின்றி சட்டவிரோதமாக பீடி இலைகளைக் கொண்டு செல்ல உள்ளதாக புத்தளம் பிராந்திய மூத்த கண்காணிப்பு பொலிஸ் அதிகாரிக்கு கிடைக்கெப்பெற்ற இரகசியத் தகவலுக்கமைய புத்தளம் பிராந்திய பொலிஸ் குற்றப்புலனாய்வுப் பிரிவினரினால் மாம்புறி திடல் பகுதியில்  லொறியினை மறைத்து சோதனைக்கு உற்படுத்தியுள்ளனர். இதன்போது சுமார் 49 உரைகளில் 1,435 கிலோ கிராம் பீடி இலைகள் கைப்பற்றப்பட்டுள்ளது.
+
+இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபர் மதுரங்குளிப் பகுதியைச் சேர்ந்தவரென பொலிஸ் குற்றப்புலனாய்வுப் பிரிவினர் தெரிவித்தனர்.
+
+கைப்பற்றப்பட்ட பீடி இலைகள் சுமார் ஒரு கோடி ரூபாவிற்கும் அதிக பெறுமதியென தெரிவிக்கப்படுகின்றது.
+
+குறித்த பீடி இலைகள் இந்தியாவிலிருந்து அனுமதிப்பத்திரமின்றி சட்டவிரோதமாக கடல்மார்க்கமாக கொண்டுவரப்பட்டுள்ளதாக பொலிஸ் குற்றப்புலனாய்வுப் பிரிவினர் தெரிவித்தனர்.
+
+...
+
+[Data](articles/c3c3510e.json)
+
+---
+
+### இஸ்ரேலின் தாக்குதலில் அமெரிக்க தொண்டு நிறுவன ஊழியர்கள் 7 பேர் பலி
+
+*2024-04-02 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180226) · `ta`
+
+காஸாவில் இஸ்ரேல் நடத்திய தாக்குதலில், வெளிநாட்டவர்கள் உட்பட  தனது ஊழியர்கள் 7 பேர் உயிரிழந்துள்ளனர் என அமெரிக்காவை தளமாகக் கொண்ட வேர்ல்ட் சென்ட்ரல் கிச்சன் எனும் தொண்டு நிறுவனம் இன்று தெரிவித்துள்ளது.
+
+சைப்பிரஸிலிருந்து கடல்வழியாக அனுப்பப்பட்ட உணவுப்பொருட்களை களஞ்சியமொன்றில் இறக்கிவிட்டு வாகனங்களில் சென்றுகொண்டிருந்தபோது இத்தாக்குதல் நடத்தப்பட்டதாக  வேர்ல்ட் சென்ட்ரல் கிச்சன் நிறுவனம் தெரிவித்துள்ளது.
+
+அவுஸ்திரேலியா, போலந்து, பிரிட்டன் நாடுகளைச் சேர்ந்தவர்களுடன்; அமெரிக்க கனேடிய இரட்டைப் பிரஜாவுரிமையைக் கொண்ட ஒருவர் மற்றும் பலஸ்தீனியர் ஒருவர் இச்சம்பவத்தில் உயிரிழந்தனர் என அந்நிறுவனம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/58f4ed4a.json)
+
+---
+
+### Cabinet approval for school girls to provide hygiene towels
 
 *2024-04-02 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195209) · `si`
 
-පාසල් සිසුවියන් සඳහා සනීපාරක්ෂක තුවා ලබාදීමේ වැඩසටහන ක්‍රියාත්මක කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+The Cabinet has approved a Sanitary Towels Program for schoolgirls in Sri Lanka, targeting 800,000 students in urban, isolated, estate, and poverty-stricken schools.
 
-ශ්‍රී ලංකාවේ සමස්ත ශිෂ්‍ය ජනගහනය මිලියන 04ක් පමණ වන අතර ඒ තුළ වැඩිවියට පත් ශිෂ්‍යාවන් මිලියන 1.2ක් පමණ වන බවට ගණනය කරනු ලැබ ඇත.
+🟩
 
-එම ශිෂ්‍යාවන් අතුරින් අති දුෂ්කර පාසල්, දුෂ්කර පාසල්, හුදෙකලා පාසල්, වතු පාසල් හා දරිද්‍රතා සිසු සිසුවියන් සහිත නාගරික පාසල්වල ඉගෙනුම ලබන ශිෂ්‍යාවන් 800,000කට මෙම වසරේ අප්‍රේල් මස සිට ක්‍රියාත්මක වන පරිදි වාර්ෂිකව සනීපාරක්ෂක තුවා නොමිලේ ලබා දීමේ වැඩසටහනක් ක්‍රියාත්මක කිරීමට අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජය්න්ත් මහතා ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+Cabinet approval has been approved to implement the Sanitary Towels Program for schoolchildren.
+
+The total number of student population in Sri Lanka is about 4 million and is estimated to reach around 1.2 million years of age.
+
+Minister of Education Susil Premajandh offers a free delivery program for 800,000 students in urban schools, isolated schools, estate schools, estate schools and poverty.The proposal was given to the Cabinet approval.
 
 ◼️
 
 [Data](articles/cea1a19c.json)
+
+[Extended Data](ext_articles/cea1a19c.ext.json)
 
 ---
 
@@ -84,6 +142,62 @@ According to the government, out of Sri Lankan’s student population, which amo
 
 [Data](articles/b36d6416.json)
 
+[Extended Data](ext_articles/b36d6416.ext.json)
+
+---
+
+### Govt. to provide free sanitary napkins to schoolgirls from April
+
+*2024-04-02 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98368/govt-to-provide-free-sanitary-napkins-to-schoolgirls-from-april) · `en`
+
+The government has decided to provide free-of-charge sanitary napkins to schoolgirls starting this month.
+
+At its meeting on Monday (01), the Cabinet of Ministers green-lighted a proposal presented by Education Minister Susil Premajayantha to carry out the program annually.
+
+Thereby, as many as 800,000 schoolgirls from rural schools, remote schools, estate schools, and urban schools with poverty-stricken students, will thus be provided with sanitary napkins free of charge.
+
+According to the government, out of Sri Lankan’s student population, which amounts to approximately 4 million, a total of 1.2 million are menstruating schoolgirls.
+
+Last month, the PublicFinance.lk revealed that sanitary napkins are subjected to unreasonably high taxes in Sri Lanka, which amounts to 47.1% as opposed to 30.6% on gold jewellery, 22.3% raw silk, and 22.3% golf clubs, golf balls and military artillery weapons.
+
+...
+
+[Data](articles/d579b288.json)
+
+---
+
+### තම දරුවගේ පන්තියේ දරුවකු උස්සා කප්පම් ගන්න හැදූ මවක් අත්තඩංගුවට
+
+*2024-04-02 12:16:35* · [`adalk`](https://www.ada.lk/breaking_news/තම-දරුවගේ-පන්තියේ-දරුවකු-උස්සා-කප්පම්-ගන්න-හැදූ-මවක්-අත්තඩංගුවට/11-408897) · `si`
+
+රුපියල් ලක්ෂ පහක කප්පම් මුදලක් ඉල්ලා බටපොල පදේශයේ  නව වසරේ පාසල් ශිෂයකු උස්සන බවට  පවසමින් නිතර නිතර දුරකතන ඇමතුම් දුන් කාන්තාවක් ඊයේ 01දා කොස්ගොඩදී සැකපිට පශ්න කිරීම සදහා බටපොළ පොලීසියට රැගෙන ආ බව කියයි.
+
+මෙසේ සැකපිට පශ්න කිරීම සදහා අත් අඩංගුවට ගනු ලැබූවේ අම්බලන්ගොඩ පධාන පාසලක නව වසරේ ඉගෙනුම ලබන පාසල් සිසුවකුගේ මවත් බවත් ඇය මෙසේ කප්පම් මුදල් ඉල්ලා ඇත්තේ සිය පුතු ඉගෙනුම ලබන පාසලේම එකම පංතියේ ඉගෙනුම ලැබූ හොදම මිතුරාගේ මවගෙන් බවත් පොලීසිය කියයි.
+
+පැහැර ගන්නේ යයි කියන බටපොළ පදිංචි සිසුවාගේ මවට යමක් කමක් තිබෙන බවත් එය සැලකිල්ලට ගනිමින් සැකකාරිය මේ මවට වෙනත් දුරකතනයකින් ඇයගේ ජංගම දුරකතනයට ඇමතුම්දී රුපියල් ලක්ෂ පහක කප්පම් මුදලක් ලබා නොදේනම් සිසුවා පැහැරගෙන ගොස් මරා දමන බවට තර්ජනය කරමින් දුරකතන ඇමතුම් ලබාදී ඇති බවට මූලික විමර්ශනවලදී අනාවරණයවූ බවත් පොලීසිය කියයි.
+
+මේ කප්පම් ඉල්ලීමේ සිද්ධියේ ලබාදුන් බව හා ලැබුණු දුරකතන ඇමතුම්වල දත්ත විශ්ලේෂණය කිරීමෙන් අනතුරුව මේ කප්පම් සිද්ධියේ සැකකාරිය හදුනා ගැනීමට හැකිවූ බව ද පොලීසිය කියයි.
+
+...
+
+[Data](articles/94df4338.json)
+
+---
+
+### Not possible to suspend liquor license for long: State Minister
+
+*2024-04-02 12:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Not-possible-to-suspend-liquor-license-for-long-State-Minister/108-280030) · `en`
+
+Parliament, April 2 (Daily Mirror)- It is not possible to suspend liquor licenses for a long period as the government loses revenue in such an eventuality, State Minister of Finance Ranjith Siyambalapitiya told Parliament today.
+
+The State Minister said this in response to an allegation by Leader of the Opposition Sajith Premadasa that licenses have been given back to liquor companies even before they had settled the default taxes.
+
+Also, the State Minister said the ground situation with regard to the tax default is different from what has been revealed by the Ways and Means Committee.
+
+◼️
+
+[Data](articles/e0705d81.json)
+
 ---
 
 ### Wimal requests foreign conspiracies during the struggle
@@ -109,6 +223,22 @@ Also, the two cases during the struggle was also requested to hold a two-day par
 [Data](articles/c9d1dde1.json)
 
 [Extended Data](ext_articles/c9d1dde1.ext.json)
+
+---
+
+### Order on Ven. Gnanasara Thera’s bail request to be delivered today
+
+*2024-04-02 12:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Order-on-Ven-Gnanasara-Theras-bail-request-to-be-delivered-today/108-280027) · `en`
+
+Colombo, April 2 (Daily Mirror) - Colombo High Court Judge Adithya Patabendige has scheduled for 12.30 p.m. today the delivery of its order regarding the bail application filed on behalf of Bodu Bala Sena (BBS) General Secretary Ven. Galaboda Atte Gnanasara Thera, who was sentenced to four years of rigorous imprisonment.
+
+On March 28, Ven. Gnanasara Thera was convicted for making a hate speech by insulting the religious beliefs of the Muslim community.
+
+President's Counsel Maithri Gunaratne appearing on behalf of Ven. Gnanasara Thera sought bail in terms of Section 20(2) of the Bail Act (No.30 of 1997), requesting to release Ven. Gnanasara Thera since an appeal had been filed against the conviction.
+
+◼️
+
+[Data](articles/ce4821bd.json)
 
 ---
 
@@ -359,6 +489,18 @@ The President has made the appointment in accordance with the provisions of the 
 [Data](articles/eedd5993.json)
 
 [Extended Data](ext_articles/eedd5993.ext.json)
+
+---
+
+### ජනපතිගෙන් තවත් පත්කිරීමක්
+
+*2024-04-02 11:19:45* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගෙන්-තවත්-පත්කිරීමක්/11-408896) · `si`
+
+නව දූෂණ විරෝධී පනත යටතේ අල්ලස් හෝ දූෂණ චෝදනා විමර්ශනය කිරීමට අදාළ කොමිෂමේ නව අධ්‍යක්ෂ ජනරාල් වරයා ලෙස කේ.ඩී. විජේරත්න මහතා පත්කිරිමට ජනපති රනිල් වික්‍රමසිංහ මහතා කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/694f9edf.json)
 
 ---
 
@@ -2069,145 +2211,5 @@ S. Ramanujam, a retired former Senior Administrative Officer of the Indian gover
 [Data](articles/f2d1c539.json)
 
 [Extended Data](ext_articles/f2d1c539.ext.json)
-
----
-
-### 2024-04-01 (Monday)
-
-### Enhancing future-proof competencies: Education for excellence
-
-*2024-04-01 23:30:43* · [`dailyftlk`](https://www.ft.lk/columns/Enhancing-future-proof-competencies-Education-for-excellence/4-760185) · `en`
-
-It is heartening to see some serious efforts are being made to reform the education system in Sri Lanka. Fulfilling a long overdue, launching of a STEAM (Science, Technology, Engineering, Arts and Mathematics) initiative is also a welcome move. Despite the resource constraints, socio-economic challenges, amidst political inconstancies, uplifting our education system is commendable. Let me reflect on 10 essential competencies for future-proof Sri Lankans in making them competitive locally, regionally, and globally. Today’s column is a reflection on 10 future-proof competencies for Sri Lankans.
-
-...
-
-[Data](articles/3c5da2f4.json)
-
-[Extended Data](ext_articles/3c5da2f4.ext.json)
-
----
-
-### “A single window for all investments that simplifies investment”
-
-*2024-04-01 23:27:25* · [`dailyftlk`](https://www.ft.lk/business/A-single-window-for-all-investments-that-simplifies-investment/34-760184) · `en`
-
-Board of Investment (BOI) and Port City Economic Commission Chairman Dinesh Weerakkody in this interview responds to some of the questions posed covering the investment challenges facing the country.
-
-Q: Why does Sri Lanka get less FDI than most regional neighbours?
-
-A: According to most credible surveys carried out, the main drivers of investment decisions are political and macroeconomic stability and the country’s regulatory and business environment. Excluding the civil conflict and the pandemic, policy inconsistency has impacted Sri Lanka’s investment climate significantly. Even prior to the recent economic crisis, Sri Lanka had a tendency of changing key policies. This has resulted in investors facing practical difficulties in running their businesses, especially with respect to the tax regime of the country.
-
-...
-
-[Data](articles/3c22da6a.json)
-
-[Extended Data](ext_articles/3c22da6a.ext.json)
-
----
-
-### Enterprise leadership: Catalysing value through innovation
-
-*2024-04-01 23:25:21* · [`dailyftlk`](https://www.ft.lk/business/Enterprise-leadership-Catalysing-value-through-innovation/34-760183) · `en`
-
-“Innovation is the commercialisation of invention, it is a tool for business,” opined InQube Global Founder and Managing Director Dilan Gooneratne speaking to an audience of Company Directors and senior corporate executives. Enterprise leadership: Catalysing value through Innovation, organised by the Innovation and Technology Committee of the Sri lanka Institute of Directors (SLID), explored the role innovation can play in deriving a strategic advantage, and the eco-system needed to foster and facilitate innovation in an organisation.
-
-...
-
-[Data](articles/49228494.json)
-
-[Extended Data](ext_articles/49228494.ext.json)
-
----
-
-### Sri Lanka exporters protest rupee appreciation, forced conversion rules
-
-*2024-04-01 23:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-exporters-protest-rupee-appreciation-forced-conversion-rules-156862/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s export associations have protested the recent sharp appreciation of the rupee saying forex conversion rules have been forced on them and some costs are not falling in line with rupee gains, leading to a loss of cost competitiveness.
-
-Sri Lanka’s central bank is operating a de facto pegged exchange rate where the agency’s domestic assets are being reduced against dollar purchases (reversing ‘money printing’), triggering a balance of payments surplus, allowing the exchange rate to be appreciated if the agency wishes, analysts have shown.
-
-There is however a widespread belief that suspending debt repayments have helped appreciate the rupee, though the financial account turned into a deficit in the last quarter of 2022, just as monetary stability was restored allowing out payments to be made and reserves to be collected.
-
-...
-
-[Data](articles/20731029.json)
-
-[Extended Data](ext_articles/20731029.ext.json)
-
----
-
-### Increased AGIV/ AIDS infection in Sri Lanka
-
-*2024-04-01 23:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180190) · `ta`
-
-AGIV/AIDS infection rates in Sri Lanka have risen, with 607 new cases in 2022, up from 5,011 total infections. Deaths from AGIV/AIDS-related factors in 2022 were 660,000 globally, with 271 in Sri Lanka. Despite declining deaths in 2023, the number of infections increased by 13%. Sri Lanka aims to end AIDS by 2030, but challenges remain due to insufficient sex education and awareness.
-
-🟩
-
-AGIV and AIDS are identified as important in the world's most challenging infections. The number of people who suffer from this infection all over the world can be seen as a mutant increase. Although modern medical treatment and awareness have increased their self -confidence and quality of life, the increase of infectious people makes the need for more essential programs.
-
-According to the World Health Organization's report, 39 million people live infected by the end of 2022. Of these, 1.5 million are boys.More than 1.3 new infections have been identified in the equal year.53 percent of the total number of infectious women. 630000 deaths due to AGIV / AIDS related factors in 2022. Since 2010, AIDS -related deaths have declined to 55% for women and girls and 47% among men and children.
-
-...
-
-[Data](articles/be6ec271.json)
-
-[Extended Data](ext_articles/be6ec271.ext.json)
-
----
-
-### Professional accountants: Best equipped and placed in fighting bribery and corruption
-
-*2024-04-01 23:00:56* · [`dailyftlk`](https://www.ft.lk/columns/Professional-accountants-Best-equipped-and-placed-in-fighting-bribery-and-corruption/4-760182) · `en`
-
-A distinguishing mark of the accounting profession is its acceptance of the responsibility to act in the public interest. In this battle against bribery, corruption and accounting malfeasance, The Institute of Chartered Accountants, Sri Lanka (ICASL) and other Professional Accounting Organisations (PAOs), present and operating in Sri Lanka, can play a more active role in empowering their members to doing what is ethical
-
-...
-
-[Data](articles/37bcbaca.json)
-
-[Extended Data](ext_articles/37bcbaca.ext.json)
-
----
-
-### A worthy cause
-
-*2024-04-01 22:44:00* · [`islandlk`](http://island.lk/a-worthy-cause/) · `en`
-
-This scene, ‘Waggoners Musical Extravaganza 2024’, is for a worthy cause as the proceeds from the event will support social welfare projects of the Army Seva Vanitha Unit.
-
-Organised by the Army Service Corps Seva Vanitha Branch, ‘Waggoners Musical Extravaganza 2024’ will feature the group Infinity along with Sanuka, Falan, Vindi, JAYASRI, and Centigradz.
-
-This concert will be held on 5th April at the Lotus Tower Outdoor Arena, from 8 pm onwards.
-
-The show will also feature dance performances by the One Step Dance troupe
-
-The lineup of artistes look interesting and since it’s for a worthy cause, it would be nice to see music lovers checking out this scene.
-
-Positioning the idea of Sri Lankan English in the field of English language teaching in Sri Lanka
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/9c097700.json)
-
-[Extended Data](ext_articles/9c097700.ext.json)
-
----
-
-### Positioning the idea of Sri Lankan English in the field of English language teaching in Sri Lanka
-
-*2024-04-01 22:29:00* · [`islandlk`](http://island.lk/positioning-the-idea-of-sri-lankan-english-in-the-field-of-english-language-teaching-in-sri-lanka/) · `en`
-
-...
-
-[Data](articles/20395578.json)
-
-[Extended Data](ext_articles/20395578.ext.json)
 
 ---

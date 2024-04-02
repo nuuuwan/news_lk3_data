@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 13:52:38**
+As of **2024-04-02 14:03:24**
 
 ## Newspaper Stats
 
-*Scraped **16,598** Articles*
+*Scraped **16,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,173 @@ dailyftlk | 895
 economynextcom | 912
 islandlk | 924
 adalk | 1,394
-tamilmirrorlk | 1,981
-adaderanalk | 1,994
-virakesarilk | 2,368
-dailymirrorlk | 2,551
-adaderanasinhalalk | 2,690
+tamilmirrorlk | 1,982
+adaderanalk | 1,996
+virakesarilk | 2,374
+dailymirrorlk | 2,554
+adaderanasinhalalk | 2,691
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,595 (100.0%) of 16,598 articles have been extended.
+16,595 (99.9%) of 16,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### මහමැතිවරණයක් ලබාගැනීමේ සටන පොහොට්ටුව අත්නොහරින ලකුණු
+
+*2024-04-02 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195213) · `si`
+
+ප්‍රථමයෙන් ජනාධිපතිවරණයක් පැවැත්වෙන බවට ජනාධිපතිවරයා ඇතුළු පාර්ශව විවිධ ප්‍රකාශ සිදුකළ ද මහ මැතිවරණයක් ලබාගැනීමේ ශ්‍රී ලංකා පොදුජන පෙරමුණේ උත්සාහය මේ වන තෙක් අවසන්ව නොමැති බව දේශපාලන ආරංචි මාර්ග පවසයි.
+
+පොදුජන පෙරමුණ නියෝජනය කරන බොහෝ මන්ත්‍රීවරුන් මාධ්‍ය හමුවලදී මෙන්ම දේශපාලන සාකච්ඡාවලදීද මහ මැතිවරණයක් පැවැත්වීම පිළිබඳ විවිධ අදහස් පළ කරයි.
+
+ඒ අනුව සිංහල අලුත් අවුරුද්දෙන් පසුව කිසියම් දේශපාලන පෙරළියක් සිදුවනු ඇති බව දේශපාලන කේෂ්ත්‍රයේ කතාබහට ලක්ව ඇත.
+
+කෙසේවෙතත් ශ්‍රී ලංකා පොදුජන පෙරමුණේ අමාත්‍යධුර දරන කණ්ඩායමක් ජනාධිපතිවරයා සමඟ එක්ව කටයුතු කළ යුතු බවට පසුගිය දා පැවැති විධායක සභාවේ දී ප්‍රකාශ කර තිබේ.
+
+මෙම ප්‍රකාශයත් සමඟ දැනට අමාත්‍ය ධුර දරන කංචන විජේසේකර, ප්‍රසන්න රණතුංග, බන්දුල ගුණවර්ධන ප්‍රමිත බණ්ඩාර තෙන්නකෝන් ඇතුළු පිරිසක් ඉදිරියේ දී කණ්ඩායමක් ලෙස ජනාධිපතිවරයාට සහය පළ කිරීම සඳහා එක්වනු ඇති බව වාර්තා වේ.
+
+මෙම තත්වය තුළ ශ්‍රී ලංකා පොදුජන පෙරමුණ තවදුරටත් අර්බුදකාරී තත්ත්වයකට පත්ව තිබේ.
+
+...
+
+[Data](articles/c957695c.json)
+
+---
+
+### இரண்டரை மணிநேரம் சபை ஒத்திவைப்பு
+
+*2024-04-02 13:38:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டரை-மணிநேரம்-சபை-ஒத்திவைப்பு/175-335512) · `ta`
+
+வங்கித் திருத்தச் சட்டமூல விவாதத்தில் உரையாற்றுவதற்கு அழைக்கப்பட்ட ஆளும் கட்சி மற்றும் எதிர்கட்சி உறுப்பினர்கள் இல்லாததால், பிரதி சபாநாயகர்  அஜித் ராஜபக்ஷ, சபை நடவடிக்கைகளை இன்று (02) மாலை 4 மணி வரை ஒத்திவைத்தார்.
+
+எதிர்க்கட்சி உறுப்பினர்கள் பதினைந்து பேரின் பெயர்களையும் ஆளும் கட்சி உறுப்பினர்கள் 6 பேரின் பெயர்களையும் கூறி அழைத்த போதிலும் அவர்களில் உறுப்பினர் ஒலுவலட கூட சபையில் இருக்கவில்லை. இதனையடுத்து, சபையின் பணிகள் தற்காலிகமாக இடைநிறுத்தப்பட்டதாக பிரதி சபாநாயகர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/95febde1.json)
+
+---
+
+### பின்லாந்து பாடசாலையில் பிள்ளையின் துப்பாக்கிச் சூட்டில் மூவர் காயம்
+
+*2024-04-02 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180236) · `ta`
+
+பின்லாந்திலுள்ள ஆரம்ப்ப பாடசாலையொன்றில் இன்று ஒரு பிள்ளை நடத்திய துப்பாக்கிச்  சூட்டில் 3 சிறார்கள் காயமடைந்துள்ளனர்.
+
+◼️
+
+[Data](articles/6c56bfd1.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-04-02 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180237) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (ஏப்ரல் 02) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 295.2015 ஆகவும் விற்பனை விலை ரூபா 304.9073 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/7c1e24e6.json)
+
+---
+
+### Cabinet approves providing free sanitary pads for 800,000 remote school students
+
+*2024-04-02 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-approves-providing-free-sanitary-pads-for-800-000-remote-school-students/108-280037) · `en`
+
+Colombo, April 2 (Daily Mirror) - Cabinet approval was granted to implement a programme to provide sanitary pads free of charge annually from April 2024 to 800,000 female students studying in most remote schools.
+
+The sanitary pads will be distributed among 1.2 million female students who have attained age in remote, isolated, estate and urban schools attended by poor female students.
+
+The total student population in Sri Lanka amounts to four million.
+
+◼️
+
+[Data](articles/cdbf0a2c.json)
+
+---
+
+### Cabinet approves contract for four aircraft to Sri Lankan Aviation Company
+
+*2024-04-02 13:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-approves-contract-for-four-aircraft-to-Sri-Lankan-Aviation-Company/108-280036) · `en`
+
+Colombo, April 2 (Daily Mirror) - Cabinet granted approval to award the contract for obtaining two out of the five required wide-body aircraft for Sri Lankan Aviation Company Limited under the operational lease scheme.
+
+Addressing the media, Cabinet spokesman and Minister Bandula Gunawardana said the decision was taken based on the recommendations of the Technical Evaluation Committee (TEC) and the Standing Procurement Committee.
+
+The resolution was furnished by the Ports, Shipping and Aviation Services Minister to award the contract for obtaining four wide-body aircraft on a monitoring lease facility, along with an additional aircraft.
+
+Accordingly, the relavant contracts to obtain two aircraft from Orix Aviation for a monthly lease of USD 360,000 for a period of six years and another contract relevant to obtaining two aircraft from Aergo Capital Limited for a monthly lease of USD 365,000 for a period of eight years were approved.
+
+◼️
+
+[Data](articles/7ab5dd83.json)
+
+---
+
+### யாழ்.போதனா வைத்தியசாலையில் சுகாதாரத் தொழிற்சங்கத்தினர் போராட்டம்
+
+*2024-04-02 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180234) · `ta`
+
+நாடளாவிய ரீதியில் 72 சுகாதார தொழிற்சங்கங்கள் இன்று செவ்வாய்க்கிழமை 04 மணி நேரம் தமது சேவையில் இருந்து விலகி தொழிற்சங்க நடவடிக்கையில் ஈடுபட்டனர்.
+
+அதற்கு ஆதரவாக யாழ்ப்பாணம் போதனா வைத்தியசாலையில் போராட்டம் முன்னெடுக்கப்பட்டது. காலை 08 மணி முதல் மதியம் 12 மணி வரையில் சேவையில் இருந்து விலகி தொழிற்சங்க நடவடிக்கையில் ஈடுபட்டனர்.
+
+◼️
+
+[Data](articles/975b675a.json)
+
+---
+
+### Gnanasara Thero’s bail application rejected
+
+*2024-04-02 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98370/gnanasara-theros-bail-application-rejected) · `en`
+
+The Colombo High Court on Tuesday (02) rejected the bail application filed by the General Secretary of ‘Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thero, who was earlier sentenced to 4 years of rigorous imprisonment.
+
+◼️
+
+[Data](articles/63ad0c6a.json)
+
+---
+
+### Court refuses bail to Ven. Gnanasara Thera
+
+*2024-04-02 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-refuses-bail-to-Ven-Gnanasara-Thera/108-280035) · `en`
+
+Colombo, April 2 (Daily Mirror) - The Colombo High Court today refused to release Bodu Bala Sena (BBS) General Secretary Ven. Galaboda Atte Gnanasara Thera on bail.
+
+Accordingly, Colombo High Court Judge Adithya Patabendige rejected the bail application filed on behalf of Ven. Gnanasara Thera citing there are no special circumstances revealed before court to release Ven. Gnanasara Thera on bail.
+
+The defence requested court to release Ven. Gnanasara Thera on bail pending appeal and moved court that the accused be released on bail taking into consideration the delay in concluding hearing of an appeal in the Court of Appeal  and his health condition.
+
+◼️
+
+[Data](articles/299cf20f.json)
+
+---
+
+### கலபட- ஹட்டன் ரயில் மார்க்கத்தில் ஆபத்தான மரங்களை அகற்ற நடவடிக்கை
+
+*2024-04-02 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180222) · `ta`
+
+கலபட மற்றும் ஹட்டனுக்கு இடையிலான ரயில் மார்க்கத்தின் இருபுறங்களிலும் உள்ள ஆபத்தான மரங்களை அகற்றுவதற்கு தீர்மானித்துள்ளதாக ரயில் திணைக்களத்தின் அத்தியட்சகர் எஸ்.கொடகே தெரிவித்தார்.
+
+கடந்த மூன்று மாதங்களில்  ஒன்பது தடவைகள் மரங்கள் முறிந்து விழுந்ததன் காரணமாக மலையக மார்க்கத்தில் ரயில் சேவை பாதிக்கப்பட்டதாக அவர் குறிப்பிட்டார்.
+
+எனவே. மலையகத்தில் மழையுடன் கூடிய வானிலை நிலவுவதற்கு முன்னர் மலையக மார்க்கத்திலுள்ள ஆபத்தான மரங்களை வெட்டி அகற்றுவதற்கு தேவையான நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருகின்றன.
+
+◼️
+
+[Data](articles/eb7b2f4b.json)
+
+---
 
 ### පාර්ලිමේන්තු කටයුතු හදිසියේ කල් තැබේ
 
@@ -41,6 +193,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6752a2d3.json)
+
+---
+
+### காசாவில் மனிதாபிமான பணியாளர்கள் கொலை ; ஒருபோதும் ஏற்றுக்கொள்ளப்படமுடியாத விடயம் - அவுஸ்திரேலியா
+
+*2024-04-02 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/180233) · `ta`
+
+காசாவில் அவுஸ்திரேலிய உட்பட உலகநாடுகளின் மனிதாபிமான பணியாளர்கள் கொல்லப்பட்டதை முற்றிலும் ஏற்றுக்கொள்ள முடியாத விடயம் என அவுஸ்திரேலிய பிரதமர் தெரிவித்துள்ளார்
+
+அவர்கள் மிகவும் முக்கியமான மனிதாபிமான பணியில் ஈடுபட்டிருந்தனர் அவர்களை பாதுகாத்திருக்கவேண்டு;ம் என அவர் குறிப்பிட்டுள்ளார்.
+
+மனிதாபிமான பணிகளில் ஈடுபட்டுள்ளவர்களுக்கும் பொதுமக்களிற்கும் பாதுகாப்பை வழங்கவேண்டும் என குறிப்பிட்டுள்ள அன்டனி அல்பெனிஸ் நிரந்தர யுத்த நிறுத்தம் அவசியம் என்ற உறுதியான கொள்கையை அவுஸ்திரேலியா கொண்டுள்ளது இந்த மோதல் முடிவிற்கு வருவதை அவுஸ்திரேலியா விரும்புகின்றது.
+
+இந்த செய்தி துயரமானது இஸ்ரேலிய தூதுவரிடம் விளக்கம் கோரியுள்ளோம் இந்த விடயத்திற்கு பொறுப்புக்கூறப்படவேண்டும் இது ஒருபோதும் இடம்பெற்றிருக்ககூடாத துயரம் என அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/9d32f7f3.json)
 
 ---
 
@@ -57,6 +227,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/cd1a8ea9.json)
+
+---
+
+### Parliamentary session suspended until 4.30pm
+
+*2024-04-02 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98369/parliamentary-session-suspended-until-430pm) · `en`
+
+Parliamentary proceedings have been postponed until 4.30 p.m. today (02) by Deputy Speaker Ajith Rajapakse.
+
+The decision was taken due to the absence of the parliamentarians from both government and opposition sides, who were scheduled to speak during today’s debate.
+
+◼️
+
+[Data](articles/1c856ece.json)
 
 ---
 
@@ -170,31 +354,31 @@ However, there are no special tax concessions for the importation of the vehicle
 
 ---
 
-### Allow free sanitary napkin offering
+### காசாவில் இஸ்ரேலின் தாக்குதலில் அவுஸ்திரேலியாவை சேர்ந்த பெண் மனிதாபிமான பணியாளரும் பலி
 
-*2024-04-02 13:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலவச-சானிட்டரி-நாப்கின்-வழங்கும்-திட்டத்துக்கு-அனுமதி/175-335506) · `ta`
+*2024-04-02 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180230) · `ta`
 
-The Cabinet approved free sanitary napkins for 800,000 students in poverty-stricken schools, starting April, as proposed by Education Minister Susil Premjayantha.
+காசாவில் இஸ்ரேலின் தாக்குதலில் கொல்லப்பட்ட பெண் மனிதாபிமான பணியாளர் லால்சாவ்மி பிராங்கோம் தான் மிகவும் நேசித்த பணியில் ஈடுபட்டிருந்தார் என அவரது குடும்பத்தினர் தெரிவித்துள்ளனர்.
 
-🟩
+எங்களின் துணிச்சலான நேசத்திற்குரிய  ஜோமி தான் மிகவும் நேசித்த காசா மக்களிற்கு உணவை வழங்கும் பணியில் ஈடுபட்டிருந்த வேளை கொல்லப்பட்டார் என்பதை அறிந்து மிகவும் துயரத்தில் சிக்குண்டுள்ளதாக குடும்பத்தினர் தெரிவித்துள்ளனர்.
 
-The Cabinet has granted permission to provide sanitary napkin to students from selected schools.
+அவள் தனது இரக்கம் தைரியம் மற்றும் அன்பின் பாரம்பரியத்தை விட்டுச்செல்வாள் என குடும்பத்தினர் தெரிவித்துள்ளனர்.
 
-Free sanitary napkin will be provided to 800,000 students studying in schools under the poverty line.
+மெல்பேர்னை சேர்ந்த 43 வயதான அந்த மனிதாபிமான பணியாளர் உலகம் முழுவதிற்கும் சென்று உதவிகள் தேவைப்படும் நேரத்தில் அதனை வழங்குவதில் ஆர்வம் காட்டியவர் என குடும்பத்தினர் தெரிவித்துள்ளனர்.
 
-Education Minister Susil Premjayantha had proposed the proposal to implement the project from April.
+காசாவில் இஸ்ரேல் மேற்கொண்ட தாக்குதல் காரணமாக  அவுஸ்திரேலியா பிரிட்டன் அமெரிக்கா உட்பட பலநாடுகளை சேர்ந்த ஏழு மனிதாபிமான பணியாளர்கள் கொல்லப்பட்டுள்ளனர்.
 
-◼️
+புட்எயிட் சரிட்டி என்ற அமைப்பின் மனிதாபிமான பணியாளர்கள் இஸ்ரேலின் தாக்குதல் காரணமாக காசாவில் கொல்லப்பட்டுள்ளனர் வேர்ல்ட் சென்ரல் கிச்சன் அமைப்பு தெரிவித்துள்ளது.
 
-[Data](articles/2cf0a857.json)
+...
 
-[Extended Data](ext_articles/2cf0a857.ext.json)
+[Data](articles/fa77807d.json)
 
 ---
 
 ### One arrested with beedi leaves illegally brought from India
 
-*2024-04-02 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/180228) · `ta`
+*2024-04-02 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180228) · `ta`
 
 The Puttalam Regional Police arrested a person for smuggling 1,435 kg of beedi leaves from India to Sri Lanka, seizing 49 texts. The suspect, from Madurangulipal, faces charges for illegal trafficking.
 
@@ -217,6 +401,28 @@ The beedi leaves seized with the arrested suspect and the lorry used for traffic
 [Data](articles/c3c3510e.json)
 
 [Extended Data](ext_articles/c3c3510e.ext.json)
+
+---
+
+### Allow free sanitary napkin offering
+
+*2024-04-02 13:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலவச-சானிட்டரி-நாப்கின்-வழங்கும்-திட்டத்துக்கு-அனுமதி/175-335506) · `ta`
+
+The Cabinet approved free sanitary napkins for 800,000 students in poverty-stricken schools, starting April, as proposed by Education Minister Susil Premjayantha.
+
+🟩
+
+The Cabinet has granted permission to provide sanitary napkin to students from selected schools.
+
+Free sanitary napkin will be provided to 800,000 students studying in schools under the poverty line.
+
+Education Minister Susil Premjayantha had proposed the proposal to implement the project from April.
+
+◼️
+
+[Data](articles/2cf0a857.json)
+
+[Extended Data](ext_articles/2cf0a857.ext.json)
 
 ---
 
@@ -1957,291 +2163,5 @@ Dissanayake, Alagiy-awanna, and Amaraweera were dismissed from their roles withi
 [Data](articles/e43805cd.json)
 
 [Extended Data](ext_articles/e43805cd.ext.json)
-
----
-
-### Tax offers will lead to losing LKR 978 billion in fiscal year 2022/23
-
-*2024-04-02 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/180197) · `ta`
-
-In 2022/23, Sri Lanka lost LKR 978 billion due to tax concessions, 56% of total tax revenue. The Ministry of Finance's "Tax Expenditure Report" aims to improve transparency. The government plans to list all tax-exempt companies by March 2023, as part of the IMF project.
-
-🟩
-
-The government said on Sunday (March 31) that the tax concessions were earned by a total of 978 billion rupees in the fiscal year 202/23 (April to March).
-
-This is 56% of the total tax revenue collected by the government by 2022.
-
-It was highlighted by Publicfinance.lk, Sri Lanka's first economic intelligence site, maintained by the research research.
-
-The study was published by the Ministry of Finance of Sri Lanka on March 31, 2024, with a document called "Tax Expenditure Report".
-
-The document indicates the government's estimates of the total income lost due to various special target tax concessions provided by Sri Lanka. The document states its aim to "improve transparency in Sri Lanka's financial statements that seek international better practices."
-
-...
-
-[Data](articles/1556288b.json)
-
-[Extended Data](ext_articles/1556288b.ext.json)
-
----
-
-### Examining Sri Lanka’s New ‘Romeo & Juliet Law’: A Departure From The 1995 Age Of Consent Legislation
-
-*2024-04-02 01:36:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/examining-sri-lankas-new-romeo-juliet-law-a-departure-from-the-1995-age-of-consent-legislation/) · `en`
-
-According to an article by Shamindra Ferdinando published in the Island newspaper on March 25, 2024, Dr. Sudarshini Fernandopulle, MP, raised concerns about the lack of consultation with the Women Parliamentarians’ Caucus before the Justice Ministry gazetted a bill on February 9, 2024. This bill aimed to amend Chapter 19 of the Penal Code, proposing a reduction in the age of consent for sexual intercourse to 14 years. Dr. Fernandopulle emphasized that this provision directly relates to the human rights of children, with a specific focus on girls. She highlighted the profound impact such legislation could have on their lives, including implications for health and individual identity. Therefore, she stressed the importance of a cautious and sensitive approach to safeguard children’s rights and well-being.
-
-...
-
-[Data](articles/a45a6310.json)
-
-[Extended Data](ext_articles/a45a6310.ext.json)
-
----
-
-### Health workers and nurses of the Mannar District General Hospital
-
-*2024-04-02 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180196) · `ta`
-
-Nurses at Mannar District Hospital protested for better pay and uniform allowance, demanding Presidential intervention. They threatened continued protests if demands aren't met, echoing similar demands by 72 unions nationwide.
-
-🟩
-
-The protest was launched at the Mannar District Hospital on Monday (01) in support of all the nurses who have decided to withdraw from the duty for three hours and engage in trade union action.
-
-Nurses working at the Mannar District Hospital
-
-Those involved in the struggle went on a protest demanding a solution to many issues, including the salary and uniform allowance of the nurses.
-
-They said that the President should immediately intervene and resolve the problems of health and nurses, and that if their demands are not resolved, they will continue to carry out protests.
-
-The massive protests launched by 72 unions across the country in the past have been put forward by various demands. The additional allowance provided to doctors in the health sector must be given 35 thousand rupees. The struggle is being carried out in front of a legitimate demand for the supply of 72 union members.
-
-...
-
-[Data](articles/1a40437d.json)
-
-[Extended Data](ext_articles/1a40437d.ext.json)
-
----
-
-### China, SL issue joint statement after PM Gunawardena’s visit
-
-*2024-04-02 01:26:53* · [`dailyftlk`](https://www.ft.lk/news/China-SL-issue-joint-statement-after-PM-Gunawardena-s-visit/56-760205) · `en`
-
-At the invitation of Premier of the State Council of the People’s Republic of China Li Qiang, Prime Minister Dinesh Gunawardena paid an official visit to China and attended the Boao Forum for Asia
-
-During the visit, Prime Minister Dinesh Gunawardena called on People’s Republic of China President Xi Jinping, held talks with Premier Li Qiang, and met with National People’s Congress Standing Committee Chairman Zhao Leji. In a cordial and friendly atmosphere, the two sides had in-depth discussions and reached extensive common understandings on bilateral relations and regional and international issues of mutual interest.
-
-...
-
-[Data](articles/6bd2559c.json)
-
-[Extended Data](ext_articles/6bd2559c.ext.json)
-
----
-
-### 53rd Anniversary of Independence and National Day of Bangladesh observed in Colombo
-
-*2024-04-02 01:25:44* · [`dailyftlk`](https://www.ft.lk/news/53rd-Anniversary-of-Independence-and-National-Day-of-Bangladesh-observed-in-Colombo/56-760204) · `en`
-
-The Bangladesh High Commission in Colombo observed the 53rd Anniversary of Independence and National Day of Bangladesh with due fervour and festivities on 26 March.
-
-The observance commenced at the chancery in the morning with ceremonial hoisting of the National Flag by High Commissioner Tareq Md Ariful Islam, placing of floral wreath at the portrait of the Father of the Nation Bangabandhu Sheikh Mujibur Rahman and observing one-minute silence as a mark of respect to the martyrs of the glorious War of Liberation. Then messages of the President, Prime Minister and Foreign Minister of Bangladesh were read out; a documentary was screened; and special prayers were offered seeking continued peace, progress and prosperity of the nation and eternal peace for the martyrs of the Liberation War, Father of the Nation and his martyred family members and four national leaders.
-
-...
-
-[Data](articles/3e4a4bf1.json)
-
-[Extended Data](ext_articles/3e4a4bf1.ext.json)
-
----
-
-### Many senior directors of the Northern Province Health Service are new appointment
-
-*2024-04-02 01:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180195) · `ta`
-
-The Northern Province Health Service has appointed new senior directors, including Dr. Wee Be Pea S. Tea as Director of Northern Health Services, and Dr. S. Subhaskaran in Vavuniya, among others. These appointments are crucial for the health service's development.
-
-🟩
-
-Recently, interviews were held for senior medical administrators for health services and large hospitals across the country.
-
-As a result, the appointment of vacancies for senior medical administrators across the country was handed over by the Ministry of Health.
-
-In that respect, the following new doctors have been appointed to the vacancies for medical administrators in the Northern Province.
-
-1. Director of Northern Health Services: Wee. Be pea. S.. Tea. The paragraph (dr. D. B.. Ssh. T. They are)
-
-2. Regional Health Services Director, Vavuniya: S. Subhaskaran (Dr. Ssh. Subashkaran)
-
-3. Regional Health Services Director, Mullaitivu: M. S.. Umasankar (Dr. On the. Ssh. Umasankar)
-
-4. Regional Health Services Director, Mannar: Bee. K. Wickremesinghe (Dr. B.. K. Visakram Singke)
-
-5. Regional Health Services Director, Kilinochchi: Tea. Vinodhan (Dr. T. Vinodhan)
-
-6. Servant, District General Hospital, Vavuniya: J. Sukunan (Dr. K. Sukunan)
-
-...
-
-[Data](articles/40d8fb2f.json)
-
-[Extended Data](ext_articles/40d8fb2f.ext.json)
-
----
-
-### Ranil Wickremesinghe
-
-*2024-04-02 01:14:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருத்தமான-தலைவர்-ரணில்-விக்கிரமசிங்க/175-335489) · `ta`
-
-Sehan Semasinghe praises President Ranil Wickremesinghe as the most talented leader to resolve Sri Lanka's economic crisis, despite criticisms.
-
-🟩
-
-State Minister Sehan Semasinghe said that President Ranil Wickremesinghe is the most talented and relevant leader to resolve the economic crisis in the country.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-In relation to the economy, various persons referred to some issues and presented various criticisms. But it has been proven to the people that they are not fair. The leadership of President Ranil Wickremesinghe should be praised to restore the economy.
-
-The progress that has been made so far is President Ranil Wickremesinghe, the most efficient and relevant leader to resolve the economic crisis in the country. Cope with the economic crisis very efficiently. So, his leadership continued to need the country. (A)
-
-◼️
-
-[Data](articles/e8ca68a9.json)
-
-[Extended Data](ext_articles/e8ca68a9.ext.json)
-
----
-
-### Colombo Lions, Westton Lion Corporations in Wellawatte
-
-*2024-04-02 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180194) · `ta`
-
-Colombo Lions and Westane Lion Corporations cleaned Wellawatte Railway Station with help from Lions Club and Municipal Council members.
-
-🟩
-
-The Colombo Lions Corporation and the Westane Lion Corporation jointly carried out the "Siramanam" work on the Wellawatte Railway Station last Sunday morning.
-
-Members of the Lions Club, the Municipal Council, can be used to clean the plastic and debris on the beach.. (Shooting:-S. M.. Surendran)
-
-◼️
-
-[Data](articles/fcf11725.json)
-
-[Extended Data](ext_articles/fcf11725.ext.json)
-
----
-
-### Donate to Gaza Children's Fund
-
-*2024-04-02 01:10:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காஸா-சிறுவர்-நிதியத்திற்கு-நன்கொடை/175-335488) · `ta`
-
-President Ranil Wickremesinghe received a donation from the Gaza Children's Fund, presented by Palestinian Ambassador Dr. Suhaher Hamdallah Zaid, with officials including External Affairs Minister Ali Sabri and President's Secretary Saman Ekanayake present.
-
-🟩
-
-President Ranil Wickremesinghe, headed by President Ranil Wickremesinghe, was handed over to the Palestinian government to the Palestinian government by the United Nations official agency.
-
-The check was officially handed over to President Ranil Wickremesinghe to Palestinian Ambassador to Sri Lanka, Dr. Suhaher Hamdallah Zaid.
-
-External Affairs Minister Ali Sabri, President's Secretary Saman Ekanayake, Secretary to the Ministry of External Affairs Aruni Wijewardena and Palestinian Embassy officials in Sri Lanka were present at the meeting held at the Presidential Office yesterday.. (A)
-
-◼️
-
-[Data](articles/d214ba10.json)
-
-[Extended Data](ext_articles/d214ba10.ext.json)
-
----
-
-### No bus fare correction
-
-*2024-04-02 01:06:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டண-திருத்தம்-இல்லை/175-335487) · `ta`
-
-Gemunu Wijeratne, President of the Private Bus Owners Association, denied the consideration of bus fare correction in the amendment. He mentioned that private buses are operating at a loss and suggested that prices of Lanka Super Diesel must decrease further for buses to be viable.
-
-🟩
-
-Private Bus Owners Association President Gemunu Wijeratne says that it is not currently being considered on the bus fare amendment.
-
-He said this while speaking to the media yesterday. He further stated that
-
-Private buses are running at a loss. He said buses could be used if the prices of Lanka Super Diesel decrease further. (A)
-
-◼️
-
-[Data](articles/d00d924c.json)
-
-[Extended Data](ext_articles/d00d924c.ext.json)
-
----
-
-### Father of 3 children
-
-*2024-04-02 01:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180193) · `ta`
-
-A body found in Muttur-Bahriya, tied with ropes, suspected murder. Abdul Hamid Nabris, 39, father of 3, identified. Autopsy at Trincomalee General Hospital.
-
-🟩
-
-Muttur police said that a body has been recovered on Monday (01) after he died in the Muttur -Bahriya Nagar field in the Muttur police division.
-
-Abdul Hamid Nabris (age 39), the father of three children from Muttur -Bahriya, who was recovered.
-
-Thus the body and legs are tied with ropes and a mud bundle in the wittle. This has led to suspicion that this is a murder.
-
-Subsequently, the body has been sent to the Trincomalee General Hospital for autopsy, after the Muttur Magistrate's Court Judge Dasneem Bausan visited the site and investigated the body.
-
-◼️
-
-[Data](articles/aa33aa20.json)
-
-[Extended Data](ext_articles/aa33aa20.ext.json)
-
----
-
-### 10 hospitals today
-
-*2024-04-02 01:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-வைத்தியசாலைகளில்-இன்று-பணிப்புறக்கணிப்பு/175-335486) · `ta`
-
-The Federation of Health Trade Unions announced a workplace struggle in 10 hospitals across Sri Lanka today, including the Sri Lanka National Hospital, Karapitiya, Jaffna, Batticaloa, Trincomalee, Peradeniya, and General Hospitals in Kegalle, Polonnaruwa, and Mannar Resource Hospital.
-
-🟩
-
-The Federation of Health Trade Unions said that the workplace struggle will be carried out in 10 hospitals across the country today.
-
-At a media briefing held yesterday, Ravi Kumudesh, coordinator of the Federation of Health Trade Unions, made this statement.
-
-Accordingly, the workplace will be carried out in the Sri Lanka National Hospital, Karapitiya, Jaffna, Batticaloa, Trincomalee, Peradeniya and General Hospitals in Kegalle, Polonnaruwa and Mannar Resource Hospital.(a)
-
-◼️
-
-[Data](articles/87007ddb.json)
-
-[Extended Data](ext_articles/87007ddb.ext.json)
-
----
-
-### Local milk powder consumption slowly increasing: Maliban
-
-*2024-04-02 01:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Local-milk-powder-consumption-slowly-increasing-Maliban/108-280007) · `en`
-
-Monthly milk powder consumption dropped from 7000 MT to 3000 MT over last few years
-
-Sri Lanka’s monthly milk powder consumption, which almost halved following the economic crisis, due to the price escalation, is witnessing a slight increase, a senior industry representative said.
-
-The monthly milk powder consumption, which was about 7,000 MT pre-Covid, dropped to about 3,000 MT over the last three years, due to the price increases caused by the increase in the US dollar, an increase in global market milk prices and a hike in government taxes.
-
-However, with the economic conditions slightly improving, over one million households have returned to the market, although the overall consumption remains lower than the pre-COVID levels, Maliban Group Chief Executive Officer Ravi Jayawardena said. He shared his views while addressing a panel discussion hosted by Capital Alliance Limited, which delved into the current trends in consumer spending and post-crisis outlook in Sri Lanka.
-
-...
-
-[Data](articles/1c920500.json)
-
-[Extended Data](ext_articles/1c920500.ext.json)
 
 ---

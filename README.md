@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 10:03:50**
+As of **2024-04-02 10:33:30**
 
 ## Newspaper Stats
 
-*Scraped **16,542** Articles*
+*Scraped **16,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 909
 islandlk | 924
 adalk | 1,390
 tamilmirrorlk | 1,971
-adaderanalk | 1,988
+adaderanalk | 1,989
 virakesarilk | 2,359
 dailymirrorlk | 2,542
-adaderanasinhalalk | 2,676
+adaderanasinhalalk | 2,679
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,538 (100.0%) of 16,542 articles have been extended.
+16,543 (100.0%) of 16,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### ඒ නැව ට අවසර දුන්නේ කවුද ? මධ්‍යම පරිසර අධිකාරිය පරීක්ෂණ අරඹයි
+
+*2024-04-02 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195200) · `si`
+
+ශ්‍රී ලංකාව බලා එමින් සිටියදී පසුගියදා අමෙරිකාවේ බොල්ටිමෝ පාලමෙහි ගැටුණු භාණ්ඩ ප්‍රවාහන නෞකාවේ අඩංගු ද්‍රව්‍ය මෙරටට ගෙන ඒමට නිසි අවසරයක් ගෙන තිබුණේද යන්න සම්බන්ධයෙන් පරීක්ෂණයක් පවත්වන බව පරිසර රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර මහතා පැවසීය.
+
+එම පරීක්ෂණය මේ වනවිටත් ආරම්භකර ඇති බව පැවසූ රාජ්‍ය අමාත්‍යවරයා එම නෞකාවේ තිබූ ද්‍රව්‍ය සම්බන්ධයෙන් මධ්‍යම පරිසර අධිකාරිය දැනුවත් කර නොතිබූ බවත් පැවසීය.
+
+"ඇත්තවශයෙන්ම මේ නැව හැප්පුණු නිසා තමයි එහි තිබූ භාණ්ඩ ගැන දැනගන්නට පුළුවන් වුණේ.."
+
+ඔහු ඒ බව පැවසුවේ පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය චරිත හේරත් සහ විපක්ෂ නායක සජිත් ප්‍රේමදාස යන මහත්වරුන් නැගූ ප්‍රශ්නවලට පිළිතුරු ලබා දෙමිනි.
+
+ද ඩාලි නම් එම භාණ්ඩ ප්‍රවාහන නෞකාව මාර්තු 26 වනදා බොල්ටිමෝ පාලමේ ගැටුණු අතර ඒ හේතුවෙන් වසර 47ක් පමණ පැරණි එම පාලම කඩා වැටුණු අතර එම පාලමේ නඩත්තු කටයුතු කරමින් සිටි සේවකයින් පිරිසක් ගඟට වැටී අතුරුදන් වුණි.
+
+◼️
+
+[Data](articles/1da8d6ce.json)
+
+---
+
+### පොලිස්පති පත්කිරීමට එරෙහි පෙත්සම් සලකා බැලීම අද
+
+*2024-04-02 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195199) · `si`
+
+පොලිස්පතිවරයා වශයෙන් දේශබන්දු තෙන්නකෝන් මහතා පත්කිරීමට ජනාධිපතිවරයා ගනු ලැබූ තීරණය අභියෝගයට ලක් කරමින් ගොනුකර තිබෙන මූලික අයිතිවාසිකම් පෙත්සම් අද (02) ශ්‍රේෂ්ඨාධිකරණය හමුවේ සලකා බැලීමට නියමිතය.
+
+අගවිනිසුරු ජයන්ත ජයසූරිය මහතා ප්‍රමුඛ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ මෙම පෙත්සම් සලකා බැලීමට නියමිතව තිබේ.
+
+කාදිනල් අති උතුම් මැල්කම් රංජිත් හිමිපාණන්, මහාචාර්ය සාවිත්‍රි ගුණසේකර, හිටපු පාර්ලිමේන්තු මන්ත්‍රිණි හිරුණිකා ප්‍රේමචන්ද්‍ර ඇතුළු පිරිසක් විසින් මෙම පෙත්සම් ඉදිරිපත් කර ඇත.
+
+අදාළ පෙත්සමේ වගඋත්තරකරුවන් ලෙස කථානායකවරයා ඇතුළු ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාවේ සාමාජිකයින්, පොලිස්පති දේශබන්දු තෙන්නකෝන්, නීතිපති ඇතුළු පිරිසක් නම් කර තිබේ.
+
+පෙත්සම්කරුවන් කියා සිටින්නේ, පොලිස්පතිවරයා වශයෙන් පත්කිරීම සඳහා ජනාධිපතිවරයා විසින් නිර්දේශ කරනු ලැබූ දේශබන්දු තෙන්නකෝන් මහතාගේ නාම යෝජනාව ආණ්ඩුක්‍රම ව්‍යස්ථාදායක සභාව විසින් විධිමත් ආකාරයෙන් අනුමත කර නොමැති බවය.
+
+එවැනි අවස්ථාවක ඔහු එම තනතුර සඳහා පත්කිරීමට ජනාධිපතිවරයා ගනු ලැබූ තීරණය සම්පූර්ණයෙන්ම නීතියට පටහැනි බවත් පෙත්සම්වල සඳහන් වේ.
+
+...
+
+[Data](articles/73ee7c1d.json)
+
+---
 
 ### Thai Airways resumes operations to Sri Lanka
 
@@ -48,19 +90,79 @@ A special cultural dance performance had also been organized by the Airport and 
 
 [Data](articles/0bc61bce.json)
 
+[Extended Data](ext_articles/0bc61bce.ext.json)
+
 ---
 
-### உயிர்த்த ஞாயிறு தாக்குதலில் பாதிக்கப்பட்டவர்களுக்கு நீதியை பெற்றுக்கொடுக்க அரசாங்கம் தவறியுள்ளது - எதிர்க்கட்சித் தலைவர்
+### Thai Airways resumes daily flights to Sri Lanka
+
+*2024-04-02 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98364/thai-airways-resumes-daily-flights-to-sri-lanka) · `en`
+
+After a four-year hiatus, Thai Airways flight TG 307 arrived at Bandaranaike International Airport (BIA) in Katunayake at 11.55 p.m. on Monday (01).
+
+Originating from Bangkok, Thailand, the flight carried approximately 150 foreign tourists, including Thai nationals. According to Katunayake airport authorities, flights between Thailand and Sri Lanka are now operating daily.
+
+Nimal Siripala de Silva, the Minister of Ports, Shipping & Aviation welcomed the flight and its passengers at the arrival terminal.
+
+A special cultural dance performance had also been organized by the Airport and Aviation Services (Sri Lanka) Ltd. (AASL) to commemorate the occasion and welcome the flight and passengers. Several officials, including Eng. Athula Galketiya, the AASL chairman were in attendance at the event.
+
+...
+
+[Data](articles/bb8d0cac.json)
+
+---
+
+### The government fails to provide justice to victims of the survival Sunday attack - Leader of the Opposition
 
 *2024-04-02 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180204) · `ta`
 
-உயிர்த்த ஞாயிறு தாக்குதலை அடிப்படையாக்கொண்டு தெரிவு செய்யப்பட்ட ஜனாதிபதி  கோட்டாபய ராஜபக்ஷ தாக்குதலின் பிரதான சூத்திரதாரிகளை கண்டறிவதாக வாக்குறுதியளித்த போதும் அது நிறைவேற்றப்படவில்லை. அதேநேரம் தாக்குதல் தொடர்பில் சர்வதேச விசாரணை மேற்கொள்வதாக ஜனாதிபதி தெரிவித்திருந்தார். அந்த விசாரணை இடம்பெறுகிறதா என்பதை அரசாங்கம் தெரிவிக்க வேண்டும். அரசாங்கம் ஆட்சிக்கு வந்து 5 வருடமாகியும் பாதிக்கப்பட்டவர்களுக்கு நீதியை பெற்றுக்கொடுக்க முடியாமல் போயிருக்கிறது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+The government's failure to provide justice for victims of the Survivor Sunday attack has been criticized by the Leader of the Opposition, Sajith Premadasa. Despite President Gotabhaya Rajapakse's promise to find the main masterminds, no progress has been made. The government has not implemented recommendations from the Presidential Commission, Malakkoda Committee, or Parliamentary Select Committee. Controversial comments and lack of transparency in investigations have been highlighted.
 
-பாராளுமன்றத்தில் திங்கட்கிழமை (01) நிலையியற் கட்டளை 27 2 இன் கீழ் கேள்வி எழுப்பி உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
+
+The President Gotabhaya Rajapakse promised to find the main masterminds on the basis of the lifeblood Sunday attack, but it was not fulfilled.. At the same time, the President said that an international investigation into the attack. The government must report whether the investigation is taking place. Opposition leader Sajith Premadasa said that the government was unable to provide justice for the victims for five years.
+
+He was speaking in Parliament on Monday (01) under the Standing Ordinance of 27 2.
+
+5 years after the resurrection Sunday attack. However, the government has not yet taken steps to implement the recommendations that have been made or the recommendations that have been made through the Presidential Commission report, the Malakkoda Committee and the Parliamentary Select Committee on the attack.. Part of these statements are still hidden to MPs.
 
 ...
 
 [Data](articles/95b70265.json)
+
+[Extended Data](ext_articles/95b70265.ext.json)
+
+---
+
+### The kilman of Jaffna science girl dies in prison
+
+*2024-04-02 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195198) · `si`
+
+Pobalasingham Yossuriya, a 39-year-old Jaffna science girl's killer, died in prison after being sentenced to death. He was admitted to Kandy Hospital due to an emergency condition. The post-mortem examination revealed his cause of death. Swiss Kumar, among others, was sentenced for the murder.
+
+🟩
+
+Pobalasingham Yossuriya, who was detained at the Dumbara Prison in the Dumbara Prison, was due to the death of the death of Pallekele.
+
+The hospital had been admitted to the Kandy Hospital on 31st March due to an emergency condition, he was rushed to the Kandy Hospital.
+
+The deceased is 39 years old and he had appealed in the death penalty.
+
+After being sentenced to death, he was admitted to the Dumbara Prison in the Pallekele Prison due to illness.
+
+The body of the post mortem has been placed at the Kandy National Hospital morgue.
+
+The post mortem examination is expressed after the post mortem examination is specified.
+
+Swiss Kumar, including Swiss Kumar, was sentenced to seven persons including the science girl's murder.
+
+The punishment was published as a unanimous verdict as an unanimous verdict of the Jaffna High Court Judge, Batticaloa High Court Judge, Vavuniya High Court Judge, Vavuniya High Court Judge, Vavuniya High Court Judge Balander.
+
+...
+
+[Data](articles/3b6ad3b5.json)
+
+[Extended Data](ext_articles/3b6ad3b5.ext.json)
 
 ---
 
@@ -170,21 +272,29 @@ Investigations have revealed that the house was due to the problem with the owne
 
 ---
 
-### රනිල්ගේ නායකත්වය ඉදිරියටත් අවශ්‍යයි
+### Ranil's leadership should continue
 
 *2024-04-02 09:12:29* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ගේ-නායකත්වය-ඉදිරියටත්-අවශ්‍යයි/11-408893) · `si`
 
-රටේ පැවති ආර්ථික අර්බුදය විසඳීම සඳහා සිටින දක්ෂතම සහ සුදුසුම නායකයා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා බව මේ වන විට ලබා ඇති ප්‍රගතියෙන් තහවුරු වන බවත් එබැවින් ඒ මහතාගේ නායකත්වය ඉදිරියට ද රටට අවශ්‍ය බවත් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe is praised for his leadership in resolving the country's economic crisis, with significant progress made in economic growth and stability.
 
-මේ වන විට ලබා ඇති ප්‍රගතිය හමුවේ ඕනෑම අයෙකුට රට පාලනය කළ හැකි බව ඇතැමුන් විශ්වාස කිරීමට පෙළඹී ඇතත් එය නිවැරදි නොවන බව ද මුදල් රාජ්‍ය අමාත්‍යවරයා සඳහන් කර සිටියේය.
+🟩
 
-මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+President Ranil Wickremesinghe confirmed that President Ranil Wickremesinghe is the best and ideal leader to resolve the country's economic crisis.
 
-ලක්ෂ 24ක් සඳහා අස්වැසුම ප්‍රතිලාභය ලබාදීමේ කටයුතු අවසන් කර ඒ පිළිබඳව පසුවිපරම් සමීක්ෂණයක් සිදු කිරීමට බලාපොරොත්තු වන බව ද මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවසීය.
+The State Minister also stated that anyone had to believe that anyone can control the country in the face of the progress they have made.
+
+State Minister of State Shehan Semasinghe made this statement participating at a press conference held at the Presidential Media Center.
+
+State Minister of State Shehan Semasinghe said that the revenue to benefit the benefit of the revenue for Rs.
+
+"We hope that applications will be received about Rs.. Accordingly, the reconstruction of Rs.. But it should also be said that a resurrection should be re-conducted on the size of 34 lakhs issued for the first time in May.. Also, the total survey is also included in the size of the sum of Rs.. We do so to further strengthen the selection method of choice.
 
 ...
 
 [Data](articles/2af5ed15.json)
+
+[Extended Data](ext_articles/2af5ed15.ext.json)
 
 ---
 
@@ -1083,6 +1193,8 @@ This article is the third in a series about the intra-tiger split of 2004 and th
 ...
 
 [Data](articles/5b609486.json)
+
+[Extended Data](ext_articles/5b609486.ext.json)
 
 ---
 
@@ -2091,89 +2203,5 @@ Further investigations are underway under the leadership of Chief Inspector of P
 [Data](articles/32092b18.json)
 
 [Extended Data](ext_articles/32092b18.ext.json)
-
----
-
-### Imran Khan suspends 14 years in imprisonment
-
-*2024-04-01 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195182) · `si`
-
-Imran Khan's 14-year prison sentence is suspended by Islamabad High Court, but he remains incarcerated due to ongoing cases.
-
-🟩
-
-The High Court Islamabad has ordered the 14-year sentence imposed on former Prime Minister Imran Khan.
-
-The court has issued this order with the decision to settle his appeal.
-
-However, former Prime Minister Imran Khan is still imprisoned due to the cases filed against him.
-
-◼️
-
-[Data](articles/30712283.json)
-
-[Extended Data](ext_articles/30712283.ext.json)
-
----
-
-### Paira Parasena who had been shouting Hand free
-
-*2024-04-01 17:46:39* · [`adalk`](https://www.ada.lk/breaking_news/හෑන්ඩ්-ෆ්‍රී-කනේ-ගහගෙන-ගිය-පේරේ-නීති-සිසුවා-දුම්රියට-බිලි/11-408887) · `si`
-
-A third-year student from the University of Peradeniya, Mr. Tisice Kithara, was hit by a train while traveling from Kandy to Nawalapitiya. He was using a hands-free device.
-
-🟩
-
-A third year student of the Faculty of Arts of the University of Peradeniya has hit the train, along with the train.
-
-The Peradeniya Police say that the student traveled from Kandy to Nawalapitiya while the student was traveling to Peradeniya railway station.
-
-Investigations have revealed that the student had taken a call from the mobile phone wearing Hand Free equipment.
-
-The deceased has been identified as Mr. Tisice Kithara, the University of Peradeniya.
-
-◼️
-
-[Data](articles/383162ad.json)
-
-[Extended Data](ext_articles/383162ad.ext.json)
-
----
-
-### University student killed in train accident
-
-*2024-04-01 17:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/University-student-killed-in-train-accident/108-279971) · `en`
-
-A third-year student of the Law Faculty of the Peradeniya University has been killed after being hit by a train in the Penideniya area, Peradeniya Police said.
-
-The victim was from the Wadduwa area and was in the third year of the Law Faculty of the university.
-
-He had reportedly been walking on the railway tracks while wearing a pair of headphones when he was struck by the Nawalapitiya-Kandy train.
-
-◼️
-
-[Data](articles/dc937bf2.json)
-
-[Extended Data](ext_articles/dc937bf2.ext.json)
-
----
-
-### Imran Khan: Pakistan court suspends jail sentence in graft appeal
-
-*2024-04-01 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98353/imran-khan-pakistan-court-suspends-jail-sentence-in-graft-appeal) · `en`
-
-A Pakistani court on Monday granted former Prime Minister Imran Khan an appeal of his conviction for graft and suspended his 14-year jail sentence, his lawyer said, a relief for his embattled party which had won most seats in February’s national polls.
-
-Just a week ahead of the Feb. 8 elections, Khan and his wife Bushra Bibi were both handed a 14-year sentence on charges of unlawfully selling state gifts by an anti-graft court.
-
-Despite the suspension, Khan will remain in jail on multiple other sentences which were imposed on the ex-cricket star ahead of the polls, which also disqualified him from holding any public office for 10 years.
-
-Islamabad High Court said that the couple’s graft sentence will remain suspended until a final decision on the conviction which will be taken up for arguments and evidence as a main petition after Eid holidays, said the lawyer, Barrister Ali Zafar.
-
-...
-
-[Data](articles/d904123b.json)
-
-[Extended Data](ext_articles/d904123b.ext.json)
 
 ---

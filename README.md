@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 18:33:55**
+As of **2024-04-02 18:51:45**
 
 ## Newspaper Stats
 
-*Scraped **16,670** Articles*
+*Scraped **16,672** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 895
 economynextcom | 912
 islandlk | 925
-adalk | 1,402
+adalk | 1,403
 tamilmirrorlk | 1,986
-adaderanalk | 2,000
+adaderanalk | 2,001
 virakesarilk | 2,394
 dailymirrorlk | 2,567
 adaderanasinhalalk | 2,699
@@ -26,25 +26,49 @@ adaderanasinhalalk | 2,699
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,662 (100.0%) of 16,670 articles have been extended.
+16,670 (100.0%) of 16,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### සෞඛ්‍ය සේවකයන්ගේ තීරණය අද රාත්‍රියේ
+### Israeli airstrike on Gaza kills seven working for food aid NGO
+
+*2024-04-02 18:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98378/israeli-airstrike-on-gaza-kills-seven-working-for-food-aid-ngo) · `en`
+
+(Reuters) - Citizens from Australia, Britain and Poland were among seven people working for celebrity chef Jose Andres’ World Central Kitchen who were killed in an Israeli airstrike in central Gaza on Monday, the NGO said.
+
+The workers, who also included Palestinians and a dual citizen of the United States and Canada, were travelling in two armoured cars emblazoned with the WCK logo and another vehicle, WCK said in a statement.
+
+Israel has long denied it is hindering the distribution of urgently needed food aid in Gaza, saying the problem is caused by the inability of international aid groups to get it to those in need.
+
+Despite co-ordinating movements with the Israeli Defence Force, the convoy was hit as it was leaving its Deir al-Balah warehouse, after unloading more than 100 tons of humanitarian food aid brought to Gaza by sea, WCK said.
+
+...
+
+[Data](articles/b66507d8.json)
+
+---
+
+### The decision of health workers is tonight
 
 *2024-04-02 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195221) · `si`
 
-වෛද්‍යවරුන්ට ලබාදුන් ඩැට් දීමනාව හා සමාන දීමනාවක් තමන්ට ද ලබාදෙන ලෙස ඉල්ලා සෞඛ්‍ය වෘත්තීය සමිති අද (02) වෘත්තීය ක්‍රියාමාර්ගවල නිරත වුණි.
+Health workers' decision tonight. Health Trade Unions involved in action for doctors' offer. Discussion with authorities ended in policy agreement. Health unions to decide on final decision on the North.
 
-පසුව බලධාරීන් සමග සාකච්ඡාවක් පැවැති අතර එය ප්‍රතිපත්තිමය එකඟතාවයකින් අවසන් වූ බව වාර්තා විය.
+🟩
 
-ඒ අනුව ඉදිරි වර්ජන ක්‍රියාමාර්ගය පිළිබඳව අද රාත්‍රී 07ට අවසන් තීරණයක් ගැනීමට නියමිත බව සෞඛ්‍ය වෘත්තීය සමිති පැවසීය.
+Health Trade Unions were involved in trade union action asking for the doctors to give them an offer.
+
+Thereafter a discussion was held with the authorities, and it was reported that it ended with policy agreement.
+
+Accordingly, the health unions said that a final decision will be taken to take a final decision on the North.
 
 ◼️
 
 [Data](articles/300505be.json)
+
+[Extended Data](ext_articles/300505be.ext.json)
 
 ---
 
@@ -70,19 +94,25 @@ He said that inflation is declining in Sri Lanka, the new state policy policies 
 
 ---
 
-### யாழில் வாள் வெட்டு ; 22 பேர் வைத்தியசாலையில்
+### Sword cut in Jaffna;22 people at the hospital
 
 *2024-04-02 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180243) · `ta`
 
-யாழ்ப்பாணம் புறநகர் பகுதியில் இரண்டு வன்முறை கும்பல்களுக்கு இடையில் ஏற்பட்ட மோதல் சம்பவத்தில் காயமடைந்த நிலையில் 22 பேர் யாழ்.போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+22 injured in Jaffna clashes admitted to Bodhana Hospital, causing doctor crisis and conflict among patients.
 
-தாக்குதல்களுக்கு இலக்காகி காயங்களுடன் திடீரென 22 பேர் வைத்தியசலையில் குறிப்பிட்ட சில மணி நேரங்களுக்குள் அனுமதிக்கப்பட்டமையால், வைத்தியர்கள் நெருக்கடிகளை எதிர்கொண்டதாக தெரிவிக்கப்படுகிறது.
+🟩
 
-அதேவேளை சிகிச்சைக்காக அனுமதிக்கப்பட்டவர்கள், அவர்களுடன் உதவிக்கு வந்தவர்கள், வைத்தியசாலையினுள்ளும் மோதல் போக்குடன் காணப்பட்டதுடன், மோதலில் ஈடுபடவும் முயன்றுள்ளனர்.
+22 people have been admitted to the Jaffna Bodhana Hospital after being injured in a clash between two violent gangs in the suburbs of Jaffna.
+
+It is reported that doctors faced crises as 22 people were suddenly admitted to the hospital within a few hours.
+
+At the same time, those who have been admitted for treatment, those who have been assisted with them, have seen a conflict in the hospital and tried to engage in a conflict.
 
 ◼️
 
 [Data](articles/5decd69c.json)
+
+[Extended Data](ext_articles/5decd69c.ext.json)
 
 ---
 
@@ -106,81 +136,121 @@ Education Minister Anna-Maja Henriksson broke into tears while speaking at a pre
 
 [Data](articles/65f6f31d.json)
 
+[Extended Data](ext_articles/65f6f31d.ext.json)
+
 ---
 
-### தேராவில் பிரதேசத்தில் காட்டு யானைகள் அட்டகாசம் ! யானை வேலி அமைத்து தருமாறு மக்கள் கோரிக்கை
+### Wild Elephants Attakasam in DeraPeople demand to set up an elephant fence
 
 *2024-04-02 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180249) · `ta`
 
-முல்லைத்தீவு  மாவட்டத்தின் புதுக்குடியிருப்பு பிரதேச செயலாளர் பிரிவுக்குட்பட்ட தேராவில் கிராமத்தில் காட்டு யானைகளின் அட்டகாசம் அதிகரித்துள்ளதாக மக்கள் கவலை வெளியிட்டுள்ளனர்.
+Residents of Dera, Pudukkudiyiruppu, demand elephant fences to protect against increasing wild elephant damage to trees, crops, and livelihoods. Despite previous promises, no decisive action has been taken, leading to fear and loss.
 
-மாலை வேளையிலேயே ஊர்மனைக்குள் வருகின்ற யானைகள்   அதிகாலை வரை  ஊரில் உள்ள பயன் தரும் மரங்கள் மற்றும் தோட்ட செய்கைகள்  சொத்துக்கள் என பல்வேறு சேதங்களை  ஏற்படுத்தி வருவதோடு இதனால் தொடர்ச்சியாக தாம்  பாதிக்கப்பட்டு வருவதாக மக்கள் தெரிவிக்கின்றனர்
+🟩
 
-குறிப்பாக அண்மை நாட்களாக வருகை தந்த யானைகள் தங்களது பயன்தரு தென்னை மரங்கள் உள்ளிட்ட பல்வேறு மரங்களை நாசம் செய்துள்ளதோடு வேலிகளுக்காக போட்ட தூண்கள் உள்ளிட்ட பல்வேறு பொருட்களையும் சேதப்படுத்தி உள்ளது இதனால் வீடுகளில் வாழும் மக்கள் அச்சத்தோடு வாழ வேண்டியுள்ளதோடு இதனால் தமது வாழ்வாதாரம் வெகுவாக பாதிக்கப்பட்டு வருவதாக மக்கள் கவலை வெளியிட்டுள்ளனர்
+People have expressed concern that wild elephants have increased in the village of Dera, which belongs to the Pudukkudiyiruppu Divisional Secretariat Division of the Mullaitivu District.
+
+In the evening, elephants enter the town till the early hours of the morning are causing various damage to the benefits of trees and plantation activities in the town and they are constantly suffering from this.
+
+In recent days, elephants have destroyed various trees, including their useful coconut trees, and have damaged various items, including fence pillars, and people have to live in fear of their livelihoods, causing their livelihood.
+
+Although it has been repeatedly said that the elephant fences are said to be set up, the people are demanding that the authorities take steps to protect themselves from the elephants and soon the elephants are being set up without any decisive decisions.
 
 ...
 
 [Data](articles/813bfbef.json)
 
+[Extended Data](ext_articles/813bfbef.ext.json)
+
 ---
 
-### 'என்னை காப்பாற்றியது ரசிகர்களின் பிரார்த்தனை தான்' - 'மக்கள் நாயகன்' ராமராஜன்
+### 'Saved me is the prayer of the fans' - 'People Man' Ramarajan
 
 *2024-04-02 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180265) · `ta`
 
-தமிழ் சினிமாவின் சரித்திரத்தில் தவிர்க்க முடியாத சக்தியாக இருப்பவர் 'மக்கள் நாயகன்' ராமராஜன். சிறிய இடைவெளிக்கு பிறகு அவர் கதையின் நாயகனாக நடித்திருக்கும் திரைப்படம் 'சாமானியன்'. விரைவில் வெளியாகவிருக்கும் இந்த திரைப்படத்தின் இசை மற்றும் முன்னோட்ட வெளியீட்டு விழா சென்னையில் சிறப்பாக நடைபெற்றது.
+"'People Man' Ramarajan, a key figure in Tamil cinema, stars in 'Samaniyan', with music by Gnani Ilayaraja. He credits fans' prayers for his survival after an accident in 2010, and praises the film's emotional impact and Ilayaraja's music."
 
-இயக்குநர் ராகேஷ் இயக்கத்தில் உருவாகி இருக்கும் 'சாமானியன்' எனும் திரைப்படத்தில் ராமராஜன், நக்ஷா சரண், ஸ்மிருதி வெங்கட், அபர்னதி, ராதா ரவி, எம். எஸ். பாஸ்கர், லியோ சிவக்குமார், ராஜா ராணி பாண்டியன், மைம் கோபி, போஸ்ட் வெங்கட், வினோதினி, கே. எஸ். ரவிக்குமார், ரோபோ சங்கர் உள்ளிட்ட பலர் நடித்துள்ளனர். அருள் செல்வன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு இசை ஞானி இளையராஜா இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை எட்செட்ரா என்டர்டெயின்மென்ட் பட நிறுவனம் சார்பில் தயாரிப்பாளர் வி. மதியழகன் தயாரித்திருக்கிறார்.
+🟩
+
+'People Man' Ramarajan is the indispensable force in the history of Tamil cinema. After a short break he is the hero of the story 'Samaniyan'. The music and preview of the film will be released soon in Chennai.
+
+Ramarajan, Naksha Saran, Smriti Venkat, Abernathi, Radha Ravi,. S.. Bhaskar, Leo Sivakumar, Raja Rani Pandiyan, Maim Gopi, Post Venkat, Vinodini, K. S.. Ravikumar, Robot Shankar and many others star. The film, which has been recorded by Arul Selvan, has composed the musician Gnani Ilayaraja. Producer V. The afternoon has produced.
+
+Speaking at the event, Ramarajan said, “In 2010, when I was speaking at a public meeting in 2010, I got into an accident unexpectedly.. I survived by the fans' prayers. Come back from it and act like this.. Did not think. This has happened like the world miracle. This is the reason for this.
 
 ...
 
 [Data](articles/479f35f0.json)
 
+[Extended Data](ext_articles/479f35f0.ext.json)
+
 ---
 
-### பான் இந்திய நட்சத்திர நடிகரான பிரபாஸ் பெருமிதத்துடன் வெளியிட்ட 'டபுள் டக்கர்' பட முன்னோட்டம்
+### Pan Indian star actor Prabhas proudly released 'Double Tucker'
 
 *2024-04-02 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180266) · `ta`
 
-சென்னையின் பிரபலமான இதய சத்திர சிகிச்சை நிபுணரும், நடிகருமான தீரஜ் கதையின் நாயகனாக நடித்திருக்கும் 'டபுள் டக்கர்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியாகி இருக்கிறது.
+Prabhas, star of 'Baahubali', released 'Double Tucker', a comedy about Tiraj, a heart surgeon and actor. The film, in Tamil and Telugu, has over a million viewers. Directed by Meera Mahadi, it features a cast including Smriti Venkat and Coimbatore Sarala.
 
-இதனை 'பாகுபலி' படத்தின் மூலம் பான் இந்திய நட்சத்திர நடிகராக உயர்ந்த நடிகர் பிரபாஸ் அவருடைய இணைய பக்கத்தில் வெளியிட்டு, படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+🟩
 
-தமிழ் மற்றும் தெலுங்கு மொழியில் வெளியாகி இருக்கும் இந்த திரைப்படத்தின் முன்னோட்டம் குறுகிய கால அவகாசத்திற்குள் ஒரு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்திருக்கிறது.
+The preview of the movie 'Double Tucker', which plays the hero of the story of Tiraj, a famous heart surgery and actor in Chennai.
+
+Pan Prabhas has posted this on his web page as Ban's Indian star actor through the film 'Baahubali' and congratulated the film crew.
+
+The film, which has been released in Tamil and Telugu, has been a record of over a million spectators within a short period of time.
+
+Tiraj, Smriti Venkat, Coimbatore Sarala, M, directed by debutant director Meera Mahadi.. S.. Bhaskar, Munis Kant, Kali Venkat, Sunil Reddy, Karunakaran, Yashika Anand, George Vijay. The film is composed by Gautham Rajendran and has composed the film 'Melody King'.. The film, which is being prepared as a full -length comedy, has produced a huge cost of Air Flick.
 
 ...
 
 [Data](articles/8527c485.json)
 
+[Extended Data](ext_articles/8527c485.ext.json)
+
 ---
 
-### வளரிளம் பருவ குழந்தைகளின் குதூகல கொண்டாட்டத்திற்கு தயாராகும் 'டீன்ஸ்'
+### 'Teens' ready for the celebration of adolescent children
 
 *2024-04-02 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180263) · `ta`
 
-திரையில் ஒற்றை கதாபாத்திரத்தின் மூலம் கதை சொல்லுதல்... சிங்கிள் ஷாட்டில் கதை சொல்லுதல்... என புதிய முயற்சிகளை, 'புதிய பாதை' படத்திலிருந்து தொடர்ந்து இன்று வரை முயற்சித்து, சாதித்து.. சாதனையாளராக திகழும் இரா. பார்த்திபனின் மற்றொரு புதிய  முயற்சியாக உருவாகி இருக்கும் 'டீன்ஸ்' திரைப்படத்தின் டீசர் வெளியாகி இருக்கிறது.
+"Teens," a new film by Parthiban, features storytelling through a single character, showcasing new initiatives from 'New Path' to its release. The movie, produced by Bioscopes LB and Akira Productions, stars newcomers and includes music by Iman. The first look, released with an audit certificate, has sparked excitement among fans. The teaser introduces a 500-year-old ghost, setting the stage for an adventure tour by a group of students.
 
-இயக்குநர் இரா. பார்த்திபன் இயக்கத்தில் உருவாகி இருக்கும் 'டீன்ஸ்' திரைப்படத்தில் வளரிளம் பருவத்தில் இருக்கும் புதுமுக நட்சத்திரங்கள் நடித்திருக்கிறார்கள். கேவ்மிக் ஆரி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு டி. இமான் இசையமைத்திருக்கிறார். ஹாரர் திரில்லர் ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை பயாஸ்கோப் ஃபிரேம்ஸ் எல் எல் பி மற்றும் அகிரா புரொடக்ஷன்ஸ் பிரைவேட் லிமிடெட் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் கால்டுவெல் வேள்நம்பி, டாக்டர் பாலசுவாமிநாதன், டாக்டர் பின்சி ஸ்ரீனிவாசன், ரஞ்சித் தண்டபாணி மற்றும் ராதாகிருஷ்ணன் பார்த்திபன் ஆகியோர் இணைந்து தயாரித்துள்ளனர்.
+🟩
+
+Storytelling through a single character on the screen ... Storytelling of Single Shot ... New initiatives, from the film 'New Path' to this day, have been achieved.. Achiever. The teaser of the movie 'Teens' has been released as another new venture.
+
+In the director. Parthiban's upcoming movie 'Teens' starring newcomer stars. Cavmik Ary Cinematography. Iman has composed music. The film is being produced by Bioscopes LB and Akira Productions Pvt.
 
 ...
 
 [Data](articles/c396a4b4.json)
 
+[Extended Data](ext_articles/c396a4b4.ext.json)
+
 ---
 
-### தி ஃபேமிலி ஸ்டார்'ஆகும் விஜய் தேவரகொண்டா
+### The Family Star and Vijay Deverakonda
 
 *2024-04-02 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180267) · `ta`
 
-தமிழ் திரையுலகிலிருந்து விரைவில் அரசியல் உலகிற்குள் நடிகர் விஜய் பிரவேசிக்கவிருப்பதால்... அவருடைய திரையுலக இடத்தை கைப்பற்றுவதற்கு தமிழ் திரையுலகிலிருந்து மட்டுமல்லாமல் தெலுங்கு திரையுலகின் முன்னணி நட்சத்திர நடிகர்களும் போட்டியில் குதித்திருக்கிறார்கள்.
+Vijay Deverakonda, a leading Tamil and Telugu actor, is venturing into politics and acting in his upcoming film 'The Family Star', produced by Dil Raju and directed by Parasuram Bedla. The film, featuring Mrunal Thakur and Jegapati Babu Vidvi Ganesh, is set to release in Tamil, Telugu, and Hindi.
 
-அதில் விஜய் தேவரகொண்டாவும் ஒருவர். இவர் நடிப்பில் உருவாகி இருக்கும் 'தி ஃபேமிலி ஸ்டார்' எனும் திரைப்படம் எதிர்வரும் ஐந்தாம் திகதி என்று தமிழ் மற்றும் தெலுங்கு மொழியில் உலகம் முழுவதும் படமாளிகையில் வெளியாகிறது.
+🟩
 
-இந்நிலையில் படத்தை விளம்பரப்படுத்தும் பணியில் படக்குழுவினர் தீவிரமாக ஈடுபட்டுள்ளனர். இதன் ஒரு பகுதியாக சென்னையில் உள்ள நட்சத்திர ஹொட்டேல் ஒன்றில் அவர்கள் பத்திரிக்கையாளர்களை சந்தித்தனர்.
+Actor Vijay will soon enter the political world from the Tamil film industry ... Not only from the Tamil film industry, but also the leading star actors of the Telugu film industry have jumped to capture his film.
+
+Vijay Deverakonda is one of them. His upcoming film 'The Family Star' will be released in Tamil and Telugu in Tamil and Telugu.
+
+In this case, the film crew is actively engaged in advertising the film. As part of this, they met with journalists at a star hotel in Chennai.
+
+Speaking at the event, Vijay Deverakonda said, "I am playing the lead role in the second Tamil film 'The Family Star' produced by producer Dil Raju, who produced the film Vijay's successor film.. Parasuram, the director of the film, has previously directed the hit film 'Geeta Govindam'. The film also had a lot of Tamil fans. We hope that the film 'The Family Star' will be welcomed by Tamil fans as he has reunited with Parasuram.
 
 ...
 
 [Data](articles/0a6d1262.json)
+
+[Extended Data](ext_articles/0a6d1262.ext.json)
 
 ---
 
@@ -361,6 +431,32 @@ The gazette notification for the amendment was issued in January this year.
 [Data](articles/1d132718.json)
 
 [Extended Data](ext_articles/1d132718.ext.json)
+
+---
+
+### සතොස භාණ්ඩ කීපයක මිල බස්සයි
+
+*2024-04-02 16:49:21* · [`adalk`](https://www.ada.lk/breaking_news/සතොස-භාණ්ඩ-කීපයක-මිල-බස්සයි/11-408906) · `si`
+
+අද 02දා සිට ලංකා සතොස අත්‍යවශ්‍ය භාණ්ඩ 9 ක මිල අඩු කිරීමට පියවර ගත් බව ලංකා සතොස පැවසීය.
+
+පාකිස්තාන්ලොකු ලූනු කිලෝවක් රුපියල් 55 කින්. නව මිල රුපියල් 495 ක් ද
+
+රතු ලූනු කිලෝවක මිල රුපියල් 30 කින්. නව මිල රුපියල් 290 ක් ද
+
+ජම්බෝ කඩල කිලෝවක මිල රුපියල් 16 කින්.  නව මිල රුපියල් 494 ක් ද
+
+පාකිස්තාන් අර්තාපල්  කිලෝවක මිල රුපියල් 15 කින්.  නව මිල රුපියල් 195 ක් ද
+
+කිරිපිටි ග්‍රෑම් 400 මිල රුපියල් 10 කින්. නව මිල රුපියල් 925 ක් ද
+
+සුදු කැකුළු සහල් කිලෝවක මිල රුපියල් 3 කින්. නව මිල රුපියල් 192 ක් ද
+
+සෝයා මීට් කිලෝවක මිල රුපියල් 2 කින්. නව මිල රුපියල් 593 ක් ද
+
+◼️
+
+[Data](articles/2ba9d4dd.json)
 
 ---
 
@@ -2133,45 +2229,5 @@ The new Director General of the Commission is the new Director General of Commis
 [Data](articles/694f9edf.json)
 
 [Extended Data](ext_articles/694f9edf.ext.json)
-
----
-
-### Japan gives bikes to Sri Lanka schoolchildren
-
-*2024-04-02 11:13:00* · [`economynextcom`](https://economynext.com/japan-gives-bikes-to-sri-lanka-schoolchildren-156977/) · `en`
-
-ECONOMYNEXT – Japan has donated 517 bicycles to rural schoolchildren in Sri Lanka to help them get to school daily.
-
-“To encourage safe and daily attendance of school in rural areas, 517 bicycles were donated by the people of Japan through ChildFund Japan,” ChildFund Sri Lanka said in a statement.
-
-Schoolchildren between the ages of 12-16 were selected from 108 schools in 12 districts where there are transportation difficulties, such as Monaragala, Puttalam, and Mullaitivu.
-
-Some students in these areas have to travel over two and a half kilometers from home to school with no means of transport available.
-
-The bicycles were handed over to the Ministry of Education, Sri Lanka on Monday with Ambassador Mizukoshi Hideaki and Minister of Education Susil Premajayantha participating. The bicycles will be distributed to the selected schools and children by ChildFund Sri Lanka. (Colombo/Apr2/2024)
-
-◼️
-
-[Data](articles/c62e10fe.json)
-
-[Extended Data](ext_articles/c62e10fe.ext.json)
-
----
-
-### Railways to remove hazardous trees along Galabada-Hatton line
-
-*2024-04-02 11:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Railways-to-remove-hazardous-trees-along-Galabada-Hatton-line/108-280022) · `en`
-
-The Railways Department has decided to remove the dangerous trees on both sides of the railway line between Galabada and Hatton, Railways Superintendent S. Godage said.
-
-He said in the past three months, the upcountry railway line has been obstructed due to falling trees on nine occasions.
-
-Therefore, necessary activities are being carried out to cut and remove dangerous trees along the upcountry railway line before the rainy weather that may occur in the central mountains in the future.
-
-◼️
-
-[Data](articles/01782c40.json)
-
-[Extended Data](ext_articles/01782c40.ext.json)
 
 ---

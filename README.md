@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 09:33:34**
+As of **2024-04-02 09:52:15**
 
 ## Newspaper Stats
 
-*Scraped **16,534** Articles*
+*Scraped **16,538** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,129 @@ dailyftlk | 895
 economynextcom | 909
 islandlk | 924
 adalk | 1,389
-tamilmirrorlk | 1,969
+tamilmirrorlk | 1,971
 adaderanalk | 1,987
-virakesarilk | 2,357
+virakesarilk | 2,358
 dailymirrorlk | 2,542
-adaderanasinhalalk | 2,675
+adaderanasinhalalk | 2,676
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,531 (100.0%) of 16,534 articles have been extended.
+16,534 (100.0%) of 16,538 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### இரவில் வீட்டுக்கு தீ வைப்பு
+### மைத்திரி, கருணா, பிள்ளையானை கைது செய்தால் உண்மை வெளிவரும்
+
+*2024-04-02 09:38:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மைத்திரி-கருணா-பிள்ளையானை-கைது-செய்தால்-உண்மை-வெளிவரும்/73-335493) · `ta`
+
+ஈஸ்டர் குண்டுதாக்குதல் தொடர்பாக முன்னாள் ஜனாதிபதி மைத்திபால சிறிசேன, கருணா, பிள்ளையான் ஆகியவர்களுக்கிடையே ஏதே ஒன்று மறைந்திருக்கின்றது. ஆகவே இவர்கள் 3 பேரையும்  கைது செய்து விசாரித்தால்  இந்த குண்டுதாக்குதல் தொடர்பாக சரியான சூத்திரதாரி யார் என்பதை அறிய முடியும். எனவே இவர்களை உடன் கைது செய்து விசாரணை நடத்துமாறு  பாராளுமன்ற முன்னாள் உறுப்பினர் சீனித்தம்பி யோகேஸ்வரன் தெரிவித்தார்.
+
+கருணா படையணி என்பது வழமையான செயற்பாடு. தேர்தல் நெருங்குகின்றது தேர்தலுக்கான நாடகம். கடந்த பாராளுமன்ற தேர்தலில் கல்முனை வடக்கு தமிழ் பிரதேச செயலகத்தை பூரண அதிகாரத்துடன் மீட்டுத்தருவதாக கூறி, தமிழ் தேசிய மக்களுக்கு வாக்களிக்க இருந்த மக்கள் எல்லாம் தன்பக்கம் திசைதிருப்பி வாக்குகளை சிதறடித்து அந்த மாவட்டத்தில் தமிழ் மக்கள் பிரதி நிதி ஒருவர் வராமல் செய்து முஸ்லீம் மக்களின் பிரதிநிதித்துவம் அதிகரிக்க செய்த பெருமை செய்தவர்.
+
+...
+
+[Data](articles/07114bfa.json)
+
+---
+
+### கிழக்கு மாகாணத்தில் செயலாளர் பதவிக்கு முஸ்லிம் அதிகாரிகள் தொடர்ந்து புறக்கணிக்கப்படுகின்றனர் - இம்ரான் மஹ்ரூப்
+
+*2024-04-02 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180203) · `ta`
+
+கிழக்கு மாகாணசபையில் முஸ்லிம்கள் புறக்கணிக்கப்பட்டுவரும் நடவடிக்கை தொடர்ந்து இடம்பெற்று வருகிறது. செயலாளர் பதவிக்கு இதுவரை ஒரு முஸ்லிம் கூட நியமிக்கப்படாமல் இருப்பது கவலைக்குரிய விடயமாகும் என எதிர்க்கட்சி உறுப்பினர் இம்ரான் மஹ்ரூப் தெரிவித்தார்.
+
+பாராளுமன்றத்தில்  திங்கட்கிழமை (02) இடம்பெற்ற  ஆயுர்வேத சட்டத்தின் கீழ் ஒழுங்குவிதிகள் மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+கிழக்கு மாகாணத்தில் செயலாளர் பதவிக்கு இதுவரை எந்த முஸ்லிம் அதிகாரியும் நியமிக்கப்படவில்லை. கடந்த வருடம் ஜூன் மாத்தில் இதுதொடர்பாக வெளிக்கொண்டுவரப்பட்டபோதும் அந்த நடவடிக்கை இன்னும் செயற்படுத்தப்படாமல் இருக்கிறது. கடந்த காலத்தில் கிழக்கு மாகாணத்தில் இருந்த 5 அமைச்சுக்களில் 2 தமிழ் செயலாளர்களும் 2 முஸ்லிம் செயலாளர்களும் ஒரு சிங்கள செயலாளரும் பணியாற்றி வந்தார்கள். இன சமநிலையை கருத்திற்கொண்டே இந்த நடவடிக்கை இடம்பெற்று வந்தது.
+
+...
+
+[Data](articles/d5488955.json)
+
+---
+
+### பல பகுதிகளில் பிற்பகலில் மழை
+
+*2024-04-02 09:29:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளில்-பிற்பகலில்-மழை/175-335492) · `ta`
+
+மேல், சப்ரகமுவ, மத்திய, வடமேற்கு, தெற்கு, வடமத்திய மற்றும் ஊவா மாகாணங்களில் இன்று (02) பிற்பகல் 2.00 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை  பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மேல், சப்ரகமுவ, மத்திய, வடமேல் மற்றும் தென் மாகாணங்களிலும் அநுராதபுரம் மற்றும் மொனராகலை மாவட்டங்களிலும் சில இடங்களில் கடும் மழை பெய்யக்கூடும் என திணைக்களம் குறிப்பிட்டுள்ளது.
+
+இடியுடன் கூடிய மழையின்போது, தற்காலிக பலத்த காற்று வீசுவதுடன், மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது.
+
+◼️
+
+[Data](articles/bda6ab54.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-04-02 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195197) · `si`
+
+බැංකු සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය අද පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/e49d08b8.json)
+
+---
+
+### Fire at home at night
 
 *2024-04-02 09:16:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரவில்-வீட்டுக்கு-தீ-வைப்பு/175-335491) · `ta`
 
-மதுரங்குளி - முக்குதொடுவாவை பிரதேசத்தில் ஞாயிற்றுக்கிழமை இரவு வீடொன்றில் தீ விபத்து ஏற்பட்டுள்ளது.
+A fire in Madurankuli-Mukkudoduwa damaged nearby vehicles but caused no casualties. Police suspect arson by two locals, linked to the owner's tin fishing activities.
 
-இதன்போது வீட்டிற்கு அருகில் நிறுத்தி வைக்கப்பட்டிருந்த வாகனங்கள் சேதமடைந்துள்ளதாகவும், உயிர் சேதங்கள் எதுவும் ஏற்படவில்லை எனவும் பொலிஸார் தெரிவித்தனர். சிலாபம் மாநகர சபையின் தீயணைப்பு பிரிவினர் தீயணைப்பு பணிகளில் ஈடுபட்டனர்.
+🟩
 
-அத்தோடு, இந்த பிரதேசத்தில் வாழும் இருவரால் வீட்டிற்கு தீ வைக்கப்பட்டிருக்கலாம் என சந்தேகிக்கப்படுவதாக பொலிஸார் தெரிவித்த நிலையில், அப் பிரதேசத்தின் டின் மீன் தொழற்சாலை தொடர்பாக வீட்டின் உரிமையாளருடன் ஏற்பட்ட பிரச்சினையின் காரணமாகவே தீ விபத்து இடம் பெற்றுள்ளதாக விசாரணையில் தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர். R
+A fire broke out in a house in Madurankuli - Mukkudoduwa area on Sunday night.
+
+Police said the vehicles parked near the house were damaged and no casualties were reported.. The fire brigade of the Chilaw Municipal Council was involved in firefighters.
+
+Investigations have revealed that the house was due to the problem with the owner of the house in connection with the tin fishing in the area, while police said that the house was suspected to have been set on fire by two living in the area.. Remble
 
 ◼️
 
 [Data](articles/09ef82fc.json)
 
+[Extended Data](ext_articles/09ef82fc.ext.json)
+
 ---
 
-### அமெரிக்காவில் விபத்துக்குள்ளான கப்பல் இலங்கையை நோக்கி ஆபத்தான பொருட்களுடன் வந்துகொண்டிருந்ததா? இலங்கை அதிகாரிகள் தெரிவிப்பது என்ன?
+### Was the ship's accident in the United States with dangerous goods towards Sri Lanka?What does Sri Lankan authorities report?
 
 *2024-04-02 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180200) · `ta`
 
-அமெரிக்காவின் பல்டிமோர் பாலத்தில் மோதி விபத்துக்குள்ளான கப்பல் இலங்கையை நோக்கி ஆபத்தான கழிவுகளுடன் பயணித்துக்கொண்டிருந்தது  என்பது குறித்து தங்களிற்கு தகவல் எதுவும் கிடைக்கவில்லை என இலங்கை அதிகாரிகள் தெரிவித்துள்ளனர்.
+Sri Lankan officials were not informed that the Singaporean cargo ship Dali, carrying 764 tonnes of dangerous goods, was heading to Sri Lanka. The shipment included 57 containers of toxins and 56 containers of hazardous fuels and materials. The US National Treasury Security Council is investigating the shipment.
 
-சிங்கப்பூரின் சரக்கு கப்பலான டாலி 764 தொன் ஆபத்தான பொருட்களுடன் இலங்கையை நோக்கி பயணித்துக்கொண்டிருந்தது என தகவல்கள் வெளியாகியுள்ள நிலையிலேயே அதிகாரிகள் இவ்வாறு தெரிவித்தனர்.
+🟩
 
-சர்வதேச கடல்சார் அபாயகரமான பொருட்கள் குறியீட்டின் கீழ் வகைப்படுத்தக்கூடிய நச்சுப்பொருட்கள் கொண்ட 57கொள்கலன்கள கப்பலில் காணப்பட்டன என தகவல்கள் வெளியாகியுள்ளன.
+Sri Lankan officials said they were not informed that the ship that crashed into the US Baltimore Bridge was traveling with dangerous waste towards Sri Lanka.
 
-56 கொள்கலன்களில் அபாயகரமான எரிபொருட்கள் இதர அபாயகரமான பொருட்கள் வெடிபொருட்கள் லித்தியம் அயன் பற்றரிகள் போன்றன காணப்பட்டன என தகவல்கள் வெளியாகியுள்ளன.
+Officials said that Singapore's cargo ship, Dali, was traveling to Sri Lanka with 764 tonnes of dangerous items.
 
-கப்பலின் ஏனைய கொள்கலன்களில் என்ன அபாயகரமான பொருட்கள் காணப்பட்டன என ஆராய்ந்துவருவதாக அமெரிக்க தேசிய போக்குரவத்து  பாதுகாப்பு சபை தெரிவித்துள்ளது.
+There have been reports that 57 containers of toxins that are classified under the International Maritime hazardous material index were found.
 
-...
+There have been reports that 56 containers have been found to have hazardous fuels and other hazardous materials, such as lithium -ion bodies.
+
+The US National Treasury Security Council has said that the shipment of other containers of the ship is being investigated.
+
+Commenting on this, the head of the Colombo Ports Authority said that the ship's goods would be known for 72 hours before arriving at the Colombo port.
+
+The ship was to come to Sri Lanka on April 21 and they had enough time to inform us on April 17.
+
+◼️
 
 [Data](articles/f0e1de8e.json)
+
+[Extended Data](ext_articles/f0e1de8e.ext.json)
 
 ---
 
@@ -120,21 +194,29 @@ The Syrian foreign minister and interior minister were both spotted at the scene
 
 ---
 
-### දමිතා යුවළ අල්ලන්න ගිය සී.අයි.ඩී.ය හිස් අතින් එයි
+### The CID arrives empty-handed with Damitian couple
 
 *2024-04-02 08:18:50* · [`adalk`](https://www.ada.lk/breaking_news/දමිතා-යුවළ-අල්ලන්න-ගිය-සී-අයි-ඩී-ය-හිස්-අතින්-එයි/11-408892) · `si`
 
-රුපියල් ලක්ෂ 30 ක මුදලක් වංචා කිරීමේ සිද්ධියක්  සම්බන්ධයෙන්  ප්‍රවීණ රංගන ශිල්පිනි දමිතා අබේරත්න  සහ ඇයගේ සැමියා වන ලෙන්ලි ජොන්සන්   යුවළ අත්අඩංගුවට  ගැනීමට  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට මෙතෙක් නොහැකි වී ඇතැයි  දැනගන්නට ඇත.
+The CID failed to arrest Rs. Damitha Abeyratne for cheating, despite visiting her home six days ago.
 
-මීට දින 6 කට ඉහතදී    ඉකුත් (27)රාත්‍රී බොරලැස්ගමුව පැපිලියාන දමිතා  අබේරත්න මහත්මියගේ  නිවසට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන්  ගියද  ඔවුන් දෙදෙනා ඒ වන  විටත් නිවසින් පිටව ගොස් තිබිණි.
+🟩
 
-කොරියාවට යවන බව නය රුපියල් ලක්ෂ තිහක මුදලක් වංචා කර ඇති බව ඔවුන්ට එරෙහිව චෝදනා ගොනු කර තිබිණි.
+It is learned that the Criminal Investigation Department has not yet been able to arrest the Criminal Investigation Department (CID) to arrest the arrest of Rs.
 
-ඉකුත් (27) වෙනිදින   ඔවුන් ඉදිරිපත් කළ අපේක්ෂිත ඇප අයදුම් පත මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා ප්‍රතික්ෂේප කිරීමත් සමගම  දමිතා අබේරත්න යුවළ අත්අඩංගුවට ගැනීම සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ විමර්ශන අංශයේ විශේෂ පොලිස්‌ කණ්ඩායමක් බොරලැස්ගමුව  පැපිලියාන   නිවස ගොස් තිබිණි
+The Criminal Investigations Department officials had gone to the house of Pepiliyana Damitha Abeyratne at Boralesgamuwa night before six days ago.
 
-...
+The charges were filed against them that she had cheated on Rs.
+
+The Criminal Investigation Department of the Criminal Investigation Division of the Criminal Investigation Department (CID) had gone to the Pepiliyana house of the Criminal Investigation Department to arrest Dhaitha Abeyratne's arrest
+
+However, the mother of Mrs. Damitha Abeyratne's mother was home to the house.
+
+◼️
 
 [Data](articles/3e8747c7.json)
+
+[Extended Data](ext_articles/3e8747c7.ext.json)
 
 ---
 
@@ -2111,105 +2193,5 @@ We are taking action these days on other people who have passed the examination.
 [Data](articles/5e0b01a2.json)
 
 [Extended Data](ext_articles/5e0b01a2.ext.json)
-
----
-
-### India in the context of the lifeblood of life
-
-*2024-04-01 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180163) · `ta`
-
-Maithripala Sirisena claims India orchestrated a bomb attack, sparking debate. Nalin Bandara suggests someone directs him. Ranil Wickremesinghe, former president, criticized for forgetting Scotland Yat affair. Harin Fernando mourns the incident, expressing opposition. Investigations continue, with public interest high.
-
-🟩
-
-Maithripala Sirisena's claim that India is behind the bombing should be made public who helped India to carry out a bomb attack.
-
-United People's Power MP Nalin Bandara said that it is known that someone is directing Maithripala Sirisena.
-
-He was speaking at a debate on the Ayurvedic law and order rules held in Parliament on Monday (1).
-
-Former President Maithripala Sirisena's comments regarding the lifeblood of a bomb blast. It is noteworthy that India is behind the bombing.
-
-If India is in the wake of the resurrection Sunday bombing of the former president. It is also clear that someone who helped India should be made public.
-
-Ranil Wickremesinghe said before becoming president of Scotland Yat police. He has forgotten the Scotland Yat affair after becoming president with the support of the Sri Lanka PA.
-
-Minister Harin Fernando shed tears in connection with the bombing incident while on the opposition.
-
-He visited the Parliament with a black shawl and expressed his opposition.
-
-...
-
-[Data](articles/c4e69500.json)
-
-[Extended Data](ext_articles/c4e69500.ext.json)
-
----
-
-### Sri Lanka to extend visa-free pilot project till April 30: tourism minister
-
-*2024-04-01 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-extend-visa-free-pilot-project-till-april-30-tourism-minister-156859/) · `en`
-
-ECONOMYNEXT — A pilot project launched to allow visa-free entrance to Sri Lanka for visitors from seven countries has been extended till April 30, Tourism Fernando Harin Fernando said.
-
-“The pilot project of Free Visa to seven countries will be extended until 30th April 2024. A final decision to be taken during the next few weeks of the pilot project,” Fernando tweeted on Monday April 01.
-
-In October 2023, Sri Lanka’s cabinet approved a proposal to offer visa-free entry for nationals from India, China, Russia, Malaysia, Japan, Indonesia and Thailand as a pilot project till March 31, 2024.
-
-Meanwhile, Sri Lanka and Thailand are considering visa free travel to strengthen economic links between the two countries President Ranil Wickremesinghe in February after signing a free trade with the South East Asian nation.
-
-Sri Lanka reported over 600,000 tourist arrivals within the first three months of 2024, with 608,475 tourist arrivals recorded by March 31.
-
-...
-
-[Data](articles/ece32295.json)
-
-[Extended Data](ext_articles/ece32295.ext.json)
-
----
-
-### Batticaloa National School Teachers' Attention Struggle
-
-*2024-04-01 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180162) · `ta`
-
-Teachers at Pattupuru National School protested against wrongful teacher transfers, claiming it violates national school autonomy. The protest, led by the Pattaru Zonal Educator, highlighted the struggle for teacher rights and the impact of provincial council administration on national schools.
-
-🟩
-
-Teachers of the Pattupuru National School, which belongs to the Pattupuru Educational Zone of the Batticaloa District, staged a protest in front of the school on Monday afternoon.
-
-The struggle was carried out by the Pattaru Zonal Educator, claiming that the teacher was carrying out the wrong activities during the transfer of the teacher.
-
-The demonstration was carried out in condemning the process of transfers of administrations under the provincial council as national schools are running under the national government.
-
-The protest took place in front of the school after school learning was completed today against the unrighteous teacher transfer.
-
-The teachers said that if they were to be transferred under the national school, they would have to be transferred to another national school and would not be allowed to relocate to provincial schools.
-
-...
-
-[Data](articles/b719ff9c.json)
-
-[Extended Data](ext_articles/b719ff9c.ext.json)
-
----
-
-### Sri Lanka extends free visa scheme for 7 countries
-
-*2024-04-01 17:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98352/sri-lanka-extends-free-visa-scheme-for-7-countries) · `en`
-
-The pilot project of granting visa-free entry to Sri Lanka for visitors from seven countries will be extended until April 30, 2024, Minister of Tourism Harin Fernando said.
-
-Posting on ‘X’ (formerly Twitter), the Minister further explained that a final decision regarding the matter will be taken during the next few weeks of the pilot project.
-
-In October 2023, the Cabinet of Ministers approved visa-free entry for visitors from seven countries - India, China, Russia, Malaysia, Japan, Indonesia and Thailand as a pilot project until 31 March 2024.
-
-Earlier, the Tourism Minister had stated that the purpose of exempting tourists from many countries from visas is to “attract more tourists to Sri Lanka. “Accordingly, it is expected to increase tourist arrivals to five million over the coming years”, according to the minister.
-
-◼️
-
-[Data](articles/1ee87cd4.json)
-
-[Extended Data](ext_articles/1ee87cd4.ext.json)
 
 ---

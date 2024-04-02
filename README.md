@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 20:18:05**
+As of **2024-04-02 20:33:39**
 
 ## Newspaper Stats
 
-*Scraped **16,685** Articles*
+*Scraped **16,689** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,74 +15,152 @@ newsfirstlk | 363
 dailyftlk | 895
 economynextcom | 912
 islandlk | 925
-adalk | 1,405
+adalk | 1,406
 tamilmirrorlk | 1,989
-adaderanalk | 2,002
+adaderanalk | 2,004
 virakesarilk | 2,400
 dailymirrorlk | 2,568
-adaderanasinhalalk | 2,699
+adaderanasinhalalk | 2,700
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,681 (100.0%) of 16,685 articles have been extended.
+16,685 (100.0%) of 16,689 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### மதுபான மற்றும் இறைச்சிக் கடைகளை மூடவும்
+### At least 29 killed in Istanbul nightclub fire
+
+*2024-04-02 20:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98381/at-least-29-killed-in-istanbul-nightclub-fire) · `en`
+
+At least 29 people have been killed in a fire in a nightclub in Turkey.
+
+The Masquerade club, in the basement of a high-rise building in Istanbul, was closed and being renovated during the day.
+
+The fire broke out just after midday, Istanbul governor Davut Gül said, adding that the cause was not yet clear.
+
+Mr Gül said that the victims of the fire were thought to have been involved in the renovation work.
+
+Five people have been arrested in connection with the fire as investigations continue.
+
+They include three workplace officials, the nightclub manager and the manager of the renovations.
+
+Firefighters and other first responders surrounded the charred and smoking entrance to the club, which occupies two floors underneath a 16-storey residential building in the city’s Gayrettepe district.
+
+The number of victims has rapidly increased throughout the afternoon, with the governor’s office issuing a string of updates.
+
+...
+
+[Data](articles/c7640bc5.json)
+
+---
+
+### Supreme Court issues interim injunction on Excise Dept.
+
+*2024-04-02 20:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98380/supreme-court-issues-interim-injunction-on-excise-dept) · `en`
+
+The Supreme Court on Tuesday (02) issued an interim injunction, preventing the Excise Department from issuing liquor licenses in violation of the provisions of the Excise Act of Sri Lanka.
+
+The court order will be in effect until 10 May 2024, according to Ada Derana correspondent.
+
+◼️
+
+[Data](articles/62db760d.json)
+
+---
+
+### තුර්කියේ නයිට් ක්ලබ් ගින්නකින් 29ක් මරුට
+
+*2024-04-02 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195223) · `si`
+
+තුර්කියේ රාත්‍රී සමාජ ශාලාවක ඇතිවූ ගින්නකින් විශාල පිරිසක් අනතුරට පත්වී ඇති බව වාර්තා වෙයි.
+
+ජාත්‍යන්තර මාධ්‍ය වාර්තා සඳහන් කරන්නේ ඉන් මේ වනවිට 29 දෙනෙක් මියගොස් ඇති බවයි.
+
+◼️
+
+[Data](articles/75b418a8.json)
+
+---
+
+### Close the liquor and meat shops
 
 *2024-04-02 19:58:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபான-மற்றும்-இறைச்சிக்-கடைகளை-மூடவும்/175-335524) · `ta`
 
-எதிர்வரும் வெசாக் தினத்தையொட்டி நடைபெறவுள்ள தொடர் நிகழ்ச்சிகள் காரணமாக, மே 22, 23 மற்றும் 24 ஆகிய திகதிகளில் மிருகவதையை நிறுத்துவதன் பொருட்டு  இறைச்சிக் கடைகளை மூடுமாறும் மதுபானக் கடைகள் உள்ளிட்ட போதைப்பொருள் விற்பனை செய்யும் இடங்களை மூடுமாறும் புத்த சாசன, சமய மற்றும் கலாசார அலுவல்கள் அமைச்சு கோரிக்கை விடுத்துள்ளது.
+The Ministry of Buddhist Affairs has ordered the closure of meat shops and liquor stores from May 22-24 for Vesak Day events. The Vesak week, centered in Matale, will run from May 21-27, with the theme "we will look at what we did without seeing others."
 
-இதேவேளை, மாத்தளை மாவட்டத்தை மையமாக வைத்து வெசாக் வாரமாக பெயரிடப்பட்டு எதிர்வரும் மே மாதம் 21 ஆம் திகதி முதல் 27 ஆம் திகதி வரை அரச வெசாக் விழா நடைபெறவுள்ளதாக அமைச்சரவை பேச்சாளரும் அமைச்சருமான பந்துல குணவர்தன தெரிவித்தார்.
+🟩
 
-இந்த ஆண்டுக்கான அரச வெசாக் பண்டிகையின் தொனிப்பொருள் “மற்றவர்கள் செய்ததை பார்க்காமல் நாம் செய்ததை நோக்குவோம்” என்பதாகும்.
+The Ministry of Buddhist Charter, Religious and Cultural Affairs has called for the closure of meat shops and the closure of drugs, including liquor stores, on May 22, 23 and 24 due to a series of events to be held on the upcoming Vesak Day.
 
-விழாவின் தொடக்க விழா மாத்தளை தர்மராஜா பிரிவெனா வளாகத்திலும், நிறைவு விழா பல்லேபொல பிரதேச செயலகப் பிரிவிலுள்ள மில்லவன ஸ்ரீ சுனந்தராம ஆலய வளாகத்திலும் நடைபெற உள்ளது.
+Meanwhile, Cabinet Spokesperson and Minister Bandula Gunawardena said that the state Vesak ceremony will be held from May 21 to 27, named Vesak week, centered on the Matale district.
+
+The theme of this year's royal Vesak festival is "we will look at what we did without seeing others."
+
+The inauguration ceremony of the festival will be held at the Dharmaraja Division Complex of Matale and the closing ceremony will be held at the Millavana Sri Sunarama Temple Complex in the Pallapola Divisional Secretariat Division.
 
 ◼️
 
 [Data](articles/31902d2c.json)
 
+[Extended Data](ext_articles/31902d2c.ext.json)
+
 ---
 
-### ப்ரபாத், கமிந்துவின் சுழல்பந்துவீச்சு ஆற்றல்களால் தொடர் வெற்றியை அண்மித்துள்ளது இலங்கை
+### Prabhat, Kamindu's spinning spinning has been successful in Sri Lanka
 
 *2024-04-02 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180278) · `ta`
 
-பங்களாதேஷுக்கு எதிராக சட்டோக்ராம், ஸஹுர் அஹ்மத் சௌதரி விளையாட்டரங்கில் நடைபெற்றுவரும் இரண்டாவது டெஸ்ட் கிரிக்கெட் போட்டியில் சுழல்பந்துவீச்சாளர்களான ப்ரபாத் ஜயசூரிய, கமிந்து மெண்டிஸ் ஆகிய இருவரும் தலா 2 விக்கெட்களை வீழ்த்தியதன் பலனாக 2 - 0 என்ற தொடர் வெற்றியை இலங்கை அண்மித்துள்ளது.
+Sri Lanka won the 2nd Test against Bangladesh, needing 3 wickets for victory. Kamindu Mendis, debuting as the 6th bowler, took a crucial wicket, turning the match. Bangladesh was bowled out for 268, setting Sri Lanka's target at 511.
 
-இந்தத் தொடரில் இலங்கையினால் இரண்டாவது தொடர்ச்சியான தடவையாக நிர்ணயிக்கப்பட்ட 511 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி இரண்டாவது இன்னிங்ஸில் துடுப்பெடுத்தாடிவரும் பங்களாதேஷ் இன்றைய நான்காம் நாள் ஆட்ட நேர முடிவில் 7 விக்கெட்களை இழந்து 268 ஓட்டங்களைப் பெற்றிருந்தது.
+🟩
 
-இதற்கு அமைய இலங்கையின் வெற்றிக்கு 3 விக்கெட்கள் தேவைப்படுவதுடன் பங்களாதேஷின் வெற்றிக்கு மேலும் 243 ஓட்டங்கள் தெவைப்படுகிறது.
+Sri Lanka recently won a series of winning a series of winning 2 wickets each in the second Test cricket match at Sahur Ahmad Chaudhary Stadium against Bangladesh.
 
-இந்த வெற்றி இலக்கை பங்களாதேஷ் அடையுமா என்பது நினைத்துப்பார்க்கக் கூடிய ஒன்றல்ல. ஆனால், விசித்திரமான விளையாட்டான கிரிக்கெட்டில் சாதனைமிகு வெற்றி இலக்குகள் கடக்கப்பட்டுள்ளதை மறக்கலாகாது.
+Bangladesh were bowled out for 268 runs at the end of the fourth day of today's fourth -day match.
 
-போட்டியின் கடைசி நாளான நாளைய தினம் பங்களாதேஷ் தடுத்தாடும் உத்தியைக் கையாளும் என்பதால் அவ்வணி பெரும் அழுதத்தை எதிர்கொள்ளும் என்பதில் சந்தேகம் இல்லை.
+Accordingly, Sri Lanka needs 3 wickets for victory and Bangladesh will win a further 243 runs.
+
+It is not a thought that Bangladesh will reach this goal. But it is not forgetting that the achievement of a strange game, cricket, has crossed the goals.
+
+There is no doubt that the day of the competition will face a huge cry because Bangladesh will handle the strategy.
+
+In the first Test, Bangladesh won by 328 runs to win 511 runs for Bangladesh.
+
+For the first time in the series, Sri Lanka's spin bowlers are expected to lose Bangladesh within 300 runs on the last day.
+
+Not surprisingly, though, the bowling of the last day, although he selected the bowling of each spin in this match, but the bowling of both hands.
 
 ...
 
 [Data](articles/b17ac664.json)
 
+[Extended Data](ext_articles/b17ac664.ext.json)
+
 ---
 
-### கல்முனை பிரதேச செயலக விவகாரம்: 9 நாளாகவும் தொடர் போராட்டம்
+### Kalmunai Divisional Secretariat Affairs
 
 *2024-04-02 19:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180277) · `ta`
 
-கல்முனை வடக்கு மற்றும் கல்முனை தெற்கு பிரதேச செயலகங்களின் நிதி நடவடிக்கைகள் தொடர்பிலான தொடர் போராட்டமானது 9ஆம் நாளாகவும் முன்னெடுக்கப்பட்டுள்ளது.
+Kalmunai Divisional Secretariat Affairs: For 9 days, Kalmunai North and South Divisional Secretariats have been protesting against the handling of financial activities by the Kalmunai North Divisional Secretariat, with the District Secretariat and Ministry of Home Affairs' involvement. Pandaruppu residents are also participating to strengthen the struggle.
 
-கல்முனை வடக்கு பிரதேச செயலகத்தின் நிதி நடவடிக்கைகளை கல்முனை தெற்கு பிரதேச செயலகத்தினால் கையாளப்படுகின்றமையும் அதனை மாவட்ட செயலகமும் உள்நாட்டலுவல்கள் அமைச்சும் அனுமதித்து வருகின்றமையை எதிர்ப்பு தெரிவித்த குறித்த போராட்டம் முன்னெடுக்கப்பட்டுள்ளது.
+🟩
 
-இன்றைய போராட்டத்திற்கு மேலும் வலுசேர்க்கும் வகையில் பாண்டிருப்பு பிரதேச மக்கள் நடைபவனியாக போராட்டத்தை மேற்கொண்டிருந்தமையும் குறிப்பிடத்தக்கது.
+The continuous struggle on the financial activities of the Kalmunai North and Kalmunai South Divisional Secretariats has been carried out for the 9th day.
+
+The struggle has been carried out against the fact that the Kalmunai North Divisional Secretariat is handling the financial activities by the Kalmunai South Divisional Secretariat and the District Secretariat and the Ministry of Home Affairs are allowed to do so.
+
+It is also noteworthy that the people of Pandaruppu have been fighting as a walk to further strengthen the struggle.
 
 ◼️
 
 [Data](articles/ead68d21.json)
+
+[Extended Data](ext_articles/ead68d21.ext.json)
 
 ---
 
@@ -261,6 +339,20 @@ Accordingly, the health unions said that a final decision will be taken to take 
 [Data](articles/300505be.json)
 
 [Extended Data](ext_articles/300505be.ext.json)
+
+---
+
+### සංචාරක ව්‍යාපාරය ලොකු පිම්මක
+
+*2024-04-02 18:09:50* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරක-ව්‍යාපාරය-ලොකු-පිම්මක/11-408909) · `si`
+
+දෙසැම්බර් මාසයේ සිට මේ වසරේ මාර්තු මාසය දක්වා ශ්‍රී ලංකාවට අඛණ්ඩවම විදෙස් සංචාරකයන් ලක්ෂ 2ක සීමාව ඉක්මවා පැමිණ ඇති බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරියේ නවතම දත්ත පෙන්වා දෙයි.
+
+පසුගිය මාර්තු මාසය තුළද සංචාරකයන් 209,181 ක් ශ්‍රී ලංකාවට පැමිණ ඇති අතර ඒ අනුව මේ වසරේ ගතවූ මාස තුනක කාලය තුළ ශ්‍රී ලංකාවට පැමිණ ඇති සංචාරකයන් සංඛ්‍යාව 635,784 කි.
+
+◼️
+
+[Data](articles/b693943e.json)
 
 ---
 
@@ -1354,23 +1446,33 @@ Previous school shootings in Finland have put a harsh focus on Finland’s gun p
 
 ---
 
-### அறகலயவில் தேசிய, சர்வதேச மட்டத்தில் சூழ்ச்சி : பாராளுமன்ற தெரிவுக்குழுவை நியமிக்குமாறு சபாநாயகரிடம் விமல் வலியுறுத்தல்
+### Wimal urges Speaker to appoint Parliamentary Select Committee
 
 *2024-04-02 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180227) · `ta`
 
-அறகலய இடம்பெற்ற சந்தர்ப்பத்தில் நாட்டின் இறையாண்மைக்கு எதிராக செயற்பட்ட தேசிய மற்றும் சர்வதேச தரப்பினர் குறித்து  விசாரணைகளை மேற்கொள்ள பாராளுமன்ற தெரிவுக்குழு அமைக்கப்பட வேண்டும்.
+Wimal Weerawansa, MP and NFF leader, urged the Speaker to establish a Parliamentary Select Committee to investigate parties undermining national sovereignty, following a special speech in Parliament. He highlighted pressure exerted by national and international parties during the Charitable Trust presidency and criticized the absence of mention in a book by former President Gotabhaya Rajapaksa.
 
-அத்துடன் இவ்விடயம் தொடர்பில் இரண்டு நாள் விவாதத்தை நடத்த வேண்டும் என தேசிய சுதந்திர முன்னணியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான விமல் வீரவன்ச சபாநாயகரிடம் வலியுறுத்தினார்.
+🟩
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (2) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து  உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+The Parliamentary Select Committee should be set up to investigate the national and international parties who have acted against the sovereignty of the country at the event.
 
-சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை மீதான வாக்கெடுப்பு  நிறைவடைந்த தினத்தன்று நீங்கள் (சபாநாயகர்) சபைக்கு விசேட உரையாற்றினீர்கள்.
+The National Freedom Front leader and Member of Parliament, Wimal Weerawansa, urged the Speaker to hold a two -day debate on the issue.
 
-அறகலய வேளையில்  அரசியலமைப்புக்கு முரணான வகையில் ஜனாதிபதி பதவியை பொறுப்பேற்க தேசிய மற்றும் சர்வதேச மட்டத்திலும், அரசியல் தரப்பின் மட்டத்திலும் அழுத்தம் பிரயோகிக்கப்பட்டதாக குறிப்பிட்டிருந்தீர்கள்.
+He was speaking at a special speech during a session held in Parliament on Tuesday (2).
+
+On the day when the referendum on the no -confidence motion against the Speaker was completed, you made a special address to the House (Speaker).
+
+You mentioned that pressure was imposed on the national and international level and the level of the political party to take over the presidency of the presidency at the time of the Charitable Trust.
+
+I published a book titled '9 Sekownu'.
+
+Similarly, former President Gotabhaya Rajapaksa recently published the front cover of the book 'maneuver'.. But there is no mention in the book.
 
 ...
 
 [Data](articles/ca843972.json)
+
+[Extended Data](ext_articles/ca843972.ext.json)
 
 ---
 
@@ -2131,97 +2233,5 @@ According to the government, out of Sri Lankan’s student population, which amo
 [Data](articles/b36d6416.json)
 
 [Extended Data](ext_articles/b36d6416.ext.json)
-
----
-
-### Govt. to provide free sanitary napkins to schoolgirls from April
-
-*2024-04-02 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98368/govt-to-provide-free-sanitary-napkins-to-schoolgirls-from-april) · `en`
-
-The government has decided to provide free-of-charge sanitary napkins to schoolgirls starting this month.
-
-At its meeting on Monday (01), the Cabinet of Ministers green-lighted a proposal presented by Education Minister Susil Premajayantha to carry out the program annually.
-
-Thereby, as many as 800,000 schoolgirls from rural schools, remote schools, estate schools, and urban schools with poverty-stricken students, will thus be provided with sanitary napkins free of charge.
-
-According to the government, out of Sri Lankan’s student population, which amounts to approximately 4 million, a total of 1.2 million are menstruating schoolgirls.
-
-Last month, the PublicFinance.lk revealed that sanitary napkins are subjected to unreasonably high taxes in Sri Lanka, which amounts to 47.1% as opposed to 30.6% on gold jewellery, 22.3% raw silk, and 22.3% golf clubs, golf balls and military artillery weapons.
-
-...
-
-[Data](articles/d579b288.json)
-
-[Extended Data](ext_articles/d579b288.ext.json)
-
----
-
-### A mother arrested for ransing a child of his child class
-
-*2024-04-02 12:16:35* · [`adalk`](https://www.ada.lk/breaking_news/තම-දරුවගේ-පන්තියේ-දරුවකු-උස්සා-කප්පම්-ගන්න-හැදූ-මවක්-අත්තඩංගුවට/11-408897) · `si`
-
-A mother was arrested for ransoming her child. A woman filed an extortion case at Batapola Police. Suspects were arrested for questioning a student in Ambalangoda. The police identified the mother of the abducted student as a suspect. Further investigations are ongoing.
-
-🟩
-
-A woman who has been brought to the Batapola Police yesterday to file an extort of Rs.
-
-The suspects were arrested for questioning in a new year student of a major school in Ambalangoda.
-
-The police say that the mother of the Balapola resident of the Bettastata student who is being abducted is revealed in the preliminary investigations into the midst of the suspect..
-
-The police said that after analyzing the data provided in this ransom and the telephone calls received, the suspect was identified.
-
-Batapola OIC Inspector General Janaka Sampath are conducting further investigations.
-
-◼️
-
-[Data](articles/94df4338.json)
-
-[Extended Data](ext_articles/94df4338.ext.json)
-
----
-
-### Not possible to suspend liquor license for long: State Minister
-
-*2024-04-02 12:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Not-possible-to-suspend-liquor-license-for-long-State-Minister/108-280030) · `en`
-
-Parliament, April 2 (Daily Mirror)- It is not possible to suspend liquor licenses for a long period as the government loses revenue in such an eventuality, State Minister of Finance Ranjith Siyambalapitiya told Parliament today.
-
-The State Minister said this in response to an allegation by Leader of the Opposition Sajith Premadasa that licenses have been given back to liquor companies even before they had settled the default taxes.
-
-Also, the State Minister said the ground situation with regard to the tax default is different from what has been revealed by the Ways and Means Committee.
-
-◼️
-
-[Data](articles/e0705d81.json)
-
-[Extended Data](ext_articles/e0705d81.ext.json)
-
----
-
-### Wimal requests foreign conspiracies during the struggle
-
-*2024-04-02 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195207) · `si`
-
-MP Wimal Weerawansa calls for a parliamentary selective committee to investigate foreign and local organizations involved in past struggles, including opposition members. He also demands a two-day debate on the influence of foreign forces on the presidency and sovereignty, criticizing former President Gotabhaya Rajapaksa's book for abandoning him due to local and foreign forces.
-
-🟩
-
-MP Wimal Weerawansa requested a appointment of a parliamentary selective committee to look into the local and foreign organizations suspected of the past struggles.
-
-The MP was also requested in parliament to add opposition members of the party.
-
-Also, the two cases during the struggle was also requested to hold a two-day parliamentary debate.
-
-"During the struggle, you are the main responsibility of the constitution.. That means that some group of teams have influenced the presidency, and some embassies, and what ambassadors and politicians were involved in the book. "
-
-"Former President Gotabhaya Rajapaksa's book has made a situation where he abandoned him due to local and foreign forces. Now this point is three true this is a very serious situation. This is a question of sovereignty of this country. This was what happened to the past, that's all you think we should talk about it now a serious disgrace to the sovereignty of the country. "
-
-...
-
-[Data](articles/c9d1dde1.json)
-
-[Extended Data](ext_articles/c9d1dde1.ext.json)
 
 ---

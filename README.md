@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 23:52:30**
+As of **2024-04-03 00:03:59**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 2,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,709 (100.0%) of 16,712 articles have been extended.
+16,712 (100.0%) of 16,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### சுகாதார ஊழியர்களின் போராட்டத்திற்கு தீர்வு
+### Solution to the struggle of health workers
 
 *2024-04-02 23:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180281) · `ta`
 
-சுகாதார தொழிற்சங்கங்களினால் முன்னெடுக்கப்பட்ட பணிப்புறக்கணிப்பை 03 வாரங்களுக்கு இடைநிறுத்துவதற்குச் செவ்வாய்க்கிழமை (02) தீர்மானிக்கப்பட்டுள்ளது.
+Health workers' struggle resolved: Tuesday's decision to suspend health trade unions' workplace for three weeks, with a 50% salary increase for May and a parallel allowance for doctors, as per the Minister of Health's letter.
 
-சுகாதார அமைச்சரிடமிருந்து கடிதம் கிடைத்த பின்னரே இந்த தீர்மானம் எடுக்கப்பட்டதாகச் சுகாதார தொழில் வல்லுனர்கள் சங்கத்தின் தலைவர் ரவி குமுதேஷ் தெரிவித்துள்ளார்.
+🟩
 
-அதன்படி, வைத்தியர்களுக்கு வழங்கப்படும் 'டெட்' என்ற போக்குவரத்து கொடுப்பனவுக்கு இணையான கொடுப்பனவொன்று தமக்கும் கிடைக்கவுள்ளதாகவும் அதில் 50% மே மாத சம்பளத்தில் சேர்க்கப்படும் என்றும் அவர் தெரிவித்தார்.
+The workplace was decided on Tuesday (02) to suspend the workplace implemented by the health trade unions for three weeks.
+
+Ravi Kumudesh, president of the Health Professional Association, said that the decision was taken only after receiving a letter from the Minister of Health.
+
+Accordingly, he said that a allowance parallel parallel to the doctors 'ted' will be available to him and 50% will be added to the salary of May.
 
 ◼️
 
 [Data](articles/576a3fbf.json)
 
+[Extended Data](ext_articles/576a3fbf.ext.json)
+
 ---
 
-### அடையாளம் காணப்படாத நபரின் உடல் நல்லடக்கம்
+### The body of the unidentified person
 
 *2024-04-02 23:33:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/அடையாளம்-காணப்படாத-நபரின்-உடல்-நல்லடக்கம்/73-335539) · `ta`
 
-அடையாளம் காணப்படாத நபரொருவரின் உடல் செவ்வாய்க் கிழமை (2) ஓட்டமாவடி - மஜ்மா நகர் கொவிட் மையவாடியில் நல்லடக்கம் செய்யப்பட்டுள்ளது.
+An unidentified person's body was restored at the Kovit Center in Majma Nagar, Ottamavadi, on Tuesday. The 60-year-old man was injured in Diyawattavan in February, treated at Valaichenai Resource Hospital, and died without treatment. The body was taken from the hospital by the Magistrate's Court Judge, Valaichenai Police, and Grama Niladhari M., and a Janasa Prayer was held under Azwar's supervision.
 
-கடந்த பெப்ரெவரி மாதம் வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட தியாவட்டவான் பகுதியில் இடம்பெற்ற விபத்தொன்றில் 60 வயது மதிக்கத்தக்க நபரொருவர் காயமடைந்து வாழைச்சேனை ஆதார வைத்தியசாலையில் சிகிச்சை பெற்று வந்தார்.
+🟩
 
-குறித்த நபர் சிகிச்சை பலனின்றி மரணமடைந்த நிலையில் உடல் நீண்ட நாட்களாக அடையாளம் காணப்படாமல் வைத்தியசாலை குளிர்காப்பகத்தில் வைக்கப்பட்டிருந்தது.
+The body of an unidentified person has been restored on Tuesday (2) Ottamavadi - Majma Nagar Kovit Center.
 
-குறித்த நபரின் உடலை வாழைச்சேனை நீதவான் நீதிமன்ற நீதிபதியின் உத்தரவின் பேரில் வைத்தியசாலையிலிருந்து எடுத்து, வாழைச்சேனை பொலிஸார், கிராம உத்தியோகத்தர் எம். அஸ்வர் ஆகியோரின் மேற்பார்வையில் ஜனாஸா தொழுகை நடாத்தப்பட்டு நல்லடக்கம் செய்யப்பட்டது. R
+A 60 -year -old man was injured in an accident in Diyawattavan area under the Valaichenai police division last February and was treated at the Valaichenai Resource Hospital.
+
+The body was kept in the hospital for a long time when the person died without treatment.
+
+The body of the man was taken from the hospital on the orders of the Magistrate's Court Judge, Valaichenai Police, Grama Niladhari M.. The Janasa Prayer was held under the supervision of Azwar. Remble
 
 ◼️
 
 [Data](articles/5b486e64.json)
+
+[Extended Data](ext_articles/5b486e64.ext.json)
 
 ---
 
@@ -83,6 +95,8 @@ He said both Sri Lanka Customs and the Colombo Port have been instructed to carr
 ...
 
 [Data](articles/0bd9713c.json)
+
+[Extended Data](ext_articles/0bd9713c.ext.json)
 
 ---
 

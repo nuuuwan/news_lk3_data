@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 02:50:14**
+As of **2024-04-03 03:03:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,728 (100.0%) of 16,732 articles have been extended.
+16,732 (100.0%) of 16,732 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The sovereignty of Kachchativu Island which Sri Lanka had exercised throughout h
 
 [Data](articles/38224f20.json)
 
+[Extended Data](ext_articles/38224f20.ext.json)
+
 ---
 
 ### Child pregnancies, minimum age for marriage and consent debate - EDITORIAL
@@ -61,6 +63,8 @@ Chair of the Women Parliamentarians’ Caucus, MP Dr. Sudarshini Fernandopulle, 
 ...
 
 [Data](articles/1f35dfa6.json)
+
+[Extended Data](ext_articles/1f35dfa6.ext.json)
 
 ---
 
@@ -76,17 +80,27 @@ Two weeks back, he made an astounding revelation that he knew who was behind the
 
 [Data](articles/9dd09ed6.json)
 
+[Extended Data](ext_articles/9dd09ed6.ext.json)
+
 ---
 
-### வேதனச் சட்ட திருத்தமும்  தோட்டத் தொழிலாளர்களும்!
+### Amendment and plantation workers!
 
 *2024-04-03 01:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180287) · `ta`
 
-2016ஆம் ஆண்டின் 3ஆம் இலக்க தொழிலாளர் தேசிய குறைந்தபட்ச வேதனச் சட்டத்தின் ஏற்பாடுகளுக்கமைய, தொழிலாளர்களின்  தேசிய குறைந்தபட்ச வேதனத்தை  17.500 ரூபாவாக அதிகரிப்பதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது. இதன் படி 12.500 ரூபாவாக  இருந்த மாதாந்த வேதனம் ஐயாயிரம் ரூபாயால் அதிகரிக்கப்பட்டுள்ளது. அதே வேளை ஆகக்குறைந்த நாளாந்த சம்பளத்திலும் மாற்றங்கள் ஏற்பட்டுள்ளன.
+The Cabinet has approved a 5,000 rupee increase in the national minimum wage to 17,500 rupees, effective immediately. This decision, made without a voluntary Cabinet paper from Labor Minister Manusha Nanayakkara, has sparked controversy. Workers in various industries are facing labor exploitation due to unclear minimum wage laws. The Central Bank's governor has been criticized for a 70% salary increase for bank employees, which has not been discussed in Parliament.
+
+🟩
+
+The Cabinet has approved the increase in the national minimum pain of the workers to 17.500 rupees, according to the preparations of the Labor National Minimum Pain Act No. 3 of 2016.. Accordingly, the monthly pain, which was 12.500 rupees, has been increased by five thousand rupees. At the same time, there has been a shortest day -to -day salary.
+
+According to the law, the daily salary has been increased to Rs.. Labor Minister Manusha Nanayakkara did not voluntarily submit a Cabinet paper for amendments to the minimum pain law.The Minister of Labor had submitted the Cabinet paper on the recommendations of a tripartite subcommittee, which includes trade unions and industrialists representing small and medium -sized entrepreneurs appointed by the National Labor Advisory Council.
 
 ...
 
 [Data](articles/16519871.json)
+
+[Extended Data](ext_articles/16519871.ext.json)
 
 ---
 

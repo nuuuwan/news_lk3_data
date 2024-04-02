@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 21:03:29**
+As of **2024-04-02 21:18:12**
 
 ## Newspaper Stats
 
-*Scraped **16,696** Articles*
+*Scraped **16,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 895
 economynextcom | 912
 islandlk | 925
-adalk | 1,406
+adalk | 1,407
 tamilmirrorlk | 1,989
-adaderanalk | 2,006
-virakesarilk | 2,401
+adaderanalk | 2,007
+virakesarilk | 2,402
 dailymirrorlk | 2,570
 adaderanasinhalalk | 2,702
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,702
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,692 (100.0%) of 16,696 articles have been extended.
+16,696 (100.0%) of 16,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### සෞඛ්‍ය වර්ජනය අවසන්
+### The health strike ends
 
 *2024-04-02 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195225) · `si`
 
-සෞඛ්‍ය වෘත්තීය සමිති ක්‍රියාත්මක කළ වැඩවර්ජනය සති 03කට අත්හිටුවීමට අද (02) තීරණය කර තිබේ.
+The Health Trade Unions' strike ends after three weeks. Ravi Kudmith, Chairman of the Indigenous Association of Health Professional Association, announced the decision from the Ministry of Health. Doctors will receive a parallel allowance, similar to their gift, with an additional 50% of their May salary.
 
-සෞඛ්‍ය වෘත්තියවේදීන්ගේ විද්වත් සංගමයේ සභාපති රවී කුමුදේශ් මහතා සඳහන් කළේ සෞඛ්‍ය අමාත්‍යාංශයෙන් ලිපියක් ලැබීම හේතුවෙන් මෙම තීරණය ගත් බවය.
+🟩
 
-ඒ අනුව වෛද්‍යවරුන්ට ලබාදෙන ඩැට් හෙවත් ප්‍රවාහන හා නිර්බාධක දීමනාවට සමාන්තර දීමනාවක් තමන්ටද ලැබෙන බවත් මැයි මාසයේ වැටුපට ඉන් 50%ක් එකතු වීමට නියමිත බවත් ඔහු පවසයි.
+The strike implemented by the Health Trade Unions has been suspended for three weeks.
+
+The Chairman of the Indigenous Association of Health Professional Association Ravi Kudmith said that this decision was taken as a letter from the Ministry of Health.
+
+Accordingly, he will also receive parallel allowance to doctors, which will be parallel to the gift of doctors and 50% of them will be added to 50% of the salary in May.
 
 ◼️
 
 [Data](articles/d222cc79.json)
+
+[Extended Data](ext_articles/d222cc79.ext.json)
 
 ---
 
@@ -57,6 +63,26 @@ The ongoing trade union action launched by the health sector workers was called 
 ◼️
 
 [Data](articles/daf90c6f.json)
+
+[Extended Data](ext_articles/daf90c6f.ext.json)
+
+---
+
+### Health sector trade unions call off strike
+
+*2024-04-02 20:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98382/health-sector-trade-unions-call-off-strike) · `en`
+
+The ongoing trade union action launched by the health sector workers has been called off.
+
+The trade unions affiliated with the Health Trade Union Alliance were planning to resort to an indefinite strike tomorrow (03) after the discussion that was originally scheduled to be held on Monday with the ministerial authorities was deferred to this evening.
+
+However, as the meeting convened at the Presidential Secretariat earlier today ended on a positive note, the health sector trade unions arrived at a decision to call off the planned indefinite strike action.
+
+The health workers also engaged in a 4-hour strike at 10 selected hospitals at 6.30 a.m. today (02).
+
+◼️
+
+[Data](articles/ec2b0f21.json)
 
 ---
 
@@ -71,6 +97,8 @@ Newly appointed Test captain Dhananjaya de Silva is on the verge of securing bac
 ...
 
 [Data](articles/981f7603.json)
+
+[Extended Data](ext_articles/981f7603.ext.json)
 
 ---
 
@@ -219,6 +247,8 @@ As such, the petitioning party requested the judge bench to deliver an injunctio
 ◼️
 
 [Data](articles/bc746b1e.json)
+
+[Extended Data](ext_articles/bc746b1e.ext.json)
 
 ---
 
@@ -476,6 +506,22 @@ Istanbul Governor Dawood Gul said 10 people were killed and 13 others were injur
 
 ---
 
+### මැයි මස  22, 23 හා 24 සියලුම සුරාසැල් වසයි
+
+*2024-04-02 18:19:56* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-මස--22--23-හා-24-සියලුම-සුරාසැල්-වසයි/11-408910) · `si`
+
+ජාතික වෙසක් උත්සවයට සමගාමීව මැයි මස 22 දා සිට 24 යන තෙදින තුළ සියලුම සුරා සැල් වසා තැබීමට බුද්ධ ශාසන හා ආගමික කටයුතු අමාත්‍යාංශය ඉදිරිපත් කළ යෝජනාවට කැබිනට් අනුමැතිය ලැබී තිබේ.
+
+සුරසැල් වසා තැබීමට අමතරව සත්ව ඝාතන සිදුකරන ස්ථාන හා මස් හා මාංශ අලෙව් කරන ස්ථානද වසා තැබීමට නියමිතය.
+
+ජාතික වෙසක් සතිය මැයි 21 දා සිට 27 දා දක්වා මාතලේ දිස්ත්‍රික්කය කේන්ද්‍ර කර ගනිමින් පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/f1902714.json)
+
+---
+
 ### The decision of health workers is tonight
 
 *2024-04-02 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195221) · `si`
@@ -607,6 +653,24 @@ Although it has been repeatedly said that the elephant fences are said to be set
 [Data](articles/813bfbef.json)
 
 [Extended Data](ext_articles/813bfbef.ext.json)
+
+---
+
+### கல்முனை பிரதேச செயலக பிரச்சினைக்கு முஸ்லிம் அரசியல் தலைமைகளோ முஸ்லிம் எம்.பி.க்களோ காரணமல்ல - ஹரீஸ்
+
+*2024-04-02 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180253) · `ta`
+
+வடகிழக்கில் தமிழ் முஸ்லிம் இனம் அரசியல் தீர்வை, அதிகாரபகிர்வை வேண்டி நிற்கின்றபோது கல்முனை மாநகரத்தில் வெறுமனே ஒரு வட்டாரத்தில் 3500 தமிழ் மக்கள் முஸ்லிம்களோடு இணைந்து  வாழ்வதற்கு இடமளிக்காது தமிழ் தலைமைகள் எவ்வாறு வட ,கிழக்கில் தமிழ், முஸ்லிம் மக்கள் ஒற்றுமையாக அதிகாரப்பகிர்வை எட்ட முடியும்,
+
+நாம் தமிழ் மக்களுக்கு எதிரானவர்கள் அல்ல. கல்முனையில் தமிழ் மக்களுக்கென ஒரு எல்லையுடனான பிரதேச செயலகம் அமைத்துக்கொடுக்கப்பட வேண்டும் என நாம் வலியுறுத்துகிறோம்  என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் உறுப்பினர் எச்.எம்.எம். ஹரீஸ்  தெரிவித்தார்.
+
+அத்துடன் கல்முனை பிரதேச செயலக பிர்ச்சினைக்கு முஸ்லிம் அரசியல் தலைமைகளோ முஸ்லிம் எம்.பி.க்களோ காரணமல்ல.
+
+மேன்முறையீட்டு நீதிமன்றம் தமிழ் தரப்பினர்  வேண்டிநிற்கின்ற கல்முனை வடக்கு பிரதேச செயலக விடயம், காணி  அதிகாரம் போன்றவற்றை  இடைக்காலத் தீர்ப்பில் நிராகரித்துள்ளநிலையிலும்  .வழக்கு இன்னும் முடியாத நிலையிலும்.  இந்த பிரச்சினையில் அரசு எப்படி தலையிட முடியும்? எனவும் கேள்வி எழுப்பியினார்.
+
+...
+
+[Data](articles/b021c3a4.json)
 
 ---
 
@@ -2175,73 +2239,5 @@ The President has made this appointment in accordance with the rules of the new 
 [Data](articles/7d95cccb.json)
 
 [Extended Data](ext_articles/7d95cccb.ext.json)
-
----
-
-### New Resolution on Vehicle Import
-
-*2024-04-02 13:09:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-தொடர்பில்-புதிய-தீர்மானம்/175-335507) · `ta`
-
-The Cabinet approved importing air and small buses for tourism, without tax concessions.
-
-🟩
-
-The Cabinet has approved the importation of air and small buses for the needs of the tourism industry.
-
-Cabinet spokesman Minister Bandula Gunawardena said that the Cabinet had approved the proposal put forward by Tourism Minister Harin Fernando.
-
-However, there are no special tax concessions for the importation of the vehicles, he said.
-
-◼️
-
-[Data](articles/b09c93cb.json)
-
-[Extended Data](ext_articles/b09c93cb.ext.json)
-
----
-
-### Australia's humanitarian worker killed in Israel's attack in Gaza
-
-*2024-04-02 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180230) · `ta`
-
-Australian humanitarian Lalsawmi Frankom, 43, killed in Gaza by Israel's attack. Family mourns her courage and love. Seven humanitarian workers, including from Australia, Britain, and Palestine, died in the attack. They were transporting 100 tonnes of aid when attacked.
-
-🟩
-
-Her family said that Lalsawmi Frankom, a female humanitarian employee who was killed in Israel's attack in Gaza, was very loved.
-
-The family said that our brave beloved Jomi was very sad to learn that he was killed when he was working on providing food to the people of Gaza.
-
-The family said that she would leave her tradition of courage and love.
-
-The 43 -year -old humanitarian from Melbourne has been interested in providing it with a humanitarian employee all over the world.
-
-Seven humanitarian workers from many countries, including Australia Britain, have been killed in Israel's attack on Gaza.
-
-Humanitarian employees of Puttuid Sariti have been killed in Gaza due to Israel's attack, according to the World Central Kitchen Organization.
-
-Britain, Australia's humanitarian workers from Palestine and the US Canadian -based citizens of Palestine have died in the attack.
-
-...
-
-[Data](articles/fa77807d.json)
-
-[Extended Data](ext_articles/fa77807d.ext.json)
-
----
-
-### Health workers protest - 2nd day
-
-*2024-04-02 13:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Health-workers-protest-2nd-day/110-280032) · `en`
-
-Health workers today held a protest in front of the Health Ministry for the second day over several demands, including the provision of a Disturbance, Availability and Transport (DAT) allowance. Pix by Nisal Baduge
-
-<span style="color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, " segoe="" ui",="" roboto,="" "helvetica="" neue",="" arial,="" "noto="" sans",="" sans-serif,="" "apple="" color="" emoji",="" "segoe="" ui="" symbol",="" emoji";="" font-size:="" 16px;"="">
-
-◼️
-
-[Data](articles/029a68b5.json)
-
-[Extended Data](ext_articles/029a68b5.ext.json)
 
 ---

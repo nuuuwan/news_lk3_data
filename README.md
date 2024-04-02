@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 14:51:14**
+As of **2024-04-02 15:03:20**
 
 ## Newspaper Stats
 
-*Scraped **16,618** Articles*
+*Scraped **16,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,396
 tamilmirrorlk | 1,982
 adaderanalk | 1,997
 virakesarilk | 2,374
-dailymirrorlk | 2,558
+dailymirrorlk | 2,559
 adaderanasinhalalk | 2,691
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,616 (100.0%) of 16,618 articles have been extended.
+16,618 (100.0%) of 16,619 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### Anura ready for public debate with Sajith on economic policies: Handunnetti
+
+*2024-04-02 14:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-ready-for-public-debate-with-Sajith-on-economic-policies-Handunnetti/108-280042) · `en`
+
+Colombo, April 2 (Daily Mirror)- The National People's Power (NPP) today invited Opposition Leader Sajith Premadasa for a public debate on economic policies with NPP leader and presidential candidate Anura Kumara Dissanayake.
+
+NPP politburo member Sunil Handunnetti told a news conference that the NPP was ready to take up SJB MPs Nalin Bandara and Dr. Harsha De Silva‘s challenge to the NPP Economic Council for a public debate on economic policies and requested them to convey it in writing.
+
+He said it was a good move to have a debate on economic policies of the presidential candidates ahead of the polls so that people can know their policies, adding that Anura Kumara Dissanayake was ready for a debate with SJB leader Sajith Premadasa.
+
+...
+
+[Data](articles/4982422a.json)
+
+---
 
 ### Three kids wounded in Finland school shooting; child suspect caught
 
@@ -52,6 +68,8 @@ Previous school shootings in Finland have put a harsh focus on Finland’s gun p
 
 [Data](articles/7c24a5c8.json)
 
+[Extended Data](ext_articles/7c24a5c8.ext.json)
+
 ---
 
 ### Ehelepola Walawwa to be hand over to Dalada Maligawa, to be converted to wax museum
@@ -67,6 +85,8 @@ Accordingly, the report has recommended that the Ehelepola Walawwa be transferre
 ...
 
 [Data](articles/de31b484.json)
+
+[Extended Data](ext_articles/de31b484.ext.json)
 
 ---
 
@@ -2205,25 +2225,5 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/53a2f8b6.json)
 
 [Extended Data](ext_articles/53a2f8b6.ext.json)
-
----
-
-### Exporters call for urgent action on rupee appreciation
-
-*2024-04-02 03:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Exporters-call-for-urgent-action-on-rupee-appreciation/108-280008) · `en`
-
-Say stronger rupee means goods become more expensive for international buyers
-
-Point out timing of rupee’s appreciation coincides with weak global demand
-
-Five leading export associations have called on the authorities to tackle the pressing challenges posed by the Sri Lankan rupee’s appreciation against the US dollar.
-
-They also highlighted the additional hurdles, including the restrictions on foreign currency movement between commercial banks and compulsory conversion of export earnings into local currency.
-
-...
-
-[Data](articles/87f35fc5.json)
-
-[Extended Data](ext_articles/87f35fc5.ext.json)
 
 ---

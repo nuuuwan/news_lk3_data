@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 11:03:06**
+As of **2024-04-02 11:18:38**
 
 ## Newspaper Stats
 
-*Scraped **16,557** Articles*
+*Scraped **16,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 909
 islandlk | 924
 adalk | 1,391
 tamilmirrorlk | 1,973
-adaderanalk | 1,990
+adaderanalk | 1,991
 virakesarilk | 2,361
 dailymirrorlk | 2,544
 adaderanasinhalalk | 2,682
@@ -26,65 +26,97 @@ adaderanasinhalalk | 2,682
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,551 (100.0%) of 16,557 articles have been extended.
+16,557 (100.0%) of 16,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### බංග්ලාදේශයට ලැබුණු ඉලක්කය
+### New Director General appointed to Bribery Commission
+
+*2024-04-02 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98366/new-director-general-appointed-to-bribery-commission) · `en`
+
+Mr. W. K. D. Wijerathne has been appointed as the Director General of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), the President’s Media Division (PMD) said.
+
+The appointment was made by President Ranil Wickremesinghe, in accordance with the provisions of the new Anti-Corruption Act.
+
+◼️
+
+[Data](articles/85a92472.json)
+
+---
+
+### Goal received by Bangladesh
 
 *2024-04-02 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195202) · `si`
 
-ශ්‍රී ලංකා - බංග්ලාදේශ දෙවැනි ටෙස්ට් තරගයේ සිව් වැනි දිනය අදයි.
+Bangladesh needs 511 runs to win against Sri Lanka in the 2nd Test. Sri Lanka scored 531 in the first innings, and Bangladesh 178. Sri Lanka's second innings was suspended at 157/7, with Angelo Mathews scoring 56.
 
-මීට සුළු මොහොතකට පෙර ශ්‍රී ලංකා කණ්ඩායම සිය දෙවැනි ඉනිම අත්හිටුවීය.
+🟩
 
-ඒ වනවිට ශ්‍රී ලංකා කණ්ඩායම කඩුලු 7ක් දැවී ලකුණු 157ක් ලබාගෙන සිටියේය.
+Today is the fourth day of the Second Test match of the Sri Lanka - Bangladesh.
 
-ඒ අනුව මෙම තරගය ජය ගැනීම සඳහා බංග්ලාදේශ කණ්ඩායම ලකුණු 511ක් ලබාගත යුතුය.
+Sri Lanka suspended its second innings before a few months ago.
 
-ශ්‍රී ලංකා දෙවැනි ඉනිම වෙනුවෙන් ඇන්ජලෝ මැතිව්ස් ලකුණු 56ක් ලබාගත්තේය.
+At that time, Sri Lanka scored 157 runs for the loss of 7 wickets.
 
-තරගයේ පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම ලකුණු 531ක් ලබාගත් අතර බංග්ලාදේශ කණ්ඩායම සිය පළමු ඉනිම සඳහා රැස්කළේ ලකුණු 178ක් පමණි.
+Bangladesh must obtain 511 runs in order to win the match.
+
+Angelo Mathews scored 56 runs for the second innings of Sri Lanka.
+
+Batting first, Sri Lanka scored 531 runs while Bangladesh scored 178 runs for the first innings.
 
 ◼️
 
 [Data](articles/1430706d.json)
 
+[Extended Data](ext_articles/1430706d.ext.json)
+
 ---
 
-### අල්ලස් කොමිෂන් සභාවට නව අධ්‍යක්ෂවරයෙක්
+### New Director of Bribery Commission
 
 *2024-04-02 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195203) · `si`
 
-අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ අධ්‍යක්ෂ ජනරාල්වරයා ලෙස ඩබ්ලිව්.කේ.ඩී. විජේරත්න මහතා පත්කර තිබේ.
+Mr. Wijeratne appointed as Director General of Bribery or Corruption by President Ranil Wickremesinghe, under the new corruption Act.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් එම පත්කිරීම සිදුකර ඇති බව ජනාධිපති මාධ්‍ය අංශය පැවසුවේය.
+🟩
 
-නව දූෂණ විරෝධී පනතේ විධිවිධානවලට අනුව ජනාධිපතිවරයා විසින් මෙම පත්කිරීම සිදුකර තිබේ.
+WDD as Director General of Bribery or Corruption. Mr. Wijeratne has been appointed.
+
+President Ranil Wickremesinghe has made the appointment by the Presidential Media Unit.
+
+The President has appointed the appointment by the provisions of the new corruption Act.
 
 ◼️
 
 [Data](articles/709d7312.json)
 
+[Extended Data](ext_articles/709d7312.ext.json)
+
 ---
 
-### லாஃப்ஸ் எரிவாயு சடுதியாக விலைகுறைப்பு
+### Lafs Gas Gas Fully Prices
 
 *2024-04-02 10:46:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லாஃப்ஸ்-எரிவாயு-சடுதியாக-விலைகுறைப்பு/175-335495) · `ta`
 
-லாஃப்ஸ் எரிவாயு பிஎல்சி நேற்று நள்ளிரவு முதல் அதன் லாஃப்ஸ் உள்நாட்டு திரவமாக்கப்பட்ட பெட்ரோலிய எரிவாயுவின் (எல்பிஜி) விலைகளைக் கணிசமாக குறைத்துள்ளது.
+Lafs Gas PLC reduces LPG prices, citing economic improvements and government support.
 
-இன்றைய நிலவரப்படி, கொழும்பு மாவட்டத்தில் லாஃப்ஸ் வர்த்தக நாமத்தின் கீழ் 12.5 கிலோகிராம் உள்நாட்டு சிலிண்டரின் விலை ரூ.625 ஆல் குறைக்கப்பட்டு, ரூ.4,115 ஆக விற்கப்படும்.
+🟩
 
-"இந்த குறிப்பிடத்தக்க விலை திருத்தம் பல சாதகமான முன்னேற்றங்கள் மற்றும் சாதகமான பொருளாதார சூழலுக்கு பங்களிக்கும் காரணிகளுக்கு ஒரு சான்றாக வருகிறது" என்று லாஃப்ஸ் கேஸ் ஒரு அறிக்கையில் தெரிவித்துள்ளது.
+Lafs gas PLC has significantly reduced the prices of its Lafs domesticated petroleum gas (LPG) since midnight yesterday.
 
-அமெரிக்க டொலருக்கு நிகரான இலங்கை ரூபாவின் பெறுமதி அதிகரிப்பு, வட்டி விகிதங்கள் குறைப்பு மற்றும் ஏராளமான அந்நியச் செலாவணி கிடைப்பது, கடன் பெற திறப்பதற்கு வசதியாக இருப்பது உள்ளிட்ட அரசாங்கக் கொள்கைகளுக்கு அது ஆதரவாகவுள்ளது.
+As of today, the price of 12.5 kilograms of domestic cylinder in the Colombo district will be reduced by Rs 625 and sold at Rs 4,115.
+
+“This significant price correction comes as a testament to many positive improvements and favorable economic environment,” the Lafs Case said in a statement.
+
+It supports government policies, including the increase in the value of the Sri Lankan rupee against the US dollar, the reduction of interest rates, the availability of a large number of foreign exchange, and the facility to open a loan.
 
 ◼️
 
 [Data](articles/dd8d49e3.json)
+
+[Extended Data](ext_articles/dd8d49e3.ext.json)
 
 ---
 
@@ -104,35 +136,49 @@ The Opposition Leader said a proper investigation should be conducted as to how 
 
 [Data](articles/0d100f26.json)
 
+[Extended Data](ext_articles/0d100f26.ext.json)
+
 ---
 
-### තියුණු ආයුධයකින් පහරදී දෙදරු පියෙකු මරුට
+### Father killed in a sharp weapon
 
 *2024-04-02 10:39:12* · [`adalk`](https://www.ada.lk/breaking_news/තියුණු-ආයුධයකින්-පහරදී-දෙදරු-පියෙකු-මරුට/11-408895) · `si`
 
-කලවාන නගරයේ පෞද්ගලික වාහන සේවා ආයතනයක් අසලදී ඊයේ  01දා  තියුණු ආයුධයකින් පහරදී  පුද්ගලයකු  ඝාතනය කර ඇති බව කලවාන පොලිසිය පැවසීය.
+Rajitha Jayasuriya, a Kalawana resident, was killed by a sharp weapon in an argument, leading to his arrest for murder.
 
-මෙලෙස මියගොස් ඇත්තේ කලවාන ගොණගලකන්ද ප්‍රදේශයේ පදිංචි රාජිත ජයසූරිය නැමැති (54) හැවැරිදි  විවාහක දෙදරු පියෙකු  බව කලවාන පොලිසිය පැවසීය.  පුද්ගලයකු සමග ඇති වූ බහින් බස් වීමකින් අනතුරුව තියුණු ආයුධයකින් පහර දී ඔහු එම ස්ථානයේ ඝාතනය කර ඇති බව කලවාන පොලිසිය පැවසීය. රෝහල වෙත ඇතුළත් කරන විටත් ඔහු මියගොස් සිටි බව රෝහල් ප්‍රකාශකයකු පැවසීය. මෙම ඝාතනය සම්බන්ධයෙන් සැකපිට පුද්ගලයකු කලවාන පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+🟩
+
+A person has been assaulted by a private vehicle service company in Kalawana, Kalawana Police said.
+
+The deceased have been identified as Rajitha Jayasuriya, a resident of Kalawana, Kalawana, said the Kalawana Police said.Kalawana Police said that he had been assaulted by a sharp weapon after a heated argument with a person. A hospital spokesman said he had died when he was admitted to the hospital. A person has been arrested by the Kalawana Police on suspicion of the murder.
 
 ◼️
 
 [Data](articles/40feb31f.json)
 
+[Extended Data](ext_articles/40feb31f.ext.json)
+
 ---
 
-### චන්දිමාල් හදිසියේ ම නැවත පැමිණෙයි
+### Chandimal is suddenly returning
 
 *2024-04-02 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195201) · `si`
 
-මේ වනවිට පැවැත්වෙන ශ්‍රී ලංකා - බංග්ලාදේශ දෙවැනි ටෙස්ට් තරගයට සහභාගී වෙමින් සිටි දිනේෂ් චන්දිමාල් වහාම ක්‍රියාත්මක වන පරිදි එම තරගයෙන් ඉවත්වී තිබේ.
+Dinesh Chandimal, in Sri Lanka and Bangladesh, leaves match due to family medical emergency. Sri Lanka Cricket confirms his return to Sri Lanka.
 
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනයක් නිකුත් කරමින් පවසන්නේ, "ඔහුගේ පවුලේ වෛද්‍යමය හදිසි තත්ත්වයක්" හේතුවෙන් ඔහු එම තීරණය ගෙන ඇති බවය.
+🟩
 
-දිනේෂ් චන්දිමාල් හැකි ඉක්මනින් මෙරටට පැමිණීමට නියමිත බව ද ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිකුත් කළ නිවේදනයේ දැක්වේ.
+Dinesh Chandimal, who is currently in Sri Lanka and Bangladesh, has left the match with immediate effect.
+
+The Sri Lanka Cricket has issued a statement, "his family medical emergency," he has taken this decision.
+
+Sri Lanka Cricket announced that Dinesh Chandimal is due to return to Sri Lanka as soon as possible.
 
 ◼️
 
 [Data](articles/4e1bbf69.json)
+
+[Extended Data](ext_articles/4e1bbf69.ext.json)
 
 ---
 
@@ -2161,35 +2207,5 @@ Dinesh Stewen Weerakkody, Arjuna Herath, Dr. Indrajith Kumaraswamy, Sudhirma Kar
 [Data](articles/b6428f80.json)
 
 [Extended Data](ext_articles/b6428f80.ext.json)
-
----
-
-### The train carrying fuel to Katunayake is in a terrible accident
-
-*2024-04-01 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195184) · `si`
-
-A train carrying fuel crashed near Peralanda Church, injuring many and causing serious damage to the lorry. The driver and owner also suffered injuries. Police are investigating.
-
-🟩
-
-The terrible injury was crashing on a train near the Peralanda Church near the Peralandan Church.
-
-The injured have been hospitalized for the treatment of the lorry and assistant treatments of the lorry.
-
-The rank engine driver also suffered minor injuries due to the accident.
-
-The owner was seriously damaged in the accident, while the owner had closed it and had a great risk.
-
-A train transporting fuel from Kolonnawa to Katunayake airport, a train was crashed.
-
-The lorry was damaged in the accident and the lorry was seriously damaged, police said.
-
-The Ragama Police are conducting further investigations into the accident.
-
-◼️
-
-[Data](articles/86e3f5f9.json)
-
-[Extended Data](ext_articles/86e3f5f9.ext.json)
 
 ---

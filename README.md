@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 23:33:57**
+As of **2024-04-02 23:52:30**
 
 ## Newspaper Stats
 
-*Scraped **16,709** Articles*
+*Scraped **16,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 895
 economynextcom | 912
 islandlk | 925
 adalk | 1,408
-tamilmirrorlk | 1,990
-adaderanalk | 2,008
-virakesarilk | 2,403
+tamilmirrorlk | 1,991
+adaderanalk | 2,009
+virakesarilk | 2,404
 dailymirrorlk | 2,574
 adaderanasinhalalk | 2,704
 
@@ -26,23 +26,83 @@ adaderanasinhalalk | 2,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,708 (100.0%) of 16,709 articles have been extended.
+16,709 (100.0%) of 16,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### சுகாதார தொழிற்சங்கங்களின் போராட்டம் கைவிடப்பட்டது
+### சுகாதார ஊழியர்களின் போராட்டத்திற்கு தீர்வு
+
+*2024-04-02 23:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180281) · `ta`
+
+சுகாதார தொழிற்சங்கங்களினால் முன்னெடுக்கப்பட்ட பணிப்புறக்கணிப்பை 03 வாரங்களுக்கு இடைநிறுத்துவதற்குச் செவ்வாய்க்கிழமை (02) தீர்மானிக்கப்பட்டுள்ளது.
+
+சுகாதார அமைச்சரிடமிருந்து கடிதம் கிடைத்த பின்னரே இந்த தீர்மானம் எடுக்கப்பட்டதாகச் சுகாதார தொழில் வல்லுனர்கள் சங்கத்தின் தலைவர் ரவி குமுதேஷ் தெரிவித்துள்ளார்.
+
+அதன்படி, வைத்தியர்களுக்கு வழங்கப்படும் 'டெட்' என்ற போக்குவரத்து கொடுப்பனவுக்கு இணையான கொடுப்பனவொன்று தமக்கும் கிடைக்கவுள்ளதாகவும் அதில் 50% மே மாத சம்பளத்தில் சேர்க்கப்படும் என்றும் அவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/576a3fbf.json)
+
+---
+
+### அடையாளம் காணப்படாத நபரின் உடல் நல்லடக்கம்
+
+*2024-04-02 23:33:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/அடையாளம்-காணப்படாத-நபரின்-உடல்-நல்லடக்கம்/73-335539) · `ta`
+
+அடையாளம் காணப்படாத நபரொருவரின் உடல் செவ்வாய்க் கிழமை (2) ஓட்டமாவடி - மஜ்மா நகர் கொவிட் மையவாடியில் நல்லடக்கம் செய்யப்பட்டுள்ளது.
+
+கடந்த பெப்ரெவரி மாதம் வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட தியாவட்டவான் பகுதியில் இடம்பெற்ற விபத்தொன்றில் 60 வயது மதிக்கத்தக்க நபரொருவர் காயமடைந்து வாழைச்சேனை ஆதார வைத்தியசாலையில் சிகிச்சை பெற்று வந்தார்.
+
+குறித்த நபர் சிகிச்சை பலனின்றி மரணமடைந்த நிலையில் உடல் நீண்ட நாட்களாக அடையாளம் காணப்படாமல் வைத்தியசாலை குளிர்காப்பகத்தில் வைக்கப்பட்டிருந்தது.
+
+குறித்த நபரின் உடலை வாழைச்சேனை நீதவான் நீதிமன்ற நீதிபதியின் உத்தரவின் பேரில் வைத்தியசாலையிலிருந்து எடுத்து, வாழைச்சேனை பொலிஸார், கிராம உத்தியோகத்தர் எம். அஸ்வர் ஆகியோரின் மேற்பார்வையில் ஜனாஸா தொழுகை நடாத்தப்பட்டு நல்லடக்கம் செய்யப்பட்டது. R
+
+◼️
+
+[Data](articles/5b486e64.json)
+
+---
+
+### Probe into toxic waste onboard Colombo-bound cargo ship that crashed in Baltimore
+
+*2024-04-02 23:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98384/probe-into-toxic-waste-onboard-colombo-bound-cargo-ship-that-crashed-in-baltimore) · `en`
+
+Sri Lanka will investigate reported hazardous materials on board the cargo vessel that collided with a key Baltimore bridge last week, the state minister of environment told Parliament on Tuesday, insisting that the country’s authorities have not been informed about the content of the cargo.
+
+The Singapore-flagged container ship vessel, Dali, which was mainly manned by an Indian crew, collided with the 2.6-km-long four-lane Francis Scott Key Bridge over the Patapsco River in Baltimore in the early hours of March 26. The 984-foot cargo ship was bound for Colombo, Sri Lanka.
+
+It was reported that the container ship was carrying 764 tonnes of hazardous materials to Colombo.
+
+“The Central Environment Authority has not been informed of any hazardous cargo,” Janaka Wakkumbura, the state minister of environment, told Parliament.
+
+He said both Sri Lanka Customs and the Colombo Port have been instructed to carry out a probe.
+
+...
+
+[Data](articles/0bd9713c.json)
+
+---
+
+### The struggle of health trade unions was abandoned
 
 *2024-04-02 23:16:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-தொழிற்சங்கங்களின்-போராட்டம்-கைவிடப்பட்டது/175-335538) · `ta`
 
-சுகாதார தொழிற்சங்கங்களினால் முன்னெடுக்கப்பட்ட பணிப்புறக்கணிப்பை 03 வாரங்களுக்கு இடைநிறுத்துவதற்கு இன்று (02) தீர்மானிக்கப்பட்டுள்ளதாக சுகாதார தொழில் வல்லுனர்கள் சங்கத்தின் தலைவர் ரவி குமுதேஷ் தெரிவித்துள்ளார்.
+Health trade unions' struggle abandoned by Ravi Kumudesh, president of the Health Professionals. He announced a 50% salary increase for May, alongside a parallel allowance to doctors' TED.
 
-அதன்படி, வைத்தியர்களுக்கு வழங்கப்படும் 'டெட்' என்ற போக்குவரத்து கொடுப்பனவுக்கு இணையான கொடுப்பனவொன்று தமக்கும் கிடைக்கவுள்ளதாகவும் அதில் 50% மே மாத சம்பளத்தில் சேர்க்கப்படும் என்றும் அவர் தெரிவித்தார். R
+🟩
+
+Ravi Kumudesh, president of the Health Prof.
+
+Accordingly, he said that a allowance parallel parallel to the doctors 'ted' will be available and 50% will be added to the salary of May.. Remble
 
 ◼️
 
 [Data](articles/39eeece9.json)
+
+[Extended Data](ext_articles/39eeece9.ext.json)
 
 ---
 
@@ -2213,63 +2273,5 @@ Accordingly, the relavant contracts to obtain two aircraft from Orix Aviation fo
 [Data](articles/7ab5dd83.json)
 
 [Extended Data](ext_articles/7ab5dd83.ext.json)
-
----
-
-### Health trade union struggle at Jaffna Bodhana Hospital
-
-*2024-04-02 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180234) · `ta`
-
-72 health trade unions protested at Jaffna Teaching Hospital for 4 hours, supporting their cause from 8 am to 12 noon.
-
-🟩
-
-72 health trade unions across the country have been involved in trade union action on Tuesday for 4 hours.
-
-The protest was carried out at the Jaffna Teaching Hospital in support of this. From 8 am to 12 noon, they left the service and engaged in trade union action.
-
-◼️
-
-[Data](articles/975b675a.json)
-
-[Extended Data](ext_articles/975b675a.ext.json)
-
----
-
-### Gnanasara Thero’s bail application rejected
-
-*2024-04-02 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98370/gnanasara-theros-bail-application-rejected) · `en`
-
-The Colombo High Court on Tuesday (02) rejected the bail application filed by the General Secretary of Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thero, who was recently handed a 4-year rigorous imprisonment.
-
-High Court Judge Aditya Patabendige conveyed the decision when the bail application put forward by the defense attorneys requesting the court to release their client on bail was taken up before the court on Tuesday morning.
-
-On March 28, Judge Patabendige sentenced the BBS General Secretary to four years of rigorous imprisonment for the defamatory comments made against Islam in late 2016.
-
-Gnanasara Thero had been accused of making defamatory comments against Islam during a 2016 media briefing convened with respect to the Kuragala Buddhist monastery, causing damage to national and religious harmony.
-
-...
-
-[Data](articles/63ad0c6a.json)
-
-[Extended Data](ext_articles/63ad0c6a.ext.json)
-
----
-
-### Court refuses bail to Ven. Gnanasara Thera
-
-*2024-04-02 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Court-refuses-bail-to-Ven-Gnanasara-Thera/155-280035) · `en`
-
-Colombo, April 2 (Daily Mirror) - The Colombo High Court today refused to release Bodu Bala Sena (BBS) General Secretary Ven. Galaboda Atte Gnanasara Thera on bail.
-
-Accordingly, Colombo High Court Judge Adithya Patabendige rejected the bail application filed on behalf of Ven. Gnanasara Thera citing there are no exceptional circumstances revealed before court to release Ven. Gnanasara Thera on bail.
-
-The defence requested court to release Ven. Gnanasara Thera on bail pending appeal and moved court that the accused be released on bail taking into consideration the delay in concluding hearing of an appeal in the Court of Appeal  and his health condition.
-
-◼️
-
-[Data](articles/20293155.json)
-
-[Extended Data](ext_articles/20293155.ext.json)
 
 ---

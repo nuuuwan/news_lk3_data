@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 07:41:26**
+As of **2024-04-02 07:53:54**
 
 ## Newspaper Stats
 
-*Scraped **16,520** Articles*
+*Scraped **16,521** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ tamilmirrorlk | 1,966
 adaderanalk | 1,984
 virakesarilk | 2,356
 dailymirrorlk | 2,542
-adaderanasinhalalk | 2,671
+adaderanasinhalalk | 2,672
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,514 (100.0%) of 16,520 articles have been extended.
+16,514 (100.0%) of 16,521 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### තැන තැන සිදුවන ඝාතන
+
+*2024-04-02 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195193) · `si`
+
+ප්‍රදේශ දෙකකින් මනුෂ්‍ය ඝාතන දෙකක් වාර්තා වී ඇති බව පොලීසිය පවසයි.
+
+ඊයේ (02) එම ඝාතන සිදුව ඇත්තේ, කලවාන සහ මූතූර් පොලිස් වසම්වලින්ය.
+
+මූතුර්, බහිරියා නගර් කලපු ප්‍රදේශයේ දී පුද්ගලයෙකු සැකකටයුතු ලෙස මියගොස් ඇතැයි පොලීසියට තොරතුරක් ලැබී තිබිණි.
+
+එලෙස මියගොස් ඇත්තේ, බහිරියා නගර්, මූතුරු 01 ප්‍රදේශයේ පදිංචිව සිටි 39 හැවිරිදි අයෙකි.
+
+මරණකරුගේ දෑත් සහ දෙපා ගැට ගසා දෙඅත්වල වැලි උරයක්ද ගැට ගසා තිබී ඇති අතර මෙය මනුෂ්‍ය ඝාතනයක් බවට පොලීසිය සැකකරයි.
+
+මෙම පුද්ගලයා පසුගිය 30 වනදා රාත්‍රී කාලයේදී කිසිවෙකුටත් නොදන්වා නිවසින් පිටව ගොස් ඇති බවත් ඔහු මානසික රෝගයකින් පෙළෙන පුද්ගලයෙකු බවටත් අනාවරණය වී ඇති බව වාර්තා වේ.
+
+ඝාතනය සිදුකළ සැකකරු අත්අඩංගුවට ගැනීම සඳහා මූතුර් පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+මේ අතර කලවාව - මතුගම මාර්ගයේ නගරය ආසන්නයේදී තියුණු ආයුධයකින් ගෙල කපා පුද්ගලයෙකු ඝාතනය කර තිබේ.
+
+ඝාතනය සිදුකළ 37 හැවිරිදි සැකකරු අත්අඩංගුවට ගෙන ඇති අතර සිද්ධිය සම්බන්ධයෙන් කලවාන පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/cba7a605.json)
+
+---
 
 ### බැංකු සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය අද
 
@@ -2175,23 +2203,5 @@ The CoPF, in its report recommended that an independent committee be appointed b
 [Data](articles/a2fcb066.json)
 
 [Extended Data](ext_articles/a2fcb066.ext.json)
-
----
-
-### President appoints independent committee to review CBSL salary hikes
-
-*2024-04-01 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98349/president-appoints-independent-committee-to-review-cbsl-salary-hikes) · `en`
-
-President Ranil Wickremesinghe, in his capacity as the Minister of Finance, Economic Stabilization and National Policies, has appointed an Independent Remuneration Committee to review the salary increase of the Central Bank of Sri Lanka (CBSL).
-
-This appointment of the committee has been made based on the recommendation in the report of the Committee on Public Finance (CoPF) in relation to the CBSL salary revision, the President’s Media Division (PMD) said.
-
-On March 20, the Committee on Public Finance recommended to the Central Bank to defer the salary increases until a mutually acceptable solution is reached on the matter. This was mentioned in the COPF report on the Central Bank Salary Revision 2024-2026, presented to the parliament by the committee’s chairman Dr. Harsha de Silva.
-
-...
-
-[Data](articles/30dda84e.json)
-
-[Extended Data](ext_articles/30dda84e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 13:18:25**
+As of **2024-04-02 13:33:39**
 
 ## Newspaper Stats
 
-*Scraped **16,590** Articles*
+*Scraped **16,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,71 +16,171 @@ dailyftlk | 895
 economynextcom | 912
 islandlk | 924
 adalk | 1,394
-tamilmirrorlk | 1,978
+tamilmirrorlk | 1,981
 adaderanalk | 1,994
 virakesarilk | 2,368
-dailymirrorlk | 2,550
-adaderanasinhalalk | 2,687
+dailymirrorlk | 2,551
+adaderanasinhalalk | 2,688
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,582 (100.0%) of 16,590 articles have been extended.
+16,590 (100.0%) of 16,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### இலவச சானிட்டரி நாப்கின் வழங்கும் திட்டத்துக்கு அனுமதி
+### ෆින්ලන්තයේ පාසලක වෙඩිතැබීමක්
+
+*2024-04-02 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195210) · `si`
+
+ෆින්ලන්තයේ, වැන්ටා නගරයේ පාසලක සිදුවූ වෙඩි තැබීමකින් පුද්ගලයන් කිහිපදෙනෙකු තුවාල ලබා තිබේ.
+
+එරට වෙලාවෙන් අද (02) උදෑසන එම වෙඩි තැබීම සිදුකර ඇති බව විදසේ මාධ්‍ය වාර්තා කරයි.
+
+වෙඩි තැබීම සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගත් බව එරට පොලීසිය සඳහන් කරයි.
+
+විදෙස් මාධ්‍ය වාර්තාවලට අනුව එම පාසලේ සිසුන් 800ක් සහ කාර්ය මණ්ඩලයේ 90ක් පමණ දෙනා සිට ඇත.
+
+◼️
+
+[Data](articles/e6d7e74c.json)
+
+---
+
+### காதை கிழித்த சு.க உறுப்பினர் கைது
+
+*2024-04-02 13:17:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காதை-கிழித்த-சு-க-உறுப்பினர்-கைது/76-335509) · `ta`
+
+ஒரேயொரு அறையில் காதொன்றில் மூன்று தையல்கள் போடுமளவுக்கு அறைந்தார் என்றக் குற்றச்சாட்டில் கண்டி மாநகர சபையின் ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் முன்னாள் உறுப்பினர் கைது செய்யப்பட்டுள்ளார்.
+
+கண்டி மாநகர சபையின் திண்மக்கழிவு முகாமைத்துவ திணைக்கள ஊழியர் ஒருவரை தாக்கியதாக கூறப்படும் குற்றச்சாட்டின் கீழ் அவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+தாக்குதலின் போது நகர சபை ஊழியருக்கு காது பகுதியில் பலத்த காயங்கள் ஏற்பட்டதாகவும், அந்த காயங்கள் காரணமாக அவரது காது பகுதியில் மூன்று தையல்கள் போடப்பட்டதாகவும் மருத்துவமனை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+குப்பைகளை வகைப்படுத்தாமல், குப்பைப் பையை வாகனம் மூலம் கொண்டு வந்துள்ளனர். அதற்கு எதிர்ப்புத் தெரிவித்த ஊழியர்கள், குப்பையை முறையாக கொண்டு வருமாறு கூறி,  குப்பை பொறுப்​பெடுக்காது, காரிலேயே ஏற்றிவிட்டுள்ளனர். அத்துடன், வாகனத்தை இலக்கத்தை படம் எடுக்க முயன்றுள்ளனர். இதன்போதே,      கண்டி மாநகர சபையின் முன்னாள் உறுப்பினர் இந்திக்க தென்னகோன் கைது செய்யப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/0fcad85f.json)
+
+---
+
+### Parliament sessions suspended due to absence of scheduled speakers
+
+*2024-04-02 13:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-sessions-suspended-due-to-absence-of-scheduled-speakers/108-280033) · `en`
+
+Parliament, April (Daily Mirror)- Parliament sessions were suspended till 4.00 pm today by Deputy Speaker Ajith Rajapakse due to the absence of both Government and Opposition MPs to speak in the debate scheduled for today.
+
+The Banking (Amendment) Bill and regulations under the Colombo Port City Economic Commission Act were taken for debate today.
+
+◼️
+
+[Data](articles/6a4a7d87.json)
+
+---
+
+### இலஞ்ச ஊழல் ஒ​ழிப்பு ஆணைக்குழுவுக்கு புதிய பணிப்பாளர்
+
+*2024-04-02 13:13:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்ச-ஊழல்-ஒ-ழிப்பு-ஆணைக்குழுவுக்கு-புதிய-பணிப்பாளர்/175-335508) · `ta`
+
+இலஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரணை செய்யும் ஆணைக்குழுவின் பணிப்பாளர் நாயகமாக டபிள்யூ.கே.டி.விஜேரத்னவை ஜனாதிபதி ரணில் விக்கிரமசிங்க நியமித்துள்ளதாக ஜனாதிபதியின் ஊடகப் பிரிவு (PMD) தெரிவித்துள்ளது.
+
+புதிய ஊழல் தடுப்புச் சட்டத்தின் விதிமுறைகளுக்கு அமைய ஜனாதிபதி இந்த நியமனத்தை வழங்கியுள்ளார்.
+
+◼️
+
+[Data](articles/7d95cccb.json)
+
+---
+
+### வாகன இறக்குமதி தொடர்பில் புதிய தீர்மானம்
+
+*2024-04-02 13:09:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-தொடர்பில்-புதிய-தீர்மானம்/175-335507) · `ta`
+
+சுற்றுலாத்துறையின் தேவைக்காக வான் மற்றும் சிறிய பஸ்களை இறக்குமதி செய்வதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+சுற்றுலாத்துறை அமைச்சர் ஹரின் பெர்னாண்டோவினால் முன்வைக்கப்பட்ட யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியதாக அமைச்சரவை பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+
+எனினும், அந்த வாகனங்களின் இறக்குமதிக்கு சிறப்பு வரிச் சலுகைகள் எதுவும் இல்லை என அவர் கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/b09c93cb.json)
+
+---
+
+### Allow free sanitary napkin offering
 
 *2024-04-02 13:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலவச-சானிட்டரி-நாப்கின்-வழங்கும்-திட்டத்துக்கு-அனுமதி/175-335506) · `ta`
 
-தெரிவு செய்யப்பட்ட பாடசாலைகளை சேர்ந்த மாணவிகளுக்கு சானிட்டரி நாப்கின் வழங்கும் திட்டத்துக்கு அமைச்சரவை அனுமதி அளித்துள்ளது.
+The Cabinet approved free sanitary napkins for 800,000 students in poverty-stricken schools, starting April, as proposed by Education Minister Susil Premjayantha.
 
-வறுமைக் கோட்டுக்கு உட்பட்ட பாடசாலைகளில் கல்வி பயிலும் 800,000 மாணவிகளுக்கு இவ்வாறு இலவச சானிட்டரி நாப்கின் வழங்கப்படவுள்ளது.
+🟩
 
-ஏப்ரல் மாதம் முதல் இந்த திட்டத்தை நடைமுறைப்படுத்த கல்வி அமைச்சர் சுசில் பிரேம்ஜயந்த பிரேரணை முன்வைத்திருந்தார்.
+The Cabinet has granted permission to provide sanitary napkin to students from selected schools.
+
+Free sanitary napkin will be provided to 800,000 students studying in schools under the poverty line.
+
+Education Minister Susil Premjayantha had proposed the proposal to implement the project from April.
 
 ◼️
 
 [Data](articles/2cf0a857.json)
 
+[Extended Data](ext_articles/2cf0a857.ext.json)
+
 ---
 
-### இந்தியாவிலிருந்து சட்டவிரோதமாக  கொண்டுவரப்பட்ட பீடி இலைகளுடன் ஒருவர் கைது
+### One arrested with beedi leaves illegally brought from India
 
 *2024-04-02 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/180228) · `ta`
 
-புத்தளம் மாம்புரி பகுதியிலிருந்து மதுரங்குளி பகுதிக்கு அனுமதிப்பத்திரமில்லாமல் சட்டவிரோதமாக பீடி இலைகளைக் கொண்டு செல்ல முற்பட்ட ஒருவர் புத்தளம் பிராந்திய பொலிஸ் குற்றப் புலனாய்வுப் பிரிவினர் இன்று அதிகாலை கைது செய்துள்ளனர்.
+The Puttalam Regional Police arrested a person for smuggling 1,435 kg of beedi leaves from India to Sri Lanka, seizing 49 texts. The suspect, from Madurangulipal, faces charges for illegal trafficking.
 
-இவ்வாறு அனுமதிப்பத்திரமின்றி சட்டவிரோதமாக பீடி இலைகளைக் கொண்டு செல்ல உள்ளதாக புத்தளம் பிராந்திய மூத்த கண்காணிப்பு பொலிஸ் அதிகாரிக்கு கிடைக்கெப்பெற்ற இரகசியத் தகவலுக்கமைய புத்தளம் பிராந்திய பொலிஸ் குற்றப்புலனாய்வுப் பிரிவினரினால் மாம்புறி திடல் பகுதியில்  லொறியினை மறைத்து சோதனைக்கு உற்படுத்தியுள்ளனர். இதன்போது சுமார் 49 உரைகளில் 1,435 கிலோ கிராம் பீடி இலைகள் கைப்பற்றப்பட்டுள்ளது.
+🟩
 
-இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபர் மதுரங்குளிப் பகுதியைச் சேர்ந்தவரென பொலிஸ் குற்றப்புலனாய்வுப் பிரிவினர் தெரிவித்தனர்.
+The Puttalam Regional Police Criminal Investigation Department (PTA) has arrested a person who tried to carry out the illegal beedi leaves from Puttalam Mamburi area to Mathuranguli area this morning.
 
-கைப்பற்றப்பட்ட பீடி இலைகள் சுமார் ஒரு கோடி ரூபாவிற்கும் அதிக பெறுமதியென தெரிவிக்கப்படுகின்றது.
+According to the Puttalam Regional Police Criminal Investigation Division (Puttalam), the Puttalam Regional Police Criminal Investigation Division (Puttalam) has been able to cover the lorry in the Mampuri area.. About 49 texts have seized 1,435 kg of beedi leaves.
 
-குறித்த பீடி இலைகள் இந்தியாவிலிருந்து அனுமதிப்பத்திரமின்றி சட்டவிரோதமாக கடல்மார்க்கமாக கொண்டுவரப்பட்டுள்ளதாக பொலிஸ் குற்றப்புலனாய்வுப் பிரிவினர் தெரிவித்தனர்.
+The police Criminal Investigation Department said that the suspect was from Madurangulipal area.
+
+The seized beedi leaves are reported to be worth more than Rs 1 crore.
+
+The Criminal Investigation Department said that the beedi leaves were illegally brought from India to maritime.
+
+The beedi leaves seized with the arrested suspect and the lorry used for trafficking have been handed over to the foam police station.
 
 ...
 
 [Data](articles/c3c3510e.json)
 
+[Extended Data](ext_articles/c3c3510e.ext.json)
+
 ---
 
-### இஸ்ரேலின் தாக்குதலில் அமெரிக்க தொண்டு நிறுவன ஊழியர்கள் 7 பேர் பலி
+### 7 US charity employees killed in Israel's attack
 
 *2024-04-02 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180226) · `ta`
 
-காஸாவில் இஸ்ரேல் நடத்திய தாக்குதலில், வெளிநாட்டவர்கள் உட்பட  தனது ஊழியர்கள் 7 பேர் உயிரிழந்துள்ளனர் என அமெரிக்காவை தளமாகக் கொண்ட வேர்ல்ட் சென்ட்ரல் கிச்சன் எனும் தொண்டு நிறுவனம் இன்று தெரிவித்துள்ளது.
+Seven World Central Kitchen employees, including foreigners, were killed in an Israeli attack in Gaza while unloading food from Cyprus. A Canadian dual citizen and a Palestinian also died.
 
-சைப்பிரஸிலிருந்து கடல்வழியாக அனுப்பப்பட்ட உணவுப்பொருட்களை களஞ்சியமொன்றில் இறக்கிவிட்டு வாகனங்களில் சென்றுகொண்டிருந்தபோது இத்தாக்குதல் நடத்தப்பட்டதாக  வேர்ல்ட் சென்ட்ரல் கிச்சன் நிறுவனம் தெரிவித்துள்ளது.
+🟩
 
-அவுஸ்திரேலியா, போலந்து, பிரிட்டன் நாடுகளைச் சேர்ந்தவர்களுடன்; அமெரிக்க கனேடிய இரட்டைப் பிரஜாவுரிமையைக் கொண்ட ஒருவர் மற்றும் பலஸ்தீனியர் ஒருவர் இச்சம்பவத்தில் உயிரிழந்தனர் என அந்நிறுவனம் தெரிவித்துள்ளது.
+The US -based World Central Kitchen, a charity, said today that seven employees, including foreigners, were killed in an Israeli attack in Gaza.
+
+World Central Kitchen said that the attack was carried out while unloading food items shipped from Cyprus in a repository.
+
+With Australia, Poland and Britain;A man with a Canadian dual citizen and a Palestinian died in the incident, the company said.
 
 ◼️
 
 [Data](articles/58f4ed4a.json)
+
+[Extended Data](ext_articles/58f4ed4a.ext.json)
 
 ---
 
@@ -164,23 +264,33 @@ Last month, the PublicFinance.lk revealed that sanitary napkins are subjected to
 
 [Data](articles/d579b288.json)
 
+[Extended Data](ext_articles/d579b288.ext.json)
+
 ---
 
-### තම දරුවගේ පන්තියේ දරුවකු උස්සා කප්පම් ගන්න හැදූ මවක් අත්තඩංගුවට
+### A mother arrested for ransing a child of his child class
 
 *2024-04-02 12:16:35* · [`adalk`](https://www.ada.lk/breaking_news/තම-දරුවගේ-පන්තියේ-දරුවකු-උස්සා-කප්පම්-ගන්න-හැදූ-මවක්-අත්තඩංගුවට/11-408897) · `si`
 
-රුපියල් ලක්ෂ පහක කප්පම් මුදලක් ඉල්ලා බටපොල පදේශයේ  නව වසරේ පාසල් ශිෂයකු උස්සන බවට  පවසමින් නිතර නිතර දුරකතන ඇමතුම් දුන් කාන්තාවක් ඊයේ 01දා කොස්ගොඩදී සැකපිට පශ්න කිරීම සදහා බටපොළ පොලීසියට රැගෙන ආ බව කියයි.
+A mother was arrested for ransoming her child. A woman filed an extortion case at Batapola Police. Suspects were arrested for questioning a student in Ambalangoda. The police identified the mother of the abducted student as a suspect. Further investigations are ongoing.
 
-මෙසේ සැකපිට පශ්න කිරීම සදහා අත් අඩංගුවට ගනු ලැබූවේ අම්බලන්ගොඩ පධාන පාසලක නව වසරේ ඉගෙනුම ලබන පාසල් සිසුවකුගේ මවත් බවත් ඇය මෙසේ කප්පම් මුදල් ඉල්ලා ඇත්තේ සිය පුතු ඉගෙනුම ලබන පාසලේම එකම පංතියේ ඉගෙනුම ලැබූ හොදම මිතුරාගේ මවගෙන් බවත් පොලීසිය කියයි.
+🟩
 
-පැහැර ගන්නේ යයි කියන බටපොළ පදිංචි සිසුවාගේ මවට යමක් කමක් තිබෙන බවත් එය සැලකිල්ලට ගනිමින් සැකකාරිය මේ මවට වෙනත් දුරකතනයකින් ඇයගේ ජංගම දුරකතනයට ඇමතුම්දී රුපියල් ලක්ෂ පහක කප්පම් මුදලක් ලබා නොදේනම් සිසුවා පැහැරගෙන ගොස් මරා දමන බවට තර්ජනය කරමින් දුරකතන ඇමතුම් ලබාදී ඇති බවට මූලික විමර්ශනවලදී අනාවරණයවූ බවත් පොලීසිය කියයි.
+A woman who has been brought to the Batapola Police yesterday to file an extort of Rs.
 
-මේ කප්පම් ඉල්ලීමේ සිද්ධියේ ලබාදුන් බව හා ලැබුණු දුරකතන ඇමතුම්වල දත්ත විශ්ලේෂණය කිරීමෙන් අනතුරුව මේ කප්පම් සිද්ධියේ සැකකාරිය හදුනා ගැනීමට හැකිවූ බව ද පොලීසිය කියයි.
+The suspects were arrested for questioning in a new year student of a major school in Ambalangoda.
 
-...
+The police say that the mother of the Balapola resident of the Bettastata student who is being abducted is revealed in the preliminary investigations into the midst of the suspect..
+
+The police said that after analyzing the data provided in this ransom and the telephone calls received, the suspect was identified.
+
+Batapola OIC Inspector General Janaka Sampath are conducting further investigations.
+
+◼️
 
 [Data](articles/94df4338.json)
+
+[Extended Data](ext_articles/94df4338.ext.json)
 
 ---
 
@@ -197,6 +307,8 @@ Also, the State Minister said the ground situation with regard to the tax defaul
 ◼️
 
 [Data](articles/e0705d81.json)
+
+[Extended Data](ext_articles/e0705d81.ext.json)
 
 ---
 
@@ -239,6 +351,8 @@ President's Counsel Maithri Gunaratne appearing on behalf of Ven. Gnanasara Ther
 ◼️
 
 [Data](articles/ce4821bd.json)
+
+[Extended Data](ext_articles/ce4821bd.ext.json)
 
 ---
 
@@ -492,15 +606,21 @@ The President has made the appointment in accordance with the provisions of the 
 
 ---
 
-### ජනපතිගෙන් තවත් පත්කිරීමක්
+### President is another appointment
 
 *2024-04-02 11:19:45* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගෙන්-තවත්-පත්කිරීමක්/11-408896) · `si`
 
-නව දූෂණ විරෝධී පනත යටතේ අල්ලස් හෝ දූෂණ චෝදනා විමර්ශනය කිරීමට අදාළ කොමිෂමේ නව අධ්‍යක්ෂ ජනරාල් වරයා ලෙස කේ.ඩී. විජේරත්න මහතා පත්කිරිමට ජනපති රනිල් වික්‍රමසිංහ මහතා කටයුතු කර තිබේ.
+Ranil Wickremesinghe appointed Wijeratne as the new Director General of the Commission to investigate bribery or corruption charges under the Anti-Corruption Act.
+
+🟩
+
+The new Director General of the Commission is the new Director General of Commissioner to investigate bribery or corruption charges under the Anti-Corruption Act. Ranil Wickremesinghe has arranged for the appointment of Wijeratne.
 
 ◼️
 
 [Data](articles/694f9edf.json)
+
+[Extended Data](ext_articles/694f9edf.ext.json)
 
 ---
 
@@ -2119,97 +2239,5 @@ Jose Butler and team captain Sanju Semsan tried to retrieve the team, but their 
 [Data](articles/c134d0a2.json)
 
 [Extended Data](ext_articles/c134d0a2.ext.json)
-
----
-
-### Taxation and the social contract: Thatcherites holding Sri Lanka back
-
-*2024-04-02 00:27:23* · [`dailyftlk`](https://www.ft.lk/columns/Taxation-and-the-social-contract-Thatcherites-holding-Sri-Lanka-back/4-760192) · `en`
-
-The UNP has always operated on a centre-right economic policy maxim, remaining on a continuum of Thatcherite or Reaganite low tax, small government, pro-business, pro-market foundations
-
-Peter Breuer of the IMF’s visiting delegation made some interesting comments specifically related to alternatives or alterations to the current program. He stated that any alternative proposals must be realistic before repeating the urgency for improving revenue and meeting Intended Targets (ITs) and noting the “commitment in the (IMF) program to not grant any more tax concessions. Tax concessions are a missing component of tax revenues”.
-
-The given graphs extracted from ADB and IMF reports reiterate Breuer’s point that Sri Lanka’s tax revenues are inadequate in terms of value and imbalanced in terms of revenue source.
-
-...
-
-[Data](articles/f1cb2e37.json)
-
-[Extended Data](ext_articles/f1cb2e37.ext.json)
-
----
-
-### How  the  LTTE  Crushed  “Col” Karuna’s   Eastern Tiger  Revolt  Through Force.
-
-*2024-04-02 00:12:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83845) · `en`
-
-The course of war  between the Liberation Tigers of Tamil Eelam(LTTE) and the Sri Lankan armed forces was drastically altered by the  2004 eastern  revolt headed by former tiger commander of the Batticaloa and Amparai districts Vinayagamoorthy Muralidharan alias “Col”Karuna. The LTTE was split vertically and horizontally as a result and gradually weakened. By 2007 the LTTE ceased  having territorial control in the Eastern province.
-
-This article is the third in a series about the intra-tiger split of 2004 and the fratricidal war that followed. In the first article published on 16 March 2024 the background and reasons for the Eastern Tiger revolt were discussed in detail. In the  second article  published on 23 March 2024 the course of events leading to the  conflict in the aftermath of “Col”Karuna’s rebellion were recounted.  This third article relates  details of the Tiger vs Tiger confrontation that  commenced 20 years ago on Good Friday.
-
-...
-
-[Data](articles/5b609486.json)
-
-[Extended Data](ext_articles/5b609486.ext.json)
-
----
-
-### Laugfs Gas announces massive price drop in domestic LPG
-
-*2024-04-02 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Laugfs-Gas-announces-massive-price-drop-in-domestic-LPG/108-280003) · `en`
-
-Laugfs Gas PLC yesterday announced a substantial reduction in the prices of its Laugfs-branded domestic liquefied petroleum gas (LPG), effective midnight.
-
-As of today, the price of a 12.5kg domestic cylinder, under the Laugfs brand, will be reduced by Rs.625, to an MRP of Rs.4,115, within the Colombo district.
-
-The prices in the other areas and pack sizes will be adjusted accordingly.
-
-“This significant price revision comes as a testament to several positive developments and factors contributing to the favourable economic climate,” Laugfs Gas said in a statement.
-
-It went on to acknowledge the supportive government policies, including the appreciating value of the Sri Lankan rupees against the US dollar, reduction in interest rates and availability of ample foreign exchange, facilitating the opening of letters of credit.
-
-...
-
-[Data](articles/d7879ac1.json)
-
-[Extended Data](ext_articles/d7879ac1.ext.json)
-
----
-
-### Mushrooming Alliances! Exploring pros and cons of coalition politics
-
-*2024-04-02 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Mushrooming-Alliances-Exploring-pros-and-cons-of-coalition-politics/172-279981) · `en`
-
-A stable government is imperative for garnering the confidence of FDI and engaging with international financial institutions
-
-Pre-electoral alliances and post-election coalitions among political parties have emerged as significant features in contemporary politics.
-
-An examination of this political phenomenon is crucial for understanding election dynamics and the processes of government formation and sustainability. It is heartening to observe a relative increase in studies dedicated to alliances and coalitions over the past decade. However, despite this progress, several aspects of this phenomenon remain largely understudied.
-
-...
-
-[Data](articles/f1aec7be.json)
-
-[Extended Data](ext_articles/f1aec7be.ext.json)
-
----
-
-### Modi wants Katchchatheevu-its election time in Tamil Nadu
-
-*2024-04-02 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Modi-wants-Katchchatheevu-its-election-time-in-Tamil-Nadu/172-279980) · `en`
-
-Speaking at Bharatiya Janata Party (BJP) rally in Meerut, Uttar Pradesh,(around 2232 Kms away from Chennai) on Monday, Indian Premier Narendra Modi suddenly found fault with Indira Gandhi for signing an agreement with Sri Lanka relinquishing Indian claims to the island of Katchchatheevu.
-
-Yes, you guessed it. It is election time in India and the BJP has never come to power in Tamil Nadu, the southernmost state in India.
-
-S. Ramanujam, a retired former Senior Administrative Officer of the Indian government at the Indian Council of Agricultural Research reveals that Tamil Nadu was ruled by the Indian National Congress in the 1950s and up to 1966. In 1967 DMK under the leadership of late C.N. Annadurai came to power. Thereafter, only the DMK and AIADMK have ruled Tamil Nadu (TN).
-
-...
-
-[Data](articles/f2d1c539.json)
-
-[Extended Data](ext_articles/f2d1c539.ext.json)
 
 ---

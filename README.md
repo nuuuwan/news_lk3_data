@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 03:33:54**
+As of **2024-04-03 03:52:09**
 
 ## Newspaper Stats
 
-*Scraped **16,732** Articles*
+*Scraped **16,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 896
 economynextcom | 922
 islandlk | 925
 adalk | 1,408
-tamilmirrorlk | 1,991
+tamilmirrorlk | 1,992
 adaderanalk | 2,009
 virakesarilk | 2,410
 dailymirrorlk | 2,577
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,732 (100.0%) of 16,732 articles have been extended.
+16,732 (100.0%) of 16,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### விமானங்களை குத்தகைக்கு பெற்றுக்கொள்ள அனுமதி
+
+*2024-04-03 02:53:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமானங்களை-குத்தகைக்கு-பெற்றுக்கொள்ள-அனுமதி/175-335540) · `ta`
+
+தொடர்ச்சியாக நட்டமடைந்து வரும் ஶ்ரீ லங்கன் விமான நிறுவனத்திற்கு மாதாந்தம் 1.5 மில்லியன் அமெரிக்க டொலர் செலவிட்டு நான்கு விமானங்களை குத்தகைக்கு பெற்றுக்கொள்ள அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+நான்கு விமானங்களை குத்தகை அடிப்படையில் பெற்றுக்கொள்வதற்காக துறைமுகங்கள் மற்றும் விமான சேவைகள் அமைச்சர் நிமல் சிறிபால டி சில்வாவினால் முன்வைக்கப்பட்ட யோசனைக்கே அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது. (a)
+
+◼️
+
+[Data](articles/72fae339.json)
+
+---
 
 ### Sri Lanka’s sovereignty of Kachchativu was never in doubt
 
@@ -2289,27 +2303,5 @@ The BIA Development Project Phase II, State 2 involves the construction of a mai
 [Data](articles/9bf616b7.json)
 
 [Extended Data](ext_articles/9bf616b7.ext.json)
-
----
-
-### Gnanasara Thera's bail demand rejection
-
-*2024-04-02 14:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஞானசார-தேரரின்-பிணை-கோரிக்கை-நிராகரிப்பு/175-335514) · `ta`
-
-The Colombo High Court rejected Gnanasara Thera's bail plea, citing no special circumstances for release.
-
-🟩
-
-The Colombo High Court today (02) refused to release Gnanasara Thera on bail.
-
-Accordingly, Colombo High Court Judge Aditya Pattabendike has rejected the bail plea of the General Secretary of the Bodu Bala Sena, Galapoda Ate Gnanasara Thera.
-
-He added that no special circumstances have been presented in court to release Gnanasara Thera on bail.
-
-◼️
-
-[Data](articles/4c244158.json)
-
-[Extended Data](ext_articles/4c244158.ext.json)
 
 ---

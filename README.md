@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 16:34:02**
+As of **2024-04-02 16:49:15**
 
 ## Newspaper Stats
 
@@ -26,23 +26,31 @@ adaderanasinhalalk | 2,694
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,640 (100.0%) of 16,642 articles have been extended.
+16,642 (100.0%) of 16,642 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### ஒதுக்குகள் தொடர்பில் மத்திய வங்கி உதவி ஆளுநர் கருத்து வெளியிட்டுள்ளார்
+### The Central Bank Assistant Governor has commented on the quota
 
 *2024-04-02 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180257) · `ta`
 
-இந்தக் கூற்றைச் சரிபார்க்க, இலங்கை மத்திய வங்கியின் வாராந்தப் பொருளாதாரக் குறிகாட்டிகள், சர்வதேச நாணய நிதியத்தின் சென்மதி நிலுவை கையேட்டின் ஆறாவது பதிப்பு (BPM6) மற்றும் சர்வதேச நாணய நிதியத்தின் நாட்டின் அறிக்கை இல.23/12 ஆகியவற்றை FactCheck.lk ஆராய்ந்தது.
+The Central Bank Assistant Governor's claim about the quota, based on Sri Lanka's weekly economic indicators and IMF reports, contradicts the actual value of 3.0 billion, not the 4.4 billion mentioned. The PBOC exchange facility doesn't meet BPM6 standards for reserve assets, and the term "useless quotas" is not aligned with BPM6's asset definition.
 
-உதவி ஆளுநர் குறிப்பிடும் பெறுமதி மத்திய வங்கியின் வாராந்தப் பொருளாதாரக் குறிகாட்டிகளுடன் பொருந்துகிறது. இது 2023 டிசம்பர் இறுதியில் அலுவல்சார் ஒதுக்குகள் ஐ.அ.டொ 4.3 பில்லியன் எனக் குறிப்பிடுகிறது. எனினும் ஒதுக்குகளின் அறிக்கையிடல் தொடர்பில் கவனமாக ஆராய்ந்தால், இந்தப் பெறுமதி வித்தியாசப்படுகிறது.
+🟩
+
+To verify this claim, the Central Bank of Sri Lanka's weekly economic indicators, the International Monetary Fund's Senthi Service Manual (BPM6) and the International Monetary Fund's report No. 23/12.
+
+The value of the assistant governor refers to the Central Bank's weekly economic indicators. It refers to the Office of Office at the end of December 2023, the UP has 4.3 billion. However, if you carefully examine the report of the quota, this value varies.
+
+From March 2021, the Central Bank had a mutual transaction with the RMP 10 billion (about 1.4 billion) with the Chinese People's Bank (PBOC).. However, while addressing the foot notices of the Central Bank reports from November 2021 to March 2022, it is revealed that the exchange feature is not previously accountable, but it is calculated from December 2021.. It has been revealed that the criteria used to report the quotas by calculating this exchange of time as time -consuming quotas.
 
 ...
 
 [Data](articles/42030451.json)
+
+[Extended Data](ext_articles/42030451.ext.json)
 
 ---
 

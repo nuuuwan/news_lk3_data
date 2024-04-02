@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 11:18:38**
+As of **2024-04-02 11:33:54**
 
 ## Newspaper Stats
 
-*Scraped **16,558** Articles*
+*Scraped **16,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ newsfirstlk | 363
 dailyftlk | 895
 economynextcom | 909
 islandlk | 924
-adalk | 1,391
-tamilmirrorlk | 1,973
+adalk | 1,392
+tamilmirrorlk | 1,975
 adaderanalk | 1,991
-virakesarilk | 2,361
-dailymirrorlk | 2,544
+virakesarilk | 2,362
+dailymirrorlk | 2,545
 adaderanasinhalalk | 2,682
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,557 (100.0%) of 16,558 articles have been extended.
+16,558 (100.0%) of 16,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### ”அந்த சரக்கு கப்பல் பற்றி CEA அறிந்திருக்கவில்லை”
+
+*2024-04-02 11:05:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்த-சரக்கு-கப்பல்-பற்றி-CEA-அறிந்திருக்கவில்லை/175-335497) · `ta`
+
+சிங்கப்பூர் சரக்குக் கப்பல் ஒன்று அமெரிக்காவில் இருந்து இலங்கைக்கு அபாயகரமான பொருட்களை ஏற்றி வந்த சம்பவம் தொடர்பில் விரிவான விசாரணைகளை மத்திய சுற்றாடல் அதிகாரசபை ஆரம்பித்துள்ளதாக சுற்றாடல் இராஜாங்க அமைச்சர் ஜானக வக்கும்புர தெரிவித்துள்ளார்.
+
+அபாயகரமான பொருட்களை ஏற்றிச் செல்லும் சரக்குக் கப்பல் இலங்கைக்கு செல்வது CEAக்கு தெரியாது என அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+
+கடந்த மார்ச் 26ஆம் திகதி 764 தொன்கள் அபாயகரமான பொருட்களுடன் அமெரிக்காவின் பால்டிமோர் பாலத்தில் மோதி விபத்துக்குள்ளான Maersk நிறுவனத்தால் வாடகைக்கு எடுக்கப்பட்ட சிங்கப்பூர் சரக்குக் கப்பலான டாலி குறித்து ஊடகங்களில் வெளியான செய்தி தொடர்பில் அரசாங்கத்தின் பிரதிபலிப்பைக் கேட்ட எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச எழுப்பிய கேள்விக்கு பதிலளிக்கும் போதே அமைச்சர் மேற்கண்டவாறு தெரிவித்தார்.
+
+நாட்டுக்குத் தெரியாமல் அபாயகரமான பொருட்களை ஏற்றிக்கொண்டு இவ்வாறான சரக்குக் கப்பல் எவ்வாறு இலங்கை நோக்கிச் சென்றது என்பது தொடர்பில் உரிய விசாரணை நடத்தப்பட வேண்டுமென எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/92e5e308.json)
+
+---
+
+### இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் பணிப்பாளராக விஜேரத்ன நியமனம்!
+
+*2024-04-02 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180213) · `ta`
+
+◼️
+
+[Data](articles/0bb228f6.json)
+
+---
 
 ### New Director General appointed to Bribery Commission
 
@@ -43,6 +71,26 @@ The appointment was made by President Ranil Wickremesinghe, in accordance with t
 ◼️
 
 [Data](articles/85a92472.json)
+
+[Extended Data](ext_articles/85a92472.ext.json)
+
+---
+
+### உள்நாட்டு பால்மா பாவனை அதிகரிப்பு
+
+*2024-04-02 10:56:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உள்நாட்டு-பால்மா-பாவனை-அதிகரிப்பு/175-335496) · `ta`
+
+பொருளாதார நெருக்கடியைத் தொடர்ந்து, விலையேற்றம் காரணமாக ஏறக்குறைய பாதியாகக் குறைந்துள்ள இலங்கையின் மாதாந்த பால் மா பாவனையானது, சிறிதளவு அதிகரிப்பைக் கண்டு வருவதாக, சிரேஷ்ட தொழில்துறை பிரதிநிதி ஒருவர் தெரிவித்தார்.
+
+அமெரிக்க டொலரின் விலை உயர்வு, உலக சந்தையில் பால் விலை உயர்வு மற்றும் அரசாங்க வரி உயர்வு போன்ற காரணங்களால், கடந்த மூன்று ஆண்டுகளில் 7,000 மெட்ரிக் டன் பால் பவுடர் நுகர்வு, கடந்த மூன்று ஆண்டுகளில் சுமார் 3,000 மெட்ரிக் டன்னாக குறைந்துள்ளது.
+
+எவ்வாறாயினும், பொருளாதார நிலைமைகள் சிறிதளவு முன்னேற்றத்துடன், ஒரு மில்லியனுக்கும் அதிகமான குடும்பங்கள் சந்தைக்கு திரும்பியுள்ளன, இருப்பினும் ஒட்டுமொத்த நுகர்வு கோவிட்-க்கு முந்தைய அளவை விட குறைவாகவே உள்ளது என்று மலிபன் குழுமத்தின் தலைமை நிர்வாக அதிகாரி ரவி ஜெயவர்தன கூறினார்.
+
+இலங்கையின் நுகர்வோர் செலவினங்களின் தற்போதைய போக்குகள் மற்றும் நெருக்கடிக்குப் பிந்தைய கண்ணோட்டம் குறித்து ஆராயும் கபிட்டல் அலையன்ஸ் லிமிடெட் நடத்திய குழு விவாதத்தில் உரையாற்றும் போது அவர் தனது கருத்துக்களைப் பகிர்ந்து கொண்டார்.
+
+...
+
+[Data](articles/ce8a02cb.json)
 
 ---
 
@@ -312,6 +360,24 @@ Accordingly, the appointment order has been issued to issue a powerful order and
 
 ---
 
+### SL border officials thwart 10 illegal migration attempts via BIA in first quarter
+
+*2024-04-02 10:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-border-officials-thwart-10-illegal-migration-attempts-via-BIA-in-first-quarter/108-280019) · `en`
+
+Colombo, April 1 (Daily Mirror) - About ten unlawful attempts by the Sri Lankans to leave their homeland for good in search of European greener pastures have been thwarted by the local border controlling agents during the first quarter of this year.
+
+The Department of Immigration and Emigration officials stationed at the country’s main airport Bandaranaike International Airport (BIA) have made these interceptions from January 01 to March 31 in 2024.
+
+A senior official of the department’s investigation wing told the Daily Mirror that most of the arrested passengers were from the North and East areas of Jaffna, Vavuniya and Batticaloa.
+
+The intercepted passengers have either used forged Sri Lankan passports, forged international visas pasted in the genuine local passports or fake foreign resident visa cards. And their favourite destination has been identified as Italy.
+
+...
+
+[Data](articles/943c452f.json)
+
+---
+
 ### Thai Airways resumes operations to Sri Lanka
 
 *2024-04-02 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98364/thai-airways-resumes-operations-to-sri-lanka) · `en`
@@ -529,6 +595,30 @@ The second reading of the Banking Amendment Bill will be held today.
 [Data](articles/e49d08b8.json)
 
 [Extended Data](ext_articles/e49d08b8.ext.json)
+
+---
+
+### ලොරි හා දුම්රිය ගැටී දුම්රිය රියදුරු අතුළු තිදෙනෙකුට තුවාල
+
+*2024-04-02 09:16:38* · [`adalk`](https://www.ada.lk/breaking_news/ලොරි-හා-දුම්රිය-ගැටී-දුම්රිය-රියදුරු-අතුළු-තිදෙනෙකුට-තුවාල/11-408894) · `si`
+
+රාගම පේරලන්ද පල්ලිය ආසන්නයේ දුම්රිය හරස් මාර්ගයකදී ලොරි රථයක් දුම්රියක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+
+අනතුරින් තුවාල ලැබූ ලොරි රථයේ රියදුරු සහ සහායක ප්‍රතිකාර සඳහා රෝහල්ගතකර තිබේ.
+
+එසේම දුම්රිය එන්ජින් රියදුරුද මෙම අනතුර හේතුවෙන් සුළු තුවාල ලබා ඇති බව පොලීසිය පැවසීය.
+
+ඒ ආසන්නයේ තිබූ එළවළු වෙළෙඳසැලකට අනතුරින් බරපතළ හානි සිදුව ඇති අතර එම අවස්ථාවේ එහි හිමිකරු එය වසාදමා පිටව ගොස් තිබීමෙන් විශාල අනතුරක් වැළකී තිබුණි.
+
+කොළොන්නාව සිට කටුනායක ගුවන්තොටුපොළ දක්වා ඉන්ධන ප්‍රවාහනය කරමින් තිබූ දුම්රියක් මෙලෙස අනතුරට ලක්ව ඇත.
+
+අනතුරින් දුම්රිය එන්ජිමට හානි සිදුව ඇති අතර ලොරි රථයට බරපතළ හානි සිදුව ඇති බව පොලීසිය පවසයි.
+
+රාගම පොලීසිය අනතුර සම්බන්ධයෙන් මේ වනවිට වැඩිදුර විමර්ශන ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/629386db.json)
 
 ---
 
@@ -2085,127 +2175,5 @@ However, former Prime Minister Imran Khan is still in jail due to cases.
 [Data](articles/80287e4f.json)
 
 [Extended Data](ext_articles/80287e4f.ext.json)
-
----
-
-### Sri Lankan bank teller saves woman losing $2000 to ’cunning’ romance scam
-
-*2024-04-01 20:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-bank-teller-saves-woman-losing-2000-to-cunning-romance-scam/108-279976) · `en`
-
-Melbourne, April 1 (9News) -  A bank teller from Sri Lanka, working at the Melbourne branch of National Australia Bank,saved a woman who he said was "blinded by her love" from losing thousands of dollars to a "cunning" scammer.
-
-The woman went into the National Australia Bank to transfer the money to a person overseas who she said was her boyfriend.
-
-But the employee, NAB Customer Advisor Dilan Pathirannahalage, was suspicious.
-
-The woman, who was in her 60s, needed help sending the money when she went into the Cranbourne bank.
-
-She said she didn't know the recipient's surname - and Pathirannahalage decided to probe further.
-
-The woman scrolled through her text messages to find the name, and showed the thread to Pathirannahalage, who noticed very affectionate language.
-
-"The messages were very lovey dovey, and looked like they were getting increasingly coercive," he said.
-
-However the woman was adamant she needed to send the money to her "boyfriend" for medical treatment.
-
-...
-
-[Data](articles/8def5b0c.json)
-
-[Extended Data](ext_articles/8def5b0c.ext.json)
-
----
-
-### Visa-free entry extended to visitors from seven countries including India, Russia
-
-*2024-04-01 19:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Visa-free-entry-extended-to-visitors-from-seven-countries-including-India-Russia/108-279975) · `en`
-
-Colombo, April 1 (Daily Mirror) - The pilot project that allows visa-free entry to visitors from seven countries, which includes India, China and Russia has been extended till April 30, 2024, Minister of Tourism Harin Fernando said.
-
-He said that a final decision regarding the matter will be taken during the next few weeks of the pilot project.
-
-In October last year, the Cabinet approved visa-free entry to visitors from India, China, Russia, Malaysia, Japan, Indonesia and Thailand as a pilot project till 31 March 2024.
-
-◼️
-
-[Data](articles/6de6fff6.json)
-
-[Extended Data](ext_articles/6de6fff6.ext.json)
-
----
-
-### Sri Lanka in the midst of stumbling block in the second innings
-
-*2024-04-01 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180187) · `ta`
-
-Sri Lanka trails by 455 runs in the 2nd innings of the ICC Test Championships against Bangladesh. Despite a strong first innings, Sri Lanka faces a crisis in the second innings, losing 102 runs in the 3rd day. Bangladesh's debutant Hasan Mahmud and Khalid Ahmad took 6 wickets each. Sri Lanka's bowlers, including Fernando and Kumara, took 10 wickets.
-
-🟩
-
-Sri Lanka is due to 455 runs at the end of the 3rd day of the ICC Test Championships against Bangladesh at the Zahur Ahmad Chaudhary Stadium, Sahur Ahmad Chaudhary.
-
-Sri Lanka scored 531 runs with the help of half a century in the first innings and controlled Bangladesh to 178 runs in its first innings.
-
-Sri Lanka's control is a significant feature of 190 runs for the third consecutive year. In the first match, Bangladesh scored 188 runs and 182 runs respectively.
-
-Asitha Fernando, Lihar Kumara, Vishwa Fernando and Prabhat Jayasuriya efficiently bowled and gave a crisis to Bangladesh.
-
-Sri Lanka, which was in the first innings in the first innings in the first innings, faced a stumbling block in the second innings.
-
-Bangladesh's debutant Hasan Mahmud and Khalid Ahmad, who played in his 14th Test match, accurately bowled 6 wickets and Sri Lanka scored 102 runs at the end of the 3rd day in the second innings.
-
-Dimuth Karunaratne (4) and Gusal Mendis (2) were both losing only 15 runs.
-
-...
-
-[Data](articles/9d80f9a3.json)
-
-[Extended Data](ext_articles/9d80f9a3.ext.json)
-
----
-
-### Pakistan court suspends Imran Khan’s prison sentence in state gifts case
-
-*2024-04-01 19:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pakistan-court-suspends-Imran-Khans-prison-sentence-in-state-gifts-case/108-279974) · `en`
-
-Islamabad, Pakistan (AL Jazeera) – A court in Pakistan has suspended former Prime Minister Imran Khan’s jail sentence in a case related to illegal selling of state gifts.
-
-Khan and his wife Bushra Bibi were each handed a 14-year sentence in the case on January 31 – just a week ahead of the February 8 elections, which Khan’s party alleges were rigged.
-
-The Islamabad High Court on Monday said the couple’s sentence will remain suspended until a decision is taken on the case after the Eid holidays, which begin in 10 days.
-
-Khan, 71, is accused of not disclosing assets based on the sale of state gifts worth more than 140 million rupees ($504,000) he received when he was the prime minister from 2018 to April 2022.
-
-The case was brought by Pakistan’s anticorruption agency, which accused Khan and his wife of unlawfully buying and selling the gifts.
-
-...
-
-[Data](articles/ac79bf28.json)
-
-[Extended Data](ext_articles/ac79bf28.ext.json)
-
----
-
-### President appoints independent review to review the increase in salary increases
-
-*2024-04-01 19:07:34* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකුවේ-වැටුප්-වැඩිවීම-සමාලෝචනයට-ජනපතිගෙන්-ස්වාධීන-පාරිශ්‍රමික-කමිටුවක්/11-408890) · `si`
-
-President Ranil Wickremesinghe appointed an independent review to assess salary increases, based on the Committee's recommendations. The committee, including Dinesh Stewen Weerakkody and others, will consider the Central Bank's letter dated 2024-03-16, aiming for a fair solution for the Central Bank's independence and staff grades.
-
-🟩
-
-Based on the recommendations of the Committee of the Committee of the Committee, President Ranil Wickremesinghe has appointed an independent remuneration as the Minister of Economic Standing and National Policies.
-
-Government Finance Committee and the Central Bank of Sri Lanka is based on a fair solution to the Central Bank's independence and the Central Bank of Sri Lanka 2024-2026
-
-The committee has been appointed as the Minister of Finance to considering the wage minister of the Sri Lanka's letter to the Central Bank of Sri Lanka with special attention to the letter of the Sri Lanka's letter dated 2024-03-16.
-
-Dinesh Stewen Weerakkody, Arjuna Herath, Dr. Indrajith Kumaraswamy, Sudhirma Karunaratne, Anthony Nihal Fonseka.Mrs. Wijesinghe, Duminda Hulangamuwa have been appointed as members of the committee.
-
-...
-
-[Data](articles/b6428f80.json)
-
-[Extended Data](ext_articles/b6428f80.ext.json)
 
 ---

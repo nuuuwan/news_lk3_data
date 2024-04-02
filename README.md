@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 16:49:15**
+As of **2024-04-02 17:03:09**
 
 ## Newspaper Stats
 
-*Scraped **16,642** Articles*
+*Scraped **16,650** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,68 @@ newsfirstlk | 363
 dailyftlk | 895
 economynextcom | 912
 islandlk | 925
-adalk | 1,397
+adalk | 1,402
 tamilmirrorlk | 1,986
-adaderanalk | 1,998
+adaderanalk | 1,999
 virakesarilk | 2,382
 dailymirrorlk | 2,563
-adaderanasinhalalk | 2,694
+adaderanasinhalalk | 2,696
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,642 (100.0%) of 16,642 articles have been extended.
+16,642 (100.0%) of 16,650 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### සතොස හරහා අද සිට සහන මල්ලක් - බිත්තරයක් රු 36කට
+
+*2024-04-02 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195218) · `si`
+
+අද (02) සිට දිවයිනේ සියලුම සතොස ශාඛා වෙතින් සහන මල්ලක් මිල දී ගැනීමට පාරිභෝගිකයන්ට අවස්ථාව ලබාදී තිබේ.
+
+සතොස සභාපති පසඳ යාපා අබේවර්ධන මහතා සඳහන් කළේ රුපියල් 4,500ක්  වටිනා ආහාර ද්‍රව්‍ය 11ක් අඩංගු මෙම සහන මල්ල රුපියල් 3,420ක් වැනි සිල්ලර මිලකට මිළදී ගැනීමට මෙහිදී අවස්ථාව ලබාදී ඇති බවය.
+
+එමෙන්ම අද සිට බිත්තරයක් රුපියල් 36 වැනි සිල්ලර මිලකට අලෙවි කිරීමටද සතොස පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/658850e1.json)
+
+---
+
+### Ehelepola Walawwa to be handed over to Dalada Maligawa
+
+*2024-04-02 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98375/ehelepola-walawwa-to-be-handed-over-to-dalada-maligawa) · `en`
+
+The Cabinet of Ministers has green-lighted a proposal seeking to hand over the historic Ehalepola Walawwa and the grounds over to the Sri Dalada Maligawa (Temple of the Tooth Relic) in Kandy through a title deed of sacred premises.
+
+In accordance with a decision taken in the Cabinet meeting held on 19 February 2024, the President’s Secretary had been informed to discuss with all the relevant parties and submit a report with recommendations to the Cabinet regarding the handing over of the ancestral home of Ehelepola Disawe and his family to the Temple of the Tooth Relic.
+
+As per the report, the Dalada Maligawa has prepared a project, aiming to present its history in a more attractive way to the society by establishing a museum at this ancestral home to represent the great historical and environmental background of the Kingdom of Kandy that existed hundreds of years ago and to make it a local and foreign tourist attraction.
+
+...
+
+[Data](articles/093fb4ac.json)
+
+---
+
+### ඥානසාර හිමිගේ ඇප ඉල්ලීමට අද දුන් තීන්දුව
+
+*2024-04-02 16:30:33* · [`adalk`](https://www.ada.lk/breaking_news/ඥානසාර-හිමිගේ-ඇප-ඉල්ලීමට-අද-දුන්-තීන්දුව/11-408905) · `si`
+
+දැනට නියම කර තිබෙන  බරපතළ වැඩසහිත වසර හතරක සිරදඬුවම් නියම වී සිටින පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන් ඇප මත මුදාහරින ලෙස කර තිබූ ඉල්ලීම කොළඹ මහාධිකරණය විසින් ප්‍රතික්ෂේප කර ඇත.
+
+ඥානසාර හිමියන්ගේ සෞඛ්‍ය තත්වය සැලකිල්ලට ගෙන  අභියාචනාධිකරණය ඉදිරියේ අභියාචනයක් විභාග කිරීම ප්‍රමාද වීම සලකමින් උන්වහන්සේ ඇපමත මුදා හරින ලෙසට ඥානසාර හිමියන්ගෙන් නීතිඥයන් විසින් මෙම ඇප ඉල්ලීම ඉදිරිපත් කර තිබිණි.
+
+◼️
+
+[Data](articles/17463b1a.json)
+
+---
 
 ### The Central Bank Assistant Governor has commented on the quota
 
@@ -51,6 +97,42 @@ From March 2021, the Central Bank had a mutual transaction with the RMP 10 billi
 [Data](articles/42030451.json)
 
 [Extended Data](ext_articles/42030451.ext.json)
+
+---
+
+### නැගෙනහිර යුරෝපයේ රැකියා අවස්ථා ලැබුණු අපේ අය විඳින දුක
+
+*2024-04-02 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195217) · `si`
+
+නැගෙනහිර යුරෝපීය රටවලට රැකියා අවස්ථාව හිමිවූ මෙරට ශ්‍රමිකයින්ට වීසා ලබාගැනීමට ඉන්දියාවට යෑමට සිදුවී තිබීමෙන් ගැටලු රාශියක් මතුව ඇති බව බලපත්‍රලාභී විදේශ රැකියා සංගමය පවසයි.
+
+විශේෂයෙන් පෝලන්තය, හංගේරියාව වැනි රටවල් පහළොවකට පමණ මෙම තත්ත්වය උදාවී ඇති බව ඔවුන් සඳහන් කළේය.
+
+එම රටවල තානාපති කාර්යාල මෙරට ස්ථාපනය කර නොමැති නිසා එම රටවලට විදේශ රැකියා සඳහා යන ශ්‍රමිකයින්ට වීසා අත්සන් කර ගැනීමට ඉන්දියාවට යෑමට සිදුවීම නිසා ඔවුන්ට අමතරව රුපියල් ලක්ෂ තුනකට වැඩි මුදලක් වැයවෙන බව සඳහන් ය.
+
+එසේම වීසා ලබාගැනීම පමා වුවහොත් රැකියා බලපත්‍රය ද  අවලංගු වීමට ඉඩ ඇති අතර එසේ වුවහොත් එම අයදුම්කරුට විශාල මුදලක් අහිමි වන බව එම සංගමය පෙන්වා දෙයි.
+
+මේ සම්බන්ධයෙන් 2016 සිට තිලක් මාරපන මහතා විදේශ කටයුතු අමාත්‍යවරයා ලෙස සිටින සමයේදී පවා සාකච්ඡා පැවැත්වූ බවත් වර්තමාන විදේශ කටයුතු අමාත්‍යවරයා සමග පවා මේ පිළිබඳ සාකච්ඡා කළත් ගැටලුවට නිසි පිළිතුරක් නොලැබුණු බව ඔවුන් සඳහන් කරයි.
+
+ඩොලර් බිලියන පහකට වඩා වැඩි ආදායමක් ලබා ගැනීමට හැකියාවක් ඇති මෙම විදේශ රැකියා වෙළෙඳපොළ ට ඇති බවද එම සංගමය පැවසීය.
+
+◼️
+
+[Data](articles/e8ffe1ce.json)
+
+---
+
+### වාහන ආනයනය ගැන රජයේ අලුත්ම තීරණය
+
+*2024-04-02 16:01:06* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ගැන-රජයේ-අලුත්ම-තීරණය/11-408904) · `si`
+
+වෑන් රථ සහ කුඩා ප්‍රමාණයේ බස් රථ ආනයනය සඳහා කැබිනට් අනුමැතිය හිමිවී තිබේ. ඒ සංචාරක අමාත්‍ය හරීන් ප්‍රනාන්දු ඉදිරිපත් කර ඇති යෝජනාවකට අනුව සංචාරක ව්‍යාපාරයේ ප්‍රවාහන අවශ්‍යතාවයන් සඳහායි.
+
+ඒ අනුව විශේෂයෙන්ම සංචාරකයන් ප්‍රවාහනය කිරීම සඳහා භාවිත කිරීමට ආසන 6 - 15 වෑන් රථ 750ක්  සහ ආසන 16-30 කුඩා ප්‍රමාණයේ බස් රථ හා ආසන 30-45 බස් රථ 250ක් ආනයනය කිරීමටයි කැබිනට් අනුමැතිය හිමි ඇත්තේ.
+
+◼️
+
+[Data](articles/35c22541.json)
 
 ---
 
@@ -89,6 +171,22 @@ It is apparent that the condition of the vehicles used in the tourism industry i
 [Data](articles/72e0dddb.json)
 
 [Extended Data](ext_articles/72e0dddb.ext.json)
+
+---
+
+### සේනක බටගොඩ මහතාට ගීත හතක් ගායනා කිරීමට වාරණයක්
+
+*2024-04-02 15:41:36* · [`adalk`](https://www.ada.lk/breaking_news/සේනක-බටගොඩ-මහතාට-ගීත-හතක්-ගායනා-කිරීමට-වාරණයක්/11-408903) · `si`
+
+ජනත් කුලතිලක මහතාට බුද්ධිමය දේපොළ පනත යටතේ ගෙවිය යුතු කතෘ භාගය නොගෙවීම හේතුවෙන් ගායන ශිල්පී සේනක බටගොඩ මහතාට අපි කවුරුද, හීනවලට පනක් තිබෙනවා, අළු යට ගිනි, අපි සැනසිල්ලේ,  රස්තා,  හොඳම දේ, සැනසෙන්නම් යන ගීත 7  මින් ඉදිරියට ගායනය කිරීම වළක්වාලමින් කොළඹ වාණිජ මහාධිකරණ විනිසුරු ප්‍රියන්ත ප්‍රනාන්දු මහතා අද 02දා වාරණයක් නිකුත් කළේය.
+
+එම ගීතවල ඒකාබද්ධ පදරචනය, තනු නිර්මාණය සහ සංගීත සංකල්පය කළ ජනත් කුලතිලක මහතා විසින් සිය නීතිඥයින් මාර්ගයෙන් ගොනුකර තිබූ පැමිණිල්ලක් සලකාබැලූ විනිසුරුවරයා ජනත් කුලතිලක මහතාගේ ලිඛිත අවසරයකින් තොරව එම ගීත 7 වෙනත් පාර්ශ්වයන් වෙත පැවරීම වළක්වාලමින් ද වාරණයක් නිකුත් කරනු ලැබීය.
+
+මෙම නඩුව නැවත අප්‍රේල් 16 දින කැදවීමටයි ගරු වානිජ මහාධිකරණය නියෝග කරනු ලැබීය.
+
+◼️
+
+[Data](articles/28c5615e.json)
 
 ---
 
@@ -210,6 +308,20 @@ President Ranil Wickremesinghe, who returned to history, has said that it has be
 
 ---
 
+### පුතු බෙිරීමට මැදිහත් වූ පියා මිතුරන්ගෙන් පහර කා මරුට
+
+*2024-04-02 15:26:51* · [`adalk`](https://www.ada.lk/breaking_news/පුතු-බෙිරීමට-මැදිහත්-වූ-පියා-මිතුරන්ගෙන්-පහර-කා-මරුට/11-408902) · `si`
+
+පුතා සමග මිතුරන්  පිරිසක් පෙර ඇති කර ගෙන තිබූ කෝන්තරයක් සංගීත සංදර්ශනයක් අතරතුරදී යළි හට ගත් අවස්ථාවේ ඊට මැදිහත්ව බෙිරීමට ගිය පියාට සංගීත සංදර්ශනය නිම වී පිටතට පැමිණි පසු එහි රැක සිට පහර දීමෙන් පියා මරණයට පත්ව ඇති බව නාරම්මල පොලීසිය පවසයි.
+
+එසේ පහර දීමෙන් රෝහල්ගතව ප්‍රතිකාර ලබමින් සිටියදී මරණයට පත්ව ඇත්තේ නො -  80 , කෝන්ගහකොටුව   , කලුගමුව, මීවැව ලිපිනයේ පදිංචිව සිටි සේනාධීර පතිරැන්නැහැලාගේ  ප්‍රදීප්  ගුණතිලක  ( 43 ) නමැති එක් දරු පියෙකි. ඔහු මාළු අලෙවිය ව්‍යාපාරයක් ලෙස පවත්වාගෙන ගොස් ඇත.
+
+...
+
+[Data](articles/6d33d964.json)
+
+---
+
 ### The economic reforms is ready to make a law
 
 *2024-04-02 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195215) · `si`
@@ -259,6 +371,24 @@ The opening ceremony of the festival is scheduled to be held at the premises of 
 [Data](articles/c5386184.json)
 
 [Extended Data](ext_articles/c5386184.ext.json)
+
+---
+
+### ඉඩම් ගැටලුවකට මස්සිනාගේ අතකපා අරන් ගිහින්
+
+*2024-04-02 15:10:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉඩම්-ගැටලුවකට-මස්සිනාගේ-අතකපා-අරන්-ගිහින්/11-408901) · `si`
+
+යාපනය වඩමාරච්චි තම්පසිට්ටි වට්ටුවාන් ප්‍රදේශයේදී පවුල් දෙකක් අතර වූ ආරවුලක් දුරදිග යාම හේතුවෙන් අතක් වෙන්වන සේ කපාදමා රැගෙන ගිය පුද්ගලයෙකු ඊයේ 01දා අත්අඩංගුවට ගත් බව පේදුරුතුඩුව පොලීසිය පැවසීය.
+
+අදාල පවුල් කලක සිට ඉඩම් ගැටලුවක් හේතුවෙන් ආරවුල් ඇතිකරගන්නා අතර ඊයේ දිනද ඒලෙසින් ආරවුලක් ඇති වූ අවස්ථාවේදී සිය මස්සිනාගේ අත වෙන්වන සේ කපා වෙන් වූ අතේ කොටසද රැගෙන අනෙක් මස්සිනා පලා ගොස් ඇත.
+
+පසුව අත කපාදැමීමෙන් බරපතල තත්වයේ සිටි පුද්ගලයා පේදුරුතුඩුව රෝහලට රැගෙන යාමෙන් පසුව වැඩිදුර ප්‍රතිකාර සඳහා යාපනය ශික්ෂණ රෝහලට මාරුකොට යැවීය.
+
+මෙලෙස අතක කොටසක් අහිමිවී ඇත්තේ 30 හැවිරිදි ‌ෙසල්වනායගම් සෙන්තුරන් නැමත්තාට වූ අතර ඔහුගේ ඥාතීන් විසින් මේ පිළිබඳව පේදුරුතුඩුව පොලීසියට පැමිණිළි කිරීමට පියවර ගෙන තිබුණි. එහිදී ක්‍රියාත්මක වූ පොලීසිය විසින් පලාගිය සැකකරු අත්අඩංගුවට ගත්තද රැගෙන ගිය අතෙහි කොටස මෙතෙක් හමු නොවීම හේතුවෙන් තුවාල ලැබූ පුද්ගලයාට අතෙහි මැණික්කටුව ආසන්නයෙන් අතෙහි කොටස අහිමි විය.
+
+...
+
+[Data](articles/8ad22120.json)
 
 ---
 
@@ -2051,189 +2181,5 @@ He was speaking in Parliament on Monday (01) under the Standing Ordinance of 27 
 [Data](articles/95b70265.json)
 
 [Extended Data](ext_articles/95b70265.ext.json)
-
----
-
-### Dinesh Chandimal withdraws from ongoing 2nd Test match
-
-*2024-04-02 09:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dinesh-Chandimal-withdraws-from-ongoing-2nd-Test-match/108-280017) · `en`
-
-Colombo, April 2 (Daily Mirror) - Dinesh Chandimal has withdrawn from the team playing the 2nd Test match against Bangladesh with immediate effect due to a 'family medical emergency.'
-
-Accordingly, Chandimal will return home immediately, Sri Lanka Cricket (SLC) said.
-
-"Sri Lanka Cricket, his teammates, and the coaching staff fully support Dinesh Chandimal at this moment of need and request that the public respect his and his family's privacy," SLC said.
-
-Today is the 4th day of the 2nd Test match between Sri Lanka and Bangladesh, which is being played in Chattogram, Bangladesh.
-
-◼️
-
-[Data](articles/7236a0de.json)
-
-[Extended Data](ext_articles/7236a0de.ext.json)
-
----
-
-### The kilman of Jaffna science girl dies in prison
-
-*2024-04-02 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195198) · `si`
-
-Pobalasingham Yossuriya, a 39-year-old Jaffna science girl's killer, died in prison after being sentenced to death. He was admitted to Kandy Hospital due to an emergency condition. The post-mortem examination revealed his cause of death. Swiss Kumar, among others, was sentenced for the murder.
-
-🟩
-
-Pobalasingham Yossuriya, who was detained at the Dumbara Prison in the Dumbara Prison, was due to the death of the death of Pallekele.
-
-The hospital had been admitted to the Kandy Hospital on 31st March due to an emergency condition, he was rushed to the Kandy Hospital.
-
-The deceased is 39 years old and he had appealed in the death penalty.
-
-After being sentenced to death, he was admitted to the Dumbara Prison in the Pallekele Prison due to illness.
-
-The body of the post mortem has been placed at the Kandy National Hospital morgue.
-
-The post mortem examination is expressed after the post mortem examination is specified.
-
-Swiss Kumar, including Swiss Kumar, was sentenced to seven persons including the science girl's murder.
-
-The punishment was published as a unanimous verdict as an unanimous verdict of the Jaffna High Court Judge, Batticaloa High Court Judge, Vavuniya High Court Judge, Vavuniya High Court Judge, Vavuniya High Court Judge Balander.
-
-...
-
-[Data](articles/3b6ad3b5.json)
-
-[Extended Data](ext_articles/3b6ad3b5.ext.json)
-
----
-
-### If Maithri, Karuna and Pillayan arrests the truth will come out
-
-*2024-04-02 09:38:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மைத்திரி-கருணா-பிள்ளையானை-கைது-செய்தால்-உண்மை-வெளிவரும்/73-335493) · `ta`
-
-If Maithri, Karuna, and Pillayan are arrested, the truth about the Easter bombing will emerge. Srinithambi Yogeswaran calls for their investigation. The Karuna Brigade's activities and the 2019 bombing's coverage suggest a hidden agenda. Pillaiyan, an adviser to Minister C. Chandrakanthan, is accused in the media but has since published a book on the bombing. This raises questions about the law's integrity and the need for serious investigation.
-
-🟩
-
-Something has been hidden between former President Maithripala Sirisena, Karuna and Pillaiyan over Easter bombing. Therefore, if they are arrested and investigated, they can know who the right masterpiece is about the bombing.. Former Member of Parliament, Srinithambi Yogeswaran, said that they should be arrested and investigated.
-
-The Karuna Brigade is the usual activity. Election is approaching. In the last parliamentary election, the people who voted for the Tamil nationalist people voted in the last parliamentary election, the people who voted for the Tamil nationalist people were distracted by the votes of the Tamil people in the district, and the pride of the Muslim people in the district.
-
-There is a different news about the 2019 bombing of many people. Pillaiyan is the adviser to the Minister of State C. Chandrakanthan, who has sought refuge in the Swissatam, and has said that Pillayan is guilty in the Media 4 media.
-
-...
-
-[Data](articles/07114bfa.json)
-
-[Extended Data](ext_articles/07114bfa.ext.json)
-
----
-
-### "If the three are arrested, the truth will come out"
-
-*2024-04-02 09:38:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மூவரையும்-கைது-செய்தால்-உண்மை-வெளிவரும்/73-335493) · `ta`
-
-"If Maithripala Sirisena, Karuna, and Pillaiyan are arrested, the truth about the Easter bombing will be revealed. Srinithambi Yogeswaran calls for their arrest and investigation. Pillaiyan, an adviser to Minister C. Chandrakanthan, is accused of involvement in the bombing. Despite being in Switzerland, he published a book on the attack. Karuna has commented on Pillaiyan's book. If these three are arrested, it could lead to legal action against them for their roles in the bombing."
-
-🟩
-
-Something has been hidden between former President Maithripala Sirisena, Karuna and Pillaiyan over Easter bombing. Therefore, if they are arrested and investigated, they can know who the right masterpiece is about the bombing.. Former Member of Parliament, Srinithambi Yogeswaran, said that they should be arrested and investigated.
-
-The Karuna Brigade is the usual activity. Election is approaching. In the last parliamentary election, the people who voted for the Tamil nationalist people voted in the last parliamentary election, the people who voted for the Tamil nationalist people were distracted by the votes of the Tamil people in the district, and the pride of the Muslim people in the district.
-
-There is a different news about the 2019 bombing of many people. Pillaiyan is the adviser to the Minister of State C. Chandrakanthan, who has sought refuge in the Swissatam, and has said that Pillayan is guilty in the Media 4 media.
-
-...
-
-[Data](articles/a349ec57.json)
-
-[Extended Data](ext_articles/a349ec57.ext.json)
-
----
-
-### Is it lone on your childhood?
-
-*2024-04-02 09:36:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2lwwd8n80wo) · `si`
-
-Kasun, a former drug user, shares his experiences and the challenges faced by schools in Sri Lanka to combat drug abuse. He highlights the efforts of the school and local authorities to reduce drug use among students, emphasizing the importance of psychological support and changing the environment.
-
-🟩
-
-"Through, the pills, and kg, cannabis, have been hit. Cigarettes are beeed. "Those cars are a few years before stopping the use of the use of the use of. He is expecting the A / L results and is from the 6-17 years of school.
-
-It was reported that the incidents were reported in the incident after the operation of justice, which was started with the objective of eradication of poison from December last year.
-
-Kasun also had a victim of drug dealers and demands that he had to unveil his identity to the Sinhala and talk about drug use and to share the experience of drugs.
-
-As well as the identity of many, the identity of this article, we do not reveal to the safety of the reputation and the reputation of the reputation of the schools.
-
-"It was used to seeing the children with me. I'm just myself as they know when they. I was eager to see them. I haven't been forced because of what I asked. "The school was on the 7 year of study.
-
-...
-
-[Data](articles/8e5a9c1c.json)
-
-[Extended Data](ext_articles/8e5a9c1c.ext.json)
-
----
-
-### Muslim officials continue to be ignored for the post of Secretary in the Eastern Province - Imran Mahroof
-
-*2024-04-02 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180203) · `ta`
-
-Muslim officials in the Eastern Province are overlooked for Secretary posts, despite ethnic balance in past appointments. Imran Mahroof criticizes the lack of Muslim representation, highlighting a potential risk to Muslim officials' ability to work in the future.
-
-🟩
-
-Muslims in the Eastern Provincial Council continues to be ignored. Opposition member Imran Mahrob said that it is a matter of concern that not a Muslim has been appointed to the post of Secretary.
-
-He said this while addressing the debate on regulations under the Ayurvedic Act held in Parliament on Monday (02).
-
-No Muslim official has been appointed to the post of Secretary in the Eastern Province. Even though it was revealed in June last year, the move remained unforgettable. In the past five ministries in the Eastern Province, 2 Tamil secretaries, 2 Muslim secretaries and a Sinhalese secretary worked. The move was based on the ethnic balance.
-
-...
-
-[Data](articles/d5488955.json)
-
-[Extended Data](ext_articles/d5488955.ext.json)
-
----
-
-### Rain in the afternoon of many areas
-
-*2024-04-02 09:29:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளில்-பிற்பகலில்-மழை/175-335492) · `ta`
-
-"Rain or thunderstorms expected in Western, Sabaragamuwa, Central, Northwest, Southern, North Central, and Uva provinces from 2.00 pm today. Heavy rains in Western, Sabaragamuwa, Central, North Western, and Southern Provinces, Anuradhapura, and Moneragala districts. Take precautions against lightning."
-
-🟩
-
-The Department of Meteorology has said that rain or thunderstorms will occur after 2.00 pm in the Western, Sabaragamuwa, Central, Northwest, Southern, North Central and Uva provinces today (02).
-
-Heavy rains are expected in some areas in the Western, Sabaragamuwa, Central, North Western and Southern Provinces, Anuradhapura and Moneragala districts.
-
-The Department of Meteorology has urged the people to take necessary steps to reduce the dangers of lightning and lightning impacts during thunderstorms.
-
-◼️
-
-[Data](articles/bda6ab54.json)
-
-[Extended Data](ext_articles/bda6ab54.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-04-02 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195197) · `si`
-
-Parliamentary Council's second reading of the Banking Amendment Bill today.
-
-🟩
-
-The second reading of the Banking Amendment Bill will be held today.
-
-◼️
-
-[Data](articles/e49d08b8.json)
-
-[Extended Data](ext_articles/e49d08b8.ext.json)
 
 ---

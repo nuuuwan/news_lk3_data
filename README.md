@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 14:18:00**
+As of **2024-04-02 14:33:52**
 
 ## Newspaper Stats
 
-*Scraped **16,615** Articles*
+*Scraped **16,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,396
 tamilmirrorlk | 1,982
 adaderanalk | 1,996
 virakesarilk | 2,374
-dailymirrorlk | 2,556
+dailymirrorlk | 2,557
 adaderanasinhalalk | 2,691
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,611 (100.0%) of 16,615 articles have been extended.
+16,615 (100.0%) of 16,616 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,23 +46,31 @@ The crew is on board the container vessel Dali that collided with the 2.6-km-lon
 
 [Data](articles/b398df70.json)
 
+[Extended Data](ext_articles/b398df70.ext.json)
+
 ---
 
-### ඇහැළේපොළ වලව්ව ශ්‍රී දළදා මාලිගාවට පවරා දෙයි
+### Ehelpola Walawwa delegates Sri Dalada Maligawa
 
 *2024-04-02 13:51:05* · [`adalk`](https://www.ada.lk/breaking_news/ඇහැළේපොළ-වලව්ව-ශ්‍රී-දළදා-මාලිගාවට-පවරා-දෙයි/11-408899) · `si`
 
-ඇහැළේපොළ වලව්ව ශ්‍රී දළදා මාලිගාව වෙත පවරාදීම සම්බන්ධයෙන් 2024-2-19 දින අමාත්‍ය මණ්ඩල රැස්වීමේදී ගනු ලැබූ තීරණය අනුව  අදාළ සියලු පාර්ශවයන් සමඟ සාකච්ඡා කර අමාත්‍ය මණ්ඩලය වෙත නිර්දේශ සහිත වාර්තාවක් ඉදිරිපත් කරන ලෙස ජනාධිපති ලේකම්ට දැනුම් දී තිබේ.
+The President recommends transferring Ehelpola Walawwa to Sri Dalada Maligawa for tourism. The Cabinet approves, aiming to enhance local and foreign tourism.
 
-ඒ අනුව ඉදිරිපත් කර ඇති වාර්තාව මගින් ඇහැලේපොළ පවුල ප්‍රමුඛ කර ගනිමින් වසර සිය ගණනකට එපිට පැවති මහනුවර රාජධානිය ශ්‍රී විභූතිය හා එම පරිසරයේ පසුබිම නිරූපණය වන අයුරින් මෙම ගොඩනැගිල්ල තුළ ඉටි රූප කෞතුකාගාරයක් පිහිටුවීමටත් එමඟින් එම ඉතිහාසය පිළිබඳ තොරතුරු වර්තමාන ජන සමාජය වෙත වඩාත් ආකර්ෂණීය අයුරින් ඉදිරිපත් කිරීමට සහ දේශීය හා විදේශීය සංචාරක ආකර්ෂණය ඇති කිරීමත් අරමුණු කරගනිමින් ශ්‍රී දළදා මාලිගාව විසින් ඇහැලේපොළ වලව්ව  ආශ්‍රිත ව්‍යාපෘතියක් සකස් කරනු ලැබ ඇත.
+🟩
 
-එබැවින් අදාල ගොඩනැගිල්ල ශ්‍රී දළදා  මාලිගාව වෙත පවරාදීම සුදුසු බවට නිර්දේශ කර තිබේ.
+The President has informed the Secretary to the President to submit a recommendation report to the Cabinet in the Meetings taken by the Cabinet Meeting on the delegation of Ehelpola Walawwa to the Sri Dalada Maligawa.
 
-ඒ අනුව ඇහැලේපොළ වලව්ව හා ඊට අයත් භූමිය පූජා ඔප්පුවක් මගින්  දළදා මාලිගාව වෙත පවරාදීම පිණිස ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කර තිබේ.
+Accordingly, the report presented by the Ehelepola family, the Kandy Relayance of the Kandy Reconciliation and the environment, it is more attractive to the current community to present the history of the country.The Sri Dalada Maligawa project has been prepared by the Sri Dalada Maligawa project, aims to establish local and foreign tourism.
+
+Therefore, it is recommended that it is advisable to transfer the relevant building to the Dalada Maligawa.
+
+The Cabinet has been approved by the Cabinet of the President to hand over Ehelepola Walawwa and the land of Ehelepola Walawwa and a sacred offer.
 
 ◼️
 
 [Data](articles/cbf53030.json)
+
+[Extended Data](ext_articles/cbf53030.ext.json)
 
 ---
 
@@ -216,9 +224,15 @@ The protest was carried out at the Jaffna Teaching Hospital in support of this. 
 
 *2024-04-02 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98370/gnanasara-theros-bail-application-rejected) · `en`
 
-The Colombo High Court on Tuesday (02) rejected the bail application filed by the General Secretary of ‘Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thero, who was earlier sentenced to 4 years of rigorous imprisonment.
+The Colombo High Court on Tuesday (02) rejected the bail application filed by the General Secretary of Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thero, who was recently handed a 4-year rigorous imprisonment.
 
-◼️
+High Court Judge Aditya Patabendige conveyed the decision when the bail application put forward by the defense attorneys requesting the court to release their client on bail was taken up before the court on Tuesday morning.
+
+On March 28, Judge Patabendige sentenced the BBS General Secretary to four years of rigorous imprisonment for the defamatory comments made against Islam in late 2016.
+
+Gnanasara Thero had been accused of making defamatory comments against Islam during a 2016 media briefing convened with respect to the Kuragala Buddhist monastery, causing damage to national and religious harmony.
+
+...
 
 [Data](articles/63ad0c6a.json)
 
@@ -239,6 +253,8 @@ The defence requested court to release Ven. Gnanasara Thera on bail pending appe
 ◼️
 
 [Data](articles/20293155.json)
+
+[Extended Data](ext_articles/20293155.ext.json)
 
 ---
 
@@ -574,15 +590,21 @@ With Australia, Poland and Britain;A man with a Canadian dual citizen and a Pale
 
 ---
 
-### පාසල් සිසුවියන්ට නොමිලේ සනීපාරක්ෂක තුවා
+### Free Sanitary Towels for School Children
 
 *2024-04-02 12:48:57* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුවියන්ට-නොමිලේ-සනීපාරක්ෂක-තුවා/11-408898) · `si`
 
-තෝරගත් ග්‍රාමීය පාසල්වල සහ දරිද්‍රතාවයට මුහුණදෙන සිසුවියන් සඳහා නෙමිලේ සනීපාරක්ෂක තුවා ලබාදීමේ අදාළ වැඩසටහනට කැබිනට් අනුමැතිය ලබාදී ඇත.
+The Cabinet approved providing free sanitary towels to selected rural schools and areas of poverty.
+
+🟩
+
+The Cabinet has approved the issuance of the nemue of hygiene towels for selected rural schools and poverty.
 
 ◼️
 
 [Data](articles/0efeb017.json)
+
+[Extended Data](ext_articles/0efeb017.ext.json)
 
 ---
 
@@ -2054,6 +2076,22 @@ The waste included mostly corrosives, flammables, miscellaneous hazardous materi
 
 ---
 
+### Sri Lanka unaware of ship carrying toxic wastes from the US
+
+*2024-04-02 06:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-unaware-of-ship-carrying-toxic-wastes-from-the-US/108-280010) · `en`
+
+Colombo, April 2 (Daily Mirror) - Sri Lanka is not yet aware of the nature of hazardous materials in the Singapore cargo ship Dali chartered by Maersk, which crashed into the Baltimore, US bridge on March 26, carrying 764 tons of hazardous materials as reported by the US media, an official said.
+
+According to information available, there are 57 containers with such toxic materials that can be categorized under the International Maritime Dangerous Goods Code.
+
+The waste included mostly corrosives, flammables, miscellaneous hazardous materials, and Class-9 hazardous materials, including explosives & lithium-ion batteries – in 56 containers. So says the US National Transportation Safety Board, still ‘analyzing the ship’s manifest to determine what was onboard’ in its other 4,644 containers.
+
+...
+
+[Data](articles/edd67ff2.json)
+
+---
+
 ### Katchatheevu Island a done deal, India has no intention to reverse agreement
 
 *2024-04-02 06:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Katchatheevu-Island-a-done-deal-India-has-no-intention-to-reverse-agreement/108-280009) · `en`
@@ -2201,25 +2239,5 @@ In a comprehensive 6-point statement shared via ‘X’, he provided insights in
 [Data](articles/c6127606.json)
 
 [Extended Data](ext_articles/c6127606.ext.json)
-
----
-
-### LAUGFS Gas cuts 12.5kg cylinder price by Rs. 625
-
-*2024-04-02 02:01:57* · [`dailyftlk`](https://www.ft.lk/business/LAUGFS-Gas-cuts-12-5kg-cylinder-price-by-Rs-625/34-760212) · `en`
-
-LAUGFS Gas PLC, yesterday announced a substantial massive reduction in the prices of its LAUGFS branded domestic LPG.
-
-The price of a 12.5kg domestic cylinder under the LAUGFS brand will be reduced by a staggering Rs. 625 to be at an MRP of Rs. 4,115 within the Colombo District. Prices in other areas and pack sizes will be adjusted accordingly.
-
-LAUGF said this significant price revision comes as a testament to several positive developments and factors contributing to the favourable economic climate. It acknowledged the supportive Government policies, including the appreciating value of the Sri Lankan rupees against the US dollar, reduction in interest rates, and the availability of ample foreign exchange facilitating the opening of letters of credit.
-
-LAUGFS is the only private sector LPG company listed on the Colombo Stock Exchange (CSE).
-
-...
-
-[Data](articles/a74f4c9b.json)
-
-[Extended Data](ext_articles/a74f4c9b.ext.json)
 
 ---

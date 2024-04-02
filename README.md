@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 22:05:22**
+As of **2024-04-02 22:18:37**
 
 ## Newspaper Stats
 
-*Scraped **16,702** Articles*
+*Scraped **16,703** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 1,989
 adaderanalk | 2,007
 virakesarilk | 2,402
 dailymirrorlk | 2,571
-adaderanasinhalalk | 2,703
+adaderanasinhalalk | 2,704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,702 (100.0%) of 16,702 articles have been extended.
+16,702 (100.0%) of 16,703 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### දමිතාගේ ඉල්ලීම අධිකරණය ප්‍රතික්ෂේප කරයි
+
+*2024-04-02 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195227) · `si`
+
+ජනප්‍රිය රංගන ශිල්පිනී දමිතා අබේරත්න සහ ඇයගේ සැමියා ආගමන හා විගමන පනත යටතේ අත්අඩංගුවට ගැනීම වළක්වාලන අතුරු තහනම් නියෝගයක් නිකුත් කිරීම ප්‍රතික්ෂේප කිරීමට අභියාචනාධිකරණය අද (02) තීන්දු කළේය.
+
+ඒ, විදේශ රැකියා ලබාදෙන බව පවසා මුදල් වංචා කිරීමේ සිද්ධියක් සම්බන්ධයෙනි.
+
+දමිතා අබේරත්න සිය නීතිඥවරුන් මාර්ගයෙන් ඉදිරිපත් කළ රිට් පෙත්සමක් විභාගයට ගැනීමට අවසර දෙමින් සෝභිත රාජකරුණා සහ ධම්මික ගනේපොළ යන විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කර ඇත.
+
+ඉදිරිපත් වූ කරුණු සලකාබැලූ විනිසුරු මඩුල්ල පෙත්සම්කාරිය අත්අඩංගුවට ගැනීම වැළැක්වීමේ අතුරු තහනම් නියෝගයක් නිකුත් නොකිරීමට තීරණය කරමින් පෙත්සම විභාගයට ගැනීම සඳහා වග උත්තරකරුවන්ට නොතිසි නිකුත් කරන ලෙස නියෝග කර තිබේ.
+
+◼️
+
+[Data](articles/a05f3962.json)
+
+---
 
 ### Student who went to Jungle Beach with girlfriend disappeared
 
@@ -2251,29 +2269,5 @@ From the government’s side, Prof. Ranjith Bandara, Suren Raghavan, S. M. M. Mu
 [Data](articles/1c856ece.json)
 
 [Extended Data](ext_articles/1c856ece.ext.json)
-
----
-
-### A shot of a school in Finland
-
-*2024-04-02 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195210) · `si`
-
-A school shooting in Vanta, Finland, injured several people this morning. The suspect was arrested. 800 students and 90 staff were present.
-
-🟩
-
-Several people were injured in a school shooting at Vanta, Finland.
-
-According to the media, the shooting has been carried out this morning.
-
-The suspect was arrested over the shooting, police said.
-
-According to foreign media reports, 800 students and 90 staff have been in the school.
-
-◼️
-
-[Data](articles/e6d7e74c.json)
-
-[Extended Data](ext_articles/e6d7e74c.ext.json)
 
 ---

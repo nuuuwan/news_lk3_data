@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 09:52:15**
+As of **2024-04-02 10:03:50**
 
 ## Newspaper Stats
 
-*Scraped **16,538** Articles*
+*Scraped **16,542** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 148
 bbccomsinhala | 175
-dbsjeyarajcom | 201
+dbsjeyarajcom | 202
 newsfirstlk | 363
 dailyftlk | 895
 economynextcom | 909
 islandlk | 924
-adalk | 1,389
+adalk | 1,390
 tamilmirrorlk | 1,971
-adaderanalk | 1,987
-virakesarilk | 2,358
+adaderanalk | 1,988
+virakesarilk | 2,359
 dailymirrorlk | 2,542
 adaderanasinhalalk | 2,676
 
@@ -26,67 +26,125 @@ adaderanasinhalalk | 2,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,534 (100.0%) of 16,538 articles have been extended.
+16,538 (100.0%) of 16,542 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### மைத்திரி, கருணா, பிள்ளையானை கைது செய்தால் உண்மை வெளிவரும்
+### Thai Airways resumes operations to Sri Lanka
+
+*2024-04-02 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98364/thai-airways-resumes-operations-to-sri-lanka) · `en`
+
+After a four-year hiatus, Thai Airways flight TG 307 arrived at Bandaranaike International Airport (BIA) in Katunayake at 11.55 p.m. on Monday (01).
+
+Originating from Bangkok, Thailand, the flight carried approximately 150 foreign tourists, including Thai nationals. According to Katunayake airport authorities, flights between Thailand and Sri Lanka are now operating daily.
+
+Nimal Siripala de Silva, the Minister of Ports, Shipping & Aviation welcomed the flight and its passengers at the arrival terminal.
+
+A special cultural dance performance had also been organized by the Airport and Aviation Services (Sri Lanka) Ltd. (AASL) to commemorate the occasion and welcome the flight and passengers. Several officials, including Eng. Athula Galketiya, the AASL chairman were in attendance at the event.
+
+...
+
+[Data](articles/0bc61bce.json)
+
+---
+
+### உயிர்த்த ஞாயிறு தாக்குதலில் பாதிக்கப்பட்டவர்களுக்கு நீதியை பெற்றுக்கொடுக்க அரசாங்கம் தவறியுள்ளது - எதிர்க்கட்சித் தலைவர்
+
+*2024-04-02 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180204) · `ta`
+
+உயிர்த்த ஞாயிறு தாக்குதலை அடிப்படையாக்கொண்டு தெரிவு செய்யப்பட்ட ஜனாதிபதி  கோட்டாபய ராஜபக்ஷ தாக்குதலின் பிரதான சூத்திரதாரிகளை கண்டறிவதாக வாக்குறுதியளித்த போதும் அது நிறைவேற்றப்படவில்லை. அதேநேரம் தாக்குதல் தொடர்பில் சர்வதேச விசாரணை மேற்கொள்வதாக ஜனாதிபதி தெரிவித்திருந்தார். அந்த விசாரணை இடம்பெறுகிறதா என்பதை அரசாங்கம் தெரிவிக்க வேண்டும். அரசாங்கம் ஆட்சிக்கு வந்து 5 வருடமாகியும் பாதிக்கப்பட்டவர்களுக்கு நீதியை பெற்றுக்கொடுக்க முடியாமல் போயிருக்கிறது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பாராளுமன்றத்தில் திங்கட்கிழமை (01) நிலையியற் கட்டளை 27 2 இன் கீழ் கேள்வி எழுப்பி உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/95b70265.json)
+
+---
+
+### If Maithri, Karuna and Pillayan arrests the truth will come out
 
 *2024-04-02 09:38:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மைத்திரி-கருணா-பிள்ளையானை-கைது-செய்தால்-உண்மை-வெளிவரும்/73-335493) · `ta`
 
-ஈஸ்டர் குண்டுதாக்குதல் தொடர்பாக முன்னாள் ஜனாதிபதி மைத்திபால சிறிசேன, கருணா, பிள்ளையான் ஆகியவர்களுக்கிடையே ஏதே ஒன்று மறைந்திருக்கின்றது. ஆகவே இவர்கள் 3 பேரையும்  கைது செய்து விசாரித்தால்  இந்த குண்டுதாக்குதல் தொடர்பாக சரியான சூத்திரதாரி யார் என்பதை அறிய முடியும். எனவே இவர்களை உடன் கைது செய்து விசாரணை நடத்துமாறு  பாராளுமன்ற முன்னாள் உறுப்பினர் சீனித்தம்பி யோகேஸ்வரன் தெரிவித்தார்.
+If Maithri, Karuna, and Pillayan are arrested, the truth about the Easter bombing will emerge. Srinithambi Yogeswaran calls for their investigation. The Karuna Brigade's activities and the 2019 bombing's coverage suggest a hidden agenda. Pillaiyan, an adviser to Minister C. Chandrakanthan, is accused in the media but has since published a book on the bombing. This raises questions about the law's integrity and the need for serious investigation.
 
-கருணா படையணி என்பது வழமையான செயற்பாடு. தேர்தல் நெருங்குகின்றது தேர்தலுக்கான நாடகம். கடந்த பாராளுமன்ற தேர்தலில் கல்முனை வடக்கு தமிழ் பிரதேச செயலகத்தை பூரண அதிகாரத்துடன் மீட்டுத்தருவதாக கூறி, தமிழ் தேசிய மக்களுக்கு வாக்களிக்க இருந்த மக்கள் எல்லாம் தன்பக்கம் திசைதிருப்பி வாக்குகளை சிதறடித்து அந்த மாவட்டத்தில் தமிழ் மக்கள் பிரதி நிதி ஒருவர் வராமல் செய்து முஸ்லீம் மக்களின் பிரதிநிதித்துவம் அதிகரிக்க செய்த பெருமை செய்தவர்.
+🟩
+
+Something has been hidden between former President Maithripala Sirisena, Karuna and Pillaiyan over Easter bombing. Therefore, if they are arrested and investigated, they can know who the right masterpiece is about the bombing.. Former Member of Parliament, Srinithambi Yogeswaran, said that they should be arrested and investigated.
+
+The Karuna Brigade is the usual activity. Election is approaching. In the last parliamentary election, the people who voted for the Tamil nationalist people voted in the last parliamentary election, the people who voted for the Tamil nationalist people were distracted by the votes of the Tamil people in the district, and the pride of the Muslim people in the district.
+
+There is a different news about the 2019 bombing of many people. Pillaiyan is the adviser to the Minister of State C. Chandrakanthan, who has sought refuge in the Swissatam, and has said that Pillayan is guilty in the Media 4 media.
 
 ...
 
 [Data](articles/07114bfa.json)
 
+[Extended Data](ext_articles/07114bfa.ext.json)
+
 ---
 
-### கிழக்கு மாகாணத்தில் செயலாளர் பதவிக்கு முஸ்லிம் அதிகாரிகள் தொடர்ந்து புறக்கணிக்கப்படுகின்றனர் - இம்ரான் மஹ்ரூப்
+### Muslim officials continue to be ignored for the post of Secretary in the Eastern Province - Imran Mahroof
 
 *2024-04-02 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180203) · `ta`
 
-கிழக்கு மாகாணசபையில் முஸ்லிம்கள் புறக்கணிக்கப்பட்டுவரும் நடவடிக்கை தொடர்ந்து இடம்பெற்று வருகிறது. செயலாளர் பதவிக்கு இதுவரை ஒரு முஸ்லிம் கூட நியமிக்கப்படாமல் இருப்பது கவலைக்குரிய விடயமாகும் என எதிர்க்கட்சி உறுப்பினர் இம்ரான் மஹ்ரூப் தெரிவித்தார்.
+Muslim officials in the Eastern Province are overlooked for Secretary posts, despite ethnic balance in past appointments. Imran Mahroof criticizes the lack of Muslim representation, highlighting a potential risk to Muslim officials' ability to work in the future.
 
-பாராளுமன்றத்தில்  திங்கட்கிழமை (02) இடம்பெற்ற  ஆயுர்வேத சட்டத்தின் கீழ் ஒழுங்குவிதிகள் மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-கிழக்கு மாகாணத்தில் செயலாளர் பதவிக்கு இதுவரை எந்த முஸ்லிம் அதிகாரியும் நியமிக்கப்படவில்லை. கடந்த வருடம் ஜூன் மாத்தில் இதுதொடர்பாக வெளிக்கொண்டுவரப்பட்டபோதும் அந்த நடவடிக்கை இன்னும் செயற்படுத்தப்படாமல் இருக்கிறது. கடந்த காலத்தில் கிழக்கு மாகாணத்தில் இருந்த 5 அமைச்சுக்களில் 2 தமிழ் செயலாளர்களும் 2 முஸ்லிம் செயலாளர்களும் ஒரு சிங்கள செயலாளரும் பணியாற்றி வந்தார்கள். இன சமநிலையை கருத்திற்கொண்டே இந்த நடவடிக்கை இடம்பெற்று வந்தது.
+Muslims in the Eastern Provincial Council continues to be ignored. Opposition member Imran Mahrob said that it is a matter of concern that not a Muslim has been appointed to the post of Secretary.
+
+He said this while addressing the debate on regulations under the Ayurvedic Act held in Parliament on Monday (02).
+
+No Muslim official has been appointed to the post of Secretary in the Eastern Province. Even though it was revealed in June last year, the move remained unforgettable. In the past five ministries in the Eastern Province, 2 Tamil secretaries, 2 Muslim secretaries and a Sinhalese secretary worked. The move was based on the ethnic balance.
 
 ...
 
 [Data](articles/d5488955.json)
 
+[Extended Data](ext_articles/d5488955.ext.json)
+
 ---
 
-### பல பகுதிகளில் பிற்பகலில் மழை
+### Rain in the afternoon of many areas
 
 *2024-04-02 09:29:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளில்-பிற்பகலில்-மழை/175-335492) · `ta`
 
-மேல், சப்ரகமுவ, மத்திய, வடமேற்கு, தெற்கு, வடமத்திய மற்றும் ஊவா மாகாணங்களில் இன்று (02) பிற்பகல் 2.00 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை  பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+"Rain or thunderstorms expected in Western, Sabaragamuwa, Central, Northwest, Southern, North Central, and Uva provinces from 2.00 pm today. Heavy rains in Western, Sabaragamuwa, Central, North Western, and Southern Provinces, Anuradhapura, and Moneragala districts. Take precautions against lightning."
 
-மேல், சப்ரகமுவ, மத்திய, வடமேல் மற்றும் தென் மாகாணங்களிலும் அநுராதபுரம் மற்றும் மொனராகலை மாவட்டங்களிலும் சில இடங்களில் கடும் மழை பெய்யக்கூடும் என திணைக்களம் குறிப்பிட்டுள்ளது.
+🟩
 
-இடியுடன் கூடிய மழையின்போது, தற்காலிக பலத்த காற்று வீசுவதுடன், மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது.
+The Department of Meteorology has said that rain or thunderstorms will occur after 2.00 pm in the Western, Sabaragamuwa, Central, Northwest, Southern, North Central and Uva provinces today (02).
+
+Heavy rains are expected in some areas in the Western, Sabaragamuwa, Central, North Western and Southern Provinces, Anuradhapura and Moneragala districts.
+
+The Department of Meteorology has urged the people to take necessary steps to reduce the dangers of lightning and lightning impacts during thunderstorms.
 
 ◼️
 
 [Data](articles/bda6ab54.json)
 
+[Extended Data](ext_articles/bda6ab54.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Parliamentary Council begins
 
 *2024-04-02 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195197) · `si`
 
-බැංකු සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය අද පැවැත්වීමට නියමිතය.
+Parliamentary Council's second reading of the Banking Amendment Bill today.
+
+🟩
+
+The second reading of the Banking Amendment Bill will be held today.
 
 ◼️
 
 [Data](articles/e49d08b8.json)
+
+[Extended Data](ext_articles/e49d08b8.ext.json)
 
 ---
 
@@ -109,6 +167,24 @@ Investigations have revealed that the house was due to the problem with the owne
 [Data](articles/09ef82fc.json)
 
 [Extended Data](ext_articles/09ef82fc.ext.json)
+
+---
+
+### රනිල්ගේ නායකත්වය ඉදිරියටත් අවශ්‍යයි
+
+*2024-04-02 09:12:29* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ගේ-නායකත්වය-ඉදිරියටත්-අවශ්‍යයි/11-408893) · `si`
+
+රටේ පැවති ආර්ථික අර්බුදය විසඳීම සඳහා සිටින දක්ෂතම සහ සුදුසුම නායකයා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා බව මේ වන විට ලබා ඇති ප්‍රගතියෙන් තහවුරු වන බවත් එබැවින් ඒ මහතාගේ නායකත්වය ඉදිරියට ද රටට අවශ්‍ය බවත් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවසීය.
+
+මේ වන විට ලබා ඇති ප්‍රගතිය හමුවේ ඕනෑම අයෙකුට රට පාලනය කළ හැකි බව ඇතැමුන් විශ්වාස කිරීමට පෙළඹී ඇතත් එය නිවැරදි නොවන බව ද මුදල් රාජ්‍ය අමාත්‍යවරයා සඳහන් කර සිටියේය.
+
+මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+ලක්ෂ 24ක් සඳහා අස්වැසුම ප්‍රතිලාභය ලබාදීමේ කටයුතු අවසන් කර ඒ පිළිබඳව පසුවිපරම් සමීක්ෂණයක් සිදු කිරීමට බලාපොරොත්තු වන බව ද මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවසීය.
+
+...
+
+[Data](articles/2af5ed15.json)
 
 ---
 
@@ -993,6 +1069,20 @@ The given graphs extracted from ADB and IMF reports reiterate Breuer’s point t
 [Data](articles/f1cb2e37.json)
 
 [Extended Data](ext_articles/f1cb2e37.ext.json)
+
+---
+
+### How  the  LTTE  Crushed  “Col” Karuna’s   Eastern Tiger  Revolt  Through Force.
+
+*2024-04-02 00:12:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83845) · `en`
+
+The course of war  between the Liberation Tigers of Tamil Eelam(LTTE) and the Sri Lankan armed forces was drastically altered by the  2004 eastern  revolt headed by former tiger commander of the Batticaloa and Amparai districts Vinayagamoorthy Muralidharan alias “Col”Karuna. The LTTE was split vertically and horizontally as a result and gradually weakened. By 2007 the LTTE ceased  having territorial control in the Eastern province.
+
+This article is the third in a series about the intra-tiger split of 2004 and the fratricidal war that followed. In the first article published on 16 March 2024 the background and reasons for the Eastern Tiger revolt were discussed in detail. In the  second article  published on 23 March 2024 the course of events leading to the  conflict in the aftermath of “Col”Karuna’s rebellion were recounted.  This third article relates  details of the Tiger vs Tiger confrontation that  commenced 20 years ago on Good Friday.
+
+...
+
+[Data](articles/5b609486.json)
 
 ---
 
@@ -2085,113 +2175,5 @@ Islamabad High Court said that the couple’s graft sentence will remain suspend
 [Data](articles/d904123b.json)
 
 [Extended Data](ext_articles/d904123b.ext.json)
-
----
-
-### Army authorities arrested with 4 Gajamuthu to sell for 2 million
-
-*2024-04-01 17:37:34* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-2-කට-විකුණන්න-සුදානම්වු-ගජමුතු-4-සමග-යුද-හමුදා-හිටපු-බලලත්-නිලධාරීයෙකු-අත්අඩංගුවට/11-408886) · `si`
-
-Retired Army troops arrested four Gajamuthu for selling them for 2 million rupees in Thagasgoda. The suspect was arrested in Maradana by Sub Inspector Kasun Pathiranna and his team. Further investigations are being conducted by OIC Chief Inspector Kasuna Pathirana, Chief Inspector Karindara, SSP Kavinda Piyasara, and Assistant Superintendent of Police Duminda Rajapaksa.
-
-🟩
-
-A retired Army troops arrested four Gests to sell to two million rupees yesterday (01).
-
-The suspect was a resident of the Meegama area in Thagasgoda, Thagasgoda.
-
-Sub Inspector Kasun Pathiranna and police team have arrested the suspect in the Maradana area in the Maradana area in the Maradana area in Beruwapitiya.
-
-The OIC Chief Inspector Kasuna Pathirana is conducting further investigations to guide the OIC Chief Inspector Karindara, SSP Kavinda Piyasara, Assistant Superintendent of Police Duminda Rajapaksa.
-
-◼️
-
-[Data](articles/118bf3bc.json)
-
-[Extended Data](ext_articles/118bf3bc.ext.json)
-
----
-
-### Sri Lanka producers meeting demand, egg at Rs35 for new year: Minister
-
-*2024-04-01 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-producers-meeting-demand-egg-at-rs35-for-new-year-minister-156836/) · `en`
-
-ECONOMYNEXT – Local egg production has exceeded the total daily requirement, Minister of Agriculture and Plantation Industries Mahinda Amaraweera has said.
-
-“Therefore, the price of a local egg is likely to come down to 35 rupees in the coming period,” Amaraweera was quoted in a statement by the Government Information Department.
-
-On average, the daily requirement of eggs in this country is 6.5 million eggs. According to the Egg Producers Association, the production of eggs in local poultry farms has already exceeded 7.5 million, Amaraweera said.
-
-Although the number of mother animals needed annually in this country is 85,000, the number of mother animals in all poultry farms has exceeded 135,000. All poultry farms have completed 100 percent chick capacity, according to the statement.
-
-At present, the price of an egg in the local market varies between 42-48 rupees.
-
-...
-
-[Data](articles/a4e2dcad.json)
-
-[Extended Data](ext_articles/a4e2dcad.ext.json)
-
----
-
-### Dilan's suspicion survives overseas
-
-*2024-04-01 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195181) · `si`
-
-A Sri Lankan bank officer in Melbourne helped a woman send money to a boyfriend in Turkey, claiming it was for medical treatment. Dilan Pathirana, investigating the case, found the boyfriend was suspended on social media, and the woman had never met him. The case highlights the craftiness of financial frauds and the rise in scams involving romance and friendship, costing Australians $33 million last year.
-
-🟩
-
-According to Australian bank official, a Sri Lankan banking officer has been able to save a person who has been living in Melbourne who was found in the social media.
-
-The woman had gone to a Melbourne branch (Nab) to send money to a foreigner who was saying to be their boyfriend.
-
-However, Sri Lanka, a Sri Lankan consumer consultative officer, had been investigated by Dilan Pathirana.
-
-She said that the age of 60 years of age to go to the bank and send money to the bank, she said he was unknown to the resident of the recipient.
-
-The woman has shown the SMS Dilan received to find her boyfriend's name, where this could be a fraud.
-
-However, the woman had strictly declared that his boyfriend in Turkey should send $ 2000 to go to the UK for medical treatment.
-
-But Dilan Pathirana had said that the woman's boyfriend had been suspended in the social media.
-
-It was noteworthy that the money was given to whom she was given to whom she was never met.
-
-...
-
-[Data](articles/54eff96e.json)
-
-[Extended Data](ext_articles/54eff96e.ext.json)
-
----
-
-### Appointment for Teacher Vacancies after April Vacation - Susil
-
-*2024-04-01 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180170) · `ta`
-
-Education Minister Susil Premajayantha announced that teacher vacancies in the Western Province will be filled after the April holiday, with 2,300 eligible candidates already selected. There are 2,700 more vacancies to be filled, totaling 5,453. The government plans to quickly recruit the remaining 40,000 unemployed graduates.
-
-🟩
-
-Education Minister Susil Premajayantha said that all those who have passed the examination to fill the teacher vacancies in the Western Province will be appointed after the April holiday.
-
-In response to a question raised by Opposition Leader Sajith Premadasa on Monday (1) in Parliament.
-
-With more than 5,000 teacher vacancies in the Western Province, 2,300 eligible candidates have been incorporated.
-
-There are more 2700 vacancies. With a total of 5453 vacancies, the rest of the recruitment must be carried out quickly.
-
-There are 40 thousand unemployed graduates in the country.He said they should take immediate action in connection with them.
-
-2400 teachers were first selected on the basis of the results of the exam and the teacher type to fill the vacancies in the Western Province.
-
-We are taking action these days on other people who have passed the examination. I hope they can be appointed after April vacation.
-
-...
-
-[Data](articles/5e0b01a2.json)
-
-[Extended Data](ext_articles/5e0b01a2.ext.json)
 
 ---

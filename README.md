@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 04:03:20**
+As of **2024-04-04 04:18:26**
 
 ## Newspaper Stats
 
-*Scraped **16,989** Articles*
+*Scraped **16,990** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 177
 dbsjeyarajcom | 207
 newsfirstlk | 363
 dailyftlk | 924
-islandlk | 931
+islandlk | 932
 economynextcom | 942
 adalk | 1,430
 tamilmirrorlk | 2,018
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,981 (100.0%) of 16,989 articles have been extended.
+16,989 (100.0%) of 16,990 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Malaysian High Commissioner in Sri Lanka Badli Hisham Adam was the Chief Guest a
 
 [Data](articles/fd951854.json)
 
+[Extended Data](ext_articles/fd951854.ext.json)
+
 ---
 
 ### Premium International announces successful completion and handing over of German – Sri Lanka Friendship Hospital for Women in Galle
@@ -59,6 +61,8 @@ The latter stages of this long-delayed project was undertaken and completed by P
 ...
 
 [Data](articles/99dac576.json)
+
+[Extended Data](ext_articles/99dac576.ext.json)
 
 ---
 
@@ -76,6 +80,8 @@ Visa, the global leader in digital payments, this week announced that Visa debit
 
 [Data](articles/98818159.json)
 
+[Extended Data](ext_articles/98818159.ext.json)
+
 ---
 
 ### CoPF leads overhaul of Microfinance Bill
@@ -92,6 +98,8 @@ Initially introduced by the Finance Ministry, the Bill faced scrutiny during CoP
 
 [Data](articles/0b0eb073.json)
 
+[Extended Data](ext_articles/0b0eb073.ext.json)
+
 ---
 
 ### US Ambassador commends Sri Lanka’s progress on IMF program
@@ -107,6 +115,8 @@ She added that the IMF Spring Meeting is an opportunity for policymakers, econom
 ◼️
 
 [Data](articles/6bb61876.json)
+
+[Extended Data](ext_articles/6bb61876.ext.json)
 
 ---
 
@@ -128,6 +138,8 @@ The State Minister also said the Ambassador commended the Government’s dedicat
 
 [Data](articles/b31afca7.json)
 
+[Extended Data](ext_articles/b31afca7.ext.json)
+
 ---
 
 ### Supermarkets to offer Rs. 5 discount for reusable bags in environmental initiative
@@ -148,6 +160,8 @@ During the meeting, the Committee Chair highlighted the detrimental effects of e
 
 [Data](articles/3e4d3f4b.json)
 
+[Extended Data](ext_articles/3e4d3f4b.ext.json)
+
 ---
 
 ### Hayleys Fentons wins Merit Award at Best Management Practices Company Awards 2024
@@ -165,6 +179,8 @@ The Best Management Practices Company Awards are organised by the esteemed Insti
 ...
 
 [Data](articles/0ddc663e.json)
+
+[Extended Data](ext_articles/0ddc663e.ext.json)
 
 ---
 

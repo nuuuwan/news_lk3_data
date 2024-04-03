@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 15:03:33**
+As of **2024-04-03 15:18:01**
 
 ## Newspaper Stats
 
-*Scraped **16,853** Articles*
+*Scraped **16,861** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,82 @@ newsfirstlk | 363
 dailyftlk | 910
 economynextcom | 927
 islandlk | 931
-adalk | 1,414
+adalk | 1,416
 tamilmirrorlk | 2,009
 adaderanalk | 2,020
-virakesarilk | 2,427
+virakesarilk | 2,431
 dailymirrorlk | 2,596
-adaderanasinhalalk | 2,725
+adaderanasinhalalk | 2,727
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,848 (100.0%) of 16,853 articles have been extended.
+16,853 (100.0%) of 16,861 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### முருகன் , பயஸ், ஜெயக்குமார்  மூவரிடமும் கடும் விசாரணை
+### අලුත් අවුරුදු සමයේ විශේෂ දුම්රිය කිහිපයක්
+
+*2024-04-03 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195253) · `si`
+
+එළඹෙන අලුත් අවුරුදු සමයේ ගම්බිම් බලා යන සහ එන මගීන් වෙනුවෙන් විශේෂ දුම්රිය කිහිපයක් එක් කර තිබේ.
+
+අප්‍රේල් මස 10 වනදා සිට 15 වනදා දක්වා කොළඹ සිට පිට පළාත් බලා යන මගීන් සඳහා දුම්රිය ධාවනය කෙරෙන බව දුම්රිය දෙපාර්තමේන්තුව දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/0426cc54.json)
+
+---
+
+### සජිත්-අනුර විවාදයකට දෙරණ වාද පිටිය සූදානම්
+
+*2024-04-03 14:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195252) · `si`
+
+ආර්ථික ප්‍රතිපත්ති පිළිබඳව විවාදයකට පැමිණෙන ලෙස සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී නලින් බණ්ඩාර මහතා පසුගියදා ජාතික ජන බලවේගයට අභියෝගයක් සිදුකළේය.
+
+ඊට ප්‍රතිචාර දක්වමින් ජාතික ජනබලවේගයේ ජාතික විධායක සභික සුනිල් හඳුන්නෙත්ති මහතා ඊයේ කියා සිටියේ ඉදිරියේදී පැමිණෙන්නේ ජනාධිපතිවරණයක් බැවින් එම විවාදය සමගි ජන බලවේගයෙන් නායක සජිත් ප්‍රේමදාස මහතා සහ ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා  අතර පැවැත්විය යුතු බවය.
+
+කෙසේ වෙතත් එය එම පක්ෂයෙන් ලිඛිතව තමන් වෙත ලැබිය යුතු බව හඳුන්නෙත්ති මහතා ප්‍රකාශ කළේය.
+
+නමුත් සජිත් ප්‍රේමදාස මහතා ඊට සහභාගී නොවන්නේ නම් එම පක්ෂයේ ආර්ථික කමිටුවේ සාමාජිකයින් සහ ජාතික ජන බලවේගයේ ආර්ථික කමිටු සාමාජිකයින් අතර විවාදය පැවැත්වීම පිළිබඳ කරුණු සලකා බැලිය හැකි බව ඔහු සඳහන් කළේය.
+
+පක්ෂ දෙකේ නායකයින් අතර හෝ ආර්ථික කමිටු සාමාජිකයින් අතර පැවැත්වෙන මෙම විවාදය සඳහා අවස්ථාව සලසාදීමට දෙරණ වාද පිටිය සූදානම්.
+
+◼️
+
+[Data](articles/c7ccfee8.json)
+
+---
+
+### Murugan, Bias and Jayakumar
 
 *2024-04-03 14:32:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முருகன்-பயஸ்-ஜெயக்குமார்-மூவரிடமும்-கடும்-விசாரணை/175-335567) · `ta`
 
-இந்தியாவின் முன்னாள் பிரதமர் ராஜீவ் காந்தி கொலை வழக்கில் கைது செய்யப்பட்டு, 33 வருடங்களின் பின்னர் விடுவிக்கப்பட்ட முருகன் றொபேர்ட் பயஸ் மற்றும் ஜெயக்குமார் ஆகிய மூவரும்   புதன்கிழமை (03) முற்பகல் 11.30 மணியளவில்  இலங்கையை வந்தடைந்துள்ளனர்.
+Murugan Robert Paes and Jayakumar, arrested in Rajiv Gandhi's murder, arrived in Sri Lanka. Seven were released after 33 years, with three from India and four from Sri Lanka. The Indian govt pressured Sri Lanka to send the remaining three to Sri Lanka. They were investigated by Sri Lanka's Criminal Investigation Division.
 
-கொலை வழக்கில் கைது செய்யப்பட்டவர்களில் 07 பேர் 33 வருடங்களின் பின்னர் கடந்த 2022ஆம் ஆண்டு நவம்பர் மாதம் விடுதலை செய்யப்பட்டனர்.
+🟩
 
-அவர்களில் மூவர் இந்தியாவை சேர்ந்தவர்கள் என்பதால் , அவர்கள் அவர்களின் உறவினர்களுடன் இணைக்கப்பட்டனர். ஏனைய நால்வர்கள் இலங்கையை சேர்ந்தவர்கள். அவர்கள் இலங்கை செல்வதற்கு ஆவணங்கள் இல்லை எனும் காரணத்தால்  திருச்சி சிறப்பு முகாமில் தடுத்து வைக்கப்பட்டிருந்தனர்.
+Murugan Robert Paes and Jayakumar, who were arrested in the murder of former Prime Minister Rajiv Gandhi, arrived in Sri Lanka at 11.30 am on Wednesday (03).
 
-சுமார் ஒன்றை வருட காலமாக சிறப்பு முகாமில் தடுத்து வைக்கப்பட்டு இருந்த நால்வரில் சாந்தன் கடந்த சில வாரங்களுக்கு முன்னர் நோய்வாய்ப்பட்டு உயிரிழந்து இருந்தார்.
+Seven of those arrested in the murder case were released in November 2022 after 33 years.
 
-எஞ்சிய மூவரையும் உயிருடன், உறவினர்களிடம் கையளிக்க வேண்டும் என இந்திய அரசுக்கு அழுத்தங்கள் ஏற்பட்டமையால்,   மூவரையும் இலங்கைக்கு அனுப்ப ஏற்பாடுகள் செய்யப்பட்ட நிலையில்  இன்றைய தினம் இலங்கையை வந்தடைந்துள்ளனர்.
+Since three of them belong to India, they were attached to their relatives. The other four are from Sri Lanka. They were detained at the Trichy special camp because they had no documents to go to Sri Lanka.
+
+Shantan had died a few weeks ago in four of the four who had been detained at a special camp for about one year.
+
+The Government of India has arrived in Sri Lanka today as arrangements have been made to send the remaining three to Sri Lanka due to pressure from the Indian government to hand over the rest of the three.
+
+Although the trio have requested to issue a passport to all countries to go to their relatives abroad, they have been granted permission to go to Sri Lanka and have been sent back to Sri Lanka.
 
 ...
 
 [Data](articles/4aa3073a.json)
+
+[Extended Data](ext_articles/4aa3073a.ext.json)
 
 ---
 
@@ -68,6 +110,44 @@ Speaking to Daily Mirror, Director General of Health Services Dr Asela Gunawarde
 
 [Data](articles/2810f20b.json)
 
+[Extended Data](ext_articles/2810f20b.ext.json)
+
+---
+
+### நுவரெலியா வலப்பனையில் வீடுடைத்து நகை, பணம் திருட்டு
+
+*2024-04-03 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180333) · `ta`
+
+நுவரெலியா வலப்பனை மா ஊவாவில் உள்ள வீடொன்றில் கடந்த ஞாயிற்றுக்கிழமை (31) இரவு குடியிருப்பாளர்கள் வெளியில் சென்றிருந்தவேளை ஒன்றரை பவுன் நகைகளும் 80 ஆயிரம் ரூபாய் பணமும் திருடப்பட்டுள்ளதாக வலப்பனை பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+
+வீட்டில் உள்ளவர்கள் வெளியில் சென்றுவிட்டு திங்கட்கிழமை (01) காலை வந்த போது  வீட்டின் ஜன்னல் உடைக்கப்பட்டிருந்ததை அவதானித்துள்ளார்.
+
+பின்னர் வீட்டில் உள்ளே சென்று பார்த்தபோது 80 ஆயிரம் ரூபா பணமும், ஒன்றரைப் பவுண் நகையும் திருடப்பட்டமை தெரியவந்துள்ளது.
+
+குறித்த வீட்டில் உள்ளவர்கள் தையல் தொழிலில் ஈடுபடுபவர்கள் எனவும் இதன் மூலம் சேர்த்து வைத்த பணமே திருடப்பட்டுள்ளது எனவும் வீட்டின் உரிமையாளர்கள் தெரிவித்தனர்.
+
+குறித்த திருட்டு சம்பவம் தொடர்பில் நுவரெலியா சொக்கோ (SOCO) பிரிவு பொலிஸாரோடு வலப்பனை பொலிஸாரும் இணைந்து மேலதிக விசாரணைகளில் ஈடுபட்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/0857bd87.json)
+
+---
+
+### ශ්‍රි ලංකාවේ සියයට 25ක් තවමත් දුප්පත්
+
+*2024-04-03 14:29:32* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රි-ලංකාවේ-සියයට-25ක්-තවමත්-දුප්පත්/11-408920) · `si`
+
+ශ්‍රී ලංකාවේ ආර්ථිකය 2024 දී 2.2% ක මධ්‍යස්ථ වර්ධනයක් ලබා ගනු ඇති බවත් 2022 වසරේදී මුහුණ දුන් දැඩි ආර්ථික පසුබෑමෙන් පසු රට ස්ථාවර වීමේ ලකුණු පෙන්නුම් කරමින් පවතින බවත් ලෝක බැංකුව පවසයි. කෙසේ වෙතත් ශ්‍රී ලංකාවේ තවමත් පවතින ඉහළ දරිද්‍රතා මට්ටම්, ආදායම් අසමානතාවය සහ ශ්‍රම වෙළඳපොළ උච්ඡාවචනයන්ට මුහුණ දෙන බව ලෝක බැංකුව පවසයි.
+
+ශ්‍රී ලංකාව උද්ධමනය පහත වැටීම, නව රාජ්‍ය මූල්‍ය ප්‍රතිපත්ති ක්‍රියාවට නැංවීමේ පසුබිම මත ඉහළ ආදායමක් සහ දශක පහකට ආසන්න කාලයක් තුළ ප්‍රථම වරට ජංගම ගිණුමේ අතිරික්තයක් වාර්තා වූ බවද ලොක බැංකුව පෙන්වා දෙයි.
+
+කෙසේ වෙතත්, 2023 වසරේ ශ්‍රී ලාංකිකයන්ගෙන් 25.9%ක් දරිද්‍රතා රේඛාවට පහළින් ජීවත් වන බවට ඇස්තමේන්තු කර ඇති පරිදි දරිද්‍රතා අනුපාතිකය අඛණ්ඩව සිව්වන වසරටත් අඛණ්ඩව ඉහළ ගිය බවද එම වාර්තාවේ දැක්වෙයි.
+
+...
+
+[Data](articles/21091c26.json)
+
 ---
 
 ### High Court refuses bail to Keheliya
@@ -79,6 +159,76 @@ The bail application filed on behalf of former Health Minister Keheliya Rambukwe
 ◼️
 
 [Data](articles/80ffc19a.json)
+
+[Extended Data](ext_articles/80ffc19a.ext.json)
+
+---
+
+### கெஹலியவின்  பிணை மனு கோரிக்கையை நிராகரித்த கொழும்பு மேல் நீதிமன்றம்!
+
+*2024-04-03 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180336) · `ta`
+
+விளக்கமறியலில் வைக்கப்பட்டுள்ள தனக்கு பிணை வழங்குமாறு முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல விடுத்த  கோரிக்கையை கொழும்பு மேல் நீதிமன்றம் இன்று புதன்கிழமை (03) நிராகரித்துள்ளது.
+
+இந்தக் கோரிக்கையை நிராகரித்த கொழும்பு மேல் நீதிமன்ற நீதிபதி தமித் தொட்டவத்த, கெஹலிய ரம்புக்வெல்ல தனக்கு பிணை வழங்குவதற்கு விசேட காரணங்கள்  எதனையும் முன்வைக்கவில்லை என தெரிவித்தார்.
+
+◼️
+
+[Data](articles/ff729d16.json)
+
+---
+
+### பெண்கள் தனியாக சுற்றுலா செல்வதற்கான சிறந்த இடங்களில் இலங்கை முதலிடம்
+
+*2024-04-03 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180324) · `ta`
+
+2024 ஆம் ஆண்டில் பெண்கள் தனியாக சுற்றுலா செல்வதற்கான சிறந்த இடங்களின் பட்டியலில் இலங்கை முதலிடம் பிடித்துள்ளதாக டைம் அவுட் என்ற சுற்றுலா வழிகாட்டி இணையத்தளம் தெரிவித்துள்ளது.
+
+தற்போது பெண்கள் தனியான செல்வது அதிகரித்து வருகிறது. குறிப்பாக  1997க்குப் பிறகு பிறந்த பெண்களில் அரைவாசிக்கு மேற்பட்டவர்கள் தனியாக வெளிநாட்டிற்கு சுற்றுலா செல்வதில் ஆர்வம் காட்டுகின்றனர்.
+
+சாகசம் , கலாச்சாரத்தை அனுபவித்தல் மற்றும் மறக்கமுடியாத அனுபவங்களைத் தேடும் அதிகமான பெண்களுக்கு  எங்கு செல்ல வேண்டும்,  எதைப் பற்றி தெரிந்து கொள்ள வேண்டும்? என்பது கேள்விகளாக உள்ளது.
+
+பல நாடுகள் பாதுகாப்பாகவும் தனியாகவும் பெண்கள் பயணிக்க  இடமளிக்கின்றன. அதாவது,  நன்கு நிறுவப்பட்ட  பேக் பேக்கர் வழிகள், நட்புடைய உள்ளூர்வாசிகள், சமூக தொடர்பு மற்றும் அமைதியான தனிமை ஆகிய  இரண்டிற்குமான வாய்ப்புகள் ஆகியவற்றை வழங்குகின்றன. இந்த இலக்குகளை அடைவதற்கு பெண்கள் தனியாக சுற்றுலா செய்வதற்கு  சிறந்த இடமாக இலங்கை திகழ்கிறது.
+
+...
+
+[Data](articles/fe632b2d.json)
+
+---
+
+### காஸாவில் மனிதாபிமானப் பணியாளர்கள் கொலை: இஸ்ரேலிய ஜனாதிபதி மன்னிப்பு கோருகிறார்
+
+*2024-04-03 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180334) · `ta`
+
+காஸாவில் தொண்டு நிறுவன ஊழியர்கள் 7 பேர் கொல்லப்பட்ட சம்பவத்துக்கு இஸ்ரேலிய ஜனாதிபதி மன்னிப்பு கோரியுள்ளார். அதேவேளை, இத்தாக்குதல்  ஒரு கடுமையான தவறு என இஸ்ரேலிய பாதுகாப்புப் படை தெரிவித்துள்ளது.
+
+காஸாவில் இஸ்ரேல் திங்கட்கிழமை (01) நடத்திய தாக்குதலால் தனது  ஊழியர்கள் 7 பேர் கொல்லப்பட்டனர் என அமெரிக்காவை தளமாகக் கொண்ட வேர்ல்ட் சென்ட்ரல் கிச்சன் எனும் தொண்டு நிறுவனம் நேற்று தெரிவித்தது.
+
+அவுஸ்திரேலியா, போலந்து, பிரிட்டன் நாடுகளைச் சேர்ந்தவர்களுடன்; அமெரிக்க கனேடிய இரட்டைப் பிரஜாவுரிமையைக் கொண்ட ஒருவர் மற்றும் பலஸ்தீனியர் ஒருவர் இச்சம்பவத்தில் உயிரிழந்தனர் என அந்நிறுவனம் தெரிவித்துள்ளது.
+
+இந்நிலையில், காஸாவில் தொண்டு நிறுவன ஊழியர்கள் 7 பேர் கொல்லப்பட்ட தாக்குதல் ஒரு கடுமையான தவறு என இஸ்ரேலிய பாதுகாப்புப் படைகளின் தலைவர் ஹேர்ஸி ஹலேவி தெரிவித்துள்ளார்.
+
+'இச்சம்பவம் ஒரு கடுமையான தவறு. அது நடந்திருக்கக் கூடாது' என அவர் கூறியுள்ளார்.
+
+...
+
+[Data](articles/e81c14a6.json)
+
+---
+
+### කෙහෙළියගේ ඇප ඉල්ලීම ඉවතට
+
+*2024-04-03 14:14:00* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-ඇප-ඉල්ලීම-ඉවතට/11-408919) · `si`
+
+රිමාන්ඩ් භාරයට පත්කර සිටින තමන්ට ඇප ලබා දෙන ඉල්ලමින් හිටපු සෞඛය අමත්‍ය කෙහෙලිය රඹුක්වැල්ල මහතා ඉදිරිපත් කළ ඇප ඉල්ලීම කොළඹ මහාධිකරණය විසින් ප්‍රතික්ෂේප කරන ලදි.
+
+කොළඹ මහාධිකරණ විනිසුරු දමිත් තොටවත්ත මහතා එම ඉල්ලීම ප්‍රතික්ෂේප කරමින් සඳහන් කළේ කෙහෙළිය රඹුක්වැල්ල මහතාට ඇප දීමට තරම් සුවිශේෂි කරණු ඉදිරිපත් කර නොමැති බවයි.
+
+බාල බෙහෙත් හරහා රජයට කෝටි ගණනක පාඩුවක් හා රෝගී ජිවිත අනතුරේ දැමීමට අදාළව කෙහෙළිය රඹුක්වැල්ල මහතා මෙසේ රිමාන්ඩ් භාරයට පත්කර තිබේ.
+
+◼️
+
+[Data](articles/3a8d25ce.json)
 
 ---
 
@@ -641,6 +791,8 @@ Church Spokesman Fr. Cyril Gamini Fernando, responding to a question raised by j
 ◼️
 
 [Data](articles/6c2303fe.json)
+
+[Extended Data](ext_articles/6c2303fe.ext.json)
 
 ---
 
@@ -1940,6 +2092,8 @@ These rogue officers are accused of aiding criminal activity and taking undue ad
 
 [Data](articles/8cfc6566.json)
 
+[Extended Data](ext_articles/8cfc6566.ext.json)
+
 ---
 
 ### Corruption taints operations on drugs, underworld criminals
@@ -2115,155 +2269,5 @@ Samagi Jana Balawegaya (SJB) MP Kabir Hashim yesterday called on the Government 
 [Data](articles/a041806f.json)
 
 [Extended Data](ext_articles/a041806f.ext.json)
-
----
-
-### NPP calls for AKD vs. Sajith public face-off
-
-*2024-04-03 05:43:36* · [`dailyftlk`](https://www.ft.lk/news/NPP-calls-for-AKD-vs-Sajith-public-face-off/56-760241) · `en`
-
-NPP member Sunil Handunnetti accepts SJB invite to a public debate on behalf of his party
-
-Says NPP leader Anura Dissanayake is keen to engage in a debate with SJB leader Sajith Premadasa
-
-Highlights futility of engaging in debates with SJB members due to their involvement as policymakers under previous UNP Govt.
-
-Stresses it is more crucial for party leaders to participate in debates and discussions due to upcoming Presidential poll
-
-National People’s Party (NPP) Executive Council member Sunil Handunnetti on behalf of the political party yesterday accepted the challenge put forward by the Samagi Jana Balawegaya (SJB) to a debate on the economy.
-
-Over the weekend, the SJB issued a call for a debate between the Economic Councils of both parties. While acknowledging the challenge issued by SJB MPs Nalin Bandara and Harsha de Silva, Handunnetti emphasised that it is more crucial for party leaders to participate in debates and discussions in preparation for the upcoming Presidential election.
-
-...
-
-[Data](articles/12524c99.json)
-
-[Extended Data](ext_articles/12524c99.ext.json)
-
----
-
-### Gnanasara Thera’s bail application denied
-
-*2024-04-03 05:43:00* · [`dailyftlk`](https://www.ft.lk/news/Gnanasara-Thera-s-bail-application-denied/56-760240) · `en`
-
-The Colombo High Court rejected the bail application filed by the counsels representing the recently imprisoned Bodu Bala Sena (BBS) General Secretary Galagoda Aththe Gnanasara Thera yesterday.
-
-Colombo High Court Judge Aditya Patabendige rejected the bail application, stating that the counsels had failed to present any special circumstances before the Court that would warrant the release of Gnanasara Thera on bail.
-
-The defence counsels urged the court to grant bail to Gnanasara Thera pending appeal, considering the extended delays in concluding appeal hearings at the Court of Appeal and his health condition as grounds for release.
-
-On 28 March, the Colombo High Court sentenced Gnanasara Thera to four years of rigorous imprisonment and a fine of Rs. 100 000 over a contentious statement made by him about Islam and Muslims in 2016.
-
-...
-
-[Data](articles/e683b047.json)
-
-[Extended Data](ext_articles/e683b047.ext.json)
-
----
-
-### New Director General for Bribery Commission
-
-*2024-04-03 05:42:46* · [`dailyftlk`](https://www.ft.lk/news/New-Director-General-for-Bribery-Commission/56-760239) · `en`
-
-President Ranil Wickremesinghe has appointed W. K. D. Wijerathne as the Director General of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), the President’s Media Division (PMD) said.
-
-The appointment was made in accordance with the provisions of the new Anti-Corruption Act.
-
-Wijerathne has held the same position before, but this new appointment is under the new Anti Corruption Act, which was passed in the Parliament in September last year with wide powers.
-
-The new Act gives CIABOC broader ability to investigate and prosecute incidents of bribery and corruption. The commission has previously examined claims of bribery and corruption but has failed to meet expectations because most complaints have not resulted in prosecution.
-
-◼️
-
-[Data](articles/e66be7e5.json)
-
-[Extended Data](ext_articles/e66be7e5.ext.json)
-
----
-
-### Govt. to provide free sanitary pads to 800,000 female students annually
-
-*2024-04-03 05:42:25* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-provide-free-sanitary-pads-to-800-000-female-students-annually/56-760238) · `en`
-
-In a move aimed at addressing menstrual hygiene challenges and promoting educational equity, the Cabinet of Ministers approved an initiative to distribute free sanitary pads annually to 800,000 female students countrywide.
-
-The initiative, set to commence this month will benefit students in the most remote, isolated and underserved schools, including estate schools and urban areas with significant populations of economically disadvantaged female students.
-
-With a total student population of 4 million in Sri Lanka, around 1.2 million are female students who have attained puberty.
-
-“Recognising the importance of menstrual hygiene management in ensuring uninterrupted access to education, particularly for young women, the Government has prioritised the initiative to support female students in need,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing yesterday.
-
-...
-
-[Data](articles/472103df.json)
-
-[Extended Data](ext_articles/472103df.ext.json)
-
----
-
-### The creations of Mary Shelley and that of Lord Balfour – are there lessons to be learnt?
-
-*2024-04-03 05:31:52* · [`dailyftlk`](https://www.ft.lk/columns/The-creations-of-Mary-Shelley-and-that-of-Lord-Balfour-are-there-lessons-to-be-learnt/4-760231) · `en`
-
-The creations of Mary Shelley and Lord Balfour; the former being fiction and the latter being played out in 4K ultra-HD resolution today, are separated by time and space, but offer lessons for the enquiring mind.
-
-The vote taken on 29th November 1947 to create the state of Israel, was rejected by all Arab States. On 30th November, the very next day, the first phase of the Arab-Israeli war began and ended with thousands dead and the forcible expulsion of more than 700,000 Palestinians from their homeland.
-
-World leaders refused to accept the ominous beginning as a harbinger of darker, more dangerous times ahead.
-
-...
-
-[Data](articles/01608e58.json)
-
-[Extended Data](ext_articles/01608e58.ext.json)
-
----
-
-### When “Aiyo” Sirisena accused India’s RAW of plotting to assassinate him
-
-*2024-04-03 05:27:27* · [`dailyftlk`](https://www.ft.lk/columns/When-Aiyo-Sirisena-accused-India-s-RAW-of-plotting-to-assassinate-him/4-760230) · `en`
-
-There is a salient point that needs to be emphasised. If the media reports about Sirisena’s accusations against India are correct, then I must assert strongly that I do not believe ex-president Sirisena at all. I am no fan of the RAW or any other intelligence agency but linking the RAW to the Easter bombings is highly improbable and totally absurd
-
-“Putting your foot in your mouth” is a figurative expression about a person saying or doing something that should not be done or not have been said, especially if it embarrasses the person concerned or someone else. Among those who frequently put their feet into their mouths are politicians of all kinds and hues and from all parts of the world.
-
-...
-
-[Data](articles/7ab2e4a6.json)
-
-[Extended Data](ext_articles/7ab2e4a6.ext.json)
-
----
-
-### Countering NPP’s rise: Emerging political alliances and election strategies
-
-*2024-04-03 05:22:09* · [`dailyftlk`](https://www.ft.lk/columns/Countering-NPP-s-rise-Emerging-political-alliances-and-election-strategies/4-760229) · `en`
-
-The National People’s Power’s (NPP) current election campaign aiming for the presidential election has a strong momentum. The confident body language of its leadership is one indicator of this. Their rallies are well-attended and there appears to be a strong bottom-up support. The NPP’s seemingly growing electoral prospects have propelled it to being in the centre of political discourse, and this has led other political parties/factions to be on the defensive.
-
-The Janatha Vimukthi Peramuna (JVP, the main party within the NPP) is known for launching its election campaigns prematurely. This is why, despite their rallies being well-attended and their anti-establishment discourse being attractive to people in general, their popularity has not translated to votes, never having gone more than 5% at a general election so far. However, this trope may not hold as firmly this time.
-
-...
-
-[Data](articles/d41c1096.json)
-
-[Extended Data](ext_articles/d41c1096.ext.json)
-
----
-
-### Election on shifting sands
-
-*2024-04-03 05:14:01* · [`dailyftlk`](https://www.ft.lk/columns/Election-on-shifting-sands/4-760228) · `en`
-
-The meeting was Basil Rajapaksa’s way of telling President Wickremesinghe and his lotus-bud backers that the SLPP will not be Comet Ranil’s tail. Basil Rajapaksa wants a parliamentary election first. The only way to mitigate the SLPP’s impending defeat is gaining a handful of parliamentary seats, therewith some bargaining power. Having the presidential election first would not work as well for the SLPP. Even in the extremely unlikely event of Ranil Wickremesinghe winning, that victory will lift not the SLPP boat; only the UNP boat. Even in his current SLPP-dependent state, Ranil Wickremesinghe is no puppet of the Rajapaksas. A President Wickremesinghe with a popular mandate would be totally beyond not just Rajapaksa control but also Rajapaksa influence
-
-“We too live in a time when political structures we inhabit are fluid and perhaps on the cusp of great and potentially dangerous changes.” – Richard Whatmore (The end of enlightenment)
-
-...
-
-[Data](articles/35e21c28.json)
-
-[Extended Data](ext_articles/35e21c28.ext.json)
 
 ---

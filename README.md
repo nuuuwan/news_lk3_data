@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 00:18:10**
+As of **2024-04-04 00:33:24**
 
 ## Newspaper Stats
 
-*Scraped **16,966** Articles*
+*Scraped **16,971** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 150
 bbccomsinhala | 177
 dbsjeyarajcom | 207
 newsfirstlk | 363
-dailyftlk | 910
+dailyftlk | 914
 islandlk | 931
 economynextcom | 942
 adalk | 1,430
 tamilmirrorlk | 2,017
 adaderanalk | 2,035
-virakesarilk | 2,449
+virakesarilk | 2,450
 dailymirrorlk | 2,613
 adaderanasinhalalk | 2,742
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,962 (100.0%) of 16,966 articles have been extended.
+16,966 (100.0%) of 16,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### ஓட்டங்களை சரமாரியாக குவித்து டெல்ஹியை துவம்சம் செய்தது கொல்கத்தா
+
+*2024-04-04 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180369) · `ta`
+
+விசாகப்பட்டினம் மாவட்ட கிரிக்கட் சங்க விளையாட்டரங்கில் புதன்கிழமை (03) இரவு நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 16ஆவது போட்டியில் சரமாரியாக ஓட்டங்களைக் குவித்த கொல்கத்தா நைட் ரைடர்ஸ் 106 ஓட்டங்களால் டெல்ஹி கெப்பிட்டல்ஸை வெற்றிகொண்டது.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த கொல்கத்தா நைட் ரைடர்ஸ் 20 ஓவர்களில் 7 விக்கெட்களை இழந்து 272 ஓட்டங்களைக் குவித்தது.
+
+இண்டியன் பிறீமியர் லீக் கிரிக்கெட் வரலாற்றில் இந்த வருடம் மும்பை இண்டியன்ஸுக்கு எதிரான போட்டியில் சன்ரைசர்ஸ் ஹைதராபாத்தினால் குவிக்கப்பட்ட அதிகூடிய மொத்த எண்ணிக்கையான 277 ஓட்டங்களைவிட 5 ஓட்டங்கள் குறைவாக கொல்கத்தா நைட் ரைடர்ஸ் எடுத்தது.
+
+சுனில் நரேன், இம்ப்பெக்ட் வீரர் ஆங்க்ரிஷ் ரகுவான்ஷி, அண்ட்றே ரசல், ரின்கு சிங் ஆகியோரின் அதிரடி துடுப்பாட்டங்களின் உதவியுடன் கொல்கத்தா நைட் ரைடர்ஸ் சரிமாரியாக ஓட்டங்களைக் குவித்தது.
+
+பில் சோல்ட், சுனில் நரேன் ஆகிய இருவரும் 27 பந்துகளில் 60 ஓட்டங்களைப் பகிர்ந்து பலமான ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+
+...
+
+[Data](articles/59a25cdb.json)
+
+---
 
 ### Hopes of peace dashed as confused US faces dogged Netanyahu
 
@@ -48,6 +68,8 @@ The net result of all this is that the prospects of peace in Gaza have receded f
 
 [Data](articles/1936c731.json)
 
+[Extended Data](ext_articles/1936c731.ext.json)
+
 ---
 
 ### World Health Day: ‘My Health, My Right’
@@ -61,6 +83,8 @@ With public health trade unions staging regular strikes during the past two year
 ...
 
 [Data](articles/202a9b0c.json)
+
+[Extended Data](ext_articles/202a9b0c.ext.json)
 
 ---
 
@@ -82,6 +106,8 @@ This time around, ahead of Lok Sabha elections, it has been raised; and the deba
 
 [Data](articles/48b0b51a.json)
 
+[Extended Data](ext_articles/48b0b51a.ext.json)
+
 ---
 
 ### The intelligent public might not be interested in Kachchativu
@@ -100,9 +126,29 @@ It’s also interesting to see whether the Kachchativu issue, which is hot news 
 
 [Data](articles/d98cd41e.json)
 
+[Extended Data](ext_articles/d98cd41e.ext.json)
+
 ---
 
 ### 2024-04-03 (Wednesday)
+
+### Zakath and tax: A comparative view
+
+*2024-04-03 23:58:13* · [`dailyftlk`](https://www.ft.lk/opinion/Zakath-and-tax-A-comparative-view/14-760266) · `en`
+
+It is really amazing to note that the zakath system, which came into effect 14 centuries ago, is still compatible with the modern tax system
+
+Zakath is the direct tax that Islam has imposed upon every Muslim who has annual net wealth exceeding a threshold. Income tax is also a direct tax that the Government imposes on every person who has an annual net income exceeding a threshold.
+
+It is clearly evident from the definition that both zakath and tax have similarities as well as differences. The purpose of this study is to give the readers a comparative understanding of zakath and the tax system as the Muslims traditionally pay their zakath during this month of Ramazan, which is the ninth month of the Muslim (lunar/Hijri) calendar, which is 354 days while the Gregorian calendar is 365 days.
+
+It is underlined here that the laws and practices were taken from the Sri Lankan context in authoring this article.
+
+...
+
+[Data](articles/0caa8866.json)
+
+---
 
 ### Council to be formed to boost efficiency in agricultural modernization
 
@@ -126,6 +172,42 @@ At the meeting, Senior Prof. Gamini Senanayake, Chairman of the expert committee
 
 ---
 
+### Education Ministry urged to probe alleged financial malpractices at The Royal College Primary
+
+*2024-04-03 23:54:37* · [`dailyftlk`](https://www.ft.lk/opinion/Education-Ministry-urged-to-probe-alleged-financial-malpractices-at-The-Royal-College-Primary/14-760265) · `en`
+
+The dire need to conduct a proper investigation by the Education Ministry on alleged financial malpractices at The Royal College Primary has been raised by vocal and activist old boy Padmasena Dissanayake.
+
+Dissanayake in his submissions to Education Ministry Secretary Wasantha Perera, has alleged violation of the Ministry’s circular on collection of funds from parents using selected parent groups.
+
+“The Royal College Primary, Nation’s premier Primary School, is flouting the Ministry’s clear instructions on refraining collecting funds from parents. It circumvents it by using Parent-Proxies and has been collecting massive amounts, suspected to be over a hundred millions of rupees each year,” Dissanayake has alleged.
+
+...
+
+[Data](articles/86aeaec5.json)
+
+---
+
+### The Royal College that nurtured me
+
+*2024-04-03 23:49:23* · [`dailyftlk`](https://www.ft.lk/opinion/The-Royal-College-that-nurtured-me/14-760264) · `en`
+
+The author of this letter Lorenz Pereira with Ranil Wickremesinghe during Royal College’s 125th anniversary
+
+I applaud the ex-Principal of Royal College R.M.M. Rathnayake for his subject article (https://island.lk/a-former-royal-college-principal-defends-maintenance-of-secular-values-in-the-school/) that partly contributes to us old Royalists becoming aware of current “happenings” at Royal. I believe that I can confidently assume that Rathnayake is a devout and respected Buddhist and an educationist and Principal par excellence.
+
+As such he has the credentials to be seriously considered. On the other hand, I being so remote from the scene am really not in a position to be ultra-judgemental.
+
+I strongly believe that these issues of concern must be brought to the notice of old Royalists. It is then up to each one of us to make our own judgements and respond accordingly, if need be.
+
+For the continued betterment of Royal, they can no longer be swept under the carpet.
+
+...
+
+[Data](articles/ba6c9330.json)
+
+---
+
 ### 19 Indian fishermen detained by SL Navy return home amid row over Katchatheevu Island
 
 *2024-04-03 23:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98407/19-indian-fishermen-detained-by-sl-navy-return-home-amid-row-over-katchatheevu-island) · `en`
@@ -143,6 +225,20 @@ The fishermen issue is a contentious one in the ties between India and Sri Lanka
 [Data](articles/a38d0d64.json)
 
 [Extended Data](ext_articles/a38d0d64.ext.json)
+
+---
+
+### School of our fathers
+
+*2024-04-03 23:44:59* · [`dailyftlk`](https://www.ft.lk/opinion/School-of-our-fathers/14-760263) · `en`
+
+Let me commit the Kalama Sutta of the Venerable Buddha to be considered when such controversies arise.
+
+The spirit of the Sutta signifies a teaching that is exempt from fanaticism, bigotry, dogmatism, and intolerance. Any attempt at deviating from the secularism that has been practiced for quite some time at our alma mater would only lead to the downfall of this hallowed institution. Royal is not Ananda nor Nalanda. It is not St. Thomas nor St. Joseph’s. It has always been secular but interested in learning all the religions of the world.
+
+...
+
+[Data](articles/2d4e7582.json)
 
 ---
 
@@ -2167,135 +2263,5 @@ The complaint was sent to the lawyer's request to report the judiciary to court 
 [Data](articles/b0b81b4f.json)
 
 [Extended Data](ext_articles/b0b81b4f.ext.json)
-
----
-
-### Prize for military members who have not reported to work without leave
-
-*2024-04-03 14:49:41* · [`adalk`](https://www.ada.lk/breaking_news/නිවාඩු-නොමැතිව-සේවයට-වාර්තා-කර-නොමැති-හමුදා-සාමාජිකයන්ට-පොදු-සමාවක්/11-408922) · `si`
-
-Military members not reporting to work without leave have been publicly named. A grace period from April 20th to May 20th applies, excluding those on holiday before April 2. Those unable to return have options to resign under certain conditions.
-
-🟩
-
-Military personnel who have not reported to work without leave without leave without leave without leave have been published in the ministry.
-
-Accordingly, this public period has been published from 20th to May 20th April.
-
-The school is only applicable to those who are not on the day without holidays before the date of April 2.
-
-In addition, the armed forces who have not been able to return to work without holidays have been given the opportunity to resign into several conditions under the period without reporting to their port.
-
-◼️
-
-[Data](articles/2297fd3b.json)
-
-[Extended Data](ext_articles/2297fd3b.ext.json)
-
----
-
-### Did the Fire set fire?Burned?
-
-*2024-04-03 14:43:31* · [`adalk`](https://www.ada.lk/breaking_news/ආලවන්තිට-ගිනි-තැබුවාද--ගිනි-ගත්තාද-/11-408921) · `si`
-
-A private bus in Kotahena was burned at Modara New Mawatha Bridge yesterday. The bus, owned by Alavi Golden Princez, was heading to Kandy for a pilgrimage. Firefighters and police officers extinguished the fire, but the cause remains unknown.
-
-🟩
-
-Kotahena Police say that a private bus has been burned at the Modara New Mawatha Bridge in Kotahena yesterday.
-
-The private bus belonging to a person named Alavi Golden Princez ", the private bus belonging to the Kelaniya and awaiting a pilgrimage to the Kandy tournament has come to the Modara area at around 5 am.
-
-The bus had been seen in Modara New Mawatha, the driver and the driver and the driver's assistant to a nearby restaurant.
-
-Two frightened drivers and two police officers attached to the Fire Couse and the Fire Police have been able to extinguish the fire, but it is not possible to do so.Police say.
-
-Two fire extinguishers and fire fires have come to the fire.
-
-Police said that the bus had been severely damaged when the fire was suppressed.
-
-The police said that the cause of the fire is yet to be ascertained, police said.
-
-Police said that Police Criminal Investigations Officers will be convened to investigate the incident.
-
-...
-
-[Data](articles/2648ca72.json)
-
-[Extended Data](ext_articles/2648ca72.ext.json)
-
----
-
-### Derana arguilt go on Sajith-Anuradess
-
-*2024-04-03 14:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195252) · `si`
-
-MP Nalin Bandara challenged the national propagation to debate economic policies, prompting Sunil Handunnetti to suggest a debate between Sajith Premadasa and Anura Kumara Dissanayake. Handunnetti also mentioned the possibility of including UNP's economic committee members if Premadasa doesn't participate.
-
-🟩
-
-MP Nalin Bandara recently challenged the national propagation to come to a debate on economic policies.
-
-Responding to this, the National Executive Member of the National Executive Committee of the National Executive Committee Sunil Handunnetti said yesterday that the debate should be held between Sajith Premadasa and leader of the National Power Anura Kumara Dissanayake.
-
-However, Mr. Handunnetti said that he deserves it in writing from the party.
-
-However, if Sajith Premadasa does not participate, he said that the membership of the UNP's economic committee and the economic committees of the national promit of the UNP could be considered.
-
-The Derana arguage is ready to give the debate between the leaders of the party leaders or the economic committee members.
-
-◼️
-
-[Data](articles/c7ccfee8.json)
-
-[Extended Data](ext_articles/c7ccfee8.ext.json)
-
----
-
-### Murugan, Bias and Jayakumar
-
-*2024-04-03 14:32:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முருகன்-பயஸ்-ஜெயக்குமார்-மூவரிடமும்-கடும்-விசாரணை/175-335567) · `ta`
-
-Murugan Robert Paes and Jayakumar, arrested in Rajiv Gandhi's murder, arrived in Sri Lanka. Seven were released after 33 years, with three from India and four from Sri Lanka. The Indian govt pressured Sri Lanka to send the remaining three to Sri Lanka. They were investigated by Sri Lanka's Criminal Investigation Division.
-
-🟩
-
-Murugan Robert Paes and Jayakumar, who were arrested in the murder of former Prime Minister Rajiv Gandhi, arrived in Sri Lanka at 11.30 am on Wednesday (03).
-
-Seven of those arrested in the murder case were released in November 2022 after 33 years.
-
-Since three of them belong to India, they were attached to their relatives. The other four are from Sri Lanka. They were detained at the Trichy special camp because they had no documents to go to Sri Lanka.
-
-Shantan had died a few weeks ago in four of the four who had been detained at a special camp for about one year.
-
-The Government of India has arrived in Sri Lanka today as arrangements have been made to send the remaining three to Sri Lanka due to pressure from the Indian government to hand over the rest of the three.
-
-Although the trio have requested to issue a passport to all countries to go to their relatives abroad, they have been granted permission to go to Sri Lanka and have been sent back to Sri Lanka.
-
-...
-
-[Data](articles/4aa3073a.json)
-
-[Extended Data](ext_articles/4aa3073a.ext.json)
-
----
-
-### Private medical practice under lens as complaints mount
-
-*2024-04-03 14:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Private-medical-practice-under-lens-as-complaints-mount/108-280114) · `en`
-
-Colombo, April 3 (Daily Mirror) - In light of a plethora of complaints over the proliferation of quacks and fake medical centres in Sri Lanka, the Health Ministry has decided to strictly securitize private medical practice.
-
-Speaking to Daily Mirror, Director General of Health Services Dr Asela Gunawardena said the decision to weed out the illegal practice of medicine was taken following a thorough study and a deluge of complaints pertaining to the private medical practice.
-
-“The matter was extensively discussed at the Private Health Regulatory Council where all the provincial directors were told to take the initiative by informing all the individuals engaged in private medical practice to get themselves registered,” he stated.
-
-“As such, it’s compulsory for all private medical practitioners and medical centres including laboratories to get themselves registered at the provincial level,” he pointed out.
-
-...
-
-[Data](articles/2810f20b.json)
-
-[Extended Data](ext_articles/2810f20b.ext.json)
 
 ---

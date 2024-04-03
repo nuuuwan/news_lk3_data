@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 19:18:15**
+As of **2024-04-03 19:33:43**
 
 ## Newspaper Stats
 
-*Scraped **16,922** Articles*
+*Scraped **16,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ dailyftlk | 910
 islandlk | 931
 economynextcom | 940
 adalk | 1,422
-tamilmirrorlk | 2,015
+tamilmirrorlk | 2,016
 adaderanalk | 2,029
-virakesarilk | 2,443
+virakesarilk | 2,444
 dailymirrorlk | 2,600
-adaderanasinhalalk | 2,736
+adaderanasinhalalk | 2,738
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,922 (100.0%) of 16,922 articles have been extended.
+16,922 (100.0%) of 16,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### மன்னார் சிறுமி துஸ்பிரயோகம் ;-  கைதி தப்பியோட்டம்
+
+*2024-04-03 19:18:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னார்-சிறுமி-துஸ்பிரயோகம்-கைதி-தப்பியோட்டம்/72-335575) · `ta`
+
+மன்னாரில் 9 வயதுச் சிறுமி துஸ்பிரயோகம் செய்யப்பட்டமை தொடர்பில் கைது செய்யப்பட்டிருந்த சந்தேகநபர், வவுனியா வைத்தியசாலையில் இருந்து தப்பி ஓடியுள்ளார்.
+
+மன்னார், தலைமன்னார் பகுதியில் அண்மையில் 09 வயது சிறுமி துஸ்பிரயோகம் செய்யப்பட்டமை தொடர்பில் 55 வயதுடைய ஒருவர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு நீதிமன்ற உத்தரவுக்கமைய வவுனியா சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்தார்.
+
+இந்நிலையில் உடல் நலப் பாதிப்பு காரணமாக வவுனியா வைத்தியசாலையில் கடந்த வியாழக்கிழமை அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த நிலையில், இன்று அதிகாலை (03) குறித்த சந்தேகநபர் வைத்தியசாலையில் இருந்து தப்பியோடியுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/779a48c9.json)
+
+---
+
+### ඉන්දියාව රත්කළ ශ්‍රී ලංකාවේ දූපත
+
+*2024-04-03 19:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195267) · `si`
+
+ශ්‍රී ලංකාවට කච්චතිව් දූපත පවරාදීම මේවනවිට ඉන්දීය දේශපාලන වේදිකාවේ උණුසුම් මාතෘකාවක් බවට පත්ව තිබේ.
+
+ඉන්දීය අගමැති නරේන්ද්‍ර මෝදි කච්චතිව් දූපත ශ්‍රී ලංකාවට පැවරීම සම්බන්ධයෙන් ඉන්දීය කොංග්‍රස් පක්ෂයට එල්ල කරන්නේ දැඩි චෝදනාවකි.
+
+ඒ ලබන 19 වැනිදා සිට තමිල්නාඩු ප්‍රාන්තයෙන් ඉන්දිය මහමැතිවරණය ආරම්භ වීමට නියමිත පසුබිමකය.
+
+ඉතිහාසයේ සිට අයිතිය සම්බන්ධයෙන් විවිධ මතවාද පැවැති කච්චතිව් දූපතේ අයිතිය ශ්‍රී ලංකාවට හිමිවන්නේ, 1974 වසරේදීය.
+
+ඒ එවක ඉන්දීය අගමැති ඉන්දිරා ගාන්ධි සහ ශ්‍රී ලංකා හිටපු අගමැති සිරිමාවෝ බණ්ඩාරණායක අතර අත්සන් තැබුණු ගිවිසුමක ප්‍රතිඵලයක් වශයෙනි.
+
+ශ්‍රී ලංකාවට අයත් දූපත් සමූහය අතරින් වඩාත්ම දුරින් පිහිටි මෙම දූපත, රාමේෂ්වරම් නගරයට වඩාත් ආසන්නව පිහිටා තිබේ.
+
+කච්චතිව් දූපතේ අයිතිය ගිවිසුමකින් ලංකාවට හිමිවුවත්, වසර ගණනාවක් පුරා ඉන්දීය දේශපාලන පක්ෂ මේ දූපත ගැන විවිධ ස්ථාවරවල පසුවෙයි.
+
+තමිල්නාඩුවෙන් ලබන 19 වැනිදා ආරම්භවන මහ මැතිවරණයත් සමග මෙම දූපත ඉන්දීය දේශපාලන වේදිකාවේ මාතෘකාව බවට පත්ව අවසන්.
+
+...
+
+[Data](articles/e524b039.json)
+
+---
+
+### ප්‍රධාන මාර්ගයේ දුම්රිය ධාවනයට බාධා
+
+*2024-04-03 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195266) · `si`
+
+මරදාන සහ දෙමටගොඩ දුම්රිය ස්ථාන අතර දුම්රියක් පීලිපැනීම හේතුවෙන් ප්‍රධාන මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ලවී තිබේ.
+
+දුම්රිය දෙපාර්තමේන්තුව පවසන්නේ මහෝ බලා ධාවනය වෙමින් තිබූ දුම්රියක් මෙලෙස පීලිපැනීමකට ලක්ව ඇති බවය.
+
+◼️
+
+[Data](articles/49f62bb1.json)
+
+---
 
 ### An horrific bus accident in Ratnapura
 
@@ -663,6 +719,24 @@ However, the petition accuses the activities of the village, including the activ
 [Data](articles/ed78a3ad.json)
 
 [Extended Data](ext_articles/ed78a3ad.ext.json)
+
+---
+
+### சர்வதேச நாணய நிதியத்தின் விருப்பத்துக்கமைய நாட்டின் அரசியலமைப்பு இயற்றப்படவில்லை - சரித ஹேரத்
+
+*2024-04-03 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180339) · `ta`
+
+சர்வதேச நாணய நிதியத்தின் விருப்பத்துக்கு அமைய  நாட்டின் அரசியலமைப்பு இயற்றப்படவில்லை.ஆகவே அரசியலமைப்பின் பிரகாரம் எதிர்வரும் செப்டெம்பர் அல்லது ஒக்டோபர் மாதமளவில் ஜனாதிபதி தேர்தல் நடத்தப்பட வேண்டும் என பாராளுமன்ற உறுப்பினர் பேராசிரியர் சரித ஹேரத் தெரிவித்தார்.
+
+சர்வதேச நாணய நிதியத்துடனான செயற்திட்ட நடவடிக்கைகள் நிறைவுப் பெறும் வரை எந்த தேர்தலையும் நடத்த போவதில்லை என்று ஜனாதிபதி குறிப்பிட்டுள்ளதாக செய்திகள் வெளியாகியுள்ளன. ஜனாதிபதி தேர்தல் தொடர்பில் தீர்மானம் எடுக்கும் அதிகாரம் ஜனாதிபதிக்கு கிடையாது.
+
+சர்வதேச நாணய நிதியத்துடனான இலங்கையின் செயற்பாடுகள் எதிர்வரும் ஜூலை மாதம் நிறைவடைவதாக குறிப்பிடப்படுகிறது.பொதுத்தேர்தல் தொடர்பில் தீர்மானம் எடுக்கும் அதிகாரம் ஜனாதிபதிக்கு உண்டு.
+
+எதிர்வரும் செப்டெம்பர் அல்லது ஒக்டோபர் மாதம் ஜனாதிபதி தேர்தல் நடத்தப்பட வேண்டும்.அதற்கு முன்னர் எந்த தேர்தலும் நடத்தப்படாது என்ற நிலைப்பாட்டில் இருந்துக் கொண்டு தான் ஜனாதிபதி அவ்வாறு குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/6b801cb1.json)
 
 ---
 
@@ -2231,103 +2305,5 @@ Tamil Nadu Tamils - Nalini and Ravichandran, who were sentenced to life imprison
 [Data](articles/a324c07d.json)
 
 [Extended Data](ext_articles/a324c07d.ext.json)
-
----
-
-### Three arrested activists including Lahiru, Duminda granted bail
-
-*2024-04-03 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98392/three-arrested-activists-including-lahiru-duminda-granted-bail) · `en`
-
-Three activists, who had been arrested during a recent protest march organized by the ‘Jana Aragala Vyaparaya’ (People’s Struggle Movement) were granted bail on the orders of Colombo Fort Magistrate’s Court on Wednesday (03).
-
-Accordingly, Frontline Socialist Party (FSP) activist Duminda Nagamuwa, youth activist Lahiru Weerasekara, and Ven. Rathkarawwe Jinarathana Thero have been released on bail conditions.
-
-The trio was taken into custody during a demonstration held on 20 March during which at least 05 police officers were injured during the clashes with protesters. It had been organized by the People’s Struggle Movement based on several issues including the soaring cost of living and certain foreign agreements the government intends to sign.
-
-Police had resorted to using tear gas and water cannons to disperse the protesters in Pettah, Colombo.
-
-◼️
-
-[Data](articles/1ecd8aa4.json)
-
-[Extended Data](ext_articles/1ecd8aa4.ext.json)
-
----
-
-### Armma's story with 5 children with 5 children in the burning of cancer
-
-*2024-04-03 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195243) · `si`
-
-Armma, a 36-year-old mother of 5 in Galnewa Jana Philanthhana, Anuradhapura, battles cancer. Her children, including those with Thalassemia, face financial hardships. Despite her husband's efforts, they struggle to afford medical treatment and education.
-
-🟩
-
-The Galnewa Jana Philanthhana village in Anuradhapura District was reported to have suffered due to severe cancer.
-
-It was identified as a cancerous condition when testing a sore throat infection for many years.
-
-From that time on, she told us that she would fight for life and life and death.
-
-WM residing in the June of January. Dinesha Kumari is a 36 year old.
-
-Her husband HM. Ajith Kumara finds the need for hire and rent.
-
-She also said her little children as Thalassemia as carriers.
-
-The mother's eldest son, the eldest son and the second daughter who is preparing for the GCE Advanced Level Examination this year's GCE Advanced Level Examination is the second daughter who is preparing for this year's eldest son.
-
-She also says that the two children are working on the other three children.
-
-She also told us that the son's education cannot bear the education activities.
-
-...
-
-[Data](articles/4df5d23d.json)
-
-[Extended Data](ext_articles/4df5d23d.ext.json)
-
----
-
-### "You can appear for the Examination without the writing exam"
-
-*2024-04-03 11:40:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எழுத்துப்-பரீட்சையின்றி-செயன்முறைப்-பரீட்சைக்குத்-தோற்றலாம்/175-335559) · `ta`
-
-"GCE Advanced Level students with the Driver's Skills Medal can take the Department of Motor Transport's test without the writing exam. Medals will be awarded today, with additional points for Presidential Medal Group students. Supervised by school and regional officers."
-
-🟩
-
-Minister of Transport Lasantha Alagavanna said that every GCE Advanced Level students who receive the Driver's Skills Medal awarded by the School Road Safety Association are eligible for the test examination conducted by the Department of Motor Transport.
-
-Medals will be implemented today.
-
-These forums will also set up a set of more points to students working in the Presidential Medal Group than other students selected for universities.
-
-The Minister further stated that the medals will be implemented under the supervision of school and regional level officers.
-
-◼️
-
-[Data](articles/23f5b353.json)
-
-[Extended Data](ext_articles/23f5b353.ext.json)
-
----
-
-### Muslim leaders are sad to encourage president's Palestinian Children's Fund - Treasurer of the United Peace Federation
-
-*2024-04-03 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/180314) · `ta`
-
-Muslim leaders in Sri Lanka express regret for not promoting President Ranil Wickremesinghe's Palestinian Children's Fund, despite the fund's official release to Palestinians. The fund was raised in response to accusations against Palestinians, but some religious, political, and civil organizations have remained silent, showing hypocrisy. The community must collect more funds for the President's initiative, highlighting the need for fair policies in a developing country like Sri Lanka.
-
-🟩
-
-Sadly regrets Muslim community leaders to promote president's Palestinian Children's Fund. Former Member of the Presidential Commission and Treasurer of the United Peace Alliance (IA) that the mercy of the Palestinian children has been revealed by them.. Khalilur Rahman said.
-
-The money collected by President Ranil Wickremesinghe "for the President's Palestinian Children's Fund" recently was officially issued to the Palestinian people. As Sri Lankan Muslims, we express our sincere gratitude to the President and the humanitarians who have provided the funds for this fund.
-
-...
-
-[Data](articles/3fdf0932.json)
-
-[Extended Data](ext_articles/3fdf0932.ext.json)
 
 ---

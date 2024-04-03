@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 10:33:56**
+As of **2024-04-03 10:51:23**
 
 ## Newspaper Stats
 
-*Scraped **16,789** Articles*
+*Scraped **16,796** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,44 +15,140 @@ newsfirstlk | 363
 dailyftlk | 910
 economynextcom | 922
 islandlk | 931
-adalk | 1,409
-tamilmirrorlk | 1,998
-adaderanalk | 2,014
-virakesarilk | 2,415
-dailymirrorlk | 2,587
-adaderanasinhalalk | 2,712
+adalk | 1,410
+tamilmirrorlk | 1,999
+adaderanalk | 2,015
+virakesarilk | 2,417
+dailymirrorlk | 2,588
+adaderanasinhalalk | 2,713
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,788 (100.0%) of 16,789 articles have been extended.
+16,789 (100.0%) of 16,796 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් පිරිසක් අත්අඩංගුවට
+### தெற்காசியப் பிராந்தியத்தில் விசேட பொருளாதார வலயங்களை நிறுவுவதில் இலங்கை முன்னோடி - ஜனாதிபதி
+
+*2024-04-03 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180304) · `ta`
+
+இலங்கையின் பொருளாதாரத்தை மேம்படுத்த முதலீட்டுச் சபையின் கீழ் உள்ள நிறுவனங்கள் ஆற்றிய சிறப்பான வகிபாகத்திற்கு நன்றியைத் தெரிவித்துக் கொள்வதாக முதலீட்டுச் சபையின் விருது வழங்கும் நிகழ்வில் உரையாற்றிய ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+தெற்காசியப் பிராந்தியத்தில் விசேட பொருளாதார வலயங்களை (SEZs) நிறுவுவதில் இலங்கை முன்னோடியாக இருந்ததை நினைவுகூர்ந்த ஜனாதிபதி,  கட்டுநாயக்க மற்றும் பியகம போன்ற முதலீட்டு வலயங்களுக்கு பிரதான முதலீட்டாளர்களை ஈர்ப்பதிலும், தொழில்துறை வளர்ச்சியை ஊக்குவித்தல் மற்றும்  தொழில் வாய்ப்புகளை உருவாக்குவதிலும் வெற்றியடைந்துள்ளதாகவும் வலியுறுத்தினார்.
+
+◼️
+
+[Data](articles/812236a3.json)
+
+---
+
+### உண்மை, நல்லிணக்க ஆணைக்குழுவை ஸ்தாபிப்பதற்கு அவசரம் காண்பிக்கவேண்டாம் - பாதிக்கப்பட்ட தரப்பினருடன் பரந்துபட்ட கலந்துரையாடல்களை முன்னெடுக்குமாறு அரசாங்கத்தை வலியுறுத்தவுள்ள சர்வதேச மனித உரிமைகள் சட்ட வல்லுனர்கள்
+
+*2024-04-03 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180296) · `ta`
+
+உத்தேச உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலத்தை நிறைவேற்றுவதற்கு அவசரம் காண்பிக்கவேண்டாம் எனவும், அதற்கு முன்னதாக பாதிக்கப்பட்ட தரப்பினருடன் பரந்துபட்ட கலந்துரையாடல்களை முன்னெடுக்குமாறும் உண்மை ஆணைக்குழு மற்றும் மனித உரிமைகள் சட்டம் தொடர்பில் நிபுணத்துவம் வாய்ந்த சர்வதேச வல்லுனர்கள் அரசாங்கத்திடம் கூட்டாக வலியுறுத்தவுள்ளனர்.
+
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையில் இலங்கை தொடர்பில் கடந்த 2022 ஆம் ஆண்டு நிறைவேற்றப்பட்ட 'இலங்கையில் நல்லிணக்கம், பொறுப்புக்கூறல் மற்றும் மனித உரிமைகளை மேம்படுத்தல்' எனும் தலைப்பிலான 51/1 தீர்மானம் தொடர்பான ஆணை எதிர்வரும் செப்டெம்பர் மாதத்துடன் முடிவுக்குவரும் நிலையில், உள்நாட்டில் உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழுவை ஸ்தாபிக்கும் பணிகள் அரசாங்கத்தினால் தீவிரமாக முன்னெடுக்கப்பட்டு வருகின்றன.
+
+...
+
+[Data](articles/b92d8a98.json)
+
+---
+
+### සඳමාලිගේ දේහය දිවයිනට රැගෙන එයි
+
+*2024-04-03 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195238) · `si`
+
+එක්සත් අරාබි එමීර් රාජ්‍යයට පසුගිය දා ඇද හැලුණු ධාරානිපාත වර්ෂාව නිසා ඇති වූ ගංවතුර තත්ත්වය හේතුවෙන්, සාජා නුවර භූගතව ඇද තිබූ විදුලි රැහැන් පද්ධතියක් තුළින් විදුලිය කාන්දු වී, විදුලි සැර වැදී මිය ගිය ශ්‍රී ලාංකික සේවිකාවක වන ජයමිණි සඳමාලි විජේසිංහගේ සිරුර අද (03) අලුයම කටුනායක ගුවන් තොටුපොළ වෙත එවා තිබුණි.
+
+මතුගම සී. ඩබ්ලිව්. ඩබ්ලිව්. කන්නන්ගර මධ්‍ය මහා විද්‍යාලයේ ගණිත අංශයෙන් උසස් පෙළ හදාරා සිටි සඳමාලි 26 හැවිරිදි අවිවාහක තරුණියකි.
+
+ඇය සිය සහෝදරයෙකුගේ මාර්ගයෙන් සාජා හි සන්නිවේදන ආයතනයක පිළිගැනීමේ නිලධාරිනියක ලෙස මාස 11ක කාලයක් සේවය කරමින් සිටියාය.
+
+ඉකුත් මාර්තු මස 09 දින රාත්‍රී 09.30ට පමණ ඇය නැවතී සිටි නේවාසිකාගාරයේ සිට එහි ඉදිරිපිට පිහිටි වෙළෙඳ සැළ වෙත යමින් සිටිය දී ඇය මෙලෙස විදුලි සැර වැදීමකට ලක්ව තිබුණි.
+
+එම අවස්ථාවේ දී ඊජිප්තු ජාතිකයින් දෙදෙනෙකුට, බංග්ලාදේශ ජාතිකයෙකුට සහ පිලිපීන ජාතිකයෙකුට විදුලි සැර වැදී තිබුණි.
+
+පසුව වහා ක්‍රියාත්මක වී ඇති එරට ආරක්ෂක අංශ එම ස්ථානයට ගොස් අදාළ ප්‍රදශෙයේ ගමනාගමන කටයුතු අත්හිටුවා ආරක්ෂිත පියවර ගෙන ඇත.
+
+...
+
+[Data](articles/23f113d1.json)
+
+---
+
+### Students to get driving license without written tests
+
+*2024-04-03 10:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Students-to-get-driving-license-without-written-tests/108-280097) · `en`
+
+Colombo, April 3 (Daily Mirror) - Every GCE Advanced Level student who receives the driving skill medal given by the School Road Safety Association is eligible to take the practical test without sitting for the written examination conducted by the Department of Motor Traffic, Transport State Minister Lasantha Alagiyawanna said.
+
+The programme of setting up school road safety forums and awarding medals is scheduled to be implemented today and students from the primary to the advanced level will have the opportunity to participate.
+
+These forums will also set up a system to offer more points to the students who work up to the President's Medal when qualifying for the universities than other students who are selected for the universities.
+
+The Minister further said that the method of awarding these medals is to be implemented under the supervision of the school as well as divisional level officials.
+
+He also said a circular related to this will be issued by the Education Minister.
+
+◼️
+
+[Data](articles/2effe22c.json)
+
+---
+
+### Sri Lankan-born professor appointed to U.S. National Security Education Board
+
+*2024-04-03 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98390/sri-lankan-born-professor-appointed-to-us-national-security-education-board) · `en`
+
+Dr. Patrick Mendis, a former U.S. diplomat of Sri Lankan origin, has been appointed as an advisor to the U.S. National Security Education Board by President Joe Biden.
+
+According to a statement published by the White House, Dr. Mendis was also a military professor in the North Atlantic Treaty Organization (NATO) and Indo-Pacific Commands during the Clinton, Bush, and Obama administrations.
+
+He has held many senior government positions in the U.S. Departments of Agriculture, Defense, Energy, and State.
+
+Dr. Mendis is currently located in Washington DC, while serving as a distinguished visiting professor of transatlantic relations at the University of Warsaw in Poland as well as a distinguished visiting professor of global affairs at the National Chengchi University in Taiwan.
+
+...
+
+[Data](articles/311f60ff.json)
+
+---
+
+### A group of organized crime gangs arrested
 
 *2024-04-03 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195237) · `si`
 
-විශේෂ පොලිස් කණ්ඩායම් 20ක් යොදවා සිදුකරනු ලබන මෙහෙයුම්වලදී තවත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් 07දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+Special teams arrested 20 organized crime gangs, including a 54-year-old from the North, a 34-year-old from Gampaha, and a 37-year-old in Wellampitiya. Seven individuals were detained for various crimes.
 
-ඔවුන් සමග විවිධ සම්බන්ධතා පවත්වමින් අපරාධවලට සහාය වූ බවට සැක කෙරෙන පුද්ගලයන් 07 දෙනෙකු ද පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-බස්නාහිරි පළාත් උතුර කොට්ඨාසයේ නිලධාරීන් විසින් ගනේමුල්ල් ප්‍රදේශයේ දී සිදුකළ වැටලීමක දී 54 හැවිරිදි සංවිධානාත්මක අපරාධ කල්ලි කණ්ඩායමකට සම්බන්ධ පුද්ගලයෙකු අත්අඩංගුවට ගෙන ඇත.
+Seven other organized crime gangs were arrested in the operations carried out by 20 special teams.
 
-මේ අතර රත්දොළුගම පොලිස් වසමේදී වැටලීමක් සිදුකර ගම්පහ පදිංචි 34 හැවිරිදි සංවිධානාත්මක අපරාධ කල්ලි කණ්ඩායම් සාමාජිකයෙකු අත්අඩංගුවට ගෙන ඇත.
+Seven persons have been taken into police custody as various crimes.
 
-මේ අතර වැල්ලම්පිටිය පොලිස් වසමේදී සිදුකළ වැටලීමකදී 37 හැවිරිදි සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකාවක් අත්අඩංගුවට ගෙන තිබේ.
+A 54-year-old organized criminal gangs have been arrested by the officers of the Northern Province of the North Division of Western Province.
 
-මේ අතර මීගමුව, බෝලවලාන ප්‍රදේශයේදී වැටලීමක් සිදුකර 27 හැවිරිදි හොරම්පෑල්ල ප්‍රදේශයේ පදිංචි සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙක් අත්අඩංගුට ගෙන ඇත.
+Meanwhile, a group of 34-year-old teammates of Gampaha has been arrested in the Rathdolugama police division.
 
-මේ අතර ගම්පහ, කිරිඳිවිට ප්‍රදේශයේදී සිදුකළ වැටලීමකින් 48 හැවිරිදි ගනේමුල්ලේ පදිංචි සංවිධානාත්මක අපරාධ කල්ලි අත්අඩංගුවට ගෙන තිබිණි.
+Meanwhile, a 37-year-old crime gang has been arrested in a raid conducted in the Wellampitiya Police Division.
+
+Meanwhile, an organized criminal group of the 27-year-old Horampalla area has been taken into custody in the Bolawalana area in Negombo.
+
+Meanwhile, an organized crime gang resident of Ganemulla was arrested by 48-year-old raid in Kanelai Gampaha.
+
+Also, the officials of the Kalutara Crimes Division of the Kalutara Crimes Division have arrested 45 year old organized crime criminal crime criminal crime.
 
 ...
 
 [Data](articles/01f9ba14.json)
+
+[Extended Data](ext_articles/01f9ba14.ext.json)
 
 ---
 
@@ -194,6 +290,22 @@ In this event, the total weight of 247 kilograms was 247 kilograms.
 
 ---
 
+### මොනරාගල ආයුර්වේද ඔසුසැලේ රු. ලක්ෂ 13ක් සාක්කුවට දමාගෙන
+
+*2024-04-03 09:05:37* · [`adalk`](https://www.ada.lk/breaking_news/මොනරාගල-ආයුර්වේද-ඔසුසැලේ-රු--ලක්ෂ-13ක්-සාක්කුවට-දමාගෙන/11-408913) · `si`
+
+ආයුර්වේද ඖෂධ සංස්ථාවට අයත් මොනරාගල ආයුර්වේද ඔසුසැලේ රුපියල් දහතුන්ලක්ෂ පනස්දෙදහස් හයසියහතළිස් නවයයි සත හැත්තෑපහක මුදල් වංචාවක් සිදුවී ඇති බවට මොනරාගල කොට්ඨාශ විශේෂ අපරාධ විමර්ශන අංශයට ඉකුත් (01) වෙනිදා පැමිණිල්ලක් ලැබී ඇත.
+
+ආයුර්වේද දෙපාර්තුමේන්තුවේ සහකාර කොමසාරිස්වරයෙකු ඒ පිළිබඳව පැමිණිල්ලක් කරමින් ආයුර්වේද ඔසුසැලේ මොනරාගල ස්ථාන භාර නිලධාරීවරයා විසින් ඖෂධ අලෙවිකොට ලබාගන්නා මුදල් කාලයක සිට නියමිත පරිදි රාජ්‍ය ආයුර්වේද ඖෂධ සංස්ථාවට නොගෙවා අදාල මුදල වංචා සහගත ලෙස ලබාගෙන ඇති බව පැමිණිල්ලේ සඳහන්කර තිබේ.
+
+මොනරාගල කොට්ඨාශ විශේෂ අපරාධ විමර්ශන අංශයේ ස්ථානාධිපති විල්ෆ්‍රඩ් සිල්වා මහතා පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/ab8622d4.json)
+
+---
+
 ### WB cautions possible slowdown in reform efforts due to elections
 
 *2024-04-03 09:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/WB-cautions-possible-slowdown-in-reform-efforts-due-to-elections/108-280082) · `en`
@@ -321,6 +433,24 @@ Meanwhile, the Japanese Meteorological Department has revised the earthquake in 
 [Data](articles/04850e35.json)
 
 [Extended Data](ext_articles/04850e35.ext.json)
+
+---
+
+### அதி சக்திவாய்ந்த நிலநடுக்கம்; சுனாமி எச்சரிக்கை விடுப்பு (காணொளி)
+
+*2024-04-03 08:46:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதி-சக்திவாய்ந்த-நிலநடுக்கம்-சுனாமி-எச்சரிக்கை-விடுப்பு-காணொளி/175-335546) · `ta`
+
+தாய்வான் நாட்டில் இன்று அதிகாலை 7.5 ரிக்டர் அளவிலான சக்திவாய்ந்த நிலநடுக்கம் ஏற்பட்டதுடன், தெற்கு ஜப்பானுக்கு சுனாமி எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+நிலநடுக்கத்தால் தாய்வானின் கிழக்குக் கடற்கரையில் உள்ள ஹுவாலியன் நகரில் கட்டிடங்கள் இடிந்து விழுவதுள்ள நிலையில் மக்கள் உள்ளே சிக்கியிருப்பதாகத் தகவல்கள் தெரிவிக்கின்றன.
+
+தாய்வான் ஹுவாலியன் நகருக்கு தெற்கே 18 கிமீ (11 மைல்) தொலைவில் 34.8 கிமீ ஆழத்தில் இந்த நிலநடுக்கம் ரிக்டர் அளவில் 7.4 ஆக பதிவாகியுள்ளதாக அமெரிக்க புவியியல் ஆய்வு மையம் தெரிவித்துள்ளது.
+
+இதேவேளை, தாய்வானில் ஏற்பட்ட நிலநடுக்கத்தை ரிக்டர் அளவுகோலில் 7.7  ஆக ஜப்பான் வானிலை ஆய்வு மையம் திருத்தியுள்ளது. R
+
+◼️
+
+[Data](articles/31cd3801.json)
 
 ---
 
@@ -2073,161 +2203,5 @@ Istanbul Governor Dawood Gul said 10 people were killed and 13 others were injur
 [Data](articles/87d9f066.json)
 
 [Extended Data](ext_articles/87d9f066.ext.json)
-
----
-
-### May 22, 23 and 24 all liquor shoes
-
-*2024-04-02 18:19:56* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-මස--22--23-හා-24-සියලුම-සුරාසැල්-වසයි/11-408910) · `si`
-
-The Ministry of Buddha Sasana and Religious Affairs approved a proposal to close liquor stores, animal slaughterhouses, and meat markets during the National Vesak Festival from May 21 to 27.
-
-🟩
-
-The proposal made by the Ministry of Buddha Sasana and Religious Affairs has been approved by the Ministry of Buddha Sasana and Religious Affairs to cover up with the National Vesak Festival.
-
-In addition to the closure of exploits, animal slabs and meatism and fastest sites will be closed.
-
-The National Vesak week will be held from May 21 to 27 to 27th to 27th.
-
-◼️
-
-[Data](articles/f1902714.json)
-
-[Extended Data](ext_articles/f1902714.ext.json)
-
----
-
-### The decision of health workers is tonight
-
-*2024-04-02 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195221) · `si`
-
-Health workers' decision tonight. Health Trade Unions involved in action for doctors' offer. Discussion with authorities ended in policy agreement. Health unions to decide on final decision on the North.
-
-🟩
-
-Health Trade Unions were involved in trade union action asking for the doctors to give them an offer.
-
-Thereafter a discussion was held with the authorities, and it was reported that it ended with policy agreement.
-
-Accordingly, the health unions said that a final decision will be taken to take a final decision on the North.
-
-◼️
-
-[Data](articles/300505be.json)
-
-[Extended Data](ext_articles/300505be.ext.json)
-
----
-
-### Tourism in a big leap
-
-*2024-04-02 18:09:50* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරක-ව්‍යාපාරය-ලොකු-පිම්මක/11-408909) · `si`
-
-Sri Lanka's tourism surged, with 635,784 visitors in March, marking a significant leap in tourist arrivals.
-
-🟩
-
-The latest data of the Tourism Development Authority (SLTB) points out that Sri Lanka has passed over Rs.
-
-Tourist arrivals had arrived in Sri Lanka in March last March and was 635,784 tourists to Sri Lanka during the last three months.
-
-◼️
-
-[Data](articles/b693943e.json)
-
-[Extended Data](ext_articles/b693943e.ext.json)
-
----
-
-### Although the economy is firm, poverty in Sri Lanka is high - the World Bank
-
-*2024-04-02 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180270) · `ta`
-
-Despite Sri Lanka's economic recovery, high poverty and income inequality persist. The World Bank predicts 2.2% growth in 2024, but warns of challenges like high poverty levels and industrial market concerns. Poverty has risen for four years, with 25.9% of Sri Lankans living below the poverty line by 2023. The report highlights the need for state-owned financial stability and private sector investments to address future opportunities and the impact of the crisis.
-
-🟩
-
-The Director of the World Bank of Maldives, Nepal and Sri Lanka, Paris Hatta Resos, said that despite the travelers on the road to the economy of Sri Lanka, the impact of the impact of the impact of the poor and the affected people.
-
-At the same time, it has two types of subordinates and first maintains the restructuring that contributes to the economy's stability.. Second, he noted that acceleration of the reorganization of private investments and stimulating the internal influx, which is important for economic growth and reducing poverty.
-
-He said that inflation is declining in Sri Lanka, the new state policy policies are in the backdrop, and the first excess of practice has increased in the first five decades, and the money laundering has increased and the tourism industry has revived.
-
-...
-
-[Data](articles/da29fb03.json)
-
-[Extended Data](ext_articles/da29fb03.ext.json)
-
----
-
-### Sword cut in Jaffna;22 people at the hospital
-
-*2024-04-02 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180243) · `ta`
-
-22 injured in Jaffna clashes admitted to Bodhana Hospital, causing doctor crisis and conflict among patients.
-
-🟩
-
-22 people have been admitted to the Jaffna Bodhana Hospital after being injured in a clash between two violent gangs in the suburbs of Jaffna.
-
-It is reported that doctors faced crises as 22 people were suddenly admitted to the hospital within a few hours.
-
-At the same time, those who have been admitted for treatment, those who have been assisted with them, have seen a conflict in the hospital and tried to engage in a conflict.
-
-◼️
-
-[Data](articles/5decd69c.json)
-
-[Extended Data](ext_articles/5decd69c.ext.json)
-
----
-
-### 12-year-old shoots classmate dead, wounds two others in Finland
-
-*2024-04-02 18:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/12-year-old-shoots-classmate-dead-wounds-two-others-in-Finland/108-280048) · `en`
-
-HELSINKI, April 2 (Reuters) - One child was killed and two seriously wounded in a shooting at a school outside the Finnish capital on Tuesday, police said, with a 12-year-old fellow pupil suspected of the attack taken into custody.
-
-In the aftermath of the shooting, police cordoned off a building at the Viertola school in the Vantaa suburb of Helsinki.
-
-The arrest was made without further violence in the suburb of Siltamaki, away from the school. Both the suspect and the weapon were now in police custody, police said.
-
-There were no other suspects for now, police said. They provided no details of the identity of the suspect or victims, apart from saying they were all 12-year-old Finns and pupils at the school.
-
-Education Minister Anna-Maja Henriksson broke into tears while speaking at a press conference hours after the attack.
-
-"One 12-year-old child will never again return home from school," she said.
-
-...
-
-[Data](articles/65f6f31d.json)
-
-[Extended Data](ext_articles/65f6f31d.ext.json)
-
----
-
-### Wild Elephants Attakasam in DeraPeople demand to set up an elephant fence
-
-*2024-04-02 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180249) · `ta`
-
-Residents of Dera, Pudukkudiyiruppu, demand elephant fences to protect against increasing wild elephant damage to trees, crops, and livelihoods. Despite previous promises, no decisive action has been taken, leading to fear and loss.
-
-🟩
-
-People have expressed concern that wild elephants have increased in the village of Dera, which belongs to the Pudukkudiyiruppu Divisional Secretariat Division of the Mullaitivu District.
-
-In the evening, elephants enter the town till the early hours of the morning are causing various damage to the benefits of trees and plantation activities in the town and they are constantly suffering from this.
-
-In recent days, elephants have destroyed various trees, including their useful coconut trees, and have damaged various items, including fence pillars, and people have to live in fear of their livelihoods, causing their livelihood.
-
-Although it has been repeatedly said that the elephant fences are said to be set up, the people are demanding that the authorities take steps to protect themselves from the elephants and soon the elephants are being set up without any decisive decisions.
-
-...
-
-[Data](articles/813bfbef.json)
-
-[Extended Data](ext_articles/813bfbef.ext.json)
 
 ---

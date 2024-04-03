@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 05:37:56**
+As of **2024-04-03 05:56:24**
 
 ## Newspaper Stats
 
-*Scraped **16,733** Articles*
+*Scraped **16,744** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ colombotelegraphcom | 149
 bbccomsinhala | 176
 dbsjeyarajcom | 202
 newsfirstlk | 363
-dailyftlk | 896
+dailyftlk | 901
 economynextcom | 922
-islandlk | 925
+islandlk | 931
 adalk | 1,408
 tamilmirrorlk | 1,992
 adaderanalk | 2,009
@@ -26,11 +26,83 @@ adaderanasinhalalk | 2,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,733 (100.0%) of 16,733 articles have been extended.
+16,733 (99.9%) of 16,744 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### The creations of Mary Shelley and that of Lord Balfour – are there lessons to be learnt?
+
+*2024-04-03 05:31:52* · [`dailyftlk`](https://www.ft.lk/columns/The-creations-of-Mary-Shelley-and-that-of-Lord-Balfour-are-there-lessons-to-be-learnt/4-760231) · `en`
+
+The creations of Mary Shelley and Lord Balfour; the former being fiction and the latter being played out in 4K ultra-HD resolution today, are separated by time and space, but offer lessons for the enquiring mind.
+
+The vote taken on 29th November 1947 to create the state of Israel, was rejected by all Arab States. On 30th November, the very next day, the first phase of the Arab-Israeli war began and ended with thousands dead and the forcible expulsion of more than 700,000 Palestinians from their homeland.
+
+World leaders refused to accept the ominous beginning as a harbinger of darker, more dangerous times ahead.
+
+...
+
+[Data](articles/01608e58.json)
+
+---
+
+### When “Aiyo” Sirisena accused India’s RAW of plotting to assassinate him
+
+*2024-04-03 05:27:27* · [`dailyftlk`](https://www.ft.lk/columns/When-Aiyo-Sirisena-accused-India-s-RAW-of-plotting-to-assassinate-him/4-760230) · `en`
+
+“Putting your foot in your mouth” is a figurative expression about a person saying or doing something that should not be done or not have been said, especially if it embarrasses the person concerned or someone else. Among those who frequently put their feet into their mouths are politicians of all kinds and hues and from all parts of the world.
+
+Sri Lanka the miracle of Asia is second to none in this sphere. From “Apey George” George E de Silva of Kandy in the past to CV Wigneswaran of Jaffna in the present, there have been several politicians in this resplendent Island who are famous for this. However the greatest of all politicians in this respect arguably is Pallewatte Gamaralage Maithripala Yapa Sirisena who served as the sixth executive president of Sri Lanka from 2015 to 2019. Such is his reputation for doing or uttering inappropriate things that Sirisena has acquired the prefix “Aiyo”. Many refer to him as “Aiyo” Sirisena nowadays.
+
+...
+
+[Data](articles/7ab2e4a6.json)
+
+---
+
+### Countering NPP’s rise: Emerging political alliances and election strategies
+
+*2024-04-03 05:22:09* · [`dailyftlk`](https://www.ft.lk/columns/Countering-NPP-s-rise-Emerging-political-alliances-and-election-strategies/4-760229) · `en`
+
+The National People’s Power’s (NPP) current election campaign aiming for the presidential election has a strong momentum. The confident body language of its leadership is one indicator of this. Their rallies are well-attended and there appears to be a strong bottom-up support. The NPP’s seemingly growing electoral prospects have propelled it to being in the centre of political discourse, and this has led other political parties/factions to be on the defensive.
+
+The Janatha Vimukthi Peramuna (JVP, the main party within the NPP) is known for launching its election campaigns prematurely. This is why, despite their rallies being well-attended and their anti-establishment discourse being attractive to people in general, their popularity has not translated to votes, never having gone more than 5% at a general election so far. However, this trope may not hold as firmly this time.
+
+...
+
+[Data](articles/d41c1096.json)
+
+---
+
+### Election on shifting sands
+
+*2024-04-03 05:14:01* · [`dailyftlk`](https://www.ft.lk/columns/Election-on-shifting-sands/4-760228) · `en`
+
+“We too live in a time when political structures we inhabit are fluid and perhaps on the cusp of great and potentially dangerous changes.” – Richard Whatmore (The end of enlightenment)
+
+Namal Rajapaksa had his crowning as crown prince last week. The SLPP titled the Tangalle meeting, “Let’s begin the Battle from Hambantota”. Battle to return the Rajapaksas to power under a President Namal, if not in 2024, then in 2029; or someday. In the propaganda images, young Namal is foregrounded, kurahan shawl and all, against a backdrop of Mahinda and Basil Rajapaksa. The new trinity. The SLPP going through generational change. Torch of leadership passing from father and uncle to son/nephew. The SLPP is the only Lankan party founded to enthrone a family. It can renew itself only by staying the same.
+
+...
+
+[Data](articles/35e21c28.json)
+
+---
+
+### Technical overview on Online Safety Act of Sri Lanka
+
+*2024-04-03 05:06:11* · [`dailyftlk`](https://www.ft.lk/columns/Technical-overview-on-Online-Safety-Act-of-Sri-Lanka/4-760226) · `en`
+
+This Online Safety Act will have a huge impact on the freedom of expression of Sri Lankan citizens
+
+In 2018, “EUROPOL” headquartered in Hague, Netherlands, a key organisation established to prevent and combat serious internationally organised crimes, cybercrime and terrorism, had clearly defined the difference between cyber-dependent crimes and cyber-enabled crimes. As defined by them, any crime that can only be committed using computers, computer networks or other forms of information communication technology was named as cyber-dependent crimes and traditional crimes facilitated by the Internet and digital technology were categorised as cyber-enabled crimes. So, there are two categories of cybercrimes and these definitions are internally accepted.
+
+...
+
+[Data](articles/289ff033.json)
+
+---
 
 ### Permit to lease flights
 
@@ -355,6 +427,22 @@ Accordingly, he said that a allowance parallel parallel to the doctors 'ted' wil
 [Data](articles/39eeece9.json)
 
 [Extended Data](ext_articles/39eeece9.ext.json)
+
+---
+
+### Expectations over reaching debt restructuring requirements keep CSE in fine trim
+
+*2024-04-02 22:43:00* · [`islandlk`](http://island.lk/expectations-over-reaching-debt-restructuring-requirements-keep-cse-in-fine-trim/) · `en`
+
+Sri Lanka is engaging with bondholders and is optimistic about a positive outcome, while efforts were underway to finalize in-principle deals with official creditors, State Minister for Finance Shehan Semasinghe said.
+
+Sri Lanka is expected to meet IMF debt restructuring requirements in the second quarter for a review to be passed by the lender’s board, he said.
+
+Meanwhile, President Ranil Wickremesinghe said that he expected debt restructuring to be wrapped up by June–July before any elections are conducted, the State Minister told a meeting.
+
+...
+
+[Data](articles/26137064.json)
 
 ---
 
@@ -2175,139 +2263,5 @@ The Minister of Finance further stated that the results of the decisions taken f
 [Data](articles/678179e2.json)
 
 [Extended Data](ext_articles/678179e2.ext.json)
-
----
-
-### Close all liquor, meat shops on May 22, 23 and 24
-
-*2024-04-02 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Close-all-liquor-meat-shops-on-May-22-23-and-24/108-280043) · `en`
-
-Colombo, April 2 (Daily Mirror) - Due to a series of programms to be held for the State Vesak festival for Sri Buddha year 2568 (2024), the Buddha Sasana, Religious and Cultural Affairs Ministry requested to stop the slaughter of animals and to close down meat shops and places where drugs are sold, including liquor stores, on May 22, 23 and 24.
-
-Meanwhile, Cabinet spokesman and Minister Bandula Gunawardana said the State Vesak festival is scheduled to be held from May 21 to 27, naming it Vesak week and focusing on the Matale district.
-
-The theme of this year's State Vesak festival is "Let's not look at what others have done and look at what we have done."
-
-The opening ceremony of the festival is scheduled to be held at the premises of the Dharmaraja Pirivena in Matale and the closing ceremony at the Millawana Sri Sunandarama Temple premises in the Pallepola Divisional Secretariat.
-
-◼️
-
-[Data](articles/c5386184.json)
-
-[Extended Data](ext_articles/c5386184.ext.json)
-
----
-
-### Brother-in-law was handed over to a land issue
-
-*2024-04-02 15:10:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉඩම්-ගැටලුවකට-මස්සිනාගේ-අතකපා-අරන්-ගිහින්/11-408901) · `si`
-
-A land dispute led to the arrest of a man in Vadamarachchi. The victim was hospitalized and transferred. The suspect, a 30-year-old, was arrested and will be investigated by the Point Pedro Magistrate.
-
-🟩
-
-A person was arrested yesterday, a man was arrested by two families in Vadamarachchi Vadamarachchi Vadamarachchi Vaduasitty Weet Wattala.
-
-The other brother-in-law had run away with the hand of his brother-in-handed part of the hand of his brother-in-handed hand as a dispute since a land issue.
-
-The victim was taken to the Point Pedro Yathuruwa Hospital and later transferred to Jaffna Teaching Hospital for further treatment.
-
-The 30-year-old sethings were lost to Sethuran, 30-year-old sethnuran.. The suspect was arrested by the police, the suspect was arrested despite the arrest of the hand of the hand, lost the part of the hand near the hand.
-
-Steps have been taken to be produced before the Point Pedro Magistrate and investigated, he added.
-
-◼️
-
-[Data](articles/8ad22120.json)
-
-[Extended Data](ext_articles/8ad22120.ext.json)
-
----
-
-### Seneage to Senaka Batagoda to sing seven songs
-
-*2024-04-02 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195214) · `si`
-
-Judge Priyantha Fernando lifted the censorship on seven songs for Senaka Batagoda, noting they didn't violate the Intellectual Property Act. The decision was based on a complaint by Janath Kulathilaka, who was censored by the judge.
-
-🟩
-
-High Court High Court High Court Judge Priyantha Fernando released the censorship of seven songs to the singing Senaka Batagoda.
-
-We have, we have a comforting, gray fires, ashes, rats, and the sound, preclude the injunction precluding the best of comforting songs.
-
-The decision has been informed of not paying the letter to the Intellectual Property Act, the intellectual property Act, which is combined with combined songs, melodies and the concept of music.
-
-The judge who considered a complaint filed by the Janath Kulathilaka by his lawyers, the judge issued a censored by the judge of Janath Kulatilake.
-
-◼️
-
-[Data](articles/3237366c.json)
-
-[Extended Data](ext_articles/3237366c.ext.json)
-
----
-
-### 9,866 people are affected without drinking water
-
-*2024-04-02 14:56:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடிநீரின்றி-9-866-பேர்-பாதிப்பு/175-335516) · `ta`
-
-Drought affects 9,866 people in 2,927 families, with 7,053 in Gampaha and 2,813 in Kegalle districts.
-
-🟩
-
-Due to the prevailing drought, 9,866 people from 2,927 families have been affected by drinking water, the Disaster Management Center said.
-
-Accordingly, 7,053 people from 2,351 families in Gampaha district have been affected by the drinking water and 2,813 from 576 families in Kegalle district have been affected.
-
-The station further stated that they belong to the Varakapola, Ruwanwella, Yattiyantottai, Teraniyagala, Tehiyovita and Kaligamuwa Divisional Secretariat Divisions.
-
-◼️
-
-[Data](articles/eada0be5.json)
-
-[Extended Data](ext_articles/eada0be5.ext.json)
-
----
-
-### "Anura is ready for public debate with Sajith"
-
-*2024-04-02 14:56:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-பகிரங்க-விவாதத்துக்கு-அநுர-தயார்/175-335515) · `ta`
-
-"Anura is ready for public debate with Sajith. The National People's Power has called for an open debate on economic policies between Anuragumara Dissanayake and Opposition Leader Sajith Premadasa, aiming to discuss presidential candidates' policies ahead of the election."
-
-🟩
-
-The National People's Power today (02) has called on Opposition Leader Sajith Premadasa to come up with an open debate on economic policies with Anuragumara Dissanayake.
-
-He said that it was a good move to discuss the economic policies of the presidential candidates ahead of the election and that people could know their policies.
-
-He also said that Dissanayake is ready for the debate with United People's Power President Sajith Premadasa.
-
-◼️
-
-[Data](articles/e70a8bee.json)
-
-[Extended Data](ext_articles/e70a8bee.ext.json)
-
----
-
-### Sri Lanka’s Access Engineering wins work under airport expansion project
-
-*2024-04-02 14:51:00* · [`economynextcom`](https://economynext.com/sri-lankas-access-engineering-wins-work-under-airport-expansion-project-157057/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Access Engineering has been awarded ‘identified work’ at a development project at Colombo’s Bandaranaike International Airport, Cabinet spokesman, Minister Bandula Gunawardena said.
-
-In October 30, 2023 there was a cabinet decision to call for competitive tenders from contractors registered at CIDA.
-
-Four bids had been received after tenders were called, Gunawardena said, and the contract was awarded to Sri Lankan construction firm Access Engineering Plc.
-
-The BIA Development Project Phase II, State 2 involves the construction of a main terminal building and air bridges number 2 and 3, he said. (Colombo/Apr2/2024 – This story has been recast to show that contract involves unspecified identified work in the project)
-
-◼️
-
-[Data](articles/9bf616b7.json)
-
-[Extended Data](ext_articles/9bf616b7.ext.json)
 
 ---

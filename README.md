@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 17:03:17**
+As of **2024-04-03 17:18:05**
 
 ## Newspaper Stats
 
-*Scraped **16,890** Articles*
+*Scraped **16,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 910
 economynextcom | 927
 islandlk | 931
 adalk | 1,419
-tamilmirrorlk | 2,010
-adaderanalk | 2,025
+tamilmirrorlk | 2,011
+adaderanalk | 2,028
 virakesarilk | 2,441
 dailymirrorlk | 2,597
 adaderanasinhalalk | 2,734
@@ -26,71 +26,145 @@ adaderanasinhalalk | 2,734
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,884 (100.0%) of 16,890 articles have been extended.
+16,890 (100.0%) of 16,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### පොලීසියෙන් ජල හා කඳුළු ගෑස් ප්‍රහාරයක්
+### Protesting students tear-gassed near J’pura Uni.
+
+*2024-04-03 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98402/protesting-students-tear-gassed-near-jpura-uni) · `en`
+
+Police have used tear gas and water cannons to disperse protesting university students near the University of Sri Jayewardenepura.
+
+The demonstration had been organized by the students in protest over a Cabinet decision pertaining to private medical universities.
+
+◼️
+
+[Data](articles/e8804adf.json)
+
+---
+
+### Three ex-convicts in Rajiv Gandhi assassination case return to Sri Lanka
+
+*2024-04-03 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98401/three-ex-convicts-in-rajiv-gandhi-assassination-case-return-to-sri-lanka) · `en`
+
+Three Sri Lankans, who were convicted in the assassination of former Indian Prime Minister Rajiv Gandhi in 1991 and prematurely freed from prison, returned to the island on Wednesday (03).
+
+According to Ada Derana correspondent, the trio – Murugan (53), Robert Payas (53) and Jayakumar (62) – reached the Bandaranaike International Airport (BIA) in Katunayake on Wednesday afternoon after departing Chennai, India around 11.30 IST.
+
+They were among six freed in November 2022 by the Indian Supreme Court, which had said they showed “satisfactory behaviour” while in jail and also noted the Tamil Nadu government had recommended their release.
+
+Upon their release from jail, the three men were escorted from a special camp in Tiruchirappalli, where they had been detained, to the Chennai International Airport by a team of police officers in the morning. They had recently been granted passports by Sri Lanka to facilitate their return.
+
+...
+
+[Data](articles/0cce2031.json)
+
+---
+
+### Overseas travel ban lifted on Pastor Jerome
+
+*2024-04-03 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98400/overseas-travel-ban-lifted-on-pastor-jerome) · `en`
+
+The overseas travel ban imposed on Pastor Jerome Fernando has been temporarily lifted by the court.
+
+The order was issued when the case filed against Fernando was taken up before the Colombo Fort Magistrate’s Court today (03).
+
+A request had been made to the court stating that the defendant is required to travel to several foreign countries and after taking the facts presented in this regard into consideration, the court has temporarily lifted the foreign travel ban subject to previous bail conditions.
+
+The court had previously imposed an overseas travel ban on Pastor Jerome Fernando in connection with the case filed against him for allegedly making derogatory statements about other religions in May last year.
+
+...
+
+[Data](articles/f4988754.json)
+
+---
+
+### Police and tear gas attack by police
 
 *2024-04-03 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195262) · `si`
 
-විශ්වවිද්‍යාල සිසුන්ගේ විරෝධතාවයක් විසුරුවා හැරීමට ජයවර්ධනපුර සරසවිය ආසන්නයේදී පොලීසිය ජල හා කඳුළු ගෑස් ප්‍රහාරයක් එල්ලකර තිබේ.
+Police used tear gas near the University of Sri Jayewardenepura to disperse students.
+
+🟩
+
+The police were nearing water and tear gas near the University of Sri Jayewardenepura to dissolve university students.
 
 ◼️
 
 [Data](articles/3d7aaf64.json)
 
+[Extended Data](ext_articles/3d7aaf64.ext.json)
+
 ---
 
-### சிறுமி மீது துஷ்பிரயோகம் ; கைது செய்யப்பட்டவர் தப்பியோட்டம்
+### Abuse on the girl;Arrests escape
 
 *2024-04-03 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180358) · `ta`
 
-மன்னாரில் 9 வயது சிறுமி மீது பாலியல் துஷ்பிரயோகம் செய்யப்பட்டமை தொடர்பில் கைது செய்யப்பட்டவர் வவுனியா வைத்தியசாலையில் இருந்து தப்பி ஓடியுள்ளார்.
+A 9-year-old girl in Mannar was arrested for alleged sexual abuse. A 55-year-old man, suspected of abusing the girl, was also arrested and is missing after escaping from Vavuniya Hospital.
 
-மன்னார், தலைமன்னார் பகுதியில் 9 வயது சிறுமி பாலியல் துஷ்பிரயோகம் செய்யப்பட்டமை தொடர்பில் 55 வயதுடைய நபர் ஒருவர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு நீதிமன்ற உத்தரவுக்கமைய வவுனியா சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்தார்.
+🟩
 
-உடல் நலப் பாதிப்பு காரணமாக வவுனியா வைத்தியசாலையில் கடந்த வியாழக்கிழமை அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த நிலையில் இன்று புதன்கிழமை காலை (03) குறித்த சந்தேக நபர் வைத்தியசாலையில் இருந்து தப்பியோடியுள்ளார்.  அவரை தேடும் பணியில் சிறைக்காவலர்களும், பொலிசாரும் ஈடுபட்டுள்ளனர்.
+A 9 -year -old girl in Mannar has been arrested for allegedly sexually abusing a Vavuniya hospital.
+
+A 55 -year -old man was arrested on suspicion of sexually abusing a 9 -year -old girl in Mannar, Talaimannar area and detained at a court order.
+
+The suspect has fled the hospital on Wednesday morning (03) after being admitted to the Vavuniya Hospital last Thursday.Prisoners and police are involved in the search for him.
 
 ◼️
 
 [Data](articles/8fda4cea.json)
 
+[Extended Data](ext_articles/8fda4cea.ext.json)
+
 ---
 
-### களுவாஞ்சிக்குடியில் 6 வர்த்தக நிலையங்களுக்கு எதிராக வழக்குத் தாக்கல் !
+### Case against 6 trade centers in Kaluwanchikudi
 
 *2024-04-03 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/180351) · `ta`
 
-மட்டக்களப்பு, களுவாஞ்சிக்குடி பிரதேச சுகாதார பரிசோதகர்களால் களுவாஞ்சிக்குடி பொதுச்சந்தை, மற்றும் அதனைச்  சூழவுள்ள பல வர்த்தக நிலையங்கள் திடீர் சுற்றிவளைப்பு நடவடிக்கை மேற்கொள்ளப்பட்டது.
+Kaluwanchikudi Public Market and trade centers in Batticaloa face legal action due to health inspectors seizing outdated items.
 
-இதன்போது களுவாஞ்சிக்குடி பொது சுகாதார பரிசோதகர்களினால் பல்வேறு வர்த்தக நிலையங்களில் பாவனைக்குதவாத மற்றும் காலாவதியான பல பொருட்கள் கைப்பற்றபட்டதுடன், சுமார் 06 வர்த்தக நிலையங்களுக்கு எதிராக வழக்கு தாக்கல் செய்யப்பட்டுள்ளதாக சுகாதார பரிசோதகர் எஸ்.இளங்கோவன் தெரிவித்தனர்.
+🟩
+
+The Kaluwanchikudi Public Market and several surrounding trade centers have been carried out by the Kaluwanchikudi Divisional Health Inspectors in Batticaloa, Batticaloa.
+
+The Kaluwanchikudi Public Health Inspectors have seized a number of outposting and outdated items in various trade centers and a case has been filed against about six business centers, Health Inspector S. Ilangovan said.
 
 ◼️
 
 [Data](articles/db181060.json)
 
+[Extended Data](ext_articles/db181060.ext.json)
+
 ---
 
-### විවාදයට මම සූදානම් - සජිත්
+### I'm ready for the debate - Sajith
 
 *2024-04-03 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195261) · `si`
 
-තමන් ඕනෑම ආකාරයේ විවාදයකට සූදානම් බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා සඳහන් කළේය.
+Sajith Premadasa, Opposition Leader, is ready for any debate, emphasizing the importance of debate in a democratic society, and advocating for thoughtful discussion on national issues.
 
-සක්වල සුහුරු පන්ති කාමර ලබා දීමේ වැඩසටහනේ 140 වැනි අදියර යටතේ අද මුලතිව් පාසලක් වෙත රුපියල් ලක්ෂ 10ක් වටිනා සුහුරු පන්ති කාමරයක් ලබා දීමේ අවස්ථාවට එක්වෙමින් සජිත් ප්‍රේමදාස මහතා මේ බව පැවසීය.
+🟩
 
-මේ මොහොත වන විට රටේ ප්‍රශ්න ගැන විවාදයක් අවශ්‍ය බවට සමාජයේ කතාවක් යන බවත් එවැනි විවාදයක් සිදු විය යුතු බවට තමා පිළිගන්නා බවද එහිදී සජිත් ප්‍රේමදාස මහතා වැඩිදුරටත් සඳහන් කර ඇත.
+Opposition Leader Sajith Premadasa said he is ready for any form of debate, "he said.
 
-විවාද පැවැත්වීම ප්‍රජාතන්ත්‍රවාදී සමාජයක උසස් ගුණාංගයක් බැවින් තමා ඕනෑම විවාදයකට සූදානම් බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Sajith Premadasa made this observation at a ceremony of a new classroom at Mullaitivu today under the 14th phase of the Sakwala Key Teaching Program.
 
-වාද විවාද කිරීම මෙන්ම ඒ හරහා රටටත් ජනතාවටත් අගයක් එකතු විය යුතු බවද විපක්ෂනායකවරයා එහිදී පෙන්වාදී තිබේ.
+Sajith Premadasa added that it is a talk that requires a debate on the country's problems.
+
+Opposition Leader Sajith Premadasa says he is ready to any debate as debate is a high quality of a democratic society.
+
+The Opposition Leader also said that the arguments should be deferred as well as the country and the people should accumulate.
 
 ◼️
 
 [Data](articles/c881b768.json)
+
+[Extended Data](ext_articles/c881b768.ext.json)
 
 ---
 
@@ -129,6 +203,8 @@ Accordingly, the following trains will be operated in addition to the regular lo
 ◼️
 
 [Data](articles/9c838522.json)
+
+[Extended Data](ext_articles/9c838522.ext.json)
 
 ---
 
@@ -379,6 +455,18 @@ During the ceremony to hand over the Commission of Appointment, the High Commiss
 [Data](articles/7d121504.json)
 
 [Extended Data](ext_articles/7d121504.ext.json)
+
+---
+
+### கெஹலியவுக்கு பிணை மறுப்பு
+
+*2024-04-03 15:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-பிணை-மறுப்பு/175-335571) · `ta`
+
+தரமற்ற இம்யூனோகுளோபுலின் ஊசியை இறக்குமதி செய்த குற்றச்சாட்டில் விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்லவின் சார்பில் தாக்கல் செய்யப்பட்ட பிணை விண்ணப்பம் கொழும்பு மேல் நீதிமன்ற நீதிபதி சுஜீவ நிஸ்ஸங்கவினால் இன்று நிராகரிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/de30770c.json)
 
 ---
 
@@ -2265,93 +2353,5 @@ Related World Bank concerned over potential reform fatigue in Sri Lanka’s elec
 [Data](articles/449c8d35.json)
 
 [Extended Data](ext_articles/449c8d35.ext.json)
-
----
-
-### Gender -based pain gap: The highest registration in Sri Lanka than the global average
-
-*2024-04-03 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180293) · `ta`
-
-Sri Lanka's gender-based pain gap is the highest globally, with a significant disparity in labor contributions between men and women. The International Labor Organization's study reveals a massive, unaddressed gender-based pain gap in Sri Lanka, affecting women's entry into trade and economic prosperity. Despite efforts to reduce this gap, women's contributions remain low, with a 40% contribution compared to men's 80% in 2019. This gap has persisted for decades, with a notable increase in the pain gap among adult workers as age increases.
-
-🟩
-
-Global -based agony interval is estimated at an average of 20 percent. However, in the new study of the International Labor Organization, the International Labor Organization has indicated that the pain gap in Sri Lanka is higher than that of this global average and is higher than the pain in low and middle -income countries.
-
-“In most countries of the world, the gender -based pains space clearly reveal the gender inequality found in the union. It is necessary to address both social justice and economic prosperity. In its study on Sri Lanka, the International Labor Organization has pointed out that the gender -based agony space that is massive and unreasonable is unclear, and that it will create an inequality in the union and prevent the entry of women and women into the trade.
-
-...
-
-[Data](articles/7e3f531a.json)
-
-[Extended Data](ext_articles/7e3f531a.ext.json)
-
----
-
-### Hansani has a new record for weightlifting
-
-*2024-04-03 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195236) · `si`
-
-Hansan Gomez set a new record in the World Championship Weightlifting Championship in Thailand, lifting 247 kilograms.
-
-🟩
-
-Hansan Gomez was established in the World Championship Weightlifting Championship in Thailand.
-
-The World Championship Weightlifting Championships will be held at Thailand today.
-
-A new national report was established with a loss of 76 kilograms of Hannan Gomez Snatch, which rates from the 49kg weight class of Sri Lanka.
-
-Meanwhile, Deceran Isuru Kumara won the 55kg weight class in Sri Lanka.
-
-112 kilograms of the Snauch and lifting 145 kilograms of clein and germina.
-
-In this event, the total weight of 247 kilograms was 247 kilograms.
-
-◼️
-
-[Data](articles/1769cda2.json)
-
-[Extended Data](ext_articles/1769cda2.ext.json)
-
----
-
-### Rs. Ayurvedic pharmacy of Ampara. 13 lakhs to pocket
-
-*2024-04-03 09:05:37* · [`adalk`](https://www.ada.lk/breaking_news/මොනරාගල-ආයුර්වේද-ඔසුසැලේ-රු--ලක්ෂ-13ක්-සාක්කුවට-දමාගෙන/11-408913) · `si`
-
-The Ayurvedic Pharmacy of Ampara has been accused of a large sum of money, with investigations led by the Monaragala Division's Special Criminal Investigation Division.
-
-🟩
-
-The Ayurvedic Pedula of Monaragala has taken over six thousand six hundred and nine hundred and nine hundred and nine hundred and nine hundred and six hundred six thousand six hundred and six hundred six thousand five hundred and six hundred six thousand five hundred and six hundred five thousand five centimeters.
-
-The Ayurvedic Phariseal has lodged a complaint with the Ayurvedic Pharmacy Officer incurred by the officer in charge of the Ayurvedic Pharvancy.
-
-The OIC of the Moneragala Division Special Criminal Investigation Division is conducting investigations.
-
-◼️
-
-[Data](articles/ab8622d4.json)
-
-[Extended Data](ext_articles/ab8622d4.ext.json)
-
----
-
-### WB cautions possible slowdown in reform efforts due to elections
-
-*2024-04-03 09:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/WB-cautions-possible-slowdown-in-reform-efforts-due-to-elections/108-280082) · `en`
-
-Colombo, April 3 (Daily Mirror) - Sri Lanka has recovered faster than expected from the economic crisis it faced two years ago, however, the World Bank yesterday cautioned that this momentum might be lost due to a possible slowdown in the reform efforts as the island nation gears up for election this year.
-
-World Bank's Senior Country Economist for the Maldives and Sri Lanka Richard Walker told journalists in Colombo that while Sri Lanka has made significant progress in the last year, two downside risks remain, of which one is the upcoming elections.
-
-“…downside risks remain, and there are two risks I want to emphasise. The first one is around the elections this year and the potential we see or the concern we see around policy reversal or policy fatigue, particularly around the reforms that have been implemented,” he said during the launch of the Sri Lanka Development Update: Bridge to Recovery report.
-
-...
-
-[Data](articles/637fee3b.json)
-
-[Extended Data](ext_articles/637fee3b.ext.json)
 
 ---

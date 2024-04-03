@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 17:54:00**
+As of **2024-04-03 18:09:32**
 
 ## Newspaper Stats
 
-*Scraped **16,897** Articles*
+*Scraped **16,901** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 927
 islandlk | 931
 adalk | 1,420
 tamilmirrorlk | 2,012
-adaderanalk | 2,028
+adaderanalk | 2,029
 virakesarilk | 2,441
-dailymirrorlk | 2,598
-adaderanasinhalalk | 2,734
+dailymirrorlk | 2,600
+adaderanasinhalalk | 2,735
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,895 (100.0%) of 16,897 articles have been extended.
+16,897 (100.0%) of 16,901 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### World’s oldest man dies weeks before 115th birthday
+
+*2024-04-03 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98403/worlds-oldest-man-dies-weeks-before-115th-birthday) · `en`
+
+Venezuelan Juan Vicente Perez Mora, certified in 2022 by Guinness World Records as the oldest man in the world, died on Tuesday at the age of 114, officials and relatives said.
+
+Juan Vicente Pérez, who was born on May 27, 1909, would have celebrated his 115th birthday next month.
+
+“Juan Vicente Perez Mora has transcended into eternity at 114 years of age,” Venezuelan President Nicolas Maduro said on social media platform X.
+
+Perez was officially confirmed as the oldest man alive on February 4, 2022, when he was 112 years and 253 days old, according to Guinness.
+
+A father of 11, as of 2022 he had 41 grandchildren, 18 great-grandchildren and 12 great-great-grandchildren.
+
+The farmer known as Tio Vicente was born in the town of El Cobre, in the Andean state of Tachira on May 27, 1909, and was the ninth of 10 children.
+
+“At the age of five years old, he started working with his dad and brothers in agriculture and assisted with sugar cane and coffee harvesting,” a Guinness statement from 2022 said.
+
+...
+
+[Data](articles/6a36c353.json)
+
+---
+
+### University students tear-gassed
+
+*2024-04-03 17:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/University-students-tear-gassed/108-280118) · `en`
+
+Police dispersed protesting university students near the University of Moratuwa, using tear gas and water cannons.
+
+◼️
+
+[Data](articles/2e156dc1.json)
+
+---
+
+### ලොව වයස්ගතම මිනිසා මිය යයි
+
+*2024-04-03 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195264) · `si`
+
+ලොව වයස්ගතම මිනිසා ලෙස ගිනස් වාර්තා පොතට ඇතුළත්වී සිටි වෙනිසියුලානු ජාතික හුවාන් විසෙන්ටේ මියගොස් තිබේ.
+
+වයස අවුරුදු 114ක් සම්පූර්ණ වී සිටියදී ඊයේ දිනයේ ඔහු මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+දරුවන් 11 දෙනෙකුගේ පියෙකු වන හුවාන් හට මුනුබුරු, මිනිබිරියන් 41 දෙනෙකු සිටින බව වාර්තා වෙයි.
+
+2022 වසරේ පෙබරවාරි 04 වන දින ජීවතුන් අතර සිටින ලොව වයස්ගතම මිනිසා ලෙස ඔහු නම් කෙරුණි.
+
+◼️
+
+[Data](articles/37ccbb82.json)
+
+---
 
 ### Special trains for New Year season
 
@@ -46,23 +100,33 @@ Accordingly, more than 30 special and long-distance train services are scheduled
 
 [Data](articles/50bbb55d.json)
 
+[Extended Data](ext_articles/50bbb55d.ext.json)
+
 ---
 
-### இதயத்துக்குள் 1000 மன்னிப்புடன் யுவதியின் சடலம் மீட்பு
+### Youth's body recovery with 1000 apologies inside the heart
 
 *2024-04-03 17:16:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இதயத்துக்குள்-1000-மன்னிப்புடன்-யுவதியின்-சடலம்-மீட்பு/76-335573) · `ta`
 
-சுமார் இரண்டு பக்கங்களில் தங் இங்கிலீஸில் அதுவும், பொதுவாக ஒருபக்கமும் தாய், தந்தைக்கு என சிறு தலைப்பிட்டு மற்றுமொரு பக்கத்திலும் மொத்தமாக இரண்டு பக்கங்களில் கடிதமொன்றை எழுதிவைத்துவிட்டு, பெண்ணொருவர் தவறான முடிவை எடுத்துள்ளார்.
+A woman's body was found in Iragala Police Division's Telmer surface, after a two-sided family dispute. She left with a man from Nanuoya, leading to a bitter incident. Her letter contained 1000 apologies.
 
-​பொதுவாக ஒருபக்கத்தில் எழுதிய கடிதத்தில் 1000 தடவைகள் மன்னிப்பு, மன்னிப்பு என குறிப்பிட்டு, இதயமொன்றையும் அப்பெண் வரைந்துள்ளார். இந்த சம்பவம் இராகலை பொலிஸ் பிரிவுக்கு உட்பட்ட டெல்மார் மேற்பிரிவில் இடம்பெற்றுள்ளது.
+🟩
 
-அப்பெண்ணின் சடலம், இராகலை பொலிஸ் பிரிவுக்கு உட்பட்ட இராகலை டெல்மார் மேற்ப்பிரிவு குளத்தில் இருந்து டெல்மாக் தோட்டம் உடப்புஸ்ஸலாவையைச் சேர்ந்த 18 வயதான சுதர்ஷிகா என்ற யுவதியின் சடலமே   புதன்கிழமை (03) பிற்ப்பகல் இராகலை பொலிஸாரால் மீட்க்கப்பட்டுள்ளது.
+In about two sides, Thang has made a wrong decision on the English and the one -sided mother and father on the other side, and on the other side, the woman has made a false decision.
 
-கடந்த இரண்டும் நாட்களாக காணவில்லை எனத் தேடப்பட்டு வந்த குறித்த யுவதியே  சடலமாக மீட்க்கப்பட்டுள்ளார்.
+Generally, in a letter written on one side, the woman also painted a heart, referring to 1000 times, apologizing. The incident took place in the Telmer surface of the Iragala Police Division.
+
+The body of the woman was recovered by the police on Wednesday (03) by the body of an 18 -year -old Sudarshika from the Telmak Estate, Udappussalawa, from the Irakalai Telmer Divisional Pond, which belongs to the Iragala Police Division.
+
+The body of a woman who was searching for the last two days has been recovered.
+
+The body was recovered by the Nuwara Eliya District Magistrate and the Nuwara Eliya Crime Forensic Police. The body has been taken to the Nuwara Eliya District Hospital for autopsy.
 
 ...
 
 [Data](articles/74b9e0e1.json)
+
+[Extended Data](ext_articles/74b9e0e1.ext.json)
 
 ---
 
@@ -711,6 +775,18 @@ The suspect is receiving treatment at the Kalutara Teaching Hospital.
 [Data](articles/22dde038.json)
 
 [Extended Data](ext_articles/22dde038.ext.json)
+
+---
+
+### Ruwan holds public day in Biyagama
+
+*2024-04-03 15:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ruwan-holds-public-day-in-Biyagama/110-280115) · `en`
+
+UNP Deputy Leader and Adviser to the President, Ruwan Wijewardena held a public day in Biyagama today, where the problems of those who arrived from several areas were discussed. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/221d15cf.json)
 
 ---
 
@@ -2259,107 +2335,5 @@ Licensed banks have to set up BRUs by mid-May 2024 and fully comply with the gui
 [Data](articles/53b1618b.json)
 
 [Extended Data](ext_articles/53b1618b.ext.json)
-
----
-
-### A group of organized crime gangs arrested
-
-*2024-04-03 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195237) · `si`
-
-Special teams arrested 20 organized crime gangs, including a 54-year-old from the North, a 34-year-old from Gampaha, and a 37-year-old in Wellampitiya. Seven individuals were detained for various crimes.
-
-🟩
-
-Seven other organized crime gangs were arrested in the operations carried out by 20 special teams.
-
-Seven persons have been taken into police custody as various crimes.
-
-A 54-year-old organized criminal gangs have been arrested by the officers of the Northern Province of the North Division of Western Province.
-
-Meanwhile, a group of 34-year-old teammates of Gampaha has been arrested in the Rathdolugama police division.
-
-Meanwhile, a 37-year-old crime gang has been arrested in a raid conducted in the Wellampitiya Police Division.
-
-Meanwhile, an organized criminal group of the 27-year-old Horampalla area has been taken into custody in the Bolawalana area in Negombo.
-
-Meanwhile, an organized crime gang resident of Ganemulla was arrested by 48-year-old raid in Kanelai Gampaha.
-
-Also, the officials of the Kalutara Crimes Division of the Kalutara Crimes Division have arrested 45 year old organized crime criminal crime criminal crime.
-
-...
-
-[Data](articles/01f9ba14.json)
-
-[Extended Data](ext_articles/01f9ba14.ext.json)
-
----
-
-### Heavy rainfall may be recorded ...
-
-*2024-04-03 09:56:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-மழைவீழ்ச்சி-பதிவாகலாம்/175-335547) · `ta`
-
-Expect heavy rainfall and thunderstorms in Upper, Sabaragamuwa, Central, North Western, South, North and North and Uva provinces after 2.00 pm. Snowfall in Galle and Matara districts in the morning. Thundershowers may occur. Take precautions for lightning impacts.
-
-🟩
-
-Rainfall or thunderstorms are likely to occur after 2.00 pm in many places in the Upper, Sabaragamuwa, Central, North Western, South, North and North and Uva provinces.
-
-Heavy rainfall is expected in some places in the Western, Sabaragamuwa, North Western and Southern Provinces, Anuradhapura and Moneragala districts.
-
-In the morning, in some parts of the Western, Central, Sabaragamuwa, and Uva provinces, Galle and Matara districts are expected to have snowfall in the morning.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/2f91ad50.json)
-
-[Extended Data](ext_articles/2f91ad50.ext.json)
-
----
-
-### New law to solve family violence -Geeta Kumarasinghe
-
-*2024-04-03 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180286) · `ta`
-
-Geeta Kumarasinghe, Minister of State for Women and Child Affairs, announced a new law to combat family violence, including establishing a National Women's Commission. The law aims to strengthen women's rights, with provisions for temporary detention centers and amendments to the Family Violence Prevention Act.
-
-🟩
-
-Minister of State for Women and Child Affairs Geeta Kumarasinghe said that the Cabinet approval has been granted to amend the current Family Violence Act and bring a new bill to Parliament.
-
-At the same time, the Minister of State has said that it will be given the opportunity to establish a National Women's Commission after the presence of Parliament to strengthen women published in the Gazette.
-
-He was speaking at a media briefing held at the Presidential Media Center on Tuesday (02).
-
-“Cabinet approval was issued for the Bill to strengthen women and issued the Gazette on 03.07.2024. It will soon be presented in Parliament and the provisions of the National Women's Commission have been embraced.
-
-The Union of Parliament and Members of Parliament held a discussion on the Bill to strengthen women in Parliament on 20.03.2024. The President's Office, the Attorney General's Department and the Department of Law Draftsman were also present at the discussion.
-
-...
-
-[Data](articles/cf17d4af.json)
-
-[Extended Data](ext_articles/cf17d4af.ext.json)
-
----
-
-### The Interim Secretariat for Reconciliation Mechanism
-
-*2024-04-03 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180295) · `ta`
-
-Yuvi Thangarajah, head of the Interim Secretariat for the Truth and Reconciliation Mechanism, will meet with European Diaspora Tamil organizations next week. The interim secretariat, led by Dr. Asanga Gunawansa, visited the North and Eastern Provinces to discuss the Truth, Unity and Reconciliation Commission. Civil society organizations in the South, especially in Colombo, have discussed the proposed commission bill. Criticism of victims, including relatives, war widows, and ex-combatants, has been noted. Thangarajah is gathering information on affected parties through various government offices and plans to start meetings with victims in April.
-
-🟩
-
-Yuvi Thangarajah, the head of the Interim Secretariat for the Truth and Reconciliation Mechanism, will meet with representatives of the Diaspora Tamil organizations operating in European countries next week.
-
-The interim secretariat officials of the Truth and Reconciliation Mechanism, headed by Dr. Asanga Gunawansa, recently visited the North and Eastern Provinces to meet the North and Eastern Provinces as the government is actively carrying out the work of establishing the Truth, Unity and Reconciliation Commission in the country.. Similarly, representatives and intellectuals of civil society organizations operating in the South, especially in Colombo, have held discussions on the proposed Truth, Unity and Reconciliation Commission Bill.
-
-...
-
-[Data](articles/f14952cd.json)
-
-[Extended Data](ext_articles/f14952cd.ext.json)
 
 ---

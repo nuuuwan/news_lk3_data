@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 15:18:01**
+As of **2024-04-03 15:33:53**
 
 ## Newspaper Stats
 
-*Scraped **16,861** Articles*
+*Scraped **16,862** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 150
 bbccomsinhala | 176
-dbsjeyarajcom | 205
+dbsjeyarajcom | 206
 newsfirstlk | 363
 dailyftlk | 910
 economynextcom | 927
@@ -26,43 +26,55 @@ adaderanasinhalalk | 2,727
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,853 (100.0%) of 16,861 articles have been extended.
+16,861 (100.0%) of 16,862 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### අලුත් අවුරුදු සමයේ විශේෂ දුම්රිය කිහිපයක්
+### Several special trains during New Year's year
 
 *2024-04-03 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195253) · `si`
 
-එළඹෙන අලුත් අවුරුදු සමයේ ගම්බිම් බලා යන සහ එන මගීන් වෙනුවෙන් විශේෂ දුම්රිය කිහිපයක් එක් කර තිබේ.
+During New Year, special trains run from Colombo to Colombo, operated by the Railway Department from 15th to 15th.
 
-අප්‍රේල් මස 10 වනදා සිට 15 වනදා දක්වා කොළඹ සිට පිට පළාත් බලා යන මගීන් සඳහා දුම්රිය ධාවනය කෙරෙන බව දුම්රිය දෙපාර්තමේන්තුව දැනුම්දෙයි.
+🟩
+
+Several special trains have been added to the home and passengers during the New New Year.
+
+The Railway Department is noting that the train will be operated from Colombo from Colombo to 15th to 15th to 15th.
 
 ◼️
 
 [Data](articles/0426cc54.json)
 
+[Extended Data](ext_articles/0426cc54.ext.json)
+
 ---
 
-### සජිත්-අනුර විවාදයකට දෙරණ වාද පිටිය සූදානම්
+### Derana arguilt go on Sajith-Anuradess
 
 *2024-04-03 14:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195252) · `si`
 
-ආර්ථික ප්‍රතිපත්ති පිළිබඳව විවාදයකට පැමිණෙන ලෙස සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී නලින් බණ්ඩාර මහතා පසුගියදා ජාතික ජන බලවේගයට අභියෝගයක් සිදුකළේය.
+MP Nalin Bandara challenged the national propagation to debate economic policies, prompting Sunil Handunnetti to suggest a debate between Sajith Premadasa and Anura Kumara Dissanayake. Handunnetti also mentioned the possibility of including UNP's economic committee members if Premadasa doesn't participate.
 
-ඊට ප්‍රතිචාර දක්වමින් ජාතික ජනබලවේගයේ ජාතික විධායක සභික සුනිල් හඳුන්නෙත්ති මහතා ඊයේ කියා සිටියේ ඉදිරියේදී පැමිණෙන්නේ ජනාධිපතිවරණයක් බැවින් එම විවාදය සමගි ජන බලවේගයෙන් නායක සජිත් ප්‍රේමදාස මහතා සහ ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා  අතර පැවැත්විය යුතු බවය.
+🟩
 
-කෙසේ වෙතත් එය එම පක්ෂයෙන් ලිඛිතව තමන් වෙත ලැබිය යුතු බව හඳුන්නෙත්ති මහතා ප්‍රකාශ කළේය.
+MP Nalin Bandara recently challenged the national propagation to come to a debate on economic policies.
 
-නමුත් සජිත් ප්‍රේමදාස මහතා ඊට සහභාගී නොවන්නේ නම් එම පක්ෂයේ ආර්ථික කමිටුවේ සාමාජිකයින් සහ ජාතික ජන බලවේගයේ ආර්ථික කමිටු සාමාජිකයින් අතර විවාදය පැවැත්වීම පිළිබඳ කරුණු සලකා බැලිය හැකි බව ඔහු සඳහන් කළේය.
+Responding to this, the National Executive Member of the National Executive Committee of the National Executive Committee Sunil Handunnetti said yesterday that the debate should be held between Sajith Premadasa and leader of the National Power Anura Kumara Dissanayake.
 
-පක්ෂ දෙකේ නායකයින් අතර හෝ ආර්ථික කමිටු සාමාජිකයින් අතර පැවැත්වෙන මෙම විවාදය සඳහා අවස්ථාව සලසාදීමට දෙරණ වාද පිටිය සූදානම්.
+However, Mr. Handunnetti said that he deserves it in writing from the party.
+
+However, if Sajith Premadasa does not participate, he said that the membership of the UNP's economic committee and the economic committees of the national promit of the UNP could be considered.
+
+The Derana arguage is ready to give the debate between the leaders of the party leaders or the economic committee members.
 
 ◼️
 
 [Data](articles/c7ccfee8.json)
+
+[Extended Data](ext_articles/c7ccfee8.ext.json)
 
 ---
 
@@ -114,39 +126,55 @@ Speaking to Daily Mirror, Director General of Health Services Dr Asela Gunawarde
 
 ---
 
-### நுவரெலியா வலப்பனையில் வீடுடைத்து நகை, பணம் திருட்டு
+### Nuwara Eliya Valappanu Home Jewelry and Money Theft
 
 *2024-04-03 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180333) · `ta`
 
-நுவரெலியா வலப்பனை மா ஊவாவில் உள்ள வீடொன்றில் கடந்த ஞாயிற்றுக்கிழமை (31) இரவு குடியிருப்பாளர்கள் வெளியில் சென்றிருந்தவேளை ஒன்றரை பவுன் நகைகளும் 80 ஆயிரம் ரூபாய் பணமும் திருடப்பட்டுள்ளதாக வலப்பனை பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+Jewelry and 80,000 rupees stolen from a house in Nuwara Eliya's Valappanai last Sunday night. Householders found the window broken and the theft discovered upon return. Investigations ongoing.
 
-வீட்டில் உள்ளவர்கள் வெளியில் சென்றுவிட்டு திங்கட்கிழமை (01) காலை வந்த போது  வீட்டின் ஜன்னல் உடைக்கப்பட்டிருந்ததை அவதானித்துள்ளார்.
+🟩
 
-பின்னர் வீட்டில் உள்ளே சென்று பார்த்தபோது 80 ஆயிரம் ரூபா பணமும், ஒன்றரைப் பவுண் நகையும் திருடப்பட்டமை தெரியவந்துள்ளது.
+A complaint has been lodged at the Valappanai police station that one and a half pounds of jewelery and 80 thousand rupees have been stolen at a house in Valappanai, Nuwara Eliya Valappanai last Sunday night.
 
-குறித்த வீட்டில் உள்ளவர்கள் தையல் தொழிலில் ஈடுபடுபவர்கள் எனவும் இதன் மூலம் சேர்த்து வைத்த பணமே திருடப்பட்டுள்ளது எனவும் வீட்டின் உரிமையாளர்கள் தெரிவித்தனர்.
+When the householders went out and arrived on Monday morning, he observed that the window of the house had been broken.
 
-குறித்த திருட்டு சம்பவம் தொடர்பில் நுவரெலியா சொக்கோ (SOCO) பிரிவு பொலிஸாரோடு வலப்பனை பொலிஸாரும் இணைந்து மேலதிக விசாரணைகளில் ஈடுபட்டு வருகின்றனர்.
+Later in the house, it was revealed that 80 thousand rupees and one and a half pound jewelery were stolen.
+
+The owners of the house said that the people in the house were sewing and that the money had been stolen.
+
+The Nuwara Eliya Soco Division has been conducting further investigations with the police in connection with the theft.
 
 ◼️
 
 [Data](articles/0857bd87.json)
 
+[Extended Data](ext_articles/0857bd87.ext.json)
+
 ---
 
-### ශ්‍රි ලංකාවේ සියයට 25ක් තවමත් දුප්පත්
+### 25 percent of Sri Lanka is still poor
 
 *2024-04-03 14:29:32* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රි-ලංකාවේ-සියයට-25ක්-තවමත්-දුප්පත්/11-408920) · `si`
 
-ශ්‍රී ලංකාවේ ආර්ථිකය 2024 දී 2.2% ක මධ්‍යස්ථ වර්ධනයක් ලබා ගනු ඇති බවත් 2022 වසරේදී මුහුණ දුන් දැඩි ආර්ථික පසුබෑමෙන් පසු රට ස්ථාවර වීමේ ලකුණු පෙන්නුම් කරමින් පවතින බවත් ලෝක බැංකුව පවසයි. කෙසේ වෙතත් ශ්‍රී ලංකාවේ තවමත් පවතින ඉහළ දරිද්‍රතා මට්ටම්, ආදායම් අසමානතාවය සහ ශ්‍රම වෙළඳපොළ උච්ඡාවචනයන්ට මුහුණ දෙන බව ලෝක බැංකුව පවසයි.
+Sri Lanka's economy grows 2.2% in 2024, but 25% remain poor. Despite economic growth, the World Bank warns of high poverty, income inequality, and labor market fluctuations. The BOC notes a decline in inflation and the implementation of financial policies. However, the World Bank predicts a 2.5% growth increase in 2025, with higher credit service stress and a poverty rate expected above 22% by 2026.
 
-ශ්‍රී ලංකාව උද්ධමනය පහත වැටීම, නව රාජ්‍ය මූල්‍ය ප්‍රතිපත්ති ක්‍රියාවට නැංවීමේ පසුබිම මත ඉහළ ආදායමක් සහ දශක පහකට ආසන්න කාලයක් තුළ ප්‍රථම වරට ජංගම ගිණුමේ අතිරික්තයක් වාර්තා වූ බවද ලොක බැංකුව පෙන්වා දෙයි.
+🟩
 
-කෙසේ වෙතත්, 2023 වසරේ ශ්‍රී ලාංකිකයන්ගෙන් 25.9%ක් දරිද්‍රතා රේඛාවට පහළින් ජීවත් වන බවට ඇස්තමේන්තු කර ඇති පරිදි දරිද්‍රතා අනුපාතිකය අඛණ්ඩව සිව්වන වසරටත් අඛණ්ඩව ඉහළ ගිය බවද එම වාර්තාවේ දැක්වෙයි.
+The World Bank says Sri Lanka's economy will increase the growth of 2.2% growth in 2024 and the country's stabilization marks after 2022. However, the World Bank says Sri Lanka will still face high poverty, income inequality and labor market fluctuations.
+
+The BOC points out that Sri Lanka declines inflation declines, the first financial policies over the background of the implementation of the country.
+
+However, 25.9% of Sri Lankans in the year 20.9% of Sri Lankans in the year have increased to the fourth consecutive year, according to the report.
+
+Shutdown micro, small and medium-sized enterprises (MSMES). The World Bank points out that the family is struggling with various pressure, income losses and loss of the jobs, and the family is due to the meeting of food needs and to maintain expenses for health and education.
+
+The World Bank says that higher credit services will be stressed in a 2.5% increase in growth in 2025, however, in 2025 with a small mobile account surplus.
 
 ...
 
 [Data](articles/21091c26.json)
+
+[Extended Data](ext_articles/21091c26.ext.json)
 
 ---
 
@@ -164,71 +192,99 @@ The bail application filed on behalf of former Health Minister Keheliya Rambukwe
 
 ---
 
-### கெஹலியவின்  பிணை மனு கோரிக்கையை நிராகரித்த கொழும்பு மேல் நீதிமன்றம்!
+### Colombo High Court rejected Keheliya's bail plea
 
 *2024-04-03 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180336) · `ta`
 
-விளக்கமறியலில் வைக்கப்பட்டுள்ள தனக்கு பிணை வழங்குமாறு முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல விடுத்த  கோரிக்கையை கொழும்பு மேல் நீதிமன்றம் இன்று புதன்கிழமை (03) நிராகரித்துள்ளது.
+Colombo High Court denied bail to former Health Minister Keheliya Rambukwella, citing no special reasons.
 
-இந்தக் கோரிக்கையை நிராகரித்த கொழும்பு மேல் நீதிமன்ற நீதிபதி தமித் தொட்டவத்த, கெஹலிய ரம்புக்வெல்ல தனக்கு பிணை வழங்குவதற்கு விசேட காரணங்கள்  எதனையும் முன்வைக்கவில்லை என தெரிவித்தார்.
+🟩
+
+Former Health Minister Keheliya Rambukwella has rejected the Colombo High Court on Wednesday (03).
+
+The Colombo High Court judge, Thamidtuwatta, who rejected the request, said that there were no special reasons for the bail of Keheliya Rambukwella.
 
 ◼️
 
 [Data](articles/ff729d16.json)
 
+[Extended Data](ext_articles/ff729d16.ext.json)
+
 ---
 
-### பெண்கள் தனியாக சுற்றுலா செல்வதற்கான சிறந்த இடங்களில் இலங்கை முதலிடம்
+### Sri Lanka tops the best places for women to travel alone
 
 *2024-04-03 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180324) · `ta`
 
-2024 ஆம் ஆண்டில் பெண்கள் தனியாக சுற்றுலா செல்வதற்கான சிறந்த இடங்களின் பட்டியலில் இலங்கை முதலிடம் பிடித்துள்ளதாக டைம் அவுட் என்ற சுற்றுலா வழிகாட்டி இணையத்தளம் தெரிவித்துள்ளது.
+Sri Lanka is ranked #1 for women to travel alone in 2024 by Time Out, highlighting its safety, culture, and adventure opportunities.
 
-தற்போது பெண்கள் தனியான செல்வது அதிகரித்து வருகிறது. குறிப்பாக  1997க்குப் பிறகு பிறந்த பெண்களில் அரைவாசிக்கு மேற்பட்டவர்கள் தனியாக வெளிநாட்டிற்கு சுற்றுலா செல்வதில் ஆர்வம் காட்டுகின்றனர்.
+🟩
 
-சாகசம் , கலாச்சாரத்தை அனுபவித்தல் மற்றும் மறக்கமுடியாத அனுபவங்களைத் தேடும் அதிகமான பெண்களுக்கு  எங்கு செல்ல வேண்டும்,  எதைப் பற்றி தெரிந்து கொள்ள வேண்டும்? என்பது கேள்விகளாக உள்ளது.
+Sri Lanka tops the list of best places for women to travel alone in 2024, according to a tour guide website called Time Out.
 
-பல நாடுகள் பாதுகாப்பாகவும் தனியாகவும் பெண்கள் பயணிக்க  இடமளிக்கின்றன. அதாவது,  நன்கு நிறுவப்பட்ட  பேக் பேக்கர் வழிகள், நட்புடைய உள்ளூர்வாசிகள், சமூக தொடர்பு மற்றும் அமைதியான தனிமை ஆகிய  இரண்டிற்குமான வாய்ப்புகள் ஆகியவற்றை வழங்குகின்றன. இந்த இலக்குகளை அடைவதற்கு பெண்கள் தனியாக சுற்றுலா செய்வதற்கு  சிறந்த இடமாக இலங்கை திகழ்கிறது.
+Currently, women are on the rise. More than half of women born after 1997 are interested in traveling abroad alone.
+
+Where to go to more women who are looking for adventure, enjoying culture and looking for memorable experiences?Is the questions.
+
+Many countries are safe and lonely for women to travel. That is, well -established backpacker routes offer the opportunities for both friendly locals, social communication and quiet loneliness. Sri Lanka is the best place for women to travel alone to achieve these goals.
+
+The "pearl of the Indian ocean" reveals the taste of the South Asian culture of Sri Lanka, known as its natural beauty, and reveals its unique beauty. In addition, Sri Lanka provides the best starting point for women who carry out separate adventures, with the popularity and managing quantity among youth traveling alone.
 
 ...
 
 [Data](articles/fe632b2d.json)
 
+[Extended Data](ext_articles/fe632b2d.ext.json)
+
 ---
 
-### காஸாவில் மனிதாபிமானப் பணியாளர்கள் கொலை: இஸ்ரேலிய ஜனாதிபதி மன்னிப்பு கோருகிறார்
+### Israeli president apologizes to killing humanitarian workers in Gaza
 
 *2024-04-03 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180334) · `ta`
 
-காஸாவில் தொண்டு நிறுவன ஊழியர்கள் 7 பேர் கொல்லப்பட்ட சம்பவத்துக்கு இஸ்ரேலிய ஜனாதிபதி மன்னிப்பு கோரியுள்ளார். அதேவேளை, இத்தாக்குதல்  ஒரு கடுமையான தவறு என இஸ்ரேலிய பாதுகாப்புப் படை தெரிவித்துள்ளது.
+Israeli President Isaac Harsok apologizes for the killing of seven charity workers in Gaza, calling it a "serious mistake." Israeli Security Forces leader Harsi Halevi echoes this sentiment. The incident involved a Canadian dual citizen and a Palestinian. The US, Australia, Poland, and Britain are among the countries expressing concern.
 
-காஸாவில் இஸ்ரேல் திங்கட்கிழமை (01) நடத்திய தாக்குதலால் தனது  ஊழியர்கள் 7 பேர் கொல்லப்பட்டனர் என அமெரிக்காவை தளமாகக் கொண்ட வேர்ல்ட் சென்ட்ரல் கிச்சன் எனும் தொண்டு நிறுவனம் நேற்று தெரிவித்தது.
+🟩
 
-அவுஸ்திரேலியா, போலந்து, பிரிட்டன் நாடுகளைச் சேர்ந்தவர்களுடன்; அமெரிக்க கனேடிய இரட்டைப் பிரஜாவுரிமையைக் கொண்ட ஒருவர் மற்றும் பலஸ்தீனியர் ஒருவர் இச்சம்பவத்தில் உயிரிழந்தனர் என அந்நிறுவனம் தெரிவித்துள்ளது.
+Israeli president apologizes for the killing of seven charity employees in Gaza. At the same time, the Israeli Security Force said the attack was a serious mistake.
 
-இந்நிலையில், காஸாவில் தொண்டு நிறுவன ஊழியர்கள் 7 பேர் கொல்லப்பட்ட தாக்குதல் ஒரு கடுமையான தவறு என இஸ்ரேலிய பாதுகாப்புப் படைகளின் தலைவர் ஹேர்ஸி ஹலேவி தெரிவித்துள்ளார்.
+The US -based World Central Kitchen, a charity, said yesterday that seven employees were killed in an attack on Israeli Monday (01) in Gaza.
 
-'இச்சம்பவம் ஒரு கடுமையான தவறு. அது நடந்திருக்கக் கூடாது' என அவர் கூறியுள்ளார்.
+With Australia, Poland and Britain;A man with a Canadian dual citizen and a Palestinian died in the incident, the company said.
+
+In this case, Israeli Security Forces leader Harsi Halevi said the attack that killed seven charity employees in Gaza was a serious mistake.
+
+'This is a serious mistake. That should not have happened, 'he said.
+
+Meanwhile, Israeli President Isaac Harsok has said that he had spoken to the Chairman of the Central Kitchen, Jose Ann, to express his deep concern over the attack.
 
 ...
 
 [Data](articles/e81c14a6.json)
 
+[Extended Data](ext_articles/e81c14a6.ext.json)
+
 ---
 
-### කෙහෙළියගේ ඇප ඉල්ලීම ඉවතට
+### Keheliya's bail application removed
 
 *2024-04-03 14:14:00* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-ඇප-ඉල්ලීම-ඉවතට/11-408919) · `si`
 
-රිමාන්ඩ් භාරයට පත්කර සිටින තමන්ට ඇප ලබා දෙන ඉල්ලමින් හිටපු සෞඛය අමත්‍ය කෙහෙලිය රඹුක්වැල්ල මහතා ඉදිරිපත් කළ ඇප ඉල්ලීම කොළඹ මහාධිකරණය විසින් ප්‍රතික්ෂේප කරන ලදි.
+The Colombo High Court rejected Keheliya Rambukwella's bail application, remanding him for alleged government losses due to substandard medicine.
 
-කොළඹ මහාධිකරණ විනිසුරු දමිත් තොටවත්ත මහතා එම ඉල්ලීම ප්‍රතික්ෂේප කරමින් සඳහන් කළේ කෙහෙළිය රඹුක්වැල්ල මහතාට ඇප දීමට තරම් සුවිශේෂි කරණු ඉදිරිපත් කර නොමැති බවයි.
+🟩
 
-බාල බෙහෙත් හරහා රජයට කෝටි ගණනක පාඩුවක් හා රෝගී ජිවිත අනතුරේ දැමීමට අදාළව කෙහෙළිය රඹුක්වැල්ල මහතා මෙසේ රිමාන්ඩ් භාරයට පත්කර තිබේ.
+The Colombo High Court rejected the bail out of the former Health Minister Keheliya Rambukwella former Health Minister Remanded.
+
+Colombo High Court Judge Thatawatte rejected the request and did not submit specialized to Keheliya Rambukwella.
+
+Keheliya Rambukwella has been remanded in connection with the government with billions of losses to the government through substandard medicine.
 
 ◼️
 
 [Data](articles/3a8d25ce.json)
+
+[Extended Data](ext_articles/3a8d25ce.ext.json)
 
 ---
 
@@ -286,7 +342,11 @@ The Colombo High Court on Wednesday (03) rejected the revision application filed
 
 The order was delivered by High Court Judge Sujeewa Nissanka.
 
-◼️
+Legal counsels of Rambukwella, who is in currently remand custody in connection with his alleged complicity in the substandard human intravenous immunoglobulin (IVIG) procurement, had submitted the revision application to the high court on 15 March, after the Maligakanda Magistrate’s Court refused to release the accused on bail.
+
+In his bail application, filed through his legal counsels, Rambukwella claimed that the Maligakanda Magistrate’s decision to reject bail for him was unlawful. He also sought the High Court to release him on bail subject to any condition.
+
+...
 
 [Data](articles/3640d8e8.json)
 

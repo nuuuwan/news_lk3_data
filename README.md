@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 12:17:55**
+As of **2024-04-03 12:33:48**
 
 ## Newspaper Stats
 
-*Scraped **16,820** Articles*
+*Scraped **16,821** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,47 +20,85 @@ tamilmirrorlk | 2,006
 adaderanalk | 2,017
 virakesarilk | 2,419
 dailymirrorlk | 2,590
-adaderanasinhalalk | 2,718
+adaderanasinhalalk | 2,719
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,816 (100.0%) of 16,820 articles have been extended.
+16,820 (100.0%) of 16,821 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### குத்தகைக்கு வழங்க தீர்மானம்
+### ආරක්ෂක අමාත්‍යාංශයෙන් විශේෂ දැනුම්දීමක්
+
+*2024-04-03 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195244) · `si`
+
+‍ත්‍රිවිධ හමුදාවේ නිවාඩු නොමැතිව සේවයට වාර්තා නොකර සිටින හමුදා සාමාජිකයින්ට නිත්‍යානුකූලව සේවයෙන් ඉවත්වීම සඳහා පොදු සමා කාලයක් ප්‍රකාශයට පත් කර තිබේ.
+
+ආරක්ෂක අමාත්‍යාංශය සදහන් කළේ මේ මස 20 වැනිදා සිට මැයි මස 20 වැනිදා දක්වා මෙම පොදු සමා කාලය ප්‍රකාශයට පත් කර ඇති බවය.
+
+මෙම පොදු සමා කාලය තුළ සිය හමුදා මූලස්ථානය වෙත පැමිණ වාර්තා කරන හමුදා සාමාජිකයින් සඳහා නිත්‍යානුකූලව සේවයෙන් ඉවත්වීමට අවස්ථාව සැලසෙන අතර යම් පුද්ගලයෙකු විසින් කිසියම් මුදලක් හමුදාවට අය විය යුතුව තිබේ නම් එම මුදල් අයකර ගැනීම ද මෙහිදී සිදුකෙරෙයි.
+
+මෙම සමා කාලය අප්‍රේල් මස 02 වන දිනට පෙර නිවාඩු නොමැතිව නොපැමිණ සිටින අය සඳහා පමණක් අදාළ වන බව ආරක්ෂක අමාත්‍යාංශය සඳහන් කළේය.
+
+මීට අමතරව නිවාඩු නොමැතිව සේවයට වාර්තා නොකර සිටින දැනට විදේශගතව සිටින ත්‍රිවිධ හමුදා සාමාජිකයින් වෙත ද නැවත ඔවුන්ගේ ආදාළ ඒකකය වෙත වාර්තා කිරීමකින් තොරව පොදු සමා කාලයේ දී කොන්දේසි කිහිපයකට යටත්ව නිත්‍යානුකූලව සේවයෙන් ඉවත්වීමට අවස්ථාව සලසා දී තිබේ.
+
+◼️
+
+[Data](articles/f9aac47c.json)
+
+---
+
+### Resolution
 
 *2024-04-03 12:02:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குத்தகைக்கு-வழங்க-தீர்மானம்/175-335563) · `ta`
 
-இதன்படி, உள்நாட்டு மற்றும் வெளிநாட்டு முதலீட்டாளர்களிடமிருந்து அபிலாஷைகள் அழைக்கப்பட்டுள்ளதாக துறைமுகங்கள், கப்பல் போக்குவரத்து மற்றும் விமான சேவைகள் அமைச்சர்  நிமல் சிறிபால டிசில்வா தெரிவித்தார்.
+Minister Nimal Siripala DeSilva invites domestic and foreign investors for aspirations, plans further work post-selection, and submits Mattala Airport motion to Finance Ministry for observation regarding two Indian and Russian companies.
 
-பொருத்தமான முதலீட்டாளரைத் தெரிவு செய்த பின்னர் மேலதிக பணிகள் மேற்கொள்ளப்படும் என்றும் அமைச்சர் தெரிவித்தார்.
+🟩
 
-இதேவேளை, மத்தல விமான நிலையத்தின் செயற்பாடுகளை இந்தியா மற்றும் ரஷ்யாவில் உள்ள இரண்டு நிறுவனங்களுக்கு மாற்றுவதற்கான பிரேரணை நிதிஅமைச்சின் அவதானத்திற்காக சமர்ப்பிக்கப்பட்டுள்ளதாகவும் அமைச்சர் தெரிவித்தார்.
+According to the Minister of Ports, Shipping and Aviation, Nimal Siripala DeSilva, the aspirations have been invited from domestic and foreign investors.
+
+The Minister said that further work will be done after selecting the appropriate investor.
+
+Meanwhile, the Minister said that the motion of the Mattala Airport has been submitted to the Finance Ministry's observation for the transfer of two companies in India and Russia.
 
 ◼️
 
 [Data](articles/caef6123.json)
 
+[Extended Data](ext_articles/caef6123.ext.json)
+
 ---
 
-### ’’விசேட சரக்கு வரியை நீக்குவது விலைவாசி உயர்வை ஏற்படுத்தும்’’
+### Removal of special freight tax
 
 *2024-04-03 12:02:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-சரக்கு-வரியை-நீக்குவது-விலைவாசி-உயர்வை-ஏற்படுத்தும்/175-335562) · `ta`
 
-இலங்கை சுங்கத்தில் ஊழலைக் கட்டுப்படுத்தும் பொறிமுறை இல்லாத பட்சத்தில், இறக்குமதி செய்யப்பட்ட பொருட்களுக்கான விசேட சரக்கு வரியை நீக்குவது விலைவாசி உயர்வை ஏற்படுத்தும் என அத்தியாவசியப் பொருட்கள் இறக்குமதியாளர்கள் மற்றும் வர்த்தகர்கள் சங்கம் தெரிவித்துள்ளது.
+The Essential Importers and Traders Association warns that removing the special freight tax on imported goods in Sri Lanka could lead to higher prices due to corruption. The government plans to abolish this tax from January next year, a move that was initially imposed in 2007 to combat corruption. The association argues that this tax, which charges based on the value of goods, helps reduce corruption by making it more difficult for importers to bribe customs officials. The International Monetary Fund (IMF) has suggested replacing this tax to increase government revenue, but the association believes that advanced customs procedures will mitigate corruption.
 
-17 வருடங்கள் பழமையான வரிச் சட்டத்தை அடுத்த ஆண்டு ஜனவரி மாதம் முதல் நீக்குவதற்கு அமைச்சரவை தீர்மானித்துள்ளது.
+🟩
 
-பொருட்களை மதிப்பீடு செய்யும் போது பெறுமதி சேர் வரி மற்றும் பிற வரிகளை விதிக்கும்போது அதிகரித்த ஊழலின் பொருட்டு, அதன் உறுப்பினர்களால் 2007 ஆம் ஆண்டு கட்டாயத்தின் பேரில் இவ்வரி விதிக்கப்பட்டதாக சங்கத்தின் பேச்சாளர் ஒருவர் டெய்லி மிரருக்குத் தெரிவித்தார்.
+The Essential Importers and Traders Association said that if there is no mechanism to control corruption in Sri Lanka, the removal of special freight tax on imported goods will be a price hike.
+
+The Cabinet has decided to abolish the 17 -year -old tax law from January next year.
+
+A spokesperson of the association told Daily Mirror that it was imposed by its members in 2007 for the sake of increased corruption when assessing the items.
+
+“Then, the imported goods were rated for these charges to be imposed. Then, dishonest importers bribed the customs officials to lower their imported goods so that they could pay less on tax -basis. This has affected the real importers. So we asked the then government that this special freight tax should be imposed.
+
+It charges on the amount of imported goods and leads to lower corruption. When the value of the goods is charged, it can lead to corruption. ”
+
+He also said that the cost of imported goods consumed by the people can ensure stability.
 
 ...
 
 [Data](articles/ac09560c.json)
+
+[Extended Data](ext_articles/ac09560c.ext.json)
 
 ---
 
@@ -118,21 +156,27 @@ She also told us that the son's education cannot bear the education activities.
 
 ---
 
-### ”எழுத்துப் பரீட்சையின்றி செயன்முறைப் பரீட்சைக்குத் தோற்றலாம்”
+### "You can appear for the Examination without the writing exam"
 
 *2024-04-03 11:40:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எழுத்துப்-பரீட்சையின்றி-செயன்முறைப்-பரீட்சைக்குத்-தோற்றலாம்/175-335559) · `ta`
 
-பாடசாலை வீதிப் பாதுகாப்புச் சங்கத்தினால் வழங்கப்படும் சாரதி திறன் பதக்கத்தைப் பெறும் ஒவ்வொரு க.பொ.த உயர்தர மாணவர்களும், மோட்டார் போக்குவரத்து திணைக்களத்தினால் நடத்தப்படும் எழுத்துப் பரீட்சைக்குத் தோற்றாமலேயே செயன்முறைப் பரீட்சைக்குத் தோற்ற தகுதியுடையவர்கள் என போக்குவரத்து இராஜாங்க  அமைச்சர் லசந்த அழகியவன்ன தெரிவித்தார்.
+"GCE Advanced Level students with the Driver's Skills Medal can take the Department of Motor Transport's test without the writing exam. Medals will be awarded today, with additional points for Presidential Medal Group students. Supervised by school and regional officers."
 
-பாடசாலைகளில் வீதி பாதுகாப்பு மன்றங்கள் அமைத்து பதக்கங்கள் வழங்கும் நிகழ்ச்சி இன்று நடைமுறைப்படுத்தப்பட உள்ளது.இதில் ஆரம்பநிலை மாணவர்கள் முதல் உயர்தர மாணவர்கள் வரை பங்கேற்கலாம்.
+🟩
 
-பல்கலைக்கழகங்களுக்குத் தெரிவுசெய்யப்படும் ஏனைய மாணவர்களைக் காட்டிலும் இந்த ஜனாதிபதி பதக்க குழுவில் பணிபுரியும் மாணவர்களுக்கு அதிக புள்ளிகளை வழங்குவதற்கான அமைப்பையும் இந்த மன்றங்கள் அமைக்கும்.
+Minister of Transport Lasantha Alagavanna said that every GCE Advanced Level students who receive the Driver's Skills Medal awarded by the School Road Safety Association are eligible for the test examination conducted by the Department of Motor Transport.
 
-பாடசாலை மற்றும் பிரதேச மட்ட உத்தியோகத்தர்களின் மேற்பார்வையில் இந்தப் பதக்கங்களை வழங்கும் முறை நடைமுறைப்படுத்தப்பட உள்ளதாக அமைச்சர் மேலும் தெரிவித்தார்.
+Medals will be implemented today.
+
+These forums will also set up a set of more points to students working in the Presidential Medal Group than other students selected for universities.
+
+The Minister further stated that the medals will be implemented under the supervision of school and regional level officers.
 
 ◼️
 
 [Data](articles/23f5b353.json)
+
+[Extended Data](ext_articles/23f5b353.ext.json)
 
 ---
 
@@ -156,23 +200,29 @@ The money collected by President Ranil Wickremesinghe "for the President's Pales
 
 ---
 
-### கணவரை கைகழுவி  சிறுமியுடன் இளம்பெண்  திருமணம்
+### Teenager marrying her husband with a girl
 
 *2024-04-03 11:39:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவரை-கைகழுவி-சிறுமியுடன்-இளம்பெண்-திருமணம்/175-335558) · `ta`
 
-‛ஓரினச்சேர்க்கை' மோகத்தால் கணவரை விட்டுவிட்டு அவரது நெருங்கிய உறவுக்காரரின் மகளான 16 வயது சிறுமியை கடத்தி திருமணம் செய்து கணவன்-மனைவி போல் வாழ்ந்த 24 வயது இளம்பெண்ணை பொலிஸார் கைது செய்துள்ளனர்.
+A 24-year-old girl, living as a married couple with a 16-year-old girl, was arrested for abduction. The 27-year-old man, her husband, was from Umarki, near Kargon, Madhya Pradesh. The incident involved homosexuality and sexual harassment.
 
-மத்திய பிரதேச மாநிலம் கார்கோன் அருகே பாரூட் பொலிஸ் எல்லைக்குட்பட்ட உமர்காலி கிராமத்தை சேர்ந்தவர் 27 வயது இளைஞர். இவருக்கு கடந்த ஓராண்டுக்கு முன்பு திருமணம் நடந்தது. அந்த இளைஞர் 24 வயது இளம்பெண்ணை கரம் பிடித்தார்.
+🟩
 
-இந்நிலையில் தான் இளம்பெண்ணுக்கும், கணவருக்கு மிகவும் நெருங்கிய சொந்தக்காரரின் 16 வயது சிறுமிக்கும் பழக்கம் ஏற்பட்டது. இந்த பழக்கம் நாளடைவில் மிகவும் நெருக்கமாக மாறி உள்ளது.
+Police have arrested a 24-year-old girl who lived like a husband and wife, who abducted a 16-year-old girl, the daughter of her close relative.
 
-இதற்கிடையே தான் கடந்த பெப்ரவரி மாதம் 27 ம் திதி திடீரென்று திருமணமான இளம்பெண் மற்றும் 16 வயது சிறுமி ஆகியோர் மாயமாகினர்.
+A 27 -year -old youth belongs to the village of Umarki, a border of Barut police near Kargon, Madhya Pradesh. He got married a year ago. The young man took a 24 -year -old girl.
 
-அனைத்து இடங்களிலும் தேடியும் அவர்கள் கிடைக்கவில்லை. இதையடுத்து பொலிஸில் முறைப்பாடு செய்யப்பட்டது. பொலிஸார் வழக்குப்பதிவு செய்து இருவரையும் தீவிரமாக தேடிவந்தனர். இருவரும் மாயமாகி ஒரு மாதம் கடந்தாலும் கூட பொலிஸாரால் அவர்கள் 2 பேரையும் கண்டுப்பிடிக்க முடியவில்லை.
+This is the habit of a young girl and a 16 -year -old girl who is close to her husband. This habit has changed very closely.
+
+Meanwhile, last February 27, Tithi suddenly became a married young woman and a 16 -year -old girl.
+
+Searched everywhere and they are not available. Subsequently lodged a complaint with the police. The police filed a case and searched the two seriously. Even a month after the two of them, the police could not find them.
 
 ...
 
 [Data](articles/b8f0cda6.json)
+
+[Extended Data](ext_articles/b8f0cda6.ext.json)
 
 ---
 
@@ -1204,7 +1254,7 @@ Foreign and organizations representatives have shown that there are approximatel
 
 ---
 
-### Sri Lanka air passenger traffic up 40-pct to Feb
+### Sri Lanka air passenger traffic up 40-pct in Jan-Feb
 
 *2024-04-03 07:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-air-passenger-traffic-up-40-pct-to-feb-157263/) · `en`
 
@@ -2231,37 +2281,5 @@ The trade unions had previously announced plans for an indefinite strike startin
 [Data](articles/5fda830d.json)
 
 [Extended Data](ext_articles/5fda830d.ext.json)
-
----
-
-### Student who went to Jungle Beach with girlfriend disappeared
-
-*2024-04-02 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195226) · `si`
-
-A 17-year-old student, Patan, from Walahanduwa, Galle, disappeared after attending a course at a private higher education institute on March 18. He was last seen with his 21-year-old girlfriend at Jungle Beach, where they celebrated his birthday. The girlfriend claimed they fell into the sea, with him surviving but her not. Relatives suspect foul play, but no criminal charges have been filed.
-
-🟩
-
-His relatives say that a 17-year-old student who went to attend a course of a private higher education company has been disappeared for 15 days.
-
-The student had told the police that the student had been hit with his 21-year-old girl, but the relatives of the student have been suspected.
-
-Accordingly, a student named Patan, a resident of Walahanduwa, Galle has gone missing from March 18.
-
-He was told that he had left his home that morning at a course at a private higher education institute.
-
-It was later revealed that 17, 17, a 21-year-old woman, with his 21-year-old girl, went to Jungle Beach in the evening and the birthday was celebrated.
-
-The girl has said that the two of them fell into the sea at the time of the arrival of the Jungle Beach.
-
-She had told the police that he survived it, but she had sunk dropped.
-
-However, it is doubtful that the relatives of the Girlfriend has told the relatives who have complained to the police on several occasions.
-
-...
-
-[Data](articles/23ce2c8a.json)
-
-[Extended Data](ext_articles/23ce2c8a.ext.json)
 
 ---

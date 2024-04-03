@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 11:52:43**
+As of **2024-04-03 12:03:27**
 
 ## Newspaper Stats
 
-*Scraped **16,812** Articles*
+*Scraped **16,816** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ economynextcom | 927
 islandlk | 931
 adalk | 1,411
 tamilmirrorlk | 2,002
-adaderanalk | 2,016
-virakesarilk | 2,418
-dailymirrorlk | 2,589
-adaderanasinhalalk | 2,717
+adaderanalk | 2,017
+virakesarilk | 2,419
+dailymirrorlk | 2,590
+adaderanasinhalalk | 2,718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,800 (99.9%) of 16,812 articles have been extended.
+16,800 (99.9%) of 16,816 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### Three arrested activists including Lahiru, Duminda granted bail
+
+*2024-04-03 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98392/three-arrested-activists-including-lahiru-duminda-granted-bail) · `en`
+
+Three activists, who had been arrested during a recent protest march organized by the ‘Jana Aragala Vyaparaya’ (People’s Struggle Movement) were granted bail on the orders of Colombo Fort Magistrate’s Court on Wednesday (03).
+
+Accordingly, Frontline Socialist Party (FSP) activist Duminda Nagamuwa, youth activist Lahiru Weerasekara, and Ven. Rathkarawwe Jinarathana Thero have been released on bail conditions.
+
+The trio was taken into custody during a demonstration held on 20 March during which at least 05 police officers were injured during the clashes with protesters. It had been organized by the People’s Struggle Movement based on several issues including the soaring cost of living and certain foreign agreements the government intends to sign.
+
+Police had resorted to using tear gas and water cannons to disperse the protesters in Pettah, Colombo.
+
+◼️
+
+[Data](articles/1ecd8aa4.json)
+
+---
+
+### පිළිකාවකින් බැටකමින් දරුවන් 5 දෙනෙක් සමග හොරෙන් කඳුළු බොන ආම්මාගේ කතාව
+
+*2024-04-03 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195243) · `si`
+
+උගුරේ ඇතිවී ඇති දරුණු පිළිකාවක් හේතුවෙන් දුක් විඳිමින් සිය දරුවන් 5දෙනා ජීවත් කරවීමට වෙරදරන මවක් පිළිබඳ පුවතක් අනුරාධපුර දිස්ත්‍රික්කයේ ගල්නෑව ජන උදාන ගම්මානය වාර්තා විය.
+
+වසර ගණනාවක සිට තිබූ උගුරේ ආසාදනයක් පරීක්ෂා කිරීමේ දී එය පිළිකා රෝගි තත්ත්වයක් බවට හදුනාගෙන තිබුණි.
+
+එදා සිට මේ දක්වා දරුවන් පස්දෙනා ජීවත් කරවමින් ඒ අතරම ප්‍රතිකාරත් ලබා ගනිමින් සියලු දුක් කරදර වලට මූණ පාමින් ජීවිතයත් මරණයත් අතර සටන් කරන බව ඇය හැඬු කඳුළින් අප සමග සඳහන් කළාය.
+
+ජන උදාන ගම්මානය, අළුබද්ද ,  ගල්නෑව යන ලිපිනයේ පදිංචිව සිටින ඩබ්ලිව්.එම්. දිනේෂා කුමාරි වර්ණසුරිය, 36 හැවිරිදි ය.
+
+ඇයගේ සැමියා  වන  එච්.එම්. අජිත් කුමාර, කුලී වැඩකර අවශ්‍ය මුදල් සොයාගනී.
+
+එසේම ඇයගේ කුඩා දරුවන් දෙන්නා  තැලසීමියා රෝග වාහකයන් ලෙසද මේ වනවිට හඳුනාගෙන ඇති බව ඇය පැවසුවාය.
+
+මෙම නිවසේ ආහාර පිසීම නිවසේ සහ අනෙකුත් සියලු වැඩ කටයුතු කරන්නේ මෙවර උසස් පෙළ විභාගය සඳහා සූදානම්වන පවු‍ලේ වැඩිමහල් පුතා  සහ මෙවර සාමාන්‍ය පෙළ විභාගය සඳහා පෙනී සිටීමට සිටින දෙවැනි දුව බව මව හැඬු කඳුළින් අප සමග සඳහන් කළාය.
+
+...
+
+[Data](articles/4df5d23d.json)
+
+---
+
+### ஜனாதிபதியின் பலஸ்தீன சிறுவர் நிதியத்தை ஊக்கப்படுத்த முஸ்லிம் தலைவர்கள் முன்வராமை வருத்தமளிக்கிறது - ஐக்கிய சமாதான கூட்டமைப்பின் பொருளாளர்
+
+*2024-04-03 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/180314) · `ta`
+
+ஜனாதிபதியின் பலஸ்தீன சிறுவர் நிதியத்தை ஊக்கப்படுத்த முஸ்லிம் சமூக தலைவர்கள் முன்வராமை வருத்தமளிக்கிறது. பலஸ்தீன சிறார்கள் தொடர்பில் இவர்களுக்கு இருந்துவரும் கருணை இதன் மூலம் வெளிப்பட்டுள்ளது என ஜனாதிபதி ஆணைக்குழு முன்னாள் உறுப்பினரும் ஐக்கிய சமாதான கூட்டமைப்பின் பொருளாளருமான, ஐ.ஏ. கலீலுர் ரஹ்மான் தெரிவித்துள்ளார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் "ஜனாதிபதியின் பலஸ்தீன சிறுவர் நிதியத்திற்காக" சேகரிக்கப்பட்ட பணம் அண்மையில் உத்தியோகபூர்வமாக பலஸ்தீன மக்களுக்கு வழங்கப்பட்டது. இலங்கை முஸ்லிம்கள் என்ற வகையில் இந்த நிதியத்திற்கு வித்திட்ட ஜனாதிபதிக்கும், நிதி வழங்கிய மனிதாபிமானிகளுக்கும் எமது மனமார்ந்த நன்றிகளைத் தெரிவித்துக் கொள்கிறோம்
+
+...
+
+[Data](articles/3fdf0932.json)
+
+---
 
 ### ළහිරු, නාගමුව සහ ජිනරතන හිමිට අධිකරණය දුන් නියෝගය
 
@@ -41,6 +97,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/729bbfa2.json)
+
+---
+
+### Three Sri Lankan convicts in Rajiv Gandhi assassination case released from Tiruchi Special Camp
+
+*2024-04-03 11:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-Sri-Lankan-convicts-in-Rajiv-Gandhi-assassination-case-released-from-Tiruchi-Special-Camp/108-280100) · `en`
+
+TIRUCHI, April 3 (The Hindu)- Three Sri Lankan nationals convicted in the former Prime Minister Rajiv Gandhi assassination case — Murugan, Robert Payas and Jayakumar — who had been prematurely freed from prison and later detained at a special camp in Tiruchi, were released on April 2 at night.
+
+According to sources, upon the receipt of final clearance from the Ministry of Home Affairs to send them back to Sri Lanka, the Revenue Department which runs the Special Camp, released them.
+
+They were taken in a police vehicle, under heavy security, to Chennai to fly back Colombo. They are expected to board a Sri Lankan airline from Chennai airport at 10 a.m.
+
+The Sri Lankan authorities are said to have provided all the travel documents to Murugan, Robert Payas and Jayakumar.
+
+...
+
+[Data](articles/c64c3788.json)
 
 ---
 
@@ -970,7 +1044,7 @@ Foreign and organizations representatives have shown that there are approximatel
 
 ---
 
-### Sri Lanka air passenger traffic up 40-pct to Feb
+### Sri Lanka air passenger traffic up 40-pct in Jan-Feb
 
 *2024-04-03 07:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-air-passenger-traffic-up-40-pct-to-feb-157263/) · `en`
 
@@ -1348,9 +1422,9 @@ The Janatha Vimukthi Peramuna (JVP, the main party within the NPP) is known for 
 
 *2024-04-03 05:14:01* · [`dailyftlk`](https://www.ft.lk/columns/Election-on-shifting-sands/4-760228) · `en`
 
-“We too live in a time when political structures we inhabit are fluid and perhaps on the cusp of great and potentially dangerous changes.” – Richard Whatmore (The end of enlightenment)
+The meeting was Basil Rajapaksa’s way of telling President Wickremesinghe and his lotus-bud backers that the SLPP will not be Comet Ranil’s tail. Basil Rajapaksa wants a parliamentary election first. The only way to mitigate the SLPP’s impending defeat is gaining a handful of parliamentary seats, therewith some bargaining power. Having the presidential election first would not work as well for the SLPP. Even in the extremely unlikely event of Ranil Wickremesinghe winning, that victory will lift not the SLPP boat; only the UNP boat. Even in his current SLPP-dependent state, Ranil Wickremesinghe is no puppet of the Rajapaksas. A President Wickremesinghe with a popular mandate would be totally beyond not just Rajapaksa control but also Rajapaksa influence
 
-Namal Rajapaksa had his crowning as crown prince last week. The SLPP titled the Tangalle meeting, “Let’s begin the Battle from Hambantota”. Battle to return the Rajapaksas to power under a President Namal, if not in 2024, then in 2029; or someday. In the propaganda images, young Namal is foregrounded, kurahan shawl and all, against a backdrop of Mahinda and Basil Rajapaksa. The new trinity. The SLPP going through generational change. Torch of leadership passing from father and uncle to son/nephew. The SLPP is the only Lankan party founded to enthrone a family. It can renew itself only by staying the same.
+“We too live in a time when political structures we inhabit are fluid and perhaps on the cusp of great and potentially dangerous changes.” – Richard Whatmore (The end of enlightenment)
 
 ...
 
@@ -2109,99 +2183,5 @@ The health workers expanded their token strike launched on Monday (01) at five s
 [Data](articles/ec2b0f21.json)
 
 [Extended Data](ext_articles/ec2b0f21.ext.json)
-
----
-
-### Have Sri Lanka become more aggressive under De Silva’s captaincy?
-
-*2024-04-02 20:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Have-Sri-Lanka-become-more-aggressive-under-De-Silvas-captaincy/108-280051) · `en`
-
-Colombo, April 2 (Daily Mirror) - Sri Lanka were just three wickets away from claiming a comfortable 2-0 series win against Bangladesh at the end of fourth day's play in the ongoing second Test in Chattogram.
-
-Newly appointed Test captain Dhananjaya de Silva is on the verge of securing back to back series victories on a relatively decent pitches. Although Bangladesh and Afghanistan cannot be considered as top class teams such as Australia or India, they are no longer easy games.
-
-...
-
-[Data](articles/981f7603.json)
-
-[Extended Data](ext_articles/981f7603.ext.json)
-
----
-
-### Interim burn related to liquor licenses
-
-*2024-04-02 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195224) · `si`
-
-The Supreme Court issued an interim injunction preventing liquor license issuance, following a dispute involving the Liquor Licensing Licenshyan's Association. President's Counsel Sanjeewa Jayawardena argued that the licenses violated the Excise Act's basic needs. The court later released the suspects.
-
-🟩
-
-The Supreme Court today issued an interim injunction today, preventing liquor licenses in the Excise Act.
-
-The interim injunction has been issued to the Supreme Court under the aftermath of the Supreme Court following a few parties including the Liquor Licensing Licenshyan's Association.
-
-President's Counsel Sanjeewa Jayawardena, who appeared for the petitioner, and other lawyers accused the issuance of liquor license as the law of the courts.
-
-President's Counsel Jayawardene has pointed out that the issuance of certain licenses have violated even the basic needs of the Excise Rebuments.
-
-Accordingly, the President's Counsel, including the Presidential Attorneys and other lawyers had asked the court to issue the allocation of the Excise Act and regulations.
-
-The suspects were later released by the Supreme Court Bench.
-
-◼️
-
-[Data](articles/f30a4b70.json)
-
-[Extended Data](ext_articles/f30a4b70.ext.json)
-
----
-
-### Building expressways is a myth till debt restructuring process completed: Bandula
-
-*2024-04-02 20:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Building-expressways-is-a-myth-till-debt-restructuring-process-completed-Bandula/108-280050) · `en`
-
-Colombo, April 02 (Daily Mirror) - Cabinet spokesman and Minister Bandula Gunawardana said today that completing the expressway structure of the country has become a myth till the debt restructuring process is finalized.
-
-"Even I hope of completing the expressway system in the country as soon as possible. But we are unable to get loans until the debt restructuring process is finalized," he said.
-
-"We can only think of completing expressways after the debt restructuring process of the Road Development Authority (RDA) is completed," he further said.
-
-Moreover, he said there is no truth in handing over the daily operations and management of highways to a private company.
-
-The Ministry had approved the transfer of daily operations and management of expressways from the Road Development Authority (RDA) to a state-owned company called Sahasya Investments (SIL).
-
-SIL is a 100 percent state-owned company under the Treasury and the RDA.
-
-...
-
-[Data](articles/079adbc3.json)
-
-[Extended Data](ext_articles/079adbc3.ext.json)
-
----
-
-### Release from Trichy Special Camp: Murugan, Bayas, Jayakumar
-
-*2024-04-02 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180279) · `ta`
-
-Murugan, Bayas, and Jayakumar, released from Trichy Special Camp for Rajiv Gandhi's murder charge, will arrive at Katunayake airport tomorrow at 11.30 am. They were among 33 released from jail in 2022. Shantan, another involved, died last month.
-
-🟩
-
-Murugan, Robot Bayas and Jayakumar, who were detained at the Trichy special camp on Rajiv Gandhi's murder charge, will be brought to the country.
-
-It is reported that the trio will arrive at the Katunayake airport at 11.30 am tomorrow.
-
-In the Rajiv Gandhi assassination case, all those who were in jail for 33 years were released in the Trichy special camp after being released in 2022.
-
-In this, Shantan died last month. Subsequently his body was well -had been in Jaffna.
-
-In this case, the demand for the other three to be sent to Sri Lanka soon
-
-◼️
-
-[Data](articles/91102bc1.json)
-
-[Extended Data](ext_articles/91102bc1.ext.json)
 
 ---

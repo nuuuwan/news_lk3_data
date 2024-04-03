@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 12:33:48**
+As of **2024-04-03 12:50:09**
 
 ## Newspaper Stats
 
-*Scraped **16,821** Articles*
+*Scraped **16,826** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,112 @@ newsfirstlk | 363
 dailyftlk | 910
 economynextcom | 927
 islandlk | 931
-adalk | 1,411
+adalk | 1,412
 tamilmirrorlk | 2,006
 adaderanalk | 2,017
-virakesarilk | 2,419
-dailymirrorlk | 2,590
-adaderanasinhalalk | 2,719
+virakesarilk | 2,421
+dailymirrorlk | 2,591
+adaderanasinhalalk | 2,720
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,820 (100.0%) of 16,821 articles have been extended.
+16,821 (100.0%) of 16,826 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### ආරක්ෂක අමාත්‍යාංශයෙන් විශේෂ දැනුම්දීමක්
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-04-03 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180322) · `ta`
+
+இன்று புதன்கிழமை (ஏப்ரல் 03) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 295.2486 ஆகவும் விற்பனை விலை ரூபா 304.6043 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a400b52b.json)
+
+---
+
+### போதைப் பொருளுடன்  சந்தேக நபர்கள் இருவர் கைது
+
+*2024-04-03 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180301) · `ta`
+
+ஹோமாகம பொலிஸ் அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் நேற்று செவ்வாய்கிழமை (02) மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர்கள் இருவர் கைது செய்யப்பட்டுள்ளனர்.
+
+இவ்வாறு கைதுசெய்யப்பட்ட சந்தேக நபர்களில் ஒருவரிடமிருந்து 06 கிராம் 680 மில்லி கிராம் ஹெரோயின் போதைப் பொருளும், மற்றைய நபரிடமிருந்து 07 கிராம் 100 மில்லி கிராம் போதைப்பொருளும் கைப்பற்றப்பட்டுள்ளன.
+
+மேலும் கைதுசெய்த சந்தேக நபர்கள் வட பகுதியைச் சேர்ந்த 32 மற்றும் 38 வயதுடையவர்களாவர்.
+
+◼️
+
+[Data](articles/57260654.json)
+
+---
+
+### නීතිඥභාවය අත්හිටුවා රක්ෂිත බන්ධනාගාර ගත කළ ප්‍රියන්ත ඇප ඉල්ලයි
+
+*2024-04-03 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195245) · `si`
+
+අධිකරණයට අපහාස කළේ යැයි මේ වනවිට නීතිඥභාවය අත්හිටුවා රක්ෂිත බන්ධනාගාර ගත කර සිටින සුසිල් ප්‍රියන්ත ජයතුංග මහතාගේ ඇප ඉල්ලීම මැයි මස 05 වනදා  සලකාබලන බව ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
+
+මෙම පැමිණිල්ල අද එස්. තුරෙයිරාජා, කුමුදුනි වික්‍රමසිංහ සහ අචල වෙංගප්පූලි යන මහත්ම මහත්මීන්ගේ සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එම අවස්ථාවේදී අදාළ නීතිඥවරයා සඳහන් කළේ තමාගේ සමේ රෝග තත්ත්වය උත්සන්න වී ඇති බවත් එම නිසා, තමන්ව ඇප මත මුදා හරින ලෙසත් ය.
+
+එම අවස්ථාවේදී විනිසුරුවරු තුන්දෙනාම කියා සිටියේ තමන් මෙම නඩු විභාගයෙන් ඉවත්වන බවයි.
+
+වගඋත්තරකාර නීතිඥවරයාට අදාළ මානසික වෛද්‍ය පරීක්ෂණය අඛණ්ඩව සිදුකරන ලෙස විනිසුරු මඩුල්ල විසින් ජාතික මානසික වෛද්‍ය විද්‍යායතනයේ වෛද්‍යවරුන්ට නියම කළේය.
+
+ඉන් අනතුරුව මෙම පැමිණිල්ල ලබන 05 වනදා කැඳවන ලෙසත් නියෝග කෙරුණි.
+
+◼️
+
+[Data](articles/3c01065b.json)
+
+---
+
+### Special notice from the Ministry of Defense
 
 *2024-04-03 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195244) · `si`
 
-‍ත්‍රිවිධ හමුදාවේ නිවාඩු නොමැතිව සේවයට වාර්තා නොකර සිටින හමුදා සාමාජිකයින්ට නිත්‍යානුකූලව සේවයෙන් ඉවත්වීම සඳහා පොදු සමා කාලයක් ප්‍රකාශයට පත් කර තිබේ.
+The Ministry of Defense has published a list of military personnel who have not reported to work without leave from April 2 to May 20. During this period, those who return to their Army Headquarters can resign and recover their money. This applies only to those who were not on leave before April 2. Those unable to return to work without leave have been offered resignation under certain conditions.
 
-ආරක්ෂක අමාත්‍යාංශය සදහන් කළේ මේ මස 20 වැනිදා සිට මැයි මස 20 වැනිදා දක්වා මෙම පොදු සමා කාලය ප්‍රකාශයට පත් කර ඇති බවය.
+🟩
 
-මෙම පොදු සමා කාලය තුළ සිය හමුදා මූලස්ථානය වෙත පැමිණ වාර්තා කරන හමුදා සාමාජිකයින් සඳහා නිත්‍යානුකූලව සේවයෙන් ඉවත්වීමට අවස්ථාව සැලසෙන අතර යම් පුද්ගලයෙකු විසින් කිසියම් මුදලක් හමුදාවට අය විය යුතුව තිබේ නම් එම මුදල් අයකර ගැනීම ද මෙහිදී සිදුකෙරෙයි.
+Military personnel who have not reported to work without leave without leave without leave without leave have been published in the ministry.
 
-මෙම සමා කාලය අප්‍රේල් මස 02 වන දිනට පෙර නිවාඩු නොමැතිව නොපැමිණ සිටින අය සඳහා පමණක් අදාළ වන බව ආරක්ෂක අමාත්‍යාංශය සඳහන් කළේය.
+The Ministry of Defense stated that this public period has been published from the 20th to May 20.
 
-මීට අමතරව නිවාඩු නොමැතිව සේවයට වාර්තා නොකර සිටින දැනට විදේශගතව සිටින ත්‍රිවිධ හමුදා සාමාජිකයින් වෙත ද නැවත ඔවුන්ගේ ආදාළ ඒකකය වෙත වාර්තා කිරීමකින් තොරව පොදු සමා කාලයේ දී කොන්දේසි කිහිපයකට යටත්ව නිත්‍යානුකූලව සේවයෙන් ඉවත්වීමට අවස්ථාව සලසා දී තිබේ.
+During this public, the army headquarters will be able to return to his Army Headquarters and to resign into military personnel and recover the money.
+
+The school is only applicable to those who are not on the day without holidays before the date of April 2.
+
+In addition, the armed forces who have not been able to return to work without holidays have been given the opportunity to resign into several conditions under the period without reporting to their port.
 
 ◼️
 
 [Data](articles/f9aac47c.json)
+
+[Extended Data](ext_articles/f9aac47c.ext.json)
+
+---
+
+### Cardinal Ranjith never received prior warnings: Fr. Cyril Gamini
+
+*2024-04-03 12:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cardinal-Ranjith-never-received-prior-warnings-Fr-Cyril-Gamini/108-280101) · `en`
+
+Colombo, April 3 (Daily Mirror)- Archbishop of Colombo Cardinal Malcolm Ranjith never received any prior warnings on the Easter Sunday attacks, the Catholic Church in Sri Lanka said today.
+
+Church Spokesman Fr. Cyril Gamini Fernando, responding to a question raised by journalists at a media briefing said speculations that Cardinal Ranjith had received prior warnings of the Easter Sunday attacks were totally false.
+
+"The story that Cardinal Ranjith did not participate in an Easter service on the fateful year of 2019 is also false as he did hold an Easter Vigil on April 20, 2019. The Archbishop of Colombo traditionally participates in the Easter service on Saturday night and does not participate in any service on Easter Sunday," Fr. Fernando said.
+
+◼️
+
+[Data](articles/475013a7.json)
 
 ---
 
@@ -290,6 +362,20 @@ He has also announced that the United National Party will hold this year's May D
 
 ---
 
+### අපරාධ කල්ලි සාමාජිකයන් 7ක් අතර වයස 71 අයෙකුත්
+
+*2024-04-03 11:30:34* · [`adalk`](https://www.ada.lk/breaking_news/අපරාධ-කල්ලි-සාමාජිකයන්-7ක්-අතර-වයස-71-අයෙකුත්/11-408916) · `si`
+
+බස්නාහිර පළාත් උතුර අපරාධ කොට්ඨාසය හා කළුතර අපරාධ කොට්ඨාසයේ විශේෂ පොලිස් කණ්ඩායම් විසින් පසුගිය 02 දා සිදුකරණලද වැටලීම් වලදී සංවිධානාත්මක අපරාධ කල්ලි කණ්ඩායමකට සම්බන්ධ පුද්ගයන් 7 දෙනෙක් අත්අඩංගුවට ගෙන ඇත.  ඒ් අතර වයස අවුරුදු 71ක සැකකරුවකුද වෙයි. කළුතර අපරාධ කොට්ඨාසයේ නිලධාරීන් විසින් පානදුර පොලිස් වසමේ වැටලීමක් සිදුකර මොහුව අත්අඩංගුවට ගෙන ඇත.
+
+මෙම මෙහෙයුම ආරම්භ කරන ලද 2024.03.19 වන දන සිට 2024.04.02 වන දින දක්වා සමස්ථ සැකකරුවන් හා සැකකාරියන් 252 අත්තඅඩංගුවට ගෙන ඇති අතර, සංවිධානාත්මක අපරාධ සිදු කිරීම සඳහා සෘජුවම සහය දැක්වීම, අපරාධ සැලසුම් කිරීම හා එම අපරාධ වලට ආධාර අනුබල දීම ආදී විවිධාකාරයෙන් සහය ලබා දුන් සැකකරුවන් හා සැකකාරියන් ඒ අතර වෙයි.
+
+◼️
+
+[Data](articles/64f8f699.json)
+
+---
+
 ### Stalin clashes with Modi
 
 *2024-04-03 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180311) · `ta`
@@ -392,7 +478,7 @@ Three Sri Lankan nationals convicted in the former Indian Prime Minister Rajiv G
 
 According to sources, upon the receipt of final clearance from the Ministry of Home Affairs to send them back to Sri Lanka, the Revenue Department which runs the Special Camp, released them.
 
-They were taken in a police vehicle, under heavy security, to Chennai to fly back to Colombo. They are expected to board a Sri Lankan airline from Chennai airport at 10 a.m.
+They were taken in a police vehicle, under heavy security, to Chennai to fly back to Colombo. They were expected to board a Sri Lankan airline from Chennai airport at 10 a.m.
 
 The Sri Lankan authorities are said to have provided all the travel documents to Murugan, Robert Payas and Jayakumar.
 
@@ -2167,119 +2253,5 @@ Meanwhile, President Ranil Wickremesinghe said that he expected debt restructuri
 [Data](articles/26137064.json)
 
 [Extended Data](ext_articles/26137064.ext.json)
-
----
-
-### Sri Lanka to import 1,000 vehicles to improve tourism sector transportation
-
-*2024-04-02 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98383/sri-lanka-to-import-1000-vehicles-to-improve-tourism-sector-transportation) · `en`
-
-The government has decided to import a total of 1,000 buses and vans to improve the transportation facilities provided to tourists.
-
-Accordingly, in a bid to boost the tourism sector, the Cabinet of Ministers granted approval to a proposal presented by the Minister of Tourism and Lands to import 750 vans and 250 buses.
-
-As per the proposal, 6-15 seater vans, as well as 16-30 seater (small) buses and 30-45 seater (large) buses are planned to be imported, without any special tax relief.
-
-The government says that, although it is considered a custom in the tourist industry that vehicles engaged in the industry for tourist transportation should not be used for more than 6 years, it is apparent that the condition of the vehicles used in the industry is not satisfactory and sufficient.
-
-In a statement, it added that the fame earned by Sri Lanka as a prominent tourist destination is tarnished due to the usage of age-old vehicles as a result of the limitation of vehicles and essential spare parts.
-
-...
-
-[Data](articles/ec2147a4.json)
-
-[Extended Data](ext_articles/ec2147a4.ext.json)
-
----
-
-### The 2nd R20 Head-Trick recorded and made history;Ramanayake's advice is responsible for the achievement
-
-*2024-04-02 22:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180280) · `ta`
-
-Pariha Trisna, a Bangladesh player, achieved a historic milestone by recording the second head-trick in women's R20 international cricket, thanks to advice from Sampaka Ramanayake.
-
-🟩
-
-Bangladesh player Pariha Trisna made a history of taking wickets in the second women's international R20 cricket match held at the Mirpur and Shiyare Bangla National Stadium on Tuesday (02) against Australia.
-
-This is the second head-tick she registered in the Women's International T20 cricket matches. Pariha has achieved the historic record of being the first fast bowler to record 2 head-dricks in women's R20 international cricket.
-
-Pariha Trisna had recorded the first head-trip in the Women's International R20 cricket match held in Chillhead two years ago against Malaysia.
-
-Elis Perry, Sofi Molinox and Beth Mooney were the last 3 balls to lose Pariha.
-
-Pariha, who had been treated for about 6 months due to harassment, registered a head-drick on his return and received the praise of the small fans in the arena.
-
-Pariha had not participated in the competition for about 6 months due to a back case last October.
-
-...
-
-[Data](articles/60ce26d0.json)
-
-[Extended Data](ext_articles/60ce26d0.ext.json)
-
----
-
-### Sri Lanka tops best places for solo female travel in 2024
-
-*2024-04-02 22:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-tops-best-places-for-solo-female-travel-in-2024/108-280054) · `en`
-
-Sri Lanka has claimed the coveted title of the number one destination for solo female travelers in 2024, according to Timeout.com
-
-Solo female travel is on the rise, with a recent survey indicating that over half of Gen Z women are considering traveling abroad alone. With more women seeking adventure, cultural immersion, and memorable experiences, the question arises: where to go and what to know?
-
-Several countries are renowned for being safe and accommodating for solo female travelers, offering well-established backpacker routes, friendly locals, and opportunities for both social interaction and peaceful solitude. Among these destinations, Sri Lanka stands out as a top choice for solo female travelers in 2024.
-
-...
-
-[Data](articles/766c70dc.json)
-
-[Extended Data](ext_articles/766c70dc.ext.json)
-
----
-
-### Court denies Damitha's request
-
-*2024-04-02 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195227) · `si`
-
-The Court of Appeal denied Damitha Abeyratne's request for foreign employment under the Immigration and Emigration Act, rejecting her appeal against a cheating money case.
-
-🟩
-
-The Court of Appeal today decided to reject the issuance of the popular performance Damitha Abeyratne and her husband under the Immigration and Emigration Act.
-
-It is with regard to a case of cheating money that will be given foreign employment.
-
-Damitha Abeyratne has issued the order by a panel of judges to be heard by his lawyers to take a radical petition.
-
-The judges have been declared to hear the petitioners to hear the petition not issued by the arrest of the panel of judges.
-
-◼️
-
-[Data](articles/a05f3962.json)
-
-[Extended Data](ext_articles/a05f3962.ext.json)
-
----
-
-### Health strike called off
-
-*2024-04-02 21:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-strike-called-off/108-280053) · `en`
-
-Colombo, April 02- The ongoing trade union action initiated by health sector workers has been called off following constructive discussions held earlier today at the Presidential Secretariat.
-
-The decision to abort the indefinite strike comes after a meeting between representatives of the Health Trade Union Alliance and ministerial authorities yielded positive outcomes.
-
-Originally scheduled for Monday, the crucial discussion was deferred to today, leading to concerns of an impending indefinite strike by unions affiliated to the Health Trade Union Alliance.
-
-However, the meeting convened at the Presidential Secretariat earlier today concluded on a positive note, fostering agreement and understanding among the parties involved.
-
-The trade unions had previously announced plans for an indefinite strike starting tomorrow (03) in response to unresolved grievances.
-
-...
-
-[Data](articles/5fda830d.json)
-
-[Extended Data](ext_articles/5fda830d.ext.json)
 
 ---

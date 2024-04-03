@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 14:52:13**
+As of **2024-04-03 15:03:33**
 
 ## Newspaper Stats
 
-*Scraped **16,848** Articles*
+*Scraped **16,853** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,93 @@ dailyftlk | 910
 economynextcom | 927
 islandlk | 931
 adalk | 1,414
-tamilmirrorlk | 2,008
+tamilmirrorlk | 2,009
 adaderanalk | 2,020
 virakesarilk | 2,427
-dailymirrorlk | 2,592
+dailymirrorlk | 2,596
 adaderanasinhalalk | 2,725
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,844 (100.0%) of 16,848 articles have been extended.
+16,848 (100.0%) of 16,853 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### දමිතාට සහ සැමියාට විදෙස් ගමන් තහනමක්
+### முருகன் , பயஸ், ஜெயக்குமார்  மூவரிடமும் கடும் விசாரணை
+
+*2024-04-03 14:32:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முருகன்-பயஸ்-ஜெயக்குமார்-மூவரிடமும்-கடும்-விசாரணை/175-335567) · `ta`
+
+இந்தியாவின் முன்னாள் பிரதமர் ராஜீவ் காந்தி கொலை வழக்கில் கைது செய்யப்பட்டு, 33 வருடங்களின் பின்னர் விடுவிக்கப்பட்ட முருகன் றொபேர்ட் பயஸ் மற்றும் ஜெயக்குமார் ஆகிய மூவரும்   புதன்கிழமை (03) முற்பகல் 11.30 மணியளவில்  இலங்கையை வந்தடைந்துள்ளனர்.
+
+கொலை வழக்கில் கைது செய்யப்பட்டவர்களில் 07 பேர் 33 வருடங்களின் பின்னர் கடந்த 2022ஆம் ஆண்டு நவம்பர் மாதம் விடுதலை செய்யப்பட்டனர்.
+
+அவர்களில் மூவர் இந்தியாவை சேர்ந்தவர்கள் என்பதால் , அவர்கள் அவர்களின் உறவினர்களுடன் இணைக்கப்பட்டனர். ஏனைய நால்வர்கள் இலங்கையை சேர்ந்தவர்கள். அவர்கள் இலங்கை செல்வதற்கு ஆவணங்கள் இல்லை எனும் காரணத்தால்  திருச்சி சிறப்பு முகாமில் தடுத்து வைக்கப்பட்டிருந்தனர்.
+
+சுமார் ஒன்றை வருட காலமாக சிறப்பு முகாமில் தடுத்து வைக்கப்பட்டு இருந்த நால்வரில் சாந்தன் கடந்த சில வாரங்களுக்கு முன்னர் நோய்வாய்ப்பட்டு உயிரிழந்து இருந்தார்.
+
+எஞ்சிய மூவரையும் உயிருடன், உறவினர்களிடம் கையளிக்க வேண்டும் என இந்திய அரசுக்கு அழுத்தங்கள் ஏற்பட்டமையால்,   மூவரையும் இலங்கைக்கு அனுப்ப ஏற்பாடுகள் செய்யப்பட்ட நிலையில்  இன்றைய தினம் இலங்கையை வந்தடைந்துள்ளனர்.
+
+...
+
+[Data](articles/4aa3073a.json)
+
+---
+
+### Private medical practice under lens as complaints mount
+
+*2024-04-03 14:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Private-medical-practice-under-lens-as-complaints-mount/108-280114) · `en`
+
+Colombo, April 3 (Daily Mirror) - In light of a plethora of complaints over the proliferation of quacks and fake medical centres in Sri Lanka, the Health Ministry has decided to strictly securitize private medical practice.
+
+Speaking to Daily Mirror, Director General of Health Services Dr Asela Gunawardena said the decision to weed out the illegal practice of medicine was taken following a thorough study and a deluge of complaints pertaining to the private medical practice.
+
+“The matter was extensively discussed at the Private Health Regulatory Council where all the provincial directors were told to take the initiative by informing all the individuals engaged in private medical practice to get themselves registered,” he stated.
+
+“As such, it’s compulsory for all private medical practitioners and medical centres including laboratories to get themselves registered at the provincial level,” he pointed out.
+
+...
+
+[Data](articles/2810f20b.json)
+
+---
+
+### High Court refuses bail to Keheliya
+
+*2024-04-03 14:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/High-Court-refuses-bail-to-Keheliya/108-280113) · `en`
+
+The bail application filed on behalf of former Health Minister Keheliya Rambukwella, who is currently held in remand custody in connection with the alleged import of substandard Immunoglobulin injections, was today rejected by Colombo High Court Judge Sujeewa Nissanka.
+
+◼️
+
+[Data](articles/80ffc19a.json)
+
+---
+
+### Damitha and her husband banned
 
 *2024-04-03 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195251) · `si`
 
-ජනප්‍රිය රංගන ශිල්පිනී දමිතා අබේරත්න සහ ඇයගේ සැමියාට විදෙස් ගමන් තහනමක් පනවා තිබේ.
+Damitha Abeyratne and her husband banned from foreign travel by Fort Magistrate Thilina Gamage due to alleged money cheating. Court of Appeal refuses to issue them under Immigration and Emigration Act.
 
-කොළඹ කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා විසින් මෙම නියෝගය නිකුත් කර ඇත.
+🟩
 
-විදේශ රැකියා ලබාදෙන බව පවසා මුදල් වංචා කිරීමේ සිද්ධියක් සම්බන්ධයෙන් දමිතා අබේරත්න සහ ඇයගේ සැමියාට චෝදනා එල්ලවී තිබේ.
+Popular performance Damitha Abeyratne and her husband have banned a foreign travel.
 
-මේ අතර දමිතා අබේරත්න සහ ඇයගේ සැමියා ආගමන හා විගමන පනත යටතේ අත්අඩංගුවට ගැනීම වළක්වාලන අතුරු තහනම් නියෝගයක් නිකුත් කිරීම ප්‍රතික්ෂේප කිරීමට අභියාචනාධිකරණය ඊයේ (02) තීන්දු කර තිබුණි.
+The order has issued the order by Fort Magistrate Thilina Gamage.
+
+Damitha Abeyratne and her husband have been accused of cheating money that will be given foreign employment.
+
+Meanwhile, the Court of Appeal yesterday (2) has decided to refuse to issue Damitha Abeyratne and her husband to prevent her husband under the Immigration and Emigration Act.
 
 ◼️
 
 [Data](articles/941ec7d9.json)
+
+[Extended Data](ext_articles/941ec7d9.ext.json)
 
 ---
 
@@ -84,21 +140,29 @@ The order was delivered by High Court Judge Sujeewa Nissanka.
 
 [Data](articles/3640d8e8.json)
 
+[Extended Data](ext_articles/3640d8e8.ext.json)
+
 ---
 
-### තායිලන්තයේදී හංසනී ශ්‍රී ලංකා වාර්තාවක් අලුත් කරයි
+### Hansanni renews Sri Lanka in Thailand
 
 *2024-04-03 14:00:03* · [`adalk`](https://www.ada.lk/sports/තායිලන්තයේදී-හංසනී-ශ්‍රී-ලංකා-වාර්තාවක්-අලුත්-කරයි/9-408918) · `si`
 
-තායිලන්තයේ පැවැත්වෙන ලෝක ශූරතා බර ඉසිලීමේ තරගාවලියේදී කිලෝ ග්‍රෑම් 49 බර පංතියෙන් නව ශ්‍රී ලංකා වාර්තාවක් පිහිටුවීමට හංසනී ගෝමස් සමත්වූවාය.
+Hansanni Gomez sets a new Sri Lankan record in the heavyweight class at the World Weightlifting Championships in Thailand, lifting 76 kg in the Snatch.
 
-ඇය ස්නැච් ක්‍රමයට කිලෝග්‍රෑම් 76ක බරක් ඔසවමින් මෙසේ නව ජාතික වාර්තාවට හිමිකම් කීවාය.
+🟩
 
-ලෝක ශූරතා බර ඉසිලීමේ ශූරතා තරගාවලිය ඔලිම්පික් සුදුසුකම් ලැබීමේ තරගාවලියක් ලෙසද ක්‍රියාත්මක වේ.
+Hansan Gomez was established to set up a new Sri Lankan record with heavy weight class at the World Championship Weightlifting Championship in Thailand.
+
+She lifted up a loss of 76 kilograms to the Snatch.
+
+The Olympic Qualification Championships is also being implemented in the World Championships.
 
 ◼️
 
 [Data](articles/b5a72ecf.json)
+
+[Extended Data](ext_articles/b5a72ecf.ext.json)
 
 ---
 
@@ -137,6 +201,8 @@ On March 22, Sirisena, who was the incumbent when the coordinated bombings happe
 ...
 
 [Data](articles/ed47ff0e.json)
+
+[Extended Data](ext_articles/ed47ff0e.ext.json)
 
 ---
 
@@ -559,6 +625,22 @@ Church Spokesman Fr. Cyril Gamini Fernando, responding to a question raised by j
 [Data](articles/475013a7.json)
 
 [Extended Data](ext_articles/475013a7.ext.json)
+
+---
+
+### Cardinal Ranjith never received prior warnings: Fr. Cyril Gamini
+
+*2024-04-03 12:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Cardinal-Ranjith-never-received-prior-warnings-Fr-Cyril-Gamini/155-280101) · `en`
+
+Colombo, April 3 (Daily Mirror)- Archbishop of Colombo Cardinal Malcolm Ranjith never received any prior warnings on the Easter Sunday attacks, the Catholic Church in Sri Lanka said today.
+
+Church Spokesman Fr. Cyril Gamini Fernando, responding to a question raised by journalists at a media briefing said speculations that Cardinal Ranjith had received prior warnings of the Easter Sunday attacks were totally false.
+
+"The story that Cardinal Ranjith did not participate in an Easter service on the fateful year of 2019 is also false as he did hold an Easter Vigil on April 20, 2019. The Archbishop of Colombo traditionally participates in the Easter service on Saturday night and does not participate in any service on Easter Sunday," Fr. Fernando said.
+
+◼️
+
+[Data](articles/6c2303fe.json)
 
 ---
 
@@ -1846,6 +1928,22 @@ According to foreign media reports, a tsunami warning to Japan has issued a warn
 
 ### Corruption taints operations on drugs, underworld criminals
 
+*2024-04-03 06:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Corruption-taints-operations-on-drugs-underworld-criminals/108-280078) · `en`
+
+Colombo, April 3 (Daily Mirror) - In response to mounting concerns over reports of several police officers being in contact with leading drug lords, some of whom operate from overseas while others are imprisoned following recent crackdowns on underworld gangs, intelligence officers have been deployed to identify the police officers collaborating with organized criminals and drug traffickers with their assets to be probed, the Daily Mirror learns.
+
+Police have received information regarding certain officers being in touch with criminals in return for perks and large sums of cash as bribes. However, investigations are secretly underway to track them down.
+
+These rogue officers are accused of aiding criminal activity and taking undue advantage of their positions.
+
+...
+
+[Data](articles/8cfc6566.json)
+
+---
+
+### Corruption taints operations on drugs, underworld criminals
+
 *2024-04-03 06:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Corruption-taints-operations-on-drugs-underworld-criminals/155-280078) · `en`
 
 Colombo, April 3 (Daily Mirror) - In response to mounting concerns over reports of several police officers being in contact with leading drug lords, some of whom operate from overseas while others are imprisoned following recent crackdowns on underworld gangs, intelligence officers have been deployed to identify the police officers collaborating with organized criminals and drug traffickers with their assets to be probed, the Daily Mirror learns.
@@ -2142,7 +2240,9 @@ There is a salient point that needs to be emphasised. If the media reports about
 
 *2024-04-03 05:22:09* · [`dailyftlk`](https://www.ft.lk/columns/Countering-NPP-s-rise-Emerging-political-alliances-and-election-strategies/4-760229) · `en`
 
-Issues related to content such as defamation, harassment, misinformation, impersonation occur not only through online means but also through the use of other traditional means (electronic or print media). Hence, such things fall under cyber-enabled crimes. Sri Lanka has adequate laws for such cyber-enabled traditional crimes. If not, the relevant legislation should be amended accordingly. It is not appropriate to make separate laws for such crimes considering only internet media, and doing so becomes very suspicious. Hence, the objective of preparing the Online Safety Act itself is problematic
+The National People’s Power’s (NPP) current election campaign aiming for the presidential election has a strong momentum. The confident body language of its leadership is one indicator of this. Their rallies are well-attended and there appears to be a strong bottom-up support. The NPP’s seemingly growing electoral prospects have propelled it to being in the centre of political discourse, and this has led other political parties/factions to be on the defensive.
+
+The Janatha Vimukthi Peramuna (JVP, the main party within the NPP) is known for launching its election campaigns prematurely. This is why, despite their rallies being well-attended and their anti-establishment discourse being attractive to people in general, their popularity has not translated to votes, never having gone more than 5% at a general election so far. However, this trope may not hold as firmly this time.
 
 ...
 
@@ -2165,115 +2265,5 @@ The meeting was Basil Rajapaksa’s way of telling President Wickremesinghe and 
 [Data](articles/35e21c28.json)
 
 [Extended Data](ext_articles/35e21c28.ext.json)
-
----
-
-### Technical overview on Online Safety Act of Sri Lanka
-
-*2024-04-03 05:06:11* · [`dailyftlk`](https://www.ft.lk/columns/Technical-overview-on-Online-Safety-Act-of-Sri-Lanka/4-760226) · `en`
-
-This Online Safety Act will have a huge impact on the freedom of expression of Sri Lankan citizens
-
-In 2018, “EUROPOL” headquartered in Hague, Netherlands, a key organisation established to prevent and combat serious internationally organised crimes, cybercrime and terrorism, had clearly defined the difference between cyber-dependent crimes and cyber-enabled crimes. As defined by them, any crime that can only be committed using computers, computer networks or other forms of information communication technology was named as cyber-dependent crimes and traditional crimes facilitated by the Internet and digital technology were categorised as cyber-enabled crimes. So, there are two categories of cybercrimes and these definitions are internally accepted.
-
-...
-
-[Data](articles/289ff033.json)
-
-[Extended Data](ext_articles/289ff033.ext.json)
-
----
-
-### Sri Lanka Speaker dismisses role of foreign forces in 2022 protests-led regime change
-
-*2024-04-03 04:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-speaker-dismisses-role-of-foreign-forces-in-2022-protests-led-regime-change-157248/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Parliament Speaker Mahinda Yapa Abeywardana dismissed possible role of foreign forces in the mass protests-led government change in 2022 when the post of president fell vacant after former President Gotabaya Rajapaksa fled the country fearing for his life.
-
-The Speaker stated this when responding to a request from opposition parliamentarian Wimal Weerawansa to have two-day parliament debate and appoint a parliament committee to find out who were behind the protests, popularly known as Aragalaya and what were their motives.
-
-“I have no information to say that it happened due to international forces,” Abeywardana told the parliament on Tuesday (02).
-
-“I did not see a threat that you mentioned. I only saw a threat where they all came here (to the parliament) and threatened our lives,” he said referring to hundreds of local protesters including “Buddhist monks and other religious leaders”.
-
-...
-
-[Data](articles/3eb0089c.json)
-
-[Extended Data](ext_articles/3eb0089c.ext.json)
-
----
-
-### New law for solving family violence
-
-*2024-04-03 03:58:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்ப-வன்முறைகளைத்-தீர்பதற்கு-புதிய-சட்டம்/175-335544) · `ta`
-
-The Cabinet has approved a new bill to amend the Family Violence Act, aiming to strengthen women's rights. The bill, published in the Gazette, will be presented to Parliament. It includes provisions from the National Women's Commission and has been discussed by Parliament members and the World Bank. Amendments, if any, will be submitted after Gazette Notification.
-
-🟩
-
-Minister of State for Women and Child Affairs Geeta Kumarasinghe said that the Cabinet approval has been granted to amend the current Family Violence Act and bring a new bill to Parliament.
-
-He said this while attending a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-Cabinet approval was issued for the Bill to strengthen women and published in the Gazette on 03.07.2024. It will soon be presented in Parliament and the provisions of the National Women's Commission have been embraced.
-
-The Union of Parliament and Members of Parliament held a discussion on the Bill to strengthen women in Parliament on 20.03.2024. The President's Office, the Attorney General's Department and the Department of Law Draftsman were also present at the discussion.
-
-...
-
-[Data](articles/ffe03fee.json)
-
-[Extended Data](ext_articles/ffe03fee.ext.json)
-
----
-
-### Solution to the problems of Muslim schools
-
-*2024-04-03 03:47:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-பாடசாலைகளின்-பிரச்சினைகளுக்கு-தீர்வு/175-335543) · `ta`
-
-President Ranil Wickremesinghe addresses Muslim school issues in Colombo, highlighting teacher shortage, classroom deficit, and lack of Sinhala teaching. He advises training for qualified individuals.
-
-🟩
-
-President Ranil Wickremesinghe said that the problems of Muslim schools from the Colombo Zone should be searched and resolved soon.
-
-President Ranil Wickremesinghe made the announcement at a discussion held at the Presidential Secretariat yesterday regarding the educational issues facing Muslim schools in Colombo.
-
-External Affairs Minister Ali Sabri and representatives of schools and organizations have spoken to the President on the issues facing Muslim schools in Colombo.
-
-The shortage of teachers, the shortage of the classrooms, the lack of teaching teaching in Sinhala, and the lack of schools in Muslims living in Muslims.
-
-About 40 thousand students study by Sinhala. The issue of students faced by the lack of teacher to teach them the lesson of Islam was examined here.
-
-...
-
-[Data](articles/e88c12e1.json)
-
-[Extended Data](ext_articles/e88c12e1.ext.json)
-
----
-
-### Murugan, Robot, Jayakumar returning to Sri Lanka today
-
-*2024-04-03 03:33:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இலங்கை-திரும்பும்-முருகன்-ரொபட்-ஜெயக்குமார்/175-335542) · `ta`
-
-Murugan, Robot, Jayakumar, detained in Trichy after 2022 release in Rajiv Gandhi case, are returning to Sri Lanka today, arriving at Katunayake airport at 11.30 am.
-
-🟩
-
-இந்தியாவின் முன்னாள் பிரதமர் ராஜீவ் காந்தி கொலைக் குற்றச்சாட்டில் கைதாகிப் பல ஆண்டுகள் சிறையில் அடைக்கப்பட்ட பின்னர் நீதிமன்றத்தால் விடுவிக்கப்பட்ட  முருகன், ரொபட் பயஸ் மற்றும் ஜெயக்குமார் ஆகியோர் இன்று இலங்கைக்கு அழைத்து வரப்படுகின்றனர்.
-
-The three of them will arrive at the Katunayake airport at 11.30 am today.
-
-They were detained at the Trichy special camp after being released in 2022 in the Rajiv Gandhi assassination case.
-
-In this case, the demand for them to be sent to Sri Lanka soon, the trio will be brought to Sri Lanka today.. (A)
-
-◼️
-
-[Data](articles/1fb38941.json)
-
-[Extended Data](ext_articles/1fb38941.ext.json)
 
 ---

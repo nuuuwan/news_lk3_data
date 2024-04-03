@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 19:50:55**
+As of **2024-04-03 20:03:14**
 
 ## Newspaper Stats
 
-*Scraped **16,930** Articles*
+*Scraped **16,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,44 +15,108 @@ newsfirstlk | 363
 dailyftlk | 910
 islandlk | 931
 economynextcom | 940
-adalk | 1,422
+adalk | 1,424
 tamilmirrorlk | 2,016
 adaderanalk | 2,030
-virakesarilk | 2,444
-dailymirrorlk | 2,602
-adaderanasinhalalk | 2,739
+virakesarilk | 2,446
+dailymirrorlk | 2,603
+adaderanasinhalalk | 2,740
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,926 (100.0%) of 16,930 articles have been extended.
+16,930 (100.0%) of 16,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### බිරිඳ විසින් බීමත් සැමියාට දුන් අමානුෂික දඬුවම
+### பிரதான பாதையில் ரயில் தடம்புரண்டதால் போக்குவரத்துக்கு பாதிப்பு
+
+*2024-04-03 19:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180365) · `ta`
+
+கொழும்பு கோட்டை ரயில் நிலையத்திலிருந்து புதன்கிழமை (03) மாலை 6.05 மணியளவில் மஹவ நோக்கி பயணித்த அதிவேக ரயில்  மருதானை மற்றும் தெமட்டகொட  ரயில் நிலையங்களுக்கு இடையில் தடம்புரண்டுள்ளது.
+
+◼️
+
+[Data](articles/25572210.json)
+
+---
+
+### Rajiv Gandhi assassination case: 3 ex-convicts return to Sri Lanka
+
+*2024-04-03 19:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rajiv-Gandhi-assassination-case-3-ex-convicts-return-to-Sri-Lanka/108-280120) · `en`
+
+Colombo, April 3 (PTI) - Three Sri Lankan nationals, who were ex-convicts in former Prime Minister Rajiv Gandhi’s assassination case returned to their native country on Wednesday after serving their jail term.
+
+Rajiv Gandhi was killed by a suicide bomber of the banned LTTE nearby Sriperumbudur on May 21, 1991.
+
+The three ex-convicts in the case who returned back to Sri Lanka included Murugan alias Sriharan, Jayakumar and Robert Payas. They left for their native country by a Sri Lankan carrier, PTI reported.
+
+The three Sri Lankans were among the seven convicts in the case freed by the Supreme Court in November 2022.
+
+Following their release, they were lodged in a special camp in Tiruchirappalli. They arrived in Chennai last night and left for Colombo today.
+
+Earlier, the Tamil Nadu government had informed the Madras High Court they could travel back home once the Foreigners Regional Registration Office (FRRO) issued a deportation order.
+
+...
+
+[Data](articles/63256a41.json)
+
+---
+
+### ලෝක කුසලාන අවසන් මහා තරගයේ සිදුවූ බරපතළ වරදක් එළියට
+
+*2024-04-03 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195269) · `si`
+
+දැඩි මතභේදයට තුඩුදුන් එංගලන්තයේදී පැවති 2019 එක්දින ලෝක කුසලාන අවසන් මහ තරගයේ නවසීලන්තයට හිමිවීමට තිබූ ජයග්‍රහණය, එංගලන්තයට හිමිවීමට තරගය අවසානයේ සිදුවූ බරපතළ අත්වැරැද්දක් හේතු වූ බව එම තරගයේ පිටියේ විනිසුරුවරයෙක් ලෙස කටයුතු කළ Marais Erasmus වසර 5කට පසුව අනාවරණය කර තිබේ.
+
+ඔහු මේ බව සඳහන් කර ඇත්තේ එංගලන්ත ටෙලිග්‍රාෆ් පුවත්පතට ලබාදුන් සම්මුඛ සාකච්ඡාවකදීය.
+
+2019 වසරේ එංගලන්තයේදී පැවති එක්දින ලෝක කුසලාන අවසන් මහ තරගයට සුදුසුකම් ලබාගත්තේ සත්කාරක එංගලන්තය සහ නවසීලන්තයයි.
+
+එංගලන්තයේ ලෝඩ්ස් පිටියේදී පැවති තරගයේ පළමුව පන්දුවට පහරදුන් නවසීලන්ත කණ්ඩායම නියමිත පන්දුවර 50 අවසානයේ කඩුලු 8ක් දැවී ලකුණු 241ක් ලබා ගත්තේය.
+
+ලකුණු 242ක ජයග්‍රහී ඉලක්කයක් හඹාගිය එංගලන්ත කණ්ඩායමට අවසන් පන්දු තුනේදී හිමි වු ඉලක්කය ලකුණු 9කි.
+
+අවසන් පන්දුවාරයේ සිව්වන පන්දුවට මුහුණදුන් බෙන් ස්ටෝක්ස් මිඩ්විකට් කලාපයට පහරක් එල්ල කරමින් ලකුණු 2ක් කරා පැති මාරු කරගනිද්දී පන්දුව රැකගත් නවසීලන්ත ක්‍රිඩක මාර්ටින් ගප්ටිල් පන්දුව කඩුලු රකින්නා වෙත යොමුකළේය.
+
+ගප්ටිල් යොමුකළ එම පන්දුව බෙන් ස්ටෝක්ස්ගේ පිත්තේ වැදී හතරේ සීමාව කරා ඇඳි ගියේය.
+
+...
+
+[Data](articles/f41ed8b3.json)
+
+---
+
+### The brine punishment given to the drunken husband by his wife
 
 *2024-04-03 19:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195268) · `si`
 
-බීමතින් නිවසට පැමිණි පුද්ගලයෙකු බිරිඳගේ පහරදීමකින් මියයෑමේ පුවතක් මාතර වැලිගම ප්‍රෙද්ශයෙන් වාර්තාවෙයි.
+A drunken man from Weligama, Matara, attacked his wife, leading to her death. He was taken into custody for being drunk and assaulting his wife. The police suspect he was killed by a rope tied around his neck. His wife has been arrested by the Weligama Police.
 
-මාතර, වැලිගම, කොස්ගහහේන ප්‍රදේශයේ පදිංචි ඔහු ඊයේ රාත්‍රියේ සිය නිවසට පැමිණ තිබුණේ දැඩි ලෙස බීමත්වය.
+🟩
 
-මත්පැන් භාවිතයට ඇබ්බැහි වී සිටි ඔහු නිතර බීමත්ව පැමිණ සිය බිරිඳට පහරදීම හේතුවෙන් නිවසේ නිරන්තරයෙන් ගැටුම්ද හටගෙන තිබේ.
+A person who has come to drunk into the house has died from the Weligama area in Matara.
 
-ඔහු ඊයේ රාත්‍රියේද බීමත්ව පැමිණ බිරිඳට පහරදීමට උත්සාහ කර ඇති අතර, එහිදී බිරිඳ අවට හිතවතුන් කිහිපදෙනෙකු හා එක්ව සිය සැමියා නිවස ඉදිරිපස කණුවක ගැටගසා තිබුණි.
+A resident of Weligama, Matara, he had come to his home last night.
 
-පසුව බිරිඳ ඇතුළු පිරිස ඔහුට පහරදී ඇති අතර, එලෙස පහරදීමේදී සිහිසුන්වීම හේතුවෙන් වැලිගම රෝහල වෙත ඇතුළත්කර තිබුණද ඒ වනවිටත් ඔහු මියගොස් සිටි බව වාර්තා වෙයි.
+He was consistently taken into custody and was taken into custody as he was drunk and was drunk and attacked his wife.
 
-පොලිසිය සැක පළකරන්නේ ගැටගසා තිබූ ලණුව ගෙලෙහි සිරවීමෙන් මරණය සිදුවන්නට ඇති බවටය.
+He had been drunk and tried to attack his wife last night, and in collaborating her husband in front of his wife.
 
-සිද්ධිය සම්බන්ධයෙන් මියගිය පුද්ගලයාගේ බිරිඳ වැලිගම පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The wife and others were assaulted and he was admitted to the Weligama Hospital, even though he was unconscious.
+
+The police suspect that it was imprisoned by the stuck in the rope that was tied.
+
+Weligama Police have arrested the deceased person's wife.
 
 ◼️
 
 [Data](articles/91ede276.json)
+
+[Extended Data](ext_articles/91ede276.ext.json)
 
 ---
 
@@ -67,6 +131,28 @@ The Railway Department said a train heading towards Maho has derailed in this ma
 ◼️
 
 [Data](articles/4840ed27.json)
+
+[Extended Data](ext_articles/4840ed27.ext.json)
+
+---
+
+### பங்களாதேஷுடனான தொடர் வெற்றியை அடுத்து ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப்பில் பாகிஸ்தானை பின்தள்ளியது இலங்கை
+
+*2024-04-03 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180364) · `ta`
+
+சட்டோக்ராமில் நடைபெற்ற இரண்டாவது டெஸ்ட் கிரிக்கெட் போட்டியில் பங்களாதேஷை 192 ஓட்டங்களால் வெற்றிகொண்டு தொடரை 2 - 0 என முழுமையாக கைப்பற்றிய  இலங்கை, ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப்புக்கான அணிகள் நிலையில் பாகிஸ்தானை பின்தள்ளி 4ஆம் இடத்துக்கு முன்னேறியுள்ளது.
+
+இரண்டாவது போட்டியில் வெற்றிபெற்றதன் மூலம் மேலும் 12 வெற்றிப் புள்ளிகளை ஈட்டிய இலங்கை, இதுவரை 2 வெற்றிகளுடன் 24 வெற்றிப் புள்ளிகளை ஈட்டி 50.00 சதவீத புள்ளிகளுடன் 3 இடங்கள் தாவி 4ஆம் இடத்தை அடைந்துள்ளது.
+
+இதனை அடுத்து 2025இல் நடைபெறவுள்ள ஐசிசி உலக டெஸ்ட் சாம்பியன்ஷிப் இறுதிப் போட்டிக்கு முன்னேறுவதற்கான வாய்ப்பை இலங்கை சற்று அதிரித்துக்கொண்டுள்ளது.
+
+ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப் அணிகள் நிலையில் இந்தியா (68.15%), அவுஸ்திரேலியா (62.50%), நியூஸிலாந்து (50.00%) முதல் 3 இடங்களில் இருக்கின்றன.
+
+2023-2025 ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப் சுழற்சியில் தற்போதைய வெற்றியுடன் பெரு உற்சாகம் அடைந்துள்ள இலங்கை, எதிர்வரும் ஆகஸ்ட் மாதம் ஆரம்பமாகவுள்ள இங்கிலாந்துக்கு எதிரான 3 போட்டிகள் கொண்ட  தொடரை நம்பிக்கையுடன் எதிர்கொள்ளவுள்ளது.
+
+...
+
+[Data](articles/afb7286a.json)
 
 ---
 
@@ -159,6 +245,42 @@ Therefore, the railway services on the main line have been disrupted.
 ◼️
 
 [Data](articles/6dba177b.json)
+
+[Extended Data](ext_articles/6dba177b.ext.json)
+
+---
+
+### ගෘහස්ථ ප්‍රචණ්ඩත්වය වැළැක්වීමට නව පනතක්
+
+*2024-04-03 18:59:23* · [`adalk`](https://www.ada.lk/breaking_news/ගෘහස්ථ-ප්‍රචණ්ඩත්වය-වැළැක්වීමට-නව-පනතක්/11-408929) · `si`
+
+ගෘහස්ථ ප්‍රචණ්ඩත්වය වැළැක්වීමේ වත්මන් පනත සංශෝධනය කර, නව පනත් කෙටුම්පතක් පාර්ලිමේන්තුවට ගෙන ඒම සඳහා අමාත්‍ය මණ්ඩල අනුමැතිය හිමි වූ බව කාන්තා හා ළමා කටයුතු රාජ්‍ය අමාත්‍ය ගීතා කුමාරසිංහ මහත්මිය පැවසුවාය.
+
+එසේම මේ වන විටත් ගැසට් කර තිබෙන කාන්තාවන් සවිබලගැන්වීමේ පනත් කෙටුම්පත පාර්ලිමේන්තුවේ සභාගත කිරීමෙන් පසු ජාතික කාන්තා කොමිසම පිහිටුවීමට අවස්ථාව හිමි වන බව ද රාජ්‍ය අමාත්‍යවරිය සඳහන් කළාය.
+
+කාන්තා හා ළමා කටයුතු රාජ්‍ය අමාත්‍ය ගීතා කුමාරසිංහ මහත්මිය මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන්  ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+"කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පත සඳහා 2024.03.04 වනදා අමාත්‍ය මණ්ඩල අනුමැතිය හිමි වුණා. ඒ අනුව 2024.03.07 දින එම පනත් කෙටුම්පත ගැසට් පත්‍රයේ පළ කළා. එය ඉදිරියේ දී පාර්ලිමේන්තුවේ සභාගත කිරීමට නියමිතයි. ජාතික කාන්තා කොමිසම පිහිටුවීමට අදාල ප්‍රතිපාදන මෙම පනත තුළ අන්තර්ගත වී තිබෙනවා.
+
+...
+
+[Data](articles/6f093399.json)
+
+---
+
+### ’කාන්තාවකට තනිව සංචාරය කළ හැකි හොඳම රට ලංකාවයි’
+
+*2024-04-03 18:36:24* · [`adalk`](https://www.ada.lk/breaking_news/’කාන්තාවකට-තනිව-සංචාරය-කළ-හැකි-හොඳම-රට-ලංකාවයි’/11-408928) · `si`
+
+මෑත කාලීන සමීක්ෂණයකට අනුව, Gen Z කාන්තාවන්ගෙන් අඩකට වඩා වැඩි ප්‍රමාණයක් තනිවම සංචාරය වීමට සලකා බලන අතර ඒ අනුව ඔවුන්ට වඩාත් ආරක්ෂිතව තනිව සංචාරය කිරීමට සුදුසුම රට බවට ශ්‍රී ලංකාව නම්කර තිබේ.
+
+ටයිම් අවුට් සඟරාව මෙසේ ශ්‍රී ලංකාව අංක එකට නිර්දේශ කර තිබේ. කරුනු කිහිපයක් සලකා බැලීමෙන් අනතුරුව ශ්‍රී ලංකාව අංක එකට නම් කර තිබේ. ඔවුන් තනිව සංචාරය කිරීමට කැමති කාන්තාවන් සඳහා රටවල් 9ක් නිර්දේශ කර තිබේ.
+
+මෙහිදී පෘතුගාලය, චෙක් ජනරජය, ජපානය, ග්වාතමාලාව, වියට්නාමය, ඔස්ට්‍රේලියාව, ග්‍රීසිය හා නවසීලන්තය අංක දෙකේ සිට 9 දක්වා ශ්‍රේණිගත කර තිබේ.
+
+◼️
+
+[Data](articles/a7f417af.json)
 
 ---
 
@@ -961,6 +1083,8 @@ In a motion before Magistrate Lochani Abeywickrema, a lawyer representing former
 ...
 
 [Data](articles/74821c78.json)
+
+[Extended Data](ext_articles/74821c78.ext.json)
 
 ---
 
@@ -2173,143 +2297,5 @@ The suspects were also aged 32 and 38 from the North.
 [Data](articles/57260654.json)
 
 [Extended Data](ext_articles/57260654.ext.json)
-
----
-
-### Priyani bail bail out suspended
-
-*2024-04-03 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195245) · `si`
-
-The Supreme Court suspends Susil Priyantha Jayatunga's bail, citing worsening skin conditions. Judges Thurairaja, Kumudani Wickremasinghe, and Achala Weddafoli ordered further psychiatric examinations by doctors from the National Mental Medical Institute. The case is set to resume on the 5th.
-
-🟩
-
-The Supreme Court has set the bail of Susil Priyantha Jayatunga who has been suspended to be suspended by the lawyers.
-
-This complaint is today. The three-member judges of the Supreme Court Judge of Thurairaja and Kumudani Wickremasinghe and Achala Weddafoli were called.
-
-The lawyer stated at the occasion, he has intensified the condition of his skin and he is released on bail.
-
-The three judges said that they would leave the trial.
-
-The panel of judges sentenced the doctors of the National Mental Medical Institute to continue the psychiatric examination related to the respondents.
-
-The complaint was then ordered to be summoned on the 5th.
-
-◼️
-
-[Data](articles/3c01065b.json)
-
-[Extended Data](ext_articles/3c01065b.ext.json)
-
----
-
-### Special notice from the Ministry of Defense
-
-*2024-04-03 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195244) · `si`
-
-The Ministry of Defense has published a list of military personnel who have not reported to work without leave from April 2 to May 20. During this period, those who return to their Army Headquarters can resign and recover their money. This applies only to those who were not on leave before April 2. Those unable to return to work without leave have been offered resignation under certain conditions.
-
-🟩
-
-Military personnel who have not reported to work without leave without leave without leave without leave have been published in the ministry.
-
-The Ministry of Defense stated that this public period has been published from the 20th to May 20.
-
-During this public, the army headquarters will be able to return to his Army Headquarters and to resign into military personnel and recover the money.
-
-The school is only applicable to those who are not on the day without holidays before the date of April 2.
-
-In addition, the armed forces who have not been able to return to work without holidays have been given the opportunity to resign into several conditions under the period without reporting to their port.
-
-◼️
-
-[Data](articles/f9aac47c.json)
-
-[Extended Data](ext_articles/f9aac47c.ext.json)
-
----
-
-### Sri Lanka easily conquers the second Test
-
-*2024-04-03 12:08:13* · [`adalk`](https://www.ada.lk/sports/දෙවැනි-ටෙස්ට්-තරගයත්-ලංකාව-පහසුවෙන්ම-ජයගනී/9-408917) · `si`
-
-Sri Lanka won the 2nd Test against Bangladesh by 192 runs, with Sri Lanka scoring 531 in the first innings and Bangladesh 318. Kamindu Mendis took 92 runs and 3 wickets for Sri Lanka, while the Commissioner took 367 runs and 3 wickets.
-
-🟩
-
-The Sri Lanka team won the second Test between the two countries by defeating the Host Bangladesh by 192 runs.
-
-The Bangladesh team who was chasing 511 target in Sri Lanka were bowled out for 318 runs.
-
-Sri Lanka scored 531 runs in their first innings, and the answer was only 178 runs in Bangladesh. Bangladesh scored 157 runs for the loss of 15 runs in their second innings.
-
-In answering that, Bangladesh was able to score only 318 runs. Kamindu Mendis won the man of the match award for 92 runs and three wickets.
-
-At the same time, 367 runs and three wickets were severely brokened by the Commissioner.
-
-◼️
-
-[Data](articles/79ec8289.json)
-
-[Extended Data](ext_articles/79ec8289.ext.json)
-
----
-
-### Cardinal Ranjith never received prior warnings: Fr. Cyril Gamini
-
-*2024-04-03 12:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cardinal-Ranjith-never-received-prior-warnings-Fr-Cyril-Gamini/108-280101) · `en`
-
-Colombo, April 3 (Daily Mirror)- Archbishop of Colombo Cardinal Malcolm Ranjith never received any prior warnings on the Easter Sunday attacks, the Catholic Church in Sri Lanka said today.
-
-Church Spokesman Fr. Cyril Gamini Fernando, responding to a question raised by journalists at a media briefing said speculations that Cardinal Ranjith had received prior warnings of the Easter Sunday attacks were totally false.
-
-"The story that Cardinal Ranjith did not participate in an Easter service on the fateful year of 2019 is also false as he did hold an Easter Vigil on April 20, 2019. The Archbishop of Colombo traditionally participates in the Easter service on Saturday night and does not participate in any service on Easter Sunday," Fr. Fernando said.
-
-◼️
-
-[Data](articles/475013a7.json)
-
-[Extended Data](ext_articles/475013a7.ext.json)
-
----
-
-### Cardinal Ranjith never received prior warnings: Fr. Cyril Gamini
-
-*2024-04-03 12:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Cardinal-Ranjith-never-received-prior-warnings-Fr-Cyril-Gamini/155-280101) · `en`
-
-Colombo, April 3 (Daily Mirror)- Archbishop of Colombo Cardinal Malcolm Ranjith never received any prior warnings on the Easter Sunday attacks, the Catholic Church in Sri Lanka said today.
-
-Church Spokesman Fr. Cyril Gamini Fernando, responding to a question raised by journalists at a media briefing said speculations that Cardinal Ranjith had received prior warnings of the Easter Sunday attacks were totally false.
-
-"The story that Cardinal Ranjith did not participate in an Easter service on the fateful year of 2019 is also false as he did hold an Easter Vigil on April 20, 2019. The Archbishop of Colombo traditionally participates in the Easter service on Saturday night and does not participate in any service on Easter Sunday," Fr. Fernando said.
-
-◼️
-
-[Data](articles/6c2303fe.json)
-
-[Extended Data](ext_articles/6c2303fe.ext.json)
-
----
-
-### Resolution
-
-*2024-04-03 12:02:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குத்தகைக்கு-வழங்க-தீர்மானம்/175-335563) · `ta`
-
-Minister Nimal Siripala DeSilva invites domestic and foreign investors for aspirations, plans further work post-selection, and submits Mattala Airport motion to Finance Ministry for observation regarding two Indian and Russian companies.
-
-🟩
-
-According to the Minister of Ports, Shipping and Aviation, Nimal Siripala DeSilva, the aspirations have been invited from domestic and foreign investors.
-
-The Minister said that further work will be done after selecting the appropriate investor.
-
-Meanwhile, the Minister said that the motion of the Mattala Airport has been submitted to the Finance Ministry's observation for the transfer of two companies in India and Russia.
-
-◼️
-
-[Data](articles/caef6123.json)
-
-[Extended Data](ext_articles/caef6123.ext.json)
 
 ---

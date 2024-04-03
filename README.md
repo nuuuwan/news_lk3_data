@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 16:03:57**
+As of **2024-04-03 16:18:12**
 
 ## Newspaper Stats
 
-*Scraped **16,870** Articles*
+*Scraped **16,872** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 927
 islandlk | 931
 adalk | 1,417
 tamilmirrorlk | 2,010
-adaderanalk | 2,021
+adaderanalk | 2,022
 virakesarilk | 2,434
 dailymirrorlk | 2,596
-adaderanasinhalalk | 2,729
+adaderanasinhalalk | 2,730
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,865 (100.0%) of 16,870 articles have been extended.
+16,870 (100.0%) of 16,872 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### ජෙරම්ට එරෙහි තහනමක් ඉවතට
+
+*2024-04-03 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195257) · `si`
+
+දේවගැති ජෙරම් ප්‍රනාන්දු හට පනවා තිබූ විදෙස් ගමන් තහනම තාවකාලිකව ඉවත්කිරීමට පියවර ගෙන තිබේ.
+
+ජෙරම් ප්‍රනාන්දුට එරෙහි නඩුව අද (03) කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවේ කැඳවූ අවස්ථාවේදී මෙම නියෝගය ලබාදී ඇත.
+
+විදෙස් රටවල් කිහිපයක් වෙත යාම සඳහා අවශ්‍ය බව සඳහන් කර ඇති අතර ඒ සම්බන්ධයෙන් සලකා බැලූ අධිකරණය පෙර ඇපවලට යටත්ව තාවකාලිකව විදෙස් ගමන් තහනම ඉවත්කර ඇත.
+
+පසුගිය වසරේ මැයි මාසයේ දී ආගම් පිළිබඳ අවමන් සහගත ප්‍රකාශ සිදුකිරීම හේතුවෙන් ගොනුකර ඇති නඩුවට අදාළව දේවගැති ජෙරම් ප්‍රනාන්දුට අධිකරණය මගින් මීට පෙර විදෙස් ගමන් තහනමක් පනවා තිබුණි.
+
+◼️
+
+[Data](articles/275b9372.json)
+
+---
+
+### Sri Lanka appoints Honorary Consul for Canada’s Manitoba Province
+
+*2024-04-03 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98398/sri-lanka-appoints-honorary-consul-for-canadas-manitoba-province) · `en`
+
+Sri Lanka has appointed Mohamed Ismath as the country’s Honorary Consul for the province of Manitoba in Canada.
+
+The High Commissioner of Sri Lanka to Canada Harsha Kumara Navaratne handed over the Commission of Appointment to the new Honorary Consul recently at the Sri Lanka High Commission in Ottawa.
+
+Honorary Consul Ismath is currently a Director of Tennis Canada, a non-profit national sports association with a mission to lead the growth of tennis in Canada. He is a retired accountant and is an old boy of Royal College, Colombo.
+
+During the ceremony to hand over the Commission of Appointment, the High Commissioner suggested that possibilities of promoting tourism through sports collaboration apart from routine consular assistance should be explored given the Honorary Consul’s background.
+
+...
+
+[Data](articles/7d121504.json)
+
+---
 
 ### Sri Lanka named best destination for solo female travellers
 
@@ -52,21 +88,29 @@ The magazine says more women than ever are now heading to far-flung destinations
 
 [Data](articles/60b2db8a.json)
 
+[Extended Data](ext_articles/60b2db8a.ext.json)
+
 ---
 
-### லெபனான் ஐ.நா. அமைதி காக்கும் பணியை வெற்றிகரமாக முடித்தவர்கள் நாடு திரும்பல்
+### Lebanon UN. Those who have successfully completed the peacekeeping task
 
 *2024-04-03 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180348) · `ta`
 
-லெபனானில் ஐ.நா அமைதி காக்கும் பணிகளில் இருந்த இலங்கை இராணுவத்தின் 14 வது பாதுகாப்புப் படைக் குழு, தமது கடமை காலத்தின் நிறைவின் பின்னர்  2024 ஏப்ரல் 02 (செவ்வாய்கிழமை) நாடுதிரும்பியது.
+The 14th Security Forces of the Sri Lanka Army completed their UN peacekeeping duty in Lebanon, arriving back on April 2, 2024, after departing in March 2023. Led by Colonel DBID, the group included 10 officers and 115 soldiers, welcomed by Major General PKGML and other officials at Bandaranaike International Airport.
 
-ஐ.நா அமைதி காக்கும் பணிகளுக்காக 2023 மார்ச் மாதம் நாட்டிலிருந்து புறப்பட்ட இந்தக் குழு, ஐநா இடைக்காலப் படைத் தலைமையகத்தில் கடமையாற்றியது. இலங்கை பாதுகாப்பு படைக் குழுவின் கட்டளை அதிகாரி கேணல் டி.பீ.ஐ.டி களுஅக்கல ஆர்எஸ்பீ யூஎஸ்பீ ஐஜி அவர்களின் தலைமையில் 10 அதிகாரிகளும் 115 சிப்பாய்களும் தங்கள் கடமை காலத்தின் நிறைவின் பின்னர் நாட்டை வந்தடைந்தனர்.
+🟩
 
-இலங்கை இராணுவத்தை பிரதிநிதித்துவப்படுத்தி இலங்கை பீரங்கி படையணியின் படைத் தளபதி மேஜர் ஜெனரல் பி.கே.ஜி.எம்.எல். ரொட்ரிகோ ஆர்எஸ்பீ பீஎஸ்சி ஐஜீ, மற்றும் அப்படையணியின் நிலையத் தளபதி பிரிகேடியர் கேஏடிஎன்ஆர் கன்னங்கர ஆர்எஸ்பீ ஐஜி உள்ளிட்ட அதிகாரிகள் பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் குழுவை வரவேற்றனர்.
+The 14th Security Forces of the Sri Lanka Army, which was in the UN peacekeeping process in Lebanon, landed on April 02, 2024, after the end of their duty.
+
+The group departed from the country in March 2023 for the UN peacekeeping work at the UN Interim Brigade Headquarters.. 10 officers and 115 soldiers, led by RSP IG, Commanding Officer of the Sri Lanka Security Forces Committee, Colonel DBID, arrived in the country after the completion of their duty.
+
+Representing the Sri Lankan Army Major General PKGML. Officials including Rodrigo RSP PSC IG, and the Commander of the Station, Brigadier KATNR Kannangara RSP IG, welcomed the team at the Bandaranaike International Airport.
 
 ◼️
 
 [Data](articles/4314ae98.json)
+
+[Extended Data](ext_articles/4314ae98.ext.json)
 
 ---
 
@@ -120,35 +164,53 @@ Church speaker. At a press conference, journalists questioned at a press confere
 
 ---
 
-### உயிர்த்த ஞாயிறு தாக்குதல் - மல்கம் ரஞ்சித்திற்கு முன்கூட்டிய எச்சரிக்கை எதுவும் கிடைக்கவில்லை - கத்தோலிக்க திருச்சபை
+### Life Sunday Assault
 
 *2024-04-03 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180347) · `ta`
 
-உயிர்த்தஞாயிறு தாக்குதல் குறித்து கர்தினால் மல்கம் ரஞ்சித்தி;ற்கு முன்கூட்டிய தகவல் எதுவும் கிடைக்கவில்லை என கத்தோலிக்க திருச்சபை தெரிவித்துள்ளது.
+The Catholic Church denies Cardinal Malcolm Ranjith was informed about the resurrection attack prematurely. He will only attend rituals on April 20th.
 
-கர்தினால் மல்கம் ரஞ்சித்திற்கு முன்கூட்டியே தகவல் தெரிந்திருந்தது என வெளியாகியுள்ள ஊகங்கள்  முற்றிலும் தவறானவை என கத்தோலிக்க திருச்சபையின் பேச்சாளர் அருட்தந்தை சிறில் காமினி பெர்ணான்டோ தெரிவித்துள்ளார்.
+🟩
 
-2019ம்ஆண்டு உயிர்த்த ஞாயிறுதின ஆராதனைகளில்  கர்தினால் கலந்துகொள்ளவில்லை என்பதும் பொய்யான தகவல் ஏப்பிரல் 20 ம் திகதி ஆராதனைகளில் அவர் கலந்துகொண்டார் கொழும்பு பேராயர் வழமையாக சனிக்கிழமை நள்ளிரவு ஆராதனைகளில் மாத்திரம் கலந்துகொள்வார் என அருட்தந்தை சிறில் காமினி பெர்ணான்டோ தெரிவித்துள்ளார்.
+The Catholic Church has said that Cardinal Malcolm Ranjithi has not received any premature information on the resurrection attack.
+
+Catholic Church spokesman Aruttantha Cyril Gamini Fernando has said that the assumptions that Cardinal Malcolm Ranjith had prematurely was informed.
+
+The Archbishop of Colombo will only participate in the rituals of the April 20th.
 
 ◼️
 
 [Data](articles/1902b7d9.json)
 
+[Extended Data](ext_articles/1902b7d9.ext.json)
+
 ---
 
-### மனிதாபிமான பணியாளர்கள் மீதான இஸ்ரேலின் தாக்குதலின் எதிரொலி ; தங்கள் நடவடிக்கைகளை இடைநிறுத்திய தொண்டு அமைப்புகள் - காசா பெரும் மனிதாபிமான நெருக்கடியில் சிக்கும் அபாயம்
+### The echo of Israel's attack on humanitarian servants;NGOs suspended
 
 *2024-04-03 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180346) · `ta`
 
-காசாவில் மனிதாபிமான பணியாளர்கள் கொல்லப்பட்ட சம்பவத்தை தொடர்ந்து தொண்டு நிறுவனங்கள் தங்கள் மனிதாபிமான பணிகளை இடைநிறுத்தியுள்ளதை தொடர்ந்து மனிதாபிமான நெருக்கடி தீவிரமடையும் ஆபத்து உருவாகியுள்ளது.
+Humanitarian aid in Gaza faces suspension due to safety concerns, following the attack on World Central Kitchen's vehicle that killed seven employees. This suspension risks exacerbating the humanitarian crisis, with increased hunger and poverty. The World Central Kitchen was providing food to those affected by Israeli bombings and blockades.
 
-வேர்ல்ட் சென்ரல் கிச்சனின் வாகனத்தொடரணி மீது மேற்கொள்ளப்பட்ட தாக்குதலில் ஏழு மனிதாபிமான பணியாளர்கள் கொல்லப்பட்டதை தொடர்ந்து காசாவில் மனிதாபிமான பணியி;ல் ஈடுபட்டுள்ள பல அமைப்புகள் தங்கள் பணியாளர்களின் பாதுகாப்பை கருத்தில்கொண்டு தங்கள் பணிகளை இடைநிறுத்தியுள்ளதாக தெரிவித்துள்ளன.
+🟩
 
-இது முன்னர் ஒருபோதும் இடம்பெறாத விடயம் என தெரிவித்துள்ள அனெரா என்ற தொண்டு நிறுவனம் பல மனிதாபிமான பணியாளர்களும்  அவர்களது குடும்பத்தினரும் கொல்லப்பட்ட நிலையில் மனிதாபிமான உதவிகளை வழங்குவது பாதுகாப்பான நடவடிக்கை இல்லை என்ற முடிவிற்கு வந்துள்ளோம் என தெரிவித்துள்ளது.
+The humanitarian crisis is in danger of intensifying the killing of humanitarian workers in Gaza, following the suspension of their humanitarian tasks.
+
+Following the killing of seven humanitarian employees in the attack on World Central Kitchen's vehicle, many organizations involved in Gaza have suspended their work in view of the safety of their employees.
+
+The Anara, a charity, has said that this is never a matter of fact, and we have come to the conclusion that there is no safeguard for humanitarian assistance as many humanitarian employees and their families have been killed.
+
+We understand the worst effects of humanitarian aid suspension, but the risk of increasing during humanitarian aid distribution has created a position to suspend our tasks until our employees think they can work again.
+
+Last month, the UN said that hunger and poverty could be developed at any time in Gaza.
+
+Oxfam said the number of hunger facing hunger in the Palestinian region has increased several times.
 
 ...
 
 [Data](articles/a88dd861.json)
+
+[Extended Data](ext_articles/a88dd861.ext.json)
 
 ---
 
@@ -196,21 +258,35 @@ The Railway Department is noting that the train will be operated from Colombo fr
 
 ---
 
-### ආලවන්තිට ගිනි තැබුවාද? ගිනි ගත්තාද?
+### Did the Fire set fire?Burned?
 
 *2024-04-03 14:43:31* · [`adalk`](https://www.ada.lk/breaking_news/ආලවන්තිට-ගිනි-තැබුවාද--ගිනි-ගත්තාද-/11-408921) · `si`
 
-කොටහේන මෝදර අලුත් මාවත පාලම අසල ප්‍රදේශයේ දි ඊයේ (03)  අලුයම ලේලන්ඩ් පුද්ගලික බස් රථයක් හදිසියේ ගිනිගැනීමකට ලක්වී සම්පූර්ණයෙන් විනාශ  ඇති බව කොටහේන පොලිසිය පවසයි.
+A private bus in Kotahena was burned at Modara New Mawatha Bridge yesterday. The bus, owned by Alavi Golden Princez, was heading to Kandy for a pilgrimage. Firefighters and police officers extinguished the fire, but the cause remains unknown.
 
-"ආලවන්ති ගෝල්ඩන් ප්‍රින්සස්" නැමති කාගේත් ජනාදරයට පාත්‍ර වූ මෙම පුද්ගලික බස් රථය කැලණිය ප්‍රදේශයේ පුද්ගලයෙකුට අයත් එකක් බවත් නුවර බලා වන්දනා ගමනක් යෑමට බලාපොරොත්තුවෙන් සිටි පිරිසක් රැගෙන ඒමට මෝදර ප්‍රදේශයට අලුයම 05.00 ට පමණ පැමිණ ඇති බවත් පොලිසිය කියයි.
+🟩
 
-බස් රථය මෝදර අලුත් මාවත ප්‍රදේශයේදී, අතරමඟ  නවතා රියදුරු සහ රිය සහායකවරයා තේ පානය සදහා අසල පිහිටි ආපනශාලාවකට ගිය අවස්ථාවේදී එකවරම බස් රථය තුලින් විශාල දුමාරයක් සහිතව ගිනි ගන්නා ආකාරය දැක ඇති බවත් පොලිසිය සඳහන් කරයි.
+Kotahena Police say that a private bus has been burned at the Modara New Mawatha Bridge in Kotahena yesterday.
 
-කලබලයට හා භීතියට පත් රියදුරු  සහ කොන්දොස්තරවරයා මෙන්ම වරාය පොලිසියට අනුයුක්තව සේවය කරන පොලිස් නිලධාරීන් දෙදෙනෙකු යුහු සුළුව ක්‍රියාත්මක වී කොටහේන පොලිස් ස්ථානයට හා ගිනි නිවීමේ සේවා දෙපාර්තමේන්තුවට සිද්ධිය සම්බන්ධයෙන් දැනුම් දී ඇති බවත් ආසන්නයේ සිටි සියලු දෙනා එක්ව ගින්න නිවා දැමීමට උත්සහ කලද එය කිරීමට නොහැකි වී ඇති බවත් පොලිසිය පවසයි.
+The private bus belonging to a person named Alavi Golden Princez ", the private bus belonging to the Kelaniya and awaiting a pilgrimage to the Kandy tournament has come to the Modara area at around 5 am.
+
+The bus had been seen in Modara New Mawatha, the driver and the driver and the driver's assistant to a nearby restaurant.
+
+Two frightened drivers and two police officers attached to the Fire Couse and the Fire Police have been able to extinguish the fire, but it is not possible to do so.Police say.
+
+Two fire extinguishers and fire fires have come to the fire.
+
+Police said that the bus had been severely damaged when the fire was suppressed.
+
+The police said that the cause of the fire is yet to be ascertained, police said.
+
+Police said that Police Criminal Investigations Officers will be convened to investigate the incident.
 
 ...
 
 [Data](articles/2648ca72.json)
+
+[Extended Data](ext_articles/2648ca72.ext.json)
 
 ---
 
@@ -2297,41 +2373,5 @@ According to foreign media reports, a tsunami warning to Japan has issued a warn
 [Data](articles/274a58d7.json)
 
 [Extended Data](ext_articles/274a58d7.ext.json)
-
----
-
-### Corruption taints operations on drugs, underworld criminals
-
-*2024-04-03 06:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Corruption-taints-operations-on-drugs-underworld-criminals/108-280078) · `en`
-
-Colombo, April 3 (Daily Mirror) - In response to mounting concerns over reports of several police officers being in contact with leading drug lords, some of whom operate from overseas while others are imprisoned following recent crackdowns on underworld gangs, intelligence officers have been deployed to identify the police officers collaborating with organized criminals and drug traffickers with their assets to be probed, the Daily Mirror learns.
-
-Police have received information regarding certain officers being in touch with criminals in return for perks and large sums of cash as bribes. However, investigations are secretly underway to track them down.
-
-These rogue officers are accused of aiding criminal activity and taking undue advantage of their positions.
-
-...
-
-[Data](articles/8cfc6566.json)
-
-[Extended Data](ext_articles/8cfc6566.ext.json)
-
----
-
-### Corruption taints operations on drugs, underworld criminals
-
-*2024-04-03 06:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Corruption-taints-operations-on-drugs-underworld-criminals/155-280078) · `en`
-
-Colombo, April 3 (Daily Mirror) - In response to mounting concerns over reports of several police officers being in contact with leading drug lords, some of whom operate from overseas while others are imprisoned following recent crackdowns on underworld gangs, intelligence officers have been deployed to identify the police officers collaborating with organized criminals and drug traffickers with their assets to be probed, the Daily Mirror learns.
-
-Police have received information regarding certain officers being in touch with criminals in return for perks and large sums of cash as bribes. However, investigations are secretly underway to track them down.
-
-These rogue officers are accused of aiding criminal activity and taking undue advantage of their positions.
-
-...
-
-[Data](articles/d2d7cf1c.json)
-
-[Extended Data](ext_articles/d2d7cf1c.ext.json)
 
 ---

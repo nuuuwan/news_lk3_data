@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 21:03:42**
+As of **2024-04-03 21:18:10**
 
 ## Newspaper Stats
 
@@ -26,35 +26,43 @@ adaderanasinhalalk | 2,741
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,939 (100.0%) of 16,941 articles have been extended.
+16,941 (100.0%) of 16,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### තායිවාන භූ කම්පනයෙන් විශාල පිරිසක් සුන්බුන් අතර
+### Between the wreckage of the Taiwan earthquake
 
 *2024-04-03 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195270) · `si`
 
-තායිවානයේ නැගෙනහිර වෙරළ තීරයට බලපෑ රික්ටර් මාපකයේ ඒකක 7.4ක ප්‍රබලත්වයෙන් යුතු භූකම්පනයෙන් පුද්ගලයින් 09 දෙනෙකු මියගොස් ඇති බව විදෙස් වාර්තා පවසයි.
+A 7.4-magnitude earthquake in Taiwan, the strongest in 25 years, has killed 9, severely damaged Taipei, and trapped 80 people in tunnels. It triggered 100 aftershocks, including a 7-magnitude tremor. Tsunami warnings were issued, affecting Japan's Okinawa district.
 
-වසර 25කට පසුව එරටට බලපෑ ප්‍රබලතම භූකම්පනය මෙය වන අතර සුන්බුන් අතර සිරවී සිටින පිරිස මුදාගැනීමට තවදුරටත් මෙහෙයුම් ක්‍රියාත්මකය.
+🟩
 
-තායිවාන භූ කම්පනයේ අපිකේන්ද්‍රය සටහන් වූයේ එරට නැගෙනහිර වෙරළබඩ හුවාලියෑන් නගරයට කිලෝමීටර් 18ක් පමණ දුරින් පැසිෆික් සාගරයේය.
+Nine persons have been killed in 7.4 units of the Rickter threats affected by the Taiwan East Coast.
 
-රික්ටර් මාපකයේ ඒකක 7.4ක් සටහන් වූ භූ කම්පනයෙන් තායිපේ අගනුවර ඇතුළු ප්‍රදේශ රැසකට දැඩි බලපෑම් එල්ලවුණි.
+This is the most powerful earthquake in the country after 25 years and is still operating in the wreckage.
 
-ගොඩනැගිලි 100කට පමණ හානි සිදුවී ඇති අතර, සුන්බුන් මැද සිරවූ 130ක පමණ පිරිසක් මුදාගැනීම සඳහා මෙහෙයුම් දියත් කර තිබේ.
+The abuse of Taiwanese seizures was recorded in the Pacific Ocean, about 18 km away from the East Coast Huwalian.
 
-ඉන් 80ක් පමණ කඳුකර උමං මාර්ගවල සිරවී සිටින අතර, ඒ අතරට විදේශිකයින්ද අයත් ය.
+A number of areas including Taipei capital was severely affected by 7.4 units of the Richter.
 
-ප්‍රධාන භූ කම්පනයෙන් පසුව එම කලාපයට රික්ටර් මාපකයේ ඒකක 6.5ක ප්‍රබලත්වයෙන් යුතු පසු කම්පනයක් ඇතුළු කම්පන 100ක් පමණ බලපා තිබුණි.
+About 100 buildings have been damaged, and the operations have been launched to liberate about 130 people in the wreckage.
 
-බලධාරීන් පුරෝකථනය කරන්නේ, ඉදිරි දින කිහිපය තුළ රික්ටර් මාපකයේ ඒකක 7 ඉක්මවූ පසු කම්පන සිදුවිය හැකි බවය.
+About 80 of them are trapped in mountain tunnels, and there are foreigners.
+
+After the main earthquake, the region was about 100 conjugations and 100 shocks, including a vibration of the Richter.
+
+Authorities predict that the vibrations that exceed the over 7 units of the richter thread in the next few days.
+
+Tsunami warnings to Taiwan, Neighborhoods and the Philippines with the earthquake, and later removed.
 
 ...
 
 [Data](articles/68adf1c1.json)
+
+[Extended Data](ext_articles/68adf1c1.ext.json)
 
 ---
 
@@ -224,21 +232,29 @@ The Railway Department said a train heading towards Maho has derailed in this ma
 
 ---
 
-### තරගකාරී ආයෝජන අවස්ථා ඇති කරමින් ශක්තිමත් ආර්ථිකයක් බිහිකරනවා
+### A strong economy is created by creating competitive investment opportunities
 
 *2024-04-03 19:22:06* · [`adalk`](https://www.ada.lk/breaking_news/තරගකාරී-ආයෝජන-අවස්ථා-ඇති-කරමින්-ශක්තිමත්-ආර්ථිකයක්-බිහිකරනවා/11-408930) · `si`
 
-රටට හිතකර තරගකාරී ආයෝජන අවස්ථා ඇති කරමින් ශක්තිමත් ආර්ථිකයක් බිහිකරීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රකාශ කළේය.
+President Ranil Wickremesinghe emphasized the importance of competitive investment opportunities for a strong economy, acknowledging the Board of Investment's role in boosting Sri Lanka's economy. He highlighted the success of special economic zones like Katunayake and Biyagama, marking the 45th anniversary of the Board of Investment with awards.
 
-ශ්‍රී ලංකාවේ ආර්ථිකය නංවාලීම සඳහා ආයෝජන මණ්ඩලය යටතේ ඇති සමාගම් සිදු කළ සුවිශේෂී කාර්යභාරය වෙනුවෙන් සිය කෘතඥතාව පිරිනමන බව ද ජනාධිපතිවරයා කියා සිටියේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ජනාධිපති කාර්යාලයේදී ඊයේ (02) පැවැති ආයෝජන මණ්ඩල සම්මාන උළෙල අමතමිනි.
+President Ranil Wickremesinghe said that action will be taken to create a strong economy with a conducive of the country.
 
-ආයෝජන මණ්ඩලයේ 45 වැනි සංවත්සරය නිමිත්තෙන් පළමු වරට මෙම සම්මාන උළෙල සංවිධානය කර තිබු අතර ඍජු විදේශ ආයෝජන සහ අපනයන කාර්ය සාධනය සඳහා සිදු කර ඇති දායකත්වය වෙනුවෙන් ආයෝජන මණ්ඩලය යටතේ පවතින සමාගම් වෙත සම්මාන 30 ක් පිරිනැමීම ජනාධිපතිවරයා අතින් සිදු වූ අතර දිගුකාලයක් පුරා ක්‍රියාකාරිව පැවැති සමාගම් සඳහා ද විශේෂ ඇගයීමක් සිදු කෙරිණ.
+The President also said that his gratitude for the unique role of the Board of Investment to increase the economy of Sri Lanka.
+
+President Ranil Wickremesinghe made this statement addressing the BOI Awards held at the Presidential Secretariat yesterday.
+
+The President had organized the awards for the first time to mark the 45th anniversary of the Board of Investment and the President has organized 30 awards for the contribution of the Board of Foreign Investment and Export Performance.A special assessment was made.
+
+Brandix Group Chief Executive Secretary Ashrof Group, CEO of the Brandix Group, is a Group of the Brandix Group, Chairman of Mahesh Mahesh Amalene and Chairman Pierre Group of Searle PringersPresident Ranil Wickremesinghe was also presented.
 
 ...
 
 [Data](articles/15bcc8c5.json)
+
+[Extended Data](ext_articles/15bcc8c5.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 00:33:24**
+As of **2024-04-04 00:49:24**
 
 ## Newspaper Stats
 
-*Scraped **16,971** Articles*
+*Scraped **16,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 150
 bbccomsinhala | 177
 dbsjeyarajcom | 207
 newsfirstlk | 363
-dailyftlk | 914
+dailyftlk | 915
 islandlk | 931
 economynextcom | 942
 adalk | 1,430
@@ -26,29 +26,59 @@ adaderanasinhalalk | 2,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,966 (100.0%) of 16,971 articles have been extended.
+16,971 (100.0%) of 16,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### ஓட்டங்களை சரமாரியாக குவித்து டெல்ஹியை துவம்சம் செய்தது கொல்கத்தா
+### Ranil’s Akhand Bharatisation of Lanka, Sajith’s socialist nightmare and religious rampage
+
+*2024-04-04 00:29:32* · [`dailyftlk`](https://www.ft.lk/columns/Ranil-s-Akhand-Bharatisation-of-Lanka-Sajith-s-socialist-nightmare-and-religious-rampage/4-760268) · `en`
+
+“In Delhi, President Ranil Wickremesinghe’s Chief of Staff led the team to discuss a wide range of subjects, from a land bridge across the Palk Strait…”
+
+“Where a class abdicates its moral right to leadership, it is already doomed and must surely die.”
+
+– Mervyn de Silva, “1956”, Ceylon Observer Magazine Edition, 16 and 23 May 1967 –
+
+Prime Minister Modi’s hawkish remarks on Kachchatheevu island conceded by India Gandhi to Sri Lanka a half-century ago in 1974, reveal the not-so-benign aspect of the ruling BJP’s attitude towards Sri Lanka. (https://www.hindustantimes.com/india-news/startling-pm-modi-slams-congress-for-callously-giving-away-katchatheevu-island-to-sri-lanka-101711860374728.html)
+
+...
+
+[Data](articles/29de5ab2.json)
+
+---
+
+### Kolkata launches Telhi
 
 *2024-04-04 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180369) · `ta`
 
-விசாகப்பட்டினம் மாவட்ட கிரிக்கட் சங்க விளையாட்டரங்கில் புதன்கிழமை (03) இரவு நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 16ஆவது போட்டியில் சரமாரியாக ஓட்டங்களைக் குவித்த கொல்கத்தா நைட் ரைடர்ஸ் 106 ஓட்டங்களால் டெல்ஹி கெப்பிட்டல்ஸை வெற்றிகொண்டது.
+Kolkata Knight Riders won the Telhi Keppitels by 106 runs, scoring 272 runs in 20 overs. Key players included Sunil Narain, Angrish Raghuvanshi, Antre Russell, and Rinku Singh. Telhi Capitels lost all wickets in 17.2 overs, scoring 33 runs.
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த கொல்கத்தா நைட் ரைடர்ஸ் 20 ஓவர்களில் 7 விக்கெட்களை இழந்து 272 ஓட்டங்களைக் குவித்தது.
+🟩
 
-இண்டியன் பிறீமியர் லீக் கிரிக்கெட் வரலாற்றில் இந்த வருடம் மும்பை இண்டியன்ஸுக்கு எதிரான போட்டியில் சன்ரைசர்ஸ் ஹைதராபாத்தினால் குவிக்கப்பட்ட அதிகூடிய மொத்த எண்ணிக்கையான 277 ஓட்டங்களைவிட 5 ஓட்டங்கள் குறைவாக கொல்கத்தா நைட் ரைடர்ஸ் எடுத்தது.
+Kolkata Knight Riders won the Telhi Keppitels by 106 runs in the 16th match of the 17th Indian Premier League chapter held at the Visakhapatnam District Cricket Association Stadium on Wednesday night.
 
-சுனில் நரேன், இம்ப்பெக்ட் வீரர் ஆங்க்ரிஷ் ரகுவான்ஷி, அண்ட்றே ரசல், ரின்கு சிங் ஆகியோரின் அதிரடி துடுப்பாட்டங்களின் உதவியுடன் கொல்கத்தா நைட் ரைடர்ஸ் சரிமாரியாக ஓட்டங்களைக் குவித்தது.
+Kolkata Knight Riders, who decided to bat first in the upting match, scored 272 runs for the loss of 7 wickets in 20 overs.
 
-பில் சோல்ட், சுனில் நரேன் ஆகிய இருவரும் 27 பந்துகளில் 60 ஓட்டங்களைப் பகிர்ந்து பலமான ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+In the history of Indian Premier League cricket this year, Kolkata Knight Riders scored 5 runs less than 277 runs in Sunrisers Hyderabad.
+
+With the help of Sunil Narain, Impact player Angrish Raghuvanshi, Antre Russell and Rinku Singh, Kolkata Knight Riders SurImerted.
+
+Bill Sold and Sunil Narain shared 60 runs off 27 balls and made a strong start.
+
+Sunil Narain and Angrish Raghuvanshi shared 104 runs off 48 balls in the 2nd wicket after Peel Sold lost 18 runs.
+
+Sunil Narain faced 39 balls with 7 pounds and 7 sixes with 85 runs. It scored 70 runs by pounds.
+
+On the other hand, Angrish Raghuvanshi scored 54 runs off 27 balls with 5 pounds and 3 sixes.
 
 ...
 
 [Data](articles/59a25cdb.json)
+
+[Extended Data](ext_articles/59a25cdb.ext.json)
 
 ---
 
@@ -148,6 +178,8 @@ It is underlined here that the laws and practices were taken from the Sri Lankan
 
 [Data](articles/0caa8866.json)
 
+[Extended Data](ext_articles/0caa8866.ext.json)
+
 ---
 
 ### Council to be formed to boost efficiency in agricultural modernization
@@ -186,6 +218,8 @@ Dissanayake in his submissions to Education Ministry Secretary Wasantha Perera, 
 
 [Data](articles/86aeaec5.json)
 
+[Extended Data](ext_articles/86aeaec5.ext.json)
+
 ---
 
 ### The Royal College that nurtured me
@@ -205,6 +239,8 @@ For the continued betterment of Royal, they can no longer be swept under the car
 ...
 
 [Data](articles/ba6c9330.json)
+
+[Extended Data](ext_articles/ba6c9330.ext.json)
 
 ---
 
@@ -239,6 +275,8 @@ The spirit of the Sutta signifies a teaching that is exempt from fanaticism, big
 ...
 
 [Data](articles/2d4e7582.json)
+
+[Extended Data](ext_articles/2d4e7582.ext.json)
 
 ---
 
@@ -2237,31 +2275,5 @@ Accordingly, the suspects were detained by Katunayake airport criminal investiga
 [Data](articles/725520c4.json)
 
 [Extended Data](ext_articles/725520c4.ext.json)
-
----
-
-### There is no need for the Passover attack on the court
-
-*2024-04-03 14:54:55* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාර-ප්‍රකාශය-ගැන-අධිකරණයට-ප්‍රකාශයක්-දිමේ-අවශ්‍යාතවක්-නෑ/11-408923) · `si`
-
-Former President Maithripala Sirisena has stated he is not interested in making a detailed statement to the CID about the Easter attack. Sirisena's attorney, Analyi, appeared on his behalf. The Criminal Police have been questioned by the CID regarding the Passover attack. The case is being handled by lawyer Saveful Suriyaarachchi and Associated President Premaratne. The court will hear the case tomorrow.
-
-🟩
-
-Former President Maithripal Maithripala Sirisena also informed Maligakanda Magistrate Lokuda Abeywickrama today (03).
-
-Sirisena further stated that he is not interested in making a detailed statement to the CID about the statement that the Easter attack has been identified.
-
-Attorney-at-law Analyi, Attorney at Law Sirisena, appearing on behalf of former President Maithripala Sirisena, he appeared on behalf of former President Maithripala Sirisena.
-
-Criminal police appeared to the CID when the PS heads of Criminal Police said that the PSS of the Passover attack was made by the CID..
-
-The complaint was sent to the lawyer's request to report the judiciary to court and to take a statement to the lawyers to take a statement from the courts today (04).
-
-...
-
-[Data](articles/b0b81b4f.json)
-
-[Extended Data](ext_articles/b0b81b4f.ext.json)
 
 ---

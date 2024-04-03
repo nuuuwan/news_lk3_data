@@ -1,36 +1,114 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 14:03:22**
+As of **2024-04-03 14:18:08**
 
 ## Newspaper Stats
 
-*Scraped **16,839** Articles*
+*Scraped **16,844** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 150
 bbccomsinhala | 176
-dbsjeyarajcom | 204
+dbsjeyarajcom | 205
 newsfirstlk | 363
 dailyftlk | 910
 economynextcom | 927
 islandlk | 931
-adalk | 1,412
-tamilmirrorlk | 2,007
+adalk | 1,413
+tamilmirrorlk | 2,008
 adaderanalk | 2,018
 virakesarilk | 2,427
 dailymirrorlk | 2,592
-adaderanasinhalalk | 2,722
+adaderanasinhalalk | 2,724
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,838 (100.0%) of 16,839 articles have been extended.
+16,839 (100.0%) of 16,844 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### මෛත්‍රීගෙන් අධිකරණයට විශේෂ දැනුම්දීමක්
+
+*2024-04-03 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195249) · `si`
+
+පාස්කු ප්‍රහාරය සම්බන්ධයෙන් කළ ප්‍රකාශයට අදාළව නැවත හෙට (04) දිනයේ අධිකරණය හමුවේ ප්‍රකාශයක් ලබාදීමේ අවශ්‍යතාවයක් නොමැති බව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා අධිකරණයට දැනුම්දී තිබේ.
+
+හිටපු ජනාධිපතිවරයා සිය නීතිඥවරු මාර්ගයෙන් මෝසමක් ගොනු කරමින් මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය වෙත මේ බව දැනුම්දී ඇත.
+
+පාස්කු ප්‍රහාරය සම්බන්ධයෙන් කළ ප්‍රකාශයට අදාළව මේවනවිටත් තමන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ දීර්ඝ ප්‍රකාශයක් ලබාදී ඇති බව පෙන්වාදෙමින් හිටපු ජනාධිපතිවරයා මෙම කරුණු දැක්වීම සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/e8752757.json)
+
+---
+
+### කෙහෙළියගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප වෙයි
+
+*2024-04-03 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195248) · `si`
+
+රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාට ඇප ඉල්ලා ගොනුකළ ප්‍රතිශෝධන පෙත්සම නිෂ්ප්‍රභා කිරීමට කොළඹ මහාධිකරණ නියම කළේය.
+
+◼️
+
+[Data](articles/4b3cae1d.json)
+
+---
+
+### Stalin clashes with Modi
+
+*2024-04-03 13:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/180311) · `ta`
+
+It seems you've provided a detailed narrative on the historical and political context surrounding the Kachchativu issue, including the involvement of various political figures and parties. This issue has been a point of contention for many years, involving territorial disputes, fishing rights, and the broader geopolitical landscape of India and Sri Lanka.
+
+
+
+Given the complexity and the historical depth of the issue, addressing all the points you've raised would require a comprehensive analysis that goes beyond the scope of a single response. However, I can provide a brief overview and some insights based on the information you've shared:
+
+
+
+1. **Tax and Flood Relief**: The specifics of why Tamil Nadu's tax proposal was met with a 29-penny return by the Union Government and the absence of a one-rupee flood relief during natural disasters are likely tied to broader political and economic considerations. These decisions would involve evaluating the financial implications for the Union Government, the strategic importance of Tamil Nadu's resources, and the overall budgetary constraints.
+
+
+
+2. **BJP's Ten-Year Rule in Tamil Nadu**: The impact of the BJP's rule in Tamil Nadu over the past decade would depend on various factors, including policy implementation, governance, and the party's approach to development and welfare. The effectiveness of the BJP's policies in Tamil Nadu would be a subject of debate among political analysts and the public.
+
+
+
+3. **Kachchativu Issue**: The Kachchativu issue is deeply rooted in historical and territorial disputes between India and Sri Lanka. The transfer of Kachchativu to Sri Lanka in 1974 was a significant event that has had lasting implications for the fishing communities in Tamil Nadu. The controversy surrounding this decision and its aftermath has been a point of contention among various political parties and has influenced the broader political landscape in Tamil Nadu.
+
+
+
+4. **DMK's Relationship with Congress**: The relationship between the DMK and Congress, especially in the context of the Kachchativu issue, reflects the complexities of Indian politics. The DMK's stance on the issue, as well as its alliance with Congress, has been influenced by a range of factors, including historical grievances, political strategy, and the broader dynamics of power in Indian politics.
+
+
+
+5. **Kachchativu's Geography and Historical Context**: Kachchativu's geographical location and its historical significance as a fishing ground for Tamil Nadu's fishermen have been central to the dispute. The island's strategic importance and the rights of its inhabitants have been at the heart of the controversy, with various political actors and international bodies involved in the resolution of the issue.
+
+
+
+In summary, the Kachchativu issue and its broader implications for Tamil Nadu's politics and governance are multifaceted and deeply intertwined with the region's history, geopolitical dynamics, and the strategic interests of India and Sri Lanka. Addressing these issues requires a nuanced understanding of the historical context, the political dynamics at play, and the broader geopolitical implications.
+
+🟩
+
+When the Indian parliamentary election begins to warm up, people and candidates will be alerted. Free, cash banknotes will start chasing people.It is only the political leaders of the party, as they awakened from deep sleep. Many things that have been forgotten will be remembered. The electoral field will be heated by the right rivalry. That is the case in Tamil Nadu.
+
+Voting for the 39 constituencies in Tamil Nadu will be held on April 19, and the counting of voting will begin on June 4.
+
+Tamil Nadu ranks fifth in terms of Lok Sabha places. In the 2019 election, the DMK -led secular progressive Alliance won 38 seats of a total of 39 seats.
+
+...
+
+[Data](articles/1700df79.json)
+
+[Extended Data](ext_articles/1700df79.ext.json)
+
+---
 
 ### 5 lakhs of poisonous drugs in the country
 
@@ -360,6 +438,26 @@ In addition, the armed forces who have not been able to return to work without h
 
 ---
 
+### දෙවැනි ටෙස්ට් තරගයත් ලංකාව පහසුවෙන්ම ජයගනී
+
+*2024-04-03 12:08:13* · [`adalk`](https://www.ada.lk/sports/දෙවැනි-ටෙස්ට්-තරගයත්-ලංකාව-පහසුවෙන්ම-ජයගනී/9-408917) · `si`
+
+සත්කාරක බංග්ලාදේශ කණ්ඩායම ලකුණු 192කින් පරාජයට පත්කරමින් දෙරට අතර පැවැති ‌‌දෙවැනි ටෙස්ට් තරගයද ජයගත් ශ්‍රි ලංකා කණ්ඩායම තරග දෙකකින් සමන්විත වූ ටෙස්ට් තරගාවලිය 2-0ක් ලෙසද ජය ග්‍රහණය කළේය.
+
+ශ්‍රී ලංකා කණ්ඩායමෙන් එල්ල වූ ලකුණු 511ක ඉලක්කය හඹා ගිය බංග්ලාදේශ කණ්ඩායමට සියලු දෙනා දැවී රැස්කර ගත හැකි වූයේ ලකුණු 318ක් පමණි.
+
+ශ්‍රී ලංකා කණ්ඩායම පළමු ඉනිමට ලකුණු 531ක් රැස්කළ අතර එයට පිළිතුරු ලෙස බංග්ලාදේශයට රැස් කළ හැකිවූයේ ලකුණු 178ක් පමණි. නැවතත් සිය දෙවැනි ඉනිම ක්‍රීඩා කළ ශ්‍රී ලංකා කණ්ඩායම කඩුලු 7ට ලකුණු 157ක් රැස්කරමින් බංග්ලාදේශයට ලකුණු 511ක ඉලක්කයක් ලබා ‌දෙමින් ඉනිම අත්හිටුවීය.
+
+ඒයට පිළිතුරු ලෙස බංග්ලාදේශයට රැස්කළ හැකිවූයේ ලකුණු 318ක් පමණි. තරගයේ වීරයා සම්මානය කමිඳු මෙන්ඩිස් විසින් හිමිකර ගත්තේ නොදැවී ලබාගත් ලකුණු 92 හා කඩුලු තුන හේතුවෙනි.
+
+ඒසේම තරග දෙකේදීම ලකුණු 367ක් හා කඩුලු ‌තුනක් බිඳ දැමීම හේතුවෙන් කමිදුට තරගාවලියේ විරයා සම්මානයද හිමි විය.
+
+◼️
+
+[Data](articles/79ec8289.json)
+
+---
+
 ### Cardinal Ranjith never received prior warnings: Fr. Cyril Gamini
 
 *2024-04-03 12:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cardinal-Ranjith-never-received-prior-warnings-Fr-Cyril-Gamini/108-280101) · `en`
@@ -425,6 +523,22 @@ He also said that the cost of imported goods consumed by the people can ensure s
 [Data](articles/ac09560c.json)
 
 [Extended Data](ext_articles/ac09560c.ext.json)
+
+---
+
+### ராபர்ட் பயஸ், முருகன், ஜெயக்குமார் இலங்கை புறப்பட்டனர்
+
+*2024-04-03 11:56:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராபர்ட்-பயஸ்-முருகன்-ஜெயக்குமார்-இலங்கை-புறப்பட்டனர்/175-335560) · `ta`
+
+முன்னாள் பிரதமர் ராஜீவ் காந்தி படுகொலை வழக்கில் 33 ஆண்டுகள் சிறை தண்டனை அனுபவித்த ராபர்ட் பயஸ், முருகன் மற்றும் ஜெயக்குமார் மூவரும் இன்று இலங்கைக்கு புறப்பட்டனர். இலங்கை தலைநகர் கொழும்பை சென்றடையும் மூவரையும் அவர்களது உறவினர்கள் வரவேற்க காத்துள்ளனர்.
+
+முன்னாள் பிரதமர் ராஜீவ் காந்தி 1991-ம் ஆண்டு மே மாதம் 21-ந் திகதி தமிழ்நாட்டில் படுகொலை செய்யப்பட்டார். ராஜீவ் காந்தி கொலை வழக்கில் ஏராளமான தமிழ்நாட்டு தமிழர்களும் ஈழத் தமிழர்களும் (இலங்கை தமிழர்களும்) கைது செய்யப்பட்டனர். ராஜீவ் காந்தி கொலை வழக்கில் தூக்கு தண்டனை விதிக்கப்பட்ட தமிழர்களுக்கு ஆயுள் தண்டனையாகவும் குறைக்கப்பட்டது.
+
+உச்சநீதிமன்றத்தில் நடைபெற்ற சட்டப் போராட்டங்களுக்குப் பின்னர் ஆயுள் தண்டனை அனுபவித்த பேரறிவாளன், நளினி, ரவிச்சந்திரன் ஆகிய தமிழ்நாட்டு தமிழர்களும் முருகன், சாந்தன், ஜெயக்குமார், ராபர்ட் பயஸ் என இலங்கைத் தமிழர்களும் விடுதலை செய்யப்பட்டனர். அதேநேரத்தில் ஈழத் தமிழர்களான முருகன், சாந்தன், ஜெயக்குமார், ராபர்ட் பயஸ் ஆகியோர் வெளிநாட்டவர் என்பதால் திருச்சி சிறப்பு முகாமில் அடைக்கப்பட்டிருந்தனர்.
+
+...
+
+[Data](articles/67a67190.json)
 
 ---
 
@@ -655,56 +769,6 @@ Western Province North Criminal Division (CID) and several persons arrested by s
 [Data](articles/64f8f699.json)
 
 [Extended Data](ext_articles/64f8f699.ext.json)
-
----
-
-### Stalin clashes with Modi
-
-*2024-04-03 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180311) · `ta`
-
-It seems you've provided a detailed narrative on the historical and political context surrounding the Kachchativu issue, including the involvement of various political figures and parties. This issue has been a point of contention for many years, involving territorial disputes, fishing rights, and the broader geopolitical landscape of India and Sri Lanka.
-
-
-
-Given the complexity and the historical depth of the issue, addressing all the points you've raised would require a comprehensive analysis that goes beyond the scope of a single response. However, I can provide a brief overview and some insights based on the information you've shared:
-
-
-
-1. **Tax and Flood Relief**: The specifics of why Tamil Nadu's tax proposal was met with a 29-penny return by the Union Government and the absence of a one-rupee flood relief during natural disasters are likely tied to broader political and economic considerations. These decisions would involve evaluating the financial implications for the Union Government, the strategic importance of Tamil Nadu's resources, and the overall budgetary constraints.
-
-
-
-2. **BJP's Ten-Year Rule in Tamil Nadu**: The impact of the BJP's rule in Tamil Nadu over the past decade would depend on various factors, including policy implementation, governance, and the party's approach to development and welfare. The effectiveness of the BJP's policies in Tamil Nadu would be a subject of debate among political analysts and the public.
-
-
-
-3. **Kachchativu Issue**: The Kachchativu issue is deeply rooted in historical and territorial disputes between India and Sri Lanka. The transfer of Kachchativu to Sri Lanka in 1974 was a significant event that has had lasting implications for the fishing communities in Tamil Nadu. The controversy surrounding this decision and its aftermath has been a point of contention among various political parties and has influenced the broader political landscape in Tamil Nadu.
-
-
-
-4. **DMK's Relationship with Congress**: The relationship between the DMK and Congress, especially in the context of the Kachchativu issue, reflects the complexities of Indian politics. The DMK's stance on the issue, as well as its alliance with Congress, has been influenced by a range of factors, including historical grievances, political strategy, and the broader dynamics of power in Indian politics.
-
-
-
-5. **Kachchativu's Geography and Historical Context**: Kachchativu's geographical location and its historical significance as a fishing ground for Tamil Nadu's fishermen have been central to the dispute. The island's strategic importance and the rights of its inhabitants have been at the heart of the controversy, with various political actors and international bodies involved in the resolution of the issue.
-
-
-
-In summary, the Kachchativu issue and its broader implications for Tamil Nadu's politics and governance are multifaceted and deeply intertwined with the region's history, geopolitical dynamics, and the strategic interests of India and Sri Lanka. Addressing these issues requires a nuanced understanding of the historical context, the political dynamics at play, and the broader geopolitical implications.
-
-🟩
-
-When the Indian parliamentary election begins to warm up, people and candidates will be alerted. Free, cash banknotes will start chasing people.It is only the political leaders of the party, as they awakened from deep sleep. Many things that have been forgotten will be remembered. The electoral field will be heated by the right rivalry. That is the case in Tamil Nadu.
-
-Voting for the 39 constituencies in Tamil Nadu will be held on April 19, and the counting of voting will begin on June 4.
-
-Tamil Nadu ranks fifth in terms of Lok Sabha places. In the 2019 election, the DMK -led secular progressive Alliance won 38 seats of a total of 39 seats.
-
-...
-
-[Data](articles/1700df79.json)
-
-[Extended Data](ext_articles/1700df79.ext.json)
 
 ---
 
@@ -2193,81 +2257,5 @@ On March 26, a couple arriving from Thailand was arrested with 88 live animals b
 [Data](articles/8c4144dd.json)
 
 [Extended Data](ext_articles/8c4144dd.ext.json)
-
----
-
-### Sri Lanka’s sovereignty of Kachchativu was never in doubt
-
-*2024-04-03 02:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sri-Lankas-sovereignty-of-Kachchativu-was-never-in-doubt/172-280075) · `en`
-
-Sri Lanka’s sovereignty over Kachchativu, according to the narrative, was never in doubt and it was in fact the Kachchativu issue that decided the demarcation of the maritime boundary between Sri Lanka and India
-
-The book relates how laws were brought to confine fishing to areas within the boundary of each country
-
-There were also reports of illicit immigrants from South India using the Kachchativu Festival to enter Sri Lanka
-
-The sovereignty of Kachchativu Island which Sri Lanka had exercised throughout history is once again disputed by India. This is despite India having withdrawn the claim- that it owned this island- with the presentation of facts to the Government of New Delhi some years ago.  However, the island, barren and uninhabited most of the year, had remained a contentious issue for over a hundred years.
-
-...
-
-[Data](articles/38224f20.json)
-
-[Extended Data](ext_articles/38224f20.ext.json)
-
----
-
-### Child pregnancies, minimum age for marriage and consent debate - EDITORIAL
-
-*2024-04-03 02:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Child-pregnancies-minimum-age-for-marriage-and-consent-debate-EDITORIAL/172-280074) · `en`
-
-With the government on Monday withdrawing the Bill that was gazetted on February 9 this year to amend the Penal Code to lower the age for girls for sexual consent from 16 to 14, a question is naturally being raised as to what prompted the government to introduce the Bill without consulting all stakeholders.
-
-Chair of the Women Parliamentarians’ Caucus, MP Dr. Sudarshini Fernandopulle, while writing to Justice, Prison Affairs and Constitutional Reforms Minister Wijeyadasa Rajapakshe had last month expressed the deep concern of the Caucus about the Bill and requested him to withdraw it. It was against that backdrop the minister had agreed to abandon the Bill. Accordingly, the government has informed the Supreme Court that it would not go ahead with the Bill.
-
-...
-
-[Data](articles/1f35dfa6.json)
-
-[Extended Data](ext_articles/1f35dfa6.ext.json)
-
----
-
-### Easter Sunday attacks: Maithripala’s Indian hand claim and its far-reaching implications on bilateral ties
-
-*2024-04-03 02:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Easter-Sunday-attacks-Maithripalas-Indian-hand-claim-and-its-far-reaching-implications-on-bilateral-ties/172-280073) · `en`
-
-Having languished in relative obscurity and been found responsible by the Supreme Court for failing to prevent the Easter Sunday carnage  former President Maithripala Sirisena is making headlines again for all the wrong reasons.
-
-Two weeks back, he made an astounding revelation that he knew who was behind the Easter Sunday attacks which killed 269 worshippers and tourists and wounded over 500.
-
-...
-
-[Data](articles/9dd09ed6.json)
-
-[Extended Data](ext_articles/9dd09ed6.ext.json)
-
----
-
-### World Bank stresses need for sustained reform implementation
-
-*2024-04-03 02:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-Bank-stresses-need-for-sustained-reform-implementation/108-280072) · `en`
-
-Senior officials of the World Bank addressing the media at the Sri Lanka Development Update report launch - Pic by Kithrisi de Mel
-
-Stresses need for continued implementation of a strong and credible structural reform programme
-
-Says must ensure that reforms that have restored macro-fiscal financial stability are sustained
-
-Notes need for continued implementation of structural reforms that would encourage higher private investment and non-debt creating flows
-
-As Sri Lanka is looking to leave behind the effects of the crisis and move towards development, sustained reform implementation is essential for Sri Lanka to have a stronger and more resilient economy, the World Bank said yesterday.
-
-In its recent development update for the island nation, the agency stressed that continued implementation of a strong and credible structural reform programme will help address the root causes of the crisis and avoid stagnation at low levels of economic growth.
-
-...
-
-[Data](articles/fd4973ef.json)
-
-[Extended Data](ext_articles/fd4973ef.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 18:34:59**
+As of **2024-04-03 19:03:24**
 
 ## Newspaper Stats
 
-*Scraped **16,917** Articles*
+*Scraped **16,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ dailyftlk | 910
 islandlk | 931
 economynextcom | 940
 adalk | 1,421
-tamilmirrorlk | 2,012
+tamilmirrorlk | 2,015
 adaderanalk | 2,029
 virakesarilk | 2,443
 dailymirrorlk | 2,600
-adaderanasinhalalk | 2,735
+adaderanasinhalalk | 2,736
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,904 (99.9%) of 16,917 articles have been extended.
+16,921 (100.0%) of 16,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### An horrific bus accident in Ratnapura
+
+*2024-04-03 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195265) · `si`
+
+A horrific bus accident occurred in Ratnapura, involving a passenger bus and a lorry.
+
+🟩
+
+A passenger bus and a lorry collided in the basket of Ratnapura.
+
+The accident had occurred when the bus collided with the bus on the road.
+
+A lorry and a van collided with a lorry and van.
+
+◼️
+
+[Data](articles/0bb9a0f2.json)
+
+[Extended Data](ext_articles/0bb9a0f2.ext.json)
+
+---
 
 ### 24 people in police custody died last year
 
@@ -73,6 +95,28 @@ Many workers are honest, but there are some who are not, in the same way most pa
 ...
 
 [Data](articles/4862fc48.json)
+
+[Extended Data](ext_articles/4862fc48.ext.json)
+
+---
+
+### Murugan, Robert Paes and Jayakumar returned home
+
+*2024-04-03 17:59:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முருகன்-ரொபர்ட்-பயஸ்-ஜெயக்குமார்-மூவரும்-வீடு-திரும்பினர்/175-335574) · `ta`
+
+Murugan, Robert Paes, and Jayakumar returned home after inquiries in Sri Lanka. Rajiv Gandhi, released from murder charges, returned to India 33 years later.
+
+🟩
+
+Former Prime Minister of India Rajiv Gandhi, who was arrested and released on charges of murder, returned to the country on Wednesday 33 years later.
+
+Murugan, Robert Paes and Jayakumar have arrived in Sri Lanka. After inquiries, they returned home at 5.55 pm on Wednesday (03)
+
+◼️
+
+[Data](articles/f465f4f7.json)
+
+[Extended Data](ext_articles/f465f4f7.ext.json)
 
 ---
 
@@ -180,6 +224,8 @@ The debt office offered 135 billion rupees of bills and sold 132 billion. (Colom
 
 [Data](articles/7c15e8aa.json)
 
+[Extended Data](ext_articles/7c15e8aa.ext.json)
+
 ---
 
 ### Special trains for New Year season
@@ -220,6 +266,8 @@ A bond maturing on 01.07.2032 closed up at 12.55/80 percent from 12.50/75 percen
 
 [Data](articles/22e16218.json)
 
+[Extended Data](ext_articles/22e16218.ext.json)
+
 ---
 
 ### Most contenders for presidency will gather around Wickremesinghe: UNP
@@ -239,6 +287,8 @@ Kariyawasam said the party will also celebrate International Labour Day on May 0
 ...
 
 [Data](articles/7f5efb80.json)
+
+[Extended Data](ext_articles/7f5efb80.ext.json)
 
 ---
 
@@ -265,6 +315,32 @@ The body was recovered by the Nuwara Eliya District Magistrate and the Nuwara El
 [Data](articles/74b9e0e1.json)
 
 [Extended Data](ext_articles/74b9e0e1.ext.json)
+
+---
+
+### The body of the young woman with an apology within the heart
+
+*2024-04-03 17:16:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இதயத்துக்குள்-1-000-மன்னிப்புடன்-யுவதியின்-சடலம்-மீட்பு/76-335573) · `ta`
+
+A young woman's body found in Iragala Police Division's Telmer surface, with a heart symbol and apologies in a letter. She was 18, from Telmak Estate, Udapussalawa, and had been missing for two days. The letter, found on her, expressed regret and blamed stress. She had been in a relationship with a man from Nanuoya since age 16, leading to conflicts.
+
+🟩
+
+In about two sides, it is usually in Tungles, and usually one side of the mother and father, and on the other side, the woman has written a letter on the other side, and the woman has made the wrong decision.
+
+In a letter of general, she painted a heart, referring to 1,000 times, apologizing and apology. The incident took place in the Telmer surface of the Iragala Police Division.
+
+The body of the woman was recovered by the police on Wednesday (03) by the body of an 18 -year -old Sudarshika, a woman from the Telmak Estate, Udapussalawa, from the Irakalai Telmer Divisional Pond, which belongs to the Irakalai Police Division.
+
+The body of a woman who was searching for the last two days has been recovered.
+
+The body was recovered by the Nuwara Eliya District Magistrate and the Nuwara Eliya Crime Forensic Police. The body has been taken to the Nuwara Eliya District Hospital for autopsy.
+
+...
+
+[Data](articles/a7666e6b.json)
+
+[Extended Data](ext_articles/a7666e6b.ext.json)
 
 ---
 
@@ -343,6 +419,8 @@ Handunneththi, who heads the NPP’s economic council, said the party is happy t
 ...
 
 [Data](articles/6ae2c2bd.json)
+
+[Extended Data](ext_articles/6ae2c2bd.ext.json)
 
 ---
 
@@ -429,6 +507,8 @@ Hayleys Plc saw the most active volumes traded (amounting to Rs228mn), with seve
 ...
 
 [Data](articles/5aed7d0a.json)
+
+[Extended Data](ext_articles/5aed7d0a.ext.json)
 
 ---
 
@@ -762,6 +842,8 @@ ECONOMYNEXT – Now that Sri Lanka has transitioned away from relying solely on 
 
 [Data](articles/a00c695d.json)
 
+[Extended Data](ext_articles/a00c695d.ext.json)
+
 ---
 
 ### Refusal to Keheliya
@@ -902,6 +984,28 @@ Church speaker. At a press conference, journalists questioned at a press confere
 
 ---
 
+### Did Cardin know about 21/4?
+
+*2024-04-03 15:34:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-குறித்து-கர்தினால்-அறிந்திருந்தாரா/175-335570) · `ta`
+
+The Catholic Church of Sri Lanka stated that Cardinal Malcolm Ranjith was not warned about the Easter Sunday attacks. He did not attend Easter worship in 2019, customarily attending on Saturday night but not on Sunday.
+
+🟩
+
+The Catholic Church of Sri Lanka today said that the Archbishop of Colombo Cardinal Malcolm Ranjith has not received any notice on the Easter Sunday attacks.
+
+Church speaker. At a press conference, journalists questioned at a press conference that the assumptions that had been issued before Cardinal Ranjith had been warned before the Easter Sunday attacks on Easter Sunday attacks.
+
+"Cardinal Ranjit was not attending Easter worship in 2019. It is customary for the Archbishop of Colombo to attend the Easter worship on Saturday night. Easter will not participate in any service on Sunday, ”he added.
+
+◼️
+
+[Data](articles/805da91f.json)
+
+[Extended Data](ext_articles/805da91f.ext.json)
+
+---
+
 ### ADB to resume Sri Lanka project financing, back PPPs under new strategy
 
 *2024-04-03 15:34:00* · [`economynextcom`](https://economynext.com/adb-to-resume-sri-lanka-project-financing-back-ppps-under-new-strategy-157365/) · `en`
@@ -921,6 +1025,8 @@ ADB was also working on a green bonds framework, he said. (Colombo/Apr03/2024)
 ◼️
 
 [Data](articles/5bb09d2f.json)
+
+[Extended Data](ext_articles/5bb09d2f.ext.json)
 
 ---
 
@@ -1596,6 +1702,8 @@ Semasinghe told reporters on Tuesday April 02 that various political parties had
 
 [Data](articles/2910962e.json)
 
+[Extended Data](ext_articles/2910962e.ext.json)
+
 ---
 
 ### General amnesty declared for tri-forces absentees
@@ -1755,6 +1863,8 @@ The guidelines will establish a State-led management system to register, monitor
 ...
 
 [Data](articles/26e1070f.json)
+
+[Extended Data](ext_articles/26e1070f.ext.json)
 
 ---
 
@@ -2052,6 +2162,8 @@ Pactet commended the Sri Lankan government’s “dedicated efforts and the impl
 
 [Data](articles/4452b247.json)
 
+[Extended Data](ext_articles/4452b247.ext.json)
+
 ---
 
 ### Robert Paes, Murugan and Jayakumar left Sri Lanka
@@ -2219,87 +2331,5 @@ Searched everywhere and they are not available. Subsequently lodged a complaint 
 [Data](articles/b8f0cda6.json)
 
 [Extended Data](ext_articles/b8f0cda6.ext.json)
-
----
-
-### Lahiru, Nagamuwa and Jinaratana Thero
-
-*2024-04-03 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195242) · `si`
-
-Lahiru Weerasekera, Duminda Nagamuwa, and Rathakana The Fort Magistrate were released on bail yesterday.
-
-🟩
-
-Lahiru Weerasekera and Duminda Nagamuwa and Rathakana The Fort Magistrate yesterday have been released on bail.
-
-◼️
-
-[Data](articles/729bbfa2.json)
-
-[Extended Data](ext_articles/729bbfa2.ext.json)
-
----
-
-### Three Sri Lankan convicts in Rajiv Gandhi assassination case released from Tiruchi Special Camp
-
-*2024-04-03 11:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-Sri-Lankan-convicts-in-Rajiv-Gandhi-assassination-case-released-from-Tiruchi-Special-Camp/108-280100) · `en`
-
-TIRUCHI, April 3 (The Hindu)- Three Sri Lankan nationals convicted in the former Prime Minister Rajiv Gandhi assassination case — Murugan, Robert Payas and Jayakumar — who had been prematurely freed from prison and later detained at a special camp in Tiruchi, were released on April 2 at night.
-
-According to sources, upon the receipt of final clearance from the Ministry of Home Affairs to send them back to Sri Lanka, the Revenue Department which runs the Special Camp, released them.
-
-They were taken in a police vehicle, under heavy security, to Chennai to fly back Colombo. They are expected to board a Sri Lankan airline from Chennai airport at 10 a.m.
-
-The Sri Lankan authorities are said to have provided all the travel documents to Murugan, Robert Payas and Jayakumar.
-
-...
-
-[Data](articles/c64c3788.json)
-
-[Extended Data](ext_articles/c64c3788.ext.json)
-
----
-
-### ARCASIA Investments acquires 11.97-pct stake in Sri Lanka’s Ambeon Capital
-
-*2024-04-03 11:34:00* · [`economynextcom`](https://economynext.com/arcasia-investments-acquires-11-97-pct-stake-in-sri-lankas-ambeon-capital-157324/) · `en`
-
-ECONOMYNEXT – An 11.97 percent stake of Ambeon Capital Plc was bought by ARCASIA Investments and Trading (Pvt) Ltd on Monday, the company said in a stock exchange filing.
-
-“ARCASIA Investments & Trading (Pvt) Ltd has purchased 120,000,000 shares of Ambeon Capital Plc which amounts to 11.97% of the issued shares of the Company on 1st April 2024,” the statement said.
-
-On Monday, Ambeon Capital Plc, formerly Taprobane Holdings, saw transactions amounting to a total of 274,853,407 shares changing hands for 1,513,675,780 rupees.
-
-The shares were sold by Seylan Bank Plc/ARRC Capital (Pvt) Limited (Collateral) and Seylan Bank Plc/ARRC Capital (Pvt) Limited, which together disposed of 274,000,000 shares of Ambeon Capital Plc; amounting to 27.32 percent of the issued shares of Ambeon.
-
-◼️
-
-[Data](articles/1c3ff79d.json)
-
----
-
-### There are many things happening behind the screen
-
-*2024-04-03 11:30:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரைக்கு-பின்னால்-பல-விஷயங்கள்-நடக்கின்றன/175-335557) · `ta`
-
-Akilaviraj Kariyawasam, UNP leader, claims over 60% of Sri Lankan voters undecided. He denies rumors of political party vote predictions and suggests President Wickremesinghe will be surprised by the election outcome. Kariyawasam also mentions UNP's May Day procession plans.
-
-🟩
-
-United National Party (UNP) Assistant Leader Akilaviraj Kariyawasam said yesterday that more than 60 per cent of the voters in Sri Lanka have not yet been determined to vote.
-
-Former minister Kariyawasam said at a media briefing that rumors that some political parties are expected to get more votes are false.
-
-At the same time, he said that the current President Ranil Wickremesinghe would be surprised by the surprise of the country during the 2015 presidential election.. "There are many things happening behind the screen, so don't come from the outside," he said.
-
-"Many individuals and parties have promised President Wickremesinghe their support and they will take action as they approach the election," he said.
-
-He has also announced that the United National Party will hold this year's May Day procession in front of the Tower Hall.
-
-◼️
-
-[Data](articles/f79d0ecb.json)
-
-[Extended Data](ext_articles/f79d0ecb.ext.json)
 
 ---

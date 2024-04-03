@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 01:19:12**
+As of **2024-04-04 01:36:02**
 
 ## Newspaper Stats
 
-*Scraped **16,972** Articles*
+*Scraped **16,976** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 150
 bbccomsinhala | 177
 dbsjeyarajcom | 207
 newsfirstlk | 363
-dailyftlk | 915
+dailyftlk | 916
 islandlk | 931
 economynextcom | 942
 adalk | 1,430
-tamilmirrorlk | 2,017
+tamilmirrorlk | 2,018
 adaderanalk | 2,035
-virakesarilk | 2,450
+virakesarilk | 2,452
 dailymirrorlk | 2,613
 adaderanasinhalalk | 2,742
 
@@ -26,11 +26,77 @@ adaderanasinhalalk | 2,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,972 (100.0%) of 16,972 articles have been extended.
+16,972 (100.0%) of 16,976 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### யாழில். மாணவர்களுக்கு போதைப்பொருள் விற்பனை செய்த கும்பலைச் சேர்ந்தவர்கள் கைது
+
+*2024-04-04 01:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180371) · `ta`
+
+யாழ்ப்பாணத்தில் பாடசாலை மாணவர்களை இலக்கு வைத்து போதைப்பொருள் விற்பனையில் ஈடுபட்ட ஆறு பேரை புதன்கிழமை (03) புதன்கிழமை யாழ்ப்பாண மாவட்ட குற்றத்தடுப்பு பிரிவு பொலிஸார்  கைது செய்துள்ளனர்.
+
+கைது செய்யப்பட்டவர்கள் குருநகர் மற்றும்  நாவாந்துறை பகுதியை சேர்ந்த 18 வயதிற்கும் 21 வயதிற்கும் இடைப்பட்டவர்கள் என்றும் , பொலிஸ் நிலையத்தில் அவர்களைத் தடுத்து வைத்து தீவிர விசாரணைகளை முன்னெடுத்து வருவதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+யாழ்ப்பாணம் புறநகர் பகுதியில் உள்ள பிரபல ஆண்கள் பாடசாலைக்கு அருகில் வைத்து போதைப்பொருள் வியாபாரத்தில் கும்பல் ஒன்று ஈடுபட்டு வருவதாக பொலிஸ் புலனாய்வு பிரிவினருக்குக் கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் சம்பவ இடத்திற்கு விரைந்த பொலிஸ் குழுவினர் , போதைப்பொருள் வியாபாரத்தில் ஈடுபட்டிருந்த இருவரை மடக்கிப் பிடித்தனர். அவர்களிடம் முன்னெடுக்கப்பட்ட விசாரணைகளின் அடிப்படையில் மேலும் மூவரைக் கைது செய்தனர்.
+
+பாடசாலைக்கு அருகில் வைத்து கைது செய்யப்பட்ட ஐவரையும் பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+...
+
+[Data](articles/1aa498d1.json)
+
+---
+
+### Damaging consequences of IMF’s focus on the primary budget balance
+
+*2024-04-04 01:11:53* · [`dailyftlk`](https://www.ft.lk/columns/Damaging-consequences-of-IMF-s-focus-on-the-primary-budget-balance/4-760270) · `en`
+
+“That said, revenue is perhaps the main concern in Sri Lanka.” – IMF Official at the latest staff level meeting with the Government of Sri Lanka
+
+The IMF’s explanation of Sri Lanka’s recent foreign exchange crisis is fiscal and monetary mismanagement; fiscal excesses funded by Central Bank printing. The solution proposed by the IMF is to reduce the budget deficit (‘fiscal consolidation’) and prevent the Central Bank from printing money to finance it. Particular emphasis is placed on the attainment of a primary budget surplus – Government revenue minus expenditure less interest and amortisation payments, and particular emphasis in respect of the attainment of this primary surplus is placed on increasing taxes. The Government of Sri Lanka (GOSL) is quoted by the IMF (2023) as committing itself to,
+
+...
+
+[Data](articles/f8b69545.json)
+
+---
+
+### தற்போதைய வேலைத்திட்டத்தை கடுகளவில் மாற்றினாலும் நாடு பெரும் நெருக்கடியை சந்திக்கும் - அமைச்சர் பந்துல குணவர்தன
+
+*2024-04-04 00:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180370) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையிலான அரசாங்கத்தினால் முன்னெடுக்கப்பட்டு வரும் தற்போதைய வேலைத்திட்டத்தில் கடுகளவு மாற்றம் செய்யப்பட்டாலும் நாடு மீண்டும் பாரிய நெருக்கடிக்குள் தள்ளப்படும் என போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் மற்றும் ஊடகத்துறை அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+
+நாட்டில் வறுமை அதிகரித்துள்ளதாக பல்வேறு தகவல்கள் வெளியாகினாலும், பொருளாதார வளர்ச்சி மறைப் பெறுமானம் 08 ஆக  பதிவாகிய வங்குரோத்து  நாட்டில் வறுமை புதிதல்ல என்றும், வறிய மக்களின் பாதுகாப்புக்கான நிவாரணமாகவே சமூர்த்தியை போன்ற மூன்று மடங்கு நிவாரணத் தொகையை வழங்கும் அஸ்வெசும வேலைத்திட்டம் செயற்படுத்தப்படுவதாகவும்  அமைச்சர் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (03) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் இதனைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/6fd6c66b.json)
+
+---
+
+### கடிதம் எழுதி வைத்துவிட்டு யுவதி எடுத்த விபரீத முடிவு
+
+*2024-04-04 00:53:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடிதம்-எழுதி-வைத்துவிட்டு-யுவதி-எடுத்த-விபரீத-முடிவு/175-335577) · `ta`
+
+இராகலை - டெல்மார் மேற்ப்பிரிவு குளத்தில் இருந்து டெல்மாக் தோட்டம் உடப்புசல்லாவையைச் சேர்ந்த 18 வயதான சுதர்ஷிகா என்ற பெண்ணின் சடலம் புதன்கிழமை (03) இராகலை பொலிஸாரால் மீட்க்கப்பட்டுள்ளது.
+
+கடந்த இரண்டு நாட்களாக காணவில்லை எனத் தேடப்பட்டு வந்த குறித்த யுவதியே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
+
+இந்த சடலம் நுவரெலியா மாவட்ட நீதவான் முன்னிலையில் இராகலை பொலிஸார் மற்றும் நுவரெலியா குற்றத் தடயவியல் பொலிஸார் இணைந்து மீட்டுள்ளனர்
+
+இந்த யுவதி 16 வயதில் (2 வருடங்களுக்கு முன்) தான் விரும்பிய நானுஓயா பகுதியை சேர்ந்த நபருடன் வீட்டை விட்டு புறப்பட்டு சில காலம் தனியாக இருந்துள்ளனர். பின்னர் குறித்த ஆணுடனும் குடும்ப அங்கத்தவர்ளுடனும் ஏற்பட்ட சில கசப்பான சம்பவங்களினால் இறப்பதற்கு முன் தன் பெற்றோருக்கு ஒரு கடிதம் எழுதி வைத்துள்ளார்.
+
+...
+
+[Data](articles/04c96217.json)
+
+---
 
 ### Ranil’s Akhand Bharatisation of Lanka, Sajith’s socialist nightmare and religious rampage
 
@@ -54,7 +120,7 @@ Prime Minister Modi’s hawkish remarks on Kachchatheevu island conceded by Indi
 
 ### Kolkata launches Telhi
 
-*2024-04-04 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180369) · `ta`
+*2024-04-04 00:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180369) · `ta`
 
 Kolkata Knight Riders won the Telhi Keppitels by 106 runs, scoring 272 runs in 20 overs. Key players included Sunil Narain, Angrish Raghuvanshi, Antre Russell, and Rinku Singh. Telhi Capitels lost all wickets in 17.2 overs, scoring 33 runs.
 
@@ -2189,93 +2255,5 @@ The suspect is receiving treatment at the Kalutara Teaching Hospital.
 [Data](articles/22dde038.json)
 
 [Extended Data](ext_articles/22dde038.ext.json)
-
----
-
-### Presidential Election and General Election on the same day?
-
-*2024-04-03 15:08:49* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-හා-මහ-මැතිවරණය-එකම-දිනයකදී-/11-408925) · `si`
-
-Presidential and parliamentary elections on the same day are proposed to meet both parties' needs, despite concerns about reducing presidential power and ensuring a majority in parliament. The law allows for simultaneous elections, and the president's decision to dissolve parliament could facilitate this. The focus is on the country's advantage, not party gain, with the understanding that no party can secure a majority in parliament.
-
-🟩
-
-Leader of the President, Udaya Gammanpila says that the president and the Budget is going to be held in the same day to meet the need for both parties and the parliamentary election.
-
-He was responding to a media briefing held at the Keratern JHU office today (204.04.2013). The MP said,
-
-"If the president wants to reduce the power of the president, the presidential election will not be held until the presidential election will be no parliamentary election. Before the presence of Basil Rajapaksa wants the parliamentary election before the results of the people.
-
-This is why Basil insists to put the parliamentary election early.This is why the president is guiding this request.We are now aware that the president and parliamentary elections will be discussed on the same day on both sides.
-
-...
-
-[Data](articles/669594a2.json)
-
-[Extended Data](ext_articles/669594a2.ext.json)
-
----
-
-### Ruwan holds public day in Biyagama
-
-*2024-04-03 15:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ruwan-holds-public-day-in-Biyagama/110-280115) · `en`
-
-UNP Deputy Leader and Adviser to the President, Ruwan Wijewardena held a public day in Biyagama today, where the problems of those who arrived from several areas were discussed. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/221d15cf.json)
-
-[Extended Data](ext_articles/221d15cf.ext.json)
-
----
-
-### Several special trains during New Year's year
-
-*2024-04-03 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195253) · `si`
-
-During New Year, special trains run from Colombo to Colombo, operated by the Railway Department from 15th to 15th.
-
-🟩
-
-Several special trains have been added to the home and passengers during the New New Year.
-
-The Railway Department is noting that the train will be operated from Colombo from Colombo to 15th to 15th to 15th.
-
-◼️
-
-[Data](articles/0426cc54.json)
-
-[Extended Data](ext_articles/0426cc54.ext.json)
-
----
-
-### Three Sri Lankans released by Rajiv Gandhi assassination
-
-*2024-04-03 15:01:12* · [`adalk`](https://www.ada.lk/breaking_news/රජිව්-ගාන්ධි-ඝාතනයට-සම්බන්ධ-තවත්-ලාංකිකයන්-තිදෙනෙක්-නිදහස්-කරයි/11-408924) · `si`
-
-Three Sri Lankans, including Shanmamingam Jayakumara and Ventwall Sri Karan, were released from prison after 33 years for the assassination of former Indian Prime Minister Rajiv Gandhi. They arrived at the Katunayake airport on March 4th, 2023, after being detained in India.
-
-🟩
-
-Former Prime Minister Rajiv Gandhi, India Rajiv Gandhi, was released to the Katunayake airport in 04/03.
-
-Among them were 62-year-old Shanmamingam Jayakumara, 53-year-old Ventwall Sri Karan and 53-year-old Balazundaram Robert Payes with them.
-
-They were 4/03 days at Chennai from Chennai, SriLankan Airlines, USA - 122 was arrived at the Katunayake airport.
-
-After 33 years were imprisoned on the murder of former Prime Minister Rajiv Gandhi's assassination, he was released on November 11, after he was released on 11th November.
-
-The Katunayake Airport Investigations have been handed over by the Department of Immigration and Emigration Department and the Katunayake airport inquiry.
-
-The suspects had commenced investigations into the matter, as they had fled the boat to India.
-
-Accordingly, the suspects were detained by Katunayake airport criminal investigations and commenced further investigations.
-
-...
-
-[Data](articles/725520c4.json)
-
-[Extended Data](ext_articles/725520c4.ext.json)
 
 ---

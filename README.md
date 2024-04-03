@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 08:18:23**
+As of **2024-04-03 08:33:57**
 
 ## Newspaper Stats
 
-*Scraped **16,764** Articles*
+*Scraped **16,773** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 1,408
 tamilmirrorlk | 1,994
 adaderanalk | 2,012
 virakesarilk | 2,410
-dailymirrorlk | 2,577
-adaderanasinhalalk | 2,709
+dailymirrorlk | 2,585
+adaderanasinhalalk | 2,710
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,764 (100.0%) of 16,764 articles have been extended.
+16,764 (99.9%) of 16,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### රුමේනියාවේ රැකියා සිහින පෙන්වා කෝටි ගණනක් වංචා කළ කත රිමාන්ඩ්
+
+*2024-04-03 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195235) · `si`
+
+රුමේනියාවේ රැකියා ලබා දෙන බව පවසා රුපියල් කෝටි 08කට වැඩි මුදලක් වංචා කළ බව කියන සැකකාරියක් අප්‍රේල් 8 දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස මාළිගාකන්ද මහෙස්ත්‍රාත්වරයා නියම කර තිබේ.
+
+මාළිගාවත්ත - ලක්විරු සෙවන නිවාස සංකීර්ණයේ සැඟවී සිටි කාන්තාවක්ව පසුගිය දා විදේශ සේවා නියුක්ති කාර්යංශයේ විමර්ශන නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබුණි.
+
+විදේශ රැකියා ලබා දීම සඳහා අදාළ සැකකාරිය බලපත්‍රයක් ලබා ගෙන රැකියා නියෝජිත ආයතනයක් පවත්වා ගෙන ගොස් තිබේ.
+
+රුමේනියාවේ ක්ෂේත්‍ර කිහිපයක රැකියා ලබා දීම සඳහා ද ඇයට අවසර තිබී ඇත.
+
+නමුත් තමන්ට අවසර නොමැති රැකියා ක්ෂේත්‍ර සඳහා යොමු කරන බව පවසමින් සැකකාරිය මුදල් ලබා ගෙන ඇති බවට විදේශ සේවා නියුක්ති කාර්යංශයට පැමිණිලි ලැබී ඇත.
+
+සැකකාරියට මුදල් ලබා දී රැකියා නොලැබුණු පුද්ගලයින් 88 දෙනෙකු ඒ සම්බන්ධයෙන් විදේශ සේවා නියුක්ති කාර්යංශයට පැමිණිලි කර තිබේ.
+
+මේ සම්බන්ධයෙන් විමර්ශනයක් පැවැත්වීම සඳහා විදේශ සේවා නියුක්ති කාර්යංශයට පැමිණෙන ලෙස විමර්ශන නිලධාරීන් ඇයට දන්වා තිබුණ ද ඇය විමර්ශන නිලධාරීන් ඉදිරියේ පෙනී නොසිට සැඟවී සිට ඇත.
+
+...
+
+[Data](articles/e8a5b0c0.json)
+
+---
 
 ### President briefed on challenges faced by Muslim schools in Colombo
 
@@ -164,6 +188,26 @@ Foreign and organizations representatives have shown that there are approximatel
 
 ---
 
+### 7.4-magnitude quake strikes off Taiwan’s east coast, sparking tsunami warnings
+
+*2024-04-03 06:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/7-4-magnitude-quake-strikes-off-Taiwans-east-coast-sparking-tsunami-warnings/108-280079) · `en`
+
+CNN - A major earthquake with a magnitude of 7.4 struck off Taiwan’s eastern coast Wednesday, according to the US Geological Survey, prompting tsunami warnings for the island and southern Japan.
+
+The quake’s epicenter is located about 18 kilometers (11 miles) south of the city of Hualien. Tremors were felt across the island, including by CNN staff in Taipei.
+
+Taiwan’s Central Weather Administration issued a tsunami warning following the quake. An alert from CWA was sent to residents, though not all received it, warning that a tsunami was expected to impact the northern coastal area and that residents are advised to evacuate to higher ground.
+
+The Japan Meteorological Agency also issued a tsunami warning for Miyakojima and Okinawa islands, warning of waves up to 3 meters expected imminently.
+
+Several aftershocks were felt in Taiwan, including one that registered a magnitude of 6.5, according to the USGS.
+
+...
+
+[Data](articles/9e488eb9.json)
+
+---
+
 ### Tsunami warning to Japan
 
 *2024-04-03 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195231) · `si`
@@ -181,6 +225,34 @@ According to foreign media reports, a tsunami warning to Japan has issued a warn
 [Data](articles/274a58d7.json)
 
 [Extended Data](ext_articles/274a58d7.ext.json)
+
+---
+
+### Corruption taints operations on drugs, underworld criminals
+
+*2024-04-03 06:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Corruption-taints-operations-on-drugs-underworld-criminals/155-280078) · `en`
+
+Colombo, April 3 (Daily Mirror) - In response to mounting concerns over reports of several police officers being in contact with leading drug lords, some of whom operate from overseas while others are imprisoned following recent crackdowns on underworld gangs, intelligence officers have been deployed to identify the police officers collaborating with organized criminals and drug traffickers with their assets to be probed, the Daily Mirror learns.
+
+Police have received information regarding certain officers being in touch with criminals in return for perks and large sums of cash as bribes. However, investigations are secretly underway to track them down.
+
+These rogue officers are accused of aiding criminal activity and taking undue advantage of their positions.
+
+...
+
+[Data](articles/d2d7cf1c.json)
+
+---
+
+### Welcoming summer with warmth...
+
+*2024-04-03 06:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Welcoming-summer-with-warmth/110-280077) · `en`
+
+The vibrant blossoms eagerly greet the summer in Nuwara Eliya, painting the landscape with their radiant colors, evoking a sense of warmth and anticipation for the season ahead. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/3020db70.json)
 
 ---
 
@@ -261,6 +333,26 @@ He served on the KPMG Middle East and South Asia Board during his tenure as Mana
 [Data](articles/1bfb4c9e.json)
 
 [Extended Data](ext_articles/1bfb4c9e.ext.json)
+
+---
+
+### Almost 60 percent of voters still undecided: Akila
+
+*2024-04-03 05:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Almost-60-percent-of-voters-still-undecided-Akila/108-280080) · `en`
+
+Colombo, April 3 (Daily Mirror) - Research conducted by the government has revealed that more than 60 percent of the voters in Sri Lanka are still undecided on whom they should vote for, UNP Assistant Leader Akila Viraj Kariyawasam said yesterday.
+
+Former Minister Kariyawasam told a press briefing that rumours of certain political parties expected to get a high percentage of votes is false.
+
+At the same time he said that incumbent President Ranil Wickremesinghe will spring a surprise similar to one the country had during the 2015 Presidential election. "There are many things happening behind the scenes. Therefore don't come to conclusions seeing from the outside," he said in this regard.
+
+"Many individuals and parties have pledged their support to President Wickremesinghe and they will make a move when the election is drawing near, " he also said.
+
+Also he announced that the UNP will hold a May Day procession in front of Tower Hall this year.
+
+◼️
+
+[Data](articles/c9778c29.json)
 
 ---
 
@@ -540,6 +632,18 @@ The Cabinet has approved the idea put forward by Ports and Aviation Minister Nim
 
 ---
 
+### Has Sri Lanka become a potential hub for the illegal wildlife trade?
+
+*2024-04-03 02:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/Has-Sri-Lanka-become-a-potential-hub-for-the-illegal-wildlife-trade/131-280076) · `en`
+
+On March 26, a couple arriving from Thailand was arrested with 88 live animals brought into the Bandaranaike International Airport.
+
+...
+
+[Data](articles/8c4144dd.json)
+
+---
+
 ### Sri Lanka’s sovereignty of Kachchativu was never in doubt
 
 *2024-04-03 02:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sri-Lankas-sovereignty-of-Kachchativu-was-never-in-doubt/172-280075) · `en`
@@ -592,6 +696,28 @@ Two weeks back, he made an astounding revelation that he knew who was behind the
 
 ---
 
+### World Bank stresses need for sustained reform implementation
+
+*2024-04-03 02:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-Bank-stresses-need-for-sustained-reform-implementation/108-280072) · `en`
+
+Senior officials of the World Bank addressing the media at the Sri Lanka Development Update report launch - Pic by Kithrisi de Mel
+
+Stresses need for continued implementation of a strong and credible structural reform programme
+
+Says must ensure that reforms that have restored macro-fiscal financial stability are sustained
+
+Notes need for continued implementation of structural reforms that would encourage higher private investment and non-debt creating flows
+
+As Sri Lanka is looking to leave behind the effects of the crisis and move towards development, sustained reform implementation is essential for Sri Lanka to have a stronger and more resilient economy, the World Bank said yesterday.
+
+In its recent development update for the island nation, the agency stressed that continued implementation of a strong and credible structural reform programme will help address the root causes of the crisis and avoid stagnation at low levels of economic growth.
+
+...
+
+[Data](articles/fd4973ef.json)
+
+---
+
 ### Amendment and plantation workers!
 
 *2024-04-03 01:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180287) · `ta`
@@ -635,6 +761,22 @@ The Union of Parliament and Members of Parliament held a discussion on the Bill 
 [Data](articles/cf17d4af.json)
 
 [Extended Data](ext_articles/cf17d4af.ext.json)
+
+---
+
+### Sri Lanka to get energy efficiency testing lab with South Korean support
+
+*2024-04-03 01:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-get-energy-efficiency-testing-lab-with-South-Korean-support/108-280066) · `en`
+
+Sri Lanka will soon see the addition of a laboratory for energy efficiency testing of air conditioners, with the government of South Korea agreeing to support the endeavour.
+
+South Korea will help, under the Greenhouse Gas Emission Reduction Project to establish the said laboratory. The project is financed through the Korea Energy Agency, and the installation of the laboratory and necessary training of human resources in this project is scheduled to be completed during the year 2024.
+
+The agreement of the Department of Foreign Resources, the Ministry of Foreign Affairs and the Attorney General’s Department has been received for the memorandum and referrals to be signed by the Government of South Korea and the Government of Sri Lanka expressing their agreement for the implementation of the proposed project.
+
+...
+
+[Data](articles/b307a280.json)
 
 ---
 
@@ -2069,187 +2211,5 @@ Batting first, Sri Lanka scored 531 runs for the loss of all of the people.
 [Data](articles/89ccc0d2.json)
 
 [Extended Data](ext_articles/89ccc0d2.ext.json)
-
----
-
-### Microscopic activities and women after the economic crisis in the North and East
-
-*2024-04-02 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180245) · `ta`
-
-In Sri Lanka, the economic crisis burdens families and women, leading to increased microfinance activities and debt. Women in rural areas participate in weekly savings groups, aiming to secure emergency loans, but face high-interest debt. The government's lack of relief and the financialization of rural economies exacerbate the crisis, exploiting women's labor and possessions.
-
-🟩
-
-The burden of the current economic crisis in Sri Lanka is imposed on every families and women. Getting loans in this situation is a way of dealing with their financial needs. This also leads to their exploitation and dismay.
-
-Evolved into a major problem with follicle in the post -war north and east. In 2018, some attempts were made to reduce the activities of companies. Debt Returns and Loan Time. However, microfinance and family loans due to the impact of the current economic crisis;Can re -observe the increase. Attempts against the financial institutions on that day provided a temporary solution. The long -standing impact of the economic crisis we are currently facing has created a different and intriguing environment.
-
-...
-
-[Data](articles/bb588b11.json)
-
-[Extended Data](ext_articles/bb588b11.ext.json)
-
----
-
-### The law pertaining to the growth of VAT is passed by a majority
-
-*2024-04-02 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195219) · `si`
-
-The Added Tax Act, passed by a majority, increases VAT. The opposition secured 55 votes in favor. Today, the Bank Amendment Bill was revised and passed.
-
-🟩
-
-Under the Added Tax Act, the law was passed today (02) in Parliament today.
-
-The opposition demanded a vote and 55 votes were cast in favor of the following.
-
-Meanwhile, the Bank Amendment Bill was completed today (02) and passed a revision.
-
-◼️
-
-[Data](articles/99bfc761.json)
-
-[Extended Data](ext_articles/99bfc761.ext.json)
-
----
-
-### Sri Lanka President appoints Wijerathne as new DG for CIABOC with wide powers
-
-*2024-04-02 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-appoints-wijerathne-as-new-dg-for-ciaboc-with-wide-powers-157182/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe appointed High Court Judge W. K. D. Wijerathne as the Director General of the Commission to Investigate Allegations of Bribery or Corruption, which has wide powers under the new Anti Corruption Act.
-
-Wijerathne has functioned in the same role before, but this new appointment is under the new Act which was passed in the parliament in September last year.
-
-The new Act is one of the commitments President Wickremesinghe’s government made to the International Monetary Fund in return to its $3 billion loan.
-
-The new Act has empowered CIABOC, granting it more authority to effectively investigate and prosecute cases of bribery and corruption.
-
-The anti-graft body in the past has investigated into the allegations of bribery and corruptions, but has failed to live up to the expectation because most complaints did not see prosecutions.
-
-...
-
-[Data](articles/d4001ebf.json)
-
-[Extended Data](ext_articles/d4001ebf.ext.json)
-
----
-
-### Parliament approves VAT increase from 15% to 18%
-
-*2024-04-02 16:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-approves-VAT-increase-from-15-to-18/108-280047) · `en`
-
-Parliament, April 2 (Daily Mirror)- The order under the Value Added Tax (VAT) which proposed to increase the VAT percentage from 15 percent to 18 percent was passed in Parliament with a majority of 36 votes.
-
-A total of 55 MPs voted in favour while 19 MPs voted against.
-
-The gazette notification for the amendment was issued in January this year.
-
-◼️
-
-[Data](articles/1d132718.json)
-
-[Extended Data](ext_articles/1d132718.ext.json)
-
----
-
-### SriLankan Airlines to lease four wide-body aircraft
-
-*2024-04-02 16:53:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-to-lease-four-wide-body-aircraft-157180/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers have given approval for state-run SriLankan Airlines to acquire four wide body aircraft on operating leases, Minister Bandula Gunawardana has said.
-
-The national carrier will lease two aircraft from ORIX Aviation for 6 years at a fee of 360,000 dollars.
-
-Another two aircraft will be leased from Aergo Capital Limited for 8 years at a fee of 365,000 dollars, he said.
-
-Sri Lankan has contracts of several leased aircraft expire, after legislators blocked the first tender floated to lease aircraft in 2022, around the time the island defaulted on its sovereign bond.
-
-Airbus A330-200s will be leased from ORIX and Airbus A330-300s will be leased from Aergo, an airline official said. (Colombo/Apr02/2024)
-
-◼️
-
-[Data](articles/194fa033.json)
-
-[Extended Data](ext_articles/194fa033.ext.json)
-
----
-
-### Sathosa's prices down in several items
-
-*2024-04-02 16:49:21* · [`adalk`](https://www.ada.lk/breaking_news/සතොස-භාණ්ඩ-කීපයක-මිල-බස්සයි/11-408906) · `si`
-
-Sathosa reduces prices of essential commodities. Crog onions now Rs. 495, red onion Rs. 290, Jambo crises Rs. 494, Pakistan prices Rs. 195, milk powder Rs. 925, white rice Rs. 192, soy meat Rs. 593.
-
-🟩
-
-Lanka Sathosa said that the Ceylon Sathosa has been reduced to the price of nine essential commodities from today.
-
-Pakistanlon crog onions by Rs. 55. The new price is Rs 495
-
-The price of a kilogram of red onion is by Rs 30. The new price is Rs. 290
-
-The price of a kilogram of Jambo crises is 16 rupees.The new price is Rs. 494
-
-Prices of Pakistan prices by 15 rupees.The new price is Rs. 195
-
-400 g of milk powder prices of Rs.10. The new price is Rs. 925
-
-The price of a kilogram of white rice rice is Rs 3. The new price is Rs. 192
-
-Soy Meet price of a kilogram of soy meat by Rs 2. The new price is Rs. 593
-
-◼️
-
-[Data](articles/2ba9d4dd.json)
-
-[Extended Data](ext_articles/2ba9d4dd.ext.json)
-
----
-
-### Swassal bag to relief flower from today - an egg for Rs.6
-
-*2024-04-02 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195218) · `si`
-
-Sathosa offers a relief bag for Rs.11 from 02/03/2023, and an egg at retail price.
-
-🟩
-
-Customers have been given the opportunity to buy a relief bag from today (02) from all Sathosa branches in the country.
-
-Suda Chairman Pasolma Abeywardena stated that the concessionary bag of 11 worth Rs.
-
-Sathosa's steps have also been taken to sell an egg at a retail price.
-
-◼️
-
-[Data](articles/658850e1.json)
-
-[Extended Data](ext_articles/658850e1.ext.json)
-
----
-
-### Schools closed due to temperature increase in the Philippines
-
-*2024-04-02 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180259) · `ta`
-
-Schools in the Philippines, including Manila, are closed due to a temperature increase. Tomorrow's expected temperature in Manila is 43°C, surpassing the record of 38.6°C set on May 17, 1915. Schools in Luzon, Buppin, Luson, and Diwana Mindanova have also been suspended or reduced to school time.
-
-🟩
-
-Hundreds of schools, including tens of schools in the capital, Manila, have been suspended.
-
-The temperature is expected to occur at 43 degrees Celsius tomorrow in Manila.
-
-Today's Temperature recorded 35.7 degrees Celsius. There, the record of 38.6 degrees Celsius was recorded on May 17, 1915.
-
-Luzon, the main island of the Buppin, Luson and Diwana Mindanova, have been suspended in schools in schools or have been reduced to school time, the Ministry of Education said.
-
-◼️
-
-[Data](articles/835dfaca.json)
-
-[Extended Data](ext_articles/835dfaca.ext.json)
 
 ---

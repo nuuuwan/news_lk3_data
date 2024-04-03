@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 00:49:24**
+As of **2024-04-04 01:03:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,971 (100.0%) of 16,972 articles have been extended.
+16,972 (100.0%) of 16,972 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Prime Minister Modi’s hawkish remarks on Kachchatheevu island conceded by Indi
 ...
 
 [Data](articles/29de5ab2.json)
+
+[Extended Data](ext_articles/29de5ab2.ext.json)
 
 ---
 

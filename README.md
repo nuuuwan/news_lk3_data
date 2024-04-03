@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 13:34:22**
+As of **2024-04-03 13:52:55**
 
 ## Newspaper Stats
 
-*Scraped **16,836** Articles*
+*Scraped **16,838** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,84 @@ economynextcom | 927
 islandlk | 931
 adalk | 1,412
 tamilmirrorlk | 2,007
-adaderanalk | 2,017
+adaderanalk | 2,018
 virakesarilk | 2,427
 dailymirrorlk | 2,592
-adaderanasinhalalk | 2,721
+adaderanasinhalalk | 2,722
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,832 (100.0%) of 16,836 articles have been extended.
+16,836 (100.0%) of 16,838 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### මෛත්‍රීගේ ප්‍රකාශය ගැන කතෝලික සභාවෙන් බරපතළ චෝදනාවක්
+### විෂ මත්ද්‍රව්‍ය භාවිත කරන්නන් ලක්ෂ 5ක් රට ඇතුළේ
+
+*2024-04-03 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195247) · `si`
+
+විවිධ විෂ මත්ද්‍රව්‍ය භාවිත කරන පිරිස් ලක්ෂ 5කට අධික සංඛ්‍යාවක් මෙරට තුළ සිටින බව අන්තරායකර ඖෂධ පාලක ජාතික මණ්ඩලය පවසයි.
+
+එහි සභාපති නීතිඥ ශාක්‍ය නානායක්කාර මහතා අද (03) පැවැති ප්‍රවෘත්ති සාකච්ඡාවකදී මේ බව සඳහන් කළේය.
+
+"ලංකාවේ මේ මොහොත වෙනකොට, විවිධ මත්ද්‍රව්‍ය ගත්තොත් ලක්ෂ 5කට අධික සංඛ්‍යාවක් මත්ද්‍රව්‍ය භාවිතයට යොමු වුණ අය ඉන්නවා. මීට අමතරව අලුත් ආකාරයෙන් බෙහෙත් වර්ගවලට යොමුවීම. මේ බෙහෙත් හැමදාම තිබුණා. නමුත් මේ වෙද්දි යම් සුවිශේෂි අවධානයක් යොමුවෙලා සමහර අය වැඩිවශයෙන් යොමුවෙලා තියෙනවා. 30,000කට ආසන්න ප්‍රමාණයක් මේ පෙති ගන්නවා කියලා අපිට කියන්න පුළුවන්. මීට අමතරව ලංකාවට එන රසායනික වර්ග 25ක් අපි විශේෂ සමීක්ෂණයකට ලක්කරනවා. ඒකට හේතුව තමා ඒවායින් පුළුවන්කමක් තියෙනවා අලුත් මත්ද්‍රව්‍ය හදාගන්න. ඒ 25 ම ලංකාවට ගෙන්වනවා නම්, බෙදාහරිනවා නම් අන්තරායකර ඖෂධ පාලක ජාතික මණ්ඩලයේ ලයිසන් එකක් ඕනේ."
+
+◼️
+
+[Data](articles/c581d567.json)
+
+---
+
+### General amnesty declared for tri-forces absentees
+
+*2024-04-03 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98393/general-amnesty-declared-for-tri-forces-absentees) · `en`
+
+The Ministry of Defence has declared a general amnesty for the tri-forces absentees, enabling them to receive a legal discharge from their respective services.
+
+General amnesty will be in force for a period of one month, from 20 April to 20 May.
+
+Accordingly, the tri-forces personnel who have been absent without leave (AWOL) before 02 April this year will be allowed to receive their discharge from military service during this period.
+
+Additionally, if they have any amount due to be paid to their respective services, it is required to be settled before receiving their discharge.
+
+Meanwhile, the absentees who are currently living overseas will also be eligible to receive a legal discharge from their respective services without reporting to the unit during the general amnesty period.
+
+◼️
+
+[Data](articles/e9b9be78.json)
+
+---
+
+### The Catholic Church is a serious accusation of Maithri's statement
 
 *2024-04-03 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195246) · `si`
 
-පාස්කු ඉරිදා ප්‍රහාරය හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතා මුල සිටම දැන සිට ඇතැයි කතෝලික සභාව විශ්වාස කරන බව ගරු සිරිල් ගාමිණී පියතුමන් පවසයි.
+Fr. Cyril Gamini criticizes the IGP's handling of the Easter attack, calling for justice. The Catholic Church, in a news conference, criticizes the IGP's security response. Maithripala Sirisena suggests a solution, implying knowledge of a conspiracy.
 
-උන්වහන්සේ මේ බව ප්‍රකාශ කළේ, පොලිස්පතිවරයා පසුගිය පාස්කු ඉරුදින කටුවපිටියේ කළ සංචාරය සහ වින්දිතයන්ගේ සුවදුක් විමසීමට යාම පිළිබඳව අප්‍රසාදය පළකිරීම සඳහා අද අගරදගුරු නිල නිවසේදී පැවැත්වූ ප්‍රවෘත්ති සාකච්ඡාවකදීය.
+🟩
 
-ඉකුත් පාස්කු ඉරු දින පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා කටුවපිටිය ශාන්ත සෙබස්තියන් දේවස්ථානයට පැමිණ ආරක්ෂක තත්ත්වය සොයාබලා ප්‍රහාරයේ වින්දිතයන්ගේ සුවදුක්ද විමසා බැලීය.
+Fr. Cyril Gamini says that the Catholic Church believes in the beginning of the Easter attack.
 
-කතෝලික සභාව අද ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් පොලිස්පතිවරයාගේ එම ක්‍රියාකලාපය විවේචනය කළේය.
+He was speaking at a press conference held at the Archbishop's official residence today to expand the last Passover visit to the Sunday and the visits of victims.
 
-"පාස්කු ඉරිදා කියන්නේ, අපි හැමෝටම විශේෂ දවසක්. උදේ දිව්‍ය පුජාව අපි පැවැත්වුවා අපිව කිසිම ආකාරයෙන් දැනුවත් කරලා තිබුණේ නෑ. අපි ඉල්ලා සිටින්නේ වියළි සලාක මල්ලක් නෙමෙයි. අපි බලලා යන්න නෙමෙයි. අපි ඉල්ලා සිටින්නේ බොහෝම පැහැදිලිවම යුක්තිය. අපිට අනාවරණයන් ලබාදෙන්න කියලා තමා ඉල්ලා සිටින්නේ."
+IGP Deshabandu Tennakoon arrived at St. Sebastian Church and the security situation in the attack, the security situation and the attackers were viewed.
+
+The Catholic Church has held a news conference today, criticized the action of the IGP.
+
+"Easter is a special day for all of us. We had not been able to hold us in any way the morning divine honors. We are not asking for a dry ration bag. We're not going to go. We demand so much clearly justice. He calls for detecting. "
+
+"No we're in no way. The police officers were not told to us. Not to us, it should come to investigate. "
+
+"The wax pandeen has been buried and lighting the victims and the people of the country. There is no meaning to crush white onions this way. "
 
 ...
 
 [Data](articles/d32e7f15.json)
+
+[Extended Data](ext_articles/d32e7f15.ext.json)
 
 ---
 
@@ -118,19 +164,27 @@ Electric fences will be set up for many villages in the elephant penetration thi
 
 ---
 
-### தமிழ் பொதுவேட்பாளர் களமிறக்கப்படின் தமிழர் வாக்குகள் பிளவுபடாது : சி.வி.விக்கினேஸ்வரன்
+### Tamil votes will not split up if Tamil general candidate is fielded: CV Vigneswaran
 
 *2024-04-03 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/180313) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் தமிழ் பொதுவேட்பாளர் ஒருவர் களமிறக்கப்பட்டால், வஜிர அபேவர்தன கூறுவதுபோல் தமிழர்களின் வாக்குகள் பிளவுபடாது எனவும், மாறாக இதுவரை காலமும் பெரும்பான்மையின வேட்பாளர்களுக்கு வாக்களித்த அனைத்துத் தமிழர்களும் ஒன்றிணைந்து தமிழ் பொதுவேட்பாளருக்கு வாக்களிப்பர் எனவும் தமிழ் மக்கள் தேசிய கூட்டணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான சி.வி.விக்கினேஸ்வரன் சுட்டிக்காட்டியுள்ளார்.
+Vajira Abeywardena suggests Tamils won't split votes if a Tamil general candidate is fielded, but CV Vigneswaran disagrees, arguing against a Tamil candidate to avoid dividing Tamil votes. Vigneswaran criticizes the majority community's neglect of Tamil issues post-election, highlighting the unresolved political and social issues faced by Tamils in Sri Lanka. He emphasizes the need for a Tamil general candidate to address these issues, arguing that a good Tamil candidate could unite Tamil votes, despite the historical context of Sinhalese dominance and the challenges of electing a Tamil president.
 
-தமிழ்மக்கள் எதிர்வரும் ஜனாதிபதித் தேர்தலில் தமிழ் பொதுவேட்பாளரொருவரைக் களமிறக்கி, தமிழர் வாக்குகளைப் பிரிக்கக்கூடாது என ஐக்கிய தேசியக்கட்சியின் தவிசாளரும், முன்னாள் பாராளுமன்ற உறுப்பினருமான வஜிர அபேவர்தன கூறியிருப்பது பற்றி தனது நிலைப்பாட்டைத் தெளிவுபடுத்தியிருக்கும் விக்கினேஸ்வரன், இதுகுறித்து மேலும் கூறியிருப்பதாவது:
+🟩
 
-எனது நண்பரான வஜிர அபேவர்தன ஐக்கிய தேசியக்கட்சியின் தவிசாளராவார். எனவே பதவியில் உள்ள ஜனாதிபதியை வெற்றியடையச்செய்வதற்கு அவரால் வேறு எதைக் கூறமுடியும்? ஆனால் அவர் தமிழர்கள் என்ற கோணத்திலிருந்து நாம் முகங்கொடுக்கும் பிரச்சினையைப் பார்த்தால், இவ்வாறு கூறமாட்டார்.
+If a Tamil general candidate in the upcoming presidential election, as Vajira Abeywardena says, the votes of the Tamils will not be split, but all the Tamils who voted for the majority candidates will come together and vote for the Tamil general candidate.
+
+Wickeswaran, who has clarified his position on the UNP Member of Parliament, Vajira Abeywardena's statement, said that the Tamils should not field a Tamil general candidate in the upcoming presidential election and divide the Tamil votes:
+
+My friend Vajira Abeywardena is the UNP. So what else can he say to the success of the post of President?But if we look at the problem we face from the angle of being Tamils, he will not say this.
+
+As Tamils, we have so far voted for a candidate from the majority community. They all promised to provide a solution to our political issue.
 
 ...
 
 [Data](articles/f15f84ec.json)
+
+[Extended Data](ext_articles/f15f84ec.ext.json)
 
 ---
 
@@ -366,19 +420,25 @@ He also said that the cost of imported goods consumed by the people can ensure s
 
 ---
 
-### ராபர்ட் பயஸ், முருகன், ஜெயக்குமார் இலங்கை புறப்பட்டனர்
+### Robert Paes, Murugan and Jayakumar left Sri Lanka
 
 *2024-04-03 11:56:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ராபர்ட்-பயஸ்-முருகன்-ஜெயக்குமார்-இலங்கை-புறப்பட்டனர்/150-335560) · `ta`
 
-முன்னாள் பிரதமர் ராஜீவ் காந்தி படுகொலை வழக்கில் 33 ஆண்டுகள் சிறை தண்டனை அனுபவித்த ராபர்ட் பயஸ், முருகன் மற்றும் ஜெயக்குமார் மூவரும் இன்று இலங்கைக்கு புறப்பட்டனர். இலங்கை தலைநகர் கொழும்பை சென்றடையும் மூவரையும் அவர்களது உறவினர்கள் வரவேற்க காத்துள்ளனர்.
+Robert Paes, Murugan, and Jayakumar, sentenced for Rajiv Gandhi's assassination, left Sri Lanka today. Their relatives await their arrival in Colombo.
 
-முன்னாள் பிரதமர் ராஜீவ் காந்தி 1991-ம் ஆண்டு மே மாதம் 21-ந் திகதி தமிழ்நாட்டில் படுகொலை செய்யப்பட்டார். ராஜீவ் காந்தி கொலை வழக்கில் ஏராளமான தமிழ்நாட்டு தமிழர்களும் ஈழத் தமிழர்களும் (இலங்கை தமிழர்களும்) கைது செய்யப்பட்டனர். ராஜீவ் காந்தி கொலை வழக்கில் தூக்கு தண்டனை விதிக்கப்பட்ட தமிழர்களுக்கு ஆயுள் தண்டனையாகவும் குறைக்கப்பட்டது.
+🟩
 
-உச்சநீதிமன்றத்தில் நடைபெற்ற சட்டப் போராட்டங்களுக்குப் பின்னர் ஆயுள் தண்டனை அனுபவித்த பேரறிவாளன், நளினி, ரவிச்சந்திரன் ஆகிய தமிழ்நாட்டு தமிழர்களும் முருகன், சாந்தன், ஜெயக்குமார், ராபர்ட் பயஸ் என இலங்கைத் தமிழர்களும் விடுதலை செய்யப்பட்டனர். அதேநேரத்தில் ஈழத் தமிழர்களான முருகன், சாந்தன், ஜெயக்குமார், ராபர்ட் பயஸ் ஆகியோர் வெளிநாட்டவர் என்பதால் திருச்சி சிறப்பு முகாமில் அடைக்கப்பட்டிருந்தனர்.
+Robert Paes, Murugan and Jayakumar, who were sentenced to 33 years in the assassination of former Prime Minister Rajiv Gandhi, left Sri Lanka today. Their relatives are waiting to welcome the three of them traveling to Colombo, the capital of Sri Lanka.
+
+Former Prime Minister Rajiv Gandhi was assassinated on May 21, 1991 in Tamil Nadu. A large number of Tamil Nadu Tamils and Eelam Tamils (Sri Lankan Tamils) were arrested in the Rajiv Gandhi assassination case. Tamils sentenced to death in the Rajiv Gandhi assassination case have been reduced to life imprisonment.
+
+Tamil Nadu Tamils - Nalini and Ravichandran, who were sentenced to life imprisonment after legal protests in the Supreme Court, were released by Sri Lankan Tamils as Murugan, Shantan, Jayakumar and Robert Bias.. At the same time, Eelam Tamils Murugan, Shantan, Jayakumar and Robert Paes were foreigners in the Trichy special camp.
 
 ...
 
 [Data](articles/a324c07d.json)
+
+[Extended Data](ext_articles/a324c07d.ext.json)
 
 ---
 
@@ -2205,45 +2265,5 @@ According to the law, the daily salary has been increased to Rs.. Labor Minister
 [Data](articles/16519871.json)
 
 [Extended Data](ext_articles/16519871.ext.json)
-
----
-
-### Sri Lanka to get energy efficiency testing lab with South Korean support
-
-*2024-04-03 01:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-get-energy-efficiency-testing-lab-with-South-Korean-support/108-280066) · `en`
-
-Sri Lanka will soon see the addition of a laboratory for energy efficiency testing of air conditioners, with the government of South Korea agreeing to support the endeavour.
-
-South Korea will help, under the Greenhouse Gas Emission Reduction Project to establish the said laboratory. The project is financed through the Korea Energy Agency, and the installation of the laboratory and necessary training of human resources in this project is scheduled to be completed during the year 2024.
-
-The agreement of the Department of Foreign Resources, the Ministry of Foreign Affairs and the Attorney General’s Department has been received for the memorandum and referrals to be signed by the Government of South Korea and the Government of Sri Lanka expressing their agreement for the implementation of the proposed project.
-
-...
-
-[Data](articles/b307a280.json)
-
-[Extended Data](ext_articles/b307a280.ext.json)
-
----
-
-### S. Jayabalan (JP) to laugh and think;A tribute note
-
-*2024-04-03 01:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/180285) · `ta`
-
-S. Jayabalan, a renowned Tamil journalist in Sri Lanka, passed away on 25th. Known for his caricatures and articles, he served Weerakesari for over 40 years. Born in Tamil Nadu, he was a journalist, news editor, and author, receiving awards for his contributions to journalism.
-
-🟩
-
-Journalist S. Jayabalan, who has been a mockery of the Weerakesari magazine, has been a voice of the Tamil speaking people in Sri Lanka for the past 94 years and a painter for short stories and articles passed away on Monday 25th Monday 25th.. In his caricatures, he would briefly mention his name in Tamil as JP or JP. It is a summary of his full name, Jayapalan.
-
-His service period with Weerakesari is more than 40 years. Veerakesari Publishers, Warrior, Mithran, Metro News, Sunflower. S. Jayapalan's native of Tamil Nadu. His father Ponniah is from Nalukottai in Sivagangai district. The mother belongs to the village of Keelappungudi in the same district.
-
-Jayapalan was born in Keezhappungudi as the eldest son of both of them. He has three brothers and two sisters. Their family settled in the Attan estate with his family as a child.JP continued his education at Hilands College.
-
-...
-
-[Data](articles/ca320253.json)
-
-[Extended Data](ext_articles/ca320253.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 01:36:02**
+As of **2024-04-04 01:52:21**
 
 ## Newspaper Stats
 
@@ -26,27 +26,39 @@ adaderanasinhalalk | 2,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,972 (100.0%) of 16,976 articles have been extended.
+16,976 (100.0%) of 16,976 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### யாழில். மாணவர்களுக்கு போதைப்பொருள் விற்பனை செய்த கும்பலைச் சேர்ந்தவர்கள் கைது
+### In the jaffna. Arrested for a gang of drugs for students
 
 *2024-04-04 01:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180371) · `ta`
 
-யாழ்ப்பாணத்தில் பாடசாலை மாணவர்களை இலக்கு வைத்து போதைப்பொருள் விற்பனையில் ஈடுபட்ட ஆறு பேரை புதன்கிழமை (03) புதன்கிழமை யாழ்ப்பாண மாவட்ட குற்றத்தடுப்பு பிரிவு பொலிஸார்  கைது செய்துள்ளனர்.
+Jaffna District Police arrested six drug dealers aged 18-21 from Gurunagar and Navanthurai. Two were caught with 300 narcotics in a three-wheeler.
 
-கைது செய்யப்பட்டவர்கள் குருநகர் மற்றும்  நாவாந்துறை பகுதியை சேர்ந்த 18 வயதிற்கும் 21 வயதிற்கும் இடைப்பட்டவர்கள் என்றும் , பொலிஸ் நிலையத்தில் அவர்களைத் தடுத்து வைத்து தீவிர விசாரணைகளை முன்னெடுத்து வருவதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-யாழ்ப்பாணம் புறநகர் பகுதியில் உள்ள பிரபல ஆண்கள் பாடசாலைக்கு அருகில் வைத்து போதைப்பொருள் வியாபாரத்தில் கும்பல் ஒன்று ஈடுபட்டு வருவதாக பொலிஸ் புலனாய்வு பிரிவினருக்குக் கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் சம்பவ இடத்திற்கு விரைந்த பொலிஸ் குழுவினர் , போதைப்பொருள் வியாபாரத்தில் ஈடுபட்டிருந்த இருவரை மடக்கிப் பிடித்தனர். அவர்களிடம் முன்னெடுக்கப்பட்ட விசாரணைகளின் அடிப்படையில் மேலும் மூவரைக் கைது செய்தனர்.
+Jaffna District Crime Branch Police have arrested six persons for drug sales in Jaffna on Wednesday (03).
 
-பாடசாலைக்கு அருகில் வைத்து கைது செய்யப்பட்ட ஐவரையும் பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை முன்னெடுத்துள்ளனர்.
+The arrested persons are between the ages of 18 and 21, from the Gurunagar and Navanthurai area and are carrying out intensive investigations by detaining them at the police station.
 
-...
+Based on the confidential information received by the Police Intelligence Unit, a police team rushed to the scene and folded two persons involved in the drug business.. They were arrested on the basis of investigations carried out by them.
+
+Investigations have been carried out by detaining the five persons who were arrested near the school.
+
+While. When the police chased a three -wheeler in the Navanthurai area, a man was arrested by the police when he was arrested by the police.
+
+When the three -wheeler was searched, the police recovered 300 narcotics.
+
+The police then arrested the suspect, rescued the three -wheeler and took further investigations to the suspect.
+
+◼️
 
 [Data](articles/1aa498d1.json)
+
+[Extended Data](ext_articles/1aa498d1.ext.json)
 
 ---
 
@@ -62,39 +74,59 @@ The IMF’s explanation of Sri Lanka’s recent foreign exchange crisis is fisca
 
 [Data](articles/f8b69545.json)
 
+[Extended Data](ext_articles/f8b69545.ext.json)
+
 ---
 
-### தற்போதைய வேலைத்திட்டத்தை கடுகளவில் மாற்றினாலும் நாடு பெரும் நெருக்கடியை சந்திக்கும் - அமைச்சர் பந்துல குணவர்தன
+### The country will face a major crisis even if the current program is changed - Minister Bandula Gunawardena
 
 *2024-04-04 00:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180370) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையிலான அரசாங்கத்தினால் முன்னெடுக்கப்பட்டு வரும் தற்போதைய வேலைத்திட்டத்தில் கடுகளவு மாற்றம் செய்யப்பட்டாலும் நாடு மீண்டும் பாரிய நெருக்கடிக்குள் தள்ளப்படும் என போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் மற்றும் ஊடகத்துறை அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+Minister Bandula Gunawardena warns of a major crisis despite program changes, highlighting the government's efforts to alleviate poverty and improve economic status. Despite increased poverty reports, he emphasizes the Assembly program's relief efforts. He also mentions contractors' completion of 361 billion rupees in arrears, aiming for smooth economic recovery with improved foreign stock and reduced inflation.
 
-நாட்டில் வறுமை அதிகரித்துள்ளதாக பல்வேறு தகவல்கள் வெளியாகினாலும், பொருளாதார வளர்ச்சி மறைப் பெறுமானம் 08 ஆக  பதிவாகிய வங்குரோத்து  நாட்டில் வறுமை புதிதல்ல என்றும், வறிய மக்களின் பாதுகாப்புக்கான நிவாரணமாகவே சமூர்த்தியை போன்ற மூன்று மடங்கு நிவாரணத் தொகையை வழங்கும் அஸ்வெசும வேலைத்திட்டம் செயற்படுத்தப்படுவதாகவும்  அமைச்சர் தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (03) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் இதனைத் தெரிவித்தார்.
+Minister of Transport and Media Bandula Gunawardena said the country would be re -informed by the current project being carried out by the government led by President Ranil Wickremesinghe.
+
+Although various reports have revealed that poverty has increased in the country, the bank's poverty is not new in the country, and that the poverty is not new and that the Assembly program is being implemented as a relief for the safety of the poor people.
+
+The Minister made this statement at a media briefing held at the Presidential Media Center on Wednesday (03).
+
+The Minister also said that the contractors had completed 361 billion rupees in the arrears that the contractors had to pay for the contractors and that all development projects could be launched after signing the agreement with bilateral credit providers.
 
 ...
 
 [Data](articles/6fd6c66b.json)
 
+[Extended Data](ext_articles/6fd6c66b.ext.json)
+
 ---
 
-### கடிதம் எழுதி வைத்துவிட்டு யுவதி எடுத்த விபரீத முடிவு
+### Writing a letter
 
 *2024-04-04 00:53:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடிதம்-எழுதி-வைத்துவிட்டு-யுவதி-எடுத்த-விபரீத-முடிவு/175-335577) · `ta`
 
-இராகலை - டெல்மார் மேற்ப்பிரிவு குளத்தில் இருந்து டெல்மாக் தோட்டம் உடப்புசல்லாவையைச் சேர்ந்த 18 வயதான சுதர்ஷிகா என்ற பெண்ணின் சடலம் புதன்கிழமை (03) இராகலை பொலிஸாரால் மீட்க்கப்பட்டுள்ளது.
+The body of 18-year-old Sudarshika from Udappusallawa was found by police on Wednesday. She had been missing for two days. The police, along with the Nuwara Eliya Crime Forensic Police, recovered the body in the presence of the District Magistrate. Sudarshika had left her home with a man from Nanuoya, where she had been living for two years. She wrote a letter to her parents before her death, expressing regret and asking for forgiveness.
 
-கடந்த இரண்டு நாட்களாக காணவில்லை எனத் தேடப்பட்டு வந்த குறித்த யுவதியே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
+🟩
 
-இந்த சடலம் நுவரெலியா மாவட்ட நீதவான் முன்னிலையில் இராகலை பொலிஸார் மற்றும் நுவரெலியா குற்றத் தடயவியல் பொலிஸார் இணைந்து மீட்டுள்ளனர்
+The body of an 18 -year -old Sudarshika from Udappusallawa, a Telmak Estate from the Irakalai - Telmar Divisional Pond, has been recovered by the police on Wednesday (03).
 
-இந்த யுவதி 16 வயதில் (2 வருடங்களுக்கு முன்) தான் விரும்பிய நானுஓயா பகுதியை சேர்ந்த நபருடன் வீட்டை விட்டு புறப்பட்டு சில காலம் தனியாக இருந்துள்ளனர். பின்னர் குறித்த ஆணுடனும் குடும்ப அங்கத்தவர்ளுடனும் ஏற்பட்ட சில கசப்பான சம்பவங்களினால் இறப்பதற்கு முன் தன் பெற்றோருக்கு ஒரு கடிதம் எழுதி வைத்துள்ளார்.
+The body has been recovered by the woman who has been searched for the past two days.
 
-...
+The body was recovered by the Irakalai police and the Nuwara Eliya Crime Forensic Police in the presence of the Nuwara Eliya District Magistrate.
+
+The young woman left the house with a man from the Nanuoya area where she wanted to be 16 (2 years ago) (2 years ago).. He then wrote a letter to his parents before he died of some bitter incidents with the man and the family members.
+
+I cannot cope with the problems, the stress is the only cause and that he is responsible for his decision. “Mom, Dad, forgive me. This life is so hard. I am going from here. ”
+
+Further investigations into the death. Remble
+
+◼️
 
 [Data](articles/04c96217.json)
+
+[Extended Data](ext_articles/04c96217.ext.json)
 
 ---
 

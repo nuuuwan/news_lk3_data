@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 11:03:01**
+As of **2024-04-03 11:17:57**
 
 ## Newspaper Stats
 
-*Scraped **16,798** Articles*
+*Scraped **16,799** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 910
 economynextcom | 922
 islandlk | 931
 adalk | 1,410
-tamilmirrorlk | 1,999
+tamilmirrorlk | 2,000
 adaderanalk | 2,015
 virakesarilk | 2,417
 dailymirrorlk | 2,588
@@ -26,59 +26,91 @@ adaderanasinhalalk | 2,715
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,796 (100.0%) of 16,798 articles have been extended.
+16,798 (100.0%) of 16,799 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### ශ්‍රී ලංකාවට සුපිරි ජයක්
+### உலகில் வயதான ஆண் மரணமானார்
 
-*2024-04-03 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195240) · `si`
+*2024-04-03 11:05:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உலகில்-வயதான-ஆண்-மரணமானார்/50-335552) · `ta`
 
-ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවති දෙවන ටෙස්ට් ක්‍රිකට් තරගය ලකුණු 192කින් ජයගැනීමට ශ්‍රී ලංකා කණ්ඩායම අද (03) සමත් විය.
+உலகின் மிக வயதான மனிதர் என்று கின்னஸ் உலக சாதனையால் 2022 ஆம் ஆண்டில் சான்றளிக்கப்பட்ட வெனிசுலா ஜுவான் விசென்டே பெரெஸ் மோரா தனது 114 வயதில் செவ்வாய்க்கிழமை (03) காலமானதாக அதிகாரிகள் மற்றும் உறவினர்கள் தெரிவித்தனர்.
 
-ඒ අනුව තරග දෙකකින් සමන්විත වූ තරගාවලිය තරග 2 - 0ක් ලෙස ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායමට හැකියාව ලැබුණි.
+"ஜுவான் விசென்டே பெரெஸ் மோரா 114 வயதில் நித்தியத்தை கடந்துவிட்டார்" என்று வெனிசுலா ஜனாதிபதி நிக்கோலஸ் மதுரோ சமூக ஊடக தளமான X இல் தெரிவித்தார்.
 
-තරගය ජය ගැනීම සඳහා ලකුණු 511ක ඉලක්කයක් හඹා ගිය සත්කාරක බංග්ලාදේශ කණ්ඩායම තරගයේ පස්වන දිනයේ දී ලකුණු 318කට සියලුදෙනා දැවී ගියේය.
+2022 பெப்ரவரி 4, அன்று 112 வயது மற்றும் 253 நாட்களான கின்னஸ் படி, உயிருடன் இருக்கும் மிக வயதான மனிதராக பெரெஸ் அதிகாரப்பூர்வமாக உறுதிப்படுத்தப்பட்டார்.
 
-මෙම තරගයේ පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම සිය පළමු ඉනිම සඳහා සියලුදෙනා දැවී ලකුණු 531ක් රැස්කළේය.
+◼️
 
-ශ්‍රී ලංකා කණ්ඩායමේ පළමු ඉනිම වෙනුවෙන් කමිඳු මෙන්ඩිස් නොදැවී ලකුණු 92ක් රැස්කරගත්තේය.
-
-කුසල් මෙන්ඩිස් ලකුණු 93ක් රැස්කළ අතර දිමුත් කරුණාරත්න ලකුණු 86ක් රැස්කළහ.
-
-පන්දු යැවීමේදී බංග්ලාදේශ පළමු ඉනිම වෙනුවෙන් ෂකීබ් අල් හසන් කඩුලු 03ක් දවාගත්තේය.
-
-බංග්ලාදේශ කණ්ඩායම සිය පළමු ඉනිම සඳහා රැස්කළේ ලකුණු 178ක් පමණි.
-
-එහිදී ශ්‍රී ලංකාව වෙනුවෙන් අගනා පන්දු යැවීමක නිරත වූ අසිත ප්‍රනාන්දු පන්දුවාර 10යි පන්දු 4කදී ලකුණු 34කට කඩුලු 4ක් දවාගත්තේය.
-
-ළහිරු කුමාර, ප්‍රභාත් ජයසූරිය සහ විශ්ව ප්‍රනාන්දු කඩුලු 2 බැගින් දවාගැනීමට සමත්වූහ.
-
-...
-
-[Data](articles/898c0d73.json)
+[Data](articles/251c32f5.json)
 
 ---
 
-### චීනයේ සිහින මෝටර් රථයට විශාල ඉල්ලුමක්
+### Superbid from Sri Lanka
+
+*2024-04-03 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195240) · `si`
+
+Sri Lanka won the 2-match Test series 2-0, with a total of 531 runs in the first innings. Bangladesh scored 318 in their first innings, with Shakib al Hasan taking 3 wickets. Sri Lanka's Kamindu Mendis scored 92, Kusal Mendis 93, and Dimuth Karunaratne 86. Bangladesh's first innings ended at 178, with Asapitha Fernando taking 4 wickets.
+
+🟩
+
+Sri Lanka were able to win the second Test match between Sri Lanka and 192 (03).
+
+Accordingly, the Sri Lankan team was able to win the two match tournament to 2 - 0.
+
+Chasing a target of 511 runs, the Bangladesh team scored 318 runs.
+
+Batting first Sri Lanka scored 531 runs for the loss of their first innings.
+
+Kamindu Mendis scored 92 runs for the first innings of the Sri Lankan team.
+
+Kusal Mendis scored 93 runs while Dimuth Karunaratne scored 86 runs.
+
+Shakib al Hasan took three wickets for the first innings of Bangladesh in their first innings.
+
+Bangladesh scored 178 runs for their first innings.
+
+Asapitha Fernando took 4 wickets for 34 overs.
+
+Lahiru Kumara, Prabath Jayasuriya and universal Fernando passed 2 wickets each.
+
+Tourism Sri Lanka scored 157 runs for the loss of 7 wickets for their second innings.
+
+Accordingly, the Host Bangladesh team scored 511 runs.
+
+◼️
+
+[Data](articles/898c0d73.json)
+
+[Extended Data](ext_articles/898c0d73.ext.json)
+
+---
+
+### A great demand for China's dream car
 
 *2024-04-03 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195239) · `si`
 
-චීනයේ Xiaomi සමාගම ලෝකයේ ප්‍රකටව සිටින්නේ ජංගම දුරකථන නිෂ්පාදන සමාගමක් ලෙසට ය.
+Xiaomi's new electric car, the "Dream Car," has received over 100,000 orders, marking a significant demand in China, the world's largest electric car market. Despite Tesla's lead, Xiaomi's CEO acknowledges the competition.
 
-ඔවුන් සිය නව මාදිලියේ විද්‍යුත් මෝටර් රථය පසුගියදා එළිදැක්වූ අතර ඒ සඳහා ඇණවුම් බාරගැනීමද ඒ සමගම ඇරඹිණි.
+🟩
 
-ඒ සඳහා මේ වනවිට 100,000කට වඩා ඇණවුම් ලැබී ඇති අතර Xiaomi සමාගම අද නිවේදනය කළේ ඇණවුම් සඳහා නව මෝටර් රථ නිකුත් කිරීම ආරම්භ කළ බවයි.
+In China, Xiaomi is known as a mobile phone product company in the world.
 
-විද්‍යුත් මෝටර් රථ සඳහා ලොව ප්‍රමුඛතම වෙළෙඳපොළ ලෙස චීනය සැලකෙන අතර එහි ඉදිරියෙන්ම සිටින්නේ ටෙස්ලා සමාගම යි.
+They recently launched their new model electric car.
 
-Xiaomi සමාගමේ ප්‍රධාන විධායක ලෙයි ජුන් පැවසුවේ ටෙස්ලා සමාගම මෙන් ඉදිරියට ඒම තම සමාගමේ අරමුණ බවයි.
+For this purpose, USiaomi has received more than 100,000 orders and said that the issuance of new cars has been launched today.
+
+China is considered the world's leading market for electric cars and is the Tesla Company.
+
+The CEO of Xiaomi said that Tesla was ahead of the company.
 
 ◼️
 
 [Data](articles/46d37a21.json)
+
+[Extended Data](ext_articles/46d37a21.ext.json)
 
 ---
 
@@ -2227,25 +2259,5 @@ The explosion of the explosion has been launched and the expansion of the explos
 [Data](articles/c51301b8.json)
 
 [Extended Data](ext_articles/c51301b8.ext.json)
-
----
-
-### Israeli airstrike on Gaza kills seven working for food aid NGO
-
-*2024-04-02 18:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98378/israeli-airstrike-on-gaza-kills-seven-working-for-food-aid-ngo) · `en`
-
-(Reuters) - Citizens from Australia, Britain and Poland were among seven people working for celebrity chef Jose Andres’ World Central Kitchen who were killed in an Israeli airstrike in central Gaza on Monday, the NGO said.
-
-The workers, who also included Palestinians and a dual citizen of the United States and Canada, were travelling in two armoured cars emblazoned with the WCK logo and another vehicle, WCK said in a statement.
-
-Israel has long denied it is hindering the distribution of urgently needed food aid in Gaza, saying the problem is caused by the inability of international aid groups to get it to those in need.
-
-Despite co-ordinating movements with the Israeli Defence Force, the convoy was hit as it was leaving its Deir al-Balah warehouse, after unloading more than 100 tons of humanitarian food aid brought to Gaza by sea, WCK said.
-
-...
-
-[Data](articles/b66507d8.json)
-
-[Extended Data](ext_articles/b66507d8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 11:34:10**
+As of **2024-04-03 11:52:43**
 
 ## Newspaper Stats
 
-*Scraped **16,800** Articles*
+*Scraped **16,812** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,42 +13,148 @@ bbccomsinhala | 176
 dbsjeyarajcom | 202
 newsfirstlk | 363
 dailyftlk | 910
-economynextcom | 922
+economynextcom | 927
 islandlk | 931
-adalk | 1,410
-tamilmirrorlk | 2,001
-adaderanalk | 2,015
-virakesarilk | 2,417
-dailymirrorlk | 2,588
-adaderanasinhalalk | 2,715
+adalk | 1,411
+tamilmirrorlk | 2,002
+adaderanalk | 2,016
+virakesarilk | 2,418
+dailymirrorlk | 2,589
+adaderanasinhalalk | 2,717
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,799 (100.0%) of 16,800 articles have been extended.
+16,800 (99.9%) of 16,812 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### வரிச் சலுகைகள் ரூ.978 பில்.:வருவாயை இழக்க வழிவகுக்கும்
+### ළහිරු, නාගමුව සහ ජිනරතන හිමිට අධිකරණය දුන් නියෝගය
+
+*2024-04-03 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195242) · `si`
+
+ළහිරු වීරසේකර, දුමින්ද නාගමුව සහ රත්කරව්වේ ජිනරතන හිමි කොටුව මහෙස්ත්‍රාත් අධිකරණය විසින් ඇප මත නිදහස් කර තිබේ.
+
+◼️
+
+[Data](articles/729bbfa2.json)
+
+---
+
+### ’’திரைக்கு பின்னால் பல விஷயங்கள் நடக்கின்றன’’
+
+*2024-04-03 11:30:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரைக்கு-பின்னால்-பல-விஷயங்கள்-நடக்கின்றன/175-335557) · `ta`
+
+இலங்கையில் 60 சதவீதத்துக்கும் அதிகமான வாக்காளர்கள் யாருக்கு வாக்களிக்க வேண்டும் என்பது குறித்து இன்னும் தீர்மானிக்கப்படாத நிலையில் இருப்பதாக அரசாங்கத்தினால் நடத்தப்பட்ட ஆய்வில் தெரியவந்துள்ளதாக ஐக்கிய தேசியக் கட்சியின் உதவித் தலைவர் அகிலவிராஜ் காரியவசம் நேற்று தெரிவித்தார்.
+
+சில அரசியல் கட்சிகள் அதிக வாக்குகளைப் பெறும் என எதிர்பார்க்கப்படும் வதந்திகள் பொய்யானவை என முன்னாள் அமைச்சர் காரியவசம் ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+
+அதேவேளை, 2015ஆம் ஆண்டு ஜனாதிபதித் தேர்தலின் போது நாட்டில் ஏற்பட்ட ஆச்சரியத்தை போன்றதொரு ஆச்சரியத்தை தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்க ஏற்படுத்துவார் எனவும் அவர் தெரிவித்துள்ளார். "திரைக்கு பின்னால் பல விஷயங்கள் நடக்கின்றன, எனவே வெளியில் இருந்து பார்த்து முடிவுகளுக்கு வர வேண்டாம்," என்று அவர் இது தொடர்பாக கூறினார்.
+
+"பல தனிநபர்களும் கட்சிகளும் ஜனாதிபதி விக்கிரமசிங்கவுக்கு தங்கள் ஆதரவை உறுதியளித்துள்ளனர், மேலும் தேர்தல் நெருங்கும்போது அவர்கள் நடவடிக்கை எடுப்பார்கள்" என்றும் அவர் கூறினார்.
+
+...
+
+[Data](articles/f79d0ecb.json)
+
+---
+
+### தேர்தல் சூட்டோடு பற்றிக் கொண்ட " கச்சதீவு"விவகாரம்  மோடியுடன் மோதும் ஸ்டாலின் !
+
+*2024-04-03 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180311) · `ta`
+
+இந்திய பாராளுமன்ற தேர்தல் சூடு பிடிக்க ஆரம்பித்து விட்டாலே  போதும்  மக்களும், வேட்பாளர்களும்  உஷாராகி  விடுவார்கள். இலவசங்கள், பண நோட்டுகள் என அனைத்தும் மக்களை துரத்த ஆரம்பித்து விடும்.  அது மாத்திரமன்றி அரசியல் தலைவர்களும் ஆழ்ந்த உறக்கத்தில் இருந்து விழித்துக் கொண்டவர்கள் போன்று  தங்களை சுதாகரித்துக்கொள்வார்கள். மறந்து போன விடயங்கள் பலவும்  அவர்களுக்கு நினைவுக்கு வந்து விடும். சபாஷ் சரியான போட்டி என்ற நிலையில் தேர்தல் களம் சூடேறிவிடும். அந்த நிலைதான் தமிழகத்தில் தொடக்கியுள்ளது.
+
+தமிழகத்தில் உள்ள 39 தொகுதிகளுக்கும் ஏப்ரல் 19ஆம் திகதி ஒரே கட்டமாக வாக்குப்பதிவு நடைபெற்று, ஜூன் 4ஆம் திகதி வாக்கு எண்ணும் பணி ஆரம்பமாகும்.
+
+லோக்சபா இடங்களின் அடிப்படையில் தமிழ்நாடு ஐந்தாவது இடத்தில் உள்ளது. கடந்த  2019 தேர்தலில் திமுக தலைமையிலான மதச்சார்பற்ற முற்போக்குக் கூட்டணி மொத்தமுள்ள 39 இடங்களில் 38 இடங்களை கைப்பற்றி , அமோக வெற்றி பெற்றது.
+
+...
+
+[Data](articles/1700df79.json)
+
+---
+
+### බස් රැජිණියන් සිරිපා කරුණා කළ හැටි
+
+*2024-04-03 11:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195241) · `si`
+
+මෙරට විශේෂ චාරිකා සඳහා වෙන්කර ඇති පුද්ගලික බස්රථ 25ක් එක්ව සිදුකළ වටිනා පුණ්‍යකර්මයක් ගැන තොරතුරු අද දෙරණට වාර්තා වුණි.
+
+ඒ බැතිමතුන් 1,300ක් කිසිදු අයකිරීමක් නොමැතිව නොමිලේ ආහාර පාන ලබාදී සිරිපා කරුණා කරවීමට අවස්ථාව සලසා දීමයි.
+
+හැටන් - නල්ලතන්නිය මාර්ගයෙන් මෙම බස්රථ ගමන් ගන්නා අයුරු දැක්වෙන විචිත්‍රවත් රූප රාමු පෙළක් ද අද දෙරණට ලැබී තිබිණි.
+
+හම්බන්තොට, මාතර, ගාල්ල, හිනිදුම, මැදමුලන, තංගල්ල, කුරුණෑගල, ගම්පහ, උඩුගම්පොළ, අම්බලන්ගොඩ, පිළිමතලාව ආදි ප්‍රදේශ රැසකින් බැතිමතුන් විශාල පිරිසක් ශ්‍රී පාද වන්දනාවේ යෙදී සිටියහ.
+
+ගමන ආරම්භ කළ අවස්ථාවේ සිට බැතිමතුන් සිය නිවෙස්වලට යන අවස්ථාව දක්වාම ප්‍රවාහනය හා ආහාර ආදී සියලු සංග්‍රහ සත්කාර එම බස්රථ හිමියන් විසින් දරනු ලැබීම මෙහි විශේෂත්වයයි.
+
+◼️
+
+[Data](articles/d7c327c4.json)
+
+---
+
+### Abolition of Special Commodity Levy can trigger corruption: Importers
+
+*2024-04-03 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Abolition-of-Special-Commodity-Levy-can-trigger-corruption-Importers/108-280099) · `en`
+
+Colombo, April 3 (Daily Mirror)- In the absence of a mechanism to curb corruption at Sri Lanka Customs, the abolition of the Special Commodity Levy on imported goods can result in price hikes, according to the Essential Commodities Importers’ and Traders’ Association.
+
+The Cabinet has decided to repeal the 17-year-old tax law starting from January, next year.
+
+A spokesman for the Association told Daily Mirror that the levy was introduced way back at the insistence of its members in 2007 because of corruption involved in valuation of goods to charge other taxes including the Value Added Tax, the Port and Airport Development Levy and the Customs Duty.
+
+...
+
+[Data](articles/cb610f6e.json)
+
+---
+
+### Rajiv Gandhi assassination case: Three Sri Lankan convicts released from Tiruchi Special Camp
+
+*2024-04-03 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98391/rajiv-gandhi-assassination-case-three-sri-lankan-convicts-released-from-tiruchi-special-camp) · `en`
+
+Three Sri Lankan nationals convicted in the former Indian Prime Minister Rajiv Gandhi assassination case — Murugan, Robert Payas and Jayakumar — who had been prematurely freed from prison and later detained at a special camp in Tiruchi, were released on April 2 at night.
+
+According to sources, upon the receipt of final clearance from the Ministry of Home Affairs to send them back to Sri Lanka, the Revenue Department which runs the Special Camp, released them.
+
+They were taken in a police vehicle, under heavy security, to Chennai to fly back to Colombo. They are expected to board a Sri Lankan airline from Chennai airport at 10 a.m.
+
+The Sri Lankan authorities are said to have provided all the travel documents to Murugan, Robert Payas and Jayakumar.
+
+...
+
+[Data](articles/4b06ab7f.json)
+
+---
+
+### Tax offers Rs.
 
 *2024-04-03 11:10:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரிச்-சலுகைகள்-ரூ-978-பில்-வருவாயை-இழக்க-வழிவகுக்கும்/175-335554) · `ta`
 
-2022/23 நிதியாண்டில் (ஏப்ரல் முதல் மார்ச் வரை), வரிச்சலுகைகள் மொத்தமாக 978 பில்லியன் ரூபாயை வருவாயாக ஈட்டியதாக அரசாங்கம் (மார்ச் 31) தெரிவித்துள்ளது.
+In 2022, Sri Lanka's tax concessions amounted to 978 billion rupees, 56% of total revenue. The Ministry of Finance's "Tax Expenditure Report" aims to enhance transparency. The government plans to publish a list of companies exempted from IMF and SDP, with a deadline in March 2023.
 
-இது 2022ஆம் ஆண்டில் அரசாங்கத்தால் சேகரிக்கப்பட்ட மொத்த வரி வருவாயில் 56% ஆகும்.
+🟩
 
-வெறிற்றே ரிசர்ச் இனால் பராமரிக்கப்படும் இலங்கையின் முதன்மையான பொருளாதார நுண்ணறிவு தளமான publicfinace .lk  ஆல் இது முன்னிலைப்படுத்தப்பட்டது.
+The government (March 31) said that in the financial year 202/23 (April to March), the tax concessions were a total of 978 billion rupees.
 
-இலங்கையின் நிதி அமைச்சினால் 2024ஆம் ஆண்டு மார்ச் 31ஆம் திகதி வெளியிடப்பட்ட "வரிச் செலவின அறிக்கை " என்ற ஆவணத்தை மூலமாகக் கொண்டு இவ் ஆய்வு வெளியிடப்பட்டள்ளது.
+This is 56% of the total tax revenue collected by the government by 2022.
 
-இலங்கை வழங்கிய பல்வேறு சிறப்பு இலக்கு வரிச் சலுகைகள் காரணமாக இழக்கப்பட்ட மொத்த வருவாய் குறித்த அரசாங்கத்தின் மதிப்பீடுகளை இவ் ஆவணம் தெரிவிக்கிறது. "சர்வதேச சிறந்த நடை முறைகளிற்கேட்ப இலங்கையின் நிதி அறிக்கைகளில் வெளிப்படைத்தன்மையை மேம்படுத்துவது" என ஆவணம் அதன் நோக்கத்தைக் கூறுகிறது.
+It was highlighted by Publicfinace .LK, Sri Lanka's first economic intelligence base, maintained by the fanatic research.
+
+The study was published by the Ministry of Finance of Sri Lanka on March 31, 2024, with a document "Tax Expenditure Report".
+
+The document indicates the government's estimates of the total income lost due to various special target tax concessions provided by Sri Lanka. The document states its aim to "improve transparency in Sri Lanka's financial statements that seek international better style."
 
 ...
 
 [Data](articles/46e1657f.json)
+
+[Extended Data](ext_articles/46e1657f.ext.json)
 
 ---
 
@@ -256,6 +362,42 @@ Dr. Mendis is currently located in Washington DC, while serving as a distinguish
 
 ---
 
+### දරු පවුලට කෑම බීම දීමට නොහැකිව අසරණ වී පියා වස බීලා
+
+*2024-04-03 10:25:54* · [`adalk`](https://www.ada.lk/breaking_news/දරු-පවුලට-කෑම-බීම-දීමට-නොහැකිව-අසරණ-වී-පියා-වස-බීලා/11-408915) · `si`
+
+තිස්සමහරාම රන්මුදුගම ප්‍රදේශයේ දැඩි ආර්ථික අපහසුතා මැද ජීවත් වූ දෙදරු පියකු වසක් ශරීරගත වීමෙන් මියගොස් ඇතැයි තිස්සමහාරාම පොලිසිය පවසයි.
+
+තම පවුලට ආහාර සපයා ගැනීමට නොහැකිව සිටි බව කියන මෙම දෙදරුපියා වස පානය කළ බවට පොලීසිය සැක පල කරයි.
+
+තම පවුල දින කිහිපයක් වේලක් ඇර වේලක් මඤ්ඤොක්කා ආහාරයට ගත් බවත් දරුවන්ට කෑම බීම නොදී ඔහුට ජීවත් වී පලක් නැති බව කියමින් හඬ හඬා සිටි බවට තිස්සමහාරාම පොලීසියට තොරතුරු ලැබී ඇත.
+
+බිම ඇදගෙන වැටි වමන කරමින් සිටි තම ස්වාමිපුරුෂයා වස පානය කරන්නට ඇති කියන සැකය මත  සුවසැරි ගිලන් රථය ගෙන්වා රෝහල්ගත කිරීමට කටයුතු කර බවද බිරිඳ පොලීසියටසඳහන් කර ඇත. සිද්ධිය සම්බන්ධ ව සොයා බැලීම සඳහා පොලීසිය පැමණීමෙන් අතරතුර ප්‍රදේශයේ සමෘද්ධි නිලධාරයා එම ස්ථානයට පැමිණ සිටි බවත් නිලධාරියා බිරිඳගෙන් සමෘද්ධිය නොමැතිද යන වග විමසා ඇත. ඇය සඳහන් කර ඇත්තේ මීට වසරකට පෙර සමෘද්ධිය කපා ඉවත්කර වගකි.ඒ වෙනුවට අස්වැසුම ලබාදීමට කටයුතු කරන බවත් එම නිලධාරීන් සඳහන් කළද මෙතෙක් කිසිදු දීමනාවක් නොලැබුණු බව සඳහන් කර ඇති බව තිස්සමහාරාම පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/e0ba662a.json)
+
+---
+
+### Sri Lanka banks asked to set up business revival units by May
+
+*2024-04-03 10:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-banks-asked-to-set-up-business-revival-units-by-may-157294/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s banks have been asked by the central bank to set up business revival units to help restructure debt of troubled borrowers who have a chance of recovery, starting from May 2024.
+
+“The challenging macroeconomic conditions prevailed during the recent years have led to disrupting the income generating activities of businesses, adversely impacting the ability of borrowers to duly repay their loans and thereby impairing the recovery process of licensed banks,” the central bank said.
+
+“Thus, the setting up of business recovery units is considered imperative to assist both performing and non-performing borrowers of licensed banks whose businesses are fundamentally viable to revive.”
+
+Licensed banks have to set up BRUs by mid-May 2024 and fully comply with the guidelines by July 01.
+
+...
+
+[Data](articles/53b1618b.json)
+
+---
+
 ### A group of organized crime gangs arrested
 
 *2024-04-03 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195237) · `si`
@@ -375,6 +517,50 @@ Kumarasinghe made these remarks while addressing a briefing held at the Presiden
 [Data](articles/159dde42.json)
 
 [Extended Data](ext_articles/159dde42.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 299.80/90 to the US dollar
+
+*2024-04-03 09:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-299-80-90-to-the-us-dollar-157275/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 299.80/90 to the US dollar in the spot forex market on Wednesday, stronger from 299.95/300.05 on Tuesday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 was quoted at 11.35/40 percent from 11.30/40 percent.
+
+A bond maturing on 15.09.2027 was quoted stable at 11.90/12.00 percent.
+
+A bond maturing on 15.12.2028 was quoted stable at 12.10/20 percent.
+
+The Colombo Stock Exchange opened up; the Alls Share Price Index was up 0.08 percent at 11,557. the S&P SL20 was up 0.04 percent at 3,351. (Colombo/Apr3/2024)
+
+◼️
+
+[Data](articles/04835647.json)
+
+---
+
+### Sri Lanka 2024 growth upgraded, but recovery path narrow, says World Bank
+
+*2024-04-03 09:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-2024-growth-upgraded-but-recovery-path-narrow-says-world-bank-157269/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s economy has stabilized by the recovery path which was narrow, World Bank officials said underlining the need to maintain stability and continue on the reform path.
+
+The World Bank’s April 2024 Sri Lanka Development Update projected 2024 growth at 2.2 percent up from 1.7 percent projected last year and 2.5 percent for 2025.
+
+Sri Lanka’s economy has stabilized and it was essential for stability and reforms to continue, Country Manager Chiyo Kanda told reporters Tuesday.
+
+Sri Lanka’s inflation was low, interest rates were falling and the rupee was appreciating, World Bank’s Senior Country Economist Richard Walker said.
+
+Results were already beginning to be seen, but there was unlikely to be a quick bounce back, he said.
+
+Sri Lanka upcoming elections and the possibility of reform fatigue or reversals were, a key risk to the recovery path.
+
+Related World Bank concerned over potential reform fatigue in Sri Lanka’s election year
+
+...
+
+[Data](articles/449c8d35.json)
 
 ---
 
@@ -784,6 +970,28 @@ Foreign and organizations representatives have shown that there are approximatel
 
 ---
 
+### Sri Lanka air passenger traffic up 40-pct to Feb
+
+*2024-04-03 07:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-air-passenger-traffic-up-40-pct-to-feb-157263/) · `en`
+
+ECONOMYNEXT – Sri Lanka has recorded 1.602 million international passenger movements up to February 2024, growing 40.39 percent from a year earlier, the state airport agency said.
+
+Aircraft movements were up 30.77 percent to 8,946 in the first two months of the year, state-run Airport and Aviation Services said.
+
+Tourists arriving by air had risen 104.65 percent to 452,532 in the first two months.
+
+Several international airlines had increased flights to the island, and others which had terminated flights during a the Coronavirus pandemic in 2020 or currency crisis in 2022 were resuming flights.
+
+On February 01, Cathay Pacific resumed thrice weekly flights from Hong Kong, after ceasing operations in March 2020.
+
+Etihad which operates 10 weekly flights will increase operations to 13 times week from May 01 and 20 flights from June 15, the AASL said.
+
+◼️
+
+[Data](articles/acb1820f.json)
+
+---
+
 ### 7.4-magnitude quake strikes off Taiwan’s east coast, sparking tsunami warnings
 
 *2024-04-03 06:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/7-4-magnitude-quake-strikes-off-Taiwans-east-coast-sparking-tsunami-warnings/108-280079) · `en`
@@ -1165,6 +1373,24 @@ In 2018, “EUROPOL” headquartered in Hague, Netherlands, a key organisation e
 [Data](articles/289ff033.json)
 
 [Extended Data](ext_articles/289ff033.ext.json)
+
+---
+
+### Sri Lanka Speaker dismisses role of foreign forces in 2022 protests-led regime change
+
+*2024-04-03 04:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-speaker-dismisses-role-of-foreign-forces-in-2022-protests-led-regime-change-157248/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Parliament Speaker Mahinda Yapa Abeywardana dismissed possible role of foreign forces in the mass protests-led government change in 2022 when the post of president fell vacant after former President Gotabaya Rajapaksa fled the country fearing for his life.
+
+The Speaker stated this when responding to a request from opposition parliamentarian Wimal Weerawansa to have two-day parliament debate and appoint a parliament committee to find out who were behind the protests, popularly known as Aragalaya and what were their motives.
+
+“I have no information to say that it happened due to international forces,” Abeywardana told the parliament on Tuesday (02).
+
+“I did not see a threat that you mentioned. I only saw a threat where they all came here (to the parliament) and threatened our lives,” he said referring to hundreds of local protesters including “Buddhist monks and other religious leaders”.
+
+...
+
+[Data](articles/3eb0089c.json)
 
 ---
 
@@ -1977,289 +2203,5 @@ In this case, the demand for the other three to be sent to Sri Lanka soon
 [Data](articles/91102bc1.json)
 
 [Extended Data](ext_articles/91102bc1.ext.json)
-
----
-
-### At least 29 killed in Istanbul nightclub fire
-
-*2024-04-02 20:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98381/at-least-29-killed-in-istanbul-nightclub-fire) · `en`
-
-At least 29 people have been killed in a fire in a nightclub in Turkey.
-
-The Masquerade club, in the basement of a high-rise building in Istanbul, was closed and being renovated during the day.
-
-The fire broke out just after midday, Istanbul governor Davut Gül said, adding that the cause was not yet clear.
-
-Mr Gül said that the victims of the fire were thought to have been involved in the renovation work.
-
-Five people have been arrested in connection with the fire as investigations continue.
-
-They include three workplace officials, the nightclub manager and the manager of the renovations.
-
-Firefighters and other first responders surrounded the charred and smoking entrance to the club, which occupies two floors underneath a 16-storey residential building in the city’s Gayrettepe district.
-
-The number of victims has rapidly increased throughout the afternoon, with the governor’s office issuing a string of updates.
-
-...
-
-[Data](articles/c7640bc5.json)
-
-[Extended Data](ext_articles/c7640bc5.ext.json)
-
----
-
-### Supreme Court issues interim injunction on Excise Dept.
-
-*2024-04-02 20:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98380/supreme-court-issues-interim-injunction-on-excise-dept) · `en`
-
-Supreme Court on Tuesday (02) issued an interim injunction preventing the Excise Department from issuing liquor licenses in violation of the provisions of the Excise Act of Sri Lanka.
-
-The court order will be in effect until 10 May 2024, according to Ada Derana correspondent.
-
-A three-member bench comprising Justices Yasantha Kodagoda, Janak de Silva and Arjuna Obeysekera delivered the interim injunction after taking into consideration three fundamental rights (FR) petitions filed by the Sri Lanka Liquor Licensees’ Association and several other parties.
-
-Appearing on behalf of the petitioners, President’s Counsel Sanjeewa Jayawardena and several other legal counsels told the court that the Excise Department has been issuing liquor licenses in an irregular manner.
-
-As such, the petitioning party requested the judge bench to deliver an injunction preventing the Excise Department from overriding the provisions of the Excise Act and regulations when issuing liquor licenses.
-
-◼️
-
-[Data](articles/62db760d.json)
-
-[Extended Data](ext_articles/62db760d.ext.json)
-
----
-
-### Interim injunction issued on Excise Dept. over issuing liquor licenses
-
-*2024-04-02 20:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98380/interim-injunction-issued-on-excise-dept-over-issuing-liquorlicenses) · `en`
-
-Supreme Court on Tuesday (02) issued an interim injunction preventing the Excise Department from issuing liquor licenses in violation of the provisions of the Excise Act of Sri Lanka.
-
-The court order will be in effect until 10 May 2024, according to Ada Derana correspondent.
-
-A three-member bench comprising Justices Yasantha Kodagoda, Janak de Silva and Arjuna Obeysekera delivered the interim injunction after taking into consideration three fundamental rights (FR) petitions filed by the Sri Lanka Liquor Licensees’ Association and several other parties.
-
-Appearing on behalf of the petitioners, President’s Counsel Sanjeewa Jayawardena and several other legal counsels told the court that the Excise Department has been issuing liquor licenses in an irregular manner.
-
-As such, the petitioning party requested the judge bench to deliver an injunction preventing the Excise Department from overriding the provisions of the Excise Act and regulations when issuing liquor licenses.
-
-◼️
-
-[Data](articles/bc746b1e.json)
-
-[Extended Data](ext_articles/bc746b1e.ext.json)
-
----
-
-### Turkey kills 29 kills fire
-
-*2024-04-02 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195223) · `si`
-
-A fire at a club in Turkey reportedly killed 29 people.
-
-🟩
-
-It is reported that a large number of fire has occurred in a fire club in Turkey.
-
-International media reports states that 29 people have died.
-
-◼️
-
-[Data](articles/75b418a8.json)
-
-[Extended Data](ext_articles/75b418a8.ext.json)
-
----
-
-### Close the liquor and meat shops
-
-*2024-04-02 19:58:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபான-மற்றும்-இறைச்சிக்-கடைகளை-மூடவும்/175-335524) · `ta`
-
-The Ministry of Buddhist Affairs has ordered the closure of meat shops and liquor stores from May 22-24 for Vesak Day events. The Vesak week, centered in Matale, will run from May 21-27, with the theme "we will look at what we did without seeing others."
-
-🟩
-
-The Ministry of Buddhist Charter, Religious and Cultural Affairs has called for the closure of meat shops and the closure of drugs, including liquor stores, on May 22, 23 and 24 due to a series of events to be held on the upcoming Vesak Day.
-
-Meanwhile, Cabinet Spokesperson and Minister Bandula Gunawardena said that the state Vesak ceremony will be held from May 21 to 27, named Vesak week, centered on the Matale district.
-
-The theme of this year's royal Vesak festival is "we will look at what we did without seeing others."
-
-The inauguration ceremony of the festival will be held at the Dharmaraja Division Complex of Matale and the closing ceremony will be held at the Millavana Sri Sunarama Temple Complex in the Pallapola Divisional Secretariat Division.
-
-◼️
-
-[Data](articles/31902d2c.json)
-
-[Extended Data](ext_articles/31902d2c.ext.json)
-
----
-
-### Prabhat, Kamindu's spinning spinning has been successful in Sri Lanka
-
-*2024-04-02 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180278) · `ta`
-
-Sri Lanka won the 2nd Test against Bangladesh, needing 3 wickets for victory. Kamindu Mendis, debuting as the 6th bowler, took a crucial wicket, turning the match. Bangladesh was bowled out for 268, setting Sri Lanka's target at 511.
-
-🟩
-
-Sri Lanka recently won a series of winning a series of winning 2 wickets each in the second Test cricket match at Sahur Ahmad Chaudhary Stadium against Bangladesh.
-
-Bangladesh were bowled out for 268 runs at the end of the fourth day of today's fourth -day match.
-
-Accordingly, Sri Lanka needs 3 wickets for victory and Bangladesh will win a further 243 runs.
-
-It is not a thought that Bangladesh will reach this goal. But it is not forgetting that the achievement of a strange game, cricket, has crossed the goals.
-
-There is no doubt that the day of the competition will face a huge cry because Bangladesh will handle the strategy.
-
-In the first Test, Bangladesh won by 328 runs to win 511 runs for Bangladesh.
-
-For the first time in the series, Sri Lanka's spin bowlers are expected to lose Bangladesh within 300 runs on the last day.
-
-Not surprisingly, though, the bowling of the last day, although he selected the bowling of each spin in this match, but the bowling of both hands.
-
-...
-
-[Data](articles/b17ac664.json)
-
-[Extended Data](ext_articles/b17ac664.ext.json)
-
----
-
-### Kalmunai Divisional Secretariat Affairs
-
-*2024-04-02 19:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180277) · `ta`
-
-Kalmunai Divisional Secretariat Affairs: For 9 days, Kalmunai North and South Divisional Secretariats have been protesting against the handling of financial activities by the Kalmunai North Divisional Secretariat, with the District Secretariat and Ministry of Home Affairs' involvement. Pandaruppu residents are also participating to strengthen the struggle.
-
-🟩
-
-The continuous struggle on the financial activities of the Kalmunai North and Kalmunai South Divisional Secretariats has been carried out for the 9th day.
-
-The struggle has been carried out against the fact that the Kalmunai North Divisional Secretariat is handling the financial activities by the Kalmunai South Divisional Secretariat and the District Secretariat and the Ministry of Home Affairs are allowed to do so.
-
-It is also noteworthy that the people of Pandaruppu have been fighting as a walk to further strengthen the struggle.
-
-◼️
-
-[Data](articles/ead68d21.json)
-
-[Extended Data](ext_articles/ead68d21.ext.json)
-
----
-
-### Sathosa is happy ...
-
-*2024-04-02 19:26:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதொச-சென்றால்-சந்தோஷம்/175-335523) · `ta`
-
-Sathosa offers a relief package with 11 food items for Rs 3,420, and sells eggs at Rs 36, starting today.
-
-🟩
-
-Customers have been given the opportunity to buy a relief package from today (02) at all the Sadhosa branches across the country ahead of the upcoming Sinhala Tamil New Year.
-
-Sathosa leader Basantha Yapa Abeywardena said that the relief package containing 11 food items worth Rs 4,500 was given to the public at a retail price of Rs 3,420.
-
-In addition, Sathosa has taken steps to sell an egg at a retail price of 36 rupees from today. Remble
-
-◼️
-
-[Data](articles/356770c7.json)
-
-[Extended Data](ext_articles/356770c7.ext.json)
-
----
-
-### Gamini Lokuge elected chair of Committee on Banking and Financial Services
-
-*2024-04-02 19:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98379/gamini-lokuge-elected-chair-of-committee-on-banking-and-financial-services) · `en`
-
-Member of Parliament Gamini Lokuge has been unanimously elected as the new Chairman of the Committee on Banking and Financial Services for the Fifth Session of the Ninth Parliament.
-
-The first meeting of the Committee on Banking and Financial Services for the Fifth Session of the Ninth Parliament was held yesterday (01).
-
-The name of Gamini Lokuge was proposed by Member of Parliament Kokila Gunawardena and seconded by Member of Parliament Udaya Gammanpila.
-
-Gamini Lokuge chaired this committee in the fourth session of the Ninth Parliament.
-
-Addressing the meeting, the Chair expressed his gratitude to all the Members of Parliament who supported this committee during the previous session and said that he expects that all members will continue to support the committee in the future as well.
-
-...
-
-[Data](articles/92e4b55a.json)
-
-[Extended Data](ext_articles/92e4b55a.ext.json)
-
----
-
-### President addresses challenges confronting Muslim schools in Colombo
-
-*2024-04-02 19:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-addresses-challenges-confronting-Muslim-schools-in-Colombo/108-280049) · `en`
-
-Colombo, April 02 - In a concerted effort to tackle the educational hurdles encountered by Muslim schools in the Colombo region, President Ranil Wickremesinghe chaired a formal discussion at the Presidential Secretariat today (02).
-
-The meeting, which brought together key stakeholders, including Minister Ali Sabry and representatives of school principals and organizations, addressed a range of pressing issues.
-
-Among the challenges discussed were the shortage of teachers, inadequate infrastructure including classroom space, difficulties in teaching Islam in Sinhala, and the absence of schools in Muslim-majority areas.
-
-Minister Ali Sabry underscored the gravity of the situation, pointing out that while there are approximately 70 Muslim schools in Kalutara, there are only around 19 in Colombo. This disparity has led to a higher dropout rate in Colombo, exacerbating social issues not only within the community but also impacting the nation at large.
-
-...
-
-[Data](articles/f98895f2.json)
-
-[Extended Data](ext_articles/f98895f2.ext.json)
-
----
-
-### Mandate
-
-*2024-04-02 19:05:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வற்-சட்டத்தின்-கீழ்-கட்டளை-மேலதிக-வாக்குகளால்-நிறைவேற்றம்/175-335522) · `ta`
-
-The Value Added Tax Act was passed by 36 votes, with opposition demanding a referendum. The Banking Industry Amendment Bill was passed without amendment.
-
-🟩
-
-Under the Value Added Tax Act, the Command was passed today (02) by 36 additional votes.
-
-To this end, the opposition parties demanded a referendum, with 55 votes in favor of the command and 19 votes.
-
-Meanwhile, the Banking Industry Amendment Bill was read in Parliament today (02) and passed without amendment.. Remble
-
-◼️
-
-[Data](articles/25bc5f1a.json)
-
-[Extended Data](ext_articles/25bc5f1a.ext.json)
-
----
-
-### Big onion import 92 rupees;Retail Price 700 crores of rupees 36% of the profit
-
-*2024-04-02 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180276) · `ta`
-
-Big onion importers made a profit of 8,000 crore rupees by selling for 700 rupees, exploiting the economically affected. The Committee advised the Internal Revenue Department to recover 36% of these profits.
-
-🟩
-
-Traders should avoid the process of importing large onions for 92 rupees, excluding all taxes and exploiting it for 700 rupees.. Last year, big onion importers made a profit of Rs 8,000 crore. The Chairman of the Committee, Patali Champika Ranawaka, said that we have advised the Internal Revenue Department to take appropriate measures to recover 36 per cent of the profits received by the importers of essential food products.
-
-He made this statement during a media briefing held in the parliamentary committee room on Tuesday (2).
-
-A few traders are engaged in the process of exploiting people amid economic impacts.
-
-On Tuesday (2), we summoned officials of state institutions, including the Department of Consumer Authority, Consumer Authority, Consumer Authority, Authority and Statistics and Exports and Import Controller, to the Committee on Parliamentary Provisions on Tuesday (2).
-
-In the year 2023, the big onion was imported for Rs.
-
-Similarly, one per liter of potatoes has been imported at Rs.
-
-...
-
-[Data](articles/03c77a44.json)
-
-[Extended Data](ext_articles/03c77a44.ext.json)
 
 ---

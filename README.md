@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 10:03:34**
+As of **2024-04-03 10:17:55**
 
 ## Newspaper Stats
 
-*Scraped **16,786** Articles*
+*Scraped **16,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 dailyftlk | 910
 economynextcom | 922
 islandlk | 931
-adalk | 1,408
-tamilmirrorlk | 1,997
+adalk | 1,409
+tamilmirrorlk | 1,998
 adaderanalk | 2,014
 virakesarilk | 2,415
 dailymirrorlk | 2,587
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,711
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,784 (100.0%) of 16,786 articles have been extended.
+16,786 (100.0%) of 16,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### பலத்த மழைவீழ்ச்சி பதிவாகலாம்...
+
+*2024-04-03 09:56:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-மழைவீழ்ச்சி-பதிவாகலாம்/175-335547) · `ta`
+
+மேல், சப்ரகமுவ, மத்திய, வடமேல், தென், வடமத்திய மற்றும் ஊவா மாகாணங்களில் பல இடங்களில் பிற்பகல் 2.00 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மேல், சப்ரகமுவ, வடமேல் மற்றும் தென் மாகாணங்களிலும் அனுராதபுரம் மற்றும் மொனராகலை மாவட்டங்களிலும் சில இடங்களில் 75 மி.மீ க்கும் அதிகமான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+மேல், மத்திய, சப்ரகமுவ, மற்றும் ஊவா மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+
+◼️
+
+[Data](articles/2f91ad50.json)
+
+---
 
 ### New law to solve family violence -Geeta Kumarasinghe
 
@@ -58,17 +76,23 @@ The Union of Parliament and Members of Parliament held a discussion on the Bill 
 
 ---
 
-### அடுத்த வாரம் புலம்பெயர் தமிழர் அமைப்புக்களை சந்திக்கிறது உண்மை, நல்லிணக்கப் பொறிமுறைக்கான இடைக்கால செயலகம்
+### The Interim Secretariat for Reconciliation Mechanism
 
 *2024-04-03 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180295) · `ta`
 
-ஐரோப்பிய நாடுகளில் இயங்கிவரும் புலம்பெயர் தமிழர் அமைப்புக்களின் பிரதிநிதிகளை அடுத்த வாரம் சந்திக்கவுள்ள உண்மை மற்றும் நல்லிணக்கப் பொறிமுறைக்கான இடைக்கால செயலகத்தின் கொள்கைப்பிரிவு தலைவர் யுவி தங்கராஜா, உத்தேச உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு தொடர்பில் அவர்களுக்கு விளக்கமளிக்கவுள்ளார்.
+Yuvi Thangarajah, head of the Interim Secretariat for the Truth and Reconciliation Mechanism, will meet with European Diaspora Tamil organizations next week. The interim secretariat, led by Dr. Asanga Gunawansa, visited the North and Eastern Provinces to discuss the Truth, Unity and Reconciliation Commission. Civil society organizations in the South, especially in Colombo, have discussed the proposed commission bill. Criticism of victims, including relatives, war widows, and ex-combatants, has been noted. Thangarajah is gathering information on affected parties through various government offices and plans to start meetings with victims in April.
 
-நாட்டில் உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழுவை ஸ்தாபிக்கும் பணிகள் அரசாங்கத்தினால் தீவிரமாக முன்னெடுக்கப்படுவரும் நிலையில், அதற்குரிய பூர்வாங்க நடவடிக்கைகளை ஒருங்கிணைக்கும் விதமாக கலாநிதி அசங்க குணவன்ச தலைமையில் இயங்கிவரும் உண்மை மற்றும் நல்லிணக்கப் பொறிமுறையின் இடைக்கால செயலக அதிகாரிகள் அண்மையில் வட, கிழக்கு மாகாணங்களுக்கு விஜயம் மேற்கொண்டு பல்வேறு தரப்பினருடன் சந்திப்புக்களை நடத்தியிருந்தனர். அதேபோன்று தெற்கிலும், குறிப்பாக கொழும்பைத் தளமாகக்கொண்டு இயங்கிவரும் சிவில் சமூக அமைப்புக்களின் பிரதிநிதிகள் மற்றும் புத்திஜீவிகளை சந்தித்து உத்தேச உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலம் தொடர்பில் கலந்துரையாடல்களை முன்னெடுத்திருந்தனர்.
+🟩
+
+Yuvi Thangarajah, the head of the Interim Secretariat for the Truth and Reconciliation Mechanism, will meet with representatives of the Diaspora Tamil organizations operating in European countries next week.
+
+The interim secretariat officials of the Truth and Reconciliation Mechanism, headed by Dr. Asanga Gunawansa, recently visited the North and Eastern Provinces to meet the North and Eastern Provinces as the government is actively carrying out the work of establishing the Truth, Unity and Reconciliation Commission in the country.. Similarly, representatives and intellectuals of civil society organizations operating in the South, especially in Colombo, have held discussions on the proposed Truth, Unity and Reconciliation Commission Bill.
 
 ...
 
 [Data](articles/f14952cd.json)
+
+[Extended Data](ext_articles/f14952cd.ext.json)
 
 ---
 
@@ -87,6 +111,8 @@ Kumarasinghe made these remarks while addressing a briefing held at the Presiden
 ...
 
 [Data](articles/159dde42.json)
+
+[Extended Data](ext_articles/159dde42.ext.json)
 
 ---
 
@@ -1930,6 +1956,22 @@ Similarly, one per liter of potatoes has been imported at Rs.
 
 ---
 
+### ජේතවනාරාම ස්තූපයේ පිපිරුම් වැළැක්වීම සඳහා තාක්ෂණික පිළියම්
+
+*2024-04-02 18:34:29* · [`adalk`](https://www.ada.lk/religion/ජේතවනාරාම-ස්තූපයේ-පිපිරුම්-වැළැක්වීම-සඳහා-තාක්ෂණික-පිළියම්/4-408912) · `si`
+
+අනුරාධපුර ජේතවනාරාම ස්තූපයේ ඇති වී තිබෙන පිපිරුම් ප්‍රසාරණය වීම මැඩපැවැත්වීම සඳහා කෙටි හා දීර්ඝ කාලීන විසඳුම් මේ වන විට ගෙන ඇති බවත්, පිපිරුම් තවදුරටත් වර්ධනය නොවන ආකාරයට  සිදු කළ හැකි තාක්ෂණික ක්‍රමවේදයන් ඉදිරියටත් අනුගමනය කර පිපිරුම් පාලනය කිරීමට කටයුතු සිදු කරන බව බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍ය විදුර වික්‍රමනායක මහතා සඳහන් කරයි.
+
+ජේතවනාරාම ස්තූපයේ පිපිරුම්වල වර්තමාන තත්ත්වය පිළිබඳවජේතවනාරාම ස්තූපයේ සලපතල මළුවේ අද (02) පැවති මාධ්‍ය සාකච්ඡාවට එක්වෙමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+
+මධ්‍යම සංස්කෘතික අරමුදල මඟින් සකස් කළ වාර්තාවලට අනුව ස්තූපයේ පෙර පැවති පිපිරුම්වල අගයන් හා සැසදීමේදී විශාල වෙනසක් සිදු වී නොමැති බවත්, ස්තූපය පිලිබඳ නිරීක්ෂණ කටයුතු සංස්කෘතික අමාත්‍යංශය ,මධ්‍යම සංස්කෘතික අරමුදල සහ පුරාවිද්‍යා දෙපාර්තමේන්තුව අත්හැර නොමැති බවත්, පුරාවිද්‍යා අධ්‍යක්ෂ ජනරාල් මහාචාර්ය තුසිත මෙන්ඩිස් මහතා එහිදීකිවේය.
+
+...
+
+[Data](articles/c51301b8.json)
+
+---
+
 ### Israeli airstrike on Gaza kills seven working for food aid NGO
 
 *2024-04-02 18:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98378/israeli-airstrike-on-gaza-kills-seven-working-for-food-aid-ngo) · `en`
@@ -2175,45 +2217,5 @@ He said this while addressing the debate on the Bank (Amendment) Bill held in Pa
 [Data](articles/b021c3a4.json)
 
 [Extended Data](ext_articles/b021c3a4.ext.json)
-
----
-
-### VAT increases standard
-
-*2024-04-02 18:04:54* · [`adalk`](https://www.ada.lk/breaking_news/වැට්-වැඩි-කිරීම-සම්මතයි/11-408908) · `si`
-
-Parliament passed a bill to raise VAT from 15% to 18%, with 55 votes in favor and 19 against.
-
-🟩
-
-The order to increase the value added tax (VAT) to increase the increase from 15 to 18 percent of 36 votes was passed in parliament today (2). The bill received 55 votes and the opposition received 19 votes.
-
-◼️
-
-[Data](articles/45779f75.json)
-
-[Extended Data](ext_articles/45779f75.ext.json)
-
----
-
-### Hundreds of thousands of people threatened the sovereignty of the people - the Speaker
-
-*2024-04-02 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180261) · `ta`
-
-The Speaker of Parliament, Mahinda Yapa Abeywardena, addressed concerns raised by the National Freedom Front leader, Wimal Weerawansa, about the sovereignty of the country during the Arakalaya event. Abeywardena denied foreign threats, emphasizing instead that it was the actions of hundreds of thousands of people that posed a threat.
-
-🟩
-
-Other sides intervene when they act with reduction at the internal level. Such is the case from the beginning. I do not know that foreign parties threatened the sovereignty of the country. Hundreds of thousands of people threatened the sovereignty of the people. Speaker Mahinda Yapa Abeywardena told the National Freedom Front leader Wimal Weerawansa that the situation should not appear in the future.
-
-Speaking at a session held in Parliament on Tuesday (02), Wimal Weerawansa, the leader of the National Freedom Front and Member of Parliament, urged the Parliamentary Select Committee to investigate the international parties who were acting against the sovereignty of the country during the Arakalaya occasion.. In response, the Speaker said the above.
-
-Hundreds of thousands of people threatened the sovereignty of the people. On the occasion of the Arakalai, a party came to surround the building. Amidst a massive struggle, we defended Parliament.
-
-...
-
-[Data](articles/2da89c11.json)
-
-[Extended Data](ext_articles/2da89c11.ext.json)
 
 ---

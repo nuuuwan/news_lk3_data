@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 15:33:53**
+As of **2024-04-03 15:52:20**
 
 ## Newspaper Stats
 
-*Scraped **16,862** Articles*
+*Scraped **16,865** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ dailyftlk | 910
 economynextcom | 927
 islandlk | 931
 adalk | 1,416
-tamilmirrorlk | 2,009
+tamilmirrorlk | 2,010
 adaderanalk | 2,020
 virakesarilk | 2,431
 dailymirrorlk | 2,596
-adaderanasinhalalk | 2,727
+adaderanasinhalalk | 2,729
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,861 (100.0%) of 16,862 articles have been extended.
+16,862 (100.0%) of 16,865 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### සෝල් බීච් කඩා ඉවත් කිරීමට එරෙහි පෙත්සම සලකාබැලීමට දින දෙයි
+
+*2024-04-03 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195256) · `si`
+
+සෝල් බීච් හෝටලයේ හිමිකරුවන් විසින් ගොනුකර තිබෙන මූලික අයිතිවාසිකම් පෙත්සම සලකාබැලීම සඳහා ජුලි මස 10 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (03) නියම කළේය.
+
+යුක්තිය මෙහෙයුම යටතේ ඉකුත්දා දෙහිවල මුහුදුබඩ ප්‍රදේශයේ පිහිටි "සෝල් බීච්" හෝටලය කඩා ඉවත් කිරීමේ සිද්ධිය තුළින් සිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට නියෝගයක් ලබාදෙන ලෙස ඉල්ලා එම පෙත්සම ගොනුකර තිබේ.
+
+මෙම පෙත්සම අද ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබීය.
+
+එම අවස්ථාවේදී අදාළ පෙත්සමේ වගඋත්තරකරුවන්ට නොතීසි ලබාදීමට පියවර ගන්නා ලෙස පෙත්සම්කාර පාර්ශ්වයට විනිසුරු මඩුල්ල විසින් නියෝග කර තිබුණි.
+
+ඉන් අනතුරුව දෙපාර්ශ්වයේ නීතිඥවරු විසින් කරන ලද ඉල්ලීම පිළිගත් විනිසුරු මඩුල්ල අදාළ පෙත්සම සලකාබැලීම සඳහා ජුලි මස 10 වනදා කැඳවන ලෙස නියෝග කෙරුණි.
+
+...
+
+[Data](articles/ff0c680b.json)
+
+---
+
+### ஈஸ்டர் தாக்குதல்கள் குறித்து கர்தினால் முன்கூட்டியே அறிந்திருந்தாரா?
+
+*2024-04-03 15:34:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈஸ்டர்-தாக்குதல்கள்-குறித்து-கர்தினால்-முன்கூட்டியே-அறிந்திருந்தாரா/175-335570) · `ta`
+
+ஈஸ்டர் ஞாயிறு தாக்குதல்கள் குறித்து கொழும்பு பேராயர் கர்தினால் மல்கம் ரஞ்சித் அவர்கள் எந்தவித முன்னறிவிப்பையும் பெறவில்லை என இலங்கை கத்தோலிக்க திருச்சபை இன்று தெரிவித்துள்ளது.
+
+திருச்சபை பேச்சாளர்  அருட்தந்தை. சிறில் காமினி பெர்ணான்டோ அவர்கள் ஈஸ்டர் ஞாயிறு தாக்குதல்கள் தொடர்பில் கர்தினால் ரஞ்சித்துக்கு முன்னரே எச்சரிக்கை விடுக்கப்பட்டதாக வெளியான ஊகங்கள் முற்றிலும் பொய்யானவை என ஊடகவியலாளர் சந்திப்பில் ஊடகவியலாளர்கள் கேள்வியெழுப்பிய போது தெரிவித்துள்ளார்.
+
+"கர்தினால் ரஞ்சித் அவர்கள் 2019 ஆம் ஆண்டு ஈஸ்டர் ஆராதனையில் பங்கேற்கவில்லை என்ற கூற்றும் தவறானது. கொழும்பு பேராயர் பாரம்பரியமாக சனிக்கிழமை இரவு ஈஸ்டர் ஆராதனையில் கலந்து கொள்வதே வழக்கம். ஈஸ்டர் ஞாயிற்றுக்கிழமை எந்த சேவையிலும் பங்கேற்பதில்லை," என அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/068ce8c7.json)
+
+---
+
+### පොලිස් සිරමැදිරියේදී ඇද වැටුණු සැකකරුවෙක් රෝහල්ගත කරයි
+
+*2024-04-03 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195255) · `si`
+
+පයාගල පොලීසියේ සිරමැදිරියේ රඳවා සිටි සැකකරුවෙකු හිසට සිදුවූ තුවාල සහිතව අද (03) රෝහල්ගත කර ඇති බව කළුතර නාගොඩ ශීක්ෂණ රෝහල් ආරංචි මාර්ග සඳහන් කරයි.
+
+රෝහල්ගත කර ඇති පුද්ගලයා විවෘත වරෙන්තුවක් මත අත්අඩංගුවට ගෙන පයාගල පොලීසියේ සිරමැදිරියේ රඳවා සිට ඇති බව වාර්තා විය.
+
+සිරමැදිරියේ රඳවා සිටි සැකකරු කිසියම් හදිසි අසනීප තත්ත්වයක් හේතුවෙන් අද දහවල් සිරමැදිරිය තුළ ඇද වැටී හිසට තුවාල සිදුවී ඇති බවද පැවසෙයි.
+
+සැකකරු කළුතර ශික්ෂණ රෝහලේ පොලිස් ආරක්ෂාව යටතේ නේවාසිකව ප්‍රතිකාර ලබමින් පසුවෙයි.
+
+◼️
+
+[Data](articles/22dde038.json)
+
+---
 
 ### Several special trains during New Year's year
 
@@ -2265,69 +2319,5 @@ He served on the KPMG Middle East and South Asia Board during his tenure as Mana
 [Data](articles/1bfb4c9e.json)
 
 [Extended Data](ext_articles/1bfb4c9e.ext.json)
-
----
-
-### Almost 60 percent of voters still undecided: Akila
-
-*2024-04-03 05:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Almost-60-percent-of-voters-still-undecided-Akila/108-280080) · `en`
-
-Colombo, April 3 (Daily Mirror) - Research conducted by the government has revealed that more than 60 percent of the voters in Sri Lanka are still undecided on whom they should vote for, UNP Assistant Leader Akila Viraj Kariyawasam said yesterday.
-
-Former Minister Kariyawasam told a press briefing that rumours of certain political parties expected to get a high percentage of votes is false.
-
-At the same time he said that incumbent President Ranil Wickremesinghe will spring a surprise similar to one the country had during the 2015 Presidential election. "There are many things happening behind the scenes. Therefore don't come to conclusions seeing from the outside," he said in this regard.
-
-"Many individuals and parties have pledged their support to President Wickremesinghe and they will make a move when the election is drawing near, " he also said.
-
-Also he announced that the UNP will hold a May Day procession in front of Tower Hall this year.
-
-◼️
-
-[Data](articles/c9778c29.json)
-
-[Extended Data](ext_articles/c9778c29.ext.json)
-
----
-
-### Lanka Milk Foods appoints Manil and Thusitha to Board
-
-*2024-04-03 05:48:10* · [`dailyftlk`](https://www.ft.lk/business/Lanka-Milk-Foods-appoints-Manil-and-Thusitha-to-Board/34-760243) · `en`
-
-Lanka Milk Foods (CWE) PLC has appointed Manil Jayesinghe and Thusitha Cooray to its Board as Independent Non-Executive Directors.
-
-Jayesinghe is a Fellow Member of the Institute of Chartered Accountants of Sri Lanka, the
-
-Chartered Institute of Management Accountants (UK) and the Certified Management Accountants of Sri Lanka. He is also a member of The Chartered Institute of Public Finance & Accountancy.
-
-Jayesinghe possesses over 41 years of experience in advisory and industry across key sectors in Sri Lanka, Maldives and Bhutan. He served as the Country Managing Partner of Ernst & Young Sri Lanka and Maldives from 2021-2023, Head of Assurance Practice in Sri Lanka, and the Professional Practice Director of Sri Lanka from 2003-2023.
-
-...
-
-[Data](articles/578bb9ab.json)
-
-[Extended Data](ext_articles/578bb9ab.ext.json)
-
----
-
-### Kabir urges Govt. to delay finalising unit price for Adani project in Mannar
-
-*2024-04-03 05:45:46* · [`dailyftlk`](https://www.ft.lk/news/Kabir-urges-Govt-to-delay-finalising-unit-price-for-Adani-project-in-Mannar/56-760242) · `en`
-
-SJB MP in Parliament expresses belief that price of a unit can be reduced to as low as $ 7 cents
-
-Asks Govt. to renegotiate with Adani Group after it receives pricing offers for yet another power project in close proximity
-
-Suggests price of a unit quoted for new project should be used as a base price to discuss with Adani Group
-
-Raises concerns on transparency of process in which Adani was granted the project and asks subject Minister to clarify
-
-Samagi Jana Balawegaya (SJB) MP Kabir Hashim yesterday called on the Government to temporarily suspend finalising the price agreement for a unit of power with the Indian Adani Group regarding the Mannar renewable energy project.
-
-...
-
-[Data](articles/a041806f.json)
-
-[Extended Data](ext_articles/a041806f.ext.json)
 
 ---

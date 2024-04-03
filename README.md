@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 06:17:03**
+As of **2024-04-03 06:54:21**
 
 ## Newspaper Stats
 
-*Scraped **16,744** Articles*
+*Scraped **16,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,207 @@ colombotelegraphcom | 149
 bbccomsinhala | 176
 dbsjeyarajcom | 202
 newsfirstlk | 363
-dailyftlk | 901
+dailyftlk | 910
 economynextcom | 922
 islandlk | 931
 adalk | 1,408
-tamilmirrorlk | 1,992
+tamilmirrorlk | 1,993
 adaderanalk | 2,009
 virakesarilk | 2,410
 dailymirrorlk | 2,577
-adaderanasinhalalk | 2,704
+adaderanasinhalalk | 2,705
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,733 (99.9%) of 16,744 articles have been extended.
+16,735 (99.9%) of 16,755 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### අදත් ප්‍රදේශ කිහිපයකට තද වැසි
+
+*2024-04-03 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195229) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණ සහ ඌව පළාත්වල ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි. මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකිය.
+
+බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/54a0144f.json)
+
+---
+
+### Cabinet approves contracts for solar photovoltaic power plants
+
+*2024-04-03 05:49:49* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-contracts-for-solar-photovoltaic-power-plants/34-760246) · `en`
+
+The Cabinet of Ministers has cleared awarding contracts for the construction and operation of solar photovoltaic power plants, totalling a capacity of
+
+The decision follows the previous Cabinet approval on 22 May 2023, to invite proposals for the establishment of 7 MW solar photovoltaic power plants. Subsequently, the Cabinet appointed Negotiation Committee, tasked with evaluating the proposals, identified four successful project proponents.
+
+Additionally, based on the recommendations of the Procurement Appellate Board, the Committee evaluated another investor’s proposal and deemed them suitable for implementing a project to construct a 5 MW solar photovoltaic power plant.
+
+The proposal to this effect submitted by Power and Energy Minister Kanchana Wijesekera was approved by the Cabinet of Ministers on Monday.
+
+◼️
+
+[Data](articles/b9139eec.json)
+
+---
+
+### Parliament approves increase in VAT to 18%
+
+*2024-04-03 05:49:34* · [`dailyftlk`](https://www.ft.lk/business/Parliament-approves-increase-in-VAT-to-18/34-760245) · `en`
+
+The order proposing to increase the Value Added Tax (VAT) percentage from 15% to 18% was passed in Parliament with a majority of 36 votes.
+
+During the Parliamentary session yesterday, a total of 55 Members of Parliament voted in favour of the VAT amendment, while 19 MPs voted against it, showcasing a clear majority in support of the proposal.
+
+The decision comes after the issuance of a Gazette notification for the VAT amendment in January of this year, signalling the Government’s intention to revise the tax rate to address fiscal challenges and boosting revenue streams.
+
+...
+
+[Data](articles/c13bb402.json)
+
+---
+
+### Ex-KPMG fame Yohan Perera joins Hayleys, Haycarb and DIPD Boards
+
+*2024-04-03 05:49:13* · [`dailyftlk`](https://www.ft.lk/business/Ex-KPMG-fame-Yohan-Perera-joins-Hayleys-Haycarb-and-DIPD-Boards/34-760244) · `en`
+
+Top professional and ex-KPMG fame Yohan Perera has been appointed to the Boards of Hayleys PLC, Haycarb PLC and Dipped products PLC as a Non-Executive Independent Director.
+
+Perera is a Fellow Member of the CA Sri Lanka and a Fellow Member of the Chartered Institute of Management Accountants, UK. He served as a Partner at KPMG Sri Lanka and Maldives for 33 years. During this period, he also served the Firm as the Head of HR, Risk Management Partner and Chief Operating Officer before he was appointed as the Managing Partner.
+
+He served on the KPMG Middle East and South Asia Board during his tenure as Managing Partner of the firm. He counts over 40 years of experience in audits of conglomerates and listed companies with diversified business interests.
+
+...
+
+[Data](articles/1bfb4c9e.json)
+
+---
+
+### Lanka Milk Foods appoints Manil and Thusitha to Board
+
+*2024-04-03 05:48:10* · [`dailyftlk`](https://www.ft.lk/business/Lanka-Milk-Foods-appoints-Manil-and-Thusitha-to-Board/34-760243) · `en`
+
+Lanka Milk Foods (CWE) PLC has appointed Manil Jayesinghe and Thusitha Cooray to its Board as Independent Non-Executive Directors.
+
+Jayesinghe is a Fellow Member of the Institute of Chartered Accountants of Sri Lanka, the
+
+Chartered Institute of Management Accountants (UK) and the Certified Management Accountants of Sri Lanka. He is also a member of The Chartered Institute of Public Finance & Accountancy.
+
+Jayesinghe possesses over 41 years of experience in advisory and industry across key sectors in Sri Lanka, Maldives and Bhutan. He served as the Country Managing Partner of Ernst & Young Sri Lanka and Maldives from 2021-2023, Head of Assurance Practice in Sri Lanka, and the Professional Practice Director of Sri Lanka from 2003-2023.
+
+...
+
+[Data](articles/578bb9ab.json)
+
+---
+
+### Kabir urges Govt. to delay finalising unit price for Adani project in Mannar
+
+*2024-04-03 05:45:46* · [`dailyftlk`](https://www.ft.lk/news/Kabir-urges-Govt-to-delay-finalising-unit-price-for-Adani-project-in-Mannar/56-760242) · `en`
+
+SJB MP in Parliament expresses belief that price of a unit can be reduced to as low as $ 7 cents
+
+Asks Govt. to renegotiate with Adani Group after it receives pricing offers for yet another power project in close proximity
+
+Suggests price of a unit quoted for new project should be used as a base price to discuss with Adani Group
+
+Raises concerns on transparency of process in which Adani was granted the project and asks subject Minister to clarify
+
+Samagi Jana Balawegaya (SJB) MP Kabir Hashim yesterday called on the Government to temporarily suspend finalising the price agreement for a unit of power with the Indian Adani Group regarding the Mannar renewable energy project.
+
+...
+
+[Data](articles/a041806f.json)
+
+---
+
+### NPP calls for AKD vs. Sajith public face-off
+
+*2024-04-03 05:43:36* · [`dailyftlk`](https://www.ft.lk/news/NPP-calls-for-AKD-vs-Sajith-public-face-off/56-760241) · `en`
+
+NPP member Sunil Handunnetti accepts SJB invite to a public debate on behalf of his party
+
+Says NPP leader Anura Dissanayake is keen to engage in a debate with SJB leader Sajith Premadasa
+
+Highlights futility of engaging in debates with SJB members due to their involvement as policymakers under previous UNP Govt.
+
+Stresses it is more crucial for party leaders to participate in debates and discussions due to upcoming Presidential poll
+
+National People’s Party (NPP) Executive Council member Sunil Handunnetti on behalf of the political party yesterday accepted the challenge put forward by the Samagi Jana Balawegaya (SJB) to a debate on the economy.
+
+Over the weekend, the SJB issued a call for a debate between the Economic Councils of both parties. While acknowledging the challenge issued by SJB MPs Nalin Bandara and Harsha de Silva, Handunnetti emphasised that it is more crucial for party leaders to participate in debates and discussions in preparation for the upcoming Presidential election.
+
+...
+
+[Data](articles/12524c99.json)
+
+---
+
+### Gnanasara Thera’s bail application denied
+
+*2024-04-03 05:43:00* · [`dailyftlk`](https://www.ft.lk/news/Gnanasara-Thera-s-bail-application-denied/56-760240) · `en`
+
+The Colombo High Court rejected the bail application filed by the counsels representing the recently imprisoned Bodu Bala Sena (BBS) General Secretary Galagoda Aththe Gnanasara Thera yesterday.
+
+Colombo High Court Judge Aditya Patabendige rejected the bail application, stating that the counsels had failed to present any special circumstances before the Court that would warrant the release of Gnanasara Thera on bail.
+
+The defence counsels urged the court to grant bail to Gnanasara Thera pending appeal, considering the extended delays in concluding appeal hearings at the Court of Appeal and his health condition as grounds for release.
+
+On 28 March, the Colombo High Court sentenced Gnanasara Thera to four years of rigorous imprisonment and a fine of Rs. 100 000 over a contentious statement made by him about Islam and Muslims in 2016.
+
+...
+
+[Data](articles/e683b047.json)
+
+---
+
+### New Director General for Bribery Commission
+
+*2024-04-03 05:42:46* · [`dailyftlk`](https://www.ft.lk/news/New-Director-General-for-Bribery-Commission/56-760239) · `en`
+
+President Ranil Wickremesinghe has appointed W. K. D. Wijerathne as the Director General of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), the President’s Media Division (PMD) said.
+
+The appointment was made in accordance with the provisions of the new Anti-Corruption Act.
+
+Wijerathne has held the same position before, but this new appointment is under the new Anti Corruption Act, which was passed in the Parliament in September last year with wide powers.
+
+The new Act gives CIABOC broader ability to investigate and prosecute incidents of bribery and corruption. The commission has previously examined claims of bribery and corruption but has failed to meet expectations because most complaints have not resulted in prosecution.
+
+◼️
+
+[Data](articles/e66be7e5.json)
+
+---
+
+### Govt. to provide free sanitary pads to 800,000 female students annually
+
+*2024-04-03 05:42:25* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-provide-free-sanitary-pads-to-800-000-female-students-annually/56-760238) · `en`
+
+In a move aimed at addressing menstrual hygiene challenges and promoting educational equity, the Cabinet of Ministers approved an initiative to distribute free sanitary pads annually to 800,000 female students countrywide.
+
+The initiative, set to commence this month will benefit students in the most remote, isolated and underserved schools, including estate schools and urban areas with significant populations of economically disadvantaged female students.
+
+With a total student population of 4 million in Sri Lanka, around 1.2 million are female students who have attained puberty.
+
+“Recognising the importance of menstrual hygiene management in ensuring uninterrupted access to education, particularly for young women, the Government has prioritised the initiative to support female students in need,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing yesterday.
+
+...
+
+[Data](articles/472103df.json)
+
+---
 
 ### The creations of Mary Shelley and that of Lord Balfour – are there lessons to be learnt?
 
@@ -46,6 +228,8 @@ World leaders refused to accept the ominous beginning as a harbinger of darker, 
 
 [Data](articles/01608e58.json)
 
+[Extended Data](ext_articles/01608e58.ext.json)
+
 ---
 
 ### When “Aiyo” Sirisena accused India’s RAW of plotting to assassinate him
@@ -59,6 +243,8 @@ Sri Lanka the miracle of Asia is second to none in this sphere. From “Apey Geo
 ...
 
 [Data](articles/7ab2e4a6.json)
+
+[Extended Data](ext_articles/7ab2e4a6.ext.json)
 
 ---
 
@@ -101,6 +287,24 @@ In 2018, “EUROPOL” headquartered in Hague, Netherlands, a key organisation e
 ...
 
 [Data](articles/289ff033.json)
+
+---
+
+### இன்று இலங்கை திரும்பும் முருகன், ரொபட், ஜெயக்குமார்
+
+*2024-04-03 03:33:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இலங்கை-திரும்பும்-முருகன்-ரொபட்-ஜெயக்குமார்/175-335542) · `ta`
+
+இந்தியாவின் முன்னாள் பிரதமர் ராஜீவ் காந்தி கொலைக் குற்றச்சாட்டில் கைதாகிப் பல ஆண்டுகள் சிறையில் அடைக்கப்பட்ட பின்னர் நீதிமன்றத்தால் விடுவிக்கப்பட்ட  முருகன், ரொபட் பயஸ் மற்றும் ஜெயக்குமார் ஆகியோர் இன்று இலங்கைக்கு அழைத்து வரப்படுகின்றனர்.
+
+கட்டுநாயக்க விமான நிலையத்துக்கு இன்று முற்பகல் 11.30 மணிக்கு இவர்கள் மூவரும் வந்தடைவார்கள் என்று முருகன் சார்பில் வழக்காடிய சட்டத்தரணி புகழேந்தி தெரிவித்துள்ளார்.
+
+ராஜீவ் காந்தி கொலை வழக்கில் 33 ஆண்டுகள் வரையில் சிறையில் இருந்த இவர்கள் 2022 ஆம் ஆண்டு விடுதலை செய்யப்பட்ட நிலையில், திருச்சி சிறப்பு முகாமில் தடுத்து வைக்கப்பட்டிருந்தனர்.
+
+இந்நிலையில், அவர்களை விரைவில் இலங்கைக்கு அனுப்ப வேண்டும் என்ற கோரிக்கை வலுப்பெற்ற நிலையில், மூவரும் இன்று இலங்கைக்கு அழைத்துவரப்படவுள்ளனர். (a)
+
+◼️
+
+[Data](articles/1fb38941.json)
 
 ---
 
@@ -2009,259 +2213,5 @@ The foreign employment market has the ability to earn more than $ 5 billion.
 [Data](articles/e8ffe1ce.json)
 
 [Extended Data](ext_articles/e8ffe1ce.ext.json)
-
----
-
-### Government's new decision on imports
-
-*2024-04-02 16:01:06* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ගැන-රජයේ-අලුත්ම-තීරණය/11-408904) · `si`
-
-The government approved importing 750 vans and 250 buses for tourist transportation, as proposed by Minister Harin Fernando.
-
-🟩
-
-Cabinet approval has been given to import imports of vans and small buses. According to a proposal made by Minister Harin Fernando, a proposal presented by Minister Harin Fernando, is for transportation needs.
-
-Accordingly, the cabinet approves the importation of 750 vans and 250 buses of 16-30 buses to transport tourists.
-
-◼️
-
-[Data](articles/35c22541.json)
-
-[Extended Data](ext_articles/35c22541.ext.json)
-
----
-
-### Sri Lanka to allow import of 750 vans and 250 buses for tourism
-
-*2024-04-02 15:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-allow-import-of-750-vans-and-250-buses-for-tourism-157122/) · `en`
-
-ECONOMYNEXT – Sri Lanka will import 750 electric and hybrid vans with 6–15 seating capacity, 250 buses with 6–30 seating capacity, and 30–45 seating capacity without any special tax relief, for transportation of tourists.
-
-“As a result of import restrictions on vehicles and essential spare parts, the state of many vehicles used in the tourist industry are not of a satisfactory level,” Cabinet spokesman Bandula Gunawardena said.
-
-“The use of outdated vehicles for tourist transportation is damaging Sri Lanka’s reputation as a premier tourist destination.”
-
-Providing modern transportation facilities for an accelerated development in the tourism industry was essential, the minister said “considering the contribution of the tourist industry within the economic revival process of Sri Lanka”.
-
-...
-
-[Data](articles/15c77163.json)
-
-[Extended Data](ext_articles/15c77163.ext.json)
-
----
-
-### Sri Lanka’s economy shows signs of stabilization, but poverty to remain elevated – World Bank
-
-*2024-04-02 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98373/sri-lankas-economy-shows-signs-of-stabilization-but-poverty-to-remain-elevated-world-bank) · `en`
-
-Sri Lanka’s economy is projected to see moderate growth of 2.2% in 2024, showing signs of stabilization, following the severe economic downturn of 2022. But, the country still faces elevated poverty levels, income inequality, and labor market concerns, says the World Bank’s latest bi-annual update.
-
-Released today, the Sri Lanka Development Update, Bridge to Recovery, highlights that Sri Lanka saw declining inflation, higher revenues on the back of the implementation of new fiscal policies, and a current account surplus for the first time in nearly five decades, buoyed by increased remittances and a rebound in tourism.
-
-However, poverty rates continued to rise for the fourth year in a row, with an estimated 25.9% of Sri Lankans living below the poverty line in 2023. Labor force participation has also seen a decline, particularly among women and in urban areas, exacerbated by the closure of micro, small, and medium-sized enterprises (MSMEs).
-
-...
-
-[Data](articles/e148e07c.json)
-
-[Extended Data](ext_articles/e148e07c.ext.json)
-
----
-
-### 1,000 vehicles to be imported to accelerate tourism industry development
-
-*2024-04-02 15:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/1-000-vehicles-to-be-imported-to-accelerate-tourism-industry-development/108-280044) · `en`
-
-Colombo, April 2 (Daily Mirror) - Cabinet approval has been granted to import 1,000 vehicles only for the tourism industry to transport tourists, Cabinet spokesman and Minister Bandula Gunawardana said.
-
-Addressing the weekly media briefing to inform Cabinet decisions, he said this was after taking into consideration that vehicles in the tourism sector engaged in transporting tourists cannot be used for more than six years.
-
-It is apparent that the condition of the vehicles used in the tourism industry is not satisfactory and sufficient, and the fame earned by Sri Lanka as a prominent tourist destination is tarnished due to the use of old vehicles as a result of the limitations of vehicles and essential spare parts, the Minister said.
-
-"Therefore, the requirement of importing vehicles essential for enhancing the industry has been recognized considering the contribution to the tourist industry within the economic revival process of Sri Lanka.
-
-...
-
-[Data](articles/72e0dddb.json)
-
-[Extended Data](ext_articles/72e0dddb.ext.json)
-
----
-
-### Senaka Batagoda censes to sing seven songs
-
-*2024-04-02 15:41:36* · [`adalk`](https://www.ada.lk/breaking_news/සේනක-බටගොඩ-මහතාට-ගීත-හතක්-ගායනා-කිරීමට-වාරණයක්/11-408903) · `si`
-
-Senaka Batagoda censored for singing seven songs. High Court Judge Priyantha Fernando issued a censorship order. Case to be heard on April 16.
-
-🟩
-
-Champion Senaka Batagoda has no printing of the letter under the Intellectual Property Act, we have a manifestation, under the ashes, and the Colombo Commerce High Court JudgePriyantha Fernando issued a censorship today.
-
-The judge who considered a complaint filed by his lawyers by his lawyers with the combined standard of these songs, the melodic and concept of music, issued a censored by the Jana Kulatilake.
-
-The commercial High Court was ordered to call this case on April 16 and the Hon.
-
-◼️
-
-[Data](articles/28c5615e.json)
-
-[Extended Data](ext_articles/28c5615e.ext.json)
-
----
-
-### World Bank explains the situation in Sri Lanka
-
-*2024-04-02 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195216) · `si`
-
-The World Bank predicts Sri Lanka's economy will grow 2.2% in 2024, showing stability after a 2022 downturn. Despite this, high poverty, income, and labor market issues persist.
-
-🟩
-
-The World Bank foretold that in the year 2024, the Sri Lankan economy shows a moderate economic growth of 2.2%, showing stability markers.
-
-The World Bank points out that this situation is seen after the serious economic downturn faced by Sri Lanka in 2022.
-
-However, the world Bank's latest double-annual developmental evaluation that there are still high poverty, income market and labor market problems in the country.
-
-◼️
-
-[Data](articles/dfcaf9f0.json)
-
-[Extended Data](ext_articles/dfcaf9f0.ext.json)
-
----
-
-### Ink on the finger of the grandmother who died in Jaffna;Is the property fraudulent effort?
-
-*2024-04-02 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180250) · `ta`
-
-Police in Jaffna are investigating the death of a grandmother treated at the Jaffna Teaching Hospital, suspecting her assets may be illegally obtained. A son from abroad alleged property fraud, prompting investigations. The woman's body was examined for ink marks on the big toe, with no signs found. The hospital will keep the body until identification.
-
-🟩
-
-Police are conducting investigations into the death of a grandmother who died after being treated at the Jaffna Teaching Hospital.
-
-Police are conducting investigations on suspicion that the grandmother's assets may be illegally obtained.
-
-A woman from Manipayi area has died after being admitted to the Jaffna Bodhana Hospital due to a sudden illness.
-
-While the body was placed in the corpse room for an anatomical examination, I was informed that the son of the deceased, who had telephoned the hospital director from abroad, "some people from the mother have illegally bought the property.". He said that investigations should be carried out.
-
-Subsequently, the Director has informed the legal officer. The sudden death officer has also launched investigations.
-
-The woman's hand has been identified on the big toe, which is being investigated by Manipay police.
-
-...
-
-[Data](articles/3a264109.json)
-
-[Extended Data](ext_articles/3a264109.ext.json)
-
----
-
-### Dying
-
-*2024-04-02 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/180225) · `ta`
-
-Ganesan Ramachandran, a 39-year-old father, died in the Malpro Division of the Lethandi estate after participating in a wine competition. He was found dead in his sleep. The cause of death was pneumonia and a neck nerve issue.
-
-🟩
-
-A father of three children who drank too much alcohol to win the wine competition. The tournament featured in the Hatton Lethandi estate.
-
-Ganesan Ramachandran, a 39 -year -old father, died in the Malpro Division of the Lethandi estate belonging to the Hatton Police Division.
-
-The annual chariot festival was held at the temple in the estate. Some of the youths participated in the competition to select a large number of alcoholics.
-
-Three people living in the same garden participated in the competition. They have been given 750 milliliters of wine bottles.
-
-It has been revealed that the person who has come forward to attend the competition has already been drinking too much.
-
-The eldest daughter of the deceased said the father who came home at night and went to sleep after dinner. He did not wake up early the next morning. He said he died in sleep.
-
-...
-
-[Data](articles/04eed894.json)
-
-[Extended Data](ext_articles/04eed894.ext.json)
-
----
-
-### Timely consequences that fail to implement the IMF's project
-
-*2024-04-02 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/180248) · `ta`
-
-President Ranil Wickremesinghe praises the IMF project's failure to implement timely consequences, highlighting Sri Lanka's democratic values amidst global conflicts.
-
-🟩
-
-President Ranil Wickremesinghe, who returned to history, has said that it has been firmly admired by its democratic values that will ensure the actions of the Sri Lankan government and the opposition, despite the adverse impact of the world war and civil conflict.
-
-◼️
-
-[Data](articles/a9f34a95.json)
-
-[Extended Data](ext_articles/a9f34a95.ext.json)
-
----
-
-### Father who interfered with the son was hit by friends
-
-*2024-04-02 15:26:51* · [`adalk`](https://www.ada.lk/breaking_news/පුතු-බෙිරීමට-මැදිහත්-වූ-පියා-මිතුරන්ගෙන්-පහර-කා-මරුට/11-408902) · `si`
-
-A father involved in a dispute was killed during a musical show at Wijekoon Stadium. He ran a fish sales business and was hospitalized. His death occurred after a conflict with two men, leading to his assault and hospitalization. The main suspect has been arrested, and investigations are ongoing.
-
-🟩
-
-The father has died when a group of crowd had resulted in a musical show during a musical show.
-
-The death was killed while he was hospitalized after being treated in the hospital.. He has run the fish sales as a business.
-
-Narammala UB. The deceased was resolved at a musical show at the Wijekoon Stadium, the deceased was spreading the musical show, but after the death of the musical show, the murder was completed and about 1.45 am after the corporation.The two men have again attacked the two-son son, when the two-two people arrived.
-
-The deceased has spoken to the deceased to resolve the conflict, but he has not allowed him. The following two sons have assaulted them to protect them from them and have been assaulted by the police.
-
-One of the people who had been assaulted had hit the deceased to the head of the deceased, police said.
-
-...
-
-[Data](articles/6d33d964.json)
-
-[Extended Data](ext_articles/6d33d964.ext.json)
-
----
-
-### The economic reforms is ready to make a law
-
-*2024-04-02 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195215) · `si`
-
-State Minister Shehan Semasinghe announces the President's readiness to submit a draft law for economic reforms, emphasizing their irreversibility and the expected positive outcomes. The Minister of Finance highlights the ongoing impact of these reforms, aiming to prevent future economic risks and strengthen stability.
-
-🟩
-
-State Minister Shehan Semasinghe says that the President is ready to submit a draft scheme that will make the economy into the economy.
-
-He pointed out that no group could not reverse these economic reforms.
-
-The Minister of Finance further stated that the results of the decisions taken for the economy are currently receiving.
-
-"In the last two years, there have been reforms in the country. The results are being received today. Therefore, it is mandatory for these changes and maintain. "
-
-"The President meant to make all economic reforms into all the reforms that would not move back into a risk in the future."
-
-"The draft is presented to Parliament. It is expected to strengthen the economic stability.. Converting the country into a country that is not repeated in the face of crisis. "
-
-"Reforms were some pain in a briefly. They have been alleviating in some way today. "
-
-"So a laptoster frame together introduced to the country. It was a decision for the future of this country. "
-
-...
-
-[Data](articles/678179e2.json)
-
-[Extended Data](ext_articles/678179e2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 20:18:13**
+As of **2024-04-03 20:33:47**
 
 ## Newspaper Stats
 
-*Scraped **16,937** Articles*
+*Scraped **16,939** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 910
 islandlk | 931
 economynextcom | 940
-adalk | 1,424
+adalk | 1,425
 tamilmirrorlk | 2,016
 adaderanalk | 2,030
-virakesarilk | 2,446
+virakesarilk | 2,447
 dailymirrorlk | 2,603
 adaderanasinhalalk | 2,740
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,740
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,936 (100.0%) of 16,937 articles have been extended.
+16,937 (100.0%) of 16,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### விவசாய நவீனமயமாக்கல் திட்டத்திற்கான அரச நிறுவனங்களின் செயல்திறனை மேம்படுத்த விவசாய நவீனமயமாக்கல் சபை - ஜனாதிபதி
+
+*2024-04-03 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180366) · `ta`
+
+விவசாயத் துறையுடன் தொடர்புடைய அமைச்சுக்கள், நிறுவனங்கள் மற்றும் அமைப்புக்களை மறுசீரமைப்புச் செய்தல், கண்காணிப்பதற்காக ஜனாதிபதி - பிரதமர் தலைமையில் விவசாய நவீன மயமாக்கல் சபையொன்றை நிறுவ உள்ளதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தில் அரசாங்க நிறுவனங்களின் செயல்திறனை மேம்படுத்தும் நோக்கிலேயே புதியச் சபை நிறுவப்பட உள்ளதெனவும் ஜனாதிபதி தெரிவித்தார்.
+
+ஜனாதிபதி அலுவலகத்தில் புதன்கிழமை (03) நடைபெற்ற விவசாய நவீனமயப்படுத்தல் வேலைத்திட்டம் தொடர்பிலான மீளாய்வுக் கூட்டத்திலேயே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+
+இலங்கையின் விவசாயத் துறையை நவீனமயப்படுத்துவதற்காக தயாரிக்கப்பட்ட கொள்கைத் திட்டம், அதனை தயாரிப்பதற்காக நியமிக்கப்பட்ட நிபுணர் குழுவின் தலைவர் காமினி சேனாநாயக்கவினால் ஜனாதிபதியிடம் இதன்போது கையளிக்கப்பட்டது.
+
+...
+
+[Data](articles/e57cd666.json)
+
+---
 
 ### Due to the traffic on the main road
 
@@ -137,6 +155,18 @@ Weligama Police have arrested the deceased person's wife.
 [Data](articles/91ede276.json)
 
 [Extended Data](ext_articles/91ede276.ext.json)
+
+---
+
+### රජිව් ගාන්ධි ඝාතනයට සම්බන්ධ සැකකරුවන් කටුනායකින් ගෙදර යයි
+
+*2024-04-03 19:35:17* · [`adalk`](https://www.ada.lk/breaking_news/රජිව්-ගාන්ධි-ඝාතනයට-සම්බන්ධ-සැකකරුවන්-කටුනායකින්-ගෙදර-යයි/11-408932) · `si`
+
+ඉන්දියාවේ හිටපු අග්‍රාමාත්‍ය රජීව් ගාන්ධි මහතාගේ ඝාතනය සම්බන්ධයෙන් අත්අඩංගුවට ගෙන මෙරටට පිටුවහල් කළ ද්‍රවිඩ ජාතිකයන් තිදෙනා පැය 06 කට අධික කාලයක් කටුනායක ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් ප්‍රශ්න කර ප්‍රකාශ සටහන් කර ගැනීමෙන් පසු පස්වරු 05.15 ට පමණ නිදහස් කිරීමට පියවර ගෙන තිබුණි. ඒ අනුව ඔවුන් තිදෙනා වෑන් රථ තුනකින් යාපනය සිය ගම් ප්‍රදේශ බලා පිටත්ව ගියහ.
+
+◼️
+
+[Data](articles/bda917f0.json)
 
 ---
 
@@ -2094,25 +2124,37 @@ Meanwhile, the absentees who are currently living overseas will also be eligible
 
 ---
 
-### සේනක බටගොඩ: 'අපි කවුරු ද?' ඇතුළු වාරණයට ලක්වූ රසික හදවත් පිනවූ ගීත 7ට කුමක් වෙයි ද?
+### Senaka Batagoda: 'Who are we?'What will happen to 7 songs that have been censored?
 
 *2024-04-03 13:21:43* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gjjy7q7p3o) · `si`
 
-සේනක බටගොඩ: 'අපි කවුරු ද?' ඇතුළු වාරණයට ලක්වූ රසික හදවත් පිනවූ ගීත 7ට කුමක් වෙයි ද?
+Senaka Batagoda, a beloved Sri Lankan musician, faces an injunction order over seven censored songs. The Colombo High Court issued the injunction, preventing the songs' transfer without Janath Kunatilake's consent. The case involves intellectual property rights, with Januth Kulathilaka claiming contribution to the songs.
 
-සේනක බටගොඩ යනු ශ්‍රී ලාංකික සංගීත රසිකයින් අතර මහත් ආදරයක් දිනූ ගීත කිහිපයක ම නිර්මාණකරු ලෙස ආදරය දිනා සිටි සංගීත ශිල්පියෙකි.
+🟩
 
-දැවැන්ත රසික ආකර්ෂණයක් හිමි කර ගත්, ඔහු ගැයූ ගීත 7ක් සම්බන්ධයෙන් අප්‍රේල් 03 වන දා වාරණ නියෝගයක් නිකුත් කෙරිණි.
+Senaka Batagoda: 'Who are we?'What will happen to 7 songs that have been censored?
 
-කොළඹ මහාධිකරණය විසින් එම වාරණ නියෝගය නිකුත් කළේ, 'අපි කවුරු ද', 'අපි සැනසිල්ලේ', 'රස්තා', 'අළු යට ගිනි', 'හීනවලට පණක් තිබෙනවා', 'හොඳ ම දේ' හා 'සැනසෙන්නම්' යන ගීත 7 සම්බන්ධයෙනි.
+Senaka Batagoda is a musicioner who has won a great love for Sri Lankan music fans as the Creator.
 
-කොළඹ වාණිජ මහාධිකරණ විනිසුරු ප්‍රියන්ත ප්‍රනාන්දු මෙම වාරණ නියෝගය නිකුත් කළේ, ජනත් කුලතිලක නමැත්තෙකු විසින් ගොනු කළ නඩුවක් විභාගයට ගනිමිනි.
+An injunction order was issued on April 3 regarding seven songs he had abused a massive fan attraction.
 
-ජනත් කුලතිලක සංගීත නිර්මාණයට දායක වූ බව කියන ගීත 7ක් වෙනුවෙන් බුද්ධිමය දේපළ පනත යටතේ ගෙවිය යුතු කර්තෘ භාගය නොගෙවූ බවට වන චෝදනා යටතේ එම ගීත මින් ඉදිරියට ගායනා කිරීම වළක්වමින් ගායන ශිල්පී සේනක බටගොඩට එරෙහිව එම වාරණ නියෝගය නිකුත් කෙරිණි.
+The Colombo High Court issued the injunction, 'Who are we comforted,' and "good things" and 7 songs.
+
+Colombo High Court Judge Priyantha Fernando released the injunction with a case filed by a person named the Janath Kunatilake.
+
+The injunction was issued against the Singer Senaka Batagoda, preventing the editor under the Jathika Property Act.
+
+The Commerce High Court had issued a censorship from the transfer of the 7 songs to another party without the written consent of the Janath Kulatilake.
+
+The lawyer appearing on behalf of the plaintiff had informed the court that the intellectual property ownership of the complainant would be abrepubated.
+
+'Intelligencyly contributing to songs' - Januth Kulathilaka
 
 ...
 
 [Data](articles/a9758ade.json)
+
+[Extended Data](ext_articles/a9758ade.ext.json)
 
 ---
 
@@ -2301,43 +2343,5 @@ At the same time, Richard Volkar pointed out that the World Bank is fully cooper
 [Data](articles/7f645e02.json)
 
 [Extended Data](ext_articles/7f645e02.ext.json)
-
----
-
-### Two suspects escape from police custody
-
-*2024-04-03 12:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-suspects-escape-from-police-custody/108-280102) · `en`
-
-Galle, April 3 (Daily Mirror)- Two suspects who were detained for further questioning escaped from the custody of the Galle police during the early hours today.
-
-They had been arrested the previous day for having in their possession a stock of heroin and were being detained on a court order. One is from Bope and the other from Mainagoda in Galle.
-
-However, the two young men had escaped custody when the reserve sergeant opened the remand cell to release another suspect on bail.
-
-A police team is conducting investigations to track down the two escapees.
-
-◼️
-
-[Data](articles/64ce216e.json)
-
-[Extended Data](ext_articles/64ce216e.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-04-03 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180322) · `ta`
-
-On April 3, the US dollar's purchase price was Rs 295.2486, and the sale price was Rs 304.6043.
-
-🟩
-
-The US dollar purchasing price was Rs 295.2486 and the sales price were Rs 304.6043 based on the Central Bank's currency exchange rate on Wednesday (April 03).
-
-◼️
-
-[Data](articles/a400b52b.json)
-
-[Extended Data](ext_articles/a400b52b.ext.json)
 
 ---

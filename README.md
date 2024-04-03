@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 15:52:20**
+As of **2024-04-03 16:03:57**
 
 ## Newspaper Stats
 
-*Scraped **16,865** Articles*
+*Scraped **16,870** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 910
 economynextcom | 927
 islandlk | 931
-adalk | 1,416
+adalk | 1,417
 tamilmirrorlk | 2,010
-adaderanalk | 2,020
-virakesarilk | 2,431
+adaderanalk | 2,021
+virakesarilk | 2,434
 dailymirrorlk | 2,596
 adaderanasinhalalk | 2,729
 
@@ -26,63 +26,153 @@ adaderanasinhalalk | 2,729
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,862 (100.0%) of 16,865 articles have been extended.
+16,865 (100.0%) of 16,870 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### සෝල් බීච් කඩා ඉවත් කිරීමට එරෙහි පෙත්සම සලකාබැලීමට දින දෙයි
+### Sri Lanka named best destination for solo female travellers
 
-*2024-04-03 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195256) · `si`
+*2024-04-03 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98397/sri-lanka-named-best-destination-for-solo-female-travellers) · `en`
 
-සෝල් බීච් හෝටලයේ හිමිකරුවන් විසින් ගොනුකර තිබෙන මූලික අයිතිවාසිකම් පෙත්සම සලකාබැලීම සඳහා ජුලි මස 10 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (03) නියම කළේය.
+A London-based global magazine has named Sri Lanka as the best destination for solo female travellers.
 
-යුක්තිය මෙහෙයුම යටතේ ඉකුත්දා දෙහිවල මුහුදුබඩ ප්‍රදේශයේ පිහිටි "සෝල් බීච්" හෝටලය කඩා ඉවත් කිරීමේ සිද්ධිය තුළින් සිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට නියෝගයක් ලබාදෙන ලෙස ඉල්ලා එම පෙත්සම ගොනුකර තිබේ.
+According to Time Out, the Indian Ocean island is the ‘perfect first stop’ for female travellers wanting to dip into South Asia.
 
-මෙම පෙත්සම අද ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබීය.
+The magazine further says that Sri Lanka is popular with backpackers and perfectly sized for a week or a month spent exploring the ancient UNESCO-listed sites like Dambulla and Sigiriya or visiting tea plantations in Nuwara Eliya.
 
-එම අවස්ථාවේදී අදාළ පෙත්සමේ වගඋත්තරකරුවන්ට නොතීසි ලබාදීමට පියවර ගන්නා ලෙස පෙත්සම්කාර පාර්ශ්වයට විනිසුරු මඩුල්ල විසින් නියෝග කර තිබුණි.
+“And for some blissful downtime, the golden beaches of Arugam Bay, Mirissa and Hikkaduwa promise beachfront hostels, surfing and delicious local food.”
 
-ඉන් අනතුරුව දෙපාර්ශ්වයේ නීතිඥවරු විසින් කරන ලද ඉල්ලීම පිළිගත් විනිසුරු මඩුල්ල අදාළ පෙත්සම සලකාබැලීම සඳහා ජුලි මස 10 වනදා කැඳවන ලෙස නියෝග කෙරුණි.
+Portugal has been ranked the second-best destination, followed by Czechia, Japan, Guatemala, Vietnam, Australia, Greece, and New Zealand, respectively.
+
+The magazine says more women than ever are now heading to far-flung destinations in search of new friends, different cultures, and memorable experiences.
 
 ...
 
-[Data](articles/ff0c680b.json)
+[Data](articles/60b2db8a.json)
 
 ---
 
-### ஈஸ்டர் தாக்குதல்கள் குறித்து கர்தினால் முன்கூட்டியே அறிந்திருந்தாரா?
+### லெபனான் ஐ.நா. அமைதி காக்கும் பணியை வெற்றிகரமாக முடித்தவர்கள் நாடு திரும்பல்
+
+*2024-04-03 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180348) · `ta`
+
+லெபனானில் ஐ.நா அமைதி காக்கும் பணிகளில் இருந்த இலங்கை இராணுவத்தின் 14 வது பாதுகாப்புப் படைக் குழு, தமது கடமை காலத்தின் நிறைவின் பின்னர்  2024 ஏப்ரல் 02 (செவ்வாய்கிழமை) நாடுதிரும்பியது.
+
+ஐ.நா அமைதி காக்கும் பணிகளுக்காக 2023 மார்ச் மாதம் நாட்டிலிருந்து புறப்பட்ட இந்தக் குழு, ஐநா இடைக்காலப் படைத் தலைமையகத்தில் கடமையாற்றியது. இலங்கை பாதுகாப்பு படைக் குழுவின் கட்டளை அதிகாரி கேணல் டி.பீ.ஐ.டி களுஅக்கல ஆர்எஸ்பீ யூஎஸ்பீ ஐஜி அவர்களின் தலைமையில் 10 அதிகாரிகளும் 115 சிப்பாய்களும் தங்கள் கடமை காலத்தின் நிறைவின் பின்னர் நாட்டை வந்தடைந்தனர்.
+
+இலங்கை இராணுவத்தை பிரதிநிதித்துவப்படுத்தி இலங்கை பீரங்கி படையணியின் படைத் தளபதி மேஜர் ஜெனரல் பி.கே.ஜி.எம்.எல். ரொட்ரிகோ ஆர்எஸ்பீ பீஎஸ்சி ஐஜீ, மற்றும் அப்படையணியின் நிலையத் தளபதி பிரிகேடியர் கேஏடிஎன்ஆர் கன்னங்கர ஆர்எஸ்பீ ஐஜி உள்ளிட்ட அதிகாரிகள் பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் குழுவை வரவேற்றனர்.
+
+◼️
+
+[Data](articles/4314ae98.json)
+
+---
+
+### The petition against demolition of Seoul Beach will be considered
+
+*2024-04-03 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195256) · `si`
+
+The Supreme Court is reviewing the petition against the demolition of Seoul Beach Hotel, filed by the hotel's owners, Tennakoon, and the Coast Conservation Department. The case was heard by a three-member court today.
+
+🟩
+
+The Supreme Court today (03) presented the Fundamental Rights Petition filed by the Seoul Beach Hotel.
+
+The petition has been filed as a result of the demolition of the 'Seoul Beach Hotel in Dehiwala area under the operation.
+
+The petition was called before a three-member Supreme Court judge today.
+
+The petitioner had ordered the petitioner party to take measures to be given notice to respondents in the petition.
+
+The petition was ordered to be summoned on July 10 to acknowledged the request made by the lawyers of the lawyers.
+
+The petition has been submitted by the owners of the owner Tennakoon, including IGP Deshabandu Tennakoon, who is properly maintained by the Coast Conservation Department.
+
+◼️
+
+[Data](articles/ff0c680b.json)
+
+[Extended Data](ext_articles/ff0c680b.ext.json)
+
+---
+
+### Did Cardinal know in advance of Easter attacks?
 
 *2024-04-03 15:34:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈஸ்டர்-தாக்குதல்கள்-குறித்து-கர்தினால்-முன்கூட்டியே-அறிந்திருந்தாரா/175-335570) · `ta`
 
-ஈஸ்டர் ஞாயிறு தாக்குதல்கள் குறித்து கொழும்பு பேராயர் கர்தினால் மல்கம் ரஞ்சித் அவர்கள் எந்தவித முன்னறிவிப்பையும் பெறவில்லை என இலங்கை கத்தோலிக்க திருச்சபை இன்று தெரிவித்துள்ளது.
+The Catholic Church of Sri Lanka states that Cardinal Malcolm Ranjith was not warned about the Easter Sunday attacks. He did not attend Easter worship in 2019, and it's customary for him to attend on Saturday night but not on Sunday.
 
-திருச்சபை பேச்சாளர்  அருட்தந்தை. சிறில் காமினி பெர்ணான்டோ அவர்கள் ஈஸ்டர் ஞாயிறு தாக்குதல்கள் தொடர்பில் கர்தினால் ரஞ்சித்துக்கு முன்னரே எச்சரிக்கை விடுக்கப்பட்டதாக வெளியான ஊகங்கள் முற்றிலும் பொய்யானவை என ஊடகவியலாளர் சந்திப்பில் ஊடகவியலாளர்கள் கேள்வியெழுப்பிய போது தெரிவித்துள்ளார்.
+🟩
 
-"கர்தினால் ரஞ்சித் அவர்கள் 2019 ஆம் ஆண்டு ஈஸ்டர் ஆராதனையில் பங்கேற்கவில்லை என்ற கூற்றும் தவறானது. கொழும்பு பேராயர் பாரம்பரியமாக சனிக்கிழமை இரவு ஈஸ்டர் ஆராதனையில் கலந்து கொள்வதே வழக்கம். ஈஸ்டர் ஞாயிற்றுக்கிழமை எந்த சேவையிலும் பங்கேற்பதில்லை," என அவர் மேலும் தெரிவித்தார்.
+The Catholic Church of Sri Lanka today said that the Archbishop of Colombo Cardinal Malcolm Ranjith has not received any notice on the Easter Sunday attacks.
+
+Church speaker. At a press conference, journalists questioned at a press conference that the assumptions that had been issued before Cardinal Ranjith had been warned before the Easter Sunday attacks on Easter Sunday attacks.
+
+"Cardinal Ranjit was not attending Easter worship in 2019. It is customary for the Archbishop of Colombo to attend the Easter worship on Saturday night. Easter will not participate in any service on Sunday, ”he added.
 
 ◼️
 
 [Data](articles/068ce8c7.json)
 
+[Extended Data](ext_articles/068ce8c7.ext.json)
+
 ---
 
-### පොලිස් සිරමැදිරියේදී ඇද වැටුණු සැකකරුවෙක් රෝහල්ගත කරයි
+### உயிர்த்த ஞாயிறு தாக்குதல் - மல்கம் ரஞ்சித்திற்கு முன்கூட்டிய எச்சரிக்கை எதுவும் கிடைக்கவில்லை - கத்தோலிக்க திருச்சபை
+
+*2024-04-03 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180347) · `ta`
+
+உயிர்த்தஞாயிறு தாக்குதல் குறித்து கர்தினால் மல்கம் ரஞ்சித்தி;ற்கு முன்கூட்டிய தகவல் எதுவும் கிடைக்கவில்லை என கத்தோலிக்க திருச்சபை தெரிவித்துள்ளது.
+
+கர்தினால் மல்கம் ரஞ்சித்திற்கு முன்கூட்டியே தகவல் தெரிந்திருந்தது என வெளியாகியுள்ள ஊகங்கள்  முற்றிலும் தவறானவை என கத்தோலிக்க திருச்சபையின் பேச்சாளர் அருட்தந்தை சிறில் காமினி பெர்ணான்டோ தெரிவித்துள்ளார்.
+
+2019ம்ஆண்டு உயிர்த்த ஞாயிறுதின ஆராதனைகளில்  கர்தினால் கலந்துகொள்ளவில்லை என்பதும் பொய்யான தகவல் ஏப்பிரல் 20 ம் திகதி ஆராதனைகளில் அவர் கலந்துகொண்டார் கொழும்பு பேராயர் வழமையாக சனிக்கிழமை நள்ளிரவு ஆராதனைகளில் மாத்திரம் கலந்துகொள்வார் என அருட்தந்தை சிறில் காமினி பெர்ணான்டோ தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/1902b7d9.json)
+
+---
+
+### மனிதாபிமான பணியாளர்கள் மீதான இஸ்ரேலின் தாக்குதலின் எதிரொலி ; தங்கள் நடவடிக்கைகளை இடைநிறுத்திய தொண்டு அமைப்புகள் - காசா பெரும் மனிதாபிமான நெருக்கடியில் சிக்கும் அபாயம்
+
+*2024-04-03 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180346) · `ta`
+
+காசாவில் மனிதாபிமான பணியாளர்கள் கொல்லப்பட்ட சம்பவத்தை தொடர்ந்து தொண்டு நிறுவனங்கள் தங்கள் மனிதாபிமான பணிகளை இடைநிறுத்தியுள்ளதை தொடர்ந்து மனிதாபிமான நெருக்கடி தீவிரமடையும் ஆபத்து உருவாகியுள்ளது.
+
+வேர்ல்ட் சென்ரல் கிச்சனின் வாகனத்தொடரணி மீது மேற்கொள்ளப்பட்ட தாக்குதலில் ஏழு மனிதாபிமான பணியாளர்கள் கொல்லப்பட்டதை தொடர்ந்து காசாவில் மனிதாபிமான பணியி;ல் ஈடுபட்டுள்ள பல அமைப்புகள் தங்கள் பணியாளர்களின் பாதுகாப்பை கருத்தில்கொண்டு தங்கள் பணிகளை இடைநிறுத்தியுள்ளதாக தெரிவித்துள்ளன.
+
+இது முன்னர் ஒருபோதும் இடம்பெறாத விடயம் என தெரிவித்துள்ள அனெரா என்ற தொண்டு நிறுவனம் பல மனிதாபிமான பணியாளர்களும்  அவர்களது குடும்பத்தினரும் கொல்லப்பட்ட நிலையில் மனிதாபிமான உதவிகளை வழங்குவது பாதுகாப்பான நடவடிக்கை இல்லை என்ற முடிவிற்கு வந்துள்ளோம் என தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/a88dd861.json)
+
+---
+
+### Suspect admitted to hospital in police cell
 
 *2024-04-03 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195255) · `si`
 
-පයාගල පොලීසියේ සිරමැදිරියේ රඳවා සිටි සැකකරුවෙකු හිසට සිදුවූ තුවාල සහිතව අද (03) රෝහල්ගත කර ඇති බව කළුතර නාගොඩ ශීක්ෂණ රෝහල් ආරංචි මාර්ග සඳහන් කරයි.
+A suspect was admitted to Nagoda Survey Hospital after being arrested and detained in Payagala police. The suspect fell into the prison this afternoon and is now receiving treatment at Kalutara Teaching Hospital.
 
-රෝහල්ගත කර ඇති පුද්ගලයා විවෘත වරෙන්තුවක් මත අත්අඩංගුවට ගෙන පයාගල පොලීසියේ සිරමැදිරියේ රඳවා සිට ඇති බව වාර්තා විය.
+🟩
 
-සිරමැදිරියේ රඳවා සිටි සැකකරු කිසියම් හදිසි අසනීප තත්ත්වයක් හේතුවෙන් අද දහවල් සිරමැදිරිය තුළ ඇද වැටී හිසට තුවාල සිදුවී ඇති බවද පැවසෙයි.
+According to the Nagoda Survey Hospital, sources from the Nagoda Survey Hospital, along with injuries in the Payagala police.
 
-සැකකරු කළුතර ශික්ෂණ රෝහලේ පොලිස් ආරක්ෂාව යටතේ නේවාසිකව ප්‍රතිකාර ලබමින් පසුවෙයි.
+It was reported that the hospital was arrested and detained on an open warrant and detained the prison in Payagala.
+
+The suspect in the prison is said to have fallen into the prison this afternoon.
+
+The suspect is receiving treatment at the Kalutara Teaching Hospital.
 
 ◼️
 
 [Data](articles/22dde038.json)
+
+[Extended Data](ext_articles/22dde038.ext.json)
 
 ---
 
@@ -103,6 +193,24 @@ The Railway Department is noting that the train will be operated from Colombo fr
 [Data](articles/0426cc54.json)
 
 [Extended Data](ext_articles/0426cc54.ext.json)
+
+---
+
+### ආලවන්තිට ගිනි තැබුවාද? ගිනි ගත්තාද?
+
+*2024-04-03 14:43:31* · [`adalk`](https://www.ada.lk/breaking_news/ආලවන්තිට-ගිනි-තැබුවාද--ගිනි-ගත්තාද-/11-408921) · `si`
+
+කොටහේන මෝදර අලුත් මාවත පාලම අසල ප්‍රදේශයේ දි ඊයේ (03)  අලුයම ලේලන්ඩ් පුද්ගලික බස් රථයක් හදිසියේ ගිනිගැනීමකට ලක්වී සම්පූර්ණයෙන් විනාශ  ඇති බව කොටහේන පොලිසිය පවසයි.
+
+"ආලවන්ති ගෝල්ඩන් ප්‍රින්සස්" නැමති කාගේත් ජනාදරයට පාත්‍ර වූ මෙම පුද්ගලික බස් රථය කැලණිය ප්‍රදේශයේ පුද්ගලයෙකුට අයත් එකක් බවත් නුවර බලා වන්දනා ගමනක් යෑමට බලාපොරොත්තුවෙන් සිටි පිරිසක් රැගෙන ඒමට මෝදර ප්‍රදේශයට අලුයම 05.00 ට පමණ පැමිණ ඇති බවත් පොලිසිය කියයි.
+
+බස් රථය මෝදර අලුත් මාවත ප්‍රදේශයේදී, අතරමඟ  නවතා රියදුරු සහ රිය සහායකවරයා තේ පානය සදහා අසල පිහිටි ආපනශාලාවකට ගිය අවස්ථාවේදී එකවරම බස් රථය තුලින් විශාල දුමාරයක් සහිතව ගිනි ගන්නා ආකාරය දැක ඇති බවත් පොලිසිය සඳහන් කරයි.
+
+කලබලයට හා භීතියට පත් රියදුරු  සහ කොන්දොස්තරවරයා මෙන්ම වරාය පොලිසියට අනුයුක්තව සේවය කරන පොලිස් නිලධාරීන් දෙදෙනෙකු යුහු සුළුව ක්‍රියාත්මක වී කොටහේන පොලිස් ස්ථානයට හා ගිනි නිවීමේ සේවා දෙපාර්තමේන්තුවට සිද්ධිය සම්බන්ධයෙන් දැනුම් දී ඇති බවත් ආසන්නයේ සිටි සියලු දෙනා එක්ව ගින්න නිවා දැමීමට උත්සහ කලද එය කිරීමට නොහැකි වී ඇති බවත් පොලිසිය පවසයි.
+
+...
+
+[Data](articles/2648ca72.json)
 
 ---
 
@@ -2225,99 +2333,5 @@ These rogue officers are accused of aiding criminal activity and taking undue ad
 [Data](articles/d2d7cf1c.json)
 
 [Extended Data](ext_articles/d2d7cf1c.ext.json)
-
----
-
-### Welcoming summer with warmth...
-
-*2024-04-03 06:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Welcoming-summer-with-warmth/110-280077) · `en`
-
-The vibrant blossoms eagerly greet the summer in Nuwara Eliya, painting the landscape with their radiant colors, evoking a sense of warmth and anticipation for the season ahead. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/3020db70.json)
-
-[Extended Data](ext_articles/3020db70.ext.json)
-
----
-
-### Heavy rains in several areas today
-
-*2024-04-03 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195229) · `si`
-
-Heavy rains and thundershowers expected in Western, Sabaragamuwa, Central, Southern, and Uva provinces. Public advised to take precautions against wind and lightning.
-
-🟩
-
-In the Western, Sabaragamuwa, Central, Southern and Uva provinces. Showers or thundershowers will occur at several places, about 2.00.
-
-Some places in the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts. Mee. Heavy rains can occur about 75 times.
-
-In some places in the Western, Central, Sabaragamuwa and Uva provinces, in some places, are expected to be fired in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/54a0144f.json)
-
-[Extended Data](ext_articles/54a0144f.ext.json)
-
----
-
-### Cabinet approves contracts for solar photovoltaic power plants
-
-*2024-04-03 05:49:49* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-contracts-for-solar-photovoltaic-power-plants/34-760246) · `en`
-
-The Cabinet of Ministers has cleared awarding contracts for the construction and operation of solar photovoltaic power plants, totalling a capacity of
-
-The decision follows the previous Cabinet approval on 22 May 2023, to invite proposals for the establishment of 7 MW solar photovoltaic power plants. Subsequently, the Cabinet appointed Negotiation Committee, tasked with evaluating the proposals, identified four successful project proponents.
-
-Additionally, based on the recommendations of the Procurement Appellate Board, the Committee evaluated another investor’s proposal and deemed them suitable for implementing a project to construct a 5 MW solar photovoltaic power plant.
-
-The proposal to this effect submitted by Power and Energy Minister Kanchana Wijesekera was approved by the Cabinet of Ministers on Monday.
-
-◼️
-
-[Data](articles/b9139eec.json)
-
-[Extended Data](ext_articles/b9139eec.ext.json)
-
----
-
-### Parliament approves increase in VAT to 18%
-
-*2024-04-03 05:49:34* · [`dailyftlk`](https://www.ft.lk/business/Parliament-approves-increase-in-VAT-to-18/34-760245) · `en`
-
-The order proposing to increase the Value Added Tax (VAT) percentage from 15% to 18% was passed in Parliament with a majority of 36 votes.
-
-During the Parliamentary session yesterday, a total of 55 Members of Parliament voted in favour of the VAT amendment, while 19 MPs voted against it, showcasing a clear majority in support of the proposal.
-
-The decision comes after the issuance of a Gazette notification for the VAT amendment in January of this year, signalling the Government’s intention to revise the tax rate to address fiscal challenges and boosting revenue streams.
-
-...
-
-[Data](articles/c13bb402.json)
-
-[Extended Data](ext_articles/c13bb402.ext.json)
-
----
-
-### Ex-KPMG fame Yohan Perera joins Hayleys, Haycarb and DIPD Boards
-
-*2024-04-03 05:49:13* · [`dailyftlk`](https://www.ft.lk/business/Ex-KPMG-fame-Yohan-Perera-joins-Hayleys-Haycarb-and-DIPD-Boards/34-760244) · `en`
-
-Top professional and ex-KPMG fame Yohan Perera has been appointed to the Boards of Hayleys PLC, Haycarb PLC and Dipped products PLC as a Non-Executive Independent Director.
-
-Perera is a Fellow Member of the CA Sri Lanka and a Fellow Member of the Chartered Institute of Management Accountants, UK. He served as a Partner at KPMG Sri Lanka and Maldives for 33 years. During this period, he also served the Firm as the Head of HR, Risk Management Partner and Chief Operating Officer before he was appointed as the Managing Partner.
-
-He served on the KPMG Middle East and South Asia Board during his tenure as Managing Partner of the firm. He counts over 40 years of experience in audits of conglomerates and listed companies with diversified business interests.
-
-...
-
-[Data](articles/1bfb4c9e.json)
-
-[Extended Data](ext_articles/1bfb4c9e.ext.json)
 
 ---

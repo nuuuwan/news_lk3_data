@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 16:18:12**
+As of **2024-04-03 16:33:22**
 
 ## Newspaper Stats
 
-*Scraped **16,872** Articles*
+*Scraped **16,875** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,80 @@ economynextcom | 927
 islandlk | 931
 adalk | 1,417
 tamilmirrorlk | 2,010
-adaderanalk | 2,022
+adaderanalk | 2,023
 virakesarilk | 2,434
-dailymirrorlk | 2,596
-adaderanasinhalalk | 2,730
+dailymirrorlk | 2,597
+adaderanasinhalalk | 2,731
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,870 (100.0%) of 16,872 articles have been extended.
+16,872 (100.0%) of 16,875 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### ජෙරම්ට එරෙහි තහනමක් ඉවතට
+### දිවුලපතන ගම්මානයේ ජනතාව නිදහසේ ජීවත් විය හැකි වාතාවරණයක් ඉල්ලයි
+
+*2024-04-03 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195259) · `si`
+
+දිවුලපතන ගම්මානය ආශ්‍රිතව ඉදිකර තිබෙන ආරක්ෂිත මුරකපොලු ඉවත් කිරීමට පියවර ගන්නා ලෙස නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ඉදිරිපත් කර තිබේ.
+
+අම්පාර දිස්ත්‍රික්කයේ සිංහල ජනතාව බහුතරයක් වාසය කරන දිවුලපතන ගම්මානය ආශ්‍රිතව ඉදිකර තිබෙන ආරක්ෂිත මුරකපොලු ඉවත්කොට එම ජනතාවට නිදහසේ ජීවත් විය හැකි වතාවරණයක් උදාකර දීමට පියවර ගන්නා ලෙස නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මෙම මූලික අයිතිවාසිකම් පෙත්සම ඉදිරිපත් කර ඇත.
+
+පූජ්‍ය බෙංගමුවේ නාලක හිමි සහ දිවුලපතන ගම්වාසින් පිරිසක් විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබේ.
+
+එහි වගඋත්තරකරුවන් ලෙස වාරිමාර්ග අමාත්‍ය පවිත්‍රා වන්නිආරච්චි,  සංචාරක අමාත්‍ය හරින් ප්‍රනාන්දු, නැගෙනහිර පළාත භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති අජිත් රෝහණ ඇතුළු පිරිසක් නම් කර ඇත.
+
+පෙත්සම්කරුවන් කියා සිටින්නේ නැගෙනහිර පළාතේ පිහිටි දිවුලපතන ගම්මානයේ ඈත අතීතයේ පටන් සිංහල ජනතාව වාසය කළ බවය.
+
+1974 වසර වන විට අදාළ ගම්මානයේ සිංහල පවුල් 618ක් වාසය කළ බවත් පෙත්සමේ සඳහන් වෙයි.
+
+...
+
+[Data](articles/ed78a3ad.json)
+
+---
+
+### Ban against Jerome removed
 
 *2024-04-03 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195257) · `si`
 
-දේවගැති ජෙරම් ප්‍රනාන්දු හට පනවා තිබූ විදෙස් ගමන් තහනම තාවකාලිකව ඉවත්කිරීමට පියවර ගෙන තිබේ.
+The ban on Pastor Jerm Fernando, previously imposed due to religious reputation concerns, has been temporarily lifted. The decision was made after the case was heard in the Fort Magistrate's Court today.
 
-ජෙරම් ප්‍රනාන්දුට එරෙහි නඩුව අද (03) කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවේ කැඳවූ අවස්ථාවේදී මෙම නියෝගය ලබාදී ඇත.
+🟩
 
-විදෙස් රටවල් කිහිපයක් වෙත යාම සඳහා අවශ්‍ය බව සඳහන් කර ඇති අතර ඒ සම්බන්ධයෙන් සලකා බැලූ අධිකරණය පෙර ඇපවලට යටත්ව තාවකාලිකව විදෙස් ගමන් තහනම ඉවත්කර ඇත.
+Steps have been taken to temporarily remove the ban on the abroad imposed on the pastor Jerm Fernando.
 
-පසුගිය වසරේ මැයි මාසයේ දී ආගම් පිළිබඳ අවමන් සහගත ප්‍රකාශ සිදුකිරීම හේතුවෙන් ගොනුකර ඇති නඩුවට අදාළව දේවගැති ජෙරම් ප්‍රනාන්දුට අධිකරණය මගින් මීට පෙර විදෙස් ගමන් තහනමක් පනවා තිබුණි.
+The order has been issued when the case against Jerm Fernando was summoned before the Fort Magistrate's Court today.
+
+It is said that the court has been removed by the court of the courts with regard to a few foreign countries.
+
+The court had previously banned a foreign travel to the Palaim Fernando regarding the case due to the reputation of religion last year.
 
 ◼️
 
 [Data](articles/275b9372.json)
+
+[Extended Data](ext_articles/275b9372.ext.json)
+
+---
+
+### Maithripala decides not to provide statement in court
+
+*2024-04-03 16:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maithripala-decides-not-to-provide-statement-in-court/108-280116) · `en`
+
+Colombo, April 3 (Daily Mirror)- Former President Maithripala Sirisena has informed the Maligakanda Magistrate's Court that he will not provide a confidential statement before the magistrate in connection with his controversial revelation regarding the Easter Sunday attacks.
+
+Court had earlier directed the former President to appear before Court on April 4 following a request by the Criminal Investigations Department (CID).
+
+In a motion before Magistrate Lochani Abeywickrema, a lawyer representing former President Sirisena informed court that his client does not intend to make a confidential statement regarding the Easter Sunday attacks since he has already made a detailed statement to the CID. After hearing the submissions, the Magistrate held that there is no necessity for the former President to appear before court on April 4.
+
+...
+
+[Data](articles/c8c5d72d.json)
 
 ---
 
@@ -65,6 +109,8 @@ During the ceremony to hand over the Commission of Appointment, the High Commiss
 ...
 
 [Data](articles/7d121504.json)
+
+[Extended Data](ext_articles/7d121504.ext.json)
 
 ---
 
@@ -89,6 +135,28 @@ The magazine says more women than ever are now heading to far-flung destinations
 [Data](articles/60b2db8a.json)
 
 [Extended Data](ext_articles/60b2db8a.ext.json)
+
+---
+
+### Sri Lanka named best destination for solo female travellers in 2024
+
+*2024-04-03 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98397/sri-lanka-named-best-destination-for-solo-female-travellers-in-2024) · `en`
+
+A London-based global magazine has named Sri Lanka as the best destination for solo female travelers in 2024.
+
+According to Time Out, the Indian Ocean island is the ‘perfect first stop’ for female travellers wanting to dip into South Asia.
+
+The magazine further says that Sri Lanka is popular with backpackers and perfectly sized for a week or a month spent exploring the ancient UNESCO-listed sites like Dambulla and Sigiriya or visiting tea plantations in Nuwara Eliya.
+
+“And for some blissful downtime, the golden beaches of Arugam Bay, Mirissa and Hikkaduwa promise beachfront hostels, surfing and delicious local food.”
+
+Portugal has been ranked the second-best destination, followed by Czechia, Japan, Guatemala, Vietnam, Australia, Greece, and New Zealand, respectively.
+
+The magazine says more women than ever are now heading to far-flung destinations in search of new friends, different cultures, and memorable experiences.
+
+...
+
+[Data](articles/6551c06e.json)
 
 ---
 
@@ -2307,71 +2375,5 @@ Foreign and organizations representatives have shown that there are approximatel
 [Data](articles/8e145c64.json)
 
 [Extended Data](ext_articles/8e145c64.ext.json)
-
----
-
-### Sri Lanka air passenger traffic up 40-pct in Jan-Feb
-
-*2024-04-03 07:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-air-passenger-traffic-up-40-pct-to-feb-157263/) · `en`
-
-ECONOMYNEXT – Sri Lanka has recorded 1.602 million international passenger movements up to February 2024, growing 40.39 percent from a year earlier, the state airport agency said.
-
-Aircraft movements were up 30.77 percent to 8,946 in the first two months of the year, state-run Airport and Aviation Services said.
-
-Tourists arriving by air had risen 104.65 percent to 452,532 in the first two months.
-
-Several international airlines had increased flights to the island, and others which had terminated flights during a the Coronavirus pandemic in 2020 or currency crisis in 2022 were resuming flights.
-
-On February 01, Cathay Pacific resumed thrice weekly flights from Hong Kong, after ceasing operations in March 2020.
-
-Etihad which operates 10 weekly flights will increase operations to 13 times week from May 01 and 20 flights from June 15, the AASL said.
-
-◼️
-
-[Data](articles/acb1820f.json)
-
-[Extended Data](ext_articles/acb1820f.ext.json)
-
----
-
-### 7.4-magnitude quake strikes off Taiwan’s east coast, sparking tsunami warnings
-
-*2024-04-03 06:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/7-4-magnitude-quake-strikes-off-Taiwans-east-coast-sparking-tsunami-warnings/108-280079) · `en`
-
-CNN - A major earthquake with a magnitude of 7.4 struck off Taiwan’s eastern coast Wednesday, according to the US Geological Survey, prompting tsunami warnings for the island and southern Japan.
-
-The quake’s epicenter is located about 18 kilometers (11 miles) south of the city of Hualien. Tremors were felt across the island, including by CNN staff in Taipei.
-
-Taiwan’s Central Weather Administration issued a tsunami warning following the quake. An alert from CWA was sent to residents, though not all received it, warning that a tsunami was expected to impact the northern coastal area and that residents are advised to evacuate to higher ground.
-
-The Japan Meteorological Agency also issued a tsunami warning for Miyakojima and Okinawa islands, warning of waves up to 3 meters expected imminently.
-
-Several aftershocks were felt in Taiwan, including one that registered a magnitude of 6.5, according to the USGS.
-
-...
-
-[Data](articles/9e488eb9.json)
-
-[Extended Data](ext_articles/9e488eb9.ext.json)
-
----
-
-### Tsunami warning to Japan
-
-*2024-04-03 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195231) · `si`
-
-A 7.4 magnitude earthquake in Taiwan has triggered a tsunami warning for Japan.
-
-🟩
-
-A powerful earthquake with 7.4 richterus in Taiwan has broken down 7.4.
-
-According to foreign media reports, a tsunami warning to Japan has issued a warning to Japan.
-
-◼️
-
-[Data](articles/274a58d7.json)
-
-[Extended Data](ext_articles/274a58d7.ext.json)
 
 ---

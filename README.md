@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 07:53:13**
+As of **2024-04-03 07:32:51**
 
 ## Newspaper Stats
 
-*Scraped **16,762** Articles*
+*Scraped **16,757** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,95 +16,21 @@ dailyftlk | 910
 economynextcom | 922
 islandlk | 931
 adalk | 1,408
-tamilmirrorlk | 1,994
-adaderanalk | 2,011
+tamilmirrorlk | 1,993
+adaderanalk | 2,009
 virakesarilk | 2,410
 dailymirrorlk | 2,577
-adaderanasinhalalk | 2,708
+adaderanasinhalalk | 2,706
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,746 (99.9%) of 16,762 articles have been extended.
+16,746 (99.9%) of 16,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
-
-### Fairly heavy showers expected in parts of the country
-
-*2024-04-03 07:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98386/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, Southern and Uva provinces after 2.00 p.m.
-
-Fairly heavy showers about 75mm are likely at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts.
-
-Misty conditions can be expected at some places in Western, Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/822d0f5b.json)
-
----
-
-### කාන්තාවන් වෙනුවෙන් අලුත් පනත් කෙටුම්පතක් පාර්ලිමේන්තුවට
-
-*2024-04-03 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195233) · `si`
-
-ගෘහස්ථ ප්‍රචණ්ඩත්වය වැළැක්වීමේ වත්මන් පනත සංශෝධනය කර, නව පනත් කෙටුම්පතක් පාර්ලිමේන්තුවට ගෙන ඒම සඳහා අමාත්‍ය මණ්ඩල අනුමැතිය හිමි වූ බව ගීතා කුමාරසිංහ රාජ්‍ය අමාත්‍යවරිය පවසයි.
-
-ඇය සඳහන් කළේ, මේ වන විටත් ගැසට් කර තිබෙන කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පත පාර්ලිමේන්තුවේ සභාගත කිරීමෙන් පසු ජාතික කාන්තා කොමිසම පිහිටුවීමට අවස්ථාව හිමි වන බවය.
-
-"මේ වනවිට අපි කාන්තාව සවිබල ගැන්වීමේ පනත් කෙටුම්පත ගැසට් කරලා, කැබිනට් එකට ඉදිරිපත් කරලා, සියල්ලම තියෙනවා. නමුත් ඒ අතර, නැවත සංශෝධනයකට යෑමට සිද්ධවෙලා තියෙනවා. පාර්ලිමේන්තු මන්ත්‍රීනි සංසදය විසින් තව අලුත් යෝජනාවක් සහ තියෙන දේවල් වෙනස් කිරීම්වලට භාජනය කරලා තියෙන නිසා. මොකද මේ පනත පාර්ලිමේන්තුවේ සම්මත වීම තුළින් මං හිතන්නේ විශේෂයෙන්ම කාන්තා කොමිෂන් සභාව පිහිටුවීමට ප්‍රතිපාදන අපිට තියෙනවා."
-
-◼️
-
-[Data](articles/58eea3aa.json)
-
----
-
-### Japan issues tsunami warning after 7.5-magnitude earthquake
-
-*2024-04-03 07:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98385/japan-issues-tsunami-warning-after-75-magnitude-earthquake) · `en`
-
-(Reuters) - An earthquake offshore Taiwan with a magnitude of 7.2 rocked the capital Taipei on Wednesday morning, knocking out power in several parts of the city and sparking a tsunami warning for the islands of southern Japan and the Philippines.
-
-Taiwan television stations showed footage of some collapsed buildings in the eastern county of Hualien, near the quake’s epicentre, and media reported some people were trapped.
-
-The quake hit at 07:58 a.m. (2358 GMT) at a depth of 15.5km (9.6 miles) just off the eastern coast of Taiwan, according to Taiwan’s Central Weather Administration. It was the strongest quake to hit the island in 25 years, state media said.
-
-Japan issued an evacuation advisory for the coastal areas of the southern prefecture of Okinawa. Tsunami waves of up to 3 metres (10 feet) were expected to reach large areas of Japan’s southwestern coast, according to the Japan Meteorological Agency, which put the quake magnitude at 7.5.
-
-...
-
-[Data](articles/93dd882d.json)
-
----
-
-### කොළඹ මුස්ලිම් පාසල්වල ගැටලුවලට ජනපතිගෙන් විසඳුම්
-
-*2024-04-03 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195232) · `si`
-
-කොළඹ කලාපයේ පිහිටි මුස්ලිම් පාසල්වල තිබෙන ගැටලු පිළිබඳ සොයා බලා ඒවාට කඩිනම් විසඳුම් ලබා දෙන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අදාළ නිලධාරීන්ට උපදෙස් ලබා දී තිබේ.
-
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම උපදෙස් ලබාදී ඇත්තේ කොළඹ කලාපයේ මුස්ලිම් පාසල් මුහුණ දී තිබෙන ගැටලු පිළිබඳ ජනාධිපති කාර්යාලයේ දී පැවැති සාකච්ඡාවට එක් වෙමිනි.
-
-කොළඹ කලාපයේ මුස්ලිම් පාසල් මුහුණ දී තිබෙන අභියෝග පිළිබඳව මෙහිදී අදාළ නිලධාරීන් ජනාධිපතිවරයාව දැනුවත් කර තිබේ.
-
-ගුරු පුරප්පාඩු, පන්ති කාමර හිඟය සහ ඉඩ පහසුකම් ප්‍රමාණවත් නොවීම, ඉස්ලාම් දහම සිංහලෙන් ඉගැන්වීමේ දුෂ්කරතා සහ මුස්ලිම් ප්‍රජාව බහුතරයක් වෙසෙන ප්‍රදේශවල මුස්ලිම් පාසල් නොමැතිකම වැනි ගැටලු පිළිබඳ ‍මෙහිදී අවධානය යොමු වූ බව ජනාධිපති මාධ්‍ය අංශය පැවසුවේය.
-
-ආසන්න වශයෙන් මුස්ලිම් සිසුන් 40,000ක් පමණ සිංහල මාධ්‍යයෙන් අධ්‍යාපනය ලබන අතර සිංහල භාෂාවෙන් ඉස්ලාම් දහම ඉගැන්වීමේ නිපුණතාවක් සහිත ගුරුවරුන්ගේ හිඟය පියවීම පිළිබඳවද සාකච්ඡා කර තිබේ.
-
-කොළඹ මුස්ලිම් පාසල් 19ක ආසන්න වශයෙන් ගුරුවරුන් 200ක පමණ හිඟයක් පවතින බව විදුහල්පතිවරුන් සහ සංවිධාන නියෝජිතයෝ පෙන්වා දී තිබේ.
-
-...
-
-[Data](articles/8e145c64.json)
-
----
 
 ### ප්‍රබල භූකම්පනයක් - ජපානයට සුනාමි අනතුරු ඇඟවෙයි
 
@@ -419,24 +345,6 @@ In 2018, “EUROPOL” headquartered in Hague, Netherlands, a key organisation e
 ◼️
 
 [Data](articles/1fb38941.json)
-
----
-
-### மசாஜ் நிலையங்கள் சுற்றிவளைப்பு
-
-*2024-04-03 03:21:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மசாஜ்-நிலையங்கள்-சுற்றிவளைப்பு/175-335541) · `ta`
-
-அநுராதபுரம் பிரதேசத்தில் சட்டவிரோதமாக இயங்கி வந்த மசாஜ் நிலையங்களில் மேற்கொள்ளப்பட்ட சோதனை நடவடிக்கையில் நான்கு பெண்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்ட 4 பெண்களும் எச்.ஐ.வி நோயால் பாதிக்கப்பட்டுள்ளார்களா என்பது தொடர்பில் பரிசோதிக்க வைத்தியசாலைக்கு அனுப்பப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-இந்நிலையில், மாத்தறை பிரதேசத்தில் உள்ள சட்டவிரோத மசாஜ் நிலையங்களில் பணிபுரியும் 12 பெண்கள் பொலிஸ் நிலையத்துக்கு அழைத்துச் செல்லப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்ட பெண்கள் காலி, கேகாலை ,கொழும்பு , புத்தளம் மற்றும் அநுராதபுரம் உள்ளிட்ட பிரதேசங்களைச் சேர்ந்தவர்களாவர். (a)
-
-◼️
-
-[Data](articles/440abcd1.json)
 
 ---
 
@@ -2205,5 +2113,115 @@ Gnanasara Thera had released the bail of Gnanasara Thera to release the Barantee
 [Data](articles/17463b1a.json)
 
 [Extended Data](ext_articles/17463b1a.ext.json)
+
+---
+
+### Taxes to be levied from importers who have earned undue profits
+
+*2024-04-02 16:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Taxes-to-be-levied-from-importers-who-have-earned-undue-profits/108-280046) · `en`
+
+Parliament, April 2 (Daily Mirror)- The Ways and Means Committee has requested the Customs to handover the names of importers, who have earned undue profits last year, to the Inland Revenue Department so that they could be taxed, the Chairman of the Committee Patali Champika Ranawaka said today.
+
+MP Ranawaka told a media briefing in Parliament that the Inland Revenue Department will charge 36 percent of their income as taxes.
+
+“Some of the importers have  started companies temporarily to import essential items and then fraudulently changed over to other companies,” the MP added.
+
+Member of the Ways and Means Committee MP Dayasiri Jayasekera said some have registered companies on the names of their family members and have evaded paying Value Added Tax (VAT).
+
+It was reported that importers of essential items such as big onions, potatoes and dried sprats have earned a total profit of Rs. 114 billion last year, the report of the Ways and Means Committee which was tabled in Parliament revealed.
+
+...
+
+[Data](articles/6e18f107.json)
+
+[Extended Data](ext_articles/6e18f107.ext.json)
+
+---
+
+### Sri Lanka stocks close up, banks and capital goods drive turnover
+
+*2024-04-02 16:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-and-capital-goods-drive-turnover-157168/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader All Share Index closed up 0.60 percent, or 68.89 points, at 11,547; while the S&P SL20 Index closed up 0.63 percent, or 20.85 points, at 3,350.
+
+Turnover was at 2 billion. The Banks (Rs532mn) and Capital Goods (Rs525mn) sectors brought in nearly half of this.
+
+Pan Asia Banking Corporation Plc saw the most active volumes traded (Rs131mn), and the share closed up at 21.50.
+
+First Capital Holdings Plc saw some interest (Rs68mn), and the share closed up at 36.70.
+
+Singer (Sri Lanka) Plc also saw some interest (Rs53mn), and the share closed up at 17.10.
+
+Major contributors to the Index included Ceylinco Insurance Plc (up at 2,460.00), Hatton National Bank Plc (up at 184.50), and John Keells Holdings Plc (up at 197.00).
+
+There was a net foreign inflow of 71 million. (Colombo/Apr2/2024)
+
+◼️
+
+[Data](articles/9937a68a.json)
+
+[Extended Data](ext_articles/9937a68a.ext.json)
+
+---
+
+### Yall. A house in the east of Arali burned in fire
+
+*2024-04-02 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180251) · `ta`
+
+A house in Arali East, Jaffna, was completely damaged by fire yesterday. No casualties, but property destroyed. Cause unknown. Vaddukoddai police investigating.
+
+🟩
+
+A house in the Arali East of the Vaddukoddai Police Division in Jaffna has been completely damaged in a fire. The incident took place yesterday (01).
+
+The disaster occurred in an unexpected. However, the cause of the fire is not yet known.
+
+None of the casualties caused. However, the property in the house has been burnt and destroyed. Vaddukoddai police are investigating the matter.
+
+◼️
+
+[Data](articles/d5188807.json)
+
+[Extended Data](ext_articles/d5188807.ext.json)
+
+---
+
+### The Central Bank Assistant Governor has commented on the quota
+
+*2024-04-02 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180257) · `ta`
+
+The Central Bank Assistant Governor's claim about the quota, based on Sri Lanka's weekly economic indicators and IMF reports, contradicts the actual value of 3.0 billion, not the 4.4 billion mentioned. The PBOC exchange facility doesn't meet BPM6 standards for reserve assets, and the term "useless quotas" is not aligned with BPM6's asset definition.
+
+🟩
+
+To verify this claim, the Central Bank of Sri Lanka's weekly economic indicators, the International Monetary Fund's Senthi Service Manual (BPM6) and the International Monetary Fund's report No. 23/12.
+
+The value of the assistant governor refers to the Central Bank's weekly economic indicators. It refers to the Office of Office at the end of December 2023, the UP has 4.3 billion. However, if you carefully examine the report of the quota, this value varies.
+
+From March 2021, the Central Bank had a mutual transaction with the RMP 10 billion (about 1.4 billion) with the Chinese People's Bank (PBOC).. However, while addressing the foot notices of the Central Bank reports from November 2021 to March 2022, it is revealed that the exchange feature is not previously accountable, but it is calculated from December 2021.. It has been revealed that the criteria used to report the quotas by calculating this exchange of time as time -consuming quotas.
+
+...
+
+[Data](articles/42030451.json)
+
+[Extended Data](ext_articles/42030451.ext.json)
+
+---
+
+### Sri Lanka’s economy shows signs of stabilization, but poverty remains elevated
+
+*2024-04-02 16:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lankas-economy-shows-signs-of-stabilization-but-poverty-remains-elevated/155-280045) · `en`
+
+April 02 -  Sri Lanka’s economy is projected to see moderate growth of 2.2% in 2024, showing signs of stabilization, following the severe economic downturn of 2022 while the country still faces elevated poverty levels, income inequality, and labor market concerns, said the World Bank's latest bi-annual update.
+
+According to the Sri Lanka Development Update released today, Sri Lanka saw declining inflation, higher revenues on the back of the implementation of new fiscal policies, and a current account surplus for the first time in nearly five decades, buoyed by increased remittances and a rebound in tourism.
+
+...
+
+[Data](articles/397d7960.json)
+
+[Extended Data](ext_articles/397d7960.ext.json)
 
 ---

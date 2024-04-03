@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 22:50:58**
+As of **2024-04-03 23:03:19**
 
 ## Newspaper Stats
 
-*Scraped **16,951** Articles*
+*Scraped **16,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 910
 islandlk | 931
 economynextcom | 940
-adalk | 1,427
+adalk | 1,428
 tamilmirrorlk | 2,017
-adaderanalk | 2,032
+adaderanalk | 2,033
 virakesarilk | 2,448
 dailymirrorlk | 2,607
 adaderanasinhalalk | 2,742
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,951 (100.0%) of 16,951 articles have been extended.
+16,951 (100.0%) of 16,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### BASL condemns use of parliamentary privileges to undermine judiciary’s independence
+
+*2024-04-03 22:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98406/basl-condemns-use-of-parliamentary-privileges-to-undermine-judiciarys-independence) · `en`
+
+The Bar Association of Sri Lanka (BASL) has expressed deep concern about the recent remarks made by certain Members of Parliament condemning the invocation of Supreme Court’s fundamental rights jurisdiction by a citizen to challenge the issuance of liquor licenses.
+
+Reiterating that every citizen has a fundamental right to seek redress from the Supreme Court, the apex court of the country, as enshrined in the Constitution, the BASL said this right cannot be curtailed under the guise of parliamentary privileges.
+
+Accordingly, it has categorically condemned the claims made by these MPs suggesting otherwise.
+
+The BASL, in a statement issued on Wednesday (03), said it views with grave concern that any attempts to use parliamentary privileges to interfere with the independence of the judiciary directly or indirectly.
+
+It also emphasized that it would, under no circumstances, remain silent when attempts are made to weaken the independence of the judiciary.
+
+...
+
+[Data](articles/4ad36c88.json)
+
+---
 
 ### While the country's economy is strengthened, the teacher's action to fill the vacancies
 
@@ -275,6 +295,22 @@ The policy plan prepared to modernize the agricultural sector of Sri Lanka was h
 [Data](articles/e57cd666.json)
 
 [Extended Data](ext_articles/e57cd666.ext.json)
+
+---
+
+### ශ්‍රීලන්කන්ට ගුවන් යානා 10ක් ඕනෑ
+
+*2024-04-03 19:49:15* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රීලන්කන්ට-ගුවන්-යානා-10ක්-ඕනෑ/11-408933) · `si`
+
+ගුවන් මගීන්ගේ ඉල්ලුමට අනුව ශ්‍රී ලංකන් සමාගමට තවත් ගුවන්යානා 10ක පමණ අවශ්‍යතාවක් තිබෙන බවත් කල් බදු ක්‍රමයට ගුවන්යානාහතරක් ලබා ගැනීමට කැබිනට් අනුමැතිය ලැබුණත් දැනට තිබෙන තත්ත්වය අනුව ලබාගත හැක්කේ ගුවන්යානා දෙකක් පමණක් බවත් ශ්‍රී ලංකන් ගුවන්සේවාසමාගමේ සභාපති අශොක් පතිරගේ මහතා සඳහන් කළේය. කල් බදු ක්‍රමයට ගන්නා එක් ගුවන්යානයකට ඩොලර් තුන්ලක්ෂ හැටදහසක් මාසයකට ගෙවීමට සිදුවන බවත් දැනට තිබෙන සමහර ගුවන්යානාවලට මාසයට ඩොලර් හත්ලක්ෂ පනස්දහසක් පමණ ගෙවන බවද පවසා සිටියේය.
+
+මෙරට ගුවන්යානාවල ගමන් කිරීමට විශාල ඉල්ලුමක් තිබෙන බවත් අදාළ අවශ්‍යතාවන්ට භාවිත කිරීමට ප්‍රමාණවත් තරම් ගුවන්යානා නොමැති බවත්ගෙවී ගිය වසර තුන, හතර සැලකීමේදී මහා භාණ්ඩාගාරයෙන් මුදල් ලබා නොගෙන ගුවන් සේවාව පවත්වාගෙන ගිය බවත් එහෙත් මේ වන විට ඇති වූ යම් යම් තත්ත්වයන් මත මාස 06කට පමණ රජයෙන් සහන ලැබෙන බවද සඳහන් කළේය.
+
+පවතින ඉල්ලීමට අනුව ගුවන්යානා 10ක්වත් ලබා ගත යුතු  බවත් අඩුම වශයෙන් 06ක්වත් ලබා ගැනීමට අවශ්‍යතාවක් තිබෙන බවත් දැනට ගුවන්යානා 15ක් පමණ ධාවනය වන බවත් මේ මස මැද කාලය වන විට එම ප්‍රමාණය 17ක් පමණ වන බවද පවසා සිටියේය.
+
+...
+
+[Data](articles/c1f75895.json)
 
 ---
 
@@ -2269,77 +2305,5 @@ Colombo High Court ordered the review of former Minister Keheliya Rambukwella wh
 [Data](articles/4b3cae1d.json)
 
 [Extended Data](ext_articles/4b3cae1d.ext.json)
-
----
-
-### Not necessary to provide another statement on Easter attack remarks - Maithripala informs court
-
-*2024-04-03 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98394/not-necessary-to-provide-another-statement-on-easter-attack-remarks-maithripalainformscourt) · `en`
-
-Former President Maithripala Sirisena has informed the court that there is no need for him to make a statement in court with regard to his recent remarks on 2019 Easter Sunday terror attacks as he has already provided one to the Criminal Investigation Department (CID).
-
-He communicated this through a motion submitted to the Maligakanda Magistrate’s Court through his legal counsels on Wednesday (03).
-
-On March 28, the Maligakanda Magistrate ordered the former president to make a statement in court on 04 April pertaining to his comments that raised eyebrows.
-
-However, the CID on March 25 obtained a five-hour-long statement from Sirisena after Public Security Minister Tiran Alles ordered an immediate investigation into the matter.
-
-On March 22, Sirisena, who was the incumbent when the coordinated bombings happened, stirred controversy when he claimed he was aware of the true masterminds of the carnage.
-
-...
-
-[Data](articles/ed47ff0e.json)
-
-[Extended Data](ext_articles/ed47ff0e.ext.json)
-
----
-
-### Stalin clashes with Modi
-
-*2024-04-03 13:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/180311) · `ta`
-
-It seems you've provided a detailed narrative on the historical and political context surrounding the Kachchativu issue, including the involvement of various political figures and parties. This issue has been a point of contention for many years, involving territorial disputes, fishing rights, and the broader geopolitical landscape of India and Sri Lanka.
-
-
-
-Given the complexity and the historical depth of the issue, addressing all the points you've raised would require a comprehensive analysis that goes beyond the scope of a single response. However, I can provide a brief overview and some insights based on the information you've shared:
-
-
-
-1. **Tax and Flood Relief**: The specifics of why Tamil Nadu's tax proposal was met with a 29-penny return by the Union Government and the absence of a one-rupee flood relief during natural disasters are likely tied to broader political and economic considerations. These decisions would involve evaluating the financial implications for the Union Government, the strategic importance of Tamil Nadu's resources, and the overall budgetary constraints.
-
-
-
-2. **BJP's Ten-Year Rule in Tamil Nadu**: The impact of the BJP's rule in Tamil Nadu over the past decade would depend on various factors, including policy implementation, governance, and the party's approach to development and welfare. The effectiveness of the BJP's policies in Tamil Nadu would be a subject of debate among political analysts and the public.
-
-
-
-3. **Kachchativu Issue**: The Kachchativu issue is deeply rooted in historical and territorial disputes between India and Sri Lanka. The transfer of Kachchativu to Sri Lanka in 1974 was a significant event that has had lasting implications for the fishing communities in Tamil Nadu. The controversy surrounding this decision and its aftermath has been a point of contention among various political parties and has influenced the broader political landscape in Tamil Nadu.
-
-
-
-4. **DMK's Relationship with Congress**: The relationship between the DMK and Congress, especially in the context of the Kachchativu issue, reflects the complexities of Indian politics. The DMK's stance on the issue, as well as its alliance with Congress, has been influenced by a range of factors, including historical grievances, political strategy, and the broader dynamics of power in Indian politics.
-
-
-
-5. **Kachchativu's Geography and Historical Context**: Kachchativu's geographical location and its historical significance as a fishing ground for Tamil Nadu's fishermen have been central to the dispute. The island's strategic importance and the rights of its inhabitants have been at the heart of the controversy, with various political actors and international bodies involved in the resolution of the issue.
-
-
-
-In summary, the Kachchativu issue and its broader implications for Tamil Nadu's politics and governance are multifaceted and deeply intertwined with the region's history, geopolitical dynamics, and the strategic interests of India and Sri Lanka. Addressing these issues requires a nuanced understanding of the historical context, the political dynamics at play, and the broader geopolitical implications.
-
-🟩
-
-When the Indian parliamentary election begins to warm up, people and candidates will be alerted. Free, cash banknotes will start chasing people.It is only the political leaders of the party, as they awakened from deep sleep. Many things that have been forgotten will be remembered. The electoral field will be heated by the right rivalry. That is the case in Tamil Nadu.
-
-Voting for the 39 constituencies in Tamil Nadu will be held on April 19, and the counting of voting will begin on June 4.
-
-Tamil Nadu ranks fifth in terms of Lok Sabha places. In the 2019 election, the DMK -led secular progressive Alliance won 38 seats of a total of 39 seats.
-
-...
-
-[Data](articles/1700df79.json)
-
-[Extended Data](ext_articles/1700df79.ext.json)
 
 ---

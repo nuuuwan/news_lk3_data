@@ -1,114 +1,186 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 13:18:13**
+As of **2024-04-03 13:34:22**
 
 ## Newspaper Stats
 
-*Scraped **16,832** Articles*
+*Scraped **16,836** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 150
 bbccomsinhala | 176
-dbsjeyarajcom | 202
+dbsjeyarajcom | 203
 newsfirstlk | 363
 dailyftlk | 910
 economynextcom | 927
 islandlk | 931
 adalk | 1,412
-tamilmirrorlk | 2,006
+tamilmirrorlk | 2,007
 adaderanalk | 2,017
-virakesarilk | 2,426
+virakesarilk | 2,427
 dailymirrorlk | 2,592
-adaderanasinhalalk | 2,720
+adaderanasinhalalk | 2,721
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,827 (100.0%) of 16,832 articles have been extended.
+16,832 (100.0%) of 16,836 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### வவுனியாவில் தனியார் பஸ்ஸினை வழிமறித்து தாக்குதல் முயற்சி
+### මෛත්‍රීගේ ප්‍රකාශය ගැන කතෝලික සභාවෙන් බරපතළ චෝදනාවක්
+
+*2024-04-03 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195246) · `si`
+
+පාස්කු ඉරිදා ප්‍රහාරය හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතා මුල සිටම දැන සිට ඇතැයි කතෝලික සභාව විශ්වාස කරන බව ගරු සිරිල් ගාමිණී පියතුමන් පවසයි.
+
+උන්වහන්සේ මේ බව ප්‍රකාශ කළේ, පොලිස්පතිවරයා පසුගිය පාස්කු ඉරුදින කටුවපිටියේ කළ සංචාරය සහ වින්දිතයන්ගේ සුවදුක් විමසීමට යාම පිළිබඳව අප්‍රසාදය පළකිරීම සඳහා අද අගරදගුරු නිල නිවසේදී පැවැත්වූ ප්‍රවෘත්ති සාකච්ඡාවකදීය.
+
+ඉකුත් පාස්කු ඉරු දින පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා කටුවපිටිය ශාන්ත සෙබස්තියන් දේවස්ථානයට පැමිණ ආරක්ෂක තත්ත්වය සොයාබලා ප්‍රහාරයේ වින්දිතයන්ගේ සුවදුක්ද විමසා බැලීය.
+
+කතෝලික සභාව අද ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් පොලිස්පතිවරයාගේ එම ක්‍රියාකලාපය විවේචනය කළේය.
+
+"පාස්කු ඉරිදා කියන්නේ, අපි හැමෝටම විශේෂ දවසක්. උදේ දිව්‍ය පුජාව අපි පැවැත්වුවා අපිව කිසිම ආකාරයෙන් දැනුවත් කරලා තිබුණේ නෑ. අපි ඉල්ලා සිටින්නේ වියළි සලාක මල්ලක් නෙමෙයි. අපි බලලා යන්න නෙමෙයි. අපි ඉල්ලා සිටින්නේ බොහෝම පැහැදිලිවම යුක්තිය. අපිට අනාවරණයන් ලබාදෙන්න කියලා තමා ඉල්ලා සිටින්නේ."
+
+...
+
+[Data](articles/d32e7f15.json)
+
+---
+
+### Attempting to attack a private bus in Vavuniya
 
 *2024-04-03 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180327) · `ta`
 
-வவுனியா சூடுவெந்தபுலவு பகுதியில் (02) மதியம் தனியார் பஸ்ஸினை வழிமறித்து மற்றொரு  தனியார் பஸ் சாரதி, நடத்துனர்  குறித்த பஸ் நடத்துனர் மீது தாக்குதல் முயற்சி மேற்கொண்டமையுடன் அச்சுறுத்தலும் விடுத்துள்ளனர்.
+In Vavuniya, a private bus driver and conductor threatened to attack another bus conductor in Suduventhulavu. The incident, linked to a neurosu issue, involved a bus from Pavakkulam to Vavuniya via Chettikulam Veerapuram.
 
-செட்டிக்குளம் வீரபுரம் ஊடாக வவுனியா நோக்கி பயணித்த தனியார் பஸ்ஸினை பாவற்குளத்திலிருந்து வவுனியா நோக்கி பயணித்த தனியார் பஸ்ஸின் சாரதி மற்றும் நடத்துனர் வழி மறித்து செட்டிக்குளம் தனியார் பஸ்ஸின் நடத்துனர் மீது தாக்குதல் மேற்கொள்ள முயற்சி மேற்கொண்டமையுடன் அவருக்கு அச்சுறுத்தலும் விடுத்துள்ளார்.
+🟩
 
-நேரசூசி பிரச்சினை காரணமாகவே இச்சம்பவம் இடம்பெற்றுள்ளதாக தெரியவருவதுடன் பொலிஸார் இச் சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுக்க வேண்டும் எனவும் பயணிகள் தெரிவித்துள்ளனர்.
+Another private bus driver and conductor have threatened to attack the bus conductor in the Suduventhulavu area in Vavuniya (02) afternoon.
+
+The private bus traveling from Pavakkulam to Vavuniya through Chettikulam Veerapuram has threatened him with an attempt to attack the driver and conductor of the Chettikulam private bus.
+
+Travelers have said that the incident has taken place due to the issue of neurosu.
 
 ◼️
 
 [Data](articles/fe1c7741.json)
 
+[Extended Data](ext_articles/fe1c7741.ext.json)
+
 ---
 
-### கஜமுத்தை விற்பனை செய்யத் தயாராக இருந்த நபரொருவர் கைது
+### A person who was ready to sell Gajamuth
 
 *2024-04-03 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180321) · `ta`
 
-திவுலப்பிட்டிய பிரதேசத்தின் பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொண்ட சுற்றிவளைப்பின் போது  கஜமுத்தை விற்பனை செய்ய தயாராக இருந்த நபரொருவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+A man arrested for selling 7 grams of Gajamuthu for Rs 4.5M in Divulapitiya.
 
-சுமார் 07 கிராம் உடைய கஜமுத்தை 4,500,000 ரூபாய்க்கு விற்பனை செய்ய முற்பட்டபோதே இவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
+
+A man who was ready to sell Gajamuthu has been arrested by the police during the raid on the basis of information received by the police in the Divulapitiya area.
+
+He was arrested when he tried to sell about 7 grams of Gajamuthu for Rs 4,500,000.
 
 ◼️
 
 [Data](articles/e956d868.json)
 
+[Extended Data](ext_articles/e956d868.ext.json)
+
 ---
 
-### மட்டக்களப்பில் யானை - மனிதன் மோதலை தடுக்க  202 கிலோமீற்றர் நீளமுடைய யானை வேலி அமைப்பு !
+### Elephant in Batticaloa
 
 *2024-04-03 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180317) · `ta`
 
-மட்டக்களப்பு மாவட்டத்தில் நீண்ட காலமாக தொடர்கின்ற யானை - மனிதன் மோதலினால் பாதிக்கப்படுகின்ற மக்களுக்கு அரசாங்கத்தின் ஊடாக பல்வேறு நலனுதவித் திட்டங்கள் இடம்பெற்று வருவதாக மட்டக்களப்பு மாவட்ட வனஜீவராசிகள் திணைக்கள பணிப்பாளர் கே. சுரேஷ்குமார் தெரிவித்தார்.
+In Batticaloa, 92 km elephant fences protect areas like Vavuniya, Vaharai, and more. This year, electric fences will secure more villages against elephant penetration.
 
-மட்டக்களப்பு மாவட்டத்தில் இதுவரை 202  கிலோ மீற்றர் நீளமான 9 யானை வேலிகள் அமைக்கப்பட்டுள்ளன.
+🟩
 
-வவுணதீவு, வாகரை, கிரான், செங்கலடி, கொக்கட்டிச்சோலை, வெல்லாவெளி போன்ற பிரதேச செயலக பிரிவுகளிலேயே இவ்வாறு யானை வேலிகள் அமைக்கப்பட்டுள்ளதாக அவர் மேலும் தெரிவித்தார்.
+The Director of the Department of Wildlife of the Batticaloa District, K.. Said Suresh Kumar.
 
-இவ்வாண்டும் யானைகளின் ஊடுருவல் உள்ள பல கிராமங்களுக்கு மின்சார வேலிகள் அமைக்கப்படவுள்ளதாகவும்  பணிப்பாளர் மேலும் தெரிவித்துள்ளார்.
+In the Batticaloa district, 92 km long elephant fences have been set up.
+
+He added that elephant fences have been set up in the Divisional Secretariat Divisions such as Vavuniya, Vaharai, Gran, Chengaladi, Kokkaticholai and Wellaveli.
+
+Electric fences will be set up for many villages in the elephant penetration this year, the Director added.
 
 ◼️
 
 [Data](articles/7a453331.json)
 
+[Extended Data](ext_articles/7a453331.ext.json)
+
 ---
 
-### உலகளாவிய ரீதியில் மிகத்துரிதமாக வளர்ச்சியடைந்துவரும் பிராந்தியமாக தெற்காசியா : இந்தியாவின் அபரிமிதமான வளர்ச்சியே பிரதான காரணம் என்கிறது உலக வங்கி
+### தமிழ் பொதுவேட்பாளர் களமிறக்கப்படின் தமிழர் வாக்குகள் பிளவுபடாது : சி.வி.விக்கினேஸ்வரன்
+
+*2024-04-03 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/180313) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் தமிழ் பொதுவேட்பாளர் ஒருவர் களமிறக்கப்பட்டால், வஜிர அபேவர்தன கூறுவதுபோல் தமிழர்களின் வாக்குகள் பிளவுபடாது எனவும், மாறாக இதுவரை காலமும் பெரும்பான்மையின வேட்பாளர்களுக்கு வாக்களித்த அனைத்துத் தமிழர்களும் ஒன்றிணைந்து தமிழ் பொதுவேட்பாளருக்கு வாக்களிப்பர் எனவும் தமிழ் மக்கள் தேசிய கூட்டணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான சி.வி.விக்கினேஸ்வரன் சுட்டிக்காட்டியுள்ளார்.
+
+தமிழ்மக்கள் எதிர்வரும் ஜனாதிபதித் தேர்தலில் தமிழ் பொதுவேட்பாளரொருவரைக் களமிறக்கி, தமிழர் வாக்குகளைப் பிரிக்கக்கூடாது என ஐக்கிய தேசியக்கட்சியின் தவிசாளரும், முன்னாள் பாராளுமன்ற உறுப்பினருமான வஜிர அபேவர்தன கூறியிருப்பது பற்றி தனது நிலைப்பாட்டைத் தெளிவுபடுத்தியிருக்கும் விக்கினேஸ்வரன், இதுகுறித்து மேலும் கூறியிருப்பதாவது:
+
+எனது நண்பரான வஜிர அபேவர்தன ஐக்கிய தேசியக்கட்சியின் தவிசாளராவார். எனவே பதவியில் உள்ள ஜனாதிபதியை வெற்றியடையச்செய்வதற்கு அவரால் வேறு எதைக் கூறமுடியும்? ஆனால் அவர் தமிழர்கள் என்ற கோணத்திலிருந்து நாம் முகங்கொடுக்கும் பிரச்சினையைப் பார்த்தால், இவ்வாறு கூறமாட்டார்.
+
+...
+
+[Data](articles/f15f84ec.json)
+
+---
+
+### South Asia is the mainstay of India's greatest growth in the world worldwide: India's tremendous growth
 
 *2024-04-03 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/180303) · `ta`
 
-உலகளாவிய ரீதியில் மிகத்துரிதமாக வளர்ச்சியடைந்துவரும் பிராந்தியமாக தெற்காசியா விளங்குவதாகவும், இந்தியாவின் வேகமான வளர்ச்சியே அதற்குப் பிரதான காரணமாக அமைந்திருப்பதாகவும் சுட்டிக்காட்டியிருக்கும் உலக வங்கி, இப்பிராந்தியத்திலுள்ள ஏனைய நாடுகளின் வளர்ச்சி மந்தகரமான நிலையிலேயே இருப்பதாகத் தெரிவித்துள்ளது.
+The World Bank highlights South Asia's significant growth, attributing India's rapid expansion to its dominance. Other countries in the region experience slower growth. The region's economic growth in 2024 is projected at 6%. South Asia's development heavily relies on global sectors, but private investment is increasing. Climate change challenges impact the region, especially affecting the poor. Strategies include investing in public infrastructure like roads and bridges. The continuous population growth hasn't led to sufficient employment, suggesting that easing financial market restrictions could boost economic growth.
 
-உலக வங்கியின் 2024 ஆம் ஆண்டுக்கான தெற்காசியப்பிராந்திய அபிவிருத்தி நிலைவரம் மற்றும் இலங்கையின் அபிவிருத்தி நிலைவரம் தொடர்பான மதிப்பீடு நேற்று செவ்வாய்கிழமை 'வன் கோல்பேஸ் டவரில்' அமைந்துள்ள உலக வங்கியின் இலங்கைக்கிளை அலுவலகத்தில் வெளியிடப்பட்டது.
+🟩
 
-அதனை முன்னிட்டு இலங்கை பத்திரிகை ஸ்தாபனத்தின் ஒருங்கிணைப்பில் உலக வங்கியினால் நேற்றைய தினம் ஏற்பாடு செய்யப்பட்டிருந்த ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு தெற்காசியப்பிராந்தியத்தின் அபிவிருத்தி நிலைவரம் குறித்து விளக்கமளிக்கையிலேயே உலக வங்கியின் தெற்காசியப்பிராந்தியத்துக்கான சிரேஷ்ட பொருளியலாளர் பிரான்ஸிஸ்கா ஒன்ஸோர்ஜ் மேற்கண்டவாறு தெரிவித்தார்.
+The World Bank, which points out that South Asia is the most popular regional worldwide and that India's rapid growth is the main reason for its rapid growth, said the growth of other countries in the region is slow.
+
+The World Bank's World Bank's Sri Lankan office, located at the World Bank's Sri Lanka Center at the World Bank's 2024 South Asian Development Status and Sri Lanka's Development Center on Tuesday.
+
+The World Bank's Senior Economist for the South Asian Regional Economist for the South Asian Regional Economist Francca OneSorge said at a media briefing organized by the World Bank yesterday in the coordination of the Sri Lanka Press Association.
+
+He pointed out that South Asian region was the world's most developing region of the world from 2024 to 2025 and that India's rapid growth was the main reason, but the growth of the other countries of the region was in slowdowns.. Accordingly, in 2024, the economic growth of South Asia is 6 percent.
 
 ...
 
 [Data](articles/40acad7b.json)
 
+[Extended Data](ext_articles/40acad7b.ext.json)
+
 ---
 
-### தேர்தல்களால் மறுசீரமைப்பு நடவடிக்கைகள் தடைப்படக்கூடுமோ என உலக வங்கி கரிசனை
+### World Bank Charity that the elections may be banned
 
 *2024-04-03 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180305) · `ta`
 
-இவ்வருடம் இலங்கையில் தேர்தல்கள் நடைபெறவிருக்கும் நிலையில், அதன்விளைவாக தற்போது முன்னெடுக்கப்பட்டுவரும் மறுசீரமைப்பு நடவடிக்கைகள் தடைப்படக்கூடுமோ என்று தாம் கரிசனை கொண்டிருப்பதாக உலக வங்கியின் இலங்கைக்கான சிரேஷ்ட பொருளியலாளர் ரிச்சர்ட் வோல்கர் தெரிவித்துள்ளார்.
+Richard Volkar, a Senior Economist at the World Bank, warns that ongoing renovation measures in Sri Lanka may be halted due to the country's elections this year. He expressed concern over the impact on economic recovery and highlighted the World Bank's support for government policies and programs like 'Assuma' and financial security.
 
-உலக வங்கியின் 2024 ஆம் ஆண்டுக்கான தெற்காசியப்பிராந்திய அபிவிருத்தி நிலைவரம் மற்றும் இலங்கையின் அபிவிருத்தி நிலைவரம் தொடர்பான மதிப்பீட்டு அறிக்கை நேற்று செவ்வாய்கிழமை 'வன் கோல்பேஸ் டவரில்' அமைந்துள்ள உலக வங்கியின் இலங்கைக்கிளை அலுவலகத்தில் வெளியிடப்பட்டது.
+🟩
 
-அதனை முன்னிட்டு இலங்கை பத்திரிகை ஸ்தாபனத்தின் ஒருங்கிணைப்பில் உலக வங்கியினால் செவ்வாய்க்கிழமை (02) ஏற்பாடு செய்யப்பட்டிருந்த ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்து வெளியிடுகையிலேயே ரிச்சர்ட் வோல்கர் மேற்கண்டவாறு தெரிவித்தார்.
+Richard Volkar, Senior Economist of the World Bank, said that as the elections are being held in Sri Lanka this year, the ongoing renovation measures may be banned.
+
+The World Bank's World Bank's office was published yesterday at the World Bank's Sri Lankan office, located at the 'Warbease Tower' at the World Bank's 2024 South Asian Development Status and Sri Lanka's Development Status.
+
+Richard Volkar said this while participating in a media briefing organized by the World Bank on Tuesday (02) in the coordination of the Sri Lanka Press Association.
+
+He stressed that he was very concerned about the impacts of the people as a result of the impacts of the people as a result of the impact of the people as a target of economic recovery.
+
+At the same time, Richard Volkar pointed out that the World Bank is fully cooperating with the government's policy restructuring and the World Bank has funded the 'Assuma' program and the financial security program.
 
 ...
 
 [Data](articles/7f645e02.json)
+
+[Extended Data](ext_articles/7f645e02.ext.json)
 
 ---
 
@@ -291,6 +363,22 @@ He also said that the cost of imported goods consumed by the people can ensure s
 [Data](articles/ac09560c.json)
 
 [Extended Data](ext_articles/ac09560c.ext.json)
+
+---
+
+### ராபர்ட் பயஸ், முருகன், ஜெயக்குமார் இலங்கை புறப்பட்டனர்
+
+*2024-04-03 11:56:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ராபர்ட்-பயஸ்-முருகன்-ஜெயக்குமார்-இலங்கை-புறப்பட்டனர்/150-335560) · `ta`
+
+முன்னாள் பிரதமர் ராஜீவ் காந்தி படுகொலை வழக்கில் 33 ஆண்டுகள் சிறை தண்டனை அனுபவித்த ராபர்ட் பயஸ், முருகன் மற்றும் ஜெயக்குமார் மூவரும் இன்று இலங்கைக்கு புறப்பட்டனர். இலங்கை தலைநகர் கொழும்பை சென்றடையும் மூவரையும் அவர்களது உறவினர்கள் வரவேற்க காத்துள்ளனர்.
+
+முன்னாள் பிரதமர் ராஜீவ் காந்தி 1991-ம் ஆண்டு மே மாதம் 21-ந் திகதி தமிழ்நாட்டில் படுகொலை செய்யப்பட்டார். ராஜீவ் காந்தி கொலை வழக்கில் ஏராளமான தமிழ்நாட்டு தமிழர்களும் ஈழத் தமிழர்களும் (இலங்கை தமிழர்களும்) கைது செய்யப்பட்டனர். ராஜீவ் காந்தி கொலை வழக்கில் தூக்கு தண்டனை விதிக்கப்பட்ட தமிழர்களுக்கு ஆயுள் தண்டனையாகவும் குறைக்கப்பட்டது.
+
+உச்சநீதிமன்றத்தில் நடைபெற்ற சட்டப் போராட்டங்களுக்குப் பின்னர் ஆயுள் தண்டனை அனுபவித்த பேரறிவாளன், நளினி, ரவிச்சந்திரன் ஆகிய தமிழ்நாட்டு தமிழர்களும் முருகன், சாந்தன், ஜெயக்குமார், ராபர்ட் பயஸ் என இலங்கைத் தமிழர்களும் விடுதலை செய்யப்பட்டனர். அதேநேரத்தில் ஈழத் தமிழர்களான முருகன், சாந்தன், ஜெயக்குமார், ராபர்ட் பயஸ் ஆகியோர் வெளிநாட்டவர் என்பதால் திருச்சி சிறப்பு முகாமில் அடைக்கப்பட்டிருந்தனர்.
+
+...
+
+[Data](articles/a324c07d.json)
 
 ---
 
@@ -2157,101 +2245,5 @@ Jayapalan was born in Keezhappungudi as the eldest son of both of them. He has t
 [Data](articles/ca320253.json)
 
 [Extended Data](ext_articles/ca320253.ext.json)
-
----
-
-### Lucknow advanced to 4th place
-
-*2024-04-03 01:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/180284) · `ta`
-
-Lucknow Super Giants beat Royal Challengers Bangalore by 28 runs in the IPL. Lucknow scored 181, with Quinton de Kock and K.L. Rahul sharing 53 runs. Bangalore lost all wickets in 19.4 overs, their 3rd defeat in 4 matches.
-
-🟩
-
-Bangalore M. Lucknov Super Giants won the Royal Challengers Bangalore by 28 runs in the 15th match of the 17th Indian Premier League chapter held at Chinnaswamy Patranga tonight.
-
-Lucknov Super Giants, who was first invited to bat first, scored 181 runs for the loss of 5 wickets in 20 overs.
-
-Quinton de Kock, Team Leader K. L. Rahul both played efficiently and shared 53 runs off 33 balls.
-
-However, Rahul (20) and Devdat (6) lost by 20 runs.
-
-Following this, Quinton de Kock and Macass Stoinis shared 59 runs in the 3rd wicket and Stoinis lost 24 runs.
-
-On the other hand. He lost 81 runs with 5 sixes.
-
-Following the fifth player following the Took, Middle Series Nicholas Poran was on the field with 8 runs.
-
-He was bowled out for 21 balls with 5 sixes and a pound of 40 runs and shared 33 runs with Krunal Pandya in a 6th wicket.
-
-But, Grunal Pandya did not get the flow. Puraran got the other runs in the merger, including 5 sixes.
-
-Royal Challengers Bangalore lost all wickets in 19.4 overs and lost 153 runs.
-
-...
-
-[Data](articles/c0b22fad.json)
-
-[Extended Data](ext_articles/c0b22fad.ext.json)
-
----
-
-### The Presidential Work to Solve the issues of Muslim schools in the Colombo Zone
-
-*2024-04-03 01:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180283) · `ta`
-
-President Ranil Wickremesinghe addresses Muslim school issues in Colombo, highlighting teacher shortages, classroom deficits, and the need for Islamic education. He advises training for qualified individuals and investigates land provision and accommodation for new schools.
-
-🟩
-
-President Ranil Wickremesinghe said that the problems of Muslim schools from the Colombo Zone should be searched and resolved soon.
-
-President Ranil Wickremesinghe made the announcement at a discussion held at the Presidential Secretariat on Tuesday (02) regarding the educational issues facing Muslim schools in Colombo.
-
-External Affairs Minister Ali Sabri and representatives of schools and organizations have spoken to the President on the issues facing Muslim schools in Colombo.
-
-The shortage of teachers, the shortage of the classrooms, the lack of teacher teaching Islam by Sinhala, and the lack of schools in the most Muslim areas of Muslims were also investigated.
-
-About 40 thousand students are educated by Sinhala language and the issue faced by the students to teach them the lesson of Islam.. Representatives of the principals and organizations pointed out that there are about 200 teachers in 19 Muslim schools in Colombo and focused on solving them.
-
-...
-
-[Data](articles/c2fff9b2.json)
-
-[Extended Data](ext_articles/c2fff9b2.ext.json)
-
----
-
-### Under the age of 19, women's R20 cricket cricket: England beat Aussie by 7 wickets
-
-*2024-04-03 01:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180282) · `ta`
-
-England's U19 women's cricket team defeated Australia by 7 wickets in the 5th match of the T20 series at Hambantota. England won all 4 matches, while Australia scored 124 runs in 20 overs, with Amy Smith (50) and Lucy Finn (36) highlighting their batting. England lost 3 wickets in 13.3 overs, scoring 126 runs, with Erin Thomas and Davina Perin contributing 50 runs. Davina Perin and Abhi Nogro's partnership of 52 runs helped England secure the win.
-
-🟩
-
-England easily won Australia by 7 wickets in the 5th match of the Under -19 Women's T20 cricket series at Mahinda Rajapaksa International Cricket Stadium in Hambantota.
-
-Sri Lanka's under -19 women's team has made a victory in the four matches she played in the three -day series.
-
-Under the age of 19, the Australian women's team scored 124 runs for the loss of 9 wickets in 20 overs.
-
-Australia, who lost the first 3 wickets for 29 runs, reached the honor of 91 runs by team captain Amy Smith and Lucy Finn in the 4th wicket.
-
-Amy Smith scored 50 runs off 45 balls, 50 runs with 2 sixes and Lucy Finn 36 off 27 balls with 3 pounds.
-
-In the bowling, Delhi Cotheen Kolman took 3 wickets for 15 runs, Josi Groves 2 wickets for 22 runs and Ava Lee 2 for 23 runs.
-
-Under the age of 19, the UK women's team lost 3 wickets in 13.3 overs and scored 126 runs.
-
-Erin Thomas (16) and Davina Perin shared 50 runs and made it a good start.
-
-When the total number was 66 runs, Jodi Krukok lost the game with 6 runs.
-
-...
-
-[Data](articles/5e3d7902.json)
-
-[Extended Data](ext_articles/5e3d7902.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 09:34:43**
+As of **2024-04-03 09:52:23**
 
 ## Newspaper Stats
 
-*Scraped **16,782** Articles*
+*Scraped **16,784** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,53 +18,95 @@ islandlk | 931
 adalk | 1,408
 tamilmirrorlk | 1,997
 adaderanalk | 2,013
-virakesarilk | 2,413
-dailymirrorlk | 2,586
+virakesarilk | 2,414
+dailymirrorlk | 2,587
 adaderanasinhalalk | 2,711
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,778 (100.0%) of 16,782 articles have been extended.
+16,782 (100.0%) of 16,784 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### හංසනීගෙන් බර ඉසිලීමේ නව ශ්‍රී ලංකා වාර්තාවක්
+### பாலின அடிப்படையிலான வேதன இடைவெளி : உலகளாவிய சராசரியை விடவும் இலங்கையில் உயர்வாகப் பதிவு - சர்வதேச தொழிலாளர் அமைப்பின் புதிய ஆய்வறிக்கையில் தகவல்
+
+*2024-04-03 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180293) · `ta`
+
+உலகளாவிய ரீதியில் நிலவும் பாலின அடிப்படையிலான வேதன இடைவெளியானது சராசரியாக 20 சதவீதமாக மதிப்பிடப்பட்டுள்ளது. இருப்பினும் இலங்கையில் நிலவும் வேதன இடைவெளி இந்த உலகளாவிய சராசரியை விடவும் அதிகம் என்பதுடன், குறைந்த - நடுத்தர வருமானம் பெறும் நாடுகளில் காணப்படும் வேதன இடைவெளியை விட உயர்வானதாகும் என சர்வதேச தொழிலாளர் அமைப்பின் புதிய ஆய்வறிக்கையில் சுட்டிக்காட்டப்பட்டுள்ளது.
+
+'உலகின் பெரும்பாலான நாடுகளில் நிலவும் பாலின அடிப்படையிலான வேதன இடைவெளியானது தொழிற்சந்தையில் காணப்படும் பாலின சமத்துவமின்மையைத் தெளிவாகப் புலப்படுத்துகின்றது. சமூகநீதி மற்றும் பொருளாதார சுபீட்சம் ஆகிய இரு கோணங்களிலும் அதற்குத் தீர்வு காணவேண்டியது அவசியமாகும். பாரிய அளவிலானதும், உரிய காரணங்கள் தெளிவுபடுத்தப்படாததுமான பாலின அடிப்படையிலான வேதன இடைவெளியானது தொழிற்சந்தையில் சமத்துவமின்மையைத் தோற்றுவிப்பதுடன் மாத்திரமன்றி, பெண்கள் தொழிற்சந்தைக்குள் பிரவேசிப்பதிலும், முன்னேற்றமடைவதிலும் தடைகளை ஏற்படுத்தும்' என சர்வதேச தொழிலாளர் அமைப்பு இலங்கை தொடர்பான அதன் ஆய்வறிக்கையில் சுட்டிக்காட்டியுள்ளது.
+
+...
+
+[Data](articles/7e3f531a.json)
+
+---
+
+### Hansani has a new record for weightlifting
 
 *2024-04-03 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195236) · `si`
 
-තායිලන්තයේ පැවැත්වෙන ලෝක ශූරතා බර ඉසිලීමේ තරගාවලියේදී නව ශ්‍රී ලංකා වාර්තාවක් පිහිටුවීමට හංසනී ගෝමස් සමත්වුණා.
+Hansan Gomez set a new record in the World Championship Weightlifting Championship in Thailand, lifting 247 kilograms.
 
-ලෝක ශූරතා බර ඉසිලීමේ ශූරතා තරගාවලියේ මේ දිනවල තායිලන්තයේදි පැවැත්වෙන අතර මෙය ඔලිම්පික් සුදුසුකම් ලැබිමේ තරගාවලියක් ලෙසද ක්‍රියාත්මක වනවා.
+🟩
 
-ශ්‍රී ලංකාව නියෝජනය කරමින් කිලෝග්‍රෑම් 49 බර පන්තියෙන් තරග වැදුණු හංසනී ගෝමස් ස්නැච් ක්‍රමයට කිලෝග්‍රෑම් 76ක බරක් ඔසවමින් නව ජාතික වාර්තාවක් පිහිටුවීමට සමත්වුණා.
+Hansan Gomez was established in the World Championship Weightlifting Championship in Thailand.
 
-මේ අතර ශ්‍රී ලංකාව නියෝජනය කරමින් කිලෝග්‍රෑම් 55 බර පන්තියෙන් තරග වැදුණු ඩිලංක ඉසුරු කුමාර 5 වැනි ස්ථානය දිනා ගත්තා.
+The World Championship Weightlifting Championships will be held at Thailand today.
 
-ඒ ස්නැච් ක්‍රමයට කිලෝග්‍රෑම් 112 ක් හා ක්ලීන් ඇන්ඩ් ජර්ක් ක්‍රමයට කිලෝග්‍රෑම් 145 ක් ඔසවමින්.
+A new national report was established with a loss of 76 kilograms of Hannan Gomez Snatch, which rates from the 49kg weight class of Sri Lanka.
 
-මෙම තරග ඉසව්වේදී ඩිලංක එස වූ සමස්ත බර ප්‍රමාණය  කිලෝග්‍රෑම් 247ක්.
+Meanwhile, Deceran Isuru Kumara won the 55kg weight class in Sri Lanka.
+
+112 kilograms of the Snauch and lifting 145 kilograms of clein and germina.
+
+In this event, the total weight of 247 kilograms was 247 kilograms.
 
 ◼️
 
 [Data](articles/1769cda2.json)
 
+[Extended Data](ext_articles/1769cda2.ext.json)
+
 ---
 
-### வவுணதீவு பிரதேச செயலாளர் பிரிவில் 100 குடும்பங்களுக்கு கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானால் காணி உறுதிப் பத்திரங்கள் வழங்கி வைப்பு!
+### WB cautions possible slowdown in reform efforts due to elections
+
+*2024-04-03 09:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/WB-cautions-possible-slowdown-in-reform-efforts-due-to-elections/108-280082) · `en`
+
+Colombo, April 3 (Daily Mirror) - Sri Lanka has recovered faster than expected from the economic crisis it faced two years ago, however, the World Bank yesterday cautioned that this momentum might be lost due to a possible slowdown in the reform efforts as the island nation gears up for election this year.
+
+World Bank's Senior Country Economist for the Maldives and Sri Lanka Richard Walker told journalists in Colombo that while Sri Lanka has made significant progress in the last year, two downside risks remain, of which one is the upcoming elections.
+
+“…downside risks remain, and there are two risks I want to emphasise. The first one is around the elections this year and the potential we see or the concern we see around policy reversal or policy fatigue, particularly around the reforms that have been implemented,” he said during the launch of the Sri Lanka Development Update: Bridge to Recovery report.
+
+...
+
+[Data](articles/637fee3b.json)
+
+---
+
+### Governor of the Eastern Province Senthil Thondaman has issued land guarantees to 100 families in the Vavuniya Divisional Secretariat Division!
 
 *2024-04-03 09:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/180292) · `ta`
 
-மட்டக்களப்பு மாவட்டத்தின் மண்முனை மேற்கு வவுணதீவு பிரதேச செயலாளர் பிரிவில் 100 குடும்பங்களுக்கு கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானால் காணி உறுதிப் பத்திரங்கள் வழங்கி வைக்கப்பட்டது.
+Governor Senthil Thondaman guarantees land to 100 families in Vavuniya, with state officials present.
 
-காணி உறுதிப் பத்திரங்கள் வழங்கும் நிகழ்வில் இராஜாங்க அமைச்சர் வியாழேந்திரன், பிரதேச செயலாளர், உட்பட அரச அதிகாரிகள் கலந்துக் கொண்டனர்.
+🟩
+
+The Eastern Province Governor Senthil Thondaman has issued land guarantees to 100 families in the Manmunai West Vavuniya Divisional Secretariat Division of the Batticaloa District.
+
+State officials including Minister of State for Land Recognition, including Divisional Secretary, were present at the event.
 
 ◼️
 
 [Data](articles/3aa3b0b7.json)
+
+[Extended Data](ext_articles/3aa3b0b7.ext.json)
 
 ---
 
@@ -84,21 +126,33 @@ WCK, which was founded by celebrity chef Jose Andres, said its staff were travel
 
 [Data](articles/111e6098.json)
 
+[Extended Data](ext_articles/111e6098.ext.json)
+
 ---
 
-### சிங்கப்பூர் சரக்கு கப்பல் தொடர்பில் முறையான விசாரணை நடத்தப்படும் - இராஜாங்க அமைச்சர் ஜானக வக்கும்புர
+### A formal inquiry into Singapore freight ship
 
 *2024-04-03 08:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180291) · `ta`
 
-அபாயகரமான பொருட்கள் அடங்கிய சிங்கப்பூர் சரக்கு கப்பல் நாட்டுக்குள் வருவதற்கு மத்திய சுற்றாடல் அதிகாரசபையின் அனுமதி பெறவில்லை. இதுதொடர்பாக முறையான விசாரணை நடத்தி பாராளுமன்றத்துக்கு அறிவிப்போம் என சுற்றாடல் இராஜாங்க அமைச்சர் ஜானக வக்கும்புர தெரிவித்தார்.
+Singapore cargo ship carrying hazardous items without permission crashed into Sri Lanka. Central Environmental Authority investigating. Minister Janaka Wakumbura to announce findings to Parliament.
 
-பாராளுமன்றத்தில் நேற்று செவ்வாய்க்கிழமை (02) விசேட கூற்றொன்றை முன்வைத்து எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மற்றும் ஷரித்த ஹேரத் ஆகியோர் இலங்கைக்கு வருகை தந்துகொண்டிருக்கும்போது விபத்துக்குள்ளாகியுள்ள சிங்கப்பூர் சரக்கு கப்பல் தொடர்பாக முன்வைத்த கேள்விக்கு பதிலளிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-இலங்கைக்கு வருகை தந்துகொண்டிருக்கும்போது விபத்துக்குள்ளாகியுள்ள சிங்கப்பூர் சரக்கு கப்பலில்  பாரியளவிலான வெடிபொருட்கள் மற்றும் அபாயகரமான பொருட்கள் அடங்கிய கொள்கலன்கள் இருப்பதாக தெரிவிக்கப்படுவது உண்மை. இந்த விடயங்கள் தொடர்பில் மத்திய சுற்றாடல் அதிகாரசபை விசாரணை நடத்தி வருகிறது.
+The Central Environmental Authority has not obtained permission from the Singapore cargo ship that contains hazardous items. The Minister of Environment Janaka Wakumbura said that he would conduct a proper inquiry into the matter and announce it to Parliament.
 
-...
+In response to a question posed by Opposition Leader Sajith Premadasa and Sharitha Herath in Sri Lanka on Tuesday (02) in Parliament.
+
+It is true that the Singapore cargo vessel, which has crashed to Sri Lanka, has massive ammunition and hazardous containers.. The Central Environmental Authority is investigating these issues.
+
+Similarly, the Central Environmental Authority has not obtained permission to arrive in Sri Lanka. So we have informed the port and customs to launch an investigation into this. The ship crashed into the Baltimore Bridge in the United States, which was able to find out about the dangerous items on the ship.
+
+So I will investigate the matter and take action to instruct Parliament.
+
+◼️
 
 [Data](articles/00c667bd.json)
+
+[Extended Data](ext_articles/00c667bd.ext.json)
 
 ---
 
@@ -2167,49 +2221,5 @@ Tiraj, Smriti Venkat, Coimbatore Sarala, M, directed by debutant director Meera 
 [Data](articles/8527c485.json)
 
 [Extended Data](ext_articles/8527c485.ext.json)
-
----
-
-### 'Teens' ready for the celebration of adolescent children
-
-*2024-04-02 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180263) · `ta`
-
-"Teens," a new film by Parthiban, features storytelling through a single character, showcasing new initiatives from 'New Path' to its release. The movie, produced by Bioscopes LB and Akira Productions, stars newcomers and includes music by Iman. The first look, released with an audit certificate, has sparked excitement among fans. The teaser introduces a 500-year-old ghost, setting the stage for an adventure tour by a group of students.
-
-🟩
-
-Storytelling through a single character on the screen ... Storytelling of Single Shot ... New initiatives, from the film 'New Path' to this day, have been achieved.. Achiever. The teaser of the movie 'Teens' has been released as another new venture.
-
-In the director. Parthiban's upcoming movie 'Teens' starring newcomer stars. Cavmik Ary Cinematography. Iman has composed music. The film is being produced by Bioscopes LB and Akira Productions Pvt.
-
-...
-
-[Data](articles/c396a4b4.json)
-
-[Extended Data](ext_articles/c396a4b4.ext.json)
-
----
-
-### The Family Star and Vijay Deverakonda
-
-*2024-04-02 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180267) · `ta`
-
-Vijay Deverakonda, a leading Tamil and Telugu actor, is venturing into politics and acting in his upcoming film 'The Family Star', produced by Dil Raju and directed by Parasuram Bedla. The film, featuring Mrunal Thakur and Jegapati Babu Vidvi Ganesh, is set to release in Tamil, Telugu, and Hindi.
-
-🟩
-
-Actor Vijay will soon enter the political world from the Tamil film industry ... Not only from the Tamil film industry, but also the leading star actors of the Telugu film industry have jumped to capture his film.
-
-Vijay Deverakonda is one of them. His upcoming film 'The Family Star' will be released in Tamil and Telugu in Tamil and Telugu.
-
-In this case, the film crew is actively engaged in advertising the film. As part of this, they met with journalists at a star hotel in Chennai.
-
-Speaking at the event, Vijay Deverakonda said, "I am playing the lead role in the second Tamil film 'The Family Star' produced by producer Dil Raju, who produced the film Vijay's successor film.. Parasuram, the director of the film, has previously directed the hit film 'Geeta Govindam'. The film also had a lot of Tamil fans. We hope that the film 'The Family Star' will be welcomed by Tamil fans as he has reunited with Parasuram.
-
-...
-
-[Data](articles/0a6d1262.json)
-
-[Extended Data](ext_articles/0a6d1262.ext.json)
 
 ---

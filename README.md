@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 05:03:28**
+As of **2024-04-04 05:18:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,990 (100.0%) of 16,995 articles have been extended.
+16,995 (100.0%) of 16,995 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Speaking at a press conference held at the party headquarters, Gammanpila assert
 
 [Data](articles/649fa3a7.json)
 
+[Extended Data](ext_articles/649fa3a7.ext.json)
+
 ---
 
 ### Gamini Lokuge assumes Chairmanship of Committee on Banking and Financial Services
@@ -67,6 +69,8 @@ hlighting the committee’s focus areas, the Chair underscored its dedication to
 ...
 
 [Data](articles/886f7fab.json)
+
+[Extended Data](ext_articles/886f7fab.ext.json)
 
 ---
 
@@ -90,6 +94,8 @@ Former SLFPer Weerakkody expressed his belief that the SLFP has undergone signif
 
 [Data](articles/285004e1.json)
 
+[Extended Data](ext_articles/285004e1.ext.json)
+
 ---
 
 ### High Court rejects Keheliya’s bail application
@@ -107,6 +113,8 @@ Later, the former Minister’s daughter Chaminthri Rambukwella had filed the rev
 ...
 
 [Data](articles/cc2b85d1.json)
+
+[Extended Data](ext_articles/cc2b85d1.ext.json)
 
 ---
 
@@ -127,6 +135,8 @@ Main Opposition Samagi Jana Balawegaya (SJB) yesterday insisted the reform agend
 ...
 
 [Data](articles/8ddeaa1f.json)
+
+[Extended Data](ext_articles/8ddeaa1f.ext.json)
 
 ---
 

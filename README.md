@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 07:32:51**
+As of **2024-04-03 08:18:23**
 
 ## Newspaper Stats
 
-*Scraped **16,757** Articles*
+*Scraped **16,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,171 @@ dailyftlk | 910
 economynextcom | 922
 islandlk | 931
 adalk | 1,408
-tamilmirrorlk | 1,993
-adaderanalk | 2,009
+tamilmirrorlk | 1,994
+adaderanalk | 2,012
 virakesarilk | 2,410
 dailymirrorlk | 2,577
-adaderanasinhalalk | 2,706
+adaderanasinhalalk | 2,709
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,746 (99.9%) of 16,757 articles have been extended.
+16,764 (100.0%) of 16,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### ප්‍රබල භූකම්පනයක් - ජපානයට සුනාමි අනතුරු ඇඟවෙයි
+### President briefed on challenges faced by Muslim schools in Colombo
+
+*2024-04-03 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98387/president-briefed-on-challenges-faced-by-muslim-schools-in-colombo) · `en`
+
+A formal discussion on the educational challenges confronting Muslim schools in the Colombo region was convened under the leadership of President Ranil Wickremesinghe at the Presidential Secretariat, on Tuesday (02).
+
+Key issues addressed included the shortage of teachers, inadequate space and classrooms, difficulties in teaching Islam in Sinhala, absence of schools in Muslim-majority areas, according to the President’s Media Division.
+
+During the session, Minister Ali Sabry and representatives of school principals and organizations briefed President Ranil Wickremesinghe on the challenges faced by Muslim schools in Colombo, the release said.
+
+The President promptly initiated steps to address some of these issues, directing officials from the Ministry of Education and the Urban Development Authority to investigate and report on specific matters.
+
+...
+
+[Data](articles/16486e53.json)
+
+[Extended Data](ext_articles/16486e53.ext.json)
+
+---
+
+### A person is assassinated with sharp weapons
+
+*2024-04-03 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195234) · `si`
+
+In Evlanda, a person was assassinated with sharp weapons. The victim was initially treated at Evtball Hospital, then transferred to Muttur Hospital. The murder was linked to two groups.
+
+🟩
+
+In the morning of this morning, Evlanda area was assaulted with a sharp object in the Ilangathuwela area in the Ilangathuwela area in the Ilangathu area.
+
+The police said that the victim was admitted to the Evtball Hospital and was later admitted to the Muttur Hospital for further treatment.
+
+The victim has been killed and the murder was identified as a group of two groups have been killed and the murder had been identified.
+
+◼️
+
+[Data](articles/94e3a5c0.json)
+
+[Extended Data](ext_articles/94e3a5c0.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the country
+
+*2024-04-03 07:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98386/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, Southern and Uva provinces after 2.00 p.m.
+
+Fairly heavy showers about 75mm are likely at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts.
+
+Misty conditions can be expected at some places in Western, Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/822d0f5b.json)
+
+[Extended Data](ext_articles/822d0f5b.ext.json)
+
+---
+
+### New Bill to be taken to Parliament for women
+
+*2024-04-03 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195233) · `si`
+
+A new bill for women's empowerment, approved by the Cabinet, will be presented to Parliament. It aims to establish a National Women's Commission, following the gazetting of the Empowerment of Women's Gazette. Despite revisions, the bill is seen as a step towards setting up a female commission.
+
+🟩
+
+Geetha Kumarasinghe says that the Cabinet approval was given to the Current Bill to Parliament and bring a new bill to Parliament.
+
+She said that the Empowerment of Women's Gazette the Gazette Bill will be appointed as the National Women's Commission after the appointment of the National Women's Commission.
+
+"We have already gazetted the woman to empower the woman, present, and there is all. But there have been a revision to return to a revision. The Parliamentary Forum by the Parliamentary Forum, another new proposal and the information have been subjected to changes. Because through the passage of this Act, we have provisions to set up the female commission. "
+
+◼️
+
+[Data](articles/58eea3aa.json)
+
+[Extended Data](ext_articles/58eea3aa.ext.json)
+
+---
+
+### Japan issues tsunami warning after 7.5-magnitude earthquake
+
+*2024-04-03 07:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98385/japan-issues-tsunami-warning-after-75-magnitude-earthquake) · `en`
+
+(Reuters) - An earthquake offshore Taiwan with a magnitude of 7.2 rocked the capital Taipei on Wednesday morning, knocking out power in several parts of the city and sparking a tsunami warning for the islands of southern Japan and the Philippines.
+
+Taiwan television stations showed footage of some collapsed buildings in the eastern county of Hualien, near the quake’s epicentre, and media reported some people were trapped.
+
+The quake hit at 07:58 a.m. (2358 GMT) at a depth of 15.5km (9.6 miles) just off the eastern coast of Taiwan, according to Taiwan’s Central Weather Administration. It was the strongest quake to hit the island in 25 years, state media said.
+
+Japan issued an evacuation advisory for the coastal areas of the southern prefecture of Okinawa. Tsunami waves of up to 3 metres (10 feet) were expected to reach large areas of Japan’s southwestern coast, according to the Japan Meteorological Agency, which put the quake magnitude at 7.5.
+
+...
+
+[Data](articles/93dd882d.json)
+
+[Extended Data](ext_articles/93dd882d.ext.json)
+
+---
+
+### President solutions to the problems of Muslim schools in Colombo
+
+*2024-04-03 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195232) · `si`
+
+President Ranil Wickremesinghe addresses Muslim school issues in Colombo, focusing on teacher shortages, classroom deficits, and space. He instructs officials to find solutions, including appointing more teachers.
+
+🟩
+
+President Ranil Wickremesinghe has instructed the relevant officials to look into the issues in Muslim schools in the Colombo Zone and provide immediate solutions.
+
+President Ranil Wickremesinghe has given this advice at the Presidential Secretariat on the problems faced by the Muslim schools in the Colombo region.
+
+The officers have informed the President about the challenges faced by the Muslim schools in Colombo.
+
+The Presidential Media Unit said that the inadequacy of teachers vacancies, classroom deficit and space in the majority of the Muslim community in the majority of the Muslim community.
+
+Approximately 40,000 Muslim students study in Sinhala medium and discussed the deficit of teachers with a talented teachers in Sinhala.
+
+Foreign and organizations representatives have shown that there are approximately 200 teachers in 19 Muslim schools in Colombo.
+
+...
+
+[Data](articles/8e145c64.json)
+
+[Extended Data](ext_articles/8e145c64.ext.json)
+
+---
+
+### Tsunami warning to Japan
 
 *2024-04-03 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195231) · `si`
 
-තායිවානයේ නැගෙනහිර වෙරළට ඔබ්බෙන් රික්ටර් මාපාංක 7.4ක ප්‍රබලත්වයෙන් යුත් ප්‍රබල භූකම්පනයක් හටගෙන තිබේ.
+A 7.4 magnitude earthquake in Taiwan has triggered a tsunami warning for Japan.
 
-මේ හේතුවෙන් ජපානයට සුනාමි අනතුරු ඇඟවීමක් නිකුත් කර ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+🟩
+
+A powerful earthquake with 7.4 richterus in Taiwan has broken down 7.4.
+
+According to foreign media reports, a tsunami warning to Japan has issued a warning to Japan.
 
 ◼️
 
 [Data](articles/274a58d7.json)
+
+[Extended Data](ext_articles/274a58d7.ext.json)
 
 ---
 
@@ -314,6 +452,8 @@ Namal Rajapaksa had his crowning as crown prince last week. The SLPP titled the 
 
 [Data](articles/35e21c28.json)
 
+[Extended Data](ext_articles/35e21c28.ext.json)
+
 ---
 
 ### Technical overview on Online Safety Act of Sri Lanka
@@ -328,23 +468,55 @@ In 2018, “EUROPOL” headquartered in Hague, Netherlands, a key organisation e
 
 [Data](articles/289ff033.json)
 
+[Extended Data](ext_articles/289ff033.ext.json)
+
 ---
 
-### இன்று இலங்கை திரும்பும் முருகன், ரொபட், ஜெயக்குமார்
+### Murugan, Robot, Jayakumar returning to Sri Lanka today
 
 *2024-04-03 03:33:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இலங்கை-திரும்பும்-முருகன்-ரொபட்-ஜெயக்குமார்/175-335542) · `ta`
 
+Murugan, Robot, Jayakumar, detained in Trichy after 2022 release in Rajiv Gandhi case, are returning to Sri Lanka today, arriving at Katunayake airport at 11.30 am.
+
+🟩
+
 இந்தியாவின் முன்னாள் பிரதமர் ராஜீவ் காந்தி கொலைக் குற்றச்சாட்டில் கைதாகிப் பல ஆண்டுகள் சிறையில் அடைக்கப்பட்ட பின்னர் நீதிமன்றத்தால் விடுவிக்கப்பட்ட  முருகன், ரொபட் பயஸ் மற்றும் ஜெயக்குமார் ஆகியோர் இன்று இலங்கைக்கு அழைத்து வரப்படுகின்றனர்.
 
-கட்டுநாயக்க விமான நிலையத்துக்கு இன்று முற்பகல் 11.30 மணிக்கு இவர்கள் மூவரும் வந்தடைவார்கள் என்று முருகன் சார்பில் வழக்காடிய சட்டத்தரணி புகழேந்தி தெரிவித்துள்ளார்.
+The three of them will arrive at the Katunayake airport at 11.30 am today.
 
-ராஜீவ் காந்தி கொலை வழக்கில் 33 ஆண்டுகள் வரையில் சிறையில் இருந்த இவர்கள் 2022 ஆம் ஆண்டு விடுதலை செய்யப்பட்ட நிலையில், திருச்சி சிறப்பு முகாமில் தடுத்து வைக்கப்பட்டிருந்தனர்.
+They were detained at the Trichy special camp after being released in 2022 in the Rajiv Gandhi assassination case.
 
-இந்நிலையில், அவர்களை விரைவில் இலங்கைக்கு அனுப்ப வேண்டும் என்ற கோரிக்கை வலுப்பெற்ற நிலையில், மூவரும் இன்று இலங்கைக்கு அழைத்துவரப்படவுள்ளனர். (a)
+In this case, the demand for them to be sent to Sri Lanka soon, the trio will be brought to Sri Lanka today.. (A)
 
 ◼️
 
 [Data](articles/1fb38941.json)
+
+[Extended Data](ext_articles/1fb38941.ext.json)
+
+---
+
+### Round the massage stations
+
+*2024-04-03 03:21:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மசாஜ்-நிலையங்கள்-சுற்றிவளைப்பு/175-335541) · `ta`
+
+Four women arrested in Anuradhapura for running illegal massage stations are checked for HIV. 12 women from Matara massage stations are detained.
+
+🟩
+
+Four women have been arrested in a raid on illegal massage stations in Anuradhapura area.
+
+The four arrested women have been sent to the hospital to check whether they are infected with HIV.
+
+In this case, 12 women working at illegal massage stations in Matara have been taken to the police station.
+
+The arrested women are from Galle, Kegalle, Colombo, Puttalam and Anuradhapura. (A)
+
+◼️
+
+[Data](articles/440abcd1.json)
+
+[Extended Data](ext_articles/440abcd1.ext.json)
 
 ---
 
@@ -596,6 +768,8 @@ I was a schoolmate of his. Not only that, I was there with him at the college ho
 
 [Data](articles/d5faef39.json)
 
+[Extended Data](ext_articles/d5faef39.ext.json)
+
 ---
 
 ### 2024-04-02 (Tuesday)
@@ -701,6 +875,8 @@ Meanwhile, President Ranil Wickremesinghe said that he expected debt restructuri
 ...
 
 [Data](articles/26137064.json)
+
+[Extended Data](ext_articles/26137064.ext.json)
 
 ---
 
@@ -2075,153 +2251,5 @@ Luzon, the main island of the Buppin, Luson and Diwana Mindanova, have been susp
 [Data](articles/835dfaca.json)
 
 [Extended Data](ext_articles/835dfaca.ext.json)
-
----
-
-### Ehelepola Walawwa to be handed over to Dalada Maligawa
-
-*2024-04-02 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98375/ehelepola-walawwa-to-be-handed-over-to-dalada-maligawa) · `en`
-
-The Cabinet of Ministers has green-lighted a proposal seeking to hand over the historic Ehalepola Walawwa and the grounds over to the Sri Dalada Maligawa (Temple of the Tooth Relic) in Kandy through a title deed of sacred premises.
-
-In accordance with a decision taken in the Cabinet meeting held on 19 February 2024, the President’s Secretary had been informed to discuss with all the relevant parties and submit a report with recommendations to the Cabinet regarding the handing over of the ancestral home of Ehelepola Disawe and his family to the Temple of the Tooth Relic.
-
-As per the report, the Dalada Maligawa has prepared a project, aiming to present its history in a more attractive way to the society by establishing a museum at this ancestral home to represent the great historical and environmental background of the Kingdom of Kandy that existed hundreds of years ago and to make it a local and foreign tourist attraction.
-
-...
-
-[Data](articles/093fb4ac.json)
-
-[Extended Data](ext_articles/093fb4ac.ext.json)
-
----
-
-### Government's decision to request Gnanasara Thera
-
-*2024-04-02 16:30:33* · [`adalk`](https://www.ada.lk/breaking_news/ඥානසාර-හිමිගේ-ඇප-ඉල්ලීමට-අද-දුන්-තීන්දුව/11-408905) · `si`
-
-The Colombo High Court rejected Ven. Galagodaatte Gnanasara Thero's bail request, delaying his release.
-
-🟩
-
-The Colombo High Court has rejected Ven. Galagodaatte Gnanasara Thero was released on bail.
-
-Gnanasara Thera had released the bail of Gnanasara Thera to release the Barantee by taking delay in the Court of Gnanasara Thera by taking revelation before the Court of Appeal.
-
-◼️
-
-[Data](articles/17463b1a.json)
-
-[Extended Data](ext_articles/17463b1a.ext.json)
-
----
-
-### Taxes to be levied from importers who have earned undue profits
-
-*2024-04-02 16:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Taxes-to-be-levied-from-importers-who-have-earned-undue-profits/108-280046) · `en`
-
-Parliament, April 2 (Daily Mirror)- The Ways and Means Committee has requested the Customs to handover the names of importers, who have earned undue profits last year, to the Inland Revenue Department so that they could be taxed, the Chairman of the Committee Patali Champika Ranawaka said today.
-
-MP Ranawaka told a media briefing in Parliament that the Inland Revenue Department will charge 36 percent of their income as taxes.
-
-“Some of the importers have  started companies temporarily to import essential items and then fraudulently changed over to other companies,” the MP added.
-
-Member of the Ways and Means Committee MP Dayasiri Jayasekera said some have registered companies on the names of their family members and have evaded paying Value Added Tax (VAT).
-
-It was reported that importers of essential items such as big onions, potatoes and dried sprats have earned a total profit of Rs. 114 billion last year, the report of the Ways and Means Committee which was tabled in Parliament revealed.
-
-...
-
-[Data](articles/6e18f107.json)
-
-[Extended Data](ext_articles/6e18f107.ext.json)
-
----
-
-### Sri Lanka stocks close up, banks and capital goods drive turnover
-
-*2024-04-02 16:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-and-capital-goods-drive-turnover-157168/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader All Share Index closed up 0.60 percent, or 68.89 points, at 11,547; while the S&P SL20 Index closed up 0.63 percent, or 20.85 points, at 3,350.
-
-Turnover was at 2 billion. The Banks (Rs532mn) and Capital Goods (Rs525mn) sectors brought in nearly half of this.
-
-Pan Asia Banking Corporation Plc saw the most active volumes traded (Rs131mn), and the share closed up at 21.50.
-
-First Capital Holdings Plc saw some interest (Rs68mn), and the share closed up at 36.70.
-
-Singer (Sri Lanka) Plc also saw some interest (Rs53mn), and the share closed up at 17.10.
-
-Major contributors to the Index included Ceylinco Insurance Plc (up at 2,460.00), Hatton National Bank Plc (up at 184.50), and John Keells Holdings Plc (up at 197.00).
-
-There was a net foreign inflow of 71 million. (Colombo/Apr2/2024)
-
-◼️
-
-[Data](articles/9937a68a.json)
-
-[Extended Data](ext_articles/9937a68a.ext.json)
-
----
-
-### Yall. A house in the east of Arali burned in fire
-
-*2024-04-02 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180251) · `ta`
-
-A house in Arali East, Jaffna, was completely damaged by fire yesterday. No casualties, but property destroyed. Cause unknown. Vaddukoddai police investigating.
-
-🟩
-
-A house in the Arali East of the Vaddukoddai Police Division in Jaffna has been completely damaged in a fire. The incident took place yesterday (01).
-
-The disaster occurred in an unexpected. However, the cause of the fire is not yet known.
-
-None of the casualties caused. However, the property in the house has been burnt and destroyed. Vaddukoddai police are investigating the matter.
-
-◼️
-
-[Data](articles/d5188807.json)
-
-[Extended Data](ext_articles/d5188807.ext.json)
-
----
-
-### The Central Bank Assistant Governor has commented on the quota
-
-*2024-04-02 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180257) · `ta`
-
-The Central Bank Assistant Governor's claim about the quota, based on Sri Lanka's weekly economic indicators and IMF reports, contradicts the actual value of 3.0 billion, not the 4.4 billion mentioned. The PBOC exchange facility doesn't meet BPM6 standards for reserve assets, and the term "useless quotas" is not aligned with BPM6's asset definition.
-
-🟩
-
-To verify this claim, the Central Bank of Sri Lanka's weekly economic indicators, the International Monetary Fund's Senthi Service Manual (BPM6) and the International Monetary Fund's report No. 23/12.
-
-The value of the assistant governor refers to the Central Bank's weekly economic indicators. It refers to the Office of Office at the end of December 2023, the UP has 4.3 billion. However, if you carefully examine the report of the quota, this value varies.
-
-From March 2021, the Central Bank had a mutual transaction with the RMP 10 billion (about 1.4 billion) with the Chinese People's Bank (PBOC).. However, while addressing the foot notices of the Central Bank reports from November 2021 to March 2022, it is revealed that the exchange feature is not previously accountable, but it is calculated from December 2021.. It has been revealed that the criteria used to report the quotas by calculating this exchange of time as time -consuming quotas.
-
-...
-
-[Data](articles/42030451.json)
-
-[Extended Data](ext_articles/42030451.ext.json)
-
----
-
-### Sri Lanka’s economy shows signs of stabilization, but poverty remains elevated
-
-*2024-04-02 16:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lankas-economy-shows-signs-of-stabilization-but-poverty-remains-elevated/155-280045) · `en`
-
-April 02 -  Sri Lanka’s economy is projected to see moderate growth of 2.2% in 2024, showing signs of stabilization, following the severe economic downturn of 2022 while the country still faces elevated poverty levels, income inequality, and labor market concerns, said the World Bank's latest bi-annual update.
-
-According to the Sri Lanka Development Update released today, Sri Lanka saw declining inflation, higher revenues on the back of the implementation of new fiscal policies, and a current account surplus for the first time in nearly five decades, buoyed by increased remittances and a rebound in tourism.
-
-...
-
-[Data](articles/397d7960.json)
-
-[Extended Data](ext_articles/397d7960.ext.json)
 
 ---

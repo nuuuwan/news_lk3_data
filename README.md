@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 10:51:23**
+As of **2024-04-03 11:03:01**
 
 ## Newspaper Stats
 
-*Scraped **16,796** Articles*
+*Scraped **16,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,65 +20,139 @@ tamilmirrorlk | 1,999
 adaderanalk | 2,015
 virakesarilk | 2,417
 dailymirrorlk | 2,588
-adaderanasinhalalk | 2,713
+adaderanasinhalalk | 2,715
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,789 (100.0%) of 16,796 articles have been extended.
+16,796 (100.0%) of 16,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### தெற்காசியப் பிராந்தியத்தில் விசேட பொருளாதார வலயங்களை நிறுவுவதில் இலங்கை முன்னோடி - ஜனாதிபதி
+### ශ්‍රී ලංකාවට සුපිරි ජයක්
+
+*2024-04-03 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195240) · `si`
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවති දෙවන ටෙස්ට් ක්‍රිකට් තරගය ලකුණු 192කින් ජයගැනීමට ශ්‍රී ලංකා කණ්ඩායම අද (03) සමත් විය.
+
+ඒ අනුව තරග දෙකකින් සමන්විත වූ තරගාවලිය තරග 2 - 0ක් ලෙස ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායමට හැකියාව ලැබුණි.
+
+තරගය ජය ගැනීම සඳහා ලකුණු 511ක ඉලක්කයක් හඹා ගිය සත්කාරක බංග්ලාදේශ කණ්ඩායම තරගයේ පස්වන දිනයේ දී ලකුණු 318කට සියලුදෙනා දැවී ගියේය.
+
+මෙම තරගයේ පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම සිය පළමු ඉනිම සඳහා සියලුදෙනා දැවී ලකුණු 531ක් රැස්කළේය.
+
+ශ්‍රී ලංකා කණ්ඩායමේ පළමු ඉනිම වෙනුවෙන් කමිඳු මෙන්ඩිස් නොදැවී ලකුණු 92ක් රැස්කරගත්තේය.
+
+කුසල් මෙන්ඩිස් ලකුණු 93ක් රැස්කළ අතර දිමුත් කරුණාරත්න ලකුණු 86ක් රැස්කළහ.
+
+පන්දු යැවීමේදී බංග්ලාදේශ පළමු ඉනිම වෙනුවෙන් ෂකීබ් අල් හසන් කඩුලු 03ක් දවාගත්තේය.
+
+බංග්ලාදේශ කණ්ඩායම සිය පළමු ඉනිම සඳහා රැස්කළේ ලකුණු 178ක් පමණි.
+
+එහිදී ශ්‍රී ලංකාව වෙනුවෙන් අගනා පන්දු යැවීමක නිරත වූ අසිත ප්‍රනාන්දු පන්දුවාර 10යි පන්දු 4කදී ලකුණු 34කට කඩුලු 4ක් දවාගත්තේය.
+
+ළහිරු කුමාර, ප්‍රභාත් ජයසූරිය සහ විශ්ව ප්‍රනාන්දු කඩුලු 2 බැගින් දවාගැනීමට සමත්වූහ.
+
+...
+
+[Data](articles/898c0d73.json)
+
+---
+
+### චීනයේ සිහින මෝටර් රථයට විශාල ඉල්ලුමක්
+
+*2024-04-03 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195239) · `si`
+
+චීනයේ Xiaomi සමාගම ලෝකයේ ප්‍රකටව සිටින්නේ ජංගම දුරකථන නිෂ්පාදන සමාගමක් ලෙසට ය.
+
+ඔවුන් සිය නව මාදිලියේ විද්‍යුත් මෝටර් රථය පසුගියදා එළිදැක්වූ අතර ඒ සඳහා ඇණවුම් බාරගැනීමද ඒ සමගම ඇරඹිණි.
+
+ඒ සඳහා මේ වනවිට 100,000කට වඩා ඇණවුම් ලැබී ඇති අතර Xiaomi සමාගම අද නිවේදනය කළේ ඇණවුම් සඳහා නව මෝටර් රථ නිකුත් කිරීම ආරම්භ කළ බවයි.
+
+විද්‍යුත් මෝටර් රථ සඳහා ලොව ප්‍රමුඛතම වෙළෙඳපොළ ලෙස චීනය සැලකෙන අතර එහි ඉදිරියෙන්ම සිටින්නේ ටෙස්ලා සමාගම යි.
+
+Xiaomi සමාගමේ ප්‍රධාන විධායක ලෙයි ජුන් පැවසුවේ ටෙස්ලා සමාගම මෙන් ඉදිරියට ඒම තම සමාගමේ අරමුණ බවයි.
+
+◼️
+
+[Data](articles/46d37a21.json)
+
+---
+
+### Sri Lankan pioneer in establishing special economic zones in the South Asian region - President
 
 *2024-04-03 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180304) · `ta`
 
-இலங்கையின் பொருளாதாரத்தை மேம்படுத்த முதலீட்டுச் சபையின் கீழ் உள்ள நிறுவனங்கள் ஆற்றிய சிறப்பான வகிபாகத்திற்கு நன்றியைத் தெரிவித்துக் கொள்வதாக முதலீட்டுச் சபையின் விருது வழங்கும் நிகழ்வில் உரையாற்றிய ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe praised the Investment Board's role in Sri Lanka's economy, highlighting the country's pioneering efforts in establishing special economic zones in South Asia, attracting investors like Katunayake and Piyagama for industrial growth and job creation.
 
-தெற்காசியப் பிராந்தியத்தில் விசேட பொருளாதார வலயங்களை (SEZs) நிறுவுவதில் இலங்கை முன்னோடியாக இருந்ததை நினைவுகூர்ந்த ஜனாதிபதி,  கட்டுநாயக்க மற்றும் பியகம போன்ற முதலீட்டு வலயங்களுக்கு பிரதான முதலீட்டாளர்களை ஈர்ப்பதிலும், தொழில்துறை வளர்ச்சியை ஊக்குவித்தல் மற்றும்  தொழில் வாய்ப்புகளை உருவாக்குவதிலும் வெற்றியடைந்துள்ளதாகவும் வலியுறுத்தினார்.
+🟩
+
+Speaking at the Investment Board's award ceremony, President Ranil Wickremesinghe said that the companies under the Investment Board to improve the economy of Sri Lanka are gratitude.
+
+Recalling that Sri Lanka was the forerunner of the establishment of special economic zones in the South Asian region, the President stressed that he succeeded in attracting major investors such as Katunayake and Piyagama, promoting industrial growth and creating employment opportunities.
 
 ◼️
 
 [Data](articles/812236a3.json)
 
+[Extended Data](ext_articles/812236a3.ext.json)
+
 ---
 
-### உண்மை, நல்லிணக்க ஆணைக்குழுவை ஸ்தாபிப்பதற்கு அவசரம் காண்பிக்கவேண்டாம் - பாதிக்கப்பட்ட தரப்பினருடன் பரந்துபட்ட கலந்துரையாடல்களை முன்னெடுக்குமாறு அரசாங்கத்தை வலியுறுத்தவுள்ள சர்வதேச மனித உரிமைகள் சட்ட வல்லுனர்கள்
+### In fact, not to be urgent to establish the Reconciliation Commission - International Human Rights Legal experts urging the government to hold widespread discussions with the affected parties
 
 *2024-04-03 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180296) · `ta`
 
-உத்தேச உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலத்தை நிறைவேற்றுவதற்கு அவசரம் காண்பிக்கவேண்டாம் எனவும், அதற்கு முன்னதாக பாதிக்கப்பட்ட தரப்பினருடன் பரந்துபட்ட கலந்துரையாடல்களை முன்னெடுக்குமாறும் உண்மை ஆணைக்குழு மற்றும் மனித உரிமைகள் சட்டம் தொடர்பில் நிபுணத்துவம் வாய்ந்த சர்வதேச வல்லுனர்கள் அரசாங்கத்திடம் கூட்டாக வலியுறுத்தவுள்ளனர்.
+International human rights experts urge the Sri Lankan government to delay the establishment of a Reconciliation Commission, despite the UNHRC's 2022 resolution supporting it. The government, with assistance from Switzerland, Japan, and South Africa, faces criticism from civil society groups. Amnesty International, Human Rights Watch, and the Crisis Monitoring Committee express confidence, but experts advise against rushing the law's implementation, advocating for extensive discussions with affected parties.
 
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையில் இலங்கை தொடர்பில் கடந்த 2022 ஆம் ஆண்டு நிறைவேற்றப்பட்ட 'இலங்கையில் நல்லிணக்கம், பொறுப்புக்கூறல் மற்றும் மனித உரிமைகளை மேம்படுத்தல்' எனும் தலைப்பிலான 51/1 தீர்மானம் தொடர்பான ஆணை எதிர்வரும் செப்டெம்பர் மாதத்துடன் முடிவுக்குவரும் நிலையில், உள்நாட்டில் உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழுவை ஸ்தாபிக்கும் பணிகள் அரசாங்கத்தினால் தீவிரமாக முன்னெடுக்கப்பட்டு வருகின்றன.
+🟩
+
+International experts specialists who specialize in the Truth Commission and Human Rights Act will jointly urge the government to urgently not urgent to pass the proposed Truth, Unity and Reconciliation Commission Bill.
+
+The government is actively carrying out the work of establishing a domestic reality, solidarity and reconciliation commission, as the 51/1 resolution titled 'Reconciliation, Liability and Human Rights Enhancement' in Sri Lanka at the United Nations Human Rights Council (UNHRC) has been passed in 2022.
+
+Although the action is being carried out with the cooperation of Switzerland, Japan and South Africa, representatives of civil society organizations working with them have been criticized for this purpose.. Various International Human Rights Organizations, including the Amnesty International International, Human Rights Watch and the Crisis Monitoring Committee, have expressed their confidence in the proposed fact, unity and reconciliation commission.
 
 ...
 
 [Data](articles/b92d8a98.json)
 
+[Extended Data](ext_articles/b92d8a98.ext.json)
+
 ---
 
-### සඳමාලිගේ දේහය දිවයිනට රැගෙන එයි
+### Sandamali takes away the body to the island
 
 *2024-04-03 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195238) · `si`
 
-එක්සත් අරාබි එමීර් රාජ්‍යයට පසුගිය දා ඇද හැලුණු ධාරානිපාත වර්ෂාව නිසා ඇති වූ ගංවතුර තත්ත්වය හේතුවෙන්, සාජා නුවර භූගතව ඇද තිබූ විදුලි රැහැන් පද්ධතියක් තුළින් විදුලිය කාන්දු වී, විදුලි සැර වැදී මිය ගිය ශ්‍රී ලාංකික සේවිකාවක වන ජයමිණි සඳමාලි විජේසිංහගේ සිරුර අද (03) අලුයම කටුනායක ගුවන් තොටුපොළ වෙත එවා තිබුණි.
+Matugama C. W. W. Sandamali, a 26-year-old receptionist, died in an electricity leak incident in Kandy. Her body is being sent to Negomba General Hospital for a new post mortem. Funeral arrangements are set for tomorrow at Matugama General Cemetery.
 
-මතුගම සී. ඩබ්ලිව්. ඩබ්ලිව්. කන්නන්ගර මධ්‍ය මහා විද්‍යාලයේ ගණිත අංශයෙන් උසස් පෙළ හදාරා සිටි සඳමාලි 26 හැවිරිදි අවිවාහක තරුණියකි.
+🟩
 
-ඇය සිය සහෝදරයෙකුගේ මාර්ගයෙන් සාජා හි සන්නිවේදන ආයතනයක පිළිගැනීමේ නිලධාරිනියක ලෙස මාස 11ක කාලයක් සේවය කරමින් සිටියාය.
+Sri Lankan employees who have died of electricity leaked and the electricity celebrations in the Kandy-ingrounds of Sharjamayaka have been a powerful leakage of the United Arab Emirates.Sent to the ferry.
 
-ඉකුත් මාර්තු මස 09 දින රාත්‍රී 09.30ට පමණ ඇය නැවතී සිටි නේවාසිකාගාරයේ සිට එහි ඉදිරිපිට පිහිටි වෙළෙඳ සැළ වෙත යමින් සිටිය දී ඇය මෙලෙස විදුලි සැර වැදීමකට ලක්ව තිබුණි.
+Matugama C. W. W. Sandamali, a 26-year-old girl, who studied at the Mathematics Division of Kannangara Central College, is a 26 year old.
 
-එම අවස්ථාවේ දී ඊජිප්තු ජාතිකයින් දෙදෙනෙකුට, බංග්ලාදේශ ජාතිකයෙකුට සහ පිලිපීන ජාතිකයෙකුට විදුලි සැර වැදී තිබුණි.
+She was serving as a receptionist in Sajah by a brother's communications.
 
-පසුව වහා ක්‍රියාත්මක වී ඇති එරට ආරක්ෂක අංශ එම ස්ථානයට ගොස් අදාළ ප්‍රදශෙයේ ගමනාගමන කටයුතු අත්හිටුවා ආරක්ෂිත පියවර ගෙන ඇත.
+She was on the way to an electricity from the hostel that she had stayed at around 9:30 pm on March 9.
+
+Two Egyptians, a Bangladesh national and a Philippine was electricity.
+
+The security forces of the country then went to the scene and suspend the transport activities of the relevant area.
+
+The relatives of her eldest brother and her family were present at the airport for taking over Sandamali's body this morning.
+
+Comrade the company sent 4,000 dirases by the institute.
 
 ...
 
 [Data](articles/23f113d1.json)
+
+[Extended Data](ext_articles/23f113d1.ext.json)
 
 ---
 
@@ -100,6 +174,8 @@ He also said a circular related to this will be issued by the Education Minister
 
 [Data](articles/2effe22c.json)
 
+[Extended Data](ext_articles/2effe22c.ext.json)
+
 ---
 
 ### Sri Lankan-born professor appointed to U.S. National Security Education Board
@@ -117,6 +193,8 @@ Dr. Mendis is currently located in Washington DC, while serving as a distinguish
 ...
 
 [Data](articles/311f60ff.json)
+
+[Extended Data](ext_articles/311f60ff.ext.json)
 
 ---
 
@@ -290,19 +368,25 @@ In this event, the total weight of 247 kilograms was 247 kilograms.
 
 ---
 
-### මොනරාගල ආයුර්වේද ඔසුසැලේ රු. ලක්ෂ 13ක් සාක්කුවට දමාගෙන
+### Rs. Ayurvedic pharmacy of Ampara. 13 lakhs to pocket
 
 *2024-04-03 09:05:37* · [`adalk`](https://www.ada.lk/breaking_news/මොනරාගල-ආයුර්වේද-ඔසුසැලේ-රු--ලක්ෂ-13ක්-සාක්කුවට-දමාගෙන/11-408913) · `si`
 
-ආයුර්වේද ඖෂධ සංස්ථාවට අයත් මොනරාගල ආයුර්වේද ඔසුසැලේ රුපියල් දහතුන්ලක්ෂ පනස්දෙදහස් හයසියහතළිස් නවයයි සත හැත්තෑපහක මුදල් වංචාවක් සිදුවී ඇති බවට මොනරාගල කොට්ඨාශ විශේෂ අපරාධ විමර්ශන අංශයට ඉකුත් (01) වෙනිදා පැමිණිල්ලක් ලැබී ඇත.
+The Ayurvedic Pharmacy of Ampara has been accused of a large sum of money, with investigations led by the Monaragala Division's Special Criminal Investigation Division.
 
-ආයුර්වේද දෙපාර්තුමේන්තුවේ සහකාර කොමසාරිස්වරයෙකු ඒ පිළිබඳව පැමිණිල්ලක් කරමින් ආයුර්වේද ඔසුසැලේ මොනරාගල ස්ථාන භාර නිලධාරීවරයා විසින් ඖෂධ අලෙවිකොට ලබාගන්නා මුදල් කාලයක සිට නියමිත පරිදි රාජ්‍ය ආයුර්වේද ඖෂධ සංස්ථාවට නොගෙවා අදාල මුදල වංචා සහගත ලෙස ලබාගෙන ඇති බව පැමිණිල්ලේ සඳහන්කර තිබේ.
+🟩
 
-මොනරාගල කොට්ඨාශ විශේෂ අපරාධ විමර්ශන අංශයේ ස්ථානාධිපති විල්ෆ්‍රඩ් සිල්වා මහතා පරීක්ෂණ පවත්වයි.
+The Ayurvedic Pedula of Monaragala has taken over six thousand six hundred and nine hundred and nine hundred and nine hundred and nine hundred and six hundred six thousand six hundred and six hundred six thousand five hundred and six hundred six thousand five hundred and six hundred five thousand five centimeters.
+
+The Ayurvedic Phariseal has lodged a complaint with the Ayurvedic Pharmacy Officer incurred by the officer in charge of the Ayurvedic Pharvancy.
+
+The OIC of the Moneragala Division Special Criminal Investigation Division is conducting investigations.
 
 ◼️
 
 [Data](articles/ab8622d4.json)
+
+[Extended Data](ext_articles/ab8622d4.ext.json)
 
 ---
 
@@ -436,21 +520,27 @@ Meanwhile, the Japanese Meteorological Department has revised the earthquake in 
 
 ---
 
-### அதி சக்திவாய்ந்த நிலநடுக்கம்; சுனாமி எச்சரிக்கை விடுப்பு (காணொளி)
+### The most powerful earthquake;Tsunami warning leave (video)
 
 *2024-04-03 08:46:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதி-சக்திவாய்ந்த-நிலநடுக்கம்-சுனாமி-எச்சரிக்கை-விடுப்பு-காணொளி/175-335546) · `ta`
 
-தாய்வான் நாட்டில் இன்று அதிகாலை 7.5 ரிக்டர் அளவிலான சக்திவாய்ந்த நிலநடுக்கம் ஏற்பட்டதுடன், தெற்கு ஜப்பானுக்கு சுனாமி எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+A 7.5 magnitude earthquake in Taiwan caused a tsunami warning for South Japan, trapping people in Huvalian city. The USGS recorded it at 7.4 at 34.8 km depth, but the Japanese Meteorological Department revised it to 7.7.
 
-நிலநடுக்கத்தால் தாய்வானின் கிழக்குக் கடற்கரையில் உள்ள ஹுவாலியன் நகரில் கட்டிடங்கள் இடிந்து விழுவதுள்ள நிலையில் மக்கள் உள்ளே சிக்கியிருப்பதாகத் தகவல்கள் தெரிவிக்கின்றன.
+🟩
 
-தாய்வான் ஹுவாலியன் நகருக்கு தெற்கே 18 கிமீ (11 மைல்) தொலைவில் 34.8 கிமீ ஆழத்தில் இந்த நிலநடுக்கம் ரிக்டர் அளவில் 7.4 ஆக பதிவாகியுள்ளதாக அமெரிக்க புவியியல் ஆய்வு மையம் தெரிவித்துள்ளது.
+The 7.5 magnitude earthquake struck in Taiwan this morning and a tsunami warning to South Japan.
 
-இதேவேளை, தாய்வானில் ஏற்பட்ட நிலநடுக்கத்தை ரிக்டர் அளவுகோலில் 7.7  ஆக ஜப்பான் வானிலை ஆய்வு மையம் திருத்தியுள்ளது. R
+According to reports, people are trapped inside Huvalian city on the east coast of Taiwan due to the earthquake.
+
+The earthquake recorded 7.4 at a depth of 34.8 km south of Taiwan Huvalian, 18 km (11 miles), according to the US Geological Survey.
+
+Meanwhile, the Japanese Meteorological Department has revised the earthquake in Taiwan to 7.7 on the Richter scale.. Remble
 
 ◼️
 
 [Data](articles/31cd3801.json)
+
+[Extended Data](ext_articles/31cd3801.ext.json)
 
 ---
 
@@ -2157,51 +2247,5 @@ Despite co-ordinating movements with the Israeli Defence Force, the convoy was h
 [Data](articles/b66507d8.json)
 
 [Extended Data](ext_articles/b66507d8.ext.json)
-
----
-
-### President instructs to solve problems in Colombo schools
-
-*2024-04-02 18:29:14* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-මුස්ලිම්-පාසල්වල-ගැටළු-කඩිනමින්-විසඳීමට-ජනපති-උපදෙස්/11-408911) · `si`
-
-President Ranil Wickremesinghe addressed issues in Muslim schools in Colombo, including teacher shortages and inadequate facilities. He urged officials to explore solutions, including vocational training for students.
-
-🟩
-
-President Ranil Wickremesinghe instructed the relevant officials to look into the issues in Muslim schools in the Colombo Zone.
-
-President Ranil Wickremesinghe gave this advice at the Presidential Secretariat today (02) at the Presidential Secretariat on Muslim schools in the Colombo-region.
-
-The discussion of the discussion of the President's Counterparty Ali Sabri and several organizations representing the President's Counterparty Ali Sabri and several organizations representing the school principals and the Muslim community representing the members of the GMOA informed the President.
-
-The focus of teachers vacancies, classroom deficit and space is not sufficient in teaching and the Muslim lack of Muslim community in the majority of the Muslim community.
-
-...
-
-[Data](articles/6fd323f7.json)
-
-[Extended Data](ext_articles/6fd323f7.ext.json)
-
----
-
-### Fire in apartment building in Turkey: 10 killed
-
-*2024-04-02 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180274) · `ta`
-
-A fire in Istanbul's Pastikas killed 10 and injured 13.
-
-🟩
-
-At least 10 people were killed and 13 others were injured in a fire that broke out in a building in Istanbul, Turkey.
-
-The fire broke out in a 16 -storey building in Pastikas, Istanbul, the largest city in Turkey.
-
-Istanbul Governor Dawood Gul said 10 people were killed and 13 others were injured.
-
-◼️
-
-[Data](articles/87d9f066.json)
-
-[Extended Data](ext_articles/87d9f066.ext.json)
 
 ---

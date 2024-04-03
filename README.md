@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 17:18:05**
+As of **2024-04-03 17:34:37**
 
 ## Newspaper Stats
 
-*Scraped **16,894** Articles*
+*Scraped **16,895** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 910
 economynextcom | 927
 islandlk | 931
-adalk | 1,419
+adalk | 1,420
 tamilmirrorlk | 2,011
 adaderanalk | 2,028
 virakesarilk | 2,441
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,734
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,890 (100.0%) of 16,894 articles have been extended.
+16,894 (100.0%) of 16,895 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The demonstration had been organized by the students in protest over a Cabinet d
 ◼️
 
 [Data](articles/e8804adf.json)
+
+[Extended Data](ext_articles/e8804adf.ext.json)
 
 ---
 
@@ -62,6 +64,8 @@ Upon their release from jail, the three men were escorted from a special camp in
 
 [Data](articles/0cce2031.json)
 
+[Extended Data](ext_articles/0cce2031.ext.json)
+
 ---
 
 ### Overseas travel ban lifted on Pastor Jerome
@@ -79,6 +83,8 @@ The court had previously imposed an overseas travel ban on Pastor Jerome Fernand
 ...
 
 [Data](articles/f4988754.json)
+
+[Extended Data](ext_articles/f4988754.ext.json)
 
 ---
 
@@ -458,15 +464,21 @@ During the ceremony to hand over the Commission of Appointment, the High Commiss
 
 ---
 
-### கெஹலியவுக்கு பிணை மறுப்பு
+### Refusal to Keheliya
 
 *2024-04-03 15:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-பிணை-மறுப்பு/175-335571) · `ta`
 
-தரமற்ற இம்யூனோகுளோபுலின் ஊசியை இறக்குமதி செய்த குற்றச்சாட்டில் விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்லவின் சார்பில் தாக்கல் செய்யப்பட்ட பிணை விண்ணப்பம் கொழும்பு மேல் நீதிமன்ற நீதிபதி சுஜீவ நிஸ்ஸங்கவினால் இன்று நிராகரிக்கப்பட்டுள்ளது.
+The Colombo High Court rejected Keheliya Rambukwella's bail application, who is charged with importing substandard immunoglobulin injection.
+
+🟩
+
+The bail application filed on behalf of former Health Minister Keheliya Rambukwella, who has been interrogated on charges of importing substandard immunoglobulin injection, has been rejected by Colombo High Court Judge Sujeewa Nissanga today.
 
 ◼️
 
 [Data](articles/de30770c.json)
+
+[Extended Data](ext_articles/de30770c.ext.json)
 
 ---
 
@@ -681,6 +693,24 @@ The Railway Department is noting that the train will be operated from Colombo fr
 [Data](articles/0426cc54.json)
 
 [Extended Data](ext_articles/0426cc54.ext.json)
+
+---
+
+### පාස්කු ප්‍රහාර ප්‍රකාශය ගැන අධිකරණයට ප්‍රකාශයක් දිමේ අවශ්‍යාතවක් නෑ
+
+*2024-04-03 14:54:55* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාර-ප්‍රකාශය-ගැන-අධිකරණයට-ප්‍රකාශයක්-දිමේ-අවශ්‍යාතවක්-නෑ/11-408923) · `si`
+
+පාස්කු ප්‍රහාරය සම්බන්ධයෙන් අධිකරණය හමුවේ පෙනී සිට ප්‍රකාශයක් දීමට තමන් අකමැති බව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා මාලිගාකන්ද මහේස්ත්‍රාත් ලෝචනී අබේවික්‍රම මහත්මියට අද (03) දැනුම් දුන්නේය.
+
+පාස්කු ප්‍රහාරය එල්ල කළ පුද්ගලයින් දන්නා බවට කළ ප්‍රකාශය සම්බන්ධයෙන් සවිස්තරාත්මක ප්‍රකාශයක් රහස් පොලිසියට දී ඇති හෙයින් ඒ පිළිබඳවම මහේස්ත්‍රාත්වරිය හමුවේ ප්‍රකාශයක් දීමට තමන් අකමැති බව සිරිසේන මහතා වැඩිදුරටත් දැනුම් දුන්නේය.
+
+නීතීඥ සංදීප්ත සුරිආරච්චි මහතාගේ මෝෂමකට අනුව මෙම නඩුව කැඳවු අවස්ථාවේදී හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපතී නීතීඥ අනුජ ප්‍රේමරත්න මහතා ඒ බව දැනුම් දුන්නේය.
+
+පාස්කු ප්‍රහාරය එල්ල කළ පුද්ගලයින් තමන් දන්නා බවට හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා කළ ප්‍රකාශය සම්බන්ධයෙන් විමර්ශණ ආරම්භ කළ රහස් පොලිසිය කළ කැඳවීමට අනුව මෛත්‍රීපාල සිරිසේන මහතා රහස් පොලිසිය හමුවේ පෙනී සිට ප්‍රකාශයක් දුන් අතර ඒ පිළිබඳ නීතීපතිවරයාට දැනුම් දෙමින් තමන් ගතයුතු ඉදිරි පියවර කුමක්දැයි රහස් පොලිස් නිලධාරීහු උපදෙස් පැතූහ.
+
+...
+
+[Data](articles/b0b81b4f.json)
 
 ---
 
@@ -2327,31 +2357,5 @@ The Colombo Stock Exchange opened up; the Alls Share Price Index was up 0.08 per
 [Data](articles/04835647.json)
 
 [Extended Data](ext_articles/04835647.ext.json)
-
----
-
-### Sri Lanka 2024 growth upgraded, but recovery path narrow, says World Bank
-
-*2024-04-03 09:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-2024-growth-upgraded-but-recovery-path-narrow-says-world-bank-157269/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s economy has stabilized by the recovery path which was narrow, World Bank officials said underlining the need to maintain stability and continue on the reform path.
-
-The World Bank’s April 2024 Sri Lanka Development Update projected 2024 growth at 2.2 percent up from 1.7 percent projected last year and 2.5 percent for 2025.
-
-Sri Lanka’s economy has stabilized and it was essential for stability and reforms to continue, Country Manager Chiyo Kanda told reporters Tuesday.
-
-Sri Lanka’s inflation was low, interest rates were falling and the rupee was appreciating, World Bank’s Senior Country Economist Richard Walker said.
-
-Results were already beginning to be seen, but there was unlikely to be a quick bounce back, he said.
-
-Sri Lanka upcoming elections and the possibility of reform fatigue or reversals were, a key risk to the recovery path.
-
-Related World Bank concerned over potential reform fatigue in Sri Lanka’s election year
-
-...
-
-[Data](articles/449c8d35.json)
-
-[Extended Data](ext_articles/449c8d35.ext.json)
 
 ---

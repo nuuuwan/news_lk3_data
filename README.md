@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 11:52:43**
+As of **2024-04-03 12:17:55**
 
 ## Newspaper Stats
 
-*Scraped **16,812** Articles*
+*Scraped **16,820** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,85 +16,303 @@ dailyftlk | 910
 economynextcom | 927
 islandlk | 931
 adalk | 1,411
-tamilmirrorlk | 2,002
-adaderanalk | 2,016
-virakesarilk | 2,418
-dailymirrorlk | 2,589
-adaderanasinhalalk | 2,717
+tamilmirrorlk | 2,006
+adaderanalk | 2,017
+virakesarilk | 2,419
+dailymirrorlk | 2,590
+adaderanasinhalalk | 2,718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,800 (99.9%) of 16,812 articles have been extended.
+16,816 (100.0%) of 16,820 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### ළහිරු, නාගමුව සහ ජිනරතන හිමිට අධිකරණය දුන් නියෝගය
+### குத்தகைக்கு வழங்க தீர்மானம்
+
+*2024-04-03 12:02:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குத்தகைக்கு-வழங்க-தீர்மானம்/175-335563) · `ta`
+
+இதன்படி, உள்நாட்டு மற்றும் வெளிநாட்டு முதலீட்டாளர்களிடமிருந்து அபிலாஷைகள் அழைக்கப்பட்டுள்ளதாக துறைமுகங்கள், கப்பல் போக்குவரத்து மற்றும் விமான சேவைகள் அமைச்சர்  நிமல் சிறிபால டிசில்வா தெரிவித்தார்.
+
+பொருத்தமான முதலீட்டாளரைத் தெரிவு செய்த பின்னர் மேலதிக பணிகள் மேற்கொள்ளப்படும் என்றும் அமைச்சர் தெரிவித்தார்.
+
+இதேவேளை, மத்தல விமான நிலையத்தின் செயற்பாடுகளை இந்தியா மற்றும் ரஷ்யாவில் உள்ள இரண்டு நிறுவனங்களுக்கு மாற்றுவதற்கான பிரேரணை நிதிஅமைச்சின் அவதானத்திற்காக சமர்ப்பிக்கப்பட்டுள்ளதாகவும் அமைச்சர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/caef6123.json)
+
+---
+
+### ’’விசேட சரக்கு வரியை நீக்குவது விலைவாசி உயர்வை ஏற்படுத்தும்’’
+
+*2024-04-03 12:02:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-சரக்கு-வரியை-நீக்குவது-விலைவாசி-உயர்வை-ஏற்படுத்தும்/175-335562) · `ta`
+
+இலங்கை சுங்கத்தில் ஊழலைக் கட்டுப்படுத்தும் பொறிமுறை இல்லாத பட்சத்தில், இறக்குமதி செய்யப்பட்ட பொருட்களுக்கான விசேட சரக்கு வரியை நீக்குவது விலைவாசி உயர்வை ஏற்படுத்தும் என அத்தியாவசியப் பொருட்கள் இறக்குமதியாளர்கள் மற்றும் வர்த்தகர்கள் சங்கம் தெரிவித்துள்ளது.
+
+17 வருடங்கள் பழமையான வரிச் சட்டத்தை அடுத்த ஆண்டு ஜனவரி மாதம் முதல் நீக்குவதற்கு அமைச்சரவை தீர்மானித்துள்ளது.
+
+பொருட்களை மதிப்பீடு செய்யும் போது பெறுமதி சேர் வரி மற்றும் பிற வரிகளை விதிக்கும்போது அதிகரித்த ஊழலின் பொருட்டு, அதன் உறுப்பினர்களால் 2007 ஆம் ஆண்டு கட்டாயத்தின் பேரில் இவ்வரி விதிக்கப்பட்டதாக சங்கத்தின் பேச்சாளர் ஒருவர் டெய்லி மிரருக்குத் தெரிவித்தார்.
+
+...
+
+[Data](articles/ac09560c.json)
+
+---
+
+### Three arrested activists including Lahiru, Duminda granted bail
+
+*2024-04-03 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98392/three-arrested-activists-including-lahiru-duminda-granted-bail) · `en`
+
+Three activists, who had been arrested during a recent protest march organized by the ‘Jana Aragala Vyaparaya’ (People’s Struggle Movement) were granted bail on the orders of Colombo Fort Magistrate’s Court on Wednesday (03).
+
+Accordingly, Frontline Socialist Party (FSP) activist Duminda Nagamuwa, youth activist Lahiru Weerasekara, and Ven. Rathkarawwe Jinarathana Thero have been released on bail conditions.
+
+The trio was taken into custody during a demonstration held on 20 March during which at least 05 police officers were injured during the clashes with protesters. It had been organized by the People’s Struggle Movement based on several issues including the soaring cost of living and certain foreign agreements the government intends to sign.
+
+Police had resorted to using tear gas and water cannons to disperse the protesters in Pettah, Colombo.
+
+◼️
+
+[Data](articles/1ecd8aa4.json)
+
+[Extended Data](ext_articles/1ecd8aa4.ext.json)
+
+---
+
+### Armma's story with 5 children with 5 children in the burning of cancer
+
+*2024-04-03 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195243) · `si`
+
+Armma, a 36-year-old mother of 5 in Galnewa Jana Philanthhana, Anuradhapura, battles cancer. Her children, including those with Thalassemia, face financial hardships. Despite her husband's efforts, they struggle to afford medical treatment and education.
+
+🟩
+
+The Galnewa Jana Philanthhana village in Anuradhapura District was reported to have suffered due to severe cancer.
+
+It was identified as a cancerous condition when testing a sore throat infection for many years.
+
+From that time on, she told us that she would fight for life and life and death.
+
+WM residing in the June of January. Dinesha Kumari is a 36 year old.
+
+Her husband HM. Ajith Kumara finds the need for hire and rent.
+
+She also said her little children as Thalassemia as carriers.
+
+The mother's eldest son, the eldest son and the second daughter who is preparing for the GCE Advanced Level Examination this year's GCE Advanced Level Examination is the second daughter who is preparing for this year's eldest son.
+
+She also says that the two children are working on the other three children.
+
+She also told us that the son's education cannot bear the education activities.
+
+...
+
+[Data](articles/4df5d23d.json)
+
+[Extended Data](ext_articles/4df5d23d.ext.json)
+
+---
+
+### ”எழுத்துப் பரீட்சையின்றி செயன்முறைப் பரீட்சைக்குத் தோற்றலாம்”
+
+*2024-04-03 11:40:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எழுத்துப்-பரீட்சையின்றி-செயன்முறைப்-பரீட்சைக்குத்-தோற்றலாம்/175-335559) · `ta`
+
+பாடசாலை வீதிப் பாதுகாப்புச் சங்கத்தினால் வழங்கப்படும் சாரதி திறன் பதக்கத்தைப் பெறும் ஒவ்வொரு க.பொ.த உயர்தர மாணவர்களும், மோட்டார் போக்குவரத்து திணைக்களத்தினால் நடத்தப்படும் எழுத்துப் பரீட்சைக்குத் தோற்றாமலேயே செயன்முறைப் பரீட்சைக்குத் தோற்ற தகுதியுடையவர்கள் என போக்குவரத்து இராஜாங்க  அமைச்சர் லசந்த அழகியவன்ன தெரிவித்தார்.
+
+பாடசாலைகளில் வீதி பாதுகாப்பு மன்றங்கள் அமைத்து பதக்கங்கள் வழங்கும் நிகழ்ச்சி இன்று நடைமுறைப்படுத்தப்பட உள்ளது.இதில் ஆரம்பநிலை மாணவர்கள் முதல் உயர்தர மாணவர்கள் வரை பங்கேற்கலாம்.
+
+பல்கலைக்கழகங்களுக்குத் தெரிவுசெய்யப்படும் ஏனைய மாணவர்களைக் காட்டிலும் இந்த ஜனாதிபதி பதக்க குழுவில் பணிபுரியும் மாணவர்களுக்கு அதிக புள்ளிகளை வழங்குவதற்கான அமைப்பையும் இந்த மன்றங்கள் அமைக்கும்.
+
+பாடசாலை மற்றும் பிரதேச மட்ட உத்தியோகத்தர்களின் மேற்பார்வையில் இந்தப் பதக்கங்களை வழங்கும் முறை நடைமுறைப்படுத்தப்பட உள்ளதாக அமைச்சர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/23f5b353.json)
+
+---
+
+### Muslim leaders are sad to encourage president's Palestinian Children's Fund - Treasurer of the United Peace Federation
+
+*2024-04-03 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/180314) · `ta`
+
+Muslim leaders in Sri Lanka express regret for not promoting President Ranil Wickremesinghe's Palestinian Children's Fund, despite the fund's official release to Palestinians. The fund was raised in response to accusations against Palestinians, but some religious, political, and civil organizations have remained silent, showing hypocrisy. The community must collect more funds for the President's initiative, highlighting the need for fair policies in a developing country like Sri Lanka.
+
+🟩
+
+Sadly regrets Muslim community leaders to promote president's Palestinian Children's Fund. Former Member of the Presidential Commission and Treasurer of the United Peace Alliance (IA) that the mercy of the Palestinian children has been revealed by them.. Khalilur Rahman said.
+
+The money collected by President Ranil Wickremesinghe "for the President's Palestinian Children's Fund" recently was officially issued to the Palestinian people. As Sri Lankan Muslims, we express our sincere gratitude to the President and the humanitarians who have provided the funds for this fund.
+
+...
+
+[Data](articles/3fdf0932.json)
+
+[Extended Data](ext_articles/3fdf0932.ext.json)
+
+---
+
+### கணவரை கைகழுவி  சிறுமியுடன் இளம்பெண்  திருமணம்
+
+*2024-04-03 11:39:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவரை-கைகழுவி-சிறுமியுடன்-இளம்பெண்-திருமணம்/175-335558) · `ta`
+
+‛ஓரினச்சேர்க்கை' மோகத்தால் கணவரை விட்டுவிட்டு அவரது நெருங்கிய உறவுக்காரரின் மகளான 16 வயது சிறுமியை கடத்தி திருமணம் செய்து கணவன்-மனைவி போல் வாழ்ந்த 24 வயது இளம்பெண்ணை பொலிஸார் கைது செய்துள்ளனர்.
+
+மத்திய பிரதேச மாநிலம் கார்கோன் அருகே பாரூட் பொலிஸ் எல்லைக்குட்பட்ட உமர்காலி கிராமத்தை சேர்ந்தவர் 27 வயது இளைஞர். இவருக்கு கடந்த ஓராண்டுக்கு முன்பு திருமணம் நடந்தது. அந்த இளைஞர் 24 வயது இளம்பெண்ணை கரம் பிடித்தார்.
+
+இந்நிலையில் தான் இளம்பெண்ணுக்கும், கணவருக்கு மிகவும் நெருங்கிய சொந்தக்காரரின் 16 வயது சிறுமிக்கும் பழக்கம் ஏற்பட்டது. இந்த பழக்கம் நாளடைவில் மிகவும் நெருக்கமாக மாறி உள்ளது.
+
+இதற்கிடையே தான் கடந்த பெப்ரவரி மாதம் 27 ம் திதி திடீரென்று திருமணமான இளம்பெண் மற்றும் 16 வயது சிறுமி ஆகியோர் மாயமாகினர்.
+
+அனைத்து இடங்களிலும் தேடியும் அவர்கள் கிடைக்கவில்லை. இதையடுத்து பொலிஸில் முறைப்பாடு செய்யப்பட்டது. பொலிஸார் வழக்குப்பதிவு செய்து இருவரையும் தீவிரமாக தேடிவந்தனர். இருவரும் மாயமாகி ஒரு மாதம் கடந்தாலும் கூட பொலிஸாரால் அவர்கள் 2 பேரையும் கண்டுப்பிடிக்க முடியவில்லை.
+
+...
+
+[Data](articles/b8f0cda6.json)
+
+---
+
+### Lahiru, Nagamuwa and Jinaratana Thero
 
 *2024-04-03 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195242) · `si`
 
-ළහිරු වීරසේකර, දුමින්ද නාගමුව සහ රත්කරව්වේ ජිනරතන හිමි කොටුව මහෙස්ත්‍රාත් අධිකරණය විසින් ඇප මත නිදහස් කර තිබේ.
+Lahiru Weerasekera, Duminda Nagamuwa, and Rathakana The Fort Magistrate were released on bail yesterday.
+
+🟩
+
+Lahiru Weerasekera and Duminda Nagamuwa and Rathakana The Fort Magistrate yesterday have been released on bail.
 
 ◼️
 
 [Data](articles/729bbfa2.json)
 
+[Extended Data](ext_articles/729bbfa2.ext.json)
+
 ---
 
-### ’’திரைக்கு பின்னால் பல விஷயங்கள் நடக்கின்றன’’
+### Three Sri Lankan convicts in Rajiv Gandhi assassination case released from Tiruchi Special Camp
 
-*2024-04-03 11:30:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரைக்கு-பின்னால்-பல-விஷயங்கள்-நடக்கின்றன/175-335557) · `ta`
+*2024-04-03 11:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-Sri-Lankan-convicts-in-Rajiv-Gandhi-assassination-case-released-from-Tiruchi-Special-Camp/108-280100) · `en`
 
-இலங்கையில் 60 சதவீதத்துக்கும் அதிகமான வாக்காளர்கள் யாருக்கு வாக்களிக்க வேண்டும் என்பது குறித்து இன்னும் தீர்மானிக்கப்படாத நிலையில் இருப்பதாக அரசாங்கத்தினால் நடத்தப்பட்ட ஆய்வில் தெரியவந்துள்ளதாக ஐக்கிய தேசியக் கட்சியின் உதவித் தலைவர் அகிலவிராஜ் காரியவசம் நேற்று தெரிவித்தார்.
+TIRUCHI, April 3 (The Hindu)- Three Sri Lankan nationals convicted in the former Prime Minister Rajiv Gandhi assassination case — Murugan, Robert Payas and Jayakumar — who had been prematurely freed from prison and later detained at a special camp in Tiruchi, were released on April 2 at night.
 
-சில அரசியல் கட்சிகள் அதிக வாக்குகளைப் பெறும் என எதிர்பார்க்கப்படும் வதந்திகள் பொய்யானவை என முன்னாள் அமைச்சர் காரியவசம் ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+According to sources, upon the receipt of final clearance from the Ministry of Home Affairs to send them back to Sri Lanka, the Revenue Department which runs the Special Camp, released them.
 
-அதேவேளை, 2015ஆம் ஆண்டு ஜனாதிபதித் தேர்தலின் போது நாட்டில் ஏற்பட்ட ஆச்சரியத்தை போன்றதொரு ஆச்சரியத்தை தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்க ஏற்படுத்துவார் எனவும் அவர் தெரிவித்துள்ளார். "திரைக்கு பின்னால் பல விஷயங்கள் நடக்கின்றன, எனவே வெளியில் இருந்து பார்த்து முடிவுகளுக்கு வர வேண்டாம்," என்று அவர் இது தொடர்பாக கூறினார்.
+They were taken in a police vehicle, under heavy security, to Chennai to fly back Colombo. They are expected to board a Sri Lankan airline from Chennai airport at 10 a.m.
 
-"பல தனிநபர்களும் கட்சிகளும் ஜனாதிபதி விக்கிரமசிங்கவுக்கு தங்கள் ஆதரவை உறுதியளித்துள்ளனர், மேலும் தேர்தல் நெருங்கும்போது அவர்கள் நடவடிக்கை எடுப்பார்கள்" என்றும் அவர் கூறினார்.
+The Sri Lankan authorities are said to have provided all the travel documents to Murugan, Robert Payas and Jayakumar.
 
 ...
 
-[Data](articles/f79d0ecb.json)
+[Data](articles/c64c3788.json)
+
+[Extended Data](ext_articles/c64c3788.ext.json)
 
 ---
 
-### தேர்தல் சூட்டோடு பற்றிக் கொண்ட " கச்சதீவு"விவகாரம்  மோடியுடன் மோதும் ஸ்டாலின் !
+### There are many things happening behind the screen
+
+*2024-04-03 11:30:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரைக்கு-பின்னால்-பல-விஷயங்கள்-நடக்கின்றன/175-335557) · `ta`
+
+Akilaviraj Kariyawasam, UNP leader, claims over 60% of Sri Lankan voters undecided. He denies rumors of political party vote predictions and suggests President Wickremesinghe will be surprised by the election outcome. Kariyawasam also mentions UNP's May Day procession plans.
+
+🟩
+
+United National Party (UNP) Assistant Leader Akilaviraj Kariyawasam said yesterday that more than 60 per cent of the voters in Sri Lanka have not yet been determined to vote.
+
+Former minister Kariyawasam said at a media briefing that rumors that some political parties are expected to get more votes are false.
+
+At the same time, he said that the current President Ranil Wickremesinghe would be surprised by the surprise of the country during the 2015 presidential election.. "There are many things happening behind the screen, so don't come from the outside," he said.
+
+"Many individuals and parties have promised President Wickremesinghe their support and they will take action as they approach the election," he said.
+
+He has also announced that the United National Party will hold this year's May Day procession in front of the Tower Hall.
+
+◼️
+
+[Data](articles/f79d0ecb.json)
+
+[Extended Data](ext_articles/f79d0ecb.ext.json)
+
+---
+
+### Stalin clashes with Modi
 
 *2024-04-03 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180311) · `ta`
 
-இந்திய பாராளுமன்ற தேர்தல் சூடு பிடிக்க ஆரம்பித்து விட்டாலே  போதும்  மக்களும், வேட்பாளர்களும்  உஷாராகி  விடுவார்கள். இலவசங்கள், பண நோட்டுகள் என அனைத்தும் மக்களை துரத்த ஆரம்பித்து விடும்.  அது மாத்திரமன்றி அரசியல் தலைவர்களும் ஆழ்ந்த உறக்கத்தில் இருந்து விழித்துக் கொண்டவர்கள் போன்று  தங்களை சுதாகரித்துக்கொள்வார்கள். மறந்து போன விடயங்கள் பலவும்  அவர்களுக்கு நினைவுக்கு வந்து விடும். சபாஷ் சரியான போட்டி என்ற நிலையில் தேர்தல் களம் சூடேறிவிடும். அந்த நிலைதான் தமிழகத்தில் தொடக்கியுள்ளது.
+It seems you've provided a detailed narrative on the historical and political context surrounding the Kachchativu issue, including the involvement of various political figures and parties. This issue has been a point of contention for many years, involving territorial disputes, fishing rights, and the broader geopolitical landscape of India and Sri Lanka.
 
-தமிழகத்தில் உள்ள 39 தொகுதிகளுக்கும் ஏப்ரல் 19ஆம் திகதி ஒரே கட்டமாக வாக்குப்பதிவு நடைபெற்று, ஜூன் 4ஆம் திகதி வாக்கு எண்ணும் பணி ஆரம்பமாகும்.
 
-லோக்சபா இடங்களின் அடிப்படையில் தமிழ்நாடு ஐந்தாவது இடத்தில் உள்ளது. கடந்த  2019 தேர்தலில் திமுக தலைமையிலான மதச்சார்பற்ற முற்போக்குக் கூட்டணி மொத்தமுள்ள 39 இடங்களில் 38 இடங்களை கைப்பற்றி , அமோக வெற்றி பெற்றது.
+
+Given the complexity and the historical depth of the issue, addressing all the points you've raised would require a comprehensive analysis that goes beyond the scope of a single response. However, I can provide a brief overview and some insights based on the information you've shared:
+
+
+
+1. **Tax and Flood Relief**: The specifics of why Tamil Nadu's tax proposal was met with a 29-penny return by the Union Government and the absence of a one-rupee flood relief during natural disasters are likely tied to broader political and economic considerations. These decisions would involve evaluating the financial implications for the Union Government, the strategic importance of Tamil Nadu's resources, and the overall budgetary constraints.
+
+
+
+2. **BJP's Ten-Year Rule in Tamil Nadu**: The impact of the BJP's rule in Tamil Nadu over the past decade would depend on various factors, including policy implementation, governance, and the party's approach to development and welfare. The effectiveness of the BJP's policies in Tamil Nadu would be a subject of debate among political analysts and the public.
+
+
+
+3. **Kachchativu Issue**: The Kachchativu issue is deeply rooted in historical and territorial disputes between India and Sri Lanka. The transfer of Kachchativu to Sri Lanka in 1974 was a significant event that has had lasting implications for the fishing communities in Tamil Nadu. The controversy surrounding this decision and its aftermath has been a point of contention among various political parties and has influenced the broader political landscape in Tamil Nadu.
+
+
+
+4. **DMK's Relationship with Congress**: The relationship between the DMK and Congress, especially in the context of the Kachchativu issue, reflects the complexities of Indian politics. The DMK's stance on the issue, as well as its alliance with Congress, has been influenced by a range of factors, including historical grievances, political strategy, and the broader dynamics of power in Indian politics.
+
+
+
+5. **Kachchativu's Geography and Historical Context**: Kachchativu's geographical location and its historical significance as a fishing ground for Tamil Nadu's fishermen have been central to the dispute. The island's strategic importance and the rights of its inhabitants have been at the heart of the controversy, with various political actors and international bodies involved in the resolution of the issue.
+
+
+
+In summary, the Kachchativu issue and its broader implications for Tamil Nadu's politics and governance are multifaceted and deeply intertwined with the region's history, geopolitical dynamics, and the strategic interests of India and Sri Lanka. Addressing these issues requires a nuanced understanding of the historical context, the political dynamics at play, and the broader geopolitical implications.
+
+🟩
+
+When the Indian parliamentary election begins to warm up, people and candidates will be alerted. Free, cash banknotes will start chasing people.It is only the political leaders of the party, as they awakened from deep sleep. Many things that have been forgotten will be remembered. The electoral field will be heated by the right rivalry. That is the case in Tamil Nadu.
+
+Voting for the 39 constituencies in Tamil Nadu will be held on April 19, and the counting of voting will begin on June 4.
+
+Tamil Nadu ranks fifth in terms of Lok Sabha places. In the 2019 election, the DMK -led secular progressive Alliance won 38 seats of a total of 39 seats.
 
 ...
 
 [Data](articles/1700df79.json)
 
+[Extended Data](ext_articles/1700df79.ext.json)
+
 ---
 
-### බස් රැජිණියන් සිරිපා කරුණා කළ හැටි
+### How Quene Queen Kindi Karuna
 
 *2024-04-03 11:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195241) · `si`
 
-මෙරට විශේෂ චාරිකා සඳහා වෙන්කර ඇති පුද්ගලික බස්රථ 25ක් එක්ව සිදුකළ වටිනා පුණ්‍යකර්මයක් ගැන තොරතුරු අද දෙරණට වාර්තා වුණි.
+Ada Derana reports 25 private buses in Sri Lanka allocated for special trips, providing free food and drinks. The buses, showcased through Hatton and Nallatuniya, transport devotees from various locations including Matara, Galle, Hiniduma, Kalmulana, Gampaha, Udugampola, Ambalangoda, and Pilgampola.
 
-ඒ බැතිමතුන් 1,300ක් කිසිදු අයකිරීමක් නොමැතිව නොමිලේ ආහාර පාන ලබාදී සිරිපා කරුණා කරවීමට අවස්ථාව සලසා දීමයි.
+🟩
 
-හැටන් - නල්ලතන්නිය මාර්ගයෙන් මෙම බස්රථ ගමන් ගන්නා අයුරු දැක්වෙන විචිත්‍රවත් රූප රාමු පෙළක් ද අද දෙරණට ලැබී තිබිණි.
+Ada Derana reports Derana about 25 private buses allocated for special trips in Sri Lanka.
 
-හම්බන්තොට, මාතර, ගාල්ල, හිනිදුම, මැදමුලන, තංගල්ල, කුරුණෑගල, ගම්පහ, උඩුගම්පොළ, අම්බලන්ගොඩ, පිළිමතලාව ආදි ප්‍රදේශ රැසකින් බැතිමතුන් විශාල පිරිසක් ශ්‍රී පාද වන්දනාවේ යෙදී සිටියහ.
+1,300 of those devotees provide free food and drinks without any charges.
 
-ගමන ආරම්භ කළ අවස්ථාවේ සිට බැතිමතුන් සිය නිවෙස්වලට යන අවස්ථාව දක්වාම ප්‍රවාහනය හා ආහාර ආදී සියලු සංග්‍රහ සත්කාර එම බස්රථ හිමියන් විසින් දරනු ලැබීම මෙහි විශේෂත්වයයි.
+Today, Ada Derana also received a vivid framework shown by the buses through Hatton and Nallatuniya.
+
+A large number of devotees were pilgrimage from Matara, Matara, Galle, Hiniduma, Kalmulana, Gampaha, Udugampola, Gampaha, Udugampola, Ambalangoda and Pilgampola.
+
+The specialty is the bus owners of the bus owners, transportation and food, from the time of the journey.
 
 ◼️
 
 [Data](articles/d7c327c4.json)
+
+[Extended Data](ext_articles/d7c327c4.ext.json)
 
 ---
 
@@ -111,6 +329,8 @@ A spokesman for the Association told Daily Mirror that the levy was introduced w
 ...
 
 [Data](articles/cb610f6e.json)
+
+[Extended Data](ext_articles/cb610f6e.ext.json)
 
 ---
 
@@ -129,6 +349,8 @@ The Sri Lankan authorities are said to have provided all the travel documents to
 ...
 
 [Data](articles/4b06ab7f.json)
+
+[Extended Data](ext_articles/4b06ab7f.ext.json)
 
 ---
 
@@ -362,21 +584,27 @@ Dr. Mendis is currently located in Washington DC, while serving as a distinguish
 
 ---
 
-### දරු පවුලට කෑම බීම දීමට නොහැකිව අසරණ වී පියා වස බීලා
+### The child's father poison, helpless for the child to eat food
 
 *2024-04-03 10:25:54* · [`adalk`](https://www.ada.lk/breaking_news/දරු-පවුලට-කෑම-බීම-දීමට-නොහැකිව-අසරණ-වී-පියා-වස-බීලා/11-408915) · `si`
 
-තිස්සමහරාම රන්මුදුගම ප්‍රදේශයේ දැඩි ආර්ථික අපහසුතා මැද ජීවත් වූ දෙදරු පියකු වසක් ශරීරගත වීමෙන් මියගොස් ඇතැයි තිස්සමහාරාම පොලිසිය පවසයි.
+A father in Tissamaharama, facing economic hardship, allegedly poisoned his family, leading to their deaths. The wife, unable to afford medical help, was hospitalized after her husband's death.
 
-තම පවුලට ආහාර සපයා ගැනීමට නොහැකිව සිටි බව කියන මෙම දෙදරුපියා වස පානය කළ බවට පොලීසිය සැක පල කරයි.
+🟩
 
-තම පවුල දින කිහිපයක් වේලක් ඇර වේලක් මඤ්ඤොක්කා ආහාරයට ගත් බවත් දරුවන්ට කෑම බීම නොදී ඔහුට ජීවත් වී පලක් නැති බව කියමින් හඬ හඬා සිටි බවට තිස්සමහාරාම පොලීසියට තොරතුරු ලැබී ඇත.
+Tissamaharama Police, a father of two people who lived in the middle of heavy economic difficulties in Ranmudagama, the Tissamaharama police said.
 
-බිම ඇදගෙන වැටි වමන කරමින් සිටි තම ස්වාමිපුරුෂයා වස පානය කරන්නට ඇති කියන සැකය මත  සුවසැරි ගිලන් රථය ගෙන්වා රෝහල්ගත කිරීමට කටයුතු කර බවද බිරිඳ පොලීසියටසඳහන් කර ඇත. සිද්ධිය සම්බන්ධ ව සොයා බැලීම සඳහා පොලීසිය පැමණීමෙන් අතරතුර ප්‍රදේශයේ සමෘද්ධි නිලධාරයා එම ස්ථානයට පැමිණ සිටි බවත් නිලධාරියා බිරිඳගෙන් සමෘද්ධිය නොමැතිද යන වග විමසා ඇත. ඇය සඳහන් කර ඇත්තේ මීට වසරකට පෙර සමෘද්ධිය කපා ඉවත්කර වගකි.ඒ වෙනුවට අස්වැසුම ලබාදීමට කටයුතු කරන බවත් එම නිලධාරීන් සඳහන් කළද මෙතෙක් කිසිදු දීමනාවක් නොලැබුණු බව සඳහන් කර ඇති බව තිස්සමහාරාම පොලීසිය පවසයි.
+Police suspect that the family was said to have had a poison that his family was unable to provide food.
+
+The Tissamaharama Police received information that the manioc was eaten for his family for several days and that he had no longer lived and he had little or her children.
+
+The wife has taken steps to be taken to hospital and hospitalized that her husband has been dragged to poison and to poison.. The Samurdhi officer in the area had come to the scene and there was no prosperity from the wife of the officer. She said she was cut off the prosperity a year ago.
 
 ◼️
 
 [Data](articles/e0ba662a.json)
+
+[Extended Data](ext_articles/e0ba662a.ext.json)
 
 ---
 
@@ -395,6 +623,8 @@ Licensed banks have to set up BRUs by mid-May 2024 and fully comply with the gui
 ...
 
 [Data](articles/53b1618b.json)
+
+[Extended Data](ext_articles/53b1618b.ext.json)
 
 ---
 
@@ -538,6 +768,8 @@ The Colombo Stock Exchange opened up; the Alls Share Price Index was up 0.08 per
 
 [Data](articles/04835647.json)
 
+[Extended Data](ext_articles/04835647.ext.json)
+
 ---
 
 ### Sri Lanka 2024 growth upgraded, but recovery path narrow, says World Bank
@@ -561,6 +793,8 @@ Related World Bank concerned over potential reform fatigue in Sri Lanka’s elec
 ...
 
 [Data](articles/449c8d35.json)
+
+[Extended Data](ext_articles/449c8d35.ext.json)
 
 ---
 
@@ -990,6 +1224,8 @@ Etihad which operates 10 weekly flights will increase operations to 13 times wee
 
 [Data](articles/acb1820f.json)
 
+[Extended Data](ext_articles/acb1820f.ext.json)
+
 ---
 
 ### 7.4-magnitude quake strikes off Taiwan’s east coast, sparking tsunami warnings
@@ -1391,6 +1627,8 @@ The Speaker stated this when responding to a request from opposition parliamenta
 ...
 
 [Data](articles/3eb0089c.json)
+
+[Extended Data](ext_articles/3eb0089c.ext.json)
 
 ---
 
@@ -2025,183 +2263,5 @@ However, it is doubtful that the relatives of the Girlfriend has told the relati
 [Data](articles/23ce2c8a.json)
 
 [Extended Data](ext_articles/23ce2c8a.ext.json)
-
----
-
-### Fire at nightclub in Turkey’s Istanbul kills at least 29
-
-*2024-04-02 21:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fire-at-nightclub-in-Turkeys-Istanbul-kills-at-least-29/108-280052) · `en`
-
-(BBC) - At least 29 people have been killed and one injured in a fire in a nightclub in Turkey.
-
-The Masquerade club, in the basement of a high-rise building in Istanbul, was closed and being renovated during the day.
-
-The fire broke out just after midday, Istanbul governor Davut Gül said, adding that the cause was unclear.
-
-Mr Gül said that the victims of the fire were thought to have been involved in the renovation work.
-
-Five people have been arrested in connection with the fire as investigations continue.
-
-They include three workplace officials, the nightclub manager and the manager of the renovations.
-
-Firefighters and other first responders surrounded the charred and smoking entrance to the club, which occupies two floors underneath a 16-storey residential building in the city's Gayrettepe district.
-
-The number of victims has rapidly increased throughout the afternoon, with the governor's office issuing a string of updates.
-
-...
-
-[Data](articles/b42a1af5.json)
-
-[Extended Data](ext_articles/b42a1af5.ext.json)
-
----
-
-### The health strike ends
-
-*2024-04-02 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195225) · `si`
-
-The Health Trade Unions' strike ends after three weeks. Ravi Kudmith, Chairman of the Indigenous Association of Health Professional Association, announced the decision from the Ministry of Health. Doctors will receive a parallel allowance, similar to their gift, with an additional 50% of their May salary.
-
-🟩
-
-The strike implemented by the Health Trade Unions has been suspended for three weeks.
-
-The Chairman of the Indigenous Association of Health Professional Association Ravi Kudmith said that this decision was taken as a letter from the Ministry of Health.
-
-Accordingly, he will also receive parallel allowance to doctors, which will be parallel to the gift of doctors and 50% of them will be added to 50% of the salary in May.
-
-◼️
-
-[Data](articles/d222cc79.json)
-
-[Extended Data](ext_articles/d222cc79.ext.json)
-
----
-
-### Health trade unions call off ongoing strike
-
-*2024-04-02 20:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98382/health-trade-unions-call-off-ongoing-strike) · `en`
-
-The ongoing trade union action launched by the health sector workers was called off on Tuesday evening (02).
-
-◼️
-
-[Data](articles/daf90c6f.json)
-
-[Extended Data](ext_articles/daf90c6f.ext.json)
-
----
-
-### Health sector trade unions call off strike
-
-*2024-04-02 20:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98382/health-sector-trade-unions-call-off-strike) · `en`
-
-The ongoing trade union action launched by the health sector workers has been called off.
-
-The trade unions affiliated with the Health Trade Union Alliance were planning to resort to an indefinite strike tomorrow (03) after the discussion that was originally scheduled to be held on Monday with the ministerial authorities was deferred to this evening.
-
-However, as the meeting convened at the Presidential Secretariat earlier today ended on a positive note, the health sector trade unions arrived at a decision to call off the planned indefinite strike action.
-
-The health workers expanded their token strike launched on Monday (01) at five state hospitals. As such, they engaged in a 4-hour strike at 10 selected state hospitals starting at 6.30 a.m. today (02).
-
-◼️
-
-[Data](articles/ec2b0f21.json)
-
-[Extended Data](ext_articles/ec2b0f21.ext.json)
-
----
-
-### Have Sri Lanka become more aggressive under De Silva’s captaincy?
-
-*2024-04-02 20:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Have-Sri-Lanka-become-more-aggressive-under-De-Silvas-captaincy/108-280051) · `en`
-
-Colombo, April 2 (Daily Mirror) - Sri Lanka were just three wickets away from claiming a comfortable 2-0 series win against Bangladesh at the end of fourth day's play in the ongoing second Test in Chattogram.
-
-Newly appointed Test captain Dhananjaya de Silva is on the verge of securing back to back series victories on a relatively decent pitches. Although Bangladesh and Afghanistan cannot be considered as top class teams such as Australia or India, they are no longer easy games.
-
-...
-
-[Data](articles/981f7603.json)
-
-[Extended Data](ext_articles/981f7603.ext.json)
-
----
-
-### Interim burn related to liquor licenses
-
-*2024-04-02 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195224) · `si`
-
-The Supreme Court issued an interim injunction preventing liquor license issuance, following a dispute involving the Liquor Licensing Licenshyan's Association. President's Counsel Sanjeewa Jayawardena argued that the licenses violated the Excise Act's basic needs. The court later released the suspects.
-
-🟩
-
-The Supreme Court today issued an interim injunction today, preventing liquor licenses in the Excise Act.
-
-The interim injunction has been issued to the Supreme Court under the aftermath of the Supreme Court following a few parties including the Liquor Licensing Licenshyan's Association.
-
-President's Counsel Sanjeewa Jayawardena, who appeared for the petitioner, and other lawyers accused the issuance of liquor license as the law of the courts.
-
-President's Counsel Jayawardene has pointed out that the issuance of certain licenses have violated even the basic needs of the Excise Rebuments.
-
-Accordingly, the President's Counsel, including the Presidential Attorneys and other lawyers had asked the court to issue the allocation of the Excise Act and regulations.
-
-The suspects were later released by the Supreme Court Bench.
-
-◼️
-
-[Data](articles/f30a4b70.json)
-
-[Extended Data](ext_articles/f30a4b70.ext.json)
-
----
-
-### Building expressways is a myth till debt restructuring process completed: Bandula
-
-*2024-04-02 20:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Building-expressways-is-a-myth-till-debt-restructuring-process-completed-Bandula/108-280050) · `en`
-
-Colombo, April 02 (Daily Mirror) - Cabinet spokesman and Minister Bandula Gunawardana said today that completing the expressway structure of the country has become a myth till the debt restructuring process is finalized.
-
-"Even I hope of completing the expressway system in the country as soon as possible. But we are unable to get loans until the debt restructuring process is finalized," he said.
-
-"We can only think of completing expressways after the debt restructuring process of the Road Development Authority (RDA) is completed," he further said.
-
-Moreover, he said there is no truth in handing over the daily operations and management of highways to a private company.
-
-The Ministry had approved the transfer of daily operations and management of expressways from the Road Development Authority (RDA) to a state-owned company called Sahasya Investments (SIL).
-
-SIL is a 100 percent state-owned company under the Treasury and the RDA.
-
-...
-
-[Data](articles/079adbc3.json)
-
-[Extended Data](ext_articles/079adbc3.ext.json)
-
----
-
-### Release from Trichy Special Camp: Murugan, Bayas, Jayakumar
-
-*2024-04-02 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180279) · `ta`
-
-Murugan, Bayas, and Jayakumar, released from Trichy Special Camp for Rajiv Gandhi's murder charge, will arrive at Katunayake airport tomorrow at 11.30 am. They were among 33 released from jail in 2022. Shantan, another involved, died last month.
-
-🟩
-
-Murugan, Robot Bayas and Jayakumar, who were detained at the Trichy special camp on Rajiv Gandhi's murder charge, will be brought to the country.
-
-It is reported that the trio will arrive at the Katunayake airport at 11.30 am tomorrow.
-
-In the Rajiv Gandhi assassination case, all those who were in jail for 33 years were released in the Trichy special camp after being released in 2022.
-
-In this, Shantan died last month. Subsequently his body was well -had been in Jaffna.
-
-In this case, the demand for the other three to be sent to Sri Lanka soon
-
-◼️
-
-[Data](articles/91102bc1.json)
-
-[Extended Data](ext_articles/91102bc1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 03:51:02**
+As of **2024-04-04 04:03:20**
 
 ## Newspaper Stats
 
-*Scraped **16,981** Articles*
+*Scraped **16,989** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 150
 bbccomsinhala | 177
 dbsjeyarajcom | 207
 newsfirstlk | 363
-dailyftlk | 916
+dailyftlk | 924
 islandlk | 931
 economynextcom | 942
 adalk | 1,430
@@ -26,83 +26,259 @@ adaderanasinhalalk | 2,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,976 (100.0%) of 16,981 articles have been extended.
+16,981 (100.0%) of 16,989 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### பட்டிருப்பு வலயக் கல்விப் பணிப்பாளரை இடமாற்றம் செய்யவேண்டாம்; பெற்றோர்கள் கவனயீர்ப்பு போராட்டம்
+### Dhammika Fernando re-elected Chairman of Free Trade Zone Manufacturers’ Association
+
+*2024-04-04 03:42:59* · [`dailyftlk`](https://www.ft.lk/business/Dhammika-Fernando-re-elected-Chairman-of-Free-Trade-Zone-Manufacturers-Association/34-760293) · `en`
+
+Tropical Findings Ltd., Dhammika Fernando was re-elected as the Chairman of the Free Trade Zone Manufacturers Association (FTZMA) at the 43rd Annual General Meeting held at “Courtyard by Marriott Colombo” on 28 March 2024.
+
+Flintec Transducers Ltd., Managing Director Tyronne Weckasinghe was elected as the Honorary Secretary of the FTZMA, Lalan Rubber Ltd. CEO Manjula Mahadanaarachchi was elected as the Honorary Treasurer while ATG Ceylon Ltd. Managing Director Fazal Abdeen and Screenline Holdings Managing Director Nishantha Bakmeege as Vice Chairmen. The rest of the Executive Committee was elected through a distinguished gathering of C-suite executives of all Board of Investment member enterprises countrywide.
+
+Malaysian High Commissioner in Sri Lanka Badli Hisham Adam was the Chief Guest at the AGM while BOI Director General Renuka Weerakoon was the Guest of Honour.
+
+...
+
+[Data](articles/fd951854.json)
+
+---
+
+### Premium International announces successful completion and handing over of German – Sri Lanka Friendship Hospital for Women in Galle
+
+*2024-04-04 03:40:43* · [`dailyftlk`](https://www.ft.lk/business/Premium-International-announces-successful-completion-and-handing-over-of-German-Sri-Lanka-Friendship-Hospital-for-Women-in-Galle/34-760292) · `en`
+
+The German – Sri Lanka Friendship Hospital for Women in Galle, was declared open on 27 March 2024, by President Ranil Wickramasinghe and Minister for Health Dr. Ramesh Pathirana. With a capacity of 640 beds and an ultramodern hospital complex spanning over 500,000 sqft, the new facility stands as South Asia’s largest, most modern and advanced maternity hospital.
+
+The latter stages of this long-delayed project was undertaken and completed by Premium International – Sri Lanka’s only integrated healthcare technology and infrastructure solutions providers. The company was responsible for sourcing, supplying and installation of majority of the medical and non-medical equipment, along with required civil and MEP engineering works.
+
+...
+
+[Data](articles/99dac576.json)
+
+---
+
+### Visa sees over 35% surge in debit card spends; trend expected to continue in Avurudu season
+
+*2024-04-04 03:38:42* · [`dailyftlk`](https://www.ft.lk/business/Visa-sees-over-35-surge-in-debit-card-spends-trend-expected-to-continue-in-Avurudu-season/34-760291) · `en`
+
+Out of the total domestic spends on debit cards, the share of in-store spending is 7 times that of e-commerce.
+
+Last holiday season saw over 20% growth in Visa debit transactions vis-à-vis 2022.
+
+Visa, the global leader in digital payments, this week announced that Visa debit card spends saw a significant increase of over 35% in the past year, indicating healthy growth of digital payments in Sri Lanka. This increase is buoyed by a 30%+ increase in face-to-face spends and over 40% increase in e-commerce spends. As the Tamil and Sinhala New Year celebrations commence in the country, retail transactions are picking up with more active shoppers during the festive period. Consumers are increasingly paying by debit card, opting for safer, simpler, and more convenient transactions.
+
+...
+
+[Data](articles/98818159.json)
+
+---
+
+### CoPF leads overhaul of Microfinance Bill
+
+*2024-04-04 03:36:49* · [`dailyftlk`](https://www.ft.lk/business/CoPFleads-overhaul-of-Microfinance-Bill/34-760290) · `en`
+
+The Committee on Public Finance (CoPF) Chaired by Dr. Harsha de Silva has emerged as a driving force in reshaping the Microfinance and Credit Regulatory Authority Bill, signalling a key turning point in inclusive policymaking.
+
+Drawing on insights from an array of stakeholders, including community-based organizations, transparency advocates, think tanks, and fintech companies, the CoPF played a pivotal role in reshaping the proposed legislation.
+
+Initially introduced by the Finance Ministry, the Bill faced scrutiny during CoPF deliberations, with stakeholders expressing concerns that its current iteration could inadvertently impede microfinance activities in Sri Lanka.
+
+...
+
+[Data](articles/0b0eb073.json)
+
+---
+
+### US Ambassador commends Sri Lanka’s progress on IMF program
+
+*2024-04-04 03:35:58* · [`dailyftlk`](https://www.ft.lk/business/US-Ambassador-commends-Sri-Lanka-s-progress-on-IMF-program/34-760289) · `en`
+
+The US Ambassador to Sri Lanka Julie Chung yesterday commended that Sri Lanka has made great progress on the International Monetary Fund’s (IMF) Extended Fund Facility (EFF) program.
+
+“We hope Sri Lanka can take the final steps necessary to unlock the next round of funding that will promote economic stability, foster growth, and improve the welfare of the people of Sri Lanka,” she said via ‘X’ following a meeting with State Minister of Finance Shehan Semasinghe ahead of his trip to Washington for the IMF Spring Meeting.
+
+She added that the IMF Spring Meeting is an opportunity for policymakers, economists, and stakeholders to collaborate on finding solutions to global economic challenges and promote international economic cooperation.
+
+◼️
+
+[Data](articles/6bb61876.json)
+
+---
+
+### France assures unwavering support for SL’s debt restructuring process
+
+*2024-04-04 03:33:58* · [`dailyftlk`](https://www.ft.lk/business/France-assures-unwavering-support-for-SL-s-debt-restructuring-process/34-760288) · `en`
+
+State Minister of Finance Shehan Semasinghe stated yesterday that France’s unwavering support for the debt restructuring process has been guaranteed by France’s ambassador to Sri Lanka and the Maldives, Jean-François Pactet.
+
+“We engaged in discussions regarding the progress achieved in the debt restructuring process and assured France’s unwavering support,” he said via ‘X’.
+
+Semasinghe said exchanged perspectives on the future financial collaboration between the Governments of Sri Lanka and France.
+
+“It was emphasised that France will continue its constructive engagement with the Official Creditor Committee to reinforce debt sustainability in Sri Lanka,” he added.
+
+The State Minister also said the Ambassador commended the Government’s dedicated efforts and the implemented reforms agenda aimed at fostering the stability of the Sri Lankan economy.
+
+◼️
+
+[Data](articles/b31afca7.json)
+
+---
+
+### Supermarkets to offer Rs. 5 discount for reusable bags in environmental initiative
+
+*2024-04-04 03:32:38* · [`dailyftlk`](https://www.ft.lk/business/Supermarkets-to-offer-Rs-5-discount-for-reusable-bags-in-environmental-initiative/34-760287) · `en`
+
+In a move towards environmental sustainability, supermarket heads have unanimously agreed to offer a Rs. 5 discount to consumers who bring reusable bags for purchases exceeding Rs. 500.
+
+The decision was reached during a meeting of the Sectoral Oversight Committee on Environment, Natural Resources and Sustainable Development chaired by MP Ajith Mannapperuma recently.
+
+Representatives from leading supermarkets including Arpico Super Center, Keells, Cargills Food City, Laughfs Super and Spar were present at the committee meeting.
+
+In addition, heads of ready-made garment shops and pen manufacturing establishments were also summoned to discuss strategies for reducing plastic and polythene usage, considering their significant contribution to plastic waste generation in Sri Lanka.
+
+During the meeting, the Committee Chair highlighted the detrimental effects of excessive polythene and plastic usage and urged supermarkets to take proactive measures to address this issue.
+
+...
+
+[Data](articles/3e4d3f4b.json)
+
+---
+
+### Hayleys Fentons wins Merit Award at Best Management Practices Company Awards 2024
+
+*2024-04-04 03:32:08* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fentons-wins-Merit-Award-at-Best-Management-Practices-Company-Awards-2024/34-760286) · `en`
+
+Hayleys Fentons Ltd., Sri Lanka’s No. 1 Solar EPC company and MEP contractor, commemorates its first-ever award at the recent “Best Management Practices Company Awards (BMPC) 2024”, recognising exceptional management practices.
+
+The Best Management Practices Company Awards are organised by the esteemed Institute of Chartered Professional Managers of Sri Lanka (CPM, Sri Lanka).
+
+“We are proud to receive this award from CPM Sri Lanka,” said Hayleys Fentons Ltd. Managing Director Hasith Prematillake. “This recognition serves as a strong validation of our commitment to continuous improvement and the tireless efforts of our team in upholding the highest standards of management practices.
+
+“We firmly believe that our unwavering focus on best practices will continue to be a significant driver of its growth and achievements.”
+
+...
+
+[Data](articles/0ddc663e.json)
+
+---
+
+### Do not relocate the Director of Education of the Zonal Education;Vigilante struggle of parents
 
 *2024-04-04 03:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/180376) · `ta`
 
-கடந்த சில நாட்களாக பட்டிருப்பு வலயக் கல்விப் அலுவலகத்திற்கு எதிராக சிலரின் தூண்டுதலில் நடைபெறும் போராட்டங்களுக்கு எதிராக புதன்கிழமை (4) பெற்றோர்கள் வலயக் கல்விப் மணிமனைக்கு முன்யு கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டனர்.
+Parents protest against the Director of Education's relocation to rural schools in Pattaru Zone. They met with provincial education officials, presenting their concerns.
 
-போராட்டத்தில் ஈடுபட்ட பெற்றோர்கள் நேர்மையான வலயக் கல்விப் பணிப்பாளர் எங்களுக்கு தொடர்ச்சியாக வேண்டும்,  கிராமப்புற பாடசாலைகளை வாழவைக்க வந்த வலயக் கல்விப் பணிப்பாளரை வேலை செய்ய விடு, கெளரவ ஆளுநரே எமது பிள்ளைகளின் கல்வி முன்னேற்றத்தில் அக்கறை காட்டும் வலயக் கல்விப் பணிப்பாளரை வேலை செய்ய விடு,  வலயக் கல்விப் பணிப்பாளரை சுயமாக இயங்கவிடு போன்ற பதாதைகளை தாங்கியவாறு வலயக் கல்வி அலுவலகம் முன்பு இவ் கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டனர்.
+🟩
 
-போராட்டத்தில் ஈடுபட்ட பெற்றோர்கள் வலயத்துக்கு வருகை தந்திருந்த மாகாண கல்வி அதிகாரிகளை சந்தித்து தங்களது மகஜரை கையளித்தனர்.
+For the past few days, parents on Wednesday (4) have been engaged in a protest protest against the protests against the Pattaru Zone Education Office.
+
+Parents who are involved in the struggle should be continuously for us, the Director of the Zonal Education Director who came to live in rural schools, the Hon.They were involved in the protest.
+
+The protesting parents met the provincial education officials who had visited the Zone and handed over their mahaj.
 
 ◼️
 
 [Data](articles/7b80ba96.json)
 
+[Extended Data](ext_articles/7b80ba96.ext.json)
+
 ---
 
-### வடமாகாண பிரதம செயலாளர் எல்.இளங்கோவனுடன் இந்திய உதவித்துணைத்தூதுவர் சாய் முரளி சந்திப்பு!
+### Indian Ambassador Sai Murali meets Northern Province Chief Secretary L. Ilangovan
 
 *2024-04-04 03:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/180375) · `ta`
 
-வடமாகாண பிரதம செயலாளர் எல்.இளங்கோவன் அவர்களுக்கும், யாழ்ப்பாண இந்திய உதவித்துணைத்தூதுவர் சாய் முரளி அவர்களுக்கும் இடையிலான சந்திப்பு ஒன்று புதன்கிழமை (3) மாலை யாழ்ப்பாணம் மருதடி வீதியில் அமைந்துள்ள இந்திய தூதர அலுவலகத்தில் நடைபெற்றது.
+Jaffna Indian Ambassador Sai Murali met Northern Province Chief Secretary L. Ilangovan to discuss youth and startup development, skills, and social involvement, with the Government of India's assistance.
 
-இச் சந்திப்பில் வட மாகாணத்தில் இளைஞர்கள் மற்றும் ஸ்டார்ட்அப் சுற்றுச் சூழலை மையமாகக் கொண்டு அபிவிருத்தி நடவடிக்கைகள், திறன் மேம்பாடு மற்றும் சமூக ஈடுபாடு பற்றியும் இந்திய அரசாங்கத்தின் உதவியுடன் கல்விக்காக மேற்கொள்ளும் திட்டங்கள் பற்றியும் விரிவாக கலந்துரையாடப்பட்டன.
+🟩
 
-இதில் யாழ்ப்பாண இந்திய உதவித்துணைத் தூதுவர் தலைமை அதிகாரி பாஸ்கர் உள்ளிட்டவர்கள் கலந்துகொண்டனர்.
+A meeting between Northern Province Chief Secretary L. Ilangovan and Jaffna Indian Ambassador Sai Murali was held on Wednesday evening at the Indian Embassy at Maruthadi Road, Jaffna.
+
+The meeting was discussed in detail about the youth and startup environment in the Northern Province, focusing on development activities, skills development and social involvement and the help of the Government of India.
+
+Jaffna Indian Ambassador Bhaskar and others were present.
 
 ◼️
 
 [Data](articles/0542ef79.json)
 
+[Extended Data](ext_articles/0542ef79.ext.json)
+
 ---
 
-### மலையக மக்களின் பல்துறை பின்னடைவு குறித்து ஆராயும் செயற்திட்டம் ஆரம்பம் - இலங்கை மனித உரிமைகள் ஆணைக்குழு நடவடிக்கை
+### The Human Rights Commission of Sri Lanka
 
 *2024-04-04 03:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180374) · `ta`
 
-நாட்டின் ஏனைய சமூகங்களுடன் ஒப்பிடுகையில் பல்வேறு துறைகளிலும் மலையக சமூகம் பின்தங்கிய நிலையில் இருப்பதாக சுட்டிக்காட்டியுள்ள இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் ஆணையாளர் பேராசிரியர் ரி.தனராஜ், மலையக மக்களுக்குரிய உரிமைகள் மற்றும் வசதிகள் பெற்றுக்கொடுக்கப்படாமைக்கான காரணங்கள் பற்றியும் அவர்களை தேசிய ரீதியில் மேம்படுத்துவதற்கு முன்னெடுக்கப்படவேண்டிய நடவடிக்கைகள் பற்றியும் ஆராய்ந்து, உண்மைத்தகவல்களைக் கண்டறிந்து, அறிக்கை சமர்ப்பிப்பதற்கான செயற்திட்டமொன்றை ஆணைக்குழு முன்னெடுத்திருப்பதாகத் தெரிவித்துள்ளார்.
+Professor R. Danaraj, Commissioner of Sri Lanka's Human Rights Commission, highlighted the upcountry community's disadvantages, including lower literacy and higher poverty rates. He aims to address these issues by collecting data on their challenges and submitting a report to the President.
 
-இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் புதிய தவிசாளர் மற்றும் ஆணையாளர்கள் கடந்த ஆண்டு தமது கடமைகளைப் பொறுப்பேற்றுக்கொண்ட நிலையில், ஆணைக்குழுவின் செயற்பாடுகள் குறித்துத் தெளிவுபடுத்தும் நோக்கிலான ஊடகவியலாளர் சந்திப்பு நேற்று புதன்கிழமை கொழும்பிலுள்ள இலங்கை மன்றக்கல்லூரியில் நடைபெற்றது. இச்சந்திப்பில் கலந்துகொண்டு கருத்து வெளியிடுகையிலேயே மனித உரிமைகள் ஆணைக்குழுவில் கல்வி மற்றும் பயிற்சி வழங்கல் பிரிவுக்கு பொறுப்பாக செயற்பட்டுவரும் பேராசிரியர் ரி.தனராஜ் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
+
+The Commissioner of the Human Rights Commission of Sri Lanka, Professor R. Danaraj, pointed out that the upcountry community is disadvantaged in various sectors compared to other communities in the country, said that the reasons for the lack of rights and facilities to the people of the hill country and the measures to be taken nationally.
+
+The New Chairperson and Commissioners of the Sri Lanka Human Rights Commission took over their duties last year, and a media briefing was held at the Sri Lanka Forum in Colombo on Wednesday to clarify the activities of the Commission.. Professor R. Danaraj, who is in charge of the Human Rights Commission, said in charge of the Human Rights Commission in charge of the meeting.
 
 ...
 
 [Data](articles/5653b100.json)
 
+[Extended Data](ext_articles/5653b100.ext.json)
+
 ---
 
-### பாதுகாப்புத்துறைசார் விவகாரங்களில் அரசுக்கு ஆலோசனை வழங்கும் அதிகாரம் தமக்கு இல்லை - மனித உரிமைகள் ஆணைக்குழு
+### They do not have the authority to advise the government on security issues- the Human Rights Commission
 
 *2024-04-04 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/180373) · `ta`
 
-பயங்கரவாதத்துடன் தொடர்புடைய விவகாரங்களைக் கையாள்வதற்குரிய சரத்துக்களை நாட்டின் பொதுச்சட்டத்தில் உள்ளடக்கமுடியும் எனவும், அதற்கென பயங்கரவாதத்தடைச்சட்டம் போன்ற விசேட சட்டம் அவசியமா எனவும் தாம் ஏற்கனவே கேள்வி எழுப்பியிருப்பதாக சுட்டிக்காட்டியுள்ள இலங்கை மனித உரிமைகள் ஆணைக்குழு, இருப்பினும் தாம் பாதுகாப்புத்துறைசார் கட்டமைப்பு அல்ல என்பதால், அடிப்படை மனித உரிமை மீறல்களுக்கு அப்பாற்பட்டு தம்மால் இவ்விடயத்தில் அரசாங்கத்துக்கு ஆலோசனை வழங்கமுடியாது எனத் தெரிவித்துள்ளது.
+The Sri Lanka Human Rights Commission, led by Justice (Retired) LDP Tehiteniya and Commissioners Prof. Danaraj, Professor Fatima Parsna Hanifa, Dr. Jehan Tinuk Gunathilaka, Nimal.G. Punjihewa, and Commission's Secretary Ranjith Ungoda, clarified its role and activities. It focuses on human rights violations, including police station activities, and ensuring rights for all, especially special needs and dairy communities. The Commission has addressed unresolved complaints and noted issues like police deaths and human rights violations by the 'Yukya' program. It also emphasizes human rights education and gender-based violence prevention. Despite questioning the necessity of special laws like terrorism law, it advises on amendments to the Penal Code and the Standing Protection Bill.
+
+🟩
+
+The Sri Lanka Human Rights Commission, which has already questioned that it has already questioned that the country's general law is required to be involved in terrorism, and that special law, such as the terrorism law, is not a security framework.
+
+The New Chairperson and Commissioners of the Sri Lanka Human Rights Commission took over their duties last year, and a media briefing was held at the Sri Lanka Forum in Colombo on Wednesday to clarify the activities of the Commission.. The Human Rights Commission, Justice (Retired) LDP Tehiteniya, Commissioners Prof. Danaraj, Professor Fatima Parsana Hanifa, Dr. Jehan Tinuk Gunathilaka, Nimal.G. Punjihewa and Commission's Secretary Ranjith Ungoda.
+
+According to the Constitution of the country, the Human Rights Commission has made it clear on the mandate, duties and powers and the work being carried out by the Commission.
 
 ...
 
 [Data](articles/c20e6c9d.json)
 
+[Extended Data](ext_articles/c20e6c9d.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தலையும் பொதுத்தேர்தலையும் ஒரே தினத்தில் நடத்த அரசாங்கம்  ஆலோசனை - உதய கம்மன்பில
+### Government advises to hold the presidential election and general election on the same day- Udaya Kammanpila
 
 *2024-04-04 02:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180372) · `ta`
 
-ஜனாதிபதி தேர்தலையும்,பொதுத்தேர்தலையும் ஒரே தினத்தில் நடத்த அரசாங்கம் ஆலோசிக்கிறது.ஜனாதிபதி தேர்தலுக்கு முன்னர் பொதுத்தேர்தலை நடத்தினால் அது பொதுஜன பெரமுனவுக்கு சாதகமாக அமையும்.ஆனால் நாட்டுக்கு பாதகமான நிலை தோற்றம் பெறும்.நாட்டின் நலனை கருத்திற் கொள்வதா? அல்லது பொதுஜன பெரமுனவின் நலனை கருத்திற் கொள்வதா? என்பதை ஜனாதிபதி தீர்மானிக்க வேண்டும் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+The government is considering holding the presidential and general elections on the same day, with Udaya Kammanpila suggesting the President should decide. President Ranil Wickremesinghe opposes holding parliamentary elections until the end of his term, and there are disagreements between the President and the ruling party on the timing of the elections. There are no legal barriers to this, but it could impact the passage of bills and regulations if no party has a majority in parliament.
 
-கொழும்பில் உள்ள பிவிதுரு ஹெல உறுமய கட்சியின் காரியாலயத்தில் புதன்கிழமை (03) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-பதவிக்காலம் நிறைவு பெறும் வரை பாராளுமன்றத் தேர்தலை நடத்தக் கூடாது என்ற நிலைப்பாட்டில் ஜனாதிபதி ரணில் விக்கிரமசிங்க உள்ளார்.ஜனாதிபதி தேர்தலின் பெறுபேறுகள் ஸ்ரீ லங்கா பொதுஜன பெரமுனவுக்கு எதிரானதாக அமையும் என்பதால் தோல்வியின் எதிர்விளைவுகளை தடுப்பதற்கு ஜனாதிபதி தேர்தலுக்கு முன்னர் பொதுத்தேர்தலை நடத்த பஷில் ராஜபக்ஷ முயற்சிக்கிறார்.
+The government consults the presidential election and the general election on the same day.Or consider the welfare of the PA?Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya (JHU) and Member of Parliament, said that the President should decide.
+
+He made this statement during a media briefing held at the office of the Pivithuru Hela Urumaya (JHU) office in Colombo on Wednesday (03).
+
+President Ranil Wickremesinghe is in the position that the parliamentary elections should not be held until the end of office. The presidential election will be against the Sri Lanka PA.
+
+As the election year of 2024, there is mutual differences between the president's position on the presidential election and the ruling party's position on the general election.
+
+There are no legal issues to hold the presidential election and general election on the same day.Can be held on the same day.
+
+If the two elections are held on the same day, it will be favorable to the president and the PA.
 
 ...
 
 [Data](articles/8f250a70.json)
+
+[Extended Data](ext_articles/8f250a70.ext.json)
 
 ---
 
@@ -2065,181 +2241,5 @@ In a motion before Magistrate Lochani Abeywickrema, a lawyer representing former
 [Data](articles/c8c5d72d.json)
 
 [Extended Data](ext_articles/c8c5d72d.ext.json)
-
----
-
-### Sri Lanka appoints Honorary Consul for Canada’s Manitoba Province
-
-*2024-04-03 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98398/sri-lanka-appoints-honorary-consul-for-canadas-manitoba-province) · `en`
-
-Sri Lanka has appointed Mohamed Ismath as the country’s Honorary Consul for the province of Manitoba in Canada.
-
-The High Commissioner of Sri Lanka to Canada Harsha Kumara Navaratne handed over the Commission of Appointment to the new Honorary Consul recently at the Sri Lanka High Commission in Ottawa.
-
-Honorary Consul Ismath is currently a Director of Tennis Canada, a non-profit national sports association with a mission to lead the growth of tennis in Canada. He is a retired accountant and is an old boy of Royal College, Colombo.
-
-During the ceremony to hand over the Commission of Appointment, the High Commissioner suggested that possibilities of promoting tourism through sports collaboration apart from routine consular assistance should be explored given the Honorary Consul’s background.
-
-...
-
-[Data](articles/7d121504.json)
-
-[Extended Data](ext_articles/7d121504.ext.json)
-
----
-
-### Investors in Sri Lanka to be given autonomy to manage zones: President
-
-*2024-04-03 16:00:00* · [`economynextcom`](https://economynext.com/investors-in-sri-lanka-to-be-given-autonomy-to-manage-zones-president-157364/) · `en`
-
-ECONOMYNEXT – Now that Sri Lanka has transitioned away from relying solely on the central bank for economic stability, and opted to engage directly with the market, the next step is to evolve into a competitive, export-oriented economy, the country’s president has said.
-
-“Under this new paradigm, we envision a singular investment zone encompassing the entirety of Sri Lanka, with investors assuming the mantle of licensees. Within this framework, investors will have the autonomy to develop and manage their own zones,” President Ranil Wickremesinghe said.
-
-“Consequently, the role of the Investment Board will undergo a metamorphosis into a comprehensive Economic Commission,” Wickremesinghe said, speaking at the Board of Investment awards ceremony held on Tuesday.
-
-...
-
-[Data](articles/a00c695d.json)
-
-[Extended Data](ext_articles/a00c695d.ext.json)
-
----
-
-### Refusal to Keheliya
-
-*2024-04-03 15:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-பிணை-மறுப்பு/175-335571) · `ta`
-
-The Colombo High Court rejected Keheliya Rambukwella's bail application, who is charged with importing substandard immunoglobulin injection.
-
-🟩
-
-The bail application filed on behalf of former Health Minister Keheliya Rambukwella, who has been interrogated on charges of importing substandard immunoglobulin injection, has been rejected by Colombo High Court Judge Sujeewa Nissanga today.
-
-◼️
-
-[Data](articles/de30770c.json)
-
-[Extended Data](ext_articles/de30770c.ext.json)
-
----
-
-### Sri Lanka named best destination for solo female travellers
-
-*2024-04-03 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98397/sri-lanka-named-best-destination-for-solo-female-travellers) · `en`
-
-A London-based global magazine has named Sri Lanka as the best destination for solo female travellers.
-
-According to Time Out, the Indian Ocean island is the ‘perfect first stop’ for female travellers wanting to dip into South Asia.
-
-The magazine further says that Sri Lanka is popular with backpackers and perfectly sized for a week or a month spent exploring the ancient UNESCO-listed sites like Dambulla and Sigiriya or visiting tea plantations in Nuwara Eliya.
-
-“And for some blissful downtime, the golden beaches of Arugam Bay, Mirissa and Hikkaduwa promise beachfront hostels, surfing and delicious local food.”
-
-Portugal has been ranked the second-best destination, followed by Czechia, Japan, Guatemala, Vietnam, Australia, Greece, and New Zealand, respectively.
-
-The magazine says more women than ever are now heading to far-flung destinations in search of new friends, different cultures, and memorable experiences.
-
-...
-
-[Data](articles/60b2db8a.json)
-
-[Extended Data](ext_articles/60b2db8a.ext.json)
-
----
-
-### Sri Lanka named best destination for solo female travellers in 2024
-
-*2024-04-03 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98397/sri-lanka-named-best-destination-for-solo-female-travellers-in-2024) · `en`
-
-A London-based global magazine has named Sri Lanka as the best destination for solo female travelers in 2024.
-
-According to Time Out, the Indian Ocean island is the ‘perfect first stop’ for female travellers wanting to dip into South Asia.
-
-The magazine further says that Sri Lanka is popular with backpackers and perfectly sized for a week or a month spent exploring the ancient UNESCO-listed sites like Dambulla and Sigiriya or visiting tea plantations in Nuwara Eliya.
-
-“And for some blissful downtime, the golden beaches of Arugam Bay, Mirissa and Hikkaduwa promise beachfront hostels, surfing and delicious local food.”
-
-Portugal has been ranked the second-best destination, followed by Czechia, Japan, Guatemala, Vietnam, Australia, Greece, and New Zealand, respectively.
-
-The magazine says more women than ever are now heading to far-flung destinations in search of new friends, different cultures, and memorable experiences.
-
-...
-
-[Data](articles/6551c06e.json)
-
-[Extended Data](ext_articles/6551c06e.ext.json)
-
----
-
-### Lebanon UN. Those who have successfully completed the peacekeeping task
-
-*2024-04-03 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180348) · `ta`
-
-The 14th Security Forces of the Sri Lanka Army completed their UN peacekeeping duty in Lebanon, arriving back on April 2, 2024, after departing in March 2023. Led by Colonel DBID, the group included 10 officers and 115 soldiers, welcomed by Major General PKGML and other officials at Bandaranaike International Airport.
-
-🟩
-
-The 14th Security Forces of the Sri Lanka Army, which was in the UN peacekeeping process in Lebanon, landed on April 02, 2024, after the end of their duty.
-
-The group departed from the country in March 2023 for the UN peacekeeping work at the UN Interim Brigade Headquarters.. 10 officers and 115 soldiers, led by RSP IG, Commanding Officer of the Sri Lanka Security Forces Committee, Colonel DBID, arrived in the country after the completion of their duty.
-
-Representing the Sri Lankan Army Major General PKGML. Officials including Rodrigo RSP PSC IG, and the Commander of the Station, Brigadier KATNR Kannangara RSP IG, welcomed the team at the Bandaranaike International Airport.
-
-◼️
-
-[Data](articles/4314ae98.json)
-
-[Extended Data](ext_articles/4314ae98.ext.json)
-
----
-
-### The petition against demolition of Seoul Beach will be considered
-
-*2024-04-03 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195256) · `si`
-
-The Supreme Court is reviewing the petition against the demolition of Seoul Beach Hotel, filed by the hotel's owners, Tennakoon, and the Coast Conservation Department. The case was heard by a three-member court today.
-
-🟩
-
-The Supreme Court today (03) presented the Fundamental Rights Petition filed by the Seoul Beach Hotel.
-
-The petition has been filed as a result of the demolition of the 'Seoul Beach Hotel in Dehiwala area under the operation.
-
-The petition was called before a three-member Supreme Court judge today.
-
-The petitioner had ordered the petitioner party to take measures to be given notice to respondents in the petition.
-
-The petition was ordered to be summoned on July 10 to acknowledged the request made by the lawyers of the lawyers.
-
-The petition has been submitted by the owners of the owner Tennakoon, including IGP Deshabandu Tennakoon, who is properly maintained by the Coast Conservation Department.
-
-◼️
-
-[Data](articles/ff0c680b.json)
-
-[Extended Data](ext_articles/ff0c680b.ext.json)
-
----
-
-### Did Cardinal know in advance of Easter attacks?
-
-*2024-04-03 15:34:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈஸ்டர்-தாக்குதல்கள்-குறித்து-கர்தினால்-முன்கூட்டியே-அறிந்திருந்தாரா/175-335570) · `ta`
-
-The Catholic Church of Sri Lanka states that Cardinal Malcolm Ranjith was not warned about the Easter Sunday attacks. He did not attend Easter worship in 2019, and it's customary for him to attend on Saturday night but not on Sunday.
-
-🟩
-
-The Catholic Church of Sri Lanka today said that the Archbishop of Colombo Cardinal Malcolm Ranjith has not received any notice on the Easter Sunday attacks.
-
-Church speaker. At a press conference, journalists questioned at a press conference that the assumptions that had been issued before Cardinal Ranjith had been warned before the Easter Sunday attacks on Easter Sunday attacks.
-
-"Cardinal Ranjit was not attending Easter worship in 2019. It is customary for the Archbishop of Colombo to attend the Easter worship on Saturday night. Easter will not participate in any service on Sunday, ”he added.
-
-◼️
-
-[Data](articles/068ce8c7.json)
-
-[Extended Data](ext_articles/068ce8c7.ext.json)
 
 ---

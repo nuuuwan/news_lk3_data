@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 10:17:55**
+As of **2024-04-03 10:33:56**
 
 ## Newspaper Stats
 
-*Scraped **16,788** Articles*
+*Scraped **16,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,63 @@ tamilmirrorlk | 1,998
 adaderanalk | 2,014
 virakesarilk | 2,415
 dailymirrorlk | 2,587
-adaderanasinhalalk | 2,711
+adaderanasinhalalk | 2,712
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,786 (100.0%) of 16,788 articles have been extended.
+16,788 (100.0%) of 16,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### பலத்த மழைவீழ்ச்சி பதிவாகலாம்...
+### සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් පිරිසක් අත්අඩංගුවට
+
+*2024-04-03 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195237) · `si`
+
+විශේෂ පොලිස් කණ්ඩායම් 20ක් යොදවා සිදුකරනු ලබන මෙහෙයුම්වලදී තවත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් 07දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+ඔවුන් සමග විවිධ සම්බන්ධතා පවත්වමින් අපරාධවලට සහාය වූ බවට සැක කෙරෙන පුද්ගලයන් 07 දෙනෙකු ද පොලිස් භාරයට ගෙන ඇත.
+
+බස්නාහිරි පළාත් උතුර කොට්ඨාසයේ නිලධාරීන් විසින් ගනේමුල්ල් ප්‍රදේශයේ දී සිදුකළ වැටලීමක දී 54 හැවිරිදි සංවිධානාත්මක අපරාධ කල්ලි කණ්ඩායමකට සම්බන්ධ පුද්ගලයෙකු අත්අඩංගුවට ගෙන ඇත.
+
+මේ අතර රත්දොළුගම පොලිස් වසමේදී වැටලීමක් සිදුකර ගම්පහ පදිංචි 34 හැවිරිදි සංවිධානාත්මක අපරාධ කල්ලි කණ්ඩායම් සාමාජිකයෙකු අත්අඩංගුවට ගෙන ඇත.
+
+මේ අතර වැල්ලම්පිටිය පොලිස් වසමේදී සිදුකළ වැටලීමකදී 37 හැවිරිදි සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකාවක් අත්අඩංගුවට ගෙන තිබේ.
+
+මේ අතර මීගමුව, බෝලවලාන ප්‍රදේශයේදී වැටලීමක් සිදුකර 27 හැවිරිදි හොරම්පෑල්ල ප්‍රදේශයේ පදිංචි සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙක් අත්අඩංගුට ගෙන ඇත.
+
+මේ අතර ගම්පහ, කිරිඳිවිට ප්‍රදේශයේදී සිදුකළ වැටලීමකින් 48 හැවිරිදි ගනේමුල්ලේ පදිංචි සංවිධානාත්මක අපරාධ කල්ලි අත්අඩංගුවට ගෙන තිබිණි.
+
+...
+
+[Data](articles/01f9ba14.json)
+
+---
+
+### Heavy rainfall may be recorded ...
 
 *2024-04-03 09:56:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-மழைவீழ்ச்சி-பதிவாகலாம்/175-335547) · `ta`
 
-மேல், சப்ரகமுவ, மத்திய, வடமேல், தென், வடமத்திய மற்றும் ஊவா மாகாணங்களில் பல இடங்களில் பிற்பகல் 2.00 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Expect heavy rainfall and thunderstorms in Upper, Sabaragamuwa, Central, North Western, South, North and North and Uva provinces after 2.00 pm. Snowfall in Galle and Matara districts in the morning. Thundershowers may occur. Take precautions for lightning impacts.
 
-மேல், சப்ரகமுவ, வடமேல் மற்றும் தென் மாகாணங்களிலும் அனுராதபுரம் மற்றும் மொனராகலை மாவட்டங்களிலும் சில இடங்களில் 75 மி.மீ க்கும் அதிகமான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+🟩
 
-மேல், மத்திய, சப்ரகமுவ, மற்றும் ஊவா மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+Rainfall or thunderstorms are likely to occur after 2.00 pm in many places in the Upper, Sabaragamuwa, Central, North Western, South, North and North and Uva provinces.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+Heavy rainfall is expected in some places in the Western, Sabaragamuwa, North Western and Southern Provinces, Anuradhapura and Moneragala districts.
+
+In the morning, in some parts of the Western, Central, Sabaragamuwa, and Uva provinces, Galle and Matara districts are expected to have snowfall in the morning.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
 
 ◼️
 
 [Data](articles/2f91ad50.json)
+
+[Extended Data](ext_articles/2f91ad50.ext.json)
 
 ---
 
@@ -202,7 +232,7 @@ State officials including Minister of State for Land Recognition, including Divi
 
 ---
 
-### Israel says airstrike unintentionally killed aid workers in Gaza, allies demand explanations
+### Israel says airstrike ‘unintentionally’ killed aid workers in Gaza, allies demand explanations
 
 *2024-04-03 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98388/israel-says-airstrike-unintentionally-killed-aid-workers-in-gaza-allies-demand-explanations) · `en`
 
@@ -1568,7 +1598,7 @@ The trade unions affiliated with the Health Trade Union Alliance were planning t
 
 However, as the meeting convened at the Presidential Secretariat earlier today ended on a positive note, the health sector trade unions arrived at a decision to call off the planned indefinite strike action.
 
-The health workers also engaged in a 4-hour strike at 10 selected hospitals at 6.30 a.m. today (02).
+The health workers expanded their token strike launched on Monday (01) at five state hospitals. As such, they engaged in a 4-hour strike at 10 selected state hospitals starting at 6.30 a.m. today (02).
 
 ◼️
 
@@ -1956,19 +1986,27 @@ Similarly, one per liter of potatoes has been imported at Rs.
 
 ---
 
-### ජේතවනාරාම ස්තූපයේ පිපිරුම් වැළැක්වීම සඳහා තාක්ෂණික පිළියම්
+### Technical remedies to prevent bursts in Jethavanarama
 
 *2024-04-02 18:34:29* · [`adalk`](https://www.ada.lk/religion/ජේතවනාරාම-ස්තූපයේ-පිපිරුම්-වැළැක්වීම-සඳහා-තාක්ෂණික-පිළියම්/4-408912) · `si`
 
-අනුරාධපුර ජේතවනාරාම ස්තූපයේ ඇති වී තිබෙන පිපිරුම් ප්‍රසාරණය වීම මැඩපැවැත්වීම සඳහා කෙටි හා දීර්ඝ කාලීන විසඳුම් මේ වන විට ගෙන ඇති බවත්, පිපිරුම් තවදුරටත් වර්ධනය නොවන ආකාරයට  සිදු කළ හැකි තාක්ෂණික ක්‍රමවේදයන් ඉදිරියටත් අනුගමනය කර පිපිරුම් පාලනය කිරීමට කටයුතු සිදු කරන බව බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍ය විදුර වික්‍රමනායක මහතා සඳහන් කරයි.
+The Minister of Buddha Sasana, Religious and Cultural Affairs, Mr. Vidura Wickramanayake, discussed measures to control explosions in Jethavanarama Stupa. Professors Thusitha Mendis and Kushan Wijesundara from the University of Peradeniya highlighted the expansion of explosions since 2023.
 
-ජේතවනාරාම ස්තූපයේ පිපිරුම්වල වර්තමාන තත්ත්වය පිළිබඳවජේතවනාරාම ස්තූපයේ සලපතල මළුවේ අද (02) පැවති මාධ්‍ය සාකච්ඡාවට එක්වෙමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+🟩
 
-මධ්‍යම සංස්කෘතික අරමුදල මඟින් සකස් කළ වාර්තාවලට අනුව ස්තූපයේ පෙර පැවති පිපිරුම්වල අගයන් හා සැසදීමේදී විශාල වෙනසක් සිදු වී නොමැති බවත්, ස්තූපය පිලිබඳ නිරීක්ෂණ කටයුතු සංස්කෘතික අමාත්‍යංශය ,මධ්‍යම සංස්කෘතික අරමුදල සහ පුරාවිද්‍යා දෙපාර්තමේන්තුව අත්හැර නොමැති බවත්, පුරාවිද්‍යා අධ්‍යක්ෂ ජනරාල් මහාචාර්ය තුසිත මෙන්ඩිස් මහතා එහිදීකිවේය.
+Minister of Buddha Sasana, Religious and Cultural Affairs say that the bursts of the explosions have been taken to control the explosions in the Jethavanaramaya Stupa.Mr. Vidura Wickramanayake states.
 
-...
+The Minister was speaking at a press conference held in the courtyard of the COPE, the current situation of the British explosions in Jethavanarama blasts.
+
+Prof. Thusitha Mendis has not changed the values of the stupa.
+
+The explosion of the explosion has been launched and the expansion of the explosion since 2023, and the expansion of Rs.Professor Kushan Wijesundara, Professor Kushan Wijesundara, of the University of Peradeniya, said.
+
+◼️
 
 [Data](articles/c51301b8.json)
+
+[Extended Data](ext_articles/c51301b8.ext.json)
 
 ---
 
@@ -2191,31 +2229,5 @@ Although it has been repeatedly said that the elephant fences are said to be set
 [Data](articles/813bfbef.json)
 
 [Extended Data](ext_articles/813bfbef.ext.json)
-
----
-
-### Muslim political leaders or Muslim MPs are not responsible for the Kalmunai Divisional Secretariat issue - Haris
-
-*2024-04-02 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180253) · `ta`
-
-Muslim political leaders in Sri Lanka deny responsibility for the Kalmunai Divisional Secretariat issue, highlighting the complexities of political and ethnic relations in the region. Despite the Court of Appeal's rejection of the Kalmunai North Divisional Secretariat and Land Authority, the situation remains unresolved, with no clear government intervention strategy.
-
-🟩
-
-When the Tamil Muslim race in the Northeast is seeking political solutions and devolution of power, 3500 Tamil people in Kalmunai metropolitan area will not allow the Tamil people to live with the Muslims in a region.
-
-We are not against the Tamil people. Sri Lanka Muslim Congress member HMM says that we urge the Tamil people to be set up with a border secretariat for the Tamil people in Kalmunai. Haris said.
-
-And the Muslim political leadership or Muslim MPs are not responsible for the Kalmunai Divisional Secretariat.
-
-While the Court of Appeal has rejected the Kalmunai North Divisional Secretariat and Land Authority in the interim judgment.How can the government intervene in this issue?He also questioned.
-
-He said this while addressing the debate on the Bank (Amendment) Bill held in Parliament on Tuesday (02).
-
-...
-
-[Data](articles/b021c3a4.json)
-
-[Extended Data](ext_articles/b021c3a4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 09:18:33**
+As of **2024-04-03 09:34:43**
 
 ## Newspaper Stats
 
-*Scraped **16,778** Articles*
+*Scraped **16,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,90 @@ economynextcom | 922
 islandlk | 931
 adalk | 1,408
 tamilmirrorlk | 1,997
-adaderanalk | 2,012
-virakesarilk | 2,411
+adaderanalk | 2,013
+virakesarilk | 2,413
 dailymirrorlk | 2,586
-adaderanasinhalalk | 2,710
+adaderanasinhalalk | 2,711
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,778 (100.0%) of 16,778 articles have been extended.
+16,778 (100.0%) of 16,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### හංසනීගෙන් බර ඉසිලීමේ නව ශ්‍රී ලංකා වාර්තාවක්
+
+*2024-04-03 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195236) · `si`
+
+තායිලන්තයේ පැවැත්වෙන ලෝක ශූරතා බර ඉසිලීමේ තරගාවලියේදී නව ශ්‍රී ලංකා වාර්තාවක් පිහිටුවීමට හංසනී ගෝමස් සමත්වුණා.
+
+ලෝක ශූරතා බර ඉසිලීමේ ශූරතා තරගාවලියේ මේ දිනවල තායිලන්තයේදි පැවැත්වෙන අතර මෙය ඔලිම්පික් සුදුසුකම් ලැබිමේ තරගාවලියක් ලෙසද ක්‍රියාත්මක වනවා.
+
+ශ්‍රී ලංකාව නියෝජනය කරමින් කිලෝග්‍රෑම් 49 බර පන්තියෙන් තරග වැදුණු හංසනී ගෝමස් ස්නැච් ක්‍රමයට කිලෝග්‍රෑම් 76ක බරක් ඔසවමින් නව ජාතික වාර්තාවක් පිහිටුවීමට සමත්වුණා.
+
+මේ අතර ශ්‍රී ලංකාව නියෝජනය කරමින් කිලෝග්‍රෑම් 55 බර පන්තියෙන් තරග වැදුණු ඩිලංක ඉසුරු කුමාර 5 වැනි ස්ථානය දිනා ගත්තා.
+
+ඒ ස්නැච් ක්‍රමයට කිලෝග්‍රෑම් 112 ක් හා ක්ලීන් ඇන්ඩ් ජර්ක් ක්‍රමයට කිලෝග්‍රෑම් 145 ක් ඔසවමින්.
+
+මෙම තරග ඉසව්වේදී ඩිලංක එස වූ සමස්ත බර ප්‍රමාණය  කිලෝග්‍රෑම් 247ක්.
+
+◼️
+
+[Data](articles/1769cda2.json)
+
+---
+
+### வவுணதீவு பிரதேச செயலாளர் பிரிவில் 100 குடும்பங்களுக்கு கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானால் காணி உறுதிப் பத்திரங்கள் வழங்கி வைப்பு!
+
+*2024-04-03 09:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/180292) · `ta`
+
+மட்டக்களப்பு மாவட்டத்தின் மண்முனை மேற்கு வவுணதீவு பிரதேச செயலாளர் பிரிவில் 100 குடும்பங்களுக்கு கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானால் காணி உறுதிப் பத்திரங்கள் வழங்கி வைக்கப்பட்டது.
+
+காணி உறுதிப் பத்திரங்கள் வழங்கும் நிகழ்வில் இராஜாங்க அமைச்சர் வியாழேந்திரன், பிரதேச செயலாளர், உட்பட அரச அதிகாரிகள் கலந்துக் கொண்டனர்.
+
+◼️
+
+[Data](articles/3aa3b0b7.json)
+
+---
+
+### Israel says airstrike unintentionally killed aid workers in Gaza, allies demand explanations
+
+*2024-04-03 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98388/israel-says-airstrike-unintentionally-killed-aid-workers-in-gaza-allies-demand-explanations) · `en`
+
+Prime Minister Benjamin Netanyahu said on Tuesday Israel mistakenly killed seven people working for the aid charity World Central Kitchen in a Gaza airstrike, and the U.S. and other allies called for explanations amid widespread condemnation.
+
+Israel’s military voiced “sincere sorrow” over the incident, which ratcheted up international pressure for steps to ease the disastrous humanitarian situation in Gaza nearly six months into Israel’s siege and invasion of the Palestinian enclave.
+
+The strike on the World Central Kitchen convoy killed citizens of Australia, Britain and Poland as well as Palestinians and a dual citizen of the United States and Canada.
+
+WCK, which was founded by celebrity chef Jose Andres, said its staff were traveling in two armored cars emblazoned with the charity’s logo and another vehicle, and had coordinated their movements with the Israeli military.
+
+...
+
+[Data](articles/111e6098.json)
+
+---
+
+### சிங்கப்பூர் சரக்கு கப்பல் தொடர்பில் முறையான விசாரணை நடத்தப்படும் - இராஜாங்க அமைச்சர் ஜானக வக்கும்புர
+
+*2024-04-03 08:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180291) · `ta`
+
+அபாயகரமான பொருட்கள் அடங்கிய சிங்கப்பூர் சரக்கு கப்பல் நாட்டுக்குள் வருவதற்கு மத்திய சுற்றாடல் அதிகாரசபையின் அனுமதி பெறவில்லை. இதுதொடர்பாக முறையான விசாரணை நடத்தி பாராளுமன்றத்துக்கு அறிவிப்போம் என சுற்றாடல் இராஜாங்க அமைச்சர் ஜானக வக்கும்புர தெரிவித்தார்.
+
+பாராளுமன்றத்தில் நேற்று செவ்வாய்க்கிழமை (02) விசேட கூற்றொன்றை முன்வைத்து எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மற்றும் ஷரித்த ஹேரத் ஆகியோர் இலங்கைக்கு வருகை தந்துகொண்டிருக்கும்போது விபத்துக்குள்ளாகியுள்ள சிங்கப்பூர் சரக்கு கப்பல் தொடர்பாக முன்வைத்த கேள்விக்கு பதிலளிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+இலங்கைக்கு வருகை தந்துகொண்டிருக்கும்போது விபத்துக்குள்ளாகியுள்ள சிங்கப்பூர் சரக்கு கப்பலில்  பாரியளவிலான வெடிபொருட்கள் மற்றும் அபாயகரமான பொருட்கள் அடங்கிய கொள்கலன்கள் இருப்பதாக தெரிவிக்கப்படுவது உண்மை. இந்த விடயங்கள் தொடர்பில் மத்திய சுற்றாடல் அதிகாரசபை விசாரணை நடத்தி வருகிறது.
+
+...
+
+[Data](articles/00c667bd.json)
+
+---
 
 ### How can a ship containing hazardous products without the permission of the Central Environmental Authority - Opposition Leader
 
@@ -2141,91 +2211,5 @@ Speaking at the event, Vijay Deverakonda said, "I am playing the lead role in th
 [Data](articles/0a6d1262.json)
 
 [Extended Data](ext_articles/0a6d1262.ext.json)
-
----
-
-### The Film Amendment Bill is passed by 36 votes
-
-*2024-04-02 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180271) · `ta`
-
-The Film Amendment Bill and Value Tax Act increase passed with 36 votes. Lakshman Kiriella voted in favor.
-
-🟩
-
-Under the Value Tax Act, which will increase the 15 percent tax to 18 percent, the order was passed by 36 additional votes.
-
-On Tuesday (2) in Parliament, Lakshman Kiriella, the Opposition's Prime Minister, made a vote of voting to pass the order under the Value Tax Act.
-
-Subsequently, in the electronic vote, 55 votes were cast in favor of the order under the Value Tax Act and 19 votes were passed by 36 additional votes.
-
-◼️
-
-[Data](articles/cc857322.json)
-
-[Extended Data](ext_articles/cc857322.ext.json)
-
----
-
-### Chandimal suddenly returns to Sri Lanka
-
-*2024-04-02 17:55:04* · [`adalk`](https://www.ada.lk/sports/චන්දිමාල්-හදිසියේම-ලංකාවට-එයි/9-408907) · `si`
-
-Dinesh Chandimal leaves Sri Lanka's Test match with Bangladesh due to a family health issue. SLC supports him and asks for privacy.
-
-🟩
-
-Sri Lankan batsmen Dinesh Chandimal has left the Test with Bangladesh due to a healthy medical situation in his family.
-
-Sri Lanka Cricket (SLC) has announced that the group's fellows and training Board will support Chandimal at the difficult time.
-
-SLC says that the public is requested to respect his privacy.
-
-◼️
-
-[Data](articles/3bdc381e.json)
-
-[Extended Data](ext_articles/3bdc381e.ext.json)
-
----
-
-### World Bank concerned over potential reform fatigue in Sri Lanka’s election year
-
-*2024-04-02 17:50:00* · [`economynextcom`](https://economynext.com/world-bank-concerned-over-potential-reform-fatigue-in-sri-lankas-election-year-157119/) · `en`
-
-ECONOMYNEXT — With elections coming up in Sri Lanka, the World Bank is concerned that reform fatigue could set in, leading to potential policy reversal, particularly with regard to state-owned enterprises (SOEs), a World Bank official said.
-
-Senior Country Economist for the Maldives and Sri Lanka Richard Walker told EconomyNext that the World Bank is specifically concerned about SOE reforms as progress in that area has not been as rapid as hoped despite considerable macroeconomic gains made since the country’s worst financial crisis in decades.
-
-“Maybe we haven’t seen it progress as far as we’d hoped. In terms of trying to put in place a much better framework to ensure better governance and options for private participation, that hasn’t moved as fast we’d hoped,” Walker said on the sidelines of an event held in Colombo on Tuesday April 02 to launch the World Bank’s Development Updates for Sri Lanka and South Asia.
-
-...
-
-[Data](articles/d2deacec.json)
-
-[Extended Data](ext_articles/d2deacec.ext.json)
-
----
-
-### Sri Lanka’s mothers should avoid foreign employment: Minister
-
-*2024-04-02 17:31:00* · [`economynextcom`](https://economynext.com/sri-lankas-mothers-should-avoid-foreign-employment-minister-157200/) · `en`
-
-ECONOMYNEXT – Mothers of infants should avoid working abroad, Sri Lanka’s Minister of Women’s Affairs, Geetha Kumarasinghe, has said.
-
-“A mother should stay with the child till the child is two years,” Kumarasinghe said. “To whom are they going to give the responsibility? To the grandparents? To the husband? No, it is the mother who does that. You have to look after the child.”
-
-At an event for International Women’s Day last month, Kumarasinghe said she was in favor of requesting mothers with children under two to refrain from foreign employment.
-
-However, Minister of Labor and Foreign Employment, Manusha Nanayakkara has rejected this recommendation.
-
-“Parental responsibility belongs to both the mother and father,” Nanayakkara told EconomyNext. “Why should restrictions apply to mothers and not to fathers?”
-
-However, Kumarasinghe was adamant that Sri Lankan ‘culture’ dictated that women were the sole provider of childcare, or unpaid care work.
-
-...
-
-[Data](articles/8933b051.json)
-
-[Extended Data](ext_articles/8933b051.ext.json)
 
 ---

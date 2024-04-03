@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 20:33:47**
+As of **2024-04-03 20:50:43**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,740
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,937 (100.0%) of 16,939 articles have been extended.
+16,939 (100.0%) of 16,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### விவசாய நவீனமயமாக்கல் திட்டத்திற்கான அரச நிறுவனங்களின் செயல்திறனை மேம்படுத்த விவசாய நவீனமயமாக்கல் சபை - ஜனாதிபதி
+### Agricultural Modernization Board- President
 
 *2024-04-03 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180366) · `ta`
 
-விவசாயத் துறையுடன் தொடர்புடைய அமைச்சுக்கள், நிறுவனங்கள் மற்றும் அமைப்புக்களை மறுசீரமைப்புச் செய்தல், கண்காணிப்பதற்காக ஜனாதிபதி - பிரதமர் தலைமையில் விவசாய நவீன மயமாக்கல் சபையொன்றை நிறுவ உள்ளதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced the establishment of new councils to modernize Sri Lanka's agriculture, focusing on productivity, stability, development, and innovation. 26 projects were selected for implementation, emphasizing the transition to modern agriculture for economic growth and climate change resilience.
 
-விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தில் அரசாங்க நிறுவனங்களின் செயல்திறனை மேம்படுத்தும் நோக்கிலேயே புதியச் சபை நிறுவப்பட உள்ளதெனவும் ஜனாதிபதி தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி அலுவலகத்தில் புதன்கிழமை (03) நடைபெற்ற விவசாய நவீனமயப்படுத்தல் வேலைத்திட்டம் தொடர்பிலான மீளாய்வுக் கூட்டத்திலேயே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+President Ranil Wickremesinghe said that the Ministries, Institutions and Organizations associated with the Agriculture Department will be established by the President -Prime Minister and the Modernization of the Agricultural Modernization.
 
-இலங்கையின் விவசாயத் துறையை நவீனமயப்படுத்துவதற்காக தயாரிக்கப்பட்ட கொள்கைத் திட்டம், அதனை தயாரிப்பதற்காக நியமிக்கப்பட்ட நிபுணர் குழுவின் தலைவர் காமினி சேனாநாயக்கவினால் ஜனாதிபதியிடம் இதன்போது கையளிக்கப்பட்டது.
+The President also said that the new council is to be established to improve the performance of government agencies in the agricultural modernization program.
+
+The President made this statement at a review meeting on the Agricultural Modernization Program held at the Presidential Office on Wednesday (03).
+
+The policy plan prepared to modernize the agricultural sector of Sri Lanka was handed over to the President by the President of the Expert Panel, Gamini Senanayake.
 
 ...
 
 [Data](articles/e57cd666.json)
+
+[Extended Data](ext_articles/e57cd666.ext.json)
 
 ---
 
@@ -158,15 +164,21 @@ Weligama Police have arrested the deceased person's wife.
 
 ---
 
-### රජිව් ගාන්ධි ඝාතනයට සම්බන්ධ සැකකරුවන් කටුනායකින් ගෙදර යයි
+### Suspects to Rajiv Gandhi murder go back home from Katunayake
 
 *2024-04-03 19:35:17* · [`adalk`](https://www.ada.lk/breaking_news/රජිව්-ගාන්ධි-ඝාතනයට-සම්බන්ධ-සැකකරුවන්-කටුනායකින්-ගෙදර-යයි/11-408932) · `si`
 
-ඉන්දියාවේ හිටපු අග්‍රාමාත්‍ය රජීව් ගාන්ධි මහතාගේ ඝාතනය සම්බන්ධයෙන් අත්අඩංගුවට ගෙන මෙරටට පිටුවහල් කළ ද්‍රවිඩ ජාතිකයන් තිදෙනා පැය 06 කට අධික කාලයක් කටුනායක ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් ප්‍රශ්න කර ප්‍රකාශ සටහන් කර ගැනීමෙන් පසු පස්වරු 05.15 ට පමණ නිදහස් කිරීමට පියවර ගෙන තිබුණි. ඒ අනුව ඔවුන් තිදෙනා වෑන් රථ තුනකින් යාපනය සිය ගම් ප්‍රදේශ බලා පිටත්ව ගියහ.
+Three Tamil suspects in Rajiv Gandhi's murder were arrested at Katunayake Airport, held for over 6 hours, and released at 5:15 pm. They left in three vans to their villages.
+
+🟩
+
+The three Tamils who were arrested for the murder of former Prime Minister Rajiv Gandhi were arrested by the Katunayake airport in the Katunayake Airport for more than 6 hours and were taken to release the posts of Katunayake at 5:15 pm. Accordingly, the three of them left for three vans to their villages.
 
 ◼️
 
 [Data](articles/bda917f0.json)
+
+[Extended Data](ext_articles/bda917f0.ext.json)
 
 ---
 

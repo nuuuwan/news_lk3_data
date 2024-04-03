@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 23:52:46**
+As of **2024-04-04 00:03:59**
 
 ## Newspaper Stats
 
-*Scraped **16,958** Articles*
+*Scraped **16,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 207
 newsfirstlk | 363
 dailyftlk | 910
 islandlk | 931
-economynextcom | 940
+economynextcom | 942
 adalk | 1,430
 tamilmirrorlk | 2,017
-adaderanalk | 2,033
+adaderanalk | 2,035
 virakesarilk | 2,449
 dailymirrorlk | 2,609
 adaderanasinhalalk | 2,742
@@ -26,11 +26,49 @@ adaderanasinhalalk | 2,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,956 (100.0%) of 16,958 articles have been extended.
+16,958 (100.0%) of 16,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### Council to be formed to boost efficiency in agricultural modernization
+
+*2024-04-03 23:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98408/council-to-be-formed-to-boost-efficiency-in-agricultural-modernization) · `en`
+
+President Ranil Wickremesinghe has declared the formation of an Agricultural Modernization Organization Council, which will be chaired by both the Head of State and Prime Minister.
+
+The primary objective of this council will be to oversee the restructuring of ministries, institutions, and organizations associated with agriculture in Sri Lanka.
+
+President Wickremesinghe made this announcement during a progress review meeting of the Agriculture Modernization Program held at the Presidential Secretariat on Wednesday morning (03).
+
+He emphasized that establishment of this new council aims to enhance the efficiency of government institutions involved in the agricultural modernization initiative.
+
+At the meeting, Senior Prof. Gamini Senanayake, Chairman of the expert committee, presented the policy framework devised for the modernization of the agriculture sector in Sri Lanka to the President.
+
+...
+
+[Data](articles/f12d78a0.json)
+
+---
+
+### 19 Indian fishermen detained by SL Navy return home amid row over Katchatheevu Island
+
+*2024-04-03 23:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98407/19-indian-fishermen-detained-by-sl-navy-return-home-amid-row-over-katchatheevu-island) · `en`
+
+As many as nineteen Indian fishermen who were earlier detained by the Sri Lankan Navy were were repatriated to India on Wednesday after being released by authorities, the Indian High Commission said.
+
+Taking it to X, the Indian High Commission in Sri Lanka said, “Returning home! 19 Indian fishermen have been repatriated from Sri Lanka and are now on their way from Colombo to Chennai.”
+
+This year, the Sri Lankan Navy has so far held twenty-three Indian trawlers and a hundred and seventy-eight Indian fishermen for allegedly fishing in the island nation’s waters.
+
+The fishermen issue is a contentious one in the ties between India and Sri Lanka, with Lankan Navy personnel even firing at Indian fishermen in the Palk Strait and seizing their boats in several alleged incidents of illegally entering Sri Lankan territorial waters.
+
+...
+
+[Data](articles/a38d0d64.json)
+
+---
 
 ### Women under 19
 
@@ -159,6 +197,24 @@ Minister de Silva emphasized that out of the 56 containers listed as dangerous c
 [Data](articles/3ac3ff52.json)
 
 [Extended Data](ext_articles/3ac3ff52.ext.json)
+
+---
+
+### Sri Lanka starts surveying drug addicts as authorities seek public help
+
+*2024-04-03 22:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-starts-surveying-drug-addicts-as-authorities-seek-public-help-157432/) · `en`
+
+ECONOMYNEXT – Sri Lanka has started a survey on drug addicts in order to reduce the demand of drugs through awareness while the local authorities request more public participation in eradicating drug menace in the society, officials said.
+
+There is no official data on drug addicts in Sri Lanka, but rough estimation shows there are around 5 million people are connected to one or the other drug including tobacco and alcohol drinks, officials at National Dangerous Drugs Control Board say.
+
+The estimation includes up to 100,000 of heroin addicts, up to 350,000 cannabis users, 50,000 ICE (Methamphetamine) users, around 3 million tobacco users, and 2.5 million alcoholic users, they said.
+
+“There is no proper survey on the drug addicts,” Shakya Nanayakkara, Chairman at the National Dangerous Drugs Control Board told reporters at a media briefing in Colombo on Wednesday (03).
+
+...
+
+[Data](articles/ce3a17c5.json)
 
 ---
 
@@ -340,39 +396,55 @@ Tsunami warnings to Taiwan, Neighborhoods and the Philippines with the earthquak
 
 ---
 
-### සිරිල් පියතුමාගෙන් මෛත්‍රීට ප්‍රහාරයක්
+### Maithri attacked by Fr. Cyril
 
 *2024-04-03 20:35:06* · [`adalk`](https://www.ada.lk/breaking_news/සිරිල්-පියතුමාගෙන්-මෛත්‍රීට-ප්‍රහාරයක්/11-408937) · `si`
 
-වසර 05ක කාලයක් පාස්කු ප්‍රහාරයේ සත්‍ය සඟවාගෙන සිටි හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා එක්වරම මහමොළකරු පිළිබඳ ප්‍රකාශයක් කරනු ලැබුවේ ඔහුට වාසිදායක මැතිවරණයක් ආසන්න කාලයක් නිසා බව  ගරු සිරිල් ගාමිණි ප්‍රනාන්දු පියතුමා පැවසීය.
+Maithripala Sirisena criticized for hiding truth in Passover attack, while IGP Tennakoon criticized by Fr. Manju Niroshan for not informing the church about the incident. Cyril Gamini Fernando defended the statement about India's involvement, questioning the timing and credibility of the report.
 
-කොළම අගරදගුරු නිවසේ අද (03දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් උන්වහන්සේ මේ බව සඳහන් කළහ.
+🟩
 
-මේ අතර පසුගිය පාස්කු ඉරිදා පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා කටුවාපිටිය ශාන්ත සෙබස්තියන් දේවස්ථානයට පැමිණීම සහ වින්දිතයන් මුණ ගැනීම පිළිබඳ එම දේවස්ථානයේ මීසම භාර ගරු මංජු නිරෝෂන් පියතුමා මෙහිදී විවේචනය කර සිටියේය.
+Former President Maithripala Sirisena, who was hiding the truth in the Passover attack, said that the Mahamidala Sirisena had a statement about a beneficial election.
 
-කටුවාපිටිය ශාන්ත සෙබස්තියන් දේවස්ථානයේ මීසම් පාලක ගරු මංජු නිරෝෂන් පියතුමා - පාස්කු ඉරිදා කියන්නේ අපි හැමෝටම වැදගත් දවසක්. උදේ 07ට අපි දිව්‍ය පූජාව පැවැත්වුවා. මේ සිද්ධිය සිදු වන විට බොහොම පැහැදිලිවම අපිව කිසිම ආකාරයකින් කිසිවෙකුත් දැනුවත් කරලා තිබුණේ නෑ. ඇත්තටම අපි ඉල්ලා සිටින්නේ වියළි ආහාර මල්ලක් නෙවෙයි. අපිව ඇවිල්ලා බලලා යන්න නෙවෙයි. අපි ඉල්ලන්නේ අපිට යුක්තිය. හරි අනාවරණයක් ලබා දෙන්න කියලා තමයි ඉල්ලා සිටින්නේ.
+He was speaking at a media briefing held at the Archbishop of Colombo today.
+
+Meanwhile, the IGP, Deshabandu Tennakoon, president of the Saint Sebastian Church of the Saint Sebastian and president of the Saint Sebastian of the Church, was criticized by Manju Niroshan.
+
+Fr. Manju Niroshan of St. Sebastian Church, Kaviyapitiya St. Sebastian Church - Passover Day is an important day for all of us. We held the divine sacrifice at 07 AM. The incident was very clear that no one had been informed in any way. We really don't ask for a dry food bag. Not to come us and go. We ask for us justice. It is requested to give you right.
 
 ...
 
 [Data](articles/b559ebbe.json)
 
+[Extended Data](ext_articles/b559ebbe.ext.json)
+
 ---
 
-### පැමිණිලි විමර්ශනය කිරීමට සුජීවගෙන් සහායක් නෑ
+### Sujeewa does not support complaints
 
 *2024-04-03 20:29:26* · [`adalk`](https://www.ada.lk/breaking_news/පැමිණිලි-විමර්ශනය-කිරීමට-සුජීවගෙන්-සහායක්-නෑ/11-408936) · `si`
 
-හිටපු පාර්ලිමේන්තු මන්ත්‍රී සුජීව සේනසිංහ මහතාට එරෙහිව අල්ලස් කොමිසමට ඉදිරිපත් කර ඇති පැමිණිලි විමර්ශනය කිරීම සඳහා ඒ මහතාගේ කිසිදු සහායක්  නොලැබෙන බව රජයේ ජ්‍යෙෂ්ඨ නීතිඥ ශ්‍රමින්ද්‍ර වික්‍රම මහතා ශ්‍රේෂ්ඨාධිකරණයට ඊයේ (03දා) දැනුම් දුන්නේය.
+Sujeewa Senasinghe, a former MP, filed a petition against the Attorney General, but the Senior State Counsel refused to support the investigation. The petition was considered by Supreme Court judges, with the bribery or corruption commission as respondents.
 
-තමන්ට එරෙහිව අල්ලස් කොමිසමට කර ඇති පැමිණිලි විමර්ශනය කිරීම වළකාලමින් අතුරු තහනම් නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා සමගි ජන බලවේගය පක්‍ෂයේ හිටපු පාර්ලිමේන්තු මන්ත්‍රී සුජීව සේනසිංහ මහතා ගොනු කර ඇති මූලික අයිතිවාසිකම් පෙත්සම සලකා බැලූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි රජයේ ජ්‍යෙෂ්ඨ නීතිඥ ෂවින්ද වික්‍රම මහතා එසේ දැනුම් දුන්නේය.
+🟩
 
-ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන ප්‍රීති පත්මන් සුරසේන, ජනක් ද සිල්වා සහ මහින්ද සමයවර්ධන යන මහත්වරුන්ගෙන් සැදුම්ලත් ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් හමුවේ මෙම  පෙත්සම සලකා බැලිණ.
+Senior State Counsel, Senior State Counsel not to investigate complaints made by former MP Sujeewa Senasinghe.
 
-හිටපු පාර්ලිමේන්තු මන්ත්‍රී සුජීව සේනසිංහ මහතා ගොනු කර ඇති මෙම මූලික අයිතිවාසිකම් පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් අල්ලස් හෝ දූෂණ විමර්ශන කොමිසම ඇතුළු පිරිසක් නම් කර ඇත.
+Speaking to the Attorney General Sujeewa Senasinghe, who has been identified as a interim injunction filed by the Attorney General, has said that the fundamental rights of the Attorney General has said to the Attorney General.
+
+The petition was considered in the face of Supreme Court judges, Drath Surussena, Janaka de Silva and Mahinda Samaya Sajeera.
+
+Former Parliamentarian Sujeewa Senasinghe has named the bribery or corruption commission as respondents in the petition.
+
+Senior State Counsel, Senior State Counsel appearing on behalf of the respondents at the time of the petition, he said he would not add any support to the petitioner to investigate the petitioner.
+
+It is said that he had refused to answer the petitioner's questions and that under such a situation, he said.
 
 ...
 
 [Data](articles/bbfc8c67.json)
+
+[Extended Data](ext_articles/bbfc8c67.ext.json)
 
 ---
 
@@ -2233,81 +2305,5 @@ The Colombo High Court judge, Thamidtuwatta, who rejected the request, said that
 [Data](articles/ff729d16.json)
 
 [Extended Data](ext_articles/ff729d16.ext.json)
-
----
-
-### Sri Lanka tops the best places for women to travel alone
-
-*2024-04-03 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180324) · `ta`
-
-Sri Lanka is ranked #1 for women to travel alone in 2024 by Time Out, highlighting its safety, culture, and adventure opportunities.
-
-🟩
-
-Sri Lanka tops the list of best places for women to travel alone in 2024, according to a tour guide website called Time Out.
-
-Currently, women are on the rise. More than half of women born after 1997 are interested in traveling abroad alone.
-
-Where to go to more women who are looking for adventure, enjoying culture and looking for memorable experiences?Is the questions.
-
-Many countries are safe and lonely for women to travel. That is, well -established backpacker routes offer the opportunities for both friendly locals, social communication and quiet loneliness. Sri Lanka is the best place for women to travel alone to achieve these goals.
-
-The "pearl of the Indian ocean" reveals the taste of the South Asian culture of Sri Lanka, known as its natural beauty, and reveals its unique beauty. In addition, Sri Lanka provides the best starting point for women who carry out separate adventures, with the popularity and managing quantity among youth traveling alone.
-
-...
-
-[Data](articles/fe632b2d.json)
-
-[Extended Data](ext_articles/fe632b2d.ext.json)
-
----
-
-### Israeli president apologizes to killing humanitarian workers in Gaza
-
-*2024-04-03 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180334) · `ta`
-
-Israeli President Isaac Harsok apologizes for the killing of seven charity workers in Gaza, calling it a "serious mistake." Israeli Security Forces leader Harsi Halevi echoes this sentiment. The incident involved a Canadian dual citizen and a Palestinian. The US, Australia, Poland, and Britain are among the countries expressing concern.
-
-🟩
-
-Israeli president apologizes for the killing of seven charity employees in Gaza. At the same time, the Israeli Security Force said the attack was a serious mistake.
-
-The US -based World Central Kitchen, a charity, said yesterday that seven employees were killed in an attack on Israeli Monday (01) in Gaza.
-
-With Australia, Poland and Britain;A man with a Canadian dual citizen and a Palestinian died in the incident, the company said.
-
-In this case, Israeli Security Forces leader Harsi Halevi said the attack that killed seven charity employees in Gaza was a serious mistake.
-
-'This is a serious mistake. That should not have happened, 'he said.
-
-Meanwhile, Israeli President Isaac Harsok has said that he had spoken to the Chairman of the Central Kitchen, Jose Ann, to express his deep concern over the attack.
-
-...
-
-[Data](articles/e81c14a6.json)
-
-[Extended Data](ext_articles/e81c14a6.ext.json)
-
----
-
-### Keheliya's bail application removed
-
-*2024-04-03 14:14:00* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-ඇප-ඉල්ලීම-ඉවතට/11-408919) · `si`
-
-The Colombo High Court rejected Keheliya Rambukwella's bail application, remanding him for alleged government losses due to substandard medicine.
-
-🟩
-
-The Colombo High Court rejected the bail out of the former Health Minister Keheliya Rambukwella former Health Minister Remanded.
-
-Colombo High Court Judge Thatawatte rejected the request and did not submit specialized to Keheliya Rambukwella.
-
-Keheliya Rambukwella has been remanded in connection with the government with billions of losses to the government through substandard medicine.
-
-◼️
-
-[Data](articles/3a8d25ce.json)
-
-[Extended Data](ext_articles/3a8d25ce.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 09:52:23**
+As of **2024-04-03 10:03:34**
 
 ## Newspaper Stats
 
-*Scraped **16,784** Articles*
+*Scraped **16,786** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 922
 islandlk | 931
 adalk | 1,408
 tamilmirrorlk | 1,997
-adaderanalk | 2,013
-virakesarilk | 2,414
+adaderanalk | 2,014
+virakesarilk | 2,415
 dailymirrorlk | 2,587
 adaderanasinhalalk | 2,711
 
@@ -26,23 +26,87 @@ adaderanasinhalalk | 2,711
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,782 (100.0%) of 16,784 articles have been extended.
+16,784 (100.0%) of 16,786 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### பாலின அடிப்படையிலான வேதன இடைவெளி : உலகளாவிய சராசரியை விடவும் இலங்கையில் உயர்வாகப் பதிவு - சர்வதேச தொழிலாளர் அமைப்பின் புதிய ஆய்வறிக்கையில் தகவல்
+### New law to solve family violence -Geeta Kumarasinghe
+
+*2024-04-03 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180286) · `ta`
+
+Geeta Kumarasinghe, Minister of State for Women and Child Affairs, announced a new law to combat family violence, including establishing a National Women's Commission. The law aims to strengthen women's rights, with provisions for temporary detention centers and amendments to the Family Violence Prevention Act.
+
+🟩
+
+Minister of State for Women and Child Affairs Geeta Kumarasinghe said that the Cabinet approval has been granted to amend the current Family Violence Act and bring a new bill to Parliament.
+
+At the same time, the Minister of State has said that it will be given the opportunity to establish a National Women's Commission after the presence of Parliament to strengthen women published in the Gazette.
+
+He was speaking at a media briefing held at the Presidential Media Center on Tuesday (02).
+
+“Cabinet approval was issued for the Bill to strengthen women and issued the Gazette on 03.07.2024. It will soon be presented in Parliament and the provisions of the National Women's Commission have been embraced.
+
+The Union of Parliament and Members of Parliament held a discussion on the Bill to strengthen women in Parliament on 20.03.2024. The President's Office, the Attorney General's Department and the Department of Law Draftsman were also present at the discussion.
+
+...
+
+[Data](articles/cf17d4af.json)
+
+[Extended Data](ext_articles/cf17d4af.ext.json)
+
+---
+
+### அடுத்த வாரம் புலம்பெயர் தமிழர் அமைப்புக்களை சந்திக்கிறது உண்மை, நல்லிணக்கப் பொறிமுறைக்கான இடைக்கால செயலகம்
+
+*2024-04-03 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180295) · `ta`
+
+ஐரோப்பிய நாடுகளில் இயங்கிவரும் புலம்பெயர் தமிழர் அமைப்புக்களின் பிரதிநிதிகளை அடுத்த வாரம் சந்திக்கவுள்ள உண்மை மற்றும் நல்லிணக்கப் பொறிமுறைக்கான இடைக்கால செயலகத்தின் கொள்கைப்பிரிவு தலைவர் யுவி தங்கராஜா, உத்தேச உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு தொடர்பில் அவர்களுக்கு விளக்கமளிக்கவுள்ளார்.
+
+நாட்டில் உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழுவை ஸ்தாபிக்கும் பணிகள் அரசாங்கத்தினால் தீவிரமாக முன்னெடுக்கப்படுவரும் நிலையில், அதற்குரிய பூர்வாங்க நடவடிக்கைகளை ஒருங்கிணைக்கும் விதமாக கலாநிதி அசங்க குணவன்ச தலைமையில் இயங்கிவரும் உண்மை மற்றும் நல்லிணக்கப் பொறிமுறையின் இடைக்கால செயலக அதிகாரிகள் அண்மையில் வட, கிழக்கு மாகாணங்களுக்கு விஜயம் மேற்கொண்டு பல்வேறு தரப்பினருடன் சந்திப்புக்களை நடத்தியிருந்தனர். அதேபோன்று தெற்கிலும், குறிப்பாக கொழும்பைத் தளமாகக்கொண்டு இயங்கிவரும் சிவில் சமூக அமைப்புக்களின் பிரதிநிதிகள் மற்றும் புத்திஜீவிகளை சந்தித்து உத்தேச உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலம் தொடர்பில் கலந்துரையாடல்களை முன்னெடுத்திருந்தனர்.
+
+...
+
+[Data](articles/f14952cd.json)
+
+---
+
+### Govt. to put forward new Bill to combat domestic violence
+
+*2024-04-03 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98389/govt-to-put-forward-new-bill-to-combat-domestic-violence) · `en`
+
+Women and Children’s Affairs State Minister Geetha Kumarasinghe says the Cabinet of Ministers has approved a proposal to amend the existing Prevention of Domestic Violence Act and present a new Bill to Parliament.
+
+She also highlighted that plans are in progress to establish the National Commission for Women, following the introduction of the already gazetted Bill on Women’s Empowerment.
+
+Kumarasinghe made these remarks while addressing a briefing held at the Presidential Media Centre (PMC) on Tuesday (02).
+
+“The Cabinet approved the Women’s Empowerment Bill on March 04 and subsequently the draft Bill was officially published in the gazette on March 07. It is scheduled to be tabled in Parliament soon. The Act includes provisions regarding the establishment of the National Commission for Women.”
+
+...
+
+[Data](articles/159dde42.json)
+
+---
+
+### Gender -based pain gap: The highest registration in Sri Lanka than the global average
 
 *2024-04-03 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180293) · `ta`
 
-உலகளாவிய ரீதியில் நிலவும் பாலின அடிப்படையிலான வேதன இடைவெளியானது சராசரியாக 20 சதவீதமாக மதிப்பிடப்பட்டுள்ளது. இருப்பினும் இலங்கையில் நிலவும் வேதன இடைவெளி இந்த உலகளாவிய சராசரியை விடவும் அதிகம் என்பதுடன், குறைந்த - நடுத்தர வருமானம் பெறும் நாடுகளில் காணப்படும் வேதன இடைவெளியை விட உயர்வானதாகும் என சர்வதேச தொழிலாளர் அமைப்பின் புதிய ஆய்வறிக்கையில் சுட்டிக்காட்டப்பட்டுள்ளது.
+Sri Lanka's gender-based pain gap is the highest globally, with a significant disparity in labor contributions between men and women. The International Labor Organization's study reveals a massive, unaddressed gender-based pain gap in Sri Lanka, affecting women's entry into trade and economic prosperity. Despite efforts to reduce this gap, women's contributions remain low, with a 40% contribution compared to men's 80% in 2019. This gap has persisted for decades, with a notable increase in the pain gap among adult workers as age increases.
 
-'உலகின் பெரும்பாலான நாடுகளில் நிலவும் பாலின அடிப்படையிலான வேதன இடைவெளியானது தொழிற்சந்தையில் காணப்படும் பாலின சமத்துவமின்மையைத் தெளிவாகப் புலப்படுத்துகின்றது. சமூகநீதி மற்றும் பொருளாதார சுபீட்சம் ஆகிய இரு கோணங்களிலும் அதற்குத் தீர்வு காணவேண்டியது அவசியமாகும். பாரிய அளவிலானதும், உரிய காரணங்கள் தெளிவுபடுத்தப்படாததுமான பாலின அடிப்படையிலான வேதன இடைவெளியானது தொழிற்சந்தையில் சமத்துவமின்மையைத் தோற்றுவிப்பதுடன் மாத்திரமன்றி, பெண்கள் தொழிற்சந்தைக்குள் பிரவேசிப்பதிலும், முன்னேற்றமடைவதிலும் தடைகளை ஏற்படுத்தும்' என சர்வதேச தொழிலாளர் அமைப்பு இலங்கை தொடர்பான அதன் ஆய்வறிக்கையில் சுட்டிக்காட்டியுள்ளது.
+🟩
+
+Global -based agony interval is estimated at an average of 20 percent. However, in the new study of the International Labor Organization, the International Labor Organization has indicated that the pain gap in Sri Lanka is higher than that of this global average and is higher than the pain in low and middle -income countries.
+
+“In most countries of the world, the gender -based pains space clearly reveal the gender inequality found in the union. It is necessary to address both social justice and economic prosperity. In its study on Sri Lanka, the International Labor Organization has pointed out that the gender -based agony space that is massive and unreasonable is unclear, and that it will create an inequality in the union and prevent the entry of women and women into the trade.
 
 ...
 
 [Data](articles/7e3f531a.json)
+
+[Extended Data](ext_articles/7e3f531a.ext.json)
 
 ---
 
@@ -87,6 +151,8 @@ World Bank's Senior Country Economist for the Maldives and Sri Lanka Richard Wal
 ...
 
 [Data](articles/637fee3b.json)
+
+[Extended Data](ext_articles/637fee3b.ext.json)
 
 ---
 
@@ -993,32 +1059,6 @@ According to the law, the daily salary has been increased to Rs.. Labor Minister
 [Data](articles/16519871.json)
 
 [Extended Data](ext_articles/16519871.ext.json)
-
----
-
-### New law to solve family violence -Geeta Kumarasinghe
-
-*2024-04-03 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/180286) · `ta`
-
-Geeta Kumarasinghe, Minister of State for Women and Child Affairs, announced a new law to combat family violence, including establishing a National Women's Commission. The law aims to strengthen women's rights, with provisions for temporary detention centers and amendments to the Family Violence Prevention Act.
-
-🟩
-
-Minister of State for Women and Child Affairs Geeta Kumarasinghe said that the Cabinet approval has been granted to amend the current Family Violence Act and bring a new bill to Parliament.
-
-At the same time, the Minister of State has said that it will be given the opportunity to establish a National Women's Commission after the presence of Parliament to strengthen women published in the Gazette.
-
-He was speaking at a media briefing held at the Presidential Media Center on Tuesday (02).
-
-“Cabinet approval was issued for the Bill to strengthen women and issued the Gazette on 03.07.2024. It will soon be presented in Parliament and the provisions of the National Women's Commission have been embraced.
-
-The Union of Parliament and Members of Parliament held a discussion on the Bill to strengthen women in Parliament on 20.03.2024. The President's Office, the Attorney General's Department and the Department of Law Draftsman were also present at the discussion.
-
-...
-
-[Data](articles/cf17d4af.json)
-
-[Extended Data](ext_articles/cf17d4af.ext.json)
 
 ---
 
@@ -2175,51 +2215,5 @@ Hundreds of thousands of people threatened the sovereignty of the people. On the
 [Data](articles/2da89c11.json)
 
 [Extended Data](ext_articles/2da89c11.ext.json)
-
----
-
-### 'Saved me is the prayer of the fans' - 'People Man' Ramarajan
-
-*2024-04-02 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180265) · `ta`
-
-"'People Man' Ramarajan, a key figure in Tamil cinema, stars in 'Samaniyan', with music by Gnani Ilayaraja. He credits fans' prayers for his survival after an accident in 2010, and praises the film's emotional impact and Ilayaraja's music."
-
-🟩
-
-'People Man' Ramarajan is the indispensable force in the history of Tamil cinema. After a short break he is the hero of the story 'Samaniyan'. The music and preview of the film will be released soon in Chennai.
-
-Ramarajan, Naksha Saran, Smriti Venkat, Abernathi, Radha Ravi,. S.. Bhaskar, Leo Sivakumar, Raja Rani Pandiyan, Maim Gopi, Post Venkat, Vinodini, K. S.. Ravikumar, Robot Shankar and many others star. The film, which has been recorded by Arul Selvan, has composed the musician Gnani Ilayaraja. Producer V. The afternoon has produced.
-
-Speaking at the event, Ramarajan said, “In 2010, when I was speaking at a public meeting in 2010, I got into an accident unexpectedly.. I survived by the fans' prayers. Come back from it and act like this.. Did not think. This has happened like the world miracle. This is the reason for this.
-
-...
-
-[Data](articles/479f35f0.json)
-
-[Extended Data](ext_articles/479f35f0.ext.json)
-
----
-
-### Pan Indian star actor Prabhas proudly released 'Double Tucker'
-
-*2024-04-02 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180266) · `ta`
-
-Prabhas, star of 'Baahubali', released 'Double Tucker', a comedy about Tiraj, a heart surgeon and actor. The film, in Tamil and Telugu, has over a million viewers. Directed by Meera Mahadi, it features a cast including Smriti Venkat and Coimbatore Sarala.
-
-🟩
-
-The preview of the movie 'Double Tucker', which plays the hero of the story of Tiraj, a famous heart surgery and actor in Chennai.
-
-Pan Prabhas has posted this on his web page as Ban's Indian star actor through the film 'Baahubali' and congratulated the film crew.
-
-The film, which has been released in Tamil and Telugu, has been a record of over a million spectators within a short period of time.
-
-Tiraj, Smriti Venkat, Coimbatore Sarala, M, directed by debutant director Meera Mahadi.. S.. Bhaskar, Munis Kant, Kali Venkat, Sunil Reddy, Karunakaran, Yashika Anand, George Vijay. The film is composed by Gautham Rajendran and has composed the film 'Melody King'.. The film, which is being prepared as a full -length comedy, has produced a huge cost of Air Flick.
-
-...
-
-[Data](articles/8527c485.json)
-
-[Extended Data](ext_articles/8527c485.ext.json)
 
 ---

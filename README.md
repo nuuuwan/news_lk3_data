@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 04:50:28**
+As of **2024-04-04 05:03:28**
 
 ## Newspaper Stats
 
-*Scraped **16,990** Articles*
+*Scraped **16,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 150
 bbccomsinhala | 177
 dbsjeyarajcom | 207
 newsfirstlk | 363
-dailyftlk | 924
+dailyftlk | 929
 islandlk | 932
 economynextcom | 942
 adalk | 1,430
@@ -26,11 +26,109 @@ adaderanasinhalalk | 2,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,990 (100.0%) of 16,990 articles have been extended.
+16,990 (100.0%) of 16,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### Gammanpila warns against holding both elections on same day
+
+*2024-04-04 04:49:55* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-warns-against-holding-both-elections-on-same-day/56-760298) · `en`
+
+Claims Govt. and President are scheming to hold Presidential and Parliamentary polls on same day
+
+Notes there is no legal impediment to hold both polls between July 17 and September 4
+
+Stresses that holding both elections on same day will be unfavourable to country
+
+Pivithuru Hela Urumaya (PHU) leader Udaya Gammanpila says the Government is attempting to hold both the Presidential and Parliamentary elections on the same day.
+
+Speaking at a press conference held at the party headquarters, Gammanpila asserted that the scheme is underway to fulfil the requirements of both the President and the Sri Lanka Podujana Peramuna. Nevertheless, he contended that holding both elections on the same day would not be in the best interest of the country.
+
+...
+
+[Data](articles/649fa3a7.json)
+
+---
+
+### Gamini Lokuge assumes Chairmanship of Committee on Banking and Financial Services
+
+*2024-04-04 04:48:43* · [`dailyftlk`](https://www.ft.lk/news/Gamini-Lokuge-assumes-Chairmanship-of-Committee-on-Banking-and-Financial-Services/56-760297) · `en`
+
+In a unanimous decision, Member of the Parliament Gamini Lokuge has been elected as the new Chairman of the Committee on Banking and Financial Services for the Fifth Session of the Ninth Parliament.
+
+The nomination of MP Lokuge was put forward by MP Kokila Gunawardena and seconded by MP Udaya Gammanpila during the committee’s inaugural meeting for session convened on 1 April. Lokuge previously chaired this committee during the fourth session of the Ninth Parliament.
+
+Addressing the assembly, the newly appointed Chair expressed gratitude to all MPs for their unwavering support during the previous session.  He stressed the importance of continued collaboration and support from all members in the future endeavours of the committee.
+
+hlighting the committee’s focus areas, the Chair underscored its dedication to addressing issues within the cooperative sector.
+
+...
+
+[Data](articles/886f7fab.json)
+
+---
+
+### Chandima Weerakkody endorses SJB as most suited destination for SLFPers
+
+*2024-04-04 04:47:09* · [`dailyftlk`](https://www.ft.lk/news/Chandima-Weerakkody-endorses-SJB-as-most-suited-destination-for-SLFPers/56-760296) · `en`
+
+Claims SJB is most aligned with SLFP policies and ideologies as envisioned by party founder
+
+Urges citizens to examine SJB’s proposals and compare it with those of other parties
+
+Affirms SJB’s readiness to address issues faced by country’s citizens
+
+Samagi Jana Balawegaya (SJB) MP Chandima Weerakkody on Tuesday declared that the SJB is the most suitable political party for members of the Sri Lanka Freedom Party (SLFP).
+
+The MP addressing a press conference highlighted that SLFP founder S. W. R. D. Bandaranaike aimed to steer the party towards a moderate stance. Drawing parallels, he suggested that the SJB is currently following a similar path. Consequently, he maintained that the ideology most aligned with SLFP members is represented by the SJB.
+
+Former SLFPer Weerakkody expressed his belief that the SLFP has undergone significant deterioration. He proposed that SLFP members might find it advantageous to consider joining the SJB, as its policies and ideology align more closely with their own.
+
+...
+
+[Data](articles/285004e1.json)
+
+---
+
+### High Court rejects Keheliya’s bail application
+
+*2024-04-04 04:44:18* · [`dailyftlk`](https://www.ft.lk/news/High-Court-rejects-Keheliya-s-bail-application/56-760295) · `en`
+
+Former Health Minister Keheliya Rambukwella’s revision application seeking bail has been rejected once again by the Colombo High Court yesterday.
+
+In his bail application filed on 15 March through his legal counsels, Rambukwella claimed that the Maligakanda Magistrate’s decision to reject bail for him is unlawful. He also sought the High Court to release him on bail subjected to any condition.
+
+In March, Rambukwella’s bail application was rejected for the first time after the Attorney General had raised preliminary objections. Maligakanda Magistrate Lochani Abeywickrama overruled the accused’ bail pleas and detained them indefinitely under the provisions of the Public Property Act.
+
+Later, the former Minister’s daughter Chaminthri Rambukwella had filed the revision petition at the Colombo High Court requesting that her father be released on bail conditions the Court deems fit.
+
+...
+
+[Data](articles/cc2b85d1.json)
+
+---
+
+### Reform agenda must be progressive, not regressive: SJB
+
+*2024-04-04 03:50:38* · [`dailyftlk`](https://www.ft.lk/business/Reform-agenda-must-be-progressive-not-regressive-SJB/34-760294) · `en`
+
+Says subject Minister must not entertain absolute power over appointments and tariff
+
+Power deals must have better transparency and generate savings for the country
+
+Harsha de Silva says Sri Lanka must hasten out of default status
+
+Eran Wickramaratne recommends greater opening up of Sri Lankan economy
+
+Main Opposition Samagi Jana Balawegaya (SJB) yesterday insisted the reform agenda must be progressive and called for greater transparency. The party’s trio of economists addressed a range of pressing issues which the Government has failed to deal with expeditiously.
+
+...
+
+[Data](articles/8ddeaa1f.json)
+
+---
 
 ### Dhammika Fernando re-elected Chairman of Free Trade Zone Manufacturers’ Association
 
@@ -2147,115 +2245,5 @@ The film crew has officially announced that the teaser of the film will be relea
 [Data](articles/ffa60505.json)
 
 [Extended Data](ext_articles/ffa60505.ext.json)
-
----
-
-### First Look release of 'Kane' starring newcomers
-
-*2024-04-03 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180343) · `ta`
-
-"First Look of 'Kane' features newcomers in color, silver, and digital. Directed by Adams, it stars Pranavi Manukanda, Hemant Menon, and others, with Aswamitra's music. Produced by T. Karunanidhi, it's shot and edited by Sun Rivi's host, Adams, and others. The film's unique spleet format has garnered attention."
-
-🟩
-
-The iconic editors have highlighted their talent in color, silver screen and digital screen.
-
-Sun Rivi's host, Adams, has made his directorial debut with the film 'Kane'. The first look of the film has been very impressed with the attention of the Internet.
-
-Directed by Adams 'Kane', Pranavi Manukanda, Hemant Menon, Akshara Raj, Kalaiyarasan, Yashika Anand, Thambi Ramaiah, Robot Shankar, Kovai Sarala, Karunakaran, Maran, Sriman, V D V GaneshMany people including Vijayan have acted.
-
-Aswamitra has composed the film, which is being recorded by Prakash Rudra. Producer T.. Karunanidhi has produced.
-
-The shooting of the film is completed and the final phase of the work is going on. In this case, the first look of the film has been released.
-
-In the first look, the spleet format has been created as a different face with a small part of the stars from the faces of the stars.
-
-◼️
-
-[Data](articles/d0eed772.json)
-
-[Extended Data](ext_articles/d0eed772.ext.json)
-
----
-
-### G. Sukunan assumed responsibility as the Director of the Vavuniya District General Hospital
-
-*2024-04-03 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180345) · `ta`
-
-G. Sukunan, new Director of Vavuniya District General Hospital, began duties after a special ceremony at Kandaswamy Temple.
-
-🟩
-
-Recently, the Ministry of Health has launched various new appointments in the Northern Province health sector.
-
-G. Sukunan was appointed as the Director of the Vavuniya District General Hospital. He took charge of his duties this morning.
-
-Earlier, after a special pooja at the Kandaswamy Temple in Vavuniya, he officially started his duties as the Director of the Vavuniya District General Hospital.
-
-◼️
-
-[Data](articles/58555fc4.json)
-
-[Extended Data](ext_articles/58555fc4.ext.json)
-
----
-
-### Ban against Jerome removed
-
-*2024-04-03 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195257) · `si`
-
-The ban on Pastor Jerm Fernando, previously imposed due to religious reputation concerns, has been temporarily lifted. The decision was made after the case was heard in the Fort Magistrate's Court today.
-
-🟩
-
-Steps have been taken to temporarily remove the ban on the abroad imposed on the pastor Jerm Fernando.
-
-The order has been issued when the case against Jerm Fernando was summoned before the Fort Magistrate's Court today.
-
-It is said that the court has been removed by the court of the courts with regard to a few foreign countries.
-
-The court had previously banned a foreign travel to the Palaim Fernando regarding the case due to the reputation of religion last year.
-
-◼️
-
-[Data](articles/275b9372.json)
-
-[Extended Data](ext_articles/275b9372.ext.json)
-
----
-
-### Maithripala decides not to provide statement in court
-
-*2024-04-03 16:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Maithripala-decides-not-to-provide-statement-in-court/155-280116) · `en`
-
-Colombo, April 3 (Daily Mirror)- Former President Maithripala Sirisena has informed the Maligakanda Magistrate's Court that he will not provide a confidential statement before the magistrate in connection with his controversial revelation regarding the Easter Sunday attacks.
-
-Court had earlier directed the former President to appear before Court on April 4 following a request by the Criminal Investigations Department (CID).
-
-In a motion before Magistrate Lochani Abeywickrema, a lawyer representing former President Sirisena informed court that his client does not intend to make a confidential statement regarding the Easter Sunday attacks since he has already made a detailed statement to the CID. After hearing the submissions, the Magistrate held that there is no necessity for the former President to appear before court on April 4.
-
-...
-
-[Data](articles/74821c78.json)
-
-[Extended Data](ext_articles/74821c78.ext.json)
-
----
-
-### Maithripala decides not to provide statement in court
-
-*2024-04-03 16:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maithripala-decides-not-to-provide-statement-in-court/108-280116) · `en`
-
-Colombo, April 3 (Daily Mirror)- Former President Maithripala Sirisena has informed the Maligakanda Magistrate's Court that he will not provide a confidential statement before the magistrate in connection with his controversial revelation regarding the Easter Sunday attacks.
-
-Court had earlier directed the former President to appear before Court on April 4 following a request by the Criminal Investigations Department (CID).
-
-In a motion before Magistrate Lochani Abeywickrema, a lawyer representing former President Sirisena informed court that his client does not intend to make a confidential statement regarding the Easter Sunday attacks since he has already made a detailed statement to the CID. After hearing the submissions, the Magistrate held that there is no necessity for the former President to appear before court on April 4.
-
-...
-
-[Data](articles/c8c5d72d.json)
-
-[Extended Data](ext_articles/c8c5d72d.ext.json)
 
 ---

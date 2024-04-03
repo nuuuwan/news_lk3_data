@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 18:09:32**
+As of **2024-04-03 18:21:30**
 
 ## Newspaper Stats
 
-*Scraped **16,901** Articles*
+*Scraped **16,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 910
 economynextcom | 927
 islandlk | 931
-adalk | 1,420
+adalk | 1,421
 tamilmirrorlk | 2,012
 adaderanalk | 2,029
-virakesarilk | 2,441
+virakesarilk | 2,443
 dailymirrorlk | 2,600
 adaderanasinhalalk | 2,735
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,897 (100.0%) of 16,901 articles have been extended.
+16,901 (100.0%) of 16,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### பொலிஸ் காவலில் வைக்கப்பட்டிருந்த 24 பேர் கடந்த வருடம்  உயிரிழப்பு!
+
+*2024-04-03 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180363) · `ta`
+
+பொலிஸ் காவலில் வைக்கப்பட்டிருந்தபோது 24 பேர் கடந்த  வருடம் உயிரிழந்துள்ளதாக இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் ஆணையாளர் நிமல் புஞ்சிஹேவா தெரிவித்துள்ளார்.
+
+மேலும் யுக்திய நடவடிக்கையின் கீழ் கைது செய்யப்பட்டவர்கள் தொடர்பில் 44 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாகவும் கடந்த வருடம் ஆணைக்குழுவுக்கு  9,714 முறைப்பாடுகள் கிடைத்துள்ளதாகவும் சட்டத்தரணி நிமல் புஞ்சிஹேவா குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/b48bd8b5.json)
+
+---
 
 ### World’s oldest man dies weeks before 115th birthday
 
@@ -54,6 +68,8 @@ The farmer known as Tio Vicente was born in the town of El Cobre, in the Andean 
 
 [Data](articles/6a36c353.json)
 
+[Extended Data](ext_articles/6a36c353.ext.json)
+
 ---
 
 ### University students tear-gassed
@@ -66,23 +82,47 @@ Police dispersed protesting university students near the University of Moratuwa,
 
 [Data](articles/2e156dc1.json)
 
+[Extended Data](ext_articles/2e156dc1.ext.json)
+
 ---
 
-### ලොව වයස්ගතම මිනිසා මිය යයි
+### The world's oldest man dies
 
 *2024-04-03 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195264) · `si`
 
-ලොව වයස්ගතම මිනිසා ලෙස ගිනස් වාර්තා පොතට ඇතුළත්වී සිටි වෙනිසියුලානු ජාතික හුවාන් විසෙන්ටේ මියගොස් තිබේ.
+Venezuelan Huan, the world's oldest man at 114, died, leaving behind 11 children and 41 grandchildren.
 
-වයස අවුරුදු 114ක් සම්පූර්ණ වී සිටියදී ඊයේ දිනයේ ඔහු මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-දරුවන් 11 දෙනෙකුගේ පියෙකු වන හුවාන් හට මුනුබුරු, මිනිබිරියන් 41 දෙනෙකු සිටින බව වාර්තා වෙයි.
+Venezuelan Huan, who was the oldest man in the world, has died in the Guinness Book of Records.
 
-2022 වසරේ පෙබරවාරි 04 වන දින ජීවතුන් අතර සිටින ලොව වයස්ගතම මිනිසා ලෙස ඔහු නම් කෙරුණි.
+Foreign media reports that he had died yesterday when he was 114 years old.
+
+Huan, a father of 11 children, has 41 grandchildren.
+
+He was the oldest man who was alive on 4 February 2022.
 
 ◼️
 
 [Data](articles/37ccbb82.json)
+
+[Extended Data](ext_articles/37ccbb82.ext.json)
+
+---
+
+### போதகர் ஜெரோம் பெர்னாண்டோவுக்கு விதிக்கப்பட்ட வெளிநாட்டு பயணத்தடை  தற்காலிகமாக நீக்கம்!
+
+*2024-04-03 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/180362) · `ta`
+
+பௌத்தம் மற்றும் ஏனைய மதங்களை அவமதிக்கும் வகையில் கருத்து வெளியிட்ட குற்றச்சாட்டின் பேரில் கைதாகி  பிணையில் விடுவிக்கப்பட்டுள்ள போதகர் ஜெரோம் பெர்னாண்டோவுக்கு விதிக்கப்பட்ட வெளிநாட்டு பயணத்தடையை ஜூன் 26 ஆம் திகதி வரை நீக்குமாறு கோட்டை நீதிவான் திலின கமகே புதன்கிழமை (03) உத்தரவிட்டுள்ளார்.
+
+இந்த வழக்கு இன்று விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டபோது, பிரதிவாதி சார்பில் ஆஜரான ஜனாதிபதி சட்டத்தரணி அனுஜ பிரேமரத்ன, எதிர்வரும் காலங்களில் அவுஸ்திரேலியா உட்பட பல நாடுகளில் விரிவுரைகளை நடத்தவுள்ள ஜெரோம் பெர்னாண்டோவுக்கு விதிக்கப்பட்டுள்ள வெளிநாட்டு பயணத்தடையை தற்காலிகமாக நீக்குமாறு கோட்டை நீதிவானிடம் கோரிக்கை விடுத்தார்.
+
+ஜெரோம் பெர்னாண்டோ வெளிநாடு செல்லத் தடை விதிக்கப்பட்டாலும் கைது செய்யப்படுவார் எனத் தெரிந்தும்  கடந்த முறை இலங்கை வந்ததாகவும், விரிவுரைகளை முடித்துக்கொண்டு அவ்வாறே இலங்கை திரும்பவுள்ளதாகவும் ஜனாதிபதி சட்டத்தரணி அனுஜ பிரேமரத்ன தெரிவித்தார்.
+
+◼️
+
+[Data](articles/fe990b74.json)
 
 ---
 
@@ -788,6 +828,8 @@ UNP Deputy Leader and Adviser to the President, Ruwan Wijewardena held a public 
 
 [Data](articles/221d15cf.json)
 
+[Extended Data](ext_articles/221d15cf.ext.json)
+
 ---
 
 ### Several special trains during New Year's year
@@ -807,6 +849,24 @@ The Railway Department is noting that the train will be operated from Colombo fr
 [Data](articles/0426cc54.json)
 
 [Extended Data](ext_articles/0426cc54.ext.json)
+
+---
+
+### රජිව් ගාන්ධි ඝාතනයට සම්බන්ධ තවත් ලාංකිකයන් තිදෙනෙක් නිදහස් කරයි
+
+*2024-04-03 15:01:12* · [`adalk`](https://www.ada.lk/breaking_news/රජිව්-ගාන්ධි-ඝාතනයට-සම්බන්ධ-තවත්-ලාංකිකයන්-තිදෙනෙක්-නිදහස්-කරයි/11-408924) · `si`
+
+ඉන්දියාවේ හිටපු අග්‍රාමාත්‍ය රජීව් ගාන්ධි මහතා 1991.05.21 දින ඝාතනය කිරීම සම්බන්ධයෙන් චෝදනා ලබා වසර 33 ක් සිර දඩුවම් ලබා සිටි ද්‍රවිඩ ජාතිකයන් තිදෙනකු එරටින් පිටුවහල් කර 04/03 දින දහවල් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ඔවුන් අතර 62 හැවිරිදි  ශන්මුගලිංගම් ජයකුමාර  , 53 හැවිරිදි වෙන්ට්‍රිවල් ශ්‍රී කරන් හෙවත් මුරුගන් සහ 53 හැවිරිදි බාලසුන්දරම් රොබට් පයස් යන අය සිටින අතර ඔවුන් සමග ඉන්දියාවේ නීතීඥවරයෙකු ද පැමිණ සිටියහ .
+
+ඔවුන් 04/03 දින දහවල් 11.03 ට ඉන්දියාවේ චෙන්නායි නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 122 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ඉන්දියාවේ හිටපු අග්‍රාමාත්‍ය රජීව් ගාන්ධි මහතාගේ ඝාතනයට සම්බන්ධ වීමේ චෝදනාව මත වසර 33 ක් සිර දඩුවම් විදීමෙන් පසුව 2022 නොවැම්බර් මස 11 දින නිදහස ලබා තමිල්නාඩු ප්‍රාන්තයේ ට්‍රිචිනාපොලි විශේෂ කදවුරේ ද රදවා තබා ගැනීමෙන් පසුව 04/03 දින මෙසේ ශ්‍රී ලංකාවට පිටුවහල් කර එවා තිබේ .
+
+...
+
+[Data](articles/725520c4.json)
 
 ---
 
@@ -2271,69 +2331,5 @@ He also said a circular related to this will be issued by the Education Minister
 [Data](articles/2effe22c.json)
 
 [Extended Data](ext_articles/2effe22c.ext.json)
-
----
-
-### Sri Lankan-born professor appointed to U.S. National Security Education Board
-
-*2024-04-03 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98390/sri-lankan-born-professor-appointed-to-us-national-security-education-board) · `en`
-
-Dr. Patrick Mendis, a former U.S. diplomat of Sri Lankan origin, has been appointed as an advisor to the U.S. National Security Education Board by President Joe Biden.
-
-According to a statement published by the White House, Dr. Mendis was also a military professor in the North Atlantic Treaty Organization (NATO) and Indo-Pacific Commands during the Clinton, Bush, and Obama administrations.
-
-He has held many senior government positions in the U.S. Departments of Agriculture, Defense, Energy, and State.
-
-Dr. Mendis is currently located in Washington DC, while serving as a distinguished visiting professor of transatlantic relations at the University of Warsaw in Poland as well as a distinguished visiting professor of global affairs at the National Chengchi University in Taiwan.
-
-...
-
-[Data](articles/311f60ff.json)
-
-[Extended Data](ext_articles/311f60ff.ext.json)
-
----
-
-### The child's father poison, helpless for the child to eat food
-
-*2024-04-03 10:25:54* · [`adalk`](https://www.ada.lk/breaking_news/දරු-පවුලට-කෑම-බීම-දීමට-නොහැකිව-අසරණ-වී-පියා-වස-බීලා/11-408915) · `si`
-
-A father in Tissamaharama, facing economic hardship, allegedly poisoned his family, leading to their deaths. The wife, unable to afford medical help, was hospitalized after her husband's death.
-
-🟩
-
-Tissamaharama Police, a father of two people who lived in the middle of heavy economic difficulties in Ranmudagama, the Tissamaharama police said.
-
-Police suspect that the family was said to have had a poison that his family was unable to provide food.
-
-The Tissamaharama Police received information that the manioc was eaten for his family for several days and that he had no longer lived and he had little or her children.
-
-The wife has taken steps to be taken to hospital and hospitalized that her husband has been dragged to poison and to poison.. The Samurdhi officer in the area had come to the scene and there was no prosperity from the wife of the officer. She said she was cut off the prosperity a year ago.
-
-◼️
-
-[Data](articles/e0ba662a.json)
-
-[Extended Data](ext_articles/e0ba662a.ext.json)
-
----
-
-### Sri Lanka banks asked to set up business revival units by May
-
-*2024-04-03 10:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-banks-asked-to-set-up-business-revival-units-by-may-157294/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s banks have been asked by the central bank to set up business revival units to help restructure debt of troubled borrowers who have a chance of recovery, starting from May 2024.
-
-“The challenging macroeconomic conditions prevailed during the recent years have led to disrupting the income generating activities of businesses, adversely impacting the ability of borrowers to duly repay their loans and thereby impairing the recovery process of licensed banks,” the central bank said.
-
-“Thus, the setting up of business recovery units is considered imperative to assist both performing and non-performing borrowers of licensed banks whose businesses are fundamentally viable to revive.”
-
-Licensed banks have to set up BRUs by mid-May 2024 and fully comply with the guidelines by July 01.
-
-...
-
-[Data](articles/53b1618b.json)
-
-[Extended Data](ext_articles/53b1618b.ext.json)
 
 ---

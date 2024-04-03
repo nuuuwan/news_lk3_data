@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 08:33:57**
+As of **2024-04-03 08:52:00**
 
 ## Newspaper Stats
 
-*Scraped **16,773** Articles*
+*Scraped **16,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,43 +16,67 @@ dailyftlk | 910
 economynextcom | 922
 islandlk | 931
 adalk | 1,408
-tamilmirrorlk | 1,994
+tamilmirrorlk | 1,995
 adaderanalk | 2,012
 virakesarilk | 2,410
-dailymirrorlk | 2,585
+dailymirrorlk | 2,586
 adaderanasinhalalk | 2,710
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,764 (99.9%) of 16,773 articles have been extended.
+16,773 (100.0%) of 16,775 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### රුමේනියාවේ රැකියා සිහින පෙන්වා කෝටි ගණනක් වංචා කළ කත රිමාන්ඩ්
+### Hormone-disrupting chemicals found on raincoats can affect male fertility: Report
 
-*2024-04-03 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195235) · `si`
+*2024-04-03 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hormone-disrupting-chemicals-found-on-raincoats-can-affect-male-fertility-Report/108-280081) · `en`
 
-රුමේනියාවේ රැකියා ලබා දෙන බව පවසා රුපියල් කෝටි 08කට වැඩි මුදලක් වංචා කළ බව කියන සැකකාරියක් අප්‍රේල් 8 දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස මාළිගාකන්ද මහෙස්ත්‍රාත්වරයා නියම කර තිබේ.
+Colombo, April 3 (Daily Mirror) - Research reports suggest that hazardous chemicals or chemical mixtures, known as endocrine disruptive chemicals (EDCs), which interfere with the body's hormonal functions, have been found concealed within everyday consumer products like water-repellent textiles such as raincoats.
 
-මාළිගාවත්ත - ලක්විරු සෙවන නිවාස සංකීර්ණයේ සැඟවී සිටි කාන්තාවක්ව පසුගිය දා විදේශ සේවා නියුක්ති කාර්යංශයේ විමර්ශන නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබුණි.
+EDCs have an effect on the male hormone testosteron, and a large number of young males have a reduced sperm count, and an increasing number are being born with deformities of their sexual organs.
 
-විදේශ රැකියා ලබා දීම සඳහා අදාළ සැකකාරිය බලපත්‍රයක් ලබා ගෙන රැකියා නියෝජිත ආයතනයක් පවත්වා ගෙන ගොස් තිබේ.
-
-රුමේනියාවේ ක්ෂේත්‍ර කිහිපයක රැකියා ලබා දීම සඳහා ද ඇයට අවසර තිබී ඇත.
-
-නමුත් තමන්ට අවසර නොමැති රැකියා ක්ෂේත්‍ර සඳහා යොමු කරන බව පවසමින් සැකකාරිය මුදල් ලබා ගෙන ඇති බවට විදේශ සේවා නියුක්ති කාර්යංශයට පැමිණිලි ලැබී ඇත.
-
-සැකකාරියට මුදල් ලබා දී රැකියා නොලැබුණු පුද්ගලයින් 88 දෙනෙකු ඒ සම්බන්ධයෙන් විදේශ සේවා නියුක්ති කාර්යංශයට පැමිණිලි කර තිබේ.
-
-මේ සම්බන්ධයෙන් විමර්ශනයක් පැවැත්වීම සඳහා විදේශ සේවා නියුක්ති කාර්යංශයට පැමිණෙන ලෙස විමර්ශන නිලධාරීන් ඇයට දන්වා තිබුණ ද ඇය විමර්ශන නිලධාරීන් ඉදිරියේ පෙනී නොසිට සැඟවී සිට ඇත.
+Based on research on water-repellent textiles such as raincoats and personal care products, the Centre for Environmental Justice (CEJ) has disclosed exposures to chemicals such as perfluorodecanoic acid (PFDA), parabens, and triclosan in everyday items, posing significant risks to public health.
 
 ...
 
+[Data](articles/96572dd3.json)
+
+---
+
+### Lakshman remanded for cheating crores and fraud
+
+*2024-04-03 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195235) · `si`
+
+Lakshman, arrested for cheating and fraud, is also under investigation for defrauding over Rs. The suspect, who obtained a license for foreign employment, is accused of taking money from 88 people. The Foreign Employment Bureau is investigating further.
+
+🟩
+
+The Maligakanda Magistrate also prescribed a suspect who has been arrested for defrauding more than Rs.
+
+The Maligawatta has been arrested by the Foreign Employment Bureau recently.
+
+The suspect has obtained a license and maintained a job delegation to provide foreign employment.
+
+She was also allowed to provide employment in several areas in Romania.
+
+However, the Foreign Employment Bureau has received complaints that the suspect has taken money.
+
+A total of 88 persons who had not received money to the suspect have complained to the Foreign Employment Bureau.
+
+Although the investigation officials had informed her to attend the Foreign Employment Bureau to conduct an investigation into the matter.
+
+The Foreign Employment Bureau is conducting further investigations to arrest the manager and another of the Foreign Employment Agency (Manager) and another.
+
+◼️
+
 [Data](articles/e8a5b0c0.json)
+
+[Extended Data](ext_articles/e8a5b0c0.ext.json)
 
 ---
 
@@ -206,6 +230,8 @@ Several aftershocks were felt in Taiwan, including one that registered a magnitu
 
 [Data](articles/9e488eb9.json)
 
+[Extended Data](ext_articles/9e488eb9.ext.json)
+
 ---
 
 ### Tsunami warning to Japan
@@ -242,6 +268,8 @@ These rogue officers are accused of aiding criminal activity and taking undue ad
 
 [Data](articles/d2d7cf1c.json)
 
+[Extended Data](ext_articles/d2d7cf1c.ext.json)
+
 ---
 
 ### Welcoming summer with warmth...
@@ -253,6 +281,8 @@ The vibrant blossoms eagerly greet the summer in Nuwara Eliya, painting the land
 ◼️
 
 [Data](articles/3020db70.json)
+
+[Extended Data](ext_articles/3020db70.ext.json)
 
 ---
 
@@ -353,6 +383,8 @@ Also he announced that the UNP will hold a May Day procession in front of Tower 
 ◼️
 
 [Data](articles/c9778c29.json)
+
+[Extended Data](ext_articles/c9778c29.ext.json)
 
 ---
 
@@ -564,6 +596,26 @@ In 2018, “EUROPOL” headquartered in Hague, Netherlands, a key organisation e
 
 ---
 
+### முஸ்லிம் பாடசாலைகளின் பிரச்சினைகளுக்கு தீர்வு
+
+*2024-04-03 03:47:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-பாடசாலைகளின்-பிரச்சினைகளுக்கு-தீர்வு/175-335543) · `ta`
+
+கொழும்பு வலயத்திலிருந்தும் முஸ்லிம் பாடசாலைகளின் பிரச்சினைகள் குறித்து தேடியறிந்து அவற்றுக்கு விரைவில் தீர்வை பெற்றுக்கொடுக்குமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+கொழும்பு பிரதேசத்திலுள்ள முஸ்லிம் பாடசாலைகள் எதிர்கொள்ளும் கல்விசார்ந்த பிரச்சினைகள் தொடர்பாக நேற்று  ஜனாதிபதி செயலகத்தில் நடைபெற்ற கலந்துரையாடலிலேயே ஜனாதிபதி ரணில் விக்கிரமசிங்க இவ்வாறு பணிப்புரை விடுத்தார்.
+
+கொழும்பிலுள்ள முஸ்லிம் பாடசாலைகள் எதிர்கொள்ளும் பிரச்சினைகள் தொடர்பில் வெளிவிவகார அமைச்சர் அலி சப்ரி மற்றும் பாடசாலைகள் அதிபர்கள் மற்றும் அமைப்புகளின் பிரதிநிதிகள் ஜனாதிபதியிடம் எடுத்துரைத்தனர்.
+
+ஆசிரியர் பற்றாக்குறை, இடநெருக்கடி, வகுப்பறைகள் தட்டுப்பாடு, சிங்கள மூலம் இஸ்லாம் பாடம் கற்பிக்கும் ஆசிரியர் இன்மை, அதிகமாக முஸ்லிம்கள் வாழும் பகுதிகளில் பாடசாலைகள் இன்மை உள்ளிட்ட விடயங்கள் குறித்தும் இதன் போது ஆராயப்பட்டது.
+
+சுமார் 40 ஆயிரம் மாணவர்கள் சிங்கள மொழி மூலம் கல்வி கற்கின்றனர். அவர்களுக்கு இஸ்லாம் பாடம் கற்பிக்க ஆசிரியர் இன்மையினால் மாணவர்கள் எதிர்கொள்ளும் பிரச்சினை தொடர்பில் இங்கு ஆராயப்பட்டது.
+
+...
+
+[Data](articles/e88c12e1.json)
+
+---
+
 ### Murugan, Robot, Jayakumar returning to Sri Lanka today
 
 *2024-04-03 03:33:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இலங்கை-திரும்பும்-முருகன்-ரொபட்-ஜெயக்குமார்/175-335542) · `ta`
@@ -642,6 +694,8 @@ On March 26, a couple arriving from Thailand was arrested with 88 live animals b
 
 [Data](articles/8c4144dd.json)
 
+[Extended Data](ext_articles/8c4144dd.ext.json)
+
 ---
 
 ### Sri Lanka’s sovereignty of Kachchativu was never in doubt
@@ -716,6 +770,8 @@ In its recent development update for the island nation, the agency stressed that
 
 [Data](articles/fd4973ef.json)
 
+[Extended Data](ext_articles/fd4973ef.ext.json)
+
 ---
 
 ### Amendment and plantation workers!
@@ -777,6 +833,8 @@ The agreement of the Department of Foreign Resources, the Ministry of Foreign Af
 ...
 
 [Data](articles/b307a280.json)
+
+[Extended Data](ext_articles/b307a280.ext.json)
 
 ---
 
@@ -2159,57 +2217,5 @@ A bond maturing on 01.07.2032 closed at 12.50/75 percent. (Colombo/Apr2/2024)
 [Data](articles/1ca3d7f1.json)
 
 [Extended Data](ext_articles/1ca3d7f1.ext.json)
-
----
-
-### Karthika flower affair;Complaint at the Human Rights Commission
-
-*2024-04-02 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180254) · `ta`
-
-The Teachers Association has filed a complaint with the Sri Lanka Human Rights Commission, accusing the police and state investigators of interfering with school events. The complaint, lodged at the Jaffna Regional Office, concerns the Tellippalai Union College's Home Audit Competition, which they claim violates basic human rights by inviting students and teachers to scrutinize student decorations. The association demands the commission's intervention against the Tellippal police's alleged oppression of school activities.
-
-🟩
-
-The Teachers Association has lodged a complaint with the Sri Lanka Human Rights Commission on the interventions of the police and the state investigators at the school level events.
-
-Human Rights Commission's Jaffna. Tuesday, Regional Coordinator at the Regional Office. They have lodged a complaint with Kanakaraj.
-
-The Tellippalai Union College's Home Audit Competition, held last week, is a violation of the basic human rights that the Tellippalai police have invited students and teachers to investigate and investigate the manifestations of students in home decorations.
-
-Students' school level expressions in the school -level sports competition are subject to the freedom of thinking and conscience of the Sri Lankan Constitution.
-
-Investigations with the threats of Tellipal police, which do not respect such freedoms, are the violation of basic human rights and the oppression of the school administration.
-
-...
-
-[Data](articles/864c18d1.json)
-
-[Extended Data](ext_articles/864c18d1.ext.json)
-
----
-
-### Sri Lanka wins victory
-
-*2024-04-02 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195220) · `si`
-
-Sri Lanka wins the Test match against Bangladesh, with Bangladesh scoring 511 runs in their second innings, and Sri Lanka 152. Sri Lanka scored 531 runs in their first innings.
-
-🟩
-
-By the end of the fourth Test match between Sri Lanka and Bangladesh, Bangladesh scored 268 runs for the loss of 7 wickets in their second innings.
-
-Tourism Sri Lanka scored 152 runs for the loss of 7 wickets in their second innings.
-
-Accordingly, the Host Bangladesh team scored 511 runs.
-
-But the Bangladesh team scored 268 runs for the loss of 7 wickets in their second innings when the match was stopped.
-
-Batting first, Sri Lanka scored 531 runs for the loss of all of the people.
-
-◼️
-
-[Data](articles/89ccc0d2.json)
-
-[Extended Data](ext_articles/89ccc0d2.ext.json)
 
 ---

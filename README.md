@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 23:03:19**
+As of **2024-04-03 23:18:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,951 (100.0%) of 16,953 articles have been extended.
+16,953 (100.0%) of 16,953 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ It also emphasized that it would, under no circumstances, remain silent when att
 ...
 
 [Data](articles/4ad36c88.json)
+
+[Extended Data](ext_articles/4ad36c88.ext.json)
 
 ---
 
@@ -298,19 +300,27 @@ The policy plan prepared to modernize the agricultural sector of Sri Lanka was h
 
 ---
 
-### ශ්‍රීලන්කන්ට ගුවන් යානා 10ක් ඕනෑ
+### Srilankan needs 10 aircrafts
 
 *2024-04-03 19:49:15* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රීලන්කන්ට-ගුවන්-යානා-10ක්-ඕනෑ/11-408933) · `si`
 
-ගුවන් මගීන්ගේ ඉල්ලුමට අනුව ශ්‍රී ලංකන් සමාගමට තවත් ගුවන්යානා 10ක පමණ අවශ්‍යතාවක් තිබෙන බවත් කල් බදු ක්‍රමයට ගුවන්යානාහතරක් ලබා ගැනීමට කැබිනට් අනුමැතිය ලැබුණත් දැනට තිබෙන තත්ත්වය අනුව ලබාගත හැක්කේ ගුවන්යානා දෙකක් පමණක් බවත් ශ්‍රී ලංකන් ගුවන්සේවාසමාගමේ සභාපති අශොක් පතිරගේ මහතා සඳහන් කළේය. කල් බදු ක්‍රමයට ගන්නා එක් ගුවන්යානයකට ඩොලර් තුන්ලක්ෂ හැටදහසක් මාසයකට ගෙවීමට සිදුවන බවත් දැනට තිබෙන සමහර ගුවන්යානාවලට මාසයට ඩොලර් හත්ලක්ෂ පනස්දහසක් පමණ ගෙවන බවද පවසා සිටියේය.
+SriLankan Airlines needs 10 more planes, but only 4 approved. Two out of four planned aircraft obtained. Current airlines pay $6B monthly. Demand high, funding issue.
 
-මෙරට ගුවන්යානාවල ගමන් කිරීමට විශාල ඉල්ලුමක් තිබෙන බවත් අදාළ අවශ්‍යතාවන්ට භාවිත කිරීමට ප්‍රමාණවත් තරම් ගුවන්යානා නොමැති බවත්ගෙවී ගිය වසර තුන, හතර සැලකීමේදී මහා භාණ්ඩාගාරයෙන් මුදල් ලබා නොගෙන ගුවන් සේවාව පවත්වාගෙන ගිය බවත් එහෙත් මේ වන විට ඇති වූ යම් යම් තත්ත්වයන් මත මාස 06කට පමණ රජයෙන් සහන ලැබෙන බවද සඳහන් කළේය.
+🟩
 
-පවතින ඉල්ලීමට අනුව ගුවන්යානා 10ක්වත් ලබා ගත යුතු  බවත් අඩුම වශයෙන් 06ක්වත් ලබා ගැනීමට අවශ්‍යතාවක් තිබෙන බවත් දැනට ගුවන්යානා 15ක් පමණ ධාවනය වන බවත් මේ මස මැද කාලය වන විට එම ප්‍රමාණය 17ක් පමණ වන බවද පවසා සිටියේය.
+SriLankan Airlines has a need for about 10 other plane, but the Cabinet is approved by the Cabinet to receive a aircraft, but the Cabinet is approved by the current situation.. One of the three hundred and sixty-four thousand dollars to the lease of the tax scheme, he said that some of the current airlines pay away about six thousand million dollars a month.
 
-...
+There is a great demand for the aircraft in Sri Lanka and that the cost of the temple has not been able to get funded in the Treasury but will receive relief from the government without paying sufficient aircraft to use it.Mentioned.
+
+At present there are currently about 15 aircraft and there is a need to get 10 planes and have a need to obtain 10 aircraft.
+
+The Cabinet approved to obtain four aircraft, it was reported that only two selected aircraft were obtained by the right data and the two four-month-planned aircraft had been obtained by a media discussion today (3)..
+
+◼️
 
 [Data](articles/c1f75895.json)
+
+[Extended Data](ext_articles/c1f75895.ext.json)
 
 ---
 
@@ -2252,13 +2262,13 @@ The former President has said that he has already given a lengthy statement to t
 
 *2024-04-03 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98395/colombo-hc-rejects-keheliyas-revision-application-seeking-bail) · `en`
 
-The Colombo High Court on Wednesday (03) rejected the revision application filed by former Health Minister Keheliya Rambukwella seeking to be released on bail.
+The Colombo High Court on Wednesday (03) rejected the revision application filed on behalf of former Health Minister Keheliya Rambukwella seeking to be released on bail.
 
 The order was delivered by High Court Judge Sujeewa Nissanka.
 
-Legal counsels of Rambukwella, who is in currently remand custody in connection with his alleged complicity in the substandard human intravenous immunoglobulin (IVIG) procurement, had submitted the revision application to the high court on 15 March, after the Maligakanda Magistrate’s Court refused to release the accused on bail.
+Legal counsels of Rambukwella, who is in currently remand custody in connection with his alleged complicity in the substandard human intravenous immunoglobulin (IVIG) procurement, had submitted the revision application to the high court on 15 March, after the Maligakanda Magistrate’s Court refused to release their client on bail.
 
-In his bail application, filed through his legal counsels, Rambukwella claimed that the Maligakanda Magistrate’s decision to reject bail for him was unlawful. He also sought the High Court to release him on bail subject to any condition.
+In his bail application, Rambukwella claimed that the Maligakanda Magistrate’s decision to reject bail for him was unlawful. He also sought the High Court to release him on bail subject to any condition.
 
 ...
 

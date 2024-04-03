@@ -1,52 +1,134 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 16:49:19**
+As of **2024-04-03 17:03:17**
 
 ## Newspaper Stats
 
-*Scraped **16,884** Articles*
+*Scraped **16,890** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 150
 bbccomsinhala | 176
-dbsjeyarajcom | 206
+dbsjeyarajcom | 207
 newsfirstlk | 363
 dailyftlk | 910
 economynextcom | 927
 islandlk | 931
 adalk | 1,419
 tamilmirrorlk | 2,010
-adaderanalk | 2,024
-virakesarilk | 2,439
+adaderanalk | 2,025
+virakesarilk | 2,441
 dailymirrorlk | 2,597
-adaderanasinhalalk | 2,732
+adaderanasinhalalk | 2,734
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,875 (99.9%) of 16,884 articles have been extended.
+16,884 (100.0%) of 16,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### රජිව් ගාන්ධි ඝාතන සිද්ධියේ වරදකරුවන් ශ්‍රී ලංකාවට එවයි
+### පොලීසියෙන් ජල හා කඳුළු ගෑස් ප්‍රහාරයක්
+
+*2024-04-03 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195262) · `si`
+
+විශ්වවිද්‍යාල සිසුන්ගේ විරෝධතාවයක් විසුරුවා හැරීමට ජයවර්ධනපුර සරසවිය ආසන්නයේදී පොලීසිය ජල හා කඳුළු ගෑස් ප්‍රහාරයක් එල්ලකර තිබේ.
+
+◼️
+
+[Data](articles/3d7aaf64.json)
+
+---
+
+### சிறுமி மீது துஷ்பிரயோகம் ; கைது செய்யப்பட்டவர் தப்பியோட்டம்
+
+*2024-04-03 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180358) · `ta`
+
+மன்னாரில் 9 வயது சிறுமி மீது பாலியல் துஷ்பிரயோகம் செய்யப்பட்டமை தொடர்பில் கைது செய்யப்பட்டவர் வவுனியா வைத்தியசாலையில் இருந்து தப்பி ஓடியுள்ளார்.
+
+மன்னார், தலைமன்னார் பகுதியில் 9 வயது சிறுமி பாலியல் துஷ்பிரயோகம் செய்யப்பட்டமை தொடர்பில் 55 வயதுடைய நபர் ஒருவர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு நீதிமன்ற உத்தரவுக்கமைய வவுனியா சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்தார்.
+
+உடல் நலப் பாதிப்பு காரணமாக வவுனியா வைத்தியசாலையில் கடந்த வியாழக்கிழமை அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த நிலையில் இன்று புதன்கிழமை காலை (03) குறித்த சந்தேக நபர் வைத்தியசாலையில் இருந்து தப்பியோடியுள்ளார்.  அவரை தேடும் பணியில் சிறைக்காவலர்களும், பொலிசாரும் ஈடுபட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/8fda4cea.json)
+
+---
+
+### களுவாஞ்சிக்குடியில் 6 வர்த்தக நிலையங்களுக்கு எதிராக வழக்குத் தாக்கல் !
+
+*2024-04-03 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/180351) · `ta`
+
+மட்டக்களப்பு, களுவாஞ்சிக்குடி பிரதேச சுகாதார பரிசோதகர்களால் களுவாஞ்சிக்குடி பொதுச்சந்தை, மற்றும் அதனைச்  சூழவுள்ள பல வர்த்தக நிலையங்கள் திடீர் சுற்றிவளைப்பு நடவடிக்கை மேற்கொள்ளப்பட்டது.
+
+இதன்போது களுவாஞ்சிக்குடி பொது சுகாதார பரிசோதகர்களினால் பல்வேறு வர்த்தக நிலையங்களில் பாவனைக்குதவாத மற்றும் காலாவதியான பல பொருட்கள் கைப்பற்றபட்டதுடன், சுமார் 06 வர்த்தக நிலையங்களுக்கு எதிராக வழக்கு தாக்கல் செய்யப்பட்டுள்ளதாக சுகாதார பரிசோதகர் எஸ்.இளங்கோவன் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/db181060.json)
+
+---
+
+### විවාදයට මම සූදානම් - සජිත්
+
+*2024-04-03 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195261) · `si`
+
+තමන් ඕනෑම ආකාරයේ විවාදයකට සූදානම් බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා සඳහන් කළේය.
+
+සක්වල සුහුරු පන්ති කාමර ලබා දීමේ වැඩසටහනේ 140 වැනි අදියර යටතේ අද මුලතිව් පාසලක් වෙත රුපියල් ලක්ෂ 10ක් වටිනා සුහුරු පන්ති කාමරයක් ලබා දීමේ අවස්ථාවට එක්වෙමින් සජිත් ප්‍රේමදාස මහතා මේ බව පැවසීය.
+
+මේ මොහොත වන විට රටේ ප්‍රශ්න ගැන විවාදයක් අවශ්‍ය බවට සමාජයේ කතාවක් යන බවත් එවැනි විවාදයක් සිදු විය යුතු බවට තමා පිළිගන්නා බවද එහිදී සජිත් ප්‍රේමදාස මහතා වැඩිදුරටත් සඳහන් කර ඇත.
+
+විවාද පැවැත්වීම ප්‍රජාතන්ත්‍රවාදී සමාජයක උසස් ගුණාංගයක් බැවින් තමා ඕනෑම විවාදයකට සූදානම් බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+වාද විවාද කිරීම මෙන්ම ඒ හරහා රටටත් ජනතාවටත් අගයක් එකතු විය යුතු බවද විපක්ෂනායකවරයා එහිදී පෙන්වාදී තිබේ.
+
+◼️
+
+[Data](articles/c881b768.json)
+
+---
+
+### The criminals of Rajiv Gandhi's murder
 
 *2024-04-03 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195260) · `si`
 
-ඉන්දීය හිටපු අග්‍රාමාත්‍ය රජිව් ගාන්ධි ඝාතන චෝදනාවට වරදකරුවන් වූ ශ්‍රී ලාංකිකයින් තිදෙනා මෙරටට පිටුවහල් කර තිබේ.
+Rajiv Gandhi's murderers, three Sri Lankans, were deported to Sri Lanka after being released from Indian custody in 2022.
 
-අද (03) උදෑසන චෙන්නායි ගුවන්තොටුපලේ සිට ඔවුන් මෙරටට පිටත්වී ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+🟩
 
-රජිව් ගාන්ධි ඝාතන චෝදනාවට වරදකරුවන් වී සිරදඬුවමට ලක්වූ මුරුගන්, රොබට් සහ ජයකුමාර් යන ශ්‍රී ලාංකිකයින් තිදෙනා 2022 වසරේ බන්ධනාගාරයෙන් නිදහස් වී තිබුණි.
+Former Indian Prime Minister Rajiv Gandhi, the three Sri Lankans who were found were deported to Sri Lanka.
 
-පසුව තිරුචිහි විශේෂ කඳවුරක රඳවා සිටි ඔවුන් සිදුකළ ඉල්ලීමක් සලකා බැලීමෙන් පසු මෙලෙස ශ්‍රී ලංකාවට යොමුකර ඇති බව වාර්තා වෙයි.
+According to Indian media reports, they have left the Srinenai airport this morning (03).
+
+Muradan, Robert and Jayakumar were released from the victims of 2022 in the year 2022.
+
+It is reported that they have been sent to Sri Lanka after considering a demand for a special camp in Tiruchi.
 
 ◼️
 
 [Data](articles/523cd679.json)
+
+[Extended Data](ext_articles/523cd679.ext.json)
+
+---
+
+### Additional trains in operation during Avurudu season
+
+*2024-04-03 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98399/additional-trains-in-operation-during-avurudu-season) · `en`
+
+Sri Lanka Railways says additional trains will be up and running from 10 April (Wednesday) until 15 April (Monday) in view of the upcoming Sinhala and Tamil New Year season.
+
+Accordingly, the following trains will be operated in addition to the regular long-distance trains during the aforementioned period.
+
+◼️
+
+[Data](articles/9c838522.json)
 
 ---
 
@@ -62,35 +144,49 @@ Accordingly, the following trains will be operated in addition to the regular lo
 
 [Data](articles/dc6b45e8.json)
 
+[Extended Data](ext_articles/dc6b45e8.ext.json)
+
 ---
 
-### පොලිස් සිරමැදිරියේදී සිටියදී ඇද වැටුණු සැකකරුවෙක් රෝහලේ
+### Suspect injured in police cell
 
 *2024-04-03 16:27:32* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-සිරමැදිරියේදී-සිටියදී-ඇද-වැටුණු-සැකකරුවෙක්-රෝහලේ/11-408927) · `si`
 
-පයාගල පොලීසියේ සිරමැදිරියේ සිටි පයාගල, ඈතගම ප්‍රදේශයේ පදිංචි සැකකරුවෙකු කිසියම් හදිසි අසනීප තත්ත්වයක් හේතුවෙන් අද දහවල් සිරමැදිරිය තුළ ඇද වැටී හිසට සිදුවූ තුවාල සහිතව අද 03දා රෝහල්ගත කර බව කළුතර නාගොඩ ශීක්ෂණ රෝහල් ආරංචි මාර්ග පවසයි.
+A resident of Payagala, arrested on an open warrant, was injured in a police cell and hospitalized.
 
-රෝහල්ගත කර ඇති පුද්ගලයා විවෘත වරෙන්තුවක් මත අත්අඩංගුවට ගෙන පයාගල පොලීසියේ සිරමැදිරියේ රඳවා සිටි බව වාර්තා වේ.
+🟩
+
+A suspect, a resident of the Payagala, Payagala, a resident of the Ahagala area in Payagala, has been hospitalized this afternoon.
+
+It is reported that the hospital was arrested on an open warrant and detained the prison in Payagala.
 
 ◼️
 
 [Data](articles/f4603949.json)
 
+[Extended Data](ext_articles/f4603949.ext.json)
+
 ---
 
-### அனுமதிப்பத்திரமின்றி மணல் ஏற்றிச்சென்ற 4 வாகனங்களுடன் சாரதிகள் கைது!
+### Drivers arrested with 4 vehicles carrying sand without permit
 
 *2024-04-03 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180342) · `ta`
 
-சாவகச்சேரிப் பொலிஸ் பிரிவிற்குள் சட்டவிரோதமாக மணல் அகழ்வில் ஈடுபட்ட மற்றும் உரிய அனுமதிப் பத்திரங்கள் இன்றி மணல் ஏற்றிச்சென்ற 4 வாகனங்கள் பொலிஸாரால் கைப்பற்றப்பட்டிருப்பதுடன் அதன் சாரதிகளும் கைது செய்யப்பட்டுள்ளனர்.
+Chavakachcheri police arrested four drivers and seized four vehicles for illegal sand excavation and smuggling without permits on Wednesday, 03/04.
 
-சாவகச்சேரிப் பொலிஸ் பிரிவுக்குட்பட்ட மறவன்புலோ - கோவிலாக்கண்டிப் பகுதியில் 03/04 புதன்கிழமை அதிகாலை வேளையில் சட்டவிரோதமாக மணல் அகழ்வில் ஈடுபட்டுக்கொண்டிருந்த உழவியந்திரம் ஒன்றையும் அதன் சாரதியையும் சாவகச்சேரிப் பொலிஸார் கைது செய்திருந்தனர்.
+🟩
 
-அத்துடன் கடந்த செவ்வாய்க்கிழமை உரிய அனுமதிப் பத்திரம் இன்றியும் அனுமதிப் பத்திரத்தில் மோசடி மேற்கொண்டும் மணல் கடத்தலில் ஈடுபட்ட மூன்று டிப்பர் வாகனங்கள் மற்றும் அதன் சாரதிகளையும் சாவகச்சேரிப் பொலிஸார் கைது செய்துள்ளனர்.
+Inside the Chavakachiri police division, four vehicles have been seized by the police and the drivers have been seized by the police.
+
+Chavakachcheri police have arrested a driver who was engaged in illegal sand excavation in the early hours of Wednesday morning on Wednesday morning on Wednesday, 03/04.
+
+Chavakachcheri police have arrested three tipper vehicles and its drivers who were involved in sand smuggling on Tuesday without a proper permit.
 
 ◼️
 
 [Data](articles/e883d08b.json)
+
+[Extended Data](ext_articles/e883d08b.ext.json)
 
 ---
 
@@ -124,71 +220,103 @@ However, the petition accuses the activities of the village, including the activ
 
 ---
 
-### தொலைக்காட்சியில் நேரடியாக வெளியாகும் அசோக் செல்வனின் 'பொன் ஒன்று கண்டேன்'
+### Ashok Selvan's 'Gold One'
 
 *2024-04-03 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180332) · `ta`
 
-'போர் தொழில்', 'ப்ளூ ஸ்டார்' என வரிசையாக வெற்றி படங்களை வழங்கிய நடிகர் அசோக் செல்வன் கதையின் நாயகனாக நடித்திருக்கும் 'பொன் ஒன்று கண்டேன்' எனும் திரைப்படம் படமாளிகைகளில் வெளியாகாமல் நேரடியாக தொலைக்காட்சியில் வெளியாகிறது.
+Ashok Selvan stars in 'Ponnu Kandane', directed by V. Ashok Selvan, Vasant Ravi, and Aishwarya Lakshmi, with music by Yuvan Shankar Raja. Produced by Jyoti Desh Pandey and Yuvan Shankar Raja, it's set to air on Colors RV on Tamil New Year, April 14, and will be available on Jio Cinema.
 
-'கண்ட நாள் முதல்' எனும் திரைப்படத்தை இயக்கிய இயக்குநர் வி. பிரியா இயக்கத்தில் உருவாகி இருக்கும் 'பொன் ஒன்று கண்டேன்' எனும் திரைப்படத்தில் அசோக் செல்வன், வசந்த் ரவி, ஐஸ்வர்யா லட்சுமி ஆகியோர் முதன்மையான கதாபாத்திரங்களில் நடித்திருக்கிறார்கள்.
+🟩
 
-ஏ. டி. பஹத் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு யுவன் சங்கர் ராஜா இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை ஜியோ ஸ்டுடியோஸ் வழங்குகிறது.
+Actor Ashok Selvan, who has hired success films like 'Battle Star' and 'Blue Star', is the hero of the story, 'Ponnu Kandane'.
 
-மேலும் இந்த திரைப்படத்தை ஒய் எஸ் ஆர் ஃபிலிம் புரொடக்ஷன் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் ஜோதி தேஷ் பாண்டே மற்றும் யுவன் சங்கர் ராஜா ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+Director V.. Ashok Selvan, Vasant Ravi and Aishwarya Lakshmi have played the lead roles in the movie 'Ponnu Kandane'.
 
-இந்தப் படத்தின் கேரக்டர் லுக் போஸ்டர்ஸ், சிங்கிள் ட்ராக் ஆகியவை வெளியாகி இருக்கிறது. இந்நிலையில் இந்தத் திரைப்படம் எதிர்வரும் 14 ஆம் திகதியன்று தமிழ் புத்தாண்டு தின சிறப்பு திரைப்படமாக கலர்ஸ் ரிவியில் ஒளிபரப்பாகிறது.
+A.. D. Yuvan Shankar Raja has composed the film, which has been recorded by Bahad. The film provides Geo Studios.
 
-...
+The film has also been produced by Jyoti Desh Pandey and Yuvan Shankar Raja on behalf of the YSR Film Production film company.
+
+The character of the film has been released as Look Posters and Single Track. In this case, the film will be aired on the 14th of this month as a Tamil New Year special film on Colors RV.
+
+Although the film is not released on television, it is expected that the film will be shocked by the film's film, but it is expected that the film will be free to visit Jio cinema after the release of the film on April 14.
+
+◼️
 
 [Data](articles/bf895fcf.json)
 
+[Extended Data](ext_articles/bf895fcf.ext.json)
+
 ---
 
-### அல்லு அர்ஜுன் நடிக்கும் 'புஷ்பா 2' அப்டேட்
+### Allu Arjun starrer 'Pushpa 2' update
 
 *2024-04-03 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180335) · `ta`
 
-'புஷ்பா - தி ரைஸ்' படத்தில் சிறப்பான நடிப்பை வெளிப்படுத்தியதற்காக தேசிய விருதை வென்ற நடிகர் அல்லு அர்ஜுன் நடிப்பில் தயாராகி வரும் 'புஷ்பா 2' படத்தின் டீசர் வெளியிடப்படும் திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+"'Pushpa 2', starring Allu Arjun, will release its teaser on April 8th, marking Allu Arjun's birthday. The film, co-produced by Ravi Shankar and Sukumar, is centered on sheep hijacking and is being made by Maithri Movie Makers and Sukumar Writing Companies. The first part of 'Pushpa' has been a box office hit, and the sequel is set for worldwide release on August 15th."
 
-இயக்குநர் சுகுமார் இயக்கத்தில் உருவாகி வரும் 'புஷ்பா- தி ரூல்' எனும் திரைப்படத்தில் அல்லு அர்ஜுன், ராஷ்மிகா மந்தானா, ஜெகபதிபாபு, பிரகாஷ்ராஜ், சுனில், அஜய் உள்ளிட்ட பலர் நடிக்கிறார்கள். மிரோஸ்லா குபா ப்ரோசெக் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு தேவி ஸ்ரீ பிரசாத் இசையமைத்திருக்கிறார். செம்மர கடத்தலை மையப்படுத்தி எக்சன் என்டர்டெய்னராக தயாராகும் இந்த திரைப்படத்தை மைத்ரி மூவி மேக்கர்ஸ் மற்றும் சுகுமார் ரைட்டிங்ஸ் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள்  நவீன் யெர்னேனி- வை. ரவி சங்கர் மற்றும் இயக்குநர் சுகுமார் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+🟩
+
+It has been officially announced on the date of the release of the teaser of 'Pushpa 2' starring Actor Allu Arjun, who won the National Award for his performance in 'Pushpa - The Rice'.
+
+Allu Arjun, Rashmika Mantana, Jegabatibabu, Prakashraj, Sunil, Ajayi starring director Sukumar. Devi Sri Prasad has composed the film, which has been recorded by Mirosla Kuba Prapechch.. The film, which is centered on sheep hijacking, is being made as an entertainer on behalf of Maithri Movie Makers and Sukumar Writing Companies.. Ravi Shankar and director Sukumar have co -produced.
+
+The film crew has officially announced that the teaser of the film will be released on the 8th of April to mark the birthday of hero Allu Arjun.. Thus allu Arjun's fans are not only ... Ban Indian fans for Telugu films are also eagerly waiting.
 
 ...
 
 [Data](articles/ffa60505.json)
 
+[Extended Data](ext_articles/ffa60505.ext.json)
+
 ---
 
-### புதுமுகங்கள் நடிக்கும் 'கேன்' திரைப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு
+### First Look release of 'Kane' starring newcomers
 
 *2024-04-03 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180343) · `ta`
 
-சின்னத்திரை தொகுப்பாளர்கள்  வண்ணத்திரையிலும், வெள்ளி திரையிலும், டிஜிட்டல் திரையிலும் தங்களது திறமையை வெளிப்படுத்தி சாதனையாளர்களாக உயர்ந்திருக்கிறார்கள்.
+"First Look of 'Kane' features newcomers in color, silver, and digital. Directed by Adams, it stars Pranavi Manukanda, Hemant Menon, and others, with Aswamitra's music. Produced by T. Karunanidhi, it's shot and edited by Sun Rivi's host, Adams, and others. The film's unique spleet format has garnered attention."
 
-அந்த பட்டியலில் சன் ரிவியின் தொகுப்பாளரான ஆடம்ஸ் 'கேன்' எனும் திரைப்படத்தின் மூலம் இயக்குநராக அறிமுகமாகி இருக்கிறார். இந்தத் திரைப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியாகி இணையவாசிகளின் கவனத்தை வெகுவாக கவர்ந்திருக்கிறது.
+🟩
 
-இயக்குநர் ஆடம்ஸ் இயக்கத்தில் உருவாகி இருக்கும்  'கேன்' எனும் திரைப்படத்தில் பிரணவி மனுக்கொண்டா, ஹேமந்த் மேனன், அக்ஷரா ராஜ், கலையரசன், யாஷிகா ஆனந்த், தம்பி ராமையா, ரோபோ சங்கர், கோவை சரளா, கருணாகரன், மாறன், ஸ்ரீமன், வி டி வி கணேஷ், கௌசல்யா, ரெடின் கிங்ஸ்லீ, நாஞ்சில் விஜயன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+The iconic editors have highlighted their talent in color, silver screen and digital screen.
 
-பிரகாஷ் ருத்ரா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அஸ்வமித்ரா இசையமைத்திருக்கிறார். காதலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை ஷோபனா கிரியேசன்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் டி. கருணாநிதி தயாரித்திருக்கிறார்.
+Sun Rivi's host, Adams, has made his directorial debut with the film 'Kane'. The first look of the film has been very impressed with the attention of the Internet.
 
-...
+Directed by Adams 'Kane', Pranavi Manukanda, Hemant Menon, Akshara Raj, Kalaiyarasan, Yashika Anand, Thambi Ramaiah, Robot Shankar, Kovai Sarala, Karunakaran, Maran, Sriman, V D V GaneshMany people including Vijayan have acted.
+
+Aswamitra has composed the film, which is being recorded by Prakash Rudra. Producer T.. Karunanidhi has produced.
+
+The shooting of the film is completed and the final phase of the work is going on. In this case, the first look of the film has been released.
+
+In the first look, the spleet format has been created as a different face with a small part of the stars from the faces of the stars.
+
+◼️
 
 [Data](articles/d0eed772.json)
 
+[Extended Data](ext_articles/d0eed772.ext.json)
+
 ---
 
-### வவுனியா மாவட்ட பொது வைத்தியசாலையின் பணிப்பாளராக ஜி.சுகுணன் கடமையை பொறுப்பேற்றார்
+### G. Sukunan assumed responsibility as the Director of the Vavuniya District General Hospital
 
 *2024-04-03 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180345) · `ta`
 
-அண்மையில் வடக்கு மாகாண சுகாதாரத்துறையில் பல்வேறு புதிய நியமனங்களை சுகாதார அமைச்சு முன்னெடுத்திருந்தது.
+G. Sukunan, new Director of Vavuniya District General Hospital, began duties after a special ceremony at Kandaswamy Temple.
 
-அந்தவகையில் வவுனியா மாவட்ட பொது வைத்தியசாலையின் பணிப்பாளராக ஜி.சுகுணன் நியமிக்கப்பட்டிருந்தார். அவர் இன்று காலை தனது கடமைகளை பொறுப்பேற்றார்.
+🟩
 
-முன்னதாக வவுனியா கந்தசுவாமி ஆலயத்தில் விசேட பூஜை வழிபாட்டில் ஈடுபட்ட பின்னர் வவுனியா மாவட்ட பொது வைத்தியசாலையின் பணிப்பாளராக தனது கடமைகளை உத்தியோகபூர்வமாக ஆரம்பித்தார்.
+Recently, the Ministry of Health has launched various new appointments in the Northern Province health sector.
+
+G. Sukunan was appointed as the Director of the Vavuniya District General Hospital. He took charge of his duties this morning.
+
+Earlier, after a special pooja at the Kandaswamy Temple in Vavuniya, he officially started his duties as the Director of the Vavuniya District General Hospital.
 
 ◼️
 
 [Data](articles/58555fc4.json)
+
+[Extended Data](ext_articles/58555fc4.ext.json)
 
 ---
 
@@ -468,21 +596,27 @@ The Railway Department is noting that the train will be operated from Colombo fr
 
 ---
 
-### නිවාඩු නොමැතිව සේවයට වාර්තා කර නොමැති හමුදා සාමාජිකයන්ට පොදු සමාවක්
+### Prize for military members who have not reported to work without leave
 
 *2024-04-03 14:49:41* · [`adalk`](https://www.ada.lk/breaking_news/නිවාඩු-නොමැතිව-සේවයට-වාර්තා-කර-නොමැති-හමුදා-සාමාජිකයන්ට-පොදු-සමාවක්/11-408922) · `si`
 
-‍ත්‍රිවිධ හමුදාවේ නිවාඩු නොමැතිව සේවයට වාර්තා නොකර සිටින හමුදා සාමාජිකයින්ට නිත්‍යානුකූලව සේවයෙන් ඉවත්වීම සඳහා පොදු සමා කාලයක් ප්‍රකාශයට පත් කර තිබේ.
+Military members not reporting to work without leave have been publicly named. A grace period from April 20th to May 20th applies, excluding those on holiday before April 2. Those unable to return have options to resign under certain conditions.
 
-ඒ අනුව අප්‍රේල්ම 20 වැනිදා සිට මැයි මස 20 වැනිදා දක්වා මෙම පොදු සමා කාලය ප්‍රකාශයට පත් කර තිබේ.
+🟩
 
-මෙම සමා කාලය අප්‍රේල් මස 02 වන දිනට පෙර නිවාඩු නොමැතිව නොපැමිණ සිටින අය සඳහා පමණක් අදාළ වන බව ආරක්ෂක අමාත්‍යාංශය සඳහන් කළේය.
+Military personnel who have not reported to work without leave without leave without leave without leave have been published in the ministry.
 
-මීට අමතරව නිවාඩු නොමැතිව සේවයට වාර්තා නොකර සිටින දැනට විදේශගතව සිටින ත්‍රිවිධ හමුදා සාමාජිකයින් වෙත ද නැවත ඔවුන්ගේ ආදාළ ඒකකය වෙත වාර්තා කිරීමකින් තොරව පොදු සමා කාලයේ දී කොන්දේසි කිහිපයකට යටත්ව නිත්‍යානුකූලව සේවයෙන් ඉවත්වීමට අවස්ථාව සලසා දී තිබේ.
+Accordingly, this public period has been published from 20th to May 20th April.
+
+The school is only applicable to those who are not on the day without holidays before the date of April 2.
+
+In addition, the armed forces who have not been able to return to work without holidays have been given the opportunity to resign into several conditions under the period without reporting to their port.
 
 ◼️
 
 [Data](articles/2297fd3b.json)
+
+[Extended Data](ext_articles/2297fd3b.ext.json)
 
 ---
 
@@ -958,17 +1092,19 @@ The Chairman of the Attorney at a press conference was speaking at a press confe
 
 *2024-04-03 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98393/general-amnesty-declared-for-tri-forces-absentees) · `en`
 
-The Ministry of Defence has declared a general amnesty for the tri-forces absentees, enabling them to receive a legal discharge from their respective services.
+The Ministry of Defence has declared a general amnesty for the tri-forces absentees, enabling them to receive an official discharge from their respective services.
 
 General amnesty will be in force for a period of one month, from 20 April to 20 May.
 
-Accordingly, the tri-forces personnel who have been absent without leave (AWOL) before 02 April this year will be allowed to receive their discharge from military service during this period.
+Accordingly, the tri-forces personnel who have been absent without leave (AWOL) before 02 April 2024 will be allowed to receive their discharge from military service during this period.
 
-Additionally, if they have any amount due to be paid to their respective services, it is required to be settled before receiving their discharge.
+Additionally, any financial obligations or amounts due are required to be settled prior to their discharge.
 
-Meanwhile, the absentees who are currently living overseas will also be eligible to receive a legal discharge from their respective services without reporting to the unit during the general amnesty period.
+Meanwhile, the absentees who are currently living overseas will also be eligible to receive a legal discharge from the military service without reporting to their respective regiments, subject to the following requirements:
 
-◼️
+• Those seeking to be discharged should have no pending disciplinary actions taken against them apart from that of being AWOL.
+
+...
 
 [Data](articles/e9b9be78.json)
 
@@ -2217,117 +2353,5 @@ World Bank's Senior Country Economist for the Maldives and Sri Lanka Richard Wal
 [Data](articles/637fee3b.json)
 
 [Extended Data](ext_articles/637fee3b.ext.json)
-
----
-
-### Governor of the Eastern Province Senthil Thondaman has issued land guarantees to 100 families in the Vavuniya Divisional Secretariat Division!
-
-*2024-04-03 09:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/180292) · `ta`
-
-Governor Senthil Thondaman guarantees land to 100 families in Vavuniya, with state officials present.
-
-🟩
-
-The Eastern Province Governor Senthil Thondaman has issued land guarantees to 100 families in the Manmunai West Vavuniya Divisional Secretariat Division of the Batticaloa District.
-
-State officials including Minister of State for Land Recognition, including Divisional Secretary, were present at the event.
-
-◼️
-
-[Data](articles/3aa3b0b7.json)
-
-[Extended Data](ext_articles/3aa3b0b7.ext.json)
-
----
-
-### Israel says airstrike ‘unintentionally’ killed aid workers in Gaza, allies demand explanations
-
-*2024-04-03 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98388/israel-says-airstrike-unintentionally-killed-aid-workers-in-gaza-allies-demand-explanations) · `en`
-
-Prime Minister Benjamin Netanyahu said on Tuesday Israel mistakenly killed seven people working for the aid charity World Central Kitchen in a Gaza airstrike, and the U.S. and other allies called for explanations amid widespread condemnation.
-
-Israel’s military voiced “sincere sorrow” over the incident, which ratcheted up international pressure for steps to ease the disastrous humanitarian situation in Gaza nearly six months into Israel’s siege and invasion of the Palestinian enclave.
-
-The strike on the World Central Kitchen convoy killed citizens of Australia, Britain and Poland as well as Palestinians and a dual citizen of the United States and Canada.
-
-WCK, which was founded by celebrity chef Jose Andres, said its staff were traveling in two armored cars emblazoned with the charity’s logo and another vehicle, and had coordinated their movements with the Israeli military.
-
-...
-
-[Data](articles/111e6098.json)
-
-[Extended Data](ext_articles/111e6098.ext.json)
-
----
-
-### A formal inquiry into Singapore freight ship
-
-*2024-04-03 08:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180291) · `ta`
-
-Singapore cargo ship carrying hazardous items without permission crashed into Sri Lanka. Central Environmental Authority investigating. Minister Janaka Wakumbura to announce findings to Parliament.
-
-🟩
-
-The Central Environmental Authority has not obtained permission from the Singapore cargo ship that contains hazardous items. The Minister of Environment Janaka Wakumbura said that he would conduct a proper inquiry into the matter and announce it to Parliament.
-
-In response to a question posed by Opposition Leader Sajith Premadasa and Sharitha Herath in Sri Lanka on Tuesday (02) in Parliament.
-
-It is true that the Singapore cargo vessel, which has crashed to Sri Lanka, has massive ammunition and hazardous containers.. The Central Environmental Authority is investigating these issues.
-
-Similarly, the Central Environmental Authority has not obtained permission to arrive in Sri Lanka. So we have informed the port and customs to launch an investigation into this. The ship crashed into the Baltimore Bridge in the United States, which was able to find out about the dangerous items on the ship.
-
-So I will investigate the matter and take action to instruct Parliament.
-
-◼️
-
-[Data](articles/00c667bd.json)
-
-[Extended Data](ext_articles/00c667bd.ext.json)
-
----
-
-### How can a ship containing hazardous products without the permission of the Central Environmental Authority - Opposition Leader
-
-*2024-04-03 08:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/180290) · `ta`
-
-A Singapore cargo vessel carrying hazardous items, including ammunition and lithium-ion batteries, crashed into Sri Lanka without Central Environmental Authority permission. Opposition leader Sajith Premadasa calls for a thorough investigation.
-
-🟩
-
-The Singapore cargo vessel, which crashes to Sri Lanka, has been found to contain massive ammunition and hazardous items.. The government should notify how the permission was granted without the permission of the Central Environmental Authority. At the same time, opposition leader Sajith Premadasa said that a proper investigation should be carried out.
-
-US media reports that the Singapore cargo vessel, Dali, who crashed into the US Baltimore Bridge on March 26, brought 764 tonnes of hazardous items to Sri Lanka. It contained 4,700 containers. Of these, 56 ammunition, lithium -ion battery, flammable products such as hazardous substances and 9th type or severe dangerous products.
-
-4,644 other containers are being analyzed. The ship has been reported to have been traveling to Colombo to the world's largest naval bases, New York, Virginia and Norbog.
-
-...
-
-[Data](articles/249911cf.json)
-
-[Extended Data](ext_articles/249911cf.ext.json)
-
----
-
-### The most powerful earthquake;Tsunami warning leave
-
-*2024-04-03 08:46:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதி-சக்திவாய்ந்த-நிலநடுக்கம்-சுனாமி-எச்சரிக்கை-விடுப்பு/175-335546) · `ta`
-
-A 7.5 magnitude earthquake in Taiwan caused a tsunami warning for South Japan, trapping people in Huvalian city. The USGS recorded it at 7.4 at 34.8 km depth, but the Japanese Meteorological Department revised it to 7.7.
-
-🟩
-
-The 7.5 magnitude earthquake struck in Taiwan this morning and a tsunami warning to South Japan.
-
-According to reports, people are trapped inside Huvalian city on the east coast of Taiwan due to the earthquake.
-
-The earthquake recorded 7.4 at a depth of 34.8 km south of Taiwan Huvalian, 18 km (11 miles), according to the US Geological Survey.
-
-Meanwhile, the Japanese Meteorological Department has revised the earthquake in Taiwan to 7.7 on the Richter scale.. Remble
-
-◼️
-
-[Data](articles/04850e35.json)
-
-[Extended Data](ext_articles/04850e35.ext.json)
 
 ---

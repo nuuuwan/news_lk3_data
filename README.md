@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 00:03:59**
+As of **2024-04-04 00:18:10**
 
 ## Newspaper Stats
 
-*Scraped **16,962** Articles*
+*Scraped **16,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,88 @@ adalk | 1,430
 tamilmirrorlk | 2,017
 adaderanalk | 2,035
 virakesarilk | 2,449
-dailymirrorlk | 2,609
+dailymirrorlk | 2,613
 adaderanasinhalalk | 2,742
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,958 (100.0%) of 16,962 articles have been extended.
+16,962 (100.0%) of 16,966 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-04-04 (Thursday)
+
+### Hopes of peace dashed as confused US faces dogged Netanyahu
+
+*2024-04-04 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Hopes-of-peace-dashed-as-confused-US-faces-dogged-Netanyahu/172-280126) · `en`
+
+With public opinion that is increasingly supporting a permanent ceasefire in Gaza, in March, both US President Biden and his Republican challenger Trump appeared to be toeing a softer line on Gaza
+
+A survey done in February found that around two-thirds of voters supported the US calling for a permanent ceasefire and a de-escalation of violence in Gaza
+
+The US is blowing hot and cold on its policy on the Gaza war and is showing inconsistency in its actions. In contrast, the Israeli Prime Minister Benjamin Netanyahu is doggedly pursuing his uncompromising line on the war, disregarding rising opposition and even a revolt by the ultra-orthodox Jews in his homeland.
+
+The net result of all this is that the prospects of peace in Gaza have receded further. And with Netanyahu bent on attacking Rafah, with a  huge population of locals and refugees from other parts of Gaza, more deaths and destruction are on the cards.
+
+...
+
+[Data](articles/1936c731.json)
+
+---
+
+### World Health Day: ‘My Health, My Right’
+
+*2024-04-04 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/World-Health-Day-My-Health-My-Right/172-280121) · `en`
+
+Sri Lanka’s public health service is facing one of its worst crises since independence. President Ranil Wickremesinghe and the Sri Lanka Podujana Peramuna government need to give much more priority to help the public health service recover; because as the cliché goes: “health is wealth”.
+
+With public health trade unions staging regular strikes during the past two years, poor people have had to travel a long way to a public hospital only to be told that the nurses, attendants and other paramedical staff are on strike and that the people need to go back without treatment. The crisis involving former Health Minister Keheliya Rambukwella made the situation worse with the importation of substandard drugs from fictitious companies. The tragedy is that this is happening in the country which produced Prof. Senaka Bibile who was widely regarded as a prophet of modern medicine, and proposed a solution to the drug crisis.
+
+...
+
+[Data](articles/202a9b0c.json)
+
+---
+
+### Kachchativu Island Debate: Political fodder,  No Serious Intentions
+
+*2024-04-04 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Kachchativu-Island-Debate-Political-fodder-No-Serious-Intentions/172-280124) · `en`
+
+Indian National Congress president Mallikarjun Kharge hit back at the Indian Prime Minister questioning why his party did not take back the island during its past ten years in power
+
+The issue involving Kachchativu becomes a hot political debate in India when elections are around the corner
+
+In the course of the debate, Indian Prime Minister Modi slammed DMK party saying that the new details emerging on the matter have “unmasked” the party’s double standards
+
+It is quite common that the issue involving Kachchativu, a tiny island in the Palk Straits between India and Sri Lanka, becomes a hot political debate in India–particularly in the state of  Tamil Nadu–when elections are around the corner in that country.
+
+This time around, ahead of Lok Sabha elections, it has been raised; and the debate heated after remarks by Indian Prime Minister Narendra Modi placing blame on the Indian opposition over the agreement that ceded the island to Sri Lanka.
+
+...
+
+[Data](articles/48b0b51a.json)
+
+---
+
+### The intelligent public might not be interested in Kachchativu
+
+*2024-04-04 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-intelligent-public-might-not-be-interested-in-Kachchativu/172-280122) · `en`
+
+At present people are intelligent and have different yardsticks to judge the capacity of potential candidates when the time comes for casting their votes at the elections
+
+There was a time when the people of this island were in love with Sinhala-Buddhist leaders who sported a mustache. Now people are in love with the intellectual capacity of people
+
+There is a school of thought that the clergy must also be represented in parliament. And so must be people involved in education, health sector, power and energy, agriculture and, very importantly, sports
+
+It’s also interesting to see whether the Kachchativu issue, which is hot news and a burning issue at present, would provide an impetus for presidential hopefuls to gain some mileage out of it
+
+...
+
+[Data](articles/d98cd41e.json)
+
+---
 
 ### 2024-04-03 (Wednesday)
 
@@ -50,6 +122,8 @@ At the meeting, Senior Prof. Gamini Senanayake, Chairman of the expert committee
 
 [Data](articles/f12d78a0.json)
 
+[Extended Data](ext_articles/f12d78a0.ext.json)
+
 ---
 
 ### 19 Indian fishermen detained by SL Navy return home amid row over Katchatheevu Island
@@ -67,6 +141,8 @@ The fishermen issue is a contentious one in the ties between India and Sri Lanka
 ...
 
 [Data](articles/a38d0d64.json)
+
+[Extended Data](ext_articles/a38d0d64.ext.json)
 
 ---
 
@@ -215,6 +291,8 @@ The estimation includes up to 100,000 of heroin addicts, up to 350,000 cannabis 
 ...
 
 [Data](articles/ce3a17c5.json)
+
+[Extended Data](ext_articles/ce3a17c5.ext.json)
 
 ---
 
@@ -2219,91 +2297,5 @@ Speaking to Daily Mirror, Director General of Health Services Dr Asela Gunawarde
 [Data](articles/2810f20b.json)
 
 [Extended Data](ext_articles/2810f20b.ext.json)
-
----
-
-### Nuwara Eliya Valappanu Home Jewelry and Money Theft
-
-*2024-04-03 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180333) · `ta`
-
-Jewelry and 80,000 rupees stolen from a house in Nuwara Eliya's Valappanai last Sunday night. Householders found the window broken and the theft discovered upon return. Investigations ongoing.
-
-🟩
-
-A complaint has been lodged at the Valappanai police station that one and a half pounds of jewelery and 80 thousand rupees have been stolen at a house in Valappanai, Nuwara Eliya Valappanai last Sunday night.
-
-When the householders went out and arrived on Monday morning, he observed that the window of the house had been broken.
-
-Later in the house, it was revealed that 80 thousand rupees and one and a half pound jewelery were stolen.
-
-The owners of the house said that the people in the house were sewing and that the money had been stolen.
-
-The Nuwara Eliya Soco Division has been conducting further investigations with the police in connection with the theft.
-
-◼️
-
-[Data](articles/0857bd87.json)
-
-[Extended Data](ext_articles/0857bd87.ext.json)
-
----
-
-### 25 percent of Sri Lanka is still poor
-
-*2024-04-03 14:29:32* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රි-ලංකාවේ-සියයට-25ක්-තවමත්-දුප්පත්/11-408920) · `si`
-
-Sri Lanka's economy grows 2.2% in 2024, but 25% remain poor. Despite economic growth, the World Bank warns of high poverty, income inequality, and labor market fluctuations. The BOC notes a decline in inflation and the implementation of financial policies. However, the World Bank predicts a 2.5% growth increase in 2025, with higher credit service stress and a poverty rate expected above 22% by 2026.
-
-🟩
-
-The World Bank says Sri Lanka's economy will increase the growth of 2.2% growth in 2024 and the country's stabilization marks after 2022. However, the World Bank says Sri Lanka will still face high poverty, income inequality and labor market fluctuations.
-
-The BOC points out that Sri Lanka declines inflation declines, the first financial policies over the background of the implementation of the country.
-
-However, 25.9% of Sri Lankans in the year 20.9% of Sri Lankans in the year have increased to the fourth consecutive year, according to the report.
-
-Shutdown micro, small and medium-sized enterprises (MSMES). The World Bank points out that the family is struggling with various pressure, income losses and loss of the jobs, and the family is due to the meeting of food needs and to maintain expenses for health and education.
-
-The World Bank says that higher credit services will be stressed in a 2.5% increase in growth in 2025, however, in 2025 with a small mobile account surplus.
-
-...
-
-[Data](articles/21091c26.json)
-
-[Extended Data](ext_articles/21091c26.ext.json)
-
----
-
-### High Court refuses bail to Keheliya
-
-*2024-04-03 14:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/High-Court-refuses-bail-to-Keheliya/108-280113) · `en`
-
-The bail application filed on behalf of former Health Minister Keheliya Rambukwella, who is currently held in remand custody in connection with the alleged import of substandard Immunoglobulin injections, was today rejected by Colombo High Court Judge Sujeewa Nissanka.
-
-◼️
-
-[Data](articles/80ffc19a.json)
-
-[Extended Data](ext_articles/80ffc19a.ext.json)
-
----
-
-### Colombo High Court rejected Keheliya's bail plea
-
-*2024-04-03 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180336) · `ta`
-
-Colombo High Court denied bail to former Health Minister Keheliya Rambukwella, citing no special reasons.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella has rejected the Colombo High Court on Wednesday (03).
-
-The Colombo High Court judge, Thamidtuwatta, who rejected the request, said that there were no special reasons for the bail of Keheliya Rambukwella.
-
-◼️
-
-[Data](articles/ff729d16.json)
-
-[Extended Data](ext_articles/ff729d16.ext.json)
 
 ---

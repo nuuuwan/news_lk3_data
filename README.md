@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 06:54:21**
+As of **2024-04-03 07:17:01**
 
 ## Newspaper Stats
 
-*Scraped **16,755** Articles*
+*Scraped **16,757** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 149
+colombotelegraphcom | 150
 bbccomsinhala | 176
 dbsjeyarajcom | 202
 newsfirstlk | 363
@@ -20,33 +20,53 @@ tamilmirrorlk | 1,993
 adaderanalk | 2,009
 virakesarilk | 2,410
 dailymirrorlk | 2,577
-adaderanasinhalalk | 2,705
+adaderanasinhalalk | 2,706
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,735 (99.9%) of 16,755 articles have been extended.
+16,746 (99.9%) of 16,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### අදත් ප්‍රදේශ කිහිපයකට තද වැසි
+### ප්‍රබල භූකම්පනයක් - ජපානයට සුනාමි අනතුරු ඇඟවෙයි
+
+*2024-04-03 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195231) · `si`
+
+තායිවානයේ නැගෙනහිර වෙරළට ඔබ්බෙන් රික්ටර් මාපාංක 7.4ක ප්‍රබලත්වයෙන් යුත් ප්‍රබල භූකම්පනයක් හටගෙන තිබේ.
+
+මේ හේතුවෙන් ජපානයට සුනාමි අනතුරු ඇඟවීමක් නිකුත් කර ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/274a58d7.json)
+
+---
+
+### Heavy rains in several areas today
 
 *2024-04-03 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195229) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණ සහ ඌව පළාත්වල ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains and thundershowers expected in Western, Sabaragamuwa, Central, Southern, and Uva provinces. Public advised to take precautions against wind and lightning.
 
-බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි. මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකිය.
+🟩
 
-බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+In the Western, Sabaragamuwa, Central, Southern and Uva provinces. Showers or thundershowers will occur at several places, about 2.00.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Some places in the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts. Mee. Heavy rains can occur about 75 times.
+
+In some places in the Western, Central, Sabaragamuwa and Uva provinces, in some places, are expected to be fired in the Galle and Matara districts.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/54a0144f.json)
+
+[Extended Data](ext_articles/54a0144f.ext.json)
 
 ---
 
@@ -66,6 +86,8 @@ The proposal to this effect submitted by Power and Energy Minister Kanchana Wije
 
 [Data](articles/b9139eec.json)
 
+[Extended Data](ext_articles/b9139eec.ext.json)
+
 ---
 
 ### Parliament approves increase in VAT to 18%
@@ -82,6 +104,8 @@ The decision comes after the issuance of a Gazette notification for the VAT amen
 
 [Data](articles/c13bb402.json)
 
+[Extended Data](ext_articles/c13bb402.ext.json)
+
 ---
 
 ### Ex-KPMG fame Yohan Perera joins Hayleys, Haycarb and DIPD Boards
@@ -97,6 +121,8 @@ He served on the KPMG Middle East and South Asia Board during his tenure as Mana
 ...
 
 [Data](articles/1bfb4c9e.json)
+
+[Extended Data](ext_articles/1bfb4c9e.ext.json)
 
 ---
 
@@ -115,6 +141,8 @@ Jayesinghe possesses over 41 years of experience in advisory and industry across
 ...
 
 [Data](articles/578bb9ab.json)
+
+[Extended Data](ext_articles/578bb9ab.ext.json)
 
 ---
 
@@ -135,6 +163,8 @@ Samagi Jana Balawegaya (SJB) MP Kabir Hashim yesterday called on the Government 
 ...
 
 [Data](articles/a041806f.json)
+
+[Extended Data](ext_articles/a041806f.ext.json)
 
 ---
 
@@ -158,6 +188,8 @@ Over the weekend, the SJB issued a call for a debate between the Economic Counci
 
 [Data](articles/12524c99.json)
 
+[Extended Data](ext_articles/12524c99.ext.json)
+
 ---
 
 ### Gnanasara Thera’s bail application denied
@@ -175,6 +207,8 @@ On 28 March, the Colombo High Court sentenced Gnanasara Thera to four years of r
 ...
 
 [Data](articles/e683b047.json)
+
+[Extended Data](ext_articles/e683b047.ext.json)
 
 ---
 
@@ -194,6 +228,8 @@ The new Act gives CIABOC broader ability to investigate and prosecute incidents 
 
 [Data](articles/e66be7e5.json)
 
+[Extended Data](ext_articles/e66be7e5.ext.json)
+
 ---
 
 ### Govt. to provide free sanitary pads to 800,000 female students annually
@@ -211,6 +247,8 @@ With a total student population of 4 million in Sri Lanka, around 1.2 million ar
 ...
 
 [Data](articles/472103df.json)
+
+[Extended Data](ext_articles/472103df.ext.json)
 
 ---
 
@@ -259,6 +297,8 @@ The Janatha Vimukthi Peramuna (JVP, the main party within the NPP) is known for 
 ...
 
 [Data](articles/d41c1096.json)
+
+[Extended Data](ext_articles/d41c1096.ext.json)
 
 ---
 
@@ -541,6 +581,20 @@ When the total number was 66 runs, Jodi Krukok lost the game with 6 runs.
 [Data](articles/5e3d7902.json)
 
 [Extended Data](ext_articles/5e3d7902.ext.json)
+
+---
+
+### Mage Kathava – Autobiography Of Imthiaz Bakeer Markar
+
+*2024-04-03 01:20:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/mage-kathava-autobiography-of-imthiaz-bakeer-markar/) · `en`
+
+Parliamentarian Imthiaz Bakeer Markar has written his autobiography My Story – Mage Kathava in Sinhala and the book was launched  on March 5th, at Kularathna Hall of Ananda College where he studied.
+
+I was a schoolmate of his. Not only that, I was there with him at the college hostel throughout his period at Ananda from grade 8 until he left the college. He was famous for his abilities to get on well with all the colleagues. When he talks to someone, he touches the button of the shirt of the other person. He does not touch the body of the other person. This shows his closeness to the person and also the respect with some distance. This is a genuine act.
+
+...
+
+[Data](articles/d5faef39.json)
 
 ---
 
@@ -2169,49 +2223,5 @@ According to the Sri Lanka Development Update released today, Sri Lanka saw dec
 [Data](articles/397d7960.json)
 
 [Extended Data](ext_articles/397d7960.ext.json)
-
----
-
-### Sri Lanka’s economy shows signs of stabilization, but poverty remains elevated
-
-*2024-04-02 16:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-economy-shows-signs-of-stabilization-but-poverty-remains-elevated/108-280045) · `en`
-
-April 02 -  Sri Lanka’s economy is projected to see moderate growth of 2.2% in 2024, showing signs of stabilization, following the severe economic downturn of 2022 while the country still faces elevated poverty levels, income inequality, and labor market concerns, said the World Bank's latest bi-annual update.
-
-According to the Sri Lanka Development Update released today, Sri Lanka saw declining inflation, higher revenues on the back of the implementation of new fiscal policies, and a current account surplus for the first time in nearly five decades, buoyed by increased remittances and a rebound in tourism.
-
-...
-
-[Data](articles/e94f7740.json)
-
-[Extended Data](ext_articles/e94f7740.ext.json)
-
----
-
-### Our sadness experienced in Eastern Europe
-
-*2024-04-02 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195217) · `si`
-
-The Licensed Foreign Employment Union highlights the challenges Sri Lankan workers face in accessing employment opportunities in countries like Poland and Hungary due to lack of embassies and high costs. Delays in visas can lead to cancellation of employment licenses, causing financial loss. The union discusses the issue with the Foreign Affairs Minister, noting the foreign employment market's potential to earn over $5 billion.
-
-🟩
-
-The Licensed Foreign Employment Union (Licensed Foreign Employment Association says that the Sri Lankan workers have to travel to Sri Lanka to visit India to Sri Lanka's employment opportunities.
-
-They said that about fifteen countries, such as Poland, Hungary, has come to the situation.
-
-Since the embassies in those countries are not installed in this country, they have cost more than Rs.
-
-Also, if visa is delayed, the employment license is also canceled and the applicant will lose a lot of money.
-
-They noted that Mr. Thilak Marapana has been discussed as a foreign affairs minister in 2016 and discussed the problem with the present Foreign Affairs.
-
-The foreign employment market has the ability to earn more than $ 5 billion.
-
-◼️
-
-[Data](articles/e8ffe1ce.json)
-
-[Extended Data](ext_articles/e8ffe1ce.ext.json)
 
 ---

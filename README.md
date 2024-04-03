@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 17:34:37**
+As of **2024-04-03 17:54:00**
 
 ## Newspaper Stats
 
-*Scraped **16,895** Articles*
+*Scraped **16,897** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ dailyftlk | 910
 economynextcom | 927
 islandlk | 931
 adalk | 1,420
-tamilmirrorlk | 2,011
+tamilmirrorlk | 2,012
 adaderanalk | 2,028
 virakesarilk | 2,441
-dailymirrorlk | 2,597
+dailymirrorlk | 2,598
 adaderanasinhalalk | 2,734
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,894 (100.0%) of 16,895 articles have been extended.
+16,895 (100.0%) of 16,897 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### Special trains for New Year season
+
+*2024-04-03 17:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-trains-for-New-Year-season/108-280117) · `en`
+
+Colombo, April 3 (Daily Mirror) - Special and long-distance train services are scheduled to be operated during the New Year season to facilitate people to travel conveniently, Deputy General Manager of Railways N.J. Indipolage said.
+
+He said special and long-distance trains will be operated till April 15, starting on April 10.
+
+Accordingly, more than 30 special and long-distance train services are scheduled to operate till April 15, he said.
+
+◼️
+
+[Data](articles/50bbb55d.json)
+
+---
+
+### இதயத்துக்குள் 1000 மன்னிப்புடன் யுவதியின் சடலம் மீட்பு
+
+*2024-04-03 17:16:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இதயத்துக்குள்-1000-மன்னிப்புடன்-யுவதியின்-சடலம்-மீட்பு/76-335573) · `ta`
+
+சுமார் இரண்டு பக்கங்களில் தங் இங்கிலீஸில் அதுவும், பொதுவாக ஒருபக்கமும் தாய், தந்தைக்கு என சிறு தலைப்பிட்டு மற்றுமொரு பக்கத்திலும் மொத்தமாக இரண்டு பக்கங்களில் கடிதமொன்றை எழுதிவைத்துவிட்டு, பெண்ணொருவர் தவறான முடிவை எடுத்துள்ளார்.
+
+​பொதுவாக ஒருபக்கத்தில் எழுதிய கடிதத்தில் 1000 தடவைகள் மன்னிப்பு, மன்னிப்பு என குறிப்பிட்டு, இதயமொன்றையும் அப்பெண் வரைந்துள்ளார். இந்த சம்பவம் இராகலை பொலிஸ் பிரிவுக்கு உட்பட்ட டெல்மார் மேற்பிரிவில் இடம்பெற்றுள்ளது.
+
+அப்பெண்ணின் சடலம், இராகலை பொலிஸ் பிரிவுக்கு உட்பட்ட இராகலை டெல்மார் மேற்ப்பிரிவு குளத்தில் இருந்து டெல்மாக் தோட்டம் உடப்புஸ்ஸலாவையைச் சேர்ந்த 18 வயதான சுதர்ஷிகா என்ற யுவதியின் சடலமே   புதன்கிழமை (03) பிற்ப்பகல் இராகலை பொலிஸாரால் மீட்க்கப்பட்டுள்ளது.
+
+கடந்த இரண்டும் நாட்களாக காணவில்லை எனத் தேடப்பட்டு வந்த குறித்த யுவதியே  சடலமாக மீட்க்கப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/74b9e0e1.json)
+
+---
 
 ### Protesting students tear-gassed near J’pura Uni.
 
@@ -39,6 +73,10 @@ Extensions include translations and NER (Named Entity Recognition).
 Police have used tear gas and water cannons to disperse protesting university students near the University of Sri Jayewardenepura.
 
 The demonstration had been organized by the students in protest over a Cabinet decision pertaining to private medical universities.
+
+UPDATE: Meanwhile, tear gas and water cannons have also been used to disperse a group of protesting university students near Moratuwa University, Ada Derana reporter said.
+
+Students of Moratuwa University had reportedly staged the protest march over the same demands.
 
 ◼️
 
@@ -696,21 +734,29 @@ The Railway Department is noting that the train will be operated from Colombo fr
 
 ---
 
-### පාස්කු ප්‍රහාර ප්‍රකාශය ගැන අධිකරණයට ප්‍රකාශයක් දිමේ අවශ්‍යාතවක් නෑ
+### There is no need for the Passover attack on the court
 
 *2024-04-03 14:54:55* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාර-ප්‍රකාශය-ගැන-අධිකරණයට-ප්‍රකාශයක්-දිමේ-අවශ්‍යාතවක්-නෑ/11-408923) · `si`
 
-පාස්කු ප්‍රහාරය සම්බන්ධයෙන් අධිකරණය හමුවේ පෙනී සිට ප්‍රකාශයක් දීමට තමන් අකමැති බව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා මාලිගාකන්ද මහේස්ත්‍රාත් ලෝචනී අබේවික්‍රම මහත්මියට අද (03) දැනුම් දුන්නේය.
+Former President Maithripala Sirisena has stated he is not interested in making a detailed statement to the CID about the Easter attack. Sirisena's attorney, Analyi, appeared on his behalf. The Criminal Police have been questioned by the CID regarding the Passover attack. The case is being handled by lawyer Saveful Suriyaarachchi and Associated President Premaratne. The court will hear the case tomorrow.
 
-පාස්කු ප්‍රහාරය එල්ල කළ පුද්ගලයින් දන්නා බවට කළ ප්‍රකාශය සම්බන්ධයෙන් සවිස්තරාත්මක ප්‍රකාශයක් රහස් පොලිසියට දී ඇති හෙයින් ඒ පිළිබඳවම මහේස්ත්‍රාත්වරිය හමුවේ ප්‍රකාශයක් දීමට තමන් අකමැති බව සිරිසේන මහතා වැඩිදුරටත් දැනුම් දුන්නේය.
+🟩
 
-නීතීඥ සංදීප්ත සුරිආරච්චි මහතාගේ මෝෂමකට අනුව මෙම නඩුව කැඳවු අවස්ථාවේදී හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපතී නීතීඥ අනුජ ප්‍රේමරත්න මහතා ඒ බව දැනුම් දුන්නේය.
+Former President Maithripal Maithripala Sirisena also informed Maligakanda Magistrate Lokuda Abeywickrama today (03).
 
-පාස්කු ප්‍රහාරය එල්ල කළ පුද්ගලයින් තමන් දන්නා බවට හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා කළ ප්‍රකාශය සම්බන්ධයෙන් විමර්ශණ ආරම්භ කළ රහස් පොලිසිය කළ කැඳවීමට අනුව මෛත්‍රීපාල සිරිසේන මහතා රහස් පොලිසිය හමුවේ පෙනී සිට ප්‍රකාශයක් දුන් අතර ඒ පිළිබඳ නීතීපතිවරයාට දැනුම් දෙමින් තමන් ගතයුතු ඉදිරි පියවර කුමක්දැයි රහස් පොලිස් නිලධාරීහු උපදෙස් පැතූහ.
+Sirisena further stated that he is not interested in making a detailed statement to the CID about the statement that the Easter attack has been identified.
+
+Attorney-at-law Analyi, Attorney at Law Sirisena, appearing on behalf of former President Maithripala Sirisena, he appeared on behalf of former President Maithripala Sirisena.
+
+Criminal police appeared to the CID when the PS heads of Criminal Police said that the PSS of the Passover attack was made by the CID..
+
+The complaint was sent to the lawyer's request to report the judiciary to court and to take a statement to the lawyers to take a statement from the courts today (04).
 
 ...
 
 [Data](articles/b0b81b4f.json)
+
+[Extended Data](ext_articles/b0b81b4f.ext.json)
 
 ---
 
@@ -2315,47 +2361,5 @@ The interim secretariat officials of the Truth and Reconciliation Mechanism, hea
 [Data](articles/f14952cd.json)
 
 [Extended Data](ext_articles/f14952cd.ext.json)
-
----
-
-### Govt. to put forward new Bill to combat domestic violence
-
-*2024-04-03 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98389/govt-to-put-forward-new-bill-to-combat-domestic-violence) · `en`
-
-Women and Children’s Affairs State Minister Geetha Kumarasinghe says the Cabinet of Ministers has approved a proposal to amend the existing Prevention of Domestic Violence Act and present a new Bill to Parliament.
-
-She also highlighted that plans are in progress to establish the National Commission for Women, following the introduction of the already gazetted Bill on Women’s Empowerment.
-
-Kumarasinghe made these remarks while addressing a briefing held at the Presidential Media Centre (PMC) on Tuesday (02).
-
-“The Cabinet approved the Women’s Empowerment Bill on March 04 and subsequently the draft Bill was officially published in the gazette on March 07. It is scheduled to be tabled in Parliament soon. The Act includes provisions regarding the establishment of the National Commission for Women.”
-
-...
-
-[Data](articles/159dde42.json)
-
-[Extended Data](ext_articles/159dde42.ext.json)
-
----
-
-### Sri Lanka rupee opens at 299.80/90 to the US dollar
-
-*2024-04-03 09:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-299-80-90-to-the-us-dollar-157275/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 299.80/90 to the US dollar in the spot forex market on Wednesday, stronger from 299.95/300.05 on Tuesday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 was quoted at 11.35/40 percent from 11.30/40 percent.
-
-A bond maturing on 15.09.2027 was quoted stable at 11.90/12.00 percent.
-
-A bond maturing on 15.12.2028 was quoted stable at 12.10/20 percent.
-
-The Colombo Stock Exchange opened up; the Alls Share Price Index was up 0.08 percent at 11,557. the S&P SL20 was up 0.04 percent at 3,351. (Colombo/Apr3/2024)
-
-◼️
-
-[Data](articles/04835647.json)
-
-[Extended Data](ext_articles/04835647.ext.json)
 
 ---

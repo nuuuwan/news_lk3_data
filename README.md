@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 22:18:08**
+As of **2024-04-03 22:33:39**
 
 ## Newspaper Stats
 
-*Scraped **16,949** Articles*
+*Scraped **16,951** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ economynextcom | 940
 adalk | 1,427
 tamilmirrorlk | 2,017
 adaderanalk | 2,032
-virakesarilk | 2,447
-dailymirrorlk | 2,606
+virakesarilk | 2,448
+dailymirrorlk | 2,607
 adaderanasinhalalk | 2,742
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,949 (100.0%) of 16,949 articles have been extended.
+16,949 (100.0%) of 16,951 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### நாட்டின் பொருளாதாரம் வலுவடைந்திருக்கும் நிலையில், ஆசிரியர் வெற்றிடங்களை நிரப்ப நடவடிக்கை - ஜனாதிபதி
+
+*2024-04-03 22:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180367) · `ta`
+
+மூன்று வருடங்களின் பின்னர் 2024 ஆம் ஆண்டில் 4000 பேருக்கு ஆசிரியர் நியமனம் வழங்க அரசாங்கம் நடவடிக்கை எடுத்துள்ளதாகவும், நாட்டின் பொருளாதாரம் மேலும் வலுவடையும் பட்சத்தில், அடுத்த வருடமும் ஆசிரியர் வெற்றிடங்களை நிரப்புவதற்கு மேலதிக நிதி ஒதுக்கப்படும் எனவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+அலரி மாளிகையில் புதன்கிழமை (03) பிற்பகல் இடம்பெற்ற மேல் மாகாண பட்டதாரி ஆசிரியர் நியமனம் வழங்கும் நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+2320 பட்டதாரி ஆசிரியர்களுக்கு இதன் போத நியமனம் வழங்கப்பட்டதோடு ஜனாதிபதி  அடையாள ரீதியில் சிலருக்கு நியமனங்களை வழங்கி வைத்தார்.
+
+ஆசிரியர் நியமனம் வழங்கும் நிகழ்வில் ஜனாதிபதி ரணில் விக்ரமசிங்க கலந்து கொண்டு உரையாற்றுகையில், எதிர்கால சந்ததியை உருவாக்க வேண்டிய பொறுப்பு ஆசிரியர்களிடம் ஒப்படைக்கப்பட்டுள்ளது.
+
+கௌரவமான தொழிலான ஆசிரியத் தொழிலின் மரியாதையை அழிக்கும் வகையில் ஒருபோதும் செயற்படக் கூடாது என தெரிவித்த ஜனாதிபதி, ஆசிரியர்கள் எப்பொழுதும் பாட அறிவை மேம்படுத்திக்கொள்ள வேண்டியதன் முக்கியத்துவத்தையும் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/e7bb3a37.json)
+
+---
+
+### Only one container intended for unloading at Colombo port: Minister
+
+*2024-04-03 22:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Only-one-container-intended-for-unloading-at-Colombo-port-Minister/108-280133) · `en`
+
+Colombo, April 3 (Daily Mirror) - Only one container out of the 56 containers listed as dangerous cargo on board the ‘Dali’ cargo vessel that collided with the Baltimore Bridge in US recently, intended for unloading at the Colombo port, Minister Nimal Siripala de Silva said today.
+
+The minister said this in response to ongoing speculation, noting that the vessel's Sri Lankan agent had formally communicated this detail to the relevant authorities.
+
+Minister de Silva emphasized that out of the 56 containers listed as dangerous cargo, destined for re-export to another country, the Colombo Port was not the final stop for the vessel. |The ultimate destination for the ship is China, yet there have been mistaken reports indicating otherwise,” he said.
+
+...
+
+[Data](articles/3ac3ff52.json)
+
+---
 
 ### 80 medical officers appointed to Senior Medical Administration posts
 
@@ -2297,47 +2333,5 @@ Tamil Nadu ranks fifth in terms of Lok Sabha places. In the 2019 election, the D
 [Data](articles/1700df79.json)
 
 [Extended Data](ext_articles/1700df79.ext.json)
-
----
-
-### 5 lakhs of poisonous drugs in the country
-
-*2024-04-03 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195247) · `si`
-
-In Sri Lanka, over 500,000 people use poisonous drugs, with 30,000 daily. New medicines are introduced, and 25 chemicals are imported for drug creation, requiring Dangerous Pharmaceutical Board Liass license.
-
-🟩
-
-The Dangered Drugs Control Board says that over 500,000 people who use various poisonous drugs are in the country.
-
-The Chairman of the Attorney at a press conference was speaking at a press conference held today (03).
-
-"This moment in Sri Lanka, more than 500,000 people have been used to use drugs. In addition, the types of medicine in addition to new. There was this medicine everyday. But at the time, some people have focused on more. We can say that nearly 30,000 take these pills. In addition, we are conducting 25 chemicals coming to Sri Lanka. Why? Because they can make new drugs. If you get to Sri Lanka, they need a license of the Dangerous Pharmaceutical Board Liass. "
-
-◼️
-
-[Data](articles/c581d567.json)
-
-[Extended Data](ext_articles/c581d567.ext.json)
-
----
-
-### Short term pain from Sri Lanka’s reforms subsiding, economy strengthening: Minister
-
-*2024-04-03 13:31:00* · [`economynextcom`](https://economynext.com/short-term-pain-from-sri-lankas-reforms-subsiding-economy-strengthening-official-claims-157354/) · `en`
-
-ECONOMYNEXT — Short term pains caused by Sri Lanka’s economic reform efforts have relieved to some extent and the decisions taken by the government have started to pay off with the economy getting stronger, State Minister of Finance Shehan Semasinghe said.
-
-Semasinghe told reporters on Tuesday April 02 that various political parties had tried to bring the government to disrepute using the public’s initial resistance to the reforms.
-
-“There was severe criticism of our reforms from the people at the outset, and because the government took on that challenge, various political parties tried to bring the government to disrepute,” said Semasinghe.
-
-“There was a short term pains from those reforms, and by today those pains have subsided a bit. The economy is becoming stronger. The decisions taken regarding the economy have now started to bear fruit,” he said.
-
-...
-
-[Data](articles/2910962e.json)
-
-[Extended Data](ext_articles/2910962e.ext.json)
 
 ---

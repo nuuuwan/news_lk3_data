@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 21:33:57**
+As of **2024-04-03 21:53:28**
 
 ## Newspaper Stats
 
-*Scraped **16,942** Articles*
+*Scraped **16,943** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 931
 economynextcom | 940
 adalk | 1,426
 tamilmirrorlk | 2,016
-adaderanalk | 2,031
+adaderanalk | 2,032
 virakesarilk | 2,447
 dailymirrorlk | 2,603
 adaderanasinhalalk | 2,741
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,741
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,941 (100.0%) of 16,942 articles have been extended.
+16,942 (100.0%) of 16,943 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,30 @@ It caused the most damage in Hualien, where buildings fell, roads were blocked a
 ...
 
 [Data](articles/38618856.json)
+
+[Extended Data](ext_articles/38618856.ext.json)
+
+---
+
+### At least 9 dead, 800 injured in Taiwan earthquake; dozens trapped in collapsed tunnels
+
+*2024-04-03 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98405/at-least-9-dead-800-injured-in-taiwan-earthquake-dozens-trapped-in-collapsed-tunnels) · `en`
+
+Rescue efforts are under way in Taiwan after a 7.4 magnitude earthquake struck the island’s eastern coast, killing at least nine and injuring more than 800.
+
+Some 127 people are trapped in collapsed tunnels and on mountainous roads along the rugged coastline.
+
+The epicentre was 18km (11 miles) south of Hualien city, but strong tremors were felt all the way in the capital Taipei, more than 100km away.
+
+It also triggered tsunami alerts earlier in the day in nearby Japanese and Philippine islands which were later retracted.
+
+It caused the most damage in Hualien, where buildings fell, roads were blocked and train lines disrupted, leaving the remote region even more cut off from the rest of Taiwan.
+
+“I was just getting out of bed when a clothes rack and a low cabinet fell over,” Ocean Tsai, who lives in Hualien, told BBC Chinese. “It kept getting stronger, and I started worrying about our belongings at home. Fortunately, apart from the motorcycle tipping over, the damage was minimal.”
+
+...
+
+[Data](articles/9272484b.json)
 
 ---
 
@@ -2345,29 +2369,5 @@ Electric fences will be set up for many villages in the elephant penetration thi
 [Data](articles/7a453331.json)
 
 [Extended Data](ext_articles/7a453331.ext.json)
-
----
-
-### Tamil votes will not split up if Tamil general candidate is fielded: CV Vigneswaran
-
-*2024-04-03 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/180313) · `ta`
-
-Vajira Abeywardena suggests Tamils won't split votes if a Tamil general candidate is fielded, but CV Vigneswaran disagrees, arguing against a Tamil candidate to avoid dividing Tamil votes. Vigneswaran criticizes the majority community's neglect of Tamil issues post-election, highlighting the unresolved political and social issues faced by Tamils in Sri Lanka. He emphasizes the need for a Tamil general candidate to address these issues, arguing that a good Tamil candidate could unite Tamil votes, despite the historical context of Sinhalese dominance and the challenges of electing a Tamil president.
-
-🟩
-
-If a Tamil general candidate in the upcoming presidential election, as Vajira Abeywardena says, the votes of the Tamils will not be split, but all the Tamils who voted for the majority candidates will come together and vote for the Tamil general candidate.
-
-Wickeswaran, who has clarified his position on the UNP Member of Parliament, Vajira Abeywardena's statement, said that the Tamils should not field a Tamil general candidate in the upcoming presidential election and divide the Tamil votes:
-
-My friend Vajira Abeywardena is the UNP. So what else can he say to the success of the post of President?But if we look at the problem we face from the angle of being Tamils, he will not say this.
-
-As Tamils, we have so far voted for a candidate from the majority community. They all promised to provide a solution to our political issue.
-
-...
-
-[Data](articles/f15f84ec.json)
-
-[Extended Data](ext_articles/f15f84ec.ext.json)
 
 ---

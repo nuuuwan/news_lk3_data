@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 16:33:22**
+As of **2024-04-03 16:49:19**
 
 ## Newspaper Stats
 
-*Scraped **16,875** Articles*
+*Scraped **16,884** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,180 @@ newsfirstlk | 363
 dailyftlk | 910
 economynextcom | 927
 islandlk | 931
-adalk | 1,417
+adalk | 1,419
 tamilmirrorlk | 2,010
-adaderanalk | 2,023
-virakesarilk | 2,434
+adaderanalk | 2,024
+virakesarilk | 2,439
 dailymirrorlk | 2,597
-adaderanasinhalalk | 2,731
+adaderanasinhalalk | 2,732
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,872 (100.0%) of 16,875 articles have been extended.
+16,875 (99.9%) of 16,884 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### දිවුලපතන ගම්මානයේ ජනතාව නිදහසේ ජීවත් විය හැකි වාතාවරණයක් ඉල්ලයි
+### රජිව් ගාන්ධි ඝාතන සිද්ධියේ වරදකරුවන් ශ්‍රී ලංකාවට එවයි
+
+*2024-04-03 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195260) · `si`
+
+ඉන්දීය හිටපු අග්‍රාමාත්‍ය රජිව් ගාන්ධි ඝාතන චෝදනාවට වරදකරුවන් වූ ශ්‍රී ලාංකිකයින් තිදෙනා මෙරටට පිටුවහල් කර තිබේ.
+
+අද (03) උදෑසන චෙන්නායි ගුවන්තොටුපලේ සිට ඔවුන් මෙරටට පිටත්වී ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+
+රජිව් ගාන්ධි ඝාතන චෝදනාවට වරදකරුවන් වී සිරදඬුවමට ලක්වූ මුරුගන්, රොබට් සහ ජයකුමාර් යන ශ්‍රී ලාංකිකයින් තිදෙනා 2022 වසරේ බන්ධනාගාරයෙන් නිදහස් වී තිබුණි.
+
+පසුව තිරුචිහි විශේෂ කඳවුරක රඳවා සිටි ඔවුන් සිදුකළ ඉල්ලීමක් සලකා බැලීමෙන් පසු මෙලෙස ශ්‍රී ලංකාවට යොමුකර ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/523cd679.json)
+
+---
+
+### Special train schedule to be in place for Avurudu season
+
+*2024-04-03 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98399/special-train-schedule-to-be-in-place-for-avurudu-season) · `en`
+
+Sri Lanka Railways says additional trains will be up and running from 10 April (Wednesday) until 15 April (Monday) in view of the upcoming Sinhala and Tamil New Year season.
+
+Accordingly, the following trains will be operated in addition to the regular long-distance trains during the aforementioned period.
+
+◼️
+
+[Data](articles/dc6b45e8.json)
+
+---
+
+### පොලිස් සිරමැදිරියේදී සිටියදී ඇද වැටුණු සැකකරුවෙක් රෝහලේ
+
+*2024-04-03 16:27:32* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-සිරමැදිරියේදී-සිටියදී-ඇද-වැටුණු-සැකකරුවෙක්-රෝහලේ/11-408927) · `si`
+
+පයාගල පොලීසියේ සිරමැදිරියේ සිටි පයාගල, ඈතගම ප්‍රදේශයේ පදිංචි සැකකරුවෙකු කිසියම් හදිසි අසනීප තත්ත්වයක් හේතුවෙන් අද දහවල් සිරමැදිරිය තුළ ඇද වැටී හිසට සිදුවූ තුවාල සහිතව අද 03දා රෝහල්ගත කර බව කළුතර නාගොඩ ශීක්ෂණ රෝහල් ආරංචි මාර්ග පවසයි.
+
+රෝහල්ගත කර ඇති පුද්ගලයා විවෘත වරෙන්තුවක් මත අත්අඩංගුවට ගෙන පයාගල පොලීසියේ සිරමැදිරියේ රඳවා සිටි බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/f4603949.json)
+
+---
+
+### அனுமதிப்பத்திரமின்றி மணல் ஏற்றிச்சென்ற 4 வாகனங்களுடன் சாரதிகள் கைது!
+
+*2024-04-03 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180342) · `ta`
+
+சாவகச்சேரிப் பொலிஸ் பிரிவிற்குள் சட்டவிரோதமாக மணல் அகழ்வில் ஈடுபட்ட மற்றும் உரிய அனுமதிப் பத்திரங்கள் இன்றி மணல் ஏற்றிச்சென்ற 4 வாகனங்கள் பொலிஸாரால் கைப்பற்றப்பட்டிருப்பதுடன் அதன் சாரதிகளும் கைது செய்யப்பட்டுள்ளனர்.
+
+சாவகச்சேரிப் பொலிஸ் பிரிவுக்குட்பட்ட மறவன்புலோ - கோவிலாக்கண்டிப் பகுதியில் 03/04 புதன்கிழமை அதிகாலை வேளையில் சட்டவிரோதமாக மணல் அகழ்வில் ஈடுபட்டுக்கொண்டிருந்த உழவியந்திரம் ஒன்றையும் அதன் சாரதியையும் சாவகச்சேரிப் பொலிஸார் கைது செய்திருந்தனர்.
+
+அத்துடன் கடந்த செவ்வாய்க்கிழமை உரிய அனுமதிப் பத்திரம் இன்றியும் அனுமதிப் பத்திரத்தில் மோசடி மேற்கொண்டும் மணல் கடத்தலில் ஈடுபட்ட மூன்று டிப்பர் வாகனங்கள் மற்றும் அதன் சாரதிகளையும் சாவகச்சேரிப் பொலிஸார் கைது செய்துள்ளனர்.
+
+◼️
+
+[Data](articles/e883d08b.json)
+
+---
+
+### The people of Divulapitiya calls for an atmosphere that can live freely
 
 *2024-04-03 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195259) · `si`
 
-දිවුලපතන ගම්මානය ආශ්‍රිතව ඉදිකර තිබෙන ආරක්ෂිත මුරකපොලු ඉවත් කිරීමට පියවර ගන්නා ලෙස නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ඉදිරිපත් කර තිබේ.
+Divulapitiya residents demand removal of safe watch, citing hindrance to free living. A petition to the Supreme Court, supported by local ministers, accuses government and village activities of political interference, affecting Sinhalese livelihoods since 1974.
 
-අම්පාර දිස්ත්‍රික්කයේ සිංහල ජනතාව බහුතරයක් වාසය කරන දිවුලපතන ගම්මානය ආශ්‍රිතව ඉදිකර තිබෙන ආරක්ෂිත මුරකපොලු ඉවත්කොට එම ජනතාවට නිදහසේ ජීවත් විය හැකි වතාවරණයක් උදාකර දීමට පියවර ගන්නා ලෙස නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මෙම මූලික අයිතිවාසිකම් පෙත්සම ඉදිරිපත් කර ඇත.
+🟩
 
-පූජ්‍ය බෙංගමුවේ නාලක හිමි සහ දිවුලපතන ගම්වාසින් පිරිසක් විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබේ.
+A fundamental rights petition has been filed before the Supreme Court demanding an order to be taken to remove the safe watchpace in the village of Divulapitiya.
 
-එහි වගඋත්තරකරුවන් ලෙස වාරිමාර්ග අමාත්‍ය පවිත්‍රා වන්නිආරච්චි,  සංචාරක අමාත්‍ය හරින් ප්‍රනාන්දු, නැගෙනහිර පළාත භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති අජිත් රෝහණ ඇතුළු පිරිසක් නම් කර ඇත.
+The fundamental rights petition has been presented in the Supreme Court as to remove the safe watch in the village of the Divulaya village, where the majority of the Sinhalese in the Ampara District.
 
-පෙත්සම්කරුවන් කියා සිටින්නේ නැගෙනහිර පළාතේ පිහිටි දිවුලපතන ගම්මානයේ ඈත අතීතයේ පටන් සිංහල ජනතාව වාසය කළ බවය.
+The petition was presented by a group of Ven
 
-1974 වසර වන විට අදාළ ගම්මානයේ සිංහල පවුල් 618ක් වාසය කළ බවත් පෙත්සමේ සඳහන් වෙයි.
+Minister of Irrigation Minister Pavithra Wanniarachchi, Minister of Tourist Minister Harin Fernando, Eastern Province, has been named by Senior DIG in charge of the Eastern Province.
+
+The petitioners claim that Sinhalese have lived from the Divulapura village.
+
+By 1974, 618 Sinhalese families have lived in the village by 1974.
+
+However, the petition accuses the activities of the village, including the activities of the government, and the activities of the villages, which have been built around the village.
 
 ...
 
 [Data](articles/ed78a3ad.json)
+
+[Extended Data](ext_articles/ed78a3ad.ext.json)
+
+---
+
+### தொலைக்காட்சியில் நேரடியாக வெளியாகும் அசோக் செல்வனின் 'பொன் ஒன்று கண்டேன்'
+
+*2024-04-03 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180332) · `ta`
+
+'போர் தொழில்', 'ப்ளூ ஸ்டார்' என வரிசையாக வெற்றி படங்களை வழங்கிய நடிகர் அசோக் செல்வன் கதையின் நாயகனாக நடித்திருக்கும் 'பொன் ஒன்று கண்டேன்' எனும் திரைப்படம் படமாளிகைகளில் வெளியாகாமல் நேரடியாக தொலைக்காட்சியில் வெளியாகிறது.
+
+'கண்ட நாள் முதல்' எனும் திரைப்படத்தை இயக்கிய இயக்குநர் வி. பிரியா இயக்கத்தில் உருவாகி இருக்கும் 'பொன் ஒன்று கண்டேன்' எனும் திரைப்படத்தில் அசோக் செல்வன், வசந்த் ரவி, ஐஸ்வர்யா லட்சுமி ஆகியோர் முதன்மையான கதாபாத்திரங்களில் நடித்திருக்கிறார்கள்.
+
+ஏ. டி. பஹத் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு யுவன் சங்கர் ராஜா இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை ஜியோ ஸ்டுடியோஸ் வழங்குகிறது.
+
+மேலும் இந்த திரைப்படத்தை ஒய் எஸ் ஆர் ஃபிலிம் புரொடக்ஷன் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் ஜோதி தேஷ் பாண்டே மற்றும் யுவன் சங்கர் ராஜா ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+இந்தப் படத்தின் கேரக்டர் லுக் போஸ்டர்ஸ், சிங்கிள் ட்ராக் ஆகியவை வெளியாகி இருக்கிறது. இந்நிலையில் இந்தத் திரைப்படம் எதிர்வரும் 14 ஆம் திகதியன்று தமிழ் புத்தாண்டு தின சிறப்பு திரைப்படமாக கலர்ஸ் ரிவியில் ஒளிபரப்பாகிறது.
+
+...
+
+[Data](articles/bf895fcf.json)
+
+---
+
+### அல்லு அர்ஜுன் நடிக்கும் 'புஷ்பா 2' அப்டேட்
+
+*2024-04-03 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180335) · `ta`
+
+'புஷ்பா - தி ரைஸ்' படத்தில் சிறப்பான நடிப்பை வெளிப்படுத்தியதற்காக தேசிய விருதை வென்ற நடிகர் அல்லு அர்ஜுன் நடிப்பில் தயாராகி வரும் 'புஷ்பா 2' படத்தின் டீசர் வெளியிடப்படும் திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+
+இயக்குநர் சுகுமார் இயக்கத்தில் உருவாகி வரும் 'புஷ்பா- தி ரூல்' எனும் திரைப்படத்தில் அல்லு அர்ஜுன், ராஷ்மிகா மந்தானா, ஜெகபதிபாபு, பிரகாஷ்ராஜ், சுனில், அஜய் உள்ளிட்ட பலர் நடிக்கிறார்கள். மிரோஸ்லா குபா ப்ரோசெக் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு தேவி ஸ்ரீ பிரசாத் இசையமைத்திருக்கிறார். செம்மர கடத்தலை மையப்படுத்தி எக்சன் என்டர்டெய்னராக தயாராகும் இந்த திரைப்படத்தை மைத்ரி மூவி மேக்கர்ஸ் மற்றும் சுகுமார் ரைட்டிங்ஸ் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள்  நவீன் யெர்னேனி- வை. ரவி சங்கர் மற்றும் இயக்குநர் சுகுமார் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/ffa60505.json)
+
+---
+
+### புதுமுகங்கள் நடிக்கும் 'கேன்' திரைப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு
+
+*2024-04-03 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180343) · `ta`
+
+சின்னத்திரை தொகுப்பாளர்கள்  வண்ணத்திரையிலும், வெள்ளி திரையிலும், டிஜிட்டல் திரையிலும் தங்களது திறமையை வெளிப்படுத்தி சாதனையாளர்களாக உயர்ந்திருக்கிறார்கள்.
+
+அந்த பட்டியலில் சன் ரிவியின் தொகுப்பாளரான ஆடம்ஸ் 'கேன்' எனும் திரைப்படத்தின் மூலம் இயக்குநராக அறிமுகமாகி இருக்கிறார். இந்தத் திரைப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியாகி இணையவாசிகளின் கவனத்தை வெகுவாக கவர்ந்திருக்கிறது.
+
+இயக்குநர் ஆடம்ஸ் இயக்கத்தில் உருவாகி இருக்கும்  'கேன்' எனும் திரைப்படத்தில் பிரணவி மனுக்கொண்டா, ஹேமந்த் மேனன், அக்ஷரா ராஜ், கலையரசன், யாஷிகா ஆனந்த், தம்பி ராமையா, ரோபோ சங்கர், கோவை சரளா, கருணாகரன், மாறன், ஸ்ரீமன், வி டி வி கணேஷ், கௌசல்யா, ரெடின் கிங்ஸ்லீ, நாஞ்சில் விஜயன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+பிரகாஷ் ருத்ரா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அஸ்வமித்ரா இசையமைத்திருக்கிறார். காதலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை ஷோபனா கிரியேசன்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் டி. கருணாநிதி தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/d0eed772.json)
+
+---
+
+### வவுனியா மாவட்ட பொது வைத்தியசாலையின் பணிப்பாளராக ஜி.சுகுணன் கடமையை பொறுப்பேற்றார்
+
+*2024-04-03 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180345) · `ta`
+
+அண்மையில் வடக்கு மாகாண சுகாதாரத்துறையில் பல்வேறு புதிய நியமனங்களை சுகாதார அமைச்சு முன்னெடுத்திருந்தது.
+
+அந்தவகையில் வவுனியா மாவட்ட பொது வைத்தியசாலையின் பணிப்பாளராக ஜி.சுகுணன் நியமிக்கப்பட்டிருந்தார். அவர் இன்று காலை தனது கடமைகளை பொறுப்பேற்றார்.
+
+முன்னதாக வவுனியா கந்தசுவாமி ஆலயத்தில் விசேட பூஜை வழிபாட்டில் ஈடுபட்ட பின்னர் வவுனியா மாவட்ட பொது வைத்தியசாலையின் பணிப்பாளராக தனது கடமைகளை உத்தியோகபூர்வமாக ஆரம்பித்தார்.
+
+◼️
+
+[Data](articles/58555fc4.json)
 
 ---
 
@@ -91,6 +229,8 @@ In a motion before Magistrate Lochani Abeywickrema, a lawyer representing former
 ...
 
 [Data](articles/c8c5d72d.json)
+
+[Extended Data](ext_articles/c8c5d72d.ext.json)
 
 ---
 
@@ -157,6 +297,8 @@ The magazine says more women than ever are now heading to far-flung destinations
 ...
 
 [Data](articles/6551c06e.json)
+
+[Extended Data](ext_articles/6551c06e.ext.json)
 
 ---
 
@@ -323,6 +465,24 @@ The Railway Department is noting that the train will be operated from Colombo fr
 [Data](articles/0426cc54.json)
 
 [Extended Data](ext_articles/0426cc54.ext.json)
+
+---
+
+### නිවාඩු නොමැතිව සේවයට වාර්තා කර නොමැති හමුදා සාමාජිකයන්ට පොදු සමාවක්
+
+*2024-04-03 14:49:41* · [`adalk`](https://www.ada.lk/breaking_news/නිවාඩු-නොමැතිව-සේවයට-වාර්තා-කර-නොමැති-හමුදා-සාමාජිකයන්ට-පොදු-සමාවක්/11-408922) · `si`
+
+‍ත්‍රිවිධ හමුදාවේ නිවාඩු නොමැතිව සේවයට වාර්තා නොකර සිටින හමුදා සාමාජිකයින්ට නිත්‍යානුකූලව සේවයෙන් ඉවත්වීම සඳහා පොදු සමා කාලයක් ප්‍රකාශයට පත් කර තිබේ.
+
+ඒ අනුව අප්‍රේල්ම 20 වැනිදා සිට මැයි මස 20 වැනිදා දක්වා මෙම පොදු සමා කාලය ප්‍රකාශයට පත් කර තිබේ.
+
+මෙම සමා කාලය අප්‍රේල් මස 02 වන දිනට පෙර නිවාඩු නොමැතිව නොපැමිණ සිටින අය සඳහා පමණක් අදාළ වන බව ආරක්ෂක අමාත්‍යාංශය සඳහන් කළේය.
+
+මීට අමතරව නිවාඩු නොමැතිව සේවයට වාර්තා නොකර සිටින දැනට විදේශගතව සිටින ත්‍රිවිධ හමුදා සාමාජිකයින් වෙත ද නැවත ඔවුන්ගේ ආදාළ ඒකකය වෙත වාර්තා කිරීමකින් තොරව පොදු සමා කාලයේ දී කොන්දේසි කිහිපයකට යටත්ව නිත්‍යානුකූලව සේවයෙන් ඉවත්වීමට අවස්ථාව සලසා දී තිබේ.
+
+◼️
+
+[Data](articles/2297fd3b.json)
 
 ---
 
@@ -2169,211 +2329,5 @@ Meanwhile, the Japanese Meteorological Department has revised the earthquake in 
 [Data](articles/04850e35.json)
 
 [Extended Data](ext_articles/04850e35.ext.json)
-
----
-
-### The most powerful earthquake;Tsunami warning leave (video)
-
-*2024-04-03 08:46:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதி-சக்திவாய்ந்த-நிலநடுக்கம்-சுனாமி-எச்சரிக்கை-விடுப்பு-காணொளி/175-335546) · `ta`
-
-A 7.5 magnitude earthquake in Taiwan caused a tsunami warning for South Japan, trapping people in Huvalian city. The USGS recorded it at 7.4 at 34.8 km depth, but the Japanese Meteorological Department revised it to 7.7.
-
-🟩
-
-The 7.5 magnitude earthquake struck in Taiwan this morning and a tsunami warning to South Japan.
-
-According to reports, people are trapped inside Huvalian city on the east coast of Taiwan due to the earthquake.
-
-The earthquake recorded 7.4 at a depth of 34.8 km south of Taiwan Huvalian, 18 km (11 miles), according to the US Geological Survey.
-
-Meanwhile, the Japanese Meteorological Department has revised the earthquake in Taiwan to 7.7 on the Richter scale.. Remble
-
-◼️
-
-[Data](articles/31cd3801.json)
-
-[Extended Data](ext_articles/31cd3801.ext.json)
-
----
-
-### Hormone-disrupting chemicals found on raincoats can affect male fertility: Report
-
-*2024-04-03 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hormone-disrupting-chemicals-found-on-raincoats-can-affect-male-fertility-Report/108-280081) · `en`
-
-Colombo, April 3 (Daily Mirror) - Research reports suggest that hazardous chemicals or chemical mixtures, known as endocrine disruptive chemicals (EDCs), which interfere with the body's hormonal functions, have been found concealed within everyday consumer products like water-repellent textiles such as raincoats.
-
-EDCs have an effect on the male hormone testosteron, and a large number of young males have a reduced sperm count, and an increasing number are being born with deformities of their sexual organs.
-
-Based on research on water-repellent textiles such as raincoats and personal care products, the Centre for Environmental Justice (CEJ) has disclosed exposures to chemicals such as perfluorodecanoic acid (PFDA), parabens, and triclosan in everyday items, posing significant risks to public health.
-
-...
-
-[Data](articles/96572dd3.json)
-
-[Extended Data](ext_articles/96572dd3.ext.json)
-
----
-
-### Lakshman remanded for cheating crores and fraud
-
-*2024-04-03 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195235) · `si`
-
-Lakshman, arrested for cheating and fraud, is also under investigation for defrauding over Rs. The suspect, who obtained a license for foreign employment, is accused of taking money from 88 people. The Foreign Employment Bureau is investigating further.
-
-🟩
-
-The Maligakanda Magistrate also prescribed a suspect who has been arrested for defrauding more than Rs.
-
-The Maligawatta has been arrested by the Foreign Employment Bureau recently.
-
-The suspect has obtained a license and maintained a job delegation to provide foreign employment.
-
-She was also allowed to provide employment in several areas in Romania.
-
-However, the Foreign Employment Bureau has received complaints that the suspect has taken money.
-
-A total of 88 persons who had not received money to the suspect have complained to the Foreign Employment Bureau.
-
-Although the investigation officials had informed her to attend the Foreign Employment Bureau to conduct an investigation into the matter.
-
-The Foreign Employment Bureau is conducting further investigations to arrest the manager and another of the Foreign Employment Agency (Manager) and another.
-
-◼️
-
-[Data](articles/e8a5b0c0.json)
-
-[Extended Data](ext_articles/e8a5b0c0.ext.json)
-
----
-
-### President briefed on challenges faced by Muslim schools in Colombo
-
-*2024-04-03 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98387/president-briefed-on-challenges-faced-by-muslim-schools-in-colombo) · `en`
-
-A formal discussion on the educational challenges confronting Muslim schools in the Colombo region was convened under the leadership of President Ranil Wickremesinghe at the Presidential Secretariat, on Tuesday (02).
-
-Key issues addressed included the shortage of teachers, inadequate space and classrooms, difficulties in teaching Islam in Sinhala, absence of schools in Muslim-majority areas, according to the President’s Media Division.
-
-During the session, Minister Ali Sabry and representatives of school principals and organizations briefed President Ranil Wickremesinghe on the challenges faced by Muslim schools in Colombo, the release said.
-
-The President promptly initiated steps to address some of these issues, directing officials from the Ministry of Education and the Urban Development Authority to investigate and report on specific matters.
-
-...
-
-[Data](articles/16486e53.json)
-
-[Extended Data](ext_articles/16486e53.ext.json)
-
----
-
-### A person is assassinated with sharp weapons
-
-*2024-04-03 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195234) · `si`
-
-In Evlanda, a person was assassinated with sharp weapons. The victim was initially treated at Evtball Hospital, then transferred to Muttur Hospital. The murder was linked to two groups.
-
-🟩
-
-In the morning of this morning, Evlanda area was assaulted with a sharp object in the Ilangathuwela area in the Ilangathuwela area in the Ilangathu area.
-
-The police said that the victim was admitted to the Evtball Hospital and was later admitted to the Muttur Hospital for further treatment.
-
-The victim has been killed and the murder was identified as a group of two groups have been killed and the murder had been identified.
-
-◼️
-
-[Data](articles/94e3a5c0.json)
-
-[Extended Data](ext_articles/94e3a5c0.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the country
-
-*2024-04-03 07:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98386/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, Southern and Uva provinces after 2.00 p.m.
-
-Fairly heavy showers about 75mm are likely at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts.
-
-Misty conditions can be expected at some places in Western, Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/822d0f5b.json)
-
-[Extended Data](ext_articles/822d0f5b.ext.json)
-
----
-
-### New Bill to be taken to Parliament for women
-
-*2024-04-03 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195233) · `si`
-
-A new bill for women's empowerment, approved by the Cabinet, will be presented to Parliament. It aims to establish a National Women's Commission, following the gazetting of the Empowerment of Women's Gazette. Despite revisions, the bill is seen as a step towards setting up a female commission.
-
-🟩
-
-Geetha Kumarasinghe says that the Cabinet approval was given to the Current Bill to Parliament and bring a new bill to Parliament.
-
-She said that the Empowerment of Women's Gazette the Gazette Bill will be appointed as the National Women's Commission after the appointment of the National Women's Commission.
-
-"We have already gazetted the woman to empower the woman, present, and there is all. But there have been a revision to return to a revision. The Parliamentary Forum by the Parliamentary Forum, another new proposal and the information have been subjected to changes. Because through the passage of this Act, we have provisions to set up the female commission. "
-
-◼️
-
-[Data](articles/58eea3aa.json)
-
-[Extended Data](ext_articles/58eea3aa.ext.json)
-
----
-
-### Japan issues tsunami warning after 7.5-magnitude earthquake
-
-*2024-04-03 07:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98385/japan-issues-tsunami-warning-after-75-magnitude-earthquake) · `en`
-
-(Reuters) - An earthquake offshore Taiwan with a magnitude of 7.2 rocked the capital Taipei on Wednesday morning, knocking out power in several parts of the city and sparking a tsunami warning for the islands of southern Japan and the Philippines.
-
-Taiwan television stations showed footage of some collapsed buildings in the eastern county of Hualien, near the quake’s epicentre, and media reported some people were trapped.
-
-The quake hit at 07:58 a.m. (2358 GMT) at a depth of 15.5km (9.6 miles) just off the eastern coast of Taiwan, according to Taiwan’s Central Weather Administration. It was the strongest quake to hit the island in 25 years, state media said.
-
-Japan issued an evacuation advisory for the coastal areas of the southern prefecture of Okinawa. Tsunami waves of up to 3 metres (10 feet) were expected to reach large areas of Japan’s southwestern coast, according to the Japan Meteorological Agency, which put the quake magnitude at 7.5.
-
-...
-
-[Data](articles/93dd882d.json)
-
-[Extended Data](ext_articles/93dd882d.ext.json)
-
----
-
-### President solutions to the problems of Muslim schools in Colombo
-
-*2024-04-03 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195232) · `si`
-
-President Ranil Wickremesinghe addresses Muslim school issues in Colombo, focusing on teacher shortages, classroom deficits, and space. He instructs officials to find solutions, including appointing more teachers.
-
-🟩
-
-President Ranil Wickremesinghe has instructed the relevant officials to look into the issues in Muslim schools in the Colombo Zone and provide immediate solutions.
-
-President Ranil Wickremesinghe has given this advice at the Presidential Secretariat on the problems faced by the Muslim schools in the Colombo region.
-
-The officers have informed the President about the challenges faced by the Muslim schools in Colombo.
-
-The Presidential Media Unit said that the inadequacy of teachers vacancies, classroom deficit and space in the majority of the Muslim community in the majority of the Muslim community.
-
-Approximately 40,000 Muslim students study in Sinhala medium and discussed the deficit of teachers with a talented teachers in Sinhala.
-
-Foreign and organizations representatives have shown that there are approximately 200 teachers in 19 Muslim schools in Colombo.
-
-...
-
-[Data](articles/8e145c64.json)
-
-[Extended Data](ext_articles/8e145c64.ext.json)
 
 ---

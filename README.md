@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 18:21:30**
+As of **2024-04-03 18:34:59**
 
 ## Newspaper Stats
 
-*Scraped **16,904** Articles*
+*Scraped **16,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ bbccomsinhala | 176
 dbsjeyarajcom | 207
 newsfirstlk | 363
 dailyftlk | 910
-economynextcom | 927
 islandlk | 931
+economynextcom | 940
 adalk | 1,421
 tamilmirrorlk | 2,012
 adaderanalk | 2,029
@@ -26,23 +26,53 @@ adaderanasinhalalk | 2,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,901 (100.0%) of 16,904 articles have been extended.
+16,904 (99.9%) of 16,917 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### பொலிஸ் காவலில் வைக்கப்பட்டிருந்த 24 பேர் கடந்த வருடம்  உயிரிழப்பு!
+### 24 people in police custody died last year
 
 *2024-04-03 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180363) · `ta`
 
-பொலிஸ் காவலில் வைக்கப்பட்டிருந்தபோது 24 பேர் கடந்த  வருடம் உயிரிழந்துள்ளதாக இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் ஆணையாளர் நிமல் புஞ்சிஹேவா தெரிவித்துள்ளார்.
+24 died in police custody last year. Sri Lanka's Human Rights Commission received 9,714 complaints, including 44 about arrested persons.
 
-மேலும் யுக்திய நடவடிக்கையின் கீழ் கைது செய்யப்பட்டவர்கள் தொடர்பில் 44 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாகவும் கடந்த வருடம் ஆணைக்குழுவுக்கு  9,714 முறைப்பாடுகள் கிடைத்துள்ளதாகவும் சட்டத்தரணி நிமல் புஞ்சிஹேவா குறிப்பிட்டுள்ளார்.
+🟩
+
+Sri Lanka Human Rights Commission Commissioner Nimal Punjihewa says that 24 people died last year while being kept in police custody.
+
+Attorney Nimal Punjihewa noted that 44 complaints have been received regarding the arrested persons under the strategy and that the Commission has received 9,714 complaints last year.
 
 ◼️
 
 [Data](articles/b48bd8b5.json)
+
+[Extended Data](ext_articles/b48bd8b5.ext.json)
+
+---
+
+### Sri Lanka state bus system looks to e-ticketing to combat revenue leaks
+
+*2024-04-03 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-bus-system-looks-to-e-ticketing-to-combat-revenue-leaks-157408/) · `en`
+
+ECONOMYNEXT – Sri Lanka is promoting e-ticketing for state buses to stop revenue theft by bus conductors, Minister of Transport Bandula Gunawardana said.
+
+“Some conductors take a portion of the money home,” Gunawardana told reporters Wednesday.
+
+“The take home amount is 10 million rupees daily, or 100 lakhs, which together becomes 3 billion a year.
+
+“So therefore, I have struggled to implement e-ticketing from the moment I took this responsibility.”
+
+However, Minister Gunawardana said that there has been opposition from transportation workers with some of them setting up committees and taking the matter to court as citizens.
+
+Many workers are honest, but there are some who are not, in the same way most passengers buy tickets but some travel without, he said.
+
+“If they make an e-reservation, some guards don’t like it,” Gunawardana said. “They take a 5,000-rupee ticket and sell it to the tourists for 30,000 rupees. They don’t let us do it online.”
+
+...
+
+[Data](articles/4862fc48.json)
 
 ---
 
@@ -110,19 +140,45 @@ He was the oldest man who was alive on 4 February 2022.
 
 ---
 
-### போதகர் ஜெரோம் பெர்னாண்டோவுக்கு விதிக்கப்பட்ட வெளிநாட்டு பயணத்தடை  தற்காலிகமாக நீக்கம்!
+### Pastor Jerome Fernando temporarily removed
 
 *2024-04-03 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/180362) · `ta`
 
-பௌத்தம் மற்றும் ஏனைய மதங்களை அவமதிக்கும் வகையில் கருத்து வெளியிட்ட குற்றச்சாட்டின் பேரில் கைதாகி  பிணையில் விடுவிக்கப்பட்டுள்ள போதகர் ஜெரோம் பெர்னாண்டோவுக்கு விதிக்கப்பட்ட வெளிநாட்டு பயணத்தடையை ஜூன் 26 ஆம் திகதி வரை நீக்குமாறு கோட்டை நீதிவான் திலின கமகே புதன்கிழமை (03) உத்தரவிட்டுள்ளார்.
+Pastor Jerome Fernando's foreign trip ban temporarily lifted by Fort Justice Tilina Kamage. Fernando, arrested for insulting religions, was released on bail. His attorney, Anuja Premaratne, argued for the ban's removal, citing Fernando's awareness of potential arrest despite travel restrictions.
 
-இந்த வழக்கு இன்று விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டபோது, பிரதிவாதி சார்பில் ஆஜரான ஜனாதிபதி சட்டத்தரணி அனுஜ பிரேமரத்ன, எதிர்வரும் காலங்களில் அவுஸ்திரேலியா உட்பட பல நாடுகளில் விரிவுரைகளை நடத்தவுள்ள ஜெரோம் பெர்னாண்டோவுக்கு விதிக்கப்பட்டுள்ள வெளிநாட்டு பயணத்தடையை தற்காலிகமாக நீக்குமாறு கோட்டை நீதிவானிடம் கோரிக்கை விடுத்தார்.
+🟩
 
-ஜெரோம் பெர்னாண்டோ வெளிநாடு செல்லத் தடை விதிக்கப்பட்டாலும் கைது செய்யப்படுவார் எனத் தெரிந்தும்  கடந்த முறை இலங்கை வந்ததாகவும், விரிவுரைகளை முடித்துக்கொண்டு அவ்வாறே இலங்கை திரும்பவுள்ளதாகவும் ஜனாதிபதி சட்டத்தரணி அனுஜ பிரேமரத்ன தெரிவித்தார்.
+Fort Justice Tilina Kamage on Wednesday (03) has ordered the abolition of a foreign trip to Jerome Fernando, who was arrested and released on bail on charges of insulting Buddhism and other religions.
+
+When the case was taken up for hearing today, President's Attorney Anuja Premaratne, appearing on behalf of the defendant, asked the Fort to temporarily remove the foreign travel ban imposed on Jerome Fernando, which will be held in several countries, including Australia.
+
+President's Attorney Anuja Premaratne said that Jerome Fernando had come to Sri Lanka last time, knowing that he would be arrested even if he was forbidden to go abroad.
 
 ◼️
 
 [Data](articles/fe990b74.json)
+
+[Extended Data](ext_articles/fe990b74.ext.json)
+
+---
+
+### Sri Lanka Treasury bill yields up, 12-month flat
+
+*2024-04-03 17:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-up-12-month-flat-157416/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields rose across maturities at Wednesday’s auction, data from the state debt office showed.
+
+The 3-month Treasury bill yield rose 5 basis points to 10.11 percent with 30 billion rupees offered at 57.76 billion sold.
+
+The 6-month yield rose 7 basis points to 10.30 percent with 60 billion rupees offered and 56.38 billion sold.
+
+The 12-month yield was flat at 10.28 percent with 45 billion rupees offered and 18.18 billion sold.
+
+The debt office offered 135 billion rupees of bills and sold 132 billion. (Colombo/Apr3/2024)
+
+◼️
+
+[Data](articles/7c15e8aa.json)
 
 ---
 
@@ -141,6 +197,48 @@ Accordingly, more than 30 special and long-distance train services are scheduled
 [Data](articles/50bbb55d.json)
 
 [Extended Data](ext_articles/50bbb55d.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 299.80/95 to the US dollar
+
+*2024-04-03 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-299-80-95-to-the-us-dollar-157402/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 299.80/95 to the US dollar in the spot forex market on Wednesday, stronger from 299.95/300.05 on Tuesday, dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed up at 11.35/45 percent from 11.30/40 percent.
+
+A bond maturing on 15.09.2027 closed stable at 11.90/12.00 percent.
+
+A bond maturing on 15.12.2028 closed up at 12.15/20 percent from 12.10/20 percent.
+
+A bond maturing on 15.07.2029 closed stable at 12.25/50 percent.
+
+A bond maturing on 01.07.2032 closed up at 12.55/80 percent from 12.50/75 percent. (Colombo/Apr3/2024)
+
+◼️
+
+[Data](articles/22e16218.json)
+
+---
+
+### Most contenders for presidency will gather around Wickremesinghe: UNP
+
+*2024-04-03 17:23:00* · [`economynextcom`](https://economynext.com/most-contenders-for-presidency-will-gather-around-wickremesinghe-unp-157410/) · `en`
+
+ECONOMYNEXT — Save for one or two candidates, the “dozens” who appear to have thrown their hat into the ring will eventually gather around President Ranil Wickremesinghe at the election, the United National Party (UNP) said.
+
+UNP deputy leader Akila Viraj Kariyawasam made this remark responding to a question by a journalist about the “two dozen” names that have been mentioned in connection with the presidential election due to be held between September 17 and October 17 this year.
+
+“Apart from two or three candidates, those dozens will gather here. Don’t worry,” said Kariyawasam.
+
+Kariyawasam said the party will also celebrate International Labour Day on May 01 in recognition of the Sri Lanka’s working class that made the country’s recovery from its worst financial crises possible.
+
+“Our party has decided to celebrate May Day on May 01. This will be begin at the Tower Hall in Maradana through Panchikawatta.
+
+...
+
+[Data](articles/7f5efb80.json)
 
 ---
 
@@ -230,6 +328,24 @@ The court had previously imposed an overseas travel ban on Pastor Jerome Fernand
 
 ---
 
+### Sri Lanka’s Anura Dissanayake ready to debate opposition leader Premadasa
+
+*2024-04-03 16:55:00* · [`economynextcom`](https://economynext.com/sri-lankas-anura-dissanayake-ready-to-debate-opposition-leader-premadasa-157363/) · `en`
+
+ECONOMYNEXT — The Samagi Jana Balawegaya (SJB) and the leftist National People’s Power (NPP), parties led by Sri Lanka’s top two opposition contenders for the presidency, have challenged each other for a televised election debate.
+
+SJB member Chandima Weerakkody told reporters that the NPP should take up the challenge.
+
+“We have our economic team. The JVP says they have their own team headed by Sunil Handunneththi, who is said to be their finance minister. Come to a debate, and allow to be questioned before the people,” the MP said.
+
+Handunneththi, who heads the NPP’s economic council, said the party is happy to debate, but on the condition that SJB leader and opposition leader Sajith Premadasa debates NPP leader Anura Kumara Dissananayake.
+
+...
+
+[Data](articles/6ae2c2bd.json)
+
+---
+
 ### Police and tear gas attack by police
 
 *2024-04-03 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195262) · `si`
@@ -287,6 +403,32 @@ The Kaluwanchikudi Public Health Inspectors have seized a number of outposting a
 [Data](articles/db181060.json)
 
 [Extended Data](ext_articles/db181060.ext.json)
+
+---
+
+### Sri Lanka stocks close up, interest in bluechips, banks
+
+*2024-04-03 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-interest-in-bluechips-banks-157398/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader All Share Index closed up 0.67 percent, or 77.01 points, at 11,624; while the S&P SL20 Index closed up 1.64 percent, or 54.81 points, at 3,404.
+
+“The bullishness in the market is continuing, with a lot of interest coming into the bluechips,” market participants said. “Most interest is coming from corporate and high-net worth sections.”
+
+“There was new interest Hayleys Plc, while interest in John Keells Holdings Plc has always been there.”
+
+Hayleys Plc closed up at 86.00. Subsidiaries Hayleys Fabric Plc closed down at 41.50, as did Haycarb Plc, which was down at 75.70.
+
+Hayleys Fibre Plc closed up at 53.50, as did Hayleys Leisure Plc which closed up at 21.00.
+
+Hayleys Plc saw the most active volumes traded (amounting to Rs228mn), with several crossings taking place.
+
+“There’s also a lot of buying interest coming into banks, there’s a run there.”
+
+...
+
+[Data](articles/5aed7d0a.json)
 
 ---
 
@@ -606,6 +748,22 @@ During the ceremony to hand over the Commission of Appointment, the High Commiss
 
 ---
 
+### Investors in Sri Lanka to be given autonomy to manage zones: President
+
+*2024-04-03 16:00:00* · [`economynextcom`](https://economynext.com/investors-in-sri-lanka-to-be-given-autonomy-to-manage-zones-president-157364/) · `en`
+
+ECONOMYNEXT – Now that Sri Lanka has transitioned away from relying solely on the central bank for economic stability, and opted to engage directly with the market, the next step is to evolve into a competitive, export-oriented economy, the country’s president has said.
+
+“Under this new paradigm, we envision a singular investment zone encompassing the entirety of Sri Lanka, with investors assuming the mantle of licensees. Within this framework, investors will have the autonomy to develop and manage their own zones,” President Ranil Wickremesinghe said.
+
+“Consequently, the role of the Investment Board will undergo a metamorphosis into a comprehensive Economic Commission,” Wickremesinghe said, speaking at the Board of Investment awards ceremony held on Tuesday.
+
+...
+
+[Data](articles/a00c695d.json)
+
+---
+
 ### Refusal to Keheliya
 
 *2024-04-03 15:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-பிணை-மறுப்பு/175-335571) · `ta`
@@ -744,6 +902,28 @@ Church speaker. At a press conference, journalists questioned at a press confere
 
 ---
 
+### ADB to resume Sri Lanka project financing, back PPPs under new strategy
+
+*2024-04-03 15:34:00* · [`economynextcom`](https://economynext.com/adb-to-resume-sri-lanka-project-financing-back-ppps-under-new-strategy-157365/) · `en`
+
+ECONOMYNEXT – Manila-based Asian Development Bank will resume financing projects under its 2024-2028 country partnership strategy along with budget support loans linked to reforms, Country Director Takafumi Kadono said.
+
+The ADB was focusing on budget support loans with the start of an IMF program, but from late in 2024 project finance is likely to start depending on Sri Lanka’s capacity to borrow, he said.
+
+Irrigation, education and health likely areas for project financing in the near term.
+
+ADB is looking to provide technical support and knowledge under its new operating model of finance ++, by going beyond financing, bringing experts for required areas
+
+ADB will also support private sector activity and public private partnerships, Utsav Kumar – Deputy Country Director Sri Lanka Mission said.
+
+ADB was also working on a green bonds framework, he said. (Colombo/Apr03/2024)
+
+◼️
+
+[Data](articles/5bb09d2f.json)
+
+---
+
 ### Life Sunday Assault
 
 *2024-04-03 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180347) · `ta`
@@ -852,21 +1032,33 @@ The Railway Department is noting that the train will be operated from Colombo fr
 
 ---
 
-### රජිව් ගාන්ධි ඝාතනයට සම්බන්ධ තවත් ලාංකිකයන් තිදෙනෙක් නිදහස් කරයි
+### Three Sri Lankans released by Rajiv Gandhi assassination
 
 *2024-04-03 15:01:12* · [`adalk`](https://www.ada.lk/breaking_news/රජිව්-ගාන්ධි-ඝාතනයට-සම්බන්ධ-තවත්-ලාංකිකයන්-තිදෙනෙක්-නිදහස්-කරයි/11-408924) · `si`
 
-ඉන්දියාවේ හිටපු අග්‍රාමාත්‍ය රජීව් ගාන්ධි මහතා 1991.05.21 දින ඝාතනය කිරීම සම්බන්ධයෙන් චෝදනා ලබා වසර 33 ක් සිර දඩුවම් ලබා සිටි ද්‍රවිඩ ජාතිකයන් තිදෙනකු එරටින් පිටුවහල් කර 04/03 දින දහවල් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+Three Sri Lankans, including Shanmamingam Jayakumara and Ventwall Sri Karan, were released from prison after 33 years for the assassination of former Indian Prime Minister Rajiv Gandhi. They arrived at the Katunayake airport on March 4th, 2023, after being detained in India.
 
-ඔවුන් අතර 62 හැවිරිදි  ශන්මුගලිංගම් ජයකුමාර  , 53 හැවිරිදි වෙන්ට්‍රිවල් ශ්‍රී කරන් හෙවත් මුරුගන් සහ 53 හැවිරිදි බාලසුන්දරම් රොබට් පයස් යන අය සිටින අතර ඔවුන් සමග ඉන්දියාවේ නීතීඥවරයෙකු ද පැමිණ සිටියහ .
+🟩
 
-ඔවුන් 04/03 දින දහවල් 11.03 ට ඉන්දියාවේ චෙන්නායි නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 122 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+Former Prime Minister Rajiv Gandhi, India Rajiv Gandhi, was released to the Katunayake airport in 04/03.
 
-ඉන්දියාවේ හිටපු අග්‍රාමාත්‍ය රජීව් ගාන්ධි මහතාගේ ඝාතනයට සම්බන්ධ වීමේ චෝදනාව මත වසර 33 ක් සිර දඩුවම් විදීමෙන් පසුව 2022 නොවැම්බර් මස 11 දින නිදහස ලබා තමිල්නාඩු ප්‍රාන්තයේ ට්‍රිචිනාපොලි විශේෂ කදවුරේ ද රදවා තබා ගැනීමෙන් පසුව 04/03 දින මෙසේ ශ්‍රී ලංකාවට පිටුවහල් කර එවා තිබේ .
+Among them were 62-year-old Shanmamingam Jayakumara, 53-year-old Ventwall Sri Karan and 53-year-old Balazundaram Robert Payes with them.
+
+They were 4/03 days at Chennai from Chennai, SriLankan Airlines, USA - 122 was arrived at the Katunayake airport.
+
+After 33 years were imprisoned on the murder of former Prime Minister Rajiv Gandhi's assassination, he was released on November 11, after he was released on 11th November.
+
+The Katunayake Airport Investigations have been handed over by the Department of Immigration and Emigration Department and the Katunayake airport inquiry.
+
+The suspects had commenced investigations into the matter, as they had fled the boat to India.
+
+Accordingly, the suspects were detained by Katunayake airport criminal investigations and commenced further investigations.
 
 ...
 
 [Data](articles/725520c4.json)
+
+[Extended Data](ext_articles/725520c4.ext.json)
 
 ---
 
@@ -1388,6 +1580,24 @@ The Chairman of the Attorney at a press conference was speaking at a press confe
 
 ---
 
+### Short term pain from Sri Lanka’s reforms subsiding, economy strengthening, official claims
+
+*2024-04-03 13:31:00* · [`economynextcom`](https://economynext.com/short-term-pain-from-sri-lankas-reforms-subsiding-economy-strengthening-official-claims-157354/) · `en`
+
+ECONOMYNEXT — Short term pains caused by Sri Lanka’s economic reform efforts have relieved to some extent and the decisions taken by the government have started to pay off with the economy getting stronger, State Minister of Finance Shehan Semasinghe said.
+
+Semasinghe told reporters on Tuesday April 02 that various political parties had tried to bring the government to disrepute using the public’s initial resistance to the reforms.
+
+“There was severe criticism of our reforms from the people at the outset, and because the government took on that challenge, various political parties tried to bring the government to disrepute,” said Semasinghe.
+
+“There was a short term pains from those reforms, and by today those pains have subsided a bit. The economy is becoming stronger. The decisions taken regarding the economy have now started to bear fruit,” he said.
+
+...
+
+[Data](articles/2910962e.json)
+
+---
+
 ### General amnesty declared for tri-forces absentees
 
 *2024-04-03 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98393/general-amnesty-declared-for-tri-forces-absentees) · `en`
@@ -1529,6 +1739,22 @@ As Tamils, we have so far voted for a candidate from the majority community. The
 [Data](articles/f15f84ec.json)
 
 [Extended Data](ext_articles/f15f84ec.ext.json)
+
+---
+
+### Canada funds UNDP, UNFPA project to help victims of sexual violence in Sri Lanka
+
+*2024-04-03 12:51:00* · [`economynextcom`](https://economynext.com/canada-funds-undp-unfpa-project-to-help-victims-of-sexual-violence-in-sri-lanka-157347/) · `en`
+
+ECONOMYNEXT – National guidelines for the management of shelters for victims of sexual and gender-based violence (SGBV) were recently launched by the Ministry of Women, Child Affairs and Social Empowerment, following Cabinet approval.
+
+The guidelines are a collaborative effort by the Ministry, the United Nations Development Programme (UNDP) in Sri Lanka, and a key component of the ‘Enabling Access to Justice for Victim-Survivors of SGBV in Sri Lanka’ project, a joint initiative with UNDP and UNFPA Sri Lanka, with funding from the Government of Canada.
+
+The guidelines will establish a State-led management system to register, monitor, and enhance the quality of services for victims, particularly those experiencing intimate partner violence (IPV) or domestic violence (DV), seeking refuge in shelters.
+
+...
+
+[Data](articles/26e1070f.json)
 
 ---
 
@@ -1808,6 +2034,26 @@ He also said that the cost of imported goods consumed by the people can ensure s
 
 ---
 
+### Sri Lanka, France discuss debt restructuring process, future financial collaboration
+
+*2024-04-03 11:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-france-discuss-debt-restructuring-process-future-financial-collaboration-157335/) · `en`
+
+ECONOMYNEXT – The Ambassador of France to Sri Lanka and Maldives Jean-François Pactet has assured France’s unwavering support in the debt restructuring process, State Minister of Finance Shehan Semasinghe said.
+
+“We engaged in discussions regarding the progress achieved in the debt restructuring process and assured France’s unwavering support,” Semasinghe said on X (twitter) after discussions with the ambassador at the Ministry of Finance.
+
+“It was emphasized that France will continue its constructive engagement with the Official Creditor Committee to reinforce debt sustainability in Sri Lanka.”
+
+Additionally, the two exchanged perspectives on future financial collaboration between the governments of Sri Lanka and France, Semasinghe said.
+
+Pactet commended the Sri Lankan government’s “dedicated efforts and the implemented reforms agenda aimed at fostering the stability of the Sri Lankan economy.” (Colombo/Apr3/2024)
+
+◼️
+
+[Data](articles/4452b247.json)
+
+---
+
 ### Robert Paes, Murugan and Jayakumar left Sri Lanka
 
 *2024-04-03 11:56:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராபர்ட்-பயஸ்-முருகன்-ஜெயக்குமார்-இலங்கை-புறப்பட்டனர்/175-335560) · `ta`
@@ -2014,6 +2260,24 @@ The Sri Lankan authorities are said to have provided all the travel documents to
 
 ---
 
+### ARCASIA Investments acquires 11.97-pct stake in Sri Lanka’s Ambeon Capital
+
+*2024-04-03 11:34:00* · [`economynextcom`](https://economynext.com/arcasia-investments-acquires-11-97-pct-stake-in-sri-lankas-ambeon-capital-157324/) · `en`
+
+ECONOMYNEXT – An 11.97 percent stake of Ambeon Capital Plc was bought by ARCASIA Investments and Trading (Pvt) Ltd on Monday, the company said in a stock exchange filing.
+
+“ARCASIA Investments & Trading (Pvt) Ltd has purchased 120,000,000 shares of Ambeon Capital Plc which amounts to 11.97% of the issued shares of the Company on 1st April 2024,” the statement said.
+
+On Monday, Ambeon Capital Plc, formerly Taprobane Holdings, saw transactions amounting to a total of 274,853,407 shares changing hands for 1,513,675,780 rupees.
+
+The shares were sold by Seylan Bank Plc/ARRC Capital (Pvt) Limited (Collateral) and Seylan Bank Plc/ARRC Capital (Pvt) Limited, which together disposed of 274,000,000 shares of Ambeon Capital Plc; amounting to 27.32 percent of the issued shares of Ambeon.
+
+◼️
+
+[Data](articles/1c3ff79d.json)
+
+---
+
 ### There are many things happening behind the screen
 
 *2024-04-03 11:30:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரைக்கு-பின்னால்-பல-விஷயங்கள்-நடக்கின்றன/175-335557) · `ta`
@@ -2037,299 +2301,5 @@ He has also announced that the United National Party will hold this year's May D
 [Data](articles/f79d0ecb.json)
 
 [Extended Data](ext_articles/f79d0ecb.ext.json)
-
----
-
-### Age 71 of the two crime gangs
-
-*2024-04-03 11:30:34* · [`adalk`](https://www.ada.lk/breaking_news/අපරාධ-කල්ලි-සාමාජිකයන්-7ක්-අතර-වයස-71-අයෙකුත්/11-408916) · `si`
-
-A 71-year-old suspect was arrested by the Western Province North Criminal Division and Kalutara Crimes Division for involvement in organized crime, including criminal planning and support.
-
-🟩
-
-Western Province North Criminal Division (CID) and several persons arrested by special police teams in the Kalutara Crimes Division. She is a 71-year-old suspect. The officials of the Kalutara Crimes Division had arrested him a raid in the Panadura police division.
-
-2523.03.19.2011 and criminal support to the event of the operation of organized crime, providing criminal planning and supporting the criminal criminal and supporting these crimes.Suspects and suspects are among them.
-
-◼️
-
-[Data](articles/64f8f699.json)
-
-[Extended Data](ext_articles/64f8f699.ext.json)
-
----
-
-### How Quene Queen Kindi Karuna
-
-*2024-04-03 11:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195241) · `si`
-
-Ada Derana reports 25 private buses in Sri Lanka allocated for special trips, providing free food and drinks. The buses, showcased through Hatton and Nallatuniya, transport devotees from various locations including Matara, Galle, Hiniduma, Kalmulana, Gampaha, Udugampola, Ambalangoda, and Pilgampola.
-
-🟩
-
-Ada Derana reports Derana about 25 private buses allocated for special trips in Sri Lanka.
-
-1,300 of those devotees provide free food and drinks without any charges.
-
-Today, Ada Derana also received a vivid framework shown by the buses through Hatton and Nallatuniya.
-
-A large number of devotees were pilgrimage from Matara, Matara, Galle, Hiniduma, Kalmulana, Gampaha, Udugampola, Gampaha, Udugampola, Ambalangoda and Pilgampola.
-
-The specialty is the bus owners of the bus owners, transportation and food, from the time of the journey.
-
-◼️
-
-[Data](articles/d7c327c4.json)
-
-[Extended Data](ext_articles/d7c327c4.ext.json)
-
----
-
-### Abolition of Special Commodity Levy can trigger corruption: Importers
-
-*2024-04-03 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Abolition-of-Special-Commodity-Levy-can-trigger-corruption-Importers/108-280099) · `en`
-
-Colombo, April 3 (Daily Mirror)- In the absence of a mechanism to curb corruption at Sri Lanka Customs, the abolition of the Special Commodity Levy on imported goods can result in price hikes, according to the Essential Commodities Importers’ and Traders’ Association.
-
-The Cabinet has decided to repeal the 17-year-old tax law starting from January, next year.
-
-A spokesman for the Association told Daily Mirror that the levy was introduced way back at the insistence of its members in 2007 because of corruption involved in valuation of goods to charge other taxes including the Value Added Tax, the Port and Airport Development Levy and the Customs Duty.
-
-...
-
-[Data](articles/cb610f6e.json)
-
-[Extended Data](ext_articles/cb610f6e.ext.json)
-
----
-
-### Rajiv Gandhi assassination case: Three Sri Lankan convicts released from Tiruchi Special Camp
-
-*2024-04-03 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98391/rajiv-gandhi-assassination-case-three-sri-lankan-convicts-released-from-tiruchi-special-camp) · `en`
-
-Three Sri Lankan nationals convicted in the former Indian Prime Minister Rajiv Gandhi assassination case — Murugan, Robert Payas and Jayakumar — who had been prematurely freed from prison and later detained at a special camp in Tiruchi, were released on April 2 at night.
-
-According to sources, upon the receipt of final clearance from the Ministry of Home Affairs to send them back to Sri Lanka, the Revenue Department which runs the Special Camp, released them.
-
-They were taken in a police vehicle, under heavy security, to Chennai to fly back to Colombo. They were expected to board a Sri Lankan airline from Chennai airport at 10 a.m.
-
-The Sri Lankan authorities are said to have provided all the travel documents to Murugan, Robert Payas and Jayakumar.
-
-...
-
-[Data](articles/4b06ab7f.json)
-
-[Extended Data](ext_articles/4b06ab7f.ext.json)
-
----
-
-### Tax offers Rs.
-
-*2024-04-03 11:10:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரிச்-சலுகைகள்-ரூ-978-பில்-வருவாயை-இழக்க-வழிவகுக்கும்/175-335554) · `ta`
-
-In 2022, Sri Lanka's tax concessions amounted to 978 billion rupees, 56% of total revenue. The Ministry of Finance's "Tax Expenditure Report" aims to enhance transparency. The government plans to publish a list of companies exempted from IMF and SDP, with a deadline in March 2023.
-
-🟩
-
-The government (March 31) said that in the financial year 202/23 (April to March), the tax concessions were a total of 978 billion rupees.
-
-This is 56% of the total tax revenue collected by the government by 2022.
-
-It was highlighted by Publicfinace .LK, Sri Lanka's first economic intelligence base, maintained by the fanatic research.
-
-The study was published by the Ministry of Finance of Sri Lanka on March 31, 2024, with a document "Tax Expenditure Report".
-
-The document indicates the government's estimates of the total income lost due to various special target tax concessions provided by Sri Lanka. The document states its aim to "improve transparency in Sri Lanka's financial statements that seek international better style."
-
-...
-
-[Data](articles/46e1657f.json)
-
-[Extended Data](ext_articles/46e1657f.ext.json)
-
----
-
-### The elderly male died in the world
-
-*2024-04-03 11:05:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உலகில்-வயதான-ஆண்-மரணமானார்/50-335552) · `ta`
-
-Juan Visente Peraz Mora, the world's oldest man, died at 114. He was confirmed as the oldest man in 2022.
-
-🟩
-
-Officials and relatives said that the Venezuelan Juan Visante Peraz Mora passed away on Tuesday (03), certified by Guinness World Records in the world as the world's oldest man.
-
-“Juan Visente Perez Mora has crossed eternity at the age of 114,” Venezuelan President Nicholas Maduro said in social media site X.
-
-On February 4, 2022, Perez was officially confirmed as the oldest man in the age of 112 and 253 days, according to Guinness.
-
-◼️
-
-[Data](articles/251c32f5.json)
-
-[Extended Data](ext_articles/251c32f5.ext.json)
-
----
-
-### Superbid from Sri Lanka
-
-*2024-04-03 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195240) · `si`
-
-Sri Lanka won the 2-match Test series 2-0, with a total of 531 runs in the first innings. Bangladesh scored 318 in their first innings, with Shakib al Hasan taking 3 wickets. Sri Lanka's Kamindu Mendis scored 92, Kusal Mendis 93, and Dimuth Karunaratne 86. Bangladesh's first innings ended at 178, with Asapitha Fernando taking 4 wickets.
-
-🟩
-
-Sri Lanka were able to win the second Test match between Sri Lanka and 192 (03).
-
-Accordingly, the Sri Lankan team was able to win the two match tournament to 2 - 0.
-
-Chasing a target of 511 runs, the Bangladesh team scored 318 runs.
-
-Batting first Sri Lanka scored 531 runs for the loss of their first innings.
-
-Kamindu Mendis scored 92 runs for the first innings of the Sri Lankan team.
-
-Kusal Mendis scored 93 runs while Dimuth Karunaratne scored 86 runs.
-
-Shakib al Hasan took three wickets for the first innings of Bangladesh in their first innings.
-
-Bangladesh scored 178 runs for their first innings.
-
-Asapitha Fernando took 4 wickets for 34 overs.
-
-Lahiru Kumara, Prabath Jayasuriya and universal Fernando passed 2 wickets each.
-
-Tourism Sri Lanka scored 157 runs for the loss of 7 wickets for their second innings.
-
-Accordingly, the Host Bangladesh team scored 511 runs.
-
-◼️
-
-[Data](articles/898c0d73.json)
-
-[Extended Data](ext_articles/898c0d73.ext.json)
-
----
-
-### A great demand for China's dream car
-
-*2024-04-03 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195239) · `si`
-
-Xiaomi's new electric car, the "Dream Car," has received over 100,000 orders, marking a significant demand in China, the world's largest electric car market. Despite Tesla's lead, Xiaomi's CEO acknowledges the competition.
-
-🟩
-
-In China, Xiaomi is known as a mobile phone product company in the world.
-
-They recently launched their new model electric car.
-
-For this purpose, USiaomi has received more than 100,000 orders and said that the issuance of new cars has been launched today.
-
-China is considered the world's leading market for electric cars and is the Tesla Company.
-
-The CEO of Xiaomi said that Tesla was ahead of the company.
-
-◼️
-
-[Data](articles/46d37a21.json)
-
-[Extended Data](ext_articles/46d37a21.ext.json)
-
----
-
-### Sri Lankan pioneer in establishing special economic zones in the South Asian region - President
-
-*2024-04-03 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180304) · `ta`
-
-President Ranil Wickremesinghe praised the Investment Board's role in Sri Lanka's economy, highlighting the country's pioneering efforts in establishing special economic zones in South Asia, attracting investors like Katunayake and Piyagama for industrial growth and job creation.
-
-🟩
-
-Speaking at the Investment Board's award ceremony, President Ranil Wickremesinghe said that the companies under the Investment Board to improve the economy of Sri Lanka are gratitude.
-
-Recalling that Sri Lanka was the forerunner of the establishment of special economic zones in the South Asian region, the President stressed that he succeeded in attracting major investors such as Katunayake and Piyagama, promoting industrial growth and creating employment opportunities.
-
-◼️
-
-[Data](articles/812236a3.json)
-
-[Extended Data](ext_articles/812236a3.ext.json)
-
----
-
-### In fact, not to be urgent to establish the Reconciliation Commission - International Human Rights Legal experts urging the government to hold widespread discussions with the affected parties
-
-*2024-04-03 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180296) · `ta`
-
-International human rights experts urge the Sri Lankan government to delay the establishment of a Reconciliation Commission, despite the UNHRC's 2022 resolution supporting it. The government, with assistance from Switzerland, Japan, and South Africa, faces criticism from civil society groups. Amnesty International, Human Rights Watch, and the Crisis Monitoring Committee express confidence, but experts advise against rushing the law's implementation, advocating for extensive discussions with affected parties.
-
-🟩
-
-International experts specialists who specialize in the Truth Commission and Human Rights Act will jointly urge the government to urgently not urgent to pass the proposed Truth, Unity and Reconciliation Commission Bill.
-
-The government is actively carrying out the work of establishing a domestic reality, solidarity and reconciliation commission, as the 51/1 resolution titled 'Reconciliation, Liability and Human Rights Enhancement' in Sri Lanka at the United Nations Human Rights Council (UNHRC) has been passed in 2022.
-
-Although the action is being carried out with the cooperation of Switzerland, Japan and South Africa, representatives of civil society organizations working with them have been criticized for this purpose.. Various International Human Rights Organizations, including the Amnesty International International, Human Rights Watch and the Crisis Monitoring Committee, have expressed their confidence in the proposed fact, unity and reconciliation commission.
-
-...
-
-[Data](articles/b92d8a98.json)
-
-[Extended Data](ext_articles/b92d8a98.ext.json)
-
----
-
-### Sandamali takes away the body to the island
-
-*2024-04-03 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195238) · `si`
-
-Matugama C. W. W. Sandamali, a 26-year-old receptionist, died in an electricity leak incident in Kandy. Her body is being sent to Negomba General Hospital for a new post mortem. Funeral arrangements are set for tomorrow at Matugama General Cemetery.
-
-🟩
-
-Sri Lankan employees who have died of electricity leaked and the electricity celebrations in the Kandy-ingrounds of Sharjamayaka have been a powerful leakage of the United Arab Emirates.Sent to the ferry.
-
-Matugama C. W. W. Sandamali, a 26-year-old girl, who studied at the Mathematics Division of Kannangara Central College, is a 26 year old.
-
-She was serving as a receptionist in Sajah by a brother's communications.
-
-She was on the way to an electricity from the hostel that she had stayed at around 9:30 pm on March 9.
-
-Two Egyptians, a Bangladesh national and a Philippine was electricity.
-
-The security forces of the country then went to the scene and suspend the transport activities of the relevant area.
-
-The relatives of her eldest brother and her family were present at the airport for taking over Sandamali's body this morning.
-
-Comrade the company sent 4,000 dirases by the institute.
-
-...
-
-[Data](articles/23f113d1.json)
-
-[Extended Data](ext_articles/23f113d1.ext.json)
-
----
-
-### Students to get driving license without written tests
-
-*2024-04-03 10:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Students-to-get-driving-license-without-written-tests/108-280097) · `en`
-
-Colombo, April 3 (Daily Mirror) - Every GCE Advanced Level student who receives the driving skill medal given by the School Road Safety Association is eligible to take the practical test without sitting for the written examination conducted by the Department of Motor Traffic, Transport State Minister Lasantha Alagiyawanna said.
-
-The programme of setting up school road safety forums and awarding medals is scheduled to be implemented today and students from the primary to the advanced level will have the opportunity to participate.
-
-These forums will also set up a system to offer more points to the students who work up to the President's Medal when qualifying for the universities than other students who are selected for the universities.
-
-The Minister further said that the method of awarding these medals is to be implemented under the supervision of the school as well as divisional level officials.
-
-He also said a circular related to this will be issued by the Education Minister.
-
-◼️
-
-[Data](articles/2effe22c.json)
-
-[Extended Data](ext_articles/2effe22c.ext.json)
 
 ---

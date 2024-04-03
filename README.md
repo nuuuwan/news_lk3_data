@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 12:50:09**
+As of **2024-04-03 13:03:12**
 
 ## Newspaper Stats
 
-*Scraped **16,826** Articles*
+*Scraped **16,827** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,66 +19,102 @@ adalk | 1,412
 tamilmirrorlk | 2,006
 adaderanalk | 2,017
 virakesarilk | 2,421
-dailymirrorlk | 2,591
+dailymirrorlk | 2,592
 adaderanasinhalalk | 2,720
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,821 (100.0%) of 16,826 articles have been extended.
+16,826 (100.0%) of 16,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Two suspects escape from police custody
+
+*2024-04-03 12:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-suspects-escape-from-police-custody/108-280102) · `en`
+
+Galle, April 3 (Daily Mirror)- Two suspects who were detained for further questioning escaped from the custody of the Galle police during the early hours today.
+
+They had been arrested the previous day for having in their possession a stock of heroin and were being detained on a court order. One is from Bope and the other from Mainagoda in Galle.
+
+However, the two young men had escaped custody when the reserve sergeant opened the remand cell to release another suspect on bail.
+
+A police team is conducting investigations to track down the two escapees.
+
+◼️
+
+[Data](articles/64ce216e.json)
+
+---
+
+### Today's currency exchange rate
 
 *2024-04-03 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180322) · `ta`
 
-இன்று புதன்கிழமை (ஏப்ரல் 03) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 295.2486 ஆகவும் விற்பனை விலை ரூபா 304.6043 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On April 3, the US dollar's purchase price was Rs 295.2486, and the sale price was Rs 304.6043.
+
+🟩
+
+The US dollar purchasing price was Rs 295.2486 and the sales price were Rs 304.6043 based on the Central Bank's currency exchange rate on Wednesday (April 03).
 
 ◼️
 
 [Data](articles/a400b52b.json)
 
+[Extended Data](ext_articles/a400b52b.ext.json)
+
 ---
 
-### போதைப் பொருளுடன்  சந்தேக நபர்கள் இருவர் கைது
+### Two suspects arrested with narcotics
 
 *2024-04-03 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180301) · `ta`
 
-ஹோமாகம பொலிஸ் அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் நேற்று செவ்வாய்கிழமை (02) மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர்கள் இருவர் கைது செய்யப்பட்டுள்ளனர்.
+Homagama police arrested two suspects with heroin, seizing 13 grams of drugs. Suspects, aged 32 and 38, from the North.
 
-இவ்வாறு கைதுசெய்யப்பட்ட சந்தேக நபர்களில் ஒருவரிடமிருந்து 06 கிராம் 680 மில்லி கிராம் ஹெரோயின் போதைப் பொருளும், மற்றைய நபரிடமிருந்து 07 கிராம் 100 மில்லி கிராம் போதைப்பொருளும் கைப்பற்றப்பட்டுள்ளன.
+🟩
 
-மேலும் கைதுசெய்த சந்தேக நபர்கள் வட பகுதியைச் சேர்ந்த 32 மற்றும் 38 வயதுடையவர்களாவர்.
+Based on information received by the Homagama police officers, two suspects were arrested with heroin drugs during a round -up on Tuesday (02).
+
+One of the arrested suspects has been seized from 06 grams of 680 milligrams of heroin and 07 grams of 100 ml of drugs from the other person.
+
+The suspects were also aged 32 and 38 from the North.
 
 ◼️
 
 [Data](articles/57260654.json)
 
+[Extended Data](ext_articles/57260654.ext.json)
+
 ---
 
-### නීතිඥභාවය අත්හිටුවා රක්ෂිත බන්ධනාගාර ගත කළ ප්‍රියන්ත ඇප ඉල්ලයි
+### Priyani bail bail out suspended
 
 *2024-04-03 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195245) · `si`
 
-අධිකරණයට අපහාස කළේ යැයි මේ වනවිට නීතිඥභාවය අත්හිටුවා රක්ෂිත බන්ධනාගාර ගත කර සිටින සුසිල් ප්‍රියන්ත ජයතුංග මහතාගේ ඇප ඉල්ලීම මැයි මස 05 වනදා  සලකාබලන බව ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
+The Supreme Court suspends Susil Priyantha Jayatunga's bail, citing worsening skin conditions. Judges Thurairaja, Kumudani Wickremasinghe, and Achala Weddafoli ordered further psychiatric examinations by doctors from the National Mental Medical Institute. The case is set to resume on the 5th.
 
-මෙම පැමිණිල්ල අද එස්. තුරෙයිරාජා, කුමුදුනි වික්‍රමසිංහ සහ අචල වෙංගප්පූලි යන මහත්ම මහත්මීන්ගේ සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+🟩
 
-එම අවස්ථාවේදී අදාළ නීතිඥවරයා සඳහන් කළේ තමාගේ සමේ රෝග තත්ත්වය උත්සන්න වී ඇති බවත් එම නිසා, තමන්ව ඇප මත මුදා හරින ලෙසත් ය.
+The Supreme Court has set the bail of Susil Priyantha Jayatunga who has been suspended to be suspended by the lawyers.
 
-එම අවස්ථාවේදී විනිසුරුවරු තුන්දෙනාම කියා සිටියේ තමන් මෙම නඩු විභාගයෙන් ඉවත්වන බවයි.
+This complaint is today. The three-member judges of the Supreme Court Judge of Thurairaja and Kumudani Wickremasinghe and Achala Weddafoli were called.
 
-වගඋත්තරකාර නීතිඥවරයාට අදාළ මානසික වෛද්‍ය පරීක්ෂණය අඛණ්ඩව සිදුකරන ලෙස විනිසුරු මඩුල්ල විසින් ජාතික මානසික වෛද්‍ය විද්‍යායතනයේ වෛද්‍යවරුන්ට නියම කළේය.
+The lawyer stated at the occasion, he has intensified the condition of his skin and he is released on bail.
 
-ඉන් අනතුරුව මෙම පැමිණිල්ල ලබන 05 වනදා කැඳවන ලෙසත් නියෝග කෙරුණි.
+The three judges said that they would leave the trial.
+
+The panel of judges sentenced the doctors of the National Mental Medical Institute to continue the psychiatric examination related to the respondents.
+
+The complaint was then ordered to be summoned on the 5th.
 
 ◼️
 
 [Data](articles/3c01065b.json)
+
+[Extended Data](ext_articles/3c01065b.ext.json)
 
 ---
 
@@ -121,6 +157,8 @@ Church Spokesman Fr. Cyril Gamini Fernando, responding to a question raised by j
 ◼️
 
 [Data](articles/475013a7.json)
+
+[Extended Data](ext_articles/475013a7.ext.json)
 
 ---
 
@@ -362,17 +400,23 @@ He has also announced that the United National Party will hold this year's May D
 
 ---
 
-### අපරාධ කල්ලි සාමාජිකයන් 7ක් අතර වයස 71 අයෙකුත්
+### Age 71 of the two crime gangs
 
 *2024-04-03 11:30:34* · [`adalk`](https://www.ada.lk/breaking_news/අපරාධ-කල්ලි-සාමාජිකයන්-7ක්-අතර-වයස-71-අයෙකුත්/11-408916) · `si`
 
-බස්නාහිර පළාත් උතුර අපරාධ කොට්ඨාසය හා කළුතර අපරාධ කොට්ඨාසයේ විශේෂ පොලිස් කණ්ඩායම් විසින් පසුගිය 02 දා සිදුකරණලද වැටලීම් වලදී සංවිධානාත්මක අපරාධ කල්ලි කණ්ඩායමකට සම්බන්ධ පුද්ගයන් 7 දෙනෙක් අත්අඩංගුවට ගෙන ඇත.  ඒ් අතර වයස අවුරුදු 71ක සැකකරුවකුද වෙයි. කළුතර අපරාධ කොට්ඨාසයේ නිලධාරීන් විසින් පානදුර පොලිස් වසමේ වැටලීමක් සිදුකර මොහුව අත්අඩංගුවට ගෙන ඇත.
+A 71-year-old suspect was arrested by the Western Province North Criminal Division and Kalutara Crimes Division for involvement in organized crime, including criminal planning and support.
 
-මෙම මෙහෙයුම ආරම්භ කරන ලද 2024.03.19 වන දන සිට 2024.04.02 වන දින දක්වා සමස්ථ සැකකරුවන් හා සැකකාරියන් 252 අත්තඅඩංගුවට ගෙන ඇති අතර, සංවිධානාත්මක අපරාධ සිදු කිරීම සඳහා සෘජුවම සහය දැක්වීම, අපරාධ සැලසුම් කිරීම හා එම අපරාධ වලට ආධාර අනුබල දීම ආදී විවිධාකාරයෙන් සහය ලබා දුන් සැකකරුවන් හා සැකකාරියන් ඒ අතර වෙයි.
+🟩
+
+Western Province North Criminal Division (CID) and several persons arrested by special police teams in the Kalutara Crimes Division. She is a 71-year-old suspect. The officials of the Kalutara Crimes Division had arrested him a raid in the Panadura police division.
+
+2523.03.19.2011 and criminal support to the event of the operation of organized crime, providing criminal planning and supporting the criminal criminal and supporting these crimes.Suspects and suspects are among them.
 
 ◼️
 
 [Data](articles/64f8f699.json)
+
+[Extended Data](ext_articles/64f8f699.ext.json)
 
 ---
 
@@ -1688,9 +1732,9 @@ World leaders refused to accept the ominous beginning as a harbinger of darker, 
 
 *2024-04-03 05:27:27* · [`dailyftlk`](https://www.ft.lk/columns/When-Aiyo-Sirisena-accused-India-s-RAW-of-plotting-to-assassinate-him/4-760230) · `en`
 
-“Putting your foot in your mouth” is a figurative expression about a person saying or doing something that should not be done or not have been said, especially if it embarrasses the person concerned or someone else. Among those who frequently put their feet into their mouths are politicians of all kinds and hues and from all parts of the world.
+There is a salient point that needs to be emphasised. If the media reports about Sirisena’s accusations against India are correct, then I must assert strongly that I do not believe ex-president Sirisena at all. I am no fan of the RAW or any other intelligence agency but linking the RAW to the Easter bombings is highly improbable and totally absurd
 
-Sri Lanka the miracle of Asia is second to none in this sphere. From “Apey George” George E de Silva of Kandy in the past to CV Wigneswaran of Jaffna in the present, there have been several politicians in this resplendent Island who are famous for this. However the greatest of all politicians in this respect arguably is Pallewatte Gamaralage Maithripala Yapa Sirisena who served as the sixth executive president of Sri Lanka from 2015 to 2019. Such is his reputation for doing or uttering inappropriate things that Sirisena has acquired the prefix “Aiyo”. Many refer to him as “Aiyo” Sirisena nowadays.
+“Putting your foot in your mouth” is a figurative expression about a person saying or doing something that should not be done or not have been said, especially if it embarrasses the person concerned or someone else. Among those who frequently put their feet into their mouths are politicians of all kinds and hues and from all parts of the world.
 
 ...
 
@@ -1704,9 +1748,7 @@ Sri Lanka the miracle of Asia is second to none in this sphere. From “Apey Geo
 
 *2024-04-03 05:22:09* · [`dailyftlk`](https://www.ft.lk/columns/Countering-NPP-s-rise-Emerging-political-alliances-and-election-strategies/4-760229) · `en`
 
-The National People’s Power’s (NPP) current election campaign aiming for the presidential election has a strong momentum. The confident body language of its leadership is one indicator of this. Their rallies are well-attended and there appears to be a strong bottom-up support. The NPP’s seemingly growing electoral prospects have propelled it to being in the centre of political discourse, and this has led other political parties/factions to be on the defensive.
-
-The Janatha Vimukthi Peramuna (JVP, the main party within the NPP) is known for launching its election campaigns prematurely. This is why, despite their rallies being well-attended and their anti-establishment discourse being attractive to people in general, their popularity has not translated to votes, never having gone more than 5% at a general election so far. However, this trope may not hold as firmly this time.
+Issues related to content such as defamation, harassment, misinformation, impersonation occur not only through online means but also through the use of other traditional means (electronic or print media). Hence, such things fall under cyber-enabled crimes. Sri Lanka has adequate laws for such cyber-enabled traditional crimes. If not, the relevant legislation should be amended accordingly. It is not appropriate to make separate laws for such crimes considering only internet media, and doing so becomes very suspicious. Hence, the objective of preparing the Online Safety Act itself is problematic
 
 ...
 
@@ -1720,9 +1762,9 @@ The Janatha Vimukthi Peramuna (JVP, the main party within the NPP) is known for 
 
 *2024-04-03 05:14:01* · [`dailyftlk`](https://www.ft.lk/columns/Election-on-shifting-sands/4-760228) · `en`
 
-“We too live in a time when political structures we inhabit are fluid and perhaps on the cusp of great and potentially dangerous changes.” – Richard Whatmore (The end of enlightenment)
+The meeting was Basil Rajapaksa’s way of telling President Wickremesinghe and his lotus-bud backers that the SLPP will not be Comet Ranil’s tail. Basil Rajapaksa wants a parliamentary election first. The only way to mitigate the SLPP’s impending defeat is gaining a handful of parliamentary seats, therewith some bargaining power. Having the presidential election first would not work as well for the SLPP. Even in the extremely unlikely event of Ranil Wickremesinghe winning, that victory will lift not the SLPP boat; only the UNP boat. Even in his current SLPP-dependent state, Ranil Wickremesinghe is no puppet of the Rajapaksas. A President Wickremesinghe with a popular mandate would be totally beyond not just Rajapaksa control but also Rajapaksa influence
 
-Namal Rajapaksa had his crowning as crown prince last week. The SLPP titled the Tangalle meeting, “Let’s begin the Battle from Hambantota”. Battle to return the Rajapaksas to power under a President Namal, if not in 2024, then in 2029; or someday. In the propaganda images, young Namal is foregrounded, kurahan shawl and all, against a backdrop of Mahinda and Basil Rajapaksa. The new trinity. The SLPP going through generational change. Torch of leadership passing from father and uncle to son/nephew. The SLPP is the only Lankan party founded to enthrone a family. It can renew itself only by staying the same.
+“We too live in a time when political structures we inhabit are fluid and perhaps on the cusp of great and potentially dangerous changes.” – Richard Whatmore (The end of enlightenment)
 
 ...
 
@@ -2235,23 +2277,5 @@ Accordingly, he said that a allowance parallel parallel to the doctors 'ted' wil
 [Data](articles/39eeece9.json)
 
 [Extended Data](ext_articles/39eeece9.ext.json)
-
----
-
-### Expectations over reaching debt restructuring requirements keep CSE in fine trim
-
-*2024-04-02 22:43:00* · [`islandlk`](http://island.lk/expectations-over-reaching-debt-restructuring-requirements-keep-cse-in-fine-trim/) · `en`
-
-Sri Lanka is engaging with bondholders and is optimistic about a positive outcome, while efforts were underway to finalize in-principle deals with official creditors, State Minister for Finance Shehan Semasinghe said.
-
-Sri Lanka is expected to meet IMF debt restructuring requirements in the second quarter for a review to be passed by the lender’s board, he said.
-
-Meanwhile, President Ranil Wickremesinghe said that he expected debt restructuring to be wrapped up by June–July before any elections are conducted, the State Minister told a meeting.
-
-...
-
-[Data](articles/26137064.json)
-
-[Extended Data](ext_articles/26137064.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 19:33:43**
+As of **2024-04-03 19:50:55**
 
 ## Newspaper Stats
 
-*Scraped **16,926** Articles*
+*Scraped **16,930** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,74 +17,148 @@ islandlk | 931
 economynextcom | 940
 adalk | 1,422
 tamilmirrorlk | 2,016
-adaderanalk | 2,029
+adaderanalk | 2,030
 virakesarilk | 2,444
-dailymirrorlk | 2,600
-adaderanasinhalalk | 2,738
+dailymirrorlk | 2,602
+adaderanasinhalalk | 2,739
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,922 (100.0%) of 16,926 articles have been extended.
+16,926 (100.0%) of 16,930 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### மன்னார் சிறுமி துஸ்பிரயோகம் ;-  கைதி தப்பியோட்டம்
+### බිරිඳ විසින් බීමත් සැමියාට දුන් අමානුෂික දඬුවම
+
+*2024-04-03 19:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195268) · `si`
+
+බීමතින් නිවසට පැමිණි පුද්ගලයෙකු බිරිඳගේ පහරදීමකින් මියයෑමේ පුවතක් මාතර වැලිගම ප්‍රෙද්ශයෙන් වාර්තාවෙයි.
+
+මාතර, වැලිගම, කොස්ගහහේන ප්‍රදේශයේ පදිංචි ඔහු ඊයේ රාත්‍රියේ සිය නිවසට පැමිණ තිබුණේ දැඩි ලෙස බීමත්වය.
+
+මත්පැන් භාවිතයට ඇබ්බැහි වී සිටි ඔහු නිතර බීමත්ව පැමිණ සිය බිරිඳට පහරදීම හේතුවෙන් නිවසේ නිරන්තරයෙන් ගැටුම්ද හටගෙන තිබේ.
+
+ඔහු ඊයේ රාත්‍රියේද බීමත්ව පැමිණ බිරිඳට පහරදීමට උත්සාහ කර ඇති අතර, එහිදී බිරිඳ අවට හිතවතුන් කිහිපදෙනෙකු හා එක්ව සිය සැමියා නිවස ඉදිරිපස කණුවක ගැටගසා තිබුණි.
+
+පසුව බිරිඳ ඇතුළු පිරිස ඔහුට පහරදී ඇති අතර, එලෙස පහරදීමේදී සිහිසුන්වීම හේතුවෙන් වැලිගම රෝහල වෙත ඇතුළත්කර තිබුණද ඒ වනවිටත් ඔහු මියගොස් සිටි බව වාර්තා වෙයි.
+
+පොලිසිය සැක පළකරන්නේ ගැටගසා තිබූ ලණුව ගෙලෙහි සිරවීමෙන් මරණය සිදුවන්නට ඇති බවටය.
+
+සිද්ධිය සම්බන්ධයෙන් මියගිය පුද්ගලයාගේ බිරිඳ වැලිගම පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/91ede276.json)
+
+---
+
+### Trains disrupted on main line due to derailment
+
+*2024-04-03 19:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98404/trains-disrupted-on-main-line-due-to-derailment) · `en`
+
+A train has derailed between Maradana and Dematagoda railway stations disrupting train services on the main line.
+
+The Railway Department said a train heading towards Maho has derailed in this manner.
+
+◼️
+
+[Data](articles/4840ed27.json)
+
+---
+
+### Mannar girl abuse;- Prisoner's escape
 
 *2024-04-03 19:18:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னார்-சிறுமி-துஸ்பிரயோகம்-கைதி-தப்பியோட்டம்/72-335575) · `ta`
 
-மன்னாரில் 9 வயதுச் சிறுமி துஸ்பிரயோகம் செய்யப்பட்டமை தொடர்பில் கைது செய்யப்பட்டிருந்த சந்தேகநபர், வவுனியா வைத்தியசாலையில் இருந்து தப்பி ஓடியுள்ளார்.
+A 55-year-old man arrested for abusing a 9-year-old girl in Mannar escaped from Vavuniya Hospital.
 
-மன்னார், தலைமன்னார் பகுதியில் அண்மையில் 09 வயது சிறுமி துஸ்பிரயோகம் செய்யப்பட்டமை தொடர்பில் 55 வயதுடைய ஒருவர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு நீதிமன்ற உத்தரவுக்கமைய வவுனியா சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்தார்.
+🟩
 
-இந்நிலையில் உடல் நலப் பாதிப்பு காரணமாக வவுனியா வைத்தியசாலையில் கடந்த வியாழக்கிழமை அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த நிலையில், இன்று அதிகாலை (03) குறித்த சந்தேகநபர் வைத்தியசாலையில் இருந்து தப்பியோடியுள்ளதாக தெரிவிக்கப்படுகிறது.
+The suspect, who was arrested in connection with the abuse of a 9 -year -old girl in Mannar, has fled the Vavuniya hospital.
+
+A 55 -year -old man was arrested on suspicion of abuse of a 9 -year -old girl in Mannar, Talaimannar area and was detained at the Vavuniya Prison on a court order.
+
+The suspect has been admitted to the Vavuniya Hospital last Thursday due to ill health.
 
 ◼️
 
 [Data](articles/779a48c9.json)
 
+[Extended Data](ext_articles/779a48c9.ext.json)
+
 ---
 
-### ඉන්දියාව රත්කළ ශ්‍රී ලංකාවේ දූපත
+### Island heated by India
 
 *2024-04-03 19:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195267) · `si`
 
-ශ්‍රී ලංකාවට කච්චතිව් දූපත පවරාදීම මේවනවිට ඉන්දීය දේශපාලන වේදිකාවේ උණුසුම් මාතෘකාවක් බවට පත්ව තිබේ.
+Kachchativu Island's transfer to Sri Lanka is a contentious issue in India, with Prime Minister Narendra Modi facing criticism for the 1974 transfer. The island's vulnerability and the political implications of its ownership have sparked debate, especially ahead of Tamil Nadu's general election on the 19th.
 
-ඉන්දීය අගමැති නරේන්ද්‍ර මෝදි කච්චතිව් දූපත ශ්‍රී ලංකාවට පැවරීම සම්බන්ධයෙන් ඉන්දීය කොංග්‍රස් පක්ෂයට එල්ල කරන්නේ දැඩි චෝදනාවකි.
+🟩
 
-ඒ ලබන 19 වැනිදා සිට තමිල්නාඩු ප්‍රාන්තයෙන් ඉන්දිය මහමැතිවරණය ආරම්භ වීමට නියමිත පසුබිමකය.
+The transferring Kachchativu Island to Sri Lanka has now become a hot topic of the Indian political stage.
 
-ඉතිහාසයේ සිට අයිතිය සම්බන්ධයෙන් විවිධ මතවාද පැවැති කච්චතිව් දූපතේ අයිතිය ශ්‍රී ලංකාවට හිමිවන්නේ, 1974 වසරේදීය.
+Indian Prime Minister Narendra Modi Kachchathivu Kachchavivu Island is a severe accusation.
 
-ඒ එවක ඉන්දීය අගමැති ඉන්දිරා ගාන්ධි සහ ශ්‍රී ලංකා හිටපු අගමැති සිරිමාවෝ බණ්ඩාරණායක අතර අත්සන් තැබුණු ගිවිසුමක ප්‍රතිඵලයක් වශයෙනි.
+From the 19th of this 19th, the state general election will be started in the state of Tamil Nadu from the 19th.
 
-ශ්‍රී ලංකාවට අයත් දූපත් සමූහය අතරින් වඩාත්ම දුරින් පිහිටි මෙම දූපත, රාමේෂ්වරම් නගරයට වඩාත් ආසන්නව පිහිටා තිබේ.
+Sri Lanka has the right to the Kachchativu Island in 1974.
 
-කච්චතිව් දූපතේ අයිතිය ගිවිසුමකින් ලංකාවට හිමිවුවත්, වසර ගණනාවක් පුරා ඉන්දීය දේශපාලන පක්ෂ මේ දූපත ගැන විවිධ ස්ථාවරවල පසුවෙයි.
+The then Prime Minister Indira Gandhi and former Sri Lanka's former Sri Lanka Sirimavo Bandaranaike is the result of a covenant.
 
-තමිල්නාඩුවෙන් ලබන 19 වැනිදා ආරම්භවන මහ මැතිවරණයත් සමග මෙම දූපත ඉන්දීය දේශපාලන වේදිකාවේ මාතෘකාව බවට පත්ව අවසන්.
+The island is the most vulnerable of the island group in Sri Lanka.
+
+The Indian political parties have been in a variety of stable for many years, although Sri Lanka has owned by the Kachchativu Island.
+
+With the general election on the 19th of Tamil Nadu, the island has become the title of the Indian political stage.
+
+It was with the request of Bharatiya People's Party of Tamil Nadu to find Kachchativu Island to be transferred with the right to information to Sri Lanka.
 
 ...
 
 [Data](articles/e524b039.json)
 
+[Extended Data](ext_articles/e524b039.ext.json)
+
 ---
 
-### ප්‍රධාන මාර්ගයේ දුම්රිය ධාවනයට බාධා
+### Interrupting train services on the main road
 
 *2024-04-03 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195266) · `si`
 
-මරදාන සහ දෙමටගොඩ දුම්රිය ස්ථාන අතර දුම්රියක් පීලිපැනීම හේතුවෙන් ප්‍රධාන මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ලවී තිබේ.
+Train services between Maradana and Dematagoda have been interrupted due to a train incident, as reported by the Railway Department.
 
-දුම්රිය දෙපාර්තමේන්තුව පවසන්නේ මහෝ බලා ධාවනය වෙමින් තිබූ දුම්රියක් මෙලෙස පීලිපැනීමකට ලක්ව ඇති බවය.
+🟩
+
+Train between Maradana and Dematagoda railway stations, train services have been interrupted due to the department of train.
+
+The Railway Department says a train traveling has been carried out by a train.
 
 ◼️
 
 [Data](articles/49f62bb1.json)
+
+[Extended Data](ext_articles/49f62bb1.ext.json)
+
+---
+
+### Derailment disrupts train services on main line
+
+*2024-04-03 19:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Derailment-disrupts-train-services-on-main-line/108-280119) · `en`
+
+Colombo, April 3 (Daily Mirror) - The intercity express train that departed for Maho was derailed between Maradana and Dematagoda railway stations, the Railways Department said.
+
+They said the train departed from Fort Railway station at 6.05 p.m. and derailed at 6.15 p.m. between Maradana and Dematagoda railway stations.
+
+Therefore, the railway services on the main line have been disrupted.
+
+◼️
+
+[Data](articles/6dba177b.json)
 
 ---
 
@@ -722,21 +796,31 @@ However, the petition accuses the activities of the village, including the activ
 
 ---
 
-### சர்வதேச நாணய நிதியத்தின் விருப்பத்துக்கமைய நாட்டின் அரசியலமைப்பு இயற்றப்படவில்லை - சரித ஹேரத்
+### The Constitution of the country has not been enacted at the wishes of the IMF - Saritha Herath
 
 *2024-04-03 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180339) · `ta`
 
-சர்வதேச நாணய நிதியத்தின் விருப்பத்துக்கு அமைய  நாட்டின் அரசியலமைப்பு இயற்றப்படவில்லை.ஆகவே அரசியலமைப்பின் பிரகாரம் எதிர்வரும் செப்டெம்பர் அல்லது ஒக்டோபர் மாதமளவில் ஜனாதிபதி தேர்தல் நடத்தப்பட வேண்டும் என பாராளுமன்ற உறுப்பினர் பேராசிரியர் சரித ஹேரத் தெரிவித்தார்.
+The Constitution wasn't enacted due to IMF's wishes. President won't hold elections until IMF projects are done. Sri Lanka's IMF operations ended in July. President decides on elections, aiming for September or October.
 
-சர்வதேச நாணய நிதியத்துடனான செயற்திட்ட நடவடிக்கைகள் நிறைவுப் பெறும் வரை எந்த தேர்தலையும் நடத்த போவதில்லை என்று ஜனாதிபதி குறிப்பிட்டுள்ளதாக செய்திகள் வெளியாகியுள்ளன. ஜனாதிபதி தேர்தல் தொடர்பில் தீர்மானம் எடுக்கும் அதிகாரம் ஜனாதிபதிக்கு கிடையாது.
+🟩
 
-சர்வதேச நாணய நிதியத்துடனான இலங்கையின் செயற்பாடுகள் எதிர்வரும் ஜூலை மாதம் நிறைவடைவதாக குறிப்பிடப்படுகிறது.பொதுத்தேர்தல் தொடர்பில் தீர்மானம் எடுக்கும் அதிகாரம் ஜனாதிபதிக்கு உண்டு.
+The Constitution of the country has not been enacted at the will of the International Monetary Fund.
 
-எதிர்வரும் செப்டெம்பர் அல்லது ஒக்டோபர் மாதம் ஜனாதிபதி தேர்தல் நடத்தப்பட வேண்டும்.அதற்கு முன்னர் எந்த தேர்தலும் நடத்தப்படாது என்ற நிலைப்பாட்டில் இருந்துக் கொண்டு தான் ஜனாதிபதி அவ்வாறு குறிப்பிட்டுள்ளார்.
+Reports have surfaced that the President will not hold any election until the IMF has completed projects with the IMF.. The president does not have the authority to decide on the presidential election.
 
-...
+Sri Lanka's operations with the IMF are said to be completed in July. The president has the power to decide on public elections.
+
+The presidential election should be held in September or October.
+
+The Constitution of the country has not been enacted at the will of the International Monetary Fund.
+
+We are in talks with all parties on the issue of the presidential candidate.
+
+◼️
 
 [Data](articles/6b801cb1.json)
+
+[Extended Data](ext_articles/6b801cb1.ext.json)
 
 ---
 
@@ -861,6 +945,22 @@ The court had previously banned a foreign travel to the Palaim Fernando regardin
 [Data](articles/275b9372.json)
 
 [Extended Data](ext_articles/275b9372.ext.json)
+
+---
+
+### Maithripala decides not to provide statement in court
+
+*2024-04-03 16:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Maithripala-decides-not-to-provide-statement-in-court/155-280116) · `en`
+
+Colombo, April 3 (Daily Mirror)- Former President Maithripala Sirisena has informed the Maligakanda Magistrate's Court that he will not provide a confidential statement before the magistrate in connection with his controversial revelation regarding the Easter Sunday attacks.
+
+Court had earlier directed the former President to appear before Court on April 4 following a request by the Criminal Investigations Department (CID).
+
+In a motion before Magistrate Lochani Abeywickrema, a lawyer representing former President Sirisena informed court that his client does not intend to make a confidential statement regarding the Easter Sunday attacks since he has already made a detailed statement to the CID. After hearing the submissions, the Magistrate held that there is no necessity for the former President to appear before court on April 4.
+
+...
+
+[Data](articles/74821c78.json)
 
 ---
 
@@ -1784,7 +1884,7 @@ The Chairman of the Attorney at a press conference was speaking at a press confe
 
 ---
 
-### Short term pain from Sri Lanka’s reforms subsiding, economy strengthening, official claims
+### Short term pain from Sri Lanka’s reforms subsiding, economy strengthening: Minister
 
 *2024-04-03 13:31:00* · [`economynextcom`](https://economynext.com/short-term-pain-from-sri-lankas-reforms-subsiding-economy-strengthening-official-claims-157354/) · `en`
 
@@ -2211,99 +2311,5 @@ Meanwhile, the Minister said that the motion of the Mattala Airport has been sub
 [Data](articles/caef6123.json)
 
 [Extended Data](ext_articles/caef6123.ext.json)
-
----
-
-### Removal of special freight tax
-
-*2024-04-03 12:02:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-சரக்கு-வரியை-நீக்குவது-விலைவாசி-உயர்வை-ஏற்படுத்தும்/175-335562) · `ta`
-
-The Essential Importers and Traders Association warns that removing the special freight tax on imported goods in Sri Lanka could lead to higher prices due to corruption. The government plans to abolish this tax from January next year, a move that was initially imposed in 2007 to combat corruption. The association argues that this tax, which charges based on the value of goods, helps reduce corruption by making it more difficult for importers to bribe customs officials. The International Monetary Fund (IMF) has suggested replacing this tax to increase government revenue, but the association believes that advanced customs procedures will mitigate corruption.
-
-🟩
-
-The Essential Importers and Traders Association said that if there is no mechanism to control corruption in Sri Lanka, the removal of special freight tax on imported goods will be a price hike.
-
-The Cabinet has decided to abolish the 17 -year -old tax law from January next year.
-
-A spokesperson of the association told Daily Mirror that it was imposed by its members in 2007 for the sake of increased corruption when assessing the items.
-
-“Then, the imported goods were rated for these charges to be imposed. Then, dishonest importers bribed the customs officials to lower their imported goods so that they could pay less on tax -basis. This has affected the real importers. So we asked the then government that this special freight tax should be imposed.
-
-It charges on the amount of imported goods and leads to lower corruption. When the value of the goods is charged, it can lead to corruption. ”
-
-He also said that the cost of imported goods consumed by the people can ensure stability.
-
-...
-
-[Data](articles/ac09560c.json)
-
-[Extended Data](ext_articles/ac09560c.ext.json)
-
----
-
-### Sri Lanka, France discuss debt restructuring process, future financial collaboration
-
-*2024-04-03 11:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-france-discuss-debt-restructuring-process-future-financial-collaboration-157335/) · `en`
-
-ECONOMYNEXT – The Ambassador of France to Sri Lanka and Maldives Jean-François Pactet has assured France’s unwavering support in the debt restructuring process, State Minister of Finance Shehan Semasinghe said.
-
-“We engaged in discussions regarding the progress achieved in the debt restructuring process and assured France’s unwavering support,” Semasinghe said on X (twitter) after discussions with the ambassador at the Ministry of Finance.
-
-“It was emphasized that France will continue its constructive engagement with the Official Creditor Committee to reinforce debt sustainability in Sri Lanka.”
-
-Additionally, the two exchanged perspectives on future financial collaboration between the governments of Sri Lanka and France, Semasinghe said.
-
-Pactet commended the Sri Lankan government’s “dedicated efforts and the implemented reforms agenda aimed at fostering the stability of the Sri Lankan economy.” (Colombo/Apr3/2024)
-
-◼️
-
-[Data](articles/4452b247.json)
-
-[Extended Data](ext_articles/4452b247.ext.json)
-
----
-
-### Robert Paes, Murugan and Jayakumar left Sri Lanka
-
-*2024-04-03 11:56:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராபர்ட்-பயஸ்-முருகன்-ஜெயக்குமார்-இலங்கை-புறப்பட்டனர்/175-335560) · `ta`
-
-Robert Paes, Murugan, and Jayakumar, convicted in Rajiv Gandhi's assassination, left Sri Lanka today. Their relatives in Colombo await their arrival.
-
-🟩
-
-Robert Paes, Murugan and Jayakumar, who were sentenced to 33 years in the assassination of former Prime Minister Rajiv Gandhi, left Sri Lanka today. Their relatives are waiting to welcome the three of them traveling to Colombo, the capital of Sri Lanka.
-
-Former Prime Minister Rajiv Gandhi was assassinated on May 21, 1991 in Tamil Nadu. A large number of Tamil Nadu Tamils and Eelam Tamils (Sri Lankan Tamils) were arrested in the Rajiv Gandhi assassination case. Tamils sentenced to life imprisonment in the Rajiv Gandhi assassination case were reduced to life imprisonment.
-
-Tamil Nadu Tamils, Tamil Nadu Tamils, Tamil Nadu, Murugan, Shantan, Jayakumar and Robert Bias were released after the Supreme Court's legal protests.. At the same time, Eelam Tamils Murugan, Shantan, Jayakumar and Robert Paes were foreigners in the Trichy special camp.
-
-...
-
-[Data](articles/67a67190.json)
-
-[Extended Data](ext_articles/67a67190.ext.json)
-
----
-
-### Robert Paes, Murugan and Jayakumar left Sri Lanka
-
-*2024-04-03 11:56:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ராபர்ட்-பயஸ்-முருகன்-ஜெயக்குமார்-இலங்கை-புறப்பட்டனர்/150-335560) · `ta`
-
-Robert Paes, Murugan, and Jayakumar, sentenced for Rajiv Gandhi's assassination, left Sri Lanka today. Their relatives await their arrival in Colombo.
-
-🟩
-
-Robert Paes, Murugan and Jayakumar, who were sentenced to 33 years in the assassination of former Prime Minister Rajiv Gandhi, left Sri Lanka today. Their relatives are waiting to welcome the three of them traveling to Colombo, the capital of Sri Lanka.
-
-Former Prime Minister Rajiv Gandhi was assassinated on May 21, 1991 in Tamil Nadu. A large number of Tamil Nadu Tamils and Eelam Tamils (Sri Lankan Tamils) were arrested in the Rajiv Gandhi assassination case. Tamils sentenced to death in the Rajiv Gandhi assassination case have been reduced to life imprisonment.
-
-Tamil Nadu Tamils - Nalini and Ravichandran, who were sentenced to life imprisonment after legal protests in the Supreme Court, were released by Sri Lankan Tamils as Murugan, Shantan, Jayakumar and Robert Bias.. At the same time, Eelam Tamils Murugan, Shantan, Jayakumar and Robert Paes were foreigners in the Trichy special camp.
-
-...
-
-[Data](articles/a324c07d.json)
-
-[Extended Data](ext_articles/a324c07d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 21:53:28**
+As of **2024-04-03 22:05:18**
 
 ## Newspaper Stats
 
-*Scraped **16,943** Articles*
+*Scraped **16,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,100 @@ newsfirstlk | 363
 dailyftlk | 910
 islandlk | 931
 economynextcom | 940
-adalk | 1,426
-tamilmirrorlk | 2,016
+adalk | 1,427
+tamilmirrorlk | 2,017
 adaderanalk | 2,032
 virakesarilk | 2,447
-dailymirrorlk | 2,603
-adaderanasinhalalk | 2,741
+dailymirrorlk | 2,606
+adaderanasinhalalk | 2,742
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,942 (100.0%) of 16,943 articles have been extended.
+16,943 (100.0%) of 16,949 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### 80 medical officers appointed to Senior Medical Administration posts
+
+*2024-04-03 21:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/80-medical-officers-appointed-to-Senior-Medical-Administration-posts/108-280129) · `en`
+
+A total of 80 vacant Senior Medical Administration posts in the health sector that were vacant for the past two years have been filled by the Health Ministry, Dr. P. G. Mahipala said.
+
+While issuing a letter, he said the list includes Colombo National Hospital Deputy Director Dr. Rukshan Bellana.
+
+◼️
+
+[Data](articles/21f2f215.json)
+
+---
+
+### 56% accidents on expressways caused by driver negligence: Minister
+
+*2024-04-03 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/56-accidents-on-expressways-caused-by-driver-negligence-Minister/108-280125) · `en`
+
+Colombo, April 3 (Daily Mirror) -The report from the committee assigned to investigate into State Minister Sanath Nishantha's recent accident on the Katunayake Expressway shows that 56 per cent of accidents on the expressway are caused by driver negligence.
+
+During his speech at an event organized for the official launch of the School Road Safety Club at the Ministry, Transport Minister Bandula Gunawardana remarked that since the implementation of the expressway system in the country, a rapid transportation network has been established. However, the unfortunate reality is that a significant number of fatalities are reported every year as a consequence.
+
+Following the recent accident of State Minister Sanath Nishantha on the Katunayake Expressway, several committees have been appointed by the Transport Ministry to investigate into the incident.
+
+...
+
+[Data](articles/c4da27e9.json)
+
+---
+
+### முஸ்லிம் மாணவர்களுக்காக ஜனாதிபதி எடுத்த நடவடிக்கை
+
+*2024-04-03 21:35:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-மாணவர்களுக்காக-ஜனாதிபதி-எடுத்த-நடவடிக்கை/175-335576) · `ta`
+
+முஸ்லிம் பாடாசலைகள் எதிர்கொள்ளும் பிரச்சினைகள் தொடர்பில் இம்மாத இறுதியில் மீளாய்வு செய்ய நடவடிக்கை எடுக்குமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+கொழும்பு பிரதேசத்திலுள்ள முஸ்லிம் பாடசாலைகள் எதிர்கொள்ளும் கல்விசார்ந்த பிரச்சினைகள் தொடர்பாக இன்று (02) ஜனாதிபதி செயலகத்தில் நடைபெற்ற கலந்துரையாடலிலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இவ்வாறு பணிப்புரை விடுத்தார்.
+
+கொழும்பிலுள்ள முஸ்லிம் பாடசாலைகள் எதிர்கொள்ளும் பிரச்சினைகள் தொடர்பில் வெளிவிவகார அமைச்சர் அலி சப்ரி மற்றும் பாடசாலைகள் அதிபர்கள் மற்றும் அமைப்புகளின் பிரதிநிதிகள் ஜனாதிபதியிடம் எடுத்துரைத்தனர்.
+
+ஆசிரியர் பற்றாக்குறை,இடநெருக்கடி, வகுப்பறைகள் தட்டுப்பாடு,சிங்கள மூலம் இஸ்லாம் பாடம் கற்பிக்கும் ஆசிரியர் இன்மை,அதிகமாக முஸ்லிம்கள் வாழும் பகுதிகளில் பாடசாலைகள் இன்மை உள்ளிட்ட விடயங்கள் குறித்தும் இதன் போது ஆராயப்பட்டது.
+
+...
+
+[Data](articles/300c2589.json)
+
+---
+
+### කංජිපානි ඉම්රාන් පොලිස් නිලධාරියෙකුට දුන් ඇමතුම
+
+*2024-04-03 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195271) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු ලෙස සැලකෙන කංජිපානි ඉම්රාන් පොලිස් නිලධාරියෙකු සමග දුරකථනය ඔස්සේ සිදුකළ සංවාදයක හඬපටයක් 'අද දෙරණ' ට ලැබී තිබුණි.
+
+යුක්තිය මෙහෙයුම යටතේ පාතාල කල්ලි සාමාජිකයන් අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් මෙම සංවාදයේදී කතාබහ කර තිබුණි.
+
+එහිදී කංජිපානි ඉම්රාන් පොලිස් නිලධාරියාගෙන් ඉල්ලා තිබුණේ තම පියා සහ වැඩිමහල් සහෝදරයා අත්අඩංගුට ගැනීමෙන් වළකින ලෙසය.
+
+◼️
+
+[Data](articles/e520f460.json)
+
+---
+
+### Sajith says ready for debate with Anura
+
+*2024-04-03 21:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-says-ready-for-debate-with-Anura/108-280128) · `en`
+
+Colombo, April 3 (Daily Mirror) - Responding to the challenge by National Peoples Power (NPP) leader Anura Kumara Dissanayake for a public debate, Leader of the Opposition Sajith Premadasa said he is prepared for it.
+
+"I am always prepared for a debate as it is a feature of democracy. However, I like to tell those who call me for a debate to carry out programs like I do," he said reffering to his programmes where he distributes buses and IT equipment to schools and medical equipment to hospitals.
+
+◼️
+
+[Data](articles/12383528.json)
+
+---
 
 ### At least 9 dead, 800 injured in Taiwan earthquake; dozens still trapped under rubble
 
@@ -75,6 +153,8 @@ It caused the most damage in Hualien, where buildings fell, roads were blocked a
 ...
 
 [Data](articles/9272484b.json)
+
+[Extended Data](ext_articles/9272484b.ext.json)
 
 ---
 
@@ -275,6 +355,26 @@ The Railway Department said a train heading towards Maho has derailed in this ma
 [Data](articles/4840ed27.json)
 
 [Extended Data](ext_articles/4840ed27.ext.json)
+
+---
+
+### ආර්ථිකය ශක්තිමත් වීම නිසා ගුරු පුරප්පාඩු පිරවීමට හැකිව තිබෙනවා
+
+*2024-04-03 19:29:05* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකය-ශක්තිමත්-වීම-නිසා-ගුරු-පුරප්පාඩු-පිරවීමට-හැකිව-තිබෙනවා/11-408931) · `si`
+
+වසර තුනකට පසු මෙම වසරේ දී 4000ක පමණ පිරිසක් ගුරු වෘත්තියට බඳවා ගැනීමට රජය කටයුතු කර ඇති බවත්, රටේ ආර්ථිකය ශක්තිමත් වීමත් සමඟ ඉදිරි වසර වන විට ගුරු පුරප්පාඩු පිරවීම වෙනුවෙන් වැඩි මුදලක් වෙන් කිරීමට කටයුතු කරන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ අරලියගහ මන්දිරයේ දී අද (03) පැවති බස්නාහිර පළාත් උපාධිධාරී ගුරු පත්වීම් ප්‍රදානෝත්සවය අමතමිනි.
+
+උපාධිධාරී ගුරුවරුන් 2320කට පත්වීම් ලබා දීම මෙහිදී සිදු කෙරුණු අතර ජනාධිපතිවරයා සංකේතාත්මකව පත්වීම් ප්‍රදානයට එක් විය.
+
+අනතුරුව පැවති උත්සව සභාව අමතමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේ චරිතවත් ගුණගරුක අනාගත පරපුරක් බිහි කිරීමේ වගකීම ගුරුවරයාට පැවරෙන බවයි.
+
+ගෞරවණීය වෘත්තියක් වූ ගුරු වෘත්තියේ ගෞරවය කෙළසා ගැනීමට කිසිවිටෙකත් කටයුතු නොකළ යුතු බව පැවසු ජනාධිපතිවරයා ගුරුවරුන් නිරතුරුව විෂය දැනුමෙන් යාවත්කාලීන වීමේ වැදගත්කම ද පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/152f6fa0.json)
 
 ---
 
@@ -2215,159 +2315,5 @@ Semasinghe told reporters on Tuesday April 02 that various political parties had
 [Data](articles/2910962e.json)
 
 [Extended Data](ext_articles/2910962e.ext.json)
-
----
-
-### General amnesty declared for tri-forces absentees
-
-*2024-04-03 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98393/general-amnesty-declared-for-tri-forces-absentees) · `en`
-
-The Ministry of Defence has declared a general amnesty for the tri-forces absentees, enabling them to receive an official discharge from their respective services.
-
-General amnesty will be in force for a period of one month, from 20 April to 20 May.
-
-Accordingly, the tri-forces personnel who have been absent without leave (AWOL) before 02 April 2024 will be allowed to receive their discharge from military service during this period.
-
-Additionally, any financial obligations or amounts due are required to be settled prior to their discharge.
-
-Meanwhile, the absentees who are currently living overseas will also be eligible to receive a legal discharge from the military service without reporting to their respective regiments, subject to the following requirements:
-
-• Those seeking to be discharged should have no pending disciplinary actions taken against them apart from that of being AWOL.
-
-...
-
-[Data](articles/e9b9be78.json)
-
-[Extended Data](ext_articles/e9b9be78.ext.json)
-
----
-
-### Senaka Batagoda: 'Who are we?'What will happen to 7 songs that have been censored?
-
-*2024-04-03 13:21:43* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gjjy7q7p3o) · `si`
-
-Senaka Batagoda, a beloved Sri Lankan musician, faces an injunction order over seven censored songs. The Colombo High Court issued the injunction, preventing the songs' transfer without Janath Kunatilake's consent. The case involves intellectual property rights, with Januth Kulathilaka claiming contribution to the songs.
-
-🟩
-
-Senaka Batagoda: 'Who are we?'What will happen to 7 songs that have been censored?
-
-Senaka Batagoda is a musicioner who has won a great love for Sri Lankan music fans as the Creator.
-
-An injunction order was issued on April 3 regarding seven songs he had abused a massive fan attraction.
-
-The Colombo High Court issued the injunction, 'Who are we comforted,' and "good things" and 7 songs.
-
-Colombo High Court Judge Priyantha Fernando released the injunction with a case filed by a person named the Janath Kunatilake.
-
-The injunction was issued against the Singer Senaka Batagoda, preventing the editor under the Jathika Property Act.
-
-The Commerce High Court had issued a censorship from the transfer of the 7 songs to another party without the written consent of the Janath Kulatilake.
-
-The lawyer appearing on behalf of the plaintiff had informed the court that the intellectual property ownership of the complainant would be abrepubated.
-
-'Intelligencyly contributing to songs' - Januth Kulathilaka
-
-...
-
-[Data](articles/a9758ade.json)
-
-[Extended Data](ext_articles/a9758ade.ext.json)
-
----
-
-### The Catholic Church is a serious accusation of Maithri's statement
-
-*2024-04-03 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195246) · `si`
-
-Fr. Cyril Gamini criticizes the IGP's handling of the Easter attack, calling for justice. The Catholic Church, in a news conference, criticizes the IGP's security response. Maithripala Sirisena suggests a solution, implying knowledge of a conspiracy.
-
-🟩
-
-Fr. Cyril Gamini says that the Catholic Church believes in the beginning of the Easter attack.
-
-He was speaking at a press conference held at the Archbishop's official residence today to expand the last Passover visit to the Sunday and the visits of victims.
-
-IGP Deshabandu Tennakoon arrived at St. Sebastian Church and the security situation in the attack, the security situation and the attackers were viewed.
-
-The Catholic Church has held a news conference today, criticized the action of the IGP.
-
-"Easter is a special day for all of us. We had not been able to hold us in any way the morning divine honors. We are not asking for a dry ration bag. We're not going to go. We demand so much clearly justice. He calls for detecting. "
-
-"No we're in no way. The police officers were not told to us. Not to us, it should come to investigate. "
-
-"The wax pandeen has been buried and lighting the victims and the people of the country. There is no meaning to crush white onions this way. "
-
-...
-
-[Data](articles/d32e7f15.json)
-
-[Extended Data](ext_articles/d32e7f15.ext.json)
-
----
-
-### Attempting to attack a private bus in Vavuniya
-
-*2024-04-03 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180327) · `ta`
-
-In Vavuniya, a private bus driver and conductor threatened to attack another bus conductor in Suduventhulavu. The incident, linked to a neurosu issue, involved a bus from Pavakkulam to Vavuniya via Chettikulam Veerapuram.
-
-🟩
-
-Another private bus driver and conductor have threatened to attack the bus conductor in the Suduventhulavu area in Vavuniya (02) afternoon.
-
-The private bus traveling from Pavakkulam to Vavuniya through Chettikulam Veerapuram has threatened him with an attempt to attack the driver and conductor of the Chettikulam private bus.
-
-Travelers have said that the incident has taken place due to the issue of neurosu.
-
-◼️
-
-[Data](articles/fe1c7741.json)
-
-[Extended Data](ext_articles/fe1c7741.ext.json)
-
----
-
-### A person who was ready to sell Gajamuth
-
-*2024-04-03 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180321) · `ta`
-
-A man arrested for selling 7 grams of Gajamuthu for Rs 4.5M in Divulapitiya.
-
-🟩
-
-A man who was ready to sell Gajamuthu has been arrested by the police during the raid on the basis of information received by the police in the Divulapitiya area.
-
-He was arrested when he tried to sell about 7 grams of Gajamuthu for Rs 4,500,000.
-
-◼️
-
-[Data](articles/e956d868.json)
-
-[Extended Data](ext_articles/e956d868.ext.json)
-
----
-
-### Elephant in Batticaloa
-
-*2024-04-03 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180317) · `ta`
-
-In Batticaloa, 92 km elephant fences protect areas like Vavuniya, Vaharai, and more. This year, electric fences will secure more villages against elephant penetration.
-
-🟩
-
-The Director of the Department of Wildlife of the Batticaloa District, K.. Said Suresh Kumar.
-
-In the Batticaloa district, 92 km long elephant fences have been set up.
-
-He added that elephant fences have been set up in the Divisional Secretariat Divisions such as Vavuniya, Vaharai, Gran, Chengaladi, Kokkaticholai and Wellaveli.
-
-Electric fences will be set up for many villages in the elephant penetration this year, the Director added.
-
-◼️
-
-[Data](articles/7a453331.json)
-
-[Extended Data](ext_articles/7a453331.ext.json)
 
 ---

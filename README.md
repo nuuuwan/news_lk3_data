@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 13:52:55**
+As of **2024-04-03 14:03:22**
 
 ## Newspaper Stats
 
-*Scraped **16,838** Articles*
+*Scraped **16,839** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 150
 bbccomsinhala | 176
-dbsjeyarajcom | 203
+dbsjeyarajcom | 204
 newsfirstlk | 363
 dailyftlk | 910
 economynextcom | 927
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,722
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,836 (100.0%) of 16,838 articles have been extended.
+16,838 (100.0%) of 16,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
 
-### විෂ මත්ද්‍රව්‍ය භාවිත කරන්නන් ලක්ෂ 5ක් රට ඇතුළේ
+### 5 lakhs of poisonous drugs in the country
 
 *2024-04-03 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195247) · `si`
 
-විවිධ විෂ මත්ද්‍රව්‍ය භාවිත කරන පිරිස් ලක්ෂ 5කට අධික සංඛ්‍යාවක් මෙරට තුළ සිටින බව අන්තරායකර ඖෂධ පාලක ජාතික මණ්ඩලය පවසයි.
+In Sri Lanka, over 500,000 people use poisonous drugs, with 30,000 daily. New medicines are introduced, and 25 chemicals are imported for drug creation, requiring Dangerous Pharmaceutical Board Liass license.
 
-එහි සභාපති නීතිඥ ශාක්‍ය නානායක්කාර මහතා අද (03) පැවැති ප්‍රවෘත්ති සාකච්ඡාවකදී මේ බව සඳහන් කළේය.
+🟩
 
-"ලංකාවේ මේ මොහොත වෙනකොට, විවිධ මත්ද්‍රව්‍ය ගත්තොත් ලක්ෂ 5කට අධික සංඛ්‍යාවක් මත්ද්‍රව්‍ය භාවිතයට යොමු වුණ අය ඉන්නවා. මීට අමතරව අලුත් ආකාරයෙන් බෙහෙත් වර්ගවලට යොමුවීම. මේ බෙහෙත් හැමදාම තිබුණා. නමුත් මේ වෙද්දි යම් සුවිශේෂි අවධානයක් යොමුවෙලා සමහර අය වැඩිවශයෙන් යොමුවෙලා තියෙනවා. 30,000කට ආසන්න ප්‍රමාණයක් මේ පෙති ගන්නවා කියලා අපිට කියන්න පුළුවන්. මීට අමතරව ලංකාවට එන රසායනික වර්ග 25ක් අපි විශේෂ සමීක්ෂණයකට ලක්කරනවා. ඒකට හේතුව තමා ඒවායින් පුළුවන්කමක් තියෙනවා අලුත් මත්ද්‍රව්‍ය හදාගන්න. ඒ 25 ම ලංකාවට ගෙන්වනවා නම්, බෙදාහරිනවා නම් අන්තරායකර ඖෂධ පාලක ජාතික මණ්ඩලයේ ලයිසන් එකක් ඕනේ."
+The Dangered Drugs Control Board says that over 500,000 people who use various poisonous drugs are in the country.
+
+The Chairman of the Attorney at a press conference was speaking at a press conference held today (03).
+
+"This moment in Sri Lanka, more than 500,000 people have been used to use drugs. In addition, the types of medicine in addition to new. There was this medicine everyday. But at the time, some people have focused on more. We can say that nearly 30,000 take these pills. In addition, we are conducting 25 chemicals coming to Sri Lanka. Why? Because they can make new drugs. If you get to Sri Lanka, they need a license of the Dangerous Pharmaceutical Board Liass. "
 
 ◼️
 
 [Data](articles/c581d567.json)
+
+[Extended Data](ext_articles/c581d567.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ Meanwhile, the absentees who are currently living overseas will also be eligible
 ◼️
 
 [Data](articles/e9b9be78.json)
+
+[Extended Data](ext_articles/e9b9be78.ext.json)
 
 ---
 
@@ -2114,6 +2122,22 @@ In this case, the demand for them to be sent to Sri Lanka soon, the trio will be
 
 ---
 
+### How  the  LTTE  Crushed  “Col” Karuna’s   Eastern Tiger  Revolt  Through Force.
+
+*2024-04-03 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83845) · `en`
+
+The course of war  between the Liberation Tigers of Tamil Eelam(LTTE) and the Sri Lankan armed forces was drastically altered by the  2004 eastern  revolt headed by former tiger commander of the Batticaloa and Amparai districts Vinayagamoorthy Muralidharan alias “Col”Karuna. The LTTE was split vertically and horizontally as a result and gradually weakened. By 2007 the LTTE ceased  having territorial control in the Eastern province.
+
+This article is the third in a series about the intra-tiger split of 2004 and the fratricidal war that followed. In the first article published on 16 March 2024 the background and reasons for the Eastern Tiger revolt were discussed in detail. In the  second article  published on 23 March 2024 the course of events leading to the  conflict in the aftermath of “Col”Karuna’s rebellion were recounted.  This third article relates  details of the Tiger vs Tiger confrontation that  commenced 20 years ago on Good Friday.
+
+...
+
+[Data](articles/5b609486.json)
+
+[Extended Data](ext_articles/5b609486.ext.json)
+
+---
+
 ### Round the massage stations
 
 *2024-04-03 03:21:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மசாஜ்-நிலையங்கள்-சுற்றிவளைப்பு/175-335541) · `ta`
@@ -2245,25 +2269,5 @@ In its recent development update for the island nation, the agency stressed that
 [Data](articles/fd4973ef.json)
 
 [Extended Data](ext_articles/fd4973ef.ext.json)
-
----
-
-### Amendment and plantation workers!
-
-*2024-04-03 01:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180287) · `ta`
-
-The Cabinet has approved a 5,000 rupee increase in the national minimum wage to 17,500 rupees, effective immediately. This decision, made without a voluntary Cabinet paper from Labor Minister Manusha Nanayakkara, has sparked controversy. Workers in various industries are facing labor exploitation due to unclear minimum wage laws. The Central Bank's governor has been criticized for a 70% salary increase for bank employees, which has not been discussed in Parliament.
-
-🟩
-
-The Cabinet has approved the increase in the national minimum pain of the workers to 17.500 rupees, according to the preparations of the Labor National Minimum Pain Act No. 3 of 2016.. Accordingly, the monthly pain, which was 12.500 rupees, has been increased by five thousand rupees. At the same time, there has been a shortest day -to -day salary.
-
-According to the law, the daily salary has been increased to Rs.. Labor Minister Manusha Nanayakkara did not voluntarily submit a Cabinet paper for amendments to the minimum pain law.The Minister of Labor had submitted the Cabinet paper on the recommendations of a tripartite subcommittee, which includes trade unions and industrialists representing small and medium -sized entrepreneurs appointed by the National Labor Advisory Council.
-
-...
-
-[Data](articles/16519871.json)
-
-[Extended Data](ext_articles/16519871.ext.json)
 
 ---

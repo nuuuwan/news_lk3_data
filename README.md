@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 22:05:18**
+As of **2024-04-03 22:18:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,943 (100.0%) of 16,949 articles have been extended.
+16,949 (100.0%) of 16,949 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ While issuing a letter, he said the list includes Colombo National Hospital Depu
 
 [Data](articles/21f2f215.json)
 
+[Extended Data](ext_articles/21f2f215.ext.json)
+
 ---
 
 ### 56% accidents on expressways caused by driver negligence: Minister
@@ -60,39 +62,53 @@ Following the recent accident of State Minister Sanath Nishantha on the Katunaya
 
 [Data](articles/c4da27e9.json)
 
+[Extended Data](ext_articles/c4da27e9.ext.json)
+
 ---
 
-### முஸ்லிம் மாணவர்களுக்காக ஜனாதிபதி எடுத்த நடவடிக்கை
+### The President's action for Muslim students
 
 *2024-04-03 21:35:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-மாணவர்களுக்காக-ஜனாதிபதி-எடுத்த-நடவடிக்கை/175-335576) · `ta`
 
-முஸ்லிம் பாடாசலைகள் எதிர்கொள்ளும் பிரச்சினைகள் தொடர்பில் இம்மாத இறுதியில் மீளாய்வு செய்ய நடவடிக்கை எடுக்குமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe called for a review of Muslim schools' issues, including teacher shortage, classroom shortage, and lack of Sinhala teaching. He advised training for high-quality graduates and investigated land provision and new school construction.
 
-கொழும்பு பிரதேசத்திலுள்ள முஸ்லிம் பாடசாலைகள் எதிர்கொள்ளும் கல்விசார்ந்த பிரச்சினைகள் தொடர்பாக இன்று (02) ஜனாதிபதி செயலகத்தில் நடைபெற்ற கலந்துரையாடலிலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இவ்வாறு பணிப்புரை விடுத்தார்.
+🟩
 
-கொழும்பிலுள்ள முஸ்லிம் பாடசாலைகள் எதிர்கொள்ளும் பிரச்சினைகள் தொடர்பில் வெளிவிவகார அமைச்சர் அலி சப்ரி மற்றும் பாடசாலைகள் அதிபர்கள் மற்றும் அமைப்புகளின் பிரதிநிதிகள் ஜனாதிபதியிடம் எடுத்துரைத்தனர்.
+President Ranil Wickremesinghe has called for action to review the issues facing Muslim schools.
 
-ஆசிரியர் பற்றாக்குறை,இடநெருக்கடி, வகுப்பறைகள் தட்டுப்பாடு,சிங்கள மூலம் இஸ்லாம் பாடம் கற்பிக்கும் ஆசிரியர் இன்மை,அதிகமாக முஸ்லிம்கள் வாழும் பகுதிகளில் பாடசாலைகள் இன்மை உள்ளிட்ட விடயங்கள் குறித்தும் இதன் போது ஆராயப்பட்டது.
+President Ranil Wickremesinghe made this directive during a discussion held at the Presidential Secretariat today (02) on the educational issues facing Muslim schools in Colombo.
+
+External Affairs Minister Ali Sabri and representatives of schools and organizations have spoken to the President on the issues facing Muslim schools in Colombo.
+
+The shortage of teachers, the shortage of the classrooms, the lack of teaching teaching in Sinhala, and the lack of schools in Muslims living in Muslims.
 
 ...
 
 [Data](articles/300c2589.json)
 
+[Extended Data](ext_articles/300c2589.ext.json)
+
 ---
 
-### කංජිපානි ඉම්රාන් පොලිස් නිලධාරියෙකුට දුන් ඇමතුම
+### Call given to Kjepani Imran police officer
 
 *2024-04-03 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195271) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු ලෙස සැලකෙන කංජිපානි ඉම්රාන් පොලිස් නිලධාරියෙකු සමග දුරකථනය ඔස්සේ සිදුකළ සංවාදයක හඬපටයක් 'අද දෙරණ' ට ලැබී තිබුණි.
+Kjepani Imran, a police officer, was called to investigate a conversation between an organized crime leader and a drug dealer, captured by Ada Derana. The conversation was about the arrest of underworld members. Imran questioned the officer about the fate of the brother and the elder brother.
 
-යුක්තිය මෙහෙයුම යටතේ පාතාල කල්ලි සාමාජිකයන් අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් මෙම සංවාදයේදී කතාබහ කර තිබුණි.
+🟩
 
-එහිදී කංජිපානි ඉම්රාන් පොලිස් නිලධාරියාගෙන් ඉල්ලා තිබුණේ තම පියා සහ වැඩිමහල් සහෝදරයා අත්අඩංගුට ගැනීමෙන් වළකින ලෙසය.
+Ada Derana had received a sound of a conversation with an organized crime leader and a drug dealer.
+
+The conversation had been discussed in the discussion of the arrest of underworld members under the operation.
+
+Kjepani Imran asked the police officer as the brother and the elder brother would be abandoned.
 
 ◼️
 
 [Data](articles/e520f460.json)
+
+[Extended Data](ext_articles/e520f460.ext.json)
 
 ---
 
@@ -107,6 +123,8 @@ Colombo, April 3 (Daily Mirror) - Responding to the challenge by National People
 ◼️
 
 [Data](articles/12383528.json)
+
+[Extended Data](ext_articles/12383528.ext.json)
 
 ---
 
@@ -358,23 +376,29 @@ The Railway Department said a train heading towards Maho has derailed in this ma
 
 ---
 
-### ආර්ථිකය ශක්තිමත් වීම නිසා ගුරු පුරප්පාඩු පිරවීමට හැකිව තිබෙනවා
+### The economy has been able to fill the vacancies
 
 *2024-04-03 19:29:05* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකය-ශක්තිමත්-වීම-නිසා-ගුරු-පුරප්පාඩු-පිරවීමට-හැකිව-තිබෙනවා/11-408931) · `si`
 
-වසර තුනකට පසු මෙම වසරේ දී 4000ක පමණ පිරිසක් ගුරු වෘත්තියට බඳවා ගැනීමට රජය කටයුතු කර ඇති බවත්, රටේ ආර්ථිකය ශක්තිමත් වීමත් සමඟ ඉදිරි වසර වන විට ගුරු පුරප්පාඩු පිරවීම වෙනුවෙන් වැඩි මුදලක් වෙන් කිරීමට කටයුතු කරන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe announced the recruitment of over 4,000 teachers, emphasizing the importance of education in shaping the future. Economic growth and increased salaries for public servants have enabled these recruitments.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ අරලියගහ මන්දිරයේ දී අද (03) පැවති බස්නාහිර පළාත් උපාධිධාරී ගුරු පත්වීම් ප්‍රදානෝත්සවය අමතමිනි.
+🟩
 
-උපාධිධාරී ගුරුවරුන් 2320කට පත්වීම් ලබා දීම මෙහිදී සිදු කෙරුණු අතර ජනාධිපතිවරයා සංකේතාත්මකව පත්වීම් ප්‍රදානයට එක් විය.
+According to President Ranil Wickremesinghe said that about 4,000 people had taken measures to recruit more than 4,000 people to recruit the vacancies in the country.
 
-අනතුරුව පැවති උත්සව සභාව අමතමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේ චරිතවත් ගුණගරුක අනාගත පරපුරක් බිහි කිරීමේ වගකීම ගුරුවරයාට පැවරෙන බවයි.
+President Ranil Wickremesinghe addressing the ceremony at Temple Trees today (03), addressing the ceremony.
 
-ගෞරවණීය වෘත්තියක් වූ ගුරු වෘත්තියේ ගෞරවය කෙළසා ගැනීමට කිසිවිටෙකත් කටයුතු නොකළ යුතු බව පැවසු ජනාධිපතිවරයා ගුරුවරුන් නිරතුරුව විෂය දැනුමෙන් යාවත්කාලීන වීමේ වැදගත්කම ද පෙන්වා දුන්නේය.
+The appointment was made to 2320 graduate teachers and joined the grant of the appointment of appointments.
+
+Addressing the gathering, President Ranil Wickremesinghe said that the teacher was entitled to the creation of creating a foul-quality future generation.
+
+The President said that he should never act in the minority career of the teacher, and pointed out the importance of updating the subject.
 
 ...
 
 [Data](articles/152f6fa0.json)
+
+[Extended Data](ext_articles/152f6fa0.ext.json)
 
 ---
 

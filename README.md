@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 23:18:13**
+As of **2024-04-03 23:33:43**
 
 ## Newspaper Stats
 
-*Scraped **16,953** Articles*
+*Scraped **16,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,41 @@ economynextcom | 940
 adalk | 1,428
 tamilmirrorlk | 2,017
 adaderanalk | 2,033
-virakesarilk | 2,448
-dailymirrorlk | 2,607
+virakesarilk | 2,449
+dailymirrorlk | 2,609
 adaderanasinhalalk | 2,742
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,953 (100.0%) of 16,953 articles have been extended.
+16,953 (100.0%) of 16,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### 19 வயதுக்குட்பட்ட மகளிர் ரி20 மும்முனை கிரிக்கெட்: இங்கிலாந்திடம் 6 விக்கெட்களால் இலங்கை தோல்வி
+
+*2024-04-03 23:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180368) · `ta`
+
+ஹம்பாந்தோட்டை, மஹிந்த ராஜபக்ஷ சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் புதன்கிழமை (03) நடைபெற்ற 19 வயதுக்குட்பட்ட மகளிர் ரி20 மும்முனை கிரிக்கெட் தொடரின் கடைசிப் போட்டியில் இலங்கையை 6 விக்கெட்களால் இங்கிலாந்து வெற்றிகொண்டது.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த 19 வயதுக்குட்பட்ட இலங்கை மகளிர் அணி 20 ஓவர்களில் 9 விக்கெட்களை இழந்து 126 ஓட்டங்களைப் பெற்றது.
+
+இலங்கையின் மொத்த எண்ணிக்கையில் 5 அபராத ஓட்டங்கள் உட்பட 30 உதிரிகளே அதிகபட்ச எண்ணிக்கையாக இருந்தது.
+
+துடுப்பாட்டத்தில் அஷானி கௌஷல்யா (24), சஞ்சனா காவிந்தி (20) ஆகிய இருவரே 20 அல்லது அதற்கு மேற்பட்ட ஓட்டங்களைப் பெற்றனர்.
+
+பின்வரிசை வீராங்கனைகள் மூவர் இரட்டை இலக்க எண்ணிக்கைகளைப் பெற்றிராவிட்டால் இலங்கையின் நிலை மோசமடைந்திருக்கும்.
+
+முன்வரிசையில் அணித் தலைவி மனுதி நாணயக்கார (12), பின்வரிசையில் 10ஆம் இலக்க வீராங்கனை ஷஷினி கிம்ஹானி (13 ஆ. இ.), 9ஆம் இலக்க வீராங்கனை  ரஷ்மிக்கா செவ்வந்தி (13), தஹாமி செனத்மா (10) ஆகியோர் இரட்டை இலக்க எண்ணிக்கைகளைப் பெற்றனர்.
+
+...
+
+[Data](articles/df68938a.json)
+
+---
 
 ### BASL condemns use of parliamentary privileges to undermine judiciary’s independence
 
@@ -51,6 +73,36 @@ It also emphasized that it would, under no circumstances, remain silent when att
 [Data](articles/4ad36c88.json)
 
 [Extended Data](ext_articles/4ad36c88.ext.json)
+
+---
+
+### Colombo schoolchildren at higher risk of road accidents: Minister
+
+*2024-04-03 22:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-schoolchildren-at-higher-risk-of-road-accidents-Minister/108-280138) · `en`
+
+Colombo, April 3 (Daily Mirror) - Children attending school face a greater risk of road accidents in the densely populated city of Colombo compared to other areas of the country, Education Minister Susil Premajayantha said, addressing an event organized at the Ministry for the official launch of the 'School Road Safety Club'.
+
+Therefore, he said that urgent steps have to be taken to change this tragic situation, and for that, such road safety programmes are a great support.
+
+"It's notable that the majority of urban traffic accidents occur within the Colombo Municipal Council area. There are a total of 144 schools in the Colombo zone, of which 21 are national schools and another 20 fall under the international and private school categories. The remaining schools are under the Western Provincial Council," he said.
+
+...
+
+[Data](articles/bf61091d.json)
+
+---
+
+### Weak prosecution case clears police OIC charged for bribery
+
+*2024-04-03 22:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Weak-prosecution-case-clears-police-OIC-charged-for-bribery/108-280142) · `en`
+
+Colombo, April 3 (Daily Mirror) - The Colombo High Court Judge Navaratne Marasinghe today acquitted the former OIC of Mount-Lavinia Special Crime Investigation Bureau (SCIB) Inspector of Police Samaraweera Gunarathne from all the charges of bribery as the prosecution failed to prove the charges beyond reasonable doubt.
+
+The Director General of the Commission to Investigate Allegations of Bribery or Corruption indicted the Inspector of Police Samaraweera Gunarathne for soliciting and accepting a sum of Rs. 20,000 from a woman in order to expedite the investigation into complaint made by one of her friends at the SCIB of Mount Lavinia Police Station.
+
+...
+
+[Data](articles/97c14c13.json)
 
 ---
 
@@ -2255,65 +2307,5 @@ The former President has said that he has already given a lengthy statement to t
 [Data](articles/e8752757.json)
 
 [Extended Data](ext_articles/e8752757.ext.json)
-
----
-
-### Colombo HC rejects Keheliya’s revision application seeking bail
-
-*2024-04-03 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98395/colombo-hc-rejects-keheliyas-revision-application-seeking-bail) · `en`
-
-The Colombo High Court on Wednesday (03) rejected the revision application filed on behalf of former Health Minister Keheliya Rambukwella seeking to be released on bail.
-
-The order was delivered by High Court Judge Sujeewa Nissanka.
-
-Legal counsels of Rambukwella, who is in currently remand custody in connection with his alleged complicity in the substandard human intravenous immunoglobulin (IVIG) procurement, had submitted the revision application to the high court on 15 March, after the Maligakanda Magistrate’s Court refused to release their client on bail.
-
-In his bail application, Rambukwella claimed that the Maligakanda Magistrate’s decision to reject bail for him was unlawful. He also sought the High Court to release him on bail subject to any condition.
-
-...
-
-[Data](articles/3640d8e8.json)
-
-[Extended Data](ext_articles/3640d8e8.ext.json)
-
----
-
-### Hansanni renews Sri Lanka in Thailand
-
-*2024-04-03 14:00:03* · [`adalk`](https://www.ada.lk/sports/තායිලන්තයේදී-හංසනී-ශ්‍රී-ලංකා-වාර්තාවක්-අලුත්-කරයි/9-408918) · `si`
-
-Hansanni Gomez sets a new Sri Lankan record in the heavyweight class at the World Weightlifting Championships in Thailand, lifting 76 kg in the Snatch.
-
-🟩
-
-Hansan Gomez was established to set up a new Sri Lankan record with heavy weight class at the World Championship Weightlifting Championship in Thailand.
-
-She lifted up a loss of 76 kilograms to the Snatch.
-
-The Olympic Qualification Championships is also being implemented in the World Championships.
-
-◼️
-
-[Data](articles/b5a72ecf.json)
-
-[Extended Data](ext_articles/b5a72ecf.ext.json)
-
----
-
-### Keheliya's bail declines
-
-*2024-04-03 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195248) · `si`
-
-Keheliya Rambukwella's bail declined; Colombo High Court reviews his case.
-
-🟩
-
-Colombo High Court ordered the review of former Minister Keheliya Rambukwella who was remanded.
-
-◼️
-
-[Data](articles/4b3cae1d.json)
-
-[Extended Data](ext_articles/4b3cae1d.ext.json)
 
 ---

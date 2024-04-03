@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 14:34:01**
+As of **2024-04-03 14:52:13**
 
 ## Newspaper Stats
 
-*Scraped **16,844** Articles*
+*Scraped **16,848** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 dailyftlk | 910
 economynextcom | 927
 islandlk | 931
-adalk | 1,413
+adalk | 1,414
 tamilmirrorlk | 2,008
-adaderanalk | 2,018
+adaderanalk | 2,020
 virakesarilk | 2,427
 dailymirrorlk | 2,592
-adaderanasinhalalk | 2,724
+adaderanasinhalalk | 2,725
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,844 (100.0%) of 16,844 articles have been extended.
+16,844 (100.0%) of 16,848 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### දමිතාට සහ සැමියාට විදෙස් ගමන් තහනමක්
+
+*2024-04-03 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195251) · `si`
+
+ජනප්‍රිය රංගන ශිල්පිනී දමිතා අබේරත්න සහ ඇයගේ සැමියාට විදෙස් ගමන් තහනමක් පනවා තිබේ.
+
+කොළඹ කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා විසින් මෙම නියෝගය නිකුත් කර ඇත.
+
+විදේශ රැකියා ලබාදෙන බව පවසා මුදල් වංචා කිරීමේ සිද්ධියක් සම්බන්ධයෙන් දමිතා අබේරත්න සහ ඇයගේ සැමියාට චෝදනා එල්ලවී තිබේ.
+
+මේ අතර දමිතා අබේරත්න සහ ඇයගේ සැමියා ආගමන හා විගමන පනත යටතේ අත්අඩංගුවට ගැනීම වළක්වාලන අතුරු තහනම් නියෝගයක් නිකුත් කිරීම ප්‍රතික්ෂේප කිරීමට අභියාචනාධිකරණය ඊයේ (02) තීන්දු කර තිබුණි.
+
+◼️
+
+[Data](articles/941ec7d9.json)
+
+---
 
 ### Special notice to Maithri court
 
@@ -54,6 +72,36 @@ The former President has said that he has already given a lengthy statement to t
 
 ---
 
+### Colombo HC rejects Keheliya’s revision application seeking bail
+
+*2024-04-03 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98395/colombo-hc-rejects-keheliyas-revision-application-seeking-bail) · `en`
+
+The Colombo High Court on Wednesday (03) rejected the revision application filed by former Health Minister Keheliya Rambukwella seeking to be released on bail.
+
+The order was delivered by High Court Judge Sujeewa Nissanka.
+
+◼️
+
+[Data](articles/3640d8e8.json)
+
+---
+
+### තායිලන්තයේදී හංසනී ශ්‍රී ලංකා වාර්තාවක් අලුත් කරයි
+
+*2024-04-03 14:00:03* · [`adalk`](https://www.ada.lk/sports/තායිලන්තයේදී-හංසනී-ශ්‍රී-ලංකා-වාර්තාවක්-අලුත්-කරයි/9-408918) · `si`
+
+තායිලන්තයේ පැවැත්වෙන ලෝක ශූරතා බර ඉසිලීමේ තරගාවලියේදී කිලෝ ග්‍රෑම් 49 බර පංතියෙන් නව ශ්‍රී ලංකා වාර්තාවක් පිහිටුවීමට හංසනී ගෝමස් සමත්වූවාය.
+
+ඇය ස්නැච් ක්‍රමයට කිලෝග්‍රෑම් 76ක බරක් ඔසවමින් මෙසේ නව ජාතික වාර්තාවට හිමිකම් කීවාය.
+
+ලෝක ශූරතා බර ඉසිලීමේ ශූරතා තරගාවලිය ඔලිම්පික් සුදුසුකම් ලැබීමේ තරගාවලියක් ලෙසද ක්‍රියාත්මක වේ.
+
+◼️
+
+[Data](articles/b5a72ecf.json)
+
+---
+
 ### Keheliya's bail declines
 
 *2024-04-03 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195248) · `si`
@@ -69,6 +117,26 @@ Colombo High Court ordered the review of former Minister Keheliya Rambukwella wh
 [Data](articles/4b3cae1d.json)
 
 [Extended Data](ext_articles/4b3cae1d.ext.json)
+
+---
+
+### Not necessary to provide another statement on Easter attack remarks - Maithripala informs court
+
+*2024-04-03 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98394/not-necessary-to-provide-another-statement-on-easter-attack-remarks-maithripalainformscourt) · `en`
+
+Former President Maithripala Sirisena has informed the court that there is no need for him to make a statement in court with regard to his recent remarks on 2019 Easter Sunday terror attacks as he has already provided one to the Criminal Investigation Department (CID).
+
+He communicated this through a motion submitted to the Maligakanda Magistrate’s Court through his legal counsels on Wednesday (03).
+
+On March 28, the Maligakanda Magistrate ordered the former president to make a statement in court on 04 April pertaining to his comments that raised eyebrows.
+
+However, the CID on March 25 obtained a five-hour-long statement from Sirisena after Public Security Minister Tiran Alles ordered an immediate investigation into the matter.
+
+On March 22, Sirisena, who was the incumbent when the coordinated bombings happened, stirred controversy when he claimed he was aware of the true masterminds of the carnage.
+
+...
+
+[Data](articles/ed47ff0e.json)
 
 ---
 
@@ -2207,79 +2275,5 @@ In this case, the demand for them to be sent to Sri Lanka soon, the trio will be
 [Data](articles/1fb38941.json)
 
 [Extended Data](ext_articles/1fb38941.ext.json)
-
----
-
-### How  the  LTTE  Crushed  “Col” Karuna’s   Eastern Tiger  Revolt  Through Force.
-
-*2024-04-03 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83845) · `en`
-
-The course of war  between the Liberation Tigers of Tamil Eelam(LTTE) and the Sri Lankan armed forces was drastically altered by the  2004 eastern  revolt headed by former tiger commander of the Batticaloa and Amparai districts Vinayagamoorthy Muralidharan alias “Col”Karuna. The LTTE was split vertically and horizontally as a result and gradually weakened. By 2007 the LTTE ceased  having territorial control in the Eastern province.
-
-This article is the third in a series about the intra-tiger split of 2004 and the fratricidal war that followed. In the first article published on 16 March 2024 the background and reasons for the Eastern Tiger revolt were discussed in detail. In the  second article  published on 23 March 2024 the course of events leading to the  conflict in the aftermath of “Col”Karuna’s rebellion were recounted.  This third article relates  details of the Tiger vs Tiger confrontation that  commenced 20 years ago on Good Friday.
-
-...
-
-[Data](articles/5b609486.json)
-
-[Extended Data](ext_articles/5b609486.ext.json)
-
----
-
-### Round the massage stations
-
-*2024-04-03 03:21:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மசாஜ்-நிலையங்கள்-சுற்றிவளைப்பு/175-335541) · `ta`
-
-Four women arrested in Anuradhapura for running illegal massage stations are checked for HIV. 12 women from Matara massage stations are detained.
-
-🟩
-
-Four women have been arrested in a raid on illegal massage stations in Anuradhapura area.
-
-The four arrested women have been sent to the hospital to check whether they are infected with HIV.
-
-In this case, 12 women working at illegal massage stations in Matara have been taken to the police station.
-
-The arrested women are from Galle, Kegalle, Colombo, Puttalam and Anuradhapura. (A)
-
-◼️
-
-[Data](articles/440abcd1.json)
-
-[Extended Data](ext_articles/440abcd1.ext.json)
-
----
-
-### Permit to lease flights
-
-*2024-04-03 02:53:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமானங்களை-குத்தகைக்கு-பெற்றுக்கொள்ள-அனுமதி/175-335540) · `ta`
-
-The Cabinet approved leasing four aircraft to Sri Lankan Airlines for $1.5M/month, a proposal by Nimal Siripala de Silva.
-
-🟩
-
-The Cabinet has approved the lease of four aircraft by spending $ 1.5 million per month for Sri Lankan airlines, which are continuously sucking.
-
-The Cabinet has approved the idea put forward by Ports and Aviation Minister Nimal Siripala de Silva to lease four aircraft. (A)
-
-◼️
-
-[Data](articles/72fae339.json)
-
-[Extended Data](ext_articles/72fae339.ext.json)
-
----
-
-### Has Sri Lanka become a potential hub for the illegal wildlife trade?
-
-*2024-04-03 02:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/Has-Sri-Lanka-become-a-potential-hub-for-the-illegal-wildlife-trade/131-280076) · `en`
-
-On March 26, a couple arriving from Thailand was arrested with 88 live animals brought into the Bandaranaike International Airport.
-
-...
-
-[Data](articles/8c4144dd.json)
-
-[Extended Data](ext_articles/8c4144dd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 19:03:24**
+As of **2024-04-03 19:18:15**
 
 ## Newspaper Stats
 
-*Scraped **16,921** Articles*
+*Scraped **16,922** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 910
 islandlk | 931
 economynextcom | 940
-adalk | 1,421
+adalk | 1,422
 tamilmirrorlk | 2,015
 adaderanalk | 2,029
 virakesarilk | 2,443
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,736
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,921 (100.0%) of 16,921 articles have been extended.
+16,922 (100.0%) of 16,922 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1101,6 +1101,30 @@ The suspect is receiving treatment at the Kalutara Teaching Hospital.
 [Data](articles/22dde038.json)
 
 [Extended Data](ext_articles/22dde038.ext.json)
+
+---
+
+### Presidential Election and General Election on the same day?
+
+*2024-04-03 15:08:49* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-හා-මහ-මැතිවරණය-එකම-දිනයකදී-/11-408925) · `si`
+
+Presidential and parliamentary elections on the same day are proposed to meet both parties' needs, despite concerns about reducing presidential power and ensuring a majority in parliament. The law allows for simultaneous elections, and the president's decision to dissolve parliament could facilitate this. The focus is on the country's advantage, not party gain, with the understanding that no party can secure a majority in parliament.
+
+🟩
+
+Leader of the President, Udaya Gammanpila says that the president and the Budget is going to be held in the same day to meet the need for both parties and the parliamentary election.
+
+He was responding to a media briefing held at the Keratern JHU office today (204.04.2013). The MP said,
+
+"If the president wants to reduce the power of the president, the presidential election will not be held until the presidential election will be no parliamentary election. Before the presence of Basil Rajapaksa wants the parliamentary election before the results of the people.
+
+This is why Basil insists to put the parliamentary election early.This is why the president is guiding this request.We are now aware that the president and parliamentary elections will be discussed on the same day on both sides.
+
+...
+
+[Data](articles/669594a2.json)
+
+[Extended Data](ext_articles/669594a2.ext.json)
 
 ---
 
@@ -2305,31 +2329,5 @@ The money collected by President Ranil Wickremesinghe "for the President's Pales
 [Data](articles/3fdf0932.json)
 
 [Extended Data](ext_articles/3fdf0932.ext.json)
-
----
-
-### Teenager marrying her husband with a girl
-
-*2024-04-03 11:39:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவரை-கைகழுவி-சிறுமியுடன்-இளம்பெண்-திருமணம்/175-335558) · `ta`
-
-A 24-year-old girl, living as a married couple with a 16-year-old girl, was arrested for abduction. The 27-year-old man, her husband, was from Umarki, near Kargon, Madhya Pradesh. The incident involved homosexuality and sexual harassment.
-
-🟩
-
-Police have arrested a 24-year-old girl who lived like a husband and wife, who abducted a 16-year-old girl, the daughter of her close relative.
-
-A 27 -year -old youth belongs to the village of Umarki, a border of Barut police near Kargon, Madhya Pradesh. He got married a year ago. The young man took a 24 -year -old girl.
-
-This is the habit of a young girl and a 16 -year -old girl who is close to her husband. This habit has changed very closely.
-
-Meanwhile, last February 27, Tithi suddenly became a married young woman and a 16 -year -old girl.
-
-Searched everywhere and they are not available. Subsequently lodged a complaint with the police. The police filed a case and searched the two seriously. Even a month after the two of them, the police could not find them.
-
-...
-
-[Data](articles/b8f0cda6.json)
-
-[Extended Data](ext_articles/b8f0cda6.ext.json)
 
 ---

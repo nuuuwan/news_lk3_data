@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 21:18:10**
+As of **2024-04-03 21:33:57**
 
 ## Newspaper Stats
 
-*Scraped **16,941** Articles*
+*Scraped **16,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 931
 economynextcom | 940
 adalk | 1,426
 tamilmirrorlk | 2,016
-adaderanalk | 2,030
+adaderanalk | 2,031
 virakesarilk | 2,447
 dailymirrorlk | 2,603
 adaderanasinhalalk | 2,741
@@ -26,11 +26,33 @@ adaderanasinhalalk | 2,741
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,941 (100.0%) of 16,941 articles have been extended.
+16,941 (100.0%) of 16,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### At least 9 dead, 800 injured in Taiwan earthquake; dozens still trapped under rubble
+
+*2024-04-03 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98405/at-least-9-dead-800-injured-in-taiwan-earthquake-dozens-still-trapped-under-rubble-) · `en`
+
+Rescue efforts are under way in Taiwan after a 7.4 magnitude earthquake struck the island’s eastern coast, killing at least nine and injuring more than 800.
+
+Some 127 people are trapped in collapsed tunnels and on mountainous roads along the rugged coastline.
+
+The epicentre was 18km (11 miles) south of Hualien city, but strong tremors were felt all the way in the capital Taipei, more than 100km away.
+
+It also triggered tsunami alerts earlier in the day in nearby Japanese and Philippine islands which were later retracted.
+
+It caused the most damage in Hualien, where buildings fell, roads were blocked and train lines disrupted, leaving the remote region even more cut off from the rest of Taiwan.
+
+“I was just getting out of bed when a clothes rack and a low cabinet fell over,” Ocean Tsai, who lives in Hualien, told BBC Chinese. “It kept getting stronger, and I started worrying about our belongings at home. Fortunately, apart from the motorcycle tipping over, the damage was minimal.”
+
+...
+
+[Data](articles/38618856.json)
+
+---
 
 ### Between the wreckage of the Taiwan earthquake
 
@@ -2347,23 +2369,5 @@ As Tamils, we have so far voted for a candidate from the majority community. The
 [Data](articles/f15f84ec.json)
 
 [Extended Data](ext_articles/f15f84ec.ext.json)
-
----
-
-### Canada funds UNDP, UNFPA project to help victims of sexual violence in Sri Lanka
-
-*2024-04-03 12:51:00* · [`economynextcom`](https://economynext.com/canada-funds-undp-unfpa-project-to-help-victims-of-sexual-violence-in-sri-lanka-157347/) · `en`
-
-ECONOMYNEXT – National guidelines for the management of shelters for victims of sexual and gender-based violence (SGBV) were recently launched by the Ministry of Women, Child Affairs and Social Empowerment, following Cabinet approval.
-
-The guidelines are a collaborative effort by the Ministry, the United Nations Development Programme (UNDP) in Sri Lanka, and a key component of the ‘Enabling Access to Justice for Victim-Survivors of SGBV in Sri Lanka’ project, a joint initiative with UNDP and UNFPA Sri Lanka, with funding from the Government of Canada.
-
-The guidelines will establish a State-led management system to register, monitor, and enhance the quality of services for victims, particularly those experiencing intimate partner violence (IPV) or domestic violence (DV), seeking refuge in shelters.
-
-...
-
-[Data](articles/26e1070f.json)
-
-[Extended Data](ext_articles/26e1070f.ext.json)
 
 ---

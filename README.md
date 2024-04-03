@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-03 20:50:43**
+As of **2024-04-03 21:03:42**
 
 ## Newspaper Stats
 
-*Scraped **16,939** Articles*
+*Scraped **16,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,48 @@ newsfirstlk | 363
 dailyftlk | 910
 islandlk | 931
 economynextcom | 940
-adalk | 1,425
+adalk | 1,426
 tamilmirrorlk | 2,016
 adaderanalk | 2,030
 virakesarilk | 2,447
 dailymirrorlk | 2,603
-adaderanasinhalalk | 2,740
+adaderanasinhalalk | 2,741
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,939 (100.0%) of 16,939 articles have been extended.
+16,939 (100.0%) of 16,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-03 (Wednesday)
+
+### තායිවාන භූ කම්පනයෙන් විශාල පිරිසක් සුන්බුන් අතර
+
+*2024-04-03 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195270) · `si`
+
+තායිවානයේ නැගෙනහිර වෙරළ තීරයට බලපෑ රික්ටර් මාපකයේ ඒකක 7.4ක ප්‍රබලත්වයෙන් යුතු භූකම්පනයෙන් පුද්ගලයින් 09 දෙනෙකු මියගොස් ඇති බව විදෙස් වාර්තා පවසයි.
+
+වසර 25කට පසුව එරටට බලපෑ ප්‍රබලතම භූකම්පනය මෙය වන අතර සුන්බුන් අතර සිරවී සිටින පිරිස මුදාගැනීමට තවදුරටත් මෙහෙයුම් ක්‍රියාත්මකය.
+
+තායිවාන භූ කම්පනයේ අපිකේන්ද්‍රය සටහන් වූයේ එරට නැගෙනහිර වෙරළබඩ හුවාලියෑන් නගරයට කිලෝමීටර් 18ක් පමණ දුරින් පැසිෆික් සාගරයේය.
+
+රික්ටර් මාපකයේ ඒකක 7.4ක් සටහන් වූ භූ කම්පනයෙන් තායිපේ අගනුවර ඇතුළු ප්‍රදේශ රැසකට දැඩි බලපෑම් එල්ලවුණි.
+
+ගොඩනැගිලි 100කට පමණ හානි සිදුවී ඇති අතර, සුන්බුන් මැද සිරවූ 130ක පමණ පිරිසක් මුදාගැනීම සඳහා මෙහෙයුම් දියත් කර තිබේ.
+
+ඉන් 80ක් පමණ කඳුකර උමං මාර්ගවල සිරවී සිටින අතර, ඒ අතරට විදේශිකයින්ද අයත් ය.
+
+ප්‍රධාන භූ කම්පනයෙන් පසුව එම කලාපයට රික්ටර් මාපකයේ ඒකක 6.5ක ප්‍රබලත්වයෙන් යුතු පසු කම්පනයක් ඇතුළු කම්පන 100ක් පමණ බලපා තිබුණි.
+
+බලධාරීන් පුරෝකථනය කරන්නේ, ඉදිරි දින කිහිපය තුළ රික්ටර් මාපකයේ ඒකක 7 ඉක්මවූ පසු කම්පන සිදුවිය හැකි බවය.
+
+...
+
+[Data](articles/68adf1c1.json)
+
+---
 
 ### Agricultural Modernization Board- President
 
@@ -195,6 +221,24 @@ The Railway Department said a train heading towards Maho has derailed in this ma
 [Data](articles/4840ed27.json)
 
 [Extended Data](ext_articles/4840ed27.ext.json)
+
+---
+
+### තරගකාරී ආයෝජන අවස්ථා ඇති කරමින් ශක්තිමත් ආර්ථිකයක් බිහිකරනවා
+
+*2024-04-03 19:22:06* · [`adalk`](https://www.ada.lk/breaking_news/තරගකාරී-ආයෝජන-අවස්ථා-ඇති-කරමින්-ශක්තිමත්-ආර්ථිකයක්-බිහිකරනවා/11-408930) · `si`
+
+රටට හිතකර තරගකාරී ආයෝජන අවස්ථා ඇති කරමින් ශක්තිමත් ආර්ථිකයක් බිහිකරීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රකාශ කළේය.
+
+ශ්‍රී ලංකාවේ ආර්ථිකය නංවාලීම සඳහා ආයෝජන මණ්ඩලය යටතේ ඇති සමාගම් සිදු කළ සුවිශේෂී කාර්යභාරය වෙනුවෙන් සිය කෘතඥතාව පිරිනමන බව ද ජනාධිපතිවරයා කියා සිටියේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ජනාධිපති කාර්යාලයේදී ඊයේ (02) පැවැති ආයෝජන මණ්ඩල සම්මාන උළෙල අමතමිනි.
+
+ආයෝජන මණ්ඩලයේ 45 වැනි සංවත්සරය නිමිත්තෙන් පළමු වරට මෙම සම්මාන උළෙල සංවිධානය කර තිබු අතර ඍජු විදේශ ආයෝජන සහ අපනයන කාර්ය සාධනය සඳහා සිදු කර ඇති දායකත්වය වෙනුවෙන් ආයෝජන මණ්ඩලය යටතේ පවතින සමාගම් වෙත සම්මාන 30 ක් පිරිනැමීම ජනාධිපතිවරයා අතින් සිදු වූ අතර දිගුකාලයක් පුරා ක්‍රියාකාරිව පැවැති සමාගම් සඳහා ද විශේෂ ඇගයීමක් සිදු කෙරිණ.
+
+...
+
+[Data](articles/15bcc8c5.json)
 
 ---
 
@@ -2305,55 +2349,5 @@ The guidelines will establish a State-led management system to register, monitor
 [Data](articles/26e1070f.json)
 
 [Extended Data](ext_articles/26e1070f.ext.json)
-
----
-
-### South Asia is the mainstay of India's greatest growth in the world worldwide: India's tremendous growth
-
-*2024-04-03 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/180303) · `ta`
-
-The World Bank highlights South Asia's significant growth, attributing India's rapid expansion to its dominance. Other countries in the region experience slower growth. The region's economic growth in 2024 is projected at 6%. South Asia's development heavily relies on global sectors, but private investment is increasing. Climate change challenges impact the region, especially affecting the poor. Strategies include investing in public infrastructure like roads and bridges. The continuous population growth hasn't led to sufficient employment, suggesting that easing financial market restrictions could boost economic growth.
-
-🟩
-
-The World Bank, which points out that South Asia is the most popular regional worldwide and that India's rapid growth is the main reason for its rapid growth, said the growth of other countries in the region is slow.
-
-The World Bank's World Bank's Sri Lankan office, located at the World Bank's Sri Lanka Center at the World Bank's 2024 South Asian Development Status and Sri Lanka's Development Center on Tuesday.
-
-The World Bank's Senior Economist for the South Asian Regional Economist for the South Asian Regional Economist Francca OneSorge said at a media briefing organized by the World Bank yesterday in the coordination of the Sri Lanka Press Association.
-
-He pointed out that South Asian region was the world's most developing region of the world from 2024 to 2025 and that India's rapid growth was the main reason, but the growth of the other countries of the region was in slowdowns.. Accordingly, in 2024, the economic growth of South Asia is 6 percent.
-
-...
-
-[Data](articles/40acad7b.json)
-
-[Extended Data](ext_articles/40acad7b.ext.json)
-
----
-
-### World Bank Charity that the elections may be banned
-
-*2024-04-03 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180305) · `ta`
-
-Richard Volkar, a Senior Economist at the World Bank, warns that ongoing renovation measures in Sri Lanka may be halted due to the country's elections this year. He expressed concern over the impact on economic recovery and highlighted the World Bank's support for government policies and programs like 'Assuma' and financial security.
-
-🟩
-
-Richard Volkar, Senior Economist of the World Bank, said that as the elections are being held in Sri Lanka this year, the ongoing renovation measures may be banned.
-
-The World Bank's World Bank's office was published yesterday at the World Bank's Sri Lankan office, located at the 'Warbease Tower' at the World Bank's 2024 South Asian Development Status and Sri Lanka's Development Status.
-
-Richard Volkar said this while participating in a media briefing organized by the World Bank on Tuesday (02) in the coordination of the Sri Lanka Press Association.
-
-He stressed that he was very concerned about the impacts of the people as a result of the impacts of the people as a result of the impact of the people as a target of economic recovery.
-
-At the same time, Richard Volkar pointed out that the World Bank is fully cooperating with the government's policy restructuring and the World Bank has funded the 'Assuma' program and the financial security program.
-
-...
-
-[Data](articles/7f645e02.json)
-
-[Extended Data](ext_articles/7f645e02.ext.json)
 
 ---

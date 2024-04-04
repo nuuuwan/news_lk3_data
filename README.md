@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 09:34:11**
+As of **2024-04-04 09:53:23**
 
 ## Newspaper Stats
 
-*Scraped **17,036** Articles*
+*Scraped **17,040** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 929
 islandlk | 943
 economynextcom | 944
 adalk | 1,432
-tamilmirrorlk | 2,022
+tamilmirrorlk | 2,024
 adaderanalk | 2,040
-virakesarilk | 2,457
+virakesarilk | 2,459
 dailymirrorlk | 2,621
 adaderanasinhalalk | 2,749
 
@@ -26,11 +26,69 @@ adaderanasinhalalk | 2,749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,033 (100.0%) of 17,036 articles have been extended.
+17,036 (100.0%) of 17,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### பரீட்சை கடமை கொடுப்பனவுகளை அதிகரிக்க நடவடிக்கை
+
+*2024-04-04 09:31:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சை-கடமை-கொடுப்பனவுகளை-அதிகரிக்க-நடவடிக்கை/175-335595) · `ta`
+
+பரீட்சை கடமைகளில் ஈடுபடுபவர்களுக்கு வழங்கப்படும் கொடுப்பனவுகளை எதிர்வரும் இரண்டு அல்லது மூன்று வாரங்களில் அதிகரிக்க கல்வி அமைச்சு தீர்மானித்துள்ளது.
+
+மேல்மாகாண பட்டதாரி ஆசிரியர்களுக்கான நியமனக் கடிதங்கள் வழங்கும் நிகழ்வில் சுசில் பிரேமஜயந்த, இது தொடர்பில் குழுவொன்று நியமிக்கப்பட்டு அறிக்கை கோரப்படும் என்றார்.
+
+இந்த அறிக்கையின் அடிப்படையில் பரீட்சை கடமைகளில் ஈடுபடுபவர்களின் கொடுப்பனவுகள் வழங்கப்படும் என அமைச்சர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/1481ed40.json)
+
+---
+
+### பாணந்துறையில் 76,000 போதை மாத்திரைகளுடன் ஒருவர் கைது
+
+*2024-04-04 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180381) · `ta`
+
+பாணந்துறை ஹிரணையில் பாரியளவில் போதை மாத்திரைகள் மற்றும் கஞ்சாவை வைத்திருந்த நபரொருவர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட போது சந்தேகநபரிடம் ஹெரோயினுக்கு பதிலாக பயன்படுத்தப்பட்ட 76,796 போதை மாத்திரைகளும் 1 கிலோ கிராம் கஞ்சாவும் கண்டுபிடிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b2a83fe7.json)
+
+---
+
+### ரயில் சேவைகளில் தாமதம்
+
+*2024-04-04 09:25:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவைகளில்-தாமதம்/175-335594) · `ta`
+
+மாஹோவில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த ரயிலில் இன்று(04) காலை ஏற்பட்ட தொழில்நுட்ப கோளாறு காரணமாக பிரதான பாதையில் ரயில் சேவைகளில் தாமதம் ஏற்பட்டுள்ளது.
+
+அத்துடன், யத்தல்கொட மற்றும் அம்பேபுஸ்ஸ ரயில் நிலையங்களுக்கு இடையில் மற்றுமொரு ரயிலில் கோளாறு ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b3a97ec9.json)
+
+---
+
+### ஜப்பானில் 6.0 ரிக்டர் பூகம்பம்
+
+*2024-04-04 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/180380) · `ta`
+
+புகுசிமா பிராந்தியத்தில்  40 கிலோமீற்றர் ஆழத்தில் இப்பூகம்பம் இப்பூகம்பம் ஏற்பட்டதாக ஜப்பானிய வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+தலைநகர் டோக்கியோவிலும் இப்பூகம்பம் உணரப்பட்டது.  எனினும், இப்பூகம்பத்தையடுத்து சுனாமி எச்சரிக்கை எதுவும் விடுக்கப்படவிலலை.
+
+◼️
+
+[Data](articles/1fe8cac9.json)
+
+---
 
 ### Man arrested with over 76,000 narcotic pills in Panadura
 
@@ -43,6 +101,8 @@ As many as 76,796 narcotic pills used instead of heroin and 1kg of cannabis were
 ◼️
 
 [Data](articles/8bbfdbcd.json)
+
+[Extended Data](ext_articles/8bbfdbcd.ext.json)
 
 ---
 
@@ -1764,21 +1824,27 @@ It caused the most damage in Hualien, where buildings fell, roads were blocked a
 
 ---
 
-### ඕනෑම විවාදයකට මුහුණ දීමට සූදානම්
+### Ready to face any debate
 
 *2024-04-03 20:42:52* · [`adalk`](https://www.ada.lk/breaking_news/ඕනෑම-විවාදයකට-මුහුණ-දීමට-සූදානම්/11-408939) · `si`
 
-ඕනෑම විවාදයක් පිළිබඳ අභියෝගයකට මුහුණ දීමට තමා සූදානම් බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+Opposition Leader Sajith Premadasa is ready to face any debate, emphasizing the importance of discussing country issues and contributing to society's progress.
 
-සක්වල වැඩසටහන යටතේ මුලතිව් ඔඩ්ඩුසුඩාන් මුත්තුඅයියන්කට්ටු පාසලකට රුපියල් ලක්ෂ 10ක් වටිනා සුහුරු පන්ති කාමරයක් ලබා දීමේ අවස්ථාවට අද (03දා) එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+Opposition Leader Sajith Premadasa said he was ready to face any challenge of any debate, he said.
 
-"මේ මොහොත වන විට අපිට දකින්නට ලැබෙනවා, සමාජයේ කතාබහට ලක්වෙනවා රටේ ප්‍රශ්න පිළිබඳව විවාදයක් අවශ්‍යයි කියලා. ඔව් මමත් පිළිගන්නවා, රටේ ප්‍රශ්න පිළිබඳව වාද විවාද කරන්න ඕනෑ. යෝජනා ඉදිරිපත් කරන්න ඕනෑ. ඒ නිසා විවාද පවත්වන එක ප්‍රජාතන්ත්‍රවාදී සමාජයක උසස් ගුණාංගයක්. මම සූදානම් ඕනෑම විවාදයකට. ආර්ථික ක්ෂේත්‍රය හෝ වේවා, සමාජීය ක්ෂේත්‍රය හෝ වේවා, දේශපාලන ක්ෂේත්‍රය හෝ වේවා, ජාත්‍යන්තර ක්ෂේත්‍රය හෝ වේවා ඕනෑම මාතෘකාවක් පිළිබඳව වාද විවාද කරන්න මම සූදානම්. ඒත් වාද විවාද කිරීමෙන් පමණක් රට ගොඩනැගෙන්නේ නෑ.
+He was speaking at a ceremony at Oddusuddan Mullaitivu at Oddusuddan, Oddusuddan, an open classroom at Oddusuddan Mullaitivu today (3).
+
+The Opposition Leader Sajith Premadasa said so.
+
+"By this time we see that the chatting of society requires a debate on the issues of the country. Yeah, I should accept and debate the issues of the country. Suggestions should be submitted. Therefore, it is a high quality of a democratic society. I'm ready to any debate. I am ready to debate the arguing of any topic or any topic whether the economic field or the international field. But by debating, the country will not be built.
 
 ...
 
 [Data](articles/c73716cb.json)
+
+[Extended Data](ext_articles/c73716cb.ext.json)
 
 ---
 
@@ -1892,19 +1958,25 @@ The policy plan prepared to modernize the agricultural sector of Sri Lanka was h
 
 ---
 
-### ලවණ කුඹුරු අක්කර ලක්ෂ 2කට චීන ’සී රයිස්’
+### Chinese '' Ceylon 'for 2 lakh acres of salts
 
 *2024-04-03 20:04:31* · [`adalk`](https://www.ada.lk/breaking_news/ලවණ-කුඹුරු-අක්කර-ලක්ෂ-2කට-චීන-’සී-රයිස්’/11-408934) · `si`
 
-මෙරට තුළ ඉහළ ලවණතාවෙන් යුත් කුඹුරු අක්කර ලක්ෂ 02ක චීනයේ 'සී රයිස්' ප්‍රභේදය වගා කිරීමට නියමිත බව හෙක්ටර් කොබ්බෑකඩුව ගොවිකටයුතු පර්යේෂණ හා පුහුණු කිරීමේ ආයතනයේදී ඊයේ (03දා) පැවති වැඩසටහනකදී අනාවරණය විය.
+Hector Kobbekaduwa, a farmer research institute, launched research papers focusing on dry zone irrigation for paddy cultivation, aiming to address salinity issues on 2 lakh acres.
 
-එම ආයතනයෙහි පර්යේෂණ පත්‍රිකා එළි දැක්වීම සඳහා මෙම වැඩසටහන පැවති අතර, එහිදී වැඩිදුරටත් අනාවරණය වූයේ පුරන් කුඹුරු නැවත වගා කිරීම වෙනුවට නිර්දේශිත විකල්ප බෝග ඒවායෙහි වගා කිරීම සඳහා පූර්ණ අනුමතිය ලබා දීමට ඉදිරියේදී නියමිත බවය.
+🟩
 
-එසේම වී වගා කටයුතු සඳහා වාරි ජලය භාවිත කෙරෙන වියළි කලාපීය භූමි කෙරෙහි ඉදිරියේදී වැඩි අවධානයක් යොමු කිරීමට නියමිත බවද එහිදී සඳහන් විය.
+Hector Kobbekaduwa was revealed at the Farmer Research and Training Institute, Hector Kobbekaduwa, the farmer Research and Training Institute.
+
+The event was revealed that the event was due to launch the research papers in the institute.
+
+It was also said that there will be more attention to the dry zone landscape of irrigation for paddy cultivation.
 
 ◼️
 
 [Data](articles/3fc8612f.json)
+
+[Extended Data](ext_articles/3fc8612f.ext.json)
 
 ---
 
@@ -2123,111 +2195,5 @@ Brandix Group Chief Executive Secretary Ashrof Group, CEO of the Brandix Group, 
 [Data](articles/15bcc8c5.json)
 
 [Extended Data](ext_articles/15bcc8c5.ext.json)
-
----
-
-### Sri Lanka packed Pakistan at ICC World Test Championships following a series of success with Bangladesh
-
-*2024-04-03 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180364) · `ta`
-
-Sri Lanka tops Pakistan in ICC World Test Championships, moving to 4th place with 2 wins. They face England in August, then New Zealand and Australia next year. Full success in all series could qualify them for 2025 Championships.
-
-🟩
-
-Sri Lanka, who won the series 2 - 0 in the second Test match in Chatochram by 192 runs, have jumped to Pakistan to 4th.
-
-Sri Lanka scored 12 more points by winning the second match, and so far, with 2 wins, they have reached the 4th place with 50.00 percent points.
-
-Sri Lanka has been slightly shocking the opportunity to advance to the ICC World Test Championships to be held in 2025.
-
-India (68.15%), Australia (62.50%) and New Zealand (50.00%) are in the top 3 in the ICC World Test Championships.
-
-Sri Lanka, which is excited with the current victory in the 2023-2025 ICC World Test championship cycle, will face a three-match series against England in the beginning of August.
-
-Sri Lanka, which will face New Zealand by the end of this year, will welcome Australia early next year.
-
-If Sri Lanka achieves full success in all three series, you will have the opportunity to play in the ICC World Test Championships.
-
-◼️
-
-[Data](articles/afb7286a.json)
-
-[Extended Data](ext_articles/afb7286a.ext.json)
-
----
-
-### Mannar girl abuse;- Prisoner's escape
-
-*2024-04-03 19:18:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னார்-சிறுமி-துஸ்பிரயோகம்-கைதி-தப்பியோட்டம்/72-335575) · `ta`
-
-A 55-year-old man arrested for abusing a 9-year-old girl in Mannar escaped from Vavuniya Hospital.
-
-🟩
-
-The suspect, who was arrested in connection with the abuse of a 9 -year -old girl in Mannar, has fled the Vavuniya hospital.
-
-A 55 -year -old man was arrested on suspicion of abuse of a 9 -year -old girl in Mannar, Talaimannar area and was detained at the Vavuniya Prison on a court order.
-
-The suspect has been admitted to the Vavuniya Hospital last Thursday due to ill health.
-
-◼️
-
-[Data](articles/779a48c9.json)
-
-[Extended Data](ext_articles/779a48c9.ext.json)
-
----
-
-### Island heated by India
-
-*2024-04-03 19:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195267) · `si`
-
-Kachchativu Island's transfer to Sri Lanka is a contentious issue in India, with Prime Minister Narendra Modi facing criticism for the 1974 transfer. The island's vulnerability and the political implications of its ownership have sparked debate, especially ahead of Tamil Nadu's general election on the 19th.
-
-🟩
-
-The transferring Kachchativu Island to Sri Lanka has now become a hot topic of the Indian political stage.
-
-Indian Prime Minister Narendra Modi Kachchathivu Kachchavivu Island is a severe accusation.
-
-From the 19th of this 19th, the state general election will be started in the state of Tamil Nadu from the 19th.
-
-Sri Lanka has the right to the Kachchativu Island in 1974.
-
-The then Prime Minister Indira Gandhi and former Sri Lanka's former Sri Lanka Sirimavo Bandaranaike is the result of a covenant.
-
-The island is the most vulnerable of the island group in Sri Lanka.
-
-The Indian political parties have been in a variety of stable for many years, although Sri Lanka has owned by the Kachchativu Island.
-
-With the general election on the 19th of Tamil Nadu, the island has become the title of the Indian political stage.
-
-It was with the request of Bharatiya People's Party of Tamil Nadu to find Kachchativu Island to be transferred with the right to information to Sri Lanka.
-
-...
-
-[Data](articles/e524b039.json)
-
-[Extended Data](ext_articles/e524b039.ext.json)
-
----
-
-### Interrupting train services on the main road
-
-*2024-04-03 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195266) · `si`
-
-Train services between Maradana and Dematagoda have been interrupted due to a train incident, as reported by the Railway Department.
-
-🟩
-
-Train between Maradana and Dematagoda railway stations, train services have been interrupted due to the department of train.
-
-The Railway Department says a train traveling has been carried out by a train.
-
-◼️
-
-[Data](articles/49f62bb1.json)
-
-[Extended Data](ext_articles/49f62bb1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 19:34:35**
+As of **2024-04-04 19:51:40**
 
 ## Newspaper Stats
 
-*Scraped **17,171** Articles*
+*Scraped **17,175** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
 economynextcom | 944
-adalk | 1,449
+adalk | 1,450
 tamilmirrorlk | 2,034
 adaderanalk | 2,061
-virakesarilk | 2,496
+virakesarilk | 2,497
 dailymirrorlk | 2,637
-adaderanasinhalalk | 2,776
+adaderanasinhalalk | 2,778
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,171 (100.0%) of 17,171 articles have been extended.
+17,171 (100.0%) of 17,175 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### සනත් නිශාන්තගේ නිවසට ගිනිතැබීමේ සිද්ධියේ සැකකරුවන් 68 දෙනාට නිදහස
+
+*2024-04-04 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195310) · `si`
+
+හිටපු අමාත්‍ය සනත් නිශාන්ත මහතාගේ නිවසට ගිනිතැබීමේ සිද්ධිය සම්බන්ධයෙන් හලාවත මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ සැකකරුවන් 68 දෙනෙකු නිදහස් කිරීමට හලාවත අධිකරණය අද (04) තීරණය කළ බව සැකකරුවන් වෙනුවෙන් පෙනී සිටි නීතිඥ ස්විනි පෙරේරා මහතා පැවසීය.
+
+මෙම නඩුවේ සාක්ෂි සඳහා සිටි දෙදෙනාම මිය යෑමත් පොලීසිය සාක්ෂි අධිකරණයට ඉදිරිපත් කිරීමට අපොහොසත් වීමත් හේතුවෙන්  සැකකරුවන් නිදහස් කිරීමට අධිකරණය තීරණය කළ බවද එහිදී නීතිඥවරයා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/4251142b.json)
+
+---
+
+### මෛත්‍රීට එරෙහි වූ චන්ද්‍රිකාගේ පෙත්සම
+
+*2024-04-04 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195309) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා එම ධුරයේ කටයුතු කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය අද (04) වාරණ නියෝගයක් නිකුත් කළේය.
+
+ඒ ශ්‍රී ලංකා නිදහස් පක්ෂයේ අනුශාසකවරියක වශයෙන් කටයුතු කරන හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය ඉදිරිපත් කළ පැමිණිල්ලක් සලකා බැලීමෙන් අනතුරුවය.
+
+හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය ශ්‍රී ලංකා නිදහස් පක්ෂ සභාපති හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතාට එරෙහිව කොළඹ දිසා අධිකරණයේ පෙත්සමක් ගොනු කර තිබුණි.
+
+ඉන් පෙන්වා දී තිබුණේ මෛත්‍රිපාල සිරිසේන මහතා පක්ෂයේ සභාපති ලෙස වගකීම් විරහිත ආකාරයෙන් කටයුතු කිරීම නිසා පක්ෂයට විශාල හානියක් සිදුවූ බවය.
+
+පක්ෂයේ සභාපතිවරයා මෙන්ම රටේ සේනාධිනායකයා වශයෙන් ද කටයුතු කළ මෛත්‍රිපාල සිරිසේන මහතා ජාතික ආරක්ෂාව තහවුරු කිරීමට අපොහොසත් වීම නිසා පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය උද්ගත වූ බව පෙත්සමේ සඳහන් ය.
+
+ඒ සම්බන්ධව වරදකරු වී ඔහුට රුපියල් මිලියන 100 ක වන්දියක් ගෙවීමට අධිකරණයෙන් නියම වී ඇති බවත් චන්ද්‍රිකා බණ්ඩාරනායක මහත්මිය සිය පෙත්සමෙන් පෙන්වා දුනි.
+
+...
+
+[Data](articles/d124cb66.json)
+
+---
+
+### கொங்கிரீட் குழாய் சரிந்து விழுந்ததில் மாணவன் பலி : மஸ்கெலியாவில் சோகம்
+
+*2024-04-04 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180458) · `ta`
+
+மஸ்கெலியா கார்ட்மோர் தமிழ் வித்தியாலயத்தில் கொங்கிரீட் குழாய் ஒன்று சரிந்து விழுந்ததில் மாணவர் ஒருவர் உயிரிழந்துள்ளார்.
+
+கார்ட்மோர் தோட்டத்தில் மலசலகூடத்திற்கான குழியை வெட்டுவதற்குப் பயன்படும் கொங்கிரீட் குழாய்களை பாடசாலை வளாகத்தில் இறக்கி வைத்துள்ளனர்.
+
+அவ்வாறு பாடசாலையில் இறக்கி வைக்கப்பட்டிருந்த குறித்த கொங்கிரீட் குழாய்கள் மீது ஏறி விளையாடியபோது குழாய் ஒன்று மாணவர் ஒருவர் மீது சரிந்து விழுந்ததில் மாணவர் ஒருவர் படுகாயமடைந்துள்ளார்.
+
+இதனையடுத்து, படுகாயமடைந்த மாணவனை ஆசிரியர்களால் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டபோது அவர் இடைநடுவில் உயிரிழந்துள்ளதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/38d67f31.json)
+
+---
 
 ### Several new appointments approved
 
@@ -716,6 +770,8 @@ From learning of the incident, I have seen suicide from two days, but suddenly I
 
 *2024-04-04 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98427/sacred-lord-buddha-relics-from-sri-lanka-presented-to-dalai-lama) · `en`
 
+#WATCH | Himachal Pradesh: Most Venerable Waskaduwe Mahindawamsa Nayaka Thero from of Kapilavastu Rajaguru Sri Sbhuthi Maha Vihara, Waskaduwa, Sri Lanka offers Gautama Buddha’s sacred relic to His Holiness the Dalai Lama.The Kapilavastu relics hold immense historical and… pic.twitter.com/U4Gri76RYv— ANI (@ANI) April 4, 2024
+
 Lord Buddha’s sacred Kapilavastu relics, situated at a holy temple in Sri Lanka, have been offered to the Dalai Lama on Thursday morning, the office of Dalai Lama said in a statement.
 
 The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa, a Buddhist temple in Sri Lanka.
@@ -723,8 +779,6 @@ The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa
 Notably, the Kapilavastu relics hold immense historical and spiritual significance, connecting the devotees to the profound legacy of Lord Buddha.
 
 The Sri Subhuthi Maha Viharaya in Waskaduwa houses 21 relics of the Lord Buddha.
-
-Waskaduwe Mahindawansa Maha Nayaka Thero is the custodian of these precious Kapilavastu relics, which have been preserved and protected for generations till now at Sri Subhuthi Maha Viharaya in Waskaduwa, Sri Lanka.
 
 ...
 
@@ -1496,6 +1550,24 @@ The special press conference was held at the Sri Lanka Freedom Party Headquarter
 
 ---
 
+### රජය ණය සහ පොලිය වශයෙන්  ඇ.ඩො. මිලියන 1,909.7 ක් ගෙවා අවසන්
+
+*2024-04-04 13:53:25* · [`adalk`](https://www.ada.lk/breaking_news/රජය-ණය-සහ-පොලිය-වශයෙන්--ඇ-ඩො--මිලියන-1-909-7-ක්-ගෙවා-අවසන්/11-408948) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ජනාධිපති ධූරයට පත්වූ දිනයේ සිට 2024 පෙබරවාරි දක්වා කාලය තුල ශ්‍රී ලංකා රජය ඇමරිකානු ඩොලර් මිලියන 1909.7 ක් විදේශ ණය හා පොලිය වශයෙන් ගෙවා ඇතැයි හිටපු ආණ්ඩුකාර රජිත් කීර්ති තෙන්නකෝන් මහතා නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+ශ්‍රී ලංකා රජය 2022 ජූලි 21 දින සිට 2024 පෙබරවාරි දක්වා බහු පාර්ශවීය ණය (IMF, WB, ADB වැනි) සහ පොලිය වශයෙන් ඩොලර් මිලියන 1338.8 ක් ගෙවා ඇත. 2024 පෙබරවාරි දක්වා ගෙවීමට නියමිත ණය වාරික සහ පොලියේ කිසිදු හිඟ මුදලක් නැත.
+
+ශ්‍රී ලංකා රජය ණය වාරික හා පොලිය ගෙවීම සිදු නොකරන බවට සමාජ මාධ්‍ය හරහා ගෙන යන ප්‍රචාරයේ කිසිදු සත්‍යතාවයක් නැතැයි තෙන්නකෝන් මහතා පවසයි.
+
+ආසියානු සංවර්ධන බැංකුව, ජාත්‍යන්තර මුල්‍ය අරමුදල, ලෝක බැංකුව ප්‍රමුඛ ආයතන රජයට දිගින් දිගටම ණය සහ වෙනත් සහන ලබා දෙමින් ඇත්තේ රජයේ මේ ණය ගෙවීමේ ප්‍රශස්ත වාර්තාව නිසාය.
+
+...
+
+[Data](articles/aad3f374.json)
+
+---
+
 ### Two new train services start tomorrow
 
 *2024-04-04 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180419) · `ta`
@@ -2193,103 +2265,5 @@ The arrest of the three men, who had arrested the three men, seized the cows and
 [Data](articles/0a6893e6.json)
 
 [Extended Data](ext_articles/0a6893e6.ext.json)
-
----
-
-### People should reduce the prices of goods to celebrate the festival of people - Radhakrishnan
-
-*2024-04-04 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180404) · `ta`
-
-Radhakrishnan urges reducing goods prices for the festive season to match people's income, ensuring peace and happiness. He also calls for government support for plantation workers and those affected by import commodity price drops.
-
-🟩
-
-The festive season has begun this month. So people start buying more items during this time. But the financial situation for purchase is not correct.
-
-Velusamy Radhakrishnan, the leader of the Upcountry People's Front and Member of Parliament, said that the cost of goods during this period was reduced to suit the income of the people.
-
-The festival has begun in all gardens in the hill country. People are ready to celebrate the New Year on the same occasion. But the government should take steps to reduce the prices of commodities to celebrate people with peace and happiness.
-
-At the same time, even if the government reduces the prices of commodities, the government should provide facilities to the plantation people.
-
-Radhakrishnan added that the government should take steps to reduce the prices of goods at low prices for the people who reduce the prices of import commodities due to the decline in dollar majority, especially when the prices of the local products are reduced.
-
-◼️
-
-[Data](articles/4dfb2628.json)
-
-[Extended Data](ext_articles/4dfb2628.ext.json)
-
----
-
-### Only a container of a ship crashed in the United States was planning to die in Sri Lanka - Minister Nimal
-
-*2024-04-04 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/180403) · `ta`
-
-Minister Nimal Siripala de Silva reported that a container from the Dali cargo vessel, carrying dangerous goods, crashed in Baltimore, USA, en route to Sri Lanka. The ship was not headed to Colombo, and the Minister emphasized the importance of reporting shipments for transparency and safety.
-
-🟩
-
-Minister Nimal Siripala de Silva said that 56 containers were found on the Dali cargo vessel with dangerous goods.
-
-The Minister said that the ship that crashed into a bridge in Baltimore, USA was traveling with dangerous items to Sri Lanka.
-
-The Minister said that the Colombo port is not the final goal of the specified ship.
-
-The Minister said that two days before reaching the port in accordance with the International Maritime regulations, the Minister said that the Minister should report on the shipment to ensure transparency and safety procedures.
-
-The Minister said that it is impossible to return such ships that are common and dangerous to ships like Dolly.
-
-◼️
-
-[Data](articles/2cafda8b.json)
-
-[Extended Data](ext_articles/2cafda8b.ext.json)
-
----
-
-### Kokayin by plane from South Africa to Sri Lanka: Three arrested
-
-*2024-04-04 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180401) · `ta`
-
-Three arrested for allegedly shipping cocaine from South Africa to Sri Lanka.
-
-🟩
-
-Three persons have been arrested by the police narcotics unit, including a man who went to the supplies station at the Customs Unit of the Customs Unit of the Customs Unit of the Customs Unit for allegedly shipping from South Africa to Sri Lanka.
-
-Two more suspects have been arrested by police for helping the importation of cocaine drugs to Sri Lanka during the investigation into the suspect.
-
-◼️
-
-[Data](articles/501c0644.json)
-
-[Extended Data](ext_articles/501c0644.ext.json)
-
----
-
-### Defamation
-
-*2024-04-04 11:36:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொக்குத்தொடுவாய்-அகழ்வுப்பணி-ஒத்திவைப்பு/175-335604) · `ta`
-
-A human burial excavation in Kokkudoduwai, Mullaitivu District, began on 06.09.2023, recovering 17 trunks in the first phase and 40 skeletal blocks in the second phase, which ended in March 2023 due to funding issues. The remains date back to 1994-1996.
-
-🟩
-
-The case relating to the human burial excavation, found in Kokkudoduwai area of Mullaitivu District on 29.06.2023, was taken up at the Mullaitivu Magistrate's Court today (04)
-
-Mullaitivu District Legal Medical Officer Kanagasabapathi VasudevaWere in front of
-
-Mullaitivu District Secretariat Chief Accountant Mayilvankanam Selvaratnam has informed the court that the ministry has said that the excavation has been increased.
-
-The first phase of the human burial ground in the Kokkudoduwai area of the Mullaitivu district began on 06.09.2023 and held eleven days after the recovery of 17 trunks.
-
-The second phase of the excavation was started on 20.11.2023 and a consecutive day of nine consecutive days has been recovered and a total of 40 skeletal blocks have been recovered and the second phase has been suspended.
-
-...
-
-[Data](articles/3f040036.json)
-
-[Extended Data](ext_articles/3f040036.ext.json)
 
 ---

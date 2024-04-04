@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 16:17:54**
+As of **2024-04-04 16:33:25**
 
 ## Newspaper Stats
 
-*Scraped **17,136** Articles*
+*Scraped **17,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
 economynextcom | 944
-adalk | 1,445
+adalk | 1,446
 tamilmirrorlk | 2,034
-adaderanalk | 2,057
+adaderanalk | 2,059
 virakesarilk | 2,486
 dailymirrorlk | 2,633
-adaderanasinhalalk | 2,766
+adaderanasinhalalk | 2,767
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,134 (100.0%) of 17,136 articles have been extended.
+17,136 (100.0%) of 17,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### IOC in talks with state nuclear firm for small reactors –report
+
+*2024-04-04 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98429/ioc-in-talks-with-state-nuclear-firm-for-small-reactors-report-) · `en`
+
+State-run Indian Oil Corp. Ltd. is in preliminary talks with India’s atomic power monopoly to build small nuclear units, an early-stage technology seen as a cost-effective alternative to larger plants.
+
+The refiner and fuel retailer is exploring a partnership with state-controlled Nuclear Power Corp. of India Ltd. to use small modular reactors, or SMRs, in its refineries for clean power, Alok Sharma, Indian Oil’s director for research and development, said at a conference in New Delhi Wednesday.
+
+As several bigger projects face delays, policymakers are promoting small-scale nuclear technology with a capacity of up to 300 megawatts, which is quicker to build and easier to adjust to the requirements of the grid. To boost the nascent sector, the Indian government is considering allowing private firms to manage and operate reactors.
+
+...
+
+[Data](articles/2fabf9aa.json)
+
+---
+
+### මෙරට මුඛ පිළිකා හේතුවෙන් දෛනිකව තිදෙනෙකු මරුට
+
+*2024-04-04 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195298) · `si`
+
+මෙරට බහුලම පිළිකා රෝගය වන මුඛ පිළිකා හේතුවෙන් දෛනිකව පුද්ගලයන් තිදෙනෙකු මියයන බව මහරගම මුඛ සෞඛ්‍ය විද්‍යායතනයේ විශේෂඥ වෛද්‍ය නිලන්ත රත්නායක මහතා පවසයි.
+
+දෛනිකව මුඛ පිළිකා රෝගීන් 06 දෙනෙකු පමණ අලුතින් හඳුනාගන්නා බවද ඔහු පැවසීය.
+
+මුඛ සෞඛ්‍ය පිළිබඳව දැනුවත් කිරීමේ වැඩමුළුවකට එක්වෙමින් විශේෂඥ වෛද්‍ය නිලන්ත රත්නායක මහතා මේ බව කියා සිටියේය.
+
+මෙරට වයස අවුරුදු 05 දරුවන්ගෙන් සියයට 63කගේ දත් දිරාගොස් ඇති බව ද ඔහු එහිදී පෙන්වා දුන්නේය.
+
+කුඩා දරුවන්ගෙන් බහුතරය රාත්‍රී නින්දට පෙර දත්මැදීම සිදුනොකරන බවට පාසල් සෞඛ්‍ය සමීක්ෂණවලදී අනාවරණය වී ඇති බව විශේෂඥ වෛද්‍ය නිලන්ත රත්නායක මහතා පැවසීය.
+
+◼️
+
+[Data](articles/ff022e61.json)
+
+---
+
+### Katchatheevu issue: ‘If India crosses sea boundary, it will be seen as violation of sovereignty’
+
+*2024-04-04 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98428/katchatheevu-issue-if-india-crosses-sea-boundary-it-will-be-seen-as-violation-of-sovereignty) · `en`
+
+Amid the attempts of India’s Bharatiya Janata Party (BJP) to reignite the decades-old Katchatheevu issue ahead of the general elections, former Sri Lankan envoy to India Austin Fernando said the party may have invoked a “vote-puller” but it would be difficult for the Indian government to step back after the elections, which is a “problem”.
+
+A widely respected and experienced official, Fernando was speaking with The Indian Express over the phone from Colombo on Wednesday. He said if the Indian government crosses the Sri Lankan maritime international boundary line, it would be seen as a “violation of Sri Lankan sovereignty”, as he recalled Sri Lankan President Ranasinghe Premadasa’s statements on the Indian Peacekeeping Force in late 1980s.
+
+...
+
+[Data](articles/4f52c0dc.json)
+
+---
 
 ### Sacred lord Buddha relics from Sri Lanka presented to Dalai Lama
 
@@ -69,6 +119,8 @@ Misty conditions can be expected at some places in the Western, Central and Saba
 ◼️
 
 [Data](articles/347d4567.json)
+
+[Extended Data](ext_articles/347d4567.ext.json)
 
 ---
 
@@ -122,19 +174,25 @@ The remains are placed at the Karapitiya Hospital while the Galle Police are con
 
 ---
 
-### විජය පුවත්පත් කාර්ය මණ්ඩලයට නැකතට පැළයක්
+### Vijaya Newspaper staff
 
 *2024-04-04 15:40:08* · [`adalk`](https://www.ada.lk/breaking_news/විජය-පුවත්පත්-කාර්ය-මණ්ඩලයට-නැකතට-පැළයක්/11-408954) · `si`
 
-සිංහල හා දමිළ අලුත් අවුරුද්ද නිමිත්තෙන් එළඹෙන 18වැනිදා පෙරවරු 10.16ට යෙදී ඇති පැළ සිටුවීමේ නැකතේදී, සමස්ත දිවයිනම ආවරණය වන පරිදි ගෙවතු වගා වැඩසටහනක් මෙවරද ක්‍රියාත්මක කිරීමට කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය කටයුතු යොදා තිබේ.
+The Ministry of Agriculture is launching a home gardening program to celebrate Sinhala and Tamil New Year, with Minister Mahinda Amaraweera encouraging public participation. Vijaya Newspaper staff received fruit plants from the Wijaya Press Company Welfare Association.
 
-නැකතට පැළයක්- ජාතියට හුස්ම දෙන නැකත ලෙස නම්කර ඇති මෙම ජාතික පැළ රෝපණය කිරීමේ වැඩසටහනේදී ඵලදායී පැළයක් රෝපණය  කරන ලෙස විෂයභාර අමාත්‍ය මහින්ද අමරවීර මහතා ජනතාවගෙන් ඉල්ලා සිටී.
+🟩
 
-මේ අතර මීට සමගාමීව විජය පුවත්පත් සමාගමේ කාර්ය මණ්ඩලයට පලතුරු පැළ බෙදා දීම අමාත්‍යවරයා විසින් එම ආයතන පරිශ්‍රයේදී අද (04දා) උදෑසන සිදුකරන ලදී. විජය පුවත්පත් සමාගමේ සුබසාධක සංගමය විසින් සංවිධානය කරන ලද මෙම වැඩසටහනට සමාගමේ අධ්‍යක්ෂ ලාල් ජයවර්ධන, දිනපතා ලංකාදීප පුවත්පතෙහි ප්‍රධාන කර්තෘ අජන්ත කුමාර අගලකඩ, ඉරිදා ලංකාදීප පුවත්පතෙහි ප්‍රධාන කර්තෘ කාංචන දසනායක, සුබසාධක සංගමයේ සභාපති, අද පුවත්පත්හි ප්‍රධාන කර්තෘ දුමින්ද සංජීව බාලසූරිය යන මහත්වරුන්ද එක්ව සිටියහ.
+The Ministry of Agriculture and Plantation Industries have taken measures to implement a home gardening program to cover up the trees of the Sinhala and Tamil New Year.
+
+Minister Mahinda Amaraweera requests the public to plant a productive plant in the planting program, which has been named as a nation-breathing reaction to the nation.
+
+Meanwhile, the Minister made the distribution of fruit plants to the staff of the Vijaya Newspapers in parallel.. Organized by the Wijaya Press Company Welfare Association Lal Jayawardena, Chairman of the Lankapadaka, Sunday Lankadeepa, and Duminda Sanjeewa Balasuriya were also present.
 
 ◼️
 
 [Data](articles/1e828b52.json)
+
+[Extended Data](ext_articles/1e828b52.ext.json)
 
 ---
 
@@ -557,6 +615,22 @@ The suspect is to be produced before the Colombo Chief Magistrate's Court.
 [Data](articles/31221739.json)
 
 [Extended Data](ext_articles/31221739.ext.json)
+
+---
+
+### උපෙළ ප්‍රථිපල මැයි මුල - සාපෙල විභාගය මැයි මැද
+
+*2024-04-04 14:38:21* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළ ප්‍රථිපල-මැයි-මුල---සාපෙල-විභාගය-මැයි-මැද/11-408953) · `si`
+
+අපොස සාමාන්‍ය පෙළ විභාගය ලබන මැයි මස මැද දී පැවැත්වීමේ විභාග කාලසටහන් මේ වන විටත් සකසා අවසන් ව ඇති අතර පවත්වන ලද අපොස උසස් පෙළ විභාග ප්‍රතිඵල එම විභාගය පැවැත්වීමට පෙර මැයි මස මුල දී ලබා දීමට උපරිම උත්සාහයක් දරන බව  අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+
+අමාත්‍යවරයා මේ බව සඳහන් කළේ ජාතික විද්‍යා පදනම විසින් සංවිධානය කරන ලද ‘පර්යේෂණ උපාධි අධීක්ෂණය කිරීම’ සඳහා දායක වූ ශ්‍රී ලාංකීය පරියේෂණ උපාධි අධීක්ෂකයන් සම්මානයට පාත්‍ර කිරීම වෙනුවෙන් අධ්‍යාපන අමාත්‍යාංශයීය ශ්‍රවණාගාරයේ පැවති සම්මාන උළෙලට ප්‍රධාන ආරාධිතයා ලෙස සහභාගී වෙමිනි.
+
+එසේ ම උත්තර පත්‍ර පරීක්ෂකවරුන්ගේ දීමනා වැඩි කිරීමට අදාළ ව පත් කරන ලද ඒකාබද්ධ කමිටුවේ වාර්තා ලැබී ඇති අතර ඉදිරි සති කිහිපය ඇතුළට ඊට අදාළ අනුමැතිය ලබා ගැනීමට ක්‍රියා කරන බව ද අමාත්‍යවරයා මෙහි දී වැඩිදුරටත් පැවසී ය. සාමාන්‍ය පෙළ විභාග පරීක්ෂකවරුන් 35,000ක් හා උසස් පෙළ විභාග පරීක්ෂකවරුන් 19,000 පමණ සිටින අතර මේ සියලු දෙනාට සෑහීමකට පත් විය හැකි මට්ටමේ දීමනාවක් ලැබෙනු ඇතැයි තමන් අපේක්ෂා කරන බව ද හෙතෙම මෙහි දී පැවසී ය.
+
+◼️
+
+[Data](articles/ae6896cb.json)
 
 ---
 
@@ -2189,91 +2263,5 @@ He contested the 2020 parliamentary election as a candidate of the Sri Lanka Peo
 [Data](articles/7eef91c7.json)
 
 [Extended Data](ext_articles/7eef91c7.ext.json)
-
----
-
-### Man arrested with over 76,000 narcotic pills in Panadura
-
-*2024-04-04 09:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98411/man-arrested-with-over-76000-narcotic-pills-in-panadura) · `en`
-
-A 38-year-old man, who was in possession of a large cache of narcotic pills and cannabis, has been arrested in Hirana, Panadura.
-
-The arrest was made by the Kalutara Police Crimes Division in the early hours of Thursday (04).
-
-As many as 76,796 narcotic pills used instead of heroin and 1kg of cannabis were found on the suspect at the time of the arrest.
-
-In another development, three individuals including a Nigerian national were arrested for being implicated in cocaine distribution.
-
-The Police Narcotics Bureau (PNB) officials attached to the Bandaranaike International Airport (BIA) in Katunayake have made the arrest acting on a tip-off concerning a parcel received by a delivery company in Orugodawatta. The parcel had been sent from South Africa via Dubai, UAE.
-
-The arrestees – two Sri Lankans aged 25 and 30 and a Nigerian aged 38 – were detained for 7 days for interrogation after being produced before the Maligakanda Magistrate’s Court.
-
-◼️
-
-[Data](articles/8bbfdbcd.json)
-
-[Extended Data](ext_articles/8bbfdbcd.ext.json)
-
----
-
-### Suspect arrested with special drugs and cannabis
-
-*2024-04-04 08:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195279) · `si`
-
-In Sirana, Panadura, a suspect was arrested for possessing special drugs and cannabis, with 76,796 liters and a kilogram of cannabis seized.
-
-🟩
-
-A person was arrested in Sirana, Panadura, Panadura, who is said to be used instead of heroin.
-
-Police also seized 76,796 litiga and a kilogram of cannabis.
-
-◼️
-
-[Data](articles/89745109.json)
-
-[Extended Data](ext_articles/89745109.ext.json)
-
----
-
-### Historic day for Sri Lanka with South Africa series clinched
-
-*2024-04-04 08:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Historic-day-for-Sri-Lanka-with-South-Africa-series-clinched/108-280154) · `en`
-
-South Africa, April 4 (ICC) - Sri Lanka's women's side created history in East London on Wednesday as they registered their first series triumph over South Africa in any format.
-
-The series victory was confirmed when Sri Lanka claimed a narrow four-wicket win over South Africa in the third and final match of their series in what was their highest successful run chase of all time in T20I cricket.
-
-Sri Lanka's previous highest successful run chase came more than 10 years ago, when Chamari Athapaththu scored 21 to help her side sneak past India's total of 147/3 in Vizianagaram with just one delivery remaining and the experienced opener was among the runs again this time around in South Africa.
-
-Chamari hit a superb 73 from just 46 deliveries and No.3 Harshitha Samarawickrama chipped in with an unbeaten 54 as Sri Lanka ran down South Africa's decent total of 155/6 with five deliveries remaining.
-
-...
-
-[Data](articles/6824abae.json)
-
-[Extended Data](ext_articles/6824abae.ext.json)
-
----
-
-### Sri Lanka private banks unlikely to need state recapitalization
-
-*2024-04-04 08:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-banks-unlikely-to-need-state-recapitalization-157467/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s private banks may not need government support based on latest financial results but the impact of state enterprise loans and sovereign bond restructuring still needs to be assessed, Deputy Central Bank Governor Yvette Fernando said.
-
-The government allocated 450 billion rupees in the 2024 budget for bank recapitalization, based on a 2022 assets quality review, Fernando told an economic forum organized by the Asian Development Bank.
-
-Sri Lanka’s banks have now been asked to re-evaluate capital needs.
-
-Private banks are likely to meet capital requirements on their own without government support, leaving only state banks to use budget resources, she said.
-
-Sri Lanka’s banks were hit by bad loans from Coronavirus pandemic and the currency crisis and default.  Banks also had to provide for sovereign bond restructuring, though they were spared of rupee bond restructuring. As a result bond yields are now falling.
-
-...
-
-[Data](articles/badab1ac.json)
-
-[Extended Data](ext_articles/badab1ac.ext.json)
 
 ---

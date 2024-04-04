@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 06:17:43**
+As of **2024-04-04 06:55:31**
 
 ## Newspaper Stats
 
-*Scraped **16,997** Articles*
+*Scraped **17,008** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ bbccomsinhala | 177
 dbsjeyarajcom | 207
 newsfirstlk | 363
 dailyftlk | 929
-islandlk | 932
 economynextcom | 942
+islandlk | 943
 adalk | 1,430
 tamilmirrorlk | 2,018
 adaderanalk | 2,037
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,996 (100.0%) of 16,997 articles have been extended.
+16,997 (99.9%) of 17,008 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -171,6 +171,22 @@ The latter stages of this long-delayed project was undertaken and completed by P
 [Data](articles/99dac576.json)
 
 [Extended Data](ext_articles/99dac576.ext.json)
+
+---
+
+### President bestows awards on 30 BOI companies
+
+*2024-04-04 03:39:00* · [`islandlk`](http://island.lk/president-bestows-awards-on-30-boi-companies/) · `en`
+
+Addressing attendees at the Board Of Investment (BOI) Awards Ceremony held at the Presidential Secretariat on Tuesday (02), President Ranil Wickremesinghe commended the pivotal role played by companies under the purview of the Board of Investment in driving Sri Lanka’s economic growth and affirmed his commitment to bolstering the nation’s economy through the establishment of competitive investment avenues.
+
+The ceremony coincided with the 45th Anniversary of the Board of Investment, during which the President bestowed 30 awards upon companies for their noteworthy contributions to foreign direct investment and export performance, as well as recognizing longstanding active participants.
+
+Brandix Group CEO Ashraf Omar, MAS Holdings Co-Founder and Chairman Deshamanya Mahesh Amalean, and Sail Lanka Yacht Group Chairman Pierre Pringiers  received special accolades for their contributions to the Sri Lankan economy.
+
+...
+
+[Data](articles/4e2b9d03.json)
 
 ---
 
@@ -774,6 +790,90 @@ The spirit of the Sutta signifies a teaching that is exempt from fanaticism, big
 
 ---
 
+### New leadership takes the helm at Expolanka
+
+*2024-04-03 23:35:00* · [`islandlk`](http://island.lk/new-leadership-takes-the-helm-at-expolanka/) · `en`
+
+Expolanka Holdings appoints Bokuto Yamauchi, a seasoned industry expert with a wealth of experience in logistics as the Group CEO of Expolanka Holdings and President of EFL Global. Yamauchi’s appointment reflects Expolanka’s commitment to maintaining its position as a market leader, he brings a wealth of experience and expertise to his new role, having spent close to two decades honing his skills in various facets of the logistics business.
+
+As CEO of SG Global Japan, Yamauchi’s strategic vision and dynamic leadership have propelled the company to success.
+
+As the logistics industry continues to evolve rapidly, Expolanka under Yamauchi’s stewardship is primed to address evolving customer needs. The transition marks a continuation of Expolanka’s legacy of excellence and innovation. With a strong foundation built by Yusoof and a visionary leader like Yamauchi at the helm, Expolanka is poised to write the next chapter in its storied history.
+
+...
+
+[Data](articles/ee26b72c.json)
+
+---
+
+### SEC and CSE successfully conduct investor forum in Nuwara Eliya, raising awareness on the investment opportunities in stock market
+
+*2024-04-03 23:34:00* · [`islandlk`](http://island.lk/sec-and-cse-successfully-conduct-investor-forum-in-nuwara-eliya-raising-awareness-on-the-investment-opportunities-in-stock-market/) · `en`
+
+The Securities and Exchange Commission of Sri Lanka (SEC) in collaboration with the Colombo Stock Exchange (CSE) conducted an Investor Forum held in Nuwara Eliya on the 21st of March at the Hotel Araliya Red – Nuwara Eliya.
+
+The forum was organized with the objective of raising awareness on the importance of investor education with regard to the investment opportunities that exist in the Stock Market and investor protection. It attracted over 200 participants, providing valuable insights to both potential and existing investors in the region.
+
+The forum consisted of two sessions which was in Tamil and Sinhala medium in order to ensure that investors were provided with a beneficial forum devoid of language barriers.
+
+...
+
+[Data](articles/7f7fca92.json)
+
+---
+
+### Adani Green Energy surpasses 10,000 MW renewable energy
+
+*2024-04-03 23:32:00* · [`islandlk`](http://island.lk/adani-green-energy-surpasses-10000-mw-renewable-energy/) · `en`
+
+Adani Green Energy Limited (AGEL), one of the world’s leading renewable energy (RE) companies, has surpassed 10,000 megawatts (MW) of operational portfolio, delivering reliable, affordable, and clean power to the national grid. AGEL’s operational portfolio consists of 7,393 MW solar, 1,401 MW wind and 2,140 MW wind-solar hybrid capacity. The milestone is a testament to AGEL and its development partners firmly moving towards the goal of 45,000 GW renewable energy by 2030.
+
+AGEL’s 10,934 MW operational portfolio will power more than 5.8 million homes and avoid about 21 million tonnes of CO2 emissions annually.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/25f25348.json)
+
+---
+
+### ComBank opens newly built Kegalle Branch
+
+*2024-04-03 23:31:00* · [`islandlk`](http://island.lk/combank-opens-newly-built-kegalle-branch/) · `en`
+
+The Commercial Bank of Ceylon recently moved its Kegalle branch to a spacious new two storey building at the same location, designed to better serve customers in this bustling municipality.
+
+The branch at No 186, Main Street, Kegalle, is a fully-fledged banking operation that also offers two Automated Teller Machines (ATM) and two Cash Recycler Machines (CRM) to provide round-the-clock digital services to customers.
+
+The Bank said enhanced parking facilities have been added to the location. The branch provides Kegalle residents as well as entrepreneurs access to a versatile portfolio of products and services, including lending products such as personal loans, home loans, leasing facilities and pawning facilities, in addition to SME banking services and a range of savings products.
+
+SLT-MOBITEL hosts National Celebration of World Seagrass Day 2024 and UN Restoration Flagship Award ceremony
+
+ComBank engages with female staff countrywide at Women’s Day event
+
+...
+
+[Data](articles/3799836e.json)
+
+---
+
+### Banking sector transactions trigger bullish spurt in stock market
+
+*2024-04-03 23:27:00* · [`islandlk`](http://island.lk/banking-sector-transactions-trigger-bullish-spurt-in-stock-market/) · `en`
+
+Though it started off on a negative note yesterday the stock market picked up steam towards the latter part of the day and turned extremely bullish due to notable activities in the banking sector.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 114 points, while S and P SL 20 rose by 64.81 points. Turnover stood at Rs 2.1 billion with four crossings. Those crossings were reported in NTM, where 200,000 shares crossed to the tune of Rs 22 million and its shares traded at Rs 110, Pan Asia Bank 1million shares crossed for Rs 21.7 million; its shares traded at Rs 21.70, NTB 300,000 shares crossed for Rs 21.15 million; its shares sold at Rs 70.50 and JKH 102,000 shares crossed to the tune of Rs 20.1 million; its shares fetched Rs 198.
+
+...
+
+[Data](articles/9d00a231.json)
+
+---
+
 ### Women under 19
 
 *2024-04-03 23:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180368) · `ta`
@@ -821,6 +921,8 @@ It also emphasized that it would, under no circumstances, remain silent when att
 ...
 
 [Data](articles/0e3aea82.json)
+
+[Extended Data](ext_articles/0e3aea82.ext.json)
 
 ---
 
@@ -2113,137 +2215,5 @@ It is reported that they have been sent to Sri Lanka after considering a demand 
 [Data](articles/523cd679.json)
 
 [Extended Data](ext_articles/523cd679.ext.json)
-
----
-
-### Additional trains in operation during Avurudu season
-
-*2024-04-03 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98399/additional-trains-in-operation-during-avurudu-season) · `en`
-
-Sri Lanka Railways says additional trains will be up and running from 10 April (Wednesday) until 15 April (Monday) in view of the upcoming Sinhala and Tamil New Year season.
-
-Accordingly, the following trains will be operated in addition to the regular long-distance trains during the aforementioned period.
-
-◼️
-
-[Data](articles/9c838522.json)
-
-[Extended Data](ext_articles/9c838522.ext.json)
-
----
-
-### Special train schedule to be in place for Avurudu season
-
-*2024-04-03 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98399/special-train-schedule-to-be-in-place-for-avurudu-season) · `en`
-
-Sri Lanka Railways says additional trains will be up and running from 10 April (Wednesday) until 15 April (Monday) in view of the upcoming Sinhala and Tamil New Year season.
-
-Accordingly, the following trains will be operated in addition to the regular long-distance trains during the aforementioned period.
-
-◼️
-
-[Data](articles/dc6b45e8.json)
-
-[Extended Data](ext_articles/dc6b45e8.ext.json)
-
----
-
-### Suspect injured in police cell
-
-*2024-04-03 16:27:32* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-සිරමැදිරියේදී-සිටියදී-ඇද-වැටුණු-සැකකරුවෙක්-රෝහලේ/11-408927) · `si`
-
-A resident of Payagala, arrested on an open warrant, was injured in a police cell and hospitalized.
-
-🟩
-
-A suspect, a resident of the Payagala, Payagala, a resident of the Ahagala area in Payagala, has been hospitalized this afternoon.
-
-It is reported that the hospital was arrested on an open warrant and detained the prison in Payagala.
-
-◼️
-
-[Data](articles/f4603949.json)
-
-[Extended Data](ext_articles/f4603949.ext.json)
-
----
-
-### Drivers arrested with 4 vehicles carrying sand without permit
-
-*2024-04-03 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180342) · `ta`
-
-Chavakachcheri police arrested four drivers and seized four vehicles for illegal sand excavation and smuggling without permits on Wednesday, 03/04.
-
-🟩
-
-Inside the Chavakachiri police division, four vehicles have been seized by the police and the drivers have been seized by the police.
-
-Chavakachcheri police have arrested a driver who was engaged in illegal sand excavation in the early hours of Wednesday morning on Wednesday morning on Wednesday, 03/04.
-
-Chavakachcheri police have arrested three tipper vehicles and its drivers who were involved in sand smuggling on Tuesday without a proper permit.
-
-◼️
-
-[Data](articles/e883d08b.json)
-
-[Extended Data](ext_articles/e883d08b.ext.json)
-
----
-
-### The people of Divulapitiya calls for an atmosphere that can live freely
-
-*2024-04-03 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195259) · `si`
-
-Divulapitiya residents demand removal of safe watch, citing hindrance to free living. A petition to the Supreme Court, supported by local ministers, accuses government and village activities of political interference, affecting Sinhalese livelihoods since 1974.
-
-🟩
-
-A fundamental rights petition has been filed before the Supreme Court demanding an order to be taken to remove the safe watchpace in the village of Divulapitiya.
-
-The fundamental rights petition has been presented in the Supreme Court as to remove the safe watch in the village of the Divulaya village, where the majority of the Sinhalese in the Ampara District.
-
-The petition was presented by a group of Ven
-
-Minister of Irrigation Minister Pavithra Wanniarachchi, Minister of Tourist Minister Harin Fernando, Eastern Province, has been named by Senior DIG in charge of the Eastern Province.
-
-The petitioners claim that Sinhalese have lived from the Divulapura village.
-
-By 1974, 618 Sinhalese families have lived in the village by 1974.
-
-However, the petition accuses the activities of the village, including the activities of the government, and the activities of the villages, which have been built around the village.
-
-...
-
-[Data](articles/ed78a3ad.json)
-
-[Extended Data](ext_articles/ed78a3ad.ext.json)
-
----
-
-### The Constitution of the country has not been enacted at the wishes of the IMF - Saritha Herath
-
-*2024-04-03 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180339) · `ta`
-
-The Constitution wasn't enacted due to IMF's wishes. President won't hold elections until IMF projects are done. Sri Lanka's IMF operations ended in July. President decides on elections, aiming for September or October.
-
-🟩
-
-The Constitution of the country has not been enacted at the will of the International Monetary Fund.
-
-Reports have surfaced that the President will not hold any election until the IMF has completed projects with the IMF.. The president does not have the authority to decide on the presidential election.
-
-Sri Lanka's operations with the IMF are said to be completed in July. The president has the power to decide on public elections.
-
-The presidential election should be held in September or October.
-
-The Constitution of the country has not been enacted at the will of the International Monetary Fund.
-
-We are in talks with all parties on the issue of the presidential candidate.
-
-◼️
-
-[Data](articles/6b801cb1.json)
-
-[Extended Data](ext_articles/6b801cb1.ext.json)
 
 ---

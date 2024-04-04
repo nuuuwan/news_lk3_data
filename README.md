@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 03:50:53**
+As of **2024-04-05 04:03:07**
 
 ## Newspaper Stats
 
@@ -1820,8 +1820,6 @@ From learning of the incident, I have seen suicide from two days, but suddenly I
 
 *2024-04-04 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98427/sacred-lord-buddha-relics-from-sri-lanka-presented-to-dalai-lama) · `en`
 
-#WATCH | Himachal Pradesh: Most Venerable Waskaduwe Mahindawamsa Nayaka Thero from of Kapilavastu Rajaguru Sri Sbhuthi Maha Vihara, Waskaduwa, Sri Lanka offers Gautama Buddha’s sacred relic to His Holiness the Dalai Lama.The Kapilavastu relics hold immense historical and… pic.twitter.com/U4Gri76RYv— ANI (@ANI) April 4, 2024
-
 Lord Buddha’s sacred Kapilavastu relics, situated at a holy temple in Sri Lanka, have been offered to the Dalai Lama on Thursday morning, the office of Dalai Lama said in a statement.
 
 The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa, a Buddhist temple in Sri Lanka.
@@ -1829,6 +1827,8 @@ The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa
 Notably, the Kapilavastu relics hold immense historical and spiritual significance, connecting the devotees to the profound legacy of Lord Buddha.
 
 The Sri Subhuthi Maha Viharaya in Waskaduwa houses 21 relics of the Lord Buddha.
+
+Waskaduwe Mahindawansa Maha Nayaka Thero is the custodian of these precious Kapilavastu relics, which have been preserved and protected for generations till now at Sri Subhuthi Maha Viharaya in Waskaduwa, Sri Lanka.
 
 ...
 

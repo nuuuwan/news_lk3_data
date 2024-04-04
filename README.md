@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 16:03:31**
+As of **2024-04-04 16:17:54**
 
 ## Newspaper Stats
 
-*Scraped **17,134** Articles*
+*Scraped **17,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
 economynextcom | 944
-adalk | 1,444
+adalk | 1,445
 tamilmirrorlk | 2,034
 adaderanalk | 2,057
 virakesarilk | 2,486
-dailymirrorlk | 2,632
+dailymirrorlk | 2,633
 adaderanasinhalalk | 2,766
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,130 (100.0%) of 17,134 articles have been extended.
+17,134 (100.0%) of 17,136 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,43 +50,91 @@ Waskaduwe Mahindawansa Maha Nayaka Thero is the custodian of these precious Kapi
 
 [Data](articles/98301144.json)
 
+[Extended Data](ext_articles/98301144.ext.json)
+
 ---
 
-### පාර්ලිමේන්තුවෙන් මැතිවරණ කොමිසමට දැනුම්දීමක්
+### Sun directly over Sri Lanka for 10 days
+
+*2024-04-04 15:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sun-directly-over-Sri-Lanka-for-10-days/108-280189) · `en`
+
+Colombo, April 4 (Daily Mirror) - The sun is expected to be directly over Sri Lanka from April 5 to April 15, as a result of its apparent northward relative motion, the Forecasting Division of the National Meteorological Centre said.
+
+Accordingly, the nearest areas in Sri Lanka where the sun will be directly above are Balapitiya, Elpitiya, Morawaka and Tissamaharama at around 12:12 noon, the Department said.
+
+Meanwhile, showers would occur at several places in the Western and Sabaragamuwa Provinces and in the Galle and Matara districts after 2 p.m. Showers  may occur at a few places in the North-Western Province and in the Nuwara-Eliya district during the afternoon or night.
+
+Misty conditions can be expected at some places in the Western, Central and Sabaragamuwa Provinces and in the Galle and Matara districts during the morning.
+
+◼️
+
+[Data](articles/347d4567.json)
+
+---
+
+### Notice to the Election Commission from Parliament
 
 *2024-04-04 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195297) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී ධුරයක පුරප්පාඩුවක් පවතින බව පාර්ලිමේන්තුව මැතිවරණ කොමිෂන් සභාවට දන්වා තිබේ.
+Parliament notifies Election Commission of a vacancy in the Anuradhapura Electorate, following Mr. Nandasena's death, effective January 4, 2024. Notification made under Section 64 (1) of Parliamentary Act No. 1 of 1981.
 
-අනුරාධපුර මැතිවරණ කොට්ඨාසයේ පාර්ලිමේන්තු මන්ත්‍රී එච්. නන්දසේන මහතාගේ හදිසි මියයෑම හේතුකොට ගෙන 2024 අප්‍රේල් 04 වනදා සිට 09 වැනි පාර්ලිමේන්තුවේ මන්ත්‍රී ධුරයක පුරප්පාඩුවක් ඇතිවී තිබෙන බව එලෙස පාර්ලිමේන්තුවේ වැඩබලන මහලේකම් චමින්ද කුලරත්න මහතා විසින්  මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා වෙත ලිපියක් යොමු කරමින් දන්වා ඇත.
+🟩
 
-1981 අංක 1 දරන පාර්ලිමේන්තු මැතිවරණ පනතේ 64(1) වගන්තිය ප්‍රකාරව මෙම දැනුම්දීම සිදුකරන බවද එම  ලිපිය මගින් වැඩබලන මහලේකම්වරයා දන්වා සිටී.
+Parliament has informed the Elections Commission that there is a vacancy of a parliamentary post.
+
+Member of Parliament (EPal) in the Anuradhapura Electorate. Due to the death of Mr. Nandasena, a vacancy of the post of Vacancy of Parliament from January 4, 2024 has been sent to the Chairman of the Elections Commission.
+
+The letter is informed by the Acting Secretary General that this notification is made in terms of Section 64 (1) of the Parliamentary Act No. 1 of 1981.
 
 ◼️
 
 [Data](articles/fb8429ae.json)
 
+[Extended Data](ext_articles/fb8429ae.ext.json)
+
 ---
 
-### තරුණයෙකු ඝාතනයෙන් පසුව ගාල්ලේ ගමක් කැලඹෙයි
+### Gallem tree in Galle is Turned into Galle
 
 *2024-04-04 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195296) · `si`
 
-ගාල්ල දංගෙදර ප්‍රදේශයේදී තියුණු ආයුධයකින් පහරදී පුද්ගලයෙකු ඝාතනය කර ඇති බව පොලීසිය පවසයි.
+In Galle, a murder in Dangarandara's Dangedara digis garden was due to a personal dispute. Four suspects aged 20-54 were arrested. The victim's remains are at Karapitiya Hospital for further police investigation.
 
-මෙලෙස ඝාතනයට ලක්ව ඇත්තේ වයස අවුරුදු 34ක දංගෙදර ප්‍රදේශයේ පදිංචි පුද්ගලයෙකි.
+🟩
 
-පොලීසිය පවසන්නේ ගාල්ල දංගෙදර ඩිඩිස් වත්ත ප්‍රදේශයේදී මෙම ඝාතනය සිදුව ඇති බවය.
+Police say a person has been assaulted in the Dangedara in the Dangedara area in Galle.
 
-දැනට සිදුකළ පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත්තේ පෞද්ගලික ආරවුලක් දුරදිගයාම හේතුවෙන් මෙම ඝාතනය සිදුව ඇති බවටය.
+The victim was a resident of Dangarandara.
 
-මේ අතර ඝාතනය සම්බන්ධයෙන් සැකපිට වයස අවුරුදු 20ත් 54ත් අතර වයස්වල පසුවන සිව්දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+Police say the murder took place in the Dangedara digis garden in Galle.
 
-මෘත ශරීරය කරාපිටිය රෝහලේ තැන්පත් කර ඇති අතර ගාල්ල පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+The police investigations have revealed that the murder had taken place due to a personal dispute.
+
+Meanwhile, police have arrested four ages aged between the ages of 20 to 54.
+
+The remains are placed at the Karapitiya Hospital while the Galle Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/80864b0c.json)
+
+[Extended Data](ext_articles/80864b0c.ext.json)
+
+---
+
+### විජය පුවත්පත් කාර්ය මණ්ඩලයට නැකතට පැළයක්
+
+*2024-04-04 15:40:08* · [`adalk`](https://www.ada.lk/breaking_news/විජය-පුවත්පත්-කාර්ය-මණ්ඩලයට-නැකතට-පැළයක්/11-408954) · `si`
+
+සිංහල හා දමිළ අලුත් අවුරුද්ද නිමිත්තෙන් එළඹෙන 18වැනිදා පෙරවරු 10.16ට යෙදී ඇති පැළ සිටුවීමේ නැකතේදී, සමස්ත දිවයිනම ආවරණය වන පරිදි ගෙවතු වගා වැඩසටහනක් මෙවරද ක්‍රියාත්මක කිරීමට කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය කටයුතු යොදා තිබේ.
+
+නැකතට පැළයක්- ජාතියට හුස්ම දෙන නැකත ලෙස නම්කර ඇති මෙම ජාතික පැළ රෝපණය කිරීමේ වැඩසටහනේදී ඵලදායී පැළයක් රෝපණය  කරන ලෙස විෂයභාර අමාත්‍ය මහින්ද අමරවීර මහතා ජනතාවගෙන් ඉල්ලා සිටී.
+
+මේ අතර මීට සමගාමීව විජය පුවත්පත් සමාගමේ කාර්ය මණ්ඩලයට පලතුරු පැළ බෙදා දීම අමාත්‍යවරයා විසින් එම ආයතන පරිශ්‍රයේදී අද (04දා) උදෑසන සිදුකරන ලදී. විජය පුවත්පත් සමාගමේ සුබසාධක සංගමය විසින් සංවිධානය කරන ලද මෙම වැඩසටහනට සමාගමේ අධ්‍යක්ෂ ලාල් ජයවර්ධන, දිනපතා ලංකාදීප පුවත්පතෙහි ප්‍රධාන කර්තෘ අජන්ත කුමාර අගලකඩ, ඉරිදා ලංකාදීප පුවත්පතෙහි ප්‍රධාන කර්තෘ කාංචන දසනායක, සුබසාධක සංගමයේ සභාපති, අද පුවත්පත්හි ප්‍රධාන කර්තෘ දුමින්ද සංජීව බාලසූරිය යන මහත්වරුන්ද එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/1e828b52.json)
 
 ---
 
@@ -109,6 +157,8 @@ Weerasena is reportedly next in line on the Sri Lanka Podujana Peramuna (SLPP) l
 ...
 
 [Data](articles/271d2c90.json)
+
+[Extended Data](ext_articles/271d2c90.ext.json)
 
 ---
 
@@ -2225,47 +2275,5 @@ Sri Lanka’s banks were hit by bad loans from Coronavirus pandemic and the curr
 [Data](articles/badab1ac.json)
 
 [Extended Data](ext_articles/badab1ac.ext.json)
-
----
-
-### President about the rupee
-
-*2024-04-04 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195278) · `si`
-
-President Ranil Wickremesinghe credits the rupee's strength to economic management, aiming for a 280 rupees to the dollar rate. He highlights the importance of teacher recruitment and the role of teachers in shaping students' lives.
-
-🟩
-
-President Ranil Wickremesinghe says that the rupee has increased due to accurate economic management.
-
-The President is shown that the economy has now been strengthened by now.
-
-President Ranil Wickremesinghe expressed his views participating at the ceremony to provide teachers' appointments to 2,320 graduates in the Western Province.
-
-"Now the rupee has come to 300 and strong. Take the step, I hope to do the dollar 280 rupees. The money is strengthened by money. You have to do this. Need to find money to work in the government. This is going on a hard, difficult road. We develop the economy that falls. It was possible to increase the payroll at this time. Increase offers. Increase the relief in three times. We also took a good price for the paddy during the Sinhala Years. Need to pose economically. This time can be a little hard. We hope to give money to the ministries to recruit teachers when the coming year. "
-
-The President also commented on the responsibility of teachers.
-
-...
-
-[Data](articles/fe4b26a8.json)
-
-[Extended Data](ext_articles/fe4b26a8.ext.json)
-
----
-
-### Trains delayed on mainline this morning
-
-*2024-04-04 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Trains-delayed-on-mainline-this-morning/108-280153) · `en`
-
-Train services on the main line will be delayed due to the technical fault of a train that plies to Colombo Fort from Maho blocking the tracks this morning.
-
-Additionally, another train has broken down between the Yaththalgoda and Ambepussa stations.
-
-◼️
-
-[Data](articles/71d02c42.json)
-
-[Extended Data](ext_articles/71d02c42.ext.json)
 
 ---

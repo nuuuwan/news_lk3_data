@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 07:53:50**
+As of **2024-04-04 08:05:17**
 
 ## Newspaper Stats
 
-*Scraped **17,020** Articles*
+*Scraped **17,021** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ tamilmirrorlk | 2,021
 adaderanalk | 2,038
 virakesarilk | 2,457
 dailymirrorlk | 2,618
-adaderanasinhalalk | 2,744
+adaderanasinhalalk | 2,745
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,018 (100.0%) of 17,020 articles have been extended.
+17,020 (100.0%) of 17,021 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### මාස තුනට ශ්‍රී ලාංකිකයින් 75,000ක් විදෙස් ගතවෙලා
+
+*2024-04-04 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195275) · `si`
+
+මේ වසරේ ගත වූ මුල් මාස 3 තුළ ශ්‍රී ලාංකිකයින් 75,000කට ආසන්න පිරිසක් රැකියා සඳහා විදෙස් ගතව ඇති බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය පවසයි.
+
+එම කාලය තුළ පුද්ගලයින් 74,499 දෙනෙකු රැකියා සඳහා විදෙස් ගතව ඇති බව එම කාර්යාංශය සඳහන් කළේය.
+
+ඉන් 39,900ක් පිරිමි ශ්‍රමිකයින් වන අතර 34,599 දෙනෙකු කාන්තා ශ්‍රමිකයින් වේ.
+
+ශ්‍රී ලාංකිකයින් වැඩි දෙනෙකු රැකියා සඳහා කුවේට් රාජ්‍ය වෙත ගොස් ඇති අතර එම සංඛ්‍යාව 17,793කි.
+
+පෙර වර්ෂවලට සාපේක්ෂව මේ වසරේ මුල් මාස තුන තුළ දකුණු කොරියාව, ඊශ්‍රායලය හා ජපානය වැනි රටවල රැකියා සඳහා ශ්‍රී ලාංකිකයින් යොමුවීමේ වැඩි ප්‍රවණතාවක් ද පෙන්නුම් කර තිබේ.
+
+රැකියා සඳහා දකුණු කොරියාව වෙත ලාංකිකයින් 2,374 දෙනෙකු ද, ඊශ්‍රායලය වෙත 2,114 දෙනෙකු ද රුමේනියාව වෙත 1,899 දෙනෙකු හා ජපානය වෙත 1,947 දෙනෙකු ද පිටත්ව ගොස් ඇති බව විදේශ සේවා නියුක්ති කාර්යාංශය සඳහන් කළේය.
+
+මේ අතර රැකියා සඳහා විදෙස්  ගතවූ ශ්‍රී ලාංකිකයින් මේ වසරේ මුල් මාස 2 තුළදී පමණක් අමෙරිකානු ඩොලර් මිලියන 963.8ක ප්‍රේෂණ ප්‍රමාණයක් මෙරටට එවා ඇති බව ද එම කාර්යාංශය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/23633168.json)
+
+---
 
 ### SLPP MP H. Nandasena passes away
 
@@ -41,6 +65,8 @@ Anuradhapura District MP of Sri Lanka Podujana Peramuna (SLPP), H. Nandasena pas
 ◼️
 
 [Data](articles/6a2486a3.json)
+
+[Extended Data](ext_articles/6a2486a3.ext.json)
 
 ---
 
@@ -636,23 +662,31 @@ If the two elections are held on the same day, it will be favorable to the presi
 
 ---
 
-### ලංකාවේ නාගරික ගැබිනි මවුවරුන්ගේ මානසික සෞඛ්‍ය වෙනුවෙන්  'නූපන් දරුවන්ට සංගීතය'
+### 'Music to' unborn children 'for municipal mothers in Sri Lanka
 
 *2024-04-04 01:52:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd100kp2xz7o) · `si`
 
-ලංකාවේ නාගරික ගැබිනි මවුවරුන්ගේ මානසික සෞඛ්‍ය වෙනුවෙන්  'නූපන් දරුවන්ට සංගීතය'
+"Music for Unborn" in Sri Lanka aims to support pregnant mothers' mental health through artistic performances. Initiated by Sanjeewa Seneviratne, the program engages a band to perform for pregnant mothers in urban areas, addressing societal issues like unplanned parenthood. The program, which includes family members, uses music to heal and educate, though facing financial challenges.
 
-දරුවෙකු බිහි කිරීමට කුසතුළ දරාගෙන සිටින ගැබිනි  මවුවරුන්ට හොඳ ශාරීරික සෞඛ්‍යක් සේම මානසික සෞඛ්‍ය ද යහපත් මට්ටමකින් පවත්වාගෙන අනිවාර්යයෙන්ම සිදු කළ යුතු බව විශේෂඥ මතයයි.
+🟩
 
-බොහෝ රටවල්වල කාන්තාවක් ගැබ්ගත් පසුව ඇගේ පවුලේ සාමාජිකයන් ඇය කෙරෙහි විශේෂ සැලකිල්ලකින් කටයුතු කරනු ලබයි.
+'Music to' unborn children 'for municipal mothers in Sri Lanka
 
-ශ්‍රී ලංකාවේ ග්‍රාමීය සමාජය තුළ තවමත් එවැනි අක්මුල් දැකගත හැකි අතර, සාමාන්‍යයෙන් ශෝකජනක හෝ කෝපයට පත්වන පුවතක්වත් ගැබිනි මවකට නොකීමට ඔවුහු වග බලා ගත්තේ ඇගේ මානසික යහපැවැත්ම උදෙසායි.
+Experts, the pregnant mothers, who bears a child to produce a child, must be good health and mental health and mental health.
 
-නමුත් වර්තමානය වන විට බොහෝ දෙනෙකු ජීවත්වන කාර්‍යබහුල සමාජය හා විවිධ ආර්ථික හා සමාජීය හේතු නිසා ගැබිනි මවුවරුන්ගේ මානසික යහපැවැත්ම සම්බන්ධයෙන් බොහෝවිට අවධානයක් යොමු නොවන මට්ටමට පැමිණ තිබේ. ශ්‍රී ලංකාවේ නාගරික ප්‍රදේශ ආශ්‍රිතව මෙම තත්ත්වය ඇති වීමට අදාළ බොහෝ හේතු සාධක තිබේ.
+After a woman in many countries, her family members are concerned with her.
+
+Such aquity is still visible in the rural society in Sri Lanka, and it is generally concerned for her mental well-being.
+
+But now, many have come to the level of the mental well-being of the mildness of pregnant society and many economic and social reasons that live. There are many reasons for this situation in the urban areas of Sri Lanka.
+
+Such a program aimed at the pregnant mothers living in the murder of the urban society, the collection of artistic band and art collection is engaged in. The opener, the founder of Sanjeewa Seneviratne expressed his program with BBC with Sinhala.
 
 ...
 
 [Data](articles/64fb50e3.json)
+
+[Extended Data](ext_articles/64fb50e3.ext.json)
 
 ---
 
@@ -2187,27 +2221,5 @@ A bond maturing on 01.07.2032 closed up at 12.55/80 percent from 12.50/75 percen
 [Data](articles/22e16218.json)
 
 [Extended Data](ext_articles/22e16218.ext.json)
-
----
-
-### Most contenders for presidency will gather around Wickremesinghe: UNP
-
-*2024-04-03 17:23:00* · [`economynextcom`](https://economynext.com/most-contenders-for-presidency-will-gather-around-wickremesinghe-unp-157410/) · `en`
-
-ECONOMYNEXT — Save for one or two candidates, the “dozens” who appear to have thrown their hat into the ring will eventually gather around President Ranil Wickremesinghe at the election, the United National Party (UNP) said.
-
-UNP deputy leader Akila Viraj Kariyawasam made this remark responding to a question by a journalist about the “two dozen” names that have been mentioned in connection with the presidential election due to be held between September 17 and October 17 this year.
-
-“Apart from two or three candidates, those dozens will gather here. Don’t worry,” said Kariyawasam.
-
-Kariyawasam said the party will also celebrate International Labour Day on May 01 in recognition of the Sri Lanka’s working class that made the country’s recovery from its worst financial crises possible.
-
-“Our party has decided to celebrate May Day on May 01. This will be begin at the Tower Hall in Maradana through Panchikawatta.
-
-...
-
-[Data](articles/7f5efb80.json)
-
-[Extended Data](ext_articles/7f5efb80.ext.json)
 
 ---

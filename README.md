@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 13:18:17**
+As of **2024-04-04 13:33:56**
 
 ## Newspaper Stats
 
-*Scraped **17,092** Articles*
+*Scraped **17,094** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,63 @@ dailyftlk | 929
 islandlk | 943
 economynextcom | 944
 adalk | 1,440
-tamilmirrorlk | 2,031
+tamilmirrorlk | 2,032
 adaderanalk | 2,048
 virakesarilk | 2,475
 dailymirrorlk | 2,627
-adaderanasinhalalk | 2,756
+adaderanasinhalalk | 2,757
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,086 (100.0%) of 17,092 articles have been extended.
+17,092 (100.0%) of 17,094 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### අවුරුදු සමයේදී අත්‍යවශ්‍ය සේවා අඛණ්ඩව සපයන්නැයි ජනපතිගෙන් උපදෙස්
+### நந்தசேனவின் பதவிக்கு வீரசேன
+
+*2024-04-04 13:17:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நந்தசேனவின்-பதவிக்கு-வீரசேன/175-335609) · `ta`
+
+அனுராதபுர மாவட்ட ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் கே.எச்.நந்தசேனவின் மறைவால் ஏற்பட்ட வெற்றிடத்தை எம்.ஜி.வீரசேன நிரப்ப உள்ளார்.
+
+◼️
+
+[Data](articles/a3e7f34e.json)
+
+---
+
+### දමිතා සහ  සැමියා CID අත්අඩංගුවට
+
+*2024-04-04 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195288) · `si`
+
+ප්‍රවීණ රංගන ශිල්පී දමිතා අබේරත්න මහත්මියව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/522c8bfe.json)
+
+---
+
+### President instructs to continue services during the festive year
 
 *2024-04-04 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195287) · `si`
 
-ඉදිරියේදී එන අවුරුදු නිවාඩු සමයේදී ජනතාවට අවශ්‍ය අත්‍යවශ්‍ය සේවා කිසිඳු අඩුපාඩුවකින් තොරව රට තුළ පවත්වාගෙන යෑමට අවශ්‍ය පියවර ගන්නා ලෙස ජනාධිපතිවරයා උපදෙස් ලබාදී තිබේ.
+The President has ordered continued services during the festive year, ensuring no shortcomings in the upcoming holiday season, with instructions to government officials and ministries.
 
-ඊට අදාළ රජයේ නිලධාරීන්ට සහ අමාත්‍යාංශ වෙත ජනාධිපතිවරයා මෙලෙස උපදෙස් දී ඇති බව සඳහන්ය.
+🟩
+
+The President has instructed the people to take necessary necessary steps to be carried out in the country without any shortcomings in the coming year holiday.
+
+The President has instructed the relevant government officials and ministries.
 
 ◼️
 
 [Data](articles/91521314.json)
+
+[Extended Data](ext_articles/91521314.ext.json)
 
 ---
 
@@ -58,19 +88,27 @@ M.G. Weerasena is next in line on the SLPP list for the Anuradhapura District.
 
 [Data](articles/7fc114fd.json)
 
+[Extended Data](ext_articles/7fc114fd.ext.json)
+
 ---
 
-### மைத்திரிக்கு இடைக்கால தடையுத்தரவு
+### Medieval disruption to Maithri
 
 *2024-04-04 12:50:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-இடைக்கால-தடையுத்தரவு/175-335608) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன ஸ்ரீலங்கா சுதந்திரக் கட்சியின் (SLFP) தலைவராக செயற்படுவதற்கு கொழும்பு மாவட்ட நீதிமன்றம் வியாழக்கிழமை (04) தடை உத்தரவு பிறப்பித்துள்ளது.
+Former President Maithripala Sirisena bans Colombo District Court Judge Chandun Vidhan from leading Sri Lanka Freedom Party (SLFP), following a case filed by Chandrika Kumaratunga.
 
-முன்னாள் ஜனாதிபதி சந்திரிக்கா குமாரதுங்கவினால் தாக்கல் செய்யப்பட்ட வழக்கிற்கு அமைய கொழும்பு மாவட்ட நீதிமன்ற நீதிபதி சந்துன் விதான இந்த உத்தரவை பிறப்பித்துள்ளார்.
+🟩
+
+Former President Maithripala Sirisena has issued a ban on the Colombo District Court on Thursday (04) to act as the Chairman of the Sri Lanka Freedom Party (SLFP).
+
+Colombo District Court Judge Chandun Vidhan has issued the order in accordance with the case filed by former President Chandrika Kumaratunga.
 
 ◼️
 
 [Data](articles/46240e4d.json)
+
+[Extended Data](ext_articles/46240e4d.ext.json)
 
 ---
 
@@ -138,6 +176,8 @@ In response to the recent reports claiming that issuing excise license has been 
 
 [Data](articles/fd0d3afd.json)
 
+[Extended Data](ext_articles/fd0d3afd.ext.json)
+
 ---
 
 ### Taiwan earthquake injuries top 1,000, hotel workers still missing
@@ -157,6 +197,8 @@ The fire department said its rescue work was focused on people trapped on the cr
 ...
 
 [Data](articles/9f5a8fde.json)
+
+[Extended Data](ext_articles/9f5a8fde.ext.json)
 
 ---
 
@@ -321,6 +363,8 @@ The order was delivered following a complaint filed by former President Chandrik
 ◼️
 
 [Data](articles/5d685e62.json)
+
+[Extended Data](ext_articles/5d685e62.ext.json)
 
 ---
 
@@ -2187,49 +2231,5 @@ The IMF’s explanation of Sri Lanka’s recent foreign exchange crisis is fisca
 [Data](articles/f8b69545.json)
 
 [Extended Data](ext_articles/f8b69545.ext.json)
-
----
-
-### Sustainability neglect may stunt tourism growth in  Sri Lanka: Intrepid Travel Chief
-
-*2024-04-04 01:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sustainability-neglect-may-stunt-tourism-growth-in-Sri-Lanka-Intrepid-Travel-Chief/108-280145) · `en`
-
-A global leader in responsible tourism raised concerns on lack of focus on sustainability in the tourism sector, which in turn could impede the current growth momentum in the medium term.
-
-Intrepid Travel Chairman and Co-Founder Darrell Wade, who was recently in Sri Lanka, said the current status of the tourism industry, in terms of sustainability, is worrisome, primarily because of the drive for growth.
-
-“We understand that it’s good for the economy, jobs, balance of payments, all sort of things. But if the growth is too fast and doesn’t factor sustainability, then that’s a major problem. We haven’t seen enough attention on sustainability (in Sri Lanka),” Wade told Mirror Business during his recent visit to Sri Lanka.
-
-Although Sri Lanka may sustain the current growth momentum for the next two to three years, he expressed concern that it would not be sustainable beyond four to six years, if sustainability is not factored into the tourism strategy now.
-
-...
-
-[Data](articles/8940a0f5.json)
-
-[Extended Data](ext_articles/8940a0f5.ext.json)
-
----
-
-### The country will face a major crisis even if the current program is changed - Minister Bandula Gunawardena
-
-*2024-04-04 00:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180370) · `ta`
-
-Minister Bandula Gunawardena warns of a major crisis despite program changes, highlighting the government's efforts to alleviate poverty and improve economic status. Despite increased poverty reports, he emphasizes the Assembly program's relief efforts. He also mentions contractors' completion of 361 billion rupees in arrears, aiming for smooth economic recovery with improved foreign stock and reduced inflation.
-
-🟩
-
-Minister of Transport and Media Bandula Gunawardena said the country would be re -informed by the current project being carried out by the government led by President Ranil Wickremesinghe.
-
-Although various reports have revealed that poverty has increased in the country, the bank's poverty is not new in the country, and that the poverty is not new and that the Assembly program is being implemented as a relief for the safety of the poor people.
-
-The Minister made this statement at a media briefing held at the Presidential Media Center on Wednesday (03).
-
-The Minister also said that the contractors had completed 361 billion rupees in the arrears that the contractors had to pay for the contractors and that all development projects could be launched after signing the agreement with bilateral credit providers.
-
-...
-
-[Data](articles/6fd6c66b.json)
-
-[Extended Data](ext_articles/6fd6c66b.ext.json)
 
 ---

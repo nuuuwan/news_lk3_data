@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 08:33:48**
+As of **2024-04-04 08:52:24**
 
 ## Newspaper Stats
 
@@ -26,33 +26,39 @@ adaderanasinhalalk | 2,747
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,021 (100.0%) of 17,027 articles have been extended.
+17,027 (100.0%) of 17,027 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### සෞඛ්‍ය අමාත්‍යාංශයෙන් හදිසි තීරණයක්
+### Sudden decision from Ministry of Health
 
 *2024-04-04 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195277) · `si`
 
-මෙරට තුළ සිටින ව්‍යාජ වෛද්‍යවරුන් සහ ව්‍යාජ වෛද්‍ය මධ්‍යස්ථාන පිළිබඳව කඩිනම් විමර්ශනයක් සිදුකිරීමට සෞඛ්‍ය අමාත්‍යාංශය තීරණය කර තිබේ.
+The Ministry of Health is accelerating its investigation into fake doctors and medical centers, following complaints. Doctors and private institutions must register with the Medical Council at the provincial level. The Director General of Health Services has ordered investigations, and the Ministry plans to take legal action against offenders.
 
-ව්‍යාජ වෛද්‍යවරුන් සහ වෛද්‍ය මධ්‍යස්ථාන පිළිබඳව ලැබී ඇති පැමිණිලි සැලකිල්ලට ගනිමින් මෙම පියවර ගෙන ඇති බව වාර්තා වේ.
+🟩
 
-වෛද්‍යවරුන් වෛද්‍ය සභාවේ ලියාපදිංචි වීම සිදුකළ යුතු අතර පෞද්ගලික වෛද්‍ය ආයතන පළාත් මට්ටමින් ලියාපදිංචි කිරීම අනිවාර්යය කර තිබේ.
+The Ministry of Health has decided to conduct an accelerated investigation into fake doctors and fake medical centers in the country.
 
-කෙසේවෙතත් එලෙස ලියාපදිංචි නොවූ වෛද්‍යවරුන් සහ වෛද්‍ය ආයතන රැසක් දිවයින පුරා පවතින බවට පැමිණිලි ලැබී ඇති බව සෞඛ්‍ය අමාත්‍යාංශය සඳහන් කළේය.
+It is reported that the steps have been taken following complaints received regarding fake doctors and medical centers.
 
-එවැනි වෛද්‍යවරුන් සහ වෛද්‍ය ආයතන සොයා කඩිනමින් විමර්ශනයක් සිදුකරන ලෙස සෞඛ්‍ය සේවා අධ්‍යක්ෂ ජනරාල්වරයා විසින් පළාත් සහ දිස්ත්‍රික් සෞඛ්‍ය බලධාරීන් වෙත උපදෙස් ලබා දී තිබේ.
+Doctors should register the Medical Council and private medical institutions are mandatory for registration at provincial level.
 
-එවැනි ආයතන සහ වෛද්‍යවරුන්ට එරෙහිව දැඩි නීතිමය ක්‍රියාමාර්ග ගන්නා ලෙස සෞඛ්‍ය අමාත්‍යාංශය උපදෙස් ලබා දී ඇත.
+However, there have been complaints that have been registered and medical institutions have been reported island wide.
 
-සුදුසුකම් සපුරා නොමැති ව්‍යාජ වෛද්‍යවරුන් පිළිබඳව තොරතුරු  ලබාදීමට පියවර ගන්නා ලෙස සෞඛ්‍ය අමාත්‍යාංශය මහජනතාවගෙන් ද ඉල්ලීමක් කර තිබේ.
+The Director General of Health Services has instructed the Provincial and District Health Authorities to investigate such doctors and medical institutions.
+
+The Ministry of Health has instructed the Ministry of Health to take strict legal action against such institutions and doctors.
+
+The Ministry of Health has also requested the public to take information on false doctors without qualifying.
 
 ◼️
 
 [Data](articles/47b5962e.json)
+
+[Extended Data](ext_articles/47b5962e.ext.json)
 
 ---
 
@@ -74,21 +80,31 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/e81fa893.json)
 
+[Extended Data](ext_articles/e81fa893.ext.json)
+
 ---
 
-### හදිසි අනතුරු හේතුවෙන් වසරකට පුද්ගල මරණ දස දහස ඉක්මවයි
+### Accidents exceeding ten thousand deaths a year
 
 *2024-04-04 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195276) · `si`
 
-හදිසි අනතුරු හේතුවෙන් දෛනිකව මෙරටින් මරණ 32ත් 35ත් අතර සංඛ්‍යාවක් වාර්තා වන බව සෞඛ්‍ය අමාත්‍යාංශයේ බෝ නොවන රෝග ඒකකයේ විශේෂඥ වෛද්‍ය සමිත සිරිතුංග මහතා පවසයි.
+Sri Lanka reports 32-35 annual deaths from accidents, including drowning. Over 10,000 deaths occur annually, with 4 deaths every 3 hours. Accidents are a major health issue, especially among 15-44-year-olds, impacting the economy. The IGP has been ordered to boost operations in April.
 
-ඔහු පවසන්නේ වාර්ෂිකව හදිසි අනතුරු හේතුවෙන් පුද්ගල මරණ දස දහසකට වැඩි සංඛ්‍යාවක් සිදුවන බවය.
+🟩
 
-රථ වාහන අනතුරු, දියේ ගිලීම්, විෂවීම් ඇතුළු හදිසි අනතුරු හේතුවෙන් එම මරණ සිදුවන බව සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් විශේෂඥ වෛද්‍ය සමිත සිරිතුංග මහතා සඳහන් කළේය.
+Due to 23 to 35 deaths due to accidents, 32 and 35 deaths have been reported in Sri Lanka.
+
+He says that more than 10,000 people suffer due to annual accidents.
+
+Addressing a media bureau of the Health Promotion Bureau, a media briefing in the Health Promotion Bureau has been speaking due to accidents, including accidents, drowning accidents.
+
+"The largest number of people who are receiving treatment at government hospitals in Sri Lanka involves. In fact, one of the population of Sri Lanka or 6 people in Sri Lanka, one of the 6 or 6 people perform a harassment of medical treatment every year. Over 10,000 deaths die at approximately 10,000 deaths. It says we lose between 32 to 35 per day every day. It means we lose about 4 people at approximately 4 every 3 hours. Accidents are the main health problem in the age group of 15 to 44 years of contribution to the economy. "
 
 ...
 
 [Data](articles/e99a1763.json)
+
+[Extended Data](ext_articles/e99a1763.ext.json)
 
 ---
 
@@ -107,6 +123,8 @@ At the ceremony, the Minister highlighted that at least 19,000 examiners are nee
 ◼️
 
 [Data](articles/9bdb9da6.json)
+
+[Extended Data](ext_articles/9bdb9da6.ext.json)
 
 ---
 
@@ -180,21 +198,29 @@ Chairman of the Anuradhapura District Parliamentary and District Coordinating Co
 
 ---
 
-### ’வேலைத்திட்டத்தை மாற்றினால் நெருக்கடி ஏற்படும்’
+### Transitional program
 
 *2024-04-04 07:01:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலைத்திட்டத்தை-மாற்றினால்-நெருக்கடி-ஏற்படும்/175-335581) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையிலான அரசாங்கத்தினால் முன்னெடுக்கப்பட்டு வரும் தற்போதைய வேலைத்திட்டத்தில் கடுகளவு மாற்றம் செய்யப்பட்டாலும் நாடு மீண்டும் பாரிய நெருக்கடிக்குள் தள்ளப்படுமென  போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் மற்றும் ஊடகத்துறை அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+Transport and Highways and Media Minister Bandula Gunawardena highlighted the government's efforts under President Ranil Wickremesinghe to rebuild the economy, manage debt, and maintain financial discipline. He emphasized the importance of accepting the current economic status and the future of the country.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-கடந்த காலத்தில் வீழ்ச்சியடைந்த நாட்டை மீளக் கட்டியெழுப்பும் சவாலான பணியை ஜனாதிபதி ரணில் விக்கிரமசிங்க ஏற்றுக்கொண்டதன் பின்னர், சர்வதேச நாணய நிதியத்தின் நீடிக்கப்பட்ட கடன் வசதியை பெறுவதற்கான இணக்கப்பாடு எட்டப்பட்டது. பின்னர் கடன் மறுசீரமைப்பு குறித்தும் ஆராயப்பட்டது. அதனால் தற்போது நாடு சுமூகமான பொருளாதார நிலையை அடைந்துள்ளது. இந்த நிலையை விருப்பமின்றியேனும் ஏற்றுக்கொள்ள வேண்டியது அவசியமாகும்.
+Transport and Highways and Media Minister Bandula Gunawardena said the country would be re -informed by the current program in the current program being carried out by the government led by President Ranil Wickremesinghe.
 
-தற்போதைய புதிய மத்திய வங்கிச் சட்டத்தின்படி, எந்த அரசாங்கம் ஆட்சிக்கு வந்தாலும், பணம் அச்சிடுவது தடைசெய்யப்பட்டுள்ளது. இதன் ஊடாக நிதி நிர்வாகத்தில் ஒழுக்கத்தைப் பேண முடிந்துள்ளது.
+He said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
 
-...
+After President Ranil Wickremesinghe accepted the challenging task of rebuilding the fall in the past. Then the debt was also investigated on the restoration. So the country is currently in a smooth economic status. It is necessary to accept this position.
+
+Under the current new central bank law, any government comes to power, the printing of money is prohibited. Through this, the financial management has been able to maintain discipline.
+
+Even though the current program is being carried out by the government led by President Ranil Wickremesinghe, the country will be re -cried.. He also said that the future of the country would be questioned. (A)
+
+◼️
 
 [Data](articles/1eee87e0.json)
+
+[Extended Data](ext_articles/1eee87e0.ext.json)
 
 ---
 
@@ -2129,6 +2155,8 @@ Sri Lanka the miracle of Asia is second to none in this sphere. From “Apey Geo
 ...
 
 [Data](articles/7df62bef.json)
+
+[Extended Data](ext_articles/7df62bef.ext.json)
 
 ---
 

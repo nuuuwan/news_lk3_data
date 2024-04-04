@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 20:50:51**
+As of **2024-04-04 21:03:23**
 
 ## Newspaper Stats
 
-*Scraped **17,178** Articles*
+*Scraped **17,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,110 @@ newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
 economynextcom | 944
-adalk | 1,451
+adalk | 1,454
 tamilmirrorlk | 2,034
 adaderanalk | 2,062
 virakesarilk | 2,497
-dailymirrorlk | 2,637
-adaderanasinhalalk | 2,779
+dailymirrorlk | 2,640
+adaderanasinhalalk | 2,781
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,178 (100.0%) of 17,178 articles have been extended.
+17,178 (100.0%) of 17,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### මෛත්‍රීගේ ප්‍රකාශය ගැන අධිකරණයේ මතය දැනුම්දෙයි
+
+*2024-04-04 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195313) · `si`
+
+ශ්‍රී ලංකා ජනරජයේ සුරක්ෂිතභාවය පිළිබඳ අධිකරණයට සුවිශේෂී වගකීමක් ඇති බැවින් පාස්කු ප්‍රහාරය සම්බන්ධයෙන් හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතාගේ ප්‍රකාශය ඇතුළත් බී වාර්තාව සුදුසු කාලයක් රහස්‍ය ලේඛනයක් ලෙස පවත්වා ගැනීමට සිදුවන බව මාළිගාකන්ද මහ‍ෙස්ත්‍රාත් ලෝචිනී අබේවික්‍රම මහත්මිය අද (04) විවෘත අධිකරණයේ ප්‍රකාශ කළාය.
+
+ඒ පාස්කු ප්‍රහාරය සිදුකළේ කවුද යන්න තමා දන්නා බවට හිටපු ජනාධිපතිවරයා සිදුකළ ප්‍රකාශය සම්බන්ධයෙන් වූ නීතිකෘත්‍ය අද කැඳවූ අවස්ථාවේදීය.
+
+පාස්කු ප්‍රහාරය සිදුකළේ කවුරුන්ද යන්න තමා දන්නා බවත්, අධිකරණයෙන් නියෝගයක් දෙන්නේ නම් ඒ පිළිබඳ කරුණු හෙළි කිරීමට තමන් සූදානම් බවත් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා කළ ප්‍රකාශය සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පැය 5කට අධික කාලයක් ඔහුගෙන් ප්‍රකාශයක් ලබාගත්තේය.
+
+එම ප්‍රකාශය මත පදනම්ව නීතිපති උපදෙස් පරිදි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය වෙත පසුගියදා කරුණු ගොනු කළේ ඒ අනුවය.
+
+...
+
+[Data](articles/329f4aad.json)
+
+---
+
+### ලංකාවෙන් ඩොලර් බිලියන දෙකක් ඉන්දියාව නෙළාගෙන යන හැටි
+
+*2024-04-04 20:39:04* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවෙන්-ඩොලර්-බිලියන-දෙකක්-ඉන්දියාව-නෙළාගෙන-යන-හැටි/11-408965) · `si`
+
+ඉන්දීය ධීවරයන් උතුරු - නැගෙනහිර සිදු කරන නීති විරෝධී මත්ස්‍ය අස්වනු නෙළීම නිසා වාර්ෂිකව ශ්‍රී ලංකාවට ඩොලර් බිලියන 02ක පමණ ආදායමක් අහිමි වන බව ආර්ථික අර්බුදයේ බලපෑම සමනය කිරීම පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේදී අනාවරණය විය.
+
+එමෙන්ම ඉන්දියාවෙන් ඉස්සන් ආනයනය කර ප්‍රතිඅපනයනය කිරීම හරහා ශ්‍රී ලංකාවට ජී.එස්.පී.ප්ලස් සහනය අහිමි වීමේ අවදානමක් තිබෙන බවටද කාරක සභාවේදී අනාවරණය වූ බව එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී ගාමිණි වලේබොඩ මහතා 'අද'  පුවත්පත කළ විමසීමකට පිළිතුරු ලබා දෙමින් සඳහන් කළේය.
+
+එමෙන්ම නාරා ආයතනය ජාත්‍යන්තර මුහුදු සීමාවෙන් උතුරු - නැගෙනහිරට අයත් මුහුදු සීමාව පිළිබඳ වසර 30කින් සමීක්ෂණයක් සිදු කර නොමැති බවටද අනාවරණය වී තිබේ.
+
+ඒ සම්බන්ධයෙන් වැඩිදුරටත් සභාපති පාර්ලිමේන්තු මන්ත්‍රී ගාමිණි වලේබොඩ මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+...
+
+[Data](articles/df9c1af1.json)
+
+---
+
+### කප් එකත් අරන් දිවයිනට ආ ධනා කළ හෙළිදරව්ව
+
+*2024-04-04 20:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195312) · `si`
+
+බංග්ලාදේශයේ සාර්ථක තරග සංචාරයක් නිමකළ ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම අද පස්වරුවේ යළි දිවයිනට පැමිණියේය.
+
+එහිදී මාධ්‍ය වෙත අදහස් දක්වමින් ශ්‍රී ලංකා ටෙස්ට් නායක ධනංජය ද සිල්වා පැවසුවේ තමන් මේ දක්වා ගත් තීරණ සියල්ල හරිගිය බවය.
+
+එහිදී වැඩිදුරටත් මාධ්‍ය වෙත අදහස් දැක්වූ ශ්‍රී ලංකා ටෙස්ට් නායක ධනංජය ද සිල්වා,
+
+"ටිකක් අමාරුයි ඒ හීට් එකත් එක්ක කරට කර ගැටෙන්න ඒ රටේදී ඒ කණ්ඩායමත් එක්ක. අපේ කණ්ඩායමේ අය හරි දේවල් හරි විදියට කරපු නිසා තරගාවලිය ජයග්‍රහණය කරන්න පුළුවන් වුණා.  තව මාස දෙකකින් එංගලන්තයට යන්න තියෙනවා ටෙස්ට් තරගාවලියකට. ඉතින් ඒකට සූදානම් වෙන්න සැලසුම් තියෙනවා ඒක කරගෙන යනවා. සියයට සියයක්ම හරියි කියලා හිතන්නේ නෑ දවස ගානේ අපි ඉගෙනගන්නවා ක්‍රිකට්වලින් මම හිතනවා ඒ පොඩි පොඩිදේවල් හදාගෙන ඉදිරි තරගාවලි ජයග්‍රහණය කරන්න පුළුවන් කියලා. කලින් නායකයන්ට දුන්න සහයෝගයම මට කණ්ඩායමෙන් ලැබෙනවා. කලින් නායකයිනුත් මට සෑහෙන්න සහායක් දෙනවා, හරි ලේසියි ඒ හින්දා මට කණ්ඩායම ඉදිරියට අරගෙන යන්න. මම හිතනවා මම ගත්ත තීරණ සියල්ල හරිගියා කියලා දැනට"
+
+◼️
+
+[Data](articles/494be3ae.json)
+
+---
+
+### Education Ministry website hacked, hacker raises security concerns
+
+*2024-04-04 20:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Education-Ministry-website-hacked-hacker-raises-security-concerns/108-280197) · `en`
+
+The official website of the Sri Lanka Ministry of Education has fallen victim to a cyber intrusion.
+
+Hackers, purportedly identifying as "Anonymous EEE," managed to gain unauthorized access to the site, leaving behind a message warning of security vulnerabilities.
+
+The message left by the hacker read, "My name is Anonymous EEE and I am currently studying A/I. Sorry for unauthorized access to your website but your website has some security flaws. As a Sri Lankan citizen, I am reporting this for the safety of my country. Fix it, thanks."
+
+◼️
+
+[Data](articles/0eb301a2.json)
+
+---
+
+### කොන්ක්‍රීට් වළල්ලක් ඇඟට පෙරළිමෙන් පාසල් සිසුවෙක් ජීවිතක්ෂයට
+
+*2024-04-04 20:13:39* · [`adalk`](https://www.ada.lk/breaking_news/කොන්ක්‍රීට්-වළල්ලක්-ඇඟට-පෙරළිමෙන්-පාසල්-සිසුවෙක්-ජීවිතක්ෂයට/11-408960) · `si`
+
+තේ වත්තක සංවර්ධන කටයුත්තක් සදහා රැගෙන විත් පාසල් භුමියේ ගොඩගසා තිබු කොන්ක්‍රිට් වළල්ලක් ඇග මතට පෙරලිමෙන් බරපතල ලෙස තුවාල ලැබු පාසල් සිසුවෙකු  රෝහල වෙත ඇතුලත් කිරිමෙන් පසු (04) දින ජිවිතක්ෂයට පත් වි ඇති බව මස්කෙලිය පොලිසිය පැවසිය.
+
+මෙසේ ජිවිතක්ෂයට පත් වි ඇත්තේ මස්කෙලිය ගාඩ්මොර් වතුයායේ පදිංචිව සිටි එම පාසලේ 6 වසරේ අධ්‍යාපනය ලබමින් සිටි එස්.අනිෂන් නැමති (11) හැවිරිදි පාසල් සිසුවෙකි.
+
+ජිවිතක්ෂයට පත් පාසල් සිසුවා ඔහුගේ මිතුරන් දෙදෙනෙකු සමග (04) දින පස්වරු 1.30 ට පමණ වැසිකිලිය වෙත යාම සදහා පැමිණි අවස්තාවේ පාසල් භුමියේ ගොඩගසා තිබු කොන්ක්‍රිට් බොක්කුවක් පෙරලි පාසල් සිසුවාගේ ඇග මතින් පෙරලිමෙන් පාසල් සිසුවා වැසිකිලියේ බිත්තියට සිරවිමෙන් බරපතල ලෙස තුවාල ලබා ඇත.
+
+පසුව පාසලේ ගුරුවරුන් සහ අසල්වාසින් එක්ව තුවාල ලබා සිටි පාසල් සිසුවා සුවසැරිය ගිලන් රථය මගින් මස්කෙලිය ප්‍රාදේශිය රෝහල වෙත ඇතුලත් කිරිමෙන් පසු සිසුවාජිවිතක්ෂයට පත් වි ඇත.
+
+◼️
+
+[Data](articles/bb1d5fcf.json)
+
+---
 
 ### President opens Gem Tower
 
@@ -103,6 +191,22 @@ State Minister of Indigenous Medicine Sisira Jayakody said this at a press confe
 [Data](articles/f7c0a1a1.json)
 
 [Extended Data](ext_articles/f7c0a1a1.ext.json)
+
+---
+
+### අයි.සි.සී. මාසයේ ක්‍රීඩකයාට කමිඳුගේ නමත් නිර්දේශ වෙයි
+
+*2024-04-04 19:32:40* · [`adalk`](https://www.ada.lk/sports/අයි-සි-සී--මාසයේ-ක්‍රීඩකයාට-කමිඳුගේ-නමත්-නිර්දේශ-වෙයි/9-408956) · `si`
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් මාසිකව පිරිනමනු ලබන අයි.සී.සී. මාසයේ ක්‍රීඩක සම්මානයට අදාළව මාර්තු මාසය වෙනුවෙන් ශ්‍රී ලංකා තුන් ඉරියව් ක්‍රීඩක කමිඳු මෙන්ඩිස්ගේ නමද නිර්දේශ වී තිබේ.
+
+නිමාවූ බංග්ලාදේශ විස්සයි20 තරගාවලියේදී මෙන්ම ටෙස්ට් තරගාවලියේදී ඔහු දැක්වූ දක්ෂතා අනුව මෙසේ මාර්තු මස ක්‍රීඩකයාට හිමි සම්මානය සඳහා නිර්දේශ වී තිබේ.
+
+ඔහුට අමතරව අයර්ලන්තයේ මාක් අඩීර් හා නවසීලන්තයේ මැට් හෙන්රිගේ නම්ද මෙම සම්මානය සඳහා  නිර්දේශ වී තිබේ.
+
+◼️
+
+[Data](articles/1d5f2ee0.json)
 
 ---
 
@@ -1210,6 +1314,20 @@ Colombo Chief Magistrate Prasanna Alwis issued a conditional order in favour of 
 
 ---
 
+### First application under Online Safety Act filed before Court
+
+*2024-04-04 15:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-application-under-Online-Safety-Act-filed-before-Court/108-280187) · `en`
+
+The first application under the newly enacted Online Safety Act was made to the Colombo Chief Magistrate’s Court and Court issued a conditional order preventing respondent parties from communicating alleged false information against former Chairman of the Public Utilities Commission (PUCSL) Janaka Ratnayake.
+
+Colombo Chief Magistrate Prasanna Alwis issued a conditional order in favour of the Petitioner Janaka Ratnayake in terms of Section 24 (1) and Section 24 (2) of the Online Safety Act No. 09 of 2024 and directed that the order be communicated to the Respondents Gayathri Bimba, Janaka Rajapaksha, Oshala Herath and several others by electronic means as provided for in Section 24 (4) of the Act.
+
+...
+
+[Data](articles/433d4e60.json)
+
+---
+
 ### Teachers can never allow the harassment of students - the Governor of the Northern Province
 
 *2024-04-04 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/180435) · `ta`
@@ -2090,6 +2208,20 @@ Colombo District Court Judge Sandun Vithana made this order pursuant to a lawsui
 
 ---
 
+### CBK obtains enjoining order against Maithripala on SLFP Chairmanship
+
+*2024-04-04 12:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/CBK-obtains-enjoining-order-against-Maithripala-on-SLFP-Chairmanship/155-280181) · `en`
+
+Colombo, April 4 (Daily Mirror) - The Colombo District Court today issued an enjoining order preventing former President Maithripala Sirisena from functioning as the chairman of the Sri Lanka Freedom Party (SLFP).
+
+Colombo District Court Judge Sandun Vithana made this order pursuant to a lawsuit filed by former President Chandrika Kumaratunga.
+
+◼️
+
+[Data](articles/9a343f18.json)
+
+---
+
 ### If India violates Sri Lanka's maritime, it will be considered a violation of Sri Lanka's sovereignty - the BJP is using the Kachchativu issue for election votes
 
 *2024-04-04 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180412) · `ta`
@@ -2141,161 +2273,5 @@ The first phase of the human burial ground in the Kokkuttuwai area of the Mullai
 [Data](articles/59637104.json)
 
 [Extended Data](ext_articles/59637104.ext.json)
-
----
-
-### Maithripala Sirisena banned the Sri Lanka Freedom Party (SLFP) leader
-
-*2024-04-04 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/180409) · `ta`
-
-Maithripala Sirisena bans SLFP leader, Colombo District Court issues interim injunction, following petition by Chandrika Bandaranaike Kumaratunga.
-
-🟩
-
-Former President Maithripala Sirisena has issued an interim injunction today (04) to hold the post of President of the Sri Lanka Freedom Party (SLFP).
-
-The Colombo District Court has issued the order on the petition of former President Chandrika Bandaranaike Kumaratunga.
-
-◼️
-
-[Data](articles/2ed1f6bf.json)
-
-[Extended Data](ext_articles/2ed1f6bf.ext.json)
-
----
-
-### Action to eliminate the crisis of Jaffna Central Bus Station
-
-*2024-04-04 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180400) · `ta`
-
-Minister Douglas Devananda visited Jaffna Central Bus Station, observed the situation, and discussed with officials and passengers. He met with departmental officers and police to address the crisis and improve health measures. The Municipal Commissioner directed immediate action for passengers and buses.
-
-🟩
-
-Minister Douglas Devananda has taken steps to eliminate the crisis at the Central Bus Station in Jaffna and improve health measures.
-
-The Minister visited the bus station yesterday (03) and observed the situation in the city and had discussed with the department officials and passengers.
-
-Following this, the night, in his office with the departmental officers and the police in his office. The Municipal Commissioner gave a directive to the Manager of the Sri Lanka North Regional Transport Board to take action to take immediate action to passengers and passengers buses.
-
-◼️
-
-[Data](articles/29f0eb1c.json)
-
-[Extended Data](ext_articles/29f0eb1c.ext.json)
-
----
-
-### Maithri suspects
-
-*2024-04-04 12:19:48* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීට-අතුරු-තහනමක්/11-408945) · `si`
-
-Maithripala Sirisena, former President, has been issued an interim injunction by the Colombo High Court due to a complaint by the Sri Lanka Freedom Party's Chandrika Bandaranaike Kumaratunga.
-
-🟩
-
-Former President Maithripala Sirisena has issued an interim injury by the Colombo High Court by a complaint filed by the Sri Lanka Freedom Party (SLFP) former President Chandrika Bandaranaike Kumaratunga.
-
-◼️
-
-[Data](articles/8dfab0ea.json)
-
-[Extended Data](ext_articles/8dfab0ea.ext.json)
-
----
-
-### Special Bus Services
-
-*2024-04-04 12:11:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டிகையை-முன்னிட்டு-விசேட-பஸ்-சேவைகள்/175-335606) · `ta`
-
-Sri Lanka Transport Board launches special bus service from Wednesday for Sinhala and Tamil New Year, adding 200 buses for Colombo and surrounding areas.
-
-🟩
-
-The Deputy General Manager of the Sri Lanka Transport Board (Lanka) Panduga Swarnahansa said that a special bus service will be launched from Wednesday (05) to mark the Sinhala and Tamil New Year.
-
-He said about 200 additional buses will be operated to the people of Colombo and surrounding areas and buses will be operated from Colombo and surrounding areas.
-
-◼️
-
-[Data](articles/e6fcc565.json)
-
-[Extended Data](ext_articles/e6fcc565.ext.json)
-
----
-
-### Interim injunction issued preventing Maithripala from functioning as SLFP chairman
-
-*2024-04-04 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98416/interim-injunction-issued-preventing-maithripala-from-functioning-asslfpchairman) · `en`
-
-Colombo District Court on Thursday (04) issued an interim injunction preventing former President Maithripala Sirisena from functioning as the chairman of the Sri Lanka Freedom Party (SLFP).
-
-The order was delivered following a complaint filed by former President Chandrika Bandaranaike Kumaratunga.
-
-◼️
-
-[Data](articles/5d685e62.json)
-
-[Extended Data](ext_articles/5d685e62.ext.json)
-
----
-
-### During the period of Corona, the Cabinet of Cabinet will be presented to the Muslim community on the policy of the compulsory corpse (Janasa) policy - Minister Jeevan Thondaman
-
-*2024-04-04 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180406) · `ta`
-
-Jeevan Thondaman, Minister of Water Resources, apologizes to the Muslim community for the compulsory corpse (Janasa) burning policy during the Corona pandemic, acknowledging the community's distress. He also mentions the review of the policy after his appointment, highlighting the wrongful adoption of the policy by industry experts.
-
-🟩
-
-Jeevan Thondaman, General Secretary of the Ceylon Workers Congress and Water Resources and Estate Infrastructure Development Minister said that the government would formally apologize to the Muslim community on the policy of a compulsory corpse (Janasa burning), which was practiced during the period of Corona.
-
-The community was depressed by the incident that took place during the period of Corona, without considering the sentiments and religious beliefs of the Muslim people.. The Minister said that I apologize for that.
-
-The Iftar event was held at the Hatton DKW Hall yesterday (02) organized by Minister Jeevan Thondaman. He said this while addressing the event.
-
-“I was sworn in as a minister in January last year. However, I apologize for the Ministry of Water Resources in this regard.. Similarly, those who were the Minister should be held responsible for this.
-
-...
-
-[Data](articles/12663631.json)
-
-[Extended Data](ext_articles/12663631.ext.json)
-
----
-
-### Maithri is an interim injunction order
-
-*2024-04-04 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195285) · `si`
-
-Maithri Sirisena issued an interim injunction at the Colombo High Court to prevent the SLFP Chairman, with Chandrika Kumaratunga filing a complaint.
-
-🟩
-
-Former President Maithripala Sirisena has issued an interim injunction at the Colombo High Court to prevent the Chairman of the SLFP.
-
-Former President Chandrika Bandaranaike Kumaratunga has a complaint with a complaint.
-
-◼️
-
-[Data](articles/2e04cb77.json)
-
-[Extended Data](ext_articles/2e04cb77.ext.json)
-
----
-
-### Reflections On The April 1971 Uprising & Current Political Realities
-
-*2024-04-04 11:54:07* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reflections-on-the-april-1971-uprising-current-political-realities/) · `en`
-
-It has been 53 years since the April 1971 uprising. Over time, many of the comrades who participated have aged, fallen ill, or passed away. Yet, the collective aspiration that drove them, including those who made the ultimate sacrifice during the uprising, remains clear: to forge a society where every individual can live freely with dignity, underpinned by social and economic justice.
-
-The majority of the JVP membership hailed from Sinhala Buddhist rural backgrounds, with limited exposure beyond their immediate environment. Our understanding of societal diversity and the challenges faced by minority communities was rudimentary. Our worldview was shaped by the prevailing political and cultural milieu, gleaned through books, newspapers, and social interactions.
-
-...
-
-[Data](articles/1665697c.json)
-
-[Extended Data](ext_articles/1665697c.ext.json)
 
 ---

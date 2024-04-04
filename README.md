@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 23:03:10**
+As of **2024-04-04 23:18:37**
 
 ## Newspaper Stats
 
-*Scraped **17,213** Articles*
+*Scraped **17,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 957
 adalk | 1,456
 tamilmirrorlk | 2,037
 adaderanalk | 2,065
-virakesarilk | 2,499
+virakesarilk | 2,500
 dailymirrorlk | 2,642
 adaderanasinhalalk | 2,783
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,213 (100.0%) of 17,213 articles have been extended.
+17,213 (100.0%) of 17,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### புனித யாத்திரிகர்களுக்கு சிறப்பு மருத்துவ சலுகை வழங்கி வரும் இளவரசர் சுல்தான் மருத்துவ மையம்
+
+*2024-04-04 22:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180463) · `ta`
+
+இரு புனித தலங்களையும் தரிசிக்க ஆண்டுதோறும் வருவபர்களது யாத்திரிகையை இலகுபடுத்தும் வகையில் அதி உயர் சேவைகளை, சலுகைகளை தொடர்ந்தும் சவூதி அரேபிய அரசாங்கம் வழங்கி வருவது நாம் அறிந்ததே.
+
+அந்த வகையில் மதீனா நகரில் இளவரசர் சுல்தான் ஆயுதப்படை மருத்துவமனையின் பருவகால மருத்துவ மையமானது, புனித மஸ்ஜித் நபவியில், தரிசிக்க வருபவர்கள் மற்றும் குடிமக்களுக்கு மருத்துவ மற்றும் அவசர சிகச்சை சேவைகளை தொடர்ந்து வழங்கி வருகிறது.
+
+இந்த மையம் கடந்த சனிக்கிழமை வரை அதன் சேவைகளின் பயனாளிகளின் எண்ணிக்கையை விவரிக்கும் வகையில் புள்ளிவிபரமொன்றை வெளியிட்டுள்ளது, இதில் 4,906 பெண்கள் மற்றும் 7,253 ஆண்கள் உட்பட மொத்தம் 12,159 நோயாளிகள், அவசர சிகிச்சை தேவையுடையவர்கள் பயன்பெற்றுள்ளனர். மேலும், 37 நோயாளிகள் அந்நாட்டு சுகாதார அமைச்சுடன் இணைந்த மருத்துவமனைகளுக்கு பரிந்துரைக்கப்பட்டன.
+
+...
+
+[Data](articles/2cec23c2.json)
+
+---
 
 ### Special Notice of the Ministry of Education for O/L, A/L students
 
@@ -2301,37 +2317,5 @@ The Asian Development Bank, the International Monetary Fund, World Bank, led by 
 [Data](articles/aad3f374.json)
 
 [Extended Data](ext_articles/aad3f374.ext.json)
-
----
-
-### Two new train services start tomorrow
-
-*2024-04-04 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180419) · `ta`
-
-Two new train services start tomorrow: Tunhinda Odyssey from Colombo at 6.30 am, with 4 rooms, 44 seats each, and a fee of 8,000. Caliphzo, launched in Badulla, offers special viewing without full coverage.
-
-🟩
-
-The Railway Department will commence the new train services on Friday (05) to mark the 100 -year completion of the train service between Colombo and Badulla.
-
-The Tunhinda Odyssey train will leave Colombo Fort tomorrow (5) at 6.30 am.
-
-Passenger transport will be held after the Tunhinda Odyssey inauguration. As well as the ticket fee is 8,000.
-
-The train has four rooms with 44 seats each. This includes three second -class rooms and a third grade room with canteen.
-
-In addition to the train, another special train named "Caliphzo" will be launched on the day of Badulla.
-
-The train is not covered throughout the train, with special viewing.
-
-The train service will also be launched by Minister of Transport and Highways Bandula Gunawardena.
-
-Designed to enjoy natural beauty, this Kalipsoo train has entertainment, including food and music.
-
-◼️
-
-[Data](articles/b0c5d597.json)
-
-[Extended Data](ext_articles/b0c5d597.ext.json)
 
 ---

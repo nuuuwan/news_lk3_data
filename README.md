@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 12:51:08**
+As of **2024-04-04 13:03:17**
 
 ## Newspaper Stats
 
-*Scraped **17,083** Articles*
+*Scraped **17,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
 economynextcom | 944
-adalk | 1,439
-tamilmirrorlk | 2,029
+adalk | 1,440
+tamilmirrorlk | 2,030
 adaderanalk | 2,045
 virakesarilk | 2,475
 dailymirrorlk | 2,626
-adaderanasinhalalk | 2,754
+adaderanasinhalalk | 2,755
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,077 (100.0%) of 17,083 articles have been extended.
+17,083 (100.0%) of 17,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### மைத்திரி சு.க வின் தலைவராக செயற்பட தடை
+
+*2024-04-04 12:50:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-சு-க-வின்-தலைவராக-செயற்பட-தடை/175-335608) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன செயற்படுவதற்கு கொழும்பு மாவட்ட நீதிமன்றம் இன்று தடை உத்தரவு பிறப்பித்துள்ளது.
+
+முன்னாள் ஜனாதிபதி சந்திரிக்கா குமாரதுங்கவினால் தாக்கல் செய்யப்பட்ட வழக்கிற்கு அமைய கொழும்பு மாவட்ட நீதிமன்ற நீதிபதி சந்துன் விதான இந்த உத்தரவை பிறப்பித்துள்ளார்.
+
+◼️
+
+[Data](articles/528c3491.json)
+
+---
+
+### දමිතා අධිකරණයට භාරවෙයි
+
+*2024-04-04 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195286) · `si`
+
+මුදල් වංචාවකට අදාළව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සොයමින් සිටි ප්‍රවීණ රංගන ශිල්පිනී දමිතා අබේරත්න සහ ඇයගේ සැමියා අද (04) කොටුව මහෙස්ත්‍රාත් අධිකරණයට පැමිණ තිබුණි.
+
+"මම හැංගුනේ නැහැ. මේ රටේ හැංගෙන්න පුළුවන් චරිතයක් නෙමෙයි මේ දමිතා. දමිතා කියන්නේ 69 ලක්ෂයක් ඡන්දෙ ගත්තු ඒ කාලකන්නි ක්‍රමයට එරෙහිව අරගල කරපු ගැහැණියක්. මම අද අධිකරණයට භාර වෙනවා. ඔය පොහොට්ටුව ඇතුළු දේශබන්දු මේ සිඟිති ආතල් එක ගන්න. මමත් අවුරුදු සමරනවා හිරගෙදර. "
+
+කොරියාවට යවන බව පවසා රුපියල් ලක්ෂ 30ක මුදලක් වංචා කළ බවට පරිගණක අපරාධ කොට්ඨාසය විසින් ප්‍රවීණ රංගන ශිල්පිනී දමිතා අබේරත්න මහත්මිය සහ ඇයගේ සැමියාට එරෙහිව විමර්ශන ආරම්භ කර තිබුණි.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කොටුව මහෙස්ත්‍රාත් අධිකරණයට දැනුම්දී තිබුණේ දමිතා අබේරත්න සහ ඇයගේ සැමියා සැකකරුවන් ලෙස නම් කරන බවය.
+
+ඒ අනුව ඔවුන් අත්අඩංගුවට ගැනීම වළක්වාලන ලෙස ඉල්ලමින් රිට් පෙත්සමක් ඉදිරිපත් කෙරුණද එය පසුගියදා ප්‍රතික්ෂේප කෙරුණි.
+
+මේ අතර දමිතා අබේරත්න මහත්මියට සහ ඇයගේ සැමියාට විදෙස් ගතවීම තහනම් කරමින් කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා ඊයේ  (03) නියෝගයක් ද නිකුත් කළේය.
+
+◼️
+
+[Data](articles/6dbf093d.json)
+
+---
 
 ### CBK obtains enjoining order against Maithripala on SLFP Chairmanship
 
@@ -44,53 +80,81 @@ Colombo District Court Judge Sandun Vithana made this order pursuant to a lawsui
 
 [Data](articles/870ec0c3.json)
 
+[Extended Data](ext_articles/870ec0c3.ext.json)
+
 ---
 
-### இந்தியா இலங்கையின் கடல்எல்லையை மீறினால் அது இலங்கையின் இறைமையை மீறும் செயலாக கருதப்படும் - தேர்தல் வாக்குகளிற்காக பாஜக கச்சதீவு விவகாரத்தை பயன்படுத்துகின்றது - இந்தியாவிற்கான முன்னாள் இலங்கை தூதுவர் ஒஸ்டின் பெர்ணாண்டோ
+### If India violates Sri Lanka's maritime, it will be considered a violation of Sri Lanka's sovereignty - the BJP is using the Kachchativu issue for election votes
 
 *2024-04-04 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180412) · `ta`
 
-இந்தியா கடல்எல்லையை தாண்டினால் அது இலங்கையின் இறைமையை மீறும் செயலாக கருதப்படும் என இந்தியாவிற்கான இலங்கையின் முன்னாள் தூதுவர் ஒஸ்டின் பெர்ணாண்டோ தெரிவித்துள்ளார்.
+Ostin Fernando, former Sri Lankan Ambassador to India, warns that any Indian maritime violation is a sovereignty breach. He criticizes the BJP's use of the Kachchativu issue for votes, noting it's risky for India to backtrack post-election. Fernando highlights the complexities of India's stance, especially regarding its investments in Sri Lanka, and the potential impact on Sri Lankan voters.
 
-இந்திய தேர்தல் சூழலில் கச்சதீவு விவகாரத்தை பயன்படுத்துவதற்கு பாஜக முயற்சிகளை மேற்கொண்டுள்ள அதேவேளை  பாஜக வாக்குகளை கவரும் முயற்சியில் ஈடுபட்டிருக்கலாம் ஆனால் தேர்தலி;ற்கு பின்னர் இந்திய அரசாங்கம் மீண்டும் பழைய நிலைக்கு செல்ல முடியாது அது கடினமான விடயம் எனஒஸ்டின் பெர்ணாண்டோ தெரிவித்துள்ளார்.
+🟩
 
-மிகவும் மதிக்கப்படும் அனுபவம் மிக்க அதிகாரியான ஒஸ்டின் பெர்ணாண்டோ கொழும்பிலிருந்து இந்தியன் எக்ஸ்பிரசி;ற்கு கருத்துதெரிவிக்கையில் இதனை குறிப்பிட்டுள்ளார்.
+Former Sri Lankan Ambassador to India, Ostin Fernando, said that if India crosses the sea, it will be considered a violation of the sovereignty of Sri Lanka.
 
-இந்திய அரசாங்கம் இலங்கையின் கடல்சார் எல்லையை மீறினால் அது இலங்கையின் இறைமையை மீறும் செயலாக கருதப்படும் என அவர் தெரிவித்துள்ளார்.
+Ostin Fernando said the BJP is trying to capture the votes of the BJP, but it is difficult for the Indian government to go back to the old position after the election.
 
-1980களில் இந்திய அமைதிப்படை காலத்தில் இலங்கை ஜனாதிபதியாக பதவிவகித்த ரணசிங்க பிரேமதாசாவின் கூற்றினை ஒஸ்டின் பெர்ணாண்டோ நினைவுபடுத்தியுள்ளார்.
+Austin Fernando, the most respected official, made this comment from the Indian Express from Colombo.
+
+He said that if the Indian government exceeds the maritime border of Sri Lanka, it will be considered a violation of the sovereignty of Sri Lanka.
+
+Austin Fernando recalled Ranasinghe Premadasa, who was sworn in as President of Sri Lanka during the Indian Peace Corps during the 1980s.
+
+Austin Fernando has questioned how India will be able to do so if India will allow India to permit a plan in Pakistan near Goa.
+
+Austin Fernando has told the Indian Express that it is using this issue as a strategy to attract the BJP in Tamil Nadu.
 
 ...
 
 [Data](articles/a5ba70ab.json)
 
+[Extended Data](ext_articles/a5ba70ab.ext.json)
+
 ---
 
-### கொக்குத்தொடுவாய் மனித புதைகுழி அகழ்வுப் பணியை மீள ஆரம்பிக்க  இதுவரை நிதி கிடைக்கவில்லை ; வழக்கு விசாரணை ஒத்திவைப்பு
+### Funds have not yet been received to rescue the excavation work of the Kokkuttuvai Human Buries;Postponement
 
 *2024-04-04 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180410) · `ta`
 
-முல்லைத்தீவு மாவட்டத்தின் கொக்குதொடுவாய் பகுதியில் 29.06.2023 அன்று கண்டுபிடிக்கப்பட்ட மனித புதைகுழி அகழ்வு  தொடர்பான  வழக்கு  இன்று வியாழக்கிழமை (04)  முல்லைத்தீவு நீதவான்  நீதிமன்றில் இடம்பெற்றது.
+The excavation of human burials in Kokkuttuwai, Mullaitivu, has been postponed due to lack of funds. The first phase, starting on 06.09.2023, recovered 17 trunks over 11 days, and the second phase, from 20.11.2023, found 40 skeletal blocks over 9 days before being suspended. The remains date back to 1994-1996.
 
-முல்லைத்தீவு நீதவான்  நீதிமன்றில் நீதிபதி தர்மலிங்கம் பிரதீபன்  முன்னிலையில் இடம் பெற்ற வழக்கு விசாரணைகளில் முல்லைத்தீவு மாவட்ட சட்ட வைத்திய அதிகாரி கனகசபாபதி வாசுதேவா,  முல்லைத்தீவு மாவட்ட செயலக பிரதம கணக்காளர் மயில்வாகனம் செல்வரட்ணம், கொக்கிளாய் பொலிஸ் நிலைய பொறுப்பதிகாரி,கொக்கிளாய் பகுதி  கிராம அலுவலர், சட்டத்தரணிகளான வி கே நிறஞ்சன், கணேஸ்வரன் மற்றும் காணாமல் போனோர் அலுவலகம் சார்பாக சட்டத்தரணி துஷ்யந்தினி ஆகியோர் முன்னிலையாகியிருந்தனர்.
+🟩
+
+The case relating to the human burial excavation, which was discovered on 29.06.2023 in the Kokkuttuwai area of the Mullaitivu district, was taken up at the Mullaitivu Magistrate's Court on Thursday (04).
+
+Mullaitivu District Legal Medical Officer Kanagasabapathi VasudevaThey were present.
+
+In this case, the Ministry of Mullaitivu District Secretariat, Mayilwakanam Selvararatnam, said that the ministry has not yet received funds for the excavation work and that the excavation has been increased.. In this case, steps will be taken to obtain funds and obtain funds. In addition, the case has been postponed to the 16th of Vaikasi.
+
+The first phase of the human burial ground in the Kokkuttuwai area of the Mullaitivu district began on 06.09.2023 and held eleven days after the recovery of 17 trunks.
 
 ...
 
 [Data](articles/59637104.json)
 
+[Extended Data](ext_articles/59637104.ext.json)
+
 ---
 
-### ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவர் பதவியை வகிப்பதற்கு மைத்திரிபால சிறிசேனவுக்கு தடைவிதித்த  நீதிமன்றம்!
+### Maithripala Sirisena banned the Sri Lanka Freedom Party (SLFP) leader
 
 *2024-04-04 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/180409) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவர் பதவியை வகிப்பதற்கு கொழும்பு மாவட்ட நீதிமன்றம்  இன்று வியாழக்கிழமை (04) இடைக்காலத் தடையுத்தரவு பிறப்பித்துள்ளது.
+Maithripala Sirisena bans SLFP leader, Colombo District Court issues interim injunction, following petition by Chandrika Bandaranaike Kumaratunga.
 
-முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்கவின் மனு தொடர்பில் ஆராய்ந்த கொழும்பு மாவட்ட நீதிமன்றம் இந்த தடை உத்தரவைப் பிறப்பித்துள்ளது.
+🟩
+
+Former President Maithripala Sirisena has issued an interim injunction today (04) to hold the post of President of the Sri Lanka Freedom Party (SLFP).
+
+The Colombo District Court has issued the order on the petition of former President Chandrika Bandaranaike Kumaratunga.
 
 ◼️
 
 [Data](articles/2ed1f6bf.json)
+
+[Extended Data](ext_articles/2ed1f6bf.ext.json)
 
 ---
 
@@ -116,15 +180,21 @@ Following this, the night, in his office with the departmental officers and the 
 
 ---
 
-### මෛත්‍රීට අතුරු තහනමක්
+### Maithri suspects
 
 *2024-04-04 12:19:48* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීට-අතුරු-තහනමක්/11-408945) · `si`
 
-හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය  ගොනුකළ පැමිණිල්ලකට අදාළව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරයේ කටයුතු කිරීම වළක්වාළමින් කොළඹ මහාධිකරණයෙන් අතුරු තහනම් නියෝගයක් නිකුත් කර ඇත.
+Maithripala Sirisena, former President, has been issued an interim injunction by the Colombo High Court due to a complaint by the Sri Lanka Freedom Party's Chandrika Bandaranaike Kumaratunga.
+
+🟩
+
+Former President Maithripala Sirisena has issued an interim injury by the Colombo High Court by a complaint filed by the Sri Lanka Freedom Party (SLFP) former President Chandrika Bandaranaike Kumaratunga.
 
 ◼️
 
 [Data](articles/8dfab0ea.json)
+
+[Extended Data](ext_articles/8dfab0ea.ext.json)
 
 ---
 
@@ -380,6 +450,24 @@ That is the train with special viewing facilities called "Calypso" without round
 
 ---
 
+### ඩුබායිහි සේවය කළ ආරච්චිකට්ටුවේ පුද්ගලයින් දෙදෙනෙකු එකම දිනයකදි හෘදයාබාධවලින් ජීවිතක්ෂයට
+
+*2024-04-04 11:26:36* · [`adalk`](https://www.ada.lk/breaking_news/ඩුබායිහි-සේවය-කළ-ආරච්චිකට්ටුවේ-පුද්ගලයින්-දෙදෙනෙකු-එකම-දිනයකදි-හෘදයාබාධවලින්-ජීවිතක්ෂයට/11-408944) · `si`
+
+ආරච්චිකට්ටුව පොලිස් වසමට අයත්  ප්‍රදේශ දෙකක ඩුබායි රටේ සේවය කළ පුද්ගලයින් දෙදෙනෙකු ඉකුත් මාරතු 30දා  එකවර මරණයට පත්ව ඇතිබවට තොරතුරු ලැබී ඇතිබව ආරච්චිකට්ටුව පොලීසිය පවසයි.
+
+මෙසේ මරණයට පත්ව ඇත්තේ ආරච්චිකට්ටුව නල්ලදරන්කට්ටුව කිරිවැල්කැළේ එස්. එම්. ජී. වත්ත පදිංචි පී. එම්. සඳුන් මධුසංක නැමති  28 හැවිරිදි අවිවාහක තරුණයෙකු සහ ආරච්චිකට්ටුව ඇන්ටන්විල්වත්ත අංක 343 පදිංචි මොහන්දිරම්ලාගේ රමේෂ් උදාර තිළිණ නැමති 42 හැවරිදි දෙදරු පියෙකි.
+
+මෙම පුද්ගලයින් මීට  වසර හතරකට සහ දෙකකට පෙර කුරුණෑගල ප්‍ර දේශයේ ප්‍රසිද්ධ ඒජන්සියකින් ඩුබායි රටේ රැකියාවකට ගොස් ඇති බව ඥාතීන් පවසයි.  මෙම පුද්ගලයින් සෑම දිනකම සිය ඥාතීන් සමග දුරකථන මාරගයෙන් සම්බන්ධතා පවත්වාගන ගොස් ඇතිබවත්  මරණයට පත්වීමට දින කීපයකට පෙර තමන් අසනීප තත්වයකින් පසුවන බව මෙරට වාසය කරන සිය ඥාතීන් සමග පවසා ඇත.
+
+අනතුරුව රෝගී තත්වය උත්සන්න වීමෙන් එරට රෝහලට ඇතුලත් කීරීමෙන් අනතුරුව මරණයට පත්ව ඇතිබව එරට රෝහල් ආරංචි මාරග පවසයි. ඥාතීන් පවසන්නේ මෙම මරණ සමබන්ධයෙන් ශ්‍රී ලංකා රජය මැදිහත්ව මෙරටට මෘත ශරීර ගෙන්වා විධිමත් සාධාරණ පරීක්ෂණයක් පවත්වා මරණවලට හේතු සොයා දෙන ලෙසයි.
+
+...
+
+[Data](articles/8a8c6a7c.json)
+
+---
+
 ### A man was arrested and released on bail with deer meat in Puttalam
 
 *2024-04-04 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180395) · `ta`
@@ -408,21 +496,27 @@ Mohamed Iqbal, who served as a reply, has been ordered to be released on bail an
 
 ---
 
-### බංකොලොත්වූ රටක දුප්පත්කම අළුත් දෙයක් නොවෙයි
+### Poverty is not new in a bankruptted country
 
 *2024-04-04 11:18:48* · [`adalk`](https://www.ada.lk/breaking_news/බංකොලොත්වූ-රටක-දුප්පත්කම-අළුත්-දෙයක්-නොවෙයි/11-408943) · `si`
 
-රට ගොඩනැගීම වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රමුඛ ආණ්ඩුව විසින් දියත්කර තිබෙන වත්මන් වැඩපිළිවෙල දශමයකින් හෝ වෙනස් කලහොත් රට යළිත් බරපතල අවධානමකට ලක්වන බව ප්‍රවාහන හා මහාමාර්ග සහ ජනමාධ්‍ය අමාත්‍ය බන්දුල ගුණවර්ධන මහතා අවධාරණය කළේය.
+Bandula Gunawardena, Minister of Transport and Highways, emphasized the country's economic challenges, including a 361 billion rupee debt to the Road Development Authority and a decrease in the value of the dollar, impacting import costs. He highlighted improvements in GDP, a surplus in the current account, a strengthened rupee, and reduced inflation. Despite these advancements, poverty remains a concern, necessitating increased income and economic growth.
 
-මෙරට දුප්පත්කම ඉහළ ගොස් ඇති බවට විවිධ වාර්තා පල වුවත්, ආර්ථික වර්ධනය සෘණ 08ක් වූ සහ මුළුමණින්ම බංකොළොත් භාවයට පත්වූ රටක එය අළුත් දෙයක් නොවන බව පෙන්වා දුන් අමත්‍යවරයා සමෘද්ධිය සඳහා වෙන්කල මුදල මෙන් තුන් ගුණයක මුදලක් වෙන්කර අස්වැසුම වැඩසටහන දියත් කර තිබෙන්නේ එම දුප්පත්කමට ඔරොත්තු දිය හැකි සමාජ ආරක්ෂණයක් ඇති කිරීමට බව ද සඳහන් කළේය.
+🟩
 
-ප්‍රවාහන හා මහාමාර්ග සහ ජනමාධ්‍ය අමාත්‍ය බන්දුල ගුණවර්ධන මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Transport and Highways and Mass Media Mam Media Minister Bandula Gunawardena stressed that the country has changed in a decadent decision by President Ranil Wickremesinghe to build the country.
 
-මාර්ග සංවර්ධන අධිකාරිය විසින් කොන්ත්‍රාත්කරුවන් වෙනුවෙන් රුපියල් බිලියන 361ක හිඟ බිල්පත් ගෙවා තිබෙන බවත්, ද්වීපාර්ශ්වීය ණය හිමියන් සමඟ ගිවිසුම් අත්සන් කිරීමෙන් පසු තිබෙන සියලූම සංවර්ධන යෝජනා ක්‍රම ආරම්භ කිරීමට හැකි වන බවත් අමාත්‍යවරයා පැවසීය.
+Although various reports have risen in the country, the volume of the resource for the prosperous amount of prosperous is not new for prosperous.He added that a security is to be protected.
+
+Minister of Transport and Highways Bandula Gunawardena made this statement participating at a press conference held at the Presidential Media Center for a 'stable country'.
+
+The Road Development Authority has paid bills of 361 billion rupees and that all development schemes of the agreement with bilateral creditors will be initiated.
 
 ...
 
 [Data](articles/b06e5409.json)
+
+[Extended Data](ext_articles/b06e5409.ext.json)
 
 ---
 
@@ -2163,69 +2257,5 @@ This time around, ahead of Lok Sabha elections, it has been raised; and the deba
 [Data](articles/48b0b51a.json)
 
 [Extended Data](ext_articles/48b0b51a.ext.json)
-
----
-
-### The intelligent public might not be interested in Kachchativu
-
-*2024-04-04 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-intelligent-public-might-not-be-interested-in-Kachchativu/172-280122) · `en`
-
-At present people are intelligent and have different yardsticks to judge the capacity of potential candidates when the time comes for casting their votes at the elections
-
-There was a time when the people of this island were in love with Sinhala-Buddhist leaders who sported a mustache. Now people are in love with the intellectual capacity of people
-
-There is a school of thought that the clergy must also be represented in parliament. And so must be people involved in education, health sector, power and energy, agriculture and, very importantly, sports
-
-It’s also interesting to see whether the Kachchativu issue, which is hot news and a burning issue at present, would provide an impetus for presidential hopefuls to gain some mileage out of it
-
-...
-
-[Data](articles/d98cd41e.json)
-
-[Extended Data](ext_articles/d98cd41e.ext.json)
-
----
-
-### 2024-04-03 (Wednesday)
-
-### Zakath and tax: A comparative view
-
-*2024-04-03 23:58:13* · [`dailyftlk`](https://www.ft.lk/opinion/Zakath-and-tax-A-comparative-view/14-760266) · `en`
-
-It is really amazing to note that the zakath system, which came into effect 14 centuries ago, is still compatible with the modern tax system
-
-Zakath is the direct tax that Islam has imposed upon every Muslim who has annual net wealth exceeding a threshold. Income tax is also a direct tax that the Government imposes on every person who has an annual net income exceeding a threshold.
-
-It is clearly evident from the definition that both zakath and tax have similarities as well as differences. The purpose of this study is to give the readers a comparative understanding of zakath and the tax system as the Muslims traditionally pay their zakath during this month of Ramazan, which is the ninth month of the Muslim (lunar/Hijri) calendar, which is 354 days while the Gregorian calendar is 365 days.
-
-It is underlined here that the laws and practices were taken from the Sri Lankan context in authoring this article.
-
-...
-
-[Data](articles/0caa8866.json)
-
-[Extended Data](ext_articles/0caa8866.ext.json)
-
----
-
-### Council to be formed to boost efficiency in agricultural modernization
-
-*2024-04-03 23:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98408/council-to-be-formed-to-boost-efficiency-in-agricultural-modernization) · `en`
-
-President Ranil Wickremesinghe has declared the formation of an Agricultural Modernization Organization Council, which will be chaired by both the Head of State and Prime Minister.
-
-The primary objective of this council will be to oversee the restructuring of ministries, institutions, and organizations associated with agriculture in Sri Lanka.
-
-President Wickremesinghe made this announcement during a progress review meeting of the Agriculture Modernization Program held at the Presidential Secretariat on Wednesday morning (03).
-
-He emphasized that establishment of this new council aims to enhance the efficiency of government institutions involved in the agricultural modernization initiative.
-
-At the meeting, Senior Prof. Gamini Senanayake, Chairman of the expert committee, presented the policy framework devised for the modernization of the agriculture sector in Sri Lanka to the President.
-
-...
-
-[Data](articles/f12d78a0.json)
-
-[Extended Data](ext_articles/f12d78a0.ext.json)
 
 ---

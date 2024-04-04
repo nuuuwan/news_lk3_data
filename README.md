@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 23:52:49**
+As of **2024-04-05 00:03:45**
 
 ## Newspaper Stats
 
@@ -26,23 +26,31 @@ adaderanasinhalalk | 2,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,214 (100.0%) of 17,215 articles have been extended.
+17,215 (100.0%) of 17,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### யாழ்ப்பாணப் பல்கலைக்கழகத்தில் மாணவர் ஆவணப்படங்கள் வெளியீடு
+### Student documentaries published at the University of Jaffna
 
 *2024-04-04 23:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180464) · `ta`
 
-யாழ்ப்பாணப் பல்கலைக்கழக ஊடகக் கற்கைகள் துறை மாணவர்களால் தயாரிக்கப்பட்ட மக்களின் வாழ்வியலைச் சித்திரிக்கும் பத்து ஆவணப்படங்கள் எதிர்வரும் 08ஆம் திகதி திங்கட்கிழமை பிற்பகல் இரண்டு மணிக்கு யாழ். பல்கலைக்கழகக் கைலாசபதி கலையரங்கில் திரையிடப்படவுள்ளன.
+The University of Jaffna's Media Studies Department screens student documentaries, including 'Thavil Kodu', 'Dawal Kodu', and 'Karainagar', highlighting Tamil traditions, fishing, and the challenges faced by hill people and workers in the brick industry.
 
-தமிழரின் பாரம்பரியமாக விளங்கும் தவில் இசைக்கருவியின் உருவாக்கமும் நுட்பமும் பற்றிய பதிவான ‘தவில் கொட்டு’,  காரைநகரின் ஊரி கிராமப் பெண்கள் தமது சொந்தக் கால்களில்  நின்று மீன்பிடித் தொழிலாற்றுவது பற்றிப் பேசும் ‘அலைமகள்’, தீயில் எரிந்து போன லயன் குடியிருப்புகளுக்குப் பதிலாக மாற்று வீடுகள் கிடைக்கும் எனக் காத்திருக்கும் மலையக மக்களின் துன்பங்களைப் பதிவுசெய்யும் ‘தணல்’, மட்டக்களப்பிலுள்ள வேப்பவெட்டுவானில் செங்கல் கைத்தொழில் தயாரிப்பு மற்றும் அது தொடர்பான பிரச்சினைகளை எடுத்துக்காட்டும்; ‘கல்வாடி’, மலையகப் பெண்கள் மாதவிடாய்க் காலங்களிலும் மலைகளில் ஏறிக் கொழுந்து பறிப்பதில்; எதிர்கொள்ளும் சவால்கள் பற்றி பேசும் ‘கசிவு’,
+🟩
+
+Jaffna University Media Studies Department of Media Studies. University Kailasapati will be screened at the gallery.
+
+'Thavil Kodu', a record of the creation and sophistication of the Tamil tradition, 'Dawal Kodu', 'Karainagar', 'Alaimakal', who talks about the fishing business on their own feet, and the hill people who are waiting for alternative houses instead of burned Lion dwellings in the fire.Brick industry production and related problems in neemwettan;In the menstrual period, in the menstrual period,Talking about the challenges facing
+
+The lifeblood of the life of the lifestyle, which is the time -consuming of the treasures of the Tamil architectural treasures, will showcase the workloads of workers;Documentary films are to be screened, such as the wounds of the police, the challenges of the land rights of the hill country, and the life of the farmers who protect the farmers in the fields.
 
 ...
 
 [Data](articles/3b029616.json)
+
+[Extended Data](ext_articles/3b029616.ext.json)
 
 ---
 

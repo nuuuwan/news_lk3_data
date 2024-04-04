@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 21:03:23**
+As of **2024-04-04 21:18:10**
 
 ## Newspaper Stats
 
-*Scraped **17,186** Articles*
+*Scraped **17,201** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 208
 newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
-economynextcom | 944
+economynextcom | 957
 adalk | 1,454
 tamilmirrorlk | 2,034
-adaderanalk | 2,062
-virakesarilk | 2,497
+adaderanalk | 2,063
+virakesarilk | 2,498
 dailymirrorlk | 2,640
 adaderanasinhalalk | 2,781
 
@@ -26,63 +26,103 @@ adaderanasinhalalk | 2,781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,178 (100.0%) of 17,186 articles have been extended.
+17,186 (99.9%) of 17,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### මෛත්‍රීගේ ප්‍රකාශය ගැන අධිකරණයේ මතය දැනුම්දෙයි
+### 68 suspects arrested over torching of Sanath Nishantha’s house released
+
+*2024-04-04 20:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98433/68-suspects-arrested-over-torching-of-sanath-nishanthas-house-released) · `en`
+
+The Chillaw Magistrate’s Court has ordered the release of all 68 individuals who were arrested on suspicion of involvement in the torching late State Minister Sanath Nishantha’s residence.
+
+Attorney-at-Law Sweeney Perera, who appeared on behalf of the aforementioned suspects, stated that this order was issued by the Chillaw Magistrate today (04) when the case was taken up.
+
+He further stated that the court decided to release all the suspects of the case due to the death of both witnesses in the case and the failure of the police to present any evidence against the accused to the court.
+
+◼️
+
+[Data](articles/933f79bc.json)
+
+---
+
+### Court notifies Maithri's statement
 
 *2024-04-04 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195313) · `si`
 
-ශ්‍රී ලංකා ජනරජයේ සුරක්ෂිතභාවය පිළිබඳ අධිකරණයට සුවිශේෂී වගකීමක් ඇති බැවින් පාස්කු ප්‍රහාරය සම්බන්ධයෙන් හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතාගේ ප්‍රකාශය ඇතුළත් බී වාර්තාව සුදුසු කාලයක් රහස්‍ය ලේඛනයක් ලෙස පවත්වා ගැනීමට සිදුවන බව මාළිගාකන්ද මහ‍ෙස්ත්‍රාත් ලෝචිනී අබේවික්‍රම මහත්මිය අද (04) විවෘත අධිකරණයේ ප්‍රකාශ කළාය.
+Adobanda Magistrate Lulchini Abeywickrama notified Maithripala Sirisena's statement on the Passover attack. Sirisena received a statement for over 5 hours, but the CID couldn't be given due to a motion filed in court. The case was reopened in court, with the CID making a report. Rajitha Lakmal was reported as responsible for the attack. The Magistrate criticized Sirisena's behavior and mentioned the possibility of imprisonment under the Penal Code. Sanderarachchi defended Sirisena, stating he's not obstructing the investigation. The case was postponed until May 10.
 
-ඒ පාස්කු ප්‍රහාරය සිදුකළේ කවුද යන්න තමා දන්නා බවට හිටපු ජනාධිපතිවරයා සිදුකළ ප්‍රකාශය සම්බන්ධයෙන් වූ නීතිකෘත්‍ය අද කැඳවූ අවස්ථාවේදීය.
+🟩
 
-පාස්කු ප්‍රහාරය සිදුකළේ කවුරුන්ද යන්න තමා දන්නා බවත්, අධිකරණයෙන් නියෝගයක් දෙන්නේ නම් ඒ පිළිබඳ කරුණු හෙළි කිරීමට තමන් සූදානම් බවත් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා කළ ප්‍රකාශය සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පැය 5කට අධික කාලයක් ඔහුගෙන් ප්‍රකාශයක් ලබාගත්තේය.
+Adobanda Magistrate Lulchini Abeywickrama stated that the report of former President Maithripali Sirisena, who had former President Maithripala Sirisena, the statement of the Passover attack is a suitable period of time.
 
-එම ප්‍රකාශය මත පදනම්ව නීතිපති උපදෙස් පරිදි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය වෙත පසුගියදා කරුණු ගොනු කළේ ඒ අනුවය.
+It was when the ruler of the statement made by the former president that he was aware of the Passover attack was called today.
+
+Former President Maithripala Sirisena received a statement from him for more than 5 hours to reveal the Passover attack.
+
+According to the Attorney General, the Criminal Investigation Department has recently filed the matter to the Maligakanda Magistrate's Court on the Attorney General.
+
+However, the former president filing a motion in court yesterday, however, a detailed statement had been issued to the CID, as a result of the CID cannot be given to the CID.
+
+Accordingly, the relevant law was taken up again in court in courts this afternoon.
 
 ...
 
 [Data](articles/329f4aad.json)
 
+[Extended Data](ext_articles/329f4aad.ext.json)
+
 ---
 
-### ලංකාවෙන් ඩොලර් බිලියන දෙකක් ඉන්දියාව නෙළාගෙන යන හැටි
+### How Sri Lanka's two billion dollars to India
 
 *2024-04-04 20:39:04* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවෙන්-ඩොලර්-බිලියන-දෙකක්-ඉන්දියාව-නෙළාගෙන-යන-හැටි/11-408965) · `si`
 
-ඉන්දීය ධීවරයන් උතුරු - නැගෙනහිර සිදු කරන නීති විරෝධී මත්ස්‍ය අස්වනු නෙළීම නිසා වාර්ෂිකව ශ්‍රී ලංකාවට ඩොලර් බිලියන 02ක පමණ ආදායමක් අහිමි වන බව ආර්ථික අර්බුදයේ බලපෑම සමනය කිරීම පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේදී අනාවරණය විය.
+Sri Lanka's $2 billion annual loss to India due to illegal fish harvesting in the North and East. Chairman MP Gamini Walareboda warns of GSPPlus concessions risk. Unauthorized importation of shrimp and prawns, estimated at 10,000 metric tons annually, threatens the European shrimp market. India's fishing practices, including large-scale harvesting, cost about $2 billion per year. Sri Lanka's response includes surveys, Navy involvement, and potential charges against involved companies.
 
-එමෙන්ම ඉන්දියාවෙන් ඉස්සන් ආනයනය කර ප්‍රතිඅපනයනය කිරීම හරහා ශ්‍රී ලංකාවට ජී.එස්.පී.ප්ලස් සහනය අහිමි වීමේ අවදානමක් තිබෙන බවටද කාරක සභාවේදී අනාවරණය වූ බව එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී ගාමිණි වලේබොඩ මහතා 'අද'  පුවත්පත කළ විමසීමකට පිළිතුරු ලබා දෙමින් සඳහන් කළේය.
+🟩
 
-එමෙන්ම නාරා ආයතනය ජාත්‍යන්තර මුහුදු සීමාවෙන් උතුරු - නැගෙනහිරට අයත් මුහුදු සීමාව පිළිබඳ වසර 30කින් සමීක්ෂණයක් සිදු කර නොමැති බවටද අනාවරණය වී තිබේ.
+The Indian fishermen will lose about $ 2 billion annually due to the illegal fish harvesting of the North and East.
 
-ඒ සම්බන්ධයෙන් වැඩිදුරටත් සභාපති පාර්ලිමේන්තු මන්ත්‍රී ගාමිණි වලේබොඩ මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+The Chairman MP Gamini Walareboda said that Sri Lanka would be at risk of losing GSPPlus concessions to Sri Lanka in India.
+
+It has also been revealed that NARA has been conducting a survey in 30 years of the international waters of the North and East.
+
+Speaking further chairman Gamini Walaweboda said so further.
+
+& The Committee met to discuss and address the problems faced by the fishermen as a result of the economic crisis.. There were a number of factors revealed. One was revealed that unauthorized flora and shrimp are imported to the country. They revealed the nature of importation of the country with the extent. Especially the prawns said that about 10,000 metric tons per year. We asked for a research report on it.
 
 ...
 
 [Data](articles/df9c1af1.json)
 
+[Extended Data](ext_articles/df9c1af1.ext.json)
+
 ---
 
-### කප් එකත් අරන් දිවයිනට ආ ධනා කළ හෙළිදරව්ව
+### The revelation that brought to the island also brought to the island
 
 *2024-04-04 20:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195312) · `si`
 
-බංග්ලාදේශයේ සාර්ථක තරග සංචාරයක් නිමකළ ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම අද පස්වරුවේ යළි දිවයිනට පැමිණියේය.
+Sri Lanka's cricket team, led by Dananjaya de Silva, successfully completed a tour in Bangladesh, with de Silva praising their decisions and expressing optimism for future matches, including a Test series in England.
 
-එහිදී මාධ්‍ය වෙත අදහස් දක්වමින් ශ්‍රී ලංකා ටෙස්ට් නායක ධනංජය ද සිල්වා පැවසුවේ තමන් මේ දක්වා ගත් තීරණ සියල්ල හරිගිය බවය.
+🟩
 
-එහිදී වැඩිදුරටත් මාධ්‍ය වෙත අදහස් දැක්වූ ශ්‍රී ලංකා ටෙස්ට් නායක ධනංජය ද සිල්වා,
+Sri Lanka arrived in the island this afternoon, completing a successful tour of Bangladesh.
 
-"ටිකක් අමාරුයි ඒ හීට් එකත් එක්ක කරට කර ගැටෙන්න ඒ රටේදී ඒ කණ්ඩායමත් එක්ක. අපේ කණ්ඩායමේ අය හරි දේවල් හරි විදියට කරපු නිසා තරගාවලිය ජයග්‍රහණය කරන්න පුළුවන් වුණා.  තව මාස දෙකකින් එංගලන්තයට යන්න තියෙනවා ටෙස්ට් තරගාවලියකට. ඉතින් ඒකට සූදානම් වෙන්න සැලසුම් තියෙනවා ඒක කරගෙන යනවා. සියයට සියයක්ම හරියි කියලා හිතන්නේ නෑ දවස ගානේ අපි ඉගෙනගන්නවා ක්‍රිකට්වලින් මම හිතනවා ඒ පොඩි පොඩිදේවල් හදාගෙන ඉදිරි තරගාවලි ජයග්‍රහණය කරන්න පුළුවන් කියලා. කලින් නායකයන්ට දුන්න සහයෝගයම මට කණ්ඩායමෙන් ලැබෙනවා. කලින් නායකයිනුත් මට සෑහෙන්න සහායක් දෙනවා, හරි ලේසියි ඒ හින්දා මට කණ්ඩායම ඉදිරියට අරගෙන යන්න. මම හිතනවා මම ගත්ත තීරණ සියල්ල හරිගියා කියලා දැනට"
+Speaking to the media, Sri Lanka Test leader Dananjaya de Silva said that all the decisions they took to date have all been right.
+
+Sri Lanka Test leader Dananjaya de Silva, who spoke to the media,
+
+"It's a little hard and a little bit difficult to do with that heat, and to go with that group in that country. Since our group was right, the tournament was able to win the tournament. Another two months to go to England to a Test series. So there's plans to get ready for it. I do not think that 100 percent is right, we learn from cricket that I can be able to achieve these little gifts and win forward tournaments. I get the support you gave before leaders. Before early, leaders also give me a lot of support, so well, bring me the team forward. I hope the decisions I made all my actions are right now. "
 
 ◼️
 
 [Data](articles/494be3ae.json)
+
+[Extended Data](ext_articles/494be3ae.ext.json)
 
 ---
 
@@ -100,23 +140,31 @@ The message left by the hacker read, "My name is Anonymous EEE and I am currentl
 
 [Data](articles/0eb301a2.json)
 
+[Extended Data](ext_articles/0eb301a2.ext.json)
+
 ---
 
-### කොන්ක්‍රීට් වළල්ලක් ඇඟට පෙරළිමෙන් පාසල් සිසුවෙක් ජීවිතක්ෂයට
+### School student dies after crossing a concrete ring
 
 *2024-04-04 20:13:39* · [`adalk`](https://www.ada.lk/breaking_news/කොන්ක්‍රීට්-වළල්ලක්-ඇඟට-පෙරළිමෙන්-පාසල්-සිසුවෙක්-ජීවිතක්ෂයට/11-408960) · `si`
 
-තේ වත්තක සංවර්ධන කටයුත්තක් සදහා රැගෙන විත් පාසල් භුමියේ ගොඩගසා තිබු කොන්ක්‍රිට් වළල්ලක් ඇග මතට පෙරලිමෙන් බරපතල ලෙස තුවාල ලැබු පාසල් සිසුවෙකු  රෝහල වෙත ඇතුලත් කිරිමෙන් පසු (04) දින ජිවිතක්ෂයට පත් වි ඇති බව මස්කෙලිය පොලිසිය පැවසිය.
+A schoolgirl died after being injured in a concrete ring at a tea estate. The incident involved a 6-year-old from the Gardmore Estate, severely injured by a student from Pelai. The victim and others were taken to Maskeliya Divisional Hospital.
 
-මෙසේ ජිවිතක්ෂයට පත් වි ඇත්තේ මස්කෙලිය ගාඩ්මොර් වතුයායේ පදිංචිව සිටි එම පාසලේ 6 වසරේ අධ්‍යාපනය ලබමින් සිටි එස්.අනිෂන් නැමති (11) හැවිරිදි පාසල් සිසුවෙකි.
+🟩
 
-ජිවිතක්ෂයට පත් පාසල් සිසුවා ඔහුගේ මිතුරන් දෙදෙනෙකු සමග (04) දින පස්වරු 1.30 ට පමණ වැසිකිලිය වෙත යාම සදහා පැමිණි අවස්තාවේ පාසල් භුමියේ ගොඩගසා තිබු කොන්ක්‍රිට් බොක්කුවක් පෙරලි පාසල් සිසුවාගේ ඇග මතින් පෙරලිමෙන් පාසල් සිසුවා වැසිකිලියේ බිත්තියට සිරවිමෙන් බරපතල ලෙස තුවාල ලබා ඇත.
+One of the injured schoolgirls who were injured in a concrete ring of the school area for a tea estate was taken into custody.
 
-පසුව පාසලේ ගුරුවරුන් සහ අසල්වාසින් එක්ව තුවාල ලබා සිටි පාසල් සිසුවා සුවසැරිය ගිලන් රථය මගින් මස්කෙලිය ප්‍රාදේශිය රෝහල වෙත ඇතුලත් කිරිමෙන් පසු සිසුවාජිවිතක්ෂයට පත් වි ඇත.
+The school was identified as the six year old schoolgirl, who was living in the 6 year student, who was living in the Gardmore Estate in the Gardmore Estate.
+
+The school student was severely injured in the toilet wall in the field of concrete backed by the Pelai student with two (04) with two of his friends.
+
+Later, the school student of the school and neighbors were admitted to the Maskeliya Divisional Hospital after admission to the Maskeliya Divisional Hospital.
 
 ◼️
 
 [Data](articles/bb1d5fcf.json)
+
+[Extended Data](ext_articles/bb1d5fcf.ext.json)
 
 ---
 
@@ -194,19 +242,25 @@ State Minister of Indigenous Medicine Sisira Jayakody said this at a press confe
 
 ---
 
-### අයි.සි.සී. මාසයේ ක්‍රීඩකයාට කමිඳුගේ නමත් නිර්දේශ වෙයි
+### ICC. The player of the month recommends Kaminda's name
 
 *2024-04-04 19:32:40* · [`adalk`](https://www.ada.lk/sports/අයි-සි-සී--මාසයේ-ක්‍රීඩකයාට-කමිඳුගේ-නමත්-නිර්දේශ-වෙයි/9-408956) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් මාසිකව පිරිනමනු ලබන අයි.සී.සී. මාසයේ ක්‍රීඩක සම්මානයට අදාළව මාර්තු මාසය වෙනුවෙන් ශ්‍රී ලංකා තුන් ඉරියව් ක්‍රීඩක කමිඳු මෙන්ඩිස්ගේ නමද නිර්දේශ වී තිබේ.
+Kaminda, Sri Lanka's wicketkeeper, recommended for ICC Player of the Month in March, highlighted for his performance in the Twenty20 Championship and Test series.
 
-නිමාවූ බංග්ලාදේශ විස්සයි20 තරගාවලියේදී මෙන්ම ටෙස්ට් තරගාවලියේදී ඔහු දැක්වූ දක්ෂතා අනුව මෙසේ මාර්තු මස ක්‍රීඩකයාට හිමි සම්මානය සඳහා නිර්දේශ වී තිබේ.
+🟩
 
-ඔහුට අමතරව අයර්ලන්තයේ මාක් අඩීර් හා නවසීලන්තයේ මැට් හෙන්රිගේ නම්ද මෙම සම්මානය සඳහා  නිර්දේශ වී තිබේ.
+ICC series monthly by the International Cricket Council. The name of Sri Lanka's three-post-player Kamindis's name is also recommended for the month of March in connection with the month of the month.
+
+It is recommended for the Award of March at the Twenty20 Championship and his performance in the Test series.
+
+In addition to him, the award is recommended for this award.
 
 ◼️
 
 [Data](articles/1d5f2ee0.json)
+
+[Extended Data](ext_articles/1d5f2ee0.ext.json)
 
 ---
 
@@ -440,6 +494,26 @@ It is noteworthy that the protest was attended by public, Eastern University stu
 
 ---
 
+### MPs who call Sri Lanka Freedom Party their home eager to return: Amaraweera
+
+*2024-04-04 18:15:00* · [`economynextcom`](https://economynext.com/mps-who-call-sri-lanka-freedom-party-their-home-eager-to-return-amaraweera-157600/) · `en`
+
+ECONOMYNEXT — The “good MPs” in parliament consider the Sri Lanka Freedom Party (SLFP) their home and are eager to return, and the party will fill vacancies in its senior leadership levels in due course, Minister Mahinda Amaraweera said.
+
+Speaking to reporters on Thursday April 04, Amaraweera said former president and then SLFP leader Chandrika Bandaranaike Kumaratunga was compelled to take legal action against incumbent chairman and former president Maithripala Sirisena after actions led to a deterioration of the party.
+
+Sirisena’s actions ended up scuttling a number of opportunities for the SLFP to lead a broader alliance, Amaraweera claimed.
+
+According to media reports, an Interim order was issued by the Colombo District Court Friday morning preventing Sirisena from functioning as the SLFP’s chairman.
+
+The verdict was issued following a petition filed by former President Kumaratunga.
+
+...
+
+[Data](articles/3bee2c31.json)
+
+---
+
 ### President ensures uninterrupted public services for Sinhala & Tamil New Year
 
 *2024-04-04 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-ensures-uninterrupted-public-services-for-Sinhala-Tamil-New-Year/108-280193) · `en`
@@ -457,6 +531,24 @@ The goal is to guarantee the smooth operation of vital services crucial for the 
 [Data](articles/4e02c6c4.json)
 
 [Extended Data](ext_articles/4e02c6c4.ext.json)
+
+---
+
+### Ten Sri Lanka MPs elected in 2020 not any more in Parliament
+
+*2024-04-04 18:12:00* · [`economynextcom`](https://economynext.com/ten-sri-lanka-mps-elected-in-2020-not-any-more-in-parliament-157609/) · `en`
+
+ECONOMYNEXT – At least 10 Sri Lanka’s Members of Parliament (MPs) elected in the 2020 general elections are not anymore the legislature, either due to death or resignation or legal issues, official data showed.
+
+With the latest death of ruling Sri Lanka Podujana Peramuna (SLPP) legislator K H Nandasena (69 years) on Thursday (04), the island nation’s Parliament has witnessed three deaths of elected MPs and the resignation of seven MPs.
+
+Amarakeerthi Athukorala (57 years), a SLPP legislator, was killed by angry mobs on May 9, after the supporters of then Prime Minister Mahinda Rajapaksa brutally attacked unarmed protesters in capital Colombo.
+
+Later SLPP legislator, State Minister Sanath Nishantha (48 years) was killed in a road accident in January this year.
+
+...
+
+[Data](articles/ddbf9fb4.json)
 
 ---
 
@@ -588,6 +680,42 @@ While the armed gang, which was armed with the armed gang, all the people in the
 
 ---
 
+### Sri Lanka offers general amnesty for military deserters
+
+*2024-04-04 17:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-offers-general-amnesty-for-military-deserters-157601/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ministry of Defence has declared a month long general amnesty from April 20 to May 20 for tri-forces absentees, enabling them to receive an official discharge from their respective services.
+
+Absentees of the army, navy and air force will receive their discharge from military service after they settle any financial obligations or amounts due, the ministry said in a statement.
+
+“Absentees who are presently abroad can also obtain discharge without reporting to their respective regiments conforming to following requirements:
+
+a. Those seeking discharge should have no pending disciplinary actions taken against them apart from that of being AWOL.
+
+b. Should have clearance from the Department of Immigration and Emigration confirming their travel abroad was done with legal documents and not on forged documents or by illegal means
+
+...
+
+[Data](articles/aeb512e5.json)
+
+---
+
+### அத்தியாவசிய உணவுப்பொருட்கள் விற்பனையில் 100-1000 வரை வியாபாரிகள் இலாபமீட்டுகிறார்கள் : வழிவகைகள் பற்றி குழு
+
+*2024-04-04 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180445) · `ta`
+
+இறக்குமதி செய்யப்பட்ட அத்தியாவசிய உணவுப் பொருட்கள் சந்தை விலையின் அடிப்படையில் விற்பனை செய்யும்போது வியாபாரிகள் கிலோவொன்றுக்கு 100-1000 ரூபா வரையில் இலாபம் ஈட்டுவது வழிவகைகள் பற்றிய குழுவில் தெரியவந்தது.
+
+2018 முதல் 2023ஆம் ஆண்டு வரையான காலப்பகுதியில் இறக்குமதியாளர்களினால் சட்டத்துக்கு அமைய வரியை அறவிடுவதற்கு  மற்றும் அவற்றின் முன்னேற்றத்தை இம்மாத இறுதியில் குழுவுக்கு அறிக்கையிடுமாறும் பரிந்துரைக்கப்பட்டது.
+
+வழிவகைகள் பற்றிய குழு அதன் தலைவர் பாராளுமன்ற உறுப்பினர்  பாட்டலி சம்பிக்க ரவணக்க தலைமையில் அண்மையில்  பாராளுமன்றத்தில் கூடியபோதே இவ்விடயம் தெரியவந்தது.
+
+...
+
+[Data](articles/69eec98d.json)
+
+---
+
 ### 2023 A/L results expected in May?
 
 *2024-04-04 17:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98430/2023-al-results-expected-in-may) · `en`
@@ -679,6 +807,28 @@ The judge who completed the pre-trial conference in the case was ordered to be s
 [Data](articles/f8dc84c9.json)
 
 [Extended Data](ext_articles/f8dc84c9.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 299.70/80 to the US dollar
+
+*2024-04-04 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-299-70-80-to-the-us-dollar-157598/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 299.70/80 to the US dollar in the spot forex market on Thursday, stronger from 299.80/95 on Wednesday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 closed stable at 11.35/45 percent.
+
+A bond maturing on 15.09.2027 closed at 11.95/12.00 percent up from 11.90/12.00 percent.
+
+A bond maturing on 15.12.2028 closed at 12.15/25 percent up from 12.15/20 percent.
+
+A bond maturing on 15.07.2029 closed stable at 12.20/50 percent down from 12.25/50 percent.
+
+A bond maturing on 01.07.2032 closed at 12.60/75 percent from 12.55/80 percent. (Colombo/Apr4/2024)
+
+◼️
+
+[Data](articles/f950b6d2.json)
 
 ---
 
@@ -849,6 +999,34 @@ Minister of Education Dr. Susil Premajayantha says that the GCE Advanced Level e
 [Data](articles/76848cdc.json)
 
 [Extended Data](ext_articles/76848cdc.ext.json)
+
+---
+
+### Sri Lanka stocks close up, banks push turnover
+
+*2024-04-04 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-push-turnover-157594/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader All Share Index closed up 0.63 percent, or 73.59 points, at 11,698; while the S&P SL20 Index closed up 1.30 percent, or 44.04 points, at 3,437.
+
+“There is interest coming in from corporate and high-net worth sections, in addition to retail,” market participants said.
+
+Hatton National Bank Plc saw the most active volumes traded, Rs417mn, and the share closed up at 195.25
+
+Sampath Bank Plc saw stock worth Rs403mn traded, and the share closed up at 78.70.
+
+Melstacorp Plc, saw Rs332mn in turnover, and was up at 91.10.
+
+Nations Trust Bank Plc which announced that it would convert ordinary non-voting convertible shares to ordinary voting shares, closed up at 114.00.
+
+Commercial Bank of Ceylon Plc, among the major contributors to the ASPI, closed up at 99.80.
+
+Other contributors to the Index included and National Development Bank Plc, up at 74.00, and Lion Brewery (Ceylon) Plc, up at 990.50.
+
+◼️
+
+[Data](articles/c559cc10.json)
 
 ---
 
@@ -1326,6 +1504,8 @@ Colombo Chief Magistrate Prasanna Alwis issued a conditional order in favour of 
 
 [Data](articles/433d4e60.json)
 
+[Extended Data](ext_articles/433d4e60.ext.json)
+
 ---
 
 ### Teachers can never allow the harassment of students - the Governor of the Northern Province
@@ -1424,6 +1604,24 @@ He said the IDF or the Israeli security army knew the trajectory of this Humanit
 
 ---
 
+### Sri Lanka minister apologizes for forced cremation of Muslims
+
+*2024-04-04 14:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-apologizes-for-forced-cremation-of-muslims-157570/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Minister of Water Supply and Estate Infrastructure Jeevan Thondaman has issued an apology for the government’s decision to cremate bodies during the Covid-19 pandemic.
+
+“During this holy month of Ramadan, I extend my heartfelt apology to our Muslim brothers and sisters for the harm caused by the mandatory cremation policy during the COVID-19 pandemic,” Thondaman said on X (twitter).
+
+Thondaman said that after he took responsibility as Minister for the water sector last year, he requested officials to conduct an independent study to determine whether there was any truth to the allegations of risk to ground water contamination by burials of those who succumbed to COVID-19.
+
+“The findings of this study have now proven to us that the concerns regarding water contamination were misguided and the decision to forcefully cremate those who succumbed to COVID-19 was not based on any science.”
+
+...
+
+[Data](articles/d7c6c198.json)
+
+---
+
 ### SC decides to hear FR petition against policemen involved in Narammala shooting
 
 *2024-04-04 14:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-decides-to-hear-FR-petition-against-policemen-involved-in-Narammala-shooting/108-280186) · `en`
@@ -1511,6 +1709,44 @@ The suspect is to be produced before the Colombo Chief Magistrate's Court.
 [Data](articles/31221739.json)
 
 [Extended Data](ext_articles/31221739.ext.json)
+
+---
+
+### Vehicles imported for Sri Lanka’s tourism sector will be year-old, taxed: official
+
+*2024-04-04 14:45:00* · [`economynextcom`](https://economynext.com/vehicles-imported-for-sri-lankas-tourism-sector-will-be-year-old-taxed-official-157549/) · `en`
+
+ECONOMYNEXT — The buses and vans that Sri Lanka plans to import for the tourism sector will be a year old, as opposed to brand new vehicles that would cost more, and also subject to tax as usual, State Minister of Finance Ranjith Siyambalapitiya said.
+
+Siyambalapitiya told reporters that the country’s rapidly recovering tourism industry needs to follow the same global standards which don’t allow for vehicles more than six years old.
+
+“In 2020, vehicle imports were stopped due to the foreign exchange crisis in the country, since our biggest forex expenditure was for vehicle imports. But we allowed for some imports under special circumstances from time to time. For example, to meet the needs of the health ministry and other ministries. Now the tourism industry is faced with such an essential need,” he said.
+
+“The vehicles we already have are aging, and they’re also not enough. So the cabinet decided to allow the import of 250 buses and 750 vans specifically for the tourism industry,” he said.
+
+...
+
+[Data](articles/a3c78a19.json)
+
+---
+
+### South Korea to provide employment for Sri Lankans, including in seasonal work
+
+*2024-04-04 14:43:00* · [`economynextcom`](https://economynext.com/south-korea-to-provide-employment-for-sri-lankans-including-in-seasonal-work-157555/) · `en`
+
+ECONOMYNEXT – South Korea will provide more employment opportunities for Sri Lankans and help the island nation with education and vocational training, the Sri Lankan Prime Minister’s office said in a statement.
+
+Prime Minister Dinesh Gunawardena is on a visit to the People’s Republic of South Korea, where he met Governor of Gyeongsangbuk-du Province Lee Cheol Woo.
+
+“The Provincial Government agreed to offer many benefits for education and higher education, agriculture, fisheries, women and rural development in Sri Lanka during the talks,” the statement read.
+
+Agreements were reached on “providing more employment opportunities in Korea for Sri Lankans,” and the “possibility of short-term provision of human resources required in Korea only for the harvesting season.”
+
+South Korea’s Seasonal Worker Program (SWP) allows legal hiring of foreign workers for short periods to address chronic labor shortages during the busy farming and fishing seasons.
+
+...
+
+[Data](articles/f945acd3.json)
 
 ---
 
@@ -2030,248 +2266,20 @@ The President has instructed the relevant government officials and ministries.
 
 ---
 
-### M.G. Weerasena to fill vacancy created by K.H. Nandasena’s death
+### Any deviation from Sri Lanka’s reform programme could jeopardise stability: minister
 
-*2024-04-04 12:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/M-G-Weerasena-to-fill-vacancy-created-by-K-H-Nandasenas-death/108-280183) · `en`
+*2024-04-04 12:54:00* · [`economynextcom`](https://economynext.com/any-deviation-from-sri-lankas-reform-programme-could-jeopardise-stability-minister-157516/) · `en`
 
-Colombo, April 4 (Daily Mirror)- M.G. Weerasena is to fill the vacancy created by the death of Anuradhapura District SLPP MP K.H. Nandasena.
+ECONOMYNEXT — Any deviation from Sri Lanka’s ongoing reform programme, even a minor one, could pose a severe risk to the stability of the country, Minister Bandula Gunawardena said.
 
-M.G. Weerasena is next in line on the SLPP list for the Anuradhapura District.
+“An important point to highlight is that any deviation, even by a minor fraction, from the on-going government programme under the leadership of President Ranil Wickremesinghe aimed at national development could pose a severe risk, potentially jeopardizing the country’s future prospects,” the Minister of Transport, Highways and Mass Media said speaking to reporters on Wednesday April 03.
 
-◼️
+According to the World Bank, Sri Lanka’s economy has stabilised though poverty remains, underlining the need to maintain stability and continue on the reform path.
 
-[Data](articles/7fc114fd.json)
-
-[Extended Data](ext_articles/7fc114fd.ext.json)
-
----
-
-### Medieval disruption to Maithri
-
-*2024-04-04 12:50:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-இடைக்கால-தடையுத்தரவு/175-335608) · `ta`
-
-Former President Maithripala Sirisena bans Colombo District Court Judge Chandun Vidhan from leading Sri Lanka Freedom Party (SLFP), following a case filed by Chandrika Kumaratunga.
-
-🟩
-
-Former President Maithripala Sirisena has issued a ban on the Colombo District Court on Thursday (04) to act as the Chairman of the Sri Lanka Freedom Party (SLFP).
-
-Colombo District Court Judge Chandun Vidhan has issued the order in accordance with the case filed by former President Chandrika Kumaratunga.
-
-◼️
-
-[Data](articles/46240e4d.json)
-
-[Extended Data](ext_articles/46240e4d.ext.json)
-
----
-
-### The President of the Maithri SK
-
-*2024-04-04 12:50:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-சு-க-வின்-தலைவராக-செயற்பட-தடை/175-335608) · `ta`
-
-Maithripala Sirisena, former President, has been ordered by Colombo District Court Judge Chandun Vidhan to lead the Sri Lanka Freedom Party (SLFP), following a case filed by Chandrika Kumaratunga.
-
-🟩
-
-Former President Maithripala Sirisena today issued an injunction order to act as the leader of the Sri Lanka Freedom Party (SLFP).
-
-Colombo District Court Judge Chandun Vidhan has issued the order in accordance with the case filed by former President Chandrika Kumaratunga.
-
-◼️
-
-[Data](articles/528c3491.json)
-
-[Extended Data](ext_articles/528c3491.ext.json)
-
----
-
-### Weather forecast today
-
-*2024-04-04 12:47:39* · [`adalk`](https://www.ada.lk/breaking_news/අද-කාලගුණ-අනාවැකිය/11-408946) · `si`
-
-Today's weather in Sri Lanka includes showers/thundershowers in Sabaragamuwa, Galle, and parts of the North Western Province. Wind speeds are 15-25 km/h. Seas are calm but may be affected by thunderstorms.
-
-🟩
-
-Depending on the weather-widenid center today
-
-At the Sabaragamuwa Provincial Western Province and Galle District. Showers or thundershowers will occur at several places about 2.00. Showers or thundershowers during the evening or night in the North Western Province and night.
-
-Some locations in some places in the Western and Sabaragamuwa Provincial and in the Galle and Matara districts are imposed.
-
-Jantavapan is kindly requested to take steps to take necessary steps to reduce the dangers of temporary winds and lightning with thunderstorms.
-
-Sri Lanka is associated with the Sun, April 5th to 15 April
-
-There is directly on the lower to latitude. Tomorrow at the 5th and 12:30 pm tomorrow
-
-Rain Seity
-
-Wind - winds are boring without definite direction and the winds of the winds.. Is about (15-25).
-
-Nature of the Sea - While the sea areas around the island is in nature
-
-There will be temporary winds in the sea as at thunder showers, then the sea areas
-
-◼️
-
-[Data](articles/64eed8f2.json)
-
-[Extended Data](ext_articles/64eed8f2.ext.json)
-
----
-
-### Damitha surrenders to court
-
-*2024-04-04 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195286) · `si`
-
-Veteran actress Damitha Abeyratne surrenders to court, facing allegations of cheating.
-
-🟩
-
-Veteran actress Damitha Abeyratne and her husband had arrived at the Fort Magistrate's Court today (04).
-
-"I don't feel. This is not a character that can hide in this country. Damitha is a woman who struggled against the time of the time. I surrender to court today. Deshabandu, including that point, take this thumbge. I celebrates the years. "
-
-The Computer Criminal Division Damitha Abeyratne had begun investigations into the cheating of Rs.
-
-The Criminal Investigation Department informed the Fort Magistrate's Court that Damitha Abeyratne and her husband were named as suspects.
-
-Accordingly, a Rit petition was presented to prevent them from being arrested.
-
-Meanwhile, Fort Magistrate Thilina Gamage issued an order yesterday (03), banning Damitha Abeyratne and her husband.
-
-◼️
-
-[Data](articles/6dbf093d.json)
-
-[Extended Data](ext_articles/6dbf093d.ext.json)
-
----
-
-### No decision to suspend excise license issuance - Siyambalapitiya
-
-*2024-04-04 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98418/no-decision-to-suspend-excise-license-issuance-siyambalapitiya) · `en`
-
-Issuance of excise licenses has not been suspended, State Minister of Finance Ranjith Siyambalapitiya has asserted.
-
-He pointed out that the relevant authorities have been instructed to carry out the excise licenses issuance activities under a proper procedure.
-
-In response to the recent reports claiming that issuing excise license has been halted, the State Minister mentioned that the relevant licenses are issued only in compliance with the rules and regulations accepted by the Parliament, after considering the call for objections and objections from the local residents.
-
-“The court has specifically said that licenses should be issued only on based on the rules and regulations approved by the Parliament. It is not a suspension of excise licenses. It is a very good decision. We are already following it.”
-
-◼️
-
-[Data](articles/fd0d3afd.json)
-
-[Extended Data](ext_articles/fd0d3afd.ext.json)
-
----
-
-### Taiwan earthquake injuries top 1,000, hotel workers still missing
-
-*2024-04-04 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98417/taiwan-earthquake-injuries-top-1000-hotel-workers-still-missing) · `en`
-
-The number of people injured in a 7.2 magnitude earthquake in eastern Taiwan climbed past 1,000 on Thursday though the death toll remained steady at nine, with 38 workers on their way to a hotel in a national park still missing and others now found.
-
-The temblor, the strongest in 25 years, hit on Wednesday morning just as people were readying to go to work and school, centred on the largely rural and sparsely populated eastern county of Hualien.
-
-Buildings also shook violently in capital Taipei, but damage and disruption there was minimal.
-
-Taiwan’s fire department said the number of injuries had reached 1,038, putting the total number of missing at 52. Around a dozen of the hotel workers on their way to a resort in Taroko National Park had been located, with 38 still listed as missing.
-
-The fire department said its rescue work was focused on people trapped on the cross-island highway, which traverses the gorge connecting Hualien with Taiwan’s west coast and is a popular tourist destination.
+The World Bank’s April 2024 Sri Lanka Development Update projected 2024 growth at 2.2 percent up from 1.7 percent projected last year and 2.5 percent for 2025.
 
 ...
 
-[Data](articles/9f5a8fde.json)
-
-[Extended Data](ext_articles/9f5a8fde.ext.json)
-
----
-
-### CBK obtains enjoining order against Maithripala on SLFP Chairmanship
-
-*2024-04-04 12:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CBK-obtains-enjoining-order-against-Maithripala-on-SLFP-Chairmanship/108-280181) · `en`
-
-Colombo, April 4 (Daily Mirror) - The Colombo District Court today issued an enjoining order preventing former President Maithripala Sirisena from functioning as the chairman of the Sri Lanka Freedom Party (SLFP).
-
-Colombo District Court Judge Sandun Vithana made this order pursuant to a lawsuit filed by former President Chandrika Kumaratunga.
-
-◼️
-
-[Data](articles/870ec0c3.json)
-
-[Extended Data](ext_articles/870ec0c3.ext.json)
-
----
-
-### CBK obtains enjoining order against Maithripala on SLFP Chairmanship
-
-*2024-04-04 12:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/CBK-obtains-enjoining-order-against-Maithripala-on-SLFP-Chairmanship/155-280181) · `en`
-
-Colombo, April 4 (Daily Mirror) - The Colombo District Court today issued an enjoining order preventing former President Maithripala Sirisena from functioning as the chairman of the Sri Lanka Freedom Party (SLFP).
-
-Colombo District Court Judge Sandun Vithana made this order pursuant to a lawsuit filed by former President Chandrika Kumaratunga.
-
-◼️
-
-[Data](articles/9a343f18.json)
-
----
-
-### If India violates Sri Lanka's maritime, it will be considered a violation of Sri Lanka's sovereignty - the BJP is using the Kachchativu issue for election votes
-
-*2024-04-04 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180412) · `ta`
-
-Ostin Fernando, former Sri Lankan Ambassador to India, warns that any Indian maritime violation is a sovereignty breach. He criticizes the BJP's use of the Kachchativu issue for votes, noting it's risky for India to backtrack post-election. Fernando highlights the complexities of India's stance, especially regarding its investments in Sri Lanka, and the potential impact on Sri Lankan voters.
-
-🟩
-
-Former Sri Lankan Ambassador to India, Ostin Fernando, said that if India crosses the sea, it will be considered a violation of the sovereignty of Sri Lanka.
-
-Ostin Fernando said the BJP is trying to capture the votes of the BJP, but it is difficult for the Indian government to go back to the old position after the election.
-
-Austin Fernando, the most respected official, made this comment from the Indian Express from Colombo.
-
-He said that if the Indian government exceeds the maritime border of Sri Lanka, it will be considered a violation of the sovereignty of Sri Lanka.
-
-Austin Fernando recalled Ranasinghe Premadasa, who was sworn in as President of Sri Lanka during the Indian Peace Corps during the 1980s.
-
-Austin Fernando has questioned how India will be able to do so if India will allow India to permit a plan in Pakistan near Goa.
-
-Austin Fernando has told the Indian Express that it is using this issue as a strategy to attract the BJP in Tamil Nadu.
-
-...
-
-[Data](articles/a5ba70ab.json)
-
-[Extended Data](ext_articles/a5ba70ab.ext.json)
-
----
-
-### Funds have not yet been received to rescue the excavation work of the Kokkuttuvai Human Buries;Postponement
-
-*2024-04-04 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180410) · `ta`
-
-The excavation of human burials in Kokkuttuwai, Mullaitivu, has been postponed due to lack of funds. The first phase, starting on 06.09.2023, recovered 17 trunks over 11 days, and the second phase, from 20.11.2023, found 40 skeletal blocks over 9 days before being suspended. The remains date back to 1994-1996.
-
-🟩
-
-The case relating to the human burial excavation, which was discovered on 29.06.2023 in the Kokkuttuwai area of the Mullaitivu district, was taken up at the Mullaitivu Magistrate's Court on Thursday (04).
-
-Mullaitivu District Legal Medical Officer Kanagasabapathi VasudevaThey were present.
-
-In this case, the Ministry of Mullaitivu District Secretariat, Mayilwakanam Selvararatnam, said that the ministry has not yet received funds for the excavation work and that the excavation has been increased.. In this case, steps will be taken to obtain funds and obtain funds. In addition, the case has been postponed to the 16th of Vaikasi.
-
-The first phase of the human burial ground in the Kokkuttuwai area of the Mullaitivu district began on 06.09.2023 and held eleven days after the recovery of 17 trunks.
-
-...
-
-[Data](articles/59637104.json)
-
-[Extended Data](ext_articles/59637104.ext.json)
+[Data](articles/05de58f6.json)
 
 ---

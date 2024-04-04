@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 20:03:16**
+As of **2024-04-04 20:18:01**
 
 ## Newspaper Stats
 
-*Scraped **17,175** Articles*
+*Scraped **17,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
 economynextcom | 944
-adalk | 1,450
+adalk | 1,451
 tamilmirrorlk | 2,034
-adaderanalk | 2,061
+adaderanalk | 2,062
 virakesarilk | 2,497
 dailymirrorlk | 2,637
 adaderanasinhalalk | 2,778
@@ -26,11 +26,47 @@ adaderanasinhalalk | 2,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,175 (100.0%) of 17,175 articles have been extended.
+17,175 (100.0%) of 17,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### Student dies after concrete object falls on him in school premises
+
+*2024-04-04 19:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98432/student-dies-after-concrete-object-falls-on-him-in-school-premises) · `en`
+
+A school student, who was seriously injured after a concrete object in the school premises fell on him, has succumbed to injuries after being admitted to the hospital.
+
+The deceased, a 11-year-old student identified as S. Anishan, is a resident of Gartmore Estate in Maskeliya.
+
+The student has faced this accident while visiting the lavatory facilities, at around 1.30 p.m. today (04).
+
+Later, the school teachers along with residents in the area have rushed the injured student to the Maskeliya Regional Hospital, where he was pronounced dead after being admitted to the hospital.
+
+Meanwhile, it has been uncovered that the concrete object in question had been brought for a development purpose in a tea estate.
+
+◼️
+
+[Data](articles/b24c7e8b.json)
+
+---
+
+### අප්‍රේල් 18 පැල සිටුවීමේ දිනය මුරුංගා දිනය වෙයි
+
+*2024-04-04 19:53:26* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රේල්-18-පැල-සිටුවීමේ-දිනය-මුරුංගා-දිනය-වෙයි/11-408957) · `si`
+
+සිංහල හා හින්දු අලුත් අවුරුදු මංගල්‍යයේ සුවිශේෂී නැකැත් චාරිත්‍රයක් වන හිසතෙල් ගෑමේ ජාතික උත්සවය අප්‍රේල් 15 වන දා පෙරවරු 10.17 ට වත්තල, හැඳළ පුරාණ රජමහා විහාරයේදී පැවැත්වෙන බව දේශීය වෛද්‍ය රාජ්‍ය අමාත්‍ය නීතිඥ සිසිර ජයකොඩි මහතා පැවසීය.
+
+එසේම සිංහල හා හින්දු අලුත් අවුරුදු උත්සවයේ අවසන් නැකැත් චාරිත්‍රය වන පැළ සිටුවීම අප්‍රේල් 18 වනදාට යෙදී ඇති බවත් එය දේශීය වෛද්‍ය අමාත්‍යාංශය විසින් ‘මුරුංගා දිනය’ ලෙස නම් කර ඇති බවත් රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+දේශීය වෛද්‍ය රාජ්‍ය අමාත්‍ය නීතිඥ සිසිර ජයකොඩි මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (04) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+...
+
+[Data](articles/f7c0a1a1.json)
+
+---
 
 ### 68 suspects of the burning of Sanath Nishantha's house
 
@@ -2239,57 +2275,5 @@ The fishermen representatives of the north pointed out that the illegal encroach
 [Data](articles/e0711335.json)
 
 [Extended Data](ext_articles/e0711335.ext.json)
-
----
-
-### He took over the post of new Director of Kilinochchi District Hospital!
-
-*2024-04-04 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180398) · `ta`
-
-Dr. Purnima Wimalaratne, the new Director of Kilinochchi District Hospital, took over on Tuesday, replacing Dr. Sukandan, who moved to the Planning Division. The hospital, previously without a permanent director, now aims to address physical shortages.
-
-🟩
-
-Dr. Purnima Wimalaratne, the newly appointed Director of the Kilinochchi District Hospital, took over his post on Tuesday.
-
-He has been appointed to the Kilinochchi District Hospital, which has long been operating without a permanent qualified director.
-
-The hospital community has said that they are expecting steps to be taken to focus more on the hospital and physical shortage of the newly appointed Director.
-
-Dr. Sukandan, who has been on duty as the Director of Response so far, has been transferred to the Planning Division of the Kilinochchi Regional Health Services Department.
-
-◼️
-
-[Data](articles/2c2e101c.json)
-
-[Extended Data](ext_articles/2c2e101c.ext.json)
-
----
-
-### Cow kidnapping in Jaffna: Three arrested including police officer
-
-*2024-04-04 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180394) · `ta`
-
-In Jaffna, a police officer and two others were arrested for smuggling cows. They were caught abducting 8 cows from Punguduthivu. The police officer among them was identified during the investigation. The trio tied the cows' legs, loaded them into a vehicle, and were found by troops during a road raid. The cows and vehicle were seized and handed over to the Jaffna police.
-
-🟩
-
-Three persons, including a police officer, have been arrested by the police officer in the early hours of Thursday morning for allegedly smuggling cows in Jaffna.
-
-They have been arrested while abducting 8 cows from the Punguduthivu area.
-
-While the troops were involved in a road raid in the farm surrounding area, when the suspicious travelers were traveled, the legs were built.
-
-Subsequently, when the three were investigating the investigation, one of them was found to be a police officer who was working at the Jaffna Police Station.
-
-It has been revealed that the trio had gone to the Punguduthivu area and stole the cows and tied their feet and loaded them into the vehicle.
-
-The arrest of the three men, who had arrested the three men, seized the cows and the vehicle and handed it over to the Jaffna police for further legal action.
-
-◼️
-
-[Data](articles/0a6893e6.json)
-
-[Extended Data](ext_articles/0a6893e6.ext.json)
 
 ---

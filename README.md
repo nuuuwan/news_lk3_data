@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 11:52:48**
+As of **2024-04-04 12:03:16**
 
 ## Newspaper Stats
 
-*Scraped **17,064** Articles*
+*Scraped **17,073** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,188 @@ newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
 economynextcom | 944
-adalk | 1,436
-tamilmirrorlk | 2,027
-adaderanalk | 2,044
-virakesarilk | 2,465
-dailymirrorlk | 2,624
+adalk | 1,437
+tamilmirrorlk | 2,028
+adaderanalk | 2,045
+virakesarilk | 2,470
+dailymirrorlk | 2,625
 adaderanasinhalalk | 2,753
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,064 (100.0%) of 17,064 articles have been extended.
+17,064 (99.9%) of 17,073 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### Parliamentary committee looks into preventing illegal fishing activities off northern Sri Lanka
+
+*2024-04-04 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98415/parliamentary-committee-looks-into-preventing-illegal-fishing-activities-off-northern-sri-lanka) · `en`
+
+The Sectoral Oversight Committee on Alleviating the Impact of the Economic Crisis, chaired by MP Gamini Waleboda, recently convened a meeting in Parliament with the participation of Secretary to the Fisheries Ministry, government institutions under the ministry’s purview, officials including heads and representatives of the north-eastern fishing community.
+
+The fishermen representatives of the north pointed out that the illegal encroachment of the northern coast by Indian fishermen have severely affected their livelihoods. Moreover, it was disclosed that the damage to marine resources due to fishing using trawling methods by Indian fishermen has not been assessed so far, the Parliamentary Communications Department said in a statement.
+
+...
+
+[Data](articles/e0711335.json)
+
+---
+
+### கிளிநொச்சி மாவட்ட வைத்தியசாலையின் புதிய பணிப்பாளர் பதவியை பொறுப்பேற்றார்!
+
+*2024-04-04 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180398) · `ta`
+
+கிளிநொச்சி மாவட்ட வைத்தியசாலைக்கு புதிதாக நியமிக்கப்பட்டுள்ள பணிப்பாளரான  வைத்திய கலாநிதி பூர்ணிமா விமலரத்ன செவ்வாய்க்கிழமை தனது பதவியை பொறுப்பேற்றுக் கொண்டார்.
+
+நிரந்தர தகுதிவாய்ந்த பணிப்பாளர் இன்றி நீண்ட காலமாக இயங்கி வைத்த கிளிநொச்சி மாவட்ட வைத்தியசாலைக்கு இவர் நியமிக்கப்பட்டுள்ளார்.
+
+புதிதாக  பொறுப்பேற்றுள்ள பணிப்பாளர் குறித்த வைத்தியசாலையின் நிலவும் ஆளணி மற்றும் பௌதீகவள பற்றாக்குறை விடயங்களில்  அதிக கவனம் செலுத்தி அவற்றை நிவர்த்தி செய்ய நடவடிக்கைகளை மேற்கொள்ள வேண்டும் என தாம் எதிர்பார்ப்பதாக வைத்தியசாலை சமூகத்தினர் தெரிவித்துள்ளனர்.
+
+மேலும் இதுவரை காலமும் பதில் பணிப்பாளராக கடமையாற்றி வந்த வைத்தியர்  சுகந்தன் மீண்டும் கிளிநொச்சி பிராந்திய சுகாதார சேவைகள்  திணைக்களத்தின் திட்டமிடல் பிரிவுக்கு மாற்றப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/2c2e101c.json)
+
+---
+
+### யாழில் மாடு கடத்தல்: பொலிஸ் உத்தியோகத்தர் உட்பட  மூவர் கைது!
+
+*2024-04-04 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180394) · `ta`
+
+யாழ்ப்பாணத்தில் சட்டவிரோதமான முறையில் மாடுகளை கடத்தி சென்ற குற்றச்சாட்டில் பொலிஸ் உத்தியோகத்தர் உள்ளிட்ட மூவர், இன்று (04) வியாழக்கிழமை அதிகாலை பொலிஸ் அதிரடி படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+புங்குடுதீவு பகுதியில் இருந்து சடடவிரோதமான முறையில் , 8 மாடுகளை கொடுமைப்படுத்தும்  வகையில்  கடத்தி வந்தபோதே அவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+பண்ணை சுற்றுவட்ட பகுதியில் வீதி சோதனை நடவடிக்கையில்  அதிரடிப்படையினர் ஈடுபட்டிருந்தபோது சந்தேகத்துக்கிடமான  முறையில் பயணித்த வாகனத்தினை வழிமறித்து சோதனையிட்ட போது, கால்கள் கட்டப்பட்ட நிலையில்மாடுகள் காணப்பட்டுள்ளன.
+
+அதனை தொடர்ந்து வாகனத்தில் இருந்த மூவரிடம் விசாரணைகளை முன்னெடுத்தபோது அவர்களில்  ஒருவர் யாழ்ப்பாண பொலிஸ் நிலையத்தில் கடமையாற்றும் பொலிஸ் உத்தியோகஸ்தர் என தெரிய வந்துள்ளது.
+
+குறித்த மூவரும் புங்குடுதீவு பகுதிக்கு வாகனத்தில் சென்று மாடுகளை திருடி அவற்றின் கால்களை கட்டி , கொடுமைப்படுத்தும்  வகையில் வாகனத்தில் ஏற்றி வந்துள்ளமை தெரிய வந்துள்ளது.
+
+...
+
+[Data](articles/0a6893e6.json)
+
+---
+
+### மக்கள் நிம்மதியாக பண்டிகையை கொண்டாட பொருட்களின்  விலைகளை குறைக்க வேண்டும் - இராதாகிருஷ்ணன் கோரிக்கை
+
+*2024-04-04 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180404) · `ta`
+
+இம்மாதம் பண்டிகை காலம் ஆரம்பித்துள்ளது. எனவே இக்காலத்தில் அதிகளவான பொருட்களை மக்கள் கொள்வனவு செய்ய ஆரம்பிப்பார்கள். ஆனால் கொள்வனவு செய்வதற்கான நிதி சூழ்நிலை சரியாக இல்லை.காரணம் பொருட்களின் விலை அதிகரித்துள்ள அதே நேரம் வருமானமும் குறைந்துள்ளது.
+
+எனவே இப்பண்டிகை காலத்தில் பொருட்களின் விலையை மக்களின் வருமானத்திற்கு ஏற்ற வகையில் குறைத்து வழங்குமாறு மலையக மக்கள் முன்னணியின் தலைவரும் நாடாளுமன்ற உறுப்பினருமான வேலுசாமி இராதாகிருஷ்ணன் தெரிவித்துள்ளார்.
+
+மலையக பகுதிகளில் அனைத்து தோட்டங்களிலும் திருவிழாக்காலம் ஆரம்பித்துள்ளது. அதே சந்தர்ப்பத்தில் சித்திரை புத்தாண்டை கொண்டாடவும் மக்கள் தயாராகி விட்டனர். ஆனால் அப்பண்டிகையை நிம்மதியாகவும் சந்தோஷமாகவும் மக்கள் கொண்டாட பொருட்களின் விலைகளை குறைக்க அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும்.
+
+அதேவேளை பொருட்களின் விலைகளை அரசாங்கம் குறைத்தாலும் அந்த பொருட்களை பெருந்தோட்ட மக்கள் பெறுக்கொள்ள கூடிய வசதிகளை அரசாங்கம்  செய்துக்கொடுக்க வேண்டும்.
+
+...
+
+[Data](articles/4dfb2628.json)
+
+---
+
+### அமெரிக்காவில் விபத்துக்குள்ளான கப்பலில் இருந்து ஒரு கொள்கலனை மாத்திரம் இலங்கையில் இறக்க திட்டமிட்டிருந்தனர் - அமைச்சர் நிமால்
+
+*2024-04-04 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/180403) · `ta`
+
+டாலி சரக்கு கப்பலில் 56 கொள்கலன்கள் ஆபத்தான பொருட்களுடன் காணப்பட்டன அவற்றில் ஒன்றை மாத்திரம் கொழும்பு துறைமுகத்தில் இறக்க திட்டமிட்டிருந்தனர் என அமைச்சர் நிமால் சிறிபால டி சில்வா தெரிவித்துள்ளார்.
+
+அமெரிக்காவின் பல்டிமோரில் பாலத்துடன் மோதி விபத்துக்குள்ளான கப்பல்  இலங்கையை நோக்கி ஆபத்தான பொருட்களுடன் பயணித்துக்கொண்டிருந்தது  என தகவல்கள் வெளியாகியுள்ள நிலையிலேயே அமைச்சர் இதனை தெரிவித்துள்ளார்.
+
+கொழும்பு துறைமுகமே குறிப்பிட்ட கப்பலின் இறுதி இலக்கு இல்லை இறுதி இலக்கு சீனா எனவும் அமைச்சர் தெரிவித்துள்ளார்.
+
+சர்வதேச கடல்சார் விதிமுறைகளிற்கு இணங்க துறைமுகத்தை அடைவதற்கு இரண்டு நாட்களி;ற்கு முன்னர் கப்பலில் உள்ள பொருட்கள் குறித்த விபரங்களை தெரிவிக்கவேண்டும் என தெரிவித்துள்ள அமைச்சர் வெளிப்படைதன்மை மற்றும் பாதுகாப்பு நடைமுறைகளை உறுதி செய்வதற்காக கடுமையான சுங்க பரிசோதனைகள் இடம்பெறும் எனவும் அமைச்சர் தெரிவித்துள்ளார்.
+
+டாலி போன்ற கப்பல்களில் பொதுவான மற்றும் ஆபத்தான பொருட்கள் காணப்படும் அவ்வாறான கப்பல்களை திருப்பி அனுப்புவது சாத்தியமற்ற விடயம் எனவும் அமைச்சர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/2cafda8b.json)
+
+---
+
+### தென்னாபிரிக்காவிலிருந்து இலங்கைக்கு விமானம் மூலம் கொக்கேய்ன்: மூவர் கைது!
+
+*2024-04-04 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180401) · `ta`
+
+தென்னாபிரிக்காவிலிருந்து இலங்கைக்கு விமானம் மூலம் அனுப்பப்பட்டதாக கூறப்படும் கொக்கேய்ன் போதைப்பொருளை  பெற்றுக்கொள்வதற்காக ஒருகொடவத்தை சுங்க பிரிவின் களஞ்சியசாலையில் பொருட்கள் விநியோக நிலையத்துக்குச் சென்றிருந்த ஒருவர் உட்பட மூவர் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேக நபரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளின் போது, இலங்கைக்கு கொக்கேய்ன் போதைப்பொருளை இறக்குமதி செய்வதற்கு உதவிய மேலும் இரு சந்தேக நபர்கள் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/501c0644.json)
+
+---
+
+### கொக்குத்தொடுவாய் அகழ்வுப்பணி ஒத்திவைப்பு
+
+*2024-04-04 11:36:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொக்குத்தொடுவாய்-அகழ்வுப்பணி-ஒத்திவைப்பு/175-335604) · `ta`
+
+முல்லைத்தீவு மாவட்டத்தின் கொக்குதொடுவாய் பகுதியில் 29.06.2023 அன்று கண்டுபிடிக்கப்பட்ட மனித புதைகுழி அகழ்வு  தொடர்பான  வழக்கு  இன்றையதினம் (04)  முல்லைத்தீவு நீதவான்  நீதிமன்றில் இடம்பெற்றது
+
+முல்லைத்தீவு நீதவான்  நீதிமன்றில் நீதிபதி தர்மலிங்கம் பிரதீபன் முன்னிலையில் இடம் பெற்ற வழக்கு விசாரணைகளில் முல்லைத்தீவு மாவட்ட சட்ட வைத்திய அதிகாரி கனகசபாபதி வாசுதேவா,  முல்லைத்தீவு மாவட்ட செயலக பிரதம கணக்காளர் மயில்வாகனம் செல்வரட்ணம், கொக்கிளாய் பொலிஸ் நிலைய பொறுப்பதிகாரி,கொக்கிளாய் பகுதி  கிராம அலுவலர், சட்டத்தரணிகளான வி கே நிறஞ்சன், கணேஸ்வரன் மற்றும் காணாமல் போனோர் அலுவலகம் சார்பாக சட்டத்தரணி துஷ்யந்தினி ஆகியோர் முன்னிலையாகியிருந்தனர்
+
+...
+
+[Data](articles/3f040036.json)
+
+---
+
+### ’Dunhinda Odyssey’ to be launched tomorrow
+
+*2024-04-04 11:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dunhinda-Odyssey-to-be-launched-tomorrow/108-280173) · `en`
+
+Colombo, April 4 (Daily Mirror) - While marking 100 years since the beginning of the train service between Colombo and Badulla, the Railways Department is to launch a special train, 'Dunhinda Odyssey', tomorrow.
+
+The train is scheduled to leave from Colombo Fort at 6.30 a.m.
+
+After the inauguration of the train, the Dunhinda Odyssey will be reserved for passenger transport, and the fare for a ticket will be Rs. 8,000. The train consists of four cabins with 44 seats each; it also includes three second-class cabins and a third-class cabin with a canteen.
+
+In addition to the above trains, the Railways Department has arranged for another special train to travel to Badulla on that day for the respective celebrations.
+
+That is the train with special viewing facilities called "Calypso" without round covers. This train service too is scheduled to be inaugurated by Transport and Highways Minister Bandula Gunawardena.
+
+...
+
+[Data](articles/7d2d3fbd.json)
+
+---
+
+### A man was arrested and released on bail with deer meat in Puttalam
+
+*2024-04-04 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180395) · `ta`
+
+A man in Puttalam was arrested for poaching deer meat, seized along with 15 kg of meat, a deer head, and other items. He was released on bail, and the case is postponed until the 30th.
+
+🟩
+
+A person has been arrested by the Puttalam Wildlife Control Division with deer meat on Wednesday morning (03) in the Kalladi Me Oya River in Puttalam.
+
+The Wildlife Department has raided the area on the information available to the Department of Wildlife Department that the deer are hunting down the meat.
+
+One person was arrested and 15 kg of meat, deer head, mangol, scales and blades were seized.
+
+Wildlife Control Division said the suspect was from Kalladi area.
+
+The arrested suspect and the seized meat and other items were handed over to the Puttalam court yesterday.
+
+Mohamed Iqbal, who served as a reply, has been ordered to be released on bail and the case has been postponed until the 30th.
+
+◼️
+
+[Data](articles/d6b9621d.json)
+
+[Extended Data](ext_articles/d6b9621d.ext.json)
+
+---
 
 ### 21 year old youth missing over four months
 
@@ -77,34 +243,6 @@ The court, following the need to go to many countries, temporarily lifted the tr
 [Data](articles/15ee6c48.json)
 
 [Extended Data](ext_articles/15ee6c48.ext.json)
-
----
-
-### A man was arrested and released on bail with deer meat in Puttalam
-
-*2024-04-04 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180395) · `ta`
-
-A man in Puttalam was arrested for poaching deer meat, seized along with 15 kg of meat, a deer head, and other items. He was released on bail, and the case is postponed until the 30th.
-
-🟩
-
-A person has been arrested by the Puttalam Wildlife Control Division with deer meat on Wednesday morning (03) in the Kalladi Me Oya River in Puttalam.
-
-The Wildlife Department has raided the area on the information available to the Department of Wildlife Department that the deer are hunting down the meat.
-
-One person was arrested and 15 kg of meat, deer head, mangol, scales and blades were seized.
-
-Wildlife Control Division said the suspect was from Kalladi area.
-
-The arrested suspect and the seized meat and other items were handed over to the Puttalam court yesterday.
-
-Mohamed Iqbal, who served as a reply, has been ordered to be released on bail and the case has been postponed until the 30th.
-
-◼️
-
-[Data](articles/d6b9621d.json)
-
-[Extended Data](ext_articles/d6b9621d.ext.json)
 
 ---
 
@@ -277,6 +415,22 @@ But Ravichandran, who is the act of Indian team, says that the sports lackin has
 [Data](articles/380afd03.json)
 
 [Extended Data](ext_articles/380afd03.ext.json)
+
+---
+
+### මන්ත්‍රී කේ.එච්. නන්දසේන දිවි ගමනට සමුදෙයි
+
+*2024-04-04 10:51:14* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-කේ-එච්--නන්දසේන-දිවි-ගමනට-සමුදෙයි/11-408941) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ (SLPP) අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී එච්.නන්දසේන මහතා (69) හදිසි රෝගාබාධයක් හේතුවෙන් අද (04) උදෑසන අභාවප්‍රාප්ත විය.
+
+හිටපු පළාත් අමාත්‍යවරයෙකු වන නන්දසේන මහතා පදවිය ප්‍රාදේශීය සභාවේ සහ උතුරු මැද පළාත් සභාවේ මන්ත්‍රීවරයෙකු ලෙස ද ඇතුළුව විවිධ තනතුරු දැරූ අතර එහිදී ඔහු පළාත් අමාත්‍ය ධූරයක් ද හෙබවීය.
+
+ඔහු 2020 පාර්ලිමේන්තු මැතිවරණයට අනුරාධපුර දිස්ත්‍රික්කයේ අපේක්ෂකයෙකු ලෙස තරඟ කර ශ්‍රී ලංකා පාර්ලිමේන්තුවට තේරී පත් විය.
+
+◼️
+
+[Data](articles/3768a19a.json)
 
 ---
 
@@ -2029,193 +2183,5 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 [Data](articles/9d00a231.json)
 
 [Extended Data](ext_articles/9d00a231.ext.json)
-
----
-
-### Women under 19
-
-*2024-04-03 23:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180368) · `ta`
-
-England won the 19-year-old women's T20 cricket series against Sri Lanka by 6 wickets. Sri Lanka scored 126/9 in 20 overs, with Ashani Kaushalya and Sanjana Kavindi leading the batting. England, batting first, scored 127/4 in 14.4 overs, with Davina Perin and Erin Thomas sharing a 84-run partnership.
-
-🟩
-
-England won Sri Lanka by 6 wickets in the last match of the 19 -year -old women's T20 cricket series held at the Mahinda Rajapaksa International Cricket Stadium in Hambantota on Wednesday (03).
-
-The Sri Lankan women under the age of 19, who decided to bat first in the upting match, scored 126 runs for the loss of 9 wickets in 20 overs.
-
-The maximum number of spants, including 5 fine runs in Sri Lanka, was the highest number.
-
-Ashani Kaushalya (24) and Sanjana Kavindi (20) scored 20 or more runs.
-
-Sri Lanka's condition would have deteriorated if the trio did not get double digits.
-
-Shashini Kimhani (13A) in the front ranks. E.), Rashikka Sevandi (13) and Tahami Senatma (10) received double digit numbers.
-
-Ava Lee took 2 wickets for 19 runs, Salad Stubs 2 wickets for 23 runs while Mary Taylor, Sofia Small, Saleh Powley and Delhi Kotin Coleman took one wicket each.
-
-...
-
-[Data](articles/df68938a.json)
-
-[Extended Data](ext_articles/df68938a.ext.json)
-
----
-
-### BASL condemns use of parliamentary privileges to undermine independence of judiciary
-
-*2024-04-03 22:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98406/basl-condemns-use-of-parliamentary-privileges-to-undermine-independence-of-judiciary) · `en`
-
-The Bar Association of Sri Lanka (BASL) has expressed deep concern about the recent remarks made by certain Members of Parliament condemning the invocation of Supreme Court’s fundamental rights jurisdiction by a citizen to challenge the issuance of liquor licenses.
-
-Reiterating that every citizen has a fundamental right to seek redress from the Supreme Court, the apex court of the country, as enshrined in the Constitution, the BASL said this right cannot be curtailed under the guise of parliamentary privileges.
-
-Accordingly, it has categorically condemned the claims made by these MPs suggesting otherwise.
-
-The BASL, in a statement issued on Wednesday (03), said it views with grave concern that any attempts to use parliamentary privileges to interfere with the independence of the judiciary directly or indirectly.
-
-It also emphasized that it would, under no circumstances, remain silent when attempts are made to weaken the independence of the judiciary.
-
-...
-
-[Data](articles/0e3aea82.json)
-
-[Extended Data](ext_articles/0e3aea82.ext.json)
-
----
-
-### BASL condemns use of parliamentary privileges to undermine judiciary’s independence
-
-*2024-04-03 22:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98406/basl-condemns-use-of-parliamentary-privileges-to-undermine-judiciarys-independence) · `en`
-
-The Bar Association of Sri Lanka (BASL) has expressed deep concern about the recent remarks made by certain Members of Parliament condemning the invocation of Supreme Court’s fundamental rights jurisdiction by a citizen to challenge the issuance of liquor licenses.
-
-Reiterating that every citizen has a fundamental right to seek redress from the Supreme Court, the apex court of the country, as enshrined in the Constitution, the BASL said this right cannot be curtailed under the guise of parliamentary privileges.
-
-Accordingly, it has categorically condemned the claims made by these MPs suggesting otherwise.
-
-The BASL, in a statement issued on Wednesday (03), said it views with grave concern that any attempts to use parliamentary privileges to interfere with the independence of the judiciary directly or indirectly.
-
-It also emphasized that it would, under no circumstances, remain silent when attempts are made to weaken the independence of the judiciary.
-
-...
-
-[Data](articles/4ad36c88.json)
-
-[Extended Data](ext_articles/4ad36c88.ext.json)
-
----
-
-### Colombo schoolchildren at higher risk of road accidents: Minister
-
-*2024-04-03 22:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-schoolchildren-at-higher-risk-of-road-accidents-Minister/108-280138) · `en`
-
-Colombo, April 3 (Daily Mirror) - Children attending school face a greater risk of road accidents in the densely populated city of Colombo compared to other areas of the country, Education Minister Susil Premajayantha said, addressing an event organized at the Ministry for the official launch of the 'School Road Safety Club'.
-
-Therefore, he said that urgent steps have to be taken to change this tragic situation, and for that, such road safety programmes are a great support.
-
-"It's notable that the majority of urban traffic accidents occur within the Colombo Municipal Council area. There are a total of 144 schools in the Colombo zone, of which 21 are national schools and another 20 fall under the international and private school categories. The remaining schools are under the Western Provincial Council," he said.
-
-...
-
-[Data](articles/bf61091d.json)
-
-[Extended Data](ext_articles/bf61091d.ext.json)
-
----
-
-### Weak prosecution case clears police OIC charged for bribery
-
-*2024-04-03 22:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Weak-prosecution-case-clears-police-OIC-charged-for-bribery/108-280142) · `en`
-
-Colombo, April 3 (Daily Mirror) - The Colombo High Court Judge Navaratne Marasinghe today acquitted the former OIC of Mount-Lavinia Special Crime Investigation Bureau (SCIB) Inspector of Police Samaraweera Gunarathne from all the charges of bribery as the prosecution failed to prove the charges beyond reasonable doubt.
-
-The Director General of the Commission to Investigate Allegations of Bribery or Corruption indicted the Inspector of Police Samaraweera Gunarathne for soliciting and accepting a sum of Rs. 20,000 from a woman in order to expedite the investigation into complaint made by one of her friends at the SCIB of Mount Lavinia Police Station.
-
-...
-
-[Data](articles/97c14c13.json)
-
-[Extended Data](ext_articles/97c14c13.ext.json)
-
----
-
-### While the country's economy is strengthened, the teacher's action to fill the vacancies
-
-*2024-04-03 22:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180367) · `ta`
-
-President Ranil Wickremesinghe announced plans to appoint 4,000 teachers in 2024, emphasizing the importance of teachers in shaping students' futures. He highlighted the economic strengthening of the country as a factor in allocating additional funds for teacher appointments.
-
-🟩
-
-President Ranil Wickremesinghe said that the government has taken steps to appoint 4,000 people in 2024 in 2024 and that if the country's economy is strengthened, additional funds will be allocated to fill the vacancies next year.
-
-President Ranil Wickremesinghe made this statement while addressing the appointment of the Western Province Graduate Teacher at the Alari House on Wednesday afternoon.
-
-2320 graduate teachers were appointed and appointed by the President's identity.
-
-President Ranil Wickremesinghe addressed the gathering at the teacher appointment.
-
-The President also pointed out that the teachers should always improve the knowledge of courses.
-
-...
-
-[Data](articles/e7bb3a37.json)
-
-[Extended Data](ext_articles/e7bb3a37.ext.json)
-
----
-
-### Only one container intended for unloading at Colombo port: Minister
-
-*2024-04-03 22:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Only-one-container-intended-for-unloading-at-Colombo-port-Minister/108-280133) · `en`
-
-Colombo, April 3 (Daily Mirror) - Only one container out of the 56 containers listed as dangerous cargo on board the ‘Dali’ cargo vessel that collided with the Baltimore Bridge in US recently, intended for unloading at the Colombo port, Minister Nimal Siripala de Silva said today.
-
-The minister said this in response to ongoing speculation, noting that the vessel's Sri Lankan agent had formally communicated this detail to the relevant authorities.
-
-Minister de Silva emphasized that out of the 56 containers listed as dangerous cargo, destined for re-export to another country, the Colombo Port was not the final stop for the vessel. |The ultimate destination for the ship is China, yet there have been mistaken reports indicating otherwise,” he said.
-
-...
-
-[Data](articles/3ac3ff52.json)
-
-[Extended Data](ext_articles/3ac3ff52.ext.json)
-
----
-
-### Sri Lanka starts surveying drug addicts as authorities seek public help
-
-*2024-04-03 22:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-starts-surveying-drug-addicts-as-authorities-seek-public-help-157432/) · `en`
-
-ECONOMYNEXT – Sri Lanka has started a survey on drug addicts in order to reduce the demand of drugs through awareness while the local authorities request more public participation in eradicating drug menace in the society, officials said.
-
-There is no official data on drug addicts in Sri Lanka, but rough estimation shows there are around 5 million people are connected to one or the other drug including tobacco and alcohol drinks, officials at National Dangerous Drugs Control Board say.
-
-The estimation includes up to 100,000 of heroin addicts, up to 350,000 cannabis users, 50,000 ICE (Methamphetamine) users, around 3 million tobacco users, and 2.5 million alcoholic users, they said.
-
-“There is no proper survey on the drug addicts,” Shakya Nanayakkara, Chairman at the National Dangerous Drugs Control Board told reporters at a media briefing in Colombo on Wednesday (03).
-
-...
-
-[Data](articles/ce3a17c5.json)
-
-[Extended Data](ext_articles/ce3a17c5.ext.json)
-
----
-
-### 80 medical officers appointed to Senior Medical Administration posts
-
-*2024-04-03 21:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/80-medical-officers-appointed-to-Senior-Medical-Administration-posts/108-280129) · `en`
-
-A total of 80 vacant Senior Medical Administration posts in the health sector that were vacant for the past two years have been filled by the Health Ministry, Dr. P. G. Mahipala said.
-
-While issuing a letter, he said the list includes Colombo National Hospital Deputy Director Dr. Rukshan Bellana.
-
-◼️
-
-[Data](articles/21f2f215.json)
-
-[Extended Data](ext_articles/21f2f215.ext.json)
 
 ---

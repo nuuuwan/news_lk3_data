@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 07:40:35**
+As of **2024-04-04 07:53:50**
 
 ## Newspaper Stats
 
-*Scraped **17,018** Articles*
+*Scraped **17,020** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 150
-bbccomsinhala | 177
+bbccomsinhala | 178
 dbsjeyarajcom | 207
 newsfirstlk | 363
 dailyftlk | 929
@@ -17,7 +17,7 @@ economynextcom | 942
 islandlk | 943
 adalk | 1,430
 tamilmirrorlk | 2,021
-adaderanalk | 2,037
+adaderanalk | 2,038
 virakesarilk | 2,457
 dailymirrorlk | 2,618
 adaderanasinhalalk | 2,744
@@ -26,21 +26,39 @@ adaderanasinhalalk | 2,744
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,017 (100.0%) of 17,018 articles have been extended.
+17,018 (100.0%) of 17,020 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### පාර්ලිමේන්තු මන්ත්‍රී කේ.එච්. නන්දසේන අභාවප්‍රාප්ත වෙයි
+### SLPP MP H. Nandasena passes away
+
+*2024-04-04 07:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98409/slpp-mp-h-nandasena-passes-away-) · `en`
+
+Anuradhapura District MP of Sri Lanka Podujana Peramuna (SLPP), H. Nandasena passed away this morning (04), family sources told Ada Derana.
+
+◼️
+
+[Data](articles/6a2486a3.json)
+
+---
+
+### Member of Parliament (MPH) K.H. Death of Nandasena
 
 *2024-04-04 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195274) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ අනුරාධපුරය දිස්ත්‍රික්  පාර්ලිමේන්තු මන්ත්‍රී හා දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේ සභාපති කේ. එච්. නන්දසේන මහතා හදිසි රෝගී තත්ත්වයකින් අභාවප්‍රාප්ත වී තිබේ.
+MPH K.H. Death of Nandasena: Chairman of the Anuradhapura District Parliamentary and District Coordinating Committee, Mr. Nandasena, has passed away due to an emergency condition.
+
+🟩
+
+Chairman of the Anuradhapura District Parliamentary and District Coordinating Committee of the Sri Lanka General Anuradhapura Perera. H. Mr. Nandasena has passed away from an emergency condition.
 
 ◼️
 
 [Data](articles/32e03201.json)
+
+[Extended Data](ext_articles/32e03201.ext.json)
 
 ---
 
@@ -615,6 +633,26 @@ If the two elections are held on the same day, it will be favorable to the presi
 [Data](articles/8f250a70.json)
 
 [Extended Data](ext_articles/8f250a70.ext.json)
+
+---
+
+### ලංකාවේ නාගරික ගැබිනි මවුවරුන්ගේ මානසික සෞඛ්‍ය වෙනුවෙන්  'නූපන් දරුවන්ට සංගීතය'
+
+*2024-04-04 01:52:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd100kp2xz7o) · `si`
+
+ලංකාවේ නාගරික ගැබිනි මවුවරුන්ගේ මානසික සෞඛ්‍ය වෙනුවෙන්  'නූපන් දරුවන්ට සංගීතය'
+
+දරුවෙකු බිහි කිරීමට කුසතුළ දරාගෙන සිටින ගැබිනි  මවුවරුන්ට හොඳ ශාරීරික සෞඛ්‍යක් සේම මානසික සෞඛ්‍ය ද යහපත් මට්ටමකින් පවත්වාගෙන අනිවාර්යයෙන්ම සිදු කළ යුතු බව විශේෂඥ මතයයි.
+
+බොහෝ රටවල්වල කාන්තාවක් ගැබ්ගත් පසුව ඇගේ පවුලේ සාමාජිකයන් ඇය කෙරෙහි විශේෂ සැලකිල්ලකින් කටයුතු කරනු ලබයි.
+
+ශ්‍රී ලංකාවේ ග්‍රාමීය සමාජය තුළ තවමත් එවැනි අක්මුල් දැකගත හැකි අතර, සාමාන්‍යයෙන් ශෝකජනක හෝ කෝපයට පත්වන පුවතක්වත් ගැබිනි මවකට නොකීමට ඔවුහු වග බලා ගත්තේ ඇගේ මානසික යහපැවැත්ම උදෙසායි.
+
+නමුත් වර්තමානය වන විට බොහෝ දෙනෙකු ජීවත්වන කාර්‍යබහුල සමාජය හා විවිධ ආර්ථික හා සමාජීය හේතු නිසා ගැබිනි මවුවරුන්ගේ මානසික යහපැවැත්ම සම්බන්ධයෙන් බොහෝවිට අවධානයක් යොමු නොවන මට්ටමට පැමිණ තිබේ. ශ්‍රී ලංකාවේ නාගරික ප්‍රදේශ ආශ්‍රිතව මෙම තත්ත්වය ඇති වීමට අදාළ බොහෝ හේතු සාධක තිබේ.
+
+...
+
+[Data](articles/64fb50e3.json)
 
 ---
 
@@ -2171,57 +2209,5 @@ Kariyawasam said the party will also celebrate International Labour Day on May 0
 [Data](articles/7f5efb80.json)
 
 [Extended Data](ext_articles/7f5efb80.ext.json)
-
----
-
-### Youth's body recovery with 1000 apologies inside the heart
-
-*2024-04-03 17:16:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இதயத்துக்குள்-1000-மன்னிப்புடன்-யுவதியின்-சடலம்-மீட்பு/76-335573) · `ta`
-
-A woman's body was found in Iragala Police Division's Telmer surface, after a two-sided family dispute. She left with a man from Nanuoya, leading to a bitter incident. Her letter contained 1000 apologies.
-
-🟩
-
-In about two sides, Thang has made a wrong decision on the English and the one -sided mother and father on the other side, and on the other side, the woman has made a false decision.
-
-Generally, in a letter written on one side, the woman also painted a heart, referring to 1000 times, apologizing. The incident took place in the Telmer surface of the Iragala Police Division.
-
-The body of the woman was recovered by the police on Wednesday (03) by the body of an 18 -year -old Sudarshika from the Telmak Estate, Udappussalawa, from the Irakalai Telmer Divisional Pond, which belongs to the Iragala Police Division.
-
-The body of a woman who was searching for the last two days has been recovered.
-
-The body was recovered by the Nuwara Eliya District Magistrate and the Nuwara Eliya Crime Forensic Police. The body has been taken to the Nuwara Eliya District Hospital for autopsy.
-
-...
-
-[Data](articles/74b9e0e1.json)
-
-[Extended Data](ext_articles/74b9e0e1.ext.json)
-
----
-
-### The body of the young woman with an apology within the heart
-
-*2024-04-03 17:16:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இதயத்துக்குள்-1-000-மன்னிப்புடன்-யுவதியின்-சடலம்-மீட்பு/76-335573) · `ta`
-
-A young woman's body found in Iragala Police Division's Telmer surface, with a heart symbol and apologies in a letter. She was 18, from Telmak Estate, Udapussalawa, and had been missing for two days. The letter, found on her, expressed regret and blamed stress. She had been in a relationship with a man from Nanuoya since age 16, leading to conflicts.
-
-🟩
-
-In about two sides, it is usually in Tungles, and usually one side of the mother and father, and on the other side, the woman has written a letter on the other side, and the woman has made the wrong decision.
-
-In a letter of general, she painted a heart, referring to 1,000 times, apologizing and apology. The incident took place in the Telmer surface of the Iragala Police Division.
-
-The body of the woman was recovered by the police on Wednesday (03) by the body of an 18 -year -old Sudarshika, a woman from the Telmak Estate, Udapussalawa, from the Irakalai Telmer Divisional Pond, which belongs to the Irakalai Police Division.
-
-The body of a woman who was searching for the last two days has been recovered.
-
-The body was recovered by the Nuwara Eliya District Magistrate and the Nuwara Eliya Crime Forensic Police. The body has been taken to the Nuwara Eliya District Hospital for autopsy.
-
-...
-
-[Data](articles/a7666e6b.json)
-
-[Extended Data](ext_articles/a7666e6b.ext.json)
 
 ---

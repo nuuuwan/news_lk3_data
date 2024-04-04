@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 09:18:19**
+As of **2024-04-04 09:34:11**
 
 ## Newspaper Stats
 
-*Scraped **17,033** Articles*
+*Scraped **17,036** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
 economynextcom | 944
-adalk | 1,430
+adalk | 1,432
 tamilmirrorlk | 2,022
-adaderanalk | 2,039
+adaderanalk | 2,040
 virakesarilk | 2,457
 dailymirrorlk | 2,621
 adaderanasinhalalk | 2,749
@@ -26,23 +26,43 @@ adaderanasinhalalk | 2,749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,030 (100.0%) of 17,033 articles have been extended.
+17,033 (100.0%) of 17,036 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### විශේෂ මත්පෙති වර්ගයක් සහ ගංජා සමග පුද්ගලයෙක් අත්අඩංගුවට
+### Man arrested with over 76,000 narcotic pills in Panadura
+
+*2024-04-04 09:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98411/man-arrested-with-over-76000-narcotic-pills-in-panadura) · `en`
+
+A man who was in possession of a large cache of narcotic pills and cannabis has been arrested in Hirana, Panadura.
+
+As many as 76,796 narcotic pills used instead of heroin and 1kg of cannabis were found on the suspect at the time of the arrest.
+
+◼️
+
+[Data](articles/8bbfdbcd.json)
+
+---
+
+### Suspect arrested with special drugs and cannabis
 
 *2024-04-04 08:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195279) · `si`
 
-හෙරොයින් වෙනුවට භාවිත කළ හැකි යැයි පැවසෙන මත්පෙති සහ ගංජා සමග පුද්ගලයෙක් පානදුර, හිරන ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+In Sirana, Panadura, a suspect was arrested for possessing special drugs and cannabis, with 76,796 liters and a kilogram of cannabis seized.
 
-එහිදී මත්පෙති 76,796ක් සහ ගංජා කිලෝග්‍රෑමයක් ද පොලිස් භාරයට ගෙන ඇත.
+🟩
+
+A person was arrested in Sirana, Panadura, Panadura, who is said to be used instead of heroin.
+
+Police also seized 76,796 litiga and a kilogram of cannabis.
 
 ◼️
 
 [Data](articles/89745109.json)
+
+[Extended Data](ext_articles/89745109.ext.json)
 
 ---
 
@@ -61,6 +81,8 @@ Chamari hit a superb 73 from just 46 deliveries and No.3 Harshitha Samarawickram
 ...
 
 [Data](articles/6824abae.json)
+
+[Extended Data](ext_articles/6824abae.ext.json)
 
 ---
 
@@ -81,6 +103,8 @@ Sri Lanka’s banks were hit by bad loans from Coronavirus pandemic and the curr
 ...
 
 [Data](articles/badab1ac.json)
+
+[Extended Data](ext_articles/badab1ac.ext.json)
 
 ---
 
@@ -1740,6 +1764,24 @@ It caused the most damage in Hualien, where buildings fell, roads were blocked a
 
 ---
 
+### ඕනෑම විවාදයකට මුහුණ දීමට සූදානම්
+
+*2024-04-03 20:42:52* · [`adalk`](https://www.ada.lk/breaking_news/ඕනෑම-විවාදයකට-මුහුණ-දීමට-සූදානම්/11-408939) · `si`
+
+ඕනෑම විවාදයක් පිළිබඳ අභියෝගයකට මුහුණ දීමට තමා සූදානම් බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+සක්වල වැඩසටහන යටතේ මුලතිව් ඔඩ්ඩුසුඩාන් මුත්තුඅයියන්කට්ටු පාසලකට රුපියල් ලක්ෂ 10ක් වටිනා සුහුරු පන්ති කාමරයක් ලබා දීමේ අවස්ථාවට අද (03දා) එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+"මේ මොහොත වන විට අපිට දකින්නට ලැබෙනවා, සමාජයේ කතාබහට ලක්වෙනවා රටේ ප්‍රශ්න පිළිබඳව විවාදයක් අවශ්‍යයි කියලා. ඔව් මමත් පිළිගන්නවා, රටේ ප්‍රශ්න පිළිබඳව වාද විවාද කරන්න ඕනෑ. යෝජනා ඉදිරිපත් කරන්න ඕනෑ. ඒ නිසා විවාද පවත්වන එක ප්‍රජාතන්ත්‍රවාදී සමාජයක උසස් ගුණාංගයක්. මම සූදානම් ඕනෑම විවාදයකට. ආර්ථික ක්ෂේත්‍රය හෝ වේවා, සමාජීය ක්ෂේත්‍රය හෝ වේවා, දේශපාලන ක්ෂේත්‍රය හෝ වේවා, ජාත්‍යන්තර ක්ෂේත්‍රය හෝ වේවා ඕනෑම මාතෘකාවක් පිළිබඳව වාද විවාද කරන්න මම සූදානම්. ඒත් වාද විවාද කිරීමෙන් පමණක් රට ගොඩනැගෙන්නේ නෑ.
+
+...
+
+[Data](articles/c73716cb.json)
+
+---
+
 ### Between the wreckage of the Taiwan earthquake
 
 *2024-04-03 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195270) · `si`
@@ -1847,6 +1889,22 @@ The policy plan prepared to modernize the agricultural sector of Sri Lanka was h
 [Data](articles/e57cd666.json)
 
 [Extended Data](ext_articles/e57cd666.ext.json)
+
+---
+
+### ලවණ කුඹුරු අක්කර ලක්ෂ 2කට චීන ’සී රයිස්’
+
+*2024-04-03 20:04:31* · [`adalk`](https://www.ada.lk/breaking_news/ලවණ-කුඹුරු-අක්කර-ලක්ෂ-2කට-චීන-’සී-රයිස්’/11-408934) · `si`
+
+මෙරට තුළ ඉහළ ලවණතාවෙන් යුත් කුඹුරු අක්කර ලක්ෂ 02ක චීනයේ 'සී රයිස්' ප්‍රභේදය වගා කිරීමට නියමිත බව හෙක්ටර් කොබ්බෑකඩුව ගොවිකටයුතු පර්යේෂණ හා පුහුණු කිරීමේ ආයතනයේදී ඊයේ (03දා) පැවති වැඩසටහනකදී අනාවරණය විය.
+
+එම ආයතනයෙහි පර්යේෂණ පත්‍රිකා එළි දැක්වීම සඳහා මෙම වැඩසටහන පැවති අතර, එහිදී වැඩිදුරටත් අනාවරණය වූයේ පුරන් කුඹුරු නැවත වගා කිරීම වෙනුවට නිර්දේශිත විකල්ප බෝග ඒවායෙහි වගා කිරීම සඳහා පූර්ණ අනුමතිය ලබා දීමට ඉදිරියේදී නියමිත බවය.
+
+එසේම වී වගා කටයුතු සඳහා වාරි ජලය භාවිත කෙරෙන වියළි කලාපීය භූමි කෙරෙහි ඉදිරියේදී වැඩි අවධානයක් යොමු කිරීමට නියමිත බවද එහිදී සඳහන් විය.
+
+◼️
+
+[Data](articles/3fc8612f.json)
 
 ---
 
@@ -2171,69 +2229,5 @@ The Railway Department says a train traveling has been carried out by a train.
 [Data](articles/49f62bb1.json)
 
 [Extended Data](ext_articles/49f62bb1.ext.json)
-
----
-
-### Derailment disrupts train services on main line
-
-*2024-04-03 19:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Derailment-disrupts-train-services-on-main-line/108-280119) · `en`
-
-Colombo, April 3 (Daily Mirror) - The intercity express train that departed for Maho was derailed between Maradana and Dematagoda railway stations, the Railways Department said.
-
-They said the train departed from Fort Railway station at 6.05 p.m. and derailed at 6.15 p.m. between Maradana and Dematagoda railway stations.
-
-Therefore, the railway services on the main line have been disrupted.
-
-◼️
-
-[Data](articles/6dba177b.json)
-
-[Extended Data](ext_articles/6dba177b.ext.json)
-
----
-
-### A new act to prevent domestic violence
-
-*2024-04-03 18:59:23* · [`adalk`](https://www.ada.lk/breaking_news/ගෘහස්ථ-ප්‍රචණ්ඩත්වය-වැළැක්වීමට-නව-පනතක්/11-408929) · `si`
-
-The Cabinet approved a new act to prevent domestic violence, including the establishment of the National Women's Commission. The Women's Empowerment Bill, focusing on women's rights, was tabled in Parliament. It includes provisions for temporary detention centers and revises the existing domestic violence act.
-
-🟩
-
-Minister of Women's and Child Affairs Geetha Kumarasinghe said that the Cabinet approved by the Cabinet of Cabinet and the Cabinet of Cabinet was approved by amending the Current Activity of Indoor Violence.
-
-The National Women's Commission, the National Women's Commission, said that the National Women's Commission will be established after the National Women's Commission was tabled in Parliament.
-
-State Minister of Women and Child Affairs Geetha Kumarasinghe made this statement participating at a press conference held at the Presidential Media Center by one way.
-
-"Cabinet approval was approved on 04.03.03.2013 for the Empowerment of Women.. Accordingly, the bill was published in the Gazette on 07.03.2010. It is to be tabled in Parliament in Parliament. The bill contains the provisions for the establishment of the National Women's Commission.
-
-...
-
-[Data](articles/6f093399.json)
-
-[Extended Data](ext_articles/6f093399.ext.json)
-
----
-
-### "Sri Lanka is the best to a woman to travel alone '
-
-*2024-04-03 18:36:24* · [`adalk`](https://www.ada.lk/breaking_news/’කාන්තාවකට-තනිව-සංචාරය-කළ-හැකි-හොඳම-රට-ලංකාවයි’/11-408928) · `si`
-
-Sri Lanka tops the list for solo female travelers, recommended by Time Out Magazine. It's considered one of the safest countries for women to travel alone, alongside Portugal, Czech Republic, Japan, Guatemala, Vietnam, Australia, Greece, and New Zealand.
-
-🟩
-
-According to a recent survey, more than half of the Gen Z will consider more than half of the Gen Z and the most securely traveling to visit them safely.
-
-Time Out Magazine of Sri Lanka has recommended numbers. Sri Lanka has named the number together after considering some of several. 9 countries have recommended women who want to travel alone.
-
-The Portugal, the Czech Republic, Japan, Guatemala, Vietnam, Australia, Greece, and New Zealand have been rated from two to 9.
-
-◼️
-
-[Data](articles/a7f417af.json)
-
-[Extended Data](ext_articles/a7f417af.ext.json)
 
 ---

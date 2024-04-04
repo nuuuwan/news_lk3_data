@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 21:33:42**
+As of **2024-04-04 21:53:20**
 
 ## Newspaper Stats
 
-*Scraped **17,204** Articles*
+*Scraped **17,205** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 2,034
 adaderanalk | 2,063
 virakesarilk | 2,498
 dailymirrorlk | 2,642
-adaderanasinhalalk | 2,781
+adaderanasinhalalk | 2,782
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,198 (100.0%) of 17,204 articles have been extended.
+17,204 (100.0%) of 17,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### හෙට පළාත් කිහිපයක උෂ්ණත්වය ඉහළට
+
+*2024-04-04 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195314) · `si`
+
+දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය හෙට (05) දිනයේදී අවධානය යොමුකළ යුතු මට්ටම දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+උතුරු, අතුරු-මැද, නැගෙනහිර, බස්නාහිර, සබරගමුව, වයඹ සහ දකුණු පළාත්වලත් මොණරාගල දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+මෙහිදී ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළ යුතු බව එම දෙපාර්තමේන්තුව කළ නිවේදනයේ සඳහන් වේ.
+
+◼️
+
+[Data](articles/2be2ff24.json)
+
+---
 
 ### School student dies after concrete bay collapse in Maskeliya
 
@@ -45,6 +61,8 @@ According to authorities, the concrete bay collapsed as part of a tea garden dev
 ◼️
 
 [Data](articles/9c40e537.json)
+
+[Extended Data](ext_articles/9c40e537.ext.json)
 
 ---
 
@@ -75,6 +93,8 @@ The Joint Centre for Unemployed Graduates staged a protest outside the Fort Rail
 ◼️
 
 [Data](articles/2799f89d.json)
+
+[Extended Data](ext_articles/2799f89d.ext.json)
 
 ---
 
@@ -228,23 +248,31 @@ The center is independent of independent quality inspection services, laboratory
 
 ---
 
-### අපි තවත් ඒදණ්ඩ මතයි වැටෙනවද? නැත්ද? කියා තීරණය කරන්න
+### Are we falling on another?Or aren't there?Decide
 
 *2024-04-04 19:58:15* · [`adalk`](https://www.ada.lk/breaking_news/අපි-තවත්-ඒදණ්ඩ-මතයි-වැටෙනවද--නැත්ද--කියා-තීරණය-කරන්න/11-408958) · `si`
 
-ශක්තිමත් ආර්ථිකයක් සමඟ විශ්වාසයෙන් යුතුව ඉදිරියට යා හැකි පරිසරයක් අද රට තුළ නිර්මාණය වෙලා
+President Ranil Wickremesinghe highlighted the government's economic strength, noting a 50% increase in 2023. He opened the International Gem and Jewelery Trade Center, aiming to boost the gem and jewelry industry. Despite challenges, the economy has shown improvement, with GDP growth from negative 7.4% in July 2022 to positive 4.5% in 2024, and inflation from 54.6% to 0.9%. The government plans to reduce debt and foreign loans, aiming for a 95% debt-to-GDP ratio by 2032 and 2.3% of GDP in foreign loans by 2025.
 
-ජාතික ආර්ථිකයට ඉහළ දායකත්වයක් ලබා ගැනීමට කටයුතු කරනවා – ජනපති.
+🟩
 
-පසුගිය වසර දෙක තුළ රජය ගත් නිවැරදි තීන්දු තීරණ හේතුවෙන් මේ වන විට රටේ ආර්ථිකය ශක්තිමත් වී තිබෙන බවත්, අද ඕනෑම අයෙකුට මහමග බැස දේශපාලනය කිරීමට අවස්ථාව ලැබී ඇත්තේ රජය රට තුළ නිර්මාණය කළ එම සහනදායි පසුබිම නිසා බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+The country has been created in the country today with confidence with a strong economy
 
-එහෙත් තවමත් රටේ ආර්ථිකය පවතින්නේ ඒදණ්ඩක් මත බව පෙන්වා දුන් ජනාධිපතිවරයා රජයේ වැඩපිළිවෙළ සමඟ ජයග්‍රහණය තෙක් ඉදිරියට යනවාද, නැත්නම් එම වැඩපිළිවෙළෙන් ඉවත්ව රට නැවත ප්‍රපාතයට ඇද දමනවාද යන්න ජනතාව තීරණය කළ යුතු බවද සඳහන් කළේය.
+President will contribute to the national economy - President.
 
-2022 වසර හා සැසඳීමේදී 2023 වසරේ රජයේ ආදායම 50%කට වඩා ඉහළ නංවා ගැනීමට හැකිවී තිබෙන බවත්, ඒ සමගම ජනතාවට ද ප්‍රතිලාභ රැසක් ලබා දී තිබෙන බවත් සිහිපත් කළ ජනාධිපතිවරයා ශක්තිමත් ආර්ථිකයක් සමඟ විශ්වාසයෙන් යුතුව ඉදිරියට යා හැකි පසුබිමක් රට තුළ නිර්මාණය වී තිබෙන බවද පෙන්වා දුන්නේය.
+President Ranil Wickremesinghe said that due to the accuracy of the government in the last two years, the government has been strengthened and the government has been able to go down the country.
+
+However, the President has said that the economy of the country is on a damn, the President said that the people should be resolved and resorting to the government and depart from the program.
+
+Remembered that the President has been able to increase over 50% of the year in 2023, that the President has been able to increase over 50% of the year.
+
+President Ranil Wickremesinghe was speaking at the opening of the International Gem and Jewelery Trade Center (Gem Tower) today (04).
 
 ...
 
 [Data](articles/474961b6.json)
+
+[Extended Data](ext_articles/474961b6.ext.json)
 
 ---
 
@@ -2275,23 +2303,5 @@ The Criminal Investigations Department has been arrested by the Criminal Investi
 [Data](articles/522c8bfe.json)
 
 [Extended Data](ext_articles/522c8bfe.ext.json)
-
----
-
-### Tamitha surrendered to court
-
-*2024-04-04 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180415) · `ta`
-
-Famous actress Tamitha Abeyratne, accused of money laundering, surrenders to court.
-
-🟩
-
-Famous actress Tamitha Abeyratne, accused of engaging in money laundering for allegedly providing employment in Korea, has surrendered to the Fort court a few minutes ago.
-
-◼️
-
-[Data](articles/41884982.json)
-
-[Extended Data](ext_articles/41884982.ext.json)
 
 ---

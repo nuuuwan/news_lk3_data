@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 12:33:28**
+As of **2024-04-04 12:51:08**
 
 ## Newspaper Stats
 
-*Scraped **17,077** Articles*
+*Scraped **17,083** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,136 @@ newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
 economynextcom | 944
-adalk | 1,437
+adalk | 1,439
 tamilmirrorlk | 2,029
 adaderanalk | 2,045
-virakesarilk | 2,472
-dailymirrorlk | 2,625
+virakesarilk | 2,475
+dailymirrorlk | 2,626
 adaderanasinhalalk | 2,754
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,076 (100.0%) of 17,077 articles have been extended.
+17,077 (100.0%) of 17,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### பண்டிகையை முன்னிட்டு விசேட பஸ் சேவைகள்
+### CBK obtains enjoining order against Maithripala on SLFP Chairmanship
+
+*2024-04-04 12:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CBK-obtains-enjoining-order-against-Maithripala-on-SLFP-Chairmanship/108-280181) · `en`
+
+Colombo, April 4 (Daily Mirror) - The Colombo District Court today issued an enjoining order preventing former President Maithripala Sirisena from functioning as the chairman of the Sri Lanka Freedom Party (SLFP).
+
+Colombo District Court Judge Sandun Vithana made this order pursuant to a lawsuit filed by former President Chandrika Kumaratunga.
+
+◼️
+
+[Data](articles/870ec0c3.json)
+
+---
+
+### இந்தியா இலங்கையின் கடல்எல்லையை மீறினால் அது இலங்கையின் இறைமையை மீறும் செயலாக கருதப்படும் - தேர்தல் வாக்குகளிற்காக பாஜக கச்சதீவு விவகாரத்தை பயன்படுத்துகின்றது - இந்தியாவிற்கான முன்னாள் இலங்கை தூதுவர் ஒஸ்டின் பெர்ணாண்டோ
+
+*2024-04-04 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180412) · `ta`
+
+இந்தியா கடல்எல்லையை தாண்டினால் அது இலங்கையின் இறைமையை மீறும் செயலாக கருதப்படும் என இந்தியாவிற்கான இலங்கையின் முன்னாள் தூதுவர் ஒஸ்டின் பெர்ணாண்டோ தெரிவித்துள்ளார்.
+
+இந்திய தேர்தல் சூழலில் கச்சதீவு விவகாரத்தை பயன்படுத்துவதற்கு பாஜக முயற்சிகளை மேற்கொண்டுள்ள அதேவேளை  பாஜக வாக்குகளை கவரும் முயற்சியில் ஈடுபட்டிருக்கலாம் ஆனால் தேர்தலி;ற்கு பின்னர் இந்திய அரசாங்கம் மீண்டும் பழைய நிலைக்கு செல்ல முடியாது அது கடினமான விடயம் எனஒஸ்டின் பெர்ணாண்டோ தெரிவித்துள்ளார்.
+
+மிகவும் மதிக்கப்படும் அனுபவம் மிக்க அதிகாரியான ஒஸ்டின் பெர்ணாண்டோ கொழும்பிலிருந்து இந்தியன் எக்ஸ்பிரசி;ற்கு கருத்துதெரிவிக்கையில் இதனை குறிப்பிட்டுள்ளார்.
+
+இந்திய அரசாங்கம் இலங்கையின் கடல்சார் எல்லையை மீறினால் அது இலங்கையின் இறைமையை மீறும் செயலாக கருதப்படும் என அவர் தெரிவித்துள்ளார்.
+
+1980களில் இந்திய அமைதிப்படை காலத்தில் இலங்கை ஜனாதிபதியாக பதவிவகித்த ரணசிங்க பிரேமதாசாவின் கூற்றினை ஒஸ்டின் பெர்ணாண்டோ நினைவுபடுத்தியுள்ளார்.
+
+...
+
+[Data](articles/a5ba70ab.json)
+
+---
+
+### கொக்குத்தொடுவாய் மனித புதைகுழி அகழ்வுப் பணியை மீள ஆரம்பிக்க  இதுவரை நிதி கிடைக்கவில்லை ; வழக்கு விசாரணை ஒத்திவைப்பு
+
+*2024-04-04 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180410) · `ta`
+
+முல்லைத்தீவு மாவட்டத்தின் கொக்குதொடுவாய் பகுதியில் 29.06.2023 அன்று கண்டுபிடிக்கப்பட்ட மனித புதைகுழி அகழ்வு  தொடர்பான  வழக்கு  இன்று வியாழக்கிழமை (04)  முல்லைத்தீவு நீதவான்  நீதிமன்றில் இடம்பெற்றது.
+
+முல்லைத்தீவு நீதவான்  நீதிமன்றில் நீதிபதி தர்மலிங்கம் பிரதீபன்  முன்னிலையில் இடம் பெற்ற வழக்கு விசாரணைகளில் முல்லைத்தீவு மாவட்ட சட்ட வைத்திய அதிகாரி கனகசபாபதி வாசுதேவா,  முல்லைத்தீவு மாவட்ட செயலக பிரதம கணக்காளர் மயில்வாகனம் செல்வரட்ணம், கொக்கிளாய் பொலிஸ் நிலைய பொறுப்பதிகாரி,கொக்கிளாய் பகுதி  கிராம அலுவலர், சட்டத்தரணிகளான வி கே நிறஞ்சன், கணேஸ்வரன் மற்றும் காணாமல் போனோர் அலுவலகம் சார்பாக சட்டத்தரணி துஷ்யந்தினி ஆகியோர் முன்னிலையாகியிருந்தனர்.
+
+...
+
+[Data](articles/59637104.json)
+
+---
+
+### ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவர் பதவியை வகிப்பதற்கு மைத்திரிபால சிறிசேனவுக்கு தடைவிதித்த  நீதிமன்றம்!
+
+*2024-04-04 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/180409) · `ta`
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவர் பதவியை வகிப்பதற்கு கொழும்பு மாவட்ட நீதிமன்றம்  இன்று வியாழக்கிழமை (04) இடைக்காலத் தடையுத்தரவு பிறப்பித்துள்ளது.
+
+முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்கவின் மனு தொடர்பில் ஆராய்ந்த கொழும்பு மாவட்ட நீதிமன்றம் இந்த தடை உத்தரவைப் பிறப்பித்துள்ளது.
+
+◼️
+
+[Data](articles/2ed1f6bf.json)
+
+---
+
+### Action to eliminate the crisis of Jaffna Central Bus Station
+
+*2024-04-04 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180400) · `ta`
+
+Minister Douglas Devananda visited Jaffna Central Bus Station, observed the situation, and discussed with officials and passengers. He met with departmental officers and police to address the crisis and improve health measures. The Municipal Commissioner directed immediate action for passengers and buses.
+
+🟩
+
+Minister Douglas Devananda has taken steps to eliminate the crisis at the Central Bus Station in Jaffna and improve health measures.
+
+The Minister visited the bus station yesterday (03) and observed the situation in the city and had discussed with the department officials and passengers.
+
+Following this, the night, in his office with the departmental officers and the police in his office. The Municipal Commissioner gave a directive to the Manager of the Sri Lanka North Regional Transport Board to take action to take immediate action to passengers and passengers buses.
+
+◼️
+
+[Data](articles/29f0eb1c.json)
+
+[Extended Data](ext_articles/29f0eb1c.ext.json)
+
+---
+
+### මෛත්‍රීට අතුරු තහනමක්
+
+*2024-04-04 12:19:48* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීට-අතුරු-තහනමක්/11-408945) · `si`
+
+හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය  ගොනුකළ පැමිණිල්ලකට අදාළව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරයේ කටයුතු කිරීම වළක්වාළමින් කොළඹ මහාධිකරණයෙන් අතුරු තහනම් නියෝගයක් නිකුත් කර ඇත.
+
+◼️
+
+[Data](articles/8dfab0ea.json)
+
+---
+
+### Special Bus Services
 
 *2024-04-04 12:11:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டிகையை-முன்னிட்டு-விசேட-பஸ்-சேவைகள்/175-335606) · `ta`
 
-சிங்கள, தமிழ் புத்தாண்டு பண்டிகையை முன்னிட்டு வௌ்ளிக்கிழமை (05) முதல் விசேட பஸ் சேவை ஆரம்பிக்கப்படவுள்ளதாக இலங்கை போக்குவரத்து சபையின் (லங்காம) பிரதி பொது முகாமையாளர் பண்டுக ஸ்வர்ணஹன்ச தெரிவித்தார்.
+Sri Lanka Transport Board launches special bus service from Wednesday for Sinhala and Tamil New Year, adding 200 buses for Colombo and surrounding areas.
 
-கொழும்பு மற்றும் சுற்றுவட்டாரப் பகுதிகளில் உள்ள மக்கள் ஊர்களுக்கு செல்வதற்காக சுமார் 200 கூடுதல் பஸ்கள்  சேவையில் ஈடுபடுத்தப்படும் என்றும், கொழும்பில் இருந்தும் அதைச் சுற்றியுள்ள பகுதிகளில் இருந்தும் அனைத்து பகுதிகளுக்கும் பேருந்துகள் இயக்கப்படும் என்றும் அவர் தெரிவித்துள்ளார்.
+🟩
+
+The Deputy General Manager of the Sri Lanka Transport Board (Lanka) Panduga Swarnahansa said that a special bus service will be launched from Wednesday (05) to mark the Sinhala and Tamil New Year.
+
+He said about 200 additional buses will be operated to the people of Colombo and surrounding areas and buses will be operated from Colombo and surrounding areas.
 
 ◼️
 
 [Data](articles/e6fcc565.json)
+
+[Extended Data](ext_articles/e6fcc565.ext.json)
 
 ---
 
@@ -87,28 +189,6 @@ Former President Chandrika Bandaranaike Kumaratunga has a complaint with a compl
 [Data](articles/2e04cb77.json)
 
 [Extended Data](ext_articles/2e04cb77.ext.json)
-
----
-
-### Action to eliminate the crisis of Jaffna Central Bus Station
-
-*2024-04-04 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180400) · `ta`
-
-Minister Douglas Devananda visited Jaffna Central Bus Station, observed the situation, and discussed with officials and passengers. He met with departmental officers and police to address the crisis and improve health measures. The Municipal Commissioner directed immediate action for passengers and buses.
-
-🟩
-
-Minister Douglas Devananda has taken steps to eliminate the crisis at the Central Bus Station in Jaffna and improve health measures.
-
-The Minister visited the bus station yesterday (03) and observed the situation in the city and had discussed with the department officials and passengers.
-
-Following this, the night, in his office with the departmental officers and the police in his office. The Municipal Commissioner gave a directive to the Manager of the Sri Lanka North Regional Transport Board to take action to take immediate action to passengers and passengers buses.
-
-◼️
-
-[Data](articles/29f0eb1c.json)
-
-[Extended Data](ext_articles/29f0eb1c.ext.json)
 
 ---
 
@@ -325,6 +405,24 @@ Mohamed Iqbal, who served as a reply, has been ordered to be released on bail an
 [Data](articles/d6b9621d.json)
 
 [Extended Data](ext_articles/d6b9621d.ext.json)
+
+---
+
+### බංකොලොත්වූ රටක දුප්පත්කම අළුත් දෙයක් නොවෙයි
+
+*2024-04-04 11:18:48* · [`adalk`](https://www.ada.lk/breaking_news/බංකොලොත්වූ-රටක-දුප්පත්කම-අළුත්-දෙයක්-නොවෙයි/11-408943) · `si`
+
+රට ගොඩනැගීම වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රමුඛ ආණ්ඩුව විසින් දියත්කර තිබෙන වත්මන් වැඩපිළිවෙල දශමයකින් හෝ වෙනස් කලහොත් රට යළිත් බරපතල අවධානමකට ලක්වන බව ප්‍රවාහන හා මහාමාර්ග සහ ජනමාධ්‍ය අමාත්‍ය බන්දුල ගුණවර්ධන මහතා අවධාරණය කළේය.
+
+මෙරට දුප්පත්කම ඉහළ ගොස් ඇති බවට විවිධ වාර්තා පල වුවත්, ආර්ථික වර්ධනය සෘණ 08ක් වූ සහ මුළුමණින්ම බංකොළොත් භාවයට පත්වූ රටක එය අළුත් දෙයක් නොවන බව පෙන්වා දුන් අමත්‍යවරයා සමෘද්ධිය සඳහා වෙන්කල මුදල මෙන් තුන් ගුණයක මුදලක් වෙන්කර අස්වැසුම වැඩසටහන දියත් කර තිබෙන්නේ එම දුප්පත්කමට ඔරොත්තු දිය හැකි සමාජ ආරක්ෂණයක් ඇති කිරීමට බව ද සඳහන් කළේය.
+
+ප්‍රවාහන හා මහාමාර්ග සහ ජනමාධ්‍ය අමාත්‍ය බන්දුල ගුණවර්ධන මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+මාර්ග සංවර්ධන අධිකාරිය විසින් කොන්ත්‍රාත්කරුවන් වෙනුවෙන් රුපියල් බිලියන 361ක හිඟ බිල්පත් ගෙවා තිබෙන බවත්, ද්වීපාර්ශ්වීය ණය හිමියන් සමඟ ගිවිසුම් අත්සන් කිරීමෙන් පසු තිබෙන සියලූම සංවර්ධන යෝජනා ක්‍රම ආරම්භ කිරීමට හැකි වන බවත් අමාත්‍යවරයා පැවසීය.
+
+...
+
+[Data](articles/b06e5409.json)
 
 ---
 
@@ -2129,119 +2227,5 @@ At the meeting, Senior Prof. Gamini Senanayake, Chairman of the expert committee
 [Data](articles/f12d78a0.json)
 
 [Extended Data](ext_articles/f12d78a0.ext.json)
-
----
-
-### Education Ministry urged to probe alleged financial malpractices at The Royal College Primary
-
-*2024-04-03 23:54:37* · [`dailyftlk`](https://www.ft.lk/opinion/Education-Ministry-urged-to-probe-alleged-financial-malpractices-at-The-Royal-College-Primary/14-760265) · `en`
-
-The dire need to conduct a proper investigation by the Education Ministry on alleged financial malpractices at The Royal College Primary has been raised by vocal and activist old boy Padmasena Dissanayake.
-
-Dissanayake in his submissions to Education Ministry Secretary Wasantha Perera, has alleged violation of the Ministry’s circular on collection of funds from parents using selected parent groups.
-
-“The Royal College Primary, Nation’s premier Primary School, is flouting the Ministry’s clear instructions on refraining collecting funds from parents. It circumvents it by using Parent-Proxies and has been collecting massive amounts, suspected to be over a hundred millions of rupees each year,” Dissanayake has alleged.
-
-...
-
-[Data](articles/86aeaec5.json)
-
-[Extended Data](ext_articles/86aeaec5.ext.json)
-
----
-
-### The Royal College that nurtured me
-
-*2024-04-03 23:49:23* · [`dailyftlk`](https://www.ft.lk/opinion/The-Royal-College-that-nurtured-me/14-760264) · `en`
-
-The author of this letter Lorenz Pereira with Ranil Wickremesinghe during Royal College’s 125th anniversary
-
-I applaud the ex-Principal of Royal College R.M.M. Rathnayake for his subject article (https://island.lk/a-former-royal-college-principal-defends-maintenance-of-secular-values-in-the-school/) that partly contributes to us old Royalists becoming aware of current “happenings” at Royal. I believe that I can confidently assume that Rathnayake is a devout and respected Buddhist and an educationist and Principal par excellence.
-
-As such he has the credentials to be seriously considered. On the other hand, I being so remote from the scene am really not in a position to be ultra-judgemental.
-
-I strongly believe that these issues of concern must be brought to the notice of old Royalists. It is then up to each one of us to make our own judgements and respond accordingly, if need be.
-
-For the continued betterment of Royal, they can no longer be swept under the carpet.
-
-...
-
-[Data](articles/ba6c9330.json)
-
-[Extended Data](ext_articles/ba6c9330.ext.json)
-
----
-
-### 19 Indian fishermen detained in Sri Lanka return home amid row over Katchatheevu Island
-
-*2024-04-03 23:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98407/19-indian-fishermen-detained-in-sri-lanka-return-home-amid-row-over-katchatheevu-island) · `en`
-
-As many as nineteen Indian fishermen who were earlier detained by the Sri Lankan Navy were were repatriated to India on Wednesday after being released by authorities, the Indian High Commission said.
-
-Taking it to X, the Indian High Commission in Sri Lanka said, “Returning home! 19 Indian fishermen have been repatriated from Sri Lanka and are now on their way from Colombo to Chennai.”
-
-This year, the Sri Lankan Navy has so far held twenty-three Indian trawlers and a hundred and seventy-eight Indian fishermen for allegedly fishing in the island nation’s waters.
-
-The fishermen issue is a contentious one in the ties between India and Sri Lanka, with Lankan Navy personnel even firing at Indian fishermen in the Palk Strait and seizing their boats in several alleged incidents of illegally entering Sri Lankan territorial waters.
-
-...
-
-[Data](articles/1dba306a.json)
-
-[Extended Data](ext_articles/1dba306a.ext.json)
-
----
-
-### 19 Indian fishermen detained by SL Navy return home amid row over Katchatheevu Island
-
-*2024-04-03 23:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98407/19-indian-fishermen-detained-by-sl-navy-return-home-amid-row-over-katchatheevu-island) · `en`
-
-As many as nineteen Indian fishermen who were earlier detained by the Sri Lankan Navy were were repatriated to India on Wednesday after being released by authorities, the Indian High Commission said.
-
-Taking it to X, the Indian High Commission in Sri Lanka said, “Returning home! 19 Indian fishermen have been repatriated from Sri Lanka and are now on their way from Colombo to Chennai.”
-
-This year, the Sri Lankan Navy has so far held twenty-three Indian trawlers and a hundred and seventy-eight Indian fishermen for allegedly fishing in the island nation’s waters.
-
-The fishermen issue is a contentious one in the ties between India and Sri Lanka, with Lankan Navy personnel even firing at Indian fishermen in the Palk Strait and seizing their boats in several alleged incidents of illegally entering Sri Lankan territorial waters.
-
-...
-
-[Data](articles/a38d0d64.json)
-
-[Extended Data](ext_articles/a38d0d64.ext.json)
-
----
-
-### School of our fathers
-
-*2024-04-03 23:44:59* · [`dailyftlk`](https://www.ft.lk/opinion/School-of-our-fathers/14-760263) · `en`
-
-Let me commit the Kalama Sutta of the Venerable Buddha to be considered when such controversies arise.
-
-The spirit of the Sutta signifies a teaching that is exempt from fanaticism, bigotry, dogmatism, and intolerance. Any attempt at deviating from the secularism that has been practiced for quite some time at our alma mater would only lead to the downfall of this hallowed institution. Royal is not Ananda nor Nalanda. It is not St. Thomas nor St. Joseph’s. It has always been secular but interested in learning all the religions of the world.
-
-...
-
-[Data](articles/2d4e7582.json)
-
-[Extended Data](ext_articles/2d4e7582.ext.json)
-
----
-
-### New leadership takes the helm at Expolanka
-
-*2024-04-03 23:35:00* · [`islandlk`](http://island.lk/new-leadership-takes-the-helm-at-expolanka/) · `en`
-
-Expolanka Holdings appoints Bokuto Yamauchi, a seasoned industry expert with a wealth of experience in logistics as the Group CEO of Expolanka Holdings and President of EFL Global. Yamauchi’s appointment reflects Expolanka’s commitment to maintaining its position as a market leader, he brings a wealth of experience and expertise to his new role, having spent close to two decades honing his skills in various facets of the logistics business.
-
-As CEO of SG Global Japan, Yamauchi’s strategic vision and dynamic leadership have propelled the company to success.
-
-As the logistics industry continues to evolve rapidly, Expolanka under Yamauchi’s stewardship is primed to address evolving customer needs. The transition marks a continuation of Expolanka’s legacy of excellence and innovation. With a strong foundation built by Yusoof and a visionary leader like Yamauchi at the helm, Expolanka is poised to write the next chapter in its storied history.
-
-...
-
-[Data](articles/ee26b72c.json)
-
-[Extended Data](ext_articles/ee26b72c.ext.json)
 
 ---

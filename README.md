@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 06:55:31**
+As of **2024-04-04 07:17:06**
 
 ## Newspaper Stats
 
-*Scraped **17,008** Articles*
+*Scraped **17,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,153 @@ dailyftlk | 929
 economynextcom | 942
 islandlk | 943
 adalk | 1,430
-tamilmirrorlk | 2,018
+tamilmirrorlk | 2,021
 adaderanalk | 2,037
 virakesarilk | 2,457
-dailymirrorlk | 2,613
-adaderanasinhalalk | 2,742
+dailymirrorlk | 2,618
+adaderanasinhalalk | 2,743
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,997 (99.9%) of 17,008 articles have been extended.
+17,006 (99.9%) of 17,017 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### புத்தாண்டு காலத்தில் விசேட ரயில் சேவைகள்
+
+*2024-04-04 06:58:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டு-காலத்தில்-விசேட-ரயில்-சேவைகள்/175-335580) · `ta`
+
+எதிர்வரும் தமிழ் - சிங்கள சித்திரைப் புத்தாண்டை முன்னிட்டு விசேட ரயில் சேவைகள் முன்னெடுக்கப்படவுள்ளன என ரயில்வே திணைக்களம்  தெரிவித்துள்ளது.
+
+இதற்கமைய, எதிர்வரும் 10 ஆம் திகதி முதல் 15 ஆம் திகதி வரை விசேட ரயில் சேவைகள் முன்னெடுக்கப்படவுள்ளன என குறிப்பிடப்பட்டுள்ளது.
+
+கொழும்பிலிருந்து காலி, பெலியத்த, கண்டி, மாத்தறை, ஹட்டன் மற்றும் பதுளை ஆகிய பகுதிகளுக்கு விசேட ரயில் சேவைகள் முன்னெடுக்கப்படவுள்ளன என ரயில்வே திணைக்களம் அறிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/a932489d.json)
+
+---
+
+### Taylor Swift joins world’s richest on billionaire list
+
+*2024-04-04 06:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Taylor-Swift-joins-worlds-richest-on-billionaire-list/108-280149) · `en`
+
+BBC - Taylor Swift has joined Elon Musk as ranking among the world's wealthiest people, according to a new rich list.
+
+The American pop star entered the Forbes World's Billionaires List for the first time with $1.1bn (£877m), along with Sam Altman, creator of the AI chatbot ChatGPT on $1bn (£800m).
+
+LVMH French luxury goods titan Bernard Arnault and his family topped the chart with an estimated $233bn (£185bn).
+
+Forbes said there were a record 2,781 billionaires for 2024.
+
+The figure is 141 more than last year and 26 more than the previous record set in 2021. Forbes added the elite were richer than ever - with a collective wealth of $14.2tn (£11.3tn).
+
+Singer-songwriter Swift entered the rich list after achieving megastar status. She stole the show at this year's Grammy Awards, becoming the first performer to win the prize for album of the year four times.
+
+Her album 1989 (Taylor's Version) was also the best-selling vinyl LP of last year.
+
+...
+
+[Data](articles/b5326fa4.json)
+
+---
+
+### බස්නාහිර ඇතුළු පළාත් කිහිපයකට තද වැසි
+
+*2024-04-04 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195272) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ දකුණු පළාත්වල ප.ව. 2න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, ඌව පළාතේ සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වල ඇතැම් ස්ථාන වලට මි. මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකිය.
+
+බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/509514bd.json)
+
+---
+
+### ’பகிரங்க விவாதத்துக்குத் தயார்’
+
+*2024-04-04 06:27:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பகிரங்க-விவாதத்துக்குத்-தயார்/175-335579) · `ta`
+
+இலங்கை எதிர்நோக்கும் பல்வேறு பிரச்சினைகள் தொடர்பில், எந்தவொரு அரசியல் கட்சியுடனும் பகிரங்க விவாதத்துக்குத் தயார் என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பிரபஞ்சம் தகவல் தொழில்நுட்ப வேலைத்திட்டத்தின் கீழ், 140 ஆவது கட்டமாக 10 இலட்சம் ரூபா பெறுமதியான ஸ்மார்ட் வகுப்பறை உபகரணங்கள், முல்லைத்தீவு, முத்தையன்கட்டு, இடதுகரை தமிழ்க் கலவன் பாடசாலைக்கு வழங்கி வைக்கும் நிகழ்வு நேற்று நடைபெற்றது. அதில் எதிர்க்கட்சித் தலைவர் கலந்துகொண்டு உரையாற்றும்போதே இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+
+நாட்டின் பிரச்சினைகள் குறித்து விவாதம் தேவை என தற்போது சமூகத்தில் பேசப்படுகின்றது. இத்தகையதொரு விவாதம் நடக்க வேண்டும் என்பதை நாமும் ஏற்றுக்கொள்கின்றோம்.
+
+விவாதங்களை நடத்துவது ஜனநாயக சமூகத்தின் உயர் பண்பு என்பதால் பொருளாதாரம், சமூகம், அரசியல், சர்வதேசம் என எந்தவொரு தலைப்பிலும் விவாதத்தில் ஈடுபட நாம் தயாராக இருகின்றோம்.
+
+...
+
+[Data](articles/856a1b83.json)
+
+---
+
+### ’ஆசிரியர் வெற்றிடங்களை நிரப்ப நடவடிக்கை’
+
+*2024-04-04 06:20:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-வெற்றிடங்களை-நிரப்ப-நடவடிக்கை/175-335578) · `ta`
+
+மூன்று வருடங்களின் பின்னர் 2024 ஆம் ஆண்டில் 4000 பேருக்கு ஆசிரியர் நியமனம் வழங்க அரசாங்கம் நடவடிக்கை எடுத்துள்ளது. நாட்டின் பொருளாதாரம் மேலும் வலுவடையும் பட்சத்தில், அடுத்த வருடமும் ஆசிரியர் வெற்றிடங்களை நிரப்புவதற்கு மேலதிக நிதி ஒதுக்கப்படுமென ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+அலரி மாளிகையில் நேற்று பிற்பகல் இடம்பெற்ற மேல் மாகாண பட்டதாரி ஆசிரியர் நியமனம் வழங்கும் நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+
+இன்று 2300 ஆசிரியர்களுக்கு நியமனம் வழங்கப்படுகிறது. மேலும் 700 நியமனங்கள் வழங்கப்பட உள்ளன. வெற்றிடங்களுக்கு ஏற்ப மேலும் 1000 ஆசிரியர்களை நியமிக்க திட்டமிடப்பட்டுள்ளது. அதற்கமைய இந்த வருடத்தில் சுமார் 4000 ஆசிரியர்கள் நியமிக்கப்படுவர். மூன்று அல்லது நான்கு ஆண்டுகளுக்குப் பின்னரே இந்த நியமனங்களை வழங்க முடிந்துள்ளது. பொருளாதார வீழ்ச்சி மற்றும் கோவிட் தொற்றுநோய் காரணமாக இந்த நியமனங்கள் அனைத்தும் நிறுத்தப்பட்டிருந்தன.
+
+...
+
+[Data](articles/2a286939.json)
+
+---
+
+### Attempt to dissolve Parliament for snap General Election fails
+
+*2024-04-04 06:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Attempt-to-dissolve-Parliament-for-snap-General-Election-fails/155-280148) · `en`
+
+Colombo, April 3 (Daily Mirror) - The attempt by some MPs to dissolve Parliament by passing a resolution has proven to be a futile exercise as the required number of 113 MPs cannot be mustered, a parliamentarian who wished to remain anonymous said.
+
+Previously, SLPP stalwart Basil Rajapaksa, in his meeting with President Ranil Wickremesinghe, asked for the dissolution of Parliament to declare a snap General Election ahead of the Presidential Election which is constitutionally scheduled for October, this year.
+
+Later, Daily Mirror exclusively reported that the President will not go for a parliamentary election before the presidential election. Against the backdrop, some MPs loyal to Mr. Rajapaksa, gave mind to pass a resolution in Parliament calling for the dissolution of the House to go for a snap general election.
+
+However, the attempt has been unsuccessful because most MPs are not ready for an early general election.
+
+...
+
+[Data](articles/0c063d48.json)
+
+---
+
+### Central Bank issues guidelines to establish Business Revival Units
+
+*2024-04-04 06:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-issues-guidelines-to-establish-Business-Revival-Units/108-280146) · `en`
+
+Urges licensed banks and concerning borrowers to effectively collaborate to ensure viable businesses are revived in a sustainable manner
+
+Asserts setting up of BRUs is considered imperative to assist both performing and non-performing borrowers
+
+Sri Lanka will likely see fewer businesses collapse from the challenging macroeconomic circumstances, as the financial sector regulator, the Central Bank, instructed the licensed banks to further strengthen the already established revival units.
+
+The Central Bank directed the licensed banks to establish the Business Revival Units (BRUs) by mid-May 2024 and be fully compliant with the requirements of the circular by July 01, 2024.
+
+On March 28, the Central Bank issued broad guidelines to the banks to firm up the functions of already established post-COVID-19 revival units and reformulate such units as BRUs.
+
+...
+
+[Data](articles/72e36c57.json)
+
+---
 
 ### Gammanpila warns against holding both elections on same day
 
@@ -187,6 +319,8 @@ Brandix Group CEO Ashraf Omar, MAS Holdings Co-Founder and Chairman Deshamanya M
 ...
 
 [Data](articles/4e2b9d03.json)
+
+[Extended Data](ext_articles/4e2b9d03.ext.json)
 
 ---
 
@@ -372,6 +506,22 @@ The New Chairperson and Commissioners of the Sri Lanka Human Rights Commission t
 
 ---
 
+### Tourist arrivals surpass 200,000 mark but miss monthly target
+
+*2024-04-04 03:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-arrivals-surpass-200-000-mark-but-miss-monthly-target/108-280143) · `en`
+
+Sri Lanka crossed the 200,000 tourist arrival mark for four consecutive months from December 2023, through March 2024, affirming good times are back for the once hard-hit industry that almost came to a standstill.
+
+Although the monthly tourist arrival rates have almost doubled from what was witnessed in 2023, the monthly arrival targets have not been met as yet this year, both in the upper-case scenario and lower-case scenario.
+
+In the month of January, the lower-case scenario target was missed by 7 percent, whereas the uppercase-scenario target was missed by 14 percent.
+
+...
+
+[Data](articles/f8848bf1.json)
+
+---
+
 ### They do not have the authority to advise the government on security issues- the Human Rights Commission
 
 *2024-04-04 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/180373) · `ta`
@@ -465,6 +615,24 @@ The IMF’s explanation of Sri Lanka’s recent foreign exchange crisis is fisca
 [Data](articles/f8b69545.json)
 
 [Extended Data](ext_articles/f8b69545.ext.json)
+
+---
+
+### Sustainability neglect may stunt tourism growth in  Sri Lanka: Intrepid Travel Chief
+
+*2024-04-04 01:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sustainability-neglect-may-stunt-tourism-growth-in-Sri-Lanka-Intrepid-Travel-Chief/108-280145) · `en`
+
+A global leader in responsible tourism raised concerns on lack of focus on sustainability in the tourism sector, which in turn could impede the current growth momentum in the medium term.
+
+Intrepid Travel Chairman and Co-Founder Darrell Wade, who was recently in Sri Lanka, said the current status of the tourism industry, in terms of sustainability, is worrisome, primarily because of the drive for growth.
+
+“We understand that it’s good for the economy, jobs, balance of payments, all sort of things. But if the growth is too fast and doesn’t factor sustainability, then that’s a major problem. We haven’t seen enough attention on sustainability (in Sri Lanka),” Wade told Mirror Business during his recent visit to Sri Lanka.
+
+Although Sri Lanka may sustain the current growth momentum for the next two to three years, he expressed concern that it would not be sustainable beyond four to six years, if sustainability is not factored into the tourism strategy now.
+
+...
+
+[Data](articles/8940a0f5.json)
 
 ---
 
@@ -804,6 +972,8 @@ As the logistics industry continues to evolve rapidly, Expolanka under Yamauchi�
 
 [Data](articles/ee26b72c.json)
 
+[Extended Data](ext_articles/ee26b72c.ext.json)
+
 ---
 
 ### SEC and CSE successfully conduct investor forum in Nuwara Eliya, raising awareness on the investment opportunities in stock market
@@ -819,6 +989,8 @@ The forum consisted of two sessions which was in Tamil and Sinhala medium in ord
 ...
 
 [Data](articles/7f7fca92.json)
+
+[Extended Data](ext_articles/7f7fca92.ext.json)
 
 ---
 
@@ -837,6 +1009,8 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/25f25348.json)
+
+[Extended Data](ext_articles/25f25348.ext.json)
 
 ---
 
@@ -858,6 +1032,8 @@ ComBank engages with female staff countrywide at Women’s Day event
 
 [Data](articles/3799836e.json)
 
+[Extended Data](ext_articles/3799836e.ext.json)
+
 ---
 
 ### Banking sector transactions trigger bullish spurt in stock market
@@ -871,6 +1047,8 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 ...
 
 [Data](articles/9d00a231.json)
+
+[Extended Data](ext_articles/9d00a231.ext.json)
 
 ---
 
@@ -2017,203 +2195,5 @@ Students of Moratuwa University had reportedly staged the protest march over the
 [Data](articles/e8804adf.json)
 
 [Extended Data](ext_articles/e8804adf.ext.json)
-
----
-
-### Three ex-convicts in Rajiv Gandhi assassination case return to Sri Lanka
-
-*2024-04-03 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98401/three-ex-convicts-in-rajiv-gandhi-assassination-case-return-to-sri-lanka) · `en`
-
-Three Sri Lankans, who were convicted in the assassination of former Indian Prime Minister Rajiv Gandhi in 1991 and prematurely freed from prison, returned to the island on Wednesday (03).
-
-According to Ada Derana correspondent, the trio – Murugan (53), Robert Payas (53) and Jayakumar (62) – reached the Bandaranaike International Airport (BIA) in Katunayake on Wednesday afternoon after departing Chennai, India around 11.30 IST.
-
-They were among six freed in November 2022 by the Indian Supreme Court, which had said they showed “satisfactory behaviour” while in jail and also noted the Tamil Nadu government had recommended their release.
-
-Upon their release from jail, the three men were escorted from a special camp in Tiruchirappalli, where they had been detained, to the Chennai International Airport by a team of police officers in the morning. They had recently been granted passports by Sri Lanka to facilitate their return.
-
-...
-
-[Data](articles/0cce2031.json)
-
-[Extended Data](ext_articles/0cce2031.ext.json)
-
----
-
-### Overseas travel ban lifted on Pastor Jerome
-
-*2024-04-03 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98400/overseas-travel-ban-lifted-on-pastor-jerome) · `en`
-
-The overseas travel ban imposed on Pastor Jerome Fernando has been temporarily lifted by the court.
-
-The order was issued when the case filed against Fernando was taken up before the Colombo Fort Magistrate’s Court today (03).
-
-A request had been made to the court stating that the defendant is required to travel to several foreign countries and after taking the facts presented in this regard into consideration, the court has temporarily lifted the foreign travel ban subject to previous bail conditions.
-
-The court had previously imposed an overseas travel ban on Pastor Jerome Fernando in connection with the case filed against him for allegedly making derogatory statements about other religions in May last year.
-
-...
-
-[Data](articles/f4988754.json)
-
-[Extended Data](ext_articles/f4988754.ext.json)
-
----
-
-### Sri Lanka’s Anura Dissanayake ready to debate opposition leader Premadasa
-
-*2024-04-03 16:55:00* · [`economynextcom`](https://economynext.com/sri-lankas-anura-dissanayake-ready-to-debate-opposition-leader-premadasa-157363/) · `en`
-
-ECONOMYNEXT — The Samagi Jana Balawegaya (SJB) and the leftist National People’s Power (NPP), parties led by Sri Lanka’s top two opposition contenders for the presidency, have challenged each other for a televised election debate.
-
-SJB member Chandima Weerakkody told reporters that the NPP should take up the challenge.
-
-“We have our economic team. The JVP says they have their own team headed by Sunil Handunneththi, who is said to be their finance minister. Come to a debate, and allow to be questioned before the people,” the MP said.
-
-Handunneththi, who heads the NPP’s economic council, said the party is happy to debate, but on the condition that SJB leader and opposition leader Sajith Premadasa debates NPP leader Anura Kumara Dissananayake.
-
-...
-
-[Data](articles/6ae2c2bd.json)
-
-[Extended Data](ext_articles/6ae2c2bd.ext.json)
-
----
-
-### Police and tear gas attack by police
-
-*2024-04-03 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195262) · `si`
-
-Police used tear gas near the University of Sri Jayewardenepura to disperse students.
-
-🟩
-
-The police were nearing water and tear gas near the University of Sri Jayewardenepura to dissolve university students.
-
-◼️
-
-[Data](articles/3d7aaf64.json)
-
-[Extended Data](ext_articles/3d7aaf64.ext.json)
-
----
-
-### Abuse on the girl;Arrests escape
-
-*2024-04-03 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180358) · `ta`
-
-A 9-year-old girl in Mannar was arrested for alleged sexual abuse. A 55-year-old man, suspected of abusing the girl, was also arrested and is missing after escaping from Vavuniya Hospital.
-
-🟩
-
-A 9 -year -old girl in Mannar has been arrested for allegedly sexually abusing a Vavuniya hospital.
-
-A 55 -year -old man was arrested on suspicion of sexually abusing a 9 -year -old girl in Mannar, Talaimannar area and detained at a court order.
-
-The suspect has fled the hospital on Wednesday morning (03) after being admitted to the Vavuniya Hospital last Thursday.Prisoners and police are involved in the search for him.
-
-◼️
-
-[Data](articles/8fda4cea.json)
-
-[Extended Data](ext_articles/8fda4cea.ext.json)
-
----
-
-### Case against 6 trade centers in Kaluwanchikudi
-
-*2024-04-03 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/180351) · `ta`
-
-Kaluwanchikudi Public Market and trade centers in Batticaloa face legal action due to health inspectors seizing outdated items.
-
-🟩
-
-The Kaluwanchikudi Public Market and several surrounding trade centers have been carried out by the Kaluwanchikudi Divisional Health Inspectors in Batticaloa, Batticaloa.
-
-The Kaluwanchikudi Public Health Inspectors have seized a number of outposting and outdated items in various trade centers and a case has been filed against about six business centers, Health Inspector S. Ilangovan said.
-
-◼️
-
-[Data](articles/db181060.json)
-
-[Extended Data](ext_articles/db181060.ext.json)
-
----
-
-### Sri Lanka stocks close up, interest in bluechips, banks
-
-*2024-04-03 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-interest-in-bluechips-banks-157398/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader All Share Index closed up 0.67 percent, or 77.01 points, at 11,624; while the S&P SL20 Index closed up 1.64 percent, or 54.81 points, at 3,404.
-
-“The bullishness in the market is continuing, with a lot of interest coming into the bluechips,” market participants said. “Most interest is coming from corporate and high-net worth sections.”
-
-“There was new interest Hayleys Plc, while interest in John Keells Holdings Plc has always been there.”
-
-Hayleys Plc closed up at 86.00. Subsidiaries Hayleys Fabric Plc closed down at 41.50, as did Haycarb Plc, which was down at 75.70.
-
-Hayleys Fibre Plc closed up at 53.50, as did Hayleys Leisure Plc which closed up at 21.00.
-
-Hayleys Plc saw the most active volumes traded (amounting to Rs228mn), with several crossings taking place.
-
-“There’s also a lot of buying interest coming into banks, there’s a run there.”
-
-...
-
-[Data](articles/5aed7d0a.json)
-
-[Extended Data](ext_articles/5aed7d0a.ext.json)
-
----
-
-### I'm ready for the debate - Sajith
-
-*2024-04-03 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195261) · `si`
-
-Sajith Premadasa, Opposition Leader, is ready for any debate, emphasizing the importance of debate in a democratic society, and advocating for thoughtful discussion on national issues.
-
-🟩
-
-Opposition Leader Sajith Premadasa said he is ready for any form of debate, "he said.
-
-Sajith Premadasa made this observation at a ceremony of a new classroom at Mullaitivu today under the 14th phase of the Sakwala Key Teaching Program.
-
-Sajith Premadasa added that it is a talk that requires a debate on the country's problems.
-
-Opposition Leader Sajith Premadasa says he is ready to any debate as debate is a high quality of a democratic society.
-
-The Opposition Leader also said that the arguments should be deferred as well as the country and the people should accumulate.
-
-◼️
-
-[Data](articles/c881b768.json)
-
-[Extended Data](ext_articles/c881b768.ext.json)
-
----
-
-### The criminals of Rajiv Gandhi's murder
-
-*2024-04-03 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195260) · `si`
-
-Rajiv Gandhi's murderers, three Sri Lankans, were deported to Sri Lanka after being released from Indian custody in 2022.
-
-🟩
-
-Former Indian Prime Minister Rajiv Gandhi, the three Sri Lankans who were found were deported to Sri Lanka.
-
-According to Indian media reports, they have left the Srinenai airport this morning (03).
-
-Muradan, Robert and Jayakumar were released from the victims of 2022 in the year 2022.
-
-It is reported that they have been sent to Sri Lanka after considering a demand for a special camp in Tiruchi.
-
-◼️
-
-[Data](articles/523cd679.json)
-
-[Extended Data](ext_articles/523cd679.ext.json)
 
 ---

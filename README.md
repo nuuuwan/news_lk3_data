@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 13:03:17**
+As of **2024-04-04 13:18:17**
 
 ## Newspaper Stats
 
-*Scraped **17,086** Articles*
+*Scraped **17,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,147 @@ dailyftlk | 929
 islandlk | 943
 economynextcom | 944
 adalk | 1,440
-tamilmirrorlk | 2,030
-adaderanalk | 2,045
+tamilmirrorlk | 2,031
+adaderanalk | 2,048
 virakesarilk | 2,475
-dailymirrorlk | 2,626
-adaderanasinhalalk | 2,755
+dailymirrorlk | 2,627
+adaderanasinhalalk | 2,756
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,083 (100.0%) of 17,086 articles have been extended.
+17,086 (100.0%) of 17,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### மைத்திரி சு.க வின் தலைவராக செயற்பட தடை
+### අවුරුදු සමයේදී අත්‍යවශ්‍ය සේවා අඛණ්ඩව සපයන්නැයි ජනපතිගෙන් උපදෙස්
 
-*2024-04-04 12:50:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-சு-க-வின்-தலைவராக-செயற்பட-தடை/175-335608) · `ta`
+*2024-04-04 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195287) · `si`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன செயற்படுவதற்கு கொழும்பு மாவட்ட நீதிமன்றம் இன்று தடை உத்தரவு பிறப்பித்துள்ளது.
+ඉදිරියේදී එන අවුරුදු නිවාඩු සමයේදී ජනතාවට අවශ්‍ය අත්‍යවශ්‍ය සේවා කිසිඳු අඩුපාඩුවකින් තොරව රට තුළ පවත්වාගෙන යෑමට අවශ්‍ය පියවර ගන්නා ලෙස ජනාධිපතිවරයා උපදෙස් ලබාදී තිබේ.
+
+ඊට අදාළ රජයේ නිලධාරීන්ට සහ අමාත්‍යාංශ වෙත ජනාධිපතිවරයා මෙලෙස උපදෙස් දී ඇති බව සඳහන්ය.
+
+◼️
+
+[Data](articles/91521314.json)
+
+---
+
+### M.G. Weerasena to fill vacancy created by K.H. Nandasena’s death
+
+*2024-04-04 12:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/M-G-Weerasena-to-fill-vacancy-created-by-K-H-Nandasenas-death/108-280183) · `en`
+
+Colombo, April 4 (Daily Mirror)- M.G. Weerasena is to fill the vacancy created by the death of Anuradhapura District SLPP MP K.H. Nandasena.
+
+M.G. Weerasena is next in line on the SLPP list for the Anuradhapura District.
+
+◼️
+
+[Data](articles/7fc114fd.json)
+
+---
+
+### மைத்திரிக்கு இடைக்கால தடையுத்தரவு
+
+*2024-04-04 12:50:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-இடைக்கால-தடையுத்தரவு/175-335608) · `ta`
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன ஸ்ரீலங்கா சுதந்திரக் கட்சியின் (SLFP) தலைவராக செயற்படுவதற்கு கொழும்பு மாவட்ட நீதிமன்றம் வியாழக்கிழமை (04) தடை உத்தரவு பிறப்பித்துள்ளது.
 
 முன்னாள் ஜனாதிபதி சந்திரிக்கா குமாரதுங்கவினால் தாக்கல் செய்யப்பட்ட வழக்கிற்கு அமைய கொழும்பு மாவட்ட நீதிமன்ற நீதிபதி சந்துன் விதான இந்த உத்தரவை பிறப்பித்துள்ளார்.
 
 ◼️
 
-[Data](articles/528c3491.json)
+[Data](articles/46240e4d.json)
 
 ---
 
-### දමිතා අධිකරණයට භාරවෙයි
+### The President of the Maithri SK
+
+*2024-04-04 12:50:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-சு-க-வின்-தலைவராக-செயற்பட-தடை/175-335608) · `ta`
+
+Maithripala Sirisena, former President, has been ordered by Colombo District Court Judge Chandun Vidhan to lead the Sri Lanka Freedom Party (SLFP), following a case filed by Chandrika Kumaratunga.
+
+🟩
+
+Former President Maithripala Sirisena today issued an injunction order to act as the leader of the Sri Lanka Freedom Party (SLFP).
+
+Colombo District Court Judge Chandun Vidhan has issued the order in accordance with the case filed by former President Chandrika Kumaratunga.
+
+◼️
+
+[Data](articles/528c3491.json)
+
+[Extended Data](ext_articles/528c3491.ext.json)
+
+---
+
+### Damitha surrenders to court
 
 *2024-04-04 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195286) · `si`
 
-මුදල් වංචාවකට අදාළව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සොයමින් සිටි ප්‍රවීණ රංගන ශිල්පිනී දමිතා අබේරත්න සහ ඇයගේ සැමියා අද (04) කොටුව මහෙස්ත්‍රාත් අධිකරණයට පැමිණ තිබුණි.
+Veteran actress Damitha Abeyratne surrenders to court, facing allegations of cheating.
 
-"මම හැංගුනේ නැහැ. මේ රටේ හැංගෙන්න පුළුවන් චරිතයක් නෙමෙයි මේ දමිතා. දමිතා කියන්නේ 69 ලක්ෂයක් ඡන්දෙ ගත්තු ඒ කාලකන්නි ක්‍රමයට එරෙහිව අරගල කරපු ගැහැණියක්. මම අද අධිකරණයට භාර වෙනවා. ඔය පොහොට්ටුව ඇතුළු දේශබන්දු මේ සිඟිති ආතල් එක ගන්න. මමත් අවුරුදු සමරනවා හිරගෙදර. "
+🟩
 
-කොරියාවට යවන බව පවසා රුපියල් ලක්ෂ 30ක මුදලක් වංචා කළ බවට පරිගණක අපරාධ කොට්ඨාසය විසින් ප්‍රවීණ රංගන ශිල්පිනී දමිතා අබේරත්න මහත්මිය සහ ඇයගේ සැමියාට එරෙහිව විමර්ශන ආරම්භ කර තිබුණි.
+Veteran actress Damitha Abeyratne and her husband had arrived at the Fort Magistrate's Court today (04).
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කොටුව මහෙස්ත්‍රාත් අධිකරණයට දැනුම්දී තිබුණේ දමිතා අබේරත්න සහ ඇයගේ සැමියා සැකකරුවන් ලෙස නම් කරන බවය.
+"I don't feel. This is not a character that can hide in this country. Damitha is a woman who struggled against the time of the time. I surrender to court today. Deshabandu, including that point, take this thumbge. I celebrates the years. "
 
-ඒ අනුව ඔවුන් අත්අඩංගුවට ගැනීම වළක්වාලන ලෙස ඉල්ලමින් රිට් පෙත්සමක් ඉදිරිපත් කෙරුණද එය පසුගියදා ප්‍රතික්ෂේප කෙරුණි.
+The Computer Criminal Division Damitha Abeyratne had begun investigations into the cheating of Rs.
 
-මේ අතර දමිතා අබේරත්න මහත්මියට සහ ඇයගේ සැමියාට විදෙස් ගතවීම තහනම් කරමින් කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා ඊයේ  (03) නියෝගයක් ද නිකුත් කළේය.
+The Criminal Investigation Department informed the Fort Magistrate's Court that Damitha Abeyratne and her husband were named as suspects.
+
+Accordingly, a Rit petition was presented to prevent them from being arrested.
+
+Meanwhile, Fort Magistrate Thilina Gamage issued an order yesterday (03), banning Damitha Abeyratne and her husband.
 
 ◼️
 
 [Data](articles/6dbf093d.json)
+
+[Extended Data](ext_articles/6dbf093d.ext.json)
+
+---
+
+### No decision to suspend excise license issuance - Siyambalapitiya
+
+*2024-04-04 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98418/no-decision-to-suspend-excise-license-issuance-siyambalapitiya) · `en`
+
+Issuance of excise licenses has not been suspended, State Minister of Finance Ranjith Siyambalapitiya has asserted.
+
+He pointed out that the relevant authorities have been instructed to carry out the excise licenses issuance activities under a proper procedure.
+
+In response to the recent reports claiming that issuing excise license has been halted, the State Minister mentioned that the relevant licenses are issued only in compliance with the rules and regulations accepted by the Parliament, after considering the call for objections and objections from the local residents.
+
+“The court has specifically said that licenses should be issued only on based on the rules and regulations approved by the Parliament. It is not a suspension of excise licenses. It is a very good decision. We are already following it.”
+
+◼️
+
+[Data](articles/fd0d3afd.json)
+
+---
+
+### Taiwan earthquake injuries top 1,000, hotel workers still missing
+
+*2024-04-04 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98417/taiwan-earthquake-injuries-top-1000-hotel-workers-still-missing) · `en`
+
+The number of people injured in a 7.2 magnitude earthquake in eastern Taiwan climbed past 1,000 on Thursday though the death toll remained steady at nine, with 38 workers on their way to a hotel in a national park still missing and others now found.
+
+The temblor, the strongest in 25 years, hit on Wednesday morning just as people were readying to go to work and school, centred on the largely rural and sparsely populated eastern county of Hualien.
+
+Buildings also shook violently in capital Taipei, but damage and disruption there was minimal.
+
+Taiwan’s fire department said the number of injuries had reached 1,038, putting the total number of missing at 52. Around a dozen of the hotel workers on their way to a resort in Taroko National Park had been located, with 38 still listed as missing.
+
+The fire department said its rescue work was focused on people trapped on the cross-island highway, which traverses the gorge connecting Hualien with Taiwan’s west coast and is a popular tourist destination.
+
+...
+
+[Data](articles/9f5a8fde.json)
 
 ---
 
@@ -215,6 +307,20 @@ He said about 200 additional buses will be operated to the people of Colombo and
 [Data](articles/e6fcc565.json)
 
 [Extended Data](ext_articles/e6fcc565.ext.json)
+
+---
+
+### Interim injunction issued preventing Maithripala from functioning as SLFP chairman
+
+*2024-04-04 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98416/interim-injunction-issued-preventing-maithripala-from-functioning-asslfpchairman) · `en`
+
+Colombo District Court on Thursday (04) issued an interim injunction preventing former President Maithripala Sirisena from functioning as the chairman of the Sri Lanka Freedom Party (SLFP).
+
+The order was delivered following a complaint filed by former President Chandrika Bandaranaike Kumaratunga.
+
+◼️
+
+[Data](articles/5d685e62.json)
 
 ---
 
@@ -450,21 +556,27 @@ That is the train with special viewing facilities called "Calypso" without round
 
 ---
 
-### ඩුබායිහි සේවය කළ ආරච්චිකට්ටුවේ පුද්ගලයින් දෙදෙනෙකු එකම දිනයකදි හෘදයාබාධවලින් ජීවිතක්ෂයට
+### Two suspects in Dubai killed in heart attacks on the same day
 
 *2024-04-04 11:26:36* · [`adalk`](https://www.ada.lk/breaking_news/ඩුබායිහි-සේවය-කළ-ආරච්චිකට්ටුවේ-පුද්ගලයින්-දෙදෙනෙකු-එකම-දිනයකදි-හෘදයාබාධවලින්-ජීවිතක්ෂයට/11-408944) · `si`
 
-ආරච්චිකට්ටුව පොලිස් වසමට අයත්  ප්‍රදේශ දෙකක ඩුබායි රටේ සේවය කළ පුද්ගලයින් දෙදෙනෙකු ඉකුත් මාරතු 30දා  එකවර මරණයට පත්ව ඇතිබවට තොරතුරු ලැබී ඇතිබව ආරච්චිකට්ටුව පොලීසිය පවසයි.
+Two individuals in Dubai, Arachchikattuwa Kirikalcalketa M. G. and Ataanvilwatta, a 42-year-old father of two, died of heart attacks. They were residents of Kurunegala, working in Dubai for four years. Their sudden deaths have sparked an investigation by the Sri Lankan government.
 
-මෙසේ මරණයට පත්ව ඇත්තේ ආරච්චිකට්ටුව නල්ලදරන්කට්ටුව කිරිවැල්කැළේ එස්. එම්. ජී. වත්ත පදිංචි පී. එම්. සඳුන් මධුසංක නැමති  28 හැවිරිදි අවිවාහක තරුණයෙකු සහ ආරච්චිකට්ටුව ඇන්ටන්විල්වත්ත අංක 343 පදිංචි මොහන්දිරම්ලාගේ රමේෂ් උදාර තිළිණ නැමති 42 හැවරිදි දෙදරු පියෙකි.
+🟩
 
-මෙම පුද්ගලයින් මීට  වසර හතරකට සහ දෙකකට පෙර කුරුණෑගල ප්‍ර දේශයේ ප්‍රසිද්ධ ඒජන්සියකින් ඩුබායි රටේ රැකියාවකට ගොස් ඇති බව ඥාතීන් පවසයි.  මෙම පුද්ගලයින් සෑම දිනකම සිය ඥාතීන් සමග දුරකථන මාරගයෙන් සම්බන්ධතා පවත්වාගන ගොස් ඇතිබවත්  මරණයට පත්වීමට දින කීපයකට පෙර තමන් අසනීප තත්වයකින් පසුවන බව මෙරට වාසය කරන සිය ඥාතීන් සමග පවසා ඇත.
+Two persons who served in Dubai in two areas of the Arachchikattuwa Police Division were killed on the 30th of the night.
 
-අනතුරුව රෝගී තත්වය උත්සන්න වීමෙන් එරට රෝහලට ඇතුලත් කීරීමෙන් අනතුරුව මරණයට පත්ව ඇතිබව එරට රෝහල් ආරංචි මාරග පවසයි. ඥාතීන් පවසන්නේ මෙම මරණ සමබන්ධයෙන් ශ්‍රී ලංකා රජය මැදිහත්ව මෙරටට මෘත ශරීර ගෙන්වා විධිමත් සාධාරණ පරීක්ෂණයක් පවත්වා මරණවලට හේතු සොයා දෙන ලෙසයි.
+The deceased has been identified as Arachchikattuwa Kirikalcalketa. M. G. A resident of the garden. M. Sandun Madusanki, a 28 year old unmarried youth and Ataanvilwatta, a 343 resident of 343, a 42-year-old father of two.
+
+Relatives say that these people have gone to work in Dubai from a public agency in Kurunegala, four years ago.These people have been kept in connection with their relatives with their relatives and have been involved with their relatives, but they have been in a sick situation a few days ago.
+
+Hanguage sources say that the patient was taken up at the hospital hospital, said he had died after being taken to the hospital hospital.. Relatives say that the Sri Lankan government intervenes in the deaths and bring a properly fair investigation into and find out the reasons for death.
 
 ...
 
 [Data](articles/8a8c6a7c.json)
+
+[Extended Data](ext_articles/8a8c6a7c.ext.json)
 
 ---
 
@@ -796,7 +908,7 @@ He said that they targeted us in the War Sun area. The area was found under the 
 
 President Ranil Wickremesinghe on Wednesday (03) reaffirmed the government’s commitment to facilitating economic growth and providing financial resources for essential public services.
 
-Addressing a ceremony held at the Temple Trees to award appointment letters to graduate teachers in the Western Province, the Head of State spoke of the positive economic trajectory that Sri Lanka has achieved through prudent fiscal management by the government.
+Addressing a ceremony held at the Temple Trees to award appointment letters to 2,320 graduate teachers in the Western Province, the Head of State spoke of the positive economic trajectory that Sri Lanka has achieved through prudent fiscal management by the government.
 
 Despite a previous period of economic decline, the Sri Lankan economy has witnessed a strengthening, leading to the appreciation of the rupee against the dollar, Wickremesinghe highlighted.
 
@@ -2119,143 +2231,5 @@ The Minister also said that the contractors had completed 361 billion rupees in 
 [Data](articles/6fd6c66b.json)
 
 [Extended Data](ext_articles/6fd6c66b.ext.json)
-
----
-
-### Writing a letter
-
-*2024-04-04 00:53:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடிதம்-எழுதி-வைத்துவிட்டு-யுவதி-எடுத்த-விபரீத-முடிவு/175-335577) · `ta`
-
-The body of 18-year-old Sudarshika from Udappusallawa was found by police on Wednesday. She had been missing for two days. The police, along with the Nuwara Eliya Crime Forensic Police, recovered the body in the presence of the District Magistrate. Sudarshika had left her home with a man from Nanuoya, where she had been living for two years. She wrote a letter to her parents before her death, expressing regret and asking for forgiveness.
-
-🟩
-
-The body of an 18 -year -old Sudarshika from Udappusallawa, a Telmak Estate from the Irakalai - Telmar Divisional Pond, has been recovered by the police on Wednesday (03).
-
-The body has been recovered by the woman who has been searched for the past two days.
-
-The body was recovered by the Irakalai police and the Nuwara Eliya Crime Forensic Police in the presence of the Nuwara Eliya District Magistrate.
-
-The young woman left the house with a man from the Nanuoya area where she wanted to be 16 (2 years ago) (2 years ago).. He then wrote a letter to his parents before he died of some bitter incidents with the man and the family members.
-
-I cannot cope with the problems, the stress is the only cause and that he is responsible for his decision. “Mom, Dad, forgive me. This life is so hard. I am going from here. ”
-
-Further investigations into the death. Remble
-
-◼️
-
-[Data](articles/04c96217.json)
-
-[Extended Data](ext_articles/04c96217.ext.json)
-
----
-
-### Ranil’s Akhand Bharatisation of Lanka, Sajith’s socialist nightmare and religious rampage
-
-*2024-04-04 00:29:32* · [`dailyftlk`](https://www.ft.lk/columns/Ranil-s-Akhand-Bharatisation-of-Lanka-Sajith-s-socialist-nightmare-and-religious-rampage/4-760268) · `en`
-
-“In Delhi, President Ranil Wickremesinghe’s Chief of Staff led the team to discuss a wide range of subjects, from a land bridge across the Palk Strait…”
-
-“Where a class abdicates its moral right to leadership, it is already doomed and must surely die.”
-
-– Mervyn de Silva, “1956”, Ceylon Observer Magazine Edition, 16 and 23 May 1967 –
-
-Prime Minister Modi’s hawkish remarks on Kachchatheevu island conceded by India Gandhi to Sri Lanka a half-century ago in 1974, reveal the not-so-benign aspect of the ruling BJP’s attitude towards Sri Lanka. (https://www.hindustantimes.com/india-news/startling-pm-modi-slams-congress-for-callously-giving-away-katchatheevu-island-to-sri-lanka-101711860374728.html)
-
-...
-
-[Data](articles/29de5ab2.json)
-
-[Extended Data](ext_articles/29de5ab2.ext.json)
-
----
-
-### Kolkata launches Telhi
-
-*2024-04-04 00:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180369) · `ta`
-
-Kolkata Knight Riders won the Telhi Keppitels by 106 runs, scoring 272 runs in 20 overs. Key players included Sunil Narain, Angrish Raghuvanshi, Antre Russell, and Rinku Singh. Telhi Capitels lost all wickets in 17.2 overs, scoring 33 runs.
-
-🟩
-
-Kolkata Knight Riders won the Telhi Keppitels by 106 runs in the 16th match of the 17th Indian Premier League chapter held at the Visakhapatnam District Cricket Association Stadium on Wednesday night.
-
-Kolkata Knight Riders, who decided to bat first in the upting match, scored 272 runs for the loss of 7 wickets in 20 overs.
-
-In the history of Indian Premier League cricket this year, Kolkata Knight Riders scored 5 runs less than 277 runs in Sunrisers Hyderabad.
-
-With the help of Sunil Narain, Impact player Angrish Raghuvanshi, Antre Russell and Rinku Singh, Kolkata Knight Riders SurImerted.
-
-Bill Sold and Sunil Narain shared 60 runs off 27 balls and made a strong start.
-
-Sunil Narain and Angrish Raghuvanshi shared 104 runs off 48 balls in the 2nd wicket after Peel Sold lost 18 runs.
-
-Sunil Narain faced 39 balls with 7 pounds and 7 sixes with 85 runs. It scored 70 runs by pounds.
-
-On the other hand, Angrish Raghuvanshi scored 54 runs off 27 balls with 5 pounds and 3 sixes.
-
-...
-
-[Data](articles/59a25cdb.json)
-
-[Extended Data](ext_articles/59a25cdb.ext.json)
-
----
-
-### Hopes of peace dashed as confused US faces dogged Netanyahu
-
-*2024-04-04 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Hopes-of-peace-dashed-as-confused-US-faces-dogged-Netanyahu/172-280126) · `en`
-
-With public opinion that is increasingly supporting a permanent ceasefire in Gaza, in March, both US President Biden and his Republican challenger Trump appeared to be toeing a softer line on Gaza
-
-A survey done in February found that around two-thirds of voters supported the US calling for a permanent ceasefire and a de-escalation of violence in Gaza
-
-The US is blowing hot and cold on its policy on the Gaza war and is showing inconsistency in its actions. In contrast, the Israeli Prime Minister Benjamin Netanyahu is doggedly pursuing his uncompromising line on the war, disregarding rising opposition and even a revolt by the ultra-orthodox Jews in his homeland.
-
-The net result of all this is that the prospects of peace in Gaza have receded further. And with Netanyahu bent on attacking Rafah, with a  huge population of locals and refugees from other parts of Gaza, more deaths and destruction are on the cards.
-
-...
-
-[Data](articles/1936c731.json)
-
-[Extended Data](ext_articles/1936c731.ext.json)
-
----
-
-### World Health Day: ‘My Health, My Right’
-
-*2024-04-04 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/World-Health-Day-My-Health-My-Right/172-280121) · `en`
-
-Sri Lanka’s public health service is facing one of its worst crises since independence. President Ranil Wickremesinghe and the Sri Lanka Podujana Peramuna government need to give much more priority to help the public health service recover; because as the cliché goes: “health is wealth”.
-
-With public health trade unions staging regular strikes during the past two years, poor people have had to travel a long way to a public hospital only to be told that the nurses, attendants and other paramedical staff are on strike and that the people need to go back without treatment. The crisis involving former Health Minister Keheliya Rambukwella made the situation worse with the importation of substandard drugs from fictitious companies. The tragedy is that this is happening in the country which produced Prof. Senaka Bibile who was widely regarded as a prophet of modern medicine, and proposed a solution to the drug crisis.
-
-...
-
-[Data](articles/202a9b0c.json)
-
-[Extended Data](ext_articles/202a9b0c.ext.json)
-
----
-
-### Kachchativu Island Debate: Political fodder,  No Serious Intentions
-
-*2024-04-04 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Kachchativu-Island-Debate-Political-fodder-No-Serious-Intentions/172-280124) · `en`
-
-Indian National Congress president Mallikarjun Kharge hit back at the Indian Prime Minister questioning why his party did not take back the island during its past ten years in power
-
-The issue involving Kachchativu becomes a hot political debate in India when elections are around the corner
-
-In the course of the debate, Indian Prime Minister Modi slammed DMK party saying that the new details emerging on the matter have “unmasked” the party’s double standards
-
-It is quite common that the issue involving Kachchativu, a tiny island in the Palk Straits between India and Sri Lanka, becomes a hot political debate in India–particularly in the state of  Tamil Nadu–when elections are around the corner in that country.
-
-This time around, ahead of Lok Sabha elections, it has been raised; and the debate heated after remarks by Indian Prime Minister Narendra Modi placing blame on the Indian opposition over the agreement that ceded the island to Sri Lanka.
-
-...
-
-[Data](articles/48b0b51a.json)
-
-[Extended Data](ext_articles/48b0b51a.ext.json)
 
 ---

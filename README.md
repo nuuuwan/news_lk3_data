@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 10:51:59**
+As of **2024-04-04 11:03:16**
 
 ## Newspaper Stats
 
-*Scraped **17,049** Articles*
+*Scraped **17,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
 economynextcom | 944
-adalk | 1,433
-tamilmirrorlk | 2,024
+adalk | 1,435
+tamilmirrorlk | 2,025
 adaderanalk | 2,043
-virakesarilk | 2,460
+virakesarilk | 2,464
 dailymirrorlk | 2,623
 adaderanasinhalalk | 2,751
 
@@ -26,11 +26,65 @@ adaderanasinhalalk | 2,751
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,048 (100.0%) of 17,049 articles have been extended.
+17,049 (100.0%) of 17,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### கார்த்திகைப்பூ விவகாரம் : தெல்லிப்பளை பொலிஸ் நிலைய பொறுப்பதிகாரிக்கு இலங்கை மனித உரிமைகள் ஆணைக்குழு அழைப்பாணை !
+
+*2024-04-04 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180392) · `ta`
+
+யாழ். தெல்லிப்பளை பொலிஸ் நிலைய பொறுப்பதிகாரியை இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாண அலுவலகத்தில்  ஆஜராகி விளக்கமளிக்குமாறு  இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாண அலுவலகத்தால் அழைப்பாணை அனுப்பப்பட்டுள்ளது.
+
+நாளை வெள்ளிக்கிழமை 5 ஆம் திகதி பிற்பகல் 2.30 மணிக்கு ஆஜராகுமாறு அழைப்பாணை அனுப்பப்பட்டுள்ளது.
+
+பாடசாலை இல்ல விளையாட்டு போட்டி தொடர்பில் தெல்லிப்பளை யூனியன் கல்லூரி மாணவர்கள் மற்றும் ஆசிரியர்களை தெல்லிப்பளை பொலிஸ் நிலையத்திற்கு அழைத்து விசாரணை மேற்கொண்டமை தொடர்பில் இலங்கை ஆசிரியர் சங்கம் மேற்கொண்ட முறைப்பாட்டிற்கான விசாரணைக்கு தெல்லிப்பளை பொலிஸ் நிலைய பொறுப்பதிகாரியை இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாண அலுவலகத்தில்  ஆஜராகி விளக்கமளிக்குமாறு  இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழப்பாண அலுவலகத்தால் அழைப்பாணை அனுப்பப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/9973c477.json)
+
+---
+
+### இஸ்ரேல் மனிதாபிமான பணியாளர்களின் வாகனங்களை இலக்குவைத்து தாக்கியது -வேல்ட் சென்ரல் கிச்சன் அமைப்பின் ஸ்தாபகர் குற்றச்சாட்டு
+
+*2024-04-04 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/180391) · `ta`
+
+இஸ்ரேலின் தாக்குதலில்  மனிதாபிமான பணியாளர்களை இழந்த வேல்ட் சென்ரல் கிச்சன் அமைப்பின் தலைவர் ஜோசே அன்ரெஸ் இஸ்ரேல் தனது பணியாளர்கள் பயணம் செய்துகொண்டிருந்த வாகனங்களை இலக்குவைத்து தாக்கியது என குறிப்பிட்டுள்ளார்.
+
+நான் ஸ்தாபித்த வேல்ட் சென்ரல் கிச்சன்  இஸ்ரேலிய படையினருடன் தெளிவான தொடர்பாடல்களை கொண்டிருந்தது எனது பணியாளர்கள் பயணிக்கின்றனர் என்பது இஸ்ரேலிற்கு தெரிந்திருந்தது என அவர் ரொய்ட்டர் செய்திச்சேவைக்கு தெரிவித்துள்ளார்.
+
+இது குண்டு தவறான இடத்தில் விழுந்த துரதிஸ்டவசமான சம்பவம் இல்லை என அவர் தெரிவித்துள்ளார்.
+
+எங்கள் வாகனங்களின்  மேற்பகுதியில் இலச்சினைகள் தெளிவாக பதிக்கப்பட்டிருந்தன இதன் மூலம் நாங்கள் யார் என்பதையும் என்ன செய்துகொண்டிருக்கின்றோம் என்பதையும் தெளிவாக தெரிவித்திருந்தோம் எனவும் ஜோசே அன்ரஸ் தெரிவித்துள்ளார்.
+
+எங்கள் வாகனத்தொடரணி எங்குநிற்கின்றது என்பது இஸ்ரேலிய இராணுவத்தினருக்கு தெரிந்திருந்தது எனவும் குறிப்பிட்டுள்ள அவர் அமெரிக்காவும் கொல்லப்பட்ட பணியாளர்களின் நாடுகளும் விசாரணைகளை முன்னெடுக்கவேண்டும் என வேண்டுகோள் விடுத்துள்ளார்.
+
+...
+
+[Data](articles/8849c937.json)
+
+---
+
+### வவுனியாவில் பல இலட்சம் பணத்துடன் பெறுமளவு கஞ்சா மீட்பு - மூவர் கைது
+
+*2024-04-04 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180387) · `ta`
+
+வவுனியாவில் பல இலட்சம் பணத்துடன் பெறுமளவு கஞ்சா மீட்கப்பட்டுள்ளதோடு, மூவர் கைது செய்யப்பட்டுள்ளனர்.
+
+வவுனியா விசேட குற்றப்புலனாய்வு பொலிஸாருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் துரிதமாக செயல்பட்ட பொலிஸார் காரொன்றில் கடத்திச்செல்லப்பட்ட ஒன்பது கிலோகிராம் கஞ்சா மற்றும் பத்தொன்பது இலட்சத்து ஐம்பதாயிரம் ரூபாய் பணத்தை மீட்கப்பட்டுள்ளனர்.
+
+அத்தோடு, காரில் பயணித்த வவுனியா நெடுங்கேணி பிரதேசத்தைச் சேர்ந்த 27 வயதுடைய நபர் ஒருவரும் ஒட்டிசுட்டான் பகுதியைச் சேர்ந்த 25 வயதுடைய நபர் மற்றும் வவுனியாவைச் சேர்ந்த 34 வயதுடைய நபர் ஒருவரும் என மூவர் கைது செய்யப்பட்டுள்ளதுடன் அவர்கள் பயணித்த காரையும் பொலிஸாரின் கட்டுப்பாட்டிற்குள் கொண்டுவந்துள்ளனர்.
+
+வவுனியா குற்றத்தடுப்பு பிரிவின் பொலிஸ் பொறுப்பதிகாரி பொலிஸ் பரிசோதகர் ரிஷ்வி தலைமையிலான குழுவினரே குறித்த கைதை மேற்கொண்டுள்ளனர் மேலும் கைது செய்யப்பட்டவர்களை விசாரணைகளை முடித்த பின்னர் நீதவான் நீதிமன்றில் முன்னிலைப்படுத்த உள்ளனர் என்பதும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/825eddf7.json)
+
+---
 
 ### Govt’s prudent fiscal management helped positive economic trajectory - President
 
@@ -47,6 +101,8 @@ He attributed this positive shift to effective economic policies implemented by 
 ...
 
 [Data](articles/792c0d08.json)
+
+[Extended Data](ext_articles/792c0d08.ext.json)
 
 ---
 
@@ -78,6 +134,44 @@ She had gone down to the land, saying that she was going to pick up pepper and s
 
 ---
 
+### பிரதான மார்க்கத்தில் ரயில் சேவைகள் தாமதம்
+
+*2024-04-04 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180385) · `ta`
+
+இன்று வியாழக்கிழமை (04) காலை மாஹோவில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த ரயில் தொழில்நுட்ப கோளாறு காரணமாக நிறுத்தப்பட்டதால் பிரதான மார்க்கத்தில் ரயில் சேவைகள் தாமதமாகின.
+
+இதேவேளை, யத்தல்கொட மற்றும் அம்பேபுஸ்ஸ ரயில் நிலையங்களுக்கு இடையில் மற்றுமொரு ரயிலிலும் தொழில்நுட்ப கோளாறு ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/06a827e2.json)
+
+---
+
+### PA Member of Parliament. Nandasena has passed away
+
+*2024-04-04 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180378) · `ta`
+
+H. Nandasena, a former PA MP and District Coordinator, passed away. He served in the Pradeshiya Sabha and North Central Provincial Council, and was elected in 2020.
+
+🟩
+
+H. Nandasena, a member of the Sri Lanka PA (SLPP) Anuradhapura District and District Coordinating Committee, passed away this morning, his family sources said.
+
+H. Nandasena is a former member of the Pradeshiya Sabha and North Central Provincial Council. He has also held the post of Provincial Ministry.
+
+He was sacked after attending the May Day meeting of the Joint Opposition in May 2017.
+
+He was elected to parliament in the 2020 parliamentary elections as the candidate of the Sri Lanka PA in the Anuradhapura district.
+
+◼️
+
+[Data](articles/91f230f5.json)
+
+[Extended Data](ext_articles/91f230f5.ext.json)
+
+---
+
 ### Lord Buddha relics from Sri Lanka to be presented To Dalai Lama
 
 *2024-04-04 09:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lord-Buddha-relics-from-Sri-Lanka-to-be-presented-To-Dalai-Lama/108-280165) · `en`
@@ -97,30 +191,6 @@ The Sri Subhuthi Maha Viharaya in Waskaduwa houses 21 relics of the Lord Buddha.
 [Data](articles/05c63e04.json)
 
 [Extended Data](ext_articles/05c63e04.ext.json)
-
----
-
-### PA Member of Parliament. Nandasena has passed away
-
-*2024-04-04 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180378) · `ta`
-
-H. Nandasena, a former PA MP and District Coordinator, passed away. He served in the Pradeshiya Sabha and North Central Provincial Council, and was elected in 2020.
-
-🟩
-
-H. Nandasena, a member of the Sri Lanka PA (SLPP) Anuradhapura District and District Coordinating Committee, passed away this morning, his family sources said.
-
-H. Nandasena is a former member of the Pradeshiya Sabha and North Central Provincial Council. He has also held the post of Provincial Ministry.
-
-He was sacked after attending the May Day meeting of the Joint Opposition in May 2017.
-
-He was elected to parliament in the 2020 parliamentary elections as the candidate of the Sri Lanka PA in the Anuradhapura district.
-
-◼️
-
-[Data](articles/91f230f5.json)
-
-[Extended Data](ext_articles/91f230f5.ext.json)
 
 ---
 
@@ -169,6 +239,18 @@ Meanwhile, in the first two months of 2024 alone, Sri Lankan migrant workers’ 
 [Data](articles/aaf7ce1f.json)
 
 [Extended Data](ext_articles/aaf7ce1f.ext.json)
+
+---
+
+### பாராளுமன்ற உறுப்பினர் நந்தசேன காலமானார்
+
+*2024-04-04 09:43:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-உறுப்பினர்-நந்தசேன-காலமானார்/175-335597) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அனுராதபுரம் மாவட்ட பாராளுமன்ற உறுப்பினரும், மாவட்ட ஒருங்கிணைப்புக் குழு தலைவருமான கே.எச்.நந்தசேன திடீர் சுகவீனம் காரணமாக காலமானார்.
+
+◼️
+
+[Data](articles/2ed00602.json)
 
 ---
 
@@ -2032,6 +2114,24 @@ It caused the most damage in Hualien, where buildings fell, roads were blocked a
 
 ---
 
+### රාජ්‍ය හා අර්ධ රාජ්‍ය ආයතන 70කින් නැව් සංස්ථාවට කෝටි 152ක පොල්ලක්
+
+*2024-04-03 20:47:08* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-හා-අර්ධ-රාජ්‍ය-ආයතන-70කින්-නැව්-සංස්ථාවට-කෝටි-152ක-පොල්ලක්/11-408940) · `si`
+
+ශ්‍රී ලංකා නැව් සංස්ථාව සඳහා 2023 වර්ෂය වන විට මෙරට රාජ්‍ය ආයතන 22ක් සහ අර්ධ රාජ්‍ය ආයතන 48කින් රුපියල් කෝටි 152කට අධික මුදලක් (1,525,359,729) ශ්‍රී ලංකා නැව් සංස්ථාවට අය වීමට තිබූ බව ජාතික විගණන කාර්යාලය නිකුත් කොට තිබූ නවතම විගණන වාර්තාවක සඳහන්වේ.
+
+මින් වසර 02කට වැඩි කාලයක සිට නැව් සංස්ථාවට අය විය යුතු මුදල රුපියල් හැටඑක්කෝටි අසූලක්ෂ හතළිස් පන්දහස් හාරසිය පනස්තුනක් (618,045, 453) බවද විගණනය මගින් අනාවරණය කොට ඇත.
+
+වසර 03කට වඩා පැරණි විදේශීය හා අනිකුත් වෙළඳ ණයගැතියන්ගෙන් 2023 ජනවාරි 01වනදා සිට මාර්තු මස 31වන දින වන විට අය විය යුතු මුදල රුපියල් දහසය කෝටි තිස්හත්ලක්ෂ පනස් දෙදහස් හාරසිය විස්සක් (163,752,420)  බවද විගණන වාර්තාවේ සඳහන් වේ.
+
+ශ්‍රී ලංකා නැව් සංස්ථාව 2022,2023 වර්ෂ 02 සඳහා රුපියල් එකසිය අසූ පන්කෝටි හැත්තෑ එක්ලක්ෂ විසිනවදහස් හත්සිය හැටහයක (1,857,129,766) වාර්තාගත මූල්‍ය අලාභයක් ලබා ගෙන ඇති බැව් නිකුත් කරන ලද විගණන වාර්තාවේ සඳහන් වේ.
+
+...
+
+[Data](articles/1bb12846.json)
+
+---
+
 ### Ready to face any debate
 
 *2024-04-03 20:42:52* · [`adalk`](https://www.ada.lk/breaking_news/ඕනෑම-විවාදයකට-මුහුණ-දීමට-සූදානම්/11-408939) · `si`
@@ -2053,155 +2153,5 @@ The Opposition Leader Sajith Premadasa said so.
 [Data](articles/c73716cb.json)
 
 [Extended Data](ext_articles/c73716cb.ext.json)
-
----
-
-### Between the wreckage of the Taiwan earthquake
-
-*2024-04-03 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195270) · `si`
-
-A 7.4-magnitude earthquake in Taiwan, the strongest in 25 years, has killed 9, severely damaged Taipei, and trapped 80 people in tunnels. It triggered 100 aftershocks, including a 7-magnitude tremor. Tsunami warnings were issued, affecting Japan's Okinawa district.
-
-🟩
-
-Nine persons have been killed in 7.4 units of the Rickter threats affected by the Taiwan East Coast.
-
-This is the most powerful earthquake in the country after 25 years and is still operating in the wreckage.
-
-The abuse of Taiwanese seizures was recorded in the Pacific Ocean, about 18 km away from the East Coast Huwalian.
-
-A number of areas including Taipei capital was severely affected by 7.4 units of the Richter.
-
-About 100 buildings have been damaged, and the operations have been launched to liberate about 130 people in the wreckage.
-
-About 80 of them are trapped in mountain tunnels, and there are foreigners.
-
-After the main earthquake, the region was about 100 conjugations and 100 shocks, including a vibration of the Richter.
-
-Authorities predict that the vibrations that exceed the over 7 units of the richter thread in the next few days.
-
-Tsunami warnings to Taiwan, Neighborhoods and the Philippines with the earthquake, and later removed.
-
-...
-
-[Data](articles/68adf1c1.json)
-
-[Extended Data](ext_articles/68adf1c1.ext.json)
-
----
-
-### Maithri attacked by Fr. Cyril
-
-*2024-04-03 20:35:06* · [`adalk`](https://www.ada.lk/breaking_news/සිරිල්-පියතුමාගෙන්-මෛත්‍රීට-ප්‍රහාරයක්/11-408937) · `si`
-
-Maithripala Sirisena criticized for hiding truth in Passover attack, while IGP Tennakoon criticized by Fr. Manju Niroshan for not informing the church about the incident. Cyril Gamini Fernando defended the statement about India's involvement, questioning the timing and credibility of the report.
-
-🟩
-
-Former President Maithripala Sirisena, who was hiding the truth in the Passover attack, said that the Mahamidala Sirisena had a statement about a beneficial election.
-
-He was speaking at a media briefing held at the Archbishop of Colombo today.
-
-Meanwhile, the IGP, Deshabandu Tennakoon, president of the Saint Sebastian Church of the Saint Sebastian and president of the Saint Sebastian of the Church, was criticized by Manju Niroshan.
-
-Fr. Manju Niroshan of St. Sebastian Church, Kaviyapitiya St. Sebastian Church - Passover Day is an important day for all of us. We held the divine sacrifice at 07 AM. The incident was very clear that no one had been informed in any way. We really don't ask for a dry food bag. Not to come us and go. We ask for us justice. It is requested to give you right.
-
-...
-
-[Data](articles/b559ebbe.json)
-
-[Extended Data](ext_articles/b559ebbe.ext.json)
-
----
-
-### Sujeewa does not support complaints
-
-*2024-04-03 20:29:26* · [`adalk`](https://www.ada.lk/breaking_news/පැමිණිලි-විමර්ශනය-කිරීමට-සුජීවගෙන්-සහායක්-නෑ/11-408936) · `si`
-
-Sujeewa Senasinghe, a former MP, filed a petition against the Attorney General, but the Senior State Counsel refused to support the investigation. The petition was considered by Supreme Court judges, with the bribery or corruption commission as respondents.
-
-🟩
-
-Senior State Counsel, Senior State Counsel not to investigate complaints made by former MP Sujeewa Senasinghe.
-
-Speaking to the Attorney General Sujeewa Senasinghe, who has been identified as a interim injunction filed by the Attorney General, has said that the fundamental rights of the Attorney General has said to the Attorney General.
-
-The petition was considered in the face of Supreme Court judges, Drath Surussena, Janaka de Silva and Mahinda Samaya Sajeera.
-
-Former Parliamentarian Sujeewa Senasinghe has named the bribery or corruption commission as respondents in the petition.
-
-Senior State Counsel, Senior State Counsel appearing on behalf of the respondents at the time of the petition, he said he would not add any support to the petitioner to investigate the petitioner.
-
-It is said that he had refused to answer the petitioner's questions and that under such a situation, he said.
-
-...
-
-[Data](articles/bbfc8c67.json)
-
-[Extended Data](ext_articles/bbfc8c67.ext.json)
-
----
-
-### Agricultural Modernization Board- President
-
-*2024-04-03 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180366) · `ta`
-
-President Ranil Wickremesinghe announced the establishment of new councils to modernize Sri Lanka's agriculture, focusing on productivity, stability, development, and innovation. 26 projects were selected for implementation, emphasizing the transition to modern agriculture for economic growth and climate change resilience.
-
-🟩
-
-President Ranil Wickremesinghe said that the Ministries, Institutions and Organizations associated with the Agriculture Department will be established by the President -Prime Minister and the Modernization of the Agricultural Modernization.
-
-The President also said that the new council is to be established to improve the performance of government agencies in the agricultural modernization program.
-
-The President made this statement at a review meeting on the Agricultural Modernization Program held at the Presidential Office on Wednesday (03).
-
-The policy plan prepared to modernize the agricultural sector of Sri Lanka was handed over to the President by the President of the Expert Panel, Gamini Senanayake.
-
-...
-
-[Data](articles/e57cd666.json)
-
-[Extended Data](ext_articles/e57cd666.ext.json)
-
----
-
-### Special trains from 10th to year
-
-*2024-04-03 20:08:43* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුද්දට-10දා-සිට-විශේෂ-දුම්රිය/11-408935) · `si`
-
-The Department of Railways will run special trains from the 10th to 15th for the Sinhala and Hindu New Year, in addition to regular services.
-
-🟩
-
-The Department of Railways will operate special train services from the 10th to 15th to the Sinhala and Hindu New Year.. In addition to the daily trains, these special trains will be operated.
-
-◼️
-
-[Data](articles/200f1817.json)
-
-[Extended Data](ext_articles/200f1817.ext.json)
-
----
-
-### Chinese '' Ceylon 'for 2 lakh acres of salts
-
-*2024-04-03 20:04:31* · [`adalk`](https://www.ada.lk/breaking_news/ලවණ-කුඹුරු-අක්කර-ලක්ෂ-2කට-චීන-’සී-රයිස්’/11-408934) · `si`
-
-Hector Kobbekaduwa, a farmer research institute, launched research papers focusing on dry zone irrigation for paddy cultivation, aiming to address salinity issues on 2 lakh acres.
-
-🟩
-
-Hector Kobbekaduwa was revealed at the Farmer Research and Training Institute, Hector Kobbekaduwa, the farmer Research and Training Institute.
-
-The event was revealed that the event was due to launch the research papers in the institute.
-
-It was also said that there will be more attention to the dry zone landscape of irrigation for paddy cultivation.
-
-◼️
-
-[Data](articles/3fc8612f.json)
-
-[Extended Data](ext_articles/3fc8612f.ext.json)
 
 ---

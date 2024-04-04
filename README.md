@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 00:03:45**
+As of **2024-04-05 00:18:08**
 
 ## Newspaper Stats
 
-*Scraped **17,215** Articles*
+*Scraped **17,216** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 957
 adalk | 1,456
 tamilmirrorlk | 2,037
 adaderanalk | 2,065
-virakesarilk | 2,501
+virakesarilk | 2,502
 dailymirrorlk | 2,642
 adaderanasinhalalk | 2,783
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 2,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,215 (100.0%) of 17,215 articles have been extended.
+17,215 (100.0%) of 17,216 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-04-05 (Friday)
+
+### Prince Sultan Medical Center, which offers special medical privilege to pilgrims
+
+*2024-04-05 00:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180463) · `ta`
+
+The Prince Sultan Medical Center in Medina provides special medical privileges to pilgrims, offering emergency services and treatment to 12,159 patients, including 4,906 women and 7,253 men, with 37 patients referred to Ministry of Health hospitals. It features 8 clinics, two mobile clinics with 18 emergency beds, and operates as a treatment, nutritional, laboratory, and pharmaceutical center.
+
+🟩
+
+We know that the Saudi Arabian government continues to offer high services and privileges to ease the pilgrimage of the people who visit both sacred places.
+
+In Medina, the Seasonal Medical Center of the Prince Sultan Armed Forces Hospital continues to offer medical and emergency services to the holy Masjid Nabhavi.
+
+The center has released a statistics to describe the number of beneficiaries of its services till last Saturday, of which 12,159 patients, including 4,906 women and 7,253 men, have benefited from emergency treatment.. In addition, 37 patients were nominated for hospitals affiliated with the Ministry of Health.
+
+The center has the most sophisticated facilities for maintaining patients with 8 clinics for providing medical and emergency services to those who visit the mosque.. It has two mobile clinic vehicles with 18 emergency monitoring beds and six monitoring beds each.
+
+...
+
+[Data](articles/2cec23c2.json)
+
+[Extended Data](ext_articles/2cec23c2.ext.json)
+
+---
+
 ### 2024-04-04 (Thursday)
+
+### பரபரப்புக்கு மத்தியில் குஜராத்தை ஒரு பந்து மீதம் இருக்க 3 விக்கெட்களால் வெற்றிகொண்டது  பஞ்சாப்
+
+*2024-04-04 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180465) · `ta`
+
+அஹமதாபாத் நரேந்திர மோடி விளையாட்டரங்கில் வியாழக்கிழமை (04) நடைபெற்ற மிகவும் பரபரப்பான இண்டியன் பிறீமியர் லீக் போட்டியில் ஷஷான்க் சிங் குவித்த அதிரடி அரைச் சதத்தின் உதவியுடன் குஜராத் டைட்டன்ஸை ஒரு பந்து மீதமிருக்க 3 விக்கெட்களால் பஞ்சாப் கிங்ஸ்  வெற்றிகொண்டது.
+
+இந்தியாவில் தற்போது நடைபெற்றுவரும் 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 17ஆவது போட்டியில் குஜராத் டைட்டன்ஸினால் நிர்ணயிக்கப்பட்ட 200 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய பஞ்சாப் கிங்ஸ் 19.5 ஓவர்களில் 7 விக்கெட்களை இழந்து 200 ஓட்டங்களைப் பெற்று அபார வெற்றியீட்டியது.
+
+ஷஷாங்க சிங் குவித்த ஆட்டம் இழக்காத அரைச் சதம், ப்ரப்சிம்ரன் சிங், அஷுட்டோஷ் ஷர்மா ஆகியோரின் திறமையான துடுப்பாட்டங்கள் என்பன பஞ்சாப் கிங்ஸின் வெற்றியை உறுதிசெய்தன.
+
+இதன் காரணமாக குஜராத் டைட்டன்ஸ் அணித் தலைவர் ஷுப்மான் கில் ஆரம்ப வீரராக களம் இறங்கி கடைசிவரை ஆட்டம் இழக்காமல் குவித்த அரைச் சதம் வீண்போனது.
+
+அணித் தலைவர் ஷிக்கர் தவான் 2ஆவது ஓவரில் ஒரு ஓட்டத்துடன் ஆட்டம் இழந்ததால் பஞ்சாப் கிங்ஸின் ஆரம்பம் சிறப்பாக அமையவில்லை.
+
+...
+
+[Data](articles/083dd8a3.json)
+
+---
 
 ### Student documentaries published at the University of Jaffna
 
@@ -51,30 +97,6 @@ The lifeblood of the life of the lifestyle, which is the time -consuming of the 
 [Data](articles/3b029616.json)
 
 [Extended Data](ext_articles/3b029616.ext.json)
-
----
-
-### Prince Sultan Medical Center, which offers special medical privilege to pilgrims
-
-*2024-04-04 23:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/180463) · `ta`
-
-The Prince Sultan Medical Center in Medina provides special medical privileges to pilgrims, offering emergency services and treatment to 12,159 patients, including 4,906 women and 7,253 men, with 37 patients referred to Ministry of Health hospitals. It features 8 clinics, two mobile clinics with 18 emergency beds, and operates as a treatment, nutritional, laboratory, and pharmaceutical center.
-
-🟩
-
-We know that the Saudi Arabian government continues to offer high services and privileges to ease the pilgrimage of the people who visit both sacred places.
-
-In Medina, the Seasonal Medical Center of the Prince Sultan Armed Forces Hospital continues to offer medical and emergency services to the holy Masjid Nabhavi.
-
-The center has released a statistics to describe the number of beneficiaries of its services till last Saturday, of which 12,159 patients, including 4,906 women and 7,253 men, have benefited from emergency treatment.. In addition, 37 patients were nominated for hospitals affiliated with the Ministry of Health.
-
-The center has the most sophisticated facilities for maintaining patients with 8 clinics for providing medical and emergency services to those who visit the mosque.. It has two mobile clinic vehicles with 18 emergency monitoring beds and six monitoring beds each.
-
-...
-
-[Data](articles/2cec23c2.json)
-
-[Extended Data](ext_articles/2cec23c2.ext.json)
 
 ---
 
@@ -2299,29 +2321,5 @@ Minister Nalin Fernando, State Ministers Lasantha Jayakody, Sisira Jayakody and 
 [Data](articles/db7b3660.json)
 
 [Extended Data](ext_articles/db7b3660.ext.json)
-
----
-
-### Engkk Duminda who had recovered back to the SLFP and Lasantha and Amweera
-
-*2024-04-04 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195290) · `si`
-
-Duminda Dissanayake rejoins SLFP, calls for special news discussion with Lasantha and Amweera.
-
-🟩
-
-Duminda Dissanayake says he will be invited to join the Sri Lanka Freedom Party.
-
-Duminda Dissanayake, Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera have called a special news discussion today (04).
-
-The special press conference was held at the Sri Lanka Freedom Party Headquarters.
-
-"Former President Chandrika Bandaranaike could not wait for this destruction. Accordingly, Maithripala Sirisena, the Chairman of the party, issued an injunction order. "
-
-◼️
-
-[Data](articles/57750f69.json)
-
-[Extended Data](ext_articles/57750f69.ext.json)
 
 ---

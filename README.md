@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 14:18:03**
+As of **2024-04-04 14:33:57**
 
 ## Newspaper Stats
 
-*Scraped **17,102** Articles*
+*Scraped **17,104** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 943
 economynextcom | 944
 adalk | 1,441
 tamilmirrorlk | 2,032
-adaderanalk | 2,052
-virakesarilk | 2,476
+adaderanalk | 2,053
+virakesarilk | 2,477
 dailymirrorlk | 2,627
 adaderanasinhalalk | 2,759
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,759
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,102 (100.0%) of 17,102 articles have been extended.
+17,102 (100.0%) of 17,104 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### IGP Tennakoon summoned before Supreme Court
+
+*2024-04-04 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98423/igp-tennakoon-summoned-before-supreme-court) · `en`
+
+The Supreme Court has ordered Inspector General of Police (IGP) Deshabandu Tennakoon to appear before the courts tomorrow (04).
+
+The police chief is being summoned to inquire into several Fundamental Rights petitions filed by a group of Chief Inspectors with respect to transfers, Ada Derana correspondent said.
+
+The summons were issued by a three-member bench presided over by Chief Justice Jayantha Jayasuriya.
+
+◼️
+
+[Data](articles/98a67f41.json)
+
+---
 
 ### Engkk Duminda who had recovered back to the SLFP and Lasantha and Amweera
 
@@ -53,6 +69,30 @@ The special press conference was held at the Sri Lanka Freedom Party Headquarter
 [Data](articles/57750f69.json)
 
 [Extended Data](ext_articles/57750f69.ext.json)
+
+---
+
+### இரு புதிய ரயில் சேவைகள் நாளை ஆரம்பம்
+
+*2024-04-04 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180419) · `ta`
+
+கொழும்பிற்கும் பதுளைக்கும் இடையில் ரயில் சேவை ஆரம்பிக்கப்பட்டு நூறு ஆண்டு பூர்த்தியை முன்னிட்டு புதிய ரயில் சேவைகளை நாளை வெள்ளிக்கிழமை (05) ரயில் திணைக்களம் ஆரம்பிக்கப்படவுள்ளது.
+
+துன்ஹிந்த ஒடிஸி ரயில் கொழும்பு கோட்டையில் இருந்து  நாளை வெள்ளிக்கிழமை (5) காலை 6.30 மணிக்கு புறப்படும்.
+
+துன்ஹிந்த ஒடிஸி  ஆரம்ப விழாவிற்கு பின்னர் பயணிகள் போக்குவரத்து இடம்பெறும். அத்துடன் பயணச்சீட்டு கட்டணம் 8,000 ஆகும்.
+
+இந்த ரயிலில்  தலா 44 இருக்கைகள் கொண்ட நான்கு அறைகள் உள்ளன. அதில் மூன்று இரண்டாம் வகுப்பு அறைகள் மற்றும்  கேன்டீனுடன் கூடிய ஒரு மூன்றாம் வகுப்பு அறை ஆகியவை அடங்கும்.
+
+இந்த ரயிலுக்கு  மேலதிகமாக "கலிப்சோ" எனப் பெயரிடப்பட்ட மற்றுமொரு விசேட ரயில் குறித்த தினத்தில் பதுளை நோக்கி ஆரம்பிக்கப்படவுள்ளது.
+
+இந்த ரயில்  சுற்றி முழுவதும் மறைக்கப்படாது விசேடமாக காட்சிகளை பார்வையிடக்கூடிய வசதி கொண்டது.
+
+இந்த ரயில் சேவையும் போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சர் பந்துல குணவர்தனவினால் ஆரம்பித்து வைக்கப்படவுள்ளது.
+
+...
+
+[Data](articles/b0c5d597.json)
 
 ---
 
@@ -1444,9 +1484,17 @@ He contested the 2020 parliamentary election as a candidate of the Sri Lanka Peo
 
 *2024-04-04 09:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98411/man-arrested-with-over-76000-narcotic-pills-in-panadura) · `en`
 
-A man who was in possession of a large cache of narcotic pills and cannabis has been arrested in Hirana, Panadura.
+A 38-year-old man, who was in possession of a large cache of narcotic pills and cannabis, has been arrested in Hirana, Panadura.
+
+The arrest was made by the Kalutara Police Crimes Division in the early hours of Thursday (04).
 
 As many as 76,796 narcotic pills used instead of heroin and 1kg of cannabis were found on the suspect at the time of the arrest.
+
+In another development, three individuals including a Nigerian national were arrested for being implicated in cocaine distribution.
+
+The Police Narcotics Bureau (PNB) officials attached to the Bandaranaike International Airport (BIA) in Katunayake have made the arrest acting on a tip-off concerning a parcel received by a delivery company in Orugodawatta. The parcel had been sent from South Africa via Dubai, UAE.
+
+The arrestees – two Sri Lankans aged 25 and 30 and a Nigerian aged 38 – were detained for 7 days for interrogation after being produced before the Maligakanda Magistrate’s Court.
 
 ◼️
 
@@ -2193,47 +2241,5 @@ During the meeting, the Committee Chair highlighted the detrimental effects of e
 [Data](articles/3e4d3f4b.json)
 
 [Extended Data](ext_articles/3e4d3f4b.ext.json)
-
----
-
-### Hayleys Fentons wins Merit Award at Best Management Practices Company Awards 2024
-
-*2024-04-04 03:32:08* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fentons-wins-Merit-Award-at-Best-Management-Practices-Company-Awards-2024/34-760286) · `en`
-
-Hayleys Fentons Ltd., Sri Lanka’s No. 1 Solar EPC company and MEP contractor, commemorates its first-ever award at the recent “Best Management Practices Company Awards (BMPC) 2024”, recognising exceptional management practices.
-
-The Best Management Practices Company Awards are organised by the esteemed Institute of Chartered Professional Managers of Sri Lanka (CPM, Sri Lanka).
-
-“We are proud to receive this award from CPM Sri Lanka,” said Hayleys Fentons Ltd. Managing Director Hasith Prematillake. “This recognition serves as a strong validation of our commitment to continuous improvement and the tireless efforts of our team in upholding the highest standards of management practices.
-
-“We firmly believe that our unwavering focus on best practices will continue to be a significant driver of its growth and achievements.”
-
-...
-
-[Data](articles/0ddc663e.json)
-
-[Extended Data](ext_articles/0ddc663e.ext.json)
-
----
-
-### Do not relocate the Director of Education of the Zonal Education;Vigilante struggle of parents
-
-*2024-04-04 03:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/180376) · `ta`
-
-Parents protest against the Director of Education's relocation to rural schools in Pattaru Zone. They met with provincial education officials, presenting their concerns.
-
-🟩
-
-For the past few days, parents on Wednesday (4) have been engaged in a protest protest against the protests against the Pattaru Zone Education Office.
-
-Parents who are involved in the struggle should be continuously for us, the Director of the Zonal Education Director who came to live in rural schools, the Hon.They were involved in the protest.
-
-The protesting parents met the provincial education officials who had visited the Zone and handed over their mahaj.
-
-◼️
-
-[Data](articles/7b80ba96.json)
-
-[Extended Data](ext_articles/7b80ba96.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 00:49:23**
+As of **2024-04-05 01:03:20**
 
 ## Newspaper Stats
 
-*Scraped **17,216** Articles*
+*Scraped **17,218** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 929
 islandlk | 943
 economynextcom | 957
 adalk | 1,456
-tamilmirrorlk | 2,037
+tamilmirrorlk | 2,039
 adaderanalk | 2,065
 virakesarilk | 2,502
 dailymirrorlk | 2,642
@@ -26,11 +26,47 @@ adaderanasinhalalk | 2,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,216 (100.0%) of 17,216 articles have been extended.
+17,216 (100.0%) of 17,218 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### அத்தியாவசிய சேவைகள் சீராக செயற்படும்
+
+*2024-04-05 00:31:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்தியாவசிய-சேவைகள்-சீராக-செயற்படும்/175-335635) · `ta`
+
+எதிர்வரும் தமிழ், சிங்கள புத்தாண்டு விடுமுறை காலத்தில் பொதுமக்களுக்கு அசௌகரியம் ஏற்படாத வகையில் அத்தியாவசிய சேவைகைள் மற்றும் ஏனைய அரச சேவைகளை தொடர்ச்சியாக முன்னெடுத்துச் செல்வதற்கான சரியான வேலைத்திட்டத்தை தயாரிக்குமாறு ஜனாதிபதி அதிகாரிகளுக்கு அறிவுறுத்தியுள்ளார்.
+
+ஜனாதிபதி அலுவலகம், பிரதமர் அலுவலகம், பாதுகாப்பு, சுகாதாரம், போக்குவரத்து, மின்சாரம் உள்ளிட்ட துறைசார் அமைச்சுக்கள் இணைந்து குறித்த வேலைத்திட்டத்தை தயாரிக்க வேண்டியது அவசியமெனவும் ஜனாதிபதி அறிவுறுத்தியுள்ளார்.
+
+அதேபோல், எதிர்வரும் பண்டிகைக் காலத்தில் நாட்டில் பொதுமக்களின் பாதுகாப்பை உறுதிப்படுத்தவும் சட்டம் ஒழுங்கை பாதுகாப்பதற்குமான விரிவான வேலைத்திட்டத்தை செயற்படுத்துமாறும் ஜனாதிபதி பாதுகாப்புத் துறையினருக்கு பணிப்புரை விடுத்துள்ளார். (a)
+
+◼️
+
+[Data](articles/fafb7a9f.json)
+
+---
+
+### கொங்கீறிட் கழிவு நீர் நிரம்பி விழுந்ததில் மாணவன் மரணம்
+
+*2024-04-05 00:31:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொங்கீறிட்-கழிவு-நீர்-நிரம்பி-விழுந்ததில்-மாணவன்-மரணம்/76-335634) · `ta`
+
+மஸ்கெலிய – காத்மோர் தமிழ் வித்தியாலயத்தில் கொங்கீறிட் கழிவு நீர் நிரம்பியொன்று வீழ்ந்ததில் மாணவன் ஒருவன் உயிரிழந்துள்ளான்.
+
+தேயிலை தோட்டமொன்றின் அபிவிருத்தி பணிகளுக்காக இந்த கொங்கீறிட் கழிவு நீர் நிரம்பி கொண்டு வரப்பட்டு, பாடசாலை வளாகத்தில் வைக்கப்பட்டுள்ளது.
+
+இவ்வாறு வைக்கப்பட்டிருந்த கொங்கீறிட் கழிவு நீர் நிரம்பியே மாணவன் மீது வீழ்ந்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+மலசலகூடத்திற்கு வருகைத்தந்த மாணவன் மீது இந்த கொங்கீறிட் கழிவு நீர் நிரம்பி வீழ்ந்துள்ளதுடன், மாணவன் மலசலகூட கட்டிடத்தில் சிக்குண்டுள்ளார்.
+
+காத்மோர் பகுதியைச் சேர்ந்த 11 வயதான எஸ்.அனிக்ஸன் என்ற மாணவனே இவ்வாறு உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/144cbe7f.json)
+
+---
 
 ### Prince Sultan Medical Center, which offers special medical privilege to pilgrims
 
@@ -2285,53 +2321,5 @@ According to a petition filed by former President Chandrika Kumaratunga, Colombo
 [Data](articles/216868d4.json)
 
 [Extended Data](ext_articles/216868d4.ext.json)
-
----
-
-### Most recently alcohol arrested in Kalutara
-
-*2024-04-04 14:06:27* · [`adalk`](https://www.ada.lk/breaking_news/මෑත-කාලයේ-වැඩිම-මත්ක‍රල්-තොගය-කළුතරින්-අල්ලයි/11-408950) · `si`
-
-In Kalutara, a person involved in a large number of alcohol arrests has been caught. The suspect, a 38-year-old resident of Panadura, was arrested on a tip-off. The police found 1500 units of alcohol and identified the suspect as a drug dealer for the mentally ill. The high-ranking suspect is awaiting trial before the Kalutara Magistrate.
-
-🟩
-
-The Kalutara Crimes Division (CRC) says that a person involved in a large number of alcohol has been arrested by a large number of alcohol has been arrested in India.
-
-The suspect was arrested a 38 shadow resident of Panadura, Panadura.
-
-The remaining alcohol has been recovered by the other 1500 alcohol and cooked the suspect in Kalutara on a tip off in Kalutara.
-
-The police have identified that alleged drugs have been identified as a drug that is provided to mentally ill.
-
-A high-ranking allegedly arrested for the operation of justice is the highest number of drugs that have been arrested recently. The suspect was to be presented to the Kalutara Magistrate.
-
-◼️
-
-[Data](articles/a15de3b3.json)
-
-[Extended Data](ext_articles/a15de3b3.ext.json)
-
----
-
-### Teacher appointments for 4,000 teachers
-
-*2024-04-04 14:04:07* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුවරුන්-4000කට-ගුරු-පත්වීම්/11-408949) · `si`
-
-The President announced appointments for 2320 graduate teachers, with plans to recruit 1000 more, totaling 4000 teachers. This achievement, after a 3-4 year hiatus due to COVID and economic issues, was celebrated with the presence of Minister Nalin Fernando, State Ministers, and Parliamentarians.
-
-🟩
-
-The President had joined in Temple Trees to give appointment to 2320 graduate teachers.. The President who commented
-
-"Today, 2320 teachers have been recruited. There are 700 more. It is planned to recruit another 1000 teachers according to vacancies. Accordingly, about 4000 people have been recruited to the teaching profession. These recruitments were able to make these recruitments after three to four years. All these recruits had stopped in the face of the covid plague and economic collapse. "
-
-Minister Nalin Fernando, State Ministers Lasantha Jayakody, Sisira Jayakody and Parliamentarians were present.
-
-◼️
-
-[Data](articles/db7b3660.json)
-
-[Extended Data](ext_articles/db7b3660.ext.json)
 
 ---

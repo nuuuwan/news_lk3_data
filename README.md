@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 10:03:49**
+As of **2024-04-04 10:18:01**
 
 ## Newspaper Stats
 
-*Scraped **17,043** Articles*
+*Scraped **17,045** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
 economynextcom | 944
-adalk | 1,432
+adalk | 1,433
 tamilmirrorlk | 2,024
-adaderanalk | 2,041
+adaderanalk | 2,042
 virakesarilk | 2,460
 dailymirrorlk | 2,621
 adaderanasinhalalk | 2,750
@@ -26,27 +26,55 @@ adaderanasinhalalk | 2,750
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,040 (100.0%) of 17,043 articles have been extended.
+17,043 (100.0%) of 17,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### பொதுஜன பெரமுன பாராளுமன்ற உறுப்பினர் எச். நந்தசேன காலமானார்
+### PA Member of Parliament. Nandasena has passed away
 
 *2024-04-04 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180378) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) அநுராதபுரம் மாவட்ட பாராளுமன்ற உறுப்பினரும் மாவட்ட ஒருங்கிணைப்புக் குழு தலைவருமான எச்.நந்தசேன இன்று வியாழக்கிழமை (04) காலை காலமானார் என அவரது குடும்ப வட்டாரங்கள் தெரிவித்துள்ளன.
+H. Nandasena, a former PA MP and District Coordinator, passed away. He served in the Pradeshiya Sabha and North Central Provincial Council, and was elected in 2020.
 
-எச்.நந்தசேன பதவியா பிரதேச சபை மற்றும் வடமத்திய மாகாண சபையின் முன்னாள் உறுப்பினராவார். அத்துடன் மாகாண அமைச்சுப் பதவியை வகித்துள்ளார்.
+🟩
 
-2017 ஆம் ஆண்டு மே மாதம் கூட்டு எதிர்க்கட்சியின் மே தினக் கூட்டத்தில் கலந்து கொண்டதன் பின்னர் அவர் அமைச்சர் பதவியில் இருந்து நீக்கப்பட்டார்.
+H. Nandasena, a member of the Sri Lanka PA (SLPP) Anuradhapura District and District Coordinating Committee, passed away this morning, his family sources said.
 
-அவர் 2020 பாராளுமன்றத் தேர்தலில் அநுராதபுர மாவட்டத்தில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் வேட்பாளராகப் போட்டியிட்டு பாராளுமன்றத்துக்கு தெரிவுசெய்யப்பட்டார்.
+H. Nandasena is a former member of the Pradeshiya Sabha and North Central Provincial Council. He has also held the post of Provincial Ministry.
+
+He was sacked after attending the May Day meeting of the Joint Opposition in May 2017.
+
+He was elected to parliament in the 2020 parliamentary elections as the candidate of the Sri Lanka PA in the Anuradhapura district.
 
 ◼️
 
 [Data](articles/91f230f5.json)
+
+[Extended Data](ext_articles/91f230f5.ext.json)
+
+---
+
+### Nearly 75,000 Sri Lankan workers emigrated in Q1 of 2024 - SLBFE
+
+*2024-04-04 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98412/nearly-75000-sri-lankan-workers-emigrated-in-q1-of-2024-slbfe) · `en`
+
+Approximately 75,000 Sri Lankan workers have emigrated to foreign countries within the first three months of 2024, according to the Sri Lanka Bureau of Foreign Employment (SLBFE).
+
+The bureau said as many as 74,499 Sri Lankans left the country in the first quarter of the year as opposed to 76,025 in 2023. Among them, 34,599 were women and it is 46% of the total number.
+
+A large number of Sri Lankans have reportedly emigrated to Kuwait, and it adds up to a total of 17,793.
+
+The SLBFE says, in comparison to the previous years, Sri Lankans now tend to seek job opportunities in countries like South Korea, Israel and Japan.
+
+As per the figures, 2,374 Sri Lankans in total left for South Korea, while 2,114 departed for Israel, 1,899 for Romania and 1,947 for Japan within the first quarter of the year.
+
+Meanwhile, in the first two months of 2024 alone, Sri Lankan migrant workers’ remittances were recorded at USD 963.8 million, the SLBFE added.
+
+...
+
+[Data](articles/7f5a0505.json)
 
 ---
 
@@ -70,23 +98,31 @@ Meanwhile, in the first two months of 2024 alone, Sri Lankan migrant workers’ 
 
 [Data](articles/aaf7ce1f.json)
 
+[Extended Data](ext_articles/aaf7ce1f.ext.json)
+
 ---
 
-### සුරාබදු බලපත්‍ර ගැන තීරණයක්
+### Decision on Excise License
 
 *2024-04-04 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195280) · `si`
 
-සුරාබදු බලපත්‍ර ලබාදීම නතර කර නොමැති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+State Minister Ranjith Siyambalapitiya clarifies that he continues to issue excise permits, emphasizing a systematic approach and adherence to Parliament-approved rules, despite protests. He asserts that the suspension of issues is a misunderstanding and that the rules are strictly followed, ensuring no licenses are issued outside of these guidelines.
 
-ඔහු පෙන්වා දෙන්නේ, අදාළ බලපත්‍ර ලබාදීමේ කටයුතු නිසි ක්‍රමවේදයක් යටතේ සිදුකිරීමට උපදෙස් ලබා දී ඇති බවය.
+🟩
 
-සුරාබදු බලපත්‍ර ලබාදීම නතර කර ඇති බවට පළ වන වාර්තා සම්බන්ධයෙන් අදහස් දක්වමින් මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා මේ බව සඳහන් කළේය.
+State Minister Ranjith Siyambalapitiya says he has not stopped issuing permits.
 
-"සුරාබදු බලපත්‍ර ලබාදීම අපි ඉතාමත් ක්‍රමානුකූල ක්‍රමයකට තමා අපි කරන්නේ. ඒකට පාර්ලිමේන්තුවේ අනුමත වූ නීතිරීති මත යම් කෙනෙක් බලපත්‍රයක් ඉල්ලුවහම විරෝධතා කැඳවීම්, ප්‍රදේශයේ ජනතාවගේ විරෝධය, මේ සියලු දේ බලලා තමා නිකුත් කිරීම කරන්නේ. කෙසේවෙතත් මට සුරාබදු දෙපාර්තමේන්තුව වාර්තා කළේ, උසාවිය විශේෂයෙන්ම කියලා තියෙන්නේ පාර්ලිමේන්තුවේ අනුමත නීතිරීති මත පමණක් බලපත්‍ර නිකුත් කරන්න කියලා. ඒක සුරාබදු බලපත්‍ර ලබාදීම නැවැත්වීමක් නෙමෙයි. නීතිරීති වඩාත් ක්‍රියාත්මක කරන්න කියලා දුන්න දෙයක්. ඒක ඉතාමත් හොඳයි. අපි දැනටමත් ඒක අනුගමනය කරනවා. සපුරා බලපත්‍ර ලබානොදීමක් නෑ."
+He points out that the permits of the permits have been instructed to conduct a proper mechanism.
+
+Minister Ranjith Siyambalapitiya said speaking to reports that the issues were suspended.
+
+"We do a systematic way to issue an Excise. It is imporived by the people of the area, protesting against the people of Parliament, when someone requests a license on the rules of Parliament. However, I reported the court that the court was particularly stated to issue licenses on Parliament approved rules only. It is not an cease for an excise permits. Something that gave the rules to be more implemented. It's very good. We already follow it. There is no non-license available. "
 
 ◼️
 
 [Data](articles/146f04c7.json)
+
+[Extended Data](ext_articles/146f04c7.ext.json)
 
 ---
 
@@ -2040,6 +2076,18 @@ The policy plan prepared to modernize the agricultural sector of Sri Lanka was h
 
 ---
 
+### අවුරුද්දට 10දා සිට විශේෂ දුම්රිය
+
+*2024-04-03 20:08:43* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුද්දට-10දා-සිට-විශේෂ-දුම්රිය/11-408935) · `si`
+
+සිංහල හා හින්දු අලුත් අවුරුදුඋත්සවය වෙනුවෙන් මේ මස 10වන දින සිට 15වන දින දක්වා කාලය තුළදී ප්රුධාන දුම්රිය මාර්ගයේ හා මුහුදුබඩ මාර්ගයේ විශේෂ දුම්රියන් ධාවන කිරීමට කටයුතු කරන බව දුම්රිය දෙපාර්තමේන්තුව සඳහන්කරයි. දිනපතා ධාවනය වන දුම්රියන්ට අමතරව මෙම විශේෂ දුම්රියන් ධාවනය කිරීමට කටයුතු කරන බවත් පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/200f1817.json)
+
+---
+
 ### Chinese '' Ceylon 'for 2 lakh acres of salts
 
 *2024-04-03 20:04:31* · [`adalk`](https://www.ada.lk/breaking_news/ලවණ-කුඹුරු-අක්කර-ලක්ෂ-2කට-චීන-’සී-රයිස්’/11-408934) · `si`
@@ -2161,53 +2209,5 @@ However, the final of the final appears that when Martin Gaphill's ball was shif
 [Data](articles/f41ed8b3.json)
 
 [Extended Data](ext_articles/f41ed8b3.ext.json)
-
----
-
-### The brine punishment given to the drunken husband by his wife
-
-*2024-04-03 19:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195268) · `si`
-
-A drunken man from Weligama, Matara, attacked his wife, leading to her death. He was taken into custody for being drunk and assaulting his wife. The police suspect he was killed by a rope tied around his neck. His wife has been arrested by the Weligama Police.
-
-🟩
-
-A person who has come to drunk into the house has died from the Weligama area in Matara.
-
-A resident of Weligama, Matara, he had come to his home last night.
-
-He was consistently taken into custody and was taken into custody as he was drunk and was drunk and attacked his wife.
-
-He had been drunk and tried to attack his wife last night, and in collaborating her husband in front of his wife.
-
-The wife and others were assaulted and he was admitted to the Weligama Hospital, even though he was unconscious.
-
-The police suspect that it was imprisoned by the stuck in the rope that was tied.
-
-Weligama Police have arrested the deceased person's wife.
-
-◼️
-
-[Data](articles/91ede276.json)
-
-[Extended Data](ext_articles/91ede276.ext.json)
-
----
-
-### Suspects to Rajiv Gandhi murder go back home from Katunayake
-
-*2024-04-03 19:35:17* · [`adalk`](https://www.ada.lk/breaking_news/රජිව්-ගාන්ධි-ඝාතනයට-සම්බන්ධ-සැකකරුවන්-කටුනායකින්-ගෙදර-යයි/11-408932) · `si`
-
-Three Tamil suspects in Rajiv Gandhi's murder were arrested at Katunayake Airport, held for over 6 hours, and released at 5:15 pm. They left in three vans to their villages.
-
-🟩
-
-The three Tamils who were arrested for the murder of former Prime Minister Rajiv Gandhi were arrested by the Katunayake airport in the Katunayake Airport for more than 6 hours and were taken to release the posts of Katunayake at 5:15 pm. Accordingly, the three of them left for three vans to their villages.
-
-◼️
-
-[Data](articles/bda917f0.json)
-
-[Extended Data](ext_articles/bda917f0.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 23:18:37**
+As of **2024-04-04 23:33:45**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 2,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,213 (100.0%) of 17,214 articles have been extended.
+17,214 (100.0%) of 17,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### புனித யாத்திரிகர்களுக்கு சிறப்பு மருத்துவ சலுகை வழங்கி வரும் இளவரசர் சுல்தான் மருத்துவ மையம்
+### Prince Sultan Medical Center, which offers special medical privilege to pilgrims
 
 *2024-04-04 22:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180463) · `ta`
 
-இரு புனித தலங்களையும் தரிசிக்க ஆண்டுதோறும் வருவபர்களது யாத்திரிகையை இலகுபடுத்தும் வகையில் அதி உயர் சேவைகளை, சலுகைகளை தொடர்ந்தும் சவூதி அரேபிய அரசாங்கம் வழங்கி வருவது நாம் அறிந்ததே.
+The Prince Sultan Medical Center in Medina provides special medical privileges to pilgrims, offering emergency services and treatment to 12,159 patients, including 4,906 women and 7,253 men, with 37 patients referred to Ministry of Health hospitals. It features 8 clinics, two mobile clinics with 18 emergency beds, and operates as a treatment, nutritional, laboratory, and pharmaceutical center.
 
-அந்த வகையில் மதீனா நகரில் இளவரசர் சுல்தான் ஆயுதப்படை மருத்துவமனையின் பருவகால மருத்துவ மையமானது, புனித மஸ்ஜித் நபவியில், தரிசிக்க வருபவர்கள் மற்றும் குடிமக்களுக்கு மருத்துவ மற்றும் அவசர சிகச்சை சேவைகளை தொடர்ந்து வழங்கி வருகிறது.
+🟩
 
-இந்த மையம் கடந்த சனிக்கிழமை வரை அதன் சேவைகளின் பயனாளிகளின் எண்ணிக்கையை விவரிக்கும் வகையில் புள்ளிவிபரமொன்றை வெளியிட்டுள்ளது, இதில் 4,906 பெண்கள் மற்றும் 7,253 ஆண்கள் உட்பட மொத்தம் 12,159 நோயாளிகள், அவசர சிகிச்சை தேவையுடையவர்கள் பயன்பெற்றுள்ளனர். மேலும், 37 நோயாளிகள் அந்நாட்டு சுகாதார அமைச்சுடன் இணைந்த மருத்துவமனைகளுக்கு பரிந்துரைக்கப்பட்டன.
+We know that the Saudi Arabian government continues to offer high services and privileges to ease the pilgrimage of the people who visit both sacred places.
+
+In Medina, the Seasonal Medical Center of the Prince Sultan Armed Forces Hospital continues to offer medical and emergency services to the holy Masjid Nabhavi.
+
+The center has released a statistics to describe the number of beneficiaries of its services till last Saturday, of which 12,159 patients, including 4,906 women and 7,253 men, have benefited from emergency treatment.. In addition, 37 patients were nominated for hospitals affiliated with the Ministry of Health.
+
+The center has the most sophisticated facilities for maintaining patients with 8 clinics for providing medical and emergency services to those who visit the mosque.. It has two mobile clinic vehicles with 18 emergency monitoring beds and six monitoring beds each.
 
 ...
 
 [Data](articles/2cec23c2.json)
+
+[Extended Data](ext_articles/2cec23c2.ext.json)
 
 ---
 
@@ -1438,6 +1446,8 @@ From learning of the incident, I have seen suicide from two days, but suddenly I
 
 *2024-04-04 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98427/sacred-lord-buddha-relics-from-sri-lanka-presented-to-dalai-lama) · `en`
 
+#WATCH | Himachal Pradesh: Most Venerable Waskaduwe Mahindawamsa Nayaka Thero from of Kapilavastu Rajaguru Sri Sbhuthi Maha Vihara, Waskaduwa, Sri Lanka offers Gautama Buddha’s sacred relic to His Holiness the Dalai Lama.The Kapilavastu relics hold immense historical and… pic.twitter.com/U4Gri76RYv— ANI (@ANI) April 4, 2024
+
 Lord Buddha’s sacred Kapilavastu relics, situated at a holy temple in Sri Lanka, have been offered to the Dalai Lama on Thursday morning, the office of Dalai Lama said in a statement.
 
 The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa, a Buddhist temple in Sri Lanka.
@@ -1445,8 +1455,6 @@ The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa
 Notably, the Kapilavastu relics hold immense historical and spiritual significance, connecting the devotees to the profound legacy of Lord Buddha.
 
 The Sri Subhuthi Maha Viharaya in Waskaduwa houses 21 relics of the Lord Buddha.
-
-Waskaduwe Mahindawansa Maha Nayaka Thero is the custodian of these precious Kapilavastu relics, which have been preserved and protected for generations till now at Sri Subhuthi Maha Viharaya in Waskaduwa, Sri Lanka.
 
 ...
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 05:03:25**
+As of **2024-04-05 05:18:09**
 
 ## Newspaper Stats
 
-*Scraped **17,229** Articles*
+*Scraped **17,238** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 152
 bbccomsinhala | 179
 dbsjeyarajcom | 208
 newsfirstlk | 363
-dailyftlk | 929
+dailyftlk | 938
 islandlk | 943
 economynextcom | 957
 adalk | 1,456
@@ -26,11 +26,161 @@ adaderanasinhalalk | 2,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,229 (100.0%) of 17,229 articles have been extended.
+17,229 (99.9%) of 17,238 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### Open letter to President on rapid transformation of SL
+
+*2024-04-05 05:04:02* · [`dailyftlk`](https://www.ft.lk/opinion/Open-letter-to-President-on-rapid-transformation-of-SL/14-760326) · `en`
+
+The Presidential Media Division and the Daily News released press releases and media news items titled “Country set for rapid transformation into an export economy” quoting remarks made by you at the inauguration ceremony of a historic temple in Kegalle.
+
+As a caring citizen I said, “three cheers”, happily thinking that at last, the country was on the correct governance path focusing on the creation of new strategic leadership options and policy changes to encourage present and new investors to produce tradable goods and engage in external services. I was delighted that the statement began with a reference that Sri Lanka can no longer continue to rely on borrowings (presumably external?) to address the imbalance between imports and exports, which if pursued will inevitably lead to another economic crisis within a decade.
+
+...
+
+[Data](articles/1e95c7f7.json)
+
+---
+
+### Kachchativu: Enigma of a barren island
+
+*2024-04-05 05:01:56* · [`dailyftlk`](https://www.ft.lk/opinion/Kachchativu-Enigma-of-a-barren-island/14-760324) · `en`
+
+Sri Lanka’s sovereignty over the island was based on specific historical documentation, the consistent exercise of
+
+Pathfinder Foundation renews call for establishing a marine research station
+
+Now and then, Kachchativu island, lying halfway between the islands of Rameswaram (India) and Delft (Neduntheevu – Sri Lanka), has been hitting the news headlines. Mainly, such interests are evinced when several of the hundreds of Indian trawlers that cross the International Boundary Line (IMBL) three times a week and engage in bottom trawling in Sri Lankan waters get arrested for a variety of offences, including illegal entry into Sri Lankan waters, engaging in fishing without licenses and practising bottom trawling, which is an offence in Sri Lanka.
+
+...
+
+[Data](articles/9d91e9b0.json)
+
+---
+
+### Broad set of policies needed to reduce gender pay gap in Sri Lanka
+
+*2024-04-05 04:58:23* · [`dailyftlk`](https://www.ft.lk/columns/Broad-set-of-policies-needed-to-reduce-gender-pay-gap-in-Sri-Lanka/4-760323) · `en`
+
+In almost all sectors and occupations, women tend to earn, on average, less than men, despite generally having higher educational attainments – Pic by Shehan Gunasekara
+
+Wage disparities between men and women remain significant in Sri Lanka and have not significantly closed in the last decade. Renewed policy efforts can close this persistent yet remediable gender gap to promote a more inclusive economic recovery
+
+In most countries around the world, women earn substantially less than men. At the global level, the gender pay gap is estimated at 20%. This issue concerns countries across all geographical regions, regardless of their stage of economic development.
+
+...
+
+[Data](articles/3cac3072.json)
+
+---
+
+### Build to scale
+
+*2024-04-05 04:54:03* · [`dailyftlk`](https://www.ft.lk/columns/Build-to-scale/4-760322) · `en`
+
+Develop an engine which can generate more revenue at decreasing marginal cost with the right DNA
+
+Growth is the fundamental focal point behind any business decision. However, whether businesses achieve meaningful growth is the big question today. For the growth to be meaningful it has to come at a decreasing marginal cost. Meaningful growth happens only where businesses build with scalable DNA. This thinking has to be calculated into the business at the startup conceiving stage itself.
+
+...
+
+[Data](articles/92cc2816.json)
+
+---
+
+### Sustainability in business – or corporate greenwash
+
+*2024-04-05 04:50:19* · [`dailyftlk`](https://www.ft.lk/columns/Sustainability-in-business-or-corporate-greenwash/4-760321) · `en`
+
+‘Sustain’ is derived from Latin and it means hold up or support. Its etymology suggests endurance without yielding; continuity without downfall. Sustainability, by extension, may well be the capability of sustaining, but in common speech and in commercial jargon it has become a vague and abused term, laying claim to a plethora of definitions. What then does sustainability mean, and what should it mean in business? What ought we sustain, and does sustenance suffice?
+
+The need to address sustainability in business arose because irresponsibility in commerce and industry have led inter alia to scarcity of clean water, drain of natural resources, ill health of communities, strained employees and landfills of unsold produce – not only when mistakes have occurred, but even when operating as designed and being economically profitable.
+
+...
+
+[Data](articles/6bfebca4.json)
+
+---
+
+### BASL expresses concern over Maithri’s statement on Easter attacks
+
+*2024-04-05 04:44:56* · [`dailyftlk`](https://www.ft.lk/news/BASL-expresses-concern-over-Maithri-s-statement-on-Easter-attacks/56-760320) · `en`
+
+Says statement and lack of accountability raises concerns about security lapses that led to these attacks
+
+Stresses it is deeply concerned by nonchalance surrounding investigation into Easter Sunday attacks
+
+The Bar Association of Sri Lanka (BASL) has expressed concern regarding the recent statement by former President Maithripala Sirisena concerning his knowledge of the mastermind behind the terror attacks on Easter Sunday in 2019.
+
+This statement, coupled with the ongoing lack of accountability for these heinous acts, raises serious questions about potential security lapses that led to the death of innocent civilians.
+
+The BASL reiterated its commitment to upholding the rule of law and ensuring justice for the victims.
+
+“In this spirit, the BASL filed a Fundamental Rights application, against the former President, other members of the leadership, and senior officials for their failure to discharge their fundamental duties towards the people of our country,” the organisation said.
+
+...
+
+[Data](articles/679bd728.json)
+
+---
+
+### President credits Govt.’s favourable environment for allowing public participation in politics
+
+*2024-04-05 04:42:43* · [`dailyftlk`](https://www.ft.lk/news/President-credits-Govt-s-favourable-environment-for-allowing-public-participation-in-politics/56-760319) · `en`
+
+Opens International Gem and Jewellery Trade Centre, known as the Ratnapura Gem Tower
+
+President Ranil Wickremesinghe yesterday emphasised that the government’s  prudent decisions over the past two years have bolstered the nation’s  economy, providing a favourable environment for political activities  on the streets.
+
+However, he cautioned that the economy still faces  challenges, urging citizens to weigh the choice of either continuing  with the Government’s initiatives for prosperity or risking regression.
+
+Highlighting a remarkable increase of over 50% in government income in  2023 compared to 2022, President Wickremesinghe underscored the  conducive backdrop for advancing confidently with a robust economy.
+
+These remarks were made during his attendance at the inauguration of  the International Gem and Jewellery Trade Centre, known as the Ratnapura Gem Tower.
+
+...
+
+[Data](articles/2f6189d5.json)
+
+---
+
+### G.L and others to sign political pact with SJB today
+
+*2024-04-05 04:41:31* · [`dailyftlk`](https://www.ft.lk/news/G-L-and-others-to-sign-political-pact-with-SJB-today/56-760318) · `en`
+
+The main opposition party, Samagi Jana Balawegaya (SJB) yesterday announced that dissident Sri Lanka Podujana Peramuna (SLPP) MPs including Prof. G.L Peiris and several others will sign a coalition agreement with the party today.
+
+Addressing a press conference yesterday SJB Deputy National Organiser S.M Marikkar said this was yet another step in the party’s effort to form the broadest political alliance in Sri Lanka’s political history.
+
+Marikkar noted that the coalition’s focus extends beyond the upcoming elections, encompassing agreements on various policies and reforms essential for the formation of a future government. “More groups will join with us going forward,” he said.
+
+However, the SJB MP declined to disclose the identities of the groups intending to join the party.
+
+◼️
+
+[Data](articles/4a634b56.json)
+
+---
+
+### Committee on High Posts approves four new Ambassadors, two Ministry Secretaries, two Chairpersons
+
+*2024-04-05 04:40:24* · [`dailyftlk`](https://www.ft.lk/news/Committee-on-High-Posts-approves-four-new-Ambassadors-two-Ministry-Secretaries-two-Chairpersons/56-760317) · `en`
+
+The Committee on High Posts has approved the appointments of four new ambassadors, two ministry secretaries and two chairpersons of institutions.
+
+Accordingly, the Committee on High Posts has approved the appointment of  W.A.U.P. Prerera as the new Sri Lankan ambassador to the Socialist Republic of Vietnam and T. P. Dharmasena as the new Ambassador of Sri Lanka to the Republic of Poland, the appointment of  E.A.S.W. Edirisinghe as the new Sri Lankan ambassador to Thailand, and  P.A.P Ponnamperuma as the new Sri Lankan Ambassador to the Republic of the Union of Myanmar were also approved by the Committee on High Posts.
+
+In addition, the Committee has approved the appointments of (Eng) R.G. Rubasinghe as the new Secretary to the Ministry of Transport and Highways and K.N.K. Somaratne as the new Secretary to the Ministry of Fisheries.
+
+...
+
+[Data](articles/2609f8e6.json)
+
+---
 
 ### A face-off that promises a surprise ending - EDITORIAL
 
@@ -2163,199 +2313,5 @@ Colombo Chief Magistrate Prasanna Alwis issued a conditional order in favour of 
 [Data](articles/0125c126.json)
 
 [Extended Data](ext_articles/0125c126.ext.json)
-
----
-
-### First application under Online Safety Act filed before Court
-
-*2024-04-04 15:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-application-under-Online-Safety-Act-filed-before-Court/108-280187) · `en`
-
-The first application under the newly enacted Online Safety Act was made to the Colombo Chief Magistrate’s Court and Court issued a conditional order preventing respondent parties from communicating alleged false information against former Chairman of the Public Utilities Commission (PUCSL) Janaka Ratnayake.
-
-Colombo Chief Magistrate Prasanna Alwis issued a conditional order in favour of the Petitioner Janaka Ratnayake in terms of Section 24 (1) and Section 24 (2) of the Online Safety Act No. 09 of 2024 and directed that the order be communicated to the Respondents Gayathri Bimba, Janaka Rajapaksha, Oshala Herath and several others by electronic means as provided for in Section 24 (4) of the Act.
-
-...
-
-[Data](articles/433d4e60.json)
-
-[Extended Data](ext_articles/433d4e60.ext.json)
-
----
-
-### Teachers can never allow the harassment of students - the Governor of the Northern Province
-
-*2024-04-04 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/180435) · `ta`
-
-Governor BSM Charles of the Northern Province condemns student harassment, emphasizing the importance of teacher-student relationships and the need for special training for teachers. Strict actions will be taken against unaware teachers to prevent future incidents.
-
-🟩
-
-A special announcement has been made by Governor of the Northern Province BSM Charles as harassment is on the rise in the name of punishment against school children.
-
-Teachers who have to carry out teaching activities and enrich the students, have been admitted to hospitals in recent years.. In the last few months, the governor's secretariat has been investigated and subsequently sacked.
-
-Immediate inquiries have been launched in accordance with the Hon.
-
-In accordance with the claim of "the Lord of the literate", the teachers who can be admired as the Lord can never accept the suffering of the students.
-
-Students who are facing problems with learning need to be identified as how to engage in learning and carry out their learning activities.
-
-This is why special training for teachers is provided, the government is given a teacher appointment and monthly allowance.
-
-...
-
-[Data](articles/74bd8409.json)
-
-[Extended Data](ext_articles/74bd8409.ext.json)
-
----
-
-### Duminda, Lasantha and Amaraweera extend invitation for ‘new journey’ with SLFP
-
-*2024-04-04 15:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98425/duminda-lasantha-and-amaraweera-extend-invitation-for-new-journey-with-slfp) · `en`
-
-Former National Organiser of the Sri Lanka Freedom Party (SLFP) MP Duminda Dissanayake says they are inviting everyone to join a new journey with the SLFP.
-
-MPs Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera, who were recently removed from their respective positions within the party, had called a ‘Sri Lanka Freedom Party’ press conference today (04), against the backdrop where a court order was issued preventing former President Maithripala Sirisena from functioning as the party’s chairman.
-
-The press conference was held at the SLFP Headquarters in Colombo 10.
-
-Speaking further, they emphasized: “Former President Chandrika Bandaranaike had resorted to legal action as she could not wait and see this destruction [of the SLFP]. Accordingly, an injunction has been issued on Maithripala Sirisena, preventing him from functioning as the party’s chairman.”
-
-◼️
-
-[Data](articles/9f2c4ede.json)
-
-[Extended Data](ext_articles/9f2c4ede.ext.json)
-
----
-
-### A powerful earthquake in Japan
-
-*2024-04-04 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195294) · `si`
-
-A powerful earthquake struck Japan, 32 km deep.
-
-🟩
-
-It is said that the earthquake is about 32 kilometers in the interior of the earth.
-
-◼️
-
-[Data](articles/e2897982.json)
-
-[Extended Data](ext_articles/e2897982.ext.json)
-
----
-
-### Israeli-American double standard reveals from the murder of Gaza relief
-
-*2024-04-04 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195293) · `si`
-
-The Israeli-American double standard is highlighted by the murder of Gaza relief workers, with many countries criticizing Israel's actions. The WCK founder claimed clear communication with the Israeli military, but their vehicles were attacked, resulting in the death of Australian, British, and American citizens. The incident has sparked international outrage, with calls for investigation and increased protection for humanitarian workers.
-
-🟩
-
-There is still a global territory called a humanitarian mission in a humanitarian mission to quit the hungry of the Gaza, which is a murder of the massacre, is still in the world.
-
-Many countries prompted the Israeli facts about the situation in the case of their chief assistant America, the Israeli attack is not acceptable.
-
-Worse Central Kachan or WK NGOs Celebrity Chefs says that Israeli cannot be believed to be targeted in the unknowing employees of his organization.
-
-Gaseen Araz added that they maintained clear communication with the Israeli military and that Israeli troops know their places well.
-
-The WCK founder explained that they were traveling in a text of a chain of vehicles, with 1.5 and 1.8 miles [1.8 km] as a humanitarian aid organization.
-
-He added that he will follow them and what is done.
-
-He said the IDF or the Israeli security army knew the trajectory of this Humanitarian Organization.
-
-...
-
-[Data](articles/821648a9.json)
-
-[Extended Data](ext_articles/821648a9.ext.json)
-
----
-
-### Sri Lanka minister apologizes for forced cremation of Muslims
-
-*2024-04-04 14:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-apologizes-for-forced-cremation-of-muslims-157570/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Minister of Water Supply and Estate Infrastructure Jeevan Thondaman has issued an apology for the government’s decision to cremate bodies during the Covid-19 pandemic.
-
-“During this holy month of Ramadan, I extend my heartfelt apology to our Muslim brothers and sisters for the harm caused by the mandatory cremation policy during the COVID-19 pandemic,” Thondaman said on X (twitter).
-
-Thondaman said that after he took responsibility as Minister for the water sector last year, he requested officials to conduct an independent study to determine whether there was any truth to the allegations of risk to ground water contamination by burials of those who succumbed to COVID-19.
-
-“The findings of this study have now proven to us that the concerns regarding water contamination were misguided and the decision to forcefully cremate those who succumbed to COVID-19 was not based on any science.”
-
-...
-
-[Data](articles/d7c6c198.json)
-
-[Extended Data](ext_articles/d7c6c198.ext.json)
-
----
-
-### SC decides to hear FR petition against policemen involved in Narammala shooting
-
-*2024-04-04 14:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-decides-to-hear-FR-petition-against-policemen-involved-in-Narammala-shooting/108-280186) · `en`
-
-Colombo, April 4 (Daily Mirror)- The Supreme Court today granted leave to proceed with the Fundamental Rights petition filed by the widow of the carpenter who died in the Narammala police gunfire during the 'Yukthiya Operation'.
-
-The deceased Roshan Kumarasiri was shot dead by Sub Inspector Gunawardena who was on duty in civvies when the deceased was returning home after work.
-
-In her fundamental rights application, the petitioner Kamani Rupika Priyangani is seeking a compensation of Rs. 200 million from the police officers including IGP Deshabandu Tennakoon.
-
-The Supreme Court issued notices on the respondents and fixed the matter for argument on November 25.
-
-The Attorney General's Department has decided not to appear on behalf of the respondent police officers who were involved in the Narammala police shooting.
-
-◼️
-
-[Data](articles/220a87e2.json)
-
-[Extended Data](ext_articles/220a87e2.ext.json)
-
----
-
-### The next highest number of preferential preferential Village
-
-*2024-04-04 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195292) · `si`
-
-Weerasena Gamage, Anuradhapura District Parliamentarian, is set to receive the next highest preferential votes for the Nandasena seat. Nandasena, a minister and first-time MP, passed away after hospitalization.
-
-🟩
-
-Anuradhapura District Parliamentarian. Weerasena Gamage is due to obtain the next highest preferential votes list for the vacant seat of Nandasena.
-
-Sri Lanka Known Knowledge of Anuradhapura District Parliamentarian and District Coordinating Committee of Anuradhapura. Nandasena passed away this morning.
-
-The relatives of the family stated that he was killed after hospitalization after being hospitalized.
-
-He was a minister of the North Central Provincial Council and was elected to Parliament for the first time in 2020.
-
-◼️
-
-[Data](articles/ac6c6054.json)
-
-[Extended Data](ext_articles/ac6c6054.ext.json)
-
----
-
-### Damitha, her husband arrested by CID
-
-*2024-04-04 14:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Damitha-her-husband-arrested-by-CID/108-280185) · `en`
-
-Colombo, April 4 (Daily Mirror)- Actress Damitha Abeyratne and her husband were arrested by the Criminal Investigations Department (CID) this morning.
-
-They were arrested while they were leaving the court after filing a motion in connection with the case where they had allegedly defrauded Rs. 3 million by promising to provide job opportunities in Korea.
-
-◼️
-
-[Data](articles/3a2b62a4.json)
-
-[Extended Data](ext_articles/3a2b62a4.ext.json)
 
 ---

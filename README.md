@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 11:18:23**
+As of **2024-04-04 11:34:00**
 
 ## Newspaper Stats
 
-*Scraped **17,057** Articles*
+*Scraped **17,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,48 +15,164 @@ newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
 economynextcom | 944
-adalk | 1,435
-tamilmirrorlk | 2,025
-adaderanalk | 2,043
-virakesarilk | 2,464
-dailymirrorlk | 2,623
-adaderanasinhalalk | 2,752
+adalk | 1,436
+tamilmirrorlk | 2,027
+adaderanalk | 2,044
+virakesarilk | 2,465
+dailymirrorlk | 2,624
+adaderanasinhalalk | 2,753
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,056 (100.0%) of 17,057 articles have been extended.
+17,057 (100.0%) of 17,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### සුපිරි ඉන්දීය ක්‍රීඩකයා ට ක්‍රීඩාලෝලීන් හූ කියන්නේ ඇයි ?
+### 21 හැවිරිදි තරුණයෙක් සිව් මසක් පුරා අතුරුදන්
 
-*2024-04-04 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195282) · `si`
+*2024-04-04 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195283) · `si`
 
-ඉන්දීය ප්‍රිමියර් ලීග් තරගාවලිය ලොව ධනවත්ම ෆ්රැන්චයිස් ක්‍රිකට් තරගාවලියයි. 2024 තරගාවලිය මේ වනවිට පැවැත්වෙයි.
+හැටන් නගරයේ බස් නැවතුම්පොළේ ආහාර පාන අලෙවි කරමින් සිටි 21 හැවිරිදි තරුණයෙක් සිව් මසක් පුරා අතුරුදන් වී ඇතැයි හැටන් පොලීසියට පැමිණිල්ලක් ලැබී තිබේ.
 
-ඒ අතුරින් විශේෂතම සිදුවීමක් සිදුවෙමින් පවතියි. ඒ මුම්බායි ඉන්දියන්ස් කණ්ඩායමේ නායකයා ලෙස කටයුතු කරන හර්දික් පාන්ඩ්‍යා ට එල්ලවෙමින් පවතින විරෝධය යි.
+හැටන් බස් නැවතුම්පොලේ වඩේ ඇතුළු සුළු ආහාර අලෙවි කරමින් ජිවන උපාය සිදුකරගෙන යන තමන්ට දරුවන් තිදෙනෙකු සිටින බවත්, ඉන් වැඩිමහල් පුතා වන ආර්. මහමුද් නැමැත්තා පසුගිය දෙසැම්බර් 13 වන දින සිට අතුරුදන්ව ඇතැයි එම පියා විසින් පොලීසියට පැමිණිලි කර තිබේ.
 
-තුන් ඉරියාවෙන් අතිදක්ෂයෙක් වන පාන්ඩ්‍යා, 2021 වසර දක්වා මුම්බායි ඉන්දියන්ස් කණ්ඩායමේ ක්‍රීඩා කළ අතර 2022 සහ 2023 වසර වලදී ගුජරාට් ඉන්දියන්ස් කණ්ඩායමේ නායකත්වය දැරීය.
+වෙළෙඳාම් කටයුතු සඳහා උපකාර කිරීමට යන බව පවසා අදාළ තරුණයා නිවසින් පිටව ගොස් ඇති අතර, මේ සම්බන්ධයෙන් දෙසැම්බර් 15 වන දින පියා විසින් පොලීසියට පැමිණිල්ල ඉදිරිපත් කර තිබිණි.
 
-නමුත් ඔහුව 2024 තරගාවලිය සඳහා නැවතත් මුම්බායි ඉන්දියන්ස් කණ්ඩායම සමග එක්වූයේ කවුරුත් බලාපොරොත්තු නොවූ ආකාරයට ය.
+පුතාගේ අතුරුදන් වීම සම්බන්ධයෙන් හැටන් පොලීසිය සිදුකරන විමර්ශනවලට අමතරව තමන් ද සිය දරුවා සොයා ඥාති නිවාසවලට ගිය බවත්, තම දරුවා පිළිබඳ කිසිදු තොරතුරක් මේ වන තෙක් ලැබී නොමැති බවත් පියා පවසයි.
 
-ඔහුට මුම්බායි ඉන්දියන්ස් කණ්ඩායමේ නායකත්වයද පැවරිණි. ඒ රෝහිත් ශර්මා ව ඉවත්කරමිනි. රෝහිත් ශර්මා ඉන්දීය 20/20, එක්දින සහ ටෙස්ට් ක්‍රිකට් කණ්ඩායම්වල ද නායකයාය.
-
-එහෙත් එම තීරණය මුම්බායි ඉන්දියන්ස් ක්‍රීඩාලෝලීන් හොඳින් භාරගත් බවක් නොපෙනෙයි. ඔවුන් සිය තරහ පිරිමසා ගන්නේ පාන්ඩ්‍යා ට හූ කීමෙන් උසුළු විසුළු කිරීමෙනි.
+අතුරුදන් වී ඇති තරුණයා සම්බන්ධයෙන් අප හැටන් පොලීසියේ මුලස්ථාන ප්‍රධාන පොලිස් පරීක්ෂක රංජිත් ජයසේන මහතාගෙන් කළ විමසීමේදී ඔහු පවසා සිටියේ, පොලීසිය මේ වනවිටත් අංශ කිහිපයක් ඔස්සේ විමර්ශන සිදුකරන බවය.
 
 ...
 
-[Data](articles/380afd03.json)
+[Data](articles/848fc7e2.json)
+
+---
+
+### போதகரின் வழக்கில் தீர்ப்பை அறிவித்தது நீதிமன்றம்
+
+*2024-04-04 11:15:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதகரின்-வழக்கில்-தீர்ப்பை-அறிவித்தது-நீதிமன்றம்/175-335601) · `ta`
+
+சர்ச்சைக்குரிய போதகர் ஜெரோம் பெர்னாண்டோவுக்கு விதிக்கப்பட்ட பயணத் தடையை கொழும்பு கோட்டை நீதவான் நீதிமன்றம் தற்காலிகமாக நீக்கியுள்ளது.
+
+கடந்த ஆண்டு மே மாதம் சபைக்கு முன்பாக, பௌத்தம், இஸ்லாம் மற்றும் இந்து மதம் குறித்து அவதூறான கருத்துக்களை வெளியிட்ட குற்றச்சாட்டின் பேரில், போதகர் பெர்னாண்டோ 2023 டிசம்பரில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டார்.
+
+பல நாடுகளுக்கு செல்ல வேண்டியதன் அவசியத்தை நீதிமன்றத்திற்கு தெரிவித்தையடுத்து நீதிமன்றம், அந்த கோரிக்கையை கருத்தில் கொண்டு, பிணை நிபந்தனைகளுக்கு உட்பட்டு, பயணத்தடையை தற்காலிகமாக நீக்கியது.
+
+◼️
+
+[Data](articles/15ee6c48.json)
+
+---
+
+### புத்தளத்தில் மான் இறைச்சியுடன் நபரொருவர் கைதுசெய்யப்பட்டு பிணையில் விடுதலை
+
+*2024-04-04 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180395) · `ta`
+
+புத்தளம் கல்லடி மீ ஓயா ஆற்றுப் பகுதியில் நேற்று புதன்கிழமை (03) காலை மான் இறைச்சியுடன் நபரொருவர் புத்தளம் வனஜீவராசிகள் கட்டுப்பாட்டுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+
+மானை வேட்டையாடி இறைச்சியை வெட்டிக் கொண்டிருப்பதாக வனஜீவராசிகள் திணைக்களத்தினருக்குக் கிடைக்கெப்பெற்ற தகவலுக்கமைய குறித்த பகுதியில் சுற்றிவளைப்பை மேற்கொண்டனர்.
+
+இதன்போது ஒருவர் கைது செய்யப்பட்டதுடன், 15 கிலோ கிராம் இறைச்சி, மான் தலை, மான்தோல், தராசு மற்றும் கத்திகள் கைப்பற்றப்பட்டுள்ளன.
+
+கைது செய்யப்பட்ட சந்தேக நபர் கல்லடி பகுதியைச் சேர்ந்தவரென வனஜீவராசிகள் கட்டுப்பாட்டுப் பிரிவினர் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபரையும் கைப்பற்றப்பட்ட இறைச்சி மற்றும் ஏனைய பொருட்களையும் நேற்றைய தினம் புத்தளம் நீதிமன்றத்தில் ஒப்படைக்கப்பட்டன.
+
+இதன்போது பதில் நீதிவானாக கடமையாற்றிய மொஹமட் இக்பால் பிணையில் விடுவிப்பதற்கு உத்தரவு பிறப்பித்ததுடன், எதிர் வருகின்ற 30 ஆம் திகதி வரை வழக்கு ஒத்திவைக்கப்பட்டுள்ளதாக அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/d6b9621d.json)
+
+---
+
+### Immediate investigation into unregistered doctors and medical centres
+
+*2024-04-04 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98414/immediate-investigation-into-unregistered-doctors-and-medical-centres) · `en`
+
+The Ministry of Health has decided to launch an immediate investigation in search of the fake doctors and illegal medical centres operative in the country. This decision has been taken after taking into account the complaints received regarding the matter.
+
+It is mandatory for all doctors to register themselves with the Sri Lanka Medical Council (SLMC), while the private medical institutions are required to be registered at the provincial level.
+
+However, the Ministry of Health stated that complaints have been received regarding a number of unregistered doctors and medical centres being operated across the island.
+
+Accordingly, the Director General of Health Services has instructed all provincial and district level authorities to initiate an immediate investigation into the matter, and to take strict legal action against all unregistered doctors and private medical institutions.
+
+...
+
+[Data](articles/83cd4cfa.json)
+
+---
+
+### දඩයම්කරුවෙකු  අටවා තිබු  මන්දකට හසු වි තවත් කදුකර කොටියෙකු ජිවිතක්ෂයට
+
+*2024-04-04 11:11:13* · [`adalk`](https://www.ada.lk/breaking_news/දඩයම්කරුවෙකු--අටවා-තිබු--මන්දකට-හසු-වි-තවත්-කදුකර-කොටියෙකු-ජිවිතක්ෂයට/11-408942) · `si`
+
+දඩයම්කරුවෙකු විසින් තේ වත්තේ අටවා තිබු මන්දකට හසුවි මියගොස් සිටි කදුකර කොටියෙකුගේ සිරුරක් 03 දින හමු වු බව නල්ලතන්නිය වනජිවි කාර්යාලයේ නිලධාරින් පැවසිය.
+
+නොර්වුඩ් පොලිස් වසමට අයත් රොක්වුඩ් වතුයායේ තේ වත්තේ අටවා තිබු කම්බි මන්දකට කදුකර කොටියා හසු වි දින ගණනාවක් ගත විම නිසා කදුකර කොටියා ජිවිතක්ෂයට පත් වි සිරුර දැඩි ලෙන නරක් වි තිබු බවයි වනජිවි නිලධාරින් කියා සිටියේ.
+
+ජිවිතක්ෂයට පත් කදුකර කොටියාගේ සිරුර එම වතුයායේ වතු කම්කරු විසින් දැක ඒ බව තම කාර්යාලය වෙත දැනුම් දුන් බවත්, කදුකර කොටියාගේ සිරුර හැටන් මහෙස්ත්‍රාත්වරයා වෙත ඉදිරිපත් කර සිරුර පශ්චාත් මරණ පරික්ෂණය සදහා රණ්දෙණිගල වනජිවි පශු වෛද්‍ය රෝහල වෙත යොමු කල බව නල්ලතන්නිය වනජිවි කාර්යාලයේ නිලධාරින් පැවසිය.
+
+මියගිය කදුකර කොටියා කමිබි මන්දට හසුවිම නිසා ගෙල සිර වි මියගොස් ඇති බවත්, අවුරුදු 4-5 අතර වයසක් ඇති මියගිය කදුකර කොටියා ගැහැණු සතෙකු බවයි පශ්චාත් මරණ පරික්ෂණය සිදු කල රණ්දෙණිගල පශු වෛද්‍ය රෝහලේ වෛද්‍ය අකලංක පිණිදෙණිය මහතා කියා සිටියේ.
+
+...
+
+[Data](articles/61483e09.json)
+
+---
+
+### Recovery of cannabis in Vavuniya with millions of cash
+
+*2024-04-04 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180387) · `ta`
+
+In Vavuniya, police recovered 9kg cannabis and 1.95M rupees, arresting three men, including a 27-year-old from Nedungeni. The case, led by Police Inspector Rishvi, will be presented to the Magistrate's Court after investigation.
+
+🟩
+
+In Vavuniya, the cannabis has been recovered and the three have been arrested.
+
+Based on the confidential information received by the Vavuniya Special Criminal Investigation Police, the police have recovered nine kilograms of cannabis and nineteen hundred and fifty thousand rupees.
+
+In addition, a 27 -year -old man from Nedungeni, Vavuniya, who was traveling in the car, has been arrested as a 25 -year -old man from Otisuttan and a 34 -year -old man from Vavuniya.
+
+It is also worth noting that the arrest of a team led by Police Inspector Rishvi, the police officer in charge of the Vavuniya Crime Branch, will be brought before the Magistrate's Court after completing the investigation.
+
+◼️
+
+[Data](articles/825eddf7.json)
+
+[Extended Data](ext_articles/825eddf7.ext.json)
+
+---
+
+### Defence Ministry declares month-long general amnesty for Tri Forces absentees
+
+*2024-04-04 11:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Defence-Ministry-declares-month-long-general-amnesty-for-Tri-Forces-absentees/108-280170) · `en`
+
+Colombo, April 4 (Daily Mirror) - The Ministry of Defence has declared a month-long General Amnesty from 20 April to 20 May (2024) to Tri-Forces absentees, enabling them to receive an official discharge from their respective services.
+
+Accordingly, Tri-Forces absentees will be able to receive their discharge from military service and any financial obligations or amount due should be settled prior to their discharge.
+
+The Ministry said that the general amnesty is applicable to absentees who have been Absent without Official Leave (AWOL) prior to 02 April 2024.
+
+Absentees who are presently abroad can also obtain discharge without reporting to their respective regiments conforming to following requirements:
+
+Those seeking discharge should have no pending disciplinary actions taken against them apart from that of being AWOL.
+
+...
+
+[Data](articles/d137e5ed.json)
 
 ---
 
 ### Sri Lanka Human Rights Commission invitation to Tellippalai Police Station
 
-*2024-04-04 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180392) · `ta`
+*2024-04-04 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180392) · `ta`
 
 The Jaffna Office of the Sri Lanka Human Rights Commission has summoned the Jaffna Human Rights Commission and Tellippalai Union College students and teachers to appear tomorrow at 2.30 pm.
 
@@ -73,6 +189,56 @@ Tellippalai Union College students and teachers have been summoned by the Jaffna
 [Data](articles/9973c477.json)
 
 [Extended Data](ext_articles/9973c477.ext.json)
+
+---
+
+### பாராளுமன்றத்தைக் கலைக்கும் முயற்சி தோல்வி
+
+*2024-04-04 11:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தைக்-கலைக்கும்-முயற்சி-தோல்வி/175-335599) · `ta`
+
+113 எம்.பி. க்களின் எண்ணிக்கையை திரட்ட முடியாத நிலையில், தீர்மானம் நிறைவேற்றி பாராளுமன்றத்தை கலைக்க சில எம்.பி.க்கள் மேற்கொண்ட முயற்சி தோல்வியடைந்துள்ளதாக பெயர் வெளியிட விரும்பாத பாராளுமன்ற உறுப்பினர் ஒருவர் தெரிவித்தார்.
+
+முன்னதாக, ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தலைவர் பசில் ராஜபக்ச, ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடனான சந்திப்பின் போது, ​​இந்த ஆண்டு ஒக்டோபர் மாதம் அரசியலமைப்பு ரீதியாக திட்டமிடப்பட்டுள்ள ஜனாதிபதித் தேர்தலுக்கு முன்னதாக பாராளுமன்றத்தை கலைத்து பொதுத் தேர்தலை அறிவிக்குமாறு கோரினார்.
+
+பின்னர், ஜனாதிபதி தேர்தலுக்கு முன்னர் பாராளுமன்ற தேர்தலுக்கு ஜனாதிபதி செல்லமாட்டார் என டெய்லி மிரர் பிரத்தியேகமாக செய்தி வெளியிட்டிருந்தது. இந்த பின்னணியில், ராஜபக்சேவுக்கு விசுவாசமான சில எம்.பி.க்கள், பாராளுமன்றத்தில் ஒரு தீர்மானத்தை நிறைவேற்றி, அவையை கலைத்து, முன் கூட்டியே பொதுத் தேர்தலுக்குச் செல்ல வேண்டும் என்று வலியுறுத்தினார்கள்.
+
+எவ்வாறாயினும், பெரும்பாலான பாராளுமன்ற உறுப்பினர்கள் முன்கூட்டியே பொதுத் தேர்தலுக்கு தயாராக இல்லாத காரணத்தினால் இந்த முயற்சி தோல்வியடைந்துள்ளது.
+
+...
+
+[Data](articles/c7c4efa0.json)
+
+---
+
+### Why is the Super Indian Player player playing?
+
+*2024-04-04 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195282) · `si`
+
+Harcick Pandya, Mumbai Indians' captain, was removed by Rohith Sharma, leading to controversy. Despite initial backlash, Pandya rejoined for the 2024 IPL, sparking debate on Mumbai Indians' decision.
+
+🟩
+
+The world's richest Franchise Cricket Tournament in the Indian Premier League. The 2024 tournament will be held.
+
+The best event is happening. It is objection to Harcick Pandya, who is the leader of the Mumbai Indians.
+
+The mumbai Indians played in the Mumbai Indians from 2022 and 2023 and 2023 and 2023.
+
+But he again joined the Mumbai Indians again for the 2024 tournament.
+
+He was the captain of Mumbai Indians. He was removed from Rohitha Sharma. The Hehith Sharma is also the leader of Indian 20/20, ODI and Test teams.
+
+But that decision does not appear that Mumbai Indians acted well. They make their angry by throwing away from the hosting of Pandar.
+
+Mumbai Indians participated in Ahmedabad, Hyderabad and Mumbai. Pandya did not receive a salvage from the lovers of sports.
+
+But Ravichandran, who is the act of Indian team, says that the sports lackin has overcome their limits and raised an unnecessary problem.
+
+◼️
+
+[Data](articles/380afd03.json)
+
+[Extended Data](ext_articles/380afd03.ext.json)
 
 ---
 
@@ -101,30 +267,6 @@ He said that they targeted us in the War Sun area. The area was found under the 
 [Data](articles/8849c937.json)
 
 [Extended Data](ext_articles/8849c937.ext.json)
-
----
-
-### Recovery of cannabis in Vavuniya with millions of cash
-
-*2024-04-04 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180387) · `ta`
-
-In Vavuniya, police recovered 9kg cannabis and 1.95M rupees, arresting three men, including a 27-year-old from Nedungeni. The case, led by Police Inspector Rishvi, will be presented to the Magistrate's Court after investigation.
-
-🟩
-
-In Vavuniya, the cannabis has been recovered and the three have been arrested.
-
-Based on the confidential information received by the Vavuniya Special Criminal Investigation Police, the police have recovered nine kilograms of cannabis and nineteen hundred and fifty thousand rupees.
-
-In addition, a 27 -year -old man from Nedungeni, Vavuniya, who was traveling in the car, has been arrested as a 25 -year -old man from Otisuttan and a 34 -year -old man from Vavuniya.
-
-It is also worth noting that the arrest of a team led by Police Inspector Rishvi, the police officer in charge of the Vavuniya Crime Branch, will be brought before the Magistrate's Court after completing the investigation.
-
-◼️
-
-[Data](articles/825eddf7.json)
-
-[Extended Data](ext_articles/825eddf7.ext.json)
 
 ---
 
@@ -2037,159 +2179,5 @@ While issuing a letter, he said the list includes Colombo National Hospital Depu
 [Data](articles/21f2f215.json)
 
 [Extended Data](ext_articles/21f2f215.ext.json)
-
----
-
-### 56% accidents on expressways caused by driver negligence: Minister
-
-*2024-04-03 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/56-accidents-on-expressways-caused-by-driver-negligence-Minister/108-280125) · `en`
-
-Colombo, April 3 (Daily Mirror) -The report from the committee assigned to investigate into State Minister Sanath Nishantha's recent accident on the Katunayake Expressway shows that 56 per cent of accidents on the expressway are caused by driver negligence.
-
-During his speech at an event organized for the official launch of the School Road Safety Club at the Ministry, Transport Minister Bandula Gunawardana remarked that since the implementation of the expressway system in the country, a rapid transportation network has been established. However, the unfortunate reality is that a significant number of fatalities are reported every year as a consequence.
-
-Following the recent accident of State Minister Sanath Nishantha on the Katunayake Expressway, several committees have been appointed by the Transport Ministry to investigate into the incident.
-
-...
-
-[Data](articles/c4da27e9.json)
-
-[Extended Data](ext_articles/c4da27e9.ext.json)
-
----
-
-### The President's action for Muslim students
-
-*2024-04-03 21:35:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-மாணவர்களுக்காக-ஜனாதிபதி-எடுத்த-நடவடிக்கை/175-335576) · `ta`
-
-President Ranil Wickremesinghe called for a review of Muslim schools' issues, including teacher shortage, classroom shortage, and lack of Sinhala teaching. He advised training for high-quality graduates and investigated land provision and new school construction.
-
-🟩
-
-President Ranil Wickremesinghe has called for action to review the issues facing Muslim schools.
-
-President Ranil Wickremesinghe made this directive during a discussion held at the Presidential Secretariat today (02) on the educational issues facing Muslim schools in Colombo.
-
-External Affairs Minister Ali Sabri and representatives of schools and organizations have spoken to the President on the issues facing Muslim schools in Colombo.
-
-The shortage of teachers, the shortage of the classrooms, the lack of teaching teaching in Sinhala, and the lack of schools in Muslims living in Muslims.
-
-...
-
-[Data](articles/300c2589.json)
-
-[Extended Data](ext_articles/300c2589.ext.json)
-
----
-
-### Call given to Kjepani Imran police officer
-
-*2024-04-03 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195271) · `si`
-
-Kjepani Imran, a police officer, was called to investigate a conversation between an organized crime leader and a drug dealer, captured by Ada Derana. The conversation was about the arrest of underworld members. Imran questioned the officer about the fate of the brother and the elder brother.
-
-🟩
-
-Ada Derana had received a sound of a conversation with an organized crime leader and a drug dealer.
-
-The conversation had been discussed in the discussion of the arrest of underworld members under the operation.
-
-Kjepani Imran asked the police officer as the brother and the elder brother would be abandoned.
-
-◼️
-
-[Data](articles/e520f460.json)
-
-[Extended Data](ext_articles/e520f460.ext.json)
-
----
-
-### Sajith says ready for debate with Anura
-
-*2024-04-03 21:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-says-ready-for-debate-with-Anura/108-280128) · `en`
-
-Colombo, April 3 (Daily Mirror) - Responding to the challenge by National Peoples Power (NPP) leader Anura Kumara Dissanayake for a public debate, Leader of the Opposition Sajith Premadasa said he is prepared for it.
-
-"I am always prepared for a debate as it is a feature of democracy. However, I like to tell those who call me for a debate to carry out programs like I do," he said reffering to his programmes where he distributes buses and IT equipment to schools and medical equipment to hospitals.
-
-◼️
-
-[Data](articles/12383528.json)
-
-[Extended Data](ext_articles/12383528.ext.json)
-
----
-
-### At least 9 dead, 800 injured in Taiwan earthquake; dozens still trapped under rubble
-
-*2024-04-03 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98405/at-least-9-dead-800-injured-in-taiwan-earthquake-dozens-still-trapped-under-rubble-) · `en`
-
-Rescue efforts are under way in Taiwan after a 7.4 magnitude earthquake struck the island’s eastern coast, killing at least nine and injuring more than 800.
-
-Some 127 people are trapped in collapsed tunnels and on mountainous roads along the rugged coastline.
-
-The epicentre was 18km (11 miles) south of Hualien city, but strong tremors were felt all the way in the capital Taipei, more than 100km away.
-
-It also triggered tsunami alerts earlier in the day in nearby Japanese and Philippine islands which were later retracted.
-
-It caused the most damage in Hualien, where buildings fell, roads were blocked and train lines disrupted, leaving the remote region even more cut off from the rest of Taiwan.
-
-“I was just getting out of bed when a clothes rack and a low cabinet fell over,” Ocean Tsai, who lives in Hualien, told BBC Chinese. “It kept getting stronger, and I started worrying about our belongings at home. Fortunately, apart from the motorcycle tipping over, the damage was minimal.”
-
-...
-
-[Data](articles/38618856.json)
-
-[Extended Data](ext_articles/38618856.ext.json)
-
----
-
-### At least 9 dead, 800 injured in Taiwan earthquake; dozens trapped in collapsed tunnels
-
-*2024-04-03 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98405/at-least-9-dead-800-injured-in-taiwan-earthquake-dozens-trapped-in-collapsed-tunnels) · `en`
-
-Rescue efforts are under way in Taiwan after a 7.4 magnitude earthquake struck the island’s eastern coast, killing at least nine and injuring more than 800.
-
-Some 127 people are trapped in collapsed tunnels and on mountainous roads along the rugged coastline.
-
-The epicentre was 18km (11 miles) south of Hualien city, but strong tremors were felt all the way in the capital Taipei, more than 100km away.
-
-It also triggered tsunami alerts earlier in the day in nearby Japanese and Philippine islands which were later retracted.
-
-It caused the most damage in Hualien, where buildings fell, roads were blocked and train lines disrupted, leaving the remote region even more cut off from the rest of Taiwan.
-
-“I was just getting out of bed when a clothes rack and a low cabinet fell over,” Ocean Tsai, who lives in Hualien, told BBC Chinese. “It kept getting stronger, and I started worrying about our belongings at home. Fortunately, apart from the motorcycle tipping over, the damage was minimal.”
-
-...
-
-[Data](articles/9272484b.json)
-
-[Extended Data](ext_articles/9272484b.ext.json)
-
----
-
-### 3 billion stick to the Corporation in 70 state and semi-government institutions
-
-*2024-04-03 20:47:08* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-හා-අර්ධ-රාජ්‍ය-ආයතන-70කින්-නැව්-සංස්ථාවට-කෝටි-152ක-පොල්ලක්/11-408940) · `si`
-
-The Sri Lanka Shipping Corporation (SLIM 15259,729) reported a financial loss of Rs. 1,857,766 due to the exchange rate fluctuation from January 2021.
-
-🟩
-
-The Sri Lanka Shipping Corporation (SLIM 15259,729) of the Sri Lanka Shipping Corporation, 22 crores (1,525,359,729), the Sri Lanka Shipping Corporation was released by the Sri Lanka Shipping Corporation.
-
-The audit has revealed that the shipping corporation should be the amount of Rs.
-
-The Audit Report states that the amount of foreign and other trade borrowers of more than three years from February 31 to March 31, Rs.
-
-The Sri Lanka Shipping Corporation (SLFP) is mentioned in the Audit report of the recorded financial loss of Rs. 1,857,766.
-
-The audit report issued by the unusual loss of the exchange rate from January 2021 from January 2021 from US dollars from US dollars in Sri Lanka.
-
-◼️
-
-[Data](articles/1bb12846.json)
-
-[Extended Data](ext_articles/1bb12846.ext.json)
 
 ---

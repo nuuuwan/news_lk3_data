@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 15:18:26**
+As of **2024-04-04 15:33:36**
 
 ## Newspaper Stats
 
-*Scraped **17,114** Articles*
+*Scraped **17,123** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,152 @@ islandlk | 943
 economynextcom | 944
 adalk | 1,443
 tamilmirrorlk | 2,034
-adaderanalk | 2,054
-virakesarilk | 2,479
-dailymirrorlk | 2,629
-adaderanasinhalalk | 2,760
+adaderanalk | 2,055
+virakesarilk | 2,483
+dailymirrorlk | 2,630
+adaderanasinhalalk | 2,763
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,112 (100.0%) of 17,114 articles have been extended.
+17,114 (99.9%) of 17,123 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### க.பொ.த. உயர்தரப் பரீட்சை பெறுபேறுகள் குறித்து வெளியான தகவல்
+
+*2024-04-04 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180432) · `ta`
+
+2023 ஆம் ஆண்டு கல்வி பொதுத்தராதர உயர்தரப் பரீட்சை பெறுபேறுகள் மே மாதம் ஆரம்பத்தில் வெளியிடப்படும் என கல்வி அமைச்சர் சுசில் பிரேம ஜயந்த தெரிவித்துள்ளார்.
+
+இதேவேளை, 2023 ஆம் ஆண்டுக்கான கல்வி பொதுத்தராதர சாதாரண தரப் பரீட்சைகள் மே மாத நடுப்பகுதியில் நடத்துவதற்கு நடவடிக்கை எடுக்கப்பட்டு வருவதாக அமைச்சு மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/11a85a21.json)
+
+---
+
+### வலையில் சிக்கி உயிரிழந்த சிறுத்தைப் புலியின் சடலம் மீட்பு!
+
+*2024-04-04 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180436) · `ta`
+
+தேயிலைத் தோட்டத்தில்  அமைக்கப்பட்டிருந்த கம்பி வலையில் சிக்கி உயிரிழந்த  நிலையில்  சிறுத்தைப் புலியின் சடலம் ஒன்று இன்று வியாழக்கிழமை (04)  கண்டுபிடிக்கப்பட்டதாக நல்லதண்ணி  வனஜீவராசிகள் அலுவலக அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+நோர்வூட் பொலிஸ் பிரிவுக்கு உட்பட்ட றொக்வூட் தோட்ட தேயிலை தோட்டத்தில் கம்பி வலையில் சிக்கி இந்தச் சிறுத்தைப்புலி உயிரிழந்துள்ளதாக வனவிலங்கு அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+சிறுத்தைப் புலியின் சடலத்தை தோட்டத் தொழிலாளர்கள் கண்டு  தமது அலுவலகத்துக்கு  அறிவித்ததாகவும் சடலம்  பிரேத பரிசோதனைக்காக ரந்தெனிகல வனவிலங்கு கால்நடை வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளதாகவும் அவர்கள் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/59ec2ab5.json)
+
+---
+
+### 'சீயான் 62' வில் இணைந்த துஷாரா விஜயன்
+
+*2024-04-04 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180434) · `ta`
+
+தமிழ் திரையுலகில் முன்னணி நடிகையாக ஜொலிக்க வேண்டும் என்றால் தனித்துவமான நடிப்புத் திறன் வேண்டும் என்பது ரசிகர்கள் விதித்திருக்கும் மரபு.
+
+இதனை இயக்குநர் பா. ரஞ்சித் இயக்கத்தில் வெளியான 'சர்பட்டா பரம்பரை' படத்தில் மாரியம்மா எனும் கதாபாத்திரத்தினை ஏற்று, தன் அபிரிமிதமான நடிப்புத் திறனை வெளிப்படுத்தி ரசிகர்களிடம் பிரபலமானவர் நடிகை துஷாரா விஜயன்.
+
+அதனைத் தொடர்ந்து பா. ரஞ்சித்தின் 'நட்சத்திரம் நகர்கிறது', அருள்நிதி நடிக்கும் 'கழுவேத்தி மூர்க்கன்', வசந்தபாலன் இயக்கத்தில் வெளியான 'அநீதி' ஆகிய படங்களில் நடித்த துஷாரா விஜயன்... தற்போது தனுஷ் நடிப்பில் தயாராகும் 'ராயன்' எனும் திரைப்படத்திலும், சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிப்பில் தயாராகும் 'வேட்டையன்' திரைப்படத்திலும் நடித்து வருகிறார்.
+
+முன்னணி நட்சத்திர அந்தஸ்தை எட்டிப் பிடித்திருக்கும் நடிகை துஷாரா விஜயன்.. அடுத்ததாக நடிப்பு ராட்சசன் சீயான் விக்ரம் நடிப்பில் தயாராகி வரும் 'சீயான் 62' திரைப்படத்தில் கதையின் நாயகியாக நடிக்கிறார். இது தொடர்பான அதிகாரபூர்வமான அறிவிப்பு வெளியிடப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/6eb2b428.json)
+
+---
+
+### First application under Online Safety Act filed before Court
+
+*2024-04-04 15:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/First-application-under-Online-Safety-Act-filed-before-Court/155-280187) · `en`
+
+The first application under the newly enacted Online Safety Act was made to the Colombo Chief Magistrate’s Court and Court issued a conditional order preventing respondent parties from communicating alleged false information against former Chairman of the Public Utilities Commission (PUCSL) Janaka Ratnayake.
+
+Colombo Chief Magistrate Prasanna Alwis issued a conditional order in favour of the Petitioner Janaka Ratnayake in terms of Section 24 (1) and Section 24 (2) of the Online Safety Act No. 09 of 2023 and directed that the order be communicated to the Respondents Gayathri Bimba, Janaka Rajapaksha, Oshala Herath and several others by electronic means as provided for in Section 24 (4) of the Act.
+
+...
+
+[Data](articles/0125c126.json)
+
+---
+
+### ஆசிரியர்கள் மாணவர்களை அடித்து துன்புறுத்துவதை ஒருபோதும் அனுமதிக்க முடியாது  - வட மாகாண  ஆளுநர்
+
+*2024-04-04 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/180435) · `ta`
+
+பாடசாலை மாணவர்கள் மீது தண்டனை என்ற பெயரில் துன்புறுத்தல்கள் அதிகரித்து வரும் நிலையில், வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம்.சார்ள்ஸினால் விசேட அறிவித்தல் ஒன்று விடுக்கப்படுகிறது.
+
+கற்பித்தல் செயற்பாடுகளை மேற்கொண்டு மாணவர்களை வளப்படுத்த வேண்டிய ஆசிரியர்களே, மாணவர்களை அடித்து, துன்புறுத்தி வைத்தியசாலைகளில் அனுமதிக்கும் சம்பவங்கள் அண்மைக் காலமாக அதிகரித்துள்ளன. கடந்த சில மாதங்களுக்குள் இவ்வாறாக செயற்பட்ட ஆசிரியர்கள் தொடர்பில், ஆளுநரின் செயலகத்தால் விசாரணைகள் மேற்கொள்ளப்பட்டு பின்னர் பணி நீக்கம் செய்யப்பட்டுள்ளனர்.
+
+நேற்று பதிவாகிய மூன்று சம்பவங்கள் தொடர்பில் கௌரவ ஆளுநரின் பணிப்புரைக்கு அமைய உடனடி விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+“எழுத்தறிவித்தவன் இறைவன்” எனும் கூற்றுக்கு அமைய, இறைவனாக போற்றப்படக்கூடிய ஆசிரியர்கள் மாணவர்களுக்குத் துன்பம் இழைப்பதை ஒருபோதும் ஏற்க முடியாது.
+
+கற்றலில் சிக்கல்களை எதிர்நோக்கும் மாணவர்களை எவ்வாறு கற்றலில் ஈடுபடச் செய்வது என்ற யுக்தியை கண்டறிந்து அவர்களுக்கான கற்றல் செயற்பாடுகளை மேற்கொள்ள வேண்டும்.
+
+...
+
+[Data](articles/74bd8409.json)
+
+---
+
+### Duminda, Lasantha and Amaraweera extend invitation for ‘new journey’ with SLFP
+
+*2024-04-04 15:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98425/duminda-lasantha-and-amaraweera-extend-invitation-for-new-journey-with-slfp) · `en`
+
+Former National Organiser of the Sri Lanka Freedom Party (SLFP) MP Duminda Dissanayake says they are inviting everyone to join a new journey with the SLFP.
+
+MPs Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera, who were recently removed from their respective positions within the party, had called a ‘Sri Lanka Freedom Party’ press conference today (04), against the backdrop where a court order was issued preventing former President Maithripala Sirisena from functioning as the party’s chairman.
+
+The press conference was held at the SLFP Headquarters in Colombo 10.
+
+Speaking further, they emphasized: “Former President Chandrika Bandaranaike had resorted to legal action as she could not wait and see this destruction [of the SLFP]. Accordingly, an injunction has been issued on Maithripala Sirisena, preventing him from functioning as the party’s chairman.”
+
+◼️
+
+[Data](articles/9f2c4ede.json)
+
+---
+
+### ජපානයේ ප්‍රබල භූ කම්පනයක්
+
+*2024-04-04 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195294) · `si`
+
+එම භූ කම්පනය කිලෝ මීටර් 32ක් පමණ පොළොව අභ්‍යන්තරයේ සිදුව ඇති බව සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/e2897982.json)
+
+---
+
+### ගාසා සහන සේවක ඝාතනයෙන් හෙළිවන ඊශ්‍රායල - අමෙරිකා දෙබිඩි පිළිවෙත
+
+*2024-04-04 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195293) · `si`
+
+යුද්ධය නිසා නිර්මාණය වූ ඝාතනයකට මුහුණදෙන ගාසා තීරයේ පලස්තීනවන්ගේ කුසගිනි නිවීමට මානුෂීය මෙහෙවරක නිරත වූ World Central Kitchen නම් රාජ්‍ය නොවන සංවිධානයේ සහන සේවකයන් 7දෙනෙකු ඊශ්‍රායල ගුවන් ප්‍රහාරයකින් මියයාම තවමත් ලොව කළඹන පුවතක් බවට පත්ව තිබේ.
+
+රටවල් රැසක් ඒ පිළිබඳව ඊශ්‍රායලයෙන් කරුණු විමසද්දී ඔවුන්ගේ ප්‍රධාන සහායකයා වන අමෙරිකාවද ප්‍රකාශ කළේ කවර තත්ත්වයක් යටතේ වුවත් ඊශ්‍රායල ප්‍රහාරය පිළිගත හැකි කරුණක් නොවන බවයි.
+
+එමෙන්ම වර්ල්ඩ් සෙන්ට්‍රල් කිචන් නැත්නම් WCK රාජ්‍ය නොවන සංවිධානයේ නිර්මාතෘ කීර්තිමත් සූපවේදී ගෝසේ අන්ද්‍රෙස් පවසන්නේ ඊශ්‍රායලය තම සංවිධානයේ සහන සේවකයන් නොදැනුවත්ම ඉලක්ක කරගත්තේ යැයි විශ්වාස කළ නොහැකි බවයි.
+
+ඔවුන් ඊශ්‍රායල හමුදාව සමග පැහැදිලි සන්නිවේදනයක් පවත්වාගෙන ගිය බවත් ඔවුන් සිටින ස්ථාන ඊශ්‍රායල හමුදා හොඳින්ම දන්නා බවත් ගෝසේ අන්ද්‍රෙස් වැඩිදුරටත් සඳහන් කළේය.
+
+කිලෝමීටර් 1.5ත් 1.8ත් අතර ගමන් මාර්ගයක, මානුෂීය ආධාර සංවිධානයක් බවට පැහැදිලිව වහලයේ දීප්තිමත් ලෙස සලකුණු කළ ලාංඡන සහිත රථ පෙළකින් ඔවුන් ගමන්  ගනිමින් සිටි බව WCK නිර්මාතෘවරයා පැහැදිලි කළේය.
+
+...
+
+[Data](articles/821648a9.json)
+
+---
 
 ### SC decides to hear FR petition against policemen involved in Narammala shooting
 
@@ -49,6 +181,26 @@ The Attorney General's Department has decided not to appear on behalf of the res
 ◼️
 
 [Data](articles/220a87e2.json)
+
+[Extended Data](ext_articles/220a87e2.ext.json)
+
+---
+
+### මීළඟ වැඩිම මනාප වීරසේන ගමගේ ට
+
+*2024-04-04 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195292) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී එච්. නන්දසේන මහතාගේ අභාවයෙන් පුරප්පාඩු වූ මන්ත්‍රී ධුරය සඳහා මනාප ලැයිස්තුවේ මීළඟ වැඩිම මනාප ලබාගෙන සිටින වීරසේන ගමගේ මහතා පත්වීමට නියමිතය.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ අනුරාධපුරය දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී හා දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේ සභාපති එච්. නන්දසේන මහතා අද පෙරවරුවේ අභාවප්‍රාප්ත විය.
+
+පවුලේ ඥාතීන් සඳහන් කළේ, හදිසි රෝගී තත්ත්වයකින් රෝහල්ගත කිරීමෙන් අනතුරුව ඒ මහතා මියගිය බවය.
+
+උතුරු මැද පළාත් සභාවේ අමාත්‍යවරයෙකු ලෙස දිගු කලක් කටයුතු කළ ඒ මහතා 2020 වසරේදී පළමු වරට මහජන ඡන්දයෙන් පාර්ලිමේන්තුවට තේරී පත්වුණි.
+
+◼️
+
+[Data](articles/ac6c6054.json)
 
 ---
 
@@ -335,6 +487,8 @@ Additionally, for the upcoming Sinhala and Tamil New Year season, the President 
 ◼️
 
 [Data](articles/7d9b5627.json)
+
+[Extended Data](ext_articles/7d9b5627.ext.json)
 
 ---
 
@@ -2067,213 +2221,5 @@ Instead of PAL and CESS an additional higher customs duty band is being consider
 [Data](articles/fb7daa17.json)
 
 [Extended Data](ext_articles/fb7daa17.ext.json)
-
----
-
-### Taylor Swift joins world’s richest on billionaire list
-
-*2024-04-04 06:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Taylor-Swift-joins-worlds-richest-on-billionaire-list/108-280149) · `en`
-
-BBC - Taylor Swift has joined Elon Musk as ranking among the world's wealthiest people, according to a new rich list.
-
-The American pop star entered the Forbes World's Billionaires List for the first time with $1.1bn (£877m), along with Sam Altman, creator of the AI chatbot ChatGPT on $1bn (£800m).
-
-LVMH French luxury goods titan Bernard Arnault and his family topped the chart with an estimated $233bn (£185bn).
-
-Forbes said there were a record 2,781 billionaires for 2024.
-
-The figure is 141 more than last year and 26 more than the previous record set in 2021. Forbes added the elite were richer than ever - with a collective wealth of $14.2tn (£11.3tn).
-
-Singer-songwriter Swift entered the rich list after achieving megastar status. She stole the show at this year's Grammy Awards, becoming the first performer to win the prize for album of the year four times.
-
-Her album 1989 (Taylor's Version) was also the best-selling vinyl LP of last year.
-
-...
-
-[Data](articles/b5326fa4.json)
-
-[Extended Data](ext_articles/b5326fa4.ext.json)
-
----
-
-### Heavy rains for several provinces and several provinces
-
-*2024-04-04 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195272) · `si`
-
-Heavy rains and thundershowers expected in Western, Sabaragamuwa, Central, North Western, Southern, and Uva provinces. Showers to occur in the evening or night. Public advised to take precautions against wind and lightning.
-
-🟩
-
-From Western, Sabaragamuwa, Central, North Western and Southern provinces. Showers or thundershowers will occur at several times after 2.
-
-The Department of Meteorology announced that showers or thundershowers will occur at several places in the evening or night in the Uva Province.
-
-Some places in the Western, Sabaragamuwa and Southern provinces. Mee. Heavy rains can occur about 75 times.
-
-In some places in the Western, Central, Sabaragamuwa and Uva provinces, in some places, are expected to be fired in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/509514bd.json)
-
-[Extended Data](ext_articles/509514bd.ext.json)
-
----
-
-### Ready for a public debate
-
-*2024-04-04 06:27:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பகிரங்க-விவாதத்துக்குத்-தயார்/175-335579) · `ta`
-
-Opposition Leader Sajith Premadasa is open to a public debate on Sri Lanka's issues, emphasizing the importance of debate in a democratic society. He's ready to discuss economics, society, politics, and internationalism, aiming to benefit the country and its people.
-
-🟩
-
-Opposition Leader Sajith Premadasa said he was ready for public debate with any political party on various issues facing Sri Lanka.
-
-Under the Universal Information Technology Program, smart classroom equipment worth Rs.. The Opposition Leader said this while addressing the gathering. As he further stated,
-
-The community is currently spoken of as needed debate on the country's issues. We also accept that such a debate should take place.
-
-Since it is a high attribute of democratic society, we are ready to engage in any topic - economics, society, politics and internationalism.
-
-Similarly, the debate must be added to the country and the people. He said that during the opposition, he should serve the people not to be limited to debates.
-
-◼️
-
-[Data](articles/856a1b83.json)
-
-[Extended Data](ext_articles/856a1b83.ext.json)
-
----
-
-### Action to fill the vacancies of the editor
-
-*2024-04-04 06:20:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-வெற்றிடங்களை-நிரப்ப-நடவடிக்கை/175-335578) · `ta`
-
-The government plans to appoint 4000 teachers in 2024, with President Ranil Wickremesinghe stating more funds will be allocated for teacher vacancies if the economy strengthens. Currently, 2300 teachers are appointed, with over 700 more to be hired. Economic recovery has allowed for these appointments, which were halted due to the economic downturn and COVID-19.
-
-🟩
-
-Three years later, the government has taken steps to appoint 4000 people in 2024. President Ranil Wickremesinghe said more funds would be allocated to fill the vacancies of the teacher next year if the country's economy strengthens.
-
-The President said this while addressing the appointment of the Western Provincial Graduate Teacher at the Alari House yesterday afternoon.. As he further stated,
-
-Today 2300 teachers are appointed. There are more than 700 appointments to be made. It is planned to hire more than 1000 teachers in accordance with vacancies. About 4000 teachers will be appointed this year. These appointments have been made only three or four years later. All these appointments were halted due to economic downturn and Govid infection.
-
-...
-
-[Data](articles/2a286939.json)
-
-[Extended Data](ext_articles/2a286939.ext.json)
-
----
-
-### Attempt to dissolve Parliament for snap General Election fails
-
-*2024-04-04 06:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Attempt-to-dissolve-Parliament-for-snap-General-Election-fails/155-280148) · `en`
-
-Colombo, April 3 (Daily Mirror) - The attempt by some MPs to dissolve Parliament by passing a resolution has proven to be a futile exercise as the required number of 113 MPs cannot be mustered, a parliamentarian who wished to remain anonymous said.
-
-Previously, SLPP stalwart Basil Rajapaksa, in his meeting with President Ranil Wickremesinghe, asked for the dissolution of Parliament to declare a snap General Election ahead of the Presidential Election which is constitutionally scheduled for October, this year.
-
-Later, Daily Mirror exclusively reported that the President will not go for a parliamentary election before the presidential election. Against the backdrop, some MPs loyal to Mr. Rajapaksa, gave mind to pass a resolution in Parliament calling for the dissolution of the House to go for a snap general election.
-
-However, the attempt has been unsuccessful because most MPs are not ready for an early general election.
-
-...
-
-[Data](articles/0c063d48.json)
-
-[Extended Data](ext_articles/0c063d48.ext.json)
-
----
-
-### Central Bank issues guidelines to establish Business Revival Units
-
-*2024-04-04 06:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-issues-guidelines-to-establish-Business-Revival-Units/108-280146) · `en`
-
-Urges licensed banks and concerning borrowers to effectively collaborate to ensure viable businesses are revived in a sustainable manner
-
-Asserts setting up of BRUs is considered imperative to assist both performing and non-performing borrowers
-
-Sri Lanka will likely see fewer businesses collapse from the challenging macroeconomic circumstances, as the financial sector regulator, the Central Bank, instructed the licensed banks to further strengthen the already established revival units.
-
-The Central Bank directed the licensed banks to establish the Business Revival Units (BRUs) by mid-May 2024 and be fully compliant with the requirements of the circular by July 01, 2024.
-
-On March 28, the Central Bank issued broad guidelines to the banks to firm up the functions of already established post-COVID-19 revival units and reformulate such units as BRUs.
-
-...
-
-[Data](articles/72e36c57.json)
-
-[Extended Data](ext_articles/72e36c57.ext.json)
-
----
-
-### Gammanpila warns against holding both elections on same day
-
-*2024-04-04 04:49:55* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-warns-against-holding-both-elections-on-same-day/56-760298) · `en`
-
-Claims Govt. and President are scheming to hold Presidential and Parliamentary polls on same day
-
-Notes there is no legal impediment to hold both polls between July 17 and September 4
-
-Stresses that holding both elections on same day will be unfavourable to country
-
-Pivithuru Hela Urumaya (PHU) leader Udaya Gammanpila says the Government is attempting to hold both the Presidential and Parliamentary elections on the same day.
-
-Speaking at a press conference held at the party headquarters, Gammanpila asserted that the scheme is underway to fulfil the requirements of both the President and the Sri Lanka Podujana Peramuna. Nevertheless, he contended that holding both elections on the same day would not be in the best interest of the country.
-
-...
-
-[Data](articles/649fa3a7.json)
-
-[Extended Data](ext_articles/649fa3a7.ext.json)
-
----
-
-### Gamini Lokuge assumes Chairmanship of Committee on Banking and Financial Services
-
-*2024-04-04 04:48:43* · [`dailyftlk`](https://www.ft.lk/news/Gamini-Lokuge-assumes-Chairmanship-of-Committee-on-Banking-and-Financial-Services/56-760297) · `en`
-
-In a unanimous decision, Member of the Parliament Gamini Lokuge has been elected as the new Chairman of the Committee on Banking and Financial Services for the Fifth Session of the Ninth Parliament.
-
-The nomination of MP Lokuge was put forward by MP Kokila Gunawardena and seconded by MP Udaya Gammanpila during the committee’s inaugural meeting for session convened on 1 April. Lokuge previously chaired this committee during the fourth session of the Ninth Parliament.
-
-Addressing the assembly, the newly appointed Chair expressed gratitude to all MPs for their unwavering support during the previous session.  He stressed the importance of continued collaboration and support from all members in the future endeavours of the committee.
-
-hlighting the committee’s focus areas, the Chair underscored its dedication to addressing issues within the cooperative sector.
-
-...
-
-[Data](articles/886f7fab.json)
-
-[Extended Data](ext_articles/886f7fab.ext.json)
-
----
-
-### Chandima Weerakkody endorses SJB as most suited destination for SLFPers
-
-*2024-04-04 04:47:09* · [`dailyftlk`](https://www.ft.lk/news/Chandima-Weerakkody-endorses-SJB-as-most-suited-destination-for-SLFPers/56-760296) · `en`
-
-Claims SJB is most aligned with SLFP policies and ideologies as envisioned by party founder
-
-Urges citizens to examine SJB’s proposals and compare it with those of other parties
-
-Affirms SJB’s readiness to address issues faced by country’s citizens
-
-Samagi Jana Balawegaya (SJB) MP Chandima Weerakkody on Tuesday declared that the SJB is the most suitable political party for members of the Sri Lanka Freedom Party (SLFP).
-
-The MP addressing a press conference highlighted that SLFP founder S. W. R. D. Bandaranaike aimed to steer the party towards a moderate stance. Drawing parallels, he suggested that the SJB is currently following a similar path. Consequently, he maintained that the ideology most aligned with SLFP members is represented by the SJB.
-
-Former SLFPer Weerakkody expressed his belief that the SLFP has undergone significant deterioration. He proposed that SLFP members might find it advantageous to consider joining the SJB, as its policies and ideology align more closely with their own.
-
-...
-
-[Data](articles/285004e1.json)
-
-[Extended Data](ext_articles/285004e1.ext.json)
 
 ---

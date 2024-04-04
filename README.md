@@ -1,36 +1,114 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 08:19:01**
+As of **2024-04-04 08:33:48**
 
 ## Newspaper Stats
 
-*Scraped **17,021** Articles*
+*Scraped **17,027** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 150
 bbccomsinhala | 178
-dbsjeyarajcom | 207
+dbsjeyarajcom | 208
 newsfirstlk | 363
 dailyftlk | 929
 economynextcom | 942
 islandlk | 943
 adalk | 1,430
-tamilmirrorlk | 2,021
-adaderanalk | 2,038
+tamilmirrorlk | 2,022
+adaderanalk | 2,039
 virakesarilk | 2,457
-dailymirrorlk | 2,618
-adaderanasinhalalk | 2,745
+dailymirrorlk | 2,619
+adaderanasinhalalk | 2,747
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,021 (100.0%) of 17,021 articles have been extended.
+17,021 (100.0%) of 17,027 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### සෞඛ්‍ය අමාත්‍යාංශයෙන් හදිසි තීරණයක්
+
+*2024-04-04 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195277) · `si`
+
+මෙරට තුළ සිටින ව්‍යාජ වෛද්‍යවරුන් සහ ව්‍යාජ වෛද්‍ය මධ්‍යස්ථාන පිළිබඳව කඩිනම් විමර්ශනයක් සිදුකිරීමට සෞඛ්‍ය අමාත්‍යාංශය තීරණය කර තිබේ.
+
+ව්‍යාජ වෛද්‍යවරුන් සහ වෛද්‍ය මධ්‍යස්ථාන පිළිබඳව ලැබී ඇති පැමිණිලි සැලකිල්ලට ගනිමින් මෙම පියවර ගෙන ඇති බව වාර්තා වේ.
+
+වෛද්‍යවරුන් වෛද්‍ය සභාවේ ලියාපදිංචි වීම සිදුකළ යුතු අතර පෞද්ගලික වෛද්‍ය ආයතන පළාත් මට්ටමින් ලියාපදිංචි කිරීම අනිවාර්යය කර තිබේ.
+
+කෙසේවෙතත් එලෙස ලියාපදිංචි නොවූ වෛද්‍යවරුන් සහ වෛද්‍ය ආයතන රැසක් දිවයින පුරා පවතින බවට පැමිණිලි ලැබී ඇති බව සෞඛ්‍ය අමාත්‍යාංශය සඳහන් කළේය.
+
+එවැනි වෛද්‍යවරුන් සහ වෛද්‍ය ආයතන සොයා කඩිනමින් විමර්ශනයක් සිදුකරන ලෙස සෞඛ්‍ය සේවා අධ්‍යක්ෂ ජනරාල්වරයා විසින් පළාත් සහ දිස්ත්‍රික් සෞඛ්‍ය බලධාරීන් වෙත උපදෙස් ලබා දී තිබේ.
+
+එවැනි ආයතන සහ වෛද්‍යවරුන්ට එරෙහිව දැඩි නීතිමය ක්‍රියාමාර්ග ගන්නා ලෙස සෞඛ්‍ය අමාත්‍යාංශය උපදෙස් ලබා දී ඇත.
+
+සුදුසුකම් සපුරා නොමැති ව්‍යාජ වෛද්‍යවරුන් පිළිබඳව තොරතුරු  ලබාදීමට පියවර ගන්නා ලෙස සෞඛ්‍ය අමාත්‍යාංශය මහජනතාවගෙන් ද ඉල්ලීමක් කර තිබේ.
+
+◼️
+
+[Data](articles/47b5962e.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-04-04 08:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98410/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, North-western and Southern provinces after 2.00 p.m.
+
+Showers or thundershowers may occur at a few places in Uva province during the afternoon or night, it said.
+
+Fairly heavy showers about 75 mm are likely at some places in Western, Sabaragamuwa and Southern provinces.
+
+Misty conditions can be expected at some places in Western, Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/e81fa893.json)
+
+---
+
+### හදිසි අනතුරු හේතුවෙන් වසරකට පුද්ගල මරණ දස දහස ඉක්මවයි
+
+*2024-04-04 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195276) · `si`
+
+හදිසි අනතුරු හේතුවෙන් දෛනිකව මෙරටින් මරණ 32ත් 35ත් අතර සංඛ්‍යාවක් වාර්තා වන බව සෞඛ්‍ය අමාත්‍යාංශයේ බෝ නොවන රෝග ඒකකයේ විශේෂඥ වෛද්‍ය සමිත සිරිතුංග මහතා පවසයි.
+
+ඔහු පවසන්නේ වාර්ෂිකව හදිසි අනතුරු හේතුවෙන් පුද්ගල මරණ දස දහසකට වැඩි සංඛ්‍යාවක් සිදුවන බවය.
+
+රථ වාහන අනතුරු, දියේ ගිලීම්, විෂවීම් ඇතුළු හදිසි අනතුරු හේතුවෙන් එම මරණ සිදුවන බව සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් විශේෂඥ වෛද්‍ය සමිත සිරිතුංග මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/e99a1763.json)
+
+---
+
+### Education Ministry to increase examiner allowances in two to three weeks
+
+*2024-04-04 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Education-Ministry-to-increase-examiner-allowances-in-two-to-three-weeks/108-280150) · `en`
+
+Colombo, April 4 (Daily Mirror) - The Education Ministry has decided to increase the allowances paid to examiners and those engaged in examination duties in the next two to three weeks.
+
+Addressing an event organized at the Temple Trees last evening to award letters of appointment to Graduate Teachers in the Western Province, Education Minister Susil Premajayantha said a committee will be appointed in this regard and a report called for.
+
+The allowances of examiners and those engaged in examination duties will be based on this report, the Minister added.
+
+At the ceremony, the Minister highlighted that at least 19,000 examiners are needed for the answer sheet evaluation process of the GCE Advanced Level (A/L) examination and at least 25,000 examiners for the 2024 GCE Ordinary Level (O/L) examination, which is scheduled to be held in May.
+
+◼️
+
+[Data](articles/9bdb9da6.json)
+
+---
 
 ### 75,000 Sri Lankans have been abroad to three months
 
@@ -66,7 +144,15 @@ Meanwhile, Sri Lankans who have taken foreign employment have been sent to Sri L
 
 *2024-04-04 07:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98409/slpp-mp-h-nandasena-passes-away-) · `en`
 
-Anuradhapura District MP of Sri Lanka Podujana Peramuna (SLPP), H. Nandasena passed away this morning (04), family sources told Ada Derana.
+Anuradhapura District MP of Sri Lanka Podujana Peramuna (SLPP), H. Nandasena has passed away this morning (04), family sources told Ada Derana.
+
+The former provincial minister had passed away due to a sudden illness and was 69 years old at the time of passing.
+
+He was a former member of Padaviya Pradeshiya Sabha and North Central Provincial Council where he held a provincial ministerial portfolio.
+
+He was dismissed from his ministerial position in May 2017 after attending a Joint Opposition May Day rally.
+
+He contested the 2020 parliamentary election as a candidate of the Sri Lanka People’s Freedom Alliance in Anuradhapura District and was elected to the Parliament of Sri Lanka.
 
 ◼️
 
@@ -91,6 +177,24 @@ Chairman of the Anuradhapura District Parliamentary and District Coordinating Co
 [Data](articles/32e03201.json)
 
 [Extended Data](ext_articles/32e03201.ext.json)
+
+---
+
+### ’வேலைத்திட்டத்தை மாற்றினால் நெருக்கடி ஏற்படும்’
+
+*2024-04-04 07:01:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலைத்திட்டத்தை-மாற்றினால்-நெருக்கடி-ஏற்படும்/175-335581) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையிலான அரசாங்கத்தினால் முன்னெடுக்கப்பட்டு வரும் தற்போதைய வேலைத்திட்டத்தில் கடுகளவு மாற்றம் செய்யப்பட்டாலும் நாடு மீண்டும் பாரிய நெருக்கடிக்குள் தள்ளப்படுமென  போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் மற்றும் ஊடகத்துறை அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+கடந்த காலத்தில் வீழ்ச்சியடைந்த நாட்டை மீளக் கட்டியெழுப்பும் சவாலான பணியை ஜனாதிபதி ரணில் விக்கிரமசிங்க ஏற்றுக்கொண்டதன் பின்னர், சர்வதேச நாணய நிதியத்தின் நீடிக்கப்பட்ட கடன் வசதியை பெறுவதற்கான இணக்கப்பாடு எட்டப்பட்டது. பின்னர் கடன் மறுசீரமைப்பு குறித்தும் ஆராயப்பட்டது. அதனால் தற்போது நாடு சுமூகமான பொருளாதார நிலையை அடைந்துள்ளது. இந்த நிலையை விருப்பமின்றியேனும் ஏற்றுக்கொள்ள வேண்டியது அவசியமாகும்.
+
+தற்போதைய புதிய மத்திய வங்கிச் சட்டத்தின்படி, எந்த அரசாங்கம் ஆட்சிக்கு வந்தாலும், பணம் அச்சிடுவது தடைசெய்யப்பட்டுள்ளது. இதன் ஊடாக நிதி நிர்வாகத்தில் ஒழுக்கத்தைப் பேண முடிந்துள்ளது.
+
+...
+
+[Data](articles/1eee87e0.json)
 
 ---
 
@@ -2014,6 +2118,20 @@ A lorry and a van collided with a lorry and van.
 
 ---
 
+### When “Aiyo” Sirisena Accused India’s RAW of Plotting to Assassinate Him While he was the President.
+
+*2024-04-03 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83866) · `en`
+
+“Putting your foot in your mouth” is a figurative expression about a person saying or doing something that should not be done or not  have been said, especially if it embarrasses the person concerned or someone else. Among those who frequently put their feet  into their mouhs are politicians of all kinds and hues and from all parts of the world.
+
+Sri Lanka the miracle of Asia is second to none in this sphere. From “Apey George” George E de Silva of Kandy  in the past to CV Wigneswaran of Jaffna in the present, there have been several politicians in this resplendent Island who are famous for this.. However the greatest of all politicians in this respect arguably is Pallewatte Gamaralage Maithripala Yapa Sirisena  who served as the sixth executive president of Sri Lanka from 2015 to 2019. Such is his reputation for doing or uttering inappropriate things that Sirisena has acquired the prefix “Aiyo”. Many refer to him as “Aiyo” Sirisena nowadays.
+
+...
+
+[Data](articles/7df62bef.json)
+
+---
+
 ### 24 people in police custody died last year
 
 *2024-04-03 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180363) · `ta`
@@ -2103,129 +2221,5 @@ The farmer known as Tio Vicente was born in the town of El Cobre, in the Andean 
 [Data](articles/6a36c353.json)
 
 [Extended Data](ext_articles/6a36c353.ext.json)
-
----
-
-### University students tear-gassed
-
-*2024-04-03 17:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/University-students-tear-gassed/108-280118) · `en`
-
-Police dispersed protesting university students near the University of Moratuwa, using tear gas and water cannons.
-
-◼️
-
-[Data](articles/2e156dc1.json)
-
-[Extended Data](ext_articles/2e156dc1.ext.json)
-
----
-
-### The world's oldest man dies
-
-*2024-04-03 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195264) · `si`
-
-Venezuelan Huan, the world's oldest man at 114, died, leaving behind 11 children and 41 grandchildren.
-
-🟩
-
-Venezuelan Huan, who was the oldest man in the world, has died in the Guinness Book of Records.
-
-Foreign media reports that he had died yesterday when he was 114 years old.
-
-Huan, a father of 11 children, has 41 grandchildren.
-
-He was the oldest man who was alive on 4 February 2022.
-
-◼️
-
-[Data](articles/37ccbb82.json)
-
-[Extended Data](ext_articles/37ccbb82.ext.json)
-
----
-
-### Pastor Jerome Fernando temporarily removed
-
-*2024-04-03 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/180362) · `ta`
-
-Pastor Jerome Fernando's foreign trip ban temporarily lifted by Fort Justice Tilina Kamage. Fernando, arrested for insulting religions, was released on bail. His attorney, Anuja Premaratne, argued for the ban's removal, citing Fernando's awareness of potential arrest despite travel restrictions.
-
-🟩
-
-Fort Justice Tilina Kamage on Wednesday (03) has ordered the abolition of a foreign trip to Jerome Fernando, who was arrested and released on bail on charges of insulting Buddhism and other religions.
-
-When the case was taken up for hearing today, President's Attorney Anuja Premaratne, appearing on behalf of the defendant, asked the Fort to temporarily remove the foreign travel ban imposed on Jerome Fernando, which will be held in several countries, including Australia.
-
-President's Attorney Anuja Premaratne said that Jerome Fernando had come to Sri Lanka last time, knowing that he would be arrested even if he was forbidden to go abroad.
-
-◼️
-
-[Data](articles/fe990b74.json)
-
-[Extended Data](ext_articles/fe990b74.ext.json)
-
----
-
-### Sri Lanka Treasury bill yields up, 12-month flat
-
-*2024-04-03 17:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-up-12-month-flat-157416/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields rose across maturities at Wednesday’s auction, data from the state debt office showed.
-
-The 3-month Treasury bill yield rose 5 basis points to 10.11 percent with 30 billion rupees offered at 57.76 billion sold.
-
-The 6-month yield rose 7 basis points to 10.30 percent with 60 billion rupees offered and 56.38 billion sold.
-
-The 12-month yield was flat at 10.28 percent with 45 billion rupees offered and 18.18 billion sold.
-
-The debt office offered 135 billion rupees of bills and sold 132 billion. (Colombo/Apr3/2024)
-
-◼️
-
-[Data](articles/7c15e8aa.json)
-
-[Extended Data](ext_articles/7c15e8aa.ext.json)
-
----
-
-### Special trains for New Year season
-
-*2024-04-03 17:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-trains-for-New-Year-season/108-280117) · `en`
-
-Colombo, April 3 (Daily Mirror) - Special and long-distance train services are scheduled to be operated during the New Year season to facilitate people to travel conveniently, Deputy General Manager of Railways N.J. Indipolage said.
-
-He said special and long-distance trains will be operated till April 15, starting on April 10.
-
-Accordingly, more than 30 special and long-distance train services are scheduled to operate till April 15, he said.
-
-◼️
-
-[Data](articles/50bbb55d.json)
-
-[Extended Data](ext_articles/50bbb55d.ext.json)
-
----
-
-### Sri Lanka rupee closes at 299.80/95 to the US dollar
-
-*2024-04-03 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-299-80-95-to-the-us-dollar-157402/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 299.80/95 to the US dollar in the spot forex market on Wednesday, stronger from 299.95/300.05 on Tuesday, dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 closed up at 11.35/45 percent from 11.30/40 percent.
-
-A bond maturing on 15.09.2027 closed stable at 11.90/12.00 percent.
-
-A bond maturing on 15.12.2028 closed up at 12.15/20 percent from 12.10/20 percent.
-
-A bond maturing on 15.07.2029 closed stable at 12.25/50 percent.
-
-A bond maturing on 01.07.2032 closed up at 12.55/80 percent from 12.50/75 percent. (Colombo/Apr3/2024)
-
-◼️
-
-[Data](articles/22e16218.json)
-
-[Extended Data](ext_articles/22e16218.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 23:33:45**
+As of **2024-04-04 23:52:49**
 
 ## Newspaper Stats
 
-*Scraped **17,214** Articles*
+*Scraped **17,215** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 957
 adalk | 1,456
 tamilmirrorlk | 2,037
 adaderanalk | 2,065
-virakesarilk | 2,500
+virakesarilk | 2,501
 dailymirrorlk | 2,642
 adaderanasinhalalk | 2,783
 
@@ -26,15 +26,29 @@ adaderanasinhalalk | 2,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,214 (100.0%) of 17,214 articles have been extended.
+17,214 (100.0%) of 17,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
+### யாழ்ப்பாணப் பல்கலைக்கழகத்தில் மாணவர் ஆவணப்படங்கள் வெளியீடு
+
+*2024-04-04 23:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180464) · `ta`
+
+யாழ்ப்பாணப் பல்கலைக்கழக ஊடகக் கற்கைகள் துறை மாணவர்களால் தயாரிக்கப்பட்ட மக்களின் வாழ்வியலைச் சித்திரிக்கும் பத்து ஆவணப்படங்கள் எதிர்வரும் 08ஆம் திகதி திங்கட்கிழமை பிற்பகல் இரண்டு மணிக்கு யாழ். பல்கலைக்கழகக் கைலாசபதி கலையரங்கில் திரையிடப்படவுள்ளன.
+
+தமிழரின் பாரம்பரியமாக விளங்கும் தவில் இசைக்கருவியின் உருவாக்கமும் நுட்பமும் பற்றிய பதிவான ‘தவில் கொட்டு’,  காரைநகரின் ஊரி கிராமப் பெண்கள் தமது சொந்தக் கால்களில்  நின்று மீன்பிடித் தொழிலாற்றுவது பற்றிப் பேசும் ‘அலைமகள்’, தீயில் எரிந்து போன லயன் குடியிருப்புகளுக்குப் பதிலாக மாற்று வீடுகள் கிடைக்கும் எனக் காத்திருக்கும் மலையக மக்களின் துன்பங்களைப் பதிவுசெய்யும் ‘தணல்’, மட்டக்களப்பிலுள்ள வேப்பவெட்டுவானில் செங்கல் கைத்தொழில் தயாரிப்பு மற்றும் அது தொடர்பான பிரச்சினைகளை எடுத்துக்காட்டும்; ‘கல்வாடி’, மலையகப் பெண்கள் மாதவிடாய்க் காலங்களிலும் மலைகளில் ஏறிக் கொழுந்து பறிப்பதில்; எதிர்கொள்ளும் சவால்கள் பற்றி பேசும் ‘கசிவு’,
+
+...
+
+[Data](articles/3b029616.json)
+
+---
+
 ### Prince Sultan Medical Center, which offers special medical privilege to pilgrims
 
-*2024-04-04 22:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180463) · `ta`
+*2024-04-04 23:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/180463) · `ta`
 
 The Prince Sultan Medical Center in Medina provides special medical privileges to pilgrims, offering emergency services and treatment to 12,159 patients, including 4,906 women and 7,253 men, with 37 patients referred to Ministry of Health hospitals. It features 8 clinics, two mobile clinics with 18 emergency beds, and operates as a treatment, nutritional, laboratory, and pharmaceutical center.
 
@@ -1446,8 +1460,6 @@ From learning of the incident, I have seen suicide from two days, but suddenly I
 
 *2024-04-04 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98427/sacred-lord-buddha-relics-from-sri-lanka-presented-to-dalai-lama) · `en`
 
-#WATCH | Himachal Pradesh: Most Venerable Waskaduwe Mahindawamsa Nayaka Thero from of Kapilavastu Rajaguru Sri Sbhuthi Maha Vihara, Waskaduwa, Sri Lanka offers Gautama Buddha’s sacred relic to His Holiness the Dalai Lama.The Kapilavastu relics hold immense historical and… pic.twitter.com/U4Gri76RYv— ANI (@ANI) April 4, 2024
-
 Lord Buddha’s sacred Kapilavastu relics, situated at a holy temple in Sri Lanka, have been offered to the Dalai Lama on Thursday morning, the office of Dalai Lama said in a statement.
 
 The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa, a Buddhist temple in Sri Lanka.
@@ -1455,6 +1467,8 @@ The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa
 Notably, the Kapilavastu relics hold immense historical and spiritual significance, connecting the devotees to the profound legacy of Lord Buddha.
 
 The Sri Subhuthi Maha Viharaya in Waskaduwa houses 21 relics of the Lord Buddha.
+
+Waskaduwe Mahindawansa Maha Nayaka Thero is the custodian of these precious Kapilavastu relics, which have been preserved and protected for generations till now at Sri Subhuthi Maha Viharaya in Waskaduwa, Sri Lanka.
 
 ...
 
@@ -2301,29 +2315,5 @@ The special press conference was held at the Sri Lanka Freedom Party Headquarter
 [Data](articles/57750f69.json)
 
 [Extended Data](ext_articles/57750f69.ext.json)
-
----
-
-### Government is debt and interest. 1,909.7 million
-
-*2024-04-04 13:53:25* · [`adalk`](https://www.ada.lk/breaking_news/රජය-ණය-සහ-පොලිය-වශයෙන්--ඇ-ඩො--මිලියන-1-909-7-ක්-ගෙවා-අවසන්/11-408948) · `si`
-
-Sri Lanka's govt paid $1909.7M in debt and interest from July 2024 to Feb 2024, including $1338.8M in interest. No debt premium. Asian Development Bank, IMF, World Bank support. Paid $571.0M in bilateral debt and interest. Discussing loan agreements. Restructuring business loans at higher rates.
-
-🟩
-
-Former Governor Rajith Keerthi Tennakoon issued a statement that the Government of Sri Lanka paid US $ 1909.7 million from February to February 2024 to February 2024.
-
-The Government of Sri Lanka has paid multiple-sided loans from 21st July 21, 2024 to February 2024, and $ 1338.8 million as interest. No debt premium and the poles due to February 2024.
-
-There is no truth in the propaganda that the Government of Sri Lanka will not pay the debt installment and interest.
-
-The Asian Development Bank, the International Monetary Fund, World Bank, led by the Government of World Bank, continue to provide credit and other relief to the government's optimum report.
-
-...
-
-[Data](articles/aad3f374.json)
-
-[Extended Data](ext_articles/aad3f374.ext.json)
 
 ---

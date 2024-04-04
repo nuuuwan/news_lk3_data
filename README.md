@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 22:50:37**
+As of **2024-04-04 23:03:10**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 2,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,206 (100.0%) of 17,213 articles have been extended.
+17,213 (100.0%) of 17,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### O/L, A/L மாணவர்களுக்கு கல்வி அமைச்சின் விசேட அறிவிப்பு
+### Special Notice of the Ministry of Education for O/L, A/L students
 
 *2024-04-04 22:26:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-A-L-மாணவர்களுக்கு-கல்வி-அமைச்சின்-விசேட-அறிவிப்பு/175-335632) · `ta`
 
-எதிர்வரும் மே மாத நடுப்பகுதியில் கல்விப் பொதுத்தராதர சாதாரண தரப் பரீட்சையை நடத்துவதற்கான பரீட்சை அட்டவணைகள் தற்போது இறுதி செய்யப்பட்டுள்ளதாக கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்துள்ளார்.
+The Ministry of Education announced that the GCE Ordinary Level Examination dates are set for mid-May, with GCE Advanced Level results released beforehand.
 
-அதேநேரம், கல்விப் பொதுத்தராதர சாதாரண தரப் பரீட்சைக்கு முன்னதாக கல்விப் பொதுத்தராதர உயர்தரப் பரீட்சையின் பெறுபேறுகள் வெளியிடப்படும் எனவும் அவர் தெரிவித்துள்ளார். R
+🟩
+
+Education Minister Susil Premajayantha said that the examinations for conducting the GCE Ordinary Level Examination have been finalized in mid -May.
+
+At the same time, the results of the GCE Advanced Level Examination will be released before the GCE Ordinary Level Examination.. Remble
 
 ◼️
 
 [Data](articles/b160097d.json)
+
+[Extended Data](ext_articles/b160097d.ext.json)
 
 ---
 
@@ -60,29 +66,41 @@ Following thorough investigation into the complaint, a case has been filed with 
 
 [Data](articles/407f78a7.json)
 
+[Extended Data](ext_articles/407f78a7.ext.json)
+
 ---
 
-### රෝග ව්‍යාප්තිය ගැන බරපතළ අනාවරණයක්
+### Serious revelation of the spread of the disease
 
 *2024-04-04 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195315) · `si`
 
-විවිධ ලෙඩ රෝග පැතිරීම ඉතාමත් පහසුවෙන් සහ වේගවත්ව සිදුවන්නේ මීයන් සහ වවුලන්ගෙන් බවට කාලාන්තරයක් පුරා තිබූ මතය වෙනස් කිරීමට විද්‍යාඥයින් පිරිසක් සිදුකළ පර්යේෂණයකට හැකිව තිබේ.
+Scientists at University College London reveal that viruses can spread faster than rats and bats, with 64% of viruses transmitted from humans to animals. This poses a threat to both humans and animals, as the virus can evolve in new hosts, spreading diseases.
 
-එම පර්යේෂණයට අනුව හෙළි වී ඇත්තේ මෙම සත්තුන්ට වඩා මිනිසාගෙන් රෝග සම්ප්‍රේෂණය ඉතා වේගයෙන් සිදු වන බවය.
+🟩
 
-එංගලන්තයේ University College London හි පර්යේෂණ කණ්ඩායමක් විසින් සිදුකළ එම පර්යේෂණයෙන් හෙළි වී ඇත්තේ සතුන්ට වඩා දෙගුණයක් වේගයෙන් මිනිසාගෙන් වෛරසයක් සම්ප්‍රේෂණය විය හැකි බවය.
+A group of scientists have been able to change the spread of various diseases and accelerates the rats and bats.
 
-ඔවුන් සිදුකළ වෛරස් විශ්ලේෂණ අනුව බොහෝ අවස්ථාවන්හිදී එනම් 64% ක දී පමණ වෛරස් මිනිසුන්ගෙන් වෙනත් සතුන්ට සම්ප්‍රේෂණය වී ඇති බව සොයාගෙන ඇත.
+According to the research, the disease is more fast than these animals.
 
-එමෙන්ම මිනිසාගේ විවිධ ක්‍රියාකාරකම් ද රෝග පැතිරීමට දායක වන බව ඔවුන් පෙන්වා දී ඇත.
+The research made by a research team in the university college london of England has revealed that a virus could transmit twice as fast than animals.
 
-එනම් සතුන්ගේ වාසස්ථාන විනාශ කිරීම, පරිසර දූෂණය වැනි අහිතකර ක්‍රියාවන් හේතුවෙන් වේගයෙන් මිනිසාගෙන් විවිධ ලෙඩ රෝග සතුන්ට සම්ප්‍රේෂණය විය හැකි බව ඔවුන් පෙන්වා දී තිබේ.
+According to virus analysis, about 64% of viruses have been transmitted to other animals from the people.
 
-මෙම තත්ත්වය මිනිසාට මෙන්ම සතුන්ටද තර්ජනයක් වන බව ඔවුන් පවසයි.
+They have also shown that the various activities of humans also contribute to the spread of diseases.
+
+They have pointed out that the destruction of the animals, the destruction of the animals, can transmit different sickness from man from man.
+
+They say this is a threat to humans and animals.
+
+Scientists have pointed out that the spread virus can evolve in the new host, which can spread from humans and animals from animals.
+
+Residents say that it is a continuous threat to species of animals.
 
 ...
 
 [Data](articles/2010a57f.json)
+
+[Extended Data](ext_articles/2010a57f.ext.json)
 
 ---
 
@@ -102,49 +120,67 @@ Highlighting a remarkable increase of over 50% in government income in 2023 comp
 
 ---
 
-### சனத் நிஷாந்தவின் வீட்டுக்கு தீ  வைப்பு: 68 பேரும் விடுதலை!
+### Sanath Nishantha's house fire
 
 *2024-04-04 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180461) · `ta`
 
-முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் வீடு எரிக்கப்பட்ட சம்பவம் தொடர்பில் சிலாபம்  நீதிவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்ட 68 சந்தேக நபர்களையும் விடுதலை செய்வதற்கு சிலாபம் நீதிவான் நீதிமன்றம் வியாழக்கிழமை (04) தீர்மானித்ததாக சந்தேக நபர்கள் சார்பில் ஆஜரான சட்டத்தரணி சுவினி பெரேரா தெரிவித்தார்.
+The Chilaw Magistrate's Court released 68 suspects in the burning of former Secretary of State Sanath Nishantha, citing the death of two key witnesses and their failure to appear in court.
 
-இந்த வழக்கின் சாட்சிகள் இருவர் உயிரிழந்தமை மற்றும் பொலிஸார் சாட்சியங்களை நீதிமன்றில் முன்வைக்க தவறியதன் காரணமாக சந்தேக நபர்களை விடுதலை செய்ய நீதிமன்றம் தீர்மானித்துள்ளதாகவும் சட்டத்தரணி மேலும் தெரிவித்துள்ளார்.
+🟩
+
+Attorney -at -Law Swini Perera, appearing on behalf of the suspects, said that the Chilaw Magistrate's Court on Thursday (04) decided to release the 68 suspects who were produced before the Chilaw Magistrate's Court over the burning of former Secretary of State Sanath Nishantha.
+
+The lawyer added that the court has decided to release the suspects due to the death of two witnesses in the case and failed to present the witnesses in court.
 
 ◼️
 
 [Data](articles/3d9ab01d.json)
 
+[Extended Data](ext_articles/3d9ab01d.ext.json)
+
 ---
 
-### 13 விவகாரம்: அதிரடியாக அறிவித்தார் ஜனாதிபதி
+### 13 Affairs: The President declared a stunning
 
 *2024-04-04 21:47:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-விவகாரம்-அதிரடியாக-அறிவித்தார்-ஜனாதிபதி/175-335631) · `ta`
 
-13ஆவது அரசியலமைப்புத் திருத்தம் தொடர்பாக தமிழ்க் கட்சிகளின் எம்.பி.க்களுடன் மட்டும் கலந்துரையாடுவது போதுமானதல்ல என்றும் இது நாடு முழுவதும் அமுல்படுத்தும் விடயம் என்பதால் அனைத்துக் கட்சிகளுடனும் கலந்துரையாட வேண்டும் என்பதே தனது நிலைப்பாடு என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க சர்வகட்சி மாநாட்டில் தெரிவித்தார்.
+President Ranil Wickremesinghe emphasized the importance of implementing the 13th Amendment nationwide, beyond discussions with Tamil MPs.
+
+🟩
+
+President Ranil Wickremesinghe said at the Convention at the Conference Conference that it was not enough to discuss with the MPs of the Tamil parties on the 13th Amendment and that this is a matter of implementation across the country.
 
 ◼️
 
 [Data](articles/e4cb9f55.json)
 
+[Extended Data](ext_articles/e4cb9f55.ext.json)
+
 ---
 
-### கெஹலிய மீது மற்றுமொரு வழக்கு
+### Another case on Keheliya
 
 *2024-04-04 21:38:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-மீது-மற்றுமொரு-வழக்கு/175-335630) · `ta`
 
-2015 ஆம் ஆண்டு நடைபெற்ற ஜனாதிபதித் தேர்தலின் போது இலங்கை ரூபவாஹினி கூட்டுத்தாபனத்துக்கு சொந்தமான சுமார் 10 இலட்சம் ரூபாவை அரசியல் நடவடிக்கைகளுக்காக பயன்படுத்தியதாக முன்னாள் அமைச்சர் கெஹெலிய ரம்புக்வெல்ல உள்ளிட்டோருக்கு எதிராக  வழக்கு தாக்கல் செய்யப்பட்டுள்ளது.
+Keheliya Rambukwella, former minister, accused of misusing 10 lakh rupees for political activities. The Colombo High Court is hearing the case filed by the Bribery Commission against Rambukwella, Wimal Rupasinghe, and Chandrapala Liyanage.
 
-இதற்காக கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட 3 பிரதிவாதிகளுக்கு எதிராக இலஞ்ச ஊழல் ஆணைக்குழுவினால் தாக்கல் செய்யப்பட்ட வழக்கை விசாரிப்பதற்கான திகதியை கொழும்பு மேல் நீதிமன்றம் நிர்ணயித்துள்ளது.
+🟩
 
-இதன்படி, அப்போது ஊடகத்துறை அமைச்சராக இருந்த கெஹலிய ரம்புக்வெல்ல, இலங்கை ரூபவாஹினி கூட்டுத்தாபனத்தின் முன்னாள் தலைவர் விமல் ரூபசிங்க மற்றும் முன்னாள் பணிப்பாளர் நாயகம் சந்திரபால லியனகே ஆகியோருக்கு எதிராக இலஞ்ச ஊழல் ஆணைக்குழு இந்த வழக்கை தாக்கல் செய்துள்ளது.
+During the 2015 presidential election, a case has been filed against former minister Keheliya Rambukwella, including the use of about 10 lakh rupees belonging to the Sri Lanka Rupavahini Corporation for political activities.
 
-இந்த வழக்கு இன்று (04) கொழும்பு மேல் நீதிமன்ற நீதிபதி நவரத்ன மாரசிங்க முன்னிலையில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+The Colombo High Court has decided to hear the case filed by the Bribery Commission against three defendants, including Keheliya Rambukwella.
 
-இதன்போது விசாரணைக்காக தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ள கெஹலிய ரம்புக்வெல்லவும் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டார். R
+Accordingly, the Bribery Commission has filed the case against the then Media Minister Keheliya Rambukwella, former Chairman of the Sri Lanka Rupavahini Corporation Wimal Rupasinghe and former Director General Chandrapala Liyanage.
+
+The case was taken up for hearing before Colombo High Court Judge Nawaratne Marasinghe today.
+
+Keheliya Rambukwella, who is currently being interrogated for trial, was also produced in court. Remble
 
 ◼️
 
 [Data](articles/157fb634.json)
+
+[Extended Data](ext_articles/157fb634.ext.json)
 
 ---
 
@@ -370,19 +406,25 @@ The center is independent of independent quality inspection services, laboratory
 
 ---
 
-### අවුරුදු කාලයේ ආරක්ෂාව තහවුරු කරන්න ජනපති උපදෙස්
+### President instructs to consolidate the safety period
 
 *2024-04-04 20:01:10* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-කාලයේ-ආරක්ෂාව-තහවුරු-කරන්න-ජනපති-උපදෙස්/11-408959) · `si`
 
-එළැඹෙන සිංහල, දෙමළ අලුත් අවුරුදු නිවාඩු කාලය තුළ ජනතාව අපහසුතාවයට පත් නොවන අයුරින් අත්‍යාවශ්‍ය සේවා හා සෙසු රාජ්‍ය සේවා කටයුතු අඛණ්ඩව පවත්වාගෙන යාමට විධිමත් වැඩපිළිවෙළක් සකස් කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා නිලධාරීන්ට උපදෙස් දී තිබේ.
+President Ranil Wickremesinghe has ordered officials to plan for continuing essential services during Sinhala and Tamil New Year holidays, ensuring public safety.
 
-ජනාධිපති කාර්යාලය, අග්‍රාමාත්‍ය කාර්යාලය, ආරක්ෂක, සෞඛ්‍ය, ප්‍රවාහන, විදුලිබල යන අමාත්‍යාංශ ඇතුළු අදාළ ආයතන ඒකාබද්ධව මෙම වැඩපිළිවෙළ සකස් කරන ලෙස ජනාධිපතිවරයා වැඩිදුරටත් දැනුම් දී ඇත.
+🟩
 
-එසේම එළැඹෙන සිංහල දෙමළ අලුත් අවුරුදු සමය තුළ රටේ මහජන ආරක්ෂාව තහවුරු කිරීමටත්, නීතිය හා සාමය ආරක්ෂා කිරීමටත් පුළුල් වැඩපිළිවෙළක් ක්‍රියාවට නංවන ලෙස ද ජනාධිපතිවරයා විසින් ආරක්ෂක අංශ වෙත උපදෙස් ලබා දී තිබේ.
+President Ranil Wickremesinghe has instructed officials to formulate a systematic program to continue the essential services and other public service in the Sinhala and Tamil New Year holidays.
+
+The President has also informed the Presidential Secretariat, the Prime Minister's Office, Defense, Health, Transport and Power and Power and Power.
+
+The President has instructed the security forces to ensure public safety of the country during the Sinhala and Tamil New Year.
 
 ◼️
 
 [Data](articles/5adfdfcc.json)
+
+[Extended Data](ext_articles/5adfdfcc.ext.json)
 
 ---
 
@@ -1380,8 +1422,6 @@ From learning of the incident, I have seen suicide from two days, but suddenly I
 
 *2024-04-04 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98427/sacred-lord-buddha-relics-from-sri-lanka-presented-to-dalai-lama) · `en`
 
-#WATCH | Himachal Pradesh: Most Venerable Waskaduwe Mahindawamsa Nayaka Thero from of Kapilavastu Rajaguru Sri Sbhuthi Maha Vihara, Waskaduwa, Sri Lanka offers Gautama Buddha’s sacred relic to His Holiness the Dalai Lama.The Kapilavastu relics hold immense historical and… pic.twitter.com/U4Gri76RYv— ANI (@ANI) April 4, 2024
-
 Lord Buddha’s sacred Kapilavastu relics, situated at a holy temple in Sri Lanka, have been offered to the Dalai Lama on Thursday morning, the office of Dalai Lama said in a statement.
 
 The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa, a Buddhist temple in Sri Lanka.
@@ -1389,6 +1429,8 @@ The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa
 Notably, the Kapilavastu relics hold immense historical and spiritual significance, connecting the devotees to the profound legacy of Lord Buddha.
 
 The Sri Subhuthi Maha Viharaya in Waskaduwa houses 21 relics of the Lord Buddha.
+
+Waskaduwe Mahindawansa Maha Nayaka Thero is the custodian of these precious Kapilavastu relics, which have been preserved and protected for generations till now at Sri Subhuthi Maha Viharaya in Waskaduwa, Sri Lanka.
 
 ...
 

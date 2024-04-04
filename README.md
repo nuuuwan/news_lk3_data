@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 19:51:40**
+As of **2024-04-04 20:03:16**
 
 ## Newspaper Stats
 
@@ -26,63 +26,83 @@ adaderanasinhalalk | 2,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,171 (100.0%) of 17,175 articles have been extended.
+17,175 (100.0%) of 17,175 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### සනත් නිශාන්තගේ නිවසට ගිනිතැබීමේ සිද්ධියේ සැකකරුවන් 68 දෙනාට නිදහස
+### 68 suspects of the burning of Sanath Nishantha's house
 
 *2024-04-04 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195310) · `si`
 
-හිටපු අමාත්‍ය සනත් නිශාන්ත මහතාගේ නිවසට ගිනිතැබීමේ සිද්ධිය සම්බන්ධයෙන් හලාවත මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ සැකකරුවන් 68 දෙනෙකු නිදහස් කිරීමට හලාවත අධිකරණය අද (04) තීරණය කළ බව සැකකරුවන් වෙනුවෙන් පෙනී සිටි නීතිඥ ස්විනි පෙරේරා මහතා පැවසීය.
+68 suspects in the burning of Minister Sanath Nishantha's house were released due to lack of evidence.
 
-මෙම නඩුවේ සාක්ෂි සඳහා සිටි දෙදෙනාම මිය යෑමත් පොලීසිය සාක්ෂි අධිකරණයට ඉදිරිපත් කිරීමට අපොහොසත් වීමත් හේතුවෙන්  සැකකරුවන් නිදහස් කිරීමට අධිකරණය තීරණය කළ බවද එහිදී නීතිඥවරයා වැඩිදුරටත් පැවසීය.
+🟩
+
+Attorney-at-Law Swirin Perera said that 68 suspects were released regarding the burning of the house of Minister Sanath Nishantha.
+
+The court decided to release the suspects due to the death of both the evidence for evidence in the case and the police fail to submit the proof of the police.
 
 ◼️
 
 [Data](articles/4251142b.json)
 
+[Extended Data](ext_articles/4251142b.ext.json)
+
 ---
 
-### මෛත්‍රීට එරෙහි වූ චන්ද්‍රිකාගේ පෙත්සම
+### Chandrika, who opposed Maithri, is the petition
 
 *2024-04-04 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195309) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා එම ධුරයේ කටයුතු කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය අද (04) වාරණ නියෝගයක් නිකුත් කළේය.
+Chandrika Bandaranaike Kumaratunga, a former President and SLFP leader, filed a petition against Maithripala Sirisena, the SLFP Chairman, in the Colombo District Court. The court issued an injunction, preventing Sirisena from holding the post of Prime Minister, citing national security failures and alleged misconduct.
 
-ඒ ශ්‍රී ලංකා නිදහස් පක්ෂයේ අනුශාසකවරියක වශයෙන් කටයුතු කරන හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය ඉදිරිපත් කළ පැමිණිල්ලක් සලකා බැලීමෙන් අනතුරුවය.
+🟩
 
-හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය ශ්‍රී ලංකා නිදහස් පක්ෂ සභාපති හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතාට එරෙහිව කොළඹ දිසා අධිකරණයේ පෙත්සමක් ගොනු කර තිබුණි.
+The Colombo District Court today issued an enjoining order preventing the Chairman of the Sri Lanka Freedom Party (SLFP) former President Maithripala Sirisena.
 
-ඉන් පෙන්වා දී තිබුණේ මෛත්‍රිපාල සිරිසේන මහතා පක්ෂයේ සභාපති ලෙස වගකීම් විරහිත ආකාරයෙන් කටයුතු කිරීම නිසා පක්ෂයට විශාල හානියක් සිදුවූ බවය.
+Former President Chandrika Bandaranaike Kumaratunga, who is a Sri Lanka Freedom Party (SLFP) is the leader of the Sri Lanka Freedom.
 
-පක්ෂයේ සභාපතිවරයා මෙන්ම රටේ සේනාධිනායකයා වශයෙන් ද කටයුතු කළ මෛත්‍රිපාල සිරිසේන මහතා ජාතික ආරක්ෂාව තහවුරු කිරීමට අපොහොසත් වීම නිසා පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය උද්ගත වූ බව පෙත්සමේ සඳහන් ය.
+Former President Chandrika Bandaranaike Kumaratunga filed a petition in the Colombo District Court against Sri Lanka Freedom Party Chairman Maithripala Sirisena.
 
-ඒ සම්බන්ධව වරදකරු වී ඔහුට රුපියල් මිලියන 100 ක වන්දියක් ගෙවීමට අධිකරණයෙන් නියම වී ඇති බවත් චන්ද්‍රිකා බණ්ඩාරනායක මහත්මිය සිය පෙත්සමෙන් පෙන්වා දුනි.
+It was pointed out that Maithripala Sirisena's irresponsible manner as the Chairman of the party was caused by the party.
+
+The petition was found that Maithripala Sirisena who was the Chairman of the party and the Commonwealth of the country have failed to ensure national security.
+
+Chandrika Bandaranaike has pointed out that he is guilty of Rs. 100 million.
+
+The petition has decided that Mr. Sirisena has acted in the prime minister that Mr. Sirisena has been deployed as the Prime Minister of the Governance of the Governor.
 
 ...
 
 [Data](articles/d124cb66.json)
 
+[Extended Data](ext_articles/d124cb66.ext.json)
+
 ---
 
-### கொங்கிரீட் குழாய் சரிந்து விழுந்ததில் மாணவன் பலி : மஸ்கெலியாவில் சோகம்
+### Student killed in Congress
 
 *2024-04-04 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180458) · `ta`
 
-மஸ்கெலியா கார்ட்மோர் தமிழ் வித்தியாலயத்தில் கொங்கிரீட் குழாய் ஒன்று சரிந்து விழுந்ததில் மாணவர் ஒருவர் உயிரிழந்துள்ளார்.
+A student died and another was injured at Maskeliya Cartmore Tamil Vidyalaya when a concrete pipe used for a rectal garden collapsed.
 
-கார்ட்மோர் தோட்டத்தில் மலசலகூடத்திற்கான குழியை வெட்டுவதற்குப் பயன்படும் கொங்கிரீட் குழாய்களை பாடசாலை வளாகத்தில் இறக்கி வைத்துள்ளனர்.
+🟩
 
-அவ்வாறு பாடசாலையில் இறக்கி வைக்கப்பட்டிருந்த குறித்த கொங்கிரீட் குழாய்கள் மீது ஏறி விளையாடியபோது குழாய் ஒன்று மாணவர் ஒருவர் மீது சரிந்து விழுந்ததில் மாணவர் ஒருவர் படுகாயமடைந்துள்ளார்.
+A student dies when a concrete pipe collapsed at the Maskeliya Cartmore Tamil Vidyalaya.
 
-இதனையடுத்து, படுகாயமடைந்த மாணவனை ஆசிரியர்களால் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டபோது அவர் இடைநடுவில் உயிரிழந்துள்ளதாக தெரிவிக்கப்படுகிறது.
+The concrete pipes used to cut the cavity for the rectal garden have been unloaded at the school premises.
+
+A student was injured when a pipe collapsed on a student when he climbed into the concrete pipes that had been unloaded at the school.
+
+Subsequently, the injured student was taken to the hospital by teachers.
 
 ◼️
 
 [Data](articles/38d67f31.json)
+
+[Extended Data](ext_articles/38d67f31.ext.json)
 
 ---
 
@@ -770,8 +790,6 @@ From learning of the incident, I have seen suicide from two days, but suddenly I
 
 *2024-04-04 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98427/sacred-lord-buddha-relics-from-sri-lanka-presented-to-dalai-lama) · `en`
 
-#WATCH | Himachal Pradesh: Most Venerable Waskaduwe Mahindawamsa Nayaka Thero from of Kapilavastu Rajaguru Sri Sbhuthi Maha Vihara, Waskaduwa, Sri Lanka offers Gautama Buddha’s sacred relic to His Holiness the Dalai Lama.The Kapilavastu relics hold immense historical and… pic.twitter.com/U4Gri76RYv— ANI (@ANI) April 4, 2024
-
 Lord Buddha’s sacred Kapilavastu relics, situated at a holy temple in Sri Lanka, have been offered to the Dalai Lama on Thursday morning, the office of Dalai Lama said in a statement.
 
 The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa, a Buddhist temple in Sri Lanka.
@@ -779,6 +797,8 @@ The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa
 Notably, the Kapilavastu relics hold immense historical and spiritual significance, connecting the devotees to the profound legacy of Lord Buddha.
 
 The Sri Subhuthi Maha Viharaya in Waskaduwa houses 21 relics of the Lord Buddha.
+
+Waskaduwe Mahindawansa Maha Nayaka Thero is the custodian of these precious Kapilavastu relics, which have been preserved and protected for generations till now at Sri Subhuthi Maha Viharaya in Waskaduwa, Sri Lanka.
 
 ...
 
@@ -1550,21 +1570,27 @@ The special press conference was held at the Sri Lanka Freedom Party Headquarter
 
 ---
 
-### රජය ණය සහ පොලිය වශයෙන්  ඇ.ඩො. මිලියන 1,909.7 ක් ගෙවා අවසන්
+### Government is debt and interest. 1,909.7 million
 
 *2024-04-04 13:53:25* · [`adalk`](https://www.ada.lk/breaking_news/රජය-ණය-සහ-පොලිය-වශයෙන්--ඇ-ඩො--මිලියන-1-909-7-ක්-ගෙවා-අවසන්/11-408948) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ජනාධිපති ධූරයට පත්වූ දිනයේ සිට 2024 පෙබරවාරි දක්වා කාලය තුල ශ්‍රී ලංකා රජය ඇමරිකානු ඩොලර් මිලියන 1909.7 ක් විදේශ ණය හා පොලිය වශයෙන් ගෙවා ඇතැයි හිටපු ආණ්ඩුකාර රජිත් කීර්ති තෙන්නකෝන් මහතා නිවේදනයක් නිකුත් කරමින් පවසයි.
+Sri Lanka's govt paid $1909.7M in debt and interest from July 2024 to Feb 2024, including $1338.8M in interest. No debt premium. Asian Development Bank, IMF, World Bank support. Paid $571.0M in bilateral debt and interest. Discussing loan agreements. Restructuring business loans at higher rates.
 
-ශ්‍රී ලංකා රජය 2022 ජූලි 21 දින සිට 2024 පෙබරවාරි දක්වා බහු පාර්ශවීය ණය (IMF, WB, ADB වැනි) සහ පොලිය වශයෙන් ඩොලර් මිලියන 1338.8 ක් ගෙවා ඇත. 2024 පෙබරවාරි දක්වා ගෙවීමට නියමිත ණය වාරික සහ පොලියේ කිසිදු හිඟ මුදලක් නැත.
+🟩
 
-ශ්‍රී ලංකා රජය ණය වාරික හා පොලිය ගෙවීම සිදු නොකරන බවට සමාජ මාධ්‍ය හරහා ගෙන යන ප්‍රචාරයේ කිසිදු සත්‍යතාවයක් නැතැයි තෙන්නකෝන් මහතා පවසයි.
+Former Governor Rajith Keerthi Tennakoon issued a statement that the Government of Sri Lanka paid US $ 1909.7 million from February to February 2024 to February 2024.
 
-ආසියානු සංවර්ධන බැංකුව, ජාත්‍යන්තර මුල්‍ය අරමුදල, ලෝක බැංකුව ප්‍රමුඛ ආයතන රජයට දිගින් දිගටම ණය සහ වෙනත් සහන ලබා දෙමින් ඇත්තේ රජයේ මේ ණය ගෙවීමේ ප්‍රශස්ත වාර්තාව නිසාය.
+The Government of Sri Lanka has paid multiple-sided loans from 21st July 21, 2024 to February 2024, and $ 1338.8 million as interest. No debt premium and the poles due to February 2024.
+
+There is no truth in the propaganda that the Government of Sri Lanka will not pay the debt installment and interest.
+
+The Asian Development Bank, the International Monetary Fund, World Bank, led by the Government of World Bank, continue to provide credit and other relief to the government's optimum report.
 
 ...
 
 [Data](articles/aad3f374.json)
+
+[Extended Data](ext_articles/aad3f374.ext.json)
 
 ---
 

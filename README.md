@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 10:18:01**
+As of **2024-04-04 10:33:46**
 
 ## Newspaper Stats
 
-*Scraped **17,045** Articles*
+*Scraped **17,048** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ adalk | 1,433
 tamilmirrorlk | 2,024
 adaderanalk | 2,042
 virakesarilk | 2,460
-dailymirrorlk | 2,621
-adaderanasinhalalk | 2,750
+dailymirrorlk | 2,623
+adaderanasinhalalk | 2,751
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,043 (100.0%) of 17,045 articles have been extended.
+17,045 (100.0%) of 17,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### 18 හැවිරිදි තරුණියගේ සිරුර ජලාශයක තිබී සොයාගනී
+
+*2024-04-04 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195281) · `si`
+
+රාගල පොලිස් වසමේ ඩෙල්මාර් වත්ත උඩ කොටස ප්‍රදේශයේ කුඩා ජලාශයක තිබී සැකකටයුතු ලෙස මියගිය තරුණියකගේ මළ සිරුරක් සොයාගෙන තිබේ.
+
+රාගල පොලීසියට ලද තොරතුරක් මත එම සිරුර සොයාගත් බව පොලිස් මාධ්‍ය කොට්ඨාසය නිවේදනය කරයි.
+
+ඇය පසුගිය මාර්තු 30 වනදා කිසිවෙකුටත් නොදන්වා නිවසින් පිටව ගොස් ඇති අතර, ඒ පිළිබඳ සොයා බලන අතරතුර මෙම සිරුර හමුව ඇත.
+
+මෘත ශරීරය නුවරඑළිය රෝහලේ තැන්පත් කර ඇති අතර, රාගල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+මේ අතර සූරියකන්ද පොලිස් වසමේ තුංදොල ප්‍රදේශයේ දී දොළ පහරකට වැටී කාන්තාවක් මියගොස් තිබේ.
+
+ගම්මිරිස් අහුලා ගැනීමට යන පවසා ඇය ඉඩම පහලට ගොස් ඇති අතර, නැවත පැමිණීමට ප්‍රමාද වීම හේතුවෙන් නිවැසියන් සොයා බැලීමේ දී දොළට වැටී මියගොස් ඇති බව දැක තිබේ.
+
+◼️
+
+[Data](articles/18c4d8fe.json)
+
+---
+
+### Lord Buddha relics from Sri Lanka to be presented To Dalai Lama
+
+*2024-04-04 09:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lord-Buddha-relics-from-Sri-Lanka-to-be-presented-To-Dalai-Lama/108-280165) · `en`
+
+Dharmashala, April 4 (NDTV) - Lord Buddha's sacred Kapilawasthu relics, situated at a holy temple in Sri Lanka, will be offered to the Dalai Lama on Thursday morning, the office of Dalai Lama said in a statement.
+
+The sacred relics are located at RajaGuru Sri Subuthi Waskaduwa Maha Viharaya, a Buddhist temple in Sri Lanka.
+
+Notably, the Kapilavastu relics hold immense historical and spiritual significance, connecting the devotees to the profound legacy of Lord Buddha.
+
+The Sri Subhuthi Maha Viharaya in Waskaduwa houses 21 relics of the Lord Buddha.
+
+'Waskaduwe Mahindawamsa Nayaka Thero' is the custodian of these precious Kapilawasthu relics, which have been preserved and protected for generations till now at Sri Subhuthi Maha Viharaya in Waskaduwa, Sri Lanka.
+
+...
+
+[Data](articles/05c63e04.json)
+
+---
 
 ### PA Member of Parliament. Nandasena has passed away
 
@@ -75,6 +117,8 @@ Meanwhile, in the first two months of 2024 alone, Sri Lankan migrant workers’ 
 ...
 
 [Data](articles/7f5a0505.json)
+
+[Extended Data](ext_articles/7f5a0505.ext.json)
 
 ---
 
@@ -205,6 +249,24 @@ The incident was also felt in the capital, Tokyo.However, no tsunami warning has
 [Data](articles/1fe8cac9.json)
 
 [Extended Data](ext_articles/1fe8cac9.ext.json)
+
+---
+
+### MP H. Nandasena passes away at 69
+
+*2024-04-04 09:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MP-H-Nandasena-passes-away-at-69/108-280161) · `en`
+
+Colombo, April 4 (Daily Mirror) - Anuradhapura District MP of Sri Lanka Podujana Peramuna (SLPP) H. Nandasena has passed away this morning (04) at the age of 69 due to a sudden illness.
+
+Nandasena, a former provincial minister served in various capacities, including as a member of Padaviya Pradeshiya Sabha and North Central Provincial Council, where he held a provincial ministerial portfolio.
+
+In May 2017, he was dismissed from his ministerial position after attending a Joint Opposition May Day rally.
+
+He contested the 2020 parliamentary election as a candidate of the Sri Lanka People’s Freedom Alliance in Anuradhapura District and was elected to the Parliament of Sri Lanka.
+
+◼️
+
+[Data](articles/7eef91c7.json)
 
 ---
 
@@ -2076,15 +2138,21 @@ The policy plan prepared to modernize the agricultural sector of Sri Lanka was h
 
 ---
 
-### අවුරුද්දට 10දා සිට විශේෂ දුම්රිය
+### Special trains from 10th to year
 
 *2024-04-03 20:08:43* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුද්දට-10දා-සිට-විශේෂ-දුම්රිය/11-408935) · `si`
 
-සිංහල හා හින්දු අලුත් අවුරුදුඋත්සවය වෙනුවෙන් මේ මස 10වන දින සිට 15වන දින දක්වා කාලය තුළදී ප්රුධාන දුම්රිය මාර්ගයේ හා මුහුදුබඩ මාර්ගයේ විශේෂ දුම්රියන් ධාවන කිරීමට කටයුතු කරන බව දුම්රිය දෙපාර්තමේන්තුව සඳහන්කරයි. දිනපතා ධාවනය වන දුම්රියන්ට අමතරව මෙම විශේෂ දුම්රියන් ධාවනය කිරීමට කටයුතු කරන බවත් පෙන්වා දෙයි.
+The Department of Railways will run special trains from the 10th to 15th for the Sinhala and Hindu New Year, in addition to regular services.
+
+🟩
+
+The Department of Railways will operate special train services from the 10th to 15th to the Sinhala and Hindu New Year.. In addition to the daily trains, these special trains will be operated.
 
 ◼️
 
 [Data](articles/200f1817.json)
+
+[Extended Data](ext_articles/200f1817.ext.json)
 
 ---
 
@@ -2131,83 +2199,5 @@ The Cabinet approved to obtain four aircraft, it was reported that only two sele
 [Data](articles/c1f75895.json)
 
 [Extended Data](ext_articles/c1f75895.ext.json)
-
----
-
-### Due to the traffic on the main road
-
-*2024-04-03 19:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180365) · `ta`
-
-A high-speed train from Colombo Fort to Dematagoda was blocked between Maradana and Dematagoda stations due to traffic on the main road at 6.05 pm on Wednesday.
-
-🟩
-
-The high -speed train traveling from the Colombo Fort Railway Station at around 6.05 pm on Wednesday (03) was blocked between Maradana and Dematagoda railway stations.
-
-◼️
-
-[Data](articles/25572210.json)
-
-[Extended Data](ext_articles/25572210.ext.json)
-
----
-
-### Rajiv Gandhi assassination case: 3 ex-convicts return to Sri Lanka
-
-*2024-04-03 19:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rajiv-Gandhi-assassination-case-3-ex-convicts-return-to-Sri-Lanka/108-280120) · `en`
-
-Colombo, April 3 (PTI) - Three Sri Lankan nationals, who were ex-convicts in former Prime Minister Rajiv Gandhi’s assassination case returned to their native country on Wednesday after serving their jail term.
-
-Rajiv Gandhi was killed by a suicide bomber of the banned LTTE nearby Sriperumbudur on May 21, 1991.
-
-The three ex-convicts in the case who returned back to Sri Lanka included Murugan alias Sriharan, Jayakumar and Robert Payas. They left for their native country by a Sri Lankan carrier, PTI reported.
-
-The three Sri Lankans were among the seven convicts in the case freed by the Supreme Court in November 2022.
-
-Following their release, they were lodged in a special camp in Tiruchirappalli. They arrived in Chennai last night and left for Colombo today.
-
-Earlier, the Tamil Nadu government had informed the Madras High Court they could travel back home once the Foreigners Regional Registration Office (FRRO) issued a deportation order.
-
-...
-
-[Data](articles/63256a41.json)
-
-[Extended Data](ext_articles/63256a41.ext.json)
-
----
-
-### Serious offense made in the World Cup final
-
-*2024-04-03 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195269) · `si`
-
-In the 2019 World Cup final, New Zealand's victory was controversially awarded to England due to a disputed decision by umpire Kumar Dharmasena, who awarded six runs instead of the correct five. This decision, made during a crucial moment, led to New Zealand's loss.
-
-🟩
-
-The MaraI Erasmus, who was the victory of New Zealand in the 2019 World Cup final, was the winner of the 2019 World Cup final in England.
-
-He was speaking at an interview given to the England Telegraph.
-
-The Host England and New Zealand were eligible for the final World Cup in England in 2019.
-
-New Zealand scored 241 runs for the loss of 8 wickets at the end of 50 wickets.
-
-Chasing a target of 242 runs, the target of the England team was 9 runs.
-
-New Zealand was sent to the Martin Gapil ball to the wicketkeeper.
-
-The ball, which was directed to Gapil, turned to Ben Stokes.
-
-Kumamy Dharmasena served as the field judge judge, and the batsmen should receive six runs with the two marks obtained by the batsmen.
-
-However, according to cricket laws, the batsmen had completed the sign of the sign of the batsmen at the hands of the bowl when the ball was burned.
-
-However, the final of the final appears that when Martin Gaphill's ball was shifted by Ben Stokes and Adil Rash.
-
-...
-
-[Data](articles/f41ed8b3.json)
-
-[Extended Data](ext_articles/f41ed8b3.ext.json)
 
 ---

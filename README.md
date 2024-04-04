@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 05:38:39**
+As of **2024-04-04 05:57:18**
 
 ## Newspaper Stats
 
-*Scraped **16,996** Articles*
+*Scraped **16,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 932
 economynextcom | 942
 adalk | 1,430
 tamilmirrorlk | 2,018
-adaderanalk | 2,036
+adaderanalk | 2,037
 virakesarilk | 2,457
 dailymirrorlk | 2,613
 adaderanasinhalalk | 2,742
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,995 (100.0%) of 16,996 articles have been extended.
+16,996 (100.0%) of 16,997 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -734,6 +734,8 @@ The fishermen issue is a contentious one in the ties between India and Sri Lanka
 
 [Data](articles/1dba306a.json)
 
+[Extended Data](ext_articles/1dba306a.ext.json)
+
 ---
 
 ### 19 Indian fishermen detained by SL Navy return home amid row over Katchatheevu Island
@@ -799,6 +801,26 @@ Ava Lee took 2 wickets for 19 runs, Salad Stubs 2 wickets for 23 runs while Mary
 [Data](articles/df68938a.json)
 
 [Extended Data](ext_articles/df68938a.ext.json)
+
+---
+
+### BASL condemns use of parliamentary privileges to undermine independence of judiciary
+
+*2024-04-03 22:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98406/basl-condemns-use-of-parliamentary-privileges-to-undermine-independence-of-judiciary) · `en`
+
+The Bar Association of Sri Lanka (BASL) has expressed deep concern about the recent remarks made by certain Members of Parliament condemning the invocation of Supreme Court’s fundamental rights jurisdiction by a citizen to challenge the issuance of liquor licenses.
+
+Reiterating that every citizen has a fundamental right to seek redress from the Supreme Court, the apex court of the country, as enshrined in the Constitution, the BASL said this right cannot be curtailed under the guise of parliamentary privileges.
+
+Accordingly, it has categorically condemned the claims made by these MPs suggesting otherwise.
+
+The BASL, in a statement issued on Wednesday (03), said it views with grave concern that any attempts to use parliamentary privileges to interfere with the independence of the judiciary directly or indirectly.
+
+It also emphasized that it would, under no circumstances, remain silent when attempts are made to weaken the independence of the judiciary.
+
+...
+
+[Data](articles/0e3aea82.json)
 
 ---
 
@@ -2223,33 +2245,5 @@ We are in talks with all parties on the issue of the presidential candidate.
 [Data](articles/6b801cb1.json)
 
 [Extended Data](ext_articles/6b801cb1.ext.json)
-
----
-
-### Ashok Selvan's 'Gold One'
-
-*2024-04-03 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180332) · `ta`
-
-Ashok Selvan stars in 'Ponnu Kandane', directed by V. Ashok Selvan, Vasant Ravi, and Aishwarya Lakshmi, with music by Yuvan Shankar Raja. Produced by Jyoti Desh Pandey and Yuvan Shankar Raja, it's set to air on Colors RV on Tamil New Year, April 14, and will be available on Jio Cinema.
-
-🟩
-
-Actor Ashok Selvan, who has hired success films like 'Battle Star' and 'Blue Star', is the hero of the story, 'Ponnu Kandane'.
-
-Director V.. Ashok Selvan, Vasant Ravi and Aishwarya Lakshmi have played the lead roles in the movie 'Ponnu Kandane'.
-
-A.. D. Yuvan Shankar Raja has composed the film, which has been recorded by Bahad. The film provides Geo Studios.
-
-The film has also been produced by Jyoti Desh Pandey and Yuvan Shankar Raja on behalf of the YSR Film Production film company.
-
-The character of the film has been released as Look Posters and Single Track. In this case, the film will be aired on the 14th of this month as a Tamil New Year special film on Colors RV.
-
-Although the film is not released on television, it is expected that the film will be shocked by the film's film, but it is expected that the film will be free to visit Jio cinema after the release of the film on April 14.
-
-◼️
-
-[Data](articles/bf895fcf.json)
-
-[Extended Data](ext_articles/bf895fcf.ext.json)
 
 ---

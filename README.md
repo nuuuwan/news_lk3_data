@@ -1,36 +1,58 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 18:09:41**
+As of **2024-04-04 18:21:26**
 
 ## Newspaper Stats
 
-*Scraped **17,154** Articles*
+*Scraped **17,158** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 150
+colombotelegraphcom | 152
 bbccomsinhala | 179
 dbsjeyarajcom | 208
 newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
 economynextcom | 944
-adalk | 1,448
+adalk | 1,449
 tamilmirrorlk | 2,034
 adaderanalk | 2,060
 virakesarilk | 2,490
 dailymirrorlk | 2,633
-adaderanasinhalalk | 2,773
+adaderanasinhalalk | 2,774
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,152 (100.0%) of 17,154 articles have been extended.
+17,154 (100.0%) of 17,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### පාතාලයේ සබඳතා පැවැත්වූ සැකකරුවන් සැඟවූ ආයුධ පෙන්වයි
+
+*2024-04-04 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195306) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයන් තිදෙනෙකුගෙන් අනාවරණය වූ තොරතුරු මත විදේශීය රටක නිෂ්පාදිත ජීව අත්බෝම්බයක් හා කඩු 04ක් සොයාගත් බව කොළඹ අපරාධ කොට්ඨාසය පවසයි.
+
+අත්අඩංගුවට ගත් එක් සැකකරුවෙක් රජමල් වත්තේ චාමර නමැත්තාගේ ගෝලයෙක් වන අතර ඔහු ඉකුත් මස 12 වනදා මට්ටක්කුලිය අලිවත්ත ප්‍රදේශයේදී පුද්ගලයකුට වෙඩි තබා ඝාතනය කිරීමට පැමිණි යතුරුපැදියේ පැදිකරු බව පොලීසිය පැවසීය.
+
+එම සැකකරු දින 07ක රැඳවුම් නියෝග මත ප්‍රශ්න කිරීමේදී සේදවත්ත ඩෝබි වත්ත උමගිරි වලව්ව ආසන්නයේ පරවි කූඩුවක් අසල වළදමා තිබූ ජීව අත්බෝම්බය සොයාගැනීමට හැකිවී ඇත.
+
+අනෙක් සැකකරුවන් දෙදෙනා සංවිධානාත්මක අපරාධ සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවන් වන මෝදර නිපුන සහ රජමල් වත්තේ චාමර යන පුද්ගලයන් සමග සබඳතා පැවැත්වීම හේතුවෙන් අත්අඩංගුවට ගෙන තිබේ.
+
+රැඳවුම් නියෝග මත ප්‍රශ්න කිරීමේදී ඔවුන් සේදවත්තේ පොඩි සනා නමැත්තාගේ ගෝලයන් දෙදෙනෙක් බව හෙළිවී ඇත.
+
+එම සැකකරුවන් දෙදෙනා සේදවත්ත ප්‍රදේශයේදී අත්අඩංගුවට ගෙන සිදු කළ ප්‍රශ්න කිරීමේදී ඔවුන්ගේ නිවෙස්වල සඟවා තිබූ  කඩු 04ක්  සොයාගැනීමට හැකිවූ බව පොලීසිය කියයි.
+
+...
+
+[Data](articles/38785e9f.json)
+
+---
 
 ### 2023 A/L results expected in May?
 
@@ -49,6 +71,8 @@ The Education Minister, who stated that there are around 35,000 individuals taki
 ◼️
 
 [Data](articles/d10a4c7d.json)
+
+[Extended Data](ext_articles/d10a4c7d.ext.json)
 
 ---
 
@@ -276,19 +300,25 @@ Minister of Education Dr. Susil Premajayantha says that the GCE Advanced Level e
 
 ---
 
-### ඩොලරයට රුපියල් 280ක් ?
+### 280 rupees to the dollar?
 
 *2024-04-04 16:25:45* · [`adalk`](https://www.ada.lk/breaking_news/ඩොලරයට-රුපියල්-280ක්--/11-408955) · `si`
 
-රටේ ආර්ථික වර්ධන වේගය සෘන අගයකට පත්ව තිබුණා. නමුත් රජය ගෙන ගිය නිවැරදි ආර්ථික කළමනාකරණය හේතුවෙන් අද රුපියලේ වටිනාකම ඉහළ ගොස් තිබෙනවා. ඒ අනුව ආර්ථිකය ශක්තිමත් වී තිබෙනවා. ඒ නිසා අද මෙම බඳවා ගැනීම් සිදු කිරීමට අපට අවස්ථාව ලැබී තිබෙනවා යයි,  උපාධිධාරී ගුරුවරුන්ට පත්වීම් ලබා දීමේ උත්සවයකට එක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසා සිටියේය.
+The rupee's value has increased due to economic management, strengthening the economy. President Ranil Wickremesinghe noted a 300 rupee value in the dollar, aiming for 280, to strengthen the economy further.
 
-තවදුරටත් අදහස් දැක්වූ ජනාධිපතිවරයා “පසුගිය වසරේ ඇමරිකානු ඩොලරයට සාපේක්ෂව රුපියලේ අගය 370ක් බවට පත්ව තිබුණා. අද වන විට ඩොලරයට සාපේක්ෂව රුපියල 300ක අගයක පවතින අතර එය ඉදිරියේදී 280ක් දක්වා පහළ ගෙන ඒමට බලාපොරොත්තු වෙනවා. එවිට ජනතාවගේ අතට ලැබෙන මුදල ශක්තිමත් වෙනවා.
+🟩
 
-අද ආණ්ඩුවේ වැඩකටයුතු සඳහා මුදල් සොයාගත යුතුව තිබෙනවා. අද අපි ගමන් කරන්නේ දුෂ්කර මාර්ගයක වුවද ඉදිරියේ දී ආර්ථික දියුණුවක් ඇති කර ගැනීමට හැකියාව ලැබෙනවා.”
+The economic growth rate of the country was negatively appreciated. But today the rupee has increased due to the accurate economic management. Accordingly, the economy has been strengthened. Therefore, President Ranil Wickremesinghe joined the graduate teachers to graduate graduate teachers, President Ranil Wickremesinghe said.
+
+Speaking further President President said. Today there is a 300 rupee value in the dollar and hope to download up to 280. Then the amount of money is strengthened.
+
+The government needs to be found today. Today we are able to improve economic growth in the future. "
 
 ◼️
 
 [Data](articles/d65ccd4a.json)
+
+[Extended Data](ext_articles/d65ccd4a.ext.json)
 
 ---
 
@@ -1094,6 +1124,26 @@ According to a petition filed by former President Chandrika Kumaratunga, Colombo
 
 ---
 
+### මෑත කාලයේ වැඩිම මත්ක‍රල් තොගය කළුතරින් අල්ලයි
+
+*2024-04-04 14:06:27* · [`adalk`](https://www.ada.lk/breaking_news/මෑත-කාලයේ-වැඩිම-මත්ක‍රල්-තොගය-කළුතරින්-අල්ලයි/11-408950) · `si`
+
+ඉන්දියාවේ සිට මෙරටට ගෙන්වා මහා පරිමාණයෙන් සිදුකරන මත්කරල් ජාවාරමකට සම්බන්ධ පුද්ගලයකු මත්කරල් හැත්තෑ හයදහස් නවසිය අසූවක් සහ කේරල ගංජා කිලෝවක් සමග අද (04) අත්අඩංගුවට ගත්බව කළුතර අපරාධ කොට්ඨාශය පවසයි .
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ පානදුර , හිරණ  ප්‍රදේශයේ පදිංචි 38 හැව්රිදි  පුද්ගලයකු බව පොලිසිය කීය.
+
+ලද තොරතුරක් මත කළුතර නගර මධ්‍යයේ දී සැකකරු පරීක්ෂා කොට බහා තිබූ මත්කරල් 1500  ක් සහ කේරල ගංජා කිලෝවක් සොයාගෙන සැකකරුගේ නිවස පරීක්ෂා කිරීමේදී ඉතිරි මත්කරල් තොගය සොයා ගෙන අත්අඩංගුවට ගෙන තිබේ .
+
+භාරයට ගෙන ඇති මත්කරල් මානසික රෝගීන්ට ලබාදෙන ඖෂධයක් බවට හදුනාගෙන ඇති බවත් , පාසල් ළමුන් සහ උපකාරක පංති සිසුන් ඒවා මිළදී ගැනීමට වැඩි රුචිකත්වයක් දක්වන බවද පොලිසිය විසින් හදුනාගෙන තිබේ.
+
+යුක්තිය මෙහෙයුමට සමගාමීව වැටලීම සිදුකර ඇති බවත්, මෑත කාලයේ අත්අඩංගුවට ගෙන ඇති වැඩිම මත්කරල් තොගය මෙය බවත් බැටලීමට එක් වූ උසස් නිලධාරියෙක් පැවසීය. සැකකරු කළුතර මහේස්ත්‍රාත් අධ්කරණයට ඉදිරිපත් කිරීමට නියමිතව තිබූණි .
+
+◼️
+
+[Data](articles/a15de3b3.json)
+
+---
+
 ### Teacher appointments for 4,000 teachers
 
 *2024-04-04 14:04:07* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුවරුන්-4000කට-ගුරු-පත්වීම්/11-408949) · `si`
@@ -1756,6 +1806,20 @@ Former President Chandrika Bandaranaike Kumaratunga has a complaint with a compl
 
 ---
 
+### Reflections On The April 1971 Uprising & Current Political Realities
+
+*2024-04-04 11:54:07* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reflections-on-the-april-1971-uprising-current-political-realities/) · `en`
+
+It has been 53 years since the April 1971 uprising. Over time, many of the comrades who participated have aged, fallen ill, or passed away. Yet, the collective aspiration that drove them, including those who made the ultimate sacrifice during the uprising, remains clear: to forge a society where every individual can live freely with dignity, underpinned by social and economic justice.
+
+The majority of the JVP membership hailed from Sinhala Buddhist rural backgrounds, with limited exposure beyond their immediate environment. Our understanding of societal diversity and the challenges faced by minority communities was rudimentary. Our worldview was shaped by the prevailing political and cultural milieu, gleaned through books, newspapers, and social interactions.
+
+...
+
+[Data](articles/1665697c.json)
+
+---
+
 ### Parliamentary committee looks into preventing illegal fishing activities off northern Sri Lanka
 
 *2024-04-04 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98415/parliamentary-committee-looks-into-preventing-illegal-fishing-activities-off-northern-sri-lanka) · `en`
@@ -2237,75 +2301,5 @@ But Ravichandran, who is the act of Indian team, says that the sports lackin has
 [Data](articles/380afd03.json)
 
 [Extended Data](ext_articles/380afd03.ext.json)
-
----
-
-### Member of Parliament K.H. Nandasena receives
-
-*2024-04-04 10:51:14* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-කේ-එච්--නන්දසේන-දිවි-ගමනට-සමුදෙයි/11-408941) · `si`
-
-SLPP MP H. Nandasena, a former Provincial Minister, passed away from an emergency illness. He served in various positions including the Padaviya Pradeshiya Sabha and the North Central Provincial Council, and was elected to the Sri Lankan Parliament in 2020.
-
-🟩
-
-The SLPP Anuradhapura District MP H. Nandasena passed away due to an emergency illness today (04).
-
-Former Provincial Minister Nandasena has held various positions including a member of the Padaviya Pradeshiya Sabha and a member of the North Central Provincial Council.
-
-He was contesting as a candidate in the Anuradhapura district for the 2020 parliamentary election and was elected to the Parliament of Sri Lanka.
-
-◼️
-
-[Data](articles/3768a19a.json)
-
-[Extended Data](ext_articles/3768a19a.ext.json)
-
----
-
-### Israel's targeting humanitarian workers' vehicles
-
-*2024-04-04 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/180391) · `ta`
-
-Josele Anthres, head of World Center Kitchen, accused Israel of targeting humanitarian workers' vehicles, despite clear communication with Israeli soldiers. He emphasized the vehicles' distinctive logos and called for investigations by the US and affected countries.
-
-🟩
-
-The head of the World Center Kitchen, Josele Anthres, who lost humanitarian servants in Israel's attack, targeted Israeli Israeli targeting the vehicles that his employees were traveling.
-
-He told Reuters that Israel knew that my employees were traveling with clear communications with the Israeli soldiers I founded.
-
-He said it was not an unfortunate incident that fell into the bomb.
-
-"We have clearly stated that the logo on the top of our vehicles was clearly embedded," Jose Anrus said.
-
-He said that the Israeli military was aware of where our vehicle continued, and the United States and the countries of the killed employees should carry out investigations.
-
-He said that they targeted us in the War Sun area. The area was found under the control of Israeli soldiers.
-
-◼️
-
-[Data](articles/8849c937.json)
-
-[Extended Data](ext_articles/8849c937.ext.json)
-
----
-
-### Govt’s prudent fiscal management helped positive economic trajectory - President
-
-*2024-04-04 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98413/govts-prudent-fiscal-management-helped-positive-economic-trajectory-president) · `en`
-
-President Ranil Wickremesinghe on Wednesday (03) reaffirmed the government’s commitment to facilitating economic growth and providing financial resources for essential public services.
-
-Addressing a ceremony held at the Temple Trees to award appointment letters to 2,320 graduate teachers in the Western Province, the Head of State spoke of the positive economic trajectory that Sri Lanka has achieved through prudent fiscal management by the government.
-
-Despite a previous period of economic decline, the Sri Lankan economy has witnessed a strengthening, leading to the appreciation of the rupee against the dollar, Wickremesinghe highlighted.
-
-He attributed this positive shift to effective economic policies implemented by the government, which allowed for the current recruitment of teachers.
-
-...
-
-[Data](articles/792c0d08.json)
-
-[Extended Data](ext_articles/792c0d08.ext.json)
 
 ---

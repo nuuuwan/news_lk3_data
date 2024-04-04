@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 09:03:15**
+As of **2024-04-04 09:18:19**
 
 ## Newspaper Stats
 
-*Scraped **17,030** Articles*
+*Scraped **17,033** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,40 +13,100 @@ bbccomsinhala | 178
 dbsjeyarajcom | 208
 newsfirstlk | 363
 dailyftlk | 929
-economynextcom | 943
 islandlk | 943
+economynextcom | 944
 adalk | 1,430
 tamilmirrorlk | 2,022
 adaderanalk | 2,039
 virakesarilk | 2,457
-dailymirrorlk | 2,620
-adaderanasinhalalk | 2,748
+dailymirrorlk | 2,621
+adaderanasinhalalk | 2,749
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,027 (100.0%) of 17,030 articles have been extended.
+17,030 (100.0%) of 17,033 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### රුපියලේ අගය ගැන කියන ජනපති
+### විශේෂ මත්පෙති වර්ගයක් සහ ගංජා සමග පුද්ගලයෙක් අත්අඩංගුවට
+
+*2024-04-04 08:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195279) · `si`
+
+හෙරොයින් වෙනුවට භාවිත කළ හැකි යැයි පැවසෙන මත්පෙති සහ ගංජා සමග පුද්ගලයෙක් පානදුර, හිරන ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+එහිදී මත්පෙති 76,796ක් සහ ගංජා කිලෝග්‍රෑමයක් ද පොලිස් භාරයට ගෙන ඇත.
+
+◼️
+
+[Data](articles/89745109.json)
+
+---
+
+### Historic day for Sri Lanka with South Africa series clinched
+
+*2024-04-04 08:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Historic-day-for-Sri-Lanka-with-South-Africa-series-clinched/108-280154) · `en`
+
+South Africa, April 4 (ICC) - Sri Lanka's women's side created history in East London on Wednesday as they registered their first series triumph over South Africa in any format.
+
+The series victory was confirmed when Sri Lanka claimed a narrow four-wicket win over South Africa in the third and final match of their series in what was their highest successful run chase of all time in T20I cricket.
+
+Sri Lanka's previous highest successful run chase came more than 10 years ago, when Chamari Athapaththu scored 21 to help her side sneak past India's total of 147/3 in Vizianagaram with just one delivery remaining and the experienced opener was among the runs again this time around in South Africa.
+
+Chamari hit a superb 73 from just 46 deliveries and No.3 Harshitha Samarawickrama chipped in with an unbeaten 54 as Sri Lanka ran down South Africa's decent total of 155/6 with five deliveries remaining.
+
+...
+
+[Data](articles/6824abae.json)
+
+---
+
+### Sri Lanka private banks unlikely to need state recapitalization
+
+*2024-04-04 08:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-banks-unlikely-to-need-state-recapitalization-157467/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s private banks may not need government support based on latest financial results but the impact of state enterprise loans and sovereign bond restructuring still needs to be assessed, Deputy Central Bank Governor Yvette Fernando said.
+
+The government allocated 450 billion rupees in the 2024 budget for bank recapitalization, based on a 2022 assets quality review, Fernando told an economic forum organized by the Asian Development Bank.
+
+Sri Lanka’s banks have now been asked to re-evaluate capital needs.
+
+Private banks are likely to meet capital requirements on their own without government support, leaving only state banks to use budget resources, she said.
+
+Sri Lanka’s banks were hit by bad loans from Coronavirus pandemic and the currency crisis and default.  Banks also had to provide for sovereign bond restructuring, though they were spared of rupee bond restructuring. As a result bond yields are now falling.
+
+...
+
+[Data](articles/badab1ac.json)
+
+---
+
+### President about the rupee
 
 *2024-04-04 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195278) · `si`
 
-රජය ගෙන ගිය නිවැරදි ආර්ථික කළමනාකරණය හේතුවෙන් රුපියලේ වටිනාකම ඉහළ ගොස් ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe credits the rupee's strength to economic management, aiming for a 280 rupees to the dollar rate. He highlights the importance of teacher recruitment and the role of teachers in shaping students' lives.
 
-ජනාධිපතිවරයා පෙන්වාදෙන්නේ, ඒ අනුව සෘණ ආර්ථික වර්ධන වේගයක් පැවති රටේ මේ වන විට ආර්ථිකය ශක්තිමත් වී ඇති බවය.
+🟩
 
-බස්නාහිර පළාත් උපාධිධාරී ගුරුවරුන් 2,320 දෙනෙකුට ගුරු පත්වීම් ලබාදීමේ උත්සවයට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කළේය.
+President Ranil Wickremesinghe says that the rupee has increased due to accurate economic management.
 
-"දැන් රුපියල 300ට ඇවිත් ශක්තිමත් වෙලා තියෙන්නේ. ඒ ගන්න පියවරෙන් මම බලාපොරොත්තු වෙනවා ඩොලරයට රුපියල 280ක් කරගන්න. එතකොට අතට ලැබෙන සල්ලිවලට මුදල ශක්තිමත් වෙනවා. මේක කරගෙන යන්න ඕනේ. ආණ්ඩුවේ වැඩකරන්න මුදල් හොයා ගන්න ඕනේ. මේක අමාරු, දුෂ්කර මාර්ගයක යන්නේ. සම්පුර්ණයෙන්ම වැටුණ ආර්ථිකය අපි දියුණු කරගෙන යනවා. මේ කාලයේ දී පුළුවන් වුණා පඩි වැඩිකරන්න. දීමනා වැඩිකරන්න. අස්වැසුම තුන්ගුණයකින් වැඩි කරන්න. සිංහල අවුරුදු කාලයේ දී වීවලට හොඳ මිලක් ලබාදෙන්නත් අපි කටයුතු කළා. ආර්ථික නඟා සිටවන්න ඕන. මේ යන කාලේ ටිකක් අමාරු වෙන්න පුළුවන්. එන වර්ෂය වෙද්දි ගුරුවරු බඳවා ගන්න අමාත්‍යාංශවලට මුදල් දෙන්නත් අපි බලාපොරොත්තු වෙනවා."
+The President is shown that the economy has now been strengthened by now.
+
+President Ranil Wickremesinghe expressed his views participating at the ceremony to provide teachers' appointments to 2,320 graduates in the Western Province.
+
+"Now the rupee has come to 300 and strong. Take the step, I hope to do the dollar 280 rupees. The money is strengthened by money. You have to do this. Need to find money to work in the government. This is going on a hard, difficult road. We develop the economy that falls. It was possible to increase the payroll at this time. Increase offers. Increase the relief in three times. We also took a good price for the paddy during the Sinhala Years. Need to pose economically. This time can be a little hard. We hope to give money to the ministries to recruit teachers when the coming year. "
+
+The President also commented on the responsibility of teachers.
 
 ...
 
 [Data](articles/fe4b26a8.json)
+
+[Extended Data](ext_articles/fe4b26a8.ext.json)
 
 ---
 
@@ -61,6 +121,8 @@ Additionally, another train has broken down between the Yaththalgoda and Ambepus
 ◼️
 
 [Data](articles/71d02c42.json)
+
+[Extended Data](ext_articles/71d02c42.ext.json)
 
 ---
 
@@ -295,6 +357,8 @@ Instead of PAL and CESS an additional higher customs duty band is being consider
 ...
 
 [Data](articles/fb7daa17.json)
+
+[Extended Data](ext_articles/fb7daa17.ext.json)
 
 ---
 
@@ -2171,63 +2235,5 @@ The Portugal, the Czech Republic, Japan, Guatemala, Vietnam, Australia, Greece, 
 [Data](articles/a7f417af.json)
 
 [Extended Data](ext_articles/a7f417af.ext.json)
-
----
-
-### An horrific bus accident in Ratnapura
-
-*2024-04-03 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195265) · `si`
-
-A horrific bus accident occurred in Ratnapura, involving a passenger bus and a lorry.
-
-🟩
-
-A passenger bus and a lorry collided in the basket of Ratnapura.
-
-The accident had occurred when the bus collided with the bus on the road.
-
-A lorry and a van collided with a lorry and van.
-
-◼️
-
-[Data](articles/0bb9a0f2.json)
-
-[Extended Data](ext_articles/0bb9a0f2.ext.json)
-
----
-
-### When “Aiyo” Sirisena Accused India’s RAW of Plotting to Assassinate Him While he was the President.
-
-*2024-04-03 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83866) · `en`
-
-“Putting your foot in your mouth” is a figurative expression about a person saying or doing something that should not be done or not  have been said, especially if it embarrasses the person concerned or someone else. Among those who frequently put their feet  into their mouhs are politicians of all kinds and hues and from all parts of the world.
-
-Sri Lanka the miracle of Asia is second to none in this sphere. From “Apey George” George E de Silva of Kandy  in the past to CV Wigneswaran of Jaffna in the present, there have been several politicians in this resplendent Island who are famous for this.. However the greatest of all politicians in this respect arguably is Pallewatte Gamaralage Maithripala Yapa Sirisena  who served as the sixth executive president of Sri Lanka from 2015 to 2019. Such is his reputation for doing or uttering inappropriate things that Sirisena has acquired the prefix “Aiyo”. Many refer to him as “Aiyo” Sirisena nowadays.
-
-...
-
-[Data](articles/7df62bef.json)
-
-[Extended Data](ext_articles/7df62bef.ext.json)
-
----
-
-### 24 people in police custody died last year
-
-*2024-04-03 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180363) · `ta`
-
-24 died in police custody last year. Sri Lanka's Human Rights Commission received 9,714 complaints, including 44 about arrested persons.
-
-🟩
-
-Sri Lanka Human Rights Commission Commissioner Nimal Punjihewa says that 24 people died last year while being kept in police custody.
-
-Attorney Nimal Punjihewa noted that 44 complaints have been received regarding the arrested persons under the strategy and that the Commission has received 9,714 complaints last year.
-
-◼️
-
-[Data](articles/b48bd8b5.json)
-
-[Extended Data](ext_articles/b48bd8b5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 09:53:23**
+As of **2024-04-04 10:03:49**
 
 ## Newspaper Stats
 
-*Scraped **17,040** Articles*
+*Scraped **17,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,76 +17,158 @@ islandlk | 943
 economynextcom | 944
 adalk | 1,432
 tamilmirrorlk | 2,024
-adaderanalk | 2,040
-virakesarilk | 2,459
+adaderanalk | 2,041
+virakesarilk | 2,460
 dailymirrorlk | 2,621
-adaderanasinhalalk | 2,749
+adaderanasinhalalk | 2,750
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,036 (100.0%) of 17,040 articles have been extended.
+17,040 (100.0%) of 17,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### பரீட்சை கடமை கொடுப்பனவுகளை அதிகரிக்க நடவடிக்கை
+### பொதுஜன பெரமுன பாராளுமன்ற உறுப்பினர் எச். நந்தசேன காலமானார்
 
-*2024-04-04 09:31:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சை-கடமை-கொடுப்பனவுகளை-அதிகரிக்க-நடவடிக்கை/175-335595) · `ta`
+*2024-04-04 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180378) · `ta`
 
-பரீட்சை கடமைகளில் ஈடுபடுபவர்களுக்கு வழங்கப்படும் கொடுப்பனவுகளை எதிர்வரும் இரண்டு அல்லது மூன்று வாரங்களில் அதிகரிக்க கல்வி அமைச்சு தீர்மானித்துள்ளது.
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) அநுராதபுரம் மாவட்ட பாராளுமன்ற உறுப்பினரும் மாவட்ட ஒருங்கிணைப்புக் குழு தலைவருமான எச்.நந்தசேன இன்று வியாழக்கிழமை (04) காலை காலமானார் என அவரது குடும்ப வட்டாரங்கள் தெரிவித்துள்ளன.
 
-மேல்மாகாண பட்டதாரி ஆசிரியர்களுக்கான நியமனக் கடிதங்கள் வழங்கும் நிகழ்வில் சுசில் பிரேமஜயந்த, இது தொடர்பில் குழுவொன்று நியமிக்கப்பட்டு அறிக்கை கோரப்படும் என்றார்.
+எச்.நந்தசேன பதவியா பிரதேச சபை மற்றும் வடமத்திய மாகாண சபையின் முன்னாள் உறுப்பினராவார். அத்துடன் மாகாண அமைச்சுப் பதவியை வகித்துள்ளார்.
 
-இந்த அறிக்கையின் அடிப்படையில் பரீட்சை கடமைகளில் ஈடுபடுபவர்களின் கொடுப்பனவுகள் வழங்கப்படும் என அமைச்சர் மேலும் தெரிவித்தார்.
+2017 ஆம் ஆண்டு மே மாதம் கூட்டு எதிர்க்கட்சியின் மே தினக் கூட்டத்தில் கலந்து கொண்டதன் பின்னர் அவர் அமைச்சர் பதவியில் இருந்து நீக்கப்பட்டார்.
+
+அவர் 2020 பாராளுமன்றத் தேர்தலில் அநுராதபுர மாவட்டத்தில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் வேட்பாளராகப் போட்டியிட்டு பாராளுமன்றத்துக்கு தெரிவுசெய்யப்பட்டார்.
 
 ◼️
 
-[Data](articles/1481ed40.json)
+[Data](articles/91f230f5.json)
 
 ---
 
-### பாணந்துறையில் 76,000 போதை மாத்திரைகளுடன் ஒருவர் கைது
+### Nearly 75,000 Sri Lankan workers emigrated in Q1 of 2024
 
-*2024-04-04 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180381) · `ta`
+*2024-04-04 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98412/nearly-75000-sri-lankan-workers-emigrated-in-q1-of-2024) · `en`
 
-பாணந்துறை ஹிரணையில் பாரியளவில் போதை மாத்திரைகள் மற்றும் கஞ்சாவை வைத்திருந்த நபரொருவர் கைது செய்யப்பட்டுள்ளார்.
+Approximately 75,000 Sri Lankan workers have emigrated to foreign countries within the first three months of 2024, according to the Sri Lanka Bureau of Foreign Employment (SLBFE).
 
-கைது செய்யப்பட்ட போது சந்தேகநபரிடம் ஹெரோயினுக்கு பதிலாக பயன்படுத்தப்பட்ட 76,796 போதை மாத்திரைகளும் 1 கிலோ கிராம் கஞ்சாவும் கண்டுபிடிக்கப்பட்டுள்ளது.
+The bureau said as many as 74,499 Sri Lankans left the country in the first quarter of the year as opposed to 76,025 in 2023. Among them, 34,599 were women and it is 46% of the total number.
+
+A large number of Sri Lankans have reportedly emigrated to Kuwait, and it adds up to a total of 17,793.
+
+The SLBFE says, in comparison to the previous years, Sri Lankans now tend to seek job opportunities in countries like South Korea, Israel and Japan.
+
+As per the figures, 2,374 Sri Lankans in total left for South Korea, while 2,114 departed for Israel, 1,899 for Romania and 1,947 for Japan within the first quarter of the year.
+
+Meanwhile, in the first two months of 2024 alone, Sri Lankan migrant workers’ remittances were recorded at USD 963.8 million, the SLBFE added.
+
+...
+
+[Data](articles/aaf7ce1f.json)
+
+---
+
+### සුරාබදු බලපත්‍ර ගැන තීරණයක්
+
+*2024-04-04 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195280) · `si`
+
+සුරාබදු බලපත්‍ර ලබාදීම නතර කර නොමැති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ, අදාළ බලපත්‍ර ලබාදීමේ කටයුතු නිසි ක්‍රමවේදයක් යටතේ සිදුකිරීමට උපදෙස් ලබා දී ඇති බවය.
+
+සුරාබදු බලපත්‍ර ලබාදීම නතර කර ඇති බවට පළ වන වාර්තා සම්බන්ධයෙන් අදහස් දක්වමින් මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා මේ බව සඳහන් කළේය.
+
+"සුරාබදු බලපත්‍ර ලබාදීම අපි ඉතාමත් ක්‍රමානුකූල ක්‍රමයකට තමා අපි කරන්නේ. ඒකට පාර්ලිමේන්තුවේ අනුමත වූ නීතිරීති මත යම් කෙනෙක් බලපත්‍රයක් ඉල්ලුවහම විරෝධතා කැඳවීම්, ප්‍රදේශයේ ජනතාවගේ විරෝධය, මේ සියලු දේ බලලා තමා නිකුත් කිරීම කරන්නේ. කෙසේවෙතත් මට සුරාබදු දෙපාර්තමේන්තුව වාර්තා කළේ, උසාවිය විශේෂයෙන්ම කියලා තියෙන්නේ පාර්ලිමේන්තුවේ අනුමත නීතිරීති මත පමණක් බලපත්‍ර නිකුත් කරන්න කියලා. ඒක සුරාබදු බලපත්‍ර ලබාදීම නැවැත්වීමක් නෙමෙයි. නීතිරීති වඩාත් ක්‍රියාත්මක කරන්න කියලා දුන්න දෙයක්. ඒක ඉතාමත් හොඳයි. අපි දැනටමත් ඒක අනුගමනය කරනවා. සපුරා බලපත්‍ර ලබානොදීමක් නෑ."
+
+◼️
+
+[Data](articles/146f04c7.json)
+
+---
+
+### One person arrested with 76,000 drug pills in Panadura
+
+*2024-04-04 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180381) · `ta`
+
+A man in Panadura was arrested with 76,000 drug pills, and another in Hiran with 76,796 heroin pills and 1 kg of cannabis.
+
+🟩
+
+A man has been arrested for holding massive drugs and cannabis in Hiran.
+
+During the arrest, 76,796 drugs used instead of heroin and 1 kg of cannabis were found.
 
 ◼️
 
 [Data](articles/b2a83fe7.json)
 
+[Extended Data](ext_articles/b2a83fe7.ext.json)
+
 ---
 
-### ரயில் சேவைகளில் தாமதம்
+### Action to increase the examination payments
+
+*2024-04-04 09:31:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சை-கடமை-கொடுப்பனவுகளை-அதிகரிக்க-நடவடிக்கை/175-335595) · `ta`
+
+The Ministry of Education plans to boost examination allowances for participants in the next 2-3 weeks, with a committee to be formed for this purpose.
+
+🟩
+
+The Ministry of Education has decided to increase the allowances paid to those who are involved in the examination in the next two or three weeks.
+
+Susil Premajayantha said that a committee will be appointed and requested at the event.
+
+Based on this report, the Minister added that the payments of those who are involved in the examination will be given.
+
+◼️
+
+[Data](articles/1481ed40.json)
+
+[Extended Data](ext_articles/1481ed40.ext.json)
+
+---
+
+### Delay in train services
 
 *2024-04-04 09:25:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவைகளில்-தாமதம்/175-335594) · `ta`
 
-மாஹோவில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த ரயிலில் இன்று(04) காலை ஏற்பட்ட தொழில்நுட்ப கோளாறு காரணமாக பிரதான பாதையில் ரயில் சேவைகளில் தாமதம் ஏற்பட்டுள்ளது.
+Train from Maho to Colombo Fort delayed due to technical failure. Another train between Yatalgoda and Ambepussa stations also delayed.
 
-அத்துடன், யத்தல்கொட மற்றும் அம்பேபுஸ்ஸ ரயில் நிலையங்களுக்கு இடையில் மற்றுமொரு ரயிலில் கோளாறு ஏற்பட்டுள்ளது.
+🟩
+
+The train traveling from Maho to Colombo Fort has been delayed in the main road due to a technical failure this morning.
+
+In addition, another train between Yatalgoda and Ambepussa railway stations has occurred.
 
 ◼️
 
 [Data](articles/b3a97ec9.json)
 
+[Extended Data](ext_articles/b3a97ec9.ext.json)
+
 ---
 
-### ஜப்பானில் 6.0 ரிக்டர் பூகம்பம்
+### 6.0 Richter earthquake in Japan
 
 *2024-04-04 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/180380) · `ta`
 
-புகுசிமா பிராந்தியத்தில்  40 கிலோமீற்றர் ஆழத்தில் இப்பூகம்பம் இப்பூகம்பம் ஏற்பட்டதாக ஜப்பானிய வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+A 6.0 Richter earthquake struck Japan's Bukusima region at 40 km depth, felt in Tokyo, but no tsunami warning was issued.
 
-தலைநகர் டோக்கியோவிலும் இப்பூகம்பம் உணரப்பட்டது.  எனினும், இப்பூகம்பத்தையடுத்து சுனாமி எச்சரிக்கை எதுவும் விடுக்கப்படவிலலை.
+🟩
+
+The Japanese Department of Meteorology has said that the event occurred at a depth of 40 kilometers in the Bukusima region.
+
+The incident was also felt in the capital, Tokyo.However, no tsunami warning has been issued after the incident.
 
 ◼️
 
 [Data](articles/1fe8cac9.json)
+
+[Extended Data](ext_articles/1fe8cac9.ext.json)
 
 ---
 
@@ -2127,73 +2209,5 @@ The three Tamils who were arrested for the murder of former Prime Minister Rajiv
 [Data](articles/bda917f0.json)
 
 [Extended Data](ext_articles/bda917f0.ext.json)
-
----
-
-### Trains disrupted on main line due to derailment
-
-*2024-04-03 19:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98404/trains-disrupted-on-main-line-due-to-derailment) · `en`
-
-A train has derailed between Maradana and Dematagoda railway stations disrupting train services on the main line.
-
-The Railway Department said a train heading towards Maho has derailed in this manner.
-
-◼️
-
-[Data](articles/4840ed27.json)
-
-[Extended Data](ext_articles/4840ed27.ext.json)
-
----
-
-### The economy has been able to fill the vacancies
-
-*2024-04-03 19:29:05* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකය-ශක්තිමත්-වීම-නිසා-ගුරු-පුරප්පාඩු-පිරවීමට-හැකිව-තිබෙනවා/11-408931) · `si`
-
-President Ranil Wickremesinghe announced the recruitment of over 4,000 teachers, emphasizing the importance of education in shaping the future. Economic growth and increased salaries for public servants have enabled these recruitments.
-
-🟩
-
-According to President Ranil Wickremesinghe said that about 4,000 people had taken measures to recruit more than 4,000 people to recruit the vacancies in the country.
-
-President Ranil Wickremesinghe addressing the ceremony at Temple Trees today (03), addressing the ceremony.
-
-The appointment was made to 2320 graduate teachers and joined the grant of the appointment of appointments.
-
-Addressing the gathering, President Ranil Wickremesinghe said that the teacher was entitled to the creation of creating a foul-quality future generation.
-
-The President said that he should never act in the minority career of the teacher, and pointed out the importance of updating the subject.
-
-...
-
-[Data](articles/152f6fa0.json)
-
-[Extended Data](ext_articles/152f6fa0.ext.json)
-
----
-
-### A strong economy is created by creating competitive investment opportunities
-
-*2024-04-03 19:22:06* · [`adalk`](https://www.ada.lk/breaking_news/තරගකාරී-ආයෝජන-අවස්ථා-ඇති-කරමින්-ශක්තිමත්-ආර්ථිකයක්-බිහිකරනවා/11-408930) · `si`
-
-President Ranil Wickremesinghe emphasized the importance of competitive investment opportunities for a strong economy, acknowledging the Board of Investment's role in boosting Sri Lanka's economy. He highlighted the success of special economic zones like Katunayake and Biyagama, marking the 45th anniversary of the Board of Investment with awards.
-
-🟩
-
-President Ranil Wickremesinghe said that action will be taken to create a strong economy with a conducive of the country.
-
-The President also said that his gratitude for the unique role of the Board of Investment to increase the economy of Sri Lanka.
-
-President Ranil Wickremesinghe made this statement addressing the BOI Awards held at the Presidential Secretariat yesterday.
-
-The President had organized the awards for the first time to mark the 45th anniversary of the Board of Investment and the President has organized 30 awards for the contribution of the Board of Foreign Investment and Export Performance.A special assessment was made.
-
-Brandix Group Chief Executive Secretary Ashrof Group, CEO of the Brandix Group, is a Group of the Brandix Group, Chairman of Mahesh Mahesh Amalene and Chairman Pierre Group of Searle PringersPresident Ranil Wickremesinghe was also presented.
-
-...
-
-[Data](articles/15bcc8c5.json)
-
-[Extended Data](ext_articles/15bcc8c5.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 13:52:40**
+As of **2024-04-04 14:03:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,757
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,094 (100.0%) of 17,099 articles have been extended.
+17,099 (100.0%) of 17,099 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ He also directed to minimize the inconvenience caused to the general public.
 
 [Data](articles/a4a180db.json)
 
+[Extended Data](ext_articles/a4a180db.ext.json)
+
 ---
 
 ### Damitha Abeyratne and husband arrested by CID
@@ -57,6 +59,8 @@ The arrest came after the couple, who had been wanted by the CID in connection w
 ◼️
 
 [Data](articles/61b8088b.json)
+
+[Extended Data](ext_articles/61b8088b.ext.json)
 
 ---
 
@@ -96,15 +100,21 @@ The Criminal Investigations Department has been arrested by the Criminal Investi
 
 ---
 
-### நீதிமன்றில் சரணடைந்த பிரபல நடிகை தமிதா!
+### Tamitha surrendered to court
 
 *2024-04-04 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180415) · `ta`
 
-கொரியாவில் தொழில்வாய்ப்பு வழங்குவதாகக் கூறி பண மோசடியில் ஈடுபட்டார் எனக் குற்றம் சாட்டப்பட்டுள்ள பிரபல   நடிகை தமிதா அபேரத்ன சில நிமிடங்களுக்கு முன்னர் கோட்டை நீதிமன்றத்தில்  சரணடைந்துள்ளார்.
+Famous actress Tamitha Abeyratne, accused of money laundering, surrenders to court.
+
+🟩
+
+Famous actress Tamitha Abeyratne, accused of engaging in money laundering for allegedly providing employment in Korea, has surrendered to the Fort court a few minutes ago.
 
 ◼️
 
 [Data](articles/41884982.json)
+
+[Extended Data](ext_articles/41884982.ext.json)
 
 ---
 
@@ -127,6 +137,8 @@ As per Indian media reports, a search operation was underway to find the missing
 ◼️
 
 [Data](articles/1f08a35c.json)
+
+[Extended Data](ext_articles/1f08a35c.ext.json)
 
 ---
 
@@ -206,27 +218,39 @@ Colombo District Court Judge Chandun Vidhan has issued the order in accordance w
 
 ---
 
-### අද කාලගුණ අනාවැකිය
+### Weather forecast today
 
 *2024-04-04 12:47:39* · [`adalk`](https://www.ada.lk/breaking_news/අද-කාලගුණ-අනාවැකිය/11-408946) · `si`
 
-ජාතික කාලගුණ විදයා මධ්‍යස්ථානයේ  අද දින මධ්‍යහන්‍ 12.00 ට නිකුත්කරන්‍ ලද කාලගුණ වර්තාව අනුව
+Today's weather in Sri Lanka includes showers/thundershowers in Sabaragamuwa, Galle, and parts of the North Western Province. Wind speeds are 15-25 km/h. Seas are calm but may be affected by thunderstorms.
 
-බස්නාහිර සබරගමුව පළාත්වලත් ගාල්ල මාතර දිස්ික්කවලත් ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක. වයඹ පළාතේ සහ නුවරඑළිය දිස්ත්‍රික්කයේ සවස් කාලහේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+🟩
 
-බස්නාහිර, මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලහේදී මීදුම් සහිත තත්ත්වයක් අපක්ෂා කෙරේ.
+Depending on the weather-widenid center today
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන්‍ අන්‍තුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජන්‍තාවප්‍රගන් කාරුණිකව ඉල්ලා සිටිනු ලැබේ.
+At the Sabaragamuwa Provincial Western Province and Galle District. Showers or thundershowers will occur at several places about 2.00. Showers or thundershowers during the evening or night in the North Western Province and night.
 
-දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී  සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනයන් වලදී ශ්‍රී ලංකාව ආශ්‍රිත
+Some locations in some places in the Western and Sabaragamuwa Provincial and in the Galle and Matara districts are imposed.
 
-අක්ෂාංශ වලට සෘජුවම ඉහලින් පවතී. හෙට දින 05 දහවල් 12:12 ට බලපිටිය, ඇල්පිටිය, මොරවක සහ
+Jantavapan is kindly requested to take steps to take necessary steps to reduce the dangers of temporary winds and lightning with thunderstorms.
 
-වැසි තත්ත්වය- පුත්තලම සිට කොළඹ සහ ගාල්ල  හම්බන්තොට දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සවස කාලයේදී හෝ රාත්‍රී කාලහේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+Sri Lanka is associated with the Sun, April 5th to 15 April
 
-...
+There is directly on the lower to latitude. Tomorrow at the 5th and 12:30 pm tomorrow
+
+Rain Seity
+
+Wind - winds are boring without definite direction and the winds of the winds.. Is about (15-25).
+
+Nature of the Sea - While the sea areas around the island is in nature
+
+There will be temporary winds in the sea as at thunder showers, then the sea areas
+
+◼️
 
 [Data](articles/64eed8f2.json)
+
+[Extended Data](ext_articles/64eed8f2.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 18:35:59**
+As of **2024-04-04 18:21:26**
 
 ## Newspaper Stats
 
-*Scraped **17,161** Articles*
+*Scraped **17,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 944
 adalk | 1,449
 tamilmirrorlk | 2,034
 adaderanalk | 2,060
-virakesarilk | 2,493
+virakesarilk | 2,490
 dailymirrorlk | 2,633
 adaderanasinhalalk | 2,774
 
@@ -26,93 +26,31 @@ adaderanasinhalalk | 2,774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,158 (100.0%) of 17,161 articles have been extended.
+17,154 (100.0%) of 17,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### கெஹலிய மீதான இலஞ்ச ஊழல் ஆணைக்குழு வழக்கு விசாரணைக்கு திகதி அறிவிப்பு
-
-*2024-04-04 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180453) · `ta`
-
-முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட மூன்று பிரதிவாதிகளுக்கு எதிராக இலஞ்ச ஊழல் ஆணைக்குழுவினால் தாக்கல் செய்யப்பட்ட வழக்கை விசாரிப்பதற்கான திகதியை கொழும்பு மேல் நீதிமன்றம் அறிவித்துள்ளது.
-
-2015 ஜனாதிபதித் தேர்தலின் போது, இலங்கை தொலைக்காட்சி கூட்டுத்தாபனம் கிட்டத்தட்ட 10 இலட்சம் ரூபாவை செலவிட்டதுடன், இந்த பிரதிவாதிகள் அரசியல் நடவடிக்கைகளுக்காக GIB ஐ வாங்கியதாக குற்றம் சுமத்தப்பட்டுள்ளது.
-
-இதன்படி, குறித்த மூவருக்கும் எதிராக இலஞ்ச ஊழல் ஆணைக்குழு இந்த வழக்கை தாக்கல் செய்திருந்தது.
-
-இந்த வழக்கு வியாழக்கிழமை (04) கொழும்பு மேல் நீதிமன்ற நீதிபதி நவரத்ன மாரசிங்க முன்னிலையில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
-
-விசாரணையை முடித்தபின் நீதிபதி மேலும் வழக்கை ஆகஸ்ட் 29-ம் தேதி விசாரணைக்கு அழைக்குமாறு உத்தரவிட்டார்.
-
-◼️
-
-[Data](articles/2de393cd.json)
-
----
-
-### The suspects with underworld relations show hidden weapons
+### පාතාලයේ සබඳතා පැවැත්වූ සැකකරුවන් සැඟවූ ආයුධ පෙන්වයි
 
 *2024-04-04 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195306) · `si`
 
-The Colombo Crimes Division (CCC) discovered four hand grenades and four swords linked to organized crime. Suspects Rajamal Watte, Modara Skills, and Chiramal Charm were arrested for their involvement.
+සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයන් තිදෙනෙකුගෙන් අනාවරණය වූ තොරතුරු මත විදේශීය රටක නිෂ්පාදිත ජීව අත්බෝම්බයක් හා කඩු 04ක් සොයාගත් බව කොළඹ අපරාධ කොට්ඨාසය පවසයි.
 
-🟩
+අත්අඩංගුවට ගත් එක් සැකකරුවෙක් රජමල් වත්තේ චාමර නමැත්තාගේ ගෝලයෙක් වන අතර ඔහු ඉකුත් මස 12 වනදා මට්ටක්කුලිය අලිවත්ත ප්‍රදේශයේදී පුද්ගලයකුට වෙඩි තබා ඝාතනය කිරීමට පැමිණි යතුරුපැදියේ පැදිකරු බව පොලීසිය පැවසීය.
 
-The Colombo Crimes Division (CCC) says that four other hand grenades manufactured by a foreign country have been discovered on the information revealed by three members of organized crime.
+එම සැකකරු දින 07ක රැඳවුම් නියෝග මත ප්‍රශ්න කිරීමේදී සේදවත්ත ඩෝබි වත්ත උමගිරි වලව්ව ආසන්නයේ පරවි කූඩුවක් අසල වළදමා තිබූ ජීව අත්බෝම්බය සොයාගැනීමට හැකිවී ඇත.
 
-One of the arrested suspects is a disciple of Chamara, Rajamal Watte and he had come to the motorcycle to shoot a person in the Elvekuluwatta area on the 12th of this month.
+අනෙක් සැකකරුවන් දෙදෙනා සංවිධානාත්මක අපරාධ සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවන් වන මෝදර නිපුන සහ රජමල් වත්තේ චාමර යන පුද්ගලයන් සමග සබඳතා පැවැත්වීම හේතුවෙන් අත්අඩංගුවට ගෙන තිබේ.
 
-The suspect was able to find the balaged life grenade that had been buried near the Dobe Walawwa near the Dobiri Walawwa near the Dobiri Walawwa.
+රැඳවුම් නියෝග මත ප්‍රශ්න කිරීමේදී ඔවුන් සේදවත්තේ පොඩි සනා නමැත්තාගේ ගෝලයන් දෙදෙනෙක් බව හෙළිවී ඇත.
 
-The other two suspects have been arrested for contact with organized crime and drug dealers Modara skills and chiramal charm.
+එම සැකකරුවන් දෙදෙනා සේදවත්ත ප්‍රදේශයේදී අත්අඩංගුවට ගෙන සිදු කළ ප්‍රශ්න කිරීමේදී ඔවුන්ගේ නිවෙස්වල සඟවා තිබූ  කඩු 04ක්  සොයාගැනීමට හැකිවූ බව පොලීසිය කියයි.
 
-It has been revealed that they were two disciples of Bhatthara Sanna in the interrogation of detention orders.
-
-Police said that four swords were found in the Sedola where the suspects were arrested in Sedola.
-
-Accordingly, the three suspects are being interrogated at length.
-
-◼️
+...
 
 [Data](articles/38785e9f.json)
-
-[Extended Data](ext_articles/38785e9f.ext.json)
-
----
-
-### கந்தப்பளை குருந்து ஓயாவில் லொறி - முச்சக்கர வண்டி விபத்து : இருவர் படுகாயம்
-
-*2024-04-04 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/180449) · `ta`
-
-கந்தப்பளை, ஹைபொரஸ்ட் பொலிஸ் பிரிவுக்குட்பட்ட குருந்து ஓயா பகுதியில் வியாழக்கிழமை (04) இடம்பெற்ற விபத்தில் இரண்டு பேர் படுகாயமடைந்துள்ளதாக ஹைபொரஸ்ட் பொலிஸார் தெரிவித்தனர்.
-
-குறித்த பகுதியில் குருந்து ஓயாவில் இருந்து இராகலை நோக்கி பயணித்த மரக்கறி போக்குவரத்து லொறி எதிர்திசையில் வந்த முச்சக்கரவண்டியுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-இந்த விபத்தில் முச்சக்கரவண்டியில் பயணித்த ஒருவரும் ,லொறியில் பயணித்த ஒருவரும் படுகாயமடைந்து நுவரெலியா மாவட்ட பொது  வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றனர்.
-
-◼️
-
-[Data](articles/f6033e25.json)
-
----
-
-### தாக்குதலுக்கு சென்ற 10 பேர் கொண்ட வன்முறைக் கும்பலை மடக்கிப் பிடித்த ஊர்காவற்துறை மக்கள் !
-
-*2024-04-04 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180450) · `ta`
-
-யாழ். ஊர்காவற்துறை - மெலிஞ்சிமுனை பகுதியில் இன்றையதினம் தாக்குதல் ஒன்றினை நடாத்துவதற்கு சென்ற வன்முறைக் கும்பல் ஒன்றை ஊர் மக்கள் மடக்கிப் பிடித்துள்ளனர்.
-
-பாடசாலை ஒன்றில் கல்வி கற்ற 2012ஆம் ஆண்டு உயர்தரப் பிரிவு மாணவர்கள் வாட்ஸப் சமூக ஊடகம் ஒன்றில் குழுவாக செயற்பட்டு வந்தனர்.
-
-இந்நிலையில் அந்த குழுவில் இருந்த, இருவருக்கிடையே முரண்பாடு ஏற்பட்டது. இந்நிலையில் முரண்பாட்டில் ஈடுபட்ட ஒருவரை தாக்குவதற்காக இன்னொருவர் ஊருக்கு வெளியில் இருந்து வன்முறைக் கும்பல் ஒன்றினை வரவழைத்துள்ளார்.
-
-அந்தவகையில் ஆயுதங்களுடன் வந்த வன்முறைக் கும்பல் தாக்குதலை நடாத்த முயன்றவேளை ஊரில் உள்ள மக்கள் அனைவரும் ஒன்றுதிரண்டு குறித்த கும்பலை மடக்கிப் பிடித்து ஊர்காவற்துறை பொலிஸாரிடம் ஒப்படைத்தனர்.
-
-◼️
-
-[Data](articles/90d14a32.json)
 
 ---
 
@@ -1186,29 +1124,23 @@ According to a petition filed by former President Chandrika Kumaratunga, Colombo
 
 ---
 
-### Most recently alcohol arrested in Kalutara
+### මෑත කාලයේ වැඩිම මත්ක‍රල් තොගය කළුතරින් අල්ලයි
 
 *2024-04-04 14:06:27* · [`adalk`](https://www.ada.lk/breaking_news/මෑත-කාලයේ-වැඩිම-මත්ක‍රල්-තොගය-කළුතරින්-අල්ලයි/11-408950) · `si`
 
-In Kalutara, a person involved in a large number of alcohol arrests has been caught. The suspect, a 38-year-old resident of Panadura, was arrested on a tip-off. The police found 1500 units of alcohol and identified the suspect as a drug dealer for the mentally ill. The high-ranking suspect is awaiting trial before the Kalutara Magistrate.
+ඉන්දියාවේ සිට මෙරටට ගෙන්වා මහා පරිමාණයෙන් සිදුකරන මත්කරල් ජාවාරමකට සම්බන්ධ පුද්ගලයකු මත්කරල් හැත්තෑ හයදහස් නවසිය අසූවක් සහ කේරල ගංජා කිලෝවක් සමග අද (04) අත්අඩංගුවට ගත්බව කළුතර අපරාධ කොට්ඨාශය පවසයි .
 
-🟩
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ පානදුර , හිරණ  ප්‍රදේශයේ පදිංචි 38 හැව්රිදි  පුද්ගලයකු බව පොලිසිය කීය.
 
-The Kalutara Crimes Division (CRC) says that a person involved in a large number of alcohol has been arrested by a large number of alcohol has been arrested in India.
+ලද තොරතුරක් මත කළුතර නගර මධ්‍යයේ දී සැකකරු පරීක්ෂා කොට බහා තිබූ මත්කරල් 1500  ක් සහ කේරල ගංජා කිලෝවක් සොයාගෙන සැකකරුගේ නිවස පරීක්ෂා කිරීමේදී ඉතිරි මත්කරල් තොගය සොයා ගෙන අත්අඩංගුවට ගෙන තිබේ .
 
-The suspect was arrested a 38 shadow resident of Panadura, Panadura.
+භාරයට ගෙන ඇති මත්කරල් මානසික රෝගීන්ට ලබාදෙන ඖෂධයක් බවට හදුනාගෙන ඇති බවත් , පාසල් ළමුන් සහ උපකාරක පංති සිසුන් ඒවා මිළදී ගැනීමට වැඩි රුචිකත්වයක් දක්වන බවද පොලිසිය විසින් හදුනාගෙන තිබේ.
 
-The remaining alcohol has been recovered by the other 1500 alcohol and cooked the suspect in Kalutara on a tip off in Kalutara.
-
-The police have identified that alleged drugs have been identified as a drug that is provided to mentally ill.
-
-A high-ranking allegedly arrested for the operation of justice is the highest number of drugs that have been arrested recently. The suspect was to be presented to the Kalutara Magistrate.
+යුක්තිය මෙහෙයුමට සමගාමීව වැටලීම සිදුකර ඇති බවත්, මෑත කාලයේ අත්අඩංගුවට ගෙන ඇති වැඩිම මත්කරල් තොගය මෙය බවත් බැටලීමට එක් වූ උසස් නිලධාරියෙක් පැවසීය. සැකකරු කළුතර මහේස්ත්‍රාත් අධ්කරණයට ඉදිරිපත් කිරීමට නියමිතව තිබූණි .
 
 ◼️
 
 [Data](articles/a15de3b3.json)
-
-[Extended Data](ext_articles/a15de3b3.ext.json)
 
 ---
 
@@ -1886,8 +1818,6 @@ The majority of the JVP membership hailed from Sinhala Buddhist rural background
 
 [Data](articles/1665697c.json)
 
-[Extended Data](ext_articles/1665697c.ext.json)
-
 ---
 
 ### Parliamentary committee looks into preventing illegal fishing activities off northern Sri Lanka
@@ -2293,5 +2223,83 @@ Those seeking discharge should have no pending disciplinary actions taken agains
 [Data](articles/d137e5ed.json)
 
 [Extended Data](ext_articles/d137e5ed.ext.json)
+
+---
+
+### Sri Lanka Human Rights Commission invitation to Tellippalai Police Station
+
+*2024-04-04 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180392) · `ta`
+
+The Jaffna Office of the Sri Lanka Human Rights Commission has summoned the Jaffna Human Rights Commission and Tellippalai Union College students and teachers to appear tomorrow at 2.30 pm.
+
+🟩
+
+Yall. The Jaffna Office of the Human Rights Commission of Sri Lanka has been summoned by the Jaffna Human Rights Commission of Sri Lanka to appear at the Jaffna Office of the Human Rights Commission of Sri Lanka.
+
+The invitation has been sent to appear tomorrow at 2.30 pm on Friday.
+
+Tellippalai Union College students and teachers have been summoned by the Jaffna Human Rights Commission of Sri Lanka to appear at the Jaffna Human Rights Commission's Jaffna Office of the Human Rights Commission of Sri Lanka.
+
+◼️
+
+[Data](articles/9973c477.json)
+
+[Extended Data](ext_articles/9973c477.ext.json)
+
+---
+
+### Failed to dissolve parliament
+
+*2024-04-04 11:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தைக்-கலைக்கும்-முயற்சி-தோல்வி/175-335599) · `ta`
+
+Attempt to dissolve parliament failed due to lack of MPs. Rajapaksa demanded early general election, but most MPs not ready. Election Commission to announce presidential election in July/August, general election in 2025.
+
+🟩
+
+113 MP. An unnamed parliamentarian said that some MPs's attempt to dissolve the resolution and dissolve parliament was failed, as the number of people could not be collected.
+
+Earlier, during a meeting with President Ranil Wickremesinghe, President of the Sri Lanka PA, Basil Rajapaksa, during a meeting with President Ranil Wickremesinghe, demanded that the parliament be dissolved and declared a general election ahead of the constitutional presidential presidential election in October this year.
+
+Later, Daily Mirror reported exclusively that the president would not go to the parliamentary election before the presidential election. Against this backdrop, some MPs, loyal to Rajapakse, passed a resolution in Parliament, urged them to dissolve and go to the general election.
+
+However, the attempt has failed because most parliamentarians are not prepared for the general election in advance.
+
+...
+
+[Data](articles/c7c4efa0.json)
+
+[Extended Data](ext_articles/c7c4efa0.ext.json)
+
+---
+
+### Why is the Super Indian Player player playing?
+
+*2024-04-04 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195282) · `si`
+
+Harcick Pandya, Mumbai Indians' captain, was removed by Rohith Sharma, leading to controversy. Despite initial backlash, Pandya rejoined for the 2024 IPL, sparking debate on Mumbai Indians' decision.
+
+🟩
+
+The world's richest Franchise Cricket Tournament in the Indian Premier League. The 2024 tournament will be held.
+
+The best event is happening. It is objection to Harcick Pandya, who is the leader of the Mumbai Indians.
+
+The mumbai Indians played in the Mumbai Indians from 2022 and 2023 and 2023 and 2023.
+
+But he again joined the Mumbai Indians again for the 2024 tournament.
+
+He was the captain of Mumbai Indians. He was removed from Rohitha Sharma. The Hehith Sharma is also the leader of Indian 20/20, ODI and Test teams.
+
+But that decision does not appear that Mumbai Indians acted well. They make their angry by throwing away from the hosting of Pandar.
+
+Mumbai Indians participated in Ahmedabad, Hyderabad and Mumbai. Pandya did not receive a salvage from the lovers of sports.
+
+But Ravichandran, who is the act of Indian team, says that the sports lackin has overcome their limits and raised an unnecessary problem.
+
+◼️
+
+[Data](articles/380afd03.json)
+
+[Extended Data](ext_articles/380afd03.ext.json)
 
 ---

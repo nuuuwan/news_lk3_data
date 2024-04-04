@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 13:33:56**
+As of **2024-04-04 13:52:40**
 
 ## Newspaper Stats
 
-*Scraped **17,094** Articles*
+*Scraped **17,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
 economynextcom | 944
-adalk | 1,440
+adalk | 1,441
 tamilmirrorlk | 2,032
-adaderanalk | 2,048
-virakesarilk | 2,475
+adaderanalk | 2,051
+virakesarilk | 2,476
 dailymirrorlk | 2,627
 adaderanasinhalalk | 2,757
 
@@ -26,33 +26,107 @@ adaderanasinhalalk | 2,757
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,092 (100.0%) of 17,094 articles have been extended.
+17,094 (100.0%) of 17,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### நந்தசேனவின் பதவிக்கு வீரசேன
+### President instructs to ensure essential public services during Avurudu
+
+*2024-04-04 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98422/president-instructs-to-ensure-essential-public-services-during-avurudu) · `en`
+
+President Ranil Wickremesinghe has given instructions to government officials to ensure a smooth continuation of essential services during the upcoming Sinhala and Tamil New Year.
+
+He also directed to minimize the inconvenience caused to the general public.
+
+◼️
+
+[Data](articles/a4a180db.json)
+
+---
+
+### Damitha Abeyratne and husband arrested by CID
+
+*2024-04-04 13:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98421/damitha-abeyratne-and-husband-arrested-by-cid) · `en`
+
+Sri Lankan actress Damitha Abeyratne and her husband were arrested by the Criminal Investigation Department (CID) today (04).
+
+The arrest came after the couple, who had been wanted by the CID in connection with financial fraud, appeared before the Colombo Fort Magistrate’s Court earlier.
+
+◼️
+
+[Data](articles/61b8088b.json)
+
+---
+
+### Weerasena for Nandasena's post
 
 *2024-04-04 13:17:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நந்தசேனவின்-பதவிக்கு-வீரசேன/175-335609) · `ta`
 
-அனுராதபுர மாவட்ட ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் கே.எச்.நந்தசேனவின் மறைவால் ஏற்பட்ட வெற்றிடத்தை எம்.ஜி.வீரசேன நிரப்ப உள்ளார்.
+MG Veerasena steps in to fill the void left by MP KH Nandasena's death in Sri Lanka's Anuradhapura District.
+
+🟩
+
+MG Veerasena is to fill the vacuum caused by the demise of MP KH Nandasena of the Anuradhapura District Sri Lanka PA.
 
 ◼️
 
 [Data](articles/a3e7f34e.json)
 
+[Extended Data](ext_articles/a3e7f34e.ext.json)
+
 ---
 
-### දමිතා සහ  සැමියා CID අත්අඩංගුවට
+### Damitha and husband CID arrested
 
 *2024-04-04 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195288) · `si`
 
-ප්‍රවීණ රංගන ශිල්පී දමිතා අබේරත්න මහත්මියව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගෙන තිබේ.
+The Criminal Investigations Department (CID) arrested Damitha and her husband.
+
+🟩
+
+The Criminal Investigations Department has been arrested by the Criminal Investigation Department.
 
 ◼️
 
 [Data](articles/522c8bfe.json)
+
+[Extended Data](ext_articles/522c8bfe.ext.json)
+
+---
+
+### நீதிமன்றில் சரணடைந்த பிரபல நடிகை தமிதா!
+
+*2024-04-04 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180415) · `ta`
+
+கொரியாவில் தொழில்வாய்ப்பு வழங்குவதாகக் கூறி பண மோசடியில் ஈடுபட்டார் எனக் குற்றம் சாட்டப்பட்டுள்ள பிரபல   நடிகை தமிதா அபேரத்ன சில நிமிடங்களுக்கு முன்னர் கோட்டை நீதிமன்றத்தில்  சரணடைந்துள்ளார்.
+
+◼️
+
+[Data](articles/41884982.json)
+
+---
+
+### Earthquake of 6 magnitude strikes off east coast of Japan
+
+*2024-04-04 13:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98419/earthquake-of-6-magnitude-strikes-off-east-coast-of-japan) · `en`
+
+An earthquake of magnitude 6 struck off the east coast of Honshu, Japan on Thursday (April 4), the European-Mediterranean Seismological Centre said.
+
+No immediate reports of damage or injuries after the earthquake were reported, the epicentre had a depth of 40 kilometres (25 miles) and was also felt in Tokyo.
+
+It comes a day after at least nine people were killed and more than 1,000 injured by a powerful earthquake in Taiwan. The most massive earthquake to have shaken Taiwan in 25 years on Wednesday (April 3).
+
+Two Indian nationals were reported to be missing by various Indian media outlets.
+
+Also Read: Scary and fearful: Indian national recounts horror of Taiwan quake as deadly tremor strikes eastern coast
+
+As per Indian media reports, a search operation was underway to find the missing Indians. Several thousand Indians, which includes 3,000 students, have been living in Taiwan.
+
+◼️
+
+[Data](articles/1f08a35c.json)
 
 ---
 
@@ -129,6 +203,30 @@ Colombo District Court Judge Chandun Vidhan has issued the order in accordance w
 [Data](articles/528c3491.json)
 
 [Extended Data](ext_articles/528c3491.ext.json)
+
+---
+
+### අද කාලගුණ අනාවැකිය
+
+*2024-04-04 12:47:39* · [`adalk`](https://www.ada.lk/breaking_news/අද-කාලගුණ-අනාවැකිය/11-408946) · `si`
+
+ජාතික කාලගුණ විදයා මධ්‍යස්ථානයේ  අද දින මධ්‍යහන්‍ 12.00 ට නිකුත්කරන්‍ ලද කාලගුණ වර්තාව අනුව
+
+බස්නාහිර සබරගමුව පළාත්වලත් ගාල්ල මාතර දිස්ික්කවලත් ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක. වයඹ පළාතේ සහ නුවරඑළිය දිස්ත්‍රික්කයේ සවස් කාලහේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+
+බස්නාහිර, මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලහේදී මීදුම් සහිත තත්ත්වයක් අපක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන්‍ අන්‍තුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජන්‍තාවප්‍රගන් කාරුණිකව ඉල්ලා සිටිනු ලැබේ.
+
+දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී  සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනයන් වලදී ශ්‍රී ලංකාව ආශ්‍රිත
+
+අක්ෂාංශ වලට සෘජුවම ඉහලින් පවතී. හෙට දින 05 දහවල් 12:12 ට බලපිටිය, ඇල්පිටිය, මොරවක සහ
+
+වැසි තත්ත්වය- පුත්තලම සිට කොළඹ සහ ගාල්ල  හම්බන්තොට දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සවස කාලයේදී හෝ රාත්‍රී කාලහේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+
+...
+
+[Data](articles/64eed8f2.json)
 
 ---
 
@@ -2107,129 +2205,5 @@ In the month of January, the lower-case scenario target was missed by 7 percent,
 [Data](articles/f8848bf1.json)
 
 [Extended Data](ext_articles/f8848bf1.ext.json)
-
----
-
-### They do not have the authority to advise the government on security issues- the Human Rights Commission
-
-*2024-04-04 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/180373) · `ta`
-
-The Sri Lanka Human Rights Commission, led by Justice (Retired) LDP Tehiteniya and Commissioners Prof. Danaraj, Professor Fatima Parsna Hanifa, Dr. Jehan Tinuk Gunathilaka, Nimal.G. Punjihewa, and Commission's Secretary Ranjith Ungoda, clarified its role and activities. It focuses on human rights violations, including police station activities, and ensuring rights for all, especially special needs and dairy communities. The Commission has addressed unresolved complaints and noted issues like police deaths and human rights violations by the 'Yukya' program. It also emphasizes human rights education and gender-based violence prevention. Despite questioning the necessity of special laws like terrorism law, it advises on amendments to the Penal Code and the Standing Protection Bill.
-
-🟩
-
-The Sri Lanka Human Rights Commission, which has already questioned that it has already questioned that the country's general law is required to be involved in terrorism, and that special law, such as the terrorism law, is not a security framework.
-
-The New Chairperson and Commissioners of the Sri Lanka Human Rights Commission took over their duties last year, and a media briefing was held at the Sri Lanka Forum in Colombo on Wednesday to clarify the activities of the Commission.. The Human Rights Commission, Justice (Retired) LDP Tehiteniya, Commissioners Prof. Danaraj, Professor Fatima Parsana Hanifa, Dr. Jehan Tinuk Gunathilaka, Nimal.G. Punjihewa and Commission's Secretary Ranjith Ungoda.
-
-According to the Constitution of the country, the Human Rights Commission has made it clear on the mandate, duties and powers and the work being carried out by the Commission.
-
-...
-
-[Data](articles/c20e6c9d.json)
-
-[Extended Data](ext_articles/c20e6c9d.ext.json)
-
----
-
-### Government advises to hold the presidential election and general election on the same day- Udaya Kammanpila
-
-*2024-04-04 02:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180372) · `ta`
-
-The government is considering holding the presidential and general elections on the same day, with Udaya Kammanpila suggesting the President should decide. President Ranil Wickremesinghe opposes holding parliamentary elections until the end of his term, and there are disagreements between the President and the ruling party on the timing of the elections. There are no legal barriers to this, but it could impact the passage of bills and regulations if no party has a majority in parliament.
-
-🟩
-
-The government consults the presidential election and the general election on the same day.Or consider the welfare of the PA?Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya (JHU) and Member of Parliament, said that the President should decide.
-
-He made this statement during a media briefing held at the office of the Pivithuru Hela Urumaya (JHU) office in Colombo on Wednesday (03).
-
-President Ranil Wickremesinghe is in the position that the parliamentary elections should not be held until the end of office. The presidential election will be against the Sri Lanka PA.
-
-As the election year of 2024, there is mutual differences between the president's position on the presidential election and the ruling party's position on the general election.
-
-There are no legal issues to hold the presidential election and general election on the same day.Can be held on the same day.
-
-If the two elections are held on the same day, it will be favorable to the president and the PA.
-
-...
-
-[Data](articles/8f250a70.json)
-
-[Extended Data](ext_articles/8f250a70.ext.json)
-
----
-
-### 'Music to' unborn children 'for municipal mothers in Sri Lanka
-
-*2024-04-04 01:52:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd100kp2xz7o) · `si`
-
-"Music for Unborn" in Sri Lanka aims to support pregnant mothers' mental health through artistic performances. Initiated by Sanjeewa Seneviratne, the program engages a band to perform for pregnant mothers in urban areas, addressing societal issues like unplanned parenthood. The program, which includes family members, uses music to heal and educate, though facing financial challenges.
-
-🟩
-
-'Music to' unborn children 'for municipal mothers in Sri Lanka
-
-Experts, the pregnant mothers, who bears a child to produce a child, must be good health and mental health and mental health.
-
-After a woman in many countries, her family members are concerned with her.
-
-Such aquity is still visible in the rural society in Sri Lanka, and it is generally concerned for her mental well-being.
-
-But now, many have come to the level of the mental well-being of the mildness of pregnant society and many economic and social reasons that live. There are many reasons for this situation in the urban areas of Sri Lanka.
-
-Such a program aimed at the pregnant mothers living in the murder of the urban society, the collection of artistic band and art collection is engaged in. The opener, the founder of Sanjeewa Seneviratne expressed his program with BBC with Sinhala.
-
-...
-
-[Data](articles/64fb50e3.json)
-
-[Extended Data](ext_articles/64fb50e3.ext.json)
-
----
-
-### In the jaffna. Arrested for a gang of drugs for students
-
-*2024-04-04 01:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180371) · `ta`
-
-Jaffna District Police arrested six drug dealers aged 18-21 from Gurunagar and Navanthurai. Two were caught with 300 narcotics in a three-wheeler.
-
-🟩
-
-Jaffna District Crime Branch Police have arrested six persons for drug sales in Jaffna on Wednesday (03).
-
-The arrested persons are between the ages of 18 and 21, from the Gurunagar and Navanthurai area and are carrying out intensive investigations by detaining them at the police station.
-
-Based on the confidential information received by the Police Intelligence Unit, a police team rushed to the scene and folded two persons involved in the drug business.. They were arrested on the basis of investigations carried out by them.
-
-Investigations have been carried out by detaining the five persons who were arrested near the school.
-
-While. When the police chased a three -wheeler in the Navanthurai area, a man was arrested by the police when he was arrested by the police.
-
-When the three -wheeler was searched, the police recovered 300 narcotics.
-
-The police then arrested the suspect, rescued the three -wheeler and took further investigations to the suspect.
-
-◼️
-
-[Data](articles/1aa498d1.json)
-
-[Extended Data](ext_articles/1aa498d1.ext.json)
-
----
-
-### Damaging consequences of IMF’s focus on the primary budget balance
-
-*2024-04-04 01:11:53* · [`dailyftlk`](https://www.ft.lk/columns/Damaging-consequences-of-IMF-s-focus-on-the-primary-budget-balance/4-760270) · `en`
-
-“That said, revenue is perhaps the main concern in Sri Lanka.” – IMF Official at the latest staff level meeting with the Government of Sri Lanka
-
-The IMF’s explanation of Sri Lanka’s recent foreign exchange crisis is fiscal and monetary mismanagement; fiscal excesses funded by Central Bank printing. The solution proposed by the IMF is to reduce the budget deficit (‘fiscal consolidation’) and prevent the Central Bank from printing money to finance it. Particular emphasis is placed on the attainment of a primary budget surplus – Government revenue minus expenditure less interest and amortisation payments, and particular emphasis in respect of the attainment of this primary surplus is placed on increasing taxes. The Government of Sri Lanka (GOSL) is quoted by the IMF (2023) as committing itself to,
-
-...
-
-[Data](articles/f8b69545.json)
-
-[Extended Data](ext_articles/f8b69545.ext.json)
 
 ---

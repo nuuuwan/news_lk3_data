@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 05:18:17**
+As of **2024-04-04 05:38:39**
 
 ## Newspaper Stats
 
-*Scraped **16,995** Articles*
+*Scraped **16,996** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 932
 economynextcom | 942
 adalk | 1,430
 tamilmirrorlk | 2,018
-adaderanalk | 2,035
+adaderanalk | 2,036
 virakesarilk | 2,457
 dailymirrorlk | 2,613
 adaderanasinhalalk | 2,742
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,995 (100.0%) of 16,995 articles have been extended.
+16,995 (100.0%) of 16,996 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -715,6 +715,24 @@ For the continued betterment of Royal, they can no longer be swept under the car
 [Data](articles/ba6c9330.json)
 
 [Extended Data](ext_articles/ba6c9330.ext.json)
+
+---
+
+### 19 Indian fishermen detained in Sri Lanka return home amid row over Katchatheevu Island
+
+*2024-04-03 23:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98407/19-indian-fishermen-detained-in-sri-lanka-return-home-amid-row-over-katchatheevu-island) · `en`
+
+As many as nineteen Indian fishermen who were earlier detained by the Sri Lankan Navy were were repatriated to India on Wednesday after being released by authorities, the Indian High Commission said.
+
+Taking it to X, the Indian High Commission in Sri Lanka said, “Returning home! 19 Indian fishermen have been repatriated from Sri Lanka and are now on their way from Colombo to Chennai.”
+
+This year, the Sri Lankan Navy has so far held twenty-three Indian trawlers and a hundred and seventy-eight Indian fishermen for allegedly fishing in the island nation’s waters.
+
+The fishermen issue is a contentious one in the ties between India and Sri Lanka, with Lankan Navy personnel even firing at Indian fishermen in the Palk Strait and seizing their boats in several alleged incidents of illegally entering Sri Lankan territorial waters.
+
+...
+
+[Data](articles/1dba306a.json)
 
 ---
 
@@ -2233,27 +2251,5 @@ Although the film is not released on television, it is expected that the film wi
 [Data](articles/bf895fcf.json)
 
 [Extended Data](ext_articles/bf895fcf.ext.json)
-
----
-
-### Allu Arjun starrer 'Pushpa 2' update
-
-*2024-04-03 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180335) · `ta`
-
-"'Pushpa 2', starring Allu Arjun, will release its teaser on April 8th, marking Allu Arjun's birthday. The film, co-produced by Ravi Shankar and Sukumar, is centered on sheep hijacking and is being made by Maithri Movie Makers and Sukumar Writing Companies. The first part of 'Pushpa' has been a box office hit, and the sequel is set for worldwide release on August 15th."
-
-🟩
-
-It has been officially announced on the date of the release of the teaser of 'Pushpa 2' starring Actor Allu Arjun, who won the National Award for his performance in 'Pushpa - The Rice'.
-
-Allu Arjun, Rashmika Mantana, Jegabatibabu, Prakashraj, Sunil, Ajayi starring director Sukumar. Devi Sri Prasad has composed the film, which has been recorded by Mirosla Kuba Prapechch.. The film, which is centered on sheep hijacking, is being made as an entertainer on behalf of Maithri Movie Makers and Sukumar Writing Companies.. Ravi Shankar and director Sukumar have co -produced.
-
-The film crew has officially announced that the teaser of the film will be released on the 8th of April to mark the birthday of hero Allu Arjun.. Thus allu Arjun's fans are not only ... Ban Indian fans for Telugu films are also eagerly waiting.
-
-...
-
-[Data](articles/ffa60505.json)
-
-[Extended Data](ext_articles/ffa60505.ext.json)
 
 ---

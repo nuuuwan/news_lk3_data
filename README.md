@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 21:53:20**
+As of **2024-04-04 22:04:47**
 
 ## Newspaper Stats
 
-*Scraped **17,205** Articles*
+*Scraped **17,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 943
 economynextcom | 957
 adalk | 1,455
 tamilmirrorlk | 2,034
-adaderanalk | 2,063
+adaderanalk | 2,064
 virakesarilk | 2,498
 dailymirrorlk | 2,642
 adaderanasinhalalk | 2,782
@@ -26,25 +26,45 @@ adaderanasinhalalk | 2,782
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,204 (100.0%) of 17,205 articles have been extended.
+17,205 (100.0%) of 17,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### හෙට පළාත් කිහිපයක උෂ්ණත්වය ඉහළට
+### Govt aiming to generate USD 2 billion in revenue from gem and jewellery industry – President
+
+*2024-04-04 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98434/govt-aiming-to-generate-usd-2-billion-in-revenue-from-gem-and-jewellery-industry-president) · `en`
+
+President Ranil Wickremesinghe emphasized that the government’s prudent decisions over the past two years have bolstered the nation’s economy, providing a favourable environment for political activities on the streets. However, he cautioned that the economy still faces challenges, urging citizens to weigh the choice of either continuing with the government’s initiatives for prosperity or risking regression.
+
+Highlighting a remarkable increase of over 50% in government income in 2023 compared to 2022, President Wickremesinghe underscored the conducive backdrop for advancing confidently with a robust economy. These remarks were made during his attendance at the inauguration of the International Gem and Jewellery Trade Centre, known as the Ratnapura Gem Tower, this morning (04).
+
+...
+
+[Data](articles/79537049.json)
+
+---
+
+### Tomorrow temperatures in several provinces
 
 *2024-04-04 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195314) · `si`
 
-දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය හෙට (05) දිනයේදී අවධානය යොමුකළ යුතු මට්ටම දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Meteorology Department warns of high temperatures in several areas tomorrow, advising residents to stay hydrated and avoid intense outdoor activities.
 
-උතුරු, අතුරු-මැද, නැගෙනහිර, බස්නාහිර, සබරගමුව, වයඹ සහ දකුණු පළාත්වලත් මොණරාගල දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+🟩
 
-මෙහිදී ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළ යුතු බව එම දෙපාර්තමේන්තුව කළ නිවේදනයේ සඳහන් වේ.
+The Meteorology Department says that several areas in the island will continue to pay attention to tomorrow (05).
+
+The department states that the heat of the human body is at some places where the human body feels at some places in the Moneragala district will be at a level of heating.
+
+In an adequate drinking water, the rest of the shade, which can be followed by the intensive limitations of the outdoors should be followed by the department.
 
 ◼️
 
 [Data](articles/2be2ff24.json)
+
+[Extended Data](ext_articles/2be2ff24.ext.json)
 
 ---
 
@@ -70,7 +90,7 @@ According to authorities, the concrete bay collapsed as part of a tea garden dev
 
 *2024-04-04 20:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98433/68-suspects-arrested-over-torching-of-sanath-nishanthas-house-released) · `en`
 
-The Chillaw Magistrate’s Court has ordered the release of all 68 individuals who were arrested on suspicion of involvement in the torching late State Minister Sanath Nishantha’s residence.
+The Chillaw Magistrate’s Court has ordered the release of all 68 individuals who were arrested on suspicion of involvement in the torching of late State Minister Sanath Nishantha’s residence.
 
 Attorney-at-Law Sweeney Perera, who appeared on behalf of the aforementioned suspects, stated that this order was issued by the Chillaw Magistrate today (04) when the case was taken up.
 
@@ -2285,23 +2305,5 @@ MG Veerasena is to fill the vacuum caused by the demise of MP KH Nandasena of th
 [Data](articles/a3e7f34e.json)
 
 [Extended Data](ext_articles/a3e7f34e.ext.json)
-
----
-
-### Damitha and husband CID arrested
-
-*2024-04-04 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195288) · `si`
-
-The Criminal Investigations Department (CID) arrested Damitha and her husband.
-
-🟩
-
-The Criminal Investigations Department has been arrested by the Criminal Investigation Department.
-
-◼️
-
-[Data](articles/522c8bfe.json)
-
-[Extended Data](ext_articles/522c8bfe.ext.json)
 
 ---

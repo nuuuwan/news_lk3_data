@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 14:03:21**
+As of **2024-04-04 14:18:03**
 
 ## Newspaper Stats
 
-*Scraped **17,099** Articles*
+*Scraped **17,102** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ islandlk | 943
 economynextcom | 944
 adalk | 1,441
 tamilmirrorlk | 2,032
-adaderanalk | 2,051
+adaderanalk | 2,052
 virakesarilk | 2,476
 dailymirrorlk | 2,627
-adaderanasinhalalk | 2,757
+adaderanasinhalalk | 2,759
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,099 (100.0%) of 17,099 articles have been extended.
+17,102 (100.0%) of 17,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### Engkk Duminda who had recovered back to the SLFP and Lasantha and Amweera
+
+*2024-04-04 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195290) · `si`
+
+Duminda Dissanayake rejoins SLFP, calls for special news discussion with Lasantha and Amweera.
+
+🟩
+
+Duminda Dissanayake says he will be invited to join the Sri Lanka Freedom Party.
+
+Duminda Dissanayake, Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera have called a special news discussion today (04).
+
+The special press conference was held at the Sri Lanka Freedom Party Headquarters.
+
+"Former President Chandrika Bandaranaike could not wait for this destruction. Accordingly, Maithripala Sirisena, the Chairman of the party, issued an injunction order. "
+
+◼️
+
+[Data](articles/57750f69.json)
+
+[Extended Data](ext_articles/57750f69.ext.json)
+
+---
+
+### Court orders IGP to appear in court
+
+*2024-04-04 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195289) · `si`
+
+The IGP must appear in court after issuing a directive to the Supreme Court regarding petitions against the transfer of Chief Inspectors.
+
+🟩
+
+The IGP has issued a directive to the Supreme Court informed several fundamental rights petitions filed against the transfer of a group of Chief Inspectors.
+
+When the petitions were called today, the petition issued the order by the Supreme Court Judiciary, a three-member Judge Jayantha Jayasuriya.
+
+◼️
+
+[Data](articles/576d97d0.json)
+
+[Extended Data](ext_articles/576d97d0.ext.json)
+
+---
+
+### Authorities instructed to ensure essential public services during Avurudu
+
+*2024-04-04 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98422/authorities-instructed-to-ensure-essential-public-services-during-avurudu) · `en`
+
+President Ranil Wickremesinghe on Thursday (04) gave instructions to ensure that essential public services are smoothly carried on during the upcoming Sinhala and Tamil New Year and minimize the inconvenience caused to the general public.
+
+The Head of State gave these directives to the instructions to the respective state officials and ministerial authorities, according to the President’s Media Division (PMD).
+
+◼️
+
+[Data](articles/15b9fce3.json)
+
+[Extended Data](ext_articles/15b9fce3.ext.json)
+
+---
 
 ### President instructs to ensure essential public services during Avurudu
 
@@ -54,9 +114,15 @@ He also directed to minimize the inconvenience caused to the general public.
 
 Sri Lankan actress Damitha Abeyratne and her husband were arrested by the Criminal Investigation Department (CID) today (04).
 
-The arrest came after the couple, who had been wanted by the CID in connection with financial fraud, appeared before the Colombo Fort Magistrate’s Court earlier.
+The arrest came after the couple, who had been wanted by the CID, appeared before the Colombo Fort Magistrate’s Court earlier.
 
-◼️
+The CID is currently carrying out an investigation into Abeyratne and her husband, in relation to their involvement in an alleged money scam.
+
+Speaking to the media at the courts premises, Abeyratne said: "I was not in hiding. Damitha is not someone who can hide in this country; she is a woman who fought against the corrupt system that garnered 69 lakh votes. Today, I surrender to the court. I will also celebrate the New Year in prison."
+
+The Computer Crimes Division of the CID had initiated an investigation into the alleged defrauding of Rs. 3 million by the couple on the promise of employment in South Korea. Subsequently, the CID informed the court that Abeyratne and her husband would be named as suspects of the relevant case.
+
+...
 
 [Data](articles/61b8088b.json)
 
@@ -2169,65 +2235,5 @@ The protesting parents met the provincial education officials who had visited th
 [Data](articles/7b80ba96.json)
 
 [Extended Data](ext_articles/7b80ba96.ext.json)
-
----
-
-### Indian Ambassador Sai Murali meets Northern Province Chief Secretary L. Ilangovan
-
-*2024-04-04 03:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/180375) · `ta`
-
-Jaffna Indian Ambassador Sai Murali met Northern Province Chief Secretary L. Ilangovan to discuss youth and startup development, skills, and social involvement, with the Government of India's assistance.
-
-🟩
-
-A meeting between Northern Province Chief Secretary L. Ilangovan and Jaffna Indian Ambassador Sai Murali was held on Wednesday evening at the Indian Embassy at Maruthadi Road, Jaffna.
-
-The meeting was discussed in detail about the youth and startup environment in the Northern Province, focusing on development activities, skills development and social involvement and the help of the Government of India.
-
-Jaffna Indian Ambassador Bhaskar and others were present.
-
-◼️
-
-[Data](articles/0542ef79.json)
-
-[Extended Data](ext_articles/0542ef79.ext.json)
-
----
-
-### The Human Rights Commission of Sri Lanka
-
-*2024-04-04 03:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180374) · `ta`
-
-Professor R. Danaraj, Commissioner of Sri Lanka's Human Rights Commission, highlighted the upcountry community's disadvantages, including lower literacy and higher poverty rates. He aims to address these issues by collecting data on their challenges and submitting a report to the President.
-
-🟩
-
-The Commissioner of the Human Rights Commission of Sri Lanka, Professor R. Danaraj, pointed out that the upcountry community is disadvantaged in various sectors compared to other communities in the country, said that the reasons for the lack of rights and facilities to the people of the hill country and the measures to be taken nationally.
-
-The New Chairperson and Commissioners of the Sri Lanka Human Rights Commission took over their duties last year, and a media briefing was held at the Sri Lanka Forum in Colombo on Wednesday to clarify the activities of the Commission.. Professor R. Danaraj, who is in charge of the Human Rights Commission, said in charge of the Human Rights Commission in charge of the meeting.
-
-...
-
-[Data](articles/5653b100.json)
-
-[Extended Data](ext_articles/5653b100.ext.json)
-
----
-
-### Tourist arrivals surpass 200,000 mark but miss monthly target
-
-*2024-04-04 03:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-arrivals-surpass-200-000-mark-but-miss-monthly-target/108-280143) · `en`
-
-Sri Lanka crossed the 200,000 tourist arrival mark for four consecutive months from December 2023, through March 2024, affirming good times are back for the once hard-hit industry that almost came to a standstill.
-
-Although the monthly tourist arrival rates have almost doubled from what was witnessed in 2023, the monthly arrival targets have not been met as yet this year, both in the upper-case scenario and lower-case scenario.
-
-In the month of January, the lower-case scenario target was missed by 7 percent, whereas the uppercase-scenario target was missed by 14 percent.
-
-...
-
-[Data](articles/f8848bf1.json)
-
-[Extended Data](ext_articles/f8848bf1.ext.json)
 
 ---

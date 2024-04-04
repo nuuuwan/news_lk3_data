@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 17:54:08**
+As of **2024-04-04 18:09:41**
 
 ## Newspaper Stats
 
-*Scraped **17,152** Articles*
+*Scraped **17,154** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
 economynextcom | 944
-adalk | 1,447
+adalk | 1,448
 tamilmirrorlk | 2,034
-adaderanalk | 2,059
+adaderanalk | 2,060
 virakesarilk | 2,490
 dailymirrorlk | 2,633
 adaderanasinhalalk | 2,773
@@ -26,47 +26,83 @@ adaderanasinhalalk | 2,773
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,150 (100.0%) of 17,152 articles have been extended.
+17,152 (100.0%) of 17,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### පොලිස් වෙඩිපහරින් මියගිය නාරම්මල රියදුරා වෙනු‍වෙන් වන්දි ඉල්ලා FR පෙත්සමක්
+### 2023 A/L results expected in May?
+
+*2024-04-04 17:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98430/2023-al-results-expected-in-may) · `en`
+
+Minister of Education Susil Premajayantha states that efforts are underway to release the results of the 2023 G.C.E. Advanced Level examination in the beginning of May.
+
+Furthermore, the Minister expressed that the timetable have already been prepared to hold the 2023 G.C.E. Ordinary Level examination in mid-May.
+
+Joining an event held at the Ministry of Education premises today (04), Premajayantha mentioned that the report of the committee appointed to make recommendations with regard to increasing the allowances of teachers engaging in paper-marking activities have been received.
+
+“Accordingly, approval will be obtained for the relevant report within the next few weeks”, he added.
+
+The Education Minister, who stated that there are around 35,000 individuals taking part in O/L paper-marking and 19,000 those who participate in A/L paper-marking activities, assured that all of them will possibly receive a satisfactory allowance.
+
+◼️
+
+[Data](articles/d10a4c7d.json)
+
+---
+
+### FR petition demanding compensation for the Narammala driver who died of the police stirus
 
 *2024-04-04 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195304) · `si`
 
-යුක්තිය මෙහෙයුම යටතේ රාජකාරියේ නිරතව සිටි නාරම්මල පොලීසියේ නිලධාරියෙකු විසින් ලොරි රථ රියදුරෙකු වෙඩිතබා ඝාතනය කිරීමේ සිද්ධියෙන් පොලීසිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා ගොනුකර තිබූ පෙත්සමක් විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය අද (04) අවසර ලබා දුනි.
+The Supreme Court heard a petition for compensation for a lorry driver killed by a police officer in Narammala. The OIC and IGP of Narammala Police were not notified. The court, led by Nawaz, Achala Winglingi, and Priyantha Fernando, considered the case. Upul Kumarapperuma, representing the deceased's wife, criticized the shooting. The government launched a non-vegetative trial against the police officer.
 
-ඒ අනුව මෙම වෙඩිතැබීමේ සිද්ධියට සම්බන්ධ නාරම්මල පොලිසියේ සේවය කළ උප පොලිස් පරීක්ෂක ගුණවර්ධන සහ පොලිස් සැරයන් චමුදිත බණ්ඩාර කුලසේකර යන අයට මෙම පෙත්සම සම්බන්ධයෙන් අධිකරණය හමුවේ කරුණු දක්වන ලෙස දන්වා නොතිසි නිකුත් කරන ලෙසත් විනිසුරු මඩුල්ල නියම කළේය.
+🟩
 
-එහෙත් අදාළ පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් නම්කර සිටි නාරම්මල පොලිසියේ ස්ථානාධිපතිවරයා හා පොලිස්පති දේශබන්දු තෙන්නකෝන් යන මහත්වරුන්ට එරෙහිව පෙත්සම් විභාගයක් නොපැවැත්වීමට තීන්දු කළ විනිසුරු මඩුල්ල ඔවුන් වෙත නොතිසි නිකුත් නොකිරීමට ද නියෝග කර ඇත.
+The Supreme Court today (04) was permitted to hear a petition filed by a lorry police officer who was shot dead by the Narammala Police officer who was working on duty under the operation of justice.
+
+Accordingly, the panel of judges was appointed as the petition in the courts regarding the petition regarding the petition in the Narammala Police regarding the shooting incident.
+
+However, the OIC of Naramma Police OIC and IGP, Naramma Police OIC and IGP, has not been issued notices regarding the panel of judges.
+
+After considering a fundamental rights petition filed by his wife, Kamani Priyangani for the deceased Roshan Kumarasiri for the death of the incident, AHMD. The three-member Supreme Court Judge Bench comprised Nawaz, Achala Winglingi and Priyantha Fernando.
+
+President's Counsel Upul Kumarapperuma, who was presented to the wisher of the deceased, has questioned the shooting of the court.
 
 ...
 
 [Data](articles/c5ec7d40.json)
 
+[Extended Data](ext_articles/c5ec7d40.ext.json)
+
 ---
 
-### කෙහෙළිය ට එරෙහි අල්ලස් කොමිසමේ නඩුව විභාගයට දින දෙයි
+### Bribery Commission on Keheliya bribes to date
 
 *2024-04-04 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195303) · `si`
 
-හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු විත්තිකරුවන් තිදෙනෙකුට එරෙහිව අල්ලස් කොමිසම විසින් ගොනුකර තිබෙන නඩුවක් විභාගයට ගැනීමට කොළඹ මහාධිකරණය දින නියමකර තිබේ.
+The Colombo High Court is hearing a case filed by the Bribery Commission against former Minister Keheliya Rambukwella and three others, accused of bribing the Sri Lanka Rupavahini Corporation during the 2015 Presidential Election. The case was summoned before Judge Navaratne Marasinghe on April 4th.
 
-2015 වසරේ පැවති ජනාධිපතිවරණය සමයේදී ශ්‍රී ලංකා රූපවාහිනි සංස්ථාවේ රුපියල් ලක්ෂ 10කට ආසන්න මුදලක් වැයකර දේශපාලන ක්‍රියාකාරකම් සඳහා ජී.අයි.බට මිලදීගැනීමේ සිද්ධිය සම්බන්ධයෙන් මෙම විත්තිකරුවන්ට චෝදනා එල්ලවී ඇත.
+🟩
 
-ඒ අනුව අල්ලස් කොමිසම විසින්, එවක ජනමාධ්‍ය අමාත්‍යවරයා ලෙස කටයුතු කළ කෙහෙළිය රඹුක්වැල්ල, ශ්‍රී ලංකා රූපවාහිනී සංස්ථාවේ හිටපු සභාපති විමල් රුබසිංහ සහ හිටපු අධ්‍යක්ෂ ජනරාල් චන්ද්‍රපාල ලියනගේ යන මහත්වරුන්ට එරෙහිව මෙම නඩුව ගොනු කර තිබුණි.
+The Colombo High Court has decided to hear a case filed by the Bribery Commission against former Minister Keheliya Rambukwella and three defendants.
 
-කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා ඉදිරියේ මෙම නඩුව අද (04) කැඳවා තිබුණි.
+These defendants have been accused of purchase of the Sri Lanka Rupavahini Corporation at the 2015 Presidential Election.
 
-එම අවස්ථාවේදී නඩු විභාගය සඳහා දැනට රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ද අධිකරණයට ඉදිරිපත් කර තිබුණි.
+Accordingly, the Bribery Commission filed the case against the former President of the Sri Lanka Rupavahini Corporation and former Chandrapala Liyanage, former Chairman of the Sri Lanka Rupavahini Corporation, the Sri Lanka Rupavahini Corporation.
 
-ඉන් අනතුරුව නඩුවේ පූර්ව නඩු විභාග සම්මන්ත්‍රණය අවසන් කළ විනිසුරුවරයා නඩුව විභාගය සඳහා අගෝස්තු මස 29 වනදා කැඳවන ලෙස නියෝග කළේය.
+The case had been summoned before Colombo High Court Judge Navaratne Marasinghe today (04).
+
+Former Minister Keheliya Rambukwella had also been produced before the court for the trial.
+
+The judge who completed the pre-trial conference in the case was ordered to be summoned on August 29 for the examination.
 
 ◼️
 
 [Data](articles/f8dc84c9.json)
+
+[Extended Data](ext_articles/f8dc84c9.ext.json)
 
 ---
 
@@ -240,7 +276,23 @@ Minister of Education Dr. Susil Premajayantha says that the GCE Advanced Level e
 
 ---
 
-### IOC in talks with state nuclear firm for small reactors –report
+### ඩොලරයට රුපියල් 280ක් ?
+
+*2024-04-04 16:25:45* · [`adalk`](https://www.ada.lk/breaking_news/ඩොලරයට-රුපියල්-280ක්--/11-408955) · `si`
+
+රටේ ආර්ථික වර්ධන වේගය සෘන අගයකට පත්ව තිබුණා. නමුත් රජය ගෙන ගිය නිවැරදි ආර්ථික කළමනාකරණය හේතුවෙන් අද රුපියලේ වටිනාකම ඉහළ ගොස් තිබෙනවා. ඒ අනුව ආර්ථිකය ශක්තිමත් වී තිබෙනවා. ඒ නිසා අද මෙම බඳවා ගැනීම් සිදු කිරීමට අපට අවස්ථාව ලැබී තිබෙනවා යයි,  උපාධිධාරී ගුරුවරුන්ට පත්වීම් ලබා දීමේ උත්සවයකට එක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසා සිටියේය.
+
+තවදුරටත් අදහස් දැක්වූ ජනාධිපතිවරයා “පසුගිය වසරේ ඇමරිකානු ඩොලරයට සාපේක්ෂව රුපියලේ අගය 370ක් බවට පත්ව තිබුණා. අද වන විට ඩොලරයට සාපේක්ෂව රුපියල 300ක අගයක පවතින අතර එය ඉදිරියේදී 280ක් දක්වා පහළ ගෙන ඒමට බලාපොරොත්තු වෙනවා. එවිට ජනතාවගේ අතට ලැබෙන මුදල ශක්තිමත් වෙනවා.
+
+අද ආණ්ඩුවේ වැඩකටයුතු සඳහා මුදල් සොයාගත යුතුව තිබෙනවා. අද අපි ගමන් කරන්නේ දුෂ්කර මාර්ගයක වුවද ඉදිරියේ දී ආර්ථික දියුණුවක් ඇති කර ගැනීමට හැකියාව ලැබෙනවා.”
+
+◼️
+
+[Data](articles/d65ccd4a.json)
+
+---
+
+### IOC in talks with state nuclear firm for small reactors – report
 
 *2024-04-04 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98429/ioc-in-talks-with-state-nuclear-firm-for-small-reactors-report-) · `en`
 
@@ -2255,67 +2307,5 @@ He attributed this positive shift to effective economic policies implemented by 
 [Data](articles/792c0d08.json)
 
 [Extended Data](ext_articles/792c0d08.ext.json)
-
----
-
-### Maithripala Sirisena: What is the injunction given in court to prevent the Sri Lanka Freedom Party Chairman?
-
-*2024-04-04 10:24:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx9zw7qqjy0o) · `si`
-
-The Colombo District Court issued an injunction on April 4 to prevent the Sri Lanka Freedom Party (SLFP) Chairman, following a complaint by former President Chandrika Bandaranaike Kumaratunga. The injunction, valid until April 18, was prescribed against the accused party. The petition, damaged by the party's president, alleges violations of the People's Sovereignty and arbitrary actions by Maithripala Sirisena, leading to the SLFP's reputation being damaged.
-
-🟩
-
-Maithripala Sirisena: What is the injunction given in court to prevent the Sri Lanka Freedom Party Chairman?
-
-The Colombo District Court today issued an injunction today (April 4) to prevent the Chairman of the SLFP.
-
-The injunction was issued by the Colombo District Judge Sandun Withanage after considering a complaint by former President Chandrika Bandaranaike Kumaratunga.
-
-The injunction stated that the injunction will be held until April 18.
-
-The Court prescribed the court to be named as the accused of the petition as the defendants of the petition.
-
-The political crisis in Sri Lanka: Excellent opportunities of the political crisis that exceeds 50 days
-
-SLFP's reputation has been acquitted
-
-The petition filed by Chandrika Bandaranaike Kumaratunga was reportedly damaged by the party's president of the Maithripala Sirisena party.
-
-The petition was found in the operation of Maithripala Sirisena, the Chairman of the party and the Commonwealth of the country.
-
-...
-
-[Data](articles/8a104ffd.json)
-
-[Extended Data](ext_articles/8a104ffd.ext.json)
-
----
-
-### 18 year old found in a reservoir
-
-*2024-04-04 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195281) · `si`
-
-An 18-year-old girl's body was found in a reservoir in Ragala, leading to an investigation. Another woman died in Thunadola, Suriyakanda, after falling into a well.
-
-🟩
-
-A dead body of a young girl who was killed in a small reservoir in the Delmar Estate area in the Ragala Police Division was found suspiciously.
-
-The body was found that the body was found on a tip off received by Ragala Police.
-
-She had left the house without knowing the next March.
-
-The body has been placed at the Nuwara Eliya hospital and Ragala Police are conducting further investigations.
-
-Meanwhile, a woman has died of a woman in the Thunadola area of Suriyakanda.
-
-She had gone down to the land, saying that she was going to pick up pepper and saw the deceased to fall into the gal.
-
-◼️
-
-[Data](articles/18c4d8fe.json)
-
-[Extended Data](ext_articles/18c4d8fe.ext.json)
 
 ---

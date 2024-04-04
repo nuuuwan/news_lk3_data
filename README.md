@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 15:03:31**
+As of **2024-04-04 15:18:26**
 
 ## Newspaper Stats
 
-*Scraped **17,112** Articles*
+*Scraped **17,114** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ islandlk | 943
 economynextcom | 944
 adalk | 1,443
 tamilmirrorlk | 2,034
-adaderanalk | 2,053
+adaderanalk | 2,054
 virakesarilk | 2,479
-dailymirrorlk | 2,628
+dailymirrorlk | 2,629
 adaderanasinhalalk | 2,760
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,108 (100.0%) of 17,112 articles have been extended.
+17,112 (100.0%) of 17,114 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### SC decides to hear FR petition against policemen involved in Narammala shooting
+
+*2024-04-04 14:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-decides-to-hear-FR-petition-against-policemen-involved-in-Narammala-shooting/108-280186) · `en`
+
+Colombo, April 4 (Daily Mirror)- The Supreme Court today granted leave to proceed with the Fundamental Rights petition filed by the widow of the carpenter who died in the Narammala police gunfire during the 'Yukthiya Operation'.
+
+The deceased Roshan Kumarasiri was shot dead by Sub Inspector Gunawardena who was on duty in civvies when the deceased was returning home after work.
+
+In her fundamental rights application, the petitioner Kamani Rupika Priyangani is seeking a compensation of Rs. 200 million from the police officers including IGP Deshabandu Tennakoon.
+
+The Supreme Court issued notices on the respondents and fixed the matter for argument on November 25.
+
+The Attorney General's Department has decided not to appear on behalf of the respondent police officers who were involved in the Narammala police shooting.
+
+◼️
+
+[Data](articles/220a87e2.json)
+
+---
 
 ### Damitha, her husband arrested by CID
 
@@ -44,65 +64,89 @@ They were arrested while they were leaving the court after filing a motion in co
 
 [Data](articles/3a2b62a4.json)
 
+[Extended Data](ext_articles/3a2b62a4.ext.json)
+
 ---
 
-### අල්ලස් ගත් සෞඛ්‍ය අමාත්‍යාංශ සේවකයෙකු අත්අඩංගුවට
+### An employee arrested for accepting a bribe
 
 *2024-04-04 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195291) · `si`
 
-අල්ලස් මුදලක් ලබාගැනීමේ චෝදනාව යටතේ රාජ්‍ය කළමනාකරණ සහකාරවරයෙකු අල්ලස්  හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් අත්අඩංගුවට ගෙන තිබේ.
+A Public Management Assistant in the Ministry of Health's Transport Division was arrested by the Bribery or Corruption Commission for allegedly accepting a bribe from Galigamuwa Boyagama. The arrest occurred on the main road in front of the Ministry of Health at 1.05 pm yesterday. The suspect will face charges in the Colombo Chief Magistrate's Court.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ සෞඛ්‍ය අමාත්‍යාංශයේ ප්‍රවාහන අංශයේ සේවයේ නිරත රාජ්‍ය කළමනාකරණ සහකාරවරයෙකි.
+🟩
 
-ගලිගමුව බෝයගම ප්‍රදේශයේ පුද්ගලයෙකු විසින් සිදුකරන ලද පැමිණිල්ලකට අනුව සැකකරු අත්අඩංගුවට ගෙන ඇත.
+A Public Management Assistant has been arrested by the Commission to Investigate Allegations of Bribery or Corruption under accusation of bribery.
 
-වාහනයක් අසාදු ලේඛනයෙන් ඉවත් කර වාර්තාවක් ලබාදීම සඳහා රුපියල් 80,000ක මුදලක් අල්ලස් වශයෙන් ඉල්ලා එය ලබාගැනීම ඔහුට එරෙහිව එල්ලවී ඇති චෝදනාවයි.
+The arrested has been arrested a Public Management Assistant in the Transport Division of the Ministry of Health.
 
-ඊයේ (03) පස්වරු 1.05ට පමණ සෞඛ්‍ය අමාත්‍යාංශය ඉදිරිපිට ප්‍රධාන මාර්ගයේදී සැකකාර රාජ්‍ය කළමනාකරණ සහකාරවරයාව අල්ලස්  හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+The suspect has been arrested following a complaint made by a person from a person named Galigamuwa Boyagama.
 
-අත්අඩංගුවට ගත් සැකකරු කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතව ඇත.
+The allegation has been charged against him to seek a bribe of Rs.
+
+Bribery or Corruption Commission officials have been arrested by the Commission to Investigation Commission on the main road in front of the Ministry of Health around 1.05 pm yesterday.
+
+The suspect is to be produced before the Colombo Chief Magistrate's Court.
 
 ◼️
 
 [Data](articles/31221739.json)
 
+[Extended Data](ext_articles/31221739.ext.json)
+
 ---
 
-### சுதந்திரக் கட்சிக்கு மீண்டும் திரும்பிய துமிந்த, லசந்த, அமரவீர
+### Duminda, Lasantha, Amaraweera returned to the SLFP
 
 *2024-04-04 14:38:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுதந்திரக்-கட்சிக்கு-மீண்டும்-திரும்பிய-துமிந்த-லசந்த-அமரவீர/175-335611) · `ta`
 
-ஸ்ரீ லங்கா சுதந்திரக் கட்சியுடன் இணைந்து புதிய பயணத்தை மேற்கொள்ள அனைவருக்கும் அழைப்பு விடுப்பதாக துமிந்த திஸாநாயக்க தெரிவித்துள்ளார்.
+Duminda Dissanayake invites all to join the Sri Lanka Freedom Party (SLFP), highlighting the party's challenges, including a court case led by former President Chandrika Bandaranaike and the ban on party leader Maithripala Sirisena.
 
-ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதவிகளில் இருந்து நீக்கப்பட்ட துமிந்த திஸாநாயக்க, லசந்த அழகியவன்ன மற்றும் மஹிந்த அமரவீர ஆகியோர் இன்று (04) ஸ்ரீ லங்கா சுதந்திரக் கட்சி சார்பில் விசேட செய்தியாளர் மாநாட்டை நடத்தியபோதே அவர் இதனைக் கூறியுள்ளார்.
+🟩
 
-இந்த விசேட செய்தியாளர் மாநாடு ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் தலைமையகத்தில் நடைபெற்றது.
+Duminda Dissanayake has said that everyone will be invited to make a new journey with the Sri Lanka Freedom Party.
 
-அவர்கள் மேலும் கூறியதாவது, “கட்சியின் அழிவினை பார்த்துக்கொண்டிருக்க முடியாத நிலையிலேயே முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க நீதிமன்றத்தை நாடினார். அதற்கிணங்க, கட்சியின் தலைவராக இருந்த  மைத்திரிபால சிறிசேனவுக்கு தடை விதிக்கப்பட்டது." என்று குறிப்பிட்டுள்ளனர்.
+He was speaking at a special press conference on behalf of the Sri Lanka Freedom Party (SLFP) on behalf of the Sri Lanka Freedom Party (SLFP).
+
+The special press conference was held at the headquarters of the Sri Lanka Freedom Party.
+
+They added, “Former President Chandrika Bandaranaike sought the court in which the party was unable to see the destruction of the party.. Accordingly, Maithripala Sirisena, the party leader, was banned. ”
 
 ◼️
 
 [Data](articles/4938b8b2.json)
 
+[Extended Data](ext_articles/4938b8b2.ext.json)
+
 ---
 
-### துபாயில் ஒரே நாளில் உயிரிழந்த ஆராச்சிக்கட்டுவ பொலிஸ் பிரிவைச் சேர்ந்த இருவர்!
+### Two persons from the Arachchikattuwa police division who died overnight in Dubai
 
 *2024-04-04 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180428) · `ta`
 
-ஆராச்சிக்கட்டுவ பொலிஸ் பிரிவுக்கு உட்பட்ட இரண்டு பிரதேசங்கனைச் சேர்ந்த இருவர் துபாயில் பணியாற்றிய  நிலையில்  ஒரே  நாளில் இருவரும்  உயிரிழந்துள்ளதாக தமக்கு தகவல் கிடைத்துள்ளதாக ஆராச்சிக்கட்டுவ பொலிஸார் தெரிவிக்கின்றனர்.
+Two Arachchikattuwa police officers died in Dubai. Sandun Madusanga, 28, and Ramesh Udara Dilina, 42, were working for a Kurunegala company. Their deaths are under investigation.
 
-இவ்வாறு உயிரிழந்தவர்கள்  ஆராச்சிக்கட்டு நல்லதரன்கட்டு கிரிவெல்கெலேயைச் சேர்ந்த  28 வயதான சந்துன் மதுசங்க என்ற  இளைஞரும் ஆராச்சிக்கட்டு அண்டன்வில்வத்தையைச் சேர்ந்த  ரமேஷ் உதார திலின என்ற 42 வயதுடைய இரண்டு பிள்ளைகளின் தந்தையும் ஆவார்.
+🟩
 
-இவர்கள்  குருணாகலில் உள்ள பிரபல நிறுவனமொன்றில் இருந்து துபாய்க்கு வேலைக்குச் சென்றுள்ளதாக உறவினர்கள் தெரிவிக்கின்றனர்.
+Two persons belonging to the Arachchikkattuwa police division have been reported in Dubai and they have been killed in the same day, police said.
 
-தினமும் இவர்கள்  தமது உறவினர்களுடன் தொலைபேசி மூலம் தொடர்பு கொண்டுள்ள போதிலும் தாம் இறப்பதற்கு சில நாட்களுக்கு முன்னர்  தமது உறவினர்களிடம் தாம் சுகவீனமுற்றுள்ளதாக தெரிவித்துள்ளனர்.
+The deceased was a 28 -year -old Sandun Madusanga from Kirivelkelle, Arachchikattu, and the father of two children, Ramesh Udara Dilina, a 42 -year -old from Arachchikattu, Antanvilvathi.
 
-உடல்நிலை மோசமடைந்ததையடுத்து உள்ளூர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட இவர்கள்  கடந்த 30ஆம் திகதி உயிரிழந்ததாக பிரதேச வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+Relatives say they have been working for Dubai from a famous company in Kurunegala.
 
-...
+Although they have telephoned their relatives every day, they have told their relatives a few days before their death.
+
+According to sources, sources said that they died on the 30th of last month.
+
+Meanwhile, his relatives have requested the Sri Lankan government to intervene and bring the bodies of the deceased to this country, conduct a proper fair investigation and find out the cause of death.
+
+Relatives said they would cost more than Rs.
+
+◼️
 
 [Data](articles/edd1295b.json)
+
+[Extended Data](ext_articles/edd1295b.ext.json)
 
 ---
 
@@ -273,6 +317,24 @@ The Head of State gave these directives to the instructions to the respective st
 [Data](articles/15b9fce3.json)
 
 [Extended Data](ext_articles/15b9fce3.ext.json)
+
+---
+
+### President instructs to ensure seamless essential services during Avurudu
+
+*2024-04-04 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98422/president-instructs-to-ensure-seamless-essential-services-during-avurudu) · `en`
+
+President Ranil Wickremesinghe has given directives to implement a formal program aimed at maintaining essential services and public services seamlessly during the upcoming Sinhala and Tamil New Year (Avurudu) season.
+
+This initiative is intended to guarantee the smooth operation of essential services without any disruptions during the festive season, the President’s Media Division (PMD) said.
+
+In addition, Wickremesinghe has emphasized that institutions that fall under the ‘essential’ category such as the Presidential Secretariat, Prime Minister’s Office, Defence Ministry, Health Ministry, Transport Ministry, and Power and Energy Ministry must collaborate to prepare this program in tandem.
+
+Additionally, for the upcoming Sinhala and Tamil New Year season, the President has directed the security forces to execute a comprehensive program to ensure public security and the maintenance of law and order across the country.
+
+◼️
+
+[Data](articles/7d9b5627.json)
 
 ---
 
@@ -2213,47 +2275,5 @@ Former SLFPer Weerakkody expressed his belief that the SLFP has undergone signif
 [Data](articles/285004e1.json)
 
 [Extended Data](ext_articles/285004e1.ext.json)
-
----
-
-### High Court rejects Keheliya’s bail application
-
-*2024-04-04 04:44:18* · [`dailyftlk`](https://www.ft.lk/news/High-Court-rejects-Keheliya-s-bail-application/56-760295) · `en`
-
-Former Health Minister Keheliya Rambukwella’s revision application seeking bail has been rejected once again by the Colombo High Court yesterday.
-
-In his bail application filed on 15 March through his legal counsels, Rambukwella claimed that the Maligakanda Magistrate’s decision to reject bail for him is unlawful. He also sought the High Court to release him on bail subjected to any condition.
-
-In March, Rambukwella’s bail application was rejected for the first time after the Attorney General had raised preliminary objections. Maligakanda Magistrate Lochani Abeywickrama overruled the accused’ bail pleas and detained them indefinitely under the provisions of the Public Property Act.
-
-Later, the former Minister’s daughter Chaminthri Rambukwella had filed the revision petition at the Colombo High Court requesting that her father be released on bail conditions the Court deems fit.
-
-...
-
-[Data](articles/cc2b85d1.json)
-
-[Extended Data](ext_articles/cc2b85d1.ext.json)
-
----
-
-### Reform agenda must be progressive, not regressive: SJB
-
-*2024-04-04 03:50:38* · [`dailyftlk`](https://www.ft.lk/business/Reform-agenda-must-be-progressive-not-regressive-SJB/34-760294) · `en`
-
-Says subject Minister must not entertain absolute power over appointments and tariff
-
-Power deals must have better transparency and generate savings for the country
-
-Harsha de Silva says Sri Lanka must hasten out of default status
-
-Eran Wickramaratne recommends greater opening up of Sri Lankan economy
-
-Main Opposition Samagi Jana Balawegaya (SJB) yesterday insisted the reform agenda must be progressive and called for greater transparency. The party’s trio of economists addressed a range of pressing issues which the Government has failed to deal with expeditiously.
-
-...
-
-[Data](articles/8ddeaa1f.json)
-
-[Extended Data](ext_articles/8ddeaa1f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 18:21:26**
+As of **2024-04-04 18:51:30**
 
 ## Newspaper Stats
 
-*Scraped **17,158** Articles*
+*Scraped **17,167** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,39 +18,215 @@ economynextcom | 944
 adalk | 1,449
 tamilmirrorlk | 2,034
 adaderanalk | 2,060
-virakesarilk | 2,490
-dailymirrorlk | 2,633
-adaderanasinhalalk | 2,774
+virakesarilk | 2,496
+dailymirrorlk | 2,635
+adaderanasinhalalk | 2,775
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,154 (100.0%) of 17,158 articles have been extended.
+17,161 (100.0%) of 17,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### පාතාලයේ සබඳතා පැවැත්වූ සැකකරුවන් සැඟවූ ආයුධ පෙන්වයි
+### කොන්ක්‍රීට් කොටසක් ඇඟට වැටී තවත් පාසලක සිසුවෙක් මරුට
 
-*2024-04-04 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195306) · `si`
+*2024-04-04 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195307) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයන් තිදෙනෙකුගෙන් අනාවරණය වූ තොරතුරු මත විදේශීය රටක නිෂ්පාදිත ජීව අත්බෝම්බයක් හා කඩු 04ක් සොයාගත් බව කොළඹ අපරාධ කොට්ඨාසය පවසයි.
+පාසල් භුමියේ ගොඩගසා තිබූ කොන්ක්‍රීට් බොක්කුවක් ඇඟ මතට පෙරළීමෙන් බරපතළ තුවාල ලැබූ පාසල් සිසුවෙකු රෝහලගත කිරීමෙන් පසු මියගොස් ඇත.
 
-අත්අඩංගුවට ගත් එක් සැකකරුවෙක් රජමල් වත්තේ චාමර නමැත්තාගේ ගෝලයෙක් වන අතර ඔහු ඉකුත් මස 12 වනදා මට්ටක්කුලිය අලිවත්ත ප්‍රදේශයේදී පුද්ගලයකුට වෙඩි තබා ඝාතනය කිරීමට පැමිණි යතුරුපැදියේ පැදිකරු බව පොලීසිය පැවසීය.
+ජීවිතක්ෂයට පත්වී ඇත්තේ මස්කෙලිය ගාඩ්මොර් වතුයායේ පදිංචිව සිටි එම පාසලේ 6 වසරේ අධ්‍යාපනය ලබමින් සිටි එස්.අනිෂන් නමැති 11 හැවිරිදි සිසුවෙකි.
 
-එම සැකකරු දින 07ක රැඳවුම් නියෝග මත ප්‍රශ්න කිරීමේදී සේදවත්ත ඩෝබි වත්ත උමගිරි වලව්ව ආසන්නයේ පරවි කූඩුවක් අසල වළදමා තිබූ ජීව අත්බෝම්බය සොයාගැනීමට හැකිවී ඇත.
+ජීවිතක්ෂයට පත් පාසල් සිසුවා ඔහුගේ මිතුරන් දෙදෙනෙකු සමග අද (04) දින පස්වරු 1.30 ට පමණ වැසිකිළිය වෙත යාම සඳහා පැමිණි අවස්ථාවේදී මෙම අනතුරට මුහුණපා තිබේ.
 
-අනෙක් සැකකරුවන් දෙදෙනා සංවිධානාත්මක අපරාධ සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවන් වන මෝදර නිපුන සහ රජමල් වත්තේ චාමර යන පුද්ගලයන් සමග සබඳතා පැවැත්වීම හේතුවෙන් අත්අඩංගුවට ගෙන තිබේ.
+පාසල් භුමියේ ගොඩගසා තිබු කොන්ක්‍රිට් බොක්කුවක් සිසුවාගේ ඇඟ මතට පෙරළීමෙන් සිසුවා වැසිකිළියේ බිත්තියට සිරවී බරපතළ ලෙස තුවාල ලබා තිබුණි.
 
-රැඳවුම් නියෝග මත ප්‍රශ්න කිරීමේදී ඔවුන් සේදවත්තේ පොඩි සනා නමැත්තාගේ ගෝලයන් දෙදෙනෙක් බව හෙළිවී ඇත.
+පසුව පාසලේ ගුරුවරුන් සහ අසල්වාසින් එක්වී තුවාල ලබා සිටි සිසුවා සුවසැරිය ගිලන් රථය මගින් මස්කෙලිය ප්‍රාදේශීය රෝහලට ඇතුළත් කෙරුණි.
 
-එම සැකකරුවන් දෙදෙනා සේදවත්ත ප්‍රදේශයේදී අත්අඩංගුවට ගෙන සිදු කළ ප්‍රශ්න කිරීමේදී ඔවුන්ගේ නිවෙස්වල සඟවා තිබූ  කඩු 04ක්  සොයාගැනීමට හැකිවූ බව පොලීසිය කියයි.
+අදාළ කොන්ක්‍රීට් තේ වත්තක සංවර්ධන කටයුත්තක් සඳහා රැගෙන විත් තිබූ බවද හෙළිවී තිබේ.
+
+◼️
+
+[Data](articles/df1d005f.json)
+
+---
+
+### மனித உரிமைகள் பேரவையில் இஸ்ரேலுக்கு ஆயுதத் தடை கோரும் பிரேரணை
+
+*2024-04-04 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180455) · `ta`
+
+இஸ்ரேலுக்கு ஆயுதத் தடை விதிக்கும் பிரேரேணை ஐ.நா. மனித உரிமைகள் பேரவையில் நாளை (06) பரிசீலிக்கப்படவுள்ளது.
+
+காஸாவில் இனப்படுகொலைக்கான ஆபத்து உள்ளதால் இஸ்ரேலுக்கு ஆயுதத் தடை விதிக்க வேண்டும் என இப்பிரேரணையில் கோரப்பட்டுள்ளது.
+
+57 நாடுகள் அங்கம் வகிக்கும் இஸ்லாமிய ஒத்துழைப்பு அமைப்பின் சார்பில் பாகிஸ்தர்ன இப்பிரேரணையை முன்வைத்துள்ளது.
+
+ஐ.நா. மனித உரிமைகள் பேரவையில் 47 நாடுகள் அங்கம் வகிக்கின்றன. இதன்படி, பிரேரணை நிறைவேற்றப்படுதற்கு 24 நாடுகளின் ஆதரவு தேவை.
+
+எனினும், ஏதேனும் நாடுகள் வாக்களிப்பில் பங்குபற்றாமல்விட்டால், குறைந்த எண்ணிக்கையான வாக்குகளுடனும் தீர்மானங்கள் நிறைவேற்றப்பட முடியும்.
+
+◼️
+
+[Data](articles/6aabf2d5.json)
+
+---
+
+### கல்முனை வடக்கு பிரதேச செயலக  விவகாரம்! 11ஆவது நாளாகவும் தொடரும் நீதிகோரி போராட்டத்தில் கிழக்கு பல்கலைக்கழக மாணவர்கள் பங்கேற்பு
+
+*2024-04-04 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180456) · `ta`
+
+கல்முனை வடக்கு பிரதேச செயலகத்தின் அதிகாரங்கள் கல்முனை தெற்கு பிரதேச செயலகத்தால் அத்துமீறி பறிக்கப்பட்டு அநீதிகள் இழைக்கப்படுவதை எதிர்ப்பு தெரிவித்து மக்கள் நீதிகோரி போராட்டம் 11 ஆவது நாளாக வியாழக்கிழமை (04) இன்றும் தொடர்கிறது.
+
+இதற்கு ஆதரவு தெரிவித்து நற்பிட்டிமுனை அம்பலத்தடி பிள்ளையார் ஆலய முன்றலிலிருந்து பொதுமக்களுடன் இணைந்து நடைபவணியாக கிழக்கு பல்கலைக்கழக மாணவர்களும் கல்முனை வடக்கு பிரதேச செயலகத்தின் முன்னால் உள்ள போராட்ட இடத்தினை வந்தடைந்தனர்.
+
+இதன் போது அமைச்சரவை தீர்மானத்தை முழுமையாக அமுல்படுத்துங்கள், கல்முனை உப பிரதேச அலுவலகமாக கருதி மேற்கொள்ளப்பட்ட சட்டவிரோத தீர்மானங்கள் அனைத்தையும் இரத்து செய்யுங்கள், காணி நிதி அதிகாரங்களை வழங்குங்கள், கல்முனை வடக்கு பிரதேச செயலகத்தின் சுயாதீன தொழிற்பாட்டை உறுதிப்படுத்துங்கள் என பல்வேறு கோஷங்களை முன்வைத்து போராடுகின்றனர்.
+
+இந்த போராட்டத்தில் பொதுமக்கள், கிழக்கு பல்கலைக்கழக மாணவர்கள், அரசியல்வாதிகள் என பலரும் கலந்துகொண்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d394877a.json)
+
+---
+
+### President ensures uninterrupted public services for Sinhala & Tamil New Year
+
+*2024-04-04 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-ensures-uninterrupted-public-services-for-Sinhala-Tamil-New-Year/108-280193) · `en`
+
+Colombo, April 04 - With the Sinhala and Tamil New Year just around the corner, President Ranil Wickremesinghe has issued directives to ensure the seamless continuation of essential public services during the festive season, said the President's Media Division (PMD).
+
+Emphasizing the importance of uninterrupted services, the President has instructed officials to develop a comprehensive program aimed at maintaining essential services without any disruptions.
+
+Under the President's directive, key institutions falling under the essential services category, including the Presidential Secretariat, the Prime Minister's Office, and the Ministries of Defence, Health, Transport, and Power and Energy, are to collaborate closely to formulate this program.
+
+The goal is to guarantee the smooth operation of vital services crucial for the well-being of citizens during the New Year celebrations.
 
 ...
 
+[Data](articles/4e02c6c4.json)
+
+---
+
+### The Bribery Commission on Keheliya
+
+*2024-04-04 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180453) · `ta`
+
+The Bribery Commission has filed a case against Keheliya Rambukwella and two others, accusing them of bribery during the 2015 presidential election. The case was heard by Judge Nawaratne Marasinghe, who ordered it to be summoned on August 29.
+
+🟩
+
+The Colombo High Court has announced the date of hearing the case filed by the Bribery Commission against three defendants, including former minister Keheliya Rambukwella.
+
+During the 2015 presidential election, the Sri Lanka Television Corporation spent nearly Rs 10 lakh and accused of buying GIB for political activities.
+
+Accordingly, the Bribery Commission filed the case against the three.
+
+The case was taken up for hearing in the presence of Colombo High Court Judge Nawaratne Marasinghe on Thursday.
+
+After the hearing, the judge ordered the case to be summoned on August 29.
+
+◼️
+
+[Data](articles/2de393cd.json)
+
+[Extended Data](ext_articles/2de393cd.ext.json)
+
+---
+
+### The suspects with underworld relations show hidden weapons
+
+*2024-04-04 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195306) · `si`
+
+The Colombo Crimes Division (CCC) discovered four hand grenades and four swords linked to organized crime. Suspects Rajamal Watte, Modara Skills, and Chiramal Charm were arrested for their involvement.
+
+🟩
+
+The Colombo Crimes Division (CCC) says that four other hand grenades manufactured by a foreign country have been discovered on the information revealed by three members of organized crime.
+
+One of the arrested suspects is a disciple of Chamara, Rajamal Watte and he had come to the motorcycle to shoot a person in the Elvekuluwatta area on the 12th of this month.
+
+The suspect was able to find the balaged life grenade that had been buried near the Dobe Walawwa near the Dobiri Walawwa near the Dobiri Walawwa.
+
+The other two suspects have been arrested for contact with organized crime and drug dealers Modara skills and chiramal charm.
+
+It has been revealed that they were two disciples of Bhatthara Sanna in the interrogation of detention orders.
+
+Police said that four swords were found in the Sedola where the suspects were arrested in Sedola.
+
+Accordingly, the three suspects are being interrogated at length.
+
+◼️
+
 [Data](articles/38785e9f.json)
+
+[Extended Data](ext_articles/38785e9f.ext.json)
+
+---
+
+### கட்சிகளை உடைக்கும் நிலைப்பாட்டில் ஜனாதிபதி - வே. இராதாகிருஷ்ணன்
+
+*2024-04-04 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/180448) · `ta`
+
+கட்சிகளை உடைப்பதற்கான எதிர்பார்ப்பில் ஜனாதிபதி ரணில் விக்கிரமசிங்க இருக்கின்றார். ஜனாதிபதி தேர்தலும் பாராளுமன்ற தேர்தலும் ஒன்றிணைந்து செயல்பட வேண்டும் என்ற அறிவிப்பை அரசாங்கம் விடுத்திருக்கின்றது.
+
+இது பெரும்பாலும் பேசப்படுகின்ற விடயமாக இருந்தாலும் இதிலே நன்மையும் இருக்கின்றது தீமையும் இருக்கின்றது என மலையக மக்கள் முன்னணியின் தலைவரும் நாடாளுமன்ற உறுப்பினருமான வே. இராதாகிருஷ்ணன் தெரிவித்துள்ளார்.
+
+இன்றைய தினம் யாழ்ப்பாணத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு குறிப்பிட்டுள்ளார். அங்கு அவர் மேலும் தெரிவிக்கையில்,
+
+இந்த நாட்டிலே பொருளாதாரப் பிரச்சினை ஏற்பட்டதன் காரணமாக இரண்டு தேர்தலுக்கு செலவழிக்கின்ற செலவை ஒரே தேர்தலில் வைக்கின்ற நடவடிக்கை எடுக்க முடியும்  அந்த வகையிலே இந்த தேர்தல் இரண்டையும் ஒன்றாக வைத்தால் செலவை குறைக்க முடியும் என்ற நம்பிக்கை இருக்கின்றது.
+
+...
+
+[Data](articles/a65ad3b9.json)
+
+---
+
+### Lorry - three -wheeler accident
+
+*2024-04-04 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/180449) · `ta`
+
+In Kurundu Oya, Kandapalai, two were injured in a three-wheeler collision with a lorry. Both were admitted to Nuwara Eliya District General Hospital.
+
+🟩
+
+Two persons were injured in an accident on Thursday (04) in the Kurundu Oya area of the Kandapalai and Hyborust Police Division, Hyborist police said.
+
+Police said the accident occurred when a three -wheeler collided with a three -wheeler in the opposite direction.
+
+A man who was traveling in a three -wheeler and a lorry was injured and admitted to the Nuwara Eliya District General Hospital.
+
+◼️
+
+[Data](articles/f6033e25.json)
+
+[Extended Data](ext_articles/f6033e25.ext.json)
+
+---
+
+### Kayts of Kayts
+
+*2024-04-04 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180450) · `ta`
+
+In Kayts, a violent gang attacked the town, sparked by a conflict between high-quality students and a man. The gang was handed over to the police.
+
+🟩
+
+Yall. The people of the town have been caught by a violent gang that went to carry out an attack today in Kayts - Melinjimunima.
+
+In 2012, high -quality students who were educated at a school were working as a group of WhatsApp Social Media.
+
+In this case, there was a conflict between the two. In this case, another person has summoned a violent gang from outside the town to attack a man involved in the conflict.
+
+While the armed gang, which was armed with the armed gang, all the people in the town had been gathered and handed over the gang to the Kayts police.
+
+◼️
+
+[Data](articles/90d14a32.json)
+
+[Extended Data](ext_articles/90d14a32.ext.json)
 
 ---
 
@@ -99,6 +275,22 @@ President's Counsel Upul Kumarapperuma, who was presented to the wisher of the d
 [Data](articles/c5ec7d40.json)
 
 [Extended Data](ext_articles/c5ec7d40.ext.json)
+
+---
+
+### Kamindu among ICC contenders for March Player of the Month awards
+
+*2024-04-04 17:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kamindu-among-ICC-contenders-for-March-Player-of-the-Month-awards/108-280192) · `en`
+
+Apr. 4 (ICC) - The International Cricket Council (ICC) today revealed the shortlist of candidates in contention to scoop the ICC Men’s and Women’s Player of the Month awards for performances in March.
+
+The ICC Player of the Month awards highlight the outstanding individual performers on the international cricket stage, and the names shortlisted for March spans a range of formats.
+
+The ICC Men’s Player of the Month shortlist includes a key architect in Ireland’s first ever men’s Test victory, a prolific frontline bowler from New Zealand, and a record-breaking Sri Lankan Test run-scorer.
+
+...
+
+[Data](articles/660fa0b2.json)
 
 ---
 
@@ -1124,23 +1316,29 @@ According to a petition filed by former President Chandrika Kumaratunga, Colombo
 
 ---
 
-### මෑත කාලයේ වැඩිම මත්ක‍රල් තොගය කළුතරින් අල්ලයි
+### Most recently alcohol arrested in Kalutara
 
 *2024-04-04 14:06:27* · [`adalk`](https://www.ada.lk/breaking_news/මෑත-කාලයේ-වැඩිම-මත්ක‍රල්-තොගය-කළුතරින්-අල්ලයි/11-408950) · `si`
 
-ඉන්දියාවේ සිට මෙරටට ගෙන්වා මහා පරිමාණයෙන් සිදුකරන මත්කරල් ජාවාරමකට සම්බන්ධ පුද්ගලයකු මත්කරල් හැත්තෑ හයදහස් නවසිය අසූවක් සහ කේරල ගංජා කිලෝවක් සමග අද (04) අත්අඩංගුවට ගත්බව කළුතර අපරාධ කොට්ඨාශය පවසයි .
+In Kalutara, a person involved in a large number of alcohol arrests has been caught. The suspect, a 38-year-old resident of Panadura, was arrested on a tip-off. The police found 1500 units of alcohol and identified the suspect as a drug dealer for the mentally ill. The high-ranking suspect is awaiting trial before the Kalutara Magistrate.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ පානදුර , හිරණ  ප්‍රදේශයේ පදිංචි 38 හැව්රිදි  පුද්ගලයකු බව පොලිසිය කීය.
+🟩
 
-ලද තොරතුරක් මත කළුතර නගර මධ්‍යයේ දී සැකකරු පරීක්ෂා කොට බහා තිබූ මත්කරල් 1500  ක් සහ කේරල ගංජා කිලෝවක් සොයාගෙන සැකකරුගේ නිවස පරීක්ෂා කිරීමේදී ඉතිරි මත්කරල් තොගය සොයා ගෙන අත්අඩංගුවට ගෙන තිබේ .
+The Kalutara Crimes Division (CRC) says that a person involved in a large number of alcohol has been arrested by a large number of alcohol has been arrested in India.
 
-භාරයට ගෙන ඇති මත්කරල් මානසික රෝගීන්ට ලබාදෙන ඖෂධයක් බවට හදුනාගෙන ඇති බවත් , පාසල් ළමුන් සහ උපකාරක පංති සිසුන් ඒවා මිළදී ගැනීමට වැඩි රුචිකත්වයක් දක්වන බවද පොලිසිය විසින් හදුනාගෙන තිබේ.
+The suspect was arrested a 38 shadow resident of Panadura, Panadura.
 
-යුක්තිය මෙහෙයුමට සමගාමීව වැටලීම සිදුකර ඇති බවත්, මෑත කාලයේ අත්අඩංගුවට ගෙන ඇති වැඩිම මත්කරල් තොගය මෙය බවත් බැටලීමට එක් වූ උසස් නිලධාරියෙක් පැවසීය. සැකකරු කළුතර මහේස්ත්‍රාත් අධ්කරණයට ඉදිරිපත් කිරීමට නියමිතව තිබූණි .
+The remaining alcohol has been recovered by the other 1500 alcohol and cooked the suspect in Kalutara on a tip off in Kalutara.
+
+The police have identified that alleged drugs have been identified as a drug that is provided to mentally ill.
+
+A high-ranking allegedly arrested for the operation of justice is the highest number of drugs that have been arrested recently. The suspect was to be presented to the Kalutara Magistrate.
 
 ◼️
 
 [Data](articles/a15de3b3.json)
+
+[Extended Data](ext_articles/a15de3b3.ext.json)
 
 ---
 
@@ -1818,6 +2016,8 @@ The majority of the JVP membership hailed from Sinhala Buddhist rural background
 
 [Data](articles/1665697c.json)
 
+[Extended Data](ext_articles/1665697c.ext.json)
+
 ---
 
 ### Parliamentary committee looks into preventing illegal fishing activities off northern Sri Lanka
@@ -2081,225 +2281,5 @@ The Road Development Authority has paid bills of 361 billion rupees and that all
 [Data](articles/b06e5409.json)
 
 [Extended Data](ext_articles/b06e5409.ext.json)
-
----
-
-### 21 year old youth missing over four months
-
-*2024-04-04 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195283) · `si`
-
-A 21-year-old youth has been missing for four months from Hatton, Sri Lanka. The father reported his disappearance on December 15th, stating he left for trading. The Hatton Police are investigating and have requested the public to contact them for any information.
-
-🟩
-
-The Hatton Police have received a complaint that a 21-year-old youth has disappeared for four-year-old girl from the Hatton bus stand.
-
-Heading strategies, which sells small food and small food, and the eldest son, which is the eldest son. The father had complained to the police that Mahmud had reportedly disappeared since December 13.
-
-The young man had left the house, saying that the trading was going to help, and the father had lodged a complaint with the police on 15th December.
-
-The father says that no information about his child has not received any information about his child in addition to the disappearance of his son.
-
-When inquired from Hatton Police Chief Inspector Ranjith Jayasena, he said that the police are conducting further investigations into the missing youth.
-
-...
-
-[Data](articles/848fc7e2.json)
-
-[Extended Data](ext_articles/848fc7e2.ext.json)
-
----
-
-### The court declared the verdict in the preacher's case
-
-*2024-04-04 11:15:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதகரின்-வழக்கில்-தீர்ப்பை-அறிவித்தது-நீதிமன்றம்/175-335601) · `ta`
-
-The Colombo Fort Magistrate's Court temporarily lifted the travel ban on Pastor Jerome Fernando, who was arrested for slanderous comments on religions. The court granted bail, allowing Fernando to travel.
-
-🟩
-
-The Colombo Fort Magistrate's Court has temporarily lifted the travel ban on controversial pastor Jerome Fernando.
-
-Pastor Fernando was arrested in December 2023 on charges of slanderous comments on Buddhism, Islam and Hinduism in front of the House in May last year.
-
-The court, following the need to go to many countries, temporarily lifted the travel ban, under bail conditions, considering the request.
-
-◼️
-
-[Data](articles/15ee6c48.json)
-
-[Extended Data](ext_articles/15ee6c48.ext.json)
-
----
-
-### Immediate investigation into unregistered doctors and medical centres
-
-*2024-04-04 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98414/immediate-investigation-into-unregistered-doctors-and-medical-centres) · `en`
-
-The Ministry of Health has decided to launch an immediate investigation in search of the fake doctors and illegal medical centres operative in the country. This decision has been taken after taking into account the complaints received regarding the matter.
-
-It is mandatory for all doctors to register themselves with the Sri Lanka Medical Council (SLMC), while the private medical institutions are required to be registered at the provincial level.
-
-However, the Ministry of Health stated that complaints have been received regarding a number of unregistered doctors and medical centres being operated across the island.
-
-Accordingly, the Director General of Health Services has instructed all provincial and district level authorities to initiate an immediate investigation into the matter, and to take strict legal action against all unregistered doctors and private medical institutions.
-
-...
-
-[Data](articles/83cd4cfa.json)
-
-[Extended Data](ext_articles/83cd4cfa.ext.json)
-
----
-
-### Troops captured by a hunter
-
-*2024-04-04 11:11:13* · [`adalk`](https://www.ada.lk/breaking_news/දඩයම්කරුවෙකු--අටවා-තිබු--මන්දකට-හසු-වි-තවත්-කදුකර-කොටියෙකු-ජිවිතක්ෂයට/11-408942) · `si`
-
-Nallathanner officials found a deceased body in a tea estate. Wildlife officials claim it was moved by tigers from the Racuad Estate. The body was taken to Wayi Paradhariya, then to Hatton Magistrate's post, where it was identified as a tiger. The tiger was 4-5 years old and had been educated to hunt wild boar and remove pests from the tea estate.
-
-🟩
-
-The Nallathanner officials said that a body of the deceased was found in the tea estate was a body of the deceased town and was found in the tea estate.
-
-The Wildlife officials said that the Kiwaraya was moved by the Tigers of the Racuad Estate in the Racuad Estate in the Racuud Estate owned police divisions.
-
-Nallathangenial office officials said that the body was taken to the Wayi Paradhariya, which was brought to the Hatton Magistrate's post and submitted the body of the tiger body of the tiger.
-
-The post mortem examination was said to have died due to the death of the deceased and the age of 4-5 years old.
-
-The organization was identified by the organization that the Tiger was educated and a tiger was instrumental in the tea estate and was instrumental in the tea estate.
-
-The estaters have been educated in the Wiloses and Estate Workers who have been educated by the plantation workers to hunt the wild boar and remove the saves of the tea estate.Said.
-
-◼️
-
-[Data](articles/61483e09.json)
-
-[Extended Data](ext_articles/61483e09.ext.json)
-
----
-
-### Recovery of cannabis in Vavuniya with millions of cash
-
-*2024-04-04 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180387) · `ta`
-
-In Vavuniya, police recovered 9kg cannabis and 1.95M rupees, arresting three men, including a 27-year-old from Nedungeni. The case, led by Police Inspector Rishvi, will be presented to the Magistrate's Court after investigation.
-
-🟩
-
-In Vavuniya, the cannabis has been recovered and the three have been arrested.
-
-Based on the confidential information received by the Vavuniya Special Criminal Investigation Police, the police have recovered nine kilograms of cannabis and nineteen hundred and fifty thousand rupees.
-
-In addition, a 27 -year -old man from Nedungeni, Vavuniya, who was traveling in the car, has been arrested as a 25 -year -old man from Otisuttan and a 34 -year -old man from Vavuniya.
-
-It is also worth noting that the arrest of a team led by Police Inspector Rishvi, the police officer in charge of the Vavuniya Crime Branch, will be brought before the Magistrate's Court after completing the investigation.
-
-◼️
-
-[Data](articles/825eddf7.json)
-
-[Extended Data](ext_articles/825eddf7.ext.json)
-
----
-
-### Defence Ministry declares month-long general amnesty for Tri Forces absentees
-
-*2024-04-04 11:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Defence-Ministry-declares-month-long-general-amnesty-for-Tri-Forces-absentees/108-280170) · `en`
-
-Colombo, April 4 (Daily Mirror) - The Ministry of Defence has declared a month-long General Amnesty from 20 April to 20 May (2024) to Tri-Forces absentees, enabling them to receive an official discharge from their respective services.
-
-Accordingly, Tri-Forces absentees will be able to receive their discharge from military service and any financial obligations or amount due should be settled prior to their discharge.
-
-The Ministry said that the general amnesty is applicable to absentees who have been Absent without Official Leave (AWOL) prior to 02 April 2024.
-
-Absentees who are presently abroad can also obtain discharge without reporting to their respective regiments conforming to following requirements:
-
-Those seeking discharge should have no pending disciplinary actions taken against them apart from that of being AWOL.
-
-...
-
-[Data](articles/d137e5ed.json)
-
-[Extended Data](ext_articles/d137e5ed.ext.json)
-
----
-
-### Sri Lanka Human Rights Commission invitation to Tellippalai Police Station
-
-*2024-04-04 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180392) · `ta`
-
-The Jaffna Office of the Sri Lanka Human Rights Commission has summoned the Jaffna Human Rights Commission and Tellippalai Union College students and teachers to appear tomorrow at 2.30 pm.
-
-🟩
-
-Yall. The Jaffna Office of the Human Rights Commission of Sri Lanka has been summoned by the Jaffna Human Rights Commission of Sri Lanka to appear at the Jaffna Office of the Human Rights Commission of Sri Lanka.
-
-The invitation has been sent to appear tomorrow at 2.30 pm on Friday.
-
-Tellippalai Union College students and teachers have been summoned by the Jaffna Human Rights Commission of Sri Lanka to appear at the Jaffna Human Rights Commission's Jaffna Office of the Human Rights Commission of Sri Lanka.
-
-◼️
-
-[Data](articles/9973c477.json)
-
-[Extended Data](ext_articles/9973c477.ext.json)
-
----
-
-### Failed to dissolve parliament
-
-*2024-04-04 11:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தைக்-கலைக்கும்-முயற்சி-தோல்வி/175-335599) · `ta`
-
-Attempt to dissolve parliament failed due to lack of MPs. Rajapaksa demanded early general election, but most MPs not ready. Election Commission to announce presidential election in July/August, general election in 2025.
-
-🟩
-
-113 MP. An unnamed parliamentarian said that some MPs's attempt to dissolve the resolution and dissolve parliament was failed, as the number of people could not be collected.
-
-Earlier, during a meeting with President Ranil Wickremesinghe, President of the Sri Lanka PA, Basil Rajapaksa, during a meeting with President Ranil Wickremesinghe, demanded that the parliament be dissolved and declared a general election ahead of the constitutional presidential presidential election in October this year.
-
-Later, Daily Mirror reported exclusively that the president would not go to the parliamentary election before the presidential election. Against this backdrop, some MPs, loyal to Rajapakse, passed a resolution in Parliament, urged them to dissolve and go to the general election.
-
-However, the attempt has failed because most parliamentarians are not prepared for the general election in advance.
-
-...
-
-[Data](articles/c7c4efa0.json)
-
-[Extended Data](ext_articles/c7c4efa0.ext.json)
-
----
-
-### Why is the Super Indian Player player playing?
-
-*2024-04-04 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195282) · `si`
-
-Harcick Pandya, Mumbai Indians' captain, was removed by Rohith Sharma, leading to controversy. Despite initial backlash, Pandya rejoined for the 2024 IPL, sparking debate on Mumbai Indians' decision.
-
-🟩
-
-The world's richest Franchise Cricket Tournament in the Indian Premier League. The 2024 tournament will be held.
-
-The best event is happening. It is objection to Harcick Pandya, who is the leader of the Mumbai Indians.
-
-The mumbai Indians played in the Mumbai Indians from 2022 and 2023 and 2023 and 2023.
-
-But he again joined the Mumbai Indians again for the 2024 tournament.
-
-He was the captain of Mumbai Indians. He was removed from Rohitha Sharma. The Hehith Sharma is also the leader of Indian 20/20, ODI and Test teams.
-
-But that decision does not appear that Mumbai Indians acted well. They make their angry by throwing away from the hosting of Pandar.
-
-Mumbai Indians participated in Ahmedabad, Hyderabad and Mumbai. Pandya did not receive a salvage from the lovers of sports.
-
-But Ravichandran, who is the act of Indian team, says that the sports lackin has overcome their limits and raised an unnecessary problem.
-
-◼️
-
-[Data](articles/380afd03.json)
-
-[Extended Data](ext_articles/380afd03.ext.json)
 
 ---

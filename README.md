@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 20:33:34**
+As of **2024-04-04 20:50:51**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 2,779
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,177 (100.0%) of 17,178 articles have been extended.
+17,178 (100.0%) of 17,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### ජනපති මැණික් කුලුන විවෘත කරයි
+### President opens Gem Tower
 
 *2024-04-04 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195311) · `si`
 
-ශක්තිමත් ආර්ථිකයක් සමග විශ්වාසයෙන් යුතුව ඉදිරියට යා හැකි පරිසරයක් අද රට තුළ නිර්මාණය වී ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe inaugurated the International Gem and Jewelery Trade Center in Ratnapura, highlighting its local design and the facility's role in promoting safe and systematic gem trading.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ, රත්නපුරයේ ස්ථාපිත ජාත්‍යන්තර මැණික් හා ස්වර්ණාභරණ වෙළෙඳ මධ්‍යස්ථානය විවෘත කිරීමේ උත්සවයේදීය.
+🟩
 
-රත්නපුර, දෙමුවාවත ඉදිකළ ජාත්‍යන්තර මැණික් හා ස්වර්ණාභරණ වෙළෙඳ මධ්‍යස්ථානය එනම් රත්නපුර මැණික් කුලුන අද ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් විවෘත කෙරුණි.
+President Ranil Wickremesinghe says that it is designed in the country today, according to President Ranil Wickremesinghe.
 
-එහි පළමු අදියර යටතේ රුපියල් ලක්ෂ 3,650ක වියදමකින් ඉදිකළ පස් මහල් ගොඩනැඟිල්ල ව්‍යාපාරික ස්ථාන 27කින් සමන්විතය.
+The President made this observation at the opening of the International Gem and Jewelery Trade Center in Ratnapura.
 
-මින් මැණික් අලෙවිකරුවන්ට සහ ගැණුම්කරුවන්ට ජාත්‍යන්තර මැණික් වෙළෙඳාම් කටයුතුද එකම වහලක් යට ක්‍රමවත්ව හා ආරක්ෂිතව සිදුකිරීමට ඉඩ සැලසෙයි.
+The International Gem and Jewelery Trade Center, Dhammapura, Ratnapura, was declared open by President Ranil Wickremesinghe today.
 
-මෙම මධ්‍යස්ථානය ආසියාවේ මැණික් හා ස්වර්ණාභරණ අලෙවිය සඳහා ප්‍රමුඛතම විකුණුම් මධ්‍යස්ථාන වන බැංකොක් හා හොංකොං හී මෙන් ස්වාධීන තත්ත්ව පරීක්ෂණ සේවා, රසායනාගාර සේවා සහ බැංකු මෙන්ම අපනයන සේවාද සපයනු ලබයි.
+The five-storey building constructed at a cost of Rs.
 
-...
+The gem dealers and buyers will be allowed to perform systematically and safely under the same roof.
+
+The center is independent of independent quality inspection services, laboratory, laboratory services, laboratory services and banks, as leading sales centers in Asia's Gem and Jewelery.
+
+"Three--iel musted all the time. There is plenty of fuel today. There are lady passengers. Now there is no problem. Having been stored in the three-wheeler.. A poster can be pasted to win the national propaganda. "
+
+◼️
 
 [Data](articles/07d012df.json)
+
+[Extended Data](ext_articles/07d012df.ext.json)
 
 ---
 

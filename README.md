@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 21:18:10**
+As of **2024-04-04 21:33:42**
 
 ## Newspaper Stats
 
-*Scraped **17,201** Articles*
+*Scraped **17,204** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
 economynextcom | 957
-adalk | 1,454
+adalk | 1,455
 tamilmirrorlk | 2,034
 adaderanalk | 2,063
 virakesarilk | 2,498
-dailymirrorlk | 2,640
+dailymirrorlk | 2,642
 adaderanasinhalalk | 2,781
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,186 (99.9%) of 17,201 articles have been extended.
+17,198 (100.0%) of 17,204 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### School student dies after concrete bay collapse in Maskeliya
+
+*2024-04-04 21:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/School-student-dies-after-concrete-bay-collapse-in-Maskeliya/108-280199) · `en`
+
+Colombo, April 04 - Tragedy struck when a concrete bay collapsed killing a pupil of the Gartmore Tamil High School in Maskeliya today.
+
+Maskeliya police reported that 11-year-old S. Anishan, a sixth-year student at the school and a resident of Maskeliya, succumbed to his injuries after being rushed to the hospital.
+
+According to authorities, the concrete bay collapsed as part of a tea garden development project being undertaken in the school grounds. The mishap occurred during school hours.
+
+◼️
+
+[Data](articles/9c40e537.json)
+
+---
 
 ### 68 suspects arrested over torching of Sanath Nishantha’s house released
 
@@ -45,6 +61,20 @@ He further stated that the court decided to release all the suspects of the case
 ◼️
 
 [Data](articles/933f79bc.json)
+
+[Extended Data](ext_articles/933f79bc.ext.json)
+
+---
+
+### Protest for promised jobs...
+
+*2024-04-04 20:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protest-for-promised-jobs/110-280196) · `en`
+
+The Joint Centre for Unemployed Graduates staged a protest outside the Fort Railway Station today urging the authorities to provide them with jobs that were promised earlier. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/2799f89d.json)
 
 ---
 
@@ -195,6 +225,26 @@ The center is independent of independent quality inspection services, laboratory
 [Data](articles/07d012df.json)
 
 [Extended Data](ext_articles/07d012df.ext.json)
+
+---
+
+### අපි තවත් ඒදණ්ඩ මතයි වැටෙනවද? නැත්ද? කියා තීරණය කරන්න
+
+*2024-04-04 19:58:15* · [`adalk`](https://www.ada.lk/breaking_news/අපි-තවත්-ඒදණ්ඩ-මතයි-වැටෙනවද--නැත්ද--කියා-තීරණය-කරන්න/11-408958) · `si`
+
+ශක්තිමත් ආර්ථිකයක් සමඟ විශ්වාසයෙන් යුතුව ඉදිරියට යා හැකි පරිසරයක් අද රට තුළ නිර්මාණය වෙලා
+
+ජාතික ආර්ථිකයට ඉහළ දායකත්වයක් ලබා ගැනීමට කටයුතු කරනවා – ජනපති.
+
+පසුගිය වසර දෙක තුළ රජය ගත් නිවැරදි තීන්දු තීරණ හේතුවෙන් මේ වන විට රටේ ආර්ථිකය ශක්තිමත් වී තිබෙන බවත්, අද ඕනෑම අයෙකුට මහමග බැස දේශපාලනය කිරීමට අවස්ථාව ලැබී ඇත්තේ රජය රට තුළ නිර්මාණය කළ එම සහනදායි පසුබිම නිසා බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+එහෙත් තවමත් රටේ ආර්ථිකය පවතින්නේ ඒදණ්ඩක් මත බව පෙන්වා දුන් ජනාධිපතිවරයා රජයේ වැඩපිළිවෙළ සමඟ ජයග්‍රහණය තෙක් ඉදිරියට යනවාද, නැත්නම් එම වැඩපිළිවෙළෙන් ඉවත්ව රට නැවත ප්‍රපාතයට ඇද දමනවාද යන්න ජනතාව තීරණය කළ යුතු බවද සඳහන් කළේය.
+
+2022 වසර හා සැසඳීමේදී 2023 වසරේ රජයේ ආදායම 50%කට වඩා ඉහළ නංවා ගැනීමට හැකිවී තිබෙන බවත්, ඒ සමගම ජනතාවට ද ප්‍රතිලාභ රැසක් ලබා දී තිබෙන බවත් සිහිපත් කළ ජනාධිපතිවරයා ශක්තිමත් ආර්ථිකයක් සමඟ විශ්වාසයෙන් යුතුව ඉදිරියට යා හැකි පසුබිමක් රට තුළ නිර්මාණය වී තිබෙන බවද පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/474961b6.json)
 
 ---
 
@@ -512,6 +562,8 @@ The verdict was issued following a petition filed by former President Kumaratung
 
 [Data](articles/3bee2c31.json)
 
+[Extended Data](ext_articles/3bee2c31.ext.json)
+
 ---
 
 ### President ensures uninterrupted public services for Sinhala & Tamil New Year
@@ -549,6 +601,8 @@ Later SLPP legislator, State Minister Sanath Nishantha (48 years) was killed in 
 ...
 
 [Data](articles/ddbf9fb4.json)
+
+[Extended Data](ext_articles/ddbf9fb4.ext.json)
 
 ---
 
@@ -698,21 +752,31 @@ b. Should have clearance from the Department of Immigration and Emigration confi
 
 [Data](articles/aeb512e5.json)
 
+[Extended Data](ext_articles/aeb512e5.ext.json)
+
 ---
 
-### அத்தியாவசிய உணவுப்பொருட்கள் விற்பனையில் 100-1000 வரை வியாபாரிகள் இலாபமீட்டுகிறார்கள் : வழிவகைகள் பற்றி குழு
+### Merchants profit up to 100-1000 in the sale of essential foods: Group about the ways
 
 *2024-04-04 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180445) · `ta`
 
-இறக்குமதி செய்யப்பட்ட அத்தியாவசிய உணவுப் பொருட்கள் சந்தை விலையின் அடிப்படையில் விற்பனை செய்யும்போது வியாபாரிகள் கிலோவொன்றுக்கு 100-1000 ரூபா வரையில் இலாபம் ஈட்டுவது வழிவகைகள் பற்றிய குழுவில் தெரியவந்தது.
+Merchants profit 100-1000 rupees per kg on essential food imports. From 2018-2023, importers must report to the government. The issue was discussed in Parliament, revealing a lack of tax revenue on imported goods and inadequate special commodity tax on food items. The government plans to intervene, including direct consumer importation and public awareness campaigns.
 
-2018 முதல் 2023ஆம் ஆண்டு வரையான காலப்பகுதியில் இறக்குமதியாளர்களினால் சட்டத்துக்கு அமைய வரியை அறவிடுவதற்கு  மற்றும் அவற்றின் முன்னேற்றத்தை இம்மாத இறுதியில் குழுவுக்கு அறிக்கையிடுமாறும் பரிந்துரைக்கப்பட்டது.
+🟩
 
-வழிவகைகள் பற்றிய குழு அதன் தலைவர் பாராளுமன்ற உறுப்பினர்  பாட்டலி சம்பிக்க ரவணக்க தலைமையில் அண்மையில்  பாராளுமன்றத்தில் கூடியபோதே இவ்விடயம் தெரியவந்தது.
+When imported essential food products are sold in terms of market prices, it is revealed in the group of merchants to make a profit of up to 100-1000 rupees per kg.
+
+From 2018 to 2023, it was recommended that importers collect the law and report their progress to the end of this month.
+
+The issue was revealed when the group on the guidance was recently convened in Parliament under the leadership of its chairman Patali Champika Ravanaka.
+
+The difference between the market prices and imported prices of essential food products has been discussed and the Department of Central Bank, Business and Investment Policy, Sri Lanka Customs, Export Import, Department of Customs, Exports and Statistics Department, Hector Consumer Affairs Affairs, Hector Consumer Affairs AuthorityOfficers were invited to discuss.
 
 ...
 
 [Data](articles/69eec98d.json)
+
+[Extended Data](ext_articles/69eec98d.ext.json)
 
 ---
 
@@ -829,6 +893,8 @@ A bond maturing on 01.07.2032 closed at 12.60/75 percent from 12.55/80 percent. 
 ◼️
 
 [Data](articles/f950b6d2.json)
+
+[Extended Data](ext_articles/f950b6d2.ext.json)
 
 ---
 
@@ -1027,6 +1093,8 @@ Other contributors to the Index included and National Development Bank Plc, up a
 ◼️
 
 [Data](articles/c559cc10.json)
+
+[Extended Data](ext_articles/c559cc10.ext.json)
 
 ---
 
@@ -1620,6 +1688,8 @@ Thondaman said that after he took responsibility as Minister for the water secto
 
 [Data](articles/d7c6c198.json)
 
+[Extended Data](ext_articles/d7c6c198.ext.json)
+
 ---
 
 ### SC decides to hear FR petition against policemen involved in Narammala shooting
@@ -1728,6 +1798,8 @@ Siyambalapitiya told reporters that the country’s rapidly recovering tourism i
 
 [Data](articles/a3c78a19.json)
 
+[Extended Data](ext_articles/a3c78a19.ext.json)
+
 ---
 
 ### South Korea to provide employment for Sri Lankans, including in seasonal work
@@ -1747,6 +1819,8 @@ South Korea’s Seasonal Worker Program (SWP) allows legal hiring of foreign wor
 ...
 
 [Data](articles/f945acd3.json)
+
+[Extended Data](ext_articles/f945acd3.ext.json)
 
 ---
 
@@ -2219,67 +2293,5 @@ Famous actress Tamitha Abeyratne, accused of engaging in money laundering for al
 [Data](articles/41884982.json)
 
 [Extended Data](ext_articles/41884982.ext.json)
-
----
-
-### Earthquake of 6 magnitude strikes off east coast of Japan
-
-*2024-04-04 13:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98419/earthquake-of-6-magnitude-strikes-off-east-coast-of-japan) · `en`
-
-An earthquake of magnitude 6 struck off the east coast of Honshu, Japan on Thursday (April 4), the European-Mediterranean Seismological Centre said.
-
-No immediate reports of damage or injuries after the earthquake were reported, the epicentre had a depth of 40 kilometres (25 miles) and was also felt in Tokyo.
-
-It comes a day after at least nine people were killed and more than 1,000 injured by a powerful earthquake in Taiwan. The most massive earthquake to have shaken Taiwan in 25 years on Wednesday (April 3).
-
-Two Indian nationals were reported to be missing by various Indian media outlets.
-
-Also Read: Scary and fearful: Indian national recounts horror of Taiwan quake as deadly tremor strikes eastern coast
-
-As per Indian media reports, a search operation was underway to find the missing Indians. Several thousand Indians, which includes 3,000 students, have been living in Taiwan.
-
-◼️
-
-[Data](articles/1f08a35c.json)
-
-[Extended Data](ext_articles/1f08a35c.ext.json)
-
----
-
-### President instructs to continue services during the festive year
-
-*2024-04-04 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195287) · `si`
-
-The President has ordered continued services during the festive year, ensuring no shortcomings in the upcoming holiday season, with instructions to government officials and ministries.
-
-🟩
-
-The President has instructed the people to take necessary necessary steps to be carried out in the country without any shortcomings in the coming year holiday.
-
-The President has instructed the relevant government officials and ministries.
-
-◼️
-
-[Data](articles/91521314.json)
-
-[Extended Data](ext_articles/91521314.ext.json)
-
----
-
-### Any deviation from Sri Lanka’s reform programme could jeopardise stability: minister
-
-*2024-04-04 12:54:00* · [`economynextcom`](https://economynext.com/any-deviation-from-sri-lankas-reform-programme-could-jeopardise-stability-minister-157516/) · `en`
-
-ECONOMYNEXT — Any deviation from Sri Lanka’s ongoing reform programme, even a minor one, could pose a severe risk to the stability of the country, Minister Bandula Gunawardena said.
-
-“An important point to highlight is that any deviation, even by a minor fraction, from the on-going government programme under the leadership of President Ranil Wickremesinghe aimed at national development could pose a severe risk, potentially jeopardizing the country’s future prospects,” the Minister of Transport, Highways and Mass Media said speaking to reporters on Wednesday April 03.
-
-According to the World Bank, Sri Lanka’s economy has stabilised though poverty remains, underlining the need to maintain stability and continue on the reform path.
-
-The World Bank’s April 2024 Sri Lanka Development Update projected 2024 growth at 2.2 percent up from 1.7 percent projected last year and 2.5 percent for 2025.
-
-...
-
-[Data](articles/05de58f6.json)
 
 ---

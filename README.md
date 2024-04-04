@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 02:49:40**
+As of **2024-04-05 03:03:33**
 
 ## Newspaper Stats
 
-*Scraped **17,227** Articles*
+*Scraped **17,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,68 +19,120 @@ adalk | 1,456
 tamilmirrorlk | 2,039
 adaderanalk | 2,065
 virakesarilk | 2,511
-dailymirrorlk | 2,642
+dailymirrorlk | 2,644
 adaderanasinhalalk | 2,783
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,224 (100.0%) of 17,227 articles have been extended.
+17,227 (100.0%) of 17,229 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### இரண்டு உயிர்களை பலியெடுத்த இணுவில் புகையிரதக் கடவைக்கு சமிக்ஞை விளக்கு!
+### A face-off that promises a surprise ending - EDITORIAL
 
-*2024-04-05 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180473) · `ta`
+*2024-04-05 02:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/A-face-off-that-promises-a-surprise-ending-EDITORIAL/172-280214) · `en`
 
-இரண்டு உயிர்களை பலியெடுத்த இணுவில் புகையிரதக் கடவைக்கு அமைச்சர் டக்ளஸ் தேவானந்தாவின் முயற்சியில் சுமார் 80 இலட்சம் ரூபாய் செலவில் சமிக்ஞை விளக்கு மற்றும் பாதுகாப்பு கதவு ஆகியன பொருத்தப்பட்டு, வியாழக்கிழமை (05) அதன் செயற்பாடுகள் ஆரம்பித்து வைக்கப்பட்டுள்ளன.
+Opposition Leader Sajith Premadasa and his camp received a positive response from the National People’s Power (NPP) for a debate on the country’s economy. It’s a bit strange for the NPP to have agreed to a face-off with Premadasa because the JVP-led alliance prefers staging debates in an environment where experts speak on topics where analysis, statistics, reasoning and logic shape the direction of the ‘conversation’.
 
-கடந்த பெப்ரவரி மாதம் 14 ஆம் திகதி, வேனில் பயணித்துக் கொண்டிருந்த இளம் குடும்பத்தினர், இணுவில் பகுதியில் அமைந்திருந்த குறித்த பாதுகாப்பற்ற ரயில் கடவையைக் கடக்க முற்பட்ட போது ரயிலிலுடன் மோதுண்டனர்.  இதனால் இளம் குடும்பத் தலைவரும் சில மாதங்களேயான பச்சிளம் குழந்தையும் ஸ்தலத்திலேயே பரிதாபகரமாக உயிரிழந்தனர். குழந்தையின் தாய் ஆபத்தான நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றார்.
+We all know that ‘conversation’ might not be the most appropriate word to use in the context of a debate. Debates where Sri Lankan lawmakers feature in are hostile and very seldom do parties at loggerheads accept shortcomings and agree on a compromise. But this time around things might be different, according to reports reaching us from reliable sources.
 
 ...
 
-[Data](articles/b9de0e1f.json)
+[Data](articles/328cdf37.json)
 
 ---
 
-### தேசிய எண்ணெய் தேய்த்தல் விழா ஏப்ரல் 15 ஆம் திகதி வத்தளை ஹெந்தல புராண ரஜமஹா விகாரையில் - இராஜாங்க அமைச்சர் சிசிர ஜயகொடி
+### Signal lamp for the railway crossing of the two lives
+
+*2024-04-05 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180473) · `ta`
+
+Minister Douglas Devananda launched a signal lamp at a railway crossing in Uruvil, following a tragic accident that claimed two lives. The temporary solution aims to prevent future accidents.
+
+🟩
+
+In the efforts of Minister Douglas Devananda, a signal lamp and a security door, in the efforts of Minister Douglas Devananda, who sacrificed two lives, its operations were launched on Thursday (05).
+
+On February 14, the young family traveled in a van when they tried to cross the train crossing the Uruvil area.The young family leader and Bachilam child died tragically on the spot. The child's mother is admitted to the hospital in critical condition and is being treated.
+
+Following the accident, Minister Douglas Devananda, who visited the area, immediately implemented a temporary solution to the unprotected railway crossing in the area, and the government had taken steps to implement a permanent solution.
+
+In this backdrop, Minister Douglas Devananda has formally launched the operation of the signal lamp installed by the Railways Department at a cost of Rs 80 lakh.
+
+◼️
+
+[Data](articles/b9de0e1f.json)
+
+[Extended Data](ext_articles/b9de0e1f.ext.json)
+
+---
+
+### National Oil Rubbing Ceremony on April 15
 
 *2024-04-05 02:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180457) · `ta`
 
-தமிழ், சிங்களப் புத்தாண்டுக் கொண்டாட்டங்களின் சுப நிகழ்வுகளில் ஒன்றான தலைக்கு எண்ணெய் தேய்த்தல் தேசிய விழா ஏப்ரல் 15 ஆம் திகதி காலை 10.17 க்கு நடைபெறவுள்ளதாக சுதேச வைத்திய இராஜாங்க அமைச்சர் சிசிர ஜயகொடி தெரிவித்தார்.
+The National Oil Rubbing Ceremony, part of Tamil and Sinhala New Year celebrations, is scheduled for April 15 at 10.17 am. The Ministry of Indigenous Medicine and Ayurvedic Department will also hold the Ayurex 2024 Exhibition from May 3-5, focusing on Ayurvedic goods and centers.
 
-ஜனாதிபதி ஊடக மையத்தில் வியாழக்கிழமை (04) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே சுதேச வைத்திய இராஜாங்க அமைச்சர் சிசிர ஜயகொடி இதனைத் தெரிவித்தார்.
+🟩
 
-புத்தாண்டு கொண்டாட்டங்களின் தனித்துவமான சுப சடங்குகளான எண்ணெய் தேய்த்தல் தேசிய விழாவை ஏப்ரல் 15 ஆம் திகதி காலை 10.17 க்கு வத்தளை ஹெந்தல புராண ரஜமஹா விகாரையில் நடத்த சுதேச வைத்திய அமைச்சு மற்றும் ஆயுர்வேத திணைக்களம் ஏற்பாடு செய்துள்ளது.
+Indigenous Medical Minister Sisira Jayakody said that the National Festival of Oil Rubbing, one of the auspicious events of the Tamil and Sinhala New Year celebrations, will be held on April 15 at 10.17 am.
 
-மேலும், சிங்கள மற்றும் தமிழ் புத்தாண்டு கொண்டாட்டங்களின் கடைசி சுபச் சடங்கு, மரக்கன்றுகள் நடும் நிகழ்வு, ஏப்ரல் 18 ஆம் திகதி நடைபெறும். சுதேச வைத்திய அமைச்சு அந்த நாளை 'முருங்கை தினம்' என்று பெயரிட்டுள்ளது. அன்றைய தினம், அனைத்து மக்களையும் தங்கள் தோட்டத்தில், அதீத சத்துள்ள, அதிக மருத்துவ குணம் கொண்ட முருங்கை செடியை நடுகைச் செய்யுமாறு கேட்டுக்கொள்கிறோம்.
+Indigenous Medical Minister Sisira Jayakody made this statement at a media briefing held at the Presidential Media Center on Thursday (04).
+
+The Ministry of Indigenous Medicine and Ayurvedic Department has organized the National Festival of Oil Rubing, the unique rituals of New Year's celebrations at 10.17 am at the Hendala Purana Rajamaha Viharaya, Wattala.
+
+Also, the last Subhasa ritual of the Sinhala and Tamil New Year celebrations will be held on April 18. The Ministry of Indigenous Medicine has named that tomorrow called 'Murunga Day'. That day, we urge all people to plant all the people in their garden, the most nutritious and more medicinal.
+
+It has also decided to provide drumsticks to the ritual of oil and tree planting for the head.
 
 ...
 
 [Data](articles/d2ebc590.json)
 
+[Extended Data](ext_articles/d2ebc590.ext.json)
+
 ---
 
-### வவுனியாவில் மோட்டார் சைக்கிளை மோதி விபத்து தப்பிச் சென்ற கார்: இருவர் காயம்
+### A car accident in Vavuniya
 
 *2024-04-05 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180472) · `ta`
 
-வவுனியாவில் மோட்டர் சைக்கிளை மோதிவிட்டு கார் ஒன்று தப்பிச் சென்றுள்ளதுடன், குறித்த விபத்தில் இருவர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+A car crashed into a motorcycle in Vavuniya, injuring two, on Thursday evening at Railway Station Road. The car driver fled without stopping. The injured were taken to hospital. The police are searching for a photo taken by witnesses.
 
-குறித்த விபத்தானது வவுனியா, வைரவபுளியங்குளம், புகையிரத நிலைய வீதியில் வியாழக்கிழமை (04) மாலை இடம்பெற்றது.
+🟩
 
-வவுனியா நகரிலிருந்து புகையிரத நிலைய வீதி ஊடாக மோட்டர் சைக்கிள் ஒன்று சென்று கொண்டிருந்த போது பின்னால் வந்த கார் ஒன்று குறித்த மோட்டர் சைக்கிளுடன் மோதி விபத்தை ஏற்படுத்தி விட்டு வாகனத்தை நிறுத்தாது தப்பிச் சென்றுள்ளது.
+A car crashed into a motorcycle in Vavuniya and two men were injured and admitted to hospital.
 
-குறித்த விபத்தில் மோட்டர் சைக்கிளில் பயணித்த தாயும், மகனும் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். சேதமடைந்த மோட்டர் சைக்கிள் பொலிசாரால் எடுத்துச் செல்லப்பட்டதுடன், தப்பிச்  சென்ற காரினை அப் பகுதியில் நின்றவர்கள் எடுத்த புகைப்படம் மற்றும் சிசீரீவி கணொளி உதவியுடன் வவுனியா பொலிசார் தேடி வருகின்றனர்.
+The accident took place on Thursday evening (04) at the Railway Station Road, Vairavapuliyankulam, Vavuniya.
 
-EP CBL 6679 இலக்கமுடைய  என்னும் இலக்கமுடைய காரே விபத்தை ஏற்படுத்தி விட்டு தப்பிச் சென்றிருந்தமை குறிப்பிடத்தக்கது.
+When a motorcycle was riding through the railway station in Vavuniya, a car collided with a motorcycle and escaped without stopping the vehicle.
+
+The mother and son who was riding a motorcycle in the accident were injured and admitted to the hospital. The damaged motorcycle was taken by the police and the Vavuniya police are searching for a photo taken by the people standing up in the area and the help of Sisirivi Ganoli.
+
+It is noteworthy that EP CBL 6679 has escaped from a car accident.
 
 ◼️
 
 [Data](articles/0add92ef.json)
+
+[Extended Data](ext_articles/0add92ef.ext.json)
+
+---
+
+### Attack on Iran: Amid lies and deception, Gaza war may escalate into a regional conflict
+
+*2024-04-05 02:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Attack-on-Iran-Amid-lies-and-deception-Gaza-war-may-escalate-into-a-regional-conflict/172-280213) · `en`
+
+The April 1 attack by Israel on the Iranian consular office in the Syrian capital of Damascus, killing several people including a senior Revolutionary Guard general and diplomats, is a potential trigger for a regional war. Let the entire world suffer and let millions of people die in such a war, which will have a devastating effect on developing countries. Israel will not stop until it conquers the world.
+
+This is not a dark prophecy. Israel is well on the path to achieving its ambitions. With the West, the Arab world, and one-time Non-Aligned Movement stars paying obeisance to Israel, the Zionist state believes it is special and above the law. It believes international human rights laws, the Universal Declaration of Human Rights, and myriad United Nations mechanisms for a rules-based world order are only for nations other than Israel.
+
+...
+
+[Data](articles/85175b80.json)
 
 ---
 
@@ -2301,53 +2353,5 @@ They were arrested while they were leaving the court after filing a motion in co
 [Data](articles/3a2b62a4.json)
 
 [Extended Data](ext_articles/3a2b62a4.ext.json)
-
----
-
-### An employee arrested for accepting a bribe
-
-*2024-04-04 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195291) · `si`
-
-A Public Management Assistant in the Ministry of Health's Transport Division was arrested by the Bribery or Corruption Commission for allegedly accepting a bribe from Galigamuwa Boyagama. The arrest occurred on the main road in front of the Ministry of Health at 1.05 pm yesterday. The suspect will face charges in the Colombo Chief Magistrate's Court.
-
-🟩
-
-A Public Management Assistant has been arrested by the Commission to Investigate Allegations of Bribery or Corruption under accusation of bribery.
-
-The arrested has been arrested a Public Management Assistant in the Transport Division of the Ministry of Health.
-
-The suspect has been arrested following a complaint made by a person from a person named Galigamuwa Boyagama.
-
-The allegation has been charged against him to seek a bribe of Rs.
-
-Bribery or Corruption Commission officials have been arrested by the Commission to Investigation Commission on the main road in front of the Ministry of Health around 1.05 pm yesterday.
-
-The suspect is to be produced before the Colombo Chief Magistrate's Court.
-
-◼️
-
-[Data](articles/31221739.json)
-
-[Extended Data](ext_articles/31221739.ext.json)
-
----
-
-### Vehicles imported for Sri Lanka’s tourism sector will be year-old, taxed: official
-
-*2024-04-04 14:45:00* · [`economynextcom`](https://economynext.com/vehicles-imported-for-sri-lankas-tourism-sector-will-be-year-old-taxed-official-157549/) · `en`
-
-ECONOMYNEXT — The buses and vans that Sri Lanka plans to import for the tourism sector will be a year old, as opposed to brand new vehicles that would cost more, and also subject to tax as usual, State Minister of Finance Ranjith Siyambalapitiya said.
-
-Siyambalapitiya told reporters that the country’s rapidly recovering tourism industry needs to follow the same global standards which don’t allow for vehicles more than six years old.
-
-“In 2020, vehicle imports were stopped due to the foreign exchange crisis in the country, since our biggest forex expenditure was for vehicle imports. But we allowed for some imports under special circumstances from time to time. For example, to meet the needs of the health ministry and other ministries. Now the tourism industry is faced with such an essential need,” he said.
-
-“The vehicles we already have are aging, and they’re also not enough. So the cabinet decided to allow the import of 250 buses and 750 vans specifically for the tourism industry,” he said.
-
-...
-
-[Data](articles/a3c78a19.json)
-
-[Extended Data](ext_articles/a3c78a19.ext.json)
 
 ---

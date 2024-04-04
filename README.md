@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 14:33:57**
+As of **2024-04-04 14:51:11**
 
 ## Newspaper Stats
 
-*Scraped **17,104** Articles*
+*Scraped **17,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
 economynextcom | 944
-adalk | 1,441
-tamilmirrorlk | 2,032
+adalk | 1,443
+tamilmirrorlk | 2,033
 adaderanalk | 2,053
-virakesarilk | 2,477
+virakesarilk | 2,478
 dailymirrorlk | 2,627
 adaderanasinhalalk | 2,759
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 2,759
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,102 (100.0%) of 17,104 articles have been extended.
+17,104 (100.0%) of 17,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### நடிகை தமிதா மற்றும் கணவன்  கைது
+
+*2024-04-04 14:30:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகை-தமிதா-மற்றும்-கணவன்-கைது/175-335610) · `ta`
+
+நடிகை தமிதா அபேரத்ன மற்றும் அவரது கணவர் ஆகியோர் குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+பண மோசடி தொடர்பில் குற்றப் புலனாய்வுப் பிரிவினரால் தேடப்பட்டு வந்த அவர்கள் இருவரும் இன்று (04) பிற்பகல் கோட்டை நீதவான் நீதிமன்றத்துக்கு வந்திருந்தனர்.
+
+◼️
+
+[Data](articles/836a1408.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-04-04 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180425) · `ta`
+
+இன்று வியாழக்கிழமை (ஏப்ரல் 04) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 295.0963 ஆகவும் விற்பனை விலை ரூபா 304.5631 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b9f9fbd6.json)
+
+---
 
 ### IGP Tennakoon summoned before Supreme Court
 
@@ -45,6 +71,24 @@ The summons were issued by a three-member bench presided over by Chief Justice J
 ◼️
 
 [Data](articles/98a67f41.json)
+
+[Extended Data](ext_articles/98a67f41.ext.json)
+
+---
+
+### ගුරුවරුන් 4000කට ගුරු පත්වීම්
+
+*2024-04-04 14:04:07* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුවරුන්-4000කට-ගුරු-පත්වීම්/11-408949) · `si`
+
+උපාධිධාරී ගුරුවරුන් 2320කට පත්වීම් ලබා දීම සඳහා ජනාධිපතිවරයා ඊයේ (03)දා අරලියගහ මන්දිරයේ දී සංකේතාත්මකව එක්වී තිබුණා. එහිදී අදහස් දැක්වූ ජනාධීපතිවරයා
+
+“අද ගුරුවරුන් 2320ක් බඳවා ගැනීමට කටයුතු කර තිබෙනවා. තව 700කට පත්වීම් ලබාදීමට තිබෙනවා. පුරප්පාඩු අනුව තවත් ගුරුවරුන් 1000ක් පමණ බඳවා ගැනීමට සැලසුම් කර තිබෙනවා. ඒ අනුව මෙම වසරේ ගුරු වෘත්තීයට 4000ක් පමණ බඳවාගෙන තිබෙනවා. වසර තුන හතරකින් පසුව තමයි මෙම බඳවා ගැනීම් සිදු කිරීමට හැකියාව ලැබුණේ. කොවිඩ් වසංගතය වගේම ආර්ථික කඩා වැටීම හමුවේ මේ සියලු බඳවා ගැනීම් නැවතී තිබුණා.”
+
+මෙම අවස්ථාව සඳහා අමාත්‍ය නලින් ප්‍රනාන්දු, රාජ්‍ය අමාත්‍යවරුන් වන ලසන්ත අලගියවන්න, සිසිර ජයකොඩි, අරවින්ද කුමාර් යන මහත්වරුන් සහ පාර්ලිමේන්තු මන්ත්‍රීවරුන් ද එක්ව සිටියා.
+
+◼️
+
+[Data](articles/db7b3660.json)
 
 ---
 
@@ -72,27 +116,35 @@ The special press conference was held at the Sri Lanka Freedom Party Headquarter
 
 ---
 
-### இரு புதிய ரயில் சேவைகள் நாளை ஆரம்பம்
+### Two new train services start tomorrow
 
 *2024-04-04 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180419) · `ta`
 
-கொழும்பிற்கும் பதுளைக்கும் இடையில் ரயில் சேவை ஆரம்பிக்கப்பட்டு நூறு ஆண்டு பூர்த்தியை முன்னிட்டு புதிய ரயில் சேவைகளை நாளை வெள்ளிக்கிழமை (05) ரயில் திணைக்களம் ஆரம்பிக்கப்படவுள்ளது.
+Two new train services start tomorrow: Tunhinda Odyssey from Colombo at 6.30 am, with 4 rooms, 44 seats each, and a fee of 8,000. Caliphzo, launched in Badulla, offers special viewing without full coverage.
 
-துன்ஹிந்த ஒடிஸி ரயில் கொழும்பு கோட்டையில் இருந்து  நாளை வெள்ளிக்கிழமை (5) காலை 6.30 மணிக்கு புறப்படும்.
+🟩
 
-துன்ஹிந்த ஒடிஸி  ஆரம்ப விழாவிற்கு பின்னர் பயணிகள் போக்குவரத்து இடம்பெறும். அத்துடன் பயணச்சீட்டு கட்டணம் 8,000 ஆகும்.
+The Railway Department will commence the new train services on Friday (05) to mark the 100 -year completion of the train service between Colombo and Badulla.
 
-இந்த ரயிலில்  தலா 44 இருக்கைகள் கொண்ட நான்கு அறைகள் உள்ளன. அதில் மூன்று இரண்டாம் வகுப்பு அறைகள் மற்றும்  கேன்டீனுடன் கூடிய ஒரு மூன்றாம் வகுப்பு அறை ஆகியவை அடங்கும்.
+The Tunhinda Odyssey train will leave Colombo Fort tomorrow (5) at 6.30 am.
 
-இந்த ரயிலுக்கு  மேலதிகமாக "கலிப்சோ" எனப் பெயரிடப்பட்ட மற்றுமொரு விசேட ரயில் குறித்த தினத்தில் பதுளை நோக்கி ஆரம்பிக்கப்படவுள்ளது.
+Passenger transport will be held after the Tunhinda Odyssey inauguration. As well as the ticket fee is 8,000.
 
-இந்த ரயில்  சுற்றி முழுவதும் மறைக்கப்படாது விசேடமாக காட்சிகளை பார்வையிடக்கூடிய வசதி கொண்டது.
+The train has four rooms with 44 seats each. This includes three second -class rooms and a third grade room with canteen.
 
-இந்த ரயில் சேவையும் போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சர் பந்துல குணவர்தனவினால் ஆரம்பித்து வைக்கப்படவுள்ளது.
+In addition to the train, another special train named "Caliphzo" will be launched on the day of Badulla.
 
-...
+The train is not covered throughout the train, with special viewing.
+
+The train service will also be launched by Minister of Transport and Highways Bandula Gunawardena.
+
+Designed to enjoy natural beauty, this Kalipsoo train has entertainment, including food and music.
+
+◼️
 
 [Data](articles/b0c5d597.json)
+
+[Extended Data](ext_articles/b0c5d597.ext.json)
 
 ---
 
@@ -145,6 +197,20 @@ He also directed to minimize the inconvenience caused to the general public.
 [Data](articles/a4a180db.json)
 
 [Extended Data](ext_articles/a4a180db.ext.json)
+
+---
+
+### දමිතා සහ සැමියා අත්අඩංගුවට
+
+*2024-04-04 13:22:40* · [`adalk`](https://www.ada.lk/breaking_news/දමිතා-සහ-සැමියා-අත්අඩංගුවට/11-408947) · `si`
+
+කොරියාවේ විදේශ රැකියා ලබාදෙන බව පවසා ලක්ෂ 30ක මුදලක් වංචා කිරීමේ සිද්ධියක් සම්බන්ධයෙන් චෝදනා එල්ල වී තිබූ රංගන ශිල්පිනී දමිතා අබේරත්න සහ ඇගේ සැමියා අද 04දා කොටුව මහේස්ත්‍රාත් අධිකරණයට භාර වීමෙන් අනතුරුව අපරාධ පරීක්ෂන දෙපාර්තමේතුව විසින් අත්අඩංගුවට ගෙන ඇත.
+
+පසුගිය 02දා ආගමන හා විගමන පනත යටතේ ඔවුන් අත්අඩංගුවට ගැනීම වළක්වාළන අතුරු තහනම් නියෝගයක් නිකුත් කිරීම ප්‍රතික්ෂේප කිරීමටද අභියාචනාධිකරණය කටයුතු කළහ.
+
+◼️
+
+[Data](articles/2e5a8015.json)
 
 ---
 
@@ -2161,85 +2227,5 @@ Visa, the global leader in digital payments, this week announced that Visa debit
 [Data](articles/98818159.json)
 
 [Extended Data](ext_articles/98818159.ext.json)
-
----
-
-### CoPF leads overhaul of Microfinance Bill
-
-*2024-04-04 03:36:49* · [`dailyftlk`](https://www.ft.lk/business/CoPFleads-overhaul-of-Microfinance-Bill/34-760290) · `en`
-
-The Committee on Public Finance (CoPF) Chaired by Dr. Harsha de Silva has emerged as a driving force in reshaping the Microfinance and Credit Regulatory Authority Bill, signalling a key turning point in inclusive policymaking.
-
-Drawing on insights from an array of stakeholders, including community-based organizations, transparency advocates, think tanks, and fintech companies, the CoPF played a pivotal role in reshaping the proposed legislation.
-
-Initially introduced by the Finance Ministry, the Bill faced scrutiny during CoPF deliberations, with stakeholders expressing concerns that its current iteration could inadvertently impede microfinance activities in Sri Lanka.
-
-...
-
-[Data](articles/0b0eb073.json)
-
-[Extended Data](ext_articles/0b0eb073.ext.json)
-
----
-
-### US Ambassador commends Sri Lanka’s progress on IMF program
-
-*2024-04-04 03:35:58* · [`dailyftlk`](https://www.ft.lk/business/US-Ambassador-commends-Sri-Lanka-s-progress-on-IMF-program/34-760289) · `en`
-
-The US Ambassador to Sri Lanka Julie Chung yesterday commended that Sri Lanka has made great progress on the International Monetary Fund’s (IMF) Extended Fund Facility (EFF) program.
-
-“We hope Sri Lanka can take the final steps necessary to unlock the next round of funding that will promote economic stability, foster growth, and improve the welfare of the people of Sri Lanka,” she said via ‘X’ following a meeting with State Minister of Finance Shehan Semasinghe ahead of his trip to Washington for the IMF Spring Meeting.
-
-She added that the IMF Spring Meeting is an opportunity for policymakers, economists, and stakeholders to collaborate on finding solutions to global economic challenges and promote international economic cooperation.
-
-◼️
-
-[Data](articles/6bb61876.json)
-
-[Extended Data](ext_articles/6bb61876.ext.json)
-
----
-
-### France assures unwavering support for SL’s debt restructuring process
-
-*2024-04-04 03:33:58* · [`dailyftlk`](https://www.ft.lk/business/France-assures-unwavering-support-for-SL-s-debt-restructuring-process/34-760288) · `en`
-
-State Minister of Finance Shehan Semasinghe stated yesterday that France’s unwavering support for the debt restructuring process has been guaranteed by France’s ambassador to Sri Lanka and the Maldives, Jean-François Pactet.
-
-“We engaged in discussions regarding the progress achieved in the debt restructuring process and assured France’s unwavering support,” he said via ‘X’.
-
-Semasinghe said exchanged perspectives on the future financial collaboration between the Governments of Sri Lanka and France.
-
-“It was emphasised that France will continue its constructive engagement with the Official Creditor Committee to reinforce debt sustainability in Sri Lanka,” he added.
-
-The State Minister also said the Ambassador commended the Government’s dedicated efforts and the implemented reforms agenda aimed at fostering the stability of the Sri Lankan economy.
-
-◼️
-
-[Data](articles/b31afca7.json)
-
-[Extended Data](ext_articles/b31afca7.ext.json)
-
----
-
-### Supermarkets to offer Rs. 5 discount for reusable bags in environmental initiative
-
-*2024-04-04 03:32:38* · [`dailyftlk`](https://www.ft.lk/business/Supermarkets-to-offer-Rs-5-discount-for-reusable-bags-in-environmental-initiative/34-760287) · `en`
-
-In a move towards environmental sustainability, supermarket heads have unanimously agreed to offer a Rs. 5 discount to consumers who bring reusable bags for purchases exceeding Rs. 500.
-
-The decision was reached during a meeting of the Sectoral Oversight Committee on Environment, Natural Resources and Sustainable Development chaired by MP Ajith Mannapperuma recently.
-
-Representatives from leading supermarkets including Arpico Super Center, Keells, Cargills Food City, Laughfs Super and Spar were present at the committee meeting.
-
-In addition, heads of ready-made garment shops and pen manufacturing establishments were also summoned to discuss strategies for reducing plastic and polythene usage, considering their significant contribution to plastic waste generation in Sri Lanka.
-
-During the meeting, the Committee Chair highlighted the detrimental effects of excessive polythene and plastic usage and urged supermarkets to take proactive measures to address this issue.
-
-...
-
-[Data](articles/3e4d3f4b.json)
-
-[Extended Data](ext_articles/3e4d3f4b.ext.json)
 
 ---

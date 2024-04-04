@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 12:03:16**
+As of **2024-04-04 12:18:01**
 
 ## Newspaper Stats
 
-*Scraped **17,073** Articles*
+*Scraped **17,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,65 @@ economynextcom | 944
 adalk | 1,437
 tamilmirrorlk | 2,028
 adaderanalk | 2,045
-virakesarilk | 2,470
+virakesarilk | 2,472
 dailymirrorlk | 2,625
-adaderanasinhalalk | 2,753
+adaderanasinhalalk | 2,754
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,064 (99.9%) of 17,073 articles have been extended.
+17,073 (100.0%) of 17,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### கொரோனா பெருந்தொற்று காலப்பகுதியில் ‘கட்டாய சடலம் எரிப்பு’ (ஜனாசா எரிப்பு) கொள்கை தொடர்பில் முஸ்லிம் சமூகத்திடம் அரசு முறையாக மன்னிப்புகோரும் விதத்திலான அமைச்சரவைப் பத்திரம் முன்வைக்கப்படும் – அமைச்சர் ஜீவன் தொண்டமான்
+
+*2024-04-04 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180406) · `ta`
+
+கொரோனா பெருந்தொற்று காலப்பகுதியில் முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச ஆட்சியில் கடைபிடிக்கப்பட்ட ‘கட்டாய சடலம் எரிப்பு’ (ஜனாசா எரிப்பு) கொள்கை தொடர்பில் முஸ்லிம் சமூகத்திடம் அரசு முறையாக மன்னிப்புகோரும் விதத்திலான அமைச்சரவைப் பத்திரம் முன்வைக்கப்படும் என்று இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச்செயலாளரும், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்.
+
+முஸ்லிம் மக்களின் உணர்வுகள், மத நம்பிக்கை என்பன கருத்திற்கொள்ளப்படாமல் கொரோனா காலப்பகுதியில் இடம்பெற்ற இந்த சம்பவத்தால் அந்த சமூகத்தினர் மன உளைச்சலுக்கு உள்ளாகினர். அதற்கான மன்னிப்பு கோருகின்றேன் எனவும் அமைச்சர் கூறினார்.
+
+அமைச்சர் ஜீவன் தொண்டமானின் ஏற்பாட்டில் இப்தார் நிகழ்வு ஹட்டன் டி.கே.டபிள்யூ மண்டபத்தில் நேற்று (02 நடைபெற்றது. நிகழ்வில் உரையாற்றுகையிலேயே அவர் இவ்வாறு கூறினார்.
+
+...
+
+[Data](articles/12663631.json)
+
+---
+
+### මෛත්‍රීට අතුරු තහනම් නියෝගයක්
+
+*2024-04-04 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195285) · `si`
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරයේ කටයුතු කිරීම වළක්වාළමින් කොළඹ මහාධිකරණයෙන් අතුරු තහනම් නියෝගයක් නිකුත් කර තිබේ.
+
+ඒ හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය යොමුකළ පැමිණිල්ලකට අදාළවය.
+
+◼️
+
+[Data](articles/2e04cb77.json)
+
+---
+
+### யாழ் மத்திய பஸ் நிலைய நெருக்கடியை நீக்குவதற்கு  நடவடிக்கை!
+
+*2024-04-04 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180400) · `ta`
+
+யாழ்ப்பாணம் மத்திய பஸ்  நிலையத்தில் நிலவும் நெருக்கடி நிலமைகளை நீக்குவதற்கும் சுகாதார நடவடிக்கைகளை மேம்படுத்துவதற்கும் அமைச்சர் டக்ளஸ் தேவானந்தா நடவடிக்கை எடுத்துள்ளார்.
+
+பஸ் நிலையத்திற்கு நேற்று (03)  புதன்கிழமை விஜயம் செய்த அமைச்சர் அங்குள்ள நிலமைகளை நேரில் அவதானித்ததுடன் துறைசார் அதிகாரிகள் மற்றும் பயணிகளுடன் கலந்துரையாடியிருந்தார் .
+
+இதன் தொடர்ச்சியாக இரவு, தனது அலுவலகத்தில் துறைசார் அதிகாரிகள் மற்றும் பொலிஸாருடன் நடத்திய கலந்துரையாடலில் சுகாதாரம் தொடர்பான நடவடிக்கைகளை யாழ். மாநகர ஆணையாளர் உடனடியாக மேற்கொள்ளும்படியும்,  பயணிகள் மற்றும் பயணிகள் பஸ்களுக்கும் எவ்வித இடையூறுகளுமற்ற வகையில் டவடிக்கை மேற்கொள்ளுமாறு இலங்கை வடபிராந்திய போக்குவரத்துச் சபையின்  முகாமையாளருக்கு பணிப்புரை வழங்கினார்.
+
+◼️
+
+[Data](articles/29f0eb1c.json)
+
+---
 
 ### Parliamentary committee looks into preventing illegal fishing activities off northern Sri Lanka
 
@@ -44,109 +90,157 @@ The fishermen representatives of the north pointed out that the illegal encroach
 
 [Data](articles/e0711335.json)
 
+[Extended Data](ext_articles/e0711335.ext.json)
+
 ---
 
-### கிளிநொச்சி மாவட்ட வைத்தியசாலையின் புதிய பணிப்பாளர் பதவியை பொறுப்பேற்றார்!
+### He took over the post of new Director of Kilinochchi District Hospital!
 
 *2024-04-04 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180398) · `ta`
 
-கிளிநொச்சி மாவட்ட வைத்தியசாலைக்கு புதிதாக நியமிக்கப்பட்டுள்ள பணிப்பாளரான  வைத்திய கலாநிதி பூர்ணிமா விமலரத்ன செவ்வாய்க்கிழமை தனது பதவியை பொறுப்பேற்றுக் கொண்டார்.
+Dr. Purnima Wimalaratne, the new Director of Kilinochchi District Hospital, took over on Tuesday, replacing Dr. Sukandan, who moved to the Planning Division. The hospital, previously without a permanent director, now aims to address physical shortages.
 
-நிரந்தர தகுதிவாய்ந்த பணிப்பாளர் இன்றி நீண்ட காலமாக இயங்கி வைத்த கிளிநொச்சி மாவட்ட வைத்தியசாலைக்கு இவர் நியமிக்கப்பட்டுள்ளார்.
+🟩
 
-புதிதாக  பொறுப்பேற்றுள்ள பணிப்பாளர் குறித்த வைத்தியசாலையின் நிலவும் ஆளணி மற்றும் பௌதீகவள பற்றாக்குறை விடயங்களில்  அதிக கவனம் செலுத்தி அவற்றை நிவர்த்தி செய்ய நடவடிக்கைகளை மேற்கொள்ள வேண்டும் என தாம் எதிர்பார்ப்பதாக வைத்தியசாலை சமூகத்தினர் தெரிவித்துள்ளனர்.
+Dr. Purnima Wimalaratne, the newly appointed Director of the Kilinochchi District Hospital, took over his post on Tuesday.
 
-மேலும் இதுவரை காலமும் பதில் பணிப்பாளராக கடமையாற்றி வந்த வைத்தியர்  சுகந்தன் மீண்டும் கிளிநொச்சி பிராந்திய சுகாதார சேவைகள்  திணைக்களத்தின் திட்டமிடல் பிரிவுக்கு மாற்றப்பட்டுள்ளார்.
+He has been appointed to the Kilinochchi District Hospital, which has long been operating without a permanent qualified director.
+
+The hospital community has said that they are expecting steps to be taken to focus more on the hospital and physical shortage of the newly appointed Director.
+
+Dr. Sukandan, who has been on duty as the Director of Response so far, has been transferred to the Planning Division of the Kilinochchi Regional Health Services Department.
 
 ◼️
 
 [Data](articles/2c2e101c.json)
 
+[Extended Data](ext_articles/2c2e101c.ext.json)
+
 ---
 
-### யாழில் மாடு கடத்தல்: பொலிஸ் உத்தியோகத்தர் உட்பட  மூவர் கைது!
+### Cow kidnapping in Jaffna: Three arrested including police officer
 
 *2024-04-04 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180394) · `ta`
 
-யாழ்ப்பாணத்தில் சட்டவிரோதமான முறையில் மாடுகளை கடத்தி சென்ற குற்றச்சாட்டில் பொலிஸ் உத்தியோகத்தர் உள்ளிட்ட மூவர், இன்று (04) வியாழக்கிழமை அதிகாலை பொலிஸ் அதிரடி படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+In Jaffna, a police officer and two others were arrested for smuggling cows. They were caught abducting 8 cows from Punguduthivu. The police officer among them was identified during the investigation. The trio tied the cows' legs, loaded them into a vehicle, and were found by troops during a road raid. The cows and vehicle were seized and handed over to the Jaffna police.
 
-புங்குடுதீவு பகுதியில் இருந்து சடடவிரோதமான முறையில் , 8 மாடுகளை கொடுமைப்படுத்தும்  வகையில்  கடத்தி வந்தபோதே அவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-பண்ணை சுற்றுவட்ட பகுதியில் வீதி சோதனை நடவடிக்கையில்  அதிரடிப்படையினர் ஈடுபட்டிருந்தபோது சந்தேகத்துக்கிடமான  முறையில் பயணித்த வாகனத்தினை வழிமறித்து சோதனையிட்ட போது, கால்கள் கட்டப்பட்ட நிலையில்மாடுகள் காணப்பட்டுள்ளன.
+Three persons, including a police officer, have been arrested by the police officer in the early hours of Thursday morning for allegedly smuggling cows in Jaffna.
 
-அதனை தொடர்ந்து வாகனத்தில் இருந்த மூவரிடம் விசாரணைகளை முன்னெடுத்தபோது அவர்களில்  ஒருவர் யாழ்ப்பாண பொலிஸ் நிலையத்தில் கடமையாற்றும் பொலிஸ் உத்தியோகஸ்தர் என தெரிய வந்துள்ளது.
+They have been arrested while abducting 8 cows from the Punguduthivu area.
 
-குறித்த மூவரும் புங்குடுதீவு பகுதிக்கு வாகனத்தில் சென்று மாடுகளை திருடி அவற்றின் கால்களை கட்டி , கொடுமைப்படுத்தும்  வகையில் வாகனத்தில் ஏற்றி வந்துள்ளமை தெரிய வந்துள்ளது.
+While the troops were involved in a road raid in the farm surrounding area, when the suspicious travelers were traveled, the legs were built.
 
-...
+Subsequently, when the three were investigating the investigation, one of them was found to be a police officer who was working at the Jaffna Police Station.
+
+It has been revealed that the trio had gone to the Punguduthivu area and stole the cows and tied their feet and loaded them into the vehicle.
+
+The arrest of the three men, who had arrested the three men, seized the cows and the vehicle and handed it over to the Jaffna police for further legal action.
+
+◼️
 
 [Data](articles/0a6893e6.json)
 
+[Extended Data](ext_articles/0a6893e6.ext.json)
+
 ---
 
-### மக்கள் நிம்மதியாக பண்டிகையை கொண்டாட பொருட்களின்  விலைகளை குறைக்க வேண்டும் - இராதாகிருஷ்ணன் கோரிக்கை
+### People should reduce the prices of goods to celebrate the festival of people - Radhakrishnan
 
 *2024-04-04 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180404) · `ta`
 
-இம்மாதம் பண்டிகை காலம் ஆரம்பித்துள்ளது. எனவே இக்காலத்தில் அதிகளவான பொருட்களை மக்கள் கொள்வனவு செய்ய ஆரம்பிப்பார்கள். ஆனால் கொள்வனவு செய்வதற்கான நிதி சூழ்நிலை சரியாக இல்லை.காரணம் பொருட்களின் விலை அதிகரித்துள்ள அதே நேரம் வருமானமும் குறைந்துள்ளது.
+Radhakrishnan urges reducing goods prices for the festive season to match people's income, ensuring peace and happiness. He also calls for government support for plantation workers and those affected by import commodity price drops.
 
-எனவே இப்பண்டிகை காலத்தில் பொருட்களின் விலையை மக்களின் வருமானத்திற்கு ஏற்ற வகையில் குறைத்து வழங்குமாறு மலையக மக்கள் முன்னணியின் தலைவரும் நாடாளுமன்ற உறுப்பினருமான வேலுசாமி இராதாகிருஷ்ணன் தெரிவித்துள்ளார்.
+🟩
 
-மலையக பகுதிகளில் அனைத்து தோட்டங்களிலும் திருவிழாக்காலம் ஆரம்பித்துள்ளது. அதே சந்தர்ப்பத்தில் சித்திரை புத்தாண்டை கொண்டாடவும் மக்கள் தயாராகி விட்டனர். ஆனால் அப்பண்டிகையை நிம்மதியாகவும் சந்தோஷமாகவும் மக்கள் கொண்டாட பொருட்களின் விலைகளை குறைக்க அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும்.
+The festive season has begun this month. So people start buying more items during this time. But the financial situation for purchase is not correct.
 
-அதேவேளை பொருட்களின் விலைகளை அரசாங்கம் குறைத்தாலும் அந்த பொருட்களை பெருந்தோட்ட மக்கள் பெறுக்கொள்ள கூடிய வசதிகளை அரசாங்கம்  செய்துக்கொடுக்க வேண்டும்.
+Velusamy Radhakrishnan, the leader of the Upcountry People's Front and Member of Parliament, said that the cost of goods during this period was reduced to suit the income of the people.
 
-...
+The festival has begun in all gardens in the hill country. People are ready to celebrate the New Year on the same occasion. But the government should take steps to reduce the prices of commodities to celebrate people with peace and happiness.
+
+At the same time, even if the government reduces the prices of commodities, the government should provide facilities to the plantation people.
+
+Radhakrishnan added that the government should take steps to reduce the prices of goods at low prices for the people who reduce the prices of import commodities due to the decline in dollar majority, especially when the prices of the local products are reduced.
+
+◼️
 
 [Data](articles/4dfb2628.json)
 
+[Extended Data](ext_articles/4dfb2628.ext.json)
+
 ---
 
-### அமெரிக்காவில் விபத்துக்குள்ளான கப்பலில் இருந்து ஒரு கொள்கலனை மாத்திரம் இலங்கையில் இறக்க திட்டமிட்டிருந்தனர் - அமைச்சர் நிமால்
+### Only a container of a ship crashed in the United States was planning to die in Sri Lanka - Minister Nimal
 
 *2024-04-04 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/180403) · `ta`
 
-டாலி சரக்கு கப்பலில் 56 கொள்கலன்கள் ஆபத்தான பொருட்களுடன் காணப்பட்டன அவற்றில் ஒன்றை மாத்திரம் கொழும்பு துறைமுகத்தில் இறக்க திட்டமிட்டிருந்தனர் என அமைச்சர் நிமால் சிறிபால டி சில்வா தெரிவித்துள்ளார்.
+Minister Nimal Siripala de Silva reported that a container from the Dali cargo vessel, carrying dangerous goods, crashed in Baltimore, USA, en route to Sri Lanka. The ship was not headed to Colombo, and the Minister emphasized the importance of reporting shipments for transparency and safety.
 
-அமெரிக்காவின் பல்டிமோரில் பாலத்துடன் மோதி விபத்துக்குள்ளான கப்பல்  இலங்கையை நோக்கி ஆபத்தான பொருட்களுடன் பயணித்துக்கொண்டிருந்தது  என தகவல்கள் வெளியாகியுள்ள நிலையிலேயே அமைச்சர் இதனை தெரிவித்துள்ளார்.
+🟩
 
-கொழும்பு துறைமுகமே குறிப்பிட்ட கப்பலின் இறுதி இலக்கு இல்லை இறுதி இலக்கு சீனா எனவும் அமைச்சர் தெரிவித்துள்ளார்.
+Minister Nimal Siripala de Silva said that 56 containers were found on the Dali cargo vessel with dangerous goods.
 
-சர்வதேச கடல்சார் விதிமுறைகளிற்கு இணங்க துறைமுகத்தை அடைவதற்கு இரண்டு நாட்களி;ற்கு முன்னர் கப்பலில் உள்ள பொருட்கள் குறித்த விபரங்களை தெரிவிக்கவேண்டும் என தெரிவித்துள்ள அமைச்சர் வெளிப்படைதன்மை மற்றும் பாதுகாப்பு நடைமுறைகளை உறுதி செய்வதற்காக கடுமையான சுங்க பரிசோதனைகள் இடம்பெறும் எனவும் அமைச்சர் தெரிவித்துள்ளார்.
+The Minister said that the ship that crashed into a bridge in Baltimore, USA was traveling with dangerous items to Sri Lanka.
 
-டாலி போன்ற கப்பல்களில் பொதுவான மற்றும் ஆபத்தான பொருட்கள் காணப்படும் அவ்வாறான கப்பல்களை திருப்பி அனுப்புவது சாத்தியமற்ற விடயம் எனவும் அமைச்சர் தெரிவித்துள்ளார்.
+The Minister said that the Colombo port is not the final goal of the specified ship.
+
+The Minister said that two days before reaching the port in accordance with the International Maritime regulations, the Minister said that the Minister should report on the shipment to ensure transparency and safety procedures.
+
+The Minister said that it is impossible to return such ships that are common and dangerous to ships like Dolly.
 
 ◼️
 
 [Data](articles/2cafda8b.json)
 
+[Extended Data](ext_articles/2cafda8b.ext.json)
+
 ---
 
-### தென்னாபிரிக்காவிலிருந்து இலங்கைக்கு விமானம் மூலம் கொக்கேய்ன்: மூவர் கைது!
+### Kokayin by plane from South Africa to Sri Lanka: Three arrested
 
 *2024-04-04 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180401) · `ta`
 
-தென்னாபிரிக்காவிலிருந்து இலங்கைக்கு விமானம் மூலம் அனுப்பப்பட்டதாக கூறப்படும் கொக்கேய்ன் போதைப்பொருளை  பெற்றுக்கொள்வதற்காக ஒருகொடவத்தை சுங்க பிரிவின் களஞ்சியசாலையில் பொருட்கள் விநியோக நிலையத்துக்குச் சென்றிருந்த ஒருவர் உட்பட மூவர் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவினரால் கைது செய்யப்பட்டுள்ளனர்.
+Three arrested for allegedly shipping cocaine from South Africa to Sri Lanka.
 
-சந்தேக நபரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளின் போது, இலங்கைக்கு கொக்கேய்ன் போதைப்பொருளை இறக்குமதி செய்வதற்கு உதவிய மேலும் இரு சந்தேக நபர்கள் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+🟩
+
+Three persons have been arrested by the police narcotics unit, including a man who went to the supplies station at the Customs Unit of the Customs Unit of the Customs Unit of the Customs Unit for allegedly shipping from South Africa to Sri Lanka.
+
+Two more suspects have been arrested by police for helping the importation of cocaine drugs to Sri Lanka during the investigation into the suspect.
 
 ◼️
 
 [Data](articles/501c0644.json)
 
+[Extended Data](ext_articles/501c0644.ext.json)
+
 ---
 
-### கொக்குத்தொடுவாய் அகழ்வுப்பணி ஒத்திவைப்பு
+### Defamation
 
 *2024-04-04 11:36:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொக்குத்தொடுவாய்-அகழ்வுப்பணி-ஒத்திவைப்பு/175-335604) · `ta`
 
-முல்லைத்தீவு மாவட்டத்தின் கொக்குதொடுவாய் பகுதியில் 29.06.2023 அன்று கண்டுபிடிக்கப்பட்ட மனித புதைகுழி அகழ்வு  தொடர்பான  வழக்கு  இன்றையதினம் (04)  முல்லைத்தீவு நீதவான்  நீதிமன்றில் இடம்பெற்றது
+A human burial excavation in Kokkudoduwai, Mullaitivu District, began on 06.09.2023, recovering 17 trunks in the first phase and 40 skeletal blocks in the second phase, which ended in March 2023 due to funding issues. The remains date back to 1994-1996.
 
-முல்லைத்தீவு நீதவான்  நீதிமன்றில் நீதிபதி தர்மலிங்கம் பிரதீபன் முன்னிலையில் இடம் பெற்ற வழக்கு விசாரணைகளில் முல்லைத்தீவு மாவட்ட சட்ட வைத்திய அதிகாரி கனகசபாபதி வாசுதேவா,  முல்லைத்தீவு மாவட்ட செயலக பிரதம கணக்காளர் மயில்வாகனம் செல்வரட்ணம், கொக்கிளாய் பொலிஸ் நிலைய பொறுப்பதிகாரி,கொக்கிளாய் பகுதி  கிராம அலுவலர், சட்டத்தரணிகளான வி கே நிறஞ்சன், கணேஸ்வரன் மற்றும் காணாமல் போனோர் அலுவலகம் சார்பாக சட்டத்தரணி துஷ்யந்தினி ஆகியோர் முன்னிலையாகியிருந்தனர்
+🟩
+
+The case relating to the human burial excavation, found in Kokkudoduwai area of Mullaitivu District on 29.06.2023, was taken up at the Mullaitivu Magistrate's Court today (04)
+
+Mullaitivu District Legal Medical Officer Kanagasabapathi VasudevaWere in front of
+
+Mullaitivu District Secretariat Chief Accountant Mayilvankanam Selvaratnam has informed the court that the ministry has said that the excavation has been increased.
+
+The first phase of the human burial ground in the Kokkudoduwai area of the Mullaitivu district began on 06.09.2023 and held eleven days after the recovery of 17 trunks.
+
+The second phase of the excavation was started on 20.11.2023 and a consecutive day of nine consecutive days has been recovered and a total of 40 skeletal blocks have been recovered and the second phase has been suspended.
 
 ...
 
 [Data](articles/3f040036.json)
+
+[Extended Data](ext_articles/3f040036.ext.json)
 
 ---
 
@@ -167,6 +261,8 @@ That is the train with special viewing facilities called "Calypso" without round
 ...
 
 [Data](articles/7d2d3fbd.json)
+
+[Extended Data](ext_articles/7d2d3fbd.ext.json)
 
 ---
 
@@ -418,19 +514,25 @@ But Ravichandran, who is the act of Indian team, says that the sports lackin has
 
 ---
 
-### මන්ත්‍රී කේ.එච්. නන්දසේන දිවි ගමනට සමුදෙයි
+### Member of Parliament K.H. Nandasena receives
 
 *2024-04-04 10:51:14* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-කේ-එච්--නන්දසේන-දිවි-ගමනට-සමුදෙයි/11-408941) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ (SLPP) අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී එච්.නන්දසේන මහතා (69) හදිසි රෝගාබාධයක් හේතුවෙන් අද (04) උදෑසන අභාවප්‍රාප්ත විය.
+SLPP MP H. Nandasena, a former Provincial Minister, passed away from an emergency illness. He served in various positions including the Padaviya Pradeshiya Sabha and the North Central Provincial Council, and was elected to the Sri Lankan Parliament in 2020.
 
-හිටපු පළාත් අමාත්‍යවරයෙකු වන නන්දසේන මහතා පදවිය ප්‍රාදේශීය සභාවේ සහ උතුරු මැද පළාත් සභාවේ මන්ත්‍රීවරයෙකු ලෙස ද ඇතුළුව විවිධ තනතුරු දැරූ අතර එහිදී ඔහු පළාත් අමාත්‍ය ධූරයක් ද හෙබවීය.
+🟩
 
-ඔහු 2020 පාර්ලිමේන්තු මැතිවරණයට අනුරාධපුර දිස්ත්‍රික්කයේ අපේක්ෂකයෙකු ලෙස තරඟ කර ශ්‍රී ලංකා පාර්ලිමේන්තුවට තේරී පත් විය.
+The SLPP Anuradhapura District MP H. Nandasena passed away due to an emergency illness today (04).
+
+Former Provincial Minister Nandasena has held various positions including a member of the Padaviya Pradeshiya Sabha and a member of the North Central Provincial Council.
+
+He was contesting as a candidate in the Anuradhapura district for the 2020 parliamentary election and was elected to the Parliament of Sri Lanka.
 
 ◼️
 
 [Data](articles/3768a19a.json)
+
+[Extended Data](ext_articles/3768a19a.ext.json)
 
 ---
 
@@ -2125,63 +2227,5 @@ The forum consisted of two sessions which was in Tamil and Sinhala medium in ord
 [Data](articles/7f7fca92.json)
 
 [Extended Data](ext_articles/7f7fca92.ext.json)
-
----
-
-### Adani Green Energy surpasses 10,000 MW renewable energy
-
-*2024-04-03 23:32:00* · [`islandlk`](http://island.lk/adani-green-energy-surpasses-10000-mw-renewable-energy/) · `en`
-
-Adani Green Energy Limited (AGEL), one of the world’s leading renewable energy (RE) companies, has surpassed 10,000 megawatts (MW) of operational portfolio, delivering reliable, affordable, and clean power to the national grid. AGEL’s operational portfolio consists of 7,393 MW solar, 1,401 MW wind and 2,140 MW wind-solar hybrid capacity. The milestone is a testament to AGEL and its development partners firmly moving towards the goal of 45,000 GW renewable energy by 2030.
-
-AGEL’s 10,934 MW operational portfolio will power more than 5.8 million homes and avoid about 21 million tonnes of CO2 emissions annually.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/25f25348.json)
-
-[Extended Data](ext_articles/25f25348.ext.json)
-
----
-
-### ComBank opens newly built Kegalle Branch
-
-*2024-04-03 23:31:00* · [`islandlk`](http://island.lk/combank-opens-newly-built-kegalle-branch/) · `en`
-
-The Commercial Bank of Ceylon recently moved its Kegalle branch to a spacious new two storey building at the same location, designed to better serve customers in this bustling municipality.
-
-The branch at No 186, Main Street, Kegalle, is a fully-fledged banking operation that also offers two Automated Teller Machines (ATM) and two Cash Recycler Machines (CRM) to provide round-the-clock digital services to customers.
-
-The Bank said enhanced parking facilities have been added to the location. The branch provides Kegalle residents as well as entrepreneurs access to a versatile portfolio of products and services, including lending products such as personal loans, home loans, leasing facilities and pawning facilities, in addition to SME banking services and a range of savings products.
-
-SLT-MOBITEL hosts National Celebration of World Seagrass Day 2024 and UN Restoration Flagship Award ceremony
-
-ComBank engages with female staff countrywide at Women’s Day event
-
-...
-
-[Data](articles/3799836e.json)
-
-[Extended Data](ext_articles/3799836e.ext.json)
-
----
-
-### Banking sector transactions trigger bullish spurt in stock market
-
-*2024-04-03 23:27:00* · [`islandlk`](http://island.lk/banking-sector-transactions-trigger-bullish-spurt-in-stock-market/) · `en`
-
-Though it started off on a negative note yesterday the stock market picked up steam towards the latter part of the day and turned extremely bullish due to notable activities in the banking sector.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 114 points, while S and P SL 20 rose by 64.81 points. Turnover stood at Rs 2.1 billion with four crossings. Those crossings were reported in NTM, where 200,000 shares crossed to the tune of Rs 22 million and its shares traded at Rs 110, Pan Asia Bank 1million shares crossed for Rs 21.7 million; its shares traded at Rs 21.70, NTB 300,000 shares crossed for Rs 21.15 million; its shares sold at Rs 70.50 and JKH 102,000 shares crossed to the tune of Rs 20.1 million; its shares fetched Rs 198.
-
-...
-
-[Data](articles/9d00a231.json)
-
-[Extended Data](ext_articles/9d00a231.ext.json)
 
 ---

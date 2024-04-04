@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 07:17:06**
+As of **2024-04-04 07:40:35**
 
 ## Newspaper Stats
 
-*Scraped **17,017** Articles*
+*Scraped **17,018** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,49 @@ tamilmirrorlk | 2,021
 adaderanalk | 2,037
 virakesarilk | 2,457
 dailymirrorlk | 2,618
-adaderanasinhalalk | 2,743
+adaderanasinhalalk | 2,744
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,006 (99.9%) of 17,017 articles have been extended.
+17,017 (100.0%) of 17,018 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### புத்தாண்டு காலத்தில் விசேட ரயில் சேவைகள்
+### පාර්ලිමේන්තු මන්ත්‍රී කේ.එච්. නන්දසේන අභාවප්‍රාප්ත වෙයි
+
+*2024-04-04 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195274) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ අනුරාධපුරය දිස්ත්‍රික්  පාර්ලිමේන්තු මන්ත්‍රී හා දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේ සභාපති කේ. එච්. නන්දසේන මහතා හදිසි රෝගී තත්ත්වයකින් අභාවප්‍රාප්ත වී තිබේ.
+
+◼️
+
+[Data](articles/32e03201.json)
+
+---
+
+### Special train services during the New Year
 
 *2024-04-04 06:58:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டு-காலத்தில்-விசேட-ரயில்-சேவைகள்/175-335580) · `ta`
 
-எதிர்வரும் தமிழ் - சிங்கள சித்திரைப் புத்தாண்டை முன்னிட்டு விசேட ரயில் சேவைகள் முன்னெடுக்கப்படவுள்ளன என ரயில்வே திணைக்களம்  தெரிவித்துள்ளது.
+During Tamil-Sinhala New Year, special train services from Colombo to Galle, Beliatta, Kandy, Matara, Hatton, and Badulla will run from 10th to 15th.
 
-இதற்கமைய, எதிர்வரும் 10 ஆம் திகதி முதல் 15 ஆம் திகதி வரை விசேட ரயில் சேவைகள் முன்னெடுக்கப்படவுள்ளன என குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-கொழும்பிலிருந்து காலி, பெலியத்த, கண்டி, மாத்தறை, ஹட்டன் மற்றும் பதுளை ஆகிய பகுதிகளுக்கு விசேட ரயில் சேவைகள் முன்னெடுக்கப்படவுள்ளன என ரயில்வே திணைக்களம் அறிவித்துள்ளது. (a)
+Special train services will be carried out on the upcoming Tamil -Sinhala New Year, the Railway Department said.
+
+Accordingly, special train services will be carried out from the 10th to the 15th of this month.
+
+The Railway Department has announced that special train services will be carried out from Colombo to Galle, Beliatta, Kandy, Matara, Hatton and Badulla.. (A)
 
 ◼️
 
 [Data](articles/a932489d.json)
+
+[Extended Data](ext_articles/a932489d.ext.json)
 
 ---
 
@@ -70,59 +88,81 @@ Her album 1989 (Taylor's Version) was also the best-selling vinyl LP of last yea
 
 [Data](articles/b5326fa4.json)
 
+[Extended Data](ext_articles/b5326fa4.ext.json)
+
 ---
 
-### බස්නාහිර ඇතුළු පළාත් කිහිපයකට තද වැසි
+### Heavy rains for several provinces and several provinces
 
 *2024-04-04 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195272) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ දකුණු පළාත්වල ප.ව. 2න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+Heavy rains and thundershowers expected in Western, Sabaragamuwa, Central, North Western, Southern, and Uva provinces. Showers to occur in the evening or night. Public advised to take precautions against wind and lightning.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, ඌව පළාතේ සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වල ඇතැම් ස්ථාන වලට මි. මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකිය.
+From Western, Sabaragamuwa, Central, North Western and Southern provinces. Showers or thundershowers will occur at several times after 2.
 
-බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+The Department of Meteorology announced that showers or thundershowers will occur at several places in the evening or night in the Uva Province.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Some places in the Western, Sabaragamuwa and Southern provinces. Mee. Heavy rains can occur about 75 times.
+
+In some places in the Western, Central, Sabaragamuwa and Uva provinces, in some places, are expected to be fired in the Galle and Matara districts.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/509514bd.json)
 
+[Extended Data](ext_articles/509514bd.ext.json)
+
 ---
 
-### ’பகிரங்க விவாதத்துக்குத் தயார்’
+### Ready for a public debate
 
 *2024-04-04 06:27:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பகிரங்க-விவாதத்துக்குத்-தயார்/175-335579) · `ta`
 
-இலங்கை எதிர்நோக்கும் பல்வேறு பிரச்சினைகள் தொடர்பில், எந்தவொரு அரசியல் கட்சியுடனும் பகிரங்க விவாதத்துக்குத் தயார் என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition Leader Sajith Premadasa is open to a public debate on Sri Lanka's issues, emphasizing the importance of debate in a democratic society. He's ready to discuss economics, society, politics, and internationalism, aiming to benefit the country and its people.
 
-பிரபஞ்சம் தகவல் தொழில்நுட்ப வேலைத்திட்டத்தின் கீழ், 140 ஆவது கட்டமாக 10 இலட்சம் ரூபா பெறுமதியான ஸ்மார்ட் வகுப்பறை உபகரணங்கள், முல்லைத்தீவு, முத்தையன்கட்டு, இடதுகரை தமிழ்க் கலவன் பாடசாலைக்கு வழங்கி வைக்கும் நிகழ்வு நேற்று நடைபெற்றது. அதில் எதிர்க்கட்சித் தலைவர் கலந்துகொண்டு உரையாற்றும்போதே இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-நாட்டின் பிரச்சினைகள் குறித்து விவாதம் தேவை என தற்போது சமூகத்தில் பேசப்படுகின்றது. இத்தகையதொரு விவாதம் நடக்க வேண்டும் என்பதை நாமும் ஏற்றுக்கொள்கின்றோம்.
+Opposition Leader Sajith Premadasa said he was ready for public debate with any political party on various issues facing Sri Lanka.
 
-விவாதங்களை நடத்துவது ஜனநாயக சமூகத்தின் உயர் பண்பு என்பதால் பொருளாதாரம், சமூகம், அரசியல், சர்வதேசம் என எந்தவொரு தலைப்பிலும் விவாதத்தில் ஈடுபட நாம் தயாராக இருகின்றோம்.
+Under the Universal Information Technology Program, smart classroom equipment worth Rs.. The Opposition Leader said this while addressing the gathering. As he further stated,
 
-...
+The community is currently spoken of as needed debate on the country's issues. We also accept that such a debate should take place.
+
+Since it is a high attribute of democratic society, we are ready to engage in any topic - economics, society, politics and internationalism.
+
+Similarly, the debate must be added to the country and the people. He said that during the opposition, he should serve the people not to be limited to debates.
+
+◼️
 
 [Data](articles/856a1b83.json)
 
+[Extended Data](ext_articles/856a1b83.ext.json)
+
 ---
 
-### ’ஆசிரியர் வெற்றிடங்களை நிரப்ப நடவடிக்கை’
+### Action to fill the vacancies of the editor
 
 *2024-04-04 06:20:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-வெற்றிடங்களை-நிரப்ப-நடவடிக்கை/175-335578) · `ta`
 
-மூன்று வருடங்களின் பின்னர் 2024 ஆம் ஆண்டில் 4000 பேருக்கு ஆசிரியர் நியமனம் வழங்க அரசாங்கம் நடவடிக்கை எடுத்துள்ளது. நாட்டின் பொருளாதாரம் மேலும் வலுவடையும் பட்சத்தில், அடுத்த வருடமும் ஆசிரியர் வெற்றிடங்களை நிரப்புவதற்கு மேலதிக நிதி ஒதுக்கப்படுமென ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+The government plans to appoint 4000 teachers in 2024, with President Ranil Wickremesinghe stating more funds will be allocated for teacher vacancies if the economy strengthens. Currently, 2300 teachers are appointed, with over 700 more to be hired. Economic recovery has allowed for these appointments, which were halted due to the economic downturn and COVID-19.
 
-அலரி மாளிகையில் நேற்று பிற்பகல் இடம்பெற்ற மேல் மாகாண பட்டதாரி ஆசிரியர் நியமனம் வழங்கும் நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-இன்று 2300 ஆசிரியர்களுக்கு நியமனம் வழங்கப்படுகிறது. மேலும் 700 நியமனங்கள் வழங்கப்பட உள்ளன. வெற்றிடங்களுக்கு ஏற்ப மேலும் 1000 ஆசிரியர்களை நியமிக்க திட்டமிடப்பட்டுள்ளது. அதற்கமைய இந்த வருடத்தில் சுமார் 4000 ஆசிரியர்கள் நியமிக்கப்படுவர். மூன்று அல்லது நான்கு ஆண்டுகளுக்குப் பின்னரே இந்த நியமனங்களை வழங்க முடிந்துள்ளது. பொருளாதார வீழ்ச்சி மற்றும் கோவிட் தொற்றுநோய் காரணமாக இந்த நியமனங்கள் அனைத்தும் நிறுத்தப்பட்டிருந்தன.
+Three years later, the government has taken steps to appoint 4000 people in 2024. President Ranil Wickremesinghe said more funds would be allocated to fill the vacancies of the teacher next year if the country's economy strengthens.
+
+The President said this while addressing the appointment of the Western Provincial Graduate Teacher at the Alari House yesterday afternoon.. As he further stated,
+
+Today 2300 teachers are appointed. There are more than 700 appointments to be made. It is planned to hire more than 1000 teachers in accordance with vacancies. About 4000 teachers will be appointed this year. These appointments have been made only three or four years later. All these appointments were halted due to economic downturn and Govid infection.
 
 ...
 
 [Data](articles/2a286939.json)
+
+[Extended Data](ext_articles/2a286939.ext.json)
 
 ---
 
@@ -141,6 +181,8 @@ However, the attempt has been unsuccessful because most MPs are not ready for an
 ...
 
 [Data](articles/0c063d48.json)
+
+[Extended Data](ext_articles/0c063d48.ext.json)
 
 ---
 
@@ -161,6 +203,8 @@ On March 28, the Central Bank issued broad guidelines to the banks to firm up th
 ...
 
 [Data](articles/72e36c57.json)
+
+[Extended Data](ext_articles/72e36c57.ext.json)
 
 ---
 
@@ -520,6 +564,8 @@ In the month of January, the lower-case scenario target was missed by 7 percent,
 
 [Data](articles/f8848bf1.json)
 
+[Extended Data](ext_articles/f8848bf1.ext.json)
+
 ---
 
 ### They do not have the authority to advise the government on security issues- the Human Rights Commission
@@ -633,6 +679,8 @@ Although Sri Lanka may sustain the current growth momentum for the next two to t
 ...
 
 [Data](articles/8940a0f5.json)
+
+[Extended Data](ext_articles/8940a0f5.ext.json)
 
 ---
 
@@ -2175,25 +2223,5 @@ The body was recovered by the Nuwara Eliya District Magistrate and the Nuwara El
 [Data](articles/a7666e6b.json)
 
 [Extended Data](ext_articles/a7666e6b.ext.json)
-
----
-
-### Protesting students tear-gassed near J’pura Uni.
-
-*2024-04-03 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98402/protesting-students-tear-gassed-near-jpura-uni) · `en`
-
-Police have used tear gas and water cannons to disperse protesting university students near the University of Sri Jayewardenepura.
-
-The demonstration had been organized by the students in protest over a Cabinet decision pertaining to private medical universities.
-
-UPDATE: Meanwhile, tear gas and water cannons have also been used to disperse a group of protesting university students near Moratuwa University, Ada Derana reporter said.
-
-Students of Moratuwa University had reportedly staged the protest march over the same demands.
-
-◼️
-
-[Data](articles/e8804adf.json)
-
-[Extended Data](ext_articles/e8804adf.ext.json)
 
 ---

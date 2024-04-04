@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 03:33:28**
+As of **2024-04-05 03:50:53**
 
 ## Newspaper Stats
 
@@ -48,6 +48,32 @@ We all know that ‘conversation’ might not be the most appropriate word to us
 
 ---
 
+### National Oil Rubbing Ceremony on April 15
+
+*2024-04-05 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180457) · `ta`
+
+The National Oil Rubbing Ceremony, part of Tamil and Sinhala New Year celebrations, is scheduled for April 15 at 10.17 am. The Ministry of Indigenous Medicine and Ayurvedic Department will also hold the Ayurex 2024 Exhibition from May 3-5, focusing on Ayurvedic goods and centers.
+
+🟩
+
+Indigenous Medical Minister Sisira Jayakody said that the National Festival of Oil Rubbing, one of the auspicious events of the Tamil and Sinhala New Year celebrations, will be held on April 15 at 10.17 am.
+
+Indigenous Medical Minister Sisira Jayakody made this statement at a media briefing held at the Presidential Media Center on Thursday (04).
+
+The Ministry of Indigenous Medicine and Ayurvedic Department has organized the National Festival of Oil Rubing, the unique rituals of New Year's celebrations at 10.17 am at the Hendala Purana Rajamaha Viharaya, Wattala.
+
+Also, the last Subhasa ritual of the Sinhala and Tamil New Year celebrations will be held on April 18. The Ministry of Indigenous Medicine has named that tomorrow called 'Murunga Day'. That day, we urge all people to plant all the people in their garden, the most nutritious and more medicinal.
+
+It has also decided to provide drumsticks to the ritual of oil and tree planting for the head.
+
+...
+
+[Data](articles/d2ebc590.json)
+
+[Extended Data](ext_articles/d2ebc590.ext.json)
+
+---
+
 ### Signal lamp for the railway crossing of the two lives
 
 *2024-04-05 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180473) · `ta`
@@ -69,32 +95,6 @@ In this backdrop, Minister Douglas Devananda has formally launched the operation
 [Data](articles/b9de0e1f.json)
 
 [Extended Data](ext_articles/b9de0e1f.ext.json)
-
----
-
-### National Oil Rubbing Ceremony on April 15
-
-*2024-04-05 02:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180457) · `ta`
-
-The National Oil Rubbing Ceremony, part of Tamil and Sinhala New Year celebrations, is scheduled for April 15 at 10.17 am. The Ministry of Indigenous Medicine and Ayurvedic Department will also hold the Ayurex 2024 Exhibition from May 3-5, focusing on Ayurvedic goods and centers.
-
-🟩
-
-Indigenous Medical Minister Sisira Jayakody said that the National Festival of Oil Rubbing, one of the auspicious events of the Tamil and Sinhala New Year celebrations, will be held on April 15 at 10.17 am.
-
-Indigenous Medical Minister Sisira Jayakody made this statement at a media briefing held at the Presidential Media Center on Thursday (04).
-
-The Ministry of Indigenous Medicine and Ayurvedic Department has organized the National Festival of Oil Rubing, the unique rituals of New Year's celebrations at 10.17 am at the Hendala Purana Rajamaha Viharaya, Wattala.
-
-Also, the last Subhasa ritual of the Sinhala and Tamil New Year celebrations will be held on April 18. The Ministry of Indigenous Medicine has named that tomorrow called 'Murunga Day'. That day, we urge all people to plant all the people in their garden, the most nutritious and more medicinal.
-
-It has also decided to provide drumsticks to the ritual of oil and tree planting for the head.
-
-...
-
-[Data](articles/d2ebc590.json)
-
-[Extended Data](ext_articles/d2ebc590.ext.json)
 
 ---
 
@@ -1820,6 +1820,8 @@ From learning of the incident, I have seen suicide from two days, but suddenly I
 
 *2024-04-04 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98427/sacred-lord-buddha-relics-from-sri-lanka-presented-to-dalai-lama) · `en`
 
+#WATCH | Himachal Pradesh: Most Venerable Waskaduwe Mahindawamsa Nayaka Thero from of Kapilavastu Rajaguru Sri Sbhuthi Maha Vihara, Waskaduwa, Sri Lanka offers Gautama Buddha’s sacred relic to His Holiness the Dalai Lama.The Kapilavastu relics hold immense historical and… pic.twitter.com/U4Gri76RYv— ANI (@ANI) April 4, 2024
+
 Lord Buddha’s sacred Kapilavastu relics, situated at a holy temple in Sri Lanka, have been offered to the Dalai Lama on Thursday morning, the office of Dalai Lama said in a statement.
 
 The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa, a Buddhist temple in Sri Lanka.
@@ -1827,8 +1829,6 @@ The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa
 Notably, the Kapilavastu relics hold immense historical and spiritual significance, connecting the devotees to the profound legacy of Lord Buddha.
 
 The Sri Subhuthi Maha Viharaya in Waskaduwa houses 21 relics of the Lord Buddha.
-
-Waskaduwe Mahindawansa Maha Nayaka Thero is the custodian of these precious Kapilavastu relics, which have been preserved and protected for generations till now at Sri Subhuthi Maha Viharaya in Waskaduwa, Sri Lanka.
 
 ...
 

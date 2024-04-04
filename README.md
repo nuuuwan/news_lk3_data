@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 19:03:19**
+As of **2024-04-04 19:34:35**
 
 ## Newspaper Stats
 
-*Scraped **17,168** Articles*
+*Scraped **17,171** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 1,449
 tamilmirrorlk | 2,034
 adaderanalk | 2,061
 virakesarilk | 2,496
-dailymirrorlk | 2,635
-adaderanasinhalalk | 2,775
+dailymirrorlk | 2,637
+adaderanasinhalalk | 2,776
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,167 (100.0%) of 17,168 articles have been extended.
+17,171 (100.0%) of 17,171 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### Several new appointments approved
+
+*2024-04-04 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195308) · `si`
+
+The Committee on High Posts approved several new appointments, including Mr. Perera as Sri Lankan Ambassador in Poland, Ms. Dharmasena in Thailand, and Ms. Ponoporuru in Myanmar. New Secretaries for Transport and Fisheries were also appointed.
+
+🟩
+
+The Committee on High Posts on the High Courts in Parliament recently to appoint two of the Ministry Secretaries and two Establishments Chairperson of the Ministry and two Establishments Chairperson.
+
+Accordingly, the new Sri Lankan Ambassador of Vietnam. Mr. Perera, as the new Sri Lankan Ambassador in Poland, TP. Ms. Dharmasena as the new Sri Lankan Ambassador in Thailand. PAP as Mrs. Edirisinghe and Myanmar. Approval has been approved by Ms. Ponoporuru.
+
+And the new Secretary to the Ministry of Transport and Highways (Engineering) RG. Mr. Rubasinghe appoints and the new Secretary of the Ministry of Fisheries. The appointment of Somaratne has been given approval to appoint.
+
+The approval of the Committee on High Posts as the new Chairman of the Sri Lanka Transport Board (SLTB) is the new Chairman of the Ceylon Industrial Development Board.
+
+◼️
+
+[Data](articles/11c00421.json)
+
+[Extended Data](ext_articles/11c00421.ext.json)
+
+---
+
+### President inaugurates Ratnapura Gem Tower
+
+*2024-04-04 18:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/President-inaugurates-Ratnapura-Gem-Tower/110-280195) · `en`
+
+The International Gem and Jewellery Trade Centre, known as the Ratnapura Gem Tower, was inaugurated this morning (04) by President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/21f25645.json)
+
+[Extended Data](ext_articles/21f25645.ext.json)
+
+---
 
 ### SLFP internal crisis intensifies: Sirisena responds to injunction over CBK’s plaint
 
@@ -47,6 +85,8 @@ The former President also said that he has not been officially informed of the o
 ...
 
 [Data](articles/cdf490a4.json)
+
+[Extended Data](ext_articles/cdf490a4.ext.json)
 
 ---
 
@@ -75,6 +115,26 @@ It has been revealed that a concrete tea estate had been taken to a development 
 [Data](articles/df1d005f.json)
 
 [Extended Data](ext_articles/df1d005f.ext.json)
+
+---
+
+### Court orders CID to investigate credibility of Maithripala’s statement
+
+*2024-04-04 18:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-orders-CID-to-investigate-credibility-of-Maithripalas-statement/108-280194) · `en`
+
+Colombo, April 04 (Daily Mirror) -  The Maligakanda Magistrate's Court today ordered the CID to investigate into the credibility of former President Maithripala Sirisena's controversial revelation regarding the Easter Sunday attacks.
+
+Magistrate Lochani Abeywickrema ordered the CID that the progress of the investigation regarding this revelation be submitted to court on May 10.
+
+On April 03, former President Sirisena, through his lawyer informed Maligakanda Magistrate's Court that he will not provide a confidential statement before the Magistrate in connection with his controversial revelation regarding the Easter Sunday attacks.
+
+Court had earlier directed the former President to appear before court on April 4 following a request made by the Criminal Investigations Department (CID).
+
+...
+
+[Data](articles/f9aa5a79.json)
+
+[Extended Data](ext_articles/f9aa5a79.ext.json)
 
 ---
 
@@ -656,8 +716,6 @@ From learning of the incident, I have seen suicide from two days, but suddenly I
 
 *2024-04-04 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98427/sacred-lord-buddha-relics-from-sri-lanka-presented-to-dalai-lama) · `en`
 
-#WATCH | Himachal Pradesh: Most Venerable Waskaduwe Mahindawamsa Nayaka Thero from of Kapilavastu Rajaguru Sri Sbhuthi Maha Vihara, Waskaduwa, Sri Lanka offers Gautama Buddha’s sacred relic to His Holiness the Dalai Lama.The Kapilavastu relics hold immense historical and… pic.twitter.com/U4Gri76RYv— ANI (@ANI) April 4, 2024
-
 Lord Buddha’s sacred Kapilavastu relics, situated at a holy temple in Sri Lanka, have been offered to the Dalai Lama on Thursday morning, the office of Dalai Lama said in a statement.
 
 The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa, a Buddhist temple in Sri Lanka.
@@ -665,6 +723,8 @@ The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa
 Notably, the Kapilavastu relics hold immense historical and spiritual significance, connecting the devotees to the profound legacy of Lord Buddha.
 
 The Sri Subhuthi Maha Viharaya in Waskaduwa houses 21 relics of the Lord Buddha.
+
+Waskaduwe Mahindawansa Maha Nayaka Thero is the custodian of these precious Kapilavastu relics, which have been preserved and protected for generations till now at Sri Subhuthi Maha Viharaya in Waskaduwa, Sri Lanka.
 
 ...
 
@@ -2231,79 +2291,5 @@ The second phase of the excavation was started on 20.11.2023 and a consecutive d
 [Data](articles/3f040036.json)
 
 [Extended Data](ext_articles/3f040036.ext.json)
-
----
-
-### ’Dunhinda Odyssey’ to be launched tomorrow
-
-*2024-04-04 11:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dunhinda-Odyssey-to-be-launched-tomorrow/108-280173) · `en`
-
-Colombo, April 4 (Daily Mirror) - While marking 100 years since the beginning of the train service between Colombo and Badulla, the Railways Department is to launch a special train, 'Dunhinda Odyssey', tomorrow.
-
-The train is scheduled to leave from Colombo Fort at 6.30 a.m.
-
-After the inauguration of the train, the Dunhinda Odyssey will be reserved for passenger transport, and the fare for a ticket will be Rs. 8,000. The train consists of four cabins with 44 seats each; it also includes three second-class cabins and a third-class cabin with a canteen.
-
-In addition to the above trains, the Railways Department has arranged for another special train to travel to Badulla on that day for the respective celebrations.
-
-That is the train with special viewing facilities called "Calypso" without round covers. This train service too is scheduled to be inaugurated by Transport and Highways Minister Bandula Gunawardena.
-
-...
-
-[Data](articles/7d2d3fbd.json)
-
-[Extended Data](ext_articles/7d2d3fbd.ext.json)
-
----
-
-### Two suspects in Dubai killed in heart attacks on the same day
-
-*2024-04-04 11:26:36* · [`adalk`](https://www.ada.lk/breaking_news/ඩුබායිහි-සේවය-කළ-ආරච්චිකට්ටුවේ-පුද්ගලයින්-දෙදෙනෙකු-එකම-දිනයකදි-හෘදයාබාධවලින්-ජීවිතක්ෂයට/11-408944) · `si`
-
-Two individuals in Dubai, Arachchikattuwa Kirikalcalketa M. G. and Ataanvilwatta, a 42-year-old father of two, died of heart attacks. They were residents of Kurunegala, working in Dubai for four years. Their sudden deaths have sparked an investigation by the Sri Lankan government.
-
-🟩
-
-Two persons who served in Dubai in two areas of the Arachchikattuwa Police Division were killed on the 30th of the night.
-
-The deceased has been identified as Arachchikattuwa Kirikalcalketa. M. G. A resident of the garden. M. Sandun Madusanki, a 28 year old unmarried youth and Ataanvilwatta, a 343 resident of 343, a 42-year-old father of two.
-
-Relatives say that these people have gone to work in Dubai from a public agency in Kurunegala, four years ago.These people have been kept in connection with their relatives with their relatives and have been involved with their relatives, but they have been in a sick situation a few days ago.
-
-Hanguage sources say that the patient was taken up at the hospital hospital, said he had died after being taken to the hospital hospital.. Relatives say that the Sri Lankan government intervenes in the deaths and bring a properly fair investigation into and find out the reasons for death.
-
-...
-
-[Data](articles/8a8c6a7c.json)
-
-[Extended Data](ext_articles/8a8c6a7c.ext.json)
-
----
-
-### A man was arrested and released on bail with deer meat in Puttalam
-
-*2024-04-04 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180395) · `ta`
-
-A man in Puttalam was arrested for poaching deer meat, seized along with 15 kg of meat, a deer head, and other items. He was released on bail, and the case is postponed until the 30th.
-
-🟩
-
-A person has been arrested by the Puttalam Wildlife Control Division with deer meat on Wednesday morning (03) in the Kalladi Me Oya River in Puttalam.
-
-The Wildlife Department has raided the area on the information available to the Department of Wildlife Department that the deer are hunting down the meat.
-
-One person was arrested and 15 kg of meat, deer head, mangol, scales and blades were seized.
-
-Wildlife Control Division said the suspect was from Kalladi area.
-
-The arrested suspect and the seized meat and other items were handed over to the Puttalam court yesterday.
-
-Mohamed Iqbal, who served as a reply, has been ordered to be released on bail and the case has been postponed until the 30th.
-
-◼️
-
-[Data](articles/d6b9621d.json)
-
-[Extended Data](ext_articles/d6b9621d.ext.json)
 
 ---

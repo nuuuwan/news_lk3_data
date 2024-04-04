@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 15:51:55**
+As of **2024-04-04 16:03:31**
 
 ## Newspaper Stats
 
-*Scraped **17,130** Articles*
+*Scraped **17,134** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,98 +17,206 @@ islandlk | 943
 economynextcom | 944
 adalk | 1,444
 tamilmirrorlk | 2,034
-adaderanalk | 2,055
+adaderanalk | 2,057
 virakesarilk | 2,486
 dailymirrorlk | 2,632
-adaderanasinhalalk | 2,764
+adaderanasinhalalk | 2,766
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,123 (100.0%) of 17,130 articles have been extended.
+17,130 (100.0%) of 17,134 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### தமிழ், சிங்கள புத்தாண்டு காலத்தில் அத்தியாவசிய சேவைகளை சீராக செயற்படுத்துமாறு ஜனாதிபதி பணிப்பு
+### Sacred lord Buddha relics from Sri Lanka presented to Dalai Lama
+
+*2024-04-04 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98427/sacred-lord-buddha-relics-from-sri-lanka-presented-to-dalai-lama) · `en`
+
+Lord Buddha’s sacred Kapilavastu relics, situated at a holy temple in Sri Lanka, have been offered to the Dalai Lama on Thursday morning, the office of Dalai Lama said in a statement.
+
+The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa, a Buddhist temple in Sri Lanka.
+
+Notably, the Kapilavastu relics hold immense historical and spiritual significance, connecting the devotees to the profound legacy of Lord Buddha.
+
+The Sri Subhuthi Maha Viharaya in Waskaduwa houses 21 relics of the Lord Buddha.
+
+Waskaduwe Mahindawansa Maha Nayaka Thero is the custodian of these precious Kapilavastu relics, which have been preserved and protected for generations till now at Sri Subhuthi Maha Viharaya in Waskaduwa, Sri Lanka.
+
+...
+
+[Data](articles/98301144.json)
+
+---
+
+### පාර්ලිමේන්තුවෙන් මැතිවරණ කොමිසමට දැනුම්දීමක්
+
+*2024-04-04 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195297) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ධුරයක පුරප්පාඩුවක් පවතින බව පාර්ලිමේන්තුව මැතිවරණ කොමිෂන් සභාවට දන්වා තිබේ.
+
+අනුරාධපුර මැතිවරණ කොට්ඨාසයේ පාර්ලිමේන්තු මන්ත්‍රී එච්. නන්දසේන මහතාගේ හදිසි මියයෑම හේතුකොට ගෙන 2024 අප්‍රේල් 04 වනදා සිට 09 වැනි පාර්ලිමේන්තුවේ මන්ත්‍රී ධුරයක පුරප්පාඩුවක් ඇතිවී තිබෙන බව එලෙස පාර්ලිමේන්තුවේ වැඩබලන මහලේකම් චමින්ද කුලරත්න මහතා විසින්  මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා වෙත ලිපියක් යොමු කරමින් දන්වා ඇත.
+
+1981 අංක 1 දරන පාර්ලිමේන්තු මැතිවරණ පනතේ 64(1) වගන්තිය ප්‍රකාරව මෙම දැනුම්දීම සිදුකරන බවද එම  ලිපිය මගින් වැඩබලන මහලේකම්වරයා දන්වා සිටී.
+
+◼️
+
+[Data](articles/fb8429ae.json)
+
+---
+
+### තරුණයෙකු ඝාතනයෙන් පසුව ගාල්ලේ ගමක් කැලඹෙයි
+
+*2024-04-04 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195296) · `si`
+
+ගාල්ල දංගෙදර ප්‍රදේශයේදී තියුණු ආයුධයකින් පහරදී පුද්ගලයෙකු ඝාතනය කර ඇති බව පොලීසිය පවසයි.
+
+මෙලෙස ඝාතනයට ලක්ව ඇත්තේ වයස අවුරුදු 34ක දංගෙදර ප්‍රදේශයේ පදිංචි පුද්ගලයෙකි.
+
+පොලීසිය පවසන්නේ ගාල්ල දංගෙදර ඩිඩිස් වත්ත ප්‍රදේශයේදී මෙම ඝාතනය සිදුව ඇති බවය.
+
+දැනට සිදුකළ පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත්තේ පෞද්ගලික ආරවුලක් දුරදිගයාම හේතුවෙන් මෙම ඝාතනය සිදුව ඇති බවටය.
+
+මේ අතර ඝාතනය සම්බන්ධයෙන් සැකපිට වයස අවුරුදු 20ත් 54ත් අතර වයස්වල පසුවන සිව්දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+මෘත ශරීරය කරාපිටිය රෝහලේ තැන්පත් කර ඇති අතර ගාල්ල පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/80864b0c.json)
+
+---
+
+### Weerasena Gamage tipped to fill Nandasena’s vacant MP seat
+
+*2024-04-04 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98426/weerasena-gamage-tipped-to-fill-nandasenas-vacant-mp-seat-) · `en`
+
+Sri Lanka Podujana Peramuna’s Weerasena Gamage is expected to fill the parliamentary seat left vacant following the passing of Anuradhapura District SLPP MP H. Nandasena this morning (04).
+
+SLPP Parliamentarian Nandasena had passed away due to a sudden illness this morning at the age of 69, family members confirmed to Ada Derana.
+
+He was a former member of Padaviya Pradeshiya Sabha and North Central Provincial Council where he held a provincial ministerial portfolio.
+
+He was dismissed from his ministerial position in May 2017 after attending a Joint Opposition May Day rally.
+
+He contested the 2020 parliamentary election as a candidate of the Sri Lanka People’s Freedom Alliance in Anuradhapura District and was elected to the Parliament of Sri Lanka.
+
+Weerasena is reportedly next in line on the Sri Lanka Podujana Peramuna (SLPP) list for the Anuradhapura District.
+
+...
+
+[Data](articles/271d2c90.json)
+
+---
+
+### President of Tamil and Sinhala New Year
 
 *2024-04-04 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180437) · `ta`
 
-எதிர்வரும் தமிழ், சிங்கள புத்தாண்டு விடுமுறை காலத்தில் பொதுமக்களுக்கு அசௌகரியம் ஏற்படாத வகையில் அத்தியாவசிய சேவைகைள் மற்றும் ஏனைய அரச சேவைகளை தொடர்ச்சியாக முன்னெடுத்துச் செல்வதற்கான சரியான வேலைத்திட்டத்தை  தயாரிக்குமாறு ஜனாதிபதி அதிகாரிகளுக்கு அறிவுறுத்தியுள்ளார்.
+The President has directed authorities to plan essential services for Tamil and Sinhala New Year, ensuring public comfort and safety.
 
-ஜனாதிபதி அலுவலகம், பிரதமர் அலுவலகம், பாதுகாப்பு, சுகாதாரம், போக்குவரத்து, மின்சாரம் உள்ளிட்ட துறைசார் அமைச்சுக்கள் இணைந்து குறித்த வேலைத்திட்டத்தை தயாரிக்க வேண்டியது அவசியமெனவும் ஜனாதிபதி அறிவுறுத்தியுள்ளார்.
+🟩
 
-அதேபோல், எதிர்வரும் பண்டிகைக் காலத்தில் நாட்டில் பொதுமக்களின் பாதுகாப்பை உறுதிப்படுத்தவும் சட்டம் ஒழுங்கை பாதுகாப்பதற்குமான விரிவான வேலைத்திட்டத்தை செயற்படுத்துமாறும் ஜனாதிபதி பாதுகாப்புத் துறையினருக்கு பணிப்புரை விடுத்துள்ளார்.
+The President has instructed the authorities to prepare a proper program to continue to carry out essential services and other public services in order to not cause public discomfort during the upcoming Tamil and Sinhala New Year holidays.
+
+The President also advised that it is necessary to prepare a program for the Ministries including the President's Office, the Prime Minister's Office, the Security, the Health, the Transport and the Electricity.
+
+Similarly, the President has issued a directive to the Defense Department to implement a comprehensive program to ensure the safety of civilians in the country and protect law and order in the coming festive season.
 
 ◼️
 
 [Data](articles/74e8ee92.json)
 
+[Extended Data](ext_articles/74e8ee92.ext.json)
+
 ---
 
-### IOC දැවැන්ත පියවරක් තබයි
+### IOC sets a massive step
 
 *2024-04-04 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195295) · `si`
 
-ස්මෝල් මොඩියුලර් රියැක්ටර්ස් හෙවත් SMR ලෙස හඳුන්වන කුඩා න්‍යෂ්ටික ප්‍රතික්‍රියාකාරක සුතිත්‍ය නැතහොත් සුපිරිසිදු බලශක්තිය නිෂ්පාදනය කිරීම අද ජනප්‍රිය ප්‍රභවයක් බවට පත්වී තිබේ.
+IOC plans to use SMRs in oil refineries, aiming to reduce petroleum's environmental impact. India's government supports this, aiming to make India a leader in eco-friendly energy. Russia and China lead in SMR construction, with India focusing on policy changes for private sector management.
 
-ඒ, ඛනිජ තෙල් භාවිතයේදී පරිසරයට ඇතිවන බලපෑම එතරම් හිතකර නොවන පසුබිමක් තුළය.
+🟩
 
-මේ නිසා මෙම ඛනිජ තෙල් නිෂ්පාදන සමාගම් තම නිෂ්පාදන ක්‍රියාවලිය පරිසර හිතකාමී අන්දමින් පවත්වාගෙන යාහැකි ආකාරය ගැන දැන් අවධානය යොමු කර තිබේ.
+Small nuclear reactors, known as Small Modular Ractors or SMR, is a popular source of popularity today.
 
-අසල්වැසි ඉන්දියාවේ අප සැවොම දන්නා IOC සමගම හෙවත් ඉන්දීය තෙල් සමාගම එවැනි පියවරකට එළැඹ ඇත.
+It is in a backdrop that the environment is unhealthy in the environmental impact on petroleum.
 
-ඔවුන් තමන්ගේ තෙල් පිරිපහදුවලට බලශක්තිය ලබාගැනීම සඳහා SMR නැත්නම් කුඩා ප්‍රමාණයේ න්‍යෂ්ටික බලාගාර යොදාගැනීමට සැරසෙන බව බ්ලූම්බර්ග් ව්‍යාපාරික වෙබ් අඩවිය අනාවරණය කරයි.
+As a result, the petroleum production companies have now focused on how to maintain their production process.
 
-ඒ සඳහා ඉන්දියාවේ න්‍යෂ්ටික බලශක්ති නිෂ්පාදනයේ ඒකාධිකාරය හිමි නියුක්ලියර් පවර් කෝපරේෂන් ඉන්දියා සමාගම සමග සාකච්ඡා ආරම්භ කර ඇති බවද වාර්තා වෙයි.
+IOC, who knows all of our neighboring India, is situated in the Indian Oil Company.
 
-ඒවගේම ඉන්දීය රජය දැන් මෙම කුඩා ප්‍රමාණයේ න්‍යෂ්ටික බලාගාර පෞද්ගලික අංශයේ කළමනාකාරීත්වයට ලබාදීමට තීරණය කර තිබේ.
+Bloomberg business website reveals that they are planning to use SMR or small nuclear power plants to get their oil refineries.
 
-ඒ ඉන්දියාව පරිසර හිතකාමී බලශක්ති නිෂ්පාදනයේ ප්‍රමුඛයා බවට පත්වීමේ අරමුණෙනි.
+It is also reported that the NUXLAER Power Corporation India has begun talks with the monopoly of nuclear power production.
+
+The government has now decided to provide the public to the private sector management of this small number of nuclear power plants.
+
+It is in the objective of making India leader of eco-friendly energy production.
+
+Currently Russia and China is taking the lead in construction of this kind of nuclear power plants or SMR.
 
 ...
 
 [Data](articles/e02a6eb8.json)
 
+[Extended Data](ext_articles/e02a6eb8.ext.json)
+
 ---
 
-### மீண்டும் நவீன ஆயுதமேந்தும் யஷ்
+### Again the modern weapon yash
 
 *2024-04-04 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180427) · `ta`
 
-'கே ஜி எஃப்' படத்தின் மூலம் இந்திய திரையுலகின் ஒட்டுமொத்த கவனத்தையும் ஈர்த்த நட்சத்திர நடிகர் யஷ். இப்படம் வெளியாகி பல மாதங்களைக் கடந்த பின்னரும் யஷ் நடிக்கும் புதிய திரைப்படம் குறித்த அறிவிப்பு வெளியாகாமல் இருந்தது.
+Yash, star of 'K J F', is set to star in 'Taxic', directed by Malayalam actress and director Keith Mohan Das. The film, produced by KVN Productions, will begin shooting this month. Yash carries a modern weapon, similar to 'KGF', and is expected to release worldwide on April 10 next year.
 
-புதிய படத்தில் நடிக்க ஊதியமாக இந்திய மதிப்பில் 100 கோடி ரூபாய் வேண்டும் என்று அவர் நிபந்தனை விதித்தது தான் காரணம் என்கிறார்கள் திரையுலகினர்.
+🟩
 
-அதனைத் தொடர்ந்து கடந்த சில மாதங்களுக்கு முன் மலையாள நடிகையும், இயக்குநருமான கீது மோகன் தாஸ் இயக்கத்தில் உருவாகும் 'டாக்ஸிக்' எனும் திரைப்படத்தில் யஷ் நடிப்பதாக அறிவிப்பு வெளியானது.
+Star Actor Yash who has attracted the overall attention of the Indian film industry through 'K J F'. Many months after the release of the film, Yash's new film was not announced.
 
-இந்த அறிவிப்பு ரசிகர்களுக்கு ஆச்சரியத்தை அளித்தது. அதன் பிறகு 'டாக்ஸிக்' படத்தை பற்றிய எந்த புதிய தகவலும் வெளியாகாமல் இருந்தது. இதனால் யஷ்ஷின் ரசிகர்கள் பொறுமை இழந்தனர். இந்நிலையில் 'டாக்ஸிக்' படத்தை பற்றிய புதிய தகவல்கள் வெளியாகி இருக்கிறது.
+The filmmakers say that he was conditioned to have Rs 100 crore in India as a salary to act in the new film.
 
-லையர்'ஸ் டயஸ்', 'மூத்தோன் ' என சர்வதேச விருதுகள் பெற்ற திரைப்படத்தை இயக்கிய இயக்குநரும், நடிகையுமான கீது மோகன் தாஸ் இயக்கத்தில் தயாராகும் 'டாக்ஸிக்' திரைப்படத்தில் 'ராக்கிங் ஸ்டார்' யஷ் கதையின் நாயகனாக நடிக்கிறார்.
+Following this, it was announced that Yash will be starring in 'Taxic' directed by Malayalam actress and director Keith Mohan Das.
+
+This announcement was a surprise to fans. Since then there has been no new information about the 'Taxic' image. Thus Yash's fans were impatient. In this case, new information has been revealed about the film 'Taxic'.
+
+Directed by director and actress Geetu Mohan Das, directed by Lyer's Dias, 'Senthon', is playing the rocking star Yash Star in 'Taxic'.
 
 ...
 
 [Data](articles/100127ef.json)
 
+[Extended Data](ext_articles/100127ef.ext.json)
+
 ---
 
-### கதையின் நாயகனாக அவதாரமெடுக்கும் நடிகர் சூப்பர் குட் சுப்பிரமணி
+### Actor Super Good Subramani
 
 *2024-04-04 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180429) · `ta`
 
-தமிழ் திரையுலகில் சிறிய கதாபாத்திரங்களில் நடிக்க தொடங்கி, சினிமா மீதுள்ள காதலால் குணச்சித்திர நடிகராக உயர்ந்து, ரசிகர்களின் மனதில் மட்டுமல்லாமல் புதிய இளம் படைப்பாளிகளின் மனதிலும் இடம் பிடித்தவர் சூப்பர் குட் சுப்பிரமணி.
+Super Good Subramani, a rising Tamil actor, stars in 'Paraman', a film that has garnered attention. Despite a small investment, 'Calles', another film by director Sabaris, was a commercial and critical success, boosting 'Paraman's' release.
 
-ஒரு சில காட்சிகளில் மட்டுமே குணச்சித்திர நடிப்பினை வெளிப்படுத்தி வந்த இவருக்கு 'பரமன்' எனும் திரைப்படத்தின் மூலம் கதையின் நாயகனாக நடிக்கும் வாய்ப்பு கிடைத்திருக்கிறது.
+🟩
 
-'கால்ஸ்' எனும் திரைப்படத்தை இயக்கிய இயக்குநர் ஜெ. சபரீஸ் இயக்கத்தில் உருவாகும் 'பரமன்' எனும் திரைப்படத்தில் சூப்பர் குட் சுப்பிரமணி, ஹலோ கந்தசாமி, வையாபுரி, வி ஜே அர்ச்சனா, மீசை ராஜேந்திரன், அசோக் தமிழ், சத்யா, ஜெயச்சந்திரன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். சிபி சதாசிவம் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு தமீம் அன்சாரி இசையமைத்திருக்கிறார்.
+Super Good Subramani, who started playing small roles in the Tamil film industry, rising as a characteristic actor in the cinema, not only the minds of the fans but also the new young creators.
 
-விவசாயிகளின் வாழ்வாதாரத்தை மையப்படுத்தி உருவாகி இருக்கும் இந்த திரைப்படத்தை இன்ஃபீனிட் பிக்சர்ஸ் எனும் பட நிறுவனம் சார்பில் இயக்குநர் ஜெ. சபரிஸ் தயாரித்திருக்கிறார்.
+Only a few scenes, he has the opportunity to play the hero of the story through the film 'Paraman'.
+
+Director J. Super Good Subramani, Hello Kandaswamy, Vaiyapuri, V.R Archana, Myesa Rajendran, Ashok Tamil, Satya, Jayachandran and many others in the film 'Paraman' directed by Sabaris. Tamim Ansari has composed the film, which has been recorded by CB Sadasivam.
+
+Director J.. Sabaris has produced.
+
+The shooting of the film is completed and the final phase of the work is going on. First Look has been released and has been a great welcome. The film is expected to be released soon.
 
 ...
 
 [Data](articles/bdcf055c.json)
+
+[Extended Data](ext_articles/bdcf055c.ext.json)
 
 ---
 
@@ -127,6 +235,8 @@ Additionally, for the upcoming Sinhala and Tamil New Year season, the President 
 ◼️
 
 [Data](articles/f47299e4.json)
+
+[Extended Data](ext_articles/f47299e4.ext.json)
 
 ---
 
@@ -204,7 +314,7 @@ Director S.. U. 'Seyan' Vikram, S. J.. Surya, Suraj Venjaramudu, leading the lea
 
 The first application under the newly enacted Online Safety Act was made to the Colombo Chief Magistrate’s Court and Court issued a conditional order preventing respondent parties from communicating alleged false information against former Chairman of the Public Utilities Commission (PUCSL) Janaka Ratnayake.
 
-Colombo Chief Magistrate Prasanna Alwis issued a conditional order in favour of the Petitioner Janaka Ratnayake in terms of Section 24 (1) and Section 24 (2) of the Online Safety Act No. 09 of 2023 and directed that the order be communicated to the Respondents Gayathri Bimba, Janaka Rajapaksha, Oshala Herath and several others by electronic means as provided for in Section 24 (4) of the Act.
+Colombo Chief Magistrate Prasanna Alwis issued a conditional order in favour of the Petitioner Janaka Ratnayake in terms of Section 24 (1) and Section 24 (2) of the Online Safety Act No. 09 of 2024 and directed that the order be communicated to the Respondents Gayathri Bimba, Janaka Rajapaksha, Oshala Herath and several others by electronic means as provided for in Section 24 (4) of the Act.
 
 ...
 
@@ -510,17 +620,23 @@ The summons were issued by a three-member bench presided over by Chief Justice J
 
 ---
 
-### නිදහස් පක්ෂ සභාපතිධුරය දැරීමට එරෙහිව මෛත්‍රීට අතුරු තහනමක්
+### Maithri suspects against being president of the Freedom Party
 
 *2024-04-04 14:18:26* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂ-සභාපතිධුරය-දැරීමට-එරෙහිව-මෛත්‍රීට-අතුරු-තහනමක්/11-408951) · `si`
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට ශ්‍රී ලංකා නිදහස් පක්ෂයේ (ශ්‍රීලනිප) සභාපතිවරයා ලෙස කටයුතු කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය වාරණ නියෝගයක් නිකුත් කළේය.
+The Colombo District Court has issued an injunction preventing former President Maithripala Sirisena from serving as Chairman of the SLFP, following a petition by former President Chandrika Kumaratunga.
 
-හිටපු ජනාධිපතිනි චන්ද්‍රිකා කුමාරතුංග මහත්මිය ගොනු කළ පෙත්සමකට අනුව කොළඹ දිසා අධිකරණ විනිසුරු සඳුන් විතාන මහතා මෙම අද (04දා) නියෝගය කළේය.
+🟩
+
+The Colombo District Court issued an enjoining order preventing former President Maithripala Sirisena to serve as Chairman of the SLFP (SLFP).
+
+According to a petition filed by former President Chandrika Kumaratunga, Colombo District Judicial Sandun Withana issued this today (04).
 
 ◼️
 
 [Data](articles/216868d4.json)
+
+[Extended Data](ext_articles/216868d4.ext.json)
 
 ---
 
@@ -2151,101 +2267,5 @@ Additionally, another train has broken down between the Yaththalgoda and Ambepus
 [Data](articles/71d02c42.json)
 
 [Extended Data](ext_articles/71d02c42.ext.json)
-
----
-
-### Sudden decision from Ministry of Health
-
-*2024-04-04 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195277) · `si`
-
-The Ministry of Health is accelerating its investigation into fake doctors and medical centers, following complaints. Doctors and private institutions must register with the Medical Council at the provincial level. The Director General of Health Services has ordered investigations, and the Ministry plans to take legal action against offenders.
-
-🟩
-
-The Ministry of Health has decided to conduct an accelerated investigation into fake doctors and fake medical centers in the country.
-
-It is reported that the steps have been taken following complaints received regarding fake doctors and medical centers.
-
-Doctors should register the Medical Council and private medical institutions are mandatory for registration at provincial level.
-
-However, there have been complaints that have been registered and medical institutions have been reported island wide.
-
-The Director General of Health Services has instructed the Provincial and District Health Authorities to investigate such doctors and medical institutions.
-
-The Ministry of Health has instructed the Ministry of Health to take strict legal action against such institutions and doctors.
-
-The Ministry of Health has also requested the public to take information on false doctors without qualifying.
-
-◼️
-
-[Data](articles/47b5962e.json)
-
-[Extended Data](ext_articles/47b5962e.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-04-04 08:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98410/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Department of Meteorology says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, North-western and Southern provinces after 2.00 p.m.
-
-Showers or thundershowers may occur at a few places in Uva province during the afternoon or night, it said.
-
-Fairly heavy showers about 75 mm are likely at some places in Western, Sabaragamuwa and Southern provinces.
-
-Misty conditions can be expected at some places in Western, Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/e81fa893.json)
-
-[Extended Data](ext_articles/e81fa893.ext.json)
-
----
-
-### Accidents exceeding ten thousand deaths a year
-
-*2024-04-04 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195276) · `si`
-
-Sri Lanka reports 32-35 annual deaths from accidents, including drowning. Over 10,000 deaths occur annually, with 4 deaths every 3 hours. Accidents are a major health issue, especially among 15-44-year-olds, impacting the economy. The IGP has been ordered to boost operations in April.
-
-🟩
-
-Due to 23 to 35 deaths due to accidents, 32 and 35 deaths have been reported in Sri Lanka.
-
-He says that more than 10,000 people suffer due to annual accidents.
-
-Addressing a media bureau of the Health Promotion Bureau, a media briefing in the Health Promotion Bureau has been speaking due to accidents, including accidents, drowning accidents.
-
-"The largest number of people who are receiving treatment at government hospitals in Sri Lanka involves. In fact, one of the population of Sri Lanka or 6 people in Sri Lanka, one of the 6 or 6 people perform a harassment of medical treatment every year. Over 10,000 deaths die at approximately 10,000 deaths. It says we lose between 32 to 35 per day every day. It means we lose about 4 people at approximately 4 every 3 hours. Accidents are the main health problem in the age group of 15 to 44 years of contribution to the economy. "
-
-...
-
-[Data](articles/e99a1763.json)
-
-[Extended Data](ext_articles/e99a1763.ext.json)
-
----
-
-### Education Ministry to increase examiner allowances in two to three weeks
-
-*2024-04-04 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Education-Ministry-to-increase-examiner-allowances-in-two-to-three-weeks/108-280150) · `en`
-
-Colombo, April 4 (Daily Mirror) - The Education Ministry has decided to increase the allowances paid to examiners and those engaged in examination duties in the next two to three weeks.
-
-Addressing an event organized at the Temple Trees last evening to award letters of appointment to Graduate Teachers in the Western Province, Education Minister Susil Premajayantha said a committee will be appointed in this regard and a report called for.
-
-The allowances of examiners and those engaged in examination duties will be based on this report, the Minister added.
-
-At the ceremony, the Minister highlighted that at least 19,000 examiners are needed for the answer sheet evaluation process of the GCE Advanced Level (A/L) examination and at least 25,000 examiners for the 2024 GCE Ordinary Level (O/L) examination, which is scheduled to be held in May.
-
-◼️
-
-[Data](articles/9bdb9da6.json)
-
-[Extended Data](ext_articles/9bdb9da6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 17:03:23**
+As of **2024-04-04 17:18:13**
 
 ## Newspaper Stats
 
-*Scraped **17,147** Articles*
+*Scraped **17,150** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,77 +18,151 @@ economynextcom | 944
 adalk | 1,447
 tamilmirrorlk | 2,034
 adaderanalk | 2,059
-virakesarilk | 2,489
+virakesarilk | 2,490
 dailymirrorlk | 2,633
-adaderanasinhalalk | 2,769
+adaderanasinhalalk | 2,771
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,143 (100.0%) of 17,147 articles have been extended.
+17,147 (100.0%) of 17,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### කමිඳු මෙන්ඩිස්ට ICCයෙන් සුපිරිම තැනක්
+### මෛත්‍රී තීරණයක් ගනී
+
+*2024-04-04 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195302) · `si`
+
+තමන්ට ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරයේ කටයුතු කිරීම වළක්වාළමින් කොළඹ දිසා අධිකරණය අතුරු තහනම් නියෝගයක් නිකුත් කිරීම සම්බන්ධයෙන් ඉදිරියේදී අධිකරණය හමුවේ කරුණු දැක්වීමට බලාපොරොත්තු වන බව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පවසයි.
+
+අද කොළඹදී මාධ්‍ය වෙත අදහස් දක්වමින් ඒ මහතා මෙම අදහස් පළකළේය.
+
+අද දහවල් වෙනකොට දැනගන්න ලැබුණු දෙයක් තමයි චන්ද්‍රිකා බණ්ඩාරනායක මැතිණිය අධිකරණයට ගිහිල්ලා අතුරු තහනම් නියෝගයක් අරගෙන තියෙනවා මාව සභාපති ධුරයෙන් ඉවත්කිරීම සඳහා ලබන 18 වනදා දක්වා ඒ තහනම් නියෝගය ක්‍රියාත්මක වන බව මාධ්‍ය තුළින් මා දැක්කා. ඒ ඇරෙන්න තවම මේ වෙනකල් අධිකරණ නියෝගය සම්බන්ධයෙන් කඩදාසි කිසිවක් අපිට තවම ලැබිලා නෑ. ශ්‍රී නිදහස් පක්ෂ ඉතිහාසයේ මෙවැනි අභියෝග අලුත් දේවල් නෙවෙයි. චන්ද්‍රිකා බණ්ඩාරනායක මැතිණිය, කුමාරතුංග මහත්මයා, අනුර බණ්ඩාරනායක මහත්මයලා ඔය ඔක්කොම ශ්‍රී ලංකා නිදහස් පක්ෂයෙන් කැඩිලා ගිහිල්ලා අලුත් පක්ෂ හදාගෙන 1977න් පස්සේ බණ්ඩාරනායක මැතිනියගේ ප්‍රජා අයිතිය අහෝසි වුණාට පස්සේ ඒගොල්ලෝ වෙනම හැසිරිනු නිසා අපිට අවුරුදු 17ක් විපක්ෂයේ ඉන්න සිද්ධවුණා.
+
+...
+
+[Data](articles/d85a1316.json)
+
+---
+
+### இந்திய மீனவர்கள் 24 பேர் விடுதலை ; ஒருவருக்கு சிறை
+
+*2024-04-04 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180446) · `ta`
+
+கடந்ந மாதம் 21 ஆம் திகதி யாழ்ப்பாணம் - நெடுந்தீவு கடலில் வைத்து இலங்கை கடற்படையினரால் கைதுசெய்யப்பட 25 மீனவர்களில் 24 மீனவர்கள் 5 வருடங்களுக்கு ஒத்திவைக்கப்பட்ட 18 மாதங்கள் சிறை என்ற நிபந்தனையின் அடிப்படையில் விடுதலைசெய்யப்பட்டுள்ளனர்.
+
+யாழ்ப்பாணம் - ஊர்காவற்றுறை நீதிமன்றில் இன்று வியாழக்கிழமை (04) நீதவான் ஜெ.கஜநிதிபாலன் முன்னிலையில் வழக்கு எடுத்துக்கொள்ளப்பட்டபோதே இத்தீர்ப்பு வழங்கப்பட்டது.
+
+கடற்படையினரால் கைப்பற்றப்பட்ட 3 படகுகளில் 1படகினை செலுத்திவந்த படகோட்டியான ஒருவருக்கு 6 மாத சிறைத்தண்டனை வழங்கப்பட்டுள்ளது.
+
+ஒரு படகு தொடர்பான வழக்கு எதிர்வரும் 12 ஆம் திகதி ஜூன் மாதம் ஒத்திவைக்கப்பட்டுள்ளது. ஏனைய இரு படகுகளில் ஒரு படகின் உரிமையாளர் படகில் இருந்தமையாலும்,  மற்றைய படகின் உரிமையாளரின் மகன் குறித்த படகில் இருந்தமையாலும் அவர் தந்தையின் மருத்துவ சான்றிதழை சமர்ப்பித்து குற்றத்தினை ஒப்புக்கொண்டமையால் இரு படகுகளும் அரசுடமையாக்கப்பட்டன.
+
+◼️
+
+[Data](articles/64bad68f.json)
+
+---
+
+### පරිසර ගැටලු විසඳීමට නව වැඩපිළිවෙළක්
+
+*2024-04-04 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195301) · `si`
+
+පරිසර ගැටලු විසඳීමට ශ්‍රී ලංකා පොලීසිය සමග ඒකාබද්ධව නව වැඩසටහනක් ක්‍රියාත්මක කිරීමට මධ්‍යම පරිසර අධිකාරිය පියවර ගෙන තිබේ.
+
+පාරිසරික ගැටලු කඩිනමින් විසඳීම, පරිසර හානි සිදු නොකිරීමට මහජනතාව පෙළඹවීම මින් අපේක්ෂා කෙරේ.
+
+ශ්‍රී ලංකාවේ ඕනෑම ප්‍රදේශයක පරිසරයට හානිකර කටයුත්තක් සිදුවන අවස්ථාවක මධ්‍යම පරිසර අධිකාරියට ශ්‍රී ලංකා පොලීසිය සමග ඒකාබද්ධව ක්‍ෂණිකව ක්‍රියා කළ හැකි වැඩපිළිවෙළක් සැකසීමට අවශ්‍ය ප්‍රධාන කරුණු කෙරෙහි අද පැවැති සාකච්ඡාවේ දී අවධානය යොමුකර තිබේ.
+
+ඒ අනුව, මූලික අදියරේදී ප්‍රධාන වශයෙන් ප්‍රජා ඝෝෂා පාලනය, වාහන දුම් පරීක්ෂාව, වාහන නලා ශබ්ද පාලනය, පොලිතීන් මිශ්‍ර කසළ විවෘත පරිසරයේ පිළිස්සීම, නීතියෙන් තහනම් කළ පොලිතීන් වැටලීම්, කැලි කසළ ජල මාර්ග හා තෙත්බිම් ඇතුළු පරිසරයට මුදා හැරීම සහ නීතිවිරෝධී කැණීම් හා ගොඩකිරීම් සම්බන්ධ කටයුතු කෙරෙහි අවධානය යොමු කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/fd384a2e.json)
+
+---
+
+### Kamindu Mendis is a ICC super
 
 *2024-04-04 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195300) · `si`
 
-මාර්තු මාසයේ ලොව හොඳම ක්‍රිකට් ක්‍රීඩකයා තේරීමේ නාමයෝජනා අතරට ශ්‍රී ලංකා නවක පිතිකරු කමිඳු මෙන්ඩිස් ඇතුළත් කර ඇත.
+Kamindu Mendis, Sri Lanka's new batsman, is recognized as one of the world's best cricketers by the ICC. He scored centuries in the first two Tests against Bangladesh, contributing to Sri Lanka's victory with 3 wickets for 32 runs.
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ නිල වෙබ් අඩවියේ මේ පිළිබඳව නිල වශයෙන් සඳහන් කර ඇත.
+🟩
 
-ඔහුට අමතරව අයර්ලන්ත ක්‍රීඩක Mark Adair සහ නවසීලන්ත ක්‍රීඩක Matt Henry ද ඇතුළත් කර තිබේ.
+Sri Lanka's new batsman has been included in the world's best cricketer in March.
 
-බංග්ලාදේශ කණ්ඩායමට එරෙහිව පැවති ටෙස්ට් තරගාවලියේදී ශ්‍රී ලංකාව වෙනුවෙන් කමිඳු මෙන්ඩිස් කැපීපෙනෙන දක්ෂතාවයන් රැසක් දැක්වීය.
+The official website of the International Cricket Council is officially stated.
 
-එහිදී ඔහු පළමු ටෙස්ට් තරගයේ ඉනිම් දෙකේදීම ශතක රැස්කළ අතර දෙවන තරගයේ පළමු ඉනිමේදී නොදැවී ලකුණු 92ක් රැස්කරගත්තේය.
+In addition to him, Irish player Mark Adair and New Zealand player Matt Henry are also included.
 
-එසේම තරගයේ ජයග්‍රහණය කරා යන ගමනේදී පන්දුවෙන් ද දස්කම් දැක්වූ ඔහු ලකුණු 32කට බංග්ලාදේශ කණ්ඩායමේ කඩුලු 3ක් දවාගත්තේය.
+Kamindu Mendis has taught Sri Lanka at Test series against Bangladesh.
 
-මෙම සුවිශේෂී දක්ෂතා හේතුවෙන් බංග්ලාදේශයට එරෙහිව පැවති ටෙස්ට් තරගාවලියේ මෙන්ම තරගයේ වීරයා සම්මානය ද ඔහුට හිමිවිය.
+He scored centuries in the first Test, and the second match scored 92 not out in the first innings.
+
+He also scored the ball in the way to the victory of the competition and took 3 wickets for 32 wickets for 32 runs.
+
+Due to these unique talents, he won the Test series as well as the man of the match award.
 
 ◼️
 
 [Data](articles/172113bd.json)
 
+[Extended Data](ext_articles/172113bd.ext.json)
+
 ---
 
-### யாழ். பண்டத்தரிப்பில் சுகாதார சீர்கேடுகளுடன் காணப்பட்ட வர்த்தக நிலையங்களுக்கு தண்டம்
+### Yall. Punishment for trade centers found in the pantheon
 
 *2024-04-04 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180441) · `ta`
 
-யாழ்ப்பாணம் பண்டத்தரிப்பு பொது சுகாதார பரிசோதகர் பிரிவிற்கு உட்பட்ட பகுதியில் சுகாதார குறைப்பாடுகளுடன் காணப்பட்ட வர்த்தக நிலையங்களுக்கு எதிராக மல்லாகம் நீதவான் நீதிமன்றில் தொடரப்பட்ட வழக்குகளில் 2 இலட்சத்து 25 ஆயிரம் ரூபாய் தண்டம் விதிக்கப்பட்டுள்ளது.
+Trade centers in Jaffna fined 2.25 lakhs for outdated items, shop owners fined 95k, 65k, and 2.5k for various offenses. Manufacturer of outdated mango salt fined 45k.
 
-பண்டத்தரிப்பு பொதுச்சுகாதாரப் பரிசோதகர் பிரிவில் இ.யொனிப்பிரகலாதன் தலைமையில், அப்பகுதிகளில் உள்ள வர்த்தக நிலையங்களில் திடீர் சோதனை நடவடிக்கைகள் முன்னெடுக்கப்பட்டது.
+🟩
 
-அதன் போது, ஒரு வர்த்தக நிலையத்தில் 19 வகையான காலாவதியான பொருட்கள் 245 இணை விற்பனைக்காக வைத்திருந்த வர்த்தக நிலைய உரிமையாளருக்கு எதிராக தொடரப்பட்ட வழக்கில் உரிமையாளருக்கு 95 ஆயிரம் ரூபாய் தண்டம் விதிக்கப்பட்டதுடன், கடையை சீல் வைத்து மூடுமாறும் மன்று உத்தரவிட்டது.
+2 lakhs 25 thousand rupees have been imposed on cases filed by the Mallakam Magistrate's Court against trade centers in the Jaffna Public Health Inspector's Division.
 
-பிறிதொரு வர்த்தக நிலையம் ஒன்றில் புழு மொய்த்த, வண்டரித்த அரிசி, கடலைப்பருப்பு என்பவற்றை விற்பனைக்காக காட்சிப்படுத்தி வைத்திருந்த உரிமையாளருக்கு 65 ஆயிரம் ரூபாய் தண்டம் விதிக்கப்பட்டது.
+In the Public Health Inspector's Division, led by E. Yoniprakalatan, raids were carried out at trade centers in the area.
 
-அத்துடன், காலாவதியான உணவுப்பொருட்கள் வைத்திருந்த மற்றுமொரு உரிமையாளருக்கு 2 ஆயிரத்து 500 ரூபா தண்டமும் விதிக்கப்பட்டது.
+At the same time, the owner was sentenced to 95 thousand rupees in a case against the owner of the shop owner who had 245 outdated items in a trade center and ordered the closure of the shop.
 
-...
+The owner was sentenced to 65 thousand rupees for the sale of worm, rice and seaweed at another shopping center.
+
+In addition, another owner, who had expired food, was fined 2 thousand 500 rupees.
+
+45 thousand rupees was imposed on the manufacturer of the mixer with the outdated mango salt.
+
+Meanwhile, during a raid carried out by K. Balendrakumar in the Anaikottai area, the two men were granted a lawsuit as they were not present in court as they filed a case against the two men who had run the restaurant.
+
+◼️
 
 [Data](articles/964483ef.json)
 
+[Extended Data](ext_articles/964483ef.ext.json)
+
 ---
 
-### யாழ். அனலைதீவில் இந்திய மின் உற்பத்தி நிறுவனம் வேலைகளை ஆரம்பித்தது
+### Yall. Indian Power Company started work in Analadeevu
 
 *2024-04-04 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180439) · `ta`
 
-யாழ்ப்பாணம் அனலைதீவு பகுதியில் புதிதாக  நிா்மாணிக்கப்படவுள்ள சூரிய கலங்கள் மற்றும் காற்றாலை மின் உற்பத்தி திட்டங்களுக்கான அடிக்கல் நாட்டும் நிகழ்வு இன்று வியாழக்கிழமை (04) நடைபெற்றது.
+Indian Power Company initiated work in Analadeevu, laying the foundation for solar and wind power projects in Jaffna, with financial support from an Indian private company, in compliance with Indian government regulations. The ceremony was attended by Dinesh Pandian, an electrical engineer from the Indian company.
 
-இலங்கை இந்திய அரசுகள் ஏற்படுத்திக்கொண்ட இணக்கப்பாட்டுக்கு அமைய இந்திய தனியார் நிறுவனத்தின் நிதி உதவியுடன் மின் உற்பத்தி நிலையங்கள் அமைக்கப்படவுள்ளது.
+🟩
 
-அந்நிலையில் இந்திய நிறுவனத்தின் மின் பொறியியலாளர் தினேஷ் பாண்டியன் முன்னிலையில் இன்றைய தினம் அடிக்கல் நாட்டும் நிகழ்வு இடம்பெற்றது.
+The foundation stone laying ceremony for the new solar cells and wind power generation projects in Jaffna was held on Thursday (04).
+
+Power plants will be set up with the financial assistance of the Indian private company in accordance with the compliance with the Government of India.
+
+The event was held today in the presence of the Indian company's electrical engineer Dinesh Pandian.
 
 ◼️
 
 [Data](articles/288d4dd7.json)
+
+[Extended Data](ext_articles/288d4dd7.ext.json)
 
 ---
 
@@ -170,31 +244,39 @@ A widely respected and experienced official, Fernando was speaking with The Indi
 
 ---
 
-### எனது புத்தக கடையை   நூறுதடவை எரித்தாலும் நான் மீண்டும் அதனை உருவாக்குவேன் - தலிபானால் அழிக்கப்பட்ட புத்தகக்கடையின் உரிமையாளரின் மனம்தளராத போராட்டம்
+### Even if my bookstore burns a hundred times, I will create it again - the unwavering struggle of the owner of the bookstore destroyed by the Taliban
 
 *2024-04-04 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180443) · `ta`
 
-சா முகமட் ரையிஸ் தனது புத்தகக்கடையை 1974ம் ஆண்டு ஆப்கான் தலைநகர் காபுலில் ஆரம்பித்தார்.
+Cha Mohammed Rais, owner of a bookstore in Kabul, Afghanistan, faced the destruction of his store by the Taliban in 2021. Despite this, Rais, who has published over a million texts in various languages, escaped to the UK. He expressed concern about his bookstore's future and the Taliban's impact on education. Rais, fluent in six languages, has since re-established his bookstore online, with new books printed in India and sent to Afghanistan. He continues to support women's education and fight extremism through books, viewing them as a powerful tool against terrorism.
 
-2003இல் வெளியான காபுலின் புத்தகவி;ற்பனையாளர் என்ற நூலிற்கு கிடைத்த அமோகவரவேற்பை தொடர்ந்து அவரது கதை சர்வதேச அரங்கில் பிரபலமானது. அக்காலப்பகுதியில் ஒரு இலட்சத்தி;ற்கும் மேற்பட்ட நூல்கள் அவரிடமிருந்தன - பல்வேறுமொழிகளில் -இலக்கியம் அரசியல் பொருளாதாரம் என பலதுறை சார்ந்த நூல்கள்.
+🟩
 
-2021 இல் தலிபான்கள் மீண்டும் ஆட்சியை கைப்பற்றியதை தொடர்ந்து ரைஸ் ஐக்கிய இராச்சியத்திற்கு தப்பிச்சென்றார்
+Cha Mohammed Rais opened his bookstore in 1974 in the Afghan capital, Cabul.
 
-நான் எனது புத்தகக்கடை குறித்து கவலையுடன் இருக்கின்றேன் தலிபான்கள் அதனை அழித்துவிடுவார்கள் என அஞ்சுகின்றேன் என அவர் கார்டியனிடம் தெரிவித்திருந்தார்.
+His story is popular in the international stage following the amusement of the book Kabulin Bookmaster, published in 2003.. At that time more than one million texts were from him - in a variety of languages - literary political economy.
 
-கடந்த டிசம்பரில் அந்த புத்தககடைக்கு சென்ற தலிபான்கள் கடையை உள்பக்கமாக மூடிவிட்டு அங்கிருந்த பணியாளர்களிடம் ரைசின் இணையத்தளத்தின் கடவுச்சீட்டுகளை கேட்டு பெற்றுக்கொண்டனர் அவர் அந்த கடையை ஆரம்பித்த நாள் முதல் உருவாக்கியிருந்த ஆவணக்காப்பகத்தை அளித்தனர்.
+Rice escaped to the United Kingdom after the Taliban re -captured the rule of 2021
+
+I am worried about my book shop. I fear that the Taliban will destroy it, ”he told the Guardian.
+
+Last December, the Taliban who went to the bookstore closed the shop and asked the employees to ask for the passports of the Rice's website.
+
+Knowing what happened, I was shocked and said that he was frozen.
+
+From learning of the incident, I have seen suicide from two days, but suddenly I have recovered my soul.
 
 ...
 
 [Data](articles/52c7d07e.json)
+
+[Extended Data](ext_articles/52c7d07e.ext.json)
 
 ---
 
 ### Sacred lord Buddha relics from Sri Lanka presented to Dalai Lama
 
 *2024-04-04 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98427/sacred-lord-buddha-relics-from-sri-lanka-presented-to-dalai-lama) · `en`
-
-#WATCH | Himachal Pradesh: Most Venerable Waskaduwe Mahindawamsa Nayaka Thero from of Kapilavastu Rajaguru Sri Sbhuthi Maha Vihara, Waskaduwa, Sri Lanka offers Gautama Buddha’s sacred relic to His Holiness the Dalai Lama.The Kapilavastu relics hold immense historical and… pic.twitter.com/U4Gri76RYv— ANI (@ANI) April 4, 2024
 
 Lord Buddha’s sacred Kapilavastu relics, situated at a holy temple in Sri Lanka, have been offered to the Dalai Lama on Thursday morning, the office of Dalai Lama said in a statement.
 
@@ -203,6 +285,8 @@ The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa
 Notably, the Kapilavastu relics hold immense historical and spiritual significance, connecting the devotees to the profound legacy of Lord Buddha.
 
 The Sri Subhuthi Maha Viharaya in Waskaduwa houses 21 relics of the Lord Buddha.
+
+Waskaduwe Mahindawansa Maha Nayaka Thero is the custodian of these precious Kapilavastu relics, which have been preserved and protected for generations till now at Sri Subhuthi Maha Viharaya in Waskaduwa, Sri Lanka.
 
 ...
 
@@ -2221,75 +2305,5 @@ He was elected to parliament in the 2020 parliamentary elections as the candidat
 [Data](articles/91f230f5.json)
 
 [Extended Data](ext_articles/91f230f5.ext.json)
-
----
-
-### Lord Buddha relics from Sri Lanka to be presented To Dalai Lama
-
-*2024-04-04 09:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lord-Buddha-relics-from-Sri-Lanka-to-be-presented-To-Dalai-Lama/108-280165) · `en`
-
-Dharmashala, April 4 (NDTV) - Lord Buddha's sacred Kapilawasthu relics, situated at a holy temple in Sri Lanka, will be offered to the Dalai Lama on Thursday morning, the office of Dalai Lama said in a statement.
-
-The sacred relics are located at RajaGuru Sri Subuthi Waskaduwa Maha Viharaya, a Buddhist temple in Sri Lanka.
-
-Notably, the Kapilavastu relics hold immense historical and spiritual significance, connecting the devotees to the profound legacy of Lord Buddha.
-
-The Sri Subhuthi Maha Viharaya in Waskaduwa houses 21 relics of the Lord Buddha.
-
-'Waskaduwe Mahindawamsa Nayaka Thero' is the custodian of these precious Kapilawasthu relics, which have been preserved and protected for generations till now at Sri Subhuthi Maha Viharaya in Waskaduwa, Sri Lanka.
-
-...
-
-[Data](articles/05c63e04.json)
-
-[Extended Data](ext_articles/05c63e04.ext.json)
-
----
-
-### Nearly 75,000 Sri Lankan workers emigrated in Q1 of 2024 - SLBFE
-
-*2024-04-04 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98412/nearly-75000-sri-lankan-workers-emigrated-in-q1-of-2024-slbfe) · `en`
-
-Approximately 75,000 Sri Lankan workers have emigrated to foreign countries within the first three months of 2024, according to the Sri Lanka Bureau of Foreign Employment (SLBFE).
-
-The bureau said as many as 74,499 Sri Lankans left the country in the first quarter of the year as opposed to 76,025 in 2023. Among them, 34,599 were women and it is 46% of the total number.
-
-A large number of Sri Lankans have reportedly emigrated to Kuwait, and it adds up to a total of 17,793.
-
-The SLBFE says, in comparison to the previous years, Sri Lankans now tend to seek job opportunities in countries like South Korea, Israel and Japan.
-
-As per the figures, 2,374 Sri Lankans in total left for South Korea, while 2,114 departed for Israel, 1,899 for Romania and 1,947 for Japan within the first quarter of the year.
-
-Meanwhile, in the first two months of 2024 alone, Sri Lankan migrant workers’ remittances were recorded at USD 963.8 million, the SLBFE added.
-
-...
-
-[Data](articles/7f5a0505.json)
-
-[Extended Data](ext_articles/7f5a0505.ext.json)
-
----
-
-### Nearly 75,000 Sri Lankan workers emigrated in Q1 of 2024
-
-*2024-04-04 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98412/nearly-75000-sri-lankan-workers-emigrated-in-q1-of-2024) · `en`
-
-Approximately 75,000 Sri Lankan workers have emigrated to foreign countries within the first three months of 2024, according to the Sri Lanka Bureau of Foreign Employment (SLBFE).
-
-The bureau said as many as 74,499 Sri Lankans left the country in the first quarter of the year as opposed to 76,025 in 2023. Among them, 34,599 were women and it is 46% of the total number.
-
-A large number of Sri Lankans have reportedly emigrated to Kuwait, and it adds up to a total of 17,793.
-
-The SLBFE says, in comparison to the previous years, Sri Lankans now tend to seek job opportunities in countries like South Korea, Israel and Japan.
-
-As per the figures, 2,374 Sri Lankans in total left for South Korea, while 2,114 departed for Israel, 1,899 for Romania and 1,947 for Japan within the first quarter of the year.
-
-Meanwhile, in the first two months of 2024 alone, Sri Lankan migrant workers’ remittances were recorded at USD 963.8 million, the SLBFE added.
-
-...
-
-[Data](articles/aaf7ce1f.json)
-
-[Extended Data](ext_articles/aaf7ce1f.ext.json)
 
 ---

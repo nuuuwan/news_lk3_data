@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 10:33:46**
+As of **2024-04-04 10:51:59**
 
 ## Newspaper Stats
 
-*Scraped **17,048** Articles*
+*Scraped **17,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 943
 economynextcom | 944
 adalk | 1,433
 tamilmirrorlk | 2,024
-adaderanalk | 2,042
+adaderanalk | 2,043
 virakesarilk | 2,460
 dailymirrorlk | 2,623
 adaderanasinhalalk | 2,751
@@ -26,31 +26,55 @@ adaderanasinhalalk | 2,751
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,045 (100.0%) of 17,048 articles have been extended.
+17,048 (100.0%) of 17,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### 18 හැවිරිදි තරුණියගේ සිරුර ජලාශයක තිබී සොයාගනී
+### Govt’s prudent fiscal management helped positive economic trajectory - President
+
+*2024-04-04 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98413/govts-prudent-fiscal-management-helped-positive-economic-trajectory-president) · `en`
+
+President Ranil Wickremesinghe on Wednesday (03) reaffirmed the government’s commitment to facilitating economic growth and providing financial resources for essential public services.
+
+Addressing a ceremony held at the Temple Trees to award appointment letters to graduate teachers in the Western Province, the Head of State spoke of the positive economic trajectory that Sri Lanka has achieved through prudent fiscal management by the government.
+
+Despite a previous period of economic decline, the Sri Lankan economy has witnessed a strengthening, leading to the appreciation of the rupee against the dollar, Wickremesinghe highlighted.
+
+He attributed this positive shift to effective economic policies implemented by the government, which allowed for the current recruitment of teachers.
+
+...
+
+[Data](articles/792c0d08.json)
+
+---
+
+### 18 year old found in a reservoir
 
 *2024-04-04 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195281) · `si`
 
-රාගල පොලිස් වසමේ ඩෙල්මාර් වත්ත උඩ කොටස ප්‍රදේශයේ කුඩා ජලාශයක තිබී සැකකටයුතු ලෙස මියගිය තරුණියකගේ මළ සිරුරක් සොයාගෙන තිබේ.
+An 18-year-old girl's body was found in a reservoir in Ragala, leading to an investigation. Another woman died in Thunadola, Suriyakanda, after falling into a well.
 
-රාගල පොලීසියට ලද තොරතුරක් මත එම සිරුර සොයාගත් බව පොලිස් මාධ්‍ය කොට්ඨාසය නිවේදනය කරයි.
+🟩
 
-ඇය පසුගිය මාර්තු 30 වනදා කිසිවෙකුටත් නොදන්වා නිවසින් පිටව ගොස් ඇති අතර, ඒ පිළිබඳ සොයා බලන අතරතුර මෙම සිරුර හමුව ඇත.
+A dead body of a young girl who was killed in a small reservoir in the Delmar Estate area in the Ragala Police Division was found suspiciously.
 
-මෘත ශරීරය නුවරඑළිය රෝහලේ තැන්පත් කර ඇති අතර, රාගල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The body was found that the body was found on a tip off received by Ragala Police.
 
-මේ අතර සූරියකන්ද පොලිස් වසමේ තුංදොල ප්‍රදේශයේ දී දොළ පහරකට වැටී කාන්තාවක් මියගොස් තිබේ.
+She had left the house without knowing the next March.
 
-ගම්මිරිස් අහුලා ගැනීමට යන පවසා ඇය ඉඩම පහලට ගොස් ඇති අතර, නැවත පැමිණීමට ප්‍රමාද වීම හේතුවෙන් නිවැසියන් සොයා බැලීමේ දී දොළට වැටී මියගොස් ඇති බව දැක තිබේ.
+The body has been placed at the Nuwara Eliya hospital and Ragala Police are conducting further investigations.
+
+Meanwhile, a woman has died of a woman in the Thunadola area of Suriyakanda.
+
+She had gone down to the land, saying that she was going to pick up pepper and saw the deceased to fall into the gal.
 
 ◼️
 
 [Data](articles/18c4d8fe.json)
+
+[Extended Data](ext_articles/18c4d8fe.ext.json)
 
 ---
 
@@ -71,6 +95,8 @@ The Sri Subhuthi Maha Viharaya in Waskaduwa houses 21 relics of the Lord Buddha.
 ...
 
 [Data](articles/05c63e04.json)
+
+[Extended Data](ext_articles/05c63e04.ext.json)
 
 ---
 
@@ -267,6 +293,8 @@ He contested the 2020 parliamentary election as a candidate of the Sri Lanka Peo
 ◼️
 
 [Data](articles/7eef91c7.json)
+
+[Extended Data](ext_articles/7eef91c7.ext.json)
 
 ---
 
@@ -2175,29 +2203,5 @@ It was also said that there will be more attention to the dry zone landscape of 
 [Data](articles/3fc8612f.json)
 
 [Extended Data](ext_articles/3fc8612f.ext.json)
-
----
-
-### Srilankan needs 10 aircrafts
-
-*2024-04-03 19:49:15* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රීලන්කන්ට-ගුවන්-යානා-10ක්-ඕනෑ/11-408933) · `si`
-
-SriLankan Airlines needs 10 more planes, but only 4 approved. Two out of four planned aircraft obtained. Current airlines pay $6B monthly. Demand high, funding issue.
-
-🟩
-
-SriLankan Airlines has a need for about 10 other plane, but the Cabinet is approved by the Cabinet to receive a aircraft, but the Cabinet is approved by the current situation.. One of the three hundred and sixty-four thousand dollars to the lease of the tax scheme, he said that some of the current airlines pay away about six thousand million dollars a month.
-
-There is a great demand for the aircraft in Sri Lanka and that the cost of the temple has not been able to get funded in the Treasury but will receive relief from the government without paying sufficient aircraft to use it.Mentioned.
-
-At present there are currently about 15 aircraft and there is a need to get 10 planes and have a need to obtain 10 aircraft.
-
-The Cabinet approved to obtain four aircraft, it was reported that only two selected aircraft were obtained by the right data and the two four-month-planned aircraft had been obtained by a media discussion today (3)..
-
-◼️
-
-[Data](articles/c1f75895.json)
-
-[Extended Data](ext_articles/c1f75895.ext.json)
 
 ---

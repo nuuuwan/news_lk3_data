@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 14:51:11**
+As of **2024-04-04 15:03:31**
 
 ## Newspaper Stats
 
-*Scraped **17,108** Articles*
+*Scraped **17,112** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,45 +16,131 @@ dailyftlk | 929
 islandlk | 943
 economynextcom | 944
 adalk | 1,443
-tamilmirrorlk | 2,033
+tamilmirrorlk | 2,034
 adaderanalk | 2,053
-virakesarilk | 2,478
-dailymirrorlk | 2,627
-adaderanasinhalalk | 2,759
+virakesarilk | 2,479
+dailymirrorlk | 2,628
+adaderanasinhalalk | 2,760
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,104 (100.0%) of 17,108 articles have been extended.
+17,108 (100.0%) of 17,112 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### நடிகை தமிதா மற்றும் கணவன்  கைது
+### Damitha, her husband arrested by CID
+
+*2024-04-04 14:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Damitha-her-husband-arrested-by-CID/108-280185) · `en`
+
+Colombo, April 4 (Daily Mirror)- Actress Damitha Abeyratne and her husband were arrested by the Criminal Investigations Department (CID) this morning.
+
+They were arrested while they were leaving the court after filing a motion in connection with the case where they had allegedly defrauded Rs. 3 million by promising to provide job opportunities in Korea.
+
+◼️
+
+[Data](articles/3a2b62a4.json)
+
+---
+
+### අල්ලස් ගත් සෞඛ්‍ය අමාත්‍යාංශ සේවකයෙකු අත්අඩංගුවට
+
+*2024-04-04 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195291) · `si`
+
+අල්ලස් මුදලක් ලබාගැනීමේ චෝදනාව යටතේ රාජ්‍ය කළමනාකරණ සහකාරවරයෙකු අල්ලස්  හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ සෞඛ්‍ය අමාත්‍යාංශයේ ප්‍රවාහන අංශයේ සේවයේ නිරත රාජ්‍ය කළමනාකරණ සහකාරවරයෙකි.
+
+ගලිගමුව බෝයගම ප්‍රදේශයේ පුද්ගලයෙකු විසින් සිදුකරන ලද පැමිණිල්ලකට අනුව සැකකරු අත්අඩංගුවට ගෙන ඇත.
+
+වාහනයක් අසාදු ලේඛනයෙන් ඉවත් කර වාර්තාවක් ලබාදීම සඳහා රුපියල් 80,000ක මුදලක් අල්ලස් වශයෙන් ඉල්ලා එය ලබාගැනීම ඔහුට එරෙහිව එල්ලවී ඇති චෝදනාවයි.
+
+ඊයේ (03) පස්වරු 1.05ට පමණ සෞඛ්‍ය අමාත්‍යාංශය ඉදිරිපිට ප්‍රධාන මාර්ගයේදී සැකකාර රාජ්‍ය කළමනාකරණ සහකාරවරයාව අල්ලස්  හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරු කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/31221739.json)
+
+---
+
+### சுதந்திரக் கட்சிக்கு மீண்டும் திரும்பிய துமிந்த, லசந்த, அமரவீர
+
+*2024-04-04 14:38:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுதந்திரக்-கட்சிக்கு-மீண்டும்-திரும்பிய-துமிந்த-லசந்த-அமரவீர/175-335611) · `ta`
+
+ஸ்ரீ லங்கா சுதந்திரக் கட்சியுடன் இணைந்து புதிய பயணத்தை மேற்கொள்ள அனைவருக்கும் அழைப்பு விடுப்பதாக துமிந்த திஸாநாயக்க தெரிவித்துள்ளார்.
+
+ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதவிகளில் இருந்து நீக்கப்பட்ட துமிந்த திஸாநாயக்க, லசந்த அழகியவன்ன மற்றும் மஹிந்த அமரவீர ஆகியோர் இன்று (04) ஸ்ரீ லங்கா சுதந்திரக் கட்சி சார்பில் விசேட செய்தியாளர் மாநாட்டை நடத்தியபோதே அவர் இதனைக் கூறியுள்ளார்.
+
+இந்த விசேட செய்தியாளர் மாநாடு ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் தலைமையகத்தில் நடைபெற்றது.
+
+அவர்கள் மேலும் கூறியதாவது, “கட்சியின் அழிவினை பார்த்துக்கொண்டிருக்க முடியாத நிலையிலேயே முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க நீதிமன்றத்தை நாடினார். அதற்கிணங்க, கட்சியின் தலைவராக இருந்த  மைத்திரிபால சிறிசேனவுக்கு தடை விதிக்கப்பட்டது." என்று குறிப்பிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/4938b8b2.json)
+
+---
+
+### துபாயில் ஒரே நாளில் உயிரிழந்த ஆராச்சிக்கட்டுவ பொலிஸ் பிரிவைச் சேர்ந்த இருவர்!
+
+*2024-04-04 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180428) · `ta`
+
+ஆராச்சிக்கட்டுவ பொலிஸ் பிரிவுக்கு உட்பட்ட இரண்டு பிரதேசங்கனைச் சேர்ந்த இருவர் துபாயில் பணியாற்றிய  நிலையில்  ஒரே  நாளில் இருவரும்  உயிரிழந்துள்ளதாக தமக்கு தகவல் கிடைத்துள்ளதாக ஆராச்சிக்கட்டுவ பொலிஸார் தெரிவிக்கின்றனர்.
+
+இவ்வாறு உயிரிழந்தவர்கள்  ஆராச்சிக்கட்டு நல்லதரன்கட்டு கிரிவெல்கெலேயைச் சேர்ந்த  28 வயதான சந்துன் மதுசங்க என்ற  இளைஞரும் ஆராச்சிக்கட்டு அண்டன்வில்வத்தையைச் சேர்ந்த  ரமேஷ் உதார திலின என்ற 42 வயதுடைய இரண்டு பிள்ளைகளின் தந்தையும் ஆவார்.
+
+இவர்கள்  குருணாகலில் உள்ள பிரபல நிறுவனமொன்றில் இருந்து துபாய்க்கு வேலைக்குச் சென்றுள்ளதாக உறவினர்கள் தெரிவிக்கின்றனர்.
+
+தினமும் இவர்கள்  தமது உறவினர்களுடன் தொலைபேசி மூலம் தொடர்பு கொண்டுள்ள போதிலும் தாம் இறப்பதற்கு சில நாட்களுக்கு முன்னர்  தமது உறவினர்களிடம் தாம் சுகவீனமுற்றுள்ளதாக தெரிவித்துள்ளனர்.
+
+உடல்நிலை மோசமடைந்ததையடுத்து உள்ளூர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட இவர்கள்  கடந்த 30ஆம் திகதி உயிரிழந்ததாக பிரதேச வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+...
+
+[Data](articles/edd1295b.json)
+
+---
+
+### Actress Tamitha and Husband arrested
 
 *2024-04-04 14:30:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகை-தமிதா-மற்றும்-கணவன்-கைது/175-335610) · `ta`
 
-நடிகை தமிதா அபேரத்ன மற்றும் அவரது கணவர் ஆகியோர் குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளனர்.
+Actress Tamitha Abeyratne and her husband arrested for money laundering by the Criminal Investigation Department.
 
-பண மோசடி தொடர்பில் குற்றப் புலனாய்வுப் பிரிவினரால் தேடப்பட்டு வந்த அவர்கள் இருவரும் இன்று (04) பிற்பகல் கோட்டை நீதவான் நீதிமன்றத்துக்கு வந்திருந்தனர்.
+🟩
+
+Actress Tamitha Abeyratne and her husband have been arrested by the Criminal Investigation Department.
+
+The two men were searched by the Criminal Investigation Division for money laundering this afternoon.
 
 ◼️
 
 [Data](articles/836a1408.json)
 
+[Extended Data](ext_articles/836a1408.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-04-04 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180425) · `ta`
 
-இன்று வியாழக்கிழமை (ஏப்ரல் 04) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 295.0963 ஆகவும் விற்பனை விலை ரூபா 304.5631 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar's purchase price was Rs 295.0963, and the sales price was Rs 304.5631, as per the Central Bank's Thursday (April 04) release.
+
+🟩
+
+The US dollar purchasing price was Rs 295.0963 and the sales price were 304.5631 based on the currency exchange rate released by the Central Bank on Thursday (April 04).
 
 ◼️
 
 [Data](articles/b9f9fbd6.json)
+
+[Extended Data](ext_articles/b9f9fbd6.ext.json)
 
 ---
 
@@ -76,19 +162,25 @@ The summons were issued by a three-member bench presided over by Chief Justice J
 
 ---
 
-### ගුරුවරුන් 4000කට ගුරු පත්වීම්
+### Teacher appointments for 4,000 teachers
 
 *2024-04-04 14:04:07* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුවරුන්-4000කට-ගුරු-පත්වීම්/11-408949) · `si`
 
-උපාධිධාරී ගුරුවරුන් 2320කට පත්වීම් ලබා දීම සඳහා ජනාධිපතිවරයා ඊයේ (03)දා අරලියගහ මන්දිරයේ දී සංකේතාත්මකව එක්වී තිබුණා. එහිදී අදහස් දැක්වූ ජනාධීපතිවරයා
+The President announced appointments for 2320 graduate teachers, with plans to recruit 1000 more, totaling 4000 teachers. This achievement, after a 3-4 year hiatus due to COVID and economic issues, was celebrated with the presence of Minister Nalin Fernando, State Ministers, and Parliamentarians.
 
-“අද ගුරුවරුන් 2320ක් බඳවා ගැනීමට කටයුතු කර තිබෙනවා. තව 700කට පත්වීම් ලබාදීමට තිබෙනවා. පුරප්පාඩු අනුව තවත් ගුරුවරුන් 1000ක් පමණ බඳවා ගැනීමට සැලසුම් කර තිබෙනවා. ඒ අනුව මෙම වසරේ ගුරු වෘත්තීයට 4000ක් පමණ බඳවාගෙන තිබෙනවා. වසර තුන හතරකින් පසුව තමයි මෙම බඳවා ගැනීම් සිදු කිරීමට හැකියාව ලැබුණේ. කොවිඩ් වසංගතය වගේම ආර්ථික කඩා වැටීම හමුවේ මේ සියලු බඳවා ගැනීම් නැවතී තිබුණා.”
+🟩
 
-මෙම අවස්ථාව සඳහා අමාත්‍ය නලින් ප්‍රනාන්දු, රාජ්‍ය අමාත්‍යවරුන් වන ලසන්ත අලගියවන්න, සිසිර ජයකොඩි, අරවින්ද කුමාර් යන මහත්වරුන් සහ පාර්ලිමේන්තු මන්ත්‍රීවරුන් ද එක්ව සිටියා.
+The President had joined in Temple Trees to give appointment to 2320 graduate teachers.. The President who commented
+
+"Today, 2320 teachers have been recruited. There are 700 more. It is planned to recruit another 1000 teachers according to vacancies. Accordingly, about 4000 people have been recruited to the teaching profession. These recruitments were able to make these recruitments after three to four years. All these recruits had stopped in the face of the covid plague and economic collapse. "
+
+Minister Nalin Fernando, State Ministers Lasantha Jayakody, Sisira Jayakody and Parliamentarians were present.
 
 ◼️
 
 [Data](articles/db7b3660.json)
+
+[Extended Data](ext_articles/db7b3660.ext.json)
 
 ---
 
@@ -200,17 +292,23 @@ He also directed to minimize the inconvenience caused to the general public.
 
 ---
 
-### දමිතා සහ සැමියා අත්අඩංගුවට
+### Damitha and husband arrested
 
 *2024-04-04 13:22:40* · [`adalk`](https://www.ada.lk/breaking_news/දමිතා-සහ-සැමියා-අත්අඩංගුවට/11-408947) · `si`
 
-කොරියාවේ විදේශ රැකියා ලබාදෙන බව පවසා ලක්ෂ 30ක මුදලක් වංචා කිරීමේ සිද්ධියක් සම්බන්ධයෙන් චෝදනා එල්ල වී තිබූ රංගන ශිල්පිනී දමිතා අබේරත්න සහ ඇගේ සැමියා අද 04දා කොටුව මහේස්ත්‍රාත් අධිකරණයට භාර වීමෙන් අනතුරුව අපරාධ පරීක්ෂන දෙපාර්තමේතුව විසින් අත්අඩංගුවට ගෙන ඇත.
+Damitha and husband arrested. Ranhanitha Abeyratne accused of defrauding Rs. Court of Appeal denied interim injunction under Immigration and Emigration Act.
 
-පසුගිය 02දා ආගමන හා විගමන පනත යටතේ ඔවුන් අත්අඩංගුවට ගැනීම වළක්වාළන අතුරු තහනම් නියෝගයක් නිකුත් කිරීම ප්‍රතික්ෂේප කිරීමටද අභියාචනාධිකරණය කටයුතු කළහ.
+🟩
+
+Ranhanitha Abeyratne, who was accused of defrauding Rs.
+
+The Court of Appeal also refused to issue an interim injunction preventive under the Immigration and Emigration Act.
 
 ◼️
 
 [Data](articles/2e5a8015.json)
+
+[Extended Data](ext_articles/2e5a8015.ext.json)
 
 ---
 
@@ -2157,75 +2255,5 @@ Main Opposition Samagi Jana Balawegaya (SJB) yesterday insisted the reform agend
 [Data](articles/8ddeaa1f.json)
 
 [Extended Data](ext_articles/8ddeaa1f.ext.json)
-
----
-
-### Dhammika Fernando re-elected Chairman of Free Trade Zone Manufacturers’ Association
-
-*2024-04-04 03:42:59* · [`dailyftlk`](https://www.ft.lk/business/Dhammika-Fernando-re-elected-Chairman-of-Free-Trade-Zone-Manufacturers-Association/34-760293) · `en`
-
-Tropical Findings Ltd., Dhammika Fernando was re-elected as the Chairman of the Free Trade Zone Manufacturers Association (FTZMA) at the 43rd Annual General Meeting held at “Courtyard by Marriott Colombo” on 28 March 2024.
-
-Flintec Transducers Ltd., Managing Director Tyronne Weckasinghe was elected as the Honorary Secretary of the FTZMA, Lalan Rubber Ltd. CEO Manjula Mahadanaarachchi was elected as the Honorary Treasurer while ATG Ceylon Ltd. Managing Director Fazal Abdeen and Screenline Holdings Managing Director Nishantha Bakmeege as Vice Chairmen. The rest of the Executive Committee was elected through a distinguished gathering of C-suite executives of all Board of Investment member enterprises countrywide.
-
-Malaysian High Commissioner in Sri Lanka Badli Hisham Adam was the Chief Guest at the AGM while BOI Director General Renuka Weerakoon was the Guest of Honour.
-
-...
-
-[Data](articles/fd951854.json)
-
-[Extended Data](ext_articles/fd951854.ext.json)
-
----
-
-### Premium International announces successful completion and handing over of German – Sri Lanka Friendship Hospital for Women in Galle
-
-*2024-04-04 03:40:43* · [`dailyftlk`](https://www.ft.lk/business/Premium-International-announces-successful-completion-and-handing-over-of-German-Sri-Lanka-Friendship-Hospital-for-Women-in-Galle/34-760292) · `en`
-
-The German – Sri Lanka Friendship Hospital for Women in Galle, was declared open on 27 March 2024, by President Ranil Wickramasinghe and Minister for Health Dr. Ramesh Pathirana. With a capacity of 640 beds and an ultramodern hospital complex spanning over 500,000 sqft, the new facility stands as South Asia’s largest, most modern and advanced maternity hospital.
-
-The latter stages of this long-delayed project was undertaken and completed by Premium International – Sri Lanka’s only integrated healthcare technology and infrastructure solutions providers. The company was responsible for sourcing, supplying and installation of majority of the medical and non-medical equipment, along with required civil and MEP engineering works.
-
-...
-
-[Data](articles/99dac576.json)
-
-[Extended Data](ext_articles/99dac576.ext.json)
-
----
-
-### President bestows awards on 30 BOI companies
-
-*2024-04-04 03:39:00* · [`islandlk`](http://island.lk/president-bestows-awards-on-30-boi-companies/) · `en`
-
-Addressing attendees at the Board Of Investment (BOI) Awards Ceremony held at the Presidential Secretariat on Tuesday (02), President Ranil Wickremesinghe commended the pivotal role played by companies under the purview of the Board of Investment in driving Sri Lanka’s economic growth and affirmed his commitment to bolstering the nation’s economy through the establishment of competitive investment avenues.
-
-The ceremony coincided with the 45th Anniversary of the Board of Investment, during which the President bestowed 30 awards upon companies for their noteworthy contributions to foreign direct investment and export performance, as well as recognizing longstanding active participants.
-
-Brandix Group CEO Ashraf Omar, MAS Holdings Co-Founder and Chairman Deshamanya Mahesh Amalean, and Sail Lanka Yacht Group Chairman Pierre Pringiers  received special accolades for their contributions to the Sri Lankan economy.
-
-...
-
-[Data](articles/4e2b9d03.json)
-
-[Extended Data](ext_articles/4e2b9d03.ext.json)
-
----
-
-### Visa sees over 35% surge in debit card spends; trend expected to continue in Avurudu season
-
-*2024-04-04 03:38:42* · [`dailyftlk`](https://www.ft.lk/business/Visa-sees-over-35-surge-in-debit-card-spends-trend-expected-to-continue-in-Avurudu-season/34-760291) · `en`
-
-Out of the total domestic spends on debit cards, the share of in-store spending is 7 times that of e-commerce.
-
-Last holiday season saw over 20% growth in Visa debit transactions vis-à-vis 2022.
-
-Visa, the global leader in digital payments, this week announced that Visa debit card spends saw a significant increase of over 35% in the past year, indicating healthy growth of digital payments in Sri Lanka. This increase is buoyed by a 30%+ increase in face-to-face spends and over 40% increase in e-commerce spends. As the Tamil and Sinhala New Year celebrations commence in the country, retail transactions are picking up with more active shoppers during the festive period. Consumers are increasingly paying by debit card, opting for safer, simpler, and more convenient transactions.
-
-...
-
-[Data](articles/98818159.json)
-
-[Extended Data](ext_articles/98818159.ext.json)
 
 ---

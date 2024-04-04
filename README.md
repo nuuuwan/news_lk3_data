@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 22:33:55**
+As of **2024-04-04 22:50:37**
 
 ## Newspaper Stats
 
-*Scraped **17,206** Articles*
+*Scraped **17,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ newsfirstlk | 363
 dailyftlk | 929
 islandlk | 943
 economynextcom | 957
-adalk | 1,455
-tamilmirrorlk | 2,034
-adaderanalk | 2,064
-virakesarilk | 2,498
+adalk | 1,456
+tamilmirrorlk | 2,037
+adaderanalk | 2,065
+virakesarilk | 2,499
 dailymirrorlk | 2,642
-adaderanasinhalalk | 2,782
+adaderanasinhalalk | 2,783
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,206 (100.0%) of 17,206 articles have been extended.
+17,206 (100.0%) of 17,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### O/L, A/L மாணவர்களுக்கு கல்வி அமைச்சின் விசேட அறிவிப்பு
+
+*2024-04-04 22:26:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-A-L-மாணவர்களுக்கு-கல்வி-அமைச்சின்-விசேட-அறிவிப்பு/175-335632) · `ta`
+
+எதிர்வரும் மே மாத நடுப்பகுதியில் கல்விப் பொதுத்தராதர சாதாரண தரப் பரீட்சையை நடத்துவதற்கான பரீட்சை அட்டவணைகள் தற்போது இறுதி செய்யப்பட்டுள்ளதாக கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்துள்ளார்.
+
+அதேநேரம், கல்விப் பொதுத்தராதர சாதாரண தரப் பரீட்சைக்கு முன்னதாக கல்விப் பொதுத்தராதர உயர்தரப் பரீட்சையின் பெறுபேறுகள் வெளியிடப்படும் எனவும் அவர் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/b160097d.json)
+
+---
+
+### Corruption case filed against former ‘Laksala’ Chairman and former MD
+
+*2024-04-04 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98435/corruption-case-filed-against-former-laksala-chairman-and-former-md) · `en`
+
+The Commission to Investigation Allegations of Bribery or Corruption (CIABOC) has filed a case with the Colombo High Court against the former Chairman and the former Managing Director of ‘Laksala’, Sri Lanka’s state-owned handicraft marketing organization, over alleged corruption charges.
+
+The Bribery Commission said it has carried out investigations related to a complaint received alleging that the former Chairman and the former Managing Director of ‘Laksala’ have committed corruption offences by awarding the contract for constructing a ‘Laksala’ outlet at the National Museum site, to an unqualified contractor by overriding the decisions of the Board of Directors of the Sri Lanka Handicrafts Board and thereby causing undue losses to the government.
+
+Following thorough investigation into the complaint, a case has been filed with the Colombo High Court by the Bribery Commission against the former Chairman and the former Managing Director of ‘Laksala’ on Thursday (04).
+
+◼️
+
+[Data](articles/407f78a7.json)
+
+---
+
+### රෝග ව්‍යාප්තිය ගැන බරපතළ අනාවරණයක්
+
+*2024-04-04 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195315) · `si`
+
+විවිධ ලෙඩ රෝග පැතිරීම ඉතාමත් පහසුවෙන් සහ වේගවත්ව සිදුවන්නේ මීයන් සහ වවුලන්ගෙන් බවට කාලාන්තරයක් පුරා තිබූ මතය වෙනස් කිරීමට විද්‍යාඥයින් පිරිසක් සිදුකළ පර්යේෂණයකට හැකිව තිබේ.
+
+එම පර්යේෂණයට අනුව හෙළි වී ඇත්තේ මෙම සත්තුන්ට වඩා මිනිසාගෙන් රෝග සම්ප්‍රේෂණය ඉතා වේගයෙන් සිදු වන බවය.
+
+එංගලන්තයේ University College London හි පර්යේෂණ කණ්ඩායමක් විසින් සිදුකළ එම පර්යේෂණයෙන් හෙළි වී ඇත්තේ සතුන්ට වඩා දෙගුණයක් වේගයෙන් මිනිසාගෙන් වෛරසයක් සම්ප්‍රේෂණය විය හැකි බවය.
+
+ඔවුන් සිදුකළ වෛරස් විශ්ලේෂණ අනුව බොහෝ අවස්ථාවන්හිදී එනම් 64% ක දී පමණ වෛරස් මිනිසුන්ගෙන් වෙනත් සතුන්ට සම්ප්‍රේෂණය වී ඇති බව සොයාගෙන ඇත.
+
+එමෙන්ම මිනිසාගේ විවිධ ක්‍රියාකාරකම් ද රෝග පැතිරීමට දායක වන බව ඔවුන් පෙන්වා දී ඇත.
+
+එනම් සතුන්ගේ වාසස්ථාන විනාශ කිරීම, පරිසර දූෂණය වැනි අහිතකර ක්‍රියාවන් හේතුවෙන් වේගයෙන් මිනිසාගෙන් විවිධ ලෙඩ රෝග සතුන්ට සම්ප්‍රේෂණය විය හැකි බව ඔවුන් පෙන්වා දී තිබේ.
+
+මෙම තත්ත්වය මිනිසාට මෙන්ම සතුන්ටද තර්ජනයක් වන බව ඔවුන් පවසයි.
+
+...
+
+[Data](articles/2010a57f.json)
+
+---
 
 ### Govt aiming to generate USD 2 billion in revenue from gem and jewellery industry – President
 
@@ -45,6 +99,52 @@ Highlighting a remarkable increase of over 50% in government income in 2023 comp
 [Data](articles/79537049.json)
 
 [Extended Data](ext_articles/79537049.ext.json)
+
+---
+
+### சனத் நிஷாந்தவின் வீட்டுக்கு தீ  வைப்பு: 68 பேரும் விடுதலை!
+
+*2024-04-04 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180461) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் வீடு எரிக்கப்பட்ட சம்பவம் தொடர்பில் சிலாபம்  நீதிவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்ட 68 சந்தேக நபர்களையும் விடுதலை செய்வதற்கு சிலாபம் நீதிவான் நீதிமன்றம் வியாழக்கிழமை (04) தீர்மானித்ததாக சந்தேக நபர்கள் சார்பில் ஆஜரான சட்டத்தரணி சுவினி பெரேரா தெரிவித்தார்.
+
+இந்த வழக்கின் சாட்சிகள் இருவர் உயிரிழந்தமை மற்றும் பொலிஸார் சாட்சியங்களை நீதிமன்றில் முன்வைக்க தவறியதன் காரணமாக சந்தேக நபர்களை விடுதலை செய்ய நீதிமன்றம் தீர்மானித்துள்ளதாகவும் சட்டத்தரணி மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/3d9ab01d.json)
+
+---
+
+### 13 விவகாரம்: அதிரடியாக அறிவித்தார் ஜனாதிபதி
+
+*2024-04-04 21:47:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-விவகாரம்-அதிரடியாக-அறிவித்தார்-ஜனாதிபதி/175-335631) · `ta`
+
+13ஆவது அரசியலமைப்புத் திருத்தம் தொடர்பாக தமிழ்க் கட்சிகளின் எம்.பி.க்களுடன் மட்டும் கலந்துரையாடுவது போதுமானதல்ல என்றும் இது நாடு முழுவதும் அமுல்படுத்தும் விடயம் என்பதால் அனைத்துக் கட்சிகளுடனும் கலந்துரையாட வேண்டும் என்பதே தனது நிலைப்பாடு என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க சர்வகட்சி மாநாட்டில் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/e4cb9f55.json)
+
+---
+
+### கெஹலிய மீது மற்றுமொரு வழக்கு
+
+*2024-04-04 21:38:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-மீது-மற்றுமொரு-வழக்கு/175-335630) · `ta`
+
+2015 ஆம் ஆண்டு நடைபெற்ற ஜனாதிபதித் தேர்தலின் போது இலங்கை ரூபவாஹினி கூட்டுத்தாபனத்துக்கு சொந்தமான சுமார் 10 இலட்சம் ரூபாவை அரசியல் நடவடிக்கைகளுக்காக பயன்படுத்தியதாக முன்னாள் அமைச்சர் கெஹெலிய ரம்புக்வெல்ல உள்ளிட்டோருக்கு எதிராக  வழக்கு தாக்கல் செய்யப்பட்டுள்ளது.
+
+இதற்காக கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட 3 பிரதிவாதிகளுக்கு எதிராக இலஞ்ச ஊழல் ஆணைக்குழுவினால் தாக்கல் செய்யப்பட்ட வழக்கை விசாரிப்பதற்கான திகதியை கொழும்பு மேல் நீதிமன்றம் நிர்ணயித்துள்ளது.
+
+இதன்படி, அப்போது ஊடகத்துறை அமைச்சராக இருந்த கெஹலிய ரம்புக்வெல்ல, இலங்கை ரூபவாஹினி கூட்டுத்தாபனத்தின் முன்னாள் தலைவர் விமல் ரூபசிங்க மற்றும் முன்னாள் பணிப்பாளர் நாயகம் சந்திரபால லியனகே ஆகியோருக்கு எதிராக இலஞ்ச ஊழல் ஆணைக்குழு இந்த வழக்கை தாக்கல் செய்துள்ளது.
+
+இந்த வழக்கு இன்று (04) கொழும்பு மேல் நீதிமன்ற நீதிபதி நவரத்ன மாரசிங்க முன்னிலையில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+
+இதன்போது விசாரணைக்காக தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ள கெஹலிய ரம்புக்வெல்லவும் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டார். R
+
+◼️
+
+[Data](articles/157fb634.json)
 
 ---
 
@@ -267,6 +367,22 @@ The center is independent of independent quality inspection services, laboratory
 [Data](articles/07d012df.json)
 
 [Extended Data](ext_articles/07d012df.ext.json)
+
+---
+
+### අවුරුදු කාලයේ ආරක්ෂාව තහවුරු කරන්න ජනපති උපදෙස්
+
+*2024-04-04 20:01:10* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-කාලයේ-ආරක්ෂාව-තහවුරු-කරන්න-ජනපති-උපදෙස්/11-408959) · `si`
+
+එළැඹෙන සිංහල, දෙමළ අලුත් අවුරුදු නිවාඩු කාලය තුළ ජනතාව අපහසුතාවයට පත් නොවන අයුරින් අත්‍යාවශ්‍ය සේවා හා සෙසු රාජ්‍ය සේවා කටයුතු අඛණ්ඩව පවත්වාගෙන යාමට විධිමත් වැඩපිළිවෙළක් සකස් කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා නිලධාරීන්ට උපදෙස් දී තිබේ.
+
+ජනාධිපති කාර්යාලය, අග්‍රාමාත්‍ය කාර්යාලය, ආරක්ෂක, සෞඛ්‍ය, ප්‍රවාහන, විදුලිබල යන අමාත්‍යාංශ ඇතුළු අදාළ ආයතන ඒකාබද්ධව මෙම වැඩපිළිවෙළ සකස් කරන ලෙස ජනාධිපතිවරයා වැඩිදුරටත් දැනුම් දී ඇත.
+
+එසේම එළැඹෙන සිංහල දෙමළ අලුත් අවුරුදු සමය තුළ රටේ මහජන ආරක්ෂාව තහවුරු කිරීමටත්, නීතිය හා සාමය ආරක්ෂා කිරීමටත් පුළුල් වැඩපිළිවෙළක් ක්‍රියාවට නංවන ලෙස ද ජනාධිපතිවරයා විසින් ආරක්ෂක අංශ වෙත උපදෙස් ලබා දී තිබේ.
+
+◼️
+
+[Data](articles/5adfdfcc.json)
 
 ---
 
@@ -1264,6 +1380,8 @@ From learning of the incident, I have seen suicide from two days, but suddenly I
 
 *2024-04-04 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98427/sacred-lord-buddha-relics-from-sri-lanka-presented-to-dalai-lama) · `en`
 
+#WATCH | Himachal Pradesh: Most Venerable Waskaduwe Mahindawamsa Nayaka Thero from of Kapilavastu Rajaguru Sri Sbhuthi Maha Vihara, Waskaduwa, Sri Lanka offers Gautama Buddha’s sacred relic to His Holiness the Dalai Lama.The Kapilavastu relics hold immense historical and… pic.twitter.com/U4Gri76RYv— ANI (@ANI) April 4, 2024
+
 Lord Buddha’s sacred Kapilavastu relics, situated at a holy temple in Sri Lanka, have been offered to the Dalai Lama on Thursday morning, the office of Dalai Lama said in a statement.
 
 The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa, a Buddhist temple in Sri Lanka.
@@ -1271,8 +1389,6 @@ The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa
 Notably, the Kapilavastu relics hold immense historical and spiritual significance, connecting the devotees to the profound legacy of Lord Buddha.
 
 The Sri Subhuthi Maha Viharaya in Waskaduwa houses 21 relics of the Lord Buddha.
-
-Waskaduwe Mahindawansa Maha Nayaka Thero is the custodian of these precious Kapilavastu relics, which have been preserved and protected for generations till now at Sri Subhuthi Maha Viharaya in Waskaduwa, Sri Lanka.
 
 ...
 
@@ -2175,137 +2291,5 @@ Designed to enjoy natural beauty, this Kalipsoo train has entertainment, includi
 [Data](articles/b0c5d597.json)
 
 [Extended Data](ext_articles/b0c5d597.ext.json)
-
----
-
-### Court orders IGP to appear in court
-
-*2024-04-04 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195289) · `si`
-
-The IGP must appear in court after issuing a directive to the Supreme Court regarding petitions against the transfer of Chief Inspectors.
-
-🟩
-
-The IGP has issued a directive to the Supreme Court informed several fundamental rights petitions filed against the transfer of a group of Chief Inspectors.
-
-When the petitions were called today, the petition issued the order by the Supreme Court Judiciary, a three-member Judge Jayantha Jayasuriya.
-
-◼️
-
-[Data](articles/576d97d0.json)
-
-[Extended Data](ext_articles/576d97d0.ext.json)
-
----
-
-### Authorities instructed to ensure essential public services during Avurudu
-
-*2024-04-04 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98422/authorities-instructed-to-ensure-essential-public-services-during-avurudu) · `en`
-
-President Ranil Wickremesinghe on Thursday (04) gave instructions to ensure that essential public services are smoothly carried on during the upcoming Sinhala and Tamil New Year and minimize the inconvenience caused to the general public.
-
-The Head of State gave these directives to the instructions to the respective state officials and ministerial authorities, according to the President’s Media Division (PMD).
-
-◼️
-
-[Data](articles/15b9fce3.json)
-
-[Extended Data](ext_articles/15b9fce3.ext.json)
-
----
-
-### President instructs to ensure seamless essential services during Avurudu
-
-*2024-04-04 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98422/president-instructs-to-ensure-seamless-essential-services-during-avurudu) · `en`
-
-President Ranil Wickremesinghe has given directives to implement a formal program aimed at maintaining essential services and public services seamlessly during the upcoming Sinhala and Tamil New Year (Avurudu) season.
-
-This initiative is intended to guarantee the smooth operation of essential services without any disruptions during the festive season, the President’s Media Division (PMD) said.
-
-In addition, Wickremesinghe has emphasized that institutions that fall under the ‘essential’ category such as the Presidential Secretariat, Prime Minister’s Office, Defence Ministry, Health Ministry, Transport Ministry, and Power and Energy Ministry must collaborate to prepare this program in tandem.
-
-Additionally, for the upcoming Sinhala and Tamil New Year season, the President has directed the security forces to execute a comprehensive program to ensure public security and the maintenance of law and order across the country.
-
-◼️
-
-[Data](articles/7d9b5627.json)
-
-[Extended Data](ext_articles/7d9b5627.ext.json)
-
----
-
-### President instructs to ensure essential public services during Avurudu
-
-*2024-04-04 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98422/president-instructs-to-ensure-essential-public-services-during-avurudu) · `en`
-
-President Ranil Wickremesinghe has given instructions to government officials to ensure a smooth continuation of essential services during the upcoming Sinhala and Tamil New Year.
-
-He also directed to minimize the inconvenience caused to the general public.
-
-◼️
-
-[Data](articles/a4a180db.json)
-
-[Extended Data](ext_articles/a4a180db.ext.json)
-
----
-
-### Damitha and husband arrested
-
-*2024-04-04 13:22:40* · [`adalk`](https://www.ada.lk/breaking_news/දමිතා-සහ-සැමියා-අත්අඩංගුවට/11-408947) · `si`
-
-Damitha and husband arrested. Ranhanitha Abeyratne accused of defrauding Rs. Court of Appeal denied interim injunction under Immigration and Emigration Act.
-
-🟩
-
-Ranhanitha Abeyratne, who was accused of defrauding Rs.
-
-The Court of Appeal also refused to issue an interim injunction preventive under the Immigration and Emigration Act.
-
-◼️
-
-[Data](articles/2e5a8015.json)
-
-[Extended Data](ext_articles/2e5a8015.ext.json)
-
----
-
-### Damitha Abeyratne and husband arrested by CID
-
-*2024-04-04 13:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98421/damitha-abeyratne-and-husband-arrested-by-cid) · `en`
-
-Sri Lankan actress Damitha Abeyratne and her husband were arrested by the Criminal Investigation Department (CID) today (04).
-
-The arrest came after the couple, who had been wanted by the CID, appeared before the Colombo Fort Magistrate’s Court earlier.
-
-The CID is currently carrying out an investigation into Abeyratne and her husband, in relation to their involvement in an alleged money scam.
-
-Speaking to the media at the courts premises, Abeyratne said: "I was not in hiding. Damitha is not someone who can hide in this country; she is a woman who fought against the corrupt system that garnered 69 lakh votes. Today, I surrender to the court. I will also celebrate the New Year in prison."
-
-The Computer Crimes Division of the CID had initiated an investigation into the alleged defrauding of Rs. 3 million by the couple on the promise of employment in South Korea. Subsequently, the CID informed the court that Abeyratne and her husband would be named as suspects of the relevant case.
-
-...
-
-[Data](articles/61b8088b.json)
-
-[Extended Data](ext_articles/61b8088b.ext.json)
-
----
-
-### Weerasena for Nandasena's post
-
-*2024-04-04 13:17:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நந்தசேனவின்-பதவிக்கு-வீரசேன/175-335609) · `ta`
-
-MG Veerasena steps in to fill the void left by MP KH Nandasena's death in Sri Lanka's Anuradhapura District.
-
-🟩
-
-MG Veerasena is to fill the vacuum caused by the demise of MP KH Nandasena of the Anuradhapura District Sri Lanka PA.
-
-◼️
-
-[Data](articles/a3e7f34e.json)
-
-[Extended Data](ext_articles/a3e7f34e.ext.json)
 
 ---

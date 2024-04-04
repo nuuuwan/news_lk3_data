@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 02:33:54**
+As of **2024-04-05 02:49:40**
 
 ## Newspaper Stats
 
-*Scraped **17,224** Articles*
+*Scraped **17,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 957
 adalk | 1,456
 tamilmirrorlk | 2,039
 adaderanalk | 2,065
-virakesarilk | 2,508
+virakesarilk | 2,511
 dailymirrorlk | 2,642
 adaderanasinhalalk | 2,783
 
@@ -26,109 +26,223 @@ adaderanasinhalalk | 2,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,218 (100.0%) of 17,224 articles have been extended.
+17,224 (100.0%) of 17,227 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### கத்திக்குத்து இலக்காகி இளம் குடும்பஸ்த்தர் பலி!
+### இரண்டு உயிர்களை பலியெடுத்த இணுவில் புகையிரதக் கடவைக்கு சமிக்ஞை விளக்கு!
+
+*2024-04-05 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180473) · `ta`
+
+இரண்டு உயிர்களை பலியெடுத்த இணுவில் புகையிரதக் கடவைக்கு அமைச்சர் டக்ளஸ் தேவானந்தாவின் முயற்சியில் சுமார் 80 இலட்சம் ரூபாய் செலவில் சமிக்ஞை விளக்கு மற்றும் பாதுகாப்பு கதவு ஆகியன பொருத்தப்பட்டு, வியாழக்கிழமை (05) அதன் செயற்பாடுகள் ஆரம்பித்து வைக்கப்பட்டுள்ளன.
+
+கடந்த பெப்ரவரி மாதம் 14 ஆம் திகதி, வேனில் பயணித்துக் கொண்டிருந்த இளம் குடும்பத்தினர், இணுவில் பகுதியில் அமைந்திருந்த குறித்த பாதுகாப்பற்ற ரயில் கடவையைக் கடக்க முற்பட்ட போது ரயிலிலுடன் மோதுண்டனர்.  இதனால் இளம் குடும்பத் தலைவரும் சில மாதங்களேயான பச்சிளம் குழந்தையும் ஸ்தலத்திலேயே பரிதாபகரமாக உயிரிழந்தனர். குழந்தையின் தாய் ஆபத்தான நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றார்.
+
+...
+
+[Data](articles/b9de0e1f.json)
+
+---
+
+### தேசிய எண்ணெய் தேய்த்தல் விழா ஏப்ரல் 15 ஆம் திகதி வத்தளை ஹெந்தல புராண ரஜமஹா விகாரையில் - இராஜாங்க அமைச்சர் சிசிர ஜயகொடி
+
+*2024-04-05 02:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180457) · `ta`
+
+தமிழ், சிங்களப் புத்தாண்டுக் கொண்டாட்டங்களின் சுப நிகழ்வுகளில் ஒன்றான தலைக்கு எண்ணெய் தேய்த்தல் தேசிய விழா ஏப்ரல் 15 ஆம் திகதி காலை 10.17 க்கு நடைபெறவுள்ளதாக சுதேச வைத்திய இராஜாங்க அமைச்சர் சிசிர ஜயகொடி தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் வியாழக்கிழமை (04) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே சுதேச வைத்திய இராஜாங்க அமைச்சர் சிசிர ஜயகொடி இதனைத் தெரிவித்தார்.
+
+புத்தாண்டு கொண்டாட்டங்களின் தனித்துவமான சுப சடங்குகளான எண்ணெய் தேய்த்தல் தேசிய விழாவை ஏப்ரல் 15 ஆம் திகதி காலை 10.17 க்கு வத்தளை ஹெந்தல புராண ரஜமஹா விகாரையில் நடத்த சுதேச வைத்திய அமைச்சு மற்றும் ஆயுர்வேத திணைக்களம் ஏற்பாடு செய்துள்ளது.
+
+மேலும், சிங்கள மற்றும் தமிழ் புத்தாண்டு கொண்டாட்டங்களின் கடைசி சுபச் சடங்கு, மரக்கன்றுகள் நடும் நிகழ்வு, ஏப்ரல் 18 ஆம் திகதி நடைபெறும். சுதேச வைத்திய அமைச்சு அந்த நாளை 'முருங்கை தினம்' என்று பெயரிட்டுள்ளது. அன்றைய தினம், அனைத்து மக்களையும் தங்கள் தோட்டத்தில், அதீத சத்துள்ள, அதிக மருத்துவ குணம் கொண்ட முருங்கை செடியை நடுகைச் செய்யுமாறு கேட்டுக்கொள்கிறோம்.
+
+...
+
+[Data](articles/d2ebc590.json)
+
+---
+
+### வவுனியாவில் மோட்டார் சைக்கிளை மோதி விபத்து தப்பிச் சென்ற கார்: இருவர் காயம்
+
+*2024-04-05 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180472) · `ta`
+
+வவுனியாவில் மோட்டர் சைக்கிளை மோதிவிட்டு கார் ஒன்று தப்பிச் சென்றுள்ளதுடன், குறித்த விபத்தில் இருவர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+குறித்த விபத்தானது வவுனியா, வைரவபுளியங்குளம், புகையிரத நிலைய வீதியில் வியாழக்கிழமை (04) மாலை இடம்பெற்றது.
+
+வவுனியா நகரிலிருந்து புகையிரத நிலைய வீதி ஊடாக மோட்டர் சைக்கிள் ஒன்று சென்று கொண்டிருந்த போது பின்னால் வந்த கார் ஒன்று குறித்த மோட்டர் சைக்கிளுடன் மோதி விபத்தை ஏற்படுத்தி விட்டு வாகனத்தை நிறுத்தாது தப்பிச் சென்றுள்ளது.
+
+குறித்த விபத்தில் மோட்டர் சைக்கிளில் பயணித்த தாயும், மகனும் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். சேதமடைந்த மோட்டர் சைக்கிள் பொலிசாரால் எடுத்துச் செல்லப்பட்டதுடன், தப்பிச்  சென்ற காரினை அப் பகுதியில் நின்றவர்கள் எடுத்த புகைப்படம் மற்றும் சிசீரீவி கணொளி உதவியுடன் வவுனியா பொலிசார் தேடி வருகின்றனர்.
+
+EP CBL 6679 இலக்கமுடைய  என்னும் இலக்கமுடைய காரே விபத்தை ஏற்படுத்தி விட்டு தப்பிச் சென்றிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0add92ef.json)
+
+---
+
+### Young family killed
 
 *2024-04-05 02:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180471) · `ta`
 
-தர்மபுரம் பொலிஸ் பிரிவுக்கு உட்பட்ட பாடசாலை ஒன்றில் இடம்பெற்ற இல்ல மெய்வல்லுனர் திறனாய்வு போட்டியை பார்வையிட்டு விட்டு திரும்பி சென்ற பொழுது வீதியில் ஏற்பட்ட கைகலப்பு காரணமாக கத்தியால் பலதடவைகள் பலமாக குத்தப்பட்டு கொலை சம்பவம் ஒன்று வியாழக்கிழமை (4) அரங்கேறியது.
+A 30-year-old family man, Savarimuthu John, was stabbed to death on his way home from a school sports event in Dharmapuram. The suspect has been arrested, and an autopsy is underway.
 
-30 வயதுடைய சவரிமுத்து ஜோன் பற்றிஸ் (வயது 30) என்ற குடும்பஸ்தரே கத்திக் குத்துக்கு இலக்காகிய நிலையில் தருமபுரம் வைத்தியசாலைக்கு கொண்டு செல்லும் பொழுது உயிரிழந்துள்ளார்.
+🟩
 
-கத்திக்குத்துக்கு இலக்காகி இறந்தவரின் சடலம் பிரேத பரிசோதனைக்காக கிளிநொச்சி வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளது.
+On Thursday (4), a murder was stabbed to death with a knife on the road when he returned to the Home Athletic Review Competition at a school under the Dharmapuram police division.
 
-இச்சம்பவத்துடன் தொடர்புடைய சந்தேகநபர் ஒருவர் தருமபுர பொலிசாரால் கைது செய்யப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை தர்மபுரம் பொலிசார் மேற்கொண்டு வருகின்றனர்.
+The 30 -year -old Savarimuthu John, a family man, was aimed at a knife and died when she was taken to Darumapuram Hospital.
+
+The body of the deceased has been taken to Kilinochchi Hospital for autopsy.
+
+A suspect in connection with the incident has been arrested by the Dharmapura police and further investigations are being carried out by Dharmapuram police.
 
 ◼️
 
 [Data](articles/661b4687.json)
 
+[Extended Data](ext_articles/661b4687.ext.json)
+
 ---
 
-### பாராளுமன்ற தேர்தலுடன் அரசியலில் இருந்து ஓய்வு - அமைச்சர் டக்ளஸ்
+### Retired from politics with parliamentary elections - Minister Douglas
 
 *2024-04-05 02:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180470) · `ta`
 
-எதிர்வரும் பாராளுமன்ற தேர்தலுடன் அரசியலில் இருந்து ஓய்வு பெறத் தீர்மானித்துள்ளதாத ஈழ மக்கள் ஜனநாயகக் கட்சியின் செயலாளர் நாயகமும்  கடற்தொழில் அமைச்சருமான டக்ளஸ் தேவானந்தா தெரிவித்தார்.
+Douglas Devananda, Eelam People's Democratic Party Secretary-General and Minister of Fisheries, retires from politics ahead of parliamentary elections. He aims to focus on Tamil people's daily issues and development, lamenting insufficient seats to negotiate with the South. Despite hoping to retire post-last election, he remains involved to complete unfinished tasks.
 
-யாழ்ப்பாணத்தில் வியாழக்கிழமை (4) இடம்பெற்ற சமூர்த்தி உத்தியோகத்தர்களுடனான கலந்துரையாடலின் போதே  அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-அவர் மேலும் தெரிவிக்கையில், நான்  ஆயுதப் போராட்டத்தில் இருந்து அரசியலில் நீரோட்டத்துக்கு பல்வேறு தடைகளைக்  கடந்து வந்தவன்.
+Douglas Devananda, Secretary -General of the Eelam People's Democratic Party and Minister of Fisheries, said that he has decided to retire from politics with the upcoming parliamentary election.
 
-தமிழ் மக்களின் அரசியல் அன்றாடப் பிரச்சினை மற்றும் அபிவிருத்தி என்பவற்றை எனது அரசியல் காலத்தில் முடிந்தவரை பெற்றுக் கொடுப்பதே எனது இலக்கு.
+He was speaking at a discussion with Samurdhi Officers in Jaffna on Thursday (4).
 
-துரதிஸ்டவசமாக எனக்கு கிடைத்த ஆசனங்கள் போதாமையால் தெற்குடன் பேரம் பேசும் சக்தியை மக்கள் வழங்கவில்லை.
+He added that I have crossed the armed struggle to the politics of politics.
 
-தமிழ் மக்களுக்கு எதையாவது பெற்றுக் கொடுக்க வேண்டுமே என்ற நினைப்பு மட்டும் எனக்கு இருக்கிறது மக்களை வைத்து அரசியல் செய்ய வேண்டிய தேவை எனக்கு இல்லை.
+My goal is to get the political daily issue and development of the Tamil people as much as possible in my political period.
 
-...
+Unfortunately, the people did not provide the bargaining power with the South because the seats were not enough.
+
+I only think that the Tamil people need to get something. I do not need to do politics with the people.
+
+I thought I could retire from politics after the last parliamentary election but I was involved in politics with the hope that I could finish some things.
+
+Therefore, I am going to retire politics with the upcoming parliamentary election, so I am going older, ”he added.
+
+◼️
 
 [Data](articles/21ccbdc4.json)
 
+[Extended Data](ext_articles/21ccbdc4.ext.json)
+
 ---
 
-### BAIC X55 II SUV வாகனங்களுக்கான முன்பதிவுகளை ஆரம்பித்திருக்கும் டேவிட் பீரிஸ் ஓட்டோமொபைல்ஸ்
+### Baic X55 II SUV David Peiris Ottomobiles, which have started bookings for vehicles
 
 *2024-04-05 02:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180469) · `ta`
 
-கொழும்பு, 2024 ஏப்ரல் 4 --- ,லங்கையில் புத்தம் புதிய BAIC X55 II SUV வாகனங்களுக்கான முன்பதிவுகளைப் பெற்றுக்கொள்ளும் நடவடிக்கைகளை டேவிட் பீரிஸ் ஓட்டோமொபைல்ஸ் (பிரைவட்) லிமிடட் நிறுவனம் உத்தியோகபூர்வமாக ஆரம்பித்துள்ளது. எளிமையான முறையில் நடைபெற்ற நிகழ்வில் 15 வாடிக்கையாளர்கள் தமது புத்தம் புதிய வாகனங்களுக்குரிய முற்பதிவுக்கான வைப்புக்களை மேற்கொண்டதுடன், டேவிட் பீரிஸ் ஓட்டோமொபைல்ஸ் நிறுவனத்துக்கும் அதன் வாடிக்கையாளர்களுக்கும் ஒரு அற்புதமான பயணத்தின் ஆரம்பத்தைக் குறிக்கும் வகையில்  இந்நிகழ்வு அமைந்தது.
+David Peiris Ottomobiles in Sri Lanka has begun bookings for the Baic X55 II SUV, marking a new era with strategic alliance with Nandasri Holdings. The company has secured permission for the domestic value-added program, offering two versions: Honour and Luxury. The Baic X55 II features include 5 seats, 1500cc engine, and advanced safety and comfort features.
+
+🟩
+
+Colombo, 2024 April 4---- Sri Lanka. At the simplest event, 15 customers made deposits for their brand new vehicles and marked the onset of a wonderful journey to David Peiris Ottomobiles and its customers.
+
+David Peiris Otomobiles recently announced that the new new era, which promises Sri Lankan motorists, has established a strategic alliance with the Nandasri Holdings Company Limited to provide quality products and non -customer services.The company has obtained permission to distribute and distribute future vehicle models for the domestic value added program under the Sustainable Operational Procedure introduced in Sri Lanka by the Ministry of Industry and Automatic Manufacturing.
+
+David Peiris Ottomobiles has launched two versions - Baic X55 II Honour vehicle with basic features and Baic X55 II Luxury vehicle with full choices.
 
 ...
 
 [Data](articles/5c52ef13.json)
 
+[Extended Data](ext_articles/5c52ef13.ext.json)
+
 ---
 
-### கொழும்பு - பதுளை புகையிரத சேவை நூற்றாண்டு நிறைவு
+### Colombo - Badulla Railway Service
 
 *2024-04-05 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180468) · `ta`
 
-கொழும்பு - பதுளை புகையிரத சேவை ஆரம்பிக்கப்பட்டு இன்றுடன் 100 ஆண்டுகள் நிறைவடைகின்றன.ஆகவே மலையகத்துக்கான புகையிரத சேவையை விரிவுப்படுத்தும்  வகையில் பதுளைக்கு மூன்று விசேட புகையிரத சேவைகள் இன்று ஆரம்பித்து வைக்கப்படவுள்ளன என்று போக்குவரத்து,நெடுஞ்சாலைகள் அபிவிருத்தி மற்றும் ஊடகத்துறை அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+"Colombo-Badulla Railway Service expands with three special trains, launched by Minister Bandula Gunawardena. The service connects Colombo Fort Railway Station to Badulla, with additional buses purchased and recovered. The Sri Lanka Transport Department's budget for 2022 is 70.9 billion, increasing to 76.9 billion in 2023."
 
-அரசாங்க தகவல் திணைக்களத்தில் வியாழக்கிழமை (4) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-கொழும்பு கோட்டை புகையிரத  நிலையத்துக்கும் பதுளைக்கும் இடையில் புகையிரத சேவை ஆரம்பிக்கப்பட்டு இன்றுடன் 100 ஆண்டுகள் நிறைவு பெறுகின்றன.மலையகத்துக்கான புகையிரத சேவையை மேம்படுத்தும் வகையில் கொழும்பு கோட்டை புகையிரத நிலையத்தில் இருந்து 'துன்கிந்த ஒடிசி' என்ற விசேட புகையிரத சேவை பதுளை நோக்கி இன்று காலை 06 மணிக்கு புறப்படவுள்ளது.
+Transport, Highways Development and Media Minister Bandula Gunawardena said that three special rail services to Badulla will be launched today to expand the train service to the hill country.
 
-...
+He made this statement during a media briefing held at the Government Information Department on Thursday (4).
+
+The train service between the Colombo Fort Railway Station and Badulla has been completed today.
+
+The special train will be deployed on other days except Thursday.
+
+500 buses have been purchased under the Indian Loan Scheme in 20122 and 400 buses and 50 miraculous buses have been recovered from the public transport service.
+
+The Sri Lanka Transport Department has increased to 70.9 billion in 2022 and in 2023, to 76.9 billion.
+
+◼️
 
 [Data](articles/38d6a67c.json)
 
+[Extended Data](ext_articles/38d6a67c.ext.json)
+
 ---
 
-### புத்தாண்டை முன்னிட்டு விசேட போக்குவரத்து சேவைகள் - போக்குவரத்து அமைச்சு
+### Special Transport Services on New Year - Ministry of Transport
 
 *2024-04-05 01:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180467) · `ta`
 
-தமிழ் சிங்கள புத்தாண்டை முன்னிட்டு விசேட பேருந்து மற்றும் புகையிரத சேவைகள் பொது போக்குவரத்து சேவையில் ஈடுபடுத்தப்படவுள்ள.இன்று முதல் எதிர்வரும் 17 ஆம் திகதி வரை  பேருந்து போக்குவரத்து சேவையில் 2270 பேருந்துகள் மேலதிகமாக சேவையில் ஈடுபடுத்தப்படவுள்ளன.
+During the Tamil-Sinhala New Year, special buses and rail services will be deployed. The National Transport Board Chairman Lalith Alwis announced the recruitment of 2270 buses from today, with additional buses for the 10th to 17th. Special train services will also be organized from the 10th to 15th.
 
-தமிழ் - சிங்கள புத்தாண்டை முன்னிட்டு பொது பயணிகளின் நலன் கருதி  2270 பேருந்துகள் சேவையில் இன்று முதல் ஈடுப்படுத்தப்படும்.போக்குவரத்து சேவைகள் தொடர்பில் ஏதேனும் பிரச்சினைகள் காணப்படுமாக இருந்தால் பொது பயணிகள் 1958 என்ற விசேட தொலைப்பேசி இலக்கத்துக்கு அழைத்து முறைப்பாளிக்கலாம் என தேசிய போக்குவரத்து சபையின் தலைவர் லலித் அல்விஸ் தெரிவித்தார்.
+🟩
 
-அரசாங்க தகவல் திணைக்களத்தில் வியாழக்கிழமை (05) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+Special buses and rail services will be deployed in the Tamil Sinhala New Year.
 
-தமிழ் -சிங்கள சித்திரை புத்தாண்டை முன்னிட்டு விசேட பேருந்து போக்குவரத்து சேவைகள் இன்று முதல் முன்னெடுக்கப்படவுள்ளன.இதற்கமைய இன்று (05) முதல் எதிர்வரும் 09 ஆம் திகதி வரை கொழும்பு மத்திய கொழும்பு மத்திய பேருந்து நிலையத்தில் இருந்து 1000 பேருந்துகள் சேவையில் ஈடுப்படுத்தப்படவுள்ளன.
+The National Transport Board Chairman Lalith Alwis said that if there is any problems with the public passengers in the welfare of the Tamil -Sinhala New Year, 2270 buses will be recruited from today.
 
-...
+He made this statement during a media briefing held at the Government Information Department on Thursday (05).
+
+Special bus transport services will be carried out from today (05) to the 09th of this month.
+
+In addition, 1400 buses from the 10th to the 12th, 1000 buses from the 13th to the 14th and 1400 buses from the 14th to the 17th.
+
+Buses departing from Colombo to far and areas will be fully monitored.
+
+It is not mandatory to be allocated as a pre -exclusion of the areas from Colombo.
+
+The Department of Railways has organized a special train service from the 10th to the 15th of this month.
+
+Four special trains will be operated from the 10th to the 15th of this month.
+
+◼️
 
 [Data](articles/5641890a.json)
 
+[Extended Data](ext_articles/5641890a.ext.json)
+
 ---
 
-### திருகோணமலை மடத்தடி வீரகத்தி பிள்ளையார் ஆலய காணியில் சட்டவிரோதமான முறையில் பாரிய புத்தர்சிலை
+### Illegal Buddhasil in Trincomalee
 
 *2024-04-05 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180466) · `ta`
 
-திருகோணமலை மடத்தடி வீரகத்தி பிள்ளையார் ஆலய காணியில் சட்டவிரோதமான முறையில் தமிழ் மக்களின் எதிர்ப்பையும் மீறி பாரிய புத்தர்சிலை வைப்பதற்கான நடவடிக்கை முன்னெடுக்கப்பட்டு வருகின்றது. இதனால் அப்பகுதியில் பதட்டமான சூழல் நிலவி வருகின்றது.
+Illegal construction of a massive Buddha statue in Trincomalee's Madathadi Veerakathi Pillaiyar temple land, without state department permission, has created tension. Despite opposition and previous illegal placement, the project continues, raising concerns about inter-species conflict and genocide. Intellectuals and residents fear disruption of ethnic harmony.
 
-திருகோணமலை மடத்தடி பகுதியில், பிரதான வீதிக்கு அருகாமையில் வீரகத்தி பிள்ளையார் ஆலயத்திற்கு சொந்தமான காணியில் கடந்த மாதம் 22 ஆம் திகதி முதல் பாரிய புத்தர் சிலை வைப்பதற்கான கட்டுமானப் பணிகள் முன்னெடுக்கப்பட்டு வருகின்றது. குறித்த கட்டுமானப் பணிகளுக்கு நகரசபை, வீதி அபிவிருத்தி அதிகாரசபை, நகர அபிவிருத்தி அதிகார சபை உட்பட எவ்வித அரச திணைக்களங்களினுடைய அனுமதியும் பெறப்படாமல் சட்ட விரோதமான முறையில் குறித்த கட்டுமானப்பணிகள் இடம்பெற்று வருகின்றது.
+🟩
+
+Steps are being taken to illegally put a massive Buddha in the land of the Tamil people in the land of the Madathadi Veerakathi Pillaiyar temple in Trincomalee.. This causes a tense environment in the area.
+
+The construction work is being carried out on the land belonging to the Veerakathi Pillaiyar Temple near the main road in the Madatadi area of Trincomalee.. The construction work is being carried out illegally without the permission of any state departments, including the Municipal Council, the Road Development Authority and the Urban Development Authority.
+
+The Secretary of the Urban Council visited the scene on the 23rd of last month and visited the constructions, although the constructions are taking place as usual.. The Tamil people fear that the statue of Buddha will be placed on the eve of the Vesak Poorana Day and the Vihara in the area will be set up in the area.. The residents of the area staged a demonstration on the 14th of last month to provide their land documents.
 
 ...
 
 [Data](articles/2ac830f6.json)
+
+[Extended Data](ext_articles/2ac830f6.ext.json)
 
 ---
 
@@ -2235,73 +2349,5 @@ Siyambalapitiya told reporters that the country’s rapidly recovering tourism i
 [Data](articles/a3c78a19.json)
 
 [Extended Data](ext_articles/a3c78a19.ext.json)
-
----
-
-### South Korea to provide employment for Sri Lankans, including in seasonal work
-
-*2024-04-04 14:43:00* · [`economynextcom`](https://economynext.com/south-korea-to-provide-employment-for-sri-lankans-including-in-seasonal-work-157555/) · `en`
-
-ECONOMYNEXT – South Korea will provide more employment opportunities for Sri Lankans and help the island nation with education and vocational training, the Sri Lankan Prime Minister’s office said in a statement.
-
-Prime Minister Dinesh Gunawardena is on a visit to the People’s Republic of South Korea, where he met Governor of Gyeongsangbuk-du Province Lee Cheol Woo.
-
-“The Provincial Government agreed to offer many benefits for education and higher education, agriculture, fisheries, women and rural development in Sri Lanka during the talks,” the statement read.
-
-Agreements were reached on “providing more employment opportunities in Korea for Sri Lankans,” and the “possibility of short-term provision of human resources required in Korea only for the harvesting season.”
-
-South Korea’s Seasonal Worker Program (SWP) allows legal hiring of foreign workers for short periods to address chronic labor shortages during the busy farming and fishing seasons.
-
-...
-
-[Data](articles/f945acd3.json)
-
-[Extended Data](ext_articles/f945acd3.ext.json)
-
----
-
-### Subcompenses on May Stage - The Cabinet Examination May
-
-*2024-04-04 14:38:21* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළ ප්‍රථිපල-මැයි-මුල---සාපෙල-විභාගය-මැයි-මැද/11-408953) · `si`
-
-The GCE Ordinary Level Examination schedule ends mid-May. The Minister, at an awards ceremony, announced approval for 35,000 O/L and 19,000 A/L examiners to receive satisfactory allowances soon.
-
-🟩
-
-The A / L examination schedule of the GCE Ordinary Level Examination will be completed in the middle of May.
-
-The Minister made this observation as the Chief Guest at the awards ceremony held at the Ministry of Education for the supervisorship of the 'Observation of Research Degree' organized by the National Science Foundation.
-
-The Minister further stated that the approval of the approval is taken to obtain the approval within the next few weeks.. He said that 35,000 O / L examineters and 19,000 GCE Advanced Level Examination Inspectors are expected to have a satisfactory allowance.
-
-◼️
-
-[Data](articles/ae6896cb.json)
-
-[Extended Data](ext_articles/ae6896cb.ext.json)
-
----
-
-### Duminda, Lasantha, Amaraweera returned to the SLFP
-
-*2024-04-04 14:38:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுதந்திரக்-கட்சிக்கு-மீண்டும்-திரும்பிய-துமிந்த-லசந்த-அமரவீர/175-335611) · `ta`
-
-Duminda Dissanayake invites all to join the Sri Lanka Freedom Party (SLFP), highlighting the party's challenges, including a court case led by former President Chandrika Bandaranaike and the ban on party leader Maithripala Sirisena.
-
-🟩
-
-Duminda Dissanayake has said that everyone will be invited to make a new journey with the Sri Lanka Freedom Party.
-
-He was speaking at a special press conference on behalf of the Sri Lanka Freedom Party (SLFP) on behalf of the Sri Lanka Freedom Party (SLFP).
-
-The special press conference was held at the headquarters of the Sri Lanka Freedom Party.
-
-They added, “Former President Chandrika Bandaranaike sought the court in which the party was unable to see the destruction of the party.. Accordingly, Maithripala Sirisena, the party leader, was banned. ”
-
-◼️
-
-[Data](articles/4938b8b2.json)
-
-[Extended Data](ext_articles/4938b8b2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 20:18:01**
+As of **2024-04-04 20:33:34**
 
 ## Newspaper Stats
 
-*Scraped **17,177** Articles*
+*Scraped **17,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ tamilmirrorlk | 2,034
 adaderanalk | 2,062
 virakesarilk | 2,497
 dailymirrorlk | 2,637
-adaderanasinhalalk | 2,778
+adaderanasinhalalk | 2,779
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,175 (100.0%) of 17,177 articles have been extended.
+17,177 (100.0%) of 17,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### ජනපති මැණික් කුලුන විවෘත කරයි
+
+*2024-04-04 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195311) · `si`
+
+ශක්තිමත් ආර්ථිකයක් සමග විශ්වාසයෙන් යුතුව ඉදිරියට යා හැකි පරිසරයක් අද රට තුළ නිර්මාණය වී ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කළේ, රත්නපුරයේ ස්ථාපිත ජාත්‍යන්තර මැණික් හා ස්වර්ණාභරණ වෙළෙඳ මධ්‍යස්ථානය විවෘත කිරීමේ උත්සවයේදීය.
+
+රත්නපුර, දෙමුවාවත ඉදිකළ ජාත්‍යන්තර මැණික් හා ස්වර්ණාභරණ වෙළෙඳ මධ්‍යස්ථානය එනම් රත්නපුර මැණික් කුලුන අද ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් විවෘත කෙරුණි.
+
+එහි පළමු අදියර යටතේ රුපියල් ලක්ෂ 3,650ක වියදමකින් ඉදිකළ පස් මහල් ගොඩනැඟිල්ල ව්‍යාපාරික ස්ථාන 27කින් සමන්විතය.
+
+මින් මැණික් අලෙවිකරුවන්ට සහ ගැණුම්කරුවන්ට ජාත්‍යන්තර මැණික් වෙළෙඳාම් කටයුතුද එකම වහලක් යට ක්‍රමවත්ව හා ආරක්ෂිතව සිදුකිරීමට ඉඩ සැලසෙයි.
+
+මෙම මධ්‍යස්ථානය ආසියාවේ මැණික් හා ස්වර්ණාභරණ අලෙවිය සඳහා ප්‍රමුඛතම විකුණුම් මධ්‍යස්ථාන වන බැංකොක් හා හොංකොං හී මෙන් ස්වාධීන තත්ත්ව පරීක්ෂණ සේවා, රසායනාගාර සේවා සහ බැංකු මෙන්ම අපනයන සේවාද සපයනු ලබයි.
+
+...
+
+[Data](articles/07d012df.json)
+
+---
 
 ### Student dies after concrete object falls on him in school premises
 
@@ -50,21 +72,29 @@ Meanwhile, it has been uncovered that the concrete object in question had been b
 
 [Data](articles/b24c7e8b.json)
 
+[Extended Data](ext_articles/b24c7e8b.ext.json)
+
 ---
 
-### අප්‍රේල් 18 පැල සිටුවීමේ දිනය මුරුංගා දිනය වෙයි
+### April 18 Plant Planting Day is Murunga Day
 
 *2024-04-04 19:53:26* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රේල්-18-පැල-සිටුවීමේ-දිනය-මුරුංගා-දිනය-වෙයි/11-408957) · `si`
 
-සිංහල හා හින්දු අලුත් අවුරුදු මංගල්‍යයේ සුවිශේෂී නැකැත් චාරිත්‍රයක් වන හිසතෙල් ගෑමේ ජාතික උත්සවය අප්‍රේල් 15 වන දා පෙරවරු 10.17 ට වත්තල, හැඳළ පුරාණ රජමහා විහාරයේදී පැවැත්වෙන බව දේශීය වෛද්‍ය රාජ්‍ය අමාත්‍ය නීතිඥ සිසිර ජයකොඩි මහතා පැවසීය.
+April 18 is Murunga Day, marking the Sinhala and Hindu New Year Festival at Annayal Rajamaha Viharaya in Wattala. The Ministry of Indigenous Medicine and Ayurveda Department organize events, including the Ayurex 2024 Exhibition and massage center initiatives.
 
-එසේම සිංහල හා හින්දු අලුත් අවුරුදු උත්සවයේ අවසන් නැකැත් චාරිත්‍රය වන පැළ සිටුවීම අප්‍රේල් 18 වනදාට යෙදී ඇති බවත් එය දේශීය වෛද්‍ය අමාත්‍යාංශය විසින් ‘මුරුංගා දිනය’ ලෙස නම් කර ඇති බවත් රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-දේශීය වෛද්‍ය රාජ්‍ය අමාත්‍ය නීතිඥ සිසිර ජයකොඩි මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (04) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Official Dr. Minister of Indigenous Medicine Sisira Jayakody said that the National Celebration of the Sinhala and Hindu New Year Festival will be held at the Annayal Rajamaha Viharaya in Wattala.
+
+The final rising ritual ritual of the Sinhala and Hindu New Year festival is on April 18, the Ministry of Indigenous Medicine has named the Ministry of Indigenous Medicine.
+
+State Minister of Indigenous Medicine Sisira Jayakody said this at a press conference held at the Presidential Media Center today (04).
 
 ...
 
 [Data](articles/f7c0a1a1.json)
+
+[Extended Data](ext_articles/f7c0a1a1.ext.json)
 
 ---
 
@@ -2259,21 +2289,5 @@ The majority of the JVP membership hailed from Sinhala Buddhist rural background
 [Data](articles/1665697c.json)
 
 [Extended Data](ext_articles/1665697c.ext.json)
-
----
-
-### Parliamentary committee looks into preventing illegal fishing activities off northern Sri Lanka
-
-*2024-04-04 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98415/parliamentary-committee-looks-into-preventing-illegal-fishing-activities-off-northern-sri-lanka) · `en`
-
-The Sectoral Oversight Committee on Alleviating the Impact of the Economic Crisis, chaired by MP Gamini Waleboda, recently convened a meeting in Parliament with the participation of Secretary to the Fisheries Ministry, government institutions under the ministry’s purview, officials including heads and representatives of the north-eastern fishing community.
-
-The fishermen representatives of the north pointed out that the illegal encroachment of the northern coast by Indian fishermen have severely affected their livelihoods. Moreover, it was disclosed that the damage to marine resources due to fishing using trawling methods by Indian fishermen has not been assessed so far, the Parliamentary Communications Department said in a statement.
-
-...
-
-[Data](articles/e0711335.json)
-
-[Extended Data](ext_articles/e0711335.ext.json)
 
 ---

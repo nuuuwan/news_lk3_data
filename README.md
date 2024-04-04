@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 08:52:24**
+As of **2024-04-04 09:03:15**
 
 ## Newspaper Stats
 
-*Scraped **17,027** Articles*
+*Scraped **17,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,56 @@ bbccomsinhala | 178
 dbsjeyarajcom | 208
 newsfirstlk | 363
 dailyftlk | 929
-economynextcom | 942
+economynextcom | 943
 islandlk | 943
 adalk | 1,430
 tamilmirrorlk | 2,022
 adaderanalk | 2,039
 virakesarilk | 2,457
-dailymirrorlk | 2,619
-adaderanasinhalalk | 2,747
+dailymirrorlk | 2,620
+adaderanasinhalalk | 2,748
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,027 (100.0%) of 17,027 articles have been extended.
+17,027 (100.0%) of 17,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
+
+### රුපියලේ අගය ගැන කියන ජනපති
+
+*2024-04-04 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195278) · `si`
+
+රජය ගෙන ගිය නිවැරදි ආර්ථික කළමනාකරණය හේතුවෙන් රුපියලේ වටිනාකම ඉහළ ගොස් ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා පෙන්වාදෙන්නේ, ඒ අනුව සෘණ ආර්ථික වර්ධන වේගයක් පැවති රටේ මේ වන විට ආර්ථිකය ශක්තිමත් වී ඇති බවය.
+
+බස්නාහිර පළාත් උපාධිධාරී ගුරුවරුන් 2,320 දෙනෙකුට ගුරු පත්වීම් ලබාදීමේ උත්සවයට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කළේය.
+
+"දැන් රුපියල 300ට ඇවිත් ශක්තිමත් වෙලා තියෙන්නේ. ඒ ගන්න පියවරෙන් මම බලාපොරොත්තු වෙනවා ඩොලරයට රුපියල 280ක් කරගන්න. එතකොට අතට ලැබෙන සල්ලිවලට මුදල ශක්තිමත් වෙනවා. මේක කරගෙන යන්න ඕනේ. ආණ්ඩුවේ වැඩකරන්න මුදල් හොයා ගන්න ඕනේ. මේක අමාරු, දුෂ්කර මාර්ගයක යන්නේ. සම්පුර්ණයෙන්ම වැටුණ ආර්ථිකය අපි දියුණු කරගෙන යනවා. මේ කාලයේ දී පුළුවන් වුණා පඩි වැඩිකරන්න. දීමනා වැඩිකරන්න. අස්වැසුම තුන්ගුණයකින් වැඩි කරන්න. සිංහල අවුරුදු කාලයේ දී වීවලට හොඳ මිලක් ලබාදෙන්නත් අපි කටයුතු කළා. ආර්ථික නඟා සිටවන්න ඕන. මේ යන කාලේ ටිකක් අමාරු වෙන්න පුළුවන්. එන වර්ෂය වෙද්දි ගුරුවරු බඳවා ගන්න අමාත්‍යාංශවලට මුදල් දෙන්නත් අපි බලාපොරොත්තු වෙනවා."
+
+...
+
+[Data](articles/fe4b26a8.json)
+
+---
+
+### Trains delayed on mainline this morning
+
+*2024-04-04 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Trains-delayed-on-mainline-this-morning/108-280153) · `en`
+
+Train services on the main line will be delayed due to the technical fault of a train that plies to Colombo Fort from Maho blocking the tracks this morning.
+
+Additionally, another train has broken down between the Yaththalgoda and Ambepussa stations.
+
+◼️
+
+[Data](articles/71d02c42.json)
+
+---
 
 ### Sudden decision from Ministry of Health
 
@@ -243,6 +275,26 @@ The Railway Department has announced that special train services will be carried
 [Data](articles/a932489d.json)
 
 [Extended Data](ext_articles/a932489d.ext.json)
+
+---
+
+### Sri Lanka plans to roll PAL, CESS into new customs duty band
+
+*2024-04-04 06:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-to-roll-pal-cess-into-new-customs-duty-band-157442/) · `en`
+
+ECONOMYNEXT – Sri Lanka is planning to phase out para tariffs like ports and airport levy (PAL) and export development cess (CESS) into a new higher tariff band, K A Vimalenthirarajah, Director General of the Department of Trade and Investment Policy said.
+
+So-called ‘para tariffs’ which are usually slapped on top of an existing import duty have come under fire from foreign trade partners and international trade bodies.
+
+CESS levies in particular are slapped to given protectionist profits to political powerful crony ‘domestic producers’, at the expense of the poor and the economic competitiveness, critics have said.
+
+Import duties on most goods are now officially set at 0, 15 or 20 percent but with back-door PAL and CESS ‘para-tariffs’ on top.
+
+Instead of PAL and CESS an additional higher customs duty band is being considered, Vimalenthirarajah told a business forum organized by the Import Section of the Ceylon Chamber of Commerce recently.
+
+...
+
+[Data](articles/fb7daa17.json)
 
 ---
 
@@ -2177,77 +2229,5 @@ Attorney Nimal Punjihewa noted that 44 complaints have been received regarding t
 [Data](articles/b48bd8b5.json)
 
 [Extended Data](ext_articles/b48bd8b5.ext.json)
-
----
-
-### Sri Lanka state bus system looks to e-ticketing to combat revenue leaks
-
-*2024-04-03 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-bus-system-looks-to-e-ticketing-to-combat-revenue-leaks-157408/) · `en`
-
-ECONOMYNEXT – Sri Lanka is promoting e-ticketing for state buses to stop revenue theft by bus conductors, Minister of Transport Bandula Gunawardana said.
-
-“Some conductors take a portion of the money home,” Gunawardana told reporters Wednesday.
-
-“The take home amount is 10 million rupees daily, or 100 lakhs, which together becomes 3 billion a year.
-
-“So therefore, I have struggled to implement e-ticketing from the moment I took this responsibility.”
-
-However, Minister Gunawardana said that there has been opposition from transportation workers with some of them setting up committees and taking the matter to court as citizens.
-
-Many workers are honest, but there are some who are not, in the same way most passengers buy tickets but some travel without, he said.
-
-“If they make an e-reservation, some guards don’t like it,” Gunawardana said. “They take a 5,000-rupee ticket and sell it to the tourists for 30,000 rupees. They don’t let us do it online.”
-
-...
-
-[Data](articles/4862fc48.json)
-
-[Extended Data](ext_articles/4862fc48.ext.json)
-
----
-
-### Murugan, Robert Paes and Jayakumar returned home
-
-*2024-04-03 17:59:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முருகன்-ரொபர்ட்-பயஸ்-ஜெயக்குமார்-மூவரும்-வீடு-திரும்பினர்/175-335574) · `ta`
-
-Murugan, Robert Paes, and Jayakumar returned home after inquiries in Sri Lanka. Rajiv Gandhi, released from murder charges, returned to India 33 years later.
-
-🟩
-
-Former Prime Minister of India Rajiv Gandhi, who was arrested and released on charges of murder, returned to the country on Wednesday 33 years later.
-
-Murugan, Robert Paes and Jayakumar have arrived in Sri Lanka. After inquiries, they returned home at 5.55 pm on Wednesday (03)
-
-◼️
-
-[Data](articles/f465f4f7.json)
-
-[Extended Data](ext_articles/f465f4f7.ext.json)
-
----
-
-### World’s oldest man dies weeks before 115th birthday
-
-*2024-04-03 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98403/worlds-oldest-man-dies-weeks-before-115th-birthday) · `en`
-
-Venezuelan Juan Vicente Perez Mora, certified in 2022 by Guinness World Records as the oldest man in the world, died on Tuesday at the age of 114, officials and relatives said.
-
-Juan Vicente Pérez, who was born on May 27, 1909, would have celebrated his 115th birthday next month.
-
-“Juan Vicente Perez Mora has transcended into eternity at 114 years of age,” Venezuelan President Nicolas Maduro said on social media platform X.
-
-Perez was officially confirmed as the oldest man alive on February 4, 2022, when he was 112 years and 253 days old, according to Guinness.
-
-A father of 11, as of 2022 he had 41 grandchildren, 18 great-grandchildren and 12 great-great-grandchildren.
-
-The farmer known as Tio Vicente was born in the town of El Cobre, in the Andean state of Tachira on May 27, 1909, and was the ninth of 10 children.
-
-“At the age of five years old, he started working with his dad and brothers in agriculture and assisted with sugar cane and coffee harvesting,” a Guinness statement from 2022 said.
-
-...
-
-[Data](articles/6a36c353.json)
-
-[Extended Data](ext_articles/6a36c353.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 12:18:01**
+As of **2024-04-04 12:33:28**
 
 ## Newspaper Stats
 
-*Scraped **17,076** Articles*
+*Scraped **17,077** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 929
 islandlk | 943
 economynextcom | 944
 adalk | 1,437
-tamilmirrorlk | 2,028
+tamilmirrorlk | 2,029
 adaderanalk | 2,045
 virakesarilk | 2,472
 dailymirrorlk | 2,625
@@ -26,55 +26,89 @@ adaderanasinhalalk | 2,754
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,073 (100.0%) of 17,076 articles have been extended.
+17,076 (100.0%) of 17,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### கொரோனா பெருந்தொற்று காலப்பகுதியில் ‘கட்டாய சடலம் எரிப்பு’ (ஜனாசா எரிப்பு) கொள்கை தொடர்பில் முஸ்லிம் சமூகத்திடம் அரசு முறையாக மன்னிப்புகோரும் விதத்திலான அமைச்சரவைப் பத்திரம் முன்வைக்கப்படும் – அமைச்சர் ஜீவன் தொண்டமான்
+### பண்டிகையை முன்னிட்டு விசேட பஸ் சேவைகள்
+
+*2024-04-04 12:11:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டிகையை-முன்னிட்டு-விசேட-பஸ்-சேவைகள்/175-335606) · `ta`
+
+சிங்கள, தமிழ் புத்தாண்டு பண்டிகையை முன்னிட்டு வௌ்ளிக்கிழமை (05) முதல் விசேட பஸ் சேவை ஆரம்பிக்கப்படவுள்ளதாக இலங்கை போக்குவரத்து சபையின் (லங்காம) பிரதி பொது முகாமையாளர் பண்டுக ஸ்வர்ணஹன்ச தெரிவித்தார்.
+
+கொழும்பு மற்றும் சுற்றுவட்டாரப் பகுதிகளில் உள்ள மக்கள் ஊர்களுக்கு செல்வதற்காக சுமார் 200 கூடுதல் பஸ்கள்  சேவையில் ஈடுபடுத்தப்படும் என்றும், கொழும்பில் இருந்தும் அதைச் சுற்றியுள்ள பகுதிகளில் இருந்தும் அனைத்து பகுதிகளுக்கும் பேருந்துகள் இயக்கப்படும் என்றும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e6fcc565.json)
+
+---
+
+### During the period of Corona, the Cabinet of Cabinet will be presented to the Muslim community on the policy of the compulsory corpse (Janasa) policy - Minister Jeevan Thondaman
 
 *2024-04-04 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180406) · `ta`
 
-கொரோனா பெருந்தொற்று காலப்பகுதியில் முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச ஆட்சியில் கடைபிடிக்கப்பட்ட ‘கட்டாய சடலம் எரிப்பு’ (ஜனாசா எரிப்பு) கொள்கை தொடர்பில் முஸ்லிம் சமூகத்திடம் அரசு முறையாக மன்னிப்புகோரும் விதத்திலான அமைச்சரவைப் பத்திரம் முன்வைக்கப்படும் என்று இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச்செயலாளரும், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்.
+Jeevan Thondaman, Minister of Water Resources, apologizes to the Muslim community for the compulsory corpse (Janasa) burning policy during the Corona pandemic, acknowledging the community's distress. He also mentions the review of the policy after his appointment, highlighting the wrongful adoption of the policy by industry experts.
 
-முஸ்லிம் மக்களின் உணர்வுகள், மத நம்பிக்கை என்பன கருத்திற்கொள்ளப்படாமல் கொரோனா காலப்பகுதியில் இடம்பெற்ற இந்த சம்பவத்தால் அந்த சமூகத்தினர் மன உளைச்சலுக்கு உள்ளாகினர். அதற்கான மன்னிப்பு கோருகின்றேன் எனவும் அமைச்சர் கூறினார்.
+🟩
 
-அமைச்சர் ஜீவன் தொண்டமானின் ஏற்பாட்டில் இப்தார் நிகழ்வு ஹட்டன் டி.கே.டபிள்யூ மண்டபத்தில் நேற்று (02 நடைபெற்றது. நிகழ்வில் உரையாற்றுகையிலேயே அவர் இவ்வாறு கூறினார்.
+Jeevan Thondaman, General Secretary of the Ceylon Workers Congress and Water Resources and Estate Infrastructure Development Minister said that the government would formally apologize to the Muslim community on the policy of a compulsory corpse (Janasa burning), which was practiced during the period of Corona.
+
+The community was depressed by the incident that took place during the period of Corona, without considering the sentiments and religious beliefs of the Muslim people.. The Minister said that I apologize for that.
+
+The Iftar event was held at the Hatton DKW Hall yesterday (02) organized by Minister Jeevan Thondaman. He said this while addressing the event.
+
+“I was sworn in as a minister in January last year. However, I apologize for the Ministry of Water Resources in this regard.. Similarly, those who were the Minister should be held responsible for this.
 
 ...
 
 [Data](articles/12663631.json)
 
+[Extended Data](ext_articles/12663631.ext.json)
+
 ---
 
-### මෛත්‍රීට අතුරු තහනම් නියෝගයක්
+### Maithri is an interim injunction order
 
 *2024-04-04 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195285) · `si`
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරයේ කටයුතු කිරීම වළක්වාළමින් කොළඹ මහාධිකරණයෙන් අතුරු තහනම් නියෝගයක් නිකුත් කර තිබේ.
+Maithri Sirisena issued an interim injunction at the Colombo High Court to prevent the SLFP Chairman, with Chandrika Kumaratunga filing a complaint.
 
-ඒ හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය යොමුකළ පැමිණිල්ලකට අදාළවය.
+🟩
+
+Former President Maithripala Sirisena has issued an interim injunction at the Colombo High Court to prevent the Chairman of the SLFP.
+
+Former President Chandrika Bandaranaike Kumaratunga has a complaint with a complaint.
 
 ◼️
 
 [Data](articles/2e04cb77.json)
 
+[Extended Data](ext_articles/2e04cb77.ext.json)
+
 ---
 
-### யாழ் மத்திய பஸ் நிலைய நெருக்கடியை நீக்குவதற்கு  நடவடிக்கை!
+### Action to eliminate the crisis of Jaffna Central Bus Station
 
 *2024-04-04 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180400) · `ta`
 
-யாழ்ப்பாணம் மத்திய பஸ்  நிலையத்தில் நிலவும் நெருக்கடி நிலமைகளை நீக்குவதற்கும் சுகாதார நடவடிக்கைகளை மேம்படுத்துவதற்கும் அமைச்சர் டக்ளஸ் தேவானந்தா நடவடிக்கை எடுத்துள்ளார்.
+Minister Douglas Devananda visited Jaffna Central Bus Station, observed the situation, and discussed with officials and passengers. He met with departmental officers and police to address the crisis and improve health measures. The Municipal Commissioner directed immediate action for passengers and buses.
 
-பஸ் நிலையத்திற்கு நேற்று (03)  புதன்கிழமை விஜயம் செய்த அமைச்சர் அங்குள்ள நிலமைகளை நேரில் அவதானித்ததுடன் துறைசார் அதிகாரிகள் மற்றும் பயணிகளுடன் கலந்துரையாடியிருந்தார் .
+🟩
 
-இதன் தொடர்ச்சியாக இரவு, தனது அலுவலகத்தில் துறைசார் அதிகாரிகள் மற்றும் பொலிஸாருடன் நடத்திய கலந்துரையாடலில் சுகாதாரம் தொடர்பான நடவடிக்கைகளை யாழ். மாநகர ஆணையாளர் உடனடியாக மேற்கொள்ளும்படியும்,  பயணிகள் மற்றும் பயணிகள் பஸ்களுக்கும் எவ்வித இடையூறுகளுமற்ற வகையில் டவடிக்கை மேற்கொள்ளுமாறு இலங்கை வடபிராந்திய போக்குவரத்துச் சபையின்  முகாமையாளருக்கு பணிப்புரை வழங்கினார்.
+Minister Douglas Devananda has taken steps to eliminate the crisis at the Central Bus Station in Jaffna and improve health measures.
+
+The Minister visited the bus station yesterday (03) and observed the situation in the city and had discussed with the department officials and passengers.
+
+Following this, the night, in his office with the departmental officers and the police in his office. The Municipal Commissioner gave a directive to the Manager of the Sri Lanka North Regional Transport Board to take action to take immediate action to passengers and passengers buses.
 
 ◼️
 
 [Data](articles/29f0eb1c.json)
+
+[Extended Data](ext_articles/29f0eb1c.ext.json)
 
 ---
 
@@ -2209,23 +2243,5 @@ As the logistics industry continues to evolve rapidly, Expolanka under Yamauchi�
 [Data](articles/ee26b72c.json)
 
 [Extended Data](ext_articles/ee26b72c.ext.json)
-
----
-
-### SEC and CSE successfully conduct investor forum in Nuwara Eliya, raising awareness on the investment opportunities in stock market
-
-*2024-04-03 23:34:00* · [`islandlk`](http://island.lk/sec-and-cse-successfully-conduct-investor-forum-in-nuwara-eliya-raising-awareness-on-the-investment-opportunities-in-stock-market/) · `en`
-
-The Securities and Exchange Commission of Sri Lanka (SEC) in collaboration with the Colombo Stock Exchange (CSE) conducted an Investor Forum held in Nuwara Eliya on the 21st of March at the Hotel Araliya Red – Nuwara Eliya.
-
-The forum was organized with the objective of raising awareness on the importance of investor education with regard to the investment opportunities that exist in the Stock Market and investor protection. It attracted over 200 participants, providing valuable insights to both potential and existing investors in the region.
-
-The forum consisted of two sessions which was in Tamil and Sinhala medium in order to ensure that investors were provided with a beneficial forum devoid of language barriers.
-
-...
-
-[Data](articles/7f7fca92.json)
-
-[Extended Data](ext_articles/7f7fca92.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-04 18:51:30**
+As of **2024-04-04 19:03:19**
 
 ## Newspaper Stats
 
-*Scraped **17,167** Articles*
+*Scraped **17,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 943
 economynextcom | 944
 adalk | 1,449
 tamilmirrorlk | 2,034
-adaderanalk | 2,060
+adaderanalk | 2,061
 virakesarilk | 2,496
 dailymirrorlk | 2,635
 adaderanasinhalalk | 2,775
@@ -26,69 +26,105 @@ adaderanasinhalalk | 2,775
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,161 (100.0%) of 17,167 articles have been extended.
+17,167 (100.0%) of 17,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-04 (Thursday)
 
-### කොන්ක්‍රීට් කොටසක් ඇඟට වැටී තවත් පාසලක සිසුවෙක් මරුට
+### SLFP internal crisis intensifies: Sirisena responds to injunction over CBK’s plaint
+
+*2024-04-04 18:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98431/slfp-internal-crisis-intensifies-sirisena-responds-to-injunction-over-cbks-plaint) · `en`
+
+Former President Maithripala Sirisena says he expects to present facts before the court with regard to the interim injunction issued by the Colombo District Court, preventing him from functioning as the Chairman of Sri Lanka Freedom Party (SLFP).
+
+The Colombo District Court on Thursday (04) issued an interim injunction preventing Sirisena from functioning as the SLFP chairman, following a complaint filed by former President Chandrika Bandaranaike Kumaratunga.
+
+Speaking to the media this evening (04), Sirisena said: “I got to know in the afternoon that Mrs. Chandrika Bandaranaike has obtained an interim injunction to remove me from the chairmanship [of SLFP]. I only saw on media that the injunction is effective until April 18.”
+
+The former President also said that he has not been officially informed of the order in writing as of yet.
+
+...
+
+[Data](articles/cdf490a4.json)
+
+---
+
+### Student killed in another school falling into a part of the concrete
 
 *2024-04-04 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195307) · `si`
 
-පාසල් භුමියේ ගොඩගසා තිබූ කොන්ක්‍රීට් බොක්කුවක් ඇඟ මතට පෙරළීමෙන් බරපතළ තුවාල ලැබූ පාසල් සිසුවෙකු රෝහලගත කිරීමෙන් පසු මියගොස් ඇත.
+An 11-year-old student was killed after being trapped by a falling concrete section at a school toilet. The incident occurred at 1.30 pm today. The student, a 6th grader from Maskeliya Gardmore Estate, was taken to the hospital but later died.
 
-ජීවිතක්ෂයට පත්වී ඇත්තේ මස්කෙලිය ගාඩ්මොර් වතුයායේ පදිංචිව සිටි එම පාසලේ 6 වසරේ අධ්‍යාපනය ලබමින් සිටි එස්.අනිෂන් නමැති 11 හැවිරිදි සිසුවෙකි.
+🟩
 
-ජීවිතක්ෂයට පත් පාසල් සිසුවා ඔහුගේ මිතුරන් දෙදෙනෙකු සමග අද (04) දින පස්වරු 1.30 ට පමණ වැසිකිළිය වෙත යාම සඳහා පැමිණි අවස්ථාවේදී මෙම අනතුරට මුහුණපා තිබේ.
+A schoolgirl who was injured in the school has been killed after a serious injuries have been taken into the hospital.
 
-පාසල් භුමියේ ගොඩගසා තිබු කොන්ක්‍රිට් බොක්කුවක් සිසුවාගේ ඇඟ මතට පෙරළීමෙන් සිසුවා වැසිකිළියේ බිත්තියට සිරවී බරපතළ ලෙස තුවාල ලබා තිබුණි.
+The victim is a 11 year old student who was studying in the 6th year student, a resident of Maskeliya Gardmore Estate.
 
-පසුව පාසලේ ගුරුවරුන් සහ අසල්වාසින් එක්වී තුවාල ලබා සිටි සිසුවා සුවසැරිය ගිලන් රථය මගින් මස්කෙලිය ප්‍රාදේශීය රෝහලට ඇතුළත් කෙරුණි.
+The deceased school student will face the accident when he arrived at the toilet around 1.30 pm today (04).
 
-අදාළ කොන්ක්‍රීට් තේ වත්තක සංවර්ධන කටයුත්තක් සඳහා රැගෙන විත් තිබූ බවද හෙළිවී තිබේ.
+The student was imprisoned to the toilet wall by rolling a concrete bay in the school premises.
+
+Later, the student and neighbors were also admitted to the Maskeliya Regional Hospital by the Supervisor's Ambassador.
+
+It has been revealed that a concrete tea estate had been taken to a development purpose.
 
 ◼️
 
 [Data](articles/df1d005f.json)
 
+[Extended Data](ext_articles/df1d005f.ext.json)
+
 ---
 
-### மனித உரிமைகள் பேரவையில் இஸ்ரேலுக்கு ஆயுதத் தடை கோரும் பிரேரணை
+### Motion
 
 *2024-04-04 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180455) · `ta`
 
-இஸ்ரேலுக்கு ஆயுதத் தடை விதிக்கும் பிரேரேணை ஐ.நா. மனித உரிமைகள் பேரவையில் நாளை (06) பரிசீலிக்கப்படவுள்ளது.
+The UN Human Rights Council will discuss a proposal to ban genocide in Gaza tomorrow. Pakistan, representing the Islamic Cooperation Organization, has submitted the proposal. For it to pass, 24 out of 47 council members must support it, but it can still pass with fewer votes if some countries abstain.
 
-காஸாவில் இனப்படுகொலைக்கான ஆபத்து உள்ளதால் இஸ்ரேலுக்கு ஆயுதத் தடை விதிக்க வேண்டும் என இப்பிரேரணையில் கோரப்பட்டுள்ளது.
+🟩
 
-57 நாடுகள் அங்கம் வகிக்கும் இஸ்லாமிய ஒத்துழைப்பு அமைப்பின் சார்பில் பாகிஸ்தர்ன இப்பிரேரணையை முன்வைத்துள்ளது.
+UN Prayer. The Human Rights Council will be considered tomorrow (06).
 
-ஐ.நா. மனித உரிமைகள் பேரவையில் 47 நாடுகள் அங்கம் வகிக்கின்றன. இதன்படி, பிரேரணை நிறைவேற்றப்படுதற்கு 24 நாடுகளின் ஆதரவு தேவை.
+The proposal has been demanded that Israel be a ban on genocide in Gaza.
 
-எனினும், ஏதேனும் நாடுகள் வாக்களிப்பில் பங்குபற்றாமல்விட்டால், குறைந்த எண்ணிக்கையான வாக்குகளுடனும் தீர்மானங்கள் நிறைவேற்றப்பட முடியும்.
+The Pakistani proposal has presented the proposal on behalf of the 57 -member Islamic Cooperation Organization.
+
+The UN. 47 countries are part of the Human Rights Council. Accordingly, the proposal is needed to be supported by 24 countries.
+
+However, if any countries do not participate in the vote, resolutions can be passed with a limited number of votes.
 
 ◼️
 
 [Data](articles/6aabf2d5.json)
 
+[Extended Data](ext_articles/6aabf2d5.ext.json)
+
 ---
 
-### கல்முனை வடக்கு பிரதேச செயலக  விவகாரம்! 11ஆவது நாளாகவும் தொடரும் நீதிகோரி போராட்டத்தில் கிழக்கு பல்கலைக்கழக மாணவர்கள் பங்கேற்பு
+### Kalmunai North Divisional SecretariatEastern University students participate in the 11th day of the Justice Struggle
 
 *2024-04-04 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180456) · `ta`
 
-கல்முனை வடக்கு பிரதேச செயலகத்தின் அதிகாரங்கள் கல்முனை தெற்கு பிரதேச செயலகத்தால் அத்துமீறி பறிக்கப்பட்டு அநீதிகள் இழைக்கப்படுவதை எதிர்ப்பு தெரிவித்து மக்கள் நீதிகோரி போராட்டம் 11 ஆவது நாளாக வியாழக்கிழமை (04) இன்றும் தொடர்கிறது.
+Eastern University students and public protest against Kalmunai South Divisional Secretariat's injustice at the Kalmunai North Divisional Secretariat. They demand the cancellation of illegal decisions and the independence of the North Divisional Secretariat.
 
-இதற்கு ஆதரவு தெரிவித்து நற்பிட்டிமுனை அம்பலத்தடி பிள்ளையார் ஆலய முன்றலிலிருந்து பொதுமக்களுடன் இணைந்து நடைபவணியாக கிழக்கு பல்கலைக்கழக மாணவர்களும் கல்முனை வடக்கு பிரதேச செயலகத்தின் முன்னால் உள்ள போராட்ட இடத்தினை வந்தடைந்தனர்.
+🟩
 
-இதன் போது அமைச்சரவை தீர்மானத்தை முழுமையாக அமுல்படுத்துங்கள், கல்முனை உப பிரதேச அலுவலகமாக கருதி மேற்கொள்ளப்பட்ட சட்டவிரோத தீர்மானங்கள் அனைத்தையும் இரத்து செய்யுங்கள், காணி நிதி அதிகாரங்களை வழங்குங்கள், கல்முனை வடக்கு பிரதேச செயலகத்தின் சுயாதீன தொழிற்பாட்டை உறுதிப்படுத்துங்கள் என பல்வேறு கோஷங்களை முன்வைத்து போராடுகின்றனர்.
+The powers of the Kalmunai North Divisional Secretariat continue on Thursday (04) for the 11th day of the People's Justice Struggle in protest of the injustice of the Kalmunai South Divisional Secretariat.
 
-இந்த போராட்டத்தில் பொதுமக்கள், கிழக்கு பல்கலைக்கழக மாணவர்கள், அரசியல்வாதிகள் என பலரும் கலந்துகொண்டுள்ளமை குறிப்பிடத்தக்கது.
+In support of this, the students of the Eastern University, along with the public from the Nalpitimunai Ambalathadi Pillaiyar Temple, reached the site of the protest in front of the Kalmunai North Divisional Secretariat.
+
+During this time, the Cabinet decision is fully implemented, the cancellation of all the illegal decisions taken as the Sub -Office of Kalmunai, the land financial powers, and the independence of the Kalmunai North Divisional Secretariat.
+
+It is noteworthy that the protest was attended by public, Eastern University students and politicians.
 
 ◼️
 
 [Data](articles/d394877a.json)
+
+[Extended Data](ext_articles/d394877a.ext.json)
 
 ---
 
@@ -107,6 +143,8 @@ The goal is to guarantee the smooth operation of vital services crucial for the 
 ...
 
 [Data](articles/4e02c6c4.json)
+
+[Extended Data](ext_articles/4e02c6c4.ext.json)
 
 ---
 
@@ -166,21 +204,29 @@ Accordingly, the three suspects are being interrogated at length.
 
 ---
 
-### கட்சிகளை உடைக்கும் நிலைப்பாட்டில் ஜனாதிபதி - வே. இராதாகிருஷ்ணன்
+### President in the position of breaking parties - Way. Radhakrishnan
 
 *2024-04-04 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/180448) · `ta`
 
-கட்சிகளை உடைப்பதற்கான எதிர்பார்ப்பில் ஜனாதிபதி ரணில் விக்கிரமசிங்க இருக்கின்றார். ஜனாதிபதி தேர்தலும் பாராளுமன்ற தேர்தலும் ஒன்றிணைந்து செயல்பட வேண்டும் என்ற அறிவிப்பை அரசாங்கம் விடுத்திருக்கின்றது.
+President Ranil Wickremesinghe aims to unite presidential and parliamentary elections, hoping to reduce costs and confusion. Radhakrishnan, leader of the Upcountry People's Front, acknowledges the challenges of breaking party traditions and securing power.
 
-இது பெரும்பாலும் பேசப்படுகின்ற விடயமாக இருந்தாலும் இதிலே நன்மையும் இருக்கின்றது தீமையும் இருக்கின்றது என மலையக மக்கள் முன்னணியின் தலைவரும் நாடாளுமன்ற உறுப்பினருமான வே. இராதாகிருஷ்ணன் தெரிவித்துள்ளார்.
+🟩
 
-இன்றைய தினம் யாழ்ப்பாணத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு குறிப்பிட்டுள்ளார். அங்கு அவர் மேலும் தெரிவிக்கையில்,
+President Ranil Wickremesinghe is expecting to break the parties. The government has issued a statement that the presidential and parliamentary elections should work together.
 
-இந்த நாட்டிலே பொருளாதாரப் பிரச்சினை ஏற்பட்டதன் காரணமாக இரண்டு தேர்தலுக்கு செலவழிக்கின்ற செலவை ஒரே தேர்தலில் வைக்கின்ற நடவடிக்கை எடுக்க முடியும்  அந்த வகையிலே இந்த தேர்தல் இரண்டையும் ஒன்றாக வைத்தால் செலவை குறைக்க முடியும் என்ற நம்பிக்கை இருக்கின்றது.
+The leader of the Upcountry People's Front and the Member of Parliament, says that this is often the case, but there is good and evil.. Radhakrishnan said.
+
+He was speaking at a media briefing in Jaffna today. There he said more,
+
+Due to the economic problem in this country, it is hoped that the cost of spending on the two elections can be put in the same election.
+
+At the same time, there is a lot of confusion between the scenes and the vote from which party?How to break up?Who can break?This is a problem for scenes with expectations. Because only a president arrives, the president's party is tradition. Or the tradition of seizing power after the parliamentary election.
 
 ...
 
 [Data](articles/a65ad3b9.json)
+
+[Extended Data](ext_articles/a65ad3b9.ext.json)
 
 ---
 
@@ -291,6 +337,8 @@ The ICC Men’s Player of the Month shortlist includes a key architect in Irelan
 ...
 
 [Data](articles/660fa0b2.json)
+
+[Extended Data](ext_articles/660fa0b2.ext.json)
 
 ---
 
@@ -608,6 +656,8 @@ From learning of the incident, I have seen suicide from two days, but suddenly I
 
 *2024-04-04 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98427/sacred-lord-buddha-relics-from-sri-lanka-presented-to-dalai-lama) · `en`
 
+#WATCH | Himachal Pradesh: Most Venerable Waskaduwe Mahindawamsa Nayaka Thero from of Kapilavastu Rajaguru Sri Sbhuthi Maha Vihara, Waskaduwa, Sri Lanka offers Gautama Buddha’s sacred relic to His Holiness the Dalai Lama.The Kapilavastu relics hold immense historical and… pic.twitter.com/U4Gri76RYv— ANI (@ANI) April 4, 2024
+
 Lord Buddha’s sacred Kapilavastu relics, situated at a holy temple in Sri Lanka, have been offered to the Dalai Lama on Thursday morning, the office of Dalai Lama said in a statement.
 
 The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa, a Buddhist temple in Sri Lanka.
@@ -615,8 +665,6 @@ The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa
 Notably, the Kapilavastu relics hold immense historical and spiritual significance, connecting the devotees to the profound legacy of Lord Buddha.
 
 The Sri Subhuthi Maha Viharaya in Waskaduwa houses 21 relics of the Lord Buddha.
-
-Waskaduwe Mahindawansa Maha Nayaka Thero is the custodian of these precious Kapilavastu relics, which have been preserved and protected for generations till now at Sri Subhuthi Maha Viharaya in Waskaduwa, Sri Lanka.
 
 ...
 
@@ -2257,29 +2305,5 @@ Mohamed Iqbal, who served as a reply, has been ordered to be released on bail an
 [Data](articles/d6b9621d.json)
 
 [Extended Data](ext_articles/d6b9621d.ext.json)
-
----
-
-### Poverty is not new in a bankruptted country
-
-*2024-04-04 11:18:48* · [`adalk`](https://www.ada.lk/breaking_news/බංකොලොත්වූ-රටක-දුප්පත්කම-අළුත්-දෙයක්-නොවෙයි/11-408943) · `si`
-
-Bandula Gunawardena, Minister of Transport and Highways, emphasized the country's economic challenges, including a 361 billion rupee debt to the Road Development Authority and a decrease in the value of the dollar, impacting import costs. He highlighted improvements in GDP, a surplus in the current account, a strengthened rupee, and reduced inflation. Despite these advancements, poverty remains a concern, necessitating increased income and economic growth.
-
-🟩
-
-Transport and Highways and Mass Media Mam Media Minister Bandula Gunawardena stressed that the country has changed in a decadent decision by President Ranil Wickremesinghe to build the country.
-
-Although various reports have risen in the country, the volume of the resource for the prosperous amount of prosperous is not new for prosperous.He added that a security is to be protected.
-
-Minister of Transport and Highways Bandula Gunawardena made this statement participating at a press conference held at the Presidential Media Center for a 'stable country'.
-
-The Road Development Authority has paid bills of 361 billion rupees and that all development schemes of the agreement with bilateral creditors will be initiated.
-
-...
-
-[Data](articles/b06e5409.json)
-
-[Extended Data](ext_articles/b06e5409.ext.json)
 
 ---

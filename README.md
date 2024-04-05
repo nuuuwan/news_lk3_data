@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 12:17:54**
+As of **2024-04-05 12:33:48**
 
 ## Newspaper Stats
 
-*Scraped **17,303** Articles*
+*Scraped **17,308** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ dailyftlk | 944
 islandlk | 950
 economynextcom | 962
 adalk | 1,461
-tamilmirrorlk | 2,045
-adaderanalk | 2,075
-virakesarilk | 2,517
-dailymirrorlk | 2,651
+tamilmirrorlk | 2,046
+adaderanalk | 2,076
+virakesarilk | 2,518
+dailymirrorlk | 2,653
 adaderanasinhalalk | 2,794
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,297 (100.0%) of 17,303 articles have been extended.
+17,303 (100.0%) of 17,308 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### Police chief gives undertaking before Supreme Court
+
+*2024-04-05 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98444/police-chief-gives-undertaking-before-supreme-court) · `en`
+
+Inspector-General of Police (IGP) Deshabandu Tennakoon on Friday (05) gave an undertaking to the Supreme Court pertaining to the transfers of five Officers-in-Charge (OICs) after the houses of a number of politicians were torched during the civil unrest in May 2022.
+
+The officers in question, filing petitions before the country’s apex court, alleged that the transfers were not based on their seniority.
+
+A three-member judge bench led by Chief Justice Jayantha Jayasuriya, on Thursday (04) issued summons, directing IGP Tennakoon to appear before the court to present oral submissions regarding the matter. Complying with the order, the police chief arrived at the Supreme Court complex earlier on Friday.
+
+During the court proceedings, IGP Tennakoon, through the Additional Solicitor General, communicated to the court that the five officers would be assigned to police stations commensurate with their previous precincts.
+
+◼️
+
+[Data](articles/0595feb4.json)
+
+---
+
+### காஸாவுக்கு எல்லைகள் ஊடான விநியோகங்களை தற்காலிகமாக அனுமதிக்கிறது இஸ்ரேல்
+
+*2024-04-05 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180497) · `ta`
+
+தனது எல்லைகளுக்கு ஊடாக காஸாவுக்கு உதவிப்பொருட்கள் விநியோகத்தை தற்காலிகமாக இஸ்ரேல் அனுமதிக்கவுள்ளதாக இஸ்ரேலிய பிரதமர் பெஞ்சமின் நெதன்யாஹுவின் அலுவலகம் இன்று தெரிவித்துள்ளது.
+
+இதன்படி, காஸாவின் வடபகுதியிலுள்ள எரீஸ் கடவையை ஒக்டோபர் 7 ஆம் திகதியின் பின்னர் முதல் தடவையாக இஸ்ரேல் திறக்கவுள்ளது.
+
+அத்துடன், காஸாவின் வடபகுதியிலிருந்து சுமார் 40 கிலோமீற்றர் தூரத்திலுள்ள இஸ்ரேலிய நகரான அஷ்தோத்திலுள்ள துறைமுகத்துக்கு ஊடாக விநியோகங்களை மேற்கொள்ளவும் இஸ்ரேல் அனுமதித்துள்ளதாகவும்,  ஜோர்தானிலிருந்து வரும் உதவிகளை அதிகரிப்பதற்கு அனுமதித்துள்ளதாகவும் இஸ்ரேலிய பிரதமர் அலுவலகம் தெரிவித்துள்ளது.
+
+காஸா விடயத்தில் தனது கொள்கையில் கடும் மாற்றம் ஏற்படலாம் என  அமெரிக்க எச்சரித்த சில மணித்தியாலங்களில் இஸ்ரேல் இந்த அறிவிப்பை விடுத்துள்ளது.
+
+◼️
+
+[Data](articles/ca77771d.json)
+
+---
+
+### உயர் நீதிமன்றத்தில் முன்னிலையான தேசபந்து
+
+*2024-04-05 12:10:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்-நீதிமன்றத்தில்-முன்னிலையான-தேசபந்து/175-335643) · `ta`
+
+பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் இன்று (05) காலை உயர் நீதிமன்றத்திற்கு வந்துள்ளார்.
+
+அரகலவின் பின்னர் இடமாற்றம் செய்யப்பட்ட 05 பொலிஸ் நிலைய பொறுப்பதிகாரிகள் சமர்ப்பித்துள்ள அடிப்படை உரிமை மனுக்கள் தொடர்பிலான விசாரணைகளுக்காக அவர் அங்கு வந்துள்ளார்.
+
+இடமாற்றம் செய்யப்பட்ட ஐந்து பொலிஸ் நிலைய பொறுப்பதிகாரிகளுக்கு பொருத்தமான பொலிஸ் நிலையங்கள் வழங்கப்படாமை தொடர்பாக அவர்களது சட்டத்தரணிகள் உயர் நீதிமன்றத்தில் மனு தாக்கல் செய்தனர்.
+
+இது தொடர்பில் விசாரிப்பதற்காக உயர் நீதிமன்றத்தில் ஆஜராகுமாறு பொலிஸ்மா அதிபருக்கு நீதிமன்றம் நோட்டீஸ் அனுப்பியது.
+
+◼️
+
+[Data](articles/8b5d89af.json)
+
+---
+
+### Celebrating New Year
+
+*2024-04-05 12:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Celebrating-New-Year/110-280237) · `en`
+
+A New Year celebration was held this morning at the Gothami Balika Vidyalaya in Colombo within the school premises. Pix by Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/315e2162.json)
+
+---
 
 ### Special bus service for festive season begins today
 
@@ -49,6 +115,8 @@ The special train services will be available for the general public until April 
 ◼️
 
 [Data](articles/325e152d.json)
+
+[Extended Data](ext_articles/325e152d.ext.json)
 
 ---
 
@@ -102,23 +170,49 @@ Therefore, I am going to retire politics with the upcoming parliamentary electio
 
 ---
 
-### தமிழ்க் கட்சிகள் எமக்கு ஆதரவளிக்கவேண்டும் - யாழில் அநுரகுமார
+### Tamil parties should support us - Anuragumara in Jaffna
 
 *2024-04-05 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180491) · `ta`
 
-நாட்டில்  இன, மத பேதமில்லாத ஆட்சி அமைய வேண்டுமானால் தமிழ்க் கட்சிகளின் தலைவர்கள் எமக்கான ஆதரவை வழங்க வேண்டும் என தேசிய மக்கள் சக்தியின் தலைவரும் கொழும்பு மாவட்ட நாடாளுமன்ற உறுப்பினருமான அநுரகுமார திஸாநாயக்க அழைப்பு விடுத்துள்ளார்.
+Anura Kumara Dissanayake, a National People's Power Leader, urged Tamil party leaders to support unity and equality in Sri Lanka, emphasizing the importance of ethnic, religious, and linguistic harmony for the country's progress.
 
-யாழ்ப்பாணத்தில் நேற்று வியாழக்கிழமை (04) நடைபெற்ற இலங்கை ஆசிரியர் சேவைச் சங்கத்தின் மாநாட்டில் கலந்துகொண்டு உரையாற்றும்போதே இதனை தெரிவித்தார்.
+🟩
 
-'இலங்கையின் முன்னேற்றம் இன,மத, மொழி கடந்து ஒற்றுமையுடன் இணைந்து செல்லும்போதே மேலும் மேலும் நாட்டை முன்னேற்ற முடியும்.
+National People's Power Leader and Colombo District Parliamentarian Anura Kumara Dissanayake has called for the leaders of the Tamil parties to give us support if they are to be a racial and religious rule in the country.
 
-எனவே, வடக்கு, கிழக்கில் வாழும் சகோதரர்களின் ஆணையில்லாமல் நாட்டை முன்னேற்ற முடியாது. இதுவே காலம் காலமாக நடந்து வந்த நிலையில் இம்முறை அனைவரினதும் ஆதரவைப் பெற்று ஆட்சியமைக்க வேண்டும்.
+He was speaking at the conference of the Sri Lanka Teachers Service Association held in Jaffna yesterday (04).
 
-ஆகையினால் அனைவரது முன்னேற்றத்துக்கும் எமக்கான ஆதரவை ஒருமித்து வழங்க வேண்டும். அவ்வாறு சகலரது ஒத்துழைப்புடனும் ஆதரவுடனும் ஆட்சி அமைக்கப்படுகின்றபோது எந்தவித பாகுபாடுகளுமின்றி ஆட்சி அமையப்பெறும்.
+“The progress of Sri Lanka can improve more and more when it comes to the unity of ethnic, religious and language.
+
+Therefore, the country cannot improve without the decree of brothers living in the North and East. This is what has been going on for a long time and this time we have to rule over the support of everyone.
+
+Therefore, we have to give our support for the progress of all. When the rule is formed with the cooperation and support of all, it will be ruled without any discrimination.
+
+Come with us to carry out a long -standing separatist politics, to end the ethnic and religious united politics.
 
 ...
 
 [Data](articles/199238ba.json)
+
+[Extended Data](ext_articles/199238ba.ext.json)
+
+---
+
+### Contempt of court case against Roshan Ranasinghe fixed for July 10
+
+*2024-04-05 11:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Contempt-of-court-case-against-Roshan-Ranasinghe-fixed-for-July-10/108-280234) · `en`
+
+Colombo, April 5 (Daily Mirror)- The Contempt of Court application filed against former Sports Minister Roshan Ranasinghe was today fixed for July 10 by the Court of Appeal.
+
+Attorney-at-Law Dimitri Shiraz Augustus Pietrangeli, filed this application challenging the alleged contemptuous conduct of the former Sports Minister during a parliamentary session on November 8, 2023.
+
+The petitioner is further seeking an order to impose sentence on the former Minister for contempt of court under Article 105(3) of the Constitution.
+
+The petitioner stated that the respondent former Minister during a parliamentary session on November 8 made several allegations regarding the alleged motives and reasons for the issuance of interim orders by Justice Nissanka Bandula Karunaratne.
+
+◼️
+
+[Data](articles/b9580c9d.json)
 
 ---
 
@@ -224,23 +318,39 @@ The house was admitted to the Jaffna Bodhana Hospital and was treated at the hos
 
 ---
 
-### இஸ்ரேல் பிரச்சார யுத்தத்தில் தோற்கின்றது - போரை விரைவில் முடிவிற்கு கொண்டுவரவேண்டும் - டிரம்ப்
+### Israel loses the war - the war should end soon - Trump
 
 *2024-04-05 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180487) · `ta`
 
-காசா யுத்தத்தை இஸ்ரேல் மிகவிரைவில் முடிவிற்கு கொண்டுவரவேண்டும் என அமெரிக்காவின் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் வேண்டுகோள் விடுத்துள்ளார்.
+Trump urges Israel to end Gaza War, criticizes tactics and video releases.
 
-ஹியுஜ் ஹெவிட் என்ற பழமைவாத ஊடகவியலாளருக்கு வழங்கிய பேட்டியில்  டொனால்ட் டிரம்ப்  இஸ்ரேலிற்கான இந்த கடுமையான செய்தியை தெரிவித்துள்ளார்.
+🟩
 
-இஸ்ரேல் பிரச்சார யுத்தத்தில் தோல்வியடைந்துகொண்டிருக்கின்றது என தெரிவித்துள்ள டிரம்ப் இரத்தக்களறியை வேகமாக முடிவிற்கு கொண்டுவரவேண்டும் என வேண்டுகோள் விடுத்துள்ளார்.
+Former US President Donald Trump has appealed to Israel to end the Gaza War.
 
-இதனை முடிவிற்கு கொண்டுவருவோம் சமாதானத்தை ஏற்படுத்துவோம் மக்களை கொலை செய்வதை நிறுத்துவோம் என டிரம்ப் தெரிவித்துள்ளார்.
+In an interview with a conservative journalist Hiuj Hewit, Donald Trump made this harsh message to Israel.
 
-அவர்கள் இதனை செய்தாகவேண்டும் இயல்பு நிலை சமாதானாத்தை ஏற்படுத்தவேண்டும் என்பதால் இஸ்ரேல் இதனை மிகவேகமாக செய்யவேண்டும் என அவர் குறிப்பிட்டுள்ளார்.
+Trump has said that the Israeli campaign is losing the war.
+
+"We will bring about peace and make peace," Trump said.
+
+He said that Israel should do this fast, as they should do this and bring about normalcy.
+
+US President Jobitin has questioned the tactics used by Israel as the Republican candidate in the US presidential election, Gaza, has continued to increase the number of casualties in Gaza.
+
+Trump has said that I am not sure that Israel is acting, because you have to succeed but take a long time for that victory.
+
+Former US president has criticized Israel's release of videos of Israel.
+
+Israeli has been releasing videos of other attacks, including Airlines, claiming to be attacks on terrorist infrastructure.
+
+Trump has said that the Israeli propaganda war is defeated because they should not release such videos.
 
 ...
 
 [Data](articles/08f60e96.json)
+
+[Extended Data](ext_articles/08f60e96.ext.json)
 
 ---
 
@@ -1984,33 +2094,45 @@ Accordingly, the relevant law was taken up again in court in courts this afterno
 
 ---
 
-### බස්නාහිර පළාත්  බුද්ධි  නිලධාරීන් 100 ක් වෙනත් රාජකාරීවලට දමයි
+### 100 Western Provincial intelligence officers be thrown into other duties
 
 *2024-04-04 20:48:00* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-පළාත්--බුද්ධි--නිලධාරීන්-100-ක්-වෙනත්-රාජකාරීවලට-දමයි/11-408967) · `si`
 
-බස්නාහිර පළාතේ පොලිසි වලට අනුයුක්ත කර සිටින බස්නාහිර පළාත්  බුද්ධි  නිලධාරීන් 100 කු එම රාජකාරි වලින් ඉවත් කර කොළඹ නගරයේ වෙනත් ආරක්ෂක රාජකාරී සඳහා යොදවන බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ  නිහාල් තල්දුව මහතා පැවසීය
+100 Western Provincial intelligence officers reassigned to other duties, as per IGP Tennakoon's instructions, to prevent vehicle-related crimes in Colombo.
 
-පොලිස්පති දේශබන්දු  තෙන්නකෝන් මහතාගේ  උපදෙස් මත  මෙය ක්‍රියාත්මක කරන බවත්  විශේෂයෙන් අවුරුදු සමයේදී සිදුවන වාහන සොරකම් හා රන්මාල කොල්ලකෑම් වැනි අපරාධ වැළැක්වීම මෙහි අරමුණ බවත් මාධ්‍ය ප්‍රකාශකවරයා කීය.
+🟩
+
+Police Media Spokesperson DIG Thameda said that 100 Western Provincial intelligence officers who were attached to the duties and other security duties in Colombo in the Western Province.
+
+The objective of this program is implementing this on the instructions of IGP Deshabandu Tennakoon and preventing crimes such as vehicles, especially during the year.
 
 ◼️
 
 [Data](articles/a82e20a9.json)
 
+[Extended Data](ext_articles/a82e20a9.ext.json)
+
 ---
 
-### මුස්ලිම් ප්‍රජාවගෙන් විධිමත්ව සමාව ඉල්ලීමට අමාත්‍ය මණ්ඩල පත්‍රිකාවක්
+### Cabinet paper to formally apologize against the Muslim community
 
 *2024-04-04 20:43:00* · [`adalk`](https://www.ada.lk/breaking_news/මුස්ලිම්-ප්‍රජාවගෙන්-විධිමත්ව-සමාව-ඉල්ලීමට-අමාත්‍ය-මණ්ඩල-පත්‍රිකාවක්/11-408966) · `si`
 
-කෝවිඩ් සමයේ  මළ සිරුරු ආදාහනය කිරීමට සිදුවීම පිළිබඳ මුස්ලිම් ප්‍රජාවගෙන් විධිමත්ව සමාව ඉල්ලා අමාත්‍ය මණ්ඩල පත්‍රිකාවක් ඉදිරිපත් කරන බව ජල සම්පාදන හා වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍ය ජීවන් තොන්ඩමන් මහතා ප්‍රකාශ කළේය.
+Jeevan Thondaman, Minister of Water Supply and Estate Infrastructure Development, announced a formal apology to the Muslim community for the compulsory cremation policy enforced by the Rajapaksa government. A study by the University of Sri Jayewardenepura and the Hydro Technology Joint Research and Exhibition Center found no risk of groundwater contamination from proper burials during the plague, challenging the previous government's stance.
 
-ඔහු සඳහන් කර සිටියේ ගෝඨාභය රාජපක්ෂ රජය තුළ බලාත්මක කරන ලද අනිවාර්ය ආදාහන ප්‍රතිපත්තිය සම්බන්ධයෙන් මුස්ලිම් ප්‍රජාවගෙන් සමාව අයැද සිටින බවයි.
+🟩
 
-&මෙම ප්‍රතිපත්තිය මෙහෙයවනු ලැබුවේ කොරෝනා වින්දිතයන් භූමදානය කිරීමෙන් ජල සැපයුම් දූෂිත විය හැකි බවට පවසමින්.ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ ප්‍රවීණයන් විසින් මෙහෙයවන ලද අධ්‍යයනයකින් සහ පේරාදෙණිය විශ්වවිද්‍යාලයේ ජල තාක්‍ෂණ ඒකාබද්ධ පර්යේෂණ හා ප්‍රදර්ශන මධ්‍යස්ථානය විසින් කරන ලද නව විද්‍යාත්මක සොයාගැනීම් මගින් පසුගිය රජයේ ස්ථාවරය දැන් අභියෝගයට ලක්කර ප්‍රතික්ෂේප කර තියෙනවා. එය ජල සම්පාදන හා වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍යාංශය යටතේ ඇති මධ්‍යස්ථානයක්. මේ පිළිබදව පර්යේෂණ කරන ලෙස ඇමැති ධුරය බාරගත් පසු මා උපදෙස් ලබා දුන්නා.
+Water Supply and Estate Infrastructure Development Minister Jeevan Thondaman said that a Cabinetian Infrastructure Development Minister Jeevan Thondaman said.
+
+He said that Gotabhaya Rajapaksa pardoned the Muslim community over the compulsory cremation policy enforced in the government of the Rajapaksa government.
+
+The last government's position has now been challenged by a study conducted by the University of Sri Jayewardenepura and the Hydro Technology Joint Research and Exhibition Center at the University of Peradeniya.. It is a center under the Ministry of Water Supply and Estate Infrastructure Development. After the Minister was handed over to research on the matter, I was instructed.
 
 ...
 
 [Data](articles/7fe1b242.json)
+
+[Extended Data](ext_articles/7fe1b242.ext.json)
 
 ---
 
@@ -2102,138 +2224,26 @@ CJ Jayantha Jayasuriya, Supreme Court Judge Gamini Amarasekera and Mrs. Gamini A
 
 ---
 
-### ජී.එල්. සමග හයක් සජබ සමග සන්ධානගත වෙයි
+### G.L. Under allies with six ejust with
 
 *2024-04-04 20:30:41* · [`adalk`](https://www.ada.lk/breaking_news/ජී-එල්--සමග-හයක්-සජබ-සමග-සන්ධානගත-වෙයි/11-408963) · `si`
 
-සමගි ජන බලවේගය ඇතුළු විපක්ෂයේ දේශපාලන පක්ෂ සහභාගිත්වයෙන්  ගොඩනැගෙන සමගි ජන සන්ධානය සමග නිදහස ජනතා සභාව සන්ධානගත වීම  බණ්ඩාරනායක ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලා පරිශ්‍රයේදී අද (5දා) පෙරවරුවේදී සිදුකිරීමට නියමිතය.
+The Alliance (Janight) is holding its event today at the Bandaranaike International Conference Hall. Prof. G. L. Attorney-at-Law Dilan Perera, among others, criticizes the government for repression and corruption. The coalition of UPFA and the mainstill aims to support opposition in future elections.
 
-ඒ අනුව මෙහිදී ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි හිටපු සභාපති, මහාචාර්ය ජී. එල්. පීරිස් මහතාගේ  නායකත්වයෙන්  නීතිඥ ඩිලාන් පෙරේරා,ආචාර්ය නාලක ගොඩ හේවා,  නීතිඥ වසන්ත යාපා බණ්ඩාර, වෛද්‍ය උපුල් ගලප්පත්ති , කේ.පී.එස් කුමාරසිරි යන  මන්ත්‍රීවරුන් නිදහස ජනතා සභාව නියෝජනය කරමින් සමගි ජන සන්ධානය සමඟ එක්වීමට නියමිතය.
+🟩
 
-මේ පිළිබඳ අදහස් දක්වමින් නිදහස ජනතා සභාව සඳහන් කර සිටියේ පවතින රජයේ මර්දනකාරී සහ දූෂිත වැඩපිළිවෙළට එරෙහි වෙමින්, ඉදිරි මැතිවරණවලදී විපක්ෂයේ ජයග්‍රහණය අරමුණු කර ගනිමින් විපක්ෂයේ  සැබෑ ආණ්ඩු විරෝධී බලවේග  එක් කර පුළුල් සන්ධානයක් ගොඩනැගීමට අවශ්‍ය පසුබිම සකස් කිරීම සඳහා තම පාර්ශ්ව පසුගිය කාල සීමාව තුළ කටයුතු  කළ බවයි.
+The Alliance (Janight) is due to be held on the Bandaranaike International Conference Hall today (5) at the Bandaranaike International Conference Hall.
 
-...
+Accordingly, the former Chairman of the Sri Lanka Civil Aru Kumara Chairman, Prof. G. L. Attorney-at-Law Dilan Perera, legal Dilan Perera, Dr. Vasantha Bandara, Dr. Upul Galappa Bandara, Dr. Upul Galappara, KPS Kumarasiri representing the Jana UP.
+
+Speaking on the publication of the People's Council states that their parties acted in the entire government's repressive and corruption.
+
+Accordingly, the coalition of the UPFA and the mainstill, said that it would also play a broader role in the victory of the opposition in future elections.
+
+◼️
 
 [Data](articles/1ebefc1c.json)
 
----
-
-### National Savings Bank: Celebrating Excellence in Digital Innovation
-
-*2024-04-04 20:27:00* · [`islandlk`](http://island.lk/national-savings-bank-celebrating-excellence-in-digital-innovation/) · `en`
-
-The National Savings Bank has been recognized for our unwavering commitment to digital excellence at the prestigious Technnovation Awards 2024, Conducted annually by LankaPay
-
-In a testament to our innovative approach and dedication to serving our customers, we have proudly secured the Gold Award – Category C : Excellence in Customer Convenience and Gold Award – Category B: Financial Institution of the Year for Financial Inclusivity. These accolades underscore our relentless pursuit of offering unparalleled convenience and inclusivity through our digital banking solutions.
-
-Moreover, our strides in the digital payment arena have been further acknowledged as our Mobile Payment App NSBPay nominated for the Best Mobile Payment App for the State Bank Sector, highlighting our efforts to make mobile banking more accessible, secure, and user-friendly for everyone.
-
-...
-
-[Data](articles/4639e04e.json)
-
-[Extended Data](ext_articles/4639e04e.ext.json)
-
----
-
-### Electrical vehicle licenses that were given to the heroes is temporarily stopped
-
-*2024-04-04 20:22:19* · [`adalk`](https://www.ada.lk/breaking_news/රට-විරුවන්ට-දුන්-විද්‍යුත්-වාහන-බලපත්‍ර-තාවකාලිකව-නවත්වයි/11-408962) · `si`
-
-Electrical vehicle license issuance halted. Sri Lankans abroad's licensing suspended until audit. Profit for selling imported food items revealed between 100-1000. Tax revenue drop on imported goods since 2018 due to special commodity tax. Customs officials to submit import records. Inland Revenue Act emphasizes tax reporting. Consumer Affairs Authority intervention for festive season. Program to deal with permit applications and social media. Advice on extending electrical vehicle licensing. Inland Revenue Department instructed on tax collection and legal action.
-
-🟩
-
-Profit for one kilous for one kilo of imported food items on market prices is Rs.. It is revealed at the methods and the methods that are between 100-1000.
-
-Gazette suspension of licensing for Sri Lankans who are employed abroad until the angel of the wheeler audit will be held by the Auditor General
-
-Addable arrears. 188 billion instructions on the Inland Revenue Act
-
-Instead of opening tax files for more than 18 years of age is Rs.. Advice on people who earn more than 100,000
-
-Traders' profits for one kilo of merchants for one kilo of merchants by selling imported food items on market prices.. Salage was revealed at the methods and methods that were between 100-1000.
-
-The Committee was revealed when the Member of Parliament met with Hon
-
-Essential Food Material The Market Prices and Imports of Import of FoodsOfficials Officers of the Research and Training Institute were summoned for this purpose.
-
-...
-
-[Data](articles/9c64b3c4.json)
-
-[Extended Data](ext_articles/9c64b3c4.ext.json)
-
----
-
-### Education Ministry website hacked, hacker raises security concerns
-
-*2024-04-04 20:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Education-Ministry-website-hacked-hacker-raises-security-concerns/108-280197) · `en`
-
-The official website of the Sri Lanka Ministry of Education has fallen victim to a cyber intrusion.
-
-Hackers, purportedly identifying as "Anonymous EEE," managed to gain unauthorized access to the site, leaving behind a message warning of security vulnerabilities.
-
-The message left by the hacker read, "My name is Anonymous EEE and I am currently studying A/I. Sorry for unauthorized access to your website but your website has some security flaws. As a Sri Lankan citizen, I am reporting this for the safety of my country. Fix it, thanks."
-
-◼️
-
-[Data](articles/0eb301a2.json)
-
-[Extended Data](ext_articles/0eb301a2.ext.json)
-
----
-
-### School student dies after crossing a concrete ring
-
-*2024-04-04 20:13:39* · [`adalk`](https://www.ada.lk/breaking_news/කොන්ක්‍රීට්-වළල්ලක්-ඇඟට-පෙරළිමෙන්-පාසල්-සිසුවෙක්-ජීවිතක්ෂයට/11-408960) · `si`
-
-A schoolgirl died after being injured in a concrete ring at a tea estate. The incident involved a 6-year-old from the Gardmore Estate, severely injured by a student from Pelai. The victim and others were taken to Maskeliya Divisional Hospital.
-
-🟩
-
-One of the injured schoolgirls who were injured in a concrete ring of the school area for a tea estate was taken into custody.
-
-The school was identified as the six year old schoolgirl, who was living in the 6 year student, who was living in the Gardmore Estate in the Gardmore Estate.
-
-The school student was severely injured in the toilet wall in the field of concrete backed by the Pelai student with two (04) with two of his friends.
-
-Later, the school student of the school and neighbors were admitted to the Maskeliya Divisional Hospital after admission to the Maskeliya Divisional Hospital.
-
-◼️
-
-[Data](articles/bb1d5fcf.json)
-
-[Extended Data](ext_articles/bb1d5fcf.ext.json)
-
----
-
-### President opens Gem Tower
-
-*2024-04-04 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195311) · `si`
-
-President Ranil Wickremesinghe inaugurated the International Gem and Jewelery Trade Center in Ratnapura, highlighting its local design and the facility's role in promoting safe and systematic gem trading.
-
-🟩
-
-President Ranil Wickremesinghe says that it is designed in the country today, according to President Ranil Wickremesinghe.
-
-The President made this observation at the opening of the International Gem and Jewelery Trade Center in Ratnapura.
-
-The International Gem and Jewelery Trade Center, Dhammapura, Ratnapura, was declared open by President Ranil Wickremesinghe today.
-
-The five-storey building constructed at a cost of Rs.
-
-The gem dealers and buyers will be allowed to perform systematically and safely under the same roof.
-
-The center is independent of independent quality inspection services, laboratory, laboratory services, laboratory services and banks, as leading sales centers in Asia's Gem and Jewelery.
-
-"Three--iel musted all the time. There is plenty of fuel today. There are lady passengers. Now there is no problem. Having been stored in the three-wheeler.. A poster can be pasted to win the national propaganda. "
-
-◼️
-
-[Data](articles/07d012df.json)
-
-[Extended Data](ext_articles/07d012df.ext.json)
+[Extended Data](ext_articles/1ebefc1c.ext.json)
 
 ---

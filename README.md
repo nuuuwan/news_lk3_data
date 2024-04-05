@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 21:53:06**
+As of **2024-04-05 22:05:15**
 
 ## Newspaper Stats
 
-*Scraped **17,392** Articles*
+*Scraped **17,394** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 153
+colombotelegraphcom | 154
 bbccomsinhala | 182
 dbsjeyarajcom | 210
 newsfirstlk | 363
@@ -17,7 +17,7 @@ islandlk | 951
 economynextcom | 962
 adalk | 1,466
 tamilmirrorlk | 2,051
-adaderanalk | 2,091
+adaderanalk | 2,092
 virakesarilk | 2,539
 dailymirrorlk | 2,665
 adaderanasinhalalk | 2,815
@@ -26,29 +26,67 @@ adaderanasinhalalk | 2,815
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,391 (100.0%) of 17,392 articles have been extended.
+17,392 (100.0%) of 17,394 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### யாழில் வன்முறை கும்பலுக்கு உதவிய பொலிஸார் மீது விசாரணை
+### New York buildings rattled by rare East Coast earthquake
+
+*2024-04-05 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98459/new-york-buildings-rattled-by-rare-east-coast-earthquake) · `en`
+
+A rare earthquake has hit New Jersey, rattling buildings in New York City and the surrounding areas.
+
+The United States Geological Survey said the magnitude-4.8 quake’s epicentre was near Lebanon, New Jersey.
+
+A UN Security Council meeting on Gaza at its New York headquarters was temporarily paused due to the tremor.
+
+“Is that an earthquake?” said Save the Children representative Janti Soeripto, who was speaking at the time.
+
+The earthquake hit at around 10:20 local time (15:20 GMT). There are no reports of major damage.
+
+Buildings were shaken in the city’s Brooklyn and the Bronx districts, rattling cupboard doors and fixtures.
+
+Charita Walcott, a 38-year-old resident in the Bronx, said the quake felt “like a violent rumble that lasted about 30 seconds or so”.
+
+“It was kind of like being in a drum circle, that vibration,” she said.
+
+“I was laying in my bed, and my whole apartment building started shaking. I started freaking out,” another New York resident told the BBC’s US partner CBS.
+
+...
+
+[Data](articles/5aa9d9f1.json)
+
+---
+
+### Investigating police who assisted the violent gang in Jaffna
 
 *2024-04-05 20:59:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-வன்முறை-கும்பலுக்கு-உதவிய-பொலிஸார்-மீது-விசாரணை/71-335648) · `ta`
 
-யாழ்ப்பாணத்தில் வன்முறை கும்பல் ஒன்றிற்கு ஆதரவாக செயற்பட்ட குற்றச்சாட்டில் பொலிஸ் உத்தியோகஸ்தருக்கு எதிராக பொலிஸ் உயர் அதிகாரிகளால் விசாரணைகள் முன்னெடுக்கப்பட்டுள்ளன.
+High-ranking police officers in Jaffna are investigating allegations of supporting a violent gang. The gang broke into four houses, and some were caught with weapons, including swords. The police arrested the four and submitted the weapons for investigation. A Tamil police officer claimed support from the residents.
 
-கடந்த சில தினங்களுக்கு முன்னர் ஊர்காவற்துறை பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் இரவு வேளை புகுந்த வன்முறை கும்பல் ஒன்று நான்கு வீடுகளை அடித்து உடைத்து சேதமாக்கி விட்டு தப்பி சென்று இருந்தது.
+🟩
 
-அந்நிலையில் மறுநாளும் குறித்த வன்முறை கும்பலை சேர்ந்தவர்கள் அப்பகுதியில் வன்முறை சம்பவங்களில் ஈடுபட முனைந்தவேளை ஊரவர்கள் அவர்களை மடக்கி பிடிக்க முற்பட்ட வேளை நால்வர் பிடிபட்டனர், ஏனையவர்கள் அங்கிருந்து தப்பி சென்று இருந்தனர்.
+Investigations are being carried out by high -ranking police officers on charges of supporting a violent gang in Jaffna.
 
-பிடிபட்டவர்களிடம் ஊரவர்கள் விசாரணைகளை முன்னெடுத்த வேளை , ஊர்காவற்துறை பொலிஸ் நிலையத்தில் கடமையாற்றும் தமிழ் பொலிஸ் உத்தியோகஸ்தர் ஒருவர் எமக்கு ஆதரவாக செயற்படுபவர் என கூறியுள்ளனர்.
+A few days ago, a violent gang that entered the Kayts police division had broken into four houses and fled.
 
-அதேவேளை பிடிபட்டவர்களின் கைபேசிகளை ஊரவர்கள் சோதனை செய்த போது , அவற்றில் வன்முறை கும்பலை சேர்ந்த சிலர் வாள்கள் உள்ளிட்ட ஆயுதங்களுடன் உள்ள புகைப்படங்கள் காணப்பட்டன.
+The next day, the violent mobs were trying to engage in violence in the area, while the four were caught when they tried to catch them, while others fled.
+
+While the residents are conducting investigations, a Tamil police officer who works at the Kayts Police Station has said that we are supporting us.
+
+At the same time, when the people were checked by the captures, some of the violent gangs were found with photos with weapons, including swords.
+
+Following the handing over of the four men who had been caught by the Kayts police, the police arrested them and tried in the forum after investigations.
+
+At the same time, the video recordings of the violent gangs have been taken to the notice of the magistrate through the lawyer.
 
 ...
 
 [Data](articles/c75e765f.json)
+
+[Extended Data](ext_articles/c75e765f.ext.json)
 
 ---
 
@@ -953,6 +991,20 @@ The US dollar purchasing price was Rs 294.9271 and the sales price were Rs 304.2
 [Data](articles/31e32805.json)
 
 [Extended Data](ext_articles/31e32805.ext.json)
+
+---
+
+### Lasantha’s 66th Birthday: Who Was Lasantha?
+
+*2024-04-05 16:14:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/lasanthas-66th-birthday-who-was-lasantha/) · `en`
+
+Many speculate what the State of the Nation would be today if Lasantha Wickrematunge were alive. I have thought about it too. But, then I know. If it were not on that fateful day, the 8th of January 2009 it would have been another day. It is said that the greatest aphrodisiac known to man is the power of man over man. Lasantha had to be killed for one man’s power over all men in Sri Lanka. He may be power hungry, yet be a coward who would use minions to do such a dastardly crime for some petty gain, but the Boss would convince himself that he didn’t do it. He may even be cowardly enough to go overseas to convince himself that he was away from the country when the murder was being perpetuated.
+
+Lasantha would have been 66 years young today. Did he not have a right to see his family grow? tousle his children’s hair? That was not even a thought that crossed a narcissist’s mind. Who was Lasantha? Just another man.
+
+...
+
+[Data](articles/9bc45fbc.json)
 
 ---
 
@@ -2267,51 +2319,5 @@ Finalized bilateral restructuring agreements and a deal with private credits are
 [Data](articles/e92d491d.json)
 
 [Extended Data](ext_articles/e92d491d.ext.json)
-
----
-
-### Young Bikku who surrenders to the police for stealing
-
-*2024-04-05 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180477) · `ta`
-
-A young man surrendered to police for theft crimes committed eight years ago, seeking punishment.
-
-🟩
-
-A young man surrendered to the Yakkala police station yesterday (04) at the Yakkala police station for allegedly arrested and sentenced to death.
-
-The police said that he had gone to the police station with his mother, demanding that he be punished for the theft crimes he had committed.
-
-The police have been arrested by the police and further investigations are being carried out.
-
-The police said that he had to be punished for the theft crimes he had committed about eight years ago and that he was not willing to meditate until he was punished.
-
-Police said he had surrendered to him to get peace of mind and get peace of mind.
-
-◼️
-
-[Data](articles/25630a4c.json)
-
-[Extended Data](ext_articles/25630a4c.ext.json)
-
----
-
-### Deshabandu
-
-*2024-04-05 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195325) · `si`
-
-Deshabandu Tennakoon appeals to Supreme Court over fundamental rights petitions from five OICs.
-
-🟩
-
-IGP Deshabandu Tennakoon has come to the Supreme Court.
-
-It is for the fundamental rights petitions presented by five OICs transferred after the struggles.
-
-◼️
-
-[Data](articles/2a9b8e2e.json)
-
-[Extended Data](ext_articles/2a9b8e2e.ext.json)
 
 ---

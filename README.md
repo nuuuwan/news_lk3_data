@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 10:04:53**
+As of **2024-04-05 10:18:01**
 
 ## Newspaper Stats
 
-*Scraped **17,275** Articles*
+*Scraped **17,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,80 @@ islandlk | 950
 economynextcom | 957
 adalk | 1,458
 tamilmirrorlk | 2,044
-adaderanalk | 2,069
+adaderanalk | 2,070
 virakesarilk | 2,512
 dailymirrorlk | 2,649
-adaderanasinhalalk | 2,789
+adaderanasinhalalk | 2,791
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,274 (100.0%) of 17,275 articles have been extended.
+17,275 (100.0%) of 17,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### கொழும்பில் பாதுகாப்பு கடமைகளில்  100 புலனாய்வு பிரிவு அதிகாரிகள்
+### ශ්‍රී ලංකාවේ ණය ගැන ජාත්‍යන්තර මූල්‍ය අරමුදලට ඇතිවූ විශ්වාසය
+
+*2024-04-05 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195324) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ දෙවැනි සමාලෝචනය සම්පූර්ණ වනවිට වාණිජ ණයහිමියන් සමග එකඟතාවයකට එළැඹීමට ශ්‍රී ලංකාවට හැකිවෙතැයි "දැඩි විශ්වාසයක්" ඇතැයි ජාත්‍යන්තර මූල්‍ය අරමුදල පැවසීය.
+
+ඩොලර් බිලියන 12ක ණය ප්‍රතිව්‍යුහගතකරණය සඳහා ශ්‍රී ලංකාව මේ වනවිට බැඳුම්කරහිමියන් සමග සාකච්ඡා කරමින් පවතියි. එය ආරථික අර්බුදයෙන් ගොඩඒම සඳහා ශ්‍රී ලංකාවට අවශ්‍ය ම පියවරක් ලෙස සැලකෙයි.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ ප්‍රකාශිකා ජූලි කොසැක් මාධ්‍ය හමුවකදී ඒ බව පවසා තිබුණි.
+
+පසුගිය වසරේ මාර්තු මාසයේදී ඩොලර් බිලියන 2.9ක විස්තීර්ණ ණය පහසුකමක් ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාව ට අනුමත කළ අතර එය වසර 4ක වැඩසටහනකි.
+
+ඒ යටතේ වූ දෙවැනි සමාලෝචනයට ශ්‍රී ලංකාව සහ ජාත්‍යන්තර මූල්‍ය අරමුදල කාර්ය මණ්ඩල මට්ටමින් එකඟතාවයකට එළැඹුණි.
+
+නමුත් එය ජාත්‍යන්තර මූල්‍ය අරමුදලේ විධායක මණ්ඩලය අනුමත කළ යුතු ය.
+
+◼️
+
+[Data](articles/6a82551b.json)
+
+---
+
+### අධිකරණයට අපහාස කළ බව කියූ සිද්ධියේ පෙත්සම කැඳවයි
+
+*2024-04-05 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195323) · `si`
+
+අධිකරණයට අපහාස කළේ යැයි චෝදනා කරමින් හිටපු ක්‍රීඩා අමාත්‍ය රොෂාන් රණසිංහ මහතාට එරෙහිව ඉදිරිපත් කර තිබෙන පෙත්සම සලකාබැලීම සඳහා ජූලි මස 10 වනදා කැඳවන ලෙස අභියාචනාධිකරණය ඊයේ (04) නියෝග කළේය.
+
+අභියාචනාධිකරණයේ සභාපති විනිසුරුවරයා සම්බන්ධයෙන් පාර්ලිමේන්තුවේදී සිදු කරනු ලැබූ ප්‍රකාශයකින් අධිකරණයට අපහාස කළේ යැයි චෝදනා කරමින් මෙම පෙත්සම ගොනුකර තිබේ.
+
+මොහොමඩ් ලෆාර් සහ චමත් මොරායස් යන අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ පෙත්සම කැඳවීමට නියමිතය.
+
+දිමිත්‍රී ශිරාස් ඔගස්ටස් පිට්‍රාංජලී නමැති නීතිඥවරියක විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබූ අතර එහි වගඋත්තරකරුවන් ලෙස හිටපු ක්‍රීඩා අමාත්‍ය රොෂාන් රණසිංහ මහතා නම් කෙරුණි.
+
+◼️
+
+[Data](articles/519b8fb9.json)
+
+---
+
+### 100 intelligence unit officers on security duties in Colombo
 
 *2024-04-05 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180475) · `ta`
 
-மேல் மாகாணத்தில் 100 பொலிஸ்  புலனாய்வு பிரிவு அதிகாரிகள் தமது கடமைகளில் இருந்து விடுவிக்கப்பட்டு கொழும்பில் பாதுகாப்பு கடமைகளுக்கு மீண்டும் நியமிக்கப்பட்டுள்ளனர்.
+100 Police Intelligence Officers in Colombo reassigned from security to public duties, led by Chief Minister Patriot Thennakoon, to combat crimes during the Tamil-Sinhala New Year, following increased efforts against underworld and drug activities.
 
-குறிப்பாக தமிழ் - சிங்கள புதுவருட காலத்தில் வாகன திருட்டு, தங்க நகை கொள்ளை போன்ற குற்றங்களை தடுப்பதற்கும் பாதுகாப்பை பலப்படுத்துவதற்கும் மேல்மாகாண புலனாய்வு பிரிவின் அதிகாரிகளை கொழும்பில் பொது கடமைகளில் ஈடுபடுத்துமாறு பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் பணிப்புரை விடுத்துள்ளார்.
+🟩
 
-கடந்த சில வாரங்களாக, நாடளாவிய ரீதியில் பாதாள உலக மற்றும் போதைப்பொருள் செயற்பாடுகளுக்கு எதிரான நடவடிக்கைகளை பொலிஸார் தீவிரப்படுத்தியுள்ளனர்.
+In the Western Province, 100 Police Intelligence Officers have been released from their duties and re -appointed security duties in Colombo.
+
+In particular, the Chief Minister of Police, Patriot Thennakoon, has issued a directive to engage in public duties in Colombo to prevent crimes such as vehicle theft and gold jewelery crimes in the Tamil -Sinhala New Year.
+
+Over the past few weeks, the police have intensified activities against underworld and drug activities nationwide.
 
 ◼️
 
 [Data](articles/b801256a.json)
+
+[Extended Data](ext_articles/b801256a.ext.json)
 
 ---
 
@@ -106,15 +152,13 @@ Meanwhile, the Elections Commission has said that no party has so far requested 
 
 *2024-04-05 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98438/there-is-strong-expectation-of-sri-lanka-commercial-creditor-deal-imf) · `en`
 
-The International Monetary Fund said on Thursday that there is “strong expectation” that Sri Lanka will reach a deal with its commercial creditors by the completion of the IMF’s second review.
+The International Monetary Fund said on Thursday that there is “strong expectation” that Sri Lanka will reach a deal with its commercial creditors by the completion of the IMF’s second review.
 
 Sri Lanka is in talks with bondholders to restructure about USD 12 billion in debt, a key step in its bid to emerge from a punishing financial crisis.
 
 “There is a strong expectation that agreements with commercial creditors consistent with program parameters will be reached by completion of the second review,” IMF spokesperson Julie Kozack told a press briefing.
 
 The IMF reached a staff-level agreement with Sri Lanka on its second review of a four-year bailout programme late last month, but it still needs approval from the IMF’s board.
-
-Kozack also said the macroeconomic policy reforms in Sri Lanka are starting to bear fruit, adding that commendable outcomes include rapid disinflation, robust reserve accumulation, and initial signs of economic growth, while preserving stability of the financial system.
 
 ...
 
@@ -213,6 +257,22 @@ The Dalai Lama was on Thursday presented with the relics preserved and protected
 [Data](articles/73ef8d77.json)
 
 [Extended Data](ext_articles/73ef8d77.ext.json)
+
+---
+
+### At least 500 maids in Singapore duped in 2023 are from India, Sri Lanka
+
+*2024-04-05 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98437/at-least-500-maids-in-singapore-duped-in-2023-are-from-india-sri-lanka) · `en`
+
+The number of scams in Singapore hit a record high in 2023, Home Minister K. Shanmugam said, adding that the country saw a rise of 18 per cent in duping cases against migrants, many of whom are from India and Sri Lanka.
+
+A total of 46,563 cases of scams were reported in Singapore, with people losing SGD 651.8 million to scams in 2023, the police earlier told The Straits Times, saying this is the highest number of scam cases since they began tracking them in 2016.
+
+Falling prey to the scams are about 500 foreign maids from South Asian countries, mostly from India, Sri Lanka, and Myanmar, migrated to the country in search of better employment opportunities, higher wages and a stable political and economic environment.
+
+...
+
+[Data](articles/86a55248.json)
 
 ---
 
@@ -2201,77 +2261,5 @@ b. Should have clearance from the Department of Immigration and Emigration confi
 [Data](articles/aeb512e5.json)
 
 [Extended Data](ext_articles/aeb512e5.ext.json)
-
----
-
-### Merchants profit up to 100-1000 in the sale of essential foods: Group about the ways
-
-*2024-04-04 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180445) · `ta`
-
-Merchants profit 100-1000 rupees per kg on essential food imports. From 2018-2023, importers must report to the government. The issue was discussed in Parliament, revealing a lack of tax revenue on imported goods and inadequate special commodity tax on food items. The government plans to intervene, including direct consumer importation and public awareness campaigns.
-
-🟩
-
-When imported essential food products are sold in terms of market prices, it is revealed in the group of merchants to make a profit of up to 100-1000 rupees per kg.
-
-From 2018 to 2023, it was recommended that importers collect the law and report their progress to the end of this month.
-
-The issue was revealed when the group on the guidance was recently convened in Parliament under the leadership of its chairman Patali Champika Ravanaka.
-
-The difference between the market prices and imported prices of essential food products has been discussed and the Department of Central Bank, Business and Investment Policy, Sri Lanka Customs, Export Import, Department of Customs, Exports and Statistics Department, Hector Consumer Affairs Affairs, Hector Consumer Affairs AuthorityOfficers were invited to discuss.
-
-...
-
-[Data](articles/69eec98d.json)
-
-[Extended Data](ext_articles/69eec98d.ext.json)
-
----
-
-### 2023 A/L results expected in May?
-
-*2024-04-04 17:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98430/2023-al-results-expected-in-may) · `en`
-
-Minister of Education Susil Premajayantha states that efforts are underway to release the results of the 2023 G.C.E. Advanced Level examination in the beginning of May.
-
-Furthermore, the Minister expressed that the timetable have already been prepared to hold the 2023 G.C.E. Ordinary Level examination in mid-May.
-
-Joining an event held at the Ministry of Education premises today (04), Premajayantha mentioned that the report of the committee appointed to make recommendations with regard to increasing the allowances of teachers engaging in paper-marking activities have been received.
-
-“Accordingly, approval will be obtained for the relevant report within the next few weeks”, he added.
-
-The Education Minister, who stated that there are around 35,000 individuals taking part in O/L paper-marking and 19,000 those who participate in A/L paper-marking activities, assured that all of them will possibly receive a satisfactory allowance.
-
-◼️
-
-[Data](articles/d10a4c7d.json)
-
-[Extended Data](ext_articles/d10a4c7d.ext.json)
-
----
-
-### FR petition demanding compensation for the Narammala driver who died of the police stirus
-
-*2024-04-04 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195304) · `si`
-
-The Supreme Court heard a petition for compensation for a lorry driver killed by a police officer in Narammala. The OIC and IGP of Narammala Police were not notified. The court, led by Nawaz, Achala Winglingi, and Priyantha Fernando, considered the case. Upul Kumarapperuma, representing the deceased's wife, criticized the shooting. The government launched a non-vegetative trial against the police officer.
-
-🟩
-
-The Supreme Court today (04) was permitted to hear a petition filed by a lorry police officer who was shot dead by the Narammala Police officer who was working on duty under the operation of justice.
-
-Accordingly, the panel of judges was appointed as the petition in the courts regarding the petition regarding the petition in the Narammala Police regarding the shooting incident.
-
-However, the OIC of Naramma Police OIC and IGP, Naramma Police OIC and IGP, has not been issued notices regarding the panel of judges.
-
-After considering a fundamental rights petition filed by his wife, Kamani Priyangani for the deceased Roshan Kumarasiri for the death of the incident, AHMD. The three-member Supreme Court Judge Bench comprised Nawaz, Achala Winglingi and Priyantha Fernando.
-
-President's Counsel Upul Kumarapperuma, who was presented to the wisher of the deceased, has questioned the shooting of the court.
-
-...
-
-[Data](articles/c5ec7d40.json)
-
-[Extended Data](ext_articles/c5ec7d40.ext.json)
 
 ---

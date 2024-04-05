@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 05:37:58**
+As of **2024-04-05 06:17:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,234 (100.0%) of 17,239 articles have been extended.
+17,239 (100.0%) of 17,239 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -136,6 +136,8 @@ The BASL reiterated its commitment to upholding the rule of law and ensuring jus
 
 [Data](articles/679bd728.json)
 
+[Extended Data](ext_articles/679bd728.ext.json)
+
 ---
 
 ### President credits Govt.’s favourable environment for allowing public participation in politics
@@ -156,6 +158,8 @@ These remarks were made during his attendance at the inauguration of  the Inter
 
 [Data](articles/2f6189d5.json)
 
+[Extended Data](ext_articles/2f6189d5.ext.json)
+
 ---
 
 ### G.L and others to sign political pact with SJB today
@@ -174,6 +178,8 @@ However, the SJB MP declined to disclose the identities of the groups intending 
 
 [Data](articles/4a634b56.json)
 
+[Extended Data](ext_articles/4a634b56.ext.json)
+
 ---
 
 ### Committee on High Posts approves four new Ambassadors, two Ministry Secretaries, two Chairpersons
@@ -189,6 +195,8 @@ In addition, the Committee has approved the appointments of (Eng) R.G. Rubasingh
 ...
 
 [Data](articles/2609f8e6.json)
+
+[Extended Data](ext_articles/2609f8e6.ext.json)
 
 ---
 

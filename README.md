@@ -1,36 +1,114 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 11:33:52**
+As of **2024-04-05 11:52:43**
 
 ## Newspaper Stats
 
-*Scraped **17,287** Articles*
+*Scraped **17,297** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 153
-bbccomsinhala | 179
+bbccomsinhala | 180
 dbsjeyarajcom | 208
 newsfirstlk | 363
 dailyftlk | 944
 islandlk | 950
-economynextcom | 957
+economynextcom | 962
 adalk | 1,458
-tamilmirrorlk | 2,044
-adaderanalk | 2,072
+tamilmirrorlk | 2,045
+adaderanalk | 2,074
 virakesarilk | 2,515
 dailymirrorlk | 2,651
-adaderanasinhalalk | 2,793
+adaderanasinhalalk | 2,794
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,285 (100.0%) of 17,287 articles have been extended.
+17,287 (99.9%) of 17,297 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### SLFP’s future decisions by party committees only – Senior Vice President
+
+*2024-04-05 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98442/slfps-future-decisions-by-party-committees-only-senior-vice-president) · `en`
+
+The political decisions of Sri Lanka Freedom Party (SLFP) will be decided only by the committees of the party including the SLFP’s central committee, says the party’s Senior Vice President Prof. Rohana Lakshman Piyadasa.
+
+The Colombo District Court on Thursday (04) issued an enjoining order preventing former President Maithripala Sirisena from functioning as the SLFP chairman.
+
+The order, which was issued following a complaint filed by former President Chandrika Bandaranaike Kumaratunga, will be effective until April 18.
+
+However, Prof. Piyadasa stated that even if the court issued an enjoining order by way of legal clarification in the judicial process, the party’s future political decisions would be made by the party’s committees.
+
+◼️
+
+[Data](articles/f834b096.json)
+
+---
+
+### டக்ளஸ் தேவானந்தாவின் திடீர் முடிவு
+
+*2024-04-05 11:31:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டக்ளஸ்-தேவானந்தாவின்-திடீர்-முடிவு/175-335641) · `ta`
+
+எதிர்வரும் பாராளுமன்ற தேர்தலுடன் அரசியலில் இருந்து ஓய்வு பெறத் தீர்மானித்துள்ளதாத ஈழ மக்கள் ஜனநாயகக் கட்சியின் செயலாளர் நாயகமும் கடற்தொழில் அமைச்சருமான டக்ளஸ் தேவானந்தா தெரிவித்தார்.
+
+“நான் ஆயுதப் போராட்டத்தில் இருந்து அரசியலில் நீரோட்டத்துக்கு பல்வேறு தடைகளைக் கடந்து வந்தவன்.
+
+தமிழ் மக்களின் அரசியல் அன்றாடப் பிரச்சினை மற்றும் அபிவிருத்தி என்பவற்றை எனது அரசியல் காலத்தில் முடிந்தவரை பெற்றுக் கொடுப்பதே எனது இலக்கு.
+
+துரதிஷ்டவசமாக எனக்கு கிடைத்த ஆசனங்கள் போதாமையால் தெற்குடன் பேரம் பேசும் சக்தியை மக்கள் வழங்கவில்லை.
+
+தமிழ் மக்களுக்கு எதையாவது பெற்றுக் கொடுக்க வேண்டுமே என்ற நினைப்பு மட்டும் எனக்கு இருக்கிறது மக்களை வைத்து அரசியல் செய்ய வேண்டிய தேவை எனக்கு இல்லை.
+
+நான் கடந்த முறை பாராளுமன்றத் தேர்தலின் பின்னர் அரசியலில் இருந்து ஓய்வு பெறலாம் என நினைத்திருந்தேன் ஆனால் சில விடயங்களை தொடக்கி விட்டேன் முடித்து விடலாம் என்ற நம்பிக்கையுடன் அரசியலில் ஈடுபட்டேன்
+
+...
+
+[Data](articles/6b897486.json)
+
+---
+
+### Biden warns Netanyahu US policy depends on Gaza civilian protection
+
+*2024-04-05 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98441/biden-warns-netanyahu-us-policy-depends-on-gaza-civilian-protection) · `en`
+
+President Joe Biden warned Israel of a sharp shift in his policy over the Gaza war Thursday amid growing frustration with Benjamin Netanyahu and mounting domestic pressure in a US election year.
+
+A tense phone call between the two leaders appeared to yield at least some results, as Netanyahu’s office announced within hours it would temporarily allow more aid to flow into Gaza.
+
+Biden has stood solidly behind Israel and its prime minister since Hamas’s October 7 attacks, and his criticism of civilian deaths in Gaza has not stopped Washington from supplying military hardware to its key ally.
+
+But the Democrat faces spiraling anger from Muslim and younger voters over his support for Israel, and political allies have been pressing him to make the aid conditional on changed Israeli behavior.
+
+In a 30-minute call with Netanyahu after Israeli strikes killed seven aid workers from US-based charity World Central Kitchen, Biden hinted at doing just that.
+
+...
+
+[Data](articles/e85a980f.json)
+
+---
+
+### දකුණු කොරියාවෙන් ශ්‍රී ලංකාවට සුබ ආරංචියක්
+
+*2024-04-05 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195327) · `si`
+
+දකුණු කොරියානු අග්‍රාමාත්‍ය Han Duck Soo මහතා සහ ශ්‍රී ලංකා අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා අතර හමුවක් ඊයේ (04) දකුණු කොරියාවේ සෝල් නගරයේ පිහිටි අග්‍රාමාත්‍ය කාර්යාලයේදී සිදුවිය.
+
+එහිදී කොරියානු අග්‍රාමාත්‍යවරයා ශ්‍රී ලංකාවට නව රැකියා දොරටු රැසක් විවර කරන බව ප්‍රකාශ කළේය.
+
+කෘෂිකාර්මික, ඉදිකිරීම් හා වෙනත් කර්මාන්ත සඳහා තම රටේ රැකියා ලබාදෙන ශ්‍රම බලකායට අමතරව සෞඛ්‍ය සේවා හා වෘත්තික සේවා සඳහා නව රැකියා ලබාදීමේ හැකියාව පිළිබඳව ද කොරියානු අග්‍රාමාත්‍යවරයා මෙහිදී සඳහන් කළේය.
+
+පසුගිය වකවානුවේ පැවති මූල්‍ය අර්බුදය හමුවේ නැවත නැගී සිටින ශ්‍රී ලංකාවට, තම රට පැරිස් සමාජයේ සාමාජිකයකු ලෙස ඉදිරි කටයුතු සාර්ථකව කරගෙන යෑම සඳහා සෑමවිටම පෙනී සිටින බව කොරියානු අග්‍රාමාත්‍යවරයා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/294b0dc1.json)
+
+---
 
 ### No ground for Indian claim on Katchatheevu, says Sri Lankan Minister
 
@@ -48,6 +126,8 @@ The BJP has also been targeting the two parties for not ensuring the rights of t
 
 [Data](articles/bbd3d43c.json)
 
+[Extended Data](ext_articles/bbd3d43c.ext.json)
+
 ---
 
 ### SJB signs MOU with section of Nidahasa Janatha Sabawa
@@ -61,6 +141,8 @@ Six MPs including Professor G. L. Peiris, Dilan Perera. Nalaka Godahewa are some
 ◼️
 
 [Data](articles/91efd747.json)
+
+[Extended Data](ext_articles/91efd747.ext.json)
 
 ---
 
@@ -170,6 +252,28 @@ The legal counsels representing the petitioners presented facts before a three-m
 
 ---
 
+### IMF says “strong expectation” on Sri Lanka deal with private creditors
+
+*2024-04-05 10:18:00* · [`economynextcom`](https://economynext.com/imf-says-strong-expectation-on-sri-lanka-deal-with-private-creditors-157659/) · `en`
+
+ECONOMYNEXT – There are strong expectations of agreements being reached with commercial creditors, the International Monetary Fund Communications Director Julie Kozack, said.
+
+“[T]here is a strong expectation that agreements with commercial creditors consistent with program parameters will be reached by completion of the second review,” she told reporters in Washington.
+
+Domestic state enterprise debt re-structuring is expected to completed soon, Deputy Central Bank Governor Yvette Fernando told a business forum earlier this week.
+
+Related Sri Lanka private banks unlikely to need state recapitalization
+
+Sri Lanka is in talks with both International Sovereign Bond Holders and other creditors like China Development Bank to conclude a deal.
+
+Finalized bilateral restructuring agreements and a deal with private credits are required to complete the second review of the IMF program.
+
+...
+
+[Data](articles/e92d491d.json)
+
+---
+
 ### Young Bikku who surrenders to the police for stealing
 
 *2024-04-05 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180477) · `ta`
@@ -244,6 +348,26 @@ But it should be approved by the International Monetary Fund Executive.
 
 ---
 
+### Sri Lanka Ayurveda hospital to offer paying wards, looking for PPP
+
+*2024-04-05 10:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-ayurveda-hospital-to-offer-paying-wards-looking-for-ppp-157648/) · `en`
+
+ECONOMYNEXT – Sri Lanka is looking to establish a public private partnership at the National Ayurveda Teaching Hospital located at Cotta Road, Borella due to a lack of funds, State Minister of Indigenous Medicine Sisira Jayakody, has said.
+
+“We have 180 rooms in Borella and we wish to go for a private-public partnership. However, there is a political party – trade union that does not let us sign such an agreement,” Jayakody said on Thursday.
+
+In the past, staff have protested saying the understaffing made it almost impossible to function. They also said the hospital lacked funds to provide medicines, and meals for patients who were admitted there.
+
+“There are a lot of shortages. This is why we want to have paying wards,” Jayakody said. “Sick people are willing to pay.”
+
+Jayakody said that Western medical services receive the majority of government funding with Ayurveda medicine receiving only 2 percent of funding. (Colombo/Apr5/2024)
+
+◼️
+
+[Data](articles/7bb3fba2.json)
+
+---
+
 ### 100 intelligence unit officers on security duties in Colombo
 
 *2024-04-05 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180475) · `ta`
@@ -287,6 +411,26 @@ The petition was presented by a lawyer of the lawyer Shiz Augustus Pitrajali, an
 [Data](articles/519b8fb9.json)
 
 [Extended Data](ext_articles/519b8fb9.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 299.35/55 to the US dollar
+
+*2024-04-05 09:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-299-35-55-to-the-us-dollar-157650/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 299.35/55 to the US dollar in the spot forex market on Friday, stronger from 299.70/80 on Thursday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 was quoted stable at 11.35/45 percent.
+
+A bond maturing on 15.09.2027 was quoted at 11.90/12.00 percent from 11.95/12.00 percent.
+
+A bond maturing on 15.12.2028 was quoted stable at 12.15/25 percent.
+
+The Colombo Stock Exchange opened up: The All Share Price Index was up 0.06 percent at 11,705, and the S&P SL20 was up 0.06 percent at 3,439. (Colombo/Apr5/2024)
+
+◼️
+
+[Data](articles/c86a3b26.json)
 
 ---
 
@@ -453,6 +597,32 @@ The Dalai Lama was on Thursday presented with the relics preserved and protected
 [Data](articles/73ef8d77.json)
 
 [Extended Data](ext_articles/73ef8d77.ext.json)
+
+---
+
+### Sri Lanka container volumes surge 30-pct in Feb amid Red Sea troubles
+
+*2024-04-05 08:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-container-volumes-surge-30-pct-in-feb-amid-red-sea-troubles-157620/) · `en`
+
+ECONOMYNEXT –  Sri Lanka’s container transshipment volumes rose 29.1 percent to 528,348 twenty foot equivalent unit (TEUs), in February 2024 as shipping lines use Colombo port to drop off and pick up cargo linked to by-passed Middle Eastern ports.
+
+Up to February 2024, transshipment volumes were up 27.2 percent.
+
+Meanwhile domestic container volumes were also picking up as the economy recovered from a currency crisis and tourism inflows boosted incomes of the people, driving more imports, despite foreign reserve collections.
+
+Domestic containers surged 39 percent to 92,097 in February 2024, from 66,236 in February 2022.
+
+Sri Lanka’s total container volumes in February were up 30.3 percent to 1,337,557 TEUS.
+
+In 2023 Colombo Port handled 6.951 million TEUs, up 1.17 percent from a year ago.
+
+Related Sri Lanka sails in to the breach as ships by-pass Middle East over Houthi attacks
+
+Container yards at Colombo terminals are full as the port copes with traffic disrupted by the Red Sea attacks.
+
+...
+
+[Data](articles/2f842dd5.json)
 
 ---
 
@@ -783,6 +953,28 @@ As a caring citizen I said, “three cheers”, happily thinking that at last, t
 [Data](articles/1e95c7f7.json)
 
 [Extended Data](ext_articles/1e95c7f7.ext.json)
+
+---
+
+### ජනක රත්නායක ගයත්‍රි බිම්බාට එරෙහිව ඔන්ලයින් පනත යටතේ පළමු තහනම් ආඥාව ලබා ගනී
+
+*2024-04-05 05:02:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjkd4pp43zro) · `si`
+
+ජනක රත්නායක ගයත්‍රි බිම්බාට එරෙහිව ඔන්ලයින් පනත යටතේ පළමු තහනම් ආඥාව ලබා ගනී
+
+සමාජ මාධ්‍ය නියාමනය සඳහා මෑතකදී රජය විසින් සම්මත කළ "මාර්ගගත ක්‍රමවල සුරක්ෂිතතාව පිළිබඳ පනත" යටතේ පළමු තහනම් ආඥාව ( අප්‍රේල් 4 වැනිදා) කොළඹ මහේස්ත්‍රාත් අධිකරණය විසින් නිකුත් කරන ලදී.
+
+මහජන උපයෝගීතා කොමිසමේ හිටපු සභාපති ජනක රත්නායක විසින් ඉදිරිපත් කළ පැමිණිල්ලක් සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ප්‍රසන්න අල්විස් විසින් මෙම තහනම් ආඥාව නිකුත් කරනු ලැබීය.
+
+මෙම තහනම් ආඥාව නිකුත් කෙරුණේ පැමිණිලිකාර ජනක රත්නායකගේ පුද්ගලික සහායිකාවක වශයෙන් කටයුතු කළ මේ වන විට තායිවානයේ වෙසෙන ගයත්‍රී බිම්බා, ජනක රාජපක්ෂ සහ ඔෂල හේරත් ඇතුළු පාර්ශ්ව 8 කට එරෙහිවය.
+
+මෙම තහනම් ආඥාව පිළිබඳව ගූගල් සහ වට්ස්ඇප් සමාගම් දැනුවත් කිරීමට පියවර ගන්නා ලෙසද මහේස්ත්‍රාත්වරයා විසින් නියෝග කරන ලදී.
+
+මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත බලාත්මකයි; මේ දක්වා සිදුවුයේ කුමක් ද?මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත: වැඩ වරදින වැරදි මොනවද?
+
+...
+
+[Data](articles/aa2895c9.json)
 
 ---
 
@@ -2037,215 +2229,5 @@ The court decided to release the suspects due to the death of both the evidence 
 [Data](articles/4251142b.json)
 
 [Extended Data](ext_articles/4251142b.ext.json)
-
----
-
-### Chandrika, who opposed Maithri, is the petition
-
-*2024-04-04 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195309) · `si`
-
-Chandrika Bandaranaike Kumaratunga, a former President and SLFP leader, filed a petition against Maithripala Sirisena, the SLFP Chairman, in the Colombo District Court. The court issued an injunction, preventing Sirisena from holding the post of Prime Minister, citing national security failures and alleged misconduct.
-
-🟩
-
-The Colombo District Court today issued an enjoining order preventing the Chairman of the Sri Lanka Freedom Party (SLFP) former President Maithripala Sirisena.
-
-Former President Chandrika Bandaranaike Kumaratunga, who is a Sri Lanka Freedom Party (SLFP) is the leader of the Sri Lanka Freedom.
-
-Former President Chandrika Bandaranaike Kumaratunga filed a petition in the Colombo District Court against Sri Lanka Freedom Party Chairman Maithripala Sirisena.
-
-It was pointed out that Maithripala Sirisena's irresponsible manner as the Chairman of the party was caused by the party.
-
-The petition was found that Maithripala Sirisena who was the Chairman of the party and the Commonwealth of the country have failed to ensure national security.
-
-Chandrika Bandaranaike has pointed out that he is guilty of Rs. 100 million.
-
-The petition has decided that Mr. Sirisena has acted in the prime minister that Mr. Sirisena has been deployed as the Prime Minister of the Governance of the Governor.
-
-...
-
-[Data](articles/d124cb66.json)
-
-[Extended Data](ext_articles/d124cb66.ext.json)
-
----
-
-### Student killed in Congress
-
-*2024-04-04 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180458) · `ta`
-
-A student died and another was injured at Maskeliya Cartmore Tamil Vidyalaya when a concrete pipe used for a rectal garden collapsed.
-
-🟩
-
-A student dies when a concrete pipe collapsed at the Maskeliya Cartmore Tamil Vidyalaya.
-
-The concrete pipes used to cut the cavity for the rectal garden have been unloaded at the school premises.
-
-A student was injured when a pipe collapsed on a student when he climbed into the concrete pipes that had been unloaded at the school.
-
-Subsequently, the injured student was taken to the hospital by teachers.
-
-◼️
-
-[Data](articles/38d67f31.json)
-
-[Extended Data](ext_articles/38d67f31.ext.json)
-
----
-
-### Several new appointments approved
-
-*2024-04-04 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195308) · `si`
-
-The Committee on High Posts approved several new appointments, including Mr. Perera as Sri Lankan Ambassador in Poland, Ms. Dharmasena in Thailand, and Ms. Ponoporuru in Myanmar. New Secretaries for Transport and Fisheries were also appointed.
-
-🟩
-
-The Committee on High Posts on the High Courts in Parliament recently to appoint two of the Ministry Secretaries and two Establishments Chairperson of the Ministry and two Establishments Chairperson.
-
-Accordingly, the new Sri Lankan Ambassador of Vietnam. Mr. Perera, as the new Sri Lankan Ambassador in Poland, TP. Ms. Dharmasena as the new Sri Lankan Ambassador in Thailand. PAP as Mrs. Edirisinghe and Myanmar. Approval has been approved by Ms. Ponoporuru.
-
-And the new Secretary to the Ministry of Transport and Highways (Engineering) RG. Mr. Rubasinghe appoints and the new Secretary of the Ministry of Fisheries. The appointment of Somaratne has been given approval to appoint.
-
-The approval of the Committee on High Posts as the new Chairman of the Sri Lanka Transport Board (SLTB) is the new Chairman of the Ceylon Industrial Development Board.
-
-◼️
-
-[Data](articles/11c00421.json)
-
-[Extended Data](ext_articles/11c00421.ext.json)
-
----
-
-### President inaugurates Ratnapura Gem Tower
-
-*2024-04-04 18:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/President-inaugurates-Ratnapura-Gem-Tower/110-280195) · `en`
-
-The International Gem and Jewellery Trade Centre, known as the Ratnapura Gem Tower, was inaugurated this morning (04) by President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/21f25645.json)
-
-[Extended Data](ext_articles/21f25645.ext.json)
-
----
-
-### SLFP internal crisis intensifies: Sirisena responds to injunction over CBK’s plaint
-
-*2024-04-04 18:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98431/slfp-internal-crisis-intensifies-sirisena-responds-to-injunction-over-cbks-plaint) · `en`
-
-Former President Maithripala Sirisena says he expects to present facts before the court with regard to the interim injunction issued by the Colombo District Court, preventing him from functioning as the Chairman of Sri Lanka Freedom Party (SLFP).
-
-The Colombo District Court on Thursday (04) issued an interim injunction preventing Sirisena from functioning as the SLFP chairman, following a complaint filed by former President Chandrika Bandaranaike Kumaratunga.
-
-Speaking to the media this evening (04), Sirisena said: “I got to know in the afternoon that Mrs. Chandrika Bandaranaike has obtained an interim injunction to remove me from the chairmanship [of SLFP]. I only saw on media that the injunction is effective until April 18.”
-
-The former President also said that he has not been officially informed of the order in writing as of yet.
-
-...
-
-[Data](articles/cdf490a4.json)
-
-[Extended Data](ext_articles/cdf490a4.ext.json)
-
----
-
-### Student killed in another school falling into a part of the concrete
-
-*2024-04-04 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195307) · `si`
-
-An 11-year-old student was killed after being trapped by a falling concrete section at a school toilet. The incident occurred at 1.30 pm today. The student, a 6th grader from Maskeliya Gardmore Estate, was taken to the hospital but later died.
-
-🟩
-
-A schoolgirl who was injured in the school has been killed after a serious injuries have been taken into the hospital.
-
-The victim is a 11 year old student who was studying in the 6th year student, a resident of Maskeliya Gardmore Estate.
-
-The deceased school student will face the accident when he arrived at the toilet around 1.30 pm today (04).
-
-The student was imprisoned to the toilet wall by rolling a concrete bay in the school premises.
-
-Later, the student and neighbors were also admitted to the Maskeliya Regional Hospital by the Supervisor's Ambassador.
-
-It has been revealed that a concrete tea estate had been taken to a development purpose.
-
-◼️
-
-[Data](articles/df1d005f.json)
-
-[Extended Data](ext_articles/df1d005f.ext.json)
-
----
-
-### Court orders CID to investigate credibility of Maithripala’s statement
-
-*2024-04-04 18:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-orders-CID-to-investigate-credibility-of-Maithripalas-statement/108-280194) · `en`
-
-Colombo, April 04 (Daily Mirror) -  The Maligakanda Magistrate's Court today ordered the CID to investigate into the credibility of former President Maithripala Sirisena's controversial revelation regarding the Easter Sunday attacks.
-
-Magistrate Lochani Abeywickrema ordered the CID that the progress of the investigation regarding this revelation be submitted to court on May 10.
-
-On April 03, former President Sirisena, through his lawyer informed Maligakanda Magistrate's Court that he will not provide a confidential statement before the Magistrate in connection with his controversial revelation regarding the Easter Sunday attacks.
-
-Court had earlier directed the former President to appear before court on April 4 following a request made by the Criminal Investigations Department (CID).
-
-...
-
-[Data](articles/f9aa5a79.json)
-
-[Extended Data](ext_articles/f9aa5a79.ext.json)
-
----
-
-### Motion
-
-*2024-04-04 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180455) · `ta`
-
-The UN Human Rights Council will discuss a proposal to ban genocide in Gaza tomorrow. Pakistan, representing the Islamic Cooperation Organization, has submitted the proposal. For it to pass, 24 out of 47 council members must support it, but it can still pass with fewer votes if some countries abstain.
-
-🟩
-
-UN Prayer. The Human Rights Council will be considered tomorrow (06).
-
-The proposal has been demanded that Israel be a ban on genocide in Gaza.
-
-The Pakistani proposal has presented the proposal on behalf of the 57 -member Islamic Cooperation Organization.
-
-The UN. 47 countries are part of the Human Rights Council. Accordingly, the proposal is needed to be supported by 24 countries.
-
-However, if any countries do not participate in the vote, resolutions can be passed with a limited number of votes.
-
-◼️
-
-[Data](articles/6aabf2d5.json)
-
-[Extended Data](ext_articles/6aabf2d5.ext.json)
-
----
-
-### Kalmunai North Divisional SecretariatEastern University students participate in the 11th day of the Justice Struggle
-
-*2024-04-04 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180456) · `ta`
-
-Eastern University students and public protest against Kalmunai South Divisional Secretariat's injustice at the Kalmunai North Divisional Secretariat. They demand the cancellation of illegal decisions and the independence of the North Divisional Secretariat.
-
-🟩
-
-The powers of the Kalmunai North Divisional Secretariat continue on Thursday (04) for the 11th day of the People's Justice Struggle in protest of the injustice of the Kalmunai South Divisional Secretariat.
-
-In support of this, the students of the Eastern University, along with the public from the Nalpitimunai Ambalathadi Pillaiyar Temple, reached the site of the protest in front of the Kalmunai North Divisional Secretariat.
-
-During this time, the Cabinet decision is fully implemented, the cancellation of all the illegal decisions taken as the Sub -Office of Kalmunai, the land financial powers, and the independence of the Kalmunai North Divisional Secretariat.
-
-It is noteworthy that the protest was attended by public, Eastern University students and politicians.
-
-◼️
-
-[Data](articles/d394877a.json)
-
-[Extended Data](ext_articles/d394877a.ext.json)
 
 ---

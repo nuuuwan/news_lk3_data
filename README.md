@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 17:03:20**
+As of **2024-04-05 17:18:06**
 
 ## Newspaper Stats
 
-*Scraped **17,356** Articles*
+*Scraped **17,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,71 +16,205 @@ dailyftlk | 944
 islandlk | 950
 economynextcom | 962
 adalk | 1,464
-tamilmirrorlk | 2,047
-adaderanalk | 2,085
-virakesarilk | 2,531
+tamilmirrorlk | 2,048
+adaderanalk | 2,086
+virakesarilk | 2,533
 dailymirrorlk | 2,659
-adaderanasinhalalk | 2,808
+adaderanasinhalalk | 2,810
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,351 (100.0%) of 17,356 articles have been extended.
+17,356 (100.0%) of 17,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### யாழில் வன்முறை கும்பலுக்கு உதவிய குற்றச்சாட்டு - பொலிஸ் உத்தியோகஸ்தர் மீது விசாரணை
+### வாட்டு கட்டிலில் தாய்: சிறுமி துஷ்பிரயோகம்
+
+*2024-04-05 17:04:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாட்டு-கட்டிலில்-தாய்-சிறுமி-துஷ்பிரயோகம்/175-335645) · `ta`
+
+வைத்தியசாலையில் வாட்டு ஒன்றில் தங்கியிருந்து சிகிச்சை பெற்று வந்த 10 வயதான சிறுமியை கடுமையாக பாலியல் வன்புணர்வுக்கு உட்படுத்திய சம்பவம் காலி, கராப்பிட்டிய வைத்தியசாலையில் இடம்பெற்றுள்ளது.
+
+வன்புணர்வுக்கு உட்படுத்திய சந்தேகநபர், வௌ்ளிக்கிழமை (05) கைது செய்யப்பட்டுள்ளார் என காலி பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட நபர், பாலியல் வன்புணர்வுக்கு உள்ளாக்கப்பட்ட சிறுமி தங்கியிருந்த கட்டிலுக்கு அண்மையில், சிகிச்சைப்பெற்று வந்த மற்றுமொரு சிறுமியின் தந்தை என்பதும் விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+
+வன்புணர்வு உட்படுத்தப்பட்ட சிறுமியின் தாய், நித்திரையில் இருந்துள்ளார் இந்த சந்தர்ப்பத்திலேயே சிறுமியை வன்புணர்ந்துள்ளார். சம்பவம் தொடர்பில் சிறுமி, தன்னுடைய தாயின் கவனத்துக்கு கொண்டுவந்துள்ளார். அதன்பின்னர் வைத்தியசாலையின் அதிகாரிகளால் வைத்தியசாலை பொலிஸாரின் கவனத்துக்கு கொண்டுச் சென்றுள்ளனர்.
+
+அதன்பின்னர் காலி பொலிஸார், சந்தேகநபரை கைது செய்துள்ளனர். 39 வயதான சந்தேகநபரை நீதிமன்றத்தில் ஆஜர்படுத்துவதற்கான நடவடிக்கை எடுத்துள்ளதாக காலி பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/fd802609.json)
+
+---
+
+### கிளிநொச்சி -பொன்னாவெளி பகுதிக்குச் சென்ற அமைச்சர் டக்ளஸ் மக்களின் எதிர்ப்பால் திரும்பினார்
+
+*2024-04-05 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180538) · `ta`
+
+கிளிநொச்சி பொன்னாவெளி சீமெந்து தொழிற்சாலையை திறக்க சென்ற அமைச்சர் டக்ளஸ் மக்களின் எதிர்ப்பால் திரும்பினார். குறித்த சம்பவம் இன்று வெள்ளிக்கிழமை (05) பகல் இடம்பெற்றுள்ளது.
+
+பொன்னாவெளி சீமெந்து தொழிற்சாலையை திறக்க சென்ற அமைச்சர் டக்ளஸ் தேவானந்தாவிற்கு மக்கள் எதிர்ப்பு வெளியிட்டு வருகின்றனர்.
+
+கிளிநொச்சி - பூநகரி பிரதேச செயலாளர் பிரிவிற்குட்பட்ட பொன்னாவெளி பகுதியில் சீமெந்து தொழிற்சாலைக்கான சுன்னக்கற்களை பெற்றுக்கொள்வதற்கு மக்கள் தொடர்ச்சியாக எதிர்ப்பு வெளியிட்டு வருகின்றனர்.
+
+இந்நிலையில், இன்றைய தினம் அமைச்சர் குறித்த தொழிற்சாலையை ஆரம்பித்து வைக்க நடவடிக்கை எடுக்கப்பட்ட நிலையில் மக்கள் எதிர்ப்பை வெளியிட்டுள்ளனர்.
+
+இதன்போது அமைதியின்மை ஏற்பட்டுள்ளது. அமைச்சர் டக்ளஸ் தேவானந்தாவிற்கும், போராட்டக்காரருக்கும் இடையில் வாய்த்தர்க்கம் ஏற்பட்ட நிலையில் பொலிசார் கட்டுப்படுத்தியிருந்தனர்.
+
+ஆயினும், மக்களின் தொடர் எதிர்ப்பினால் குறித்த நிகழ்வு இரத்து செய்யப்பட்டு அமைச்சர் திரும்பியுள்ளார்.
+
+◼️
+
+[Data](articles/68988e68.json)
+
+---
+
+### ஜப்பானிய தூதுவரின் மனைவி தங்கியிருந்த ஹோட்டல் மீது கற்களை வீசிய முன்னாள் பொலிஸ் அதிகாரி கைது
+
+*2024-04-05 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180529) · `ta`
+
+புத்தல பகுதியில் ஜப்பான் தூதுவரின் மனைவி தங்கியிருந்த ஹோட்டல் ஒன்றின் மீது கற்களை வீசி தாக்குதலை மேற்கொண்ட முன்னாள் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் கைது செய்யப்பட்டுள்ளார்.
+
+ஜப்பான் தூதுவரின் மனைவி மரிகோ மிசுகோஷி புத்தல பகுதியிலுள்ள “லிட்டில் ட்ரீ” என்ற  விசேட தேவையுடைய  குழந்தைகள் மையத்தில் நடைபெறும்  வைபவமொன்றில் கலந்துகொள்வதற்காக கொழும்பிலிருந்து சென்று வியாழக்கிழமை (04) இரவு ஹோட்டல் ஒன்றில் தங்கியிருந்தார்.
+
+இந்நிலையில், ஹோட்டலின் அருகில்  வசித்து வந்த முன்னாள் சிரேஷ்ட பொலிஸ் அத்தியட்சகர்  ஹோட்டல் மீது கற்களை வீசி தாக்குதல் நடத்தியுள்ளார்.
+
+இந்நிலையில், சம்பவம் குறித்து ஜப்பான் தூதுவரின் மனைவி  ஹோட்டல் உரிமையாளருக்கு எழுத்துப்பூர்வமாகத் தெரிவித்ததையடுத்து, ஹோட்டல் நிர்வாகம் புத்தல  பொலிஸில் முறைப்பாடு செய்தது.
+
+...
+
+[Data](articles/d531fbb0.json)
+
+---
+
+### ජංගම දුරකථන මිල අඩුවෙයි
+
+*2024-04-05 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195344) · `si`
+
+ඩොලරයේ අගය පහළ යෑම හේතුවෙන් මෙරට ජංගම දුරකථන මිල සියයට 18% - 20% අතර ප්‍රමාණයකින් පහළ බැස ඇති බව ශ්‍රී ලංකා ජංගම දුරකථන ආනයන හා විකුණුම්කරුවන්ගේ සංගමය පවසයි.
+
+එම සංගමයේ සභාපති, සමිත් සෙනරත් මහතා මාධ්‍ය හමුවකට ඒ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/2918bffa.json)
+
+---
+
+### වාහන 51ක් ගැන අධිකරණ නියෝගයක්
+
+*2024-04-05 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195343) · `si`
+
+නීතිවිරෝධී ලෙස ලියාපදිංචි කර තිබෙන වාහන 51ක් වෙනත් පාර්ශ්වයකට පැවරීම වළක්වාලමින් කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින් අද (05) මෝටර් රථ කොමසාරිස් ජනරාල්වරයා වෙත නියෝගයක් නිකුත් කළේය.
+
+අල්ලස් කොමිසම විසින් කළ ඉල්ලීමක් සලකා බැලූ කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් ප්‍රසන්න අල්විස් මහතා විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+
+2015 වසරේ සිට 2019 වසර දක්වා කාලසීමාව තුළ නීතිවිරෝධී ලෙස වාහන 51ක් ලියාපදිංචි කිරීමේ සිද්ධියක් සම්බන්ධයෙන් විමර්ශන සිදුකරන බව අල්ලස් කොමිසම පවසයි.
+
+අදාළ වාහන වෙනත් පාර්ශව වෙත පැවරීම වළක්වාලීමේ නියෝගයක් නිකුත් කරන ලෙස අල්ලස් කොමිසම විසින් කරනු ලැබූ ඉල්ලීමක් පිළිගත් අධිකරණය මෙම නියෝගය නිකුත් කළේය.
+
+◼️
+
+[Data](articles/d2711b0b.json)
+
+---
+
+### Investigating police officer in Jaffna
 
 *2024-04-05 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180536) · `ta`
 
-யாழ்ப்பாணத்தில் வன்முறை கும்பல் ஒன்றிற்கு ஆதரவாக செயற்பட்ட குற்றச்சாட்டில் பொலிஸ் உத்தியோகஸ்தருக்கு எதிராக பொலிஸ் உயர் அதிகாரிகளால் விசாரணைகள் முன்னெடுக்கப்பட்டுள்ளன.
+High-ranking police in Jaffna are investigating a violent gang that broke into four houses, leading to arrests and trials. A Tamil officer at the Kayts Police Station claims support. Photos of weapons, including swords, were found on some gang members. The police handed over four men to the forum after investigations.
 
-கடந்த சில தினங்களுக்கு முன்னர் ஊர்காவற்துறை பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் இரவு வேளை புகுந்த வன்முறை கும்பல் ஒன்று நான்கு வீடுகளை அடித்து உடைத்து சேதமாக்கி விட்டு தப்பி சென்று இருந்தது.
+🟩
 
-அந்நிலையில் மறுநாளும் குறித்த வன்முறை கும்பலை சேர்ந்தவர்கள் அப்பகுதியில் வன்முறை சம்பவங்களில் ஈடுபட முனைந்தவேளை ஊரவர்கள் அவர்களை மடக்கி பிடிக்க முற்பட்ட வேளை நால்வர் பிடிபட்டனர், ஏனையவர்கள் அங்கிருந்து தப்பி சென்று இருந்தனர்.
+Investigations are being carried out by high -ranking police officers on charges of supporting a violent gang in Jaffna.
 
-பிடிபட்டவர்களிடம் ஊரவர்கள் விசாரணைகளை முன்னெடுத்த வேளை, ஊர்காவற்துறை பொலிஸ் நிலையத்தில் கடமையாற்றும் தமிழ் பொலிஸ் உத்தியோகஸ்தர் ஒருவர் எமக்கு ஆதரவாக செயற்படுபவர் என கூறியுள்ளனர்.
+A few days ago, a violent gang that entered the Kayts police division had broken into four houses and fled.
 
-அதேவேளை பிடிபட்டவர்களின் கைபேசிகளை ஊரவர்கள் சோதனை செய்த போது, அவற்றில் வன்முறை கும்பலை சேர்ந்த சிலர் வாள்கள் உள்ளிட்ட ஆயுதங்களுடன் உள்ள புகைப்படங்கள் காணப்பட்டன.
+The next day, the violent mobs were trying to engage in violence in the area, while the four were caught when they tried to catch them, while others fled.
+
+While the residents are conducting investigations, a Tamil police officer who works at the Kayts Police Station has said that we are supporting us.
+
+At the same time, when the cabins were checked by the cabments, some of the violent gangs were found with photos with weapons, including swords.
+
+Following the handing over of the four men who had been caught by the Kayts police, the police arrested them and tried in the forum after investigations.
+
+At the same time, video recordings and weapons photos of the violent gangs have been brought to the notice of the magistrate through the lawyer.
 
 ...
 
 [Data](articles/6f0cf7c8.json)
 
+[Extended Data](ext_articles/6f0cf7c8.ext.json)
+
 ---
 
-### பெருந்தோட்டயாக்க நிர்வாக பிரிவுக்கு, தோட்டத்தில் கல்விகற்ற இளைஞர் யுவதிகள் உள்வாங்கபடுகின்றனர்  - பாரத் அருள்சாமி
+### Urgent meeting of SLFP politburo to be convened?
+
+*2024-04-05 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98452/urgent-meeting-of-slfp-politburo-to-be-convened) · `en`
+
+Senior Vice President of Sri Lanka Freedom Party (SLFP) Minister Nimal Siripala de Silva has requested the party’s Acting General Secretary to convene the SLFP’s politburo on April 08.
+
+At the said politburo meeting, the party’s future endeavours, against the backdrop of the enjoining order imposed on SLFP chairman and former President Maithripala Sirisena, are expected to be taken up for discussion.
+
+On Thursday (04), the Colombo District Court issued an enjoining order to be in effect until April 18, preventing Sirisena from functioning as the SLFP chairman, following a complaint filed by former President Chandrika Bandaranaike Kumaratunga.
+
+However, Sirisena has reacted, saying that he intends to present facts before the court regarding the matter.
+
+◼️
+
+[Data](articles/5f6c85a5.json)
+
+---
+
+### For the Plantation Administration Division, uneducated youth in the garden - Bharat Arulzamy
 
 *2024-04-05 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180535) · `ta`
 
-மக்கள் பெருந்தோட்டயாகத்தின் 48ஆம் ஆண்டு விழா கொழும்பில் அமைந்துள்ள தலைமை காரியாலத்தில் நடைபெற்றது. மக்கள் பெருந்தோட்டயாகத்தின் தலைவர் விங் கமாண்டர் புவனக அபேயசூரிய தலைமையில் நடைபெற்ற நிகழ்வில் சிறப்பு அதிதியாக பெருந்தோட்ட மனிதவள அபிவிருத்தி நிதியத்தின் தலைவர் பாரத் அருள்சாமி கலந்து கொண்டார்.
+Bharat Arulzamy, Chairman of the Plantation Human Resources Development Fund, addressed the 48th anniversary of the People's Plantation in Colombo, highlighting the integration of youth and women into the administrative division of gardens like Handana, Mountjin, Lulkandura, and Rahatungoda. He praised the plantation sector's contribution to Sri Lanka's economy and its workers, acknowledging their sacrifices and the challenges they face, including unresolved rights and facilities. Arulzamy emphasized the need for the human resources sector to improve its capital to support industry development and the importance of youth and women in the plantation industry's growth.
 
-இந்நிகழ்வை சிறப்புபடுத்தும் முகமாக நிர்வாகப் பிரிவிற்கு தோட்டப்புறங்களில் கல்வி பயின்று புலமை பெற்ற இளைஞர் யுவதிகளுக்கு வேலை வாய்ப்பினை வழங்க கௌரவ அமைச்சர் ஜீவன் தொண்டமான் அவர்கள் பணிப்புரை விடுத்திருந்தார். அதற்கமைய முதல் கட்டமாக ஹந்தான, மவுண்ட்ஜீன், லூல்கந்தூர, ரஹத்துங்கோட, போன்ற தோட்டங்களுக்கு நிர்வாக பிரிவிற்கு  இளைஞர், யுவதிகள் இணைத்துக் கொள்ளப்பட்டார்கள்.
+🟩
 
-இதன்போது கருத்து தெரிவித்த பாரத் அருள்சாமி '48 வது ஆண்டில் காலடி எடுத்து வைக்கும் மக்கள் பெருந்தோட்டயாகத்திற்கும், அதனை சிறப்புற நடாத்தி செல்லும் தலைவர் அபேயசூரிய மற்றும் பொது முகாமையாளர் பிரதீப், அனைத்து அதிகாரிகளுக்கும் எனது வாழ்த்துக்களை மற்றும் நன்றிகளை தெரிவித்து கொள்கின்றேன்.
+The 48th anniversary of the People's Plantation was held at the Chief Office in Colombo. Chairman of the Plantation Human Resources Development Fund, Bharat Arulzamy, was the special guest at the event chaired by Wing Commander Bhuvanaka Abeyasuriya.
+
+Minister of Hon.. Accordingly, the first phase of the youth and women was incorporated into the administrative division to the gardens such as Handana, Mountjin, Lulkandura, Rahatungoda.
+
+Speaking on the occasion, Bharat Arulzamy said, 'I would like to congratulate the people's plantation, the leader of the Plantation and the General Manager of the General Manager, Pradeep, and all the officials.
+
+I would like to thank the plantation workers and their families who were the backbone of the development of this 48 -year route.
 
 ...
 
 [Data](articles/ffa97f86.json)
 
+[Extended Data](ext_articles/ffa97f86.ext.json)
+
 ---
 
-### උණුසුම් කාලගුණය ගැන අවවාදාත්මක නිවේදනයක්
+### An announcement of warm weather
 
 *2024-04-05 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195342) · `si`
 
-උණුසුම් කාලගුණය ගැන අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+The Department of Meteorology has announced warm weather affecting Northern, North Central, Sabaragamuwa, North Western, and Southern Provinces, and Monaragala and Matale districts, potentially increasing body heat levels.
 
-ඒ අනුව උතුරු, උතුරුමැද, නැගෙනහිර, බස්නාහිර, සබරගමුව, වයඹ සහ දකුණු පළාත හා මොනරාගල සහ මාතලේ දිස්ත්‍රික්ක සඳහා අදාළ නිවේදනය බලපැවැත්වේ.
+🟩
 
-ඒ අනුව එම ප්‍රදේශවල ජීවන වන ජනතාවට මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමු කළ යුතු මට්ටමට පැවතිය හැකි යැයි අපේක්ෂා කෙරේ.
+The Department of Meteorology has announced announcement on warm weather.
+
+Accordingly, the statement of the Northern, North Central, Sabaragamuwa, North Western and Southern Province and Monaragala and Matale districts.
+
+Accordingly, the people living in those areas are expected to be the level of heating of the human body.
 
 ◼️
 
 [Data](articles/54cfc4d6.json)
+
+[Extended Data](ext_articles/54cfc4d6.ext.json)
 
 ---
 
@@ -99,6 +233,8 @@ The overnight attack targeted a military airfield near Morozovsk in Russia and w
 ...
 
 [Data](articles/81e10f89.json)
+
+[Extended Data](ext_articles/81e10f89.ext.json)
 
 ---
 
@@ -2153,127 +2289,5 @@ Ingress by MendisOne, had their soft launch on Friday, 22 March, at MendisOne he
 [Data](articles/01a9713b.json)
 
 [Extended Data](ext_articles/01a9713b.ext.json)
-
----
-
-### Politics behind economic recovery
-
-*2024-04-05 05:18:31* · [`dailyftlk`](https://www.ft.lk/columns/Politics-behind-economic-recovery/4-760329) · `en`
-
-“Macroeconomic policy can never be devoid of politics; it involves fundamental trade-offs and affects different groups differently” (Joseph Stiglitz).
-
-...
-
-[Data](articles/3d2a2985.json)
-
-[Extended Data](ext_articles/3d2a2985.ext.json)
-
----
-
-### Political coalitions purely in pursuit of power will aggravate political immorality and unethical behavior
-
-*2024-04-05 05:13:46* · [`dailyftlk`](https://www.ft.lk/columns/Political-coalitions-purely-in-pursuit-of-power-will-aggravate-political-immorality-and-unethical-behavior/4-760328) · `en`
-
-It appears that there is unanimity in the public perception of an overwhelming number of Sri Lankans that Sri Lanka has gone beyond the point of resurrection when it comes to immorality, unethical behaviour, corruption, lack of law and order and poor governance
-
-“Political ethics requires leaders to meet higher standards than would be necessary for private life. They may have less of a right to privacy than ordinary citizens do, or no right to use their office for personal profit. Personal or private morality and political morality are often viewed as a conflict of interest” – Andrew Stark, Conflict of Interest in American Public Life. (Harvard University Press, 2003)
-
-...
-
-[Data](articles/c237595b.json)
-
-[Extended Data](ext_articles/c237595b.ext.json)
-
----
-
-### Can the IMF program be renegotiated by a future government?
-
-*2024-04-05 05:09:02* · [`dailyftlk`](https://www.ft.lk/columns/Can-the-IMF-program-be-renegotiated-by-a-future-government/4-760327) · `en`
-
-President Ranil Wickremesinghe chairs a meeting with the IMF in Colombo – File photo
-
-In my opinion, the IMF program Sri Lanka has got now is lenient when you compare it with many other countries. The 17th IMF program may not be enough even if implemented fully. Therefore, there is very little space to make changes in the broader program targets.
-
-1.Achieve a primary budget surplus of 2.3% by 2025 and beyond
-
-2.Bring annual foreign currency debt service from 9.4% of GDP in 2022 to 4.5% of GDP during 2027-2032. Reduce the government’s gross financial needs which was at 35% of GDP in 2022 down to below 13% from 2027-2032.
-
-3.Public debt, which was 128% to GDP, should be reduced to 95% by 2032.
-
-If there were to be any renegotiations of the IMF deal by a future government, it will have to change one or all of the above. Let me go through them one by one.
-
-Target 1 - Primary budget surplus of 2.3% by 2025 and beyond
-
-...
-
-[Data](articles/6e18c087.json)
-
-[Extended Data](ext_articles/6e18c087.ext.json)
-
----
-
-### Open letter to President on rapid transformation of SL
-
-*2024-04-05 05:04:02* · [`dailyftlk`](https://www.ft.lk/opinion/Open-letter-to-President-on-rapid-transformation-of-SL/14-760326) · `en`
-
-The Presidential Media Division and the Daily News released press releases and media news items titled “Country set for rapid transformation into an export economy” quoting remarks made by you at the inauguration ceremony of a historic temple in Kegalle.
-
-As a caring citizen I said, “three cheers”, happily thinking that at last, the country was on the correct governance path focusing on the creation of new strategic leadership options and policy changes to encourage present and new investors to produce tradable goods and engage in external services. I was delighted that the statement began with a reference that Sri Lanka can no longer continue to rely on borrowings (presumably external?) to address the imbalance between imports and exports, which if pursued will inevitably lead to another economic crisis within a decade.
-
-...
-
-[Data](articles/1e95c7f7.json)
-
-[Extended Data](ext_articles/1e95c7f7.ext.json)
-
----
-
-### Janaka Ratnayake receives the first base command under the Online Act of Gayathri Bowage
-
-*2024-04-05 05:02:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjkd4pp43zro) · `si`
-
-Janaka Ratnayake, former Public Utilities Commission Chairman, filed a complaint against Gayathri Bowage, leading to a prohibition issued by the Colombo Magistrate's Court. The case involves allegations of personal and official misconduct, including sexual relationships and the sharing of private content. The court ordered educational measures for Google and WhatsApp regarding online prohibitions.
-
-🟩
-
-Janaka Ratnayake receives the first base command under the Online Act of Gayathri Bowage
-
-The first prohibition is recently issued by the Colombo Magistrate's Court (April 4).
-
-The suspects were issued by the Chief Magistrate Prasanna Alwis after considering a complaint by the former Chairman of the Public Utilities Commission Janaka Ratnayake.
-
-The prohibition was issued in a personal partner of the plaintiff base, Janaka Rajapakse, Janaka Rajapaksa and Majaka Rajapakshe, and eight parties in Taiwan.
-
-The magistrate also ordered to educate Google and Whatsapp companies about the prohibition.
-
-Online methods' Act is in force;What happened to date? Online Methods Bill: What's wrong with work?
-
-The complainant said that the Leader of the Supreme Court has acted as his personal assistant since 1999 and has been close friends with her.
-
-Therefore, the complaint was aware that the peer pressure was found in the case of the complainant's personal and personal and official life.
-
-...
-
-[Data](articles/aa2895c9.json)
-
-[Extended Data](ext_articles/aa2895c9.ext.json)
-
----
-
-### Kachchativu: Enigma of a barren island
-
-*2024-04-05 05:01:56* · [`dailyftlk`](https://www.ft.lk/opinion/Kachchativu-Enigma-of-a-barren-island/14-760324) · `en`
-
-Sri Lanka’s sovereignty over the island was based on specific historical documentation, the consistent exercise of
-
-Pathfinder Foundation renews call for establishing a marine research station
-
-Now and then, Kachchativu island, lying halfway between the islands of Rameswaram (India) and Delft (Neduntheevu – Sri Lanka), has been hitting the news headlines. Mainly, such interests are evinced when several of the hundreds of Indian trawlers that cross the International Boundary Line (IMBL) three times a week and engage in bottom trawling in Sri Lankan waters get arrested for a variety of offences, including illegal entry into Sri Lankan waters, engaging in fishing without licenses and practising bottom trawling, which is an offence in Sri Lanka.
-
-...
-
-[Data](articles/9d91e9b0.json)
-
-[Extended Data](ext_articles/9d91e9b0.ext.json)
 
 ---

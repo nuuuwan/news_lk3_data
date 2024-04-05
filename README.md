@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 09:18:20**
+As of **2024-04-05 09:33:48**
 
 ## Newspaper Stats
 
-*Scraped **17,268** Articles*
+*Scraped **17,270** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,40 +17,88 @@ islandlk | 950
 economynextcom | 957
 adalk | 1,458
 tamilmirrorlk | 2,042
-adaderanalk | 2,067
+adaderanalk | 2,068
 virakesarilk | 2,511
 dailymirrorlk | 2,648
-adaderanasinhalalk | 2,788
+adaderanasinhalalk | 2,789
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,267 (100.0%) of 17,268 articles have been extended.
+17,268 (100.0%) of 17,270 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### සජබ සන්ධානයේ පළමු අදියර අද
+### There is “strong expectation” of Sri Lanka commercial creditor deal: IMF
+
+*2024-04-05 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98438/there-is-strong-expectation-of-sri-lanka-commercial-creditor-deal-imf) · `en`
+
+The International Monetary Fund said on Thursday that there is “strong expectation” that Sri Lanka will reach a deal with its commercial creditors by the completion of the IMF’s second review.
+
+Sri Lanka is in talks with bondholders to restructure about USD 12 billion in debt, a key step in its bid to emerge from a punishing financial crisis.
+
+“There is a strong expectation that agreements with commercial creditors consistent with program parameters will be reached by completion of the second review,” IMF spokesperson Julie Kozack told a press briefing.
+
+The IMF reached a staff-level agreement with Sri Lanka on its second review of a four-year bailout programme late last month, but it still needs approval from the IMF’s board.
+
+Kozack also said the macroeconomic policy reforms in Sri Lanka are starting to bear fruit, adding that commendable outcomes include rapid disinflation, robust reserve accumulation, and initial signs of economic growth, while preserving stability of the financial system.
+
+...
+
+[Data](articles/256f3190.json)
+
+---
+
+### විශේෂ බස් ධාවනය අද සිට
+
+*2024-04-05 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195322) · `si`
+
+සිංහල දෙමළ අලුත් අවුරුදු සමය වෙනුවෙන් වූ විශේෂ බස් රථ සේවාව අද (05) සිට ක්‍රියාත්මක කරන බව ලංකා ගමනාගමන මණ්ඩලය පවසයි.
+
+උත්සව සමයේ කොළඹ සහ අවට ප්‍රදේශවල සිටින ජනතාවට ගම්බිම් බලායෑම සඳහා මෙම බස් රථ සේවාව ක්‍රියාත්මක වන අතර ඒ සඳහා  අමතර බස් රථ 200ක් පමණ ධාවනයට යොදවන බව එම මණ්ඩලය පැවසීය.
+
+ඒ අනුව කොළඹ සිට දිවයිනේ සෑම ප්‍රදේශයකටම මෙම බස් රථ සේවාව ක්‍රියාත්මක වීමට නියමිතය.
+
+මේ අතර උත්සව සමය වෙනුවෙන් ක්‍රියාත්මක විශේෂ දුම්රිය සේවාව ද ලබන 10 වනදා සිට ක්‍රියාත්මක බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+එම සේවාව යටතේ දෛනිකව විශේෂ දුම්රිය ගමන්වාර 12ක් පමණ යෙදවීමට තීරණය කර ඇති බව එම දෙපාර්තමේන්තුව පැවසීය.
+
+ඒ අනුව ලබන 15 වනදා දක්වා මෙම විශේෂ දුම්රිය සේවාව ක්‍රියාත්මක වීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/426df9fa.json)
+
+---
+
+### Sabbi UPFA's first stage today
 
 *2024-04-05 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195321) · `si`
 
-සමගි ජන සන්ධානය පිහිටුවීමට අදාළ පළමු අදියර අද (05) ක්‍රියාත්මක වෙයි.
+UPFA's first stage today involves an agreement between MPs and Independence, focusing on elections and policy. Key figures include Prof. GL Perera, Dilan Perera, and others. Dullas Alahapperuma was not informed.
 
-ඒ අනුව සමගි ජන බලවේගය සහ නිදහස ජනතා සභාවේ කණ්ඩායමක් අතර අවබෝධතා ගිවිසුමකට එළඹෙන බව පාර්ලිමේන්තු මන්ත්‍රී එස්. එම් මරික්කාර් මහතා පැවසීය.
+🟩
 
-මාස කිහිපයක පැවැති සාකච්ඡා මත එළඹෙන මැතිවරණය සහ ප්‍රතිපත්තිමය කරුණු මූලික කරගනිමින් එම එකඟතාවට එළඹීමට නියමිතය.
+The first phase of the establishment of the UPFA is implemented today (05).
 
-ඒ අනුව මහාචාර්ය ජී.එල් පිරිස්, ඩිලාන් පෙරේරා, ආචාර්ය නාලක ගොඩහේවා, කේ.පී කුමාරසිරි, වෛද්‍ය උපුල් ගලප්පත්ති සහ වසන්ත යාපා බණ්ඩාර යන මන්ත්‍රීවරුන් සමගි ජන සන්ධානයට එක්වීමට නියමිතය.
+MPs S. S. S. S. Sternal A Memorandum of Understanding Agreement between a group of people in the People's Council and Independence. Mary Marikkar said.
 
-කෙසේවුවද ඩලස් අලහප්පෙරුම මන්ත්‍රීවරයා ප්‍රකාශ කළේ නව සන්ධානය පිළිබඳ තමන් වෙත කිසිදු දැනුවත් කිරීමක් සිදුකර නොමැති බවය.
+The agreement will be taken on the basis of the coming elections and policy matters on the discussion of several months.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් ඉවත් වූ පිරිසක් නිදහස ජනතා සභාව නමින් පාර්ලිමේන්තුවේ ස්වාධීනව කටයුතු කිරීමට මීට පෙර තීරණය කර තිබුණි.
+Accordingly, Prof. GL Perera, Dilan Perera, Dr. Nalaka Godahewa, KP Kumarasiri, Dr. Upul Galappaththi and Wasantha Yapa Bandara.
+
+However, MP Dullas Alahapperuma said he had not informed him about the new alliance.
+
+A group of people who left the Sri Lanka Civil Front had previously decided to act in the name of the Jewelery as the People's Council.
 
 ◼️
 
 [Data](articles/9d6a11ca.json)
+
+[Extended Data](ext_articles/9d6a11ca.ext.json)
 
 ---
 
@@ -2219,53 +2267,5 @@ Situ Bandaranaike went to court today and had taken an interim order from the me
 [Data](articles/d85a1316.json)
 
 [Extended Data](ext_articles/d85a1316.ext.json)
-
----
-
-### 24 Indian fishermen releasedPrison
-
-*2024-04-04 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180446) · `ta`
-
-24 Indian fishermen released from prison; 18-month sentence postponed for 5 years. One boat sentenced to 6 months.
-
-🟩
-
-Of the 25 fishermen arrested by the Sri Lankan navy in the Jaffna -Neduntivu Sea on the 21st of December, 24 fishermen have been released on the condition of the 18 -month prison postponed for 5 years.
-
-The verdict was presented in the Jaffna -Kayts Court in the presence of Magistrate J. Gajanidipalan on Thursday (04).
-
-One of the 3 boats seized by the Navy has been sentenced to 6 months in prison.
-
-A boat -related case has been postponed in June on the 12th. The two boats were nationalized as a boat owner was in the boat and the son of the owner of the other boat was in the boat.
-
-◼️
-
-[Data](articles/64bad68f.json)
-
-[Extended Data](ext_articles/64bad68f.ext.json)
-
----
-
-### New program to solve environmental problems
-
-*2024-04-04 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195301) · `si`
-
-The Central Environmental Authority (CEA) and Sri Lanka Police launch a new program to address environmental issues, aiming to encourage public action. The initiative focuses on key areas including waste management, illegal excavations, and wetland protection.
-
-🟩
-
-The Central Environmental Authority (CEA) has taken steps to implement a new program in conjunction with the Sri Lanka Police to solve environmental problems.
-
-This is expected to motivate the public to resolve environmental problems expeditiously.
-
-At the time, the Central Environmental Authority (SLAA) has focused on the main points to be implemented in conjunction with the Sri Lanka Institute of Sri Lanka.
-
-Accordingly, the basic phase of the primary phase, the bake of the bake, vehicles bake, polythene raids, cables and wetland, and the activities of illegal excavations and layoffs.To focus on.
-
-◼️
-
-[Data](articles/fd384a2e.json)
-
-[Extended Data](ext_articles/fd384a2e.ext.json)
 
 ---

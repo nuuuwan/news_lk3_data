@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 22:51:42**
+As of **2024-04-05 23:03:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,396 (100.0%) of 17,397 articles have been extended.
+17,397 (100.0%) of 17,397 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Dissanayake appealed to Tamil politicians in the North saying that if they were 
 ...
 
 [Data](articles/32a07b1d.json)
+
+[Extended Data](ext_articles/32a07b1d.ext.json)
 
 ---
 

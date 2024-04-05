@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 16:03:46**
+As of **2024-04-05 16:18:13**
 
 ## Newspaper Stats
 
-*Scraped **17,341** Articles*
+*Scraped **17,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ tamilmirrorlk | 2,047
 adaderanalk | 2,083
 virakesarilk | 2,526
 dailymirrorlk | 2,658
-adaderanasinhalalk | 2,804
+adaderanasinhalalk | 2,806
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,339 (100.0%) of 17,341 articles have been extended.
+17,341 (100.0%) of 17,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### පාස්කු ප්‍රහාරය ගැන සභාව කල්තැබීමේ විවාදයක්
+
+*2024-04-05 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195340) · `si`
+
+පාස්කු ප්‍රහාරය සම්බන්ධයෙන් සභාව කල්තැබීමේ විවාදයක් අප්‍රේල් 24, 25 හා 26 යන තෙදින පුරා පැවැත්වීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වී තිබේ.
+
+◼️
+
+[Data](articles/8c79c905.json)
+
+---
+
+### ලෝකෙටම හිසරදයක් වූ චීන - අමෙරිකා වෙළෙඳ යුද්ධය
+
+*2024-04-05 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195339) · `si`
+
+ලොව අංක එකේ ආර්ථිකය සහ අංක දෙකේ ආර්ථිකය වන අමෙරිකාව සහ චීනය අතර වෙළෙඳපොළ තරගයක් පැවතියද එය ඔවුන් අතර නිරන්තරව පැවැත්වෙන සංවාදය සඳහා බාධාවක් වී නොමැත.
+
+දෙරට අතර වෙළෙඳාම සහ ආයෝජන සම්බන්ධයෙන් පැන නැගී ඇති ගැටලු පිළිබඳ චීන සහ අමෙරිකානු වාණිජ දෙපාර්තමේන්තු නිලධාරීන් අතර හමුවක් වොෂින්ටනයේදී ඊයේ (05) පැවැත්වුණි.
+
+අමෙරිකානු ආර්ථිකය මෙහෙයවීමේ ජ්‍යේෂ්ඨතම නිලධාරිනිය වන භාණ්ඩාගාර ලේකම් ජැනට් යෙලන් චීනයට පැමිණියේ ඊට සමගාමීව බව වාර්තා වෙයි.
+
+සිය සිව්දින සංචාරයේදී අමෙරිකානු භාණ්ඩගාර ලේකම්වරිය විශේෂ ක්ෂේත්‍රයන් කිහිපයක් පිළිබඳව අවධානය යොමු කිරීමට නියමිතය.
+
+ඒ චීන විද්‍යුත් වාහන සහ සූර්ය පැනල ඇතුළු නිෂ්පාදන අවශ්‍යතා අභිබවා ගෝලීය වෙළෙඳපොළට නිකුත් කිරීම පිළිබඳව ය.
+
+රජයේ දිරිගැන්වීම සහනාධාර ලබන චීන සමාගම් සිය නිෂ්පාදන අඩුමිලට වෙළෙඳපොළට නිකුත් කිරීම අමෙරිකාව ඇතුළු අනෙකුත් රටවලට ඍජුවම බලපාන බවට ඇය මෙහිදී කරුණු ඉදිරිපත් කර තිබුණාය.
+
+අමෙරිකානු භාණ්ඩාගාර ලේකම්වරිය සිය චීන සංචාරය ආරම්භ කළේ ගුවැන්ඩොන් ප්‍රාන්තයෙනි.
+
+...
+
+[Data](articles/18a728c3.json)
+
+---
 
 ### EC names SLPP’s Weerasena Gamage to fill vacant MP seat
 
@@ -47,6 +83,8 @@ Following MP Nandasena’s demise, the Acting Secretary General of Parliament in
 ◼️
 
 [Data](articles/013ce9a4.json)
+
+[Extended Data](ext_articles/013ce9a4.ext.json)
 
 ---
 
@@ -114,15 +152,21 @@ Meanwhile, police arrested six suspects who were aid for criminal gangs yesterda
 
 ---
 
-### யானை - மனித முரண்பாடும் அதிகரிக்கும் உயிரிழப்புக்களும் !
+### Elephant - Human contradiction and increase deaths!
 
 *2024-04-05 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180525) · `ta`
 
-யானை - மனித முரண்பாடுகளை தடுப்பது தொடர்பில் ஆட்சிக்கு வரும் அரசாங்கங்கள் பேச்சளவிலேயே செயற்படுகின்றன. முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷ இதற்காக ஒரு குழுவை அமைத்தார் அந்தக் குழுவில் 4 விஞ்ஞானிகளை உள்ளடக்கியிருந்தார். பின்னர் தற்போதைய ஜனாதிபதி மீண்டும் ஒரு குழுவொன்றை அமைத்துள்ளார். சரத்பொன்சேகா அமைச்சராக வந்தபோது, வெளியில் நடமாடும் யானைகளை காடுகளுக்குள் கொண்டு செல்வோமென்றார். வனவிலங்கு மற்றும் வன பாதுகாப்பு அமைச்சர்களாக வருவோர் மாறிமாறி ஒவ்வொரு திட்டங்களையும் தீர்மானங்களையும் செயற்படுத்தப்போவதாக பேச்சளவில் தெரிவிப்பார்கள் ஆனால் அவை எதுவும் நடைமுறைப்படுத்தப்பட்ட வாரலாறுகள் கிடையாது.
+Elephant conflict escalates, leading to increased deaths. Former President Gotabhaya Rajapakse and current president established committees to address elephant rights. Minister Sarath Fonseka's initiatives aimed to relocate elephants from forests. Wildlife Ministers and Wildlife projects aim to resolve conflicts but lack weekly updates.
+
+🟩
+
+Elephant -Elephant -Human Right. Former President Gotabhaya Rajapakse formed a committee for this group.. Then the current president has set up a group again. When Sarath Fonseka came as a minister, he would take the elephants outside the forest.. Those who come to the Ministers of Wildlife and Wildlife will be able to convert and implement each project and resolutions, but there are no weekly weekly.
 
 ◼️
 
 [Data](articles/fa484613.json)
+
+[Extended Data](ext_articles/fa484613.ext.json)
 
 ---
 
@@ -2205,45 +2249,5 @@ It is noteworthy that EP CBL 6679 has escaped from a car accident.
 [Data](articles/0add92ef.json)
 
 [Extended Data](ext_articles/0add92ef.ext.json)
-
----
-
-### Attack on Iran: Amid lies and deception, Gaza war may escalate into a regional conflict
-
-*2024-04-05 02:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Attack-on-Iran-Amid-lies-and-deception-Gaza-war-may-escalate-into-a-regional-conflict/172-280213) · `en`
-
-The April 1 attack by Israel on the Iranian consular office in the Syrian capital of Damascus, killing several people including a senior Revolutionary Guard general and diplomats, is a potential trigger for a regional war. Let the entire world suffer and let millions of people die in such a war, which will have a devastating effect on developing countries. Israel will not stop until it conquers the world.
-
-This is not a dark prophecy. Israel is well on the path to achieving its ambitions. With the West, the Arab world, and one-time Non-Aligned Movement stars paying obeisance to Israel, the Zionist state believes it is special and above the law. It believes international human rights laws, the Universal Declaration of Human Rights, and myriad United Nations mechanisms for a rules-based world order are only for nations other than Israel.
-
-...
-
-[Data](articles/85175b80.json)
-
-[Extended Data](ext_articles/85175b80.ext.json)
-
----
-
-### Young family killed
-
-*2024-04-05 02:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180471) · `ta`
-
-A 30-year-old family man, Savarimuthu John, was stabbed to death on his way home from a school sports event in Dharmapuram. The suspect has been arrested, and an autopsy is underway.
-
-🟩
-
-On Thursday (4), a murder was stabbed to death with a knife on the road when he returned to the Home Athletic Review Competition at a school under the Dharmapuram police division.
-
-The 30 -year -old Savarimuthu John, a family man, was aimed at a knife and died when she was taken to Darumapuram Hospital.
-
-The body of the deceased has been taken to Kilinochchi Hospital for autopsy.
-
-A suspect in connection with the incident has been arrested by the Dharmapura police and further investigations are being carried out by Dharmapuram police.
-
-◼️
-
-[Data](articles/661b4687.json)
-
-[Extended Data](ext_articles/661b4687.ext.json)
 
 ---

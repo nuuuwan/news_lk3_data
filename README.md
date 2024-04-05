@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 03:18:18**
+As of **2024-04-06 03:33:48**
 
 ## Newspaper Stats
 
-*Scraped **17,428** Articles*
+*Scraped **17,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 951
 dailyftlk | 958
 economynextcom | 972
 adalk | 1,466
-tamilmirrorlk | 2,051
+tamilmirrorlk | 2,052
 adaderanalk | 2,096
 virakesarilk | 2,539
 dailymirrorlk | 2,669
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,428 (100.0%) of 17,428 articles have been extended.
+17,428 (100.0%) of 17,429 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### முச்சக்கரவண்டி மீது மரம் விழுந்தது: சிறுவன் காயம்
+
+*2024-04-06 03:19:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கரவண்டி-மீது-மரம்-விழுந்தது-சிறுவன்-காயம்/175-335649) · `ta`
+
+நானுஓயா பொலிஸ் பிரிவுக்குட்பட்ட கிளாசோ தோட்டத்திற்கு செல்லும் வீதியில் நேற்று இரவு நானுஓயா பிரதான நகர் நோக்கி பயணித்துக் கொண்டிருந்த முச்சக்கரவண்டி ஒன்றின் மீது மரம் விழுந்ததில் சிறுவன் ஒருவர் காயமடைந்தான்.
+
+காயமுற்ற சிறுவன் நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் சிகிச்சை பெற்று வருகிறான் எனப் பொலிஸார் தெரிவித்தனர்.
+
+கிளாசோ பகுதியில் இருந்து நானுஓயா நோக்கி பயணித்து கொண்டிருந்த முச்சக்கரவண்டி ஒன்றின் மீதே மரம் முறிந்து விழுந்தது.
+
+வீதியோரத்தில் உள்ள காட்டுப்பகுதியில் மரம் ஒன்றைச் சட்ட விரோதமாக வெட்டிக் கொண்டிருந்த வேலையில் திடீரென மரம் வீதியில் சென்ற முச்சக்கரவண்டி மீது வீழ்ந்தமையால் இந்த விபத்துச் சம்பவம் நேர்ந்துள்ளது.
+
+இந்த விபத்தினால் அந்த வீதியூடான போக்குவரத்து சற்று நேரம் பாதிப்பு ஏற்பட்டது. முச்சக்கரவண்டி முழுமையாகச் சேதமடைந்துள்ளது. (a)
+
+◼️
+
+[Data](articles/6e0591c3.json)
+
+---
 
 ### Sri Lanka and Switzerland commit to expanding relations
 
@@ -2187,27 +2207,5 @@ The measurement was to be carried out with the aim of carrying out about 29 acre
 [Data](articles/79ebd254.json)
 
 [Extended Data](ext_articles/79ebd254.ext.json)
-
----
-
-### Sri Lanka minimum room rates slammed as cartelized scheme that is illegal in market economies
-
-*2024-04-05 13:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-minimum-room-rates-slammed-as-cartelized-scheme-that-is-illegal-in-market-economies-157684/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s controversial minimum room rates is a scheme cooked up by a cartel of five or six ‘run down hotels’ to boost their occupancy, which would be illegal in other markets, irate travel agents who are losing convention and exhibition customers to East Asia said.
-
-Among hotels that support the price floors, there was only one 5-star rated hotel, they claimed.
-
-“These rundown hotels are getting the mileage as the bigger hotels are not full,” Managing Director of CEC Events and Travels, Imran Hassan from the Sri Lanka Association of Professional Conferences, Exhibition and Event Organizers told reporters in Colombo.
-
-“There is only one five-star hotel who has made a statement, none of the other five-star hotels are there.”
-
-Vice President of Sri Lanka Association of Inbound Travel Agents, Nalin Jayasundara said the anti-competitive behavior would be illegal in the European Union or the United States.
-
-...
-
-[Data](articles/73618794.json)
-
-[Extended Data](ext_articles/73618794.ext.json)
 
 ---

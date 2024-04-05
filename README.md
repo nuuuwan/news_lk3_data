@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 01:51:26**
+As of **2024-04-06 02:03:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,426 (100.0%) of 17,428 articles have been extended.
+17,428 (100.0%) of 17,428 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -384,6 +384,8 @@ Fortunately for Sri Lanka, Sinhalese have woken up and openly dismiss racist pol
 
 [Data](articles/a09b5fc9.json)
 
+[Extended Data](ext_articles/a09b5fc9.ext.json)
+
 ---
 
 ### Mannar Wind Farm Project: Another folly like Sinharaja logging project on the horizon?
@@ -395,6 +397,8 @@ A wind farm consisting of 30 towers generating 100MW (Phase 1 – Thambapawani) 
 ...
 
 [Data](articles/12cae832.json)
+
+[Extended Data](ext_articles/12cae832.ext.json)
 
 ---
 

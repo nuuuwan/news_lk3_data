@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 19:18:10**
+As of **2024-04-05 19:33:58**
 
 ## Newspaper Stats
 
-*Scraped **17,376** Articles*
+*Scraped **17,378** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ islandlk | 950
 economynextcom | 962
 adalk | 1,465
 tamilmirrorlk | 2,048
-adaderanalk | 2,089
+adaderanalk | 2,090
 virakesarilk | 2,535
 dailymirrorlk | 2,663
-adaderanasinhalalk | 2,812
+adaderanasinhalalk | 2,813
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,375 (100.0%) of 17,376 articles have been extended.
+17,376 (100.0%) of 17,378 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### Mobile phone prices dropped significantly, dealers say
+
+*2024-04-05 19:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98457/mobile-phone-prices-dropped-significantly-dealers-say) · `en`
+
+The prices of mobile phones in Sri Lanka have dropped by 18% - 20%, says the Sri Lanka Mobile Phone Importers’ and Sellers’ Association.
+
+The president of the association Samith Senarath made these remarks while joining a press briefing this evening (05).
+
+This price drop comes as a result of the continuous appreciation of Sri Lankan Rupee against US Dollar, he explained.
+
+◼️
+
+[Data](articles/9f5a66ac.json)
+
+---
+
+### කොන්ක්‍රීට් සිලින්ඩරයක් ඇඟට පෙරළී දරුවෙකු මියයෑමේ සිද්ධියේ සැකකරුවන් රිමාන්ඩ්
+
+*2024-04-05 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195347) · `si`
+
+කොන්ක්‍රීට් සිලින්ඩරයක් ඇඟට පෙරළීමෙන් මස්කෙළියේ පාසැලක දරුවෙකු මියයෑමේ සිදුවීම සම්බන්ධයෙන් අත්අඩංගුවට ගත් පුද්ගලයින් පස්දෙනා මේ මස 10 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+හැටන් මහෙස්ත්‍රාත් එම්. ෆරුක්ඩින් මහතා විසින් අද (05) එම නියෝගය ලබාදී තිබිණි.
+
+අදාළ සිදුවීමෙන් මස්කෙළිය ගාඩ්මෝර් දමිළ විද්‍යාලයේ 6 වැනි ශ්‍රේණියේ ඉගෙනුම ලැබූ 11 හැවිරිදි එස්. අනිෂන් දරුවෙකු ජීවිතක්ෂයට පත්වුණි.
+
+මස්කෙලිය ගාඩ්මෝර් දමිළ විද්‍යාල භූමියේ මෙලෙස අනාරක්ෂිත අයුරින් ගොඩගසා ඇත්තේ, අසල වතුයායක සංවර්ධන කටයුත්තක් සඳහා ගෙන එන ලද කෝන්ක්‍රීට් සිලින්ඩර කිහිපයකි.
+
+ඊයේ පස්වරු 1.30ට පමණ එම විද්‍යාලයේ දරුවන් කිහිපදෙනකු පාසලේ වැසිකිළිය අසළ තිබූ මෙම කොන්ක්‍රීට් සිලින්ඩර අසලට පැමිණ තිබිණි.
+
+එම සිලින්ඩරය පෙරළීමත් සමග දරුවා විසිවී ගොස් ගැටී තිබුණේ අසල පිහිටි වැසිකිලි බිත්තියේය.
+
+සිලින්ඩරයට සහ වැසිකිළියේ බිත්තියකට මැදිව සිරව බරපතළ තුවාල ලැබූ දරුවා ඇතුළත් කරනු ලැබුවේ, මස්කෙළිය ප්‍රාදේශීය රෝහලටය.
+
+අප වාර්තාකරු පැවසුවේ, රෝහල් ගත කිරීමෙන් පසු දරුවා ජීවිතක්ෂයට පත්ව ඇති බවය.
+
+...
+
+[Data](articles/d3eca8d3.json)
+
+---
 
 ### Father-of-two sentenced to life in prison over drug possession
 
@@ -53,6 +95,8 @@ Accordingly, the judge ordered that the accused be sentenced to life imprisonmen
 ◼️
 
 [Data](articles/092cb1c2.json)
+
+[Extended Data](ext_articles/092cb1c2.ext.json)
 
 ---
 
@@ -2285,51 +2329,5 @@ The Dalai Lama was on Thursday presented with the relics preserved and protected
 [Data](articles/73ef8d77.json)
 
 [Extended Data](ext_articles/73ef8d77.ext.json)
-
----
-
-### Sri Lanka container volumes surge 30-pct in Feb amid Red Sea troubles
-
-*2024-04-05 08:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-container-volumes-surge-30-pct-in-feb-amid-red-sea-troubles-157620/) · `en`
-
-ECONOMYNEXT –  Sri Lanka’s container transshipment volumes rose 29.1 percent to 528,348 twenty foot equivalent unit (TEUs), in February 2024 as shipping lines use Colombo port to drop off and pick up cargo linked to by-passed Middle Eastern ports.
-
-Up to February 2024, transshipment volumes were up 27.2 percent.
-
-Meanwhile domestic container volumes were also picking up as the economy recovered from a currency crisis and tourism inflows boosted incomes of the people, driving more imports, despite foreign reserve collections.
-
-Domestic containers surged 39 percent to 92,097 in February 2024, from 66,236 in February 2022.
-
-Sri Lanka’s total container volumes in February were up 30.3 percent to 1,337,557 TEUS.
-
-In 2023 Colombo Port handled 6.951 million TEUs, up 1.17 percent from a year ago.
-
-Related Sri Lanka sails in to the breach as ships by-pass Middle East over Houthi attacks
-
-Container yards at Colombo terminals are full as the port copes with traffic disrupted by the Red Sea attacks.
-
-...
-
-[Data](articles/2f842dd5.json)
-
-[Extended Data](ext_articles/2f842dd5.ext.json)
-
----
-
-### At least 500 maids in Singapore duped in 2023 are from India, Sri Lanka
-
-*2024-04-05 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98437/at-least-500-maids-in-singapore-duped-in-2023-are-from-india-sri-lanka) · `en`
-
-The number of scams in Singapore hit a record high in 2023, Home Minister K. Shanmugam said, adding that the country saw a rise of 18 per cent in duping cases against migrants, many of whom are from India and Sri Lanka.
-
-A total of 46,563 cases of scams were reported in Singapore, with people losing SGD 651.8 million to scams in 2023, the police earlier told The Straits Times, saying this is the highest number of scam cases since they began tracking them in 2016.
-
-Falling prey to the scams are about 500 foreign maids from South Asian countries, mostly from India, Sri Lanka, and Myanmar, migrated to the country in search of better employment opportunities, higher wages and a stable political and economic environment.
-
-...
-
-[Data](articles/86a55248.json)
-
-[Extended Data](ext_articles/86a55248.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 19:03:10**
+As of **2024-04-05 19:18:10**
 
 ## Newspaper Stats
 
-*Scraped **17,375** Articles*
+*Scraped **17,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 950
 economynextcom | 962
 adalk | 1,465
 tamilmirrorlk | 2,048
-adaderanalk | 2,088
+adaderanalk | 2,089
 virakesarilk | 2,535
 dailymirrorlk | 2,663
 adaderanasinhalalk | 2,812
@@ -26,27 +26,57 @@ adaderanasinhalalk | 2,812
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,370 (100.0%) of 17,375 articles have been extended.
+17,375 (100.0%) of 17,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### ලොව ළාබාලතම බිලියනපතිනිය වූ 19 හැවිරිදි සිසුවිය
+### Father-of-two sentenced to life in prison over drug possession
+
+*2024-04-05 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98456/father-of-two-sentenced-to-life-in-prison-over-drug-possession) · `en`
+
+The Colombo High Court sentenced to life in prison a 42-year-old father-of-two who was found guilty of being in possession of 6.17 grams of heroin intended for distribution.
+
+This verdict was delivered by Colombo High Court judge Adithya Patabendige today (05).
+
+The accused had been arrested by police in Waththegedara area of Maharagama on 19 August 2019 along with 329 grams of heroin.
+
+However, the government analyst had reported that the net weight of heroin contained in the impounded quantity of drugs was 6.17 grams.
+
+Later, the Attorney General filed charges against the accused for possession and trafficking of heroin.
+
+The judge, who declared the verdict after a lengthy trial, stated that the charges leveled by the prosecution against the accused have been proved beyond reasonable doubt.
+
+Accordingly, the judge ordered that the accused be sentenced to life imprisonment.
+
+◼️
+
+[Data](articles/092cb1c2.json)
+
+---
+
+### 19 year old student in the world
 
 *2024-04-05 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195346) · `si`
 
-ලොව ළාබාලතම බිලියනපතිනිය ලෙස බ්‍රසීල ජාතික විශ්වවිද්‍යාල සිසුවියක්ව ෆෝබ්ස් සඟරාව විසින් නම් කර තිබේ.
+A 19-year-old Brazilian student, Livia, has been named by a Brazilian university as the world's best. She's featured in the Forbes 2024 list and is a billionaire in Latin America.
 
-19 හැවිරිදි ලිවියා වොයිග්ට් 2024ට අදාළව ෆෝබ්ස් සඟරාව නිකුත් කරන ලද බිලියනපතියන්ගේ ලැයිස්තුවට අනුව ඇතුළත්ව ඇති බව වාර්තා වේ.
+🟩
 
-ලිවියා වොයිග්ට් මෙලෙස බිලියනපති ලැයිස්තුවට ඇතුළත්ව ඇත්තේ, ලතින් අමෙරිකාවේ ප්‍රකට මෝටර් රථ නිෂ්පාදන සමාගමක තනි කොටස්හිමිකාරිය බවට ඇය පත්වීමත් සමගයි.
+The Brazilian student student named in the world has been named by the Brazilian university student as the world.
 
-ෆෝබ්ස් සඟරාව විසින් මේ වසරට අදාළව නිකුත් කළ බිලියනපතියන් ලැයිස්තුවට ඇතුළත්ව සිටින 25 දෙනෙකුම වයස අවුරුදු 33ට අඩු තරුණ පිරිස් වීම විශේෂත්වයකි.
+It is reported that the 19-year-old livia has been included in the list of Pubes Magazines issued in connection with Vijet 2024.
+
+The Libeka Wygt included in the billion list that she became a single partner in Latin America.
+
+Folce Magazine is a 25-year-old manner below the age of 33 years old.
 
 ◼️
 
 [Data](articles/4d8a7c05.json)
+
+[Extended Data](ext_articles/4d8a7c05.ext.json)
 
 ---
 
@@ -65,6 +95,8 @@ Chronic Kidney Disease (CKD) has emerged as a pressing issue in Sri Lanka, parti
 ...
 
 [Data](articles/07c439ed.json)
+
+[Extended Data](ext_articles/07c439ed.ext.json)
 
 ---
 
@@ -107,6 +139,8 @@ As a result, one demerit point has been added to Kapp’s disciplinary record, f
 ...
 
 [Data](articles/91f2c11a.json)
+
+[Extended Data](ext_articles/91f2c11a.ext.json)
 
 ---
 
@@ -685,6 +719,8 @@ Their legal saga intensified after they surrendered to the Fort Magistrate’s C
 ◼️
 
 [Data](articles/826d4169.json)
+
+[Extended Data](ext_articles/826d4169.ext.json)
 
 ---
 
@@ -2232,6 +2268,8 @@ He said the SLHRC had received 9,417 public complaints against the police for 20
 
 [Data](articles/e6ea4e32.json)
 
+[Extended Data](ext_articles/e6ea4e32.ext.json)
+
 ---
 
 ### ’’Most eligible recipient’’: Sri Lankan monk on presenting sacred Buddha relics to Dalai Lama
@@ -2293,23 +2331,5 @@ Falling prey to the scams are about 500 foreign maids from South Asian countries
 [Data](articles/86a55248.json)
 
 [Extended Data](ext_articles/86a55248.ext.json)
-
----
-
-### 500 maids in Singapore duped in 2023 are from India, Sri Lanka
-
-*2024-04-05 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98437/500-maids-in-singapore-duped-in-2023-are-from-india-sri-lanka) · `en`
-
-The number of scams in Singapore hit a record high in 2023, Home Minister K. Shanmugam said, adding that the country saw a rise of 18 per cent in duping cases against migrants, many of whom are from India and Sri Lanka.
-
-A total of 46,563 cases of scams were reported in Singapore, with people losing SGD 651.8 million to scams in 2023, the police earlier told The Straits Times, saying this is the highest number of scam cases since they began tracking them in 2016.
-
-Falling prey to the scams are about 500 foreign maids from South Asian countries, mostly from India, Sri Lanka, and Myanmar, migrated to the country in search of better employment opportunities, higher wages and a stable political and economic environment.
-
-...
-
-[Data](articles/dc8a8ac3.json)
-
-[Extended Data](ext_articles/dc8a8ac3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 05:18:09**
+As of **2024-04-05 05:37:58**
 
 ## Newspaper Stats
 
-*Scraped **17,238** Articles*
+*Scraped **17,239** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 179
 dbsjeyarajcom | 208
 newsfirstlk | 363
 dailyftlk | 938
-islandlk | 943
+islandlk | 944
 economynextcom | 957
 adalk | 1,456
 tamilmirrorlk | 2,039
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,229 (99.9%) of 17,238 articles have been extended.
+17,234 (100.0%) of 17,239 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ As a caring citizen I said, “three cheers”, happily thinking that at last, t
 
 [Data](articles/1e95c7f7.json)
 
+[Extended Data](ext_articles/1e95c7f7.ext.json)
+
 ---
 
 ### Kachchativu: Enigma of a barren island
@@ -59,6 +61,8 @@ Now and then, Kachchativu island, lying halfway between the islands of Rameswara
 ...
 
 [Data](articles/9d91e9b0.json)
+
+[Extended Data](ext_articles/9d91e9b0.ext.json)
 
 ---
 
@@ -76,6 +80,8 @@ In most countries around the world, women earn substantially less than men. At t
 
 [Data](articles/3cac3072.json)
 
+[Extended Data](ext_articles/3cac3072.ext.json)
+
 ---
 
 ### Build to scale
@@ -90,6 +96,8 @@ Growth is the fundamental focal point behind any business decision. However, whe
 
 [Data](articles/92cc2816.json)
 
+[Extended Data](ext_articles/92cc2816.ext.json)
+
 ---
 
 ### Sustainability in business – or corporate greenwash
@@ -103,6 +111,8 @@ The need to address sustainability in business arose because irresponsibility in
 ...
 
 [Data](articles/6bfebca4.json)
+
+[Extended Data](ext_articles/6bfebca4.ext.json)
 
 ---
 

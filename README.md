@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 01:03:19**
+As of **2024-04-06 01:18:16**
 
 ## Newspaper Stats
 
-*Scraped **17,411** Articles*
+*Scraped **17,428** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,23 +12,97 @@ colombotelegraphcom | 154
 bbccomsinhala | 182
 dbsjeyarajcom | 210
 newsfirstlk | 363
-dailyftlk | 944
 islandlk | 951
+dailyftlk | 958
 economynextcom | 972
 adalk | 1,466
 tamilmirrorlk | 2,051
 adaderanalk | 2,096
 virakesarilk | 2,539
-dailymirrorlk | 2,666
+dailymirrorlk | 2,669
 adaderanasinhalalk | 2,817
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,411 (100.0%) of 17,411 articles have been extended.
+17,411 (99.9%) of 17,428 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-04-06 (Saturday)
+
+### Sri Lanka and Switzerland commit to expanding relations
+
+*2024-04-06 00:54:50* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-Switzerland-commit-to-expanding-relations/56-760388) · `en`
+
+The 4th round of bilateral consultations between Sri Lanka and Switzerland took place yesterday in Colombo, co-chaired by the Swiss Federal Department of Foreign Affairs (FDFA) Asia Pacific Ambassador Head Heinrich Schellenberg and the Ministry of Foreign Affairs of Sri Lanka Additional Secretary/ Bilateral (West) Yasoja Gunasekera.
+
+The delegations discussed potential to further enhance economic relations. Sri Lanka appreciated the Swiss assistance extended to the Export Development Board (EDB) in identifying further markets for Sri Lankan exports, and proposed collaboration in the textile industry. The two countries agreed to work towards and to explore diversifying trade relations and further potential in the tourism sector. Sri Lanka appreciated the long-standing Swiss support in the area of labour migration. Both sides acknowledged the positive impact of this collaboration in ensuring safe labour migration.
+
+...
+
+[Data](articles/4f361546.json)
+
+---
+
+### SJB signs MOU with section of Nidahasa Janatha Sabawa
+
+*2024-04-06 00:54:19* · [`dailyftlk`](https://www.ft.lk/news/SJB-signs-MOU-with-section-of-Nidahasa-Janatha-Sabawa/56-760387) · `en`
+
+A section of the Nidahasa Janatha Sabawa yesterday signed an MOU with the Samagi Jana Balawegaya to form an alliance. Six MPs including Professor G. L. Peiris, Dilan Perera, and Nalaka Godahewa were among the signatories yesterday at a ceremony held at the BMICH.
+
+◼️
+
+[Data](articles/bc3ed2fc.json)
+
+---
+
+### Avurudhu, Ramadan and Easter Sunday amid a crumbling economy
+
+*2024-04-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Avurudhu-Ramadan-and-Easter-Sunday-amid-a-crumbling-economy/172-280265) · `en`
+
+The trio of festivals-the Sinhala and Tamil New Year, Ramadan and Easter Sunday fall within a short time of each other. The deadly Easter Sunday massacre of innocent civilians in churches and hotels in 2019 hit one of our biggest exchange earners badly.
+
+The Easter Sunday bombings also marked the beginning of a dark era that saw the crumbling of our country’s economy which had just begun to take off after the near three-decade-long terrorist war was brought to a close.
+
+President of the Cultural Triangle Hoteliers Association in May 2019, told the Anadolu Agency that foreign tourist arrivals plunged by a staggering 70.8% in May, followed by 57% in June and 46.9% in July, compared to 2018.
+
+Tourism is one of the largest foreign exchange earners in the country.
+
+...
+
+[Data](articles/7cab4f81.json)
+
+---
+
+### Karuna loses Eastern battle but Prabhakaran loses Eelam war
+
+*2024-04-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Karuna-loses-Eastern-battle-but-Prabhakaran-loses-Eelam-war/172-280268) · `en`
+
+The once-powerful Liberation Tigers of Tamil Eelam (LTTE) waged war against the Sri Lankan state for over thirty years. The LTTE known popularly as the Tigers was the determining force in Sri Lankan politics for nearly two decades. The decline of the LTTE began in 2004 when its Batticaloa and Amparai district  special commander Vinayagamoorthy Muralidharan  alias “Col” Karuna led an eastern tiger revolt against the LTTE supremo Veluppillai Prabhakaran. Although “Col” Karuna - also  known as “Karuna  Ammaan” - was defeated militarily by the LTTE, subsequent events demonstrated that the Eastern split weakened the LTTE considerably and ultimately led to its downfall in 2009.
+
+...
+
+[Data](articles/89a33f5e.json)
+
+---
+
+### A terrorist attack senselessly politicized
+
+*2024-04-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/A-terrorist-attack-senselessly-politicized/172-280266) · `en`
+
+However, it must be the Sri Lanka Podujana Peramuna (SLPP) that is  most happy about the implication of India in the incident, as it had been accused for the past three years of the crime
+
+Despite former President Maithripala Sirisena seeming to have landed in hot water over his recent statement on the Easter Sunday terrorist attacks, so long as his motive is not clear one should not jump the gun to call him a fool.
+
+Sirisena while talking to media in Kandy claimed on March 22 that he knew who really carried out the 2019 Easter Sunday attacks and that he was prepared to disclose the information if the judiciary ordered him to do so. The Sunday Times reported that on questioning by the CID he had stated that India was behind the attacks. He had claimed that an Indian diplomat whom he named had not only confessed to him about the attacks but also the reason.
+
+...
+
+[Data](articles/d1231ada.json)
+
+---
 
 ### 2024-04-05 (Friday)
 
@@ -51,6 +125,122 @@ Additionally, in the preceding season, concerted efforts were made to raise awar
 [Data](articles/127841ce.json)
 
 [Extended Data](ext_articles/127841ce.ext.json)
+
+---
+
+### Power and Energy Ministry reviews comprehensive fuel strategy for next year
+
+*2024-04-05 23:38:23* · [`dailyftlk`](https://www.ft.lk/business/Power-and-Energy-Ministry-reviews-comprehensive-fuel-strategy-for-next-year/34-760385) · `en`
+
+Power and Energy Minister Kanchana Wijesekera chaired a meeting to assess and strategise the country’s fuel supply dynamics for the next 12 months.
+
+Addressing critical aspects ranging from fuel cargo plans to financial balance sheets, the meeting aimed to ensure uninterrupted fuel supply, particularly during holidays and address pertinent issues related to the Ceylon Petroleum Corporation (CPC).
+
+Key highlights of the meeting included a thorough review of fuel cargo payment plans, Iranian credit line payments, storage capacity additions, jet fuel supply, fuel pricing formula and other issues related to CPC.
+
+◼️
+
+[Data](articles/43b7f018.json)
+
+---
+
+### Embassy of Sri Lanka in Vienna promotes Ceylon tea and tourism in Austria and Hungary
+
+*2024-04-05 23:37:54* · [`dailyftlk`](https://www.ft.lk/business/Embassy-of-Sri-Lanka-in-Vienna-promotes-Ceylon-tea-and-tourism-in-Austria-and-Hungary/34-760384) · `en`
+
+The Embassy of Sri Lanka in Austria organised two Sri Lanka destination promotion events at the famous Lugner City Shopping Centre and Europe Westfield Shopping City Sud in Vienna on 15 and 16 March respectively.
+
+These two events were organised in parallel to Sri Lanka’s participation at two key European travel and trade fairs, namely, Ferien Messe Wien 2024 in Austria and SIRHA Budapest International Trade Fair in Hungary by the Sri Lanka Tourism Promotion Bureau and the Sri Lanka Tea Board.
+
+...
+
+[Data](articles/a6b8db01.json)
+
+---
+
+### Adani Green Energy surpasses 10,000 MW renewable energy
+
+*2024-04-05 23:37:10* · [`dailyftlk`](https://www.ft.lk/business/Adani-Green-Energy-surpasses-10-000-MW-renewable-energy/34-760383) · `en`
+
+Adani Green Energy Ltd., (AGEL), one of the world’s leading renewable energy (RE) companies, has surpassed 10,000 megawatts (MW) of operational portfolio, delivering reliable, affordable, and clean power to the national grid.
+
+AGEL’s operational portfolio consists of 7,393 MW solar, 1,401 MW wind and 2,140 MW wind-solar hybrid capacity. The milestone is a testament to AGEL and its development partners firmly moving towards the goal of 45,000 GW renewable energy by 2030.
+
+AGEL’s 10,934 MW operational portfolio will power more than 5.8 million homes and avoid about 21 million tons of CO2 emissions annually.
+
+AGEL is setting a precedent for how innovative technology, execution capabilities, digitisation, a robust supply chain network, and long-term infrastructure financing, combined with sustainable practices, can drive the clean energy transition and decarbonisation on a giga scale.
+
+...
+
+[Data](articles/ae47c3b8.json)
+
+---
+
+### Hayleys Fentons wins Merit Award at Best Management Practices Company Awards 2024
+
+*2024-04-05 23:36:35* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fentons-wins-Merit-Award-at-Best-Management-Practices-Company-Awards-2024/34-760382) · `en`
+
+Hayleys Fentons Ltd., Sri Lanka’s No. 1 Solar EPC company and MEP contractor, commemorates its first-ever award at the recent “Best Management Practices Company Awards (BMPC) 2024”, recognising exceptional management practices.
+
+The Best Management Practices Company Awards are organised by the esteemed Institute of Chartered Professional Managers of Sri Lanka (CPM, Sri Lanka).
+
+“We are proud to receive this award from CPM Sri Lanka,” said Hayleys Fentons Ltd. Managing Director Hasith Prematillake. “This recognition serves as a strong validation of our commitment to continuous improvement and the tireless efforts of our team in upholding the highest standards of management practices.
+
+“We firmly believe that our unwavering focus on best practices will continue to be a significant driver of its growth and achievements.”
+
+...
+
+[Data](articles/558023d2.json)
+
+---
+
+### Aeroflot and Rossiya Airlines to continue summer flights to Sri Lanka
+
+*2024-04-05 23:36:04* · [`dailyftlk`](https://www.ft.lk/business/Aeroflot-and-Rossiya-Airlines-to-continue-summer-flights-to-Sri-Lanka/34-760381) · `en`
+
+Aeroflot Russian Airlines and Rossiya Airlines are set to continue their summer operations to Sri Lanka, reflecting their confidence in the country as a preferred travel destination.
+
+Travellers can anticipate enhanced connectivity and convenient travel options between the two countries during their summer holidays. March saw 28,016 tourists from the Russian Federation accounting for 13% of the overall total of 209,181. Russian Federation remains second biggest source market for Sri Lanka with 91,205 tourists in the first quarter of this year.
+
+It also underscores the airline’s ongoing efforts to promote tourism, trade and cultural cooperation between Russia and Sri Lanka.
+
+The announcement was made when the General Sales Agent (GSA) for both airlines — Maldiviana Aviation Ltd., representatives recently called on the Civil Aviation Authority of Sri Lanka Director-General of Civil Aviation and Chief Executive Officer A.V.M. Sagara Kotakadeniya (Retd.) on Tuesday.
+
+...
+
+[Data](articles/630930a8.json)
+
+---
+
+### Beam Hela Osu Lanka shines in silver at Golden Inmediens Awards
+
+*2024-04-05 23:35:29* · [`dailyftlk`](https://www.ft.lk/business/Beam-Hela-Osu-Lanka-shines-in-silver-at-Golden-Inmediens-Awards/34-760380) · `en`
+
+Beam Hela Osu Lanka Chairman Dr. R.A. Bandula Rathnasiri Piyaratne and Managing Director/CEO Dave Laknath Ranathunga receiving the award
+
+Beam Hela Osu Lanka Ltd., a leading Ayurvedic product manufacturer in the country, was honoured as the Best Ayurveda Manufacturer (Silver) at the Golden Inmediens Awards 2023.
+
+The award ceremony, a brainchild of the State Minister of Indigenous Medicine, attorney Sisira Jayakody, and aimed at developing and promoting indigenous medical entrepreneurship, was held at the Water’s Edge Hotel in Battaramulla on 19 March.
+
+Organised by the State Ministry of Indigenous Medicine, the Lanka Ayurveda Promotion Ltd., the Department of Ayurveda and the Ayurvedic Drug Corporation, the award ceremony was attended by Prime Minister Dinesh Gunawardena, State Minister Jayakody and several other dignitaries including Cabinet and State Ministers and senior Government officials.
+
+◼️
+
+[Data](articles/b5b2514c.json)
+
+---
+
+### NSB champions tree planting this Avurudu with customers
+
+*2024-04-05 23:34:49* · [`dailyftlk`](https://www.ft.lk/business/NSB-champions-tree-planting-this-Avurudu-with-customers/34-760379) · `en`
+
+National Savings Bank, as the official banking partner of the Ministry of Agriculture and Plantation Industry, is making arrangements this year to distribute plants of economic value among the customers in observance of the tree planting ritual at the auspicious time for the Sinhala Hindu New Year, on 15 April, 2024, through its countrywide branch network. This year, the auspicious time of planting trees has fallen on 18 April at 10:16 p.m.
+
+In addition, two special gifts will be offered for the New Year transactions with the ‘Avurudu Wasana’ Special Fixed Deposit Account.
+
+...
+
+[Data](articles/a623e0f2.json)
 
 ---
 
@@ -105,6 +295,76 @@ According to the Department of External Resources, payments totalling USD 760.1 
 [Data](articles/dd8e5c08.json)
 
 [Extended Data](ext_articles/dd8e5c08.ext.json)
+
+---
+
+### Michael Tissera the rare ‘gentleman cricketer’
+
+*2024-04-05 23:27:46* · [`dailyftlk`](https://www.ft.lk/columns/Michael-Tissera-the-rare-gentleman-cricketer/4-760371) · `en`
+
+When people who have the same first name meet up, there’s name-related humour. The more, the merrier, obviously, especially if they are good friends and enjoy friendly banter. Today I am thinking of three people who share the name Michael: Michael Tissera, Michael Sproule and Michael De Zoysa, all three who played cricket for St. Thomas’ College, Mt. Lavinia. The first of course is the bigger name associated with the gentleman’s game.
+
+Today I remember these three gentlemen sending everyone into fits of laughter as they talked among themselves, each referring to the others by name. It went something along the following lines: ‘Yes Michael, as I was telling Michael…but Michael, when I explained to Michael, Michael kind of agreed, but then again Michael…’ And it went on!
+
+...
+
+[Data](articles/eec6b0e4.json)
+
+---
+
+### The Lasantha Wickrematunge legacy: Remembering his life and influence
+
+*2024-04-05 23:26:13* · [`dailyftlk`](https://www.ft.lk/opinion/The-Lasantha-Wickrematunge-legacy-Remembering-his-life-and-influence/14-760370) · `en`
+
+5 April would have been the 66th birthday of one of the country’s most beloved, renowned journalists and human rights defenders Lasantha Wickrematunge who was assassinated at the age of 50. Many have been inspired by the work of this legendary figure. He was a fearless activist and fighter for a democratic Sri Lanka during the 26-year bloody civil war and he went on to win the hearts of millions of our countrymen for his unwavering pursuit of racial equality and human rights in our homeland.
+
+I first met Lasantha when I was 14 years old in 2000. My family had just moved to Nugegoda for a short period and we lived one road down from his home. The boys around our area would often gather to play cricket outside after school and everybody in our neighbourhood would always point at his house and proudly boast to any visitors as to who our neighbour was.
+
+...
+
+[Data](articles/08fb04ff.json)
+
+---
+
+### Reforming the global financial system for era of climate change
+
+*2024-04-05 23:20:46* · [`dailyftlk`](https://www.ft.lk/columns/Reforming-the-global-financial-system-for-era-of-climate-change/4-760365) · `en`
+
+In an era of escalating climate risks and impacts, the global financial system stands at a crossroads
+
+In an era of escalating climate risks and impacts, the global financial system stands at a crossroads. Existing structures and frameworks are facing serious challenges in adjusting to a changing global environment in ways that acknowledge and address the imperatives of climate justice, equity, and the needs of developing countries. The urgency of reform or improvement has been highlighted by several recent initiatives and proposals, such as the Bridgetown Initiative 2.0, the Paris Pact for People and Planet, the V20 Accra-Marrakech Agenda, or the Ubuntu Initiative, and featured prominently in the climate negotiations as well.
+
+...
+
+[Data](articles/2991dacc.json)
+
+---
+
+### Racist politics raising its ugly head?
+
+*2024-04-05 23:19:00* · [`dailyftlk`](https://www.ft.lk/columns/Racist-politics-raising-its-ugly-head/4-760364) · `en`
+
+On Saturday 30 March 2024 in a YouTube message, Sujeewa Bandara, former Secretary to the ousted President Gotabaya Rajapaksa, claimed that the people who gathered at the Mirihana house of Gotabaya seeking to remove him from power as president were not Sinhalese but Muslims.
+
+This is absolute nonsense, calculated mischief and bankrupt politics. Video clips of the event show there were no Muslims there but all Sinhalese. Thus the statement, on the eve of presidential or general elections, seems to be aimed at rousing Sinhalese against Muslims – perhaps to come to power as they had done since the island’s independence in 1948.
+
+Fortunately for Sri Lanka, Sinhalese have woken up and openly dismiss racist politics. All what they want is solution to their burning day-to-day economic problems caused by racist politics.
+
+...
+
+[Data](articles/a09b5fc9.json)
+
+---
+
+### Mannar Wind Farm Project: Another folly like Sinharaja logging project on the horizon?
+
+*2024-04-05 23:14:52* · [`dailyftlk`](https://www.ft.lk/columns/Mannar-Wind-Farm-Project-Another-folly-like-Sinharaja-logging-project-on-the-horizon/4-760362) · `en`
+
+A wind farm consisting of 30 towers generating 100MW (Phase 1 – Thambapawani) was established on the southern coast of Mannar Island in 2020, with financial assistance from the Asian Development Bank (ADB). The widespread criticism of this project due to its positioning within one of the main bird migratory corridors in the Asian region (detailed elsewhere in the article) was largely overlooked or ignored due to the economic priorities that prevailed at the time, as it happened with the now infamous Canadian-funded Sinharaja Mechanised Logging Project of the 1960s and 70s.
+
+...
+
+[Data](articles/12cae832.json)
 
 ---
 
@@ -1915,387 +2175,5 @@ Vice President of Sri Lanka Association of Inbound Travel Agents, Nalin Jayasund
 [Data](articles/73618794.json)
 
 [Extended Data](ext_articles/73618794.ext.json)
-
----
-
-### ‘Dunhinda Odyssey’ special luxury tourist train inaugurated
-
-*2024-04-05 13:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98445/dunhinda-odyssey-special-luxury-tourist-train-inaugurated-) · `en`
-
-The special luxury tourist train ‘Dunhinda Odyssey’ was launched this morning (05), to mark the centenary of the inception of train services on the Colombo - Badulla line.
-
-The maiden journey of ‘Dunhinda Odyssey’ kicked off at Colombo Fort railway station at 06.30 a.m. this morning, under the patronage of Minister of Transport and Highways Bandula Gunawardena.
-
-‘Dunhinda Odyssey’ is the third of the ‘Odyssey’ train series launched by Sri Lanka Railways aimed at facilitating tourists, and it comes years after the launch of ‘Ella Odyssey’ and ‘Seethawaka Odyssey’.
-
-Set to dedicate for passenger transportation following the inauguration, the train fare for a first class ticket will be Rs. 8,000, Rs. 6,000 for second class while a third class ticket will be priced at Rs. 5,000 between Colombo Fort to Badulla/Ella.
-
-The train will operate from Colombo Fort to Badulla every Tuesday, Friday and Sunday at 6.30 a.m. and from Badulla to Colombo Fort on every Monday, Wednesday and Saturday at 8.00 a.m.
-
-...
-
-[Data](articles/3f135c57.json)
-
-[Extended Data](ext_articles/3f135c57.ext.json)
-
----
-
-### Private bus - motorcycle collisionIn the hospital with two women
-
-*2024-04-05 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180506) · `ta`
-
-Two women injured in a head-on collision between a private bus and a motorcycle in Pudukkudiyiruppu. The accident happened this morning. The bus was traveling from Viswamaduwu to Trincomalee, and the motorcycle from Mullaithivu to Oddusudan. The injured were admitted to Pudukkudiyiruppu Hospital and later transferred to Mullaitivu District Hospital. Preliminary findings suggest the phone was to blame, with further investigations ongoing.
-
-🟩
-
-Two women were injured when a bus and motorcycle collided head -on in Pudukkudiyiruppu area.
-
-The accident occurred this morning (05) this morning.
-
-A private bus traveling from Viswamaduwu to Trincomalee and a motorcycle traveling from Mullaithivu to Oddusudan has been hit by a face -to -face collision on the Mullaitivu main road in front of the Pudukkudiyiruppu Children's Temple.
-
-Two girls who were traveling on a motorcycle were injured and admitted to the Pudukkudiyiruppu Hospital and later sent to the Mullaitivu District Hospital for further treatment.
-
-Preliminary inquiries into the accident revealed that the phone was responsible for the accident. However, further investigations are being carried out by the Pudukkudiyiruppu police.
-
-◼️
-
-[Data](articles/b5efd435.json)
-
-[Extended Data](ext_articles/b5efd435.ext.json)
-
----
-
-### Sun moving north - massive change in climate
-
-*2024-04-05 13:04:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-நோக்கி-நகரும்-சூரியன்-காலநிலையில்-பாரிய-மாற்றம்/175-335644) · `ta`
-
-Dr. Mohamed Saliheen predicts significant climate changes in Sri Lanka due to the sun's northern movement, affecting temperatures and weather patterns across the country.
-
-🟩
-
-Senior Weather Officer Dr. Mohamed Saliheen said that the sun will move near many parts of Sri Lanka from today (05) to the 15th of this month due to the Sun's north.
-
-He said that at 12.12 pm today, the sun will peak straight into places like Valapitiya, Elpitiya, Morawaka and Tissamaharama.
-
-In addition, increased temperatures in the North, East, North Central, North Western, Sabaragamuwa, Western and Southern Provinces and Moneragala district today.
-
-Showers or thunderstorms are expected in many parts of the Sabaragamuwa and Western Provinces and some parts of the Galle and Matara districts after 2 pm.
-
-Senior Weather Officer Dr. Mohamed Saliheen added that there is a chance of rain or thunderstorms in the evening or night in the North Western Province and some parts of Mannar and Nuwara Eliya districts.. Remble
-
-◼️
-
-[Data](articles/805b5b52.json)
-
-[Extended Data](ext_articles/805b5b52.ext.json)
-
----
-
-### Sri Lanka plans state ayurvedic massage centres for tourists
-
-*2024-04-05 13:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-state-ayurvedic-massage-centres-for-tourists-157670/) · `en`
-
-ECONOMYNEXT – Ayurvedic medicine should be integrated into the tourism industry more effectively, State Minister of Indigenous Medicine Sisira Jayakody has said.
-
-“Tourists show a particular fascination and enthusiasm for massage techniques offered by the traditional medical system,” Jayakody told reporters on Thursday.
-
-“In collaboration with the Department of Ayurveda, we are establishing ‘Body Mantra’ massage centres across the country.”
-
-The centres are planned for hotels and resorts within the country, as well as abroad, “aiming to deliver expert services with certified professionalism. NVQ 4 qualified therapists would be recruited to work in them.”
-
-The Ayurvedic Code, recently approved by parliament, has regulations to oversee Ayurvedic products and centres in the country, the state minister said.
-
-...
-
-[Data](articles/ee5ce919.json)
-
-[Extended Data](ext_articles/ee5ce919.ext.json)
-
----
-
-### University students dies in a boasting of Vinodh
-
-*2024-04-05 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195330) · `si`
-
-A Moratuwa University student, Sathaasivum Vinadtu, died suddenly in the early hours of yesterday at a temporary shelter. He was a final year Architecture student from Hali Ela. The incident occurred while he was using a mobile phone near a shop near the lodge. A friend described the scene as a scream from inside the room, leading to his hospitalization and eventual death.
-
-🟩
-
-A student of the Moratuwa University student was suddenly sick in midnight yesterday at the temporary shelter in Moratuwa.
-
-He is a final year of the Faculty of Architecture and he was also killed when he was admitted to the District Hospital.
-
-The deceased is Sathaasivum Vinadtu, a student from the Hali Ela area.
-
-A shop near the lodge near the lodge was a sudden sick while using the mobile phone.
-
-A friend of the deceased student said: "We have four room in the border. The shouting in the inside was a scream from inside. I came and looked up, he was on my eyes and doing this. It was only after all of us were taken to Hospitle. "
-
-◼️
-
-[Data](articles/8db57259.json)
-
-[Extended Data](ext_articles/8db57259.ext.json)
-
----
-
-### Gaza's 12 -year -old medical assistant
-
-*2024-04-05 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180500) · `ta`
-
-A 12-year-old boy, Jagariaz, volunteers as a medical assistant at Al-Aksha Hospital in Gaza, helping with tasks like fitting cannulas and providing medicines. Despite the war's impact, he's determined to help, driven by the need to support his family.
-
-🟩
-
-Al Jazeera reports that a 12 -year -old boy who was displaced in the hospital due to Israel's attacks is currently working as a medical assistant at the hospital.
-
-12 -year -old Jagariaz is working as a medical volunteer at Al -Aksha Hospital in Sarzak Gaza.
-
-The hospital's doctors need assistants due to the increasing number of casualties in Gaza.
-
-The boy says that I will fit the cannabis, I will be able to remove the fluids and handle the needles.
-
-He is involved in giving scan reports to medical groups and providing medicines for nurses. Director of Al -Aksha Hospital Iad Abu Jaheer says.
-
-The medical team has been working for more than 170 days at Al -Aksha Hospital.
-
-The boy came to our hospital when he was displaced and he saw that the doctors at the hospital saw the nurses working for 24 hours, according to the director of the Al Aksha Hospital.
-
-He reports that this child is very high.
-
-Israel's attack after the seventh of October has been killed by 364 medical staff.
-
-...
-
-[Data](articles/d408e802.json)
-
-[Extended Data](ext_articles/d408e802.ext.json)
-
----
-
-### Suspect arrested with 5,033 painkillers pills in Kalmunai
-
-*2024-04-05 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180498) · `ta`
-
-A 63-year-old from Kalmunai was arrested with 5,033 painkillers for illegal sale. Navy Media Unit and police seized the pills in Kalmunai on Thursday. The suspect is now under investigation by the Department of Drugs and Food Inspection.
-
-🟩
-
-One person has been arrested in Kalmunai area with 5033 painkillers ready for illegal selling.
-
-The Navy Media Unit said that the seizure of pain relief pills has been seized as the Marines and the police have been prepared to sell without a valid permit, which was carried out in Kalmunai on Thursday.
-
-The suspect, 63, hails from Kalmunai - Maruthamunai area.. The Naval Media Division further stated that the suspect has been handed over to the Department of Drugs and Food Inspection for further investigations with painkillers seized.
-
-◼️
-
-[Data](articles/166c9a63.json)
-
-[Extended Data](ext_articles/166c9a63.ext.json)
-
----
-
-### Colombo Shopping Festival launched...
-
-*2024-04-05 12:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Colombo-Shopping-Festival-launched/110-280247) · `en`
-
-The 37th edition of the 'Colombo Shopping Festival', the ultimate shopping paradise, was launched today at the Bandaranaike Memorial International Conference Hall (BMICH). The exhibition will be held till next Thursday (11) from 10 a.m. to 10 p.m. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/b3d57b92.json)
-
-[Extended Data](ext_articles/b3d57b92.ext.json)
-
----
-
-### Police chief gives undertaking before Supreme Court
-
-*2024-04-05 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98444/police-chief-gives-undertaking-before-supreme-court) · `en`
-
-Inspector-General of Police (IGP) Deshabandu Tennakoon on Friday (05) gave an undertaking to the Supreme Court pertaining to the transfers of five Officers-in-Charge (OICs) after the houses of a number of politicians were torched during the civil unrest in May 2022.
-
-The officers in question, filing petitions before the country’s apex court, alleged that the transfers were not based on their seniority.
-
-A three-member judge bench led by Chief Justice Jayantha Jayasuriya, on Thursday (04) issued summons, directing IGP Tennakoon to appear before the court to present oral submissions regarding the matter. Complying with the order, the police chief arrived at the Supreme Court complex earlier on Friday.
-
-During the court proceedings, IGP Tennakoon, through the Additional Solicitor General, communicated to the court that the five officers would be assigned to police stations commensurate with their previous precincts.
-
-◼️
-
-[Data](articles/0595feb4.json)
-
-[Extended Data](ext_articles/0595feb4.ext.json)
-
----
-
-### Police chief gives undertaking to Supreme Court
-
-*2024-04-05 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98444/police-chief-gives-undertaking-to-supreme-court) · `en`
-
-Inspector-General of Police (IGP) Deshabandu Tennakoon on Friday (05) gave an undertaking to the Supreme Court pertaining to the transfer of five Officers-in-Charge (OICs).
-
-The officers in question, filing a motion before the country’s apex court, had alleged that the transfers given to them after the houses of a number of politicians were torched during the widespread civil unrest in May 2022, were not based on their seniority.
-
-Accordingly, a three-member judge bench led by Chief Justice Jayantha Jayasuriya, on Thursday (04) issued summons directing IGP Tennakoon to appear before the court to present oral submissions regarding the matter. Complying with the order, the police chief arrived at the Supreme Court complex on Friday morning.
-
-During today’s court proceedings, IGP Tennakoon, through Additional Solicitor General Viraj Dayaratne, communicated to the judge bench that the five OICs would be assigned to police stations that are commensurate with their previous assignments.
-
-◼️
-
-[Data](articles/4bf0323a.json)
-
-[Extended Data](ext_articles/4bf0323a.ext.json)
-
----
-
-### Israel temporarily allows for Gaza's borders
-
-*2024-04-05 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180497) · `ta`
-
-Israel temporarily opens Gaza's Eris crossing and Ashdot port, allowing aid distribution, in response to US warnings.
-
-🟩
-
-Israeli Prime Minister Benjamin Netanyahu's office today announced that Israel will temporarily allow Gaza to distribute assistance through his borders.
-
-Accordingly, Israel will open the Eris crossing in the northern part of Gaza for the first time since October 7.
-
-The Israeli Prime Minister's Office said that Israel has allowed distribution through the port of Israeli city of Ashdot, about 40 kilometers from the northern part of Gaza, and allowed to increase the assistance from Jordan.
-
-Israel made the announcement within hours of the US warning that Gaza's policy could change its policy.
-
-◼️
-
-[Data](articles/ca77771d.json)
-
-[Extended Data](ext_articles/ca77771d.ext.json)
-
----
-
-### Patriot who appears in the Supreme Court
-
-*2024-04-05 12:10:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்-நீதிமன்றத்தில்-முன்னிலையான-தேசபந்து/175-335643) · `ta`
-
-Inspector General of Police Deshabandu Tennakoon investigates five police officers' rights petitions in the High Court, following their transfer after Arakala. Their lawyers filed a Supreme Court petition over lack of police stations.
-
-🟩
-
-Inspector General of Police Deshabandu Tennakoon arrived in the High Court this morning.
-
-He has come to investigate the fundamental rights petitions submitted by five police officers who were transferred after Arakala.
-
-Their lawyers filed a petition in the Supreme Court regarding the lack of relevant police stations to five transferred police officers.
-
-The court sent a notice to the Inspector General of Police to appear before the High Court to investigate the matter.
-
-◼️
-
-[Data](articles/8b5d89af.json)
-
-[Extended Data](ext_articles/8b5d89af.ext.json)
-
----
-
-### Bail for banned lawyer
-
-*2024-04-05 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195329) · `si`
-
-Susil Jayatunga, a suspended lawyer, was released on private bail by the Supreme Court, with conditions.
-
-🟩
-
-Susil Jayatunga, a lawyer who was suspended to be remanded in connection with insulting the judiciary, was sentenced to the release of the officer.
-
-Accordingly, the Supreme Court ordered that the man ordered the release of the person on a private bail of Rs.
-
-The second and fourth of the Polonnaruwa High Court and the Polonnaruwa High Court ordered to be reported to be rejected and remanded again if they were breaking down.
-
-Judge Madulla said the predator is set on the basis of the sympathy.
-
-◼️
-
-[Data](articles/8fceeb60.json)
-
-[Extended Data](ext_articles/8fceeb60.ext.json)
-
----
-
-### Promise to court
-
-*2024-04-05 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195328) · `si`
-
-Five OICs transferred will have parallel police stations. IGP Deshaband Tennakoon appeared in court when petitions were called by Chief Justice Jayantha Jayasuriya, informed by Additional Solicitor General.
-
-🟩
-
-Five OICs transferred after struggles will be provided with parallel police stations to the police stations.
-
-IGP Deshaband Tennakoon had already appeared in court when the petitions were called before Chief Justice Jayantha Jayasuriya.
-
-The IGP was informed of the court through the Additional Solicitor General.
-
-◼️
-
-[Data](articles/49d5a7fb.json)
-
-[Extended Data](ext_articles/49d5a7fb.ext.json)
-
----
-
-### Celebrating New Year
-
-*2024-04-05 12:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Celebrating-New-Year/110-280237) · `en`
-
-A New Year celebration was held this morning at the Gothami Balika Vidyalaya in Colombo within the school premises. Pix by Waruna Wanniarachchi
-
-◼️
-
-[Data](articles/315e2162.json)
-
-[Extended Data](ext_articles/315e2162.ext.json)
-
----
-
-### Special bus service for festive season begins today
-
-*2024-04-05 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98443/special-bus-service-for-festive-season-begins-today) · `en`
-
-A special bus service is set in place from today (05) for members of the public, in view of the upcoming Sinhala and Tamil New Year season, Sri Lanka Transport Board (SLTB) said.
-
-The SLTB explained that measures have been taken to deploy around 200 additional buses during the festive season for people in Colombo and suburbs who are visiting their hometowns.
-
-Accordingly, this bus service will be operational from Colombo to all parts of the island.
-
-Meanwhile, the Sri Lanka Railways also stated that special trains will operate for long distance journeys from April 10. Under this service, around 12 additional train journeys are added to the schedule daily.
-
-The special train services will be available for the general public until April 15.
-
-◼️
-
-[Data](articles/325e152d.json)
-
-[Extended Data](ext_articles/325e152d.ext.json)
-
----
-
-### SLFP’s future decisions by party committees only – Senior Vice President
-
-*2024-04-05 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98442/slfps-future-decisions-by-party-committees-only-senior-vice-president) · `en`
-
-The political decisions of Sri Lanka Freedom Party (SLFP) will be decided only by the committees of the party including the SLFP’s central committee, says the party’s Senior Vice President Prof. Rohana Lakshman Piyadasa.
-
-The Colombo District Court on Thursday (04) issued an enjoining order preventing former President Maithripala Sirisena from functioning as the SLFP chairman.
-
-The order, which was issued following a complaint filed by former President Chandrika Bandaranaike Kumaratunga, will be effective until April 18.
-
-However, Prof. Piyadasa stated that even if the court issued an enjoining order by way of legal clarification in the judicial process, the party’s future political decisions would be made by the party’s committees.
-
-◼️
-
-[Data](articles/f834b096.json)
-
-[Extended Data](ext_articles/f834b096.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 06:54:44**
+As of **2024-04-05 07:16:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,239 (99.9%) of 17,252 articles have been extended.
+17,245 (100.0%) of 17,252 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Gold: Best Hospital for Indigenous Medicine 2023 – Siddhalepa Ayurveda Hospita
 
 [Data](articles/96f0f656.json)
 
+[Extended Data](ext_articles/96f0f656.ext.json)
+
 ---
 
 ### CITI celebrates International Women’s Day 2024: Inspiring inclusion
@@ -59,6 +61,8 @@ The diverse panel consisted of Ideal Motors Ltd., Finance Director Dilani Yatawa
 ...
 
 [Data](articles/38825625.json)
+
+[Extended Data](ext_articles/38825625.ext.json)
 
 ---
 
@@ -74,6 +78,8 @@ Ingress by MendisOne, had their soft launch on Friday, 22 March, at MendisOne he
 
 [Data](articles/01a9713b.json)
 
+[Extended Data](ext_articles/01a9713b.ext.json)
+
 ---
 
 ### Politics behind economic recovery
@@ -85,6 +91,8 @@ Ingress by MendisOne, had their soft launch on Friday, 22 March, at MendisOne he
 ...
 
 [Data](articles/3d2a2985.json)
+
+[Extended Data](ext_articles/3d2a2985.ext.json)
 
 ---
 
@@ -99,6 +107,8 @@ It appears that there is unanimity in the public perception of an overwhelming n
 ...
 
 [Data](articles/c237595b.json)
+
+[Extended Data](ext_articles/c237595b.ext.json)
 
 ---
 
@@ -123,6 +133,8 @@ Target 1 - Primary budget surplus of 2.3% by 2025 and beyond
 ...
 
 [Data](articles/6e18c087.json)
+
+[Extended Data](ext_articles/6e18c087.ext.json)
 
 ---
 

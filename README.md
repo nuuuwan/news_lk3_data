@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 23:52:45**
+As of **2024-04-06 00:18:11**
 
 ## Newspaper Stats
 
-*Scraped **17,408** Articles*
+*Scraped **17,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 951
 economynextcom | 972
 adalk | 1,466
 tamilmirrorlk | 2,051
-adaderanalk | 2,093
+adaderanalk | 2,096
 virakesarilk | 2,539
 dailymirrorlk | 2,666
 adaderanasinhalalk | 2,817
@@ -26,11 +26,49 @@ adaderanasinhalalk | 2,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,397 (99.9%) of 17,408 articles have been extended.
+17,409 (100.0%) of 17,411 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### 2024 sees drop in dengue cases, deaths compared to previous years
+
+*2024-04-05 23:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98461/2024-sees-drop-in-dengue-cases-deaths-compared-to-previous-years) · `en`
+
+State Minister of Health Dr. Seetha Arambepola says that 2024 has seen a decrease in the number of dengue cases and mortality rates compared to previous years.
+
+Highlighting the progress, she noted that while 64 dengue-prone areas were identified by January, the authorities have successfully managed to mitigate risks in two zones as of today.
+
+These remarks were made by Dr. Arambepola during her participation in a press briefing at the Presidential Media Centre (PMC) today (05).
+
+Every year, accidents stemming from the unsafe handling of fireworks mar the festive season. Thus, a plea is made for vigilance and caution with loved ones during this New Year period.
+
+Additionally, in the preceding season, concerted efforts were made to raise awareness about dengue prevention. Gratitude is owed to health departments and media outlets for their significant contributions. Notably, compared to previous years, there has been a marked reduction in both dengue cases and fatalities.
+
+...
+
+[Data](articles/127841ce.json)
+
+---
+
+### Sri Lanka settled USD 2bn worth of foreign debt and interest, govt. says
+
+*2024-04-05 23:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98460/sri-lanka-settled-usd-2bn-worth-of-foreign-debt-and-interest-govt-says) · `en`
+
+Mr. Rajith Keerthy Tennakoon, President Director General of Community Affairs says that after between President Ranil Wickremesinghe’s assumption of office and February 2024, the Sri Lankan government has settled a total of USD 1909.7 million in foreign debt and interest payments.
+
+He also highlighted that from 21 July 2022 to February 2024, the government has disbursed $1338.8 million in multilateral loans and interest, with no outstanding arrears in loan instalments or interest payments up to February 2024. Mr. Rajith Keerthi Tennakone conveyed this information during a special media statement today (05).
+
+According to the Department of External Resources, payments totalling USD 760.1 million have been made to the Asian Development Bank and USD 7.0 million to the Asian Infrastructure Investment Bank.
+
+...
+
+[Data](articles/42399b19.json)
+
+[Extended Data](ext_articles/42399b19.ext.json)
+
+---
 
 ### Govt. says it settled USD 2bn worth of foreign debt and interest
 
@@ -45,6 +83,24 @@ According to the Department of External Resources, payments totalling USD 760.1 
 ...
 
 [Data](articles/c3908506.json)
+
+[Extended Data](ext_articles/c3908506.ext.json)
+
+---
+
+### Sri Lanka settled nearly $2bn worth of foreign debt and interest, govt. says
+
+*2024-04-05 23:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98460/sri-lanka-settled-nearly-2bn-worth-of-foreign-debt-and-interest-govt-says) · `en`
+
+Mr. Rajith Keerthy Tennakoon, President Director General of Community Affairs says that after between President Ranil Wickremesinghe’s assumption of office and February 2024, the Sri Lankan government has settled a total of USD 1909.7 million in foreign debt and interest payments.
+
+He also highlighted that from 21 July 2022 to February 2024, the government has disbursed $1338.8 million in multilateral loans and interest, with no outstanding arrears in loan instalments or interest payments up to February 2024. Mr. Rajith Keerthi Tennakone conveyed this information during a special media statement today (05).
+
+According to the Department of External Resources, payments totalling USD 760.1 million have been made to the Asian Development Bank and USD 7.0 million to the Asian Infrastructure Investment Bank.
+
+...
+
+[Data](articles/dd8e5c08.json)
 
 ---
 
@@ -197,6 +253,8 @@ The MP claimed that a majority of Sri Lankans have already decided that only the
 ...
 
 [Data](articles/7cd19ef8.json)
+
+[Extended Data](ext_articles/7cd19ef8.ext.json)
 
 ---
 
@@ -860,6 +918,8 @@ Reports indicate there was a significant increase in HIV with sexually active yo
 
 [Data](articles/271e9aef.json)
 
+[Extended Data](ext_articles/271e9aef.ext.json)
+
 ---
 
 ### Court order on 51 vehicles
@@ -1002,6 +1062,8 @@ A bond maturing on 01.07.2032 closed stable at 12.60/75 percent. (Colombo/Apr5/2
 
 [Data](articles/7949b4de.json)
 
+[Extended Data](ext_articles/7949b4de.ext.json)
+
 ---
 
 ### Ukraine fires over 50 drones against Russia in one of biggest air attacks
@@ -1073,6 +1135,8 @@ Other major contributors to the Index included Central Finance Company Plc, up a
 ◼️
 
 [Data](articles/e4851bc9.json)
+
+[Extended Data](ext_articles/e4851bc9.ext.json)
 
 ---
 
@@ -1290,6 +1354,8 @@ The YGL is a multi-stakeholder community of more than 1,000 young leaders. Past 
 
 [Data](articles/80bb303e.json)
 
+[Extended Data](ext_articles/80bb303e.ext.json)
+
 ---
 
 ### Damitha Abeyratne and husband remanded
@@ -1412,6 +1478,8 @@ The Hingurakgoda airport, originally known as Royal Air Force Minneriya, airport
 
 [Data](articles/4ac76752.json)
 
+[Extended Data](ext_articles/4ac76752.ext.json)
+
 ---
 
 ### Bore. Some recovery of explosives in Vaharai area
@@ -1463,6 +1531,8 @@ An IMF official said on Friday April 05 that there are strong expectations of ag
 ...
 
 [Data](articles/e77ab5a1.json)
+
+[Extended Data](ext_articles/e77ab5a1.ext.json)
 
 ---
 
@@ -1840,6 +1910,8 @@ Vice President of Sri Lanka Association of Inbound Travel Agents, Nalin Jayasund
 
 [Data](articles/73618794.json)
 
+[Extended Data](ext_articles/73618794.ext.json)
+
 ---
 
 ### ‘Dunhinda Odyssey’ special luxury tourist train inaugurated
@@ -1933,6 +2005,8 @@ The Ayurvedic Code, recently approved by parliament, has regulations to oversee 
 ...
 
 [Data](articles/ee5ce919.json)
+
+[Extended Data](ext_articles/ee5ce919.ext.json)
 
 ---
 
@@ -2219,83 +2293,5 @@ However, Prof. Piyadasa stated that even if the court issued an enjoining order 
 [Data](articles/f834b096.json)
 
 [Extended Data](ext_articles/f834b096.ext.json)
-
----
-
-### Douglas Devananda's sudden results
-
-*2024-04-05 11:31:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டக்ளஸ்-தேவானந்தாவின்-திடீர்-முடிவு/175-335641) · `ta`
-
-Douglas Devananda, Eelam People's Democratic Party Secretary-General and Minister of Fisheries, announced his retirement from politics ahead of the next parliamentary election. Despite efforts to improve the Tamil people's daily issues and development, he felt the lack of political power with the South hindered progress. Despite hoping to complete unfinished tasks, he decided to retire, aiming to focus on the Tamil people's needs without engaging in politics.
-
-🟩
-
-Douglas Devananda, Secretary -General of the Eelam People's Democratic Party and Minister of Fisheries, said that he has decided to retire from politics with the upcoming parliamentary election.
-
-“From the armed struggle, he has crossed the various obstacles to politics.
-
-My goal is to get the political daily issue and development of the Tamil people as much as possible in my political period.
-
-Unfortunately, the people did not provide the bargaining power with the South because the seats were not enough.
-
-I only think that the Tamil people need to get something. I do not need to do politics with the people.
-
-I thought I could retire from politics after the last parliamentary election but I was involved in politics with the hope that I could finish some things.
-
-Therefore, I am going to retire politics with the upcoming parliamentary election, he added.. Remble
-
-◼️
-
-[Data](articles/6b897486.json)
-
-[Extended Data](ext_articles/6b897486.ext.json)
-
----
-
-### Tamil parties should support us - Anuragumara in Jaffna
-
-*2024-04-05 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180491) · `ta`
-
-Anura Kumara Dissanayake, a National People's Power Leader, urged Tamil party leaders to support unity and equality in Sri Lanka, emphasizing the importance of ethnic, religious, and linguistic harmony for the country's progress.
-
-🟩
-
-National People's Power Leader and Colombo District Parliamentarian Anura Kumara Dissanayake has called for the leaders of the Tamil parties to give us support if they are to be a racial and religious rule in the country.
-
-He was speaking at the conference of the Sri Lanka Teachers Service Association held in Jaffna yesterday (04).
-
-“The progress of Sri Lanka can improve more and more when it comes to the unity of ethnic, religious and language.
-
-Therefore, the country cannot improve without the decree of brothers living in the North and East. This is what has been going on for a long time and this time we have to rule over the support of everyone.
-
-Therefore, we have to give our support for the progress of all. When the rule is formed with the cooperation and support of all, it will be ruled without any discrimination.
-
-Come with us to carry out a long -standing separatist politics, to end the ethnic and religious united politics.
-
-...
-
-[Data](articles/199238ba.json)
-
-[Extended Data](ext_articles/199238ba.ext.json)
-
----
-
-### Contempt of court case against Roshan Ranasinghe fixed for July 10
-
-*2024-04-05 11:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Contempt-of-court-case-against-Roshan-Ranasinghe-fixed-for-July-10/108-280234) · `en`
-
-Colombo, April 5 (Daily Mirror)- The Contempt of Court application filed against former Sports Minister Roshan Ranasinghe was today fixed for July 10 by the Court of Appeal.
-
-Attorney-at-Law Dimitri Shiraz Augustus Pietrangeli, filed this application challenging the alleged contemptuous conduct of the former Sports Minister during a parliamentary session on November 8, 2023.
-
-The petitioner is further seeking an order to impose sentence on the former Minister for contempt of court under Article 105(3) of the Constitution.
-
-The petitioner stated that the respondent former Minister during a parliamentary session on November 8 made several allegations regarding the alleged motives and reasons for the issuance of interim orders by Justice Nissanka Bandula Karunaratne.
-
-◼️
-
-[Data](articles/b9580c9d.json)
-
-[Extended Data](ext_articles/b9580c9d.ext.json)
 
 ---

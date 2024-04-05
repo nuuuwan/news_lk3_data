@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 18:09:05**
+As of **2024-04-05 18:21:06**
 
 ## Newspaper Stats
 
@@ -31,6 +31,54 @@ Extensions include translations and NER (Named Entity Recognition).
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### China gives visit to Sri Lanka - Sri Lankan cleric
+
+*2024-04-05 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180541) · `ta`
+
+Dr. Waskaduwe Mahinda Thera, a Sri Lankan Buddhist cleric, accused China of preventing his visit to Sri Lanka, despite calls from Sri Lankan Buddhist leaders for the Dalai Lama's visit. Thera expressed respect for the Dalai Lama and criticized China's interference, emphasizing the freedom of Buddhist leaders to invite the Dalai Lama.
+
+🟩
+
+A Sri Lankan Buddhist cleric has accused China of preventing visit to Sri Lanka
+
+This was stated by Dr. Waskaduwe Mahinda Thera, a group of Sri Lanka Buddhist Buddhists who gave the Buddha's sacred significance to the Dalai Lama.
+
+Responding to a question that China would have been furious about what China was on the Dalai Lama, he said that Buddhist leaders from Sri Lanka had called for a visit to Sri Lanka a few years ago.
+
+But he does not know why the problem is coming from China.
+
+As a Buddhist leader, we respect the Dalai Lama. He said that he was not a trader, Dr. Waskaduwe Mahindawansa Thera, who respected him and invited him to visit Sri Lanka. China did not want it to our government.
+
+We do not like this. He has a Buddhist leader. He has the freedom to invite him to Sri Lanka, ”Buddhism said.
+
+If the Dalai Lama visits Sri Lanka in the future, we will be great. Sri Lankans went to the Himalayas.
+
+...
+
+[Data](articles/a453cf91.json)
+
+[Extended Data](ext_articles/a453cf91.ext.json)
+
+---
+
+### Elephant - Human contradiction and increase deaths!
+
+*2024-04-05 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180525) · `ta`
+
+Elephant conflict escalates, leading to increased deaths. Former President Gotabhaya Rajapakse and current president established committees to address elephant rights. Minister Sarath Fonseka's initiatives aimed to relocate elephants from forests. Wildlife Ministers and Wildlife projects aim to resolve conflicts but lack weekly updates.
+
+🟩
+
+Elephant -Elephant -Human Right. Former President Gotabhaya Rajapakse formed a committee for this group.. Then the current president has set up a group again. When Sarath Fonseka came as a minister, he would take the elephants outside the forest.. Those who come to the Ministers of Wildlife and Wildlife will be able to convert and implement each project and resolutions, but there are no weekly weekly.
+
+◼️
+
+[Data](articles/fa484613.json)
+
+[Extended Data](ext_articles/fa484613.ext.json)
+
+---
 
 ### Central Bank announces about Gold Foreign Reserve
 
@@ -77,36 +125,6 @@ More than 220 humanitarian workers have been killed in the conflict so far, acco
 [Data](articles/7e3e659d.json)
 
 [Extended Data](ext_articles/7e3e659d.ext.json)
-
----
-
-### China gives visit to Sri Lanka - Sri Lankan cleric
-
-*2024-04-05 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180541) · `ta`
-
-Dr. Waskaduwe Mahinda Thera, a Sri Lankan Buddhist cleric, accused China of preventing his visit to Sri Lanka, despite calls from Sri Lankan Buddhist leaders for the Dalai Lama's visit. Thera expressed respect for the Dalai Lama and criticized China's interference, emphasizing the freedom of Buddhist leaders to invite the Dalai Lama.
-
-🟩
-
-A Sri Lankan Buddhist cleric has accused China of preventing visit to Sri Lanka
-
-This was stated by Dr. Waskaduwe Mahinda Thera, a group of Sri Lanka Buddhist Buddhists who gave the Buddha's sacred significance to the Dalai Lama.
-
-Responding to a question that China would have been furious about what China was on the Dalai Lama, he said that Buddhist leaders from Sri Lanka had called for a visit to Sri Lanka a few years ago.
-
-But he does not know why the problem is coming from China.
-
-As a Buddhist leader, we respect the Dalai Lama. He said that he was not a trader, Dr. Waskaduwe Mahindawansa Thera, who respected him and invited him to visit Sri Lanka. China did not want it to our government.
-
-We do not like this. He has a Buddhist leader. He has the freedom to invite him to Sri Lanka, ”Buddhism said.
-
-If the Dalai Lama visits Sri Lanka in the future, we will be great. Sri Lankans went to the Himalayas.
-
-...
-
-[Data](articles/a453cf91.json)
-
-[Extended Data](ext_articles/a453cf91.ext.json)
 
 ---
 
@@ -631,24 +649,6 @@ Meanwhile, police arrested six suspects who were aid for criminal gangs yesterda
 [Data](articles/13280c3d.json)
 
 [Extended Data](ext_articles/13280c3d.ext.json)
-
----
-
-### Elephant - Human contradiction and increase deaths!
-
-*2024-04-05 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180525) · `ta`
-
-Elephant conflict escalates, leading to increased deaths. Former President Gotabhaya Rajapakse and current president established committees to address elephant rights. Minister Sarath Fonseka's initiatives aimed to relocate elephants from forests. Wildlife Ministers and Wildlife projects aim to resolve conflicts but lack weekly updates.
-
-🟩
-
-Elephant -Elephant -Human Right. Former President Gotabhaya Rajapakse formed a committee for this group.. Then the current president has set up a group again. When Sarath Fonseka came as a minister, he would take the elephants outside the forest.. Those who come to the Ministers of Wildlife and Wildlife will be able to convert and implement each project and resolutions, but there are no weekly weekly.
-
-◼️
-
-[Data](articles/fa484613.json)
-
-[Extended Data](ext_articles/fa484613.ext.json)
 
 ---
 

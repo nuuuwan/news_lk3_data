@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 01:34:54**
+As of **2024-04-06 01:51:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,416 (99.9%) of 17,428 articles have been extended.
+17,426 (100.0%) of 17,428 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -152,6 +152,8 @@ Key highlights of the meeting included a thorough review of fuel cargo payment p
 
 [Data](articles/43b7f018.json)
 
+[Extended Data](ext_articles/43b7f018.ext.json)
+
 ---
 
 ### Embassy of Sri Lanka in Vienna promotes Ceylon tea and tourism in Austria and Hungary
@@ -165,6 +167,8 @@ These two events were organised in parallel to Sri Lankaâ€™s participation at tw
 ...
 
 [Data](articles/a6b8db01.json)
+
+[Extended Data](ext_articles/a6b8db01.ext.json)
 
 ---
 
@@ -184,6 +188,8 @@ AGEL is setting a precedent for how innovative technology, execution capabilitie
 
 [Data](articles/ae47c3b8.json)
 
+[Extended Data](ext_articles/ae47c3b8.ext.json)
+
 ---
 
 ### Hayleys Fentons wins Merit Award at Best Management Practices Company Awards 2024
@@ -201,6 +207,8 @@ The Best Management Practices Company Awards are organised by the esteemed Insti
 ...
 
 [Data](articles/558023d2.json)
+
+[Extended Data](ext_articles/558023d2.ext.json)
 
 ---
 
@@ -220,6 +228,8 @@ The announcement was made when the General Sales Agent (GSA) for both airlines â
 
 [Data](articles/630930a8.json)
 
+[Extended Data](ext_articles/630930a8.ext.json)
+
 ---
 
 ### Beam Hela Osu Lanka shines in silver at Golden Inmediens Awards
@@ -238,6 +248,8 @@ Organised by the State Ministry of Indigenous Medicine, the Lanka Ayurveda Promo
 
 [Data](articles/b5b2514c.json)
 
+[Extended Data](ext_articles/b5b2514c.ext.json)
+
 ---
 
 ### NSB champions tree planting this Avurudu with customers
@@ -251,6 +263,8 @@ In addition, two special gifts will be offered for the New Year transactions wit
 ...
 
 [Data](articles/a623e0f2.json)
+
+[Extended Data](ext_articles/a623e0f2.ext.json)
 
 ---
 
@@ -320,6 +334,8 @@ Today I remember these three gentlemen sending everyone into fits of laughter as
 
 [Data](articles/eec6b0e4.json)
 
+[Extended Data](ext_articles/eec6b0e4.ext.json)
+
 ---
 
 ### The Lasantha Wickrematunge legacy: Remembering his life and influence
@@ -334,6 +350,8 @@ I first met Lasantha when I was 14 years old in 2000. My family had just moved t
 
 [Data](articles/08fb04ff.json)
 
+[Extended Data](ext_articles/08fb04ff.ext.json)
+
 ---
 
 ### Reforming the global financial system for era of climate change
@@ -347,6 +365,8 @@ In an era of escalating climate risks and impacts, the global financial system s
 ...
 
 [Data](articles/2991dacc.json)
+
+[Extended Data](ext_articles/2991dacc.ext.json)
 
 ---
 

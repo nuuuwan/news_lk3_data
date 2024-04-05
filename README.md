@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 10:18:01**
+As of **2024-04-05 10:33:46**
 
 ## Newspaper Stats
 
-*Scraped **17,278** Articles*
+*Scraped **17,279** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,55 +20,81 @@ tamilmirrorlk | 2,044
 adaderanalk | 2,070
 virakesarilk | 2,512
 dailymirrorlk | 2,649
-adaderanasinhalalk | 2,791
+adaderanasinhalalk | 2,792
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,275 (100.0%) of 17,278 articles have been extended.
+17,278 (100.0%) of 17,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### ශ්‍රී ලංකාවේ ණය ගැන ජාත්‍යන්තර මූල්‍ය අරමුදලට ඇතිවූ විශ්වාසය
+### දේශබන්දු අධිකරණය හමුවට
+
+*2024-04-05 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195325) · `si`
+
+පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා මේ වන විට ශ්‍රේෂ්ඨාධිකරණයට පැමිණ තිබේ.
+
+ඒ, අරගල සිද්ධීන්වලින් පසුව ස්ථාන මාරුවීම් ලද පොලිස් ස්ථානාධිපතිවරුන් 05 දෙනෙකු විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් සම්බන්ධයෙන් කරුණු දැක්වීම සඳහා ය.
+
+◼️
+
+[Data](articles/2a9b8e2e.json)
+
+---
+
+### The IMF's confidence in Sri Lanka's debt
 
 *2024-04-05 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195324) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ දෙවැනි සමාලෝචනය සම්පූර්ණ වනවිට වාණිජ ණයහිමියන් සමග එකඟතාවයකට එළැඹීමට ශ්‍රී ලංකාවට හැකිවෙතැයි "දැඩි විශ්වාසයක්" ඇතැයි ජාත්‍යන්තර මූල්‍ය අරමුදල පැවසීය.
+The IMF has confidence in Sri Lanka's ability to restructure $12 billion loans, a key step out of the crisis, after completing the second review. Sri Lanka received $2.9 billion from the IMF in March, part of a 4-year program, pending executive approval.
 
-ඩොලර් බිලියන 12ක ණය ප්‍රතිව්‍යුහගතකරණය සඳහා ශ්‍රී ලංකාව මේ වනවිට බැඳුම්කරහිමියන් සමග සාකච්ඡා කරමින් පවතියි. එය ආරථික අර්බුදයෙන් ගොඩඒම සඳහා ශ්‍රී ලංකාවට අවශ්‍ය ම පියවරක් ලෙස සැලකෙයි.
+🟩
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ ප්‍රකාශිකා ජූලි කොසැක් මාධ්‍ය හමුවකදී ඒ බව පවසා තිබුණි.
+The International Monetary Fund said Sri Lanka would be able to reach an agreement with commercial creditors by completing the second review of the IMF.
 
-පසුගිය වසරේ මාර්තු මාසයේදී ඩොලර් බිලියන 2.9ක විස්තීර්ණ ණය පහසුකමක් ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාව ට අනුමත කළ අතර එය වසර 4ක වැඩසටහනකි.
+Sri Lanka is currently in talks with bonds to restructure $ 12 billion loans. It is considered necessary as a key to land from the crisis.
 
-ඒ යටතේ වූ දෙවැනි සමාලෝචනයට ශ්‍රී ලංකාව සහ ජාත්‍යන්තර මූල්‍ය අරමුදල කාර්ය මණ්ඩල මට්ටමින් එකඟතාවයකට එළැඹුණි.
+The International Monetary Fund Pressing was told at a press conference July Kosak.
 
-නමුත් එය ජාත්‍යන්තර මූල්‍ය අරමුදලේ විධායක මණ්ඩලය අනුමත කළ යුතු ය.
+In March last year, the International Monetary Fund was approved by $ 2.9 billion by the International Monetary Fund, which is a 4 year program.
+
+Sri Lanka and the International Monetary Fund (IMF) agree to the second review under that.
+
+But it should be approved by the International Monetary Fund Executive.
 
 ◼️
 
 [Data](articles/6a82551b.json)
 
+[Extended Data](ext_articles/6a82551b.ext.json)
+
 ---
 
-### අධිකරණයට අපහාස කළ බව කියූ සිද්ධියේ පෙත්සම කැඳවයි
+### The petition called the incident that claimed he was insulted into court
 
 *2024-04-05 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195323) · `si`
 
-අධිකරණයට අපහාස කළේ යැයි චෝදනා කරමින් හිටපු ක්‍රීඩා අමාත්‍ය රොෂාන් රණසිංහ මහතාට එරෙහිව ඉදිරිපත් කර තිබෙන පෙත්සම සලකාබැලීම සඳහා ජූලි මස 10 වනදා කැඳවන ලෙස අභියාචනාධිකරණය ඊයේ (04) නියෝග කළේය.
+The Court of Appeal ordered a petition against former Sports Minister Roshan Ranasinghe, accusing the President of the Court of Appeal. The petition, filed by Shiz Augustus Pitrajali's lawyer, will be heard by Marallus Court of Mohammed Lafar and Chamath Moraga.
 
-අභියාචනාධිකරණයේ සභාපති විනිසුරුවරයා සම්බන්ධයෙන් පාර්ලිමේන්තුවේදී සිදු කරනු ලැබූ ප්‍රකාශයකින් අධිකරණයට අපහාස කළේ යැයි චෝදනා කරමින් මෙම පෙත්සම ගොනුකර තිබේ.
+🟩
 
-මොහොමඩ් ලෆාර් සහ චමත් මොරායස් යන අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ පෙත්සම කැඳවීමට නියමිතය.
+The Court of Appeal yesterday (04) ordered the petition filed against former Sports Minister Roshan Ranasinghe.
 
-දිමිත්‍රී ශිරාස් ඔගස්ටස් පිට්‍රාංජලී නමැති නීතිඥවරියක විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබූ අතර එහි වගඋත්තරකරුවන් ලෙස හිටපු ක්‍රීඩා අමාත්‍ය රොෂාන් රණසිංහ මහතා නම් කෙරුණි.
+The petition has been filed accusing the President of the Court of Appeal.
+
+The petition is due to be called before the Marallus Court of Mohammed Lafar and Chamath Moraga.
+
+The petition was presented by a lawyer of the lawyer Shiz Augustus Pitrajali, and former Sports Minister Roshan Ranasinghe was named as respondents.
 
 ◼️
 
 [Data](articles/519b8fb9.json)
+
+[Extended Data](ext_articles/519b8fb9.ext.json)
 
 ---
 
@@ -273,6 +299,8 @@ Falling prey to the scams are about 500 foreign maids from South Asian countries
 ...
 
 [Data](articles/86a55248.json)
+
+[Extended Data](ext_articles/86a55248.ext.json)
 
 ---
 
@@ -2239,27 +2267,5 @@ While the armed gang, which was armed with the armed gang, all the people in the
 [Data](articles/90d14a32.json)
 
 [Extended Data](ext_articles/90d14a32.ext.json)
-
----
-
-### Sri Lanka offers general amnesty for military deserters
-
-*2024-04-04 17:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-offers-general-amnesty-for-military-deserters-157601/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ministry of Defence has declared a month long general amnesty from April 20 to May 20 for tri-forces absentees, enabling them to receive an official discharge from their respective services.
-
-Absentees of the army, navy and air force will receive their discharge from military service after they settle any financial obligations or amounts due, the ministry said in a statement.
-
-“Absentees who are presently abroad can also obtain discharge without reporting to their respective regiments conforming to following requirements:
-
-a. Those seeking discharge should have no pending disciplinary actions taken against them apart from that of being AWOL.
-
-b. Should have clearance from the Department of Immigration and Emigration confirming their travel abroad was done with legal documents and not on forged documents or by illegal means
-
-...
-
-[Data](articles/aeb512e5.json)
-
-[Extended Data](ext_articles/aeb512e5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 09:53:50**
+As of **2024-04-05 10:04:53**
 
 ## Newspaper Stats
 
-*Scraped **17,274** Articles*
+*Scraped **17,275** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 957
 adalk | 1,458
 tamilmirrorlk | 2,044
 adaderanalk | 2,069
-virakesarilk | 2,511
+virakesarilk | 2,512
 dailymirrorlk | 2,649
 adaderanasinhalalk | 2,789
 
@@ -26,49 +26,79 @@ adaderanasinhalalk | 2,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,270 (100.0%) of 17,274 articles have been extended.
+17,274 (100.0%) of 17,275 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### ஜனாதிபதிக்கும் பசிலுக்கும் இடையில் சந்திப்பு
+### கொழும்பில் பாதுகாப்பு கடமைகளில்  100 புலனாய்வு பிரிவு அதிகாரிகள்
+
+*2024-04-05 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180475) · `ta`
+
+மேல் மாகாணத்தில் 100 பொலிஸ்  புலனாய்வு பிரிவு அதிகாரிகள் தமது கடமைகளில் இருந்து விடுவிக்கப்பட்டு கொழும்பில் பாதுகாப்பு கடமைகளுக்கு மீண்டும் நியமிக்கப்பட்டுள்ளனர்.
+
+குறிப்பாக தமிழ் - சிங்கள புதுவருட காலத்தில் வாகன திருட்டு, தங்க நகை கொள்ளை போன்ற குற்றங்களை தடுப்பதற்கும் பாதுகாப்பை பலப்படுத்துவதற்கும் மேல்மாகாண புலனாய்வு பிரிவின் அதிகாரிகளை கொழும்பில் பொது கடமைகளில் ஈடுபடுத்துமாறு பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் பணிப்புரை விடுத்துள்ளார்.
+
+கடந்த சில வாரங்களாக, நாடளாவிய ரீதியில் பாதாள உலக மற்றும் போதைப்பொருள் செயற்பாடுகளுக்கு எதிரான நடவடிக்கைகளை பொலிஸார் தீவிரப்படுத்தியுள்ளனர்.
+
+◼️
+
+[Data](articles/b801256a.json)
+
+---
+
+### Meeting between President and Basil
 
 *2024-04-05 09:27:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கும்-பசிலுக்கும்-இடையில்-சந்திப்பு/175-335639) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் ஸ்தாபகர் பசில் ராஜபக்ஷவுக்கும் இடையில் மற்றுமொரு கலந்துரையாடல் இடம்பெற்றுள்ளது.
+President Ranil Wickremesinghe met with Basil Rajapaksa, founder of Sri Lanka Peoples Alliance, to discuss political affairs and elections. This was the third meeting between them.
 
-எதிர்வரும் அரசியல் விவகாரங்கள் மற்றும் தேர்தல்கள் தொடர்பிலும் பல விடயங்கள் கலந்துரையாடப்பட்டதாக ஸ்ரீ லங்கா பொதுஜன பெரமுன குறிப்பிட்டுள்ளது.
+🟩
 
-பசில் ராஜபக்ஷவுக்கும் ரணில் விக்கிரமசிங்கவுக்கும் இடையில் இதற்கு முன்னர் இரண்டு கலந்துரையாடல்கள் இடம்பெற்றிருந்தன.
+Another discussion has been held between President Ranil Wickremesinghe and the founder of the Sri Lanka Peoples Alliance Basil Rajapaksa.
+
+The Sri Lanka PA has stated that many issues have been discussed on the upcoming political affairs and elections.
+
+Earlier there were two discussions between Basil Rajapaksa and Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/8296ab19.json)
 
+[Extended Data](ext_articles/8296ab19.ext.json)
+
 ---
 
-### 'இரண்டு தேர்தல்களை ஒரே நாளில் நடத்த முடியாது'
+### 'Can't hold two elections overnight'
 
 *2024-04-05 09:24:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-தேர்தல்களை-ஒரே-நாளில்-நடத்த-முடியாது/175-335638) · `ta`
 
-ஜனாதிபதி தேர்தலையும் பொதுத் தேர்தலையும் ஒரே நாளில் நடத்துவது சாத்தியமில்லை என தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+The Election Commission stated it's unlikely to hold the presidential and general elections on the same day, citing practical challenges and voter confusion.
 
-இந்த நாட்டில் தேர்தல் நடத்தும் முறைப்படி அது நடைமுறைச் சாத்தியம் இல்லை என்று மூத்த அதிகாரி ஒருவர் தெரிவித்தார்.
+🟩
 
-ஜனாதிபதித் தேர்தலையும் பொதுத் தேர்தலையும் ஒரே நாளில் நடத்துவதற்கு ஏற்பாடுகள் இருப்பதாக அரசியல் கட்சிப் பிரதிநிதிகள் தெரிவித்த கருத்து குறித்து கேட்டபோதே தேர்தல்கள் ஆணைக்குழு இதனைத் தெரிவித்துள்ளது.
+The Election Commission said it was unlikely to hold the presidential election and general election on the same day.
 
-ஜனாதிபதித் தேர்தலுக்கு நாடளாவிய ரீதியில் ஒரே ஒரு உத்தியோகபூர்வ வாக்குச் சீட்டு மட்டுமே வழங்கப்படும்.
+A senior official said that it is not possible in this country.
 
-ஆனால் பொதுத் தேர்தலுக்காக 22 தேர்தல் மாவட்டங்களுக்கு 22 வாக்குச் சீட்டுகள் வழங்கப்பட வேண்டும் என அவர் சுட்டிக்காட்டியுள்ளார்.
+The Elections Commission said this when the political party representatives commented that there were arrangements to hold the presidential election and the general election on the same day.
 
-மேலும், ஒரே நேரத்தில் இரண்டு தேர்தல்களை நடத்துவது குறித்தும், அங்கு வாக்களிப்பது குறித்தும் இந்த நாட்டில் உள்ள வாக்காளர்களுக்கு சரியான தெளிவு இல்லை என்றும் தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+The presidential election will be given only one official ballot nationwide.
 
-பல நடைமுறைச் சிக்கல்கள் காரணமாக தற்போது ஜனாதிபதித் தேர்தலையும் பொதுத் தேர்தலையும் ஒரே நாளில் நடத்த முடியாது என தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+But he pointed out that 22 ballots should be given to 22 election districts for the general election.
 
-...
+The Elections Commission said that voters in this country are not clear about holding two elections at the same time and voting there.
+
+The Elections Commission said that due to many practical problems, the present presidential and general election cannot be held on the same day.
+
+Meanwhile, the Elections Commission has said that no party has so far requested that the presidential election and the general election be held on the same day.
+
+◼️
 
 [Data](articles/6d5ce460.json)
+
+[Extended Data](ext_articles/6d5ce460.ext.json)
 
 ---
 
@@ -165,6 +195,8 @@ He said the SLHRC had received 9,417 public complaints against the police for 20
 ◼️
 
 [Data](articles/77ff0d96.json)
+
+[Extended Data](ext_articles/77ff0d96.ext.json)
 
 ---
 
@@ -2241,23 +2273,5 @@ President's Counsel Upul Kumarapperuma, who was presented to the wisher of the d
 [Data](articles/c5ec7d40.json)
 
 [Extended Data](ext_articles/c5ec7d40.ext.json)
-
----
-
-### Kamindu among ICC contenders for March Player of the Month awards
-
-*2024-04-04 17:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kamindu-among-ICC-contenders-for-March-Player-of-the-Month-awards/108-280192) · `en`
-
-Apr. 4 (ICC) - The International Cricket Council (ICC) today revealed the shortlist of candidates in contention to scoop the ICC Men’s and Women’s Player of the Month awards for performances in March.
-
-The ICC Player of the Month awards highlight the outstanding individual performers on the international cricket stage, and the names shortlisted for March spans a range of formats.
-
-The ICC Men’s Player of the Month shortlist includes a key architect in Ireland’s first ever men’s Test victory, a prolific frontline bowler from New Zealand, and a record-breaking Sri Lankan Test run-scorer.
-
-...
-
-[Data](articles/660fa0b2.json)
-
-[Extended Data](ext_articles/660fa0b2.ext.json)
 
 ---

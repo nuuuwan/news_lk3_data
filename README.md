@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 19:33:58**
+As of **2024-04-05 19:51:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,813
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,376 (100.0%) of 17,378 articles have been extended.
+17,378 (100.0%) of 17,378 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,31 +46,43 @@ This price drop comes as a result of the continuous appreciation of Sri Lankan R
 
 [Data](articles/9f5a66ac.json)
 
+[Extended Data](ext_articles/9f5a66ac.ext.json)
+
 ---
 
-### කොන්ක්‍රීට් සිලින්ඩරයක් ඇඟට පෙරළී දරුවෙකු මියයෑමේ සිද්ධියේ සැකකරුවන් රිමාන්ඩ්
+### Suspects in death of death of a child topple concrete cylinder
 
 *2024-04-05 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195347) · `si`
 
-කොන්ක්‍රීට් සිලින්ඩරයක් ඇඟට පෙරළීමෙන් මස්කෙළියේ පාසැලක දරුවෙකු මියයෑමේ සිදුවීම සම්බන්ධයෙන් අත්අඩංගුවට ගත් පුද්ගලයින් පස්දෙනා මේ මස 10 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+A child was killed when a concrete cylinder rolled into a school toilet, causing a collapse. Five suspects were remanded until the 10th. The incident occurred at Sahanala College, where the cylinder was part of development activities.
 
-හැටන් මහෙස්ත්‍රාත් එම්. ෆරුක්ඩින් මහතා විසින් අද (05) එම නියෝගය ලබාදී තිබිණි.
+🟩
 
-අදාළ සිදුවීමෙන් මස්කෙළිය ගාඩ්මෝර් දමිළ විද්‍යාලයේ 6 වැනි ශ්‍රේණියේ ඉගෙනුම ලැබූ 11 හැවිරිදි එස්. අනිෂන් දරුවෙකු ජීවිතක්ෂයට පත්වුණි.
+Five of the arrested persons were remanded until the 10th of this month due to a concrete cylinder.
 
-මස්කෙලිය ගාඩ්මෝර් දමිළ විද්‍යාල භූමියේ මෙලෙස අනාරක්ෂිත අයුරින් ගොඩගසා ඇත්තේ, අසල වතුයායක සංවර්ධන කටයුත්තක් සඳහා ගෙන එන ලද කෝන්ක්‍රීට් සිලින්ඩර කිහිපයකි.
+Hatton Magistrate M. Mr. Fauucdin was given that order today (05).
 
-ඊයේ පස්වරු 1.30ට පමණ එම විද්‍යාලයේ දරුවන් කිහිපදෙනකු පාසලේ වැසිකිළිය අසළ තිබූ මෙම කොන්ක්‍රීට් සිලින්ඩර අසලට පැමිණ තිබිණි.
+Maskeliya Gardmore, 11th Grade 6, Sahanala College, 11 year old. A unimpati child was killed.
 
-එම සිලින්ඩරය පෙරළීමත් සමග දරුවා විසිවී ගොස් ගැටී තිබුණේ අසල පිහිටි වැසිකිලි බිත්තියේය.
+There are several corncreat cylinders brought to a nearby estate development activities in the Gardmore grounds of Maskeliya.
 
-සිලින්ඩරයට සහ වැසිකිළියේ බිත්තියකට මැදිව සිරව බරපතළ තුවාල ලැබූ දරුවා ඇතුළත් කරනු ලැබුවේ, මස්කෙළිය ප්‍රාදේශීය රෝහලටය.
+Several children at the school were near the toilet near the school at around 1.30 pm yesterday.
 
-අප වාර්තාකරු පැවසුවේ, රෝහල් ගත කිරීමෙන් පසු දරුවා ජීවිතක්ෂයට පත්ව ඇති බවය.
+With the rolling of the cylinder, the child was twented with the nearby toilets.
 
-...
+The Maskeliya Regional Hospital was admitted to the Maskeliya Regional Hospital.
+
+Our correspondent said that the child died after being hospitalized.
+
+When we look, we were revealed that the concrete cylinder would not belong to the concrete cylinder.
+
+Residents say they were brought to a development project near the school and had kept insecurity in the school.
+
+◼️
 
 [Data](articles/d3eca8d3.json)
+
+[Extended Data](ext_articles/d3eca8d3.ext.json)
 
 ---
 

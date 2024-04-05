@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 01:18:16**
+As of **2024-04-06 01:34:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,411 (99.9%) of 17,428 articles have been extended.
+17,416 (99.9%) of 17,428 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The delegations discussed potential to further enhance economic relations. Sri L
 
 [Data](articles/4f361546.json)
 
+[Extended Data](ext_articles/4f361546.ext.json)
+
 ---
 
 ### SJB signs MOU with section of Nidahasa Janatha Sabawa
@@ -55,6 +57,8 @@ A section of the Nidahasa Janatha Sabawa yesterday signed an MOU with the Samagi
 ◼️
 
 [Data](articles/bc3ed2fc.json)
+
+[Extended Data](ext_articles/bc3ed2fc.ext.json)
 
 ---
 
@@ -74,6 +78,8 @@ Tourism is one of the largest foreign exchange earners in the country.
 
 [Data](articles/7cab4f81.json)
 
+[Extended Data](ext_articles/7cab4f81.ext.json)
+
 ---
 
 ### Karuna loses Eastern battle but Prabhakaran loses Eelam war
@@ -85,6 +91,8 @@ The once-powerful Liberation Tigers of Tamil Eelam (LTTE) waged war against the 
 ...
 
 [Data](articles/89a33f5e.json)
+
+[Extended Data](ext_articles/89a33f5e.ext.json)
 
 ---
 
@@ -101,6 +109,8 @@ Sirisena while talking to media in Kandy claimed on March 22 that he knew who re
 ...
 
 [Data](articles/d1231ada.json)
+
+[Extended Data](ext_articles/d1231ada.ext.json)
 
 ---
 

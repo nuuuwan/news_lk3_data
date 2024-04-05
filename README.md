@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 14:07:08**
+As of **2024-04-05 14:33:49**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,798
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,320 (100.0%) of 17,322 articles have been extended.
+17,322 (100.0%) of 17,322 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### වාහන ගෙන්වන්නේ සංචාරක කර්මාන්තය සඳහාම පමණයි
+### Vehicles only imported for tourism
 
 *2024-04-05 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195332) · `si`
 
-ආනයනය කිරීම සඳහා අවසර ලබාදී ඇත්තේ සංචාරක ක්ෂේත්‍රය සඳහා භාවිත කරන රථවාහන පමණක් බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+State Minister Ranjith Siyambalapitiya announced that vehicle imports are restricted to tourism, citing criteria compliance and a halt due to exchange issues. Despite reducing the age limit to 6 years, older vehicles are now being imported. To address this, the Cabinet has decided to create 250 buses and 750 vans for tourism, with about 1000 vehicles paid for.
 
-මාධ්‍යයට අදහස් දක්වමින් රාජ්‍ය අමාත්‍යවරයා පැවසුවේ ලබාදී ඇති නිර්නායකයන්ට අනුව මෙම ක්‍රියාවලිය සිදුවන බවය.
+🟩
 
-"රටේ තිබෙන විනිමය ප්‍රශ්නයත් එක්ක අපි වාහන ගේන ඒක නතර කළා. නමුත් සංචාරක කර්මාන්තයේදී අවුරුදු 6කට වඩා පැරණි වාහන පාවිච්චි කරන්නේ නැහැ. දැන් අපේ තියෙන වාහන ටික පැරණි වේගෙන එනවා. තියෙන වාහන ප්‍රමාණය මදිවෙලා තියෙනවා. ඒ නිසයි කැබිනට් මණ්ඩලය තීරණයක් ගත්තේ සංචාරක කර්මාන්තය සඳහාම අරමුණු කරගෙන බස් 250ක් සහ වෑන් 750ක් ගේන්න. වාහන 1000ක් පමණමයි ගෙන්නේ."
+State Minister Ranjith Siyambalapitiya says that the import is allowed only traffic for the tourism industry.
+
+Speaking to the media, the State Minister said this process was done according to the criteria provided.
+
+"With the exchange issue in the country we stopped it. But in tourism does not use vehicles older than 6 years. Now our vehicles are coming older. The number of vehicles have been reduced. That's why the Cabinet decided to create 250 buses for tourism and 750 vans. About 1000 vehicles are paid. "
 
 ◼️
 
 [Data](articles/876ebc05.json)
+
+[Extended Data](ext_articles/876ebc05.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ He said that South Korea, as a member of the Paris Club, will always stand there
 ...
 
 [Data](articles/57d126b2.json)
+
+[Extended Data](ext_articles/57d126b2.ext.json)
 
 ---
 

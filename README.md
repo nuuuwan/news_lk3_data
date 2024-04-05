@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 22:05:15**
+As of **2024-04-05 22:18:17**
 
 ## Newspaper Stats
 
-*Scraped **17,394** Articles*
+*Scraped **17,395** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 2,051
 adaderanalk | 2,092
 virakesarilk | 2,539
 dailymirrorlk | 2,665
-adaderanasinhalalk | 2,815
+adaderanasinhalalk | 2,816
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,392 (100.0%) of 17,394 articles have been extended.
+17,394 (100.0%) of 17,395 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### අවුරුදු උත්සවවලට උපදේශන මාලාවක්
+
+*2024-04-05 21:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195350) · `si`
+
+එළැඹෙන සිංහල හා දමිළ අලුත් අවුරුද්දට සමගාමීව පවත්වන අවුරුදු උත්සවවල සංස්කෘතියට පටහැනි වන ආකාරයේ උත්සව අංග සහ ක්‍රීඩා ඇතුළත් කර තිබේ නම් ඒ පිළිබඳව නීතිමය ක්‍රියාමාර්ග ගන්නා බව බුද්ධශාසන, ආගමික හා සංස්කෘතිය කටයුතු අමාත්‍ය විදුර වික්‍රමනායක මහතා පවසයි.
+
+අවුරුදු උත්සවවල පවත්වන සදාචාර විරෝධී උත්සව අංග ඉවත් කිරීම හා නිර්මාණාත්මක අංග එකතු කිරීම පිළිබඳව යෝජනා ඉදිරිපත් කිරීමේ අද (05) පැවති මාධ්‍ය හමුවට එක්වෙමින් අමාත්‍යවරයා මේ බව ප්‍රකාශ කළේය.
+
+අවුරුදු උත්සව පැවැත්වීමට අදාළ උපදේශන මාලාවක් මේ වන විට සියලුම දිස්ත්‍රික් ලේකම්වරු මාර්ගයෙන් ප්‍රාදේශීය ලේකම්වරු වෙත ලබා දී තිබේ.
+
+ඒ අනුව අවුරුදු උත්සවවලට ඇතුළත් කර ඇති උත්සව අංග සහ ක්‍රීඩා අදාළ ප්‍රාදේශීය ලේකම් කාර්යාලය වෙත ලබා දී ලියාපදිංචි කළ යුතු බවත්, ඉන්පසු ශබ්ද විකාශන යන්ත්‍ර භාවිතා කිරීම සඳහා පොලීසියේ  අනුමැතිය ලබා ගත යුතුය.
+
+...
+
+[Data](articles/eddd8ac7.json)
+
+---
 
 ### New York buildings rattled by rare East Coast earthquake
 
@@ -57,6 +75,8 @@ Charita Walcott, a 38-year-old resident in the Bronx, said the quake felt “lik
 ...
 
 [Data](articles/5aa9d9f1.json)
+
+[Extended Data](ext_articles/5aa9d9f1.ext.json)
 
 ---
 
@@ -1005,6 +1025,8 @@ Lasantha would have been 66 years young today. Did he not have a right to see hi
 ...
 
 [Data](articles/9bc45fbc.json)
+
+[Extended Data](ext_articles/9bc45fbc.ext.json)
 
 ---
 
@@ -2295,29 +2317,5 @@ The legal counsels representing the petitioners presented facts before a three-m
 [Data](articles/4ad976a5.json)
 
 [Extended Data](ext_articles/4ad976a5.ext.json)
-
----
-
-### IMF says “strong expectation” on Sri Lanka deal with private creditors
-
-*2024-04-05 10:18:00* · [`economynextcom`](https://economynext.com/imf-says-strong-expectation-on-sri-lanka-deal-with-private-creditors-157659/) · `en`
-
-ECONOMYNEXT – There are strong expectations of agreements being reached with commercial creditors, the International Monetary Fund Communications Director Julie Kozack, said.
-
-“[T]here is a strong expectation that agreements with commercial creditors consistent with program parameters will be reached by completion of the second review,” she told reporters in Washington.
-
-Domestic state enterprise debt re-structuring is expected to completed soon, Deputy Central Bank Governor Yvette Fernando told a business forum earlier this week.
-
-Related Sri Lanka private banks unlikely to need state recapitalization
-
-Sri Lanka is in talks with both International Sovereign Bond Holders and other creditors like China Development Bank to conclude a deal.
-
-Finalized bilateral restructuring agreements and a deal with private credits are required to complete the second review of the IMF program.
-
-...
-
-[Data](articles/e92d491d.json)
-
-[Extended Data](ext_articles/e92d491d.ext.json)
 
 ---

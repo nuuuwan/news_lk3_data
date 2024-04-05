@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 13:18:12**
+As of **2024-04-05 13:34:05**
 
 ## Newspaper Stats
 
-*Scraped **17,314** Articles*
+*Scraped **17,319** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,45 +16,111 @@ dailyftlk | 944
 islandlk | 950
 economynextcom | 962
 adalk | 1,461
-tamilmirrorlk | 2,046
-adaderanalk | 2,077
-virakesarilk | 2,520
-dailymirrorlk | 2,653
+tamilmirrorlk | 2,047
+adaderanalk | 2,078
+virakesarilk | 2,522
+dailymirrorlk | 2,654
 adaderanasinhalalk | 2,797
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,313 (100.0%) of 17,314 articles have been extended.
+17,314 (100.0%) of 17,319 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### සරසවි සිසු විනෝද් බෝඩිමේදී මරුට
+### ‘Dunhinda Odyssey’ special luxury tourist train inaugurated
+
+*2024-04-05 13:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98445/dunhinda-odyssey-special-luxury-tourist-train-inaugurated-) · `en`
+
+The special luxury tourist train ‘Dunhinda Odyssey’ was launched this morning (05), to mark the centenary of the inception of train services on the Colombo - Badulla line.
+
+The maiden journey of ‘Dunhinda Odyssey’ kicked off at Colombo Fort railway station at 06.30 a.m. this morning, under the patronage of Minister of Transport and Highways Bandula Gunawardena.
+
+‘Dunhinda Odyssey’ is the third of the ‘Odyssey’ train series launched by Sri Lanka Railways aimed at facilitating tourists, and it comes years after the launch of ‘Ella Odyssey’ and ‘Seethawaka Odyssey’.
+
+Set to dedicate for passenger transportation following the inauguration, the train fare for a first class ticket will be Rs. 8,000, Rs. 6,000 for second class while a third class ticket will be priced at Rs. 5,000 between Colombo Fort to Badulla/Ella.
+
+The train will operate from Colombo Fort to Badulla every Tuesday, Friday and Sunday at 6.30 a.m. and from Badulla to Colombo Fort on every Monday, Wednesday and Saturday at 8.00 a.m.
+
+...
+
+[Data](articles/3f135c57.json)
+
+---
+
+### தனியார் பஸ் -  மோட்டார் சைக்கிள் மோதி விபத்து ; இரு யுவதிகள் வைத்தியசாலையில்
+
+*2024-04-05 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180506) · `ta`
+
+புதுக்குடியிருப்பு பகுதியில் பஸ் ஒன்றும் ,மோட்டார் சைக்கிளும் நேருக்கு நேர் மோதியதில் இரு யுவதிகள் காயமடைந்துள்ளனர்.
+
+இன்று வெள்ளிக்கிழமை (05) காலை இடம்பெற்ற விபத்து சம்பவம்  குறித்து மேலும் தெரியவருவதாவது,
+
+விசுவமடுவில் இருந்து  திருகோணமலை நோக்கிச் சென்ற தனியார் பஸ் ஒன்றும் முல்லைத்தீவில் இருந்து ஒட்டுசுட்டான் நோக்கி சென்ற இரு யுவதிகள் பயணித்த மோட்டார் சைக்கிள் ஒன்றும்    புதுக்குடியிருப்பு குழந்தையேசு  ஆலயத்திற்கு முன்பாகவுள்ள முல்லைத்தீவு பிரதான வீதியில் நேருக்கு நேர் மோதுண்டு விபத்திற்குள்ளாகியுள்ளது.
+
+குறித்த விபத்தின் போது மோட்டார் சைக்கிளில் பயணித்த  இரு யுவதிகளும் படுகாயமடைந்த நிலையில்  புதுக்குடியிருப்பு வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர்  மேலதிக சிகிச்சைக்காக முல்லைத்தீவு மாவட்ட வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டுள்ளனர்.
+
+விபத்து சம்பவம் தொடர்பான முதற்கட்ட விசாரணையில்  யுவதிகளின் விபத்திற்கு தொலைபேசி பாவனையே காரணம் என தெரிய வந்துள்ளது. எனினும் இது தொடர்பான மேலதிக விசாரணைகளை  புதுக்குடியிருப்பு பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/b5efd435.json)
+
+---
+
+### வடக்கு நோக்கி நகரும் சூரியன் - காலநிலையில் பாரிய மாற்றம்
+
+*2024-04-05 13:04:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-நோக்கி-நகரும்-சூரியன்-காலநிலையில்-பாரிய-மாற்றம்/175-335644) · `ta`
+
+சூரியனின் வடக்கு நோக்கிய நகர்வின் காரணமாக இன்று (05) முதல் எதிர்வரும் 15ஆம் திகதி வரையில், சூரியன் இலங்கையின் பல பிரதேசங்களை அண்மித்ததாக நகர்ந்து செல்லுமென சிரேஸ்ட வானிலை அதிகாரி கலாநிதி மொஹமட் சாலிஹீன் தெரிவித்துள்ளார்.
+
+இதையடுத்து இன்று மதியம் 12.12 மணியளவில் வலப்பிட்டிய, எல்பிட்டிய, மொறவக்க மற்றும் திஸ்ஸமஹாராம போன்ற இடங்களுக்கு நேராக சூரியன் உச்சம் கொடுக்கும் என்றும் குறிப்பிட்டார்.
+
+மேலும், வடக்கு, கிழக்கு, வட மத்திய, வட மேல், சபரகமுவ, மேல் மற்றும் தென் மாகாணங்களிலும் மொனராகலை மாவட்டத்திலும் இன்று அதிகரித்த வெப்பநிலை காணப்படும்.
+
+சபரகமுவ மற்றும் மேல் மாகாணங்களின் பல இடங்களிலும், காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும், பிற்பகல் 02 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+வடமேல் மாகாணத்திலும் மன்னார் மற்றும் நுவரெலியா மாவட்டங்களின் சில இடங்களிலும் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்பு காணப்படுவதாக சிரேஸ்ட வானிலை அதிகாரி கலாநிதி மொஹமட் சாலிஹீன் மேலும் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/805b5b52.json)
+
+---
+
+### University students dies in a boasting of Vinodh
 
 *2024-04-05 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195330) · `si`
 
-මොරටුව විශ්වවිද්‍යාලයේ ඉගෙනුම ලැබූ සිසුවෙකු මොරටුව මෝල්පේ ප්‍රදේශයේ පිහිටි සිය තාවකාලික නවාතැන් කාමරයේදී ඊයේ මධ්‍යම රාත්‍රියේ හදිසියේ රෝගීවී මියගොස් තිබේ.
+A Moratuwa University student, Sathaasivum Vinadtu, died suddenly in the early hours of yesterday at a temporary shelter. He was a final year Architecture student from Hali Ela. The incident occurred while he was using a mobile phone near a shop near the lodge. A friend described the scene as a scream from inside the room, leading to his hospitalization and eventual death.
 
-ඔහු වාස්තු විද්‍යා පීඨයේ අවසන් වසරේ සිසුවකු වන අතර පිළියන්දල දිසා රෝහලට ඇතුළත් කරන විටත් ඔහු මියගොස් සිටි බව වාර්තා විය.
+🟩
 
-මෙලෙස මියගොස් ඇත්තේ, සතාසිවම් විනෝද් නැමති හාලිඇල ප්‍රදේශයේ පදිංචි සිසුවෙකි.
+A student of the Moratuwa University student was suddenly sick in midnight yesterday at the temporary shelter in Moratuwa.
 
-මිතුරන් සමග නවාතැන ආසන්නයේ පිහිටි වෙළෙඳසැලකින් ඊයේ මධ්‍යම රාත්‍රී 12.30ට පමණ තේ පානය කර නැවත නවාතැන වෙත පැමිණි සිය සිසුවා ජංගම දුරකථනය භාවිත කරමින් සිටියදී හදිසියේ අසනීප වී තිබුණි.
+He is a final year of the Faculty of Architecture and he was also killed when he was admitted to the District Hospital.
 
-මියගිය සිසුවාගේ මිතුරෙක් පැවසුවේ, "අපි හතර දෙනෙක් බෝඩිමේ එක කාමරේ ඉන්නවා. එක්කෙනෙක් ඇතුළේ ඉඳන් කෑ ගැහුවා ටක්ගාලා වරෙන් කියලා. මම ඇවිත් බලනකොට එයා ඇස්වහගෙන මෙහෙම කරගෙන හිටියා. අපි හතරදෙනාම උස්සලා හොස්පිට්ල් එකට අරන් ආවාට පස්සේ තමයි කිව්වේ අරන් එනකොටත් නැතිවෙලා කියලා".
+The deceased is Sathaasivum Vinadtu, a student from the Hali Ela area.
+
+A shop near the lodge near the lodge was a sudden sick while using the mobile phone.
+
+A friend of the deceased student said: "We have four room in the border. The shouting in the inside was a scream from inside. I came and looked up, he was on my eyes and doing this. It was only after all of us were taken to Hospitle. "
 
 ◼️
 
 [Data](articles/8db57259.json)
 
+[Extended Data](ext_articles/8db57259.ext.json)
+
 ---
 
 ### Gaza's 12 -year -old medical assistant
 
-*2024-04-05 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/180500) · `ta`
+*2024-04-05 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180500) · `ta`
 
 A 12-year-old boy, Jagariaz, volunteers as a medical assistant at Al-Aksha Hospital in Gaza, helping with tasks like fitting cannulas and providing medicines. Despite the war's impact, he's determined to help, driven by the need to support his family.
 
@@ -83,6 +149,24 @@ Israel's attack after the seventh of October has been killed by 364 medical staf
 [Data](articles/d408e802.json)
 
 [Extended Data](ext_articles/d408e802.ext.json)
+
+---
+
+### வலி வடக்கில் காணி சுவிகரிக்க  நடவடிக்கை மக்கள் எதிர்பினால் அளவீட்டு பணி நிறுத்தம்
+
+*2024-04-05 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180504) · `ta`
+
+யாழ்ப்பாணம் கீரிமலை ஜனாதிபதி மாளிகை அமைந்துள்ள காணிகளை நகர அபிவிருத்தி நடவடிக்கைக்காக சுவீகரிப்பதற்கான அளவீட்டுப்பணி இன்றைய தினம் வெள்ளிக்கிழமை முன்னெடுக்கப்பட இருந்த நிலையில் மக்களின் எதிர்ப்பால் கைவிடப்பட்டுள்ளது.
+
+குறித்த காணி அளவீட்டுக்கு காணி உரிமையாளர்கள் மற்றும் பொதுமக்கள் எதிர்ப்பை வெளியிட்டதுடன் நில அளவைத்திணைக்களத்தின் வாகனத்தினையும் இடைமறித்து போராட்டத்தில் ஈடுபட்டனர்.
+
+காணி உரிமையாளர்களின் எதிர்ப்பினை அடுத்து காணியினை அளவீடு செய்வதற்கு தமக்கு விருப்பம் இல்லை என காணி உரிமையாளர்கள் கடிதம் எழுதி கையொப்பமிட்டு வழங்கியதை அடுத்து நில அளவைத்திணைக்கள அதிகாரிகள் அங்கிருந்து திரும்பிச் சென்றனர்.
+
+தெல்லிப்பளை பிரதேச செயலக பிரிவின் கீழ் உள்ள நகுலேஸ்வரம் ஜே/226 மற்றும் காங்கேசன்துறை ஜே/233 ஆகிய கிராம சேவகர் பிரிவுகளில் உள்ள ஆழ்வான்மலையடி, வேலர்காடு, புண்ணன்புதுக்காடு, பத்திராயான், புதுக்காடு, சோலைசேனாதிராயன் ஆகிய பகுதிகளில் உள்ள சுமார் 29 ஏக்கர் காணிகளை சுவீகரிக்கும் நோக்குடன் இந்த அளவீட்டு பணிகள் முன்னெடுக்கப்பட இருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/79ebd254.json)
 
 ---
 
@@ -1015,6 +1099,28 @@ Falling prey to the scams are about 500 foreign maids from South Asian countries
 [Data](articles/dc8a8ac3.json)
 
 [Extended Data](ext_articles/dc8a8ac3.ext.json)
+
+---
+
+### SOE reforms must move ahead without disruptions: Shah
+
+*2024-04-05 08:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SOE-reforms-must-move-ahead-without-disruptions-Shah/108-280211) · `en`
+
+SOERU head says slowdown depends very much on the politicians
+
+Says process must continue regardless of which party comes into power
+
+Advocata institute says current pace “just enough” for SL to avoid another crisis, but not enough move towards positive trajectory
+
+It is essential for the reforms planned for the government owned entities to go ahead without further disruptions, else it is the general public that will continue to take on the burden, State Owned Enterprises Restructuring Unit (SOERU) Head Suresh Shah said.
+
+When questioned if the upcoming elections will slow down efforts, as cautioned by the World Bank (WB) and the Asian Development Bank (ADB), Shah responded stating it better not be the case.
+
+“Whether it will slow down or not depends very much on the politicians and how they look at it. We can only hope there is no slowdown,” said Shah, speaking to Mirror Business on the sidelines of an ADB event this week.
+
+...
+
+[Data](articles/b4744265.json)
 
 ---
 
@@ -2173,103 +2279,5 @@ In an adequate drinking water, the rest of the shade, which can be followed by t
 [Data](articles/2be2ff24.json)
 
 [Extended Data](ext_articles/2be2ff24.ext.json)
-
----
-
-### School student dies after concrete bay collapse in Maskeliya
-
-*2024-04-04 21:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/School-student-dies-after-concrete-bay-collapse-in-Maskeliya/108-280199) · `en`
-
-Colombo, April 04 - Tragedy struck when a concrete bay collapsed killing a pupil of the Gartmore Tamil High School in Maskeliya today.
-
-Maskeliya police reported that 11-year-old S. Anishan, a sixth-year student at the school and a resident of Maskeliya, succumbed to his injuries after being rushed to the hospital.
-
-According to authorities, the concrete bay collapsed as part of a tea garden development project being undertaken in the school grounds. The mishap occurred during school hours.
-
-◼️
-
-[Data](articles/9c40e537.json)
-
-[Extended Data](ext_articles/9c40e537.ext.json)
-
----
-
-### 68 suspects arrested over torching of Sanath Nishantha’s house released
-
-*2024-04-04 20:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98433/68-suspects-arrested-over-torching-of-sanath-nishanthas-house-released) · `en`
-
-The Chillaw Magistrate’s Court has ordered the release of all 68 individuals who were arrested on suspicion of involvement in the torching of late State Minister Sanath Nishantha’s residence.
-
-Attorney-at-Law Sweeney Perera, who appeared on behalf of the aforementioned suspects, stated that this order was issued by the Chillaw Magistrate today (04) when the case was taken up.
-
-He further stated that the court decided to release all the suspects of the case due to the death of both witnesses in the case and the failure of the police to present any evidence against the accused to the court.
-
-◼️
-
-[Data](articles/933f79bc.json)
-
-[Extended Data](ext_articles/933f79bc.ext.json)
-
----
-
-### Protest for promised jobs...
-
-*2024-04-04 20:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protest-for-promised-jobs/110-280196) · `en`
-
-The Joint Centre for Unemployed Graduates staged a protest outside the Fort Railway Station today urging the authorities to provide them with jobs that were promised earlier. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/2799f89d.json)
-
-[Extended Data](ext_articles/2799f89d.ext.json)
-
----
-
-### Court notifies Maithri's statement
-
-*2024-04-04 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195313) · `si`
-
-Adobanda Magistrate Lulchini Abeywickrama notified Maithripala Sirisena's statement on the Passover attack. Sirisena received a statement for over 5 hours, but the CID couldn't be given due to a motion filed in court. The case was reopened in court, with the CID making a report. Rajitha Lakmal was reported as responsible for the attack. The Magistrate criticized Sirisena's behavior and mentioned the possibility of imprisonment under the Penal Code. Sanderarachchi defended Sirisena, stating he's not obstructing the investigation. The case was postponed until May 10.
-
-🟩
-
-Adobanda Magistrate Lulchini Abeywickrama stated that the report of former President Maithripali Sirisena, who had former President Maithripala Sirisena, the statement of the Passover attack is a suitable period of time.
-
-It was when the ruler of the statement made by the former president that he was aware of the Passover attack was called today.
-
-Former President Maithripala Sirisena received a statement from him for more than 5 hours to reveal the Passover attack.
-
-According to the Attorney General, the Criminal Investigation Department has recently filed the matter to the Maligakanda Magistrate's Court on the Attorney General.
-
-However, the former president filing a motion in court yesterday, however, a detailed statement had been issued to the CID, as a result of the CID cannot be given to the CID.
-
-Accordingly, the relevant law was taken up again in court in courts this afternoon.
-
-...
-
-[Data](articles/329f4aad.json)
-
-[Extended Data](ext_articles/329f4aad.ext.json)
-
----
-
-### 100 Western Provincial intelligence officers be thrown into other duties
-
-*2024-04-04 20:48:00* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-පළාත්--බුද්ධි--නිලධාරීන්-100-ක්-වෙනත්-රාජකාරීවලට-දමයි/11-408967) · `si`
-
-100 Western Provincial intelligence officers reassigned to other duties, as per IGP Tennakoon's instructions, to prevent vehicle-related crimes in Colombo.
-
-🟩
-
-Police Media Spokesperson DIG Thameda said that 100 Western Provincial intelligence officers who were attached to the duties and other security duties in Colombo in the Western Province.
-
-The objective of this program is implementing this on the instructions of IGP Deshabandu Tennakoon and preventing crimes such as vehicles, especially during the year.
-
-◼️
-
-[Data](articles/a82e20a9.json)
-
-[Extended Data](ext_articles/a82e20a9.ext.json)
 
 ---

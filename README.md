@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 15:18:18**
+As of **2024-04-05 15:33:49**
 
 ## Newspaper Stats
 
-*Scraped **17,333** Articles*
+*Scraped **17,336** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 944
 islandlk | 950
 economynextcom | 962
-adalk | 1,461
+adalk | 1,463
 tamilmirrorlk | 2,047
 adaderanalk | 2,082
-virakesarilk | 2,524
+virakesarilk | 2,525
 dailymirrorlk | 2,658
 adaderanasinhalalk | 2,801
 
@@ -26,29 +26,57 @@ adaderanasinhalalk | 2,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,331 (100.0%) of 17,333 articles have been extended.
+17,333 (100.0%) of 17,336 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### விலகிச் சென்ற 90 சதவீதமான உறுப்பினர்கள் மீண்டும் ஐக்கிய தேசிய கட்சியில் இணையவுள்ளார்கள் -  ரவி கருணாநாயக்க
+### மட்டு. வாகரை பிரதேசத்தில் வெடிப்பொருட்கள் சில மீட்பு
+
+*2024-04-05 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180523) · `ta`
+
+மட்டக்களப்பு வாகரை பிரதேசத்தில் வெடிப்பொருட்கள் சில இன்று வெள்ளிக்கிழமை (05) காலை மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+ஊரியன் கட்டு கிராம சேவகர் பிரிவின் பெரிய தட்டுமுனையில் உள்ள விவசாய காணியொன்றிலே அவை மீட்கப்பட்டுள்ளதாக தெரிவித்தனர்.
+
+இன்றைய தினம் காலை வழக்கம் போல் குறித்த காணியில் பயிர் செய்கை நடவடிக்கைக்காக நீர் குழாய் பொருத்தும் முகமாக குழியொன்றினை தரையில் வெட்டிய போது பொலித்தீன் பையில் மறைத்து வைக்கப்பட்டு சுற்றப்பட்ட நிலையில் மர்மப் பொருள் தென்பட்டுள்ளது.
+
+சம்பவம் தொடர்பாக உடனடியாக அருகில் உள்ள 233 ஆவது வாகரை இராணுவப் படைப் பிரிவிலுள்ள இராணுவ புலனாய்வாளர்களுக்கு தகவல் தெரிவித்துள்ளனர்.
+
+அவர்கள் சம்பவ இடத்திற்கு நேரில் சென்று நிலமைகளை அவதானித்தன் பின்னர் கதிரவெளி விசேட அதிரடிப் படையினரின் ஒத்துழைப்புடன் அவற்றினை மீட்டு வாகரை பொலிஸாரிடம் நீதிமன்ற நடவடிக்கைக்காக ஒப்படைத்துள்ளனர்.
+
+இதன்போது 81 மோட்டார் துப்பாக்கி அதற்கு பொருத்தும் பரல்-1,பை போட்-1,வேஸ் பிளேட்-1 ஆகியவையே இவ்வாறு மீட்கப்பட்டுள்ளதாக தெரிவித்தனர்.
+
+...
+
+[Data](articles/11efe0f5.json)
+
+---
+
+### 90 percent of members who have left the United National Party are back in the United National Party - Ravi Karunanayake
 
 *2024-04-05 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180488) · `ta`
 
-ஐக்கிய தேசிய கட்சியில் இருந்து பல்வேறு  காரணங்களால் விலகிச் சென்ற உறுப்பினர்களில்  90 சதவீதமான உறுப்பினர்கள்  மீண்டும் ஐக்கிய தேசிய கட்சியில்  இணைந்துக் கொள்ளவுள்ளதாக முன்னாள் நிதியமைச்சரும், ஐக்கிய தேசிய கட்சியின் கொழும்பு மாவட்ட தலைவருமான ரவி கருணாநாயக்க தெரிவித்துள்ளார்.
+Ravi Karunanayake claims 90% of UNP members who left will return, emphasizing the party's power and criticizing political alliances.
 
-கொழும்பில் இடம்பெற்ற ஊடக சந்திப்பில் கலந்து கருத்து தெரிவிக்கும் போதே இவ்வாறு தெரிவித்துள்ளார்.
+🟩
 
-அத்தோடு, கட்சியின் உறுப்பினர்கள் உழைக்கும் தொழிலாளருடன் இணைந்து மே தினத்தில் ஐக்கிய தேசிய கட்சியின் மக்கள்  சக்தியை நாட்டிற்கு தெரியப்படுத்தவுள்ளதாகவும்  தெரிவித்துள்ளார்.
+Former Finance Minister and Colombo district leader Ravi Karunanayake has said that 90 per cent of the members who have left the UNP for various reasons will be reunited with the UNP.
 
-குறுகிய அரசியல் மற்றும் அதிகார நோக்கங்களுக்காக உருவாகும் அரசியல் கூட்டணியினால் நாட்டு மக்களுக்கு ஒரு போதும் நன்மையில்லை எனவும் வேகமாக வளர்ச்சியடையும் அரசியல் கூட்டணிகள் விரைவாக வீழ்ச்சியடையும் எனவும் தெரிவித்துள்ளார்.
+He said this while addressing a media briefing in Colombo.
 
-அத்தோடு ஐக்கிய தேசியக் கட்சியானது பலமாக இருந்த போது  நாடு அபிவிருத்தியடைந்தாகவும்,    ஐக்கிய தேசியக்கட்சியானது  பலவீனமுற்ற சந்தர்ப்பத்தில் நாடானது  வங்குரோத்து நிலைக்கு உள்ளாகியுள்ளதாகவும் தெரிவித்துள்ளார்.
+He also said that the party's members will be informed of the UNP people's power on May Day with the working workers.
+
+He said that the political coalition for narrow political and powerful purposes would never benefit the people and that the rapidly growing political alliances would fall quickly.
+
+He also said that when the United National Party was strong, the country was developed and the United National Party was in a state of disrepair.
 
 ◼️
 
 [Data](articles/3ec9e48f.json)
+
+[Extended Data](ext_articles/3ec9e48f.ext.json)
 
 ---
 
@@ -65,6 +93,8 @@ It has warned that legal action will be instituted if the money is not paid.
 ...
 
 [Data](articles/1d3d1c35.json)
+
+[Extended Data](ext_articles/1d3d1c35.ext.json)
 
 ---
 
@@ -221,6 +251,22 @@ The injured were admitted to the Kongahawela Hospital and two of them were trans
 [Data](articles/cd1b43f1.json)
 
 [Extended Data](ext_articles/cd1b43f1.ext.json)
+
+---
+
+### ලංකාවට තව රැකියා දොරටු රැසක් විවෘත කරන බව කොරියානු අගමැති කියයි
+
+*2024-04-05 14:15:18* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවට-තව-රැකියා-දොරටු-රැසක්-විවෘත-කරන-බව-කොරියානු-අගමැති-කියයි/11-408970) · `si`
+
+කොරියානු අග්‍රාමාත්‍ය හන් ඩක් සූ  (Han Duck Soo) මහතා සහ ශ්‍රී ලංකා අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා අතර හමුව 2024.04.04 දින සෝල් නගරයේ පිහිටි අග්‍රාමාත්‍ය කාර්යාලයේ දී සිදුවිය.
+
+එහිදී කොරියානු අග්‍රාමාත්‍යවරයා ශ්‍රී ලංකාවට නව රැකියා දොරටු රැසක් විවර කරන බව ප්‍රකාශ කළේය. කෘෂිකාර්මික, ඉදිකිරීම් හා වෙනත් කර්මාන්ත සඳහා  තම රටේ රැකියා ලබාදෙන ශ්‍රම බලකායට අමතරව සෞඛ්‍ය සේවා හා වෘත්තික සේවා සඳහා නව රැකියා ලබාදීමේ හැකියාව පිළිබඳව ද කොරියානු අග්‍රාමාත්‍යවරයා මෙහිදී  සඳහන් කළේය.
+
+පසුගිය වකවානුවේ පැවති  මූල්‍ය  අර්බුදය හමුවේ නැවත නැගී සිටින ශ්‍රී ලංකාවට, තම රට පැරිස් සමාජයේ සාමාජිකයකු ලෙස ඉදිරි කටයුතු සාර්ථකව කරගෙන යැම සඳහා ඒ තුළ සෑම විටම පෙනී සිටින බව කොරියානු අග්‍රාමාත්‍යවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/58ec5512.json)
 
 ---
 
@@ -787,6 +833,24 @@ In a 30-minute call with Netanyahu after Israeli strikes killed seven aid worker
 [Data](articles/e85a980f.json)
 
 [Extended Data](ext_articles/e85a980f.ext.json)
+
+---
+
+### ජපාන තානාපති බිරිඳ ඇතුළු නියෝජිත පිරිසක් හිටපු හෝටලයේදී බීමත් හිටපු සී.අයි. යකා නටලා
+
+*2024-04-05 11:24:24* · [`adalk`](https://www.ada.lk/breaking_news/ජපාන-තානාපති-බිරිඳ-ඇතුළු-නියෝජිත-පිරිසක්-හිටපු-හෝටලයේදී-බීමත්-හිටපු-සී-අයි--යකා-නටලා/11-408968) · `si`
+
+මොනරාගල බුත්තල හෝටලයක් තුළදී බීමත්ව කලහකාරී ලෙස හැසිරුණු විශ්‍රාමික ප්‍රධාන පොලිස් පරීක්ෂකවරයෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම හෝටලයේදී ඇතිවූ ගැටුලවකින් අනතුරුව අදාළ විශ්‍රාමික පොලිස් පරීක්ෂකවරයා හෝටලයට ගල් ප්‍රහාරයක් එලල කර ඇති අතර එයින් හෝටලයේදී උත්සව ශාලාවේ ප්‍රධාන වීදුරුවට දැඩි හානි සිදුව තිබේ.
+
+මෙම සිදුවීම සිදුවන අවස්ථාවේදී එම හෝටලය තුළ ශ්‍රී ලංකාවේ ජපාන තානාපතිවරයාගේ බිරිඳ ඇතුළු ජපාන දූත පිරිසක්ද නැවතී සිට තිබේ.
+
+අදාළ සිදුවීමෙන් තමන් ඇතුළු නියෝජිත පිරිස මහත් භීතියට පත්වූ බව ජපාන තානාපතිවරයාගේ බිරිඳ ලිපියක් යොමුකරමින් සඳහන් කර තිබේ.  අත්අඩංගුවට ගත් විශ්‍රාමික ප්‍රධාන පොලිස් පරීක්ෂකවරයා අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/9a3730d1.json)
 
 ---
 
@@ -2195,75 +2259,5 @@ Four special trains will be operated from the 10th to the 15th of this month.
 [Data](articles/5641890a.json)
 
 [Extended Data](ext_articles/5641890a.ext.json)
-
----
-
-### Illegal Buddhasil in Trincomalee
-
-*2024-04-05 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180466) · `ta`
-
-Illegal construction of a massive Buddha statue in Trincomalee's Madathadi Veerakathi Pillaiyar temple land, without state department permission, has created tension. Despite opposition and previous illegal placement, the project continues, raising concerns about inter-species conflict and genocide. Intellectuals and residents fear disruption of ethnic harmony.
-
-🟩
-
-Steps are being taken to illegally put a massive Buddha in the land of the Tamil people in the land of the Madathadi Veerakathi Pillaiyar temple in Trincomalee.. This causes a tense environment in the area.
-
-The construction work is being carried out on the land belonging to the Veerakathi Pillaiyar Temple near the main road in the Madatadi area of Trincomalee.. The construction work is being carried out illegally without the permission of any state departments, including the Municipal Council, the Road Development Authority and the Urban Development Authority.
-
-The Secretary of the Urban Council visited the scene on the 23rd of last month and visited the constructions, although the constructions are taking place as usual.. The Tamil people fear that the statue of Buddha will be placed on the eve of the Vesak Poorana Day and the Vihara in the area will be set up in the area.. The residents of the area staged a demonstration on the 14th of last month to provide their land documents.
-
-...
-
-[Data](articles/2ac830f6.json)
-
-[Extended Data](ext_articles/2ac830f6.ext.json)
-
----
-
-### Oil rubbing ceremony on April 15
-
-*2024-04-05 00:42:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-15-இல்-எண்ணெய்-தேய்த்தல்-விழா/175-335637) · `ta`
-
-The National Festival of Oil Rubbing, a Tamil and Sinhala New Year event, is on April 15 at 10.17 am, organized by the Ministry of Indigenous Medicine. The last rituals, including tree planting and the Subhasa ritual, are on April 18.
-
-🟩
-
-Indigenous Medical Minister Sisira Jayakody said that the National Festival of Oil Rubbing, one of the auspicious events of the Tamil and Sinhala New Year celebrations, will be held on April 15 at 10.17 am.
-
-Indigenous Medical Minister Sisira Jayakody made this statement at a media briefing held at the Presidential Media Center yesterday.
-
-The Minister of State also stated that the event of planting trees, the last rituals of the Tamil and Sinhala New Year celebrations, was named after the Indigenous Ministry of Medicine on April 18.. As he further stated,
-
-The Ministry of Indigenous Medicine and Ayurvedic Department has organized the National Festival of Oil Rubbing, the unique rituals of the New Year celebrations at 10.17 am at the Hendala Purana Rajamaha Viharaya, Wattala.
-
-...
-
-[Data](articles/cca1353a.json)
-
-[Extended Data](ext_articles/cca1353a.ext.json)
-
----
-
-### Get down on the road and make politics
-
-*2024-04-05 00:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீதியில்-இறங்கி-அரசியல்-செய்ய-சந்தர்ப்பம்/175-335636) · `ta`
-
-President Ranil Wickremesinghe highlighted the government's economic strengthening through decisive actions over the past two years, despite acknowledging the economy remains in a precarious state. He noted a 50% increase in government income in 2022, emphasizing the foundation for a strong economy.
-
-🟩
-
-President Ranil Wickremesinghe said that the government's economy has been strengthened by the government's exact decisions in the country over the past two years.
-
-However, the president pointed out that the economy of the country is still in the hanging bridge, and that the people have to decide whether the government will continue to go back to the government's program or leave the program again.
-
-Recalling that the government's income rose by more than 50 percent in 2022 more than 2022, the president pointed out that the background of the country was created in the country with a strong economy.
-
-President Ranil Wickremesinghe made this statement while addressing the opening ceremony of the International Gem and Jewelery Trade (Ratnapuri Gem Tower) yesterday.. (A)
-
-◼️
-
-[Data](articles/98e799bd.json)
-
-[Extended Data](ext_articles/98e799bd.ext.json)
 
 ---

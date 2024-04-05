@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 11:03:06**
+As of **2024-04-05 11:18:13**
 
 ## Newspaper Stats
 
-*Scraped **17,283** Articles*
+*Scraped **17,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,33 @@ economynextcom | 957
 adalk | 1,458
 tamilmirrorlk | 2,044
 adaderanalk | 2,072
-virakesarilk | 2,514
+virakesarilk | 2,515
 dailymirrorlk | 2,649
-adaderanasinhalalk | 2,792
+adaderanasinhalalk | 2,793
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,281 (100.0%) of 17,283 articles have been extended.
+17,283 (100.0%) of 17,285 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### யாழில் நித்திரைக்கு சென்றவர் மயங்கிய நிலையில் உயிரிழப்பு
+
+*2024-04-05 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180489) · `ta`
+
+வீட்டில் இரவு தூங்கியவர் மறுநாள் காலை 07 மணியாகியும் தூக்கத்தால் எழும்பாததால், வீட்டார் அவரை தொட்டு எழுப்ப முயன்ற போது , அவர் சுயநினைவற்ற நிலையில் காணப்பட்டுள்ளார்.
+
+அதனை அடுத்து வீட்டார் அவரை யாழ்.போதனா வைத்தியசாலையில் அனுமதித்த நிலையில் , வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் நேற்று வியாழக்கிழமை (04) சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/7e077633.json)
+
+---
 
 ### Six MPs of ‘Nidahasa Janatha Sabhawa’ join SJB-led alliance
 
@@ -48,23 +62,49 @@ A group of politicians including the aforementioned who broke away from the Sri 
 
 [Data](articles/e5296e65.json)
 
+[Extended Data](ext_articles/e5296e65.ext.json)
+
 ---
 
-### ஆயுதக்குழுவின் தாக்குதலில் 10 ஈரானியப் படையினர் பலி
+### 10 Iranian soldiers killed in armed group attack
 
 *2024-04-05 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/180484) · `ta`
 
-ஈரானில் கிளர்ச்சியாளர்கள் நடத்திய தாக்குதலில் ஈரானிய அரச படையினர் 10 பேர் உயிரிழந்துள்ளனர் என அந்நாட்டு அரச தொலைக்காட்சி நேற்று தெரிவித்துள்ளது.
+10 Iranian soldiers killed in attack by Jaish al-Adl, claimed by Jaish Al Athl. Iran and US label both groups as terrorists.
 
-பயங்கரவாத தாக்குதலில் பாதுகாப்புப் படையினர் 10 பேர் கொல்லப்பட்டனர். 18 பயங்கரவாதிகளும் கொல்லப்பட்டனர் என ஈரானிய அரச தொலைக்காட்சி தெரிவித்தது.
+🟩
 
-ஜெய்ஷ் அல் அத்ல் எனும் இயக்கம் இத்தாக்குதலுக்கு உரிமை கோரியுள்ளது. ஈரான், அமெரிக்கா ஆகிய இரு நாடுகளும் இந்த இயக்கத்தை பயங்கரவாத குழுவாக பிரகடனப்படுத்தியுள்ளன.
+Ten Iranian state soldiers have been killed in the attack by rebels in Iran, state television said yesterday.
 
-கடந்த டிசெம்பர் மாதம் 11 ஈரானிய படையினர் கொல்லப்பட்ட தாக்குதலுக்கும்  ஜெய்ஷ் அல் அத்ல் உரிமை கோரியிருந்தது.
+Security forces killed 10 people in terrorist attacks. Iranian state television said 18 terrorists were killed.
+
+Jaish al -Adl has claimed the attack. Both Iran and the United States have declared this movement as terrorist group.
+
+Jaish Al Athl also claimed the attack on the killing of 11 Iranian soldiers last December.
 
 ◼️
 
 [Data](articles/b6270e48.json)
+
+[Extended Data](ext_articles/b6270e48.ext.json)
+
+---
+
+### සමගි ජන සන්ධානයේ ගිවිසුම අත්සන් කරයි
+
+*2024-04-05 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195326) · `si`
+
+සමගි ජන සන්ධානය පිහිටුවීමට අදාළ අවබෝධතා ගිවිසුම අත්සන් තබා තිබේ.
+
+මහාචාර්ය ජී.එල් පිරිස් සහ රංජිත් මද්දුම බණ්ඩාර මහතා විසින් අද (05) පෙරවරුවේ අදාළ ගිවිසුම අත්සන් තබා ඇත.
+
+ඒ අනුව නිදහස ජනතා සභාවේ මන්ත්‍රීවරුන් 06 දෙනෙකු වෙන් වෙන් වශයෙන් සමගි ජන සන්ධානය එක් වෙමින් අවබෝධතා ගිවිසුම්වලට අත්සන් තබා තිබේ.
+
+මහාචාර්ය ජී.එල් පිරිස්, ඩිලාන් පෙරේරා, ආචාර්ය නාලක ගොඩහේවා, කේ.පී කුමාරසිරි, වෛද්‍ය උපුල් ගලප්පත්ති සහ වසන්ත යාපා බණ්ඩාර යන මන්ත්‍රීවරුන් මෙලෙස සමගි ජන සන්ධානයට එක්වී ඇක.
+
+◼️
+
+[Data](articles/423e45dd.json)
 
 ---
 
@@ -2205,51 +2245,5 @@ The goal is to guarantee the smooth operation of vital services crucial for the 
 [Data](articles/4e02c6c4.json)
 
 [Extended Data](ext_articles/4e02c6c4.ext.json)
-
----
-
-### Ten Sri Lanka MPs elected in 2020 not any more in Parliament
-
-*2024-04-04 18:12:00* · [`economynextcom`](https://economynext.com/ten-sri-lanka-mps-elected-in-2020-not-any-more-in-parliament-157609/) · `en`
-
-ECONOMYNEXT – At least 10 Sri Lanka’s Members of Parliament (MPs) elected in the 2020 general elections are not anymore the legislature, either due to death or resignation or legal issues, official data showed.
-
-With the latest death of ruling Sri Lanka Podujana Peramuna (SLPP) legislator K H Nandasena (69 years) on Thursday (04), the island nation’s Parliament has witnessed three deaths of elected MPs and the resignation of seven MPs.
-
-Amarakeerthi Athukorala (57 years), a SLPP legislator, was killed by angry mobs on May 9, after the supporters of then Prime Minister Mahinda Rajapaksa brutally attacked unarmed protesters in capital Colombo.
-
-Later SLPP legislator, State Minister Sanath Nishantha (48 years) was killed in a road accident in January this year.
-
-...
-
-[Data](articles/ddbf9fb4.json)
-
-[Extended Data](ext_articles/ddbf9fb4.ext.json)
-
----
-
-### The Bribery Commission on Keheliya
-
-*2024-04-04 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180453) · `ta`
-
-The Bribery Commission has filed a case against Keheliya Rambukwella and two others, accusing them of bribery during the 2015 presidential election. The case was heard by Judge Nawaratne Marasinghe, who ordered it to be summoned on August 29.
-
-🟩
-
-The Colombo High Court has announced the date of hearing the case filed by the Bribery Commission against three defendants, including former minister Keheliya Rambukwella.
-
-During the 2015 presidential election, the Sri Lanka Television Corporation spent nearly Rs 10 lakh and accused of buying GIB for political activities.
-
-Accordingly, the Bribery Commission filed the case against the three.
-
-The case was taken up for hearing in the presence of Colombo High Court Judge Nawaratne Marasinghe on Thursday.
-
-After the hearing, the judge ordered the case to be summoned on August 29.
-
-◼️
-
-[Data](articles/2de393cd.json)
-
-[Extended Data](ext_articles/2de393cd.ext.json)
 
 ---

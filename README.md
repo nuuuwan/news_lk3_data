@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 16:49:11**
+As of **2024-04-05 17:03:20**
 
 ## Newspaper Stats
 
-*Scraped **17,351** Articles*
+*Scraped **17,356** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 153
 bbccomsinhala | 181
-dbsjeyarajcom | 208
+dbsjeyarajcom | 209
 newsfirstlk | 363
 dailyftlk | 944
 islandlk | 950
@@ -18,31 +18,133 @@ economynextcom | 962
 adalk | 1,464
 tamilmirrorlk | 2,047
 adaderanalk | 2,085
-virakesarilk | 2,529
-dailymirrorlk | 2,658
-adaderanasinhalalk | 2,807
+virakesarilk | 2,531
+dailymirrorlk | 2,659
+adaderanasinhalalk | 2,808
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,348 (100.0%) of 17,351 articles have been extended.
+17,351 (100.0%) of 17,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### ඊශ්‍රායලය ජ්‍යේෂ්ඨ හමුදා නිලධාරීන් දෙදෙනෙක් ව සේවයෙන් නෙරපයි
+### யாழில் வன்முறை கும்பலுக்கு உதவிய குற்றச்சாட்டு - பொலிஸ் உத்தியோகஸ்தர் மீது விசாரணை
+
+*2024-04-05 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180536) · `ta`
+
+யாழ்ப்பாணத்தில் வன்முறை கும்பல் ஒன்றிற்கு ஆதரவாக செயற்பட்ட குற்றச்சாட்டில் பொலிஸ் உத்தியோகஸ்தருக்கு எதிராக பொலிஸ் உயர் அதிகாரிகளால் விசாரணைகள் முன்னெடுக்கப்பட்டுள்ளன.
+
+கடந்த சில தினங்களுக்கு முன்னர் ஊர்காவற்துறை பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் இரவு வேளை புகுந்த வன்முறை கும்பல் ஒன்று நான்கு வீடுகளை அடித்து உடைத்து சேதமாக்கி விட்டு தப்பி சென்று இருந்தது.
+
+அந்நிலையில் மறுநாளும் குறித்த வன்முறை கும்பலை சேர்ந்தவர்கள் அப்பகுதியில் வன்முறை சம்பவங்களில் ஈடுபட முனைந்தவேளை ஊரவர்கள் அவர்களை மடக்கி பிடிக்க முற்பட்ட வேளை நால்வர் பிடிபட்டனர், ஏனையவர்கள் அங்கிருந்து தப்பி சென்று இருந்தனர்.
+
+பிடிபட்டவர்களிடம் ஊரவர்கள் விசாரணைகளை முன்னெடுத்த வேளை, ஊர்காவற்துறை பொலிஸ் நிலையத்தில் கடமையாற்றும் தமிழ் பொலிஸ் உத்தியோகஸ்தர் ஒருவர் எமக்கு ஆதரவாக செயற்படுபவர் என கூறியுள்ளனர்.
+
+அதேவேளை பிடிபட்டவர்களின் கைபேசிகளை ஊரவர்கள் சோதனை செய்த போது, அவற்றில் வன்முறை கும்பலை சேர்ந்த சிலர் வாள்கள் உள்ளிட்ட ஆயுதங்களுடன் உள்ள புகைப்படங்கள் காணப்பட்டன.
+
+...
+
+[Data](articles/6f0cf7c8.json)
+
+---
+
+### பெருந்தோட்டயாக்க நிர்வாக பிரிவுக்கு, தோட்டத்தில் கல்விகற்ற இளைஞர் யுவதிகள் உள்வாங்கபடுகின்றனர்  - பாரத் அருள்சாமி
+
+*2024-04-05 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180535) · `ta`
+
+மக்கள் பெருந்தோட்டயாகத்தின் 48ஆம் ஆண்டு விழா கொழும்பில் அமைந்துள்ள தலைமை காரியாலத்தில் நடைபெற்றது. மக்கள் பெருந்தோட்டயாகத்தின் தலைவர் விங் கமாண்டர் புவனக அபேயசூரிய தலைமையில் நடைபெற்ற நிகழ்வில் சிறப்பு அதிதியாக பெருந்தோட்ட மனிதவள அபிவிருத்தி நிதியத்தின் தலைவர் பாரத் அருள்சாமி கலந்து கொண்டார்.
+
+இந்நிகழ்வை சிறப்புபடுத்தும் முகமாக நிர்வாகப் பிரிவிற்கு தோட்டப்புறங்களில் கல்வி பயின்று புலமை பெற்ற இளைஞர் யுவதிகளுக்கு வேலை வாய்ப்பினை வழங்க கௌரவ அமைச்சர் ஜீவன் தொண்டமான் அவர்கள் பணிப்புரை விடுத்திருந்தார். அதற்கமைய முதல் கட்டமாக ஹந்தான, மவுண்ட்ஜீன், லூல்கந்தூர, ரஹத்துங்கோட, போன்ற தோட்டங்களுக்கு நிர்வாக பிரிவிற்கு  இளைஞர், யுவதிகள் இணைத்துக் கொள்ளப்பட்டார்கள்.
+
+இதன்போது கருத்து தெரிவித்த பாரத் அருள்சாமி '48 வது ஆண்டில் காலடி எடுத்து வைக்கும் மக்கள் பெருந்தோட்டயாகத்திற்கும், அதனை சிறப்புற நடாத்தி செல்லும் தலைவர் அபேயசூரிய மற்றும் பொது முகாமையாளர் பிரதீப், அனைத்து அதிகாரிகளுக்கும் எனது வாழ்த்துக்களை மற்றும் நன்றிகளை தெரிவித்து கொள்கின்றேன்.
+
+...
+
+[Data](articles/ffa97f86.json)
+
+---
+
+### උණුසුම් කාලගුණය ගැන අවවාදාත්මක නිවේදනයක්
+
+*2024-04-05 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195342) · `si`
+
+උණුසුම් කාලගුණය ගැන අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+ඒ අනුව උතුරු, උතුරුමැද, නැගෙනහිර, බස්නාහිර, සබරගමුව, වයඹ සහ දකුණු පළාත හා මොනරාගල සහ මාතලේ දිස්ත්‍රික්ක සඳහා අදාළ නිවේදනය බලපැවැත්වේ.
+
+ඒ අනුව එම ප්‍රදේශවල ජීවන වන ජනතාවට මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමු කළ යුතු මට්ටමට පැවතිය හැකි යැයි අපේක්ෂා කෙරේ.
+
+◼️
+
+[Data](articles/54cfc4d6.json)
+
+---
+
+### Ukraine fires over 50 drones against Russia in one of biggest air attacks
+
+*2024-04-05 16:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ukraine-fires-over-50-drones-against-Russia-in-one-of-biggest-air-attacks/108-280254) · `en`
+
+KYIV, Ukraine -- Ukrainian officials claimed Friday they used a barrage of drones to destroy at least six military aircraft and badly damage eight others at an airfield in Russia’s Rostov region, while Russian defense officials claimed they intercepted 44 Ukrainian drones and that only a power substation was damaged in the attack.
+
+The assault appeared to be one of Kyiv's biggest air attacks in the war, coming as its forces step up their assaults on Russian soil. The Associated Press could not independently verify either side's claims.
+
+Russia has escalated attacks on civilian infrastructure, including Ukraine’s power plants, in recent weeks, signaling a new and potentially dangerous phase in the conflict as both sides struggle to achieve significant advances on the ground.
+
+The overnight attack targeted a military airfield near Morozovsk in Russia and was conducted by Ukraine’s Security Service in cooperation with the army, Ukrainian intelligence officials told the AP.
+
+...
+
+[Data](articles/81e10f89.json)
+
+---
+
+### Minister Jeevan Thondaman is the best young leader worldwide
+
+*2024-04-05 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180519) · `ta`
+
+Jeevan Thondaman, Sri Lanka's Minister of Water Supply and Plantation Infrastructure Development, is recognized by the World Economic Forum as the Global Best Young Leader, marking the first time a Sri Lankan minister has achieved this honor.
+
+🟩
+
+Water Supply and Plantation Infrastructure Development Minister Jeevan Thondaman has been selected by the World Economic Forum as the Global Leader.
+
+This is the first time a Sri Lankan minister has been elected as the best young leader worldwide.
+
+The Ministry of Water Supply and Estate Infrastructure Development said that Jeevan Thondaman has been honored to be the first minister to be the best young leader in Sri Lanka for the first time in the history of Sri Lanka.
+
+The worldwide best young leader is a unique, multi-bunch of society with more than 1,000 young leaders who share the determination to design the global future.
+
+The Global Best Young Leader Plan identifies promoting leaders under the age of 40 who shape the future. In the past, French President Emmanuel Macron, New Zealand Prime Minister Jacinda Order, Ali Baba's founder and technician Jack Ma and Facebook founder Mark Zuckerberg include the world's best young leader list.
+
+...
+
+[Data](articles/436226cf.json)
+
+[Extended Data](ext_articles/436226cf.ext.json)
+
+---
+
+### Israel expels members of Senior Army Officers
 
 *2024-04-05 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195341) · `si`
 
-ගාසා තීරයේ සහන සේවා සපයමින් සිටි World Central Kitchenහි සහන සේවකයින් 7 දෙනෙක් ඊශ්‍රායල ප්‍රහාරයකින් මිය යාම සම්බන්ධයෙන් ජ්‍යේෂ්ඨ හමුදා නිලධාරීන් දෙදෙනෙක්ව සේවයෙන් පහකිරීමට ඊශ්‍රායල බලධාරීන් කටයුතු කර තිබේ.
+Israel expels 7 senior army officers due to the death of an Israeli attack victim. Relief workers survived the first strike but died in another.
 
-ඊශ්‍රායල ආරක්ෂක හමුදාව පවසන්නේ පළමු ගුවන් ප්‍රහාරයෙන් සහන සේවකයින් කිහිපදෙනෙක් බේරුණු බවත් අනතුරුව එල්ල කළ තවත් ප්‍රහාරයකින් ඔවුන් මියගිය බවත් ය.
+🟩
+
+The Israeli authorities have acted in the service of seven senior army personnel to serve as a result of the death of another Israeli attack.
+
+The Israeli Security Forces states that several relief workers survived the first air strike were survived and they died in another attack.
 
 ◼️
 
 [Data](articles/6a9853e2.json)
+
+[Extended Data](ext_articles/6a9853e2.ext.json)
 
 ---
 
@@ -61,6 +163,8 @@ It was also decided that the debate on the Adjournment Debate on the Easter Sund
 ...
 
 [Data](articles/09f6e9da.json)
+
+[Extended Data](ext_articles/09f6e9da.ext.json)
 
 ---
 
@@ -95,32 +199,6 @@ The US dollar purchasing price was Rs 294.9271 and the sales price were Rs 304.2
 [Data](articles/31e32805.json)
 
 [Extended Data](ext_articles/31e32805.ext.json)
-
----
-
-### Minister Jeevan Thondaman is the best young leader worldwide
-
-*2024-04-05 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180519) · `ta`
-
-Jeevan Thondaman, Sri Lanka's Minister of Water Supply and Plantation Infrastructure Development, is recognized by the World Economic Forum as the Global Best Young Leader, marking the first time a Sri Lankan minister has achieved this honor.
-
-🟩
-
-Water Supply and Plantation Infrastructure Development Minister Jeevan Thondaman has been selected by the World Economic Forum as the Global Leader.
-
-This is the first time a Sri Lankan minister has been elected as the best young leader worldwide.
-
-The Ministry of Water Supply and Estate Infrastructure Development said that Jeevan Thondaman has been honored to be the first minister to be the best young leader in Sri Lanka for the first time in the history of Sri Lanka.
-
-The worldwide best young leader is a unique, multi-bunch of society with more than 1,000 young leaders who share the determination to design the global future.
-
-The Global Best Young Leader Plan identifies promoting leaders under the age of 40 who shape the future. In the past, French President Emmanuel Macron, New Zealand Prime Minister Jacinda Order, Ali Baba's founder and technician Jack Ma and Facebook founder Mark Zuckerberg include the world's best young leader list.
-
-...
-
-[Data](articles/436226cf.json)
-
-[Extended Data](ext_articles/436226cf.ext.json)
 
 ---
 
@@ -564,19 +642,29 @@ The Korean Prime Minister urged the Korean Prime Minister to take steps to reduc
 
 ---
 
-### ලොරියක් වන අලියෙකුගේ ගැටී දෙකක් මරුට හයකට තුවාල
+### Two dead, six dead, injured in a lorry
 
 *2024-04-05 14:11:52* · [`adalk`](https://www.ada.lk/breaking_news/ලොරියක්-වන-අලියෙකුගේ-ගැටී-දෙකක්-මරුට-හයකට-තුවාල/11-408969) · `si`
 
-මොරගහකන්ද ජලාශ මාර්ගයේ සිට නාඋල දෙසට ධාවනය වු කුඩා ලොරි රථයක වන අලියෙකු ගැටී රථය පෙරලියාම හේතුවෙන් පුද්ගලයින් දෙදෙනෙකු ජිවිතක්ෂයට පත්ව තවත් හය දෙනෙකු තුවාල ලබා ඇතැයි නාඋල පොලිසිය කියයි. අද (05) අළුයම එකට පමණ මොරගහකන්ද - වදුරුමුල්ල ප්‍රදේශයේ දී අනතුර සිදුව තිබේ.
+In Moragahakanda, two killed, six injured in a lorry accident. Elephant driver Madiala and Pubbiliya, passengers Dhananapura, Ganewatte, Niriyawewa, Sinhawepura, Welikanda, and RMSLaramaanayake (19) and Diyagawa (19) hospitalized. Investigations ongoing.
 
-52/සි/1,මාදියාවෙල,පුබ්බිලිය ලිපිනයේ පදිංචි කෝරළේගෙදර සෙණරත් අසංක බණ්ඩාර යන අය විසින් කැන්ටර් (250) වර්ගයේ නිල් පැහැ ලොරි රථයේ ඉදිපස හා පිටුපස පුද්ගලයින් හය දෙනෙකු නන්වාගෙන මොරගහකන්ද දෙස සිට කෝන්ගහවෙල දෙසට රිය ධාවනය කරමින් සිටිය දි වන අලියෙකු එක් වරම මාර්ගය හරහා ගමන් කිරිමේ දී ලොරි රථය එම අලියාගේ ගැටීමෙන් පසු ලොරි රථය පෙරලිමෙන් මෙම අනතුර සිදුව ඇති බව පොලිසිය සිදුකල මුලික පරික්ෂණ වල දී අනාවරණය වී තිබේ.
+🟩
 
-අනතුර හේතුවෙන් ලොරි රථයේ පිටුපස තට්ටුවේ ගමන් ගත් සූරියවැව,සිංහපුර,වැලිකන්ද ලිපිනයේ පදිංචිව සිටි රාජපක්ෂ දේවයලාගේ දිලුක නුවන් (25) යන අය හා අංක 70, නාවල,ගනේවත්ත,නිකදළුපොත ලිපිනයේ පදිංචිව සිටි ඥානපුර හේනයලාගේ ධනන්ජය නවරත්න යන අයවලුන් බරපතල තුවාල ලබා කෝනගහවෙල රජයේ රෝහලට ඇතුලත් කිරිමේ දී මිය ගොස් ඇතැයි පොලිසිය කියයි.
+Naula Police claim that two others were killed in a small lorry in Moragahakanda reservoir to Naula. The accident occurred in Moragahakanda - Wadumulla area around the same day today.
+
+52/1, a resident of Madiala and Pubbiliya, the elephant was operating in the blue lorry, Madiawela and Pubbiliya.The primary investigations were revealed that the lorry was filmed after the lorry after the trip was the triumph of the elephant.
+
+Dhananapura, Dananapaya Navaratne, who was residing in the back of the lorry, Dhananapura, Ganewatte, a resident of the back of the lorry.Police say they have died in the event.
+
+Niriyawewa, Sinhawepura, Welikanda, residents of the lorry in the front seat of the lorry.Treasures were taken from the manuscript hospitalized.
+
+In addition, RMSLaramaanayake (19), a resident of No. 128, Katuealeia, Diyagawa (19) has been admitted to the Ambana Hospital in which BJ VIIs Sundarath Bandara has been admitted to the Matale General Hospital.
 
 ...
 
 [Data](articles/47db105d.json)
+
+[Extended Data](ext_articles/47db105d.ext.json)
 
 ---
 
@@ -2187,79 +2275,5 @@ Now and then, Kachchativu island, lying halfway between the islands of Rameswara
 [Data](articles/9d91e9b0.json)
 
 [Extended Data](ext_articles/9d91e9b0.ext.json)
-
----
-
-### Broad set of policies needed to reduce gender pay gap in Sri Lanka
-
-*2024-04-05 04:58:23* · [`dailyftlk`](https://www.ft.lk/columns/Broad-set-of-policies-needed-to-reduce-gender-pay-gap-in-Sri-Lanka/4-760323) · `en`
-
-In almost all sectors and occupations, women tend to earn, on average, less than men, despite generally having higher educational attainments – Pic by Shehan Gunasekara
-
-Wage disparities between men and women remain significant in Sri Lanka and have not significantly closed in the last decade. Renewed policy efforts can close this persistent yet remediable gender gap to promote a more inclusive economic recovery
-
-In most countries around the world, women earn substantially less than men. At the global level, the gender pay gap is estimated at 20%. This issue concerns countries across all geographical regions, regardless of their stage of economic development.
-
-...
-
-[Data](articles/3cac3072.json)
-
-[Extended Data](ext_articles/3cac3072.ext.json)
-
----
-
-### Build to scale
-
-*2024-04-05 04:54:03* · [`dailyftlk`](https://www.ft.lk/columns/Build-to-scale/4-760322) · `en`
-
-Develop an engine which can generate more revenue at decreasing marginal cost with the right DNA
-
-Growth is the fundamental focal point behind any business decision. However, whether businesses achieve meaningful growth is the big question today. For the growth to be meaningful it has to come at a decreasing marginal cost. Meaningful growth happens only where businesses build with scalable DNA. This thinking has to be calculated into the business at the startup conceiving stage itself.
-
-...
-
-[Data](articles/92cc2816.json)
-
-[Extended Data](ext_articles/92cc2816.ext.json)
-
----
-
-### Sustainability in business – or corporate greenwash
-
-*2024-04-05 04:50:19* · [`dailyftlk`](https://www.ft.lk/columns/Sustainability-in-business-or-corporate-greenwash/4-760321) · `en`
-
-‘Sustain’ is derived from Latin and it means hold up or support. Its etymology suggests endurance without yielding; continuity without downfall. Sustainability, by extension, may well be the capability of sustaining, but in common speech and in commercial jargon it has become a vague and abused term, laying claim to a plethora of definitions. What then does sustainability mean, and what should it mean in business? What ought we sustain, and does sustenance suffice?
-
-The need to address sustainability in business arose because irresponsibility in commerce and industry have led inter alia to scarcity of clean water, drain of natural resources, ill health of communities, strained employees and landfills of unsold produce – not only when mistakes have occurred, but even when operating as designed and being economically profitable.
-
-...
-
-[Data](articles/6bfebca4.json)
-
-[Extended Data](ext_articles/6bfebca4.ext.json)
-
----
-
-### BASL expresses concern over Maithri’s statement on Easter attacks
-
-*2024-04-05 04:44:56* · [`dailyftlk`](https://www.ft.lk/news/BASL-expresses-concern-over-Maithri-s-statement-on-Easter-attacks/56-760320) · `en`
-
-Says statement and lack of accountability raises concerns about security lapses that led to these attacks
-
-Stresses it is deeply concerned by nonchalance surrounding investigation into Easter Sunday attacks
-
-The Bar Association of Sri Lanka (BASL) has expressed concern regarding the recent statement by former President Maithripala Sirisena concerning his knowledge of the mastermind behind the terror attacks on Easter Sunday in 2019.
-
-This statement, coupled with the ongoing lack of accountability for these heinous acts, raises serious questions about potential security lapses that led to the death of innocent civilians.
-
-The BASL reiterated its commitment to upholding the rule of law and ensuring justice for the victims.
-
-“In this spirit, the BASL filed a Fundamental Rights application, against the former President, other members of the leadership, and senior officials for their failure to discharge their fundamental duties towards the people of our country,” the organisation said.
-
-...
-
-[Data](articles/679bd728.json)
-
-[Extended Data](ext_articles/679bd728.ext.json)
 
 ---

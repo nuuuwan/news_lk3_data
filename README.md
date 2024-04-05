@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 15:03:22**
+As of **2024-04-05 15:18:18**
 
 ## Newspaper Stats
 
-*Scraped **17,331** Articles*
+*Scraped **17,333** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,29 +18,71 @@ economynextcom | 962
 adalk | 1,461
 tamilmirrorlk | 2,047
 adaderanalk | 2,082
-virakesarilk | 2,523
-dailymirrorlk | 2,657
+virakesarilk | 2,524
+dailymirrorlk | 2,658
 adaderanasinhalalk | 2,801
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,324 (100.0%) of 17,331 articles have been extended.
+17,331 (100.0%) of 17,333 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### දමිතා රිමාන්ඩ්
+### விலகிச் சென்ற 90 சதவீதமான உறுப்பினர்கள் மீண்டும் ஐக்கிய தேசிய கட்சியில் இணையவுள்ளார்கள் -  ரவி கருணாநாயக்க
+
+*2024-04-05 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180488) · `ta`
+
+ஐக்கிய தேசிய கட்சியில் இருந்து பல்வேறு  காரணங்களால் விலகிச் சென்ற உறுப்பினர்களில்  90 சதவீதமான உறுப்பினர்கள்  மீண்டும் ஐக்கிய தேசிய கட்சியில்  இணைந்துக் கொள்ளவுள்ளதாக முன்னாள் நிதியமைச்சரும், ஐக்கிய தேசிய கட்சியின் கொழும்பு மாவட்ட தலைவருமான ரவி கருணாநாயக்க தெரிவித்துள்ளார்.
+
+கொழும்பில் இடம்பெற்ற ஊடக சந்திப்பில் கலந்து கருத்து தெரிவிக்கும் போதே இவ்வாறு தெரிவித்துள்ளார்.
+
+அத்தோடு, கட்சியின் உறுப்பினர்கள் உழைக்கும் தொழிலாளருடன் இணைந்து மே தினத்தில் ஐக்கிய தேசிய கட்சியின் மக்கள்  சக்தியை நாட்டிற்கு தெரியப்படுத்தவுள்ளதாகவும்  தெரிவித்துள்ளார்.
+
+குறுகிய அரசியல் மற்றும் அதிகார நோக்கங்களுக்காக உருவாகும் அரசியல் கூட்டணியினால் நாட்டு மக்களுக்கு ஒரு போதும் நன்மையில்லை எனவும் வேகமாக வளர்ச்சியடையும் அரசியல் கூட்டணிகள் விரைவாக வீழ்ச்சியடையும் எனவும் தெரிவித்துள்ளார்.
+
+அத்தோடு ஐக்கிய தேசியக் கட்சியானது பலமாக இருந்த போது  நாடு அபிவிருத்தியடைந்தாகவும்,    ஐக்கிய தேசியக்கட்சியானது  பலவீனமுற்ற சந்தர்ப்பத்தில் நாடானது  வங்குரோத்து நிலைக்கு உள்ளாகியுள்ளதாகவும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/3ec9e48f.json)
+
+---
+
+### Patient claims Rs.100 million from Keheliya, others for permanent loss of sight
+
+*2024-04-05 14:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Patient-claims-Rs-100-million-from-Keheliya-others-for-permanent-loss-of-sight/108-280250) · `en`
+
+Colombo, April 5 (Daily Mirror)- A patient who was subjected to permanent loss of sight due to the use of ‘Prednisolone Acetatean', eye drop used after cataract surgeries at a government hospital, has sent a Letter of Demand claiming a compensation Rs.100 million from Health Minister Keheliya Rambukwella and eight others for the damage caused to his eyes and possible threats to his life.
+
+The victim, Makkari Rajaratnam, a resident of Kandapola sent this Letter of Demand through Invictus Law Firm demanding compensation from Keheliya Rambukwella, Janaka Chandraguptha, National Medicine Regulatory Authority, Prof. S.D. Jayaratne, Dr. Vijith Gunasekera, Dr. Asela Gunawardene, Dr. Rohan Edirisinghe, Dr. Mahendra Seneviratne and Chamee Chemist (Pvt) Ltd of Yakkala.
+
+It has warned that legal action will be instituted if the money is not paid.
+
+...
+
+[Data](articles/1d3d1c35.json)
+
+---
+
+### Damitha remanded
 
 *2024-04-05 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195335) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන සිටි ප්‍රවීණ රංගන ශිල්පිණී දමිතා අබේරත්න මහත්මිය සහ ඇගේ සැමියා අප්‍රේල් 17 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+Veteran actress Damitha Abeyratne and her husband are remanded until April 17.
+
+🟩
+
+Veteran actress, Damitha Abeyratne and her husband was remanded until April 17.
 
 ◼️
 
 [Data](articles/5eb89a0a.json)
+
+[Extended Data](ext_articles/5eb89a0a.ext.json)
 
 ---
 
@@ -64,29 +106,37 @@ Accordingly, Fort Magistrate’s Court recently rejected a writ petition filed s
 
 [Data](articles/21096fbc.json)
 
+[Extended Data](ext_articles/21096fbc.ext.json)
+
 ---
 
-### දෙදරු පියාට ජීවිතාන්තය දක්වා සිරදඬුවම්
+### The life sentenced to the father of two
 
 *2024-04-05 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195334) · `si`
 
-හෙරොයින් මත්කුඩු ග්‍රෑම් 6.17ක් සන්තකයේ තබාගෙන ජාවාරම් කිරීමේ චෝදනාවට වරදකරු වූ 42 හැවිරිදි දෙදරු පියෙකුට කොළඹ මහාධිකරණය විසින් ජීවිතාන්තය දක්වා සිර දඬුවම් නියම කළේය.
+The Colombo High Court sentenced a man to life for smuggling 6.17 grams of heroin, despite police finding 329 grams. The accused was arrested in 2016 and charged with racketeering.
 
-කොළඹ මහාධිකරණ විනිසුරු ආදිත්‍ය පටබැඳිගේ මහතා විසින් මෙම තීන්දුව ලබාදුනි.
+🟩
 
-2016 වසරේ අගෝස්තු මස 19 වනදා මහරගම, වත්තේගෙදර ප්‍රදේශයේදී හෙරොයින් මත්කුඩු ග්‍රෑම් 329ක් සමග පොලීසිය විසින් මෙම විත්තිකරුව අත්අඩංගුවට ගෙන තිබුණි.
+The Colombo High Court sentenced to death in charge of smuggling 6.17 grams of heroin in possession of 6.17 grams of drugs.
 
-එහෙත් රජයේ රස පරීක්ෂකවරයා වාර්තාකර තිබුණේ අදාළ හෙරොයින් ප්‍රමාණය තුළ අන්තර්ගත ශුද්ධ හෙරොයින් ප්‍රමාණයේ බර ප්‍රමාණය ග්‍රෑම් 6.17ක් බවයි.
+The decision was issued by Colombo High Court Judge Adal Parandaniage.
 
-ඉන් අනතුරුව නීතිපතිවරයා විත්තිකරුට එරෙහිව හෙරොයින් මත්කුඩු සන්තකයේ තබාගැනීම සහ ජාවාරම් කිරීම යටතේ චෝදනා ගොනු කළේය.
+The accused was arrested by the police with 329 grams of heroin in Wattegedara, Wattalagama, held on August 19, 2016.
 
-දීර්ඝ නඩු විභාගයකින් අනතුරුව තීන්දුව ප්‍රකාශයට පත්කළ විනිසුරුවරයා සඳහන් කළේ විත්තිකරුට එරෙහිව පැමිණිල්ල විසින් එල්ලකර තිබූ චෝදනා සාධාරණ සැකයකින් තොරව ඔප්පු වී තිබෙන බවයි.
+However, the Government Analyst had reported that the number of net heroin content included in the number of heroin was 6.17 grams.
 
-ඒ අනුව විත්තිකරුට ජීවිතාන්තය දක්වා සිරදඬුවම් නියම කරන බවත් විනිසුරුවරයා නියෝග කළේය.
+The Attorney General filed charges against the accused and racketeering against the accused.
+
+After an extended trial, the judge said that the complaints made by the complaint had been proved without fair doubt against the accused.
+
+Accordingly, the judge ordered the accused to life sentenced to life.
 
 ◼️
 
 [Data](articles/0c5c5034.json)
+
+[Extended Data](ext_articles/0c5c5034.ext.json)
 
 ---
 
@@ -105,6 +155,8 @@ At its meeting on April 01, the Cabinet of Ministers green-lighted a proposal ta
 ...
 
 [Data](articles/e704a829.json)
+
+[Extended Data](ext_articles/e704a829.ext.json)
 
 ---
 
@@ -168,6 +220,8 @@ The injured were admitted to the Kongahawela Hospital and two of them were trans
 
 [Data](articles/cd1b43f1.json)
 
+[Extended Data](ext_articles/cd1b43f1.ext.json)
+
 ---
 
 ### Ex-Police Officer arrested over stones pelted at hotel housing Japanese Envoy’s spouse
@@ -185,6 +239,8 @@ According to Mizukoshi, she stayed at the hotel on Thursday (04) after travellin
 ...
 
 [Data](articles/0033fcdd.json)
+
+[Extended Data](ext_articles/0033fcdd.ext.json)
 
 ---
 
@@ -230,6 +286,26 @@ He said that South Korea, as a member of the Paris Club, will always stand there
 
 ---
 
+### Sridharan meets with Jaffna Indian Ambassador
+
+*2024-04-05 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180505) · `ta`
+
+Sridharan, a Sri Lankan parliamentarian, met with the Indian Consulate's new ambassador, Sri Sai Murali, in Jaffna. They discussed the political welfare of Eelam Tamils and current crises.
+
+🟩
+
+Jaffna to Sri Lanka. Parliamentarian Sivagnanam Sreedharan has recently met with Sri Sai Murali, the new ambassador of the Indian Consulate.
+
+During the meeting held at the Indian Consulate in Jaffna, it was noteworthy that the political welfare of the Eelam Tamils and the contemporary crises was addressed.
+
+◼️
+
+[Data](articles/ea53bc99.json)
+
+[Extended Data](ext_articles/ea53bc99.ext.json)
+
+---
+
 ### Pain in the North of Pain
 
 *2024-04-05 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180504) · `ta`
@@ -251,26 +327,6 @@ The measurement was to be carried out with the aim of carrying out about 29 acre
 [Data](articles/79ebd254.json)
 
 [Extended Data](ext_articles/79ebd254.ext.json)
-
----
-
-### Sridharan meets with Jaffna Indian Ambassador
-
-*2024-04-05 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/180505) · `ta`
-
-Sridharan, a Sri Lankan parliamentarian, met with the Indian Consulate's new ambassador, Sri Sai Murali, in Jaffna. They discussed the political welfare of Eelam Tamils and current crises.
-
-🟩
-
-Jaffna to Sri Lanka. Parliamentarian Sivagnanam Sreedharan has recently met with Sri Sai Murali, the new ambassador of the Indian Consulate.
-
-During the meeting held at the Indian Consulate in Jaffna, it was noteworthy that the political welfare of the Eelam Tamils and the contemporary crises was addressed.
-
-◼️
-
-[Data](articles/ea53bc99.json)
-
-[Extended Data](ext_articles/ea53bc99.ext.json)
 
 ---
 
@@ -439,6 +495,8 @@ The 37th edition of the 'Colombo Shopping Festival', the ultimate shopping parad
 ◼️
 
 [Data](articles/b3d57b92.json)
+
+[Extended Data](ext_articles/b3d57b92.ext.json)
 
 ---
 
@@ -2207,53 +2265,5 @@ President Ranil Wickremesinghe made this statement while addressing the opening 
 [Data](articles/98e799bd.json)
 
 [Extended Data](ext_articles/98e799bd.ext.json)
-
----
-
-### Essential Services operates steadily
-
-*2024-04-05 00:31:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்தியாவசிய-சேவைகள்-சீராக-செயற்படும்/175-335635) · `ta`
-
-The President has directed authorities to prepare programs for essential and public services during Tamil and Sinhala New Year holidays, ensuring public comfort and safety.
-
-🟩
-
-The President has instructed the authorities to prepare a proper program to continue to carry out essential services and other public services in order to not cause public discomfort during the upcoming Tamil and Sinhala New Year holidays.
-
-The President also advised that it is necessary to prepare a program for the Ministries including the President's Office, the Prime Minister's Office, the Security, the Health, the Transport and the Electricity.
-
-Similarly, the President has issued a directive to the Defense Department to implement a comprehensive program to ensure the safety of civilians in the country and protect law and order in the coming festive season.. (A)
-
-◼️
-
-[Data](articles/fafb7a9f.json)
-
-[Extended Data](ext_articles/fafb7a9f.ext.json)
-
----
-
-### Student's death
-
-*2024-04-05 00:31:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொங்கீறிட்-கழிவு-நீர்-நிரம்பி-விழுந்ததில்-மாணவன்-மரணம்/76-335634) · `ta`
-
-An 11-year-old student from Kathmore died after falling into a coconut wastewater filled for tea estate development at Maskeliya - Kathmore Tamil Vidyalaya.
-
-🟩
-
-A student has died after falling a coconut waste water at the Maskeliya - Kathmore Tamil Vidyalaya.
-
-The banker waste water has been filled for the development work of a tea estate and placed on the school premises.
-
-It is reported that the student fell on the student with a wastewater.
-
-The student who visited the rectum is overflowing with this concrete wastewater and the student is in the consumption building.
-
-The deceased is a 11 -year -old student from Kathmore.
-
-◼️
-
-[Data](articles/144cbe7f.json)
-
-[Extended Data](ext_articles/144cbe7f.ext.json)
 
 ---

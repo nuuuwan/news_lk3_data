@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 16:18:13**
+As of **2024-04-05 16:33:44**
 
 ## Newspaper Stats
 
-*Scraped **17,343** Articles*
+*Scraped **17,348** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 153
-bbccomsinhala | 180
+bbccomsinhala | 181
 dbsjeyarajcom | 208
 newsfirstlk | 363
 dailyftlk | 944
@@ -17,8 +17,8 @@ islandlk | 950
 economynextcom | 962
 adalk | 1,463
 tamilmirrorlk | 2,047
-adaderanalk | 2,083
-virakesarilk | 2,526
+adaderanalk | 2,084
+virakesarilk | 2,529
 dailymirrorlk | 2,658
 adaderanasinhalalk | 2,806
 
@@ -26,45 +26,127 @@ adaderanasinhalalk | 2,806
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,341 (100.0%) of 17,343 articles have been extended.
+17,343 (100.0%) of 17,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### පාස්කු ප්‍රහාරය ගැන සභාව කල්තැබීමේ විවාදයක්
+### Parliamentary debate on Easter attacks from 24-26 April
+
+*2024-04-05 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98451/parliamentary-debate-on-easter-attacks-from-24-26-april) · `en`
+
+An adjournment debate on the 2019 Easter Sunday attack will be held from 24-26 April in accordance with a motion brought by the Opposition.
+
+The decision was taken at the meeting of the Parliamentary Business Committee chaired by Deputy Speaker Ajith Rajapakse on Friday (05), as per a press release issued by the Parliament’s Communication Department.
+
+◼️
+
+[Data](articles/685d8c52.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-04-05 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180533) · `ta`
+
+இன்று வெள்ளிக்கிழமை (ஏப்ரல் 05) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 294.9271 ஆகவும் விற்பனை விலை ரூபா 304.2846 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/31e32805.json)
+
+---
+
+### உலகளாவிய சிறந்த இளம் தலைவராக அமைச்சர் ஜீவன் தொண்டமான் தெரிவு
+
+*2024-04-05 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180519) · `ta`
+
+நீர் வழங்கல் மற்றும் பெருந்தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான் உலகளாவிய சிறந்த இளம் தலைவராக (Young Global Leader) உலகப் பொருளாதார மன்றத்தால் தெரிவு செய்யப்பட்டுள்ளார்.
+
+இலங்கை அமைச்சர் ஒருவர் உலகளாவிய சிறந்த இளம் தலைவராக தெரிவு செய்யப்படுவது  இதுவே முதல் முறையாகும்.
+
+இலங்கை வரலாற்றில் முதல் முறையாக உலகளாவிய சிறந்த இளம் தலைவராக தெரிவு செய்யப்பட்ட முதல் அமைச்சர் என்ற பெருமையை ஜீவன் தொண்டமான் பெற்றுள்ளமை குறிப்பிடத்தக்கதொன்றாகும் என  நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சு வெளியிட்டுள்ள அறிக்கையில் தெரிவித்துள்ளது.
+
+உலகளாவிய சிறந்த இளம் தலைவர் சமூகம் என்பது உலகளாவிய எதிர்காலத்தை வடிவமைப்பதில் உறுதிப்பாட்டை பகிர்ந்து கொள்ளும் 1,000 க்கும் மேற்பட்ட  இளம் தலைவர்களைக் கொண்ட ஒரு தனித்துவமான, பல-பங்குதாரர் சமூகமாகும்.
+
+...
+
+[Data](articles/436226cf.json)
+
+---
+
+### கடந்த 3 மாதங்களில் சுமார் 75 ஆயிரம் பேர் வேலைவாய்ப்புக்காக வெளிநாடுகளுக்கு பயணம் ; அதில் 46 வீதமானோர் பெண்கள்!
+
+*2024-04-05 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180494) · `ta`
+
+2024ஆம் ஆண்டின் முதல் மூன்று மாதங்களில் 74,499 இலங்கையர்கள் தொழில் நிமித்தம் வெளிநாடுகளுக்கு சென்றுள்ளதாக இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகம் நேற்று (04) தெரிவித்துள்ளது.
+
+வேலைவாய்ப்பு பெற்று வெளிநாடுகளுக்கு சென்ற 74,499 இலங்கையர்களில் 46 வீதமானோர் பெண்கள் ஆவர்.
+
+கடந்த 2023இல் இதே காலகட்டத்தில் 76,025 இலங்கை பணியாளர்கள் வெளிநாடுகளுக்கு சென்றனர். அந்த எண்ணிக்கையோடு ஒப்பிடுகையில், இந்த ஆண்டின் முதல் காலாண்டில் வெளிநாடுகளுக்கு சென்றவர்களின் எண்ணிக்கையில் சற்று வீழ்ச்சி ஏற்பட்டுள்ளது.
+
+இலங்கையர்கள் பெரும்பாலும் தென்கொரியா, இஸ்ரேல், ஜப்பான் போன்ற நாடுகளில் வேலைவாய்ப்பு பெற விரும்புகின்றனர்.
+
+அதனடிப்படையில், 2024ஆம் ஆண்டின் முதல் மூன்று மாதங்களில் 17,793 பேர் குவைத்துக்கும், 2,374 பேர் தென் கொரியாவுக்கும், 2,114 பேர் இஸ்ரேலுக்கும், 1,899 பேர் ருமேனியாவுக்கும், 1,947 பேர் ஜப்பானுக்கும் சென்றுள்ளனர்.
+
+அத்துடன், இந்த ஆண்டின் முதல் இரண்டு மாதங்களில் வெளிநாடுகளில் தொழில் புரியும் இலங்கையர்கள் 963.8 மில்லியன் அமெரிக்க டொலர்களை இலங்கைக்கு அனுப்பியுள்ளனர் என குறிப்பிட்டுள்ளது.
+
+...
+
+[Data](articles/5d19900e.json)
+
+---
+
+### Adjournment debate on the Passover attack
 
 *2024-04-05 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195340) · `si`
 
-පාස්කු ප්‍රහාරය සම්බන්ධයෙන් සභාව කල්තැබීමේ විවාදයක් අප්‍රේල් 24, 25 හා 26 යන තෙදින පුරා පැවැත්වීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වී තිබේ.
+The Committee on Adjournment decided to hold the churral election on April 24, 25, and 26 regarding the Passover attack.
+
+🟩
+
+The Committee on Adjournment on April 24, 25 and 26 has decided to hold the churral election on April 24, 25 and 26 of the Passover attack.
 
 ◼️
 
 [Data](articles/8c79c905.json)
 
+[Extended Data](ext_articles/8c79c905.ext.json)
+
 ---
 
-### ලෝකෙටම හිසරදයක් වූ චීන - අමෙරිකා වෙළෙඳ යුද්ධය
+### Chinese - American Trading War, a headache for the world
 
 *2024-04-05 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195339) · `si`
 
-ලොව අංක එකේ ආර්ථිකය සහ අංක දෙකේ ආර්ථිකය වන අමෙරිකාව සහ චීනය අතර වෙළෙඳපොළ තරගයක් පැවතියද එය ඔවුන් අතර නිරන්තරව පැවැත්වෙන සංවාදය සඳහා බාධාවක් වී නොමැත.
+US Treasury Secretary Janet Yellen visited China, focusing on manufacturing needs like Chinese electric vehicles and solar panels. She aimed to investigate Chinese companies' impact on global markets and their direct product releases to the US. Yellen highlighted competition issues, especially China's production capacity affecting the US. If China doesn't comply, the US may increase duties on Chinese products.
 
-දෙරට අතර වෙළෙඳාම සහ ආයෝජන සම්බන්ධයෙන් පැන නැගී ඇති ගැටලු පිළිබඳ චීන සහ අමෙරිකානු වාණිජ දෙපාර්තමේන්තු නිලධාරීන් අතර හමුවක් වොෂින්ටනයේදී ඊයේ (05) පැවැත්වුණි.
+🟩
 
-අමෙරිකානු ආර්ථිකය මෙහෙයවීමේ ජ්‍යේෂ්ඨතම නිලධාරිනිය වන භාණ්ඩාගාර ලේකම් ජැනට් යෙලන් චීනයට පැමිණියේ ඊට සමගාමීව බව වාර්තා වෙයි.
+Although the world's number one economy and the two-number economy, the US and the two economy, and China, has not hindered the conversation between them.
 
-සිය සිව්දින සංචාරයේදී අමෙරිකානු භාණ්ඩගාර ලේකම්වරිය විශේෂ ක්ෂේත්‍රයන් කිහිපයක් පිළිබඳව අවධානය යොමු කිරීමට නියමිතය.
+In Washington yesterday (05) was held yesterday (05).
 
-ඒ චීන විද්‍යුත් වාහන සහ සූර්ය පැනල ඇතුළු නිෂ්පාදන අවශ්‍යතා අභිබවා ගෝලීය වෙළෙඳපොළට නිකුත් කිරීම පිළිබඳව ය.
+The Treasury Secretary Genet, Jannett, arrived in China, the Senan of the American economy.
 
-රජයේ දිරිගැන්වීම සහනාධාර ලබන චීන සමාගම් සිය නිෂ්පාදන අඩුමිලට වෙළෙඳපොළට නිකුත් කිරීම අමෙරිකාව ඇතුළු අනෙකුත් රටවලට ඍජුවම බලපාන බවට ඇය මෙහිදී කරුණු ඉදිරිපත් කර තිබුණාය.
+The USA's Managing Division is due to focus on several special areas during his four day tour.
 
-අමෙරිකානු භාණ්ඩාගාර ලේකම්වරිය සිය චීන සංචාරය ආරම්භ කළේ ගුවැන්ඩොන් ප්‍රාන්තයෙනි.
+It is on the issue of manufacturing needs including Chinese electrical vehicles and solar panels and issuing the global market.
+
+Encouraging Government Investigate Chinese companies have a direct impact on the chemicals to the market and releasing their products directly to the US.
+
+The US Treasury secretary commenced his visit to China from Guandon.
+
+She said that she pointed out that there should be similar competition in the industry in the industry.
+
+In particular, China's production capacity is a problem for many countries including USA.
 
 ...
 
 [Data](articles/18a728c3.json)
+
+[Extended Data](ext_articles/18a728c3.ext.json)
 
 ---
 
@@ -1200,6 +1282,28 @@ Professor GL Perera, Dilan Perera, Dr. Nalaka Godahewa, KP Kumarasiri, Dr. Upul 
 
 ---
 
+### 'මම ලියන හැටි' : තරංගනී රෙසිකා ප්‍රනාන්දු
+
+*2024-04-05 10:21:27* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cekellgxgmmo) · `si`
+
+තරංගනී රෙසිකා ප්‍රනාන්දු නවකතාකාරියක ලෙස අවදානයට පාත්‍ර වන්නේ 'දේශද්‍රෝහියාගේ නිර්මල හෘදය'  නවකතාව සමගින් ය. ‘ජේරුසලම් දූවරුණි’ යනු ඇගේ දෙවන නවකතාව යි.
+
+සමාජ දේශපාලන ක්‍රියාකාරීත්වය, දේවධර්මය සහ ලෞකිකත්වය අතර දෝලනය වන නව සෞන්දර්යයක් නවකතාවට හඳුන්වා දෙන ඇය සමකාලීන සිංහල සාහිත්‍යය තුළ  සිටින සුවිශේෂී ලේඛිකාවක් ලෙස සැලකිය හැකිය.
+
+මා ඇය සමග කතාබහක යෙදෙන්නේ නවකතාකාරියක ලෙස ඇය ලේඛනයේ යෙදෙන විට ඇයට දැනෙන හැඟීම් සහ ලිවීම සමඟ බැඳුණු  ඇයට ම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් ය.
+
+මේ සාකච්ඡාව තුළ  මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළකර ඇති ‘නිම්නාගේ ඉතිහාසය’ (2019) සහ ‘මේ රහස් කවුලුවෙන් එබෙන්න’ (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුනු ඒවා ය.
+
+හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේම වූ ආකාරයකට ය යන්න ප්‍රකට කරුණකි.
+
+ලියන තැන, ලියන විදිහ, ලියන කාලයට හැසිරෙන හැටි සහ ලියන විට විඳින සතුට වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියටය. මේ සංවාද මාලාව උත්සාහ කරන්නේ නවකතාකරුවන්ගේ එම රහස් අඩවිය වෙත එබී බැලීමට ය.
+
+...
+
+[Data](articles/ccd1abfc.json)
+
+---
+
 ### IGP Tennakoon appears before Supreme Court
 
 *2024-04-05 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98439/igp-tennakoon-appears-before-supreme-court) · `en`
@@ -1822,7 +1926,7 @@ Misty conditions can be expected at some places in Western, Central and Sabaraga
 
 The general public is urged to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
 
-Meanwhile, on the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka from 05 to 15 April this year. The nearest areas of Sri Lanka over which the sun is overhead today (05th) are Balapitiya, Elpitiya, Morawaka and Tissamaharama at about 12.12 p.m.
+Meanwhile, on the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka from 05 to 15 April this year. The nearest areas of Sri Lanka over which the sun will be overhead today (05) are Balapitiya, Elpitiya, Morawaka and Tissamaharama at about 12.12 p.m.
 
 ◼️
 
@@ -2135,119 +2239,5 @@ In addition, the Committee has approved the appointments of (Eng) R.G. Rubasingh
 [Data](articles/2609f8e6.json)
 
 [Extended Data](ext_articles/2609f8e6.ext.json)
-
----
-
-### Baltimore Bridge Collapse: MV Dali, SL authorities anchored in mystery?
-
-*2024-04-05 02:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/Baltimore-Bridge-Collapse-MV-Dali-SL-authorities-anchored-in-mystery/131-280215) · `en`
-
-The collapse of the Dali’s vital operating systems left the vessel adrift until it ultimately collided with the Francis Scott Key Bridge
-
-MV Dali was bound for Sri Lanka and then to China in a trip that was expected to take 36 days
-
-MV Dali, the containership that wreaked havoc along an important shipping route in the Port of Baltimore, had one Sri Lankan among a crew comprising 21 employees
-
-What has been of particular concern is the fact that the ship had been carrying 56 containers of hazardous materials, totaling 764 tons
-
-Recurring events relating to hazardous transboundary shipments have raised concerns regarding Sri Lanka’s efforts to strengthen maritime laws
-
-...
-
-[Data](articles/f7d8e393.json)
-
-[Extended Data](ext_articles/f7d8e393.ext.json)
-
----
-
-### A face-off that promises a surprise ending - EDITORIAL
-
-*2024-04-05 02:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/A-face-off-that-promises-a-surprise-ending-EDITORIAL/172-280214) · `en`
-
-Opposition Leader Sajith Premadasa and his camp received a positive response from the National People’s Power (NPP) for a debate on the country’s economy. It’s a bit strange for the NPP to have agreed to a face-off with Premadasa because the JVP-led alliance prefers staging debates in an environment where experts speak on topics where analysis, statistics, reasoning and logic shape the direction of the ‘conversation’.
-
-We all know that ‘conversation’ might not be the most appropriate word to use in the context of a debate. Debates where Sri Lankan lawmakers feature in are hostile and very seldom do parties at loggerheads accept shortcomings and agree on a compromise. But this time around things might be different, according to reports reaching us from reliable sources.
-
-...
-
-[Data](articles/328cdf37.json)
-
-[Extended Data](ext_articles/328cdf37.ext.json)
-
----
-
-### National Oil Rubbing Ceremony on April 15
-
-*2024-04-05 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180457) · `ta`
-
-The National Oil Rubbing Ceremony, part of Tamil and Sinhala New Year celebrations, is scheduled for April 15 at 10.17 am. The Ministry of Indigenous Medicine and Ayurvedic Department will also hold the Ayurex 2024 Exhibition from May 3-5, focusing on Ayurvedic goods and centers.
-
-🟩
-
-Indigenous Medical Minister Sisira Jayakody said that the National Festival of Oil Rubbing, one of the auspicious events of the Tamil and Sinhala New Year celebrations, will be held on April 15 at 10.17 am.
-
-Indigenous Medical Minister Sisira Jayakody made this statement at a media briefing held at the Presidential Media Center on Thursday (04).
-
-The Ministry of Indigenous Medicine and Ayurvedic Department has organized the National Festival of Oil Rubing, the unique rituals of New Year's celebrations at 10.17 am at the Hendala Purana Rajamaha Viharaya, Wattala.
-
-Also, the last Subhasa ritual of the Sinhala and Tamil New Year celebrations will be held on April 18. The Ministry of Indigenous Medicine has named that tomorrow called 'Murunga Day'. That day, we urge all people to plant all the people in their garden, the most nutritious and more medicinal.
-
-It has also decided to provide drumsticks to the ritual of oil and tree planting for the head.
-
-...
-
-[Data](articles/d2ebc590.json)
-
-[Extended Data](ext_articles/d2ebc590.ext.json)
-
----
-
-### Signal lamp for the railway crossing of the two lives
-
-*2024-04-05 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180473) · `ta`
-
-Minister Douglas Devananda launched a signal lamp at a railway crossing in Uruvil, following a tragic accident that claimed two lives. The temporary solution aims to prevent future accidents.
-
-🟩
-
-In the efforts of Minister Douglas Devananda, a signal lamp and a security door, in the efforts of Minister Douglas Devananda, who sacrificed two lives, its operations were launched on Thursday (05).
-
-On February 14, the young family traveled in a van when they tried to cross the train crossing the Uruvil area.The young family leader and Bachilam child died tragically on the spot. The child's mother is admitted to the hospital in critical condition and is being treated.
-
-Following the accident, Minister Douglas Devananda, who visited the area, immediately implemented a temporary solution to the unprotected railway crossing in the area, and the government had taken steps to implement a permanent solution.
-
-In this backdrop, Minister Douglas Devananda has formally launched the operation of the signal lamp installed by the Railways Department at a cost of Rs 80 lakh.
-
-◼️
-
-[Data](articles/b9de0e1f.json)
-
-[Extended Data](ext_articles/b9de0e1f.ext.json)
-
----
-
-### A car accident in Vavuniya
-
-*2024-04-05 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180472) · `ta`
-
-A car crashed into a motorcycle in Vavuniya, injuring two, on Thursday evening at Railway Station Road. The car driver fled without stopping. The injured were taken to hospital. The police are searching for a photo taken by witnesses.
-
-🟩
-
-A car crashed into a motorcycle in Vavuniya and two men were injured and admitted to hospital.
-
-The accident took place on Thursday evening (04) at the Railway Station Road, Vairavapuliyankulam, Vavuniya.
-
-When a motorcycle was riding through the railway station in Vavuniya, a car collided with a motorcycle and escaped without stopping the vehicle.
-
-The mother and son who was riding a motorcycle in the accident were injured and admitted to the hospital. The damaged motorcycle was taken by the police and the Vavuniya police are searching for a photo taken by the people standing up in the area and the help of Sisirivi Ganoli.
-
-It is noteworthy that EP CBL 6679 has escaped from a car accident.
-
-◼️
-
-[Data](articles/0add92ef.json)
-
-[Extended Data](ext_articles/0add92ef.ext.json)
 
 ---

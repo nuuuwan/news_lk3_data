@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 08:03:44**
+As of **2024-04-05 08:18:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,786
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,258 (100.0%) of 17,260 articles have been extended.
+17,260 (100.0%) of 17,260 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,31 @@ A senior official of the Department of Immigration and Emigration said the suspe
 
 [Data](articles/208194d4.json)
 
+[Extended Data](ext_articles/208194d4.ext.json)
+
 ---
 
-### ශ්‍රීලනිපය දැන් කාගේද ?
+### Whose is the SLFP right now?
 
 *2024-04-05 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195319) · `si`
 
-පක්ෂයේ දේශපාලන තීන්දු ගැනීම පක්ෂ මධ්‍යම කාරක සභාව ඇතුළු පක්ෂයේ සෙසු කාරක සභා මගින් පමණක් තීරණය කරන බව ශ්‍රී ලංකා නිදහස් පක්ෂ ජ්‍යෙෂ්ඨ උප සභාපති මහාචාර්ය රෝහණ ලක්ෂ්මන් පියදාස මහතා පවසයි.
+SLFP's leadership is currently under dispute, with an injunction issued by the Colombo District Court preventing Maithripala Sirisena from leading the party. The decision is based on the party's central committee, with Prof. Rohana Lakshman Piyadasa emphasizing the judiciary's role in the process.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා වශයෙන් කටයුතු කරන හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට එම ධුරයේ කටයුතු කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය ඊයේ (04) වාරණ නියෝගයක් නිකුත් කරනු ලැබීය.
+🟩
 
-නිදහස් පක්ෂයේ අනුශාසකවරියක වන හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය විසින් ඉදිරිපත් කළ පැමිණිල්ලක් සලකා බැලීමෙන් අනතුරුව කොළඹ දිසා විනිසුරුවරයා ලබන 18 වනදා දක්වා බලපැවැත්වෙන පරිදි එම වාරණ නියෝගය නිකුත් කර තිබුණි.
+The Sri Lanka Freedom Party Vice President Professor Rohana Lakshman Piyadasa says that the political decision of the party is based on the party's central committee.
 
-කෙසේවෙතත් අධිකරණය ක්‍රියාවලිය තුළ නීතිමය පැහැදිලි කිරීමක් මගින් අතුරු තහනම් නියෝගයක් නිකුත් කළද පක්ෂයේ දේශපාලන ඉදිරි තීන්දු තීරණ පක්ෂයේ කාරක සභාවන් විසින් ගනු ඇති බව පක්ෂ ජ්‍යෙෂ්ඨ උප සභාපති මහාචාර්ය රෝහණ ලක්ෂ්මන් පියදාස මහතා සඳහන් කළේය.
+The Colombo District Court yesterday issued an enjoining order preventing Mr. Maithripala Sirisena who was the Chairman of the Sri Lanka Freedom Party (SLFP).
+
+The injunction had issued the Weliatha, the District Judge of the Freedom Party (SLTD).
+
+However, the Senior Vice President of the party, Prof. Rohana Lakshman Piyadasa said that although the judiciary was issued by a legal explanation in the process of a legal explanation.
 
 ◼️
 
 [Data](articles/090ad7ae.json)
+
+[Extended Data](ext_articles/090ad7ae.ext.json)
 
 ---
 

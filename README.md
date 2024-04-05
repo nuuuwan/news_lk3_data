@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 17:53:56**
+As of **2024-04-05 18:09:05**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 2,811
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,365 (100.0%) of 17,367 articles have been extended.
+17,367 (100.0%) of 17,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### විදෙස් සහ රන් සංචිතය ගැන මහ බැංකුවේ නිවේදනයක්
+### Central Bank announces about Gold Foreign Reserve
 
 *2024-04-05 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195345) · `si`
 
-මෙරට නිල සංචිත වත්කම් ප්‍රමාණය 2024 මාර්තු මාසය තුළ දී 9.5% කින් ඉහළ ගොස් ඇති බව ශ්‍රී ලංකා මහ බැංකුව නිවේදනය කරයි.
+Sri Lanka's official reserves rose 9.5% in March 2024, reaching $4.95B. The forex pool increased 9.6%, and the gold reserve grew 9.1% to $34M. The People's Bank of China's forex reserves, valued at $1.4B, are now part of Sri Lanka's reserves under certain conditions.
 
-ඒ අනුව 2024 පෙබරවාරි මාසය අවසානයේ දී අමෙරිකානු ඩොලර් බිලියන 4.52 ක්ව පැවති මෙරට නිල සංචිත වත්කම් ප්‍රමාණය 2024 මාර්තු මාසය අවසානය වන විට ඩොලර් බිලියන 4.95 ක් දක්වා ඉහළ ගොස් ඇත.
+🟩
 
-මෙම නිල සංචිත වත්කම් තුළ අන්තර්ගත ප්‍රධාන සංරචකය වන විදේශ විනිමය සංචිතය 9.6% කින් මාර්තු මාසය තුළ දී ඉහළ ගොස් තිබේ.
+The number of official reserves of the country has increased by 9.5% in March 2024, the Central Bank of Sri Lanka.
 
-එහිදී 2024 පෙබරවාරි මාසය අවසානයේ දී මහ බැංකුව සතුව පැවති ඩොලර් බිලියන 4.48 ක්වූ විදේශ විනිමය සංචිතය 2024 මාර්තු මාසය අවසන් වන විට ඩොලර් බිලියන 4.91 ක් දක්වා වැඩි වී ඇත.
+Accordingly, in the end of February 2024, Sri Lanka's official reserved assets increased to $ 4.95 billion by the end of March 2024.
 
-මේ අතර 2024 මාර්තු මාසය තුළ දී මහ බැංකුව සතු රන් සංචිතය ද ඩොලර් මිලියන 31 සිට ඩොලර් මිලියන 34 ක් දක්වා 9.1% කින් ඉහළ ගොස් තිබේ.
+The forex pool, the main component of this official reserve assets, has increased in March by 9.6% in March.
 
-මෙම සංචිත වත්කම් තුළ එක්සත් ජනපද ඩොලර් බිලියන 1.4කට පමණ සමාන වූ චීන මහජන බැංකුවෙන් ලද විදේශ විනිමය හුවමාරු පහසුකමෙහි ලැබීම් අන්තර්ගත වන අතර, එය භාවිතා කිරීමේ දී කොන්දේසිවලට යටත් වන බව ශ්‍රී ලංකා මහ බැංකුව වැඩිදුරටත් සඳහන් කරයි.
+At the end of February 2024, the Forex reserve of foreign exchange reserves in March 2024 increased to $ 4.91 billion by the end of March 2024.
+
+Meanwhile, the golden squad owned by the Central Bank increased by 9.1% to US $ 34 million in March 2024.
+
+According to the Central Bank of People's Bank, the foreign exchange exchange feature of the People's Bank of China, which is equivalent to about $ 1.4 billion in the reserve assets, is included in the Chinese People's Bank, which will be subject to conditions.
 
 ◼️
 
 [Data](articles/f2cda9f7.json)
+
+[Extended Data](ext_articles/f2cda9f7.ext.json)
 
 ---
 

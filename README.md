@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 11:18:13**
+As of **2024-04-05 11:33:52**
 
 ## Newspaper Stats
 
-*Scraped **17,285** Articles*
+*Scraped **17,287** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,68 @@ adalk | 1,458
 tamilmirrorlk | 2,044
 adaderanalk | 2,072
 virakesarilk | 2,515
-dailymirrorlk | 2,649
+dailymirrorlk | 2,651
 adaderanasinhalalk | 2,793
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,283 (100.0%) of 17,285 articles have been extended.
+17,285 (100.0%) of 17,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### யாழில் நித்திரைக்கு சென்றவர் மயங்கிய நிலையில் உயிரிழப்பு
+### No ground for Indian claim on Katchatheevu, says Sri Lankan Minister
+
+*2024-04-05 11:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-ground-for-Indian-claim-on-Katchatheevu-says-Sri-Lankan-Minister/108-280233) · `en`
+
+Jaffna, April 5 (NDTV) - The statements coming out of India on "reclaiming" Katchatheevu island from Sri Lanka have "no ground", the Sri Lankan Minister of Fisheries Douglas Devananda has said.
+
+The senior Sri Lankan Tamil politician's comments came days after the Narendra Modi government targeted the Congress Party and its ally the Dravida Munnetra Kazhagam (DMK) in Tamil Nadu accusing them of overlooking national interests in the ceding of Katchatheevu island to Sri Lanka in 1974.
+
+The BJP has also been targeting the two parties for not ensuring the rights of the fishermen wanting to fish in waters around the Katchatheevu island.
+
+“It is the election time in India, it is not unusual to hear such noises of claims and counterclaims about Katchatheevu ," Devananda told reporters in Jaffna on Thursday.
+
+...
+
+[Data](articles/bbd3d43c.json)
+
+---
+
+### SJB signs MOU with section of Nidahasa Janatha Sabawa
+
+*2024-04-05 11:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-signs-MOU-with-section-of-Nidahasa-Janatha-Sabawa/108-280232) · `en`
+
+Colombo, April 5 (Daily Mirror)- A section of the Nidahasa Janatha Sabawa signed an MOU with the Samagi Jana Balawegaya to form an alliance, SJB Smspokesman S.M. Markar told journalists today.
+
+Six MPs including Professor G. L. Peiris, Dilan Perera. Nalaka Godahewa are some of the signitories.
+
+◼️
+
+[Data](articles/91efd747.json)
+
+---
+
+### The man who went to sleep in Jaffna dies
 
 *2024-04-05 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180489) · `ta`
 
-வீட்டில் இரவு தூங்கியவர் மறுநாள் காலை 07 மணியாகியும் தூக்கத்தால் எழும்பாததால், வீட்டார் அவரை தொட்டு எழுப்ப முயன்ற போது , அவர் சுயநினைவற்ற நிலையில் காணப்பட்டுள்ளார்.
+A man in Jaffna died after being found unconscious at home. He was taken to Jaffna Bodhana Hospital for treatment.
 
-அதனை அடுத்து வீட்டார் அவரை யாழ்.போதனா வைத்தியசாலையில் அனுமதித்த நிலையில் , வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் நேற்று வியாழக்கிழமை (04) சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+🟩
+
+The man who slept at home at home did not get up at 7 am and did not wake up, and when the house tried to touches him, he was found unconscious.
+
+The house was admitted to the Jaffna Bodhana Hospital and was treated at the hospital.
 
 ◼️
 
 [Data](articles/7e077633.json)
+
+[Extended Data](ext_articles/7e077633.ext.json)
 
 ---
 
@@ -90,21 +128,27 @@ Jaish Al Athl also claimed the attack on the killing of 11 Iranian soldiers last
 
 ---
 
-### සමගි ජන සන්ධානයේ ගිවිසුම අත්සන් කරයි
+### Signs signal coalition agreement
 
 *2024-04-05 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195326) · `si`
 
-සමගි ජන සන්ධානය පිහිටුවීමට අදාළ අවබෝධතා ගිවිසුම අත්සන් තබා තිබේ.
+The UPFA's establishment was signed by Prof. GL Peiris and Ranjith Madduma Bandara, with six G Partners members also signing, including Prof. GL Perera, Dilan Perera, Dr. Nalaka Godahewa, KP Kumarasiri, Dr. Upul Galappaththi, and Wasantha Yapa Bandara.
 
-මහාචාර්ය ජී.එල් පිරිස් සහ රංජිත් මද්දුම බණ්ඩාර මහතා විසින් අද (05) පෙරවරුවේ අදාළ ගිවිසුම අත්සන් තබා ඇත.
+🟩
 
-ඒ අනුව නිදහස ජනතා සභාවේ මන්ත්‍රීවරුන් 06 දෙනෙකු වෙන් වෙන් වශයෙන් සමගි ජන සන්ධානය එක් වෙමින් අවබෝධතා ගිවිසුම්වලට අත්සන් තබා තිබේ.
+The MoU has signed the establishment of the UPFA.
 
-මහාචාර්ය ජී.එල් පිරිස්, ඩිලාන් පෙරේරා, ආචාර්ය නාලක ගොඩහේවා, කේ.පී කුමාරසිරි, වෛද්‍ය උපුල් ගලප්පත්ති සහ වසන්ත යාපා බණ්ඩාර යන මන්ත්‍රීවරුන් මෙලෙස සමගි ජන සන්ධානයට එක්වී ඇක.
+Prof. GL Peiris and Ranjith Madduma Bandara have signed the relevant agreement this morning.
+
+Accordingly, the reconciliation alliance has been signed by six members of the G Partners in the G Partners.
+
+Professor GL Perera, Dilan Perera, Dr. Nalaka Godahewa, KP Kumarasiri, Dr. Upul Galappaththi and Wasantha Yapa Bandara were reported to the UPFA.
 
 ◼️
 
 [Data](articles/423e45dd.json)
+
+[Extended Data](ext_articles/423e45dd.ext.json)
 
 ---
 
@@ -2203,47 +2247,5 @@ It is noteworthy that the protest was attended by public, Eastern University stu
 [Data](articles/d394877a.json)
 
 [Extended Data](ext_articles/d394877a.ext.json)
-
----
-
-### MPs who call Sri Lanka Freedom Party their home eager to return: Amaraweera
-
-*2024-04-04 18:15:00* · [`economynextcom`](https://economynext.com/mps-who-call-sri-lanka-freedom-party-their-home-eager-to-return-amaraweera-157600/) · `en`
-
-ECONOMYNEXT — The “good MPs” in parliament consider the Sri Lanka Freedom Party (SLFP) their home and are eager to return, and the party will fill vacancies in its senior leadership levels in due course, Minister Mahinda Amaraweera said.
-
-Speaking to reporters on Thursday April 04, Amaraweera said former president and then SLFP leader Chandrika Bandaranaike Kumaratunga was compelled to take legal action against incumbent chairman and former president Maithripala Sirisena after actions led to a deterioration of the party.
-
-Sirisena’s actions ended up scuttling a number of opportunities for the SLFP to lead a broader alliance, Amaraweera claimed.
-
-According to media reports, an Interim order was issued by the Colombo District Court Friday morning preventing Sirisena from functioning as the SLFP’s chairman.
-
-The verdict was issued following a petition filed by former President Kumaratunga.
-
-...
-
-[Data](articles/3bee2c31.json)
-
-[Extended Data](ext_articles/3bee2c31.ext.json)
-
----
-
-### President ensures uninterrupted public services for Sinhala & Tamil New Year
-
-*2024-04-04 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-ensures-uninterrupted-public-services-for-Sinhala-Tamil-New-Year/108-280193) · `en`
-
-Colombo, April 04 - With the Sinhala and Tamil New Year just around the corner, President Ranil Wickremesinghe has issued directives to ensure the seamless continuation of essential public services during the festive season, said the President's Media Division (PMD).
-
-Emphasizing the importance of uninterrupted services, the President has instructed officials to develop a comprehensive program aimed at maintaining essential services without any disruptions.
-
-Under the President's directive, key institutions falling under the essential services category, including the Presidential Secretariat, the Prime Minister's Office, and the Ministries of Defence, Health, Transport, and Power and Energy, are to collaborate closely to formulate this program.
-
-The goal is to guarantee the smooth operation of vital services crucial for the well-being of citizens during the New Year celebrations.
-
-...
-
-[Data](articles/4e02c6c4.json)
-
-[Extended Data](ext_articles/4e02c6c4.ext.json)
 
 ---

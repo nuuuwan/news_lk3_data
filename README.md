@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 20:03:34**
+As of **2024-04-05 20:18:02**
 
 ## Newspaper Stats
 
-*Scraped **17,380** Articles*
+*Scraped **17,381** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ tamilmirrorlk | 2,048
 adaderanalk | 2,090
 virakesarilk | 2,535
 dailymirrorlk | 2,663
-adaderanasinhalalk | 2,813
+adaderanasinhalalk | 2,814
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,378 (100.0%) of 17,380 articles have been extended.
+17,380 (100.0%) of 17,381 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### දමිතා කළ වැරැද්ද අධිකරණයේ දී හෙළිවෙයි
+
+*2024-04-05 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195348) · `si`
+
+අත්අඩංගුවට ගත් ජනප්‍රිය රංගන ශිල්පිනී දමිතා අබේරත්න හා ඇයගේ සැමියා ආගාමික හා විගාමික පනත යටතේ වරදක් සිදුකර ඇතැයි අද (05) අධිකරණයේ දී අනාවරණය වුණි.
+
+◼️
+
+[Data](articles/28ea00a5.json)
+
+---
 
 ### Mobile phone prices dropped significantly, dealers say
 
@@ -468,21 +480,33 @@ The court issued a request made by the Bribery Commission to issue the authoriza
 
 ---
 
-### නුවරඑළියේ ගෝවා අනුරාධපුරයේ වැවූ කැලුම්
+### Kallum, Kamudu in Nuwara Eliya
 
 *2024-04-05 16:52:55* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළියේ-ගෝවා-අනුරාධපුරයේ-වැවූ-කැලුම්/11-408972) · `si`
 
-ලංකා ඉතිහාසයේ පළමු වතාවට නුවරඑළියේ  වගා කරන ගෝවා බීජ ප්‍රභේදයක් අනුරාධපුර දීස්ත්‍රික්කයේ මහාඉලුක්පල්ලම ප්‍රදේශයේ හේනක වගා කොට   සාර්ථක අස්වැන්නක් ලබන තරුණ ගොවියකු පිළිබඳව  පුවතක් වා ර් තා විය .
+A young farmer in Anuradhapura successfully cultivates cabbage seeds from Nuwara Eliya, marking a first in Ceylon. Despite challenging weather, the crop is ready to harvest. Sanjeewa Kelum Dasasanayake, the 29-year-old, aims to revolutionize farming in the region.
 
-මෙම අත්හදා බැලීම   සිදු කරනු ලැබුවේ මහාඉලූක්පල්ලම   මහමිගස්වැව   ප්‍රදේශයේ පදිංචි ඩී .එම් . සංජීව කැලුම් දිසානායක 29   තරුණයෙකි
+🟩
 
-සමස්ත  තරුණ පරපුරටම ආදර්ශයක් දෙමින් සංජීව කැලුම් දීසානායක මහතාගේ මාස තුනක ඉලක්කගත ආදායම රුපියල් ලක්ෂ පහළොවක් බව සඳහන් කළේය.
+A variety of cabbage seeds growing in Nuwara Eliya for the first time in the history of Ceylon has grown to a young farmer in Anuradhapura.
 
-තල, බඩ, ඉරිඟු, රටකජු ,ආදී වගා කරන ලද හේනක නුවරඑළියේ වගා කරන ගෝවා ප්‍රභේදයක්  මිලදී ගෙන  මෙම තරුණයා වගා කොට තිබේ. මේ වන විට අස්වැන්න  නෙලන්නට ආසන්නව ඇත . රජරට දැඩිවියලි කාලගුණික තත්ත්වයක් පැවතියද මෙම තරුණයා ගේ  ගෝවා වගාව බැලූ බැල්මට  නුවරඑළියේ වගාවක් ලෙස දිස්වීම විශේෂත්වයකි.
+This experiment was residing in the Mahamigaswewa area. Sanjeewa Kamum Dissanayake is 29 youth
+
+Sanjeewa Kelum Dasasanayake said that Sanjeewa Dasasanayake was Rs.
+
+The young man has been cultivated and cultivated a variety of cabbage grown in Nuwara Eliya.. This is about to harvest by now. Despite the fact that Rajarata has had a weather conditions, the young man appears as a Cultivation at Nuwara Eliya.
+
+Cultivation of New Farming Problems from an early age as a young manHe said that he had a success of the cabbage in Anuradhapura district that he was suitable for the first time.
+
+Sanjeewa Kelum said that other areas that cabbage seeds grown in Nuwara Eliya cannot be grown in other areas
+
+This youth was successfully carried out and said that the result of the three-month-to-three-month-olds the target was fifteen
 
 ...
 
 [Data](articles/3cffdd96.json)
+
+[Extended Data](ext_articles/3cffdd96.ext.json)
 
 ---
 
@@ -2323,25 +2347,5 @@ He said the SLHRC had received 9,417 public complaints against the police for 20
 [Data](articles/77ff0d96.json)
 
 [Extended Data](ext_articles/77ff0d96.ext.json)
-
----
-
-### 24 suspects died in police custody last year
-
-*2024-04-05 08:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/24-suspects-died-in-police-custody-last-year/155-280221) · `en`
-
-Colombo, April 5 (Daily Mirror) - Sri Lanka Human Rights Commission (SLHRC) has reported that 24 suspects had died in police custody last year.
-
-Chairman of the Commission Attorney at Law Nimal Punchihewa said killing in police shootings when suspects were taken to secret locations to recover weapons had been reported frequently and that it was the responsibility of the OIC of the police station to provide protection to the suspects in custody.
-
-He said that two suspects had died in police custody in the last two months.
-
-He said the SLHRC had received 9,417 public complaints against the police for 2023 and 44 of them referred to incidents in the Yukthiya operation.
-
-◼️
-
-[Data](articles/e6ea4e32.json)
-
-[Extended Data](ext_articles/e6ea4e32.ext.json)
 
 ---

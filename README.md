@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 15:33:49**
+As of **2024-04-05 15:52:16**
 
 ## Newspaper Stats
 
-*Scraped **17,336** Articles*
+*Scraped **17,339** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,93 @@ tamilmirrorlk | 2,047
 adaderanalk | 2,082
 virakesarilk | 2,525
 dailymirrorlk | 2,658
-adaderanasinhalalk | 2,801
+adaderanasinhalalk | 2,804
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,333 (100.0%) of 17,336 articles have been extended.
+17,336 (100.0%) of 17,339 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### மட்டு. வாகரை பிரதேசத்தில் வெடிப்பொருட்கள் சில மீட்பு
+### ශ්‍රීලනිප දේශපාලන මණ්ඩලය කැඳවන්නැයි නිමල් සිරිපාල ඉල්ලයි
+
+*2024-04-05 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195338) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ දේශපාලන මණ්ඩලයේ හදිසි රැස්වීමක් කැඳවන ලෙස එම පක්ෂයේ ජ්‍යේෂ්ඨ උප සභාපති නිමල් සිරිපාල ද සිල්වා මහතා ඉල්ලීමක් කර තිබේ.
+
+එම පක්ෂයේ වැඩබලන ලේකම් දුෂ්මන්ත මිත්‍රපාල මහතා වෙත ලිපියක් යොමු කරමින් නිමල් සිරිපාල ද සිල්වා මහතා එම ඉල්ලීම කර තිබුණි.
+
+◼️
+
+[Data](articles/3095b19c.json)
+
+---
+
+### ඇම්.ජී. වීරසේන පාර්ලිමේන්තුවට
+
+*2024-04-05 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195337) · `si`
+
+ඇම්.ජී. වීරසේන මහතාව පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස තෝරා පත්කරන බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+
+ඒ අභාවප්‍රාප්ත එච්. නන්දසේන මහතා වෙනුවට පුරප්පාඩු වූ මන්ත්‍රී ධුරය වෙනුවෙනි.
+
+◼️
+
+[Data](articles/02ca5f6f.json)
+
+---
+
+### පාතාලයට උදව් කළ චීවරධාරියෙක් අත්අඩංගුවට
+
+*2024-04-05 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195336) · `si`
+
+රත්ගම විදුර නම් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයාට ආධාර අනුබල දුන් බවට සැක කෙරෙන චීවරධාරියෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+අදාළ චීවරධාරියා "බූරු මූණා" ට පොලීසියෙන් පළා යෑමට ද උදව්කළ අයෙක් බව පොලීසිය පවසයි.
+
+2022 වසරේ දෙසැම්බර් මස 18 වනදා "බූරු මූණා" නැමැති රවිඳු සංඛ ද සිල්වා නම් අපරාධකරු, හංවැල්ල හරස් පාර ප්‍රදේශයේ වෙළෙඳසැලක් තුළදී පුද්ගලයෙකුට වෙඩි තබා ඝාතනය කළේය.
+
+මේ අතර අදාළ චීවරධාරියා ද සමගින් ඊයේ (04) දිනයේදීත් අපරාධ කල්ලි සඳහා ආධාර අනුබලදුන් සැකකරුවන් 6 දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබිණි.
+
+◼️
+
+[Data](articles/13280c3d.json)
+
+---
+
+### Bore. Some recovery of explosives in Vaharai area
 
 *2024-04-05 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180523) · `ta`
 
-மட்டக்களப்பு வாகரை பிரதேசத்தில் வெடிப்பொருட்கள் சில இன்று வெள்ளிக்கிழமை (05) காலை மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Explosives recovered in Vaharai area, found in agricultural land. 233rd Vaharai army investigators and Radiveli Special Task Force involved. Parall-1, bye bot-1, and WAS Plate-1 among recovered items, possibly LTTE past use.
 
-ஊரியன் கட்டு கிராம சேவகர் பிரிவின் பெரிய தட்டுமுனையில் உள்ள விவசாய காணியொன்றிலே அவை மீட்கப்பட்டுள்ளதாக தெரிவித்தனர்.
+🟩
 
-இன்றைய தினம் காலை வழக்கம் போல் குறித்த காணியில் பயிர் செய்கை நடவடிக்கைக்காக நீர் குழாய் பொருத்தும் முகமாக குழியொன்றினை தரையில் வெட்டிய போது பொலித்தீன் பையில் மறைத்து வைக்கப்பட்டு சுற்றப்பட்ட நிலையில் மர்மப் பொருள் தென்பட்டுள்ளது.
+Some of the explosives in the Vaharai area in Batticaloa have been recovered this morning (05), police said.
 
-சம்பவம் தொடர்பாக உடனடியாக அருகில் உள்ள 233 ஆவது வாகரை இராணுவப் படைப் பிரிவிலுள்ள இராணுவ புலனாய்வாளர்களுக்கு தகவல் தெரிவித்துள்ளனர்.
+They have been recovered in an agricultural land in the large dump of the Uriyan Kanda Grama Sevaka Division.
 
-அவர்கள் சம்பவ இடத்திற்கு நேரில் சென்று நிலமைகளை அவதானித்தன் பின்னர் கதிரவெளி விசேட அதிரடிப் படையினரின் ஒத்துழைப்புடன் அவற்றினை மீட்டு வாகரை பொலிஸாரிடம் நீதிமன்ற நடவடிக்கைக்காக ஒப்படைத்துள்ளனர்.
+This morning, as usual, the mysterious object was found in the polythene bag when a pit was cut into the ground in the face of a water pipe fitting in the land.
 
-இதன்போது 81 மோட்டார் துப்பாக்கி அதற்கு பொருத்தும் பரல்-1,பை போட்-1,வேஸ் பிளேட்-1 ஆகியவையே இவ்வாறு மீட்கப்பட்டுள்ளதாக தெரிவித்தனர்.
+Immediately the 233rd Vaharai army investigators in the nearest Vahara have been informed about the incident.
 
-...
+They went to the scene and observed the situation and then rescued them with the cooperation of the Radiveli Special Task Force and handed over them to the Vaharai police for court proceedings.
+
+The 81 motor rifle is the only recovery of the Parall-1, bye bot-1 and WAS Plate-1.
+
+These may have been used by the LTTE in the past.
+
+At the time, the 233rd Brigade of the Vaharai was accompanied by the military officers and the police.
+
+◼️
 
 [Data](articles/11efe0f5.json)
+
+[Extended Data](ext_articles/11efe0f5.ext.json)
 
 ---
 
@@ -254,19 +310,27 @@ The injured were admitted to the Kongahawela Hospital and two of them were trans
 
 ---
 
-### ලංකාවට තව රැකියා දොරටු රැසක් විවෘත කරන බව කොරියානු අගමැති කියයි
+### Korean prime minister says more jobs will be opened in Sri Lanka
 
 *2024-04-05 14:15:18* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවට-තව-රැකියා-දොරටු-රැසක්-විවෘත-කරන-බව-කොරියානු-අගමැති-කියයි/11-408970) · `si`
 
-කොරියානු අග්‍රාමාත්‍ය හන් ඩක් සූ  (Han Duck Soo) මහතා සහ ශ්‍රී ලංකා අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා අතර හමුව 2024.04.04 දින සෝල් නගරයේ පිහිටි අග්‍රාමාත්‍ය කාර්යාලයේ දී සිදුවිය.
+Korean PM HAN Duck SOO opens new job opportunities in Sri Lanka, focusing on agriculture, construction, and solar energy. He praises Sri Lanka's resilience against Covid and supports tourism. Both leaders discuss diplomatic expansion.
 
-එහිදී කොරියානු අග්‍රාමාත්‍යවරයා ශ්‍රී ලංකාවට නව රැකියා දොරටු රැසක් විවර කරන බව ප්‍රකාශ කළේය. කෘෂිකාර්මික, ඉදිකිරීම් හා වෙනත් කර්මාන්ත සඳහා  තම රටේ රැකියා ලබාදෙන ශ්‍රම බලකායට අමතරව සෞඛ්‍ය සේවා හා වෘත්තික සේවා සඳහා නව රැකියා ලබාදීමේ හැකියාව පිළිබඳව ද කොරියානු අග්‍රාමාත්‍යවරයා මෙහිදී  සඳහන් කළේය.
+🟩
 
-පසුගිය වකවානුවේ පැවති  මූල්‍ය  අර්බුදය හමුවේ නැවත නැගී සිටින ශ්‍රී ලංකාවට, තම රට පැරිස් සමාජයේ සාමාජිකයකු ලෙස ඉදිරි කටයුතු සාර්ථකව කරගෙන යැම සඳහා ඒ තුළ සෑම විටම පෙනී සිටින බව කොරියානු අග්‍රාමාත්‍යවරයා සඳහන් කළේය.
+Korean Prime Minister HAN Duck SOO (HAN DUCK SOO) and Prime Minister Dinesh Gunawardena, Sri Lanka, Sri Lanka Dinesh Gunawardena took place at the Prime Minister's Office in Seoul.
+
+The Korean Prime Minister opens several new job gates to Sri Lanka. The Korean Prime Minister also stated that in addition to providing job forces for agriculture, construction and other industries, the Korean Prime Minister said.
+
+The Prime Minister of the Korean Prime Minister stated that Sri Lanka has been re-capable of resurrecting the country's country as a member of the country.
+
+The Korean Prime Minister urged the Korean Prime Minister to take steps to reduce the pre-action-for-the-pro-action projects for future projects to be implemented. The Korean Prime Minister pointed out the importance of increasing the amount of land for the solar energy construction.
 
 ...
 
 [Data](articles/58ec5512.json)
+
+[Extended Data](ext_articles/58ec5512.ext.json)
 
 ---
 
@@ -836,21 +900,27 @@ In a 30-minute call with Netanyahu after Israeli strikes killed seven aid worker
 
 ---
 
-### ජපාන තානාපති බිරිඳ ඇතුළු නියෝජිත පිරිසක් හිටපු හෝටලයේදී බීමත් හිටපු සී.අයි. යකා නටලා
+### Japanese Ambassador and delegation drunk drunk at Former CF. Data
 
 *2024-04-05 11:24:24* · [`adalk`](https://www.ada.lk/breaking_news/ජපාන-තානාපති-බිරිඳ-ඇතුළු-නියෝජිත-පිරිසක්-හිටපු-හෝටලයේදී-බීමත්-හිටපු-සී-අයි--යකා-නටලා/11-408968) · `si`
 
-මොනරාගල බුත්තල හෝටලයක් තුළදී බීමත්ව කලහකාරී ලෙස හැසිරුණු විශ්‍රාමික ප්‍රධාන පොලිස් පරීක්ෂකවරයෙක් අත්අඩංගුවට ගෙන තිබේ.
+Japanese Ambassador and delegation in Sri Lanka were involved in an incident where a retired Chief Inspector was arrested for being drunk and throwing stones at a hotel. The Ambassador's wife expressed concern to the delegates.
 
-මෙම හෝටලයේදී ඇතිවූ ගැටුලවකින් අනතුරුව අදාළ විශ්‍රාමික පොලිස් පරීක්ෂකවරයා හෝටලයට ගල් ප්‍රහාරයක් එලල කර ඇති අතර එයින් හෝටලයේදී උත්සව ශාලාවේ ප්‍රධාන වීදුරුවට දැඩි හානි සිදුව තිබේ.
+🟩
 
-මෙම සිදුවීම සිදුවන අවස්ථාවේදී එම හෝටලය තුළ ශ්‍රී ලංකාවේ ජපාන තානාපතිවරයාගේ බිරිඳ ඇතුළු ජපාන දූත පිරිසක්ද නැවතී සිට තිබේ.
+A retired Chief Inspector who was drunk with a hotel in Moneragala had been arrested.
 
-අදාළ සිදුවීමෙන් තමන් ඇතුළු නියෝජිත පිරිස මහත් භීතියට පත්වූ බව ජපාන තානාපතිවරයාගේ බිරිඳ ලිපියක් යොමුකරමින් සඳහන් කර තිබේ.  අත්අඩංගුවට ගත් විශ්‍රාමික ප්‍රධාන පොලිස් පරීක්ෂකවරයා අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබේ.
+The Retired Inspector of Police (Retired Inspector) has taken stones at the hotel after a collapse at the hotel.
+
+At the time of the incident, the Japanese Ambassador of the Japanese Ambassador in Sri Lanka has stopped.
+
+The Ambassador's wife has given a letter to a letter that the delegates, including the delegation, has been terrified by the incident.The retired Chief Inspector of Police is due to be produced in court.
 
 ◼️
 
 [Data](articles/9a3730d1.json)
+
+[Extended Data](ext_articles/9a3730d1.ext.json)
 
 ---
 
@@ -2181,83 +2251,5 @@ David Peiris Ottomobiles has launched two versions - Baic X55 II Honour vehicle 
 [Data](articles/5c52ef13.json)
 
 [Extended Data](ext_articles/5c52ef13.ext.json)
-
----
-
-### Colombo - Badulla Railway Service
-
-*2024-04-05 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180468) · `ta`
-
-"Colombo-Badulla Railway Service expands with three special trains, launched by Minister Bandula Gunawardena. The service connects Colombo Fort Railway Station to Badulla, with additional buses purchased and recovered. The Sri Lanka Transport Department's budget for 2022 is 70.9 billion, increasing to 76.9 billion in 2023."
-
-🟩
-
-Transport, Highways Development and Media Minister Bandula Gunawardena said that three special rail services to Badulla will be launched today to expand the train service to the hill country.
-
-He made this statement during a media briefing held at the Government Information Department on Thursday (4).
-
-The train service between the Colombo Fort Railway Station and Badulla has been completed today.
-
-The special train will be deployed on other days except Thursday.
-
-500 buses have been purchased under the Indian Loan Scheme in 20122 and 400 buses and 50 miraculous buses have been recovered from the public transport service.
-
-The Sri Lanka Transport Department has increased to 70.9 billion in 2022 and in 2023, to 76.9 billion.
-
-◼️
-
-[Data](articles/38d6a67c.json)
-
-[Extended Data](ext_articles/38d6a67c.ext.json)
-
----
-
-### Katchatheevu Crisis – Seal The Deal Mr. Modi
-
-*2024-04-05 01:56:02* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/katchatheevu-crisis-seal-the-deal-mr-modi/) · `en`
-
-I hold Narendra Modi in high regard due to his remarkable leadership skills and rapid political growth. He has not continued the Ayodhya temple issue, prevented its ramifications from significantly affecting India’s political landscape. Moreover, his diplomatic efforts to elevate India’s global standing are commendable.
-
-I have closely observed Modi’s evolving ideologies, particularly in his approach towards fostering strong business growth in India. While acknowledging India’s shift towards an open and liberal economy under Modi’s leadership, it’s notable that he seldom acknowledges the pivotal role played by Manmohan Singh, a Congress member, in spearheading this transformation.
-
-...
-
-[Data](articles/0cb1baca.json)
-
-[Extended Data](ext_articles/0cb1baca.ext.json)
-
----
-
-### Special Transport Services on New Year - Ministry of Transport
-
-*2024-04-05 01:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180467) · `ta`
-
-During the Tamil-Sinhala New Year, special buses and rail services will be deployed. The National Transport Board Chairman Lalith Alwis announced the recruitment of 2270 buses from today, with additional buses for the 10th to 17th. Special train services will also be organized from the 10th to 15th.
-
-🟩
-
-Special buses and rail services will be deployed in the Tamil Sinhala New Year.
-
-The National Transport Board Chairman Lalith Alwis said that if there is any problems with the public passengers in the welfare of the Tamil -Sinhala New Year, 2270 buses will be recruited from today.
-
-He made this statement during a media briefing held at the Government Information Department on Thursday (05).
-
-Special bus transport services will be carried out from today (05) to the 09th of this month.
-
-In addition, 1400 buses from the 10th to the 12th, 1000 buses from the 13th to the 14th and 1400 buses from the 14th to the 17th.
-
-Buses departing from Colombo to far and areas will be fully monitored.
-
-It is not mandatory to be allocated as a pre -exclusion of the areas from Colombo.
-
-The Department of Railways has organized a special train service from the 10th to the 15th of this month.
-
-Four special trains will be operated from the 10th to the 15th of this month.
-
-◼️
-
-[Data](articles/5641890a.json)
-
-[Extended Data](ext_articles/5641890a.ext.json)
 
 ---

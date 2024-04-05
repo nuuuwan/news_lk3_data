@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 13:34:05**
+As of **2024-04-05 13:53:06**
 
 ## Newspaper Stats
 
-*Scraped **17,319** Articles*
+*Scraped **17,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 962
 adalk | 1,461
 tamilmirrorlk | 2,047
 adaderanalk | 2,078
-virakesarilk | 2,522
+virakesarilk | 2,523
 dailymirrorlk | 2,654
 adaderanasinhalalk | 2,797
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 2,797
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,314 (100.0%) of 17,319 articles have been extended.
+17,319 (100.0%) of 17,320 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### Pain in the North of Pain
+
+*2024-04-05 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180504) · `ta`
+
+The opposition to land survey in Jaffna Kirimalai President's House has been ignored. Landowners and civilians protested, leading to the cancellation of the survey. The landlord officials agreed to halt the survey after receiving a letter from the landowners expressing no interest. The survey aimed to measure 29 acres in Nakuleswaram and Kankesanthurai.
+
+🟩
+
+The people's opposition has been abandoned today as the measurement work to take over the land of the Jaffna Kirimalai President's House is to be carried out on Friday.
+
+Land owners and civilians have expressed their opposition to the land survey and interrupted the vehicle of the land department.
+
+The landlord officials returned from there after the land owners wrote and signed a letter that they had no interest in measurement of the land following the opposition of the land owners.
+
+The measurement was to be carried out with the aim of carrying out about 29 acres of land in the Nakuleswaram J/226 and Kankesanthurai J/233 Grama Niladhari Divisions under the Tellippalai Divisional Secretariat Division.
+
+◼️
+
+[Data](articles/79ebd254.json)
+
+[Extended Data](ext_articles/79ebd254.ext.json)
+
+---
+
+### யாழ் இந்திய துணைத் தூதுவருடன் சிறிதரன்  சந்திப்பு
+
+*2024-04-05 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/180505) · `ta`
+
+இலங்கைக்கான யாழ். இந்தியத் துணைத் தூதரகத்தின் புதிய தூதுவராகப் பொறுப்பேற்றுள்ள ஸ்ரீ சாய்முரளியை  பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் அண்மையில், மரியாதை நிமித்தம் சந்தித்துக் கலந்துரையாடியுள்ளார்.
+
+யாழ்ப்பாணத்திலுள்ள இந்தியத் துணைத்தூதரகத்தில் நடைபெற்ற இந்தச் சந்திப்பின் போது, ஈழத்தமிழர்களது அரசியல் நலன்சார் விடயங்கள் மற்றும் சமகால நெருக்கடிகள் உள்ளிட்ட பலநிலைப்பட்ட விடயங்கள் பேசப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ea53bc99.json)
+
+---
 
 ### ‘Dunhinda Odyssey’ special luxury tourist train inaugurated
 
@@ -50,45 +88,59 @@ The train will operate from Colombo Fort to Badulla every Tuesday, Friday and Su
 
 [Data](articles/3f135c57.json)
 
+[Extended Data](ext_articles/3f135c57.ext.json)
+
 ---
 
-### தனியார் பஸ் -  மோட்டார் சைக்கிள் மோதி விபத்து ; இரு யுவதிகள் வைத்தியசாலையில்
+### Private bus - motorcycle collisionIn the hospital with two women
 
 *2024-04-05 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180506) · `ta`
 
-புதுக்குடியிருப்பு பகுதியில் பஸ் ஒன்றும் ,மோட்டார் சைக்கிளும் நேருக்கு நேர் மோதியதில் இரு யுவதிகள் காயமடைந்துள்ளனர்.
+Two women injured in a head-on collision between a private bus and a motorcycle in Pudukkudiyiruppu. The accident happened this morning. The bus was traveling from Viswamaduwu to Trincomalee, and the motorcycle from Mullaithivu to Oddusudan. The injured were admitted to Pudukkudiyiruppu Hospital and later transferred to Mullaitivu District Hospital. Preliminary findings suggest the phone was to blame, with further investigations ongoing.
 
-இன்று வெள்ளிக்கிழமை (05) காலை இடம்பெற்ற விபத்து சம்பவம்  குறித்து மேலும் தெரியவருவதாவது,
+🟩
 
-விசுவமடுவில் இருந்து  திருகோணமலை நோக்கிச் சென்ற தனியார் பஸ் ஒன்றும் முல்லைத்தீவில் இருந்து ஒட்டுசுட்டான் நோக்கி சென்ற இரு யுவதிகள் பயணித்த மோட்டார் சைக்கிள் ஒன்றும்    புதுக்குடியிருப்பு குழந்தையேசு  ஆலயத்திற்கு முன்பாகவுள்ள முல்லைத்தீவு பிரதான வீதியில் நேருக்கு நேர் மோதுண்டு விபத்திற்குள்ளாகியுள்ளது.
+Two women were injured when a bus and motorcycle collided head -on in Pudukkudiyiruppu area.
 
-குறித்த விபத்தின் போது மோட்டார் சைக்கிளில் பயணித்த  இரு யுவதிகளும் படுகாயமடைந்த நிலையில்  புதுக்குடியிருப்பு வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர்  மேலதிக சிகிச்சைக்காக முல்லைத்தீவு மாவட்ட வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டுள்ளனர்.
+The accident occurred this morning (05) this morning.
 
-விபத்து சம்பவம் தொடர்பான முதற்கட்ட விசாரணையில்  யுவதிகளின் விபத்திற்கு தொலைபேசி பாவனையே காரணம் என தெரிய வந்துள்ளது. எனினும் இது தொடர்பான மேலதிக விசாரணைகளை  புதுக்குடியிருப்பு பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+A private bus traveling from Viswamaduwu to Trincomalee and a motorcycle traveling from Mullaithivu to Oddusudan has been hit by a face -to -face collision on the Mullaitivu main road in front of the Pudukkudiyiruppu Children's Temple.
+
+Two girls who were traveling on a motorcycle were injured and admitted to the Pudukkudiyiruppu Hospital and later sent to the Mullaitivu District Hospital for further treatment.
+
+Preliminary inquiries into the accident revealed that the phone was responsible for the accident. However, further investigations are being carried out by the Pudukkudiyiruppu police.
 
 ◼️
 
 [Data](articles/b5efd435.json)
 
+[Extended Data](ext_articles/b5efd435.ext.json)
+
 ---
 
-### வடக்கு நோக்கி நகரும் சூரியன் - காலநிலையில் பாரிய மாற்றம்
+### Sun moving north - massive change in climate
 
 *2024-04-05 13:04:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-நோக்கி-நகரும்-சூரியன்-காலநிலையில்-பாரிய-மாற்றம்/175-335644) · `ta`
 
-சூரியனின் வடக்கு நோக்கிய நகர்வின் காரணமாக இன்று (05) முதல் எதிர்வரும் 15ஆம் திகதி வரையில், சூரியன் இலங்கையின் பல பிரதேசங்களை அண்மித்ததாக நகர்ந்து செல்லுமென சிரேஸ்ட வானிலை அதிகாரி கலாநிதி மொஹமட் சாலிஹீன் தெரிவித்துள்ளார்.
+Dr. Mohamed Saliheen predicts significant climate changes in Sri Lanka due to the sun's northern movement, affecting temperatures and weather patterns across the country.
 
-இதையடுத்து இன்று மதியம் 12.12 மணியளவில் வலப்பிட்டிய, எல்பிட்டிய, மொறவக்க மற்றும் திஸ்ஸமஹாராம போன்ற இடங்களுக்கு நேராக சூரியன் உச்சம் கொடுக்கும் என்றும் குறிப்பிட்டார்.
+🟩
 
-மேலும், வடக்கு, கிழக்கு, வட மத்திய, வட மேல், சபரகமுவ, மேல் மற்றும் தென் மாகாணங்களிலும் மொனராகலை மாவட்டத்திலும் இன்று அதிகரித்த வெப்பநிலை காணப்படும்.
+Senior Weather Officer Dr. Mohamed Saliheen said that the sun will move near many parts of Sri Lanka from today (05) to the 15th of this month due to the Sun's north.
 
-சபரகமுவ மற்றும் மேல் மாகாணங்களின் பல இடங்களிலும், காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும், பிற்பகல் 02 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+He said that at 12.12 pm today, the sun will peak straight into places like Valapitiya, Elpitiya, Morawaka and Tissamaharama.
 
-வடமேல் மாகாணத்திலும் மன்னார் மற்றும் நுவரெலியா மாவட்டங்களின் சில இடங்களிலும் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்பு காணப்படுவதாக சிரேஸ்ட வானிலை அதிகாரி கலாநிதி மொஹமட் சாலிஹீன் மேலும் தெரிவித்துள்ளார். R
+In addition, increased temperatures in the North, East, North Central, North Western, Sabaragamuwa, Western and Southern Provinces and Moneragala district today.
+
+Showers or thunderstorms are expected in many parts of the Sabaragamuwa and Western Provinces and some parts of the Galle and Matara districts after 2 pm.
+
+Senior Weather Officer Dr. Mohamed Saliheen added that there is a chance of rain or thunderstorms in the evening or night in the North Western Province and some parts of Mannar and Nuwara Eliya districts.. Remble
 
 ◼️
 
 [Data](articles/805b5b52.json)
+
+[Extended Data](ext_articles/805b5b52.ext.json)
 
 ---
 
@@ -149,24 +201,6 @@ Israel's attack after the seventh of October has been killed by 364 medical staf
 [Data](articles/d408e802.json)
 
 [Extended Data](ext_articles/d408e802.ext.json)
-
----
-
-### வலி வடக்கில் காணி சுவிகரிக்க  நடவடிக்கை மக்கள் எதிர்பினால் அளவீட்டு பணி நிறுத்தம்
-
-*2024-04-05 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180504) · `ta`
-
-யாழ்ப்பாணம் கீரிமலை ஜனாதிபதி மாளிகை அமைந்துள்ள காணிகளை நகர அபிவிருத்தி நடவடிக்கைக்காக சுவீகரிப்பதற்கான அளவீட்டுப்பணி இன்றைய தினம் வெள்ளிக்கிழமை முன்னெடுக்கப்பட இருந்த நிலையில் மக்களின் எதிர்ப்பால் கைவிடப்பட்டுள்ளது.
-
-குறித்த காணி அளவீட்டுக்கு காணி உரிமையாளர்கள் மற்றும் பொதுமக்கள் எதிர்ப்பை வெளியிட்டதுடன் நில அளவைத்திணைக்களத்தின் வாகனத்தினையும் இடைமறித்து போராட்டத்தில் ஈடுபட்டனர்.
-
-காணி உரிமையாளர்களின் எதிர்ப்பினை அடுத்து காணியினை அளவீடு செய்வதற்கு தமக்கு விருப்பம் இல்லை என காணி உரிமையாளர்கள் கடிதம் எழுதி கையொப்பமிட்டு வழங்கியதை அடுத்து நில அளவைத்திணைக்கள அதிகாரிகள் அங்கிருந்து திரும்பிச் சென்றனர்.
-
-தெல்லிப்பளை பிரதேச செயலக பிரிவின் கீழ் உள்ள நகுலேஸ்வரம் ஜே/226 மற்றும் காங்கேசன்துறை ஜே/233 ஆகிய கிராம சேவகர் பிரிவுகளில் உள்ள ஆழ்வான்மலையடி, வேலர்காடு, புண்ணன்புதுக்காடு, பத்திராயான், புதுக்காடு, சோலைசேனாதிராயன் ஆகிய பகுதிகளில் உள்ள சுமார் 29 ஏக்கர் காணிகளை சுவீகரிக்கும் நோக்குடன் இந்த அளவீட்டு பணிகள் முன்னெடுக்கப்பட இருந்தமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/79ebd254.json)
 
 ---
 
@@ -1121,6 +1155,8 @@ When questioned if the upcoming elections will slow down efforts, as cautioned b
 ...
 
 [Data](articles/b4744265.json)
+
+[Extended Data](ext_articles/b4744265.ext.json)
 
 ---
 
@@ -2257,27 +2293,5 @@ Keheliya Rambukwella, who is currently being interrogated for trial, was also pr
 [Data](articles/157fb634.json)
 
 [Extended Data](ext_articles/157fb634.ext.json)
-
----
-
-### Tomorrow temperatures in several provinces
-
-*2024-04-04 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195314) · `si`
-
-The Meteorology Department warns of high temperatures in several areas tomorrow, advising residents to stay hydrated and avoid intense outdoor activities.
-
-🟩
-
-The Meteorology Department says that several areas in the island will continue to pay attention to tomorrow (05).
-
-The department states that the heat of the human body is at some places where the human body feels at some places in the Moneragala district will be at a level of heating.
-
-In an adequate drinking water, the rest of the shade, which can be followed by the intensive limitations of the outdoors should be followed by the department.
-
-◼️
-
-[Data](articles/2be2ff24.json)
-
-[Extended Data](ext_articles/2be2ff24.ext.json)
 
 ---

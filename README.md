@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 06:17:08**
+As of **2024-04-05 06:54:44**
 
 ## Newspaper Stats
 
-*Scraped **17,239** Articles*
+*Scraped **17,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ colombotelegraphcom | 152
 bbccomsinhala | 179
 dbsjeyarajcom | 208
 newsfirstlk | 363
-dailyftlk | 938
-islandlk | 944
+dailyftlk | 944
+islandlk | 950
 economynextcom | 957
 adalk | 1,456
-tamilmirrorlk | 2,039
+tamilmirrorlk | 2,040
 adaderanalk | 2,065
 virakesarilk | 2,511
 dailymirrorlk | 2,644
@@ -26,11 +26,105 @@ adaderanasinhalalk | 2,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,239 (100.0%) of 17,239 articles have been extended.
+17,239 (99.9%) of 17,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### Siddhalepa crowned best Ayurveda company
+
+*2024-04-05 05:27:18* · [`dailyftlk`](https://www.ft.lk/business/Siddhalepa-crowned-best-Ayurveda-company/34-760332) · `en`
+
+Hettigoda Industries, the renowned name synonymous with Ayurvedic excellence, achieved resounding success at the prestigious Golden Inmediens 2023 Entrepreneurship Gold Award ceremony. The event, held at Water’s Edge recently, witnessed the company’s remarkable triumphs, further accentuated by the celebration of their 90th anniversary this year.
+
+The ceremony witnessed Hettigoda Industries being honored with the prestigious Gold Winner title for “Indigenous Entrepreneur of the Year 2023”, showcasing their pioneering work in Ayurveda. This remarkable journey not only brings prominence to Siddhalepa’s commitment to excellence but also serves as a testament to its unwavering dedication to advancing the principles of Ayurveda. Siddhalepa clinched multiple accolades, further cementing its position as a leader in the field of indigenous medicine:
+
+Gold: Best Hospital for Indigenous Medicine 2023 – Siddhalepa Ayurveda Hospital
+
+...
+
+[Data](articles/96f0f656.json)
+
+---
+
+### CITI celebrates International Women’s Day 2024: Inspiring inclusion
+
+*2024-04-05 05:25:50* · [`dailyftlk`](https://www.ft.lk/business/CITI-celebrates-International-Women-s-Day-2024-Inspiring-inclusion/34-760331) · `en`
+
+Citi Sri Lanka recently celebrated International Women’s Day by hosting a fireside discussion bringing together female leaders to facilitate a conversation around diversity and inclusion in the workplace, and what this year’s theme #InspireInclusion means to them.
+
+The diverse panel consisted of Ideal Motors Ltd., Finance Director Dilani Yatawaka, Independent Collective School Founding Principal Yasodhara Pathanjali, and Citi Country Human Resources Vice President/Head Vanya Goonetilleke, along with session moderator Citi Securities Services Vice President/Head Kanishka Hewage.
+
+...
+
+[Data](articles/38825625.json)
+
+---
+
+### Launch of Ingress by MendisOne: Creating lasting visual stories
+
+*2024-04-05 05:23:50* · [`dailyftlk`](https://www.ft.lk/business/Launch-of-Ingress-by-MendisOne-Creating-lasting-visual-stories/34-760330) · `en`
+
+At the launch of Ingress by MendisOne (from left): MendisOne Chairman Rohitha Mendis, MendisOne Managing Director Rishantha Mendis, and Ingress Managing Director Trevor Sylvester
+
+Ingress by MendisOne, had their soft launch on Friday, 22 March, at MendisOne headquarters. With a vision to redefine the boundaries of what is possible, to challenge and pioneer a new era of visual storytelling in Sri Lanka, Ingress creates immersive experiences delving into the depths of imagination to conceive ideas that have never before graced the screens of this nation with a simple yet profound mission to unleash the full potential of creativity and technology to weave narratives that captivate, inspire, and leave a lasting impact.
+
+...
+
+[Data](articles/01a9713b.json)
+
+---
+
+### Politics behind economic recovery
+
+*2024-04-05 05:18:31* · [`dailyftlk`](https://www.ft.lk/columns/Politics-behind-economic-recovery/4-760329) · `en`
+
+“Macroeconomic policy can never be devoid of politics; it involves fundamental trade-offs and affects different groups differently” (Joseph Stiglitz).
+
+...
+
+[Data](articles/3d2a2985.json)
+
+---
+
+### Political coalitions purely in pursuit of power will aggravate political immorality and unethical behavior
+
+*2024-04-05 05:13:46* · [`dailyftlk`](https://www.ft.lk/columns/Political-coalitions-purely-in-pursuit-of-power-will-aggravate-political-immorality-and-unethical-behavior/4-760328) · `en`
+
+It appears that there is unanimity in the public perception of an overwhelming number of Sri Lankans that Sri Lanka has gone beyond the point of resurrection when it comes to immorality, unethical behaviour, corruption, lack of law and order and poor governance
+
+“Political ethics requires leaders to meet higher standards than would be necessary for private life. They may have less of a right to privacy than ordinary citizens do, or no right to use their office for personal profit. Personal or private morality and political morality are often viewed as a conflict of interest” – Andrew Stark, Conflict of Interest in American Public Life. (Harvard University Press, 2003)
+
+...
+
+[Data](articles/c237595b.json)
+
+---
+
+### Can the IMF program be renegotiated by a future government?
+
+*2024-04-05 05:09:02* · [`dailyftlk`](https://www.ft.lk/columns/Can-the-IMF-program-be-renegotiated-by-a-future-government/4-760327) · `en`
+
+President Ranil Wickremesinghe chairs a meeting with the IMF in Colombo – File photo
+
+In my opinion, the IMF program Sri Lanka has got now is lenient when you compare it with many other countries. The 17th IMF program may not be enough even if implemented fully. Therefore, there is very little space to make changes in the broader program targets.
+
+1.Achieve a primary budget surplus of 2.3% by 2025 and beyond
+
+2.Bring annual foreign currency debt service from 9.4% of GDP in 2022 to 4.5% of GDP during 2027-2032. Reduce the government’s gross financial needs which was at 35% of GDP in 2022 down to below 13% from 2027-2032.
+
+3.Public debt, which was 128% to GDP, should be reduced to 95% by 2032.
+
+If there were to be any renegotiations of the IMF deal by a future government, it will have to change one or all of the above. Let me go through them one by one.
+
+Target 1 - Primary budget surplus of 2.3% by 2025 and beyond
+
+...
+
+[Data](articles/6e18c087.json)
+
+---
 
 ### Open letter to President on rapid transformation of SL
 
@@ -518,6 +612,22 @@ The deceased is a 11 -year -old student from Kathmore.
 
 ---
 
+### கடந்த மாதத்தில் 291,081 சுற்றுலாப் பயணிகள் வருகை
+
+*2024-04-05 00:26:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடந்த-மாதத்தில்-291-081-சுற்றுலாப்-பயணிகள்-வருகை/175-335633) · `ta`
+
+கடந்த மாதத்தில் மாத்திரம் 291,081 சுற்றுலாப் பயணிகள் நாட்டுக்கு வருகைத்தந்துள்ளனர் என  தெரிவிக்கப்பட்டுள்ளது.
+
+அத்துடன், இந்தியாவில் இருந்து வருகைத்தரும் சுற்றுலாப் பயணிகளின் எண்ணிக்கை தொடர்ந்தும் அதிகரித்து வருவதாக அந்த சபை குறிப்பிட்டுள்ளது.
+
+இதன்படி, இந்தியாவில் இருந்து 31, 853 பேரும், ரஷ்யாவில் இருந்து 28, 016 பேரும் ஜேர்மனியில் இருந்து 18, 324 பேரும் நாட்டுக்கு வருகைத்தந்துள்ளனர். (a)
+
+◼️
+
+[Data](articles/1bff2580.json)
+
+---
+
 ### Prince Sultan Medical Center, which offers special medical privilege to pilgrims
 
 *2024-04-05 00:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180463) · `ta`
@@ -897,6 +1007,36 @@ Sri Lanka Test leader Dananjaya de Silva, who spoke to the media,
 [Data](articles/494be3ae.json)
 
 [Extended Data](ext_articles/494be3ae.ext.json)
+
+---
+
+### Bourse driven onwards by banking sector counters
+
+*2024-04-04 20:38:00* · [`islandlk`](http://island.lk/bourse-driven-onwards-by-banking-sector-counters/) · `en`
+
+The stock market got off to a positive start yesterday mainly due to banking sector counters performing well throughout the day. A Central Bank’s recent analysis revealed that the local banking sector has a healthy outlook and need not require any capital infusion from the government to run and operate. This factor stimulated the market, analysts said.
+
+The stock market performed on a bullish note throughout the day. Both local and foreign investors were active on the trading floor and the banking sector counters moved the market to positive territory, thus creating a healthy sentiment for the market.
+
+...
+
+[Data](articles/617bd2a6.json)
+
+---
+
+### National Savings Bank: Celebrating Excellence in Digital Innovation
+
+*2024-04-04 20:27:00* · [`islandlk`](http://island.lk/national-savings-bank-celebrating-excellence-in-digital-innovation/) · `en`
+
+The National Savings Bank has been recognized for our unwavering commitment to digital excellence at the prestigious Technnovation Awards 2024, Conducted annually by LankaPay
+
+In a testament to our innovative approach and dedication to serving our customers, we have proudly secured the Gold Award – Category C : Excellence in Customer Convenience and Gold Award – Category B: Financial Institution of the Year for Financial Inclusivity. These accolades underscore our relentless pursuit of offering unparalleled convenience and inclusivity through our digital banking solutions.
+
+Moreover, our strides in the digital payment arena have been further acknowledged as our Mobile Payment App NSBPay nominated for the Best Mobile Payment App for the State Bank Sector, highlighting our efforts to make mobile banking more accessible, secure, and user-friendly for everyone.
+
+...
+
+[Data](articles/4639e04e.json)
 
 ---
 
@@ -2119,217 +2259,5 @@ Weerasena is reportedly next in line on the Sri Lanka Podujana Peramuna (SLPP) l
 [Data](articles/271d2c90.json)
 
 [Extended Data](ext_articles/271d2c90.ext.json)
-
----
-
-### President of Tamil and Sinhala New Year
-
-*2024-04-04 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180437) · `ta`
-
-The President has directed authorities to plan essential services for Tamil and Sinhala New Year, ensuring public comfort and safety.
-
-🟩
-
-The President has instructed the authorities to prepare a proper program to continue to carry out essential services and other public services in order to not cause public discomfort during the upcoming Tamil and Sinhala New Year holidays.
-
-The President also advised that it is necessary to prepare a program for the Ministries including the President's Office, the Prime Minister's Office, the Security, the Health, the Transport and the Electricity.
-
-Similarly, the President has issued a directive to the Defense Department to implement a comprehensive program to ensure the safety of civilians in the country and protect law and order in the coming festive season.
-
-◼️
-
-[Data](articles/74e8ee92.json)
-
-[Extended Data](ext_articles/74e8ee92.ext.json)
-
----
-
-### IOC sets a massive step
-
-*2024-04-04 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195295) · `si`
-
-IOC plans to use SMRs in oil refineries, aiming to reduce petroleum's environmental impact. India's government supports this, aiming to make India a leader in eco-friendly energy. Russia and China lead in SMR construction, with India focusing on policy changes for private sector management.
-
-🟩
-
-Small nuclear reactors, known as Small Modular Ractors or SMR, is a popular source of popularity today.
-
-It is in a backdrop that the environment is unhealthy in the environmental impact on petroleum.
-
-As a result, the petroleum production companies have now focused on how to maintain their production process.
-
-IOC, who knows all of our neighboring India, is situated in the Indian Oil Company.
-
-Bloomberg business website reveals that they are planning to use SMR or small nuclear power plants to get their oil refineries.
-
-It is also reported that the NUXLAER Power Corporation India has begun talks with the monopoly of nuclear power production.
-
-The government has now decided to provide the public to the private sector management of this small number of nuclear power plants.
-
-It is in the objective of making India leader of eco-friendly energy production.
-
-Currently Russia and China is taking the lead in construction of this kind of nuclear power plants or SMR.
-
-...
-
-[Data](articles/e02a6eb8.json)
-
-[Extended Data](ext_articles/e02a6eb8.ext.json)
-
----
-
-### Again the modern weapon yash
-
-*2024-04-04 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180427) · `ta`
-
-Yash, star of 'K J F', is set to star in 'Taxic', directed by Malayalam actress and director Keith Mohan Das. The film, produced by KVN Productions, will begin shooting this month. Yash carries a modern weapon, similar to 'KGF', and is expected to release worldwide on April 10 next year.
-
-🟩
-
-Star Actor Yash who has attracted the overall attention of the Indian film industry through 'K J F'. Many months after the release of the film, Yash's new film was not announced.
-
-The filmmakers say that he was conditioned to have Rs 100 crore in India as a salary to act in the new film.
-
-Following this, it was announced that Yash will be starring in 'Taxic' directed by Malayalam actress and director Keith Mohan Das.
-
-This announcement was a surprise to fans. Since then there has been no new information about the 'Taxic' image. Thus Yash's fans were impatient. In this case, new information has been revealed about the film 'Taxic'.
-
-Directed by director and actress Geetu Mohan Das, directed by Lyer's Dias, 'Senthon', is playing the rocking star Yash Star in 'Taxic'.
-
-...
-
-[Data](articles/100127ef.json)
-
-[Extended Data](ext_articles/100127ef.ext.json)
-
----
-
-### Actor Super Good Subramani
-
-*2024-04-04 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180429) · `ta`
-
-Super Good Subramani, a rising Tamil actor, stars in 'Paraman', a film that has garnered attention. Despite a small investment, 'Calles', another film by director Sabaris, was a commercial and critical success, boosting 'Paraman's' release.
-
-🟩
-
-Super Good Subramani, who started playing small roles in the Tamil film industry, rising as a characteristic actor in the cinema, not only the minds of the fans but also the new young creators.
-
-Only a few scenes, he has the opportunity to play the hero of the story through the film 'Paraman'.
-
-Director J. Super Good Subramani, Hello Kandaswamy, Vaiyapuri, V.R Archana, Myesa Rajendran, Ashok Tamil, Satya, Jayachandran and many others in the film 'Paraman' directed by Sabaris. Tamim Ansari has composed the film, which has been recorded by CB Sadasivam.
-
-Director J.. Sabaris has produced.
-
-The shooting of the film is completed and the final phase of the work is going on. First Look has been released and has been a great welcome. The film is expected to be released soon.
-
-...
-
-[Data](articles/bdcf055c.json)
-
-[Extended Data](ext_articles/bdcf055c.ext.json)
-
----
-
-### Authorities directed to develop programme to maintain essential services for New Year
-
-*2024-04-04 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Authorities-directed-to-develop-programme-to-maintain-essential-services-for-New-Year/108-280188) · `en`
-
-Colombo, April 4 (Daily Mirror)- President Ranil Wickremesinghe has directed officials to develop a formal programme aimed at maintaining essential and public services seamlessly during the upcoming Sinhala and Tamil New Year season.
-
-The directive has been given to guarantee the smooth operation of essential services without any disruptions during the festive season, the  President’s Media Division (PMD) said.
-
-The President has emphasized that institutions that fall under the essential category such as the Presidential Secretariat, the Prime Minister's Office and the Ministries of Defence, Health, Transport and Power and Energy must collaborate to prepare this programme jointly.
-
-Additionally, for the upcoming Sinhala and Tamil New Year season, the President has directed the security forces to execute a comprehensive programme to ensure public security and the maintenance of law and order across the country.
-
-◼️
-
-[Data](articles/f47299e4.json)
-
-[Extended Data](ext_articles/f47299e4.ext.json)
-
----
-
-### GCE.. Information on the GCE Advanced Level Examination
-
-*2024-04-04 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180432) · `ta`
-
-GCE Advanced Level Exam results in early May, Ordinary Level in mid-May.
-
-🟩
-
-Education Minister Susil Prema Jayantha said the results of the GCE Advanced Level Examination in 2023 will be released in early May.
-
-Meanwhile, the Ministry further stated that steps are being taken to conduct the GCE Ordinary Level Examination for 2023 in the mid -May.
-
-◼️
-
-[Data](articles/11a85a21.json)
-
-[Extended Data](ext_articles/11a85a21.ext.json)
-
----
-
-### The body of the leopard who died in the trap
-
-*2024-04-04 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180436) · `ta`
-
-A leopard was found dead in a trap at the Rocket Garden Tea Estate, reported by plantation workers, and autopsied at the Randenigala Wildlife Veterinary Hospital.
-
-🟩
-
-A leopard's body was found on Thursday (04) as a tiger's body was found dead in a tea plantation.
-
-Wildlife officials said that the leopard was trapped in a wire net at the Rocket Garden Tea Estate, which belongs to the Norwood Police Division.
-
-They said that the body of the leopard tiger was reported to the plantation workers and that the body was taken to the Randenigala Wildlife Veterinary Hospital for autopsy.
-
-◼️
-
-[Data](articles/59ec2ab5.json)
-
-[Extended Data](ext_articles/59ec2ab5.ext.json)
-
----
-
-### Tushara Vijayan joined in 'Zion 62'
-
-*2024-04-04 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180434) · `ta`
-
-Tushara Vijayan, a leading actress in the Tamil film industry, is joining 'Zion 62'. She's known for her role in 'Sarbatta Parambarai' and is starring in Ranjith's 'Star Moves'. She's also the heroine in 'Seyan 62', directed by S. U. 'Seyan' Vikram, with Dhanush and Super Star Rajinikanth.
-
-🟩
-
-If you want to shine as a leading actress in the Tamil film industry, the tradition of fans is to have a unique performance skills.
-
-This is the director Pa. Actress Tushara Vijayan is famous for his fans in the role of Mariamma in the film 'Sarbatta Parambarai' released by Ranjith.
-
-Following. Dushara Vijayan starring Ranjith's 'Star Moves'. Dhanush is currently working on 'Rayan' and Super Star Rajinikanth starring 'Vettayan'.
-
-Tushara Vijayan, who has reached the leading star status.. Next up is the heroine of the story in the movie 'Seyan 62' starring Sayan Vikram. An official announcement has been made.
-
-Director S.. U. 'Seyan' Vikram, S. J.. Surya, Suraj Venjaramudu, leading the leading star actors. Actress Dushara Vijayan plays the hero of the story. The film is being recorded by Theni Eswar. V.. Prakash Kumar is composed. HH is ready to be the Entertainer. R. Producer Riya Shibu is produced on behalf of Pictures.
-
-...
-
-[Data](articles/6eb2b428.json)
-
-[Extended Data](ext_articles/6eb2b428.ext.json)
-
----
-
-### First application under Online Safety Act filed before Court
-
-*2024-04-04 15:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/First-application-under-Online-Safety-Act-filed-before-Court/155-280187) · `en`
-
-The first application under the newly enacted Online Safety Act was made to the Colombo Chief Magistrate’s Court and Court issued a conditional order preventing respondent parties from communicating alleged false information against former Chairman of the Public Utilities Commission (PUCSL) Janaka Ratnayake.
-
-Colombo Chief Magistrate Prasanna Alwis issued a conditional order in favour of the Petitioner Janaka Ratnayake in terms of Section 24 (1) and Section 24 (2) of the Online Safety Act No. 09 of 2024 and directed that the order be communicated to the Respondents Gayathri Bimba, Janaka Rajapaksha, Oshala Herath and several others by electronic means as provided for in Section 24 (4) of the Act.
-
-...
-
-[Data](articles/0125c126.json)
-
-[Extended Data](ext_articles/0125c126.ext.json)
 
 ---

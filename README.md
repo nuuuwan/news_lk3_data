@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 08:52:21**
+As of **2024-04-05 09:03:27**
 
 ## Newspaper Stats
 
-*Scraped **17,266** Articles*
+*Scraped **17,267** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 1,458
 tamilmirrorlk | 2,042
 adaderanalk | 2,067
 virakesarilk | 2,511
-dailymirrorlk | 2,647
+dailymirrorlk | 2,648
 adaderanasinhalalk | 2,787
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,262 (100.0%) of 17,266 articles have been extended.
+17,266 (100.0%) of 17,267 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### ’’Most eligible recipient’’: Sri Lankan monk on presenting sacred Buddha relics to Dalai Lama
+
+*2024-04-05 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Most-eligible-recipient-Sri-Lankan-monk-on-presenting-sacred-Buddha-relics-to-Dalai-Lama/107-280219) · `en`
+
+Colombo, April 5 (ANI): Tibetan spiritual leader Dalai Lama has accomplished more for Buddhism than anyone in history and thus makes him the most eligible person to recieve Lord Buddha's sacred Kapilavastu relics according to Sri Lankan Buddhist monk Waskaduwe Mahindawansa Mahanayake Thero.
+
+The Dalai Lama was on Thursday presented with the relics preserved and protected for generations at RajaGuru Sri Subuthi Waskaduwa Maha Viharaya, a Buddhist temple in Sri Lanka.The Lankan Buddhist monk had earlier said that the rare relic presented to the 14th Dalai Lama of Tibet was discovered during the British reign in India in the Piprahwa excavations and holds immense significance for Buddhists worldwide.
+
+...
+
+[Data](articles/73ef8d77.json)
+
+---
 
 ### 500 maids in Singapore duped in 2023 are from India, Sri Lanka
 
@@ -45,6 +59,8 @@ Falling prey to the scams are about 500 foreign maids from South Asian countries
 ...
 
 [Data](articles/dc8a8ac3.json)
+
+[Extended Data](ext_articles/dc8a8ac3.ext.json)
 
 ---
 
@@ -95,6 +111,8 @@ Intelligence officers previously stationed in the Western Province have been red
 ...
 
 [Data](articles/ebaa0e7c.json)
+
+[Extended Data](ext_articles/ebaa0e7c.ext.json)
 
 ---
 
@@ -509,6 +527,8 @@ Recurring events relating to hazardous transboundary shipments have raised conce
 ...
 
 [Data](articles/f7d8e393.json)
+
+[Extended Data](ext_articles/f7d8e393.ext.json)
 
 ---
 
@@ -1314,17 +1334,25 @@ The stock market performed on a bullish note throughout the day. Both local and 
 
 ---
 
-### පොලිස්පතිට පෞද්ගලිකවම ශ්‍රේෂ්ඨාධිකරණයේ පෙනී සිටිමට නියම කරයි
+### IGP is personally sitting in the Supreme Court
 
 *2024-04-04 20:35:33* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පතිට-පෞද්ගලිකවම-ශ්‍රේෂ්ඨාධිකරණයේ-පෙනී-සිටිමට-නියම-කරයි/11-408964) · `si`
 
-අරගලය සමයේ පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ නිවෙස්වලට අලාභ හානි කිරීම වැළැක්වීමට පියවර නොගත්තැයි චෝදනා කරමින් ස්ථානමාරු කර සිටි පොලිස්ථානාපතිවරුන් පස්දෙනෙකුට ජ්‍යෙෂ්ඨත්වය අනුව වෙනත් පොලිස් ස්ථාන දීමට පියවර නොගැනීම සම්බන්ධයෙන් පෞද්ගලිකවම අද (5දා) ශ්‍රෙෂ්ඨාධිකරණයේ පෙනී සිට කරුණු පැහැදිලි කරන ලෙස පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාට ශ්‍රෙෂ්ඨාධිකරණය ඊයේ (04දා) නියම කළේය.
+IGP in Supreme Court: Five police officers not transferred to prevent MPs' damage. 14 OICs filed rights petitions, alleging violations. IGP ordered to provide facts. Judges to explain incident fully.
 
-අදාළ පොලිස් ස්ථානාපතිවරුන් පස්දෙනාට ජ්‍යෙෂ්ඨත්වය අනුව වෙනත් පොලිස් ස්ථාන දීමට පියවර නොගැනීමේ සිද්ධීන් සම්බන්ධයෙන් සම්පූර්ණ වාර්තාවක් අධිකරණයට ඉදිරිපත් කරන්නැයි ශ්‍රේෂ්ඨාධිකරණය වැඩිදුරටත් නියම කළේය.අරගලය සමයේ පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ නිවෙස්වලට අලාභ හානි කිරීම වැළැක්වීමට පියවර නොගත්තැයි චෝදනා කරමින් ස්ථානමාරු කර සිටි  පොලිස්ථානාපතිවරුන් පස්දෙනෙකු විසින් මෝසමක් මාර්ගයෙන් කළ කරුණු දැක්වීමක් සලකා බැලීමෙන් අනතුරුව ශ්‍රේෂ්ඨාධිකරණය එලෙස නියම කළේය.
+🟩
+
+The Supreme Court yesterday (Parabow Tennakoon prescribed the Supreme Court yesterday) to address the Supreme Court today to address the Supreme Court today following action to distribute to other police stations to prevent damage to the MPs in the struggle..
+
+The Supreme Court added that the five police officers who were not taken to prevent further police stations according to seniority.Then the Supreme Court prescribed them.
+
+CJ Jayantha Jayasuriya, Supreme Court Judge Gamini Amarasekera and Mrs. Gamini Amarasekera and Mrs. Gamini Amarasekera and Mrs. Gamini Amarasekera and Mrs. Gamini Amarasekera and Mrs. Gamini Amarasekera and Mrs. Gamini Amarasekera and Holdipola were the OIC of the former Police OIC RM. Wasantha Kumara, Dambulla Headquarters Inspector AR. Perera, former US Headquarters Inspector of Negombo and former OIC Dinitawatte, Vasana Wattegama and the Wariyapola, Dinitawatte, were presented to court.
 
 ...
 
 [Data](articles/bc946bcd.json)
+
+[Extended Data](ext_articles/bc946bcd.ext.json)
 
 ---
 
@@ -2245,35 +2273,5 @@ Due to these unique talents, he won the Test series as well as the man of the ma
 [Data](articles/172113bd.json)
 
 [Extended Data](ext_articles/172113bd.ext.json)
-
----
-
-### Yall. Punishment for trade centers found in the pantheon
-
-*2024-04-04 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180441) · `ta`
-
-Trade centers in Jaffna fined 2.25 lakhs for outdated items, shop owners fined 95k, 65k, and 2.5k for various offenses. Manufacturer of outdated mango salt fined 45k.
-
-🟩
-
-2 lakhs 25 thousand rupees have been imposed on cases filed by the Mallakam Magistrate's Court against trade centers in the Jaffna Public Health Inspector's Division.
-
-In the Public Health Inspector's Division, led by E. Yoniprakalatan, raids were carried out at trade centers in the area.
-
-At the same time, the owner was sentenced to 95 thousand rupees in a case against the owner of the shop owner who had 245 outdated items in a trade center and ordered the closure of the shop.
-
-The owner was sentenced to 65 thousand rupees for the sale of worm, rice and seaweed at another shopping center.
-
-In addition, another owner, who had expired food, was fined 2 thousand 500 rupees.
-
-45 thousand rupees was imposed on the manufacturer of the mixer with the outdated mango salt.
-
-Meanwhile, during a raid carried out by K. Balendrakumar in the Anaikottai area, the two men were granted a lawsuit as they were not present in court as they filed a case against the two men who had run the restaurant.
-
-◼️
-
-[Data](articles/964483ef.json)
-
-[Extended Data](ext_articles/964483ef.ext.json)
 
 ---

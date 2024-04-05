@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 20:33:52**
+As of **2024-04-05 20:50:59**
 
 ## Newspaper Stats
 
-*Scraped **17,384** Articles*
+*Scraped **17,385** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,49 @@ tamilmirrorlk | 2,050
 adaderanalk | 2,090
 virakesarilk | 2,535
 dailymirrorlk | 2,664
-adaderanasinhalalk | 2,814
+adaderanasinhalalk | 2,815
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,381 (100.0%) of 17,384 articles have been extended.
+17,384 (100.0%) of 17,385 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### அதிகரிக்கும் வெப்பம் - சில மாவட்டங்களுக்கு எச்சரிக்கை
+### Increased Heating - Warning to some districts
 
 *2024-04-05 20:08:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகரிக்கும்-வெப்பம்-சில-மாவட்டங்களுக்கு-எச்சரிக்கை/175-335647) · `ta`
 
-வடக்கு, வடமத்திய, கிழக்கு, மேல், சப்ரகமுவ, வடமேல் மற்றும் தென் மாகாணங்களுக்கும் மொனராகலை மற்றும் மாத்தளை மாவட்டங்களுக்கும் வெப்பமான வானிலை குறித்து எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+Heat warnings issued for Northern, North Central, Eastern, Upper, Sabaragamuwa, North Western, Southern Provinces, and Moneragala and Matale districts. Expected high heat levels.
 
-அதன்படி, குறித்த பகுதிகளில் வாழும் மக்களுக்கு மனித உடலால் உணரப்படும் வெப்பம், கவனம் செலுத்த வேண்டிய மட்டத்தில் இருக்கக்கூடும் என்று எதிர்பார்க்கப்படுகிறது. R
+🟩
+
+Heat weather has been warned of the Northern, North Central, Eastern, Upper, Sabaragamuwa, North Western and Southern Provinces and Moneragala and Matale districts.
+
+Accordingly, the heat, which is perceived by the human body, is expected to be at the level of focus.. Remble
 
 ◼️
 
 [Data](articles/ab70e672.json)
+
+[Extended Data](ext_articles/ab70e672.ext.json)
+
+---
+
+### ලිපිගොනු අතුරුදන් බවට ශ්‍රීලනිපයෙන් පැමිණිල්ලක්
+
+*2024-04-05 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195349) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන මහලේකම් දුෂ්මන්ත මිත්‍රපාල මහතා විසින් මරදාන පොලීසියට පැමිණිල්ලක් ඉදිරිපත් කර තිබේ.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානයේ තිබූ වැදගත් ලිපිගොනු කිහිපයක් අතුරුදන් වී ඇති බවට බව පවසමින් ඒ මහතා මෙම පැමිණිල්ල ඉදිරිපත් කර ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/ca7b59dd.json)
 
 ---
 
@@ -62,25 +82,33 @@ The Defendants had brought to the notice of Court that it is an unincorporated a
 
 [Data](articles/27ab08f2.json)
 
+[Extended Data](ext_articles/27ab08f2.ext.json)
+
 ---
 
-### தொலைபேசி வாங்க காத்திருப்போருக்கு மகிழ்ச்சியான செய்தி
+### Happy news to those waiting to buy phone
 
 *2024-04-05 20:01:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொலைபேசி-வாங்க-காத்திருப்போருக்கு-மகிழ்ச்சியான-செய்தி/175-335646) · `ta`
 
-டொலரின் பெறுமதி வீழ்ச்சி காரணமாக இலங்கையில் கையடக்க தொலைபேசிகளின் விலை 18% - 20% வரை குறைந்துள்ளதாக இலங்கை கையடக்க தொலைபேசி இறக்குமதியாளர்கள் மற்றும் விற்பனையாளர்கள் சங்கத்தின் தலைவர் சமித் செனரத் தெரிவித்தார்.
+Mobile phone prices in Sri Lanka have dropped 18-20% due to the dollar's fall, affecting models like the iPhone 15 Pro Max and lower-priced phones.
 
-தற்போது டொலர் 300 ரூபா வரை குறைந்துள்ளது. இதன் காரணமாக கையடக்க தொலைபேசிகளின் விலை குறைக்கப்பட்டுள்ளது.
+🟩
 
-சந்தையில் அதிக விலைக்கு விற்கப்படும் ஐபோன் 15 pro max 515,000 முதல் 530,000 ரூபா வரை காணப்பட்ட விலை தற்போது 375000 ரூபா வரை குறைவடைந்துள்ளது.
+Sri Lanka's mobile phone importers and vendors association president Samith Senarath said that the price of mobile phones in Sri Lanka has fallen by 18% - 20% due to the dollar value fall.
 
-அதேபோல், குறைந்த விலையுடைய கைப்பேசிகளின் விலையும் 18 - 20 சதவீதம் வரையில் குறைவடைந்துள்ளதை காணக்கூடியதாய் உள்ளது.
+Currently declined up to 300 rupees. Due to this, the price of mobile phones has been reduced.
 
-10,000 ரூபா வரை அதிகரித்திருந்த கைப்பேசியை தற்போது 7,000 ரூபாக்கு பெற்றுக் கொள்ள முடியும் என்றும் குறிப்பிட்டுள்ளார். R
+The iPhone 15 Pro Max 515,000 to 530,000 rupees has now fallen to 375,000 rupees.
+
+Similarly, the price of low -priced cell phones has fallen by 18 to 20 percent.
+
+He also said that the mobile phone, which had increased up to 10,000 rupees, could now get 7,000 rupees.. Remble
 
 ◼️
 
 [Data](articles/8c450052.json)
+
+[Extended Data](ext_articles/8c450052.ext.json)
 
 ---
 
@@ -2309,25 +2337,5 @@ Meanwhile, the Elections Commission has said that no party has so far requested 
 [Data](articles/6d5ce460.json)
 
 [Extended Data](ext_articles/6d5ce460.ext.json)
-
----
-
-### There is “strong expectation” of Sri Lanka commercial creditor deal: IMF
-
-*2024-04-05 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98438/there-is-strong-expectation-of-sri-lanka-commercial-creditor-deal-imf) · `en`
-
-The International Monetary Fund said on Thursday that there is “strong expectation” that Sri Lanka will reach a deal with its commercial creditors by the completion of the IMF’s second review.
-
-Sri Lanka is in talks with bondholders to restructure about USD 12 billion in debt, a key step in its bid to emerge from a punishing financial crisis.
-
-“There is a strong expectation that agreements with commercial creditors consistent with program parameters will be reached by completion of the second review,” IMF spokesperson Julie Kozack told a press briefing.
-
-The IMF reached a staff-level agreement with Sri Lanka on its second review of a four-year bailout programme late last month, but it still needs approval from the IMF’s board.
-
-...
-
-[Data](articles/256f3190.json)
-
-[Extended Data](ext_articles/256f3190.ext.json)
 
 ---

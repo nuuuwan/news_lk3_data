@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 23:34:07**
+As of **2024-04-05 23:52:45**
 
 ## Newspaper Stats
 
-*Scraped **17,397** Articles*
+*Scraped **17,408** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 210
 newsfirstlk | 363
 dailyftlk | 944
 islandlk | 951
-economynextcom | 962
+economynextcom | 972
 adalk | 1,466
 tamilmirrorlk | 2,051
-adaderanalk | 2,092
+adaderanalk | 2,093
 virakesarilk | 2,539
 dailymirrorlk | 2,666
 adaderanasinhalalk | 2,817
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,397 (100.0%) of 17,397 articles have been extended.
+17,397 (99.9%) of 17,408 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### Govt. says it settled USD 2bn worth of foreign debt and interest
+
+*2024-04-05 23:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98460/govt-says-it-settled-usd-2bn-worth-of-foreign-debt-and-interest) · `en`
+
+Mr. Rajith Keerthy Tennakoon, President Director General of Community Affairs says that after between President Ranil Wickremesinghe’s assumption of office and February 2024, the Sri Lankan government has settled a total of USD 1909.7 million in foreign debt and interest payments.
+
+He also highlighted that from 21 July 2022 to February 2024, the government has disbursed $1338.8 million in multilateral loans and interest, with no outstanding arrears in loan instalments or interest payments up to February 2024. Mr. Rajith Keerthi Tennakone conveyed this information during a special media statement today (05).
+
+According to the Department of External Resources, payments totalling USD 760.1 million have been made to the Asian Development Bank and USD 7.0 million to the Asian Infrastructure Investment Bank.
+
+...
+
+[Data](articles/c3908506.json)
+
+---
 
 ### Proportion of Tamil youth in public institutions, tri-forces must be increased: AKD
 
@@ -161,6 +177,26 @@ At the same time, the video recordings of the violent gangs have been taken to t
 [Data](articles/c75e765f.json)
 
 [Extended Data](ext_articles/c75e765f.ext.json)
+
+---
+
+### Sri Lanka’s SJB welcomes SLPP dissidents, heaps praise on G L Peiris
+
+*2024-04-05 20:59:00* · [`economynextcom`](https://economynext.com/sri-lankas-sjb-welcomes-slpp-dissidents-heaps-praise-on-g-l-peiris-157753/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s main opposition Samagi Jana Balawegaya (SJB) has welcomed some of the most prominent members of the former Sri Lanka Podujana Peramuna (SLPP) government headed by ousted ex president Gotabaya Rajapaksa, with the SJB general secretary particularly heaping praise on MP G L Peiris.
+
+SJB parliamentarian Ranjith Madduma Bandara speaking at a ceremony to mark the alliance between his party and the Freedom People’s Congress headed by Peiris said the latter’s partnership was a “great strength” to the SJB.
+
+“G L Peiris and the team have become a great strength to us today. He has joined us with his team, bringing in his economic vision, his knowledge, and his political experience,” said Bandara.
+
+The MP claimed that a majority of Sri Lankans have already decided that only the SJB can save the country.
+
+“Other parties that love the country, want to develop it, and think about the future generations of this country have decided to partner with the SJB,” he said.
+
+...
+
+[Data](articles/7cd19ef8.json)
 
 ---
 
@@ -802,6 +838,30 @@ The Chairman of the Association, Samaith Senarath told a media briefing.
 
 ---
 
+### Sri Lankans reluctant to get tested for HIV: State minister
+
+*2024-04-05 16:59:00* · [`economynextcom`](https://economynext.com/sri-lankans-reluctant-to-get-tested-for-hiv-state-minister-157724/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s population is reluctant to get tested for HIV-AIDS due to social stigmas, State Minister of Health Dr Sita Arambepola said.
+
+“When the social phobia is there for these diseases people won’t come and get their treatment,” Arambepola told reporters on Friday.
+
+Ministry of Health data shows that there were 694 reported AIDS cases in 2023 with 59 HIV related deaths.
+
+In December, Sri Lanka’s health authorities said compared to 2021, there was a 48 percent increase in the number of people living with HIV in the country in 2022.
+
+Arambepola confirmed there was an increase in HIV AIDS patients. “There are avenues to spread, so definitely its getting increased.”
+
+Two HIV-positive people were identified in Negombo during Police raids of spas recently.
+
+Reports indicate there was a significant increase in HIV with sexually active young people being a high risk group.
+
+...
+
+[Data](articles/271e9aef.json)
+
+---
+
 ### Court order on 51 vehicles
 
 *2024-04-05 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195343) · `si`
@@ -922,6 +982,28 @@ Accordingly, the people living in those areas are expected to be the level of he
 
 ---
 
+### Sri Lanka rupee closes at 299.25/30 to the US dollar
+
+*2024-04-05 16:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-299-25-30-to-the-us-dollar-157720/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 299.25/30 to the US dollar in the spot forex market on Friday, stronger from 299.70/80 on Thursday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 closed up at 11.40/45 percent from 11.35/45 percent.
+
+A bond maturing on 15.09.2027 closed at 11.90/12.00 percent from 11.95/12.00 percent.
+
+A bond maturing on 15.12.2028 closed stable at 12.15/25 percent.
+
+A bond maturing on 15.05.2030 closed at 12.30/50 percent from 12.30/45 percent.
+
+A bond maturing on 01.07.2032 closed stable at 12.60/75 percent. (Colombo/Apr5/2024)
+
+◼️
+
+[Data](articles/7949b4de.json)
+
+---
+
 ### Ukraine fires over 50 drones against Russia in one of biggest air attacks
 
 *2024-04-05 16:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ukraine-fires-over-50-drones-against-Russia-in-one-of-biggest-air-attacks/108-280254) · `en`
@@ -965,6 +1047,32 @@ The Global Best Young Leader Plan identifies promoting leaders under the age of 
 [Data](articles/436226cf.json)
 
 [Extended Data](ext_articles/436226cf.ext.json)
+
+---
+
+### Sri Lanka stocks close up, banks bring in 1.5bn
+
+*2024-04-05 16:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-bring-in-1-5bn-157716/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader All Share Index closed up 0.83 percent, or 96.84 points, at 11,795; while the S&P SL20 Index closed up 1.29 percent, or 44.22 points, at 3,481.
+
+Turnover was at 2.9 billion.  Most of this (1.5bn) came from several large trades in four banks.
+
+“There’s also a lot of buying interest coming into banks, there’s a run there,” market participants said.
+
+Hatton National Bank Plc saw the most active volumes traded, Rs654mn, and the share closed up at 200.00.
+
+Commercial Bank of Ceylon Plc, which contributed Rs325mn to the day’s turnover, closed up at 105.25.
+
+Pan Asia Banking Corporation Plc (Rs108mn), closed up at 22.90.
+
+Other major contributors to the Index included Central Finance Company Plc, up at 115.00, Dialog Axiata Plc, up at 12.00, and Lanka IOC Plc, up at 122.00. (Colombo/Apr5/2024)
+
+◼️
+
+[Data](articles/e4851bc9.json)
 
 ---
 
@@ -1166,6 +1274,24 @@ In particular, China's production capacity is a problem for many countries inclu
 
 ---
 
+### Sri Lanka minister Thondaman chosen as World Economic Forum Young Global Leader
+
+*2024-04-05 16:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-thondaman-chosen-as-world-economic-forum-young-global-leader-157708/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Minister of Water Supply and Estate Infrastructure Jeevan Thondaman has been chosen as a Young Global Leader by the World Economic Forum, a ministry statement said.
+
+“He worked relentlessly to create a conducive environment for plantation workers, ensuring fair wages, safe working conditions and adequate benefits,” the World Economic Forum said on its website.
+
+“As Minister for Water Supply, he has been spearheading ambitious reforms in the water sector to increase access to safe and affordable drinking water, create a climate resilience roadmap for water services and a transparent pricing formula that protects the most vulnerable in society.”
+
+The YGL is a multi-stakeholder community of more than 1,000 young leaders. Past inductees included French President Emmanuel Macron and former New Zealand Prime Minister Jacinda Arden.
+
+...
+
+[Data](articles/80bb303e.json)
+
+---
+
 ### Damitha Abeyratne and husband remanded
 
 *2024-04-05 15:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Damitha-Abeyratne-and-husband-remanded/108-280257) · `en`
@@ -1268,6 +1394,26 @@ Meanwhile, police arrested six suspects who were aid for criminal gangs yesterda
 
 ---
 
+### Sri Lanka to turn World War II-era Hingurakgoda air base to international airport
+
+*2024-04-05 15:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-turn-world-war-ii-era-hingurakgoda-air-base-to-international-airport-157704/) · `en`
+
+ECONOMYNEXT — Sri Lanka plans to revamp the Hingurakgoda airport to an international airport, Aviation Minister Nimal Siripala de Silva said.
+
+The minister said at a discussion that the objective is to turn the Hingurakgoda airport into an airport dedicated to civil aviation.
+
+“The previous budget had allocated 2 billion rupees for this for this year. Until the construction of the airport is complete, from annual budget estimates, the money needed for this will be provided.
+
+“Our final target is like Mattala and Palali to make this a dedicated airport for civil aviation, not domestic but international,” he said.
+
+The Hingurakgoda airport, originally known as Royal Air Force Minneriya, airport goes back to the days of World War II, serving as a base for the British Royal Air Force. (Colombo/Apr05/2024)
+
+◼️
+
+[Data](articles/4ac76752.json)
+
+---
+
 ### Bore. Some recovery of explosives in Vaharai area
 
 *2024-04-05 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180523) · `ta`
@@ -1297,6 +1443,26 @@ At the time, the 233rd Brigade of the Vaharai was accompanied by the military of
 [Data](articles/11efe0f5.json)
 
 [Extended Data](ext_articles/11efe0f5.ext.json)
+
+---
+
+### Sri Lanka anticipates third IMF EFF installment by June: official
+
+*2024-04-05 15:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-anticipates-third-imf-eff-installment-by-june-official-157694/) · `en`
+
+ECONOMYNEXT — Sri Lanka anticipates the third tranche of the International Monetary Fund (IMF)’s extended fund facility by June, according to State Minister of Finance Shehan Semasinghe.
+
+The official told reporters that, however, Sri Lanka has to first obtain consensus from the country’s creditors on restructuring its debt.
+
+“We anticipate the third tranche by June. That’s the standard procedure. After a review, there’s staff level agreement between IMF officials and government officials. Following that, a date is decided for the IMF to present that agreement. It is after this that we get the third installment of 337 million dollars.
+
+“But there’s one task we have to complete before that. That is to get the consensus for restructuring debt from our creditors. We have obtained the preliminary consent of all bilateral creditors,” said Semasinghe.
+
+An IMF official said on Friday April 05 that there are strong expectations of agreements being reached with commercial creditors.
+
+...
+
+[Data](articles/e77ab5a1.json)
 
 ---
 
@@ -1656,6 +1822,26 @@ The measurement was to be carried out with the aim of carrying out about 29 acre
 
 ---
 
+### Sri Lanka minimum room rates slammed as cartelized scheme that is illegal in market economies
+
+*2024-04-05 13:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-minimum-room-rates-slammed-as-cartelized-scheme-that-is-illegal-in-market-economies-157684/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s controversial minimum room rates is a scheme cooked up by a cartel of five or six ‘run down hotels’ to boost their occupancy, which would be illegal in other markets, irate travel agents who are losing convention and exhibition customers to East Asia said.
+
+Among hotels that support the price floors, there was only one 5-star rated hotel, they claimed.
+
+“These rundown hotels are getting the mileage as the bigger hotels are not full,” Managing Director of CEC Events and Travels, Imran Hassan from the Sri Lanka Association of Professional Conferences, Exhibition and Event Organizers told reporters in Colombo.
+
+“There is only one five-star hotel who has made a statement, none of the other five-star hotels are there.”
+
+Vice President of Sri Lanka Association of Inbound Travel Agents, Nalin Jayasundara said the anti-competitive behavior would be illegal in the European Union or the United States.
+
+...
+
+[Data](articles/73618794.json)
+
+---
+
 ### ‘Dunhinda Odyssey’ special luxury tourist train inaugurated
 
 *2024-04-05 13:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98445/dunhinda-odyssey-special-luxury-tourist-train-inaugurated-) · `en`
@@ -1727,6 +1913,26 @@ Senior Weather Officer Dr. Mohamed Saliheen added that there is a chance of rain
 [Data](articles/805b5b52.json)
 
 [Extended Data](ext_articles/805b5b52.ext.json)
+
+---
+
+### Sri Lanka plans state ayurvedic massage centres for tourists
+
+*2024-04-05 13:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-state-ayurvedic-massage-centres-for-tourists-157670/) · `en`
+
+ECONOMYNEXT – Ayurvedic medicine should be integrated into the tourism industry more effectively, State Minister of Indigenous Medicine Sisira Jayakody has said.
+
+“Tourists show a particular fascination and enthusiasm for massage techniques offered by the traditional medical system,” Jayakody told reporters on Thursday.
+
+“In collaboration with the Department of Ayurveda, we are establishing ‘Body Mantra’ massage centres across the country.”
+
+The centres are planned for hotels and resorts within the country, as well as abroad, “aiming to deliver expert services with certified professionalism. NVQ 4 qualified therapists would be recruited to work in them.”
+
+The Ayurvedic Code, recently approved by parliament, has regulations to oversee Ayurvedic products and centres in the country, the state minister said.
+
+...
+
+[Data](articles/ee5ce919.json)
 
 ---
 
@@ -2091,235 +2297,5 @@ The petitioner stated that the respondent former Minister during a parliamentary
 [Data](articles/b9580c9d.json)
 
 [Extended Data](ext_articles/b9580c9d.ext.json)
-
----
-
-### Biden warns Netanyahu US policy depends on Gaza civilian protection
-
-*2024-04-05 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98441/biden-warns-netanyahu-us-policy-depends-on-gaza-civilian-protection) · `en`
-
-President Joe Biden warned Israel of a sharp shift in his policy over the Gaza war Thursday amid growing frustration with Benjamin Netanyahu and mounting domestic pressure in a US election year.
-
-A tense phone call between the two leaders appeared to yield at least some results, as Netanyahu’s office announced within hours it would temporarily allow more aid to flow into Gaza.
-
-Biden has stood solidly behind Israel and its prime minister since Hamas’s October 7 attacks, and his criticism of civilian deaths in Gaza has not stopped Washington from supplying military hardware to its key ally.
-
-But the Democrat faces spiraling anger from Muslim and younger voters over his support for Israel, and political allies have been pressing him to make the aid conditional on changed Israeli behavior.
-
-In a 30-minute call with Netanyahu after Israeli strikes killed seven aid workers from US-based charity World Central Kitchen, Biden hinted at doing just that.
-
-...
-
-[Data](articles/e85a980f.json)
-
-[Extended Data](ext_articles/e85a980f.ext.json)
-
----
-
-### Japanese Ambassador and delegation drunk drunk at Former CF. Data
-
-*2024-04-05 11:24:24* · [`adalk`](https://www.ada.lk/breaking_news/ජපාන-තානාපති-බිරිඳ-ඇතුළු-නියෝජිත-පිරිසක්-හිටපු-හෝටලයේදී-බීමත්-හිටපු-සී-අයි--යකා-නටලා/11-408968) · `si`
-
-Japanese Ambassador and delegation in Sri Lanka were involved in an incident where a retired Chief Inspector was arrested for being drunk and throwing stones at a hotel. The Ambassador's wife expressed concern to the delegates.
-
-🟩
-
-A retired Chief Inspector who was drunk with a hotel in Moneragala had been arrested.
-
-The Retired Inspector of Police (Retired Inspector) has taken stones at the hotel after a collapse at the hotel.
-
-At the time of the incident, the Japanese Ambassador of the Japanese Ambassador in Sri Lanka has stopped.
-
-The Ambassador's wife has given a letter to a letter that the delegates, including the delegation, has been terrified by the incident.The retired Chief Inspector of Police is due to be produced in court.
-
-◼️
-
-[Data](articles/9a3730d1.json)
-
-[Extended Data](ext_articles/9a3730d1.ext.json)
-
----
-
-### Good news from South Korea
-
-*2024-04-05 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195327) · `si`
-
-South Korean Prime Minister Han Duck Soo and Sri Lanka's Dinesh Gunawardena met, discussing job opportunities in agriculture, construction, and other industries for Sri Lanka.
-
-🟩
-
-South Korean Prime Minister HAN DUCK SOO and Prime Minister Dinesh Gunawardena held yesterday (04) at the Prime Minister's Office in South Korea.
-
-The Korean Prime Minister opens several new jobs gates to Sri Lanka.
-
-The Korean Prime Minister also stated that in addition to providing job forces for agriculture, construction and other industries, the Korean Prime Minister said.
-
-The Prime Minister Korean Prime Minister stated that Sri Lanka has always appeared as a member of Paris Society as a member of the Paris Club of Paris Club.
-
-◼️
-
-[Data](articles/294b0dc1.json)
-
-[Extended Data](ext_articles/294b0dc1.ext.json)
-
----
-
-### No ground for Indian claim on Katchatheevu, says Sri Lankan Minister
-
-*2024-04-05 11:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-ground-for-Indian-claim-on-Katchatheevu-says-Sri-Lankan-Minister/108-280233) · `en`
-
-Jaffna, April 5 (NDTV) - The statements coming out of India on "reclaiming" Katchatheevu island from Sri Lanka have "no ground", the Sri Lankan Minister of Fisheries Douglas Devananda has said.
-
-The senior Sri Lankan Tamil politician's comments came days after the Narendra Modi government targeted the Congress Party and its ally the Dravida Munnetra Kazhagam (DMK) in Tamil Nadu accusing them of overlooking national interests in the ceding of Katchatheevu island to Sri Lanka in 1974.
-
-The BJP has also been targeting the two parties for not ensuring the rights of the fishermen wanting to fish in waters around the Katchatheevu island.
-
-“It is the election time in India, it is not unusual to hear such noises of claims and counterclaims about Katchatheevu ," Devananda told reporters in Jaffna on Thursday.
-
-...
-
-[Data](articles/bbd3d43c.json)
-
-[Extended Data](ext_articles/bbd3d43c.ext.json)
-
----
-
-### SJB signs MOU with section of Nidahasa Janatha Sabawa
-
-*2024-04-05 11:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-signs-MOU-with-section-of-Nidahasa-Janatha-Sabawa/108-280232) · `en`
-
-Colombo, April 5 (Daily Mirror)- A section of the Nidahasa Janatha Sabawa signed an MOU with the Samagi Jana Balawegaya to form an alliance, SJB Smspokesman S.M. Markar told journalists today.
-
-Six MPs including Professor G. L. Peiris, Dilan Perera. Nalaka Godahewa are some of the signitories.
-
-◼️
-
-[Data](articles/91efd747.json)
-
-[Extended Data](ext_articles/91efd747.ext.json)
-
----
-
-### The man who went to sleep in Jaffna dies
-
-*2024-04-05 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180489) · `ta`
-
-A man in Jaffna died after being found unconscious at home. He was taken to Jaffna Bodhana Hospital for treatment.
-
-🟩
-
-The man who slept at home at home did not get up at 7 am and did not wake up, and when the house tried to touches him, he was found unconscious.
-
-The house was admitted to the Jaffna Bodhana Hospital and was treated at the hospital.
-
-◼️
-
-[Data](articles/7e077633.json)
-
-[Extended Data](ext_articles/7e077633.ext.json)
-
----
-
-### Israel loses the war - the war should end soon - Trump
-
-*2024-04-05 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180487) · `ta`
-
-Trump urges Israel to end Gaza War, criticizes tactics and video releases.
-
-🟩
-
-Former US President Donald Trump has appealed to Israel to end the Gaza War.
-
-In an interview with a conservative journalist Hiuj Hewit, Donald Trump made this harsh message to Israel.
-
-Trump has said that the Israeli campaign is losing the war.
-
-"We will bring about peace and make peace," Trump said.
-
-He said that Israel should do this fast, as they should do this and bring about normalcy.
-
-US President Jobitin has questioned the tactics used by Israel as the Republican candidate in the US presidential election, Gaza, has continued to increase the number of casualties in Gaza.
-
-Trump has said that I am not sure that Israel is acting, because you have to succeed but take a long time for that victory.
-
-Former US president has criticized Israel's release of videos of Israel.
-
-Israeli has been releasing videos of other attacks, including Airlines, claiming to be attacks on terrorist infrastructure.
-
-Trump has said that the Israeli propaganda war is defeated because they should not release such videos.
-
-...
-
-[Data](articles/08f60e96.json)
-
-[Extended Data](ext_articles/08f60e96.ext.json)
-
----
-
-### Six MPs of ‘Nidahasa Janatha Sabhawa’ join SJB-led alliance
-
-*2024-04-05 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98440/six-mps-of-nidahasa-janatha-sabhawa-join-sjb-led-alliance) · `en`
-
-The Samagi Jana Balawegaya (SJB) signed a Memorandum of Understanding (MoU) with a group of members of Freedom People’s Congress (Nidahasa Janatha Sabhawa) as the first step of forming the main opposition-led ‘Samagi Jana Sandhanaya’, a short while ago.
-
-The agreement has been reached based on the discussions carried out for several months regarding the upcoming elections and policy issues.
-
-Accordingly, the agreement has been signed between the SJB and 06 MPs of Nidahasa Janatha Sabhawa including Prof. G.L. Peiris, Dilan Perera, Dr. Nalaka Godahewa, K.P. Kumarasiri, Dr. Upul Galappaththi and Wasantha Yapa Bandara, to form the new alliance.
-
-A group of politicians including the aforementioned who broke away from the Sri Lanka Podujana Peramuna (SLPP) had previously decided to sit independently in Parliament under the Nidahasa Janatha Sabhawa.
-
-◼️
-
-[Data](articles/e5296e65.json)
-
-[Extended Data](ext_articles/e5296e65.ext.json)
-
----
-
-### 10 Iranian soldiers killed in armed group attack
-
-*2024-04-05 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/180484) · `ta`
-
-10 Iranian soldiers killed in attack by Jaish al-Adl, claimed by Jaish Al Athl. Iran and US label both groups as terrorists.
-
-🟩
-
-Ten Iranian state soldiers have been killed in the attack by rebels in Iran, state television said yesterday.
-
-Security forces killed 10 people in terrorist attacks. Iranian state television said 18 terrorists were killed.
-
-Jaish al -Adl has claimed the attack. Both Iran and the United States have declared this movement as terrorist group.
-
-Jaish Al Athl also claimed the attack on the killing of 11 Iranian soldiers last December.
-
-◼️
-
-[Data](articles/b6270e48.json)
-
-[Extended Data](ext_articles/b6270e48.ext.json)
-
----
-
-### Signs signal coalition agreement
-
-*2024-04-05 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195326) · `si`
-
-The UPFA's establishment was signed by Prof. GL Peiris and Ranjith Madduma Bandara, with six G Partners members also signing, including Prof. GL Perera, Dilan Perera, Dr. Nalaka Godahewa, KP Kumarasiri, Dr. Upul Galappaththi, and Wasantha Yapa Bandara.
-
-🟩
-
-The MoU has signed the establishment of the UPFA.
-
-Prof. GL Peiris and Ranjith Madduma Bandara have signed the relevant agreement this morning.
-
-Accordingly, the reconciliation alliance has been signed by six members of the G Partners in the G Partners.
-
-Professor GL Perera, Dilan Perera, Dr. Nalaka Godahewa, KP Kumarasiri, Dr. Upul Galappaththi and Wasantha Yapa Bandara were reported to the UPFA.
-
-◼️
-
-[Data](articles/423e45dd.json)
-
-[Extended Data](ext_articles/423e45dd.ext.json)
 
 ---

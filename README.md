@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 19:51:48**
+As of **2024-04-05 20:03:34**
 
 ## Newspaper Stats
 
-*Scraped **17,378** Articles*
+*Scraped **17,380** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ bbccomsinhala | 182
 dbsjeyarajcom | 210
 newsfirstlk | 363
 dailyftlk | 944
-islandlk | 950
+islandlk | 951
 economynextcom | 962
-adalk | 1,465
+adalk | 1,466
 tamilmirrorlk | 2,048
 adaderanalk | 2,090
 virakesarilk | 2,535
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,813
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,378 (100.0%) of 17,378 articles have been extended.
+17,378 (100.0%) of 17,380 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -465,6 +465,24 @@ The court issued a request made by the Bribery Commission to issue the authoriza
 [Data](articles/d2711b0b.json)
 
 [Extended Data](ext_articles/d2711b0b.ext.json)
+
+---
+
+### නුවරඑළියේ ගෝවා අනුරාධපුරයේ වැවූ කැලුම්
+
+*2024-04-05 16:52:55* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළියේ-ගෝවා-අනුරාධපුරයේ-වැවූ-කැලුම්/11-408972) · `si`
+
+ලංකා ඉතිහාසයේ පළමු වතාවට නුවරඑළියේ  වගා කරන ගෝවා බීජ ප්‍රභේදයක් අනුරාධපුර දීස්ත්‍රික්කයේ මහාඉලුක්පල්ලම ප්‍රදේශයේ හේනක වගා කොට   සාර්ථක අස්වැන්නක් ලබන තරුණ ගොවියකු පිළිබඳව  පුවතක් වා ර් තා විය .
+
+මෙම අත්හදා බැලීම   සිදු කරනු ලැබුවේ මහාඉලූක්පල්ලම   මහමිගස්වැව   ප්‍රදේශයේ පදිංචි ඩී .එම් . සංජීව කැලුම් දිසානායක 29   තරුණයෙකි
+
+සමස්ත  තරුණ පරපුරටම ආදර්ශයක් දෙමින් සංජීව කැලුම් දීසානායක මහතාගේ මාස තුනක ඉලක්කගත ආදායම රුපියල් ලක්ෂ පහළොවක් බව සඳහන් කළේය.
+
+තල, බඩ, ඉරිඟු, රටකජු ,ආදී වගා කරන ලද හේනක නුවරඑළියේ වගා කරන ගෝවා ප්‍රභේදයක්  මිලදී ගෙන  මෙම තරුණයා වගා කොට තිබේ. මේ වන විට අස්වැන්න  නෙලන්නට ආසන්නව ඇත . රජරට දැඩිවියලි කාලගුණික තත්ත්වයක් පැවතියද මෙම තරුණයා ගේ  ගෝවා වගාව බැලූ බැල්මට  නුවරඑළියේ වගාවක් ලෙස දිස්වීම විශේෂත්වයකි.
+
+...
+
+[Data](articles/3cffdd96.json)
 
 ---
 
@@ -2325,21 +2343,5 @@ He said the SLHRC had received 9,417 public complaints against the police for 20
 [Data](articles/e6ea4e32.json)
 
 [Extended Data](ext_articles/e6ea4e32.ext.json)
-
----
-
-### ’’Most eligible recipient’’: Sri Lankan monk on presenting sacred Buddha relics to Dalai Lama
-
-*2024-04-05 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Most-eligible-recipient-Sri-Lankan-monk-on-presenting-sacred-Buddha-relics-to-Dalai-Lama/107-280219) · `en`
-
-Colombo, April 5 (ANI): Tibetan spiritual leader Dalai Lama has accomplished more for Buddhism than anyone in history and thus makes him the most eligible person to recieve Lord Buddha's sacred Kapilavastu relics according to Sri Lankan Buddhist monk Waskaduwe Mahindawansa Mahanayake Thero.
-
-The Dalai Lama was on Thursday presented with the relics preserved and protected for generations at RajaGuru Sri Subuthi Waskaduwa Maha Viharaya, a Buddhist temple in Sri Lanka.The Lankan Buddhist monk had earlier said that the rare relic presented to the 14th Dalai Lama of Tibet was discovered during the British reign in India in the Piprahwa excavations and holds immense significance for Buddhists worldwide.
-
-...
-
-[Data](articles/73ef8d77.json)
-
-[Extended Data](ext_articles/73ef8d77.ext.json)
 
 ---

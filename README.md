@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 08:18:05**
+As of **2024-04-05 08:33:50**
 
 ## Newspaper Stats
 
-*Scraped **17,260** Articles*
+*Scraped **17,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,47 @@ dailyftlk | 944
 islandlk | 950
 economynextcom | 957
 adalk | 1,457
-tamilmirrorlk | 2,041
+tamilmirrorlk | 2,042
 adaderanalk | 2,066
 virakesarilk | 2,511
 dailymirrorlk | 2,645
-adaderanasinhalalk | 2,786
+adaderanasinhalalk | 2,787
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,260 (100.0%) of 17,260 articles have been extended.
+17,260 (100.0%) of 17,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### රිය අනතුරකින් 08 හැවිරිදි දරුවෙක් මරුට
+
+*2024-04-05 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195320) · `si`
+
+ත්‍රීරෝද රථයක් අනතුරට ලක්වීමෙන් එහි ගමන් ගත් 08 හැවිරිදි දරුවෙකු මියගොස් තිබේ.
+
+මාතර තංගල්ල ප්‍රධාන මාර්ගයේ දොඩම්පහල උඩදෙනිය ප්‍රදේශයේදී ඊයේ (04) අලුයම ටිපර් රථයක් සහ ත්‍රීරෝද රථයක් මුහුණට මුහුණ ගැනීමෙන් අනතුර සිදුවී ඇත.
+
+අනතුරෙන් ත්‍රීරෝද රථය මාර්ගයේ පෙරළී ගොස් තිබූ අතර එහි රියදුරු, පසුපස අසුනේ ගමන් කළ කාන්තාවක් සහ ඇයගේ පිරිමි දරුවා බරපතළ තුවාල ලබා තංගල්ල රෝහලට ඇතුළත් කෙරුණි.
+
+මෙලෙස මියගොස් ඇත්තේ 08 හැවිරිදි දංපතිගම බිබිල ප්‍රදේශයේ පදිංචිව සිටි පාසල් සිසුවෙකි.
+
+අනතුරෙන් බරපතළ තුවාල ලද කාන්තාව තංගල්ල රෝහලේ නේවාසිකව ප්‍රතිකාර ලබන අතර ත්‍රීරෝද රථයේ රියදුරා ප්‍රතිකාර ගෙන රෝහලෙන් පිටවගොස් පොලීසියට භාරවී ඇත.
+
+සිද්ධිය සම්බන්ධයෙන් ටිපර් රථයේ රියදුරා අත්අඩංගුවට ගෙන පරීක්ෂණ පවත්වන බව දික්වැල්ල පොලීසිය කියයි.
+
+මේ අතර ඊයේ දහවල් ආණමඩුව නවගත්තේගම මාර්ගයේදී ද රිය අනතුරක් සිදුවී තිබුණි.
+
+උස්වැව ප්‍රදේශයේදී පදික මාරුව මතින් ගමන් කරමින් සිටි 13 හැවිරිදි දැරියක් ලොරි රථයක ගැටී ඇති අතර අනතුරෙන් ඇය ජීවිතක්ෂයට පත්වී ඇත.
+
+◼️
+
+[Data](articles/08805b21.json)
+
+---
 
 ### Foreigners overstaying visas and doing odd jobs
 
@@ -709,6 +735,24 @@ The Secretary of the Urban Council visited the scene on the 23rd of last month a
 [Data](articles/2ac830f6.json)
 
 [Extended Data](ext_articles/2ac830f6.ext.json)
+
+---
+
+### ’ஏப்ரல் 15 இல் எண்ணெய் தேய்த்தல் விழா’
+
+*2024-04-05 00:42:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-15-இல்-எண்ணெய்-தேய்த்தல்-விழா/175-335637) · `ta`
+
+தமிழ், சிங்களப் புத்தாண்டுக் கொண்டாட்டங்களின் சுப நிகழ்வுகளில் ஒன்றான தலைக்கு எண்ணெய் தேய்த்தல் தேசிய விழா ஏப்ரல் 15 ஆம் திகதி காலை 10.17 க்கு நடைபெறவுள்ளதாக சுதேச வைத்திய இராஜாங்க அமைச்சர் சிசிர ஜயகொடி தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே சுதேச வைத்திய இராஜாங்க அமைச்சர் சிசிர ஜயகொடி இதனைத் தெரிவித்தார்.
+
+அத்துடன், தமிழ், சிங்களப் புத்தாண்டுக் கொண்டாட்டங்களின் இறுதி சுபச் சடங்குகளான மரங்களை நடும் நிகழ்வு ஏப்ரல் 18ஆம் திகதியன்று சுதேச மருத்துவ அமைச்சினால் ‘முருங்கை தினம்’ என பெயரிடப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+
+புத்தாண்டு கொண்டாட்டங்களின் தனித்துவமான சுப சடங்குகளான எண்ணெய் தேய்த்தல் தேசிய விழாவை ஏப்ரல் 15 ஆம் திகதி காலை 10.17 க்கு வத்தளை ஹெந்தல புராண ரஜமஹா விகாரையில் நடத்த சுதேச வைத்திய அமைச்சு மற்றும் ஆயுர்வேத திணைக்களம் ஏற்பாடு செய்துள்ளது.
+
+...
+
+[Data](articles/cca1353a.json)
 
 ---
 
@@ -2243,49 +2287,5 @@ The government needs to be found today. Today we are able to improve economic gr
 [Data](articles/d65ccd4a.json)
 
 [Extended Data](ext_articles/d65ccd4a.ext.json)
-
----
-
-### IOC in talks with state nuclear firm for small reactors – report
-
-*2024-04-04 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98429/ioc-in-talks-with-state-nuclear-firm-for-small-reactors-report-) · `en`
-
-State-run Indian Oil Corp. Ltd. is in preliminary talks with India’s atomic power monopoly to build small nuclear units, an early-stage technology seen as a cost-effective alternative to larger plants.
-
-The refiner and fuel retailer is exploring a partnership with state-controlled Nuclear Power Corp. of India Ltd. to use small modular reactors, or SMRs, in its refineries for clean power, Alok Sharma, Indian Oil’s director for research and development, said at a conference in New Delhi Wednesday.
-
-As several bigger projects face delays, policymakers are promoting small-scale nuclear technology with a capacity of up to 300 megawatts, which is quicker to build and easier to adjust to the requirements of the grid. To boost the nascent sector, the Indian government is considering allowing private firms to manage and operate reactors.
-
-...
-
-[Data](articles/2fabf9aa.json)
-
-[Extended Data](ext_articles/2fabf9aa.ext.json)
-
----
-
-### Three die daily due to oral cancer
-
-*2024-04-04 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195298) · `si`
-
-Dr. Nilantha Ratnayake highlighted at a health awareness workshop that three people die daily from oral cancer, with 63% of 5-year-olds experiencing decay. School health surveys show most young children are not brushing their teeth before bed.
-
-🟩
-
-Specialist Dr. Nilantha Ratnayake says that three people die daily due to oral health ark, Maharagama, Maharagama, Maharagama says that three people die daily due to oral cancer.
-
-He said about six oral cancer patients daily.
-
-Specialist Dr. Nilantha Ratnayake made this statement participating at a health awareness workshop.
-
-He pointed out that 63 percent of the age of 5 years of age have been decayed.
-
-School health surveys have revealed that school health surveys have revealed that the majority of young children would not be disgraced before bedtime.
-
-◼️
-
-[Data](articles/ff022e61.json)
-
-[Extended Data](ext_articles/ff022e61.ext.json)
 
 ---

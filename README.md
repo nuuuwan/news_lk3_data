@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 07:32:39**
+As of **2024-04-05 07:53:10**
 
 ## Newspaper Stats
 
-*Scraped **17,255** Articles*
+*Scraped **17,258** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 152
+colombotelegraphcom | 153
 bbccomsinhala | 179
 dbsjeyarajcom | 208
 newsfirstlk | 363
 dailyftlk | 944
 islandlk | 950
 economynextcom | 957
-adalk | 1,456
-tamilmirrorlk | 2,040
+adalk | 1,457
+tamilmirrorlk | 2,041
 adaderanalk | 2,066
 virakesarilk | 2,511
 dailymirrorlk | 2,644
@@ -26,49 +26,61 @@ adaderanasinhalalk | 2,785
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,252 (100.0%) of 17,255 articles have been extended.
+17,255 (100.0%) of 17,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### මහා පරිමාණ මත්ද්‍රව්‍ය ජාලයක තොරතුරු එළියට
+### Outfit from a large-scale drug network
 
 *2024-04-05 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195318) · `si`
 
-යුක්තිය මෙහෙයුම යටතේ අත්අඩංගුවට ගත් සැකකරුවෙකු රඳවාගෙන ප්‍රශ්න කිරීමේදී මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරමක තොරතුරු හෙළිකර ගැනීමට පොලීසියට හැකිවී තිබේ.
+Police arrested suspects in a large-scale drug network, revealing their operations, including drug distribution and use of rented houses.
 
-ඒ ඔස්සේ සැකකරුවන් රැසක් අත්අඩංගුවට ගැනීමට හැකිවූ බව පොලීසිය පවසයි.
+🟩
 
-කුලී නිවාස තුළ රැඳී සිටිමින් රට පුරා සූක්ෂම ලෙස මත්ද්‍රව්‍ය බෙදාහැරීමට මෙම සැකකරුවන් කටයුතු කර ඇත.
+Police have been able to hold the information in a large scale drug racket while being arrested under justice operation.
+
+Police said that many suspects were arrested, police said.
+
+The suspects have taken steps to stay in rented houses and distributing drugs throughout the country.
 
 ◼️
 
 [Data](articles/851430a9.json)
 
+[Extended Data](ext_articles/851430a9.ext.json)
+
 ---
 
-### අදත් ගිගුරුම් සහිත වැසි
+### Thundershowers
 
 *2024-04-05 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195316) · `si`
 
-අද (05) සවස 2න් පමණ පසු බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+Thundershowers expected in Western, Sabaragamuwa, North Western, Mannar, Nuwara Eliya, and Galle districts today. Public advised to prepare for strong winds and lightning.
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සිය නවතම නිවේදනය නිකුත් කරමින් ඒ බව සඳහන් කරයි.
+🟩
 
-වයඹ පළාතේත් මන්නාරම සහ නුවරඑළිය දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Showers or thundershowers will occur at several places in the Western and Sabaragamuwa provinces and in the Galle and Matara districts today (05).
 
-බස්නාහිර, මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+The Department of Meteorology issues its latest announcement.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+Showers or thundershowers will occur at several places in the North Western and Mannar and Nuwara Eliya districts.
 
-දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනවලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්ෂාංශවලට සෘජුවම ඉහළින් පවතී.
+In some places in the Western, Central and Sabaragamuwa provinces, some locations are expected in the morning in some places in the Galle and Matara districts.
 
-අද දින (05) දහවල් 12:12 ට බලපිටිය, ඇල්පිටිය, මොරවක සහ තිස්සමහාරාමය යන ප්‍රදේශවලට හිරු මුදුන් වනු ඇත.
+The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
+
+When the sun is traveling to the North, the sun is directly above Sri Lanka in April 5 to 15.
+
+The sun will be over 12:12 pm today at 12:00 pm today.
 
 ◼️
 
 [Data](articles/e0e96b93.json)
+
+[Extended Data](ext_articles/e0e96b93.ext.json)
 
 ---
 
@@ -89,6 +101,8 @@ Meanwhile, on the apparent northward relative motion of the sun, it is going to 
 ◼️
 
 [Data](articles/a89af2f9.json)
+
+[Extended Data](ext_articles/a89af2f9.ext.json)
 
 ---
 
@@ -580,6 +594,20 @@ The Sri Lanka Transport Department has increased to 70.9 billion in 2022 and in 
 
 ---
 
+### Katchatheevu Crisis – Seal The Deal Mr. Modi
+
+*2024-04-05 01:56:02* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/katchatheevu-crisis-seal-the-deal-mr-modi/) · `en`
+
+I hold Narendra Modi in high regard due to his remarkable leadership skills and rapid political growth. He has not continued the Ayodhya temple issue, prevented its ramifications from significantly affecting India’s political landscape. Moreover, his diplomatic efforts to elevate India’s global standing are commendable.
+
+I have closely observed Modi’s evolving ideologies, particularly in his approach towards fostering strong business growth in India. While acknowledging India’s shift towards an open and liberal economy under Modi’s leadership, it’s notable that he seldom acknowledges the pivotal role played by Manmohan Singh, a Congress member, in spearheading this transformation.
+
+...
+
+[Data](articles/0cb1baca.json)
+
+---
+
 ### Special Transport Services on New Year - Ministry of Transport
 
 *2024-04-05 01:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180467) · `ta`
@@ -633,6 +661,24 @@ The Secretary of the Urban Council visited the scene on the 23rd of last month a
 [Data](articles/2ac830f6.json)
 
 [Extended Data](ext_articles/2ac830f6.ext.json)
+
+---
+
+### ’வீதியில் இறங்கி அரசியல் செய்ய சந்தர்ப்பம்’
+
+*2024-04-05 00:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீதியில்-இறங்கி-அரசியல்-செய்ய-சந்தர்ப்பம்/175-335636) · `ta`
+
+கடந்த இரண்டு வருடங்களில் அரசாங்கம் நாட்டில் முன்னெடுத்த சரியான தீர்மானங்களினால் நாட்டின் பொருளாதாரம் வலுப்பெற்றுள்ளதுடன் இன்று எவரும் வீதியில் இறங்கி அரசியல் செய்யும் சந்தர்ப்பம் கிடைத்துள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+ஆனால், நாட்டின் பொருளாதாரம் இன்னும் தொங்குபாலத்தில் இருப்பதாக சுட்டிக்காட்டிய ஜனாதிபதி, அரசாங்கத்தின் வேலைத்திட்டத்தை வெற்றிபெறும் வரை தொடர்ந்து செல்வதா அல்லது அந்த வேலைத்திட்டத்தை விட்டுவிட்டு நாட்டை மீண்டும் அதலபாதாளத்தில் தள்ளிவிடுவதா என்பதை மக்கள் தீர்மானிக்க வேண்டும் எனவும் தெரிவித்தார்.
+
+2022 ஆம் ஆண்டை விட 2023 ஆம் ஆண்டு அரசாங்கத்தின் வருமானம் 50 வீதத்துக்கும் அதிகமாக உயர்ந்துள்ளதை நினைவு கூர்ந்த ஜனாதிபதி, வலுவான பொருளாதாரத்துடன் நம்பிக்கையுடன் முன்னோக்கிச் செல்வதற்கான பின்னணி நாட்டில் உருவாக்கப்பட்டுள்ளதாகவும் சுட்டிக்காட்டினார்.
+
+சர்வதேச இரத்தினக்கல் , ஆபரண வர்த்தக நிலையத்தை (இரத்னபுரி இரத்தினக்கல் கோபுரம்) நேற்று திறந்து வைக்கும் நிகழ்வில் கலந்து கொண்டு உரையாற்றிய போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார். (a)
+
+◼️
+
+[Data](articles/98e799bd.json)
 
 ---
 
@@ -1119,6 +1165,28 @@ Moreover, our strides in the digital payment arena have been further acknowledge
 [Data](articles/4639e04e.json)
 
 [Extended Data](ext_articles/4639e04e.ext.json)
+
+---
+
+### රට විරුවන්ට දුන් විද්‍යුත් වාහන බලපත්‍ර තාවකාලිකව නවත්වයි
+
+*2024-04-04 20:22:19* · [`adalk`](https://www.ada.lk/breaking_news/රට-විරුවන්ට-දුන්-විද්‍යුත්-වාහන-බලපත්‍ර-තාවකාලිකව-නවත්වයි/11-408962) · `si`
+
+ආනයනික අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය වෙළෙඳපොළ මිල මත පදනම්ව අළෙවි කිරීමෙන්  එක් කිලෝවක් සඳහා වෙළෙන්දන් ලැබූ ලාභය රු. 100-1000 අතර බව ක්‍රම සහ විධි කාරක සභාවේදී අනාවරණය වෙයි.
+
+විගණකාධිපතිවරයා විසින් පවත්වනු  ලබන වෝහාරික විගණනය අවසන්  වන තෙක් විදේශයන්හි සේවයේ නියතු ශ්‍රී ලාංකිකයන් සඳහා විද්‍යුත් වාහන ආනයනය කිරීම සඳහා බලපත්‍ර ලබා දීම දීර්ඝ කිරීමේ ගැසට් පත්‍රය අත්හිටුවන ලෙස උපදෙස්
+
+එකතු කළ හැකි හිඟ බදු රු. බිලියන 188 අය කර ගැනීම සඳහා දේශීය ආදායම් පනත අනුව ඉක්මන් ක්‍රියාමාර්ග ගැනීමට උපදෙස්
+
+වයස අවුරුදු 18 ට වැඩි පුද්ගලයන් සඳහා බදු ලිපිගොනු විවෘත කිරීම වෙනුවට මාසයකට රු. 100000කට වඩා ආදායමක් උපයන පුද්ගලයන් පිළිබඳ දත්ත ඩිජිටල් වේදිකාවකට ගැනීම උපදෙස්
+
+ආනයනික අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය වෙළෙඳපොළ මිල මත පදනම්ව අළෙවි කිරීමෙන් වෙළෙන්දන්  එක් කිලෝවක් සඳහා ලැබූ ලාබය රු. 100-1000 අතර බව ක්‍රම සහ විධි කාරක සභාවේදී අනාවරණය විය.
+
+මේ පිළිබඳ අනාවරණය වූයේ ක්‍රම හා විධි පිළිබඳ කාරක සභාව පාර්ලිමේන්තු මන්ත්‍රී ගරු පාඨලී චම්පික රණවක මහතාගේ ප්‍රධානත්වයෙන් පසුගියදා (02) පාර්ලිමේන්තුවේදි රැස් වූ අවස්ථාවේදීය.
+
+...
+
+[Data](articles/9c64b3c4.json)
 
 ---
 
@@ -2203,69 +2271,5 @@ From learning of the incident, I have seen suicide from two days, but suddenly I
 [Data](articles/52c7d07e.json)
 
 [Extended Data](ext_articles/52c7d07e.ext.json)
-
----
-
-### Sacred lord Buddha relics from Sri Lanka presented to Dalai Lama
-
-*2024-04-04 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98427/sacred-lord-buddha-relics-from-sri-lanka-presented-to-dalai-lama) · `en`
-
-Lord Buddha’s sacred Kapilavastu relics, situated at a holy temple in Sri Lanka, have been offered to the Dalai Lama on Thursday morning, the office of Dalai Lama said in a statement.
-
-The sacred relics are located at Rajaguru Sri Subhuthi Maha Viharaya inWaskaduwa, a Buddhist temple in Sri Lanka.
-
-Notably, the Kapilavastu relics hold immense historical and spiritual significance, connecting the devotees to the profound legacy of Lord Buddha.
-
-The Sri Subhuthi Maha Viharaya in Waskaduwa houses 21 relics of the Lord Buddha.
-
-Waskaduwe Mahindawansa Maha Nayaka Thero is the custodian of these precious Kapilavastu relics, which have been preserved and protected for generations till now at Sri Subhuthi Maha Viharaya in Waskaduwa, Sri Lanka.
-
-...
-
-[Data](articles/98301144.json)
-
-[Extended Data](ext_articles/98301144.ext.json)
-
----
-
-### Sun directly over Sri Lanka for 10 days
-
-*2024-04-04 15:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sun-directly-over-Sri-Lanka-for-10-days/108-280189) · `en`
-
-Colombo, April 4 (Daily Mirror) - The sun is expected to be directly over Sri Lanka from April 5 to April 15, as a result of its apparent northward relative motion, the Forecasting Division of the National Meteorological Centre said.
-
-Accordingly, the nearest areas in Sri Lanka where the sun will be directly above are Balapitiya, Elpitiya, Morawaka and Tissamaharama at around 12:12 noon, the Department said.
-
-Meanwhile, showers would occur at several places in the Western and Sabaragamuwa Provinces and in the Galle and Matara districts after 2 p.m. Showers  may occur at a few places in the North-Western Province and in the Nuwara-Eliya district during the afternoon or night.
-
-Misty conditions can be expected at some places in the Western, Central and Sabaragamuwa Provinces and in the Galle and Matara districts during the morning.
-
-◼️
-
-[Data](articles/347d4567.json)
-
-[Extended Data](ext_articles/347d4567.ext.json)
-
----
-
-### Notice to the Election Commission from Parliament
-
-*2024-04-04 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195297) · `si`
-
-Parliament notifies Election Commission of a vacancy in the Anuradhapura Electorate, following Mr. Nandasena's death, effective January 4, 2024. Notification made under Section 64 (1) of Parliamentary Act No. 1 of 1981.
-
-🟩
-
-Parliament has informed the Elections Commission that there is a vacancy of a parliamentary post.
-
-Member of Parliament (EPal) in the Anuradhapura Electorate. Due to the death of Mr. Nandasena, a vacancy of the post of Vacancy of Parliament from January 4, 2024 has been sent to the Chairman of the Elections Commission.
-
-The letter is informed by the Acting Secretary General that this notification is made in terms of Section 64 (1) of the Parliamentary Act No. 1 of 1981.
-
-◼️
-
-[Data](articles/fb8429ae.json)
-
-[Extended Data](ext_articles/fb8429ae.ext.json)
 
 ---

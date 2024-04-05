@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 18:21:06**
+As of **2024-04-05 18:33:45**
 
 ## Newspaper Stats
 
-*Scraped **17,367** Articles*
+*Scraped **17,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 944
 islandlk | 950
 economynextcom | 962
-adalk | 1,464
+adalk | 1,465
 tamilmirrorlk | 2,048
 adaderanalk | 2,088
 virakesarilk | 2,534
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,811
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,367 (100.0%) of 17,367 articles have been extended.
+17,367 (100.0%) of 17,368 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -465,6 +465,24 @@ The decision was taken at the meeting of the Parliamentary Business Committee ch
 [Data](articles/685d8c52.json)
 
 [Extended Data](ext_articles/685d8c52.ext.json)
+
+---
+
+### පාසල් භුමියේ තිබූ බොක්කුවක් ඇග මතට පෙරලිමෙන් පාසල් සිසුවෙකු මරුට
+
+*2024-04-05 16:18:34* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-භුමියේ-තිබූ-බොක්කුවක්-ඇග-මතට-පෙරලිමෙන්-පාසල්-සිසුවෙකු-මරුට/11-408971) · `si`
+
+තේ වත්තක සංවර්ධන කටයුත්තක් සදහා රැගෙන විත් පාසල් භුමියේ ගොඩගසා තිබු කොන්ක්‍රිට් බොක්කුවක් ඇග මතට පෙරලිමෙන් බරපතල ලෙස තුවාල ලැබු පාසල් සිසුවෙකු  මස්කෙලිය ප්‍රාදේශිය රෝහල වෙත ඇතුලත් කිරිමෙන් පසු (04) දින ජිවිතක්ෂයට පත් වි ඇති බව මස්කෙලිය පොලිසිය පවසයි.
+
+මෙසේ ජිවිතක්ෂයට පත් වි ඇත්තේ මස්කෙලිය ගාඩ්මොර් වතුයායේ පදිංචිව සිටි ගාඩ්මොර් දමිල මහා විද්‍යාලයේ 6 වන වසරේ අධ්‍යාපනය ලබමින් සිටි එස්.අනිෂන් නැමති (11) හැවිරිදි පාසල් සිසුවෙකි.
+
+ජිවිතක්ෂයට පත් පාසල් සිසුවා ඔහුගේ මිතුරන් දෙදෙනෙකු සමග (04) දින පස්වරු 1.30 ට පමණ වැසිකිලිය වෙත යාම සදහා පැමිණි අවස්තාවේ පාසල් භුමියේ ගොඩගසා තිබු කොන්ක්‍රිට් බොක්කුවක් පෙරලි පාසල් සිසුවාගේ ඇග මතින් පෙරලිමෙන් පාසල් සිසුවා වැසිකිලියේ බිත්තියට සිරවිමෙන් බරපතල ලෙස තුවාල ලබා ඇත.
+
+පසුව පාසලේ ගුරුවරුන් සහ අසල්වාසින් එක්ව තුවාල ලබා සිටි පාසල් සිසුවා සුවසැරිය ගිලන් රථය මගින් මස්කෙලිය ප්‍රාදේශිය රෝහල වෙත ඇතුලත් කිරිමෙන් පසු සිසුවා ජිවිතක්ෂයට පත් වි ඇත.
+
+...
+
+[Data](articles/999e7437.json)
 
 ---
 
@@ -2317,35 +2335,5 @@ The suspects have taken steps to stay in rented houses and distributing drugs th
 [Data](articles/851430a9.json)
 
 [Extended Data](ext_articles/851430a9.ext.json)
-
----
-
-### Thundershowers
-
-*2024-04-05 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195316) · `si`
-
-Thundershowers expected in Western, Sabaragamuwa, North Western, Mannar, Nuwara Eliya, and Galle districts today. Public advised to prepare for strong winds and lightning.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Western and Sabaragamuwa provinces and in the Galle and Matara districts today (05).
-
-The Department of Meteorology issues its latest announcement.
-
-Showers or thundershowers will occur at several places in the North Western and Mannar and Nuwara Eliya districts.
-
-In some places in the Western, Central and Sabaragamuwa provinces, some locations are expected in the morning in some places in the Galle and Matara districts.
-
-The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
-
-When the sun is traveling to the North, the sun is directly above Sri Lanka in April 5 to 15.
-
-The sun will be over 12:12 pm today at 12:00 pm today.
-
-◼️
-
-[Data](articles/e0e96b93.json)
-
-[Extended Data](ext_articles/e0e96b93.ext.json)
 
 ---

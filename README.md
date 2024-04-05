@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 13:53:06**
+As of **2024-04-05 14:07:08**
 
 ## Newspaper Stats
 
-*Scraped **17,320** Articles*
+*Scraped **17,322** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ islandlk | 950
 economynextcom | 962
 adalk | 1,461
 tamilmirrorlk | 2,047
-adaderanalk | 2,078
+adaderanalk | 2,079
 virakesarilk | 2,523
 dailymirrorlk | 2,654
-adaderanasinhalalk | 2,797
+adaderanasinhalalk | 2,798
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,319 (100.0%) of 17,320 articles have been extended.
+17,320 (100.0%) of 17,322 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### වාහන ගෙන්වන්නේ සංචාරක කර්මාන්තය සඳහාම පමණයි
+
+*2024-04-05 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195332) · `si`
+
+ආනයනය කිරීම සඳහා අවසර ලබාදී ඇත්තේ සංචාරක ක්ෂේත්‍රය සඳහා භාවිත කරන රථවාහන පමණක් බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+මාධ්‍යයට අදහස් දක්වමින් රාජ්‍ය අමාත්‍යවරයා පැවසුවේ ලබාදී ඇති නිර්නායකයන්ට අනුව මෙම ක්‍රියාවලිය සිදුවන බවය.
+
+"රටේ තිබෙන විනිමය ප්‍රශ්නයත් එක්ක අපි වාහන ගේන ඒක නතර කළා. නමුත් සංචාරක කර්මාන්තයේදී අවුරුදු 6කට වඩා පැරණි වාහන පාවිච්චි කරන්නේ නැහැ. දැන් අපේ තියෙන වාහන ටික පැරණි වේගෙන එනවා. තියෙන වාහන ප්‍රමාණය මදිවෙලා තියෙනවා. ඒ නිසයි කැබිනට් මණ්ඩලය තීරණයක් ගත්තේ සංචාරක කර්මාන්තය සඳහාම අරමුණු කරගෙන බස් 250ක් සහ වෑන් 750ක් ගේන්න. වාහන 1000ක් පමණමයි ගෙන්නේ."
+
+◼️
+
+[Data](articles/876ebc05.json)
+
+---
+
+### South Korea promises to open new job opportunities for Sri Lankans
+
+*2024-04-05 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98446/south-korea-promises-to-open-new-job-opportunities-for-sri-lankans) · `en`
+
+A meeting between Korean Prime Minister Han Duck Soo and his Sri Lankan counterpart Dinesh Gunawardena was held on Thursday (04) in Seoul.
+
+During the discussion, the Korean Prime Minister asserted that many new job opportunities would be opened for Sri Lankans.
+
+In addition to the labour force that provides jobs for agriculture, construction and other industries in his country, PM Han also mentioned the possibility of providing new jobs for health services and professional services.
+
+He said that South Korea, as a member of the Paris Club, will always stand therein for Sri Lanka, which is recovering from the recent financial crisis, to successfully carry out its future activities.
+
+...
+
+[Data](articles/57d126b2.json)
+
+---
 
 ### Pain in the North of Pain
 
@@ -56,17 +90,23 @@ The measurement was to be carried out with the aim of carrying out about 29 acre
 
 ---
 
-### யாழ் இந்திய துணைத் தூதுவருடன் சிறிதரன்  சந்திப்பு
+### Sridharan meets with Jaffna Indian Ambassador
 
 *2024-04-05 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/180505) · `ta`
 
-இலங்கைக்கான யாழ். இந்தியத் துணைத் தூதரகத்தின் புதிய தூதுவராகப் பொறுப்பேற்றுள்ள ஸ்ரீ சாய்முரளியை  பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் அண்மையில், மரியாதை நிமித்தம் சந்தித்துக் கலந்துரையாடியுள்ளார்.
+Sridharan, a Sri Lankan parliamentarian, met with the Indian Consulate's new ambassador, Sri Sai Murali, in Jaffna. They discussed the political welfare of Eelam Tamils and current crises.
 
-யாழ்ப்பாணத்திலுள்ள இந்தியத் துணைத்தூதரகத்தில் நடைபெற்ற இந்தச் சந்திப்பின் போது, ஈழத்தமிழர்களது அரசியல் நலன்சார் விடயங்கள் மற்றும் சமகால நெருக்கடிகள் உள்ளிட்ட பலநிலைப்பட்ட விடயங்கள் பேசப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+Jaffna to Sri Lanka. Parliamentarian Sivagnanam Sreedharan has recently met with Sri Sai Murali, the new ambassador of the Indian Consulate.
+
+During the meeting held at the Indian Consulate in Jaffna, it was noteworthy that the political welfare of the Eelam Tamils and the contemporary crises was addressed.
 
 ◼️
 
 [Data](articles/ea53bc99.json)
+
+[Extended Data](ext_articles/ea53bc99.ext.json)
 
 ---
 
@@ -2249,49 +2289,5 @@ The lawyer added that the court has decided to release the suspects due to the d
 [Data](articles/3d9ab01d.json)
 
 [Extended Data](ext_articles/3d9ab01d.ext.json)
-
----
-
-### 13 Affairs: The President declared a stunning
-
-*2024-04-04 21:47:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-விவகாரம்-அதிரடியாக-அறிவித்தார்-ஜனாதிபதி/175-335631) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of implementing the 13th Amendment nationwide, beyond discussions with Tamil MPs.
-
-🟩
-
-President Ranil Wickremesinghe said at the Convention at the Conference Conference that it was not enough to discuss with the MPs of the Tamil parties on the 13th Amendment and that this is a matter of implementation across the country.
-
-◼️
-
-[Data](articles/e4cb9f55.json)
-
-[Extended Data](ext_articles/e4cb9f55.ext.json)
-
----
-
-### Another case on Keheliya
-
-*2024-04-04 21:38:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-மீது-மற்றுமொரு-வழக்கு/175-335630) · `ta`
-
-Keheliya Rambukwella, former minister, accused of misusing 10 lakh rupees for political activities. The Colombo High Court is hearing the case filed by the Bribery Commission against Rambukwella, Wimal Rupasinghe, and Chandrapala Liyanage.
-
-🟩
-
-During the 2015 presidential election, a case has been filed against former minister Keheliya Rambukwella, including the use of about 10 lakh rupees belonging to the Sri Lanka Rupavahini Corporation for political activities.
-
-The Colombo High Court has decided to hear the case filed by the Bribery Commission against three defendants, including Keheliya Rambukwella.
-
-Accordingly, the Bribery Commission has filed the case against the then Media Minister Keheliya Rambukwella, former Chairman of the Sri Lanka Rupavahini Corporation Wimal Rupasinghe and former Director General Chandrapala Liyanage.
-
-The case was taken up for hearing before Colombo High Court Judge Nawaratne Marasinghe today.
-
-Keheliya Rambukwella, who is currently being interrogated for trial, was also produced in court. Remble
-
-◼️
-
-[Data](articles/157fb634.json)
-
-[Extended Data](ext_articles/157fb634.ext.json)
 
 ---

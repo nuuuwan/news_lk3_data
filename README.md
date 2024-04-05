@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 17:34:36**
+As of **2024-04-05 17:53:56**
 
 ## Newspaper Stats
 
-*Scraped **17,365** Articles*
+*Scraped **17,367** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 153
 bbccomsinhala | 181
-dbsjeyarajcom | 209
+dbsjeyarajcom | 210
 newsfirstlk | 363
 dailyftlk | 944
 islandlk | 950
@@ -20,17 +20,39 @@ tamilmirrorlk | 2,048
 adaderanalk | 2,088
 virakesarilk | 2,534
 dailymirrorlk | 2,659
-adaderanasinhalalk | 2,810
+adaderanasinhalalk | 2,811
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,362 (100.0%) of 17,365 articles have been extended.
+17,365 (100.0%) of 17,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### විදෙස් සහ රන් සංචිතය ගැන මහ බැංකුවේ නිවේදනයක්
+
+*2024-04-05 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195345) · `si`
+
+මෙරට නිල සංචිත වත්කම් ප්‍රමාණය 2024 මාර්තු මාසය තුළ දී 9.5% කින් ඉහළ ගොස් ඇති බව ශ්‍රී ලංකා මහ බැංකුව නිවේදනය කරයි.
+
+ඒ අනුව 2024 පෙබරවාරි මාසය අවසානයේ දී අමෙරිකානු ඩොලර් බිලියන 4.52 ක්ව පැවති මෙරට නිල සංචිත වත්කම් ප්‍රමාණය 2024 මාර්තු මාසය අවසානය වන විට ඩොලර් බිලියන 4.95 ක් දක්වා ඉහළ ගොස් ඇත.
+
+මෙම නිල සංචිත වත්කම් තුළ අන්තර්ගත ප්‍රධාන සංරචකය වන විදේශ විනිමය සංචිතය 9.6% කින් මාර්තු මාසය තුළ දී ඉහළ ගොස් තිබේ.
+
+එහිදී 2024 පෙබරවාරි මාසය අවසානයේ දී මහ බැංකුව සතුව පැවති ඩොලර් බිලියන 4.48 ක්වූ විදේශ විනිමය සංචිතය 2024 මාර්තු මාසය අවසන් වන විට ඩොලර් බිලියන 4.91 ක් දක්වා වැඩි වී ඇත.
+
+මේ අතර 2024 මාර්තු මාසය තුළ දී මහ බැංකුව සතු රන් සංචිතය ද ඩොලර් මිලියන 31 සිට ඩොලර් මිලියන 34 ක් දක්වා 9.1% කින් ඉහළ ගොස් තිබේ.
+
+මෙම සංචිත වත්කම් තුළ එක්සත් ජනපද ඩොලර් බිලියන 1.4කට පමණ සමාන වූ චීන මහජන බැංකුවෙන් ලද විදේශ විනිමය හුවමාරු පහසුකමෙහි ලැබීම් අන්තර්ගත වන අතර, එය භාවිතා කිරීමේ දී කොන්දේසිවලට යටත් වන බව ශ්‍රී ලංකා මහ බැංකුව වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/f2cda9f7.json)
+
+---
 
 ### Israel admits ‘grave mistake’ and sacks senior officers after Gaza bombing kills aid workers
 
@@ -48,23 +70,37 @@ More than 220 humanitarian workers have been killed in the conflict so far, acco
 
 [Data](articles/7e3e659d.json)
 
+[Extended Data](ext_articles/7e3e659d.ext.json)
+
 ---
 
-### தலாய்லாமா இலங்கைக்கு விஜயம் மேற்கொள்வதை சீனாதடுக்கின்றது - இந்திய ஊடகத்திற்கு இலங்கை மதகுரு கருத்து
+### China gives visit to Sri Lanka - Sri Lankan cleric
 
 *2024-04-05 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180541) · `ta`
 
-திபெத்தின் ஆன்மீக தலைவர்தலாய்லாமா  இலங்கைக்கு விஜயம் மேற்கொள்வதை சீனா தடுக்கின்றது என இலங்கையை சேர்ந்த பௌத்த மதகுரு ஒருவர் குற்றம்சாட்டியுள்ளார்
+Dr. Waskaduwe Mahinda Thera, a Sri Lankan Buddhist cleric, accused China of preventing his visit to Sri Lanka, despite calls from Sri Lankan Buddhist leaders for the Dalai Lama's visit. Thera expressed respect for the Dalai Lama and criticized China's interference, emphasizing the freedom of Buddhist leaders to invite the Dalai Lama.
 
-தலாய் லாமாவிற்கு புத்தரின் புனிதநினைவுச்சின்னத்தை வழங்கிய  இலங்கை பௌத்தபிக்குகள் குழுவில் இடம்பெற்றிருந்த கலாநிதி வஸ்கடுவே மகிந்தவன்ச தேரர் இதனை தெரிவித்துள்ளார்.
+🟩
 
-தலாய்லாமா குறித்து சீனா என்ன நிலைப்பாட்டை கொண்டுள்ளது என்பது உங்களிற்கு தெரியும் நீங்கள் நினைவுச்சின்னத்தை வழங்கியமை குறித்து சீனா சீற்றமடைந்திருக்கும் என்ற கேள்விக்கு பதிலளித்துள்ள அவர் சில வருடங்களிற்கு முன்னர் இலங்கையை சேர்ந்த பௌத்தமத தலைவர்கள் தலாய்லாமா இலங்கைக்கு விஜயம் மேற்கொள்ளவேண்டும் என அழைப்பு விடுத்திருந்தனர் என தெரிவித்துள்ளார்.
+A Sri Lankan Buddhist cleric has accused China of preventing visit to Sri Lanka
 
-ஆனால் பிரச்சினை சீனாவிடமிருந்து வருகின்றது ஏன் என தெரியவில்லை எனவும் அவர் தெரிவித்துள்ளார்.
+This was stated by Dr. Waskaduwe Mahinda Thera, a group of Sri Lanka Buddhist Buddhists who gave the Buddha's sacred significance to the Dalai Lama.
+
+Responding to a question that China would have been furious about what China was on the Dalai Lama, he said that Buddhist leaders from Sri Lanka had called for a visit to Sri Lanka a few years ago.
+
+But he does not know why the problem is coming from China.
+
+As a Buddhist leader, we respect the Dalai Lama. He said that he was not a trader, Dr. Waskaduwe Mahindawansa Thera, who respected him and invited him to visit Sri Lanka. China did not want it to our government.
+
+We do not like this. He has a Buddhist leader. He has the freedom to invite him to Sri Lanka, ”Buddhism said.
+
+If the Dalai Lama visits Sri Lanka in the future, we will be great. Sri Lankans went to the Himalayas.
 
 ...
 
 [Data](articles/a453cf91.json)
+
+[Extended Data](ext_articles/a453cf91.ext.json)
 
 ---
 
@@ -107,6 +143,8 @@ This includes proceeds from People’s Bank of China (POBC) SWAP equivalent to U
 ◼️
 
 [Data](articles/324ea0bc.json)
+
+[Extended Data](ext_articles/324ea0bc.ext.json)
 
 ---
 
@@ -2303,27 +2341,5 @@ The sun will be over 12:12 pm today at 12:00 pm today.
 [Data](articles/e0e96b93.json)
 
 [Extended Data](ext_articles/e0e96b93.ext.json)
-
----
-
-### Met. Dept. says thundershowers expected in parts of the island today
-
-*2024-04-05 06:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98436/met-dept-says-thundershowers-expected-in-parts-of-the-island-today) · `en`
-
-The Meteorology Department says showers or thundershowers can be expected in parts of the Western and Sabaragamuwa provinces and Galle and Matara districts after 2.00 p.m. today (05).
-
-Showers or thundershowers may also take place in parts of the North-western Province and Mannar and Nuwara-Eliya districts in the evening or at night.
-
-Misty conditions can be expected at some places in Western, Central and Sabaragamuwa provinces and Galle and Matara districts during the morning.
-
-The general public is urged to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-Meanwhile, on the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka from 05 to 15 April this year. The nearest areas of Sri Lanka over which the sun will be overhead today (05) are Balapitiya, Elpitiya, Morawaka and Tissamaharama at about 12.12 p.m.
-
-◼️
-
-[Data](articles/a89af2f9.json)
-
-[Extended Data](ext_articles/a89af2f9.ext.json)
 
 ---

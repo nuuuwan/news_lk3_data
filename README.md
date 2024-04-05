@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 08:33:50**
+As of **2024-04-05 08:52:21**
 
 ## Newspaper Stats
 
-*Scraped **17,262** Articles*
+*Scraped **17,266** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,46 +15,86 @@ newsfirstlk | 363
 dailyftlk | 944
 islandlk | 950
 economynextcom | 957
-adalk | 1,457
+adalk | 1,458
 tamilmirrorlk | 2,042
-adaderanalk | 2,066
+adaderanalk | 2,067
 virakesarilk | 2,511
-dailymirrorlk | 2,645
+dailymirrorlk | 2,647
 adaderanasinhalalk | 2,787
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,260 (100.0%) of 17,262 articles have been extended.
+17,262 (100.0%) of 17,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### රිය අනතුරකින් 08 හැවිරිදි දරුවෙක් මරුට
+### 500 maids in Singapore duped in 2023 are from India, Sri Lanka
+
+*2024-04-05 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98437/500-maids-in-singapore-duped-in-2023-are-from-india-sri-lanka) · `en`
+
+The number of scams in Singapore hit a record high in 2023, Home Minister K Shanmugam said, adding that the country saw a rise of 18 per cent in duping cases against migrants, many of whom are from India and Sri Lanka.
+
+A total of 46,563 cases of scams were reported in Singapore, with people losing SGD 651.8 million to scams in 2023, the police earlier told The Straits Times, saying this is the highest number of scam cases since they began tracking them in 2016.
+
+Falling prey to the scams are about 500 foreign maids from South Asian countries, mostly from India, Sri Lanka, and Myanmar, migrate to the country in search of better employment opportunities, higher wages and a stable political and economic environment.
+
+...
+
+[Data](articles/dc8a8ac3.json)
+
+---
+
+### 8 year old child dies in accident
 
 *2024-04-05 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195320) · `si`
 
-ත්‍රීරෝද රථයක් අනතුරට ලක්වීමෙන් එහි ගමන් ගත් 08 හැවිරිදි දරුවෙකු මියගොස් තිබේ.
+An 8-year-old child died in a three-wheeler crash on Udakampala road, Tangalle. A 13-year-old girl also died after hitting a lorry in Uzwewa.
 
-මාතර තංගල්ල ප්‍රධාන මාර්ගයේ දොඩම්පහල උඩදෙනිය ප්‍රදේශයේදී ඊයේ (04) අලුයම ටිපර් රථයක් සහ ත්‍රීරෝද රථයක් මුහුණට මුහුණ ගැනීමෙන් අනතුර සිදුවී ඇත.
+🟩
 
-අනතුරෙන් ත්‍රීරෝද රථය මාර්ගයේ පෙරළී ගොස් තිබූ අතර එහි රියදුරු, පසුපස අසුනේ ගමන් කළ කාන්තාවක් සහ ඇයගේ පිරිමි දරුවා බරපතළ තුවාල ලබා තංගල්ල රෝහලට ඇතුළත් කෙරුණි.
+A three-year-old child was killed after a three-wheeler was crashed.
 
-මෙලෙස මියගොස් ඇත්තේ 08 හැවිරිදි දංපතිගම බිබිල ප්‍රදේශයේ පදිංචිව සිටි පාසල් සිසුවෙකි.
+A tipper and three-wheeler facing the face of a three-wheeler in Udakampala road on the Tangalle main road in the Tangalle main road.
 
-අනතුරෙන් බරපතළ තුවාල ලද කාන්තාව තංගල්ල රෝහලේ නේවාසිකව ප්‍රතිකාර ලබන අතර ත්‍රීරෝද රථයේ රියදුරා ප්‍රතිකාර ගෙන රෝහලෙන් පිටවගොස් පොලීසියට භාරවී ඇත.
+The three-wheeler was rose in the accident and was admitted to the Tangalle Hospital with a woman and her boy who was traveling seriously in the back seat.
 
-සිද්ධිය සම්බන්ධයෙන් ටිපර් රථයේ රියදුරා අත්අඩංගුවට ගෙන පරීක්ෂණ පවත්වන බව දික්වැල්ල පොලීසිය කියයි.
+The deceased has been identified as a schoolgirl residing in Bibila, Dantagama.
 
-මේ අතර ඊයේ දහවල් ආණමඩුව නවගත්තේගම මාර්ගයේදී ද රිය අනතුරක් සිදුවී තිබුණි.
+The woman who was seriously injured in the accident is being treated at the Tangalle Hospital and the three-wheeler driver has been admitted to the hospital and surrenders to the police.
 
-උස්වැව ප්‍රදේශයේදී පදික මාරුව මතින් ගමන් කරමින් සිටි 13 හැවිරිදි දැරියක් ලොරි රථයක ගැටී ඇති අතර අනතුරෙන් ඇය ජීවිතක්ෂයට පත්වී ඇත.
+Dickwella police say that the driver of the Tipper has been arrested and investigations into the incident.
+
+Meanwhile, Anamaduwa was also in the Naamanaduwa road yesterday.
+
+A 13-year-old girl who was traveling on the pedestrian shift in the Uzwewa area has hit a lorry and she has died in the accident.
 
 ◼️
 
 [Data](articles/08805b21.json)
+
+[Extended Data](ext_articles/08805b21.ext.json)
+
+---
+
+### 100 intelligence officers reassigned for security in Colombo
+
+*2024-04-05 07:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/100-intelligence-officers-reassigned-for-security-in-Colombo/108-280217) · `en`
+
+Colombo, April 5 (Daily Mirror) - Around 100 Intelligence Officers from the police in the Western Province have been discharged from their duties and reassigned to security duties in Colombo.
+
+Inspector General of Police Deshabandu Tennakoon had instructed to deploy officers attached to the Intelligence Service in the Western Province for general duties in Colombo to enhance security and prevent crimes like vehicle thefts and gold necklace robberies especially during the Sinhala and Tamil New Year season.
+
+During the last few weeks, the police have intensified operations against the underworld and drug activities island-wide deploying a significant number of personnel for these tasks.
+
+Intelligence officers previously stationed in the Western Province have been redeployed for general duties in Colombo, as the police maintain their special operations against underworld activities and drug trafficking.
+
+...
+
+[Data](articles/ebaa0e7c.json)
 
 ---
 
@@ -452,6 +492,26 @@ In addition, the Committee has approved the appointments of (Eng) R.G. Rubasingh
 
 ---
 
+### Baltimore Bridge Collapse: MV Dali, SL authorities anchored in mystery?
+
+*2024-04-05 02:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/Baltimore-Bridge-Collapse-MV-Dali-SL-authorities-anchored-in-mystery/131-280215) · `en`
+
+The collapse of the Dali’s vital operating systems left the vessel adrift until it ultimately collided with the Francis Scott Key Bridge
+
+MV Dali was bound for Sri Lanka and then to China in a trip that was expected to take 36 days
+
+MV Dali, the containership that wreaked havoc along an important shipping route in the Port of Baltimore, had one Sri Lankan among a crew comprising 21 employees
+
+What has been of particular concern is the fact that the ship had been carrying 56 containers of hazardous materials, totaling 764 tons
+
+Recurring events relating to hazardous transboundary shipments have raised concerns regarding Sri Lanka’s efforts to strengthen maritime laws
+
+...
+
+[Data](articles/f7d8e393.json)
+
+---
+
 ### A face-off that promises a surprise ending - EDITORIAL
 
 *2024-04-05 02:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/A-face-off-that-promises-a-surprise-ending-EDITORIAL/172-280214) · `en`
@@ -738,21 +798,27 @@ The Secretary of the Urban Council visited the scene on the 23rd of last month a
 
 ---
 
-### ’ஏப்ரல் 15 இல் எண்ணெய் தேய்த்தல் விழா’
+### Oil rubbing ceremony on April 15
 
 *2024-04-05 00:42:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-15-இல்-எண்ணெய்-தேய்த்தல்-விழா/175-335637) · `ta`
 
-தமிழ், சிங்களப் புத்தாண்டுக் கொண்டாட்டங்களின் சுப நிகழ்வுகளில் ஒன்றான தலைக்கு எண்ணெய் தேய்த்தல் தேசிய விழா ஏப்ரல் 15 ஆம் திகதி காலை 10.17 க்கு நடைபெறவுள்ளதாக சுதேச வைத்திய இராஜாங்க அமைச்சர் சிசிர ஜயகொடி தெரிவித்தார்.
+The National Festival of Oil Rubbing, a Tamil and Sinhala New Year event, is on April 15 at 10.17 am, organized by the Ministry of Indigenous Medicine. The last rituals, including tree planting and the Subhasa ritual, are on April 18.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே சுதேச வைத்திய இராஜாங்க அமைச்சர் சிசிர ஜயகொடி இதனைத் தெரிவித்தார்.
+🟩
 
-அத்துடன், தமிழ், சிங்களப் புத்தாண்டுக் கொண்டாட்டங்களின் இறுதி சுபச் சடங்குகளான மரங்களை நடும் நிகழ்வு ஏப்ரல் 18ஆம் திகதியன்று சுதேச மருத்துவ அமைச்சினால் ‘முருங்கை தினம்’ என பெயரிடப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+Indigenous Medical Minister Sisira Jayakody said that the National Festival of Oil Rubbing, one of the auspicious events of the Tamil and Sinhala New Year celebrations, will be held on April 15 at 10.17 am.
 
-புத்தாண்டு கொண்டாட்டங்களின் தனித்துவமான சுப சடங்குகளான எண்ணெய் தேய்த்தல் தேசிய விழாவை ஏப்ரல் 15 ஆம் திகதி காலை 10.17 க்கு வத்தளை ஹெந்தல புராண ரஜமஹா விகாரையில் நடத்த சுதேச வைத்திய அமைச்சு மற்றும் ஆயுர்வேத திணைக்களம் ஏற்பாடு செய்துள்ளது.
+Indigenous Medical Minister Sisira Jayakody made this statement at a media briefing held at the Presidential Media Center yesterday.
+
+The Minister of State also stated that the event of planting trees, the last rituals of the Tamil and Sinhala New Year celebrations, was named after the Indigenous Ministry of Medicine on April 18.. As he further stated,
+
+The Ministry of Indigenous Medicine and Ayurvedic Department has organized the National Festival of Oil Rubbing, the unique rituals of the New Year celebrations at 10.17 am at the Hendala Purana Rajamaha Viharaya, Wattala.
 
 ...
 
 [Data](articles/cca1353a.json)
+
+[Extended Data](ext_articles/cca1353a.ext.json)
 
 ---
 
@@ -1245,6 +1311,20 @@ The stock market performed on a bullish note throughout the day. Both local and 
 [Data](articles/617bd2a6.json)
 
 [Extended Data](ext_articles/617bd2a6.ext.json)
+
+---
+
+### පොලිස්පතිට පෞද්ගලිකවම ශ්‍රේෂ්ඨාධිකරණයේ පෙනී සිටිමට නියම කරයි
+
+*2024-04-04 20:35:33* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පතිට-පෞද්ගලිකවම-ශ්‍රේෂ්ඨාධිකරණයේ-පෙනී-සිටිමට-නියම-කරයි/11-408964) · `si`
+
+අරගලය සමයේ පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ නිවෙස්වලට අලාභ හානි කිරීම වැළැක්වීමට පියවර නොගත්තැයි චෝදනා කරමින් ස්ථානමාරු කර සිටි පොලිස්ථානාපතිවරුන් පස්දෙනෙකුට ජ්‍යෙෂ්ඨත්වය අනුව වෙනත් පොලිස් ස්ථාන දීමට පියවර නොගැනීම සම්බන්ධයෙන් පෞද්ගලිකවම අද (5දා) ශ්‍රෙෂ්ඨාධිකරණයේ පෙනී සිට කරුණු පැහැදිලි කරන ලෙස පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාට ශ්‍රෙෂ්ඨාධිකරණය ඊයේ (04දා) නියම කළේය.
+
+අදාළ පොලිස් ස්ථානාපතිවරුන් පස්දෙනාට ජ්‍යෙෂ්ඨත්වය අනුව වෙනත් පොලිස් ස්ථාන දීමට පියවර නොගැනීමේ සිද්ධීන් සම්බන්ධයෙන් සම්පූර්ණ වාර්තාවක් අධිකරණයට ඉදිරිපත් කරන්නැයි ශ්‍රේෂ්ඨාධිකරණය වැඩිදුරටත් නියම කළේය.අරගලය සමයේ පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ නිවෙස්වලට අලාභ හානි කිරීම වැළැක්වීමට පියවර නොගත්තැයි චෝදනා කරමින් ස්ථානමාරු කර සිටි  පොලිස්ථානාපතිවරුන් පස්දෙනෙකු විසින් මෝසමක් මාර්ගයෙන් කළ කරුණු දැක්වීමක් සලකා බැලීමෙන් අනතුරුව ශ්‍රේෂ්ඨාධිකරණය එලෙස නියම කළේය.
+
+...
+
+[Data](articles/bc946bcd.json)
 
 ---
 
@@ -2195,97 +2275,5 @@ Meanwhile, during a raid carried out by K. Balendrakumar in the Anaikottai area,
 [Data](articles/964483ef.json)
 
 [Extended Data](ext_articles/964483ef.ext.json)
-
----
-
-### Yall. Indian Power Company started work in Analadeevu
-
-*2024-04-04 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180439) · `ta`
-
-Indian Power Company initiated work in Analadeevu, laying the foundation for solar and wind power projects in Jaffna, with financial support from an Indian private company, in compliance with Indian government regulations. The ceremony was attended by Dinesh Pandian, an electrical engineer from the Indian company.
-
-🟩
-
-The foundation stone laying ceremony for the new solar cells and wind power generation projects in Jaffna was held on Thursday (04).
-
-Power plants will be set up with the financial assistance of the Indian private company in accordance with the compliance with the Government of India.
-
-The event was held today in the presence of the Indian company's electrical engineer Dinesh Pandian.
-
-◼️
-
-[Data](articles/288d4dd7.json)
-
-[Extended Data](ext_articles/288d4dd7.ext.json)
-
----
-
-### Advanced Level results at early May
-
-*2024-04-04 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195299) · `si`
-
-Dr. Susil Premajayantha announces GCE Advanced Level results in early May.
-
-🟩
-
-Minister of Education Dr. Susil Premajayantha says that the GCE Advanced Level examination results will be given at early May.
-
-◼️
-
-[Data](articles/76848cdc.json)
-
-[Extended Data](ext_articles/76848cdc.ext.json)
-
----
-
-### Sri Lanka stocks close up, banks push turnover
-
-*2024-04-04 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-push-turnover-157594/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The broader All Share Index closed up 0.63 percent, or 73.59 points, at 11,698; while the S&P SL20 Index closed up 1.30 percent, or 44.04 points, at 3,437.
-
-“There is interest coming in from corporate and high-net worth sections, in addition to retail,” market participants said.
-
-Hatton National Bank Plc saw the most active volumes traded, Rs417mn, and the share closed up at 195.25
-
-Sampath Bank Plc saw stock worth Rs403mn traded, and the share closed up at 78.70.
-
-Melstacorp Plc, saw Rs332mn in turnover, and was up at 91.10.
-
-Nations Trust Bank Plc which announced that it would convert ordinary non-voting convertible shares to ordinary voting shares, closed up at 114.00.
-
-Commercial Bank of Ceylon Plc, among the major contributors to the ASPI, closed up at 99.80.
-
-Other contributors to the Index included and National Development Bank Plc, up at 74.00, and Lion Brewery (Ceylon) Plc, up at 990.50.
-
-◼️
-
-[Data](articles/c559cc10.json)
-
-[Extended Data](ext_articles/c559cc10.ext.json)
-
----
-
-### 280 rupees to the dollar?
-
-*2024-04-04 16:25:45* · [`adalk`](https://www.ada.lk/breaking_news/ඩොලරයට-රුපියල්-280ක්--/11-408955) · `si`
-
-The rupee's value has increased due to economic management, strengthening the economy. President Ranil Wickremesinghe noted a 300 rupee value in the dollar, aiming for 280, to strengthen the economy further.
-
-🟩
-
-The economic growth rate of the country was negatively appreciated. But today the rupee has increased due to the accurate economic management. Accordingly, the economy has been strengthened. Therefore, President Ranil Wickremesinghe joined the graduate teachers to graduate graduate teachers, President Ranil Wickremesinghe said.
-
-Speaking further President President said. Today there is a 300 rupee value in the dollar and hope to download up to 280. Then the amount of money is strengthened.
-
-The government needs to be found today. Today we are able to improve economic growth in the future. "
-
-◼️
-
-[Data](articles/d65ccd4a.json)
-
-[Extended Data](ext_articles/d65ccd4a.ext.json)
 
 ---

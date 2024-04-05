@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 22:18:17**
+As of **2024-04-05 22:33:49**
 
 ## Newspaper Stats
 
-*Scraped **17,395** Articles*
+*Scraped **17,396** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,61 @@ tamilmirrorlk | 2,051
 adaderanalk | 2,092
 virakesarilk | 2,539
 dailymirrorlk | 2,665
-adaderanasinhalalk | 2,816
+adaderanasinhalalk | 2,817
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,394 (100.0%) of 17,395 articles have been extended.
+17,395 (100.0%) of 17,396 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### අවුරුදු උත්සවවලට උපදේශන මාලාවක්
+### අනතුරකින් පුද්ගලයෙක් මියයෑමෙන් නොසන්සුන් තත්ත්වයක්
+
+*2024-04-05 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195351) · `si`
+
+රිය අනතුරක් නිසා බුලත්සිංහල හල්වතුර ප්‍රදේශයේ අද (05) රාත්‍රියේ නොසන්සුන් තත්ත්වයක් ඇතිවුණි.
+
+අද රාත්‍රි 8.30ට පමණ බුලත්සිංහල හල්වතුර ප්‍රදේශයේ, ඉංගිරියේ සිට බුලත්සිංහල දෙසට ධාවනය වූ යතුරු පැදියක පුද්ගලයෙක් ගැටී තිබිණි.
+
+පාරමාරු වෙමින් සිටියදී මෙම පුද්ගලයා යතුරු පැදියේ ගැටී ඇති අතර ඔහු එම ස්ථානයේදීම ජීවිතක්ෂයට පත්වු බව අප වාර්තාකරු සඳහන් කළේ.
+
+පොලීසිය මැදිහත් වී ගින්න පාලනයට උත්සාහ දැරුව ද ඒවන විටත් යතුරු පැදිය මුළුමනින්ම  විනාශ වී තිබූ වාර්තා වී තිබිණි.
+
+අනතුරට හේතුව මෙතෙක් අනාවරණ වී නොමැති අතර යතුරුපැදිකරු බුලත්සිංහල පොලීසිය මඟින් අත්අඩංගුවට ගනු ලැබීය.
+
+◼️
+
+[Data](articles/e5597205.json)
+
+---
+
+### A series of counseling to New Year festivals
 
 *2024-04-05 21:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195350) · `si`
 
-එළැඹෙන සිංහල හා දමිළ අලුත් අවුරුද්දට සමගාමීව පවත්වන අවුරුදු උත්සවවල සංස්කෘතියට පටහැනි වන ආකාරයේ උත්සව අංග සහ ක්‍රීඩා ඇතුළත් කර තිබේ නම් ඒ පිළිබඳව නීතිමය ක්‍රියාමාර්ග ගන්නා බව බුද්ධශාසන, ආගමික හා සංස්කෘතිය කටයුතු අමාත්‍ය විදුර වික්‍රමනායක මහතා පවසයි.
+Minister Vidin Wickramanayaka suggests integrating culture and sports into New Year festivals, emphasizing ethical conduct and creativity. Consultations have been given to Divisional Secretaries, requiring festival and sports events to be registered with the Divisional Secretariat and police approval for loudspeakers. DIG Nihal Talduuwa highlights the importance of adhering to laws during the festivities.
 
-අවුරුදු උත්සවවල පවත්වන සදාචාර විරෝධී උත්සව අංග ඉවත් කිරීම හා නිර්මාණාත්මක අංග එකතු කිරීම පිළිබඳව යෝජනා ඉදිරිපත් කිරීමේ අද (05) පැවති මාධ්‍ය හමුවට එක්වෙමින් අමාත්‍යවරයා මේ බව ප්‍රකාශ කළේය.
+🟩
 
-අවුරුදු උත්සව පැවැත්වීමට අදාළ උපදේශන මාලාවක් මේ වන විට සියලුම දිස්ත්‍රික් ලේකම්වරු මාර්ගයෙන් ප්‍රාදේශීය ලේකම්වරු වෙත ලබා දී තිබේ.
+Minister of Buddha Sasana, Religious and Culture, Minister Vidin Wickramanayaka said that if the culture and sports were incorporated into the culture of the New Year's Culture, the culture of the New Year's Culture.
 
-ඒ අනුව අවුරුදු උත්සවවලට ඇතුළත් කර ඇති උත්සව අංග සහ ක්‍රීඩා අදාළ ප්‍රාදේශීය ලේකම් කාර්යාලය වෙත ලබා දී ලියාපදිංචි කළ යුතු බවත්, ඉන්පසු ශබ්ද විකාශන යන්ත්‍ර භාවිතා කිරීම සඳහා පොලීසියේ  අනුමැතිය ලබා ගත යුතුය.
+He was speaking at a press conference held today (05), hosting the unethical features of the New Year festivals and proposals on creativity collection.
 
-...
+A series of consultations relating to the New Year festivals have already been provided to the Divisional Secretaries.
+
+Accordingly, festivals and sports included in the year celebrations should be registered and registered with the relevant Divisional Secretariat and then approval of the police to use loudspeakers.
+
+Police Media Spokesperson DIG Nihal Talduuwa said that he said that during the year, the laws of obseribility as well as the laws of pornographic events.
+
+◼️
 
 [Data](articles/eddd8ac7.json)
+
+[Extended Data](ext_articles/eddd8ac7.ext.json)
 
 ---
 
@@ -2299,23 +2327,5 @@ Easice: I would like to hear from you to start this conversation.
 [Data](articles/ccd1abfc.json)
 
 [Extended Data](ext_articles/ccd1abfc.ext.json)
-
----
-
-### IGP Tennakoon appears before Supreme Court
-
-*2024-04-05 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98439/igp-tennakoon-appears-before-supreme-court) · `en`
-
-Police Chief Deshabandu Tennakoon arrived at the Supreme Court complex this morning (05), complying with the summons issued to him yesterday.
-
-The Inspector General of Police (IGP) was summoned by the country’s apex court to inquire into the particulars mentioned in the fundamental rights (FR) petitions filed by five Officers-in-Charge (OICs) with respect to the transfers they were given following the ‘Aragalaya’ movement.
-
-The legal counsels representing the petitioners presented facts before a three-member judge bench presided over by Chief Justice Jayantha Jayasuriya yesterday, after which the police chief was ordered to make an appearance before the courts today.
-
-◼️
-
-[Data](articles/4ad976a5.json)
-
-[Extended Data](ext_articles/4ad976a5.ext.json)
 
 ---

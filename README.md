@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 13:03:18**
+As of **2024-04-05 13:18:12**
 
 ## Newspaper Stats
 
-*Scraped **17,313** Articles*
+*Scraped **17,314** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,69 @@ tamilmirrorlk | 2,046
 adaderanalk | 2,077
 virakesarilk | 2,520
 dailymirrorlk | 2,653
-adaderanasinhalalk | 2,796
+adaderanasinhalalk | 2,797
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,312 (100.0%) of 17,313 articles have been extended.
+17,313 (100.0%) of 17,314 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### காசாவின் 12 வயது மருத்துவ உதவியாளர் - இடம்பெயர்ந்து மருத்துவமனையில் தஞ்சமடைந்த  சிறுவன் அந்த மருத்துவமனையில் சேவையாற்றிவரும் மனிதாபிமானம்
+### සරසවි සිසු විනෝද් බෝඩිමේදී මරුට
 
-*2024-04-05 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180500) · `ta`
+*2024-04-05 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195330) · `si`
 
-இஸ்ரேல் மேற்கொண்டுள்ள  தாக்குதல்கள்  காரணமாக இடம்பெயர்ந்து  மருத்துவமனையில் தஞ்சமடைந்த 12 வயது சிறுவன் அந்த மருத்துவமனையில் தற்போது மருத்துவ உதவியாளராக பணிபுரிகின்றான் என அல்ஜசீரா செய்தி வெளியிட்டுள்ளது.
+මොරටුව විශ්වවිද්‍යාලයේ ඉගෙනුම ලැබූ සිසුවෙකු මොරටුව මෝල්පේ ප්‍රදේශයේ පිහිටි සිය තාවකාලික නවාතැන් කාමරයේදී ඊයේ මධ්‍යම රාත්‍රියේ හදිසියේ රෝගීවී මියගොස් තිබේ.
 
-12 வயது ஜகாரியாஸ் சர்சாக்  காசாவின் அல்அக்சா மருத்துவமனையில் மருத்துவ தொண்டராக பணியாற்றுகின்றான்.
+ඔහු වාස්තු විද්‍යා පීඨයේ අවසන් වසරේ සිසුවකු වන අතර පිළියන්දල දිසා රෝහලට ඇතුළත් කරන විටත් ඔහු මියගොස් සිටි බව වාර්තා විය.
 
-காசாவில் காயமடைபவர்கள் உயிரிழப்பவர்களின் எண்ணிக்கை அதிகரித்து வருவதன் காரணமாக இந்த மருத்துவமனையின் மருத்துவர்களிற்கு உதவியாளர்கள் தேவைப்படுகின்றனர்.
+මෙලෙස මියගොස් ඇත්තේ, සතාසිවම් විනෝද් නැමති හාලිඇල ප්‍රදේශයේ පදිංචි සිසුවෙකි.
 
-நான் கனுலாசை பொருத்துவேன் ஐஎவ ;திரவங்களை பொருத்துவேன் அகற்றுவேன் ஊசிகளையும் கையாள்வேன் என அந்த சிறுவன் தெரிவிக்கின்றான்.
+මිතුරන් සමග නවාතැන ආසන්නයේ පිහිටි වෙළෙඳසැලකින් ඊයේ මධ්‍යම රාත්‍රී 12.30ට පමණ තේ පානය කර නැවත නවාතැන වෙත පැමිණි සිය සිසුවා ජංගම දුරකථනය භාවිත කරමින් සිටියදී හදිසියේ අසනීප වී තිබුණි.
 
-மருத்துவ குழுக்களிடம் ஸ்கான் அறிக்கைகளை கொண்டு சென்று கொடுத்தல் தாதிமார்களிற்கு மருந்துகள் மருத்துவ உபகரணங்களை வழங்குதல் போன்றவற்றில் அவன் ஈடுபடுகின்றான். என அல்அக்ஷா மருத்துவமனையின் இயக்குநர் இயாட் அபு ஜஹெர் தெரிவிக்கின்றார்.
+මියගිය සිසුවාගේ මිතුරෙක් පැවසුවේ, "අපි හතර දෙනෙක් බෝඩිමේ එක කාමරේ ඉන්නවා. එක්කෙනෙක් ඇතුළේ ඉඳන් කෑ ගැහුවා ටක්ගාලා වරෙන් කියලා. මම ඇවිත් බලනකොට එයා ඇස්වහගෙන මෙහෙම කරගෙන හිටියා. අපි හතරදෙනාම උස්සලා හොස්පිට්ල් එකට අරන් ආවාට පස්සේ තමයි කිව්වේ අරන් එනකොටත් නැතිවෙලා කියලා".
+
+◼️
+
+[Data](articles/8db57259.json)
+
+---
+
+### Gaza's 12 -year -old medical assistant
+
+*2024-04-05 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/180500) · `ta`
+
+A 12-year-old boy, Jagariaz, volunteers as a medical assistant at Al-Aksha Hospital in Gaza, helping with tasks like fitting cannulas and providing medicines. Despite the war's impact, he's determined to help, driven by the need to support his family.
+
+🟩
+
+Al Jazeera reports that a 12 -year -old boy who was displaced in the hospital due to Israel's attacks is currently working as a medical assistant at the hospital.
+
+12 -year -old Jagariaz is working as a medical volunteer at Al -Aksha Hospital in Sarzak Gaza.
+
+The hospital's doctors need assistants due to the increasing number of casualties in Gaza.
+
+The boy says that I will fit the cannabis, I will be able to remove the fluids and handle the needles.
+
+He is involved in giving scan reports to medical groups and providing medicines for nurses. Director of Al -Aksha Hospital Iad Abu Jaheer says.
+
+The medical team has been working for more than 170 days at Al -Aksha Hospital.
+
+The boy came to our hospital when he was displaced and he saw that the doctors at the hospital saw the nurses working for 24 hours, according to the director of the Al Aksha Hospital.
+
+He reports that this child is very high.
+
+Israel's attack after the seventh of October has been killed by 364 medical staff.
 
 ...
 
 [Data](articles/d408e802.json)
+
+[Extended Data](ext_articles/d408e802.ext.json)
 
 ---
 
@@ -2237,27 +2271,5 @@ The objective of this program is implementing this on the instructions of IGP De
 [Data](articles/a82e20a9.json)
 
 [Extended Data](ext_articles/a82e20a9.ext.json)
-
----
-
-### Cabinet paper to formally apologize against the Muslim community
-
-*2024-04-04 20:43:00* · [`adalk`](https://www.ada.lk/breaking_news/මුස්ලිම්-ප්‍රජාවගෙන්-විධිමත්ව-සමාව-ඉල්ලීමට-අමාත්‍ය-මණ්ඩල-පත්‍රිකාවක්/11-408966) · `si`
-
-Jeevan Thondaman, Minister of Water Supply and Estate Infrastructure Development, announced a formal apology to the Muslim community for the compulsory cremation policy enforced by the Rajapaksa government. A study by the University of Sri Jayewardenepura and the Hydro Technology Joint Research and Exhibition Center found no risk of groundwater contamination from proper burials during the plague, challenging the previous government's stance.
-
-🟩
-
-Water Supply and Estate Infrastructure Development Minister Jeevan Thondaman said that a Cabinetian Infrastructure Development Minister Jeevan Thondaman said.
-
-He said that Gotabhaya Rajapaksa pardoned the Muslim community over the compulsory cremation policy enforced in the government of the Rajapaksa government.
-
-The last government's position has now been challenged by a study conducted by the University of Sri Jayewardenepura and the Hydro Technology Joint Research and Exhibition Center at the University of Peradeniya.. It is a center under the Ministry of Water Supply and Estate Infrastructure Development. After the Minister was handed over to research on the matter, I was instructed.
-
-...
-
-[Data](articles/7fe1b242.json)
-
-[Extended Data](ext_articles/7fe1b242.ext.json)
 
 ---

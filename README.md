@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 16:33:44**
+As of **2024-04-05 16:49:11**
 
 ## Newspaper Stats
 
-*Scraped **17,348** Articles*
+*Scraped **17,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 dailyftlk | 944
 islandlk | 950
 economynextcom | 962
-adalk | 1,463
+adalk | 1,464
 tamilmirrorlk | 2,047
-adaderanalk | 2,084
+adaderanalk | 2,085
 virakesarilk | 2,529
 dailymirrorlk | 2,658
-adaderanasinhalalk | 2,806
+adaderanasinhalalk | 2,807
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,343 (100.0%) of 17,348 articles have been extended.
+17,348 (100.0%) of 17,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### ඊශ්‍රායලය ජ්‍යේෂ්ඨ හමුදා නිලධාරීන් දෙදෙනෙක් ව සේවයෙන් නෙරපයි
+
+*2024-04-05 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195341) · `si`
+
+ගාසා තීරයේ සහන සේවා සපයමින් සිටි World Central Kitchenහි සහන සේවකයින් 7 දෙනෙක් ඊශ්‍රායල ප්‍රහාරයකින් මිය යාම සම්බන්ධයෙන් ජ්‍යේෂ්ඨ හමුදා නිලධාරීන් දෙදෙනෙක්ව සේවයෙන් පහකිරීමට ඊශ්‍රායල බලධාරීන් කටයුතු කර තිබේ.
+
+ඊශ්‍රායල ආරක්ෂක හමුදාව පවසන්නේ පළමු ගුවන් ප්‍රහාරයෙන් සහන සේවකයින් කිහිපදෙනෙක් බේරුණු බවත් අනතුරුව එල්ල කළ තවත් ප්‍රහාරයකින් ඔවුන් මියගිය බවත් ය.
+
+◼️
+
+[Data](articles/6a9853e2.json)
+
+---
+
+### Three-day parliamentary debate on Easter attacks in end of April
+
+*2024-04-05 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98451/three-day-parliamentary-debate-on-easter-attacks-in-end-of-april) · `en`
+
+An adjournment debate on the 2019 Easter Sunday attacks is scheduled to be held from 24-26 April in accordance with a motion brought by the Opposition.
+
+The decision was taken at the meeting of the Parliamentary Business Committee chaired by Deputy Speaker Ajith Rajapakse on Friday (05), as per a press release issued by the Parliament’s Communication Department.
+
+Thereby, the Code of Criminal Procedure (Amendment) Bill (Second Reading) and Regulations under the Poisons, Opium and Dangerous Drugs Ordinance are scheduled to be debated on Wednesday (24) from 9.30 am to 10.30 pm.
+
+It was also decided that the debate on the Adjournment Debate on the Easter Sunday attacks be held from 10.30 am to 5.30 pm according to a motion brought by the Opposition.
+
+...
+
+[Data](articles/09f6e9da.json)
+
+---
 
 ### Parliamentary debate on Easter attacks from 24-26 April
 
@@ -44,57 +76,81 @@ The decision was taken at the meeting of the Parliamentary Business Committee ch
 
 [Data](articles/685d8c52.json)
 
+[Extended Data](ext_articles/685d8c52.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-04-05 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180533) · `ta`
 
-இன்று வெள்ளிக்கிழமை (ஏப்ரல் 05) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 294.9271 ஆகவும் விற்பனை விலை ரூபா 304.2846 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar's purchase price was Rs 294.9271, and the sales price was Rs 304.2846, as per the Central Bank's Friday (April 05) currency exchange rate.
+
+🟩
+
+The US dollar purchasing price was Rs 294.9271 and the sales price were Rs 304.2846 based on the currency exchange rate issued by the Central Bank on Friday (April 05).
 
 ◼️
 
 [Data](articles/31e32805.json)
 
+[Extended Data](ext_articles/31e32805.ext.json)
+
 ---
 
-### உலகளாவிய சிறந்த இளம் தலைவராக அமைச்சர் ஜீவன் தொண்டமான் தெரிவு
+### Minister Jeevan Thondaman is the best young leader worldwide
 
 *2024-04-05 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180519) · `ta`
 
-நீர் வழங்கல் மற்றும் பெருந்தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான் உலகளாவிய சிறந்த இளம் தலைவராக (Young Global Leader) உலகப் பொருளாதார மன்றத்தால் தெரிவு செய்யப்பட்டுள்ளார்.
+Jeevan Thondaman, Sri Lanka's Minister of Water Supply and Plantation Infrastructure Development, is recognized by the World Economic Forum as the Global Best Young Leader, marking the first time a Sri Lankan minister has achieved this honor.
 
-இலங்கை அமைச்சர் ஒருவர் உலகளாவிய சிறந்த இளம் தலைவராக தெரிவு செய்யப்படுவது  இதுவே முதல் முறையாகும்.
+🟩
 
-இலங்கை வரலாற்றில் முதல் முறையாக உலகளாவிய சிறந்த இளம் தலைவராக தெரிவு செய்யப்பட்ட முதல் அமைச்சர் என்ற பெருமையை ஜீவன் தொண்டமான் பெற்றுள்ளமை குறிப்பிடத்தக்கதொன்றாகும் என  நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சு வெளியிட்டுள்ள அறிக்கையில் தெரிவித்துள்ளது.
+Water Supply and Plantation Infrastructure Development Minister Jeevan Thondaman has been selected by the World Economic Forum as the Global Leader.
 
-உலகளாவிய சிறந்த இளம் தலைவர் சமூகம் என்பது உலகளாவிய எதிர்காலத்தை வடிவமைப்பதில் உறுதிப்பாட்டை பகிர்ந்து கொள்ளும் 1,000 க்கும் மேற்பட்ட  இளம் தலைவர்களைக் கொண்ட ஒரு தனித்துவமான, பல-பங்குதாரர் சமூகமாகும்.
+This is the first time a Sri Lankan minister has been elected as the best young leader worldwide.
+
+The Ministry of Water Supply and Estate Infrastructure Development said that Jeevan Thondaman has been honored to be the first minister to be the best young leader in Sri Lanka for the first time in the history of Sri Lanka.
+
+The worldwide best young leader is a unique, multi-bunch of society with more than 1,000 young leaders who share the determination to design the global future.
+
+The Global Best Young Leader Plan identifies promoting leaders under the age of 40 who shape the future. In the past, French President Emmanuel Macron, New Zealand Prime Minister Jacinda Order, Ali Baba's founder and technician Jack Ma and Facebook founder Mark Zuckerberg include the world's best young leader list.
 
 ...
 
 [Data](articles/436226cf.json)
 
+[Extended Data](ext_articles/436226cf.ext.json)
+
 ---
 
-### கடந்த 3 மாதங்களில் சுமார் 75 ஆயிரம் பேர் வேலைவாய்ப்புக்காக வெளிநாடுகளுக்கு பயணம் ; அதில் 46 வீதமானோர் பெண்கள்!
+### About 75 thousand people travel abroad for employment in the last 3 months;46 percent of them are women!
 
 *2024-04-05 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180494) · `ta`
 
-2024ஆம் ஆண்டின் முதல் மூன்று மாதங்களில் 74,499 இலங்கையர்கள் தொழில் நிமித்தம் வெளிநாடுகளுக்கு சென்றுள்ளதாக இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகம் நேற்று (04) தெரிவித்துள்ளது.
+In Q1 2024, 74,499 Sri Lankans went abroad for work, 46% were women. Compared to Q1 2023, there was a slight decrease. Top destinations were South Korea, Israel, and Japan. Sri Lankans abroad sent $963.8M home, with significant earnings from apparel, tourism, and IT sectors.
 
-வேலைவாய்ப்பு பெற்று வெளிநாடுகளுக்கு சென்ற 74,499 இலங்கையர்களில் 46 வீதமானோர் பெண்கள் ஆவர்.
+🟩
 
-கடந்த 2023இல் இதே காலகட்டத்தில் 76,025 இலங்கை பணியாளர்கள் வெளிநாடுகளுக்கு சென்றனர். அந்த எண்ணிக்கையோடு ஒப்பிடுகையில், இந்த ஆண்டின் முதல் காலாண்டில் வெளிநாடுகளுக்கு சென்றவர்களின் எண்ணிக்கையில் சற்று வீழ்ச்சி ஏற்பட்டுள்ளது.
+The Sri Lanka Foreign Employment Bureau said yesterday (04) that 74,499 Sri Lankans went abroad in the first trimester of 2024.
 
-இலங்கையர்கள் பெரும்பாலும் தென்கொரியா, இஸ்ரேல், ஜப்பான் போன்ற நாடுகளில் வேலைவாய்ப்பு பெற விரும்புகின்றனர்.
+46 percent of the 74,499 Sri Lankans who went abroad and went abroad.
 
-அதனடிப்படையில், 2024ஆம் ஆண்டின் முதல் மூன்று மாதங்களில் 17,793 பேர் குவைத்துக்கும், 2,374 பேர் தென் கொரியாவுக்கும், 2,114 பேர் இஸ்ரேலுக்கும், 1,899 பேர் ருமேனியாவுக்கும், 1,947 பேர் ஜப்பானுக்கும் சென்றுள்ளனர்.
+76,025 Sri Lankan employees went abroad during the same period in 2023. Compared to that number, the number of people abroad has fallen slightly in the first quarter of this year.
 
-அத்துடன், இந்த ஆண்டின் முதல் இரண்டு மாதங்களில் வெளிநாடுகளில் தொழில் புரியும் இலங்கையர்கள் 963.8 மில்லியன் அமெரிக்க டொலர்களை இலங்கைக்கு அனுப்பியுள்ளனர் என குறிப்பிட்டுள்ளது.
+Sri Lankans often prefer to get employment in South Korea, Israel and Japan.
+
+Accordingly, in the first trimester of 2024, 17,793 people went to Kuwait, 2,374 to South Korea, 2,114 to Israel, 1,899 to Romania and 1,947 to Japan.
+
+In addition, Sri Lankans who work abroad have sent $ 963.8 million to Sri Lanka in the first two months of this year.
+
+According to the Central Bank's data, Sri Lankan workers working abroad have earned more foreign exchange in the first two months of this year.
 
 ...
 
 [Data](articles/5d19900e.json)
+
+[Extended Data](ext_articles/5d19900e.ext.json)
 
 ---
 
@@ -505,6 +561,22 @@ The Korean Prime Minister urged the Korean Prime Minister to take steps to reduc
 [Data](articles/58ec5512.json)
 
 [Extended Data](ext_articles/58ec5512.ext.json)
+
+---
+
+### ලොරියක් වන අලියෙකුගේ ගැටී දෙකක් මරුට හයකට තුවාල
+
+*2024-04-05 14:11:52* · [`adalk`](https://www.ada.lk/breaking_news/ලොරියක්-වන-අලියෙකුගේ-ගැටී-දෙකක්-මරුට-හයකට-තුවාල/11-408969) · `si`
+
+මොරගහකන්ද ජලාශ මාර්ගයේ සිට නාඋල දෙසට ධාවනය වු කුඩා ලොරි රථයක වන අලියෙකු ගැටී රථය පෙරලියාම හේතුවෙන් පුද්ගලයින් දෙදෙනෙකු ජිවිතක්ෂයට පත්ව තවත් හය දෙනෙකු තුවාල ලබා ඇතැයි නාඋල පොලිසිය කියයි. අද (05) අළුයම එකට පමණ මොරගහකන්ද - වදුරුමුල්ල ප්‍රදේශයේ දී අනතුර සිදුව තිබේ.
+
+52/සි/1,මාදියාවෙල,පුබ්බිලිය ලිපිනයේ පදිංචි කෝරළේගෙදර සෙණරත් අසංක බණ්ඩාර යන අය විසින් කැන්ටර් (250) වර්ගයේ නිල් පැහැ ලොරි රථයේ ඉදිපස හා පිටුපස පුද්ගලයින් හය දෙනෙකු නන්වාගෙන මොරගහකන්ද දෙස සිට කෝන්ගහවෙල දෙසට රිය ධාවනය කරමින් සිටිය දි වන අලියෙකු එක් වරම මාර්ගය හරහා ගමන් කිරිමේ දී ලොරි රථය එම අලියාගේ ගැටීමෙන් පසු ලොරි රථය පෙරලිමෙන් මෙම අනතුර සිදුව ඇති බව පොලිසිය සිදුකල මුලික පරික්ෂණ වල දී අනාවරණය වී තිබේ.
+
+අනතුර හේතුවෙන් ලොරි රථයේ පිටුපස තට්ටුවේ ගමන් ගත් සූරියවැව,සිංහපුර,වැලිකන්ද ලිපිනයේ පදිංචිව සිටි රාජපක්ෂ දේවයලාගේ දිලුක නුවන් (25) යන අය හා අංක 70, නාවල,ගනේවත්ත,නිකදළුපොත ලිපිනයේ පදිංචිව සිටි ඥානපුර හේනයලාගේ ධනන්ජය නවරත්න යන අයවලුන් බරපතල තුවාල ලබා කෝනගහවෙල රජයේ රෝහලට ඇතුලත් කිරිමේ දී මිය ගොස් ඇතැයි පොලිසිය කියයි.
+
+...
+
+[Data](articles/47db105d.json)
 
 ---
 
@@ -1282,25 +1354,35 @@ Professor GL Perera, Dilan Perera, Dr. Nalaka Godahewa, KP Kumarasiri, Dr. Upul 
 
 ---
 
-### 'මම ලියන හැටි' : තරංගනී රෙසිකා ප්‍රනාන්දු
+### 'How I Write': Tasnani Resaman Fernando
 
 *2024-04-05 10:21:27* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cekellgxgmmo) · `si`
 
-තරංගනී රෙසිකා ප්‍රනාන්දු නවකතාකාරියක ලෙස අවදානයට පාත්‍ර වන්නේ 'දේශද්‍රෝහියාගේ නිර්මල හෘදය'  නවකතාව සමගින් ය. ‘ජේරුසලම් දූවරුණි’ යනු ඇගේ දෙවන නවකතාව යි.
+Tasnani Resause Fernando, a novelist, explores social, political, and theological themes in her work, introducing new aesthetics in Sinhala literature. Her writing process involves understanding her feelings and experiences, influenced by her Catholic background and theology.
 
-සමාජ දේශපාලන ක්‍රියාකාරීත්වය, දේවධර්මය සහ ලෞකිකත්වය අතර දෝලනය වන නව සෞන්දර්යයක් නවකතාවට හඳුන්වා දෙන ඇය සමකාලීන සිංහල සාහිත්‍යය තුළ  සිටින සුවිශේෂී ලේඛිකාවක් ලෙස සැලකිය හැකිය.
+🟩
 
-මා ඇය සමග කතාබහක යෙදෙන්නේ නවකතාකාරියක ලෙස ඇය ලේඛනයේ යෙදෙන විට ඇයට දැනෙන හැඟීම් සහ ලිවීම සමඟ බැඳුණු  ඇයට ම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් ය.
+Tasnani Resause Fernando is alert as a novelist in a novel. 'Jazones Dilan' is her second novel.
 
-මේ සාකච්ඡාව තුළ  මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළකර ඇති ‘නිම්නාගේ ඉතිහාසය’ (2019) සහ ‘මේ රහස් කවුලුවෙන් එබෙන්න’ (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුනු ඒවා ය.
+She can be considered a newest aesthetics in contemporary Sinhala literature, introducing social political activism, theology, and secularity.
 
-හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේම වූ ආකාරයකට ය යන්න ප්‍රකට කරුණකි.
+When she talked to her as a novel, she to understand her feelings and writing when she was in a note.
 
-ලියන තැන, ලියන විදිහ, ලියන කාලයට හැසිරෙන හැටි සහ ලියන විට විඳින සතුට වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියටය. මේ සංවාද මාලාව උත්සාහ කරන්නේ නවකතාකරුවන්ගේ එම රහස් අඩවිය වෙත එබී බැලීමට ය.
+The questions I hear in this discussion is currently published by the 'History of Nimna' (2019) and the novels of this secret wind.
+
+It is well known for all writer's writing process.
+
+Where writing, how to write, how to write, and the joy of writing, the writer's abundance. The conversation is seeking to pointer to that secret site of the newcomers.
+
+The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
+
+Easice: I would like to hear from you to start this conversation.
 
 ...
 
 [Data](articles/ccd1abfc.json)
+
+[Extended Data](ext_articles/ccd1abfc.ext.json)
 
 ---
 
@@ -2179,65 +2261,5 @@ The BASL reiterated its commitment to upholding the rule of law and ensuring jus
 [Data](articles/679bd728.json)
 
 [Extended Data](ext_articles/679bd728.ext.json)
-
----
-
-### President credits Govt.’s favourable environment for allowing public participation in politics
-
-*2024-04-05 04:42:43* · [`dailyftlk`](https://www.ft.lk/news/President-credits-Govt-s-favourable-environment-for-allowing-public-participation-in-politics/56-760319) · `en`
-
-Opens International Gem and Jewellery Trade Centre, known as the Ratnapura Gem Tower
-
-President Ranil Wickremesinghe yesterday emphasised that the government’s  prudent decisions over the past two years have bolstered the nation’s  economy, providing a favourable environment for political activities  on the streets.
-
-However, he cautioned that the economy still faces  challenges, urging citizens to weigh the choice of either continuing  with the Government’s initiatives for prosperity or risking regression.
-
-Highlighting a remarkable increase of over 50% in government income in  2023 compared to 2022, President Wickremesinghe underscored the  conducive backdrop for advancing confidently with a robust economy.
-
-These remarks were made during his attendance at the inauguration of  the International Gem and Jewellery Trade Centre, known as the Ratnapura Gem Tower.
-
-...
-
-[Data](articles/2f6189d5.json)
-
-[Extended Data](ext_articles/2f6189d5.ext.json)
-
----
-
-### G.L and others to sign political pact with SJB today
-
-*2024-04-05 04:41:31* · [`dailyftlk`](https://www.ft.lk/news/G-L-and-others-to-sign-political-pact-with-SJB-today/56-760318) · `en`
-
-The main opposition party, Samagi Jana Balawegaya (SJB) yesterday announced that dissident Sri Lanka Podujana Peramuna (SLPP) MPs including Prof. G.L Peiris and several others will sign a coalition agreement with the party today.
-
-Addressing a press conference yesterday SJB Deputy National Organiser S.M Marikkar said this was yet another step in the party’s effort to form the broadest political alliance in Sri Lanka’s political history.
-
-Marikkar noted that the coalition’s focus extends beyond the upcoming elections, encompassing agreements on various policies and reforms essential for the formation of a future government. “More groups will join with us going forward,” he said.
-
-However, the SJB MP declined to disclose the identities of the groups intending to join the party.
-
-◼️
-
-[Data](articles/4a634b56.json)
-
-[Extended Data](ext_articles/4a634b56.ext.json)
-
----
-
-### Committee on High Posts approves four new Ambassadors, two Ministry Secretaries, two Chairpersons
-
-*2024-04-05 04:40:24* · [`dailyftlk`](https://www.ft.lk/news/Committee-on-High-Posts-approves-four-new-Ambassadors-two-Ministry-Secretaries-two-Chairpersons/56-760317) · `en`
-
-The Committee on High Posts has approved the appointments of four new ambassadors, two ministry secretaries and two chairpersons of institutions.
-
-Accordingly, the Committee on High Posts has approved the appointment of  W.A.U.P. Prerera as the new Sri Lankan ambassador to the Socialist Republic of Vietnam and T. P. Dharmasena as the new Ambassador of Sri Lanka to the Republic of Poland, the appointment of  E.A.S.W. Edirisinghe as the new Sri Lankan ambassador to Thailand, and  P.A.P Ponnamperuma as the new Sri Lankan Ambassador to the Republic of the Union of Myanmar were also approved by the Committee on High Posts.
-
-In addition, the Committee has approved the appointments of (Eng) R.G. Rubasinghe as the new Secretary to the Ministry of Transport and Highways and K.N.K. Somaratne as the new Secretary to the Ministry of Fisheries.
-
-...
-
-[Data](articles/2609f8e6.json)
-
-[Extended Data](ext_articles/2609f8e6.ext.json)
 
 ---

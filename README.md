@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 20:50:59**
+As of **2024-04-05 21:05:01**
 
 ## Newspaper Stats
 
-*Scraped **17,385** Articles*
+*Scraped **17,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ islandlk | 951
 economynextcom | 962
 adalk | 1,466
 tamilmirrorlk | 2,050
-adaderanalk | 2,090
+adaderanalk | 2,091
 virakesarilk | 2,535
-dailymirrorlk | 2,664
+dailymirrorlk | 2,665
 adaderanasinhalalk | 2,815
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,384 (100.0%) of 17,385 articles have been extended.
+17,385 (100.0%) of 17,387 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### SLFP’s ‘important’ files reported missing from party headquarters
+
+*2024-04-05 20:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98458/slfps-important-files-reported-missing-from-party-headquarters) · `en`
+
+The Sri Lanka Freedom Party (SLFP) has lodged a complaint with the Maradana Police, alleging that several ‘important’ files have gone missing from the party headquarters.
+
+The complaint was filed by the party’s Acting General Secretary Dushmantha Mithrapala.
+
+◼️
+
+[Data](articles/53b5836a.json)
+
+---
+
+### Ambassador Kananathan addresses issues at Export Processing Zone in Kenya
+
+*2024-04-05 20:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ambassador-Kananathan-addresses-issues-at-Export-Processing-Zone-in-Kenya/108-280258) · `en`
+
+April 05 - The Sri Lankan Ambassador to Kenya, Kana Kananathan, has taken proactive steps to address the hurdles faced by Sri Lankan investors operating within the Export Processing Zone (EPZ) in Kenya.
+
+In a bid to strengthen bilateral relations and support Sri Lankan enterprises abroad, Ambassador Kananathan facilitated a crucial meeting with prominent Sri Lankan businesses, including Mas Intimates, New Wide Garments, JF & I Packaging (Kenya) Limited, and Hela Clothing, all operating within the EPZ in Nairobi.
+
+The meeting, convened at the Export Processing Zone premises today afternoon and led by EPZ CEO Mr. Richard Ipero and his team, served as a platform to identify and tackle the challenges hindering the operations of Sri Lankan investors within the EPZ.
+
+...
+
+[Data](articles/d479f3d9.json)
+
+---
 
 ### Increased Heating - Warning to some districts
 
@@ -52,17 +82,19 @@ Accordingly, the heat, which is perceived by the human body, is expected to be a
 
 ---
 
-### ලිපිගොනු අතුරුදන් බවට ශ්‍රීලනිපයෙන් පැමිණිල්ලක්
+### SLFP complaint with missing files
 
 *2024-04-05 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195349) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන මහලේකම් දුෂ්මන්ත මිත්‍රපාල මහතා විසින් මරදාන පොලීසියට පැමිණිල්ලක් ඉදිරිපත් කර තිබේ.
+Acting Secretary General of Sri Lanka Freedom Party (SLFP) Acting College Vithantine Mithrapala has lodged a complaint with the Maradana police.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානයේ තිබූ වැදගත් ලිපිගොනු කිහිපයක් අතුරුදන් වී ඇති බවට බව පවසමින් ඒ මහතා මෙම පැමිණිල්ල ඉදිරිපත් කර ඇති බව වාර්තා වේ.
+It is reported that the complaint has been lodged with the disappearance of important files at the Sri Lanka Freedom Party.
 
 ◼️
 
 [Data](articles/ca7b59dd.json)
+
+[Extended Data](ext_articles/ca7b59dd.ext.json)
 
 ---
 
@@ -2283,59 +2315,5 @@ The Colombo Stock Exchange opened up: The All Share Price Index was up 0.06 perc
 [Data](articles/c86a3b26.json)
 
 [Extended Data](ext_articles/c86a3b26.ext.json)
-
----
-
-### Meeting between President and Basil
-
-*2024-04-05 09:27:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கும்-பசிலுக்கும்-இடையில்-சந்திப்பு/175-335639) · `ta`
-
-President Ranil Wickremesinghe met with Basil Rajapaksa, founder of Sri Lanka Peoples Alliance, to discuss political affairs and elections. This was the third meeting between them.
-
-🟩
-
-Another discussion has been held between President Ranil Wickremesinghe and the founder of the Sri Lanka Peoples Alliance Basil Rajapaksa.
-
-The Sri Lanka PA has stated that many issues have been discussed on the upcoming political affairs and elections.
-
-Earlier there were two discussions between Basil Rajapaksa and Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/8296ab19.json)
-
-[Extended Data](ext_articles/8296ab19.ext.json)
-
----
-
-### 'Can't hold two elections overnight'
-
-*2024-04-05 09:24:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-தேர்தல்களை-ஒரே-நாளில்-நடத்த-முடியாது/175-335638) · `ta`
-
-The Election Commission stated it's unlikely to hold the presidential and general elections on the same day, citing practical challenges and voter confusion.
-
-🟩
-
-The Election Commission said it was unlikely to hold the presidential election and general election on the same day.
-
-A senior official said that it is not possible in this country.
-
-The Elections Commission said this when the political party representatives commented that there were arrangements to hold the presidential election and the general election on the same day.
-
-The presidential election will be given only one official ballot nationwide.
-
-But he pointed out that 22 ballots should be given to 22 election districts for the general election.
-
-The Elections Commission said that voters in this country are not clear about holding two elections at the same time and voting there.
-
-The Elections Commission said that due to many practical problems, the present presidential and general election cannot be held on the same day.
-
-Meanwhile, the Elections Commission has said that no party has so far requested that the presidential election and the general election be held on the same day.
-
-◼️
-
-[Data](articles/6d5ce460.json)
-
-[Extended Data](ext_articles/6d5ce460.ext.json)
 
 ---

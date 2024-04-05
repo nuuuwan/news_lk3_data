@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 14:50:25**
+As of **2024-04-05 15:03:22**
 
 ## Newspaper Stats
 
-*Scraped **17,324** Articles*
+*Scraped **17,331** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,118 @@ islandlk | 950
 economynextcom | 962
 adalk | 1,461
 tamilmirrorlk | 2,047
-adaderanalk | 2,080
+adaderanalk | 2,082
 virakesarilk | 2,523
-dailymirrorlk | 2,654
-adaderanasinhalalk | 2,799
+dailymirrorlk | 2,657
+adaderanasinhalalk | 2,801
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,322 (100.0%) of 17,324 articles have been extended.
+17,324 (100.0%) of 17,331 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### වෛද්‍ය කපිල වික්‍රමනායකගේ පෙත්සම් නියෝගය කල්යයි
+### දමිතා රිමාන්ඩ්
+
+*2024-04-05 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195335) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන සිටි ප්‍රවීණ රංගන ශිල්පිණී දමිතා අබේරත්න මහත්මිය සහ ඇගේ සැමියා අප්‍රේල් 17 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+◼️
+
+[Data](articles/5eb89a0a.json)
+
+---
+
+### Damitha Abeyratne and husband remanded
+
+*2024-04-05 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98449/damitha-abeyratne-and-husband-remanded-) · `en`
+
+Actress Damitha Abeyratne and her husband, who was arrested by the Criminal Investigation Department (CID) over an alleged financial fraud, has been remanded on the orders of the Colombo Fort Magistrate’s Court.
+
+Accordingly, the couple will be behind bars on remand until April 17.
+
+The actress and her spouse, who had been wanted by the CID, were arrested after they appeared before the court on Thursday (04).
+
+The CID is investigating Abeyratne and her husband, in connection with their involvement in an alleged money scam.
+
+The Computer Crimes Division of the CID had initiated an investigation into the alleged defrauding of Rs. 3 million by the couple on the promise of employment in South Korea. Subsequently, the CID informed the court that Abeyratne and her husband would be named as suspects of the relevant case.
+
+Accordingly, Fort Magistrate’s Court recently rejected a writ petition filed seeking to prevent their arrest.
+
+...
+
+[Data](articles/21096fbc.json)
+
+---
+
+### දෙදරු පියාට ජීවිතාන්තය දක්වා සිරදඬුවම්
+
+*2024-04-05 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195334) · `si`
+
+හෙරොයින් මත්කුඩු ග්‍රෑම් 6.17ක් සන්තකයේ තබාගෙන ජාවාරම් කිරීමේ චෝදනාවට වරදකරු වූ 42 හැවිරිදි දෙදරු පියෙකුට කොළඹ මහාධිකරණය විසින් ජීවිතාන්තය දක්වා සිර දඬුවම් නියම කළේය.
+
+කොළඹ මහාධිකරණ විනිසුරු ආදිත්‍ය පටබැඳිගේ මහතා විසින් මෙම තීන්දුව ලබාදුනි.
+
+2016 වසරේ අගෝස්තු මස 19 වනදා මහරගම, වත්තේගෙදර ප්‍රදේශයේදී හෙරොයින් මත්කුඩු ග්‍රෑම් 329ක් සමග පොලීසිය විසින් මෙම විත්තිකරුව අත්අඩංගුවට ගෙන තිබුණි.
+
+එහෙත් රජයේ රස පරීක්ෂකවරයා වාර්තාකර තිබුණේ අදාළ හෙරොයින් ප්‍රමාණය තුළ අන්තර්ගත ශුද්ධ හෙරොයින් ප්‍රමාණයේ බර ප්‍රමාණය ග්‍රෑම් 6.17ක් බවයි.
+
+ඉන් අනතුරුව නීතිපතිවරයා විත්තිකරුට එරෙහිව හෙරොයින් මත්කුඩු සන්තකයේ තබාගැනීම සහ ජාවාරම් කිරීම යටතේ චෝදනා ගොනු කළේය.
+
+දීර්ඝ නඩු විභාගයකින් අනතුරුව තීන්දුව ප්‍රකාශයට පත්කළ විනිසුරුවරයා සඳහන් කළේ විත්තිකරුට එරෙහිව පැමිණිල්ල විසින් එල්ලකර තිබූ චෝදනා සාධාරණ සැකයකින් තොරව ඔප්පු වී තිබෙන බවයි.
+
+ඒ අනුව විත්තිකරුට ජීවිතාන්තය දක්වා සිරදඬුවම් නියම කරන බවත් විනිසුරුවරයා නියෝග කළේය.
+
+◼️
+
+[Data](articles/0c5c5034.json)
+
+---
+
+### Vehicle imports allowed only for tourism sector - Siyambalapitiya
+
+*2024-04-05 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98448/vehicle-imports-allowed-only-for-tourism-sector-siyambalapitiya) · `en`
+
+Only vehicles used for the tourism sector have been allowed to import, State Minister of Finance Ranjith Siyambalapitiya has clarified.
+
+Speaking to the media, Siyambalapitiya expressed that the Cabinet of Ministers approved the import of 250 buses and 750 vans intended for the tourism industry.
+
+“With the foreign exchange issue in the country, we restricted the import of vehicles. But in the tourism industry, vehicles older than 6 years cannot be used. Now the vehicles are getting old. That is why the Cabinet of Ministers decided to bring 250 buses and 750 vans for the tourism industry. Only 1000 vehicles are imported”, he added.
+
+At its meeting on April 01, the Cabinet of Ministers green-lighted a proposal tabled by Tourism Minister Harin Fernando to allow importing a total of 1,000 buses and vans to improve the transportation facilities provided to tourists.
+
+...
+
+[Data](articles/e704a829.json)
+
+---
+
+### Dr. Kapila Wickremanayake's petitions postponed
 
 *2024-04-05 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195333) · `si`
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටින වෛද්‍ය සැපයීම් අංශයේ අධ්‍යක්ෂ වෛද්‍ය කපිල වික්‍රමනායක මහතා රක්ෂිත බන්ධනාගාර ගත කිරීමට එරෙහිව ගොනුකර තිබෙන රිට් පෙත්සමේ අතුරු ඉල්ලීම් පිළිබඳ නියෝගය ප්‍රකාශ කිරීම අභියාචනාධිකරණය විසින් ලබන 09 වනදා දක්වා කල් තැබීය.
+Dr. Kapila Wickremanayake's petitions postponed. Court of Appeal adjourned to announce order on Tuesday. Maligakanda Magistrate's decision to be remanded, contradicted by law, and petition filed for bail.
 
-එම නියෝගය අද (05) අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් මහතා විසින් ප්‍රකාශයට පත් කිරීමට නියමිතව තිබිණි.
+🟩
 
-එහෙත් විනිසුරුවරයා කියා සිටියේ, එම නියෝගය ලබන අඟහරුවාදා (09) ප්‍රකාශයට පත් කරන බවය.
+The Court of Appeal adjourned to the Order of the Director of Medical Supplies Division of the Medical Supply Division of the Medical Supply Division of the Medical Supply Division of the Medical Support Division of the Director of Medical Supported Vaccine Purchasing Procedure.
 
-තමන්ව රක්ෂිත බන්ධනාගාර ගත කිරීමට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය කරනු ලැබූ තීරණය නීතියට පටහැනි බවත් එබැවින් තමන්ව ඇප මත මුදාහරින ලෙසත් ඉල්ලමින් අදාළ වෛද්‍යවරයා සිය නීතිඥවරු මාර්ගයෙන් මෙම පෙත්සම ඉදිරිපත් කර තිබේ.
+The order is today (05) by the Court of Appeal. N. Samarakoon was to be announced by Mr. Samarakoon.
+
+However, the judge said that the order will be announced on Tuesday (09).
+
+Maligakanda Magistrate's decision to be remanded, the decision was contradicted to the law and that the petition has been filed by his lawyers demanding them to be released on bail.
 
 ◼️
 
 [Data](articles/b115961f.json)
+
+[Extended Data](ext_articles/b115961f.ext.json)
 
 ---
 
@@ -67,6 +149,42 @@ The BJP has also been targeting the two parties for not ensuring the rights of t
 ...
 
 [Data](articles/129adb33.json)
+
+[Extended Data](ext_articles/129adb33.ext.json)
+
+---
+
+### Two killed, six injured in lorry-jumbo accident
+
+*2024-04-05 14:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-killed-six-injured-in-lorry-jumbo-accident/108-280249) · `en`
+
+Matale, Daily Mirror)- Two individuals were killed and six others injured after a lorry that hit a wild elephant toppled over at Wanduramulla on the Moragahakanda-Naula road early this morning.
+
+The initial investigations have revaled that the lorry had hit the wild elephant that attempted to cross the road abruptly.
+
+The injured were admitted to the Kongahawela Hospital and two of them were transfered to the Matale Hospital.
+
+◼️
+
+[Data](articles/cd1b43f1.json)
+
+---
+
+### Ex-Police Officer arrested over stones pelted at hotel housing Japanese Envoy’s spouse
+
+*2024-04-05 14:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ex-Police-Officer-arrested-over-stones-pelted-at-hotel-housing-Japanese-Envoys-spouse/108-280248) · `en`
+
+Buttala, April 5 (Daily Mirror) - A former Chief Inspector of Police has been arrested for allegedly pelting stones at a hotel in Buttala, where the spouse of the Ambassador to Japan was staying last night.
+
+Mariko Mizukoshi, the Ambassador's wife, informed the hotel owner in writing about the incident, prompting the hotel management to lodge a complaint with the Buttala Police.
+
+According to Mizukoshi, she stayed at the hotel on Thursday (04) after travelling from Colombo to attend an official ceremony at the Little Tree Special Needs Children's Centre in the area.
+
+"Somebody threw several stones toward the big window of the wedding hall last night, causing devastating damage to the hotel. As a hotel guest, I was really scared about what happened. Japanese visitors, supporters, and officials from the Japanese Government will all feel scared and anxious if such a thing happens again, as we sometimes come here and stay to visit the Little Tree," she said.
+
+...
+
+[Data](articles/0033fcdd.json)
 
 ---
 
@@ -309,6 +427,18 @@ The suspect, 63, hails from Kalmunai - Maruthamunai area.. The Naval Media Divis
 [Data](articles/166c9a63.json)
 
 [Extended Data](ext_articles/166c9a63.ext.json)
+
+---
+
+### Colombo Shopping Festival launched...
+
+*2024-04-05 12:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Colombo-Shopping-Festival-launched/110-280247) · `en`
+
+The 37th edition of the 'Colombo Shopping Festival', the ultimate shopping paradise, was launched today at the Bandaranaike Memorial International Conference Hall (BMICH). The exhibition will be held till next Thursday (11) from 10 a.m. to 10 p.m. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/b3d57b92.json)
 
 ---
 
@@ -2125,179 +2255,5 @@ The deceased is a 11 -year -old student from Kathmore.
 [Data](articles/144cbe7f.json)
 
 [Extended Data](ext_articles/144cbe7f.ext.json)
-
----
-
-### 291,081 tourists visit last month
-
-*2024-04-05 00:26:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடந்த-மாதத்தில்-291-081-சுற்றுலாப்-பயணிகள்-வருகை/175-335633) · `ta`
-
-Last month, 291,081 tourists visited, with India, Russia, and Germany being the top contributors.
-
-🟩
-
-It has been reported that 291,081 tourists have visited the country last month alone.
-
-The council also noted that the number of tourists from India continues to increase.
-
-Accordingly, 31, 853 from India, 28, 016 from Russia and 18, 324 from Germany have arrived in the country.. (A)
-
-◼️
-
-[Data](articles/1bff2580.json)
-
-[Extended Data](ext_articles/1bff2580.ext.json)
-
----
-
-### Prince Sultan Medical Center, which offers special medical privilege to pilgrims
-
-*2024-04-05 00:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180463) · `ta`
-
-The Prince Sultan Medical Center in Medina provides special medical privileges to pilgrims, offering emergency services and treatment to 12,159 patients, including 4,906 women and 7,253 men, with 37 patients referred to Ministry of Health hospitals. It features 8 clinics, two mobile clinics with 18 emergency beds, and operates as a treatment, nutritional, laboratory, and pharmaceutical center.
-
-🟩
-
-We know that the Saudi Arabian government continues to offer high services and privileges to ease the pilgrimage of the people who visit both sacred places.
-
-In Medina, the Seasonal Medical Center of the Prince Sultan Armed Forces Hospital continues to offer medical and emergency services to the holy Masjid Nabhavi.
-
-The center has released a statistics to describe the number of beneficiaries of its services till last Saturday, of which 12,159 patients, including 4,906 women and 7,253 men, have benefited from emergency treatment.. In addition, 37 patients were nominated for hospitals affiliated with the Ministry of Health.
-
-The center has the most sophisticated facilities for maintaining patients with 8 clinics for providing medical and emergency services to those who visit the mosque.. It has two mobile clinic vehicles with 18 emergency monitoring beds and six monitoring beds each.
-
-...
-
-[Data](articles/2cec23c2.json)
-
-[Extended Data](ext_articles/2cec23c2.ext.json)
-
----
-
-### 2024-04-04 (Thursday)
-
-### Punjab won by 3 wickets to remain in Gujarat in the midst of a stir
-
-*2024-04-04 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180465) · `ta`
-
-Punjab Kings won by 3 wickets against Gujarat Titans in IPL, thanks to Shashanga Singh's half-century and Prabsimran Singh's 35. Gujarat's Shubman Kill scored 50, but Punjab's Shikhar Dhawan lost the match early.
-
-🟩
-
-Punjab Kings won by 3 wickets to remain in Gujarat Titans with the help of a half -century in the Ahmedabad Narendra Modi Stadium on Thursday (04).
-
-In the 17th match of the 17th Indian Premier League chapter in India, the Punjab Kings, who were bowled out for 200 runs, were bowled out for 200 runs by Gujarat Titans, who lost 7 wickets in 19.5 overs.
-
-Shashanga Singh's unbeaten half -century, Prabsimran Singh and Ashutosh Sharma's talented bats confirmed the success of Punjab Kings.
-
-As a result, Gujarat Titans captain Shubman Kill fell as the opening batsman and was half a century.
-
-Team captain Shikhar Dhawan lost the match with one run in the 2nd over and the start of Punjab Kings was not good.
-
-Subsequently, Johnny Bestov (22) and Bribsimran Singh (35) were playing efficiently, but they could not attack for a long time.
-
-Sam Karan (5) lost the game at a short time.
-
-Zimbabwe all player Sikandar Raja lost the game while scoring 15 runs. (111 - 5 wig.)
-
-...
-
-[Data](articles/083dd8a3.json)
-
-[Extended Data](ext_articles/083dd8a3.ext.json)
-
----
-
-### Student documentaries published at the University of Jaffna
-
-*2024-04-04 23:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180464) · `ta`
-
-The University of Jaffna's Media Studies Department screens student documentaries, including 'Thavil Kodu', 'Dawal Kodu', and 'Karainagar', highlighting Tamil traditions, fishing, and the challenges faced by hill people and workers in the brick industry.
-
-🟩
-
-Jaffna University Media Studies Department of Media Studies. University Kailasapati will be screened at the gallery.
-
-'Thavil Kodu', a record of the creation and sophistication of the Tamil tradition, 'Dawal Kodu', 'Karainagar', 'Alaimakal', who talks about the fishing business on their own feet, and the hill people who are waiting for alternative houses instead of burned Lion dwellings in the fire.Brick industry production and related problems in neemwettan;In the menstrual period, in the menstrual period,Talking about the challenges facing
-
-The lifeblood of the life of the lifestyle, which is the time -consuming of the treasures of the Tamil architectural treasures, will showcase the workloads of workers;Documentary films are to be screened, such as the wounds of the police, the challenges of the land rights of the hill country, and the life of the farmers who protect the farmers in the fields.
-
-...
-
-[Data](articles/3b029616.json)
-
-[Extended Data](ext_articles/3b029616.ext.json)
-
----
-
-### Special Notice of the Ministry of Education for O/L, A/L students
-
-*2024-04-04 22:26:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-A-L-மாணவர்களுக்கு-கல்வி-அமைச்சின்-விசேட-அறிவிப்பு/175-335632) · `ta`
-
-The Ministry of Education announced that the GCE Ordinary Level Examination dates are set for mid-May, with GCE Advanced Level results released beforehand.
-
-🟩
-
-Education Minister Susil Premajayantha said that the examinations for conducting the GCE Ordinary Level Examination have been finalized in mid -May.
-
-At the same time, the results of the GCE Advanced Level Examination will be released before the GCE Ordinary Level Examination.. Remble
-
-◼️
-
-[Data](articles/b160097d.json)
-
-[Extended Data](ext_articles/b160097d.ext.json)
-
----
-
-### Corruption case filed against former ‘Laksala’ Chairman and former MD
-
-*2024-04-04 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98435/corruption-case-filed-against-former-laksala-chairman-and-former-md) · `en`
-
-The Commission to Investigation Allegations of Bribery or Corruption (CIABOC) has filed a case with the Colombo High Court against the former Chairman and the former Managing Director of ‘Laksala’, Sri Lanka’s state-owned handicraft marketing organization, over alleged corruption charges.
-
-The Bribery Commission said it has carried out investigations related to a complaint received alleging that the former Chairman and the former Managing Director of ‘Laksala’ have committed corruption offences by awarding the contract for constructing a ‘Laksala’ outlet at the National Museum site, to an unqualified contractor by overriding the decisions of the Board of Directors of the Sri Lanka Handicrafts Board and thereby causing undue losses to the government.
-
-Following thorough investigation into the complaint, a case has been filed with the Colombo High Court by the Bribery Commission against the former Chairman and the former Managing Director of ‘Laksala’ on Thursday (04).
-
-◼️
-
-[Data](articles/407f78a7.json)
-
-[Extended Data](ext_articles/407f78a7.ext.json)
-
----
-
-### Serious revelation of the spread of the disease
-
-*2024-04-04 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195315) · `si`
-
-Scientists at University College London reveal that viruses can spread faster than rats and bats, with 64% of viruses transmitted from humans to animals. This poses a threat to both humans and animals, as the virus can evolve in new hosts, spreading diseases.
-
-🟩
-
-A group of scientists have been able to change the spread of various diseases and accelerates the rats and bats.
-
-According to the research, the disease is more fast than these animals.
-
-The research made by a research team in the university college london of England has revealed that a virus could transmit twice as fast than animals.
-
-According to virus analysis, about 64% of viruses have been transmitted to other animals from the people.
-
-They have also shown that the various activities of humans also contribute to the spread of diseases.
-
-They have pointed out that the destruction of the animals, the destruction of the animals, can transmit different sickness from man from man.
-
-They say this is a threat to humans and animals.
-
-Scientists have pointed out that the spread virus can evolve in the new host, which can spread from humans and animals from animals.
-
-Residents say that it is a continuous threat to species of animals.
-
-...
-
-[Data](articles/2010a57f.json)
-
-[Extended Data](ext_articles/2010a57f.ext.json)
 
 ---

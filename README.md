@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 15:52:16**
+As of **2024-04-05 16:03:46**
 
 ## Newspaper Stats
 
-*Scraped **17,339** Articles*
+*Scraped **17,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 950
 economynextcom | 962
 adalk | 1,463
 tamilmirrorlk | 2,047
-adaderanalk | 2,082
-virakesarilk | 2,525
+adaderanalk | 2,083
+virakesarilk | 2,526
 dailymirrorlk | 2,658
 adaderanasinhalalk | 2,804
 
@@ -26,55 +26,103 @@ adaderanasinhalalk | 2,804
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,336 (100.0%) of 17,339 articles have been extended.
+17,339 (100.0%) of 17,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### ශ්‍රීලනිප දේශපාලන මණ්ඩලය කැඳවන්නැයි නිමල් සිරිපාල ඉල්ලයි
+### EC names SLPP’s Weerasena Gamage to fill vacant MP seat
+
+*2024-04-05 15:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98450/ec-names-slpps-weerasena-gamage-to-fill-vacant-mp-seat) · `en`
+
+Sri Lanka Podujana Peramuna’s Weerasena Gamage has been named by the Election Commission to fill the parliamentary seat that fell vacant following the demise of SLPP MP H. Nandasena.
+
+Anuradhapura District MP Nandasena passed away at the age of 69 on Thursday (05) due to a sudden illness.
+
+Accordingly, Weerasena was next in line on the SLPP list for the Anuradhapura District after securing a total of 38,242 votes upon contesting the 2020 Parliamentary Elections. He managed to place 9th in the preferential votes list.
+
+Following MP Nandasena’s demise, the Acting Secretary General of Parliament informed the Election Commission, in writing, that a seat in the Ninth Parliament had become vacant. This notification was made in terms of Section 64(1) of the Parliamentary Elections Act, No. 1 of 1981.
+
+◼️
+
+[Data](articles/013ce9a4.json)
+
+---
+
+### Nimal Siripala demands SLFP Politbure
 
 *2024-04-05 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195338) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ දේශපාලන මණ්ඩලයේ හදිසි රැස්වීමක් කැඳවන ලෙස එම පක්ෂයේ ජ්‍යේෂ්ඨ උප සභාපති නිමල් සිරිපාල ද සිල්වා මහතා ඉල්ලීමක් කර තිබේ.
+Nimal Siripala de Silva, Senior Vice President, has requested the SLFP Politbure.
 
-එම පක්ෂයේ වැඩබලන ලේකම් දුෂ්මන්ත මිත්‍රපාල මහතා වෙත ලිපියක් යොමු කරමින් නිමල් සිරිපාල ද සිල්වා මහතා එම ඉල්ලීම කර තිබුණි.
+🟩
+
+Senior Vice President Nimal Siripala de Silva has requested the SLFP politics.
+
+Mr. Nimal Siripala de Silva had made a request to the SLFP acting as a letter to the SLFP.
 
 ◼️
 
 [Data](articles/3095b19c.json)
 
+[Extended Data](ext_articles/3095b19c.ext.json)
+
 ---
 
-### ඇම්.ජී. වීරසේන පාර්ලිමේන්තුවට
+### Amg. Weerasena to parliament
 
 *2024-04-05 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195337) · `si`
 
-ඇම්.ජී. වීරසේන මහතාව පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස තෝරා පත්කරන බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+Maha Senevi Weerasena elected MP. Nandasena's seat vacant.
 
-ඒ අභාවප්‍රාප්ත එච්. නන්දසේන මහතා වෙනුවට පුරප්පාඩු වූ මන්ත්‍රී ධුරය වෙනුවෙනි.
+🟩
+
+Amg. The Elections Commission announced that the Maha Senevi Weerasena would be elected as a Member of Parliament.
+
+That passes. Inspecting Mr. Nandasena, the vacant seat is the vacant seat.
 
 ◼️
 
 [Data](articles/02ca5f6f.json)
 
+[Extended Data](ext_articles/02ca5f6f.ext.json)
+
 ---
 
-### පාතාලයට උදව් කළ චීවරධාරියෙක් අත්අඩංගුවට
+### An monk who helped underwhellore
 
 *2024-04-05 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195336) · `si`
 
-රත්ගම විදුර නම් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයාට ආධාර අනුබල දුන් බවට සැක කෙරෙන චීවරධාරියෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A monk linked to Ratgama Vidura, an organized crime gang member, was suspected of aiding in the murder of Ravindu Sanath de Silva on December 18, 2022, near the criminal and Hanwella crossing area. Six suspects, including the monk, were arrested for their alleged involvement in criminal activities.
 
-අදාළ චීවරධාරියා "බූරු මූණා" ට පොලීසියෙන් පළා යෑමට ද උදව්කළ අයෙක් බව පොලීසිය පවසයි.
+🟩
 
-2022 වසරේ දෙසැම්බර් මස 18 වනදා "බූරු මූණා" නැමැති රවිඳු සංඛ ද සිල්වා නම් අපරාධකරු, හංවැල්ල හරස් පාර ප්‍රදේශයේ වෙළෙඳසැලක් තුළදී පුද්ගලයෙකුට වෙඩි තබා ඝාතනය කළේය.
+An monk who was suspected to support the organized crime gang member named Ratgama Vidura.
 
-මේ අතර අදාළ චීවරධාරියා ද සමගින් ඊයේ (04) දිනයේදීත් අපරාධ කල්ලි සඳහා ආධාර අනුබලදුන් සැකකරුවන් 6 දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබිණි.
+Police say that the relevant monk was also helped to flee the 'donkey' to the donkey.
+
+On December 18, 2022, Ravindu Sanath de Silva was shot dead in the opening of the criminal and Hanwella crossing area.
+
+Meanwhile, police arrested six suspects who were aid for criminal gangs yesterday (04) with the relevant monk.
 
 ◼️
 
 [Data](articles/13280c3d.json)
+
+[Extended Data](ext_articles/13280c3d.ext.json)
+
+---
+
+### யானை - மனித முரண்பாடும் அதிகரிக்கும் உயிரிழப்புக்களும் !
+
+*2024-04-05 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180525) · `ta`
+
+யானை - மனித முரண்பாடுகளை தடுப்பது தொடர்பில் ஆட்சிக்கு வரும் அரசாங்கங்கள் பேச்சளவிலேயே செயற்படுகின்றன. முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷ இதற்காக ஒரு குழுவை அமைத்தார் அந்தக் குழுவில் 4 விஞ்ஞானிகளை உள்ளடக்கியிருந்தார். பின்னர் தற்போதைய ஜனாதிபதி மீண்டும் ஒரு குழுவொன்றை அமைத்துள்ளார். சரத்பொன்சேகா அமைச்சராக வந்தபோது, வெளியில் நடமாடும் யானைகளை காடுகளுக்குள் கொண்டு செல்வோமென்றார். வனவிலங்கு மற்றும் வன பாதுகாப்பு அமைச்சர்களாக வருவோர் மாறிமாறி ஒவ்வொரு திட்டங்களையும் தீர்மானங்களையும் செயற்படுத்தப்போவதாக பேச்சளவில் தெரிவிப்பார்கள் ஆனால் அவை எதுவும் நடைமுறைப்படுத்தப்பட்ட வாரலாறுகள் கிடையாது.
+
+◼️
+
+[Data](articles/fa484613.json)
 
 ---
 
@@ -2197,59 +2245,5 @@ A suspect in connection with the incident has been arrested by the Dharmapura po
 [Data](articles/661b4687.json)
 
 [Extended Data](ext_articles/661b4687.ext.json)
-
----
-
-### Retired from politics with parliamentary elections - Minister Douglas
-
-*2024-04-05 02:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180470) · `ta`
-
-Douglas Devananda, Eelam People's Democratic Party Secretary-General and Minister of Fisheries, retires from politics ahead of parliamentary elections. He aims to focus on Tamil people's daily issues and development, lamenting insufficient seats to negotiate with the South. Despite hoping to retire post-last election, he remains involved to complete unfinished tasks.
-
-🟩
-
-Douglas Devananda, Secretary -General of the Eelam People's Democratic Party and Minister of Fisheries, said that he has decided to retire from politics with the upcoming parliamentary election.
-
-He was speaking at a discussion with Samurdhi Officers in Jaffna on Thursday (4).
-
-He added that I have crossed the armed struggle to the politics of politics.
-
-My goal is to get the political daily issue and development of the Tamil people as much as possible in my political period.
-
-Unfortunately, the people did not provide the bargaining power with the South because the seats were not enough.
-
-I only think that the Tamil people need to get something. I do not need to do politics with the people.
-
-I thought I could retire from politics after the last parliamentary election but I was involved in politics with the hope that I could finish some things.
-
-Therefore, I am going to retire politics with the upcoming parliamentary election, so I am going older, ”he added.
-
-◼️
-
-[Data](articles/21ccbdc4.json)
-
-[Extended Data](ext_articles/21ccbdc4.ext.json)
-
----
-
-### Baic X55 II SUV David Peiris Ottomobiles, which have started bookings for vehicles
-
-*2024-04-05 02:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180469) · `ta`
-
-David Peiris Ottomobiles in Sri Lanka has begun bookings for the Baic X55 II SUV, marking a new era with strategic alliance with Nandasri Holdings. The company has secured permission for the domestic value-added program, offering two versions: Honour and Luxury. The Baic X55 II features include 5 seats, 1500cc engine, and advanced safety and comfort features.
-
-🟩
-
-Colombo, 2024 April 4---- Sri Lanka. At the simplest event, 15 customers made deposits for their brand new vehicles and marked the onset of a wonderful journey to David Peiris Ottomobiles and its customers.
-
-David Peiris Otomobiles recently announced that the new new era, which promises Sri Lankan motorists, has established a strategic alliance with the Nandasri Holdings Company Limited to provide quality products and non -customer services.The company has obtained permission to distribute and distribute future vehicle models for the domestic value added program under the Sustainable Operational Procedure introduced in Sri Lanka by the Ministry of Industry and Automatic Manufacturing.
-
-David Peiris Ottomobiles has launched two versions - Baic X55 II Honour vehicle with basic features and Baic X55 II Luxury vehicle with full choices.
-
-...
-
-[Data](articles/5c52ef13.json)
-
-[Extended Data](ext_articles/5c52ef13.ext.json)
 
 ---

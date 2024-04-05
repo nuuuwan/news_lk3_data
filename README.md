@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 14:33:49**
+As of **2024-04-05 14:50:25**
 
 ## Newspaper Stats
 
-*Scraped **17,322** Articles*
+*Scraped **17,324** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ islandlk | 950
 economynextcom | 962
 adalk | 1,461
 tamilmirrorlk | 2,047
-adaderanalk | 2,079
+adaderanalk | 2,080
 virakesarilk | 2,523
 dailymirrorlk | 2,654
-adaderanasinhalalk | 2,798
+adaderanasinhalalk | 2,799
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,322 (100.0%) of 17,322 articles have been extended.
+17,322 (100.0%) of 17,324 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### වෛද්‍ය කපිල වික්‍රමනායකගේ පෙත්සම් නියෝගය කල්යයි
+
+*2024-04-05 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195333) · `si`
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටින වෛද්‍ය සැපයීම් අංශයේ අධ්‍යක්ෂ වෛද්‍ය කපිල වික්‍රමනායක මහතා රක්ෂිත බන්ධනාගාර ගත කිරීමට එරෙහිව ගොනුකර තිබෙන රිට් පෙත්සමේ අතුරු ඉල්ලීම් පිළිබඳ නියෝගය ප්‍රකාශ කිරීම අභියාචනාධිකරණය විසින් ලබන 09 වනදා දක්වා කල් තැබීය.
+
+එම නියෝගය අද (05) අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් මහතා විසින් ප්‍රකාශයට පත් කිරීමට නියමිතව තිබිණි.
+
+එහෙත් විනිසුරුවරයා කියා සිටියේ, එම නියෝගය ලබන අඟහරුවාදා (09) ප්‍රකාශයට පත් කරන බවය.
+
+තමන්ව රක්ෂිත බන්ධනාගාර ගත කිරීමට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය කරනු ලැබූ තීරණය නීතියට පටහැනි බවත් එබැවින් තමන්ව ඇප මත මුදාහරින ලෙසත් ඉල්ලමින් අදාළ වෛද්‍යවරයා සිය නීතිඥවරු මාර්ගයෙන් මෙම පෙත්සම ඉදිරිපත් කර තිබේ.
+
+◼️
+
+[Data](articles/b115961f.json)
+
+---
+
+### ‘No ground’ for India’s request for return of Kachchatheevu: Minister Douglas
+
+*2024-04-05 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98447/no-ground-for-indias-request-for-return-of-kachchatheevu-minister-douglas) · `en`
+
+The statements coming out of India on “reclaiming” Kachchatheevu island from Sri Lanka have “no ground”, the Sri Lankan Minister of Fisheries Douglas Devananda has said.
+
+The senior Sri Lankan Tamil politician’s comments came days after the Narendra Modi government targeted the Congress and its ally the Dravida Munnetra Kazhagam (DMK) in Tamil Nadu accusing them of overlooking national interests in the ceding of Katchatheevu to Sri Lanka in 1974.
+
+The BJP has also been targeting the two parties for not ensuring the rights of the fishermen wanting to fish in waters around the Katchatheevu island.
+
+“It is the election time in India, it is not unusual to hear such noises of claims and counterclaims about Kachchatheevu,” Devananda told reporters in Jaffna on Thursday, 4 April.
+
+“I think India is acting on its interests to secure this place to ensure Sri Lankan fishermen would not have any access to that area and that Sri Lanka should not claim any rights in that resourceful area”, Devananda said.
+
+...
+
+[Data](articles/129adb33.json)
+
+---
 
 ### Vehicles only imported for tourism
 
@@ -2261,41 +2299,5 @@ Residents say that it is a continuous threat to species of animals.
 [Data](articles/2010a57f.json)
 
 [Extended Data](ext_articles/2010a57f.ext.json)
-
----
-
-### Govt aiming to generate USD 2 billion in revenue from gem and jewellery industry – President
-
-*2024-04-04 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98434/govt-aiming-to-generate-usd-2-billion-in-revenue-from-gem-and-jewellery-industry-president) · `en`
-
-President Ranil Wickremesinghe emphasized that the government’s prudent decisions over the past two years have bolstered the nation’s economy, providing a favourable environment for political activities on the streets. However, he cautioned that the economy still faces challenges, urging citizens to weigh the choice of either continuing with the government’s initiatives for prosperity or risking regression.
-
-Highlighting a remarkable increase of over 50% in government income in 2023 compared to 2022, President Wickremesinghe underscored the conducive backdrop for advancing confidently with a robust economy. These remarks were made during his attendance at the inauguration of the International Gem and Jewellery Trade Centre, known as the Ratnapura Gem Tower, this morning (04).
-
-...
-
-[Data](articles/79537049.json)
-
-[Extended Data](ext_articles/79537049.ext.json)
-
----
-
-### Sanath Nishantha's house fire
-
-*2024-04-04 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180461) · `ta`
-
-The Chilaw Magistrate's Court released 68 suspects in the burning of former Secretary of State Sanath Nishantha, citing the death of two key witnesses and their failure to appear in court.
-
-🟩
-
-Attorney -at -Law Swini Perera, appearing on behalf of the suspects, said that the Chilaw Magistrate's Court on Thursday (04) decided to release the 68 suspects who were produced before the Chilaw Magistrate's Court over the burning of former Secretary of State Sanath Nishantha.
-
-The lawyer added that the court has decided to release the suspects due to the death of two witnesses in the case and failed to present the witnesses in court.
-
-◼️
-
-[Data](articles/3d9ab01d.json)
-
-[Extended Data](ext_articles/3d9ab01d.ext.json)
 
 ---

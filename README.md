@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 18:33:45**
+As of **2024-04-05 18:52:31**
 
 ## Newspaper Stats
 
-*Scraped **17,368** Articles*
+*Scraped **17,370** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 153
-bbccomsinhala | 181
+bbccomsinhala | 182
 dbsjeyarajcom | 210
 newsfirstlk | 363
 dailyftlk | 944
@@ -18,7 +18,7 @@ economynextcom | 962
 adalk | 1,465
 tamilmirrorlk | 2,048
 adaderanalk | 2,088
-virakesarilk | 2,534
+virakesarilk | 2,535
 dailymirrorlk | 2,659
 adaderanasinhalalk | 2,811
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,811
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,367 (100.0%) of 17,368 articles have been extended.
+17,368 (100.0%) of 17,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### இஸ்ரேலுக்கு ஆயுத விற்பனையை நிறுத்தக் கோரி மனித உரிமைகள் பேரவை தீர்மானம்
+
+*2024-04-05 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/180547) · `ta`
+
+இஸ்ரேலுக்கான அனைத்து ஆயுத விற்பனையையும் நிறுத்துமாறு ஐ.நா. மனித உரிமைகள் பேரவை வலியுறுத்தியுள்ளது.
+
+இதற்கான தீர்மானம் இன்று நிறைவேற்றப்பட்டது. 47 நாடுகள் அங்கம் வகிக்கும் இப்பேரவையில் 28 நாடுகள் தீர்மானத்துக்கு ஆதரவாக வாக்களித்தன. 6 நாடுகள் எதிராக வாக்களித்தன. 13 நாடுகள் வாக்களிப்பில் பங்குபற்றவில்லை.
+
+காஸா யுத்தத்தினால் 33,000 இற்கும் அதிகமானோர் கொல்லப்பட்டுள்ள நிலையில் இனப்படுகொலை அபாயம் உள்ளதை சுட்டிக்காட்டி இத்தீர்மானம் நிறைவேற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/06faf996.json)
+
+---
 
 ### China gives visit to Sri Lanka - Sri Lankan cleric
 
@@ -468,21 +484,29 @@ The decision was taken at the meeting of the Parliamentary Business Committee ch
 
 ---
 
-### පාසල් භුමියේ තිබූ බොක්කුවක් ඇග මතට පෙරලිමෙන් පාසල් සිසුවෙකු මරුට
+### Schoolgirl dies after filing a bay in school premises
 
 *2024-04-05 16:18:34* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-භුමියේ-තිබූ-බොක්කුවක්-ඇග-මතට-පෙරලිමෙන්-පාසල්-සිසුවෙකු-මරුට/11-408971) · `si`
 
-තේ වත්තක සංවර්ධන කටයුත්තක් සදහා රැගෙන විත් පාසල් භුමියේ ගොඩගසා තිබු කොන්ක්‍රිට් බොක්කුවක් ඇග මතට පෙරලිමෙන් බරපතල ලෙස තුවාල ලැබු පාසල් සිසුවෙකු  මස්කෙලිය ප්‍රාදේශිය රෝහල වෙත ඇතුලත් කිරිමෙන් පසු (04) දින ජිවිතක්ෂයට පත් වි ඇති බව මස්කෙලිය පොලිසිය පවසයි.
+A 6th-grade student from Gardmore Kamali Vidyalaya died after being seriously injured in a schoolyard incident, leading to her admission to Maskeliya Divisional Hospital. The incident involved a fight in the toilet area, resulting in her death.
 
-මෙසේ ජිවිතක්ෂයට පත් වි ඇත්තේ මස්කෙලිය ගාඩ්මොර් වතුයායේ පදිංචිව සිටි ගාඩ්මොර් දමිල මහා විද්‍යාලයේ 6 වන වසරේ අධ්‍යාපනය ලබමින් සිටි එස්.අනිෂන් නැමති (11) හැවිරිදි පාසල් සිසුවෙකි.
+🟩
 
-ජිවිතක්ෂයට පත් පාසල් සිසුවා ඔහුගේ මිතුරන් දෙදෙනෙකු සමග (04) දින පස්වරු 1.30 ට පමණ වැසිකිලිය වෙත යාම සදහා පැමිණි අවස්තාවේ පාසල් භුමියේ ගොඩගසා තිබු කොන්ක්‍රිට් බොක්කුවක් පෙරලි පාසල් සිසුවාගේ ඇග මතින් පෙරලිමෙන් පාසල් සිසුවා වැසිකිලියේ බිත්තියට සිරවිමෙන් බරපතල ලෙස තුවාල ලබා ඇත.
+One of the injured schoolgirls who were seriously injured in the Maskeliya Divisional Hospital have been killed after admission to the Maskeliya Divisional Hospital for a tea estate.
 
-පසුව පාසලේ ගුරුවරුන් සහ අසල්වාසින් එක්ව තුවාල ලබා සිටි පාසල් සිසුවා සුවසැරිය ගිලන් රථය මගින් මස්කෙලිය ප්‍රාදේශිය රෝහල වෙත ඇතුලත් කිරිමෙන් පසු සිසුවා ජිවිතක්ෂයට පත් වි ඇත.
+The victims were identified as the 6th year of the 6th year of the Gardmore Kamali Vidyalaya, a resident of the Maskeliya Gardmore Estate (11).
 
-...
+The school student was severely injured in the toilet wall in the field of concrete backed by the Pelai student with two (04) with two of his friends.
+
+Later, the student has been killed in the Maskeliya Divisional Hospital after admission to the Maskeliya Divisional Hospital.
+
+The body of the student at the Maskeliya Pradeshiya Sabha is referred to the post-mortem examination for the post mortem examination for the post mortem examination for the post mortem examination for the post mortem.
+
+◼️
 
 [Data](articles/999e7437.json)
+
+[Extended Data](ext_articles/999e7437.ext.json)
 
 ---
 
@@ -2313,27 +2337,5 @@ However, the Senior Vice President of the party, Prof. Rohana Lakshman Piyadasa 
 [Data](articles/090ad7ae.json)
 
 [Extended Data](ext_articles/090ad7ae.ext.json)
-
----
-
-### Outfit from a large-scale drug network
-
-*2024-04-05 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195318) · `si`
-
-Police arrested suspects in a large-scale drug network, revealing their operations, including drug distribution and use of rented houses.
-
-🟩
-
-Police have been able to hold the information in a large scale drug racket while being arrested under justice operation.
-
-Police said that many suspects were arrested, police said.
-
-The suspects have taken steps to stay in rented houses and distributing drugs throughout the country.
-
-◼️
-
-[Data](articles/851430a9.json)
-
-[Extended Data](ext_articles/851430a9.ext.json)
 
 ---

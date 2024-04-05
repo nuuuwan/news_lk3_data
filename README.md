@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 12:33:48**
+As of **2024-04-05 12:49:59**
 
 ## Newspaper Stats
 
-*Scraped **17,308** Articles*
+*Scraped **17,312** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ islandlk | 950
 economynextcom | 962
 adalk | 1,461
 tamilmirrorlk | 2,046
-adaderanalk | 2,076
-virakesarilk | 2,518
+adaderanalk | 2,077
+virakesarilk | 2,519
 dailymirrorlk | 2,653
-adaderanasinhalalk | 2,794
+adaderanasinhalalk | 2,796
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,303 (100.0%) of 17,308 articles have been extended.
+17,308 (100.0%) of 17,312 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### கல்முனையில் 5,033 வலி நிவாரணி மாத்திரைகளுடன் சந்தேகநபர் கைது!
+
+*2024-04-05 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180498) · `ta`
+
+சட்டவிரோதமான முறையில் விற்பனை செய்வதற்கு தயாராக வைக்கப்பட்டிருந்த 5033 வலி நிவாரணி மாத்திரைகளுடன் கல்முனை பிரதேசத்தில்  ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+கடற்படையினர் மற்றும் பொலிஸார் இணைந்து நேற்று முன்தினம் வியாழக்கிழமை கல்முனை பிரதேசத்தில் முன்னெடுத்த சுற்றிவளைப்பின் மூலம், செல்லுபடியான அனுமதிப்பத்திரம் இன்றி விற்பனை செய்வதற்கு தயாராக வைக்கப்பட்டிருந்த நிலையிலேயே குறித்த வலி நிவாரணி மாத்திரைகள் கைப்பற்றப்பட்டுள்ளதாக கடற்படை ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+இதன் போது கைது செய்யப்பட்ட சந்தேகநபர் 63 வயதுடைய, கல்முனை - மருதமுனை பிரதேசத்தைச் சேர்ந்தவராவார். குறித்த சந்தேகநபர் கைப்பற்றப்பட்ட வலி நிவாரணி மாத்திரைகளுடன் மேலதிக விசாரணைகளுக்காக கல்முனை, மருந்து மற்றும் உணவு பரிசோதனை திணைக்களத்தில் ஒப்படைக்கப்பட்டுள்ளதாக கடற்படை ஊடகப்பிரிவு மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/166c9a63.json)
+
+---
 
 ### Police chief gives undertaking before Supreme Court
 
@@ -48,41 +64,99 @@ During the court proceedings, IGP Tennakoon, through the Additional Solicitor Ge
 
 [Data](articles/0595feb4.json)
 
+[Extended Data](ext_articles/0595feb4.ext.json)
+
 ---
 
-### காஸாவுக்கு எல்லைகள் ஊடான விநியோகங்களை தற்காலிகமாக அனுமதிக்கிறது இஸ்ரேல்
+### Police chief gives undertaking to Supreme Court
+
+*2024-04-05 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98444/police-chief-gives-undertaking-to-supreme-court) · `en`
+
+Inspector-General of Police (IGP) Deshabandu Tennakoon on Friday (05) gave an undertaking to the Supreme Court pertaining to the transfer of five Officers-in-Charge (OICs).
+
+The officers in question, filing a motion before the country’s apex court, had alleged that the transfers given to them after the houses of a number of politicians were torched during the widespread civil unrest in May 2022, were not based on their seniority.
+
+Accordingly, a three-member judge bench led by Chief Justice Jayantha Jayasuriya, on Thursday (04) issued summons directing IGP Tennakoon to appear before the court to present oral submissions regarding the matter. Complying with the order, the police chief arrived at the Supreme Court complex on Friday morning.
+
+During today’s court proceedings, IGP Tennakoon, through the Additional Solicitor General, communicated to the judge bench that the five OICs would be assigned to police stations commensurate with their previous assignments.
+
+◼️
+
+[Data](articles/4bf0323a.json)
+
+---
+
+### Israel temporarily allows for Gaza's borders
 
 *2024-04-05 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180497) · `ta`
 
-தனது எல்லைகளுக்கு ஊடாக காஸாவுக்கு உதவிப்பொருட்கள் விநியோகத்தை தற்காலிகமாக இஸ்ரேல் அனுமதிக்கவுள்ளதாக இஸ்ரேலிய பிரதமர் பெஞ்சமின் நெதன்யாஹுவின் அலுவலகம் இன்று தெரிவித்துள்ளது.
+Israeli Prime Minister Benjamin Netanyahu's office today announced that Israel will temporarily allow Gaza to distribute assistance through his borders.
 
-இதன்படி, காஸாவின் வடபகுதியிலுள்ள எரீஸ் கடவையை ஒக்டோபர் 7 ஆம் திகதியின் பின்னர் முதல் தடவையாக இஸ்ரேல் திறக்கவுள்ளது.
+Accordingly, Israel will open the Eris crossing in the northern part of Gaza for the first time since October 7.
 
-அத்துடன், காஸாவின் வடபகுதியிலிருந்து சுமார் 40 கிலோமீற்றர் தூரத்திலுள்ள இஸ்ரேலிய நகரான அஷ்தோத்திலுள்ள துறைமுகத்துக்கு ஊடாக விநியோகங்களை மேற்கொள்ளவும் இஸ்ரேல் அனுமதித்துள்ளதாகவும்,  ஜோர்தானிலிருந்து வரும் உதவிகளை அதிகரிப்பதற்கு அனுமதித்துள்ளதாகவும் இஸ்ரேலிய பிரதமர் அலுவலகம் தெரிவித்துள்ளது.
+The Israeli Prime Minister's Office said that Israel has allowed distribution through the port of Israeli city of Ashdot, about 40 kilometers from the northern part of Gaza, and allowed to increase the assistance from Jordan.
 
-காஸா விடயத்தில் தனது கொள்கையில் கடும் மாற்றம் ஏற்படலாம் என  அமெரிக்க எச்சரித்த சில மணித்தியாலங்களில் இஸ்ரேல் இந்த அறிவிப்பை விடுத்துள்ளது.
+Israel made the announcement within hours of the US warning that Gaza's policy could change its policy.
 
 ◼️
 
 [Data](articles/ca77771d.json)
 
+[Extended Data](ext_articles/ca77771d.ext.json)
+
 ---
 
-### உயர் நீதிமன்றத்தில் முன்னிலையான தேசபந்து
+### Patriot who appears in the Supreme Court
 
 *2024-04-05 12:10:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்-நீதிமன்றத்தில்-முன்னிலையான-தேசபந்து/175-335643) · `ta`
 
-பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் இன்று (05) காலை உயர் நீதிமன்றத்திற்கு வந்துள்ளார்.
+Inspector General of Police Deshabandu Tennakoon arrived in the High Court this morning.
 
-அரகலவின் பின்னர் இடமாற்றம் செய்யப்பட்ட 05 பொலிஸ் நிலைய பொறுப்பதிகாரிகள் சமர்ப்பித்துள்ள அடிப்படை உரிமை மனுக்கள் தொடர்பிலான விசாரணைகளுக்காக அவர் அங்கு வந்துள்ளார்.
+He has come to investigate the fundamental rights petitions submitted by five police officers who were transferred after Arakala.
 
-இடமாற்றம் செய்யப்பட்ட ஐந்து பொலிஸ் நிலைய பொறுப்பதிகாரிகளுக்கு பொருத்தமான பொலிஸ் நிலையங்கள் வழங்கப்படாமை தொடர்பாக அவர்களது சட்டத்தரணிகள் உயர் நீதிமன்றத்தில் மனு தாக்கல் செய்தனர்.
+Their lawyers filed a petition in the Supreme Court regarding the lack of relevant police stations to five transferred police officers.
 
-இது தொடர்பில் விசாரிப்பதற்காக உயர் நீதிமன்றத்தில் ஆஜராகுமாறு பொலிஸ்மா அதிபருக்கு நீதிமன்றம் நோட்டீஸ் அனுப்பியது.
+The court sent a notice to the Inspector General of Police to appear before the High Court to investigate the matter.
 
 ◼️
 
 [Data](articles/8b5d89af.json)
+
+[Extended Data](ext_articles/8b5d89af.ext.json)
+
+---
+
+### වැඩ තහනමට ලක්වූ නීතිඥයාට ඇප
+
+*2024-04-05 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195329) · `si`
+
+අධිකරණයට අපහාස කිරීම සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටි වැඩ තහනමට ලක්ව සිටින නීතිඥවරයෙකු වන සුසිල් ජයතුංග මහතා ඇප මත මුදා හැරීමට ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
+
+ඒ අනුව එම පුද්ගලයා රුපියල් ලක්ෂ පහක පුද්ගලික ඇප මත මුදා හැරීමට නියෝග කළ ශ්‍රේෂ්ඨාධිකරණය සෑම මසකම පළමු සඳුදා ශ්‍රේෂ්ඨාධිකරණයේ රෙජිස්ට්‍රාර්වරයා  හමුවේ පෙනී සිට වාර්තා කළ යුතු බවටත් නියෝග කෙරිණි.
+
+එමෙන්ම සෑම වසරකම දෙවන සහ හතර වන සඳුදා, පොළොන්නරුව මහාධිකරණ රේජිස්ට්‍රාර්වරයා හමුවේ පෙනී සිට වාර්තා කළ යුතු බවත් මෙම ඇප කොන්දේසි කඩකළහොත් යළි ඇප අවලංගු කොට රක්ෂිත බන්ධනාගත කරන බවත් නියෝග කළේය.
+
+සානුකම්පිත හේතුන් පදනම් කරගෙන මෙම ඇපය නියම කරන බව විනිසුරු මඩුල්ල පැවසීය.
+
+◼️
+
+[Data](articles/8fceeb60.json)
+
+---
+
+### අධිකරණයට ආ පොලිස්පතිගෙන් පොරොන්දුවක්
+
+*2024-04-05 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195328) · `si`
+
+අරගල සිද්ධීන්වලින් පසුව මාරුකර හරින ලද පොලිස් ස්ථානාධිපතිවරුන් පස් දෙනෙකුට ඔවුන් පෙර සිටි පොලිස් ස්ථානවලට සමාන්තර පොලිස් ස්ථාන ලබාදීමට කටයුතු කරන බව පොලිස්පතිවරයා අද (05) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුනි.
+
+අදාළ පෙත්සම් අද අගවිනිසුරු ජයන්ත ජයසූරිය මහතා ප්‍රමුඛ ත්‍රිපුද්ගල විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පුද්ගලිකවම අධිකරණයේ පෙනී සිට තිබුණි.
+
+එහිදී පොලිස්පතිවරයා විසින් අතිරේක සොලිසිටර් ජනරාල්වරයා මාර්ගයෙන් අධිකරණයට මේ බව දැනුම්දී සිටියේය.
+
+◼️
+
+[Data](articles/49d5a7fb.json)
 
 ---
 
@@ -95,6 +169,8 @@ A New Year celebration was held this morning at the Gothami Balika Vidyalaya in 
 ◼️
 
 [Data](articles/315e2162.json)
+
+[Extended Data](ext_articles/315e2162.ext.json)
 
 ---
 
@@ -213,6 +289,8 @@ The petitioner stated that the respondent former Minister during a parliamentary
 ◼️
 
 [Data](articles/b9580c9d.json)
+
+[Extended Data](ext_articles/b9580c9d.ext.json)
 
 ---
 
@@ -2159,91 +2237,5 @@ Speaking further chairman Gamini Walaweboda said so further.
 [Data](articles/df9c1af1.json)
 
 [Extended Data](ext_articles/df9c1af1.ext.json)
-
----
-
-### The revelation that brought to the island also brought to the island
-
-*2024-04-04 20:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195312) · `si`
-
-Sri Lanka's cricket team, led by Dananjaya de Silva, successfully completed a tour in Bangladesh, with de Silva praising their decisions and expressing optimism for future matches, including a Test series in England.
-
-🟩
-
-Sri Lanka arrived in the island this afternoon, completing a successful tour of Bangladesh.
-
-Speaking to the media, Sri Lanka Test leader Dananjaya de Silva said that all the decisions they took to date have all been right.
-
-Sri Lanka Test leader Dananjaya de Silva, who spoke to the media,
-
-"It's a little hard and a little bit difficult to do with that heat, and to go with that group in that country. Since our group was right, the tournament was able to win the tournament. Another two months to go to England to a Test series. So there's plans to get ready for it. I do not think that 100 percent is right, we learn from cricket that I can be able to achieve these little gifts and win forward tournaments. I get the support you gave before leaders. Before early, leaders also give me a lot of support, so well, bring me the team forward. I hope the decisions I made all my actions are right now. "
-
-◼️
-
-[Data](articles/494be3ae.json)
-
-[Extended Data](ext_articles/494be3ae.ext.json)
-
----
-
-### Bourse driven onwards by banking sector counters
-
-*2024-04-04 20:38:00* · [`islandlk`](http://island.lk/bourse-driven-onwards-by-banking-sector-counters/) · `en`
-
-The stock market got off to a positive start yesterday mainly due to banking sector counters performing well throughout the day. A Central Bank’s recent analysis revealed that the local banking sector has a healthy outlook and need not require any capital infusion from the government to run and operate. This factor stimulated the market, analysts said.
-
-The stock market performed on a bullish note throughout the day. Both local and foreign investors were active on the trading floor and the banking sector counters moved the market to positive territory, thus creating a healthy sentiment for the market.
-
-...
-
-[Data](articles/617bd2a6.json)
-
-[Extended Data](ext_articles/617bd2a6.ext.json)
-
----
-
-### IGP is personally sitting in the Supreme Court
-
-*2024-04-04 20:35:33* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පතිට-පෞද්ගලිකවම-ශ්‍රේෂ්ඨාධිකරණයේ-පෙනී-සිටිමට-නියම-කරයි/11-408964) · `si`
-
-IGP in Supreme Court: Five police officers not transferred to prevent MPs' damage. 14 OICs filed rights petitions, alleging violations. IGP ordered to provide facts. Judges to explain incident fully.
-
-🟩
-
-The Supreme Court yesterday (Parabow Tennakoon prescribed the Supreme Court yesterday) to address the Supreme Court today to address the Supreme Court today following action to distribute to other police stations to prevent damage to the MPs in the struggle..
-
-The Supreme Court added that the five police officers who were not taken to prevent further police stations according to seniority.Then the Supreme Court prescribed them.
-
-CJ Jayantha Jayasuriya, Supreme Court Judge Gamini Amarasekera and Mrs. Gamini Amarasekera and Mrs. Gamini Amarasekera and Mrs. Gamini Amarasekera and Mrs. Gamini Amarasekera and Mrs. Gamini Amarasekera and Mrs. Gamini Amarasekera and Holdipola were the OIC of the former Police OIC RM. Wasantha Kumara, Dambulla Headquarters Inspector AR. Perera, former US Headquarters Inspector of Negombo and former OIC Dinitawatte, Vasana Wattegama and the Wariyapola, Dinitawatte, were presented to court.
-
-...
-
-[Data](articles/bc946bcd.json)
-
-[Extended Data](ext_articles/bc946bcd.ext.json)
-
----
-
-### G.L. Under allies with six ejust with
-
-*2024-04-04 20:30:41* · [`adalk`](https://www.ada.lk/breaking_news/ජී-එල්--සමග-හයක්-සජබ-සමග-සන්ධානගත-වෙයි/11-408963) · `si`
-
-The Alliance (Janight) is holding its event today at the Bandaranaike International Conference Hall. Prof. G. L. Attorney-at-Law Dilan Perera, among others, criticizes the government for repression and corruption. The coalition of UPFA and the mainstill aims to support opposition in future elections.
-
-🟩
-
-The Alliance (Janight) is due to be held on the Bandaranaike International Conference Hall today (5) at the Bandaranaike International Conference Hall.
-
-Accordingly, the former Chairman of the Sri Lanka Civil Aru Kumara Chairman, Prof. G. L. Attorney-at-Law Dilan Perera, legal Dilan Perera, Dr. Vasantha Bandara, Dr. Upul Galappa Bandara, Dr. Upul Galappara, KPS Kumarasiri representing the Jana UP.
-
-Speaking on the publication of the People's Council states that their parties acted in the entire government's repressive and corruption.
-
-Accordingly, the coalition of the UPFA and the mainstill, said that it would also play a broader role in the victory of the opposition in future elections.
-
-◼️
-
-[Data](articles/1ebefc1c.json)
-
-[Extended Data](ext_articles/1ebefc1c.ext.json)
 
 ---

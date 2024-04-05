@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 23:52:45**
+As of **2024-04-06 00:03:23**
 
 ## Newspaper Stats
 
-*Scraped **17,408** Articles*
+*Scraped **17,409** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 951
 economynextcom | 972
 adalk | 1,466
 tamilmirrorlk | 2,051
-adaderanalk | 2,093
+adaderanalk | 2,094
 virakesarilk | 2,539
 dailymirrorlk | 2,666
 adaderanasinhalalk | 2,817
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,397 (99.9%) of 17,408 articles have been extended.
+17,397 (99.9%) of 17,409 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### Sri Lanka settled USD 2bn worth of foreign debt and interest, govt. says
+
+*2024-04-05 23:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98460/sri-lanka-settled-usd-2bn-worth-of-foreign-debt-and-interest-govt-says) · `en`
+
+Mr. Rajith Keerthy Tennakoon, President Director General of Community Affairs says that after between President Ranil Wickremesinghe’s assumption of office and February 2024, the Sri Lankan government has settled a total of USD 1909.7 million in foreign debt and interest payments.
+
+He also highlighted that from 21 July 2022 to February 2024, the government has disbursed $1338.8 million in multilateral loans and interest, with no outstanding arrears in loan instalments or interest payments up to February 2024. Mr. Rajith Keerthi Tennakone conveyed this information during a special media statement today (05).
+
+According to the Department of External Resources, payments totalling USD 760.1 million have been made to the Asian Development Bank and USD 7.0 million to the Asian Infrastructure Investment Bank.
+
+...
+
+[Data](articles/42399b19.json)
+
+---
 
 ### Govt. says it settled USD 2bn worth of foreign debt and interest
 
@@ -2277,25 +2293,5 @@ Come with us to carry out a long -standing separatist politics, to end the ethni
 [Data](articles/199238ba.json)
 
 [Extended Data](ext_articles/199238ba.ext.json)
-
----
-
-### Contempt of court case against Roshan Ranasinghe fixed for July 10
-
-*2024-04-05 11:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Contempt-of-court-case-against-Roshan-Ranasinghe-fixed-for-July-10/108-280234) · `en`
-
-Colombo, April 5 (Daily Mirror)- The Contempt of Court application filed against former Sports Minister Roshan Ranasinghe was today fixed for July 10 by the Court of Appeal.
-
-Attorney-at-Law Dimitri Shiraz Augustus Pietrangeli, filed this application challenging the alleged contemptuous conduct of the former Sports Minister during a parliamentary session on November 8, 2023.
-
-The petitioner is further seeking an order to impose sentence on the former Minister for contempt of court under Article 105(3) of the Constitution.
-
-The petitioner stated that the respondent former Minister during a parliamentary session on November 8 made several allegations regarding the alleged motives and reasons for the issuance of interim orders by Justice Nissanka Bandula Karunaratne.
-
-◼️
-
-[Data](articles/b9580c9d.json)
-
-[Extended Data](ext_articles/b9580c9d.ext.json)
 
 ---

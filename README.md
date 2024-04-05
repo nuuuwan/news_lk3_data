@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 22:33:49**
+As of **2024-04-05 22:51:42**
 
 ## Newspaper Stats
 
-*Scraped **17,396** Articles*
+*Scraped **17,397** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,60 @@ adalk | 1,466
 tamilmirrorlk | 2,051
 adaderanalk | 2,092
 virakesarilk | 2,539
-dailymirrorlk | 2,665
+dailymirrorlk | 2,666
 adaderanasinhalalk | 2,817
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,395 (100.0%) of 17,396 articles have been extended.
+17,396 (100.0%) of 17,397 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### අනතුරකින් පුද්ගලයෙක් මියයෑමෙන් නොසන්සුන් තත්ත්වයක්
+### Proportion of Tamil youth in public institutions, tri-forces must be increased: AKD
+
+*2024-04-05 22:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Proportion-of-Tamil-youth-in-public-institutions-tri-forces-must-be-increased-AKD/108-280274) · `en`
+
+Jaffna, April 05 (Daily Mirror)- Claiming that both Sinhala and Tamil people have a right to interact with the State in their own languages, NPP leader Anura Kumara Dissanayake said that the proportion of the Tamil youth in public institutions, tri-forces and important sectors should be increased.
+
+Speaking at the Northern Provincial Conference of Ceylon Teachers Service Union yesterday, he said it was vital to defeat the racial political culture in the country on behalf of the future generation.
+
+"Our main political stream has adopted rival politics so far. Sinhala people in the South were organised against the North. Tamil people in the North were organised against Sinhala people in the South. We need to put a stop to this racial political culture. That is for our future generation," he said.
+
+Dissanayake appealed to Tamil politicians in the North saying that if they were really concerned about the issues faced by the Tamil people, they need to unite.
+
+...
+
+[Data](articles/32a07b1d.json)
+
+---
+
+### A person in danger is a tense situation
 
 *2024-04-05 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195351) · `si`
 
-රිය අනතුරක් නිසා බුලත්සිංහල හල්වතුර ප්‍රදේශයේ අද (05) රාත්‍රියේ නොසන්සුන් තත්ත්වයක් ඇතිවුණි.
+A man was hit by a motorcycle in Bulathsinhala, Haltle town, and died instantly. The motorcyclist was arrested.
 
-අද රාත්‍රි 8.30ට පමණ බුලත්සිංහල හල්වතුර ප්‍රදේශයේ, ඉංගිරියේ සිට බුලත්සිංහල දෙසට ධාවනය වූ යතුරු පැදියක පුද්ගලයෙක් ගැටී තිබිණි.
+🟩
 
-පාරමාරු වෙමින් සිටියදී මෙම පුද්ගලයා යතුරු පැදියේ ගැටී ඇති අතර ඔහු එම ස්ථානයේදීම ජීවිතක්ෂයට පත්වු බව අප වාර්තාකරු සඳහන් කළේ.
+Due to an accident, Bulathsinhala was unrest in Haltle town last night.
 
-පොලීසිය මැදිහත් වී ගින්න පාලනයට උත්සාහ දැරුව ද ඒවන විටත් යතුරු පැදිය මුළුමනින්ම  විනාශ වී තිබූ වාර්තා වී තිබිණි.
+A man was hit by a motorcycle from Ingiriya to Bulathsinhala, Bulathsinhala around 8.30 pm.
 
-අනතුරට හේතුව මෙතෙක් අනාවරණ වී නොමැති අතර යතුරුපැදිකරු බුලත්සිංහල පොලීසිය මඟින් අත්අඩංගුවට ගනු ලැබීය.
+Our correspondent stated that the man was hit by the motorcycle while he was priesting and he died on the spot.
+
+The police intervened and tried to climb fire, but also the motorcycle was completely destroyed.
+
+The cause of the accident has been revealed, and the motorcyclist was arrested by the Bulathsinhala police.
 
 ◼️
 
 [Data](articles/e5597205.json)
+
+[Extended Data](ext_articles/e5597205.ext.json)
 
 ---
 
@@ -2295,37 +2319,5 @@ Professor GL Perera, Dilan Perera, Dr. Nalaka Godahewa, KP Kumarasiri, Dr. Upul 
 [Data](articles/423e45dd.json)
 
 [Extended Data](ext_articles/423e45dd.ext.json)
-
----
-
-### 'How I Write': Tasnani Resaman Fernando
-
-*2024-04-05 10:21:27* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cekellgxgmmo) · `si`
-
-Tasnani Resause Fernando, a novelist, explores social, political, and theological themes in her work, introducing new aesthetics in Sinhala literature. Her writing process involves understanding her feelings and experiences, influenced by her Catholic background and theology.
-
-🟩
-
-Tasnani Resause Fernando is alert as a novelist in a novel. 'Jazones Dilan' is her second novel.
-
-She can be considered a newest aesthetics in contemporary Sinhala literature, introducing social political activism, theology, and secularity.
-
-When she talked to her as a novel, she to understand her feelings and writing when she was in a note.
-
-The questions I hear in this discussion is currently published by the 'History of Nimna' (2019) and the novels of this secret wind.
-
-It is well known for all writer's writing process.
-
-Where writing, how to write, how to write, and the joy of writing, the writer's abundance. The conversation is seeking to pointer to that secret site of the newcomers.
-
-The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
-
-Easice: I would like to hear from you to start this conversation.
-
-...
-
-[Data](articles/ccd1abfc.json)
-
-[Extended Data](ext_articles/ccd1abfc.ext.json)
 
 ---

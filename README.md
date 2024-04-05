@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 18:52:31**
+As of **2024-04-05 19:03:10**
 
 ## Newspaper Stats
 
-*Scraped **17,370** Articles*
+*Scraped **17,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,94 @@ adalk | 1,465
 tamilmirrorlk | 2,048
 adaderanalk | 2,088
 virakesarilk | 2,535
-dailymirrorlk | 2,659
-adaderanasinhalalk | 2,811
+dailymirrorlk | 2,663
+adaderanasinhalalk | 2,812
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,368 (100.0%) of 17,370 articles have been extended.
+17,370 (100.0%) of 17,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### இஸ்ரேலுக்கு ஆயுத விற்பனையை நிறுத்தக் கோரி மனித உரிமைகள் பேரவை தீர்மானம்
+### ලොව ළාබාලතම බිලියනපතිනිය වූ 19 හැවිරිදි සිසුවිය
+
+*2024-04-05 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195346) · `si`
+
+ලොව ළාබාලතම බිලියනපතිනිය ලෙස බ්‍රසීල ජාතික විශ්වවිද්‍යාල සිසුවියක්ව ෆෝබ්ස් සඟරාව විසින් නම් කර තිබේ.
+
+19 හැවිරිදි ලිවියා වොයිග්ට් 2024ට අදාළව ෆෝබ්ස් සඟරාව නිකුත් කරන ලද බිලියනපතියන්ගේ ලැයිස්තුවට අනුව ඇතුළත්ව ඇති බව වාර්තා වේ.
+
+ලිවියා වොයිග්ට් මෙලෙස බිලියනපති ලැයිස්තුවට ඇතුළත්ව ඇත්තේ, ලතින් අමෙරිකාවේ ප්‍රකට මෝටර් රථ නිෂ්පාදන සමාගමක තනි කොටස්හිමිකාරිය බවට ඇය පත්වීමත් සමගයි.
+
+ෆෝබ්ස් සඟරාව විසින් මේ වසරට අදාළව නිකුත් කළ බිලියනපතියන් ලැයිස්තුවට ඇතුළත්ව සිටින 25 දෙනෙකුම වයස අවුරුදු 33ට අඩු තරුණ පිරිස් වීම විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/4d8a7c05.json)
+
+---
+
+### China-Sri Lanka Water Research Center inaugurated
+
+*2024-04-05 18:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/China-Sri-Lanka-Water-Research-Center-inaugurated/108-280259) · `en`
+
+April 05 -  The China-Sri Lanka Joint Research and Demonstration Center for Water Technology (JRDC) was inaugurated at the University of Peradeniya, heralding a new era of collaboration and innovation in water research.
+
+The opening ceremony, graced by esteemed dignitaries including Yaping Zhang, Deputy President of the Chinese Academy of Sciences, and Prof DM Lamahewa, Vice Chancellor of the University of Peradeniya, marked the beginning of a promising venture.
+
+This state-of-the-art institute stands as the largest water research facility in South Asia, equipped with cutting-edge technology and machinery aimed at detecting harmful substances in drinking water.
+
+Chronic Kidney Disease (CKD) has emerged as a pressing issue in Sri Lanka, particularly in agricultural regions. The advanced capabilities of the JRDC offer a beacon of hope in addressing this menace, as it focuses on identifying and mitigating the factors contributing to waterborne ailments.
+
+...
+
+[Data](articles/07c439ed.json)
+
+---
+
+### Human Rights Council resolution demanding Israeli stopping arms sales
 
 *2024-04-05 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/180547) · `ta`
 
-இஸ்ரேலுக்கான அனைத்து ஆயுத விற்பனையையும் நிறுத்துமாறு ஐ.நா. மனித உரிமைகள் பேரவை வலியுறுத்தியுள்ளது.
+The Human Rights Council passed a resolution demanding Israel stop arms sales, with 47 out of 28 countries voting in favor, 6 against, and 13 abstaining. The resolution highlights the risk of genocide due to the Gaza War, with over 33,000 deaths.
 
-இதற்கான தீர்மானம் இன்று நிறைவேற்றப்பட்டது. 47 நாடுகள் அங்கம் வகிக்கும் இப்பேரவையில் 28 நாடுகள் தீர்மானத்துக்கு ஆதரவாக வாக்களித்தன. 6 நாடுகள் எதிராக வாக்களித்தன. 13 நாடுகள் வாக்களிப்பில் பங்குபற்றவில்லை.
+🟩
 
-காஸா யுத்தத்தினால் 33,000 இற்கும் அதிகமானோர் கொல்லப்பட்டுள்ள நிலையில் இனப்படுகொலை அபாயம் உள்ளதை சுட்டிக்காட்டி இத்தீர்மானம் நிறைவேற்றப்பட்டுள்ளது.
+UN to stop all arms sales for Israel. The Human Rights Council has emphasized.
+
+The resolution was passed today. The 47 countries, which are part of the 28 countries, voted in favor of the resolution. 6 countries voted against. 13 countries did not participate in the vote.
+
+The resolution has been passed, pointing out that there is a risk of genocide as more than 33,000 people have been killed by the Gaza War.
 
 ◼️
 
 [Data](articles/06faf996.json)
+
+[Extended Data](ext_articles/06faf996.ext.json)
+
+---
+
+### South Africa all-rounder reprimanded for breaching ICC Code of Conduct
+
+*2024-04-05 18:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/South-Africa-all-rounder-reprimanded-for-breaching-ICC-Code-of-Conduct/108-280256) · `en`
+
+Apr. 5 (ICC) - The incident happened during the third and final T20I between South Africa and Sri Lanka on 3 April.
+
+Proteas all-rounder Marizanne Kapp has been found guilty of breaching Level 1 of the ICC Code of Conduct during the T20I between South Africa and Sri Lanka in East London on Wednesday, 3 April.
+
+Kapp has been reprimanded for violating Article 2.5 of the ICC Code of Conduct for Players and Player Support Personnel, which relates to “using language, actions or gestures which disparage or which could provoke an aggressive reaction from a batter upon his/her dismissal during an International Match.”
+
+The incident took place in the 13th over of the Sri Lanka innings when Kapp used inappropriate language and gestured in the direction of the pavilion after dismissing skipper Chamari Athapaththu.
+
+As a result, one demerit point has been added to Kapp’s disciplinary record, for whom it was the first offence in a 24-month period.
+
+...
+
+[Data](articles/91f2c11a.json)
 
 ---
 
@@ -607,6 +669,22 @@ In particular, China's production capacity is a problem for many countries inclu
 [Data](articles/18a728c3.json)
 
 [Extended Data](ext_articles/18a728c3.ext.json)
+
+---
+
+### Damitha Abeyratne and husband remanded
+
+*2024-04-05 15:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Damitha-Abeyratne-and-husband-remanded/108-280257) · `en`
+
+Colombo, April 05 - Sri Lankan actress Damitha Abeyratne and her husband, who were arrested over the allegations of financial fraud, were remanded until April 17.
+
+The arrest, made by the Criminal Investigations Department (CID), saw the couple produced before the Fort Magistrate’s Court today.
+
+Their legal saga intensified after they surrendered to the Fort Magistrate’s Court yesterday in response to the financial scam allegations.
+
+◼️
+
+[Data](articles/826d4169.json)
 
 ---
 
@@ -2138,6 +2216,24 @@ He said the SLHRC had received 9,417 public complaints against the police for 20
 
 ---
 
+### 24 suspects died in police custody last year
+
+*2024-04-05 08:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/24-suspects-died-in-police-custody-last-year/155-280221) · `en`
+
+Colombo, April 5 (Daily Mirror) - Sri Lanka Human Rights Commission (SLHRC) has reported that 24 suspects had died in police custody last year.
+
+Chairman of the Commission Attorney at Law Nimal Punchihewa said killing in police shootings when suspects were taken to secret locations to recover weapons had been reported frequently and that it was the responsibility of the OIC of the police station to provide protection to the suspects in custody.
+
+He said that two suspects had died in police custody in the last two months.
+
+He said the SLHRC had received 9,417 public complaints against the police for 2023 and 44 of them referred to incidents in the Yukthiya operation.
+
+◼️
+
+[Data](articles/e6ea4e32.json)
+
+---
+
 ### ’’Most eligible recipient’’: Sri Lankan monk on presenting sacred Buddha relics to Dalai Lama
 
 *2024-04-05 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Most-eligible-recipient-Sri-Lankan-monk-on-presenting-sacred-Buddha-relics-to-Dalai-Lama/107-280219) · `en`
@@ -2215,127 +2311,5 @@ Falling prey to the scams are about 500 foreign maids from South Asian countries
 [Data](articles/dc8a8ac3.json)
 
 [Extended Data](ext_articles/dc8a8ac3.ext.json)
-
----
-
-### SOE reforms must move ahead without disruptions: Shah
-
-*2024-04-05 08:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SOE-reforms-must-move-ahead-without-disruptions-Shah/108-280211) · `en`
-
-SOERU head says slowdown depends very much on the politicians
-
-Says process must continue regardless of which party comes into power
-
-Advocata institute says current pace “just enough” for SL to avoid another crisis, but not enough move towards positive trajectory
-
-It is essential for the reforms planned for the government owned entities to go ahead without further disruptions, else it is the general public that will continue to take on the burden, State Owned Enterprises Restructuring Unit (SOERU) Head Suresh Shah said.
-
-When questioned if the upcoming elections will slow down efforts, as cautioned by the World Bank (WB) and the Asian Development Bank (ADB), Shah responded stating it better not be the case.
-
-“Whether it will slow down or not depends very much on the politicians and how they look at it. We can only hope there is no slowdown,” said Shah, speaking to Mirror Business on the sidelines of an ADB event this week.
-
-...
-
-[Data](articles/b4744265.json)
-
-[Extended Data](ext_articles/b4744265.ext.json)
-
----
-
-### 8 year old child dies in accident
-
-*2024-04-05 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195320) · `si`
-
-An 8-year-old child died in a three-wheeler crash on Udakampala road, Tangalle. A 13-year-old girl also died after hitting a lorry in Uzwewa.
-
-🟩
-
-A three-year-old child was killed after a three-wheeler was crashed.
-
-A tipper and three-wheeler facing the face of a three-wheeler in Udakampala road on the Tangalle main road in the Tangalle main road.
-
-The three-wheeler was rose in the accident and was admitted to the Tangalle Hospital with a woman and her boy who was traveling seriously in the back seat.
-
-The deceased has been identified as a schoolgirl residing in Bibila, Dantagama.
-
-The woman who was seriously injured in the accident is being treated at the Tangalle Hospital and the three-wheeler driver has been admitted to the hospital and surrenders to the police.
-
-Dickwella police say that the driver of the Tipper has been arrested and investigations into the incident.
-
-Meanwhile, Anamaduwa was also in the Naamanaduwa road yesterday.
-
-A 13-year-old girl who was traveling on the pedestrian shift in the Uzwewa area has hit a lorry and she has died in the accident.
-
-◼️
-
-[Data](articles/08805b21.json)
-
-[Extended Data](ext_articles/08805b21.ext.json)
-
----
-
-### 100 intelligence officers reassigned for security in Colombo
-
-*2024-04-05 07:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/100-intelligence-officers-reassigned-for-security-in-Colombo/108-280217) · `en`
-
-Colombo, April 5 (Daily Mirror) - Around 100 Intelligence Officers from the police in the Western Province have been discharged from their duties and reassigned to security duties in Colombo.
-
-Inspector General of Police Deshabandu Tennakoon had instructed to deploy officers attached to the Intelligence Service in the Western Province for general duties in Colombo to enhance security and prevent crimes like vehicle thefts and gold necklace robberies especially during the Sinhala and Tamil New Year season.
-
-During the last few weeks, the police have intensified operations against the underworld and drug activities island-wide deploying a significant number of personnel for these tasks.
-
-Intelligence officers previously stationed in the Western Province have been redeployed for general duties in Colombo, as the police maintain their special operations against underworld activities and drug trafficking.
-
-...
-
-[Data](articles/ebaa0e7c.json)
-
-[Extended Data](ext_articles/ebaa0e7c.ext.json)
-
----
-
-### Foreigners overstaying visas and doing odd jobs
-
-*2024-04-05 07:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Foreigners-overstaying-visas-and-doing-odd-jobs/155-280216) · `en`
-
-Foreign nationals who overstay their visas and do various odd jobs to earn money continue unabated with the authorities concerned hamstrung with the lack of resources to curb them, an official said.
-
-In one instance, another group of 15 foreigners overstaying their visas in Sri Lanka and doing online jobs for a living were arrested by an investigation team of the Department of Immigration and Emigration during raids in Colombo and Dehiwala yesterday.
-
-Eleven of them were Indians from Bihar, Andhra Pradesh, Uttharakhand, Gujarat and Maharashtra states and others Napalese aged between 20 and 30.
-
-Initial investigations revealed that some of them had arrived on resident visas and others on tourist visas
-
-A senior official of the Department of Immigration and Emigration said the suspect foreigners would be further interrogated at the Mirihana Detention Centre and deported after court proceedings.
-
-...
-
-[Data](articles/208194d4.json)
-
-[Extended Data](ext_articles/208194d4.ext.json)
-
----
-
-### Whose is the SLFP right now?
-
-*2024-04-05 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195319) · `si`
-
-SLFP's leadership is currently under dispute, with an injunction issued by the Colombo District Court preventing Maithripala Sirisena from leading the party. The decision is based on the party's central committee, with Prof. Rohana Lakshman Piyadasa emphasizing the judiciary's role in the process.
-
-🟩
-
-The Sri Lanka Freedom Party Vice President Professor Rohana Lakshman Piyadasa says that the political decision of the party is based on the party's central committee.
-
-The Colombo District Court yesterday issued an enjoining order preventing Mr. Maithripala Sirisena who was the Chairman of the Sri Lanka Freedom Party (SLFP).
-
-The injunction had issued the Weliatha, the District Judge of the Freedom Party (SLTD).
-
-However, the Senior Vice President of the party, Prof. Rohana Lakshman Piyadasa said that although the judiciary was issued by a legal explanation in the process of a legal explanation.
-
-◼️
-
-[Data](articles/090ad7ae.json)
-
-[Extended Data](ext_articles/090ad7ae.ext.json)
 
 ---

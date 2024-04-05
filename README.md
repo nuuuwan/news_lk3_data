@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 09:33:48**
+As of **2024-04-05 09:53:50**
 
 ## Newspaper Stats
 
-*Scraped **17,270** Articles*
+*Scraped **17,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ dailyftlk | 944
 islandlk | 950
 economynextcom | 957
 adalk | 1,458
-tamilmirrorlk | 2,042
-adaderanalk | 2,068
+tamilmirrorlk | 2,044
+adaderanalk | 2,069
 virakesarilk | 2,511
-dailymirrorlk | 2,648
+dailymirrorlk | 2,649
 adaderanasinhalalk | 2,789
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,268 (100.0%) of 17,270 articles have been extended.
+17,270 (100.0%) of 17,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### ஜனாதிபதிக்கும் பசிலுக்கும் இடையில் சந்திப்பு
+
+*2024-04-05 09:27:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கும்-பசிலுக்கும்-இடையில்-சந்திப்பு/175-335639) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் ஸ்தாபகர் பசில் ராஜபக்ஷவுக்கும் இடையில் மற்றுமொரு கலந்துரையாடல் இடம்பெற்றுள்ளது.
+
+எதிர்வரும் அரசியல் விவகாரங்கள் மற்றும் தேர்தல்கள் தொடர்பிலும் பல விடயங்கள் கலந்துரையாடப்பட்டதாக ஸ்ரீ லங்கா பொதுஜன பெரமுன குறிப்பிட்டுள்ளது.
+
+பசில் ராஜபக்ஷவுக்கும் ரணில் விக்கிரமசிங்கவுக்கும் இடையில் இதற்கு முன்னர் இரண்டு கலந்துரையாடல்கள் இடம்பெற்றிருந்தன.
+
+◼️
+
+[Data](articles/8296ab19.json)
+
+---
+
+### 'இரண்டு தேர்தல்களை ஒரே நாளில் நடத்த முடியாது'
+
+*2024-04-05 09:24:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-தேர்தல்களை-ஒரே-நாளில்-நடத்த-முடியாது/175-335638) · `ta`
+
+ஜனாதிபதி தேர்தலையும் பொதுத் தேர்தலையும் ஒரே நாளில் நடத்துவது சாத்தியமில்லை என தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+
+இந்த நாட்டில் தேர்தல் நடத்தும் முறைப்படி அது நடைமுறைச் சாத்தியம் இல்லை என்று மூத்த அதிகாரி ஒருவர் தெரிவித்தார்.
+
+ஜனாதிபதித் தேர்தலையும் பொதுத் தேர்தலையும் ஒரே நாளில் நடத்துவதற்கு ஏற்பாடுகள் இருப்பதாக அரசியல் கட்சிப் பிரதிநிதிகள் தெரிவித்த கருத்து குறித்து கேட்டபோதே தேர்தல்கள் ஆணைக்குழு இதனைத் தெரிவித்துள்ளது.
+
+ஜனாதிபதித் தேர்தலுக்கு நாடளாவிய ரீதியில் ஒரே ஒரு உத்தியோகபூர்வ வாக்குச் சீட்டு மட்டுமே வழங்கப்படும்.
+
+ஆனால் பொதுத் தேர்தலுக்காக 22 தேர்தல் மாவட்டங்களுக்கு 22 வாக்குச் சீட்டுகள் வழங்கப்பட வேண்டும் என அவர் சுட்டிக்காட்டியுள்ளார்.
+
+மேலும், ஒரே நேரத்தில் இரண்டு தேர்தல்களை நடத்துவது குறித்தும், அங்கு வாக்களிப்பது குறித்தும் இந்த நாட்டில் உள்ள வாக்காளர்களுக்கு சரியான தெளிவு இல்லை என்றும் தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+பல நடைமுறைச் சிக்கல்கள் காரணமாக தற்போது ஜனாதிபதித் தேர்தலையும் பொதுத் தேர்தலையும் ஒரே நாளில் நடத்த முடியாது என தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/6d5ce460.json)
+
+---
 
 ### There is “strong expectation” of Sri Lanka commercial creditor deal: IMF
 
@@ -50,27 +90,35 @@ Kozack also said the macroeconomic policy reforms in Sri Lanka are starting to b
 
 [Data](articles/256f3190.json)
 
+[Extended Data](ext_articles/256f3190.ext.json)
+
 ---
 
-### විශේෂ බස් ධාවනය අද සිට
+### Special bus running from today
 
 *2024-04-05 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195322) · `si`
 
-සිංහල දෙමළ අලුත් අවුරුදු සමය වෙනුවෙන් වූ විශේෂ බස් රථ සේවාව අද (05) සිට ක්‍රියාත්මක කරන බව ලංකා ගමනාගමන මණ්ඩලය පවසයි.
+From today, a Special Bus Service for the Sinhala-Tamil New Year runs, adding 200 buses from Colombo to all areas. The Railway Department also starts a special train service from the 10th, deploying 12 trains daily until the 15th.
 
-උත්සව සමයේ කොළඹ සහ අවට ප්‍රදේශවල සිටින ජනතාවට ගම්බිම් බලායෑම සඳහා මෙම බස් රථ සේවාව ක්‍රියාත්මක වන අතර ඒ සඳහා  අමතර බස් රථ 200ක් පමණ ධාවනයට යොදවන බව එම මණ්ඩලය පැවසීය.
+🟩
 
-ඒ අනුව කොළඹ සිට දිවයිනේ සෑම ප්‍රදේශයකටම මෙම බස් රථ සේවාව ක්‍රියාත්මක වීමට නියමිතය.
+The Special Bus Service for the Sinhala-Tamil New Year is implemented from today (05).
 
-මේ අතර උත්සව සමය වෙනුවෙන් ක්‍රියාත්මක විශේෂ දුම්රිය සේවාව ද ලබන 10 වනදා සිට ක්‍රියාත්මක බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+The bus service will be operated to the village force during the festive season and will run around 200 additional buses.
 
-එම සේවාව යටතේ දෛනිකව විශේෂ දුම්රිය ගමන්වාර 12ක් පමණ යෙදවීමට තීරණය කර ඇති බව එම දෙපාර්තමේන්තුව පැවසීය.
+Accordingly, the bus service will be operated from Colombo to every area of the country.
 
-ඒ අනුව ලබන 15 වනදා දක්වා මෙම විශේෂ දුම්රිය සේවාව ක්‍රියාත්මක වීමට නියමිතව තිබේ.
+Meanwhile, the Railway Department says that a special train service operating for the festive season will also be implemented from the 10th.
+
+The Department has decided to deploy nearly 12 Special trains daily.
+
+Accordingly, the special train service will be implemented until the 15th.
 
 ◼️
 
 [Data](articles/426df9fa.json)
+
+[Extended Data](ext_articles/426df9fa.ext.json)
 
 ---
 
@@ -99,6 +147,24 @@ A group of people who left the Sri Lanka Civil Front had previously decided to a
 [Data](articles/9d6a11ca.json)
 
 [Extended Data](ext_articles/9d6a11ca.ext.json)
+
+---
+
+### 24 suspects died in police custody last year
+
+*2024-04-05 08:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/24-suspects-died-in-police-custody-last-year/108-280221) · `en`
+
+Colombo, April 5 (Daily Mirror) - Sri Lanka Human Rights Commission (SLHRC) has reported that 24 suspects had died in police custody last year.
+
+Chairman of the Commission Attorney at Law Nimal Punchihewa said killing in police shootings when suspects were taken to secret locations to recover weapons had been reported frequently and that it was the responsibility of the OIC of the police station to provide protection to the suspects in custody.
+
+He said that two suspects had died in police custody in the last two months.
+
+He said the SLHRC had received 9,417 public complaints against the police for 2023 and 44 of them referred to incidents in the Yukthiya operation.
+
+◼️
+
+[Data](articles/77ff0d96.json)
 
 ---
 
@@ -2193,79 +2259,5 @@ The ICC Men’s Player of the Month shortlist includes a key architect in Irelan
 [Data](articles/660fa0b2.json)
 
 [Extended Data](ext_articles/660fa0b2.ext.json)
-
----
-
-### Bribery Commission on Keheliya bribes to date
-
-*2024-04-04 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195303) · `si`
-
-The Colombo High Court is hearing a case filed by the Bribery Commission against former Minister Keheliya Rambukwella and three others, accused of bribing the Sri Lanka Rupavahini Corporation during the 2015 Presidential Election. The case was summoned before Judge Navaratne Marasinghe on April 4th.
-
-🟩
-
-The Colombo High Court has decided to hear a case filed by the Bribery Commission against former Minister Keheliya Rambukwella and three defendants.
-
-These defendants have been accused of purchase of the Sri Lanka Rupavahini Corporation at the 2015 Presidential Election.
-
-Accordingly, the Bribery Commission filed the case against the former President of the Sri Lanka Rupavahini Corporation and former Chandrapala Liyanage, former Chairman of the Sri Lanka Rupavahini Corporation, the Sri Lanka Rupavahini Corporation.
-
-The case had been summoned before Colombo High Court Judge Navaratne Marasinghe today (04).
-
-Former Minister Keheliya Rambukwella had also been produced before the court for the trial.
-
-The judge who completed the pre-trial conference in the case was ordered to be summoned on August 29 for the examination.
-
-◼️
-
-[Data](articles/f8dc84c9.json)
-
-[Extended Data](ext_articles/f8dc84c9.ext.json)
-
----
-
-### Sri Lanka rupee closes at 299.70/80 to the US dollar
-
-*2024-04-04 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-299-70-80-to-the-us-dollar-157598/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 299.70/80 to the US dollar in the spot forex market on Thursday, stronger from 299.80/95 on Wednesday, dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 closed stable at 11.35/45 percent.
-
-A bond maturing on 15.09.2027 closed at 11.95/12.00 percent up from 11.90/12.00 percent.
-
-A bond maturing on 15.12.2028 closed at 12.15/25 percent up from 12.15/20 percent.
-
-A bond maturing on 15.07.2029 closed stable at 12.20/50 percent down from 12.25/50 percent.
-
-A bond maturing on 01.07.2032 closed at 12.60/75 percent from 12.55/80 percent. (Colombo/Apr4/2024)
-
-◼️
-
-[Data](articles/f950b6d2.json)
-
-[Extended Data](ext_articles/f950b6d2.ext.json)
-
----
-
-### Maithri makes a decision
-
-*2024-04-04 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195302) · `si`
-
-Maithripala Sirisena, former President, discusses a court case involving an interim injunction. The Colombo District Court aims to appear before the Anuradhapura District Court. The situation reflects historical challenges faced by Sri Lankan political parties, including the Bandaranaike family. The party's central committee has unanimously decided to form an all-party government, despite controversies and broken promises.
-
-🟩
-
-Former President Maithripala Sirisena says that the Colombo District Court hopes to appear before the Anuradhapura District Court on the issue of an interim injunction.
-
-Speaking to the media in Colombo today, he was speaking.
-
-Situ Bandaranaike went to court today and had taken an interim order from the media that the injunction would be implemented until the 18th to remove me to be removed from office.. Open, we have not yet had any paper regarding the court order. Such challenges in the history of Sri Lanka parties are not new. When Chandrika Bandaranaike and Kumaratunga had been broken by the Sri Lanka Freedom Party, Mr. Anura Bandaranaike had been broken by the Sri Lanka Freedom Party and had the new parties of the Bandaranaike, the Bandaranaike of Bandaranaike had to be in the opposition for 17 years.
-
-...
-
-[Data](articles/d85a1316.json)
-
-[Extended Data](ext_articles/d85a1316.ext.json)
 
 ---

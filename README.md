@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 12:49:59**
+As of **2024-04-05 13:03:18**
 
 ## Newspaper Stats
 
-*Scraped **17,312** Articles*
+*Scraped **17,313** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 962
 adalk | 1,461
 tamilmirrorlk | 2,046
 adaderanalk | 2,077
-virakesarilk | 2,519
+virakesarilk | 2,520
 dailymirrorlk | 2,653
 adaderanasinhalalk | 2,796
 
@@ -26,25 +26,51 @@ adaderanasinhalalk | 2,796
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,308 (100.0%) of 17,312 articles have been extended.
+17,312 (100.0%) of 17,313 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### கல்முனையில் 5,033 வலி நிவாரணி மாத்திரைகளுடன் சந்தேகநபர் கைது!
+### காசாவின் 12 வயது மருத்துவ உதவியாளர் - இடம்பெயர்ந்து மருத்துவமனையில் தஞ்சமடைந்த  சிறுவன் அந்த மருத்துவமனையில் சேவையாற்றிவரும் மனிதாபிமானம்
+
+*2024-04-05 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180500) · `ta`
+
+இஸ்ரேல் மேற்கொண்டுள்ள  தாக்குதல்கள்  காரணமாக இடம்பெயர்ந்து  மருத்துவமனையில் தஞ்சமடைந்த 12 வயது சிறுவன் அந்த மருத்துவமனையில் தற்போது மருத்துவ உதவியாளராக பணிபுரிகின்றான் என அல்ஜசீரா செய்தி வெளியிட்டுள்ளது.
+
+12 வயது ஜகாரியாஸ் சர்சாக்  காசாவின் அல்அக்சா மருத்துவமனையில் மருத்துவ தொண்டராக பணியாற்றுகின்றான்.
+
+காசாவில் காயமடைபவர்கள் உயிரிழப்பவர்களின் எண்ணிக்கை அதிகரித்து வருவதன் காரணமாக இந்த மருத்துவமனையின் மருத்துவர்களிற்கு உதவியாளர்கள் தேவைப்படுகின்றனர்.
+
+நான் கனுலாசை பொருத்துவேன் ஐஎவ ;திரவங்களை பொருத்துவேன் அகற்றுவேன் ஊசிகளையும் கையாள்வேன் என அந்த சிறுவன் தெரிவிக்கின்றான்.
+
+மருத்துவ குழுக்களிடம் ஸ்கான் அறிக்கைகளை கொண்டு சென்று கொடுத்தல் தாதிமார்களிற்கு மருந்துகள் மருத்துவ உபகரணங்களை வழங்குதல் போன்றவற்றில் அவன் ஈடுபடுகின்றான். என அல்அக்ஷா மருத்துவமனையின் இயக்குநர் இயாட் அபு ஜஹெர் தெரிவிக்கின்றார்.
+
+...
+
+[Data](articles/d408e802.json)
+
+---
+
+### Suspect arrested with 5,033 painkillers pills in Kalmunai
 
 *2024-04-05 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180498) · `ta`
 
-சட்டவிரோதமான முறையில் விற்பனை செய்வதற்கு தயாராக வைக்கப்பட்டிருந்த 5033 வலி நிவாரணி மாத்திரைகளுடன் கல்முனை பிரதேசத்தில்  ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A 63-year-old from Kalmunai was arrested with 5,033 painkillers for illegal sale. Navy Media Unit and police seized the pills in Kalmunai on Thursday. The suspect is now under investigation by the Department of Drugs and Food Inspection.
 
-கடற்படையினர் மற்றும் பொலிஸார் இணைந்து நேற்று முன்தினம் வியாழக்கிழமை கல்முனை பிரதேசத்தில் முன்னெடுத்த சுற்றிவளைப்பின் மூலம், செல்லுபடியான அனுமதிப்பத்திரம் இன்றி விற்பனை செய்வதற்கு தயாராக வைக்கப்பட்டிருந்த நிலையிலேயே குறித்த வலி நிவாரணி மாத்திரைகள் கைப்பற்றப்பட்டுள்ளதாக கடற்படை ஊடகப்பிரிவு தெரிவித்துள்ளது.
+🟩
 
-இதன் போது கைது செய்யப்பட்ட சந்தேகநபர் 63 வயதுடைய, கல்முனை - மருதமுனை பிரதேசத்தைச் சேர்ந்தவராவார். குறித்த சந்தேகநபர் கைப்பற்றப்பட்ட வலி நிவாரணி மாத்திரைகளுடன் மேலதிக விசாரணைகளுக்காக கல்முனை, மருந்து மற்றும் உணவு பரிசோதனை திணைக்களத்தில் ஒப்படைக்கப்பட்டுள்ளதாக கடற்படை ஊடகப்பிரிவு மேலும் தெரிவித்துள்ளது.
+One person has been arrested in Kalmunai area with 5033 painkillers ready for illegal selling.
+
+The Navy Media Unit said that the seizure of pain relief pills has been seized as the Marines and the police have been prepared to sell without a valid permit, which was carried out in Kalmunai on Thursday.
+
+The suspect, 63, hails from Kalmunai - Maruthamunai area.. The Naval Media Division further stated that the suspect has been handed over to the Department of Drugs and Food Inspection for further investigations with painkillers seized.
 
 ◼️
 
 [Data](articles/166c9a63.json)
+
+[Extended Data](ext_articles/166c9a63.ext.json)
 
 ---
 
@@ -78,17 +104,23 @@ The officers in question, filing a motion before the country’s apex court, had
 
 Accordingly, a three-member judge bench led by Chief Justice Jayantha Jayasuriya, on Thursday (04) issued summons directing IGP Tennakoon to appear before the court to present oral submissions regarding the matter. Complying with the order, the police chief arrived at the Supreme Court complex on Friday morning.
 
-During today’s court proceedings, IGP Tennakoon, through the Additional Solicitor General, communicated to the judge bench that the five OICs would be assigned to police stations commensurate with their previous assignments.
+During today’s court proceedings, IGP Tennakoon, through Additional Solicitor General Viraj Dayaratne, communicated to the judge bench that the five OICs would be assigned to police stations that are commensurate with their previous assignments.
 
 ◼️
 
 [Data](articles/4bf0323a.json)
+
+[Extended Data](ext_articles/4bf0323a.ext.json)
 
 ---
 
 ### Israel temporarily allows for Gaza's borders
 
 *2024-04-05 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180497) · `ta`
+
+Israel temporarily opens Gaza's Eris crossing and Ashdot port, allowing aid distribution, in response to US warnings.
+
+🟩
 
 Israeli Prime Minister Benjamin Netanyahu's office today announced that Israel will temporarily allow Gaza to distribute assistance through his borders.
 
@@ -110,6 +142,10 @@ Israel made the announcement within hours of the US warning that Gaza's policy c
 
 *2024-04-05 12:10:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்-நீதிமன்றத்தில்-முன்னிலையான-தேசபந்து/175-335643) · `ta`
 
+Inspector General of Police Deshabandu Tennakoon investigates five police officers' rights petitions in the High Court, following their transfer after Arakala. Their lawyers filed a Supreme Court petition over lack of police stations.
+
+🟩
+
 Inspector General of Police Deshabandu Tennakoon arrived in the High Court this morning.
 
 He has come to investigate the fundamental rights petitions submitted by five police officers who were transferred after Arakala.
@@ -126,37 +162,49 @@ The court sent a notice to the Inspector General of Police to appear before the 
 
 ---
 
-### වැඩ තහනමට ලක්වූ නීතිඥයාට ඇප
+### Bail for banned lawyer
 
 *2024-04-05 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195329) · `si`
 
-අධිකරණයට අපහාස කිරීම සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටි වැඩ තහනමට ලක්ව සිටින නීතිඥවරයෙකු වන සුසිල් ජයතුංග මහතා ඇප මත මුදා හැරීමට ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
+Susil Jayatunga, a suspended lawyer, was released on private bail by the Supreme Court, with conditions.
 
-ඒ අනුව එම පුද්ගලයා රුපියල් ලක්ෂ පහක පුද්ගලික ඇප මත මුදා හැරීමට නියෝග කළ ශ්‍රේෂ්ඨාධිකරණය සෑම මසකම පළමු සඳුදා ශ්‍රේෂ්ඨාධිකරණයේ රෙජිස්ට්‍රාර්වරයා  හමුවේ පෙනී සිට වාර්තා කළ යුතු බවටත් නියෝග කෙරිණි.
+🟩
 
-එමෙන්ම සෑම වසරකම දෙවන සහ හතර වන සඳුදා, පොළොන්නරුව මහාධිකරණ රේජිස්ට්‍රාර්වරයා හමුවේ පෙනී සිට වාර්තා කළ යුතු බවත් මෙම ඇප කොන්දේසි කඩකළහොත් යළි ඇප අවලංගු කොට රක්ෂිත බන්ධනාගත කරන බවත් නියෝග කළේය.
+Susil Jayatunga, a lawyer who was suspended to be remanded in connection with insulting the judiciary, was sentenced to the release of the officer.
 
-සානුකම්පිත හේතුන් පදනම් කරගෙන මෙම ඇපය නියම කරන බව විනිසුරු මඩුල්ල පැවසීය.
+Accordingly, the Supreme Court ordered that the man ordered the release of the person on a private bail of Rs.
+
+The second and fourth of the Polonnaruwa High Court and the Polonnaruwa High Court ordered to be reported to be rejected and remanded again if they were breaking down.
+
+Judge Madulla said the predator is set on the basis of the sympathy.
 
 ◼️
 
 [Data](articles/8fceeb60.json)
 
+[Extended Data](ext_articles/8fceeb60.ext.json)
+
 ---
 
-### අධිකරණයට ආ පොලිස්පතිගෙන් පොරොන්දුවක්
+### Promise to court
 
 *2024-04-05 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195328) · `si`
 
-අරගල සිද්ධීන්වලින් පසුව මාරුකර හරින ලද පොලිස් ස්ථානාධිපතිවරුන් පස් දෙනෙකුට ඔවුන් පෙර සිටි පොලිස් ස්ථානවලට සමාන්තර පොලිස් ස්ථාන ලබාදීමට කටයුතු කරන බව පොලිස්පතිවරයා අද (05) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුනි.
+Five OICs transferred will have parallel police stations. IGP Deshaband Tennakoon appeared in court when petitions were called by Chief Justice Jayantha Jayasuriya, informed by Additional Solicitor General.
 
-අදාළ පෙත්සම් අද අගවිනිසුරු ජයන්ත ජයසූරිය මහතා ප්‍රමුඛ ත්‍රිපුද්ගල විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පුද්ගලිකවම අධිකරණයේ පෙනී සිට තිබුණි.
+🟩
 
-එහිදී පොලිස්පතිවරයා විසින් අතිරේක සොලිසිටර් ජනරාල්වරයා මාර්ගයෙන් අධිකරණයට මේ බව දැනුම්දී සිටියේය.
+Five OICs transferred after struggles will be provided with parallel police stations to the police stations.
+
+IGP Deshaband Tennakoon had already appeared in court when the petitions were called before Chief Justice Jayantha Jayasuriya.
+
+The IGP was informed of the court through the Additional Solicitor General.
 
 ◼️
 
 [Data](articles/49d5a7fb.json)
+
+[Extended Data](ext_articles/49d5a7fb.ext.json)
 
 ---
 
@@ -2211,31 +2259,5 @@ The last government's position has now been challenged by a study conducted by t
 [Data](articles/7fe1b242.json)
 
 [Extended Data](ext_articles/7fe1b242.ext.json)
-
----
-
-### How Sri Lanka's two billion dollars to India
-
-*2024-04-04 20:39:04* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවෙන්-ඩොලර්-බිලියන-දෙකක්-ඉන්දියාව-නෙළාගෙන-යන-හැටි/11-408965) · `si`
-
-Sri Lanka's $2 billion annual loss to India due to illegal fish harvesting in the North and East. Chairman MP Gamini Walareboda warns of GSPPlus concessions risk. Unauthorized importation of shrimp and prawns, estimated at 10,000 metric tons annually, threatens the European shrimp market. India's fishing practices, including large-scale harvesting, cost about $2 billion per year. Sri Lanka's response includes surveys, Navy involvement, and potential charges against involved companies.
-
-🟩
-
-The Indian fishermen will lose about $ 2 billion annually due to the illegal fish harvesting of the North and East.
-
-The Chairman MP Gamini Walareboda said that Sri Lanka would be at risk of losing GSPPlus concessions to Sri Lanka in India.
-
-It has also been revealed that NARA has been conducting a survey in 30 years of the international waters of the North and East.
-
-Speaking further chairman Gamini Walaweboda said so further.
-
-& The Committee met to discuss and address the problems faced by the fishermen as a result of the economic crisis.. There were a number of factors revealed. One was revealed that unauthorized flora and shrimp are imported to the country. They revealed the nature of importation of the country with the extent. Especially the prawns said that about 10,000 metric tons per year. We asked for a research report on it.
-
-...
-
-[Data](articles/df9c1af1.json)
-
-[Extended Data](ext_articles/df9c1af1.ext.json)
 
 ---

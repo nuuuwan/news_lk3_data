@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 17:18:06**
+As of **2024-04-05 17:34:36**
 
 ## Newspaper Stats
 
-*Scraped **17,362** Articles*
+*Scraped **17,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 950
 economynextcom | 962
 adalk | 1,464
 tamilmirrorlk | 2,048
-adaderanalk | 2,086
-virakesarilk | 2,533
+adaderanalk | 2,088
+virakesarilk | 2,534
 dailymirrorlk | 2,659
 adaderanasinhalalk | 2,810
 
@@ -26,107 +26,147 @@ adaderanasinhalalk | 2,810
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,356 (100.0%) of 17,362 articles have been extended.
+17,362 (100.0%) of 17,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### வாட்டு கட்டிலில் தாய்: சிறுமி துஷ்பிரயோகம்
+### Israel admits ‘grave mistake’ and sacks senior officers after Gaza bombing kills aid workers
 
-*2024-04-05 17:04:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாட்டு-கட்டிலில்-தாய்-சிறுமி-துஷ்பிரயோகம்/175-335645) · `ta`
+*2024-04-05 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98455/israel-admits-grave-mistake-and-sacks-senior-officers-after-gaza-bombing-kills-aid-workers) · `en`
 
-வைத்தியசாலையில் வாட்டு ஒன்றில் தங்கியிருந்து சிகிச்சை பெற்று வந்த 10 வயதான சிறுமியை கடுமையாக பாலியல் வன்புணர்வுக்கு உட்படுத்திய சம்பவம் காலி, கராப்பிட்டிய வைத்தியசாலையில் இடம்பெற்றுள்ளது.
+Israel has admitted its forces made a “grave mistake” after seven aid workers with World Central Kitchen were killed in an airstrike.
 
-வன்புணர்வுக்கு உட்படுத்திய சந்தேகநபர், வௌ்ளிக்கிழமை (05) கைது செய்யப்பட்டுள்ளார் என காலி பொலிஸார் தெரிவித்தனர்.
+The humanitarian group, which delivers food aid to war and disaster zones, said the seven were returning from coordinating an aid shipment in central Gaza when their three car convoy was struck and they were killed.
 
-கைது செய்யப்பட்ட நபர், பாலியல் வன்புணர்வுக்கு உள்ளாக்கப்பட்ட சிறுமி தங்கியிருந்த கட்டிலுக்கு அண்மையில், சிகிச்சைப்பெற்று வந்த மற்றுமொரு சிறுமியின் தந்தை என்பதும் விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+Their deaths triggered a wave of international condemnation and shone a fresh spotlight on the dire conditions that Gaza’s besieged population is suffering from in the embattled enclave.
 
-வன்புணர்வு உட்படுத்தப்பட்ட சிறுமியின் தாய், நித்திரையில் இருந்துள்ளார் இந்த சந்தர்ப்பத்திலேயே சிறுமியை வன்புணர்ந்துள்ளார். சம்பவம் தொடர்பில் சிறுமி, தன்னுடைய தாயின் கவனத்துக்கு கொண்டுவந்துள்ளார். அதன்பின்னர் வைத்தியசாலையின் அதிகாரிகளால் வைத்தியசாலை பொலிஸாரின் கவனத்துக்கு கொண்டுச் சென்றுள்ளனர்.
+More than 220 humanitarian workers have been killed in the conflict so far, according to the UN. Responding to the inquiry, Scott Paul, humanitarian policy lead at Oxfam, said: “The World Central Kitchen attack is tragic, but it’s not an anomaly. The killing of aid workers in Gaza has been systemic.
 
-அதன்பின்னர் காலி பொலிஸார், சந்தேகநபரை கைது செய்துள்ளனர். 39 வயதான சந்தேகநபரை நீதிமன்றத்தில் ஆஜர்படுத்துவதற்கான நடவடிக்கை எடுத்துள்ளதாக காலி பொலிஸார் தெரிவித்தனர்.
+...
 
-◼️
-
-[Data](articles/fd802609.json)
+[Data](articles/7e3e659d.json)
 
 ---
 
-### கிளிநொச்சி -பொன்னாவெளி பகுதிக்குச் சென்ற அமைச்சர் டக்ளஸ் மக்களின் எதிர்ப்பால் திரும்பினார்
+### தலாய்லாமா இலங்கைக்கு விஜயம் மேற்கொள்வதை சீனாதடுக்கின்றது - இந்திய ஊடகத்திற்கு இலங்கை மதகுரு கருத்து
 
-*2024-04-05 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180538) · `ta`
+*2024-04-05 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180541) · `ta`
 
-கிளிநொச்சி பொன்னாவெளி சீமெந்து தொழிற்சாலையை திறக்க சென்ற அமைச்சர் டக்ளஸ் மக்களின் எதிர்ப்பால் திரும்பினார். குறித்த சம்பவம் இன்று வெள்ளிக்கிழமை (05) பகல் இடம்பெற்றுள்ளது.
+திபெத்தின் ஆன்மீக தலைவர்தலாய்லாமா  இலங்கைக்கு விஜயம் மேற்கொள்வதை சீனா தடுக்கின்றது என இலங்கையை சேர்ந்த பௌத்த மதகுரு ஒருவர் குற்றம்சாட்டியுள்ளார்
 
-பொன்னாவெளி சீமெந்து தொழிற்சாலையை திறக்க சென்ற அமைச்சர் டக்ளஸ் தேவானந்தாவிற்கு மக்கள் எதிர்ப்பு வெளியிட்டு வருகின்றனர்.
+தலாய் லாமாவிற்கு புத்தரின் புனிதநினைவுச்சின்னத்தை வழங்கிய  இலங்கை பௌத்தபிக்குகள் குழுவில் இடம்பெற்றிருந்த கலாநிதி வஸ்கடுவே மகிந்தவன்ச தேரர் இதனை தெரிவித்துள்ளார்.
 
-கிளிநொச்சி - பூநகரி பிரதேச செயலாளர் பிரிவிற்குட்பட்ட பொன்னாவெளி பகுதியில் சீமெந்து தொழிற்சாலைக்கான சுன்னக்கற்களை பெற்றுக்கொள்வதற்கு மக்கள் தொடர்ச்சியாக எதிர்ப்பு வெளியிட்டு வருகின்றனர்.
+தலாய்லாமா குறித்து சீனா என்ன நிலைப்பாட்டை கொண்டுள்ளது என்பது உங்களிற்கு தெரியும் நீங்கள் நினைவுச்சின்னத்தை வழங்கியமை குறித்து சீனா சீற்றமடைந்திருக்கும் என்ற கேள்விக்கு பதிலளித்துள்ள அவர் சில வருடங்களிற்கு முன்னர் இலங்கையை சேர்ந்த பௌத்தமத தலைவர்கள் தலாய்லாமா இலங்கைக்கு விஜயம் மேற்கொள்ளவேண்டும் என அழைப்பு விடுத்திருந்தனர் என தெரிவித்துள்ளார்.
 
-இந்நிலையில், இன்றைய தினம் அமைச்சர் குறித்த தொழிற்சாலையை ஆரம்பித்து வைக்க நடவடிக்கை எடுக்கப்பட்ட நிலையில் மக்கள் எதிர்ப்பை வெளியிட்டுள்ளனர்.
+ஆனால் பிரச்சினை சீனாவிடமிருந்து வருகின்றது ஏன் என தெரியவில்லை எனவும் அவர் தெரிவித்துள்ளார்.
 
-இதன்போது அமைதியின்மை ஏற்பட்டுள்ளது. அமைச்சர் டக்ளஸ் தேவானந்தாவிற்கும், போராட்டக்காரருக்கும் இடையில் வாய்த்தர்க்கம் ஏற்பட்ட நிலையில் பொலிசார் கட்டுப்படுத்தியிருந்தனர்.
+...
 
-ஆயினும், மக்களின் தொடர் எதிர்ப்பினால் குறித்த நிகழ்வு இரத்து செய்யப்பட்டு அமைச்சர் திரும்பியுள்ளார்.
-
-◼️
-
-[Data](articles/68988e68.json)
+[Data](articles/a453cf91.json)
 
 ---
 
-### ஜப்பானிய தூதுவரின் மனைவி தங்கியிருந்த ஹோட்டல் மீது கற்களை வீசிய முன்னாள் பொலிஸ் அதிகாரி கைது
+### Former police officer arrested for throwing stones at a hotel where Japanese ambassador's wife
 
-*2024-04-05 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180529) · `ta`
+*2024-04-05 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180529) · `ta`
 
-புத்தல பகுதியில் ஜப்பான் தூதுவரின் மனைவி தங்கியிருந்த ஹோட்டல் ஒன்றின் மீது கற்களை வீசி தாக்குதலை மேற்கொண்ட முன்னாள் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் கைது செய்யப்பட்டுள்ளார்.
+A former Senior Police Superintendent in Budhala was arrested for allegedly throwing stones at a hotel where the Japanese ambassador's wife was staying, causing damage and fear among guests. The incident was reported by the ambassador's wife to the hotel owner, who then lodged a complaint with the police. The suspect will face charges in the Wellawaya Magistrate's Court.
 
-ஜப்பான் தூதுவரின் மனைவி மரிகோ மிசுகோஷி புத்தல பகுதியிலுள்ள “லிட்டில் ட்ரீ” என்ற  விசேட தேவையுடைய  குழந்தைகள் மையத்தில் நடைபெறும்  வைபவமொன்றில் கலந்துகொள்வதற்காக கொழும்பிலிருந்து சென்று வியாழக்கிழமை (04) இரவு ஹோட்டல் ஒன்றில் தங்கியிருந்தார்.
+🟩
 
-இந்நிலையில், ஹோட்டலின் அருகில்  வசித்து வந்த முன்னாள் சிரேஷ்ட பொலிஸ் அத்தியட்சகர்  ஹோட்டல் மீது கற்களை வீசி தாக்குதல் நடத்தியுள்ளார்.
+Former Senior Police Superintendent has been arrested for allegedly attacking stones at a hotel where the Japanese ambassador's wife is staying in Budhala.
 
-இந்நிலையில், சம்பவம் குறித்து ஜப்பான் தூதுவரின் மனைவி  ஹோட்டல் உரிமையாளருக்கு எழுத்துப்பூர்வமாகத் தெரிவித்ததையடுத்து, ஹோட்டல் நிர்வாகம் புத்தல  பொலிஸில் முறைப்பாடு செய்தது.
+Japan's ambassador's wife Mariko Mizukoshi visited Colombo on Thursday night (04) to attend a special need for "Little Tree" in the Budhala area.
+
+In this case, the former Senior Superintendent of Police, who lived near the hotel, threw stones at the hotel.
+
+In this case, the Japanese ambassador's wife had written to the hotel owner about the incident, and the hotel management lodged a complaint with the Budhala police.
+
+In it, the Japanese ambassador's wife said, “Someone last night threw stones at the big window of the hotel's wedding.. This caused massive damage to the hotel. I was so scared of what happened as a hotel guest. Japanese visitors, supporters and all Japanese government officials said that if such a thing happens again, they will be afraid and worried about the "Little Tree" special needy children's center.
 
 ...
 
 [Data](articles/d531fbb0.json)
 
----
-
-### ජංගම දුරකථන මිල අඩුවෙයි
-
-*2024-04-05 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195344) · `si`
-
-ඩොලරයේ අගය පහළ යෑම හේතුවෙන් මෙරට ජංගම දුරකථන මිල සියයට 18% - 20% අතර ප්‍රමාණයකින් පහළ බැස ඇති බව ශ්‍රී ලංකා ජංගම දුරකථන ආනයන හා විකුණුම්කරුවන්ගේ සංගමය පවසයි.
-
-එම සංගමයේ සභාපති, සමිත් සෙනරත් මහතා මාධ්‍ය හමුවකට ඒ බව සඳහන් කළේය.
-
-◼️
-
-[Data](articles/2918bffa.json)
+[Extended Data](ext_articles/d531fbb0.ext.json)
 
 ---
 
-### වාහන 51ක් ගැන අධිකරණ නියෝගයක්
+### Sri Lanka’s official reserve assets increase by 9.5% in March
 
-*2024-04-05 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195343) · `si`
+*2024-04-05 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98454/sri-lankas-official-reserve-assets-increase-by-95-in-march) · `en`
 
-නීතිවිරෝධී ලෙස ලියාපදිංචි කර තිබෙන වාහන 51ක් වෙනත් පාර්ශ්වයකට පැවරීම වළක්වාලමින් කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින් අද (05) මෝටර් රථ කොමසාරිස් ජනරාල්වරයා වෙත නියෝගයක් නිකුත් කළේය.
+The Central Bank of Sri Lanka (CBSL) says Sri Lanka’s official reserve assets have recorded an increase of 9.5% in the month of March 2024.
 
-අල්ලස් කොමිසම විසින් කළ ඉල්ලීමක් සලකා බැලූ කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් ප්‍රසන්න අල්විස් මහතා විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+Accordingly, the official reserve assets have reached USD 4.95 billion in March 2024.
 
-2015 වසරේ සිට 2019 වසර දක්වා කාලසීමාව තුළ නීතිවිරෝධී ලෙස වාහන 51ක් ලියාපදිංචි කිරීමේ සිද්ධියක් සම්බන්ධයෙන් විමර්ශන සිදුකරන බව අල්ලස් කොමිසම පවසයි.
-
-අදාළ වාහන වෙනත් පාර්ශව වෙත පැවරීම වළක්වාලීමේ නියෝගයක් නිකුත් කරන ලෙස අල්ලස් කොමිසම විසින් කරනු ලැබූ ඉල්ලීමක් පිළිගත් අධිකරණය මෙම නියෝගය නිකුත් කළේය.
+This includes proceeds from People’s Bank of China (POBC) SWAP equivalent to USD 1.4 billion, which is subject to conditionalities on usability, according to the CBSL.
 
 ◼️
 
-[Data](articles/d2711b0b.json)
+[Data](articles/324ea0bc.json)
+
+---
+
+### Minister Douglas returned to the Kilinochchi -Ponnaveli area with the opposition of the people
+
+*2024-04-05 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180538) · `ta`
+
+Minister Douglas Devananda faced protests in Kilinochchi-Ponnaveli over opening the Ponnaweli Cement Factory. Despite police efforts, he returned to the event due to ongoing opposition.
+
+🟩
+
+Minister Douglas returned to Kilinochchi Ponnaweli Cement Factory. The incident took place today (05).
+
+People are protesting against Minister Douglas Devananda who went to open the Ponnaweli Cement Factory.
+
+People are constantly expressing opposition to the Sunnah of the Cement Factory in the Ponnaveli area of the Kilinochchi - Poonakari Divisional Secretariat.
+
+In this backdrop, people have expressed their opposition as steps have been taken to launch the minister's factory today.
+
+There has been unrest. The police had controlled the rhetoric between Minister Douglas Devananda and the protesters.
+
+However, the Minister has returned to the event due to the continuous opposition of the people.
+
+◼️
+
+[Data](articles/68988e68.json)
+
+[Extended Data](ext_articles/68988e68.ext.json)
+
+---
+
+### Mother in the Bun: The girl abuse
+
+*2024-04-05 17:04:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாட்டு-கட்டிலில்-தாய்-சிறுமி-துஷ்பிரயோகம்/175-335645) · `ta`
+
+A 10-year-old girl was raped at Karapitiya Hospital, Galle. The suspect, the father of another patient, was arrested. The victim's mother reported the incident, leading to the suspect's arrest.
+
+🟩
+
+A 10 -year -old girl who was staying at a hospital in a hospital has been severely raped at Karapitiya Hospital, Galle.
+
+The suspect, who was raped, was arrested on Wednesday (05), Galle police said.
+
+Investigations have also been found that the arrested person was the father of another girl who had recently been treated at the cot, where the girl was raped.
+
+The mother of the girl who was raped and was sleeping on this occasion. The girl has brought to the attention of her mother in connection with the incident. The hospital officials then brought them to the attention of the hospital police.
+
+Galle police then arrested the suspect. Galle police said that the 39 -year -old suspect has taken steps to produce the suspect in court.
+
+◼️
+
+[Data](articles/fd802609.json)
+
+[Extended Data](ext_articles/fd802609.ext.json)
 
 ---
 
 ### Investigating police officer in Jaffna
 
-*2024-04-05 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180536) · `ta`
+*2024-04-05 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/180536) · `ta`
 
 High-ranking police in Jaffna are investigating a violent gang that broke into four houses, leading to arrests and trials. A Tamil officer at the Kayts Police Station claims support. Photos of weapons, including swords, were found on some gang members. The police handed over four men to the forum after investigations.
 
@@ -154,6 +194,50 @@ At the same time, video recordings and weapons photos of the violent gangs have 
 
 ---
 
+### Mobile phones decline
+
+*2024-04-05 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195344) · `si`
+
+Sri Lanka's mobile phone prices have dropped 18-20% due to the dollar's fall, according to Samaith Senarath, Chairman of the Association.
+
+🟩
+
+The mobile phone prices of the mobile phone prices of Sri Lanka have dropped between 18% and 20% due to the drop of the dollar.
+
+The Chairman of the Association, Samaith Senarath told a media briefing.
+
+◼️
+
+[Data](articles/2918bffa.json)
+
+[Extended Data](ext_articles/2918bffa.ext.json)
+
+---
+
+### Court order on 51 vehicles
+
+*2024-04-05 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195343) · `si`
+
+The Colombo Magistrate's Court ordered the Commissioner General of Motor Traffic to prevent the transfer of 51 vehicles registered illegally from 2015 to 2019, following a request from the Bribery Commission.
+
+🟩
+
+The Colombo Magistrate's Court today issued an order to the Commissioner General of Motor Traffic today.
+
+The order was issued by the Colombo Chief Magistrate Prasanna Alwis, considering a request made by the Bribery Commission.
+
+The Bribery Commission says that investigations are conducted in relation to the registration of 51 vehicles illegal in 2015 to 2019.
+
+The court issued a request made by the Bribery Commission to issue the authorization to prevent the transfer of the vehicles to other parties.
+
+◼️
+
+[Data](articles/d2711b0b.json)
+
+[Extended Data](ext_articles/d2711b0b.ext.json)
+
+---
+
 ### Urgent meeting of SLFP politburo to be convened?
 
 *2024-04-05 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98452/urgent-meeting-of-slfp-politburo-to-be-convened) · `en`
@@ -169,6 +253,8 @@ However, Sirisena has reacted, saying that he intends to present facts before th
 ◼️
 
 [Data](articles/5f6c85a5.json)
+
+[Extended Data](ext_articles/5f6c85a5.ext.json)
 
 ---
 
@@ -2239,55 +2325,5 @@ Meanwhile, on the apparent northward relative motion of the sun, it is going to 
 [Data](articles/a89af2f9.json)
 
 [Extended Data](ext_articles/a89af2f9.ext.json)
-
----
-
-### Siddhalepa crowned best Ayurveda company
-
-*2024-04-05 05:27:18* · [`dailyftlk`](https://www.ft.lk/business/Siddhalepa-crowned-best-Ayurveda-company/34-760332) · `en`
-
-Hettigoda Industries, the renowned name synonymous with Ayurvedic excellence, achieved resounding success at the prestigious Golden Inmediens 2023 Entrepreneurship Gold Award ceremony. The event, held at Water’s Edge recently, witnessed the company’s remarkable triumphs, further accentuated by the celebration of their 90th anniversary this year.
-
-The ceremony witnessed Hettigoda Industries being honored with the prestigious Gold Winner title for “Indigenous Entrepreneur of the Year 2023”, showcasing their pioneering work in Ayurveda. This remarkable journey not only brings prominence to Siddhalepa’s commitment to excellence but also serves as a testament to its unwavering dedication to advancing the principles of Ayurveda. Siddhalepa clinched multiple accolades, further cementing its position as a leader in the field of indigenous medicine:
-
-Gold: Best Hospital for Indigenous Medicine 2023 – Siddhalepa Ayurveda Hospital
-
-...
-
-[Data](articles/96f0f656.json)
-
-[Extended Data](ext_articles/96f0f656.ext.json)
-
----
-
-### CITI celebrates International Women’s Day 2024: Inspiring inclusion
-
-*2024-04-05 05:25:50* · [`dailyftlk`](https://www.ft.lk/business/CITI-celebrates-International-Women-s-Day-2024-Inspiring-inclusion/34-760331) · `en`
-
-Citi Sri Lanka recently celebrated International Women’s Day by hosting a fireside discussion bringing together female leaders to facilitate a conversation around diversity and inclusion in the workplace, and what this year’s theme #InspireInclusion means to them.
-
-The diverse panel consisted of Ideal Motors Ltd., Finance Director Dilani Yatawaka, Independent Collective School Founding Principal Yasodhara Pathanjali, and Citi Country Human Resources Vice President/Head Vanya Goonetilleke, along with session moderator Citi Securities Services Vice President/Head Kanishka Hewage.
-
-...
-
-[Data](articles/38825625.json)
-
-[Extended Data](ext_articles/38825625.ext.json)
-
----
-
-### Launch of Ingress by MendisOne: Creating lasting visual stories
-
-*2024-04-05 05:23:50* · [`dailyftlk`](https://www.ft.lk/business/Launch-of-Ingress-by-MendisOne-Creating-lasting-visual-stories/34-760330) · `en`
-
-At the launch of Ingress by MendisOne (from left): MendisOne Chairman Rohitha Mendis, MendisOne Managing Director Rishantha Mendis, and Ingress Managing Director Trevor Sylvester
-
-Ingress by MendisOne, had their soft launch on Friday, 22 March, at MendisOne headquarters. With a vision to redefine the boundaries of what is possible, to challenge and pioneer a new era of visual storytelling in Sri Lanka, Ingress creates immersive experiences delving into the depths of imagination to conceive ideas that have never before graced the screens of this nation with a simple yet profound mission to unleash the full potential of creativity and technology to weave narratives that captivate, inspire, and leave a lasting impact.
-
-...
-
-[Data](articles/01a9713b.json)
-
-[Extended Data](ext_articles/01a9713b.ext.json)
 
 ---

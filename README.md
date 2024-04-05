@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 11:52:43**
+As of **2024-04-05 12:17:54**
 
 ## Newspaper Stats
 
-*Scraped **17,297** Articles*
+*Scraped **17,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 944
 islandlk | 950
 economynextcom | 962
-adalk | 1,458
+adalk | 1,461
 tamilmirrorlk | 2,045
-adaderanalk | 2,074
-virakesarilk | 2,515
+adaderanalk | 2,075
+virakesarilk | 2,517
 dailymirrorlk | 2,651
 adaderanasinhalalk | 2,794
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,287 (99.9%) of 17,297 articles have been extended.
+17,297 (100.0%) of 17,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### Special bus service for festive season begins today
+
+*2024-04-05 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98443/special-bus-service-for-festive-season-begins-today) · `en`
+
+A special bus service is set in place from today (05) for members of the public, in view of the upcoming Sinhala and Tamil New Year season, Sri Lanka Transport Board (SLTB) said.
+
+The SLTB explained that measures have been taken to deploy around 200 additional buses during the festive season for people in Colombo and suburbs who are visiting their hometowns.
+
+Accordingly, this bus service will be operational from Colombo to all parts of the island.
+
+Meanwhile, the Sri Lanka Railways also stated that special trains will operate for long distance journeys from April 10. Under this service, around 12 additional train journeys are added to the schedule daily.
+
+The special train services will be available for the general public until April 15.
+
+◼️
+
+[Data](articles/325e152d.json)
+
+---
 
 ### SLFP’s future decisions by party committees only – Senior Vice President
 
@@ -48,27 +68,57 @@ However, Prof. Piyadasa stated that even if the court issued an enjoining order 
 
 [Data](articles/f834b096.json)
 
+[Extended Data](ext_articles/f834b096.ext.json)
+
 ---
 
-### டக்ளஸ் தேவானந்தாவின் திடீர் முடிவு
+### Douglas Devananda's sudden results
 
 *2024-04-05 11:31:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டக்ளஸ்-தேவானந்தாவின்-திடீர்-முடிவு/175-335641) · `ta`
 
-எதிர்வரும் பாராளுமன்ற தேர்தலுடன் அரசியலில் இருந்து ஓய்வு பெறத் தீர்மானித்துள்ளதாத ஈழ மக்கள் ஜனநாயகக் கட்சியின் செயலாளர் நாயகமும் கடற்தொழில் அமைச்சருமான டக்ளஸ் தேவானந்தா தெரிவித்தார்.
+Douglas Devananda, Eelam People's Democratic Party Secretary-General and Minister of Fisheries, announced his retirement from politics ahead of the next parliamentary election. Despite efforts to improve the Tamil people's daily issues and development, he felt the lack of political power with the South hindered progress. Despite hoping to complete unfinished tasks, he decided to retire, aiming to focus on the Tamil people's needs without engaging in politics.
 
-“நான் ஆயுதப் போராட்டத்தில் இருந்து அரசியலில் நீரோட்டத்துக்கு பல்வேறு தடைகளைக் கடந்து வந்தவன்.
+🟩
 
-தமிழ் மக்களின் அரசியல் அன்றாடப் பிரச்சினை மற்றும் அபிவிருத்தி என்பவற்றை எனது அரசியல் காலத்தில் முடிந்தவரை பெற்றுக் கொடுப்பதே எனது இலக்கு.
+Douglas Devananda, Secretary -General of the Eelam People's Democratic Party and Minister of Fisheries, said that he has decided to retire from politics with the upcoming parliamentary election.
 
-துரதிஷ்டவசமாக எனக்கு கிடைத்த ஆசனங்கள் போதாமையால் தெற்குடன் பேரம் பேசும் சக்தியை மக்கள் வழங்கவில்லை.
+“From the armed struggle, he has crossed the various obstacles to politics.
 
-தமிழ் மக்களுக்கு எதையாவது பெற்றுக் கொடுக்க வேண்டுமே என்ற நினைப்பு மட்டும் எனக்கு இருக்கிறது மக்களை வைத்து அரசியல் செய்ய வேண்டிய தேவை எனக்கு இல்லை.
+My goal is to get the political daily issue and development of the Tamil people as much as possible in my political period.
 
-நான் கடந்த முறை பாராளுமன்றத் தேர்தலின் பின்னர் அரசியலில் இருந்து ஓய்வு பெறலாம் என நினைத்திருந்தேன் ஆனால் சில விடயங்களை தொடக்கி விட்டேன் முடித்து விடலாம் என்ற நம்பிக்கையுடன் அரசியலில் ஈடுபட்டேன்
+Unfortunately, the people did not provide the bargaining power with the South because the seats were not enough.
+
+I only think that the Tamil people need to get something. I do not need to do politics with the people.
+
+I thought I could retire from politics after the last parliamentary election but I was involved in politics with the hope that I could finish some things.
+
+Therefore, I am going to retire politics with the upcoming parliamentary election, he added.. Remble
+
+◼️
+
+[Data](articles/6b897486.json)
+
+[Extended Data](ext_articles/6b897486.ext.json)
+
+---
+
+### தமிழ்க் கட்சிகள் எமக்கு ஆதரவளிக்கவேண்டும் - யாழில் அநுரகுமார
+
+*2024-04-05 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180491) · `ta`
+
+நாட்டில்  இன, மத பேதமில்லாத ஆட்சி அமைய வேண்டுமானால் தமிழ்க் கட்சிகளின் தலைவர்கள் எமக்கான ஆதரவை வழங்க வேண்டும் என தேசிய மக்கள் சக்தியின் தலைவரும் கொழும்பு மாவட்ட நாடாளுமன்ற உறுப்பினருமான அநுரகுமார திஸாநாயக்க அழைப்பு விடுத்துள்ளார்.
+
+யாழ்ப்பாணத்தில் நேற்று வியாழக்கிழமை (04) நடைபெற்ற இலங்கை ஆசிரியர் சேவைச் சங்கத்தின் மாநாட்டில் கலந்துகொண்டு உரையாற்றும்போதே இதனை தெரிவித்தார்.
+
+'இலங்கையின் முன்னேற்றம் இன,மத, மொழி கடந்து ஒற்றுமையுடன் இணைந்து செல்லும்போதே மேலும் மேலும் நாட்டை முன்னேற்ற முடியும்.
+
+எனவே, வடக்கு, கிழக்கில் வாழும் சகோதரர்களின் ஆணையில்லாமல் நாட்டை முன்னேற்ற முடியாது. இதுவே காலம் காலமாக நடந்து வந்த நிலையில் இம்முறை அனைவரினதும் ஆதரவைப் பெற்று ஆட்சியமைக்க வேண்டும்.
+
+ஆகையினால் அனைவரது முன்னேற்றத்துக்கும் எமக்கான ஆதரவை ஒருமித்து வழங்க வேண்டும். அவ்வாறு சகலரது ஒத்துழைப்புடனும் ஆதரவுடனும் ஆட்சி அமைக்கப்படுகின்றபோது எந்தவித பாகுபாடுகளுமின்றி ஆட்சி அமையப்பெறும்.
 
 ...
 
-[Data](articles/6b897486.json)
+[Data](articles/199238ba.json)
 
 ---
 
@@ -90,23 +140,31 @@ In a 30-minute call with Netanyahu after Israeli strikes killed seven aid worker
 
 [Data](articles/e85a980f.json)
 
+[Extended Data](ext_articles/e85a980f.ext.json)
+
 ---
 
-### දකුණු කොරියාවෙන් ශ්‍රී ලංකාවට සුබ ආරංචියක්
+### Good news from South Korea
 
 *2024-04-05 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195327) · `si`
 
-දකුණු කොරියානු අග්‍රාමාත්‍ය Han Duck Soo මහතා සහ ශ්‍රී ලංකා අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා අතර හමුවක් ඊයේ (04) දකුණු කොරියාවේ සෝල් නගරයේ පිහිටි අග්‍රාමාත්‍ය කාර්යාලයේදී සිදුවිය.
+South Korean Prime Minister Han Duck Soo and Sri Lanka's Dinesh Gunawardena met, discussing job opportunities in agriculture, construction, and other industries for Sri Lanka.
 
-එහිදී කොරියානු අග්‍රාමාත්‍යවරයා ශ්‍රී ලංකාවට නව රැකියා දොරටු රැසක් විවර කරන බව ප්‍රකාශ කළේය.
+🟩
 
-කෘෂිකාර්මික, ඉදිකිරීම් හා වෙනත් කර්මාන්ත සඳහා තම රටේ රැකියා ලබාදෙන ශ්‍රම බලකායට අමතරව සෞඛ්‍ය සේවා හා වෘත්තික සේවා සඳහා නව රැකියා ලබාදීමේ හැකියාව පිළිබඳව ද කොරියානු අග්‍රාමාත්‍යවරයා මෙහිදී සඳහන් කළේය.
+South Korean Prime Minister HAN DUCK SOO and Prime Minister Dinesh Gunawardena held yesterday (04) at the Prime Minister's Office in South Korea.
 
-පසුගිය වකවානුවේ පැවති මූල්‍ය අර්බුදය හමුවේ නැවත නැගී සිටින ශ්‍රී ලංකාවට, තම රට පැරිස් සමාජයේ සාමාජිකයකු ලෙස ඉදිරි කටයුතු සාර්ථකව කරගෙන යෑම සඳහා සෑමවිටම පෙනී සිටින බව කොරියානු අග්‍රාමාත්‍යවරයා සඳහන් කළේය.
+The Korean Prime Minister opens several new jobs gates to Sri Lanka.
+
+The Korean Prime Minister also stated that in addition to providing job forces for agriculture, construction and other industries, the Korean Prime Minister said.
+
+The Prime Minister Korean Prime Minister stated that Sri Lanka has always appeared as a member of Paris Society as a member of the Paris Club of Paris Club.
 
 ◼️
 
 [Data](articles/294b0dc1.json)
+
+[Extended Data](ext_articles/294b0dc1.ext.json)
 
 ---
 
@@ -163,6 +221,26 @@ The house was admitted to the Jaffna Bodhana Hospital and was treated at the hos
 [Data](articles/7e077633.json)
 
 [Extended Data](ext_articles/7e077633.ext.json)
+
+---
+
+### இஸ்ரேல் பிரச்சார யுத்தத்தில் தோற்கின்றது - போரை விரைவில் முடிவிற்கு கொண்டுவரவேண்டும் - டிரம்ப்
+
+*2024-04-05 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180487) · `ta`
+
+காசா யுத்தத்தை இஸ்ரேல் மிகவிரைவில் முடிவிற்கு கொண்டுவரவேண்டும் என அமெரிக்காவின் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் வேண்டுகோள் விடுத்துள்ளார்.
+
+ஹியுஜ் ஹெவிட் என்ற பழமைவாத ஊடகவியலாளருக்கு வழங்கிய பேட்டியில்  டொனால்ட் டிரம்ப்  இஸ்ரேலிற்கான இந்த கடுமையான செய்தியை தெரிவித்துள்ளார்.
+
+இஸ்ரேல் பிரச்சார யுத்தத்தில் தோல்வியடைந்துகொண்டிருக்கின்றது என தெரிவித்துள்ள டிரம்ப் இரத்தக்களறியை வேகமாக முடிவிற்கு கொண்டுவரவேண்டும் என வேண்டுகோள் விடுத்துள்ளார்.
+
+இதனை முடிவிற்கு கொண்டுவருவோம் சமாதானத்தை ஏற்படுத்துவோம் மக்களை கொலை செய்வதை நிறுத்துவோம் என டிரம்ப் தெரிவித்துள்ளார்.
+
+அவர்கள் இதனை செய்தாகவேண்டும் இயல்பு நிலை சமாதானாத்தை ஏற்படுத்தவேண்டும் என்பதால் இஸ்ரேல் இதனை மிகவேகமாக செய்யவேண்டும் என அவர் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/08f60e96.json)
 
 ---
 
@@ -240,7 +318,7 @@ Professor GL Perera, Dilan Perera, Dr. Nalaka Godahewa, KP Kumarasiri, Dr. Upul 
 
 Police Chief Deshabandu Tennakoon arrived at the Supreme Court complex this morning (05), complying with the summons issued to him yesterday.
 
-The Inspector General of Police (IGP) was summoned by the country’s apex court to inquire into the particulars mentioned in the fundamental rights (FR) petitions filed by five chief inspectors with respect to the transfers they were given following the ‘Aragalaya’ movement.
+The Inspector General of Police (IGP) was summoned by the country’s apex court to inquire into the particulars mentioned in the fundamental rights (FR) petitions filed by five Officers-in-Charge (OICs) with respect to the transfers they were given following the ‘Aragalaya’ movement.
 
 The legal counsels representing the petitioners presented facts before a three-member judge bench presided over by Chief Justice Jayantha Jayasuriya yesterday, after which the police chief was ordered to make an appearance before the courts today.
 
@@ -271,6 +349,8 @@ Finalized bilateral restructuring agreements and a deal with private credits are
 ...
 
 [Data](articles/e92d491d.json)
+
+[Extended Data](ext_articles/e92d491d.ext.json)
 
 ---
 
@@ -366,6 +446,8 @@ Jayakody said that Western medical services receive the majority of government f
 
 [Data](articles/7bb3fba2.json)
 
+[Extended Data](ext_articles/7bb3fba2.ext.json)
+
 ---
 
 ### 100 intelligence unit officers on security duties in Colombo
@@ -431,6 +513,8 @@ The Colombo Stock Exchange opened up: The All Share Price Index was up 0.06 perc
 ◼️
 
 [Data](articles/c86a3b26.json)
+
+[Extended Data](ext_articles/c86a3b26.ext.json)
 
 ---
 
@@ -623,6 +707,8 @@ Container yards at Colombo terminals are full as the port copes with traffic dis
 ...
 
 [Data](articles/2f842dd5.json)
+
+[Extended Data](ext_articles/2f842dd5.ext.json)
 
 ---
 
@@ -956,25 +1042,35 @@ As a caring citizen I said, “three cheers”, happily thinking that at last, t
 
 ---
 
-### ජනක රත්නායක ගයත්‍රි බිම්බාට එරෙහිව ඔන්ලයින් පනත යටතේ පළමු තහනම් ආඥාව ලබා ගනී
+### Janaka Ratnayake receives the first base command under the Online Act of Gayathri Bowage
 
 *2024-04-05 05:02:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjkd4pp43zro) · `si`
 
-ජනක රත්නායක ගයත්‍රි බිම්බාට එරෙහිව ඔන්ලයින් පනත යටතේ පළමු තහනම් ආඥාව ලබා ගනී
+Janaka Ratnayake, former Public Utilities Commission Chairman, filed a complaint against Gayathri Bowage, leading to a prohibition issued by the Colombo Magistrate's Court. The case involves allegations of personal and official misconduct, including sexual relationships and the sharing of private content. The court ordered educational measures for Google and WhatsApp regarding online prohibitions.
 
-සමාජ මාධ්‍ය නියාමනය සඳහා මෑතකදී රජය විසින් සම්මත කළ "මාර්ගගත ක්‍රමවල සුරක්ෂිතතාව පිළිබඳ පනත" යටතේ පළමු තහනම් ආඥාව ( අප්‍රේල් 4 වැනිදා) කොළඹ මහේස්ත්‍රාත් අධිකරණය විසින් නිකුත් කරන ලදී.
+🟩
 
-මහජන උපයෝගීතා කොමිසමේ හිටපු සභාපති ජනක රත්නායක විසින් ඉදිරිපත් කළ පැමිණිල්ලක් සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ප්‍රසන්න අල්විස් විසින් මෙම තහනම් ආඥාව නිකුත් කරනු ලැබීය.
+Janaka Ratnayake receives the first base command under the Online Act of Gayathri Bowage
 
-මෙම තහනම් ආඥාව නිකුත් කෙරුණේ පැමිණිලිකාර ජනක රත්නායකගේ පුද්ගලික සහායිකාවක වශයෙන් කටයුතු කළ මේ වන විට තායිවානයේ වෙසෙන ගයත්‍රී බිම්බා, ජනක රාජපක්ෂ සහ ඔෂල හේරත් ඇතුළු පාර්ශ්ව 8 කට එරෙහිවය.
+The first prohibition is recently issued by the Colombo Magistrate's Court (April 4).
 
-මෙම තහනම් ආඥාව පිළිබඳව ගූගල් සහ වට්ස්ඇප් සමාගම් දැනුවත් කිරීමට පියවර ගන්නා ලෙසද මහේස්ත්‍රාත්වරයා විසින් නියෝග කරන ලදී.
+The suspects were issued by the Chief Magistrate Prasanna Alwis after considering a complaint by the former Chairman of the Public Utilities Commission Janaka Ratnayake.
 
-මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත බලාත්මකයි; මේ දක්වා සිදුවුයේ කුමක් ද?මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත: වැඩ වරදින වැරදි මොනවද?
+The prohibition was issued in a personal partner of the plaintiff base, Janaka Rajapakse, Janaka Rajapaksa and Majaka Rajapakshe, and eight parties in Taiwan.
+
+The magistrate also ordered to educate Google and Whatsapp companies about the prohibition.
+
+Online methods' Act is in force;What happened to date? Online Methods Bill: What's wrong with work?
+
+The complainant said that the Leader of the Supreme Court has acted as his personal assistant since 1999 and has been close friends with her.
+
+Therefore, the complaint was aware that the peer pressure was found in the case of the complainant's personal and personal and official life.
 
 ...
 
 [Data](articles/aa2895c9.json)
+
+[Extended Data](ext_articles/aa2895c9.ext.json)
 
 ---
 
@@ -1888,6 +1984,36 @@ Accordingly, the relevant law was taken up again in court in courts this afterno
 
 ---
 
+### බස්නාහිර පළාත්  බුද්ධි  නිලධාරීන් 100 ක් වෙනත් රාජකාරීවලට දමයි
+
+*2024-04-04 20:48:00* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-පළාත්--බුද්ධි--නිලධාරීන්-100-ක්-වෙනත්-රාජකාරීවලට-දමයි/11-408967) · `si`
+
+බස්නාහිර පළාතේ පොලිසි වලට අනුයුක්ත කර සිටින බස්නාහිර පළාත්  බුද්ධි  නිලධාරීන් 100 කු එම රාජකාරි වලින් ඉවත් කර කොළඹ නගරයේ වෙනත් ආරක්ෂක රාජකාරී සඳහා යොදවන බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ  නිහාල් තල්දුව මහතා පැවසීය
+
+පොලිස්පති දේශබන්දු  තෙන්නකෝන් මහතාගේ  උපදෙස් මත  මෙය ක්‍රියාත්මක කරන බවත්  විශේෂයෙන් අවුරුදු සමයේදී සිදුවන වාහන සොරකම් හා රන්මාල කොල්ලකෑම් වැනි අපරාධ වැළැක්වීම මෙහි අරමුණ බවත් මාධ්‍ය ප්‍රකාශකවරයා කීය.
+
+◼️
+
+[Data](articles/a82e20a9.json)
+
+---
+
+### මුස්ලිම් ප්‍රජාවගෙන් විධිමත්ව සමාව ඉල්ලීමට අමාත්‍ය මණ්ඩල පත්‍රිකාවක්
+
+*2024-04-04 20:43:00* · [`adalk`](https://www.ada.lk/breaking_news/මුස්ලිම්-ප්‍රජාවගෙන්-විධිමත්ව-සමාව-ඉල්ලීමට-අමාත්‍ය-මණ්ඩල-පත්‍රිකාවක්/11-408966) · `si`
+
+කෝවිඩ් සමයේ  මළ සිරුරු ආදාහනය කිරීමට සිදුවීම පිළිබඳ මුස්ලිම් ප්‍රජාවගෙන් විධිමත්ව සමාව ඉල්ලා අමාත්‍ය මණ්ඩල පත්‍රිකාවක් ඉදිරිපත් කරන බව ජල සම්පාදන හා වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍ය ජීවන් තොන්ඩමන් මහතා ප්‍රකාශ කළේය.
+
+ඔහු සඳහන් කර සිටියේ ගෝඨාභය රාජපක්ෂ රජය තුළ බලාත්මක කරන ලද අනිවාර්ය ආදාහන ප්‍රතිපත්තිය සම්බන්ධයෙන් මුස්ලිම් ප්‍රජාවගෙන් සමාව අයැද සිටින බවයි.
+
+&මෙම ප්‍රතිපත්තිය මෙහෙයවනු ලැබුවේ කොරෝනා වින්දිතයන් භූමදානය කිරීමෙන් ජල සැපයුම් දූෂිත විය හැකි බවට පවසමින්.ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ ප්‍රවීණයන් විසින් මෙහෙයවන ලද අධ්‍යයනයකින් සහ පේරාදෙණිය විශ්වවිද්‍යාලයේ ජල තාක්‍ෂණ ඒකාබද්ධ පර්යේෂණ හා ප්‍රදර්ශන මධ්‍යස්ථානය විසින් කරන ලද නව විද්‍යාත්මක සොයාගැනීම් මගින් පසුගිය රජයේ ස්ථාවරය දැන් අභියෝගයට ලක්කර ප්‍රතික්ෂේප කර තියෙනවා. එය ජල සම්පාදන හා වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍යාංශය යටතේ ඇති මධ්‍යස්ථානයක්. මේ පිළිබදව පර්යේෂණ කරන ලෙස ඇමැති ධුරය බාරගත් පසු මා උපදෙස් ලබා දුන්නා.
+
+...
+
+[Data](articles/7fe1b242.json)
+
+---
+
 ### How Sri Lanka's two billion dollars to India
 
 *2024-04-04 20:39:04* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවෙන්-ඩොලර්-බිලියන-දෙකක්-ඉන්දියාව-නෙළාගෙන-යන-හැටි/11-408965) · `si`
@@ -1973,6 +2099,22 @@ CJ Jayantha Jayasuriya, Supreme Court Judge Gamini Amarasekera and Mrs. Gamini A
 [Data](articles/bc946bcd.json)
 
 [Extended Data](ext_articles/bc946bcd.ext.json)
+
+---
+
+### ජී.එල්. සමග හයක් සජබ සමග සන්ධානගත වෙයි
+
+*2024-04-04 20:30:41* · [`adalk`](https://www.ada.lk/breaking_news/ජී-එල්--සමග-හයක්-සජබ-සමග-සන්ධානගත-වෙයි/11-408963) · `si`
+
+සමගි ජන බලවේගය ඇතුළු විපක්ෂයේ දේශපාලන පක්ෂ සහභාගිත්වයෙන්  ගොඩනැගෙන සමගි ජන සන්ධානය සමග නිදහස ජනතා සභාව සන්ධානගත වීම  බණ්ඩාරනායක ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලා පරිශ්‍රයේදී අද (5දා) පෙරවරුවේදී සිදුකිරීමට නියමිතය.
+
+ඒ අනුව මෙහිදී ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි හිටපු සභාපති, මහාචාර්ය ජී. එල්. පීරිස් මහතාගේ  නායකත්වයෙන්  නීතිඥ ඩිලාන් පෙරේරා,ආචාර්ය නාලක ගොඩ හේවා,  නීතිඥ වසන්ත යාපා බණ්ඩාර, වෛද්‍ය උපුල් ගලප්පත්ති , කේ.පී.එස් කුමාරසිරි යන  මන්ත්‍රීවරුන් නිදහස ජනතා සභාව නියෝජනය කරමින් සමගි ජන සන්ධානය සමඟ එක්වීමට නියමිතය.
+
+මේ පිළිබඳ අදහස් දක්වමින් නිදහස ජනතා සභාව සඳහන් කර සිටියේ පවතින රජයේ මර්දනකාරී සහ දූෂිත වැඩපිළිවෙළට එරෙහි වෙමින්, ඉදිරි මැතිවරණවලදී විපක්ෂයේ ජයග්‍රහණය අරමුණු කර ගනිමින් විපක්ෂයේ  සැබෑ ආණ්ඩු විරෝධී බලවේග  එක් කර පුළුල් සන්ධානයක් ගොඩනැගීමට අවශ්‍ය පසුබිම සකස් කිරීම සඳහා තම පාර්ශ්ව පසුගිය කාල සීමාව තුළ කටයුතු  කළ බවයි.
+
+...
+
+[Data](articles/1ebefc1c.json)
 
 ---
 
@@ -2093,141 +2235,5 @@ The center is independent of independent quality inspection services, laboratory
 [Data](articles/07d012df.json)
 
 [Extended Data](ext_articles/07d012df.ext.json)
-
----
-
-### President instructs to consolidate the safety period
-
-*2024-04-04 20:01:10* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-කාලයේ-ආරක්ෂාව-තහවුරු-කරන්න-ජනපති-උපදෙස්/11-408959) · `si`
-
-President Ranil Wickremesinghe has ordered officials to plan for continuing essential services during Sinhala and Tamil New Year holidays, ensuring public safety.
-
-🟩
-
-President Ranil Wickremesinghe has instructed officials to formulate a systematic program to continue the essential services and other public service in the Sinhala and Tamil New Year holidays.
-
-The President has also informed the Presidential Secretariat, the Prime Minister's Office, Defense, Health, Transport and Power and Power and Power.
-
-The President has instructed the security forces to ensure public safety of the country during the Sinhala and Tamil New Year.
-
-◼️
-
-[Data](articles/5adfdfcc.json)
-
-[Extended Data](ext_articles/5adfdfcc.ext.json)
-
----
-
-### Are we falling on another?Or aren't there?Decide
-
-*2024-04-04 19:58:15* · [`adalk`](https://www.ada.lk/breaking_news/අපි-තවත්-ඒදණ්ඩ-මතයි-වැටෙනවද--නැත්ද--කියා-තීරණය-කරන්න/11-408958) · `si`
-
-President Ranil Wickremesinghe highlighted the government's economic strength, noting a 50% increase in 2023. He opened the International Gem and Jewelery Trade Center, aiming to boost the gem and jewelry industry. Despite challenges, the economy has shown improvement, with GDP growth from negative 7.4% in July 2022 to positive 4.5% in 2024, and inflation from 54.6% to 0.9%. The government plans to reduce debt and foreign loans, aiming for a 95% debt-to-GDP ratio by 2032 and 2.3% of GDP in foreign loans by 2025.
-
-🟩
-
-The country has been created in the country today with confidence with a strong economy
-
-President will contribute to the national economy - President.
-
-President Ranil Wickremesinghe said that due to the accuracy of the government in the last two years, the government has been strengthened and the government has been able to go down the country.
-
-However, the President has said that the economy of the country is on a damn, the President said that the people should be resolved and resorting to the government and depart from the program.
-
-Remembered that the President has been able to increase over 50% of the year in 2023, that the President has been able to increase over 50% of the year.
-
-President Ranil Wickremesinghe was speaking at the opening of the International Gem and Jewelery Trade Center (Gem Tower) today (04).
-
-...
-
-[Data](articles/474961b6.json)
-
-[Extended Data](ext_articles/474961b6.ext.json)
-
----
-
-### Student dies after concrete object falls on him in school premises
-
-*2024-04-04 19:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98432/student-dies-after-concrete-object-falls-on-him-in-school-premises) · `en`
-
-A school student, who was seriously injured after a concrete object in the school premises fell on him, has succumbed to injuries after being admitted to the hospital.
-
-The deceased, a 11-year-old student identified as S. Anishan, is a resident of Gartmore Estate in Maskeliya.
-
-The student has faced this accident while visiting the lavatory facilities, at around 1.30 p.m. today (04).
-
-Later, the school teachers along with residents in the area have rushed the injured student to the Maskeliya Regional Hospital, where he was pronounced dead after being admitted to the hospital.
-
-Meanwhile, it has been uncovered that the concrete object in question had been brought for a development purpose in a tea estate.
-
-◼️
-
-[Data](articles/b24c7e8b.json)
-
-[Extended Data](ext_articles/b24c7e8b.ext.json)
-
----
-
-### April 18 Plant Planting Day is Murunga Day
-
-*2024-04-04 19:53:26* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රේල්-18-පැල-සිටුවීමේ-දිනය-මුරුංගා-දිනය-වෙයි/11-408957) · `si`
-
-April 18 is Murunga Day, marking the Sinhala and Hindu New Year Festival at Annayal Rajamaha Viharaya in Wattala. The Ministry of Indigenous Medicine and Ayurveda Department organize events, including the Ayurex 2024 Exhibition and massage center initiatives.
-
-🟩
-
-Official Dr. Minister of Indigenous Medicine Sisira Jayakody said that the National Celebration of the Sinhala and Hindu New Year Festival will be held at the Annayal Rajamaha Viharaya in Wattala.
-
-The final rising ritual ritual of the Sinhala and Hindu New Year festival is on April 18, the Ministry of Indigenous Medicine has named the Ministry of Indigenous Medicine.
-
-State Minister of Indigenous Medicine Sisira Jayakody said this at a press conference held at the Presidential Media Center today (04).
-
-...
-
-[Data](articles/f7c0a1a1.json)
-
-[Extended Data](ext_articles/f7c0a1a1.ext.json)
-
----
-
-### ICC. The player of the month recommends Kaminda's name
-
-*2024-04-04 19:32:40* · [`adalk`](https://www.ada.lk/sports/අයි-සි-සී--මාසයේ-ක්‍රීඩකයාට-කමිඳුගේ-නමත්-නිර්දේශ-වෙයි/9-408956) · `si`
-
-Kaminda, Sri Lanka's wicketkeeper, recommended for ICC Player of the Month in March, highlighted for his performance in the Twenty20 Championship and Test series.
-
-🟩
-
-ICC series monthly by the International Cricket Council. The name of Sri Lanka's three-post-player Kamindis's name is also recommended for the month of March in connection with the month of the month.
-
-It is recommended for the Award of March at the Twenty20 Championship and his performance in the Test series.
-
-In addition to him, the award is recommended for this award.
-
-◼️
-
-[Data](articles/1d5f2ee0.json)
-
-[Extended Data](ext_articles/1d5f2ee0.ext.json)
-
----
-
-### 68 suspects of the burning of Sanath Nishantha's house
-
-*2024-04-04 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195310) · `si`
-
-68 suspects in the burning of Minister Sanath Nishantha's house were released due to lack of evidence.
-
-🟩
-
-Attorney-at-Law Swirin Perera said that 68 suspects were released regarding the burning of the house of Minister Sanath Nishantha.
-
-The court decided to release the suspects due to the death of both the evidence for evidence in the case and the police fail to submit the proof of the police.
-
-◼️
-
-[Data](articles/4251142b.json)
-
-[Extended Data](ext_articles/4251142b.ext.json)
 
 ---

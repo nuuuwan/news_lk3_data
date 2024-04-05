@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 07:16:55**
+As of **2024-04-05 07:32:39**
 
 ## Newspaper Stats
 
-*Scraped **17,252** Articles*
+*Scraped **17,255** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ islandlk | 950
 economynextcom | 957
 adalk | 1,456
 tamilmirrorlk | 2,040
-adaderanalk | 2,065
+adaderanalk | 2,066
 virakesarilk | 2,511
 dailymirrorlk | 2,644
-adaderanasinhalalk | 2,783
+adaderanasinhalalk | 2,785
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,245 (100.0%) of 17,252 articles have been extended.
+17,252 (100.0%) of 17,255 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### මහා පරිමාණ මත්ද්‍රව්‍ය ජාලයක තොරතුරු එළියට
+
+*2024-04-05 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195318) · `si`
+
+යුක්තිය මෙහෙයුම යටතේ අත්අඩංගුවට ගත් සැකකරුවෙකු රඳවාගෙන ප්‍රශ්න කිරීමේදී මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරමක තොරතුරු හෙළිකර ගැනීමට පොලීසියට හැකිවී තිබේ.
+
+ඒ ඔස්සේ සැකකරුවන් රැසක් අත්අඩංගුවට ගැනීමට හැකිවූ බව පොලීසිය පවසයි.
+
+කුලී නිවාස තුළ රැඳී සිටිමින් රට පුරා සූක්ෂම ලෙස මත්ද්‍රව්‍ය බෙදාහැරීමට මෙම සැකකරුවන් කටයුතු කර ඇත.
+
+◼️
+
+[Data](articles/851430a9.json)
+
+---
+
+### අදත් ගිගුරුම් සහිත වැසි
+
+*2024-04-05 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195316) · `si`
+
+අද (05) සවස 2න් පමණ පසු බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සිය නවතම නිවේදනය නිකුත් කරමින් ඒ බව සඳහන් කරයි.
+
+වයඹ පළාතේත් මන්නාරම සහ නුවරඑළිය දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+බස්නාහිර, මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනවලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්ෂාංශවලට සෘජුවම ඉහළින් පවතී.
+
+අද දින (05) දහවල් 12:12 ට බලපිටිය, ඇල්පිටිය, මොරවක සහ තිස්සමහාරාමය යන ප්‍රදේශවලට හිරු මුදුන් වනු ඇත.
+
+◼️
+
+[Data](articles/e0e96b93.json)
+
+---
+
+### Met. Dept. says thundershowers expected in parts of the island today
+
+*2024-04-05 06:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98436/met-dept-says-thundershowers-expected-in-parts-of-the-island-today) · `en`
+
+The Meteorology Department says showers or thundershowers can be expected in parts of the Western and Sabaragamuwa provinces and Galle and Matara districts after 2.00 p.m. today (05).
+
+Showers or thundershowers may also take place in parts of the North-western Province and Mannar and Nuwara-Eliya districts in the evening or at night.
+
+Misty conditions can be expected at some places in Western, Central and Sabaragamuwa provinces and Galle and Matara districts during the morning.
+
+The general public is urged to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Meanwhile, on the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka from 05 to 15 April this year. The nearest areas of Sri Lanka over which the sun is overhead today (05th) are Balapitiya, Elpitiya, Morawaka and Tissamaharama at about 12.12 p.m.
+
+◼️
+
+[Data](articles/a89af2f9.json)
+
+---
 
 ### Siddhalepa crowned best Ayurveda company
 
@@ -624,19 +684,25 @@ The deceased is a 11 -year -old student from Kathmore.
 
 ---
 
-### கடந்த மாதத்தில் 291,081 சுற்றுலாப் பயணிகள் வருகை
+### 291,081 tourists visit last month
 
 *2024-04-05 00:26:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடந்த-மாதத்தில்-291-081-சுற்றுலாப்-பயணிகள்-வருகை/175-335633) · `ta`
 
-கடந்த மாதத்தில் மாத்திரம் 291,081 சுற்றுலாப் பயணிகள் நாட்டுக்கு வருகைத்தந்துள்ளனர் என  தெரிவிக்கப்பட்டுள்ளது.
+Last month, 291,081 tourists visited, with India, Russia, and Germany being the top contributors.
 
-அத்துடன், இந்தியாவில் இருந்து வருகைத்தரும் சுற்றுலாப் பயணிகளின் எண்ணிக்கை தொடர்ந்தும் அதிகரித்து வருவதாக அந்த சபை குறிப்பிட்டுள்ளது.
+🟩
 
-இதன்படி, இந்தியாவில் இருந்து 31, 853 பேரும், ரஷ்யாவில் இருந்து 28, 016 பேரும் ஜேர்மனியில் இருந்து 18, 324 பேரும் நாட்டுக்கு வருகைத்தந்துள்ளனர். (a)
+It has been reported that 291,081 tourists have visited the country last month alone.
+
+The council also noted that the number of tourists from India continues to increase.
+
+Accordingly, 31, 853 from India, 28, 016 from Russia and 18, 324 from Germany have arrived in the country.. (A)
 
 ◼️
 
 [Data](articles/1bff2580.json)
+
+[Extended Data](ext_articles/1bff2580.ext.json)
 
 ---
 
@@ -1034,6 +1100,8 @@ The stock market performed on a bullish note throughout the day. Both local and 
 
 [Data](articles/617bd2a6.json)
 
+[Extended Data](ext_articles/617bd2a6.ext.json)
+
 ---
 
 ### National Savings Bank: Celebrating Excellence in Digital Innovation
@@ -1049,6 +1117,8 @@ Moreover, our strides in the digital payment arena have been further acknowledge
 ...
 
 [Data](articles/4639e04e.json)
+
+[Extended Data](ext_articles/4639e04e.ext.json)
 
 ---
 
@@ -2197,79 +2267,5 @@ The letter is informed by the Acting Secretary General that this notification is
 [Data](articles/fb8429ae.json)
 
 [Extended Data](ext_articles/fb8429ae.ext.json)
-
----
-
-### Gallem tree in Galle is Turned into Galle
-
-*2024-04-04 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195296) · `si`
-
-In Galle, a murder in Dangarandara's Dangedara digis garden was due to a personal dispute. Four suspects aged 20-54 were arrested. The victim's remains are at Karapitiya Hospital for further police investigation.
-
-🟩
-
-Police say a person has been assaulted in the Dangedara in the Dangedara area in Galle.
-
-The victim was a resident of Dangarandara.
-
-Police say the murder took place in the Dangedara digis garden in Galle.
-
-The police investigations have revealed that the murder had taken place due to a personal dispute.
-
-Meanwhile, police have arrested four ages aged between the ages of 20 to 54.
-
-The remains are placed at the Karapitiya Hospital while the Galle Police are conducting further investigations.
-
-◼️
-
-[Data](articles/80864b0c.json)
-
-[Extended Data](ext_articles/80864b0c.ext.json)
-
----
-
-### Vijaya Newspaper staff
-
-*2024-04-04 15:40:08* · [`adalk`](https://www.ada.lk/breaking_news/විජය-පුවත්පත්-කාර්ය-මණ්ඩලයට-නැකතට-පැළයක්/11-408954) · `si`
-
-The Ministry of Agriculture is launching a home gardening program to celebrate Sinhala and Tamil New Year, with Minister Mahinda Amaraweera encouraging public participation. Vijaya Newspaper staff received fruit plants from the Wijaya Press Company Welfare Association.
-
-🟩
-
-The Ministry of Agriculture and Plantation Industries have taken measures to implement a home gardening program to cover up the trees of the Sinhala and Tamil New Year.
-
-Minister Mahinda Amaraweera requests the public to plant a productive plant in the planting program, which has been named as a nation-breathing reaction to the nation.
-
-Meanwhile, the Minister made the distribution of fruit plants to the staff of the Vijaya Newspapers in parallel.. Organized by the Wijaya Press Company Welfare Association Lal Jayawardena, Chairman of the Lankapadaka, Sunday Lankadeepa, and Duminda Sanjeewa Balasuriya were also present.
-
-◼️
-
-[Data](articles/1e828b52.json)
-
-[Extended Data](ext_articles/1e828b52.ext.json)
-
----
-
-### Weerasena Gamage tipped to fill Nandasena’s vacant MP seat
-
-*2024-04-04 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98426/weerasena-gamage-tipped-to-fill-nandasenas-vacant-mp-seat-) · `en`
-
-Sri Lanka Podujana Peramuna’s Weerasena Gamage is expected to fill the parliamentary seat left vacant following the passing of Anuradhapura District SLPP MP H. Nandasena this morning (04).
-
-SLPP Parliamentarian Nandasena had passed away due to a sudden illness this morning at the age of 69, family members confirmed to Ada Derana.
-
-He was a former member of Padaviya Pradeshiya Sabha and North Central Provincial Council where he held a provincial ministerial portfolio.
-
-He was dismissed from his ministerial position in May 2017 after attending a Joint Opposition May Day rally.
-
-He contested the 2020 parliamentary election as a candidate of the Sri Lanka People’s Freedom Alliance in Anuradhapura District and was elected to the Parliament of Sri Lanka.
-
-Weerasena is reportedly next in line on the Sri Lanka Podujana Peramuna (SLPP) list for the Anuradhapura District.
-
-...
-
-[Data](articles/271d2c90.json)
-
-[Extended Data](ext_articles/271d2c90.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 07:53:10**
+As of **2024-04-05 08:03:44**
 
 ## Newspaper Stats
 
-*Scraped **17,258** Articles*
+*Scraped **17,260** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 1,457
 tamilmirrorlk | 2,041
 adaderanalk | 2,066
 virakesarilk | 2,511
-dailymirrorlk | 2,644
-adaderanasinhalalk | 2,785
+dailymirrorlk | 2,645
+adaderanasinhalalk | 2,786
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,255 (100.0%) of 17,258 articles have been extended.
+17,258 (100.0%) of 17,260 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### Foreigners overstaying visas and doing odd jobs
+
+*2024-04-05 07:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Foreigners-overstaying-visas-and-doing-odd-jobs/155-280216) · `en`
+
+Foreign nationals who overstay their visas and do various odd jobs to earn money continue unabated with the authorities concerned hamstrung with the lack of resources to curb them, an official said.
+
+In one instance, another group of 15 foreigners overstaying their visas in Sri Lanka and doing online jobs for a living were arrested by an investigation team of the Department of Immigration and Emigration during raids in Colombo and Dehiwala yesterday.
+
+Eleven of them were Indians from Bihar, Andhra Pradesh, Uttharakhand, Gujarat and Maharashtra states and others Napalese aged between 20 and 30.
+
+Initial investigations revealed that some of them had arrived on resident visas and others on tourist visas
+
+A senior official of the Department of Immigration and Emigration said the suspect foreigners would be further interrogated at the Mirihana Detention Centre and deported after court proceedings.
+
+...
+
+[Data](articles/208194d4.json)
+
+---
+
+### ශ්‍රීලනිපය දැන් කාගේද ?
+
+*2024-04-05 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195319) · `si`
+
+පක්ෂයේ දේශපාලන තීන්දු ගැනීම පක්ෂ මධ්‍යම කාරක සභාව ඇතුළු පක්ෂයේ සෙසු කාරක සභා මගින් පමණක් තීරණය කරන බව ශ්‍රී ලංකා නිදහස් පක්ෂ ජ්‍යෙෂ්ඨ උප සභාපති මහාචාර්ය රෝහණ ලක්ෂ්මන් පියදාස මහතා පවසයි.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා වශයෙන් කටයුතු කරන හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට එම ධුරයේ කටයුතු කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය ඊයේ (04) වාරණ නියෝගයක් නිකුත් කරනු ලැබීය.
+
+නිදහස් පක්ෂයේ අනුශාසකවරියක වන හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය විසින් ඉදිරිපත් කළ පැමිණිල්ලක් සලකා බැලීමෙන් අනතුරුව කොළඹ දිසා විනිසුරුවරයා ලබන 18 වනදා දක්වා බලපැවැත්වෙන පරිදි එම වාරණ නියෝගය නිකුත් කර තිබුණි.
+
+කෙසේවෙතත් අධිකරණය ක්‍රියාවලිය තුළ නීතිමය පැහැදිලි කිරීමක් මගින් අතුරු තහනම් නියෝගයක් නිකුත් කළද පක්ෂයේ දේශපාලන ඉදිරි තීන්දු තීරණ පක්ෂයේ කාරක සභාවන් විසින් ගනු ඇති බව පක්ෂ ජ්‍යෙෂ්ඨ උප සභාපති මහාචාර්ය රෝහණ ලක්ෂ්මන් පියදාස මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/090ad7ae.json)
+
+---
 
 ### Outfit from a large-scale drug network
 
@@ -606,6 +644,8 @@ I have closely observed Modi’s evolving ideologies, particularly in his approa
 
 [Data](articles/0cb1baca.json)
 
+[Extended Data](ext_articles/0cb1baca.ext.json)
+
 ---
 
 ### Special Transport Services on New Year - Ministry of Transport
@@ -664,21 +704,27 @@ The Secretary of the Urban Council visited the scene on the 23rd of last month a
 
 ---
 
-### ’வீதியில் இறங்கி அரசியல் செய்ய சந்தர்ப்பம்’
+### Get down on the road and make politics
 
 *2024-04-05 00:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீதியில்-இறங்கி-அரசியல்-செய்ய-சந்தர்ப்பம்/175-335636) · `ta`
 
-கடந்த இரண்டு வருடங்களில் அரசாங்கம் நாட்டில் முன்னெடுத்த சரியான தீர்மானங்களினால் நாட்டின் பொருளாதாரம் வலுப்பெற்றுள்ளதுடன் இன்று எவரும் வீதியில் இறங்கி அரசியல் செய்யும் சந்தர்ப்பம் கிடைத்துள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe highlighted the government's economic strengthening through decisive actions over the past two years, despite acknowledging the economy remains in a precarious state. He noted a 50% increase in government income in 2022, emphasizing the foundation for a strong economy.
 
-ஆனால், நாட்டின் பொருளாதாரம் இன்னும் தொங்குபாலத்தில் இருப்பதாக சுட்டிக்காட்டிய ஜனாதிபதி, அரசாங்கத்தின் வேலைத்திட்டத்தை வெற்றிபெறும் வரை தொடர்ந்து செல்வதா அல்லது அந்த வேலைத்திட்டத்தை விட்டுவிட்டு நாட்டை மீண்டும் அதலபாதாளத்தில் தள்ளிவிடுவதா என்பதை மக்கள் தீர்மானிக்க வேண்டும் எனவும் தெரிவித்தார்.
+🟩
 
-2022 ஆம் ஆண்டை விட 2023 ஆம் ஆண்டு அரசாங்கத்தின் வருமானம் 50 வீதத்துக்கும் அதிகமாக உயர்ந்துள்ளதை நினைவு கூர்ந்த ஜனாதிபதி, வலுவான பொருளாதாரத்துடன் நம்பிக்கையுடன் முன்னோக்கிச் செல்வதற்கான பின்னணி நாட்டில் உருவாக்கப்பட்டுள்ளதாகவும் சுட்டிக்காட்டினார்.
+President Ranil Wickremesinghe said that the government's economy has been strengthened by the government's exact decisions in the country over the past two years.
 
-சர்வதேச இரத்தினக்கல் , ஆபரண வர்த்தக நிலையத்தை (இரத்னபுரி இரத்தினக்கல் கோபுரம்) நேற்று திறந்து வைக்கும் நிகழ்வில் கலந்து கொண்டு உரையாற்றிய போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார். (a)
+However, the president pointed out that the economy of the country is still in the hanging bridge, and that the people have to decide whether the government will continue to go back to the government's program or leave the program again.
+
+Recalling that the government's income rose by more than 50 percent in 2022 more than 2022, the president pointed out that the background of the country was created in the country with a strong economy.
+
+President Ranil Wickremesinghe made this statement while addressing the opening ceremony of the International Gem and Jewelery Trade (Ratnapuri Gem Tower) yesterday.. (A)
 
 ◼️
 
 [Data](articles/98e799bd.json)
+
+[Extended Data](ext_articles/98e799bd.ext.json)
 
 ---
 
@@ -1168,25 +1214,33 @@ Moreover, our strides in the digital payment arena have been further acknowledge
 
 ---
 
-### රට විරුවන්ට දුන් විද්‍යුත් වාහන බලපත්‍ර තාවකාලිකව නවත්වයි
+### Electrical vehicle licenses that were given to the heroes is temporarily stopped
 
 *2024-04-04 20:22:19* · [`adalk`](https://www.ada.lk/breaking_news/රට-විරුවන්ට-දුන්-විද්‍යුත්-වාහන-බලපත්‍ර-තාවකාලිකව-නවත්වයි/11-408962) · `si`
 
-ආනයනික අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය වෙළෙඳපොළ මිල මත පදනම්ව අළෙවි කිරීමෙන්  එක් කිලෝවක් සඳහා වෙළෙන්දන් ලැබූ ලාභය රු. 100-1000 අතර බව ක්‍රම සහ විධි කාරක සභාවේදී අනාවරණය වෙයි.
+Electrical vehicle license issuance halted. Sri Lankans abroad's licensing suspended until audit. Profit for selling imported food items revealed between 100-1000. Tax revenue drop on imported goods since 2018 due to special commodity tax. Customs officials to submit import records. Inland Revenue Act emphasizes tax reporting. Consumer Affairs Authority intervention for festive season. Program to deal with permit applications and social media. Advice on extending electrical vehicle licensing. Inland Revenue Department instructed on tax collection and legal action.
 
-විගණකාධිපතිවරයා විසින් පවත්වනු  ලබන වෝහාරික විගණනය අවසන්  වන තෙක් විදේශයන්හි සේවයේ නියතු ශ්‍රී ලාංකිකයන් සඳහා විද්‍යුත් වාහන ආනයනය කිරීම සඳහා බලපත්‍ර ලබා දීම දීර්ඝ කිරීමේ ගැසට් පත්‍රය අත්හිටුවන ලෙස උපදෙස්
+🟩
 
-එකතු කළ හැකි හිඟ බදු රු. බිලියන 188 අය කර ගැනීම සඳහා දේශීය ආදායම් පනත අනුව ඉක්මන් ක්‍රියාමාර්ග ගැනීමට උපදෙස්
+Profit for one kilous for one kilo of imported food items on market prices is Rs.. It is revealed at the methods and the methods that are between 100-1000.
 
-වයස අවුරුදු 18 ට වැඩි පුද්ගලයන් සඳහා බදු ලිපිගොනු විවෘත කිරීම වෙනුවට මාසයකට රු. 100000කට වඩා ආදායමක් උපයන පුද්ගලයන් පිළිබඳ දත්ත ඩිජිටල් වේදිකාවකට ගැනීම උපදෙස්
+Gazette suspension of licensing for Sri Lankans who are employed abroad until the angel of the wheeler audit will be held by the Auditor General
 
-ආනයනික අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය වෙළෙඳපොළ මිල මත පදනම්ව අළෙවි කිරීමෙන් වෙළෙන්දන්  එක් කිලෝවක් සඳහා ලැබූ ලාබය රු. 100-1000 අතර බව ක්‍රම සහ විධි කාරක සභාවේදී අනාවරණය විය.
+Addable arrears. 188 billion instructions on the Inland Revenue Act
 
-මේ පිළිබඳ අනාවරණය වූයේ ක්‍රම හා විධි පිළිබඳ කාරක සභාව පාර්ලිමේන්තු මන්ත්‍රී ගරු පාඨලී චම්පික රණවක මහතාගේ ප්‍රධානත්වයෙන් පසුගියදා (02) පාර්ලිමේන්තුවේදි රැස් වූ අවස්ථාවේදීය.
+Instead of opening tax files for more than 18 years of age is Rs.. Advice on people who earn more than 100,000
+
+Traders' profits for one kilo of merchants for one kilo of merchants by selling imported food items on market prices.. Salage was revealed at the methods and methods that were between 100-1000.
+
+The Committee was revealed when the Member of Parliament met with Hon
+
+Essential Food Material The Market Prices and Imports of Import of FoodsOfficials Officers of the Research and Training Institute were summoned for this purpose.
 
 ...
 
 [Data](articles/9c64b3c4.json)
+
+[Extended Data](ext_articles/9c64b3c4.ext.json)
 
 ---
 
@@ -2225,51 +2279,5 @@ School health surveys have revealed that school health surveys have revealed tha
 [Data](articles/ff022e61.json)
 
 [Extended Data](ext_articles/ff022e61.ext.json)
-
----
-
-### Katchatheevu issue: ‘If India crosses sea boundary, it will be seen as violation of sovereignty’
-
-*2024-04-04 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98428/katchatheevu-issue-if-india-crosses-sea-boundary-it-will-be-seen-as-violation-of-sovereignty) · `en`
-
-Amid the attempts of India’s Bharatiya Janata Party (BJP) to reignite the decades-old Katchatheevu issue ahead of the general elections, former Sri Lankan envoy to India Austin Fernando said the party may have invoked a “vote-puller” but it would be difficult for the Indian government to step back after the elections, which is a “problem”.
-
-A widely respected and experienced official, Fernando was speaking with The Indian Express over the phone from Colombo on Wednesday. He said if the Indian government crosses the Sri Lankan maritime international boundary line, it would be seen as a “violation of Sri Lankan sovereignty”, as he recalled Sri Lankan President Ranasinghe Premadasa’s statements on the Indian Peacekeeping Force in late 1980s.
-
-...
-
-[Data](articles/4f52c0dc.json)
-
-[Extended Data](ext_articles/4f52c0dc.ext.json)
-
----
-
-### Even if my bookstore burns a hundred times, I will create it again - the unwavering struggle of the owner of the bookstore destroyed by the Taliban
-
-*2024-04-04 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180443) · `ta`
-
-Cha Mohammed Rais, owner of a bookstore in Kabul, Afghanistan, faced the destruction of his store by the Taliban in 2021. Despite this, Rais, who has published over a million texts in various languages, escaped to the UK. He expressed concern about his bookstore's future and the Taliban's impact on education. Rais, fluent in six languages, has since re-established his bookstore online, with new books printed in India and sent to Afghanistan. He continues to support women's education and fight extremism through books, viewing them as a powerful tool against terrorism.
-
-🟩
-
-Cha Mohammed Rais opened his bookstore in 1974 in the Afghan capital, Cabul.
-
-His story is popular in the international stage following the amusement of the book Kabulin Bookmaster, published in 2003.. At that time more than one million texts were from him - in a variety of languages - literary political economy.
-
-Rice escaped to the United Kingdom after the Taliban re -captured the rule of 2021
-
-I am worried about my book shop. I fear that the Taliban will destroy it, ”he told the Guardian.
-
-Last December, the Taliban who went to the bookstore closed the shop and asked the employees to ask for the passports of the Rice's website.
-
-Knowing what happened, I was shocked and said that he was frozen.
-
-From learning of the incident, I have seen suicide from two days, but suddenly I have recovered my soul.
-
-...
-
-[Data](articles/52c7d07e.json)
-
-[Extended Data](ext_articles/52c7d07e.ext.json)
 
 ---

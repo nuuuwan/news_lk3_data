@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 20:18:02**
+As of **2024-04-05 20:33:52**
 
 ## Newspaper Stats
 
-*Scraped **17,381** Articles*
+*Scraped **17,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,89 @@ dailyftlk | 944
 islandlk | 951
 economynextcom | 962
 adalk | 1,466
-tamilmirrorlk | 2,048
+tamilmirrorlk | 2,050
 adaderanalk | 2,090
 virakesarilk | 2,535
-dailymirrorlk | 2,663
+dailymirrorlk | 2,664
 adaderanasinhalalk | 2,814
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,380 (100.0%) of 17,381 articles have been extended.
+17,381 (100.0%) of 17,384 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### දමිතා කළ වැරැද්ද අධිකරණයේ දී හෙළිවෙයි
+### அதிகரிக்கும் வெப்பம் - சில மாவட்டங்களுக்கு எச்சரிக்கை
+
+*2024-04-05 20:08:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகரிக்கும்-வெப்பம்-சில-மாவட்டங்களுக்கு-எச்சரிக்கை/175-335647) · `ta`
+
+வடக்கு, வடமத்திய, கிழக்கு, மேல், சப்ரகமுவ, வடமேல் மற்றும் தென் மாகாணங்களுக்கும் மொனராகலை மற்றும் மாத்தளை மாவட்டங்களுக்கும் வெப்பமான வானிலை குறித்து எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+அதன்படி, குறித்த பகுதிகளில் வாழும் மக்களுக்கு மனித உடலால் உணரப்படும் வெப்பம், கவனம் செலுத்த வேண்டிய மட்டத்தில் இருக்கக்கூடும் என்று எதிர்பார்க்கப்படுகிறது. R
+
+◼️
+
+[Data](articles/ab70e672.json)
+
+---
+
+### Court dismisses enjoining order against SLSCA
+
+*2024-04-05 20:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-dismisses-enjoining-order-against-SLSCA/108-280260) · `en`
+
+Apr. 5 (Daily Mirror) - The Colombo District Court Judge Sandun Vithana today made an order suspending an enjoining order obtained against the office-bearers of the Sri Lanka Schools Cricket Association (SLSCA).
+
+The order of the Court suspending the enjoining order was made in response to an urgent application filed by motion by the Attorneys-at-Law representing the President and Secretary of the SLSCA.
+
+The Plaintiffs had obtained the order on March 25, 2024 preventing the SLSCA from conducting the demotion and relegation cricket matches scheduled as part of the Under-19 Inter-Schools Division I Two-Day Cricket Tournament, conducted by the Association.
+
+The Defendants had brought to the notice of Court that it is an unincorporated association and that grave and irreparable damage was being caused to the SLSCA, its members, school cricketers, and their education by the actions of the Plaintiffs.
+
+...
+
+[Data](articles/27ab08f2.json)
+
+---
+
+### தொலைபேசி வாங்க காத்திருப்போருக்கு மகிழ்ச்சியான செய்தி
+
+*2024-04-05 20:01:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொலைபேசி-வாங்க-காத்திருப்போருக்கு-மகிழ்ச்சியான-செய்தி/175-335646) · `ta`
+
+டொலரின் பெறுமதி வீழ்ச்சி காரணமாக இலங்கையில் கையடக்க தொலைபேசிகளின் விலை 18% - 20% வரை குறைந்துள்ளதாக இலங்கை கையடக்க தொலைபேசி இறக்குமதியாளர்கள் மற்றும் விற்பனையாளர்கள் சங்கத்தின் தலைவர் சமித் செனரத் தெரிவித்தார்.
+
+தற்போது டொலர் 300 ரூபா வரை குறைந்துள்ளது. இதன் காரணமாக கையடக்க தொலைபேசிகளின் விலை குறைக்கப்பட்டுள்ளது.
+
+சந்தையில் அதிக விலைக்கு விற்கப்படும் ஐபோன் 15 pro max 515,000 முதல் 530,000 ரூபா வரை காணப்பட்ட விலை தற்போது 375000 ரூபா வரை குறைவடைந்துள்ளது.
+
+அதேபோல், குறைந்த விலையுடைய கைப்பேசிகளின் விலையும் 18 - 20 சதவீதம் வரையில் குறைவடைந்துள்ளதை காணக்கூடியதாய் உள்ளது.
+
+10,000 ரூபா வரை அதிகரித்திருந்த கைப்பேசியை தற்போது 7,000 ரூபாக்கு பெற்றுக் கொள்ள முடியும் என்றும் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/8c450052.json)
+
+---
+
+### Damitha was wrong in court
 
 *2024-04-05 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195348) · `si`
 
-අත්අඩංගුවට ගත් ජනප්‍රිය රංගන ශිල්පිනී දමිතා අබේරත්න හා ඇයගේ සැමියා ආගාමික හා විගාමික පනත යටතේ වරදක් සිදුකර ඇතැයි අද (05) අධිකරණයේ දී අනාවරණය වුණි.
+Damitha Abeyratne and her husband were convicted under the Immigration and Emigration Act.
+
+🟩
+
+The popular acting artist Damitha Abeyratne and her husband have been condemned under the Immigration and Emigration Act today (05).
 
 ◼️
 
 [Data](articles/28ea00a5.json)
+
+[Extended Data](ext_articles/28ea00a5.ext.json)
 
 ---
 
@@ -2271,81 +2329,5 @@ The IMF reached a staff-level agreement with Sri Lanka on its second review of a
 [Data](articles/256f3190.json)
 
 [Extended Data](ext_articles/256f3190.ext.json)
-
----
-
-### Special bus running from today
-
-*2024-04-05 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195322) · `si`
-
-From today, a Special Bus Service for the Sinhala-Tamil New Year runs, adding 200 buses from Colombo to all areas. The Railway Department also starts a special train service from the 10th, deploying 12 trains daily until the 15th.
-
-🟩
-
-The Special Bus Service for the Sinhala-Tamil New Year is implemented from today (05).
-
-The bus service will be operated to the village force during the festive season and will run around 200 additional buses.
-
-Accordingly, the bus service will be operated from Colombo to every area of the country.
-
-Meanwhile, the Railway Department says that a special train service operating for the festive season will also be implemented from the 10th.
-
-The Department has decided to deploy nearly 12 Special trains daily.
-
-Accordingly, the special train service will be implemented until the 15th.
-
-◼️
-
-[Data](articles/426df9fa.json)
-
-[Extended Data](ext_articles/426df9fa.ext.json)
-
----
-
-### Sabbi UPFA's first stage today
-
-*2024-04-05 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195321) · `si`
-
-UPFA's first stage today involves an agreement between MPs and Independence, focusing on elections and policy. Key figures include Prof. GL Perera, Dilan Perera, and others. Dullas Alahapperuma was not informed.
-
-🟩
-
-The first phase of the establishment of the UPFA is implemented today (05).
-
-MPs S. S. S. S. Sternal A Memorandum of Understanding Agreement between a group of people in the People's Council and Independence. Mary Marikkar said.
-
-The agreement will be taken on the basis of the coming elections and policy matters on the discussion of several months.
-
-Accordingly, Prof. GL Perera, Dilan Perera, Dr. Nalaka Godahewa, KP Kumarasiri, Dr. Upul Galappaththi and Wasantha Yapa Bandara.
-
-However, MP Dullas Alahapperuma said he had not informed him about the new alliance.
-
-A group of people who left the Sri Lanka Civil Front had previously decided to act in the name of the Jewelery as the People's Council.
-
-◼️
-
-[Data](articles/9d6a11ca.json)
-
-[Extended Data](ext_articles/9d6a11ca.ext.json)
-
----
-
-### 24 suspects died in police custody last year
-
-*2024-04-05 08:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/24-suspects-died-in-police-custody-last-year/108-280221) · `en`
-
-Colombo, April 5 (Daily Mirror) - Sri Lanka Human Rights Commission (SLHRC) has reported that 24 suspects had died in police custody last year.
-
-Chairman of the Commission Attorney at Law Nimal Punchihewa said killing in police shootings when suspects were taken to secret locations to recover weapons had been reported frequently and that it was the responsibility of the OIC of the police station to provide protection to the suspects in custody.
-
-He said that two suspects had died in police custody in the last two months.
-
-He said the SLHRC had received 9,417 public complaints against the police for 2023 and 44 of them referred to incidents in the Yukthiya operation.
-
-◼️
-
-[Data](articles/77ff0d96.json)
-
-[Extended Data](ext_articles/77ff0d96.ext.json)
 
 ---

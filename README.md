@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 10:33:46**
+As of **2024-04-05 10:51:09**
 
 ## Newspaper Stats
 
-*Scraped **17,279** Articles*
+*Scraped **17,281** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 950
 economynextcom | 957
 adalk | 1,458
 tamilmirrorlk | 2,044
-adaderanalk | 2,070
-virakesarilk | 2,512
+adaderanalk | 2,071
+virakesarilk | 2,513
 dailymirrorlk | 2,649
 adaderanasinhalalk | 2,792
 
@@ -26,23 +26,65 @@ adaderanasinhalalk | 2,792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,278 (100.0%) of 17,279 articles have been extended.
+17,279 (100.0%) of 17,281 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
 
-### දේශබන්දු අධිකරණය හමුවට
+### IGP Tennakoon appears before Supreme Court
+
+*2024-04-05 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98439/igp-tennakoon-appears-before-supreme-court) · `en`
+
+Police Chief Deshabandu Tennakoon arrived at the Supreme Court complex this morning (05), complying with the summons issued to him yesterday.
+
+The Inspector General of Police (IGP) was summoned by the country’s apex court to inquire into the particulars mentioned in the fundamental rights (FR) petitions filed by five chief inspectors with respect to the transfers they were given following the ‘Aragalaya’ movement.
+
+The legal counsels representing the petitioners presented facts before a three-member judge bench presided over by Chief Justice Jayantha Jayasuriya yesterday, after which the police chief was ordered to make an appearance before the courts today.
+
+◼️
+
+[Data](articles/4ad976a5.json)
+
+---
+
+### தான் திருடியதற்காக பொலிஸாரிடம் சரணடைந்து தண்டனை கோரும் இளம் பிக்கு!
+
+*2024-04-05 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180477) · `ta`
+
+இளம் பிக்கு ஒருவர் பொலிஸாரிடம் தன்னை கைது செய்து தண்டனை வழங்கமாறு கூறி யக்கல பொலிஸ் நிலையத்தில் நேற்று (04)  வியாழக்கிழமை சரணடைந்துள்ளார்.
+
+இவர் தான்  செய்த திருட்டுக் குற்றச் செயல்களுக்கு தண்டனை கிடைக்க வேண்டும் என்று கூறி தனது  தாயுடன்  பொலிஸ் நிலையம் சென்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இதன் போது  பொலிஸாரினால் இளம் பிக்கு கைது செய்யப்பட்டு  மேலதிக விசாரணைகள் மேற்கொள்ளப்பட்டுள்ளன.
+
+சுமார் எட்டு வருடங்களுக்கு முன்பு தான் செய்த திருட்டுக் குற்றச் செயல்களுக்காக தனக்கு தண்டனை கிடைக்க வேண்டும் எனவும் தனக்கு தண்டனை கிடைக்கும் வரையில் தான் தியான நிலையில்  ஈடுபடுவதற்கு  மனநிம்மதி இல்லை எனவும் தெரிவித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+அத்தோடு, தனக்கு தண்டனை கிடைத்து  மன அமைதி பெற வேண்டும் என்பதற்காகவே  இவர்  சரணடைந்துள்ளதாகவும்  பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/25630a4c.json)
+
+---
+
+### Deshabandu
 
 *2024-04-05 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195325) · `si`
 
-පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා මේ වන විට ශ්‍රේෂ්ඨාධිකරණයට පැමිණ තිබේ.
+Deshabandu Tennakoon appeals to Supreme Court over fundamental rights petitions from five OICs.
 
-ඒ, අරගල සිද්ධීන්වලින් පසුව ස්ථාන මාරුවීම් ලද පොලිස් ස්ථානාධිපතිවරුන් 05 දෙනෙකු විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් සම්බන්ධයෙන් කරුණු දැක්වීම සඳහා ය.
+🟩
+
+IGP Deshabandu Tennakoon has come to the Supreme Court.
+
+It is for the fundamental rights petitions presented by five OICs transferred after the struggles.
 
 ◼️
 
 [Data](articles/2a9b8e2e.json)
+
+[Extended Data](ext_articles/2a9b8e2e.ext.json)
 
 ---
 
@@ -74,6 +116,28 @@ But it should be approved by the International Monetary Fund Executive.
 
 ---
 
+### 100 intelligence unit officers on security duties in Colombo
+
+*2024-04-05 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180475) · `ta`
+
+100 Police Intelligence Officers in Colombo reassigned from security to public duties, led by Chief Minister Patriot Thennakoon, to combat crimes during the Tamil-Sinhala New Year, following increased efforts against underworld and drug activities.
+
+🟩
+
+In the Western Province, 100 Police Intelligence Officers have been released from their duties and re -appointed security duties in Colombo.
+
+In particular, the Chief Minister of Police, Patriot Thennakoon, has issued a directive to engage in public duties in Colombo to prevent crimes such as vehicle theft and gold jewelery crimes in the Tamil -Sinhala New Year.
+
+Over the past few weeks, the police have intensified activities against underworld and drug activities nationwide.
+
+◼️
+
+[Data](articles/b801256a.json)
+
+[Extended Data](ext_articles/b801256a.ext.json)
+
+---
+
 ### The petition called the incident that claimed he was insulted into court
 
 *2024-04-05 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195323) · `si`
@@ -95,28 +159,6 @@ The petition was presented by a lawyer of the lawyer Shiz Augustus Pitrajali, an
 [Data](articles/519b8fb9.json)
 
 [Extended Data](ext_articles/519b8fb9.ext.json)
-
----
-
-### 100 intelligence unit officers on security duties in Colombo
-
-*2024-04-05 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180475) · `ta`
-
-100 Police Intelligence Officers in Colombo reassigned from security to public duties, led by Chief Minister Patriot Thennakoon, to combat crimes during the Tamil-Sinhala New Year, following increased efforts against underworld and drug activities.
-
-🟩
-
-In the Western Province, 100 Police Intelligence Officers have been released from their duties and re -appointed security duties in Colombo.
-
-In particular, the Chief Minister of Police, Patriot Thennakoon, has issued a directive to engage in public duties in Colombo to prevent crimes such as vehicle theft and gold jewelery crimes in the Tamil -Sinhala New Year.
-
-Over the past few weeks, the police have intensified activities against underworld and drug activities nationwide.
-
-◼️
-
-[Data](articles/b801256a.json)
-
-[Extended Data](ext_articles/b801256a.ext.json)
 
 ---
 
@@ -2221,51 +2263,5 @@ At the same time, there is a lot of confusion between the scenes and the vote fr
 [Data](articles/a65ad3b9.json)
 
 [Extended Data](ext_articles/a65ad3b9.ext.json)
-
----
-
-### Lorry - three -wheeler accident
-
-*2024-04-04 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/180449) · `ta`
-
-In Kurundu Oya, Kandapalai, two were injured in a three-wheeler collision with a lorry. Both were admitted to Nuwara Eliya District General Hospital.
-
-🟩
-
-Two persons were injured in an accident on Thursday (04) in the Kurundu Oya area of the Kandapalai and Hyborust Police Division, Hyborist police said.
-
-Police said the accident occurred when a three -wheeler collided with a three -wheeler in the opposite direction.
-
-A man who was traveling in a three -wheeler and a lorry was injured and admitted to the Nuwara Eliya District General Hospital.
-
-◼️
-
-[Data](articles/f6033e25.json)
-
-[Extended Data](ext_articles/f6033e25.ext.json)
-
----
-
-### Kayts of Kayts
-
-*2024-04-04 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180450) · `ta`
-
-In Kayts, a violent gang attacked the town, sparked by a conflict between high-quality students and a man. The gang was handed over to the police.
-
-🟩
-
-Yall. The people of the town have been caught by a violent gang that went to carry out an attack today in Kayts - Melinjimunima.
-
-In 2012, high -quality students who were educated at a school were working as a group of WhatsApp Social Media.
-
-In this case, there was a conflict between the two. In this case, another person has summoned a violent gang from outside the town to attack a man involved in the conflict.
-
-While the armed gang, which was armed with the armed gang, all the people in the town had been gathered and handed over the gang to the Kayts police.
-
-◼️
-
-[Data](articles/90d14a32.json)
-
-[Extended Data](ext_articles/90d14a32.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 10:51:09**
+As of **2024-04-05 11:03:06**
 
 ## Newspaper Stats
 
-*Scraped **17,281** Articles*
+*Scraped **17,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 950
 economynextcom | 957
 adalk | 1,458
 tamilmirrorlk | 2,044
-adaderanalk | 2,071
-virakesarilk | 2,513
+adaderanalk | 2,072
+virakesarilk | 2,514
 dailymirrorlk | 2,649
 adaderanasinhalalk | 2,792
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 2,792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,279 (100.0%) of 17,281 articles have been extended.
+17,281 (100.0%) of 17,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### Six MPs of ‘Nidahasa Janatha Sabhawa’ join SJB-led alliance
+
+*2024-04-05 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98440/six-mps-of-nidahasa-janatha-sabhawa-join-sjb-led-alliance) · `en`
+
+The Samagi Jana Balawegaya (SJB) signed a Memorandum of Understanding (MoU) with a group of members of Freedom People’s Congress (Nidahasa Janatha Sabhawa) as the first step of forming the main opposition-led ‘Samagi Jana Sandhanaya’, a short while ago.
+
+The agreement has been reached based on the discussions carried out for several months regarding the upcoming elections and policy issues.
+
+Accordingly, the agreement has been signed between the SJB and 06 MPs of Nidahasa Janatha Sabhawa including Prof. G.L. Peiris, Dilan Perera, Dr. Nalaka Godahewa, K.P. Kumarasiri, Dr. Upul Galappaththi and Wasantha Yapa Bandara, to form the new alliance.
+
+A group of politicians including the aforementioned who broke away from the Sri Lanka Podujana Peramuna (SLPP) had previously decided to sit independently in Parliament under the Nidahasa Janatha Sabhawa.
+
+◼️
+
+[Data](articles/e5296e65.json)
+
+---
+
+### ஆயுதக்குழுவின் தாக்குதலில் 10 ஈரானியப் படையினர் பலி
+
+*2024-04-05 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/180484) · `ta`
+
+ஈரானில் கிளர்ச்சியாளர்கள் நடத்திய தாக்குதலில் ஈரானிய அரச படையினர் 10 பேர் உயிரிழந்துள்ளனர் என அந்நாட்டு அரச தொலைக்காட்சி நேற்று தெரிவித்துள்ளது.
+
+பயங்கரவாத தாக்குதலில் பாதுகாப்புப் படையினர் 10 பேர் கொல்லப்பட்டனர். 18 பயங்கரவாதிகளும் கொல்லப்பட்டனர் என ஈரானிய அரச தொலைக்காட்சி தெரிவித்தது.
+
+ஜெய்ஷ் அல் அத்ல் எனும் இயக்கம் இத்தாக்குதலுக்கு உரிமை கோரியுள்ளது. ஈரான், அமெரிக்கா ஆகிய இரு நாடுகளும் இந்த இயக்கத்தை பயங்கரவாத குழுவாக பிரகடனப்படுத்தியுள்ளன.
+
+கடந்த டிசெம்பர் மாதம் 11 ஈரானிய படையினர் கொல்லப்பட்ட தாக்குதலுக்கும்  ஜெய்ஷ் அல் அத்ல் உரிமை கோரியிருந்தது.
+
+◼️
+
+[Data](articles/b6270e48.json)
+
+---
 
 ### IGP Tennakoon appears before Supreme Court
 
@@ -46,25 +82,33 @@ The legal counsels representing the petitioners presented facts before a three-m
 
 [Data](articles/4ad976a5.json)
 
+[Extended Data](ext_articles/4ad976a5.ext.json)
+
 ---
 
-### தான் திருடியதற்காக பொலிஸாரிடம் சரணடைந்து தண்டனை கோரும் இளம் பிக்கு!
+### Young Bikku who surrenders to the police for stealing
 
 *2024-04-05 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180477) · `ta`
 
-இளம் பிக்கு ஒருவர் பொலிஸாரிடம் தன்னை கைது செய்து தண்டனை வழங்கமாறு கூறி யக்கல பொலிஸ் நிலையத்தில் நேற்று (04)  வியாழக்கிழமை சரணடைந்துள்ளார்.
+A young man surrendered to police for theft crimes committed eight years ago, seeking punishment.
 
-இவர் தான்  செய்த திருட்டுக் குற்றச் செயல்களுக்கு தண்டனை கிடைக்க வேண்டும் என்று கூறி தனது  தாயுடன்  பொலிஸ் நிலையம் சென்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இதன் போது  பொலிஸாரினால் இளம் பிக்கு கைது செய்யப்பட்டு  மேலதிக விசாரணைகள் மேற்கொள்ளப்பட்டுள்ளன.
+A young man surrendered to the Yakkala police station yesterday (04) at the Yakkala police station for allegedly arrested and sentenced to death.
 
-சுமார் எட்டு வருடங்களுக்கு முன்பு தான் செய்த திருட்டுக் குற்றச் செயல்களுக்காக தனக்கு தண்டனை கிடைக்க வேண்டும் எனவும் தனக்கு தண்டனை கிடைக்கும் வரையில் தான் தியான நிலையில்  ஈடுபடுவதற்கு  மனநிம்மதி இல்லை எனவும் தெரிவித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The police said that he had gone to the police station with his mother, demanding that he be punished for the theft crimes he had committed.
 
-அத்தோடு, தனக்கு தண்டனை கிடைத்து  மன அமைதி பெற வேண்டும் என்பதற்காகவே  இவர்  சரணடைந்துள்ளதாகவும்  பொலிஸார் தெரிவித்துள்ளனர்.
+The police have been arrested by the police and further investigations are being carried out.
+
+The police said that he had to be punished for the theft crimes he had committed about eight years ago and that he was not willing to meditate until he was punished.
+
+Police said he had surrendered to him to get peace of mind and get peace of mind.
 
 ◼️
 
 [Data](articles/25630a4c.json)
+
+[Extended Data](ext_articles/25630a4c.ext.json)
 
 ---
 
@@ -2207,61 +2251,5 @@ After the hearing, the judge ordered the case to be summoned on August 29.
 [Data](articles/2de393cd.json)
 
 [Extended Data](ext_articles/2de393cd.ext.json)
-
----
-
-### The suspects with underworld relations show hidden weapons
-
-*2024-04-04 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195306) · `si`
-
-The Colombo Crimes Division (CCC) discovered four hand grenades and four swords linked to organized crime. Suspects Rajamal Watte, Modara Skills, and Chiramal Charm were arrested for their involvement.
-
-🟩
-
-The Colombo Crimes Division (CCC) says that four other hand grenades manufactured by a foreign country have been discovered on the information revealed by three members of organized crime.
-
-One of the arrested suspects is a disciple of Chamara, Rajamal Watte and he had come to the motorcycle to shoot a person in the Elvekuluwatta area on the 12th of this month.
-
-The suspect was able to find the balaged life grenade that had been buried near the Dobe Walawwa near the Dobiri Walawwa near the Dobiri Walawwa.
-
-The other two suspects have been arrested for contact with organized crime and drug dealers Modara skills and chiramal charm.
-
-It has been revealed that they were two disciples of Bhatthara Sanna in the interrogation of detention orders.
-
-Police said that four swords were found in the Sedola where the suspects were arrested in Sedola.
-
-Accordingly, the three suspects are being interrogated at length.
-
-◼️
-
-[Data](articles/38785e9f.json)
-
-[Extended Data](ext_articles/38785e9f.ext.json)
-
----
-
-### President in the position of breaking parties - Way. Radhakrishnan
-
-*2024-04-04 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/180448) · `ta`
-
-President Ranil Wickremesinghe aims to unite presidential and parliamentary elections, hoping to reduce costs and confusion. Radhakrishnan, leader of the Upcountry People's Front, acknowledges the challenges of breaking party traditions and securing power.
-
-🟩
-
-President Ranil Wickremesinghe is expecting to break the parties. The government has issued a statement that the presidential and parliamentary elections should work together.
-
-The leader of the Upcountry People's Front and the Member of Parliament, says that this is often the case, but there is good and evil.. Radhakrishnan said.
-
-He was speaking at a media briefing in Jaffna today. There he said more,
-
-Due to the economic problem in this country, it is hoped that the cost of spending on the two elections can be put in the same election.
-
-At the same time, there is a lot of confusion between the scenes and the vote from which party?How to break up?Who can break?This is a problem for scenes with expectations. Because only a president arrives, the president's party is tradition. Or the tradition of seizing power after the parliamentary election.
-
-...
-
-[Data](articles/a65ad3b9.json)
-
-[Extended Data](ext_articles/a65ad3b9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-05 09:03:27**
+As of **2024-04-05 09:18:20**
 
 ## Newspaper Stats
 
-*Scraped **17,267** Articles*
+*Scraped **17,268** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ tamilmirrorlk | 2,042
 adaderanalk | 2,067
 virakesarilk | 2,511
 dailymirrorlk | 2,648
-adaderanasinhalalk | 2,787
+adaderanasinhalalk | 2,788
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,266 (100.0%) of 17,267 articles have been extended.
+17,267 (100.0%) of 17,268 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-05 (Friday)
+
+### සජබ සන්ධානයේ පළමු අදියර අද
+
+*2024-04-05 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195321) · `si`
+
+සමගි ජන සන්ධානය පිහිටුවීමට අදාළ පළමු අදියර අද (05) ක්‍රියාත්මක වෙයි.
+
+ඒ අනුව සමගි ජන බලවේගය සහ නිදහස ජනතා සභාවේ කණ්ඩායමක් අතර අවබෝධතා ගිවිසුමකට එළඹෙන බව පාර්ලිමේන්තු මන්ත්‍රී එස්. එම් මරික්කාර් මහතා පැවසීය.
+
+මාස කිහිපයක පැවැති සාකච්ඡා මත එළඹෙන මැතිවරණය සහ ප්‍රතිපත්තිමය කරුණු මූලික කරගනිමින් එම එකඟතාවට එළඹීමට නියමිතය.
+
+ඒ අනුව මහාචාර්ය ජී.එල් පිරිස්, ඩිලාන් පෙරේරා, ආචාර්ය නාලක ගොඩහේවා, කේ.පී කුමාරසිරි, වෛද්‍ය උපුල් ගලප්පත්ති සහ වසන්ත යාපා බණ්ඩාර යන මන්ත්‍රීවරුන් සමගි ජන සන්ධානයට එක්වීමට නියමිතය.
+
+කෙසේවුවද ඩලස් අලහප්පෙරුම මන්ත්‍රීවරයා ප්‍රකාශ කළේ නව සන්ධානය පිළිබඳ තමන් වෙත කිසිදු දැනුවත් කිරීමක් සිදුකර නොමැති බවය.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් ඉවත් වූ පිරිසක් නිදහස ජනතා සභාව නමින් පාර්ලිමේන්තුවේ ස්වාධීනව කටයුතු කිරීමට මීට පෙර තීරණය කර තිබුණි.
+
+◼️
+
+[Data](articles/9d6a11ca.json)
+
+---
 
 ### ’’Most eligible recipient’’: Sri Lankan monk on presenting sacred Buddha relics to Dalai Lama
 
@@ -44,17 +66,19 @@ The Dalai Lama was on Thursday presented with the relics preserved and protected
 
 [Data](articles/73ef8d77.json)
 
+[Extended Data](ext_articles/73ef8d77.ext.json)
+
 ---
 
 ### 500 maids in Singapore duped in 2023 are from India, Sri Lanka
 
 *2024-04-05 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98437/500-maids-in-singapore-duped-in-2023-are-from-india-sri-lanka) · `en`
 
-The number of scams in Singapore hit a record high in 2023, Home Minister K Shanmugam said, adding that the country saw a rise of 18 per cent in duping cases against migrants, many of whom are from India and Sri Lanka.
+The number of scams in Singapore hit a record high in 2023, Home Minister K. Shanmugam said, adding that the country saw a rise of 18 per cent in duping cases against migrants, many of whom are from India and Sri Lanka.
 
 A total of 46,563 cases of scams were reported in Singapore, with people losing SGD 651.8 million to scams in 2023, the police earlier told The Straits Times, saying this is the highest number of scam cases since they began tracking them in 2016.
 
-Falling prey to the scams are about 500 foreign maids from South Asian countries, mostly from India, Sri Lanka, and Myanmar, migrate to the country in search of better employment opportunities, higher wages and a stable political and economic environment.
+Falling prey to the scams are about 500 foreign maids from South Asian countries, mostly from India, Sri Lanka, and Myanmar, migrated to the country in search of better employment opportunities, higher wages and a stable political and economic environment.
 
 ...
 
@@ -2243,35 +2267,5 @@ Accordingly, the basic phase of the primary phase, the bake of the bake, vehicle
 [Data](articles/fd384a2e.json)
 
 [Extended Data](ext_articles/fd384a2e.ext.json)
-
----
-
-### Kamindu Mendis is a ICC super
-
-*2024-04-04 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195300) · `si`
-
-Kamindu Mendis, Sri Lanka's new batsman, is recognized as one of the world's best cricketers by the ICC. He scored centuries in the first two Tests against Bangladesh, contributing to Sri Lanka's victory with 3 wickets for 32 runs.
-
-🟩
-
-Sri Lanka's new batsman has been included in the world's best cricketer in March.
-
-The official website of the International Cricket Council is officially stated.
-
-In addition to him, Irish player Mark Adair and New Zealand player Matt Henry are also included.
-
-Kamindu Mendis has taught Sri Lanka at Test series against Bangladesh.
-
-He scored centuries in the first Test, and the second match scored 92 not out in the first innings.
-
-He also scored the ball in the way to the victory of the competition and took 3 wickets for 32 wickets for 32 runs.
-
-Due to these unique talents, he won the Test series as well as the man of the match award.
-
-◼️
-
-[Data](articles/172113bd.json)
-
-[Extended Data](ext_articles/172113bd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 21:52:57**
+As of **2024-04-06 22:04:05**
 
 ## Newspaper Stats
 
-*Scraped **17,521** Articles*
+*Scraped **17,522** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 2,062
 adaderanalk | 2,116
 virakesarilk | 2,555
 dailymirrorlk | 2,680
-adaderanasinhalalk | 2,839
+adaderanasinhalalk | 2,840
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,521 (100.0%) of 17,521 articles have been extended.
+17,521 (100.0%) of 17,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### කොදෙව් ක්‍රිකට් හදන්න ශ්‍රී ලාංකිකයෙකුට ලොකු වගකීමක්
+
+*2024-04-06 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195375) · `si`
+
+හිටපු ශ්‍රී ලංකා පළමු පෙළ ක්‍රිකට් ක්‍රීඩකයකු වන රමේෂ් සුබසිංහ බටහිර ඉන්දීය කොදෙව් පිරිමි ක්‍රිකට් ඇකඩමියේ ප්‍රධාන පුහුණුකරු ලෙස තෝරා පත් කරගෙන තිබේ.
+
+මීට පෙර ඔහු නවසීලන්ත ක්‍රිකට් සංවර්ධන වැඩසටහනේ ප්‍රධාන පුහුණුකරුවෙකු ලෙස සහ කුසලතා සංවර්ධන කළමනාකරු ලෙස ද කටයුතු කර තිබුණි.
+
+රමේෂ් සුබසිංහ ICC තුන්වන මට්ටමේ පුහුණුකරුවකු ලෙස ද සිය සුදුසුකම් සම්පූර්ණ කර ඇත.
+
+අයදුම්කරුවන් 53 දෙනෙකු අතුරින් ඇකඩමියේ ප්‍රධාන පුහුණුකාර ධුරය සඳහා ඔහු තෝරා පත්කර ගෙන ඇති බව වාර්තා වෙයි.
+
+බටහිර ඉන්දීය කොදෙව් පිරිමි ක්‍රිකට් ඇකඩමිය එරට නැගීඑන යොවුන් ක්‍රිකට් කණ්ඩායම වශයෙන් ද සලකණු ලබයි.
+
+◼️
+
+[Data](articles/0af9e10a.json)
+
+---
 
 ### President calls on youth to lead nation forward through government initiatives
 
@@ -2245,25 +2265,5 @@ AGEL is setting a precedent for how innovative technology, execution capabilitie
 [Data](articles/ae47c3b8.json)
 
 [Extended Data](ext_articles/ae47c3b8.ext.json)
-
----
-
-### Hayleys Fentons wins Merit Award at Best Management Practices Company Awards 2024
-
-*2024-04-05 23:36:35* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fentons-wins-Merit-Award-at-Best-Management-Practices-Company-Awards-2024/34-760382) · `en`
-
-Hayleys Fentons Ltd., Sri Lanka’s No. 1 Solar EPC company and MEP contractor, commemorates its first-ever award at the recent “Best Management Practices Company Awards (BMPC) 2024”, recognising exceptional management practices.
-
-The Best Management Practices Company Awards are organised by the esteemed Institute of Chartered Professional Managers of Sri Lanka (CPM, Sri Lanka).
-
-“We are proud to receive this award from CPM Sri Lanka,” said Hayleys Fentons Ltd. Managing Director Hasith Prematillake. “This recognition serves as a strong validation of our commitment to continuous improvement and the tireless efforts of our team in upholding the highest standards of management practices.
-
-“We firmly believe that our unwavering focus on best practices will continue to be a significant driver of its growth and achievements.”
-
-...
-
-[Data](articles/558023d2.json)
-
-[Extended Data](ext_articles/558023d2.ext.json)
 
 ---

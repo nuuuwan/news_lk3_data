@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 21:18:13**
+As of **2024-04-06 21:33:34**
 
 ## Newspaper Stats
 
-*Scraped **17,519** Articles*
+*Scraped **17,521** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 183
 dbsjeyarajcom | 210
 newsfirstlk | 363
 dailyftlk | 958
-islandlk | 959
+islandlk | 960
 economynextcom | 973
 adalk | 1,468
 tamilmirrorlk | 2,062
-adaderanalk | 2,115
+adaderanalk | 2,116
 virakesarilk | 2,555
 dailymirrorlk | 2,680
 adaderanasinhalalk | 2,839
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,839
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,519 (100.0%) of 17,519 articles have been extended.
+17,519 (100.0%) of 17,521 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### President calls on youth to lead nation forward through government initiatives
+
+*2024-04-06 20:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98480/president-calls-on-youth-to-lead-nation-forward-through-government-initiatives) · `en`
+
+President Ranil Wickremesinghe emphasized the government’s commitment to leading Sri Lanka towards prosperity by 2048 through transformative changes in modern agriculture, tourism, and the energy sector. Addressing the “Let’s Start with Me” Anuradhapura District Youth Conference, he underscored the vital role of youth in advancing this journey while cautioning against the distractions of slogans and arguments.
+
+During the conference, held at Koombichchankulam lake, President Wickremesinghe engaged with a large number of young participants from the Anuradhapura district, addressing their concerns first-hand. He pledged immediate solutions to many of their problems and instructed officials to take action on others.
+
+...
+
+[Data](articles/7e9f9758.json)
+
+---
 
 ### Here is the day of the Royal Family
 
@@ -1810,6 +1824,22 @@ As the Sinhala and Tamil New Year is just around the corner, Sri Lankan people a
 
 ---
 
+### The 8th International Conference on Climate Change 2024 concludes
+
+*2024-04-06 05:37:00* · [`islandlk`](http://island.lk/the-8th-international-conference-on-climate-change-2024-concludes/) · `en`
+
+The 8th International Conference on Climate Change (ICCC) 2024, held from the 8th to the 9th of February at the prestigious Galle Face Hotel in Colombo, Sri Lanka, concluded with resounding success. Organized by the International Institute of Knowledge Management (TIIKM), the conference brought together over 120 participants from across the globe on a hybrid platform.
+
+The International Institute of Knowledge Management (TIIKM) is committed to cultivating a sustainable future through global interdisciplinary collaboration and knowledge sharing by providing accessible platforms, publication support, and fostering meaningful collaborations, connects researchers, professionals, and policymakers worldwide. Through conferences, workshops, and training programs, TIIKM promotes interactive environments for intellectual growth and development, aiming to contribute to a knowledge-driven society.
+
+Nine crossings lend sparkle to share market; indices at their highest over past 52 trading weeks
+
+...
+
+[Data](articles/920afee9.json)
+
+---
+
 ### Nine crossings lend sparkle to share market; indices at their highest over past 52 trading weeks
 
 *2024-04-06 05:36:00* · [`islandlk`](http://island.lk/nine-crossings-lend-sparkle-to-share-market-indices-at-their-highest-over-past-52-trading-weeks/) · `en`
@@ -2231,45 +2261,5 @@ The Best Management Practices Company Awards are organised by the esteemed Insti
 [Data](articles/558023d2.json)
 
 [Extended Data](ext_articles/558023d2.ext.json)
-
----
-
-### Aeroflot and Rossiya Airlines to continue summer flights to Sri Lanka
-
-*2024-04-05 23:36:04* · [`dailyftlk`](https://www.ft.lk/business/Aeroflot-and-Rossiya-Airlines-to-continue-summer-flights-to-Sri-Lanka/34-760381) · `en`
-
-Aeroflot Russian Airlines and Rossiya Airlines are set to continue their summer operations to Sri Lanka, reflecting their confidence in the country as a preferred travel destination.
-
-Travellers can anticipate enhanced connectivity and convenient travel options between the two countries during their summer holidays. March saw 28,016 tourists from the Russian Federation accounting for 13% of the overall total of 209,181. Russian Federation remains second biggest source market for Sri Lanka with 91,205 tourists in the first quarter of this year.
-
-It also underscores the airline’s ongoing efforts to promote tourism, trade and cultural cooperation between Russia and Sri Lanka.
-
-The announcement was made when the General Sales Agent (GSA) for both airlines — Maldiviana Aviation Ltd., representatives recently called on the Civil Aviation Authority of Sri Lanka Director-General of Civil Aviation and Chief Executive Officer A.V.M. Sagara Kotakadeniya (Retd.) on Tuesday.
-
-...
-
-[Data](articles/630930a8.json)
-
-[Extended Data](ext_articles/630930a8.ext.json)
-
----
-
-### Beam Hela Osu Lanka shines in silver at Golden Inmediens Awards
-
-*2024-04-05 23:35:29* · [`dailyftlk`](https://www.ft.lk/business/Beam-Hela-Osu-Lanka-shines-in-silver-at-Golden-Inmediens-Awards/34-760380) · `en`
-
-Beam Hela Osu Lanka Chairman Dr. R.A. Bandula Rathnasiri Piyaratne and Managing Director/CEO Dave Laknath Ranathunga receiving the award
-
-Beam Hela Osu Lanka Ltd., a leading Ayurvedic product manufacturer in the country, was honoured as the Best Ayurveda Manufacturer (Silver) at the Golden Inmediens Awards 2023.
-
-The award ceremony, a brainchild of the State Minister of Indigenous Medicine, attorney Sisira Jayakody, and aimed at developing and promoting indigenous medical entrepreneurship, was held at the Water’s Edge Hotel in Battaramulla on 19 March.
-
-Organised by the State Ministry of Indigenous Medicine, the Lanka Ayurveda Promotion Ltd., the Department of Ayurveda and the Ayurvedic Drug Corporation, the award ceremony was attended by Prime Minister Dinesh Gunawardena, State Minister Jayakody and several other dignitaries including Cabinet and State Ministers and senior Government officials.
-
-◼️
-
-[Data](articles/b5b2514c.json)
-
-[Extended Data](ext_articles/b5b2514c.ext.json)
 
 ---

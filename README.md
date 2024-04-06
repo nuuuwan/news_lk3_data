@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 14:50:13**
+As of **2024-04-06 15:03:11**
 
 ## Newspaper Stats
 
-*Scraped **17,487** Articles*
+*Scraped **17,491** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 959
 economynextcom | 973
 adalk | 1,468
 tamilmirrorlk | 2,059
-adaderanalk | 2,107
-virakesarilk | 2,549
+adaderanalk | 2,109
+virakesarilk | 2,551
 dailymirrorlk | 2,676
 adaderanasinhalalk | 2,828
 
@@ -26,29 +26,107 @@ adaderanasinhalalk | 2,828
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,486 (100.0%) of 17,487 articles have been extended.
+17,487 (100.0%) of 17,491 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### යුක්‍රේනයෙන් රුසියාවට දරුණු ප්‍රහාරයක්
+### Man arrested with over 5,000 prescription drugs in Kalmunai
+
+*2024-04-06 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98473/man-arrested-with-over-5000-prescription-drugs-in-kalmunai) · `en`
+
+A 63-year-old man who was in possession of 5,033 prescription drugs, intended for sale without a valid licence has been arrested during a coordinated operation conducted by the Navy and Police in Kalmunai on Thursday (04).
+
+The operation was mounted by SLNS Deegayu in the Southeastern Naval Command in tandem with the Periyaneelavanei Police in Kalmunai.
+
+During this operation, the raiding party managed to impound the prescription drug consignment after searching a house in the locality on suspicion.
+
+The suspect held in this operation was identified as a resident of Maruthamunai 6. The accused, along with the seized prescription drugs, were handed over to the Food & Drug Inspector of Kalmunai for onward legal action.
+
+◼️
+
+[Data](articles/a4e0a85c.json)
+
+---
+
+### UK updates travel advisory for Sri Lanka
+
+*2024-04-06 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98472/uk-updates-travel-advisory-for-sri-lanka) · `en`
+
+Due to Sri Lanka’s current economic advancement, the United Kingdom has revised its Travel Advisory for Sri Lanka effective April 5, 2024.
+
+This update encompasses various aspects including access to emergency medical services, entry security requirements, road safety, overall security situation, and health facility accessibility, the President’s Media Division (PMD) said in a statement.
+
+The revised advisory no longer includes previous concerns regarding shortages of food, fuel, and medicine. Additionally, the previously mentioned risks related to limitations in health services, such as the lack of medical equipment, have been omitted.
+
+The Sri Lankan High Commission in London has consistently advocated to British authorities for the removal of negative information from previous advisories. This effort aims to ensure tourists have a clear understanding of Sri Lanka’s current progress, it added.
+
+...
+
+[Data](articles/61ae5097.json)
+
+---
+
+### அனுமதி பத்திரம் இல்லாமல் மாட்டிறைச்சி விற்பனைக்காக வைத்திருந்த இருவர் கைது!
+
+*2024-04-06 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180587) · `ta`
+
+அனுமதி பத்திரம் இல்லாமல் மாட்டிறைச்சியை விற்பனைக்காக வைத்திருந்த இருவர் கம்பளை விஷேட அதிரடிப்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+கம்பளை விஷேட அதிரடி படையினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலுக்கு அமைய நேற்று இரவு கம்பளை ஜயமாலப்புர பிரதேசத்தில் உள்ள வீடொன்றில் சோதனை நடத்திய பொழுது விற்பனை செய்வதற்காக வைத்திருந்த 95 கிலோ கிராம் மாட்டு இறைச்சியை  மீட்டுள்ளனர்.
+
+அதிரடிப்படையினர் சந்தேக நபர்களை  கம்பளை பொலிஸ் நிலையத்தில் ஒப்படைத்துள்ளனர். மாடுகளை திருடி வரும் கும்பளை தேடி பொலிஸார் விசாரணை முன்னேடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/9f1755ef.json)
+
+---
+
+### Russia is a violent attack in Ukraine
 
 *2024-04-06 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195363) · `si`
 
-යුක්‍රේනය දකුණු රුසියාවේ රොස්තොව් ප්‍රදේශයේ ගුවන් කඳවුරකට එල්ල කළ ඩ්‍රෝන ප්‍රහාරයකින් රුසියානු ගුවන් යානා 06ක් විනාශ කළ බව පවසා තිබේ.
+Ukraine reportedly destroyed six Russian planes and severely damaged eight others in a drone attack on Rastov, Southern Russia, killing or wounding 20 officials. Russia has not acknowledged the attack but launched over 40 drones near Ukraine.
 
-විදෙස් වාර්තා සඳහන් කළේ තවත් ගුවන් යානා 08 කට එම ප්‍රහාරයෙන් දැඩි ලෙස හානි සිදුවී ඇති බවය.
+🟩
 
-මෙම ප්‍රහාරයෙන් නිලධාරීන් 20 දෙනෙකු මිය යාමට හෝ තුවාල වන්නට ඇති බව විදෙස් වාර්තා පවසයි.
+It has been said that Ukraine had destroyed six Russian planes by a drone attack on the Rastov in Southern Russia.
 
-මෙම ප්‍රහාරය පිළිබඳව රුසියාව මේ වනතෙක් කිසිදු තොරතුරක් ප්‍රකාශයට පත්කර නොමැති බව වාර්තා වේ.
+Foreign sources said that eight other planes were severely damaged by the attack.
 
-කෙසේ වෙතත්, යුක්රේනයට ආසන්නයේ පිහිටි කලාපයට ඩ්‍රෝන යානා ප්‍රහාර 40කට වැඩි ප්‍රමාණයකින් එල්ල කර ඇති බව රුසියාව පවසා ඇති බව විදෙස් වාර්තා සඳහන් කළේය.
+Twenty officials have been killed or wounded in this attack, foreign reports say.
+
+It is reported that Russia has not yet been announced to this attack.
+
+However, Russia has said that the zone near Ukraine has been launched in more than 40 drones.
 
 ◼️
 
 [Data](articles/3dc4c336.json)
+
+[Extended Data](ext_articles/3dc4c336.ext.json)
+
+---
+
+### வவுனியாவில் கெப் ரக வாகனம் ரயிலில் மோதி விபத்து ; ஒருவர் படுகாயம்
+
+*2024-04-06 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180586) · `ta`
+
+வவுனியா ஓமந்தை பன்றிக்கெய்தகுளம் பகுதியில் அமைந்துள்ள பாதுகாப்பற்ற புகையிரத கடவையில் இன்று சனிக்கிழமை (06) இடம்பெற்ற விபத்தில் ஒருவர் படுகாயமடைந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+
+அநுராதபுரத்திலிருத்து யாழ்ப்பாணம் நோக்கிச்சென்றுகொண்டிருந்த ரயில் ஓமந்தை பன்றிக்கெய்தகுளம் பகுதியில் கடவையினை கடக்கமுற்பட்ட  கெப் ரக வாகனத்துடன் மோதியதில் குறித்த விபத்து இடம்பெற்றது.
+
+விபத்தில்  கெப் ரக வாகனம் கடுமையான சேதமடைந்ததுடன், அதன் சாரதி படுகாயமைடந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+விபத்தில் ரயிலின் முன்பகுதியும் சேதமடைந்துள்ளது. இதனையடுத்து பயணிகள் இறக்கப்பட்டு மற்றொரு புகையிரதத்தில் ஏற்றப்பட்டு அனுப்பிவைக்கப்பட்டனர்.
+
+இதேவேளை, குறித்த பாதுகாப்பற்ற புகையிரத கடவையில் சிலவருடங்களுக்கு முன்பு இடம்பெற்ற விபத்தில் நான்குபேர் உயிரிழந்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/edfdee72.json)
 
 ---
 
@@ -2101,111 +2179,5 @@ This price drop comes as a result of the continuous appreciation of Sri Lankan R
 [Data](articles/9f5a66ac.json)
 
 [Extended Data](ext_articles/9f5a66ac.ext.json)
-
----
-
-### Suspects in death of death of a child topple concrete cylinder
-
-*2024-04-05 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195347) · `si`
-
-A child was killed when a concrete cylinder rolled into a school toilet, causing a collapse. Five suspects were remanded until the 10th. The incident occurred at Sahanala College, where the cylinder was part of development activities.
-
-🟩
-
-Five of the arrested persons were remanded until the 10th of this month due to a concrete cylinder.
-
-Hatton Magistrate M. Mr. Fauucdin was given that order today (05).
-
-Maskeliya Gardmore, 11th Grade 6, Sahanala College, 11 year old. A unimpati child was killed.
-
-There are several corncreat cylinders brought to a nearby estate development activities in the Gardmore grounds of Maskeliya.
-
-Several children at the school were near the toilet near the school at around 1.30 pm yesterday.
-
-With the rolling of the cylinder, the child was twented with the nearby toilets.
-
-The Maskeliya Regional Hospital was admitted to the Maskeliya Regional Hospital.
-
-Our correspondent said that the child died after being hospitalized.
-
-When we look, we were revealed that the concrete cylinder would not belong to the concrete cylinder.
-
-Residents say they were brought to a development project near the school and had kept insecurity in the school.
-
-◼️
-
-[Data](articles/d3eca8d3.json)
-
-[Extended Data](ext_articles/d3eca8d3.ext.json)
-
----
-
-### Father-of-two sentenced to life in prison over drug possession
-
-*2024-04-05 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98456/father-of-two-sentenced-to-life-in-prison-over-drug-possession) · `en`
-
-The Colombo High Court sentenced to life in prison a 42-year-old father-of-two who was found guilty of being in possession of 6.17 grams of heroin intended for distribution.
-
-This verdict was delivered by Colombo High Court judge Adithya Patabendige today (05).
-
-The accused had been arrested by police in Waththegedara area of Maharagama on 19 August 2019 along with 329 grams of heroin.
-
-However, the government analyst had reported that the net weight of heroin contained in the impounded quantity of drugs was 6.17 grams.
-
-Later, the Attorney General filed charges against the accused for possession and trafficking of heroin.
-
-The judge, who declared the verdict after a lengthy trial, stated that the charges leveled by the prosecution against the accused have been proved beyond reasonable doubt.
-
-Accordingly, the judge ordered that the accused be sentenced to life imprisonment.
-
-◼️
-
-[Data](articles/092cb1c2.json)
-
-[Extended Data](ext_articles/092cb1c2.ext.json)
-
----
-
-### 19 year old student in the world
-
-*2024-04-05 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195346) · `si`
-
-A 19-year-old Brazilian student, Livia, has been named by a Brazilian university as the world's best. She's featured in the Forbes 2024 list and is a billionaire in Latin America.
-
-🟩
-
-The Brazilian student student named in the world has been named by the Brazilian university student as the world.
-
-It is reported that the 19-year-old livia has been included in the list of Pubes Magazines issued in connection with Vijet 2024.
-
-The Libeka Wygt included in the billion list that she became a single partner in Latin America.
-
-Folce Magazine is a 25-year-old manner below the age of 33 years old.
-
-◼️
-
-[Data](articles/4d8a7c05.json)
-
-[Extended Data](ext_articles/4d8a7c05.ext.json)
-
----
-
-### China-Sri Lanka Water Research Center inaugurated
-
-*2024-04-05 18:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/China-Sri-Lanka-Water-Research-Center-inaugurated/108-280259) · `en`
-
-April 05 -  The China-Sri Lanka Joint Research and Demonstration Center for Water Technology (JRDC) was inaugurated at the University of Peradeniya, heralding a new era of collaboration and innovation in water research.
-
-The opening ceremony, graced by esteemed dignitaries including Yaping Zhang, Deputy President of the Chinese Academy of Sciences, and Prof DM Lamahewa, Vice Chancellor of the University of Peradeniya, marked the beginning of a promising venture.
-
-This state-of-the-art institute stands as the largest water research facility in South Asia, equipped with cutting-edge technology and machinery aimed at detecting harmful substances in drinking water.
-
-Chronic Kidney Disease (CKD) has emerged as a pressing issue in Sri Lanka, particularly in agricultural regions. The advanced capabilities of the JRDC offer a beacon of hope in addressing this menace, as it focuses on identifying and mitigating the factors contributing to waterborne ailments.
-
-...
-
-[Data](articles/07c439ed.json)
-
-[Extended Data](ext_articles/07c439ed.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 09:03:13**
+As of **2024-04-06 09:18:00**
 
 ## Newspaper Stats
 
-*Scraped **17,450** Articles*
+*Scraped **17,451** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 959
 economynextcom | 972
 adalk | 1,466
 tamilmirrorlk | 2,057
-adaderanalk | 2,098
+adaderanalk | 2,099
 virakesarilk | 2,539
 dailymirrorlk | 2,672
 adaderanasinhalalk | 2,820
@@ -26,25 +26,47 @@ adaderanasinhalalk | 2,820
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,448 (100.0%) of 17,450 articles have been extended.
+17,450 (100.0%) of 17,451 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### ஆலயத்தில் அனைவரையும் ஆச்சரியப்பட வைத்த வெளிநாட்டவர்கள்
+### Sri Lanka and bondholders plan fresh round of debt talks this month
+
+*2024-04-06 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98464/sri-lanka-and-bondholders-plan-fresh-round-of-debt-talks-this-month) · `en`
+
+(Bloomberg) - Global investors and Sri Lanka officials expect to hold a second round of talks aimed at restructuring $12 billion in defaulted global bonds later this month, according to people familiar with the matter.
+
+A group of bondholders, known as a steering committee, and government representatives came away from a first round of negotiations in Europe in late March without a deal. They plan to continue the discussions around the International Monetary Fund’s spring meetings in Washington DC, which start April 15, said the people, who asked not to be identified as the discussions are private. They didn’t disclose details of the proposal that’s under consideration.
+
+Representatives for the central bank, treasury secretary and bondholder committee didn’t respond to messages seeking comment Friday.
+
+...
+
+[Data](articles/63bdae81.json)
+
+---
+
+### Foreigners who surprised everyone in the temple
 
 *2024-04-06 08:52:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/ஆலயத்தில்-அனைவரையும்-ஆச்சரியப்பட-வைத்த-வெளிநாட்டவர்கள்/75-335654) · `ta`
 
-வரலாற்று சிறப்பு மிக்க திருகோணமலை திருக்கோணேஸ்வரம் அருள் மிகு மாதுமை அம்பாள் உடனுறை கோணேஸ்வரப் பெருமானின்  வருடாந்த மகோற்சம் நடைபெற்று வருகின்றது.
+During the Trincomalee Thirukoneswaram Arul Mikku Madhumu Ambal Ambal Ambal Ambal Konasewarabh Peruman event, two foreign tourists were surprised by the Hindu cultural dress and the act of lifting Swami with devotion.
 
-இந்த உற்சலத்தின் போது வெளிநாட்டு சுற்றுலா பயணிகள் இருவர் இந்து மத கலாச்சார உடையுடன் வருகை தந்து பக்தியுடன் சாமி தூக்கினர்.
+🟩
 
-சுவாமி வீதிஉலா வரும் போது அவர்கள் சுவாமியை தூக்கியுள்ளனர். வெளிநாட்டவர்கள் இவ்வாறு சுவாமி தூக்கும் நிகழ்வை அங்குள்ளவர்கள் ஆச்சரியத்துடன் பார்த்துக்கொண்டு இருந்தமை குறிப்பிடத்தக்கது. R
+Historical Trincomalee Thirukoneswaram Arul Mikku Madhumu Ambal Ambal Ambal Ambal Konasewarabh Peruman is taking place.
+
+During the event, two foreign tourists visited the Hindu cultural dress and lifted Sami with devotion.
+
+They have lifted Swami when the Swami Street arrives. It is noteworthy that foreigners were surprised by the Swami lifting event. Remble
 
 ◼️
 
 [Data](articles/3930af97.json)
+
+[Extended Data](ext_articles/3930af97.ext.json)
 
 ---
 
@@ -234,8 +256,6 @@ The breach saw the intrusion of a hacker operating under the pseudonym "Anonymou
 
 As the Sinhala and Tamil New Year is just around the corner, Sri Lankan people are busy with purchasing goods at the Pettah Market in Colombo. The President of Sri Lanka Ranil Wickramasinghe has instructed the officials to prepare a formal program with the aim of maintaining the uninterrupted essential and public services during the upcoming festive season. Pix by Pradeep Pathirana
 
-As the Sinhala and Tamil New Year is just around the corner, Sri Lankan people are busy with purchasing goods at the Pettah Market service in Colombo. The President of Sri Lanka Ranil Wickramasinghe yesterday instructed the officials to prepare a formal program with the aim of maintaining the uninterrupted essential and public services during the upcoming festive season. Pix by Pradeep Pathiran
-
 ◼️
 
 [Data](articles/6dc5b621.json)
@@ -296,21 +316,29 @@ As the Tamil & Sinhala New Year celebrations commence in the country, retail tra
 
 ---
 
-### ’இந்த வருடம் டெங்கு பாதிப்பு குறைந்துள்ளது’
+### Dengue impact this year has decreased
 
 *2024-04-06 03:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-வருடம்-டெங்கு-பாதிப்பு-குறைந்துள்ளது/175-335653) · `ta`
 
-ஏனைய வருடங்களை விட இந்த வருடம் டெங்கு காய்ச்சலினால் பாதிக்கப்படுவோரின் எண்ணிக்கையையும் அதனால் ஏற்படும் இறப்பு வீதமும் குறைந்துள்ளது.
+Dengue cases this year have decreased, with 64 hazards seen in January, now controlled in two zones. Health Minister Sita Arampola highlighted the success of awareness campaigns and the impact of climate change.
 
-இந்த வருடம் ஜனவரி மாதம் வரை 64 டெங்கு அபாய வலயங்கள் காணப்பட்ட போதிலும் இன்று இரண்டு வலயங்கள் வரை அதனைக் கட்டுப்படுத்த முடிந்துள்ளதாக  சுகாதார இராஜாங்க அமைச்சர், விசேட வைத்தியர் சீதா அரம்பேபொல தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+The number of people suffering from dengue fever this year has declined than other years.
 
-ஆண்டுதோறும் பண்டிகைக் காலங்களில் பாதுகாப்பற்ற முறையில் பட்டாசு வெடிப்பதால் விபத்துகள் ஏற்பட்டு வருகின்றன. எனவே, இந்த புத்தாண்டு காலத்தில் குடும்ப உறுப்பினர்களுடன் இதுபோன்ற செயற்பாடுகளில் கவனமாக இருக்குமாறு கேட்டுக் கொள்கிறோம்.
+The Minister of Health, Sita Arampola, said that although 64 dengue hazards were seen till January this year, it had been able to control up to two zones today.
+
+He said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+Accidents are caused by unsafe crackers during festivals annually. Therefore, we urge family members to be careful with such activities during this New Year.
+
+In addition, various campaigns have been carried out to raise awareness about dengue fever in the past. To thank the contribution of health departments and media institutions. In fact, compared to the past years, the number of dengue patients and mortality has been reduced this year.
 
 ...
 
 [Data](articles/993dc03d.json)
+
+[Extended Data](ext_articles/993dc03d.ext.json)
 
 ---
 
@@ -2149,27 +2177,5 @@ Meanwhile, police arrested six suspects who were aid for criminal gangs yesterda
 [Data](articles/13280c3d.json)
 
 [Extended Data](ext_articles/13280c3d.ext.json)
-
----
-
-### Sri Lanka to turn World War II-era Hingurakgoda air base to international airport
-
-*2024-04-05 15:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-turn-world-war-ii-era-hingurakgoda-air-base-to-international-airport-157704/) · `en`
-
-ECONOMYNEXT — Sri Lanka plans to revamp the Hingurakgoda airport to an international airport, Aviation Minister Nimal Siripala de Silva said.
-
-The minister said at a discussion that the objective is to turn the Hingurakgoda airport into an airport dedicated to civil aviation.
-
-“The previous budget had allocated 2 billion rupees for this for this year. Until the construction of the airport is complete, from annual budget estimates, the money needed for this will be provided.
-
-“Our final target is like Mattala and Palali to make this a dedicated airport for civil aviation, not domestic but international,” he said.
-
-The Hingurakgoda airport, originally known as Royal Air Force Minneriya, airport goes back to the days of World War II, serving as a base for the British Royal Air Force. (Colombo/Apr05/2024)
-
-◼️
-
-[Data](articles/4ac76752.json)
-
-[Extended Data](ext_articles/4ac76752.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 14:03:08**
+As of **2024-04-06 14:18:08**
 
 ## Newspaper Stats
 
-*Scraped **17,484** Articles*
+*Scraped **17,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,52 +19,72 @@ adalk | 1,468
 tamilmirrorlk | 2,059
 adaderanalk | 2,107
 virakesarilk | 2,549
-dailymirrorlk | 2,675
+dailymirrorlk | 2,676
 adaderanasinhalalk | 2,826
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,478 (100.0%) of 17,484 articles have been extended.
+17,484 (100.0%) of 17,485 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### ඊශ්‍රායලයේ ශ්‍රී ලාංකිකයින්ට හදිසි දැනුම්දීමක්
+### Emergency notice to Sri Lankans in Israel
 
 *2024-04-06 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195360) · `si`
 
-මැද පෙරදිග කලාපයේ උද්ගතවී ඇති නොසන්සුන්කාරී තත්ත්වය හමුවේ ඊශ්‍රායලය වෙත යම් ප්‍රහාරයක් එල්ලවේ යැයි ජාත්‍යන්තර මාධ්‍ය වාර්තා හා පවතින සැකය මත මේ වනවිට ඊශ්‍රායල හමුදාව සීරුවෙන් තබා ඇත.
+Israel alerts Sri Lankans due to suspected attack. Sri Lanka's Ambassador, Nimal Bandara, assures safety measures. Key points: stay indoors unless necessary, keep medications, avoid sharing sensitive media, be cautious with services like handjala, GPS, and ensure safety in safe rooms.
 
-මේ අතර ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පවසන්නේ අවදානම්කාරී වාතාවරණයක් නැවත ඇතිවුවහොත් ඔක්තෝම්බර් 7 වනදා ඇතිවූ  හමාස් ප්‍රහාරයෙන් පසුව ක්‍රියාත්මක වූ ආකාරයට තානාපති කාර්යාලය ඊශ්‍රායලයේ සිටින ශ්‍රී ලාංකිකයන්ගේ ආරක්ෂාව වෙනුවෙන් කටයුතු කරනු ඇති බවය.
+🟩
 
-එසේම එරට ශ්‍රී ලංකා තානාපති කාර්යාලය යම් හදිසි අවස්ථාවක් ඇතිවුවහොත් ගතයුතු ක්‍රියාමාර්ග නිවේදනයක් නිකුත් කරමින් පෙන්වා දී තිබේ.
+The Israeli Army has been alert on the suspicion that Israel has been attacked in the Middle East.
 
-1. ඉතාමත් අත්‍යාවශ්‍ය හේතුවකට හැර තමා සේවය කරන නිවස, සේවා ස්ථානය, වගාබිම් හෝ තමන් පදිංචි ස්ථානයෙන් බැහැර නොයන්න.
+Sri Lanka's Ambassador, Nimal Bandara, says that the embassy will work for the safety of Israel in Israel as a result of a risky environment.
 
-2. රෝගී තත්ත්වයන් හේතුවෙන් ඖෂධ හා එන්නත්  ලබාගන්න පිරිස දින ගණනාවකට අවශ්‍ය බෙහෙත් රැස්කර තබා ගන්න.
+The Sri Lankan Embassy in the country has issued a statement that should be taken if there is an emergency.
 
-4. වගකීම් විරහිතව සමාජ මාධ්‍යය ඔස්සේ ඡායාරූප, වීඩියෝ, විස්තර කථනයන් කිරීමෙන් වැලකි සිටින්න. සංවේදී වීඩියෝ හා ඡායාරුප එයට යැවීමෙන් වළකින්න.
+1. Do not go out of the home, workplace, location, or where they serve except for a very essential reason.
+
+2. Keep the group of medications and vaccinated medicines for many days.
+
+4. Become irregularly photography, videos, detail by speech. Avoid sending sensitive videos and photos to it.
+
+5. Sometimes the handjala, telephone services, GPS guidance services may be deformed from time to time, so refrain from unnecessary.
+
+6. Be sure to go to a safe place, as there is safe rooms and homes in every house, workplace.
 
 ...
 
 [Data](articles/d3919ced.json)
 
+[Extended Data](ext_articles/d3919ced.ext.json)
+
 ---
 
-### இலங்கைக்கான பயண ஆலோசனையை ஐக்கிய இராச்சியம் புதுப்பித்தது
+### The United Kingdom renewed travel advice to Sri Lanka
 
 *2024-04-06 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180584) · `ta`
 
-இலங்கை தற்போது அடைந்துள்ள பொருளாதார முன்னேற்றம் காரணமாக, ஐக்கிய இராச்சியம் தனது பிரஜைகளுக்காக வெளியிட்டுள்ள இலங்கைக்கான பயண ஆலோசனையை (Travel Advisory) 2024 ஏப்ரல் 05 முதல் புதுப்பிக்க முடிவு செய்துள்ளது.
+The UK renewed travel advice to Sri Lanka from April 5, 2024, due to economic improvement. The updated advice focuses on Emergency Medical Services, Safety Requirements, and Access to Health Facilities, removing previous concerns about food, fuel, drug shortages, and health service shortages. The Sri Lankan High Commission in London has been addressing issues with British officials, aiming for a clearer understanding of Sri Lanka's progress.
 
-அவசரகால மருத்துவச் சேவைகளுக்கான அணுகல், நாட்டிற்குள் நுழையும் போது பாதுகாப்புத் தேவைகள், வீதிப் பாதுகாப்பு, நாட்டின் பாதுகாப்பு நிலைமை மற்றும் சுகாதார வசதிகளுக்கான அணுகல் ஆகிய பகுதிகளில் முந்தைய தகவல்களைப் புதுப்பித்துள்ளது. அதன்படி, உணவு, எரிபொருள் மற்றும் மருந்துத் தட்டுப்பாடு குறித்து முந்தைய ஆலோசனையில் இருந்த தகவல்கள் இந்த புதுப்பிக்கப்பட்ட பயண ஆலோசனையில் இருந்து நீக்கப்பட்டுள்ளன.
+🟩
 
-...
+Due to the economic improvement that Sri Lanka has achieved, the United Kingdom has decided to renew Travel Advisory to Sri Lanka for its citizens from April 5, 2024.
+
+Emergency Medical Services, Safety Requirements, Road Safety, Country Safety Status and Access to Health Facilities. Accordingly, information on the previous consultation on food, fuel and drug shortage has been eliminated from this updated travel consultation.
+
+In addition, challenges in health services such as a shortage of medical equipment have been eliminated. The Sri Lankan High Commission in London has occasionally presented issues to British officials in London, with the need to eliminate these negative information provided by previous tourist advice to make a clear understanding of the progress of Sri Lanka.
+
+Between January 01 and March 27, 53,928 tourists from the United Kingdom came to Sri Lanka, thereby the third largest country in the United Kingdom.
+
+◼️
 
 [Data](articles/913e98a9.json)
+
+[Extended Data](ext_articles/913e98a9.ext.json)
 
 ---
 
@@ -88,6 +108,8 @@ The largest earthquake ever recorded in New York City’s history was a 5.2-magn
 
 [Data](articles/597063c8.json)
 
+[Extended Data](ext_articles/597063c8.ext.json)
+
 ---
 
 ### Increased AGIV/ AIDS infection in Sri Lanka
@@ -110,23 +132,37 @@ According to the World Health Organization's report, 39 million people live infe
 
 ---
 
-### ලෝකෙම කතාවෙන යක්ෂයාගේ වල්ගා තරුව
+### The comet's comet of the world's story
 
 *2024-04-06 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195359) · `si`
 
-‘‘යක්ෂයාගේ වල්ගා තරුව‘‘ හෙවත් 12P/පොන්ස්-බෲක්ස් යනුවෙන් හඳුන්වන වල්ගා තරුව වසර 71කට පසුව දැක බලාගැනීමේ අවස්ථාව ලබන අප්‍රේල් 8 වැනිදා ශ්‍රී ලාංකිකයන්ට උදාවන බව තාරකා විද්‍යාඥයින් පවසයි.
+Astronomers await the comet's return on April 8. First observed in the 1300s, it's known as "The Devil's Comet," famous for its ice and gas explosions. On April 21, it's closest to the Sun, making it visible from Earth. NASA suggests observing it beneath the moon on April 8, when it's brightest. An eclipse will also be visible, along with six planets.
 
-වසර 71කට වරක් නිරීක්ෂණය කළ හැකි ‘‘යක්ෂයාගේ වල්ගා තරුව‘‘ හෙවත් 12P/Pons-Brooks (පොන්ස්-බෲක්ස්) යනුවෙන් හඳුන්වන මෙම වල්ගා තරුව වර්ෂ 1300 ගණන්වල චීන තාරකා විද්‍යාඥයින් විසින් ප්‍රථම වරට නිරීක්ෂණය කරනු ලැබ තිබේ.
+🟩
 
-කෙසේවෙතත් 19 වන සියවසේදී ප්‍රංශ තාරකා විද්‍යාඥ ජීන් ලුයිස් සහ වර්ෂ 1883 දී බ්‍රිතාන්‍ය අමෙරිකානු තාරකා විද්‍යාඥ විලියම් රොබට් බෲක්ස් විසින් එය නිරීක්ෂණය කිරීමෙන් පසුව එයට නිල පිළිගැනීමක් හිමිවූ අතර වල්ගා තරුවට පොන්ස්-බෲක්ස් යන නම ලැබී ඇත්තේ ඒ අනුවය.
+Astronomers say they will wait for Sri Lankans on April 8.
 
-‘‘යක්ෂයාගේ වල්ගා තරුව‘‘ ලෙස එය වඩාත් ප්‍රචලිත වන්නේ එහි ඇති අයිස් හා වායුව වරින් වර පුපුරා යාම නිසා එම පිපිරීම් වලින් වල්ගා තරුවට යක්ෂ අං ඇති පෙනුමක් ලබාදීම හේතුවෙනි‍.
+The comet is observed for the first time in the 1300's, known as the "The Come on" the "Devil Coast" of the "Devil Wawar", "The Wawar Star, which can be observed."
 
-සැතපුම් 18.6ක් පළල ‘‘යක්ෂයාගේ වල්ගා තරුව‘‘  අප්‍රේල් 21 වනදා සූර්යයාට සමීපතම ප්‍රවේශයට ලඟාවීම සිදුවනු ලබයි.
+In the 19th century, however, the French astronomer Jean Luis and the British Astronomer William Robert Brks, the comet, was said to the comet.
 
-...
+As the Devil's Comet, it is most populous, because the ice and gas that the ice and gas has exploded from time to time.
+
+18.6 miles wide "The Devil's Come on April 21 is the closest access to the Sun.
+
+This means that from next week, it will be when it comes to the right condition.
+
+NASA says the Devil's comet is positioned beneath the moon and is the best day to visit it.
+
+'' The Devil's Comet '' On April 8, can be observed that it is more bright.
+
+The eclipse to take place on April 8 will also be visible to the audience, six planets, and this special stranger, and this special stranger.
+
+◼️
 
 [Data](articles/df793be8.json)
+
+[Extended Data](ext_articles/df793be8.ext.json)
 
 ---
 
@@ -156,23 +192,31 @@ At the time, the police found that the cannabis drug was hidden in a small louds
 
 ---
 
-### ඩෙංගු රෝගීන් සහ මරණ ප්‍රතිශතයේ අඩුවීමක්
+### Decrease in dengue patients and deaths
 
 *2024-04-06 13:10:02* · [`adalk`](https://www.ada.lk/breaking_news/ඩෙංගු-රෝගීන්-සහ-මරණ-ප්‍රතිශතයේ-අඩුවීමක්/11-408974) · `si`
 
-වෙනත් වසරවලට සාපේක්ෂව මෙම වසරේ දී ඩෙංගු රෝගීන් සංඛ්‍යාව සහ මරණ ප්‍රතිශතය අඩුකර ගැනීමට හැකි වූ බව සෞඛ්‍ය රාජ්‍ය අමාත්‍ය, විශේෂඥ වෛද්‍ය සීතා අරඹේපොල මහත්මිය පැවසුවාය.
+Dengue cases and deaths decreased this year, thanks to 64 identified risk zones and effective public health measures.
 
-මෙම වසරේ ජනවාරි මාසය වන විට ඩෙංගු අවධානම් කලාප 64ක් හඳුනාගෙන තිබුණ ද එය අද වන විට කලාප දෙකක් දක්වා පාලනය කර ගැනීමට හැකි වූ බව ද රාජ්‍ය අමාත්‍යවරිය පෙන්වා දුන්නාය.
+🟩
 
-සෞඛ්‍ය රාජ්‍ය අමාත්‍ය, විශේෂඥ වෛද්‍ය සීතා අරඹේපොල මහත්මිය මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ඊයේ (05) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Specialist Minister of Health said that the number of dengue cases and deaths were reduced in this year compared to other years.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ සෞඛ්‍ය රාජ්‍ය අමාත්‍යවරිය මෙසේද සඳහන් කළාය,
+The State Minister pointed out that 64 dengue risk zones were identified as 64 dengue risk zones this year.
 
-උත්සව සමයේ දී අනාරක්ෂිත ආකාරයට ගිනිකෙළි භාවිතය හේතුවෙන් සෑම වසරකදීම අනතුරු වාර්තා වුණා. ඒ නිසා මෙවර අලුත් අවුරුදු සමයේ දී පවුලේ සාමාජිකයන් සමඟ ප්‍රවේශමෙන් කටයුතු කරන ලෙස ඉල්ලා සිටිනවා.
+State Minister of Health, Specialist Dr. Seeetha Arimapola made this statement participating at a press conference held at the press conference yesterday (05).
+
+Speaking further, State Minister of Health said:
+
+During the festive season, the use of fireworks was reported every year. So this year's New Year's New Year's year, you call for careful work with family members.
+
+Also, various propaganda was carried out on the publication of dengue during the last days. Thanksgath for the contribution of the health sector and media institutions. In fact, we were able to reduce the number of cases and deaths this year compared to last years.
 
 ...
 
 [Data](articles/941e2947.json)
+
+[Extended Data](ext_articles/941e2947.ext.json)
 
 ---
 
@@ -1130,6 +1174,28 @@ During the meeting held at the Indian Consulate in Jaffna, the Tamil people were
 
 ---
 
+### Sri Lanka becomes 22nd best connected country in the world
+
+*2024-04-06 03:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-becomes-22nd-best-connected-country-in-the-world/108-280304) · `en`
+
+Climbs two spots in latest UNCATD’s Liner Shipping Connectivity Index
+
+SL overtakes Saudi Arabia in Middle East and Indian subcontinent, emerging as third best connected country
+
+Sri Lanka climbed two spots in the latest United Nations Conference on Trade and Development’s (UNCATD) Liner Shipping Connectivity Index (LSCI), becoming the 22nd best connected country in the world.
+
+Sri Lanka’s score in the LSCI rose by 7.5 percent to 253.4 points in the first quarter of this year from a year ago. Compared to five years ago (1Q 2019), the country’s score is up by 19 percent, with an improvement of one spot in the global rankings.
+
+In the Middle East and Indian subcontinent, Sri Lanka emerged as the third best connected country, overtaking Saudi Arabia.
+
+India (14th best connected country in the world) and the United Arab Emirates (15th best connected in the world) remained as the best connected countries in the region.
+
+...
+
+[Data](articles/74415f5d.json)
+
+---
+
 ### Chamudi Prabhabra: Betty 'Buttha' is 14
 
 *2024-04-06 03:19:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crgry4230nno) · `si`
@@ -1952,15 +2018,21 @@ The popular acting artist Damitha Abeyratne and her husband have been condemned 
 
 ---
 
-### දමිතා හා සැමියා 17 දා තෙක් රිමාන්ඩ්
+### Damitha and husband remanded till 17th
 
 *2024-04-05 19:23:36* · [`adalk`](https://www.ada.lk/breaking_news/දමිතා-හා-සැමියා-17-දා-තෙක්-රිමාන්ඩ්/11-408973) · `si`
 
-මූල්‍ය වංචාවක් සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගත් ප්‍රවීණ නිලි දමිතා අබේරත්න හා ඇයගේ සැමියා එළැඹෙන 17 ද ත් රිමාන්ඩ් කිරීමට කොටුව මහේස්ත්‍රාත් අධිකරණය නියෝග කළේය.එ සැකකරුවන දෙදෙනා අද අධිකරණයට ඉදිරිපත් කිරිමෙන් අනතුරුවය.
+Damitha Abeyratne, arrested for financial fraud, remanded till 17th by Fort Magistrate's Court.
+
+🟩
+
+The Fort Magistrate's Court ordered the Sweetheart Damitha Abeyratne who was arrested by the CID regarding financial fraud.
 
 ◼️
 
 [Data](articles/cfe55abc.json)
+
+[Extended Data](ext_articles/cfe55abc.ext.json)
 
 ---
 
@@ -2129,35 +2201,5 @@ As a result, one demerit point has been added to Kapp’s disciplinary record, f
 [Data](articles/91f2c11a.json)
 
 [Extended Data](ext_articles/91f2c11a.ext.json)
-
----
-
-### China gives visit to Sri Lanka - Sri Lankan cleric
-
-*2024-04-05 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180541) · `ta`
-
-Dr. Waskaduwe Mahinda Thera, a Sri Lankan Buddhist cleric, accused China of preventing his visit to Sri Lanka, despite calls from Sri Lankan Buddhist leaders for the Dalai Lama's visit. Thera expressed respect for the Dalai Lama and criticized China's interference, emphasizing the freedom of Buddhist leaders to invite the Dalai Lama.
-
-🟩
-
-A Sri Lankan Buddhist cleric has accused China of preventing visit to Sri Lanka
-
-This was stated by Dr. Waskaduwe Mahinda Thera, a group of Sri Lanka Buddhist Buddhists who gave the Buddha's sacred significance to the Dalai Lama.
-
-Responding to a question that China would have been furious about what China was on the Dalai Lama, he said that Buddhist leaders from Sri Lanka had called for a visit to Sri Lanka a few years ago.
-
-But he does not know why the problem is coming from China.
-
-As a Buddhist leader, we respect the Dalai Lama. He said that he was not a trader, Dr. Waskaduwe Mahindawansa Thera, who respected him and invited him to visit Sri Lanka. China did not want it to our government.
-
-We do not like this. He has a Buddhist leader. He has the freedom to invite him to Sri Lanka, ”Buddhism said.
-
-If the Dalai Lama visits Sri Lanka in the future, we will be great. Sri Lankans went to the Himalayas.
-
-...
-
-[Data](articles/a453cf91.json)
-
-[Extended Data](ext_articles/a453cf91.ext.json)
 
 ---

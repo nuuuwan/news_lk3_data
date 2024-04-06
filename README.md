@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 10:18:08**
+As of **2024-04-06 10:33:28**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,821
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,460 (100.0%) of 17,463 articles have been extended.
+17,463 (100.0%) of 17,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### ඉන්දීය අගමැති මෝදි ජනපති ට දුන් පොරොන්දුව
+### Indian Prime Minister Modi's promise to the President
 
 *2024-04-06 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195355) · `si`
 
-දැනුම අලුත් කර ගැනීම අධ්‍යාපනයේ ප්‍රධාන කාර්යයක් වී ඇති බැවින් ඉදිරි වසර 75 තුළ රට ඉදිරියට ගමන් කිරීමට නම් අධ්‍යාපන ක්‍රමය නව පරිවර්තනයකට ලක් කළයුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe emphasizes the urgency of modernizing the education system for the next 75 years, highlighting the importance of technology and knowledge in education. He mentions the need for a strong economy, smart agriculture, and the integration of AI technology in education. He also discusses plans for new universities and engineering faculties, aiming to create a skilled workforce and prevent a brain drain of doctors.
 
-ඔහු සඳහන් කළේ රටේ ආර්ථිකය කෙතරම් ශක්තිමත් කළද ලෝකය සමඟ පරිවර්තනය වෙමින් ඉදිරියට නොගියහොත් රට පසුපසට ගමන් කරන බවය.
+🟩
 
-ඊයේ (05) කොළඹ සිරිමාවෝ බණ්ඩාරනායක විද්‍යාලයේ වාර්ෂික ත්‍යාග ප්‍රදානෝත්සවයට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව ප්‍රකාශ කළේය.
+President Ranil Wickremesinghe says that the education system should be translated into a new transformation in the next 75 years, as the renewal of knowledge is a major task of education.
 
-නවීන තාක්ෂණය සහ දැනුම අධ්‍යාපනයේ නව ආයුධය බවට පත්ව තිබෙන බව ද  ජනාධිපතිවරයා එහිදී පැවසීය.
+He said that if the economy of the country was converted with the world, the country would move back back.
+
+President Ranil Wickremesinghe said this at the annual prize giving program of Sirimavo Bandaranaike Vidyalaya, Colombo yesterday (05).
+
+The President said that modern technology and knowledge has become the new weapon of education.
 
 ...
 
 [Data](articles/05795204.json)
+
+[Extended Data](ext_articles/05795204.ext.json)
 
 ---
 
@@ -81,6 +87,8 @@ Sri Lanka, appreciating the Swiss assistance extended to the Export Development 
 ...
 
 [Data](articles/9c4343d5.json)
+
+[Extended Data](ext_articles/9c4343d5.ext.json)
 
 ---
 
@@ -658,27 +666,33 @@ During the meeting held at the Indian Consulate in Jaffna, the Tamil people were
 
 ---
 
-### චමුදි ප්‍රබෝධා: 19න් පහළ කාන්තා ක්‍රිකට් කණ්ඩායමේ 14 හැවිරිදි 'බට්ටි'
+### Chamudi Prabhabra: Betty 'Buttha' is 14
 
 *2024-04-06 03:19:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crgry4230nno) · `si`
 
-චමුදි ප්‍රබෝධා: 19න් පහළ කාන්තා ක්‍රිකට් කණ්ඩායමේ 14 හැවිරිදි 'බට්ටි'
+Chamudi Prabhabra highlights 14-year-old Betty 'Buttha's talents, Sri Lanka's women's cricket victories, and the 19th women's triangle cricket tournament.
 
-යම් පසුබෑමකට ලක්ව තිබූ ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක ක්‍රීඩිකාවන්ගේ දක්ෂතා කැපීපෙනෙන අයුරින් ඉස්මතු වන ආකාරය මේ වන විට දැක ගත හැකි ය.
+🟩
 
-ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම බංග්ලාදේශ තරග සංචාරයේදී දැක්වූ දක්ෂතා, කාන්තා ක්‍රිකට් කණ්ඩායම දකුණු අප්‍රිකාවට එරෙහිව පළමු වරට පන්දු වාර 20 තරගාවලි ජයග්‍රහණයක් ලැබීම මෙන් ම 19න් පහළ කාන්තා ක්‍රිකට් කණ්ඩායම මෑතකදී දැක්වූ දක්ෂතා ද ඊට නිදසුන් සපයයි.
+Chamudi Prabhabra: Betty 'Buttha' is 14
 
-අප්‍රේල් 03 වන දා අවසන් වූ ශ්‍රී ලංකා - ඔස්ට්‍රේලියා - එංගලන්ත 19න් පහළ කාන්තා තුන්කොන් ක්‍රිකට් තරගාවලියේ අනුශූරයින් බවට පත් වීමට ශ්‍රී ලංකා ක්‍රීඩිකාවෝ සමත් වූහ.
+Sri Lanka's cricketer's talents highlights of the players, the skills of the players are highlighted.
 
-අප්‍රේල් 03 වන දා පැවති අවසන් තරගයේදී ශ්‍රී ලංකා කණ්ඩායම එංගලන්ත කණ්ඩායම හමුවේ පරාජයට පත් විය.
+The Sri Lankan cricket team was the most victories of the women of the Bangladesh tour and the first 20-ball cricket cricket team for the first time in the 19th.
 
-කෙසේ වෙතත්, තරග 6කින් සමන්විත වූ මෙම තරගාවලියේදී ඔස්ට්‍රේලියා කණ්ඩායම සහ එංගලන්ත කණ්ඩායම එක් වර බැගින් පරාජය කිරීමට ශ්‍රී ලංකා 19න් පහළ කණ්ඩායම සමත් විය.
+Sri Lankan women became runners up of the 19th women's triangle cricket tournament that ended on April 3.
 
-ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමෙන් පෙරළියක්: පළමු වරට දකුණු අප්‍රිකාවට එරෙහිව T20 තරගාවලි ජයක්
+Sri Lanka were defeated before England in the final of April 3.
+
+However, the Australian team and England team won one occasion in the event of six matches.
+
+Blurry of Sri Lankan women's cricket team: T20 tournament against South Africa
 
 ...
 
 [Data](articles/49955e96.json)
+
+[Extended Data](ext_articles/49955e96.ext.json)
 
 ---
 

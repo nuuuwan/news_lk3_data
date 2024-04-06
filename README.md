@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 17:53:50**
+As of **2024-04-06 18:08:24**
 
 ## Newspaper Stats
 
-*Scraped **17,505** Articles*
+*Scraped **17,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 959
 economynextcom | 973
 adalk | 1,468
 tamilmirrorlk | 2,061
-adaderanalk | 2,111
+adaderanalk | 2,112
 virakesarilk | 2,555
 dailymirrorlk | 2,676
 adaderanasinhalalk | 2,834
@@ -26,45 +26,75 @@ adaderanasinhalalk | 2,834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,503 (100.0%) of 17,505 articles have been extended.
+17,505 (100.0%) of 17,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### දියේ ගිලී දෙදෙනෙකු මරුට
+### Special notice to all public employees regarding New Year vacation
+
+*2024-04-06 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98476/special-notice-to-all-public-employees-regarding-new-year-vacation) · `en`
+
+The Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government has issued a notice to all District Secretaries, Divisional Secretaries and all other officers engaged in local governance with regard to the upcoming long vacation starting from April 11 to 14.
+
+Accordingly, it states that all the public officers including Divisional Secretaries should coordinate with the government institutions to carry out the required administration activities during that period.
+
+Furthermore, they have been informed to deal with disaster management and other emergencies as required.
+
+Meanwhile, the ministry has also mentioned that the officials should make arrangements to implement the necessary procedures during this holiday period to ensure uninterrupted continuation of the development projects and programs related to the government’s development activities.
+
+◼️
+
+[Data](articles/cfa05640.json)
+
+---
+
+### Two drowns
 
 *2024-04-06 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195369) · `si`
 
-කැබිතිගොල්ලෑව කෝල්බැන්ද වැවේ දිය නෑමට ගිය පිරිසක් අතරින් දෙදෙනෙක් දියේ ගිලී මියගොස් ඇති බව පොලීසිය පවසයි.
+In Kolpitogollawa Kolpita, 4 drowned, 2 saved. Suspects drank before entering tank. Deceased: 58 & 38-year-olds from Piliyandala.
 
-මෙලෙස මියගොස් ඇත්තේ පිළියන්දල ප්‍රදේශයේ පදිංචි වයස අවුරුදු 58 සහ 38 හැවිරිදි වියේ පසුවන පුද්ගලයින් දෙදෙනෙකි.
+🟩
 
-එම ප්‍රදේශයේ පැවති අවමංගල්‍ය උත්සවයකට සහභාගීවීමෙන් අනතුරුව එම නිවස පසුපස ඇති මෙම වැවේ දියනෑමට ගොස් ඇත.
+Two of the people drowned and two were drowned in the Kolpitogollawa Kolpita.
 
-පොලීසිය පවසන්නේ එම පිරිස මත්පැන් පානය කිරීමෙන් අනතුරුව මෙලෙස වැවේ දියනෑමට ගොස් ඇති බවට සැකපළකරන බවය.
+The deceased have been identified as 58 and 38-year-old residents of Piliyandala.
 
-එහිදී එම පිරිස අතර සිටි සිව්දෙනෙකු දියේ ගිලී ඇති අතර ඉන් දෙදෙනෙකු දිවි බේරාගැනීමට සමත්ව ඇතිමුත් දෙදෙනෙකු මෙලෙස අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+After attending a funeral ceremony, the tank was on the road after the house.
+
+Police say that the suspects are being proposed to have gone to the water of the tank after drinking.
+
+Four of them were drowning and two of them were able to save and two others have died.
 
 ◼️
 
 [Data](articles/be331df7.json)
 
+[Extended Data](ext_articles/be331df7.ext.json)
+
 ---
 
-### පාතාලේ 9කට වැඩ වැරදුණු තැන
+### Where the 9th mistakes went wrong
 
 *2024-04-06 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195368) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් අත්අඩංගුවට ගැනීම සඳහා පොලිස්පතිවරයාගේ උපදෙස් මත ආරම්භ කළ විශේෂ මෙහෙයුමට අනුව ඊයේ (05) දිනයේදී සැකකරුවන් 09ක් අත්අඩංගුවට ගෙන තිබේ.
+Nine suspects, members of organized crime gangs Kuda and Kududiyana, were arrested in various areas in Sri Lanka.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ කොළඹ, ගාල්ල, රාගම , මොරටුව, බණ්ඩාරගම සහ වාද්දුව යන ප්‍රදේශවල පදිංචි ජාවාරම්කරුවන් 09 දෙනෙකි.
+🟩
 
-මෙම සැකකරුවන් පූකුඩි කණ්නා, පොඩි ලැසී, ගණේමුල්ල සංජීව, හීනටියන සංඛ, කුඩු අංජු, කුඩු සළිඳු සහ මතුගම ගවරියා යන සංවිධානාත්මක අපරාධකරුවන්ගේ කණ්ඩායම්වල සාමාජිකයින් බව පොලීසිය පවසයි.
+According to the special operation commenced on the instructions of the IGP to arrest organized crime gang members, nine suspects were arrested yesterday (05).
+
+The arrested persons were arrested in Colombo, Galle, Ragama, Moratuwa, Bandaragama and Wadduwa areas.
+
+The suspects are members of the organized criminals, Kuda, Kududiyana, Kuda, Kududiyana, Kududiyana, Kududiyana, Kuda, Kududiyana, Kududiyana, Kududiyana, Kududiyana, Kududiyaya, Kududiyana, Kududiyana, Kududiyana, Kududiyana, Kududiyana, Kudu and Mathagama Gawwa.
 
 ◼️
 
 [Data](articles/a0f21b20.json)
+
+[Extended Data](ext_articles/a0f21b20.ext.json)
 
 ---
 
@@ -2201,35 +2231,5 @@ Charita Walcott, a 38-year-old resident in the Bronx, said the quake felt “lik
 [Data](articles/5aa9d9f1.json)
 
 [Extended Data](ext_articles/5aa9d9f1.ext.json)
-
----
-
-### Investigating police who assisted the violent gang in Jaffna
-
-*2024-04-05 20:59:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-வன்முறை-கும்பலுக்கு-உதவிய-பொலிஸார்-மீது-விசாரணை/71-335648) · `ta`
-
-High-ranking police officers in Jaffna are investigating allegations of supporting a violent gang. The gang broke into four houses, and some were caught with weapons, including swords. The police arrested the four and submitted the weapons for investigation. A Tamil police officer claimed support from the residents.
-
-🟩
-
-Investigations are being carried out by high -ranking police officers on charges of supporting a violent gang in Jaffna.
-
-A few days ago, a violent gang that entered the Kayts police division had broken into four houses and fled.
-
-The next day, the violent mobs were trying to engage in violence in the area, while the four were caught when they tried to catch them, while others fled.
-
-While the residents are conducting investigations, a Tamil police officer who works at the Kayts Police Station has said that we are supporting us.
-
-At the same time, when the people were checked by the captures, some of the violent gangs were found with photos with weapons, including swords.
-
-Following the handing over of the four men who had been caught by the Kayts police, the police arrested them and tried in the forum after investigations.
-
-At the same time, the video recordings of the violent gangs have been taken to the notice of the magistrate through the lawyer.
-
-...
-
-[Data](articles/c75e765f.json)
-
-[Extended Data](ext_articles/c75e765f.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 19:33:30**
+As of **2024-04-06 19:50:12**
 
 ## Newspaper Stats
 
@@ -26,45 +26,59 @@ adaderanasinhalalk | 2,836
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,510 (100.0%) of 17,512 articles have been extended.
+17,512 (100.0%) of 17,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### பஸ் விபத்தில் முதியவர் உயிரிழப்பு
+### Old man dies in bus accident
 
 *2024-04-06 19:10:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பஸ்-விபத்தில்-முதியவர்-உயிரிழப்பு/73-335661) · `ta`
 
-அக்கரைப்பற்று - கல்முனை பிரதான வீதியிலுள்ள மாட்டுபாளையம் பகுதியில் பஸ் மற்றும் மோட்டார் சைக்கிள் மோதி விபத்துக்குள்ளானதில் ஒருவர் உயிரிழந்துள்ளதுடன், பஸ் சாரதியை கைது செய்துள்ளதாக நிந்தவூர் பொலிஸார் தெரிவித்தனர்.
+A 72-year-old man died in a bus accident on the Akkaraipattu-Kalmunai road. The bus driver has been arrested.
 
-நிந்தவூர்  5 ஆம் பிரிவைச் சேர்ந்த 72 வயதுடைய அகமட் லெப்பை மீராலெப்பை என்பவரே  உயிரிழந்துள்ளார்
+🟩
 
-பொத்துவில்லில் இருந்து கல்முனை நோக்கி பிரயாணித்த தனியார் பஸ் நிந்தவூர் மாட்டுபாளையம் சந்திக்கு அருகில் அதே திசையில் பயணித்த மோட்டர் சைக்கிளை பின்னால் மோதியதில், மோட்டார் சைக்கிளை செலுத்திச் சென்ற வயோதிர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
+Nindavur police said that one person was killed and a bus driver had been arrested when a bus and motorcycle collided with a bus and motorcycle in the Akkaraipattu - Kalmunai main road.
 
-உயிரிழந்தவரின் சடலம் பிரேத பரிசோதனைக்காக நிந்தவூர் வைத்தியசாலையில் ஒப்படைத்துள்ளதாகவும், பஸ் சாரதியை கைது செய்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+The deceased is the 72 -year -old Ahmed Lepp Meeraleppe from Nintavur 5th Division
 
-இது தொடர்பான மேலதிக விசாரணைகளை நிந்தவூர் போக்குவரத்து பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+A private bus traveling from Pottuvil to Kalmunai crashed into the same direction near the Nintavur Mattupalayam junction and died on the spot.
+
+The body of the deceased has been handed over to the Nintavur Hospital for autopsy and the bus driver has been arrested, police said.
+
+Further investigations are being carried out by Nintavur Traffic Police. Remble
 
 ◼️
 
 [Data](articles/bef3c0b6.json)
 
+[Extended Data](ext_articles/bef3c0b6.ext.json)
+
 ---
 
-### ප්‍රවේසම්වන්න - පොලීසියෙන් නිවේදනයක්
+### Consultive - Police announced
 
 *2024-04-06 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195371) · `si`
 
-උත්සව කාලසීමාව තුළ ව්‍යාජ මුදල් ජාවාරම්කරුවන් ඇතුළු කූඨ ව්‍යාපාරිකයින් පිළිබඳව දැඩි අවධානයකින් පසුවිය යුතු බව පොලීසිය මහජනතාවට දැනුම්දෙයි.
+The police warned the public about fake cash dealers during the Sinhala and Hindu New Year festival, advising on safe picnic practices, including checking drivers' sobriety and adherence to road laws.
 
-සිංහල සහ හින්දු අලුත් අවුරුදු උත්සවය වෙනුවෙන් මේ දිනවල ජනතාව විශාල වශයෙන් විවිධ භාණ්ඩ මිලදී ගැනීමට කටයුතු කරමින් සිටින අතර එහිදී විවිධ ජාවාරම්කරුවන් පිළිබඳව ජනතාව කල්පනාකාරී වියයුතු බව පොලීසිය සඳහන් කළේය.
+🟩
 
-මේ අතර උත්සව සමය තුළ විනෝද චාරිකා යෑමේ දී ක්‍රියාකළ යුතු ආකාරය සම්බන්ධයෙන් ද පොලිස් මාධ්‍ය ප්‍රකාශකවරයා මෙහිදී පැහැදිලි කළේය.
+The police informed the public that the fake cash racketeers including the fake cash dealers, including the fake cash dealers, should be aware of the businessmen.
 
-...
+The people are working to buy different goods from the Sinhala and Hindu New Year festival, police said.
+
+The Police Media Spokesperson also explained how to act on picnics in the festive season.
+
+"When the customs perform the rituals, many people visit their relatives. Going in the villages. Going to see your friend friend. Various trips. Picnics go this holiday period. There are several important activities to pay special attention. Travel vehicles can be a common vehicle to be private vehicles. If a personal vehicle, is the driver who runs your vehicle drink alcohol?Traveling over fast?And focus on how to break road laws. We have employed in duty on duty.. If this person is drinking alcohol, you have the right to resist the road rules. If there is a matter of today, make the 1969 notifications. "
+
+◼️
 
 [Data](articles/f0d61407.json)
+
+[Extended Data](ext_articles/f0d61407.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 23:33:54**
+As of **2024-04-06 23:52:35**
 
 ## Newspaper Stats
 
-*Scraped **17,526** Articles*
+*Scraped **17,528** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 210
 newsfirstlk | 363
 dailyftlk | 958
 islandlk | 960
-economynextcom | 973
+economynextcom | 975
 adalk | 1,468
 tamilmirrorlk | 2,063
 adaderanalk | 2,118
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,841
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,526 (100.0%) of 17,526 articles have been extended.
+17,526 (100.0%) of 17,528 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -167,6 +167,28 @@ During the conference, held at Koombichchankulam lake, President Wickremesinghe 
 [Data](articles/7e9f9758.json)
 
 [Extended Data](ext_articles/7e9f9758.ext.json)
+
+---
+
+### Sri Lanka Parliament schedules 3-day Easter attack debate after former president’s revelation
+
+*2024-04-06 20:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-schedules-3-day-easter-attack-debate-after-former-presidents-revelation-157772/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Parliament has scheduled three-day debate over 2019 Easter Sunday attack after former president Maithripala Sirisena in public said the he knows the real plotters behind the attack.
+
+On April 21 this year, the island nation will commemorate the fifth year anniversary of the carnage that killed at least 269 people.
+
+Sirisena has given a statement at the Criminal Investigation Department (CID) on the Easter Sunday on March 25 after he was called by the police for questioning. Government sources have said Sirisena has accused India oof having a hand in the attack.
+
+India is yet to make an official statement on Sirisena’s allegation as he has recorded his statement in a confidential manner.
+
+The Parliament has decided to have a three day debate on the Easter Sunday attack from April 24-26 on the request of the opposition, the order paper shows.
+
+Sirisena has drawn public attention after his comments to media over the Easter attack last month.
+
+...
+
+[Data](articles/606b5ce2.json)
 
 ---
 
@@ -1157,6 +1179,26 @@ Sullivan and Ratnayake also discussed Sri Lanka’s ongoing efforts to complete 
 [Data](articles/d5c7f12f.json)
 
 [Extended Data](ext_articles/d5c7f12f.ext.json)
+
+---
+
+### Sri Lankans migrating for foreign employment drops 4.2-pct in 2023
+
+*2024-04-06 12:50:00* · [`economynextcom`](https://economynext.com/sri-lankans-migrating-for-foreign-employment-drops-4-2-pct-in-2023-157759/) · `en`
+
+ECONOMYNEXT – Sri Lankans migrating for foreign employment dropped 4.2 percent to 297,664 in 2023 from 310,955 in 2022, data from Sri Lanka Foreign Employment Bureau shows.
+
+Remittances for 2024 end are targeted to increase by 17 percent, from the recorded 5969 million dollars of 2023 to 7000 million dollars, the Bureau Publicity Manager Manjula Kularatne told Economy Next.
+
+Sri Lanka’s workers leaving for work abroad dropped to around 203,087 by 2019, with economic growth low or through still positive.
+
+In 2022 official worker migration rebounded above 300,000 with the worst currency crisis in the history of the island’s soft-pegged central bank.
+
+Sri Lanka has network of employment agencies which have been built up over decades of monetary instability and currency depreciation that had destroyed real wages in the island.
+
+...
+
+[Data](articles/ba9aa6b7.json)
 
 ---
 
@@ -2257,37 +2299,5 @@ Tourism is one of the largest foreign exchange earners in the country.
 [Data](articles/7cab4f81.json)
 
 [Extended Data](ext_articles/7cab4f81.ext.json)
-
----
-
-### Karuna loses Eastern battle but Prabhakaran loses Eelam war
-
-*2024-04-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Karuna-loses-Eastern-battle-but-Prabhakaran-loses-Eelam-war/172-280268) · `en`
-
-The once-powerful Liberation Tigers of Tamil Eelam (LTTE) waged war against the Sri Lankan state for over thirty years. The LTTE known popularly as the Tigers was the determining force in Sri Lankan politics for nearly two decades. The decline of the LTTE began in 2004 when its Batticaloa and Amparai district  special commander Vinayagamoorthy Muralidharan  alias “Col” Karuna led an eastern tiger revolt against the LTTE supremo Veluppillai Prabhakaran. Although “Col” Karuna - also  known as “Karuna  Ammaan” - was defeated militarily by the LTTE, subsequent events demonstrated that the Eastern split weakened the LTTE considerably and ultimately led to its downfall in 2009.
-
-...
-
-[Data](articles/89a33f5e.json)
-
-[Extended Data](ext_articles/89a33f5e.ext.json)
-
----
-
-### A terrorist attack senselessly politicized
-
-*2024-04-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/A-terrorist-attack-senselessly-politicized/172-280266) · `en`
-
-However, it must be the Sri Lanka Podujana Peramuna (SLPP) that is  most happy about the implication of India in the incident, as it had been accused for the past three years of the crime
-
-Despite former President Maithripala Sirisena seeming to have landed in hot water over his recent statement on the Easter Sunday terrorist attacks, so long as his motive is not clear one should not jump the gun to call him a fool.
-
-Sirisena while talking to media in Kandy claimed on March 22 that he knew who really carried out the 2019 Easter Sunday attacks and that he was prepared to disclose the information if the judiciary ordered him to do so. The Sunday Times reported that on questioning by the CID he had stated that India was behind the attacks. He had claimed that an Indian diplomat whom he named had not only confessed to him about the attacks but also the reason.
-
-...
-
-[Data](articles/d1231ada.json)
-
-[Extended Data](ext_articles/d1231ada.ext.json)
 
 ---

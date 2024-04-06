@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 14:33:49**
+As of **2024-04-06 14:50:13**
 
 ## Newspaper Stats
 
-*Scraped **17,486** Articles*
+*Scraped **17,487** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,63 @@ tamilmirrorlk | 2,059
 adaderanalk | 2,107
 virakesarilk | 2,549
 dailymirrorlk | 2,676
-adaderanasinhalalk | 2,827
+adaderanasinhalalk | 2,828
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,485 (100.0%) of 17,486 articles have been extended.
+17,486 (100.0%) of 17,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### ශ්‍රී ලංකාව ගැන එක්සත් රාජධානිය ගත් තීරණය
+### යුක්‍රේනයෙන් රුසියාවට දරුණු ප්‍රහාරයක්
+
+*2024-04-06 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195363) · `si`
+
+යුක්‍රේනය දකුණු රුසියාවේ රොස්තොව් ප්‍රදේශයේ ගුවන් කඳවුරකට එල්ල කළ ඩ්‍රෝන ප්‍රහාරයකින් රුසියානු ගුවන් යානා 06ක් විනාශ කළ බව පවසා තිබේ.
+
+විදෙස් වාර්තා සඳහන් කළේ තවත් ගුවන් යානා 08 කට එම ප්‍රහාරයෙන් දැඩි ලෙස හානි සිදුවී ඇති බවය.
+
+මෙම ප්‍රහාරයෙන් නිලධාරීන් 20 දෙනෙකු මිය යාමට හෝ තුවාල වන්නට ඇති බව විදෙස් වාර්තා පවසයි.
+
+මෙම ප්‍රහාරය පිළිබඳව රුසියාව මේ වනතෙක් කිසිදු තොරතුරක් ප්‍රකාශයට පත්කර නොමැති බව වාර්තා වේ.
+
+කෙසේ වෙතත්, යුක්රේනයට ආසන්නයේ පිහිටි කලාපයට ඩ්‍රෝන යානා ප්‍රහාර 40කට වැඩි ප්‍රමාණයකින් එල්ල කර ඇති බව රුසියාව පවසා ඇති බව විදෙස් වාර්තා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/3dc4c336.json)
+
+---
+
+### Decision on Sri Lanka
 
 *2024-04-06 14:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195362) · `si`
 
-එක්සත් රාජධානිය විසින් සිය පුරවැසියන් සඳහා නිකුත් කර තිබූ ශ්‍රී ලංකාව සඳහා වන සංචාරක උපදේශනය (Travel Advisory) 2024 අප්‍රේල් මස 05 වැනි දින සිට යාවත්කාලීන කිරීමට එක්සත් රාජධානිය කටයුතු කර තිබේ.
+The UK updated its travel advisory for Sri Lanka on April 5, 2024, removing concerns about food, fuel, and medicinal shortages. The Presidential Media Unit clarified safety and health facilities, and the risk of health service shortages has been removed. This update reflects Sri Lanka's attractiveness to tourists, with 53,928 UK visitors from January 1 to March 27, making it the third-largest source of tourists.
 
-ජනාධිපති මාධ්‍ය අංශය නිවේදනයක් නිකුත් කරමින් සඳහන් කරන්නේ හදිසි වෛද්‍ය සේවාවන් ලබාගැනීම, රට තුළට ඇතුලුවීමේදී ආරක්ෂාව සම්බන්ධයෙන් පැවතිය යුතු අවශ්‍යතා, මාර්ගවල ගමන් කිරීමේදී පවතින ආරක්ෂාව, රට තුළ පවතින ආරක්ෂක තත්ත්වය සහ සෞඛ්‍ය පහසුකම් ලබාගැනීම ආදී අංශයන්හි පෙර පැවති තොරතුරු යාවත්කාලීන කිරීම මෙමගින් සිදු කර ඇති බවය.
+🟩
 
-ඒ අනුව ආහාර, ඉන්ධන සහ ඖෂධ හිඟය පිළිබඳව පසුගිය උපදේශනය තුළ අඩංගු කර තිබූ කරුණු යාවත්කාලීන කරන ලද මෙම සංචාරක උපදේශනයෙන් ඉවත් කර ඇත.
+The UK has been updated from April 5, 2024 from April 5, 2024 from April 5, 2024.
 
-මීට අමතරව වෛද්‍ය උපකරණ හිඟය වැනි සෞඛ්‍ය සේවාවල සීමාවන් පිළිබඳ දක්වා තිබූ අවදානම ද ඉවත් කර තිබේ.
+The Presidential Media Unit said that it was updated to update the pre-existing information on the safety and health facilities that exist in the country to obtain safe medical services in the country when entering the country.
 
-ජනවාරි 1 සිට මාර්තු 27 දක්වා කාලය තුළ එක්සත් රාජධානියේ සිට ශ්‍රී ලංකාවට සංචාරකයින් 53,928 ක් පැමිණ ඇති අතර එක්සත් රාජධානිය ශ්‍රී ලංකාවට සංචාරකයින් පැමිණෙන තුන්වන විශාලතම රට වේ.
+Accordingly, the information contained in the last consultation regarding the shortage of food, fuel and medicinal deficit, has been removed from the last consultancy.
 
-...
+In addition, the risk of the limits of health services, such as medical shortage has been removed.
+
+53,928 tourists from the UK to Sri Lanka from January 1 to March 27, 53,928 tourists from the UK is the third largest country to tour Sri Lanka.
+
+Updated Tourism Counseling will provide another incentive to the Sri Lanka Tourism.
+
+◼️
 
 [Data](articles/53faad2e.json)
+
+[Extended Data](ext_articles/53faad2e.ext.json)
 
 ---
 
@@ -2179,27 +2207,5 @@ Chronic Kidney Disease (CKD) has emerged as a pressing issue in Sri Lanka, parti
 [Data](articles/07c439ed.json)
 
 [Extended Data](ext_articles/07c439ed.ext.json)
-
----
-
-### Human Rights Council resolution demanding Israeli stopping arms sales
-
-*2024-04-05 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/180547) · `ta`
-
-The Human Rights Council passed a resolution demanding Israel stop arms sales, with 47 out of 28 countries voting in favor, 6 against, and 13 abstaining. The resolution highlights the risk of genocide due to the Gaza War, with over 33,000 deaths.
-
-🟩
-
-UN to stop all arms sales for Israel. The Human Rights Council has emphasized.
-
-The resolution was passed today. The 47 countries, which are part of the 28 countries, voted in favor of the resolution. 6 countries voted against. 13 countries did not participate in the vote.
-
-The resolution has been passed, pointing out that there is a risk of genocide as more than 33,000 people have been killed by the Gaza War.
-
-◼️
-
-[Data](articles/06faf996.json)
-
-[Extended Data](ext_articles/06faf996.ext.json)
 
 ---

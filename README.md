@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 02:33:36**
+As of **2024-04-07 02:50:03**
 
 ## Newspaper Stats
 
-*Scraped **17,528** Articles*
+*Scraped **17,529** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 958
 islandlk | 960
 economynextcom | 975
 adalk | 1,468
-tamilmirrorlk | 2,063
+tamilmirrorlk | 2,064
 adaderanalk | 2,118
 virakesarilk | 2,555
 dailymirrorlk | 2,680
@@ -26,9 +26,29 @@ adaderanasinhalalk | 2,841
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,528 (100.0%) of 17,528 articles have been extended.
+17,528 (100.0%) of 17,529 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-04-07 (Sunday)
+
+### ’நெருக்கடியில் விஜயதாச ராஜபக்ஷ என்னுடன் இணைந்தார்’
+
+*2024-04-07 02:25:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெருக்கடியில்-விஜயதாச-ராஜபக்ஷ-என்னுடன்-இணைந்தார்/175-335675) · `ta`
+
+அரசியல் ரீதியில் பல்வேறு நெருக்கடியான சூழ்நிலைகளில் விஜயதாச ராஜபக்ஷ நாட்டிற்காக தன்னுடன் இணைந்ததாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+நீதி, சிறைச்சாலை விவகாரங்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் ஜனாதிபதி சட்டத்தரணி கலாநிதி விஜயதாச ராஜபக்ஷவின் சட்டத்தரணி வாழ்வின் 40 ஆவது ஆண்டு நிறைவை முன்னிட்டு கொழும்பு ஹில்டன் ஹோட்டலில் இடம்பெற்ற நிகழ்வில் பிரதம அதிதியாக கலந்து கொண்டு ஜனாதிபதி ரணில் விக்கிரமசிங்க இதனைத் தெரிவித்தார்.
+
+விஜயதாச ராஜபக்ஷவிடம் பயிற்சி பெறும் மற்றும் பயிற்சி பெற்ற கனிஷ்ட சட்டத்தரணிகளால் இந்நிகழ்வு ஏற்பாடு செய்யப்பட்டிருந்தது.
+
+இலங்கை அரசியலிலும் சட்டத்துறையிலும் தனித்துவமான பங்களிப்பை வழங்கும் விஜயதாச ராஜபக்ஷ, இலக்கியவாதி, எழுத்தாளர், பாடலாசிரியர் மற்றும் கலைஞராக ஆற்றிய பணிகளுக்காக இதன்போது ஜனாதிபதியினால் பாராட்டப்பட்டார். (a)
+
+◼️
+
+[Data](articles/51fc7b9c.json)
+
+---
 
 ### 2024-04-06 (Saturday)
 
@@ -2283,25 +2303,5 @@ A section of the Nidahasa Janatha Sabawa yesterday signed an MOU with the Samagi
 [Data](articles/bc3ed2fc.json)
 
 [Extended Data](ext_articles/bc3ed2fc.ext.json)
-
----
-
-### Avurudhu, Ramadan and Easter Sunday amid a crumbling economy
-
-*2024-04-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Avurudhu-Ramadan-and-Easter-Sunday-amid-a-crumbling-economy/172-280265) · `en`
-
-The trio of festivals-the Sinhala and Tamil New Year, Ramadan and Easter Sunday fall within a short time of each other. The deadly Easter Sunday massacre of innocent civilians in churches and hotels in 2019 hit one of our biggest exchange earners badly.
-
-The Easter Sunday bombings also marked the beginning of a dark era that saw the crumbling of our country’s economy which had just begun to take off after the near three-decade-long terrorist war was brought to a close.
-
-President of the Cultural Triangle Hoteliers Association in May 2019, told the Anadolu Agency that foreign tourist arrivals plunged by a staggering 70.8% in May, followed by 57% in June and 46.9% in July, compared to 2018.
-
-Tourism is one of the largest foreign exchange earners in the country.
-
-...
-
-[Data](articles/7cab4f81.json)
-
-[Extended Data](ext_articles/7cab4f81.ext.json)
 
 ---

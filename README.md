@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 07:54:12**
+As of **2024-04-06 08:03:10**
 
 ## Newspaper Stats
 
-*Scraped **17,442** Articles*
+*Scraped **17,443** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 958
 islandlk | 959
 economynextcom | 972
 adalk | 1,466
-tamilmirrorlk | 2,053
+tamilmirrorlk | 2,054
 adaderanalk | 2,096
 virakesarilk | 2,539
 dailymirrorlk | 2,671
@@ -26,23 +26,29 @@ adaderanasinhalalk | 2,819
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,441 (100.0%) of 17,442 articles have been extended.
+17,442 (100.0%) of 17,443 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### වි‍දෙස් ජාතික‍යෙක් දියේ ගිලී මරුට
+### Foreign national drowns
 
 *2024-04-06 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195353) · `si`
 
-හික්කඩුව නගර ආසන්නයේ මුහුදු තීරයේ දිය නාමින් සිටි වි‍දෙස් ජාතික‍යෙකු දියේ ගිලී මියගොස් තිබේ.
+A foreign national drowned near Hikkaduwa, with water savers and police personnel also injured.
 
-මෙම විදෙස් ජාතිකයා දිය නාමින් සිටියදී දියේ ගිලි ඇති අතර එහිදී පොලිස් ජීවිතාරක්ෂක නිලධාරීන් විසින් ඔහුව ගොඩට ගෙන බලපිටිය රෝහලට ඇතුළු කිරීමේ දී මියගොස් තිබේ.
+🟩
+
+A foreign national drowned in the coast near the towns near Hikkaduwa.
+
+The foreign national has been ripe while water savers and the police life personnel have died in admission to the Balapitiya Hospital.
 
 ◼️
 
 [Data](articles/75d39670.json)
+
+[Extended Data](ext_articles/75d39670.ext.json)
 
 ---
 
@@ -179,6 +185,22 @@ As the Tamil & Sinhala New Year celebrations commence in the country, retail tra
 [Data](articles/a04bbf63.json)
 
 [Extended Data](ext_articles/a04bbf63.ext.json)
+
+---
+
+### ’அரசாங்க அதிகாரிகளுக்கும் பாரிய பொறுப்பு’
+
+*2024-04-06 03:31:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-அதிகாரிகளுக்கும்-பாரிய-பொறுப்பு/175-335651) · `ta`
+
+அஸ்வெசும, உறுமய, மலைநாட்டுத் தசாப்தம் உள்ளிட்ட வேலைத் திட்டங்களின் பலன்களை, மக்களுக்குப் பெற்றுக்கொடுக்க அரசியல்வாதிகளைப் போன்று, அரச அதிகாரிகளும் ஒத்துழைக்க வேண்டியது அவசியமாகுமென ஜனாதிபதியின் தொழிற்சங்கப் பணிப்பாளர் நாயகம் சமன் ரத்னப்பிரிய தெரிவித்துள்ளார்.
+
+2024 ஆம் ஆண்டிற்கான வரவு - செலவுத் திட்டத்தில் முன்மொழியப்பட்ட உறுமய, அஸ்வெசும மற்றும் மலைநாட்டுத் தசாப்தம் உள்ளிட்ட திட்டங்கள் குறித்து அரசியல் செயற்பாட்டாளர்கள், தொழிற்சங்கத் தலைவர்கள், சிவில் அமைப்புக்களின் பிரதிநிதிகள் உள்ளிட்ட தரப்பினரைத் தெளிவுபடுத்துவதற்காக ஜனாதிபதி அலுவலகத்தில் நடைபெற்ற சந்திப்பிலேயே அவர் அவர்  தெரிவித்தார்,
+
+நிதியமைச்சர் என்ற வகையில், ஜனாதிபதி 2024 ஆம் ஆண்டுக்கான வரவு - செலவுத் திட்டத்தில் பல முக்கிய வேலைத்திட்டங்களை அமுல்படுத்த நிதி ஒதுக்கீடு செய்திருந்தார். அந்த வேலைத்திட்டங்கள் இன்று செயற்படுத்தப்படுகின்றன. அதன்படி உறுமய, அஸ்வெசும , மலைநாட்டுத் தசாப்தம் உள்ளிட்ட மக்களுக்கு பெருமளவில் பலனளிக்கும் திட்டங்கள் குறித்து அனைவரையும் தெளிவுப்படுத்த வேண்டியது அவசியம்.
+
+...
+
+[Data](articles/3684d361.json)
 
 ---
 
@@ -2159,25 +2181,5 @@ Accordingly, the judge ordered the accused to life sentenced to life.
 [Data](articles/0c5c5034.json)
 
 [Extended Data](ext_articles/0c5c5034.ext.json)
-
----
-
-### Vehicle imports allowed only for tourism sector - Siyambalapitiya
-
-*2024-04-05 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98448/vehicle-imports-allowed-only-for-tourism-sector-siyambalapitiya) · `en`
-
-Only vehicles used for the tourism sector have been allowed to import, State Minister of Finance Ranjith Siyambalapitiya has clarified.
-
-Speaking to the media, Siyambalapitiya expressed that the Cabinet of Ministers approved the import of 250 buses and 750 vans intended for the tourism industry.
-
-“With the foreign exchange issue in the country, we restricted the import of vehicles. But in the tourism industry, vehicles older than 6 years cannot be used. Now the vehicles are getting old. That is why the Cabinet of Ministers decided to bring 250 buses and 750 vans for the tourism industry. Only 1000 vehicles are imported”, he added.
-
-At its meeting on April 01, the Cabinet of Ministers green-lighted a proposal tabled by Tourism Minister Harin Fernando to allow importing a total of 1,000 buses and vans to improve the transportation facilities provided to tourists.
-
-...
-
-[Data](articles/e704a829.json)
-
-[Extended Data](ext_articles/e704a829.ext.json)
 
 ---

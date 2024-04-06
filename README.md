@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 15:03:11**
+As of **2024-04-06 15:18:00**
 
 ## Newspaper Stats
 
-*Scraped **17,491** Articles*
+*Scraped **17,492** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 2,059
 adaderanalk | 2,109
 virakesarilk | 2,551
 dailymirrorlk | 2,676
-adaderanasinhalalk | 2,828
+adaderanasinhalalk | 2,829
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,487 (100.0%) of 17,491 articles have been extended.
+17,491 (100.0%) of 17,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### ගිනිඅවි නිෂ්පාදනය කළ තැනක් වටලයි
+
+*2024-04-06 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195364) · `si`
+
+අයිස් මත්ද්‍රව්‍ය සමඟ අත්අඩංගුවට ගත් සැකකරුවකුගෙන් ලද තොරතුරකට අනුව වයික්කාල ප්‍රදේශයේ මෙම නිතිවිරෝධී ගිනිඅවි නිෂ්පාදනය කරන ස්ථානය පිළිබඳ තොරතුරු අනාවරණය කරගෙන ඇත.
+
+පොලීසිය පැවසුවේ එම ස්ථානයේ තිබී සකස් ලද ගිනි අවි කොටස් හා ගිනිඅවි නිෂ්පාදනය සඳහා යොදා ගන්නා උපකරණ කිහිපයක්ද සොයා ගත් බවය.
+
+මීට අමතරව එහි තිබී විදේශීය රටක නිෂ්පාදිත මිලිමීටර් 9 වර්ගයේ ගිනි අවියක්, ගල්කටස් වර්ගයේ ගිනිඅවියක්, විවිධ වර්ගයේ ගිනිඅවි සඳහා යොදන සජීවී උණ්ඩ 27ක් , හිස් උණ්ඩ කොපු , ඊයම්බෝල 31 ක්, සොයාගෙන ඇත.
+
+ඒ අනුව මෙම ගිනි අවි නිෂ්පාදනය කරන ස්ථානය පවත්වාගෙන ගිය වයික්කාල ප්‍රදේශයේ පදිංචි 79 හැවිරිදි පුද්ගලයෙක් පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/89efdaa7.json)
+
+---
 
 ### Man arrested with over 5,000 prescription drugs in Kalmunai
 
@@ -47,6 +65,8 @@ The suspect held in this operation was identified as a resident of Maruthamunai 
 ◼️
 
 [Data](articles/a4e0a85c.json)
+
+[Extended Data](ext_articles/a4e0a85c.ext.json)
 
 ---
 
@@ -66,21 +86,29 @@ The Sri Lankan High Commission in London has consistently advocated to British a
 
 [Data](articles/61ae5097.json)
 
+[Extended Data](ext_articles/61ae5097.ext.json)
+
 ---
 
-### அனுமதி பத்திரம் இல்லாமல் மாட்டிறைச்சி விற்பனைக்காக வைத்திருந்த இருவர் கைது!
+### Two persons arrested for sale of beef without permit
 
-*2024-04-06 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180587) · `ta`
+*2024-04-06 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/180587) · `ta`
 
-அனுமதி பத்திரம் இல்லாமல் மாட்டிறைச்சியை விற்பனைக்காக வைத்திருந்த இருவர் கம்பளை விஷேட அதிரடிப்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+Two individuals were arrested for selling beef without a permit. The Special Task Force recovered 95 kg of beef during a raid in Jayamalapura, Gampola. The suspects are being investigated for a theft gang.
 
-கம்பளை விஷேட அதிரடி படையினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலுக்கு அமைய நேற்று இரவு கம்பளை ஜயமாலப்புர பிரதேசத்தில் உள்ள வீடொன்றில் சோதனை நடத்திய பொழுது விற்பனை செய்வதற்காக வைத்திருந்த 95 கிலோ கிராம் மாட்டு இறைச்சியை  மீட்டுள்ளனர்.
+🟩
 
-அதிரடிப்படையினர் சந்தேக நபர்களை  கம்பளை பொலிஸ் நிலையத்தில் ஒப்படைத்துள்ளனர். மாடுகளை திருடி வரும் கும்பளை தேடி பொலிஸார் விசாரணை முன்னேடுத்து வருகின்றனர்.
+Two persons have been arrested by the Special Task Force for the sale of beef without permission.
+
+According to confidential information available to the Gampola Special Action Force, 95 kg of beef was recovered for sale during a raid last night at a house in Jayamalapura area in Gampola.
+
+The suspects have handed over the suspects to the Gampola police station. Police are investigating the gang that steals the cows.
 
 ◼️
 
 [Data](articles/9f1755ef.json)
+
+[Extended Data](ext_articles/9f1755ef.ext.json)
 
 ---
 
@@ -110,23 +138,29 @@ However, Russia has said that the zone near Ukraine has been launched in more th
 
 ---
 
-### வவுனியாவில் கெப் ரக வாகனம் ரயிலில் மோதி விபத்து ; ஒருவர் படுகாயம்
+### A cab vehicle collided with a train in Vavuniya;Injury
 
 *2024-04-06 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180586) · `ta`
 
-வவுனியா ஓமந்தை பன்றிக்கெய்தகுளம் பகுதியில் அமைந்துள்ள பாதுகாப்பற்ற புகையிரத கடவையில் இன்று சனிக்கிழமை (06) இடம்பெற்ற விபத்தில் ஒருவர் படுகாயமடைந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+A cab collided with a train at an unsafe crossing in Vavuniya, injuring the driver. Four were killed in a past accident there.
 
-அநுராதபுரத்திலிருத்து யாழ்ப்பாணம் நோக்கிச்சென்றுகொண்டிருந்த ரயில் ஓமந்தை பன்றிக்கெய்தகுளம் பகுதியில் கடவையினை கடக்கமுற்பட்ட  கெப் ரக வாகனத்துடன் மோதியதில் குறித்த விபத்து இடம்பெற்றது.
+🟩
 
-விபத்தில்  கெப் ரக வாகனம் கடுமையான சேதமடைந்ததுடன், அதன் சாரதி படுகாயமைடந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+One person was admitted to the Vavuniya Hospital after being injured in an accident on Saturday (06) at an unsafe railway crossing at Omanthai Paraikaikulam area in Vavuniya.
 
-விபத்தில் ரயிலின் முன்பகுதியும் சேதமடைந்துள்ளது. இதனையடுத்து பயணிகள் இறக்கப்பட்டு மற்றொரு புகையிரதத்தில் ஏற்றப்பட்டு அனுப்பிவைக்கப்பட்டனர்.
+The accident occurred when a train collided with a vehicle that was crossing the barrier in the Omanthai Paraikkayakulam area in the Omanthai Paraikkayakulam area.
 
-இதேவேளை, குறித்த பாதுகாப்பற்ற புகையிரத கடவையில் சிலவருடங்களுக்கு முன்பு இடம்பெற்ற விபத்தில் நான்குபேர் உயிரிழந்துள்ளமை குறிப்பிடத்தக்கது.
+The vehicle was severely damaged and its driver was admitted to the Vavuniya Hospital after being injured.
+
+The front of the train was damaged in the accident. Subsequently, the passengers were unloaded and sent to another train.
+
+Meanwhile, four people were killed in an accident that occurred a few years ago at the unsafe railway crossing.
 
 ◼️
 
 [Data](articles/edfdee72.json)
+
+[Extended Data](ext_articles/edfdee72.ext.json)
 
 ---
 
@@ -2161,23 +2195,5 @@ The Fort Magistrate's Court ordered the Sweetheart Damitha Abeyratne who was arr
 [Data](articles/cfe55abc.json)
 
 [Extended Data](ext_articles/cfe55abc.ext.json)
-
----
-
-### Mobile phone prices dropped significantly, dealers say
-
-*2024-04-05 19:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98457/mobile-phone-prices-dropped-significantly-dealers-say) · `en`
-
-The prices of mobile phones in Sri Lanka have dropped by 18% - 20%, says the Sri Lanka Mobile Phone Importers’ and Sellers’ Association.
-
-The president of the association Samith Senarath made these remarks while joining a press briefing this evening (05).
-
-This price drop comes as a result of the continuous appreciation of Sri Lankan Rupee against US Dollar, he explained.
-
-◼️
-
-[Data](articles/9f5a66ac.json)
-
-[Extended Data](ext_articles/9f5a66ac.ext.json)
 
 ---

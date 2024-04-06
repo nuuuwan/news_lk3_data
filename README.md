@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 09:52:34**
+As of **2024-04-06 10:03:10**
 
 ## Newspaper Stats
 
-*Scraped **17,455** Articles*
+*Scraped **17,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,142 @@ islandlk | 959
 economynextcom | 972
 adalk | 1,466
 tamilmirrorlk | 2,059
-adaderanalk | 2,100
-virakesarilk | 2,540
-dailymirrorlk | 2,672
+adaderanalk | 2,101
+virakesarilk | 2,543
+dailymirrorlk | 2,673
 adaderanasinhalalk | 2,820
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,453 (100.0%) of 17,455 articles have been extended.
+17,455 (100.0%) of 17,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### இளம் உலகத் தலைவராக ஜீவன் தொண்டமான் தெரிவு
+### Sri Lanka & Switzerland hold bilateral consultations, commit to expanding relations
+
+*2024-04-06 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98465/sri-lanka-switzerland-hold-bilateral-consultations-commit-to-expanding-relations) · `en`
+
+The 4th round of bilateral consultations between Sri Lanka and Switzerland took place on 05 April 2024 in Colombo, co-chaired by Ambassador Head of Asia Pacific at Swiss Federal Department of Foreign Affairs (FDFA) Heinrich Schellenberg and Additional Secretary/Bilateral (West) of Foreign Affairs Ministry of Sri Lanka Yasoja Gunasekera.
+
+According to a statement issued by the Foreign Affairs Ministry, the delegations have discussed the potential to further enhance economic relations.
+
+Sri Lanka, appreciating the Swiss assistance extended to the Export Development Board (EDB) in identifying further markets for Sri Lankan exports, has proposed collaboration in the textile industry. The two countries agreed to work towards and to explore diversifying trade relations and further potential in the tourism sector.
+
+...
+
+[Data](articles/38208e26.json)
+
+---
+
+### கற்பிட்டியில்  இந்தியாவிலிருந்து சட்டவிரோதமாக கொண்டுவரப்பட்ட பீடி இலைகள் கைப்பற்றல்
+
+*2024-04-06 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/180561) · `ta`
+
+கற்பிட்டி குறிஞ்சிப்பிட்டி கரையோரப் பகுதியில் மீன் வாடியொன்றில். இந்தியாவிலிருந்து அனுமதிப்பத்திரமின்றி சட்டவிரோதமாக கொண்டுவரப்பட்ட பீடி இலைகள் கைப்பற்றப்பட்டுள்ளன.
+
+கிடைக்கப்பெற்ற இரகசியத் தகவலுக்கமைய புத்தளம் பொலிஸ் விஷேட அதிரடிப்படையினர் மற்றும் புத்தளம் கலால்வரித் திணைக்களத்தினருடன் இணைந்து வெள்ளிக்கிழமை (05) அதிகாலை  சுற்றிவளைப்பு மேற்கொள்ளப்பட்டது.
+
+இதன்போது சுமார் 40 உரைகளில் 1,200 கிலோகிராம் பீடி இலைகள் கைப்பற்றப்பட்டதாகவும், இதன்போது எவரும் கைது செய்யப்படவில்லை யென்றும் பொலிஸ் விஷேட அதிரடிப்படையினர் தெரிவித்தனர்.
+
+கைப்பற்றப்பட்ட பீடி இலைகள் சுமார் 60 இலட்சம் ரூபாவிற்கும் அதிக பெறுமதியெனவும் மதிக்கப்பட்டுள்ளது.
+
+கைப்பற்றப்பட்ட பீடி இலைகள் புத்தளம் கலால்வரித் திணைக்களத்தினரிடம் ஒப்படைக்கப்பட்டுள்ளதாக புத்தளம் பொலிஸ் விஷேட அதிரடிப்படையினர் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/7207701b.json)
+
+---
+
+### ஹிங்குராங்கொடை விமான நிலையத்தை சர்வதேச விமான நிலையமாக அபிவிருத்தி செய்ய நடவடிக்கை
+
+*2024-04-06 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/180559) · `ta`
+
+இரண்டாம் உலகப் போருக்கு முந்தைய வரலாற்று சிறப்புமிக்க ஹிங்குராங்கொட உள்நாட்டு  விமான நிலையத்தை மறுசீரமைக்கும் திட்டத்தை அரசாங்கம் வெளியிட்டுள்ளது.
+
+ஆரம்பத்தில் ”RAF மின்னேரியா” என அழைக்கப்பட்ட இந்த விமான நிலையம் இரண்டாம் உலகப் போரின்  போது இங்கிலாந்தின் ராயல் விமானப்படைக்கு ஒரு மூலோபாய தளமாக செயல்பட்டது.
+
+2024 ஆம் ஆண்டு  வரவு செலவுத் திட்டத்தில் ஹிங்குராங்கொடை சர்வதேச விமான நிலையத்தின் அபிவிருத்திக்காக இரண்டு பில்லியன் ரூபாய் நிதி ஒதுக்கப்பட்டுள்ளதாக  துறைமுகங்கள், கப்பல் போக்குவரத்து மற்றும் விமானப் போக்குவரத்து அமைச்சு தெரிவித்துள்ளது.
+
+விமான நிலைய அபிவிருத்தி பணியில் முதல் கட்டமாக ஓடுபாதையை நீடிப்பதில் கவனம் செலுத்தப்படும். தற்போது 2287 மீட்டர் நீளமும், 46 மீட்டர் அகலமும்  கொண்ட இந்த ஓடுபாதை மொத்தம் 2500 மீட்டர் நீளத்திற்கு விரிவுபடுத்தப்படும்.
+
+இதனை அபிவிருத்தி செய்வதால்  விமான நிலையத்தில் பிரபலமான ஏர்பஸ் ஏ320 மற்றும் போயிங் பி737 மாடல்கள் உட்பட பெரிய  விமானங்கள் வருகை தர இடமளிக்கும்.
+
+...
+
+[Data](articles/4a3d6a74.json)
+
+---
+
+### Jeevan Thondaman is the leader of the young world
 
 *2024-04-06 09:28:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-உலகத்-தலைவராக-ஜீவன்-தொண்டமான்-தெரிவு/175-335656) · `ta`
 
-நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சரான ஜீவன் தொண்டமான் உலக பொருளாதார மன்றத்தால், இளம் உலகத் தலைவராக தெரிவுசெய்யப்பட்டுள்ளார்.
+Jeevan Thondaman, Sri Lanka's Minister of Water Supply and Estate Infrastructure, is the first Sri Lankan minister elected as the Young World Economic Forum's World Youth Leader. Recognized for his leadership in promoting clean water, restoring water supply, and public service, he is celebrated for his vision and impact on Sri Lanka and internationally.
 
-இலங்கை அமைச்சர் ஒருவர் உலக இளம் உலக தலைவர் பதவிக்கு தெரிவுசெய்யப்படுகின்றமை இதுவே முதன்முறையாகும்.
+🟩
 
-பின்தங்கிய நிலையில் உள்ள சமூகங்களின் வாழ்க்கை தரத்தை மேம்படுத்தல், சமூக நீதிக்காக குரல் கொடுத்தல், அனைத்து இலங்கையர்களுக்கும் சுத்தமான – சுகாதார பாதுகாப்புமிக்க குடிநீர் குறைந்த விலையில் கிடைக்கப்பெறுதல், நீர்துறையில் மறுசீரமைப்பு என தான் அமைச்சு பதவி ஏற்றதில் இருந்து புரட்சிகரமான மாற்றங்களுக்காக இவர் தீவிரமாக செயற்பட்டு வருகின்றார். அதற்கான வேலைத்திட்டங்களுக்கும் சிறந்த தலைமைத்துவத்தை வழங்கி வருகின்றார்.
+Jeevan Thondaman, Minister of Water Supply and Estate Infrastructure, has been elected as the Young World Economic Forum.
 
-பொதுசேவையில் அவரது அர்ப்பணிப்பும், புதிய அணுகுமுறையிலான அவரது தலைமைத்துவமும் தேசிய அளவில் சிறந்த – நேர்மறையான தாக்கத்தை ஏற்படுத்தியுள்ளது. தற்போது இளம் உலக தலைவராக அவர் தெரிவு செய்யப்பட்டுள்ளதன் மூலம் சர்வதேச அளவிலும் அங்கீகரிக்கப்பட்டுள்ளார்.
+This is the first time a Sri Lankan minister has been elected to the post of World Youth Leader.
+
+He has been actively working for revolutionary changes since the promotion of the Ministry of Lifestyle, Voice of Social Justice, Voice of Social Justice, Realizing Clean - Health Safety Drinking Water, Restoration in Water Supply. He is also providing the best leadership for the projects.
+
+His dedication in public service and his leadership in the new approach have had a better -positive impact on nationally. He has now been recognized internationally by being elected as the Young World Head.
+
+The YGL community is a unique society with more than 1000 young leaders who share stability in the form of a global future. This is the recognition of Minister Jeevan Thondaman's vision, leadership and effort.
 
 ...
 
 [Data](articles/06793ae1.json)
+
+[Extended Data](ext_articles/06793ae1.ext.json)
+
+---
+
+### உக்ரைன் யுத்தம் - ஒரேதாக்குதலில் ரஸ்யாவின் ஆறு போர் விமானங்களை அழித்ததாக உக்ரைன் தகவல்
+
+*2024-04-06 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180557) · `ta`
+
+ரஸ்யாவின் தென்பகுதி விமானதளம் மீது உக்ரைன் மேற்கொண்ட பாரிய ஆளில்லா விமானதாக்குதலில் ரஸ்யாவின் ஆறு போர் விமானங்கள் அழிக்கப்பட்டுள்ளதாக உக்ரைனின் பாதுகாப்பு வட்டாரங்கள் தெரிவித்துள்ளன.
+
+மேலும் 8 விமானங்கள் சேதமடைந்துள்ளன 20க்கும் மேற்பட்ட ரஸ்ய படையினர் காயமடைந்திருக்கலாம் அல்லது கொல்லப்பட்டிருக்கலாம் என தகவல்கள் வெளியாகியுள்ளன.
+
+உக்ரைன் போர்முனையில் பயன்படுத்தப்படும் எஸ்யு27- 34 விமானங்களின் மொரெஜொவ்ஸ்க் தளத்தின் மீதே இஸ்ரேல் ஆளில்லா விமானதாக்குதலை மேற்கொண்டுள்ளது.
+
+ரஸ்யா இதுவரை இந்த தாக்குதல் குறித்து எதனையும் தெரிவிக்கவில்லை எனினும் உக்ரைனின் 40 ஆளில்லா விமானங்கள் இலக்குவைக்கப்பட்டன  என தெரிவித்துள்ளது.
+
+உக்ரைன் 40க்கும் மேற்பட்ட ஆளில்லா விமானங்களை பயன்படுத்தியதால் ரஸ்யாவின் வான்வெளி பாதுகாப்பு பொறிமுறை செயற்பட முடியாத நிலை ஏற்பட்டிருக்கும்  என பாதுகாப்பு ஆய்வாளர்கள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/62703c37.json)
+
+---
+
+### Sri Lanka lock horns with India on April 30
+
+*2024-04-06 09:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-lock-horns-with-India-on-April-30/108-280262) · `en`
+
+Apr. 5 (Daily Mirror) - The Asia Rugby (AR) Men’s 15-A-Side Division 1 Championship 2024 will commence on April 30 at the Racecourse Grounds in Colombo.
+
+Host Sri Lanka, Qatar, Kazakhstan and India will participate in this four-nation tournament.
+
+Originally, this year’s AR Men’s Division 1 Tournament was to be contested between Sri Lanka, Qatar and Pakistan. However, Pakistan withdrew from this year’s competition.
+
+At the same time, the AR Men’s Division 2 competition also ended up with only two teams - Kazakhstan and India - available to compete as Iran withdrew from this year’s competition.
+
+The AR Division 1 will now take place in a knock-out format with Qatar taking on Kazakhstan in the first semi-final and Sri Lanka will face India in the second semi-final under lights.
+
+On May 5, the losing semi-finalists will play for third place while the winners will play for the final and promotion for the AR Top-4 in 2025.
+
+...
+
+[Data](articles/42fe13ef.json)
 
 ---
 
@@ -74,17 +180,23 @@ The cyber attack "Anonymous EEE" has revealed a message to illuminate security s
 
 ---
 
-### லிதுவேனியா நாட்டவர் மரணம்
+### Lithuania
 
 *2024-04-06 09:07:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிதுவேனியா-நாட்டவர்-மரணம்/175-335655) · `ta`
 
-ஹிக்கடுவ நகருக்கு அருகில் உள்ள கடற்கரையில் நீராடச் சென்ற வெளிநாட்டுப் பிரஜை ஒருவர் நீரில் மூழ்கி உயிரிழந்துள்ளார்.
+A foreigner drowned near Hikkaduwa, Sri Lanka, after being rescued by police and taken to Palapitiya Hospital.
 
-நீராடச் சென்ற வெளிநாட்டவர் நீரில் மூழ்கியுள்ள நிலையில், பொலிஸ் உயிர் பாதுகாப்பு பிரிவினரால் மீட்கப்பட்டு பலபிட்டிய வைத்தியசாலைக்கு கொண்டு வரப்பட்ட நிலையில் அவர் உயிரிழந்துள்ளார். R
+🟩
+
+A foreign citizen who drowned on a beach near Hikkaduwa has drowned.
+
+He died after being rescued by the police safety unit and was taken to the Hospital in Palapitiya as a foreigner was drowned in the water.. Remble
 
 ◼️
 
 [Data](articles/ef899033.json)
+
+[Extended Data](ext_articles/ef899033.ext.json)
 
 ---
 
@@ -2049,125 +2161,5 @@ Lasantha would have been 66 years young today. Did he not have a right to see hi
 [Data](articles/9bc45fbc.json)
 
 [Extended Data](ext_articles/9bc45fbc.ext.json)
-
----
-
-### About 75 thousand people travel abroad for employment in the last 3 months;46 percent of them are women!
-
-*2024-04-05 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180494) · `ta`
-
-In Q1 2024, 74,499 Sri Lankans went abroad for work, 46% were women. Compared to Q1 2023, there was a slight decrease. Top destinations were South Korea, Israel, and Japan. Sri Lankans abroad sent $963.8M home, with significant earnings from apparel, tourism, and IT sectors.
-
-🟩
-
-The Sri Lanka Foreign Employment Bureau said yesterday (04) that 74,499 Sri Lankans went abroad in the first trimester of 2024.
-
-46 percent of the 74,499 Sri Lankans who went abroad and went abroad.
-
-76,025 Sri Lankan employees went abroad during the same period in 2023. Compared to that number, the number of people abroad has fallen slightly in the first quarter of this year.
-
-Sri Lankans often prefer to get employment in South Korea, Israel and Japan.
-
-Accordingly, in the first trimester of 2024, 17,793 people went to Kuwait, 2,374 to South Korea, 2,114 to Israel, 1,899 to Romania and 1,947 to Japan.
-
-In addition, Sri Lankans who work abroad have sent $ 963.8 million to Sri Lanka in the first two months of this year.
-
-According to the Central Bank's data, Sri Lankan workers working abroad have earned more foreign exchange in the first two months of this year.
-
-...
-
-[Data](articles/5d19900e.json)
-
-[Extended Data](ext_articles/5d19900e.ext.json)
-
----
-
-### Adjournment debate on the Passover attack
-
-*2024-04-05 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195340) · `si`
-
-The Committee on Adjournment decided to hold the churral election on April 24, 25, and 26 regarding the Passover attack.
-
-🟩
-
-The Committee on Adjournment on April 24, 25 and 26 has decided to hold the churral election on April 24, 25 and 26 of the Passover attack.
-
-◼️
-
-[Data](articles/8c79c905.json)
-
-[Extended Data](ext_articles/8c79c905.ext.json)
-
----
-
-### Chinese - American Trading War, a headache for the world
-
-*2024-04-05 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195339) · `si`
-
-US Treasury Secretary Janet Yellen visited China, focusing on manufacturing needs like Chinese electric vehicles and solar panels. She aimed to investigate Chinese companies' impact on global markets and their direct product releases to the US. Yellen highlighted competition issues, especially China's production capacity affecting the US. If China doesn't comply, the US may increase duties on Chinese products.
-
-🟩
-
-Although the world's number one economy and the two-number economy, the US and the two economy, and China, has not hindered the conversation between them.
-
-In Washington yesterday (05) was held yesterday (05).
-
-The Treasury Secretary Genet, Jannett, arrived in China, the Senan of the American economy.
-
-The USA's Managing Division is due to focus on several special areas during his four day tour.
-
-It is on the issue of manufacturing needs including Chinese electrical vehicles and solar panels and issuing the global market.
-
-Encouraging Government Investigate Chinese companies have a direct impact on the chemicals to the market and releasing their products directly to the US.
-
-The US Treasury secretary commenced his visit to China from Guandon.
-
-She said that she pointed out that there should be similar competition in the industry in the industry.
-
-In particular, China's production capacity is a problem for many countries including USA.
-
-...
-
-[Data](articles/18a728c3.json)
-
-[Extended Data](ext_articles/18a728c3.ext.json)
-
----
-
-### Sri Lanka minister Thondaman chosen as World Economic Forum Young Global Leader
-
-*2024-04-05 16:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-thondaman-chosen-as-world-economic-forum-young-global-leader-157708/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Minister of Water Supply and Estate Infrastructure Jeevan Thondaman has been chosen as a Young Global Leader by the World Economic Forum, a ministry statement said.
-
-“He worked relentlessly to create a conducive environment for plantation workers, ensuring fair wages, safe working conditions and adequate benefits,” the World Economic Forum said on its website.
-
-“As Minister for Water Supply, he has been spearheading ambitious reforms in the water sector to increase access to safe and affordable drinking water, create a climate resilience roadmap for water services and a transparent pricing formula that protects the most vulnerable in society.”
-
-The YGL is a multi-stakeholder community of more than 1,000 young leaders. Past inductees included French President Emmanuel Macron and former New Zealand Prime Minister Jacinda Arden.
-
-...
-
-[Data](articles/80bb303e.json)
-
-[Extended Data](ext_articles/80bb303e.ext.json)
-
----
-
-### Damitha Abeyratne and husband remanded
-
-*2024-04-05 15:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Damitha-Abeyratne-and-husband-remanded/108-280257) · `en`
-
-Colombo, April 05 - Sri Lankan actress Damitha Abeyratne and her husband, who were arrested over the allegations of financial fraud, were remanded until April 17.
-
-The arrest, made by the Criminal Investigations Department (CID), saw the couple produced before the Fort Magistrate’s Court today.
-
-Their legal saga intensified after they surrendered to the Fort Magistrate’s Court yesterday in response to the financial scam allegations.
-
-◼️
-
-[Data](articles/826d4169.json)
-
-[Extended Data](ext_articles/826d4169.ext.json)
 
 ---

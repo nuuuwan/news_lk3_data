@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 08:18:25**
+As of **2024-04-06 08:33:49**
 
 ## Newspaper Stats
 
-*Scraped **17,444** Articles*
+*Scraped **17,445** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 959
 economynextcom | 972
 adalk | 1,466
 tamilmirrorlk | 2,054
-adaderanalk | 2,097
+adaderanalk | 2,098
 virakesarilk | 2,539
 dailymirrorlk | 2,671
 adaderanasinhalalk | 2,819
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,819
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,443 (100.0%) of 17,444 articles have been extended.
+17,444 (100.0%) of 17,445 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### 2024 sees drop in dengue cases and deaths compared to previous years
+
+*2024-04-06 08:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98463/2024-sees-drop-in-dengue-cases-and-deaths-compared-to-previous-years) · `en`
+
+State Minister of Health Dr. Sita Arambepola says that 2024 has seen a decrease in the number of dengue cases and mortality rates compared to previous years.
+
+Highlighting the progress, she noted that while 64 dengue-prone areas were identified by January, the authorities have successfully managed to mitigate risks in two zones as of today.
+
+These remarks were made by Dr. Arambepola during her participation in a press briefing at the Presidential Media Centre (PMC) today (05).
+
+Every year, accidents stemming from the unsafe handling of fireworks mar the festive season. Thus, a plea is made for vigilance and caution with loved ones during this New Year period.
+
+Additionally, in the preceding season, concerted efforts were made to raise awareness about dengue prevention. Gratitude is owed to health departments and media outlets for their significant contributions. Notably, compared to previous years, there has been a marked reduction in both dengue cases and fatalities.
+
+...
+
+[Data](articles/2823e615.json)
+
+---
 
 ### Afternoon thundershowers anticipated in some areas despite extreme heat
 
@@ -47,6 +67,8 @@ As per the advisory, under this level of temperature, fatigue is possible with p
 ...
 
 [Data](articles/e81e7551.json)
+
+[Extended Data](ext_articles/e81e7551.ext.json)
 
 ---
 
@@ -2153,29 +2175,5 @@ Veteran actress, Damitha Abeyratne and her husband was remanded until April 17.
 [Data](articles/5eb89a0a.json)
 
 [Extended Data](ext_articles/5eb89a0a.ext.json)
-
----
-
-### Damitha Abeyratne and husband remanded
-
-*2024-04-05 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98449/damitha-abeyratne-and-husband-remanded-) · `en`
-
-Actress Damitha Abeyratne and her husband, who was arrested by the Criminal Investigation Department (CID) over an alleged financial fraud, has been remanded on the orders of the Colombo Fort Magistrate’s Court.
-
-Accordingly, the couple will be behind bars on remand until April 17.
-
-The actress and her spouse, who had been wanted by the CID, were arrested after they appeared before the court on Thursday (04).
-
-The CID is investigating Abeyratne and her husband, in connection with their involvement in an alleged money scam.
-
-The Computer Crimes Division of the CID had initiated an investigation into the alleged defrauding of Rs. 3 million by the couple on the promise of employment in South Korea. Subsequently, the CID informed the court that Abeyratne and her husband would be named as suspects of the relevant case.
-
-Accordingly, Fort Magistrate’s Court recently rejected a writ petition filed seeking to prevent their arrest.
-
-...
-
-[Data](articles/21096fbc.json)
-
-[Extended Data](ext_articles/21096fbc.ext.json)
 
 ---

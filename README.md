@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 11:03:14**
+As of **2024-04-06 11:18:03**
 
 ## Newspaper Stats
 
-*Scraped **17,466** Articles*
+*Scraped **17,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,42 @@ adalk | 1,466
 tamilmirrorlk | 2,059
 adaderanalk | 2,103
 virakesarilk | 2,544
-dailymirrorlk | 2,673
+dailymirrorlk | 2,674
 adaderanasinhalalk | 2,822
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,464 (100.0%) of 17,466 articles have been extended.
+17,466 (100.0%) of 17,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### ශ්‍රී ලංකා නිදහස් පක්ෂ මුලස්ථානයට ඇතුළුවීම තහනම්
+### Sri Lanka Freedom Party Headquarters prohibited
 
 *2024-04-06 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195356) · `si`
 
-ලිපිගොනු කිහිපයක් අතුරුදන්ව ඇති බවට ලද පැමිණිල්ල සම්බන්ධයෙන් සිදුකරන විමර්ශන හේතුවෙන් කිසිදු පාර්ශවයකට කොළඹ ඩාර්ලි පාරේ පිහිටි ශ්‍රී ලංකා නිදහස් පක්ෂ මුලස්ථානයට ඇතුළුවීම තාවකාලිකව තහනම් කර තිබේ.
+Investigations into missing files at Sri Lanka Freedom Party (SLFP) headquarters on Darley Road, Colombo, have been temporarily halted. The police, under the South Secretar General Secretary Dissanepala's complaint, have prohibited entry until initial investigations are concluded. Damadhetha Mithipala, Acting Secretary, accused the police of obstructing the investigation.
 
-පොලීසිය පැවසුවේ මුලික විමර්ශන අවසන් වන තෙක් නිදහස් පක්ෂ මුලස්ථානයට ඇතුළුවීම තහනම් වන බවය.
+🟩
 
-ශ්‍රී ලංකා නිදහස් පක්‍ෂ මූලස්ථානයේ තිබූ වැඳගත් ලිපිගොනු කීහිපයක් අතුරුදහන්ව ඇති බවට එම පක්‍ෂයේ වැඩබලන මහලේකම් දුෂ්මන්ත මිත්‍රපාල මහතා ඊයේ (05) මරදාන පොලීසියට පැමිණිල්ලක් කර තිබුණි.
+The investigations into the disappearance of the files have been temporarily banned from entering the SLFP headquarters on Darley Road, Colombo.
 
-ඒ සම්බන්ධයෙන් මරදාන පොලීසිය මේ වනවිට විමර්ශන ආරම්භ කර ඇති අතර ඒ හේතුවෙන් අද (06) පස්වරුව තෙක් නිදහස් පක්‍ෂ මූලස්ථානයට ඇතුළුවීම වළක්වා ඇති බව අද දෙරණ සිදුකළ විමසීමක දී වැඩබලන මහලේකම් දුෂ්මන්ත මිත්‍රපාල මහතා පැවසීය.
+The police said that the Independence Party Headquarters is prohibited until the initial investigations are completed.
 
-කෙසේවෙතත් සිද්ධියට අදාළ නොවන නිදහස් පක්ෂ මුලස්ථානයේ ශ්‍රවණාගාරයට ඇතුළුවීම ද පොලීසිය වළක්වා ඇති බවට වැඩබලන මහලේකම්වරයා චෝදනා කළේය.
+The South Secretar General Secretary Dissanepala had lodged a complaint with the Maradana Police yesterday that a bowled files in the SLFP had disappeared.
+
+Acting Secretary, Damadhetha Mithipala said that the Maradana Police have commenced investigations into the Independence Party (6th).
+
+The acting Secretary-General also accused the police that the police prevention was also avoided by the police headquarters.
 
 ◼️
 
 [Data](articles/8e1a58cb.json)
+
+[Extended Data](ext_articles/8e1a58cb.ext.json)
 
 ---
 
@@ -65,6 +71,26 @@ These sentiments were voiced during his participation in the 2022 annual prize-g
 ...
 
 [Data](articles/2684074b.json)
+
+[Extended Data](ext_articles/2684074b.ext.json)
+
+---
+
+### SL gained Katchatheevu Island at the cost of Wadge Bank to India
+
+*2024-04-06 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-gained-Katchatheevu-Island-at-the-cost-of-Wadge-Bank-to-India/108-280306) · `en`
+
+Colombo, April 06 (Daily Mirror) - In the midst of heated political debate over the Katchatheevu Island, Fisheries Minister Douglas Devananda set the stage for another debate when he said that India secured Wadge Bank which is located below Kanyakumari and a much bigger area with extensive sea resources while ceding the Katchatheevu to Sri Lanka in terms of the 1976 agreement.
+
+In India, the then Indira Gandhi government decided that when the IMBL (International Maritime Boundary Line) was drawn up, Katchatheevu would go to Sri Lanka and India in turn would get the Wedge Bank — a fish-rich area close to the coast of Kanyakumari.
+
+Referring to the matter, Minister Devananda told Daily Mirror that this is an area with rich marine resources including petroleum resources and India had secured in when drawing the maritime boundary line.
+
+“I thought I should disclose this hitherto unknown fact to people here,” he said.
+
+...
+
+[Data](articles/ca15a6a1.json)
 
 ---
 
@@ -2173,33 +2199,5 @@ The Global Best Young Leader Plan identifies promoting leaders under the age of 
 [Data](articles/436226cf.json)
 
 [Extended Data](ext_articles/436226cf.ext.json)
-
----
-
-### Sri Lanka stocks close up, banks bring in 1.5bn
-
-*2024-04-05 16:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-bring-in-1-5bn-157716/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader All Share Index closed up 0.83 percent, or 96.84 points, at 11,795; while the S&P SL20 Index closed up 1.29 percent, or 44.22 points, at 3,481.
-
-Turnover was at 2.9 billion.  Most of this (1.5bn) came from several large trades in four banks.
-
-“There’s also a lot of buying interest coming into banks, there’s a run there,” market participants said.
-
-Hatton National Bank Plc saw the most active volumes traded, Rs654mn, and the share closed up at 200.00.
-
-Commercial Bank of Ceylon Plc, which contributed Rs325mn to the day’s turnover, closed up at 105.25.
-
-Pan Asia Banking Corporation Plc (Rs108mn), closed up at 22.90.
-
-Other major contributors to the Index included Central Finance Company Plc, up at 115.00, Dialog Axiata Plc, up at 12.00, and Lanka IOC Plc, up at 122.00. (Colombo/Apr5/2024)
-
-◼️
-
-[Data](articles/e4851bc9.json)
-
-[Extended Data](ext_articles/e4851bc9.ext.json)
 
 ---

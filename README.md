@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 04:33:33**
+As of **2024-04-07 04:50:38**
 
 ## Newspaper Stats
 
-*Scraped **17,529** Articles*
+*Scraped **17,530** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 154
 bbccomsinhala | 183
-dbsjeyarajcom | 210
+dbsjeyarajcom | 211
 newsfirstlk | 363
 dailyftlk | 958
 islandlk | 960
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,841
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,529 (100.0%) of 17,529 articles have been extended.
+17,529 (100.0%) of 17,530 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -437,6 +437,18 @@ Police mentioned that the arrestees included the members of the gangs led by not
 [Data](articles/2edb6cb0.json)
 
 [Extended Data](ext_articles/2edb6cb0.ext.json)
+
+---
+
+### Karuna”s Rebel Tigers   May Have Lost the Eastern Battle but Ultimately the Prabhakaran-led LTTE Lost the Eelam War.
+
+*2024-04-06 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83881) · `en`
+
+The once powerful Liberation Tigers of Tamil Eelam(LTTE) waged war against the Sri Lankan state for over thirty years. The LTTE known popularly as the tigers was the determining force in Sri Lankan politics for nearly two decades. The  decline of the LTTE began in 2004 when its Batticaloa and Amparai district  special commander Vinayagamoorthy Muralidharan  alias “Col”Karuna led an eastern tiger revolt against the LTTE supremo Veluppillai Prabhakaran. Although “Col” Karuna –  also  known as “Karuna  Ammaan”  – was defeated militarily by the LTTE, subsequent events demonstrated that the Eastern split weakened the LTTE considerably and ultimately led to its downfall in 2009.
+
+...
+
+[Data](articles/a49a1a26.json)
 
 ---
 
@@ -2295,19 +2307,5 @@ The delegations discussed potential to further enhance economic relations. Sri L
 [Data](articles/4f361546.json)
 
 [Extended Data](ext_articles/4f361546.ext.json)
-
----
-
-### SJB signs MOU with section of Nidahasa Janatha Sabawa
-
-*2024-04-06 00:54:19* · [`dailyftlk`](https://www.ft.lk/news/SJB-signs-MOU-with-section-of-Nidahasa-Janatha-Sabawa/56-760387) · `en`
-
-A section of the Nidahasa Janatha Sabawa yesterday signed an MOU with the Samagi Jana Balawegaya to form an alliance. Six MPs including Professor G. L. Peiris, Dilan Perera, and Nalaka Godahewa were among the signatories yesterday at a ceremony held at the BMICH.
-
-◼️
-
-[Data](articles/bc3ed2fc.json)
-
-[Extended Data](ext_articles/bc3ed2fc.ext.json)
 
 ---

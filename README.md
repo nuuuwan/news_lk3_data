@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 11:18:03**
+As of **2024-04-06 11:33:49**
 
 ## Newspaper Stats
 
-*Scraped **17,467** Articles*
+*Scraped **17,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 959
 economynextcom | 972
 adalk | 1,466
 tamilmirrorlk | 2,059
-adaderanalk | 2,103
+adaderanalk | 2,104
 virakesarilk | 2,544
 dailymirrorlk | 2,674
 adaderanasinhalalk | 2,822
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,822
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,466 (100.0%) of 17,467 articles have been extended.
+17,467 (100.0%) of 17,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### Entry to SLFP headquarters suspended amid investigation into ‘missing files’
+
+*2024-04-06 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98467/entry-to-slfp-headquarters-suspended-amid-investigation-into-missing-files) · `en`
+
+Entering the Sri Lanka Freedom Party (SLFP) headquarters in Darley Road, Colombo 10, has been suspended for all individuals, due to the ongoing investigation into the complaint lodged at Maradana Police alleging that several ‘important’ files have gone missing from the establishment.
+
+Police stated that accordingly, it is prohibited for all parties to enter the SLFP headquarters until the preliminary investigations are completed.
+
+The Acting General Secretary of SLFP Dushmantha Mithrapala has lodged a complaint with the Maradana Police on Friday (05), alleging that several ‘important’ files have gone missing from the party headquarters.
+
+However, the Acting General Secretary alleged that the police also prevented them from entering the auditorium of the party headquarters, which is not related to the incident.
+
+◼️
+
+[Data](articles/6e4588c1.json)
+
+---
 
 ### Sri Lanka Freedom Party Headquarters prohibited
 
@@ -91,6 +109,8 @@ Referring to the matter, Minister Devananda told Daily Mirror that this is an ar
 ...
 
 [Data](articles/ca15a6a1.json)
+
+[Extended Data](ext_articles/ca15a6a1.ext.json)
 
 ---
 
@@ -2173,31 +2193,5 @@ The overnight attack targeted a military airfield near Morozovsk in Russia and w
 [Data](articles/81e10f89.json)
 
 [Extended Data](ext_articles/81e10f89.ext.json)
-
----
-
-### Minister Jeevan Thondaman is the best young leader worldwide
-
-*2024-04-05 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180519) · `ta`
-
-Jeevan Thondaman, Sri Lanka's Minister of Water Supply and Plantation Infrastructure Development, is recognized by the World Economic Forum as the Global Best Young Leader, marking the first time a Sri Lankan minister has achieved this honor.
-
-🟩
-
-Water Supply and Plantation Infrastructure Development Minister Jeevan Thondaman has been selected by the World Economic Forum as the Global Leader.
-
-This is the first time a Sri Lankan minister has been elected as the best young leader worldwide.
-
-The Ministry of Water Supply and Estate Infrastructure Development said that Jeevan Thondaman has been honored to be the first minister to be the best young leader in Sri Lanka for the first time in the history of Sri Lanka.
-
-The worldwide best young leader is a unique, multi-bunch of society with more than 1,000 young leaders who share the determination to design the global future.
-
-The Global Best Young Leader Plan identifies promoting leaders under the age of 40 who shape the future. In the past, French President Emmanuel Macron, New Zealand Prime Minister Jacinda Order, Ali Baba's founder and technician Jack Ma and Facebook founder Mark Zuckerberg include the world's best young leader list.
-
-...
-
-[Data](articles/436226cf.json)
-
-[Extended Data](ext_articles/436226cf.ext.json)
 
 ---

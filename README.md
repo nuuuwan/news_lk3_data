@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 07:43:12**
+As of **2024-04-06 07:54:12**
 
 ## Newspaper Stats
 
-*Scraped **17,441** Articles*
+*Scraped **17,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ tamilmirrorlk | 2,053
 adaderanalk | 2,096
 virakesarilk | 2,539
 dailymirrorlk | 2,671
-adaderanasinhalalk | 2,818
+adaderanasinhalalk | 2,819
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,441 (100.0%) of 17,441 articles have been extended.
+17,441 (100.0%) of 17,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### වි‍දෙස් ජාතික‍යෙක් දියේ ගිලී මරුට
+
+*2024-04-06 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195353) · `si`
+
+හික්කඩුව නගර ආසන්නයේ මුහුදු තීරයේ දිය නාමින් සිටි වි‍දෙස් ජාතික‍යෙකු දියේ ගිලී මියගොස් තිබේ.
+
+මෙම විදෙස් ජාතිකයා දිය නාමින් සිටියදී දියේ ගිලි ඇති අතර එහිදී පොලිස් ජීවිතාරක්ෂක නිලධාරීන් විසින් ඔහුව ගොඩට ගෙන බලපිටිය රෝහලට ඇතුළු කිරීමේ දී මියගොස් තිබේ.
+
+◼️
+
+[Data](articles/75d39670.json)
+
+---
 
 ### Showers in several provinces
 
@@ -2165,29 +2179,5 @@ At its meeting on April 01, the Cabinet of Ministers green-lighted a proposal ta
 [Data](articles/e704a829.json)
 
 [Extended Data](ext_articles/e704a829.ext.json)
-
----
-
-### Dr. Kapila Wickremanayake's petitions postponed
-
-*2024-04-05 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195333) · `si`
-
-Dr. Kapila Wickremanayake's petitions postponed. Court of Appeal adjourned to announce order on Tuesday. Maligakanda Magistrate's decision to be remanded, contradicted by law, and petition filed for bail.
-
-🟩
-
-The Court of Appeal adjourned to the Order of the Director of Medical Supplies Division of the Medical Supply Division of the Medical Supply Division of the Medical Supply Division of the Medical Support Division of the Director of Medical Supported Vaccine Purchasing Procedure.
-
-The order is today (05) by the Court of Appeal. N. Samarakoon was to be announced by Mr. Samarakoon.
-
-However, the judge said that the order will be announced on Tuesday (09).
-
-Maligakanda Magistrate's decision to be remanded, the decision was contradicted to the law and that the petition has been filed by his lawyers demanding them to be released on bail.
-
-◼️
-
-[Data](articles/b115961f.json)
-
-[Extended Data](ext_articles/b115961f.ext.json)
 
 ---

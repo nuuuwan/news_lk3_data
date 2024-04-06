@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 12:18:18**
+As of **2024-04-06 12:33:30**
 
 ## Newspaper Stats
 
-*Scraped **17,469** Articles*
+*Scraped **17,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,39 +14,69 @@ dbsjeyarajcom | 210
 newsfirstlk | 363
 dailyftlk | 958
 islandlk | 959
-economynextcom | 972
+economynextcom | 973
 adalk | 1,466
 tamilmirrorlk | 2,059
 adaderanalk | 2,104
 virakesarilk | 2,545
 dailymirrorlk | 2,674
-adaderanasinhalalk | 2,822
+adaderanasinhalalk | 2,823
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,468 (100.0%) of 17,469 articles have been extended.
+17,469 (100.0%) of 17,471 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### இலங்கையில் இருந்து கடத்தி செல்லப்பட்டு இந்திய கடலில் வீசப்பட்ட 5 கிலோ தங்கம் மீட்பு ; மூவர் கைது
+### ලොවම කලඹමින් ලිබර්ටි ප්‍රතිමාව සෙලවෙයි
+
+*2024-04-06 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195357) · `si`
+
+අමෙරිකාවේ නිව්යෝර්ක් ඇතුළු නැගෙනහිර වෙරළ තීරයට ආසන්න නගරවලට රික්ටර් මාපකයේ ඒකක 4.8ක භූකම්පනයකින් බලපෑම් එල්ල විය.
+
+එරට වේලාවෙන් උදෑසන 10.23ට පමණ සිදුවූ එම කම්පනය ෆ්ලඩෙල්ෆියා සිට නිව්යෝර්ක් දක්වා දැනුණු බව විදෙස් මාධ්‍ය වාර්තා කර තිබුණි.
+
+මේ අතර ප්‍රධාන භූකම්පනයෙන් පසුව පසු කම්පන 11ක් පමණ වාර්තා වී තිබුණු බවද විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත්තේ මෙය ගෙවුණු දශක පහක කාලය තුළ කලාපයෙන් වාර්තාවූ තෙවන විශාලතම භූකම්පනය බවය.
+
+කෙසේ වුවද භූකම්පනයෙන් ජීවිත හෝ දේපොළ හානියක් වාර්තා වී නොමැත.
+
+එම කම්පනයත් සමග ලෝක ප්‍රසිද්ධ අමෙරිකාවේ ලිබර්ටි ප්‍රතිමාව සෙලවුණු අයුරු විදෙස් මාධ්‍ය වාර්තා කර තිබුණේ මේ අයුරින්.
+
+◼️
+
+[Data](articles/f4298445.json)
+
+---
+
+### 5 kg of gold recovery from Sri Lanka and thrown into the Indian Ocean;Three arrests
 
 *2024-04-06 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/180574) · `ta`
 
-இலங்கையில் இருந்து சட்டவிரோதமாக கடல் வழியாக   படகில் கடத்தி செல்லப்பட்ட சுமார்  5 கிலோ எடை கொண்ட தங்க கட்டிகள் அடங்கிய பொதி கடலுக்கு அடியில் இருந்து மீட்கப்பட்டுள்ளது.
+5 kg gold hijacked from Sri Lanka, recovered; 3 arrests. Indian Central Revenue Investigation Department investigates.
 
-இந்நிலையில், தங்கத்தை  இலங்கையிலிருந்து கடத்திச் சென்ற  மூவரை கைது செய்து இந்திய மத்திய வருவாய் புலனாய்வுத்துறை  அதிகாரிகள் தீவிர விசாரணை நடத்தி வருகின்றனர்.
+🟩
 
-ராமநாதபுரம் மாவட்டம் தனுஷ்கோடி இலங்கைக்கு மிக அருகே உள்ளதால் இலங்கையிலிருந்து  படகு மூலம்   சமீப காலமாக தமிழகத்திற்குள் அதிக அளவு  தங்கம்  கடத்தி செல்லப்படுகின்றது.
+A pack of gold bars weighing about 5 kg, which was illegally hijacked by a sea from Sri Lanka, has been recovered from the sea.
 
-இதையடுத்து  இந்திய-இலங்கை சர்வதேச கடல் எல்லை பகுதியில் சட்ட விரோத நடவடிக்கைகளை தடுக்கவும், அந்நிய ஊடுருவலை கண்காணிக்கவும், இந்திய கடலோர கடற்படை இந்திய கடற்படை  மற்றும் சுங்கத்துறை என பாதுகாப்பு துறை அதிகாரிகள்  தீவிர  கண்காணிப்பு பணியில் ஈடுபட்டு வருகின்றனர்.
+In this case, the Indian Central Revenue Investigation Department is conducting an intensive investigation into the arrest of three persons who abducted gold from Sri Lanka.
+
+Dhanushkodi in Ramanathapuram district is close to Sri Lanka, as a boat from Sri Lanka has been smuggled into Tamil Nadu recently.
+
+Defense officials are engaged in intensive surveillance as the Indian Navy and Customs Department, to prevent illegal activities on the Indo-Sri Lanka international maritime border and monitor foreign infiltration.
+
+Central Revenue Investigation Officers, along with the Mandapam Coast Guard, were actively patrolling the Gulf of Mannar on the basis of confidential information received by the Central Revenue Investigation Department that gold was being smuggled from Sri Lanka on Thursday morning.
 
 ...
 
 [Data](articles/ff26737f.json)
+
+[Extended Data](ext_articles/ff26737f.ext.json)
 
 ---
 
@@ -497,6 +527,24 @@ Recently, Mr. Sirisena stirred fresh controversy when he said that he knew who w
 [Data](articles/0b70cd69.json)
 
 [Extended Data](ext_articles/0b70cd69.ext.json)
+
+---
+
+### Sri Lanka repays $1,338mn to multilateral lenders up to Feb 2024: PMD
+
+*2024-04-06 08:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-repays-1338mn-to-multilateral-lenders-up-to-feb-2024-pmd-157756/) · `en`
+
+ECONOMYNEXT – Sri Lanka has repaid 1,338.8 million US dollars to multilateral lenders since President Ranil Wickremesinghe took office in July 21, 2022, an aide was quoted as saying by his media office.
+
+Rajith Keerthy Tennakoon, President Director General of Community Affairs said 760.1 million dollars was repaid to World Bank, 489.9 million to the Asian Development Bank and 22.3 million dollars to the European Investment Bank.
+
+Another 22.9 million was repaid to the OPEC Fund for Development, 17.9 million to the International Fund for Agricultural Development, 9.8 million to the IMF, 7 million to the Asian Infrastructure Development Bank and 1.7 million to the Nordic Development Fund.
+
+Sri Lanka declared a default in April 2022, but under international practice, multilateral lender debt including the IMF have to be serviced.
+
+...
+
+[Data](articles/ab39e031.json)
 
 ---
 
@@ -2147,51 +2195,5 @@ I would like to thank the plantation workers and their families who were the bac
 [Data](articles/ffa97f86.json)
 
 [Extended Data](ext_articles/ffa97f86.ext.json)
-
----
-
-### An announcement of warm weather
-
-*2024-04-05 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195342) · `si`
-
-The Department of Meteorology has announced warm weather affecting Northern, North Central, Sabaragamuwa, North Western, and Southern Provinces, and Monaragala and Matale districts, potentially increasing body heat levels.
-
-🟩
-
-The Department of Meteorology has announced announcement on warm weather.
-
-Accordingly, the statement of the Northern, North Central, Sabaragamuwa, North Western and Southern Province and Monaragala and Matale districts.
-
-Accordingly, the people living in those areas are expected to be the level of heating of the human body.
-
-◼️
-
-[Data](articles/54cfc4d6.json)
-
-[Extended Data](ext_articles/54cfc4d6.ext.json)
-
----
-
-### Sri Lanka rupee closes at 299.25/30 to the US dollar
-
-*2024-04-05 16:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-299-25-30-to-the-us-dollar-157720/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 299.25/30 to the US dollar in the spot forex market on Friday, stronger from 299.70/80 on Thursday, dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 closed up at 11.40/45 percent from 11.35/45 percent.
-
-A bond maturing on 15.09.2027 closed at 11.90/12.00 percent from 11.95/12.00 percent.
-
-A bond maturing on 15.12.2028 closed stable at 12.15/25 percent.
-
-A bond maturing on 15.05.2030 closed at 12.30/50 percent from 12.30/45 percent.
-
-A bond maturing on 01.07.2032 closed stable at 12.60/75 percent. (Colombo/Apr5/2024)
-
-◼️
-
-[Data](articles/7949b4de.json)
-
-[Extended Data](ext_articles/7949b4de.ext.json)
 
 ---

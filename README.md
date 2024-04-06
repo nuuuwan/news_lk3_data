@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 20:03:20**
+As of **2024-04-06 20:18:38**
 
 ## Newspaper Stats
 
-*Scraped **17,513** Articles*
+*Scraped **17,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ adalk | 1,468
 tamilmirrorlk | 2,062
 adaderanalk | 2,115
 virakesarilk | 2,555
-dailymirrorlk | 2,677
-adaderanasinhalalk | 2,836
+dailymirrorlk | 2,679
+adaderanasinhalalk | 2,837
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,512 (100.0%) of 17,513 articles have been extended.
+17,513 (100.0%) of 17,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### මත්ද්‍රව්‍ය ප්‍රවාහනය කළ චීවරධාරියෙකු අත්අඩංගුවට
+
+*2024-04-06 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195372) · `si`
+
+චීවරධාරියෙකු ලෙස පෙනී සිටිමින් මත්ද්‍රව්‍ය ප්‍රවාහනය කරන පුද්ගලයෙකු "අද දෙරණ" උකුස්සාගේ අනාවරණයෙන් පසුව පොලීසිය විසින් අත්අඩංගුවට ගත්තේය.
+
+බෙන්තර ප්‍රදේශයේ පිහිටි විහාරස්ථානයක සිටින චීවරධාරියෙකු කොළඹට විවිධ මත්ද්‍රව්‍ය ප්‍රවාහනය කරන බවට "අද දෙරණ උකුස්සාට" රහසිගත තොරතුරක් ලැබුණි.
+
+ඒ අනුව, දින ගණානාවක ගවේෂණයක නිරත වූ උකුස්සාට අනාවරණ වුණේ අදාළ පුද්ගලයා පසුගිය දිනකදෙහිවල අත්තිඩිය ප්‍රදේශයට පැමිණෙන බවටය.
+
+අනතුරුව උකුස්සා ඒ පිළිබඳව සොයාබැලීමට අදාළ ප්‍රදේශයට ගිය අතර ඔහු එහිදී ත්‍රිරෝද රථයක සිටින අයුරු දැකගත හැකිවිය.
+
+ඔහු පසුපස හඹාගිය උකුස්සාට පසුව දැකගත හැකිවූයේ ඔහු තම චීවරය ඉවත් කර ගිහි ඇඳුමක් හැඳගෙන සිටින ආකාරයයි.
+
+අනතුරුව අදාළ චීවරධාරියා ගමන්ගත් ත්‍රිරෝද රථය සම්බන්ධයෙන් පොලිසියද දැනුවත් කිරීමෙන් පසුව එම රථය බෙල්ලන්තර ප්‍රදේශයේදී නවතා පරීක්ෂා කරනු ලැබීය.
+
+එහිදී ගිහි ඇඳුමින් සැරසී සිටි චීවරධාරියා පොලීසිය වෙත පරස්පර පිළිතුරු ලබාදුන්නේය.
+
+අනතුරුව ඔහුව අත්අඩංගුවට ගැනීමෙන් පසුව පොලීසිය සිදුකළ පරීක්ෂා කිරීමේදී අදාළ පුද්ගලයාගේ බෑගයේ තිබී ගංජා සහ මදනමෝදක සොයාගෙන තිබුණි.
+
+...
+
+[Data](articles/408a4cbf.json)
+
+---
+
+### Wanindu Hasaranga ruled out of IPL 2024
+
+*2024-04-06 19:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wanindu-Hasaranga-ruled-out-of-IPL-2024/108-280308) · `en`
+
+Colombo, April 6 (Daily Mirror) - Sunrisers Hyderabad legspinner Wanindu Hasaranga will miss IPL 2024 due to chronic heel pain in his left foot,  Sri Lanka Cricket (SLC) informed BCCI.
+
+Hasaranga, who last played in March during Sri Lanka's series in Bangladesh, underwent treatment by SLC medical staff. He was set to consult specialists abroad but was not cleared by SLC for IPL participation. Sunrisers coach Daniel Vettori confirmed Hasaranga's withdrawal after a consultation in Dubai.
+
+Bought by Sunrisers for INR 1.5 crore, Hasaranga's absence is notable after a successful 2022 season with 26 wickets. He is expected to recover for Sri Lanka's T20 World Cup campaign starting June 1.
+
+◼️
+
+[Data](articles/f64c8245.json)
+
+---
 
 ### US, Japan, Australia and Philippines to stage military drills in disputed South China Sea
 
@@ -45,6 +87,8 @@ China was not mentioned by name in the statement, but the four countries reaffir
 ...
 
 [Data](articles/e46a84f8.json)
+
+[Extended Data](ext_articles/e46a84f8.ext.json)
 
 ---
 
@@ -1510,6 +1554,24 @@ Recently, Mr. Sirisena stirred fresh controversy when he said that he knew who w
 
 ---
 
+### Maithri under fire, Parliament to demand full disclosure on Easter Sunday attacks
+
+*2024-04-06 08:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Maithri-under-fire-Parliament-to-demand-full-disclosure-on-Easter-Sunday-attacks/155-280305) · `en`
+
+Colombo, April 06 - (Daily Mirror)  - Former President Maithripala Sirisena who is at the centre of controversy over his latest remarks that he is aware of the mastermind behind the Easter Sunday carnage will be forced to place all his cards on the table when Parliament takes up a fresh debate on the matter during the next sitting week.
+
+Parliament will take up a three-day debate when it meets for the first time after New Year on April 24, as agreed upon at the party leaders’ meeting conducted yesterday.
+
+The main opposition Samagi Jana Balawegaya (SJB) asked for the debate on the basis that the country serves to know the discourse of Mr. Sirisena who was the Head of State when the terrorist attack took place in 2019.
+
+Recently, Mr. Sirisena stirred fresh controversy when he said that he knew who was behind the attack. Afterwards, the Criminal Investigation Department (CID) interrogated him for hours. He was also asked to appear before court and make a statement, but he declined to do so.
+
+...
+
+[Data](articles/ffaeaf3b.json)
+
+---
+
 ### Sri Lanka repays $1,338mn to multilateral lenders up to Feb 2024: PMD
 
 *2024-04-06 08:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-repays-1338mn-to-multilateral-lenders-up-to-feb-2024-pmd-157756/) · `en`
@@ -2187,55 +2249,5 @@ According to the Department of External Resources, payments totalling USD 760.1 
 [Data](articles/c3908506.json)
 
 [Extended Data](ext_articles/c3908506.ext.json)
-
----
-
-### Sri Lanka settled nearly $2bn worth of foreign debt and interest, govt. says
-
-*2024-04-05 23:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98460/sri-lanka-settled-nearly-2bn-worth-of-foreign-debt-and-interest-govt-says) · `en`
-
-Mr. Rajith Keerthy Tennakoon, President Director General of Community Affairs says that after between President Ranil Wickremesinghe’s assumption of office and February 2024, the Sri Lankan government has settled a total of USD 1909.7 million in foreign debt and interest payments.
-
-He also highlighted that from 21 July 2022 to February 2024, the government has disbursed $1338.8 million in multilateral loans and interest, with no outstanding arrears in loan instalments or interest payments up to February 2024. Mr. Rajith Keerthi Tennakone conveyed this information during a special media statement today (05).
-
-According to the Department of External Resources, payments totalling USD 760.1 million have been made to the Asian Development Bank and USD 7.0 million to the Asian Infrastructure Investment Bank.
-
-...
-
-[Data](articles/dd8e5c08.json)
-
-[Extended Data](ext_articles/dd8e5c08.ext.json)
-
----
-
-### Michael Tissera the rare ‘gentleman cricketer’
-
-*2024-04-05 23:27:46* · [`dailyftlk`](https://www.ft.lk/columns/Michael-Tissera-the-rare-gentleman-cricketer/4-760371) · `en`
-
-When people who have the same first name meet up, there’s name-related humour. The more, the merrier, obviously, especially if they are good friends and enjoy friendly banter. Today I am thinking of three people who share the name Michael: Michael Tissera, Michael Sproule and Michael De Zoysa, all three who played cricket for St. Thomas’ College, Mt. Lavinia. The first of course is the bigger name associated with the gentleman’s game.
-
-Today I remember these three gentlemen sending everyone into fits of laughter as they talked among themselves, each referring to the others by name. It went something along the following lines: ‘Yes Michael, as I was telling Michael…but Michael, when I explained to Michael, Michael kind of agreed, but then again Michael…’ And it went on!
-
-...
-
-[Data](articles/eec6b0e4.json)
-
-[Extended Data](ext_articles/eec6b0e4.ext.json)
-
----
-
-### The Lasantha Wickrematunge legacy: Remembering his life and influence
-
-*2024-04-05 23:26:13* · [`dailyftlk`](https://www.ft.lk/opinion/The-Lasantha-Wickrematunge-legacy-Remembering-his-life-and-influence/14-760370) · `en`
-
-5 April would have been the 66th birthday of one of the country’s most beloved, renowned journalists and human rights defenders Lasantha Wickrematunge who was assassinated at the age of 50. Many have been inspired by the work of this legendary figure. He was a fearless activist and fighter for a democratic Sri Lanka during the 26-year bloody civil war and he went on to win the hearts of millions of our countrymen for his unwavering pursuit of racial equality and human rights in our homeland.
-
-I first met Lasantha when I was 14 years old in 2000. My family had just moved to Nugegoda for a short period and we lived one road down from his home. The boys around our area would often gather to play cricket outside after school and everybody in our neighbourhood would always point at his house and proudly boast to any visitors as to who our neighbour was.
-
-...
-
-[Data](articles/08fb04ff.json)
-
-[Extended Data](ext_articles/08fb04ff.ext.json)
 
 ---

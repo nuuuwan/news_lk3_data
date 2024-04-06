@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 20:51:12**
+As of **2024-04-06 21:03:26**
 
 ## Newspaper Stats
 
-*Scraped **17,518** Articles*
+*Scraped **17,519** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,55 @@ tamilmirrorlk | 2,062
 adaderanalk | 2,115
 virakesarilk | 2,555
 dailymirrorlk | 2,680
-adaderanasinhalalk | 2,838
+adaderanasinhalalk | 2,839
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,517 (100.0%) of 17,518 articles have been extended.
+17,518 (100.0%) of 17,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### රටේ අවශ්‍යතාවය සටන් පාඨ හා තර්ක නොවෙයි - ජනපති
+### රාජකීය පවුල ලංකාවට එන දිනය මෙන්න
+
+*2024-04-06 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195374) · `si`
+
+කොළඹ පිහිටි ලොව දෙවැනි පැරණිතම ගොල්ෆ් පිටියේ සුවිශේෂී තරග රැසක් ඉදිරියේදී පැවැත්වීමට සැලසුම් දියත් කර තිබේ.
+
+කොළඹ නගරයට සුන්දරත්වයක් එක්කළ අක්කර 100කට ආසන්න භූමි ප්‍රමාණයක පැතිර පවතින එම ගොල්ෆ් පිටිය බ්‍රිතාන්‍යයන් විසින් ඉදිකරන ලද්දකි.
+
+◼️
+
+[Data](articles/5ed07b71.json)
+
+---
+
+### The needs of the country is not slogans and arguments - President
 
 *2024-04-06 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195373) · `si`
 
-සටන් පාඨ හා තර්කවලට යටත් නොවී, රට සහ තාරුණ්‍ය ඉදිරියට ගෙන යා හැකි වැඩපිළිවෙළක් දියත්කිරීමේ අවශ්‍යතාව මතුව ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe emphasizes the importance of focusing on the future and creating stability, highlighting the removal of the IMF from the bankrupt list. He discusses the need for a youthful program, expressing hope for a positive response in the North Central Province. He also mentions a road project in the Nochchiyagama area and the status of a cabinet paper.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ “මගෙන් පටන් ගමු” අනුරාධපුර දිස්ත්‍රික් තරුණ සමුළුවට අද (06) පස්වරුවේ එක්වෙමිනි.
+🟩
 
-"අපි දැන් යම් ස්ථාවරභාවයක් ඇතිකරගෙන යනවා. IMF සංවිධානය අපි බංකොළොත් ලැයිස්තුවෙන් අයින් කරලා. අනාගතය ගැනයි දැන් හිතන්න තියෙන්නේ. අපි හිතනදේට වඩා ඔබ හිතනදේ වැදගත්. මට ඔබේ අදහස් ලබාදෙන්න කවුද නිවේදක වෙන්නේ?. මම වාඩිවෙලා අහන් ඉන්නම් කවුද ප්‍රශ්න කරන්න කැමති."
+President Ranil Wickremesinghe says that the need to launch a country and a youthful program, says President Ranil Wickremesinghe.
 
-සමුළුවට පැමිණ සිටි අයෙක් - ඔබතුමාගෙන් මම බලාපොරොත්තුවනවා අධ්‍යාපනවේදීන්ට හොඳ වැඩපිළිවෙළක් එක්ක උතුරු මැද පලාතට සුබදායක පිළිතුරක් ලැබෙනවානම් හොඳයි කියලා.
+President Ranil Wickremesinghe made this statement participating in the Anuradhapura District Youth Forum this afternoon.
 
-ජනාධිපතිවරයා - බස්නාහිර පලාතේ 2300ක් අරගත්තා. තව 700ක් ගන්න ඉන්නවා. 4000කට යන්න බලාපොරොත්තුවෙන් ඉන්නවා. මම දන්නේ නැහැ උතුරු මැද පළාත ගැන. එන්න එන්න ඔයා ඇවිත් කියන්න දැනට සම්මුඛ සාකච්ඡා යනවා කිව්වා. මෙයා කියනවා සම්මුඛ සාකච්ඡාවට කැඳවුයේ නැහැ කියලා. මට කරුණු ටික ලියලා දෙන්න. තේරුවේ නැත්නම් දේශපාලනය කරන්න බැහැ
+"We now create stability. The IMF we removed from the bankrupt list. Now you have to think about the future. We think more importantly than we think. Who is announcement to me to give you your views?. I'll sit down and who likes to question. "
+
+One who attended the convention - you hope that the North Central Province has received a good response to a good program for educators.
+
+President: 2300 in Western Province. There are 700 more. Hope to go for 4000. I don't know about the North Central Province. Come on you said you're currently going to interview. He says he was not summoned to the interview. Write me the facts. If you don't understand, politics cannot be done
 
 ...
 
 [Data](articles/16fea392.json)
+
+[Extended Data](ext_articles/16fea392.ext.json)
 
 ---
 
@@ -2245,21 +2265,5 @@ Organised by the State Ministry of Indigenous Medicine, the Lanka Ayurveda Promo
 [Data](articles/b5b2514c.json)
 
 [Extended Data](ext_articles/b5b2514c.ext.json)
-
----
-
-### NSB champions tree planting this Avurudu with customers
-
-*2024-04-05 23:34:49* · [`dailyftlk`](https://www.ft.lk/business/NSB-champions-tree-planting-this-Avurudu-with-customers/34-760379) · `en`
-
-National Savings Bank, as the official banking partner of the Ministry of Agriculture and Plantation Industry, is making arrangements this year to distribute plants of economic value among the customers in observance of the tree planting ritual at the auspicious time for the Sinhala Hindu New Year, on 15 April, 2024, through its countrywide branch network. This year, the auspicious time of planting trees has fallen on 18 April at 10:16 p.m.
-
-In addition, two special gifts will be offered for the New Year transactions with the ‘Avurudu Wasana’ Special Fixed Deposit Account.
-
-...
-
-[Data](articles/a623e0f2.json)
-
-[Extended Data](ext_articles/a623e0f2.ext.json)
 
 ---

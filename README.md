@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 16:48:37**
+As of **2024-04-06 17:03:15**
 
 ## Newspaper Stats
 
@@ -26,33 +26,15 @@ adaderanasinhalalk | 2,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,498 (100.0%) of 17,503 articles have been extended.
+17,503 (100.0%) of 17,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### වනිඳු ගැන ශ්‍රී ලංකා ක්‍රිකට් ආයතනය හදිසියේම ගත් තීරණය
-
-*2024-04-06 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195367) · `si`
-
-ශ්‍රී ලංකා විස්සයි විස්ස නායක සුපිරි ක්‍රීඩක වනිඳු හසරංග මෙවර IPL තරගාවලිය සඳහා සහභාගී නොවන බව විදෙස් ක්‍රීඩා මාධ්‍ය වාර්තා කර තිබේ.
-
-මේ සම්බන්ධයෙන් ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලය වෙත ශ්‍රී ලංකා ක්‍රිකට් ආයතනය විසින් ලිඛිත දැනුම්දීමක් සිදුකර ඇති බව එම මාධ්‍ය වාර්තා පෙන්වාදෙයි.
-
-එසේම එම ආරංචි මාර්ග උපුටාදක්වමින් විදෙස් මාධ්‍ය වාර්තා කර සිටින්නේ වනිඳු හසරංගගේ වම් වළලුකර ආශ්‍රිතව ඇති ආබාධ තත්ත්වය සඳහා ඔහුට විවේක ගැන්වීමට අවශ්‍ය බවය.
-
-මේ අනුව ප්‍රතිකාර සඳහා ඩුබායි වෙත ගොස් සිටියදී ඔහු මෙම අවස්ථාවේ විවේකගැන්වීම වඩාත් සුදුසු බවට විශේෂඥ උපදෙස් ලැබී ඇති බවද එම වාර්තා පෙන්වා දී තිබේ.
-
-◼️
-
-[Data](articles/3eeccb5e.json)
-
----
-
 ### Sri Lanka's Debt Debt Debt Debt Debt Debt Debt Resolution - International Media
 
-*2024-04-06 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180595) · `ta`
+*2024-04-06 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/180595) · `ta`
 
 Sri Lanka's debt resolution talks aim to suspend re-loans till 2028, with efforts to counter China's influence. Consultant Sakalaratnayake expects talks to conclude soon.
 
@@ -72,45 +54,33 @@ Sakalaratnayake, consultant for the national security issues of Sri Lanka, said 
 
 ---
 
-### අවුරුදු නිවාඩුව ගැන රජයේ සේවකයින්ට විශේෂ දැනුම්දීමක්
+### Sri Lanka Cricket has suddenly taken about Moneragala
 
-*2024-04-06 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195366) · `si`
+*2024-04-06 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195367) · `si`
 
-එළැඹෙන 11 වනදා සිට 14 වනදා දක්වා වූ දීර්ඝ නිවාඩුවට අදාළව රාජකාරී ඉටුකිරීම සම්බන්ධයෙන් රාජ්‍ය පරිපාලන ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+Sri Lanka Cricket (SLC) has withdrawn from the IPL due to Wanindu Hasaranga's ankle injury, despite media reports of a written notification to the Indian Cricket Board.
 
-සියලුම දිස්ත්‍රික් ලේකම්වරු, ප්‍රාදේශීය ලේකම්වරු ඇතුළු ප්‍රාදේශීය පාලනයේ සේවයේ නියුතු සියලුම නිලධාරීන් වෙත මෙම නිවේදනය නිකුත් කර ඇත.
+🟩
 
-එම නිවේදනයේ දැක්වෙන්නේ එම කාලසීමාව තුළදී සියලුම ප්‍රාදේශීය ලේකම්වරු ඇතුළු දිස්ත්‍රික්කයේ සියලුම රාජ්‍ය නිලධාරීන්, රාජ්‍ය ආයතන සමග සම්බන්ධීකරණය කරමින් අවශ්‍ය කටයුතු සිදුකරන ලෙසටය.
+Sri Lanka T20 Leader Supermarket is not participating in the IPL tournament this year's IPL.
 
-එසේම මෙම කාලසීමාව තුළදී ආපදා සහ හදිසි අත්‍යාවශ්‍ය කාර්යයන් සම්බන්ධයෙන් අවධානයෙන් කටයුතු කරන ලෙසට ද වැඩිදුරටත් අදාළ නිවේදනය මගින් අවධාරණය කර තිබේ.
+According to media reports, SLC has been a written notification to the Indian Cricket Board.
 
-එසේම මේ වනවිට රජයේ සංවර්ධන කටයුතුවලට අදාළව ක්‍රියාත්මක වන සංවර්ධන ව්‍යාපෘති, වැඩසටහන් මෙම නිවාඩු කාලසීමාව තුළදී බාධාවකින් තොරව පවත්වාගෙන යාම සඳහා අවශ්‍ය වැඩපිළිවෙල යෙදීමට කටයුතු කරන ලෙසටද වැඩිදුරටත් දැනුම්දී තිබේ.
+Also, the dubbed foreign media reports that he wants to rest for the condition of the left ankle in Wanindu Hasaranga's left ankle.
+
+Accordingly, as he went to Dubai, he has been preferred to rest at Dubai.
 
 ◼️
 
-[Data](articles/ca33e59d.json)
+[Data](articles/3eeccb5e.json)
 
----
-
-### Indian Coast Guard rescues Sri Lankan fisherman after mid-sea medical emergency
-
-*2024-04-06 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98475/indian-coast-guard-rescues-sri-lankan-fisherman-after-mid-sea-medical-emergency) · `en`
-
-The Indian Coast Guard evacuated a Sri Lankan fisherman facing a life-threatening medical emergency mid-sea on Friday. The Sri Lankan Fishing Vessel (SLFV) ‘Kalpeni’ ventured into the sea and it became adrift due to engine failure on April 1. One of the fishermen, aged 44, suddenly developed shortness of breath after the boat drifted 60 nautical miles from Chennai on April 5.
-
-According to ANI, “On April 5, One crew from a Sri Lankan fishing boat namely PM Sumit Lalitha aged 44 years developed shortness of breath and was suspected to have a life-threatening heart condition. His boat had drifted to about 60 Nautical miles from Chennai.”
-
-“Indian Coast Guard immediately launched its ship ICGS Rani Abakka towards the boat and the patient was evacuated within a few hours. The patient was given basic medical treatment. At the same time, an Advanced Light helicopter (ALH) was launched by ICG from Chennai to air-lift the patient to the Coast Guard air station in Chennai.”
-
-...
-
-[Data](articles/d637a4d5.json)
+[Extended Data](ext_articles/3eeccb5e.ext.json)
 
 ---
 
 ### Motorcycle collision with buses in Nintavur;Elderly killed
 
-*2024-04-06 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180597) · `ta`
+*2024-04-06 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180597) · `ta`
 
 In Nintavur, a 72-year-old was killed in a motorcycle collision with a bus on Akkaraipattu Kalmunai road. The bus driver was arrested.
 
@@ -134,39 +104,95 @@ Subsequently, the body of the deceased has been handed over to the Nintavur Hosp
 
 ---
 
-### இலங்கையில் புதிய திட்டம் நடைமுறை
+### Special notice for public servants on year vacation
+
+*2024-04-06 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195366) · `si`
+
+The Ministry of Public Administration and Provincial Councils have issued a notice for public servants on vacation, emphasizing coordination with government agencies and addressing disasters and urgent functions. Development projects will continue during this period.
+
+🟩
+
+The Ministry of Public Administration, the Ministry of Provincial Administration, Provincial Councils, Provincial Councils, Provincial Councils and Local Government has issued a statement regarding the proportion of duties in relation to the long vacation.
+
+The announcement has been issued to all officers working in local administration including all the District Secretaries, Divisional Secretaries.
+
+The announcement states that all the officials, including all the officials, including all the Divisional Secretaries, will be coordinated with government agencies.
+
+The announcement has also emphasized to address disaster and urgent functions during this period.
+
+It is also reported that development projects implemented in this holiday period and program will be taken to carry out the necessary program to maintain the necessary program during this holiday period.
+
+◼️
+
+[Data](articles/ca33e59d.json)
+
+[Extended Data](ext_articles/ca33e59d.ext.json)
+
+---
+
+### Indian Coast Guard rescues Sri Lankan fisherman after mid-sea medical emergency
+
+*2024-04-06 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98475/indian-coast-guard-rescues-sri-lankan-fisherman-after-mid-sea-medical-emergency) · `en`
+
+The Indian Coast Guard evacuated a Sri Lankan fisherman facing a life-threatening medical emergency mid-sea on Friday. The Sri Lankan Fishing Vessel (SLFV) ‘Kalpeni’ ventured into the sea and it became adrift due to engine failure on April 1. One of the fishermen, aged 44, suddenly developed shortness of breath after the boat drifted 60 nautical miles from Chennai on April 5.
+
+According to ANI, “On April 5, One crew from a Sri Lankan fishing boat namely PM Sumit Lalitha aged 44 years developed shortness of breath and was suspected to have a life-threatening heart condition. His boat had drifted to about 60 Nautical miles from Chennai.”
+
+“Indian Coast Guard immediately launched its ship ICGS Rani Abakka towards the boat and the patient was evacuated within a few hours. The patient was given basic medical treatment. At the same time, an Advanced Light helicopter (ALH) was launched by ICG from Chennai to air-lift the patient to the Coast Guard air station in Chennai.”
+
+...
+
+[Data](articles/d637a4d5.json)
+
+[Extended Data](ext_articles/d637a4d5.ext.json)
+
+---
+
+### New project procedure in Sri Lanka
 
 *2024-04-06 16:07:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-புதிய-திட்டம்-நடைமுறை/175-335660) · `ta`
 
-கொழும்பு காசல் மகளிர் வைத்தியசாலையில் பிரசவத்தின்போது மனைவிக்கு கணவன் துணைக்கு இருக்க  அனுமதிக்கும்  புதிய திட்டம் ஆரம்பிக்கப்படவுள்ளது.
+Sri Lanka's Kasal Women's Hospital in Colombo is introducing a program where the husband can accompany the mother during childbirth, offering a unique experience for the child.
 
-இந்த திட்டத்தினூடாக தாய்மார்களுக்கு ஏற்ற  சூழலில் குழந்தை பிறக்க வழிவகுப்பதோடு, பிரசவத்தின்போது  தந்தை துணையாக  இருக்க வாய்ப்பளிக்கிறது. R
+🟩
+
+A new scheme will be launched to allow the husband to be a companion during delivery at the Kasal Women's Hospital in Colombo.
+
+Through this program, the mother will give birth to a child and gives the child a chance to be a companion during childbirth.. Remble
 
 ◼️
 
 [Data](articles/b700a566.json)
 
+[Extended Data](ext_articles/b700a566.ext.json)
+
 ---
 
-### தகாத உறவில் இருந்த இருவர் மரணம்
+### Death
 
 *2024-04-06 16:00:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தகாத-உறவில்-இருந்த-இருவர்-மரணம்/175-335659) · `ta`
 
-உடப்புஸ்ஸலாவ - மடுல்ல பாஹலகம பகுதியில் வீடு ஒன்றில் இருந்து தூக்கில் தொங்கிய நிலையில் இருவரின்  சடலங்கள் இன்று (6) காலை மீட்கப்பட்டதாக உடப்புஸ்ஸலாவ பொலிஸார் தெரிவித்தனர்.
+Two men and three children found hanged in Udapussalawa. Investigations reveal inappropriate behavior. Woman's husband implicated. Further police investigations underway.
 
-இந்த சம்பவத்தில் மூன்று பிள்ளைகளின் தாயான டப்ளியூ.எம்.பிரியங்கனி (வயது 42) மற்றும் திருமணமாகாத ஆண் பி.எம்.அனுர பண்டார (வயது 39) ஆகிய  இருவரே சடலமாக மீட்கப்பட்டுள்ளனர் என உடப்புஸ்ஸலாவ பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இதில், உயிரிழந்துள்ள இருவருக்கும் தகாத உறுவு இருந்து வந்துள்ளதாக விசாரணையில் தெரிய வந்துள்ளது.
+The bodies of the two men were recovered this morning (6), who was hanged from a house in the Udapusalawa - Madulla Bahalakalama area, Udapussalawa police said.
 
-அதேநேரத்தில் இவ் இருவருக்குமிடையில் இருந்து வந்த தகாத உறவு பெண்ணின் கணவருக்கு தெரிய வந்த நிலையில் கடந்த4ஆம் திகதி மாலை தாக்குதல் சம்பவம் ஒன்றும் இடம்பெற்றுள்ளது.
+The body of three children, Dubluw M. Priyankani (age 42) and the unmarried male BM Anura Bandara (age 39), have been recovered in the incident, Udapussalawa police said.
 
-இதையடுத்து குறித்த பெண் தனது வீட்டை விட்டு வெளியேறி குறித்த நபருடன் சென்றுள்ள நிலையில் இவ் இருவரும் வீடு ஒன்றில் தூக்கில் தொங்கிய நிலையில் சடலங்களாக மீட்கப்பட்டுள்ளனர்.
+Investigations have revealed that the two deceased have been inappropriate.
 
-மேலும் இந்த  சம்பவத்தில் உயிரிழந்தவர்கள் தங்கள் உயிரை மாய்த்து கொண்டார்களா அல்லது கொலை செய்யப்பட்டனரா என்ற கோணத்தில் பொலிஸார் சம்பவம் தொடர்பாக மேலதிக விசாரணைகளை செய்து வருகின்றமை குறிப்பிடத்தக்கது. R
+At the same time, the woman's husband was revealed to the woman's husband from the two of them.
+
+The woman has left her house and has been rescued as bodies as they have been hanged in a house.
+
+It is also worth noting that the police are conducting further investigations into the incident, whether the victims were killed or murdered or murdered.. Remble
 
 ◼️
 
 [Data](articles/57c34cd5.json)
+
+[Extended Data](ext_articles/57c34cd5.ext.json)
 
 ---
 

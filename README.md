@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 15:18:00**
+As of **2024-04-06 15:33:50**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,491 (100.0%) of 17,492 articles have been extended.
+17,492 (100.0%) of 17,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### ගිනිඅවි නිෂ්පාදනය කළ තැනක් වටලයි
+### Apartment raided in firearms
 
 *2024-04-06 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195364) · `si`
 
-අයිස් මත්ද්‍රව්‍ය සමඟ අත්අඩංගුවට ගත් සැකකරුවකුගෙන් ලද තොරතුරකට අනුව වයික්කාල ප්‍රදේශයේ මෙම නිතිවිරෝධී ගිනිඅවි නිෂ්පාදනය කරන ස්ථානය පිළිබඳ තොරතුරු අනාවරණය කරගෙන ඇත.
+Police raid an apartment in Vaikkala, arresting a suspect with ice drugs. They find equipment for firearms, including a 9mm manufacturer, overseas firearms, and ammunition. A 79-year-old man is arrested for illegal firearm production.
 
-පොලීසිය පැවසුවේ එම ස්ථානයේ තිබී සකස් ලද ගිනි අවි කොටස් හා ගිනිඅවි නිෂ්පාදනය සඳහා යොදා ගන්නා උපකරණ කිහිපයක්ද සොයා ගත් බවය.
+🟩
 
-මීට අමතරව එහි තිබී විදේශීය රටක නිෂ්පාදිත මිලිමීටර් 9 වර්ගයේ ගිනි අවියක්, ගල්කටස් වර්ගයේ ගිනිඅවියක්, විවිධ වර්ගයේ ගිනිඅවි සඳහා යොදන සජීවී උණ්ඩ 27ක් , හිස් උණ්ඩ කොපු , ඊයම්බෝල 31 ක්, සොයාගෙන ඇත.
+According to a suspect arrested with ice drugs, information on the manufacture of these illegal firearms in Vaikkala area has revealed the place of production of these landscape.
 
-ඒ අනුව මෙම ගිනි අවි නිෂ්පාදනය කරන ස්ථානය පවත්වාගෙන ගිය වයික්කාල ප්‍රදේශයේ පදිංචි 79 හැවිරිදි පුද්ගලයෙක් පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+Several equipment used for firearms and firearms were found in the site.
+
+In addition, a 9mm manufacturer produce millimeter firearm, an overseas firearm, and 27 live ammunition applied to different types of firearms, open bullets, 31 embals.
+
+Accordingly, a 79-year-old man has been arrested by police from Waikkala area where the production of fire.
 
 ◼️
 
 [Data](articles/89efdaa7.json)
+
+[Extended Data](ext_articles/89efdaa7.ext.json)
 
 ---
 

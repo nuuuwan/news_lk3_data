@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 06:17:06**
+As of **2024-04-06 06:53:44**
 
 ## Newspaper Stats
 
-*Scraped **17,437** Articles*
+*Scraped **17,440** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ dailyftlk | 958
 islandlk | 959
 economynextcom | 972
 adalk | 1,466
-tamilmirrorlk | 2,052
+tamilmirrorlk | 2,053
 adaderanalk | 2,096
 virakesarilk | 2,539
-dailymirrorlk | 2,669
+dailymirrorlk | 2,671
 adaderanasinhalalk | 2,817
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,429 (100.0%) of 17,437 articles have been extended.
+17,437 (100.0%) of 17,440 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### Probe underway into breach of Education Ministry website
+
+*2024-04-06 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Probe-underway-into-breach-of-Education-Ministry-website/108-280302) · `en`
+
+Colombo, April 06 -  An investigation has been launched into the incident where the official website of the Sri Lanka Education Ministry was hacked by an unidentified hacker.
+
+According to a statement, the probe is spearheaded by the Sri Lanka Computer Emergency Readiness Team (SLCERT) and the Telecommunications Regulatory Commission of Sri Lanka (TRCSL).
+
+The Education Ministry also expressed regret over the inconvenience caused to users and assured that efforts are underway to swiftly restore the integrity of the official website.
+
+The breach saw the intrusion of a hacker operating under the pseudonym "Anonymous EEE," who left behind a message apologizing for the unauthorized access while shedding light on security vulnerabilities within the system.
+
+◼️
+
+[Data](articles/6d2f6e17.json)
+
+---
+
+### Festive season around the corner…
+
+*2024-04-06 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Festive-season-around-the-corner/110-280255) · `en`
+
+As the Sinhala and Tamil New Year is just around the corner, Sri Lankan people are busy with purchasing goods at the Pettah Market in Colombo. The President of Sri Lanka Ranil Wickramasinghe has instructed the officials to prepare a formal program with the aim of maintaining the uninterrupted essential and public services during the upcoming festive season. Pix by Pradeep Pathirana
+
+As the Sinhala and Tamil New Year is just around the corner, Sri Lankan people are busy with purchasing goods at the Pettah Market service in Colombo. The President of Sri Lanka Ranil Wickramasinghe yesterday instructed the officials to prepare a formal program with the aim of maintaining the uninterrupted essential and public services during the upcoming festive season. Pix by Pradeep Pathiran
+
+◼️
+
+[Data](articles/6dc5b621.json)
+
+---
 
 ### Joe-Pete Big Match receives overwhelming support from sponsors
 
@@ -43,6 +75,8 @@ As the Principal Sponsor, Dialog Axiata lead the charge, powering the excitement
 ...
 
 [Data](articles/8f1c5a13.json)
+
+[Extended Data](ext_articles/8f1c5a13.ext.json)
 
 ---
 
@@ -58,6 +92,8 @@ Both indices moved up to their highest levels after 52 trading weeks. Moreover, 
 
 [Data](articles/a5a8e008.json)
 
+[Extended Data](ext_articles/a5a8e008.ext.json)
+
 ---
 
 ### INSEE Sanstha named SLIM Kantar’s People’s Housing and Construction Brand of the Year for the 13th consecutive time
@@ -71,6 +107,8 @@ Speaking about the accolade, INSEE Cement’s Commercial Director Safeekhan Sidd
 ...
 
 [Data](articles/13821618.json)
+
+[Extended Data](ext_articles/13821618.ext.json)
 
 ---
 
@@ -89,6 +127,22 @@ As the Tamil & Sinhala New Year celebrations commence in the country, retail tra
 ...
 
 [Data](articles/a04bbf63.json)
+
+[Extended Data](ext_articles/a04bbf63.ext.json)
+
+---
+
+### இந்தியத் துணைத் தூதுவருடன் சிறிதரன் சந்திப்பு
+
+*2024-04-06 03:24:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியத்-துணைத்-தூதுவருடன்-சிறிதரன்-சந்திப்பு/175-335650) · `ta`
+
+இலங்கைக்கான யாழ். இந்தியத் துணைத் தூதரகத்தின் புதிய தூதுவராகப் பொறுப்பேற்றுள்ள ஸ்ரீ சாய்முரளியை, இலங்கைத் தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் மரியாதை நிமித்தம் சந்தித்துக் கலந்துரையாடியுள்ளார்.
+
+யாழ்ப்பாணத்திலுள்ள இந்தியத் துணைத்தூதரகத்தில் நடைபெற்ற இந்தச் சந்திப்பின்போது, தமிழ் மக்களில்  அரசியல் நலன்சார் விடயங்கள் மற்றும் சமகால நெருக்கடிகள் நிலைமைகள் உள்ளிட்ட பல விடயங்கள் தொடர்பில் பேசப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/6ef58ffb.json)
 
 ---
 
@@ -129,6 +183,8 @@ He also highlighted that from July 21, 2022, to February 2024, the government ha
 ...
 
 [Data](articles/95d3e655.json)
+
+[Extended Data](ext_articles/95d3e655.ext.json)
 
 ---
 
@@ -2113,73 +2169,5 @@ The BJP has also been targeting the two parties for not ensuring the rights of t
 [Data](articles/129adb33.json)
 
 [Extended Data](ext_articles/129adb33.ext.json)
-
----
-
-### Two killed, six injured in lorry-jumbo accident
-
-*2024-04-05 14:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-killed-six-injured-in-lorry-jumbo-accident/108-280249) · `en`
-
-Matale, Daily Mirror)- Two individuals were killed and six others injured after a lorry that hit a wild elephant toppled over at Wanduramulla on the Moragahakanda-Naula road early this morning.
-
-The initial investigations have revaled that the lorry had hit the wild elephant that attempted to cross the road abruptly.
-
-The injured were admitted to the Kongahawela Hospital and two of them were transfered to the Matale Hospital.
-
-◼️
-
-[Data](articles/cd1b43f1.json)
-
-[Extended Data](ext_articles/cd1b43f1.ext.json)
-
----
-
-### Korean prime minister says more jobs will be opened in Sri Lanka
-
-*2024-04-05 14:15:18* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවට-තව-රැකියා-දොරටු-රැසක්-විවෘත-කරන-බව-කොරියානු-අගමැති-කියයි/11-408970) · `si`
-
-Korean PM HAN Duck SOO opens new job opportunities in Sri Lanka, focusing on agriculture, construction, and solar energy. He praises Sri Lanka's resilience against Covid and supports tourism. Both leaders discuss diplomatic expansion.
-
-🟩
-
-Korean Prime Minister HAN Duck SOO (HAN DUCK SOO) and Prime Minister Dinesh Gunawardena, Sri Lanka, Sri Lanka Dinesh Gunawardena took place at the Prime Minister's Office in Seoul.
-
-The Korean Prime Minister opens several new job gates to Sri Lanka. The Korean Prime Minister also stated that in addition to providing job forces for agriculture, construction and other industries, the Korean Prime Minister said.
-
-The Prime Minister of the Korean Prime Minister stated that Sri Lanka has been re-capable of resurrecting the country's country as a member of the country.
-
-The Korean Prime Minister urged the Korean Prime Minister to take steps to reduce the pre-action-for-the-pro-action projects for future projects to be implemented. The Korean Prime Minister pointed out the importance of increasing the amount of land for the solar energy construction.
-
-...
-
-[Data](articles/58ec5512.json)
-
-[Extended Data](ext_articles/58ec5512.ext.json)
-
----
-
-### Two dead, six dead, injured in a lorry
-
-*2024-04-05 14:11:52* · [`adalk`](https://www.ada.lk/breaking_news/ලොරියක්-වන-අලියෙකුගේ-ගැටී-දෙකක්-මරුට-හයකට-තුවාල/11-408969) · `si`
-
-In Moragahakanda, two killed, six injured in a lorry accident. Elephant driver Madiala and Pubbiliya, passengers Dhananapura, Ganewatte, Niriyawewa, Sinhawepura, Welikanda, and RMSLaramaanayake (19) and Diyagawa (19) hospitalized. Investigations ongoing.
-
-🟩
-
-Naula Police claim that two others were killed in a small lorry in Moragahakanda reservoir to Naula. The accident occurred in Moragahakanda - Wadumulla area around the same day today.
-
-52/1, a resident of Madiala and Pubbiliya, the elephant was operating in the blue lorry, Madiawela and Pubbiliya.The primary investigations were revealed that the lorry was filmed after the lorry after the trip was the triumph of the elephant.
-
-Dhananapura, Dananapaya Navaratne, who was residing in the back of the lorry, Dhananapura, Ganewatte, a resident of the back of the lorry.Police say they have died in the event.
-
-Niriyawewa, Sinhawepura, Welikanda, residents of the lorry in the front seat of the lorry.Treasures were taken from the manuscript hospitalized.
-
-In addition, RMSLaramaanayake (19), a resident of No. 128, Katuealeia, Diyagawa (19) has been admitted to the Ambana Hospital in which BJ VIIs Sundarath Bandara has been admitted to the Matale General Hospital.
-
-...
-
-[Data](articles/47db105d.json)
-
-[Extended Data](ext_articles/47db105d.ext.json)
 
 ---

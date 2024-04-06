@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 05:56:18**
+As of **2024-04-06 06:17:06**
 
 ## Newspaper Stats
 
-*Scraped **17,429** Articles*
+*Scraped **17,437** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 154
 bbccomsinhala | 182
 dbsjeyarajcom | 210
 newsfirstlk | 363
-islandlk | 951
 dailyftlk | 958
+islandlk | 959
 economynextcom | 972
 adalk | 1,466
 tamilmirrorlk | 2,052
@@ -26,11 +26,71 @@ adaderanasinhalalk | 2,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,429 (100.0%) of 17,429 articles have been extended.
+17,429 (100.0%) of 17,437 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### Joe-Pete Big Match receives overwhelming support from sponsors
+
+*2024-04-06 05:36:00* · [`islandlk`](http://island.lk/joe-pete-big-match-receives-overwhelming-support-from-sponsors/) · `en`
+
+The Josephian-Peterite Big Match, one of Sri Lanka’s most prestigious cricketing events, recently marked a significant milestone with the recently concluded 90th ‘Battle of the Saints’ on March 22nd and 23rd, 2024, which will be followed by the landmark 50th Limited Over Encounter on April 6th, 2024. This historic occasion has garnered tremendous support from a diverse array of sponsors, demonstrating their commitment to the rich tradition and sporting excellence embodied by these events.
+
+As the Principal Sponsor, Dialog Axiata lead the charge, powering the excitement surrounding both the 90th ‘Battle of the Saints; and the 50th Limited Over Encounter. Their steadfast support underscores the significance of these landmark occasions in the annals of Sri Lankan cricketing history. Dialog in addition also acts as the Official Television Provider.
+
+...
+
+[Data](articles/8f1c5a13.json)
+
+---
+
+### Nine crossings lend sparkle to share market; indices at their highest over past 52 trading weeks
+
+*2024-04-06 05:36:00* · [`islandlk`](http://island.lk/nine-crossings-lend-sparkle-to-share-market-indices-at-their-highest-over-past-52-trading-weeks/) · `en`
+
+Stock trading began on a negative note yesterday due to profit takings. Subsequently though, it turned extremely bullish due to positive and market- friendly speculation on the external debt restructuring exercise. This scenario positively impacted the local banking sector, which performed well on the trading floor from the beginning of the session until the end, as in the case of the previous day, market analysts said.
+
+Both indices moved up to their highest levels after 52 trading weeks. Moreover, 148 countries’ share prices increased while only 67 counters moved downwards during the day.The All Share Price Index went up by 115.96 points while S and P SL20 rose by 53.02 points. Turnover stood at Rs 2.9 billion with nine crossings.
+
+...
+
+[Data](articles/a5a8e008.json)
+
+---
+
+### INSEE Sanstha named SLIM Kantar’s People’s Housing and Construction Brand of the Year for the 13th consecutive time
+
+*2024-04-06 05:22:00* · [`islandlk`](http://island.lk/insee-sanstha-named-slim-kantars-peoples-housing-and-construction-brand-of-the-year-for-the-13th-consecutive-time/) · `en`
+
+INSEE Sanstha has once again been recognized as the People’s Housing and Construction Brand of the Year 2024 by SLIM Kantar, marking its 13th consecutive win in this prestigious category. The award, presented by The Sri Lanka Institute of Marketing (SLIM), signifies the trust and loyalty that customers have placed in the brand over the years, driving INSEE Sanstha’s legacy as Sri Lanka’s #1 Cement brand.
+
+Speaking about the accolade, INSEE Cement’s Commercial Director Safeekhan Siddeeque expressed gratitude INSEE’s customers for their continued support and trust in the brand, even during challenging times in Sri Lanka’s construction industry. “At INSEE Cement, we are deeply committed to delivering excellence in everything we do. For the past five decades, we have been consistently providing the best in products and solutions at the highest quality consistently. This award fuels our motivation to continue raising the bar of excellence and further strengthening our legacy.”
+
+...
+
+[Data](articles/13821618.json)
+
+---
+
+### Visa sees 35%+ surge in debit card spends; trend expected to continue in the upcoming Avurudu season
+
+*2024-04-06 05:22:00* · [`islandlk`](http://island.lk/visa-sees-35-surge-in-debit-card-spends-trend-expected-to-continue-in-the-upcoming-avurudu-season/) · `en`
+
+Out of the total domestic spends on debit cards, the share of in-store spending is 7 times that of ecommerce.
+
+Last holiday season saw over 20% growth in Visa debit transactions vis-à-vis 2022
+
+Visa (NYSE: V), the global leader in digital payments, today announced that Visa debit card spends saw a significant increase of over 35% in the past year, indicating healthy growth of digital payments in Sri Lanka. This increase is buoyed by a 30%+ increase in face-to-face spends and over 40% increase in ecommerce spends.
+
+As the Tamil & Sinhala New Year celebrations commence in the country, retail transactions are picking up with more active shoppers during the festive period. Consumers are increasingly paying by debit card, opting for safer, simpler and more convenient transactions.
+
+...
+
+[Data](articles/a04bbf63.json)
+
+---
 
 ### The tree fell on the three -wheeler: the boy wound
 
@@ -55,6 +115,20 @@ The crash caused the road to the traffic shortly. The three -wheeler is complete
 [Data](articles/6e0591c3.json)
 
 [Extended Data](ext_articles/6e0591c3.ext.json)
+
+---
+
+### Government has settled US$ 1,909.7 million foreign debt and interest – Rajith Keerthi Thennakoon
+
+*2024-04-06 03:03:00* · [`islandlk`](http://island.lk/government-settles-us-1909-7-million-foreign-debt-and-interest-rajith-keerthi-thennakoon/) · `en`
+
+Rajith Keerthy Tennakoon Director General of Community Affairs at the President’s Office delivering a special media statement today (05) stated that between the assumption of office by  President Ranil Wickremesinghe and February 2024, the Government of Sri Lanka has settled a total of US$ 1909.7 million in foreign debt and interest payments.
+
+He also highlighted that from July 21, 2022, to February 2024, the government has disbursed $1338.8 million in multilateral loans and interest, and that there were no outstanding arrears in loan installments or interest payments up to February 2024.
+
+...
+
+[Data](articles/95d3e655.json)
 
 ---
 
@@ -2107,111 +2181,5 @@ In addition, RMSLaramaanayake (19), a resident of No. 128, Katuealeia, Diyagawa 
 [Data](articles/47db105d.json)
 
 [Extended Data](ext_articles/47db105d.ext.json)
-
----
-
-### Ex-Police Officer arrested over stones pelted at hotel housing Japanese Envoy’s spouse
-
-*2024-04-05 14:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ex-Police-Officer-arrested-over-stones-pelted-at-hotel-housing-Japanese-Envoys-spouse/108-280248) · `en`
-
-Buttala, April 5 (Daily Mirror) - A former Chief Inspector of Police has been arrested for allegedly pelting stones at a hotel in Buttala, where the spouse of the Ambassador to Japan was staying last night.
-
-Mariko Mizukoshi, the Ambassador's wife, informed the hotel owner in writing about the incident, prompting the hotel management to lodge a complaint with the Buttala Police.
-
-According to Mizukoshi, she stayed at the hotel on Thursday (04) after travelling from Colombo to attend an official ceremony at the Little Tree Special Needs Children's Centre in the area.
-
-"Somebody threw several stones toward the big window of the wedding hall last night, causing devastating damage to the hotel. As a hotel guest, I was really scared about what happened. Japanese visitors, supporters, and officials from the Japanese Government will all feel scared and anxious if such a thing happens again, as we sometimes come here and stay to visit the Little Tree," she said.
-
-...
-
-[Data](articles/0033fcdd.json)
-
-[Extended Data](ext_articles/0033fcdd.ext.json)
-
----
-
-### Vehicles only imported for tourism
-
-*2024-04-05 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195332) · `si`
-
-State Minister Ranjith Siyambalapitiya announced that vehicle imports are restricted to tourism, citing criteria compliance and a halt due to exchange issues. Despite reducing the age limit to 6 years, older vehicles are now being imported. To address this, the Cabinet has decided to create 250 buses and 750 vans for tourism, with about 1000 vehicles paid for.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya says that the import is allowed only traffic for the tourism industry.
-
-Speaking to the media, the State Minister said this process was done according to the criteria provided.
-
-"With the exchange issue in the country we stopped it. But in tourism does not use vehicles older than 6 years. Now our vehicles are coming older. The number of vehicles have been reduced. That's why the Cabinet decided to create 250 buses for tourism and 750 vans. About 1000 vehicles are paid. "
-
-◼️
-
-[Data](articles/876ebc05.json)
-
-[Extended Data](ext_articles/876ebc05.ext.json)
-
----
-
-### South Korea promises to open new job opportunities for Sri Lankans
-
-*2024-04-05 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98446/south-korea-promises-to-open-new-job-opportunities-for-sri-lankans) · `en`
-
-A meeting between Korean Prime Minister Han Duck Soo and his Sri Lankan counterpart Dinesh Gunawardena was held on Thursday (04) in Seoul.
-
-During the discussion, the Korean Prime Minister asserted that many new job opportunities would be opened for Sri Lankans.
-
-In addition to the labour force that provides jobs for agriculture, construction and other industries in his country, PM Han also mentioned the possibility of providing new jobs for health services and professional services.
-
-He said that South Korea, as a member of the Paris Club, will always stand therein for Sri Lanka, which is recovering from the recent financial crisis, to successfully carry out its future activities.
-
-...
-
-[Data](articles/57d126b2.json)
-
-[Extended Data](ext_articles/57d126b2.ext.json)
-
----
-
-### Sridharan meets with Jaffna Indian Ambassador
-
-*2024-04-05 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180505) · `ta`
-
-Sridharan, a Sri Lankan parliamentarian, met with the Indian Consulate's new ambassador, Sri Sai Murali, in Jaffna. They discussed the political welfare of Eelam Tamils and current crises.
-
-🟩
-
-Jaffna to Sri Lanka. Parliamentarian Sivagnanam Sreedharan has recently met with Sri Sai Murali, the new ambassador of the Indian Consulate.
-
-During the meeting held at the Indian Consulate in Jaffna, it was noteworthy that the political welfare of the Eelam Tamils and the contemporary crises was addressed.
-
-◼️
-
-[Data](articles/ea53bc99.json)
-
-[Extended Data](ext_articles/ea53bc99.ext.json)
-
----
-
-### Pain in the North of Pain
-
-*2024-04-05 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180504) · `ta`
-
-The opposition to land survey in Jaffna Kirimalai President's House has been ignored. Landowners and civilians protested, leading to the cancellation of the survey. The landlord officials agreed to halt the survey after receiving a letter from the landowners expressing no interest. The survey aimed to measure 29 acres in Nakuleswaram and Kankesanthurai.
-
-🟩
-
-The people's opposition has been abandoned today as the measurement work to take over the land of the Jaffna Kirimalai President's House is to be carried out on Friday.
-
-Land owners and civilians have expressed their opposition to the land survey and interrupted the vehicle of the land department.
-
-The landlord officials returned from there after the land owners wrote and signed a letter that they had no interest in measurement of the land following the opposition of the land owners.
-
-The measurement was to be carried out with the aim of carrying out about 29 acres of land in the Nakuleswaram J/226 and Kankesanthurai J/233 Grama Niladhari Divisions under the Tellippalai Divisional Secretariat Division.
-
-◼️
-
-[Data](articles/79ebd254.json)
-
-[Extended Data](ext_articles/79ebd254.ext.json)
 
 ---

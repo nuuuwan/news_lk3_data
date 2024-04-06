@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 06:53:44**
+As of **2024-04-06 07:16:14**
 
 ## Newspaper Stats
 
-*Scraped **17,440** Articles*
+*Scraped **17,441** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ tamilmirrorlk | 2,053
 adaderanalk | 2,096
 virakesarilk | 2,539
 dailymirrorlk | 2,671
-adaderanasinhalalk | 2,817
+adaderanasinhalalk | 2,818
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,437 (100.0%) of 17,440 articles have been extended.
+17,440 (100.0%) of 17,441 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### ඉහළ උණුසුමක් තිබුණත් පළාත් කිහිපයකට වැසි
+
+*2024-04-06 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195352) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවට දැනුම් දී ඇත.
+
+දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනවලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්ෂාංශ වලට සෘජුවම ඉහලින් පවතී.
+
+ඒ අනුව අද දින (06) දහවල් 12:12 ට ලෙල්ලෝපිටිය, බලංගොඩ, බුලත්සිංහල, කල්තොට සහ වාද්දුවයන ප්‍රදේශ වලට හිරු මුදුන් වනු ඇති.
+
+මේ අතර, උණුසුම් කාලගුණය ගැන අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+ඒ අනුව උතුරු, උතුරුමැද, නැගෙනහිර, බස්නාහිර, සබරගමුව, වයඹ සහ දකුණු පළාත හා මොනරාගල සහ මාතලේ දිස්ත්‍රික්ක සඳහා අදාළ නිවේදනය බලපැවැත්වේ.
+
+...
+
+[Data](articles/d82ef5b2.json)
+
+---
 
 ### Probe underway into breach of Education Ministry website
 
@@ -48,6 +72,8 @@ The breach saw the intrusion of a hacker operating under the pseudonym "Anonymou
 
 [Data](articles/6d2f6e17.json)
 
+[Extended Data](ext_articles/6d2f6e17.ext.json)
+
 ---
 
 ### Festive season around the corner…
@@ -61,6 +87,8 @@ As the Sinhala and Tamil New Year is just around the corner, Sri Lankan people a
 ◼️
 
 [Data](articles/6dc5b621.json)
+
+[Extended Data](ext_articles/6dc5b621.ext.json)
 
 ---
 
@@ -132,17 +160,23 @@ As the Tamil & Sinhala New Year celebrations commence in the country, retail tra
 
 ---
 
-### இந்தியத் துணைத் தூதுவருடன் சிறிதரன் சந்திப்பு
+### Sridharan meets with Indian Ambassador
 
 *2024-04-06 03:24:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியத்-துணைத்-தூதுவருடன்-சிறிதரன்-சந்திப்பு/175-335650) · `ta`
 
-இலங்கைக்கான யாழ். இந்தியத் துணைத் தூதரகத்தின் புதிய தூதுவராகப் பொறுப்பேற்றுள்ள ஸ்ரீ சாய்முரளியை, இலங்கைத் தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் மரியாதை நிமித்தம் சந்தித்துக் கலந்துரையாடியுள்ளார்.
+Sridharan, TNA member, discusses political welfare and crises with Indian Ambassador in Jaffna.
 
-யாழ்ப்பாணத்திலுள்ள இந்தியத் துணைத்தூதரகத்தில் நடைபெற்ற இந்தச் சந்திப்பின்போது, தமிழ் மக்களில்  அரசியல் நலன்சார் விடயங்கள் மற்றும் சமகால நெருக்கடிகள் நிலைமைகள் உள்ளிட்ட பல விடயங்கள் தொடர்பில் பேசப்பட்டுள்ளது. (a)
+🟩
+
+Jaffna to Sri Lanka. Sivagnanam Sreedharan, a member of the Sri Lanka Tamil National Alliance (TNA), has met with the new ambassador to the Indian Consulate.
+
+During the meeting held at the Indian Consulate in Jaffna, the Tamil people were discussing a number of issues including political welfare and contemporary crises.. (A)
 
 ◼️
 
 [Data](articles/6ef58ffb.json)
+
+[Extended Data](ext_articles/6ef58ffb.ext.json)
 
 ---
 
@@ -2147,27 +2181,5 @@ Maligakanda Magistrate's decision to be remanded, the decision was contradicted 
 [Data](articles/b115961f.json)
 
 [Extended Data](ext_articles/b115961f.ext.json)
-
----
-
-### ‘No ground’ for India’s request for return of Kachchatheevu: Minister Douglas
-
-*2024-04-05 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98447/no-ground-for-indias-request-for-return-of-kachchatheevu-minister-douglas) · `en`
-
-The statements coming out of India on “reclaiming” Kachchatheevu island from Sri Lanka have “no ground”, the Sri Lankan Minister of Fisheries Douglas Devananda has said.
-
-The senior Sri Lankan Tamil politician’s comments came days after the Narendra Modi government targeted the Congress and its ally the Dravida Munnetra Kazhagam (DMK) in Tamil Nadu accusing them of overlooking national interests in the ceding of Katchatheevu to Sri Lanka in 1974.
-
-The BJP has also been targeting the two parties for not ensuring the rights of the fishermen wanting to fish in waters around the Katchatheevu island.
-
-“It is the election time in India, it is not unusual to hear such noises of claims and counterclaims about Kachchatheevu,” Devananda told reporters in Jaffna on Thursday, 4 April.
-
-“I think India is acting on its interests to secure this place to ensure Sri Lankan fishermen would not have any access to that area and that Sri Lanka should not claim any rights in that resourceful area”, Devananda said.
-
-...
-
-[Data](articles/129adb33.json)
-
-[Extended Data](ext_articles/129adb33.ext.json)
 
 ---

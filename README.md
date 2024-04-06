@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 21:33:34**
+As of **2024-04-06 21:52:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,839
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,519 (100.0%) of 17,521 articles have been extended.
+17,521 (100.0%) of 17,521 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ During the conference, held at Koombichchankulam lake, President Wickremesinghe 
 ...
 
 [Data](articles/7e9f9758.json)
+
+[Extended Data](ext_articles/7e9f9758.ext.json)
 
 ---
 
@@ -1837,6 +1839,8 @@ Nine crossings lend sparkle to share market; indices at their highest over past 
 ...
 
 [Data](articles/920afee9.json)
+
+[Extended Data](ext_articles/920afee9.ext.json)
 
 ---
 

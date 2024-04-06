@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 08:33:49**
+As of **2024-04-06 08:51:23**
 
 ## Newspaper Stats
 
-*Scraped **17,445** Articles*
+*Scraped **17,448** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ dailyftlk | 958
 islandlk | 959
 economynextcom | 972
 adalk | 1,466
-tamilmirrorlk | 2,054
+tamilmirrorlk | 2,055
 adaderanalk | 2,098
 virakesarilk | 2,539
-dailymirrorlk | 2,671
-adaderanasinhalalk | 2,819
+dailymirrorlk | 2,672
+adaderanasinhalalk | 2,820
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,444 (100.0%) of 17,445 articles have been extended.
+17,445 (100.0%) of 17,448 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### සැකකටයුතු මරණ දෙකක්
+
+*2024-04-06 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195354) · `si`
+
+ඌරුබොක්ක කන්දෙකුඹුර ප්‍රදේශය තේ ඉඩමක ගල්තලාවක් මත සැකකටයුතු ලෙස මියගොස් සිටි පුද්ගලයෙකුගේ සිරුරක් හමුව තිබේ.
+
+මෙම පුද්ගලයා සහ ඔහුගේ බිරිඳ එම ප්‍රදේශයේ නිවසක ජීවත් ව සිට ඇති අතර පෙරේදා (04) මෙම පුද්ගලයා නිවසේ සිටියදී බිරිඳ රැකියාවට ගොස් ඇත.
+
+බිරිඳ සවස නැවත නිවසට පැමිණිමේ දී ඔහු නිවසේ සිට නොමැති අතර පසුවදා උදෑසන ද ඔහු නිවසට නොපැමිණිම හේතුවෙන් සිදුකළ සෝදිසි කිරීමකදී නිවස ආසන්නයේ ගල් තලාවක තිබී ඔහුගේ සිරුර හමුවී තිබේ.
+
+මේ අතර ගොකරැල්ල තලහින්න ප්‍රදේශයේ නිවසකින් දුගඳක් හමන බවට පොලීසියට ලද තොරතුරක් මත ගොකරැල්ල පොලීසිය සිදුකළ සෝදිසි කිරීමක දී එම නිවසේ තිබී මළසිරුරක් හමුව තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ එම නිවසේ තනිවම ජීවත්ව සිටි 69 හැවිරිදි පුද්ගලයෙකි.
+
+මෙම පුද්ගලයා පසුගිය මාර්තු මස 28 වනදා ඔහුගේ දියණියගේ නිවසේ සිට පැමිණ මෙම නිවසසේ තනිවම ජීවත්ව සිට තිබේ.
+
+මරණයට හේතුව මෙතෙක් නිශ්චිතව සෙයාගෙන නොමැති අතර පොලීස් පරීක්ෂණ සිදුකරන බව ගොකරැල්ල පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/f11216f6.json)
+
+---
+
+### Maithri under fire, Parliament to demand full disclosure on Easter Sunday attacks
+
+*2024-04-06 08:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maithri-under-fire-Parliament-to-demand-full-disclosure-on-Easter-Sunday-attacks/108-280305) · `en`
+
+Colombo, April 06 - (Daily Mirror)  - Former President Maithripala Sirisena who is at the centre of controversy over his latest remarks that he is aware of the mastermind behind the Easter Sunday carnage will be forced to place all his cards on the table when Parliament takes up a fresh debate on the matter during the next sitting week.
+
+Parliament will take up a three-day debate when it meets for the first time after New Year on April 24, as agreed upon at the party leaders’ meeting conducted yesterday.
+
+The main opposition Samagi Jana Balawegaya (SJB) asked for the debate on the basis that the country serves to know the discourse of Mr. Sirisena who was the Head of State when the terrorist attack took place in 2019.
+
+Recently, Mr. Sirisena stirred fresh controversy when he said that he knew who was behind the attack. Afterwards, the Criminal Investigation Department (CID) interrogated him for hours. He was also asked to appear before court and make a statement, but he declined to do so.
+
+...
+
+[Data](articles/0b70cd69.json)
+
+---
 
 ### 2024 sees drop in dengue cases and deaths compared to previous years
 
@@ -49,6 +91,8 @@ Additionally, in the preceding season, concerted efforts were made to raise awar
 ...
 
 [Data](articles/2823e615.json)
+
+[Extended Data](ext_articles/2823e615.ext.json)
 
 ---
 
@@ -225,6 +269,24 @@ As the Tamil & Sinhala New Year celebrations commence in the country, retail tra
 [Data](articles/a04bbf63.json)
 
 [Extended Data](ext_articles/a04bbf63.ext.json)
+
+---
+
+### ’தொழில்நுட்பமும் அறிவும் கல்வியின் புதிய ஆயுதங்களாகும்’
+
+*2024-04-06 03:36:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழில்நுட்பமும்-அறிவும்-கல்வியின்-புதிய-ஆயுதங்களாகும்/175-335652) · `ta`
+
+அறிவைப் புதுப்பித்தல் என்பது கல்வியின் பாரிய பணியாக மாறியுள்ளதாகவும், அடுத்த 75 வருடங்களில் நாடு முன்னோக்கிச் செல்ல வேண்டுமாயின் கல்வி முறைமையில் புதிய மாற்றம் ஏற்பட வேண்டுமென ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+
+நேற்று பிற்பகல் இடம்பெற்ற கொழும்பு சிறிமாவோ பண்டாரநாயக்க கல்லூரியின் 2022 வருடாந்த பரிசளிப்பு விழாவில் கலந்து கொண்டபோதே ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார். இதன்போது அவர் மேலும்  தெரிவிக்கையில்,
+
+நான் அப்போதைய கல்வி அமைச்சராக இருந்த காலத்தில் இப்பாடசாலையை அபிவிருத்தி செய்வதற்கான வாய்ப்பு எனக்குக் கிடைத்ததையிட்டு நான் மகிழ்ச்சியடைகிறேன். அதன் முடிவுகளை இன்று காணலாம். எனது வாழ்க்கையின் மிகவும் கடினமான காலப்பகுதியில் நான் இந்த சிறிமாவோ பண்டாரநாயக்க கல்லூரிக்கு அருகிலேயே வாசித்தேன்.
+
+கடந்த இரண்டு வருடங்களில் இந்த நாட்டை மீண்டும் வீழ்ச்சியடைய விடாமல் திட்டமிட்டு நாட்டை கட்டியெழுப்ப முடிந்தது. இது போதுமானது அல்ல. இன்னும் 05 முதல் 10 ஆண்டுகள் இந்தப் பயணத்தைத் தொடர வேண்டும்.
+
+...
+
+[Data](articles/b10b2013.json)
 
 ---
 
@@ -2113,67 +2175,5 @@ An IMF official said on Friday April 05 that there are strong expectations of ag
 [Data](articles/e77ab5a1.json)
 
 [Extended Data](ext_articles/e77ab5a1.ext.json)
-
----
-
-### 90 percent of members who have left the United National Party are back in the United National Party - Ravi Karunanayake
-
-*2024-04-05 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180488) · `ta`
-
-Ravi Karunanayake claims 90% of UNP members who left will return, emphasizing the party's power and criticizing political alliances.
-
-🟩
-
-Former Finance Minister and Colombo district leader Ravi Karunanayake has said that 90 per cent of the members who have left the UNP for various reasons will be reunited with the UNP.
-
-He said this while addressing a media briefing in Colombo.
-
-He also said that the party's members will be informed of the UNP people's power on May Day with the working workers.
-
-He said that the political coalition for narrow political and powerful purposes would never benefit the people and that the rapidly growing political alliances would fall quickly.
-
-He also said that when the United National Party was strong, the country was developed and the United National Party was in a state of disrepair.
-
-◼️
-
-[Data](articles/3ec9e48f.json)
-
-[Extended Data](ext_articles/3ec9e48f.ext.json)
-
----
-
-### Patient claims Rs.100 million from Keheliya, others for permanent loss of sight
-
-*2024-04-05 14:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Patient-claims-Rs-100-million-from-Keheliya-others-for-permanent-loss-of-sight/108-280250) · `en`
-
-Colombo, April 5 (Daily Mirror)- A patient who was subjected to permanent loss of sight due to the use of ‘Prednisolone Acetatean', eye drop used after cataract surgeries at a government hospital, has sent a Letter of Demand claiming a compensation Rs.100 million from Health Minister Keheliya Rambukwella and eight others for the damage caused to his eyes and possible threats to his life.
-
-The victim, Makkari Rajaratnam, a resident of Kandapola sent this Letter of Demand through Invictus Law Firm demanding compensation from Keheliya Rambukwella, Janaka Chandraguptha, National Medicine Regulatory Authority, Prof. S.D. Jayaratne, Dr. Vijith Gunasekera, Dr. Asela Gunawardene, Dr. Rohan Edirisinghe, Dr. Mahendra Seneviratne and Chamee Chemist (Pvt) Ltd of Yakkala.
-
-It has warned that legal action will be instituted if the money is not paid.
-
-...
-
-[Data](articles/1d3d1c35.json)
-
-[Extended Data](ext_articles/1d3d1c35.ext.json)
-
----
-
-### Damitha remanded
-
-*2024-04-05 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195335) · `si`
-
-Veteran actress Damitha Abeyratne and her husband are remanded until April 17.
-
-🟩
-
-Veteran actress, Damitha Abeyratne and her husband was remanded until April 17.
-
-◼️
-
-[Data](articles/5eb89a0a.json)
-
-[Extended Data](ext_articles/5eb89a0a.ext.json)
 
 ---

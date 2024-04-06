@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 13:18:03**
+As of **2024-04-06 13:33:54**
 
 ## Newspaper Stats
 
-*Scraped **17,477** Articles*
+*Scraped **17,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ tamilmirrorlk | 2,059
 adaderanalk | 2,107
 virakesarilk | 2,548
 dailymirrorlk | 2,674
-adaderanasinhalalk | 2,823
+adaderanasinhalalk | 2,824
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,475 (100.0%) of 17,477 articles have been extended.
+17,477 (100.0%) of 17,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### 20-20 ලෝක කුසලානය ජයගෙන වසර 10යි
+
+*2024-04-06 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195358) · `si`
+
+ශ්‍රී ලංකාව 2014 විස්සයි විස්ස ක්‍රිකට් ලෝක කුසලානය දිනා අදට (06) වසර 10ක් සපිරෙයි.
+
+ලසිත් මාලිංග ප්‍රමුඛ ශ්‍රී ලංකා කණ්ඩායම මෙම ජයග්‍රහණය වාර්තා කළේ ඉන්දියාව පරාජය කරමිනි.
+
+එවකට කාගේත් අවධානය දිනා ගත් මෙම අවසන් මහා තරගය ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වුණේ බංග්ලාදේශයේ ඩකා නුවර ජාතික ක්‍රිකට් ක්‍රීඩාංණයේදීය.
+
+තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 4ක් දැවී රැස් කළ ලකුණු සංඛ්‍යාව 130කි.
+
+ප්‍රබල පිතිකරු බලඇණියකින් යුක්ත වූ ඉන්දීය පිල මෙහිදී ශ්‍රී ලංකා පන්දු යවන්නන් මනාව පාලනය කළ අතර නායක ලසිත් මාලිංග සහ නුවන් කුලසේකර අවසන් පන්දුවාර කිහිපයේදී යොමු කළ වයිඩ් යෝකර් පන්දු ඉන්දීය පිතිකරුවන් අසරණ කළේය.
+
+ලකුණු 131ක ඉලක්කයක් හඹා යාමට පිටියට පිවිසි ශ්‍රී ලංකා ආරම්භක පිතිකරුවන් යුගල ලකුණු 41ක් තුළ දවා ගැනීමට ඉන්දීය පන්දු යවන්නන් සමත්විය.
+
+කුමාර් සංගක්කාර සහ තිසර පෙර්රා 5වන කඩුල්ලට පන්දු 32කදී නොබිඳුනු ලකුණු 56ක සබඳතාවක් ගොඩනගමින් ශ්‍රී ලංකා පිල ජය මාවත විවර කර දුනි.
+
+...
+
+[Data](articles/34cc657f.json)
+
+---
 
 ### U.S. National Security Advisor speaks with Sri Lankan counterpart
 
@@ -48,23 +72,33 @@ Sullivan and Ratnayake also discussed Sri Lanka’s ongoing efforts to complete 
 
 [Data](articles/d5c7f12f.json)
 
+[Extended Data](ext_articles/d5c7f12f.ext.json)
+
 ---
 
-### யாழில். ஒலிபெருக்கி சாதனத்தினுள் மறைத்து கஞ்சா கடத்தி சென்ற மூவர் கைது
+### In the jaffna. Three arrested for kidnapping cannabis inside the loudspeaker device
 
 *2024-04-06 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180581) · `ta`
 
-யாழ்ப்பாணத்தில், சிறிய ரக ஒலிபெருக்கி சாதனத்தினுள் (box) கஞ்சாவை மறைத்து கடத்தி சென்ற குற்றச்சாட்டில் மூவர் கைது செய்யப்பட்டுள்ளதுடன் , அவர்களிடம் இருந்து 18 கிலோ கஞ்சா போதைப்பொருளையும் பொலிஸார் மீட்டுள்ளனர்.
+In Jaffna, three were arrested for smuggling 18 kg of cannabis in a loudspeaker device. Two were detained in Chavakachcheri, and after investigations, a special raid in Semmani revealed the hidden cannabis. The detainees, from Mannar, are being investigated.
 
-சாவகச்சேரி பகுதியில் கடந்த 30 ஆம் திகதி 04 கிலோ கஞ்சா போதைப்பொருளுடன் கைது செய்யப்பட்ட இருவரை பொலிஸார் கைது செய்து நீதிமன்றில் முற்படுத்தி , 07 நாட்கள் பொலிஸ் தடுப்புக்காவலில் வைத்து விசாரணை செய்வதற்கு அனுமதி கோரி இருந்தனர். அதற்கு நீதிமன்று அனுமதி வழங்கி இருந்தது.
+🟩
 
-அவர்களிடம் முன்னெடுக்கப்பட்ட விசாரணைகளின் அடிப்படையில் , அவர்களிடம் இருந்து இரகசிய தகவல்களை பெற்று , பொலிஸ் புலனாய்வு பிரிவினர் சிறப்பு நடவடிக்கைகளை முன்னெடுத்தனர்.
+In Jaffna, three persons have been arrested on charges of kidnapping cannabis inside a small loudspeaker device and police have recovered 18 kg of cannabis drugs from them.
 
-இந்நிலையில் இன்றைய தினம் மோட்டார் சைக்கிள் ஒன்றில் கஞ்சா கடத்தி செல்லப்படுவதாக பொலிஸாருக்கு கிடைத்த ரகசிய தகவலின் அடிப்படையில் செம்மணி பகுதியில் விசேட சோதனை நடவடிக்கையை முன்னெடுத்த போது , சந்தேகத்திற்கு இடமான முறையில் மோட்டார் சைக்கிளில் பயணித்தவர்களை பொலிஸார் மறித்து சோதனையிட்டனர்.
+Police arrested two persons arrested in the Chavakachcheri area on the 30th of last month and demanded permission to investigate two days in police detention.. It was granted judicial permission.
+
+Based on the investigations carried out by them, the police intelligence unit took special measures from them and obtained confidential information from them.
+
+In the meantime, when a special raid was carried out in the Semmani area on the basis of confidential information received by the police that ganja was being smuggled into a motorcycle today, police searched the motorcycle passengers.
+
+At the time, the police found that the cannabis drug was hidden in a small loudspeaker device. When it was raided, they rescued the hidden cannabis.
 
 ...
 
 [Data](articles/48b98ab2.json)
+
+[Extended Data](ext_articles/48b98ab2.ext.json)
 
 ---
 
@@ -2145,35 +2179,5 @@ Galle police then arrested the suspect. Galle police said that the 39 -year -old
 [Data](articles/fd802609.json)
 
 [Extended Data](ext_articles/fd802609.ext.json)
-
----
-
-### Investigating police officer in Jaffna
-
-*2024-04-05 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/180536) · `ta`
-
-High-ranking police in Jaffna are investigating a violent gang that broke into four houses, leading to arrests and trials. A Tamil officer at the Kayts Police Station claims support. Photos of weapons, including swords, were found on some gang members. The police handed over four men to the forum after investigations.
-
-🟩
-
-Investigations are being carried out by high -ranking police officers on charges of supporting a violent gang in Jaffna.
-
-A few days ago, a violent gang that entered the Kayts police division had broken into four houses and fled.
-
-The next day, the violent mobs were trying to engage in violence in the area, while the four were caught when they tried to catch them, while others fled.
-
-While the residents are conducting investigations, a Tamil police officer who works at the Kayts Police Station has said that we are supporting us.
-
-At the same time, when the cabins were checked by the cabments, some of the violent gangs were found with photos with weapons, including swords.
-
-Following the handing over of the four men who had been caught by the Kayts police, the police arrested them and tried in the forum after investigations.
-
-At the same time, video recordings and weapons photos of the violent gangs have been brought to the notice of the magistrate through the lawyer.
-
-...
-
-[Data](articles/6f0cf7c8.json)
-
-[Extended Data](ext_articles/6f0cf7c8.ext.json)
 
 ---

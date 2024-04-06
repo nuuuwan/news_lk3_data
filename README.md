@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 12:49:21**
+As of **2024-04-06 13:03:38**
 
 ## Newspaper Stats
 
-*Scraped **17,474** Articles*
+*Scraped **17,475** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 973
 adalk | 1,466
 tamilmirrorlk | 2,059
 adaderanalk | 2,106
-virakesarilk | 2,546
+virakesarilk | 2,547
 dailymirrorlk | 2,674
 adaderanasinhalalk | 2,823
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,823
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,471 (100.0%) of 17,474 articles have been extended.
+17,474 (100.0%) of 17,475 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### கிளிநொச்சியில் 18 கிலோ கஞ்சாவுடன் ஒருவர் கைது!
+
+*2024-04-06 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180580) · `ta`
+
+மன்னாரில் உள்ள போதை ஒழிப்பு விசேட பிரிவினருக்கு கிடைத்த தகவலிற்கு அமைவாக குறித்த பிரிவினரால் மேற்கொள்ளப்பட்ட சுற்றி வளைப்பில் குறித்த கைது இடம்பெற்றுள்ளது.
+
+கிளிநொச்சி பொலிஸ் பிரிவிற்குட்பட்ட பொன்னகர் பகுதியில் வைத்தே சோதனை மேற்கொண்ட போது 18 கிலோ 470 கிராம் கஞ்சா குறித்த சந்தேக நபரிடம் இருந்து மீட்கப்பட்டுள்ளது.
+
+நள்ளிரவு கைது செய்யப்பட்ட சந்தேக நபரும், சான்று பொருட்களும் கிளிநொச்சி பொலிஸ் காவவில் உள்ள நிலையில் இன்று நீதிமன்றில் முற்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிசார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/3f42b697.json)
+
+---
 
 ### Three arrested in India with gold worth over INR 30mn smuggled from Sri Lanka
 
@@ -46,21 +62,29 @@ Following specific intelligence that foreign-origin gold was being smuggled into
 
 [Data](articles/e7919a45.json)
 
+[Extended Data](ext_articles/e7919a45.ext.json)
+
 ---
 
-### யாழில் வலையில் சிக்கிய 11 டொல்பின்கள் மீண்டும் கடலில் விடப்பட்டன ; மீனவர்களுக்கு பாராட்டு
+### 11 dolphins trapped in the trap in Jaffna were left in the sea;Praise the fishermen
 
 *2024-04-06 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180577) · `ta`
 
-யாழ்.வடமராட்சி கிழக்கு கட்டைக்காட்டில் நேற்று வெள்ளிக்கிழமை (05) கரைவலையில் அகப்பட்ட 11 டொல்பின்களும் மீண்டும் கடலில் விடப்பட்டன.
+11 dolphins trapped in Jaffna were safely rescued by fishermen and released back into the sea.
 
-கட்டைக்காடு பகுதியைச் சேர்ந்த அருமைத்துரை சம்மாட்டியின் கரைவலையில் வெள்ளிக்கிழமை காலை க 11 டொல்பின்கள் அகப்பட்டன.
+🟩
 
-குறித்த டொல்பின்கள் வலைக்குள் அகப்பட்டதை அறிந்த மீனவர்கள் பத்திரமாக 11 டொல்பின்களையும் உயிருடன் மீட்டு மீண்டும் கடலுக்குள் பாதுகாப்பாக விட்டனர்.
+The 11 dolphins caught in the Karawala yesterday (05) at the Eastern Building of the Jaffna.
+
+11 dolphins were caught on Friday morning at the Karawala of the Araumathurai Sammatti of the Kattaikkadu area.
+
+Knowing that the dolphins were caught in the web, the fishermen safely rescued 11 dolphins alive and became safe in the sea.
 
 ◼️
 
 [Data](articles/6dc64030.json)
+
+[Extended Data](ext_articles/6dc64030.ext.json)
 
 ---
 
@@ -105,6 +129,8 @@ While videos from across New York City showed shaking, a camera from the Statue 
 ...
 
 [Data](articles/1743b1fc.json)
+
+[Extended Data](ext_articles/1743b1fc.ext.json)
 
 ---
 
@@ -2153,29 +2179,5 @@ Reports indicate there was a significant increase in HIV with sexually active yo
 [Data](articles/271e9aef.json)
 
 [Extended Data](ext_articles/271e9aef.ext.json)
-
----
-
-### Court order on 51 vehicles
-
-*2024-04-05 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195343) · `si`
-
-The Colombo Magistrate's Court ordered the Commissioner General of Motor Traffic to prevent the transfer of 51 vehicles registered illegally from 2015 to 2019, following a request from the Bribery Commission.
-
-🟩
-
-The Colombo Magistrate's Court today issued an order to the Commissioner General of Motor Traffic today.
-
-The order was issued by the Colombo Chief Magistrate Prasanna Alwis, considering a request made by the Bribery Commission.
-
-The Bribery Commission says that investigations are conducted in relation to the registration of 51 vehicles illegal in 2015 to 2019.
-
-The court issued a request made by the Bribery Commission to issue the authorization to prevent the transfer of the vehicles to other parties.
-
-◼️
-
-[Data](articles/d2711b0b.json)
-
-[Extended Data](ext_articles/d2711b0b.ext.json)
 
 ---

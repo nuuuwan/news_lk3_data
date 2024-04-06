@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 22:18:17**
+As of **2024-04-06 22:34:32**
 
 ## Newspaper Stats
 
-*Scraped **17,523** Articles*
+*Scraped **17,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,84 @@ islandlk | 960
 economynextcom | 973
 adalk | 1,468
 tamilmirrorlk | 2,063
-adaderanalk | 2,116
+adaderanalk | 2,117
 virakesarilk | 2,555
 dailymirrorlk | 2,680
-adaderanasinhalalk | 2,840
+adaderanasinhalalk | 2,841
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,522 (100.0%) of 17,523 articles have been extended.
+17,523 (100.0%) of 17,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### இலங்கைக்கான பயண ஆலோசனைகளை திருத்தியது பிரித்தானியா
+### Rare celestial spectacle as massive ‘Devil’s Comet’ returns after 71 years
+
+*2024-04-06 22:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98481/rare-celestial-spectacle-as-massive-devils-comet-returns-after-71-years) · `en`
+
+Sri Lankans will have the opportunity to witness a rare celestial spectacle of the Devil’s Comet, scientifically named 12P/Pons-Brooks, which passes by the Earth once in 71 years.
+
+The Devil’s Comet will be positioned near the Jupiter, making it visible to the naked eye during the total solar eclipse on April 08.
+
+A rare and massive comet, known for its “horned” shape and has a 71-year orbit, was observed for the first time in 1300 Anno Domini by a group of Chinese astronomers.
+
+However, it was officially recognized after it was observed by the French astronomer Jean-Louis Pons in the 19th century and rediscovered by British American astronomer William Brooks in 1883.
+
+The massive comet is also known as the “devil comet” due to its formation of two “horns” made up of ice and gas and periodic explosions.
+
+According to NASA, the 18.6-mile-wide ‘Devil’s Comet’ is expected to reach its closest point to the Sun and shine the brightest on the 21st of April.
+
+...
+
+[Data](articles/626495a6.json)
+
+---
+
+### බොරලැස්ගමුව කැලඹුණු ඝාතනයේ සුලමුල එළියට
+
+*2024-04-06 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195376) · `si`
+
+බොරලැස්ගමුව ප්‍රදේශයේදී පුද්ගලයෙකුගේ ගෙළ කපා ඝාතනය කිරීමේ සිද්ධියේ සැකකරු පානදුර ප්‍රදේශයේදී පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු පොලීසියට පවසා ඇත්තේ ඝාතනය කරන ලද පුද්ගලයා සහ සිය බිරිඳ අතර වසර 15ක් තිස්සේ අනියම් සම්බන්ධතාවයක් ඇති බවය.
+
+පසුගිය දිනක බිරිඳ නිවසින් පිටව ගිය බවත් ඇය ඔහු සමග සිටිනු ඇතැයි යන සැකය මත තමන් මෙම ඝාතනය කළ බවත් සැකකරු පොලීසිය හමුවේ පාපොච්චාරණය කර තිබේ.
+
+සැකකරු වැඩිදුරටත් පවසා ඇත්තේ තමන්ට වයස අවුරුදු 24ක සහ 17 ක දියණියන් දෙදෙනෙකු සිටින බවත් ඔවුන්ට සමාජයෙන් සිදුවන අවමන් ඉවසාගැනීමට නොහැකිව මෙම අපරාධය සැලසුම් කළ බවත්ය.
+
+ඒ අනුව බෙල්ලන්තර හංදිය ප්‍රදේශයේ සිට ඝාතනයට ලක්වූ පුද්ගලයාගේ ත්‍රිරෝද රථය පසුපස හඹාවිත් බොරලැස්ගමුව දේවාලමුල්ල ප්‍රදේශයේදී ඔහුගේ ගෙළට මන්නයකින් කොටා මෙම ඝාතනය කළ බවත් ඔහු පවසා තිබේ.
+
+ඝාතනය සිදුකිරීමෙන් අනතුරුව තමන් පළායන අවස්ථාවේ යතුරුපැදිය අනතුරට ලක්වූ බව සැකකරු පවසා ඇති අතර ඔහුගේ තොරතුරු මත සිදුකළ විමර්ශනයේදී ඝාතනයට යොදාගත් මන්නා පිහිය ද පිරිවෙන පාරේ කාණුවක තිබී සොයාගෙන ඇත.
+
+...
+
+[Data](articles/a8621009.json)
+
+---
+
+### Britain amended travel suggestions to Sri Lanka
 
 *2024-04-06 21:49:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கான-பயண-ஆலோசனைகளை-திருத்தியது-பிரித்தானியா/175-335674) · `ta`
 
-அவசரகால மருத்துவச் சேவைகளுக்கான அணுகல், நாட்டிற்குள் நுழையும் போது பாதுகாப்புத் தேவைகள், வீதிப் பாதுகாப்பு, நாட்டின் பாதுகாப்பு நிலைமை மற்றும் சுகாதார வசதிகளுக்கான அணுகல் ஆகிய விடயங்களில் ஏற்கனவே அறிவிக்கப்பட்ட தகவல்களை பிரித்தானியா மாற்றியுள்ளது.
+Britain updated travel advice for Sri Lanka, removing concerns about food, fuel, and drug shortages, and addressing health service challenges, including medical equipment shortages.
 
-அதற்கமைய உணவு, எரிபொருள் மற்றும் மருந்துத் தட்டுப்பாடு குறித்து முந்தைய ஆலோசனையில் காணப்பட்ட தகவல்கள் இந்த திருத்தப்பட்ட பயண ஆலோசனையில் இருந்து நீக்கப்பட்டுள்ளன.
+🟩
 
-இதனைத் தவிர, மருத்துவ உபகரணங்களின் பற்றாக்குறை போன்ற சுகாதார சேவைகளில் உள்ள சவால்களும் நீக்கப்பட்டுள்ளன.  R
+Britain has changed the information already announced on issues such as access to emergency medical services, security requirements, road safety, road safety, country security situation and access to health facilities.
+
+Accordingly, the information found in the previous consultation on food, fuel and drug shortage has been removed from this revised travel suggestion.
+
+In addition, challenges in health services, such as the shortage of medical equipment, have been eliminated.R
 
 ◼️
 
 [Data](articles/d2eb0646.json)
+
+[Extended Data](ext_articles/d2eb0646.ext.json)
 
 ---
 
@@ -2233,39 +2283,5 @@ Additionally, in the preceding season, concerted efforts were made to raise awar
 [Data](articles/127841ce.json)
 
 [Extended Data](ext_articles/127841ce.ext.json)
-
----
-
-### Power and Energy Ministry reviews comprehensive fuel strategy for next year
-
-*2024-04-05 23:38:23* · [`dailyftlk`](https://www.ft.lk/business/Power-and-Energy-Ministry-reviews-comprehensive-fuel-strategy-for-next-year/34-760385) · `en`
-
-Power and Energy Minister Kanchana Wijesekera chaired a meeting to assess and strategise the country’s fuel supply dynamics for the next 12 months.
-
-Addressing critical aspects ranging from fuel cargo plans to financial balance sheets, the meeting aimed to ensure uninterrupted fuel supply, particularly during holidays and address pertinent issues related to the Ceylon Petroleum Corporation (CPC).
-
-Key highlights of the meeting included a thorough review of fuel cargo payment plans, Iranian credit line payments, storage capacity additions, jet fuel supply, fuel pricing formula and other issues related to CPC.
-
-◼️
-
-[Data](articles/43b7f018.json)
-
-[Extended Data](ext_articles/43b7f018.ext.json)
-
----
-
-### Embassy of Sri Lanka in Vienna promotes Ceylon tea and tourism in Austria and Hungary
-
-*2024-04-05 23:37:54* · [`dailyftlk`](https://www.ft.lk/business/Embassy-of-Sri-Lanka-in-Vienna-promotes-Ceylon-tea-and-tourism-in-Austria-and-Hungary/34-760384) · `en`
-
-The Embassy of Sri Lanka in Austria organised two Sri Lanka destination promotion events at the famous Lugner City Shopping Centre and Europe Westfield Shopping City Sud in Vienna on 15 and 16 March respectively.
-
-These two events were organised in parallel to Sri Lanka’s participation at two key European travel and trade fairs, namely, Ferien Messe Wien 2024 in Austria and SIRHA Budapest International Trade Fair in Hungary by the Sri Lanka Tourism Promotion Bureau and the Sri Lanka Tea Board.
-
-...
-
-[Data](articles/a6b8db01.json)
-
-[Extended Data](ext_articles/a6b8db01.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 18:20:18**
+As of **2024-04-06 18:33:34**
 
 ## Newspaper Stats
 
-*Scraped **17,507** Articles*
+*Scraped **17,509** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 959
 economynextcom | 973
 adalk | 1,468
 tamilmirrorlk | 2,061
-adaderanalk | 2,112
+adaderanalk | 2,114
 virakesarilk | 2,555
 dailymirrorlk | 2,676
 adaderanasinhalalk | 2,835
@@ -26,31 +26,73 @@ adaderanasinhalalk | 2,835
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,506 (100.0%) of 17,507 articles have been extended.
+17,507 (100.0%) of 17,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### බස් චණ්ඩියාට වැඩ වැරදුණු හැටි
+### Top ADB official, Minister Kanchana discuss regional power cooperation
+
+*2024-04-06 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98478/top-adb-official-minister-kanchana-discuss-regional-power-cooperation) · `en`
+
+Takeo Konishi, the Director General of South Asia Department of the Asian Development Bank (ADB) has called on Sri Lanka’s Minister of Power & Energy Kanchana Wijesekera.
+
+During the meeting, the progress of electricity sector reforms, policy loans to be extended, and ongoing programs with ADB funding including the hydropower plant in Moragolla were taken up for discussion.
+
+In addition, the renewable energy programs to be restructured, regional power cooperation, new finance schemes and grants for rooftop solar panels for small- and medium-sized enterprises (SMEs) and low-income groups were also discussed at length.
+
+In attendance were ADB’s Country Director Takafumi Kadono and officials of the ministry, Ceylon Electricity Board (CEB), and ADB.
+
+◼️
+
+[Data](articles/50f71545.json)
+
+---
+
+### Nine more underworld figures arrested
+
+*2024-04-06 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98477/nine-more-underworld-figures-arrested) · `en`
+
+Police have arrested 09 more members of organized criminal gangs on Friday (05), under the operation launched to curb the underworld.
+
+The arrested individuals have been identified as the residents of Colombo, Galle, Ragama, Moratuwa, Bandaragama and Wadduwa, the police said.
+
+Police mentioned that the arrestees included the members of the gangs led by notorious criminals such as “Pukudu Kanna”, “Podi Lassi”, “Ganemulla Sanjeewa”, “Heenatiyana Sankha”, “Kudu Anju”, “Kudu Salindu” and “Mathugama Gavariya”.
+
+◼️
+
+[Data](articles/2edb6cb0.json)
+
+---
+
+### Bus failure to go to chinge
 
 *2024-04-06 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195370) · `si`
 
-රථවාහන පොලිස් නිලධාරියෙකු ඉදිරියේදීම  බස් රියදුරෙකු විසින් වෑන් රථ රියදුරෙකුට පා පහරක් එල්ලකරන අයුරු දැක්වෙන වීඩියෝවක් මේ දිනවල සමාජ මාධ්‍ය හුවමාරු විය.
+A bus driver was arrested for a road incident involving a video shared on social media. Released on bail, he must remain in police custody until the case concludes.
 
-එම අවස්ථාවේ බස් රථයේ විශාල මගීන් ප්‍රමාණයක් සිටීම හේතුවෙන් ඔහුව තාවකාලිකව මුදාහැර අද දිනයේ පොලීසිය හමුවේ පෙනී සිටින ලෙසට දැනුම්දුන්නද ඔහු එය මගහැර ගොස් තිබුණි.
+🟩
 
-ඒ අනුව සැකකාර බස් රථ රියදුරා පිළියන්දල මිරිස්වත්ත ප්‍රදේශයේදී පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබුණි.
+Social media exchanged a video of a bus driver to a bus driver by a bus driver in the presence of a traffic police officer.
 
-අනතුරුව ඔහුව කැස්බෑව මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කර තිබුණු අතර එහිදී සැකකාර රියදුරු රුපියල් ලක්ෂයක ශරීර අප මත මුදාහැරීමට නියෝග කර ඇත.
+He had been temporarily released and asked him to appear before the police today as he had large passengers.
 
-කෙසේ වෙතත් සැකකාර රියදුරුගේ රියදුරු බලපත්‍රය එම නඩුව අවසන් වනතුරු පොලීසිය භාරයේ තබාගන්න ලෙසට අධිකරණය නියෝග කර තිබේ.
+The suspect was arrested by police in the Miriswatta area in Piliyandala.
 
-සිය රෝගී දියණිය වෑන් රථයකින් රෝහල වෙත රැගෙන යන අවස්ථාවේ සැකකාර බස් රථ රියදුරු පැදවූ 120 හොරණ කොළඹ බස් රථයට මාර්ගයේ ඉඩ නොදුන්නාට උරණ වී එම බස් රථය වෑන් රථය අනතුරට ලක්කිරීමට උත්සාහ කර තිබුණි.
+He was produced before the Kesbewa Magistrate's Court and has been released to the release of Rs 100,000.
 
-...
+However, the court ordered to keep the police in custody until the case was completed.
+
+The bus driver was not allowed by the bus driver at the Colombo bus at the time of the road at the Colombo bus at the time of the road in the Colombo bus.
+
+The suspect by the bus driver who stops the scene when he was taken to the scene, was recorded in a car on the road.
+
+◼️
 
 [Data](articles/8b8913f4.json)
+
+[Extended Data](ext_articles/8b8913f4.ext.json)
 
 ---
 
@@ -2173,57 +2215,5 @@ Dissanayake appealed to Tamil politicians in the North saying that if they were 
 [Data](articles/32a07b1d.json)
 
 [Extended Data](ext_articles/32a07b1d.ext.json)
-
----
-
-### A person in danger is a tense situation
-
-*2024-04-05 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195351) · `si`
-
-A man was hit by a motorcycle in Bulathsinhala, Haltle town, and died instantly. The motorcyclist was arrested.
-
-🟩
-
-Due to an accident, Bulathsinhala was unrest in Haltle town last night.
-
-A man was hit by a motorcycle from Ingiriya to Bulathsinhala, Bulathsinhala around 8.30 pm.
-
-Our correspondent stated that the man was hit by the motorcycle while he was priesting and he died on the spot.
-
-The police intervened and tried to climb fire, but also the motorcycle was completely destroyed.
-
-The cause of the accident has been revealed, and the motorcyclist was arrested by the Bulathsinhala police.
-
-◼️
-
-[Data](articles/e5597205.json)
-
-[Extended Data](ext_articles/e5597205.ext.json)
-
----
-
-### A series of counseling to New Year festivals
-
-*2024-04-05 21:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195350) · `si`
-
-Minister Vidin Wickramanayaka suggests integrating culture and sports into New Year festivals, emphasizing ethical conduct and creativity. Consultations have been given to Divisional Secretaries, requiring festival and sports events to be registered with the Divisional Secretariat and police approval for loudspeakers. DIG Nihal Talduuwa highlights the importance of adhering to laws during the festivities.
-
-🟩
-
-Minister of Buddha Sasana, Religious and Culture, Minister Vidin Wickramanayaka said that if the culture and sports were incorporated into the culture of the New Year's Culture, the culture of the New Year's Culture.
-
-He was speaking at a press conference held today (05), hosting the unethical features of the New Year festivals and proposals on creativity collection.
-
-A series of consultations relating to the New Year festivals have already been provided to the Divisional Secretaries.
-
-Accordingly, festivals and sports included in the year celebrations should be registered and registered with the relevant Divisional Secretariat and then approval of the police to use loudspeakers.
-
-Police Media Spokesperson DIG Nihal Talduuwa said that he said that during the year, the laws of obseribility as well as the laws of pornographic events.
-
-◼️
-
-[Data](articles/eddd8ac7.json)
-
-[Extended Data](ext_articles/eddd8ac7.ext.json)
 
 ---

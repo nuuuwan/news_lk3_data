@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 12:33:30**
+As of **2024-04-06 12:49:21**
 
 ## Newspaper Stats
 
-*Scraped **17,471** Articles*
+*Scraped **17,474** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 959
 economynextcom | 973
 adalk | 1,466
 tamilmirrorlk | 2,059
-adaderanalk | 2,104
-virakesarilk | 2,545
+adaderanalk | 2,106
+virakesarilk | 2,546
 dailymirrorlk | 2,674
 adaderanasinhalalk | 2,823
 
@@ -26,31 +26,85 @@ adaderanasinhalalk | 2,823
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,469 (100.0%) of 17,471 articles have been extended.
+17,471 (100.0%) of 17,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### ලොවම කලඹමින් ලිබර්ටි ප්‍රතිමාව සෙලවෙයි
+### Three arrested in India with gold worth over INR 30mn smuggled from Sri Lanka
+
+*2024-04-06 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98469/three-arrested-in-india-with-gold-worth-over-inr-30mn-smuggled-from-sri-lanka) · `en`
+
+Officials of India’s Directorate Revenue Intelligence (DRI) have seized 4.9 kilograms of foreign-origin gold, mid sea near the Vedhalai coast, Mandapam in Ramanathapuram district.
+
+The operation was conducted jointly with the Indian Coast Guard (ICG) and Customs Preventive Unit (CPU), Ramanathapuram, as per a press release.
+
+Following specific intelligence that foreign-origin gold was being smuggled into India from Sri Lanka through the Vedhalai coast by a gang using a fishing boat, surveillance was stepped up along coastal pockets. The movement of suspected fishing boats was closely monitored from April 3, and in the early hours of April 4, 2024, officers identified a boat mid-sea and pursued it in an ICG vessel. As they were getting closer, the team saw that a consignment was thrown into the sea by one of the persons on board the suspected boat.
+
+...
+
+[Data](articles/e7919a45.json)
+
+---
+
+### யாழில் வலையில் சிக்கிய 11 டொல்பின்கள் மீண்டும் கடலில் விடப்பட்டன ; மீனவர்களுக்கு பாராட்டு
+
+*2024-04-06 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180577) · `ta`
+
+யாழ்.வடமராட்சி கிழக்கு கட்டைக்காட்டில் நேற்று வெள்ளிக்கிழமை (05) கரைவலையில் அகப்பட்ட 11 டொல்பின்களும் மீண்டும் கடலில் விடப்பட்டன.
+
+கட்டைக்காடு பகுதியைச் சேர்ந்த அருமைத்துரை சம்மாட்டியின் கரைவலையில் வெள்ளிக்கிழமை காலை க 11 டொல்பின்கள் அகப்பட்டன.
+
+குறித்த டொல்பின்கள் வலைக்குள் அகப்பட்டதை அறிந்த மீனவர்கள் பத்திரமாக 11 டொல்பின்களையும் உயிருடன் மீட்டு மீண்டும் கடலுக்குள் பாதுகாப்பாக விட்டனர்.
+
+◼️
+
+[Data](articles/6dc64030.json)
+
+---
+
+### The statue of Liberty shakes
 
 *2024-04-06 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195357) · `si`
 
-අමෙරිකාවේ නිව්යෝර්ක් ඇතුළු නැගෙනහිර වෙරළ තීරයට ආසන්න නගරවලට රික්ටර් මාපකයේ ඒකක 4.8ක භූකම්පනයකින් බලපෑම් එල්ල විය.
+The Statue of Liberty shook due to a 4.8 Richter scale earthquake affecting New York and the Eastern US coast, felt in Philadelphia around 10:23 am. This was the third largest earthquake in the region in the last 50 years, with 11 aftershocks, but no casualties or property damage.
 
-එරට වේලාවෙන් උදෑසන 10.23ට පමණ සිදුවූ එම කම්පනය ෆ්ලඩෙල්ෆියා සිට නිව්යෝර්ක් දක්වා දැනුණු බව විදෙස් මාධ්‍ය වාර්තා කර තිබුණි.
+🟩
 
-මේ අතර ප්‍රධාන භූකම්පනයෙන් පසුව පසු කම්පන 11ක් පමණ වාර්තා වී තිබුණු බවද විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Nearly 4.8 units of the Richter thinkens were affected to the towns of New York and Eastern coast of America.
 
-විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත්තේ මෙය ගෙවුණු දශක පහක කාලය තුළ කලාපයෙන් වාර්තාවූ තෙවන විශාලතම භූකම්පනය බවය.
+Foreign media reports that the vibe felt the trauma from Flodelphia from Flodelfia around 10.23 am.
 
-කෙසේ වුවද භූකම්පනයෙන් ජීවිත හෝ දේපොළ හානියක් වාර්තා වී නොමැත.
+Meanwhile, after the main earthquake, about 11 shocks were reported.
 
-එම කම්පනයත් සමග ලෝක ප්‍රසිද්ධ අමෙරිකාවේ ලිබර්ටි ප්‍රතිමාව සෙලවුණු අයුරු විදෙස් මාධ්‍ය වාර්තා කර තිබුණේ මේ අයුරින්.
+Foreign journalists have reported that this is the third largest earthquake recorded in the region over the past five decades.
+
+However, there is no loss of life or property damage from the earthchflow.
+
+It was in this way that the World famous American was shaken by the world famous Americans with that trauma.
 
 ◼️
 
 [Data](articles/f4298445.json)
+
+[Extended Data](ext_articles/f4298445.ext.json)
+
+---
+
+### Statue of Liberty shakes during earthquake, day after lightning struck its torch
+
+*2024-04-06 11:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98468/statue-of-liberty-shakes-during-earthquake-day-after-lightning-struck-its-torch) · `en`
+
+The Statue of Liberty was struck by lightening on Wednesday and less than 48 hours later, the famous New York City structure survived a 4.8 magnitude earthquake. Social media users posted videos of the centuries old copper structure shaking as a quake sent tremors across the area.
+
+Live cams across NYC, including the one atop the Statue of Liberty, captured Friday’s earthquake and its aftershocks in real time. The initial quake’s epicenter was reported in Lebanon in New Jersey, about 50 miles west of Manhattan. New York City, Philadelphia and Boston felt the tremors around 10:23 AM local time, the United States Geological Survey (USGS) noted.
+
+While videos from across New York City showed shaking, a camera from the Statue of Liberty’s torch covered the earthquake.
+
+...
+
+[Data](articles/1743b1fc.json)
 
 ---
 
@@ -545,6 +599,8 @@ Sri Lanka declared a default in April 2022, but under international practice, mu
 ...
 
 [Data](articles/ab39e031.json)
+
+[Extended Data](ext_articles/ab39e031.ext.json)
 
 ---
 
@@ -2121,79 +2177,5 @@ The court issued a request made by the Bribery Commission to issue the authoriza
 [Data](articles/d2711b0b.json)
 
 [Extended Data](ext_articles/d2711b0b.ext.json)
-
----
-
-### Kallum, Kamudu in Nuwara Eliya
-
-*2024-04-05 16:52:55* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළියේ-ගෝවා-අනුරාධපුරයේ-වැවූ-කැලුම්/11-408972) · `si`
-
-A young farmer in Anuradhapura successfully cultivates cabbage seeds from Nuwara Eliya, marking a first in Ceylon. Despite challenging weather, the crop is ready to harvest. Sanjeewa Kelum Dasasanayake, the 29-year-old, aims to revolutionize farming in the region.
-
-🟩
-
-A variety of cabbage seeds growing in Nuwara Eliya for the first time in the history of Ceylon has grown to a young farmer in Anuradhapura.
-
-This experiment was residing in the Mahamigaswewa area. Sanjeewa Kamum Dissanayake is 29 youth
-
-Sanjeewa Kelum Dasasanayake said that Sanjeewa Dasasanayake was Rs.
-
-The young man has been cultivated and cultivated a variety of cabbage grown in Nuwara Eliya.. This is about to harvest by now. Despite the fact that Rajarata has had a weather conditions, the young man appears as a Cultivation at Nuwara Eliya.
-
-Cultivation of New Farming Problems from an early age as a young manHe said that he had a success of the cabbage in Anuradhapura district that he was suitable for the first time.
-
-Sanjeewa Kelum said that other areas that cabbage seeds grown in Nuwara Eliya cannot be grown in other areas
-
-This youth was successfully carried out and said that the result of the three-month-to-three-month-olds the target was fifteen
-
-...
-
-[Data](articles/3cffdd96.json)
-
-[Extended Data](ext_articles/3cffdd96.ext.json)
-
----
-
-### Urgent meeting of SLFP politburo to be convened?
-
-*2024-04-05 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98452/urgent-meeting-of-slfp-politburo-to-be-convened) · `en`
-
-Senior Vice President of Sri Lanka Freedom Party (SLFP) Minister Nimal Siripala de Silva has requested the party’s Acting General Secretary to convene the SLFP’s politburo on April 08.
-
-At the said politburo meeting, the party’s future endeavours, against the backdrop of the enjoining order imposed on SLFP chairman and former President Maithripala Sirisena, are expected to be taken up for discussion.
-
-On Thursday (04), the Colombo District Court issued an enjoining order to be in effect until April 18, preventing Sirisena from functioning as the SLFP chairman, following a complaint filed by former President Chandrika Bandaranaike Kumaratunga.
-
-However, Sirisena has reacted, saying that he intends to present facts before the court regarding the matter.
-
-◼️
-
-[Data](articles/5f6c85a5.json)
-
-[Extended Data](ext_articles/5f6c85a5.ext.json)
-
----
-
-### For the Plantation Administration Division, uneducated youth in the garden - Bharat Arulzamy
-
-*2024-04-05 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180535) · `ta`
-
-Bharat Arulzamy, Chairman of the Plantation Human Resources Development Fund, addressed the 48th anniversary of the People's Plantation in Colombo, highlighting the integration of youth and women into the administrative division of gardens like Handana, Mountjin, Lulkandura, and Rahatungoda. He praised the plantation sector's contribution to Sri Lanka's economy and its workers, acknowledging their sacrifices and the challenges they face, including unresolved rights and facilities. Arulzamy emphasized the need for the human resources sector to improve its capital to support industry development and the importance of youth and women in the plantation industry's growth.
-
-🟩
-
-The 48th anniversary of the People's Plantation was held at the Chief Office in Colombo. Chairman of the Plantation Human Resources Development Fund, Bharat Arulzamy, was the special guest at the event chaired by Wing Commander Bhuvanaka Abeyasuriya.
-
-Minister of Hon.. Accordingly, the first phase of the youth and women was incorporated into the administrative division to the gardens such as Handana, Mountjin, Lulkandura, Rahatungoda.
-
-Speaking on the occasion, Bharat Arulzamy said, 'I would like to congratulate the people's plantation, the leader of the Plantation and the General Manager of the General Manager, Pradeep, and all the officials.
-
-I would like to thank the plantation workers and their families who were the backbone of the development of this 48 -year route.
-
-...
-
-[Data](articles/ffa97f86.json)
-
-[Extended Data](ext_articles/ffa97f86.ext.json)
 
 ---

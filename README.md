@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 16:02:58**
+As of **2024-04-06 16:18:06**
 
 ## Newspaper Stats
 
-*Scraped **17,495** Articles*
+*Scraped **17,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 959
 economynextcom | 973
 adalk | 1,468
 tamilmirrorlk | 2,059
-adaderanalk | 2,109
-virakesarilk | 2,553
+adaderanalk | 2,110
+virakesarilk | 2,554
 dailymirrorlk | 2,676
 adaderanasinhalalk | 2,830
 
@@ -26,41 +26,91 @@ adaderanasinhalalk | 2,830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,492 (100.0%) of 17,495 articles have been extended.
+17,495 (100.0%) of 17,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### பிரசவ அறையில் தந்தைக்கு அனுமதி!
+### இலங்கையின் கடன்கொடுப்பனவை  2028 வரை இடைநிறுத்த கடன்வழங்கிய நாடுகள் தீர்மானம் - சர்வதேச ஊடகம்
+
+*2024-04-06 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180595) · `ta`
+
+இலங்கையின் மீள செவுத்தவேண்டிய கடன்களை 2028ம் ஆண்டுவரை இடைநிறுத்துவது குறித்த இறுதிபேச்சுவார்த்தைகளில் இலங்கைக்கு கடன்வழங்கிய நாடுகள் ஈடுபட்டுள்ளதாக தெரியவருவதாக நிக்கேய் ஏசியா தெரிவித்துள்ளது.
+
+இலங்கையில் சீனாவின் செல்வாக்கு அதிகரிப்பதை தடுப்பதற்காக ஜப்பான் உட்பட நாடுகள் முயற்சிகளை மேற்கொண்டுள்ள நிலையிலேயே இந்த பேச்சுவார்த்தைகள் இடம்பெறுவதாக நிக்கேய் ஏசியா தெரிவித்துள்ளது.
+
+கடன்வழங்கிய நாடுகளுடன் பேச்சுவார்த்தைகள் முடிவடைந்துவிட்டன அடுத்த சில வாரங்களில் முழுமையான அறிவிப்பு வெளியாகும் என இலங்கையின் தேசிய பாதுகாப்பு விடயங்களிற்கான ஆலோசகர் சாகலரத்நாயக்க தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/7d95a081.json)
+
+---
+
+### Four Pakistanis arrested in Nepal for taking Sri Lankans hostage
+
+*2024-04-06 15:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98474/four-pakistanis-arrested-in-nepal-for-taking-sri-lankans-hostage-) · `en`
+
+Four Pakistani nationals have been arrested in Nepal for taking hostage four Sri Lankan citizens on the pretext of sending them to different European countries for jobs, a senior Nepali police officer said on Friday.
+
+Kathmandu Valley Crime Investigative Department of Nepal Police arrested the four Pakistani nationals based on a tip-off on Thursday (04), said the Superintendent of Police, Nakul Pokharel.
+
+The Pakistani nationals, between the age of 42 and 62, charged millions of rupees from the four Sri Lankan citizens with the false promise of providing jobs in European countries, including Canada and Romania, the police said.
+
+The Sri Lankans, who were brought from their home country, were beaten, tortured and threatened by the Pakistanis.
+
+Their passports were also seized as the Pakistanis took them hostage at different hotels in Kathmandu.
+
+Police said arrangements are being made to send them back to Sri Lanka.
+
+...
+
+[Data](articles/2f994fb5.json)
+
+---
+
+### Father allowed in the maternity room!
 
 *2024-04-06 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180593) · `ta`
 
-கொழும்பு காசல் மகளிர் வைத்தியசாலையில் பிரசவத்தின்போது தாயிற்கு தந்தை துணைக்கு இருக்க  அனுமதிக்கும்  புதிய திட்டம் ஆரம்பிக்கப்படவுள்ளது.
+Colombo Women's Hospital launches a program allowing mothers to accompany during delivery.
 
-இந்த திட்டத்தினூடாக தாய்மார்களுக்கு ஏற்ற  சூழலில் குழந்தை பிறக்க வழிவகுப்பதோடு, பிரசவத்தின்போது  தந்தை துணையாக  இருக்க வாய்ப்பளிக்கிறது.
+🟩
+
+A new program will be launched to allow the mother to be a companion during delivery at the Colombo Women's Hospital in Colombo.
+
+Through this program, the mother can give birth to a child and gives birth to the child during childbirth.
 
 ◼️
 
 [Data](articles/9dfe3383.json)
 
+[Extended Data](ext_articles/9dfe3383.ext.json)
+
 ---
 
-### කැබ් රථයක් දුම්රියේ ගැටෙයි
+### A cab collides with train
 
 *2024-04-06 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195365) · `si`
 
-වවුනියාව ඕමන්ත ප්‍රදේශයේ අනාරක්ෂිත දුම්රිය හරස් මාර්ගයකදී කැබ් රථයක් දුම්රියේ ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+A cab collided with a train at an unprotected crossing in Vavuniya, Omanthai, injuring the driver. Residents blame previous accidents on missing railway gates.
 
-අනතුරින් තුවාල ලැබූ කැබ් රථයේ රියදුරු ප්‍රතිකාර සඳහා වවුනියාව රෝහලට ඇතුළත් කර ඇත.
+🟩
 
-ප්‍රදේශවාසීන් පවසන්නේ මීට පෙරද එම ස්ථානයේ අනතුරු සිදුවී ඇති බවත් නිසි පරිදි දුම්රිය ගේට්ටු මුරකරුවන් නොමැති වීම හේතුවෙන් මෙම අනතුරු සිදුවන බවත්ය.
+A cab had accidents at an unprotected railway crossing in Omanthai area in Vavuniya.
 
-අද උදෑසන අනුරාධපුරය සිට යාපනය බලා ධාවනය වූ දුම්රියේ ගැටීමෙන් මෙම කැබ් රථය මෙලෙස අනතුරට ලක්ව තිබේ.
+The driver of the cab injured in the accident has been admitted to the Vavuniya Hospital.
+
+The residents of the area say that the accidents have been held before and that these accidents are held as a result of lack of railway gates.
+
+The cab was thrashed by a train traveling from Anuradhapura to Jaffna this morning.
 
 ◼️
 
 [Data](articles/508f9386.json)
+
+[Extended Data](ext_articles/508f9386.ext.json)
 
 ---
 
@@ -110,23 +160,31 @@ Accordingly, a 79-year-old man has been arrested by police from Waikkala area wh
 
 ---
 
-### உடப்புஸ்ஸலாவையில் வீடொன்றில் இருந்து இரு சடலங்கள் மீட்பு
+### Two bodies recovery from a house in Udapussalawa
 
 *2024-04-06 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180589) · `ta`
 
-உடப்புஸ்ஸலாவை பொலிஸ் பிரிவுக்குட்பட்ட மடுல்ல பாஹலகம பகுதியில் வீடொன்றில் இருந்து இரு சடலங்கள் இன்று சனிக்கிழமை (06) காலை மீட்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+In Udappussalawa, two bodies were found in a house, believed to be a mother and her 42-year-old lover. The mother's husband discovered their relationship and had a fight, leading to the incident. The police are investigating if the deaths were murder or accidental.
 
-42 வயதான மூன்று பிள்ளைகளின் தாய் மற்றும் 39 வயதுடைய திருமணமாகாத ஆண்  ஆகிய இருவரே வீட்டில் தூக்கில் தொங்கிய நிலையில் சடலமாக மீட்கப்பட்டுள்ளனர்  என சம்பவம் தொடர்பில் விசாரணை செய்து வரும் உடப்புஸ்ஸலாவ பொலிஸார் தெரிவித்தனர்.
+🟩
 
-மேலும் இந்த  சம்பவத்தில் உயிரிழந்துள்ள மூன்று பிள்ளைகளின் தாயிற்கும், இவருடன் உயிரிழந்த திருமணமாகாத ஆணுக்கும் தகாத உறுவு இருந்து வந்துள்ளதாக விசாரணையில் தெரிய வந்துள்ளது.
+Two bodies were recovered from a house in Madula Phakalagama area belonging to the Udappussalawa police division this morning, police said.
 
-அதேநேரத்தில் இவ் இருவருக்குமிடையில் இருந்து வந்த தகாத உறவு பெண்ணின் கணவருக்கு தெரிய வந்து கடந்த  4 ஆம் திகதி மாலை சண்டை இடம்பெற்றுள்ளது.
+The mother of a 42 -year -old mother of three children and a 39 -year -old man have been found dead at home, Udapussalawa police said.
 
-இதையடுத்து குறித்த தாய் தனது வீட்டை விட்டு தகாத உறவை பேணி வந்த நபருடன் சென்றுள்ள நிலையில், இவ் இருவரும் வீடு ஒன்றில் தூக்கில் தொங்கிய நிலையில் இன்றையதினம் காலை சடலமாக மீட்கப்பட்டுள்ளனர் என பொலிஸார் தெரிவித்தனர்.
+Investigations have revealed that the mother of the three children who died in the incident and the unmarried man who died with him had been inappropriate.
+
+At the same time, the woman's husband came to know the inappropriate relationship between the two and had a fight on the evening of the 4th.
+
+The mother had gone to the house with a man who had left her home with an inappropriate relationship, and the body was found dead this morning.
+
+At the same time, the police said that the incident had been notified to the Magistrate's Court and the bodies would be taken to the Nuwara Eliya District General Hospital for autopsy.
 
 ...
 
 [Data](articles/961e73cb.json)
+
+[Extended Data](ext_articles/961e73cb.ext.json)
 
 ---
 
@@ -2151,45 +2209,5 @@ Accordingly, the heat, which is perceived by the human body, is expected to be a
 [Data](articles/ab70e672.json)
 
 [Extended Data](ext_articles/ab70e672.ext.json)
-
----
-
-### SLFP complaint with missing files
-
-*2024-04-05 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195349) · `si`
-
-Acting Secretary General of SLFP, Vithantine Mithrapala, filed a complaint with Maradana police over missing files at the party.
-
-🟩
-
-Acting Secretary General of Sri Lanka Freedom Party (SLFP) Acting College Vithantine Mithrapala has lodged a complaint with the Maradana police.
-
-It is reported that the complaint has been lodged with the disappearance of important files at the Sri Lanka Freedom Party.
-
-◼️
-
-[Data](articles/ca7b59dd.json)
-
-[Extended Data](ext_articles/ca7b59dd.ext.json)
-
----
-
-### Court dismisses enjoining order against SLSCA
-
-*2024-04-05 20:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-dismisses-enjoining-order-against-SLSCA/108-280260) · `en`
-
-Apr. 5 (Daily Mirror) - The Colombo District Court Judge Sandun Vithana today made an order suspending an enjoining order obtained against the office-bearers of the Sri Lanka Schools Cricket Association (SLSCA).
-
-The order of the Court suspending the enjoining order was made in response to an urgent application filed by motion by the Attorneys-at-Law representing the President and Secretary of the SLSCA.
-
-The Plaintiffs had obtained the order on March 25, 2024 preventing the SLSCA from conducting the demotion and relegation cricket matches scheduled as part of the Under-19 Inter-Schools Division I Two-Day Cricket Tournament, conducted by the Association.
-
-The Defendants had brought to the notice of Court that it is an unincorporated association and that grave and irreparable damage was being caused to the SLSCA, its members, school cricketers, and their education by the actions of the Plaintiffs.
-
-...
-
-[Data](articles/27ab08f2.json)
-
-[Extended Data](ext_articles/27ab08f2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 20:33:44**
+As of **2024-04-06 20:51:12**
 
 ## Newspaper Stats
 
-*Scraped **17,517** Articles*
+*Scraped **17,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 2,062
 adaderanalk | 2,115
 virakesarilk | 2,555
 dailymirrorlk | 2,680
-adaderanasinhalalk | 2,837
+adaderanasinhalalk | 2,838
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,516 (100.0%) of 17,517 articles have been extended.
+17,517 (100.0%) of 17,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### රටේ අවශ්‍යතාවය සටන් පාඨ හා තර්ක නොවෙයි - ජනපති
+
+*2024-04-06 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195373) · `si`
+
+සටන් පාඨ හා තර්කවලට යටත් නොවී, රට සහ තාරුණ්‍ය ඉදිරියට ගෙන යා හැකි වැඩපිළිවෙළක් දියත්කිරීමේ අවශ්‍යතාව මතුව ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ “මගෙන් පටන් ගමු” අනුරාධපුර දිස්ත්‍රික් තරුණ සමුළුවට අද (06) පස්වරුවේ එක්වෙමිනි.
+
+"අපි දැන් යම් ස්ථාවරභාවයක් ඇතිකරගෙන යනවා. IMF සංවිධානය අපි බංකොළොත් ලැයිස්තුවෙන් අයින් කරලා. අනාගතය ගැනයි දැන් හිතන්න තියෙන්නේ. අපි හිතනදේට වඩා ඔබ හිතනදේ වැදගත්. මට ඔබේ අදහස් ලබාදෙන්න කවුද නිවේදක වෙන්නේ?. මම වාඩිවෙලා අහන් ඉන්නම් කවුද ප්‍රශ්න කරන්න කැමති."
+
+සමුළුවට පැමිණ සිටි අයෙක් - ඔබතුමාගෙන් මම බලාපොරොත්තුවනවා අධ්‍යාපනවේදීන්ට හොඳ වැඩපිළිවෙළක් එක්ක උතුරු මැද පලාතට සුබදායක පිළිතුරක් ලැබෙනවානම් හොඳයි කියලා.
+
+ජනාධිපතිවරයා - බස්නාහිර පලාතේ 2300ක් අරගත්තා. තව 700ක් ගන්න ඉන්නවා. 4000කට යන්න බලාපොරොත්තුවෙන් ඉන්නවා. මම දන්නේ නැහැ උතුරු මැද පළාත ගැන. එන්න එන්න ඔයා ඇවිත් කියන්න දැනට සම්මුඛ සාකච්ඡා යනවා කිව්වා. මෙයා කියනවා සම්මුඛ සාකච්ඡාවට කැඳවුයේ නැහැ කියලා. මට කරුණු ටික ලියලා දෙන්න. තේරුවේ නැත්නම් දේශපාලනය කරන්න බැහැ
+
+...
+
+[Data](articles/16fea392.json)
+
+---
 
 ### Sri Lankan gold smuggling attempt foiled near Vedhalai Coast
 
@@ -43,6 +63,8 @@ The DRI had received specific intelligence indicating the smuggling of foreign-o
 ...
 
 [Data](articles/c17f6ed3.json)
+
+[Extended Data](ext_articles/c17f6ed3.ext.json)
 
 ---
 
@@ -2239,23 +2261,5 @@ In addition, two special gifts will be offered for the New Year transactions wit
 [Data](articles/a623e0f2.json)
 
 [Extended Data](ext_articles/a623e0f2.ext.json)
-
----
-
-### Sri Lanka settled USD 2bn worth of foreign debt and interest, govt. says
-
-*2024-04-05 23:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98460/sri-lanka-settled-usd-2bn-worth-of-foreign-debt-and-interest-govt-says) · `en`
-
-Mr. Rajith Keerthy Tennakoon, President Director General of Community Affairs says that after between President Ranil Wickremesinghe’s assumption of office and February 2024, the Sri Lankan government has settled a total of USD 1909.7 million in foreign debt and interest payments.
-
-He also highlighted that from 21 July 2022 to February 2024, the government has disbursed $1338.8 million in multilateral loans and interest, with no outstanding arrears in loan instalments or interest payments up to February 2024. Mr. Rajith Keerthi Tennakone conveyed this information during a special media statement today (05).
-
-According to the Department of External Resources, payments totalling USD 760.1 million have been made to the Asian Development Bank and USD 7.0 million to the Asian Infrastructure Investment Bank.
-
-...
-
-[Data](articles/42399b19.json)
-
-[Extended Data](ext_articles/42399b19.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 15:51:32**
+As of **2024-04-06 16:02:58**
 
 ## Newspaper Stats
 
-*Scraped **17,492** Articles*
+*Scraped **17,495** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ economynextcom | 973
 adalk | 1,468
 tamilmirrorlk | 2,059
 adaderanalk | 2,109
-virakesarilk | 2,551
+virakesarilk | 2,553
 dailymirrorlk | 2,676
-adaderanasinhalalk | 2,829
+adaderanasinhalalk | 2,830
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,492 (100.0%) of 17,492 articles have been extended.
+17,492 (100.0%) of 17,495 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### பிரசவ அறையில் தந்தைக்கு அனுமதி!
+
+*2024-04-06 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180593) · `ta`
+
+கொழும்பு காசல் மகளிர் வைத்தியசாலையில் பிரசவத்தின்போது தாயிற்கு தந்தை துணைக்கு இருக்க  அனுமதிக்கும்  புதிய திட்டம் ஆரம்பிக்கப்படவுள்ளது.
+
+இந்த திட்டத்தினூடாக தாய்மார்களுக்கு ஏற்ற  சூழலில் குழந்தை பிறக்க வழிவகுப்பதோடு, பிரசவத்தின்போது  தந்தை துணையாக  இருக்க வாய்ப்பளிக்கிறது.
+
+◼️
+
+[Data](articles/9dfe3383.json)
+
+---
+
+### කැබ් රථයක් දුම්රියේ ගැටෙයි
+
+*2024-04-06 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195365) · `si`
+
+වවුනියාව ඕමන්ත ප්‍රදේශයේ අනාරක්ෂිත දුම්රිය හරස් මාර්ගයකදී කැබ් රථයක් දුම්රියේ ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+
+අනතුරින් තුවාල ලැබූ කැබ් රථයේ රියදුරු ප්‍රතිකාර සඳහා වවුනියාව රෝහලට ඇතුළත් කර ඇත.
+
+ප්‍රදේශවාසීන් පවසන්නේ මීට පෙරද එම ස්ථානයේ අනතුරු සිදුවී ඇති බවත් නිසි පරිදි දුම්රිය ගේට්ටු මුරකරුවන් නොමැති වීම හේතුවෙන් මෙම අනතුරු සිදුවන බවත්ය.
+
+අද උදෑසන අනුරාධපුරය සිට යාපනය බලා ධාවනය වූ දුම්රියේ ගැටීමෙන් මෙම කැබ් රථය මෙලෙස අනතුරට ලක්ව තිබේ.
+
+◼️
+
+[Data](articles/508f9386.json)
+
+---
+
+### Two persons arrested for sale of beef without permit
+
+*2024-04-06 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180587) · `ta`
+
+Two individuals were arrested for selling beef without a permit. The Special Task Force recovered 95 kg of beef during a raid in Jayamalapura, Gampola. The suspects are being investigated for a theft gang.
+
+🟩
+
+Two persons have been arrested by the Special Task Force for the sale of beef without permission.
+
+According to confidential information available to the Gampola Special Action Force, 95 kg of beef was recovered for sale during a raid last night at a house in Jayamalapura area in Gampola.
+
+The suspects have handed over the suspects to the Gampola police station. Police are investigating the gang that steals the cows.
+
+◼️
+
+[Data](articles/9f1755ef.json)
+
+[Extended Data](ext_articles/9f1755ef.ext.json)
+
+---
 
 ### Apartment raided in firearms
 
@@ -53,6 +107,26 @@ Accordingly, a 79-year-old man has been arrested by police from Waikkala area wh
 [Data](articles/89efdaa7.json)
 
 [Extended Data](ext_articles/89efdaa7.ext.json)
+
+---
+
+### உடப்புஸ்ஸலாவையில் வீடொன்றில் இருந்து இரு சடலங்கள் மீட்பு
+
+*2024-04-06 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180589) · `ta`
+
+உடப்புஸ்ஸலாவை பொலிஸ் பிரிவுக்குட்பட்ட மடுல்ல பாஹலகம பகுதியில் வீடொன்றில் இருந்து இரு சடலங்கள் இன்று சனிக்கிழமை (06) காலை மீட்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+42 வயதான மூன்று பிள்ளைகளின் தாய் மற்றும் 39 வயதுடைய திருமணமாகாத ஆண்  ஆகிய இருவரே வீட்டில் தூக்கில் தொங்கிய நிலையில் சடலமாக மீட்கப்பட்டுள்ளனர்  என சம்பவம் தொடர்பில் விசாரணை செய்து வரும் உடப்புஸ்ஸலாவ பொலிஸார் தெரிவித்தனர்.
+
+மேலும் இந்த  சம்பவத்தில் உயிரிழந்துள்ள மூன்று பிள்ளைகளின் தாயிற்கும், இவருடன் உயிரிழந்த திருமணமாகாத ஆணுக்கும் தகாத உறுவு இருந்து வந்துள்ளதாக விசாரணையில் தெரிய வந்துள்ளது.
+
+அதேநேரத்தில் இவ் இருவருக்குமிடையில் இருந்து வந்த தகாத உறவு பெண்ணின் கணவருக்கு தெரிய வந்து கடந்த  4 ஆம் திகதி மாலை சண்டை இடம்பெற்றுள்ளது.
+
+இதையடுத்து குறித்த தாய் தனது வீட்டை விட்டு தகாத உறவை பேணி வந்த நபருடன் சென்றுள்ள நிலையில், இவ் இருவரும் வீடு ஒன்றில் தூக்கில் தொங்கிய நிலையில் இன்றையதினம் காலை சடலமாக மீட்கப்பட்டுள்ளனர் என பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/961e73cb.json)
 
 ---
 
@@ -93,28 +167,6 @@ The Sri Lankan High Commission in London has consistently advocated to British a
 [Data](articles/61ae5097.json)
 
 [Extended Data](ext_articles/61ae5097.ext.json)
-
----
-
-### Two persons arrested for sale of beef without permit
-
-*2024-04-06 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/180587) · `ta`
-
-Two individuals were arrested for selling beef without a permit. The Special Task Force recovered 95 kg of beef during a raid in Jayamalapura, Gampola. The suspects are being investigated for a theft gang.
-
-🟩
-
-Two persons have been arrested by the Special Task Force for the sale of beef without permission.
-
-According to confidential information available to the Gampola Special Action Force, 95 kg of beef was recovered for sale during a raid last night at a house in Jayamalapura area in Gampola.
-
-The suspects have handed over the suspects to the Gampola police station. Police are investigating the gang that steals the cows.
-
-◼️
-
-[Data](articles/9f1755ef.json)
-
-[Extended Data](ext_articles/9f1755ef.ext.json)
 
 ---
 
@@ -2139,67 +2191,5 @@ The Defendants had brought to the notice of Court that it is an unincorporated a
 [Data](articles/27ab08f2.json)
 
 [Extended Data](ext_articles/27ab08f2.ext.json)
-
----
-
-### Happy news to those waiting to buy phone
-
-*2024-04-05 20:01:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொலைபேசி-வாங்க-காத்திருப்போருக்கு-மகிழ்ச்சியான-செய்தி/175-335646) · `ta`
-
-Mobile phone prices in Sri Lanka have dropped 18-20% due to the dollar's fall, affecting models like the iPhone 15 Pro Max and lower-priced phones.
-
-🟩
-
-Sri Lanka's mobile phone importers and vendors association president Samith Senarath said that the price of mobile phones in Sri Lanka has fallen by 18% - 20% due to the dollar value fall.
-
-Currently declined up to 300 rupees. Due to this, the price of mobile phones has been reduced.
-
-The iPhone 15 Pro Max 515,000 to 530,000 rupees has now fallen to 375,000 rupees.
-
-Similarly, the price of low -priced cell phones has fallen by 18 to 20 percent.
-
-He also said that the mobile phone, which had increased up to 10,000 rupees, could now get 7,000 rupees.. Remble
-
-◼️
-
-[Data](articles/8c450052.json)
-
-[Extended Data](ext_articles/8c450052.ext.json)
-
----
-
-### Damitha was wrong in court
-
-*2024-04-05 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195348) · `si`
-
-Damitha Abeyratne and her husband were convicted under the Immigration and Emigration Act.
-
-🟩
-
-The popular acting artist Damitha Abeyratne and her husband have been condemned under the Immigration and Emigration Act today (05).
-
-◼️
-
-[Data](articles/28ea00a5.json)
-
-[Extended Data](ext_articles/28ea00a5.ext.json)
-
----
-
-### Damitha and husband remanded till 17th
-
-*2024-04-05 19:23:36* · [`adalk`](https://www.ada.lk/breaking_news/දමිතා-හා-සැමියා-17-දා-තෙක්-රිමාන්ඩ්/11-408973) · `si`
-
-Damitha Abeyratne, arrested for financial fraud, remanded till 17th by Fort Magistrate's Court.
-
-🟩
-
-The Fort Magistrate's Court ordered the Sweetheart Damitha Abeyratne who was arrested by the CID regarding financial fraud.
-
-◼️
-
-[Data](articles/cfe55abc.json)
-
-[Extended Data](ext_articles/cfe55abc.ext.json)
 
 ---

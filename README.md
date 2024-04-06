@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 17:34:28**
+As of **2024-04-06 17:53:50**
 
 ## Newspaper Stats
 
-*Scraped **17,503** Articles*
+*Scraped **17,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ tamilmirrorlk | 2,061
 adaderanalk | 2,111
 virakesarilk | 2,555
 dailymirrorlk | 2,676
-adaderanasinhalalk | 2,832
+adaderanasinhalalk | 2,834
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,503 (100.0%) of 17,503 articles have been extended.
+17,503 (100.0%) of 17,505 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### දියේ ගිලී දෙදෙනෙකු මරුට
+
+*2024-04-06 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195369) · `si`
+
+කැබිතිගොල්ලෑව කෝල්බැන්ද වැවේ දිය නෑමට ගිය පිරිසක් අතරින් දෙදෙනෙක් දියේ ගිලී මියගොස් ඇති බව පොලීසිය පවසයි.
+
+මෙලෙස මියගොස් ඇත්තේ පිළියන්දල ප්‍රදේශයේ පදිංචි වයස අවුරුදු 58 සහ 38 හැවිරිදි වියේ පසුවන පුද්ගලයින් දෙදෙනෙකි.
+
+එම ප්‍රදේශයේ පැවති අවමංගල්‍ය උත්සවයකට සහභාගීවීමෙන් අනතුරුව එම නිවස පසුපස ඇති මෙම වැවේ දියනෑමට ගොස් ඇත.
+
+පොලීසිය පවසන්නේ එම පිරිස මත්පැන් පානය කිරීමෙන් අනතුරුව මෙලෙස වැවේ දියනෑමට ගොස් ඇති බවට සැකපළකරන බවය.
+
+එහිදී එම පිරිස අතර සිටි සිව්දෙනෙකු දියේ ගිලී ඇති අතර ඉන් දෙදෙනෙකු දිවි බේරාගැනීමට සමත්ව ඇතිමුත් දෙදෙනෙකු මෙලෙස අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+
+◼️
+
+[Data](articles/be331df7.json)
+
+---
+
+### පාතාලේ 9කට වැඩ වැරදුණු තැන
+
+*2024-04-06 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195368) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් අත්අඩංගුවට ගැනීම සඳහා පොලිස්පතිවරයාගේ උපදෙස් මත ආරම්භ කළ විශේෂ මෙහෙයුමට අනුව ඊයේ (05) දිනයේදී සැකකරුවන් 09ක් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ කොළඹ, ගාල්ල, රාගම , මොරටුව, බණ්ඩාරගම සහ වාද්දුව යන ප්‍රදේශවල පදිංචි ජාවාරම්කරුවන් 09 දෙනෙකි.
+
+මෙම සැකකරුවන් පූකුඩි කණ්නා, පොඩි ලැසී, ගණේමුල්ල සංජීව, හීනටියන සංඛ, කුඩු අංජු, කුඩු සළිඳු සහ මතුගම ගවරියා යන සංවිධානාත්මක අපරාධකරුවන්ගේ කණ්ඩායම්වල සාමාජිකයින් බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/a0f21b20.json)
+
+---
 
 ### Sri Lanka's Debt Debt Debt Debt Debt Debt Debt Resolution - International Media
 
@@ -2195,49 +2231,5 @@ At the same time, the video recordings of the violent gangs have been taken to t
 [Data](articles/c75e765f.json)
 
 [Extended Data](ext_articles/c75e765f.ext.json)
-
----
-
-### Sri Lanka’s SJB welcomes SLPP dissidents, heaps praise on G L Peiris
-
-*2024-04-05 20:59:00* · [`economynextcom`](https://economynext.com/sri-lankas-sjb-welcomes-slpp-dissidents-heaps-praise-on-g-l-peiris-157753/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s main opposition Samagi Jana Balawegaya (SJB) has welcomed some of the most prominent members of the former Sri Lanka Podujana Peramuna (SLPP) government headed by ousted ex president Gotabaya Rajapaksa, with the SJB general secretary particularly heaping praise on MP G L Peiris.
-
-SJB parliamentarian Ranjith Madduma Bandara speaking at a ceremony to mark the alliance between his party and the Freedom People’s Congress headed by Peiris said the latter’s partnership was a “great strength” to the SJB.
-
-“G L Peiris and the team have become a great strength to us today. He has joined us with his team, bringing in his economic vision, his knowledge, and his political experience,” said Bandara.
-
-The MP claimed that a majority of Sri Lankans have already decided that only the SJB can save the country.
-
-“Other parties that love the country, want to develop it, and think about the future generations of this country have decided to partner with the SJB,” he said.
-
-...
-
-[Data](articles/7cd19ef8.json)
-
-[Extended Data](ext_articles/7cd19ef8.ext.json)
-
----
-
-### Single track release
-
-*2024-04-05 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180513) · `ta`
-
-The first song from 'Vaibha Tamil', featuring Adam Bawa and others, has been released. Directed by Adam Bawa, the film explores local politics and is produced by Moon Pictures. The song, sung by Karthik, is a melodic love song set to music by Devaraj Vidyasagar.
-
-🟩
-
-The first song, 'Anju Anju ..', which is played in the film 'Vaibha Tamil', which plays the lead role as the hero of the director and actor, has been released.
-
-Director Adam Bawa has starred in the film 'Vaibha Tamilukku' and starring Amir, Santini, Iman Annachi, directors and actors Rajkapur and Subramaniam Siva and many others.. The film is composed by Devaraj Vidyasagar for the film.. The film, which is centered on local politics, has produced the director Adambawa on behalf of Moon Pictures.
-
-All the tasks of the film are completed and waiting for the release. In this case, the first song, which starts with the 'Anju Anju Anju Anju Pottupputa', has been released in the film and the lyrical video for the song has been released.. The song is the songwriter Pa. Vijay's background singer Karthik has sung. This song is a melodic and love for Vidyasagar's music.. Music fans who admire the village -style songs have been well received.
-
-◼️
-
-[Data](articles/79df1dc4.json)
-
-[Extended Data](ext_articles/79df1dc4.ext.json)
 
 ---

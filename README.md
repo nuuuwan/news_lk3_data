@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 20:18:38**
+As of **2024-04-06 20:33:44**
 
 ## Newspaper Stats
 
-*Scraped **17,516** Articles*
+*Scraped **17,517** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,42 +19,64 @@ adalk | 1,468
 tamilmirrorlk | 2,062
 adaderanalk | 2,115
 virakesarilk | 2,555
-dailymirrorlk | 2,679
+dailymirrorlk | 2,680
 adaderanasinhalalk | 2,837
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,513 (100.0%) of 17,516 articles have been extended.
+17,516 (100.0%) of 17,517 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### මත්ද්‍රව්‍ය ප්‍රවාහනය කළ චීවරධාරියෙකු අත්අඩංගුවට
+### Sri Lankan gold smuggling attempt foiled near Vedhalai Coast
 
-*2024-04-06 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195372) · `si`
+*2024-04-06 20:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-gold-smuggling-attempt-foiled-near-Vedhalai-Coast/108-280309) · `en`
 
-චීවරධාරියෙකු ලෙස පෙනී සිටිමින් මත්ද්‍රව්‍ය ප්‍රවාහනය කරන පුද්ගලයෙකු "අද දෙරණ" උකුස්සාගේ අනාවරණයෙන් පසුව පොලීසිය විසින් අත්අඩංගුවට ගත්තේය.
+Colombo, April 6 (Daily Mirror) - In a coordinated effort between the Indian Coast Guard (ICG), Customs Preventive Unit (CPU) Ramanathapuram, and the Directorate of Revenue Intelligence (DRI), a gold smuggling operation originating from Sri Lanka was intercepted near the Vedhalai coast in Mandapam, Tamil Nadu.
 
-බෙන්තර ප්‍රදේශයේ පිහිටි විහාරස්ථානයක සිටින චීවරධාරියෙකු කොළඹට විවිධ මත්ද්‍රව්‍ය ප්‍රවාහනය කරන බවට "අද දෙරණ උකුස්සාට" රහසිගත තොරතුරක් ලැබුණි.
-
-ඒ අනුව, දින ගණානාවක ගවේෂණයක නිරත වූ උකුස්සාට අනාවරණ වුණේ අදාළ පුද්ගලයා පසුගිය දිනකදෙහිවල අත්තිඩිය ප්‍රදේශයට පැමිණෙන බවටය.
-
-අනතුරුව උකුස්සා ඒ පිළිබඳව සොයාබැලීමට අදාළ ප්‍රදේශයට ගිය අතර ඔහු එහිදී ත්‍රිරෝද රථයක සිටින අයුරු දැකගත හැකිවිය.
-
-ඔහු පසුපස හඹාගිය උකුස්සාට පසුව දැකගත හැකිවූයේ ඔහු තම චීවරය ඉවත් කර ගිහි ඇඳුමක් හැඳගෙන සිටින ආකාරයයි.
-
-අනතුරුව අදාළ චීවරධාරියා ගමන්ගත් ත්‍රිරෝද රථය සම්බන්ධයෙන් පොලිසියද දැනුවත් කිරීමෙන් පසුව එම රථය බෙල්ලන්තර ප්‍රදේශයේදී නවතා පරීක්ෂා කරනු ලැබීය.
-
-එහිදී ගිහි ඇඳුමින් සැරසී සිටි චීවරධාරියා පොලීසිය වෙත පරස්පර පිළිතුරු ලබාදුන්නේය.
-
-අනතුරුව ඔහුව අත්අඩංගුවට ගැනීමෙන් පසුව පොලීසිය සිදුකළ පරීක්ෂා කිරීමේදී අදාළ පුද්ගලයාගේ බෑගයේ තිබී ගංජා සහ මදනමෝදක සොයාගෙන තිබුණි.
+The DRI had received specific intelligence indicating the smuggling of foreign-origin gold into India via the Vedhalai coast, orchestrated by a criminal group using fishing boats. Surveillance was intensified by DRI and ICG personnel in the Vedhalai Coastal area on the night of April 3-4. In the early hours of April 4, a suspicious boat was identified at mid-sea and pursued by an ICG vessel until interception.
 
 ...
 
+[Data](articles/c17f6ed3.json)
+
+---
+
+### Drug transport was arrested
+
+*2024-04-06 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195372) · `si`
+
+A monk, deployed in Derana, arrested a drug transport after receiving a tip. The suspect was spotted in Attidiya, then in a three-wheeler, and was identified after removing his Supreme Court robes. The vehicle was sent to police, who found drugs in the suspect's bag. Ada Derana will reveal more.
+
+🟩
+
+A person who was deployed as a monk and arrested a drug transporting a drug transported after Derana.
+
+An Ada Derana Ukusa received a secret tip in a temple in Benthara area.
+
+Accordingly, the Ukusa, which was explored a day, was revealed that the man was coming to the Attidiya area last day.
+
+Then he went to the area to look into the hawk and he was seen in a three-wheeler.
+
+After chasing him, he was seen after he was seen by removing his Supreme Court and dig a lay dress.
+
+The vehicle was then sent to the police in the Bellantha area after he was educated on the three-wheeler that was involved in the correspondence.
+
+The monk dressed in lay gave contradictory answers to the police.
+
+After the arrest of him, the police were conducted in the man's bag of the person's bag and were found in the man's bag.
+
+Ada Derana is alert to be revealed to the country in the future.
+
+◼️
+
 [Data](articles/408a4cbf.json)
+
+[Extended Data](ext_articles/408a4cbf.ext.json)
 
 ---
 
@@ -71,6 +93,8 @@ Bought by Sunrisers for INR 1.5 crore, Hasaranga's absence is notable after a su
 ◼️
 
 [Data](articles/f64c8245.json)
+
+[Extended Data](ext_articles/f64c8245.ext.json)
 
 ---
 
@@ -1570,6 +1594,8 @@ Recently, Mr. Sirisena stirred fresh controversy when he said that he knew who w
 
 [Data](articles/ffaeaf3b.json)
 
+[Extended Data](ext_articles/ffaeaf3b.ext.json)
+
 ---
 
 ### Sri Lanka repays $1,338mn to multilateral lenders up to Feb 2024: PMD
@@ -2231,23 +2257,5 @@ According to the Department of External Resources, payments totalling USD 760.1 
 [Data](articles/42399b19.json)
 
 [Extended Data](ext_articles/42399b19.ext.json)
-
----
-
-### Govt. says it settled USD 2bn worth of foreign debt and interest
-
-*2024-04-05 23:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98460/govt-says-it-settled-usd-2bn-worth-of-foreign-debt-and-interest) · `en`
-
-Mr. Rajith Keerthy Tennakoon, President Director General of Community Affairs says that after between President Ranil Wickremesinghe’s assumption of office and February 2024, the Sri Lankan government has settled a total of USD 1909.7 million in foreign debt and interest payments.
-
-He also highlighted that from 21 July 2022 to February 2024, the government has disbursed $1338.8 million in multilateral loans and interest, with no outstanding arrears in loan instalments or interest payments up to February 2024. Mr. Rajith Keerthi Tennakone conveyed this information during a special media statement today (05).
-
-According to the Department of External Resources, payments totalling USD 760.1 million have been made to the Asian Development Bank and USD 7.0 million to the Asian Infrastructure Investment Bank.
-
-...
-
-[Data](articles/c3908506.json)
-
-[Extended Data](ext_articles/c3908506.ext.json)
 
 ---

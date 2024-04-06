@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 13:52:29**
+As of **2024-04-06 14:03:08**
 
 ## Newspaper Stats
 
-*Scraped **17,478** Articles*
+*Scraped **17,484** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,166 @@ newsfirstlk | 363
 dailyftlk | 958
 islandlk | 959
 economynextcom | 973
-adalk | 1,466
+adalk | 1,468
 tamilmirrorlk | 2,059
 adaderanalk | 2,107
-virakesarilk | 2,548
-dailymirrorlk | 2,674
-adaderanasinhalalk | 2,824
+virakesarilk | 2,549
+dailymirrorlk | 2,675
+adaderanasinhalalk | 2,826
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,478 (100.0%) of 17,478 articles have been extended.
+17,478 (100.0%) of 17,484 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### ඊශ්‍රායලයේ ශ්‍රී ලාංකිකයින්ට හදිසි දැනුම්දීමක්
+
+*2024-04-06 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195360) · `si`
+
+මැද පෙරදිග කලාපයේ උද්ගතවී ඇති නොසන්සුන්කාරී තත්ත්වය හමුවේ ඊශ්‍රායලය වෙත යම් ප්‍රහාරයක් එල්ලවේ යැයි ජාත්‍යන්තර මාධ්‍ය වාර්තා හා පවතින සැකය මත මේ වනවිට ඊශ්‍රායල හමුදාව සීරුවෙන් තබා ඇත.
+
+මේ අතර ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පවසන්නේ අවදානම්කාරී වාතාවරණයක් නැවත ඇතිවුවහොත් ඔක්තෝම්බර් 7 වනදා ඇතිවූ  හමාස් ප්‍රහාරයෙන් පසුව ක්‍රියාත්මක වූ ආකාරයට තානාපති කාර්යාලය ඊශ්‍රායලයේ සිටින ශ්‍රී ලාංකිකයන්ගේ ආරක්ෂාව වෙනුවෙන් කටයුතු කරනු ඇති බවය.
+
+එසේම එරට ශ්‍රී ලංකා තානාපති කාර්යාලය යම් හදිසි අවස්ථාවක් ඇතිවුවහොත් ගතයුතු ක්‍රියාමාර්ග නිවේදනයක් නිකුත් කරමින් පෙන්වා දී තිබේ.
+
+1. ඉතාමත් අත්‍යාවශ්‍ය හේතුවකට හැර තමා සේවය කරන නිවස, සේවා ස්ථානය, වගාබිම් හෝ තමන් පදිංචි ස්ථානයෙන් බැහැර නොයන්න.
+
+2. රෝගී තත්ත්වයන් හේතුවෙන් ඖෂධ හා එන්නත්  ලබාගන්න පිරිස දින ගණනාවකට අවශ්‍ය බෙහෙත් රැස්කර තබා ගන්න.
+
+4. වගකීම් විරහිතව සමාජ මාධ්‍යය ඔස්සේ ඡායාරූප, වීඩියෝ, විස්තර කථනයන් කිරීමෙන් වැලකි සිටින්න. සංවේදී වීඩියෝ හා ඡායාරුප එයට යැවීමෙන් වළකින්න.
+
+...
+
+[Data](articles/d3919ced.json)
+
+---
+
+### இலங்கைக்கான பயண ஆலோசனையை ஐக்கிய இராச்சியம் புதுப்பித்தது
+
+*2024-04-06 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180584) · `ta`
+
+இலங்கை தற்போது அடைந்துள்ள பொருளாதார முன்னேற்றம் காரணமாக, ஐக்கிய இராச்சியம் தனது பிரஜைகளுக்காக வெளியிட்டுள்ள இலங்கைக்கான பயண ஆலோசனையை (Travel Advisory) 2024 ஏப்ரல் 05 முதல் புதுப்பிக்க முடிவு செய்துள்ளது.
+
+அவசரகால மருத்துவச் சேவைகளுக்கான அணுகல், நாட்டிற்குள் நுழையும் போது பாதுகாப்புத் தேவைகள், வீதிப் பாதுகாப்பு, நாட்டின் பாதுகாப்பு நிலைமை மற்றும் சுகாதார வசதிகளுக்கான அணுகல் ஆகிய பகுதிகளில் முந்தைய தகவல்களைப் புதுப்பித்துள்ளது. அதன்படி, உணவு, எரிபொருள் மற்றும் மருந்துத் தட்டுப்பாடு குறித்து முந்தைய ஆலோசனையில் இருந்த தகவல்கள் இந்த புதுப்பிக்கப்பட்ட பயண ஆலோசனையில் இருந்து நீக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/913e98a9.json)
+
+---
+
+### Statue of Liberty shake during earthquake
+
+*2024-04-06 13:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Statue-of-Liberty-shake-during-earthquake/108-280307) · `en`
+
+Days after lighting struck the Statue of Liberty during a rainstorm, the iconic landmark was seen shaking during a 4.8-magnitude earthquake that rattled the New York City area on Friday.
+
+EarthCam video footage showed the statue and the New York City skyline trembling when the earthquake struck near Califon, New Jersey, around 10:23 a.m. An angle from directly above Lady Liberty caught Ellis Island shaking during the incident, the video shows.
+
+“Lady Liberty has had a rough week,” someone commented on X.
+
+Approximately 42 million people felt the earthquake, per the USGS. It appears to have shaken areas as far south as Washington D.C. and as far north as the New York-Canada border. The shaking lasted several seconds.
+
+There were no injuries or structural damages reported in New York City, but three buildings in Newark were compromised and deemed unsafe.
+
+The largest earthquake ever recorded in New York City’s history was a 5.2-magnitude quake in 1884, according to NYC Emergency Management.
+
+◼️
+
+[Data](articles/597063c8.json)
+
+---
+
+### Increased AGIV/ AIDS infection in Sri Lanka
+
+*2024-04-06 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/180190) · `ta`
+
+AGIV/AIDS infection rates in Sri Lanka have risen, with 607 new cases in 2022, up from 5,011 total infections. Deaths from AGIV/AIDS-related factors in 2022 were 660,000 globally, with 271 in Sri Lanka. Despite declining deaths in 2023, the number of infections increased by 13%. Sri Lanka aims to end AIDS by 2030, but challenges remain due to insufficient sex education and awareness.
+
+🟩
+
+AGIV and AIDS are identified as important in the world's most challenging infections. The number of people who suffer from this infection all over the world can be seen as a mutant increase. Although modern medical treatment and awareness have increased their self -confidence and quality of life, the increase of infectious people makes the need for more essential programs.
+
+According to the World Health Organization's report, 39 million people live infected by the end of 2022. Of these, 1.5 million are boys.More than 1.3 new infections have been identified in the equal year.53 percent of the total number of infectious women. 630000 deaths due to AGIV / AIDS related factors in 2022. Since 2010, AIDS -related deaths have declined to 55% for women and girls and 47% among men and children.
+
+...
+
+[Data](articles/be6ec271.json)
+
+[Extended Data](ext_articles/be6ec271.ext.json)
+
+---
+
+### ලෝකෙම කතාවෙන යක්ෂයාගේ වල්ගා තරුව
+
+*2024-04-06 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195359) · `si`
+
+‘‘යක්ෂයාගේ වල්ගා තරුව‘‘ හෙවත් 12P/පොන්ස්-බෲක්ස් යනුවෙන් හඳුන්වන වල්ගා තරුව වසර 71කට පසුව දැක බලාගැනීමේ අවස්ථාව ලබන අප්‍රේල් 8 වැනිදා ශ්‍රී ලාංකිකයන්ට උදාවන බව තාරකා විද්‍යාඥයින් පවසයි.
+
+වසර 71කට වරක් නිරීක්ෂණය කළ හැකි ‘‘යක්ෂයාගේ වල්ගා තරුව‘‘ හෙවත් 12P/Pons-Brooks (පොන්ස්-බෲක්ස්) යනුවෙන් හඳුන්වන මෙම වල්ගා තරුව වර්ෂ 1300 ගණන්වල චීන තාරකා විද්‍යාඥයින් විසින් ප්‍රථම වරට නිරීක්ෂණය කරනු ලැබ තිබේ.
+
+කෙසේවෙතත් 19 වන සියවසේදී ප්‍රංශ තාරකා විද්‍යාඥ ජීන් ලුයිස් සහ වර්ෂ 1883 දී බ්‍රිතාන්‍ය අමෙරිකානු තාරකා විද්‍යාඥ විලියම් රොබට් බෲක්ස් විසින් එය නිරීක්ෂණය කිරීමෙන් පසුව එයට නිල පිළිගැනීමක් හිමිවූ අතර වල්ගා තරුවට පොන්ස්-බෲක්ස් යන නම ලැබී ඇත්තේ ඒ අනුවය.
+
+‘‘යක්ෂයාගේ වල්ගා තරුව‘‘ ලෙස එය වඩාත් ප්‍රචලිත වන්නේ එහි ඇති අයිස් හා වායුව වරින් වර පුපුරා යාම නිසා එම පිපිරීම් වලින් වල්ගා තරුවට යක්ෂ අං ඇති පෙනුමක් ලබාදීම හේතුවෙනි‍.
+
+සැතපුම් 18.6ක් පළල ‘‘යක්ෂයාගේ වල්ගා තරුව‘‘  අප්‍රේල් 21 වනදා සූර්යයාට සමීපතම ප්‍රවේශයට ලඟාවීම සිදුවනු ලබයි.
+
+...
+
+[Data](articles/df793be8.json)
+
+---
+
+### In the jaffna. Three arrested for kidnapping cannabis inside the loudspeaker device
+
+*2024-04-06 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180581) · `ta`
+
+In Jaffna, three were arrested for smuggling 18 kg of cannabis in a loudspeaker device. Two were detained in Chavakachcheri, and after investigations, a special raid in Semmani revealed the hidden cannabis. The detainees, from Mannar, are being investigated.
+
+🟩
+
+In Jaffna, three persons have been arrested on charges of kidnapping cannabis inside a small loudspeaker device and police have recovered 18 kg of cannabis drugs from them.
+
+Police arrested two persons arrested in the Chavakachcheri area on the 30th of last month and demanded permission to investigate two days in police detention.. It was granted judicial permission.
+
+Based on the investigations carried out by them, the police intelligence unit took special measures from them and obtained confidential information from them.
+
+In the meantime, when a special raid was carried out in the Semmani area on the basis of confidential information received by the police that ganja was being smuggled into a motorcycle today, police searched the motorcycle passengers.
+
+At the time, the police found that the cannabis drug was hidden in a small loudspeaker device. When it was raided, they rescued the hidden cannabis.
+
+...
+
+[Data](articles/48b98ab2.json)
+
+[Extended Data](ext_articles/48b98ab2.ext.json)
+
+---
+
+### ඩෙංගු රෝගීන් සහ මරණ ප්‍රතිශතයේ අඩුවීමක්
+
+*2024-04-06 13:10:02* · [`adalk`](https://www.ada.lk/breaking_news/ඩෙංගු-රෝගීන්-සහ-මරණ-ප්‍රතිශතයේ-අඩුවීමක්/11-408974) · `si`
+
+වෙනත් වසරවලට සාපේක්ෂව මෙම වසරේ දී ඩෙංගු රෝගීන් සංඛ්‍යාව සහ මරණ ප්‍රතිශතය අඩුකර ගැනීමට හැකි වූ බව සෞඛ්‍ය රාජ්‍ය අමාත්‍ය, විශේෂඥ වෛද්‍ය සීතා අරඹේපොල මහත්මිය පැවසුවාය.
+
+මෙම වසරේ ජනවාරි මාසය වන විට ඩෙංගු අවධානම් කලාප 64ක් හඳුනාගෙන තිබුණ ද එය අද වන විට කලාප දෙකක් දක්වා පාලනය කර ගැනීමට හැකි වූ බව ද රාජ්‍ය අමාත්‍යවරිය පෙන්වා දුන්නාය.
+
+සෞඛ්‍ය රාජ්‍ය අමාත්‍ය, විශේෂඥ වෛද්‍ය සීතා අරඹේපොල මහත්මිය මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ඊයේ (05) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ සෞඛ්‍ය රාජ්‍ය අමාත්‍යවරිය මෙසේද සඳහන් කළාය,
+
+උත්සව සමයේ දී අනාරක්ෂිත ආකාරයට ගිනිකෙළි භාවිතය හේතුවෙන් සෑම වසරකදීම අනතුරු වාර්තා වුණා. ඒ නිසා මෙවර අලුත් අවුරුදු සමයේ දී පවුලේ සාමාජිකයන් සමඟ ප්‍රවේශමෙන් කටයුතු කරන ලෙස ඉල්ලා සිටිනවා.
+
+...
+
+[Data](articles/941e2947.json)
+
+---
 
 ### 10 years of winning World Cup
 
@@ -87,32 +231,6 @@ Sullivan and Ratnayake also discussed Sri Lanka’s ongoing efforts to complete 
 [Data](articles/d5c7f12f.json)
 
 [Extended Data](ext_articles/d5c7f12f.ext.json)
-
----
-
-### In the jaffna. Three arrested for kidnapping cannabis inside the loudspeaker device
-
-*2024-04-06 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180581) · `ta`
-
-In Jaffna, three were arrested for smuggling 18 kg of cannabis in a loudspeaker device. Two were detained in Chavakachcheri, and after investigations, a special raid in Semmani revealed the hidden cannabis. The detainees, from Mannar, are being investigated.
-
-🟩
-
-In Jaffna, three persons have been arrested on charges of kidnapping cannabis inside a small loudspeaker device and police have recovered 18 kg of cannabis drugs from them.
-
-Police arrested two persons arrested in the Chavakachcheri area on the 30th of last month and demanded permission to investigate two days in police detention.. It was granted judicial permission.
-
-Based on the investigations carried out by them, the police intelligence unit took special measures from them and obtained confidential information from them.
-
-In the meantime, when a special raid was carried out in the Semmani area on the basis of confidential information received by the police that ganja was being smuggled into a motorcycle today, police searched the motorcycle passengers.
-
-At the time, the police found that the cannabis drug was hidden in a small loudspeaker device. When it was raided, they rescued the hidden cannabis.
-
-...
-
-[Data](articles/48b98ab2.json)
-
-[Extended Data](ext_articles/48b98ab2.ext.json)
 
 ---
 
@@ -1834,6 +1952,18 @@ The popular acting artist Damitha Abeyratne and her husband have been condemned 
 
 ---
 
+### දමිතා හා සැමියා 17 දා තෙක් රිමාන්ඩ්
+
+*2024-04-05 19:23:36* · [`adalk`](https://www.ada.lk/breaking_news/දමිතා-හා-සැමියා-17-දා-තෙක්-රිමාන්ඩ්/11-408973) · `si`
+
+මූල්‍ය වංචාවක් සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගත් ප්‍රවීණ නිලි දමිතා අබේරත්න හා ඇයගේ සැමියා එළැඹෙන 17 ද ත් රිමාන්ඩ් කිරීමට කොටුව මහේස්ත්‍රාත් අධිකරණය නියෝග කළේය.එ සැකකරුවන දෙදෙනා අද අධිකරණයට ඉදිරිපත් කිරිමෙන් අනතුරුවය.
+
+◼️
+
+[Data](articles/cfe55abc.json)
+
+---
+
 ### Mobile phone prices dropped significantly, dealers say
 
 *2024-04-05 19:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98457/mobile-phone-prices-dropped-significantly-dealers-say) · `en`
@@ -2029,169 +2159,5 @@ If the Dalai Lama visits Sri Lanka in the future, we will be great. Sri Lankans 
 [Data](articles/a453cf91.json)
 
 [Extended Data](ext_articles/a453cf91.ext.json)
-
----
-
-### Elephant - Human contradiction and increase deaths!
-
-*2024-04-05 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180525) · `ta`
-
-Elephant conflict escalates, leading to increased deaths. Former President Gotabhaya Rajapakse and current president established committees to address elephant rights. Minister Sarath Fonseka's initiatives aimed to relocate elephants from forests. Wildlife Ministers and Wildlife projects aim to resolve conflicts but lack weekly updates.
-
-🟩
-
-Elephant -Elephant -Human Right. Former President Gotabhaya Rajapakse formed a committee for this group.. Then the current president has set up a group again. When Sarath Fonseka came as a minister, he would take the elephants outside the forest.. Those who come to the Ministers of Wildlife and Wildlife will be able to convert and implement each project and resolutions, but there are no weekly weekly.
-
-◼️
-
-[Data](articles/fa484613.json)
-
-[Extended Data](ext_articles/fa484613.ext.json)
-
----
-
-### Central Bank announces about Gold Foreign Reserve
-
-*2024-04-05 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195345) · `si`
-
-Sri Lanka's official reserves rose 9.5% in March 2024, reaching $4.95B. The forex pool increased 9.6%, and the gold reserve grew 9.1% to $34M. The People's Bank of China's forex reserves, valued at $1.4B, are now part of Sri Lanka's reserves under certain conditions.
-
-🟩
-
-The number of official reserves of the country has increased by 9.5% in March 2024, the Central Bank of Sri Lanka.
-
-Accordingly, in the end of February 2024, Sri Lanka's official reserved assets increased to $ 4.95 billion by the end of March 2024.
-
-The forex pool, the main component of this official reserve assets, has increased in March by 9.6% in March.
-
-At the end of February 2024, the Forex reserve of foreign exchange reserves in March 2024 increased to $ 4.91 billion by the end of March 2024.
-
-Meanwhile, the golden squad owned by the Central Bank increased by 9.1% to US $ 34 million in March 2024.
-
-According to the Central Bank of People's Bank, the foreign exchange exchange feature of the People's Bank of China, which is equivalent to about $ 1.4 billion in the reserve assets, is included in the Chinese People's Bank, which will be subject to conditions.
-
-◼️
-
-[Data](articles/f2cda9f7.json)
-
-[Extended Data](ext_articles/f2cda9f7.ext.json)
-
----
-
-### Israel admits ‘grave mistake’ and sacks senior officers after Gaza bombing kills aid workers
-
-*2024-04-05 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98455/israel-admits-grave-mistake-and-sacks-senior-officers-after-gaza-bombing-kills-aid-workers) · `en`
-
-Israel has admitted its forces made a “grave mistake” after seven aid workers with World Central Kitchen were killed in an airstrike.
-
-The humanitarian group, which delivers food aid to war and disaster zones, said the seven were returning from coordinating an aid shipment in central Gaza when their three car convoy was struck and they were killed.
-
-Their deaths triggered a wave of international condemnation and shone a fresh spotlight on the dire conditions that Gaza’s besieged population is suffering from in the embattled enclave.
-
-More than 220 humanitarian workers have been killed in the conflict so far, according to the UN. Responding to the inquiry, Scott Paul, humanitarian policy lead at Oxfam, said: “The World Central Kitchen attack is tragic, but it’s not an anomaly. The killing of aid workers in Gaza has been systemic.
-
-...
-
-[Data](articles/7e3e659d.json)
-
-[Extended Data](ext_articles/7e3e659d.ext.json)
-
----
-
-### Former police officer arrested for throwing stones at a hotel where Japanese ambassador's wife
-
-*2024-04-05 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180529) · `ta`
-
-A former Senior Police Superintendent in Budhala was arrested for allegedly throwing stones at a hotel where the Japanese ambassador's wife was staying, causing damage and fear among guests. The incident was reported by the ambassador's wife to the hotel owner, who then lodged a complaint with the police. The suspect will face charges in the Wellawaya Magistrate's Court.
-
-🟩
-
-Former Senior Police Superintendent has been arrested for allegedly attacking stones at a hotel where the Japanese ambassador's wife is staying in Budhala.
-
-Japan's ambassador's wife Mariko Mizukoshi visited Colombo on Thursday night (04) to attend a special need for "Little Tree" in the Budhala area.
-
-In this case, the former Senior Superintendent of Police, who lived near the hotel, threw stones at the hotel.
-
-In this case, the Japanese ambassador's wife had written to the hotel owner about the incident, and the hotel management lodged a complaint with the Budhala police.
-
-In it, the Japanese ambassador's wife said, “Someone last night threw stones at the big window of the hotel's wedding.. This caused massive damage to the hotel. I was so scared of what happened as a hotel guest. Japanese visitors, supporters and all Japanese government officials said that if such a thing happens again, they will be afraid and worried about the "Little Tree" special needy children's center.
-
-...
-
-[Data](articles/d531fbb0.json)
-
-[Extended Data](ext_articles/d531fbb0.ext.json)
-
----
-
-### Sri Lanka’s official reserve assets increase by 9.5% in March
-
-*2024-04-05 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98454/sri-lankas-official-reserve-assets-increase-by-95-in-march) · `en`
-
-The Central Bank of Sri Lanka (CBSL) says Sri Lanka’s official reserve assets have recorded an increase of 9.5% in the month of March 2024.
-
-Accordingly, the official reserve assets have reached USD 4.95 billion in March 2024.
-
-This includes proceeds from People’s Bank of China (POBC) SWAP equivalent to USD 1.4 billion, which is subject to conditionalities on usability, according to the CBSL.
-
-◼️
-
-[Data](articles/324ea0bc.json)
-
-[Extended Data](ext_articles/324ea0bc.ext.json)
-
----
-
-### Minister Douglas returned to the Kilinochchi -Ponnaveli area with the opposition of the people
-
-*2024-04-05 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180538) · `ta`
-
-Minister Douglas Devananda faced protests in Kilinochchi-Ponnaveli over opening the Ponnaweli Cement Factory. Despite police efforts, he returned to the event due to ongoing opposition.
-
-🟩
-
-Minister Douglas returned to Kilinochchi Ponnaweli Cement Factory. The incident took place today (05).
-
-People are protesting against Minister Douglas Devananda who went to open the Ponnaweli Cement Factory.
-
-People are constantly expressing opposition to the Sunnah of the Cement Factory in the Ponnaveli area of the Kilinochchi - Poonakari Divisional Secretariat.
-
-In this backdrop, people have expressed their opposition as steps have been taken to launch the minister's factory today.
-
-There has been unrest. The police had controlled the rhetoric between Minister Douglas Devananda and the protesters.
-
-However, the Minister has returned to the event due to the continuous opposition of the people.
-
-◼️
-
-[Data](articles/68988e68.json)
-
-[Extended Data](ext_articles/68988e68.ext.json)
-
----
-
-### Mother in the Bun: The girl abuse
-
-*2024-04-05 17:04:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாட்டு-கட்டிலில்-தாய்-சிறுமி-துஷ்பிரயோகம்/175-335645) · `ta`
-
-A 10-year-old girl was raped at Karapitiya Hospital, Galle. The suspect, the father of another patient, was arrested. The victim's mother reported the incident, leading to the suspect's arrest.
-
-🟩
-
-A 10 -year -old girl who was staying at a hospital in a hospital has been severely raped at Karapitiya Hospital, Galle.
-
-The suspect, who was raped, was arrested on Wednesday (05), Galle police said.
-
-Investigations have also been found that the arrested person was the father of another girl who had recently been treated at the cot, where the girl was raped.
-
-The mother of the girl who was raped and was sleeping on this occasion. The girl has brought to the attention of her mother in connection with the incident. The hospital officials then brought them to the attention of the hospital police.
-
-Galle police then arrested the suspect. Galle police said that the 39 -year -old suspect has taken steps to produce the suspect in court.
-
-◼️
-
-[Data](articles/fd802609.json)
-
-[Extended Data](ext_articles/fd802609.ext.json)
 
 ---

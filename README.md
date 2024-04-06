@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 09:18:00**
+As of **2024-04-06 09:33:43**
 
 ## Newspaper Stats
 
-*Scraped **17,451** Articles*
+*Scraped **17,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 959
 economynextcom | 972
 adalk | 1,466
 tamilmirrorlk | 2,057
-adaderanalk | 2,099
-virakesarilk | 2,539
+adaderanalk | 2,100
+virakesarilk | 2,540
 dailymirrorlk | 2,672
 adaderanasinhalalk | 2,820
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,820
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,450 (100.0%) of 17,451 articles have been extended.
+17,451 (100.0%) of 17,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### கல்வி அமைச்சின் இணையத்தளத்தின் மீது சைபர் தாக்குதல்  ;  விசாரணை ஆரம்பம்
+
+*2024-04-06 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180556) · `ta`
+
+இலங்கை கல்வி அமைச்சின் இணையளத்தளத்தின் மீது சைபர் தாக்குதல் நடத்திய இனந்தெரியாத ஹேக்கர்கள் தொடர்பில் விசாரணை தொடர்பில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளது.
+
+விசாரணைகளை இலங்கை கணினி அவசர நடவடிக்கை பிரிவு (SLCERT) மற்றும் இலங்கை தொலைத்தொடர்பு ஒழுங்குபடுத்தல் ஆணைக்குழு (TRCSL) ஆகிய முன்னெடுத்துள்ளன.
+
+பயனர்களுக்கு ஏற்பட்ட அசௌகரியங்களுக்கு கல்வி அமைச்சு கவலை தெரிவித்ததுடன், உத்தியோகபூர்வ இணையத்தளத்தை விரைவாக மீட்டெடுப்பதற்கான முயற்சிகள் நடைபெற்று வருவதாகவும் உறுதியளித்துள்ளது.
+
+இந்த சைபர் தாக்குதல்  “அனோனிமஸ் EEE” என்ற ஹேக்கர்கள் குழு  இணையளத்தளத்திலுள்ள பாதுகாப்பு குறைபாடுகளை வெளிச்சம் சுட்டிக்காட்டியதோடு, அத்துமீறி உள்நுழைந்தமைக்கு மன்னிப்புக் கோரி ஒரு செய்தியை வெளியிட்டிருந்தது.
+
+◼️
+
+[Data](articles/2fb267aa.json)
+
+---
 
 ### Sri Lanka and bondholders plan fresh round of debt talks this month
 
@@ -45,6 +63,24 @@ Representatives for the central bank, treasury secretary and bondholder committe
 ...
 
 [Data](articles/63bdae81.json)
+
+[Extended Data](ext_articles/63bdae81.ext.json)
+
+---
+
+### Sri Lanka, bondholders plan fresh round of debt talks this month - reports
+
+*2024-04-06 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98464/sri-lanka-bondholders-plan-fresh-round-of-debt-talks-this-month-reports) · `en`
+
+(Bloomberg) - Global investors and Sri Lanka officials expect to hold a second round of talks aimed at restructuring $12 billion in defaulted global bonds later this month, according to people familiar with the matter.
+
+A group of bondholders, known as a steering committee, and government representatives came away from a first round of negotiations in Europe in late March without a deal. They plan to continue the discussions around the International Monetary Fund’s spring meetings in Washington DC, which start April 15, said the people, who asked not to be identified as the discussions are private. They didn’t disclose details of the proposal that’s under consideration.
+
+Representatives for the central bank, treasury secretary and bondholder committee didn’t respond to messages seeking comment Friday.
+
+...
+
+[Data](articles/7ae915ea.json)
 
 ---
 
@@ -2133,49 +2169,5 @@ Mr. Nimal Siripala de Silva had made a request to the SLFP acting as a letter to
 [Data](articles/3095b19c.json)
 
 [Extended Data](ext_articles/3095b19c.ext.json)
-
----
-
-### Amg. Weerasena to parliament
-
-*2024-04-05 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195337) · `si`
-
-Maha Senevi Weerasena elected MP. Nandasena's seat vacant.
-
-🟩
-
-Amg. The Elections Commission announced that the Maha Senevi Weerasena would be elected as a Member of Parliament.
-
-That passes. Inspecting Mr. Nandasena, the vacant seat is the vacant seat.
-
-◼️
-
-[Data](articles/02ca5f6f.json)
-
-[Extended Data](ext_articles/02ca5f6f.ext.json)
-
----
-
-### An monk who helped underwhellore
-
-*2024-04-05 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195336) · `si`
-
-A monk linked to Ratgama Vidura, an organized crime gang member, was suspected of aiding in the murder of Ravindu Sanath de Silva on December 18, 2022, near the criminal and Hanwella crossing area. Six suspects, including the monk, were arrested for their alleged involvement in criminal activities.
-
-🟩
-
-An monk who was suspected to support the organized crime gang member named Ratgama Vidura.
-
-Police say that the relevant monk was also helped to flee the 'donkey' to the donkey.
-
-On December 18, 2022, Ravindu Sanath de Silva was shot dead in the opening of the criminal and Hanwella crossing area.
-
-Meanwhile, police arrested six suspects who were aid for criminal gangs yesterday (04) with the relevant monk.
-
-◼️
-
-[Data](articles/13280c3d.json)
-
-[Extended Data](ext_articles/13280c3d.ext.json)
 
 ---

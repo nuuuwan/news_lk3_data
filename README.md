@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 18:51:26**
+As of **2024-04-06 19:03:20**
 
 ## Newspaper Stats
 
-*Scraped **17,509** Articles*
+*Scraped **17,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,468
 tamilmirrorlk | 2,061
 adaderanalk | 2,114
 virakesarilk | 2,555
-dailymirrorlk | 2,676
+dailymirrorlk | 2,677
 adaderanasinhalalk | 2,835
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,509 (100.0%) of 17,509 articles have been extended.
+17,509 (100.0%) of 17,510 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1035,6 +1035,24 @@ These sentiments were voiced during his participation in the 2022 annual prize-g
 [Data](articles/2684074b.json)
 
 [Extended Data](ext_articles/2684074b.ext.json)
+
+---
+
+### SL gained Katchatheevu Island at the cost of Wadge Bank to India
+
+*2024-04-06 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SL-gained-Katchatheevu-Island-at-the-cost-of-Wadge-Bank-to-India/155-280306) · `en`
+
+Colombo, April 06 (Daily Mirror) - In the midst of heated political debate over the Katchatheevu Island, Fisheries Minister Douglas Devananda set the stage for another debate when he said that India secured Wadge Bank which is located below Kanyakumari and a much bigger area with extensive sea resources while ceding the Katchatheevu to Sri Lanka in terms of the 1976 agreement.
+
+In India, the then Indira Gandhi government decided that when the IMBL (International Maritime Boundary Line) was drawn up, Katchatheevu would go to Sri Lanka and India in turn would get the Wedge Bank — a fish-rich area close to the coast of Kanyakumari.
+
+Referring to the matter, Minister Devananda told Daily Mirror that this is an area with rich marine resources including petroleum resources and India had secured in when drawing the maritime boundary line.
+
+“I thought I should disclose this hitherto unknown fact to people here,” he said.
+
+...
+
+[Data](articles/6e9ee61c.json)
 
 ---
 
@@ -2199,25 +2217,5 @@ A wind farm consisting of 30 towers generating 100MW (Phase 1 – Thambapawani) 
 [Data](articles/12cae832.json)
 
 [Extended Data](ext_articles/12cae832.ext.json)
-
----
-
-### Proportion of Tamil youth in public institutions, tri-forces must be increased: AKD
-
-*2024-04-05 22:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Proportion-of-Tamil-youth-in-public-institutions-tri-forces-must-be-increased-AKD/108-280274) · `en`
-
-Jaffna, April 05 (Daily Mirror)- Claiming that both Sinhala and Tamil people have a right to interact with the State in their own languages, NPP leader Anura Kumara Dissanayake said that the proportion of the Tamil youth in public institutions, tri-forces and important sectors should be increased.
-
-Speaking at the Northern Provincial Conference of Ceylon Teachers Service Union yesterday, he said it was vital to defeat the racial political culture in the country on behalf of the future generation.
-
-"Our main political stream has adopted rival politics so far. Sinhala people in the South were organised against the North. Tamil people in the North were organised against Sinhala people in the South. We need to put a stop to this racial political culture. That is for our future generation," he said.
-
-Dissanayake appealed to Tamil politicians in the North saying that if they were really concerned about the issues faced by the Tamil people, they need to unite.
-
-...
-
-[Data](articles/32a07b1d.json)
-
-[Extended Data](ext_articles/32a07b1d.ext.json)
 
 ---

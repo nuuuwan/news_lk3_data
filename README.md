@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 18:08:24**
+As of **2024-04-06 18:20:18**
 
 ## Newspaper Stats
 
-*Scraped **17,506** Articles*
+*Scraped **17,507** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ tamilmirrorlk | 2,061
 adaderanalk | 2,112
 virakesarilk | 2,555
 dailymirrorlk | 2,676
-adaderanasinhalalk | 2,834
+adaderanasinhalalk | 2,835
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,505 (100.0%) of 17,506 articles have been extended.
+17,506 (100.0%) of 17,507 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### බස් චණ්ඩියාට වැඩ වැරදුණු හැටි
+
+*2024-04-06 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195370) · `si`
+
+රථවාහන පොලිස් නිලධාරියෙකු ඉදිරියේදීම  බස් රියදුරෙකු විසින් වෑන් රථ රියදුරෙකුට පා පහරක් එල්ලකරන අයුරු දැක්වෙන වීඩියෝවක් මේ දිනවල සමාජ මාධ්‍ය හුවමාරු විය.
+
+එම අවස්ථාවේ බස් රථයේ විශාල මගීන් ප්‍රමාණයක් සිටීම හේතුවෙන් ඔහුව තාවකාලිකව මුදාහැර අද දිනයේ පොලීසිය හමුවේ පෙනී සිටින ලෙසට දැනුම්දුන්නද ඔහු එය මගහැර ගොස් තිබුණි.
+
+ඒ අනුව සැකකාර බස් රථ රියදුරා පිළියන්දල මිරිස්වත්ත ප්‍රදේශයේදී පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබුණි.
+
+අනතුරුව ඔහුව කැස්බෑව මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කර තිබුණු අතර එහිදී සැකකාර රියදුරු රුපියල් ලක්ෂයක ශරීර අප මත මුදාහැරීමට නියෝග කර ඇත.
+
+කෙසේ වෙතත් සැකකාර රියදුරුගේ රියදුරු බලපත්‍රය එම නඩුව අවසන් වනතුරු පොලීසිය භාරයේ තබාගන්න ලෙසට අධිකරණය නියෝග කර තිබේ.
+
+සිය රෝගී දියණිය වෑන් රථයකින් රෝහල වෙත රැගෙන යන අවස්ථාවේ සැකකාර බස් රථ රියදුරු පැදවූ 120 හොරණ කොළඹ බස් රථයට මාර්ගයේ ඉඩ නොදුන්නාට උරණ වී එම බස් රථය වෑන් රථය අනතුරට ලක්කිරීමට උත්සාහ කර තිබුණි.
+
+...
+
+[Data](articles/8b8913f4.json)
+
+---
 
 ### Special notice to all public employees regarding New Year vacation
 
@@ -47,6 +69,8 @@ Meanwhile, the ministry has also mentioned that the officials should make arrang
 ◼️
 
 [Data](articles/cfa05640.json)
+
+[Extended Data](ext_articles/cfa05640.ext.json)
 
 ---
 
@@ -2201,35 +2225,5 @@ Police Media Spokesperson DIG Nihal Talduuwa said that he said that during the y
 [Data](articles/eddd8ac7.json)
 
 [Extended Data](ext_articles/eddd8ac7.ext.json)
-
----
-
-### New York buildings rattled by rare East Coast earthquake
-
-*2024-04-05 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98459/new-york-buildings-rattled-by-rare-east-coast-earthquake) · `en`
-
-A rare earthquake has hit New Jersey, rattling buildings in New York City and the surrounding areas.
-
-The United States Geological Survey said the magnitude-4.8 quake’s epicentre was near Lebanon, New Jersey.
-
-A UN Security Council meeting on Gaza at its New York headquarters was temporarily paused due to the tremor.
-
-“Is that an earthquake?” said Save the Children representative Janti Soeripto, who was speaking at the time.
-
-The earthquake hit at around 10:20 local time (15:20 GMT). There are no reports of major damage.
-
-Buildings were shaken in the city’s Brooklyn and the Bronx districts, rattling cupboard doors and fixtures.
-
-Charita Walcott, a 38-year-old resident in the Bronx, said the quake felt “like a violent rumble that lasted about 30 seconds or so”.
-
-“It was kind of like being in a drum circle, that vibration,” she said.
-
-“I was laying in my bed, and my whole apartment building started shaking. I started freaking out,” another New York resident told the BBC’s US partner CBS.
-
-...
-
-[Data](articles/5aa9d9f1.json)
-
-[Extended Data](ext_articles/5aa9d9f1.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 04:50:38**
+As of **2024-04-07 05:03:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,841
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,529 (100.0%) of 17,530 articles have been extended.
+17,530 (100.0%) of 17,530 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -449,6 +449,8 @@ The once powerful Liberation Tigers of Tamil Eelam(LTTE) waged war against the S
 ...
 
 [Data](articles/a49a1a26.json)
+
+[Extended Data](ext_articles/a49a1a26.ext.json)
 
 ---
 

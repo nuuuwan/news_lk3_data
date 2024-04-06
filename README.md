@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 08:03:10**
+As of **2024-04-06 08:18:25**
 
 ## Newspaper Stats
 
-*Scraped **17,443** Articles*
+*Scraped **17,444** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 959
 economynextcom | 972
 adalk | 1,466
 tamilmirrorlk | 2,054
-adaderanalk | 2,096
+adaderanalk | 2,097
 virakesarilk | 2,539
 dailymirrorlk | 2,671
 adaderanasinhalalk | 2,819
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,819
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,442 (100.0%) of 17,443 articles have been extended.
+17,443 (100.0%) of 17,444 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### Afternoon thundershowers anticipated in some areas despite extreme heat
+
+*2024-04-06 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98462/afternoon-thundershowers-anticipated-in-some-areas-despite-extreme-heat) · `en`
+
+Showers or thundershowers are expected at a few places in the Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts after 2.00 p.m. today (06), the Department of Meteorology says.
+
+Hence, the members of the public are urged to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+The department also issued a heat index advisory, warning that the temperature felt on the human body is likely to increase up to ‘Caution Level’ in parts of the Northern, North-Central, Eastern, Western, Sabaragamuwa, North-western and Southern provinces as well as in Matale, Monaragala districts today.
+
+As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity while continuing activity could result in heat cramps.
+
+...
+
+[Data](articles/e81e7551.json)
+
+---
 
 ### Foreign national drowns
 
@@ -188,19 +206,27 @@ As the Tamil & Sinhala New Year celebrations commence in the country, retail tra
 
 ---
 
-### ’அரசாங்க அதிகாரிகளுக்கும் பாரிய பொறுப்பு’
+### Massive responsibility for government officials
 
 *2024-04-06 03:31:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-அதிகாரிகளுக்கும்-பாரிய-பொறுப்பு/175-335651) · `ta`
 
-அஸ்வெசும, உறுமய, மலைநாட்டுத் தசாப்தம் உள்ளிட்ட வேலைத் திட்டங்களின் பலன்களை, மக்களுக்குப் பெற்றுக்கொடுக்க அரசியல்வாதிகளைப் போன்று, அரச அதிகாரிகளும் ஒத்துழைக்க வேண்டியது அவசியமாகுமென ஜனாதிபதியின் தொழிற்சங்கப் பணிப்பாளர் நாயகம் சமன் ரத்னப்பிரிய தெரிவித்துள்ளார்.
+Government officials must cooperate to implement key programs like Urumaya, Azwesuma, and the mountain decade, benefiting millions. These initiatives, funded by the President, aim to provide land rights to 20 lakh people under Urumaya, marking a historic first. Public cooperation is crucial for success.
 
-2024 ஆம் ஆண்டிற்கான வரவு - செலவுத் திட்டத்தில் முன்மொழியப்பட்ட உறுமய, அஸ்வெசும மற்றும் மலைநாட்டுத் தசாப்தம் உள்ளிட்ட திட்டங்கள் குறித்து அரசியல் செயற்பாட்டாளர்கள், தொழிற்சங்கத் தலைவர்கள், சிவில் அமைப்புக்களின் பிரதிநிதிகள் உள்ளிட்ட தரப்பினரைத் தெளிவுபடுத்துவதற்காக ஜனாதிபதி அலுவலகத்தில் நடைபெற்ற சந்திப்பிலேயே அவர் அவர்  தெரிவித்தார்,
+🟩
 
-நிதியமைச்சர் என்ற வகையில், ஜனாதிபதி 2024 ஆம் ஆண்டுக்கான வரவு - செலவுத் திட்டத்தில் பல முக்கிய வேலைத்திட்டங்களை அமுல்படுத்த நிதி ஒதுக்கீடு செய்திருந்தார். அந்த வேலைத்திட்டங்கள் இன்று செயற்படுத்தப்படுகின்றன. அதன்படி உறுமய, அஸ்வெசும , மலைநாட்டுத் தசாப்தம் உள்ளிட்ட மக்களுக்கு பெருமளவில் பலனளிக்கும் திட்டங்கள் குறித்து அனைவரையும் தெளிவுப்படுத்த வேண்டியது அவசியம்.
+The President's Trade Union Director Saman Ratnapriya said that it would be necessary for government officials to cooperate, like politicians to provide the benefits of programs, including the Azwesuma, Urumaya and the mountain decade.
+
+He said at a meeting held at the Presidential Office to clarify the proposals, including political activists, trade union leaders and representatives of civil organizations, on the proposals, including the Urumaya, Ashemu and the mountain decade, proposed in the budget of 2024.
+
+As a finance minister, the President has allocated funds to implement several key programs in the budget of 2024. Those programs are being implemented today. Accordingly, it is important to clarify everyone on the projects that will benefit people, including the Urumaya, Ashewasum and the Hill Country.
+
+Land rights will be given to people under the Urumaya Program. 20 lakh people will benefit. Such projects have not been carried out in this country in history.
 
 ...
 
 [Data](articles/3684d361.json)
+
+[Extended Data](ext_articles/3684d361.ext.json)
 
 ---
 
@@ -2151,35 +2177,5 @@ Accordingly, Fort Magistrate’s Court recently rejected a writ petition filed s
 [Data](articles/21096fbc.json)
 
 [Extended Data](ext_articles/21096fbc.ext.json)
-
----
-
-### The life sentenced to the father of two
-
-*2024-04-05 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195334) · `si`
-
-The Colombo High Court sentenced a man to life for smuggling 6.17 grams of heroin, despite police finding 329 grams. The accused was arrested in 2016 and charged with racketeering.
-
-🟩
-
-The Colombo High Court sentenced to death in charge of smuggling 6.17 grams of heroin in possession of 6.17 grams of drugs.
-
-The decision was issued by Colombo High Court Judge Adal Parandaniage.
-
-The accused was arrested by the police with 329 grams of heroin in Wattegedara, Wattalagama, held on August 19, 2016.
-
-However, the Government Analyst had reported that the number of net heroin content included in the number of heroin was 6.17 grams.
-
-The Attorney General filed charges against the accused and racketeering against the accused.
-
-After an extended trial, the judge said that the complaints made by the complaint had been proved without fair doubt against the accused.
-
-Accordingly, the judge ordered the accused to life sentenced to life.
-
-◼️
-
-[Data](articles/0c5c5034.json)
-
-[Extended Data](ext_articles/0c5c5034.ext.json)
 
 ---

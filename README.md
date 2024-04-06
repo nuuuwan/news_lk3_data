@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 22:04:05**
+As of **2024-04-06 22:18:17**
 
 ## Newspaper Stats
 
-*Scraped **17,522** Articles*
+*Scraped **17,523** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 958
 islandlk | 960
 economynextcom | 973
 adalk | 1,468
-tamilmirrorlk | 2,062
+tamilmirrorlk | 2,063
 adaderanalk | 2,116
 virakesarilk | 2,555
 dailymirrorlk | 2,680
@@ -26,29 +26,51 @@ adaderanasinhalalk | 2,840
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,521 (100.0%) of 17,522 articles have been extended.
+17,522 (100.0%) of 17,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### කොදෙව් ක්‍රිකට් හදන්න ශ්‍රී ලාංකිකයෙකුට ලොකු වගකීමක්
+### இலங்கைக்கான பயண ஆலோசனைகளை திருத்தியது பிரித்தானியா
+
+*2024-04-06 21:49:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கான-பயண-ஆலோசனைகளை-திருத்தியது-பிரித்தானியா/175-335674) · `ta`
+
+அவசரகால மருத்துவச் சேவைகளுக்கான அணுகல், நாட்டிற்குள் நுழையும் போது பாதுகாப்புத் தேவைகள், வீதிப் பாதுகாப்பு, நாட்டின் பாதுகாப்பு நிலைமை மற்றும் சுகாதார வசதிகளுக்கான அணுகல் ஆகிய விடயங்களில் ஏற்கனவே அறிவிக்கப்பட்ட தகவல்களை பிரித்தானியா மாற்றியுள்ளது.
+
+அதற்கமைய உணவு, எரிபொருள் மற்றும் மருந்துத் தட்டுப்பாடு குறித்து முந்தைய ஆலோசனையில் காணப்பட்ட தகவல்கள் இந்த திருத்தப்பட்ட பயண ஆலோசனையில் இருந்து நீக்கப்பட்டுள்ளன.
+
+இதனைத் தவிர, மருத்துவ உபகரணங்களின் பற்றாக்குறை போன்ற சுகாதார சேவைகளில் உள்ள சவால்களும் நீக்கப்பட்டுள்ளன.  R
+
+◼️
+
+[Data](articles/d2eb0646.json)
+
+---
+
+### A Sri Lankan to make West Indies cash cricket
 
 *2024-04-06 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195375) · `si`
 
-හිටපු ශ්‍රී ලංකා පළමු පෙළ ක්‍රිකට් ක්‍රීඩකයකු වන රමේෂ් සුබසිංහ බටහිර ඉන්දීය කොදෙව් පිරිමි ක්‍රිකට් ඇකඩමියේ ප්‍රධාන පුහුණුකරු ලෙස තෝරා පත් කරගෙන තිබේ.
+Ramesh Subasinghe, a former Sri Lankan cricketer, is now the Chief Trainer of the West Indies Cricket Academy, succeeding in a competitive selection process. He has previously trained in New Zealand and holds an ICC Third Level Coach qualification.
 
-මීට පෙර ඔහු නවසීලන්ත ක්‍රිකට් සංවර්ධන වැඩසටහනේ ප්‍රධාන පුහුණුකරුවෙකු ලෙස සහ කුසලතා සංවර්ධන කළමනාකරු ලෙස ද කටයුතු කර තිබුණි.
+🟩
 
-රමේෂ් සුබසිංහ ICC තුන්වන මට්ටමේ පුහුණුකරුවකු ලෙස ද සිය සුදුසුකම් සම්පූර්ණ කර ඇත.
+Ramesh Subasinghe, a former Sri Lanka first-class cricketer, has been elected as the Chief Trainer of the West Indies Cricket Academy.
 
-අයදුම්කරුවන් 53 දෙනෙකු අතුරින් ඇකඩමියේ ප්‍රධාන පුහුණුකාර ධුරය සඳහා ඔහු තෝරා පත්කර ගෙන ඇති බව වාර්තා වෙයි.
+Previously, he had served as a chief trainer of the New Zealand and talented development manager.
 
-බටහිර ඉන්දීය කොදෙව් පිරිමි ක්‍රිකට් ඇකඩමිය එරට නැගීඑන යොවුන් ක්‍රිකට් කණ්ඩායම වශයෙන් ද සලකණු ලබයි.
+Ramesh Subasinghe has also completed their qualifications as an ICC Third Level Coach.
+
+It is reported that he has been elected to the Chief Coach of the Academy of 53 applicants.
+
+The West Indies's male cricket academy is considered to be a rise up cricket team.
 
 ◼️
 
 [Data](articles/0af9e10a.json)
+
+[Extended Data](ext_articles/0af9e10a.ext.json)
 
 ---
 
@@ -2245,25 +2267,5 @@ These two events were organised in parallel to Sri Lanka’s participation at tw
 [Data](articles/a6b8db01.json)
 
 [Extended Data](ext_articles/a6b8db01.ext.json)
-
----
-
-### Adani Green Energy surpasses 10,000 MW renewable energy
-
-*2024-04-05 23:37:10* · [`dailyftlk`](https://www.ft.lk/business/Adani-Green-Energy-surpasses-10-000-MW-renewable-energy/34-760383) · `en`
-
-Adani Green Energy Ltd., (AGEL), one of the world’s leading renewable energy (RE) companies, has surpassed 10,000 megawatts (MW) of operational portfolio, delivering reliable, affordable, and clean power to the national grid.
-
-AGEL’s operational portfolio consists of 7,393 MW solar, 1,401 MW wind and 2,140 MW wind-solar hybrid capacity. The milestone is a testament to AGEL and its development partners firmly moving towards the goal of 45,000 GW renewable energy by 2030.
-
-AGEL’s 10,934 MW operational portfolio will power more than 5.8 million homes and avoid about 21 million tons of CO2 emissions annually.
-
-AGEL is setting a precedent for how innovative technology, execution capabilities, digitisation, a robust supply chain network, and long-term infrastructure financing, combined with sustainable practices, can drive the clean energy transition and decarbonisation on a giga scale.
-
-...
-
-[Data](articles/ae47c3b8.json)
-
-[Extended Data](ext_articles/ae47c3b8.ext.json)
 
 ---

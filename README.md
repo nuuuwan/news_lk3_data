@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 22:34:32**
+As of **2024-04-06 22:50:56**
 
 ## Newspaper Stats
 
-*Scraped **17,525** Articles*
+*Scraped **17,526** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 960
 economynextcom | 973
 adalk | 1,468
 tamilmirrorlk | 2,063
-adaderanalk | 2,117
+adaderanalk | 2,118
 virakesarilk | 2,555
 dailymirrorlk | 2,680
 adaderanasinhalalk | 2,841
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,841
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,523 (100.0%) of 17,525 articles have been extended.
+17,525 (100.0%) of 17,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### Govt to launch special loan scheme for welfare of artists in cinema industry
+
+*2024-04-06 22:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98482/govt-to-launch-special-loan-scheme-for-welfare-of-artists-in-cinema-industry) · `en`
+
+Dr. R. H. S. Mr. Samaratunga, the Presidential Senior Adviser on Economic Affairs, emphasized the need for artists to draft proposals aimed at enhancing the film industry’s progress and supporting its members.
+
+This directive was issued during a recent discussion at the Presidential Secretariat regarding the modernization of Sri Lankan cinema to align with contemporary standards and to ensure the sustained professional growth of artists within the sector.
+
+The discussion, led by Dr. Samaratunga and attended by the Presidential Trade Union Director General Mr. Saman Ratnapriya and National Film Corporation Chairman Mr. Deepal Chandraratne, extensively addressed the challenges facing the film industry.
+
+...
+
+[Data](articles/ddf20865.json)
+
+---
 
 ### Rare celestial spectacle as massive ‘Devil’s Comet’ returns after 71 years
 
@@ -52,27 +68,39 @@ According to NASA, the 18.6-mile-wide ‘Devil’s Comet’ is expected to reach
 
 [Data](articles/626495a6.json)
 
+[Extended Data](ext_articles/626495a6.ext.json)
+
 ---
 
-### බොරලැස්ගමුව කැලඹුණු ඝාතනයේ සුලමුල එළියට
+### Boralesgamuwa's murder was taken out
 
 *2024-04-06 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195376) · `si`
 
-බොරලැස්ගමුව ප්‍රදේශයේදී පුද්ගලයෙකුගේ ගෙළ කපා ඝාතනය කිරීමේ සිද්ධියේ සැකකරු පානදුර ප්‍රදේශයේදී පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A suspect in Boralesgamuwa's murder, arrested in Panadura East, confessed to a 15-year casual relationship with the victim and his wife. He claimed his daughters planned the murder, which he committed in Devilmamulla, Pacuem, and Pattamulla. The victim was a 38-year-old Matara resident. The suspect will face charges at Gangodawila Magistrate's Court, with further investigations ongoing.
 
-සැකකරු පොලීසියට පවසා ඇත්තේ ඝාතනය කරන ලද පුද්ගලයා සහ සිය බිරිඳ අතර වසර 15ක් තිස්සේ අනියම් සම්බන්ධතාවයක් ඇති බවය.
+🟩
 
-පසුගිය දිනක බිරිඳ නිවසින් පිටව ගිය බවත් ඇය ඔහු සමග සිටිනු ඇතැයි යන සැකය මත තමන් මෙම ඝාතනය කළ බවත් සැකකරු පොලීසිය හමුවේ පාපොච්චාරණය කර තිබේ.
+The suspect was arrested by the police in the Panadura East.
 
-සැකකරු වැඩිදුරටත් පවසා ඇත්තේ තමන්ට වයස අවුරුදු 24ක සහ 17 ක දියණියන් දෙදෙනෙකු සිටින බවත් ඔවුන්ට සමාජයෙන් සිදුවන අවමන් ඉවසාගැනීමට නොහැකිව මෙම අපරාධය සැලසුම් කළ බවත්ය.
+The suspect had told the police that the murdered man and his wife had a casual relationship for 15 years.
 
-ඒ අනුව බෙල්ලන්තර හංදිය ප්‍රදේශයේ සිට ඝාතනයට ලක්වූ පුද්ගලයාගේ ත්‍රිරෝද රථය පසුපස හඹාවිත් බොරලැස්ගමුව දේවාලමුල්ල ප්‍රදේශයේදී ඔහුගේ ගෙළට මන්නයකින් කොටා මෙම ඝාතනය කළ බවත් ඔහු පවසා තිබේ.
+The suspect was confessed to the police on suspicion that his wife left the house recently.
 
-ඝාතනය සිදුකිරීමෙන් අනතුරුව තමන් පළායන අවස්ථාවේ යතුරුපැදිය අනතුරට ලක්වූ බව සැකකරු පවසා ඇති අතර ඔහුගේ තොරතුරු මත සිදුකළ විමර්ශනයේදී ඝාතනයට යොදාගත් මන්නා පිහිය ද පිරිවෙන පාරේ කාණුවක තිබී සොයාගෙන ඇත.
+The suspect has said that he has two daughters and two daughters and two daughters and they have planned the crime that they cannot tolerate awake.
 
-...
+He has said that he had killed the murder in the Devilmamulla area in general area Pacuem in the Pattamulla area in general area Bellanar Junction.
+
+The suspect had said that the motorcycle was crashed at the time of his influence.
+
+The victim was a 38-year-old resident of Matara.
+
+The suspect is to be produced before the Gangodawila Magistrate's Court and the Boralesgamuwa Police are conducting further investigations.
+
+◼️
 
 [Data](articles/a8621009.json)
+
+[Extended Data](ext_articles/a8621009.ext.json)
 
 ---
 
@@ -2259,29 +2287,5 @@ Sirisena while talking to media in Kandy claimed on March 22 that he knew who re
 [Data](articles/d1231ada.json)
 
 [Extended Data](ext_articles/d1231ada.ext.json)
-
----
-
-### 2024-04-05 (Friday)
-
-### 2024 sees drop in dengue cases, deaths compared to previous years
-
-*2024-04-05 23:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98461/2024-sees-drop-in-dengue-cases-deaths-compared-to-previous-years) · `en`
-
-State Minister of Health Dr. Seetha Arambepola says that 2024 has seen a decrease in the number of dengue cases and mortality rates compared to previous years.
-
-Highlighting the progress, she noted that while 64 dengue-prone areas were identified by January, the authorities have successfully managed to mitigate risks in two zones as of today.
-
-These remarks were made by Dr. Arambepola during her participation in a press briefing at the Presidential Media Centre (PMC) today (05).
-
-Every year, accidents stemming from the unsafe handling of fireworks mar the festive season. Thus, a plea is made for vigilance and caution with loved ones during this New Year period.
-
-Additionally, in the preceding season, concerted efforts were made to raise awareness about dengue prevention. Gratitude is owed to health departments and media outlets for their significant contributions. Notably, compared to previous years, there has been a marked reduction in both dengue cases and fatalities.
-
-...
-
-[Data](articles/127841ce.json)
-
-[Extended Data](ext_articles/127841ce.ext.json)
 
 ---

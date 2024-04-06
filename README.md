@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 12:03:13**
+As of **2024-04-06 12:18:18**
 
 ## Newspaper Stats
 
-*Scraped **17,468** Articles*
+*Scraped **17,469** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 972
 adalk | 1,466
 tamilmirrorlk | 2,059
 adaderanalk | 2,104
-virakesarilk | 2,544
+virakesarilk | 2,545
 dailymirrorlk | 2,674
 adaderanasinhalalk | 2,822
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,822
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,468 (100.0%) of 17,468 articles have been extended.
+17,468 (100.0%) of 17,469 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### இலங்கையில் இருந்து கடத்தி செல்லப்பட்டு இந்திய கடலில் வீசப்பட்ட 5 கிலோ தங்கம் மீட்பு ; மூவர் கைது
+
+*2024-04-06 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/180574) · `ta`
+
+இலங்கையில் இருந்து சட்டவிரோதமாக கடல் வழியாக   படகில் கடத்தி செல்லப்பட்ட சுமார்  5 கிலோ எடை கொண்ட தங்க கட்டிகள் அடங்கிய பொதி கடலுக்கு அடியில் இருந்து மீட்கப்பட்டுள்ளது.
+
+இந்நிலையில், தங்கத்தை  இலங்கையிலிருந்து கடத்திச் சென்ற  மூவரை கைது செய்து இந்திய மத்திய வருவாய் புலனாய்வுத்துறை  அதிகாரிகள் தீவிர விசாரணை நடத்தி வருகின்றனர்.
+
+ராமநாதபுரம் மாவட்டம் தனுஷ்கோடி இலங்கைக்கு மிக அருகே உள்ளதால் இலங்கையிலிருந்து  படகு மூலம்   சமீப காலமாக தமிழகத்திற்குள் அதிக அளவு  தங்கம்  கடத்தி செல்லப்படுகின்றது.
+
+இதையடுத்து  இந்திய-இலங்கை சர்வதேச கடல் எல்லை பகுதியில் சட்ட விரோத நடவடிக்கைகளை தடுக்கவும், அந்நிய ஊடுருவலை கண்காணிக்கவும், இந்திய கடலோர கடற்படை இந்திய கடற்படை  மற்றும் சுங்கத்துறை என பாதுகாப்பு துறை அதிகாரிகள்  தீவிர  கண்காணிப்பு பணியில் ஈடுபட்டு வருகின்றனர்.
+
+...
+
+[Data](articles/ff26737f.json)
+
+---
 
 ### Entry to SLFP headquarters suspended amid investigation into ‘missing files’
 
@@ -2175,25 +2193,5 @@ A bond maturing on 01.07.2032 closed stable at 12.60/75 percent. (Colombo/Apr5/2
 [Data](articles/7949b4de.json)
 
 [Extended Data](ext_articles/7949b4de.ext.json)
-
----
-
-### Ukraine fires over 50 drones against Russia in one of biggest air attacks
-
-*2024-04-05 16:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ukraine-fires-over-50-drones-against-Russia-in-one-of-biggest-air-attacks/108-280254) · `en`
-
-KYIV, Ukraine -- Ukrainian officials claimed Friday they used a barrage of drones to destroy at least six military aircraft and badly damage eight others at an airfield in Russia’s Rostov region, while Russian defense officials claimed they intercepted 44 Ukrainian drones and that only a power substation was damaged in the attack.
-
-The assault appeared to be one of Kyiv's biggest air attacks in the war, coming as its forces step up their assaults on Russian soil. The Associated Press could not independently verify either side's claims.
-
-Russia has escalated attacks on civilian infrastructure, including Ukraine’s power plants, in recent weeks, signaling a new and potentially dangerous phase in the conflict as both sides struggle to achieve significant advances on the ground.
-
-The overnight attack targeted a military airfield near Morozovsk in Russia and was conducted by Ukraine’s Security Service in cooperation with the army, Ukrainian intelligence officials told the AP.
-
-...
-
-[Data](articles/81e10f89.json)
-
-[Extended Data](ext_articles/81e10f89.ext.json)
 
 ---

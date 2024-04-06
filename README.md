@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 13:03:38**
+As of **2024-04-06 13:18:03**
 
 ## Newspaper Stats
 
-*Scraped **17,475** Articles*
+*Scraped **17,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 959
 economynextcom | 973
 adalk | 1,466
 tamilmirrorlk | 2,059
-adaderanalk | 2,106
-virakesarilk | 2,547
+adaderanalk | 2,107
+virakesarilk | 2,548
 dailymirrorlk | 2,674
 adaderanasinhalalk | 2,823
 
@@ -26,25 +26,67 @@ adaderanasinhalalk | 2,823
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,474 (100.0%) of 17,475 articles have been extended.
+17,475 (100.0%) of 17,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### கிளிநொச்சியில் 18 கிலோ கஞ்சாவுடன் ஒருவர் கைது!
+### U.S. National Security Advisor speaks with Sri Lankan counterpart
+
+*2024-04-06 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98471/us-national-security-advisor-speaks-with-sri-lankan-counterpart) · `en`
+
+White House National Security Advisor has expressed his interest in maintaining the United States’ ongoing engagement with Sri Lanka in order to collaboratively pursue peace and security in the region.
+
+According to a White House statement, Jake Sullivan conveyed this during a telephone conversation with Sri Lanka’s National Security Advisor Sagala Ratnayake earlier this week.
+
+Their discussion has covered areas of bilateral engagement including U.S. support to Sri Lanka’s security and sovereignty.
+
+Sullivan and Ratnayake also discussed Sri Lanka’s ongoing efforts to complete the fiscal, monetary, and governance elements of its International Monetary Fund (IMF) program, and future opportunities for cooperation.
+
+◼️
+
+[Data](articles/d5c7f12f.json)
+
+---
+
+### யாழில். ஒலிபெருக்கி சாதனத்தினுள் மறைத்து கஞ்சா கடத்தி சென்ற மூவர் கைது
+
+*2024-04-06 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180581) · `ta`
+
+யாழ்ப்பாணத்தில், சிறிய ரக ஒலிபெருக்கி சாதனத்தினுள் (box) கஞ்சாவை மறைத்து கடத்தி சென்ற குற்றச்சாட்டில் மூவர் கைது செய்யப்பட்டுள்ளதுடன் , அவர்களிடம் இருந்து 18 கிலோ கஞ்சா போதைப்பொருளையும் பொலிஸார் மீட்டுள்ளனர்.
+
+சாவகச்சேரி பகுதியில் கடந்த 30 ஆம் திகதி 04 கிலோ கஞ்சா போதைப்பொருளுடன் கைது செய்யப்பட்ட இருவரை பொலிஸார் கைது செய்து நீதிமன்றில் முற்படுத்தி , 07 நாட்கள் பொலிஸ் தடுப்புக்காவலில் வைத்து விசாரணை செய்வதற்கு அனுமதி கோரி இருந்தனர். அதற்கு நீதிமன்று அனுமதி வழங்கி இருந்தது.
+
+அவர்களிடம் முன்னெடுக்கப்பட்ட விசாரணைகளின் அடிப்படையில் , அவர்களிடம் இருந்து இரகசிய தகவல்களை பெற்று , பொலிஸ் புலனாய்வு பிரிவினர் சிறப்பு நடவடிக்கைகளை முன்னெடுத்தனர்.
+
+இந்நிலையில் இன்றைய தினம் மோட்டார் சைக்கிள் ஒன்றில் கஞ்சா கடத்தி செல்லப்படுவதாக பொலிஸாருக்கு கிடைத்த ரகசிய தகவலின் அடிப்படையில் செம்மணி பகுதியில் விசேட சோதனை நடவடிக்கையை முன்னெடுத்த போது , சந்தேகத்திற்கு இடமான முறையில் மோட்டார் சைக்கிளில் பயணித்தவர்களை பொலிஸார் மறித்து சோதனையிட்டனர்.
+
+...
+
+[Data](articles/48b98ab2.json)
+
+---
+
+### 18 kg of ganja in Kilinochchi
 
 *2024-04-06 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180580) · `ta`
 
-மன்னாரில் உள்ள போதை ஒழிப்பு விசேட பிரிவினருக்கு கிடைத்த தகவலிற்கு அமைவாக குறித்த பிரிவினரால் மேற்கொள்ளப்பட்ட சுற்றி வளைப்பில் குறித்த கைது இடம்பெற்றுள்ளது.
+In Kilinochchi, 18 kg of ganja was seized during a raid, with the suspect and certificates arrested at midnight.
 
-கிளிநொச்சி பொலிஸ் பிரிவிற்குட்பட்ட பொன்னகர் பகுதியில் வைத்தே சோதனை மேற்கொண்ட போது 18 கிலோ 470 கிராம் கஞ்சா குறித்த சந்தேக நபரிடம் இருந்து மீட்கப்பட்டுள்ளது.
+🟩
 
-நள்ளிரவு கைது செய்யப்பட்ட சந்தேக நபரும், சான்று பொருட்களும் கிளிநொச்சி பொலிஸ் காவவில் உள்ள நிலையில் இன்று நீதிமன்றில் முற்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிசார் தெரிவிக்கின்றனர்.
+The arrests have been made in accordance with the information available to the Special Division of Drug Eradication in Mannar.
+
+The suspect has been recovered from 18 kg of cannabis during a raid on the Ponnagar area of the Kilinochchi police division.
+
+The suspect and certificates who were arrested at midnight are in the Kilinochchi Police Kavitha, police said.
 
 ◼️
 
 [Data](articles/3f42b697.json)
+
+[Extended Data](ext_articles/3f42b697.ext.json)
 
 ---
 
@@ -2133,51 +2175,5 @@ At the same time, video recordings and weapons photos of the violent gangs have 
 [Data](articles/6f0cf7c8.json)
 
 [Extended Data](ext_articles/6f0cf7c8.ext.json)
-
----
-
-### Mobile phones decline
-
-*2024-04-05 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195344) · `si`
-
-Sri Lanka's mobile phone prices have dropped 18-20% due to the dollar's fall, according to Samaith Senarath, Chairman of the Association.
-
-🟩
-
-The mobile phone prices of the mobile phone prices of Sri Lanka have dropped between 18% and 20% due to the drop of the dollar.
-
-The Chairman of the Association, Samaith Senarath told a media briefing.
-
-◼️
-
-[Data](articles/2918bffa.json)
-
-[Extended Data](ext_articles/2918bffa.ext.json)
-
----
-
-### Sri Lankans reluctant to get tested for HIV: State minister
-
-*2024-04-05 16:59:00* · [`economynextcom`](https://economynext.com/sri-lankans-reluctant-to-get-tested-for-hiv-state-minister-157724/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s population is reluctant to get tested for HIV-AIDS due to social stigmas, State Minister of Health Dr Sita Arambepola said.
-
-“When the social phobia is there for these diseases people won’t come and get their treatment,” Arambepola told reporters on Friday.
-
-Ministry of Health data shows that there were 694 reported AIDS cases in 2023 with 59 HIV related deaths.
-
-In December, Sri Lanka’s health authorities said compared to 2021, there was a 48 percent increase in the number of people living with HIV in the country in 2022.
-
-Arambepola confirmed there was an increase in HIV AIDS patients. “There are avenues to spread, so definitely its getting increased.”
-
-Two HIV-positive people were identified in Negombo during Police raids of spas recently.
-
-Reports indicate there was a significant increase in HIV with sexually active young people being a high risk group.
-
-...
-
-[Data](articles/271e9aef.json)
-
-[Extended Data](ext_articles/271e9aef.ext.json)
 
 ---

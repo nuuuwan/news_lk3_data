@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 13:33:54**
+As of **2024-04-06 13:52:29**
 
 ## Newspaper Stats
 
@@ -26,33 +26,47 @@ adaderanasinhalalk | 2,824
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,477 (100.0%) of 17,478 articles have been extended.
+17,478 (100.0%) of 17,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### 20-20 ලෝක කුසලානය ජයගෙන වසර 10යි
+### 10 years of winning World Cup
 
 *2024-04-06 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195358) · `si`
 
-ශ්‍රී ලංකාව 2014 විස්සයි විස්ස ක්‍රිකට් ලෝක කුසලානය දිනා අදට (06) වසර 10ක් සපිරෙයි.
+Sri Lanka wins the Twenty20 World Cup, defeating India in Dhaka. Sri Lanka's victory was led by Lasith Malinga and Nuk Kulasekara, with Kumar Sangakkara and Thisara Perera opening with a 56-run partnership. Thisara Perera scored 23 runs with three sixes, including the winning six.
 
-ලසිත් මාලිංග ප්‍රමුඛ ශ්‍රී ලංකා කණ්ඩායම මෙම ජයග්‍රහණය වාර්තා කළේ ඉන්දියාව පරාජය කරමිනි.
+🟩
 
-එවකට කාගේත් අවධානය දිනා ගත් මෙම අවසන් මහා තරගය ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වුණේ බංග්ලාදේශයේ ඩකා නුවර ජාතික ක්‍රිකට් ක්‍රීඩාංණයේදීය.
+Sri Lanka will win the Twenty20 World Cup today (06).
 
-තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 4ක් දැවී රැස් කළ ලකුණු සංඛ්‍යාව 130කි.
+Sri Lanka's leading Sri Lanka leading this victory by defeating India.
 
-ප්‍රබල පිතිකරු බලඇණියකින් යුක්ත වූ ඉන්දීය පිල මෙහිදී ශ්‍රී ලංකා පන්දු යවන්නන් මනාව පාලනය කළ අතර නායක ලසිත් මාලිංග සහ නුවන් කුලසේකර අවසන් පන්දුවාර කිහිපයේදී යොමු කළ වයිඩ් යෝකර් පන්දු ඉන්දීය පිතිකරුවන් අසරණ කළේය.
+The final was held between Sri Lanka and India in the national cricket area in Dhaka, Bangladesh.
 
-ලකුණු 131ක ඉලක්කයක් හඹා යාමට පිටියට පිවිසි ශ්‍රී ලංකා ආරම්භක පිතිකරුවන් යුගල ලකුණු 41ක් තුළ දවා ගැනීමට ඉන්දීය පන්දු යවන්නන් සමත්විය.
+The Indian team scored 130 runs for the loss of 4 wickets in the final 20 overs.
 
-කුමාර් සංගක්කාර සහ තිසර පෙර්රා 5වන කඩුල්ලට පන්දු 32කදී නොබිඳුනු ලකුණු 56ක සබඳතාවක් ගොඩනගමින් ශ්‍රී ලංකා පිල ජය මාවත විවර කර දුනි.
+The Indian bowlers with a powerful batsman were well-controlled by the Sri Lankan bowlers, while Leader Lasith Malinga and Nuk Kulasekara.
 
-...
+Indian bowlers were able to consult Sri Lanka openers in 41 runs in 41 runs.
+
+Kumar Sangakkara and Thisara Perera opened a 56 runs in 32 balls to build a 56-ball connection in 32 balls with a 56-ball point.
+
+Accordingly, Sri Lanka won the 13-20 World Cup with 4 wickets off the end of 17 balls.
+
+Kumar Sangakkara scored an unbeaten 52 runs while the Tisara Perera was unbeaten on 23 balls with three sixes.
+
+Thisara Perera marked Sri Lanka's victory mark by hitting the six.
+
+Mahela Jayawardene and Kumar Sangakkara retired after this unique match of Sri Lanka.
+
+◼️
 
 [Data](articles/34cc657f.json)
+
+[Extended Data](ext_articles/34cc657f.ext.json)
 
 ---
 

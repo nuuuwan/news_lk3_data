@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 16:33:48**
+As of **2024-04-06 16:48:37**
 
 ## Newspaper Stats
 
-*Scraped **17,498** Articles*
+*Scraped **17,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,45 +16,43 @@ dailyftlk | 958
 islandlk | 959
 economynextcom | 973
 adalk | 1,468
-tamilmirrorlk | 2,059
-adaderanalk | 2,110
+tamilmirrorlk | 2,061
+adaderanalk | 2,111
 virakesarilk | 2,555
 dailymirrorlk | 2,676
-adaderanasinhalalk | 2,830
+adaderanasinhalalk | 2,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,497 (100.0%) of 17,498 articles have been extended.
+17,498 (100.0%) of 17,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### நிந்தவூரில் பஸ்வண்டியுடன் மோட்டர்சைக்கிள் மோதி விபத்து ; முதியவர் பலி
+### වනිඳු ගැන ශ්‍රී ලංකා ක්‍රිකට් ආයතනය හදිසියේම ගත් තීරණය
 
-*2024-04-06 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180597) · `ta`
+*2024-04-06 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195367) · `si`
 
-அக்கரைப்பற்று கல்முனை பிரதான வீதியிலுள்ள நிந்தவூர் பொலிஸ் பிரிவிலுள்ள மாட்டுபாளையம் பகுதியில் பஸ்வண்டியுடன் மோட்டர்சைக்கிள் மேதியதில் ஒருவர் உயிரிழந்துள்ளார்.
+ශ්‍රී ලංකා විස්සයි විස්ස නායක සුපිරි ක්‍රීඩක වනිඳු හසරංග මෙවර IPL තරගාවලිය සඳහා සහභාගී නොවන බව විදෙස් ක්‍රීඩා මාධ්‍ය වාර්තා කර තිබේ.
 
-இச் சம்பவம் இன்று சனிக்கிழமை (06) பகல் இடம்பெற்றுள்ளதோடு,  பஸ்வண்டி சாரதியை கைது செய்துள்ளதாக நிந்தவூர் பொலிஸார் தெரிவித்தனர்.
+මේ සම්බන්ධයෙන් ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලය වෙත ශ්‍රී ලංකා ක්‍රිකට් ආයතනය විසින් ලිඛිත දැනුම්දීමක් සිදුකර ඇති බව එම මාධ්‍ය වාර්තා පෙන්වාදෙයි.
 
-நிந்தவூர்  5 ம் பிரிவைச் சேர்ந்த 72 வயதுடைய அகமட் லெப்பை மீராலெப்பை என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+එසේම එම ආරංචි මාර්ග උපුටාදක්වමින් විදෙස් මාධ්‍ය වාර්තා කර සිටින්නේ වනිඳු හසරංගගේ වම් වළලුකර ආශ්‍රිතව ඇති ආබාධ තත්ත්වය සඳහා ඔහුට විවේක ගැන්වීමට අවශ්‍ය බවය.
 
-நிந்தவூர் மாட்டுபாளையம் சந்திக்கு அருகில் இன்று பகல் 11.30 மணியளவில்  பொத்துவில் இருந்து கல்முனை நோக்கி பயணித்த தனியார் பஸ்வண்டி  மோட்டர் சைக்கிளில் மோதி விபத்துக்குள்ளானதில் மோட்டார் சைக்கிளை செலுத்திச் சென்ற வயோதிர் சம்பவ இடத்தில் உயிரிழந்துள்ளார்.
-
-இதனையடுத்து, உயிரிழந்தவரின் சடலம் பிரேத பரிசோதனைக்காக நிந்தவூர் வைத்தியசாலையில் ஒப்படைத்துள்ளதாகவும் பஸ்வண்டி சாரதியை கைது செய்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+මේ අනුව ප්‍රතිකාර සඳහා ඩුබායි වෙත ගොස් සිටියදී ඔහු මෙම අවස්ථාවේ විවේකගැන්වීම වඩාත් සුදුසු බවට විශේෂඥ උපදෙස් ලැබී ඇති බවද එම වාර්තා පෙන්වා දී තිබේ.
 
 ◼️
 
-[Data](articles/25c6dfeb.json)
+[Data](articles/3eeccb5e.json)
 
 ---
 
 ### Sri Lanka's Debt Debt Debt Debt Debt Debt Debt Resolution - International Media
 
-*2024-04-06 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180595) · `ta`
+*2024-04-06 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180595) · `ta`
 
 Sri Lanka's debt resolution talks aim to suspend re-loans till 2028, with efforts to counter China's influence. Consultant Sakalaratnayake expects talks to conclude soon.
 
@@ -71,6 +69,104 @@ Sakalaratnayake, consultant for the national security issues of Sri Lanka, said 
 [Data](articles/7d95a081.json)
 
 [Extended Data](ext_articles/7d95a081.ext.json)
+
+---
+
+### අවුරුදු නිවාඩුව ගැන රජයේ සේවකයින්ට විශේෂ දැනුම්දීමක්
+
+*2024-04-06 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195366) · `si`
+
+එළැඹෙන 11 වනදා සිට 14 වනදා දක්වා වූ දීර්ඝ නිවාඩුවට අදාළව රාජකාරී ඉටුකිරීම සම්බන්ධයෙන් රාජ්‍ය පරිපාලන ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+
+සියලුම දිස්ත්‍රික් ලේකම්වරු, ප්‍රාදේශීය ලේකම්වරු ඇතුළු ප්‍රාදේශීය පාලනයේ සේවයේ නියුතු සියලුම නිලධාරීන් වෙත මෙම නිවේදනය නිකුත් කර ඇත.
+
+එම නිවේදනයේ දැක්වෙන්නේ එම කාලසීමාව තුළදී සියලුම ප්‍රාදේශීය ලේකම්වරු ඇතුළු දිස්ත්‍රික්කයේ සියලුම රාජ්‍ය නිලධාරීන්, රාජ්‍ය ආයතන සමග සම්බන්ධීකරණය කරමින් අවශ්‍ය කටයුතු සිදුකරන ලෙසටය.
+
+එසේම මෙම කාලසීමාව තුළදී ආපදා සහ හදිසි අත්‍යාවශ්‍ය කාර්යයන් සම්බන්ධයෙන් අවධානයෙන් කටයුතු කරන ලෙසට ද වැඩිදුරටත් අදාළ නිවේදනය මගින් අවධාරණය කර තිබේ.
+
+එසේම මේ වනවිට රජයේ සංවර්ධන කටයුතුවලට අදාළව ක්‍රියාත්මක වන සංවර්ධන ව්‍යාපෘති, වැඩසටහන් මෙම නිවාඩු කාලසීමාව තුළදී බාධාවකින් තොරව පවත්වාගෙන යාම සඳහා අවශ්‍ය වැඩපිළිවෙල යෙදීමට කටයුතු කරන ලෙසටද වැඩිදුරටත් දැනුම්දී තිබේ.
+
+◼️
+
+[Data](articles/ca33e59d.json)
+
+---
+
+### Indian Coast Guard rescues Sri Lankan fisherman after mid-sea medical emergency
+
+*2024-04-06 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98475/indian-coast-guard-rescues-sri-lankan-fisherman-after-mid-sea-medical-emergency) · `en`
+
+The Indian Coast Guard evacuated a Sri Lankan fisherman facing a life-threatening medical emergency mid-sea on Friday. The Sri Lankan Fishing Vessel (SLFV) ‘Kalpeni’ ventured into the sea and it became adrift due to engine failure on April 1. One of the fishermen, aged 44, suddenly developed shortness of breath after the boat drifted 60 nautical miles from Chennai on April 5.
+
+According to ANI, “On April 5, One crew from a Sri Lankan fishing boat namely PM Sumit Lalitha aged 44 years developed shortness of breath and was suspected to have a life-threatening heart condition. His boat had drifted to about 60 Nautical miles from Chennai.”
+
+“Indian Coast Guard immediately launched its ship ICGS Rani Abakka towards the boat and the patient was evacuated within a few hours. The patient was given basic medical treatment. At the same time, an Advanced Light helicopter (ALH) was launched by ICG from Chennai to air-lift the patient to the Coast Guard air station in Chennai.”
+
+...
+
+[Data](articles/d637a4d5.json)
+
+---
+
+### Motorcycle collision with buses in Nintavur;Elderly killed
+
+*2024-04-06 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180597) · `ta`
+
+In Nintavur, a 72-year-old was killed in a motorcycle collision with a bus on Akkaraipattu Kalmunai road. The bus driver was arrested.
+
+🟩
+
+One person has died in a motorcycle with a bus in the Mattupalayam area of Nintavur police division on the Akkaraipattu Kalmunai main road.
+
+The incident took place on Saturday (06) and the driver of the bus has been arrested, Nindavur police said.
+
+The deceased was 72 -year -old Ahmed Lepp Meeraleppe from Nintavur 5th section.
+
+A private bus traveling from Pottuvil to Kalmunai near Pottuvil at around 11.30 am today near the Nintavur Mattupalayam junction
+
+Subsequently, the body of the deceased has been handed over to the Nintavur Hospital for autopsy and the Baswandi driver has been arrested.
+
+◼️
+
+[Data](articles/25c6dfeb.json)
+
+[Extended Data](ext_articles/25c6dfeb.ext.json)
+
+---
+
+### இலங்கையில் புதிய திட்டம் நடைமுறை
+
+*2024-04-06 16:07:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-புதிய-திட்டம்-நடைமுறை/175-335660) · `ta`
+
+கொழும்பு காசல் மகளிர் வைத்தியசாலையில் பிரசவத்தின்போது மனைவிக்கு கணவன் துணைக்கு இருக்க  அனுமதிக்கும்  புதிய திட்டம் ஆரம்பிக்கப்படவுள்ளது.
+
+இந்த திட்டத்தினூடாக தாய்மார்களுக்கு ஏற்ற  சூழலில் குழந்தை பிறக்க வழிவகுப்பதோடு, பிரசவத்தின்போது  தந்தை துணையாக  இருக்க வாய்ப்பளிக்கிறது. R
+
+◼️
+
+[Data](articles/b700a566.json)
+
+---
+
+### தகாத உறவில் இருந்த இருவர் மரணம்
+
+*2024-04-06 16:00:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தகாத-உறவில்-இருந்த-இருவர்-மரணம்/175-335659) · `ta`
+
+உடப்புஸ்ஸலாவ - மடுல்ல பாஹலகம பகுதியில் வீடு ஒன்றில் இருந்து தூக்கில் தொங்கிய நிலையில் இருவரின்  சடலங்கள் இன்று (6) காலை மீட்கப்பட்டதாக உடப்புஸ்ஸலாவ பொலிஸார் தெரிவித்தனர்.
+
+இந்த சம்பவத்தில் மூன்று பிள்ளைகளின் தாயான டப்ளியூ.எம்.பிரியங்கனி (வயது 42) மற்றும் திருமணமாகாத ஆண் பி.எம்.அனுர பண்டார (வயது 39) ஆகிய  இருவரே சடலமாக மீட்கப்பட்டுள்ளனர் என உடப்புஸ்ஸலாவ பொலிஸார் தெரிவித்தனர்.
+
+இதில், உயிரிழந்துள்ள இருவருக்கும் தகாத உறுவு இருந்து வந்துள்ளதாக விசாரணையில் தெரிய வந்துள்ளது.
+
+அதேநேரத்தில் இவ் இருவருக்குமிடையில் இருந்து வந்த தகாத உறவு பெண்ணின் கணவருக்கு தெரிய வந்த நிலையில் கடந்த4ஆம் திகதி மாலை தாக்குதல் சம்பவம் ஒன்றும் இடம்பெற்றுள்ளது.
+
+இதையடுத்து குறித்த பெண் தனது வீட்டை விட்டு வெளியேறி குறித்த நபருடன் சென்றுள்ள நிலையில் இவ் இருவரும் வீடு ஒன்றில் தூக்கில் தொங்கிய நிலையில் சடலங்களாக மீட்கப்பட்டுள்ளனர்.
+
+மேலும் இந்த  சம்பவத்தில் உயிரிழந்தவர்கள் தங்கள் உயிரை மாய்த்து கொண்டார்களா அல்லது கொலை செய்யப்பட்டனரா என்ற கோணத்தில் பொலிஸார் சம்பவம் தொடர்பாக மேலதிக விசாரணைகளை செய்து வருகின்றமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/57c34cd5.json)
 
 ---
 
@@ -2117,105 +2213,5 @@ All the tasks of the film are completed and waiting for the release. In this cas
 [Data](articles/79df1dc4.json)
 
 [Extended Data](ext_articles/79df1dc4.ext.json)
-
----
-
-### Wimel's hand
-
-*2024-04-05 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180512) · `ta`
-
-Wimal stars in 'Ma Po C', a film emphasizing education, directed by Bose Venkat, with music by Sidhu Kumar. The film, produced by Siraj and released by Crossroot Company, features Wimal after his award-winning role in 'Wagai Sudava'.
-
-🟩
-
-The first of the successful star faces of the Tamil film industry. Victory Maran, who is doing all kinds of help and helping to find quality works in small investment, is now working on 'Ma Po C', starring Wimal.
-
-The director of the film 'Kanni Madam' is the hero of the film 'Ma Po C' (Mangollai Ponnarasan Sivagnanam), directed by Bose Venkat.. Sidhu Kumar has composed the film, which has been recorded by Union J. Harris. The film is ready to emphasize the importance of education on behalf of SSS Pictures.. Has produced Siraj. The film is being released by director Vijayamaran's Crossroot Company.
-
-The shooting of the film has been completed and the final phase of the work has been released.. This has been a great anticipation of fans as Ponnarasan Sivagnanam, who lives in the village of Mangollai, which is denied the right to education.
-
-...
-
-[Data](articles/93c8fdc8.json)
-
-[Extended Data](ext_articles/93c8fdc8.ext.json)
-
----
-
-### Criticism - Review
-
-*2024-04-05 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180510) · `ta`
-
-"Alakalam" explores the harm of alcohol through Jaya Krishna's debut. It tells the story of Jai, a son who resists his mother's alcoholic lifestyle, only to fall into addiction in college. The film highlights the destructive effects of alcohol on relationships and health, with Jaya Krishna's performance and Santini's portrayal of Tamil receiving praise.
-
-🟩
-
-Actors: Jaya Krishna, Santini, Eswari Rao, Deepa Shankar, Thangadurai, Gotham, Sisar Manohar, Baba Bhaskar and many others.
-
-Ja Krishna, debut director and actor, has directed the film 'Alakalam', which is ready for a single word 'drinking'. It is a creative work that is emotionally telling how drinking can harm health and degrade relationships. Did it impress all the fans?Or not?We will continue to see.
-
-Mother Yasodai (Ishwari Rao) raises his son Jai (Jayakrishna) without leaning on the booze. The son also listens to the mother's word, and writes the exam exam. He then enrolls Jai for higher education at a college of engineering in the city.. He also adds to the student hostel.
-
-...
-
-[Data](articles/b81fb553.json)
-
-[Extended Data](ext_articles/b81fb553.ext.json)
-
----
-
-### Actress Abernathi starring first look of 'Chairperson'
-
-*2024-04-05 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180511) · `ta`
-
-Actress Abernathi stars in 'Chairperson', a Tamil film about a chess athlete's life, produced by Velayutham. Directed by Seanu Ramaswamy, Ranjith, B. S., and Mithran, it features Aparnathi, Lingesh, Suresh Menon, and Arulmoghi Devan. The film's music is by Arjun Ravi and R. S. Dinesh Antony.
-
-🟩
-
-Actress Abernathi, a popular actress, has been released by the film 'Honeymoon', which is playing the role of the heroine of the story.. This is the leading star directors of the Tamil film industry Seanu Ramaswamy. Ranjith -B. S.. Mithran -Padri Venkatesh has posted on their web page and congratulated the film crew.
-
-Aparnathi, Lingesh, Suresh Menon, Arulmoghi Devan and many others have starred in the film 'Chairperson'. Arjun Ravi and R. S.. Dinesh Antony has composed the film, which has been recorded by Gnanasekar.The film, which speaks of the lifeblood of a chess athlete. Velayutham has produced.
-
-The first look of the film has been released as all the work of the film has reached its final stage.Aparnathi appears as a marginal woman in First Look. It is also revealed that his child wants to be a chess athlete. Can he win?Or what was the obstacle?This creation can be observed as describing. Actress Abernathi's appearance in the first look has attracted a lot of fans.
-
-◼️
-
-[Data](articles/dab402b0.json)
-
-[Extended Data](ext_articles/dab402b0.ext.json)
-
----
-
-### SLFP’s ‘important’ files reported missing from party headquarters
-
-*2024-04-05 20:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98458/slfps-important-files-reported-missing-from-party-headquarters) · `en`
-
-The Sri Lanka Freedom Party (SLFP) has lodged a complaint with the Maradana Police, alleging that several ‘important’ files have gone missing from the party headquarters.
-
-The complaint was filed by the party’s Acting General Secretary Dushmantha Mithrapala.
-
-◼️
-
-[Data](articles/53b5836a.json)
-
-[Extended Data](ext_articles/53b5836a.ext.json)
-
----
-
-### Ambassador Kananathan addresses issues at Export Processing Zone in Kenya
-
-*2024-04-05 20:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ambassador-Kananathan-addresses-issues-at-Export-Processing-Zone-in-Kenya/108-280258) · `en`
-
-April 05 - The Sri Lankan Ambassador to Kenya, Kana Kananathan, has taken proactive steps to address the hurdles faced by Sri Lankan investors operating within the Export Processing Zone (EPZ) in Kenya.
-
-In a bid to strengthen bilateral relations and support Sri Lankan enterprises abroad, Ambassador Kananathan facilitated a crucial meeting with prominent Sri Lankan businesses, including Mas Intimates, New Wide Garments, JF & I Packaging (Kenya) Limited, and Hela Clothing, all operating within the EPZ in Nairobi.
-
-The meeting, convened at the Export Processing Zone premises today afternoon and led by EPZ CEO Mr. Richard Ipero and his team, served as a platform to identify and tackle the challenges hindering the operations of Sri Lankan investors within the EPZ.
-
-...
-
-[Data](articles/d479f3d9.json)
-
-[Extended Data](ext_articles/d479f3d9.ext.json)
 
 ---

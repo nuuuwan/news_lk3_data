@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 21:03:26**
+As of **2024-04-06 21:18:13**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 2,839
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,518 (100.0%) of 17,519 articles have been extended.
+17,519 (100.0%) of 17,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### රාජකීය පවුල ලංකාවට එන දිනය මෙන්න
+### Here is the day of the Royal Family
 
 *2024-04-06 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195374) · `si`
 
-කොළඹ පිහිටි ලොව දෙවැනි පැරණිතම ගොල්ෆ් පිටියේ සුවිශේෂී තරග රැසක් ඉදිරියේදී පැවැත්වීමට සැලසුම් දියත් කර තිබේ.
+The Royal Family's day includes unique matches in Colombo, showcasing the British-built Golf Course.
 
-කොළඹ නගරයට සුන්දරත්වයක් එක්කළ අක්කර 100කට ආසන්න භූමි ප්‍රමාණයක පැතිර පවතින එම ගොල්ෆ් පිටිය බ්‍රිතාන්‍යයන් විසින් ඉදිකරන ලද්දකි.
+🟩
+
+There are a number of unique matches in Colombo world to conduct a number of unique matches in the world.
+
+The Golf Course was built by the British.
 
 ◼️
 
 [Data](articles/5ed07b71.json)
+
+[Extended Data](ext_articles/5ed07b71.ext.json)
 
 ---
 

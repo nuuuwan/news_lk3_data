@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 10:52:31**
+As of **2024-04-06 11:03:14**
 
 ## Newspaper Stats
 
-*Scraped **17,464** Articles*
+*Scraped **17,466** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,78 @@ islandlk | 959
 economynextcom | 972
 adalk | 1,466
 tamilmirrorlk | 2,059
-adaderanalk | 2,102
+adaderanalk | 2,103
 virakesarilk | 2,544
 dailymirrorlk | 2,673
-adaderanasinhalalk | 2,821
+adaderanasinhalalk | 2,822
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,463 (100.0%) of 17,464 articles have been extended.
+17,464 (100.0%) of 17,466 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### முச்சக்கர வண்டி மீது மரம் விழுந்து விபத்து ; அதிர்ஷ்டவசமாக உயிர் தப்பிய பயணிகள்
+### ශ්‍රී ලංකා නිදහස් පක්ෂ මුලස්ථානයට ඇතුළුවීම තහනම්
+
+*2024-04-06 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195356) · `si`
+
+ලිපිගොනු කිහිපයක් අතුරුදන්ව ඇති බවට ලද පැමිණිල්ල සම්බන්ධයෙන් සිදුකරන විමර්ශන හේතුවෙන් කිසිදු පාර්ශවයකට කොළඹ ඩාර්ලි පාරේ පිහිටි ශ්‍රී ලංකා නිදහස් පක්ෂ මුලස්ථානයට ඇතුළුවීම තාවකාලිකව තහනම් කර තිබේ.
+
+පොලීසිය පැවසුවේ මුලික විමර්ශන අවසන් වන තෙක් නිදහස් පක්ෂ මුලස්ථානයට ඇතුළුවීම තහනම් වන බවය.
+
+ශ්‍රී ලංකා නිදහස් පක්‍ෂ මූලස්ථානයේ තිබූ වැඳගත් ලිපිගොනු කීහිපයක් අතුරුදහන්ව ඇති බවට එම පක්‍ෂයේ වැඩබලන මහලේකම් දුෂ්මන්ත මිත්‍රපාල මහතා ඊයේ (05) මරදාන පොලීසියට පැමිණිල්ලක් කර තිබුණි.
+
+ඒ සම්බන්ධයෙන් මරදාන පොලීසිය මේ වනවිට විමර්ශන ආරම්භ කර ඇති අතර ඒ හේතුවෙන් අද (06) පස්වරුව තෙක් නිදහස් පක්‍ෂ මූලස්ථානයට ඇතුළුවීම වළක්වා ඇති බව අද දෙරණ සිදුකළ විමසීමක දී වැඩබලන මහලේකම් දුෂ්මන්ත මිත්‍රපාල මහතා පැවසීය.
+
+කෙසේවෙතත් සිද්ධියට අදාළ නොවන නිදහස් පක්ෂ මුලස්ථානයේ ශ්‍රවණාගාරයට ඇතුළුවීම ද පොලීසිය වළක්වා ඇති බවට වැඩබලන මහලේකම්වරයා චෝදනා කළේය.
+
+◼️
+
+[Data](articles/8e1a58cb.json)
+
+---
+
+### President ambitious surpassing India in AI development, emphasizes education reforms for next 75 years
+
+*2024-04-06 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98466/president-ambitious-surpassing-india-in-ai-development-emphasizes-education-reforms-for-next-75-years) · `en`
+
+President Ranil Wickremesinghe emphasized that the renewal of knowledge stands as a pivotal task within the realm of education, underscoring the trajectory towards a knowledge-based society for the nation’s advancement over the next 75 years.
+
+Acknowledging the burgeoning role of modern technology and knowledge as the new pillars of education, he warned that irrespective of economic prowess, failure to synchronize with global transformations would impede progress, the President’s Media Division (PMD) reported.
+
+These sentiments were voiced during his participation in the 2022 annual prize-giving ceremony at Sirimavo Bandaranaike Vidyalaya, Colombo, on Friday (05). The President’s arrival at the Vidyalaya was met with enthusiastic reception from students, as the Senior Western Band, Senior Eastern Band, and Dance Team escorted him to the event, the PMD added.
+
+...
+
+[Data](articles/2684074b.json)
+
+---
+
+### An accident on the tree on the three -wheeler;Fortunately the survivor passengers
 
 *2024-04-06 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180566) · `ta`
 
-நானுஓயா பொலிஸ் பிரிவுக்குட்பட்ட கிளாசோ தோட்டத்திற்கு செல்லும் வீதியில் நேற்று வெள்ளிக்கிழமை (05) முச்சக்கர வண்டியொன்றின் மீது மரம் விழுந்ததில் சிறுவன் ஒருவன் காயங்களுடன் நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை  பெற்று வருவதாக பொலிஸார் தெரிவித்தனர்.
+A tree fell on a three-wheeler, injuring a boy, who was admitted to Nuwara Eliya District General Hospital. The accident occurred as the three-wheeler was illegally cutting a tree in Nanuoya. Nanuoya police are investigating who cut the tree. The three-wheeler was completely damaged.
 
-நானுஓயா கிளாசோ பகுதியில் இருந்து நானுஓயா நகரை நோக்கி பயணித்து கொண்டிருந்த முச்சக்கர வண்டி ஒன்றின் மீது வீதியோரத்தில் உள்ள காட்டுப் பகுதியில் மரம் ஒன்றினை சட்ட விரோதமாக வெட்டிக் கொண்டிருந்த வேளையில் திடீரென மரம் வீதியில் சென்றுக் கொண்டிருந்த முச்சக்கரவண்டி மீது வீழ்ந்தமையால் குறித்த விபத்துச் சம்பவம்  நேர்ந்துள்ளது.
+🟩
 
-எனினும் குறித்த மரத்தினை வெட்டியது யார் என்று தெரியாத நிலையில் சம்பவம் குறித்து நானுஓயா பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்துள்ளனர்.
+A boy was admitted to the Nuwara Eliya District General Hospital with injuries when a tree fell on a three -wheeler on Friday (05) on the road to the Classo estate on the Nanuoya police division.
 
-குறித்த விபத்தினால் சற்று நேரம் இவ் வீதியூடான போக்குவரத்து பாதிப்பு ஏற்பட்டது மேலும் முச்சக்கர வண்டியும் முழுமையாக சேதமடைந்துள்ளது.
+A three -wheeler traveling from Nanuoya Classo area to Nanuoya was illegally cutting a tree in a forest area on the street.
+
+However, Nanuoya police are conducting further investigations into the incident as they do not know who cut the tree.
+
+The accident has been affected by the accident and the three -wheeler has been completely damaged.
 
 ◼️
 
 [Data](articles/09fd5ae3.json)
+
+[Extended Data](ext_articles/09fd5ae3.ext.json)
 
 ---
 
@@ -2159,45 +2201,5 @@ Other major contributors to the Index included Central Finance Company Plc, up a
 [Data](articles/e4851bc9.json)
 
 [Extended Data](ext_articles/e4851bc9.ext.json)
-
----
-
-### Israel expels members of Senior Army Officers
-
-*2024-04-05 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195341) · `si`
-
-Israel expels 7 senior army officers due to the death of an Israeli attack victim. Relief workers survived the first strike but died in another.
-
-🟩
-
-The Israeli authorities have acted in the service of seven senior army personnel to serve as a result of the death of another Israeli attack.
-
-The Israeli Security Forces states that several relief workers survived the first air strike were survived and they died in another attack.
-
-◼️
-
-[Data](articles/6a9853e2.json)
-
-[Extended Data](ext_articles/6a9853e2.ext.json)
-
----
-
-### Three-day parliamentary debate on Easter attacks in end of April
-
-*2024-04-05 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98451/three-day-parliamentary-debate-on-easter-attacks-in-end-of-april) · `en`
-
-An adjournment debate on the 2019 Easter Sunday attacks is scheduled to be held from 24-26 April in accordance with a motion brought by the Opposition.
-
-The decision was taken at the meeting of the Parliamentary Business Committee chaired by Deputy Speaker Ajith Rajapakse on Friday (05), as per a press release issued by the Parliament’s Communication Department.
-
-Thereby, the Code of Criminal Procedure (Amendment) Bill (Second Reading) and Regulations under the Poisons, Opium and Dangerous Drugs Ordinance are scheduled to be debated on Wednesday (24) from 9.30 am to 10.30 pm.
-
-It was also decided that the debate on the Adjournment Debate on the Easter Sunday attacks be held from 10.30 am to 5.30 pm according to a motion brought by the Opposition.
-
-...
-
-[Data](articles/09f6e9da.json)
-
-[Extended Data](ext_articles/09f6e9da.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 14:18:08**
+As of **2024-04-06 14:33:49**
 
 ## Newspaper Stats
 
-*Scraped **17,485** Articles*
+*Scraped **17,486** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 2,059
 adaderanalk | 2,107
 virakesarilk | 2,549
 dailymirrorlk | 2,676
-adaderanasinhalalk | 2,826
+adaderanasinhalalk | 2,827
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,484 (100.0%) of 17,485 articles have been extended.
+17,485 (100.0%) of 17,486 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### ශ්‍රී ලංකාව ගැන එක්සත් රාජධානිය ගත් තීරණය
+
+*2024-04-06 14:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195362) · `si`
+
+එක්සත් රාජධානිය විසින් සිය පුරවැසියන් සඳහා නිකුත් කර තිබූ ශ්‍රී ලංකාව සඳහා වන සංචාරක උපදේශනය (Travel Advisory) 2024 අප්‍රේල් මස 05 වැනි දින සිට යාවත්කාලීන කිරීමට එක්සත් රාජධානිය කටයුතු කර තිබේ.
+
+ජනාධිපති මාධ්‍ය අංශය නිවේදනයක් නිකුත් කරමින් සඳහන් කරන්නේ හදිසි වෛද්‍ය සේවාවන් ලබාගැනීම, රට තුළට ඇතුලුවීමේදී ආරක්ෂාව සම්බන්ධයෙන් පැවතිය යුතු අවශ්‍යතා, මාර්ගවල ගමන් කිරීමේදී පවතින ආරක්ෂාව, රට තුළ පවතින ආරක්ෂක තත්ත්වය සහ සෞඛ්‍ය පහසුකම් ලබාගැනීම ආදී අංශයන්හි පෙර පැවති තොරතුරු යාවත්කාලීන කිරීම මෙමගින් සිදු කර ඇති බවය.
+
+ඒ අනුව ආහාර, ඉන්ධන සහ ඖෂධ හිඟය පිළිබඳව පසුගිය උපදේශනය තුළ අඩංගු කර තිබූ කරුණු යාවත්කාලීන කරන ලද මෙම සංචාරක උපදේශනයෙන් ඉවත් කර ඇත.
+
+මීට අමතරව වෛද්‍ය උපකරණ හිඟය වැනි සෞඛ්‍ය සේවාවල සීමාවන් පිළිබඳ දක්වා තිබූ අවදානම ද ඉවත් කර තිබේ.
+
+ජනවාරි 1 සිට මාර්තු 27 දක්වා කාලය තුළ එක්සත් රාජධානියේ සිට ශ්‍රී ලංකාවට සංචාරකයින් 53,928 ක් පැමිණ ඇති අතර එක්සත් රාජධානිය ශ්‍රී ලංකාවට සංචාරකයින් පැමිණෙන තුන්වන විශාලතම රට වේ.
+
+...
+
+[Data](articles/53faad2e.json)
+
+---
 
 ### Emergency notice to Sri Lankans in Israel
 
@@ -1194,6 +1214,8 @@ India (14th best connected country in the world) and the United Arab Emirates (1
 
 [Data](articles/74415f5d.json)
 
+[Extended Data](ext_articles/74415f5d.ext.json)
+
 ---
 
 ### Chamudi Prabhabra: Betty 'Buttha' is 14
@@ -2179,27 +2201,5 @@ The resolution has been passed, pointing out that there is a risk of genocide as
 [Data](articles/06faf996.json)
 
 [Extended Data](ext_articles/06faf996.ext.json)
-
----
-
-### South Africa all-rounder reprimanded for breaching ICC Code of Conduct
-
-*2024-04-05 18:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/South-Africa-all-rounder-reprimanded-for-breaching-ICC-Code-of-Conduct/108-280256) · `en`
-
-Apr. 5 (ICC) - The incident happened during the third and final T20I between South Africa and Sri Lanka on 3 April.
-
-Proteas all-rounder Marizanne Kapp has been found guilty of breaching Level 1 of the ICC Code of Conduct during the T20I between South Africa and Sri Lanka in East London on Wednesday, 3 April.
-
-Kapp has been reprimanded for violating Article 2.5 of the ICC Code of Conduct for Players and Player Support Personnel, which relates to “using language, actions or gestures which disparage or which could provoke an aggressive reaction from a batter upon his/her dismissal during an International Match.”
-
-The incident took place in the 13th over of the Sri Lanka innings when Kapp used inappropriate language and gestured in the direction of the pavilion after dismissing skipper Chamari Athapaththu.
-
-As a result, one demerit point has been added to Kapp’s disciplinary record, for whom it was the first offence in a 24-month period.
-
-...
-
-[Data](articles/91f2c11a.json)
-
-[Extended Data](ext_articles/91f2c11a.ext.json)
 
 ---

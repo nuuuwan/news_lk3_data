@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 10:33:28**
+As of **2024-04-06 10:52:31**
 
 ## Newspaper Stats
 
-*Scraped **17,463** Articles*
+*Scraped **17,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 972
 adalk | 1,466
 tamilmirrorlk | 2,059
 adaderanalk | 2,102
-virakesarilk | 2,543
+virakesarilk | 2,544
 dailymirrorlk | 2,673
 adaderanasinhalalk | 2,821
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,821
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,463 (100.0%) of 17,463 articles have been extended.
+17,463 (100.0%) of 17,464 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### முச்சக்கர வண்டி மீது மரம் விழுந்து விபத்து ; அதிர்ஷ்டவசமாக உயிர் தப்பிய பயணிகள்
+
+*2024-04-06 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180566) · `ta`
+
+நானுஓயா பொலிஸ் பிரிவுக்குட்பட்ட கிளாசோ தோட்டத்திற்கு செல்லும் வீதியில் நேற்று வெள்ளிக்கிழமை (05) முச்சக்கர வண்டியொன்றின் மீது மரம் விழுந்ததில் சிறுவன் ஒருவன் காயங்களுடன் நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை  பெற்று வருவதாக பொலிஸார் தெரிவித்தனர்.
+
+நானுஓயா கிளாசோ பகுதியில் இருந்து நானுஓயா நகரை நோக்கி பயணித்து கொண்டிருந்த முச்சக்கர வண்டி ஒன்றின் மீது வீதியோரத்தில் உள்ள காட்டுப் பகுதியில் மரம் ஒன்றினை சட்ட விரோதமாக வெட்டிக் கொண்டிருந்த வேளையில் திடீரென மரம் வீதியில் சென்றுக் கொண்டிருந்த முச்சக்கரவண்டி மீது வீழ்ந்தமையால் குறித்த விபத்துச் சம்பவம்  நேர்ந்துள்ளது.
+
+எனினும் குறித்த மரத்தினை வெட்டியது யார் என்று தெரியாத நிலையில் சம்பவம் குறித்து நானுஓயா பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+குறித்த விபத்தினால் சற்று நேரம் இவ் வீதியூடான போக்குவரத்து பாதிப்பு ஏற்பட்டது மேலும் முச்சக்கர வண்டியும் முழுமையாக சேதமடைந்துள்ளது.
+
+◼️
+
+[Data](articles/09fd5ae3.json)
+
+---
 
 ### Indian Prime Minister Modi's promise to the President
 
@@ -2181,21 +2199,5 @@ It was also decided that the debate on the Adjournment Debate on the Easter Sund
 [Data](articles/09f6e9da.json)
 
 [Extended Data](ext_articles/09f6e9da.ext.json)
-
----
-
-### Parliamentary debate on Easter attacks from 24-26 April
-
-*2024-04-05 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98451/parliamentary-debate-on-easter-attacks-from-24-26-april) · `en`
-
-An adjournment debate on the 2019 Easter Sunday attack will be held from 24-26 April in accordance with a motion brought by the Opposition.
-
-The decision was taken at the meeting of the Parliamentary Business Committee chaired by Deputy Speaker Ajith Rajapakse on Friday (05), as per a press release issued by the Parliament’s Communication Department.
-
-◼️
-
-[Data](articles/685d8c52.json)
-
-[Extended Data](ext_articles/685d8c52.ext.json)
 
 ---

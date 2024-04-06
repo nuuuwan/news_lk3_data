@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 08:51:23**
+As of **2024-04-06 09:03:13**
 
 ## Newspaper Stats
 
-*Scraped **17,448** Articles*
+*Scraped **17,450** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 958
 islandlk | 959
 economynextcom | 972
 adalk | 1,466
-tamilmirrorlk | 2,055
+tamilmirrorlk | 2,057
 adaderanalk | 2,098
 virakesarilk | 2,539
 dailymirrorlk | 2,672
@@ -26,33 +26,55 @@ adaderanasinhalalk | 2,820
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,445 (100.0%) of 17,448 articles have been extended.
+17,448 (100.0%) of 17,450 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### සැකකටයුතු මරණ දෙකක්
+### ஆலயத்தில் அனைவரையும் ஆச்சரியப்பட வைத்த வெளிநாட்டவர்கள்
+
+*2024-04-06 08:52:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/ஆலயத்தில்-அனைவரையும்-ஆச்சரியப்பட-வைத்த-வெளிநாட்டவர்கள்/75-335654) · `ta`
+
+வரலாற்று சிறப்பு மிக்க திருகோணமலை திருக்கோணேஸ்வரம் அருள் மிகு மாதுமை அம்பாள் உடனுறை கோணேஸ்வரப் பெருமானின்  வருடாந்த மகோற்சம் நடைபெற்று வருகின்றது.
+
+இந்த உற்சலத்தின் போது வெளிநாட்டு சுற்றுலா பயணிகள் இருவர் இந்து மத கலாச்சார உடையுடன் வருகை தந்து பக்தியுடன் சாமி தூக்கினர்.
+
+சுவாமி வீதிஉலா வரும் போது அவர்கள் சுவாமியை தூக்கியுள்ளனர். வெளிநாட்டவர்கள் இவ்வாறு சுவாமி தூக்கும் நிகழ்வை அங்குள்ளவர்கள் ஆச்சரியத்துடன் பார்த்துக்கொண்டு இருந்தமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/3930af97.json)
+
+---
+
+### Two suspicious deaths
 
 *2024-04-06 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195354) · `si`
 
-ඌරුබොක්ක කන්දෙකුඹුර ප්‍රදේශය තේ ඉඩමක ගල්තලාවක් මත සැකකටයුතු ලෙස මියගොස් සිටි පුද්ගලයෙකුගේ සිරුරක් හමුව තිබේ.
+Two suspicious deaths in Urubokkumbura and Gokarawa areas. A man found dead near his house in Urubokkumbura, and a 69-year-old man found in a house in Gokarawa, both causes unknown.
 
-මෙම පුද්ගලයා සහ ඔහුගේ බිරිඳ එම ප්‍රදේශයේ නිවසක ජීවත් ව සිට ඇති අතර පෙරේදා (04) මෙම පුද්ගලයා නිවසේ සිටියදී බිරිඳ රැකියාවට ගොස් ඇත.
+🟩
 
-බිරිඳ සවස නැවත නිවසට පැමිණිමේ දී ඔහු නිවසේ සිට නොමැති අතර පසුවදා උදෑසන ද ඔහු නිවසට නොපැමිණිම හේතුවෙන් සිදුකළ සෝදිසි කිරීමකදී නිවස ආසන්නයේ ගල් තලාවක තිබී ඔහුගේ සිරුර හමුවී තිබේ.
+The body of a person who was killed in a coal land on a cock land on a tea land, Urubokkumbura area.
 
-මේ අතර ගොකරැල්ල තලහින්න ප්‍රදේශයේ නිවසකින් දුගඳක් හමන බවට පොලීසියට ලද තොරතුරක් මත ගොකරැල්ල පොලීසිය සිදුකළ සෝදිසි කිරීමක දී එම නිවසේ තිබී මළසිරුරක් හමුව තිබේ.
+The man and his wife were living in a house in the area and the wife had gone to work while at home.
 
-මෙලෙස මියගොස් ඇත්තේ එම නිවසේ තනිවම ජීවත්ව සිටි 69 හැවිරිදි පුද්ගලයෙකි.
+His wife returns homeland evening, and his body was found near the house on the next morning at a stone taling near the house.
 
-මෙම පුද්ගලයා පසුගිය මාර්තු මස 28 වනදා ඔහුගේ දියණියගේ නිවසේ සිට පැමිණ මෙම නිවසසේ තනිවම ජීවත්ව සිට තිබේ.
+Meanwhile, the Gokarella police have found a bodic in the house on information received by the police on a house in the Thalahinna area of Gokarawa area.
 
-මරණයට හේතුව මෙතෙක් නිශ්චිතව සෙයාගෙන නොමැති අතර පොලීස් පරීක්ෂණ සිදුකරන බව ගොකරැල්ල පොලීසිය පවසයි.
+The deceased is a 69 year old person living at the house alone.
+
+This guy came from his daughter's house on March 28 and had been alive in this house.
+
+The cause of death has not been properly improved and the police are conducting further investigations, Gokarella Police.
 
 ◼️
 
 [Data](articles/f11216f6.json)
+
+[Extended Data](ext_articles/f11216f6.ext.json)
 
 ---
 
@@ -71,6 +93,8 @@ Recently, Mr. Sirisena stirred fresh controversy when he said that he knew who w
 ...
 
 [Data](articles/0b70cd69.json)
+
+[Extended Data](ext_articles/0b70cd69.ext.json)
 
 ---
 
@@ -272,21 +296,47 @@ As the Tamil & Sinhala New Year celebrations commence in the country, retail tra
 
 ---
 
-### ’தொழில்நுட்பமும் அறிவும் கல்வியின் புதிய ஆயுதங்களாகும்’
+### ’இந்த வருடம் டெங்கு பாதிப்பு குறைந்துள்ளது’
+
+*2024-04-06 03:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-வருடம்-டெங்கு-பாதிப்பு-குறைந்துள்ளது/175-335653) · `ta`
+
+ஏனைய வருடங்களை விட இந்த வருடம் டெங்கு காய்ச்சலினால் பாதிக்கப்படுவோரின் எண்ணிக்கையையும் அதனால் ஏற்படும் இறப்பு வீதமும் குறைந்துள்ளது.
+
+இந்த வருடம் ஜனவரி மாதம் வரை 64 டெங்கு அபாய வலயங்கள் காணப்பட்ட போதிலும் இன்று இரண்டு வலயங்கள் வரை அதனைக் கட்டுப்படுத்த முடிந்துள்ளதாக  சுகாதார இராஜாங்க அமைச்சர், விசேட வைத்தியர் சீதா அரம்பேபொல தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+ஆண்டுதோறும் பண்டிகைக் காலங்களில் பாதுகாப்பற்ற முறையில் பட்டாசு வெடிப்பதால் விபத்துகள் ஏற்பட்டு வருகின்றன. எனவே, இந்த புத்தாண்டு காலத்தில் குடும்ப உறுப்பினர்களுடன் இதுபோன்ற செயற்பாடுகளில் கவனமாக இருக்குமாறு கேட்டுக் கொள்கிறோம்.
+
+...
+
+[Data](articles/993dc03d.json)
+
+---
+
+### Technology and knowledge are the new weapons of education
 
 *2024-04-06 03:36:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழில்நுட்பமும்-அறிவும்-கல்வியின்-புதிய-ஆயுதங்களாகும்/175-335652) · `ta`
 
-அறிவைப் புதுப்பித்தல் என்பது கல்வியின் பாரிய பணியாக மாறியுள்ளதாகவும், அடுத்த 75 வருடங்களில் நாடு முன்னோக்கிச் செல்ல வேண்டுமாயின் கல்வி முறைமையில் புதிய மாற்றம் ஏற்பட வேண்டுமென ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe emphasizes the importance of renewing knowledge as a crucial task for education's future, highlighting the need for a new educational system change. He underscores the role of technology and modernization in education, aiming to prepare students for a rapidly evolving world.
 
-நேற்று பிற்பகல் இடம்பெற்ற கொழும்பு சிறிமாவோ பண்டாரநாயக்க கல்லூரியின் 2022 வருடாந்த பரிசளிப்பு விழாவில் கலந்து கொண்டபோதே ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார். இதன்போது அவர் மேலும்  தெரிவிக்கையில்,
+🟩
 
-நான் அப்போதைய கல்வி அமைச்சராக இருந்த காலத்தில் இப்பாடசாலையை அபிவிருத்தி செய்வதற்கான வாய்ப்பு எனக்குக் கிடைத்ததையிட்டு நான் மகிழ்ச்சியடைகிறேன். அதன் முடிவுகளை இன்று காணலாம். எனது வாழ்க்கையின் மிகவும் கடினமான காலப்பகுதியில் நான் இந்த சிறிமாவோ பண்டாரநாயக்க கல்லூரிக்கு அருகிலேயே வாசித்தேன்.
+President Ranil Wickremesinghe has said that the renewal of knowledge has become a huge task of education and that if the country is to go forward in the next 75 years, a new change in the education system should be made.
 
-கடந்த இரண்டு வருடங்களில் இந்த நாட்டை மீண்டும் வீழ்ச்சியடைய விடாமல் திட்டமிட்டு நாட்டை கட்டியெழுப்ப முடிந்தது. இது போதுமானது அல்ல. இன்னும் 05 முதல் 10 ஆண்டுகள் இந்தப் பயணத்தைத் தொடர வேண்டும்.
+The President said this while attending the annual Gift Ceremony of the Sirimavo Bandaranaike College, Colombo held yesterday afternoon.. He further stated that
+
+When I was the then Minister of Education, I was happy that I had the opportunity to develop this school. Its results can be seen today. During the very difficult period of my life, I read near this Sirimavo Bandaranaike College.
+
+In the last two years, this country has been planned to build and build the country. This is not enough. You have to continue this journey for another 05 to 10 years.
+
+To think about the future of the country's children. You will all join the fastest growing society in the future. It is the responsibility of the government to prepare you.
 
 ...
 
 [Data](articles/b10b2013.json)
+
+[Extended Data](ext_articles/b10b2013.ext.json)
 
 ---
 
@@ -2121,59 +2171,5 @@ The Hingurakgoda airport, originally known as Royal Air Force Minneriya, airport
 [Data](articles/4ac76752.json)
 
 [Extended Data](ext_articles/4ac76752.ext.json)
-
----
-
-### Bore. Some recovery of explosives in Vaharai area
-
-*2024-04-05 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180523) · `ta`
-
-Explosives recovered in Vaharai area, found in agricultural land. 233rd Vaharai army investigators and Radiveli Special Task Force involved. Parall-1, bye bot-1, and WAS Plate-1 among recovered items, possibly LTTE past use.
-
-🟩
-
-Some of the explosives in the Vaharai area in Batticaloa have been recovered this morning (05), police said.
-
-They have been recovered in an agricultural land in the large dump of the Uriyan Kanda Grama Sevaka Division.
-
-This morning, as usual, the mysterious object was found in the polythene bag when a pit was cut into the ground in the face of a water pipe fitting in the land.
-
-Immediately the 233rd Vaharai army investigators in the nearest Vahara have been informed about the incident.
-
-They went to the scene and observed the situation and then rescued them with the cooperation of the Radiveli Special Task Force and handed over them to the Vaharai police for court proceedings.
-
-The 81 motor rifle is the only recovery of the Parall-1, bye bot-1 and WAS Plate-1.
-
-These may have been used by the LTTE in the past.
-
-At the time, the 233rd Brigade of the Vaharai was accompanied by the military officers and the police.
-
-◼️
-
-[Data](articles/11efe0f5.json)
-
-[Extended Data](ext_articles/11efe0f5.ext.json)
-
----
-
-### Sri Lanka anticipates third IMF EFF installment by June: official
-
-*2024-04-05 15:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-anticipates-third-imf-eff-installment-by-june-official-157694/) · `en`
-
-ECONOMYNEXT — Sri Lanka anticipates the third tranche of the International Monetary Fund (IMF)’s extended fund facility by June, according to State Minister of Finance Shehan Semasinghe.
-
-The official told reporters that, however, Sri Lanka has to first obtain consensus from the country’s creditors on restructuring its debt.
-
-“We anticipate the third tranche by June. That’s the standard procedure. After a review, there’s staff level agreement between IMF officials and government officials. Following that, a date is decided for the IMF to present that agreement. It is after this that we get the third installment of 337 million dollars.
-
-“But there’s one task we have to complete before that. That is to get the consensus for restructuring debt from our creditors. We have obtained the preliminary consent of all bilateral creditors,” said Semasinghe.
-
-An IMF official said on Friday April 05 that there are strong expectations of agreements being reached with commercial creditors.
-
-...
-
-[Data](articles/e77ab5a1.json)
-
-[Extended Data](ext_articles/e77ab5a1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 19:50:12**
+As of **2024-04-06 20:03:20**
 
 ## Newspaper Stats
 
-*Scraped **17,512** Articles*
+*Scraped **17,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 959
 economynextcom | 973
 adalk | 1,468
 tamilmirrorlk | 2,062
-adaderanalk | 2,114
+adaderanalk | 2,115
 virakesarilk | 2,555
 dailymirrorlk | 2,677
 adaderanasinhalalk | 2,836
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,836
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,512 (100.0%) of 17,512 articles have been extended.
+17,512 (100.0%) of 17,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### US, Japan, Australia and Philippines to stage military drills in disputed South China Sea
+
+*2024-04-06 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98479/us-japan-australia-and-philippines-to-stage-military-drills-in-disputed-south-china-sea) · `en`
+
+The United States, Japan, Australia and the Philippines will hold their first joint naval exercises, including anti-submarine warfare training, in a show of force Sunday in the South China Sea where Beijing’s aggressive actions to assert its territorial claims have caused alarm.
+
+The four treaty allies and security partners are holding the exercises to safeguard “the rule of law that is the foundation for a peaceful and stable Indo-Pacific region” and uphold freedom of navigation and overflight, they said in a joint statement issued by their defense chiefs Saturday.
+
+China was not mentioned by name in the statement, but the four countries reaffirmed their stance that a 2016 international arbitration ruling, which invalidated China’s expansive claims on historical grounds, was final and legally binding.
+
+...
+
+[Data](articles/e46a84f8.json)
+
+---
 
 ### Old man dies in bus accident
 
@@ -2221,21 +2237,5 @@ I first met Lasantha when I was 14 years old in 2000. My family had just moved t
 [Data](articles/08fb04ff.json)
 
 [Extended Data](ext_articles/08fb04ff.ext.json)
-
----
-
-### Reforming the global financial system for era of climate change
-
-*2024-04-05 23:20:46* · [`dailyftlk`](https://www.ft.lk/columns/Reforming-the-global-financial-system-for-era-of-climate-change/4-760365) · `en`
-
-In an era of escalating climate risks and impacts, the global financial system stands at a crossroads
-
-In an era of escalating climate risks and impacts, the global financial system stands at a crossroads. Existing structures and frameworks are facing serious challenges in adjusting to a changing global environment in ways that acknowledge and address the imperatives of climate justice, equity, and the needs of developing countries. The urgency of reform or improvement has been highlighted by several recent initiatives and proposals, such as the Bridgetown Initiative 2.0, the Paris Pact for People and Planet, the V20 Accra-Marrakech Agenda, or the Ubuntu Initiative, and featured prominently in the climate negotiations as well.
-
-...
-
-[Data](articles/2991dacc.json)
-
-[Extended Data](ext_articles/2991dacc.ext.json)
 
 ---

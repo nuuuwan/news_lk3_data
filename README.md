@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 07:16:14**
+As of **2024-04-06 07:31:06**
 
 ## Newspaper Stats
 
@@ -26,33 +26,57 @@ adaderanasinhalalk | 2,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,440 (100.0%) of 17,441 articles have been extended.
+17,441 (100.0%) of 17,441 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
 
-### ඉහළ උණුසුමක් තිබුණත් පළාත් කිහිපයකට වැසි
+### Showers in several provinces
 
 *2024-04-06 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195352) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers and thundershowers expected in Western, Sabaragamuwa, and North Western Provinces, with strong winds and potential damage. Steps advised to mitigate. Sun directly over Sri Lanka from April 5-15, affecting Northern, North Central, Sabaragamuwa, North Western, and Southern Provinces. Warm weather warning issued.
 
-බස්නාහිර, මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+🟩
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවට දැනුම් දී ඇත.
+At the Galle and Matara Districts in the Western, Sabaragamuwa and North Western Provinces. Showers or thundershowers will occur at several places shortly after 2.00 pm the Met Department.
 
-දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනවලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්ෂාංශ වලට සෘජුවම ඉහලින් පවතී.
+In some places in the Western, Central and Sabaragamuwa provinces, some locations are expected in the morning in some places in the Galle and Matara districts.
 
-ඒ අනුව අද දින (06) දහවල් 12:12 ට ලෙල්ලෝපිටිය, බලංගොඩ, බුලත්සිංහල, කල්තොට සහ වාද්දුවයන ප්‍රදේශ වලට හිරු මුදුන් වනු ඇති.
+The people have been asked to take necessary steps to reduce temporary strong winds and damages caused by thunderstorms.
 
-මේ අතර, උණුසුම් කාලගුණය ගැන අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+When the sun was traveling to the North, the Sun is directly over Sri Lanka in April 5 to 15.
 
-ඒ අනුව උතුරු, උතුරුමැද, නැගෙනහිර, බස්නාහිර, සබරගමුව, වයඹ සහ දකුණු පළාත හා මොනරාගල සහ මාතලේ දිස්ත්‍රික්ක සඳහා අදාළ නිවේදනය බලපැවැත්වේ.
+Accordingly, the sun will be over 12:12 (06th) at 12:12 pm today (06).
+
+Meanwhile, the Department of Meteorology has issued an announcement in warm weather.
+
+Accordingly, the statement of the Northern, North Central, Sabaragamuwa, North Western and Southern Province and Monaragala and Matale districts.
+
+Accordingly, the people living in those areas are expected to be the level of heating of the human body.
+
+◼️
+
+[Data](articles/d82ef5b2.json)
+
+[Extended Data](ext_articles/d82ef5b2.ext.json)
+
+---
+
+### Joe-Pete Big Match receives overwhelming support from sponsors
+
+*2024-04-06 06:28:00* · [`islandlk`](http://island.lk/joe-pete-big-match-receives-overwhelming-support-from-sponsors/) · `en`
+
+The Josephian-Peterite Big Match, one of Sri Lanka’s most prestigious cricketing events, recently marked a significant milestone with the recently concluded 90th ‘Battle of the Saints’ on March 22nd and 23rd, 2024, which will be followed by the landmark 50th Limited Over Encounter on April 6th, 2024. This historic occasion has garnered tremendous support from a diverse array of sponsors, demonstrating their commitment to the rich tradition and sporting excellence embodied by these events.
+
+As the Principal Sponsor, Dialog Axiata lead the charge, powering the excitement surrounding both the 90th ‘Battle of the Saints; and the 50th Limited Over Encounter. Their steadfast support underscores the significance of these landmark occasions in the annals of Sri Lankan cricketing history. Dialog in addition also acts as the Official Television Provider.
 
 ...
 
-[Data](articles/d82ef5b2.json)
+[Data](articles/8f1c5a13.json)
+
+[Extended Data](ext_articles/8f1c5a13.ext.json)
 
 ---
 
@@ -89,22 +113,6 @@ As the Sinhala and Tamil New Year is just around the corner, Sri Lankan people a
 [Data](articles/6dc5b621.json)
 
 [Extended Data](ext_articles/6dc5b621.ext.json)
-
----
-
-### Joe-Pete Big Match receives overwhelming support from sponsors
-
-*2024-04-06 05:36:00* · [`islandlk`](http://island.lk/joe-pete-big-match-receives-overwhelming-support-from-sponsors/) · `en`
-
-The Josephian-Peterite Big Match, one of Sri Lanka’s most prestigious cricketing events, recently marked a significant milestone with the recently concluded 90th ‘Battle of the Saints’ on March 22nd and 23rd, 2024, which will be followed by the landmark 50th Limited Over Encounter on April 6th, 2024. This historic occasion has garnered tremendous support from a diverse array of sponsors, demonstrating their commitment to the rich tradition and sporting excellence embodied by these events.
-
-As the Principal Sponsor, Dialog Axiata lead the charge, powering the excitement surrounding both the 90th ‘Battle of the Saints; and the 50th Limited Over Encounter. Their steadfast support underscores the significance of these landmark occasions in the annals of Sri Lankan cricketing history. Dialog in addition also acts as the Official Television Provider.
-
-...
-
-[Data](articles/8f1c5a13.json)
-
-[Extended Data](ext_articles/8f1c5a13.ext.json)
 
 ---
 

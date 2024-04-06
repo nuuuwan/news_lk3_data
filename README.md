@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 19:18:28**
+As of **2024-04-06 19:33:30**
 
 ## Newspaper Stats
 
-*Scraped **17,510** Articles*
+*Scraped **17,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ dailyftlk | 958
 islandlk | 959
 economynextcom | 973
 adalk | 1,468
-tamilmirrorlk | 2,061
+tamilmirrorlk | 2,062
 adaderanalk | 2,114
 virakesarilk | 2,555
 dailymirrorlk | 2,677
-adaderanasinhalalk | 2,835
+adaderanasinhalalk | 2,836
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,510 (100.0%) of 17,510 articles have been extended.
+17,510 (100.0%) of 17,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### பஸ் விபத்தில் முதியவர் உயிரிழப்பு
+
+*2024-04-06 19:10:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பஸ்-விபத்தில்-முதியவர்-உயிரிழப்பு/73-335661) · `ta`
+
+அக்கரைப்பற்று - கல்முனை பிரதான வீதியிலுள்ள மாட்டுபாளையம் பகுதியில் பஸ் மற்றும் மோட்டார் சைக்கிள் மோதி விபத்துக்குள்ளானதில் ஒருவர் உயிரிழந்துள்ளதுடன், பஸ் சாரதியை கைது செய்துள்ளதாக நிந்தவூர் பொலிஸார் தெரிவித்தனர்.
+
+நிந்தவூர்  5 ஆம் பிரிவைச் சேர்ந்த 72 வயதுடைய அகமட் லெப்பை மீராலெப்பை என்பவரே  உயிரிழந்துள்ளார்
+
+பொத்துவில்லில் இருந்து கல்முனை நோக்கி பிரயாணித்த தனியார் பஸ் நிந்தவூர் மாட்டுபாளையம் சந்திக்கு அருகில் அதே திசையில் பயணித்த மோட்டர் சைக்கிளை பின்னால் மோதியதில், மோட்டார் சைக்கிளை செலுத்திச் சென்ற வயோதிர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
+
+உயிரிழந்தவரின் சடலம் பிரேத பரிசோதனைக்காக நிந்தவூர் வைத்தியசாலையில் ஒப்படைத்துள்ளதாகவும், பஸ் சாரதியை கைது செய்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+இது தொடர்பான மேலதிக விசாரணைகளை நிந்தவூர் போக்குவரத்து பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/bef3c0b6.json)
+
+---
+
+### ප්‍රවේසම්වන්න - පොලීසියෙන් නිවේදනයක්
+
+*2024-04-06 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195371) · `si`
+
+උත්සව කාලසීමාව තුළ ව්‍යාජ මුදල් ජාවාරම්කරුවන් ඇතුළු කූඨ ව්‍යාපාරිකයින් පිළිබඳව දැඩි අවධානයකින් පසුවිය යුතු බව පොලීසිය මහජනතාවට දැනුම්දෙයි.
+
+සිංහල සහ හින්දු අලුත් අවුරුදු උත්සවය වෙනුවෙන් මේ දිනවල ජනතාව විශාල වශයෙන් විවිධ භාණ්ඩ මිලදී ගැනීමට කටයුතු කරමින් සිටින අතර එහිදී විවිධ ජාවාරම්කරුවන් පිළිබඳව ජනතාව කල්පනාකාරී වියයුතු බව පොලීසිය සඳහන් කළේය.
+
+මේ අතර උත්සව සමය තුළ විනෝද චාරිකා යෑමේ දී ක්‍රියාකළ යුතු ආකාරය සම්බන්ධයෙන් ද පොලිස් මාධ්‍ය ප්‍රකාශකවරයා මෙහිදී පැහැදිලි කළේය.
+
+...
+
+[Data](articles/f0d61407.json)
+
+---
 
 ### Top ADB official, Minister Kanchana discuss regional power cooperation
 
@@ -2187,37 +2223,5 @@ In an era of escalating climate risks and impacts, the global financial system s
 [Data](articles/2991dacc.json)
 
 [Extended Data](ext_articles/2991dacc.ext.json)
-
----
-
-### Racist politics raising its ugly head?
-
-*2024-04-05 23:19:00* · [`dailyftlk`](https://www.ft.lk/columns/Racist-politics-raising-its-ugly-head/4-760364) · `en`
-
-On Saturday 30 March 2024 in a YouTube message, Sujeewa Bandara, former Secretary to the ousted President Gotabaya Rajapaksa, claimed that the people who gathered at the Mirihana house of Gotabaya seeking to remove him from power as president were not Sinhalese but Muslims.
-
-This is absolute nonsense, calculated mischief and bankrupt politics. Video clips of the event show there were no Muslims there but all Sinhalese. Thus the statement, on the eve of presidential or general elections, seems to be aimed at rousing Sinhalese against Muslims – perhaps to come to power as they had done since the island’s independence in 1948.
-
-Fortunately for Sri Lanka, Sinhalese have woken up and openly dismiss racist politics. All what they want is solution to their burning day-to-day economic problems caused by racist politics.
-
-...
-
-[Data](articles/a09b5fc9.json)
-
-[Extended Data](ext_articles/a09b5fc9.ext.json)
-
----
-
-### Mannar Wind Farm Project: Another folly like Sinharaja logging project on the horizon?
-
-*2024-04-05 23:14:52* · [`dailyftlk`](https://www.ft.lk/columns/Mannar-Wind-Farm-Project-Another-folly-like-Sinharaja-logging-project-on-the-horizon/4-760362) · `en`
-
-A wind farm consisting of 30 towers generating 100MW (Phase 1 – Thambapawani) was established on the southern coast of Mannar Island in 2020, with financial assistance from the Asian Development Bank (ADB). The widespread criticism of this project due to its positioning within one of the main bird migratory corridors in the Asian region (detailed elsewhere in the article) was largely overlooked or ignored due to the economic priorities that prevailed at the time, as it happened with the now infamous Canadian-funded Sinharaja Mechanised Logging Project of the 1960s and 70s.
-
-...
-
-[Data](articles/12cae832.json)
-
-[Extended Data](ext_articles/12cae832.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 18:33:34**
+As of **2024-04-06 18:51:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,835
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,507 (100.0%) of 17,509 articles have been extended.
+17,509 (100.0%) of 17,509 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ In attendance were ADB’s Country Director Takafumi Kadono and officials of the
 
 [Data](articles/50f71545.json)
 
+[Extended Data](ext_articles/50f71545.ext.json)
+
 ---
 
 ### Nine more underworld figures arrested
@@ -63,6 +65,8 @@ Police mentioned that the arrestees included the members of the gangs led by not
 ◼️
 
 [Data](articles/2edb6cb0.json)
+
+[Extended Data](ext_articles/2edb6cb0.ext.json)
 
 ---
 

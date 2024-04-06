@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-06 10:03:10**
+As of **2024-04-06 10:18:08**
 
 ## Newspaper Stats
 
-*Scraped **17,460** Articles*
+*Scraped **17,463** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 154
-bbccomsinhala | 182
+bbccomsinhala | 183
 dbsjeyarajcom | 210
 newsfirstlk | 363
 dailyftlk | 958
@@ -17,20 +17,38 @@ islandlk | 959
 economynextcom | 972
 adalk | 1,466
 tamilmirrorlk | 2,059
-adaderanalk | 2,101
+adaderanalk | 2,102
 virakesarilk | 2,543
 dailymirrorlk | 2,673
-adaderanasinhalalk | 2,820
+adaderanasinhalalk | 2,821
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,455 (100.0%) of 17,460 articles have been extended.
+17,460 (100.0%) of 17,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-06 (Saturday)
+
+### ඉන්දීය අගමැති මෝදි ජනපති ට දුන් පොරොන්දුව
+
+*2024-04-06 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195355) · `si`
+
+දැනුම අලුත් කර ගැනීම අධ්‍යාපනයේ ප්‍රධාන කාර්යයක් වී ඇති බැවින් ඉදිරි වසර 75 තුළ රට ඉදිරියට ගමන් කිරීමට නම් අධ්‍යාපන ක්‍රමය නව පරිවර්තනයකට ලක් කළයුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ඔහු සඳහන් කළේ රටේ ආර්ථිකය කෙතරම් ශක්තිමත් කළද ලෝකය සමඟ පරිවර්තනය වෙමින් ඉදිරියට නොගියහොත් රට පසුපසට ගමන් කරන බවය.
+
+ඊයේ (05) කොළඹ සිරිමාවෝ බණ්ඩාරනායක විද්‍යාලයේ වාර්ෂික ත්‍යාග ප්‍රදානෝත්සවයට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව ප්‍රකාශ කළේය.
+
+නවීන තාක්ෂණය සහ දැනුම අධ්‍යාපනයේ නව ආයුධය බවට පත්ව තිබෙන බව ද  ජනාධිපතිවරයා එහිදී පැවසීය.
+
+...
+
+[Data](articles/05795204.json)
+
+---
 
 ### Sri Lanka & Switzerland hold bilateral consultations, commit to expanding relations
 
@@ -46,45 +64,77 @@ Sri Lanka, appreciating the Swiss assistance extended to the Export Development 
 
 [Data](articles/38208e26.json)
 
+[Extended Data](ext_articles/38208e26.ext.json)
+
 ---
 
-### கற்பிட்டியில்  இந்தியாவிலிருந்து சட்டவிரோதமாக கொண்டுவரப்பட்ட பீடி இலைகள் கைப்பற்றல்
+### Sri Lanka, Switzerland commit to expanding trade relations and tourism
 
-*2024-04-06 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/180561) · `ta`
+*2024-04-06 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98465/sri-lanka-switzerland-commit-to-expanding-trade-relations-and-tourism) · `en`
 
-கற்பிட்டி குறிஞ்சிப்பிட்டி கரையோரப் பகுதியில் மீன் வாடியொன்றில். இந்தியாவிலிருந்து அனுமதிப்பத்திரமின்றி சட்டவிரோதமாக கொண்டுவரப்பட்ட பீடி இலைகள் கைப்பற்றப்பட்டுள்ளன.
+The 4th round of bilateral consultations between Sri Lanka and Switzerland took place on 05 April 2024 in Colombo, co-chaired by Ambassador Head of Asia Pacific at Swiss Federal Department of Foreign Affairs (FDFA) Heinrich Schellenberg and Additional Secretary/Bilateral (West) of Foreign Affairs Ministry of Sri Lanka Yasoja Gunasekera.
 
-கிடைக்கப்பெற்ற இரகசியத் தகவலுக்கமைய புத்தளம் பொலிஸ் விஷேட அதிரடிப்படையினர் மற்றும் புத்தளம் கலால்வரித் திணைக்களத்தினருடன் இணைந்து வெள்ளிக்கிழமை (05) அதிகாலை  சுற்றிவளைப்பு மேற்கொள்ளப்பட்டது.
+According to a statement issued by the Foreign Affairs Ministry, the delegations have discussed the potential to further enhance economic relations.
 
-இதன்போது சுமார் 40 உரைகளில் 1,200 கிலோகிராம் பீடி இலைகள் கைப்பற்றப்பட்டதாகவும், இதன்போது எவரும் கைது செய்யப்படவில்லை யென்றும் பொலிஸ் விஷேட அதிரடிப்படையினர் தெரிவித்தனர்.
+Sri Lanka, appreciating the Swiss assistance extended to the Export Development Board (EDB) in identifying further markets for Sri Lankan exports, has proposed collaboration in the textile industry. The two countries agreed to work towards and to explore diversifying trade relations and further potential in the tourism sector.
 
-கைப்பற்றப்பட்ட பீடி இலைகள் சுமார் 60 இலட்சம் ரூபாவிற்கும் அதிக பெறுமதியெனவும் மதிக்கப்பட்டுள்ளது.
+...
 
-கைப்பற்றப்பட்ட பீடி இலைகள் புத்தளம் கலால்வரித் திணைக்களத்தினரிடம் ஒப்படைக்கப்பட்டுள்ளதாக புத்தளம் பொலிஸ் விஷேட அதிரடிப்படையினர் தெரிவித்தனர்.
+[Data](articles/9c4343d5.json)
+
+---
+
+### Capture of beedi leaves illegally brought from India in Kalpitiya
+
+*2024-04-06 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180561) · `ta`
+
+Puttalam Police Special Task Force seized 40kg of illegal beedi leaves from India in Kalpitiya, valued at Rs 60 lakhs, without arrests.
+
+🟩
+
+In a fishing area on the coastal area of Kalpitiya Kurinjipitiya. The illegal beedi leaves have been seized from India without permission.
+
+According to the confidential information available, the Puttalam Police Special Task Force and the Puttalam Department of Kalalvarith were carried out on Friday morning (05).
+
+The Special Task Force said that about 40 of the 1,200 kilograms of beedi leaves were seized and no one was arrested.
+
+The captured beedi leaves are also valued at around Rs 60 lakhs.
+
+The Puttalam Police Special Task Force said the seized beedi leaves were handed over to the Puttalam Department of Puttalam.
 
 ◼️
 
 [Data](articles/7207701b.json)
 
+[Extended Data](ext_articles/7207701b.ext.json)
+
 ---
 
-### ஹிங்குராங்கொடை விமான நிலையத்தை சர்வதேச விமான நிலையமாக அபிவிருத்தி செய்ய நடவடிக்கை
+### Action to develop Hingurangoda Airport as International Airport
 
 *2024-04-06 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/180559) · `ta`
 
-இரண்டாம் உலகப் போருக்கு முந்தைய வரலாற்று சிறப்புமிக்க ஹிங்குராங்கொட உள்நாட்டு  விமான நிலையத்தை மறுசீரமைக்கும் திட்டத்தை அரசாங்கம் வெளியிட்டுள்ளது.
+The government plans to rebuild Hingurangoda Airport, initially a WWII RAF base, into an international airport with a 2500m runway, costing Rs 17 billion.
 
-ஆரம்பத்தில் ”RAF மின்னேரியா” என அழைக்கப்பட்ட இந்த விமான நிலையம் இரண்டாம் உலகப் போரின்  போது இங்கிலாந்தின் ராயல் விமானப்படைக்கு ஒரு மூலோபாய தளமாக செயல்பட்டது.
+🟩
 
-2024 ஆம் ஆண்டு  வரவு செலவுத் திட்டத்தில் ஹிங்குராங்கொடை சர்வதேச விமான நிலையத்தின் அபிவிருத்திக்காக இரண்டு பில்லியன் ரூபாய் நிதி ஒதுக்கப்பட்டுள்ளதாக  துறைமுகங்கள், கப்பல் போக்குவரத்து மற்றும் விமானப் போக்குவரத்து அமைச்சு தெரிவித்துள்ளது.
+The government has issued a plan to rebuild the Hingurangoda domestic airport pre -World War II.
 
-விமான நிலைய அபிவிருத்தி பணியில் முதல் கட்டமாக ஓடுபாதையை நீடிப்பதில் கவனம் செலுத்தப்படும். தற்போது 2287 மீட்டர் நீளமும், 46 மீட்டர் அகலமும்  கொண்ட இந்த ஓடுபாதை மொத்தம் 2500 மீட்டர் நீளத்திற்கு விரிவுபடுத்தப்படும்.
+Initially called "RAF Minneria", the airport served as a strategic base for the UK Royal Air Force during World War II.
 
-இதனை அபிவிருத்தி செய்வதால்  விமான நிலையத்தில் பிரபலமான ஏர்பஸ் ஏ320 மற்றும் போயிங் பி737 மாடல்கள் உட்பட பெரிய  விமானங்கள் வருகை தர இடமளிக்கும்.
+The Ports, Shipping and Aviation Ministry said that two billion rupees has been allocated for the development of the Hingurangoda International Airport in the 2024 budget.
 
-...
+The first phase of the airport development work will be focused on prolonging the runway. The runway, which is currently 2287 meters long and 46 meters wide, will be expanded to a total of 2500 meters.
+
+Developing this will provide large flights to the airport, including the popular Airbus A320 and Boeing P737 models at the airport.
+
+It is estimated that the comprehensive modernization project costs a total of Rs 17 billion.
+
+◼️
 
 [Data](articles/4a3d6a74.json)
+
+[Extended Data](ext_articles/4a3d6a74.ext.json)
 
 ---
 
@@ -114,23 +164,29 @@ The YGL community is a unique society with more than 1000 young leaders who shar
 
 ---
 
-### உக்ரைன் யுத்தம் - ஒரேதாக்குதலில் ரஸ்யாவின் ஆறு போர் விமானங்களை அழித்ததாக உக்ரைன் தகவல்
+### Ukraine War
 
 *2024-04-06 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180557) · `ta`
 
-ரஸ்யாவின் தென்பகுதி விமானதளம் மீது உக்ரைன் மேற்கொண்ட பாரிய ஆளில்லா விமானதாக்குதலில் ரஸ்யாவின் ஆறு போர் விமானங்கள் அழிக்கப்பட்டுள்ளதாக உக்ரைனின் பாதுகாப்பு வட்டாரங்கள் தெரிவித்துள்ளன.
+Ukraine reportedly destroyed 6 Russian warplanes in an unmanned air strike, injuring or killing over 20 Russian soldiers. Israel targeted a SU27-34 aircraft site in Ukraine. Russia has not acknowledged the attack, but Ukraine has conducted 40 unmanned flights, activating Russia's air safety mechanism.
 
-மேலும் 8 விமானங்கள் சேதமடைந்துள்ளன 20க்கும் மேற்பட்ட ரஸ்ய படையினர் காயமடைந்திருக்கலாம் அல்லது கொல்லப்பட்டிருக்கலாம் என தகவல்கள் வெளியாகியுள்ளன.
+🟩
 
-உக்ரைன் போர்முனையில் பயன்படுத்தப்படும் எஸ்யு27- 34 விமானங்களின் மொரெஜொவ்ஸ்க் தளத்தின் மீதே இஸ்ரேல் ஆளில்லா விமானதாக்குதலை மேற்கொண்டுள்ளது.
+Ukraine's security sources say that Russia's six warplanes have been destroyed in the massive unmanned air strike by Ukraine on Russia's southern airport.
 
-ரஸ்யா இதுவரை இந்த தாக்குதல் குறித்து எதனையும் தெரிவிக்கவில்லை எனினும் உக்ரைனின் 40 ஆளில்லா விமானங்கள் இலக்குவைக்கப்பட்டன  என தெரிவித்துள்ளது.
+More than 20 Russian soldiers may have been injured or killed.
 
-உக்ரைன் 40க்கும் மேற்பட்ட ஆளில்லா விமானங்களை பயன்படுத்தியதால் ரஸ்யாவின் வான்வெளி பாதுகாப்பு பொறிமுறை செயற்பட முடியாத நிலை ஏற்பட்டிருக்கும்  என பாதுகாப்பு ஆய்வாளர்கள் தெரிவித்துள்ளனர்.
+Israel has launched an unmanned air strike on the Morajowsk site of the SU27- 34 aircraft used at the Ukraine war.
+
+Russia has not yet announced the attack, but Ukraine's 40 unmanned flights have been targeted.
+
+Security inspectors have said that the use of more than 40 unmanned aircraft in Ukraine has made Russia's air safety mechanism in operation.
 
 ◼️
 
 [Data](articles/62703c37.json)
+
+[Extended Data](ext_articles/62703c37.ext.json)
 
 ---
 
@@ -153,6 +209,8 @@ On May 5, the losing semi-finalists will play for third place while the winners 
 ...
 
 [Data](articles/42fe13ef.json)
+
+[Extended Data](ext_articles/42fe13ef.ext.json)
 
 ---
 
@@ -597,6 +655,30 @@ During the meeting held at the Indian Consulate in Jaffna, the Tamil people were
 [Data](articles/6ef58ffb.json)
 
 [Extended Data](ext_articles/6ef58ffb.ext.json)
+
+---
+
+### චමුදි ප්‍රබෝධා: 19න් පහළ කාන්තා ක්‍රිකට් කණ්ඩායමේ 14 හැවිරිදි 'බට්ටි'
+
+*2024-04-06 03:19:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crgry4230nno) · `si`
+
+චමුදි ප්‍රබෝධා: 19න් පහළ කාන්තා ක්‍රිකට් කණ්ඩායමේ 14 හැවිරිදි 'බට්ටි'
+
+යම් පසුබෑමකට ලක්ව තිබූ ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක ක්‍රීඩිකාවන්ගේ දක්ෂතා කැපීපෙනෙන අයුරින් ඉස්මතු වන ආකාරය මේ වන විට දැක ගත හැකි ය.
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම බංග්ලාදේශ තරග සංචාරයේදී දැක්වූ දක්ෂතා, කාන්තා ක්‍රිකට් කණ්ඩායම දකුණු අප්‍රිකාවට එරෙහිව පළමු වරට පන්දු වාර 20 තරගාවලි ජයග්‍රහණයක් ලැබීම මෙන් ම 19න් පහළ කාන්තා ක්‍රිකට් කණ්ඩායම මෑතකදී දැක්වූ දක්ෂතා ද ඊට නිදසුන් සපයයි.
+
+අප්‍රේල් 03 වන දා අවසන් වූ ශ්‍රී ලංකා - ඔස්ට්‍රේලියා - එංගලන්ත 19න් පහළ කාන්තා තුන්කොන් ක්‍රිකට් තරගාවලියේ අනුශූරයින් බවට පත් වීමට ශ්‍රී ලංකා ක්‍රීඩිකාවෝ සමත් වූහ.
+
+අප්‍රේල් 03 වන දා පැවති අවසන් තරගයේදී ශ්‍රී ලංකා කණ්ඩායම එංගලන්ත කණ්ඩායම හමුවේ පරාජයට පත් විය.
+
+කෙසේ වෙතත්, තරග 6කින් සමන්විත වූ මෙම තරගාවලියේදී ඔස්ට්‍රේලියා කණ්ඩායම සහ එංගලන්ත කණ්ඩායම එක් වර බැගින් පරාජය කිරීමට ශ්‍රී ලංකා 19න් පහළ කණ්ඩායම සමත් විය.
+
+ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමෙන් පෙරළියක්: පළමු වරට දකුණු අප්‍රිකාවට එරෙහිව T20 තරගාවලි ජයක්
+
+...
+
+[Data](articles/49955e96.json)
 
 ---
 
@@ -2101,65 +2183,5 @@ The decision was taken at the meeting of the Parliamentary Business Committee ch
 [Data](articles/685d8c52.json)
 
 [Extended Data](ext_articles/685d8c52.ext.json)
-
----
-
-### Schoolgirl dies after filing a bay in school premises
-
-*2024-04-05 16:18:34* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-භුමියේ-තිබූ-බොක්කුවක්-ඇග-මතට-පෙරලිමෙන්-පාසල්-සිසුවෙකු-මරුට/11-408971) · `si`
-
-A 6th-grade student from Gardmore Kamali Vidyalaya died after being seriously injured in a schoolyard incident, leading to her admission to Maskeliya Divisional Hospital. The incident involved a fight in the toilet area, resulting in her death.
-
-🟩
-
-One of the injured schoolgirls who were seriously injured in the Maskeliya Divisional Hospital have been killed after admission to the Maskeliya Divisional Hospital for a tea estate.
-
-The victims were identified as the 6th year of the 6th year of the Gardmore Kamali Vidyalaya, a resident of the Maskeliya Gardmore Estate (11).
-
-The school student was severely injured in the toilet wall in the field of concrete backed by the Pelai student with two (04) with two of his friends.
-
-Later, the student has been killed in the Maskeliya Divisional Hospital after admission to the Maskeliya Divisional Hospital.
-
-The body of the student at the Maskeliya Pradeshiya Sabha is referred to the post-mortem examination for the post mortem examination for the post mortem examination for the post mortem examination for the post mortem.
-
-◼️
-
-[Data](articles/999e7437.json)
-
-[Extended Data](ext_articles/999e7437.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-04-05 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180533) · `ta`
-
-The US dollar's purchase price was Rs 294.9271, and the sales price was Rs 304.2846, as per the Central Bank's Friday (April 05) currency exchange rate.
-
-🟩
-
-The US dollar purchasing price was Rs 294.9271 and the sales price were Rs 304.2846 based on the currency exchange rate issued by the Central Bank on Friday (April 05).
-
-◼️
-
-[Data](articles/31e32805.json)
-
-[Extended Data](ext_articles/31e32805.ext.json)
-
----
-
-### Lasantha’s 66th Birthday: Who Was Lasantha?
-
-*2024-04-05 16:14:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/lasanthas-66th-birthday-who-was-lasantha/) · `en`
-
-Many speculate what the State of the Nation would be today if Lasantha Wickrematunge were alive. I have thought about it too. But, then I know. If it were not on that fateful day, the 8th of January 2009 it would have been another day. It is said that the greatest aphrodisiac known to man is the power of man over man. Lasantha had to be killed for one man’s power over all men in Sri Lanka. He may be power hungry, yet be a coward who would use minions to do such a dastardly crime for some petty gain, but the Boss would convince himself that he didn’t do it. He may even be cowardly enough to go overseas to convince himself that he was away from the country when the murder was being perpetuated.
-
-Lasantha would have been 66 years young today. Did he not have a right to see his family grow? tousle his children’s hair? That was not even a thought that crossed a narcissist’s mind. Who was Lasantha? Just another man.
-
-...
-
-[Data](articles/9bc45fbc.json)
-
-[Extended Data](ext_articles/9bc45fbc.ext.json)
 
 ---

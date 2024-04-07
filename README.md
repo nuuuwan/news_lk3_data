@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 10:33:51**
+As of **2024-04-07 10:51:28**
 
 ## Newspaper Stats
 
-*Scraped **17,566** Articles*
+*Scraped **17,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 958
 islandlk | 968
 economynextcom | 975
 adalk | 1,471
-tamilmirrorlk | 2,070
-adaderanalk | 2,120
-virakesarilk | 2,557
+tamilmirrorlk | 2,071
+adaderanalk | 2,121
+virakesarilk | 2,558
 dailymirrorlk | 2,685
 adaderanasinhalalk | 2,848
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 2,848
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,566 (100.0%) of 17,566 articles have been extended.
+17,566 (100.0%) of 17,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### Sri Lanka’s fuel consumption dropped by 50%
+
+*2024-04-07 10:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98485/sri-lankas-fuel-consumption-dropped-by-50) · `en`
+
+The consumption of fuel in Sri Lanka has dropped by around 50%, according to the Petroleum Dealers’ Association.
+
+However, President of the association Shelton Fernando emphasized that the current economic situation of the country is one of the major reasons for the decrease in fuel consumption.
+
+He further assured that all types of fuel are presently available in the country without any shortage.
+
+◼️
+
+[Data](articles/27210d5a.json)
+
+---
+
+### ஈரான் எந்த வேளையிலும் பதில்தாக்குதலை மேற்கொள்ளலாம் - மிகுந்த எச்சரிக்கை நிலையில் அமெரிக்கா
+
+*2024-04-07 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180615) · `ta`
+
+மத்திய கிழக்கு பிராந்தியத்தில் இஸ்ரேலின் அல்லது அமெரிக்காவின் தூதரகங்கள் கட்டிடங்களை ஈரான் தாக்கலாம் என கருதும் அமெரிக்கா அதனை எதிர்கொள்ள தயாராகிவருகின்றது முன்னெச்சரி;க்கை நடவடிக்கைகளை எடுத்துள்ளது என ரொய்ட்டர் செய்தி வெளியிட்டுள்ளது.
+
+சிரியாவில் உள்ள ஈரானின் துணைதூதரகத்தின் மீது இஸ்ரேல் கடந்தவாரம் தாக்குதல் நடத்தியதை தொடர்ந்து ஈரான் பதில்தாக்குதலை மேற்கொள்ளும் என அமெரிக்கா கருதுகின்றது.
+
+எதிர்வரும் நாட்களில் ஈரான் தாக்குதலை மேற்கொள்ளக்கூடும் என சிஎன்என் தெரிவித்துள்ளதை அவர் உறுதி செய்துள்ளார்.
+
+இதேவேளை ஈரான் தாக்குதலை மேற்கொள்வதற்கான சாத்தியக்கூறுகள் குறித்து அமெரிக்க ஜனாதிபதி இஸ்ரேலிய பிரதமருடன் தொலைபேசி பேச்சுவார்த்தைகளை மேற்கொண்டுள்;ளார்.
+
+எங்கள் குழுக்கள் தொடர்ந்து இந்த விடயம் குறித்து ஆராய்ந்துவருகின்றன ஈரானின் அச்சுறுத்தலில் இருந்து தன்னை பாதுகாப்பதற்கு இஸ்ரேலிற்கு உள்ள உரிமையை நாங்கள் ஆதரிக்கின்றோம் என அமெரிக்க அதிகாரியொருவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/72d30a6e.json)
+
+---
 
 ### Navy seizes the boat that stood with shortness!
 
@@ -285,6 +321,24 @@ The lorry driver has been arrested and the Inginiyagala Police are conducting fu
 [Data](articles/1cd13b33.json)
 
 [Extended Data](ext_articles/1cd13b33.ext.json)
+
+---
+
+### இடியுடன் கூடிய மழை; கடும் வெப்பம்
+
+*2024-04-07 07:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-கடும்-வெப்பம்/175-335681) · `ta`
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இன்று (07) பிற்பகல். 2.00 மணிக்குப் பின்னர் ஒரு சில இடங்களில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+அதேநேரம், மேல், மத்திய, ஊவா மற்றும் சப்ரகமுவ மாகாணங்களிலும் அம்பாறை, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை எதிர்பார்க்கப்படுவதாக திணைக்களம் அறிக்கை ஒன்றை வௌியிட்டு தெரிவித்துள்ளது.
+
+இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம், மக்களிடம் கோரிக்கை விடுத்துள்ளது.
+
+இதேவேளை, சூரியனின் வடதிசை நோக்கிய இயக்கத்தின்  காரணமாக, ஏப்ரல் மாதம் 5ஆம் திகதியிலிருந்து 15ஆம் திகதி வரை இலங்கையின் அகலக் கோடுகளுக்கு நேராக உச்சம் கொடுக்கவுள்ளது.
+
+...
+
+[Data](articles/31dba07b.json)
 
 ---
 
@@ -2285,71 +2339,5 @@ Referring to the matter, Minister Devananda told Daily Mirror that this is an ar
 [Data](articles/ca15a6a1.json)
 
 [Extended Data](ext_articles/ca15a6a1.ext.json)
-
----
-
-### An accident on the tree on the three -wheeler;Fortunately the survivor passengers
-
-*2024-04-06 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180566) · `ta`
-
-A tree fell on a three-wheeler, injuring a boy, who was admitted to Nuwara Eliya District General Hospital. The accident occurred as the three-wheeler was illegally cutting a tree in Nanuoya. Nanuoya police are investigating who cut the tree. The three-wheeler was completely damaged.
-
-🟩
-
-A boy was admitted to the Nuwara Eliya District General Hospital with injuries when a tree fell on a three -wheeler on Friday (05) on the road to the Classo estate on the Nanuoya police division.
-
-A three -wheeler traveling from Nanuoya Classo area to Nanuoya was illegally cutting a tree in a forest area on the street.
-
-However, Nanuoya police are conducting further investigations into the incident as they do not know who cut the tree.
-
-The accident has been affected by the accident and the three -wheeler has been completely damaged.
-
-◼️
-
-[Data](articles/09fd5ae3.json)
-
-[Extended Data](ext_articles/09fd5ae3.ext.json)
-
----
-
-### Indian Prime Minister Modi's promise to the President
-
-*2024-04-06 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195355) · `si`
-
-President Ranil Wickremesinghe emphasizes the urgency of modernizing the education system for the next 75 years, highlighting the importance of technology and knowledge in education. He mentions the need for a strong economy, smart agriculture, and the integration of AI technology in education. He also discusses plans for new universities and engineering faculties, aiming to create a skilled workforce and prevent a brain drain of doctors.
-
-🟩
-
-President Ranil Wickremesinghe says that the education system should be translated into a new transformation in the next 75 years, as the renewal of knowledge is a major task of education.
-
-He said that if the economy of the country was converted with the world, the country would move back back.
-
-President Ranil Wickremesinghe said this at the annual prize giving program of Sirimavo Bandaranaike Vidyalaya, Colombo yesterday (05).
-
-The President said that modern technology and knowledge has become the new weapon of education.
-
-...
-
-[Data](articles/05795204.json)
-
-[Extended Data](ext_articles/05795204.ext.json)
-
----
-
-### Sri Lanka & Switzerland hold bilateral consultations, commit to expanding relations
-
-*2024-04-06 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98465/sri-lanka-switzerland-hold-bilateral-consultations-commit-to-expanding-relations) · `en`
-
-The 4th round of bilateral consultations between Sri Lanka and Switzerland took place on 05 April 2024 in Colombo, co-chaired by Ambassador Head of Asia Pacific at Swiss Federal Department of Foreign Affairs (FDFA) Heinrich Schellenberg and Additional Secretary/Bilateral (West) of Foreign Affairs Ministry of Sri Lanka Yasoja Gunasekera.
-
-According to a statement issued by the Foreign Affairs Ministry, the delegations have discussed the potential to further enhance economic relations.
-
-Sri Lanka, appreciating the Swiss assistance extended to the Export Development Board (EDB) in identifying further markets for Sri Lankan exports, has proposed collaboration in the textile industry. The two countries agreed to work towards and to explore diversifying trade relations and further potential in the tourism sector.
-
-...
-
-[Data](articles/38208e26.json)
-
-[Extended Data](ext_articles/38208e26.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 14:33:29**
+As of **2024-04-07 14:50:12**
 
 ## Newspaper Stats
 
-*Scraped **17,614** Articles*
+*Scraped **17,618** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,98 @@ newsfirstlk | 363
 dailyftlk | 958
 islandlk | 968
 economynextcom | 978
-adalk | 1,476
+adalk | 1,477
 tamilmirrorlk | 2,077
 adaderanalk | 2,128
 virakesarilk | 2,567
-dailymirrorlk | 2,691
+dailymirrorlk | 2,694
 adaderanasinhalalk | 2,857
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,612 (100.0%) of 17,614 articles have been extended.
+17,614 (100.0%) of 17,618 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### வருட இறுதிக்குள்  கண்ணிவெடி அகற்றும் பணிகள் நிறைவடையும் - வட மாகாண ஆளுநர்
+### මොරගහහේනේ වෙඩි තැබීමකින් දෙදෙනෙක් මරුට
 
-*2024-04-07 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180611) · `ta`
+*2024-04-07 14:32:17* · [`adalk`](https://www.ada.lk/breaking_news/මොරගහහේනේ-වෙඩි-තැබීමකින්-දෙදෙනෙක්-මරුට/11-408985) · `si`
 
-கண்ணிவெடி அகற்றும் நடவடிக்கை தொடர்பான விழிப்புணர்வுக்கான சர்வதேச தினத்தை முன்னிட்டு கிளிநொச்சி மத்திய கல்லூரி விளையாட்டு மைதானத்தில் நேற்று (06) விசேட நிகழ்வும் கிரிக்கெட் போட்டியும் ஏற்பாடு செய்யப்பட்டிருந்தது.
+මොරගහහේන තල්ගහවිල මාලොස් ඇළ හන්දිය ආසන්නයේදී තීරෝද රථයකින් ගමන් ගත්  දෙදෙනෙකුට මෝටර්රථය කින් පැමිණි පුද්ගලයන් පිරිසක් වෙඩි තැබීමෙන් ත්‍රිරෝද රථයේ ගමන් ගත් දෙදෙනා මියගොස් ඇතැයි මොරගහහේන පොලිසිය පවසයි.
 
-இந்நிகழ்வில் அமைச்சர்களான பிரசன்ன ரணதுங்க, டக்ளஸ் தேவானந்தா ஆகியோருடன், வட மாகாண ஆளுநர் பி.எஸ்.எம். சார்ள்ஸும் கலந்துகொண்டார்.
+මියගිය දෙදෙනා කවරුන්ද යන්න මෙතෙක් හඳුනාගෙන නැත. වෙඩි ප්‍රහාරයෙන් බරපතල ලෙස තුවාල ලබා සිටියදී පිලියන්දල රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇත.
 
-இதன்போது உரையாற்றிய வட மாகாண ஆளுநர், கண்ணிவெடி அகற்றும் பணிகள் ஆரம்பிக்கப்பட்டபோது 2030ஆம் ஆண்டுக்குப் பின்னரே இலங்கையை கண்ணிவெடி அற்ற நாடாக பிரகடனப்படுத்த முடியும் என்ற ஒரு நிலைப்பாடு எழுந்ததாகவும், எனினும் இந்த வருட இறுதிக்குள் பெரும்பாலான வகையில் கண்ணிவெடி அகற்றப்பட்டு மக்கள் தங்களுடைய குடியிருப்புகளுக்குள் செல்லக்கூடிய நிலை ஏற்படும் என எதிர்பார்ப்பதாகவும் கூறினார்.
+සුදු පාටට හුරු මෝටර් රථයකින් පැමිණ මෙම වෙඩි තැබීම සිදුකර ඇති බව  විමර්ශනවලදී අනාවරණය වී ඇතැයි පොලිසිය පවසයි.
 
-இலங்கையில் கண்ணிவெடி அகற்றும் நடவடிக்கையில் ஈடுபடும் சர்வதேச அமைப்புகளுக்கும், இலங்கை இராணுவத்தினருக்கும் இதன்போது நன்றி தெரிவித்த ஆளுநர், மீள்குடியேற்றம் உள்ளிட்ட பல நடவடிக்கைகளுக்கு கண்ணிவெடி அகற்றப்படாமை பாரிய சவாலாக காணப்படுவதாகவும் கூறினார்.
+◼️
+
+[Data](articles/b3964180.json)
+
+---
+
+### Two killed in shooting in Moragahahena
+
+*2024-04-07 14:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-killed-in-shooting-in-Moragahahena/108-280323) · `en`
+
+Horana, April 7 (Daily Mirror) - Two individuals who were traveling in a three-wheeler were killed in a shooting by a group that arrived from a car at Thalgahawila, Moragahahena.
+
+Police said the victims died upon admission to the hospital.
+
+According to police investigations, the shooting was carried out by a group that arrived in a white car.
+
+Investigations are underway to ascertain the motive behind the shooting and to arrest the suspects involved.
+
+◼️
+
+[Data](articles/73f75c7a.json)
+
+---
+
+### By the end of the year, the work of removing the mines will be completed - the Governor of the Northern Province
+
+*2024-04-07 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180611) · `ta`
+
+The Governor of the Northern Province announced the completion of mine removal by the end of the year, highlighting Sri Lanka's progress in landmine elimination. He thanked international organizations, the Sri Lankan military, and the people involved in the resettlement process.
+
+🟩
+
+A special event and a special event was organized at the Kilinochchi Central College Playground yesterday (06) to mark the International Day for Awareness on Mind Elimination.
+
+Governor of the Northern Province, Prasanna Ranatunga and Douglas Devananda at the event.. Charles also attended.
+
+Addressing the gathering, the Governor of the Northern Province said that when the mineswashing process began, there was a stand that Sri Lanka could be declared as a mirror country without 2030, but by the end of this year, most of the mines were eliminated and the people would be expected to enter their dwellings.
+
+The Governor thanked the international organizations and the Sri Lankan military in Sri Lanka that he was not a huge challenge for many measures, including resettlement.
+
+The governor also pointed out that the work of removing the Poonakari and Muhamalai areas has to be done.
 
 ...
 
 [Data](articles/122a7439.json)
+
+[Extended Data](ext_articles/122a7439.ext.json)
+
+---
+
+### Tomorrow’s total solar eclipse not visible to Sr Lanka
+
+*2024-04-07 13:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tomorrows-total-solar-eclipse-not-visible-to-Sr-Lanka/108-280322) · `en`
+
+Colombo, April 7 (Daily Mirror)- Though there are two lunar eclipses and two solar eclipses this year, Sri Lnakns will not be able to see any of them said Prof. Chandana Jayaratne, the Director of the Astronomy and Space Science Unit, Department of Physics, Colombo University, and the Chairman of the Arthur C. Clarke Institute for Modern Technologies.
+
+On 8 April 2024, there will be a total solar eclipse, a very famous eclipse in the world, and in particular the USA, to the extent that some schools in the USA will be closed on the eclipse day.
+
+On Earth, a total solar eclipse occurs when the Moon blocks the Sun’s disk as seen from part of Earth’s surface. In this case, the “path of totality” will be a 185 kms  wide dark shadow strip cutting across the USA, from Texas to Maine.
+
+As such, this solar eclipse is not visible to Sri Lanka, but visible in countries of the West in Europe, North America, North in South America, the Pacific, the Atlantic and the Arctic.
+
+...
+
+[Data](articles/1fd091cb.json)
 
 ---
 
@@ -72,19 +132,25 @@ Foreign media reports that such incidents were rarely occurring.
 
 ---
 
-### தீவகத்தில் சூரிய ஒளி மற்றும் காற்றாலை மின் உற்பத்தித் திட்டம் : நெடுந்தீவிலும் பூமி பூஜை!
+### Sunlight and Wind Power Program in the island: Earth Pooja in Nedundevil
 
 *2024-04-07 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180630) · `ta`
 
-தீவகத்தில் முன்னெடுக்கப்படவுள்ள சூரிய ஒளி மற்றும் காற்றாலை மின் உற்பத்திக்கான வேலைத்திட்டத்தின் மற்றுமோர் அம்சமாக இன்று (07) காலை நெடுந்தீவிலும் பூமி பூஜை நடத்தப்பட்டது.
+Sunlight and Wind Power Program in Nedundevil, Sri Lanka, features a Bhoomi Pooja event, marking a solar and wind power generation initiative. The project, supported by an Indian private company, aligns with government efforts.
 
-இலங்கை, இந்திய அரசுகள் ஏற்படுத்திக்கொண்ட இணக்கப்பாட்டுக்கமைய, இந்திய தனியார் நிறுவனத்தின் நிதி பங்களிப்புடன் மேற்கொள்ளப்படும் இந்த பாரிய மின் உற்பத்தித் திட்ட செயற்பாடுகள் கடந்த வாரம் அனலை தீவில் இடம்பெற்றது.
+🟩
 
-இந்நிலையில், சூரிய ஒளி மற்றும் காற்றாலை மின் உற்பத்தித் திட்டத்துக்கான காற்றாலை அமையவுள்ள நெடுந்தீவில் இந்திய நிறுவன மின் பொறியியலாளர் தினேஷ் பாண்டியன் முன்னிலையில் இந்த "பூமி பூஜை" நிகழ்வு இன்று இடம்பெற்றது.
+Bhoomi Pooja was held this morning (07) as the other feature of the solar and wind power generation program to be carried out in the island.
+
+The massive power generation project, which is being contributed to the Indian private company, was held on the island of Anale last week in accordance with the agitation of the Sri Lankan and Indian governments.
+
+The "Bhoomi Pooja" event was held today in the presence of Indian Electricity Engineer Dinesh Pandiyan in Nedundivu, which is set to be a windmill for the solar and wind power plant.
 
 ◼️
 
 [Data](articles/13f4a3fc.json)
+
+[Extended Data](ext_articles/13f4a3fc.ext.json)
 
 ---
 
@@ -113,6 +179,26 @@ After the death inspection, the two brewers say that police officers were asked 
 [Data](articles/35e77bce.json)
 
 [Extended Data](ext_articles/35e77bce.ext.json)
+
+---
+
+### Sri Lanka ready to export seed varieties for the first time
+
+*2024-04-07 13:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-ready-to-export-seed-varieties-for-the-first-time/108-280320) · `en`
+
+Sri Lanka is ready to export several types of seeds in this country for the first time, the Agriculture Ministry said.
+
+Accordingly, several species of chillies, eggplant, Capsicum, okra and maize have been successfully tested and there is a high demand for these seeds from many countries.
+
+The Agriculture Department, including its experts and the private sector have conducted the researches on these new types of seeds.
+
+Accordingly, Director General of Agriculture Ms. Malathi Parasuraman informed Agriculture Minister Mahinda Amaraweera that this year, some of the above mentioned seed varieties have been prepared for export for the first time.
+
+Whike expressing his opinion, the Minister said although seeds of various crops have been imported from foreign countries, it should be appreciated that the most suitable seeds are being produced for cultivation in our country.
+
+◼️
+
+[Data](articles/1fb81855.json)
 
 ---
 
@@ -2229,81 +2315,5 @@ Police mentioned that the arrestees included the members of the gangs led by not
 [Data](articles/2edb6cb0.json)
 
 [Extended Data](ext_articles/2edb6cb0.ext.json)
-
----
-
-### Karuna”s Rebel Tigers   May Have Lost the Eastern Battle but Ultimately the Prabhakaran-led LTTE Lost the Eelam War.
-
-*2024-04-06 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83881) · `en`
-
-The once powerful Liberation Tigers of Tamil Eelam(LTTE) waged war against the Sri Lankan state for over thirty years. The LTTE known popularly as the tigers was the determining force in Sri Lankan politics for nearly two decades. The  decline of the LTTE began in 2004 when its Batticaloa and Amparai district  special commander Vinayagamoorthy Muralidharan  alias “Col”Karuna led an eastern tiger revolt against the LTTE supremo Veluppillai Prabhakaran. Although “Col” Karuna –  also  known as “Karuna  Ammaan”  – was defeated militarily by the LTTE, subsequent events demonstrated that the Eastern split weakened the LTTE considerably and ultimately led to its downfall in 2009.
-
-...
-
-[Data](articles/a49a1a26.json)
-
-[Extended Data](ext_articles/a49a1a26.ext.json)
-
----
-
-### What Is NPP Presidential Candidate Anura Kumara Dissanayake’s Position on Thorny Issues like “!3 Plus”, “Federal Solution” and Militarisation of the State?
-
-*2024-04-06 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83888) · `en`
-
-National People’s Power (NPP) presidential candidate Anura Kumara Dissanayake’s pronouncement in Jaffna earlier this week that he did not come to bargain for votes by assuring that he would give ’13 plus’ or a ‘federal solution’ begs the crucial question as to what exactly is the NPP’s public position in regard to these and other thorny issues including the militarisation of the Sri Lankan State?
-
-To be clear, these core dysfunctions have monstrously perverted constitutional democracy in this country, reducing the Sinhala majority as well as Tamil and Muslim minorities to pathetic ‘nothing-beings’ in their own land. As we may recall, an ‘ethnic war’ and the emergence of a ‘Sinhala Buddhist saviour’ became weapons of choice for majoritarian demagogues, most particularly the Rajapaksas, to inflict cruel injustices on Sri Lankans, including their slavishly supplicating loyalists from the South.
-
-...
-
-[Data](articles/df745765.json)
-
-[Extended Data](ext_articles/df745765.ext.json)
-
----
-
-### Bus failure to go to chinge
-
-*2024-04-06 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195370) · `si`
-
-A bus driver was arrested for a road incident involving a video shared on social media. Released on bail, he must remain in police custody until the case concludes.
-
-🟩
-
-Social media exchanged a video of a bus driver to a bus driver by a bus driver in the presence of a traffic police officer.
-
-He had been temporarily released and asked him to appear before the police today as he had large passengers.
-
-The suspect was arrested by police in the Miriswatta area in Piliyandala.
-
-He was produced before the Kesbewa Magistrate's Court and has been released to the release of Rs 100,000.
-
-However, the court ordered to keep the police in custody until the case was completed.
-
-The bus driver was not allowed by the bus driver at the Colombo bus at the time of the road at the Colombo bus at the time of the road in the Colombo bus.
-
-The suspect by the bus driver who stops the scene when he was taken to the scene, was recorded in a car on the road.
-
-◼️
-
-[Data](articles/8b8913f4.json)
-
-[Extended Data](ext_articles/8b8913f4.ext.json)
-
----
-
-### Remembering Harriet Winslow the Founder Principal of Asia’s First All-Girls  Boarding School – Uduvil  Girls’ College in Jaffna.
-
-*2024-04-06 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83887) · `en`
-
-In the bicentennial year of Uduvil Girls’ College, especially during the month of April, our thoughts dwell closely on the founder principal of the school, Harriet Wadsworth Winslow (née Lathrop), whose birthday falls on April 9. Born in 1796, in Norwich, Connecticut, in the USA, Harriet from a young age, was filled with a yearning to serve in distant lands as a missionary.
-
-She was fortunate in meeting and marrying a young pastor, Rev. Miron Winslow, who also had similar interests. The newly married young couple along with missionaries Mary and Levi Spaulding and others, set sail from Boston on the 8th of June, 1819, heading to Ceylon – their future mission home. The Winslows and the Spauldings had their first glimpse of their mission station in Uduvil on an April morning in 1820. Harriet was just 24 years old.
-
-...
-
-[Data](articles/c13b04d8.json)
-
-[Extended Data](ext_articles/c13b04d8.ext.json)
 
 ---

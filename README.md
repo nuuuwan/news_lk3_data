@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 23:33:53**
+As of **2024-04-07 23:52:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,681 (100.0%) of 17,682 articles have been extended.
+17,682 (100.0%) of 17,682 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1045,6 +1045,8 @@ The Palestinians’ death toll in Gaza has risen beyond 32,000 men, women and ch
 ...
 
 [Data](articles/c62e3965.json)
+
+[Extended Data](ext_articles/c62e3965.ext.json)
 
 ---
 

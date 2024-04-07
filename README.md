@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 14:03:12**
+As of **2024-04-07 14:18:05**
 
 ## Newspaper Stats
 
-*Scraped **17,610** Articles*
+*Scraped **17,612** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,62 @@ islandlk | 968
 economynextcom | 978
 adalk | 1,476
 tamilmirrorlk | 2,077
-adaderanalk | 2,127
+adaderanalk | 2,128
 virakesarilk | 2,565
 dailymirrorlk | 2,691
-adaderanasinhalalk | 2,856
+adaderanasinhalalk | 2,857
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,605 (100.0%) of 17,610 articles have been extended.
+17,610 (100.0%) of 17,612 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### නව හැවැරිදි පුතු ඝාතනය කළ කොස්තාපල් පියාත් දිවි නසා ගනියි
+### එට්නා දුම් වළලු පිට කරයි
+
+*2024-04-07 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195394) · `si`
+
+යුරෝපයේ වඩාත් සක්‍රීයම ගිනිකන්ද ලෙස සැලකෙන ඉතාලියේ එට්නා ගිනි කන්දෙන් දුම් වළලු පිටවන අයුරු විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ඒ සමග එට්නා ගිනි කන්ද "ලේඩි ඔෆ් ද රින්ග්ස්" ලෙස නම් කිරීමට එරට වැසියන් කටයුතු කර තිබේ.
+
+මෙවැනි සිදුවීම් කලාතුරකින් ඇතිවෙන බවටද විදෙස් මාධ්‍ය වාර්තා කර තිබුණි.
+
+◼️
+
+[Data](articles/5a5405c0.json)
+
+---
+
+### The father of the constable murdered the new chapelly son commits suicide
 
 *2024-04-07 13:49:22* · [`adalk`](https://www.ada.lk/breaking_news/නව-හැවැරිදි-පුතු-ඝාතනය-කළ-කොස්තාපල්-පියාත්-දිවි-නසා-ගනියි/11-408983) · `si`
 
-සුවකිරිමට බැරි අසනීපයකින් සහ කතාකිරීමටද නොහැකි  වයස අවුරුදු 9ක්වු තම රෝගී දරුවා  ගෙලට සියතින්ම තොණ්ඩුවක් දමා සිරකර පුතුව ඝාතනය  කර පොලිස් කොස්තාපල් වරයෙකු වූ  පියාද ගෙළ වැළලාගෙන මියගොස් ඇතැයි රාගම රෝහලෙන්  වාර්තාවේ.
+A police constable's father murders the new chapel's son, leading to the constable's suicide. The 60-year-old Mahabage Police Chief Constable and a 9-year-old boy die, with the constable's death linked to the boy's inability to speak. The constable's wife was absent when the incident occurred.
 
-මියගොස්  සිටිනුයේ  රාගම වැළිසර වෙන්දේසිවත්ත ප්‍රදේශයේ  පදිංචිව  වයස   36 හැවිරිදි   මහබාගේ පොලිසියේ පොලිස් කොස්තාපල් වරයෙකු ලෙස සේවය කල  නිලංග සදරුවන් සහ සෙදුල  බිත්සර නැමති 9 හැවිරිදි පිරිමි දරුවෙකි.
+🟩
 
-තම පුතුට කතාකිරීමේ හැකියාව නොමැති  වීම මෙන්ම දරුවා සුව කල නොහැකි රෝගයකින් පීඩා විදීම සම්බන්ධයෙන්   මානසික පීඩනයකින් පසුවී ඇති මෙම පොලිස් නිලධාරීයා ඒ පිලිබදව  නිරතුරුව කනස්සල්ලෙන්  පසු උනේ යැයි බිරිද මරණ පරීක්ෂණයේදී සාක්ෂි දී තිබේ.
+It is reported that the deceased has been killed and a police constable is killed and a police constable is dead in a sick child, unable to speak.
 
-පසුගිය  5ස් වන සෙනසුරාදා දහවල් බිරිද   නිවසේ නොසිටි අවස්ථාවකදී  පොලිස් නිලධාරියා මෙලෙස සිය දරුවාද ඝාතනය  කර ඔහුද ඒ අයුරින්ම ගෙල වැළලාගෙන  සියදිවි හාණි කර ගෙන ඇත. මියගිය  පොලිස්  කොස්තාපල් වරයා මහමහබාගේ  පොලිසියට අනුයුක්තව  රාජකාරියේ නිරතව  සිට ඇත.
+The deaths of the 60-year-old Mahabage Police Age of Mahabage Police, a 9-year-old boy, who was living in the Ven.
 
-...
+The death inspection that the police officer had been worried about the absence of the ability to speak with a sons of cure, and this police officer had witnessed that the police had previously worried about it.
+
+When the wife was not in the house on the 5th Saturday afternoon, the police officer killed his child, killing himself.The deceased was attached to the Mahamabage Police Chief Constable.
+
+In the autopsy of the sister of the sister of the sister of the sister, he said that the bones were caused by the sight and murder of the boundaries.
+
+After the death inspection, the two brewers say that police officers were asked to devote the bodies to relatives of their sins.
+
+◼️
 
 [Data](articles/35e77bce.json)
+
+[Extended Data](ext_articles/35e77bce.ext.json)
 
 ---
 
@@ -65,6 +91,8 @@ Accordingly, police said that investigations will be conduct by the Police Narco
 ◼️
 
 [Data](articles/513fda84.json)
+
+[Extended Data](ext_articles/513fda84.ext.json)
 
 ---
 
@@ -154,21 +182,29 @@ However, no decision has been taken so far on the announcement of April 15 as a 
 
 ---
 
-### வழக்கு உள்ளிட்ட சவால்களிலிருந்து கட்சியை மீட்டெடுப்பதே எமது இலக்கு - மாவை சூளுரை
+### Our goal is to restore the party from the challenges including the case
 
 *2024-04-07 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/180621) · `ta`
 
-தொடுக்கப்பட்டுள்ள வழக்குகள் உள்ளிட்ட கட்சிக்கு எதிரான அனைத்து சவால்களில் இருந்தும் அதனை மீட்டெடுப்பதை இலக்காகக்கொண்டே பயணிக்கின்றோம் என்று இலங்கை  தமிழ் அரசுக் கட்சியின் தலைவர் மாவை.சோ.சேனாதிராஜா சூளுரைத்துள்ளார்.
+Sri Lanka Tamil State Party leader Mawai Senathirajah aims to overcome challenges, including legal cases, by consulting with the party's central committee. He emphasizes unity and readiness to address court-ordered actions. The party is facing a lawsuit over new elections, and steps are being taken to unite these cases. The party seeks to resolve any confusion in the court's decisions and is committed to adhering to the system's rules. Efforts are being made to unite the party and continue its mission for the Tamil people's liberation.
 
-அத்துடன், முக்கிய முடிவுகளை எடுப்பதற்காக அடுத்த வழக்குத் தவணைக்கு முன்னதாக கட்சியின் மத்திய குழு உறுப்பினர்களுடன் கலந்தாராய்வதற்கு முடிவெடுத்துள்ளதாகவும் அவர் அறிவித்துள்ளார்.
+🟩
 
-ஆரம்பத்திலிருந்து கட்சியின் ஒற்றுமையை நான் வலியுறுத்தி வருவதோடு கட்சியின் பதவி நிலைகளுக்காக போட்டியிடுவதால் கட்சிக்குள் பிளவுகள் ஏற்பட்டுவிடக்கூடாது என்பதில் மிகக் கவனமாக இருந்து வருகின்றேன்.
+Sri Lanka Tamil State Party leader Mawai Senathirajah has said that we are traveling in aiming to recover from all the challenges against the party, including the cases.
 
-இவ்வாறான நிலையில் இலங்கைத் தமிழரசுக் கட்சியின் புதிய தெரிவுகளுக்கு எதிராக நீதிமன்றத்தில் சில அங்கத்தவர்கள் வழக்குத் தாக்கல் செய்துள்ளனர். இந்த வழக்குகளை நாம் ஒற்றுமையாக முகங்கொடுப்பதற்கான நடவடிக்கைகளை முன்னெடுத்துள்ளோம்.
+He also announced that he has decided to consult with the party's central committee members ahead of the next case to make important decisions.
+
+From the outset, I have been urging the party's unity and I am very careful not to cause divisions within the party as it is contesting for the position of the party.
+
+In this case, some members have filed a lawsuit against the new elections of the Sri Lankan Tamil party. We have taken steps to unite these cases.
+
+The party has to be released from court cases in the current environment. We are also ready to take appropriate action if the court points out that there are confusion in the choices.
 
 ...
 
 [Data](articles/cc933492.json)
+
+[Extended Data](ext_articles/cc933492.ext.json)
 
 ---
 
@@ -198,29 +234,41 @@ Despite various measures on the police side, the crime has increased in the name
 
 ---
 
-### රාජ්‍ය සේවකයින්ට 10 දාට කලින් අවුරුදු තෑගී
+### 10 years before State employees
 
 *2024-04-07 13:09:56* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවකයින්ට-10-දාට-කලින්-අවුරුදු-තෑගී/11-408981) · `si`
 
-රාජ්‍ය සේවකට හා විශ්‍රාමික රාජ්‍ය සේවකයින්ට හිමි අප්‍රේල් මාසයට හිමි වැටුප අප්‍රේල් දහවෙනිදාට පෙර ලබාදෙන බවත් එම වැටුප සමග අයවැය යෝජනා අනුව වැඩිකළ රුපියල් දස දහසක මුදලද එකතුවන බවද මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සිඹලාපිටිය මහතා පවසයි.
+"10 years ago, State employees' salaries were paid in advance. Now, the Bank of State Minister Ranjith Kimbalapitiya promises to pay the salaries of current, retired, and year-end employees before the end of the year."
+
+🟩
+
+The Bank of State Minister Ranjith Kimbalapitiya says that the salaries of the year ownership of the year and retired public servants will be given before the end of Rs.
 
 ◼️
 
 [Data](articles/a5cee044.json)
 
+[Extended Data](ext_articles/a5cee044.ext.json)
+
 ---
 
-### நாட்டில் எரிபொருள் பாவனை 50% குறைந்துவிட்டது - பெற்றோலிய விநியோகஸ்தர்கள் சங்கம்
+### Fuel use in the country has declined by 50% - Petroleum Distributors Association
 
 *2024-04-07 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180628) · `ta`
 
-நாட்டில் எரிபொருள் பாவனை 50 சதவீதமளவு குறைந்துவிட்டதாக பெற்றோலிய விநியோகஸ்தர்கள் சங்கம் தெரிவித்துள்ளது.
+The Petroleum Distributors Association reports a 50% decrease in fuel use, attributing it to the current economic situation.
 
-எரிபொருள் பாவனை குறைய நாட்டில் தற்போதுள்ள பொருளாதார நிலையே காரணம் என பெற்றோலிய விநியோகஸ்தர்கள் சங்கத் தலைவர் ஷெல்டன் பெர்னாண்டோ கூறுகிறார்.
+🟩
+
+The Petroleum Distributors Association has said that the use of fuel in the country has declined by 50 percent.
+
+Petroleum Distributors Association President Shelton Fernando says the current economic situation in the country is due to the use of fuel.
 
 ◼️
 
 [Data](articles/724a8f8a.json)
+
+[Extended Data](ext_articles/724a8f8a.ext.json)
 
 ---
 
@@ -239,6 +287,20 @@ Police said two persons were injured and hospitalized was hospitalized.
 [Data](articles/b13e9023.json)
 
 [Extended Data](ext_articles/b13e9023.ext.json)
+
+---
+
+### Two persons killed in Horana shooting
+
+*2024-04-07 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98490/two-persons-killed-in-horana-shooting) · `en`
+
+Two individuals have been injured and hospitalised in a shooting incident that took place at the Thalgahawila area in Horana, the police said.
+
+The two individuals, who were injured in the shooting, have succumbed to their injuries after being hospitalized, according to police.
+
+◼️
+
+[Data](articles/248bcdd8.json)
 
 ---
 
@@ -2247,49 +2309,5 @@ Four of them were drowning and two of them were able to save and two others have
 [Data](articles/be331df7.json)
 
 [Extended Data](ext_articles/be331df7.ext.json)
-
----
-
-### Where the 9th mistakes went wrong
-
-*2024-04-06 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195368) · `si`
-
-Nine suspects, members of organized crime gangs Kuda and Kududiyana, were arrested in various areas in Sri Lanka.
-
-🟩
-
-According to the special operation commenced on the instructions of the IGP to arrest organized crime gang members, nine suspects were arrested yesterday (05).
-
-The arrested persons were arrested in Colombo, Galle, Ragama, Moratuwa, Bandaragama and Wadduwa areas.
-
-The suspects are members of the organized criminals, Kuda, Kududiyana, Kuda, Kududiyana, Kududiyana, Kududiyana, Kuda, Kududiyana, Kududiyana, Kududiyana, Kududiyana, Kududiyaya, Kududiyana, Kududiyana, Kududiyana, Kududiyana, Kududiyana, Kudu and Mathagama Gawwa.
-
-◼️
-
-[Data](articles/a0f21b20.json)
-
-[Extended Data](ext_articles/a0f21b20.ext.json)
-
----
-
-### Sri Lanka's Debt Debt Debt Debt Debt Debt Debt Resolution - International Media
-
-*2024-04-06 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/180595) · `ta`
-
-Sri Lanka's debt resolution talks aim to suspend re-loans till 2028, with efforts to counter China's influence. Consultant Sakalaratnayake expects talks to conclude soon.
-
-🟩
-
-Nigey Asia says that the debt countries have been involved in the final talks on suspending Sri Lanka's re -loans till 2028.
-
-Nigey Asia has said that the talks are taking place as countries, including Japan, have taken efforts to prevent China's influence in Sri Lanka.
-
-Sakalaratnayake, consultant for the national security issues of Sri Lanka, said that the talks with the borrowed countries have been completed in the next few weeks.
-
-◼️
-
-[Data](articles/7d95a081.json)
-
-[Extended Data](ext_articles/7d95a081.ext.json)
 
 ---

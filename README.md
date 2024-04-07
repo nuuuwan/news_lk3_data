@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 13:33:44**
+As of **2024-04-07 13:52:58**
 
 ## Newspaper Stats
 
-*Scraped **17,599** Articles*
+*Scraped **17,605** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,106 @@ newsfirstlk | 363
 dailyftlk | 958
 islandlk | 968
 economynextcom | 978
-adalk | 1,473
-tamilmirrorlk | 2,075
-adaderanalk | 2,126
+adalk | 1,474
+tamilmirrorlk | 2,077
+adaderanalk | 2,127
 virakesarilk | 2,563
 dailymirrorlk | 2,690
-adaderanasinhalalk | 2,854
+adaderanasinhalalk | 2,856
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,599 (100.0%) of 17,599 articles have been extended.
+17,599 (100.0%) of 17,605 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### Sri Lanka’s debt repayments to be suspended until 2028
+
+*2024-04-07 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98491/sri-lankas-debt-repayments-to-be-suspended-until-2028) · `en`
+
+Sri Lanka and a group of its creditors are in final negotiations to suspend debt repayments until 2028, Nikkei has learned, as country creditors including Japan seek to prevent China’s influence from expanding in the debt-ridden island.
+
+“Negotiations [with the creditor nations] have concluded. We are hoping that it [a detailed announcement] will take place in the next few weeks,” Sagala Ratnayaka, Sri Lanka’s national security adviser to the president, told Nikkei in a recent interview. The repayment period will be 15 years, from 2028 to 2042, with the interest rate newly set at around 2%. He said that there will be no further debt reduction, despite a request by the island nation.
+
+...
+
+[Data](articles/a86fe524.json)
+
+---
+
+### පොලීසියෙන් තවත් මෙහෙයුමක්
+
+*2024-04-07 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195393) · `si`
+
+ජංගම දුරකථන ඔස්සේ මුදල් ගෙවීමට යොදා ගන්නා ක්‍රමවේදයන් භාවිත කරමින් සිදුකරන නීතිවිරෝධී මත්ද්‍රව්‍ය ජාවාරම් මැඩලීමට විශේෂ වැඩපිළිවෙළක් පොලීසිය ආරම්භ කර තිබේ.
+
+මත්ද්‍රව්‍ය ජාවාරම් මැඩලීමේ යුක්තිය මෙහෙයුමට සමගාමීව එම විශේෂ වැඩපිළිවෙළ ආරම්භ ඇත.
+
+එම මෙහෙයුම ඊයේ (06) සිට එළඹෙන 10 වනදා දක්වා ක්‍රියාත්මක කර ඇත්තේ, පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් මතය අනුවය.
+
+ඒ අනුව, ඊයේ දිනය තුළ ජංගම දුරකථන ඔස්සේ මුදල් ගෙවීමට යොදා ගන්නා ක්‍රමවේද භාවිත කරමින් නීතිවිරෝධී මත්ද්‍රව්‍ය ජාවාරම් සිදු කරනු ලබන පුද්ගලයින් 198 දෙනෙකුගෙන් තොරතුරු ලබාගෙන ඇත.
+
+මොවුන් සම්බන්ධයෙන් සිදුකරන ලද වැඩිදුර විමර්ශනවලදී මත්ද්‍රව්‍ය ජාවාරම්කරුවන් 18 දෙනෙකු සම්බන්ධයෙන් බැංකු ගිණුම් වාර්තා ඔස්සේද, තවත් මත්ද්‍රව්‍ය ජාවාරම්කරුවන් 71 දෙනෙකු සම්බන්ධයෙන් දුරකථන කුලුනු විශ්ලේෂණ වාර්තා ඔස්සේද පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය මගින් වැඩිදුර විමර්ශන සිදුකරන බව පොලීය පවසයි.
+
+◼️
+
+[Data](articles/7ba34882.json)
+
+---
+
+### බ්‍රසීලයේ නඩු විභාගයක් අතරතුර සිදුකළ වෙඩිතැබීම
+
+*2024-04-07 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195392) · `si`
+
+සිය පියාගේ ඝාතනයට සම්බන්ධ සැකකරුට නඩු විමසුම අතරතුරදී පුතා විසින් වෙඩිතැබීමේ සිද්ධියක් විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+එසේ වෙඩිතැබීම සිදුකරන ආකාරය ද විදෙස් මාධ්‍ය වාර්තා කර තිබුණි.
+
+◼️
+
+[Data](articles/6d4c425c.json)
+
+---
+
+### “ஏப்ரல் 15: பொது விடுமுறை அல்ல”
+
+*2024-04-07 13:19:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-15-பொது-விடுமுறை-அல்ல/175-335698) · `ta`
+
+ஏப்ரல் 15 ஆம் திகதி பொது விடுமுறை தினமாக பிரகடனப்படுத்துவதற்கு எவ்வித தீர்மானமும் எடுக்கப்படவில்லை என உள்நாட்டலுவல்கள் இராஜாங்க அமைச்சர் அசோக பிரியந்த தெரிவித்துள்ளார்.
+
+எதிர்வரும் சிங்கள மற்றும் தமிழ் புத்தாண்டை முன்னிட்டு ஏப்ரல் 15 ஆம் திகதியை பொது விடுமுறை தினமாக பிரகடனப்படுத்துமாறு அரச அதிகாரிகள் மற்றும் பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர்.
+
+அமைச்சரவைக் கூட்டத்தில் அமைச்சர்கள் மற்றும் ஜனாதிபதியுடன் இது தொடர்பில் கலந்துரையாடவுள்ளதாக அவர் தெரிவித்தார்.
+
+எனினும், ஏப்ரல் 15ஆம் திகதியை பொது விடுமுறையாக அறிவிப்பது குறித்து இதுவரை எந்த முடிவும் எடுக்கப்படவில்லை.
+
+◼️
+
+[Data](articles/44818735.json)
+
+---
+
+### ’’ஆணுக்கு ஆண்: பெண்ணுக்கு பெண்’’ : பரபரப்பு தீர்ப்பு
+
+*2024-04-07 13:12:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆணுக்கு-ஆண்-பெண்ணுக்கு-பெண்-பரபரப்பு-தீர்ப்பு/175-335697) · `ta`
+
+மசாஜ் (ஸ்பா) நிலையங்களில், பாலியல் ரீதியான மசாஜ் செய்வதை தடுக்க வேண்டும் என்று தொடரப்பட்ட வழக்கில் புதுடெல்லி உச்சநீதிமன்றம் பரபரப்பு உத்தரவு பிறப்பித்திருக்கிறது.
+
+இந்தியாவில், சட்டவிரோதமாக பல்வேறு இடங்களில் ஸ்பா மற்றும் மசாஜ் நிலையங்கள் இயங்கி வருகின்றன.. இந்த நிலையங்களில்  பாலியல் தொழில்  ரகசியமாக நடப்பதாகவும் அவ்வப்போது பொலிஸாருக்கு இரகசிய புகார்கள் வந்தவண்ணம் உள்ளன.
+
+இதையடுத்து, பொலிஸாரும் சம்பந்தப்பட்ட ஸ்பா மற்றும் மசாஜ் சென்டர்களில், மஃப்ட்டியில் சென்று கண்காணித்து, நடவடிக்கைகளை மேற்கொண்டு வருகிறார்கள்.. ஸ்பா, மசாஜ் என்ற பெயரில் விபச்சாரம் செய்பவர்களையும் அதிரடியாக கைது செய்கிறார்கள்.
+
+ஒருவேளை, அந்த மசாஜ் நிறுவனங்களில் லைசன்ஸ் புதுப்பிக்கப்படாமல் அதையும் கண்டறிந்து அபராதம் விதிக்கிறார்கள். அதுமட்டுமல்ல, ஒரே இடத்தில் வாங்கிய சர்ட்டிபிகேட்டுகளை வைத்து கொண்டு, நிறைய இடங்களில் மசாஜ் சென்டர்களை நடத்தி வருவதும் கண்டுபிடிக்கப்பட்டுகிறது..
+
+...
+
+[Data](articles/7636dcc5.json)
+
+---
 
 ### Horana shot
 
@@ -201,6 +285,28 @@ A date and time to host the debate will then be announced thereafter.
 [Data](articles/afacb3c2.json)
 
 [Extended Data](ext_articles/afacb3c2.ext.json)
+
+---
+
+### කෝටි හතරක කුඩු  සමඟ සංගීත ශිල්පියකු අත්අඩංගුවට
+
+*2024-04-07 12:06:27* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-හතරක-කුඩු--සමඟ-සංගීත-ශිල්පියකු-අත්අඩංගුවට/11-408980) · `si`
+
+කොටහේන සුමිත්‍රාරාම මාවතේ නිවසක් වටලා රුපියල් කෝටි හතරකට ආසන්න වටිනා හොරයින් මත්කුඩු තොගයක් සහ අයිස් මත්ද්‍රව්‍ය තොගයක් සමග සංගීත ශිල්පියෙකු අත්අඩංගුවට ගත් බව  ආදුරුප්පුවීදිය  පොලිසිය කියයි.
+
+සැකකරු සමග හොරයින්  මත්කුඩු ගෑම් 372 ක් අයිස් මත්ද්‍රව්‍ය  කිලෝ 1 ගෑම්  558 පොලිසිය මගින් සොයාගෙන ඇත.
+
+ආදුරුප්පු වීදිය පොලිසියේ ස්ථානාධිපති පොලිස් පරීක්ෂක අජිත් මෙත්තානන්ද මහතාට ලද තොරතුරකට අනුව පොලිස් කණ්ඩායමක් නිවස වටලා සිදුකළ සෝදිසියේදී  වාදන භාණ්ඩ අතර තිබූ බෙරයක ඉතා සූක්ෂම ලෙස මෙම මත්ද්‍රව්‍ය තොගය සඟවා තිබූ බව පොලිසිය කියයි.
+
+පැදුරු සාජ්ජ පැවැත්වීම  , වාදන භාණ්ඩ කුලියට ලබාදීම ආදිය සිදුකරන බුවාවෙන් මෙම සැකකරු කාලයක සිට මහා පරිමාණයෙන් මත්ද්‍රව්‍ය  ජාවාරම සිදුකර ඇති බවට මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
+
+සැකකරු විදේශගතව සැගව සිට මෙරට මත්ද්‍රව්‍ය ජාවාරම මෙහෙයවන  ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකු සමඟ සම්බන්ධව මෙම ජාවාරම මෙහෙයවන බවට සැක කරන බව පොලිසිය කියයි.
+
+47 හැවිරිදි  සැකකරු රැඳවුම් නියෝග මත පොලිසියේ රඳවාගෙන දීර්ඝ ලෙස ප්‍රශ්න කරන බව උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+◼️
+
+[Data](articles/e66fca97.json)
 
 ---
 
@@ -2185,147 +2291,5 @@ Through this program, the mother will give birth to a child and gives the child 
 [Data](articles/b700a566.json)
 
 [Extended Data](ext_articles/b700a566.ext.json)
-
----
-
-### Death
-
-*2024-04-06 16:00:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தகாத-உறவில்-இருந்த-இருவர்-மரணம்/175-335659) · `ta`
-
-Two men and three children found hanged in Udapussalawa. Investigations reveal inappropriate behavior. Woman's husband implicated. Further police investigations underway.
-
-🟩
-
-The bodies of the two men were recovered this morning (6), who was hanged from a house in the Udapusalawa - Madulla Bahalakalama area, Udapussalawa police said.
-
-The body of three children, Dubluw M. Priyankani (age 42) and the unmarried male BM Anura Bandara (age 39), have been recovered in the incident, Udapussalawa police said.
-
-Investigations have revealed that the two deceased have been inappropriate.
-
-At the same time, the woman's husband was revealed to the woman's husband from the two of them.
-
-The woman has left her house and has been rescued as bodies as they have been hanged in a house.
-
-It is also worth noting that the police are conducting further investigations into the incident, whether the victims were killed or murdered or murdered.. Remble
-
-◼️
-
-[Data](articles/57c34cd5.json)
-
-[Extended Data](ext_articles/57c34cd5.ext.json)
-
----
-
-### Four Pakistanis arrested in Nepal for taking Sri Lankans hostage
-
-*2024-04-06 15:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98474/four-pakistanis-arrested-in-nepal-for-taking-sri-lankans-hostage-) · `en`
-
-Four Pakistani nationals have been arrested in Nepal for taking hostage four Sri Lankan citizens on the pretext of sending them to different European countries for jobs, a senior Nepali police officer said on Friday.
-
-Kathmandu Valley Crime Investigative Department of Nepal Police arrested the four Pakistani nationals based on a tip-off on Thursday (04), said the Superintendent of Police, Nakul Pokharel.
-
-The Pakistani nationals, between the age of 42 and 62, charged millions of rupees from the four Sri Lankan citizens with the false promise of providing jobs in European countries, including Canada and Romania, the police said.
-
-The Sri Lankans, who were brought from their home country, were beaten, tortured and threatened by the Pakistanis.
-
-Their passports were also seized as the Pakistanis took them hostage at different hotels in Kathmandu.
-
-Police said arrangements are being made to send them back to Sri Lanka.
-
-...
-
-[Data](articles/2f994fb5.json)
-
-[Extended Data](ext_articles/2f994fb5.ext.json)
-
----
-
-### Father allowed in the maternity room!
-
-*2024-04-06 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180593) · `ta`
-
-Colombo Women's Hospital launches a program allowing mothers to accompany during delivery.
-
-🟩
-
-A new program will be launched to allow the mother to be a companion during delivery at the Colombo Women's Hospital in Colombo.
-
-Through this program, the mother can give birth to a child and gives birth to the child during childbirth.
-
-◼️
-
-[Data](articles/9dfe3383.json)
-
-[Extended Data](ext_articles/9dfe3383.ext.json)
-
----
-
-### A cab collides with train
-
-*2024-04-06 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195365) · `si`
-
-A cab collided with a train at an unprotected crossing in Vavuniya, Omanthai, injuring the driver. Residents blame previous accidents on missing railway gates.
-
-🟩
-
-A cab had accidents at an unprotected railway crossing in Omanthai area in Vavuniya.
-
-The driver of the cab injured in the accident has been admitted to the Vavuniya Hospital.
-
-The residents of the area say that the accidents have been held before and that these accidents are held as a result of lack of railway gates.
-
-The cab was thrashed by a train traveling from Anuradhapura to Jaffna this morning.
-
-◼️
-
-[Data](articles/508f9386.json)
-
-[Extended Data](ext_articles/508f9386.ext.json)
-
----
-
-### Two persons arrested for sale of beef without permit
-
-*2024-04-06 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180587) · `ta`
-
-Two individuals were arrested for selling beef without a permit. The Special Task Force recovered 95 kg of beef during a raid in Jayamalapura, Gampola. The suspects are being investigated for a theft gang.
-
-🟩
-
-Two persons have been arrested by the Special Task Force for the sale of beef without permission.
-
-According to confidential information available to the Gampola Special Action Force, 95 kg of beef was recovered for sale during a raid last night at a house in Jayamalapura area in Gampola.
-
-The suspects have handed over the suspects to the Gampola police station. Police are investigating the gang that steals the cows.
-
-◼️
-
-[Data](articles/9f1755ef.json)
-
-[Extended Data](ext_articles/9f1755ef.ext.json)
-
----
-
-### Apartment raided in firearms
-
-*2024-04-06 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195364) · `si`
-
-Police raid an apartment in Vaikkala, arresting a suspect with ice drugs. They find equipment for firearms, including a 9mm manufacturer, overseas firearms, and ammunition. A 79-year-old man is arrested for illegal firearm production.
-
-🟩
-
-According to a suspect arrested with ice drugs, information on the manufacture of these illegal firearms in Vaikkala area has revealed the place of production of these landscape.
-
-Several equipment used for firearms and firearms were found in the site.
-
-In addition, a 9mm manufacturer produce millimeter firearm, an overseas firearm, and 27 live ammunition applied to different types of firearms, open bullets, 31 embals.
-
-Accordingly, a 79-year-old man has been arrested by police from Waikkala area where the production of fire.
-
-◼️
-
-[Data](articles/89efdaa7.json)
-
-[Extended Data](ext_articles/89efdaa7.ext.json)
 
 ---

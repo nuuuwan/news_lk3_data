@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 12:03:17**
+As of **2024-04-07 12:18:11**
 
 ## Newspaper Stats
 
-*Scraped **17,586** Articles*
+*Scraped **17,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 958
 islandlk | 968
 economynextcom | 978
-adalk | 1,472
-tamilmirrorlk | 2,073
-adaderanalk | 2,122
+adalk | 1,473
+tamilmirrorlk | 2,074
+adaderanalk | 2,123
 virakesarilk | 2,563
 dailymirrorlk | 2,686
 adaderanasinhalalk | 2,852
@@ -26,49 +26,99 @@ adaderanasinhalalk | 2,852
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,583 (100.0%) of 17,586 articles have been extended.
+17,586 (100.0%) of 17,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### செவ்வாயன்று கூடுகிறது பொதுஜன பெரமுன
+### Sri Lanka prepares for first-ever seed exports after successful testing
 
-*2024-04-07 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/180618) · `ta`
+*2024-04-07 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98487/sri-lanka-prepares-for-first-ever-seed-exports-after-successful-testing) · `en`
 
-இது தொடர்பில் அக்கட்சியின் பொதுச்செயலாளர் சாகர காரியவசம் தெரிவிக்கையில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அரசியல் பீடக் கூட்டம் எதிர்வரும் செவ்வாய்க்கிழமை கட்சியின் தலைவர் மஹிந்த ராபஜக்ஷ தலைமையில் நடைபெறவுள்ளது.
+Sri Lanka has initiated arrangements for the export of various types of seeds for the first time ever, marking a significant milestone for the country’s agricultural sector.
 
-இதில் ஸ்தாபகத்தலைவர் பஷில் ராஜபக்ஷ உள்ளிட்டவர்களும் பங்கேற்கவுள்ளனர். இந்தக் கூட்டம் வழமையாக கட்சியின் எதிர்காலச் செயற்பாடுகள் சம்பந்தமாக கலந்துரையாடுவதற்காகவே ஆகும் என்றார்.
+The Department of Agriculture has confirmed the successful testing of several species of seeds, including chillies, eggplant, green chillies, ladies fingers, and maize, which are set to be exported soon.
 
-எனினும், கட்சியின் கடந்த கூட்டத்தில் ஜனாதிபதி தேர்தல் சம்பந்தமாக கட்சியின் அங்கத்தவர்கள் கருத்து வெளியிடுவதற்கு கட்டுப்பாடுகள் விதிக்கப்பட்டிருந்தது. அந்தக் கட்டுப்பாடுகளை மீறி தொடர்ச்சியாக சில உறுப்பினர்கள் கருத்துக்களை வெளியிட்டு வருகின்றமை தொடர்பில் இந்தக் கூட்டத்தில் கவனம் செலுத்தப்படவுள்ளது.
+It is also reported that there is a significant surge in demand for these seed varieties from many foreign countries.
 
-அத்துடன்,  கட்சியின் உறுப்பினர்கள் வேறு கட்சிகளுடன் இணைந்து செயற்படுகின்றமை தொடர்பிலும் தீர்மானங்கள் எடுப்பது குறித்து ஆராயப்படவுள்ளது.
+The required research on seeds has been carried out by experts of the Department of Agriculture, while the development and processing activities of the seeds have been undertaken by the private sector, with the highest technology and expert support, said the Department of Agriculture.
 
-அதேபோன்று,  ஜனாதிபதி ரணிலுக்கும், பஷில் ராஜபக்ஷவுக்கும் இடையிலான சந்திப்பிலும் இணக்கப்பாடுகள் எட்டப்படாமையை அடுத்து அது தொடர்பிலும் கவனம் செலுத்தப்படவுள்ளது.
+◼️
 
-...
-
-[Data](articles/e169a3f1.json)
+[Data](articles/2e4299e7.json)
 
 ---
 
-### ග්‍රාම නිලධාරීන්ගේ දීමනා වැඩි කෙරේ
+### The PA convene on Tuesday
+
+*2024-04-07 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/180618) · `ta`
+
+The Sri Lanka Peoples Freedom Alliance (PA) will hold a political meeting on Tuesday, led by Mahinda Rajapaksa, with Sakara Kariyawasam and Basil Rajapaksa participating. The focus will be on discussing future party activities, addressing restrictions on commenting on the presidential election, and the meeting between President Ranil and Basil Rajapaksa.
+
+🟩
+
+The party's general secretary, Sakara Kariyawasam, said that the political meeting of the Sri Lanka Peoples Freedom Alliance (PA) will be held on Tuesday under the leadership of party leader Mahinda Rajapaksa.
+
+Foundation Chairman Basil Rajapaksa will also participate in the event.. He said the meeting would routinely discuss the future activities of the party.
+
+However, at the last meeting of the party, restrictions were imposed on the party's members to comment on the presidential election. The meeting will be focused on the fact that some members are continuing to comment on the restrictions.
+
+In addition, the party's members are working with other parties to make decisions.
+
+Similarly, the focus will be paid to the meeting between President Ranil and Basil Rajapaksa in the wake of the lack of compliance.
+
+It is also reported that the party's activities will be investigated after the appointment of Namal Rajapaksa as the national organizer.
+
+◼️
+
+[Data](articles/e169a3f1.json)
+
+[Extended Data](ext_articles/e169a3f1.ext.json)
+
+---
+
+### கொட்டாஞ்சேனையில் 4 கோடி ரூபாய் ஐஸ் சிக்கியது
+
+*2024-04-07 11:43:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொட்டாஞ்சேனையில்-4-கோடி-ரூபாய்-ஐஸ்-சிக்கியது/175-335691) · `ta`
+
+கொட்டாஞ்சேனை, சுமித்ராராம மாவத்தையில் உள்ள வீடொன்றில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பு தேடுதலில்  சுமார் நான்கு கோடி ரூபாய் பெறுமதியான போதைப்பொருள் மற்றும் ஐஸ் போதைப்பொருட்களுடன் இசைக்கலைஞர் ஒருவரைக் கைது செய்துள்ளதாக ஆட்டுப்பட்டித்தெரு பொலிஸார்  தெரிவித்தனர்.
+
+372 போதைப் பொருட்களையும், 1 கிலோ 558 கிராம் ஐஸ் போதைப்பொருளையும் பொலிஸார் கைப்பற்றியுள்ளனர் அத்துடன் சந்தேநபரையும் கைது செய்துள்ளனர்.
+
+ஆட்டுப்பட்டித்தெரு பொலிஸாருக்கு கிடைத்த தகவலின் பிரகாரம் பொலிஸ் குழுவொன்று குறித்த வீட்டை சுற்றிவளைத்து சோதனை நடத்தியதுடன், இசைக்கருவிகளுக்கு மத்தியில் டிரம்மொன்றில் போதைப்பொருள் கவனமாக மறைத்து வைக்கப்பட்டிருந்ததாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+இந்த சந்தேக நபர் சில காலமாக, இசைக்கருவிகளை வாடகைக்கு கொடுப்பதில் ஈடுபட்டு இருந்துள்ளார். அந்த போர்வையில் பாரியளவில் போதைப்பொருள் கடத்தலில் ஈடுபட்டு வந்துள்ளதாக ஆரம்பகட்ட விசாரணைகளில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/db9d2857.json)
+
+---
+
+### Grama Niladhari's allowances to be increased
 
 *2024-04-07 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195388) · `si`
 
-ග්‍රාම නිලධාරීන් සඳහා ගෙවනු ලබන දීමනා සංශෝධනය කිරීමට රජය තීරණය කර තිබේ.
+The government has increased allowances for Grama Niladharis, including office and stationery allowances, effective April 1st. The new monthly office allowance and annual staff allowance are Rs. and Rs. 3,000 respectively.
 
-ඒ අනුව, අප්‍රේල් මස පළමුවන දින සිට ක්‍රියාත්මක වන පරිදි ග්‍රාම නිලධාරීන් සඳහා ලබාදෙන කාර්යාල දීමනා හා ලිපිද්‍රව්‍ය දීමනා ඉහළ දමා ඇති බව වාර්තා වෙයි.
+🟩
 
-ඊට අදාළ චක්‍ර ලේඛය රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යංශ ලේකම්වරයා විසින් සියලු දිස්ත්‍රික් ලේකම්වරුන්, දිසාපතිවරුන් හා ප්‍රාදේශීය ලේකම්වරුන් වෙත නිකුත් කර තිබේ.
+The government has decided to revise the allowances paid to the Grama Niladhari.
 
-ඒ අනුව මහනගර සභා, නගර සභා සීමාව තුළ මාසික කාර්යාල දීමනාව රුපියල් 3,000 දක්වා ඉහළ දමා ඇති අතර ප්‍රාදේශීය සභා සීමාව තුළ මාසික කාර්යාල දීමනාව රුපියල් 2,000 දක්වා ඉහළ දමා ඇත.
+Accordingly, the office allowances and stationery allowances provided to the Grama Niladharis have been increased by the first day of April.
 
-වාර්ෂික ලිපි ද්‍රව්‍ය දීමනාව ද රුපියල් 3,000 දක්වා ඉහළ දමා ඇති බව රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යංශය සඳහන් කළේය.
+The Secretary to the Ministry of Public Administration, Home Affairs, Provincial Councils, Provincial Councils and Local Government has issued the Secretary to the Government Secretaries and Divisional Secretaries.
+
+Accordingly, the monthly office allowance has been increased to Rs.
+
+The annual staff allowance has also been increased to Rs. 3,000.
 
 ◼️
 
 [Data](articles/d39be025.json)
+
+[Extended Data](ext_articles/d39be025.ext.json)
 
 ---
 
@@ -109,6 +159,8 @@ A “kevili” table features an array of traditional Sri Lankan sweetmeats symb
 ...
 
 [Data](articles/0075a3c7.json)
+
+[Extended Data](ext_articles/0075a3c7.ext.json)
 
 ---
 
@@ -547,6 +599,22 @@ Due to the wind, England have been affected in the North Western and Southwest T
 [Data](articles/32f42f9b.json)
 
 [Extended Data](ext_articles/32f42f9b.ext.json)
+
+---
+
+### මළ ගෙදර තවත් මළ ගෙවල් දෙකක් වෙයි
+
+*2024-04-07 08:56:23* · [`adalk`](https://www.ada.lk/breaking_news/මළ-ගෙදර-තවත්-මළ-ගෙවල්-දෙකක්-වෙයි/11-408979) · `si`
+
+කැබිතියොල්ලෑව, මැදවැව, කෝලිබැන්ඳ වැවේ දිය නෑමට ගොස් සිටි පුද්ගලයන් සිව් දෙනෙක් අතරින් දෙදෙනෙක් දියේ ගිලී ජීවිතක්ෂයට පත්ව ඇතැයි පොලිසිය කියයි.
+
+අවුරුදු  38 හා 51 හැවැරිදි පුද්ගලයන් දෙදෙනෙක් මෙසේ දියේ ගිලී ජීවිතක්ෂයට පත්ව තිබේ. මැදවැව ප්‍ර දේශයේ පැවැති අවමගුල් ගෙදරකට පැමිණ සිටි පුද්ගලයන් පිරිසක් මෙසේ දිය නෑමට ගොස් සිටියදී දෙදෙනෙක් දියේ ගිලී ජීවිතක්ෂයට පත්ව තිබේ.
+
+මරණයට පත්ව ඇත්තතේ පිළියන්දල පදිංචිකරුවන් දෙදෙනෙකි. ඊයේ උදෑසන මෙම දියේ ගිලීම සිදුව තිබේ.
+
+◼️
+
+[Data](articles/bb0a279b.json)
 
 ---
 
@@ -2277,83 +2345,5 @@ Between January 01 and March 27, 53,928 tourists from the United Kingdom came to
 [Data](articles/913e98a9.json)
 
 [Extended Data](ext_articles/913e98a9.ext.json)
-
----
-
-### Statue of Liberty shake during earthquake
-
-*2024-04-06 13:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Statue-of-Liberty-shake-during-earthquake/108-280307) · `en`
-
-Days after lighting struck the Statue of Liberty during a rainstorm, the iconic landmark was seen shaking during a 4.8-magnitude earthquake that rattled the New York City area on Friday.
-
-EarthCam video footage showed the statue and the New York City skyline trembling when the earthquake struck near Califon, New Jersey, around 10:23 a.m. An angle from directly above Lady Liberty caught Ellis Island shaking during the incident, the video shows.
-
-“Lady Liberty has had a rough week,” someone commented on X.
-
-Approximately 42 million people felt the earthquake, per the USGS. It appears to have shaken areas as far south as Washington D.C. and as far north as the New York-Canada border. The shaking lasted several seconds.
-
-There were no injuries or structural damages reported in New York City, but three buildings in Newark were compromised and deemed unsafe.
-
-The largest earthquake ever recorded in New York City’s history was a 5.2-magnitude quake in 1884, according to NYC Emergency Management.
-
-◼️
-
-[Data](articles/597063c8.json)
-
-[Extended Data](ext_articles/597063c8.ext.json)
-
----
-
-### Increased AGIV/ AIDS infection in Sri Lanka
-
-*2024-04-06 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/180190) · `ta`
-
-AGIV/AIDS infection rates in Sri Lanka have risen, with 607 new cases in 2022, up from 5,011 total infections. Deaths from AGIV/AIDS-related factors in 2022 were 660,000 globally, with 271 in Sri Lanka. Despite declining deaths in 2023, the number of infections increased by 13%. Sri Lanka aims to end AIDS by 2030, but challenges remain due to insufficient sex education and awareness.
-
-🟩
-
-AGIV and AIDS are identified as important in the world's most challenging infections. The number of people who suffer from this infection all over the world can be seen as a mutant increase. Although modern medical treatment and awareness have increased their self -confidence and quality of life, the increase of infectious people makes the need for more essential programs.
-
-According to the World Health Organization's report, 39 million people live infected by the end of 2022. Of these, 1.5 million are boys.More than 1.3 new infections have been identified in the equal year.53 percent of the total number of infectious women. 630000 deaths due to AGIV / AIDS related factors in 2022. Since 2010, AIDS -related deaths have declined to 55% for women and girls and 47% among men and children.
-
-...
-
-[Data](articles/be6ec271.json)
-
-[Extended Data](ext_articles/be6ec271.ext.json)
-
----
-
-### The comet's comet of the world's story
-
-*2024-04-06 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195359) · `si`
-
-Astronomers await the comet's return on April 8. First observed in the 1300s, it's known as "The Devil's Comet," famous for its ice and gas explosions. On April 21, it's closest to the Sun, making it visible from Earth. NASA suggests observing it beneath the moon on April 8, when it's brightest. An eclipse will also be visible, along with six planets.
-
-🟩
-
-Astronomers say they will wait for Sri Lankans on April 8.
-
-The comet is observed for the first time in the 1300's, known as the "The Come on" the "Devil Coast" of the "Devil Wawar", "The Wawar Star, which can be observed."
-
-In the 19th century, however, the French astronomer Jean Luis and the British Astronomer William Robert Brks, the comet, was said to the comet.
-
-As the Devil's Comet, it is most populous, because the ice and gas that the ice and gas has exploded from time to time.
-
-18.6 miles wide "The Devil's Come on April 21 is the closest access to the Sun.
-
-This means that from next week, it will be when it comes to the right condition.
-
-NASA says the Devil's comet is positioned beneath the moon and is the best day to visit it.
-
-'' The Devil's Comet '' On April 8, can be observed that it is more bright.
-
-The eclipse to take place on April 8 will also be visible to the audience, six planets, and this special stranger, and this special stranger.
-
-◼️
-
-[Data](articles/df793be8.json)
-
-[Extended Data](ext_articles/df793be8.ext.json)
 
 ---

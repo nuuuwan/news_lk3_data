@@ -1,36 +1,150 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 06:58:30**
+As of **2024-04-07 07:20:19**
 
 ## Newspaper Stats
 
-*Scraped **17,530** Articles*
+*Scraped **17,543** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 154
 bbccomsinhala | 183
-dbsjeyarajcom | 211
+dbsjeyarajcom | 212
 newsfirstlk | 363
 dailyftlk | 958
-islandlk | 960
+islandlk | 968
 economynextcom | 975
 adalk | 1,468
-tamilmirrorlk | 2,064
+tamilmirrorlk | 2,065
 adaderanalk | 2,118
 virakesarilk | 2,555
-dailymirrorlk | 2,680
-adaderanasinhalalk | 2,841
+dailymirrorlk | 2,682
+adaderanasinhalalk | 2,842
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,530 (100.0%) of 17,530 articles have been extended.
+17,530 (99.9%) of 17,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### Four Pakistanis arrested in Nepal for taking four Sri Lankans hostage
+
+*2024-04-07 06:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Four-Pakistanis-arrested-in-Nepal-for-taking-four-Sri-Lankans-hostage/108-280311) · `en`
+
+Kathmandu, April 7 (PTI) - Four Pakistani nationals have been arrested in Nepal for taking hostage four Sri Lankan citizens on the pretext of sending them to different European countries for jobs, a senior Nepali police officer said on Friday.
+
+Kathmandu Valley Crime Investigative Department of Nepal Police arrested the four Pakistani nationals based on a tip-off on Thursday (04), said the Superintendent of Police, Nakul Pokharel.
+
+The Pakistani nationals, between the age of 42 and 62, charged millions of rupees from the four Sri Lankan citizens with the false promise of providing jobs in European countries, including Canada and Romania, the police said.
+
+The Sri Lankans, who were brought from their home country, were beaten, tortured and threatened by the Pakistanis.
+
+Their passports were also seized as the Pakistanis took them hostage at different hotels in Kathmandu.
+
+Police said arrangements are being made to send them back to Sri Lanka.
+
+...
+
+[Data](articles/f4a671f8.json)
+
+---
+
+### Updated UK Travel Advisory on Sri Lanka expected to boost tourism industry
+
+*2024-04-07 06:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Updated-UK-Travel-Advisory-on-Sri-Lanka-expected-to-boost-tourism-industry/107-280310) · `en`
+
+Colombo, April 7 (Daily Mirror) - Travel Advisory of the United Kingdom on Sri Lanka has been updated on 5th April 2024. The travel Advisory has been updated with additional information on emergency medical numbers, road travel and safety and security on 'Entry requirements', 'Safety and security', and 'Health' pages.
+
+References to shortages of food, fuel and medicine due to the economic situation in Sri Lanka contained in the previous Advisory have been removed from the updated Travel Advisory. In addition, references to limitations in healthcare services such as shortages of imported medicine, and medical equipment due to economic situation have also been removed. The High Commission of Sri Lanka in London has made repeated representations to the UK authorities on the need to remove these adverse references in the previous Travel Advisory to reflect the ground realities.
+
+...
+
+[Data](articles/a9255381.json)
+
+---
+
+### අද කාලගුණය
+
+*2024-04-07 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195378) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය,  ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (07) ප.ව. 2.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, මධ්‍යම, ඌව සහ සබරගමුව පළාත්වලත් අම්මපාර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බවය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනවලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්ෂාංශවලට සෘජුවම ඉහළින් පවතී.
+
+ඒ හේතුවෙන් අද (07) දහවල් 12:12ට කඩවත, බදුල්ල, ලුණුගල, කෝන්ගස්පිටිය, බක්මිටියාව සහ කොත්මලේ යන ප්‍රදේශවලට හිරු මුදුන් වනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/42c3f4ab.json)
+
+---
+
+### SampathCards “Sampath Siritha” lights up the Avurudu season with unbelievable discounts and savings for Cardholders
+
+*2024-04-07 05:18:00* · [`islandlk`](http://island.lk/sampathcards-sampath-siritha-lights-up-the-avurudu-season-with-unbelievable-discounts-and-savings-for-cardholders/) · `en`
+
+Avurudu is traditionally the most looked forward to holiday for most Sri Lankans and is celebrated across the country with seasonal food, traditional customs, and fun festivities. As the country prepares for the Sinhala and Tamil New Year season with great anticipation, Sampath Bank is once again stepping forward to make the season a memorable one by reminding the public of all the wonderful traditions associated with this time of the year through “Sampath Siritha” for Sampath cardholders.
+
+...
+
+[Data](articles/537e2833.json)
+
+---
+
+### MAKE AMERICA PRAY AGAIN
+
+*2024-04-07 03:25:00* · [`islandlk`](http://island.lk/make-america-pray-again/) · `en`
+
+“March Madness” is an annual ritual in the USA, the climax of the National College Basketball tournament that keeps Americans glued to their TVs for weeks. Employees in almost all offices and organizations, up to and including the White House, organize “pools” to predict the final four, the semi-finalists of this tournament, usually a monumental task. The madness regarding the events concerning Trump during March was of such confusion that it has become impossible to predict even whether America will remain a democracy after November, 2024.
+
+...
+
+[Data](articles/84fa3703.json)
+
+---
+
+### It is up to India to settle the issue of poaching in Sri Lankan waters
+
+*2024-04-07 03:18:00* · [`islandlk`](http://island.lk/it-is-up-to-india-to-settle-the-issue-of-poaching-in-sri-lankan-waters/) · `en`
+
+Kachchativu island when I visited it in 1974 was an uninhabited and desolate place occasionally visited by fishermen to dry their nets. A small Catholic shrine stood there for protection of fishers from storms and the sea.
+
+The Lankan newspaper in late 1960s published a photograph of what was described as a group of pilgrims from India visiting the island. Serious fishing started when Indian fishermen depleted stocks on their side of the boundary and switched to more lucrative poaching of prawns, trawling on the Sri Lankan side on the muddy bottom of the basin South of Kachchativu.
+
+When arrested by the SLN, Indian authorities exerted undue diplomatic and political pressure for the release of poachers and boats which are owned by influential people on Indian side. The Sri Lanka Navy effectively reduced poaching to zero but Indian political counter pressure even saw the overnight removal of the SLN commander then responsible for countering illegal fishing.
+
+...
+
+[Data](articles/c2d260c2.json)
+
+---
+
+### இலங்கை மீனவரை மீட்ட இந்திய விமானப் படை
+
+*2024-04-07 02:29:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மீனவரை-மீட்ட-இந்திய-விமானப்-படை/175-335676) · `ta`
+
+இலங்கையில் இருந்து கடலுக்கு மீன் பிடிக்கச் சென்றவருக்கு நடுக்கடலில் மாரடைப்பு ஏற்பட்டதால் இந்திய விமானப் படையின் ஹெலி அவரை மீட்டு சென்னை வைத்தியசாலையில் சேர்த்துள்ளது.
+
+இலங்கையில் இருந்து புறப்பட்ட நீண்ட நாள் படகில் இருந்த மீனவர் ஒருவருக்கு நேற்று மாரடைப்பு ஏற்பட்டதால் அவருடன் சென்றவர்கள் நடுக்கடலில் உதவி கோரினர். இதனால் அதன் அருகே சென்ற இந்தியக் கடற்படையினர் தகவலை இந்திய விமானப் படையினருக்கு வழங்கினர்.
+
+இதையடுத்து இந்திய விமானப் படைக்குச் சொந்தமான ஹெலி சம்பவ இடத்துக்கு வந்தது. அதில் இருந்த விமானப் படையினர் மேற்படி இலங்கை மீனவரை மீட்டு சென்னை வைத்தியசாலையில் சேர்த்துள்ளனர்.
+
+மாரடைப்பால் பாதிக்கப்பட்ட இலங்கை மீனவரின் விபரம் உடனடியாகச் சென்னையில் உள்ள இலங்கைத் தூதரகத்துக்கும் சமர்ப்பிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/e044069c.json)
+
+---
 
 ### Vijayadasa Rajapaksa joined me in the telephone crisis
 
@@ -154,6 +268,20 @@ In addition, challenges in health services, such as the shortage of medical equi
 
 ---
 
+### Two well-known Sinhala classical poems translated into English
+
+*2024-04-06 21:49:00* · [`islandlk`](http://island.lk/two-well-known-sinhala-classical-poems-translated-into-english/) · `en`
+
+The poems, termed didactic – Lovada Sangarava and Subhasitaya – have been translated as Towards Universal Well-being and Well Spoken respectively, and published as a second edition by the Buddhist Publication Society Kandy, in 2023 (Buddhist era 2567). The translator is Ven Siri Vajiraramaye Nanasiha Thera. The very clear print text runs through 90 pages with the verses from the ancient text in Sinhala letters and the translation in bold English script, well-spaced and easy on the reading eye.
+
+Embarrassed, I admit, I am not familiar with the two great classics of our Sinhala literature but have been reading them, along with easy-to-understand English translations, in the book I feel privileged to write about.
+
+...
+
+[Data](articles/13f708c2.json)
+
+---
+
 ### A Sri Lankan to make West Indies cash cricket
 
 *2024-04-06 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195375) · `si`
@@ -177,6 +305,18 @@ The West Indies's male cricket academy is considered to be a rise up cricket tea
 [Data](articles/0af9e10a.json)
 
 [Extended Data](ext_articles/0af9e10a.ext.json)
+
+---
+
+### Betel chewing a cardinal pleasure
+
+*2024-04-06 21:26:00* · [`islandlk`](http://island.lk/betel-chewing-a-cardinal-pleasure/) · `en`
+
+Bulath in Sinhala, Vettila in Tamil and Malayalan, Paan in Hindi, Plu in Thai, Sirih in Malay are local names for betel (Piper betle) the tender leaf of which is the main ingredient in a chew. The other common additions are arecanut (Areca catechu), either raw or dried, sliced, shredded or cut into pieces and chunam from burnt chalk, coral or sea shells (slaked lime) and a piece of sun dried tobacco leaf for an added ‘kick’. The tobacco is said to have been introduced to the chew, also called a quid, by the Dutch when they were in these parts of the world as traders or rulers.
+
+...
+
+[Data](articles/2f521941.json)
 
 ---
 
@@ -266,6 +406,20 @@ President: 2300 in Western Province. There are 700 more. Hope to go for 4000. I 
 
 ---
 
+### Jetwing takes off and then July 1983 hits
+
+*2024-04-06 20:18:00* · [`islandlk`](http://island.lk/jetwing-takes-off-and-then-july-1983-hits/) · `en`
+
+(Excerpted from The Jetwing Story on the Life of Herbert Cooray by Shiromal Cooray)
+
+Though conscientious about records, accounts and compliance with regulations, Herbert Cooray was never a number- cruncher. His decision-making did not involve the detailed scrutiny of feasibility studies, balance sheets and financial analyses. Like most entrepreneurs of his generation, he navigated by intuition. He would consider a proposition, talk the matter over with those who could inform or advise him, and then make his decision. He never rushed into things – nor, on the other hand, did he waste time when it was of the essence. His instincts rarely let him down.
+
+...
+
+[Data](articles/dc325868.json)
+
+---
+
 ### Sri Lankan gold smuggling attempt foiled near Vedhalai Coast
 
 *2024-04-06 20:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-gold-smuggling-attempt-foiled-near-Vedhalai-Coast/108-280309) · `en`
@@ -331,6 +485,22 @@ Bought by Sunrisers for INR 1.5 crore, Hasaranga's absence is notable after a su
 [Data](articles/f64c8245.json)
 
 [Extended Data](ext_articles/f64c8245.ext.json)
+
+---
+
+### Falling leaves – an autobiographical memoir of a high achiever
+
+*2024-04-06 19:53:00* · [`islandlk`](http://island.lk/falling-leaves-an-autobiographical-memoir-of-a-high-achiever/) · `en`
+
+(We begin excerpting today sections of an anthology of memoirs of LC Arulpragasam,
+
+who at over 95-years of age is among the last surviving members of the old Ceylon Civil Service.
+
+I was born on November 5, 1927 to a Jaffna Tamil, Christian family. My father was Dr. A. R. Arulpragasam, a government medical doctor, and my mother was Mrs. Bertha Arulpragasam. I had three siblings: Dr. A.C. Arulpragasam, FRCS (Fellow of the Royal College of Surgeons), Ms. Aruljothi (Bartlett) Arulpragasam (M.A. Educn) and my younger brother Jega Arulpragasam, a Computer Engineer. I was in the Ceylon Civil Service (CCS) for 10 years. I then joined FAO (the Food and Agricultural Organization of the United Nations) in 1962 and retired as Director of Agrarian Reform. I am currently the only surviving member of the family, at the age of 95 years.
+
+...
+
+[Data](articles/2a6bae63.json)
 
 ---
 
@@ -451,6 +621,20 @@ The once powerful Liberation Tigers of Tamil Eelam(LTTE) waged war against the S
 [Data](articles/a49a1a26.json)
 
 [Extended Data](ext_articles/a49a1a26.ext.json)
+
+---
+
+### What Is NPP Presidential Candidate Anura Kumara Dissanayake’s Position on Thorny Issues like “!3 Plus”, “Federal Solution” and Militarisation of the State?
+
+*2024-04-06 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83888) · `en`
+
+National People’s Power (NPP) presidential candidate Anura Kumara Dissanayake’s pronouncement in Jaffna earlier this week that he did not come to bargain for votes by assuring that he would give ’13 plus’ or a ‘federal solution’ begs the crucial question as to what exactly is the NPP’s public position in regard to these and other thorny issues including the militarisation of the Sri Lankan State?
+
+To be clear, these core dysfunctions have monstrously perverted constitutional democracy in this country, reducing the Sinhala majority as well as Tamil and Muslim minorities to pathetic ‘nothing-beings’ in their own land. As we may recall, an ‘ethnic war’ and the emergence of a ‘Sinhala Buddhist saviour’ became weapons of choice for majoritarian demagogues, most particularly the Rajapaksas, to inflict cruel injustices on Sri Lankans, including their slavishly supplicating loyalists from the South.
+
+...
+
+[Data](articles/df745765.json)
 
 ---
 
@@ -2049,265 +2233,5 @@ Nine crossings lend sparkle to share market; indices at their highest over past 
 [Data](articles/920afee9.json)
 
 [Extended Data](ext_articles/920afee9.ext.json)
-
----
-
-### Nine crossings lend sparkle to share market; indices at their highest over past 52 trading weeks
-
-*2024-04-06 05:36:00* · [`islandlk`](http://island.lk/nine-crossings-lend-sparkle-to-share-market-indices-at-their-highest-over-past-52-trading-weeks/) · `en`
-
-Stock trading began on a negative note yesterday due to profit takings. Subsequently though, it turned extremely bullish due to positive and market- friendly speculation on the external debt restructuring exercise. This scenario positively impacted the local banking sector, which performed well on the trading floor from the beginning of the session until the end, as in the case of the previous day, market analysts said.
-
-Both indices moved up to their highest levels after 52 trading weeks. Moreover, 148 countries’ share prices increased while only 67 counters moved downwards during the day.The All Share Price Index went up by 115.96 points while S and P SL20 rose by 53.02 points. Turnover stood at Rs 2.9 billion with nine crossings.
-
-...
-
-[Data](articles/a5a8e008.json)
-
-[Extended Data](ext_articles/a5a8e008.ext.json)
-
----
-
-### INSEE Sanstha named SLIM Kantar’s People’s Housing and Construction Brand of the Year for the 13th consecutive time
-
-*2024-04-06 05:22:00* · [`islandlk`](http://island.lk/insee-sanstha-named-slim-kantars-peoples-housing-and-construction-brand-of-the-year-for-the-13th-consecutive-time/) · `en`
-
-INSEE Sanstha has once again been recognized as the People’s Housing and Construction Brand of the Year 2024 by SLIM Kantar, marking its 13th consecutive win in this prestigious category. The award, presented by The Sri Lanka Institute of Marketing (SLIM), signifies the trust and loyalty that customers have placed in the brand over the years, driving INSEE Sanstha’s legacy as Sri Lanka’s #1 Cement brand.
-
-Speaking about the accolade, INSEE Cement’s Commercial Director Safeekhan Siddeeque expressed gratitude INSEE’s customers for their continued support and trust in the brand, even during challenging times in Sri Lanka’s construction industry. “At INSEE Cement, we are deeply committed to delivering excellence in everything we do. For the past five decades, we have been consistently providing the best in products and solutions at the highest quality consistently. This award fuels our motivation to continue raising the bar of excellence and further strengthening our legacy.”
-
-...
-
-[Data](articles/13821618.json)
-
-[Extended Data](ext_articles/13821618.ext.json)
-
----
-
-### Visa sees 35%+ surge in debit card spends; trend expected to continue in the upcoming Avurudu season
-
-*2024-04-06 05:22:00* · [`islandlk`](http://island.lk/visa-sees-35-surge-in-debit-card-spends-trend-expected-to-continue-in-the-upcoming-avurudu-season/) · `en`
-
-Out of the total domestic spends on debit cards, the share of in-store spending is 7 times that of ecommerce.
-
-Last holiday season saw over 20% growth in Visa debit transactions vis-à-vis 2022
-
-Visa (NYSE: V), the global leader in digital payments, today announced that Visa debit card spends saw a significant increase of over 35% in the past year, indicating healthy growth of digital payments in Sri Lanka. This increase is buoyed by a 30%+ increase in face-to-face spends and over 40% increase in ecommerce spends.
-
-As the Tamil & Sinhala New Year celebrations commence in the country, retail transactions are picking up with more active shoppers during the festive period. Consumers are increasingly paying by debit card, opting for safer, simpler and more convenient transactions.
-
-...
-
-[Data](articles/a04bbf63.json)
-
-[Extended Data](ext_articles/a04bbf63.ext.json)
-
----
-
-### Dengue impact this year has decreased
-
-*2024-04-06 03:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-வருடம்-டெங்கு-பாதிப்பு-குறைந்துள்ளது/175-335653) · `ta`
-
-Dengue cases this year have decreased, with 64 hazards seen in January, now controlled in two zones. Health Minister Sita Arampola highlighted the success of awareness campaigns and the impact of climate change.
-
-🟩
-
-The number of people suffering from dengue fever this year has declined than other years.
-
-The Minister of Health, Sita Arampola, said that although 64 dengue hazards were seen till January this year, it had been able to control up to two zones today.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-Accidents are caused by unsafe crackers during festivals annually. Therefore, we urge family members to be careful with such activities during this New Year.
-
-In addition, various campaigns have been carried out to raise awareness about dengue fever in the past. To thank the contribution of health departments and media institutions. In fact, compared to the past years, the number of dengue patients and mortality has been reduced this year.
-
-...
-
-[Data](articles/993dc03d.json)
-
-[Extended Data](ext_articles/993dc03d.ext.json)
-
----
-
-### Technology and knowledge are the new weapons of education
-
-*2024-04-06 03:36:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழில்நுட்பமும்-அறிவும்-கல்வியின்-புதிய-ஆயுதங்களாகும்/175-335652) · `ta`
-
-President Ranil Wickremesinghe emphasizes the importance of renewing knowledge as a crucial task for education's future, highlighting the need for a new educational system change. He underscores the role of technology and modernization in education, aiming to prepare students for a rapidly evolving world.
-
-🟩
-
-President Ranil Wickremesinghe has said that the renewal of knowledge has become a huge task of education and that if the country is to go forward in the next 75 years, a new change in the education system should be made.
-
-The President said this while attending the annual Gift Ceremony of the Sirimavo Bandaranaike College, Colombo held yesterday afternoon.. He further stated that
-
-When I was the then Minister of Education, I was happy that I had the opportunity to develop this school. Its results can be seen today. During the very difficult period of my life, I read near this Sirimavo Bandaranaike College.
-
-In the last two years, this country has been planned to build and build the country. This is not enough. You have to continue this journey for another 05 to 10 years.
-
-To think about the future of the country's children. You will all join the fastest growing society in the future. It is the responsibility of the government to prepare you.
-
-...
-
-[Data](articles/b10b2013.json)
-
-[Extended Data](ext_articles/b10b2013.ext.json)
-
----
-
-### Massive responsibility for government officials
-
-*2024-04-06 03:31:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-அதிகாரிகளுக்கும்-பாரிய-பொறுப்பு/175-335651) · `ta`
-
-Government officials must cooperate to implement key programs like Urumaya, Azwesuma, and the mountain decade, benefiting millions. These initiatives, funded by the President, aim to provide land rights to 20 lakh people under Urumaya, marking a historic first. Public cooperation is crucial for success.
-
-🟩
-
-The President's Trade Union Director Saman Ratnapriya said that it would be necessary for government officials to cooperate, like politicians to provide the benefits of programs, including the Azwesuma, Urumaya and the mountain decade.
-
-He said at a meeting held at the Presidential Office to clarify the proposals, including political activists, trade union leaders and representatives of civil organizations, on the proposals, including the Urumaya, Ashemu and the mountain decade, proposed in the budget of 2024.
-
-As a finance minister, the President has allocated funds to implement several key programs in the budget of 2024. Those programs are being implemented today. Accordingly, it is important to clarify everyone on the projects that will benefit people, including the Urumaya, Ashewasum and the Hill Country.
-
-Land rights will be given to people under the Urumaya Program. 20 lakh people will benefit. Such projects have not been carried out in this country in history.
-
-...
-
-[Data](articles/3684d361.json)
-
-[Extended Data](ext_articles/3684d361.ext.json)
-
----
-
-### Sridharan meets with Indian Ambassador
-
-*2024-04-06 03:24:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியத்-துணைத்-தூதுவருடன்-சிறிதரன்-சந்திப்பு/175-335650) · `ta`
-
-Sridharan, TNA member, discusses political welfare and crises with Indian Ambassador in Jaffna.
-
-🟩
-
-Jaffna to Sri Lanka. Sivagnanam Sreedharan, a member of the Sri Lanka Tamil National Alliance (TNA), has met with the new ambassador to the Indian Consulate.
-
-During the meeting held at the Indian Consulate in Jaffna, the Tamil people were discussing a number of issues including political welfare and contemporary crises.. (A)
-
-◼️
-
-[Data](articles/6ef58ffb.json)
-
-[Extended Data](ext_articles/6ef58ffb.ext.json)
-
----
-
-### Sri Lanka becomes 22nd best connected country in the world
-
-*2024-04-06 03:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-becomes-22nd-best-connected-country-in-the-world/108-280304) · `en`
-
-Climbs two spots in latest UNCATD’s Liner Shipping Connectivity Index
-
-SL overtakes Saudi Arabia in Middle East and Indian subcontinent, emerging as third best connected country
-
-Sri Lanka climbed two spots in the latest United Nations Conference on Trade and Development’s (UNCATD) Liner Shipping Connectivity Index (LSCI), becoming the 22nd best connected country in the world.
-
-Sri Lanka’s score in the LSCI rose by 7.5 percent to 253.4 points in the first quarter of this year from a year ago. Compared to five years ago (1Q 2019), the country’s score is up by 19 percent, with an improvement of one spot in the global rankings.
-
-In the Middle East and Indian subcontinent, Sri Lanka emerged as the third best connected country, overtaking Saudi Arabia.
-
-India (14th best connected country in the world) and the United Arab Emirates (15th best connected in the world) remained as the best connected countries in the region.
-
-...
-
-[Data](articles/74415f5d.json)
-
-[Extended Data](ext_articles/74415f5d.ext.json)
-
----
-
-### Chamudi Prabhabra: Betty 'Buttha' is 14
-
-*2024-04-06 03:19:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crgry4230nno) · `si`
-
-Chamudi Prabhabra highlights 14-year-old Betty 'Buttha's talents, Sri Lanka's women's cricket victories, and the 19th women's triangle cricket tournament.
-
-🟩
-
-Chamudi Prabhabra: Betty 'Buttha' is 14
-
-Sri Lanka's cricketer's talents highlights of the players, the skills of the players are highlighted.
-
-The Sri Lankan cricket team was the most victories of the women of the Bangladesh tour and the first 20-ball cricket cricket team for the first time in the 19th.
-
-Sri Lankan women became runners up of the 19th women's triangle cricket tournament that ended on April 3.
-
-Sri Lanka were defeated before England in the final of April 3.
-
-However, the Australian team and England team won one occasion in the event of six matches.
-
-Blurry of Sri Lankan women's cricket team: T20 tournament against South Africa
-
-...
-
-[Data](articles/49955e96.json)
-
-[Extended Data](ext_articles/49955e96.ext.json)
-
----
-
-### The tree fell on the three -wheeler: the boy wound
-
-*2024-04-06 03:19:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கரவண்டி-மீது-மரம்-விழுந்தது-சிறுவன்-காயம்/175-335649) · `ta`
-
-A boy was injured when a tree fell on his three-wheeler near Nanuoya, causing a traffic jam. He's being treated at Nuwara Eliya District General Hospital.
-
-🟩
-
-A boy was injured when a tree fell on a three -wheeler traveling towards the main city of Nanuoya last night on the road to the classo estate on the Nanuoya police division.
-
-The injured boy is receiving treatment at the Nuwara Eliya District General Hospital, police said.
-
-The tree collapsed on a three -wheeler traveling from the classo area to Nanuoya.
-
-The accident occurred when a tree in the forest on the street was illegally cutting a tree on a three -wheeler on the road.
-
-The crash caused the road to the traffic shortly. The three -wheeler is completely damaged. (A)
-
-◼️
-
-[Data](articles/6e0591c3.json)
-
-[Extended Data](ext_articles/6e0591c3.ext.json)
-
----
-
-### Government has settled US$ 1,909.7 million foreign debt and interest – Rajith Keerthi Thennakoon
-
-*2024-04-06 03:03:00* · [`islandlk`](http://island.lk/government-settles-us-1909-7-million-foreign-debt-and-interest-rajith-keerthi-thennakoon/) · `en`
-
-Rajith Keerthy Tennakoon Director General of Community Affairs at the President’s Office delivering a special media statement today (05) stated that between the assumption of office by  President Ranil Wickremesinghe and February 2024, the Government of Sri Lanka has settled a total of US$ 1909.7 million in foreign debt and interest payments.
-
-He also highlighted that from July 21, 2022, to February 2024, the government has disbursed $1338.8 million in multilateral loans and interest, and that there were no outstanding arrears in loan installments or interest payments up to February 2024.
-
-...
-
-[Data](articles/95d3e655.json)
-
-[Extended Data](ext_articles/95d3e655.ext.json)
-
----
-
-### Sri Lanka and Switzerland commit to expanding relations
-
-*2024-04-06 00:54:50* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-Switzerland-commit-to-expanding-relations/56-760388) · `en`
-
-The 4th round of bilateral consultations between Sri Lanka and Switzerland took place yesterday in Colombo, co-chaired by the Swiss Federal Department of Foreign Affairs (FDFA) Asia Pacific Ambassador Head Heinrich Schellenberg and the Ministry of Foreign Affairs of Sri Lanka Additional Secretary/ Bilateral (West) Yasoja Gunasekera.
-
-The delegations discussed potential to further enhance economic relations. Sri Lanka appreciated the Swiss assistance extended to the Export Development Board (EDB) in identifying further markets for Sri Lankan exports, and proposed collaboration in the textile industry. The two countries agreed to work towards and to explore diversifying trade relations and further potential in the tourism sector. Sri Lanka appreciated the long-standing Swiss support in the area of labour migration. Both sides acknowledged the positive impact of this collaboration in ensuring safe labour migration.
-
-...
-
-[Data](articles/4f361546.json)
-
-[Extended Data](ext_articles/4f361546.ext.json)
 
 ---

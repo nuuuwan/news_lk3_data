@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 15:33:37**
+As of **2024-04-07 15:51:14**
 
 ## Newspaper Stats
 
-*Scraped **17,625** Articles*
+*Scraped **17,626** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 978
 adalk | 1,478
 tamilmirrorlk | 2,079
 adaderanalk | 2,129
-virakesarilk | 2,569
+virakesarilk | 2,570
 dailymirrorlk | 2,695
 adaderanasinhalalk | 2,857
 
@@ -26,25 +26,45 @@ adaderanasinhalalk | 2,857
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,622 (100.0%) of 17,625 articles have been extended.
+17,625 (100.0%) of 17,626 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### இளநீர் லொறிக்கு குழந்தை பலி
+### Child killed
 
 *2024-04-07 15:22:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/இளநீர்-லொறிக்கு-குழந்தை-பலி/73-335701) · `ta`
 
-இரண்டரை வயது குழந்தை வீதியை கடக்கமுயன்ற போது, ​இளநீர் ஏற்றிக்கொண்டுவந்த லொறியொன்று மோதியதில் அக்குழந்தை சம்பவ இடத்திலேயே உயிரிழந்த சம்பவம் அம்பாறையில் இடம்பெற்றுள்ளது.
+A 2.5-year-old child was killed in Ampara when hit by a lorry near Namal Oya Lake. The child was admitted to Ikiniyagala Hospital but later died. The driver was arrested.
 
-அம்பாறை இகினியாகல நாமல் ஓயா ஏரியின் ஆரம்ப பகுதியில் இச்சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-சம்பவத்தில் படுகாயமடைந்த  குழந்தை இகினியாகல வைத்தியசாலையில் அனுமதிக்கப்பட்டது. எனினும், குழந்தை ஏற்கெனவே உயிரிழந்துள்ளதாக வைத்தியசாலை பேச்சாளர் தெரிவித்துள்ளார். விபத்து தொடர்பில் இளநீர் லொறியின் சாரதி கைது செய்யப்பட்டுள்ளார்.
+The incident occurred in Ampara when a two -and -a -half -year -old child crossed the road.
+
+The incident took place in the early part of the Namal Oya Lake in Ampara, police said.
+
+The injured child was admitted to Ikiniyagala Hospital. However, the hospital spokesman said the child had already died. The driver of the juvenile lorry has been arrested in connection with the accident.
 
 ◼️
 
 [Data](articles/c2e696b1.json)
+
+[Extended Data](ext_articles/c2e696b1.ext.json)
+
+---
+
+### செங்கலடி இலுப்படிச்சேனையில் வர்த்தக நிலையங்களை திறந்துவைத்தார் கிழக்கு ஆளுநர் செந்தில் தொண்டமான்!
+
+*2024-04-07 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180627) · `ta`
+
+செங்கலடி இலுப்படிச்சேனையில் உள்ளூர் தொழில் முயற்சியாளர்களை மேம்படுத்தும் நோக்கில் வர்த்தக நிலையங்களை கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் திறந்துவைத்தார்.
+
+22 மில்லியன் ரூபாய் செலவில் நிர்மாணிக்கப்பட்ட இந்த கிராமிய வர்த்தக நிலையங்கள் மக்கள் பாவனைக்காக இதன்போது கையளிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/e41233a6.json)
 
 ---
 
@@ -61,6 +81,8 @@ Additionally, the President instructed Minister of Labour and Foreign Employment
 ...
 
 [Data](articles/6ede4791.json)
+
+[Extended Data](ext_articles/6ede4791.ext.json)
 
 ---
 
@@ -84,21 +106,27 @@ The two men were injured and admitted to the hospital in the Horana - Talgahawa 
 
 ---
 
-### துப்பாக்கி சூட்டில் இருவர் பலி
+### Two killed in firing
 
 *2024-04-07 14:53:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-சூட்டில்-இருவர்-பலி/175-335700) · `ta`
 
-மொரகஹஹேன தல்கஹவில மாலோஸ் கால்வாய் சந்திக்கு அருகில், முச்சக்கர வண்டி ஒன்றின் மீது காரில் வந்த  குழுவினால் மேற்கொண்ட துப்பாக்கிச் சூட்டில் இருவர் உயிரிழந்துள்ள சம்பவம் ஞாயிற்றுக்கிழமை (06) இடம்பெற்றுள்ளது .
+Two people killed in a gunfight near Moragahahena Talgahawila Malos Canal junction. Victims, Rupasinghe Arachike Nayananda and Vasantha Perera, were involved in robberies.
 
-கிரிபிட்டிய, பன்னிப்பிட்டிய பகுதியைச் சேர்ந்த ரூபசிங்க ஆராச்சிகே நயனானந்த மற்றும் பிலியந்தலை பகுதியைச் சேர்ந்த வசந்த பெரேரா ஆகியோரே சம்பவத்தில் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-வெள்ள நிற காரினால் வந்த குழுவொன்றே குறித்த தாக்குதல் மேற்கொண்டுள்ளதுடன் துப்பாக்கிச் சூட்டில் படுகாயமடைந்த இருவரும் ஹொரணை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The incident took place on Sunday (06) that two people were killed in a gunfight on a three -wheeler near the Moragahahena Talgahawila Malos Canal junction.
 
-மேலும் உயிரிழந்த இருவரும் பல கொள்ளை சம்பவங்களுடன் தொடர்புடையவர்கள் என தகவல் கிடைத்துள்ளதாக தெரிவித்த பொலிஸார் இது தொடர்பிலான மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர் .
+Police said that the incident was died in the incident, Rupasinghe Arachike Nayananda and Vasantha Perera of Piliyandalai area.
+
+A group of a flood car has been attacked and the two injured in the shooting have died after being admitted to the Horana Base Hospital, police said.
+
+Further investigations are being carried out by the police that the two victims were involved in several robberies.
 
 ◼️
 
 [Data](articles/6ca7815b.json)
+
+[Extended Data](ext_articles/6ca7815b.ext.json)
 
 ---
 
@@ -2293,39 +2321,5 @@ The DRI had received specific intelligence indicating the smuggling of foreign-o
 [Data](articles/c17f6ed3.json)
 
 [Extended Data](ext_articles/c17f6ed3.ext.json)
-
----
-
-### Drug transport was arrested
-
-*2024-04-06 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195372) · `si`
-
-A monk, deployed in Derana, arrested a drug transport after receiving a tip. The suspect was spotted in Attidiya, then in a three-wheeler, and was identified after removing his Supreme Court robes. The vehicle was sent to police, who found drugs in the suspect's bag. Ada Derana will reveal more.
-
-🟩
-
-A person who was deployed as a monk and arrested a drug transporting a drug transported after Derana.
-
-An Ada Derana Ukusa received a secret tip in a temple in Benthara area.
-
-Accordingly, the Ukusa, which was explored a day, was revealed that the man was coming to the Attidiya area last day.
-
-Then he went to the area to look into the hawk and he was seen in a three-wheeler.
-
-After chasing him, he was seen after he was seen by removing his Supreme Court and dig a lay dress.
-
-The vehicle was then sent to the police in the Bellantha area after he was educated on the three-wheeler that was involved in the correspondence.
-
-The monk dressed in lay gave contradictory answers to the police.
-
-After the arrest of him, the police were conducted in the man's bag of the person's bag and were found in the man's bag.
-
-Ada Derana is alert to be revealed to the country in the future.
-
-◼️
-
-[Data](articles/408a4cbf.json)
-
-[Extended Data](ext_articles/408a4cbf.ext.json)
 
 ---

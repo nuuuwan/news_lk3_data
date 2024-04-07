@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 21:52:14**
+As of **2024-04-07 22:03:36**
 
 ## Newspaper Stats
 
-*Scraped **17,674** Articles*
+*Scraped **17,675** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 958
 islandlk | 968
 economynextcom | 978
-adalk | 1,488
+adalk | 1,489
 tamilmirrorlk | 2,082
 adaderanalk | 2,134
 virakesarilk | 2,583
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,869
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,673 (100.0%) of 17,674 articles have been extended.
+17,674 (100.0%) of 17,675 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,23 +52,35 @@ The first time in the country's major media channels for the first time crossing
 
 ---
 
-### டெல்ஹியை வீழ்த்தி முதலாவது வெற்றிப் புள்ளிகளை சம்பாதித்தது மும்பை
+### Mumbai earned the first winning points by beating Delhi
 
 *2024-04-07 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180650) · `ta`
 
-டெல்ஹி கெப்பிட்டல்ஸ் அணிக்கு எதிராக மும்பை வான்கடே விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (07) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 20ஆவது போட்டியில் டெல்ஹி கெப்பிட்டல்ஸை 26 ஓட்டங்களால் வீழ்த்திய மும்பை இண்டியன்ஸ் இந்த வருடம் முதலாவது வெற்றி புள்ளிகளை சம்பாதித்தது.
+Mumbai Indians secured their first win in the 17th IPL, defeating Delhi Capitals at Mumbai Vankade Stadium. Key players included Rohit Sharma, Ishan Kishan, Hardik Pandya, and bowlers Gerald Coyetrie and Jasprit Bumrah. Mumbai scored 234/5, with Sharma hitting 49 off 27 balls and Kishan 42 off 23 balls. Delhi capitulated for 205, with David Warner and Prithvi Shaw contributing.
 
-ரோஹித் ஷர்மா, இஷான் கிஷான், அணித் தலைவர் ஹார்திக் பாண்டியா, டிம் டேவிட், ரொமாரியோ ஷெப்பர்ட் ஆகியோரின் அதிரடி துடுப்பாட்டங்களும் ஜெரால்ட் கொயெட்ஸி, ஜஸ்ப்ரிட் பும்ரா ஆகியோரின் துல்லியமான பந்துவீச்சுகளும் மும்பையின் முதலாவது வெற்றிக்கு வழிவகுத்தன.
+🟩
 
-அதேவேளை, உபாதையிலிருந்து மீண்டுவந்து மும்பை அணியில் தனது முதலாவது போட்டியில் இம்ப்பெக்ட் வீரராக விளையாடிய சூரியகுமார் யாதவ் ஓட்டம் பெறாமல் ஆட்டம் இழந்தார். அது அவருக்கு பெரும் ஏமாற்றத்தைக் கொடுத்தது.
+In the 20th match of the 17th Indian Premier League chapter held at the Mumbai Vankade Stadium on Sunday (07) at the Mumbai Vankade Stadium against the Telhi Capitles team, Mumbai Indians earned the first victory points this year.
 
-இப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட மும்பை இண்டியன்ஸ் 20 ஓவர்களில் 5 விக்கெட்களை இழந்து 234 ஓட்டங்களைக் குவித்தது.
+Rohit Sharma, Ishan Kishan, team captain Hardik Pandya, Tim David and Romario Shepherd and the precise bowls of Gerald Coyetrie and Jasprit Bumrah led to Mumbai's first victory.
 
-ரோஹித் ஷர்மா, இஷான் கிஷான் ஆகிய இருவரும் 7 ஓவர்களில் 80 ஓட்டங்களைப் பகிர்ந்து ஸ்திரமான ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+Meanwhile, Suriyakumar Yadav, who has been playing as an impact player in his first match in the Mumbai team, lost his game without getting the flow.. It was a great disappointment for him.
+
+Mumbai Indians, who were first invited to bat, scored 234 runs for the loss of 5 wickets in 20 overs.
+
+Rohit Sharma and Ishan Kishan shared 80 runs in 7 overs.
+
+Rohit Sharma returned to 27 balls with 6 pounds and 3 sixes with 49 runs.
+
+On the other hand, Ishan Kishan scored 42 runs off 23 balls with 4 fours and 2 sixes.
+
+Hardik Pandya and Tim David shared 60 runs off 31 balls in 5 wickets.
 
 ...
 
 [Data](articles/0f682807.json)
+
+[Extended Data](ext_articles/0f682807.ext.json)
 
 ---
 
@@ -89,6 +101,22 @@ The residents of the area complained that the materials in the bowl had not yet 
 [Data](articles/2c370597.json)
 
 [Extended Data](ext_articles/2c370597.ext.json)
+
+---
+
+### මේ වසරේදී මග මරුවාට 566ක් බිලි
+
+*2024-04-07 20:49:00* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-මග-මරුවාට-566ක්-බිලි/11-408997) · `si`
+
+මෙම වසරේ ජනවාරි 01වැනිදා සිට අප්‍රේල් 02වැනිදා දක්වා වූ කාලය තුළ මාර්ග අනතුරු හේතුවෙන් 566දෙනෙකු මිය ගොස් ඇති බවත් ඒ අනුව මෙරට පුද්ගලයන් විසින් සිදු කර ගනු ලබන බරපතළම ඛේදවාචකය මෙය වන බවත් ශ්‍රී ලංකා වෛද්‍ය සංගමය අවධාරණය කරයි.
+
+එම සංගමය පෙන්වා දෙන්නේ අදාළ කාලසීමාව තුළ මාරක රිය අනතුරු 541ක් සිදුව ඇති අතර, බරපතළ තුවාල ලැබූවන් 857දෙනෙකු වාර්තා වී ඇති බවයි.
+
+එසේම 2023 වර්ෂයේ අදාළ කාලසීමාව තුළදී මෙරට තුළ මාරක රිය අනතුරු 512ක් සිදුව ඇති අතර, එහිදී 1,577දෙනෙකු බරපතළ තුවාල ලබා ඇති බවත් 542දෙනෙකු මියගොස් ඇති බවත් ශ්‍රී ලංකා වෛද්‍ය සංගමය වැඩිදුරටත් පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/67366c49.json)
 
 ---
 
@@ -2323,33 +2351,5 @@ Remittances generally rise in March ahead of traditional New Year holidays and a
 [Data](articles/07112b4b.json)
 
 [Extended Data](ext_articles/07112b4b.ext.json)
-
----
-
-### Must be put to traditional politics - President
-
-*2024-04-07 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195385) · `si`
-
-President Ranil Wickremesinghe emphasizes the need for Sri Lanka's political parties to focus on economic development, not just preparing the economy. He plans to introduce new laws to restructure the economy in May, with international IMF support, and extends the foreign loan repayment period to 2042, aiming to reduce loan burdens.
-
-🟩
-
-President Ranil Wickremesinghe says that the political party system of Sri Lanka should be prepared economically builds economically, not to prepare the economy of the country.
-
-The President pointed out that the country wants the country to prepare the economy of the country.
-
-President Ranil Wickremesinghe stated that if it is not possible to overcome traditional politics, President Ranil Wickremesinghe said.
-
-Meanwhile, President Ranil Wickremesinghe says he will bring new laws to restructure the economy in May.
-
-The President said that the concession was legalized with the International IMF.
-
-President Ranil Wickremesinghe added that the foreign loan repayment period is being delayed to 2042 and to remove a portion of those loans.
-
-◼️
-
-[Data](articles/c6dda50b.json)
-
-[Extended Data](ext_articles/c6dda50b.ext.json)
 
 ---

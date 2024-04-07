@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 11:52:32**
+As of **2024-04-07 12:03:17**
 
 ## Newspaper Stats
 
-*Scraped **17,583** Articles*
+*Scraped **17,586** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,53 +18,125 @@ economynextcom | 978
 adalk | 1,472
 tamilmirrorlk | 2,073
 adaderanalk | 2,122
-virakesarilk | 2,562
-dailymirrorlk | 2,685
-adaderanasinhalalk | 2,851
+virakesarilk | 2,563
+dailymirrorlk | 2,686
+adaderanasinhalalk | 2,852
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,575 (100.0%) of 17,583 articles have been extended.
+17,583 (100.0%) of 17,586 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### மக்களின் நியாயமான கோரிக்கைகளை  நிராகரிக்க முடியாது - பொன்னாவெளி  சம்பவம் தொடர்பில் சமத்துவக் கட்சி கண்டனம்
+### செவ்வாயன்று கூடுகிறது பொதுஜன பெரமுன
+
+*2024-04-07 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/180618) · `ta`
+
+இது தொடர்பில் அக்கட்சியின் பொதுச்செயலாளர் சாகர காரியவசம் தெரிவிக்கையில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அரசியல் பீடக் கூட்டம் எதிர்வரும் செவ்வாய்க்கிழமை கட்சியின் தலைவர் மஹிந்த ராபஜக்ஷ தலைமையில் நடைபெறவுள்ளது.
+
+இதில் ஸ்தாபகத்தலைவர் பஷில் ராஜபக்ஷ உள்ளிட்டவர்களும் பங்கேற்கவுள்ளனர். இந்தக் கூட்டம் வழமையாக கட்சியின் எதிர்காலச் செயற்பாடுகள் சம்பந்தமாக கலந்துரையாடுவதற்காகவே ஆகும் என்றார்.
+
+எனினும், கட்சியின் கடந்த கூட்டத்தில் ஜனாதிபதி தேர்தல் சம்பந்தமாக கட்சியின் அங்கத்தவர்கள் கருத்து வெளியிடுவதற்கு கட்டுப்பாடுகள் விதிக்கப்பட்டிருந்தது. அந்தக் கட்டுப்பாடுகளை மீறி தொடர்ச்சியாக சில உறுப்பினர்கள் கருத்துக்களை வெளியிட்டு வருகின்றமை தொடர்பில் இந்தக் கூட்டத்தில் கவனம் செலுத்தப்படவுள்ளது.
+
+அத்துடன்,  கட்சியின் உறுப்பினர்கள் வேறு கட்சிகளுடன் இணைந்து செயற்படுகின்றமை தொடர்பிலும் தீர்மானங்கள் எடுப்பது குறித்து ஆராயப்படவுள்ளது.
+
+அதேபோன்று,  ஜனாதிபதி ரணிலுக்கும், பஷில் ராஜபக்ஷவுக்கும் இடையிலான சந்திப்பிலும் இணக்கப்பாடுகள் எட்டப்படாமையை அடுத்து அது தொடர்பிலும் கவனம் செலுத்தப்படவுள்ளது.
+
+...
+
+[Data](articles/e169a3f1.json)
+
+---
+
+### ග්‍රාම නිලධාරීන්ගේ දීමනා වැඩි කෙරේ
+
+*2024-04-07 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195388) · `si`
+
+ග්‍රාම නිලධාරීන් සඳහා ගෙවනු ලබන දීමනා සංශෝධනය කිරීමට රජය තීරණය කර තිබේ.
+
+ඒ අනුව, අප්‍රේල් මස පළමුවන දින සිට ක්‍රියාත්මක වන පරිදි ග්‍රාම නිලධාරීන් සඳහා ලබාදෙන කාර්යාල දීමනා හා ලිපිද්‍රව්‍ය දීමනා ඉහළ දමා ඇති බව වාර්තා වෙයි.
+
+ඊට අදාළ චක්‍ර ලේඛය රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යංශ ලේකම්වරයා විසින් සියලු දිස්ත්‍රික් ලේකම්වරුන්, දිසාපතිවරුන් හා ප්‍රාදේශීය ලේකම්වරුන් වෙත නිකුත් කර තිබේ.
+
+ඒ අනුව මහනගර සභා, නගර සභා සීමාව තුළ මාසික කාර්යාල දීමනාව රුපියල් 3,000 දක්වා ඉහළ දමා ඇති අතර ප්‍රාදේශීය සභා සීමාව තුළ මාසික කාර්යාල දීමනාව රුපියල් 2,000 දක්වා ඉහළ දමා ඇත.
+
+වාර්ෂික ලිපි ද්‍රව්‍ය දීමනාව ද රුපියල් 3,000 දක්වා ඉහළ දමා ඇති බව රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යංශය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/d39be025.json)
+
+---
+
+### The Equality Party condemns the Ponnaveli incident
 
 *2024-04-07 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180614) · `ta`
 
-தாங்கள் காலம் காலமாக வாழ்ந்த பூர்வீக நிலங்கள் பாதிக்கப்பட்டு தங்களின் இருப்பு கேள்விக்குள்ளாக்கப்பட்டு மக்களுக்கும் பிரதேசத்துக்கும் ஆபத்தை ஏற்படுத்தும் முதலீட்டு முயற்சிகளை தங்களது பிரதேசத்துக்குள் அனுமதிக்காதீர்கள் என்ற பொன்னாவெளி மக்களின் நியாயமான கோரிக்கைகளை ஒருபோதும் நிராகரிக்க முடியாது. அவர்களின் கோரிக்கைகள் நிராகரிக்கப்பட்டு முன்னெடுக்கப்படும் நடவடிக்கைகளை சமத்துவக் கட்சி வன்மையாக கண்டிக்கிறது என அக்கட்சியின் பொதுச் செயலாளர் முன்னாள் பாராளுமன்ற உறுப்பினர் மு. சந்திரகுமார் தெரிவித்துள்ளார்.
+The Equality Party condemns the Ponnaveli incident, opposing the Sunnakkal excavation affecting over five villages, forcing residents to leave their land. They support the Ponnaveli people's peaceful protest for 270 days, vowing to continue advocating until their demands are met.
 
-பொன்னாவெளியில் நேற்று (05) இடம்பெற்ற சம்பவம் தொடர்பில் வெளியிட்டுள்ள செய்திக்குறிப்பிலேயே அவர் இதனை தெரிவித்துள்ளார்.
+🟩
 
-பொன்னாவெளி பிரதேசத்தில் மேற்கொள்ளப்படவுள்ள சுன்னக்கல் அகழ்வு காரணமாக அப்பிரதேசத்தில் ஐந்துக்கு மேற்பட்ட கிராமங்கள் முற்றுமுழுதாக பாதிக்கப்படும்.
+The Ponnaweli people's legitimate demands can never be rejected by not allowing the investment efforts of the native lands in which they have lived for a long time and questioned their existence.. The Equality Party vehemently condemns the actions that their demands rejected and carried out by the party's general secretary.. Chandrakumar said.
+
+He made this statement in a statement issued on the incident that took place yesterday (05) in Ponnaweli.
+
+Due to the Sunnakkal excavation to be carried out in the Ponnaveli area, more than five villages in the area will be completely affected.
+
+Due to the Sunnakkal excavation to be carried out at a depth of more than 100 meters. This will create a situation where people who have lived for a long time have to leave their own land. Therefore, there is nothing wrong with the mothers saying that they will never allow the Sunnakkal excavation action to be carried out in their territory.
 
 ...
 
 [Data](articles/329bfd75.json)
 
+[Extended Data](ext_articles/329bfd75.ext.json)
+
 ---
 
-### கச்சதீவு இந்தியாவின் உள்ளகப் பிரச்சினை - அலி சப்ரி
+### New Year ’kevili’ table cost drops by 2% from 2023 to 2024
+
+*2024-04-07 11:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-Year-kevili-table-cost-drops-by-2-from-2023-to-2024/108-280316) · `en`
+
+Colombo, April 7 (Daily Mirror) - The cost of preparing a traditional "kevili" (sweetmeats) table for the Sinhala and Tamil New Year has decreased by 2% in 2024 compared to 2023, according to an analysis published on PublicFinance.lk, Sri Lanka's leading economic insights platform managed by Verité Research.
+
+The data reveals that ingredient costs in 2024 are 2.2 times higher than in 2019, down from a 2.3 times increase in 2023 compared to 2019.
+
+A “kevili” table features an array of traditional Sri Lankan sweetmeats symbolising prosperity and happiness. Despite variations between households, the typical elements of a “kevili” table include milk rice, kokis, banana, aluwa, kevum, dodol, mun kevum, and butter cake.
+
+...
+
+[Data](articles/0075a3c7.json)
+
+---
+
+### Kachchativu India's Internal issue - Ali Sabri
 
 *2024-04-07 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180619) · `ta`
 
-கச்சதீவு சம்பந்தமாக பல்வேறு விதமான கருத்துக்கள் வெளிப்பட்டு வருகின்ற நிலையில், அந்த விவகாரம் இந்தியாவின் உள்ளகப் பிரச்சினையாகும் என்று வெளிவிவகார அமைச்சர் ஜனாதிபதி சட்டத்தரணி அலி சப்ரி தெரிவித்துள்ளார்.
+India's External Affairs Minister Ali Sabri states Kachchativu is an internal issue, with no talks between India and Sri Lanka. Kachchativu, given to Sri Lanka in 1974, is under Indian Navy control. Political parties in India, including BJP and Congress, are using the issue for political gain. Parliamentary elections and a Tamil Nadu referendum are upcoming.
 
-அரை நூற்றாண்டுகளுக்கு முன்னதாகவே நிறைவடைந்த கச்சதீவு விடயம் சம்பந்தமாக தற்போது எவ்விதமான உரையாடல்களும் இரு நாடுகளுக்கும் இடையில் இடம்பெறவில்லை என்றும் அவர் குறிப்பிட்டார்.
+🟩
 
-இலங்கைக்குச் சொந்தமாக கச்சதீவு தற்போது கடற்படையினரின் கட்டுப்பாட்டில் இருக்கின்றது. இந்த கச்சதீவானது 1974இல் அப்போதைய இந்திய பிரதமர் இந்திரா காந்தியினால் இலங்கைக்கு வழங்கப்பட்டதாகும்.
+External Affairs Minister Ali Sabri has said that the issue is an internal issue of India, while various comments on Kachchativu are emerging.
 
-இந்நிலையில் தற்போது பிரதமர் நரேந்திர மோடி தலைமையிலான பாரதீய ஜனதா கட்சி கச்சதீவு மீட்புக் கோசத்தினை வெளிப்படுத்த ஆரம்பித்துள்ளது. அத்துடன், காங்கிரஸ் கட்சியும் தமிழகத்தின் பிரதான கட்சிகளில் ஒன்றான திராவிட முன்னேற்ற கழகமும் தான் கச்சதீவினை இலங்கைக்கு தாரைவார்த்தது என்பதையும் வெளிப்படுத்தி வருகிறது.
+He added that there are no conversations between the two countries on the issue of Kachchativu, which was completed half a century ago.
 
-இவ்வாறான நிலையில் கருத்து வெளியிடுகையிலேயே வெளிவிவகார அமைச்சர் அலி சப்ரி மேற்கண்டவாறு தெரிவித்தார்.
+Sri Lanka -owned Kachchativu is currently under the control of the Navy. The Kachchativu was presented to Sri Lanka in 1974 by the then Prime Minister of India Indira Gandhi.
+
+At this juncture, the Bharatiya Janata Party (BJP) led by Prime Minister Narendra Modi has begun to showcase the Kachchativu Redemption slogan. In addition, the Congress party and one of the major parties of Tamil Nadu, the Dravida Munnetra Kazhagam, reveal that Kachchativu has lured Sri Lanka.
+
+External Affairs Minister Ali Sabri said this while commenting.
+
+Parliamentary elections have been announced in India. A referendum will be held in Tamil Nadu on the 19th.
 
 ...
 
 [Data](articles/f791a91d.json)
+
+[Extended Data](ext_articles/f791a91d.ext.json)
 
 ---
 
@@ -84,25 +156,35 @@ These rice bags will be distributed to the ‘Aswesuma’ beneficiaries, individ
 
 [Data](articles/14df784d.json)
 
+[Extended Data](ext_articles/14df784d.ext.json)
+
 ---
 
-### முதலில் எந்த தேர்தல் என்பதை ஜனாதிபதியே தீர்மானிக்கலாம் - பசில்
+### The President may decide which election first - Basil
 
 *2024-04-07 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180620) · `ta`
 
-எந்த தேர்தலை முதலில் நடத்துவது என்பதை ஜனாதிபதியே தீர்மானிக்கலாம் அதற்கு பொதுஜனபெரமுன இடமளிக்கும் என முன்னாள் நிதியமைச்சர் பசில் ராஜபக்ச தெரிவித்துள்ளார்.
+Basil Rajapaksa stated that the President can decide the order of elections, emphasizing the need to hold the parliamentary election first. He assured no pressure from his party on the President and clarified that the decision is solely the President's.
 
-நாடாளுமன்ற தேர்தலை முதலில் நடத்தவேண்டும் என்ற எங்கள் நிலைப்பாட்டை நாங்கள் அவருக்கு தெளிவுபடுத்தியுள்ளோம் அத்துடன் அது முடிவடைந்துவிட்டது இனி அவரே தீர்மானி;க்கலாம் என பசில் ராஜபக்ச சண்டே டைம்ஸிற்கு தெரிவித்துள்ளார்.
+🟩
 
-எங்கள் கட்சி எந்த வகையிலும்  ஜனாதிபதிக்கு அழுத்தங்களை கொடுக்காது என பசில்ராஜபக்ச தெரிவித்துள்ளார்.
+Former Finance Minister Basil Rajapaksa has said that the President may decide which election to hold the election first.
 
-கடந்த வியாழக்கிழமை பசில் ராஜபக்ச ஜனாதிபதி ரணில்விக்கிரமசிங்கவை சந்தித்து பேச்சுவார்த்தைகளை மேற்கொண்டுள்ள நிலையிலேயே பசில்ராஜபக்ச இதனை தெரிவித்துள்ளார்.
+Basil Rajapaksa told the Sunday Times that we have made it clear to him that we have to hold the parliamentary election first and that it is over.
 
-பொதுத்தேர்தலை முதலில் நடத்தவேண்டும் என்ற தனது தனிப்பட்ட கோரிக்கைக்கு அப்பால் எந்த தேர்தலை முதலில்நடத்தவேண்டும் என்பது குறித்து வேறு எந்த பேச்சுவார்த்தைகளையும் மேற்கொள்ளவில்லை முடிவு என்பது முற்றிலும் ஜனாதிபதியின் கரங்களிலேயே உள்ளது எனவும் முன்னாள் நிதியமைச்சர் தெரிவித்துள்ளார்.
+Basil Rajapakse said that our party will not put pressure on the president in any way.
 
-...
+Basilrajapaksa made this statement as Basil Rajapaksa met with President Ranil Wickremesinghe last Thursday.
+
+The former Finance Minister said that the decision was completely in the hands of the president that the decision was not in the hands of the president.
+
+He said that the Sri Lanka PA is preparing to face the two national elections and the meeting of the party's central executive committee will be held on the 9th, but the elections will not be investigated.
+
+◼️
 
 [Data](articles/b772fe93.json)
+
+[Extended Data](ext_articles/b772fe93.ext.json)
 
 ---
 
@@ -156,19 +238,25 @@ The police have registered a case and are investigating. The death of his wife, 
 
 ---
 
-### மனோ, ஹக்கீம், ரிஷாத் எம்முடனேயே உள்ளனர் - ரஞ்சித் மத்தும பண்டார
+### Mano, Hakeem and Rishad are with Emm - Ranjith Mathuma Bandara
 
 *2024-04-07 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/180616) · `ta`
 
-மனோ கணேசன்,  ரவூப் ஹக்கீம், ரிஷாத் பதியுதீன் ஆகியோர் தலைமையிலான அணியினர் எமது கூட்டணியின் பங்காளிகளாகவே உள்ளனர் என்று ஐக்கிய மக்கள் சக்தியின் பொதுச்செயலாளர் ரஞ்சித் மத்தும பண்டார தெரிவித்துள்ளார்.
+Ranjith Mathuma Bandara, General Secretary of United People's Power, acknowledges Mano Ganesan, Rauf Hakeem, and Rishad Bathiudeen as alliance partners, despite their absence from a recent event due to a Memorandum of Understanding. The Tamil Progressive Alliance, Muslim Congress, and All Ceylon Peoples Congress have been traveling together since the last elections, indicating their partnership. Bandara emphasizes their ongoing collaboration and plans for future joint activities.
 
-ஐக்கிய மக்கள் சக்தி,  தனது கூட்டணியில் அங்கம் வகிக்கும் பங்காளிகளுடன் புரிந்துணர்வு ஒப்பந்தத்தில் கைச்சாத்திட்டிருக்கும் நிலையில் இந்த நிகழ்வில் மனோ கணேசன், ரவூப் ஹக்கீம் ரிஷாத் பதியுதீன் ஆகியோர் பங்கேற்றிருக்கவில்லை. இந்நிலையில் கருத்து வெளியிடும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-மனோ கணேசன் தலைமையிலான தமிழ் முற்போக்கு கூட்டணியும், ரவூப் ஹக்கீம் தலைமையிலான முஸ்லிம் காங்கிரஸ்,  ரிஷாத் பதியுதீன் தலைமையிலான அகில இலங்கை மக்கள் காங்கிரஸ் கடந்த ஜனாதிபதி மற்றும்  பாராளுமன்ற தேர்தல்களில் இருந்து எம்முடனேயே கூட்டணியின் பங்காளிகளாக பயணிக்கின்றார்கள்.
+United People's Power General Secretary Ranjith Mathuma Bandara said that the team led by Mano Ganesan, Rauf Hakeem and Rishad Bathiudeen are partners of our alliance.
+
+Mano Ganesan and Rauf Hakeem Rishad Bathiudeen have not participated in the event as the United People's Power has signed a Memorandum of Understanding with his alliance partners.. He said this while commenting on this.
+
+The Tamil Progressive Alliance led by Mano Ganesan, the Muslim Congress led by Rauf Hakeem and the All Ceylon Peoples Congress led by Rishad Bathiudeen, have been traveling as partners of the coalition from the last presidential and parliamentary elections.
 
 ...
 
 [Data](articles/72fcf70f.json)
+
+[Extended Data](ext_articles/72fcf70f.ext.json)
 
 ---
 
@@ -257,6 +345,8 @@ Remittances generally rise in March ahead of traditional New Year holidays and a
 ◼️
 
 [Data](articles/07112b4b.json)
+
+[Extended Data](ext_articles/07112b4b.ext.json)
 
 ---
 
@@ -431,6 +521,8 @@ OP1 Select best and below best fell, as poorer sorts maintained. OPA Select best
 ...
 
 [Data](articles/a11dea66.json)
+
+[Extended Data](ext_articles/a11dea66.ext.json)
 
 ---
 
@@ -813,6 +905,8 @@ However due to settling official liabilities, reserve numbers did not go up.
 ...
 
 [Data](articles/32ff2688.json)
+
+[Extended Data](ext_articles/32ff2688.ext.json)
 
 ---
 
@@ -2261,89 +2355,5 @@ The eclipse to take place on April 8 will also be visible to the audience, six p
 [Data](articles/df793be8.json)
 
 [Extended Data](ext_articles/df793be8.ext.json)
-
----
-
-### In the jaffna. Three arrested for kidnapping cannabis inside the loudspeaker device
-
-*2024-04-06 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180581) · `ta`
-
-In Jaffna, three were arrested for smuggling 18 kg of cannabis in a loudspeaker device. Two were detained in Chavakachcheri, and after investigations, a special raid in Semmani revealed the hidden cannabis. The detainees, from Mannar, are being investigated.
-
-🟩
-
-In Jaffna, three persons have been arrested on charges of kidnapping cannabis inside a small loudspeaker device and police have recovered 18 kg of cannabis drugs from them.
-
-Police arrested two persons arrested in the Chavakachcheri area on the 30th of last month and demanded permission to investigate two days in police detention.. It was granted judicial permission.
-
-Based on the investigations carried out by them, the police intelligence unit took special measures from them and obtained confidential information from them.
-
-In the meantime, when a special raid was carried out in the Semmani area on the basis of confidential information received by the police that ganja was being smuggled into a motorcycle today, police searched the motorcycle passengers.
-
-At the time, the police found that the cannabis drug was hidden in a small loudspeaker device. When it was raided, they rescued the hidden cannabis.
-
-...
-
-[Data](articles/48b98ab2.json)
-
-[Extended Data](ext_articles/48b98ab2.ext.json)
-
----
-
-### President of National Rice Festival
-
-*2024-04-06 13:16:10* · [`adalk`](https://www.ada.lk/religion/ජාතික-අලුත්-සහල්-මංගල්‍යය-ජනපති-ප්‍රධානත්වයෙන්/4-408975) · `si`
-
-National Rice Festival President Ranil Wickremesinghe inaugurated the Jaya Sri Maha Bodhi in Anuradhapura, highlighting the new Rice Wedding Atamastina and the Sahal of Pallegama, organized by the Ministry of Agriculture. The event aimed to boost agriculture and the economy, with contributions from farmers nationwide.
-
-🟩
-
-The Jaya Sri Maha Bodhi in Anuradhapura was held under the patronage of the National Rice Festival President Ranil Wickremesinghe.
-
-The new Rice Wedding Atamastina, the new Sahal of Pallegama, was organized by the Ministry of Agriculture and the Department of Agriculture and the Agrarian Services Department of Pallegama.
-
-A number of farmers across the country, a number of farmers across the country, was also the 'fields throughout the country and wish to see the country with a prosperous economy, and forth to prosper the country from agriculture.
-
-Pallegama Chief Sanghajayaka Ven
-
-Commemorative Zone of the National Rice Festival was also presented to the President.
-
-Anuradhapura District Agrarian Organization Leader Puthchanha Farmer was also presented by a agricultural proposal to President Ranil Wickremesinghe.
-
-Adhikaden Leader Vannilesonan was presented to President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/9e8b5894.json)
-
-[Extended Data](ext_articles/9e8b5894.ext.json)
-
----
-
-### Decrease in dengue patients and deaths
-
-*2024-04-06 13:10:02* · [`adalk`](https://www.ada.lk/breaking_news/ඩෙංගු-රෝගීන්-සහ-මරණ-ප්‍රතිශතයේ-අඩුවීමක්/11-408974) · `si`
-
-Dengue cases and deaths decreased this year, thanks to 64 identified risk zones and effective public health measures.
-
-🟩
-
-Specialist Minister of Health said that the number of dengue cases and deaths were reduced in this year compared to other years.
-
-The State Minister pointed out that 64 dengue risk zones were identified as 64 dengue risk zones this year.
-
-State Minister of Health, Specialist Dr. Seeetha Arimapola made this statement participating at a press conference held at the press conference yesterday (05).
-
-Speaking further, State Minister of Health said:
-
-During the festive season, the use of fireworks was reported every year. So this year's New Year's New Year's year, you call for careful work with family members.
-
-Also, various propaganda was carried out on the publication of dengue during the last days. Thanksgath for the contribution of the health sector and media institutions. In fact, we were able to reduce the number of cases and deaths this year compared to last years.
-
-...
-
-[Data](articles/941e2947.json)
-
-[Extended Data](ext_articles/941e2947.ext.json)
 
 ---

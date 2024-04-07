@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 04:33:37**
+As of **2024-04-08 04:51:19**
 
 ## Newspaper Stats
 
-*Scraped **17,708** Articles*
+*Scraped **17,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 184
 dbsjeyarajcom | 213
 newsfirstlk | 363
 islandlk | 968
-dailyftlk | 971
+dailyftlk | 972
 economynextcom | 978
 adalk | 1,489
 tamilmirrorlk | 2,083
@@ -26,11 +26,33 @@ adaderanasinhalalk | 2,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,705 (100.0%) of 17,708 articles have been extended.
+17,708 (100.0%) of 17,709 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### SJB accuses JVP of avoiding economic debate challenge
+
+*2024-04-08 04:22:26* · [`dailyftlk`](https://www.ft.lk/news/SJB-accuses-JVP-of-avoiding-economic-debate-challenge/56-760441) · `en`
+
+Says JVP is resorting to making various claims and statements to evade a face-off
+
+Stresses that regardless of polls a party’s core economic policies must remain unchanged
+
+Claims JVP is uncertain of its own economic policies and is thus evading a debate
+
+Samagi Jana Balawegaya (SJB) Deputy General Secretary Mujibur Rahman yesterday criticised the rival Janatha Vimukthi Peramuna (JVP) for sidestepping the challenge posed by the SJB economic council to engage in a public debate on the economy between the two parties.
+
+Instead, he said the NPP is resorting to making various claims and statements in an attempt to evade a face-off with the SJB.
+
+Speaking at a press conference in Colombo, Rahman emphasised that regardless of the upcoming elections, a party’s core economic policies must remain unchanged.
+
+...
+
+[Data](articles/31c60fe9.json)
+
+---
 
 ### SLFP to hold politburo meeting today
 
@@ -48,6 +70,8 @@ However, Sirisena has responded, stating his intention to provide the court with
 
 [Data](articles/5ccf73af.json)
 
+[Extended Data](ext_articles/5ccf73af.ext.json)
+
 ---
 
 ### Power Minister reviews generation plan for next 12 months
@@ -61,6 +85,8 @@ This review encompassed various crucial aspects, including system maintenance re
 ◼️
 
 [Data](articles/7d596b03.json)
+
+[Extended Data](ext_articles/7d596b03.ext.json)
 
 ---
 
@@ -79,6 +105,8 @@ Semasinghe stressed that even individuals who have missed out on previous subsid
 ...
 
 [Data](articles/5865c3ef.json)
+
+[Extended Data](ext_articles/5865c3ef.ext.json)
 
 ---
 
@@ -2215,21 +2243,5 @@ Accordingly, police said that investigations will be conduct by the Police Narco
 [Data](articles/513fda84.json)
 
 [Extended Data](ext_articles/513fda84.ext.json)
-
----
-
-### Sri Lanka’s debt repayments to be suspended until 2028
-
-*2024-04-07 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98491/sri-lankas-debt-repayments-to-be-suspended-until-2028) · `en`
-
-Sri Lanka and a group of its creditors are in final negotiations to suspend debt repayments until 2028, Nikkei has learned, as country creditors including Japan seek to prevent China’s influence from expanding in the debt-ridden island.
-
-“Negotiations [with the creditor nations] have concluded. We are hoping that it [a detailed announcement] will take place in the next few weeks,” Sagala Ratnayaka, Sri Lanka’s national security adviser to the president, told Nikkei in a recent interview. The repayment period will be 15 years, from 2028 to 2042, with the interest rate newly set at around 2%. He said that there will be no further debt reduction, despite a request by the island nation.
-
-...
-
-[Data](articles/a86fe524.json)
-
-[Extended Data](ext_articles/a86fe524.ext.json)
 
 ---

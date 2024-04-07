@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 02:33:38**
+As of **2024-04-08 02:49:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,694 (100.0%) of 17,696 articles have been extended.
+17,696 (100.0%) of 17,696 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The apology from an individual on behalf of the Government which as a collective
 
 [Data](articles/45294757.json)
 
+[Extended Data](ext_articles/45294757.ext.json)
+
 ---
 
 ### How to miss five industrial revolutions
@@ -57,6 +59,8 @@ Sri Lanka did not have a complete set of Government institutions to maintain a c
 ...
 
 [Data](articles/71f39270.json)
+
+[Extended Data](ext_articles/71f39270.ext.json)
 
 ---
 

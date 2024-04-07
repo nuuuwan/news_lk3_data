@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 13:03:38**
+As of **2024-04-07 13:18:02**
 
 ## Newspaper Stats
 
-*Scraped **17,592** Articles*
+*Scraped **17,599** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,43 +16,95 @@ dailyftlk | 958
 islandlk | 968
 economynextcom | 978
 adalk | 1,473
-tamilmirrorlk | 2,074
-adaderanalk | 2,125
+tamilmirrorlk | 2,075
+adaderanalk | 2,126
 virakesarilk | 2,563
-dailymirrorlk | 2,686
-adaderanasinhalalk | 2,853
+dailymirrorlk | 2,690
+adaderanasinhalalk | 2,854
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,590 (100.0%) of 17,592 articles have been extended.
+17,592 (100.0%) of 17,599 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### මාවනැල්ලේ වෙඩිතැබීම ගැන තවත් තොරතුරු
+### හොරණ වෙඩිතැබීමක්
+
+*2024-04-07 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195390) · `si`
+
+පොලීසිය සඳහන් කළේ වෙඩිතැබීමෙන් පුද්ගලයන් දෙදෙනෙකු තුවාල ලබා ඇති අතර ඔවුන් රෝහල්ගත කර තිබෙන බවය.
+
+◼️
+
+[Data](articles/b13e9023.json)
+
+---
+
+### No decision to declare April 15 as public holiday
+
+*2024-04-07 12:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-decision-to-declare-April-15-as-public-holiday/108-280319) · `en`
+
+No decision has been taken to declare April 15 as a public holiday, Home Affairs State Minister Ashoka Priyantha said.
+
+He said requests have been made by state officials and public to declare April 15 as a public holiday because of the upcoming Sinhala and Tamil New Year.
+
+He told the Daily Mirror that he will discuss the matter with the ministers and President at the Cabinet meeting.
+
+However, no decision has yet been taken to announce April 15 as a public holiday.
+
+◼️
+
+[Data](articles/74e485d2.json)
+
+---
+
+### Two injured in shooting in Horana
+
+*2024-04-07 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98490/two-injured-in-shooting-in-horana) · `en`
+
+Two individuals have been injured and hospitalised in a shooting incident that took place at the Thalgahawila area in Horana, the police said.
+
+◼️
+
+[Data](articles/7738a054.json)
+
+---
+
+### More information about shooting in Mawanella
 
 *2024-04-07 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195389) · `si`
 
-මාවනැල්ල, පදියදොර ප්‍රදේශයේදී තියුණු ආයුධ පහරට ලක්වූ පොලිස් නිලධාරීන් දෙදෙනා මාවනැල්ල රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබන බව වාර්තා වෙයි.
+Two police officers attacked in Mawanella's Pediyadora area are in ICU. A call led police to the scene, where two suspects were shot, one fatally, after injuring the officers with swords. The suspects were arrested; one for drug possession and a grenade, the other for multiple offenses.
 
-මාවනැල්ල පදියදොර ප්‍රදේශයේදී තියුණු ආයුධ රැගත් පුද්ගලයින් දෙදෙනෙක් කලහකාරී ලෙස හැසිරෙමින් නිවසකට ගල්වලින් පහරදෙන බවට මාවනැල්ල පොලීසියට ඊයේ (06) රාත්‍රීයේ දුරකථන ඇමතුමක් ලැබී තිබුණි.
+🟩
 
-ඒ අනුව ක්‍රියාත්මක වූ 119 යතුරුපැදි සංචාරයේ නිරත පොලිස් නිලධාරීන් සහ රාත්‍රී ජංගම සංචාරයේ යෙදී සිටි නිලධාරීන් පිරිසක් එම ස්ථානයට ගොස් තිබුණි.
+It is reported that the two police officers who were attacked in Mawanella, Pediyadora area are receiving treatment at the ICU of Mawanella Hospital.
 
-එහිදී කලහකාරී ලෙස හැසිරුණු පුද්ගලයින් දෙදෙනා 119 යතුරුපැදි සංචාරයේ නිරතවූ නිලධාරීන් දෙදෙනාට කඩුවලින් පහරදී තුවාල සිදුකර ඇති බව පොලීසිය පැවසීය.
+The Mawanella Police had received a telephone call that two sharp weapons carrying two sharp arms in Mawanella.
 
-එම නිලධාරීන් දෙදෙනාගේ ජීවිත ආරක්ෂා කරගැනීම සඳහා ජංගම සංචාරයේ යෙදී සිටි නිලධාරීන් විසින් සැකකරුවන් දෙසට වෙඩිතැබීමක් සිදුකර තිබේ.
+Accordingly, a group of officials who were on the 119 motorcycle tour were traveling to the scene.
 
-පොලිස් වෙඩි පහරින් එක් සැකකරුවෙක් තුවාල ලැබූ අතර ඔහුගේ පුත්‍රයා බවට හඳුනාගෙන ඇති අනෙක් සැකකරු එම ස්ථානයෙන් පළා ගොස් තිබුණි.
+The two officers who had behaved aggressively have been injured in the swords and injuries.
 
-වෙඩි ප්‍රහාරයෙන් තුවාල ලැබූ සැකකරු සහ කඩු ප්‍රහාරවලින් තුවාල ලැබූ පොලිස් නිලධාරීන් දෙදෙනා කඩිනමින් ප්‍රතිකාර සඳහා ඇතුළත් කෙරුණේ මාවනැල්ල රෝහලටය.
+The suspects have been shot in the mobile visit to protect the lives of the two officers.
+
+One suspect was injured in the police firing and the other suspect who had identified his son had fled the place.
+
+The two injured police officers who were injured in the shooting and the sword were injured in treatment at Mawanella Hospital.
+
+The suspect was later killed in the shooting, hospital sources said.
+
+He was arrested by the police arrested for a number of occasions in the area.
 
 ...
 
 [Data](articles/9420857a.json)
+
+[Extended Data](ext_articles/9420857a.ext.json)
 
 ---
 
@@ -76,6 +128,8 @@ Mr Fico has called for an end to Western military support for Ukraine, an immedi
 
 [Data](articles/a0f713c5.json)
 
+[Extended Data](ext_articles/a0f713c5.ext.json)
+
 ---
 
 ### Allowances of Grama Niladhari officers increased
@@ -97,6 +151,42 @@ The annual stationery allowance has also been increased to Rs. 3,000, according 
 [Data](articles/7423ef83.json)
 
 [Extended Data](ext_articles/7423ef83.ext.json)
+
+---
+
+### Musician arrested with drugs worth Rs. 40 Mn in Kotahena
+
+*2024-04-07 12:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Musician-arrested-with-drugs-worth-Rs-40-Mn-in-Kotahena/108-280318) · `en`
+
+Colombo, April 7 (Daily Mirror) - A musician was arrested with heroin and ice drugs valued at nearly Rs. 40 million during a raid on a house on Sumitrarama Mawatha in Kotahena.
+
+Aduruppuveediya police conducted the raid and recovered 372 grams of heroin and 1.5 kilograms of ice drugs in the suspect's possession.
+
+Police said the drugs were hidden inside a drum among musical instruments.
+
+Preliminary investigations revealed that the arrested suspect has been involved in large-scale drug trafficking activities under the pretense of conducting Paduru Parties and renting musical instruments.
+
+◼️
+
+[Data](articles/5d03438b.json)
+
+---
+
+### Presidential Debate on Daily Mirror and Lankadeepa! Will candidates accept?
+
+*2024-04-07 12:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Presidential-Debate-on-Daily-Mirror-and-Lankadeepa-Will-candidates-accept/155-280317) · `en`
+
+Colombo, April 7 (Daily Mirror) - The Daily Mirror and Lankadeepa extends an invitation to the three main Presidential candidates - Ranil Wickremesinghe, Anura Kumara Dissanayake and Sajith Premadasa for a LIVE presidential debate on their economic and political policies and their pledges in moving the country forward if they win the upcoming Presidential election scheduled to be held in October.
+
+The interview will be aired LIVE on the Daily Mirror, Lankadeepa, Tamil Mirror and Sunday Times digital platforms.
+
+A formal invitation requesting the three political leaders to join the debate will be sent out soon and readers will be kept updated once the invitations are accepted.
+
+A date and time to host the debate will then be announced thereafter.
+
+◼️
+
+[Data](articles/afacb3c2.json)
 
 ---
 
@@ -2223,125 +2313,5 @@ Accordingly, a 79-year-old man has been arrested by police from Waikkala area wh
 [Data](articles/89efdaa7.json)
 
 [Extended Data](ext_articles/89efdaa7.ext.json)
-
----
-
-### Two bodies recovery from a house in Udapussalawa
-
-*2024-04-06 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180589) · `ta`
-
-In Udappussalawa, two bodies were found in a house, believed to be a mother and her 42-year-old lover. The mother's husband discovered their relationship and had a fight, leading to the incident. The police are investigating if the deaths were murder or accidental.
-
-🟩
-
-Two bodies were recovered from a house in Madula Phakalagama area belonging to the Udappussalawa police division this morning, police said.
-
-The mother of a 42 -year -old mother of three children and a 39 -year -old man have been found dead at home, Udapussalawa police said.
-
-Investigations have revealed that the mother of the three children who died in the incident and the unmarried man who died with him had been inappropriate.
-
-At the same time, the woman's husband came to know the inappropriate relationship between the two and had a fight on the evening of the 4th.
-
-The mother had gone to the house with a man who had left her home with an inappropriate relationship, and the body was found dead this morning.
-
-At the same time, the police said that the incident had been notified to the Magistrate's Court and the bodies would be taken to the Nuwara Eliya District General Hospital for autopsy.
-
-...
-
-[Data](articles/961e73cb.json)
-
-[Extended Data](ext_articles/961e73cb.ext.json)
-
----
-
-### Man arrested with over 5,000 prescription drugs in Kalmunai
-
-*2024-04-06 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98473/man-arrested-with-over-5000-prescription-drugs-in-kalmunai) · `en`
-
-A 63-year-old man who was in possession of 5,033 prescription drugs, intended for sale without a valid licence has been arrested during a coordinated operation conducted by the Navy and Police in Kalmunai on Thursday (04).
-
-The operation was mounted by SLNS Deegayu in the Southeastern Naval Command in tandem with the Periyaneelavanei Police in Kalmunai.
-
-During this operation, the raiding party managed to impound the prescription drug consignment after searching a house in the locality on suspicion.
-
-The suspect held in this operation was identified as a resident of Maruthamunai 6. The accused, along with the seized prescription drugs, were handed over to the Food & Drug Inspector of Kalmunai for onward legal action.
-
-◼️
-
-[Data](articles/a4e0a85c.json)
-
-[Extended Data](ext_articles/a4e0a85c.ext.json)
-
----
-
-### UK updates travel advisory for Sri Lanka
-
-*2024-04-06 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98472/uk-updates-travel-advisory-for-sri-lanka) · `en`
-
-Due to Sri Lanka’s current economic advancement, the United Kingdom has revised its Travel Advisory for Sri Lanka effective April 5, 2024.
-
-This update encompasses various aspects including access to emergency medical services, entry security requirements, road safety, overall security situation, and health facility accessibility, the President’s Media Division (PMD) said in a statement.
-
-The revised advisory no longer includes previous concerns regarding shortages of food, fuel, and medicine. Additionally, the previously mentioned risks related to limitations in health services, such as the lack of medical equipment, have been omitted.
-
-The Sri Lankan High Commission in London has consistently advocated to British authorities for the removal of negative information from previous advisories. This effort aims to ensure tourists have a clear understanding of Sri Lanka’s current progress, it added.
-
-...
-
-[Data](articles/61ae5097.json)
-
-[Extended Data](ext_articles/61ae5097.ext.json)
-
----
-
-### Russia is a violent attack in Ukraine
-
-*2024-04-06 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195363) · `si`
-
-Ukraine reportedly destroyed six Russian planes and severely damaged eight others in a drone attack on Rastov, Southern Russia, killing or wounding 20 officials. Russia has not acknowledged the attack but launched over 40 drones near Ukraine.
-
-🟩
-
-It has been said that Ukraine had destroyed six Russian planes by a drone attack on the Rastov in Southern Russia.
-
-Foreign sources said that eight other planes were severely damaged by the attack.
-
-Twenty officials have been killed or wounded in this attack, foreign reports say.
-
-It is reported that Russia has not yet been announced to this attack.
-
-However, Russia has said that the zone near Ukraine has been launched in more than 40 drones.
-
-◼️
-
-[Data](articles/3dc4c336.json)
-
-[Extended Data](ext_articles/3dc4c336.ext.json)
-
----
-
-### A cab vehicle collided with a train in Vavuniya;Injury
-
-*2024-04-06 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180586) · `ta`
-
-A cab collided with a train at an unsafe crossing in Vavuniya, injuring the driver. Four were killed in a past accident there.
-
-🟩
-
-One person was admitted to the Vavuniya Hospital after being injured in an accident on Saturday (06) at an unsafe railway crossing at Omanthai Paraikaikulam area in Vavuniya.
-
-The accident occurred when a train collided with a vehicle that was crossing the barrier in the Omanthai Paraikkayakulam area in the Omanthai Paraikkayakulam area.
-
-The vehicle was severely damaged and its driver was admitted to the Vavuniya Hospital after being injured.
-
-The front of the train was damaged in the accident. Subsequently, the passengers were unloaded and sent to another train.
-
-Meanwhile, four people were killed in an accident that occurred a few years ago at the unsafe railway crossing.
-
-◼️
-
-[Data](articles/edfdee72.json)
-
-[Extended Data](ext_articles/edfdee72.ext.json)
 
 ---

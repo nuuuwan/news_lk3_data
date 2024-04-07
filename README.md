@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 16:18:03**
+As of **2024-04-07 16:33:49**
 
 ## Newspaper Stats
 
-*Scraped **17,628** Articles*
+*Scraped **17,629** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 958
 islandlk | 968
 economynextcom | 978
 adalk | 1,478
-tamilmirrorlk | 2,079
+tamilmirrorlk | 2,080
 adaderanalk | 2,129
 virakesarilk | 2,570
 dailymirrorlk | 2,695
@@ -26,25 +26,49 @@ adaderanasinhalalk | 2,859
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,627 (100.0%) of 17,628 articles have been extended.
+17,628 (100.0%) of 17,629 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### හමාස් ප්‍රාණ ඇපයේ සිටි ඊශ්‍රායල ජාතිකයින්ගේ තවත් සිරුරු හමුවෙයි
+### புத்தாண்டு தின்பண்டங்களின் விலை குறைப்பு
+
+*2024-04-07 16:07:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டு-தின்பண்டங்களின்-விலை-குறைப்பு/175-335705) · `ta`
+
+தமிழ் சிங்களப் புத்தாண்டுக்கான பாரம்பரியத்தின் பண்டங்களுக்கான செலவு 2023 ஆம் ஆண்டுடன் ஒப்பிடுகையில் 2024 ஆம்ஆண்டில் குறைந்துள்ளது. ஆனால் 2019 ஆம் ஆண்டிலிருந்ததை விட தொடர்ந்தும் இரண்டு மடங்கு அதிகமாகவே உள்ளது.
+
+வெரிட்டேரிசேர்ச் நிர்வகிக்கும் இலங்கையின் பொருளாதார விபரங்களை வழங்கும் முன்னணி தளமான  PublicFinance.lk முன்னெடுத்த “புத்தாண்டு” தின்பண்டங்களுக்கான வருடாந்தச் செலவு தொடர்பிலான ஆய்வில் இந்த விபரம் தெரியவந்துள்ளது.
+
+இது பொருட்களுக்கான செலவு 2023 ஆம் ஆண்டை விட 2024 ஆம் ஆண்டில் 2 சதவீதத்தால் குறைந்துள்ளதைக் காட்டுகிறது.
+
+2019 ஆம்ஆண்டுடன் ஒப்பிடுகையில் 2023 ஆம்ஆண்டில் செலவு 2.3 மடங்கு அதிகரித்திருந்தது.  2019 ஆம் ஆண்டுடன் ஒப்பிடுகையில் 2024 ஆம் ஆண்டில் இது சற்றுக் குறைந்து 2.2 மடங்காக உள்ளது.
+
+...
+
+[Data](articles/3599d83b.json)
+
+---
+
+### Israeli nationals found in Hamies hostage
 
 *2024-04-07 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195398) · `si`
 
-ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතෙන්යාහු ප්‍රමුඛ රජයට එරෙහිව ඊශ්‍රායල වැසියන් දහස් ගණනක් ටෙල් අවීව් නුවර කේන්ද්‍ර කරගෙන දැවැන්ත විරෝධතාවක් ආරම්භ කර තිබේ.
+Israeli nationals discovered in Hamas hostage. Israeli Prime Minister Benjaminiu leads massive protest against Tel Aviv government. Israeli Army confirms Israeli nationals in Hamas hostage. 12 Israeli soldiers killed in Hamas operation.
 
-ඒ හමාස් ප්‍රාණ ඇපයේ සිටි ඊශ්‍රායල ජාතික ඉලාඩ් කත්සීර්ගේ සිරුර ගාසාහි මෙහෙයුම් අතරතුරදී හමුවූ බවට ඊශ්‍රායල හමුදාව ප්‍රකාශ කිරීමත් සමගය.
+🟩
 
-හමාස් භාරයේ සිටින 130ක් පමණ වන ඊශ්‍රායල ප්‍රාණ ඇපකරුවන්ගෙන් 34 දෙනෙකු මියගොස් ඇතැයි සැක කෙරෙන අතර ඊශ්‍රායල හමුදා 12 දෙනෙකුගේ සිරුරු සොයා ගෙන තිබුණි.
+Israeli Prime Minister of Prime Minister Benjaminiu has begun a massive protest with thousands of Israelites against the government of Tel Avice.
+
+The Israeli Army stated that Israeli nationals were found in Hamas hostage in the Hamas hostage.
+
+The bodies of 12 Israeli soldiers were also killed in the Hamas's treasure.
 
 ◼️
 
 [Data](articles/0dc33061.json)
+
+[Extended Data](ext_articles/0dc33061.ext.json)
 
 ---
 
@@ -2315,31 +2339,5 @@ The Golf Course was built by the British.
 [Data](articles/5ed07b71.json)
 
 [Extended Data](ext_articles/5ed07b71.ext.json)
-
----
-
-### The needs of the country is not slogans and arguments - President
-
-*2024-04-06 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195373) · `si`
-
-President Ranil Wickremesinghe emphasizes the importance of focusing on the future and creating stability, highlighting the removal of the IMF from the bankrupt list. He discusses the need for a youthful program, expressing hope for a positive response in the North Central Province. He also mentions a road project in the Nochchiyagama area and the status of a cabinet paper.
-
-🟩
-
-President Ranil Wickremesinghe says that the need to launch a country and a youthful program, says President Ranil Wickremesinghe.
-
-President Ranil Wickremesinghe made this statement participating in the Anuradhapura District Youth Forum this afternoon.
-
-"We now create stability. The IMF we removed from the bankrupt list. Now you have to think about the future. We think more importantly than we think. Who is announcement to me to give you your views?. I'll sit down and who likes to question. "
-
-One who attended the convention - you hope that the North Central Province has received a good response to a good program for educators.
-
-President: 2300 in Western Province. There are 700 more. Hope to go for 4000. I don't know about the North Central Province. Come on you said you're currently going to interview. He says he was not summoned to the interview. Write me the facts. If you don't understand, politics cannot be done
-
-...
-
-[Data](articles/16fea392.json)
-
-[Extended Data](ext_articles/16fea392.ext.json)
 
 ---

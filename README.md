@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 02:49:59**
+As of **2024-04-08 03:03:22**
 
 ## Newspaper Stats
 
-*Scraped **17,696** Articles*
+*Scraped **17,700** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 159
 bbccomsinhala | 184
 dbsjeyarajcom | 213
 newsfirstlk | 363
-dailyftlk | 963
+dailyftlk | 967
 islandlk | 968
 economynextcom | 978
 adalk | 1,489
@@ -26,15 +26,79 @@ adaderanasinhalalk | 2,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,696 (100.0%) of 17,696 articles have been extended.
+17,696 (100.0%) of 17,700 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
+### Redefining success, Certis Lanka rebrands as SITREK Group
+
+*2024-04-08 02:46:32* · [`dailyftlk`](https://www.ft.lk/business/Redefining-success-Certis-Lanka-rebrands-as-SITREK-Group/34-760433) · `en`
+
+Certis Lanka, a pioneer in integrated security services, last week unveiled its new brand identity as SITREK Group, marking a significant milestone in its journey of over four decades. The grand reveal event took place at the prestigious Cinnamon Grand Colombo, attended by esteemed guests, stakeholders, and members of the media.
+
+The transformation to SITREK Group represents a strategic shift towards reaffirming the company’s commitment to its core values of Structure, Integrity, Trustworthiness, Responsibility, Excellence, and Knowledge. These pillars, ingrained in the essence of the organisation, symbolise its dedication to exceeding customer expectations while navigating towards becoming a fully Sri Lankan entity.
+
+...
+
+[Data](articles/9e868d5e.json)
+
+---
+
+### Discounts at Food Studio, One Galle Face and Colombo City Centre for CH17 Cardholders
+
+*2024-04-08 02:45:00* · [`dailyftlk`](https://www.ft.lk/business/Discounts-at-Food-Studio-One-Galle-Face-and-Colombo-City-Centre-for-CH17-Cardholders/34-760432) · `en`
+
+CH17 Loyalty CEO/Founder Jumar Preena with Food Studio Head of Commercial Louzanne Perera
+
+CH17 Loyalty inked a deal with Food Studio  for privilege dining experiences for CH17 cardholders at two of the FS managed food courts in the city’s most popular malls - One Galle Face & the Colombo City Centre mall.
+
+CH17 Loyalty plans to offer bigger discounts for selected card schemes to reward cardholders who have been loyal members of CH17 for a long period of time. “We thank all those who have been with us in our 11-year journey that has made CH17 the most sought after loyalty program provider in the country today,” CEO/Founder Jumar Preena said.
+
+...
+
+[Data](articles/a5b0fce2.json)
+
+---
+
+### CFA Society Sri Lanka Capital Market Awards 2024 to recgonise ESG reporting
+
+*2024-04-08 02:43:29* · [`dailyftlk`](https://www.ft.lk/business/CFA-Society-Sri-Lanka-Capital-Market-Awards-2024-to-recgonise-ESG-reporting/34-760431) · `en`
+
+CFA Society Sri Lanka Vice President and ESG Committee Chair Rashmi Peiris-Paranavitane
+
+The 11th annual CFA Society Sri Lanka Capital Market Awards will be held on 18 June 2024, with a key highlight being the Best ESG Reporting Award conferred for the first time in the history of the signature event. ESG reporting refers to the process of disclosing a company’s performance and practices related to environmental, social, and governance (ESG) factors. It involves communicating relevant information to key stakeholders, including investors, employees, customers, regulators, and the public, about how a company is managing its ESG risks and opportunities.
+
+...
+
+[Data](articles/264dd257.json)
+
+---
+
+### Racist policy of forced cremation
+
+*2024-04-08 02:28:19* · [`dailyftlk`](https://www.ft.lk/columns/Racist-policy-of-forced-cremation/4-760427) · `en`
+
+The whole issue of forced cremation that shook the Muslim community in 2020/21 was entirely rooted in racism.
+
+It is the Gotabaya Government which both piloted and enforced to the full measure this racist policy, aided by experts whom the President himself effectively appointed.
+
+Now that it has been demonstrated, after a series of international setbacks for the Government and the erosion of public trust in Government leaders and experts, the question of tendering an open apology to the Muslim community and to those who opposed the policy tooth and nail as it was ruthlessly enforced has now come up.
+
+As admitted, Thondaman’s Ministry of Water Resources has found out that the COVID-19 virus doesn’t spread through ground water. Perhaps, Ali Sabry’s Ministry of Foreign Affairs may have found out that the damage that this racist policy implemented by the Government, of which he remained an integral part (as Justice Minister), heaped on the country internationally was avoidable but horrendous.
+
+...
+
+[Data](articles/f9e65c20.json)
+
+---
+
 ### Inputs to Thondaman’s Cabinet paper on State apology to Muslims on forced COVID cremations
 
 *2024-04-08 02:17:21* · [`dailyftlk`](https://www.ft.lk/columns/Inputs-to-Thondaman-s-Cabinetpaper-on-State-apology-to-Muslims-on-forced-COVID-cremations/4-760426) · `en`
+
+If this is not a crime against humanity to some extent one wonders what crimes against humanity are – Pic by Shehan Gunasekara
 
 With reference to the subject news report titled “Thondaman calls for formal Govt. apology to Muslim community over forced COVID cremations” appearing on the front page of your widely circulated and read newspaper of Friday 5 April 2024, I wish to bring the following to the attention of your readers with regard to the article.
 
@@ -2203,95 +2267,5 @@ Police said two persons were injured and hospitalized was hospitalized.
 [Data](articles/b13e9023.json)
 
 [Extended Data](ext_articles/b13e9023.ext.json)
-
----
-
-### Two persons killed in Horana shooting
-
-*2024-04-07 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98490/two-persons-killed-in-horana-shooting) · `en`
-
-Two individuals have been injured and hospitalised in a shooting incident that took place at the Thalgahawila area in Horana, the police said.
-
-The two individuals, who were injured in the shooting, have succumbed to their injuries after being hospitalized, according to police.
-
-The Police Media Division stated that an unidentified group of individuals who arrived in a car had opened fire at the duo, who were travelling in a three-wheeler at the Malos Ela Junction in Moragahahena, Horana.
-
-The deceased individuals have been identified as residents of Piliyandala and Pannipitiya areas and aged 50 and 52.
-
-The motive behind the shooting has not been uncovered as of yet. Moragahahena Police is conducting investigations in order to arrest the suspects.
-
-◼️
-
-[Data](articles/248bcdd8.json)
-
-[Extended Data](ext_articles/248bcdd8.ext.json)
-
----
-
-### No decision to declare April 15 as public holiday
-
-*2024-04-07 12:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-decision-to-declare-April-15-as-public-holiday/108-280319) · `en`
-
-No decision has been taken to declare April 15 as a public holiday, Home Affairs State Minister Ashoka Priyantha said.
-
-He said requests have been made by state officials and public to declare April 15 as a public holiday because of the upcoming Sinhala and Tamil New Year.
-
-He told the Daily Mirror that he will discuss the matter with the ministers and President at the Cabinet meeting.
-
-However, no decision has yet been taken to announce April 15 as a public holiday.
-
-◼️
-
-[Data](articles/74e485d2.json)
-
-[Extended Data](ext_articles/74e485d2.ext.json)
-
----
-
-### Two injured in shooting in Horana
-
-*2024-04-07 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98490/two-injured-in-shooting-in-horana) · `en`
-
-Two individuals have been injured and hospitalised in a shooting incident that took place at the Thalgahawila area in Horana, the police said.
-
-◼️
-
-[Data](articles/7738a054.json)
-
-[Extended Data](ext_articles/7738a054.ext.json)
-
----
-
-### More information about shooting in Mawanella
-
-*2024-04-07 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195389) · `si`
-
-Two police officers attacked in Mawanella's Pediyadora area are in ICU. A call led police to the scene, where two suspects were shot, one fatally, after injuring the officers with swords. The suspects were arrested; one for drug possession and a grenade, the other for multiple offenses.
-
-🟩
-
-It is reported that the two police officers who were attacked in Mawanella, Pediyadora area are receiving treatment at the ICU of Mawanella Hospital.
-
-The Mawanella Police had received a telephone call that two sharp weapons carrying two sharp arms in Mawanella.
-
-Accordingly, a group of officials who were on the 119 motorcycle tour were traveling to the scene.
-
-The two officers who had behaved aggressively have been injured in the swords and injuries.
-
-The suspects have been shot in the mobile visit to protect the lives of the two officers.
-
-One suspect was injured in the police firing and the other suspect who had identified his son had fled the place.
-
-The two injured police officers who were injured in the shooting and the sword were injured in treatment at Mawanella Hospital.
-
-The suspect was later killed in the shooting, hospital sources said.
-
-He was arrested by the police arrested for a number of occasions in the area.
-
-...
-
-[Data](articles/9420857a.json)
-
-[Extended Data](ext_articles/9420857a.ext.json)
 
 ---

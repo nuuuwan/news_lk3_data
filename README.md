@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 00:03:14**
+As of **2024-04-08 00:18:10**
 
 ## Newspaper Stats
 
-*Scraped **17,682** Articles*
+*Scraped **17,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 958
 islandlk | 968
 economynextcom | 978
 adalk | 1,489
-tamilmirrorlk | 2,082
+tamilmirrorlk | 2,083
 adaderanalk | 2,136
 virakesarilk | 2,584
 dailymirrorlk | 2,700
@@ -26,9 +26,25 @@ adaderanasinhalalk | 2,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,682 (100.0%) of 17,682 articles have been extended.
+17,682 (100.0%) of 17,683 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-04-08 (Monday)
+
+### சிறைச்சாலைகளில் 50 கைதிகள் உயிரிழப்பு
+
+*2024-04-08 00:00:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலைகளில்-50-கைதிகள்-உயிரிழப்பு/175-335721) · `ta`
+
+தவறான முடிவு, சுகவீனம் மற்றும் தாக்குதல்கள் என்பனவற்றால் இவர்கள் உயிரிழந்துள்ளனர் என சிறைச்சாலைகள் ஊடக பேச்சாளர் காமினி பி .திசாநாயக்க தெரிவித்துள்ளார்.
+
+கடந்த வருடம் சிறைச்சாலைகளுக்குள் 209 பேர் உயிரிழந்துள்ளனர் என்றும் அவர் கூறியுள்ளார். (a)
+
+◼️
+
+[Data](articles/be0c8541.json)
+
+---
 
 ### 2024-04-07 (Sunday)
 
@@ -2305,33 +2321,5 @@ These rice bags will be distributed to the ‘Aswesuma’ beneficiaries, individ
 [Data](articles/14df784d.json)
 
 [Extended Data](ext_articles/14df784d.ext.json)
-
----
-
-### The President may decide which election first - Basil
-
-*2024-04-07 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180620) · `ta`
-
-Basil Rajapaksa stated that the President can decide the order of elections, emphasizing the need to hold the parliamentary election first. He assured no pressure from his party on the President and clarified that the decision is solely the President's.
-
-🟩
-
-Former Finance Minister Basil Rajapaksa has said that the President may decide which election to hold the election first.
-
-Basil Rajapaksa told the Sunday Times that we have made it clear to him that we have to hold the parliamentary election first and that it is over.
-
-Basil Rajapakse said that our party will not put pressure on the president in any way.
-
-Basilrajapaksa made this statement as Basil Rajapaksa met with President Ranil Wickremesinghe last Thursday.
-
-The former Finance Minister said that the decision was completely in the hands of the president that the decision was not in the hands of the president.
-
-He said that the Sri Lanka PA is preparing to face the two national elections and the meeting of the party's central executive committee will be held on the 9th, but the elections will not be investigated.
-
-◼️
-
-[Data](articles/b772fe93.json)
-
-[Extended Data](ext_articles/b772fe93.ext.json)
 
 ---

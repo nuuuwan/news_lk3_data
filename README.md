@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 21:18:11**
+As of **2024-04-07 21:33:34**
 
 ## Newspaper Stats
 
-*Scraped **17,672** Articles*
+*Scraped **17,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ tamilmirrorlk | 2,082
 adaderanalk | 2,134
 virakesarilk | 2,582
 dailymirrorlk | 2,699
-adaderanasinhalalk | 2,868
+adaderanasinhalalk | 2,869
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,671 (100.0%) of 17,672 articles have been extended.
+17,672 (100.0%) of 17,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### TV දෙරණ යූටියුබ් ග්‍රාහකයින් මිලියන 5 පසු කරයි
+
+*2024-04-07 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195409) · `si`
+
+ශ්‍රී ලංකා ඩිජිටල් අවකාශයේ අද්වීතිය වාර්තාවක් බිහිකිරීමට ටීවී දෙරණ යූටියුබ් නාලිකාව සමත් වී තිබේ.
+
+ඒ මෙරට ප්‍රධාන මාධ්‍ය නාලිකා අතුරින් ප්‍රථම වරට මිලියන 5ක යූටියුබ් ග්‍රාහකයින්ගේ සීමාව පසුකරමිනි.
+
+◼️
+
+[Data](articles/edd1c7cb.json)
+
+---
 
 ### Unidentified material brought from a bowl
 
@@ -74,19 +88,27 @@ Meanwhile, the Acting General Secretary of SLFP Dushmantha Mithrapala lodged a c
 
 ---
 
-### රේගු බදු නොගවා ගෙන්වූ ජීප් 51ක් වෙනත් පාර්ශ්වලට පැවැරීම වළක්වයි
+### 51 jeeves without pay taxes prevents other parties
 
 *2024-04-07 20:08:04* · [`adalk`](https://www.ada.lk/breaking_news/රේගු-බදු-නොගවා-ගෙන්වූ-ජීප්-51ක්-වෙනත්-පාර්ශ්වලට-පැවැරීම-වළක්වයි/11-408994) · `si`
 
-රේගු බදු නොගෙවා මෙරටට ගෙන්වූ අතිසුඛෝපභෝගි ජීප් රථ 51ක් හේතුවෙන් රජයට රුපියල් කෝටි 300කට අධික පාඩුවක් වී ඇති බවට දැනුම් දෙමින් අල්ලස් කොමිසම කළ ඉල්ලීමකට අනුව එම අති සුඛෝපභෝගි ජීප් රථ 51ක වෙනත් පාර්ශ්වයන්ට පැවරීම වළක්වාලමින් කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ප්‍රසන්න අල්විස් මහතා නියෝගයක් නිකුත් කළේය.
+The Bribery Commission requested Colombo Chief Magistrate Prasanna Alwis to investigate a 51 million rupee loss, involving 51 jeeps, including 24 Lam cruise jeeps and 18 Montaro jeeps, to prevent their transfer to other parties. The Chief Magistrate ordered the registration of 400 motor vehicles into the traffic system, revealing fake data. The Bribery Commission officials informed the court that 51 vehicles were not cleared, and it was planned to misplace them after investigation. The Magistrate appointed Bribery Commission officers to report on the progress to prevent the vehicles' transfer.
 
-රජයට රුපියල් කෝටි 300කට අධික පාඩුවක් කළ මෙම අතිසුඛෝපභෝගි ජීප් රථ 51 සම්බන්ධයෙන් විමර්ශන ආරම්භ කළ පසු ඒවා වෙනත් පාර්ශ්වයන්ට පවරා අස්ථානගත කිරීමේ සූදානමක් ඇතැයි කියමින් අල්ලස් කොමිසමේ නිලධාරීන් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව ප්‍රධාන මහේස්ත්‍රාත්වරයා මෝටර් රථවාහන ලියාපදිංචි කිරීමේ අධ්‍යක්‍ෂ ජනරාල්වරායාට එලෙස නියම කළේය.
+🟩
 
-වෙනත් පාර්ශ්වයන්ට පැවරීම වළක්වාලමින් එලෙස නියම කරන ලද්දේ අතිසුඛෝපභෝගී ජීප් රථ 03ක්, ලැන්ඩ් කෲසර් වර්ගයේ ජීප් රථ 24ක්, මොන්ටේරෝ වර්ගයේ ජීප් රථ 18ක්සහ අතිසුඛෝපභෝගි කැබ් රථ 06ක් ඇතුළු අතිසුඛෝපභෝගි ජීප් රථ 51කි.
+According to a request made by the Bribery Commission, Colombo Chief Magistrate Prasanna Alwis issued an order from the request of the Bribery Commission.
+
+After considering the 51-million rupees loss of the Government, the Chief Magistrate was planning to misplace the 51 millionths of the 51 million people over the 51-billion rupees.
+
+It was prevented from the transfer of transfers to other parties, 51 other-selling 51 differential jeeps, including 24 Lam cruise jeeps, 18 montaro varieties of jeep.
+
+Registration of 400 motor vehicle registration into a complaint with the vehicle registration of fake data to the traffic system of the Department of Motor Traffic to the Department of Motor Traffic or Correctional Cabinet:Bribery Commission officials informed the court that he had been revealed.
 
 ...
 
 [Data](articles/c7ce96a2.json)
+
+[Extended Data](ext_articles/c7ce96a2.ext.json)
 
 ---
 
@@ -2329,31 +2351,5 @@ Our groups continue to explore the issue, we support Israel's rights to protect 
 [Data](articles/72d30a6e.json)
 
 [Extended Data](ext_articles/72d30a6e.ext.json)
-
----
-
-### Navy seizes the boat that stood with shortness!
-
-*2024-04-07 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/180609) · `ta`
-
-Navy seizes a boat for illegal fishing near Vadamarachchi East Nagar Temple. Suspects may have escaped. The boat and its belongings are handed over to the Department of Fisheries and Aquatic Resources for legal action.
-
-🟩
-
-A boat operated for fishing has been seized using a short -eyed narrowing of illegally lighting in a sudden surrounding of the Vadamarachchi East Nagar Temple in the early hours of this morning.
-
-In the eastern part of Vadamarachchi, the Naval Navy is conducting a series of raids to disrupt illegal maritime operations.
-
-As part of this, the Navy has seized a short -eyed illegal shrinkage when the suspicious boat was raided in Nagercoil.
-
-It is reported that the seized boat belonged to the Nagercoil area and that the suspects may have escaped from the arrival of the Navy.
-
-The Jaffna Fisheries Department has been handed over to the Department of Fisheries and Aquatic Resources for further legal action along with the seized boat belongings.
-
-◼️
-
-[Data](articles/0730e8db.json)
-
-[Extended Data](ext_articles/0730e8db.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 03:18:09**
+As of **2024-04-08 03:33:53**
 
 ## Newspaper Stats
 
-*Scraped **17,702** Articles*
+*Scraped **17,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,69 @@ colombotelegraphcom | 159
 bbccomsinhala | 184
 dbsjeyarajcom | 213
 newsfirstlk | 363
-dailyftlk | 967
+dailyftlk | 968
 islandlk | 968
 economynextcom | 978
 adalk | 1,489
 tamilmirrorlk | 2,083
 adaderanalk | 2,136
 virakesarilk | 2,590
-dailymirrorlk | 2,702
+dailymirrorlk | 2,704
 adaderanasinhalalk | 2,870
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,700 (100.0%) of 17,702 articles have been extended.
+17,702 (100.0%) of 17,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### Chamber of Marine Industries charts new course
+
+*2024-04-08 03:06:32* · [`dailyftlk`](https://www.ft.lk/business/Chamber-of-Marine-Industries-charts-new-course/34-760434) · `en`
+
+The maritime landscape of Sri Lanka witnessed a momentous occasion on Wednesday, March 13, as the Chamber of Marine Industries of Sri Lanka convened its Annual General Meeting (AGM). This gathering marked a significant milestone in the nation’s maritime journey, uniting industry leaders, experts, and visionaries. Representing the state sector, the AGM was graced and addressed by Sri Lanka Standards Institute (SLSI), Director General Dr. Siddhika Senaratne, Export Development Board (EDB), Chairman Dr. Kingsley Bernard, Ministry of Industries Additional Secretary Chaminda Pathiraja, Merchant Shipping (DGMS) Director General Ajith Wijesinghe, Port Authority Director Marketing Nirmal Fonseka, MOI Director Elapatha, MOI Assistant Director Kunalini, Asst. Directors EDB Mangala Maduwanthi, Diani Maduka.
+
+...
+
+[Data](articles/fc704835.json)
+
+---
+
+### Ex-President Sirisena draws an India connection - EDITORIAL
+
+*2024-04-08 03:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Ex-President-Sirisena-draws-an-India-connection-EDITORIAL/172-280331) · `en`
+
+Ex-President Sirisena is once again in the news for all the wrong reasons. Hardly had the ink dried on news stories of his sudden firing of three senior Sri Lanka Freedom Party (SLFP) members, we learned that a court order has barred him from performing duties as chairman of that party.
+
+The court order was based on a complaint to the court by Chandrika Kumaratunga for the removal of Sirisena from the post of SLFP Chairman, on the grounds he was unsuitable for the role. Among the reasons for his ouster were charges he was unlawfully holding the Chairmanship of the party in violation of the Party Constitution.
+
+Additional charges arose from Sirisena’s actions during the constitutional crisis of 2018 being deemed incorrect. He was also found guilty of having violated the fundamental rights of people in the case of the Easter Sunday bombings.
+
+...
+
+[Data](articles/379e5b58.json)
+
+---
+
+### Auspicious times! Exposing incompetence or astrology a pseudoscientific myth?
+
+*2024-04-08 03:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Auspicious-times-Exposing-incompetence-or-astrology-a-pseudoscientific-myth/172-280330) · `en`
+
+Professional rivalry or jealousy often leads astrologers outside the official team to challenge the declared times
+
+During the Sinhala Avurudda, also known as the Sinhala and Hindu New Year, people adhere to various religious rituals and cultural practices meticulously following auspicious times known as “nekath” provided by astrologers.
+
+In response to past controversies surrounding nekath, the government appointed a team of astrologers in 1992  to determine the official auspicious times, which were widely accepted. However, professional rivalry or jealousy often leads astrologers outside the official team to challenge the declared times, citing various unexplained theoretical concepts unique to astrology. These contradictions caused anxiety among the general public and believers of astrology, leading to uncertainty and a loss of confidence in the auspicious times provided.
+
+...
+
+[Data](articles/a537a166.json)
+
+---
 
 ### Ukraine is fighting an increasingly desperate war
 
@@ -45,6 +89,8 @@ When Russian President Vladimir Putin ordered his military to invade Ukraine in 
 ...
 
 [Data](articles/7a901a1d.json)
+
+[Extended Data](ext_articles/7a901a1d.ext.json)
 
 ---
 
@@ -109,6 +155,8 @@ President for the period 2024/25. According to a press release issued by WCOBU, 
 ...
 
 [Data](articles/36f07e57.json)
+
+[Extended Data](ext_articles/36f07e57.ext.json)
 
 ---
 
@@ -2197,75 +2245,5 @@ However, no decision has been taken so far on the announcement of April 15 as a 
 [Data](articles/44818735.json)
 
 [Extended Data](ext_articles/44818735.ext.json)
-
----
-
-### Our goal is to restore the party from the challenges including the case
-
-*2024-04-07 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/180621) · `ta`
-
-Sri Lanka Tamil State Party leader Mawai Senathirajah aims to overcome challenges, including legal cases, by consulting with the party's central committee. He emphasizes unity and readiness to address court-ordered actions. The party is facing a lawsuit over new elections, and steps are being taken to unite these cases. The party seeks to resolve any confusion in the court's decisions and is committed to adhering to the system's rules. Efforts are being made to unite the party and continue its mission for the Tamil people's liberation.
-
-🟩
-
-Sri Lanka Tamil State Party leader Mawai Senathirajah has said that we are traveling in aiming to recover from all the challenges against the party, including the cases.
-
-He also announced that he has decided to consult with the party's central committee members ahead of the next case to make important decisions.
-
-From the outset, I have been urging the party's unity and I am very careful not to cause divisions within the party as it is contesting for the position of the party.
-
-In this case, some members have filed a lawsuit against the new elections of the Sri Lankan Tamil party. We have taken steps to unite these cases.
-
-The party has to be released from court cases in the current environment. We are also ready to take appropriate action if the court points out that there are confusion in the choices.
-
-...
-
-[Data](articles/cc933492.json)
-
-[Extended Data](ext_articles/cc933492.ext.json)
-
----
-
-### Male to Male: Female to Female
-
-*2024-04-07 13:12:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆணுக்கு-ஆண்-பெண்ணுக்கு-பெண்-பரபரப்பு-தீர்ப்பு/175-335697) · `ta`
-
-The New Delhi Supreme Court has ordered spa centers to segregate massage services by gender, aiming to curb illegal activities. Despite police efforts, crimes linked to spas have increased, prompting the court to intervene. The case highlights the challenges in regulating spa and massage centers amidst concerns about illegal activities.
-
-🟩
-
-The New Delhi Supreme Court has issued a stir in the case that it should prevent sexual massage at massage stations.
-
-In India, spa and massage stations are operating illegally in various places.. There are secret complaints from the police from time to time that the sex industry is in secret at these stations.
-
-Subsequently, the police are also monitoring and carrying out action at the relevant spa and massage centers.. Prostitutes in the name of spa and massage are also arresting.
-
-Perhaps, the massage companies find that the license is not renewed and fined. Moreover, with the certificate purchased in one place, it is also found to be running massage centers in a lot of places.
-
-Despite various measures on the police side, the crime has increased in the name of Spa.. In spa centers in Tamil Nadu, some irregularities are happening from time to time. The government has announced some restrictions to prevent this, but it is not fully eliminated.
-
-...
-
-[Data](articles/7636dcc5.json)
-
-[Extended Data](ext_articles/7636dcc5.ext.json)
-
----
-
-### 10 years before State employees
-
-*2024-04-07 13:09:56* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවකයින්ට-10-දාට-කලින්-අවුරුදු-තෑගී/11-408981) · `si`
-
-"10 years ago, State employees' salaries were paid in advance. Now, the Bank of State Minister Ranjith Kimbalapitiya promises to pay the salaries of current, retired, and year-end employees before the end of the year."
-
-🟩
-
-The Bank of State Minister Ranjith Kimbalapitiya says that the salaries of the year ownership of the year and retired public servants will be given before the end of Rs.
-
-◼️
-
-[Data](articles/a5cee044.json)
-
-[Extended Data](ext_articles/a5cee044.ext.json)
 
 ---

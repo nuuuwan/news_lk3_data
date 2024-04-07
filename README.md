@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 13:18:02**
+As of **2024-04-07 13:33:44**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 2,854
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,592 (100.0%) of 17,599 articles have been extended.
+17,599 (100.0%) of 17,599 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### හොරණ වෙඩිතැබීමක්
+### Horana shot
 
 *2024-04-07 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195390) · `si`
 
-පොලීසිය සඳහන් කළේ වෙඩිතැබීමෙන් පුද්ගලයන් දෙදෙනෙකු තුවාල ලබා ඇති අතර ඔවුන් රෝහල්ගත කර තිබෙන බවය.
+"Horana incident: Two injured, hospitalized."
+
+🟩
+
+Police said two persons were injured and hospitalized was hospitalized.
 
 ◼️
 
 [Data](articles/b13e9023.json)
+
+[Extended Data](ext_articles/b13e9023.ext.json)
 
 ---
 
@@ -60,6 +66,8 @@ However, no decision has yet been taken to announce April 15 as a public holiday
 
 [Data](articles/74e485d2.json)
 
+[Extended Data](ext_articles/74e485d2.ext.json)
+
 ---
 
 ### Two injured in shooting in Horana
@@ -71,6 +79,8 @@ Two individuals have been injured and hospitalised in a shooting incident that t
 ◼️
 
 [Data](articles/7738a054.json)
+
+[Extended Data](ext_articles/7738a054.ext.json)
 
 ---
 
@@ -170,6 +180,8 @@ Preliminary investigations revealed that the arrested suspect has been involved 
 
 [Data](articles/5d03438b.json)
 
+[Extended Data](ext_articles/5d03438b.ext.json)
+
 ---
 
 ### Presidential Debate on Daily Mirror and Lankadeepa! Will candidates accept?
@@ -187,6 +199,8 @@ A date and time to host the debate will then be announced thereafter.
 ◼️
 
 [Data](articles/afacb3c2.json)
+
+[Extended Data](ext_articles/afacb3c2.ext.json)
 
 ---
 

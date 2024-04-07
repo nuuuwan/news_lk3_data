@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 09:52:49**
+As of **2024-04-07 10:03:26**
 
 ## Newspaper Stats
 
-*Scraped **17,563** Articles*
+*Scraped **17,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 dailyftlk | 958
 islandlk | 968
 economynextcom | 975
-adalk | 1,470
+adalk | 1,471
 tamilmirrorlk | 2,070
 adaderanalk | 2,120
-virakesarilk | 2,556
+virakesarilk | 2,557
 dailymirrorlk | 2,685
-adaderanasinhalalk | 2,847
+adaderanasinhalalk | 2,848
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,559 (100.0%) of 17,563 articles have been extended.
+17,563 (100.0%) of 17,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### சுருக்குவலையுடன் தரித்து நின்ற படகினை கடற்படையினர் கைப்பற்றல்!
+
+*2024-04-07 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180609) · `ta`
+
+வடமராட்சி கிழக்கு நாகர் கோவில் கடற்பகுதியில் இன்று (06) அதிகாலை வெற்றிலைக்கேணி கடற்படையினர் மேற்கொண்ட திடீர் சுற்றிவளைப்பில் சட்டவிரோதமாக ஒளி பாய்ச்சிய குறுகிய கண்களை உடைய சுருக்குவலையை பயன்படுத்தி மீன்பிடிப்பதற்காக இயங்கிய படகொன்று கைப்பற்றப்பட்டுள்ளது.
+
+வடமராட்சி கிழக்கு பகுதியில் சட்டவிரோத கடல் தொழில் நடவடிக்கைகளை முடக்கும் நோக்கில் வெற்றிலைக்கேணி கடற்படை தொடர் சோதனை மேற்கொண்டு வருகிறது.
+
+அதன் ஒரு பகுதியாக இன்று நாகர்கோவில் கடற்பகுதியில் தரித்துநின்ற சந்தேகத்துக்கிடமான படகை சோதனை செய்தபோது குறுகிய கண்களை கொண்ட சட்டவிரோத சுருக்குவலையை கடற்படையினர் கைப்பற்றியுள்ளனர்.
+
+கைப்பற்றப்பட்ட படகு நாகர்கோவில் பகுதியை சேர்ந்தது என்றும் கடற்படையின் வருகையை அறிந்து சந்தேக நபர்கள் தப்பிச் சென்றிருக்கலாம் எனவும் கடற்படையினர் தெரிவித்ததுடன், தகவல் அறிந்து சம்பவ இடத்துக்கு சென்ற சிலர் கடற்படையுடன் முறுகலில் ஈடுபட்டதாகவும் தெரிவிக்கப்படுகிறது.
+
+கைப்பற்றப்பட்ட படகு உடமைகளுடன் மேலதிக சட்ட நடவடிக்கைகளுக்காக யாழ்ப்பாணம் கடற்றொழில் நீரியல்வளத் திணைக்கள அதிகாரிகளிடம் ஒப்படைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/0730e8db.json)
+
+---
+
+### ඉන්ධන පරිභෝජනය සියයට 50කින් අඩුවෙයි
+
+*2024-04-07 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195384) · `si`
+
+මෙරට ඉන්ධන පරිභෝජනය සියයට 50කින් පමණ අඩු වී ඇති බව ඛනිජ තෙල් බෙදුම්කරුවන්ගේ සංගමය පවසයි.
+
+එහි සභාපති ෂෙල්ටන් ප්‍රනාන්දු මහතා සඳහන් කළේ රට තුළ පවතින ආර්ථික තත්ත්වය ඉන්ධන පරිභෝජනය අඩු වීමට එක් හේතුවක් බවය.
+
+කිසිදු හිඟයකින් තොරව සියලුම ඉන්ධන රට තුළ පවතින බව ද ෂෙල්ටන් ප්‍රනාන්දු මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/45406cb2.json)
+
+---
 
 ### US expresses support for Sri Lanka’s economic reform efforts
 
@@ -48,43 +84,79 @@ Sullivan and Ratnayake also discussed Sri Lanka's ongoing efforts to complete th
 
 [Data](articles/ff357674.json)
 
+[Extended Data](ext_articles/ff357674.ext.json)
+
 ---
 
-### ஜனநாயக தமிழ்த் தேசியக் கூட்டணியின் கூட்டம் இன்று - செல்வம் அடைக்கலநாதன் பங்கேற்கார்
+### Democratic Tamil National Alliance Meeting Today - Selvam Adakkalanathan
 
 *2024-04-07 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/180610) · `ta`
 
-ஜனநாயக தமிழ்த் தேசியக் கூட்டணியின் கூட்டம் இன்று ஞாயிற்றுக்கிழமை (07) வவுனியா கோயில் புளியங்குளத்தில் உள்ள தனியார் விடுதியொன்றில் காலை 10 மணிக்கு நடைபெறவுள்ளது.
+The Democratic Tamil National Alliance (TNA) will meet today to elect a new secretary, fill R. Raghavan's vacancy, and discuss the alliance's future, including rehabilitating new members. Selvam Adakkalanathan, a key figure, is absent.
 
-இந்தக் கூட்டத்தின்போது கூட்டணியின் புதிய செயலாளர் நியமனம் இடம்பெறவுள்ளதாக அக்கட்சியின் ஊடகப் பேச்சாளர் சுரேஷ் பிரேமச்சந்திரன் தெரிவித்தார்.
+🟩
 
-கூட்டணியின் பொதுச்செயலாளராக கடமையாற்றி வந்திருந்த ஆர்.ராகவனின் மறைவை அடுத்து ஏற்பட்டுள்ள வெற்றிடத்தை நிரப்புவதே இக்கூட்டத்தின் பிரதான நோக்கம் என்றும் அவர் குறிப்பிட்டார்.
+A meeting of the Democratic Tamil National Alliance (TNA) will be held today (07) at a private hotel in Puliyankulam in Vavuniya.
 
-இந்த கூட்டத்தின்போது ஜனநாயக கூட்டணியை மாவட்டம் தோறும் பலப்படுத்துவதற்கான நடவடிக்கைகள் தொடர்பிலும் ஆராயப்படவுள்ளது. விசேடமாக கூட்டணியின் கிளைகள் மறுசீரமைப்பு, புதிய அங்கத்துவம் சம்பந்தமான விடயங்கள் கவனத்தில் கொள்ளப்படவுள்ளன.
+Media spokesman Suresh Premachandran said that the appointment of the new secretary of the coalition will be held during the meeting.
 
-இதேவேளை, ஜனநாயக தமிழ்த் தேசியக் கூட்டணியில் அடுத்த ஜனாதிபதி தேர்தலில் தமிழ்ப் பொது வேட்பாளர் ஒருவரை நிறுத்துவது தொடர்பில் கொள்கையளவில் தீர்மானம் எடுக்கப்பட்டுள்ள நிலையில் அது குறித்து தீர்க்கமான முடிவொன்றை எடுப்பதற்கும் முயற்சிக்கப்படவுள்ளது.
+The main purpose of the meeting was to fill the vacuum in the wake of the demise of R. Raghavan, who served as the general secretary of the coalition.
+
+During the meeting, the Democratic Alliance will be investigated to strengthen the district. In particular, the alliance's branches will be taken into consideration on the rehabilitation of the new membership.
+
+Meanwhile, in the next presidential election in the Democratic Tamil National Alliance (TNA), there is a decisive decision on the standing of a Tamil general candidate in the next presidential election.
+
+However, Relo's leader, one of the coalition parties, Selvam Adakkalanathan has gone abroad, has been unable to participate.
 
 ...
 
 [Data](articles/2b256453.json)
 
+[Extended Data](ext_articles/2b256453.ext.json)
+
 ---
 
-### එංගලන්තයේ ගුවන් ගමන් රැසක් අවලංගුයි
+### England's flights in England canceled
 
 *2024-04-07 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195383) · `si`
 
-අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් බ්‍රිතාන්‍යයේ ගුවන් ගමන් රැසක් අවලංගු කර තිබේ.
+Due to severe weather, flights in England, Scotland, and Wales are canceled, impacting train and boat services.
 
-"කැත්ලීන්" කුණාටුවත් සමග පවතින තද සුළං තත්ත්වය සහ උණුසුම් කාලගුණ තත්ත්වය හේතුවෙන් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිකුත් කර ඇති අනතුරු ඇඟවවීමේ නිවේදන අනුව එම ගුවන් ගමන් අවලංගු කර ඇති බව වාර්තා වෙයි.
+🟩
 
-ස්කොට්ලන්තයේ දුම්රිය සහ බෝට්ටු සේවාවලට ද අයහපත් කාලගුණයෙන් බලපෑම් එල්ල වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Due to the bad weather, many flights in Britain have been canceled.
 
-සුළං තත්ත්වය හේතුවෙන් එංගලන්තයේ වයඹ හා නිරිත දිග ප්‍රදේශවලට සහ උතුරු අයර්ලන්තය, ස්කොට්ලන්තය හා වේල්සය යන කලාප සඳහා ද දැඩි බලපෑම් එල්ල වී තිබේ.
+The flights have been canceled in terms of the strong winds with the storm and the warm weather.
+
+The train and boat services in Scotland have also been affected by inclement weather.
+
+Due to the wind, England have been affected in the North Western and Southwest Territories and Northern Ireland, Scotland and Wales.
 
 ◼️
 
 [Data](articles/32f42f9b.json)
+
+[Extended Data](ext_articles/32f42f9b.ext.json)
+
+---
+
+### කලාකරුවන් වෙනුවෙන් වෛද්‍ය රක්ෂණ ක්‍රමයක්
+
+*2024-04-07 08:40:15* · [`adalk`](https://www.ada.lk/breaking_news/කලාකරුවන්-වෙනුවෙන්-වෛද්‍ය-රක්ෂණ-ක්‍රමයක්/11-408977) · `si`
+
+මෙරට සිනමා කර්මාන්තය නියුතු කලාකරුවන්ගේ සුබසාධනය වෙනුවෙන් විශේෂිත ණය යෝජනා ක්‍රමයක් සකස් කිරීමට පියවර ගන්නා බව ආර්ථික කටයුතු පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක ආචාර්ය ආර්. එච්. එස්. සමරතුංග මහතා පැවසීය.
+
+එසේම සිනමා කර්මාන්තයේ සහ කලාකරුවන්ගේ උන්නතිය වෙනුවෙන් වූ සුදුසු යෝජනා මාලාවක් සකස් කර රජයට ලබා දෙන ලෙස ද ඒ මහතා කලාකරුවන්ගෙන් ඉල්ලා සිටියේය.
+
+ආර්ථික කටයුතු පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක ආචාර්ය ආර්. එච්. එස්. සමරතුංග මහතා මේ බව සඳහන් කර සිටියේ මෙරට සිනමාව නවීන ලෝකයට ගැලපෙන ලෙස යාවත්කාලීන කිරීම සහ කේෂ්ත්‍රයට සම්බන්ධ ශිල්පීන්ගේ වෘත්තීය අනාගතය සුරක්ෂිත කිරීම සම්බන්ධව පසුගියදා (02) ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවට එක්වෙමිනි.
+
+ආචාර්ය ආර්. එච්. එස්. සමරතුංග, ජනාධිපති වෘත්තීය සමිති අධ්‍යක්ෂ ජනරාල් සමන් රත්නප්‍රිය සහ ජාතික චිත්‍රපට සංස්ථාවේ සභාපති නීතිඥ දීපාල් චන්ද්‍රරත්න යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන් මෙම සාකච්ඡාව පැවැත්විණි.
+
+මෙහිදී සිනමා කර්මාන්තයේ පවතින ගැටලු පිළිබඳව ද දීර්ඝ ලෙස සාකච්ඡා කෙරිණි.
+
+...
+
+[Data](articles/a59b27e7.json)
 
 ---
 
@@ -317,6 +389,8 @@ Police said two injured police officers are currently receiving medical attentio
 ...
 
 [Data](articles/8fc6eb6b.json)
+
+[Extended Data](ext_articles/8fc6eb6b.ext.json)
 
 ---
 
@@ -2257,77 +2331,5 @@ Sri Lanka, appreciating the Swiss assistance extended to the Export Development 
 [Data](articles/38208e26.json)
 
 [Extended Data](ext_articles/38208e26.ext.json)
-
----
-
-### Sri Lanka, Switzerland commit to expanding trade relations and tourism
-
-*2024-04-06 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98465/sri-lanka-switzerland-commit-to-expanding-trade-relations-and-tourism) · `en`
-
-The 4th round of bilateral consultations between Sri Lanka and Switzerland took place on 05 April 2024 in Colombo, co-chaired by Ambassador Head of Asia Pacific at Swiss Federal Department of Foreign Affairs (FDFA) Heinrich Schellenberg and Additional Secretary/Bilateral (West) of Foreign Affairs Ministry of Sri Lanka Yasoja Gunasekera.
-
-According to a statement issued by the Foreign Affairs Ministry, the delegations have discussed the potential to further enhance economic relations.
-
-Sri Lanka, appreciating the Swiss assistance extended to the Export Development Board (EDB) in identifying further markets for Sri Lankan exports, has proposed collaboration in the textile industry. The two countries agreed to work towards and to explore diversifying trade relations and further potential in the tourism sector.
-
-...
-
-[Data](articles/9c4343d5.json)
-
-[Extended Data](ext_articles/9c4343d5.ext.json)
-
----
-
-### Capture of beedi leaves illegally brought from India in Kalpitiya
-
-*2024-04-06 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180561) · `ta`
-
-Puttalam Police Special Task Force seized 40kg of illegal beedi leaves from India in Kalpitiya, valued at Rs 60 lakhs, without arrests.
-
-🟩
-
-In a fishing area on the coastal area of Kalpitiya Kurinjipitiya. The illegal beedi leaves have been seized from India without permission.
-
-According to the confidential information available, the Puttalam Police Special Task Force and the Puttalam Department of Kalalvarith were carried out on Friday morning (05).
-
-The Special Task Force said that about 40 of the 1,200 kilograms of beedi leaves were seized and no one was arrested.
-
-The captured beedi leaves are also valued at around Rs 60 lakhs.
-
-The Puttalam Police Special Task Force said the seized beedi leaves were handed over to the Puttalam Department of Puttalam.
-
-◼️
-
-[Data](articles/7207701b.json)
-
-[Extended Data](ext_articles/7207701b.ext.json)
-
----
-
-### Action to develop Hingurangoda Airport as International Airport
-
-*2024-04-06 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/180559) · `ta`
-
-The government plans to rebuild Hingurangoda Airport, initially a WWII RAF base, into an international airport with a 2500m runway, costing Rs 17 billion.
-
-🟩
-
-The government has issued a plan to rebuild the Hingurangoda domestic airport pre -World War II.
-
-Initially called "RAF Minneria", the airport served as a strategic base for the UK Royal Air Force during World War II.
-
-The Ports, Shipping and Aviation Ministry said that two billion rupees has been allocated for the development of the Hingurangoda International Airport in the 2024 budget.
-
-The first phase of the airport development work will be focused on prolonging the runway. The runway, which is currently 2287 meters long and 46 meters wide, will be expanded to a total of 2500 meters.
-
-Developing this will provide large flights to the airport, including the popular Airbus A320 and Boeing P737 models at the airport.
-
-It is estimated that the comprehensive modernization project costs a total of Rs 17 billion.
-
-◼️
-
-[Data](articles/4a3d6a74.json)
-
-[Extended Data](ext_articles/4a3d6a74.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 07:54:19**
+As of **2024-04-07 08:05:23**
 
 ## Newspaper Stats
 
-*Scraped **17,546** Articles*
+*Scraped **17,550** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 958
 islandlk | 968
 economynextcom | 975
 adalk | 1,468
-tamilmirrorlk | 2,065
-adaderanalk | 2,118
+tamilmirrorlk | 2,067
+adaderanalk | 2,120
 virakesarilk | 2,555
 dailymirrorlk | 2,683
 adaderanasinhalalk | 2,844
@@ -26,11 +26,63 @@ adaderanasinhalalk | 2,844
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,538 (100.0%) of 17,546 articles have been extended.
+17,538 (99.9%) of 17,550 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### இடியுடன் கூடிய மழை; கடும் வெப்பம் - மக்களுக்கு முன்னறிவித்தல்
+
+*2024-04-07 07:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-கடும்-வெப்பம்-மக்களுக்கு-முன்னறிவித்தல்/175-335681) · `ta`
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இன்று (07) பிற்பகல். 2.00 மணிக்குப் பின்னர் ஒரு சில இடங்களில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+அதேநேரம், மேல், மத்திய, ஊவா மற்றும் சப்ரகமுவ மாகாணங்களிலும் அம்பாறை, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை எதிர்பார்க்கப்படுவதாக திணைக்களம் அறிக்கை ஒன்றை வௌியிட்டு தெரிவித்துள்ளது.
+
+இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம், மக்களிடம் கோரிக்கை விடுத்துள்ளது.
+
+இதேவேளை, சூரியனின் வடதிசை நோக்கிய இயக்கத்தின்  காரணமாக, ஏப்ரல் மாதம் 5ஆம் திகதியிலிருந்து 15ஆம் திகதி வரை இலங்கையின் அகலக் கோடுகளுக்கு நேராக உச்சம் கொடுக்கவுள்ளது.
+
+...
+
+[Data](articles/6052a39d.json)
+
+---
+
+### One person killed in police fire during clash in Mawanella
+
+*2024-04-07 07:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98484/one-person-killed-in-police-fire-during-clash-in-mawanella) · `en`
+
+A 53-year-old person was shot dead after police opened fire while attempting to settle a dispute among a group of persons at Padiyadora in Mawanella.
+
+Two policemen have also been injured during the clash, according to police.
+
+◼️
+
+[Data](articles/d7929b81.json)
+
+---
+
+### Showers expected in parts of the island
+
+*2024-04-07 07:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98483/showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at a few places in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts after 2.00 p.m.
+
+Misty conditions can be expected at some places in Western, Central, Uva and Sabaragamuwa provinces and in Ampara, Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+On the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka during 05th to 15th of April in this year.
+
+The nearest areas of Sri Lanka over which the sun is overhead today (07) are Kadawatha, Badulla, Lunugala, Kongaspitiya, Bakmitiyawa and Kotmale at about 12:12 noon.
+
+◼️
+
+[Data](articles/0fce0218.json)
+
+---
 
 ### ලාංකිකයින් ප්‍රාණ ඇපයට ගත් පාකිස්තාන ජාතිකයින් අත්අඩංගුවට
 
@@ -211,6 +263,24 @@ When arrested by the SLN, Indian authorities exerted undue diplomatic and politi
 [Data](articles/c2d260c2.json)
 
 [Extended Data](ext_articles/c2d260c2.ext.json)
+
+---
+
+### ’நாட்டை வெற்றியடையச் செய்யும் பொறுப்பு இளைஞர்களிடம்’
+
+*2024-04-07 02:37:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டை-வெற்றியடையச்-செய்யும்-பொறுப்பு-இளைஞர்களிடம்/175-335677) · `ta`
+
+நவீன விவசாயம், சுற்றுலா மற்றும் வலுசக்தித் துறைகளில் பரிவர்த்தனை ரீதியிலான மாற்றத்துடன் 2048 ஆம் ஆண்டளவில் வளமான இலங்கையை கட்டியெழுப்பும் பயணத்தை அரசாங்கம் தற்போது ஆரம்பித்துள்ளது எனவும்  அந்தப் பயணத்துடன் முன்னோக்கிச் சென்று நாட்டை வெற்றியடையச் செய்யும் பொறுப்பு இளைஞர்களிடம் உள்ளது என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+நேற்று பிற்பகல் நடைபெற்ற 'என்னில் இருந்து ஆரம்பிப்போம்' அனுராதபுரம் மாவட்ட இளைஞர் மாநாட்டில் ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+
+கூம்பிச்சாங்குளம் அருகில் இடம்பெற்ற இந்த மாநாட்டில் அனுராதபுரம் மாவட்டத்தைச் சேர்ந்த பெருமளவான இளைஞர்கள் கலந்து கொண்டு தமது பிரச்சினைகள் பலவற்றை ஜனாதிபதியிடம் முன்வைத்தனர்.
+
+அவற்றில் பல பிரச்சினைகளுக்கு அந்த இடத்திலேயே தீர்வுகளை வழங்குவதற்கு நடவடிக்கை எடுத்த ஜனாதிபதி, ஏனைய பிரச்சினைகளைத் தீர்ப்பதற்கு நடவடிக்கை எடுக்குமாறு அதிகாரிகளுக்கு பணிப்புரை வழங்கினார். (a)
+
+◼️
+
+[Data](articles/ea039bfb.json)
 
 ---
 
@@ -2187,93 +2257,5 @@ Additionally, in the preceding season, concerted efforts were made to raise awar
 [Data](articles/2823e615.json)
 
 [Extended Data](ext_articles/2823e615.ext.json)
-
----
-
-### Afternoon thundershowers anticipated in some areas despite extreme heat
-
-*2024-04-06 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98462/afternoon-thundershowers-anticipated-in-some-areas-despite-extreme-heat) · `en`
-
-Showers or thundershowers are expected at a few places in the Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts after 2.00 p.m. today (06), the Department of Meteorology says.
-
-Hence, the members of the public are urged to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-The department also issued a heat index advisory, warning that the temperature felt on the human body is likely to increase up to ‘Caution Level’ in parts of the Northern, North-Central, Eastern, Western, Sabaragamuwa, North-western and Southern provinces as well as in Matale, Monaragala districts today.
-
-As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity while continuing activity could result in heat cramps.
-
-...
-
-[Data](articles/e81e7551.json)
-
-[Extended Data](ext_articles/e81e7551.ext.json)
-
----
-
-### Foreign national drowns
-
-*2024-04-06 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195353) · `si`
-
-A foreign national drowned near Hikkaduwa, with water savers and police personnel also injured.
-
-🟩
-
-A foreign national drowned in the coast near the towns near Hikkaduwa.
-
-The foreign national has been ripe while water savers and the police life personnel have died in admission to the Balapitiya Hospital.
-
-◼️
-
-[Data](articles/75d39670.json)
-
-[Extended Data](ext_articles/75d39670.ext.json)
-
----
-
-### Showers in several provinces
-
-*2024-04-06 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195352) · `si`
-
-Showers and thundershowers expected in Western, Sabaragamuwa, and North Western Provinces, with strong winds and potential damage. Steps advised to mitigate. Sun directly over Sri Lanka from April 5-15, affecting Northern, North Central, Sabaragamuwa, North Western, and Southern Provinces. Warm weather warning issued.
-
-🟩
-
-At the Galle and Matara Districts in the Western, Sabaragamuwa and North Western Provinces. Showers or thundershowers will occur at several places shortly after 2.00 pm the Met Department.
-
-In some places in the Western, Central and Sabaragamuwa provinces, some locations are expected in the morning in some places in the Galle and Matara districts.
-
-The people have been asked to take necessary steps to reduce temporary strong winds and damages caused by thunderstorms.
-
-When the sun was traveling to the North, the Sun is directly over Sri Lanka in April 5 to 15.
-
-Accordingly, the sun will be over 12:12 (06th) at 12:12 pm today (06).
-
-Meanwhile, the Department of Meteorology has issued an announcement in warm weather.
-
-Accordingly, the statement of the Northern, North Central, Sabaragamuwa, North Western and Southern Province and Monaragala and Matale districts.
-
-Accordingly, the people living in those areas are expected to be the level of heating of the human body.
-
-◼️
-
-[Data](articles/d82ef5b2.json)
-
-[Extended Data](ext_articles/d82ef5b2.ext.json)
-
----
-
-### Joe-Pete Big Match receives overwhelming support from sponsors
-
-*2024-04-06 06:28:00* · [`islandlk`](http://island.lk/joe-pete-big-match-receives-overwhelming-support-from-sponsors/) · `en`
-
-The Josephian-Peterite Big Match, one of Sri Lanka’s most prestigious cricketing events, recently marked a significant milestone with the recently concluded 90th ‘Battle of the Saints’ on March 22nd and 23rd, 2024, which will be followed by the landmark 50th Limited Over Encounter on April 6th, 2024. This historic occasion has garnered tremendous support from a diverse array of sponsors, demonstrating their commitment to the rich tradition and sporting excellence embodied by these events.
-
-As the Principal Sponsor, Dialog Axiata lead the charge, powering the excitement surrounding both the 90th ‘Battle of the Saints; and the 50th Limited Over Encounter. Their steadfast support underscores the significance of these landmark occasions in the annals of Sri Lankan cricketing history. Dialog in addition also acts as the Official Television Provider.
-
-...
-
-[Data](articles/8f1c5a13.json)
-
-[Extended Data](ext_articles/8f1c5a13.ext.json)
 
 ---

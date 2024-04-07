@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 09:33:57**
+As of **2024-04-07 09:52:49**
 
 ## Newspaper Stats
 
-*Scraped **17,559** Articles*
+*Scraped **17,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,75 @@ economynextcom | 975
 adalk | 1,470
 tamilmirrorlk | 2,070
 adaderanalk | 2,120
-virakesarilk | 2,555
-dailymirrorlk | 2,683
-adaderanasinhalalk | 2,846
+virakesarilk | 2,556
+dailymirrorlk | 2,685
+adaderanasinhalalk | 2,847
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,558 (100.0%) of 17,559 articles have been extended.
+17,559 (100.0%) of 17,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### US expresses support for Sri Lanka’s economic reform efforts
+
+*2024-04-07 09:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-expresses-support-for-Sri-Lankas-economic-reform-efforts/108-280315) · `en`
+
+Colombo, April 7 (PTI) - The US has expressed support for Sri Lanka's security and sovereignty and its ongoing efforts to complete the fiscal, monetary, and governance elements of its IMF bailout programme.
+
+This was conveyed by US national security advisor Jake Sullivan during a telephone conversation with Sri Lanka's National Security Advisor Sagala Ratnayake on Wednesday, the White House said in a brief statement on Friday.
+
+"Their discussion has covered areas of bilateral engagement, including US support to Sri Lanka's security and sovereignty," the statement said.
+
+Sullivan and Ratnayake also discussed Sri Lanka's ongoing efforts to complete the fiscal, monetary, and governance elements of its International Monetary Fund (IMF) programme, and future opportunities for cooperation, the release said.
+
+...
+
+[Data](articles/ff357674.json)
+
+---
+
+### ஜனநாயக தமிழ்த் தேசியக் கூட்டணியின் கூட்டம் இன்று - செல்வம் அடைக்கலநாதன் பங்கேற்கார்
+
+*2024-04-07 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/180610) · `ta`
+
+ஜனநாயக தமிழ்த் தேசியக் கூட்டணியின் கூட்டம் இன்று ஞாயிற்றுக்கிழமை (07) வவுனியா கோயில் புளியங்குளத்தில் உள்ள தனியார் விடுதியொன்றில் காலை 10 மணிக்கு நடைபெறவுள்ளது.
+
+இந்தக் கூட்டத்தின்போது கூட்டணியின் புதிய செயலாளர் நியமனம் இடம்பெறவுள்ளதாக அக்கட்சியின் ஊடகப் பேச்சாளர் சுரேஷ் பிரேமச்சந்திரன் தெரிவித்தார்.
+
+கூட்டணியின் பொதுச்செயலாளராக கடமையாற்றி வந்திருந்த ஆர்.ராகவனின் மறைவை அடுத்து ஏற்பட்டுள்ள வெற்றிடத்தை நிரப்புவதே இக்கூட்டத்தின் பிரதான நோக்கம் என்றும் அவர் குறிப்பிட்டார்.
+
+இந்த கூட்டத்தின்போது ஜனநாயக கூட்டணியை மாவட்டம் தோறும் பலப்படுத்துவதற்கான நடவடிக்கைகள் தொடர்பிலும் ஆராயப்படவுள்ளது. விசேடமாக கூட்டணியின் கிளைகள் மறுசீரமைப்பு, புதிய அங்கத்துவம் சம்பந்தமான விடயங்கள் கவனத்தில் கொள்ளப்படவுள்ளன.
+
+இதேவேளை, ஜனநாயக தமிழ்த் தேசியக் கூட்டணியில் அடுத்த ஜனாதிபதி தேர்தலில் தமிழ்ப் பொது வேட்பாளர் ஒருவரை நிறுத்துவது தொடர்பில் கொள்கையளவில் தீர்மானம் எடுக்கப்பட்டுள்ள நிலையில் அது குறித்து தீர்க்கமான முடிவொன்றை எடுப்பதற்கும் முயற்சிக்கப்படவுள்ளது.
+
+...
+
+[Data](articles/2b256453.json)
+
+---
+
+### එංගලන්තයේ ගුවන් ගමන් රැසක් අවලංගුයි
+
+*2024-04-07 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195383) · `si`
+
+අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් බ්‍රිතාන්‍යයේ ගුවන් ගමන් රැසක් අවලංගු කර තිබේ.
+
+"කැත්ලීන්" කුණාටුවත් සමග පවතින තද සුළං තත්ත්වය සහ උණුසුම් කාලගුණ තත්ත්වය හේතුවෙන් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිකුත් කර ඇති අනතුරු ඇඟවවීමේ නිවේදන අනුව එම ගුවන් ගමන් අවලංගු කර ඇති බව වාර්තා වෙයි.
+
+ස්කොට්ලන්තයේ දුම්රිය සහ බෝට්ටු සේවාවලට ද අයහපත් කාලගුණයෙන් බලපෑම් එල්ල වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+සුළං තත්ත්වය හේතුවෙන් එංගලන්තයේ වයඹ හා නිරිත දිග ප්‍රදේශවලට සහ උතුරු අයර්ලන්තය, ස්කොට්ලන්තය හා වේල්සය යන කලාප සඳහා ද දැඩි බලපෑම් එල්ල වී තිබේ.
+
+◼️
+
+[Data](articles/32f42f9b.json)
+
+---
 
 ### Another mysterious death
 
@@ -56,21 +112,29 @@ Police say that there is no such injuries in the body.
 
 ---
 
-### ලංකාවේ සංචාරක ව්‍යාපාරයට එංගලන්තයෙන් ලොකු තල්ලුවක්
+### England a big push for tourism in Sri Lanka
 
 *2024-04-07 08:33:07* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සංචාරක-ව්‍යාපාරයට-එංගලන්තයෙන්-ලොකු-තල්ලුවක්/11-408976) · `si`
 
-ශ්‍රී ලංකාව ලබාගෙන ඇති වත්මන් ආර්ථික ප්‍රගතිය හේතුවෙන් එක්සත් රාජධානිය විසින් සිය පුරවැසියන් සඳහා නිකුත් කර තිබූ ශ්‍රී ලංකාව සඳහා වන සංචාරක උපදේශනය (Travel Advisory) 2024 අප්‍රේල් මස 05 වැනි දින සිට යාවත්කාලීන කිරීමට එක්සත් රාජධානිය කටයුතු කර තිබේ.
+England promotes Sri Lanka tourism, updating travel advisories to reflect economic progress and improved security. The UK's High Commission in Sri Lanka removes outdated concerns like food, fuel, and medicinal shortages, and health service limits, aiming to attract more tourists.
 
-හදිසි වෛද්‍ය සේවාවන් ලබාගැනීම, රට තුළට ඇතුලුවීමේදී ආරක්ෂාව සම්බන්ධයෙන් පැවතිය යුතු අවශ්‍යතා, මාර්ගවල ගමන් කිරීමේදී පවතින ආරක්ෂාව, රට තුළ පවතින ආරක්ෂක තත්ත්වය සහ සෞඛ්‍ය පහසුකම් ලබාගැනීම ආදී අංශයන්හි පෙර පැවති තොරතුරු යාවත්කාලීන කිරීම මෙමගින් සිදු කර ඇත.
+🟩
 
-ඒ අනුව ආහාර, ඉන්ධන සහ ඖෂධ හිඟය පිළිබඳව පසුගිය උපදේශනය තුළ අඩංගු කර තිබූ කරුණු යාවත්කාලීන කරන ලද මෙම සංචාරක උපදේශනයෙන් ඉවත් කර ඇත.
+The UK has worked for Sri Lanka's travel consultation for Sri Lanka by Sri Lanka by Sri Lanka (TRAVEL ADVISORY) for its current economic progress due to the current economic progress.
 
-මීට අමතරව වෛද්‍ය උපකරණ හිඟය වැනි සෞඛ්‍ය සේවාවල සීමාවන් පිළිබඳ දක්වා තිබූ අවදානම ද ඉවත් කර තිබේ.
+It has updated the pre-existing information on the security of the country such as the requirements of safety care and the security of the country, such as the security situation and health facilities that exist in the country.
+
+Accordingly, the information contained in the last consultation regarding the shortage of food, fuel and medicinal deficit, has been removed from the last consultancy.
+
+In addition, the risk of the limits of health services, such as medical shortage has been removed.
+
+The Sri Lankan High Commission of London has taken the need to remove these adverse information to remove these harmful information in the tourist attraction to the tourists of Sri Lanka.
 
 ...
 
 [Data](articles/fdd15163.json)
+
+[Extended Data](ext_articles/fdd15163.ext.json)
 
 ---
 
@@ -231,6 +295,28 @@ Legal action will be taken to take legal action on the four Pakistani nationals 
 [Data](articles/ac7178e5.json)
 
 [Extended Data](ext_articles/ac7178e5.ext.json)
+
+---
+
+### Man killed in police shooting in Mawanella
+
+*2024-04-07 07:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Man-killed-in-police-shooting-in-Mawanella/155-280313) · `en`
+
+Mawanella, April 7 (Daily Mirror) - A 53-year-old individual has died in a police shooting while attempting to resolve a dispute in Padiyadora in Mawanella last night.
+
+According to the police, the Mawanella Police were alerted to a dispute in Padiyadora and dispatched officers to investigate the situation.
+
+During the investigation, one person involved in the dispute reportedly assaulted a police officer with a sharp weapon.
+
+In response, another officer fired a warning shot to restore order. However, when the assailant continued to pose a threat by attempting to attack the officer, the officer fired again, resulting in the fatal injury of the suspect's father, who was involved in the altercation.
+
+The deceased, a resident of the area, succumbed to injuries after being rushed to Mawanella Hospital.
+
+Police said two injured police officers are currently receiving medical attention at the same hospital.
+
+...
+
+[Data](articles/8fc6eb6b.json)
 
 ---
 
@@ -2243,105 +2329,5 @@ It is estimated that the comprehensive modernization project costs a total of Rs
 [Data](articles/4a3d6a74.json)
 
 [Extended Data](ext_articles/4a3d6a74.ext.json)
-
----
-
-### Jeevan Thondaman is the leader of the young world
-
-*2024-04-06 09:28:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-உலகத்-தலைவராக-ஜீவன்-தொண்டமான்-தெரிவு/175-335656) · `ta`
-
-Jeevan Thondaman, Sri Lanka's Minister of Water Supply and Estate Infrastructure, is the first Sri Lankan minister elected as the Young World Economic Forum's World Youth Leader. Recognized for his leadership in promoting clean water, restoring water supply, and public service, he is celebrated for his vision and impact on Sri Lanka and internationally.
-
-🟩
-
-Jeevan Thondaman, Minister of Water Supply and Estate Infrastructure, has been elected as the Young World Economic Forum.
-
-This is the first time a Sri Lankan minister has been elected to the post of World Youth Leader.
-
-He has been actively working for revolutionary changes since the promotion of the Ministry of Lifestyle, Voice of Social Justice, Voice of Social Justice, Realizing Clean - Health Safety Drinking Water, Restoration in Water Supply. He is also providing the best leadership for the projects.
-
-His dedication in public service and his leadership in the new approach have had a better -positive impact on nationally. He has now been recognized internationally by being elected as the Young World Head.
-
-The YGL community is a unique society with more than 1000 young leaders who share stability in the form of a global future. This is the recognition of Minister Jeevan Thondaman's vision, leadership and effort.
-
-...
-
-[Data](articles/06793ae1.json)
-
-[Extended Data](ext_articles/06793ae1.ext.json)
-
----
-
-### Ukraine War
-
-*2024-04-06 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180557) · `ta`
-
-Ukraine reportedly destroyed 6 Russian warplanes in an unmanned air strike, injuring or killing over 20 Russian soldiers. Israel targeted a SU27-34 aircraft site in Ukraine. Russia has not acknowledged the attack, but Ukraine has conducted 40 unmanned flights, activating Russia's air safety mechanism.
-
-🟩
-
-Ukraine's security sources say that Russia's six warplanes have been destroyed in the massive unmanned air strike by Ukraine on Russia's southern airport.
-
-More than 20 Russian soldiers may have been injured or killed.
-
-Israel has launched an unmanned air strike on the Morajowsk site of the SU27- 34 aircraft used at the Ukraine war.
-
-Russia has not yet announced the attack, but Ukraine's 40 unmanned flights have been targeted.
-
-Security inspectors have said that the use of more than 40 unmanned aircraft in Ukraine has made Russia's air safety mechanism in operation.
-
-◼️
-
-[Data](articles/62703c37.json)
-
-[Extended Data](ext_articles/62703c37.ext.json)
-
----
-
-### Sri Lanka lock horns with India on April 30
-
-*2024-04-06 09:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-lock-horns-with-India-on-April-30/108-280262) · `en`
-
-Apr. 5 (Daily Mirror) - The Asia Rugby (AR) Men’s 15-A-Side Division 1 Championship 2024 will commence on April 30 at the Racecourse Grounds in Colombo.
-
-Host Sri Lanka, Qatar, Kazakhstan and India will participate in this four-nation tournament.
-
-Originally, this year’s AR Men’s Division 1 Tournament was to be contested between Sri Lanka, Qatar and Pakistan. However, Pakistan withdrew from this year’s competition.
-
-At the same time, the AR Men’s Division 2 competition also ended up with only two teams - Kazakhstan and India - available to compete as Iran withdrew from this year’s competition.
-
-The AR Division 1 will now take place in a knock-out format with Qatar taking on Kazakhstan in the first semi-final and Sri Lanka will face India in the second semi-final under lights.
-
-On May 5, the losing semi-finalists will play for third place while the winners will play for the final and promotion for the AR Top-4 in 2025.
-
-...
-
-[Data](articles/42fe13ef.json)
-
-[Extended Data](ext_articles/42fe13ef.ext.json)
-
----
-
-### Cyber attack on the website of the Ministry of Education;The beginning of trial
-
-*2024-04-06 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180556) · `ta`
-
-Sri Lanka's Ministry of Education suffered a cyber attack by "Anonymous EEE," prompting investigations by SLCERT and TRCSL. The Ministry has pledged to restore the website and apologized for the inconvenience.
-
-🟩
-
-Investigations have been launched in connection with the unidentified hackers who carried out cyber attack on the Sri Lanka Ministry of Education.
-
-Investigations have been carried out by the Sri Lanka Computer Emergency Act (SLCERT) and the Sri Lanka Telecommunication Regulatory Commission (TRCSL).
-
-The Ministry of Education has expressed concern over the inconveniences for users and promised to recover the official website quickly.
-
-The cyber attack "Anonymous EEE" has revealed a message to illuminate security shortcomings on the website and apologized for the signing of it.
-
-◼️
-
-[Data](articles/2fb267aa.json)
-
-[Extended Data](ext_articles/2fb267aa.ext.json)
 
 ---

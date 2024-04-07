@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 19:03:07**
+As of **2024-04-07 19:18:05**
 
 ## Newspaper Stats
 
-*Scraped **17,646** Articles*
+*Scraped **17,648** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ tamilmirrorlk | 2,081
 adaderanalk | 2,132
 virakesarilk | 2,578
 dailymirrorlk | 2,696
-adaderanasinhalalk | 2,863
+adaderanasinhalalk | 2,865
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,646 (100.0%) of 17,646 articles have been extended.
+17,646 (100.0%) of 17,648 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### ශ්‍රීලනිපයේ දේශපාලන මණ්ඩල රැස්වීමක් හෙට
+
+*2024-04-07 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195405) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ දේශපාලන මණ්ඩල රැස්වීමක් හෙට (08) දින කැඳවා තිබේ.
+
+ඒ උද්ගතවී ඇති තත්ත්වය හමුවේ පක්ෂයේ ඉදිරි ක්‍රියාමාර්ග පිළිබඳව සාකච්ඡා කිරීමේ අරමුණින් ය.
+
+එම පක්ෂයේ අනුශාසිකා හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය එහි මුලසුන දැරීමට නියමිත බව වාර්තා වෙයි.
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ලෙස කටුයුතු කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය අප්‍රෙල් 4 වනදා අතුරු තහනම් නියෝගයක් නිකුත් කළේ හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය ගොනු කළ පෙත්සමක් විභාගයට ගනිමිනි.
+
+අනතුරුව පක්ෂ මූලස්ථානයේ තිබූ වැදගත් ලිපිගොනු කිහිපයක් අස්ථනගතවී ඇති බවට පක්ෂයේ වැඩබලන මහලේකම්වරයා සිදුකළ පැමිණිල්ලට අනුව ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානයට කිසිවෙකුට ඇතුළුවීම පොලීසිය ඊයේ තහනම් කළේය.
+
+මෙවන් පසුබිමක ශ්‍රී ලංකා නිදහස් පක්ෂයේ දේශපාලන මණ්ඩල රැස්වීමක් එහි ජ්‍යෙෂ්ඨ උප සභාපති නිමල් සිරිපාල ද සිල්වා අමාත්‍යවරයා විසින් හෙට පෙරවරු 10ට පදනම් ආයතනයේ කැඳවා තිබේ.
+
+...
+
+[Data](articles/2a73c13d.json)
+
+---
+
+### හෙට උණුසුම ගැන හදිසි නිවේදනයක්
+
+*2024-04-07 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195404) · `si`
+
+හෙට (08) දිනයේ මිනිස් සිරුරට දැනෙන උණුසුම "අවධානය" යොමු කළ යුතු මට්ටමක පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+◼️
+
+[Data](articles/d3f90adf.json)
+
+---
 
 ### Let us field the presidential candidate on our side - Mahinda Rajapaksa
 
@@ -2345,33 +2379,5 @@ The Meteorology Department further states that the sun will be over 12:12 pm tod
 [Data](articles/42c3f4ab.json)
 
 [Extended Data](ext_articles/42c3f4ab.ext.json)
-
----
-
-### SampathCards “Sampath Siritha” lights up the Avurudu season with unbelievable discounts and savings for Cardholders
-
-*2024-04-07 05:18:00* · [`islandlk`](http://island.lk/sampathcards-sampath-siritha-lights-up-the-avurudu-season-with-unbelievable-discounts-and-savings-for-cardholders/) · `en`
-
-Avurudu is traditionally the most looked forward to holiday for most Sri Lankans and is celebrated across the country with seasonal food, traditional customs, and fun festivities. As the country prepares for the Sinhala and Tamil New Year season with great anticipation, Sampath Bank is once again stepping forward to make the season a memorable one by reminding the public of all the wonderful traditions associated with this time of the year through “Sampath Siritha” for Sampath cardholders.
-
-...
-
-[Data](articles/537e2833.json)
-
-[Extended Data](ext_articles/537e2833.ext.json)
-
----
-
-### MAKE AMERICA PRAY AGAIN
-
-*2024-04-07 03:25:00* · [`islandlk`](http://island.lk/make-america-pray-again/) · `en`
-
-“March Madness” is an annual ritual in the USA, the climax of the National College Basketball tournament that keeps Americans glued to their TVs for weeks. Employees in almost all offices and organizations, up to and including the White House, organize “pools” to predict the final four, the semi-finalists of this tournament, usually a monumental task. The madness regarding the events concerning Trump during March was of such confusion that it has become impossible to predict even whether America will remain a democracy after November, 2024.
-
-...
-
-[Data](articles/84fa3703.json)
-
-[Extended Data](ext_articles/84fa3703.ext.json)
 
 ---

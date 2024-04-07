@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 02:18:23**
+As of **2024-04-08 02:33:38**
 
 ## Newspaper Stats
 
-*Scraped **17,694** Articles*
+*Scraped **17,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 159
 bbccomsinhala | 184
 dbsjeyarajcom | 213
 newsfirstlk | 363
-dailyftlk | 961
+dailyftlk | 963
 islandlk | 968
 economynextcom | 978
 adalk | 1,489
@@ -26,11 +26,39 @@ adaderanasinhalalk | 2,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,694 (100.0%) of 17,694 articles have been extended.
+17,694 (100.0%) of 17,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### Inputs to Thondaman’s Cabinet paper on State apology to Muslims on forced COVID cremations
+
+*2024-04-08 02:17:21* · [`dailyftlk`](https://www.ft.lk/columns/Inputs-to-Thondaman-s-Cabinetpaper-on-State-apology-to-Muslims-on-forced-COVID-cremations/4-760426) · `en`
+
+With reference to the subject news report titled “Thondaman calls for formal Govt. apology to Muslim community over forced COVID cremations” appearing on the front page of your widely circulated and read newspaper of Friday 5 April 2024, I wish to bring the following to the attention of your readers with regard to the article.
+
+The apology from an individual on behalf of the Government which as a collective acted in contravention of prevalent and established ethical, scientific and moral grounds to selectively target a section of its own citizens indeed must not and should not be accepted as the decision to forcefully cremate COVID-19 dead during the pandemic was solely a political decision.
+
+...
+
+[Data](articles/45294757.json)
+
+---
+
+### How to miss five industrial revolutions
+
+*2024-04-08 01:55:38* · [`dailyftlk`](https://www.ft.lk/columns/How-to-miss-five-industrial-revolutions/4-760419) · `en`
+
+The signs of having gone through industrial revolutions are the country becoming wealthy, and population having a high level of per capita income
+
+Sri Lanka did not have a complete set of Government institutions to maintain a corruption-free economy. This incompleteness later led to countrywide corruption and creating a generation of rent seekers whose primary objective was to profit from the Government, at the expense of the welfare of the general public. This should have been obvious to the political leaders and bureaucrats of Sri Lanka who oversaw the transition of political power from the colonial master. Thus, the need to import and adopt technology and the need to install the full set of institutions should have been a top priority of the country. In similar situations, countries like Japan and Singapore adopted correct strategies
+
+...
+
+[Data](articles/71f39270.json)
+
+---
 
 ### Dr. Anil Munasinghe appointed CEO of Kelani Cables
 
@@ -2261,51 +2289,5 @@ He was arrested by the police arrested for a number of occasions in the area.
 [Data](articles/9420857a.json)
 
 [Extended Data](ext_articles/9420857a.ext.json)
-
----
-
-### Peter Pellegrini: Russia-friendly populist elected Slovak president
-
-*2024-04-07 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98489/peter-pellegrini-russia-friendly-populist-elected-slovak-president) · `en`
-
-Populist Peter Pellegrini has been elected president of Slovakia, succeeding the liberal Zuzana Caputova.
-
-Mr Pellegrini, 48, defeated the pro-Western Ivan Korcok, a former diplomat, with 53% of the vote.
-
-A former prime minister, he is an ally of Prime Minister Robert Fico, and shares the PM’s dovish attitude towards Russia.
-
-Mr Fico and his allies now control Slovakia’s parliament, government and soon the president’s office.
-
-Slovakia had been one of Ukraine’s staunchest allies before Mr Fico came to power in October on a pledge to halt supplies of Slovak Army military stocks to Kyiv. With Mr Pellegrini replacing Mrs Caputova, Ukraine has now definitively lost a voice of support in an EU and Nato capital.
-
-Mr Fico has called for an end to Western military support for Ukraine, an immediate ceasefire and peace talks with Moscow. Mr Fico said recently President Vladimir Putin had been "unfairly demonised" and argued admitting Ukraine to Nato would mark the beginning of a third world war.
-
-...
-
-[Data](articles/a0f713c5.json)
-
-[Extended Data](ext_articles/a0f713c5.ext.json)
-
----
-
-### Allowances of Grama Niladhari officers increased
-
-*2024-04-07 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98488/allowances-of-grama-niladhari-officers-increased) · `en`
-
-The government has decided to revise the allowances provided to Grama Niladhari officers.
-
-Accordingly, the office allowances and stationery allowances of Grama Niladhari officers have been increased effective from April 01, 2024.
-
-The Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government has reportedly forwarded the circular related to the matter to all District Secretaries and Divisional Secretaries.
-
-Thus, the monthly office allowance within Municipal Council limits has been increased up to Rs. 3,000 while the monthly office allowance within Pradeshiya Sabha limits has been increased to Rs. 2,000.
-
-The annual stationery allowance has also been increased to Rs. 3,000, according to the ministry.
-
-◼️
-
-[Data](articles/7423ef83.json)
-
-[Extended Data](ext_articles/7423ef83.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 04:18:19**
+As of **2024-04-08 04:33:37**
 
 ## Newspaper Stats
 
-*Scraped **17,705** Articles*
+*Scraped **17,708** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 159
 bbccomsinhala | 184
 dbsjeyarajcom | 213
 newsfirstlk | 363
-dailyftlk | 968
 islandlk | 968
+dailyftlk | 971
 economynextcom | 978
 adalk | 1,489
 tamilmirrorlk | 2,083
@@ -26,11 +26,61 @@ adaderanasinhalalk | 2,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,705 (100.0%) of 17,705 articles have been extended.
+17,705 (100.0%) of 17,708 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### SLFP to hold politburo meeting today
+
+*2024-04-08 04:20:23* · [`dailyftlk`](https://www.ft.lk/news/SLFP-to-hold-politburo-meeting-today/56-760440) · `en`
+
+The Sri Lanka Freedom Party (SLFP) has scheduled a gathering of its politburo today (8) to strategise on navigating the party’s current internal crisis and charting its future course of action.
+
+Former President Chandrika Bandaranaike Kumaratunga is expected to preside over the meeting.
+
+On 4 April, the Colombo District Court issued an interim injunction restraining former President Maithripala Sirisena from carrying out his duties as the SLFP Chairman, in response to a complaint lodged by Kumaratunga.
+
+However, Sirisena has responded, stating his intention to provide the court with relevant information on the issue. Meanwhile, SLFP Acting General Secretary Dushmantha Mithrapala filed a complaint with the Maradana Police on Friday (5), alleging the disappearance of several ‘important’ files from the party headquarters.
+
+...
+
+[Data](articles/5ccf73af.json)
+
+---
+
+### Power Minister reviews generation plan for next 12 months
+
+*2024-04-08 04:19:57* · [`dailyftlk`](https://www.ft.lk/news/Power-Minister-reviews-generation-plan-for-next-12-months/56-760439) · `en`
+
+Power and Energy Minister Kanchana Wijesekera revealed that the Ministry has conducted a comprehensive review of the Ceylon Electricity Board (CEB)’s power generation plan for the upcoming 12 months.
+
+This review encompassed various crucial aspects, including system maintenance requirements, hydroelectric capacity, weather forecast predictions, plans for unloading coal cargo, customer service considerations, and issues pertinent to the electricity sector. Minister Wijesekera held discussions with the management and officials of the CEB and System Control to delve into these critical areas and ensure a robust and sustainable energy strategy for the country.
+
+◼️
+
+[Data](articles/7d596b03.json)
+
+---
+
+### Govt. extends free rice program to assist vulnerable communities: Semasinghe
+
+*2024-04-08 04:16:20* · [`dailyftlk`](https://www.ft.lk/news/Govt-extends-free-rice-program-to-assist-vulnerable-communities-Semasinghe/56-760438) · `en`
+
+State Minister of Finance Shehan Semasinghe yesterday said the Government is poised to continue its free rice program for the months of April and May this year.
+
+He said the initiative aims to provide essential assistance to those who have not previously benefited from any subsidy program.
+
+“Under this extended program, individuals currently receiving pensions, as well as those who had previously received prosperity benefits but lost their pensions, will be included. Additionally, beneficiaries of kidney, elderly, and disabled allowances will also be covered,” he said after attending the launch of various development projects in areas including Mihintale, Vilachchiya and Nachchiduwa.
+
+Semasinghe stressed that even individuals who have missed out on previous subsidy programs can be included in this initiative, with divisional secretaries granted the authority to facilitate their inclusion.
+
+...
+
+[Data](articles/5865c3ef.json)
+
+---
 
 ### Chamber of Marine Industries charts new course
 
@@ -2181,75 +2231,5 @@ Sri Lanka and a group of its creditors are in final negotiations to suspend debt
 [Data](articles/a86fe524.json)
 
 [Extended Data](ext_articles/a86fe524.ext.json)
-
----
-
-### Another operation from the police
-
-*2024-04-07 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195393) · `si`
-
-The police have launched a special program to combat mobile phone-based drug trafficking, arresting 198 people and investigating 18 more.
-
-🟩
-
-Police have launched a special program to suppress illicit drug trafficking used by mobile phones.
-
-The special program has commenced in line with the militant execution of drug trafficking.
-
-The operation was implemented from yesterday (06) to the 10th of the IGP Deshabandu Tennakoon.
-
-Accordingly, the illegal drug trafficking has been obtained from 198 people using the methods used in mobile phones yesterday.
-
-The Police Narcotics The Bureau of Narcotics will be investigated in further investigations into 18 drug traffickers.
-
-◼️
-
-[Data](articles/7ba34882.json)
-
-[Extended Data](ext_articles/7ba34882.ext.json)
-
----
-
-### Shooting during a case of Brazil
-
-*2024-04-07 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195392) · `si`
-
-A Brazilian son reportedly shot dead his father's murderer, news also covered internationally.
-
-🟩
-
-The suspect involved in his father's murder reported a shot dead by son.
-
-The shooting was also reported on foreign media.
-
-◼️
-
-[Data](articles/6d4c425c.json)
-
-[Extended Data](ext_articles/6d4c425c.ext.json)
-
----
-
-### “April 15: Not a public holiday”
-
-*2024-04-07 13:19:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-15-பொது-விடுமுறை-அல்ல/175-335698) · `ta`
-
-"April 15 not declared a public holiday yet. Minister Asoka Priyantha to discuss with ministers and president."
-
-🟩
-
-Minister of State for Home Affairs Asoka Priyantha said that no decision has been taken to declare April 15 as a public holiday.
-
-State officials and the public have requested that the public be declared a public holiday on the 15th of April ahead of the upcoming Sinhala and Tamil New Year.
-
-He said he would discuss the matter with the ministers and the president at the Cabinet meeting.
-
-However, no decision has been taken so far on the announcement of April 15 as a public holiday.
-
-◼️
-
-[Data](articles/44818735.json)
-
-[Extended Data](ext_articles/44818735.ext.json)
 
 ---

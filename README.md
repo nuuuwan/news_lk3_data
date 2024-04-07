@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 16:49:36**
+As of **2024-04-07 17:03:21**
 
 ## Newspaper Stats
 
-*Scraped **17,632** Articles*
+*Scraped **17,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 958
 islandlk | 968
 economynextcom | 978
 adalk | 1,478
-tamilmirrorlk | 2,080
-adaderanalk | 2,129
+tamilmirrorlk | 2,081
+adaderanalk | 2,130
 virakesarilk | 2,570
 dailymirrorlk | 2,696
 adaderanasinhalalk | 2,861
@@ -26,31 +26,61 @@ adaderanasinhalalk | 2,861
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,629 (100.0%) of 17,632 articles have been extended.
+17,632 (100.0%) of 17,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### හොරණ ද්විත්ව ඝාතනය ගැන තවත් තොරතුරු
+### More information about Horana double murder
 
 *2024-04-07 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195400) · `si`
 
-අද (07) දහවල් හොරණ මාලොස් ඇළ හන්දිය ආසන්නයේදී සිදුකළ වෙඩිතැබීම සම්බන්ධයෙන් තොරතුරු රැසක් හෙළිවී තිබේ.
+In Horana, two people were shot dead in a robbery attempt, targeting a gold cargo area in Marapana. The victims, a 52-year-old man and a woman, were taken to Horana Base Hospital but the man died. The shooter, believed to be a contract killer named Jayakody, fled in a three-wheeler, leaving behind 13 bullets. The police are investigating with the help of the CID and six teams.
 
-ත්‍රීරෝද රථයකින් ගමන් කරමින් සිටි පුද්ගලයින් දෙදෙනෙකු ඉලක්ක කරමින් මෝටර් රථයකින් හඹා ආ කණ්ඩායමක් මෙම වෙඩිතැබීම සිදුකර ඇත.
+🟩
 
-වෙඩිතැබීමෙන් බරපතළ තුවාල ලැබූ ත්‍රීරෝද රථයේ ගමන් කළ පුද්ගලයින් දෙදෙනා හොරණ මූලික රෝහලට ඇතුළත් කළ පසු මියගොස් ඇතැයි මොරගහහේන පොලීසිය පැවසීය.
+It has been revealed that the shooting of Horana Marana Mahena Malasi junction in the afternoon today (07).
 
-වෙඩි වැදී ඝාතනයට ලක්වූ පුද්ගලයන් දෙදෙනාට රත්නපුර මාරපන ප්‍රදේශයේ රන් භාණ්ඩ අලෙවිසැලක් කොල්ලකෑම සම්බන්ධයෙන් පවතින නඩුවක ඇප කොන්දේසියකට අනුව සෑම ඉරු දිනකම රත්නපුර පොලීසියේ පෙනී සිට අත්සන් කිරීමට නියමිතව තිබුණි.
+The shooting has been carried out targeting two people from a three-wheeler.
 
-එබැවින් එලෙස රත්නපුර පොලීසියේ අත්සන් කර නැවත නිවෙස් බලා යමින් සිටියදී මෙලෙස වෙඩි ප්‍රහාරයට ලක්වී ඇති බවද පොලීසිය පවසයි.
+Moragahahena Police said that the two persons who were seriously injured in the three-wheeler hospital have been admitted to the Horana Base Hospital.
 
-ඝාතනයට ලක්ව ඇත්තේ පන්නිපිටිය හිරිපිටිය ප්‍රදේශයේ පදිංචිකරුවකු වන රූපසිංහ ආරච්චිගේ නයනානන්ද පෙරේරා නමැති 52 හැවිරිදි පුස්ගලයෙක් සහ පිළියන්දල සිද්දමුල්ල ප්‍රදේශයේ පදිංචිකරුවකු වන වසන්ත පෙරේරා නම් 50 හැවිරිදි අයෙකි.
+The two persons who were shot dead in a case of robbing a gold cargo area in Marapana area were to be signed from the Ratnapura Police.
+
+Therefore, the police said that the police had been shot dead and returned to homes.
+
+The victim was a 52-year-old pussy named Rupasinghe Arachchige Nayakara Perera, a 52-year-old, a resident of Hiripitiya, Pannipitiya Hiricipitiya.
+
+It is reported that a shooting has been used for shooting and that 13 bullets have been found in the area.
+
+The victim was taken to the hospital and died after being admitted to the hospital.
+
+A senior officer of the Moragahahena Police said that three bullets were found in the body of the three-wheeler.
 
 ...
 
 [Data](articles/78e6197b.json)
+
+[Extended Data](ext_articles/78e6197b.ext.json)
+
+---
+
+### Liquor shops to remain closed on April 12, 13 and 23
+
+*2024-04-07 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98493/liquor-shops-to-remain-closed-on-april-12-13-and-23) · `en`
+
+The Commissioner General of Excise has ordered that all licensed liquor stores, except for the specifically authorized stores, across the island should remain closed for retail liquor sales on April 12 and 13, in view of the Sinhala and Tamil New Year.
+
+The Department of Excise stated that the order is not applicable for resident tourists in hotels above three-star class, approved by the Sri Lanka Tourism Development Authority and special boutique villa-licensed places.
+
+Meanwhile, the Commissioner General of Excise has also ordered the closure of all excise-licensed places for liquor sales throughout the island without classification of license on April 23, on the occasion of Bak Full Moon Poya Day.
+
+Furthermore, the general public is informed that complaints related to narcotics, drugs and tobacco crimes taking place during this period can be reported to the hotline number ‘1913’ of the Excise Department or the other excise stations or special units established across the island.
+
+◼️
+
+[Data](articles/21bf7db5.json)
 
 ---
 
@@ -68,21 +98,47 @@ Demonstrating exemplary teamwork and empathy, the fishermen carefully released a
 
 [Data](articles/32a0954a.json)
 
+[Extended Data](ext_articles/32a0954a.ext.json)
+
 ---
 
-### රාජ්‍ය සේවකයන්ගේ අප්‍රේල් වැටුප හෙට සිට ගෙවීමට පියවර
+### Measures to pay public servants in Public Servants from tomorrow
 
 *2024-04-07 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195399) · `si`
 
-රාජ්‍ය සේවක අප්‍රේල් වැටුප හෙට (08) සිට ගෙවීමට රජය සුදානම් බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා අද (07) කෑගල්ලේ දී පැවසීය.
+"Govt to pay public servants Rs 10,000-107 billion from tomorrow. Also, 10 families to receive 10 kg of rice each on April 21, purchased from local industrialists."
 
-"වැඩි වුණ රුපියල් 10,000 සමගින් හෙට 08 සිට ආයතනවලට මුදල් නිදහස් කරන්න සුදානම් කරගෙන තියෙනවා. රුපියල් බිලියන 107ක්. වැඩි වුණු මුදල විතරක් රුපියල් බිලියන 13කට ආසන්නයි."
+🟩
 
-"අප්‍රේල් 21 වනදා රටටම එක සැරේ... පවුල් 28 ලක්ෂයකටම සහල් කිලෝ 10 බැගින් ලබාදෙනවා. දේශීය කර්මාන්තකරුවාගෙන් මේක මිලදී ගන්නේ."
+State Minister Ranjith Siyambalapitiya stated that the government is prepared to pay the preparation of the premises of the public servants tomorrow (08).
+
+"I have been prepared to release money to the institutions from 08 tomorrow with Rs 10,000.. 107 billion rupees. The increased amount is only about Rs. 13 billion. "
+
+"On April 21, the country is one time. 10 families will be given 10 kg of rice. Buying this from the local industrialist. "
 
 ◼️
 
 [Data](articles/0cbff782.json)
+
+[Extended Data](ext_articles/0cbff782.ext.json)
+
+---
+
+### தின்பண்ட செலவு   2 %  குறைந்துள்ளது
+
+*2024-04-07 16:07:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தின்பண்ட-செலவு-2-குறைந்துள்ளது/175-335705) · `ta`
+
+தமிழ் சிங்களப் புத்தாண்டுக்கான பாரம்பரியத்தின் பண்டங்களுக்கான செலவு 2023 ஆம் ஆண்டுடன் ஒப்பிடுகையில் 2024 ஆம்ஆண்டில் குறைந்துள்ளது. ஆனால் 2019 ஆம் ஆண்டிலிருந்ததை விட தொடர்ந்தும் இரண்டு மடங்கு அதிகமாகவே உள்ளது.
+
+வெரிட்டேரிசேர்ச் நிர்வகிக்கும் இலங்கையின் பொருளாதார விபரங்களை வழங்கும் முன்னணி தளமான  PublicFinance.lk முன்னெடுத்த “புத்தாண்டு” தின்பண்டங்களுக்கான வருடாந்தச் செலவு தொடர்பிலான ஆய்வில் இந்த விபரம் தெரியவந்துள்ளது.
+
+இது பொருட்களுக்கான செலவு 2023 ஆம் ஆண்டை விட 2024 ஆம் ஆண்டில் 2 சதவீதத்தால் குறைந்துள்ளதைக் காட்டுகிறது.
+
+2019 ஆம்ஆண்டுடன் ஒப்பிடுகையில் 2023 ஆம்ஆண்டில் செலவு 2.3 மடங்கு அதிகரித்திருந்தது.  2019 ஆம் ஆண்டுடன் ஒப்பிடுகையில் 2024 ஆம் ஆண்டில் இது சற்றுக் குறைந்து 2.2 மடங்காக உள்ளது.
+
+...
+
+[Data](articles/29475936.json)
 
 ---
 
@@ -2301,45 +2357,5 @@ Embarrassed, I admit, I am not familiar with the two great classics of our Sinha
 [Data](articles/13f708c2.json)
 
 [Extended Data](ext_articles/13f708c2.ext.json)
-
----
-
-### A Sri Lankan to make West Indies cash cricket
-
-*2024-04-06 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195375) · `si`
-
-Ramesh Subasinghe, a former Sri Lankan cricketer, is now the Chief Trainer of the West Indies Cricket Academy, succeeding in a competitive selection process. He has previously trained in New Zealand and holds an ICC Third Level Coach qualification.
-
-🟩
-
-Ramesh Subasinghe, a former Sri Lanka first-class cricketer, has been elected as the Chief Trainer of the West Indies Cricket Academy.
-
-Previously, he had served as a chief trainer of the New Zealand and talented development manager.
-
-Ramesh Subasinghe has also completed their qualifications as an ICC Third Level Coach.
-
-It is reported that he has been elected to the Chief Coach of the Academy of 53 applicants.
-
-The West Indies's male cricket academy is considered to be a rise up cricket team.
-
-◼️
-
-[Data](articles/0af9e10a.json)
-
-[Extended Data](ext_articles/0af9e10a.ext.json)
-
----
-
-### Betel chewing a cardinal pleasure
-
-*2024-04-06 21:26:00* · [`islandlk`](http://island.lk/betel-chewing-a-cardinal-pleasure/) · `en`
-
-Bulath in Sinhala, Vettila in Tamil and Malayalan, Paan in Hindi, Plu in Thai, Sirih in Malay are local names for betel (Piper betle) the tender leaf of which is the main ingredient in a chew. The other common additions are arecanut (Areca catechu), either raw or dried, sliced, shredded or cut into pieces and chunam from burnt chalk, coral or sea shells (slaked lime) and a piece of sun dried tobacco leaf for an added ‘kick’. The tobacco is said to have been introduced to the chew, also called a quid, by the Dutch when they were in these parts of the world as traders or rulers.
-
-...
-
-[Data](articles/2f521941.json)
-
-[Extended Data](ext_articles/2f521941.ext.json)
 
 ---

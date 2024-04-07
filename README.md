@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 11:03:08**
+As of **2024-04-07 11:18:08**
 
 ## Newspaper Stats
 
-*Scraped **17,569** Articles*
+*Scraped **17,574** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ newsfirstlk | 363
 dailyftlk | 958
 islandlk | 968
 economynextcom | 975
-adalk | 1,471
-tamilmirrorlk | 2,071
+adalk | 1,472
+tamilmirrorlk | 2,073
 adaderanalk | 2,121
 virakesarilk | 2,558
 dailymirrorlk | 2,685
-adaderanasinhalalk | 2,848
+adaderanasinhalalk | 2,850
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,569 (100.0%) of 17,569 articles have been extended.
+17,569 (100.0%) of 17,574 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### கணவன் பின்சென்ற மனைவி: ஊரில் சோகம்
+
+*2024-04-07 10:51:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவன்-பின்சென்ற-மனைவி-ஊரில்-சோகம்/175-335685) · `ta`
+
+இந்த காலத்திலும் இப்படிப்பட்ட மனிதர்கள் இருக்கத்தான் செய்கின்றனர். அப்படியான சம்பவமொன்றே கடலூர் மாவட்டத்தில் இடம்பெற்றுள்ளது,
+
+கடலூர் மாவட்டம் நடுவீரப்பட்டு அருகே உள்ள சூரியன்பேட்டையை சேர்ந்தவர் கந்தன்(வயது 48). அரசு பஸ் கண்டக்டராக பணிபுரிந்து வந்த இவரது மனைவி ரமாவள்ளி(40). இவர்களுக்கு 2 மகன்கள் உள்ளனர்.
+
+இந்த நிலையில் உடல் நலக்குறைவுகாரணமான கடலூர் அரசு மருத்துவமனையில் சிகிச்சை பெற்று வந்த கந்தன் சிகிச்சை பலன் இன்றி வௌ்ளிக்கிழமை (05) பரிதாபமாக இறந்தார். அவரது உடலுக்கான இறுதி சடங்கு அன்று மாலை நடைபெற்றது.
+
+கணவன் இறந்து போனதால் கடும் மன உளைச்சலில் இருந்து வந்த ரமாவள்ளி அவரது வீட்டின் கழிவறையில் திடீரென்று தன்னுயிரை மாய்க்க  முயன்றார். இதைப்பார்த்து அதிர்ச்சி அடைந்த அவரது உறவினர்கள் ரமாவள்ளியை மீட்டு சிகிச்சைக்காக கடலூர் அரசு மருத்துவமனையில் சேர்த்தனர். அங்கு சிகிச்சை பலன் இன்றி அவர் சனிக்கிழமை (06) அதிகாலை பரிதாபமாக இறந்தார்.
+
+...
+
+[Data](articles/1471e404.json)
+
+---
+
+### අඩු ආදායම්ලාභී පවුල් සඳහා ලැබෙන සහනය
+
+*2024-04-07 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195386) · `si`
+
+අඩු ආදායම්ලාභී පවුල් සඳහා සහල් බෙදාදීමේ කටයුතු කඩිනමින් සිදුකරන ලෙස රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා සහ පළාත් පාලන අමාත්‍යංශය විසින් සියලු දිස්ත්‍රික් ලේකම්වරුන් වෙත දැනුම් දී තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ඉදිරිපත් කළ යෝජනාවකට අනුව අඩු ආදායම්ලාභී පවුල්වලට මාස දෙකක් සඳහා එක් පවුලකට සහල් කිලෝග්‍රෑම් 20ක් ලබා දීමට පසුගියදා කැබිනට් අනුමැතිය හිමිවිය.
+
+අදාළ කැබිනට් අනුමැතියට අනුව කඩිනමින් තෝරාගත් ප්‍රතිලාභී පවුල් සඳහා සහල් මලු බෙදාදීමේ කටයුතු ප්‍රාදේශීය ලේකම් කාර්යාල මට්ටමින් සිදුකරන ලෙස රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා සහ පළාත් පාලන අමාත්‍යංශය දැනුම් දී ඇත.
+
+අස්වැසුම ප්‍රතිලාභීන්, අභියාචනා ඉදිරිපත් කර ඇති පුද්ගලයින් අතරින් සුබසාධන ප්‍රතිලාභ මණ්ඩලය විසින් අස්වැසුම වැඩසටහන සඳහා තෝරාගන්නා පුද්ගලයින්, අස්වැසුම වැඩසටහන හරහා ප්‍රතිලාභ නොලැබෙන සමෘද්ධි ප්‍රතිලාභීන්, අස්වැසුම හෝ සමෘද්ධි ප්‍රතිලාභ නොලබන අමතර මූල්‍යාධාර ලබන වැඩිහිටි පුද්ගලයින්, ආබාධිත පුද්ගලයින් සහ නිදන්ගත රෝගී පුද්ගලයින් සඳහා මෙම සහල් මලු බෙදාදීමට නියමිතය.
+
+...
+
+[Data](articles/369854d0.json)
+
+---
+
+### தாதியரான தாய், விபத்தில் பலி
+
+*2024-04-07 10:39:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/தாதியரான-தாய்-விபத்தில்-பலி/95-335684) · `ta`
+
+பணி முடிந்து கணவருடன் மோட்டார் சைக்கிளில் வீட்டுக்குச் சென்று கொண்டிருந்த களுபோவில போதனா வைத்தியசாலையின் தாதியர் சீமெந்து  லொறியில் மோதி விபத்துக்குள்ளானதாக பிலியந்தலை பொலிஸார் தெரிவிக்கின்றனர்.
+
+பிலியந்தலை ஜாலியகொட விஜய மாவத்தை பிரதேசத்தில் வசித்து வந்த தினுஷா கிரிஷாந்தி லியனகே என்ற 47 வயதான தாதியே மரணமடைந்தார். இவர் இரண்டு பிள்ளைகளின் தாயாவார்.
+
+உயிரிழந்த தாதியின் கணவரும் தனியார் வைத்தியசாலை ஒன்றில் தொழிநுட்ப முகாமையாளராக கடமையாற்றுவதாகவும், பணியை முடித்துக் கொண்டு களுபோவில போதனா வைத்தியசாலைக்கு அருகில் சென்று மனைவியையும் மோட்டார் சைக்கிளில் ஏற்றிக்கொண்டு சென்றதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/832609e7.json)
+
+---
 
 ### Sri Lanka’s fuel consumption dropped by 50%
 
@@ -47,6 +99,28 @@ He further assured that all types of fuel are presently available in the country
 [Data](articles/27210d5a.json)
 
 [Extended Data](ext_articles/27210d5a.ext.json)
+
+---
+
+### සාම්ප්‍රදායික දේශපාලනයට තිත තැබිය යුතුයි - ජනපති
+
+*2024-04-07 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195385) · `si`
+
+මෙරට දේශපාලන පක්ෂ ක්‍රමය සකස් විය යුත්තේ රට ආර්ථික වශයෙන් ගොඩ නැගීමට මිස පක්ෂයට අවශ්‍ය ලෙස රටේ ආර්ථිකය සකස් කිරීමට නොවන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා පෙන්වා දෙන්නේ පක්ෂවල වුවමනාවන්ට අනුව රටේ ආර්ථිකය සකස් කිරීමට ගොස් විශාල අර්බුදයකට රටට මුහුණ දීමට සිදුවූ බවය.
+
+යළි එසේ නොවීමටනම් සාම්ප්‍රදායික දේශපාලනයෙන් මිදිය යුතු බව ද අනුරාධපුර දිස්ත්‍රික් නීතිවේදීන් සමග පැවති සාකච්ඡාවක දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රකාශ කළේය.
+
+මේ අතර ආර්ථිකය ප්‍රතිව්‍යුහගතකරණය කිරීමේ නව නීති මැයි මාසයේ දී ගෙනඑන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+අන්තර්ජාතික මූල්‍ය අරමුදල සමග ගිවිසුම නීතිගත කරමින් එම සහනය රටට ලබාදීමට කටයුතු කරන බව ජනාධිපතිවරයා පැවසීය.
+
+මෙරට විදේශ ණය ගෙවීමේ කාලය 2042 දක්වා දීර්ඝ කර ගැනීමටත් එම ණයවලින් කොටසක් ඉවත් කර ගැනීමටත් සාකච්ඡා කරමින් සිටින බව "මගෙන් පටන් ගමු" අනුරාධපුර දිස්ත්‍රික් තරුණ සමුළුවට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/c6dda50b.json)
 
 ---
 
@@ -193,6 +267,26 @@ Due to the wind, England have been affected in the North Western and Southwest T
 [Data](articles/32f42f9b.json)
 
 [Extended Data](ext_articles/32f42f9b.ext.json)
+
+---
+
+### පිංකැටය කැඩීමට පැමිණ සොරා පහර කා ගස් බැඳ සිටියදී මිය යයි
+
+*2024-04-07 08:48:18* · [`adalk`](https://www.ada.lk/breaking_news/පිංකැටය-කැඩීමට-පැමිණ-සොරා-පහර-කා-ගස්-බැඳ-සිටියදී-මිය-යයි/11-408978) · `si`
+
+මහනුවර පොලිස් වසමේ ගැටඹේ දියකපනා තොට පන්සලේ පින් කැට කැඩීමට පැමිණි සොරෙකුට පහරදී ගස් බැඳ සිටියදී ඔහු මිය ගොස් ඇති බව පොලිසිය කියයි .
+
+අද (07) අළුයම් කාලයේ පන්සල් භූමියට පැමිණ ඇති මෙම සොරා පන්සලේ සිටි පිරිසක් දැක ඔහු අල්ලා ගැනීමෙන් පසු ගම්වැසියන් ඔහුට පහර දී ගස් බැඳ තිබේ .
+
+සිද්ධියෙන් මියගොස් ඇත්තේ මැණික්හින්න ප්‍රදේශයේ 47 හැවිරිදි පදිංචිකරුවෙකු බව පොලිසිය කියයි .
+
+ඔහු යතුරුපැදියකින් එම ස්ථානයට පැමිණ ඇති බව පවසන පොලිසිය එම යතුරුපැදියේ එල්ලා තිබූ සුදු පැහැති ආරක්ෂක හිස්වැසුමේ පොලිස් යනුවෙන් සඳහන් කොට ඇති බවද පොලිසිය කියයි .
+
+මහනුවර කොට්ඨාස භාර ජේෂ්ඨ පොලිස් අධිකාරි අනුරුද්ධ බණ්ඩාරනායක මහතාගේ උපදෙස් පරිදි මහනුවර පොලිස් මූලස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක රසික සම්පත් මහතාගේ මෙහෙයවීමෙන් වැඩිදුර විමර්ශන සිදු කෙරේ .
+
+◼️
+
+[Data](articles/84d274c4.json)
 
 ---
 
@@ -2251,109 +2345,5 @@ Central Revenue Investigation Officers, along with the Mandapam Coast Guard, wer
 [Data](articles/ff26737f.json)
 
 [Extended Data](ext_articles/ff26737f.ext.json)
-
----
-
-### Entry to SLFP headquarters suspended amid investigation into ‘missing files’
-
-*2024-04-06 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98467/entry-to-slfp-headquarters-suspended-amid-investigation-into-missing-files) · `en`
-
-Entering the Sri Lanka Freedom Party (SLFP) headquarters in Darley Road, Colombo 10, has been suspended for all individuals, due to the ongoing investigation into the complaint lodged at Maradana Police alleging that several ‘important’ files have gone missing from the establishment.
-
-Police stated that accordingly, it is prohibited for all parties to enter the SLFP headquarters until the preliminary investigations are completed.
-
-The Acting General Secretary of SLFP Dushmantha Mithrapala has lodged a complaint with the Maradana Police on Friday (05), alleging that several ‘important’ files have gone missing from the party headquarters.
-
-However, the Acting General Secretary alleged that the police also prevented them from entering the auditorium of the party headquarters, which is not related to the incident.
-
-◼️
-
-[Data](articles/6e4588c1.json)
-
-[Extended Data](ext_articles/6e4588c1.ext.json)
-
----
-
-### Sri Lanka Freedom Party Headquarters prohibited
-
-*2024-04-06 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195356) · `si`
-
-Investigations into missing files at Sri Lanka Freedom Party (SLFP) headquarters on Darley Road, Colombo, have been temporarily halted. The police, under the South Secretar General Secretary Dissanepala's complaint, have prohibited entry until initial investigations are concluded. Damadhetha Mithipala, Acting Secretary, accused the police of obstructing the investigation.
-
-🟩
-
-The investigations into the disappearance of the files have been temporarily banned from entering the SLFP headquarters on Darley Road, Colombo.
-
-The police said that the Independence Party Headquarters is prohibited until the initial investigations are completed.
-
-The South Secretar General Secretary Dissanepala had lodged a complaint with the Maradana Police yesterday that a bowled files in the SLFP had disappeared.
-
-Acting Secretary, Damadhetha Mithipala said that the Maradana Police have commenced investigations into the Independence Party (6th).
-
-The acting Secretary-General also accused the police that the police prevention was also avoided by the police headquarters.
-
-◼️
-
-[Data](articles/8e1a58cb.json)
-
-[Extended Data](ext_articles/8e1a58cb.ext.json)
-
----
-
-### President ambitious surpassing India in AI development, emphasizes education reforms for next 75 years
-
-*2024-04-06 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98466/president-ambitious-surpassing-india-in-ai-development-emphasizes-education-reforms-for-next-75-years) · `en`
-
-President Ranil Wickremesinghe emphasized that the renewal of knowledge stands as a pivotal task within the realm of education, underscoring the trajectory towards a knowledge-based society for the nation’s advancement over the next 75 years.
-
-Acknowledging the burgeoning role of modern technology and knowledge as the new pillars of education, he warned that irrespective of economic prowess, failure to synchronize with global transformations would impede progress, the President’s Media Division (PMD) reported.
-
-These sentiments were voiced during his participation in the 2022 annual prize-giving ceremony at Sirimavo Bandaranaike Vidyalaya, Colombo, on Friday (05). The President’s arrival at the Vidyalaya was met with enthusiastic reception from students, as the Senior Western Band, Senior Eastern Band, and Dance Team escorted him to the event, the PMD added.
-
-...
-
-[Data](articles/2684074b.json)
-
-[Extended Data](ext_articles/2684074b.ext.json)
-
----
-
-### SL gained Katchatheevu Island at the cost of Wadge Bank to India
-
-*2024-04-06 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SL-gained-Katchatheevu-Island-at-the-cost-of-Wadge-Bank-to-India/155-280306) · `en`
-
-Colombo, April 06 (Daily Mirror) - In the midst of heated political debate over the Katchatheevu Island, Fisheries Minister Douglas Devananda set the stage for another debate when he said that India secured Wadge Bank which is located below Kanyakumari and a much bigger area with extensive sea resources while ceding the Katchatheevu to Sri Lanka in terms of the 1976 agreement.
-
-In India, the then Indira Gandhi government decided that when the IMBL (International Maritime Boundary Line) was drawn up, Katchatheevu would go to Sri Lanka and India in turn would get the Wedge Bank — a fish-rich area close to the coast of Kanyakumari.
-
-Referring to the matter, Minister Devananda told Daily Mirror that this is an area with rich marine resources including petroleum resources and India had secured in when drawing the maritime boundary line.
-
-“I thought I should disclose this hitherto unknown fact to people here,” he said.
-
-...
-
-[Data](articles/6e9ee61c.json)
-
-[Extended Data](ext_articles/6e9ee61c.ext.json)
-
----
-
-### SL gained Katchatheevu Island at the cost of Wadge Bank to India
-
-*2024-04-06 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-gained-Katchatheevu-Island-at-the-cost-of-Wadge-Bank-to-India/108-280306) · `en`
-
-Colombo, April 06 (Daily Mirror) - In the midst of heated political debate over the Katchatheevu Island, Fisheries Minister Douglas Devananda set the stage for another debate when he said that India secured Wadge Bank which is located below Kanyakumari and a much bigger area with extensive sea resources while ceding the Katchatheevu to Sri Lanka in terms of the 1976 agreement.
-
-In India, the then Indira Gandhi government decided that when the IMBL (International Maritime Boundary Line) was drawn up, Katchatheevu would go to Sri Lanka and India in turn would get the Wedge Bank — a fish-rich area close to the coast of Kanyakumari.
-
-Referring to the matter, Minister Devananda told Daily Mirror that this is an area with rich marine resources including petroleum resources and India had secured in when drawing the maritime boundary line.
-
-“I thought I should disclose this hitherto unknown fact to people here,” he said.
-
-...
-
-[Data](articles/ca15a6a1.json)
-
-[Extended Data](ext_articles/ca15a6a1.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 23:18:16**
+As of **2024-04-07 23:33:53**
 
 ## Newspaper Stats
 
-*Scraped **17,681** Articles*
+*Scraped **17,682** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 156
+colombotelegraphcom | 157
 bbccomsinhala | 184
 dbsjeyarajcom | 213
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,680 (100.0%) of 17,681 articles have been extended.
+17,681 (100.0%) of 17,682 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -538,6 +538,8 @@ The Excise Department requests the public to alert its Operations Room hotline 1
 
 [Data](articles/cf0cc5a9.json)
 
+[Extended Data](ext_articles/cf0cc5a9.ext.json)
+
 ---
 
 ### Zero Shadow DAY dawn
@@ -1031,6 +1033,18 @@ The reports indicate that the neighbors 'neighbors' neighbors have decided to su
 [Data](articles/92427069.json)
 
 [Extended Data](ext_articles/92427069.ext.json)
+
+---
+
+### Palestine & Ukraine: Two More Nails In Imperialism’s Coffin?
+
+*2024-04-07 16:56:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/palestine-ukraine-two-more-nails-in-imperialisms-coffin/) · `en`
+
+The Palestinians’ death toll in Gaza has risen beyond 32,000 men, women and children and counting. The Interim Ruling of the International Court of Justice highlighted the Palestinians’ plausible genocide by the Israeli State. That is likely an understatement, for the Director of the New York office of the UN High Commission for Human Rights resigned in disgust asserting Gaza is a “Textbook Case Of Genocide”. Further investigation by the UN’s Special Rapporteur determined (on 28 March) that Israel is committing genocide in Gaza; for her efforts to seek the truth she has received threats.
+
+...
+
+[Data](articles/c62e3965.json)
 
 ---
 
@@ -2317,29 +2331,5 @@ He said that the Sri Lanka PA is preparing to face the two national elections an
 [Data](articles/b772fe93.json)
 
 [Extended Data](ext_articles/b772fe93.ext.json)
-
----
-
-### Several varieties of seeds including chilli are exported
-
-*2024-04-07 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195387) · `si`
-
-Sri Lanka exports seeds, including chilli, eggplant, fishing, fisher, chilli, fisher, and maize, for the first time. High demand from foreign countries drives this initiative, supported by the private sector's technology and expertise.
-
-🟩
-
-For the first time, several types of seeds in Sri Lanka have been prepared to export.
-
-Accordingly, several species of chilli, eggplant, fishing, fisher, chilli, fisher and maize have been successfully tested and the seeds will be exported.
-
-A high demand for the seeds has come forward with many foreign countries.
-
-The private sector has been carried out by the private sector in the country with the highest technology and expert support of the seeds.
-
-◼️
-
-[Data](articles/f6728ed7.json)
-
-[Extended Data](ext_articles/f6728ed7.ext.json)
 
 ---

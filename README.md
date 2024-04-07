@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 18:33:46**
+As of **2024-04-07 18:52:30**
 
 ## Newspaper Stats
 
-*Scraped **17,643** Articles*
+*Scraped **17,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 978
 adalk | 1,478
 tamilmirrorlk | 2,081
 adaderanalk | 2,132
-virakesarilk | 2,575
+virakesarilk | 2,578
 dailymirrorlk | 2,696
 adaderanasinhalalk | 2,863
 
@@ -26,11 +26,67 @@ adaderanasinhalalk | 2,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,643 (100.0%) of 17,643 articles have been extended.
+17,643 (100.0%) of 17,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### எமது தரப்பில் ஜனாதிபதி வேட்பாளரை களமிறக்குவோம் - மஹிந்த ராஜபக்ஷ
+
+*2024-04-07 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180641) · `ta`
+
+ஜனாதிபதி தேர்தலில் எமது தரப்பின் சார்பில் சிறந்த வேட்பாளரை களமிறக்குவோம். ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்கு நாமல் ராஜபக்ஷவுக்கு இன்னும் காலமுள்ளது என முன்னாள ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்தார்.
+
+அநுராதபுரத்தில் இன்று ஞாயிற்றுக்கிழமை (07) மத வழிபாட்டில் ஈடுபட்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டாறு குறிப்பிட்டார்.
+
+கேள்வி – உங்களின் தாய் கட்சியான ஸ்ரீ லங்கா சுதந்திர கட்சியில் பிரச்சினைகள் தீவிரமடைந்துள்ளன. உங்களின் அரசியல் அந்த கட்சியின் இருந்து ஆரம்பமானது. ஆகவே கட்சியின் தற்போதைய நிலைமை தொடர்பில் உங்களின் நிலைப்பாடு என்ன?
+
+பதில் - ஸ்ரீ லங்கா சுதந்திரக் கட்சியில் பிரச்சினைகள் தீவிரமடைந்துள்ளன. பிரச்சினைகளுக்கு பேச்சுவார்த்தைகள் ஊடாக வெகுவிரைவில் தீர்வு காணப்பட வேண்டும்.
+
+கேள்வி - உங்களின் பங்காளிகள் ஐக்கிய மக்கள் சக்தியுடன் கூட்டணி அமைத்துள்ளார்களே... அது உங்களுக்கு சவாலாக அமையாதா?
+
+பதில் - சவால் ஏதுமில்லை. தேர்தல் இடம்பெறவுள்ள நிலையில் அரசியல் கூட்டணிகள் ஸ்தாபிக்கப்படுவது இயல்பானதே.
+
+...
+
+[Data](articles/69a14a8e.json)
+
+---
+
+### ஓய்வுபெற்ற படைவீரர்களின் நலன்கள், பிரச்சினைகள் தொடர்பில் பாதுகாப்பு இராஜாங்க அமைச்சர் கவனம்
+
+*2024-04-07 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180640) · `ta`
+
+சேவையிலிருந்து ஓய்வுபெற்ற மற்றும் மருத்துவ காரணங்களுக்காக ஓய்வுபெற்ற படைவீரர்களின் நலன்கள், அவர்கள் நிர்வாக ரீதியாக எதிர்கொள்ளும் சிக்கல்கள் தொடர்பாக பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் நேற்று (06) இராணுவ கஜபா படைப்பிரிவின் ரெஜிமென்ட் நிலையத்துக்கு சென்றபோது கேட்டறிந்தார்.
+
+இவ்வாறு ஓய்வுபெற்ற படைவீரர்கள் மற்றும் அவர்களின் உறவினர்கள் பங்குபற்றும் நிகழ்வொன்று வன்னி பாதுகாப்புப் படையினால் நேற்று இராணுவத்தின் கஜபா படைப்பிரிவின் ரெஜிமென்ட் நிலையத்தில் நடைபெற்றது.
+
+அப்போது அவர் ஓய்வுபெற்ற படைவீரர்களின் நலன் மற்றும் நிர்வாக ரீதியாக அவர்கள் எதிர்கொள்ளும் சிக்கல் நிலைகள் தொடர்பாக கேட்டறிந்து, அந்த பிரச்சினைகளை தீர்ப்பது தொடர்பில் கவனம் செலுத்துவதாக தெரிவித்திருந்தார்.
+
+மேற்படி நிகழ்வில் பிரதம அதிதியாக கலந்துகொள்ள வருகை தந்த பாதுகாப்பு இராஜாங்க அமைச்சரை வன்னி பாதுகாப்பு படை தளபதி மேஜர் ஜெனரல் தினேஷ் நாணயக்கார வரவேற்றார்.
+
+...
+
+[Data](articles/fe3f0ab3.json)
+
+---
+
+### இலங்கைக்கு பெரிய வெங்காயத்தை ஏற்றுமதி செய்ய இந்தியா தீர்மானம்
+
+*2024-04-07 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180646) · `ta`
+
+மோடி அரசின் 'அண்டை நாடுகளுக்கு முதலிடம்' என்ற வெளியுறவுக் கொள்கையின் கீழ், இலங்கைக்கு பெரிய வெங்காயத்தை ஏற்றுமதி செய்ய இந்தியா தீர்மானித்துள்ளதாக அந்நாட்டு ஊடகங்கள் செய்தி வௌியிட்டுள்ளன.
+
+இலங்கைக்கு ஆயிரக்கணக்கான மெட்ரிக் டொன் வெங்காயத்தை விநியோகிக்க இந்தியா திட்டமிட்டுள்ளதாக மேலும் அந்த செய்தியில் தெரிவிக்கப்பட்டுள்ளது.
+
+விலைவாசி உயர்வைக் கட்டுப்படுத்தவும், உள்நாட்டுச் சந்தையில் அதிக அளவில் வெங்காயம் கையிருப்பை வைக்கவும் நோக்கமாக கொண்டு  இந்திய அரசு வெங்காய ஏற்றுமதிக்கு தற்காலிக தடை விதித்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/612ae4d7.json)
+
+---
 
 ### 29 farmers in Vavuniya for the economic development of the villagers
 
@@ -2291,71 +2347,5 @@ Avurudu is traditionally the most looked forward to holiday for most Sri Lankans
 [Data](articles/84fa3703.json)
 
 [Extended Data](ext_articles/84fa3703.ext.json)
-
----
-
-### It is up to India to settle the issue of poaching in Sri Lankan waters
-
-*2024-04-07 03:18:00* · [`islandlk`](http://island.lk/it-is-up-to-india-to-settle-the-issue-of-poaching-in-sri-lankan-waters/) · `en`
-
-Kachchativu island when I visited it in 1974 was an uninhabited and desolate place occasionally visited by fishermen to dry their nets. A small Catholic shrine stood there for protection of fishers from storms and the sea.
-
-The Lankan newspaper in late 1960s published a photograph of what was described as a group of pilgrims from India visiting the island. Serious fishing started when Indian fishermen depleted stocks on their side of the boundary and switched to more lucrative poaching of prawns, trawling on the Sri Lankan side on the muddy bottom of the basin South of Kachchativu.
-
-When arrested by the SLN, Indian authorities exerted undue diplomatic and political pressure for the release of poachers and boats which are owned by influential people on Indian side. The Sri Lanka Navy effectively reduced poaching to zero but Indian political counter pressure even saw the overnight removal of the SLN commander then responsible for countering illegal fishing.
-
-...
-
-[Data](articles/c2d260c2.json)
-
-[Extended Data](ext_articles/c2d260c2.ext.json)
-
----
-
-### Model Political Party
-
-*2024-04-07 02:51:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-கட்சி-அமைப்பை-உருவாக்க-வேண்டும்/175-335680) · `ta`
-
-President Ranil Wickremesinghe advocates for a political party system to economically develop the country, not to create its economy. He criticizes traditional politics and calls for a change in the party system to meet the country's needs. He hopes for major parties to unite and focus on the country rather than parties.
-
-🟩
-
-President Ranil Wickremesinghe said that a political party system should be formed in the country to build the country economically, not to create the country's economy.
-
-The President made this statement at a meeting with the Anuradhapura District Attorneys yesterday. He further stated that
-
-There are people from various parties here. I am not here as the leader of the United National Party. I work for all of you as President. Now the time we thought we were traditionally is over. This embarrassing environment had to be confronted because of traditional politics. We have to get out of it.
-
-To change the party system according to the country's requirement. Cannot build the country at the discretion of party system. It was because it had to face many challenges in the past. No one is responsible for it. No one came forward to rule until the end.
-
-...
-
-[Data](articles/2a4d7821.json)
-
-[Extended Data](ext_articles/2a4d7821.ext.json)
-
----
-
-### President
-
-*2024-04-07 02:48:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தலைமையில்-தேசிய-புத்தரிசி-விழா/175-335679) · `ta`
-
-President Ranil Wickremesinghe advocates for a political party system to economically develop the country, not to create its economy. He emphasizes the need to move beyond traditional politics and adapt the party system to national needs. He highlights the challenges faced in the past and the lack of leadership until the end, suggesting a shift towards thinking about the country without focusing on parties.
-
-🟩
-
-President Ranil Wickremesinghe said that a political party system should be formed in the country to build the country economically, not to create the country's economy.
-
-The President made this statement at a meeting with the Anuradhapura District Attorneys yesterday. He further stated that
-
-There are people from various parties here. I am not here as the leader of the United National Party. I work for all of you as President. Now the time we thought we were traditionally is over. This embarrassing environment had to be confronted because of traditional politics. We have to get out of it.
-
-To change the party system according to the country's requirement. Cannot build the country at the discretion of party system. It was because it had to face many challenges in the past. No one is responsible for it. No one came forward to rule until the end.
-
-...
-
-[Data](articles/24c92190.json)
-
-[Extended Data](ext_articles/24c92190.ext.json)
 
 ---

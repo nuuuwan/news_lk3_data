@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 21:33:34**
+As of **2024-04-07 21:52:14**
 
 ## Newspaper Stats
 
-*Scraped **17,673** Articles*
+*Scraped **17,674** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 978
 adalk | 1,488
 tamilmirrorlk | 2,082
 adaderanalk | 2,134
-virakesarilk | 2,582
+virakesarilk | 2,583
 dailymirrorlk | 2,699
 adaderanasinhalalk | 2,869
 
@@ -26,23 +26,49 @@ adaderanasinhalalk | 2,869
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,672 (100.0%) of 17,673 articles have been extended.
+17,673 (100.0%) of 17,674 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### TV දෙරණ යූටියුබ් ග්‍රාහකයින් මිලියන 5 පසු කරයි
+### Tv Ada will pass 5 million UTUB subscribers
 
 *2024-04-07 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195409) · `si`
 
-ශ්‍රී ලංකා ඩිජිටල් අවකාශයේ අද්වීතිය වාර්තාවක් බිහිකිරීමට ටීවී දෙරණ යූටියුබ් නාලිකාව සමත් වී තිබේ.
+TV Ada reaches 5 million YouTube subscribers, marking a significant milestone in Sri Lanka's digital media landscape.
 
-ඒ මෙරට ප්‍රධාන මාධ්‍ය නාලිකා අතුරින් ප්‍රථම වරට මිලියන 5ක යූටියුබ් ග්‍රාහකයින්ගේ සීමාව පසුකරමිනි.
+🟩
+
+TV Derae Channel has been able to produce a report in Sri Lanka Digital space.
+
+The first time in the country's major media channels for the first time crossing the 5 million youtube subscribers.
 
 ◼️
 
 [Data](articles/edd1c7cb.json)
+
+[Extended Data](ext_articles/edd1c7cb.ext.json)
+
+---
+
+### டெல்ஹியை வீழ்த்தி முதலாவது வெற்றிப் புள்ளிகளை சம்பாதித்தது மும்பை
+
+*2024-04-07 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180650) · `ta`
+
+டெல்ஹி கெப்பிட்டல்ஸ் அணிக்கு எதிராக மும்பை வான்கடே விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (07) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 20ஆவது போட்டியில் டெல்ஹி கெப்பிட்டல்ஸை 26 ஓட்டங்களால் வீழ்த்திய மும்பை இண்டியன்ஸ் இந்த வருடம் முதலாவது வெற்றி புள்ளிகளை சம்பாதித்தது.
+
+ரோஹித் ஷர்மா, இஷான் கிஷான், அணித் தலைவர் ஹார்திக் பாண்டியா, டிம் டேவிட், ரொமாரியோ ஷெப்பர்ட் ஆகியோரின் அதிரடி துடுப்பாட்டங்களும் ஜெரால்ட் கொயெட்ஸி, ஜஸ்ப்ரிட் பும்ரா ஆகியோரின் துல்லியமான பந்துவீச்சுகளும் மும்பையின் முதலாவது வெற்றிக்கு வழிவகுத்தன.
+
+அதேவேளை, உபாதையிலிருந்து மீண்டுவந்து மும்பை அணியில் தனது முதலாவது போட்டியில் இம்ப்பெக்ட் வீரராக விளையாடிய சூரியகுமார் யாதவ் ஓட்டம் பெறாமல் ஆட்டம் இழந்தார். அது அவருக்கு பெரும் ஏமாற்றத்தைக் கொடுத்தது.
+
+இப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட மும்பை இண்டியன்ஸ் 20 ஓவர்களில் 5 விக்கெட்களை இழந்து 234 ஓட்டங்களைக் குவித்தது.
+
+ரோஹித் ஷர்மா, இஷான் கிஷான் ஆகிய இருவரும் 7 ஓவர்களில் 80 ஓட்டங்களைப் பகிர்ந்து ஸ்திரமான ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+
+...
+
+[Data](articles/0f682807.json)
 
 ---
 
@@ -1388,7 +1414,7 @@ Foreign media reports that such incidents were rarely occurring.
 
 *2024-04-07 13:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tomorrows-total-solar-eclipse-not-visible-to-Sri-Lanka/108-280322) · `en`
 
-Colombo, April 7 (Daily Mirror)- Though there are two lunar eclipses and two solar eclipses this year, Sri Lnakns will not be able to see any of them said Prof. Chandana Jayaratne, the Director of the Astronomy and Space Science Unit, Department of Physics, Colombo University, and the Chairman of the Arthur C. Clarke Institute for Modern Technologies.
+Colombo, April 7 (Daily Mirror)- Though there are two lunar eclipses and two solar eclipses this year, Sri Lankans will not be able to see any of them said Prof. Chandana Jayaratne, the Director of the Astronomy and Space Science Unit, Department of Physics, Colombo University, and the Chairman of the Arthur C. Clarke Institute for Modern Technologies.
 
 On 8 April 2024, there will be a total solar eclipse, a very famous eclipse in the world, and in particular the USA, to the extent that some schools in the USA will be closed on the eclipse day.
 
@@ -2325,31 +2351,5 @@ President Ranil Wickremesinghe added that the foreign loan repayment period is b
 [Data](articles/c6dda50b.json)
 
 [Extended Data](ext_articles/c6dda50b.ext.json)
-
----
-
-### Iran can make a response at any time - US
-
-*2024-04-07 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180615) · `ta`
-
-Iran prepares for potential attacks on US or Israeli embassies, following Israel's attack on Iran's Syrian embassy. US hopes for Iran's response and is discussing with Israel on the matter.
-
-🟩
-
-Reuters reports that Iran is preparing to confront it, considering that Iran can attack buildings in the Middle East, Israel's or US embassies.
-
-The United States hopes that Iran will launch a reply following Israel's last week's attack on Iran's Iran's embassy in Syria.
-
-He has confirmed that CNN has said that Iran may launch an attack in the coming days.
-
-Meanwhile, US President is holding telephone talks with the Israeli prime minister on the possibility of Iran's attack.
-
-Our groups continue to explore the issue, we support Israel's rights to protect itself from the threat, ”a US official said.
-
-◼️
-
-[Data](articles/72d30a6e.json)
-
-[Extended Data](ext_articles/72d30a6e.ext.json)
 
 ---

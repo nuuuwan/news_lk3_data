@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 15:51:14**
+As of **2024-04-07 16:03:46**
 
 ## Newspaper Stats
 
-*Scraped **17,626** Articles*
+*Scraped **17,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 2,079
 adaderanalk | 2,129
 virakesarilk | 2,570
 dailymirrorlk | 2,695
-adaderanasinhalalk | 2,857
+adaderanasinhalalk | 2,858
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,625 (100.0%) of 17,626 articles have been extended.
+17,626 (100.0%) of 17,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### මත්පැන් අලෙවිසැල් වසා තැබීම ගැන දැනුම්දීමක්
+
+*2024-04-07 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195397) · `si`
+
+අප්‍රේල් මස 13 වනදාට යෙදී ඇති අලුත් අවුරුදු උත්සවය නිමිත්තෙන් එළඹෙන 12 සහ 13 යන දෙදින විශේෂ අවසර ලත් ස්ථාන හැර අනෙකුත් සියලුම සිල්ලරට මත්පැන් විකිණීම සඳහා සුරාබදු බලපත්‍ර ලත් මත්පැන්හල් වසා තැබිය යුතු බවට සුරාබදු කොමසාරිස් ජනරාල්වරයා විසින් නියෝග කර ඇත.
+
+සංචාරක සංවර්ධන අධිකාරියේ අනුමැතිය ලත් තරු පන්ති තුනෙන් ඉහළ හෝටලවල නේවාසික සංචාරකයින් සඳහා සහ විශේෂ බුටික් විලා බලපත්‍ර ලත් ස්ථාන සඳහා එය අදාළ නොවේ.
+
+2024. 04. 23 වන දිනට යෙදී ඇති බක්පුර පසළොස්වක පෝය දිනයේදී බලපත්‍ර වර්ගීකරණයකින් තොරව දිවයින පුරා පිහිටි සිල්ලරට මත්පැන් විකිණීම සඳහා සුරාබදු බලපත්‍ර ලත් ස්ථාන සියල්ලම වසා තැබීමටද සුරාබදු කොමසාරිස් ජනරාල්වරයා විසින් නියෝග කර ඇත.
+
+මෙම කාලසීමාව තුළ සිදුවන සුරා අපරාධ, මත්ද්‍රව්‍ය අපරාධ සහ දුම්කොළ අපරාධ සම්බන්ධ පැමිණිලි, සුරාබදු දෙපාර්තමේන්තුවේ මෙහෙයුම් මැදිරිය හා සම්බන්ධිත අංක 1913 දුරකථන අංකය වෙත හෝ දිවයින පුරා පිහිටි සුරාබදු ස්ථාන සහ විශේෂ ඒකක වෙත ලබාදෙන මෙන් මහජනතාව දැනුවත් කෙරේ.
+
+◼️
+
+[Data](articles/89c5ef33.json)
+
+---
 
 ### Child killed
 
@@ -54,17 +72,23 @@ The injured child was admitted to Ikiniyagala Hospital. However, the hospital sp
 
 ---
 
-### செங்கலடி இலுப்படிச்சேனையில் வர்த்தக நிலையங்களை திறந்துவைத்தார் கிழக்கு ஆளுநர் செந்தில் தொண்டமான்!
+### Eastern Governor Senthil Thondaman inaugurates trade centers at Chengaladi Ilupadichenai
 
 *2024-04-07 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180627) · `ta`
 
-செங்கலடி இலுப்படிச்சேனையில் உள்ளூர் தொழில் முயற்சியாளர்களை மேம்படுத்தும் நோக்கில் வர்த்தக நிலையங்களை கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் திறந்துவைத்தார்.
+Eastern Governor Senthil Thondaman inaugurates trade centers in Chengaladi Ilupadichenai, aiming to support local entrepreneurs. The centers, costing Rs 22 million, are now open to the public.
 
-22 மில்லியன் ரூபாய் செலவில் நிர்மாணிக்கப்பட்ட இந்த கிராமிய வர்த்தக நிலையங்கள் மக்கள் பாவனைக்காக இதன்போது கையளிக்கப்பட்டது.
+🟩
+
+Governor of the Eastern Province, Senthil Thondaman, inaugurated the trade centers to promote local entrepreneurs in Chengaladi Ilupadichenai.
+
+The rural businesses, which were constructed at a cost of Rs 22 million, were handed over to the public for use.
 
 ◼️
 
 [Data](articles/e41233a6.json)
+
+[Extended Data](ext_articles/e41233a6.ext.json)
 
 ---
 
@@ -605,6 +629,12 @@ Police said two persons were injured and hospitalized was hospitalized.
 Two individuals have been injured and hospitalised in a shooting incident that took place at the Thalgahawila area in Horana, the police said.
 
 The two individuals, who were injured in the shooting, have succumbed to their injuries after being hospitalized, according to police.
+
+The Police Media Division stated that an unidentified group of individuals who arrived in a car had opened fire at the duo, who were travelling in a three-wheeler at the Malos Ela Junction in Moragahahena, Horana.
+
+The deceased individuals have been identified as residents of Piliyandala and Pannipitiya areas and aged 50 and 52.
+
+The motive behind the shooting has not been uncovered as of yet. Moragahahena Police is conducting investigations in order to arrest the suspects.
 
 ◼️
 
@@ -2305,21 +2335,5 @@ Though conscientious about records, accounts and compliance with regulations, He
 [Data](articles/dc325868.json)
 
 [Extended Data](ext_articles/dc325868.ext.json)
-
----
-
-### Sri Lankan gold smuggling attempt foiled near Vedhalai Coast
-
-*2024-04-06 20:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-gold-smuggling-attempt-foiled-near-Vedhalai-Coast/108-280309) · `en`
-
-Colombo, April 6 (Daily Mirror) - In a coordinated effort between the Indian Coast Guard (ICG), Customs Preventive Unit (CPU) Ramanathapuram, and the Directorate of Revenue Intelligence (DRI), a gold smuggling operation originating from Sri Lanka was intercepted near the Vedhalai coast in Mandapam, Tamil Nadu.
-
-The DRI had received specific intelligence indicating the smuggling of foreign-origin gold into India via the Vedhalai coast, orchestrated by a criminal group using fishing boats. Surveillance was intensified by DRI and ICG personnel in the Vedhalai Coastal area on the night of April 3-4. In the early hours of April 4, a suspicious boat was identified at mid-sea and pursued by an ICG vessel until interception.
-
-...
-
-[Data](articles/c17f6ed3.json)
-
-[Extended Data](ext_articles/c17f6ed3.ext.json)
 
 ---

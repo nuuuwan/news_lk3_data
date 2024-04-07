@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 20:33:49**
+As of **2024-04-07 20:51:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,867
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,660 (100.0%) of 17,668 articles have been extended.
+17,668 (100.0%) of 17,668 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,29 +50,41 @@ Meanwhile, the Acting General Secretary of SLFP Dushmantha Mithrapala lodged a c
 
 [Data](articles/38afa9d5.json)
 
+[Extended Data](ext_articles/38afa9d5.ext.json)
+
 ---
 
-### මුන්දලම කලපුවේ මසුන් ලක්ෂ ගාණක් මිය යයි
+### Hundreds of thousands of fish die in Mundalama lagoon
 
 *2024-04-07 19:56:00* · [`adalk`](https://www.ada.lk/breaking_news/මුන්දලම-කලපුවේ-මසුන්-ලක්ෂ-ගාණක්-මිය-යයි/11-408993) · `si`
 
-මුන්දලම කලපුවේ මියගිය මසුන් විශාල ප්‍රමාණයක් දක්නට ඇතැයි මුන්දලම ධීවරයෝ පවසති.
+Mundalama lagoon suffers massive fish death, affecting fishermen's livelihood. The Mundala St. James Fisheries Society reports the issue from the 6th, citing a lack of small fish. Over 1,000 fishermen are impacted, unable to sell dead fish. This follows last year's similar incident, with fishermen unable to return for years. The Assistant Fisheries Director IMG is conducting an investigation.
 
-ඉකුත් 06 වැනිදා දහවල් කාලයේ සිට මෙම තත්ත්වය දකින්නට ඇති බව මුන්දලම ශාන්ත ජේමිස් ධීවර සමිතියේ සභාපති මර්තීණු ප්‍රනාන්දු මහතා පැවසීය.
+🟩
 
-මිය ගිය ලොකු කුඩා මසුන් ලක්ෂ ගණනක් කිලෝ මීටර් 03 ක් පමණ දුරකට කලපු තීරයට ද ගොඩ ගසා ඇති  බවත්,වෙරළට ගොඩ නොගැසූ  මිය ගිය මසුන් විශාල ප්‍රමාණයක් කලපුව තුළ සිටින බවත් එසේම 06 වැනිදා රාත්‍රීයේ එළන ලද දැල් වලට එම මාළු පැටලී සිටින බවත් ධීවරයෝ කියති.
+Mundala fishermen say there are many dead fish in Mundalama lagoon.
 
-මුන්දලම කලපුව භාවිතා කරමින් 1000 කට අධික ධීවරයින් පිරිසක්ද,ඒ ආශ්‍රිත රැකියා කරන විශාල ප්‍රමාණයක්ද සිටිති.
+Mundalama St. James Fisheries Society, Mundalama, said that this was seen from the 6th.
 
-දැල් වලට පැටලී ඇති මාළු මිය ගොස් තිබෙන බැවින් එම සතුන් අලෙවි කිරීමට නොහැකි බවද,වෙරළට ගොඩ ගසා ඇති මසුන් කුණුවීමට පටන් ගෙන ඇති නිසා විශාල පාරිසරික හානියක් සිදු වෙමින් පවතින බවද ධීවරයින් සදහන් කරති.
+Fisheries say that the lack of large small fish has also been piled up in the lack of large small fish.
 
-පසුගිය වසරේද මේ ආකායට මුන්දලම කලපුව තුළ මසුන් මිය යාමේ සිද්ධියක් වාර්තා වී ඇති බවද කියති.
+There are also a large number of fishermen and more than 1,000 fishermen.
 
-කුඩා මසුන් මිය යාම නිසා වසර කීපයකට මුන්දලම කලපුවේ නැවත රැකියාව කිරීමට තමන්ට නොහැකි වන බවද ඔවුන් කියා සිටී.
+The fishermen state over the fishermen are not able to sell the animals because the fish is deceased and the fish that have been demolished.
 
-...
+Last year, the Akii has reported a case of the death of fish in the Mundalama lagoon.
+
+They say they cannot work again in the Mundalama lagoon for a few years due to the death of small fish.
+
+We are also Assistant Fisheries Director IMG. Inquired from Mr. Sarathcherandanayake.
+
+He said he was aware of the incident and to conduct a formal investigation into the matter.
+
+◼️
 
 [Data](articles/f12cc333.json)
+
+[Extended Data](ext_articles/f12cc333.ext.json)
 
 ---
 
@@ -142,19 +154,29 @@ President Ranil Wickremesinghe said that a new committee will be appointed to ma
 
 ---
 
-### රටේ නායකත්වයට ආවේ පරපුරක උරුමයද සමගයි
+### The leadership of the country came to the lead
 
 *2024-04-07 19:42:47* · [`adalk`](https://www.ada.lk/breaking_news/රටේ-නායකත්වයට-ආවේ-පරපුරක-උරුමයද-සමගයි/11-408991) · `si`
 
-ජේ.ආර්. ජයවර්ධන ජනාධිපතිවරයා සමඟ කටයුතු කරමින්, රණසිංහ ප්‍රේමදාස ජනාධිපතිවරයා යටතේ පක්ෂය ආරක්ෂා කරමින්, ඩී.බී. විජේතුංග ජනාධිපතිවරයා සමඟ ද කටයුතු කර එක්සත් ජාතික පක්ෂයෙන්ම අග්‍රාමාත්‍ය ධූරයට පත්ව, රටේ නායකත්වය කරා තමා පැමිණියේ එක්සත් ජාතික පක්ෂයේ පරපුරක උරුමය සමඟ බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe addresses UNP's challenges, emphasizing the party's economic recovery efforts and unity. He criticizes the party's internal divisions and external opposition, highlighting the UNP's role in the country's economic crisis and its commitment to improving the economy.
 
-සජිත් ප්‍රේමදාස මහතා එක්සත් ජාතික පක්ෂය දෙකඩ කර සමගි ජන බලවේගය ගොඩනැඟූ බවත්, ඒ පිළිබඳ තමන් කණගාටු වන්නේ එතුමාගේ පියාගේ පාලන සමයේ දී පක්ෂය කැඩීයාමට ගිය අවස්ථාවේ පක්ෂය ආරක්ෂා කර දුන්නේ තමන් වීම නිසා බවත් ජනාධිපතිවරයා කියා සිටියේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මහනුවර ජනාධිපති මන්දිරයේදී අද (07) පැවති එක්සත් ජාතික පක්ෂ ක්‍රියාකාරී හමුව අමතමිනි.
+JR. Jayewardene deals with the President and protect the party under the President of Ranasinghe Premadasa, DB. President Ranil Wickremesinghe said he came to the leadership of Wijetunga and headed the Prime Minister and headed the country with the inheritance of the UNP.
+
+The President said that Sajith Premadasa built the UNP and built the UNP to build the United National Party.
+
+President Ranil Wickremesinghe addressed the UNP action at the President's House in Kandy today (07).
+
+The President, who pointed out the UNP today, there is no policy policies in the UNP today, and the UNP's policies in the UNP today, the UNP is divided into the UNP, but also in the UNP today.He pointed out that more than the journey, he said.
+
+The President has shown that the UNP, who has left the Prime Minister today, is not a policy, but that the United National Party has not been politics today, that the UNP has not been politics today.He declared that the economy of the country was to improve.
 
 ...
 
 [Data](articles/be6c4a72.json)
+
+[Extended Data](ext_articles/be6c4a72.ext.json)
 
 ---
 
@@ -402,65 +424,93 @@ It is reported that the members of the Sri Lanka Freedom Party (SLFP), President
 
 ---
 
-### திருமலையில் தமிழர் விடுதலைக் கூட்டணியின் மாநில மாநாடு
+### State Conference of the Liberation Tigers of Tamil Eelam (LTTE) in Tirumala
 
 *2024-04-07 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/180647) · `ta`
 
-திருகோணமலை மாவட்டத்தின் தமிழர் விடுதலைக் கூட்டணியின் மாநில மாநாடு ஞாயிற்றுக்கிழமை (07) திருகோணமலை நகர சபை மண்டபத்தில் இடம்பெற்றது.
+The State Conference of the Liberation Tigers of Tamil Eelam (LTTE) in Tirumala was chaired by Ananda Sankari, attended by over 300 representatives and supporters.
 
-குறித்த மாநாடானது தமிழர் விடுதலைக் கூட்டணியின் தலைவர் வீ. ஆனந்த சங்கரி தலைமையில் இடம்பெற்றது.
+🟩
 
-இதில் சுமார் 300 க்கும் மேற்பட்ட கட்சியின் பிரதிநிதிகள், ஆதரவாளர்கள் என பலர் கலந்து கொண்டனர்.
+The State Conference of the Tamil Liberation Alliance of the Trincomalee District was held on Sunday (07) at the Trincomalee Urban Council Hall.
+
+The conference is the leader of the Liberation Tigers of Tamil Eelam (LTTE). Ananda Sankari was chaired by.
+
+More than 300 representatives and supporters were present.
 
 ◼️
 
 [Data](articles/b46fdbce.json)
 
+[Extended Data](ext_articles/b46fdbce.ext.json)
+
 ---
 
-### எவ்வாறான சவால்கள் வந்தாலும் ஸ்ரீ.சு.கட்சி முன் செல்லும் - மைத்திரி
+### Whatever the challenges, the SLFP will go before-Maithri
 
 *2024-04-07 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180645) · `ta`
 
-ஸ்ரீலங்கா சுதந்திர கட்சி எதிர்கொண்டுள்ள பிரச்சினைகளை தீர்த்துக்கொண்டு எதிர்வரும் தேர்தலுக்கு முகம்கொடுக்க கூட்டணி அமைக்கும் நடவடிக்கையை முன்னெடுப்போம். எவ்வாறான சவால்களை ஏற்படுத்தினாலும் அதனை முறியடித்துக்கொண்டு முன்னுக்கு செல்லும் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்தார்.
+The SLFP, despite challenges, will form a coalition for the upcoming election. Former President Maithripala Sirisena vows to proceed despite facing legal issues, including a lawsuit from the party's secretary and an interim injunction from the court. The party aims for a non-partial verdict and unity.
 
-கடுவளையில் இடம்பெற்ற ஸ்ரீலங்கா சுதந்தர கட்சியின் மாவட்ட சம்மேளனத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-ஸ்ரீலங்கா சுதந்திர கட்சி வரலாற்றில் பல தடவைகள் பல்வேறு நெருக்கடிகளை எதிர்கொண்டிருந்தது. அப்போது எமக்கு ஏற்பட்ட சவால்களை முறியடித்துக்கொண்டு கட்சியை முன்னுக்கு கொண்டு செல்ல நாங்கள் நடவடிக்கை எடுத்திருக்கிறோம். அதேபோன்று தற்போதும் கட்சிக்கு எதிராக பல்வேறு சவால்கள், எதிரான நடவடிக்கைகள் ஏற்படுத்தப்பட்டிருக்கின்றன. இந்த சவால்களை வெற்றிகொள்ள நாங்கள் நடவடிக்கை எடுப்போம்.
+We will take steps to set up a coalition to resolve the issues facing the Sri Lanka Freedom Party and face the upcoming election. Former President Maithripala Sirisena said that whatever the challenges were made, it would go ahead.
+
+He said this while addressing the District Federation of the Sri Lanka Freedom Party in Kaduwala.
+
+The Sri Lanka Freedom Party had faced various crises several times in history. We have taken steps to overcome the challenges that we have at the time. Similarly, there are still various challenges and against the party. We will take action to win these challenges.
+
+The party's secretary in particular has sued me based on me.. Similarly, former President Chandrika Kumaratunga has gone to court and deleted me from the post of party leader. The court has imposed an interim injunction until the 18th.
 
 ...
 
 [Data](articles/99738249.json)
 
+[Extended Data](ext_articles/99738249.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தலில் மைத்திரிபால சிறிசேன அனைவருக்கும் சவாலாக அமைவார் -    சரத் ஏக்கநாயக்க
+### Maithripala Sirisena will challenge all - Sarath Ekanayake in the presidential election
 
 *2024-04-07 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/180644) · `ta`
 
-ஜனாதிபதி தேர்தல் அறிவிக்கப்பட்டால் எதிர்வரும் மே முதலாம் திகதி ஸ்ரீலங்கா சுதந்திர கட்சியின் நிலைப்பாட்டை வெளிப்படுத்துவோம். மைத்திரிபால சிறிசேனவே அனைவருக்கும் சவாலாக இருக்கப்போகிறார் என மத்திய மாகாண முன்னாள் முதலமைச்சர் சரத் ஏக்கநாயக்க தெரிவித்தார்.
+Maithripala Sirisena challenges Sarath Ekanayake in presidential election. SLFP's stance on election announced May 1st. Ekanayake, former Chief Minister, highlights Sirisena's challenge. Amid political crisis, major parties form coalitions, including SLFP.
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தலைமையில் பெல்லன்வில விகாரையில் இடம்பெற்ற மத வழிபாட்டு நிகழ்வின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-ஸ்ரீலங்கா சுதந்திர கட்சி இந்த நாட்டில் இருக்கும் பழமை வாய்ந்த கட்சி. நாடு அரசியல் ரீதியில் தற்போது நெருக்கடி நிலையில் இருப்பதால், எதிர்வரும் ஜனாதிபதி தேர்தல் அரசியல் கட்சிகளுக்கு பாரிய சவாலாக அமையும். அதனால் பிரதான கட்சிகள் தற்போது கூட்டணி அமைக்கும் நடவடிக்கையில் தீவிரமாக ஈடுபட்டு வருகின்றன. அந்த வகையில் ஸ்ரீலங்கா சுதந்திர கட்சியுடன் இணைந்து கூட்டணி அமைக்க பல தரப்பினர முன்வந்திருக்கின்றனர்.
+If the presidential election is announced, we will reveal the SLFP's position on May 1st. Former Chief Minister of the Central Province Sarath Ekanayake said that Maithripala Sirisena is going to be a challenge for all.
+
+He was speaking to the media after a religious ceremony held at the Bellanwila Vihara under the leadership of former President Maithripala Sirisena.
+
+The Sri Lanka Freedom Party is the oldest party in this country. With the country's politically crisis, the upcoming presidential election will be a major challenge to political parties. So the major parties are currently actively engaged in the formation of coalition. In that way, many parties have come forward to form an alliance with the Sri Lanka Freedom Party.
 
 ...
 
 [Data](articles/ad268a7b.json)
 
+[Extended Data](ext_articles/ad268a7b.ext.json)
+
 ---
 
-### நாட்டில் விலைவாசி அதிகரிக்க காரணம் இரு இராஜாங்க அமைச்சர்கள் - சாணக்கியன்
+### Two diplomatic ministers - Chanakyan
 
 *2024-04-07 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180643) · `ta`
 
-விலைவாசி அதிகரிப்பதற்கு மட்டக்களப்பு மாவட்டத்திலுள்ள மக்களும்தான் காரணம். விலைவாசியை குறைப்பதற்காக நாங்கள் வரவு செலவுத் திட்டத்துக்கு எதிராகத்தான் வாக்களிக்கின்றோம். மாறாக எமது மாவட்டத்திலுள்ள இரு இராஜாங்க அமைச்சர்களும், வரவு செலவுத் திட்டத்துக்கு ஆதரவாக இரு கைகளையும் உயர்த்தி விலைவாசி அதிகரித்தாலும் பரவாயில்லை எனத் தெரிவித்து, ஆதரவு தெரிவித்து வருகின்றனர் என இலங்கை தமிழ் அரசுக் கட்சியின் மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன் தெரிவித்துள்ளார்.
+Batticaloa district residents vote against budget to reduce prices, contrasting with two diplomatic ministers' support. The increase in milk, gas, electricity, and water fares is attributed to former President Gotabhaya Rajapakse or current President Ranil Wickremesinghe. The situation is linked to local voting patterns, with the ministers' support influenced by the district's political leanings.
 
-இலங்கை தமிழரசுக் கட்சியின் மட்டக்களப்பு மாவட்டத்தின் மண்முனை தென் எருவில் பற்று பிரதேசத்துக்கான மகளிர் அணி புனரமைப்புக் கூட்டம் மண்முனை தென் எருவில் பற்று பிரதேச சபையின் முன்னாள் உப தவிசாளர் க.றஞ்சினியின் தலைமையில் ஞாயிற்றுக்கிழமை (07) களுவாஞ்சிக்குடியில் அமைந்துள்ள பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியனின் காரியாலயத்தில் நடைபெற்றது.
+🟩
+
+The people in the Batticaloa district are responsible for the increase in prices. We vote against the budget to reduce prices. On the contrary, the two diplomatic ministers in our district are raising their hands in support of the budget, saying that it is not okay to increase the price, "said Batticaloa district parliamentarian of the Sri Lanka Tamil State Party.
+
+The Rehabilitation Meeting of the Women's Team Reconstruction of Manmunai South Eruvil in the Batticaloa District of the Sri Lanka Tamil National Party was held at the office of Parliament Member R. Sanakkan, located in Kaluwanchikudi on Sunday (07).
+
+Arumugam Rathinswari was elected as the leader of the Sri Lanka Tamil State Party in South Eruvil, and the Secretary of the Executive Committee was elected.
 
 ...
 
 [Data](articles/66f659a8.json)
+
+[Extended Data](ext_articles/66f659a8.ext.json)
 
 ---
 
@@ -1075,6 +1125,8 @@ What on earth is happening? An unprecedented election victory for Vladimir Putin
 ...
 
 [Data](articles/597616cf.json)
+
+[Extended Data](ext_articles/597616cf.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 15:03:20**
+As of **2024-04-07 15:18:21**
 
 ## Newspaper Stats
 
-*Scraped **17,619** Articles*
+*Scraped **17,622** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ economynextcom | 978
 adalk | 1,478
 tamilmirrorlk | 2,077
 adaderanalk | 2,128
-virakesarilk | 2,567
-dailymirrorlk | 2,694
+virakesarilk | 2,569
+dailymirrorlk | 2,695
 adaderanasinhalalk | 2,857
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,618 (100.0%) of 17,619 articles have been extended.
+17,619 (100.0%) of 17,622 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### ஹொரணையில் துப்பாக்கிச் சூட்டுக்கு இலக்கான இருவர் மருத்துவமனையில் உயிரிழந்தனர்!
+
+*2024-04-07 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/180633) · `ta`
+
+ஹொரணையில் இன்று ஞாயிற்றுக்கிழமை (07) இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் இருவர் உயிரிழந்துள்ளனர்.
+
+ஹொரணை - தல்கஹவில பிரதேசத்தில் நடத்தப்பட்ட துப்பாக்கிச் சூட்டுக்கு இலக்கான இருவர் காயமடைந்து  வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையிலேயே அந்த இருவரும் சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/9383fd93.json)
+
+---
+
+### New Zealand tightens visa rules amid near record migration
+
+*2024-04-07 14:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/New-Zealand-tightens-visa-rules-amid-near-record-migration/107-280324) · `en`
+
+April 7 (Reuters) - New Zealand said on Sunday that it was making immediate changes to its employment visa program after a near record migration last year which it said was "unsustainable".
+
+The changes include measures such as introducing English language requirement for low skilled jobs and setting a minimum skills and work experience threshold for most employer work visas. The maximum continuous stay for most low skilled roles will also be reduced to three years from five years.
+
+"The Government is focused on attracting and retaining the highly skilled migrants such as secondary teachers, where there is a skill shortage," Immigration Minister Erica Stanford said in a statement.
+
+"At the same time we need to ensure that New Zealanders are put to the front of the line for jobs where there are no skills shortages," she said.
+
+Last year, a near record 173,000 people migrated to New Zealand, the statement said.
+
+...
+
+[Data](articles/6af37709.json)
+
+---
 
 ### Two killed in Moragahahena
 
@@ -54,15 +88,31 @@ Investigations have revealed that the shooting had been carried out by a white c
 
 ---
 
+### ஐந்து நட்சத்திர சொகுசு பூட்டிக் ஹோட்டலான சன் சியாம் பாசிக்குடா
+
+*2024-04-07 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180622) · `ta`
+
+கிழக்குக் கடற்கரையின் "மிகப் பெரிய சாகசம்" என சிலாகிக்கப்படும் ,ஐந்து நட்சத்திர சொகுசு பூட்டிக் ஹோட்டலான சன் சியாம் பாசிக்குடா, தனது கீர்த்தியை மேலும் மேம்படுத்தும் நோக்கில் ஆர்வமுள்ள பயணிகளுக்கு புதியதோர் பரிமாணத்தில் தனது  கதவுகளை மீண்டும் திறந்துள்ளது.
+
+ஓஷன் பெவிலியன், கார்டன் பெவிலியன், குளத்துடன் கூடிய கார்டன் பெவிலியன், குளத்துடன் கூடிய இரண்டு படுக்கையறை கார்டன் பீச் பெவிலியன் ஆகியவை உள்ளடங்கலாக  34 அறைத்தொகுதிகளுடன் 4 வகையான கடற்கரை வில்லாக்கள் உள்ளன. ஏராளமான பொழுதுபோக்கு அம்சங்கள், சுவையான சமையல் மகிழ்வுகள் ஆகியவற்றுடன் பிரமிக்கத்தக்க  காட்சிகள் போன்ற  சகல  அம்சங்களும்  ஒருங்கே  அமையப்பெற்ற சன் சியாம் பாசிக்குடா தனியாகவோ  அல்லது  குழுவாகவோ  பயணிப்பவர்களுக்கு ஒரு மிகச்  சிறந்த   தங்குமிடமாகும். இது நீங்கள் தவறவிடக்   கூடாத  ஒரு கலாச்சார அனுபவம் என்பதில்  ஐயமில்லை.
+
+◼️
+
+[Data](articles/e3c827dd.json)
+
+---
+
 ### Two killed in shooting in Moragahahena
 
 *2024-04-07 14:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-killed-in-shooting-in-Moragahahena/108-280323) · `en`
 
 Horana, April 7 (Daily Mirror) - Two individuals who were traveling in a three-wheeler were killed in a shooting by a group that arrived from a car at Thalgahawila, Moragahahena.
 
-Police said the victims died upon admission to the hospital.
+Police said the victims died upon admission to the Horana Hospital.
 
 According to police investigations, the shooting was carried out by a group that arrived in a white car.
+
+The deceased were identified as 50 and 52 years old, residents of Piliyandala and Pannipitiya.
 
 Investigations are underway to ascertain the motive behind the shooting and to arrest the suspects involved.
 
@@ -214,21 +264,31 @@ Whike expressing his opinion, the Minister said although seeds of various crops 
 
 ---
 
-### මහනුවර හරිත නගරයක් කරන්න සාකච්ඡා
+### Contents to make a green city in Kandy
 
 *2024-04-07 13:44:26* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-හරිත-නගරයක්-කරන්න-සාකච්ඡා/11-408982) · `si`
 
-කුණ්ඩසාලේ, කටුගස්තොට, පේරාදෙණිය සහ තැන්නේකුඹුර ඇතුලු උප නගර කිහිපයක් සංවර්ධනය කිරීම සම්බන්ධයෙන් ද සාකච්ඡා කර ඇති බවත් රුපියල් කෝටි දෙදහසක් පමණ මුදලක් ඒ සඳහා අවශ්‍ය වන බවත් එම අතිරේක මූල්‍ය ප්‍රතිපාදන ලබා ගැනීම පිළිබඳව ලෝක බැංකුව සමඟ ඉදිරියේදී සාකච්ඡා කරන බව ප්‍රවාහන, මහා මාර්ග හා ජනමාධ්‍ය අමාත්‍ය බන්දුල ගුණවර්ධන මහතා සඳහන් කළේය.
+Mr. Bandula Gunawardena announced plans to make Kandy a green city, focusing on the Cargo Model Transport Center. The project, costing around two thousand crores, will be discussed with the World Bank. The center aims to implement green town concepts within three years, with no involvement of new journalists in the medium level costs.
 
-මහනුවර නගරයේ ඉදි කෙරමින් පවතින බහුවිධි මාදිලි ප්‍රවාහන මධ්‍යස්ථානයේ සංවර්ධන කටයුතු පිළිබදව නිරීක්ෂණය සහ එහි ප්‍රගතිය සමාලෝචනය සම්බන්ධයෙන් පසුගියදා (06) මහනුවර ගුඩ්ෂෙඩ් පර්යන්තයේදී පැවැති සාකච්ඡාවකින් පසු මාධ්‍ය හමුවේ අදහස් දක්වමින් ඒ මහතා මේ බව කීවේය.
+🟩
 
-හරිත නගරයක් බවට මහනුවර පත් කිරීම සඳහා ලෝක බැංකුවට යෝජනාවක් ඉදිරිපත් කරන බවත්
+Around two thousand crores in Kundala, Katugastota, Peradeniya and Galankumbura and that the World Bank will be discussed with the World Bank in advance.Mr. Bandula Gunawardena said.
 
-යෝජිත මහනුවර බහුවිධි ප්‍රවාහන මධ්‍යස්ථානයට සමගාමීව ඉදිරි තෙවර්ෂය තුළදී හරිත නගර සංකල්පය කරා යොමු වන බව අමාත්‍යවරයා වැඩිදුරටත ප්‍රකාශ කළේය
+He was speaking at the Prime Minister in Kandy and review the development of the Cargo Model Transport Center and review of its progress.
 
-...
+The proposal to be presented to the World Bank to appoint Kandy as a green city
+
+The Minister said that the proposed Kandy Transport Center is focused on the concept of the green town concept within the next three years.
+
+The Minister said that although the new journalist was not involved in the new medium level, which was not involved in the cost of Rs.
+
+Minister Bandula Gunawardena further stated that it has been allocated to Kandy and has proposed to Kandy and has proposed to Kandy.
+
+◼️
 
 [Data](articles/4729f88c.json)
+
+[Extended Data](ext_articles/4729f88c.ext.json)
 
 ---
 
@@ -2257,75 +2317,5 @@ China was not mentioned by name in the statement, but the four countries reaffir
 [Data](articles/e46a84f8.json)
 
 [Extended Data](ext_articles/e46a84f8.ext.json)
-
----
-
-### Old man dies in bus accident
-
-*2024-04-06 19:10:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பஸ்-விபத்தில்-முதியவர்-உயிரிழப்பு/73-335661) · `ta`
-
-A 72-year-old man died in a bus accident on the Akkaraipattu-Kalmunai road. The bus driver has been arrested.
-
-🟩
-
-Nindavur police said that one person was killed and a bus driver had been arrested when a bus and motorcycle collided with a bus and motorcycle in the Akkaraipattu - Kalmunai main road.
-
-The deceased is the 72 -year -old Ahmed Lepp Meeraleppe from Nintavur 5th Division
-
-A private bus traveling from Pottuvil to Kalmunai crashed into the same direction near the Nintavur Mattupalayam junction and died on the spot.
-
-The body of the deceased has been handed over to the Nintavur Hospital for autopsy and the bus driver has been arrested, police said.
-
-Further investigations are being carried out by Nintavur Traffic Police. Remble
-
-◼️
-
-[Data](articles/bef3c0b6.json)
-
-[Extended Data](ext_articles/bef3c0b6.ext.json)
-
----
-
-### Consultive - Police announced
-
-*2024-04-06 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195371) · `si`
-
-The police warned the public about fake cash dealers during the Sinhala and Hindu New Year festival, advising on safe picnic practices, including checking drivers' sobriety and adherence to road laws.
-
-🟩
-
-The police informed the public that the fake cash racketeers including the fake cash dealers, including the fake cash dealers, should be aware of the businessmen.
-
-The people are working to buy different goods from the Sinhala and Hindu New Year festival, police said.
-
-The Police Media Spokesperson also explained how to act on picnics in the festive season.
-
-"When the customs perform the rituals, many people visit their relatives. Going in the villages. Going to see your friend friend. Various trips. Picnics go this holiday period. There are several important activities to pay special attention. Travel vehicles can be a common vehicle to be private vehicles. If a personal vehicle, is the driver who runs your vehicle drink alcohol?Traveling over fast?And focus on how to break road laws. We have employed in duty on duty.. If this person is drinking alcohol, you have the right to resist the road rules. If there is a matter of today, make the 1969 notifications. "
-
-◼️
-
-[Data](articles/f0d61407.json)
-
-[Extended Data](ext_articles/f0d61407.ext.json)
-
----
-
-### Top ADB official, Minister Kanchana discuss regional power cooperation
-
-*2024-04-06 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98478/top-adb-official-minister-kanchana-discuss-regional-power-cooperation) · `en`
-
-Takeo Konishi, the Director General of South Asia Department of the Asian Development Bank (ADB) has called on Sri Lanka’s Minister of Power & Energy Kanchana Wijesekera.
-
-During the meeting, the progress of electricity sector reforms, policy loans to be extended, and ongoing programs with ADB funding including the hydropower plant in Moragolla were taken up for discussion.
-
-In addition, the renewable energy programs to be restructured, regional power cooperation, new finance schemes and grants for rooftop solar panels for small- and medium-sized enterprises (SMEs) and low-income groups were also discussed at length.
-
-In attendance were ADB’s Country Director Takafumi Kadono and officials of the ministry, Ceylon Electricity Board (CEB), and ADB.
-
-◼️
-
-[Data](articles/50f71545.json)
-
-[Extended Data](ext_articles/50f71545.ext.json)
 
 ---

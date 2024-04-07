@@ -1,36 +1,56 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 08:34:48**
+As of **2024-04-07 08:51:21**
 
 ## Newspaper Stats
 
-*Scraped **17,552** Articles*
+*Scraped **17,555** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 154
-bbccomsinhala | 183
+bbccomsinhala | 184
 dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 958
 islandlk | 968
 economynextcom | 975
-adalk | 1,468
+adalk | 1,469
 tamilmirrorlk | 2,068
 adaderanalk | 2,120
 virakesarilk | 2,555
 dailymirrorlk | 2,683
-adaderanasinhalalk | 2,844
+adaderanasinhalalk | 2,845
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,549 (100.0%) of 17,552 articles have been extended.
+17,552 (100.0%) of 17,555 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### අනතුරකින් කුඩා දරුවෙක් මරුට
+
+*2024-04-07 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195381) · `si`
+
+අම්පාර - බිබිල ප්‍රධාන මාර්ගයේ නාමල්ඔය ප්‍රදේශයේදී ලොරි රථයක කුඩා දරුවෙකු ගැටී අනතුරක් සිදුව ඇත.
+
+අනතුරින් බරපතළ තුවාල ලැබූ දරුවා ඉඟිනියාගල රෝහලට ඇතුළත් කිරීමේදී මියගොස් තිබේ.
+
+ඊයේ රාත්‍රී සිදුවූ එම අනතුරෙන් මියගොස් ඇත්තේ, නාමල්ඔය, අම්පාර ප්‍රදේශයේ පදිංචිව සිටි අවුරුදු 02 මාස 07ක් වූ කුඩා දරුවෙකි.
+
+දෙමාපියන් එම දරුවා සමග මාර්ගය අසල විහාරස්ථානයක ආගමික කටයුතුවල නිරතව සිටියදී දෙමාපියන්ගේ අවධානයෙන් මිදී දරුවා මාර්ගයට පැමිණ ඇත.
+
+සිද්ධිය සම්බන්ධයෙන් ලොරි රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර ඉඟිනියාගල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/1cd13b33.json)
+
+---
 
 ### Thundershowers;Extreme heat - forecasting people
 
@@ -62,11 +82,21 @@ As a result, the Department of Meteorology has said that the sun will be toppled
 
 *2024-04-07 07:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98484/one-person-killed-in-police-fire-during-clash-in-mawanella) · `en`
 
-A 53-year-old person was shot dead after police opened fire while attempting to settle a dispute among a group of persons at Padiyadora in Mawanella.
+A 53-year-old person was shot dead after police opened fire while attempting to resolve a dispute among a group of persons at Padiyadora in Mawanella.
 
 Two policemen have also been injured during the clash, according to police.
 
-◼️
+Mawanella Police had received a telephone call last night (06) pertaining to a dispute in the Padiyadora while a team of police personnel were dispatched to the location.
+
+However, one person involved in the dispute had allegedly attacked one of the policemen with a sharp object, prompting another police officer to fire into the air as a warning.
+
+However, the individual had then attempted to attack the other policeman as well and the latter had opened fire at that moment.
+
+The father of the individual who had carried out the attack was injured in the shooting while he had succumbed to injuries after being admitted to the Mawanella Hospital.
+
+The deceased is a 53-year-old resident of the area while police allege that he was a suspected criminal involved in drug rackets.
+
+...
 
 [Data](articles/d7929b81.json)
 
@@ -294,21 +324,27 @@ When arrested by the SLN, Indian authorities exerted undue diplomatic and politi
 
 ---
 
-### ஜனாதிபதி தலைமையில் தேசிய புத்தரிசி விழா
+### President
 
 *2024-04-07 02:48:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தலைமையில்-தேசிய-புத்தரிசி-விழா/175-335679) · `ta`
 
-கட்சியின் தேவைக்கேற்ப நாட்டின் பொருளாதாரத்தை உருவாக்கவன்றி பொருளாதார ரீதியாக நாட்டைக் கட்டியெழுப்புவதற்காகவே இந்நாட்டில் அரசியல் கட்சி அமைப்பு உருவாக்கப்பட வேண்டுமென  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe advocates for a political party system to economically develop the country, not to create its economy. He emphasizes the need to move beyond traditional politics and adapt the party system to national needs. He highlights the challenges faced in the past and the lack of leadership until the end, suggesting a shift towards thinking about the country without focusing on parties.
 
-அனுராதபுரம் மாவட்ட சட்டத்தரணிகளுடன் நேற்று இடம்பெற்ற சந்திப்பிலேயே ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-இங்கு பல்வேறு கட்சிகளைச் சேர்ந்தவர்கள் உள்ளனர். ஐக்கிய தேசியக் கட்சியின் தலைவராக நான் இங்கு வரவில்லை. ஜனாதிபதியாக உங்கள் அனைவருக்காகவும் பணியாற்றுகின்றேன். இப்போது நாம் பாரம்பரியமாக நினைத்த காலம் முடிந்துவிட்டது. பாரம்பரிய அரசியலின் காரணமாகவே இந்த இக்கட்டான சூழலை எதிர்கொள்ள வேண்டியிருந்தது. அதிலிருந்து நாம் வெளியேற வேண்டும்.
+President Ranil Wickremesinghe said that a political party system should be formed in the country to build the country economically, not to create the country's economy.
 
-நாட்டின் தேவைக்கேற்ப கட்சி அமைப்பை மாற்றி அமைக்க வேண்டும். கட்சி அமைப்பின் விருப்பப்படி நாட்டை கட்டியெழுப்ப முடியாது. அதைச் செய்யப் போனதால்தான் கடந்த காலங்களில் பல சவால்களை எதிர்கொள்ள வேண்டியிருந்தது. அதனை யாரும் பொறுப்பேற்கவில்லை. கடைசிவரை யாரும் ஆட்சி அமைக்க முன்வரவில்லை.
+The President made this statement at a meeting with the Anuradhapura District Attorneys yesterday. He further stated that
+
+There are people from various parties here. I am not here as the leader of the United National Party. I work for all of you as President. Now the time we thought we were traditionally is over. This embarrassing environment had to be confronted because of traditional politics. We have to get out of it.
+
+To change the party system according to the country's requirement. Cannot build the country at the discretion of party system. It was because it had to face many challenges in the past. No one is responsible for it. No one came forward to rule until the end.
 
 ...
 
 [Data](articles/24c92190.json)
+
+[Extended Data](ext_articles/24c92190.ext.json)
 
 ---
 
@@ -357,6 +393,30 @@ The details of the Sri Lankan fisherman infected with a heart attack have been i
 [Data](articles/e044069c.json)
 
 [Extended Data](ext_articles/e044069c.ext.json)
+
+---
+
+### 1990 සුවසැරිය : 'අපි දවසකට දාහක් පමණ රෝහල්ගත කිරීම් කරනවා'
+
+*2024-04-07 02:29:03* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz7z446kr2go) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, 1990 සුවසැරිය ලෝකයේ හොඳම ගිලන්රථ සේවාවක් දක්වා පැමිණි ගමන
+
+1990 සුවසැරිය ගිලන්රථ සේවය මගින් සපයන සේවාව දේශීය මෙන්ම ජාත්‍යන්තරයේ ද ඇගයීමට ලක්ව තිබේ.
+
+ඩිජිටල් තාක්ෂණය යොදාගත්, නොමිලේ ක්‍රියාත්මක, ලෝකයේ වේගවත්ම ගිලන්රථ සේවාවලින් එකක් ලෙස 1990 නම් කිරීමට ලෝක බැංකුව 2024 මාර්තු මාසයේ දී කටයුතු කරන ලදී.
+
+මෙම  ගිලන්රථ සේවාවට ඇමතුමක් ලබා දීමෙන් පසු ළඟම රෝහලට හෝ ප්‍රාථමික ප්‍රතිකාර මධ්‍යස්ථානයට රෝගියකු රැගෙන යෑමට ගතවන සාමාන්‍ය කාලය විනාඩි 12කි.
+
+ඉන්දීය රජයේ ප්‍රධානයක් ලෙස මේ ගිලන්රථ සේවය 2016 දී ආරම්භ කරන අවස්ථාවේ දී රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයෙන් මෙන්ම දේශපාලන පක්ෂවලින් දැඩි විරෝධයක් එල්ල විය.
+
+නමුත් ගතවූ කාලය තුළ 1990 ගිලන්රථ සේවය ඉටු කළ මෙහෙවර ඇගයීමට ලක් කරමින් ආණ්ඩු පක්ෂය සහ විපක්ෂය එක්ව පසුගිය අප්‍රේල් 02 වැනිදා පාර්ලිමේන්තුවේ දී යෝජනාවක් ඉදිරිපත් කළ එහි නියමුවන්ට සහ කාර්ය මණ්ඩලයට කෘතවේදීත්වය පළ කළහ.
+
+ආරම්භයේ දී ඉන්දීය විරෝධයට හසු වූ 1990 සුවසැරිය ලෝකයේ හොඳම ගිලන්රථ සේවාවක් දක්වා පැමිණි ගමන මෙහි ඇතුළත් වේ.
+
+...
+
+[Data](articles/3da4f21d.json)
 
 ---
 
@@ -903,6 +963,8 @@ She was fortunate in meeting and marrying a young pastor, Rev. Miron Winslow, wh
 ...
 
 [Data](articles/c13b04d8.json)
+
+[Extended Data](ext_articles/c13b04d8.ext.json)
 
 ---
 
@@ -1557,6 +1619,24 @@ At the time, the police found that the cannabis drug was hidden in a small louds
 [Data](articles/48b98ab2.json)
 
 [Extended Data](ext_articles/48b98ab2.ext.json)
+
+---
+
+### ජාතික අලුත් සහල් මංගල්‍යය ජනපති ප්‍රධානත්වයෙන්
+
+*2024-04-06 13:16:10* · [`adalk`](https://www.ada.lk/religion/ජාතික-අලුත්-සහල්-මංගල්‍යය-ජනපති-ප්‍රධානත්වයෙන්/4-408975) · `si`
+
+ජාතික අලුත් සහල් මංගල්‍ය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අද (06) පෙරවරුවේ අනුරාධපුර ඓතිහාසික ජය ශ්‍රී මහා බෝ සමිඳුන් අභියස දී පැවැත්විණි.
+
+සාම්ප්‍රදායිකව වාර්ෂිකව මහ කන්නයේ නෙලාගත් වී අස්වැන්නෙහි නොඉඳුල් සහලෙහි අග්‍රඵලය ජය ශ්‍රී මහා බෝ සමිඳුන් වෙත පූජා කිරීමේ මෙම අලුත් සහල් මංගල්‍ය අටමස්ථානාධිපති පූජ්‍ය පල්ලේගම හේමරතන නායක හිමිපාණන් වහන්සේගේ අනුශාසනා පරිදි කෘෂිකර්ම අමාත්‍යාංශය සහ ගොවිජන සේවා දෙපාර්තමේන්තුව විසින් 57 වන වරට සංවිධාන කර තිබිණි.
+
+රජ සමයේ සිට පැවැත එන මෙම චාරිත්‍රය සඳහා රට පුරා ගොවීන් රැසක් එක්ව සිටි අතර “කලට වැසි වසිත්වා – කෙත්වතු සාරවත් වේවා” යි ප්‍රාර්ථනා කිරීමත්, කෘෂිකර්මාන්තයෙන් රට ස්වයංපෝෂිත වී සමෘද්ධිමත් ආර්ථීකයක් ඇති වේවායි රටට, ජාතියට සෙත් පැතීමත් මෙහිදී සිදු කෙරිණ.
+
+අටමස්ථානාධිපති නුවර කලාවිය ප්‍රධාන සංඝනායක පූජ්‍ය පල්ලේගම හේමරතන නා හිමිපාණන් වහන්සේ විසින් අලුත් සහලින් රන් පාත්‍රය පිරවීම ආරම්භ කළ අතර, මහා සංඝරත්නයේ පිරිත් සජ්ඣායනා මැද රන් පාත්‍රය සහලින් පිරවීමේ අවස්ථාවට චාරිත්‍රාණුකූලව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ද එක්විය.
+
+...
+
+[Data](articles/9e8b5894.json)
 
 ---
 
@@ -2219,75 +2299,5 @@ They have lifted Swami when the Swami Street arrives. It is noteworthy that fore
 [Data](articles/3930af97.json)
 
 [Extended Data](ext_articles/3930af97.ext.json)
-
----
-
-### Two suspicious deaths
-
-*2024-04-06 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195354) · `si`
-
-Two suspicious deaths in Urubokkumbura and Gokarawa areas. A man found dead near his house in Urubokkumbura, and a 69-year-old man found in a house in Gokarawa, both causes unknown.
-
-🟩
-
-The body of a person who was killed in a coal land on a cock land on a tea land, Urubokkumbura area.
-
-The man and his wife were living in a house in the area and the wife had gone to work while at home.
-
-His wife returns homeland evening, and his body was found near the house on the next morning at a stone taling near the house.
-
-Meanwhile, the Gokarella police have found a bodic in the house on information received by the police on a house in the Thalahinna area of Gokarawa area.
-
-The deceased is a 69 year old person living at the house alone.
-
-This guy came from his daughter's house on March 28 and had been alive in this house.
-
-The cause of death has not been properly improved and the police are conducting further investigations, Gokarella Police.
-
-◼️
-
-[Data](articles/f11216f6.json)
-
-[Extended Data](ext_articles/f11216f6.ext.json)
-
----
-
-### Maithri under fire, Parliament to demand full disclosure on Easter Sunday attacks
-
-*2024-04-06 08:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maithri-under-fire-Parliament-to-demand-full-disclosure-on-Easter-Sunday-attacks/108-280305) · `en`
-
-Colombo, April 06 - (Daily Mirror)  - Former President Maithripala Sirisena who is at the centre of controversy over his latest remarks that he is aware of the mastermind behind the Easter Sunday carnage will be forced to place all his cards on the table when Parliament takes up a fresh debate on the matter during the next sitting week.
-
-Parliament will take up a three-day debate when it meets for the first time after New Year on April 24, as agreed upon at the party leaders’ meeting conducted yesterday.
-
-The main opposition Samagi Jana Balawegaya (SJB) asked for the debate on the basis that the country serves to know the discourse of Mr. Sirisena who was the Head of State when the terrorist attack took place in 2019.
-
-Recently, Mr. Sirisena stirred fresh controversy when he said that he knew who was behind the attack. Afterwards, the Criminal Investigation Department (CID) interrogated him for hours. He was also asked to appear before court and make a statement, but he declined to do so.
-
-...
-
-[Data](articles/0b70cd69.json)
-
-[Extended Data](ext_articles/0b70cd69.ext.json)
-
----
-
-### Maithri under fire, Parliament to demand full disclosure on Easter Sunday attacks
-
-*2024-04-06 08:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Maithri-under-fire-Parliament-to-demand-full-disclosure-on-Easter-Sunday-attacks/155-280305) · `en`
-
-Colombo, April 06 - (Daily Mirror)  - Former President Maithripala Sirisena who is at the centre of controversy over his latest remarks that he is aware of the mastermind behind the Easter Sunday carnage will be forced to place all his cards on the table when Parliament takes up a fresh debate on the matter during the next sitting week.
-
-Parliament will take up a three-day debate when it meets for the first time after New Year on April 24, as agreed upon at the party leaders’ meeting conducted yesterday.
-
-The main opposition Samagi Jana Balawegaya (SJB) asked for the debate on the basis that the country serves to know the discourse of Mr. Sirisena who was the Head of State when the terrorist attack took place in 2019.
-
-Recently, Mr. Sirisena stirred fresh controversy when he said that he knew who was behind the attack. Afterwards, the Criminal Investigation Department (CID) interrogated him for hours. He was also asked to appear before court and make a statement, but he declined to do so.
-
-...
-
-[Data](articles/ffaeaf3b.json)
-
-[Extended Data](ext_articles/ffaeaf3b.ext.json)
 
 ---

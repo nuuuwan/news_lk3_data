@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 20:03:25**
+As of **2024-04-07 20:18:04**
 
 ## Newspaper Stats
 
@@ -26,53 +26,75 @@ adaderanasinhalalk | 2,867
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,655 (100.0%) of 17,660 articles have been extended.
+17,660 (100.0%) of 17,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### සූර් වී කාර් පැද්ද චණ්ඩි
+### Survey Car Pharmatence
 
 *2024-04-07 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195407) · `si`
 
-රිය අනතුරක් සිදුකර පොලිස් නිලධාරීන්ගේ රාජකාරියටද බාධා කළ තිදෙනෙක් වාරියපොල පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Wariyapola Police arrested three suspects involved in an accident that interrupted police duties. One was filmed attacking a driver and a police officer.
 
-සැකකරුවන් වාරියපොල නගරයේදී ඊයේ (06) පස්වරුවේ බීමත්ව රිය අනතුරක් සිදුකර තිබූ අතර අනතුරට පත් අනෙක් වාහනයේ රියදුරුට පහරදීමටද කටයුතු කර තිබුණි.
+🟩
 
-බීමත් පිරිස එම රියදුරුට පහරදෙන අයුරු සහ පොලිස් නිලධාරීන්ගේ රාජකාරියට බාධා කරමින් හැසිරෙන ආකාරය අසල සිටි අයෙක් ජංගම දුරකථනයකින් වීඩියෝ කර තිබුණා.
+Wariyapola Police have arrested three suspects who have been accidental and interrupted the duties of the police officers.
+
+The suspects had been admitted to the Wariyapola town yesterday (06) and had also been involved in the accident.
+
+One of the drunken people were videoed by a mobile phone where the drilling was attacking the driver and the behavior of the police.
 
 ◼️
 
 [Data](articles/010271c7.json)
 
+[Extended Data](ext_articles/010271c7.ext.json)
+
 ---
 
-### හාල් කිලේ 20 ලැබෙන පවුල් මෙන්න
+### Here are the families receiving 20 rice
 
 *2024-04-07 19:50:14* · [`adalk`](https://www.ada.lk/breaking_news/හාල්-කිලේ-20-ලැබෙන-පවුල්-මෙන්න/11-408992) · `si`
 
-සිංහල දමිළ අලුත් අවුරුද්ද වෙනුවෙන් අස්වැසුම හෝ වෙනත් ප්‍රතිලාභ නොලබන දිළිඳු පවුල් ලක්ෂ 27.5 ක් වෙනුවෙන් සහල් කිලෝ 20 බැගින් ලබා දීමට කටයුතු කරන බවත්, ප්‍රාදේශීය සංවර්ධනය වෙනුවෙන් මුදල් අමාත්‍යාංශය මගින් රුපියල් මිලියන විසි දහසක මුදලක් වෙන්කර ඇති බවත් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+The Ministry of Finance allocates 20 kg of rice for Sinhala New Year and Rs. 20000 million for regional development, covering all Divisional Secretariats. Shehan Semasinghe, the Minister of State, emphasizes decentralized budgeting for development, particularly in facilities.
 
-සෑම ප්‍රාදේශීය ලේකම් කොට්ඨාසයක්ම ආවරණය වන පරිදි රු. මිලියන 20000ක මුදලක් ප්‍රාදේශීය සංවර්ධනය සඳහා වෙන්කර ඇති අතර, ඉන් රුපියල් මිලියන 10000ක් සියලුම ප්‍රාදේශීය ලේකම් කොට්ඨාස ආවරණය වන පරිදි හා තවත් රු. මිලියන 10000ක මුදලක් අඩුම පහසුකම් පවතින, විශේෂයෙන් කඳුකර ප්‍රදේශයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස සංවර්ධනය සඳහා මුදල් අමාත්‍යාංශය මගින් විමධ්‍යගත අයවැය වශයෙන් වැය කරන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+🟩
 
-ඒ මහතා මේ බව කියා සිටියේ ඉදිරි ග්‍රාමීය සංවර්ධනය පිළිබඳව පෙරේදා (6දා) අනුරාධපුර, කළුආරච්චියාගම ප්‍රදේශයේ පැවති ජනවාතාව දැනුවත් කිරීමේ වැඩසටහනට එක්වෙමිනි.
+The Ministry of Finance Shehan Semasinghe says that 20 kg of rice will be allocated for the Sinhala New Year.
 
-...
+Cover every Divisional Secretariat. 20000 million has been allocated for regional development, with Rs. 100,000 million cover all Divisional Secretariats and another Rs. The Ministry of State Shehan Semasinghe says that the Ministry of Finance Shehan is the decentralized budget for the development of the Ministry of Finance, especially the most facilities.
+
+He was speaking at a Janama Hospitality in Anuradhapura (6th) at the village of village.
+
+In July, under the revenue reward program, the state will be able to benefit from Rs.The Minister said.
+
+Once again, he has never been able to build the economy in fifteen years.
+
+◼️
 
 [Data](articles/7c0de4c6.json)
 
+[Extended Data](ext_articles/7c0de4c6.ext.json)
+
 ---
 
-### கடைசி விருப்பம்: ஆராய குழு
+### Last option: to explore group
 
 *2024-04-07 19:44:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடைசி-விருப்பம்-ஆராய-குழு/175-335708) · `ta`
 
-முஸ்லிம் சமூகம் உட்பட எந்த ஒருநபரினதும் இறுதிக் கிரியையையும் மத ரீதியாகவோ அல்லது  கடைசி விருப்பத்தின் படியோ மேற்கொள்வதற்கு தேவையான ஏற்பாடுகளை செய்வதற்கு புதிய குழுவொன்று நியமிக்கப் போவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க கண்டி கட்டுகெலே பள்ளிவாசலில் இன்று (07) பிற்பகல் இடம்பெற்ற இப்தார் நிகழ்வில் கலந்துகொண்டு உரையாற்றும் போதே தெரிவித்தார்-
+President Ranil Wickremesinghe announced a new committee to organize funerals for all communities, including Muslims, during an Iftar event at Kattakel School.
+
+🟩
+
+President Ranil Wickremesinghe said that a new committee will be appointed to make necessary arrangements to make necessary arrangements to make the funeral of any of the people, including the Muslim community, and to make the necessary arrangements to make the last option, while addressing the Iftar event held at the Kattakel School School this afternoon (07).
 
 ◼️
 
 [Data](articles/8e65f078.json)
+
+[Extended Data](ext_articles/8e65f078.ext.json)
 
 ---
 
@@ -192,6 +214,8 @@ This initiative aims to curb the illicit trade of alcohol during the temporary c
 
 [Data](articles/b2f05133.json)
 
+[Extended Data](ext_articles/b2f05133.ext.json)
+
 ---
 
 ### Zero Shadow DAY dawn
@@ -258,23 +282,33 @@ However, the police said that the Tension Tensions have reached the Tim that the
 
 ---
 
-### ලක්ෂ 95ක මුදල් පොරොන්දුවකට ඉතාලි යන්න ගිය ගමන වරදියි
+### The journey went to Italian for 95 lakhs
 
 *2024-04-07 19:12:20* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-95ක-මුදල්-පොරොන්දුවකට-ඉතාලි-යන්න-ගිය-ගමන-වරදියි/11-408986) · `si`
 
-කූඨ ලෙස සකස් කළ ශ්‍රී ලාංකික ගමන් බලපත්‍රයක් සහ ගුවන් යානා ප්‍රවේශ පත්‍රයක් යොදා ගෙන ඉතාලිය වෙත පළා යාමට තැත් කළ ශ්‍රී ලාංකික තරුණයෙකු 04/05 දින කටුනායක ගුවන් තොටුපොළ ආගමන විගමන දෙපාර්තමේන්තු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ.
+A 27-year-old Sri Lankan was arrested at Katunayake airport for attempting to flee to Italy with a forged passport and ticket. He was caught by immigration officials and handed over for further investigation.
 
-මොහු 27 හැවිරිදි ත්‍රිකුණාමලය ප්‍රදේශයේ පදිංචි තරුණයෙකි .   ඔහු ඉකුත් 04/05 දින පස්වරු 02.40 ට එක්සත් අරාබි එමීර් රාජ්‍යයේ සාජා නුවර වෙත යාම සදහා එයාර් ඇරේබියා ගුවන් සේවයේ ජී.9558 දරන ගුවන් යානය සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+🟩
 
-ඔහු සිය ගුවන් නිශ්කාශන කටයුතු සිදු කර අවසන් වී විගමන කටයුතු සදහා පිටත්ව යමින් සිටින අතරතුර , ඔහු පිළිබඳ ඇති වූ සැකය මත ආගමන විගමන දෙපාර්තමේන්තු දේශසීමා ආවේක්ෂණ ඒකකය වෙත කැදවා මූලික  විමර්ශනයක් සිදු කර තිබුණි .
+A Sri Lankan youth who attempted to flee to Italy using a Sri Lankan passport and an aircraft ticket and Italy was arrested by the Department of Immigration and Emigration on 04/05.
 
-එහිදී මෙම ගුවන් මගියා සතු ගමන් බලපත්‍රය මෙන්ම ගුවන් යානා ප්‍රවේශ පත්‍රය ද ( Boarding Pass ) කූඨ ලෙස සකස් කළ ඒවා බවට කරුණු අනාවරණය විය .
+He is a 27 year old resident of Trincomalee.He had arrived at the Katunayake airport for the airport at the Emirabia Airlines to go to Sharjah in the United Arab Emirates at 04.05 pm on 04/05.
 
-ඉන්පසුව ඔහුගේ ගමන් මල්ල පරීක්ෂා කිරීමේදී ඒ තුළ මොහුගේ සැබෑ ශ්‍රී ලංකා ගමන් බලපත්‍රය සහ ව්‍යාජ ලෙස සකස් කළ විගමන මුද්‍රාවක් ද තිබී සොයා ගැනීමට මෙම නිලධාරීන් සමත් වී තිබුණි .
+While he was on his flight clearance work, he had been invited to the Department of Immigration and Emigration to the Prevention Unit of the Department of Immigration and Emigration.
+
+It was revealed that the passport of the passenger and the aircraft ticket were tailored.
+
+The officials were able to find out his journey of their luxury and a falsely formulated admission seal.
+
+The Sri Lankan Passport that was borne was committed to the Italian Embassy in Sri Lanka, it is a matter of obtaining the Italian residential visa.
+
+The young man has been planned to be planned by the Immigration and Emigration Officers.
 
 ...
 
 [Data](articles/3deba855.json)
+
+[Extended Data](ext_articles/3deba855.ext.json)
 
 ---
 

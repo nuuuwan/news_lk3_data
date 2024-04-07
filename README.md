@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 11:33:55**
+As of **2024-04-07 11:52:32**
 
 ## Newspaper Stats
 
-*Scraped **17,575** Articles*
+*Scraped **17,583** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 958
 islandlk | 968
-economynextcom | 975
+economynextcom | 978
 adalk | 1,472
 tamilmirrorlk | 2,073
-adaderanalk | 2,121
-virakesarilk | 2,558
+adaderanalk | 2,122
+virakesarilk | 2,562
 dailymirrorlk | 2,685
 adaderanasinhalalk | 2,851
 
@@ -26,27 +26,107 @@ adaderanasinhalalk | 2,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,574 (100.0%) of 17,575 articles have been extended.
+17,575 (100.0%) of 17,583 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### මිරිස් ඇතුළු බීජ වර්ග කිහිපයක් අපනයනය කෙරේ
+### மக்களின் நியாயமான கோரிக்கைகளை  நிராகரிக்க முடியாது - பொன்னாவெளி  சம்பவம் தொடர்பில் சமத்துவக் கட்சி கண்டனம்
+
+*2024-04-07 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180614) · `ta`
+
+தாங்கள் காலம் காலமாக வாழ்ந்த பூர்வீக நிலங்கள் பாதிக்கப்பட்டு தங்களின் இருப்பு கேள்விக்குள்ளாக்கப்பட்டு மக்களுக்கும் பிரதேசத்துக்கும் ஆபத்தை ஏற்படுத்தும் முதலீட்டு முயற்சிகளை தங்களது பிரதேசத்துக்குள் அனுமதிக்காதீர்கள் என்ற பொன்னாவெளி மக்களின் நியாயமான கோரிக்கைகளை ஒருபோதும் நிராகரிக்க முடியாது. அவர்களின் கோரிக்கைகள் நிராகரிக்கப்பட்டு முன்னெடுக்கப்படும் நடவடிக்கைகளை சமத்துவக் கட்சி வன்மையாக கண்டிக்கிறது என அக்கட்சியின் பொதுச் செயலாளர் முன்னாள் பாராளுமன்ற உறுப்பினர் மு. சந்திரகுமார் தெரிவித்துள்ளார்.
+
+பொன்னாவெளியில் நேற்று (05) இடம்பெற்ற சம்பவம் தொடர்பில் வெளியிட்டுள்ள செய்திக்குறிப்பிலேயே அவர் இதனை தெரிவித்துள்ளார்.
+
+பொன்னாவெளி பிரதேசத்தில் மேற்கொள்ளப்படவுள்ள சுன்னக்கல் அகழ்வு காரணமாக அப்பிரதேசத்தில் ஐந்துக்கு மேற்பட்ட கிராமங்கள் முற்றுமுழுதாக பாதிக்கப்படும்.
+
+...
+
+[Data](articles/329bfd75.json)
+
+---
+
+### கச்சதீவு இந்தியாவின் உள்ளகப் பிரச்சினை - அலி சப்ரி
+
+*2024-04-07 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180619) · `ta`
+
+கச்சதீவு சம்பந்தமாக பல்வேறு விதமான கருத்துக்கள் வெளிப்பட்டு வருகின்ற நிலையில், அந்த விவகாரம் இந்தியாவின் உள்ளகப் பிரச்சினையாகும் என்று வெளிவிவகார அமைச்சர் ஜனாதிபதி சட்டத்தரணி அலி சப்ரி தெரிவித்துள்ளார்.
+
+அரை நூற்றாண்டுகளுக்கு முன்னதாகவே நிறைவடைந்த கச்சதீவு விடயம் சம்பந்தமாக தற்போது எவ்விதமான உரையாடல்களும் இரு நாடுகளுக்கும் இடையில் இடம்பெறவில்லை என்றும் அவர் குறிப்பிட்டார்.
+
+இலங்கைக்குச் சொந்தமாக கச்சதீவு தற்போது கடற்படையினரின் கட்டுப்பாட்டில் இருக்கின்றது. இந்த கச்சதீவானது 1974இல் அப்போதைய இந்திய பிரதமர் இந்திரா காந்தியினால் இலங்கைக்கு வழங்கப்பட்டதாகும்.
+
+இந்நிலையில் தற்போது பிரதமர் நரேந்திர மோடி தலைமையிலான பாரதீய ஜனதா கட்சி கச்சதீவு மீட்புக் கோசத்தினை வெளிப்படுத்த ஆரம்பித்துள்ளது. அத்துடன், காங்கிரஸ் கட்சியும் தமிழகத்தின் பிரதான கட்சிகளில் ஒன்றான திராவிட முன்னேற்ற கழகமும் தான் கச்சதீவினை இலங்கைக்கு தாரைவார்த்தது என்பதையும் வெளிப்படுத்தி வருகிறது.
+
+இவ்வாறான நிலையில் கருத்து வெளியிடுகையிலேயே வெளிவிவகார அமைச்சர் அலி சப்ரி மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/f791a91d.json)
+
+---
+
+### Govt expedites free rice distribution to low-income families
+
+*2024-04-07 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98486/govt-expedites-free-rice-distribution-to-low-income-families) · `en`
+
+The Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government has informed all District Secretaries to accelerate the free distribution of rice for low-income families.
+
+The Cabinet of Ministers recently granted approval to a proposal of President Ranil Wickremesinghe to provide 20 kg of rice per family for two months to low-income families.
+
+Accordingly, the ministry has notified that the distribution of rice bags to the selected beneficiary families will be carried out at the Divisional Secretariat level.
+
+These rice bags will be distributed to the ‘Aswesuma’ beneficiaries, individuals selected by the Welfare Benefits Board from among those who have submitted appeals for the welfare program, Samurdhi beneficiaries who were not eligible for ‘Aswesuma’ benefits, elderly people who are not receiving welfare or Samrudhi benefits but additional financial assistance, disabled persons and chronically ill persons.
+
+...
+
+[Data](articles/14df784d.json)
+
+---
+
+### முதலில் எந்த தேர்தல் என்பதை ஜனாதிபதியே தீர்மானிக்கலாம் - பசில்
+
+*2024-04-07 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180620) · `ta`
+
+எந்த தேர்தலை முதலில் நடத்துவது என்பதை ஜனாதிபதியே தீர்மானிக்கலாம் அதற்கு பொதுஜனபெரமுன இடமளிக்கும் என முன்னாள் நிதியமைச்சர் பசில் ராஜபக்ச தெரிவித்துள்ளார்.
+
+நாடாளுமன்ற தேர்தலை முதலில் நடத்தவேண்டும் என்ற எங்கள் நிலைப்பாட்டை நாங்கள் அவருக்கு தெளிவுபடுத்தியுள்ளோம் அத்துடன் அது முடிவடைந்துவிட்டது இனி அவரே தீர்மானி;க்கலாம் என பசில் ராஜபக்ச சண்டே டைம்ஸிற்கு தெரிவித்துள்ளார்.
+
+எங்கள் கட்சி எந்த வகையிலும்  ஜனாதிபதிக்கு அழுத்தங்களை கொடுக்காது என பசில்ராஜபக்ச தெரிவித்துள்ளார்.
+
+கடந்த வியாழக்கிழமை பசில் ராஜபக்ச ஜனாதிபதி ரணில்விக்கிரமசிங்கவை சந்தித்து பேச்சுவார்த்தைகளை மேற்கொண்டுள்ள நிலையிலேயே பசில்ராஜபக்ச இதனை தெரிவித்துள்ளார்.
+
+பொதுத்தேர்தலை முதலில் நடத்தவேண்டும் என்ற தனது தனிப்பட்ட கோரிக்கைக்கு அப்பால் எந்த தேர்தலை முதலில்நடத்தவேண்டும் என்பது குறித்து வேறு எந்த பேச்சுவார்த்தைகளையும் மேற்கொள்ளவில்லை முடிவு என்பது முற்றிலும் ஜனாதிபதியின் கரங்களிலேயே உள்ளது எனவும் முன்னாள் நிதியமைச்சர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/b772fe93.json)
+
+---
+
+### Several varieties of seeds including chilli are exported
 
 *2024-04-07 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195387) · `si`
 
-පළමුවරට මෙරට බීජ වර්ග කිහිපයක් අපනයනය කිරීම සඳහා සූදානම් කර තිබේ.
+Sri Lanka exports seeds, including chilli, eggplant, fishing, fisher, chilli, fisher, and maize, for the first time. High demand from foreign countries drives this initiative, supported by the private sector's technology and expertise.
 
-ඒ අනුව මිරිස්, වම්බටු , මාළු මිරිස්, බණ්ඩක්කා සහ බඩඉරිඟු යන විශේෂ කිහිපයක් සාර්ථක ලෙස අත්හදා බලා ඇති අතර එම බීජ මෙලෙස අපනයනය කිරීමට නියමිත බව කෘෂිකර්ම දෙපාර්තමේන්තුව සඳහන් කළේය.
+🟩
 
-එම බීජ සඳහා ඉහළ ඉල්ලුමක් විදේශ රටවල් රැසකින් ඉදිරිපත්වී ඇති බව සඳහන්ය.
+For the first time, several types of seeds in Sri Lanka have been prepared to export.
 
-එමෙන්ම එම බීජ වැඩිදියුණු කිරීම හා සැකසීම ඉහළම තාක්ෂණය හා විශේෂඥ සහයෝගය ලබා ගනිමින් මෙරට පුද්ගලික අංශය විසින් සිදු කර ඇති බව කෘෂිකර්ම දෙපාර්තමේන්තුව පැවසීය.
+Accordingly, several species of chilli, eggplant, fishing, fisher, chilli, fisher and maize have been successfully tested and the seeds will be exported.
+
+A high demand for the seeds has come forward with many foreign countries.
+
+The private sector has been carried out by the private sector in the country with the highest technology and expert support of the seeds.
 
 ◼️
 
 [Data](articles/f6728ed7.json)
+
+[Extended Data](ext_articles/f6728ed7.ext.json)
 
 ---
 
@@ -73,6 +153,22 @@ The police have registered a case and are investigating. The death of his wife, 
 [Data](articles/1471e404.json)
 
 [Extended Data](ext_articles/1471e404.ext.json)
+
+---
+
+### மனோ, ஹக்கீம், ரிஷாத் எம்முடனேயே உள்ளனர் - ரஞ்சித் மத்தும பண்டார
+
+*2024-04-07 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/180616) · `ta`
+
+மனோ கணேசன்,  ரவூப் ஹக்கீம், ரிஷாத் பதியுதீன் ஆகியோர் தலைமையிலான அணியினர் எமது கூட்டணியின் பங்காளிகளாகவே உள்ளனர் என்று ஐக்கிய மக்கள் சக்தியின் பொதுச்செயலாளர் ரஞ்சித் மத்தும பண்டார தெரிவித்துள்ளார்.
+
+ஐக்கிய மக்கள் சக்தி,  தனது கூட்டணியில் அங்கம் வகிக்கும் பங்காளிகளுடன் புரிந்துணர்வு ஒப்பந்தத்தில் கைச்சாத்திட்டிருக்கும் நிலையில் இந்த நிகழ்வில் மனோ கணேசன், ரவூப் ஹக்கீம் ரிஷாத் பதியுதீன் ஆகியோர் பங்கேற்றிருக்கவில்லை. இந்நிலையில் கருத்து வெளியிடும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+மனோ கணேசன் தலைமையிலான தமிழ் முற்போக்கு கூட்டணியும், ரவூப் ஹக்கீம் தலைமையிலான முஸ்லிம் காங்கிரஸ்,  ரிஷாத் பதியுதீன் தலைமையிலான அகில இலங்கை மக்கள் காங்கிரஸ் கடந்த ஜனாதிபதி மற்றும்  பாராளுமன்ற தேர்தல்களில் இருந்து எம்முடனேயே கூட்டணியின் பங்காளிகளாக பயணிக்கின்றார்கள்.
+
+...
+
+[Data](articles/72fcf70f.json)
 
 ---
 
@@ -139,6 +235,28 @@ He further assured that all types of fuel are presently available in the country
 [Data](articles/27210d5a.json)
 
 [Extended Data](ext_articles/27210d5a.ext.json)
+
+---
+
+### Sri Lanka worker remittances up 0.7-pct in April 2024
+
+*2024-04-07 10:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-worker-remittances-up-0-7-pct-in-april-2024-157794/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s worker remittances through official channels grew 0.72 percent to 572.4 million US dollars, from 468.3 million US dollars a year ago, data from the central bank show.
+
+Related Sri Lankans migrating for foreign employment drops 4.2-pct in 2023
+
+Sri Lanka’s remittances dropped to around 275 million US dollars in 2022 as money was printed to mis-target rates creating forex shortages driving foreign exchange into unofficial channels.
+
+Monetary stability was restored in the last quarter of 2022, improving the credibility of the exchange rate.
+
+Monthly remittances have been above 475 million US dollars from May 2023.
+
+Remittances generally rise in March ahead of traditional New Year holidays and also in December. (Colombo/Apr07/2024)
+
+◼️
+
+[Data](articles/07112b4b.json)
 
 ---
 
@@ -289,6 +407,30 @@ However, Relo's leader, one of the coalition parties, Selvam Adakkalanathan has 
 [Data](articles/2b256453.json)
 
 [Extended Data](ext_articles/2b256453.ext.json)
+
+---
+
+### Sri Lanka’s Ceylon tea prices fall for third week
+
+*2024-04-07 09:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceylon-tea-prices-fall-for-third-week-157791/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tea price averages fell across elevations at the first auction in April, industry data showed, continuing a three-week trend.
+
+The national weekly sale average fell by 45.38 rupees to 1234.59 rupees a kilogram this week, from 1279.97 rupees week industry data published by Ceylon Tea Brokers showed.
+
+Average tea prices which moved up in US dollar terms up to 4.47 a kilo in the the second week of February and has since fallen to 4.23 to the US dollar by the last week of March.
+
+A total of 4.7 million kilos were sold by public auction in the first auction in April
+
+The weekly average of Sri Lanka’s highest priced teas, the Low Grown, fell 48.54 rupees to 1293.2 rupees.
+
+BOP1 Select best and best maintained, while the balance varieties fell.
+
+OP1 Select best and below best fell, as poorer sorts maintained. OPA Select best were flat.
+
+...
+
+[Data](articles/a11dea66.json)
 
 ---
 
@@ -651,6 +793,26 @@ Police said two injured police officers are currently receiving medical attentio
 [Data](articles/a77668d1.json)
 
 [Extended Data](ext_articles/a77668d1.ext.json)
+
+---
+
+### Sri Lanka foreign reserves rise $431mn to US$4.9bn in March
+
+*2024-04-07 06:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-reserves-rise-431mn-to-us4-9bn-in-march-157776/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s gross official reserves grew 431 million dollars to 4,951 million US dollars in March 2024 from 4,520 million dollars in February, data from the central bank shows.
+
+Gross official reserves include both monetary and fiscal reserves of the government, that usually come from loans and grants.
+
+Through gross official reserves are listed as 4.9 billion dollars by March, data shows that by February, the central bank’s net foreign exchange position was a negative 2.2 billion US dollars due to its borrowing.
+
+The central bank bought over 400 million dollars in January and February and also allowed the exchange rate to appreciate amid deflationary policy.
+
+However due to settling official liabilities, reserve numbers did not go up.
+
+...
+
+[Data](articles/32ff2688.json)
 
 ---
 
@@ -2183,193 +2345,5 @@ Also, various propaganda was carried out on the publication of dengue during the
 [Data](articles/941e2947.json)
 
 [Extended Data](ext_articles/941e2947.ext.json)
-
----
-
-### 10 years of winning World Cup
-
-*2024-04-06 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195358) · `si`
-
-Sri Lanka wins the Twenty20 World Cup, defeating India in Dhaka. Sri Lanka's victory was led by Lasith Malinga and Nuk Kulasekara, with Kumar Sangakkara and Thisara Perera opening with a 56-run partnership. Thisara Perera scored 23 runs with three sixes, including the winning six.
-
-🟩
-
-Sri Lanka will win the Twenty20 World Cup today (06).
-
-Sri Lanka's leading Sri Lanka leading this victory by defeating India.
-
-The final was held between Sri Lanka and India in the national cricket area in Dhaka, Bangladesh.
-
-The Indian team scored 130 runs for the loss of 4 wickets in the final 20 overs.
-
-The Indian bowlers with a powerful batsman were well-controlled by the Sri Lankan bowlers, while Leader Lasith Malinga and Nuk Kulasekara.
-
-Indian bowlers were able to consult Sri Lanka openers in 41 runs in 41 runs.
-
-Kumar Sangakkara and Thisara Perera opened a 56 runs in 32 balls to build a 56-ball connection in 32 balls with a 56-ball point.
-
-Accordingly, Sri Lanka won the 13-20 World Cup with 4 wickets off the end of 17 balls.
-
-Kumar Sangakkara scored an unbeaten 52 runs while the Tisara Perera was unbeaten on 23 balls with three sixes.
-
-Thisara Perera marked Sri Lanka's victory mark by hitting the six.
-
-Mahela Jayawardene and Kumar Sangakkara retired after this unique match of Sri Lanka.
-
-◼️
-
-[Data](articles/34cc657f.json)
-
-[Extended Data](ext_articles/34cc657f.ext.json)
-
----
-
-### U.S. National Security Advisor speaks with Sri Lankan counterpart
-
-*2024-04-06 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98471/us-national-security-advisor-speaks-with-sri-lankan-counterpart) · `en`
-
-White House National Security Advisor has expressed his interest in maintaining the United States’ ongoing engagement with Sri Lanka in order to collaboratively pursue peace and security in the region.
-
-According to a White House statement, Jake Sullivan conveyed this during a telephone conversation with Sri Lanka’s National Security Advisor Sagala Ratnayake earlier this week.
-
-Their discussion has covered areas of bilateral engagement including U.S. support to Sri Lanka’s security and sovereignty.
-
-Sullivan and Ratnayake also discussed Sri Lanka’s ongoing efforts to complete the fiscal, monetary, and governance elements of its International Monetary Fund (IMF) program, and future opportunities for cooperation.
-
-◼️
-
-[Data](articles/d5c7f12f.json)
-
-[Extended Data](ext_articles/d5c7f12f.ext.json)
-
----
-
-### Sri Lankans migrating for foreign employment drops 4.2-pct in 2023
-
-*2024-04-06 12:50:00* · [`economynextcom`](https://economynext.com/sri-lankans-migrating-for-foreign-employment-drops-4-2-pct-in-2023-157759/) · `en`
-
-ECONOMYNEXT – Sri Lankans migrating for foreign employment dropped 4.2 percent to 297,664 in 2023 from 310,955 in 2022, data from Sri Lanka Foreign Employment Bureau shows.
-
-Remittances for 2024 end are targeted to increase by 17 percent, from the recorded 5969 million dollars of 2023 to 7000 million dollars, the Bureau Publicity Manager Manjula Kularatne told Economy Next.
-
-Sri Lanka’s workers leaving for work abroad dropped to around 203,087 by 2019, with economic growth low or through still positive.
-
-In 2022 official worker migration rebounded above 300,000 with the worst currency crisis in the history of the island’s soft-pegged central bank.
-
-Sri Lanka has network of employment agencies which have been built up over decades of monetary instability and currency depreciation that had destroyed real wages in the island.
-
-...
-
-[Data](articles/ba9aa6b7.json)
-
-[Extended Data](ext_articles/ba9aa6b7.ext.json)
-
----
-
-### 18 kg of ganja in Kilinochchi
-
-*2024-04-06 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180580) · `ta`
-
-In Kilinochchi, 18 kg of ganja was seized during a raid, with the suspect and certificates arrested at midnight.
-
-🟩
-
-The arrests have been made in accordance with the information available to the Special Division of Drug Eradication in Mannar.
-
-The suspect has been recovered from 18 kg of cannabis during a raid on the Ponnagar area of the Kilinochchi police division.
-
-The suspect and certificates who were arrested at midnight are in the Kilinochchi Police Kavitha, police said.
-
-◼️
-
-[Data](articles/3f42b697.json)
-
-[Extended Data](ext_articles/3f42b697.ext.json)
-
----
-
-### Three arrested in India with gold worth over INR 30mn smuggled from Sri Lanka
-
-*2024-04-06 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98469/three-arrested-in-india-with-gold-worth-over-inr-30mn-smuggled-from-sri-lanka) · `en`
-
-Officials of India’s Directorate Revenue Intelligence (DRI) have seized 4.9 kilograms of foreign-origin gold, mid sea near the Vedhalai coast, Mandapam in Ramanathapuram district.
-
-The operation was conducted jointly with the Indian Coast Guard (ICG) and Customs Preventive Unit (CPU), Ramanathapuram, as per a press release.
-
-Following specific intelligence that foreign-origin gold was being smuggled into India from Sri Lanka through the Vedhalai coast by a gang using a fishing boat, surveillance was stepped up along coastal pockets. The movement of suspected fishing boats was closely monitored from April 3, and in the early hours of April 4, 2024, officers identified a boat mid-sea and pursued it in an ICG vessel. As they were getting closer, the team saw that a consignment was thrown into the sea by one of the persons on board the suspected boat.
-
-...
-
-[Data](articles/e7919a45.json)
-
-[Extended Data](ext_articles/e7919a45.ext.json)
-
----
-
-### 11 dolphins trapped in the trap in Jaffna were left in the sea;Praise the fishermen
-
-*2024-04-06 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180577) · `ta`
-
-11 dolphins trapped in Jaffna were safely rescued by fishermen and released back into the sea.
-
-🟩
-
-The 11 dolphins caught in the Karawala yesterday (05) at the Eastern Building of the Jaffna.
-
-11 dolphins were caught on Friday morning at the Karawala of the Araumathurai Sammatti of the Kattaikkadu area.
-
-Knowing that the dolphins were caught in the web, the fishermen safely rescued 11 dolphins alive and became safe in the sea.
-
-◼️
-
-[Data](articles/6dc64030.json)
-
-[Extended Data](ext_articles/6dc64030.ext.json)
-
----
-
-### The statue of Liberty shakes
-
-*2024-04-06 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195357) · `si`
-
-The Statue of Liberty shook due to a 4.8 Richter scale earthquake affecting New York and the Eastern US coast, felt in Philadelphia around 10:23 am. This was the third largest earthquake in the region in the last 50 years, with 11 aftershocks, but no casualties or property damage.
-
-🟩
-
-Nearly 4.8 units of the Richter thinkens were affected to the towns of New York and Eastern coast of America.
-
-Foreign media reports that the vibe felt the trauma from Flodelphia from Flodelfia around 10.23 am.
-
-Meanwhile, after the main earthquake, about 11 shocks were reported.
-
-Foreign journalists have reported that this is the third largest earthquake recorded in the region over the past five decades.
-
-However, there is no loss of life or property damage from the earthchflow.
-
-It was in this way that the World famous American was shaken by the world famous Americans with that trauma.
-
-◼️
-
-[Data](articles/f4298445.json)
-
-[Extended Data](ext_articles/f4298445.ext.json)
-
----
-
-### Statue of Liberty shakes during earthquake, day after lightning struck its torch
-
-*2024-04-06 11:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98468/statue-of-liberty-shakes-during-earthquake-day-after-lightning-struck-its-torch) · `en`
-
-The Statue of Liberty was struck by lightening on Wednesday and less than 48 hours later, the famous New York City structure survived a 4.8 magnitude earthquake. Social media users posted videos of the centuries old copper structure shaking as a quake sent tremors across the area.
-
-Live cams across NYC, including the one atop the Statue of Liberty, captured Friday’s earthquake and its aftershocks in real time. The initial quake’s epicenter was reported in Lebanon in New Jersey, about 50 miles west of Manhattan. New York City, Philadelphia and Boston felt the tremors around 10:23 AM local time, the United States Geological Survey (USGS) noted.
-
-While videos from across New York City showed shaking, a camera from the Statue of Liberty’s torch covered the earthquake.
-
-...
-
-[Data](articles/1743b1fc.json)
-
-[Extended Data](ext_articles/1743b1fc.ext.json)
 
 ---

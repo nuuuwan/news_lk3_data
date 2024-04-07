@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 07:20:19**
+As of **2024-04-07 07:54:19**
 
 ## Newspaper Stats
 
-*Scraped **17,543** Articles*
+*Scraped **17,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,88 @@ adalk | 1,468
 tamilmirrorlk | 2,065
 adaderanalk | 2,118
 virakesarilk | 2,555
-dailymirrorlk | 2,682
-adaderanasinhalalk | 2,842
+dailymirrorlk | 2,683
+adaderanasinhalalk | 2,844
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,530 (99.9%) of 17,543 articles have been extended.
+17,538 (100.0%) of 17,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### ලාංකිකයින් ප්‍රාණ ඇපයට ගත් පාකිස්තාන ජාතිකයින් අත්අඩංගුවට
+
+*2024-04-07 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195380) · `si`
+
+රැකියා සඳහා විවිධ යුරෝපීය රටවලට යවන මුවාවෙන් ශ්‍රී ලාංකිකයින් සිව්දෙනෙකු ප්‍රාණ ඇපයට ගත් පාකිස්තාන ජාතිකයින් 04 දෙනෙකු නේපාලයේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+නේපාල පොලීසියේ අපරාධ විමර්ශන දෙපාර්තමේන්තුවට ලැබුණු පැමිණිල්ලකට අනුව එම සැකකරුවන් අත්අඩංගුවට ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+අත්අඩංගුවට ගත් පාකිස්තාන ජාතික සැකකරුවන් කැනඩාව සහ රුමේනියාව යන රටවල රැකියා ලබාදෙන බවට ව්‍යාජ තොරතුරු ලබා දී අදාළ ශ්‍රී ලාංකිකයින් සිව්දෙනාගෙන් මුදල් ලබාගෙන ඇති බව නේපාල පොලීසිය පවසයි.
+
+එම ශ්‍රී ලාංකිකයින් සිව්දෙනාට පාකිස්තාන ජාතිකයින් විසින් පහර දී වධ හිංසා පමුණුවා තර්ජනය කර විදෙස් ගමන් බලපත්‍ර ද පැහැරගෙන ඇති බවට අනාවරණ වී තිබේ.
+
+අදාළ ශ්‍රී ලාංකිකයින් සිව්දෙනා ශ්‍රී ලංකාවට නැවත එවීම සඳහා අවශ්‍ය කටයුතු සැලසුම් කරමින් සිටින බව නේපාල පොලීසිය පවසයි.
+
+අත්අඩංගුවට ගත් පාකිස්තාන ජාතිකයින් සිව්දෙනා සම්බන්ධයෙන් පැහැර ගැනීම් සහ මිනිස් ජාවාරම් යන චෝදනා යටතේ නීතිමය ක්‍රියාමාර්ග ගැනීමට නියමිතය.
+
+◼️
+
+[Data](articles/ac7178e5.json)
+
+---
+
+### Man killed in police shooting in Mawanella
+
+*2024-04-07 07:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-killed-in-police-shooting-in-Mawanella/108-280313) · `en`
+
+Mawanella, April 7 (Daily Mirror) - A 53-year-old individual has died in a police shooting while attempting to resolve a dispute in Padiyadora in Mawanella last night.
+
+According to the police, the Mawanella Police were alerted to a dispute in Padiyadora and dispatched officers to investigate the situation.
+
+During the investigation, one person involved in the dispute reportedly assaulted a police officer with a sharp weapon.
+
+In response, another officer fired a warning shot to restore order. However, when the assailant continued to pose a threat by attempting to attack the officer, the officer fired again, resulting in the fatal injury of the suspect's father, who was involved in the altercation.
+
+The deceased, a resident of the area, succumbed to injuries after being rushed to Mawanella Hospital.
+
+Police said two injured police officers are currently receiving medical attention at the same hospital.
+
+...
+
+[Data](articles/a77668d1.json)
+
+---
+
+### මානැල්ලේ දී පොලිස් වෙඩි පහරින් පුද්ගලයෙකු මරුට
+
+*2024-04-07 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195379) · `si`
+
+මාවනැල්ල, පදියදොර ප්‍රදේශයේ ආරවුලක් විසඳීමට යාමේ දී පොලීසිය විසින් සිදුකළ වෙඩිතැබීමකින් පුද්ගලයෙකු මියගොස් තිබේ.
+
+ඊයේ (06) රාත්‍රී එම වෙඩිතැබීම සිදුකර ඇති බව පොලීසිය සඳහන් කළේය.
+
+මාවනැල්ල, පදියදොර ප්‍රදේශයේ ආරවුලක් ඇති බවට මාවනැල්ල පොලීසියට දුරකථන ඇමතුමක් ලැබී තිබුණි.
+
+එහිදී ආරවුලට සම්බන්ධ පුද්ගලයෙකු තියුණු ආයුධයකින් පොලිස් නිලධාරියෙකුට පහර දී ඇති බව වාර්තා වෙයි.
+
+එම අවස්ථාවේ තවත් පොලිස් නිලධාරියෙකු අහසට වෙඩිතබා ඇති අතර එම පොලිස් නිලධාරියාට ද අදාළ පුද්ගලයා පහර දීමට උත්සහ කිරීමේ දී වෙඩිතැබීමක් සිදුකර ඇති බව පොලීසිය පවසයි.
+
+පොලීසිය සිදුකළ වෙඩිතැබීමෙන් පහරදීම සිදුකළ පුද්ගලයාගේ පියාට වෙඩිවැදී ඇති අතර තුවාල ලැබූ ඔහු මාවනැල්ල රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් ඇති බව වාර්තා වෙයි.
+
+මියගොස් ඇත්තේ 53 හැවිරිදි එම ප්‍රදේශයේ ම පදිංචිකරුවෙකු වන අතර ඔහු මත්ද්‍රව්‍ය ජාවාරම්වලට ද සම්බන්ධ අපරාධකරුවෙකු බව පොලීසිය පවසයි.
+
+තුවාල ලැබූ පොලිස් නිලධාරීන් දෙදෙනෙකු ද මේ වනවිට මාවනැල්ල රෝහලේ ප්‍රතිකාර ලබමින් සිටින බව පොලීසිය සඳහන් කළේය.
+
+...
+
+[Data](articles/d8f02dbf.json)
+
+---
 
 ### Four Pakistanis arrested in Nepal for taking four Sri Lankans hostage
 
@@ -52,6 +122,8 @@ Police said arrangements are being made to send them back to Sri Lanka.
 
 [Data](articles/f4a671f8.json)
 
+[Extended Data](ext_articles/f4a671f8.ext.json)
+
 ---
 
 ### Updated UK Travel Advisory on Sri Lanka expected to boost tourism industry
@@ -66,25 +138,33 @@ References to shortages of food, fuel and medicine due to the economic situation
 
 [Data](articles/a9255381.json)
 
+[Extended Data](ext_articles/a9255381.ext.json)
+
 ---
 
-### අද කාලගුණය
+### Weather today
 
 *2024-04-07 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195378) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය,  ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (07) ප.ව. 2.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Today's weather in Kandy, Nuwara Eliya, Galle, and Matara includes showers or thundershowers. The Meteorology Department advises taking precautions against wind and lightning. The sun will be directly above Sri Lanka from April 5 to 15.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, මධ්‍යම, ඌව සහ සබරගමුව පළාත්වලත් අම්මපාර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බවය.
+🟩
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Kandy, Nuwara Eliya, Galle and Matara districts have been also in the Western and Sabaragamuwa Provinces today (07). Showers or thundershowers will occur at several places, about 2.00.
 
-දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනවලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්ෂාංශවලට සෘජුවම ඉහළින් පවතී.
+The department states that in some places in the Western, Central, Uva and Sabaragamuwa provinces, in the Mmith, Galle and Matara districts, and in some places are expected.
 
-ඒ හේතුවෙන් අද (07) දහවල් 12:12ට කඩවත, බදුල්ල, ලුණුගල, කෝන්ගස්පිටිය, බක්මිටියාව සහ කොත්මලේ යන ප්‍රදේශවලට හිරු මුදුන් වනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+When the sun is traveling to the North, the sun is directly above Sri Lanka in April 5 to 15.
+
+The Meteorology Department further states that the sun will be over 12:12 pm today (07).
 
 ◼️
 
 [Data](articles/42c3f4ab.json)
+
+[Extended Data](ext_articles/42c3f4ab.ext.json)
 
 ---
 
@@ -98,6 +178,8 @@ Avurudu is traditionally the most looked forward to holiday for most Sri Lankans
 
 [Data](articles/537e2833.json)
 
+[Extended Data](ext_articles/537e2833.ext.json)
+
 ---
 
 ### MAKE AMERICA PRAY AGAIN
@@ -109,6 +191,8 @@ Avurudu is traditionally the most looked forward to holiday for most Sri Lankans
 ...
 
 [Data](articles/84fa3703.json)
+
+[Extended Data](ext_articles/84fa3703.ext.json)
 
 ---
 
@@ -126,23 +210,31 @@ When arrested by the SLN, Indian authorities exerted undue diplomatic and politi
 
 [Data](articles/c2d260c2.json)
 
+[Extended Data](ext_articles/c2d260c2.ext.json)
+
 ---
 
-### இலங்கை மீனவரை மீட்ட இந்திய விமானப் படை
+### Indian Air Force rescued Sri Lankan fishermen
 
 *2024-04-07 02:29:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மீனவரை-மீட்ட-இந்திய-விமானப்-படை/175-335676) · `ta`
 
-இலங்கையில் இருந்து கடலுக்கு மீன் பிடிக்கச் சென்றவருக்கு நடுக்கடலில் மாரடைப்பு ஏற்பட்டதால் இந்திய விமானப் படையின் ஹெலி அவரை மீட்டு சென்னை வைத்தியசாலையில் சேர்த்துள்ளது.
+The Indian Air Force rescued a Sri Lankan fisherman suffering from a heart attack in the Mediterranean, transporting him to Chennai Hospital.
 
-இலங்கையில் இருந்து புறப்பட்ட நீண்ட நாள் படகில் இருந்த மீனவர் ஒருவருக்கு நேற்று மாரடைப்பு ஏற்பட்டதால் அவருடன் சென்றவர்கள் நடுக்கடலில் உதவி கோரினர். இதனால் அதன் அருகே சென்ற இந்தியக் கடற்படையினர் தகவலை இந்திய விமானப் படையினருக்கு வழங்கினர்.
+🟩
 
-இதையடுத்து இந்திய விமானப் படைக்குச் சொந்தமான ஹெலி சம்பவ இடத்துக்கு வந்தது. அதில் இருந்த விமானப் படையினர் மேற்படி இலங்கை மீனவரை மீட்டு சென்னை வைத்தியசாலையில் சேர்த்துள்ளனர்.
+The Indian Air Force Heli has rescued him and taken him to the Chennai Hospital due to a heart attack in the Mediterranean.
 
-மாரடைப்பால் பாதிக்கப்பட்ட இலங்கை மீனவரின் விபரம் உடனடியாகச் சென்னையில் உள்ள இலங்கைத் தூதரகத்துக்கும் சமர்ப்பிக்கப்பட்டுள்ளது. (a)
+A fisherman who was on a long day of boat from Sri Lanka had a heart attack yesterday asking for help in the Mediterranean Sea. The Indian navy, which went near it, provided information to the Indian Air Force.
+
+Helly, owned by the Indian Air Force, arrived at the scene. The Air Force personnel rescued the Sri Lankan fisherman and taken to the Chennai Hospital.
+
+The details of the Sri Lankan fisherman infected with a heart attack have been immediately submitted to the Sri Lankan embassy in Chennai. (A)
 
 ◼️
 
 [Data](articles/e044069c.json)
+
+[Extended Data](ext_articles/e044069c.ext.json)
 
 ---
 
@@ -279,6 +371,8 @@ Embarrassed, I admit, I am not familiar with the two great classics of our Sinha
 ...
 
 [Data](articles/13f708c2.json)
+
+[Extended Data](ext_articles/13f708c2.ext.json)
 
 ---
 
@@ -2181,57 +2275,5 @@ As the Principal Sponsor, Dialog Axiata lead the charge, powering the excitement
 [Data](articles/8f1c5a13.json)
 
 [Extended Data](ext_articles/8f1c5a13.ext.json)
-
----
-
-### Probe underway into breach of Education Ministry website
-
-*2024-04-06 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Probe-underway-into-breach-of-Education-Ministry-website/108-280302) · `en`
-
-Colombo, April 06 -  An investigation has been launched into the incident where the official website of the Sri Lanka Education Ministry was hacked by an unidentified hacker.
-
-According to a statement, the probe is spearheaded by the Sri Lanka Computer Emergency Readiness Team (SLCERT) and the Telecommunications Regulatory Commission of Sri Lanka (TRCSL).
-
-The Education Ministry also expressed regret over the inconvenience caused to users and assured that efforts are underway to swiftly restore the integrity of the official website.
-
-The breach saw the intrusion of a hacker operating under the pseudonym "Anonymous EEE," who left behind a message apologizing for the unauthorized access while shedding light on security vulnerabilities within the system.
-
-◼️
-
-[Data](articles/6d2f6e17.json)
-
-[Extended Data](ext_articles/6d2f6e17.ext.json)
-
----
-
-### Festive season around the corner…
-
-*2024-04-06 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Festive-season-around-the-corner/110-280255) · `en`
-
-As the Sinhala and Tamil New Year is just around the corner, Sri Lankan people are busy with purchasing goods at the Pettah Market in Colombo. The President of Sri Lanka Ranil Wickramasinghe has instructed the officials to prepare a formal program with the aim of maintaining the uninterrupted essential and public services during the upcoming festive season. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/6dc5b621.json)
-
-[Extended Data](ext_articles/6dc5b621.ext.json)
-
----
-
-### The 8th International Conference on Climate Change 2024 concludes
-
-*2024-04-06 05:37:00* · [`islandlk`](http://island.lk/the-8th-international-conference-on-climate-change-2024-concludes/) · `en`
-
-The 8th International Conference on Climate Change (ICCC) 2024, held from the 8th to the 9th of February at the prestigious Galle Face Hotel in Colombo, Sri Lanka, concluded with resounding success. Organized by the International Institute of Knowledge Management (TIIKM), the conference brought together over 120 participants from across the globe on a hybrid platform.
-
-The International Institute of Knowledge Management (TIIKM) is committed to cultivating a sustainable future through global interdisciplinary collaboration and knowledge sharing by providing accessible platforms, publication support, and fostering meaningful collaborations, connects researchers, professionals, and policymakers worldwide. Through conferences, workshops, and training programs, TIIKM promotes interactive environments for intellectual growth and development, aiming to contribute to a knowledge-driven society.
-
-Nine crossings lend sparkle to share market; indices at their highest over past 52 trading weeks
-
-...
-
-[Data](articles/920afee9.json)
-
-[Extended Data](ext_articles/920afee9.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 18:52:30**
+As of **2024-04-07 19:03:07**
 
 ## Newspaper Stats
 
@@ -26,65 +26,91 @@ adaderanasinhalalk | 2,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,643 (100.0%) of 17,646 articles have been extended.
+17,646 (100.0%) of 17,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### எமது தரப்பில் ஜனாதிபதி வேட்பாளரை களமிறக்குவோம் - மஹிந்த ராஜபக்ஷ
+### Let us field the presidential candidate on our side - Mahinda Rajapaksa
 
 *2024-04-07 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180641) · `ta`
 
-ஜனாதிபதி தேர்தலில் எமது தரப்பின் சார்பில் சிறந்த வேட்பாளரை களமிறக்குவோம். ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்கு நாமல் ராஜபக்ஷவுக்கு இன்னும் காலமுள்ளது என முன்னாள ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்தார்.
+Mahinda Rajapaksa supports Namal Rajapaksa for presidential election. He addresses Sri Lanka Freedom Party issues and acknowledges political alliances, emphasizing decision-making through the party's executive council.
 
-அநுராதபுரத்தில் இன்று ஞாயிற்றுக்கிழமை (07) மத வழிபாட்டில் ஈடுபட்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டாறு குறிப்பிட்டார்.
+🟩
 
-கேள்வி – உங்களின் தாய் கட்சியான ஸ்ரீ லங்கா சுதந்திர கட்சியில் பிரச்சினைகள் தீவிரமடைந்துள்ளன. உங்களின் அரசியல் அந்த கட்சியின் இருந்து ஆரம்பமானது. ஆகவே கட்சியின் தற்போதைய நிலைமை தொடர்பில் உங்களின் நிலைப்பாடு என்ன?
+Let us field the best candidate on behalf of our party in the presidential election. Former President Mahinda Rajapaksa said that Namal Rajapaksa is still in time to contest the presidential election.
 
-பதில் - ஸ்ரீ லங்கா சுதந்திரக் கட்சியில் பிரச்சினைகள் தீவிரமடைந்துள்ளன. பிரச்சினைகளுக்கு பேச்சுவார்த்தைகள் ஊடாக வெகுவிரைவில் தீர்வு காணப்பட வேண்டும்.
+Speaking to the media after a religious worship in Anuradhapura today (07).
 
-கேள்வி - உங்களின் பங்காளிகள் ஐக்கிய மக்கள் சக்தியுடன் கூட்டணி அமைத்துள்ளார்களே... அது உங்களுக்கு சவாலாக அமையாதா?
+Question - Problems in your Thai Party, Sri Lanka Freedom Party (SLFP). Your politics started from that party. So what is your position on the current situation of the party?
 
-பதில் - சவால் ஏதுமில்லை. தேர்தல் இடம்பெறவுள்ள நிலையில் அரசியல் கூட்டணிகள் ஸ்தாபிக்கப்படுவது இயல்பானதே.
+Answer - Problems in Sri Lanka Freedom Party. Negotiations should be resolved quickly through negotiations.
+
+Question - Your partners have formed an alliance with the United People's Power ... Wouldn't that be a challenge for you?
+
+Answer - There is no challenge. It is natural for political alliances to be established as the election is held.
+
+Answer - that's his position. We will announce our candidate. We will make a better decision through the party's executive council.
+
+Question - Are you going to field MP Namal Rajapaksa as presidential candidate?
 
 ...
 
 [Data](articles/69a14a8e.json)
 
+[Extended Data](ext_articles/69a14a8e.ext.json)
+
 ---
 
-### ஓய்வுபெற்ற படைவீரர்களின் நலன்கள், பிரச்சினைகள் தொடர்பில் பாதுகாப்பு இராஜாங்க அமைச்சர் கவனம்
+### The Defense Minister's Focus on the interests and issues of retired soldiers
 
 *2024-04-07 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180640) · `ta`
 
-சேவையிலிருந்து ஓய்வுபெற்ற மற்றும் மருத்துவ காரணங்களுக்காக ஓய்வுபெற்ற படைவீரர்களின் நலன்கள், அவர்கள் நிர்வாக ரீதியாக எதிர்கொள்ளும் சிக்கல்கள் தொடர்பாக பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் நேற்று (06) இராணுவ கஜபா படைப்பிரிவின் ரெஜிமென்ட் நிலையத்துக்கு சென்றபோது கேட்டறிந்தார்.
+Defense Minister Bandara Tennakoon addressed retired soldiers' concerns, including medical issues and administrative problems, promising solutions. Aid centers were established for their needs. He praised their sacrifices, outlined welfare programs, and announced a program prioritizing warriors' families, including health, public administration, and banking services. The government plans to prioritize warriors and their families under the 'Urumaya' Land Confirmation Scheme.
 
-இவ்வாறு ஓய்வுபெற்ற படைவீரர்கள் மற்றும் அவர்களின் உறவினர்கள் பங்குபற்றும் நிகழ்வொன்று வன்னி பாதுகாப்புப் படையினால் நேற்று இராணுவத்தின் கஜபா படைப்பிரிவின் ரெஜிமென்ட் நிலையத்தில் நடைபெற்றது.
+🟩
 
-அப்போது அவர் ஓய்வுபெற்ற படைவீரர்களின் நலன் மற்றும் நிர்வாக ரீதியாக அவர்கள் எதிர்கொள்ளும் சிக்கல் நிலைகள் தொடர்பாக கேட்டறிந்து, அந்த பிரச்சினைகளை தீர்ப்பது தொடர்பில் கவனம் செலுத்துவதாக தெரிவித்திருந்தார்.
+Defense Minister Bandara Tennakoon yesterday (06) heard about the interests of the retired and retired soldiers for retired and medical reasons for medical reasons and heard about the issues facing them.
 
-மேற்படி நிகழ்வில் பிரதம அதிதியாக கலந்துகொள்ள வருகை தந்த பாதுகாப்பு இராஜாங்க அமைச்சரை வன்னி பாதுகாப்பு படை தளபதி மேஜர் ஜெனரல் தினேஷ் நாணயக்கார வரவேற்றார்.
+A event was attended by retired soldiers and their relatives by the Wanni Security Forces yesterday.
+
+He then heard about the welfare of the retired soldiers and the administrative problems they face and said he would focus on solving those issues.
+
+Wanni Defense Commander Major General Dinesh Nanayakkara welcomed the Defense Minister of Defense to attend the event.
+
+It is noteworthy that aid centers were established under the seven different directors of the Army Headquarters, which were convenient to address their needs and address their needs.
+
+Addressing the gathering, the Defense Minister recalled the soldiers who sacrificed their lives during the deadly war in the country and praised their services for the nation.
 
 ...
 
 [Data](articles/fe3f0ab3.json)
 
+[Extended Data](ext_articles/fe3f0ab3.ext.json)
+
 ---
 
-### இலங்கைக்கு பெரிய வெங்காயத்தை ஏற்றுமதி செய்ய இந்தியா தீர்மானம்
+### India resolution to export large onions to Sri Lanka
 
 *2024-04-07 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180646) · `ta`
 
-மோடி அரசின் 'அண்டை நாடுகளுக்கு முதலிடம்' என்ற வெளியுறவுக் கொள்கையின் கீழ், இலங்கைக்கு பெரிய வெங்காயத்தை ஏற்றுமதி செய்ய இந்தியா தீர்மானித்துள்ளதாக அந்நாட்டு ஊடகங்கள் செய்தி வௌியிட்டுள்ளன.
+India's Modi government plans to export large onions to Sri Lanka, despite a temporary ban to control prices and domestic supply.
 
-இலங்கைக்கு ஆயிரக்கணக்கான மெட்ரிக் டொன் வெங்காயத்தை விநியோகிக்க இந்தியா திட்டமிட்டுள்ளதாக மேலும் அந்த செய்தியில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-விலைவாசி உயர்வைக் கட்டுப்படுத்தவும், உள்நாட்டுச் சந்தையில் அதிக அளவில் வெங்காயம் கையிருப்பை வைக்கவும் நோக்கமாக கொண்டு  இந்திய அரசு வெங்காய ஏற்றுமதிக்கு தற்காலிக தடை விதித்திருந்தமை குறிப்பிடத்தக்கது.
+Under the foreign policy of the Modi government, India has decided to export large onions to Sri Lanka, the media has reported.
+
+India is planning to distribute thousands of metric tonnes of onions to Sri Lanka, the report said.
+
+It is noteworthy that the Government of India has imposed a temporary ban on onion exports aimed at controlling prices and the high level of onion in the domestic market.
 
 ◼️
 
 [Data](articles/612ae4d7.json)
+
+[Extended Data](ext_articles/612ae4d7.ext.json)
 
 ---
 

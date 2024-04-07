@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 08:51:21**
+As of **2024-04-07 09:03:21**
 
 ## Newspaper Stats
 
-*Scraped **17,555** Articles*
+*Scraped **17,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,59 @@ tamilmirrorlk | 2,068
 adaderanalk | 2,120
 virakesarilk | 2,555
 dailymirrorlk | 2,683
-adaderanasinhalalk | 2,845
+adaderanasinhalalk | 2,846
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,552 (100.0%) of 17,555 articles have been extended.
+17,555 (100.0%) of 17,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### අනතුරකින් කුඩා දරුවෙක් මරුට
+### තවත් අභිරහස් මරණයක්
+
+*2024-04-07 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195382) · `si`
+
+කොම්පඤ්ඤවීදිය පොලිස් වසමේ බේරේ වැව ආසන්නයේ තිබී නාඳුනන පිරිමි මළ සිරුරක් හමුවී තිබේ.
+
+ඊයේ (06) උදෑසන කාලයේදී එම මළ සිරුර ගැන කොම්පඤ්ඤවීදිය පොලිසීයට තොරතුරක් ලැබී ඇති අතර මරණකරුගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති බව පොලීසිය පවසයි.
+
+මරණකරු වයස අවුරුදු 45ත් 50ත් අතර උස අඩි 05යි අඟල් 06 පමණ වන පිරිමි පුද්ගලයෙකු වන අතර නිල් පැහැති කොටු සරමක් ඇඳ සිටී.
+
+මෘත ශරීරයේ බාහිරින් පෙනීමට තුවාල කිසිවක් නොමැති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/94d1e8a0.json)
+
+---
+
+### A child dies in accident
 
 *2024-04-07 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195381) · `si`
 
-අම්පාර - බිබිල ප්‍රධාන මාර්ගයේ නාමල්ඔය ප්‍රදේශයේදී ලොරි රථයක කුඩා දරුවෙකු ගැටී අනතුරක් සිදුව ඇත.
+A 7-month-old child from Ampara, Namaloya, died in a lorry accident on Bibile Main Road. Parents were involved in religious activities. The driver has been arrested, and police are investigating.
 
-අනතුරින් බරපතළ තුවාල ලැබූ දරුවා ඉඟිනියාගල රෝහලට ඇතුළත් කිරීමේදී මියගොස් තිබේ.
+🟩
 
-ඊයේ රාත්‍රී සිදුවූ එම අනතුරෙන් මියගොස් ඇත්තේ, නාමල්ඔය, අම්පාර ප්‍රදේශයේ පදිංචිව සිටි අවුරුදු 02 මාස 07ක් වූ කුඩා දරුවෙකි.
+Ampara - Bibile Main road accident on a lorry in Namaloya
 
-දෙමාපියන් එම දරුවා සමග මාර්ගය අසල විහාරස්ථානයක ආගමික කටයුතුවල නිරතව සිටියදී දෙමාපියන්ගේ අවධානයෙන් මිදී දරුවා මාර්ගයට පැමිණ ඇත.
+The child who was seriously injured in the accident has died in admission to the Inginiyagala hospital.
 
-සිද්ධිය සම්බන්ධයෙන් ලොරි රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර ඉඟිනියාගල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The deceased has been identified as a seven month of-year-old resident of Ampara, Namaloya.
+
+Parents, while engaging in religious activities with the child, had come to the road.
+
+The lorry driver has been arrested and the Inginiyagala Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/1cd13b33.json)
+
+[Extended Data](ext_articles/1cd13b33.ext.json)
 
 ---
 
@@ -396,27 +420,33 @@ The details of the Sri Lankan fisherman infected with a heart attack have been i
 
 ---
 
-### 1990 සුවසැරිය : 'අපි දවසකට දාහක් පමණ රෝහල්ගත කිරීම් කරනවා'
+### 1990 Wildiness: 'We are hospitalized about a day'
 
 *2024-04-07 02:29:03* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz7z446kr2go) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, 1990 සුවසැරිය ලෝකයේ හොඳම ගිලන්රථ සේවාවක් දක්වා පැමිණි ගමන
+In 1990, India's ambulance service was recognized as one of the world's best, with an average response time of 12 minutes. Despite initial opposition, the service has been praised for its efficiency and has been in operation since 2016.
 
-1990 සුවසැරිය ගිලන්රථ සේවය මගින් සපයන සේවාව දේශීය මෙන්ම ජාත්‍යන්තරයේ ද ඇගයීමට ලක්ව තිබේ.
+🟩
 
-ඩිජිටල් තාක්ෂණය යොදාගත්, නොමිලේ ක්‍රියාත්මක, ලෝකයේ වේගවත්ම ගිලන්රථ සේවාවලින් එකක් ලෙස 1990 නම් කිරීමට ලෝක බැංකුව 2024 මාර්තු මාසයේ දී කටයුතු කරන ලදී.
+None contains none of this.Vadide header, 1990 journey to a best ambulance service in the world
 
-මෙම  ගිලන්රථ සේවාවට ඇමතුමක් ලබා දීමෙන් පසු ළඟම රෝහලට හෝ ප්‍රාථමික ප්‍රතිකාර මධ්‍යස්ථානයට රෝගියකු රැගෙන යෑමට ගතවන සාමාන්‍ය කාලය විනාඩි 12කි.
+The Surprise Squadron Service provided by the 1990s has been evaluated by both internationally and internation.
 
-ඉන්දීය රජයේ ප්‍රධානයක් ලෙස මේ ගිලන්රථ සේවය 2016 දී ආරම්භ කරන අවස්ථාවේ දී රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයෙන් මෙන්ම දේශපාලන පක්ෂවලින් දැඩි විරෝධයක් එල්ල විය.
+The World Bank was served in March 2024 to name digital technology, free of charge, as one of the fastest ambulance services in the world.
 
-නමුත් ගතවූ කාලය තුළ 1990 ගිලන්රථ සේවය ඉටු කළ මෙහෙවර ඇගයීමට ලක් කරමින් ආණ්ඩු පක්ෂය සහ විපක්ෂය එක්ව පසුගිය අප්‍රේල් 02 වැනිදා පාර්ලිමේන්තුවේ දී යෝජනාවක් ඉදිරිපත් කළ එහි නියමුවන්ට සහ කාර්ය මණ්ඩලයට කෘතවේදීත්වය පළ කළහ.
+After calling the ambulance service, the average time taken to carry a patient to the nearest hospital or primary treatment center is 12 minutes.
 
-ආරම්භයේ දී ඉන්දීය විරෝධයට හසු වූ 1990 සුවසැරිය ලෝකයේ හොඳම ගිලන්රථ සේවාවක් දක්වා පැමිණි ගමන මෙහි ඇතුළත් වේ.
+When the public was awarded in 2016 as the Government of India, the ambulance service began in 2016, and strongly opposition from political parties.
+
+However, the government and the opposition joined the pilots and the staff who were fulfilled in the past 1990 ambulance service during the past two years.
+
+In the beginning, the recovery of India has come to the best ambulance service in the world in the world in the 1990s.
 
 ...
 
 [Data](articles/3da4f21d.json)
+
+[Extended Data](ext_articles/3da4f21d.ext.json)
 
 ---
 
@@ -1622,21 +1652,33 @@ At the time, the police found that the cannabis drug was hidden in a small louds
 
 ---
 
-### ජාතික අලුත් සහල් මංගල්‍යය ජනපති ප්‍රධානත්වයෙන්
+### President of National Rice Festival
 
 *2024-04-06 13:16:10* · [`adalk`](https://www.ada.lk/religion/ජාතික-අලුත්-සහල්-මංගල්‍යය-ජනපති-ප්‍රධානත්වයෙන්/4-408975) · `si`
 
-ජාතික අලුත් සහල් මංගල්‍ය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අද (06) පෙරවරුවේ අනුරාධපුර ඓතිහාසික ජය ශ්‍රී මහා බෝ සමිඳුන් අභියස දී පැවැත්විණි.
+National Rice Festival President Ranil Wickremesinghe inaugurated the Jaya Sri Maha Bodhi in Anuradhapura, highlighting the new Rice Wedding Atamastina and the Sahal of Pallegama, organized by the Ministry of Agriculture. The event aimed to boost agriculture and the economy, with contributions from farmers nationwide.
 
-සාම්ප්‍රදායිකව වාර්ෂිකව මහ කන්නයේ නෙලාගත් වී අස්වැන්නෙහි නොඉඳුල් සහලෙහි අග්‍රඵලය ජය ශ්‍රී මහා බෝ සමිඳුන් වෙත පූජා කිරීමේ මෙම අලුත් සහල් මංගල්‍ය අටමස්ථානාධිපති පූජ්‍ය පල්ලේගම හේමරතන නායක හිමිපාණන් වහන්සේගේ අනුශාසනා පරිදි කෘෂිකර්ම අමාත්‍යාංශය සහ ගොවිජන සේවා දෙපාර්තමේන්තුව විසින් 57 වන වරට සංවිධාන කර තිබිණි.
+🟩
 
-රජ සමයේ සිට පැවැත එන මෙම චාරිත්‍රය සඳහා රට පුරා ගොවීන් රැසක් එක්ව සිටි අතර “කලට වැසි වසිත්වා – කෙත්වතු සාරවත් වේවා” යි ප්‍රාර්ථනා කිරීමත්, කෘෂිකර්මාන්තයෙන් රට ස්වයංපෝෂිත වී සමෘද්ධිමත් ආර්ථීකයක් ඇති වේවායි රටට, ජාතියට සෙත් පැතීමත් මෙහිදී සිදු කෙරිණ.
+The Jaya Sri Maha Bodhi in Anuradhapura was held under the patronage of the National Rice Festival President Ranil Wickremesinghe.
 
-අටමස්ථානාධිපති නුවර කලාවිය ප්‍රධාන සංඝනායක පූජ්‍ය පල්ලේගම හේමරතන නා හිමිපාණන් වහන්සේ විසින් අලුත් සහලින් රන් පාත්‍රය පිරවීම ආරම්භ කළ අතර, මහා සංඝරත්නයේ පිරිත් සජ්ඣායනා මැද රන් පාත්‍රය සහලින් පිරවීමේ අවස්ථාවට චාරිත්‍රාණුකූලව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ද එක්විය.
+The new Rice Wedding Atamastina, the new Sahal of Pallegama, was organized by the Ministry of Agriculture and the Department of Agriculture and the Agrarian Services Department of Pallegama.
+
+A number of farmers across the country, a number of farmers across the country, was also the 'fields throughout the country and wish to see the country with a prosperous economy, and forth to prosper the country from agriculture.
+
+Pallegama Chief Sanghajayaka Ven
+
+Commemorative Zone of the National Rice Festival was also presented to the President.
+
+Anuradhapura District Agrarian Organization Leader Puthchanha Farmer was also presented by a agricultural proposal to President Ranil Wickremesinghe.
+
+Adhikaden Leader Vannilesonan was presented to President Ranil Wickremesinghe.
 
 ...
 
 [Data](articles/9e8b5894.json)
+
+[Extended Data](ext_articles/9e8b5894.ext.json)
 
 ---
 
@@ -2277,27 +2319,5 @@ Representatives for the central bank, treasury secretary and bondholder committe
 [Data](articles/7ae915ea.json)
 
 [Extended Data](ext_articles/7ae915ea.ext.json)
-
----
-
-### Foreigners who surprised everyone in the temple
-
-*2024-04-06 08:52:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/ஆலயத்தில்-அனைவரையும்-ஆச்சரியப்பட-வைத்த-வெளிநாட்டவர்கள்/75-335654) · `ta`
-
-During the Trincomalee Thirukoneswaram Arul Mikku Madhumu Ambal Ambal Ambal Ambal Konasewarabh Peruman event, two foreign tourists were surprised by the Hindu cultural dress and the act of lifting Swami with devotion.
-
-🟩
-
-Historical Trincomalee Thirukoneswaram Arul Mikku Madhumu Ambal Ambal Ambal Ambal Konasewarabh Peruman is taking place.
-
-During the event, two foreign tourists visited the Hindu cultural dress and lifted Sami with devotion.
-
-They have lifted Swami when the Swami Street arrives. It is noteworthy that foreigners were surprised by the Swami lifting event. Remble
-
-◼️
-
-[Data](articles/3930af97.json)
-
-[Extended Data](ext_articles/3930af97.ext.json)
 
 ---

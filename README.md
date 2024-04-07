@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 00:33:47**
+As of **2024-04-08 00:48:18**
 
 ## Newspaper Stats
 
-*Scraped **17,686** Articles*
+*Scraped **17,687** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 157
 bbccomsinhala | 184
 dbsjeyarajcom | 213
 newsfirstlk | 363
-dailyftlk | 958
+dailyftlk | 959
 islandlk | 968
 economynextcom | 978
 adalk | 1,489
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,683 (100.0%) of 17,686 articles have been extended.
+17,686 (100.0%) of 17,687 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,61 +54,89 @@ He said 209 people were killed in prisons last year.. (A)
 
 ### 2024-04-07 (Sunday)
 
-### யாஷ் தாகூர், க்ருணல் பாண்டியா ஆகியோரின் துல்லியமான பந்துவீச்சுகளால் குஜராத்தை வென்றது லக்னோவ்
+### Lucknov beat Gujarat with accurate bowling of Yash Tagore and Grunal Pandya
 
 *2024-04-07 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180654) · `ta`
 
-லக்னோவ் எக்கானா விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 21ஆவது போட்டியில் குஜராத் டைட்டன்ஸை 33 ஓட்டங்களால் லக்னோவ் சுப்பர் ஜயன்ட்ஸ் வெற்றிகொண்டது.
+Lucknov Super Giants won against Gujarat Titans by 33 runs in IPL 2023, thanks to Marcus Stoinis's 50, Yash Tagore's 5 wickets, and Krunal Pandya's bowling. Lucknov scored 163/5 in 20 overs.
 
-மார்க்கஸ் ஸ்டொய்னிஸ் குவித்த அரைச் சதமும் யாஷ் தாகூரின் 5 விக்கெட் குவியல்,  க்ருணல் பாண்டியாவின் துல்லியமான பந்துவீச்சு   என்பன  லக்னோவ் சுப்பர் ஜயன்ட்ஸை இலகுவாக வெற்றிபெறச் செய்தன.
+🟩
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய லக்னோவ் சுப்பர் ஜயன்ட்ஸ் 20 ஓவர்களில் 5 விக்கெட்களை இழந்து 163 ஓட்டங்கள் என்ற சுமாரான மொத்த எண்ணிக்கையைப் பெற்றது.
+Lucknov Super Giants won the Gujarat Titans by 33 runs in the 21st match of the 17th Indian Premier League chapter held on Sunday at the Lucknov Econna Stadium.
 
-குவின்டன் டி கொக் (6), தேவ்டத் படிக்கல் (7) ஆகிய இருவரும் குறைந்த ஓட்டங்களுடன் ஆட்டம் இழந்தனர். (18 - 2 விக்.)
+Marcus Stoinis's half -century and Yash Tagore's 5 wickets pile and Krunal Pandya's accurate bowling made Lucknov Super Giants easier.
 
-இந் நிலையில் அணித் தலைவர் கே.எல். ராகுல், மாக்கஸ் ஸ்டொய்னிஸ் ஆகிய இருவரும் 3ஆவது விக்கெட்டில் 73 ஓட்டங்களைப் பகிர்ந்து அணியை வீழ்ச்சியிலிருந்து மீட்டனர்.
+Lucknov Super Giants scored a total of 163 runs for the loss of 5 wickets in 20 overs.
 
-துடுப்பாட்டத்தில் மார்க்ஸ் ஸ்டொய்னிஸ்( (58), கே.எல். ராகுல் (33), நிக்கலஸ் பூரண் (22 பந்துகளில் 3 சிக்ஸ்கள் உட்பட 32 ஆ.இ.), அயுஷ் படோனி (20) ஆகிய ஐவரே 20 அல்லது அதற்கு மேற்பட்ட ஓட்டங்களைப் பெற்றனர்.
+Quinton de Kock (6) and Devdat (7) lost the game with less runs. (18 - 2 wig.)
+
+Team captain KL. Rahul and Macass Stoinis shared 73 runs in the 3rd wicket and recovered the team from the fall.
+
+Marx Stoinis ((58), KL. Rahul (33), Nicholas Pooran (32 in 22 balls) and Aush Bhatoni (20) scored 20 or more runs.
+
+In bowling, Darshan Nalgande took 2 wickets for 21 runs while Umesh Yadav took 2 wickets for 22 runs.
+
+The Gujarat Titans, who were targeted by 164 runs, lost all the wickets in 18.5 overs and lost 130 runs.
+
+Sai Sudarshan and team captain Shubman Gill shared 54 runs in Power Play overs.
 
 ...
 
 [Data](articles/c91b9179.json)
 
+[Extended Data](ext_articles/c91b9179.ext.json)
+
 ---
 
-### ஓய்வுபெற்ற போர்வீரர்கள் மற்றும் அவர்களது குடும்பத்தினரின் நலனுக்கான மேலும் திட்டங்களை நடைமுறைப்படுத்த அரசு தயார் - பாதுகாப்பு இராஜாங்க அமைச்சர்
+### Government is ready to implement further plans for the welfare of retired warriors and their families - Minister of State for Defense
 
 *2024-04-07 23:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/180653) · `ta`
 
-ஓய்வுபெற்ற மற்றும் மருத்துவ காரணங்களுக்காக ஓய்வுபெற்ற படைவீரர்களின் நலன்கள் மற்றும் அவர்கள் நிர்வாக ரீதியாக எதிர்கொள்ளும் சிக்கல் நிலைகள் தொடர்பாக பாதுகாப்பு இராஜாங்க அமைச்சர் இராணுவ கஜபா படைப்பிரிவில் வைத்து கேட்டரிந்து கொண்டார்.
+The Minister of Defense announced plans for retired warriors' welfare, addressing their medical and administrative issues. A Wanni Security Force event aimed to improve their welfare, with Defense Minister Bandara Tennakoon as the guest. Aid centers were established under Army Headquarters directors. The minister highlighted current and future welfare programs, emphasizing the importance of supporting warriors and their families, including priority under the 'Urumaya' Land Confirmation Scheme.
 
-சேவையில் இருந்து ஓய்வுபெற்ற மற்றும் மருத்துவ காரணங்களுக்காக ஓய்வுபெற்ற படைவீரர்கள் மற்றும் அவர்களின் உறவினர்கள் பங்குபற்றும் நிகழ்வு ஒன்று வன்னி பாதுகாப்புப் படையினால் சனிக்கிழமை (06) இராணுவத்தின் கஜபா படைப்பிரிவின் ரெஜிமென்ட் நிலையத்தில் ஏற்பாடு செய்யப்பட்டது.
+🟩
 
-அவர்களின் நலன் மற்றும் நிர்வாக ரீதியாக அவர்கள் எதிர்கொள்ளும் சிக்கல் நிலைகள் குறித்து கேட்டரிந்து, அவைகளை நிவர்த்தி செய்வதே இந்த நிகழ்வின் முக்கிய நோக்கமாக இருந்தது.
+The Minister of Defense has asked the Army Gajaba in the brigade about the interests of the retired soldiers for retired and medical reasons and the problems they are facing administratively.
 
-இந்நிகழ்வில் பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் பிரதம அதிதியாக கலந்து சிறப்பித்தார்.
+A event was organized by the Wanni Security Force at the Regiment of the Army on Saturday (06) by the Vanni Security Force.
 
-மேற்படி நிகழ்வில் பிரதம அதிதியாக கலந்துகொள்ள வருகை தந்த பாதுகாப்பு இராஜாங்க அமைச்சரை வன்னி பாதுகாப்பு படை தளபதி மேஜர் ஜெனரல் தினேஷ் நாணயக்கார வரவேற்றார்.
+The main purpose of this event was to address the problems of their welfare and administratively confronting them.
+
+Defense Minister Bandara Tennakoon was the chief guest at the event.
+
+Wanni Defense Commander Major General Dinesh Nanayakkara welcomed the Defense Minister of Defense to attend the event.
+
+It is noteworthy that aid centers were established under the seven different directors of the Army Headquarters, which were convenient to address their needs and address their needs.
+
+Addressing the gathering, the Defense Minister recalled the soldiers who sacrificed their lives during the deadly war in the country and praised their services for the nation.
 
 ...
 
 [Data](articles/a610ea46.json)
 
+[Extended Data](ext_articles/a610ea46.ext.json)
+
 ---
 
-### இனிப்பு பொருட்களை கொள்வனவில் நுகர்வோர் அதிகார சபை எச்சரிக்கை!
+### Consumer Authority alerts to buy sweet items!
 
 *2024-04-07 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180652) · `ta`
 
-பண்டிகைக் காலங்களில் இறக்குமதி செய்யப்படும் சொக்லேட் உள்ளிட்ட இனிப்பு வகைகளை கொள்வனவு செய்யும் போது மிகவும் அவதானமாக இருக்குமாறு நுகர்வோர் அதிகார சபை மக்களுக்கு அறிவித்துள்ளது.
+The Consumer Affairs Authority warns consumers about buying sweets, especially imported chocolates during festive seasons, and has taken legal action against importing outdated desserts and against Samba rice sellers charging above the control price.
 
-வெளிநாடுகளிலிருந்து, காலாவதியான இனிப்புகளை பொருட்களை இறக்குமதி செய்து திகதிகளை மாற்றி விற்பனை செய்ய முயன்றவர்களை நுகர்வோர் அதிகார சபை சட்ட நடவடிக்கை எடுத்துள்ளது.
+🟩
 
-அதேபோன்று கட்டுப்பாட்டு விலையை விட அதிக விலைக்கு சம்பா அரிசி விற்பனை செய்பவர்கள் தொடர்பாக நுகர்வோர் விவகார அதிகாரசபையின் 1977 இலக்கத்திற்கு கிடைக்கப்பெற்ற முறைப்பாட்டின் அடிப்படையில் கடைகளை சுற்றிவளைத்து சட்ட நடவடிக்கைகள் மேற்கொள்ளப்பட்டமை குறிப்பிடத்தக்கது.
+The Consumer Affairs Authority has announced the public to be very careful when buying sweets, including chocolate imported during the festive season.
+
+The Consumer Affairs Authority has taken legal action to import outdated desserts from overseas.
+
+Similarly, legal proceedings have been taken to surround the shops on the basis of complaints received by the Consumer Affairs Authority (CAA) on the Samba rice sellers at a higher price than the control price.
 
 ◼️
 
 [Data](articles/eb12169b.json)
+
+[Extended Data](ext_articles/eb12169b.ext.json)
 
 ---
 
@@ -195,6 +223,20 @@ These remarks were made by President Ranil Wickremesinghe during a meeting of po
 [Data](articles/8eac6eac.json)
 
 [Extended Data](ext_articles/8eac6eac.ext.json)
+
+---
+
+### Debate over profits of banks: Who shares them ultimately?
+
+*2024-04-07 21:49:53* · [`dailyftlk`](https://www.ft.lk/columns/Debate-over-profits-of-banks-Who-shares-them-ultimately/4-760400) · `en`
+
+No bank would pursue a goal that makes profit making a secondary objective of the bank
+
+If banks make losses, the punishments meted out to such banks would be severe. Their survival, expansion and growth would be seriously threatened by continuous losses they have made. Their capital would be eroded and, sometimes, would become negative, placing them at the receiving end of regulators and would-be investors. Hence, no bank would pursue a goal that makes profit making a secondary objective of the bank
+
+...
+
+[Data](articles/ed12f8e7.json)
 
 ---
 
@@ -2295,29 +2337,5 @@ The annual staff allowance has also been increased to Rs. 3,000.
 [Data](articles/d39be025.json)
 
 [Extended Data](ext_articles/d39be025.ext.json)
-
----
-
-### The Equality Party condemns the Ponnaveli incident
-
-*2024-04-07 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180614) · `ta`
-
-The Equality Party condemns the Ponnaveli incident, opposing the Sunnakkal excavation affecting over five villages, forcing residents to leave their land. They support the Ponnaveli people's peaceful protest for 270 days, vowing to continue advocating until their demands are met.
-
-🟩
-
-The Ponnaweli people's legitimate demands can never be rejected by not allowing the investment efforts of the native lands in which they have lived for a long time and questioned their existence.. The Equality Party vehemently condemns the actions that their demands rejected and carried out by the party's general secretary.. Chandrakumar said.
-
-He made this statement in a statement issued on the incident that took place yesterday (05) in Ponnaweli.
-
-Due to the Sunnakkal excavation to be carried out in the Ponnaveli area, more than five villages in the area will be completely affected.
-
-Due to the Sunnakkal excavation to be carried out at a depth of more than 100 meters. This will create a situation where people who have lived for a long time have to leave their own land. Therefore, there is nothing wrong with the mothers saying that they will never allow the Sunnakkal excavation action to be carried out in their territory.
-
-...
-
-[Data](articles/329bfd75.json)
-
-[Extended Data](ext_articles/329bfd75.ext.json)
 
 ---

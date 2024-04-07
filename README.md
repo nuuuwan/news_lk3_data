@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 01:50:45**
+As of **2024-04-08 02:03:26**
 
 ## Newspaper Stats
 
-*Scraped **17,691** Articles*
+*Scraped **17,694** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 159
 bbccomsinhala | 184
 dbsjeyarajcom | 213
 newsfirstlk | 363
-dailyftlk | 959
+dailyftlk | 961
 islandlk | 968
 economynextcom | 978
 adalk | 1,489
 tamilmirrorlk | 2,083
 adaderanalk | 2,136
-virakesarilk | 2,589
+virakesarilk | 2,590
 dailymirrorlk | 2,700
 adaderanasinhalalk | 2,870
 
@@ -26,43 +26,103 @@ adaderanasinhalalk | 2,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,689 (100.0%) of 17,691 articles have been extended.
+17,691 (100.0%) of 17,694 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### வவுனியா செட்டிக்குளத்தில் இடம்பெற்ற வாகன விபத்தில் இளைஞர் ஒருவர் பலி
+### Dr. Anil Munasinghe appointed CEO of Kelani Cables
+
+*2024-04-08 01:48:52* · [`dailyftlk`](https://www.ft.lk/business/Dr-Anil-Munasinghe-appointed-CEO-of-Kelani-Cables/34-760418) · `en`
+
+Dr. Anil Munasinghe has been appointed as the new CEO of Kelani Cables Plc. Prior to this appointment, Munasinghe served as the Deputy CEO. He joined Kelani Cables as a Sales Manager (Distribution) in 2004 and made significant contributions to the growth and development of the Kelani brand image and personality. Recognizing his achievements, the top management appointed him as the General Manager (Marketing), and he was subsequently promoted to Deputy CEO.
+
+Kelani Cables Plc is recognized as one of the fastest-growing blue-chip companies in the Sri Lankan cable industry.
+
+Munasinghe began his sales and marketing career at ACL Group in 1991 and served successfully for 13 years in various capacities, including Sales Promotion Officer, Sales Executive, and Area Sales Manager, until 2004.
+
+...
+
+[Data](articles/8840c9d8.json)
+
+---
+
+### Maliban Group of Companies shines at CLA Great Managers Award
+
+*2024-04-08 01:46:39* · [`dailyftlk`](https://www.ft.lk/business/Maliban-Group-of-Companies-shines-at-CLA-Great-Managers-Award/34-760417) · `en`
+
+Wins “Companies With Great Managers 2023” award whilst eight managers win individual accolades
+
+Maliban Group of Companies last week won the “Companies With Great Managers 2023” award organised by the Colombo Leadership Academy. The recognition was bestowed at the CLA Great Managers Award Ceremony held at the Balmoral Banquet Hall, Kingsbury Hotel Colombo.
+
+The Winners from the Maliban Group of Companies are Positha Perera – Category Manager, Yenuli Jayawardhana – Category Manager, Sandaru Bandara – Brand Manager, Hasanthi Edirisooriya – Assistant Manager Production Export, Nuwan Buddhika – Group IT Manager Infrastructure & Operations, Chamika Weerasinghe – Assistant Accountant, Ranjana Balasooriya - Retail Execution Specialist and  Chandima Herath – Assistant Quality Assurance Manager Packaging.
+
+...
+
+[Data](articles/6f9a9785.json)
+
+---
+
+### வவுனியாவில் தரம் 2 மாணவன் மீது  தாக்குதல்: நான்கு நாட்களின் பின் ஆசிரியர் கைது
+
+*2024-04-08 01:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/180657) · `ta`
+
+வவுனியா சுந்தரபுரம் பகுதியில் உள்ள பாடசாலை ஒன்றில் தரம் இரண்டில் கல்வி பயிலும் மாணவன் மீது ஆசிரியர் கண்மூடித்தனமாக தாக்கியதில் மாணவன் வைத்தியசாலையில் அனுமதிக்கப்பட்டு நான்கு நாட்களின் பின்னர் இன்று (07.04.2024) காலை குறித்த ஆசிரியர் பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்
+
+வவுனியா, சுந்தரபுரம் பகுதியில் உள்ள  பாடசாலை ஒன்றில் கல்வி பயிலும் மாணவன் கடந்த (03.04) அன்று பாடசாலை முடிந்து வீட்டிற்குச் சென்ற சிறுவனின் முகத்திலும் தலையிலும் அடிகாயங்கள் காணப்பட்டதை அடுத்து பெற்றோர் சிறுவனிடம் விசாரித்ததில் அவரது ஆசிரியை தாக்கியதாகத் தெரிவித்துள்ளான்.
+
+இதனைத் தொடர்ந்து சிறுவனின் தந்தை குறித்த ஆசிரியருக்கு தொலைப்பேசி மூலம் தொடர்பு கொண்டு சிறுவனைத் தாக்கியதற்கான காரணம் என்ன மற்றும் காலிற்குக் கீழ் அடித்து இருக்கலாமே என்றும் தெரிவித்துள்ளார். இதற்கு பதில் அளித்த ஆசிரியை 'உங்கள் மகனுக்கு அ, ஆ தெரியவில்லை என்றும் அதனாலேயே அடித்தது என்றும் அடிக்கும் போது சிறுவன் அங்கும் இங்கும் ஓடியதால் முகத்தில் அடிபட்டுவிட்டது என்று கூறியதுடன், மகனுக்கு அடிக்காமல் கொஞ்சுவதா என ஆசிரியர் கேட்டுள்ளார்.
+
+...
+
+[Data](articles/aaaaa84c.json)
+
+---
+
+### A youth killed in vehicle accident in Vavuniya Chettikulam
 
 *2024-04-08 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180656) · `ta`
 
-வவுனியா செட்டிக்குளம் வாளவைத்தகுளம் பகுதியில் இடம்பெற்ற பட்டா - மோட்டார் சைக்கில் விபத்தில் இளைஞர் ஒருவர் பலியாகியுள்ளார்.
+A youth was killed in a motorcycle accident in Vavuniya Chettikulam, involving two motorcycles. Traffic police are investigating.
 
-மன்னார் - மதவாச்சி பிரதான வீதியில் செட்டிக்குளம் வாளவைத்தகுளம் பகுதியிலுள்ள எரிபொருள் நிலையத்திற்கு அண்மித்த பகுதியில் மோட்டார் சைக்கிலும் பட்டா ரக வாகனமும் மோதுண்டு விபத்துக்குள்ளானதில் மோட்டார் சைக்கிலின் சாரதியான இளைஞர் ஒருவர் உயிரிழந்துள்ளார்
+🟩
 
-சம்பவ இடத்திற்கு சென்ற போக்குவரத்து பொலிஸார் விபத்துச்சம்பவம் தொடர்பிலான மேலதிக விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+A youth was killed in a Patta -motorcycle accident in Vavuniya Chettikulam.
+
+A motorcycle driver has been killed when a motorcycle and a motorcycle crashed into a nearby area near Chettikulam Valawattakulam
+
+Traffic police who went to the scene are conducting further investigations into the accident.
 
 ◼️
 
 [Data](articles/728bdd12.json)
 
+[Extended Data](ext_articles/728bdd12.ext.json)
+
 ---
 
-### ஐக்கிய மக்கள் சக்தியில் இன்று ஐக்கிய தேசியக் கட்சியின் கொள்கைகள் இல்லை - ஜனாதிபதி தெரிவிப்பு
+### There are no policies of the United National Party today in the United People's Power - President
 
 *2024-04-08 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/180655) · `ta`
 
-ஐக்கிய மக்கள் சக்தியில் இன்று ஐக்கிய தேசியக் கட்சியின் கொள்கைகள் இல்லை எனவும், அதன் பொருளாதாரக் கொள்கையை மொட்டுக் கட்சியிலிருந்து வெளியேற்றப்பட்ட குழுவே தற்போது கையாள்வதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe stated that the United National Party (UNP) has no policies in the United People's Power, which is now led by a group expelled from the party. He emphasized the importance of political stability and economic programs for the country's welfare, including the Assembly program for low-income people and a permanent land guarantee scheme for 20 lakh people. He called for unity among political parties to advance the country's economic stability.
 
-ஐக்கிய தேசியக் கட்சியின் உரிமையை பிரகடனப்படுத்தி 2020ஆம் ஆண்டு சிறிகொத்தவைக் கைப்பற்றுவதற்கு தயாரான ஜக்கிய மக்கள் சக்தி, இன்று மொட்டுக் கட்சித் தலைவர் உள்ளிட்டோருக்கு அடிபணிந்துள்ளதாகவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+🟩
 
-கண்டி ஜனாதிபதி மாளிகையில் ஞாயிற்றுக்கிழமை (07) நடைபெற்ற அரசியல் கட்சி பிரதிநிதிகள் கூட்டத்தில் உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe said that there are no UNP policies in the United People's Power and that its economic policy is now handled by a group that has been expelled from the party.
 
-2022 ஜூலையில் ஏற்பட்ட அரசியல் மாற்றத்துடன், நாட்டின் கட்சி அமைப்பிலும் மாற்றம் ஏற்பட்டுள்ளதாக சுட்டிக்காட்டிய ஜனாதிபதி, தான் எந்த அரசியல் கட்சியை பிரதிநிதித்துவப்படுத்தினாலும், அனைவரும் நாட்டைப் பற்றி சிந்தித்து அரசாங்கத்தின் வேலைத்திட்டத்தை முன்னெடுத்துச் செல்ல வேண்டுமெனவும் தெரிவித்தார்.
+The President also pointed out that the JHU, who was ready to take over the Sirikotha in 2020, declared the right of the United National Party, and today, the leader of the party, including the party leader.
+
+President Ranil Wickremesinghe made this statement while addressing a meeting of political party representatives held at the Kandy President's House on Sunday (07).
+
+The President pointed out that with the political change in July 2022, the president said that whatever the political party he represented, everyone should consider the country and carry out the government's program.
 
 ...
 
 [Data](articles/91db5a69.json)
+
+[Extended Data](ext_articles/91db5a69.ext.json)
 
 ---
 
@@ -2235,73 +2295,5 @@ The annual stationery allowance has also been increased to Rs. 3,000, according 
 [Data](articles/7423ef83.json)
 
 [Extended Data](ext_articles/7423ef83.ext.json)
-
----
-
-### Musician arrested with drugs worth Rs. 40 Mn in Kotahena
-
-*2024-04-07 12:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Musician-arrested-with-drugs-worth-Rs-40-Mn-in-Kotahena/108-280318) · `en`
-
-Colombo, April 7 (Daily Mirror) - A musician was arrested with heroin and ice drugs valued at nearly Rs. 40 million during a raid on a house on Sumitrarama Mawatha in Kotahena.
-
-Aduruppuveediya police conducted the raid and recovered 372 grams of heroin and 1.5 kilograms of ice drugs in the suspect's possession.
-
-Police said the drugs were hidden inside a drum among musical instruments.
-
-Preliminary investigations revealed that the arrested suspect has been involved in large-scale drug trafficking activities under the pretense of conducting Paduru Parties and renting musical instruments.
-
-◼️
-
-[Data](articles/5d03438b.json)
-
-[Extended Data](ext_articles/5d03438b.ext.json)
-
----
-
-### Presidential Debate on Daily Mirror and Lankadeepa! Will candidates accept?
-
-*2024-04-07 12:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Presidential-Debate-on-Daily-Mirror-and-Lankadeepa-Will-candidates-accept/155-280317) · `en`
-
-Colombo, April 7 (Daily Mirror) - The Daily Mirror and Lankadeepa extends an invitation to the three main Presidential candidates - Ranil Wickremesinghe, Anura Kumara Dissanayake and Sajith Premadasa for a LIVE presidential debate on their economic and political policies and their pledges in moving the country forward if they win the upcoming Presidential election scheduled to be held in October.
-
-The interview will be aired LIVE on the Daily Mirror, Lankadeepa, Tamil Mirror and Sunday Times digital platforms.
-
-A formal invitation requesting the three political leaders to join the debate will be sent out soon and readers will be kept updated once the invitations are accepted.
-
-A date and time to host the debate will then be announced thereafter.
-
-◼️
-
-[Data](articles/afacb3c2.json)
-
-[Extended Data](ext_articles/afacb3c2.ext.json)
-
----
-
-### A musicioner arrested with powder for four crores
-
-*2024-04-07 12:06:27* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-හතරක-කුඩු--සමඟ-සංගීත-ශිල්පියකු-අත්අඩංගුවට/11-408980) · `si`
-
-A musician was arrested for drug trafficking, with 372 drugs and 572 kilograms of ice recovered. The suspect, a 47-year-old, is linked to a powerful international drug dealer.
-
-🟩
-
-The house raided at Sumanarama Mawatha, Colombo
-
-372 drugs have been recovered by 572 kilograms of ice drugs.
-
-Police OIC Inspector General of Police OIC Inspector Ajith Metthananda, police inspector Ajith Metthananda, was a very careful treasure of the laboratory.
-
-Preliminary investigations have revealed that the suspect had been conducting drug trafficking from a large scale since a period of time.
-
-Police say that the suspect is conducting the racket with a powerful drug dealer who operates from the midnight abroad.
-
-The 47-year-old suspect is detained on detention orders and interrogates a lengthy police officer.
-
-◼️
-
-[Data](articles/e66fca97.json)
-
-[Extended Data](ext_articles/e66fca97.ext.json)
 
 ---

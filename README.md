@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 20:18:04**
+As of **2024-04-07 20:33:49**
 
 ## Newspaper Stats
 
-*Scraped **17,660** Articles*
+*Scraped **17,668** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 154
+colombotelegraphcom | 155
 bbccomsinhala | 184
 dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 958
 islandlk | 968
 economynextcom | 978
-adalk | 1,485
+adalk | 1,487
 tamilmirrorlk | 2,082
-adaderanalk | 2,133
-virakesarilk | 2,578
+adaderanalk | 2,134
+virakesarilk | 2,582
 dailymirrorlk | 2,697
 adaderanasinhalalk | 2,867
 
@@ -26,11 +26,55 @@ adaderanasinhalalk | 2,867
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,660 (100.0%) of 17,660 articles have been extended.
+17,660 (100.0%) of 17,668 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### SLFP convenes urgent politburo meeting led by CBK
+
+*2024-04-07 20:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98498/slfp-convenes-urgent-politburo-meeting-led-by-cbk-) · `en`
+
+The Sri Lanka Freedom Party (SLFP) has summoned the party’s politburo on Monday (March 08) to discuss the future course of action of the party, in view of its current internal crisis situation.
+
+The meeting will reportedly be chaired by former President Chandrika Bandaranaike Kumaratunga.
+
+On Thursday (04), the Colombo District Court issued an interim injunction preventing former President Maithripala Sirisena from functioning as the SLFP chairman, following a complaint filed by former President Chandrika Bandaranaike Kumaratunga.
+
+Nevertheless, Sirisena has reacted, saying that he intends to present facts before the court regarding the matter.
+
+Meanwhile, the Acting General Secretary of SLFP Dushmantha Mithrapala lodged a complaint with the Maradana Police on Friday (05), alleging that several ‘important’ files have gone missing from the party headquarters.
+
+...
+
+[Data](articles/38afa9d5.json)
+
+---
+
+### මුන්දලම කලපුවේ මසුන් ලක්ෂ ගාණක් මිය යයි
+
+*2024-04-07 19:56:00* · [`adalk`](https://www.ada.lk/breaking_news/මුන්දලම-කලපුවේ-මසුන්-ලක්ෂ-ගාණක්-මිය-යයි/11-408993) · `si`
+
+මුන්දලම කලපුවේ මියගිය මසුන් විශාල ප්‍රමාණයක් දක්නට ඇතැයි මුන්දලම ධීවරයෝ පවසති.
+
+ඉකුත් 06 වැනිදා දහවල් කාලයේ සිට මෙම තත්ත්වය දකින්නට ඇති බව මුන්දලම ශාන්ත ජේමිස් ධීවර සමිතියේ සභාපති මර්තීණු ප්‍රනාන්දු මහතා පැවසීය.
+
+මිය ගිය ලොකු කුඩා මසුන් ලක්ෂ ගණනක් කිලෝ මීටර් 03 ක් පමණ දුරකට කලපු තීරයට ද ගොඩ ගසා ඇති  බවත්,වෙරළට ගොඩ නොගැසූ  මිය ගිය මසුන් විශාල ප්‍රමාණයක් කලපුව තුළ සිටින බවත් එසේම 06 වැනිදා රාත්‍රීයේ එළන ලද දැල් වලට එම මාළු පැටලී සිටින බවත් ධීවරයෝ කියති.
+
+මුන්දලම කලපුව භාවිතා කරමින් 1000 කට අධික ධීවරයින් පිරිසක්ද,ඒ ආශ්‍රිත රැකියා කරන විශාල ප්‍රමාණයක්ද සිටිති.
+
+දැල් වලට පැටලී ඇති මාළු මිය ගොස් තිබෙන බැවින් එම සතුන් අලෙවි කිරීමට නොහැකි බවද,වෙරළට ගොඩ ගසා ඇති මසුන් කුණුවීමට පටන් ගෙන ඇති නිසා විශාල පාරිසරික හානියක් සිදු වෙමින් පවතින බවද ධීවරයින් සදහන් කරති.
+
+පසුගිය වසරේද මේ ආකායට මුන්දලම කලපුව තුළ මසුන් මිය යාමේ සිද්ධියක් වාර්තා වී ඇති බවද කියති.
+
+කුඩා මසුන් මිය යාම නිසා වසර කීපයකට මුන්දලම කලපුවේ නැවත රැකියාව කිරීමට තමන්ට නොහැකි වන බවද ඔවුන් කියා සිටී.
+
+...
+
+[Data](articles/f12cc333.json)
+
+---
 
 ### Survey Car Pharmatence
 
@@ -95,6 +139,22 @@ President Ranil Wickremesinghe said that a new committee will be appointed to ma
 [Data](articles/8e65f078.json)
 
 [Extended Data](ext_articles/8e65f078.ext.json)
+
+---
+
+### රටේ නායකත්වයට ආවේ පරපුරක උරුමයද සමගයි
+
+*2024-04-07 19:42:47* · [`adalk`](https://www.ada.lk/breaking_news/රටේ-නායකත්වයට-ආවේ-පරපුරක-උරුමයද-සමගයි/11-408991) · `si`
+
+ජේ.ආර්. ජයවර්ධන ජනාධිපතිවරයා සමඟ කටයුතු කරමින්, රණසිංහ ප්‍රේමදාස ජනාධිපතිවරයා යටතේ පක්ෂය ආරක්ෂා කරමින්, ඩී.බී. විජේතුංග ජනාධිපතිවරයා සමඟ ද කටයුතු කර එක්සත් ජාතික පක්ෂයෙන්ම අග්‍රාමාත්‍ය ධූරයට පත්ව, රටේ නායකත්වය කරා තමා පැමිණියේ එක්සත් ජාතික පක්ෂයේ පරපුරක උරුමය සමඟ බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+සජිත් ප්‍රේමදාස මහතා එක්සත් ජාතික පක්ෂය දෙකඩ කර සමගි ජන බලවේගය ගොඩනැඟූ බවත්, ඒ පිළිබඳ තමන් කණගාටු වන්නේ එතුමාගේ පියාගේ පාලන සමයේ දී පක්ෂය කැඩීයාමට ගිය අවස්ථාවේ පක්ෂය ආරක්ෂා කර දුන්නේ තමන් වීම නිසා බවත් ජනාධිපතිවරයා කියා සිටියේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මහනුවර ජනාධිපති මන්දිරයේදී අද (07) පැවති එක්සත් ජාතික පක්ෂ ක්‍රියාකාරී හමුව අමතමිනි.
+
+...
+
+[Data](articles/be6c4a72.json)
 
 ---
 
@@ -339,6 +399,68 @@ It is reported that the members of the Sri Lanka Freedom Party (SLFP), President
 [Data](articles/2a73c13d.json)
 
 [Extended Data](ext_articles/2a73c13d.ext.json)
+
+---
+
+### திருமலையில் தமிழர் விடுதலைக் கூட்டணியின் மாநில மாநாடு
+
+*2024-04-07 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/180647) · `ta`
+
+திருகோணமலை மாவட்டத்தின் தமிழர் விடுதலைக் கூட்டணியின் மாநில மாநாடு ஞாயிற்றுக்கிழமை (07) திருகோணமலை நகர சபை மண்டபத்தில் இடம்பெற்றது.
+
+குறித்த மாநாடானது தமிழர் விடுதலைக் கூட்டணியின் தலைவர் வீ. ஆனந்த சங்கரி தலைமையில் இடம்பெற்றது.
+
+இதில் சுமார் 300 க்கும் மேற்பட்ட கட்சியின் பிரதிநிதிகள், ஆதரவாளர்கள் என பலர் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/b46fdbce.json)
+
+---
+
+### எவ்வாறான சவால்கள் வந்தாலும் ஸ்ரீ.சு.கட்சி முன் செல்லும் - மைத்திரி
+
+*2024-04-07 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180645) · `ta`
+
+ஸ்ரீலங்கா சுதந்திர கட்சி எதிர்கொண்டுள்ள பிரச்சினைகளை தீர்த்துக்கொண்டு எதிர்வரும் தேர்தலுக்கு முகம்கொடுக்க கூட்டணி அமைக்கும் நடவடிக்கையை முன்னெடுப்போம். எவ்வாறான சவால்களை ஏற்படுத்தினாலும் அதனை முறியடித்துக்கொண்டு முன்னுக்கு செல்லும் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்தார்.
+
+கடுவளையில் இடம்பெற்ற ஸ்ரீலங்கா சுதந்தர கட்சியின் மாவட்ட சம்மேளனத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+ஸ்ரீலங்கா சுதந்திர கட்சி வரலாற்றில் பல தடவைகள் பல்வேறு நெருக்கடிகளை எதிர்கொண்டிருந்தது. அப்போது எமக்கு ஏற்பட்ட சவால்களை முறியடித்துக்கொண்டு கட்சியை முன்னுக்கு கொண்டு செல்ல நாங்கள் நடவடிக்கை எடுத்திருக்கிறோம். அதேபோன்று தற்போதும் கட்சிக்கு எதிராக பல்வேறு சவால்கள், எதிரான நடவடிக்கைகள் ஏற்படுத்தப்பட்டிருக்கின்றன. இந்த சவால்களை வெற்றிகொள்ள நாங்கள் நடவடிக்கை எடுப்போம்.
+
+...
+
+[Data](articles/99738249.json)
+
+---
+
+### ஜனாதிபதி தேர்தலில் மைத்திரிபால சிறிசேன அனைவருக்கும் சவாலாக அமைவார் -    சரத் ஏக்கநாயக்க
+
+*2024-04-07 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/180644) · `ta`
+
+ஜனாதிபதி தேர்தல் அறிவிக்கப்பட்டால் எதிர்வரும் மே முதலாம் திகதி ஸ்ரீலங்கா சுதந்திர கட்சியின் நிலைப்பாட்டை வெளிப்படுத்துவோம். மைத்திரிபால சிறிசேனவே அனைவருக்கும் சவாலாக இருக்கப்போகிறார் என மத்திய மாகாண முன்னாள் முதலமைச்சர் சரத் ஏக்கநாயக்க தெரிவித்தார்.
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தலைமையில் பெல்லன்வில விகாரையில் இடம்பெற்ற மத வழிபாட்டு நிகழ்வின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+ஸ்ரீலங்கா சுதந்திர கட்சி இந்த நாட்டில் இருக்கும் பழமை வாய்ந்த கட்சி. நாடு அரசியல் ரீதியில் தற்போது நெருக்கடி நிலையில் இருப்பதால், எதிர்வரும் ஜனாதிபதி தேர்தல் அரசியல் கட்சிகளுக்கு பாரிய சவாலாக அமையும். அதனால் பிரதான கட்சிகள் தற்போது கூட்டணி அமைக்கும் நடவடிக்கையில் தீவிரமாக ஈடுபட்டு வருகின்றன. அந்த வகையில் ஸ்ரீலங்கா சுதந்திர கட்சியுடன் இணைந்து கூட்டணி அமைக்க பல தரப்பினர முன்வந்திருக்கின்றனர்.
+
+...
+
+[Data](articles/ad268a7b.json)
+
+---
+
+### நாட்டில் விலைவாசி அதிகரிக்க காரணம் இரு இராஜாங்க அமைச்சர்கள் - சாணக்கியன்
+
+*2024-04-07 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180643) · `ta`
+
+விலைவாசி அதிகரிப்பதற்கு மட்டக்களப்பு மாவட்டத்திலுள்ள மக்களும்தான் காரணம். விலைவாசியை குறைப்பதற்காக நாங்கள் வரவு செலவுத் திட்டத்துக்கு எதிராகத்தான் வாக்களிக்கின்றோம். மாறாக எமது மாவட்டத்திலுள்ள இரு இராஜாங்க அமைச்சர்களும், வரவு செலவுத் திட்டத்துக்கு ஆதரவாக இரு கைகளையும் உயர்த்தி விலைவாசி அதிகரித்தாலும் பரவாயில்லை எனத் தெரிவித்து, ஆதரவு தெரிவித்து வருகின்றனர் என இலங்கை தமிழ் அரசுக் கட்சியின் மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன் தெரிவித்துள்ளார்.
+
+இலங்கை தமிழரசுக் கட்சியின் மட்டக்களப்பு மாவட்டத்தின் மண்முனை தென் எருவில் பற்று பிரதேசத்துக்கான மகளிர் அணி புனரமைப்புக் கூட்டம் மண்முனை தென் எருவில் பற்று பிரதேச சபையின் முன்னாள் உப தவிசாளர் க.றஞ்சினியின் தலைமையில் ஞாயிற்றுக்கிழமை (07) களுவாஞ்சிக்குடியில் அமைந்துள்ள பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியனின் காரியாலயத்தில் நடைபெற்றது.
+
+...
+
+[Data](articles/66f659a8.json)
 
 ---
 
@@ -941,6 +1063,18 @@ Further investigations are being carried out by the police that the two victims 
 [Data](articles/6ca7815b.json)
 
 [Extended Data](ext_articles/6ca7815b.ext.json)
+
+---
+
+### The Ugly New Face Of Terrorism
+
+*2024-04-07 14:38:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-ugly-new-face-of-terrorism/) · `en`
+
+What on earth is happening? An unprecedented election victory for Vladimir Putin followed on the morrow by a savage terrorist attack on mainly young people gathered at the Crocus concert venue on the outskirts of Moscow! The death toll is over 150 and still rising. Th number wounded of course is larger. This is the deadliest terrorist attack that Russia has suffered in 20 years.
+
+...
+
+[Data](articles/597616cf.json)
 
 ---
 
@@ -2193,213 +2327,5 @@ OP1 Select best and below best fell, as poorer sorts maintained. OPA Select best
 [Data](articles/a11dea66.json)
 
 [Extended Data](ext_articles/a11dea66.ext.json)
-
----
-
-### England's flights in England canceled
-
-*2024-04-07 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195383) · `si`
-
-Due to severe weather, flights in England, Scotland, and Wales are canceled, impacting train and boat services.
-
-🟩
-
-Due to the bad weather, many flights in Britain have been canceled.
-
-The flights have been canceled in terms of the strong winds with the storm and the warm weather.
-
-The train and boat services in Scotland have also been affected by inclement weather.
-
-Due to the wind, England have been affected in the North Western and Southwest Territories and Northern Ireland, Scotland and Wales.
-
-◼️
-
-[Data](articles/32f42f9b.json)
-
-[Extended Data](ext_articles/32f42f9b.ext.json)
-
----
-
-### Two other dead houses are
-
-*2024-04-07 08:56:23* · [`adalk`](https://www.ada.lk/breaking_news/මළ-ගෙදර-තවත්-මළ-ගෙවල්-දෙකක්-වෙයි/11-408979) · `si`
-
-Two drownings in Kolbeyollewa and Medawewa areas. Two residents of Piliyandala drowned yesterday morning.
-
-🟩
-
-Two of four persons who had been bathing in the Kolbeyollewa area have been drowned in the Kolbeyibananda Wewa.
-
-Two years and 51 years ago, two people drowned. Two people who had been in the middle of the center of the Medawewa area were drowned while they were bathing.
-
-Two residents of Piliyandala. The drowning took place yesterday morning.
-
-◼️
-
-[Data](articles/bb0a279b.json)
-
-[Extended Data](ext_articles/bb0a279b.ext.json)
-
----
-
-### Pincase and thief die while tied trees
-
-*2024-04-07 08:48:18* · [`adalk`](https://www.ada.lk/breaking_news/පිංකැටය-කැඩීමට-පැමිණ-සොරා-පහර-කා-ගස්-බැඳ-සිටියදී-මිය-යයි/11-408978) · `si`
-
-A 47-year-old man from Menikhinna died in a fight with a thief in Kandy. The thief was attacked by villagers while trying to break down a pin. The incident involved a motorcycle and is under investigation by the Kandy Police Headquarters.
-
-🟩
-
-Police say he had died while heavy hitting a thief who had come to break down the pin breaking the pin in the Kandy area.
-
-Today (07), the thief saw a group of thief in the temple to the temples in the same time, the villagers were attacked by the villagers and attacked him.
-
-The deceased has been identified as a 47 year old resident of the Menikhinna area.
-
-Police say he had come to the scene with a motorcycle, police said.
-
-The Chief Inspector of Police Headquarters, Kandy Police Headquesoral General Inspector Rasika Savi is conducting further investigations.
-
-◼️
-
-[Data](articles/84d274c4.json)
-
-[Extended Data](ext_articles/84d274c4.ext.json)
-
----
-
-### Medical Insurance Scheme for Artists
-
-*2024-04-07 08:40:15* · [`adalk`](https://www.ada.lk/breaking_news/කලාකරුවන්-වෙනුවෙන්-වෛද්‍ය-රක්ෂණ-ක්‍රමයක්/11-408977) · `si`
-
-The Medical Insurance Scheme for Artists was discussed by H. S. Said, Senior Advisor on Economic Advisor, and Dr. R. H. S., Senior President of Economic Affairs, at a Presidential Secretariat meeting. They highlighted the need for a budget or policy set to address artist pensions and welfare, emphasizing the Sri Lanka Insurance Corporation's readiness to implement a medical insurance scheme.
-
-🟩
-
-Economic Advis Officer Senior Advisor on Economic Advisor to the Department of Economics. H. S. Said by Mr. Samaratunga.
-
-He also requested artists to provide a series of suitable proposals for the favorable film industry and artists.
-
-Senior President of Economic Affairs Senior Advisor Dr. R. H. S. He was speaking at a discussion held at the Presidential Secretariat recently to meet the cinema of the craftsmen of the craftsmen of the craftsmen of the country's cinema and secure the cinema in Sri Lanka.
-
-Dr. R. H. S. The discussion was held under the patronage of the Chairman of the National Film Corporation, Mr. Samaratunga, President's Trade Unions Director General of the President Saman Ratnapriya and Chairman of the National Film Corporation.
-
-The film industry was also discussed at length.
-
-President's Senior Advisor on Economic Affairs. H. S. Mr. Samaratunga said,
-
-...
-
-[Data](articles/a59b27e7.json)
-
-[Extended Data](ext_articles/a59b27e7.ext.json)
-
----
-
-### Another mysterious death
-
-*2024-04-07 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195382) · `si`
-
-An unidentified male, 6-50 feet tall, found near Slave Island Police Division. No injuries found. Identity unknown.
-
-🟩
-
-A body of unidentified male has been found near Slave Island Police Division.
-
-The Slave Island has received information about the body yesterday (06) and the deceased identity has not yet been established.
-
-The deceased is a male and 6 feet 6 to 50 feet and six feet 6 inches.
-
-Police say that there is no such injuries in the body.
-
-◼️
-
-[Data](articles/94d1e8a0.json)
-
-[Extended Data](ext_articles/94d1e8a0.ext.json)
-
----
-
-### England a big push for tourism in Sri Lanka
-
-*2024-04-07 08:33:07* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සංචාරක-ව්‍යාපාරයට-එංගලන්තයෙන්-ලොකු-තල්ලුවක්/11-408976) · `si`
-
-England promotes Sri Lanka tourism, updating travel advisories to reflect economic progress and improved security. The UK's High Commission in Sri Lanka removes outdated concerns like food, fuel, and medicinal shortages, and health service limits, aiming to attract more tourists.
-
-🟩
-
-The UK has worked for Sri Lanka's travel consultation for Sri Lanka by Sri Lanka by Sri Lanka (TRAVEL ADVISORY) for its current economic progress due to the current economic progress.
-
-It has updated the pre-existing information on the security of the country such as the requirements of safety care and the security of the country, such as the security situation and health facilities that exist in the country.
-
-Accordingly, the information contained in the last consultation regarding the shortage of food, fuel and medicinal deficit, has been removed from the last consultancy.
-
-In addition, the risk of the limits of health services, such as medical shortage has been removed.
-
-The Sri Lankan High Commission of London has taken the need to remove these adverse information to remove these harmful information in the tourist attraction to the tourists of Sri Lanka.
-
-...
-
-[Data](articles/fdd15163.json)
-
-[Extended Data](ext_articles/fdd15163.ext.json)
-
----
-
-### One person killed in police firing
-
-*2024-04-07 08:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாரின்-துப்பாக்கிச்-சூட்டில்-ஒருவர்-பலி/175-335682) · `ta`
-
-In Padiyadara, Mawanella, a 53-year-old drug trafficker was killed by police in a dispute. The victim's father is in hospital. Two police officers were injured. The suspect fled, and the police are searching for him.
-
-🟩
-
-One person was killed in a shooting carried out by police last night in Padiyadara area, Mawanella.
-
-A telephone call has been received by the Mawanella police. Accordingly, the police rushed to the scene.
-
-It is reported that the person involved in the dispute has been attacked by a police officer with a sharp weapon.
-
-The police said that the shooting was carried out when another police officer was fired at the sky and later tried to attack the police officer.
-
-It is reported that the father of the man who was attacked by the police has been admitted to Mawanella after being admitted to the Mawanella hospital.
-
-The deceased is a 53 -year -old from the same area and he is a drug trafficking man, police said.
-
-The two injured police officers are currently receiving treatment at the Mawanella hospital, police said.
-
-The suspect has fled the area and the Mawanella police have taken special measures to arrest him.. Remble
-
-◼️
-
-[Data](articles/c98567b3.json)
-
-[Extended Data](ext_articles/c98567b3.ext.json)
-
----
-
-### A child dies in accident
-
-*2024-04-07 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195381) · `si`
-
-A 7-month-old child from Ampara, Namaloya, died in a lorry accident on Bibile Main Road. Parents were involved in religious activities. The driver has been arrested, and police are investigating.
-
-🟩
-
-Ampara - Bibile Main road accident on a lorry in Namaloya
-
-The child who was seriously injured in the accident has died in admission to the Inginiyagala hospital.
-
-The deceased has been identified as a seven month of-year-old resident of Ampara, Namaloya.
-
-Parents, while engaging in religious activities with the child, had come to the road.
-
-The lorry driver has been arrested and the Inginiyagala Police are conducting further investigations.
-
-◼️
-
-[Data](articles/1cd13b33.json)
-
-[Extended Data](ext_articles/1cd13b33.ext.json)
 
 ---

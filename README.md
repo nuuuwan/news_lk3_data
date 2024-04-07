@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 13:52:58**
+As of **2024-04-07 14:03:12**
 
 ## Newspaper Stats
 
-*Scraped **17,605** Articles*
+*Scraped **17,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 dailyftlk | 958
 islandlk | 968
 economynextcom | 978
-adalk | 1,474
+adalk | 1,476
 tamilmirrorlk | 2,077
 adaderanalk | 2,127
-virakesarilk | 2,563
-dailymirrorlk | 2,690
+virakesarilk | 2,565
+dailymirrorlk | 2,691
 adaderanasinhalalk | 2,856
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,599 (100.0%) of 17,605 articles have been extended.
+17,605 (100.0%) of 17,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### නව හැවැරිදි පුතු ඝාතනය කළ කොස්තාපල් පියාත් දිවි නසා ගනියි
+
+*2024-04-07 13:49:22* · [`adalk`](https://www.ada.lk/breaking_news/නව-හැවැරිදි-පුතු-ඝාතනය-කළ-කොස්තාපල්-පියාත්-දිවි-නසා-ගනියි/11-408983) · `si`
+
+සුවකිරිමට බැරි අසනීපයකින් සහ කතාකිරීමටද නොහැකි  වයස අවුරුදු 9ක්වු තම රෝගී දරුවා  ගෙලට සියතින්ම තොණ්ඩුවක් දමා සිරකර පුතුව ඝාතනය  කර පොලිස් කොස්තාපල් වරයෙකු වූ  පියාද ගෙළ වැළලාගෙන මියගොස් ඇතැයි රාගම රෝහලෙන්  වාර්තාවේ.
+
+මියගොස්  සිටිනුයේ  රාගම වැළිසර වෙන්දේසිවත්ත ප්‍රදේශයේ  පදිංචිව  වයස   36 හැවිරිදි   මහබාගේ පොලිසියේ පොලිස් කොස්තාපල් වරයෙකු ලෙස සේවය කල  නිලංග සදරුවන් සහ සෙදුල  බිත්සර නැමති 9 හැවිරිදි පිරිමි දරුවෙකි.
+
+තම පුතුට කතාකිරීමේ හැකියාව නොමැති  වීම මෙන්ම දරුවා සුව කල නොහැකි රෝගයකින් පීඩා විදීම සම්බන්ධයෙන්   මානසික පීඩනයකින් පසුවී ඇති මෙම පොලිස් නිලධාරීයා ඒ පිලිබදව  නිරතුරුව කනස්සල්ලෙන්  පසු උනේ යැයි බිරිද මරණ පරීක්ෂණයේදී සාක්ෂි දී තිබේ.
+
+පසුගිය  5ස් වන සෙනසුරාදා දහවල් බිරිද   නිවසේ නොසිටි අවස්ථාවකදී  පොලිස් නිලධාරියා මෙලෙස සිය දරුවාද ඝාතනය  කර ඔහුද ඒ අයුරින්ම ගෙල වැළලාගෙන  සියදිවි හාණි කර ගෙන ඇත. මියගිය  පොලිස්  කොස්තාපල් වරයා මහමහබාගේ  පොලිසියට අනුයුක්තව  රාජකාරියේ නිරතව  සිට ඇත.
+
+...
+
+[Data](articles/35e77bce.json)
+
+---
+
+### Police launch special operation to combat drug trafficking via eZ cash, M cash
+
+*2024-04-07 13:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-launch-special-operation-to-combat-drug-trafficking-via-eZ-cash-M-cash/108-280321) · `en`
+
+Colombo, April 7 (Daily Mirror) - A special operation targeting individuals involved in purchasing drugs through eZ Cash and M Cash has been initiated by the police.
+
+Police said this operation, commenced on Saturday and is scheduled to continue till April 10, parallel to the 'Yukthiya' operation under the guidance of Inspector General of Police Deshabandu Tennakoon.
+
+During the initial operations across the island on Saturday, information was gathered on 198 individuals engaged in illegal drug trafficking using eZ Cash and M Cash.
+
+Accordingly, police said that investigations will be conduct by the Police Narcotics Bureau examining the bank account records of 18 traffickers and analyzing telephone tower data related to 71 other suspects.
+
+◼️
+
+[Data](articles/513fda84.json)
+
+---
 
 ### Sri Lanka’s debt repayments to be suspended until 2028
 
@@ -44,75 +80,147 @@ Sri Lanka and a group of its creditors are in final negotiations to suspend debt
 
 [Data](articles/a86fe524.json)
 
+[Extended Data](ext_articles/a86fe524.ext.json)
+
 ---
 
-### පොලීසියෙන් තවත් මෙහෙයුමක්
+### Another operation from the police
 
 *2024-04-07 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195393) · `si`
 
-ජංගම දුරකථන ඔස්සේ මුදල් ගෙවීමට යොදා ගන්නා ක්‍රමවේදයන් භාවිත කරමින් සිදුකරන නීතිවිරෝධී මත්ද්‍රව්‍ය ජාවාරම් මැඩලීමට විශේෂ වැඩපිළිවෙළක් පොලීසිය ආරම්භ කර තිබේ.
+The police have launched a special program to combat mobile phone-based drug trafficking, arresting 198 people and investigating 18 more.
 
-මත්ද්‍රව්‍ය ජාවාරම් මැඩලීමේ යුක්තිය මෙහෙයුමට සමගාමීව එම විශේෂ වැඩපිළිවෙළ ආරම්භ ඇත.
+🟩
 
-එම මෙහෙයුම ඊයේ (06) සිට එළඹෙන 10 වනදා දක්වා ක්‍රියාත්මක කර ඇත්තේ, පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් මතය අනුවය.
+Police have launched a special program to suppress illicit drug trafficking used by mobile phones.
 
-ඒ අනුව, ඊයේ දිනය තුළ ජංගම දුරකථන ඔස්සේ මුදල් ගෙවීමට යොදා ගන්නා ක්‍රමවේද භාවිත කරමින් නීතිවිරෝධී මත්ද්‍රව්‍ය ජාවාරම් සිදු කරනු ලබන පුද්ගලයින් 198 දෙනෙකුගෙන් තොරතුරු ලබාගෙන ඇත.
+The special program has commenced in line with the militant execution of drug trafficking.
 
-මොවුන් සම්බන්ධයෙන් සිදුකරන ලද වැඩිදුර විමර්ශනවලදී මත්ද්‍රව්‍ය ජාවාරම්කරුවන් 18 දෙනෙකු සම්බන්ධයෙන් බැංකු ගිණුම් වාර්තා ඔස්සේද, තවත් මත්ද්‍රව්‍ය ජාවාරම්කරුවන් 71 දෙනෙකු සම්බන්ධයෙන් දුරකථන කුලුනු විශ්ලේෂණ වාර්තා ඔස්සේද පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය මගින් වැඩිදුර විමර්ශන සිදුකරන බව පොලීය පවසයි.
+The operation was implemented from yesterday (06) to the 10th of the IGP Deshabandu Tennakoon.
+
+Accordingly, the illegal drug trafficking has been obtained from 198 people using the methods used in mobile phones yesterday.
+
+The Police Narcotics The Bureau of Narcotics will be investigated in further investigations into 18 drug traffickers.
 
 ◼️
 
 [Data](articles/7ba34882.json)
 
+[Extended Data](ext_articles/7ba34882.ext.json)
+
 ---
 
-### බ්‍රසීලයේ නඩු විභාගයක් අතරතුර සිදුකළ වෙඩිතැබීම
+### Shooting during a case of Brazil
 
 *2024-04-07 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195392) · `si`
 
-සිය පියාගේ ඝාතනයට සම්බන්ධ සැකකරුට නඩු විමසුම අතරතුරදී පුතා විසින් වෙඩිතැබීමේ සිද්ධියක් විදෙස් මාධ්‍ය වාර්තා කළේය.
+A Brazilian son reportedly shot dead his father's murderer, news also covered internationally.
 
-එසේ වෙඩිතැබීම සිදුකරන ආකාරය ද විදෙස් මාධ්‍ය වාර්තා කර තිබුණි.
+🟩
+
+The suspect involved in his father's murder reported a shot dead by son.
+
+The shooting was also reported on foreign media.
 
 ◼️
 
 [Data](articles/6d4c425c.json)
 
+[Extended Data](ext_articles/6d4c425c.ext.json)
+
 ---
 
-### “ஏப்ரல் 15: பொது விடுமுறை அல்ல”
+### “April 15: Not a public holiday”
 
 *2024-04-07 13:19:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-15-பொது-விடுமுறை-அல்ல/175-335698) · `ta`
 
-ஏப்ரல் 15 ஆம் திகதி பொது விடுமுறை தினமாக பிரகடனப்படுத்துவதற்கு எவ்வித தீர்மானமும் எடுக்கப்படவில்லை என உள்நாட்டலுவல்கள் இராஜாங்க அமைச்சர் அசோக பிரியந்த தெரிவித்துள்ளார்.
+"April 15 not declared a public holiday yet. Minister Asoka Priyantha to discuss with ministers and president."
 
-எதிர்வரும் சிங்கள மற்றும் தமிழ் புத்தாண்டை முன்னிட்டு ஏப்ரல் 15 ஆம் திகதியை பொது விடுமுறை தினமாக பிரகடனப்படுத்துமாறு அரச அதிகாரிகள் மற்றும் பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர்.
+🟩
 
-அமைச்சரவைக் கூட்டத்தில் அமைச்சர்கள் மற்றும் ஜனாதிபதியுடன் இது தொடர்பில் கலந்துரையாடவுள்ளதாக அவர் தெரிவித்தார்.
+Minister of State for Home Affairs Asoka Priyantha said that no decision has been taken to declare April 15 as a public holiday.
 
-எனினும், ஏப்ரல் 15ஆம் திகதியை பொது விடுமுறையாக அறிவிப்பது குறித்து இதுவரை எந்த முடிவும் எடுக்கப்படவில்லை.
+State officials and the public have requested that the public be declared a public holiday on the 15th of April ahead of the upcoming Sinhala and Tamil New Year.
+
+He said he would discuss the matter with the ministers and the president at the Cabinet meeting.
+
+However, no decision has been taken so far on the announcement of April 15 as a public holiday.
 
 ◼️
 
 [Data](articles/44818735.json)
 
+[Extended Data](ext_articles/44818735.ext.json)
+
 ---
 
-### ’’ஆணுக்கு ஆண்: பெண்ணுக்கு பெண்’’ : பரபரப்பு தீர்ப்பு
+### வழக்கு உள்ளிட்ட சவால்களிலிருந்து கட்சியை மீட்டெடுப்பதே எமது இலக்கு - மாவை சூளுரை
+
+*2024-04-07 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/180621) · `ta`
+
+தொடுக்கப்பட்டுள்ள வழக்குகள் உள்ளிட்ட கட்சிக்கு எதிரான அனைத்து சவால்களில் இருந்தும் அதனை மீட்டெடுப்பதை இலக்காகக்கொண்டே பயணிக்கின்றோம் என்று இலங்கை  தமிழ் அரசுக் கட்சியின் தலைவர் மாவை.சோ.சேனாதிராஜா சூளுரைத்துள்ளார்.
+
+அத்துடன், முக்கிய முடிவுகளை எடுப்பதற்காக அடுத்த வழக்குத் தவணைக்கு முன்னதாக கட்சியின் மத்திய குழு உறுப்பினர்களுடன் கலந்தாராய்வதற்கு முடிவெடுத்துள்ளதாகவும் அவர் அறிவித்துள்ளார்.
+
+ஆரம்பத்திலிருந்து கட்சியின் ஒற்றுமையை நான் வலியுறுத்தி வருவதோடு கட்சியின் பதவி நிலைகளுக்காக போட்டியிடுவதால் கட்சிக்குள் பிளவுகள் ஏற்பட்டுவிடக்கூடாது என்பதில் மிகக் கவனமாக இருந்து வருகின்றேன்.
+
+இவ்வாறான நிலையில் இலங்கைத் தமிழரசுக் கட்சியின் புதிய தெரிவுகளுக்கு எதிராக நீதிமன்றத்தில் சில அங்கத்தவர்கள் வழக்குத் தாக்கல் செய்துள்ளனர். இந்த வழக்குகளை நாம் ஒற்றுமையாக முகங்கொடுப்பதற்கான நடவடிக்கைகளை முன்னெடுத்துள்ளோம்.
+
+...
+
+[Data](articles/cc933492.json)
+
+---
+
+### Male to Male: Female to Female
 
 *2024-04-07 13:12:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆணுக்கு-ஆண்-பெண்ணுக்கு-பெண்-பரபரப்பு-தீர்ப்பு/175-335697) · `ta`
 
-மசாஜ் (ஸ்பா) நிலையங்களில், பாலியல் ரீதியான மசாஜ் செய்வதை தடுக்க வேண்டும் என்று தொடரப்பட்ட வழக்கில் புதுடெல்லி உச்சநீதிமன்றம் பரபரப்பு உத்தரவு பிறப்பித்திருக்கிறது.
+The New Delhi Supreme Court has ordered spa centers to segregate massage services by gender, aiming to curb illegal activities. Despite police efforts, crimes linked to spas have increased, prompting the court to intervene. The case highlights the challenges in regulating spa and massage centers amidst concerns about illegal activities.
 
-இந்தியாவில், சட்டவிரோதமாக பல்வேறு இடங்களில் ஸ்பா மற்றும் மசாஜ் நிலையங்கள் இயங்கி வருகின்றன.. இந்த நிலையங்களில்  பாலியல் தொழில்  ரகசியமாக நடப்பதாகவும் அவ்வப்போது பொலிஸாருக்கு இரகசிய புகார்கள் வந்தவண்ணம் உள்ளன.
+🟩
 
-இதையடுத்து, பொலிஸாரும் சம்பந்தப்பட்ட ஸ்பா மற்றும் மசாஜ் சென்டர்களில், மஃப்ட்டியில் சென்று கண்காணித்து, நடவடிக்கைகளை மேற்கொண்டு வருகிறார்கள்.. ஸ்பா, மசாஜ் என்ற பெயரில் விபச்சாரம் செய்பவர்களையும் அதிரடியாக கைது செய்கிறார்கள்.
+The New Delhi Supreme Court has issued a stir in the case that it should prevent sexual massage at massage stations.
 
-ஒருவேளை, அந்த மசாஜ் நிறுவனங்களில் லைசன்ஸ் புதுப்பிக்கப்படாமல் அதையும் கண்டறிந்து அபராதம் விதிக்கிறார்கள். அதுமட்டுமல்ல, ஒரே இடத்தில் வாங்கிய சர்ட்டிபிகேட்டுகளை வைத்து கொண்டு, நிறைய இடங்களில் மசாஜ் சென்டர்களை நடத்தி வருவதும் கண்டுபிடிக்கப்பட்டுகிறது..
+In India, spa and massage stations are operating illegally in various places.. There are secret complaints from the police from time to time that the sex industry is in secret at these stations.
+
+Subsequently, the police are also monitoring and carrying out action at the relevant spa and massage centers.. Prostitutes in the name of spa and massage are also arresting.
+
+Perhaps, the massage companies find that the license is not renewed and fined. Moreover, with the certificate purchased in one place, it is also found to be running massage centers in a lot of places.
+
+Despite various measures on the police side, the crime has increased in the name of Spa.. In spa centers in Tamil Nadu, some irregularities are happening from time to time. The government has announced some restrictions to prevent this, but it is not fully eliminated.
 
 ...
 
 [Data](articles/7636dcc5.json)
+
+[Extended Data](ext_articles/7636dcc5.ext.json)
+
+---
+
+### රාජ්‍ය සේවකයින්ට 10 දාට කලින් අවුරුදු තෑගී
+
+*2024-04-07 13:09:56* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවකයින්ට-10-දාට-කලින්-අවුරුදු-තෑගී/11-408981) · `si`
+
+රාජ්‍ය සේවකට හා විශ්‍රාමික රාජ්‍ය සේවකයින්ට හිමි අප්‍රේල් මාසයට හිමි වැටුප අප්‍රේල් දහවෙනිදාට පෙර ලබාදෙන බවත් එම වැටුප සමග අයවැය යෝජනා අනුව වැඩිකළ රුපියල් දස දහසක මුදලද එකතුවන බවද මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සිඹලාපිටිය මහතා පවසයි.
+
+◼️
+
+[Data](articles/a5cee044.json)
+
+---
+
+### நாட்டில் எரிபொருள் பாவனை 50% குறைந்துவிட்டது - பெற்றோலிய விநியோகஸ்தர்கள் சங்கம்
+
+*2024-04-07 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180628) · `ta`
+
+நாட்டில் எரிபொருள் பாவனை 50 சதவீதமளவு குறைந்துவிட்டதாக பெற்றோலிய விநியோகஸ்தர்கள் சங்கம் தெரிவித்துள்ளது.
+
+எரிபொருள் பாவனை குறைய நாட்டில் தற்போதுள்ள பொருளாதார நிலையே காரணம் என பெற்றோலிய விநியோகஸ்தர்கள் சங்கத் தலைவர் ஷெல்டன் பெர்னாண்டோ கூறுகிறார்.
+
+◼️
+
+[Data](articles/724a8f8a.json)
 
 ---
 
@@ -288,25 +396,31 @@ A date and time to host the debate will then be announced thereafter.
 
 ---
 
-### කෝටි හතරක කුඩු  සමඟ සංගීත ශිල්පියකු අත්අඩංගුවට
+### A musicioner arrested with powder for four crores
 
 *2024-04-07 12:06:27* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-හතරක-කුඩු--සමඟ-සංගීත-ශිල්පියකු-අත්අඩංගුවට/11-408980) · `si`
 
-කොටහේන සුමිත්‍රාරාම මාවතේ නිවසක් වටලා රුපියල් කෝටි හතරකට ආසන්න වටිනා හොරයින් මත්කුඩු තොගයක් සහ අයිස් මත්ද්‍රව්‍ය තොගයක් සමග සංගීත ශිල්පියෙකු අත්අඩංගුවට ගත් බව  ආදුරුප්පුවීදිය  පොලිසිය කියයි.
+A musician was arrested for drug trafficking, with 372 drugs and 572 kilograms of ice recovered. The suspect, a 47-year-old, is linked to a powerful international drug dealer.
 
-සැකකරු සමග හොරයින්  මත්කුඩු ගෑම් 372 ක් අයිස් මත්ද්‍රව්‍ය  කිලෝ 1 ගෑම්  558 පොලිසිය මගින් සොයාගෙන ඇත.
+🟩
 
-ආදුරුප්පු වීදිය පොලිසියේ ස්ථානාධිපති පොලිස් පරීක්ෂක අජිත් මෙත්තානන්ද මහතාට ලද තොරතුරකට අනුව පොලිස් කණ්ඩායමක් නිවස වටලා සිදුකළ සෝදිසියේදී  වාදන භාණ්ඩ අතර තිබූ බෙරයක ඉතා සූක්ෂම ලෙස මෙම මත්ද්‍රව්‍ය තොගය සඟවා තිබූ බව පොලිසිය කියයි.
+The house raided at Sumanarama Mawatha, Colombo
 
-පැදුරු සාජ්ජ පැවැත්වීම  , වාදන භාණ්ඩ කුලියට ලබාදීම ආදිය සිදුකරන බුවාවෙන් මෙම සැකකරු කාලයක සිට මහා පරිමාණයෙන් මත්ද්‍රව්‍ය  ජාවාරම සිදුකර ඇති බවට මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
+372 drugs have been recovered by 572 kilograms of ice drugs.
 
-සැකකරු විදේශගතව සැගව සිට මෙරට මත්ද්‍රව්‍ය ජාවාරම මෙහෙයවන  ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකු සමඟ සම්බන්ධව මෙම ජාවාරම මෙහෙයවන බවට සැක කරන බව පොලිසිය කියයි.
+Police OIC Inspector General of Police OIC Inspector Ajith Metthananda, police inspector Ajith Metthananda, was a very careful treasure of the laboratory.
 
-47 හැවිරිදි  සැකකරු රැඳවුම් නියෝග මත පොලිසියේ රඳවාගෙන දීර්ඝ ලෙස ප්‍රශ්න කරන බව උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+Preliminary investigations have revealed that the suspect had been conducting drug trafficking from a large scale since a period of time.
+
+Police say that the suspect is conducting the racket with a powerful drug dealer who operates from the midnight abroad.
+
+The 47-year-old suspect is detained on detention orders and interrogates a lengthy police officer.
 
 ◼️
 
 [Data](articles/e66fca97.json)
+
+[Extended Data](ext_articles/e66fca97.ext.json)
 
 ---
 
@@ -2177,119 +2291,5 @@ Sakalaratnayake, consultant for the national security issues of Sri Lanka, said 
 [Data](articles/7d95a081.json)
 
 [Extended Data](ext_articles/7d95a081.ext.json)
-
----
-
-### Sri Lanka Cricket has suddenly taken about Moneragala
-
-*2024-04-06 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195367) · `si`
-
-Sri Lanka Cricket (SLC) has withdrawn from the IPL due to Wanindu Hasaranga's ankle injury, despite media reports of a written notification to the Indian Cricket Board.
-
-🟩
-
-Sri Lanka T20 Leader Supermarket is not participating in the IPL tournament this year's IPL.
-
-According to media reports, SLC has been a written notification to the Indian Cricket Board.
-
-Also, the dubbed foreign media reports that he wants to rest for the condition of the left ankle in Wanindu Hasaranga's left ankle.
-
-Accordingly, as he went to Dubai, he has been preferred to rest at Dubai.
-
-◼️
-
-[Data](articles/3eeccb5e.json)
-
-[Extended Data](ext_articles/3eeccb5e.ext.json)
-
----
-
-### Motorcycle collision with buses in Nintavur;Elderly killed
-
-*2024-04-06 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180597) · `ta`
-
-In Nintavur, a 72-year-old was killed in a motorcycle collision with a bus on Akkaraipattu Kalmunai road. The bus driver was arrested.
-
-🟩
-
-One person has died in a motorcycle with a bus in the Mattupalayam area of Nintavur police division on the Akkaraipattu Kalmunai main road.
-
-The incident took place on Saturday (06) and the driver of the bus has been arrested, Nindavur police said.
-
-The deceased was 72 -year -old Ahmed Lepp Meeraleppe from Nintavur 5th section.
-
-A private bus traveling from Pottuvil to Kalmunai near Pottuvil at around 11.30 am today near the Nintavur Mattupalayam junction
-
-Subsequently, the body of the deceased has been handed over to the Nintavur Hospital for autopsy and the Baswandi driver has been arrested.
-
-◼️
-
-[Data](articles/25c6dfeb.json)
-
-[Extended Data](ext_articles/25c6dfeb.ext.json)
-
----
-
-### Special notice for public servants on year vacation
-
-*2024-04-06 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195366) · `si`
-
-The Ministry of Public Administration and Provincial Councils have issued a notice for public servants on vacation, emphasizing coordination with government agencies and addressing disasters and urgent functions. Development projects will continue during this period.
-
-🟩
-
-The Ministry of Public Administration, the Ministry of Provincial Administration, Provincial Councils, Provincial Councils, Provincial Councils and Local Government has issued a statement regarding the proportion of duties in relation to the long vacation.
-
-The announcement has been issued to all officers working in local administration including all the District Secretaries, Divisional Secretaries.
-
-The announcement states that all the officials, including all the officials, including all the Divisional Secretaries, will be coordinated with government agencies.
-
-The announcement has also emphasized to address disaster and urgent functions during this period.
-
-It is also reported that development projects implemented in this holiday period and program will be taken to carry out the necessary program to maintain the necessary program during this holiday period.
-
-◼️
-
-[Data](articles/ca33e59d.json)
-
-[Extended Data](ext_articles/ca33e59d.ext.json)
-
----
-
-### Indian Coast Guard rescues Sri Lankan fisherman after mid-sea medical emergency
-
-*2024-04-06 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98475/indian-coast-guard-rescues-sri-lankan-fisherman-after-mid-sea-medical-emergency) · `en`
-
-The Indian Coast Guard evacuated a Sri Lankan fisherman facing a life-threatening medical emergency mid-sea on Friday. The Sri Lankan Fishing Vessel (SLFV) ‘Kalpeni’ ventured into the sea and it became adrift due to engine failure on April 1. One of the fishermen, aged 44, suddenly developed shortness of breath after the boat drifted 60 nautical miles from Chennai on April 5.
-
-According to ANI, “On April 5, One crew from a Sri Lankan fishing boat namely PM Sumit Lalitha aged 44 years developed shortness of breath and was suspected to have a life-threatening heart condition. His boat had drifted to about 60 Nautical miles from Chennai.”
-
-“Indian Coast Guard immediately launched its ship ICGS Rani Abakka towards the boat and the patient was evacuated within a few hours. The patient was given basic medical treatment. At the same time, an Advanced Light helicopter (ALH) was launched by ICG from Chennai to air-lift the patient to the Coast Guard air station in Chennai.”
-
-...
-
-[Data](articles/d637a4d5.json)
-
-[Extended Data](ext_articles/d637a4d5.ext.json)
-
----
-
-### New project procedure in Sri Lanka
-
-*2024-04-06 16:07:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-புதிய-திட்டம்-நடைமுறை/175-335660) · `ta`
-
-Sri Lanka's Kasal Women's Hospital in Colombo is introducing a program where the husband can accompany the mother during childbirth, offering a unique experience for the child.
-
-🟩
-
-A new scheme will be launched to allow the husband to be a companion during delivery at the Kasal Women's Hospital in Colombo.
-
-Through this program, the mother will give birth to a child and gives the child a chance to be a companion during childbirth.. Remble
-
-◼️
-
-[Data](articles/b700a566.json)
-
-[Extended Data](ext_articles/b700a566.ext.json)
 
 ---

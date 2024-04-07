@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 08:18:00**
+As of **2024-04-07 08:34:48**
 
 ## Newspaper Stats
 
-*Scraped **17,550** Articles*
+*Scraped **17,552** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 154
 bbccomsinhala | 183
-dbsjeyarajcom | 212
+dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 958
 islandlk | 968
 economynextcom | 975
 adalk | 1,468
-tamilmirrorlk | 2,067
+tamilmirrorlk | 2,068
 adaderanalk | 2,120
 virakesarilk | 2,555
 dailymirrorlk | 2,683
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,844
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,547 (100.0%) of 17,550 articles have been extended.
+17,549 (100.0%) of 17,552 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -291,6 +291,24 @@ When arrested by the SLN, Indian authorities exerted undue diplomatic and politi
 [Data](articles/c2d260c2.json)
 
 [Extended Data](ext_articles/c2d260c2.ext.json)
+
+---
+
+### ஜனாதிபதி தலைமையில் தேசிய புத்தரிசி விழா
+
+*2024-04-07 02:48:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தலைமையில்-தேசிய-புத்தரிசி-விழா/175-335679) · `ta`
+
+கட்சியின் தேவைக்கேற்ப நாட்டின் பொருளாதாரத்தை உருவாக்கவன்றி பொருளாதார ரீதியாக நாட்டைக் கட்டியெழுப்புவதற்காகவே இந்நாட்டில் அரசியல் கட்சி அமைப்பு உருவாக்கப்பட வேண்டுமென  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+அனுராதபுரம் மாவட்ட சட்டத்தரணிகளுடன் நேற்று இடம்பெற்ற சந்திப்பிலேயே ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+இங்கு பல்வேறு கட்சிகளைச் சேர்ந்தவர்கள் உள்ளனர். ஐக்கிய தேசியக் கட்சியின் தலைவராக நான் இங்கு வரவில்லை. ஜனாதிபதியாக உங்கள் அனைவருக்காகவும் பணியாற்றுகின்றேன். இப்போது நாம் பாரம்பரியமாக நினைத்த காலம் முடிந்துவிட்டது. பாரம்பரிய அரசியலின் காரணமாகவே இந்த இக்கட்டான சூழலை எதிர்கொள்ள வேண்டியிருந்தது. அதிலிருந்து நாம் வெளியேற வேண்டும்.
+
+நாட்டின் தேவைக்கேற்ப கட்சி அமைப்பை மாற்றி அமைக்க வேண்டும். கட்சி அமைப்பின் விருப்பப்படி நாட்டை கட்டியெழுப்ப முடியாது. அதைச் செய்யப் போனதால்தான் கடந்த காலங்களில் பல சவால்களை எதிர்கொள்ள வேண்டியிருந்தது. அதனை யாரும் பொறுப்பேற்கவில்லை. கடைசிவரை யாரும் ஆட்சி அமைக்க முன்வரவில்லை.
+
+...
+
+[Data](articles/24c92190.json)
 
 ---
 
@@ -704,6 +722,8 @@ I was born on November 5, 1927 to a Jaffna Tamil, Christian family. My father wa
 
 [Data](articles/2a6bae63.json)
 
+[Extended Data](ext_articles/2a6bae63.ext.json)
+
 ---
 
 ### US, Japan, Australia and Philippines to stage military drills in disputed South China Sea
@@ -838,6 +858,8 @@ To be clear, these core dysfunctions have monstrously perverted constitutional d
 
 [Data](articles/df745765.json)
 
+[Extended Data](ext_articles/df745765.ext.json)
+
 ---
 
 ### Bus failure to go to chinge
@@ -867,6 +889,20 @@ The suspect by the bus driver who stops the scene when he was taken to the scene
 [Data](articles/8b8913f4.json)
 
 [Extended Data](ext_articles/8b8913f4.ext.json)
+
+---
+
+### Remembering Harriet Winslow the Founder Principal of Asia’s First All-Girls  Boarding School – Uduvil  Girls’ College in Jaffna.
+
+*2024-04-06 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83887) · `en`
+
+In the bicentennial year of Uduvil Girls’ College, especially during the month of April, our thoughts dwell closely on the founder principal of the school, Harriet Wadsworth Winslow (née Lathrop), whose birthday falls on April 9. Born in 1796, in Norwich, Connecticut, in the USA, Harriet from a young age, was filled with a yearning to serve in distant lands as a missionary.
+
+She was fortunate in meeting and marrying a young pastor, Rev. Miron Winslow, who also had similar interests. The newly married young couple along with missionaries Mary and Levi Spaulding and others, set sail from Boston on the 8th of June, 1819, heading to Ceylon – their future mission home. The Winslows and the Spauldings had their first glimpse of their mission station in Uduvil on an April morning in 1820. Harriet was just 24 years old.
+
+...
+
+[Data](articles/c13b04d8.json)
 
 ---
 
@@ -2253,47 +2289,5 @@ Recently, Mr. Sirisena stirred fresh controversy when he said that he knew who w
 [Data](articles/ffaeaf3b.json)
 
 [Extended Data](ext_articles/ffaeaf3b.ext.json)
-
----
-
-### Sri Lanka repays $1,338mn to multilateral lenders up to Feb 2024: PMD
-
-*2024-04-06 08:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-repays-1338mn-to-multilateral-lenders-up-to-feb-2024-pmd-157756/) · `en`
-
-ECONOMYNEXT – Sri Lanka has repaid 1,338.8 million US dollars to multilateral lenders since President Ranil Wickremesinghe took office in July 21, 2022, an aide was quoted as saying by his media office.
-
-Rajith Keerthy Tennakoon, President Director General of Community Affairs said 760.1 million dollars was repaid to World Bank, 489.9 million to the Asian Development Bank and 22.3 million dollars to the European Investment Bank.
-
-Another 22.9 million was repaid to the OPEC Fund for Development, 17.9 million to the International Fund for Agricultural Development, 9.8 million to the IMF, 7 million to the Asian Infrastructure Development Bank and 1.7 million to the Nordic Development Fund.
-
-Sri Lanka declared a default in April 2022, but under international practice, multilateral lender debt including the IMF have to be serviced.
-
-...
-
-[Data](articles/ab39e031.json)
-
-[Extended Data](ext_articles/ab39e031.ext.json)
-
----
-
-### 2024 sees drop in dengue cases and deaths compared to previous years
-
-*2024-04-06 08:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98463/2024-sees-drop-in-dengue-cases-and-deaths-compared-to-previous-years) · `en`
-
-State Minister of Health Dr. Sita Arambepola says that 2024 has seen a decrease in the number of dengue cases and mortality rates compared to previous years.
-
-Highlighting the progress, she noted that while 64 dengue-prone areas were identified by January, the authorities have successfully managed to mitigate risks in two zones as of today.
-
-These remarks were made by Dr. Arambepola during her participation in a press briefing at the Presidential Media Centre (PMC) today (05).
-
-Every year, accidents stemming from the unsafe handling of fireworks mar the festive season. Thus, a plea is made for vigilance and caution with loved ones during this New Year period.
-
-Additionally, in the preceding season, concerted efforts were made to raise awareness about dengue prevention. Gratitude is owed to health departments and media outlets for their significant contributions. Notably, compared to previous years, there has been a marked reduction in both dengue cases and fatalities.
-
-...
-
-[Data](articles/2823e615.json)
-
-[Extended Data](ext_articles/2823e615.ext.json)
 
 ---

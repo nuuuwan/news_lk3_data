@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 12:49:11**
+As of **2024-04-07 13:03:38**
 
 ## Newspaper Stats
 
-*Scraped **17,590** Articles*
+*Scraped **17,592** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ islandlk | 968
 economynextcom | 978
 adalk | 1,473
 tamilmirrorlk | 2,074
-adaderanalk | 2,124
+adaderanalk | 2,125
 virakesarilk | 2,563
 dailymirrorlk | 2,686
-adaderanasinhalalk | 2,852
+adaderanasinhalalk | 2,853
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,589 (100.0%) of 17,590 articles have been extended.
+17,590 (100.0%) of 17,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### මාවනැල්ලේ වෙඩිතැබීම ගැන තවත් තොරතුරු
+
+*2024-04-07 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195389) · `si`
+
+මාවනැල්ල, පදියදොර ප්‍රදේශයේදී තියුණු ආයුධ පහරට ලක්වූ පොලිස් නිලධාරීන් දෙදෙනා මාවනැල්ල රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබන බව වාර්තා වෙයි.
+
+මාවනැල්ල පදියදොර ප්‍රදේශයේදී තියුණු ආයුධ රැගත් පුද්ගලයින් දෙදෙනෙක් කලහකාරී ලෙස හැසිරෙමින් නිවසකට ගල්වලින් පහරදෙන බවට මාවනැල්ල පොලීසියට ඊයේ (06) රාත්‍රීයේ දුරකථන ඇමතුමක් ලැබී තිබුණි.
+
+ඒ අනුව ක්‍රියාත්මක වූ 119 යතුරුපැදි සංචාරයේ නිරත පොලිස් නිලධාරීන් සහ රාත්‍රී ජංගම සංචාරයේ යෙදී සිටි නිලධාරීන් පිරිසක් එම ස්ථානයට ගොස් තිබුණි.
+
+එහිදී කලහකාරී ලෙස හැසිරුණු පුද්ගලයින් දෙදෙනා 119 යතුරුපැදි සංචාරයේ නිරතවූ නිලධාරීන් දෙදෙනාට කඩුවලින් පහරදී තුවාල සිදුකර ඇති බව පොලීසිය පැවසීය.
+
+එම නිලධාරීන් දෙදෙනාගේ ජීවිත ආරක්ෂා කරගැනීම සඳහා ජංගම සංචාරයේ යෙදී සිටි නිලධාරීන් විසින් සැකකරුවන් දෙසට වෙඩිතැබීමක් සිදුකර තිබේ.
+
+පොලිස් වෙඩි පහරින් එක් සැකකරුවෙක් තුවාල ලැබූ අතර ඔහුගේ පුත්‍රයා බවට හඳුනාගෙන ඇති අනෙක් සැකකරු එම ස්ථානයෙන් පළා ගොස් තිබුණි.
+
+වෙඩි ප්‍රහාරයෙන් තුවාල ලැබූ සැකකරු සහ කඩු ප්‍රහාරවලින් තුවාල ලැබූ පොලිස් නිලධාරීන් දෙදෙනා කඩිනමින් ප්‍රතිකාර සඳහා ඇතුළත් කෙරුණේ මාවනැල්ල රෝහලටය.
+
+...
+
+[Data](articles/9420857a.json)
+
+---
+
+### Peter Pellegrini: Russia-friendly populist elected Slovak president
+
+*2024-04-07 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98489/peter-pellegrini-russia-friendly-populist-elected-slovak-president) · `en`
+
+Populist Peter Pellegrini has been elected president of Slovakia, succeeding the liberal Zuzana Caputova.
+
+Mr Pellegrini, 48, defeated the pro-Western Ivan Korcok, a former diplomat, with 53% of the vote.
+
+A former prime minister, he is an ally of Prime Minister Robert Fico, and shares the PM’s dovish attitude towards Russia.
+
+Mr Fico and his allies now control Slovakia’s parliament, government and soon the president’s office.
+
+Slovakia had been one of Ukraine’s staunchest allies before Mr Fico came to power in October on a pledge to halt supplies of Slovak Army military stocks to Kyiv. With Mr Pellegrini replacing Mrs Caputova, Ukraine has now definitively lost a voice of support in an EU and Nato capital.
+
+Mr Fico has called for an end to Western military support for Ukraine, an immediate ceasefire and peace talks with Moscow. Mr Fico said recently President Vladimir Putin had been "unfairly demonised" and argued admitting Ukraine to Nato would mark the beginning of a third world war.
+
+...
+
+[Data](articles/a0f713c5.json)
+
+---
 
 ### Allowances of Grama Niladhari officers increased
 
@@ -49,6 +95,8 @@ The annual stationery allowance has also been increased to Rs. 3,000, according 
 ◼️
 
 [Data](articles/7423ef83.json)
+
+[Extended Data](ext_articles/7423ef83.ext.json)
 
 ---
 
@@ -2295,65 +2343,5 @@ Meanwhile, four people were killed in an accident that occurred a few years ago 
 [Data](articles/edfdee72.json)
 
 [Extended Data](ext_articles/edfdee72.ext.json)
-
----
-
-### Decision on Sri Lanka
-
-*2024-04-06 14:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195362) · `si`
-
-The UK updated its travel advisory for Sri Lanka on April 5, 2024, removing concerns about food, fuel, and medicinal shortages. The Presidential Media Unit clarified safety and health facilities, and the risk of health service shortages has been removed. This update reflects Sri Lanka's attractiveness to tourists, with 53,928 UK visitors from January 1 to March 27, making it the third-largest source of tourists.
-
-🟩
-
-The UK has been updated from April 5, 2024 from April 5, 2024 from April 5, 2024.
-
-The Presidential Media Unit said that it was updated to update the pre-existing information on the safety and health facilities that exist in the country to obtain safe medical services in the country when entering the country.
-
-Accordingly, the information contained in the last consultation regarding the shortage of food, fuel and medicinal deficit, has been removed from the last consultancy.
-
-In addition, the risk of the limits of health services, such as medical shortage has been removed.
-
-53,928 tourists from the UK to Sri Lanka from January 1 to March 27, 53,928 tourists from the UK is the third largest country to tour Sri Lanka.
-
-Updated Tourism Counseling will provide another incentive to the Sri Lanka Tourism.
-
-◼️
-
-[Data](articles/53faad2e.json)
-
-[Extended Data](ext_articles/53faad2e.ext.json)
-
----
-
-### Emergency notice to Sri Lankans in Israel
-
-*2024-04-06 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195360) · `si`
-
-Israel alerts Sri Lankans due to suspected attack. Sri Lanka's Ambassador, Nimal Bandara, assures safety measures. Key points: stay indoors unless necessary, keep medications, avoid sharing sensitive media, be cautious with services like handjala, GPS, and ensure safety in safe rooms.
-
-🟩
-
-The Israeli Army has been alert on the suspicion that Israel has been attacked in the Middle East.
-
-Sri Lanka's Ambassador, Nimal Bandara, says that the embassy will work for the safety of Israel in Israel as a result of a risky environment.
-
-The Sri Lankan Embassy in the country has issued a statement that should be taken if there is an emergency.
-
-1. Do not go out of the home, workplace, location, or where they serve except for a very essential reason.
-
-2. Keep the group of medications and vaccinated medicines for many days.
-
-4. Become irregularly photography, videos, detail by speech. Avoid sending sensitive videos and photos to it.
-
-5. Sometimes the handjala, telephone services, GPS guidance services may be deformed from time to time, so refrain from unnecessary.
-
-6. Be sure to go to a safe place, as there is safe rooms and homes in every house, workplace.
-
-...
-
-[Data](articles/d3919ced.json)
-
-[Extended Data](ext_articles/d3919ced.ext.json)
 
 ---

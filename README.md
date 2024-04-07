@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 23:03:11**
+As of **2024-04-07 23:18:16**
 
 ## Newspaper Stats
 
-*Scraped **17,680** Articles*
+*Scraped **17,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,489
 tamilmirrorlk | 2,082
 adaderanalk | 2,136
 virakesarilk | 2,584
-dailymirrorlk | 2,699
+dailymirrorlk | 2,700
 adaderanasinhalalk | 2,870
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,679 (100.0%) of 17,680 articles have been extended.
+17,680 (100.0%) of 17,681 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,6 +75,8 @@ But Prime Minister Benjamin Netanyahu warned that Israel would not bend to forei
 ...
 
 [Data](articles/f311a3f0.json)
+
+[Extended Data](ext_articles/f311a3f0.ext.json)
 
 ---
 
@@ -515,6 +517,26 @@ This initiative aims to curb the illicit trade of alcohol during the temporary c
 [Data](articles/b2f05133.json)
 
 [Extended Data](ext_articles/b2f05133.ext.json)
+
+---
+
+### April 12, 13 dry days except for top star hotels
+
+*2024-04-07 19:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/April-12-13-dry-days-except-for-top-star-hotels/108-280327) · `en`
+
+Colombo, April 07 (Daily Mirror) - To mark the Sinhala and Tamil New Year, the Department of Excise has banned the countrywide sale of liquor on April 12 and 13, except for the star class hotels.
+
+Issuing a special notice, the departmental media spokesperson Channa Weerakkody said the Excise Chief has ordered the closure of all wine stores, bars and taverns on Friday 12 and Saturday 13.
+
+However, in view of the tourists, all hotels that are registered under the Sri Lanka Tourism Development Authority (SLTDA) and beyond the category of three star range, as well as boutique villas are permitted to serve alcoholic beverages only to their local or foreign in-house guests during the stipulated period.
+
+Also, the sale of liquor is entirely prohibited in the country on April 23, which marks the Bak Full Moon Poya Day.
+
+The Excise Department requests the public to alert its Operations Room hotline 1913 for any unlawful activities and instances of violations of the Excise law.
+
+◼️
+
+[Data](articles/cf0cc5a9.json)
 
 ---
 
@@ -2319,31 +2341,5 @@ The private sector has been carried out by the private sector in the country wit
 [Data](articles/f6728ed7.json)
 
 [Extended Data](ext_articles/f6728ed7.ext.json)
-
----
-
-### Husband's backdrop: tragedy in town
-
-*2024-04-07 10:51:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவன்-பின்சென்ற-மனைவி-ஊரில்-சோகம்/175-335685) · `ta`
-
-In Cuddalore, Kandan (48) died in hospital, followed by his wife Ramavalli (40) in a tragic incident. Both had 2 sons.
-
-🟩
-
-There are such men in this time. The incident took place in Cuddalore district,
-
-Kandan (age 48) hails from Suryapettai near Cuddalore district. His wife Ramavalli (40), who was working as a government bus conductor.. They have 2 sons.
-
-Kandan, who was receiving treatment at the Cuddalore Government Hospital, who was ill, died tragically on Wednesday (05) without treatment.. The funeral for his body was held that evening.
-
-Ramavalli, who was in a state of distress after her husband died, suddenly tried to make himself in the toilet of his house. Shocked by this, his relatives took Ramavalli to the Cuddalore Government Hospital for treatment.. He died tragically early Saturday morning (06) without treatment.
-
-The police have registered a case and are investigating. The death of his wife, who was not saddened by the death of her husband, has upset the people of the area.
-
-◼️
-
-[Data](articles/1471e404.json)
-
-[Extended Data](ext_articles/1471e404.ext.json)
 
 ---

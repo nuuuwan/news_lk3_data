@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 22:33:47**
+As of **2024-04-07 22:50:26**
 
 ## Newspaper Stats
 
-*Scraped **17,678** Articles*
+*Scraped **17,679** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 978
 adalk | 1,489
 tamilmirrorlk | 2,082
 adaderanalk | 2,135
-virakesarilk | 2,583
+virakesarilk | 2,584
 dailymirrorlk | 2,699
 adaderanasinhalalk | 2,870
 
@@ -26,23 +26,49 @@ adaderanasinhalalk | 2,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,677 (100.0%) of 17,678 articles have been extended.
+17,678 (100.0%) of 17,679 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### බස් රථයක් පාලමකින් පෙරළෙයි
+### கிளிநொச்சி கல்மடு குளத்தின் பிரதான ஆறான நெத்தலியாறு பகுதியில் சட்டவிரோத மணல் அகழ்வு
+
+*2024-04-07 22:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180651) · `ta`
+
+கிளிநொச்சி கல்மடு குளத்தின் பிரதான ஆறான நெத்தலியாறு பகுதியில் சட்டவிரோத மணல் அகழ்வு இடம்பெற்று வருவதாக கிராம மக்களால் தெரிவிக்கப்படுகிறது.
+
+முல்லைத்தீவிற்கும் கிளிநொச்சி மாவட்டத்திற்குமான எல்லைப்பகுதியில்  உள்ள விவசாய நிலங்களில் சட்டவிரோத மணல் அகழ்வு இடம்பெற்று வருவதாகவும் தமது விவசாயத்தை அழித்து வருவதாகவும் கவலை தெரிவித்துள்ளனர்.
+
+கல்மடு குளத்தின் பிரதான ஆறான நெத்தலியாறை வைத்து காலபோகம் சிறுபோகம் செய்து வரும் விவசாயிகளின் விவசாய நிலங்களில் சட்டவிரோதமாக மண் அகழ்வு தொடர்ச்சியாக இடம்பெற்று வருவதாகத் தெரிவிக்கின்றனர்.
+
+30அடி ஆழத்திலிருந்த ஆற்றுப்பகுதி தற்பொழுது 50அடிக்கும் மேலாக மணல் அகழ்வால் பாதிப்படைந்துள்ளது. இதனால் அருகில் உள்ள வயல் நிலங்கள் இடிந்து விழுவதாகவும் தமது விவசாயத்தை மேற்கொள்ள முடியாமல் உள்ளதாகத் தெரிவிக்கின்றனர்.
+
+குறித்த சம்பவம் தொடர்பில் பல தடைவைகள் புதுக்குடியிருப்பு பொலிசாரிடமும் தர்மபுர பொலிசாரிடமும் முறைப்பாடு செய்தும் இதுவரையில் எந்த நடவடிக்கையும் எடுக்கப்படவில்லை எனவும தமக்கான வாழ்வாதார நிலங்களை பாதுகாத்து தருமாறு கேட்டு நிற்கின்றனர்.
+
+◼️
+
+[Data](articles/d6ef6e1d.json)
+
+---
+
+### Bus rolls with bridge
 
 *2024-04-07 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195410) · `si`
 
-හඟුරන්කෙත පොලිස්බල ප්‍රදේශයේ දෙල්තොට නූල්කඳුර ප්‍රදේශයේදී අද (07) පස්වරුවේ බස් රථයක් පාලමකින් පෙරළී අනතුරක් සිදුවී තිබේ.
+A bus carrying garment factory employees to Delheta collided with a bridge near Hanguranketha Police Station, Deltota, this afternoon.
 
-ඇඟලුම් කර්මාන්තශාලාවක සේවිකාවන් ප්‍රවාහන කරන පෞද්ගලික බස් රථයක් හඟුරන්කෙත සිට දෙල්තොට දක්වා ධාවනය වීමේදී මෙම අනතුර සිදුවී ඇත.
+🟩
+
+Hanguranketha Police Station, Deltota rolled against the Nolpandura area in Deltota this afternoon.
+
+The accident had taken place when a private bus is transporting a private bus to the employees of a garment factory to Delheta.
 
 ◼️
 
 [Data](articles/9c622e97.json)
+
+[Extended Data](ext_articles/9c622e97.ext.json)
 
 ---
 
@@ -2315,31 +2341,5 @@ The Tamil Progressive Alliance led by Mano Ganesan, the Muslim Congress led by R
 [Data](articles/72fcf70f.json)
 
 [Extended Data](ext_articles/72fcf70f.ext.json)
-
----
-
-### Relief for low income families
-
-*2024-04-07 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195386) · `si`
-
-The Ministry of Home Administration and Local Government units have been directed to distribute 20 kg of rice per family for two months to low-income families, as approved by President Ranil Wickremesinghe's proposal.
-
-🟩
-
-The Ministry of Home Administration, Home Affairs, Provincial Councils and Local Government has informed all District Secretaries to carry out the distribution of rice to low income families.
-
-According to the proposal made by President Ranil Wickremesinghe, the Cabinet was approved by the Cabinet recently to provide 20 kilograms of rice per family for two months.
-
-According to the relevant Cabinet approval, the Ministry of Public Administration, Home Affairs, Provincial Councils, Provincial Councils and Local Government has been informed to take place in the Divisional Secretariat level.
-
-The rural beneficiaries of revenue, the beneficiaries, which are selected by the beneficiaries, the welfare beneficiaries, which do not benefit from the relief beneficiaries, which are not benefited from the relief of the revenue, and non-sales personnel who are not beneficiarily..
-
-District Secretaries have to buy about 54 metric tons of rice from 54, 800 metric tons.
-
-◼️
-
-[Data](articles/369854d0.json)
-
-[Extended Data](ext_articles/369854d0.ext.json)
 
 ---

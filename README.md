@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 22:18:17**
+As of **2024-04-07 22:33:47**
 
 ## Newspaper Stats
 
-*Scraped **17,677** Articles*
+*Scraped **17,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ tamilmirrorlk | 2,082
 adaderanalk | 2,135
 virakesarilk | 2,583
 dailymirrorlk | 2,699
-adaderanasinhalalk | 2,869
+adaderanasinhalalk | 2,870
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,675 (100.0%) of 17,677 articles have been extended.
+17,677 (100.0%) of 17,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### බස් රථයක් පාලමකින් පෙරළෙයි
+
+*2024-04-07 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195410) · `si`
+
+හඟුරන්කෙත පොලිස්බල ප්‍රදේශයේ දෙල්තොට නූල්කඳුර ප්‍රදේශයේදී අද (07) පස්වරුවේ බස් රථයක් පාලමකින් පෙරළී අනතුරක් සිදුවී තිබේ.
+
+ඇඟලුම් කර්මාන්තශාලාවක සේවිකාවන් ප්‍රවාහන කරන පෞද්ගලික බස් රථයක් හඟුරන්කෙත සිට දෙල්තොට දක්වා ධාවනය වීමේදී මෙම අනතුර සිදුවී ඇත.
+
+◼️
+
+[Data](articles/9c622e97.json)
+
+---
 
 ### SJB’s economic policy managed by SLPP dissidents – President
 
@@ -45,6 +59,8 @@ These remarks were made by President Ranil Wickremesinghe during a meeting of po
 ...
 
 [Data](articles/8eac6eac.json)
+
+[Extended Data](ext_articles/8eac6eac.ext.json)
 
 ---
 
@@ -1149,6 +1165,8 @@ The first was an experiment called the Minimum Group Study (or Paradigm) devised
 ...
 
 [Data](articles/55934bea.json)
+
+[Extended Data](ext_articles/55934bea.ext.json)
 
 ---
 
@@ -2323,27 +2341,5 @@ District Secretaries have to buy about 54 metric tons of rice from 54, 800 metri
 [Data](articles/369854d0.json)
 
 [Extended Data](ext_articles/369854d0.ext.json)
-
----
-
-### Nurse mother killed in accident
-
-*2024-04-07 10:39:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/தாதியரான-தாய்-விபத்தில்-பலி/95-335684) · `ta`
-
-A 47-year-old nurse from Piliyandala, Dinusha Krishanthi Liyanage, and her husband were killed in a motorcycle accident after leaving the Kalubowila Teaching Hospital.
-
-🟩
-
-Piliyandala police said that the nurse of the Kalubowila Teaching Hospital, who was riding a motorcycle with her husband after work, crashed into a cement lorry.
-
-Dinusha Krishanthi Liyanage, a 47 -year -old nurse who lives in Vijaya Mawatha area in Jaliyagoda, Piliyandala. He is the mother of two children.
-
-The husband of the deceased nurse was also serving as a technical manager at a private hospital and went to the Kalubowila Teaching Hospital and took his wife on a motorbike.
-
-◼️
-
-[Data](articles/832609e7.json)
-
-[Extended Data](ext_articles/832609e7.ext.json)
 
 ---

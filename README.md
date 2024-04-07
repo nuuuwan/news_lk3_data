@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 11:18:08**
+As of **2024-04-07 11:33:55**
 
 ## Newspaper Stats
 
-*Scraped **17,574** Articles*
+*Scraped **17,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,67 +20,107 @@ tamilmirrorlk | 2,073
 adaderanalk | 2,121
 virakesarilk | 2,558
 dailymirrorlk | 2,685
-adaderanasinhalalk | 2,850
+adaderanasinhalalk | 2,851
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,569 (100.0%) of 17,574 articles have been extended.
+17,574 (100.0%) of 17,575 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### கணவன் பின்சென்ற மனைவி: ஊரில் சோகம்
+### මිරිස් ඇතුළු බීජ වර්ග කිහිපයක් අපනයනය කෙරේ
+
+*2024-04-07 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195387) · `si`
+
+පළමුවරට මෙරට බීජ වර්ග කිහිපයක් අපනයනය කිරීම සඳහා සූදානම් කර තිබේ.
+
+ඒ අනුව මිරිස්, වම්බටු , මාළු මිරිස්, බණ්ඩක්කා සහ බඩඉරිඟු යන විශේෂ කිහිපයක් සාර්ථක ලෙස අත්හදා බලා ඇති අතර එම බීජ මෙලෙස අපනයනය කිරීමට නියමිත බව කෘෂිකර්ම දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+එම බීජ සඳහා ඉහළ ඉල්ලුමක් විදේශ රටවල් රැසකින් ඉදිරිපත්වී ඇති බව සඳහන්ය.
+
+එමෙන්ම එම බීජ වැඩිදියුණු කිරීම හා සැකසීම ඉහළම තාක්ෂණය හා විශේෂඥ සහයෝගය ලබා ගනිමින් මෙරට පුද්ගලික අංශය විසින් සිදු කර ඇති බව කෘෂිකර්ම දෙපාර්තමේන්තුව පැවසීය.
+
+◼️
+
+[Data](articles/f6728ed7.json)
+
+---
+
+### Husband's backdrop: tragedy in town
 
 *2024-04-07 10:51:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவன்-பின்சென்ற-மனைவி-ஊரில்-சோகம்/175-335685) · `ta`
 
-இந்த காலத்திலும் இப்படிப்பட்ட மனிதர்கள் இருக்கத்தான் செய்கின்றனர். அப்படியான சம்பவமொன்றே கடலூர் மாவட்டத்தில் இடம்பெற்றுள்ளது,
+In Cuddalore, Kandan (48) died in hospital, followed by his wife Ramavalli (40) in a tragic incident. Both had 2 sons.
 
-கடலூர் மாவட்டம் நடுவீரப்பட்டு அருகே உள்ள சூரியன்பேட்டையை சேர்ந்தவர் கந்தன்(வயது 48). அரசு பஸ் கண்டக்டராக பணிபுரிந்து வந்த இவரது மனைவி ரமாவள்ளி(40). இவர்களுக்கு 2 மகன்கள் உள்ளனர்.
+🟩
 
-இந்த நிலையில் உடல் நலக்குறைவுகாரணமான கடலூர் அரசு மருத்துவமனையில் சிகிச்சை பெற்று வந்த கந்தன் சிகிச்சை பலன் இன்றி வௌ்ளிக்கிழமை (05) பரிதாபமாக இறந்தார். அவரது உடலுக்கான இறுதி சடங்கு அன்று மாலை நடைபெற்றது.
+There are such men in this time. The incident took place in Cuddalore district,
 
-கணவன் இறந்து போனதால் கடும் மன உளைச்சலில் இருந்து வந்த ரமாவள்ளி அவரது வீட்டின் கழிவறையில் திடீரென்று தன்னுயிரை மாய்க்க  முயன்றார். இதைப்பார்த்து அதிர்ச்சி அடைந்த அவரது உறவினர்கள் ரமாவள்ளியை மீட்டு சிகிச்சைக்காக கடலூர் அரசு மருத்துவமனையில் சேர்த்தனர். அங்கு சிகிச்சை பலன் இன்றி அவர் சனிக்கிழமை (06) அதிகாலை பரிதாபமாக இறந்தார்.
+Kandan (age 48) hails from Suryapettai near Cuddalore district. His wife Ramavalli (40), who was working as a government bus conductor.. They have 2 sons.
 
-...
+Kandan, who was receiving treatment at the Cuddalore Government Hospital, who was ill, died tragically on Wednesday (05) without treatment.. The funeral for his body was held that evening.
+
+Ramavalli, who was in a state of distress after her husband died, suddenly tried to make himself in the toilet of his house. Shocked by this, his relatives took Ramavalli to the Cuddalore Government Hospital for treatment.. He died tragically early Saturday morning (06) without treatment.
+
+The police have registered a case and are investigating. The death of his wife, who was not saddened by the death of her husband, has upset the people of the area.
+
+◼️
 
 [Data](articles/1471e404.json)
 
+[Extended Data](ext_articles/1471e404.ext.json)
+
 ---
 
-### අඩු ආදායම්ලාභී පවුල් සඳහා ලැබෙන සහනය
+### Relief for low income families
 
 *2024-04-07 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195386) · `si`
 
-අඩු ආදායම්ලාභී පවුල් සඳහා සහල් බෙදාදීමේ කටයුතු කඩිනමින් සිදුකරන ලෙස රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා සහ පළාත් පාලන අමාත්‍යංශය විසින් සියලු දිස්ත්‍රික් ලේකම්වරුන් වෙත දැනුම් දී තිබේ.
+The Ministry of Home Administration and Local Government units have been directed to distribute 20 kg of rice per family for two months to low-income families, as approved by President Ranil Wickremesinghe's proposal.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ඉදිරිපත් කළ යෝජනාවකට අනුව අඩු ආදායම්ලාභී පවුල්වලට මාස දෙකක් සඳහා එක් පවුලකට සහල් කිලෝග්‍රෑම් 20ක් ලබා දීමට පසුගියදා කැබිනට් අනුමැතිය හිමිවිය.
+🟩
 
-අදාළ කැබිනට් අනුමැතියට අනුව කඩිනමින් තෝරාගත් ප්‍රතිලාභී පවුල් සඳහා සහල් මලු බෙදාදීමේ කටයුතු ප්‍රාදේශීය ලේකම් කාර්යාල මට්ටමින් සිදුකරන ලෙස රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා සහ පළාත් පාලන අමාත්‍යංශය දැනුම් දී ඇත.
+The Ministry of Home Administration, Home Affairs, Provincial Councils and Local Government has informed all District Secretaries to carry out the distribution of rice to low income families.
 
-අස්වැසුම ප්‍රතිලාභීන්, අභියාචනා ඉදිරිපත් කර ඇති පුද්ගලයින් අතරින් සුබසාධන ප්‍රතිලාභ මණ්ඩලය විසින් අස්වැසුම වැඩසටහන සඳහා තෝරාගන්නා පුද්ගලයින්, අස්වැසුම වැඩසටහන හරහා ප්‍රතිලාභ නොලැබෙන සමෘද්ධි ප්‍රතිලාභීන්, අස්වැසුම හෝ සමෘද්ධි ප්‍රතිලාභ නොලබන අමතර මූල්‍යාධාර ලබන වැඩිහිටි පුද්ගලයින්, ආබාධිත පුද්ගලයින් සහ නිදන්ගත රෝගී පුද්ගලයින් සඳහා මෙම සහල් මලු බෙදාදීමට නියමිතය.
+According to the proposal made by President Ranil Wickremesinghe, the Cabinet was approved by the Cabinet recently to provide 20 kilograms of rice per family for two months.
 
-...
+According to the relevant Cabinet approval, the Ministry of Public Administration, Home Affairs, Provincial Councils, Provincial Councils and Local Government has been informed to take place in the Divisional Secretariat level.
+
+The rural beneficiaries of revenue, the beneficiaries, which are selected by the beneficiaries, the welfare beneficiaries, which do not benefit from the relief beneficiaries, which are not benefited from the relief of the revenue, and non-sales personnel who are not beneficiarily..
+
+District Secretaries have to buy about 54 metric tons of rice from 54, 800 metric tons.
+
+◼️
 
 [Data](articles/369854d0.json)
 
+[Extended Data](ext_articles/369854d0.ext.json)
+
 ---
 
-### தாதியரான தாய், விபத்தில் பலி
+### Nurse mother killed in accident
 
 *2024-04-07 10:39:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/தாதியரான-தாய்-விபத்தில்-பலி/95-335684) · `ta`
 
-பணி முடிந்து கணவருடன் மோட்டார் சைக்கிளில் வீட்டுக்குச் சென்று கொண்டிருந்த களுபோவில போதனா வைத்தியசாலையின் தாதியர் சீமெந்து  லொறியில் மோதி விபத்துக்குள்ளானதாக பிலியந்தலை பொலிஸார் தெரிவிக்கின்றனர்.
+A 47-year-old nurse from Piliyandala, Dinusha Krishanthi Liyanage, and her husband were killed in a motorcycle accident after leaving the Kalubowila Teaching Hospital.
 
-பிலியந்தலை ஜாலியகொட விஜய மாவத்தை பிரதேசத்தில் வசித்து வந்த தினுஷா கிரிஷாந்தி லியனகே என்ற 47 வயதான தாதியே மரணமடைந்தார். இவர் இரண்டு பிள்ளைகளின் தாயாவார்.
+🟩
 
-உயிரிழந்த தாதியின் கணவரும் தனியார் வைத்தியசாலை ஒன்றில் தொழிநுட்ப முகாமையாளராக கடமையாற்றுவதாகவும், பணியை முடித்துக் கொண்டு களுபோவில போதனா வைத்தியசாலைக்கு அருகில் சென்று மனைவியையும் மோட்டார் சைக்கிளில் ஏற்றிக்கொண்டு சென்றதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+Piliyandala police said that the nurse of the Kalubowila Teaching Hospital, who was riding a motorcycle with her husband after work, crashed into a cement lorry.
+
+Dinusha Krishanthi Liyanage, a 47 -year -old nurse who lives in Vijaya Mawatha area in Jaliyagoda, Piliyandala. He is the mother of two children.
+
+The husband of the deceased nurse was also serving as a technical manager at a private hospital and went to the Kalubowila Teaching Hospital and took his wife on a motorbike.
 
 ◼️
 
 [Data](articles/832609e7.json)
+
+[Extended Data](ext_articles/832609e7.ext.json)
 
 ---
 
@@ -102,25 +142,31 @@ He further assured that all types of fuel are presently available in the country
 
 ---
 
-### සාම්ප්‍රදායික දේශපාලනයට තිත තැබිය යුතුයි - ජනපති
+### Must be put to traditional politics - President
 
 *2024-04-07 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195385) · `si`
 
-මෙරට දේශපාලන පක්ෂ ක්‍රමය සකස් විය යුත්තේ රට ආර්ථික වශයෙන් ගොඩ නැගීමට මිස පක්ෂයට අවශ්‍ය ලෙස රටේ ආර්ථිකය සකස් කිරීමට නොවන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe emphasizes the need for Sri Lanka's political parties to focus on economic development, not just preparing the economy. He plans to introduce new laws to restructure the economy in May, with international IMF support, and extends the foreign loan repayment period to 2042, aiming to reduce loan burdens.
 
-ජනාධිපතිවරයා පෙන්වා දෙන්නේ පක්ෂවල වුවමනාවන්ට අනුව රටේ ආර්ථිකය සකස් කිරීමට ගොස් විශාල අර්බුදයකට රටට මුහුණ දීමට සිදුවූ බවය.
+🟩
 
-යළි එසේ නොවීමටනම් සාම්ප්‍රදායික දේශපාලනයෙන් මිදිය යුතු බව ද අනුරාධපුර දිස්ත්‍රික් නීතිවේදීන් සමග පැවති සාකච්ඡාවක දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රකාශ කළේය.
+President Ranil Wickremesinghe says that the political party system of Sri Lanka should be prepared economically builds economically, not to prepare the economy of the country.
 
-මේ අතර ආර්ථිකය ප්‍රතිව්‍යුහගතකරණය කිරීමේ නව නීති මැයි මාසයේ දී ගෙනඑන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+The President pointed out that the country wants the country to prepare the economy of the country.
 
-අන්තර්ජාතික මූල්‍ය අරමුදල සමග ගිවිසුම නීතිගත කරමින් එම සහනය රටට ලබාදීමට කටයුතු කරන බව ජනාධිපතිවරයා පැවසීය.
+President Ranil Wickremesinghe stated that if it is not possible to overcome traditional politics, President Ranil Wickremesinghe said.
 
-මෙරට විදේශ ණය ගෙවීමේ කාලය 2042 දක්වා දීර්ඝ කර ගැනීමටත් එම ණයවලින් කොටසක් ඉවත් කර ගැනීමටත් සාකච්ඡා කරමින් සිටින බව "මගෙන් පටන් ගමු" අනුරාධපුර දිස්ත්‍රික් තරුණ සමුළුවට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් සඳහන් කළේය.
+Meanwhile, President Ranil Wickremesinghe says he will bring new laws to restructure the economy in May.
+
+The President said that the concession was legalized with the International IMF.
+
+President Ranil Wickremesinghe added that the foreign loan repayment period is being delayed to 2042 and to remove a portion of those loans.
 
 ◼️
 
 [Data](articles/c6dda50b.json)
+
+[Extended Data](ext_articles/c6dda50b.ext.json)
 
 ---
 
@@ -270,23 +316,29 @@ Due to the wind, England have been affected in the North Western and Southwest T
 
 ---
 
-### පිංකැටය කැඩීමට පැමිණ සොරා පහර කා ගස් බැඳ සිටියදී මිය යයි
+### Pincase and thief die while tied trees
 
 *2024-04-07 08:48:18* · [`adalk`](https://www.ada.lk/breaking_news/පිංකැටය-කැඩීමට-පැමිණ-සොරා-පහර-කා-ගස්-බැඳ-සිටියදී-මිය-යයි/11-408978) · `si`
 
-මහනුවර පොලිස් වසමේ ගැටඹේ දියකපනා තොට පන්සලේ පින් කැට කැඩීමට පැමිණි සොරෙකුට පහරදී ගස් බැඳ සිටියදී ඔහු මිය ගොස් ඇති බව පොලිසිය කියයි .
+A 47-year-old man from Menikhinna died in a fight with a thief in Kandy. The thief was attacked by villagers while trying to break down a pin. The incident involved a motorcycle and is under investigation by the Kandy Police Headquarters.
 
-අද (07) අළුයම් කාලයේ පන්සල් භූමියට පැමිණ ඇති මෙම සොරා පන්සලේ සිටි පිරිසක් දැක ඔහු අල්ලා ගැනීමෙන් පසු ගම්වැසියන් ඔහුට පහර දී ගස් බැඳ තිබේ .
+🟩
 
-සිද්ධියෙන් මියගොස් ඇත්තේ මැණික්හින්න ප්‍රදේශයේ 47 හැවිරිදි පදිංචිකරුවෙකු බව පොලිසිය කියයි .
+Police say he had died while heavy hitting a thief who had come to break down the pin breaking the pin in the Kandy area.
 
-ඔහු යතුරුපැදියකින් එම ස්ථානයට පැමිණ ඇති බව පවසන පොලිසිය එම යතුරුපැදියේ එල්ලා තිබූ සුදු පැහැති ආරක්ෂක හිස්වැසුමේ පොලිස් යනුවෙන් සඳහන් කොට ඇති බවද පොලිසිය කියයි .
+Today (07), the thief saw a group of thief in the temple to the temples in the same time, the villagers were attacked by the villagers and attacked him.
 
-මහනුවර කොට්ඨාස භාර ජේෂ්ඨ පොලිස් අධිකාරි අනුරුද්ධ බණ්ඩාරනායක මහතාගේ උපදෙස් පරිදි මහනුවර පොලිස් මූලස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක රසික සම්පත් මහතාගේ මෙහෙයවීමෙන් වැඩිදුර විමර්ශන සිදු කෙරේ .
+The deceased has been identified as a 47 year old resident of the Menikhinna area.
+
+Police say he had come to the scene with a motorcycle, police said.
+
+The Chief Inspector of Police Headquarters, Kandy Police Headquesoral General Inspector Rasika Savi is conducting further investigations.
 
 ◼️
 
 [Data](articles/84d274c4.json)
+
+[Extended Data](ext_articles/84d274c4.ext.json)
 
 ---
 
@@ -2319,31 +2371,5 @@ While videos from across New York City showed shaking, a camera from the Statue 
 [Data](articles/1743b1fc.json)
 
 [Extended Data](ext_articles/1743b1fc.ext.json)
-
----
-
-### 5 kg of gold recovery from Sri Lanka and thrown into the Indian Ocean;Three arrests
-
-*2024-04-06 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/180574) · `ta`
-
-5 kg gold hijacked from Sri Lanka, recovered; 3 arrests. Indian Central Revenue Investigation Department investigates.
-
-🟩
-
-A pack of gold bars weighing about 5 kg, which was illegally hijacked by a sea from Sri Lanka, has been recovered from the sea.
-
-In this case, the Indian Central Revenue Investigation Department is conducting an intensive investigation into the arrest of three persons who abducted gold from Sri Lanka.
-
-Dhanushkodi in Ramanathapuram district is close to Sri Lanka, as a boat from Sri Lanka has been smuggled into Tamil Nadu recently.
-
-Defense officials are engaged in intensive surveillance as the Indian Navy and Customs Department, to prevent illegal activities on the Indo-Sri Lanka international maritime border and monitor foreign infiltration.
-
-Central Revenue Investigation Officers, along with the Mandapam Coast Guard, were actively patrolling the Gulf of Mannar on the basis of confidential information received by the Central Revenue Investigation Department that gold was being smuggled from Sri Lanka on Thursday morning.
-
-...
-
-[Data](articles/ff26737f.json)
-
-[Extended Data](ext_articles/ff26737f.ext.json)
 
 ---

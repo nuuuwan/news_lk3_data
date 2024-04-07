@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 03:03:22**
+As of **2024-04-08 03:18:09**
 
 ## Newspaper Stats
 
-*Scraped **17,700** Articles*
+*Scraped **17,702** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,489
 tamilmirrorlk | 2,083
 adaderanalk | 2,136
 virakesarilk | 2,590
-dailymirrorlk | 2,700
+dailymirrorlk | 2,702
 adaderanasinhalalk | 2,870
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,696 (100.0%) of 17,700 articles have been extended.
+17,700 (100.0%) of 17,702 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### Ukraine is fighting an increasingly desperate war
+
+*2024-04-08 02:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Ukraine-is-fighting-an-increasingly-desperate-war/172-280329) · `en`
+
+Ukraine is in trouble today because the EU’s aid package was blocked by Hungary, and no EU country is able to produce the munitions badly needed by Ukraine
+
+There is a war in Ukraine? It seems to have been forgotten by everyone–except by Ukraine, Russia and their respective allies.
+
+When Russian President Vladimir Putin ordered his military to invade Ukraine in February 2022, many including myself expected it to be over in weeks. In my case, this was because, as much as I dislike Putin’s dictatorship, Russian superiority in armour, artillery, aircraft and manpower was so big it was hard to see how Ukraine could stop all those tanks rolling over the country’s eastern steppes and advancing into the country, encircling and destroying outnumbered Ukrainian forces.
+
+...
+
+[Data](articles/7a901a1d.json)
+
+---
 
 ### Redefining success, Certis Lanka rebrands as SITREK Group
 
@@ -43,6 +59,8 @@ The transformation to SITREK Group represents a strategic shift towards reaffirm
 ...
 
 [Data](articles/9e868d5e.json)
+
+[Extended Data](ext_articles/9e868d5e.ext.json)
 
 ---
 
@@ -60,6 +78,8 @@ CH17 Loyalty plans to offer bigger discounts for selected card schemes to reward
 
 [Data](articles/a5b0fce2.json)
 
+[Extended Data](ext_articles/a5b0fce2.ext.json)
+
 ---
 
 ### CFA Society Sri Lanka Capital Market Awards 2024 to recgonise ESG reporting
@@ -73,6 +93,22 @@ The 11th annual CFA Society Sri Lanka Capital Market Awards will be held on 18 J
 ...
 
 [Data](articles/264dd257.json)
+
+[Extended Data](ext_articles/264dd257.ext.json)
+
+---
+
+### Capt. Navin to lead WCOBU’s 150th year celebrations
+
+*2024-04-08 02:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Capt-Navin-to-lead-WCOBUs-150th-year-celebrations/172-280328) · `en`
+
+Wesley College Old Boys Union (WCOBU) witnessed the unanimous reappointment of Capt. Navin de Silva as its
+
+President for the period 2024/25. According to a press release issued by WCOBU, Captain De Silva’s tenure has been marked by remarkable achievements and also uniting the Wesley Old Boys community; culminating in the unforgettable celebration of Wesley College’s Sesquicentennial.
+
+...
+
+[Data](articles/36f07e57.json)
 
 ---
 
@@ -91,6 +127,8 @@ As admitted, Thondaman’s Ministry of Water Resources has found out that the CO
 ...
 
 [Data](articles/f9e65c20.json)
+
+[Extended Data](ext_articles/f9e65c20.ext.json)
 
 ---
 
@@ -2229,43 +2267,5 @@ The Bank of State Minister Ranjith Kimbalapitiya says that the salaries of the y
 [Data](articles/a5cee044.json)
 
 [Extended Data](ext_articles/a5cee044.ext.json)
-
----
-
-### Fuel use in the country has declined by 50% - Petroleum Distributors Association
-
-*2024-04-07 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180628) · `ta`
-
-The Petroleum Distributors Association reports a 50% decrease in fuel use, attributing it to the current economic situation.
-
-🟩
-
-The Petroleum Distributors Association has said that the use of fuel in the country has declined by 50 percent.
-
-Petroleum Distributors Association President Shelton Fernando says the current economic situation in the country is due to the use of fuel.
-
-◼️
-
-[Data](articles/724a8f8a.json)
-
-[Extended Data](ext_articles/724a8f8a.ext.json)
-
----
-
-### Horana shot
-
-*2024-04-07 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195390) · `si`
-
-"Horana incident: Two injured, hospitalized."
-
-🟩
-
-Police said two persons were injured and hospitalized was hospitalized.
-
-◼️
-
-[Data](articles/b13e9023.json)
-
-[Extended Data](ext_articles/b13e9023.ext.json)
 
 ---

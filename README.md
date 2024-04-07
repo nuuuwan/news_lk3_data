@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 01:33:37**
+As of **2024-04-08 01:50:45**
 
 ## Newspaper Stats
 
-*Scraped **17,689** Articles*
+*Scraped **17,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 978
 adalk | 1,489
 tamilmirrorlk | 2,083
 adaderanalk | 2,136
-virakesarilk | 2,587
+virakesarilk | 2,589
 dailymirrorlk | 2,700
 adaderanasinhalalk | 2,870
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 2,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,687 (100.0%) of 17,689 articles have been extended.
+17,689 (100.0%) of 17,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### வவுனியா செட்டிக்குளத்தில் இடம்பெற்ற வாகன விபத்தில் இளைஞர் ஒருவர் பலி
+
+*2024-04-08 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180656) · `ta`
+
+வவுனியா செட்டிக்குளம் வாளவைத்தகுளம் பகுதியில் இடம்பெற்ற பட்டா - மோட்டார் சைக்கில் விபத்தில் இளைஞர் ஒருவர் பலியாகியுள்ளார்.
+
+மன்னார் - மதவாச்சி பிரதான வீதியில் செட்டிக்குளம் வாளவைத்தகுளம் பகுதியிலுள்ள எரிபொருள் நிலையத்திற்கு அண்மித்த பகுதியில் மோட்டார் சைக்கிலும் பட்டா ரக வாகனமும் மோதுண்டு விபத்துக்குள்ளானதில் மோட்டார் சைக்கிலின் சாரதியான இளைஞர் ஒருவர் உயிரிழந்துள்ளார்
+
+சம்பவ இடத்திற்கு சென்ற போக்குவரத்து பொலிஸார் விபத்துச்சம்பவம் தொடர்பிலான மேலதிக விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/728bdd12.json)
+
+---
+
+### ஐக்கிய மக்கள் சக்தியில் இன்று ஐக்கிய தேசியக் கட்சியின் கொள்கைகள் இல்லை - ஜனாதிபதி தெரிவிப்பு
+
+*2024-04-08 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/180655) · `ta`
+
+ஐக்கிய மக்கள் சக்தியில் இன்று ஐக்கிய தேசியக் கட்சியின் கொள்கைகள் இல்லை எனவும், அதன் பொருளாதாரக் கொள்கையை மொட்டுக் கட்சியிலிருந்து வெளியேற்றப்பட்ட குழுவே தற்போது கையாள்வதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+ஐக்கிய தேசியக் கட்சியின் உரிமையை பிரகடனப்படுத்தி 2020ஆம் ஆண்டு சிறிகொத்தவைக் கைப்பற்றுவதற்கு தயாரான ஜக்கிய மக்கள் சக்தி, இன்று மொட்டுக் கட்சித் தலைவர் உள்ளிட்டோருக்கு அடிபணிந்துள்ளதாகவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+கண்டி ஜனாதிபதி மாளிகையில் ஞாயிற்றுக்கிழமை (07) நடைபெற்ற அரசியல் கட்சி பிரதிநிதிகள் கூட்டத்தில் உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+2022 ஜூலையில் ஏற்பட்ட அரசியல் மாற்றத்துடன், நாட்டின் கட்சி அமைப்பிலும் மாற்றம் ஏற்பட்டுள்ளதாக சுட்டிக்காட்டிய ஜனாதிபதி, தான் எந்த அரசியல் கட்சியை பிரதிநிதித்துவப்படுத்தினாலும், அனைவரும் நாட்டைப் பற்றி சிந்தித்து அரசாங்கத்தின் வேலைத்திட்டத்தை முன்னெடுத்துச் செல்ல வேண்டுமெனவும் தெரிவித்தார்.
+
+...
+
+[Data](articles/91db5a69.json)
+
+---
 
 ### 50 prisoners die in prisons
 
@@ -770,6 +804,8 @@ A general perception among many is that banking and financial institutions earn 
 
 [Data](articles/b15a514c.json)
 
+[Extended Data](ext_articles/b15a514c.ext.json)
+
 ---
 
 ### SLFP Politburo meeting tomorrow
@@ -919,6 +955,8 @@ At the tail end of World War II, with victory looming in the backdrop, the Allie
 ...
 
 [Data](articles/18e2a990.json)
+
+[Extended Data](ext_articles/18e2a990.ext.json)
 
 ---
 
@@ -2265,53 +2303,5 @@ The 47-year-old suspect is detained on detention orders and interrogates a lengt
 [Data](articles/e66fca97.json)
 
 [Extended Data](ext_articles/e66fca97.ext.json)
-
----
-
-### Sri Lanka prepares for first-ever seed exports after successful testing
-
-*2024-04-07 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98487/sri-lanka-prepares-for-first-ever-seed-exports-after-successful-testing) · `en`
-
-Sri Lanka has initiated arrangements for the export of various types of seeds for the first time ever, marking a significant milestone for the country’s agricultural sector.
-
-The Department of Agriculture has confirmed the successful testing of several species of seeds, including chillies, eggplant, green chillies, ladies fingers, and maize, which are set to be exported soon.
-
-It is also reported that there is a significant surge in demand for these seed varieties from many foreign countries.
-
-The required research on seeds has been carried out by experts of the Department of Agriculture, while the development and processing activities of the seeds have been undertaken by the private sector, with the highest technology and expert support, said the Department of Agriculture.
-
-◼️
-
-[Data](articles/2e4299e7.json)
-
-[Extended Data](ext_articles/2e4299e7.ext.json)
-
----
-
-### The PA convene on Tuesday
-
-*2024-04-07 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180618) · `ta`
-
-The Sri Lanka Peoples Freedom Alliance (PA) will hold a political meeting on Tuesday, led by Mahinda Rajapaksa, with Sakara Kariyawasam and Basil Rajapaksa participating. The focus will be on discussing future party activities, addressing restrictions on commenting on the presidential election, and the meeting between President Ranil and Basil Rajapaksa.
-
-🟩
-
-The party's general secretary, Sakara Kariyawasam, said that the political meeting of the Sri Lanka Peoples Freedom Alliance (PA) will be held on Tuesday under the leadership of party leader Mahinda Rajapaksa.
-
-Foundation Chairman Basil Rajapaksa will also participate in the event.. He said the meeting would routinely discuss the future activities of the party.
-
-However, at the last meeting of the party, restrictions were imposed on the party's members to comment on the presidential election. The meeting will be focused on the fact that some members are continuing to comment on the restrictions.
-
-In addition, the party's members are working with other parties to make decisions.
-
-Similarly, the focus will be paid to the meeting between President Ranil and Basil Rajapaksa in the wake of the lack of compliance.
-
-It is also reported that the party's activities will be investigated after the appointment of Namal Rajapaksa as the national organizer.
-
-◼️
-
-[Data](articles/e169a3f1.json)
-
-[Extended Data](ext_articles/e169a3f1.ext.json)
 
 ---

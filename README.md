@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 17:53:48**
+As of **2024-04-07 18:08:30**
 
 ## Newspaper Stats
 
-*Scraped **17,639** Articles*
+*Scraped **17,641** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 978
 adalk | 1,478
 tamilmirrorlk | 2,081
 adaderanalk | 2,131
-virakesarilk | 2,572
+virakesarilk | 2,574
 dailymirrorlk | 2,696
 adaderanasinhalalk | 2,863
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 2,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,639 (100.0%) of 17,639 articles have been extended.
+17,639 (100.0%) of 17,641 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### காத்தான்குடியில் சட்டவிரோத பதிவாளர் அலுவலகம் சுற்றிவளைப்பு : ஒருவர் கைது!
+
+*2024-04-07 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180637) · `ta`
+
+காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட கல்லடியிலுள்ள வீடொன்றுக்குள் சூட்சுமமான முறையில் இயங்கிவந்த சட்டவிரோத பதிவாளர் அலுவலகம் விசேட அதிரடிப்படையினரால் சுற்றிவளைக்கப்பட்டதில் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபரிடமிருந்து தரிசுக் காணிகளுக்கான 205 உறுதிப்பத்திரங்கள், 58 வெற்று உறுதிப்பத்திரங்கள், 63 காணி மாற்று உறுதிப் பத்திரங்கள், கணினி, பிரின்டர், தட்டச்சு இயந்திரங்கள், வெவ்வேறு அதிகாரிகளின் உத்தியோகபூர்வ கையொப்பத்துடன் கூடிய 30 பத்திரங்கள், 12 தேசிய அடையாள அட்டைகளின் 12 பிரதிகள் என்பன கைப்பற்றப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+கைப்பற்றப்பட்ட பொருட்களுடன் சந்தேக நபரும் காத்தான்குடி பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளதாக காத்தான்குடி பொலிஸ் நிலைய பொறுப்பதிகாரி ஜி. கஜநாயக்க தெரிவித்தார்.
+
+◼️
+
+[Data](articles/b5935eb4.json)
+
+---
+
+### வடக்கில் அமைச்சருக்கு  நடந்த அதே நிலை கிழக்கில் உள்ள அமைச்சர்களுக்கும் நடக்கும் - சாணக்கியன்
+
+*2024-04-07 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/180636) · `ta`
+
+தமிழ் மக்களுக்கு நிரந்தர அரசியல் தீர்வு கிடைக்கும் வரை தமிழரசு கட்சி போராடும் எனவும் மக்களின் வரிப்பணத்தில் இடம்பெறும் அபிவிருத்தித் திட்டங்கள் மக்களுக்கு திருப்தி அளிக்காதவிடத்து வடக்கில் அமைச்சருக்கு வெள்ளிக்கிழமை நடந்த அதே நிலை கிழக்கிலும் உள்ள அமைச்சர்களுக்கும் நடக்கும். மக்களால் அவர்களும் வெகுவிரைவில் துரத்தியடிக்கப்படுவார்கள். ஜனாதிபதி தேர்தலை தீர்மானிக்கும் முக்கிய சக்தியாக தமிழ் மக்கள் காணப்படுவார்கள் என பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன் தெரிவித்தார்.
+
+மட்டக்களப்பு மாவட்டம் போரதீவு பிரதேச செயலக பிரிவிற்குட்பட்ட திக்கோடை கிராமத்தில் நேசக்கரங்கள் சமூக நல அமைப்பின் சாதனையாளர் பாராட்டு விழா நேற்று சனிக்கிழமை (06) அறிவொளி கல்வி நிலையத்தில் அமைப்பின் தலைவர் ந.கதிரவன் தலைமையில் நடைபெற்றது.
+
+...
+
+[Data](articles/23b976d8.json)
+
+---
 
 ### Politics is different - President
 
@@ -2313,59 +2343,5 @@ The details of the Sri Lankan fisherman infected with a heart attack have been i
 [Data](articles/e044069c.json)
 
 [Extended Data](ext_articles/e044069c.ext.json)
-
----
-
-### 1990 Wildiness: 'We are hospitalized about a day'
-
-*2024-04-07 02:29:03* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz7z446kr2go) · `si`
-
-In 1990, India's ambulance service was recognized as one of the world's best, with an average response time of 12 minutes. Despite initial opposition, the service has been praised for its efficiency and has been in operation since 2016.
-
-🟩
-
-None contains none of this.Vadide header, 1990 journey to a best ambulance service in the world
-
-The Surprise Squadron Service provided by the 1990s has been evaluated by both internationally and internation.
-
-The World Bank was served in March 2024 to name digital technology, free of charge, as one of the fastest ambulance services in the world.
-
-After calling the ambulance service, the average time taken to carry a patient to the nearest hospital or primary treatment center is 12 minutes.
-
-When the public was awarded in 2016 as the Government of India, the ambulance service began in 2016, and strongly opposition from political parties.
-
-However, the government and the opposition joined the pilots and the staff who were fulfilled in the past 1990 ambulance service during the past two years.
-
-In the beginning, the recovery of India has come to the best ambulance service in the world in the world in the 1990s.
-
-...
-
-[Data](articles/3da4f21d.json)
-
-[Extended Data](ext_articles/3da4f21d.ext.json)
-
----
-
-### Vijayadasa Rajapaksa joined me in the telephone crisis
-
-*2024-04-07 02:25:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெருக்கடியில்-விஜயதாச-ராஜபக்ஷ-என்னுடன்-இணைந்தார்/175-335675) · `ta`
-
-Vijayadasa Rajapaksa, a significant figure in Sri Lankan politics and law, was honored at a 40th anniversary event organized by his junior lawyers. President Ranil Wickremesinghe praised his contributions as a literaryist, writer, songwriter, and artist.
-
-🟩
-
-President Ranil Wickremesinghe said that Vijayadasa Rajapakse joined the country under various crisis.
-
-President Ranil Wickremesinghe was the chief guest at the Hilton Hotel in Colombo on the occasion of the 40th anniversary of the Lawyer of the Minister of Justice, Dr. Vijayadasa Rajapakse, Minister of Justice, Prison Affairs and Constitutional Reforms.
-
-The event was organized by the junior lawyers who trained and trained Vijayadasa Rajapaksa.
-
-Vijayadasa Rajapaksa, who made a unique contribution to Sri Lankan politics and legal field, was praised by the President for the work of the literaryist, writer, songwriter and artist.. (A)
-
-◼️
-
-[Data](articles/51fc7b9c.json)
-
-[Extended Data](ext_articles/51fc7b9c.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 08:05:23**
+As of **2024-04-07 08:18:00**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 2,844
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,538 (99.9%) of 17,550 articles have been extended.
+17,547 (100.0%) of 17,550 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### இடியுடன் கூடிய மழை; கடும் வெப்பம் - மக்களுக்கு முன்னறிவித்தல்
+### Thundershowers;Extreme heat - forecasting people
 
 *2024-04-07 07:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-கடும்-வெப்பம்-மக்களுக்கு-முன்னறிவித்தல்/175-335681) · `ta`
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இன்று (07) பிற்பகல். 2.00 மணிக்குப் பின்னர் ஒரு சில இடங்களில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+"Thundershowers and extreme heat forecasted for Western and Sabaragamuwa Provinces, Kandy, Nuwara Eliya, Galle and Matara districts. Snow expected in Western, Central, Uva and Sabaragamuwa Provinces, Ampara, Galle and Matara districts. Meteorology advises precautions against wind and lightning. Sun's peak to Sri Lanka's width lines from April 5 to 15, affecting Kadawatha, Badulla, Lunugala, Kongaspitiya, Pakmittiya and Kotmalai at 12:12 pm today."
 
-அதேநேரம், மேல், மத்திய, ஊவா மற்றும் சப்ரகமுவ மாகாணங்களிலும் அம்பாறை, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை எதிர்பார்க்கப்படுவதாக திணைக்களம் அறிக்கை ஒன்றை வௌியிட்டு தெரிவித்துள்ளது.
+🟩
 
-இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம், மக்களிடம் கோரிக்கை விடுத்துள்ளது.
+Western and Sabaragamuwa Provinces, Kandy, Nuwara Eliya, Galle and Matara districts this afternoon (07). The Department of Meteorology has forecast rain or thunderstorms in a few places after 2.00 pm.
 
-இதேவேளை, சூரியனின் வடதிசை நோக்கிய இயக்கத்தின்  காரணமாக, ஏப்ரல் மாதம் 5ஆம் திகதியிலிருந்து 15ஆம் திகதி வரை இலங்கையின் அகலக் கோடுகளுக்கு நேராக உச்சம் கொடுக்கவுள்ளது.
+At the same time, the department has announced that it is expected to be snowy in the morning in some places in the Western, Central, Uva and Sabaragamuwa Provinces and Ampara, Galle and Matara districts.
 
-...
+The Department of Meteorology has urged the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.
+
+Meanwhile, due to the movement of the Sun's North, it will peak to the width lines of Sri Lanka from April 5 to 15.
+
+As a result, the Department of Meteorology has said that the sun will be toppled in areas such as Kadawatha, Badulla, Lunugala, Kongaspitiya, Pakmittiya and Kotmalai at 12:12 pm today (07).. Remble
+
+◼️
 
 [Data](articles/6052a39d.json)
+
+[Extended Data](ext_articles/6052a39d.ext.json)
 
 ---
 
@@ -61,6 +69,8 @@ Two policemen have also been injured during the clash, according to police.
 ◼️
 
 [Data](articles/d7929b81.json)
+
+[Extended Data](ext_articles/d7929b81.ext.json)
 
 ---
 
@@ -82,27 +92,35 @@ The nearest areas of Sri Lanka over which the sun is overhead today (07) are Kad
 
 [Data](articles/0fce0218.json)
 
+[Extended Data](ext_articles/0fce0218.ext.json)
+
 ---
 
-### ලාංකිකයින් ප්‍රාණ ඇපයට ගත් පාකිස්තාන ජාතිකයින් අත්අඩංගුවට
+### Pakistani have arrested Sri Lankans
 
 *2024-04-07 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195380) · `si`
 
-රැකියා සඳහා විවිධ යුරෝපීය රටවලට යවන මුවාවෙන් ශ්‍රී ලාංකිකයින් සිව්දෙනෙකු ප්‍රාණ ඇපයට ගත් පාකිස්තාන ජාතිකයින් 04 දෙනෙකු නේපාලයේ දී අත්අඩංගුවට ගෙන තිබේ.
+Pakistani authorities arrested four Sri Lankans for allegedly holding them hostage to obtain money, abducting foreign passports, and planning to resend them. The arrests were made following a complaint by the Nepal Investigation Department. Legal action is pending against the Pakistani nationals.
 
-නේපාල පොලීසියේ අපරාධ විමර්ශන දෙපාර්තමේන්තුවට ලැබුණු පැමිණිල්ලකට අනුව එම සැකකරුවන් අත්අඩංගුවට ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-අත්අඩංගුවට ගත් පාකිස්තාන ජාතික සැකකරුවන් කැනඩාව සහ රුමේනියාව යන රටවල රැකියා ලබාදෙන බවට ව්‍යාජ තොරතුරු ලබා දී අදාළ ශ්‍රී ලාංකිකයින් සිව්දෙනාගෙන් මුදල් ලබාගෙන ඇති බව නේපාල පොලීසිය පවසයි.
+Four Sri Lankans have arrested four Pakistani nationals who had been hostage in the pretext to be sent to various European countries.
 
-එම ශ්‍රී ලාංකිකයින් සිව්දෙනාට පාකිස්තාන ජාතිකයින් විසින් පහර දී වධ හිංසා පමුණුවා තර්ජනය කර විදෙස් ගමන් බලපත්‍ර ද පැහැරගෙන ඇති බවට අනාවරණ වී තිබේ.
+According to foreign media reports, the suspects have been arrested following a complaint lodged by the Nepal Investigation Department.
 
-අදාළ ශ්‍රී ලාංකිකයින් සිව්දෙනා ශ්‍රී ලංකාවට නැවත එවීම සඳහා අවශ්‍ය කටයුතු සැලසුම් කරමින් සිටින බව නේපාල පොලීසිය පවසයි.
+The Napili Police say that the Pakistani national suspects who have been arrested in Canada and Romania have obtained money from the four Sri Lankans.
 
-අත්අඩංගුවට ගත් පාකිස්තාන ජාතිකයින් සිව්දෙනා සම්බන්ධයෙන් පැහැර ගැනීම් සහ මිනිස් ජාවාරම් යන චෝදනා යටතේ නීතිමය ක්‍රියාමාර්ග ගැනීමට නියමිතය.
+The four Sri Lankans have been assaulted by Pakistani and tortured and abducted foreign passports.
+
+The four Sri Lankans are planning to re-sending them again.
+
+Legal action will be taken to take legal action on the four Pakistani nationals and the allegations of human rackets.
 
 ◼️
 
 [Data](articles/ac7178e5.json)
+
+[Extended Data](ext_articles/ac7178e5.ext.json)
 
 ---
 
@@ -126,31 +144,41 @@ Police said two injured police officers are currently receiving medical attentio
 
 [Data](articles/a77668d1.json)
 
+[Extended Data](ext_articles/a77668d1.ext.json)
+
 ---
 
-### මානැල්ලේ දී පොලිස් වෙඩි පහරින් පුද්ගලයෙකු මරුට
+### Police shot dead in Manella
 
 *2024-04-07 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195379) · `si`
 
-මාවනැල්ල, පදියදොර ප්‍රදේශයේ ආරවුලක් විසඳීමට යාමේ දී පොලීසිය විසින් සිදුකළ වෙඩිතැබීමකින් පුද්ගලයෙකු මියගොස් තිබේ.
+In Mawanella, a police officer was shot dead during a dispute, leading to the death of a 53-year-old man involved in drug trafficking. The incident occurred at night, with the suspect fleeing and a special operation launched to apprehend him.
 
-ඊයේ (06) රාත්‍රී එම වෙඩිතැබීම සිදුකර ඇති බව පොලීසිය සඳහන් කළේය.
+🟩
 
-මාවනැල්ල, පදියදොර ප්‍රදේශයේ ආරවුලක් ඇති බවට මාවනැල්ල පොලීසියට දුරකථන ඇමතුමක් ලැබී තිබුණි.
+A shooting man has died in a shooting carried out by the police in a dispute in Mawanella.
 
-එහිදී ආරවුලට සම්බන්ධ පුද්ගලයෙකු තියුණු ආයුධයකින් පොලිස් නිලධාරියෙකුට පහර දී ඇති බව වාර්තා වෙයි.
+The shooting was carried out at night yesterday (06).
 
-එම අවස්ථාවේ තවත් පොලිස් නිලධාරියෙකු අහසට වෙඩිතබා ඇති අතර එම පොලිස් නිලධාරියාට ද අදාළ පුද්ගලයා පහර දීමට උත්සහ කිරීමේ දී වෙඩිතැබීමක් සිදුකර ඇති බව පොලීසිය පවසයි.
+The Mawanella Police had telephoned the police that he had a dispute in Mawanella.
 
-පොලීසිය සිදුකළ වෙඩිතැබීමෙන් පහරදීම සිදුකළ පුද්ගලයාගේ පියාට වෙඩිවැදී ඇති අතර තුවාල ලැබූ ඔහු මාවනැල්ල රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් ඇති බව වාර්තා වෙයි.
+It is reported that a person involved in the dispute has attacked a police officer with a sharp instrument.
 
-මියගොස් ඇත්තේ 53 හැවිරිදි එම ප්‍රදේශයේ ම පදිංචිකරුවෙකු වන අතර ඔහු මත්ද්‍රව්‍ය ජාවාරම්වලට ද සම්බන්ධ අපරාධකරුවෙකු බව පොලීසිය පවසයි.
+Another police officer shot dead at the time, police said that the police officer had shouting to attack the man trying to attack the person.
 
-තුවාල ලැබූ පොලිස් නිලධාරීන් දෙදෙනෙකු ද මේ වනවිට මාවනැල්ල රෝහලේ ප්‍රතිකාර ලබමින් සිටින බව පොලීසිය සඳහන් කළේය.
+The father of the victim was shot dead and he was injured and died on admission to the Mawanella Hospital.
 
-...
+The deceased has been identified as 53-year-old residents and he is a criminal associated with drug trafficking.
+
+Two injured police officers are also receiving treatment at Mawanella Hospital.
+
+The suspect had fled the area and the Mawanella Police have launched a special operation to arrest him.
+
+◼️
 
 [Data](articles/d8f02dbf.json)
+
+[Extended Data](ext_articles/d8f02dbf.ext.json)
 
 ---
 
@@ -266,21 +294,27 @@ When arrested by the SLN, Indian authorities exerted undue diplomatic and politi
 
 ---
 
-### ’நாட்டை வெற்றியடையச் செய்யும் பொறுப்பு இளைஞர்களிடம்’
+### Young people are responsible for winning the country
 
 *2024-04-07 02:37:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டை-வெற்றியடையச்-செய்யும்-பொறுப்பு-இளைஞர்களிடம்/175-335677) · `ta`
 
-நவீன விவசாயம், சுற்றுலா மற்றும் வலுசக்தித் துறைகளில் பரிவர்த்தனை ரீதியிலான மாற்றத்துடன் 2048 ஆம் ஆண்டளவில் வளமான இலங்கையை கட்டியெழுப்பும் பயணத்தை அரசாங்கம் தற்போது ஆரம்பித்துள்ளது எனவும்  அந்தப் பயணத்துடன் முன்னோக்கிச் சென்று நாட்டை வெற்றியடையச் செய்யும் பொறுப்பு இளைஞர்களிடம் உள்ளது என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe emphasized the importance of youth in building a prosperous Sri Lanka, focusing on modern agriculture, tourism, and defense sectors.
 
-நேற்று பிற்பகல் நடைபெற்ற 'என்னில் இருந்து ஆரம்பிப்போம்' அனுராதபுரம் மாவட்ட இளைஞர் மாநாட்டில் ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-கூம்பிச்சாங்குளம் அருகில் இடம்பெற்ற இந்த மாநாட்டில் அனுராதபுரம் மாவட்டத்தைச் சேர்ந்த பெருமளவான இளைஞர்கள் கலந்து கொண்டு தமது பிரச்சினைகள் பலவற்றை ஜனாதிபதியிடம் முன்வைத்தனர்.
+President Ranil Wickremesinghe said that the government has now begun its journey to build a prosperous Sri Lanka with a transaction in modern agriculture, tourism and strength sectors.
 
-அவற்றில் பல பிரச்சினைகளுக்கு அந்த இடத்திலேயே தீர்வுகளை வழங்குவதற்கு நடவடிக்கை எடுத்த ஜனாதிபதி, ஏனைய பிரச்சினைகளைத் தீர்ப்பதற்கு நடவடிக்கை எடுக்குமாறு அதிகாரிகளுக்கு பணிப்புரை வழங்கினார். (a)
+The President said this at the Anuradhapura District Youth Conference held yesterday afternoon.
+
+The conference was held near Koombichangulam and a large number of youth from Anuradhapura district participated in the president.
+
+The president, who took steps to provide solutions to many of these issues, gave the authorities to take action to solve other issues.. (A)
 
 ◼️
 
 [Data](articles/ea039bfb.json)
+
+[Extended Data](ext_articles/ea039bfb.ext.json)
 
 ---
 
@@ -482,6 +516,8 @@ Bulath in Sinhala, Vettila in Tamil and Malayalan, Paan in Hindi, Plu in Thai, S
 
 [Data](articles/2f521941.json)
 
+[Extended Data](ext_articles/2f521941.ext.json)
+
 ---
 
 ### President calls on youth to lead nation forward through government initiatives
@@ -581,6 +617,8 @@ Though conscientious about records, accounts and compliance with regulations, He
 ...
 
 [Data](articles/dc325868.json)
+
+[Extended Data](ext_articles/dc325868.ext.json)
 
 ---
 

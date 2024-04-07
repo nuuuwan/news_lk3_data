@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 22:03:36**
+As of **2024-04-07 22:18:17**
 
 ## Newspaper Stats
 
-*Scraped **17,675** Articles*
+*Scraped **17,677** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 155
+colombotelegraphcom | 156
 bbccomsinhala | 184
 dbsjeyarajcom | 213
 newsfirstlk | 363
@@ -17,7 +17,7 @@ islandlk | 968
 economynextcom | 978
 adalk | 1,489
 tamilmirrorlk | 2,082
-adaderanalk | 2,134
+adaderanalk | 2,135
 virakesarilk | 2,583
 dailymirrorlk | 2,699
 adaderanasinhalalk | 2,869
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,869
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,674 (100.0%) of 17,675 articles have been extended.
+17,675 (100.0%) of 17,677 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### SJB’s economic policy managed by SLPP dissidents – President
+
+*2024-04-07 21:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98499/sjbs-economic-policy-managed-by-slpp-dissidents-president) · `en`
+
+President Ranil Wickremesinghe emphasized that the present Samagi Jana Balawegaya (SJB) lacks the policies of the United National Party (UNP), with its economic strategy now being overseen by individuals who was expurgated by the Sri Lanka Podujana Peramuna (SLPP).
+
+Additionally, President Wickremesinghe highlighted that the SJB, once poised to take control of “Sirikotha” in 2020 under the UNP banner, has now been influenced by the chairman of the SLPP and other factions.
+
+These remarks were made by President Ranil Wickremesinghe during a meeting of political party representatives convened at the President’s House in Kandy today (07). He noted that the political landscape underwent significant changes following the political turmoil in July 2022, stressing the importance of all parties, regardless of affiliation, to prioritize the nation’s interests and collaborate with the government’s agenda for progress.
+
+...
+
+[Data](articles/8eac6eac.json)
+
+---
 
 ### Tv Ada will pass 5 million UTUB subscribers
 
@@ -104,19 +120,25 @@ The residents of the area complained that the materials in the bowl had not yet 
 
 ---
 
-### මේ වසරේදී මග මරුවාට 566ක් බිලි
+### 566 killed in the guidance this year
 
 *2024-04-07 20:49:00* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-මග-මරුවාට-566ක්-බිලි/11-408997) · `si`
 
-මෙම වසරේ ජනවාරි 01වැනිදා සිට අප්‍රේල් 02වැනිදා දක්වා වූ කාලය තුළ මාර්ග අනතුරු හේතුවෙන් 566දෙනෙකු මිය ගොස් ඇති බවත් ඒ අනුව මෙරට පුද්ගලයන් විසින් සිදු කර ගනු ලබන බරපතළම ඛේදවාචකය මෙය වන බවත් ශ්‍රී ලංකා වෛද්‍ය සංගමය අවධාරණය කරයි.
+In 2023, Sri Lanka saw 566 road accident deaths, with 541 fatal accidents and 857 serious injuries reported.
 
-එම සංගමය පෙන්වා දෙන්නේ අදාළ කාලසීමාව තුළ මාරක රිය අනතුරු 541ක් සිදුව ඇති අතර, බරපතළ තුවාල ලැබූවන් 857දෙනෙකු වාර්තා වී ඇති බවයි.
+🟩
 
-එසේම 2023 වර්ෂයේ අදාළ කාලසීමාව තුළදී මෙරට තුළ මාරක රිය අනතුරු 512ක් සිදුව ඇති අතර, එහිදී 1,577දෙනෙකු බරපතළ තුවාල ලබා ඇති බවත් 542දෙනෙකු මියගොස් ඇති බවත් ශ්‍රී ලංකා වෛද්‍ය සංගමය වැඩිදුරටත් පෙන්වා දෙයි.
+The Sri Lanka Medical Union emphasizes that 566 people have died due to road accidents from January 1 this year.
+
+The Association points out that 541 fatal accidents were reported during the period and 857 serious injured were reported.
+
+During the period of the year 2023, there were 512 fatal road accidents in the country and 1,577 were seriously injured in the country.
 
 ◼️
 
 [Data](articles/67366c49.json)
+
+[Extended Data](ext_articles/67366c49.ext.json)
 
 ---
 
@@ -1113,6 +1135,20 @@ The bodies of 12 Israeli soldiers were also killed in the Hamas's treasure.
 [Data](articles/0dc33061.json)
 
 [Extended Data](ext_articles/0dc33061.ext.json)
+
+---
+
+### Two Experiments In Social Psychology & Their Relevance To Sri Lanka
+
+*2024-04-07 15:57:18* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/two-experiments-in-social-psychology-their-relevance-to-sri-lanka/) · `en`
+
+Mired in corruption, communal disharmony, crooked political leadership and religious nationalism, Sri Lankans would benefit from stepping back from all that has happened over the last fifty or more years and taking a meta view of interethnic conflict and other ailments that have overshadowed the more pressing problems of economic development, peace and prosperity. A social psychological approach may provide such valuable insights. Here we discuss two ground- breaking studies in social psychology that may provide an understanding into the group dynamics that underpin our interethnic problems.
+
+The first was an experiment called the Minimum Group Study (or Paradigm) devised and carried out by Henry Tajfel in UK in the 1970s and the other is by Muzafer Sheriff called the Robbers Cave experiment carried out in the 1950s in the US. These studies have been repeated by other social psychologists and the results have been the same.
+
+...
+
+[Data](articles/55934bea.json)
 
 ---
 
@@ -2309,47 +2345,5 @@ The husband of the deceased nurse was also serving as a technical manager at a p
 [Data](articles/832609e7.json)
 
 [Extended Data](ext_articles/832609e7.ext.json)
-
----
-
-### Sri Lanka’s fuel consumption dropped by 50%
-
-*2024-04-07 10:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98485/sri-lankas-fuel-consumption-dropped-by-50) · `en`
-
-The consumption of fuel in Sri Lanka has dropped by around 50%, according to the Petroleum Dealers’ Association.
-
-However, President of the association Shelton Fernando emphasized that the current economic situation of the country is one of the major reasons for the decrease in fuel consumption.
-
-He further assured that all types of fuel are presently available in the country without any shortage.
-
-◼️
-
-[Data](articles/27210d5a.json)
-
-[Extended Data](ext_articles/27210d5a.ext.json)
-
----
-
-### Sri Lanka worker remittances up 0.7-pct in April 2024
-
-*2024-04-07 10:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-worker-remittances-up-0-7-pct-in-april-2024-157794/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s worker remittances through official channels grew 0.72 percent to 572.4 million US dollars, from 468.3 million US dollars a year ago, data from the central bank show.
-
-Related Sri Lankans migrating for foreign employment drops 4.2-pct in 2023
-
-Sri Lanka’s remittances dropped to around 275 million US dollars in 2022 as money was printed to mis-target rates creating forex shortages driving foreign exchange into unofficial channels.
-
-Monetary stability was restored in the last quarter of 2022, improving the credibility of the exchange rate.
-
-Monthly remittances have been above 475 million US dollars from May 2023.
-
-Remittances generally rise in March ahead of traditional New Year holidays and also in December. (Colombo/Apr07/2024)
-
-◼️
-
-[Data](articles/07112b4b.json)
-
-[Extended Data](ext_articles/07112b4b.ext.json)
 
 ---

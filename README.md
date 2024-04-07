@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 19:33:42**
+As of **2024-04-07 19:50:52**
 
 ## Newspaper Stats
 
-*Scraped **17,651** Articles*
+*Scraped **17,655** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 958
 islandlk | 968
 economynextcom | 978
-adalk | 1,480
+adalk | 1,483
 tamilmirrorlk | 2,081
-adaderanalk | 2,132
+adaderanalk | 2,133
 virakesarilk | 2,578
 dailymirrorlk | 2,696
 adaderanasinhalalk | 2,866
@@ -26,53 +26,147 @@ adaderanasinhalalk | 2,866
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,648 (100.0%) of 17,651 articles have been extended.
+17,651 (100.0%) of 17,655 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### Zero Shadow Day උදාවෙයි
+### උඩරට නැටුම් කලාව ආරක්ෂා කිරීමට ජනපතිගෙන් කමිටුවක්
+
+*2024-04-07 19:35:15* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-නැටුම්-කලාව-ආරක්ෂා-කිරීමට-ජනපතිගෙන්-කමිටුවක්/11-408990) · `si`
+
+උඩරට නැටුම් කලාව ආරක්ෂා කර ගනිමින් ඉදිරියට පවත්වාගෙන යාම සඳහා ගත යුතු ක්‍රියාමාර්ග පිළිබඳ සොයා බැලීමට කමිටුවක් පත් කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+සංස්කෘතික කටයුතු අමාත්‍යාංශය, සෞන්දර්ය විශ්වවිද්‍යාලය ඇතුළු අදාළ ආයතන නියෝජනය වන අයුරින් පත් කරනු ලබන මෙම කමිටුවට මහනුවර සාම්ප්‍රදායික නර්තන ශිල්පීන්ගේ නියෝජිතයෙකුද ඇතුළත් කර ගැනීමට උපදෙස් ලබා දෙන බව පැවසූ ජනාධිපතිවරයා, උඩ රට කලා මධ්‍යස්ථානයක් ද ස්ථාපිත කිරීමට ඒ යටතේ කටයුතු කරන බව සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මහනුවර ජනාධිපති මන්දිරයේ දී අද (07) පෙරවරුවේ මහනුවර සාම්ප්‍රදායික නර්තන ශිල්පීන් හමුවූ අවස්ථාවේදීය.
+
+මහනුවර සාම්ප්‍රදායික නර්තන ශිල්පීන්ට විශ්‍රාම වැටුපක් ලබාදීම සම්බන්ධයෙන් සොයා බලන ලෙස ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කම්කරු අමාත්‍ය මනුෂ නානායක්කාර මහතාට මෙහිදී උපදෙස් දුන්නේය.
+
+...
+
+[Data](articles/5a2f4494.json)
+
+---
+
+### මා දැලකට හසුවූ ඩොල්ෆින් රංචුවකගේ දිවි බේරයි
+
+*2024-04-07 19:29:05* · [`adalk`](https://www.ada.lk/picture_story/මා-දැලකට-හසුවූ-ඩොල්ෆින්-රංචුවකගේ-දිවි-බේරයි/10-408989) · `si`
+
+යාපනය වඩමාරච්චි කට්ටෙයිකාට්ටිල් මුහුදු තීරයේ මසුන් අල්ලමින් සිටි ධීවරයින් පිරිසකගේ මා දැලකට හසුව සිටි ඩොල්ෆින් මසුන් 11 දෙනෙකු බෙරා නැවත් මුහුදුට නදහස්කර යැවීමට වඩමාරච්චි ධීවරයින් පිරිසක් ඊයේ (06) සවස පියවර ගෙන තිබුණි.
+
+ධීවරයින් විසින් ඒලන ලද මා දැලකට මෙම ඩොල්ෆින් මසුන් 11 දෙනෙකු හසුව ගොඩට ගසාගෙනවිත් අසිරුව සිටින අවස්ථාවේදී ප්‍රදේශයේ ධීවරයින් සියලු දෙනා එක්ව අදාල ඩොල්ෆින් මසුන් නැවත මුහුද දෙසට රැගෙන යාමට පියවර ගෙන තිබුණි.
+
+එහිදී දැඩි පරිශමයක් යොදා ඩොල්ෆින් මසුන් 11 දෙනාම කිසිදු හානියක් නොකොට නැවත මුහුදටම මුදාහැරීමට ප්‍රදේශයේ ධීවරයින් පියවර ගැනීඹ කාගෙත් ප්‍රශංශාවට ලක්විය.
+
+මේ දිනවල වඩමාරච්චි මුහුදු සීමාවේ ඩොල්ෆින් මසුන් බහුලව ගැවසෙන හෙයින් ධීවර කටයුතු සිදුකිරීමේදී අදාල මසුන් ප්‍රවේශම් කරන ලෙසටද නාවික හමුදාව විසින්ද ධීවර ප්‍රජාව වෙතට දැනුම් දී ඇත.
+
+◼️
+
+[Data](articles/46bc67b4.json)
+
+---
+
+### කුවේටයේ දේවාලයක කපුවෙක් යැයි කියන පුද්ගලයෙක් අල්ලයි
+
+*2024-04-07 19:24:51* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-දේවාලයක-කපුවෙක්-යැයි-කියන-පුද්ගලයෙක්-අල්ලයි/11-408988) · `si`
+
+රුපියල් ලක්ෂ 60 කට අධික වටිනාකමකින් යුත් රත්තරන් පැළඳ නවීන පන්නයේ කේඩීඒච් වර්ගයේ වෑන් රථයකින් සැකකටයුතු ලෙස ගමන් කරමින් සිටි කුවේට් රටේ දේවාලයක කපුවෙක් බව කියන අයෙකු ඇතුළු තිදෙනෙක් ඉතා මුවහත් අඩි 04 කට ආසන්න දිගින් යුත් සුදු යකඩ කඩුවක්ද සමග අද (07) දහවල් ඇල්පිටිය පොලීසිය මගින් අත් අඩංගුවට ගෙන තිබේ.
+
+සැකකරුවන් හෙට (08) ඇල්පිටිය මහේස්ත්‍රාත් මධුෂිකා වාසලමුදලි මහත්මිය වෙත ඉදිරිපත් කිරීමට නියමිත බව ඇල්පිටිය පොලීසිය කියයි.
+
+සැකකරුවන් අත් අඩංගුවට ගත් අවස්ථාවේ රුපියල් ලක්ෂ විසි පහක (25,00000/-) මුදලක් පොලීසියට ලබා දී පලා යෑමට උත්සාහ කල බවද ඇල්පිටිය පොලීසියේ ප්‍රකාශකයෙක් සදහන් කළේය.
+
+මෙසේ අත් අඩංගුවට ගෙන ඇත්තේ නො. 17 කොරොස්වත්ත දිවුල්ගල්ල නාරම්වල ලිපිනයේ පදිංචි ජයසූරිය ආරච්චිලාගේ දිනුක මධුෂාන් (38), එම ලිපිනයේම පදිංචි හේරත් මුදියන්සෙලාගේ ගයාත්‍රී චන්ද්‍රලතා (46) සහ නො 39 දඹගිරිගම හොරොම්බාව ලිපිනයේ පදිංචි  මොහන්දිරන්ලාගේ චාමර පුෂ්පකුමාර (32) නැමැති තිදෙනාය. මෙයින් පළමු හා දෙවන සැකකරුවන් අඹුසැමියන් බවද පොලිස් පරීක්ෂණ වලදී තහවුරු වූයේ යැයි ඇල්පිටිය පොලීසිය කියයි.
+
+...
+
+[Data](articles/8ef79cf7.json)
+
+---
+
+### ‘Namal has more time to run for presidency’ – Mahinda Rajapaksa
+
+*2024-04-07 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98497/namal-has-more-time-to-run-for-presidency-mahinda-rajapaksa) · `en`
+
+Former President Mahinda Rajapaksa says he is confident that the Sri Lanka Freedom Party (SLFP) will resolve its internal issues soon.
+
+In response to questions raised by journalists in Anuradhapura today (07), the former President also mentioned that the Samagi Jana Balawegaya (SJB) forming an alliance together with former members of the Sri Lanka Podujana Peramuna (SLPP) is not a challenge.
+
+“We have no problem even if ten alliances are formed. It is good that our people [members of SLPP] are everywhere [in the alliances].”
+
+Rajapaksa, who also commented regarding the SLPP’s presidential candidate, claimed that the party will definitely name a candidate for the Presidential Election and that a final decision regarding the candidate will be taken following discussions with the SLPP’s active members.
+
+“Definitely, they will name a candidate. We didn’t summon them [party members] as of yet. We’ll take a decision after holding discussions with them.”
+
+...
+
+[Data](articles/69688621.json)
+
+---
+
+### Zero Shadow DAY dawn
 
 *2024-04-07 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195406) · `si`
 
-සාමාන්‍ය කට වහරේ කියවෙන කතාවක් තමයි ''අඳුරේදී ඔබගේ සෙවණැල්ල වුව ඔබව හැරදා යයි'' නම් කියමන.
+On Zero Shadow DAY, the sun's rays temporarily eliminated shadows, a rare event observed in Sri Lanka.
 
-ඒත් අද (07) හිරු එළිය පතිතව තිබියදීම එළිමහනේ සිටින අයගේ සෙවණැල්ලත් කෙටි වේලාවකට අතුරුදන්වුණි.
+🟩
 
-පෘථිවිය සූර්යයා වටා පරිභ්‍රමණයේදී ඇතැම් අවස්ථාවල පෘථිවියේ ඇතැම් ස්ථානවලට හිරු මුදුන්වීම සිදුවෙයි.
+The key to a normal mouth is "the shadow of the dark" is that you will be except.
 
-එවන් අවස්ථාවල පෘථිවියේ ඇතැම් ස්ථානවලට හිරු කිරණ සිරස්ව එල්ලවීම නිසා එම ස්ථානවල පවතින වස්තූන්ගේ සෙවණැල්ල තාවකාලිකව අතුරුදන්වීම සිදුවෙයි.
+But today (07), the shadow of the outdoors disappeared short times.
 
-මේ වසරේ අප්‍රේල් මස 05 වනදා සිට අප්‍රේල් 15 දින දක්වා දින 10ක කාලයක් සූර්යයා ශ්‍රී ලංකාවට මුදුන්ව ගමන් ගනී.
+The sun is overlaying at certain planes in certain planes when the earth is situated around the sun.
 
-ඒ අතරින් අද (07) මධ්‍යහන 12.12ට හිරු මුදුන්ව පැවතීමේ ප්‍රතිඵලයක් ලෙස යම් වස්තුවක සෙවනැල්ල නොපෙනී යන අතර එළිමහනේ සිටින අයගේ සෙවණැල්ල එක් මොහොතකට අතුරුදන් වන ආකාරය දැකගත හැකිවුණි.
+The shadow of objects will be temporarily disappeared as the sun's rays are vertically on the planes in such cases.
 
-මෙම අවස්ථාව නිරීක්ෂණය සඳහා විශ්ලේෂණ මධ්‍යස්ථානයක් තාරකා විද්‍යාඥයන් අද දින ගංගාරාම සීමා මාලකයේ සූදානම් කර තිබුණි.
+The sun from April 5 this year, the sun is traveling to Sri Lanka for 10 days.
 
-අඩියක් පමණ වන කම්බි කූරක් වැනි යමක් මධ්‍යහ්නට පෙර එළිමහනේ සෘජුව සිටවා එහි සෙවණැල්ල අධීක්ෂණය මගින් මේ තත්ත්වය නිරීක්ෂණය කෙරුණි.
+Among them today (07) of these (07) of the sun, the shadow of an object was disappeared while the shadow of those in the open.
+
+Analytics center for observation of this opportunity was preparing in the Gangarama Seele Day today.
+
+The situation was observed directly directly in the open and the shadow monitoring of its shade.
 
 ◼️
 
 [Data](articles/787c9c03.json)
 
+[Extended Data](ext_articles/787c9c03.ext.json)
+
 ---
 
-### මොරගහහේන  වෙඩි තැබීමෙන් දෙදෙනෙක් මරුට
+### Two killed in Moragahahena shooting
 
 *2024-04-07 19:18:12* · [`adalk`](https://www.ada.lk/breaking_news/මොරගහහේන--වෙඩි-තැබීමෙන්-දෙදෙනෙක්-මරුට/11-408987) · `si`
 
-මොරගහහේන  තල්ගහවිල මාලොස් ඇළ හන්දිය ආසන්නයේදී තීරෝද රථයකින් ගමන් ගත් පුද්ගලයන් දෙදෙනෙකුට මෝටර්රථය කින් පැමිණි  පුද්ගලයන් පිරිසක් වෙඩි තබා ඝාතනය කර ඇතැයි මොරගහහේන  පොලිසිය කියයි.
+Two killed in Moragahahena shooting. Victims: Nayanananda Perera, Ukkung Malli, Piliyandala Saladamm Malli, Piliyandala Summulla. Suspects: Handiyawa, Homagama in Dubai. Cause: Drug trafficking.
 
-මෙලෙස ඝාතනයට ලක්ව ඇත්තේ පිළියන්දල පන්නිපිටිය හිරිපිටිය අංක 62/2 ලිපිනයේ පදිංචිව සිටි රූප සිංහ ආරච්චිලාගේ නයනානන්ද පෙරේරා නොහොත් උක්කුං මල්ලි  (52) හා පිළියන්දල සිද්ධමුල්ල තානායම් ගොඩනැගිල්ලඅංක 114/1 හි ලිපිනයේ පදිංචිව සිටි විතානගේ වසන්ත පෙරේරා (50) යන අයවලුන්ය
+🟩
 
-ඝාතනයට ලක් වූ පුද්ගලයන් දෙදෙනා 2004 වර්ෂයේදී  රත්නපුර ප්‍රදේශයේ. මැණික් හා ස්වර්ණාභරණ අලෙවි සැලක රුපියල් 67 ලක්ෂ 58500 කොල්ලකෑමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට පත්වීමෙන් අනතුරුව රිමාන්ඞ් භාරයට පත් වී ඇති අතර ඇප මත නිදහස් වීමෙන් අනතුරුව  සෑම ඉරු දිනකම රත්නපුර පොලිසියේ අපරාධ අංශයේ  පෙනී සිට අධිකරණය මගින් නියෝගයක් නිකුත් කර තිබූ බව පොලිසිය කියයි.
+Moragahahena Police say that a group of persons have been shot dead in Moragahahena Talgahawila Thass Canal.
 
-ඒ අනුව එම පුද්ගලයන් දෙදෙනා ඊයේ 7 නපුරයට ගොස් යළි නිවස කරා තීරෝද රථයෙන් පැමිණෙමින් සිටියදී   මෙම වෙඩි ප්‍රහාරයට ලක්වී ඇතැයි පොලිසිය කියයි.
+The victim was identified as Vithanha Arachchila's Nayanananda Perera (52) and Ukkung Malli (52) and Piliyandala Saladamm Malli (52) and Piliyandala Summulla.
+
+Two killed persons in Ratnapura in 2004. The gem and jewelery selling Rs.
+
+Accordingly, the two persons went to the end of the 7th and return to the house, the police said.
+
+The two persons who were seriously injured were admitted to Horana Police Officers were also killed when they were admitted to Horana Base Hospital.
+
+The three-wheeler was nine bullets and the number of bullets released by 9 MM.
+
+The police said that it is evident that it is evident in the vicinity of a white car behind their anand.
+
+However, the police said that the Tension Tensions have reached the Tim that the vehicle came to the place, though the murder was committed.
 
 ...
 
 [Data](articles/55f55d97.json)
+
+[Extended Data](ext_articles/55f55d97.ext.json)
 
 ---
 
@@ -820,23 +914,29 @@ The governor also pointed out that the work of removing the Poonakari and Muhama
 
 ---
 
-### නියතවශයෙන්ම තියෙන්නෙ ජනපතිවරණයයි
+### Surely the presidential election
 
 *2024-04-07 13:58:34* · [`adalk`](https://www.ada.lk/breaking_news/නියතවශයෙන්ම-තියෙන්නෙ-ජනපතිවරණයයි/11-408984) · `si`
 
-ව්‍යවස්ථාව අනුව මෙරට මීලඟට පැවැත්විය යුත්තේ ජනාධිපතිවරණය බවත් නියත වශයෙන්ම මෙරට මීලඟ මැතිවරණය ජනාධිපතිවරණය බව එක්සත් ජාතික පක්ෂයේ මහලේකම් රංගෙ බණ්ඩාර මහතා පවසයි .
+The General Secretary General of Rangambara Bandara stated that the next presidential election should be held in the country's next election. The UNP Secretary-General participated in the opening of the Presidential Electorate's Office in DS Senanayake Street. The Election Commission Director General was informed to hold the election before the presidential election. The UNP general secretary emphasized the start of the Central Province President's Office and the expected opening of a thousand election campaign offices across the country. The UNP aims to make Ranil Wickremesinghe the next president, in coordination with the world. The UNP leader acknowledges the harassment faced by UNP supporters since 1994 and the need for compensation, citing the current confusion in the country.
 
-එක්සත් ජාතික පක්ෂයේ මහලේකම්වරයා ඒ බව අවධාරණය කර සිටියේ අද (07) මහනුවර ඩී එස් සේනානායක වීදියේ විවෘත කෙරුණු මධ්‍යම පළාතේ ජනාධිපතිවරණ මෙහෙයුම් කාර්යාලය විවෘත කිරීමේ අවස්ථාවට එක්වෙමිනි.
+🟩
 
-එහිදී මහල්කම් විවරයා වැඩිදුරටත් අවධාරණය කර සිටියේ මැතිවරණ කොමිසමේ අධ්‍යක්ෂ ජනරාල්වරයා ද ජනාධිපතිවරණය පළමුවෙන් පවත්වන ලෙස දැනුම් දී ඇති බවද පැවසීය . එහිදී එක්සත් ජාතික පක්ෂ මහ ලේකම්වරයා වැඩිදුරටත් මෙසේ පැවසීය .
+According to the Constitution, the General Secretary General of Rangambara Bandara said that the next presidential election should be held in the country's next election.
 
-"අද අප ආරම්භ කළේ මධ්‍යම පළාත ජනාධිපති මෙහෙයුම් කාර්යාලයයි . එසේම ජනාධිපතිවරණයේ අවසන් වන තුරු මැතිවරණ මෙහෙයුම් කාර්යාල දහසක් රට පුරා ආරම්භ කිරීමට බලාපොරොත්තු වෙනවා .
+The Secretary-General of the United National Party (UNP) The Secretary-General of the UNP participated in the opening of the Presidential Electorate's Office in DS Senanayake Street today (07).
 
-අප එම මෙහෙයුම් කාර්යාල සම්බන්ධීකරණය කරගෙන මේ රට ගොඩනඟපු මේ රට ඉදිරියට ගෙන යා හැකි ලෝකය සමඟ සම්බන්ධතා ඇති අනාගතය දකින රනිල් වික්‍රමසිංහ ජනාධිපතිවරයා මෙරට මීළඟ ජනාධිපතිවරයා බවට පත්කිරීමේ කර්තව්‍ය අප ඉටු කරනවා .
+The apartment was emphasized that the Director General of the Election Commission had also been informed to be held before the presidential election.The UNP general secretary added:
+
+"Today we started the Central Province President's Office. Also, a thousand election campaign offices are expected to commence over the country until the end of the presidential election.
+
+We will make the task of making Ranil Wickremesinghe to make the President to make the country's next president in coordination of the country with the world where the country can be built with the world.
 
 ...
 
 [Data](articles/747ba8bc.json)
+
+[Extended Data](ext_articles/747ba8bc.ext.json)
 
 ---
 
@@ -2287,109 +2387,5 @@ Legal action will be taken to take legal action on the four Pakistani nationals 
 [Data](articles/ac7178e5.json)
 
 [Extended Data](ext_articles/ac7178e5.ext.json)
-
----
-
-### Man killed in police shooting in Mawanella
-
-*2024-04-07 07:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Man-killed-in-police-shooting-in-Mawanella/155-280313) · `en`
-
-Mawanella, April 7 (Daily Mirror) - A 53-year-old individual has died in a police shooting while attempting to resolve a dispute in Padiyadora in Mawanella last night.
-
-According to the police, the Mawanella Police were alerted to a dispute in Padiyadora and dispatched officers to investigate the situation.
-
-During the investigation, one person involved in the dispute reportedly assaulted a police officer with a sharp weapon.
-
-In response, another officer fired a warning shot to restore order. However, when the assailant continued to pose a threat by attempting to attack the officer, the officer fired again, resulting in the fatal injury of the suspect's father, who was involved in the altercation.
-
-The deceased, a resident of the area, succumbed to injuries after being rushed to Mawanella Hospital.
-
-Police said two injured police officers are currently receiving medical attention at the same hospital.
-
-...
-
-[Data](articles/8fc6eb6b.json)
-
-[Extended Data](ext_articles/8fc6eb6b.ext.json)
-
----
-
-### Man killed in police shooting in Mawanella
-
-*2024-04-07 07:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-killed-in-police-shooting-in-Mawanella/108-280313) · `en`
-
-Mawanella, April 7 (Daily Mirror) - A 53-year-old individual has died in a police shooting while attempting to resolve a dispute in Padiyadora in Mawanella last night.
-
-According to the police, the Mawanella Police were alerted to a dispute in Padiyadora and dispatched officers to investigate the situation.
-
-During the investigation, one person involved in the dispute reportedly assaulted a police officer with a sharp weapon.
-
-In response, another officer fired a warning shot to restore order. However, when the assailant continued to pose a threat by attempting to attack the officer, the officer fired again, resulting in the fatal injury of the suspect's father, who was involved in the altercation.
-
-The deceased, a resident of the area, succumbed to injuries after being rushed to Mawanella Hospital.
-
-Police said two injured police officers are currently receiving medical attention at the same hospital.
-
-...
-
-[Data](articles/a77668d1.json)
-
-[Extended Data](ext_articles/a77668d1.ext.json)
-
----
-
-### Sri Lanka foreign reserves rise $431mn to US$4.9bn in March
-
-*2024-04-07 06:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-reserves-rise-431mn-to-us4-9bn-in-march-157776/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s gross official reserves grew 431 million dollars to 4,951 million US dollars in March 2024 from 4,520 million dollars in February, data from the central bank shows.
-
-Gross official reserves include both monetary and fiscal reserves of the government, that usually come from loans and grants.
-
-Through gross official reserves are listed as 4.9 billion dollars by March, data shows that by February, the central bank’s net foreign exchange position was a negative 2.2 billion US dollars due to its borrowing.
-
-The central bank bought over 400 million dollars in January and February and also allowed the exchange rate to appreciate amid deflationary policy.
-
-However due to settling official liabilities, reserve numbers did not go up.
-
-...
-
-[Data](articles/32ff2688.json)
-
-[Extended Data](ext_articles/32ff2688.ext.json)
-
----
-
-### Police shot dead in Manella
-
-*2024-04-07 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195379) · `si`
-
-In Mawanella, a police officer was shot dead during a dispute, leading to the death of a 53-year-old man involved in drug trafficking. The incident occurred at night, with the suspect fleeing and a special operation launched to apprehend him.
-
-🟩
-
-A shooting man has died in a shooting carried out by the police in a dispute in Mawanella.
-
-The shooting was carried out at night yesterday (06).
-
-The Mawanella Police had telephoned the police that he had a dispute in Mawanella.
-
-It is reported that a person involved in the dispute has attacked a police officer with a sharp instrument.
-
-Another police officer shot dead at the time, police said that the police officer had shouting to attack the man trying to attack the person.
-
-The father of the victim was shot dead and he was injured and died on admission to the Mawanella Hospital.
-
-The deceased has been identified as 53-year-old residents and he is a criminal associated with drug trafficking.
-
-Two injured police officers are also receiving treatment at Mawanella Hospital.
-
-The suspect had fled the area and the Mawanella Police have launched a special operation to arrest him.
-
-◼️
-
-[Data](articles/d8f02dbf.json)
-
-[Extended Data](ext_articles/d8f02dbf.ext.json)
 
 ---

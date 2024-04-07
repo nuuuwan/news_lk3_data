@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 19:50:52**
+As of **2024-04-07 20:03:25**
 
 ## Newspaper Stats
 
-*Scraped **17,655** Articles*
+*Scraped **17,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,74 +15,142 @@ newsfirstlk | 363
 dailyftlk | 958
 islandlk | 968
 economynextcom | 978
-adalk | 1,483
-tamilmirrorlk | 2,081
+adalk | 1,485
+tamilmirrorlk | 2,082
 adaderanalk | 2,133
 virakesarilk | 2,578
-dailymirrorlk | 2,696
-adaderanasinhalalk | 2,866
+dailymirrorlk | 2,697
+adaderanasinhalalk | 2,867
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,651 (100.0%) of 17,655 articles have been extended.
+17,655 (100.0%) of 17,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### උඩරට නැටුම් කලාව ආරක්ෂා කිරීමට ජනපතිගෙන් කමිටුවක්
+### සූර් වී කාර් පැද්ද චණ්ඩි
+
+*2024-04-07 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195407) · `si`
+
+රිය අනතුරක් සිදුකර පොලිස් නිලධාරීන්ගේ රාජකාරියටද බාධා කළ තිදෙනෙක් වාරියපොල පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුවන් වාරියපොල නගරයේදී ඊයේ (06) පස්වරුවේ බීමත්ව රිය අනතුරක් සිදුකර තිබූ අතර අනතුරට පත් අනෙක් වාහනයේ රියදුරුට පහරදීමටද කටයුතු කර තිබුණි.
+
+බීමත් පිරිස එම රියදුරුට පහරදෙන අයුරු සහ පොලිස් නිලධාරීන්ගේ රාජකාරියට බාධා කරමින් හැසිරෙන ආකාරය අසල සිටි අයෙක් ජංගම දුරකථනයකින් වීඩියෝ කර තිබුණා.
+
+◼️
+
+[Data](articles/010271c7.json)
+
+---
+
+### හාල් කිලේ 20 ලැබෙන පවුල් මෙන්න
+
+*2024-04-07 19:50:14* · [`adalk`](https://www.ada.lk/breaking_news/හාල්-කිලේ-20-ලැබෙන-පවුල්-මෙන්න/11-408992) · `si`
+
+සිංහල දමිළ අලුත් අවුරුද්ද වෙනුවෙන් අස්වැසුම හෝ වෙනත් ප්‍රතිලාභ නොලබන දිළිඳු පවුල් ලක්ෂ 27.5 ක් වෙනුවෙන් සහල් කිලෝ 20 බැගින් ලබා දීමට කටයුතු කරන බවත්, ප්‍රාදේශීය සංවර්ධනය වෙනුවෙන් මුදල් අමාත්‍යාංශය මගින් රුපියල් මිලියන විසි දහසක මුදලක් වෙන්කර ඇති බවත් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+සෑම ප්‍රාදේශීය ලේකම් කොට්ඨාසයක්ම ආවරණය වන පරිදි රු. මිලියන 20000ක මුදලක් ප්‍රාදේශීය සංවර්ධනය සඳහා වෙන්කර ඇති අතර, ඉන් රුපියල් මිලියන 10000ක් සියලුම ප්‍රාදේශීය ලේකම් කොට්ඨාස ආවරණය වන පරිදි හා තවත් රු. මිලියන 10000ක මුදලක් අඩුම පහසුකම් පවතින, විශේෂයෙන් කඳුකර ප්‍රදේශයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස සංවර්ධනය සඳහා මුදල් අමාත්‍යාංශය මගින් විමධ්‍යගත අයවැය වශයෙන් වැය කරන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+ඒ මහතා මේ බව කියා සිටියේ ඉදිරි ග්‍රාමීය සංවර්ධනය පිළිබඳව පෙරේදා (6දා) අනුරාධපුර, කළුආරච්චියාගම ප්‍රදේශයේ පැවති ජනවාතාව දැනුවත් කිරීමේ වැඩසටහනට එක්වෙමිනි.
+
+...
+
+[Data](articles/7c0de4c6.json)
+
+---
+
+### கடைசி விருப்பம்: ஆராய குழு
+
+*2024-04-07 19:44:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடைசி-விருப்பம்-ஆராய-குழு/175-335708) · `ta`
+
+முஸ்லிம் சமூகம் உட்பட எந்த ஒருநபரினதும் இறுதிக் கிரியையையும் மத ரீதியாகவோ அல்லது  கடைசி விருப்பத்தின் படியோ மேற்கொள்வதற்கு தேவையான ஏற்பாடுகளை செய்வதற்கு புதிய குழுவொன்று நியமிக்கப் போவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க கண்டி கட்டுகெலே பள்ளிவாசலில் இன்று (07) பிற்பகல் இடம்பெற்ற இப்தார் நிகழ்வில் கலந்துகொண்டு உரையாற்றும் போதே தெரிவித்தார்-
+
+◼️
+
+[Data](articles/8e65f078.json)
+
+---
+
+### President appoints committee to protect the Kandyan dance art
 
 *2024-04-07 19:35:15* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-නැටුම්-කලාව-ආරක්ෂා-කිරීමට-ජනපතිගෙන්-කමිටුවක්/11-408990) · `si`
 
-උඩරට නැටුම් කලාව ආරක්ෂා කර ගනිමින් ඉදිරියට පවත්වාගෙන යාම සඳහා ගත යුතු ක්‍රියාමාර්ග පිළිබඳ සොයා බැලීමට කමිටුවක් පත් කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe announced a committee to protect Kandyan dance art, including traditional dancers and relevant institutions. He also advised on pensions for traditional dancers and emphasized the importance of preserving traditional arts like Sabaragamuwa dance.
 
-සංස්කෘතික කටයුතු අමාත්‍යාංශය, සෞන්දර්ය විශ්වවිද්‍යාලය ඇතුළු අදාළ ආයතන නියෝජනය වන අයුරින් පත් කරනු ලබන මෙම කමිටුවට මහනුවර සාම්ප්‍රදායික නර්තන ශිල්පීන්ගේ නියෝජිතයෙකුද ඇතුළත් කර ගැනීමට උපදෙස් ලබා දෙන බව පැවසූ ජනාධිපතිවරයා, උඩ රට කලා මධ්‍යස්ථානයක් ද ස්ථාපිත කිරීමට ඒ යටතේ කටයුතු කරන බව සඳහන් කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මහනුවර ජනාධිපති මන්දිරයේ දී අද (07) පෙරවරුවේ මහනුවර සාම්ප්‍රදායික නර්තන ශිල්පීන් හමුවූ අවස්ථාවේදීය.
+President Ranil Wickremesinghe said a committee will be appointed to investigate the art of upgrading of the Kandyan dance art.
 
-මහනුවර සාම්ප්‍රදායික නර්තන ශිල්පීන්ට විශ්‍රාම වැටුපක් ලබාදීම සම්බන්ධයෙන් සොයා බලන ලෙස ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කම්කරු අමාත්‍ය මනුෂ නානායක්කාර මහතාට මෙහිදී උපදෙස් දුන්නේය.
+The President said that the committee would be instructed to include a representative of traditional dancers in Kandy, including the Ministry of Cultural Affairs and the relevant agencies including the relevant institutions including the relevant institutions.
+
+President Ranil Wickremesinghe made this observation when he met traditional dancers in Kandy this morning.
+
+President Ranil Wickremesinghe also advised Labor Minister Manusha Nanayakkara to look into the pension of traditional dancers in Kandy.
+
+The President also said that the country was familiar with the treasure of the Kandyan dance, but the new committee will also advise the new committee to find a suitable methodology.
+
+The president advised the officials in Kandy regarding several issues that have been faced with working in the field.
 
 ...
 
 [Data](articles/5a2f4494.json)
 
+[Extended Data](ext_articles/5a2f4494.ext.json)
+
 ---
 
-### මා දැලකට හසුවූ ඩොල්ෆින් රංචුවකගේ දිවි බේරයි
+### I protects a dolphin herd in a dolphin herd to a net
 
 *2024-04-07 19:29:05* · [`adalk`](https://www.ada.lk/picture_story/මා-දැලකට-හසුවූ-ඩොල්ෆින්-රංචුවකගේ-දිවි-බේරයි/10-408989) · `si`
 
-යාපනය වඩමාරච්චි කට්ටෙයිකාට්ටිල් මුහුදු තීරයේ මසුන් අල්ලමින් සිටි ධීවරයින් පිරිසකගේ මා දැලකට හසුව සිටි ඩොල්ෆින් මසුන් 11 දෙනෙකු බෙරා නැවත් මුහුදුට නදහස්කර යැවීමට වඩමාරච්චි ධීවරයින් පිරිසක් ඊයේ (06) සවස පියවර ගෙන තිබුණි.
+Vadamarachchi fishermen captured 11 dolphins, sparking a protest. The Sri Lankan Navy urged caution in dolphin fishing.
 
-ධීවරයින් විසින් ඒලන ලද මා දැලකට මෙම ඩොල්ෆින් මසුන් 11 දෙනෙකු හසුව ගොඩට ගසාගෙනවිත් අසිරුව සිටින අවස්ථාවේදී ප්‍රදේශයේ ධීවරයින් සියලු දෙනා එක්ව අදාල ඩොල්ෆින් මසුන් නැවත මුහුද දෙසට රැගෙන යාමට පියවර ගෙන තිබුණි.
+🟩
 
-එහිදී දැඩි පරිශමයක් යොදා ඩොල්ෆින් මසුන් 11 දෙනාම කිසිදු හානියක් නොකොට නැවත මුහුදටම මුදාහැරීමට ප්‍රදේශයේ ධීවරයින් පියවර ගැනීඹ කාගෙත් ප්‍රශංශාවට ලක්විය.
+The Vadamarachchi fishermen yesterday evening had taken steps to send 11 dolphins to the coastal of the fishermen who were fishing in the Vadamarachchi Kataraikattill coast, Jaffna.
 
-මේ දිනවල වඩමාරච්චි මුහුදු සීමාවේ ඩොල්ෆින් මසුන් බහුලව ගැවසෙන හෙයින් ධීවර කටයුතු සිදුකිරීමේදී අදාල මසුන් ප්‍රවේශම් කරන ලෙසටද නාවික හමුදාව විසින්ද ධීවර ප්‍රජාව වෙතට දැනුම් දී ඇත.
+The fishermen had landed at the fishermen at the time of the fishermen, the dolphin fish had taken place to take up the dolphin fish to the sea.
+
+Fishermen in the area suffered the immediate release of 11 dolphins, using 11 dolphins.
+
+The Sri Lankan Navy has also asked the fishing community to cautify the fish related to fisheries as the dolphin fishing of the Vadamarachchi sea.
 
 ◼️
 
 [Data](articles/46bc67b4.json)
 
+[Extended Data](ext_articles/46bc67b4.ext.json)
+
 ---
 
-### කුවේටයේ දේවාලයක කපුවෙක් යැයි කියන පුද්ගලයෙක් අල්ලයි
+### Man arrested for a refuge in Kuwait
 
 *2024-04-07 19:24:51* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-දේවාලයක-කපුවෙක්-යැයි-කියන-පුද්ගලයෙක්-අල්ලයි/11-408988) · `si`
 
-රුපියල් ලක්ෂ 60 කට අධික වටිනාකමකින් යුත් රත්තරන් පැළඳ නවීන පන්නයේ කේඩීඒච් වර්ගයේ වෑන් රථයකින් සැකකටයුතු ලෙස ගමන් කරමින් සිටි කුවේට් රටේ දේවාලයක කපුවෙක් බව කියන අයෙකු ඇතුළු තිදෙනෙක් ඉතා මුවහත් අඩි 04 කට ආසන්න දිගින් යුත් සුදු යකඩ කඩුවක්ද සමග අද (07) දහවල් ඇල්පිටිය පොලීසිය මගින් අත් අඩංගුවට ගෙන තිබේ.
+Three suspects arrested in Kuwait for smuggling nearly 4 lakhs of gold. Suspects, including a 38-year-old from Divulgalla Naram, were found with a sword and cigarettes. Police in Elpitiya, Sri Lanka, are investigating.
 
-සැකකරුවන් හෙට (08) ඇල්පිටිය මහේස්ත්‍රාත් මධුෂිකා වාසලමුදලි මහත්මිය වෙත ඉදිරිපත් කිරීමට නියමිත බව ඇල්පිටිය පොලීසිය කියයි.
+🟩
 
-සැකකරුවන් අත් අඩංගුවට ගත් අවස්ථාවේ රුපියල් ලක්ෂ විසි පහක (25,00000/-) මුදලක් පොලීසියට ලබා දී පලා යෑමට උත්සාහ කල බවද ඇල්පිටිය පොලීසියේ ප්‍රකාශකයෙක් සදහන් කළේය.
+Ablipitiya Police today (07), with a sharp white iron silche, who was prevailing in a van of high-ranking gold, were skeptical of nearly 4 lakhs of gold.Have arrested.
 
-මෙසේ අත් අඩංගුවට ගෙන ඇත්තේ නො. 17 කොරොස්වත්ත දිවුල්ගල්ල නාරම්වල ලිපිනයේ පදිංචි ජයසූරිය ආරච්චිලාගේ දිනුක මධුෂාන් (38), එම ලිපිනයේම පදිංචි හේරත් මුදියන්සෙලාගේ ගයාත්‍රී චන්ද්‍රලතා (46) සහ නො 39 දඹගිරිගම හොරොම්බාව ලිපිනයේ පදිංචි  මොහන්දිරන්ලාගේ චාමර පුෂ්පකුමාර (32) නැමැති තිදෙනාය. මෙයින් පළමු හා දෙවන සැකකරුවන් අඹුසැමියන් බවද පොලිස් පරීක්ෂණ වලදී තහවුරු වූයේ යැයි ඇල්පිටිය පොලීසිය කියයි.
+The suspects are to be produced at the Elpitiya Magistrate and Madushika Sadugali, police said.
+
+A total of Rs.
+
+The arrested. Jayasuriya Arachchilage Dinuka Madushan (38), a resident of the Divulgalla Naram, Koreawatta, is located in the same resident of Horombamta (46), a resident of Horamba (32), Dambagarigama. Elpitiya Police said that the first and second suspects were also confirmed.
+
+Elpitiya, Kurundugaham Rattamat Sampantha in Elpitiya. The three suspects have been arrested by the government of Elpitiya police. Police have told the police that they came out of the highway and that the garden from Wattala area came to Emaduwa.. During the inspection of the suspects, five manufactured cigarettes and white iron sword have been found in a foreign country.
 
 ...
 
 [Data](articles/8ef79cf7.json)
+
+[Extended Data](ext_articles/8ef79cf7.ext.json)
 
 ---
 
@@ -103,6 +171,26 @@ Rajapaksa, who also commented regarding the SLPP’s presidential candidate, cla
 ...
 
 [Data](articles/69688621.json)
+
+[Extended Data](ext_articles/69688621.ext.json)
+
+---
+
+### Liquor stores to remain closed for Sinhala Tamil New Year
+
+*2024-04-07 19:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Liquor-stores-to-remain-closed-for-Sinhala-Tamil-New-Year/108-280327) · `en`
+
+Colombo, April 07 (Daily Mirror) - In line with the Sinhala and Tamil New Year celebrations, the Excise Department has announced the closure of all liquor stores across the island on April 12th and 13th.
+
+Excise Commissioner General M.J. Gunasiri emphasized that during this period, efforts to combat illegal liquor activities will be heightened.
+
+Gunasiri revealed that approximately three hundred officers will be deployed to conduct raids targeting illegal liquor operations.
+
+This initiative aims to curb the illicit trade of alcohol during the temporary closure of licensed establishments.
+
+◼️
+
+[Data](articles/b2f05133.json)
 
 ---
 
@@ -167,6 +255,26 @@ However, the police said that the Tension Tensions have reached the Tim that the
 [Data](articles/55f55d97.json)
 
 [Extended Data](ext_articles/55f55d97.ext.json)
+
+---
+
+### ලක්ෂ 95ක මුදල් පොරොන්දුවකට ඉතාලි යන්න ගිය ගමන වරදියි
+
+*2024-04-07 19:12:20* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-95ක-මුදල්-පොරොන්දුවකට-ඉතාලි-යන්න-ගිය-ගමන-වරදියි/11-408986) · `si`
+
+කූඨ ලෙස සකස් කළ ශ්‍රී ලාංකික ගමන් බලපත්‍රයක් සහ ගුවන් යානා ප්‍රවේශ පත්‍රයක් යොදා ගෙන ඉතාලිය වෙත පළා යාමට තැත් කළ ශ්‍රී ලාංකික තරුණයෙකු 04/05 දින කටුනායක ගුවන් තොටුපොළ ආගමන විගමන දෙපාර්තමේන්තු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ.
+
+මොහු 27 හැවිරිදි ත්‍රිකුණාමලය ප්‍රදේශයේ පදිංචි තරුණයෙකි .   ඔහු ඉකුත් 04/05 දින පස්වරු 02.40 ට එක්සත් අරාබි එමීර් රාජ්‍යයේ සාජා නුවර වෙත යාම සදහා එයාර් ඇරේබියා ගුවන් සේවයේ ජී.9558 දරන ගුවන් යානය සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+
+ඔහු සිය ගුවන් නිශ්කාශන කටයුතු සිදු කර අවසන් වී විගමන කටයුතු සදහා පිටත්ව යමින් සිටින අතරතුර , ඔහු පිළිබඳ ඇති වූ සැකය මත ආගමන විගමන දෙපාර්තමේන්තු දේශසීමා ආවේක්ෂණ ඒකකය වෙත කැදවා මූලික  විමර්ශනයක් සිදු කර තිබුණි .
+
+එහිදී මෙම ගුවන් මගියා සතු ගමන් බලපත්‍රය මෙන්ම ගුවන් යානා ප්‍රවේශ පත්‍රය ද ( Boarding Pass ) කූඨ ලෙස සකස් කළ ඒවා බවට කරුණු අනාවරණය විය .
+
+ඉන්පසුව ඔහුගේ ගමන් මල්ල පරීක්ෂා කිරීමේදී ඒ තුළ මොහුගේ සැබෑ ශ්‍රී ලංකා ගමන් බලපත්‍රය සහ ව්‍යාජ ලෙස සකස් කළ විගමන මුද්‍රාවක් ද තිබී සොයා ගැනීමට මෙම නිලධාරීන් සමත් වී තිබුණි .
+
+...
+
+[Data](articles/3deba855.json)
 
 ---
 
@@ -2259,133 +2367,5 @@ The lorry driver has been arrested and the Inginiyagala Police are conducting fu
 [Data](articles/1cd13b33.json)
 
 [Extended Data](ext_articles/1cd13b33.ext.json)
-
----
-
-### Thundershowers;Extreme heat
-
-*2024-04-07 07:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-கடும்-வெப்பம்/175-335681) · `ta`
-
-Thundershowers and extreme heat expected in Western and Sabaragamuwa Provinces, Kandy, Nuwara Eliya, Galle, and Matara districts. Snowy conditions in Western, Central, Uva, and Sabaragamuwa Provinces, Ampara, Galle, and Matara districts. Meteorology advises precautions against wind and lightning. Sun's North Movement affects Sri Lanka's weather, with peak sun at 12:12 pm today.
-
-🟩
-
-Western and Sabaragamuwa Provinces, Kandy, Nuwara Eliya, Galle and Matara districts this afternoon (07). The Department of Meteorology has forecast rain or thunderstorms in a few places after 2.00 pm.
-
-At the same time, the department has announced that it is expected to be snowy in the morning in some places in the Western, Central, Uva and Sabaragamuwa Provinces and Ampara, Galle and Matara districts.
-
-The Department of Meteorology has urged the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.
-
-Meanwhile, due to the Sun's North Movement, Sri Lanka's wide lines will be straight up from April 5 to 15.
-
-As a result, the Department of Meteorology further stated that the sun will peak at 12:12 pm today (07) at 12:12 pm.. Remble
-
-◼️
-
-[Data](articles/31dba07b.json)
-
-[Extended Data](ext_articles/31dba07b.ext.json)
-
----
-
-### Thundershowers;Extreme heat - forecasting people
-
-*2024-04-07 07:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-கடும்-வெப்பம்-மக்களுக்கு-முன்னறிவித்தல்/175-335681) · `ta`
-
-"Thundershowers and extreme heat forecasted for Western and Sabaragamuwa Provinces, Kandy, Nuwara Eliya, Galle and Matara districts. Snow expected in Western, Central, Uva and Sabaragamuwa Provinces, Ampara, Galle and Matara districts. Meteorology advises precautions against wind and lightning. Sun's peak to Sri Lanka's width lines from April 5 to 15, affecting Kadawatha, Badulla, Lunugala, Kongaspitiya, Pakmittiya and Kotmalai at 12:12 pm today."
-
-🟩
-
-Western and Sabaragamuwa Provinces, Kandy, Nuwara Eliya, Galle and Matara districts this afternoon (07). The Department of Meteorology has forecast rain or thunderstorms in a few places after 2.00 pm.
-
-At the same time, the department has announced that it is expected to be snowy in the morning in some places in the Western, Central, Uva and Sabaragamuwa Provinces and Ampara, Galle and Matara districts.
-
-The Department of Meteorology has urged the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.
-
-Meanwhile, due to the movement of the Sun's North, it will peak to the width lines of Sri Lanka from April 5 to 15.
-
-As a result, the Department of Meteorology has said that the sun will be toppled in areas such as Kadawatha, Badulla, Lunugala, Kongaspitiya, Pakmittiya and Kotmalai at 12:12 pm today (07).. Remble
-
-◼️
-
-[Data](articles/6052a39d.json)
-
-[Extended Data](ext_articles/6052a39d.ext.json)
-
----
-
-### One person killed in police fire during clash in Mawanella
-
-*2024-04-07 07:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98484/one-person-killed-in-police-fire-during-clash-in-mawanella) · `en`
-
-A 53-year-old person was shot dead after police opened fire while attempting to resolve a dispute among a group of persons at Padiyadora in Mawanella.
-
-Two policemen have also been injured during the clash, according to police.
-
-Mawanella Police had received a telephone call last night (06) pertaining to a dispute in the Padiyadora while a team of police personnel were dispatched to the location.
-
-However, one person involved in the dispute had allegedly attacked one of the policemen with a sharp object, prompting another police officer to fire into the air as a warning.
-
-However, the individual had then attempted to attack the other policeman as well and the latter had opened fire at that moment.
-
-The father of the individual who had carried out the attack was injured in the shooting while he had succumbed to injuries after being admitted to the Mawanella Hospital.
-
-The deceased is a 53-year-old resident of the area while police allege that he was a suspected criminal involved in drug rackets.
-
-...
-
-[Data](articles/d7929b81.json)
-
-[Extended Data](ext_articles/d7929b81.ext.json)
-
----
-
-### Showers expected in parts of the island
-
-*2024-04-07 07:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98483/showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at a few places in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts after 2.00 p.m.
-
-Misty conditions can be expected at some places in Western, Central, Uva and Sabaragamuwa provinces and in Ampara, Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-On the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka during 05th to 15th of April in this year.
-
-The nearest areas of Sri Lanka over which the sun is overhead today (07) are Kadawatha, Badulla, Lunugala, Kongaspitiya, Bakmitiyawa and Kotmale at about 12:12 noon.
-
-◼️
-
-[Data](articles/0fce0218.json)
-
-[Extended Data](ext_articles/0fce0218.ext.json)
-
----
-
-### Pakistani have arrested Sri Lankans
-
-*2024-04-07 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195380) · `si`
-
-Pakistani authorities arrested four Sri Lankans for allegedly holding them hostage to obtain money, abducting foreign passports, and planning to resend them. The arrests were made following a complaint by the Nepal Investigation Department. Legal action is pending against the Pakistani nationals.
-
-🟩
-
-Four Sri Lankans have arrested four Pakistani nationals who had been hostage in the pretext to be sent to various European countries.
-
-According to foreign media reports, the suspects have been arrested following a complaint lodged by the Nepal Investigation Department.
-
-The Napili Police say that the Pakistani national suspects who have been arrested in Canada and Romania have obtained money from the four Sri Lankans.
-
-The four Sri Lankans have been assaulted by Pakistani and tortured and abducted foreign passports.
-
-The four Sri Lankans are planning to re-sending them again.
-
-Legal action will be taken to take legal action on the four Pakistani nationals and the allegations of human rackets.
-
-◼️
-
-[Data](articles/ac7178e5.json)
-
-[Extended Data](ext_articles/ac7178e5.ext.json)
 
 ---

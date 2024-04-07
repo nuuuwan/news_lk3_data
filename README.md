@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 21:03:20**
+As of **2024-04-07 21:18:11**
 
 ## Newspaper Stats
 
-*Scraped **17,671** Articles*
+*Scraped **17,672** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 958
 islandlk | 968
 economynextcom | 978
-adalk | 1,487
+adalk | 1,488
 tamilmirrorlk | 2,082
 adaderanalk | 2,134
 virakesarilk | 2,582
@@ -26,23 +26,29 @@ adaderanasinhalalk | 2,868
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,668 (100.0%) of 17,671 articles have been extended.
+17,671 (100.0%) of 17,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### බවුසරයකින් රැගෙන ආ හඳුනා නොගත් ද්‍රව්‍ය
+### Unidentified material brought from a bowl
 
 *2024-04-07 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195408) · `si`
 
-මිනිස් සිරුරට අහිතකර යැයි සැකසහිත ද්‍රව්‍යයක් බවුසරයක් මගින් ගෙනැවිත් රුවන්වැල්ල, අමිතිරිගල ප්‍රදේශයේ ඇළකට බැහැර කරමින් සිටියදී ප්‍රදේශවාසීන් බවුසරයේ රියදුරු අල්ලාගෙන මැදගොඩ පොලිස් අනුඛණ්ඩයට භාරදී තිබේ.
+Residents of Ruwanwella handed over unidentified materials from a bowl to the media, claiming they were discarded in a canal in Amithiliigala.
 
-බවුසරයේ තිබූ ද්‍රව්‍ය මෙතෙක් හඳුනාගෙන නොමැති අතර කලක් තිස්සේ මොවුන් මෙම ක්‍රියාව සිදුකර ඇති බවට ප්‍රදේශවාසීන් චෝදනා කරයි.
+🟩
+
+The residents of the area handed over to the Media with the bowser of the area while they were discarded to a canal in Amithiliigala area in Ruwanwella.
+
+The residents of the area complained that the materials in the bowl had not yet been identified.
 
 ◼️
 
 [Data](articles/2c370597.json)
+
+[Extended Data](ext_articles/2c370597.ext.json)
 
 ---
 
@@ -68,6 +74,22 @@ Meanwhile, the Acting General Secretary of SLFP Dushmantha Mithrapala lodged a c
 
 ---
 
+### රේගු බදු නොගවා ගෙන්වූ ජීප් 51ක් වෙනත් පාර්ශ්වලට පැවැරීම වළක්වයි
+
+*2024-04-07 20:08:04* · [`adalk`](https://www.ada.lk/breaking_news/රේගු-බදු-නොගවා-ගෙන්වූ-ජීප්-51ක්-වෙනත්-පාර්ශ්වලට-පැවැරීම-වළක්වයි/11-408994) · `si`
+
+රේගු බදු නොගෙවා මෙරටට ගෙන්වූ අතිසුඛෝපභෝගි ජීප් රථ 51ක් හේතුවෙන් රජයට රුපියල් කෝටි 300කට අධික පාඩුවක් වී ඇති බවට දැනුම් දෙමින් අල්ලස් කොමිසම කළ ඉල්ලීමකට අනුව එම අති සුඛෝපභෝගි ජීප් රථ 51ක වෙනත් පාර්ශ්වයන්ට පැවරීම වළක්වාලමින් කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ප්‍රසන්න අල්විස් මහතා නියෝගයක් නිකුත් කළේය.
+
+රජයට රුපියල් කෝටි 300කට අධික පාඩුවක් කළ මෙම අතිසුඛෝපභෝගි ජීප් රථ 51 සම්බන්ධයෙන් විමර්ශන ආරම්භ කළ පසු ඒවා වෙනත් පාර්ශ්වයන්ට පවරා අස්ථානගත කිරීමේ සූදානමක් ඇතැයි කියමින් අල්ලස් කොමිසමේ නිලධාරීන් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව ප්‍රධාන මහේස්ත්‍රාත්වරයා මෝටර් රථවාහන ලියාපදිංචි කිරීමේ අධ්‍යක්‍ෂ ජනරාල්වරායාට එලෙස නියම කළේය.
+
+වෙනත් පාර්ශ්වයන්ට පැවරීම වළක්වාලමින් එලෙස නියම කරන ලද්දේ අතිසුඛෝපභෝගී ජීප් රථ 03ක්, ලැන්ඩ් කෲසර් වර්ගයේ ජීප් රථ 24ක්, මොන්ටේරෝ වර්ගයේ ජීප් රථ 18ක්සහ අතිසුඛෝපභෝගි කැබ් රථ 06ක් ඇතුළු අතිසුඛෝපභෝගි ජීප් රථ 51කි.
+
+...
+
+[Data](articles/c7ce96a2.json)
+
+---
+
 ### Tourists savor Avurudu sweetmeats
 
 *2024-04-07 20:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Tourists-savor-Avurudu-sweetmeats/110-280326) · `en`
@@ -79,6 +101,8 @@ One of the key highlights of Avurudu is the preparation and enjoyment of traditi
 ◼️
 
 [Data](articles/f661efb1.json)
+
+[Extended Data](ext_articles/f661efb1.ext.json)
 
 ---
 
@@ -1354,6 +1378,8 @@ As such, this solar eclipse is not visible to Sri Lanka, but visible in countrie
 
 [Data](articles/f5915cd2.json)
 
+[Extended Data](ext_articles/f5915cd2.ext.json)
+
 ---
 
 ### Sunlight and Wind Power Program in the island: Earth Pooja in Nedundevil
@@ -2329,27 +2355,5 @@ The Jaffna Fisheries Department has been handed over to the Department of Fisher
 [Data](articles/0730e8db.json)
 
 [Extended Data](ext_articles/0730e8db.ext.json)
-
----
-
-### Fuel consumption decreases by 50 percent
-
-*2024-04-07 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195384) · `si`
-
-The Petroleum Division Association reports a 50% decrease in fuel consumption, attributed to the country's economic situation. Chairman Shelton Fernando confirms all fuel supplies are still adequate.
-
-🟩
-
-The fuel consumption of the country has decreased by 50 percent, says the Petroleum Division Association (Patrol) Association says.
-
-Chairman Shelton Fernando said that the economic situation in the country is one of the reasons for the reduction in fuel consumption.
-
-Shelton Fernando said that all fuel is still without any deficit.
-
-◼️
-
-[Data](articles/45406cb2.json)
-
-[Extended Data](ext_articles/45406cb2.ext.json)
 
 ---

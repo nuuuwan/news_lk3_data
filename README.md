@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 17:03:21**
+As of **2024-04-07 17:18:03**
 
 ## Newspaper Stats
 
-*Scraped **17,634** Articles*
+*Scraped **17,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ islandlk | 968
 economynextcom | 978
 adalk | 1,478
 tamilmirrorlk | 2,081
-adaderanalk | 2,130
-virakesarilk | 2,570
+adaderanalk | 2,131
+virakesarilk | 2,571
 dailymirrorlk | 2,696
-adaderanasinhalalk | 2,861
+adaderanasinhalalk | 2,862
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,632 (100.0%) of 17,634 articles have been extended.
+17,634 (100.0%) of 17,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### After Maldives, India supplies onions to Sri Lanka and UAE – report
+
+*2024-04-07 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98494/after-maldives-india-supplies-onions-to-sri-lanka-and-uae-report) · `en`
+
+The credibility of the Narendra Modi government’s neighbourhood first policy is evident as India is now planning to supply thousands of metric tons of onion to Sri Lanka after supplying vast quantities of essential commodities to Maldives under the pro-China Mohammed Muizzu regime, Indian Media reported today.
+
+It is understood that besides this, India on April 3 allowed a supply of additional 10,000 tons of onions over and above its quota to close ally United Arab Emirates (UAE) as the Gulf country is always a priority with Bharat.
+
+...
+
+[Data](articles/05534894.json)
+
+---
+
+### ඉන්දීය ලූනු කඩිනමින් ශ්‍රී ලංකාවට
+
+*2024-04-07 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195402) · `si`
+
+ඉන්දියාව ලූනු මෙට්‍රික් ටොන් දහස් ගණනක් ශ්‍රී ලංකාවට සැපයීමට සැලසුම් කර තිබෙන බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+
+එම වාර්තා පෙන්වා දෙන්නේ මෝදි ආණ්ඩුවේ 'අසල්වැසියන්ට මුල්තැන' විදෙස් ප්‍රතිපත්තිය යටතේ ඉන්දියාව මාලදිවයිනට අත්‍යවශ්‍ය භාණ්ඩ විශාල ප්‍රමාණයක් සැපයීමට තීරණය කර තිබූ අතර ඉන් පසු මෙම තීරණය ගෙන ඇති බවය.
+
+◼️
+
+[Data](articles/92427069.json)
+
+---
+
+### லொறியில் மோதுண்டு 2 வயது குழந்தை பரிதாபமாக உயிரிழந்தது!
+
+*2024-04-07 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180642) · `ta`
+
+லொறியில் மோதுண்டு விபத்துக்குள்ளான 2 வயது குழந்தை உயிரிழந்த துயர சம்பவம் நேற்று (06) இரவு இடம்பெற்றுள்ளது.
+
+அம்பாறை - பிபில பிரதான வீதியில் உள்ள நாமல் ஓயா பிரதேசத்தில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+அதே பகுதியை சேர்ந்த பெற்றோர் தமது 2 வயது 7 மாதமேயான குழந்தையோடு அருகில் உள்ள விகாரையில் நடைபெற்ற சமய நிகழ்வுகளில் கலந்துகொண்டு வழிபாட்டில் ஈடுபட்டிருந்த வேளையில், குழந்தை பெற்றோரிடமிருந்து நீங்கி வீதிக்குச் சென்றபோதே விபத்தில் சிக்கியுள்ளது.
+
+விபத்தில் படுகாயமடைந்த குழந்தையை பெற்றோர் இங்கினியாகலை வைத்தியசாலைக்கு கொண்டு சென்றதன் பின்னரே குழந்தை உயிரிழந்ததாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த விபத்துடன் தொடர்புடைய லொறியின் சாரதியை இங்கினியாகலை பொலிஸார் கைது செய்து, விசாரணை நடத்தி வருகின்றனர்.
+
+◼️
+
+[Data](articles/2eb672bd.json)
+
+---
 
 ### More information about Horana double murder
 
@@ -82,6 +130,8 @@ Furthermore, the general public is informed that complaints related to narcotics
 
 [Data](articles/21bf7db5.json)
 
+[Extended Data](ext_articles/21bf7db5.ext.json)
+
 ---
 
 ### Fishermen in Vadamarachchi rescue 11 Dolphins caught in nets
@@ -124,21 +174,29 @@ State Minister Ranjith Siyambalapitiya stated that the government is prepared to
 
 ---
 
-### தின்பண்ட செலவு   2 %  குறைந்துள்ளது
+### The cost of snacks has declined by 2 %
 
 *2024-04-07 16:07:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தின்பண்ட-செலவு-2-குறைந்துள்ளது/175-335705) · `ta`
 
-தமிழ் சிங்களப் புத்தாண்டுக்கான பாரம்பரியத்தின் பண்டங்களுக்கான செலவு 2023 ஆம் ஆண்டுடன் ஒப்பிடுகையில் 2024 ஆம்ஆண்டில் குறைந்துள்ளது. ஆனால் 2019 ஆம் ஆண்டிலிருந்ததை விட தொடர்ந்தும் இரண்டு மடங்கு அதிகமாகவே உள்ளது.
+Snack costs fell 2% in 2024, but the Tamil Sinhala New Year's cost, though down, is still twice 2019's. This is based on a study by Veritarisch, Publicfinance.lk, showing a 2% decrease in goods cost by 2024 over 2023. The traditional sweets, like crocodiles and bananas, are a key part of the celebration, with recipes from the YouTube channel "Appeamma" used for analysis.
 
-வெரிட்டேரிசேர்ச் நிர்வகிக்கும் இலங்கையின் பொருளாதார விபரங்களை வழங்கும் முன்னணி தளமான  PublicFinance.lk முன்னெடுத்த “புத்தாண்டு” தின்பண்டங்களுக்கான வருடாந்தச் செலவு தொடர்பிலான ஆய்வில் இந்த விபரம் தெரியவந்துள்ளது.
+🟩
 
-இது பொருட்களுக்கான செலவு 2023 ஆம் ஆண்டை விட 2024 ஆம் ஆண்டில் 2 சதவீதத்தால் குறைந்துள்ளதைக் காட்டுகிறது.
+The cost of the Tamil Sinhala New Year has declined in 2024 compared to 2023. But it remains twice as much as 2019.
 
-2019 ஆம்ஆண்டுடன் ஒப்பிடுகையில் 2023 ஆம்ஆண்டில் செலவு 2.3 மடங்கு அதிகரித்திருந்தது.  2019 ஆம் ஆண்டுடன் ஒப்பிடுகையில் 2024 ஆம் ஆண்டில் இது சற்றுக் குறைந்து 2.2 மடங்காக உள்ளது.
+This is revealed in a study on the annual cost of "New Year", the leading base of Sri Lanka's economic details that manage the Veritariserch, Publicfinance.lk.
+
+This shows that the cost of goods declined by 2 percent by 2024 than 2023.
+
+The cost was 2.3 times in 2023 compared to 2019.In 2024 compared to 2019, it declined slightly 2.2 times.
+
+The traditional sweets of Sri Lanka that indicate prosperity and happiness will take place in many New Year's Eve. Although there are differences between families, traditional New Year's sweets usually include crocodiles, bananas, bungalows, console, tutorial, bureaucracy and butter cake.
 
 ...
 
 [Data](articles/29475936.json)
+
+[Extended Data](ext_articles/29475936.ext.json)
 
 ---
 
@@ -2287,75 +2345,5 @@ According to NASA, the 18.6-mile-wide ‘Devil’s Comet’ is expected to reach
 [Data](articles/626495a6.json)
 
 [Extended Data](ext_articles/626495a6.ext.json)
-
----
-
-### Boralesgamuwa's murder was taken out
-
-*2024-04-06 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195376) · `si`
-
-A suspect in Boralesgamuwa's murder, arrested in Panadura East, confessed to a 15-year casual relationship with the victim and his wife. He claimed his daughters planned the murder, which he committed in Devilmamulla, Pacuem, and Pattamulla. The victim was a 38-year-old Matara resident. The suspect will face charges at Gangodawila Magistrate's Court, with further investigations ongoing.
-
-🟩
-
-The suspect was arrested by the police in the Panadura East.
-
-The suspect had told the police that the murdered man and his wife had a casual relationship for 15 years.
-
-The suspect was confessed to the police on suspicion that his wife left the house recently.
-
-The suspect has said that he has two daughters and two daughters and two daughters and they have planned the crime that they cannot tolerate awake.
-
-He has said that he had killed the murder in the Devilmamulla area in general area Pacuem in the Pattamulla area in general area Bellanar Junction.
-
-The suspect had said that the motorcycle was crashed at the time of his influence.
-
-The victim was a 38-year-old resident of Matara.
-
-The suspect is to be produced before the Gangodawila Magistrate's Court and the Boralesgamuwa Police are conducting further investigations.
-
-◼️
-
-[Data](articles/a8621009.json)
-
-[Extended Data](ext_articles/a8621009.ext.json)
-
----
-
-### Britain amended travel suggestions to Sri Lanka
-
-*2024-04-06 21:49:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கான-பயண-ஆலோசனைகளை-திருத்தியது-பிரித்தானியா/175-335674) · `ta`
-
-Britain updated travel advice for Sri Lanka, removing concerns about food, fuel, and drug shortages, and addressing health service challenges, including medical equipment shortages.
-
-🟩
-
-Britain has changed the information already announced on issues such as access to emergency medical services, security requirements, road safety, road safety, country security situation and access to health facilities.
-
-Accordingly, the information found in the previous consultation on food, fuel and drug shortage has been removed from this revised travel suggestion.
-
-In addition, challenges in health services, such as the shortage of medical equipment, have been eliminated.R
-
-◼️
-
-[Data](articles/d2eb0646.json)
-
-[Extended Data](ext_articles/d2eb0646.ext.json)
-
----
-
-### Two well-known Sinhala classical poems translated into English
-
-*2024-04-06 21:49:00* · [`islandlk`](http://island.lk/two-well-known-sinhala-classical-poems-translated-into-english/) · `en`
-
-The poems, termed didactic – Lovada Sangarava and Subhasitaya – have been translated as Towards Universal Well-being and Well Spoken respectively, and published as a second edition by the Buddhist Publication Society Kandy, in 2023 (Buddhist era 2567). The translator is Ven Siri Vajiraramaye Nanasiha Thera. The very clear print text runs through 90 pages with the verses from the ancient text in Sinhala letters and the translation in bold English script, well-spaced and easy on the reading eye.
-
-Embarrassed, I admit, I am not familiar with the two great classics of our Sinhala literature but have been reading them, along with easy-to-understand English translations, in the book I feel privileged to write about.
-
-...
-
-[Data](articles/13f708c2.json)
-
-[Extended Data](ext_articles/13f708c2.ext.json)
 
 ---

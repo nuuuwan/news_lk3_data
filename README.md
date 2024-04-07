@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 12:33:34**
+As of **2024-04-07 12:49:11**
 
 ## Newspaper Stats
 
-*Scraped **17,589** Articles*
+*Scraped **17,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 968
 economynextcom | 978
 adalk | 1,473
 tamilmirrorlk | 2,074
-adaderanalk | 2,123
+adaderanalk | 2,124
 virakesarilk | 2,563
 dailymirrorlk | 2,686
 adaderanasinhalalk | 2,852
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,852
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,589 (100.0%) of 17,589 articles have been extended.
+17,589 (100.0%) of 17,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### Allowances of Grama Niladhari officers increased
+
+*2024-04-07 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98488/allowances-of-grama-niladhari-officers-increased) · `en`
+
+The government has decided to revise the allowances provided to Grama Niladhari officers.
+
+Accordingly, the office allowances and stationery allowances of Grama Niladhari officers have been increased effective from April 01, 2024.
+
+The Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government has reportedly forwarded the circular related to the matter to all District Secretaries and Divisional Secretaries.
+
+Thus, the monthly office allowance within Municipal Council limits has been increased up to Rs. 3,000 while the monthly office allowance within Pradeshiya Sabha limits has been increased to Rs. 2,000.
+
+The annual stationery allowance has also been increased to Rs. 3,000, according to the ministry.
+
+◼️
+
+[Data](articles/7423ef83.json)
+
+---
 
 ### Sri Lanka prepares for first-ever seed exports after successful testing
 
@@ -54,7 +74,7 @@ The required research on seeds has been carried out by experts of the Department
 
 ### The PA convene on Tuesday
 
-*2024-04-07 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/180618) · `ta`
+*2024-04-07 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180618) · `ta`
 
 The Sri Lanka Peoples Freedom Alliance (PA) will hold a political meeting on Tuesday, led by Mahinda Rajapaksa, with Sakara Kariyawasam and Basil Rajapaksa participating. The focus will be on discussing future party activities, addressing restrictions on commenting on the presidential election, and the meeting between President Ranil and Basil Rajapaksa.
 
@@ -2335,29 +2355,5 @@ The Sri Lankan Embassy in the country has issued a statement that should be take
 [Data](articles/d3919ced.json)
 
 [Extended Data](ext_articles/d3919ced.ext.json)
-
----
-
-### The United Kingdom renewed travel advice to Sri Lanka
-
-*2024-04-06 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180584) · `ta`
-
-The UK renewed travel advice to Sri Lanka from April 5, 2024, due to economic improvement. The updated advice focuses on Emergency Medical Services, Safety Requirements, and Access to Health Facilities, removing previous concerns about food, fuel, drug shortages, and health service shortages. The Sri Lankan High Commission in London has been addressing issues with British officials, aiming for a clearer understanding of Sri Lanka's progress.
-
-🟩
-
-Due to the economic improvement that Sri Lanka has achieved, the United Kingdom has decided to renew Travel Advisory to Sri Lanka for its citizens from April 5, 2024.
-
-Emergency Medical Services, Safety Requirements, Road Safety, Country Safety Status and Access to Health Facilities. Accordingly, information on the previous consultation on food, fuel and drug shortage has been eliminated from this updated travel consultation.
-
-In addition, challenges in health services such as a shortage of medical equipment have been eliminated. The Sri Lankan High Commission in London has occasionally presented issues to British officials in London, with the need to eliminate these negative information provided by previous tourist advice to make a clear understanding of the progress of Sri Lanka.
-
-Between January 01 and March 27, 53,928 tourists from the United Kingdom came to Sri Lanka, thereby the third largest country in the United Kingdom.
-
-◼️
-
-[Data](articles/913e98a9.json)
-
-[Extended Data](ext_articles/913e98a9.ext.json)
 
 ---

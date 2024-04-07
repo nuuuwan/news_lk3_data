@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 18:20:37**
+As of **2024-04-07 18:33:46**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 2,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,641 (100.0%) of 17,643 articles have been extended.
+17,643 (100.0%) of 17,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### கிராம மக்களின் பொருளாதார மேம்பாட்டுக்காக வவுனியாவில் 29 விவசாயிகளுக்கு தானியங்கள் வழங்கிவைப்பு
+### 29 farmers in Vavuniya for the economic development of the villagers
 
 *2024-04-07 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180638) · `ta`
 
-கிராமிய மக்களின் பொருளாதார மேம்பாட்டுக்காக குளங்கள், கிராமங்கள் மறுமலர்ச்சித் திட்டத்தின் கீழ் வவுனியாவில் 29 விவசாயிகளுக்கு தானியங்கள் இன்று (07) வழங்கப்பட்டன.
+29 farmers in Vavuniya received grains under the Ponds and Villages Renaissance Scheme for rural economic development. The scheme, launched by the Ministry of Irrigation, provides seeds and cultivation guidelines at the Kovilkulam Agrarian Development Center.
 
-நீர்ப்பாசன அமைச்சின் கீழ் உள்ள குளங்கள், கிராமங்களின் மறுமலர்ச்சி திட்டத்தின் கீழ் கிராமிய மக்களின் பொருளாதார மேம்பாட்டுக்காக பயிர்ச்செய்கைக்கான தானியங்கள் வழங்கும் வேலைத் திட்டம் நாடு பூராகவும் ஆரம்பிக்கப்பட்டுள்ளது.
+🟩
 
-அதனடிப்படையில், வவுனியா மாவட்டத்தில் தெரிவு செய்யப்பட்ட விவசாயிகளுக்கு தானியங்கள் வழங்கும் நிகழ்வு வவுனியா இலுப்பையடி பகுதியில் அமைந்துள்ள கோவில்குளம் கமநல அபிவிருத்தி நிலையத்தில் இன்று நடைபெற்றது.
+29 farmers in Vavuniya today (07) have been given grains under the Ponds and Villages Renaissance Scheme for the economic development of the rural population.
 
-இத்திட்டத்தின் கீழ் தெரிவு செய்யப்பட்ட குளங்களின் கீழான பயிர்ச்செய்கைக்காக கச்சான், கௌப்பி, பயறு, உழுந்து என்பன வழங்கப்பட்டு வருகின்றன.
+Under the Ponds and Villages Renaissance Scheme under the Ministry of Irrigation, the Cereal Project for Cultivation for the economic development of the rural people has been launched across the country.
+
+Accordingly, the event was held today at the Kovilkulam Agrarian Development Center located in the Vavuniya Ilupaiyadi area.
+
+Under this scheme, kachan, gape, lentils and plow are provided for cultivation under the selected ponds.
+
+As a part of this, 25 farmers under the Kovilkulam Agrarian Development Center were given seeds, 2 farmers, seeds for one farmer, seeds for one farmer, and other farmers' seeds were given to 29 farmers and the consultation guidelines on cultivation were given.
 
 ...
 
 [Data](articles/02a67289.json)
+
+[Extended Data](ext_articles/02a67289.ext.json)
 
 ---
 
@@ -67,6 +75,8 @@ The department further says this is not the forecast of maximum temperature. It 
 ◼️
 
 [Data](articles/4350c31a.json)
+
+[Extended Data](ext_articles/4350c31a.ext.json)
 
 ---
 

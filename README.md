@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 14:50:12**
+As of **2024-04-07 15:03:20**
 
 ## Newspaper Stats
 
-*Scraped **17,618** Articles*
+*Scraped **17,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 958
 islandlk | 968
 economynextcom | 978
-adalk | 1,477
+adalk | 1,478
 tamilmirrorlk | 2,077
 adaderanalk | 2,128
 virakesarilk | 2,567
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,857
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,614 (100.0%) of 17,618 articles have been extended.
+17,618 (100.0%) of 17,619 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### මොරගහහේනේ වෙඩි තැබීමකින් දෙදෙනෙක් මරුට
+### Two killed in Moragahahena
 
 *2024-04-07 14:32:17* · [`adalk`](https://www.ada.lk/breaking_news/මොරගහහේනේ-වෙඩි-තැබීමකින්-දෙදෙනෙක්-මරුට/11-408985) · `si`
 
-මොරගහහේන තල්ගහවිල මාලොස් ඇළ හන්දිය ආසන්නයේදී තීරෝද රථයකින් ගමන් ගත්  දෙදෙනෙකුට මෝටර්රථය කින් පැමිණි පුද්ගලයන් පිරිසක් වෙඩි තැබීමෙන් ත්‍රිරෝද රථයේ ගමන් ගත් දෙදෙනා මියගොස් ඇතැයි මොරගහහේන පොලිසිය පවසයි.
+Two traders in a three-wheeler were shot dead near Moragahahena Talgahawila Tharagala Junction. One was injured and taken to Piliyandala hospital. The shooting was carried out by a white car.
 
-මියගිය දෙදෙනා කවරුන්ද යන්න මෙතෙක් හඳුනාගෙන නැත. වෙඩි ප්‍රහාරයෙන් බරපතල ලෙස තුවාල ලබා සිටියදී පිලියන්දල රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇත.
+🟩
 
-සුදු පාටට හුරු මෝටර් රථයකින් පැමිණ මෙම වෙඩි තැබීම සිදුකර ඇති බව  විමර්ශනවලදී අනාවරණය වී ඇතැයි පොලිසිය පවසයි.
+Moragahahena Police said that the two traders of the three-wheeler were shot dead near the Moragahahena Talgahawila Tharagala Junction.
+
+The two deaths of the dead have not yet been identified. The victim was admitted to the Piliyandala hospital while he was injured in the shooting.
+
+Investigations have revealed that the shooting had been carried out by a white car, police said.
 
 ◼️
 
 [Data](articles/b3964180.json)
+
+[Extended Data](ext_articles/b3964180.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ Investigations are underway to ascertain the motive behind the shooting and to a
 ◼️
 
 [Data](articles/73f75c7a.json)
+
+[Extended Data](ext_articles/73f75c7a.ext.json)
 
 ---
 
@@ -107,6 +115,8 @@ As such, this solar eclipse is not visible to Sri Lanka, but visible in countrie
 ...
 
 [Data](articles/1fd091cb.json)
+
+[Extended Data](ext_articles/1fd091cb.ext.json)
 
 ---
 
@@ -199,6 +209,26 @@ Whike expressing his opinion, the Minister said although seeds of various crops 
 ◼️
 
 [Data](articles/1fb81855.json)
+
+[Extended Data](ext_articles/1fb81855.ext.json)
+
+---
+
+### මහනුවර හරිත නගරයක් කරන්න සාකච්ඡා
+
+*2024-04-07 13:44:26* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-හරිත-නගරයක්-කරන්න-සාකච්ඡා/11-408982) · `si`
+
+කුණ්ඩසාලේ, කටුගස්තොට, පේරාදෙණිය සහ තැන්නේකුඹුර ඇතුලු උප නගර කිහිපයක් සංවර්ධනය කිරීම සම්බන්ධයෙන් ද සාකච්ඡා කර ඇති බවත් රුපියල් කෝටි දෙදහසක් පමණ මුදලක් ඒ සඳහා අවශ්‍ය වන බවත් එම අතිරේක මූල්‍ය ප්‍රතිපාදන ලබා ගැනීම පිළිබඳව ලෝක බැංකුව සමඟ ඉදිරියේදී සාකච්ඡා කරන බව ප්‍රවාහන, මහා මාර්ග හා ජනමාධ්‍ය අමාත්‍ය බන්දුල ගුණවර්ධන මහතා සඳහන් කළේය.
+
+මහනුවර නගරයේ ඉදි කෙරමින් පවතින බහුවිධි මාදිලි ප්‍රවාහන මධ්‍යස්ථානයේ සංවර්ධන කටයුතු පිළිබදව නිරීක්ෂණය සහ එහි ප්‍රගතිය සමාලෝචනය සම්බන්ධයෙන් පසුගියදා (06) මහනුවර ගුඩ්ෂෙඩ් පර්යන්තයේදී පැවැති සාකච්ඡාවකින් පසු මාධ්‍ය හමුවේ අදහස් දක්වමින් ඒ මහතා මේ බව කීවේය.
+
+හරිත නගරයක් බවට මහනුවර පත් කිරීම සඳහා ලෝක බැංකුවට යෝජනාවක් ඉදිරිපත් කරන බවත්
+
+යෝජිත මහනුවර බහුවිධි ප්‍රවාහන මධ්‍යස්ථානයට සමගාමීව ඉදිරි තෙවර්ෂය තුළදී හරිත නගර සංකල්පය කරා යොමු වන බව අමාත්‍යවරයා වැඩිදුරටත ප්‍රකාශ කළේය
+
+...
+
+[Data](articles/4729f88c.json)
 
 ---
 
@@ -2297,23 +2327,5 @@ In attendance were ADB’s Country Director Takafumi Kadono and officials of the
 [Data](articles/50f71545.json)
 
 [Extended Data](ext_articles/50f71545.ext.json)
-
----
-
-### Nine more underworld figures arrested
-
-*2024-04-06 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98477/nine-more-underworld-figures-arrested) · `en`
-
-Police have arrested 09 more members of organized criminal gangs on Friday (05), under the operation launched to curb the underworld.
-
-The arrested individuals have been identified as the residents of Colombo, Galle, Ragama, Moratuwa, Bandaragama and Wadduwa, the police said.
-
-Police mentioned that the arrestees included the members of the gangs led by notorious criminals such as “Pukudu Kanna”, “Podi Lassi”, “Ganemulla Sanjeewa”, “Heenatiyana Sankha”, “Kudu Anju”, “Kudu Salindu” and “Mathugama Gavariya”.
-
-◼️
-
-[Data](articles/2edb6cb0.json)
-
-[Extended Data](ext_articles/2edb6cb0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 16:03:46**
+As of **2024-04-07 16:18:03**
 
 ## Newspaper Stats
 
-*Scraped **17,627** Articles*
+*Scraped **17,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,55 @@ tamilmirrorlk | 2,079
 adaderanalk | 2,129
 virakesarilk | 2,570
 dailymirrorlk | 2,695
-adaderanasinhalalk | 2,858
+adaderanasinhalalk | 2,859
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,626 (100.0%) of 17,627 articles have been extended.
+17,627 (100.0%) of 17,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### මත්පැන් අලෙවිසැල් වසා තැබීම ගැන දැනුම්දීමක්
+### හමාස් ප්‍රාණ ඇපයේ සිටි ඊශ්‍රායල ජාතිකයින්ගේ තවත් සිරුරු හමුවෙයි
+
+*2024-04-07 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195398) · `si`
+
+ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතෙන්යාහු ප්‍රමුඛ රජයට එරෙහිව ඊශ්‍රායල වැසියන් දහස් ගණනක් ටෙල් අවීව් නුවර කේන්ද්‍ර කරගෙන දැවැන්ත විරෝධතාවක් ආරම්භ කර තිබේ.
+
+ඒ හමාස් ප්‍රාණ ඇපයේ සිටි ඊශ්‍රායල ජාතික ඉලාඩ් කත්සීර්ගේ සිරුර ගාසාහි මෙහෙයුම් අතරතුරදී හමුවූ බවට ඊශ්‍රායල හමුදාව ප්‍රකාශ කිරීමත් සමගය.
+
+හමාස් භාරයේ සිටින 130ක් පමණ වන ඊශ්‍රායල ප්‍රාණ ඇපකරුවන්ගෙන් 34 දෙනෙකු මියගොස් ඇතැයි සැක කෙරෙන අතර ඊශ්‍රායල හමුදා 12 දෙනෙකුගේ සිරුරු සොයා ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/0dc33061.json)
+
+---
+
+### Notice of the closure of liquor outlets
 
 *2024-04-07 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195397) · `si`
 
-අප්‍රේල් මස 13 වනදාට යෙදී ඇති අලුත් අවුරුදු උත්සවය නිමිත්තෙන් එළඹෙන 12 සහ 13 යන දෙදින විශේෂ අවසර ලත් ස්ථාන හැර අනෙකුත් සියලුම සිල්ලරට මත්පැන් විකිණීම සඳහා සුරාබදු බලපත්‍ර ලත් මත්පැන්හල් වසා තැබිය යුතු බවට සුරාබදු කොමසාරිස් ජනරාල්වරයා විසින් නියෝග කර ඇත.
+The Commissioner General of Excise will close all alcohol sales except on 12th and 13th April, excluding resident travelers and top hotels. On Bucuppura Poya Day, all sales are prohibited. Complaints about crimes can be reported to the Excise Department.
 
-සංචාරක සංවර්ධන අධිකාරියේ අනුමැතිය ලත් තරු පන්ති තුනෙන් ඉහළ හෝටලවල නේවාසික සංචාරකයින් සඳහා සහ විශේෂ බුටික් විලා බලපත්‍ර ලත් ස්ථාන සඳහා එය අදාළ නොවේ.
+🟩
 
-2024. 04. 23 වන දිනට යෙදී ඇති බක්පුර පසළොස්වක පෝය දිනයේදී බලපත්‍ර වර්ගීකරණයකින් තොරව දිවයින පුරා පිහිටි සිල්ලරට මත්පැන් විකිණීම සඳහා සුරාබදු බලපත්‍ර ලත් ස්ථාන සියල්ලම වසා තැබීමටද සුරාබදු කොමසාරිස් ජනරාල්වරයා විසින් නියෝග කර ඇත.
+The Commissioner General of Excise should be closed for the sale of all retailed alcohol, other than 12th and 13th April.
 
-මෙම කාලසීමාව තුළ සිදුවන සුරා අපරාධ, මත්ද්‍රව්‍ය අපරාධ සහ දුම්කොළ අපරාධ සම්බන්ධ පැමිණිලි, සුරාබදු දෙපාර්තමේන්තුවේ මෙහෙයුම් මැදිරිය හා සම්බන්ධිත අංක 1913 දුරකථන අංකය වෙත හෝ දිවයින පුරා පිහිටි සුරාබදු ස්ථාන සහ විශේෂ ඒකක වෙත ලබාදෙන මෙන් මහජනතාව දැනුවත් කෙරේ.
+It does not apply to resident travelers and special boutique wilic licensed places in top hotels of the tourism Development Authority.
+
+2024. 04. The Commissioner General of Excise License has been ordered to be closed for sale in the Bucuppura Poya Day on the 23rd day of the Bucuppura Poya Day.
+
+The public will be made aware of the complaints regarding the expiry crimes, drug crimes and tobacco operation of the Excise Department operating room at the Excise Department (1913 telephone number) or to the Excise Places and Excise Places of the island.
 
 ◼️
 
 [Data](articles/89c5ef33.json)
+
+[Extended Data](ext_articles/89c5ef33.ext.json)
 
 ---
 
@@ -2319,21 +2341,5 @@ President: 2300 in Western Province. There are 700 more. Hope to go for 4000. I 
 [Data](articles/16fea392.json)
 
 [Extended Data](ext_articles/16fea392.ext.json)
-
----
-
-### Jetwing takes off and then July 1983 hits
-
-*2024-04-06 20:18:00* · [`islandlk`](http://island.lk/jetwing-takes-off-and-then-july-1983-hits/) · `en`
-
-(Excerpted from The Jetwing Story on the Life of Herbert Cooray by Shiromal Cooray)
-
-Though conscientious about records, accounts and compliance with regulations, Herbert Cooray was never a number- cruncher. His decision-making did not involve the detailed scrutiny of feasibility studies, balance sheets and financial analyses. Like most entrepreneurs of his generation, he navigated by intuition. He would consider a proposition, talk the matter over with those who could inform or advise him, and then make his decision. He never rushed into things – nor, on the other hand, did he waste time when it was of the essence. His instincts rarely let him down.
-
-...
-
-[Data](articles/dc325868.json)
-
-[Extended Data](ext_articles/dc325868.ext.json)
 
 ---

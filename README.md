@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 17:18:03**
+As of **2024-04-07 17:34:27**
 
 ## Newspaper Stats
 
-*Scraped **17,637** Articles*
+*Scraped **17,639** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ economynextcom | 978
 adalk | 1,478
 tamilmirrorlk | 2,081
 adaderanalk | 2,131
-virakesarilk | 2,571
+virakesarilk | 2,572
 dailymirrorlk | 2,696
-adaderanasinhalalk | 2,862
+adaderanasinhalalk | 2,863
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,634 (100.0%) of 17,637 articles have been extended.
+17,637 (100.0%) of 17,639 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### අද දේශපාලනය වෙනස් - ජනපති
+
+*2024-04-07 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195403) · `si`
+
+අද (07) සමගි ජන බලවේගය තුළ එක්සත් ජාතික පක්ෂයේ ප්‍රතිපත්ති නොමැති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+මේ වනවිට එහි ආර්ථික ප්‍රතිපත්තිය හසුරුවන්නේ පොහොට්ටුවෙන් පිටමන් කළ කණ්ඩායම විසින් බවත් ජනාධිපතිවරයා සඳහන් කරයි.
+
+2020 දී එක්සත් ජාතික පක්ෂයේ අයිතිය ප්‍රකාශ කරමින්, සිරිකොත අල්ලා ගැනීමට සූදානම්ව සිටි සමගි ජන බලවේගය අද පොහොට්ටුවේ සභාපති ඇතුළු පිරිසට යටවී ඇති බවද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේ, මහනුවර ජනාධිපති මන්දිරයේදී අද (07) පැවති දේශපාලන පක්ෂ නියෝජිත හමුව අමතමිනි.
+
+2022 ජූලි මාසයේ සිදුවූ දේශපාලන පෙරළිය සමග මෙරට පක්ෂ ක්‍රමයද වෙනසකට ලක්වී ඇති බව පෙන්වා දුන් ජනාධිපතිවරයා කුමන දේශපාලන පක්ෂයක් නියෝජනය කළ ද අද සියලුදෙනා රට පිළිබඳ සිතා රජයේ වැඩපිළිවෙළ සමඟ සහයෝගයෙන් ඉදිරියට යා යුතු බවද පැවසීය.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය,
+
+...
+
+[Data](articles/b18ef5cd.json)
+
+---
+
+### இலங்கைக்கு நச்சுக் கழிவுகளை இறக்குமதி செய்பவர்கள் யார்?
+
+*2024-04-07 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180635) · `ta`
+
+மார்ச் 26ஆம் திகதி அமெரிக்காவின் பால்டிமோர் நகரின் பிரான்சிஸ் ஸ்கொட் கீ  பாலத்தை  மோதித் தகர்த்த டாலி என்ற சிங்கபூர் நாட்டு கப்பல், எரிபொருட்களையும் அதோடு  அபாயகரமான நச்சுப் பொருட்களையும் இலங்கைக்கு  ஏற்றி வந்தமை குறித்து அமெரிக்க ஊடகங்கள் பரவலாக செய்திகளை வெளியிட்டுள்ளன.
+
+ஆனால் இலங்கையில் ஒரு சில அச்சு ஊடகங்களைத் தவிர வேறு எந்த ஊடகங்களும் இது குறித்து கேள்வி எழுப்பவில்லை. அமெரிக்க ஊடகங்களின் செய்திகளை இலங்கையின் சில ஆங்கில பத்திரிகைகள் தலைப்புச் செய்தியாக பிரசுரித்திருந்தன. அதன் பிறகே இது குறித்து பாராளுமன்றத்திலும் கேள்வி எழுப்பப்பட்டுள்ளது.  அது வரையில் அரசாங்கத்தரப்பிலிருந்து கூட  இந்த சம்பவம் குறித்து எவரும் வாய்திறக்கவில்லை.
+
+...
+
+[Data](articles/73e826b6.json)
+
+---
 
 ### After Maldives, India supplies onions to Sri Lanka and UAE – report
 
@@ -44,39 +80,53 @@ It is understood that besides this, India on April 3 allowed a supply of additio
 
 [Data](articles/05534894.json)
 
+[Extended Data](ext_articles/05534894.ext.json)
+
 ---
 
-### ඉන්දීය ලූනු කඩිනමින් ශ්‍රී ලංකාවට
+### Sri Lanka soon
 
 *2024-04-07 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195402) · `si`
 
-ඉන්දියාව ලූනු මෙට්‍රික් ටොන් දහස් ගණනක් ශ්‍රී ලංකාවට සැපයීමට සැලසුම් කර තිබෙන බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+India plans to send thousands of files to Sri Lanka, a decision influenced by the Maldives' supply of goods to Sri Lanka.
 
-එම වාර්තා පෙන්වා දෙන්නේ මෝදි ආණ්ඩුවේ 'අසල්වැසියන්ට මුල්තැන' විදෙස් ප්‍රතිපත්තිය යටතේ ඉන්දියාව මාලදිවයිනට අත්‍යවශ්‍ය භාණ්ඩ විශාල ප්‍රමාණයක් සැපයීමට තීරණය කර තිබූ අතර ඉන් පසු මෙම තීරණය ගෙන ඇති බවය.
+🟩
+
+India has planned to supply thousands of filing to Sri Lanka, India.
+
+The reports indicate that the neighbors 'neighbors' neighbors have decided to supply a large number of goods that have been made to the Maldives, which have taken this decision.
 
 ◼️
 
 [Data](articles/92427069.json)
 
+[Extended Data](ext_articles/92427069.ext.json)
+
 ---
 
-### லொறியில் மோதுண்டு 2 வயது குழந்தை பரிதாபமாக உயிரிழந்தது!
+### A 2 -year -old child died miserably in a lorry!
 
 *2024-04-07 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180642) · `ta`
 
-லொறியில் மோதுண்டு விபத்துக்குள்ளான 2 வயது குழந்தை உயிரிழந்த துயர சம்பவம் நேற்று (06) இரவு இடம்பெற்றுள்ளது.
+A 2-year-old child died in a lorry crash in Namal Oya, Ampara-Bibila. Parents were at a religious event when the accident happened. The child died after being taken to the hospital. The lorry driver is under investigation.
 
-அம்பாறை - பிபில பிரதான வீதியில் உள்ள நாமல் ஓயா பிரதேசத்தில் இந்த விபத்து இடம்பெற்றுள்ளது.
+🟩
 
-அதே பகுதியை சேர்ந்த பெற்றோர் தமது 2 வயது 7 மாதமேயான குழந்தையோடு அருகில் உள்ள விகாரையில் நடைபெற்ற சமய நிகழ்வுகளில் கலந்துகொண்டு வழிபாட்டில் ஈடுபட்டிருந்த வேளையில், குழந்தை பெற்றோரிடமிருந்து நீங்கி வீதிக்குச் சென்றபோதே விபத்தில் சிக்கியுள்ளது.
+The tragedy of the death of a 2 -year -old child in the lorry crashed last night.
 
-விபத்தில் படுகாயமடைந்த குழந்தையை பெற்றோர் இங்கினியாகலை வைத்தியசாலைக்கு கொண்டு சென்றதன் பின்னரே குழந்தை உயிரிழந்ததாக பொலிஸார் தெரிவித்துள்ளனர்.
+The accident took place in Namal Oya area on the main road of Ampara - Bibila.
 
-இந்த விபத்துடன் தொடர்புடைய லொறியின் சாரதியை இங்கினியாகலை பொலிஸார் கைது செய்து, விசாரணை நடத்தி வருகின்றனர்.
+Parents from the same area were involved in a religious events held at a nearby Viharaya with their 2 -year -old child and went to the streets when they were riding their parents.
+
+Police said the child died only after the parents were taken to the Hospital in Inginiyakalai.
+
+The driver of the lorry in connection with the accident is being arrested by the police and is investigating.
 
 ◼️
 
 [Data](articles/2eb672bd.json)
+
+[Extended Data](ext_articles/2eb672bd.ext.json)
 
 ---
 
@@ -2301,49 +2351,5 @@ Vijayadasa Rajapaksa, who made a unique contribution to Sri Lankan politics and 
 [Data](articles/51fc7b9c.json)
 
 [Extended Data](ext_articles/51fc7b9c.ext.json)
-
----
-
-### 2024-04-06 (Saturday)
-
-### Govt to launch special loan scheme for welfare of artists in cinema industry
-
-*2024-04-06 22:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98482/govt-to-launch-special-loan-scheme-for-welfare-of-artists-in-cinema-industry) · `en`
-
-Dr. R. H. S. Mr. Samaratunga, the Presidential Senior Adviser on Economic Affairs, emphasized the need for artists to draft proposals aimed at enhancing the film industry’s progress and supporting its members.
-
-This directive was issued during a recent discussion at the Presidential Secretariat regarding the modernization of Sri Lankan cinema to align with contemporary standards and to ensure the sustained professional growth of artists within the sector.
-
-The discussion, led by Dr. Samaratunga and attended by the Presidential Trade Union Director General Mr. Saman Ratnapriya and National Film Corporation Chairman Mr. Deepal Chandraratne, extensively addressed the challenges facing the film industry.
-
-...
-
-[Data](articles/ddf20865.json)
-
-[Extended Data](ext_articles/ddf20865.ext.json)
-
----
-
-### Rare celestial spectacle as massive ‘Devil’s Comet’ returns after 71 years
-
-*2024-04-06 22:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98481/rare-celestial-spectacle-as-massive-devils-comet-returns-after-71-years) · `en`
-
-Sri Lankans will have the opportunity to witness a rare celestial spectacle of the Devil’s Comet, scientifically named 12P/Pons-Brooks, which passes by the Earth once in 71 years.
-
-The Devil’s Comet will be positioned near the Jupiter, making it visible to the naked eye during the total solar eclipse on April 08.
-
-A rare and massive comet, known for its “horned” shape and has a 71-year orbit, was observed for the first time in 1300 Anno Domini by a group of Chinese astronomers.
-
-However, it was officially recognized after it was observed by the French astronomer Jean-Louis Pons in the 19th century and rediscovered by British American astronomer William Brooks in 1883.
-
-The massive comet is also known as the “devil comet” due to its formation of two “horns” made up of ice and gas and periodic explosions.
-
-According to NASA, the 18.6-mile-wide ‘Devil’s Comet’ is expected to reach its closest point to the Sun and shine the brightest on the 21st of April.
-
-...
-
-[Data](articles/626495a6.json)
-
-[Extended Data](ext_articles/626495a6.ext.json)
 
 ---

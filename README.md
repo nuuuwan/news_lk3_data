@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 20:51:05**
+As of **2024-04-07 21:03:20**
 
 ## Newspaper Stats
 
-*Scraped **17,668** Articles*
+*Scraped **17,671** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 1,487
 tamilmirrorlk | 2,082
 adaderanalk | 2,134
 virakesarilk | 2,582
-dailymirrorlk | 2,697
-adaderanasinhalalk | 2,867
+dailymirrorlk | 2,699
+adaderanasinhalalk | 2,868
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,668 (100.0%) of 17,668 articles have been extended.
+17,668 (100.0%) of 17,671 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
+
+### බවුසරයකින් රැගෙන ආ හඳුනා නොගත් ද්‍රව්‍ය
+
+*2024-04-07 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195408) · `si`
+
+මිනිස් සිරුරට අහිතකර යැයි සැකසහිත ද්‍රව්‍යයක් බවුසරයක් මගින් ගෙනැවිත් රුවන්වැල්ල, අමිතිරිගල ප්‍රදේශයේ ඇළකට බැහැර කරමින් සිටියදී ප්‍රදේශවාසීන් බවුසරයේ රියදුරු අල්ලාගෙන මැදගොඩ පොලිස් අනුඛණ්ඩයට භාරදී තිබේ.
+
+බවුසරයේ තිබූ ද්‍රව්‍ය මෙතෙක් හඳුනාගෙන නොමැති අතර කලක් තිස්සේ මොවුන් මෙම ක්‍රියාව සිදුකර ඇති බවට ප්‍රදේශවාසීන් චෝදනා කරයි.
+
+◼️
+
+[Data](articles/2c370597.json)
+
+---
 
 ### SLFP convenes urgent politburo meeting led by CBK
 
@@ -51,6 +65,20 @@ Meanwhile, the Acting General Secretary of SLFP Dushmantha Mithrapala lodged a c
 [Data](articles/38afa9d5.json)
 
 [Extended Data](ext_articles/38afa9d5.ext.json)
+
+---
+
+### Tourists savor Avurudu sweetmeats
+
+*2024-04-07 20:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Tourists-savor-Avurudu-sweetmeats/110-280326) · `en`
+
+Sri Lanka eagerly awaits the arrival of Avurudu, the this week. This festival, deeply rooted in tradition, marks a time of joy and renewal for Sri Lankans across the island.
+
+One of the key highlights of Avurudu is the preparation and enjoyment of traditional sweetmeats, a symbol of prosperity and togetherness. Here, tourists are captured immersing themselves in this delightful culinary experience, savoring the flavors that define Sri Lanka's rich cultural heritage - Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/f661efb1.json)
 
 ---
 
@@ -1310,6 +1338,24 @@ Foreign media reports that such incidents were rarely occurring.
 
 ---
 
+### Tomorrow’s total solar eclipse not visible to Sri Lanka
+
+*2024-04-07 13:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tomorrows-total-solar-eclipse-not-visible-to-Sri-Lanka/108-280322) · `en`
+
+Colombo, April 7 (Daily Mirror)- Though there are two lunar eclipses and two solar eclipses this year, Sri Lnakns will not be able to see any of them said Prof. Chandana Jayaratne, the Director of the Astronomy and Space Science Unit, Department of Physics, Colombo University, and the Chairman of the Arthur C. Clarke Institute for Modern Technologies.
+
+On 8 April 2024, there will be a total solar eclipse, a very famous eclipse in the world, and in particular the USA, to the extent that some schools in the USA will be closed on the eclipse day.
+
+On Earth, a total solar eclipse occurs when the Moon blocks the Sun’s disk as seen from part of Earth’s surface. In this case, the “path of totality” will be a 185 kms  wide dark shadow strip cutting across the USA, from Texas to Maine.
+
+As such, this solar eclipse is not visible to Sri Lanka, but visible in countries of the West in Europe, North America, North in South America, the Pacific, the Atlantic and the Arctic.
+
+...
+
+[Data](articles/f5915cd2.json)
+
+---
+
 ### Sunlight and Wind Power Program in the island: Earth Pooja in Nedundevil
 
 *2024-04-07 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180630) · `ta`
@@ -2305,79 +2351,5 @@ Shelton Fernando said that all fuel is still without any deficit.
 [Data](articles/45406cb2.json)
 
 [Extended Data](ext_articles/45406cb2.ext.json)
-
----
-
-### US expresses support for Sri Lanka’s economic reform efforts
-
-*2024-04-07 09:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-expresses-support-for-Sri-Lankas-economic-reform-efforts/108-280315) · `en`
-
-Colombo, April 7 (PTI) - The US has expressed support for Sri Lanka's security and sovereignty and its ongoing efforts to complete the fiscal, monetary, and governance elements of its IMF bailout programme.
-
-This was conveyed by US national security advisor Jake Sullivan during a telephone conversation with Sri Lanka's National Security Advisor Sagala Ratnayake on Wednesday, the White House said in a brief statement on Friday.
-
-"Their discussion has covered areas of bilateral engagement, including US support to Sri Lanka's security and sovereignty," the statement said.
-
-Sullivan and Ratnayake also discussed Sri Lanka's ongoing efforts to complete the fiscal, monetary, and governance elements of its International Monetary Fund (IMF) programme, and future opportunities for cooperation, the release said.
-
-...
-
-[Data](articles/ff357674.json)
-
-[Extended Data](ext_articles/ff357674.ext.json)
-
----
-
-### Democratic Tamil National Alliance Meeting Today - Selvam Adakkalanathan
-
-*2024-04-07 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/180610) · `ta`
-
-The Democratic Tamil National Alliance (TNA) will meet today to elect a new secretary, fill R. Raghavan's vacancy, and discuss the alliance's future, including rehabilitating new members. Selvam Adakkalanathan, a key figure, is absent.
-
-🟩
-
-A meeting of the Democratic Tamil National Alliance (TNA) will be held today (07) at a private hotel in Puliyankulam in Vavuniya.
-
-Media spokesman Suresh Premachandran said that the appointment of the new secretary of the coalition will be held during the meeting.
-
-The main purpose of the meeting was to fill the vacuum in the wake of the demise of R. Raghavan, who served as the general secretary of the coalition.
-
-During the meeting, the Democratic Alliance will be investigated to strengthen the district. In particular, the alliance's branches will be taken into consideration on the rehabilitation of the new membership.
-
-Meanwhile, in the next presidential election in the Democratic Tamil National Alliance (TNA), there is a decisive decision on the standing of a Tamil general candidate in the next presidential election.
-
-However, Relo's leader, one of the coalition parties, Selvam Adakkalanathan has gone abroad, has been unable to participate.
-
-...
-
-[Data](articles/2b256453.json)
-
-[Extended Data](ext_articles/2b256453.ext.json)
-
----
-
-### Sri Lanka’s Ceylon tea prices fall for third week
-
-*2024-04-07 09:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceylon-tea-prices-fall-for-third-week-157791/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tea price averages fell across elevations at the first auction in April, industry data showed, continuing a three-week trend.
-
-The national weekly sale average fell by 45.38 rupees to 1234.59 rupees a kilogram this week, from 1279.97 rupees week industry data published by Ceylon Tea Brokers showed.
-
-Average tea prices which moved up in US dollar terms up to 4.47 a kilo in the the second week of February and has since fallen to 4.23 to the US dollar by the last week of March.
-
-A total of 4.7 million kilos were sold by public auction in the first auction in April
-
-The weekly average of Sri Lanka’s highest priced teas, the Low Grown, fell 48.54 rupees to 1293.2 rupees.
-
-BOP1 Select best and best maintained, while the balance varieties fell.
-
-OP1 Select best and below best fell, as poorer sorts maintained. OPA Select best were flat.
-
-...
-
-[Data](articles/a11dea66.json)
-
-[Extended Data](ext_articles/a11dea66.ext.json)
 
 ---

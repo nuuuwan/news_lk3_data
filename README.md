@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 15:18:21**
+As of **2024-04-07 15:33:37**
 
 ## Newspaper Stats
 
-*Scraped **17,622** Articles*
+*Scraped **17,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 958
 islandlk | 968
 economynextcom | 978
 adalk | 1,478
-tamilmirrorlk | 2,077
-adaderanalk | 2,128
+tamilmirrorlk | 2,079
+adaderanalk | 2,129
 virakesarilk | 2,569
 dailymirrorlk | 2,695
 adaderanasinhalalk | 2,857
@@ -26,23 +26,79 @@ adaderanasinhalalk | 2,857
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,619 (100.0%) of 17,622 articles have been extended.
+17,622 (100.0%) of 17,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### ஹொரணையில் துப்பாக்கிச் சூட்டுக்கு இலக்கான இருவர் மருத்துவமனையில் உயிரிழந்தனர்!
+### இளநீர் லொறிக்கு குழந்தை பலி
+
+*2024-04-07 15:22:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/இளநீர்-லொறிக்கு-குழந்தை-பலி/73-335701) · `ta`
+
+இரண்டரை வயது குழந்தை வீதியை கடக்கமுயன்ற போது, ​இளநீர் ஏற்றிக்கொண்டுவந்த லொறியொன்று மோதியதில் அக்குழந்தை சம்பவ இடத்திலேயே உயிரிழந்த சம்பவம் அம்பாறையில் இடம்பெற்றுள்ளது.
+
+அம்பாறை இகினியாகல நாமல் ஓயா ஏரியின் ஆரம்ப பகுதியில் இச்சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+சம்பவத்தில் படுகாயமடைந்த  குழந்தை இகினியாகல வைத்தியசாலையில் அனுமதிக்கப்பட்டது. எனினும், குழந்தை ஏற்கெனவே உயிரிழந்துள்ளதாக வைத்தியசாலை பேச்சாளர் தெரிவித்துள்ளார். விபத்து தொடர்பில் இளநீர் லொறியின் சாரதி கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/c2e696b1.json)
+
+---
+
+### President to appoint committee to safeguard traditional Kandyan dance
+
+*2024-04-07 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98492/president-to-appoint-committee-to-safeguard-traditional-kandyan-dance) · `en`
+
+President Ranil Wickremesinghe announced the formation of a committee tasked with preserving and maintaining the rich cultural heritage of Kandyan dancing art. This decision was made during a meeting with Kandy traditional dancers at the President’s House in Kandy this morning (07), the President’s Media Division (PMD) said.
+
+The committee will comprise representatives from relevant institutions such as the Ministry of Cultural Affairs and the University of Visual and Performing Arts. President Wickremesinghe emphasized the importance of including a representative of traditional Kandyan dancers in this committee to ensure their voices are heard and their interests represented, it added.
+
+Additionally, the President instructed Minister of Labour and Foreign Employment, Manusha Nanayakkara, to explore the possibility of providing pensions to traditional Kandyan dancers as a gesture of recognition for their invaluable contribution to the cultural heritage of Sri Lanka.
+
+...
+
+[Data](articles/6ede4791.json)
+
+---
+
+### Two people who were shot dead in Horana were killed in hospital
 
 *2024-04-07 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/180633) · `ta`
 
-ஹொரணையில் இன்று ஞாயிற்றுக்கிழமை (07) இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் இருவர் உயிரிழந்துள்ளனர்.
+In Horana, two men were shot and killed in a hospital.
 
-ஹொரணை - தல்கஹவில பிரதேசத்தில் நடத்தப்பட்ட துப்பாக்கிச் சூட்டுக்கு இலக்கான இருவர் காயமடைந்து  வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையிலேயே அந்த இருவரும் சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
+
+Two people were killed in a shooting incident in Horana today (07).
+
+The two men were injured and admitted to the hospital in the Horana - Talgahawa area, police said.
 
 ◼️
 
 [Data](articles/9383fd93.json)
+
+[Extended Data](ext_articles/9383fd93.ext.json)
+
+---
+
+### துப்பாக்கி சூட்டில் இருவர் பலி
+
+*2024-04-07 14:53:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-சூட்டில்-இருவர்-பலி/175-335700) · `ta`
+
+மொரகஹஹேன தல்கஹவில மாலோஸ் கால்வாய் சந்திக்கு அருகில், முச்சக்கர வண்டி ஒன்றின் மீது காரில் வந்த  குழுவினால் மேற்கொண்ட துப்பாக்கிச் சூட்டில் இருவர் உயிரிழந்துள்ள சம்பவம் ஞாயிற்றுக்கிழமை (06) இடம்பெற்றுள்ளது .
+
+கிரிபிட்டிய, பன்னிப்பிட்டிய பகுதியைச் சேர்ந்த ரூபசிங்க ஆராச்சிகே நயனானந்த மற்றும் பிலியந்தலை பகுதியைச் சேர்ந்த வசந்த பெரேரா ஆகியோரே சம்பவத்தில் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+வெள்ள நிற காரினால் வந்த குழுவொன்றே குறித்த தாக்குதல் மேற்கொண்டுள்ளதுடன் துப்பாக்கிச் சூட்டில் படுகாயமடைந்த இருவரும் ஹொரணை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும் உயிரிழந்த இருவரும் பல கொள்ளை சம்பவங்களுடன் தொடர்புடையவர்கள் என தகவல் கிடைத்துள்ளதாக தெரிவித்த பொலிஸார் இது தொடர்பிலான மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர் .
+
+◼️
+
+[Data](articles/6ca7815b.json)
 
 ---
 
@@ -63,6 +119,8 @@ Last year, a near record 173,000 people migrated to New Zealand, the statement s
 ...
 
 [Data](articles/6af37709.json)
+
+[Extended Data](ext_articles/6af37709.ext.json)
 
 ---
 
@@ -88,17 +146,23 @@ Investigations have revealed that the shooting had been carried out by a white c
 
 ---
 
-### ஐந்து நட்சத்திர சொகுசு பூட்டிக் ஹோட்டலான சன் சியாம் பாசிக்குடா
+### Sun Siam Basikuda, the five star luxury boutique hotel
 
 *2024-04-07 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180622) · `ta`
 
-கிழக்குக் கடற்கரையின் "மிகப் பெரிய சாகசம்" என சிலாகிக்கப்படும் ,ஐந்து நட்சத்திர சொகுசு பூட்டிக் ஹோட்டலான சன் சியாம் பாசிக்குடா, தனது கீர்த்தியை மேலும் மேம்படுத்தும் நோக்கில் ஆர்வமுள்ள பயணிகளுக்கு புதியதோர் பரிமாணத்தில் தனது  கதவுகளை மீண்டும் திறந்துள்ளது.
+Sun Siam Pasikuda, a 5-star luxury boutique hotel, offers 4 beach villa types with 34 rooms, including Ocean Pavilion, Garden Pavilion, and two-bedroom garden beach pavilions with ponds. It provides entertainment, culinary delights, and a cultural experience.
 
-ஓஷன் பெவிலியன், கார்டன் பெவிலியன், குளத்துடன் கூடிய கார்டன் பெவிலியன், குளத்துடன் கூடிய இரண்டு படுக்கையறை கார்டன் பீச் பெவிலியன் ஆகியவை உள்ளடங்கலாக  34 அறைத்தொகுதிகளுடன் 4 வகையான கடற்கரை வில்லாக்கள் உள்ளன. ஏராளமான பொழுதுபோக்கு அம்சங்கள், சுவையான சமையல் மகிழ்வுகள் ஆகியவற்றுடன் பிரமிக்கத்தக்க  காட்சிகள் போன்ற  சகல  அம்சங்களும்  ஒருங்கே  அமையப்பெற்ற சன் சியாம் பாசிக்குடா தனியாகவோ  அல்லது  குழுவாகவோ  பயணிப்பவர்களுக்கு ஒரு மிகச்  சிறந்த   தங்குமிடமாகும். இது நீங்கள் தவறவிடக்   கூடாத  ஒரு கலாச்சார அனுபவம் என்பதில்  ஐயமில்லை.
+🟩
+
+Sun Siam Pasikuda, a five -star luxury boutique hotel, has been re -opened in a new dimension for travelers who are interested in improving his hymn.
+
+There are 4 types of beach villas with 34 rooms, including Ocean Pavilion, Garden Pavilion, Garden Pavilion with a pond, two bedroom garden beach pavilion with pond. Sun Siam Pasikuda is a great accommodation for all those who have all the entertainment, tasty culinary pleasures and tasty culinary pleasures.. There is no doubt that this is a cultural experience that you may not miss.
 
 ◼️
 
 [Data](articles/e3c827dd.json)
+
+[Extended Data](ext_articles/e3c827dd.ext.json)
 
 ---
 
@@ -2263,59 +2327,5 @@ Ada Derana is alert to be revealed to the country in the future.
 [Data](articles/408a4cbf.json)
 
 [Extended Data](ext_articles/408a4cbf.ext.json)
-
----
-
-### Wanindu Hasaranga ruled out of IPL 2024
-
-*2024-04-06 19:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wanindu-Hasaranga-ruled-out-of-IPL-2024/108-280308) · `en`
-
-Colombo, April 6 (Daily Mirror) - Sunrisers Hyderabad legspinner Wanindu Hasaranga will miss IPL 2024 due to chronic heel pain in his left foot,  Sri Lanka Cricket (SLC) informed BCCI.
-
-Hasaranga, who last played in March during Sri Lanka's series in Bangladesh, underwent treatment by SLC medical staff. He was set to consult specialists abroad but was not cleared by SLC for IPL participation. Sunrisers coach Daniel Vettori confirmed Hasaranga's withdrawal after a consultation in Dubai.
-
-Bought by Sunrisers for INR 1.5 crore, Hasaranga's absence is notable after a successful 2022 season with 26 wickets. He is expected to recover for Sri Lanka's T20 World Cup campaign starting June 1.
-
-◼️
-
-[Data](articles/f64c8245.json)
-
-[Extended Data](ext_articles/f64c8245.ext.json)
-
----
-
-### Falling leaves – an autobiographical memoir of a high achiever
-
-*2024-04-06 19:53:00* · [`islandlk`](http://island.lk/falling-leaves-an-autobiographical-memoir-of-a-high-achiever/) · `en`
-
-(We begin excerpting today sections of an anthology of memoirs of LC Arulpragasam,
-
-who at over 95-years of age is among the last surviving members of the old Ceylon Civil Service.
-
-I was born on November 5, 1927 to a Jaffna Tamil, Christian family. My father was Dr. A. R. Arulpragasam, a government medical doctor, and my mother was Mrs. Bertha Arulpragasam. I had three siblings: Dr. A.C. Arulpragasam, FRCS (Fellow of the Royal College of Surgeons), Ms. Aruljothi (Bartlett) Arulpragasam (M.A. Educn) and my younger brother Jega Arulpragasam, a Computer Engineer. I was in the Ceylon Civil Service (CCS) for 10 years. I then joined FAO (the Food and Agricultural Organization of the United Nations) in 1962 and retired as Director of Agrarian Reform. I am currently the only surviving member of the family, at the age of 95 years.
-
-...
-
-[Data](articles/2a6bae63.json)
-
-[Extended Data](ext_articles/2a6bae63.ext.json)
-
----
-
-### US, Japan, Australia and Philippines to stage military drills in disputed South China Sea
-
-*2024-04-06 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98479/us-japan-australia-and-philippines-to-stage-military-drills-in-disputed-south-china-sea) · `en`
-
-The United States, Japan, Australia and the Philippines will hold their first joint naval exercises, including anti-submarine warfare training, in a show of force Sunday in the South China Sea where Beijing’s aggressive actions to assert its territorial claims have caused alarm.
-
-The four treaty allies and security partners are holding the exercises to safeguard “the rule of law that is the foundation for a peaceful and stable Indo-Pacific region” and uphold freedom of navigation and overflight, they said in a joint statement issued by their defense chiefs Saturday.
-
-China was not mentioned by name in the statement, but the four countries reaffirmed their stance that a 2016 international arbitration ruling, which invalidated China’s expansive claims on historical grounds, was final and legally binding.
-
-...
-
-[Data](articles/e46a84f8.json)
-
-[Extended Data](ext_articles/e46a84f8.ext.json)
 
 ---

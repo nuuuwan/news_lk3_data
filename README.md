@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 16:33:49**
+As of **2024-04-07 16:49:36**
 
 ## Newspaper Stats
 
-*Scraped **17,629** Articles*
+*Scraped **17,632** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,96 @@ adalk | 1,478
 tamilmirrorlk | 2,080
 adaderanalk | 2,129
 virakesarilk | 2,570
-dailymirrorlk | 2,695
-adaderanasinhalalk | 2,859
+dailymirrorlk | 2,696
+adaderanasinhalalk | 2,861
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,628 (100.0%) of 17,629 articles have been extended.
+17,629 (100.0%) of 17,632 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### புத்தாண்டு தின்பண்டங்களின் விலை குறைப்பு
+### හොරණ ද්විත්ව ඝාතනය ගැන තවත් තොරතුරු
+
+*2024-04-07 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195400) · `si`
+
+අද (07) දහවල් හොරණ මාලොස් ඇළ හන්දිය ආසන්නයේදී සිදුකළ වෙඩිතැබීම සම්බන්ධයෙන් තොරතුරු රැසක් හෙළිවී තිබේ.
+
+ත්‍රීරෝද රථයකින් ගමන් කරමින් සිටි පුද්ගලයින් දෙදෙනෙකු ඉලක්ක කරමින් මෝටර් රථයකින් හඹා ආ කණ්ඩායමක් මෙම වෙඩිතැබීම සිදුකර ඇත.
+
+වෙඩිතැබීමෙන් බරපතළ තුවාල ලැබූ ත්‍රීරෝද රථයේ ගමන් කළ පුද්ගලයින් දෙදෙනා හොරණ මූලික රෝහලට ඇතුළත් කළ පසු මියගොස් ඇතැයි මොරගහහේන පොලීසිය පැවසීය.
+
+වෙඩි වැදී ඝාතනයට ලක්වූ පුද්ගලයන් දෙදෙනාට රත්නපුර මාරපන ප්‍රදේශයේ රන් භාණ්ඩ අලෙවිසැලක් කොල්ලකෑම සම්බන්ධයෙන් පවතින නඩුවක ඇප කොන්දේසියකට අනුව සෑම ඉරු දිනකම රත්නපුර පොලීසියේ පෙනී සිට අත්සන් කිරීමට නියමිතව තිබුණි.
+
+එබැවින් එලෙස රත්නපුර පොලීසියේ අත්සන් කර නැවත නිවෙස් බලා යමින් සිටියදී මෙලෙස වෙඩි ප්‍රහාරයට ලක්වී ඇති බවද පොලීසිය පවසයි.
+
+ඝාතනයට ලක්ව ඇත්තේ පන්නිපිටිය හිරිපිටිය ප්‍රදේශයේ පදිංචිකරුවකු වන රූපසිංහ ආරච්චිගේ නයනානන්ද පෙරේරා නමැති 52 හැවිරිදි පුස්ගලයෙක් සහ පිළියන්දල සිද්දමුල්ල ප්‍රදේශයේ පදිංචිකරුවකු වන වසන්ත පෙරේරා නම් 50 හැවිරිදි අයෙකි.
+
+...
+
+[Data](articles/78e6197b.json)
+
+---
+
+### Fishermen in Vadamarachchi rescue 11 Dolphins caught in nets
+
+*2024-04-07 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fishermen-in-Vadamarachchi-rescue-11-Dolphins-caught-in-nets/108-280325) · `en`
+
+April 07 (Daily Mirror) -  Fishermen from Vadamarachchi, Jaffna, rescued 11 dolphins ensnared in fishing nets near Katteikattil beach.
+
+When the dolphins became trapped in the nets and washed ashore, fishermen from the area swiftly intervened to ensure the safe return of the marine mammals to their natural habitat.
+
+Demonstrating exemplary teamwork and empathy, the fishermen carefully released all 11 dolphins back into the sea without causing any harm.
+
+◼️
+
+[Data](articles/32a0954a.json)
+
+---
+
+### රාජ්‍ය සේවකයන්ගේ අප්‍රේල් වැටුප හෙට සිට ගෙවීමට පියවර
+
+*2024-04-07 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195399) · `si`
+
+රාජ්‍ය සේවක අප්‍රේල් වැටුප හෙට (08) සිට ගෙවීමට රජය සුදානම් බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා අද (07) කෑගල්ලේ දී පැවසීය.
+
+"වැඩි වුණ රුපියල් 10,000 සමගින් හෙට 08 සිට ආයතනවලට මුදල් නිදහස් කරන්න සුදානම් කරගෙන තියෙනවා. රුපියල් බිලියන 107ක්. වැඩි වුණු මුදල විතරක් රුපියල් බිලියන 13කට ආසන්නයි."
+
+"අප්‍රේල් 21 වනදා රටටම එක සැරේ... පවුල් 28 ලක්ෂයකටම සහල් කිලෝ 10 බැගින් ලබාදෙනවා. දේශීය කර්මාන්තකරුවාගෙන් මේක මිලදී ගන්නේ."
+
+◼️
+
+[Data](articles/0cbff782.json)
+
+---
+
+### A reduction in the price of New Year's Eve
 
 *2024-04-07 16:07:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டு-தின்பண்டங்களின்-விலை-குறைப்பு/175-335705) · `ta`
 
-தமிழ் சிங்களப் புத்தாண்டுக்கான பாரம்பரியத்தின் பண்டங்களுக்கான செலவு 2023 ஆம் ஆண்டுடன் ஒப்பிடுகையில் 2024 ஆம்ஆண்டில் குறைந்துள்ளது. ஆனால் 2019 ஆம் ஆண்டிலிருந்ததை விட தொடர்ந்தும் இரண்டு மடங்கு அதிகமாகவே உள்ளது.
+In 2024, the Tamil Sinhala New Year's Eve cost in Sri Lanka decreased from 2023 but remained higher than 2019. The study by Veritarisch and Publicfinance.lk shows a 2% reduction in goods' cost. Traditional sweets, like crocodiles and bananas, are still popular. The analysis, based on the "Appeamma" YouTube channel, focuses on 4-5-person family sizes, excluding electricity, gas, and spices costs.
 
-வெரிட்டேரிசேர்ச் நிர்வகிக்கும் இலங்கையின் பொருளாதார விபரங்களை வழங்கும் முன்னணி தளமான  PublicFinance.lk முன்னெடுத்த “புத்தாண்டு” தின்பண்டங்களுக்கான வருடாந்தச் செலவு தொடர்பிலான ஆய்வில் இந்த விபரம் தெரியவந்துள்ளது.
+🟩
 
-இது பொருட்களுக்கான செலவு 2023 ஆம் ஆண்டை விட 2024 ஆம் ஆண்டில் 2 சதவீதத்தால் குறைந்துள்ளதைக் காட்டுகிறது.
+The cost of the Tamil Sinhala New Year has declined in 2024 compared to 2023. But it remains twice as much as 2019.
 
-2019 ஆம்ஆண்டுடன் ஒப்பிடுகையில் 2023 ஆம்ஆண்டில் செலவு 2.3 மடங்கு அதிகரித்திருந்தது.  2019 ஆம் ஆண்டுடன் ஒப்பிடுகையில் 2024 ஆம் ஆண்டில் இது சற்றுக் குறைந்து 2.2 மடங்காக உள்ளது.
+This is revealed in a study on the annual cost of "New Year", a leading base of Sri Lanka's economic details that manage the Veritariserch, Publicfinance.lk.
+
+This shows that the cost of goods declined by 2 percent by 2024 than 2023.
+
+The cost was 2.3 times in 2023 compared to 2019.In 2024 compared to 2019, it declined slightly 2.2 times.
+
+The traditional sweets of Sri Lanka that indicate prosperity and happiness will take place in many New Year's Eve. Although there are differences between families, traditional New Year's sweets usually include crocodiles, bananas, banana, bureau, bureau, tingling, panchayat and butter cake.
 
 ...
 
 [Data](articles/3599d83b.json)
+
+[Extended Data](ext_articles/3599d83b.ext.json)
 
 ---
 
@@ -2279,65 +2341,5 @@ Bulath in Sinhala, Vettila in Tamil and Malayalan, Paan in Hindi, Plu in Thai, S
 [Data](articles/2f521941.json)
 
 [Extended Data](ext_articles/2f521941.ext.json)
-
----
-
-### President calls on youth to lead nation forward through government initiatives
-
-*2024-04-06 20:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98480/president-calls-on-youth-to-lead-nation-forward-through-government-initiatives) · `en`
-
-President Ranil Wickremesinghe emphasized the government’s commitment to leading Sri Lanka towards prosperity by 2048 through transformative changes in modern agriculture, tourism, and the energy sector. Addressing the “Let’s Start with Me” Anuradhapura District Youth Conference, he underscored the vital role of youth in advancing this journey while cautioning against the distractions of slogans and arguments.
-
-During the conference, held at Koombichchankulam lake, President Wickremesinghe engaged with a large number of young participants from the Anuradhapura district, addressing their concerns first-hand. He pledged immediate solutions to many of their problems and instructed officials to take action on others.
-
-...
-
-[Data](articles/7e9f9758.json)
-
-[Extended Data](ext_articles/7e9f9758.ext.json)
-
----
-
-### Sri Lanka Parliament schedules 3-day Easter attack debate after former president’s revelation
-
-*2024-04-06 20:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-schedules-3-day-easter-attack-debate-after-former-presidents-revelation-157772/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Parliament has scheduled three-day debate over 2019 Easter Sunday attack after former president Maithripala Sirisena in public said the he knows the real plotters behind the attack.
-
-On April 21 this year, the island nation will commemorate the fifth year anniversary of the carnage that killed at least 269 people.
-
-Sirisena has given a statement at the Criminal Investigation Department (CID) on the Easter Sunday on March 25 after he was called by the police for questioning. Government sources have said Sirisena has accused India oof having a hand in the attack.
-
-India is yet to make an official statement on Sirisena’s allegation as he has recorded his statement in a confidential manner.
-
-The Parliament has decided to have a three day debate on the Easter Sunday attack from April 24-26 on the request of the opposition, the order paper shows.
-
-Sirisena has drawn public attention after his comments to media over the Easter attack last month.
-
-...
-
-[Data](articles/606b5ce2.json)
-
-[Extended Data](ext_articles/606b5ce2.ext.json)
-
----
-
-### Here is the day of the Royal Family
-
-*2024-04-06 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195374) · `si`
-
-The Royal Family's day includes unique matches in Colombo, showcasing the British-built Golf Course.
-
-🟩
-
-There are a number of unique matches in Colombo world to conduct a number of unique matches in the world.
-
-The Golf Course was built by the British.
-
-◼️
-
-[Data](articles/5ed07b71.json)
-
-[Extended Data](ext_articles/5ed07b71.ext.json)
 
 ---

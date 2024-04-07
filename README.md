@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 10:03:26**
+As of **2024-04-07 10:18:22**
 
 ## Newspaper Stats
 
@@ -26,45 +26,57 @@ adaderanasinhalalk | 2,848
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,563 (100.0%) of 17,566 articles have been extended.
+17,566 (100.0%) of 17,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### சுருக்குவலையுடன் தரித்து நின்ற படகினை கடற்படையினர் கைப்பற்றல்!
+### Navy seizes the boat that stood with shortness!
 
-*2024-04-07 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180609) · `ta`
+*2024-04-07 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/180609) · `ta`
 
-வடமராட்சி கிழக்கு நாகர் கோவில் கடற்பகுதியில் இன்று (06) அதிகாலை வெற்றிலைக்கேணி கடற்படையினர் மேற்கொண்ட திடீர் சுற்றிவளைப்பில் சட்டவிரோதமாக ஒளி பாய்ச்சிய குறுகிய கண்களை உடைய சுருக்குவலையை பயன்படுத்தி மீன்பிடிப்பதற்காக இயங்கிய படகொன்று கைப்பற்றப்பட்டுள்ளது.
+Navy seizes a boat for illegal fishing near Vadamarachchi East Nagar Temple. Suspects may have escaped. The boat and its belongings are handed over to the Department of Fisheries and Aquatic Resources for legal action.
 
-வடமராட்சி கிழக்கு பகுதியில் சட்டவிரோத கடல் தொழில் நடவடிக்கைகளை முடக்கும் நோக்கில் வெற்றிலைக்கேணி கடற்படை தொடர் சோதனை மேற்கொண்டு வருகிறது.
+🟩
 
-அதன் ஒரு பகுதியாக இன்று நாகர்கோவில் கடற்பகுதியில் தரித்துநின்ற சந்தேகத்துக்கிடமான படகை சோதனை செய்தபோது குறுகிய கண்களை கொண்ட சட்டவிரோத சுருக்குவலையை கடற்படையினர் கைப்பற்றியுள்ளனர்.
+A boat operated for fishing has been seized using a short -eyed narrowing of illegally lighting in a sudden surrounding of the Vadamarachchi East Nagar Temple in the early hours of this morning.
 
-கைப்பற்றப்பட்ட படகு நாகர்கோவில் பகுதியை சேர்ந்தது என்றும் கடற்படையின் வருகையை அறிந்து சந்தேக நபர்கள் தப்பிச் சென்றிருக்கலாம் எனவும் கடற்படையினர் தெரிவித்ததுடன், தகவல் அறிந்து சம்பவ இடத்துக்கு சென்ற சிலர் கடற்படையுடன் முறுகலில் ஈடுபட்டதாகவும் தெரிவிக்கப்படுகிறது.
+In the eastern part of Vadamarachchi, the Naval Navy is conducting a series of raids to disrupt illegal maritime operations.
 
-கைப்பற்றப்பட்ட படகு உடமைகளுடன் மேலதிக சட்ட நடவடிக்கைகளுக்காக யாழ்ப்பாணம் கடற்றொழில் நீரியல்வளத் திணைக்கள அதிகாரிகளிடம் ஒப்படைக்கப்பட்டுள்ளது.
+As part of this, the Navy has seized a short -eyed illegal shrinkage when the suspicious boat was raided in Nagercoil.
+
+It is reported that the seized boat belonged to the Nagercoil area and that the suspects may have escaped from the arrival of the Navy.
+
+The Jaffna Fisheries Department has been handed over to the Department of Fisheries and Aquatic Resources for further legal action along with the seized boat belongings.
 
 ◼️
 
 [Data](articles/0730e8db.json)
 
+[Extended Data](ext_articles/0730e8db.ext.json)
+
 ---
 
-### ඉන්ධන පරිභෝජනය සියයට 50කින් අඩුවෙයි
+### Fuel consumption decreases by 50 percent
 
 *2024-04-07 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195384) · `si`
 
-මෙරට ඉන්ධන පරිභෝජනය සියයට 50කින් පමණ අඩු වී ඇති බව ඛනිජ තෙල් බෙදුම්කරුවන්ගේ සංගමය පවසයි.
+The Petroleum Division Association reports a 50% decrease in fuel consumption, attributed to the country's economic situation. Chairman Shelton Fernando confirms all fuel supplies are still adequate.
 
-එහි සභාපති ෂෙල්ටන් ප්‍රනාන්දු මහතා සඳහන් කළේ රට තුළ පවතින ආර්ථික තත්ත්වය ඉන්ධන පරිභෝජනය අඩු වීමට එක් හේතුවක් බවය.
+🟩
 
-කිසිදු හිඟයකින් තොරව සියලුම ඉන්ධන රට තුළ පවතින බව ද ෂෙල්ටන් ප්‍රනාන්දු මහතා සඳහන් කළේය.
+The fuel consumption of the country has decreased by 50 percent, says the Petroleum Division Association (Patrol) Association says.
+
+Chairman Shelton Fernando said that the economic situation in the country is one of the reasons for the reduction in fuel consumption.
+
+Shelton Fernando said that all fuel is still without any deficit.
 
 ◼️
 
 [Data](articles/45406cb2.json)
+
+[Extended Data](ext_articles/45406cb2.ext.json)
 
 ---
 
@@ -140,23 +152,31 @@ Due to the wind, England have been affected in the North Western and Southwest T
 
 ---
 
-### කලාකරුවන් වෙනුවෙන් වෛද්‍ය රක්ෂණ ක්‍රමයක්
+### Medical Insurance Scheme for Artists
 
 *2024-04-07 08:40:15* · [`adalk`](https://www.ada.lk/breaking_news/කලාකරුවන්-වෙනුවෙන්-වෛද්‍ය-රක්ෂණ-ක්‍රමයක්/11-408977) · `si`
 
-මෙරට සිනමා කර්මාන්තය නියුතු කලාකරුවන්ගේ සුබසාධනය වෙනුවෙන් විශේෂිත ණය යෝජනා ක්‍රමයක් සකස් කිරීමට පියවර ගන්නා බව ආර්ථික කටයුතු පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක ආචාර්ය ආර්. එච්. එස්. සමරතුංග මහතා පැවසීය.
+The Medical Insurance Scheme for Artists was discussed by H. S. Said, Senior Advisor on Economic Advisor, and Dr. R. H. S., Senior President of Economic Affairs, at a Presidential Secretariat meeting. They highlighted the need for a budget or policy set to address artist pensions and welfare, emphasizing the Sri Lanka Insurance Corporation's readiness to implement a medical insurance scheme.
 
-එසේම සිනමා කර්මාන්තයේ සහ කලාකරුවන්ගේ උන්නතිය වෙනුවෙන් වූ සුදුසු යෝජනා මාලාවක් සකස් කර රජයට ලබා දෙන ලෙස ද ඒ මහතා කලාකරුවන්ගෙන් ඉල්ලා සිටියේය.
+🟩
 
-ආර්ථික කටයුතු පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක ආචාර්ය ආර්. එච්. එස්. සමරතුංග මහතා මේ බව සඳහන් කර සිටියේ මෙරට සිනමාව නවීන ලෝකයට ගැලපෙන ලෙස යාවත්කාලීන කිරීම සහ කේෂ්ත්‍රයට සම්බන්ධ ශිල්පීන්ගේ වෘත්තීය අනාගතය සුරක්ෂිත කිරීම සම්බන්ධව පසුගියදා (02) ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවට එක්වෙමිනි.
+Economic Advis Officer Senior Advisor on Economic Advisor to the Department of Economics. H. S. Said by Mr. Samaratunga.
 
-ආචාර්ය ආර්. එච්. එස්. සමරතුංග, ජනාධිපති වෘත්තීය සමිති අධ්‍යක්ෂ ජනරාල් සමන් රත්නප්‍රිය සහ ජාතික චිත්‍රපට සංස්ථාවේ සභාපති නීතිඥ දීපාල් චන්ද්‍රරත්න යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන් මෙම සාකච්ඡාව පැවැත්විණි.
+He also requested artists to provide a series of suitable proposals for the favorable film industry and artists.
 
-මෙහිදී සිනමා කර්මාන්තයේ පවතින ගැටලු පිළිබඳව ද දීර්ඝ ලෙස සාකච්ඡා කෙරිණි.
+Senior President of Economic Affairs Senior Advisor Dr. R. H. S. He was speaking at a discussion held at the Presidential Secretariat recently to meet the cinema of the craftsmen of the craftsmen of the craftsmen of the country's cinema and secure the cinema in Sri Lanka.
+
+Dr. R. H. S. The discussion was held under the patronage of the Chairman of the National Film Corporation, Mr. Samaratunga, President's Trade Unions Director General of the President Saman Ratnapriya and Chairman of the National Film Corporation.
+
+The film industry was also discussed at length.
+
+President's Senior Advisor on Economic Affairs. H. S. Mr. Samaratunga said,
 
 ...
 
 [Data](articles/a59b27e7.json)
+
+[Extended Data](ext_articles/a59b27e7.ext.json)
 
 ---
 

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 01:18:29**
+As of **2024-04-08 01:33:37**
 
 ## Newspaper Stats
 
-*Scraped **17,687** Articles*
+*Scraped **17,689** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 157
+colombotelegraphcom | 159
 bbccomsinhala | 184
 dbsjeyarajcom | 213
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,687 (100.0%) of 17,687 articles have been extended.
+17,687 (100.0%) of 17,689 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -760,6 +760,18 @@ The young man has been planned to be planned by the Immigration and Emigration O
 
 ---
 
+### Debate Over Profits Of Banks: Who Shares Them Ultimately?
+
+*2024-04-07 19:10:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/debate-over-profits-of-banks-who-shares-them-ultimately/) · `en`
+
+A general perception among many is that banking and financial institutions earn their incomes by overcharging their customers. The announcements made by banks themselves from time to time have contributed to ingrain this perception in the minds of the public. It is not uncommon for banks, when their quarterly, half-yearly or annual financial accounts are released, to highlight what they believe to be an extraordinary financial performance through press conferences, press releases or interviews with journalists.
+
+...
+
+[Data](articles/b15a514c.json)
+
+---
+
 ### SLFP Politburo meeting tomorrow
 
 *2024-04-07 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195405) · `si`
@@ -895,6 +907,18 @@ The Meteorological Department (Met Department) issued a new statement that the h
 [Data](articles/d3f90adf.json)
 
 [Extended Data](ext_articles/d3f90adf.ext.json)
+
+---
+
+### From The Curry House To The White House & Beyond: The Trajectory Of High Blood Pressure
+
+*2024-04-07 18:31:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/from-the-curry-house-to-the-white-house-beyond-the-trajectory-of-high-blood-pressure/) · `en`
+
+At the tail end of World War II, with victory looming in the backdrop, the Allied Heroes convened in Yalta to chart the postwar future of Europe. Seated between Churchill and Stalin was Roosevelt, looking majestic and jubilant, so we thought, but with the benefit of hindsight, one can sketch a contrasting picture portraying a sick man in the middle, experiencing fleeting bouts of memory lapses. But in 1945 no one knew about transient small strokes or sentinel bleeding (warning leaks), portending a major catastrophe around the corner. High blood pressure was not even in the medical lexicon, let alone its effect on bargaining power against Stalin. In fact, Franklin Roosevelt was a sick man, noticeable to his comrades but not to his personal physicians.
+
+...
+
+[Data](articles/18e2a990.json)
 
 ---
 
@@ -2289,55 +2313,5 @@ It is also reported that the party's activities will be investigated after the a
 [Data](articles/e169a3f1.json)
 
 [Extended Data](ext_articles/e169a3f1.ext.json)
-
----
-
-### 4 crore rupees in Kottanchenai
-
-*2024-04-07 11:43:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொட்டாஞ்சேனையில்-4-கோடி-ரூபாய்-ஐஸ்-சிக்கியது/175-335691) · `ta`
-
-A musician in Kottanchenai was arrested with 4 crore rupees worth of drugs, including 372 drugs and 1.558 kg of ice, hidden in musical instruments.
-
-🟩
-
-A musician has arrested a musician with drugs and ice drugs worth about four crores of rupees in a house in Sumitrarama Mawatha, Kottanchenai.
-
-Police have seized 372 drugs, 1 kg 558 grams of ice and arrested the police.
-
-According to information received by the Auttapatti police, a police team raided the house and raided the house and was carefully hidden in a driver among the musical instruments.
-
-This suspect has been involved in renting musical instruments for some time. Initial investigations have revealed that the blanket was involved in drug trafficking.
-
-◼️
-
-[Data](articles/db9d2857.json)
-
-[Extended Data](ext_articles/db9d2857.ext.json)
-
----
-
-### Grama Niladhari's allowances to be increased
-
-*2024-04-07 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195388) · `si`
-
-The government has increased allowances for Grama Niladharis, including office and stationery allowances, effective April 1st. The new monthly office allowance and annual staff allowance are Rs. and Rs. 3,000 respectively.
-
-🟩
-
-The government has decided to revise the allowances paid to the Grama Niladhari.
-
-Accordingly, the office allowances and stationery allowances provided to the Grama Niladharis have been increased by the first day of April.
-
-The Secretary to the Ministry of Public Administration, Home Affairs, Provincial Councils, Provincial Councils and Local Government has issued the Secretary to the Government Secretaries and Divisional Secretaries.
-
-Accordingly, the monthly office allowance has been increased to Rs.
-
-The annual staff allowance has also been increased to Rs. 3,000.
-
-◼️
-
-[Data](articles/d39be025.json)
-
-[Extended Data](ext_articles/d39be025.ext.json)
 
 ---

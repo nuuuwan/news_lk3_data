@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 00:48:18**
+As of **2024-04-08 01:03:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,686 (100.0%) of 17,687 articles have been extended.
+17,687 (100.0%) of 17,687 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -237,6 +237,8 @@ If banks make losses, the punishments meted out to such banks would be severe. T
 ...
 
 [Data](articles/ed12f8e7.json)
+
+[Extended Data](ext_articles/ed12f8e7.ext.json)
 
 ---
 

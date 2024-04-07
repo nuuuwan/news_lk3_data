@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 17:34:27**
+As of **2024-04-07 17:53:48**
 
 ## Newspaper Stats
 
@@ -26,45 +26,61 @@ adaderanasinhalalk | 2,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,637 (100.0%) of 17,639 articles have been extended.
+17,639 (100.0%) of 17,639 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### අද දේශපාලනය වෙනස් - ජනපති
+### Politics is different - President
 
 *2024-04-07 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195403) · `si`
 
-අද (07) සමගි ජන බලවේගය තුළ එක්සත් ජාතික පක්ෂයේ ප්‍රතිපත්ති නොමැති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe emphasized the changing nature of politics, highlighting the absence of UNP in current reconciliation efforts and the need for unity among parties like C1 Knowledge and the Sri Lanka Freedom Party. He also mentioned the economic policy is managed by a separate team.
 
-මේ වනවිට එහි ආර්ථික ප්‍රතිපත්තිය හසුරුවන්නේ පොහොට්ටුවෙන් පිටමන් කළ කණ්ඩායම විසින් බවත් ජනාධිපතිවරයා සඳහන් කරයි.
+🟩
 
-2020 දී එක්සත් ජාතික පක්ෂයේ අයිතිය ප්‍රකාශ කරමින්, සිරිකොත අල්ලා ගැනීමට සූදානම්ව සිටි සමගි ජන බලවේගය අද පොහොට්ටුවේ සභාපති ඇතුළු පිරිසට යටවී ඇති බවද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+President Ranil Wickremesinghe said that there were no policies in the reconciliation of community today (07).
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේ, මහනුවර ජනාධිපති මන්දිරයේදී අද (07) පැවති දේශපාලන පක්ෂ නියෝජිත හමුව අමතමිනි.
+The President states that its economic policy is handled by the team that leaving the pointer.
 
-2022 ජූලි මාසයේ සිදුවූ දේශපාලන පෙරළිය සමග මෙරට පක්ෂ ක්‍රමයද වෙනසකට ලක්වී ඇති බව පෙන්වා දුන් ජනාධිපතිවරයා කුමන දේශපාලන පක්ෂයක් නියෝජනය කළ ද අද සියලුදෙනා රට පිළිබඳ සිතා රජයේ වැඩපිළිවෙළ සමඟ සහයෝගයෙන් ඉදිරියට යා යුතු බවද පැවසීය.
+The President pointed out that the reconciliation of the Pohot has been submerged by the UNP's rights, declaring the rights of the UNP in 2020.
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය,
+President Ranil Wickremesinghe said this at the meeting with the political party representatives held today (07) at the President's House in Kandy today.
+
+The President has represented the political party that has changed the party's political system with the political system of July 2022, but today all should continue to support the government program.
+
+Speaking further, President Ranil Wickremesinghe further said,
 
 ...
 
 [Data](articles/b18ef5cd.json)
 
+[Extended Data](ext_articles/b18ef5cd.ext.json)
+
 ---
 
-### இலங்கைக்கு நச்சுக் கழிவுகளை இறக்குமதி செய்பவர்கள் யார்?
+### Who imports toxic waste to Sri Lanka?
 
 *2024-04-07 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180635) · `ta`
 
-மார்ச் 26ஆம் திகதி அமெரிக்காவின் பால்டிமோர் நகரின் பிரான்சிஸ் ஸ்கொட் கீ  பாலத்தை  மோதித் தகர்த்த டாலி என்ற சிங்கபூர் நாட்டு கப்பல், எரிபொருட்களையும் அதோடு  அபாயகரமான நச்சுப் பொருட்களையும் இலங்கைக்கு  ஏற்றி வந்தமை குறித்து அமெரிக்க ஊடகங்கள் பரவலாக செய்திகளை வெளியிட்டுள்ளன.
+The US media reported the Singapore ship Dali, involved in a bridge incident, unloaded hazardous toxins in Sri Lanka, a story not widely covered by Sri Lankan media. Ships have faced controversies in Sri Lanka, including environmental impacts from fires and oil spills. Since 2017, ships have brought hazardous toxic waste, raising concerns about waste management and environmental protection. The government has not acknowledged or investigated these issues, leading to questions about the legality and safety of such imports.
 
-ஆனால் இலங்கையில் ஒரு சில அச்சு ஊடகங்களைத் தவிர வேறு எந்த ஊடகங்களும் இது குறித்து கேள்வி எழுப்பவில்லை. அமெரிக்க ஊடகங்களின் செய்திகளை இலங்கையின் சில ஆங்கில பத்திரிகைகள் தலைப்புச் செய்தியாக பிரசுரித்திருந்தன. அதன் பிறகே இது குறித்து பாராளுமன்றத்திலும் கேள்வி எழுப்பப்பட்டுள்ளது.  அது வரையில் அரசாங்கத்தரப்பிலிருந்து கூட  இந்த சம்பவம் குறித்து எவரும் வாய்திறக்கவில்லை.
+🟩
+
+The US media has widely reported that the Singapore ship, Dali, which broke the Francis Scott Key Bridge in Baltimore, USA, on March 26, the unloading of fuel and hazardous toxins to Sri Lanka.
+
+But no media other than a few print media in Sri Lanka has questioned this. Some English newspapers in Sri Lanka published news of the US media. This has been raised in Parliament later.Until then, no one has stated the incident from the government.
+
+Ships on the Sri Lankan waters have been carrying any controversy in recent years. Since 2020, the Greek -owned Channel Oil Business Ship, Newayamund, which was traveling towards Odisha, India, set fire to 38 nautical miles from Panama - Sangamankandi. As a result, the sea resources in the area are greatly facing.
+
+The ship, Pearl Express, owned by Singapore in 2021, burned about fire in the Negombo Sea. Sri Lanka's waters have faced the worst environmental impact of the ship's oil and concentrated nitric acid.
 
 ...
 
 [Data](articles/73e826b6.json)
+
+[Extended Data](ext_articles/73e826b6.ext.json)
 
 ---
 

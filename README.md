@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 22:50:26**
+As of **2024-04-07 23:03:11**
 
 ## Newspaper Stats
 
-*Scraped **17,679** Articles*
+*Scraped **17,680** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 968
 economynextcom | 978
 adalk | 1,489
 tamilmirrorlk | 2,082
-adaderanalk | 2,135
+adaderanalk | 2,136
 virakesarilk | 2,584
 dailymirrorlk | 2,699
 adaderanasinhalalk | 2,870
@@ -26,29 +26,55 @@ adaderanasinhalalk | 2,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,678 (100.0%) of 17,679 articles have been extended.
+17,679 (100.0%) of 17,680 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### கிளிநொச்சி கல்மடு குளத்தின் பிரதான ஆறான நெத்தலியாறு பகுதியில் சட்டவிரோத மணல் அகழ்வு
+### Illegal sand mining
 
 *2024-04-07 22:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180651) · `ta`
 
-கிளிநொச்சி கல்மடு குளத்தின் பிரதான ஆறான நெத்தலியாறு பகுதியில் சட்டவிரோத மணல் அகழ்வு இடம்பெற்று வருவதாக கிராம மக்களால் தெரிவிக்கப்படுகிறது.
+Illegal sand mining in Netaliyaru, Kalmadu pond, Kilinochchi, affects agriculture, destroys fields, and impacts the main river. Villagers have lodged complaints with police for protection.
 
-முல்லைத்தீவிற்கும் கிளிநொச்சி மாவட்டத்திற்குமான எல்லைப்பகுதியில்  உள்ள விவசாய நிலங்களில் சட்டவிரோத மணல் அகழ்வு இடம்பெற்று வருவதாகவும் தமது விவசாயத்தை அழித்து வருவதாகவும் கவலை தெரிவித்துள்ளனர்.
+🟩
 
-கல்மடு குளத்தின் பிரதான ஆறான நெத்தலியாறை வைத்து காலபோகம் சிறுபோகம் செய்து வரும் விவசாயிகளின் விவசாய நிலங்களில் சட்டவிரோதமாக மண் அகழ்வு தொடர்ச்சியாக இடம்பெற்று வருவதாகத் தெரிவிக்கின்றனர்.
+It is reported by the villagers that illegal sand mining is taking place in the Netaliyaru area of the Kalmadu pond in Kilinochchi.
 
-30அடி ஆழத்திலிருந்த ஆற்றுப்பகுதி தற்பொழுது 50அடிக்கும் மேலாக மணல் அகழ்வால் பாதிப்படைந்துள்ளது. இதனால் அருகில் உள்ள வயல் நிலங்கள் இடிந்து விழுவதாகவும் தமது விவசாயத்தை மேற்கொள்ள முடியாமல் உள்ளதாகத் தெரிவிக்கின்றனர்.
+They have expressed concern that illegal sand excavation is taking place on agricultural lands on the border between Mullaitivu and the Kilinochchi district and destroying their agriculture.
 
-குறித்த சம்பவம் தொடர்பில் பல தடைவைகள் புதுக்குடியிருப்பு பொலிசாரிடமும் தர்மபுர பொலிசாரிடமும் முறைப்பாடு செய்தும் இதுவரையில் எந்த நடவடிக்கையும் எடுக்கப்படவில்லை எனவும தமக்கான வாழ்வாதார நிலங்களை பாதுகாத்து தருமாறு கேட்டு நிற்கின்றனர்.
+The main river of the Kalmadu pond, which is the main river of the Kalmadu pond, is reportedly continuously in the agricultural lands of the farmers.
+
+The river, which is 30 feet deep, is currently affected by sand excavation over 50 feet. They say that the nearby fields are demolished and they are unable to carry out their farming.
+
+Several obstacles regarding the incident have been lodged with the Pudukkudiyiruppu police and the Dharmapura police and have been asked to protect their livelihoods as no action has been taken so far.
 
 ◼️
 
 [Data](articles/d6ef6e1d.json)
+
+[Extended Data](ext_articles/d6ef6e1d.ext.json)
+
+---
+
+### Israel reduces troops in south Gaza, Egypt to host new talks
+
+*2024-04-07 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98500/israel-reduces-troops-in-south-gaza-egypt-to-host-new-talks) · `en`
+
+Israel said on Sunday it had withdrawn more soldiers from southern Gaza, leaving just one brigade, as it and Hamas sent teams to Egypt for fresh talks over a potential ceasefire in the six-month conflict.
+
+Israel has been reducing numbers in Gaza since the start of the year to relieve reservists and is under growing pressure from its ally Washington to improve the humanitarian situation, especially after last week’s killing of seven aid workers.
+
+The military spokesperson did not give details on reasons for withdrawing soldiers or numbers involved.
+
+Both Israel and Hamas, the Islamist movement that controls Gaza, confirmed they were sending delegations to Egypt.
+
+But Prime Minister Benjamin Netanyahu warned that Israel would not bend to foreign pressure and give in to “extreme demands”.
+
+...
+
+[Data](articles/f311a3f0.json)
 
 ---
 
@@ -2319,27 +2345,5 @@ The police have registered a case and are investigating. The death of his wife, 
 [Data](articles/1471e404.json)
 
 [Extended Data](ext_articles/1471e404.ext.json)
-
----
-
-### Mano, Hakeem and Rishad are with Emm - Ranjith Mathuma Bandara
-
-*2024-04-07 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/180616) · `ta`
-
-Ranjith Mathuma Bandara, General Secretary of United People's Power, acknowledges Mano Ganesan, Rauf Hakeem, and Rishad Bathiudeen as alliance partners, despite their absence from a recent event due to a Memorandum of Understanding. The Tamil Progressive Alliance, Muslim Congress, and All Ceylon Peoples Congress have been traveling together since the last elections, indicating their partnership. Bandara emphasizes their ongoing collaboration and plans for future joint activities.
-
-🟩
-
-United People's Power General Secretary Ranjith Mathuma Bandara said that the team led by Mano Ganesan, Rauf Hakeem and Rishad Bathiudeen are partners of our alliance.
-
-Mano Ganesan and Rauf Hakeem Rishad Bathiudeen have not participated in the event as the United People's Power has signed a Memorandum of Understanding with his alliance partners.. He said this while commenting on this.
-
-The Tamil Progressive Alliance led by Mano Ganesan, the Muslim Congress led by Rauf Hakeem and the All Ceylon Peoples Congress led by Rishad Bathiudeen, have been traveling as partners of the coalition from the last presidential and parliamentary elections.
-
-...
-
-[Data](articles/72fcf70f.json)
-
-[Extended Data](ext_articles/72fcf70f.ext.json)
 
 ---

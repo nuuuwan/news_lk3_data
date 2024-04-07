@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-07 19:18:05**
+As of **2024-04-07 19:33:42**
 
 ## Newspaper Stats
 
-*Scraped **17,648** Articles*
+*Scraped **17,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,112 @@ newsfirstlk | 363
 dailyftlk | 958
 islandlk | 968
 economynextcom | 978
-adalk | 1,478
+adalk | 1,480
 tamilmirrorlk | 2,081
 adaderanalk | 2,132
 virakesarilk | 2,578
 dailymirrorlk | 2,696
-adaderanasinhalalk | 2,865
+adaderanasinhalalk | 2,866
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,646 (100.0%) of 17,648 articles have been extended.
+17,648 (100.0%) of 17,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-07 (Sunday)
 
-### ශ්‍රීලනිපයේ දේශපාලන මණ්ඩල රැස්වීමක් හෙට
+### Zero Shadow Day උදාවෙයි
 
-*2024-04-07 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195405) · `si`
+*2024-04-07 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195406) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ දේශපාලන මණ්ඩල රැස්වීමක් හෙට (08) දින කැඳවා තිබේ.
+සාමාන්‍ය කට වහරේ කියවෙන කතාවක් තමයි ''අඳුරේදී ඔබගේ සෙවණැල්ල වුව ඔබව හැරදා යයි'' නම් කියමන.
 
-ඒ උද්ගතවී ඇති තත්ත්වය හමුවේ පක්ෂයේ ඉදිරි ක්‍රියාමාර්ග පිළිබඳව සාකච්ඡා කිරීමේ අරමුණින් ය.
+ඒත් අද (07) හිරු එළිය පතිතව තිබියදීම එළිමහනේ සිටින අයගේ සෙවණැල්ලත් කෙටි වේලාවකට අතුරුදන්වුණි.
 
-එම පක්ෂයේ අනුශාසිකා හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය එහි මුලසුන දැරීමට නියමිත බව වාර්තා වෙයි.
+පෘථිවිය සූර්යයා වටා පරිභ්‍රමණයේදී ඇතැම් අවස්ථාවල පෘථිවියේ ඇතැම් ස්ථානවලට හිරු මුදුන්වීම සිදුවෙයි.
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ලෙස කටුයුතු කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය අප්‍රෙල් 4 වනදා අතුරු තහනම් නියෝගයක් නිකුත් කළේ හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය ගොනු කළ පෙත්සමක් විභාගයට ගනිමිනි.
+එවන් අවස්ථාවල පෘථිවියේ ඇතැම් ස්ථානවලට හිරු කිරණ සිරස්ව එල්ලවීම නිසා එම ස්ථානවල පවතින වස්තූන්ගේ සෙවණැල්ල තාවකාලිකව අතුරුදන්වීම සිදුවෙයි.
 
-අනතුරුව පක්ෂ මූලස්ථානයේ තිබූ වැදගත් ලිපිගොනු කිහිපයක් අස්ථනගතවී ඇති බවට පක්ෂයේ වැඩබලන මහලේකම්වරයා සිදුකළ පැමිණිල්ලට අනුව ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානයට කිසිවෙකුට ඇතුළුවීම පොලීසිය ඊයේ තහනම් කළේය.
+මේ වසරේ අප්‍රේල් මස 05 වනදා සිට අප්‍රේල් 15 දින දක්වා දින 10ක කාලයක් සූර්යයා ශ්‍රී ලංකාවට මුදුන්ව ගමන් ගනී.
 
-මෙවන් පසුබිමක ශ්‍රී ලංකා නිදහස් පක්ෂයේ දේශපාලන මණ්ඩල රැස්වීමක් එහි ජ්‍යෙෂ්ඨ උප සභාපති නිමල් සිරිපාල ද සිල්වා අමාත්‍යවරයා විසින් හෙට පෙරවරු 10ට පදනම් ආයතනයේ කැඳවා තිබේ.
+ඒ අතරින් අද (07) මධ්‍යහන 12.12ට හිරු මුදුන්ව පැවතීමේ ප්‍රතිඵලයක් ලෙස යම් වස්තුවක සෙවනැල්ල නොපෙනී යන අතර එළිමහනේ සිටින අයගේ සෙවණැල්ල එක් මොහොතකට අතුරුදන් වන ආකාරය දැකගත හැකිවුණි.
 
-...
+මෙම අවස්ථාව නිරීක්ෂණය සඳහා විශ්ලේෂණ මධ්‍යස්ථානයක් තාරකා විද්‍යාඥයන් අද දින ගංගාරාම සීමා මාලකයේ සූදානම් කර තිබුණි.
 
-[Data](articles/2a73c13d.json)
+අඩියක් පමණ වන කම්බි කූරක් වැනි යමක් මධ්‍යහ්නට පෙර එළිමහනේ සෘජුව සිටවා එහි සෙවණැල්ල අධීක්ෂණය මගින් මේ තත්ත්වය නිරීක්ෂණය කෙරුණි.
+
+◼️
+
+[Data](articles/787c9c03.json)
 
 ---
 
-### හෙට උණුසුම ගැන හදිසි නිවේදනයක්
+### මොරගහහේන  වෙඩි තැබීමෙන් දෙදෙනෙක් මරුට
+
+*2024-04-07 19:18:12* · [`adalk`](https://www.ada.lk/breaking_news/මොරගහහේන--වෙඩි-තැබීමෙන්-දෙදෙනෙක්-මරුට/11-408987) · `si`
+
+මොරගහහේන  තල්ගහවිල මාලොස් ඇළ හන්දිය ආසන්නයේදී තීරෝද රථයකින් ගමන් ගත් පුද්ගලයන් දෙදෙනෙකුට මෝටර්රථය කින් පැමිණි  පුද්ගලයන් පිරිසක් වෙඩි තබා ඝාතනය කර ඇතැයි මොරගහහේන  පොලිසිය කියයි.
+
+මෙලෙස ඝාතනයට ලක්ව ඇත්තේ පිළියන්දල පන්නිපිටිය හිරිපිටිය අංක 62/2 ලිපිනයේ පදිංචිව සිටි රූප සිංහ ආරච්චිලාගේ නයනානන්ද පෙරේරා නොහොත් උක්කුං මල්ලි  (52) හා පිළියන්දල සිද්ධමුල්ල තානායම් ගොඩනැගිල්ලඅංක 114/1 හි ලිපිනයේ පදිංචිව සිටි විතානගේ වසන්ත පෙරේරා (50) යන අයවලුන්ය
+
+ඝාතනයට ලක් වූ පුද්ගලයන් දෙදෙනා 2004 වර්ෂයේදී  රත්නපුර ප්‍රදේශයේ. මැණික් හා ස්වර්ණාභරණ අලෙවි සැලක රුපියල් 67 ලක්ෂ 58500 කොල්ලකෑමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට පත්වීමෙන් අනතුරුව රිමාන්ඞ් භාරයට පත් වී ඇති අතර ඇප මත නිදහස් වීමෙන් අනතුරුව  සෑම ඉරු දිනකම රත්නපුර පොලිසියේ අපරාධ අංශයේ  පෙනී සිට අධිකරණය මගින් නියෝගයක් නිකුත් කර තිබූ බව පොලිසිය කියයි.
+
+ඒ අනුව එම පුද්ගලයන් දෙදෙනා ඊයේ 7 නපුරයට ගොස් යළි නිවස කරා තීරෝද රථයෙන් පැමිණෙමින් සිටියදී   මෙම වෙඩි ප්‍රහාරයට ලක්වී ඇතැයි පොලිසිය කියයි.
+
+...
+
+[Data](articles/55f55d97.json)
+
+---
+
+### SLFP Politburo meeting tomorrow
+
+*2024-04-07 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195405) · `si`
+
+SLFP Politburo meeting tomorrow, led by Nimal Siripala de Silva, with Chandrika Bandaranaike Kumaratunga presiding. Court prevented entry to SLFP HQ due to inactive files.
+
+🟩
+
+A SLFP Politburo meeting has been convened tomorrow (08).
+
+The situation is the key to discussing the future action of the party.
+
+Former President Chandrika Bandaranaike Kumaratunga is scheduled to be presided over the party's pradeshiya.
+
+The Colombo District Court prevented the Colombo District Court in the Colombo District Court on the occasion as a petition filed by former President Chandrika Bandaranaike Kumaratunga.
+
+The acting Secretary-General of the party had then banned the SLFP headquarters to enter the SLFP headquarters according to the complaint that the important files were inactive in the party headquarters.
+
+The SLFP's Political Bureau of Sri Lanka Freedom Party (SLFP) has been convened by the Senior Vice President Nimal Siripala de Silva tomorrow.
+
+It is reported that the members of the Sri Lanka Freedom Party (SLFP), President of the Sri Lanka Freedom Party (SLFP) is the Chairman of the Election Commission, Dayasiri Jayasekara and Shan Vijayalal de Silva.
+
+◼️
+
+[Data](articles/2a73c13d.json)
+
+[Extended Data](ext_articles/2a73c13d.ext.json)
+
+---
+
+### A urgent announcement of tomorrow heating
 
 *2024-04-07 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195404) · `si`
 
-හෙට (08) දිනයේ මිනිස් සිරුරට දැනෙන උණුසුම "අවධානය" යොමු කළ යුතු මට්ටමක පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් පවසයි.
+The Meteorological Department warns of high body heat levels tomorrow.
+
+🟩
+
+The Meteorological Department (Met Department) issued a new statement that the heat of the human body is in a level of "attention" tomorrow (08).
 
 ◼️
 
 [Data](articles/d3f90adf.json)
+
+[Extended Data](ext_articles/d3f90adf.ext.json)
 
 ---
 
@@ -759,6 +817,26 @@ The governor also pointed out that the work of removing the Poonakari and Muhama
 [Data](articles/122a7439.json)
 
 [Extended Data](ext_articles/122a7439.ext.json)
+
+---
+
+### නියතවශයෙන්ම තියෙන්නෙ ජනපතිවරණයයි
+
+*2024-04-07 13:58:34* · [`adalk`](https://www.ada.lk/breaking_news/නියතවශයෙන්ම-තියෙන්නෙ-ජනපතිවරණයයි/11-408984) · `si`
+
+ව්‍යවස්ථාව අනුව මෙරට මීලඟට පැවැත්විය යුත්තේ ජනාධිපතිවරණය බවත් නියත වශයෙන්ම මෙරට මීලඟ මැතිවරණය ජනාධිපතිවරණය බව එක්සත් ජාතික පක්ෂයේ මහලේකම් රංගෙ බණ්ඩාර මහතා පවසයි .
+
+එක්සත් ජාතික පක්ෂයේ මහලේකම්වරයා ඒ බව අවධාරණය කර සිටියේ අද (07) මහනුවර ඩී එස් සේනානායක වීදියේ විවෘත කෙරුණු මධ්‍යම පළාතේ ජනාධිපතිවරණ මෙහෙයුම් කාර්යාලය විවෘත කිරීමේ අවස්ථාවට එක්වෙමිනි.
+
+එහිදී මහල්කම් විවරයා වැඩිදුරටත් අවධාරණය කර සිටියේ මැතිවරණ කොමිසමේ අධ්‍යක්ෂ ජනරාල්වරයා ද ජනාධිපතිවරණය පළමුවෙන් පවත්වන ලෙස දැනුම් දී ඇති බවද පැවසීය . එහිදී එක්සත් ජාතික පක්ෂ මහ ලේකම්වරයා වැඩිදුරටත් මෙසේ පැවසීය .
+
+"අද අප ආරම්භ කළේ මධ්‍යම පළාත ජනාධිපති මෙහෙයුම් කාර්යාලයයි . එසේම ජනාධිපතිවරණයේ අවසන් වන තුරු මැතිවරණ මෙහෙයුම් කාර්යාල දහසක් රට පුරා ආරම්භ කිරීමට බලාපොරොත්තු වෙනවා .
+
+අප එම මෙහෙයුම් කාර්යාල සම්බන්ධීකරණය කරගෙන මේ රට ගොඩනඟපු මේ රට ඉදිරියට ගෙන යා හැකි ලෝකය සමඟ සම්බන්ධතා ඇති අනාගතය දකින රනිල් වික්‍රමසිංහ ජනාධිපතිවරයා මෙරට මීළඟ ජනාධිපතිවරයා බවට පත්කිරීමේ කර්තව්‍ය අප ඉටු කරනවා .
+
+...
+
+[Data](articles/747ba8bc.json)
 
 ---
 
@@ -2313,71 +2391,5 @@ The suspect had fled the area and the Mawanella Police have launched a special o
 [Data](articles/d8f02dbf.json)
 
 [Extended Data](ext_articles/d8f02dbf.ext.json)
-
----
-
-### Four Pakistanis arrested in Nepal for taking four Sri Lankans hostage
-
-*2024-04-07 06:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Four-Pakistanis-arrested-in-Nepal-for-taking-four-Sri-Lankans-hostage/108-280311) · `en`
-
-Kathmandu, April 7 (PTI) - Four Pakistani nationals have been arrested in Nepal for taking hostage four Sri Lankan citizens on the pretext of sending them to different European countries for jobs, a senior Nepali police officer said on Friday.
-
-Kathmandu Valley Crime Investigative Department of Nepal Police arrested the four Pakistani nationals based on a tip-off on Thursday (04), said the Superintendent of Police, Nakul Pokharel.
-
-The Pakistani nationals, between the age of 42 and 62, charged millions of rupees from the four Sri Lankan citizens with the false promise of providing jobs in European countries, including Canada and Romania, the police said.
-
-The Sri Lankans, who were brought from their home country, were beaten, tortured and threatened by the Pakistanis.
-
-Their passports were also seized as the Pakistanis took them hostage at different hotels in Kathmandu.
-
-Police said arrangements are being made to send them back to Sri Lanka.
-
-...
-
-[Data](articles/f4a671f8.json)
-
-[Extended Data](ext_articles/f4a671f8.ext.json)
-
----
-
-### Updated UK Travel Advisory on Sri Lanka expected to boost tourism industry
-
-*2024-04-07 06:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Updated-UK-Travel-Advisory-on-Sri-Lanka-expected-to-boost-tourism-industry/107-280310) · `en`
-
-Colombo, April 7 (Daily Mirror) - Travel Advisory of the United Kingdom on Sri Lanka has been updated on 5th April 2024. The travel Advisory has been updated with additional information on emergency medical numbers, road travel and safety and security on 'Entry requirements', 'Safety and security', and 'Health' pages.
-
-References to shortages of food, fuel and medicine due to the economic situation in Sri Lanka contained in the previous Advisory have been removed from the updated Travel Advisory. In addition, references to limitations in healthcare services such as shortages of imported medicine, and medical equipment due to economic situation have also been removed. The High Commission of Sri Lanka in London has made repeated representations to the UK authorities on the need to remove these adverse references in the previous Travel Advisory to reflect the ground realities.
-
-...
-
-[Data](articles/a9255381.json)
-
-[Extended Data](ext_articles/a9255381.ext.json)
-
----
-
-### Weather today
-
-*2024-04-07 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195378) · `si`
-
-Today's weather in Kandy, Nuwara Eliya, Galle, and Matara includes showers or thundershowers. The Meteorology Department advises taking precautions against wind and lightning. The sun will be directly above Sri Lanka from April 5 to 15.
-
-🟩
-
-The Kandy, Nuwara Eliya, Galle and Matara districts have been also in the Western and Sabaragamuwa Provinces today (07). Showers or thundershowers will occur at several places, about 2.00.
-
-The department states that in some places in the Western, Central, Uva and Sabaragamuwa provinces, in the Mmith, Galle and Matara districts, and in some places are expected.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-When the sun is traveling to the North, the sun is directly above Sri Lanka in April 5 to 15.
-
-The Meteorology Department further states that the sun will be over 12:12 pm today (07).
-
-◼️
-
-[Data](articles/42c3f4ab.json)
-
-[Extended Data](ext_articles/42c3f4ab.ext.json)
 
 ---

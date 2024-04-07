@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 03:33:53**
+As of **2024-04-08 03:51:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,702 (100.0%) of 17,705 articles have been extended.
+17,705 (100.0%) of 17,705 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ The maritime landscape of Sri Lanka witnessed a momentous occasion on Wednesday,
 ...
 
 [Data](articles/fc704835.json)
+
+[Extended Data](ext_articles/fc704835.ext.json)
 
 ---
 
@@ -58,6 +60,8 @@ Additional charges arose from Sirisena’s actions during the constitutional cri
 
 [Data](articles/379e5b58.json)
 
+[Extended Data](ext_articles/379e5b58.ext.json)
+
 ---
 
 ### Auspicious times! Exposing incompetence or astrology a pseudoscientific myth?
@@ -73,6 +77,8 @@ In response to past controversies surrounding nekath, the government appointed a
 ...
 
 [Data](articles/a537a166.json)
+
+[Extended Data](ext_articles/a537a166.ext.json)
 
 ---
 

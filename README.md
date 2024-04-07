@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 02:03:26**
+As of **2024-04-08 02:18:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,691 (100.0%) of 17,694 articles have been extended.
+17,694 (100.0%) of 17,694 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Munasinghe began his sales and marketing career at ACL Group in 1991 and served 
 
 [Data](articles/8840c9d8.json)
 
+[Extended Data](ext_articles/8840c9d8.ext.json)
+
 ---
 
 ### Maliban Group of Companies shines at CLA Great Managers Award
@@ -62,21 +64,31 @@ The Winners from the Maliban Group of Companies are Positha Perera – Category 
 
 [Data](articles/6f9a9785.json)
 
+[Extended Data](ext_articles/6f9a9785.ext.json)
+
 ---
 
-### வவுனியாவில் தரம் 2 மாணவன் மீது  தாக்குதல்: நான்கு நாட்களின் பின் ஆசிரியர் கைது
+### Grade 2 student attack in Vavuniya: Teacher arrested after four days
 
 *2024-04-08 01:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/180657) · `ta`
 
-வவுனியா சுந்தரபுரம் பகுதியில் உள்ள பாடசாலை ஒன்றில் தரம் இரண்டில் கல்வி பயிலும் மாணவன் மீது ஆசிரியர் கண்மூடித்தனமாக தாக்கியதில் மாணவன் வைத்தியசாலையில் அனுமதிக்கப்பட்டு நான்கு நாட்களின் பின்னர் இன்று (07.04.2024) காலை குறித்த ஆசிரியர் பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்
+A Grade 2 student in Vavuniya assaulted a teacher, leading to the teacher's arrest four days later. The student, who went home after school on 03.04, was admitted to the hospital. The teacher's father's phone call revealed the boy was attacked and hit in the face. The injured boy was treated at the Vavuniya District General Hospital and reported to the police. The teacher, who had not been arrested for four days, was finally arrested by the Vavuniya Echangulam police.
 
-வவுனியா, சுந்தரபுரம் பகுதியில் உள்ள  பாடசாலை ஒன்றில் கல்வி பயிலும் மாணவன் கடந்த (03.04) அன்று பாடசாலை முடிந்து வீட்டிற்குச் சென்ற சிறுவனின் முகத்திலும் தலையிலும் அடிகாயங்கள் காணப்பட்டதை அடுத்து பெற்றோர் சிறுவனிடம் விசாரித்ததில் அவரது ஆசிரியை தாக்கியதாகத் தெரிவித்துள்ளான்.
+🟩
 
-இதனைத் தொடர்ந்து சிறுவனின் தந்தை குறித்த ஆசிரியருக்கு தொலைப்பேசி மூலம் தொடர்பு கொண்டு சிறுவனைத் தாக்கியதற்கான காரணம் என்ன மற்றும் காலிற்குக் கீழ் அடித்து இருக்கலாமே என்றும் தெரிவித்துள்ளார். இதற்கு பதில் அளித்த ஆசிரியை 'உங்கள் மகனுக்கு அ, ஆ தெரியவில்லை என்றும் அதனாலேயே அடித்தது என்றும் அடிக்கும் போது சிறுவன் அங்கும் இங்கும் ஓடியதால் முகத்தில் அடிபட்டுவிட்டது என்று கூறியதுடன், மகனுக்கு அடிக்காமல் கொஞ்சுவதா என ஆசிரியர் கேட்டுள்ளார்.
+The teacher was arrested by the police today (07.04.2024) after the student was admitted to the hospital after a teacher indiscriminately assaulted a teacher at a school in Sundarapuram area in Vavuniya.
+
+A student studying in a school in Sundarapuram, Vavuniya, who was studying in the face and head of the boy who went home after school on 03.04, said that his teacher was assaulted by the boy.
+
+Following this, the teacher of the boy's father had telephoned and said that the reason why the boy was attacked and under the leg.. The teacher replied, "Your son did not know that A, was unknown and that the boy was hit in the face as he was hit and the teacher asked him to be a little bit.
+
+The injured boy was admitted to the Vavuniya District General Hospital and was treated with a complaint with the police.. In the last four days, the teacher who attacked the boy has not been arrested, has been strengthened against the police on social media.
 
 ...
 
 [Data](articles/aaaaa84c.json)
+
+[Extended Data](ext_articles/aaaaa84c.ext.json)
 
 ---
 

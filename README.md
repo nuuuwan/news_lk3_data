@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 08:33:42**
+As of **2024-04-08 08:51:52**
 
 ## Newspaper Stats
 
-*Scraped **17,739** Articles*
+*Scraped **17,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,74 +17,122 @@ economynextcom | 978
 islandlk | 979
 adalk | 1,489
 tamilmirrorlk | 2,088
-adaderanalk | 2,139
+adaderanalk | 2,140
 virakesarilk | 2,590
 dailymirrorlk | 2,709
-adaderanasinhalalk | 2,875
+adaderanasinhalalk | 2,876
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,734 (100.0%) of 17,739 articles have been extended.
+17,739 (100.0%) of 17,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### காலநிலை தொடர்பான முன்னறிவித்தல்
+### පූර්ණ සූර්යග්‍රහණයක් අද
+
+*2024-04-08 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195417) · `si`
+
+එම සුර්යග්‍රහණය ශ්‍රී ලංකාවට නොපෙනෙන නමුත් බටහිර යුරෝපයේ, උතුරු අමෙරිකාව, පැසිෆික් සාගරය, අත්ලාන්තික් සාගරය සහ ආක්ටික් ප්‍රදේශයේ රටවලට දෘශ්‍යමාන වීමට නියමිතය.
+
+මෙරට වේලාවෙන් සූර්යග්‍රහණය රාත්‍රී 9.12ට ආරම්භවී පසු දින අලුයම 2.22ට අවසන් වේ.
+
+ඉතාමත් කලාතුරකින් දැකගත හැකි වන පූර්ණ සූර්ය ග්‍රහණයක් නැවත දැකගැනීමට හැකිවන්නේ 2044 දී බව නාසා ආයතනය සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/2b8f7707.json)
+
+---
+
+### Sri Lanka’s tourism earnings exceed USD 1 billion in first three months
+
+*2024-04-08 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98504/sri-lankas-tourism-earnings-exceed-usd-1-billion-in-first-three-months) · `en`
+
+Tourism Minister Harin Fernando says Sri Lanka’s total tourist arrivals for the first three months of this year have been recorded as 635,784.
+
+He added that the amount earned from tourism in that period is USD 1,025 million.
+
+◼️
+
+[Data](articles/10d4fe19.json)
+
+---
+
+### Predictors related to the climate
 
 *2024-04-08 08:16:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலநிலை-தொடர்பான-முன்னறிவித்தல்/175-335727) · `ta`
 
-மேல், சப்ரகமுவ,​ தென் மற்றும் வடமேல் மாகாணங்களிலும் மொனராகலை, மன்னார் மற்றும் அனுராதபுரம் மாவட்டங்களிலும் பிற்பகல் 2.00 மணிக்குப் பின்னர் பரவலாக மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+The Department of Meteorology forecasts rains and thunderstorms in several provinces and districts, advising precautions against wind and lightning. The sun's peak in Sri Lanka from April 5-15 will affect Mara, Pattuhahera, Kuruktete, Kalmunai, Kirtalavella, and Varapitiya.
 
-மேல், மத்திய மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை எதிர்பார்க்கப்படுவதாக அந்த திணைக்களம் அறிக்கை ஒன்றை வௌியிட்டுத் தெரிவித்துள்ளது.
+🟩
 
-இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம், மக்களிடம் கோரிக்கை விடுத்துள்ளது.
+The Department of Meteorology has forecast rains or thunderstorms in the Western, Sabaragamuwa, Southern and North Western Provinces and Moneragala, Mannar and Anuradhapura at 2.00 pm.
 
-அதேநேரேம் சூரியனின் வடதிசை நோக்கிய இயக்கத்தின்  காரணமாக, இவ் வருடம் ஏப்ரல் மாதம் 5ஆம் திகதியிலிருந்து 15ஆம் திகதி வரை இலங்கையின் அகலக் கோடுகளுக்கு நேராக உச்சம் கொடுக்கவுள்ளது.
+The department has stated a report that some parts of the Western, Central and Sabaragamuwa Provinces, Galle and Matara districts are expected in the morning.
 
-அதற்கிணங்க இன்று (06) நண்பகல் 12.12 அளவில் மாராவில், பொதுஹெர, குருகெட்டே, கல்முனை, கெர்தலாவெல மற்றும் வராப்பிட்டிய ஆகிய பிரதேசங்களில் சூரியன் உச்சம் கொடுக்கவுள்ளது. R
+The Department of Meteorology has urged the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.
+
+Due to the Sun's North Movement, this year will peak to the width lines of Sri Lanka from April 5 to the 15th of April.
+
+Accordingly, at 12.12 noon today (06), the sun will be at the peak of Mara, Pattuhahera, Kuruktete, Kalmunai, Kirtalavella and Varapitiya areas.. Remble
 
 ◼️
 
 [Data](articles/8bb140a2.json)
 
+[Extended Data](ext_articles/8bb140a2.ext.json)
+
 ---
 
-### බෝට්ටු අනතුරකින් 90 දෙනෙක් ජීවිතක්ෂයට
+### 90 killed in boat accident
 
 *2024-04-08 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195416) · `si`
 
-මොසැම්බික් වෙරළට ඔබ්බෙන් වු මුහුදු තීරයේ දී බෝට්ටුවක් අනතුරට පත්වීමෙන් පුද්ගලයින් 90 දෙනෙක් මියගොස් තිබේ.
+90 killed in Mozambique boat accident; 130 passengers on fishing vessel near NPLA; arrest led to accident.
 
-අනතුර සිදුවන විට එහි මගීන් 130 දෙනෙකු සිට ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-ධීවර යාත්‍රාව නාම්පුලා පළාතේ දූපතක් ආසන්නයේ දී මෙලෙස ගිලීමට ලක්ව ඇති බව සඳහන්ය.
+90 people were killed in a boat accident in the coast of Mozambique coast.
 
-ප්‍රමාණය ඉක්මවා පිරිස රැගෙන යාම මෙම අනතුරට හේතු වී ඇති බව එරට රාජ්‍ය ලේකම්වරයා සඳහන් කර ඇත.
+Foreign media reports that when the accident occurred, there were 130 passengers.
+
+The fishing vessel has been drowning near the NPLA.
+
+The arrest of the amount has led to the accident.
 
 ◼️
 
 [Data](articles/efe6fcc6.json)
 
+[Extended Data](ext_articles/efe6fcc6.ext.json)
+
 ---
 
-### பொலிஸாரின் துப்பாக்கிச் சூட்டில் விமானப்படை வீரர் மரணம்
+### Air Force soldier killed in police firing
 
 *2024-04-08 08:13:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாரின்-துப்பாக்கிச்-சூட்டில்-விமானப்படை-வீரர்-மரணம்/175-335726) · `ta`
 
-பொலிஸ் விசேட அதிரடிப் படையினரும் பொலிஸாரும் இணைந்து மேற்கொண்ட நடவடிக்கையின் போது, ​​
+An Air Force soldier was killed in police firing during a cooperative operation. A motorcycle driver fired at police, and a passenger died after being admitted to the hospital. The passenger was a suspect in a murder case.
 
-பொலிஸ் வீதித் தடைக்கு அருகில், உத்தரவை மீறி மோட்டார் சைக்கிள் ஒன்று சென்றதுடன் அதனை செலுத்தியவர் பொலிஸாரை நோக்கி துப்பாக்கிச் சூடு நடத்தியதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இந்நிலையில் பொலிஸார் பதிலுக்கு நடத்திய துப்பாக்கிச் சூட்டில் மோட்டார் சைக்கிளில் பயணித்தவர் படுகாயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்தார்.
+During the process of co -operating by the Special Task Force and the police,
 
-ஹொரணை - தல்கஹவில பிரதேசத்தில் நேற்று (07) துப்பாக்கிச் சூடு நடத்தி இருவரை கொலை செய்த சம்பவத்தின் பிரதான சந்தேகநபர் இவரே என தெரியவந்துள்ளதாகவும் பொலிஸார் தெரிவித்துள்ளனர். R
+Police said that a motorcycle was rushed to the police station, near the police road ban, and the driver fired at the police.
+
+In a reply, a motorcycle passenger died after being admitted to the hospital.
+
+Police said that he was the main suspect in the incident of the murder of two men in the Horana - Talgahawa area yesterday (07).. Remble
 
 ◼️
 
 [Data](articles/1eee69aa.json)
+
+[Extended Data](ext_articles/1eee69aa.ext.json)
 
 ---
 
@@ -219,6 +267,8 @@ Colombo, April 8 (Daily Mirror) - Samagi Jana Balawegaya (SJB) National Organize
 ...
 
 [Data](articles/936722ec.json)
+
+[Extended Data](ext_articles/936722ec.ext.json)
 
 ---
 
@@ -864,21 +914,27 @@ The President pointed out that with the political change in July 2022, the presi
 
 ---
 
-### ’ஐ.தே.க. கொள்கைகள் ஐக்கிய மக்கள் சக்தியில் இல்லை’
+### Model UNP. Policies are not in the United People's Power
 
 *2024-04-08 00:39:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-க-கொள்கைகள்-ஐக்கிய-மக்கள்-சக்தியில்-இல்லை/175-335724) · `ta`
 
-ஐக்கிய மக்கள் சக்தியில் இன்று ஐக்கிய தேசியக் கட்சியின் கொள்கைகள் இல்லை. அதன் பொருளாதாரக் கொள்கையை மொட்டுக் கட்சியிலிருந்து வெளியேற்றப்பட்ட குழுவே தற்போது கையாள்கின்றது என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe stated that the United National Party (UNP) has no policies in the United People's Power, emphasizing the need to work with the PA and the Sri Lanka Freedom Party for the country's welfare.
 
-கண்டி ஜனாதிபதி மாளிகையில் நேற்று நடைபெற்ற அரசியல் கட்சி பிரதிநிதிகள் கூட்டத்தில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-இன்று ஐக்கிய மக்கள் சக்தியில் ஐக்கிய தேசியக் கட்சி இல்லை. ஐக்கிய தேசியக் கட்சியை பாதுகாத்தவன் நான். ஜே.ஆர் ஜயவர்தன, ஆர், பிரேமதாச, டி.பி. விஜேதுங்க, இவர்கள் அனைவருடனும் நாங்கள் பணியாற்றினோம்.
+There are no policies of the United National Party today in the United People's Power. President Ranil Wickremesinghe said that the group that was expelled from the Mottu party is currently dealing with its economic policy.
 
-இன்று ஐக்கிய தேசியக் கட்சி என்று தங்களை அழைப்பதற்கு ஐக்கிய மக்கள் சக்திக்கு எந்த உரிமையும் இல்லை. இன்று எமக்கு பொதுஜன பெரமுன மற்றும் ஸ்ரீலங்கா சுதந்திரக் கட்சியுடன் இணைந்து செயற்பட வேண்டியுள்ளது. நாட்டு நலனுக்காக நாம் இணைந்து செயற்பட வேண்டும். இன்று அரசியல் போக்கு மாறிவிட்டது என்றார். (a)
+The President said this while addressing a meeting of political party representatives held at the Kandy President's House yesterday. As he further stated,
+
+There is no United National Party in the United People's Power Today. I am the one who defended the United National Party. JR Jayawardena, R, Premadasa, DP. Wijetunga, we worked with all of them.
+
+The United National Party has no right to call themselves the United National Party today. Today we have to work with the PA and the Sri Lanka Freedom Party. We must work together for the welfare of the country. He said the political trend has changed today. (A)
 
 ◼️
 
 [Data](articles/c84e4564.json)
+
+[Extended Data](ext_articles/c84e4564.ext.json)
 
 ---
 
@@ -2177,43 +2233,5 @@ A senior officer of the Moragahahena Police said that three bullets were found i
 [Data](articles/78e6197b.json)
 
 [Extended Data](ext_articles/78e6197b.ext.json)
-
----
-
-### Liquor shops to remain closed on April 12, 13 and 23
-
-*2024-04-07 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98493/liquor-shops-to-remain-closed-on-april-12-13-and-23) · `en`
-
-The Commissioner General of Excise has ordered that all licensed liquor stores, except for the specifically authorized stores, across the island should remain closed for retail liquor sales on April 12 and 13, in view of the Sinhala and Tamil New Year.
-
-The Department of Excise stated that the order is not applicable for resident tourists in hotels above three-star class, approved by the Sri Lanka Tourism Development Authority and special boutique villa-licensed places.
-
-Meanwhile, the Commissioner General of Excise has also ordered the closure of all excise-licensed places for liquor sales throughout the island without classification of license on April 23, on the occasion of Bak Full Moon Poya Day.
-
-Furthermore, the general public is informed that complaints related to narcotics, drugs and tobacco crimes taking place during this period can be reported to the hotline number ‘1913’ of the Excise Department or the other excise stations or special units established across the island.
-
-◼️
-
-[Data](articles/21bf7db5.json)
-
-[Extended Data](ext_articles/21bf7db5.ext.json)
-
----
-
-### Fishermen in Vadamarachchi rescue 11 Dolphins caught in nets
-
-*2024-04-07 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fishermen-in-Vadamarachchi-rescue-11-Dolphins-caught-in-nets/108-280325) · `en`
-
-April 07 (Daily Mirror) -  Fishermen from Vadamarachchi, Jaffna, rescued 11 dolphins ensnared in fishing nets near Katteikattil beach.
-
-When the dolphins became trapped in the nets and washed ashore, fishermen from the area swiftly intervened to ensure the safe return of the marine mammals to their natural habitat.
-
-Demonstrating exemplary teamwork and empathy, the fishermen carefully released all 11 dolphins back into the sea without causing any harm.
-
-◼️
-
-[Data](articles/32a0954a.json)
-
-[Extended Data](ext_articles/32a0954a.ext.json)
 
 ---

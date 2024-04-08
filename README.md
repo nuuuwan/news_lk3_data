@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 11:52:57**
+As of **2024-04-08 12:04:07**
 
 ## Newspaper Stats
 
-*Scraped **17,782** Articles*
+*Scraped **17,792** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,98 @@ bbccomsinhala | 186
 dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 972
-economynextcom | 978
 islandlk | 979
+economynextcom | 982
 adalk | 1,493
-tamilmirrorlk | 2,092
+tamilmirrorlk | 2,094
 adaderanalk | 2,147
-virakesarilk | 2,597
-dailymirrorlk | 2,718
+virakesarilk | 2,599
+dailymirrorlk | 2,720
 adaderanasinhalalk | 2,885
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,776 (100.0%) of 17,782 articles have been extended.
+17,782 (99.9%) of 17,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### கெஹெலிய விளக்கமறியல் நீடிப்பு!
+
+*2024-04-08 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180680) · `ta`
+
+முன்னாள்  சுகாதார அமைச்சர் கெஹெலிய ரம்புக்வெல்ல உள்ளிட்ட  6 சந்தேக நபர்கள் எதிர்வரும் ஏப்ரல் 22 வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+தரமற்ற இம்யூனோகுளோபியூலின்  என்ற மருந்தை இறக்குமதி செய்ததன் காரணமாகவே சந்தேகத்தில் இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/a18db4fe.json)
+
+---
+
+### கல்முனை வடக்கு பிரதேசமானது பறிபோகுமாயின் கிழக்கு இருப்பு கேள்விக்குறியாக போய்விடும் - கனகரட்ணம் சுகாஷ்
+
+*2024-04-08 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180684) · `ta`
+
+கல்முனை வடக்கு பிரதேசமானது பறிபோகுமாயின் கிழக்கு இருப்பு கேள்விக்குறியாக போய்விடும். அம்பாறை தமிழ் தேச வரைபடத்தில் இருந்து நீக்கப்படும். ஆகவே மக்கள் சிந்திக்க வேண்டும் என  தமிழ் தேசிய மக்கள் முன்னணியின் ஊடகப் பேச்சாளர் சட்டத்தரணி கனகரட்ணம் சுகாஷ் தெரிவித்துள்ளார்.
+
+அம்பாறை மாவட்டம் கல்முனை வடக்கு பிரதேச செயலகத்தின் மீதான தொடர்ச்சியாக நிர்வாக அடக்குமுறைகளுக்கு எதிராக அங்குள்ள பொதுமக்கள் 14 ஆவது  நாளாக ஞாயிற்றுக்கிழமை (07) கவனயீர்ப்பு  பேரணியுடன் போராட்டத்தை முன்னெடுத்து வருகின்ற நிலையில் அங்கு விசேட செய்தியாளர் சந்திப்பில் கலந்து கொண்டு மேற்கண்டவாறு குறிப்பிட்டார்.
+
+கல்முனை வடக்கு பிரதேச செயலகம் 34 வருடங்களாக ஒரு சுயாதீனமான பிரதேச செயலகமாக இயங்கி வருகின்றது. ஆனால் இங்கு ஒரு தனியான பிரதேச செயலாளர் என்று ஒருவர் இல்லை. இது இலங்கையின் ஆச்சரியங்களில் ஒன்று. கணக்காளர் என்ற ஒருவர் இல்லை. கல்முனை தெற்கு பிரதேச செயலாளரின் ஏதேச்சையான அதிகாரத்தினுள் சட்டவிரோத உத்தரவிற்கு கட்டுப்பட்டு தான் கல்முனை வடக்கு பிரதேச செயலகம் செயற்பட்டு கொண்டு இருக்கின்றது. இது அரச ஏதேச்சை அதிகாரமாகும்.
+
+...
+
+[Data](articles/d1a495a3.json)
+
+---
+
+### Cases filed by ex-PUCSL chairman put off due to inadequate time
+
+*2024-04-08 11:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cases-filed-by-ex-PUCSL-chairman-put-off-due-to-inadequate-time/108-280389) · `en`
+
+The Supreme Court put off for June 12th and July 11 the hearing of the Fundamental Rights (FR) petitions filed by a group of persons including the former Chairman of the Public Utilities Commission (PUCSL), Janaka Ratnayake in his personal capacity despite being PUCSL Chairman, Asoka Abeygunawardhana and Electricity and Renewable Energy Consumers Association had Ven. Matara Ananda Sagara Thero and 10 others challenging the electricity tariff hike of February.
+
+The case was taken up for hearing before a three-judge bench of the Supreme Court comprising Justices Preethi Padman Surasena, Janak de Silva and Mahinda Samayawardena, but further inquiry was put off for June 12 and July 11 due to inadequate time to hear all the 10 petitions filed by the petitioners.
+
+Janaka Ratnayake filed his petition in his capacity as an electricity consumer and in the public interest, of those falling within the lowest bracket units of electricity consumers who are hardest hit by the tariff hike.
+
+...
+
+[Data](articles/ea3a1cf7.json)
+
+---
+
+### SLFP appoints Nimal Siripala as acting Chairman
+
+*2024-04-08 11:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLFP-appoints-Nimal-Siripala-as-acting-Chairman/108-280390) · `en`
+
+Colombo, April 08 (Daily Mirror) - Minister of Ports, Aviation and Shipping Nimal Siripala de Silva has been appointed as Acting Chairman of the Sri Lanka Freedom Party (SLFP).
+
+The appointment was made at the SLFP politburo meeting held this morning at the Sri Lanka Foundation Institute under the chairmanship of former President Chandrika Bandaranaike Kumaratunga.
+
+The Colombo District Court last week issued an interim injunction, barring former President Maithripala Sirisena from functioning as SLFP Chairman.
+
+◼️
+
+[Data](articles/46c60dea.json)
+
+---
+
+### சு.காவில் அதிரடி மாற்றம்
+
+*2024-04-08 11:25:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சு-காவில்-அதிரடி-மாற்றம்/175-335732) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் தலைவராக அமைச்சர் நிமல் சிறிபால டி சில்வா, அரசியல் குழுவினால் நியமிக்கப்பட்டுள்ளது. அதன் பதில் செயலாளராக தேசிய அமைப்பாளர்  துமிந்த திசாநாயக்க தெரிவு செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/eed69a6a.json)
+
+---
 
 ### 120 plantation workers hospitalised due to food poisoning
 
@@ -47,6 +121,8 @@ Public Health Inspectors have obtained food samples to be sent to the Government
 ◼️
 
 [Data](articles/4a6d2629.json)
+
+[Extended Data](ext_articles/4a6d2629.ext.json)
 
 ---
 
@@ -68,6 +144,8 @@ Meanwhile, SLFP also appointed a new Senior Vice President, a Treasurer and a Na
 
 [Data](articles/9932b57e.json)
 
+[Extended Data](ext_articles/9932b57e.ext.json)
+
 ---
 
 ### Probe launched into students’ use of STF-like uniforms at school event
@@ -85,6 +163,8 @@ Police said that disciplinary action will be taken against any officers found to
 ...
 
 [Data](articles/fc7f4037.json)
+
+[Extended Data](ext_articles/fc7f4037.ext.json)
 
 ---
 
@@ -125,6 +205,8 @@ The arrest came hot on the heels of pressure from civil society activists and he
 ...
 
 [Data](articles/b2a0aece.json)
+
+[Extended Data](ext_articles/b2a0aece.ext.json)
 
 ---
 
@@ -208,9 +290,53 @@ The Sri Lanka Freedom Party (SLFP) has decided to appoint Minister of Ports, Avi
 
 This decision has been arrived at during the SLFP politburo meeting led by former President Chandrika Bandaranaike Kumaratunga, which was held this morning (08) at the Sri Lanka Foundation Institute.
 
-◼️
+The SLFP convened the party’s politburo in order to discuss the future course of action of the party, in view of its current internal crisis situation. It was reported that all party members excluding former President Maithripala Sirisena, former General Secretary Dayasiri Jayasekara and MP Shan Vijayalal de Silva have been invited for the relevant meeting.
+
+On Thursday (04), the Colombo District Court issued an interim injunction preventing former President Maithripala Sirisena from functioning as the SLFP chairman, following a complaint filed by former President Chandrika Bandaranaike Kumaratunga.
+
+...
 
 [Data](articles/45538363.json)
+
+[Extended Data](ext_articles/45538363.ext.json)
+
+---
+
+### Not a dry holiday for Sri Lanka’s foreign visitors
+
+*2024-04-08 10:58:00* · [`economynextcom`](https://economynext.com/not-a-dry-holiday-for-sri-lankas-foreign-visitors-157834/) · `en`
+
+ECONOMYNEXT – Liquor will be available for tourists staying in boutique villas and three-star and above hotels licensed by the Tourism Development Authority during the upcoming holiday period, the Department of Excise has said.
+
+But “All excise licensed pubs should be closed for retail sale of liquor,” the Commissioner General of Excise said in statement released by the Department of Government Information.
+
+Sri Lanka usually prohibits the sale of liquor during holidays.
+
+The Excise Department has requested the public to report any complaints during this period via telephone number 1913.
+
+Sri Lanka has seen an uptick in foreign visitors to the island, and earned 1,025.9 million US dollars from tourism in the first quarter of 2024, up 103 percent from a year ago, the central bank said quoting tourism promotion authorities. (Colombo/Apr8/2021)
+
+Sri Lanka earns billion dollars from tourism in first quarter
+
+◼️
+
+[Data](articles/ca4b8d20.json)
+
+---
+
+### ”பல்டிகளுடன் இணையக் கூடாது”
+
+*2024-04-08 10:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்டிகளுடன்-இணையக்-கூடாது/175-335730) · `ta`
+
+ஐக்கிய மக்கள் சக்தி (SJB) தேசிய ஒருங்கிணைப்பாளர் திஸ்ஸ அத்தநாயக்க, கட்சி யாருடன் இணைய வேண்டும் என தமது தலைவர் சஜித் பிரேமதாசவுக்கு எச்சரிக்கை விடுத்துள்ளார்.
+
+"கட்சித் தாவல் செய்பவர்கள், ஊழல் செய்பவர்களுடன் தொடர்பு கொள்ளாமல், தூய்மையான மற்றும் மக்களால் நம்பிக்கை கொண்டவர்களுடன் இணைய வேண்டும்" என்று கடந்த வெள்ளிக்கிழமை திரு. அத்தநாயக்க நிதாஹஸ் ஜனதா கட்சி எம்.பி.க்கள் குழுவுடன் புரிந்துணர்வு உடன்படிக்கையை கைச்சாத்திட்ட நிகழ்வின் போது ஊடகவியலாளர்களிடம் குறிப்பிட்டார்.
+
+“எஸ்.ஜே.பி செயற்குழுவானது கட்சித் தலைவருக்கு எந்தக் கட்சியுடனும் கூட்டணி வைக்கும் அதிகாரத்தை வழங்கியது. எனவே, NJB உடனான எந்த கூட்டணிக்கும் நாங்கள் எதிரானவர்கள் அல்ல. எவ்வாறாயினும், தவறானவர்களுடன் நாம் இணைந்தால் எந்தவொரு கூட்டணியும் மக்களால் ஏற்றுக்கொள்ளப்படாது என்பதால், கட்சி யாருடன் இணைய வேண்டும் என்பதை நாங்கள் கட்சித் தலைவருக்கு எச்சரிக்கிறோம், ”என்று அத்தநாயக்க மேலும் கூறினார்.
+
+...
+
+[Data](articles/bb872491.json)
 
 ---
 
@@ -249,6 +375,8 @@ Colombo, April 08 - President Ranil Wickremesinghe inaugurated the flyover spann
 ◼️
 
 [Data](articles/44b2dcba.json)
+
+[Extended Data](ext_articles/44b2dcba.ext.json)
 
 ---
 
@@ -596,6 +724,26 @@ Minister of Tourist Minister Harin Fernando has said that the highest number of 
 
 ---
 
+### Sri Lanka rupee opens at 298.80/299.00 to the US dollar
+
+*2024-04-08 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-298-80-299-00-to-the-us-dollar-157812/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 298.80/299.00 to the US dollar in the spot forex market on Monday, stronger from 299.25/30 on Friday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 was quoted at 11.35/45 percent from 11.40/45 percent, down from Friday.
+
+A bond maturing on 15.09.2027 was quoted at 11.95/12.00 percent from 11.90/12.00 percent.
+
+A bond maturing on 15.12.2028 was quoted at 12.10/25 percent from 12.15/25 percent.
+
+The Colombo Stock Exchange opened up. The All Share Price Index was up 0.71 percent at 11,879, the S&P SL20 was up 1.31 percent at 3,527.(Colombo/Apr8/2024)
+
+◼️
+
+[Data](articles/e306f66a.json)
+
+---
+
 ### Murder in a garage in a temple
 
 *2024-04-08 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195419) · `si`
@@ -665,6 +813,28 @@ The person who was shot dead at Angamuwa, Padukka is suspected to be the gunman 
 [Data](articles/299201f1.json)
 
 [Extended Data](ext_articles/299201f1.ext.json)
+
+---
+
+### Sri Lanka begins implementing Singapore free trade deal
+
+*2024-04-08 09:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-begins-implementing-singapore-free-trade-deal-157799/) · `en`
+
+ECONOMYNEXT – Sri Lanka has begun implementing a free trade agreement with Singapore as part of efforts to improve market access, diversify market and draw investments, the island’s top trade negotiator said.
+
+Sri Lanka’s government’s policy was that to achieve economic growth, export market access had to be increased, products had to be diversified and investment had to be attracted, K J Weerasinghe, Chief Negotiator, International Trade Office at the Presidential Secretariat said.
+
+Sri Lanka is playing a catch-up game with the rest of Asia, he told a business forum organized by the Import Section of Sri Lanka’s Ceylon Chamber of Commerce.
+
+Vietnam and Singapore already had 19 free trade agreements in place and India 15.
+
+Negotiations initiated or agreements signed by Sri Lanka in 2017-2018 were put on hold.
+
+Under the terms of the agreement 50 percent of the tariffs were liberalized to zero duty on day 01.
+
+...
+
+[Data](articles/76021e11.json)
 
 ---
 
@@ -1127,6 +1297,30 @@ However, the source familiar with the process said that the rescue of the remain
 [Data](articles/1feb13c5.json)
 
 [Extended Data](ext_articles/1feb13c5.ext.json)
+
+---
+
+### Sri Lanka earns billion dollars from tourism in first quarter
+
+*2024-04-08 06:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-earns-billion-dollars-from-tourism-in-first-quarter-157797/) · `en`
+
+ECONOMYNEXT – Sri Lanka has earned 1,025.9 million US dollars from tourism in the first quarter of 2024, up 103 percent from a year ago, the central bank said quoting tourism promotion authorities.
+
+Sri Lanka’s tourist arrivals went up 89 percent to 635,784 persons in the first quarter of 2024.
+
+Tourism earnings in the month were estimated at 338.4 million US dollars, up 79 percent from 118.8 a year ago.
+
+The tourism earnings figure is estimated from a survey conducted by Sri Lanka Tourism Development Authority.
+
+Sri Lanka’s imports and the merchandise trade deficit has gradually picked as tourism earnings came in and people in the sector spent the wages and other earnings.
+
+Related Sri Lanka trade deficit up 77-pct to Feb, imports surge, rupee appreciates
+
+Tourism itself requires fuel for travel and operating hotels.  (Colombo/Apr8/2024)
+
+◼️
+
+[Data](articles/54bcfa68.json)
 
 ---
 
@@ -1977,225 +2171,5 @@ Similarly, legal proceedings have been taken to surround the shops on the basis 
 [Data](articles/eb12169b.json)
 
 [Extended Data](ext_articles/eb12169b.ext.json)
-
----
-
-### Illegal sand mining
-
-*2024-04-07 22:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180651) · `ta`
-
-Illegal sand mining in Netaliyaru, Kalmadu pond, Kilinochchi, affects agriculture, destroys fields, and impacts the main river. Villagers have lodged complaints with police for protection.
-
-🟩
-
-It is reported by the villagers that illegal sand mining is taking place in the Netaliyaru area of the Kalmadu pond in Kilinochchi.
-
-They have expressed concern that illegal sand excavation is taking place on agricultural lands on the border between Mullaitivu and the Kilinochchi district and destroying their agriculture.
-
-The main river of the Kalmadu pond, which is the main river of the Kalmadu pond, is reportedly continuously in the agricultural lands of the farmers.
-
-The river, which is 30 feet deep, is currently affected by sand excavation over 50 feet. They say that the nearby fields are demolished and they are unable to carry out their farming.
-
-Several obstacles regarding the incident have been lodged with the Pudukkudiyiruppu police and the Dharmapura police and have been asked to protect their livelihoods as no action has been taken so far.
-
-◼️
-
-[Data](articles/d6ef6e1d.json)
-
-[Extended Data](ext_articles/d6ef6e1d.ext.json)
-
----
-
-### Israel reduces troops in south Gaza, Egypt to host new talks
-
-*2024-04-07 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98500/israel-reduces-troops-in-south-gaza-egypt-to-host-new-talks) · `en`
-
-Israel said on Sunday it had withdrawn more soldiers from southern Gaza, leaving just one brigade, as it and Hamas sent teams to Egypt for fresh talks over a potential ceasefire in the six-month conflict.
-
-Israel has been reducing numbers in Gaza since the start of the year to relieve reservists and is under growing pressure from its ally Washington to improve the humanitarian situation, especially after last week’s killing of seven aid workers.
-
-The military spokesperson did not give details on reasons for withdrawing soldiers or numbers involved.
-
-Both Israel and Hamas, the Islamist movement that controls Gaza, confirmed they were sending delegations to Egypt.
-
-But Prime Minister Benjamin Netanyahu warned that Israel would not bend to foreign pressure and give in to “extreme demands”.
-
-...
-
-[Data](articles/f311a3f0.json)
-
-[Extended Data](ext_articles/f311a3f0.ext.json)
-
----
-
-### Bus rolls with bridge
-
-*2024-04-07 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195410) · `si`
-
-A bus carrying garment factory employees to Delheta collided with a bridge near Hanguranketha Police Station, Deltota, this afternoon.
-
-🟩
-
-Hanguranketha Police Station, Deltota rolled against the Nolpandura area in Deltota this afternoon.
-
-The accident had taken place when a private bus is transporting a private bus to the employees of a garment factory to Delheta.
-
-◼️
-
-[Data](articles/9c622e97.json)
-
-[Extended Data](ext_articles/9c622e97.ext.json)
-
----
-
-### SJB’s economic policy managed by SLPP dissidents – President
-
-*2024-04-07 21:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98499/sjbs-economic-policy-managed-by-slpp-dissidents-president) · `en`
-
-President Ranil Wickremesinghe emphasized that the present Samagi Jana Balawegaya (SJB) lacks the policies of the United National Party (UNP), with its economic strategy now being overseen by individuals who was expurgated by the Sri Lanka Podujana Peramuna (SLPP).
-
-Additionally, President Wickremesinghe highlighted that the SJB, once poised to take control of “Sirikotha” in 2020 under the UNP banner, has now been influenced by the chairman of the SLPP and other factions.
-
-These remarks were made by President Ranil Wickremesinghe during a meeting of political party representatives convened at the President’s House in Kandy today (07). He noted that the political landscape underwent significant changes following the political turmoil in July 2022, stressing the importance of all parties, regardless of affiliation, to prioritize the nation’s interests and collaborate with the government’s agenda for progress.
-
-...
-
-[Data](articles/8eac6eac.json)
-
-[Extended Data](ext_articles/8eac6eac.ext.json)
-
----
-
-### Debate over profits of banks: Who shares them ultimately?
-
-*2024-04-07 21:49:53* · [`dailyftlk`](https://www.ft.lk/columns/Debate-over-profits-of-banks-Who-shares-them-ultimately/4-760400) · `en`
-
-No bank would pursue a goal that makes profit making a secondary objective of the bank
-
-If banks make losses, the punishments meted out to such banks would be severe. Their survival, expansion and growth would be seriously threatened by continuous losses they have made. Their capital would be eroded and, sometimes, would become negative, placing them at the receiving end of regulators and would-be investors. Hence, no bank would pursue a goal that makes profit making a secondary objective of the bank
-
-...
-
-[Data](articles/ed12f8e7.json)
-
-[Extended Data](ext_articles/ed12f8e7.ext.json)
-
----
-
-### Tv Ada will pass 5 million UTUB subscribers
-
-*2024-04-07 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195409) · `si`
-
-TV Ada reaches 5 million YouTube subscribers, marking a significant milestone in Sri Lanka's digital media landscape.
-
-🟩
-
-TV Derae Channel has been able to produce a report in Sri Lanka Digital space.
-
-The first time in the country's major media channels for the first time crossing the 5 million youtube subscribers.
-
-◼️
-
-[Data](articles/edd1c7cb.json)
-
-[Extended Data](ext_articles/edd1c7cb.ext.json)
-
----
-
-### Mumbai earned the first winning points by beating Delhi
-
-*2024-04-07 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180650) · `ta`
-
-Mumbai Indians secured their first win in the 17th IPL, defeating Delhi Capitals at Mumbai Vankade Stadium. Key players included Rohit Sharma, Ishan Kishan, Hardik Pandya, and bowlers Gerald Coyetrie and Jasprit Bumrah. Mumbai scored 234/5, with Sharma hitting 49 off 27 balls and Kishan 42 off 23 balls. Delhi capitulated for 205, with David Warner and Prithvi Shaw contributing.
-
-🟩
-
-In the 20th match of the 17th Indian Premier League chapter held at the Mumbai Vankade Stadium on Sunday (07) at the Mumbai Vankade Stadium against the Telhi Capitles team, Mumbai Indians earned the first victory points this year.
-
-Rohit Sharma, Ishan Kishan, team captain Hardik Pandya, Tim David and Romario Shepherd and the precise bowls of Gerald Coyetrie and Jasprit Bumrah led to Mumbai's first victory.
-
-Meanwhile, Suriyakumar Yadav, who has been playing as an impact player in his first match in the Mumbai team, lost his game without getting the flow.. It was a great disappointment for him.
-
-Mumbai Indians, who were first invited to bat, scored 234 runs for the loss of 5 wickets in 20 overs.
-
-Rohit Sharma and Ishan Kishan shared 80 runs in 7 overs.
-
-Rohit Sharma returned to 27 balls with 6 pounds and 3 sixes with 49 runs.
-
-On the other hand, Ishan Kishan scored 42 runs off 23 balls with 4 fours and 2 sixes.
-
-Hardik Pandya and Tim David shared 60 runs off 31 balls in 5 wickets.
-
-...
-
-[Data](articles/0f682807.json)
-
-[Extended Data](ext_articles/0f682807.ext.json)
-
----
-
-### Sri Lankan lapicity is an opportunity to see the devil's comet
-
-*2024-04-07 21:00:02* · [`adalk`](https://www.ada.lk/breaking_news/යක්ෂයාගේ-වල්ගාතරුව-දැක-ගැනීමට-ශ්‍රී-ලාකිංකයන්ටත්-අවස්ථාවක්/11-408998) · `si`
-
-Sri Lankans witness the 'Devil's Comet' today, a large comet named 12p/Pons-Brooks, visible due to its ice and gas composition. It was first observed by Chinese astronomers around 1300 and officially named by French astronomer Gene-Louis Ponn in 1883. NASA recommends viewing it today, especially during the solar eclipse in North America.
-
-🟩
-
-Astronomers say that Sri Lankans have come to see the 'Devil Windowa' today (08th). Seventy years after the scientific name of 12p / Pons-brooks, this comet is passing over the Earth.
-
-It is a large comet in a width of 18.6 miles, it is two 'hone', that is the name of the devil's comet. It has been identified that the comet is being prepared by the entirety of the ice and gas.
-
-AD. This heavant has been observed for a group of Chinese stars around 1300. Later, in the 19th century, the French astronomer, Gene-Louis Ponn, was officially identified by the British Army-stir of British American Astronomy, William Brooks, a British American Astronomy again in 1883. The name of the 12p / pons-brooks named the two of them have been added to these comet.
-
-NASA to establish NASA, "the views of the views today (8th. It is also said that when the end of the solar eclipse to take place in the North American region today, the sky is due to be visible at the time of the full eclipse.
-
-...
-
-[Data](articles/b463a095.json)
-
-[Extended Data](ext_articles/b463a095.ext.json)
-
----
-
-### Unidentified material brought from a bowl
-
-*2024-04-07 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195408) · `si`
-
-Residents of Ruwanwella handed over unidentified materials from a bowl to the media, claiming they were discarded in a canal in Amithiliigala.
-
-🟩
-
-The residents of the area handed over to the Media with the bowser of the area while they were discarded to a canal in Amithiliigala area in Ruwanwella.
-
-The residents of the area complained that the materials in the bowl had not yet been identified.
-
-◼️
-
-[Data](articles/2c370597.json)
-
-[Extended Data](ext_articles/2c370597.ext.json)
-
----
-
-### 566 killed in the guidance this year
-
-*2024-04-07 20:49:00* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-මග-මරුවාට-566ක්-බිලි/11-408997) · `si`
-
-In 2023, Sri Lanka saw 566 road accident deaths, with 541 fatal accidents and 857 serious injuries reported.
-
-🟩
-
-The Sri Lanka Medical Union emphasizes that 566 people have died due to road accidents from January 1 this year.
-
-The Association points out that 541 fatal accidents were reported during the period and 857 serious injured were reported.
-
-During the period of the year 2023, there were 512 fatal road accidents in the country and 1,577 were seriously injured in the country.
-
-◼️
-
-[Data](articles/67366c49.json)
-
-[Extended Data](ext_articles/67366c49.ext.json)
 
 ---

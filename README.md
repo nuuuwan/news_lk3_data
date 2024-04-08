@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 17:03:15**
+As of **2024-04-08 17:18:02**
 
 ## Newspaper Stats
 
-*Scraped **17,864** Articles*
+*Scraped **17,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,98 @@ newsfirstlk | 363
 dailyftlk | 972
 islandlk | 979
 economynextcom | 987
-adalk | 1,502
+adalk | 1,503
 tamilmirrorlk | 2,104
 adaderanalk | 2,153
-virakesarilk | 2,625
-dailymirrorlk | 2,726
-adaderanasinhalalk | 2,895
+virakesarilk | 2,627
+dailymirrorlk | 2,727
+adaderanasinhalalk | 2,896
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,862 (100.0%) of 17,864 articles have been extended.
+17,864 (100.0%) of 17,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தாவுக்கு நாடாளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் கண்டனம்!
+
+*2024-04-08 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180713) · `ta`
+
+கிளிநொச்சி பூநகரி பிரதேச செயலகத்திற்குட்பட்ட பொன்னாவெளி கிராமத்தில் சுண்ணக்கல் அகழ்வு க்காக கடந்த 05 ஆம் திகதி சென்றிருந்த போது கிராம மக்களால் எதிர்ப்பு தெரிவிக்கப்பட்டு திருப்பி அனுப்பப்பட்டார்.
+
+இதில் கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா எதிர்ப்பு போராட்டத்தில் கலந்துகொண்ட மக்களை தாக்கியும் உள்ளார்.
+
+இதுதொடர்பாக நாடாளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன்  ஊடகசந்திப்பொன்றை நேற்று ஞாயிற்றுக்கிழமை அறிவகத்தில் நடாத்தியிருந்தார்.
+
+கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தாவின்  நடவடிக்கைகள் இன்று நேற்று அல்ல அவர் பாராளுமன்ற உறுப்பினர்களாக இருந்த போதே தமிழர்களுடைய விரோத நடவடிக்கைகளை கொண்டவர் என்று வெளிப்படையாக எல்லோருக்கும் தெரியும் எனவும் அவருடைய சண்டித்தன அரசியல் அல்லது அடாவடி அரசியல் என்பது யாழ்ப்பாணம் மற்றும் கிளிநொச்சி என பல இடங்களில் அவர் நடந்து கொண்ட விதங்கள் மற்றும் முறைகள் எல்லோராலும் உணரபட்டவைதான் அதனால்தான் அவர் ஒரு தமிழ் தலைவராக மக்களுக்கு வரமுடியவில்லை.
+
+...
+
+[Data](articles/91b2e132.json)
+
+---
+
+### கச்ச தீவை அரசியலுக்காக கையாள்வதை தமிழகமும் இந்திய மத்திய அரசும் கைவிட வேண்டும் - வடமாகாண கடற்றொழிலாளர் இணையத்தின் செயலாளர்
+
+*2024-04-08 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180751) · `ta`
+
+இந்தியா மத்திய அரசிலும் தமிழகத்திலும் புதிதாக ஒரு நிலைப்பாடாக கச்சை தீவு விடயம்  தோன்றியுள்ளது. எனவே கச்ச தீவை அரசியலுக்காக கையாள்வதை தமிழகமும் மத்திய அரசும் கைவிட வேண்டும் என வடமாகாண கடற்றொழிலாளர் இணையத்தின் செயலாளர் என் எம்.ஆலம் தெரிவித்தார்.
+
+மன்னாரில் உள்ள அலுவலகத்தில் இன்று திட்கிழமை (8)  மதியம் இடம்பெற்ற ஊடக சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+இந்தியா மத்திய அரசிலும் தமிழகத்திலும் புதிதாக ஒரு நிலைப்பாடாக கச்சை தீவு விடயம்  தோன்றியுள்ளது. இதை அவர்கள் அரசியலுக்கு பயன்படுத்த கூறி இருந்தாலும் அங்குள்ள மீனவர்களை குறிப்பாக சட்டவிரோத மீன்பிடி நடவடிக்கைகளில் இருந்து மாற நினைக்கின்ற மீனவர்களை இத்தொழிலில் உள் வாங்கி அவர்களை உற்சாகமூட்டி மீண்டும் மீண்டும் அவர்களை சட்டவிரோத மீன்பிடி நடவடிக்கைக்கும், சட்டவிரோதமாக இலங்கை கடல் பகுதிக்குள் நுழைந்து மீன் பிடி நடவடிக்கையை முன்னெடுக்க ஆதரிப்பதாக காணப்படுகின்றது.
+
+...
+
+[Data](articles/27d62656.json)
+
+---
+
+### ගම්පහ වෙඩිතැබීමක්
+
+*2024-04-08 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195439) · `si`
+
+අද පස්වරු 4ට පමණ නාඳුනන පුද්ගලයෙකු විසින් මෙම වෙඩිතැබීම සිදුකර ඇති බව වාර්තා වෙයි.
+
+වෙඩි ප්‍රහාරයෙන් බරපතළ තුවාල ලැබූ පුද්ගලයෙකු ප්‍රතිකාර සඳහා ගම්පහ රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව ඔහු මියගොස් තිබේ.
+
+පිස්තෝල ගිනි අවියකින් මෙම වෙඩිතැබීම සිදුකර ඇති අතර ගම්පහ පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ ආරම්භ කර ඇත.
+
+◼️
+
+[Data](articles/92c80401.json)
+
+---
+
+### Committee appointment by president to protect mountain dance
+
+*2024-04-08 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180671) · `ta`
+
+President Ranil Wickremesinghe announced a committee to protect traditional mountain dances, including consulting Kandy Traditional Dancers and creating a hill country art center.
+
+🟩
+
+President Ranil Wickremesinghe said a committee would be appointed to investigate the steps to be taken to protect and maintain the dance of the hill country.
+
+The committee, which is represented by the Ministry of Cultural Affairs and the University of Arts and University, has advised to consult a representative of the Kandy Traditional Dancers, and that steps will be taken to create a hill country art center.
+
+President Ranil Wickremesinghe made this statement when he met the Kandy's traditional dancers at the Presidential House on Sunday (07).
+
+President Ranil Wickremesinghe advised the Minister of Labor Manusha Nanayakkara to investigate the pension of Kandy's traditional dancers.
+
+The President, despite being popular at home and abroad at home and abroad, focused on the lack of traditional traditions and advised the new committee to analyze it and prepare the appropriate method.
+
+...
+
+[Data](articles/c715db50.json)
+
+[Extended Data](ext_articles/c715db50.ext.json)
+
+---
 
 ### Special postal service on April 12
 
@@ -43,6 +119,8 @@ Issuing a statement, Postmaster General S. R. W. M. R. P. Sathkumara stated that
 ◼️
 
 [Data](articles/76847c1d.json)
+
+[Extended Data](ext_articles/76847c1d.ext.json)
 
 ---
 
@@ -94,23 +172,29 @@ The women on the bus said that the driver continued to speak by telephone.
 
 ---
 
-### 2024 ලංකා ප්‍රිමියර් ලීග් තරග සටහන
+### 2024 Lanka Premier League Chart
 
 *2024-04-08 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195438) · `si`
 
-2024 ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ තරග කාලසටහන නිකුත් කර තිබේ.
+The 2024 Lanka Premier League, starting July 1st, features 24 matches concluding with the final on July 22nd at Colombo R Premadasa Stadium.
 
-එහි සමාරම්භක උත්සවය ජූලි පළමුවනදා පැවැත්වෙන අතර පළමු තරගය එදිනම නුවර සහ දඹුල්ල අතර පැවැත්වෙයි.
+🟩
 
-තරගාවලිය ජූලි 22තෙක් පැවැත්වෙන අතර අවසන් තරගය සමග තරග 24ක් පැවැත්වෙනු ඇත.
+The schedule of the Lanka Premier League was issued.
 
-2024 ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ තරග මහනුවර පල්ලෙකැලේ ක්‍රීඩාංගණය, දඹුල්ල ක්‍රීඩාංගණය සහ කොළඹ ආර් ප්‍රේමදාස ක්‍රීඩාංගණවලදී පැවැත්වීමට සැලසුම් කර තිබේ.
+Its inaugural ceremony will be held in July first and the first match will be held on the same day and Dambulla.
 
-අවසන් මහා තරගය කොළඹ ආර් ප්‍රේමදාස ක්‍රීඩාංගණයේදී ජුලි මස මස 22 වනදා පැවැත්වෙනු ඇත.
+The tournament will be held until July 22 and 24 matches will be held with the final.
+
+The Kandy Pallekele Stadium, Dambulla Stadium and Colombo R Premadasa grounds are scheduled to contest 2024.
+
+The finals will be held on 22nd July at the Colombo R Premadasa Stadium.
 
 ◼️
 
 [Data](articles/d70981f0.json)
+
+[Extended Data](ext_articles/d70981f0.ext.json)
 
 ---
 
@@ -333,6 +417,22 @@ He also expressed his commitment to enacting relevant legislation in the future.
 [Data](articles/b71f16f4.json)
 
 [Extended Data](ext_articles/b71f16f4.ext.json)
+
+---
+
+### ගාසා තීරයට ශ්‍රී ලංකාවෙන් පාසලක්
+
+*2024-04-08 15:40:04* · [`adalk`](https://www.ada.lk/breaking_news/ගාසා-තීරයට-ශ්‍රී-ලංකාවෙන්-පාසලක්/11-409016) · `si`
+
+අද ශ්‍රී ලංකාවේ රාමසාන් උපවාසය සිදු කළත් ගාසා තීරයේ ඉතා කණගාටු තත්ත්වයක් උද්ගත වී තිබෙනවා. එහි මුස්ලිම් ප්‍රජාව තිස්පන්දහකගේ පමණ ජීවිත අහිමි වී තිබෙනවා. එම නිසා මෙවර ජාතික රාමසාන් උත්සවය නොපවත්වා එම මුදල් ගාසා තීරයේ මුස්ලිම් ජනතාව වෙනුවෙන් ලබාදීමට අප කටයුතු කළා.
+
+ඒ වගේම යුද්ධය අවසන් වූ පසුව ගාසා තිරයට පාසලක් ඉදිකර දීමටත් අප පොරොන්දු වී තිබෙනවා. පලස්තීන රාජ්‍යය බිඳ දැමීමට අප කිසිදා සහාය පළ කරන්නේ නැහැ. එම නිසා මෙම යුද්ධය නැවැත්වීම සඳහා අප සහයෝග ලබා දෙනවා.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මහනුවර කටුකැලේ ජුම්මා මුස්ලිම් පල්ලියේ ඊයේ (07) පැවති ඉෆ්තාර් උත්සවයට එක්වෙමිනි.
+
+◼️
+
+[Data](articles/cf4654fd.json)
 
 ---
 
@@ -2187,131 +2287,5 @@ The aircraft was about 10,000 feet at the air as the engine cover was saved. At 
 [Data](articles/76888759.json)
 
 [Extended Data](ext_articles/76888759.ext.json)
-
----
-
-### April 15 to be declared a public holiday?
-
-*2024-04-08 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98507/april-15-to-be-declared-a-public-holiday) · `en`
-
-The Cabinet of Ministers will consider whether to declare April 15 (Monday) a public holiday, given that a few of the 2024 Sinhala and Tamil New Year’s auspicious times are scheduled for April 14.
-
-Accordingly, the matter will reportedly be discussed during today’s (April 8) Cabinet meeting.
-
-This year, April 13 and 14 have seen several auspicious times for the Sinhala and Tamil New Year, while April 15, falling on a Monday, remains a typical working day.
-
-However, several parties have requested to declare next Monday (April 15) a public holiday, but no final decision has been arrived at, regarding the matter as of yet.
-
-Meanwhile, State Minister of Home Affairs Ashoka Priyantha stated that a Cabinet decision is required to declare April 15 as a public holiday. Therefore, the matter will reportedly be addressed in the Cabinet meeting scheduled for this afternoon.
-
-◼️
-
-[Data](articles/7d1da578.json)
-
-[Extended Data](ext_articles/7d1da578.ext.json)
-
----
-
-### Committee appointment by president to protect mountain dance
-
-*2024-04-08 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180671) · `ta`
-
-President Ranil Wickremesinghe announced a committee to protect traditional mountain dances, including consulting Kandy Traditional Dancers and creating a hill country art center.
-
-🟩
-
-President Ranil Wickremesinghe said a committee would be appointed to investigate the steps to be taken to protect and maintain the dance of the hill country.
-
-The committee, which is represented by the Ministry of Cultural Affairs and the University of Arts and University, has advised to consult a representative of the Kandy Traditional Dancers, and that steps will be taken to create a hill country art center.
-
-President Ranil Wickremesinghe made this statement when he met the Kandy's traditional dancers at the Presidential House on Sunday (07).
-
-President Ranil Wickremesinghe advised the Minister of Labor Manusha Nanayakkara to investigate the pension of Kandy's traditional dancers.
-
-The President, despite being popular at home and abroad at home and abroad, focused on the lack of traditional traditions and advised the new committee to analyze it and prepare the appropriate method.
-
-...
-
-[Data](articles/c715db50.json)
-
-[Extended Data](ext_articles/c715db50.ext.json)
-
----
-
-### Air Force shot dead in Moragahahena double murder
-
-*2024-04-08 10:31:35* · [`adalk`](https://www.ada.lk/breaking_news/මොරගහහේන-ද්විත්ව-ඝාතනයේ--සැකකාර-ගුවන්-සෙබළාට-පොලිසියෙන්-වෙඩි/11-409000) · `si`
-
-An airman was shot dead in Moragahahena, Talgahawila. Two suspects were killed in a chase. The suspect was taken to the Western Criminal Division. The deceased was a Padukka resident and an Air Force Rugby Team member.
-
-🟩
-
-An airman, a shot of the shot dead in Talgahawila, Moragahahena Talgahawila was killed in a three-wheeler and killing two-wheeler in Padukka, police said.
-
-Police have inspected the house in Madukka Miriyagalla area in the Padukka Madukka, Padukka Madukka, the suspect, which had been taken to the Western Criminal Division.
-
-Signs of a suspicious motorcycle while inspection of vehicles were driven to stop the motorcycle, but the suspect had been shot before the police officers.The deceased has been admitted to the Padukka Divisional Hospital.
-
-The deceased has been identified as a resident of Padukka, Padukka, and was a member of the Air Force Rugby Team.
-
-◼️
-
-[Data](articles/84c9304e.json)
-
-[Extended Data](ext_articles/84c9304e.ext.json)
-
----
-
-### SLFP Prabhabar Foundation events
-
-*2024-04-08 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195422) · `si`
-
-Senior SLFP leaders, including Chandrika Bandaranaike Kumaratunga, attended Colombo Foundation Institute events. Nimal Siripala de Silva was summoned by Mahinda Rajapakse, but the General Secretary clarified that the Senior Vice Chairman lacks legal authority to call the meeting.
-
-🟩
-
-A number of senior Sri Lanka Freedom Leaders are currently attending the Colombo Foundation Institute.
-
-Former Sri Lanka Freedom Party (SLFP chairman, Chandrika Bandaranaike Kumaratunga) was also present at the occasion.
-
-The party's senior Vice President Nimal Siripala de Silva was summoned by the party's senior Vice President Mahinda Rajapakse at 10 am today.
-
-However, the General Secretary of the party has written to Nimal Siripala de Silva that the Senior Vice Chairman of the party has not any legal ability to summon the meeting.
-
-◼️
-
-[Data](articles/f7d0eee4.json)
-
-[Extended Data](ext_articles/f7d0eee4.ext.json)
-
----
-
-### WTA Finals Women's Tennis Tournament in Saudi Arabia
-
-*2024-04-08 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180670) · `ta`
-
-The Women's Tennis Association (WTA) will host its Annual Tournament in Riyadh, Saudi Arabia from 2024 to 2026. The 2023 event, from Nov 2-9, offers $15.25M in prize money, a 70% increase from last year. The tournament features 8 singles and 8 doubles players from the world's top 4 Grand Slams. Poland's Eka Swiadek won the singles final last year in Mexico. Saudi Arabia has previously hosted a men's under-21 tournament and a women's exhibition in December. Criticism from Martina Navratilova and Chris Everd, along with allegations of human rights violations, have been raised. Despite this, the WTA's CEO, Steve Simon, supports the tournament as a catalyst for change in the region.
-
-🟩
-
-The Women's Tennis Association's Annual Tournament (WRA. Finals) To be held in Saudi Arabia.
-
-The Women's Tennis Association (WRA), a global organization managing the factory women's tennis tournament, has announced that the tournament will be held in Riyadh, Saudi Arabia from 2024 to 2026.
-
-It has been announced that this year's competition will be held from November 2 to 9 and will be paid $ 15.25 million in these competitions.. This is 70 percent higher than last year's prize money.
-
-4 Grand Slam Next to the Women's Tennis Association's Year Final Tournament (W.R.A.. Finals)
-
-Based on the matches of the year, 8 singles and 8 doubles in the world will take part in the tournament.
-
-Poland's Eka Swiadek was the champion in the singles final in Mexico last year.
-
-Next Zen ARP for men under 21 years of age last year. Saudi Arabia hosted the tennis tournament. That was the first official international tennis tournament in the country.
-
-...
-
-[Data](articles/95b9dea9.json)
-
-[Extended Data](ext_articles/95b9dea9.ext.json)
 
 ---

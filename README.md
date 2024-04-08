@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 07:54:01**
+As of **2024-04-08 08:05:57**
 
 ## Newspaper Stats
 
-*Scraped **17,727** Articles*
+*Scraped **17,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,118 @@ economynextcom | 978
 islandlk | 979
 adalk | 1,489
 tamilmirrorlk | 2,085
-adaderanalk | 2,136
+adaderanalk | 2,139
 virakesarilk | 2,590
 dailymirrorlk | 2,708
-adaderanasinhalalk | 2,871
+adaderanasinhalalk | 2,873
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,727 (100.0%) of 17,727 articles have been extended.
+17,727 (100.0%) of 17,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### දියේ ගිලී වාර්ෂිකව ජීවිත 800ක් අහිමි වෙයි
+
+*2024-04-08 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195414) · `si`
+
+දියේ ගිලීම් හේතුවෙන් දෛනිකව පුද්ගලයින් මියයෑමේ ප්‍රමාණය ඉහළ ගොස් ඇති බව සෞඛ්‍ය අමාත්‍යංශයේ බෝනොවන රෝග ඒකකයේ අනතුරු නිවාරණය සහ කළමනාකරණය පිළිබදව අංශ ප්‍රධානී ප්‍රජා වෛද්‍ය විශේෂඥ සමිත සිරිතුංග මහතා පවසයි.
+
+වාර්ෂිකව පුද්ගලයින් 800කගේ පමණ ජීවිත දියේ ගිලීම් හේතුවෙන් අහිමි වී යන බව  විශේෂඥ වෛද්‍ය සමිත සිරිතුංග මහතා කියා සිටියේය.
+
+"සාමාන්‍යයෙන් ලංකාවේ දෙන්නෙක් හෝ තුන්දෙනෙක් දියේ ගිලීම්වලට ලක්වෙලා මිය යනවා. ඒ ප්‍රමාණය අපේ තියෙන තොරතුරු එක්ක සාමාන්‍යයෙන් 700 - 800ක් අතර ප්‍රමාණයක්. අවුරුදු කාලේ මේ ප්‍රවණතාවය යම් වැඩිවීමක් දක්නට ලැබෙනවා."
+
+නුපුරුදු ස්ථානවල දිය නෑමේ දී ඒ සම්බන්ධයෙන් වැඩි සැලකිල්ලක් දැක්විය යුතු බව විශේෂඥ වෛද්‍ය සමිත සිරිතුංග මහතා පැවසුවේය.
+
+◼️
+
+[Data](articles/b5e7608f.json)
+
+---
+
+### More than 90 killed as boat sinks off Mozambique coast
+
+*2024-04-08 07:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98503/more-than-90-killed-as-boat-sinks-off-mozambique-coast) · `en`
+
+More than 90 people have died after a boat capsized off Mozambique’s northern coast, authorities say.
+
+Those aboard the boat were fleeing a cholera outbreak and were travelling from Lunga to Mozambique Island, off the coast of Nampula, local media reported.
+
+The fishing boat could accommodate a maximum of 100 people, however there were around 130 people on board, a representative of the island administration told the STV television station.
+
+“Because the boat was overcrowded and unsuited to carry passengers it ended up sinking ... There are 91 people who lost their lives,” said Nampula’s secretary of state Jaime Neto.
+
+The AIM news agency, citing a representative of the maritime authority, reported that the ship was probably wrecked when it was hit by high waves.
+
+Rescuers had found five survivors and were searching for more, but sea conditions were making the operation difficult.
+
+...
+
+[Data](articles/7d6c650e.json)
+
+---
+
+### Showers expected in several provinces and districts
+
+*2024-04-08 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98502/showers-expected-in-several-provinces-and-districts) · `en`
+
+The Meteorology Department says showers or thundershowers may occur at several places in Western, Sabaragamuwa, Southern and North-western provinces and in Monaragala, Mannar and Anuradhapura districts after 2.00 p.m.
+
+Misty conditions can be expected at some places in Western, Central and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+On the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka during 05th to 15th of April in this year.
+
+The nearest areas of Sri Lanka over which the sun is overhead today (08) are Marawila, Pothuhara, Gurukete, Kalmunai, Garthalawela and Warapitiya at about 12:12 noon.
+
+◼️
+
+[Data](articles/176fa828.json)
+
+---
+
+### Suspect in Horana double murder killed in police shootout
+
+*2024-04-08 07:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98501/suspect-in-horana-double-murder-killed-in-police-shootout) · `en`
+
+An individual has been killed in an exchange of fire with police and Special Task Force (STF) personnel at Angamuwa in Padukka, police said.
+
+The deceased has been identified as a member of the Sri Lanka Air Force who was on a motorcycle and had defied an order to stop at a checkpoint during a Police-STF operation.
+
+Police said the motorcyclist had opened fire at the police personnel and was injured when the police returned fire. However, he had died on admission to the Padukka Hospital.
+
+The person who was shot dead at Angamuwa, Padukka is suspected to be the gunman in the shooting which killed two persons at Moragahahena in Horana yesterday, police said.
+
+◼️
+
+[Data](articles/4731791d.json)
+
+---
+
+### හොරණ ද්විත්ව ඝාතන සැකකරු පොලිස් වෙඩි පහරින් මරුට
+
+*2024-04-08 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195412) · `si`
+
+පාදුක්ක, අංගමුව ප්‍රදේශයේ දී  සිදුවු වෙඩිතැබීමකින් පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+පොලිස් විශේෂ කාර්ය බළකාය සහ පොලීසිය විසින් සිදුකළ ඒකාබද්ධ මෙහෙයුමක් අතරතුර පොලිස් මාර්ග බාධකයක් අසල දී අණ නොතකා ධාවනය කළ යතුරුපැදියක් පොලීසියට වෙඩි ප්‍රහාරයක් එල්ල කර තිබේ.
+
+කෙසේවෙතත් පොලීසියට එයට ප්‍රතිප්‍රහාර එල්ල කිරීමේ දී අදාළ යතුරුපැදිකරු තුවාල ලබා රෝහල්ගත කිරීමෙන් අනතුරුව ජීවිතක්ෂයට පත්ව ඇත.
+
+එලෙස මියගොස් ඇත්තේ ශ්‍රී ලංකා ගුවන් හමුදා සෙබළෙක් බවට හඳුනාගෙන තිබේ.
+
+පොලීසිය පැවසුවේ, එම පුද්ගලයා ඊයේ (07) හොරණ තල්ගහවිල ප්‍රදේශයේ සිදුවු ද්විත්ව මනුෂ්‍ය ඝාතනය සිදුකළ ප්‍රධාන සැකකරු බවය.
+
+◼️
+
+[Data](articles/4ffc5c7b.json)
+
+---
 
 ### Heavy rains in several areas today
 
@@ -2109,101 +2207,5 @@ The injured child was admitted to Ikiniyagala Hospital. However, the hospital sp
 [Data](articles/c2e696b1.json)
 
 [Extended Data](ext_articles/c2e696b1.ext.json)
-
----
-
-### Eastern Governor Senthil Thondaman inaugurates trade centers at Chengaladi Ilupadichenai
-
-*2024-04-07 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180627) · `ta`
-
-Eastern Governor Senthil Thondaman inaugurates trade centers in Chengaladi Ilupadichenai, aiming to support local entrepreneurs. The centers, costing Rs 22 million, are now open to the public.
-
-🟩
-
-Governor of the Eastern Province, Senthil Thondaman, inaugurated the trade centers to promote local entrepreneurs in Chengaladi Ilupadichenai.
-
-The rural businesses, which were constructed at a cost of Rs 22 million, were handed over to the public for use.
-
-◼️
-
-[Data](articles/e41233a6.json)
-
-[Extended Data](ext_articles/e41233a6.ext.json)
-
----
-
-### President to appoint committee to safeguard traditional Kandyan dance
-
-*2024-04-07 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98492/president-to-appoint-committee-to-safeguard-traditional-kandyan-dance) · `en`
-
-President Ranil Wickremesinghe announced the formation of a committee tasked with preserving and maintaining the rich cultural heritage of Kandyan dancing art. This decision was made during a meeting with Kandy traditional dancers at the President’s House in Kandy this morning (07), the President’s Media Division (PMD) said.
-
-The committee will comprise representatives from relevant institutions such as the Ministry of Cultural Affairs and the University of Visual and Performing Arts. President Wickremesinghe emphasized the importance of including a representative of traditional Kandyan dancers in this committee to ensure their voices are heard and their interests represented, it added.
-
-Additionally, the President instructed Minister of Labour and Foreign Employment, Manusha Nanayakkara, to explore the possibility of providing pensions to traditional Kandyan dancers as a gesture of recognition for their invaluable contribution to the cultural heritage of Sri Lanka.
-
-...
-
-[Data](articles/6ede4791.json)
-
-[Extended Data](ext_articles/6ede4791.ext.json)
-
----
-
-### Two people who were shot dead in Horana were killed in hospital
-
-*2024-04-07 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/180633) · `ta`
-
-In Horana, two men were shot and killed in a hospital.
-
-🟩
-
-Two people were killed in a shooting incident in Horana today (07).
-
-The two men were injured and admitted to the hospital in the Horana - Talgahawa area, police said.
-
-◼️
-
-[Data](articles/9383fd93.json)
-
-[Extended Data](ext_articles/9383fd93.ext.json)
-
----
-
-### Two killed in firing
-
-*2024-04-07 14:53:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-சூட்டில்-இருவர்-பலி/175-335700) · `ta`
-
-Two people killed in a gunfight near Moragahahena Talgahawila Malos Canal junction. Victims, Rupasinghe Arachike Nayananda and Vasantha Perera, were involved in robberies.
-
-🟩
-
-The incident took place on Sunday (06) that two people were killed in a gunfight on a three -wheeler near the Moragahahena Talgahawila Malos Canal junction.
-
-Police said that the incident was died in the incident, Rupasinghe Arachike Nayananda and Vasantha Perera of Piliyandalai area.
-
-A group of a flood car has been attacked and the two injured in the shooting have died after being admitted to the Horana Base Hospital, police said.
-
-Further investigations are being carried out by the police that the two victims were involved in several robberies.
-
-◼️
-
-[Data](articles/6ca7815b.json)
-
-[Extended Data](ext_articles/6ca7815b.ext.json)
-
----
-
-### The Ugly New Face Of Terrorism
-
-*2024-04-07 14:38:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-ugly-new-face-of-terrorism/) · `en`
-
-What on earth is happening? An unprecedented election victory for Vladimir Putin followed on the morrow by a savage terrorist attack on mainly young people gathered at the Crocus concert venue on the outskirts of Moscow! The death toll is over 150 and still rising. Th number wounded of course is larger. This is the deadliest terrorist attack that Russia has suffered in 20 years.
-
-...
-
-[Data](articles/597616cf.json)
-
-[Extended Data](ext_articles/597616cf.ext.json)
 
 ---

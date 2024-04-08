@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 07:17:23**
+As of **2024-04-08 07:40:57**
 
 ## Newspaper Stats
 
-*Scraped **17,726** Articles*
+*Scraped **17,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 972
 economynextcom | 978
 islandlk | 979
 adalk | 1,489
-tamilmirrorlk | 2,084
+tamilmirrorlk | 2,085
 adaderanalk | 2,136
 virakesarilk | 2,590
 dailymirrorlk | 2,708
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,871
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,711 (99.9%) of 17,726 articles have been extended.
+17,723 (100.0%) of 17,727 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -72,6 +72,8 @@ However, the source familiar with the process said that the rescue of the remain
 
 [Data](articles/1feb13c5.json)
 
+[Extended Data](ext_articles/1feb13c5.ext.json)
+
 ---
 
 ### Fcode Labs introduces power of AI in coaching
@@ -88,6 +90,8 @@ The rise in mental health and corporate coaching clientele is outpacing the avai
 
 [Data](articles/2b25cdd3.json)
 
+[Extended Data](ext_articles/2b25cdd3.ext.json)
+
 ---
 
 ### Nalanda Innovation Hub to catalyse entrepreneurship and sustainability in Ratnapura
@@ -101,6 +105,8 @@ Founded by Visaka Ellawala, the Nalanda Innovation Hub pays homage to the late M
 ...
 
 [Data](articles/c1164f19.json)
+
+[Extended Data](ext_articles/c1164f19.ext.json)
 
 ---
 
@@ -117,6 +123,8 @@ The cumulative losses of key 52 SOE’s in 2022 amounted to LKR 744.6Bn, costing
 ...
 
 [Data](articles/16f6caf3.json)
+
+[Extended Data](ext_articles/16f6caf3.ext.json)
 
 ---
 
@@ -135,6 +143,8 @@ The revised advisory no longer includes previous concerns regarding shortages of
 ...
 
 [Data](articles/c3cbdfbb.json)
+
+[Extended Data](ext_articles/c3cbdfbb.ext.json)
 
 ---
 
@@ -212,6 +222,8 @@ Indunil Bandara, Convener of the Youth for Renewable Energy Organization voiced 
 
 [Data](articles/70523998.json)
 
+[Extended Data](ext_articles/70523998.ext.json)
+
 ---
 
 ### Chinese construction company Zhong Wei upbeat about SL growth prospects, opens office in Colombo
@@ -225,6 +237,8 @@ Chairman of the company, Luo Xiaolan said that they are keen to involve in mega 
 ...
 
 [Data](articles/8b386a69.json)
+
+[Extended Data](ext_articles/8b386a69.ext.json)
 
 ---
 
@@ -244,6 +258,8 @@ Themed ‘Vision Beyond Borders,’ the LankaPay Technnovation Awards hosted by 
 
 [Data](articles/8cdb801f.json)
 
+[Extended Data](ext_articles/8cdb801f.ext.json)
+
 ---
 
 ### Sri Lanka forex reserves improving, but global oil prices keep increasing
@@ -259,6 +275,8 @@ The situation, therefore, appears to remain ambivalent for Sri Lanka as the cost
 ...
 
 [Data](articles/bcefd017.json)
+
+[Extended Data](ext_articles/bcefd017.ext.json)
 
 ---
 
@@ -474,6 +492,8 @@ In 2023, the country saw little over 1.4 million arrivals generating a little ov
 
 [Data](articles/2c273f2b.json)
 
+[Extended Data](ext_articles/2c273f2b.ext.json)
+
 ---
 
 ### How to miss five industrial revolutions
@@ -613,6 +633,26 @@ Additionally, payments of US$ 22.3 million have been made to the European Invest
 ...
 
 [Data](articles/e0f032f9.json)
+
+[Extended Data](ext_articles/e0f032f9.ext.json)
+
+---
+
+### மலைநாட்டு நடனத்தை பாதுகாக்க குழு நியமிப்பு
+
+*2024-04-08 00:17:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலைநாட்டு-நடனத்தை-பாதுகாக்க-குழு-நியமிப்பு/175-335723) · `ta`
+
+மலைநாட்டு நடனக் கலையைப் பாதுகாத்து, தொடர்ந்து பேணுவதற்கு எடுக்கப்பட வேண்டிய நடவடிக்கைகள் குறித்து ஆராய குழுவொன்று நியமிக்கப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+கலாச்சார அலுவல்கள் அமைச்சு, கட்புல அரங்கேற்றக் கலைகள் பல்கலைக்கழகம் உள்ளிட்ட நிறுவனங்களைப் பிரதிநிதித்துவப்படுத்தி நியமிக்கப்படும் இந்தக் குழுவில் கண்டி பாரம்பரிய நடனக் கலைஞர்களின் பிரதிநிதி ஒருவரை இணைத்துக் கொள்ள ஆலோசனை வழங்கப்பட்டுள்ளது எனவும் மலைநாட்டு கலை மையமொன்றை உருவாக்க நடவடிக்கை எடுப்பதாகவும் ஜனாதிபதி தெரிவித்தார்.
+
+கண்டி ஜனாதிபதி மாளிகையில் நேற்று கண்டி பாரம்பரிய நடன கலைஞர்களைச் சந்தித்த போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க இவ்வாறு குறிப்பிட்டார்.
+
+கண்டியின் பாரம்பரிய நடனக் கலைஞர்களுக்கு ஓய்வூதியம் வழங்குவது குறித்து ஆராயுமாறும் தொழில் அமைச்சர் மனுஷ நாணயக்காரவுக்கு ஜனாதிபதி ரணில் விக்கிகிரமசிங்க ஆலோசனை வழங்கினார்.
+
+...
+
+[Data](articles/0b3f5ece.json)
 
 ---
 
@@ -2157,27 +2197,5 @@ What on earth is happening? An unprecedented election victory for Vladimir Putin
 [Data](articles/597616cf.json)
 
 [Extended Data](ext_articles/597616cf.ext.json)
-
----
-
-### New Zealand tightens visa rules amid near record migration
-
-*2024-04-07 14:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/New-Zealand-tightens-visa-rules-amid-near-record-migration/107-280324) · `en`
-
-April 7 (Reuters) - New Zealand said on Sunday that it was making immediate changes to its employment visa program after a near record migration last year which it said was "unsustainable".
-
-The changes include measures such as introducing English language requirement for low skilled jobs and setting a minimum skills and work experience threshold for most employer work visas. The maximum continuous stay for most low skilled roles will also be reduced to three years from five years.
-
-"The Government is focused on attracting and retaining the highly skilled migrants such as secondary teachers, where there is a skill shortage," Immigration Minister Erica Stanford said in a statement.
-
-"At the same time we need to ensure that New Zealanders are put to the front of the line for jobs where there are no skills shortages," she said.
-
-Last year, a near record 173,000 people migrated to New Zealand, the statement said.
-
-...
-
-[Data](articles/6af37709.json)
-
-[Extended Data](ext_articles/6af37709.ext.json)
 
 ---

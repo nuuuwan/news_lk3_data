@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 16:05:14**
+As of **2024-04-08 16:18:21**
 
 ## Newspaper Stats
 
-*Scraped **17,852** Articles*
+*Scraped **17,857** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,106 @@ newsfirstlk | 363
 dailyftlk | 972
 islandlk | 979
 economynextcom | 987
-adalk | 1,500
+adalk | 1,502
 tamilmirrorlk | 2,104
-adaderanalk | 2,151
-virakesarilk | 2,619
+adaderanalk | 2,152
+virakesarilk | 2,620
 dailymirrorlk | 2,726
-adaderanasinhalalk | 2,893
+adaderanasinhalalk | 2,894
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,847 (100.0%) of 17,852 articles have been extended.
+17,852 (100.0%) of 17,857 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### மன்னாரில் இடம்பெற்ற விபத்தில் இளைஞன் பலி
+### නවසීලන්තයට යන්න සිහින දකින අයට විශේෂ ආරංචියක්
+
+*2024-04-08 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195437) · `si`
+
+"තිරසාර නොවන" සංක්‍රමණ වැඩිවීමට ප්‍රතිචාර වශයෙන් රැකියා වීසා නීති දැඩි කිරීමට නවසීලන්තය පියවර ගෙන ඇති බව ජාත්‍යන්තර මාධ්‍ය පවසයි.
+
+අඩු නිපුණතා සහිත අයදුම්කරුවන්ට දැන් ඉංග්‍රීසි භාෂා අවශ්‍යතා සපුරාලිය යුතු අතර ඔවුන්ට එරට රැඳී සිටීමට අවසර ලැබෙන්නේ වසර තුනක් පමණි. මීට පෙර එවැනි පුද්ගලයින් සඳහා වසර 5ක කාලයක් නවසීලන්තයේ රැඳී සිටීමට අවසර ලැබුණි.
+
+"ආර්ථිකය නැවත ගොඩනැගීම සඳහා මෙම රජයේ සැලැස්මට මෙරට ආගමන ක්‍රමවේදය නිවැරදිව පවත්වාගැනීම ඉතා වැදගත්," ආගමන අමාත්‍ය එරිකා ස්ටැන්ෆර්ඩ් පැවසුවාය.
+
+දැඩි කර ඇති නීති යටතේ, බොහෝ රැකියා වීසා සඳහා අයදුම්කරුවන් කුසලතා සහ සේවා පළපුරුද්ද සම්බන්ධ වූ අවශ්‍යතා සපුරාලිය යුතුය.
+
+සංක්‍රමණිකයන්ට රැකියාවක් පිරිනැමීමට පෙර ඔවුන් නිශ්චිත අවශ්‍යතා සපුරා ඇති බව සහතික කිරීම හාම්පුතුන්ගේ වගකීම බව නවසීලන්ත බලධාරීන් පවසයි.
+
+එසේම කඩිනමින් එරට පුරවැසිභාවය ලබාගැනීමට අවස්ථාව ලැබෙන ලෙස හඳුනාගත් වෘත්තීන් සඳහා තවත් වෘත්තීන් 11ක් එක් කිරීමට බලධාරීන් සැලසුම් කර තිබූ අතර එම සැලසුම අත්හැර දැමීමට ඔවුන් මේ වනවිට තීරණය කර ඇති බව සඳහන් ය.
+
+◼️
+
+[Data](articles/5deaf942.json)
+
+---
+
+### New Zealand tightens visa rules due to ‘unsustainable’ migration
+
+*2024-04-08 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98517/new-zealand-tightens-visa-rules-due-to-unsustainable-migration) · `en`
+
+New Zealand has tightened work visa rules in response to “unsustainable” migration levels, say authorities.
+
+Low-skilled applicants now have to fulfil English-language requirements and are allowed to stay on for three years - down from five previously.
+
+“Getting our immigration settings right is critical to this government’s plan to rebuild the economy,” said Immigration Minister Erica Stanford.
+
+A near-record 173,000 people migrated to New Zealand last year.
+
+Under the tightened rules, applicants for most work visas now have to fulfill requirements for skills and work experience.
+
+Employers are responsible for ensuring that migrants meet the specified requirements before offering them a job.
+
+Authorities have also decided to axe earlier plans to add 11 roles, such as welders, fitters and turners, to the list of occupations that would qualify for a fast track to residency.
+
+...
+
+[Data](articles/d41fe010.json)
+
+---
+
+### பூண்டுலோயா நகரில் மருந்தகமொன்றில் தீ விபத்து!
+
+*2024-04-08 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180731) · `ta`
+
+பூண்டுலோயா பிரதான நகரில் தனியார் மருத்தகம் ஒன்றில் தீ விபத்து ஏற்பட்டுள்ளது. குறித்த சம்பவம் நேற்று சனிக்கிழமை (06) இரவு இடம்பெற்றுள்ளது.
+
+மருந்தகத்தில் ஏற்பட்ட மின்னொழுக்கு காரணமாக இந்த   தீ விபத்து இடம் பெற்றிருக்கலாம் என ஆரம்ப கட்ட விசாரனையின் மூலம் தெரியவருகிறது.
+
+இதன்போது, மருந்தகத்தில் வைக்கப்பட்டிருந்த மருந்துகள் உட்பட பொருட்கள், தளபாடங்களிற்கு சேதம் ஏற்பட்டுள்ளதாகவும் சேத விபரம் இதுவரை தெரியவரவில்லை. எனவும் பொலிஸார் தெரிவித்தனர்.
+
+மேலும், தீ விபத்து தொடர்பான காரணங்களை கண்டறியவும் மேலதிக விசாரணைகளை முன்னெடுக்கவும் பூண்டுலோயா பொலிஸாரும், நுவரெலியா தடயவியல் பிரிவினரும் இணைந்துள்ளனர்
+
+◼️
+
+[Data](articles/715cef72.json)
+
+---
+
+### Youth killed in accident in Mannar
 
 *2024-04-08 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180728) · `ta`
 
-மன்னார்  - தாழ்வுபாடு பிரதான வீதி ரெலிக்கொம் சந்திக்கு அருகாமையில் நேற்று ஞாயிற்றுக்கிழ (7) மாலை இடம்பெற்ற விபத்தில் மன்னாரில் உணவகத்தில் பணியாற்றிவந்த 22 வயதான இளைஞன் பரிதாபமாக மரணமடைந்துள்ளார்.
+A 22-year-old restaurant worker in Mannar died in an accident near Mannar-Thavapadu road on Sunday evening. He had been working in the area for six years.
 
-இவர் கடந்த 6 வருடங்களுக்கு மேலாக மன்னார் மாவட்டத்தில் தொழில் நிமித்தம் உணவகங்களில் தொழிலாளியாக பணிபுரிந்து வந்த நிலையில் நேற்றைய தினம் மாலை குறித்த விபத்து இடம்பெற்றுள்ளது.
+🟩
 
-விபத்து இடம் பெற்று சிகிச்சைக்காக மன்னார் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட நிலையில் இளைஞன் பலியாகியுள்ளார்.
+A 22 -year -old youth who was working at a restaurant in Mannar has died tragically in a accident which took place on Sunday evening (7) evening near the Mannar -Thavapadu main road.
+
+He had been working as a worker at restaurants in Mannar district for the past six years.
+
+The youth has been taken to Mannar Hospital for treatment of an accident.
 
 ◼️
 
 [Data](articles/a5667d08.json)
+
+[Extended Data](ext_articles/a5667d08.ext.json)
 
 ---
 
@@ -62,57 +132,91 @@ He also expressed his commitment to enacting relevant legislation in the future.
 
 [Data](articles/b71f16f4.json)
 
+[Extended Data](ext_articles/b71f16f4.ext.json)
+
 ---
 
-### இனவெறி என்பது தேசப்பற்றில்லை ; தேர்தல் சீர்திருத்தங்களை தற்போது நடைமுறைப்படுத்தப்போவதில்லை - விஜயதாச ராஜபக்ஷ
+### Racism is not patriotic;Vijayadasa Rajapaksa is not going to implement election reforms
 
 *2024-04-08 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/180726) · `ta`
 
-தேர்தல் சீர்திருத்தங்கள் தொடர்பான உத்தேச அரசமைப்பு திருத்தங்களை தற்போதைய நாடாளுமன்றத்தின் காலத்தில் நடைமுறைப்படுத்தப்போவதில்லை என தெரிவித்துள்ள நீதியமைச்சர் விஜயதாச ராஜபக்ஷ அதுவரை உத்தேச திருத்தங்கள் தொடர்பில் கலந்துரையாடல்கள் இடம்பெறும் எந்த வேட்பாளரும் கட்சியும் தங்களின் தேர்தல் வேட்புமனுவில் தங்களின் நிலைப்பாட்டை தெரிவிக்கலாம் எனவும் குறிப்பிட்டுள்ளார்.
+Justice Minister Vijayadasa Rajapaksa opposes implementing election reforms in the current Parliament. President Ranil Wickremesinghe's constitutional amendments, including the 20th Amendment, aimed to reform elections but have not achieved expected changes. The Cabinet has approved changes to the parliamentary election law to introduce a mixed electoral system, but this policy has not been approved by the Cabinet. The focus should be on the rule of law and economic recovery. The government's new laws, without proper consultation, may not benefit as expected. Expectations for the presidential election include a patriotic, honest leader who prioritizes the distressed people.
 
-கேள்வி ;  ஜனாதிபதி ரணில்விக்கிரமசிங்க தனது ஆட்சிக்காலத்தில் முன்னெடுக்கப்பட்ட பல அரசமைப்பு திருத்தங்கள் குறித்து சமீபத்தில் குறிப்பிட்டார். இந்த திருத்தங்கள் எதிர்பார்க்கப்பட்ட மாற்றங்களை ஏற்படுத்தியுள்ளனவா?
+🟩
 
-அதில் ஒன்று தேர்தல் திருத்தங்கள் தொடர்பானது இது குறித்து கடந்தகாலங்களில் பல பரிந்துரைகள் முன்வைக்கப்பட்டன 13 வருடங்கள் ஆராய்ந்த பின்னர் தினேஸ் குணவர்த்தன குழு பரிந்துரையை முன்வைத்தது.
+Justice Minister Vijayadasa Rajapaksa said that the proposed constitutional amendments to the election reforms will not be implemented during the present Parliament, ”he said.
 
-இதன் பின்னர் 2015 இல் நாங்கள் அரசமைப்பின் 20 வது திருத்தத்தை கொண்டுவந்தோம். ஆனால் அது நிறைவேற்றப்படவில்லை.
+Question;President Ranil Wickremesinghe recently referred to the several constitutional amendments made during his tenure.. Has these amendments have made expected changes?
 
-நாடாளுமன்றத்தை விட மேலான செனெட்  என்ற யோசனையையும் நான் முன்வைத்தேன் அது  ஒரு மேற்பார்வை அமைப்பு-இது ஒரு ஆலோசனை அதிகாரசபை.
+One of them was the election amendments, and many recommendations were made in the past.
+
+After this we introduced the 20th Amendment of the Constitution in 2015. But it was not fulfilled.
+
+I also put forward the idea of Senate than Parliament.
+
+Question;The Cabinet has given permission to make changes to the parliamentary election law to introduce a mixed electoral system - how can it affect minority parties?
+
+Answer;The Cabinet has not approved it. The policy has been accepted.
+
+The second idea I put forward is a mixing election.
+
+Question;What is happening in the country's decisive moment when considering the upcoming presidential election?
 
 ...
 
 [Data](articles/180d149b.json)
 
+[Extended Data](ext_articles/180d149b.ext.json)
+
 ---
 
-### இணையத்தில் போலிப் பிரசாரம் முன்னெடுப்பு : மூவரை நீதிமன்றில் ஆஜராகுமாறு பணிப்பு
+### Fake campaign initiative on the Internet: Three to appear in court
 
 *2024-04-08 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180725) · `ta`
 
-டிஜிட்டல் மற்றும்  ஒன்லைன்  ஊடாக  கடன் வழங்கும் நிதி நிறுவனத்தை அவமதிக்கும் வகையில் தவறான மற்றும் சட்டவிரோத கருத்துக்களை  இணையத்தில் வெளியிட்ட  மூன்று சமூக செயற்பாட்டாளர்களுக்கு எதிராக  அத்தனகல்ல மாவட்ட நீதிமன்றத்தில் ஐந்து வழக்குகள் தாக்கல் செய்யப்பட்டுள்ளன.
+Three social activists face court for false online comments against financial institutions, with companies filing cases for 4250 million rupees. The defendants, Veyankoda, Gampola, and Mahavai, are accused of insulting Dala, Cashx, Loanme, Lotus Credit, and SF Group. The petitions, filed through the Sudhath Perera Law Institute, demand 500 million rupees each from the defendants and 350 million for damages. The case is being handled in multiple countries.
 
-டிஜிட்டல் ஆல்டர்நேட்டிவ் லெண்டிங் அசோசியேஷன் (DALA) சங்கத்தில் உள்ள நிறுவனங்களால் இந்த வழக்குப் பதியப்பட்டுள்ளதோடு வெயங்கொடை, கம்பளை மற்றும் மஹவயைச் சேர்ந்த மூவருக்கு எதிராகவே இந்த வழக்குகள் தாக்கல் செய்யப்பட்டுள்ளன.
+🟩
 
-டலா நிறுவனத்தைச் சேர்ந்த ஏ வி பிஸினஸ் சொலூசன் கேஷ் (A V Business Solutions - CashX), பின்டெக் சொப்ட்வெயார் (Fintech Software Solutions - Loanme), செபர் சொலூசன் தனியார் நிறுவனம் - லோடஸ் கடன் (Zephyr Solutions (Pvt) Ltd.- Lotus Loan),ஒன்கிரடிட் (Oncredit) மற்றும் எஸ்.எப்.குரூப் (S F Group-Fino.lk)  என்பனவே இந்த வழக்குகளை தாக்கல் செய்துள்ளன.
+Five cases have been filed in the Attanagalla district court against three social activists who have issued false and illegal comments on the Internet to insult the financial institution by digital and online.
+
+The case has been filed by companies at the Digital Authorized Lending Association (Dala) Association and these cases have been filed against the trio of Veyankoda, Gampola and Mahavai.
+
+AV Business Solutes - Cashx, Fintech Software Solutions - Loanme, Sebar Solusan Private Company - Lotus Credit (Lotus Lotus Lotus)And SF Group (S F Group-Fino.lk) has filed these cases.
+
+The petitions have been filed for 4250 million rupees from the defendants and the petitions have been reported on Facebook and social media against these companies lending through ONLINE via online.
+
+500 million rupees each from each defendant for this purpose and 350 million rupees has been compensated for the damage.. These petitions have been filed through the Sudhath Perera Law Institute.
 
 ...
 
 [Data](articles/81ea2174.json)
 
+[Extended Data](ext_articles/81ea2174.ext.json)
+
 ---
 
-### கர்ப்பிணித் தாய்மார்களுக்கு வழங்கப்படும் போசாக்குணவுத் திட்டத்தை கேலிக்கையாக நோக்க  வேண்டாம்  - சஜித் பிரேமதாச
+### Do not mock the nutritional program offered to pregnant mothers - Sajith Premadasa
 
 *2024-04-08 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180721) · `ta`
 
-கர்ப்பிணித் தாய்மார்களுக்கு வழங்கப்படும் போசாக்குணவுத் திட்டம் மிகவும் முக்கியமானது. தாய்மார்கள் மற்றும் வயிற்றில் இருக்கும் குழந்தைகள் ஆரோக்கியமாக வாழ்வதற்கான உரிமையை இது உறுதிப்படுத்துகிறது. எனவே இதனை வெறுமனே இலவசமாக பகிர்ந்தளிக்கும் திட்டமொன்று என கேலிக்கையாக நோக்க  வேண்டாம் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Sajith Premadasa emphasizes the importance of the nutritional program for pregnant mothers, ensuring healthy children. He criticizes mocking it as a mere distribution plan, highlighting its role in social services and health care. Premadasa notes the program's history, started with World Bank support in 2001 but halted by a regime change in 2004, only to be resumed by the government. He advocates for the inclusion of women, children, and education rights in the constitution's fundamental rights, aiming to protect mothers with healthy food to combat malnutrition.
 
-பெண்களின் ஆரோக்கியத் துவாய் சுகாதார பிரச்சினை குறித்து தான் பேசியபோது சேறு பூசினர். இது குறித்து எமது குரல் தொடர்ந்து ஒலித்ததால், தற்போது பாடசாலை மாணவிகளுக்கு ஆரோக்கியத் துவாய் வசதிகளை ஏற்படுத்திக் கொடுக்க அரசாங்கம் முடிவு செய்துள்ளது. இதுவும் சமூக சேவை  போன்றதொரு திட்டமே என்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+🟩
 
-தேர்தல் வருடத்தில் இதுபோன்ற திட்டத்தை அரசாங்கம் செயல்படுத்தினாலும், பொறாமை கொள்ளாது ஆரோக்கியத் துவாய் திட்டத்தை அரசாங்கம் செயல்படுத்துவதில் தான் மகிழ்ச்சியடைவதாகவும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+The nutritional scheme offered to pregnant mothers is very important. It ensures the right to live healthy children in mothers and stomachs. Therefore, the opposition leader said that it should not be mocked as a simply distribution plan.
+
+The muddy washed when she talked about the health problems of women. As our voice continues to sound, the government has decided to provide health care facilities for school children.. Opposition leader Sajith Premadasa said that this is a social service like a social service.
+
+The opposition leader said that even if the government implemented such a plan during the election year, the government is happy to be implementing the health of the health.
+
+Opposition Leader Sajith Premadasa Premadasa said this while addressing the gathering of rice packs for 532 pregnant mothers in Hangwella area on Sunday (07).
 
 ...
 
 [Data](articles/acfd40e2.json)
+
+[Extended Data](ext_articles/acfd40e2.ext.json)
 
 ---
 
@@ -300,6 +404,22 @@ While the CBSL data shows Sri Lanka's foreign reserves reached US $ 5 billion, i
 
 ---
 
+### ඉල්ලපු වෙනස තමයි මේ දෙන්න හදන්නෙ
+
+*2024-04-08 14:40:22* · [`adalk`](https://www.ada.lk/breaking_news/ඉල්ලපු-වෙනස-තමයි-මේ-දෙන්න-හදන්නෙ/11-409013) · `si`
+
+රට තුළ නව ආර්ථිකයක් නිර්මාණය කරන්නේ තරුණ පරපුර ඉල්ලා සිටින වෙනස ලබා දෙමින් රට ශීඝ්‍ර සංවර්ධනයක් කරා ගෙන යාමට බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+එම නව ආර්ථිකය ඇති කිරීමට අදාළ මුලික නීති ලබන මැයි මාසයේදී පාර්ලිමේන්තුවට ඉදිරිපත් කර ජුනි මාසයේදී සම්මත කර ගන්නා බවද ජනාධිපතිවරයා සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව ප්‍රකාශ කළේ ඊයේ (07) මහනුවර ජනාධිපති මන්දිරයේ පැවැති“ මගෙන් පටන්ගමු මහනුවර දිස්ත්‍රික් තරුණ සමුළුව“ අමතමිනි.
+
+◼️
+
+[Data](articles/9b52017a.json)
+
+---
+
 ### Kamindu Mendis named ICC Players of the Month
 
 *2024-04-08 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98515/kamindu-mendis-named-icc-players-of-the-month) · `en`
@@ -445,6 +565,26 @@ They have two sons Linga and Yatra. It is noteworthy that Dhanush and Aishwarya 
 [Data](articles/57e30975.json)
 
 [Extended Data](ext_articles/57e30975.ext.json)
+
+---
+
+### විනෝද වෙන්න ගිය ගමන මරණයකින් කෙළවර වෙයි
+
+*2024-04-08 14:24:05* · [`adalk`](https://www.ada.lk/breaking_news/විනෝද-වෙන්න-ගිය-ගමන-මරණයකින්-කෙළවර-වෙයි/11-409010) · `si`
+
+වැල්ලවාය-බුත්තල මාර්ගයේ වැල්ලවාය නගරය ආසන්නයේ පිහිටි තෙල් පිරවුම්හලක් අසලදී අද අලුයම ටිපර්රථයක් සහ ත්‍රීවීල්රථයක් ගැටීමෙන් සිදුවූ රියඅනතුරකින් අවුරුදු 02 මාස 08 දරුවෙක් මියගොස් ඇතැයි වැල්ලවාය පොලීසිය පවසයි.
+
+වැල්ලවාය නගරයේ පැවති සංගීත සංදර්ශනයක් නැරඹීමට මෙම දරුවා, දරුවාගේ පියා සහ මව සමඟ වැල්ලවායට ගොස් එන අතරමඟදී බුත්තල සිට වැල්ලවාය දෙසට ධාවනය වෙමින් තිබූ ටිපර්රථයක් ත්‍රීවීල්රථයේ ගැටීමෙන් එහි රියදුරු ලෙස කටයුතු කළ පියාත් පිටුපස අසුනේ සිටි මව සහ දරුවාත් තුවාල ලබා වැල්ලවාය මූලික රෝහලට ඇතුලත්කිරීමෙන් අනතුරුව ආනපල්ලම පදිංචි විනෝද් බණ්ඩාර (අවු 02 මාස 08) දරුවා මියගොස් ඇත.
+
+පියා වැල්ලවාය මූලික රෝහලේ ප්‍රතිකාර ලබන අතර මව මොනරාගල දිස්ත්‍රික් මහ රෝහලේ ප්‍රතිකාරලබමින් පසුවේ.
+
+වැල්ලවාය ආනපල්ලම පදිංචි මෙම පිරිස  ත්‍රීවීල්රථයෙන් වැල්ලවාය නගරයේ පැවති සංගීත සංදර්ශනයක් නරඹා නිවසට ආපසු යමින් සිටියදී බුත්තල සිට වැල්ලවාය දෙසට ධාවනයවෙමින් ටිපර්රථය ඉදිරියෙන් පැමිණි ත්‍රීවීල්රථයේ ගැටී ඇත.
+
+එම අවස්ථාවේ ත්‍රීවීල්රථයේ පිටුපස අසුනේ මවගේ ඇකයේ සිටි දරුවා පාරට විසිවී හිස පොළොවේ වැදී තිබේ.
+
+...
+
+[Data](articles/09a67d04.json)
 
 ---
 
@@ -2141,125 +2281,5 @@ The Colombo Stock Exchange opened up. The All Share Price Index was up 0.71 perc
 [Data](articles/e306f66a.json)
 
 [Extended Data](ext_articles/e306f66a.ext.json)
-
----
-
-### Murder in a garage in a temple
-
-*2024-04-08 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195419) · `si`
-
-A 42-year-old from Menikhinna was found murdered in a garage in Kandy's Gulamba area. Kandy police arrested a civilian bodyguard and are investigating further.
-
-🟩
-
-The body of suspicion was found in the Gulamba area in Kandy.
-
-Investigations have commenced on information received by the Kandy police station to the Kandy police station.
-
-The police station officials were tied to the incident and tied up the deceased and a cord, police said.
-
-The victim was a 42 year old resident of the Menikhinna area.
-
-A civilian bodyguard deployed for the safety of the temple was arrested and the Kandy Police are conducting further investigations.
-
-◼️
-
-[Data](articles/db015bf3.json)
-
-[Extended Data](ext_articles/db015bf3.ext.json)
-
----
-
-### A man arrested for 10 kg of explosives in Poonakari
-
-*2024-04-08 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180661) · `ta`
-
-A man was arrested in Poonakari for smuggling 10 kg of C-4 ammunition on a motorcycle.
-
-🟩
-
-According to the confidential information received by the Poonakari police that a person from Kilinochchi - Poonakari area was smuggled into a motorcycle, the police took special action and arrested a man on a motorbike.
-
-Police recovered 10 kg of C -4 ammunition from the person.
-
-It is noteworthy that the police have carried out investigations and detained the man and detained at the Poonakari police station.
-
-◼️
-
-[Data](articles/f671ca60.json)
-
-[Extended Data](ext_articles/f671ca60.ext.json)
-
----
-
-### SLAF launches separate probe after corporal killed in police fire
-
-*2024-04-08 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98505/slaf-launches-separate-probe-after-corporal-killed-in-police-fire) · `en`
-
-The Sri Lanka Air Force confirmed that an SLAF Volunteer Corporal of the Rugby pool died in an exchange of fire with police officers in Padukka.
-
-The Sri Lanka Air Force (SLAF) is conducting a separate inquiry into the incident, according to the SLAF Spokesman.
-
-The SLAF said it is aware of an incident this morning involving an SLAF corporal attached to Air Force Rugby pool at a police checkpoint in Padukka, which has resulted in his death. The Commander of the Air Force has initiated an inquiry into the incident, Group Captain Dushan Wijesinghe said.
-
-The SLAF Director Media stated that preliminary findings point to an exchange of fire between the SLAF corporal (volunteer) and the police officers who were at the check point. According to the information of Police, the injured Corporal who was off duty, had succumbed to his injuries once hospitalised.
-
-...
-
-[Data](articles/299201f1.json)
-
-[Extended Data](ext_articles/299201f1.ext.json)
-
----
-
-### Sri Lanka begins implementing Singapore free trade deal
-
-*2024-04-08 09:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-begins-implementing-singapore-free-trade-deal-157799/) · `en`
-
-ECONOMYNEXT – Sri Lanka has begun implementing a free trade agreement with Singapore as part of efforts to improve market access, diversify market and draw investments, the island’s top trade negotiator said.
-
-Sri Lanka’s government’s policy was that to achieve economic growth, export market access had to be increased, products had to be diversified and investment had to be attracted, K J Weerasinghe, Chief Negotiator, International Trade Office at the Presidential Secretariat said.
-
-Sri Lanka is playing a catch-up game with the rest of Asia, he told a business forum organized by the Import Section of Sri Lanka’s Ceylon Chamber of Commerce.
-
-Vietnam and Singapore already had 19 free trade agreements in place and India 15.
-
-Negotiations initiated or agreements signed by Sri Lanka in 2017-2018 were put on hold.
-
-Under the terms of the agreement 50 percent of the tariffs were liberalized to zero duty on day 01.
-
-...
-
-[Data](articles/76021e11.json)
-
-[Extended Data](ext_articles/76021e11.ext.json)
-
----
-
-### Mozambique ferry disaster kills more than 90
-
-*2024-04-08 09:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mozambique-ferry-disaster-kills-more-than-90/108-280374) · `en`
-
-Mozambique (BBC) - More than 90 people have died after a ferry sank off the north coast of Mozambique, local authorities say.
-
-Officials in Nampula province said five people had been rescued of the around 130 believed to have been on board.
-
-They were fleeing a cholera outbreak, Nampula Secretary of State Jaime Neto said. Many children were among the dead, he added.
-
-"Because the boat was overcrowded and unsuited to carry passengers it ended up sinking," Mr Neto said.
-
-Unverified video posted on social media purported to show dozens of bodies lying on a beach.
-
-The boat was apparently travelling from Lunga to Mozambique Island, off the coast of Nampula.
-
-Nampula province has been one of the worst-affected by the cholera outbreak which has spread over several countries in southern Africa since January last year.
-
-According to Unicef, the current outbreak is the worst in 25 years. Since October 2023, Mozambique has reported 13,700 confirmed cases and 30 deaths.
-
-...
-
-[Data](articles/634a2390.json)
-
-[Extended Data](ext_articles/634a2390.ext.json)
 
 ---

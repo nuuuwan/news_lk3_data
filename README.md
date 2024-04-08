@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 13:34:04**
+As of **2024-04-08 13:53:15**
 
 ## Newspaper Stats
 
-*Scraped **17,813** Articles*
+*Scraped **17,824** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,59 +14,235 @@ dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 972
 islandlk | 979
-economynextcom | 984
-adalk | 1,495
-tamilmirrorlk | 2,096
+economynextcom | 987
+adalk | 1,497
+tamilmirrorlk | 2,097
 adaderanalk | 2,148
-virakesarilk | 2,607
-dailymirrorlk | 2,723
-adaderanasinhalalk | 2,888
+virakesarilk | 2,610
+dailymirrorlk | 2,724
+adaderanasinhalalk | 2,889
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,810 (100.0%) of 17,813 articles have been extended.
+17,813 (99.9%) of 17,824 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### හරක් කටා පහසුකම් රැසක් ඉල්ලයි - පැමිණිල්ලේ ප්‍රතිචාරය
+### சஜித்துக்கு ஆதரவு தெரிவுக்கும் 6 பேர் மீது பொதுஜன பெரமுன நடவடிக்கை!
+
+*2024-04-08 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180706) · `ta`
+
+ஶ்ரீலங்கா பொதுஜன பெரமுனவின் அரசியல் குழுக் கூட்டம் அக்கட்சியின் தலைவரான முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்க்ஷ தலைமையில் நாளை (9) நடைபெறவுள்ளது.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஆறு உறுப்பினர்கள் ஐக்கிய மக்கள் சக்தியுடன இணைந்து கொள்வது தொடர்பில் கலந்துரையாடப்படவுள்ளதாக தகவல்கள் வெளியான நிலையிலேயே இந்தக் கூட்டம் நாளை நடைபெறவுள்ளது.
+
+மேலும் இந்த ஆறு பேர் மீதும் ஒழுக்காற்று நடவடிக்கை எடுக்கப்படும் எனத் தெரிகிறது.
+
+◼️
+
+[Data](articles/9258cf40.json)
+
+---
+
+### Sri Lanka opposes dissolution of Palestinian state: President
+
+*2024-04-08 13:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposes-dissolution-of-palestinian-state-president-157882/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s stance remains firm in opposing the dissolution of the Palestinian state, and stands in solidarity to end the ongoing conflict, President Ranil Wickremesinghe said at an Ifthar ceremony held Sunday at the Jumma Mosque in Katukele, Kandy.
+
+“As Sri Lanka observes Ramadan today, a sombre situation unfolds in the Gaza Strip, where the Muslim community mourns the loss of approximately thirty-five thousand lives,” Wickremesinghe was quoted in a statement by his media division.
+
+“In light of this tragedy, we have decided to forego the national Ramadan festival this year and allocate the funds to support the people of Gaza. Additionally, a commitment has been made to construct a school in Gaza once the conflict subsides.”
+
+...
+
+[Data](articles/d16b373e.json)
+
+---
+
+### Sri Lanka Freedom Party appoints Nimal Siripala as acting chair, CBK as advisor
+
+*2024-04-08 13:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-appoints-nimal-siripala-as-acting-chair-cbk-as-advisor-157894/) · `en`
+
+ECONOMYNEXT — The crisis-riddled Sri Lanka Freedom Party (SLFP) has appointed its incumbent vice president Nimal Siripala de Silva as the party’s acting chairman, with former president and chairman Chandrika Bandaranaike Kumaratunga also serving as an advisor and observer.
+
+The appointment was made at a politburo meeting held Monday April 08 morning after the the Colombo District Court issued an interim order last week preventing former President Maithripala Sirisena from serving as SLFP chairman.
+
+SLFP National Organiser Duminda Dissanayake told reporters that the acting chairmanship was given to the senior-most member of the party.
+
+“A party cannot function without a chairman, especially during a politically decisive period such as this,” he said.
+
+Dissanayake also accused Sirisena of appointing several acting chairmen over the recent past but without giving party seniors their due.
+
+...
+
+[Data](articles/7eeadda6.json)
+
+---
+
+### ගැටඹේ විහාරස්ථානයක පුද්ගලයකු මිය යාමේ සිද්ධියට හිමිනමක් හා ග්‍රාමාරක්ෂක අත්අඩංගුවට
+
+*2024-04-08 13:24:52* · [`adalk`](https://www.ada.lk/breaking_news/ගැටඹේ-විහාරස්ථානයක-පුද්ගලයකු-මිය-යාමේ-සිද්ධියට-හිමිනමක්-හා-ග්‍රාමාරක්ෂක-අත්අඩංගුවට/11-409008) · `si`
+
+මහනුවර ගැටඹේ දිය කපනාතොට පන්සලේදී පුද්ගලයකුට පහරදී ගස් බැඳ සිටියදී ඔහු මිය යාමේ සිද්ධිය සම්බන්ධයෙන් එම විහාරස්ථානයේ නායක හිමිනම සහ විහාරස්ථානයේ ආරක්ෂාව සඳහා යොදවා සිටි සිවිල් ආරක්ෂක භටයෙකු අත්අඩංගුවට ගත් බව මහනුවර මූලස්ථාන පොලිසිය කියයි.
+
+සිද්ධියෙන් මිය ගොස් තිබුණේ මැණික්හින්න ප්‍රදේශයේ පදිංචිකරුවෙකු වූ  (43) හැවිරිදි  හිටපු යුද හමුදා සෙබළෙකි .
+
+ඔහු ඊයේ 07දා අලුයම් කාලයේ එම පන්සල් පරිශ්‍රයට සැක කටයුතු ලෙස ඇතුළුවී සිටියදී පන්සලේ සිටි පිරිසක් ඔහුට පහර දී අත පය ගැට ගසා ගසක බැඳ දමා සිටියදී මියගොස් තිබුණි.
+
+මියගිය පුද්ගලයාට එසේ අමානුෂික ලෙස පහරදී ගසක ගැටගසා දැමුවත් ඒ පිළිබඳව පොලිසිය දැනුවත් කිරීමක් හෝ ඔහුට ප්‍රතිකාර ලබාදීම සඳහා රෝහල් ගත කිරීමක් හෝ නොකිරීම සම්බන්ධයෙන් පොලිස් විමර්ශන සිදුකෙරෙමින් පවතින අතරතුර පන්සලේ නායක හිමි නම අත්අඩංගුවට ගැනීමට පොලිසිය ක්‍රියාකොට තිබේ .
+
+◼️
+
+[Data](articles/3f9d8b08.json)
+
+---
+
+### Uninterrupted fuel supply during holiday: Kanchana
+
+*2024-04-08 13:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uninterrupted-fuel-supply-during-holiday-Kanchana/108-280393) · `en`
+
+Colombo, April 8 (Daily Mirror) - Power and Energy Minister Kanchana Wijesekera today said there will be an uninterrupted supply of fuel during the holidays.
+
+While posting an X message formerly known as Twitter he said the Ministy has planned to bring sufficient fuel cargos for the next 12 months.
+
+He also said that several advertisements have been published to establish new fuel stations.
+
+◼️
+
+[Data](articles/18b23a05.json)
+
+---
+
+### ரஃபாவில் இராணுவ நடவடிக்கைக்கு இஸ்ரேல் தயாராகுகிறது
+
+*2024-04-08 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180704) · `ta`
+
+காஸாவின் தென்பிராந்திய நகரான ரஃபாவில் இராணுவ நடவடிக்கை மேற்கொள்வதற்கு இஸ்ரேலிய படையினர் தயாராகின்றனர் என அந்நாட்டுத் தலைவர்கள் தெரிவித்துள்ளனர்.
+
+காஸாவின் ஏனைய பிராந்தியங்களிலிருந்து இடம்பெயர்ந்த இலட்சக்கணக்கான மக்கள்  தென்பிராந்திய நகரான ரஃபாவில் தங்கியியுள்ளனர்.
+
+காஸா தென் பகுதியில் இஸ்ரேலியப் படையினரின் எண்ணிக்கை குறைக்கப்படுவதாக இஸ்ரேலிய பாதுகாப்புப் படைகளின் பேச்சாளர் நேற்று ஞாயிற்றுக்கிழமை தெரிவித்திருந்தார்.
+
+எனினும், பாதுகாப்பு அமைச்சர் யோவ் கலன்ட் இது தொட்ரபாக கூறுகையில், ரஃபா உட்பட எதிர்கால நடவடிக்கைகளுக்குத் தயாராகுவற்காக கான் யூனிஸ் நகரிலிருந்து படையினர் வெளியேறியுள்ளனர் எனத் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/d09f1d55.json)
+
+---
+
+### மொட்டுக் கட்சி நாளை முக்கிய சந்திப்பு
+
+*2024-04-08 13:11:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டுக்-கட்சி-நாளை-முக்கிய-சந்திப்பு/175-335737) · `ta`
+
+ஶ்ரீ லங்கா பொதுஜன பெரமுனவின் அரசியல் குழு கூட்டம் அக்கட்சியின் தலைவரான முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தலைமையில் நாளை (9) நடைபெறவுள்ளது.
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் ஆறு உறுப்பினர்கள் ஐக்கிய மக்கள் சக்தியுடன் இணைந்து கொண்டுள்ளமை தொடர்பில் இதன்போது கலந்துரையாடப்படவுள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+
+அத்துடன், அந்த ஆறு பேர் மீதும் ஒழுக்காற்று நடவடிக்கை எடுக்கப்படும் என தகவல் வெளியாகியுள்ளது.
+
+◼️
+
+[Data](articles/2f9e07c3.json)
+
+---
+
+### Ask for many beef
 
 *2024-04-08 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195430) · `si`
 
-මේ වනවිට තංගල්ල පැරණි බන්ධනාගාරයේ රඳවා සිටින නදුන් චින්තක වික්‍රමරත්න හෙවත් හරක් කටා නමැති විත්තිකරුට පහසුකම් කීපයක් සලසාදීමට පැමිණිල්ල අද (08) කොළඹ මහාධිකරණය හමුවේ එකඟ වුණි.
+The Colombo High Court agreed to provide limited facilities for the accused of Tangalle front, including extending meeting times with lawyers and relatives, and submitting a doctor for medical attention. However, requests for a CCTV system, telephone, and food/drinks were denied for security reasons.
 
-හරක් කටා වෙනුවෙන් ඉදිරිපත් කළ මෝසමක් අද කොළඹ මහාධිකරණ විනිසුරු දමිත් තොටවත්ත මහතා ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි  රජයේ නීතිඥවරයා මෙම දැනුම්දීම් කළේය.
+🟩
 
-අත්අඩංගුවේ පසුවන තමන්ට නීතිඥවරු හමුවීම සඳහා මේ වනවිට ලබාදෙන විනාඩි 15ක කාලය පැයක් දක්වා දීර්ඝ කරන නියෝගයක් නිකුත් කරන මෙන් හරක් කටා සිය මෝසමෙන් ඉල්ලා තිබුණි.
+The complaint agreed before Colombo High Court today to provide a few facilities for the accused of Tangalle front.
 
-එහෙත් නීතිඥවරුන් හමුවීම සඳහා ලබා දෙන කාලය පැය භාගයක් දක්වා දීර්ඝ කළ හැකි බව රජයේ නීතිඥවරයා සඳහන් කළේය.
+The State Counsel appearing on behalf of the Attorney General have made these notifications when a motion was called before Colombo High Court Judge Thatawatte today.
 
-විත්තිකරුගේ ආරක්ෂාව සඳහා සීසීටීවී කැමරා පද්ධතියක් ඔහු රඳවා සිටින ස්ථානයේ  ක්‍රියාත්මක වන්නේදැයි වාර්තාවක් කැඳවන ලෙසද එම මෝසමින් ඉල්ලීමක් කර තිබුණි.
+Herald has asked for a monk to promote 15 minutes to an extent to reach the lawyers in custody.
+
+However, the time given to meet lawyers can be extended to half an hour.
+
+A CCTV camera system had been called to call if a CCTV camera system operates at the place where he operates.
+
+Responding to this, the state lawyer said that the acquitant had no such camera system and said that the Police Special Task Force and Navy officials have been deployed to protect him.
+
+In addition, the father of 15 minutes to enhance the father and relatives, to extend its molecules to an hour.
+
+Accordingly, the time given to meet relatives can be extended to half an hour.
 
 ...
 
 [Data](articles/3c28401f.json)
 
+[Extended Data](ext_articles/3c28401f.ext.json)
+
 ---
 
-### ලංකාවේ දේශපාලනය බල අරගලයක් මිස අන් කවරක් නොවේ -සජිත්
+### முஸ்லிம்களின் மதநம்பிக்கையின் அடிப்படையில் நல்லடக்கம் செய்வதை உறுதி செய்ய வேண்டும் - ஜனாதிபதி
+
+*2024-04-08 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180700) · `ta`
+
+முஸ்லிம்களுக்கு தமது மதநம்பிக்கையின் பிரகாரம் நல்லடக்கம் செய்வதை உறுதி செய்வதற்கு புதிய குழுவொன்று நியமிக்கப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+
+அத்தோடு எந்த மதமாக எந்த இனமாக இருந்தாலும் எந்த ஒரு நபரின் இறுதிச் சடங்கையும் அவரது இறுதி விருப்பத்திற்கு அமைய மேற்கொள்ள இடமளிப்பது தொடர்பிலும் இந்தக் குழு ஆராயும் என்று தெரிவித்த ஜனாதிபதி, எதிர்காலத்தில் இவை தொடர்பான சட்டங்களை உருவாக்குவதற்கு நடவடிக்கை எடுப்பதாகவும்  குறிப்பிட்டார்.
+
+கண்டி, கட்டுகெலே ஜும்மா பள்ளிவாசலில் ஞாயிற்றுக்கிழமை (07) இடம்பெற்ற இப்தார் நிகழ்வில் கலந்து கொண்ட போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+கடந்த காலத்தில் நாட்டில் ஏற்பட்ட பொருளாதார நெருக்கடியால் மக்கள் வரிசையில் நிற்க வேண்டிய நிலை ஏற்பட்டது. இதனால் ரமழான் நோன்பைக் கூட சரியாக நோற்க முடியவில்லை.
+
+கடந்த வருடம் முதல் பொருளாதாரம் மேம்பட்டு வருவதால், இன்று வழக்கம் போல் ரமழான் நோன்பு காலத்தை கழிக்கவும், ரமழான் நோன்பை நோற்கவும் வாய்ப்புக் கிடைத்துள்ளது.
+
+...
+
+[Data](articles/7011b0ae.json)
+
+---
+
+### Politics in Sri Lanka is not a force struggle --.Sjith
 
 *2024-04-08 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195429) · `si`
 
-ශ්‍රී ලංකාවේ දේශපාලනය යනු බල අරගලය මිස අන් කවරක්වත් නොවන බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Sri Lankan politics, led by Opposition Leader Sajith Premadasa, is not a power struggle but a deepening division along caste, class, and race. Politicians should not support those defending elites. Progress requires reconciliation, not extremism, with a focus on social democracy. Dr. Surudaith Balay, an Indian economist, highlights Sri Lanka's social and human development, now facing economic crisis, with multiple leaders but no single face.
 
-සමගි බුද්ධි මණ්ඩපයට ඊයේ (07) එක්වෙමින් විපක්ෂ නායකවරයා සඳහන් කළේ, පැලැන්තියක් රැකගැනීමට උත්සාහ දරන දේශපාලකයන්ට අවස්ථාවක් ලබා නොදිය යුතු බවය.
+🟩
 
-"දැන් මෙරට දේශපාලන පද්ධතිය අපේ සමාජයේ ගැඹුරින් පවතින බෙදීම් සහ සංස්කෘතිය ප්‍රතිරූපනය කරනවා. ශ්‍රී ලංකාවේ දේශපාලනය අද බල අරගලයකට වඩා වැඩි යමක් නෙවෙයි. සෑම දේශපාලන ප්‍රචාරක ක්‍රමෝපායක්ම සකස් කර ඇත්තේ ඡන්ද පදනම කළමනාකරණය කළ හැකි ආකාරයෙන්. ඒවගේම එය කුලය, පංතිය, ජාතිය ආදී මානයන් ඔස්සේ බෙදා තිබෙනවා. ශ්‍රී ලංකාවේ තිරසාර ප්‍රගතියක් අපේක්ෂා කළ හැක්කේ කුලය, පංතිය, ජාතිය වැනිදෑ අමතක කර කටයුතු කළොත් පමණයි. භීතිය ඇති කරන හෝ විප්ලවකාරී වීමට තැත්කරන දේශපාලනඥයෝ හෝ එක්තරා පංතියක් ආරක්ෂා කිරීමට උත්සාහ කරන දේශපාලනඥයින් පෝෂණය කිරීම අප නතර කළ යුතුයි. සමගි ජන බලවේගයේ අපි අන්ත දක්ෂිණාංශික හෝ අන්ත වාමාංශික මතවාදයක එළඹ සිටින්නේ නැහැ.අප විශ්වාස කරන්නේ සමාජ ප්‍රජාතන්ත්‍රවාදයයි."
+Opposition Leader Sajith Premadasa says Sri Lankan politics are not the power struggle, "says Leader of the Opposition.
 
-මෙම අවස්ථාවට එක්වූ ඉන්දියානු ආර්ථික විශේෂඥයෙක් වූ ආචාර්ය සුරිජිත් බාලා මෙලෙස අදහස් දැක්වීය.
+The Opposition Leader said that the politicians should not be given a chance to the politicians who are trying to defend an elite yesterday (07).
+
+"The political system of Sri Lanka is the deepening division and culture of our society. Politics in Sri Lanka is not more than a power struggle today. Every political propagation is prepared in a way that can manage the basement. And it is divided along the dimensions of the caste, class, race. Sustainable progress in Sri Lanka can only seek forgotten caste, class, race. We must stop nurturing politicians who strive to cause fear or revolutionary politicians or a certain class. In the reconciliation, we do not have a right-wing or extreme leftist ideology. We believe that social democracy is believed. "
+
+Dr. Surudaith Balay, one of the Indian economists, addressed the event.
 
 ...
 
 [Data](articles/c260e411.json)
+
+[Extended Data](ext_articles/c260e411.ext.json)
+
+---
+
+### රෝගීන් ගැන සම්පූර්ණ වාර්තාවක් අධිකරණයෙන් ඉල්ලයි
+
+*2024-04-08 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195428) · `si`
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් නිසා මරණයට පත්වූ සහ සංකූලතා ඇතිවූ රෝගීන් පිළිබඳ සවිස්තරාත්මක වාර්තාවක් මැයි 31 වනදා ට පෙර අධිකරණයට ඉදිරිපත් කරන ලෙස මාළිගාකන්ද මහෙස්ත්‍රාත් ලෝචනී අබේවික්‍රම මහත්මිය සෞඛ්‍ය සේවා අධ්‍යක්ෂ ජනරාල්වරයාට අද (08) නියෝග කළේය.
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීම සහ රෝහල් වෙත බෙදාහැරීමේ සිද්ධියට අදාළ නඩුව අද යළි මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයේදී සලකා බැලීය.
+
+එම නඩුවට අදාළව මේ වනවිට රක්ෂිත බන්ධානාගාරගත කර සිටින හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 10 දෙනාද අද පෙරවරුවේ අධිකරණයට ඉදිරිපත් කිරීම සඳහා බන්ධනාගාර නිලධාරීන් විසින් රැගෙන එනු ලැබීය.
+
+මෙහිදී අගතියටපත් පාර්ශ්වය වෙනුවෙන් පෙනි සිටි නීතිඥවරු ඉල්ලා සිටියේ "හියුමන් ඉමියුනෝග්ලොබියුලීන් සහ රිටොක්සිමැප්" යන ප්‍රශ්නගත ප්‍රතිදේහ ඖෂධ එන්නත් කිරිමෙන් පසු මරණයට පත්වූ සහ සංකූලතා ඇතිවූ රෝගීන් සම්බන්ධයෙන් විමර්ශනය කර වාර්තාවක් අධිකරණයට කැඳවන ලෙසට ය.
+
+...
+
+[Data](articles/30f17d9c.json)
 
 ---
 
@@ -93,6 +269,56 @@ However, the people of the area who arrived in 06 buses did not participate in t
 [Data](articles/b9b3c8db.json)
 
 [Extended Data](ext_articles/b9b3c8db.ext.json)
+
+---
+
+### Sri Lanka president on the offensive as election looms, hits out at SJB, NPP
+
+*2024-04-08 12:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-on-the-offensive-as-election-looms-hits-out-at-sjb-npp-157879/) · `en`
+
+ECONOMYNEXT — As Sri Lanka’s presidential election inches closer, President Ranil Wickremesinghe is increasingly on the offensive, hitting out both the main opposition Samagi Jana Balawegaya and the leftist National People’s Power (NPP).
+
+Wickremesinghe told a gathering in Kandy on Sunday March 07 that the SJB has not inherited the policies of his United National Party (UNP), the party it broke off of from, with its economic policy now overseen by former members of the ruling Sri Lanka Podujana Peramuna (SLPP).
+
+The SJB, once poised to take control of the UNP headquarters at ‘Sirikotha’ in 2020 under the UNP banner, claimed Wickremesinghe, is now being influenced by the chairman of the SLPP and other factions.
+
+Sri Lanka’s SJB welcomes SLPP dissidents, heaps praise on G L PeirisSee more
+
+...
+
+[Data](articles/fd49e9ca.json)
+
+---
+
+### Humanitarian Employees Massacle - Appropriate accountability is essential Australia
+
+*2024-04-08 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180695) · `ta`
+
+Australian Prime Minister Antony Albenez emphasizes the importance of accountability for the killing of seven humanitarian workers, including Jomi Frankom, in Israel's attack, calling it a tragic event.
+
+🟩
+
+The Australian Prime Minister has reiterated that the responsibility for the killing of humanitarian workers in Israel's attack is essential.
+
+The Australian Prime Minister has said that the killing of seven humanitarian workers, including Australia's Jomi Frankom, has shocked the world.
+
+The Australian Prime Minister has reiterated that the responsibility for the killing of humanitarian workers in Israel's attack is essential.
+
+The Australian Prime Minister has said that the killing of seven humanitarian workers, including Australia's Jomi Frankom, has shocked the world.
+
+Antony Albenez said Israel's investigation into the assassination of humanitarian workers was not satisfied.
+
+He said that this was a great tragic event, Jomi Frankom, who said he was working on supporting his colleagues there.
+
+The Australian Prime Minister said that his company was also acting properly but three cars were alternately attacked.
+
+Antony Albenis said that the responsibility for us - what happened in what happened.
+
+...
+
+[Data](articles/05ac3b32.json)
+
+[Extended Data](ext_articles/05ac3b32.ext.json)
 
 ---
 
@@ -194,35 +420,21 @@ The US dollar purchasing price was 294.3442 and the sales price were Rs 303.8976
 
 ---
 
-### Humanitarian Employees Massacle - Appropriate accountability is essential Australia
+### කොවිලේ කෑම කාපු 120ක් රෝහලේ
 
-*2024-04-08 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180695) · `ta`
+*2024-04-08 12:32:18* · [`adalk`](https://www.ada.lk/breaking_news/කොවිලේ-කෑම-කාපු-120ක්-රෝහලේ/11-409003) · `si`
 
-Australian Prime Minister Antony Albenez emphasizes the importance of accountability for the killing of seven humanitarian workers, including Jomi Frankom, in Israel's attack, calling it a tragic event.
+නල්ලතන්නිය පොලිස් වසමට අයත් ලක්ෂපාන වාලමලෙයි හින්දු කොවිලේ පැවති වාර්ෂික උත්සවයකින් පසු වතු කම්කරුවන්ට කොවිලේ දන්සැලෙන් ලබාදුන් ආහාර පාර්සල් අනුභව කල වතු කම්කරුවන් , කුඩා දරුවන් ඇතුළු 120 දෙනෙකු (07) දින රාත්‍රියේ මස්කෙලිය ප්‍රාදේශිය රෝහල වෙත ඇතුලත් කල බව මස්කෙලිය ප්‍රාදේශිය රෝහලේ වෛද්‍යවරයෙකු පැවසිය.
 
-🟩
+ක්ලාන්තය , වමනය , උදරයේ අබාධ සහ පාචනය යන රෝග ලක්ෂණ ඇතිව එම පිරිස මස්කෙලිය ප්‍රාදේශිය රෝහල වෙත ඇතුලත් කල බවත්, ඉන් 25 දෙනෙකු පමණක් තව දුරටත් මස්කෙලිය ප්‍රාදේශිය රෝහලේ නේවාසිකව ප්‍රතිකාර ලබන බවත්, සෙසු රෝගින් රෝහලෙන් ප්‍රතිකාර ලබා පිටව ගිය බවයි එම වෛද්‍යවරයා කියා සිටියේ.
 
-The Australian Prime Minister has reiterated that the responsibility for the killing of humanitarian workers in Israel's attack is essential.
+රෝගි වු වැඩි පිරිසක් කාන්තාවන් බවත්, දැනට නේවාසිකව ප්‍රතිකාර ලබන රෝගින්ගේ තත්ත්වය බරපතල නොවන බවද වෛද්‍යවරයා පැවසිය.
 
-The Australian Prime Minister has said that the killing of seven humanitarian workers, including Australia's Jomi Frankom, has shocked the world.
-
-The Australian Prime Minister has reiterated that the responsibility for the killing of humanitarian workers in Israel's attack is essential.
-
-The Australian Prime Minister has said that the killing of seven humanitarian workers, including Australia's Jomi Frankom, has shocked the world.
-
-Antony Albenez said Israel's investigation into the assassination of humanitarian workers was not satisfied.
-
-He said that this was a great tragic event, Jomi Frankom, who said he was working on supporting his colleagues there.
-
-The Australian Prime Minister said that his company was also acting properly but three cars were alternately attacked.
-
-Antony Albenis said that the responsibility for us - what happened in what happened.
+මහජන සෞඛ්‍ය පරික්ෂකවරුන්ගේ කිසිදු අවසරයක් හෝ අධික්ෂණයකින් තොරව බෝංචි , වට්ටක්කා , බටු සහ පතෝල යන ව්‍යාංජන සමග බත් පාර්සල් 2000 ක් සකස් කර වතු කම්කරුවන්ට බෙදා දි ඇති බවත්, එම ආහාර පාර්සල් (07) දින දහවල් වතු කම්කරුවන් බෙදා ඇති බවයි මස්කෙලිය සෞඛ්‍ය වෛද්‍ය නිලධාරි කාර්යාලයේ මහජන සෞඛ්‍ය පරික්ෂකවරයෙකු කියා සිටියේ.
 
 ...
 
-[Data](articles/05ac3b32.json)
-
-[Extended Data](ext_articles/05ac3b32.ext.json)
+[Data](articles/0b0ee0bf.json)
 
 ---
 
@@ -252,25 +464,39 @@ Steps have been taken to hand over the Katunayaka airport customs officers for f
 
 ---
 
-### තුවක්කුව අතට ගත් රගර් ක්‍රීඩකයා
+### Rugby Player to take up the gun
 
 *2024-04-08 12:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195427) · `si`
 
-හොරණ මාලොස්ඇළ ප්‍රදේශයේදී ඊයේ (07) සිදුකළ ද්විත්ව ඝාතනයේ වෙඩික්කරු ලෙසට කටයුතු කළ බව කියන පුද්ගලයා අද (08) අලුයම පාදුක්ක අංගමුව ප්‍රදේශයේදී පොලිස් වෙඩි පහරට ලක්ව මිය ගොස් තිබුණි.
+A rugby player and a corporal in the Sri Lanka Air Force were involved in a double murder in Padukka. The police found a suspicious motorcycle and shot its rider, who later died. The deceased was identified as the shooter in the Moragahahena area and a member of the Air Force Rugby Team.
 
-පොලීසිය සඳහන් කළේ ඔහු ශ්‍රී ලංකා ගුවන් හමුදාවේ රත්මලාන කඳවුරට අනුයුක්තව සක්‍රීය සේවයේ නිරතව සිටි කෝප්‍රල්වරයෙක් බවයි.
+🟩
 
-හොරණ, මොරගහහේන, මාලොස්ඇළ හන්දිය ප්‍රදේශයේදී ත්‍රිරෝද රථයකින් ගමන් කරමින් සිටි පුද්ගලයින් දෙදෙනෙකු ඉලක්ක කරමින් ඊයේ දහවල් වෙඩිතැබීමක් සිදුකළ අතර ඉන් එම පුද්ගලයින් දෙදෙනාම මිය ගියේය.
+The shooter was killed in a double murder yesterday (08) at the Padukka area in Padukka this morning.
 
-වෙඩිතැබීමෙන් පසුව මෝටර් රථය පළාගොස් තිබුණේ පාදුක්ක දෙසට බව CCTV දර්ශන අනුව පොලීසිය අනාවරණ කරගත්තේය.
+Police said that he was an active service attached to the Sri Lanka Air Force Ratmalana.
 
-වෙඩිතැබීමට සම්බන්ධ බව කියන සැකකරුවෙක් සම්බන්ධයෙන් තොරතුරක් පොලීසියට ලැබී තිබුණේ මේ අතරවාරයේදී ය.
+In Horana, Moragahahena, Moragahahena, a shooting was shooting yesterday afternoon and both of them died yesterday.
 
-ඒ අනුව ක්‍රියාත්මක වූ බස්නාහිර පළාත් දකුණ අපරාධ කොට්ඨාසයේ නිලධාරීන් සහ පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් අද අලුයම 1ට පමණ පාදුක්ක, මිරියගල්ල පන්සල පාර ප්‍රදේශයේ පිහිටි නිවසකට ගොස් එහි පදිංචි පුද්ගලයෙක් ගැන තොරතුරු විමසා තිබුණි.
+After shooting, the car was fled to PDV footage that the car had fled to Padukka.
+
+Meanwhile, the police received information regarding a suspicious suspicion.
+
+Accordingly, the officers of the Western Province South Criminal Division and the STF personnel were taken to a house in the Temple Road in Miriyagala Road, Padukka, Padukka, Miriyagala Road, Padukka.
+
+The investigation officials have come to Angamuwa junction and established its temporary roadbar.
+
+The police had noticed it to stop a suspicious motorcycle for a suspicious motorcycle on the road around 4.15 am.
+
+The motorcyclist has been shot dead by the police, the police said.
+
+The police had also been rehabilitated for self defense.
 
 ...
 
 [Data](articles/379d8b57.json)
+
+[Extended Data](ext_articles/379d8b57.ext.json)
 
 ---
 
@@ -1987,219 +2213,5 @@ Chairman of the company, Luo Xiaolan said that they are keen to involve in mega 
 [Data](articles/8b386a69.json)
 
 [Extended Data](ext_articles/8b386a69.ext.json)
-
----
-
-### ComBank shines at LankaPay Technnovation Awards 2024
-
-*2024-04-08 04:19:00* · [`islandlk`](http://island.lk/combank-shines-at-lankapay-technnovation-awards-2024/) · `en`
-
-The Commercial Bank of Ceylon won three Gold awards and two Silvers at the LankaPay Technnovation Awards 2024, reaffirming the Bank’s status as a frontrunner in payment technology innovation in Sri Lanka.
-
-The Bank was presented the Silver in the ‘Overall Award for Excellence in Digital Payments’ in addition to being recognised as the ‘Most innovative Bank of the Year’ with a Gold award, and receiving the Gold awards for ‘Best Bank for Retail Payments’ and for ‘Best Mobile Application for Retail Payments via LankaQR’ for ComBank Q+ – the Bank’s QR Payments App. The Bank also won the overall Silver Award as ‘Best LankaPay Card Implementor of the Year.’
-
-The Bank said these awards reaffirm the Bank’s supremacy and its pioneering products and services in the digital payments sphere.
-
-Themed ‘Vision Beyond Borders,’ the LankaPay Technnovation Awards hosted by LankaClear (Pvt) Ltd., the operator of LankaPay national payment network, took place at the Shangri La Hotel, Colombo.
-
-...
-
-[Data](articles/8cdb801f.json)
-
-[Extended Data](ext_articles/8cdb801f.ext.json)
-
----
-
-### Sri Lanka forex reserves improving, but global oil prices keep increasing
-
-*2024-04-08 04:19:00* · [`islandlk`](http://island.lk/sri-lanka-forex-reserves-improving-but-global-oil-prices-keep-increasing/) · `en`
-
-The gross official reserves were provisionally estimated at US dollars 4,951 mn as at end March 2024 including proceeds from the People’ Bank of China (PBOC) swap arrangement, which is subject to conditionalities on usability, according to the Weekly Economic Indicators of the Central Bank of Sri Lanka.
-
-The report, however, stated that during the period under review (March 29- April 5), crude oil prices exhibited an increasing trend. Crude oil prices increased owing to optimism on demand with the expansion in manufacturing activity in China and the US, coupled with the concerns about tight supply stemming from escalating geopolitical tensions and major producers keeping output cuts in place. Overall, both Brent and WTI prices increased by more than US dollars 3.00 per barrel during the review period.
-
-The situation, therefore, appears to remain ambivalent for Sri Lanka as the cost of incoming shipments of oil could jump in the coming weeks.
-
-...
-
-[Data](articles/bcefd017.json)
-
-[Extended Data](ext_articles/bcefd017.ext.json)
-
----
-
-### Govt. extends free rice program to assist vulnerable communities: Semasinghe
-
-*2024-04-08 04:16:20* · [`dailyftlk`](https://www.ft.lk/news/Govt-extends-free-rice-program-to-assist-vulnerable-communities-Semasinghe/56-760438) · `en`
-
-State Minister of Finance Shehan Semasinghe yesterday said the Government is poised to continue its free rice program for the months of April and May this year.
-
-He said the initiative aims to provide essential assistance to those who have not previously benefited from any subsidy program.
-
-“Under this extended program, individuals currently receiving pensions, as well as those who had previously received prosperity benefits but lost their pensions, will be included. Additionally, beneficiaries of kidney, elderly, and disabled allowances will also be covered,” he said after attending the launch of various development projects in areas including Mihintale, Vilachchiya and Nachchiduwa.
-
-Semasinghe stressed that even individuals who have missed out on previous subsidy programs can be included in this initiative, with divisional secretaries granted the authority to facilitate their inclusion.
-
-...
-
-[Data](articles/5865c3ef.json)
-
-[Extended Data](ext_articles/5865c3ef.ext.json)
-
----
-
-### What is the intelligence plane to Sri Lanka from US?
-
-*2024-04-08 04:13:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cyxzendzrn0o) · `si`
-
-The US is providing a special aircraft to Sri Lanka, focusing on its strategic importance in the Indian Ocean. The aircraft, a 605 Challengegar 605, is used for surveillance activities. It arrived in March for training of Sri Lankan Armed Forces personnel. The Air Force Spokesperson confirmed future US surveillance aircraft will be given to Sri Lanka, including the Beech King AIR 360er Aircraft.
-
-🟩
-
-The SLAF says that a special aircraft will be given to US in the US.
-
-The world's focus on Sri Lanka is avenged in an important position in the Indian Ocean.
-
-Because of that location, Sri Lanka, a island, is a very important place in the international shipping.
-
-As a result, Marine and the airline are very important to the national security of the country.
-
-A large number of surveillance aircraft to be observed from the air came to Sri Lanka last March.
-
-The aircraft is a 605 Challengegar 605, which is used for surveillance activities.
-
-Air Force Spokesperson Group Captain Dushan Wijesinghe said that the aircraft arrived in Sri Lanka to train the three Armed Forces personnel in Sri Lanka regarding the BBC Sinhala.
-
-"This plane arrived in Sri Lanka to train our Air Force pilots and officers. Six crew including pilots and other staff were returned to Sri Lanka. "The Air Force Spokesman said.
-
-The spokesman said that the training was carried out from the SLAF Base Colombo.
-
-...
-
-[Data](articles/01095288.json)
-
-[Extended Data](ext_articles/01095288.ext.json)
-
----
-
-### Loss-making SMIB faces political pressure IN recoverING loans
-
-*2024-04-08 03:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/Loss-making-SMIB-faces-political-pressure-IN-recoverING-loans/131-280332) · `en`
-
-The state-run loss-making State Mortgage & Investment Bank (SMIB) has revealed that there are political interferences when the attempts are made to recover long- due loans.
-
-Bank’s General Manager,Thushara Asuramanna, has recently told this to workers and the trade union members at a public meeting explaining the ‘difficult’ situation that the state bank is going through.
-
-“When we tried to recover certain loans we used to get calls even from the Presidential Secretariat,” Asuramanna, told employees who gathered at the head office at Kollupitiya demanding bonuses for the Sinhala and Hindu New Year.
-
-As the bank employees were not satisfied with regard to their requests for a New Year bonus, they had surrounded the head office. However, the General Manager who intervened in the situation summoned the employees to the auditorium and explained how over the past few years the bank had been going from bad to worse and ended up with nearly Rs 500 million in losses.
-
-...
-
-[Data](articles/7f008da4.json)
-
-[Extended Data](ext_articles/7f008da4.ext.json)
-
----
-
-### Chamber of Marine Industries charts new course
-
-*2024-04-08 03:06:32* · [`dailyftlk`](https://www.ft.lk/business/Chamber-of-Marine-Industries-charts-new-course/34-760434) · `en`
-
-The maritime landscape of Sri Lanka witnessed a momentous occasion on Wednesday, March 13, as the Chamber of Marine Industries of Sri Lanka convened its Annual General Meeting (AGM). This gathering marked a significant milestone in the nation’s maritime journey, uniting industry leaders, experts, and visionaries. Representing the state sector, the AGM was graced and addressed by Sri Lanka Standards Institute (SLSI), Director General Dr. Siddhika Senaratne, Export Development Board (EDB), Chairman Dr. Kingsley Bernard, Ministry of Industries Additional Secretary Chaminda Pathiraja, Merchant Shipping (DGMS) Director General Ajith Wijesinghe, Port Authority Director Marketing Nirmal Fonseka, MOI Director Elapatha, MOI Assistant Director Kunalini, Asst. Directors EDB Mangala Maduwanthi, Diani Maduka.
-
-...
-
-[Data](articles/fc704835.json)
-
-[Extended Data](ext_articles/fc704835.ext.json)
-
----
-
-### Ex-President Sirisena draws an India connection - EDITORIAL
-
-*2024-04-08 03:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Ex-President-Sirisena-draws-an-India-connection-EDITORIAL/172-280331) · `en`
-
-Ex-President Sirisena is once again in the news for all the wrong reasons. Hardly had the ink dried on news stories of his sudden firing of three senior Sri Lanka Freedom Party (SLFP) members, we learned that a court order has barred him from performing duties as chairman of that party.
-
-The court order was based on a complaint to the court by Chandrika Kumaratunga for the removal of Sirisena from the post of SLFP Chairman, on the grounds he was unsuitable for the role. Among the reasons for his ouster were charges he was unlawfully holding the Chairmanship of the party in violation of the Party Constitution.
-
-Additional charges arose from Sirisena’s actions during the constitutional crisis of 2018 being deemed incorrect. He was also found guilty of having violated the fundamental rights of people in the case of the Easter Sunday bombings.
-
-...
-
-[Data](articles/379e5b58.json)
-
-[Extended Data](ext_articles/379e5b58.ext.json)
-
----
-
-### Auspicious times! Exposing incompetence or astrology a pseudoscientific myth?
-
-*2024-04-08 03:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Auspicious-times-Exposing-incompetence-or-astrology-a-pseudoscientific-myth/172-280330) · `en`
-
-Professional rivalry or jealousy often leads astrologers outside the official team to challenge the declared times
-
-During the Sinhala Avurudda, also known as the Sinhala and Hindu New Year, people adhere to various religious rituals and cultural practices meticulously following auspicious times known as “nekath” provided by astrologers.
-
-In response to past controversies surrounding nekath, the government appointed a team of astrologers in 1992  to determine the official auspicious times, which were widely accepted. However, professional rivalry or jealousy often leads astrologers outside the official team to challenge the declared times, citing various unexplained theoretical concepts unique to astrology. These contradictions caused anxiety among the general public and believers of astrology, leading to uncertainty and a loss of confidence in the auspicious times provided.
-
-...
-
-[Data](articles/a537a166.json)
-
-[Extended Data](ext_articles/a537a166.ext.json)
-
----
-
-### Ukraine is fighting an increasingly desperate war
-
-*2024-04-08 02:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Ukraine-is-fighting-an-increasingly-desperate-war/172-280329) · `en`
-
-Ukraine is in trouble today because the EU’s aid package was blocked by Hungary, and no EU country is able to produce the munitions badly needed by Ukraine
-
-There is a war in Ukraine? It seems to have been forgotten by everyone–except by Ukraine, Russia and their respective allies.
-
-When Russian President Vladimir Putin ordered his military to invade Ukraine in February 2022, many including myself expected it to be over in weeks. In my case, this was because, as much as I dislike Putin’s dictatorship, Russian superiority in armour, artillery, aircraft and manpower was so big it was hard to see how Ukraine could stop all those tanks rolling over the country’s eastern steppes and advancing into the country, encircling and destroying outnumbered Ukrainian forces.
-
-...
-
-[Data](articles/7a901a1d.json)
-
-[Extended Data](ext_articles/7a901a1d.ext.json)
-
----
-
-### Redefining success, Certis Lanka rebrands as SITREK Group
-
-*2024-04-08 02:46:32* · [`dailyftlk`](https://www.ft.lk/business/Redefining-success-Certis-Lanka-rebrands-as-SITREK-Group/34-760433) · `en`
-
-Certis Lanka, a pioneer in integrated security services, last week unveiled its new brand identity as SITREK Group, marking a significant milestone in its journey of over four decades. The grand reveal event took place at the prestigious Cinnamon Grand Colombo, attended by esteemed guests, stakeholders, and members of the media.
-
-The transformation to SITREK Group represents a strategic shift towards reaffirming the company’s commitment to its core values of Structure, Integrity, Trustworthiness, Responsibility, Excellence, and Knowledge. These pillars, ingrained in the essence of the organisation, symbolise its dedication to exceeding customer expectations while navigating towards becoming a fully Sri Lankan entity.
-
-...
-
-[Data](articles/9e868d5e.json)
-
-[Extended Data](ext_articles/9e868d5e.ext.json)
-
----
-
-### Discounts at Food Studio, One Galle Face and Colombo City Centre for CH17 Cardholders
-
-*2024-04-08 02:45:00* · [`dailyftlk`](https://www.ft.lk/business/Discounts-at-Food-Studio-One-Galle-Face-and-Colombo-City-Centre-for-CH17-Cardholders/34-760432) · `en`
-
-CH17 Loyalty CEO/Founder Jumar Preena with Food Studio Head of Commercial Louzanne Perera
-
-CH17 Loyalty inked a deal with Food Studio  for privilege dining experiences for CH17 cardholders at two of the FS managed food courts in the city’s most popular malls - One Galle Face & the Colombo City Centre mall.
-
-CH17 Loyalty plans to offer bigger discounts for selected card schemes to reward cardholders who have been loyal members of CH17 for a long period of time. “We thank all those who have been with us in our 11-year journey that has made CH17 the most sought after loyalty program provider in the country today,” CEO/Founder Jumar Preena said.
-
-...
-
-[Data](articles/a5b0fce2.json)
-
-[Extended Data](ext_articles/a5b0fce2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 10:18:13**
+As of **2024-04-08 10:33:55**
 
 ## Newspaper Stats
 
-*Scraped **17,756** Articles*
+*Scraped **17,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,118 +17,170 @@ economynextcom | 978
 islandlk | 979
 adalk | 1,490
 tamilmirrorlk | 2,089
-adaderanalk | 2,141
+adaderanalk | 2,142
 virakesarilk | 2,593
-dailymirrorlk | 2,713
+dailymirrorlk | 2,714
 adaderanasinhalalk | 2,880
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,748 (100.0%) of 17,756 articles have been extended.
+17,756 (100.0%) of 17,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### நிவாரணப் பணியாளர்கள் கொலை: இஸ்­ரே­லிய கேணல், மேஜர் பணி நீக்கம்
+### Relief Staff Killing: Israeli Colonel, Major dismissed
 
 *2024-04-08 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180665) · `ta`
 
-காஸாவில் தொண்டு நிறு­வன ஊழி­யர்கள் 7 பேர் கொல்­லப்­பட்ட தாக்­கு­த­லுக்கு உத்­த­ர­விட்ட தனது படை அதி­கா­ரிகள் இருவரை பணி­நீக்கம் செய்­துள்­ள­தாக இஸ்ரேல் அறி­வித்­துள்­ளது.
+Israel dismissed two army officers for ordering a drone attack that killed seven NGO employees, including citizens from the US, UK, Australia, Poland, and a US-Canadian dual citizen. The incident led to a heavy attack on Israel, with the Israeli Prime Minister and President apologizing. Israel's Security Forces have taken responsibility for the investigation. The US and other countries have called for an independent investigation. Israel has agreed to temporarily allow Gaza to allow distribution activities through its borders.
 
-காஸாவில் உணவுப் பொருட்­கள் விநி­யோ­கத்தில் ஈடு­பட்­டி­ருந்த, 'வேர்ல்ட் சென்ட்ரல் கிச்சன்' எனும் அமெ­ரிக்க தொண்டு நிறு­வ­னத்தைச் சேர்ந்த ஊழி­யர்கள் பயணம் செய்த வாக­னத்தின் மீது கடந்த திங்­கட்­கி­ழமை (01) இரவு  இஸ்ரேல் நடத்­திய தாக்­கு­தலால் 7 பேர் உயி­ரி­ழந்­தமை கடும் கண்­ட­னங்­க­ளுக்கு வழி­வ­குத்­துள்­ளது.
+🟩
 
-இத்­தாக்­குதல் தவ­று­த­லாக இடம்­பெற்­றது என இஸ்­ரே­லிய பிர­தமர் பெஞ்­சமின் நெத்­தன்­யாஹு கூறினார். அதே­வேளை இத்­தாக்­கு­த­லுக்கு தான் மன்­னிப்பு கோரு­வ­தாக இஸ்­ரே­லிய ஜனா­தி­பதி ஐசக் ஹேர்ஸாக் தெரி­வித்­தி­ருந்தார்.
+Israel has announced that it has fired two of its army officers who have ordered a killing of seven NGO employees in Gaza.
 
-இந்­நி­லையில், இச்­சம்­ப­வத்தில் பல்­வேறு தவ­று­களும்  விதி­மு­றை­ மீறல்­களும் இடம்­பெற்­றுள்­ள­தாக இஸ்­ரே­லிய பாது­காப்புப்படை தெரி­வித்­துள்­ளது.
+The death of 7 people from the US charity, 'World Central Kitchen', which was involved in food supply in Gaza, has led to a heavy attack on Israel last Monday (01).
+
+Israeli Prime Minister Benjamin Nethanyahu said the attack was mistakenly. At the same time, Israeli President Isaac Harsak has said he apologized for the attack.
+
+The Israeli Security Forces said that the incident had various mistakes and violations.
+
+The Israeli Security Forces report said that a Colonel and a Major who ordered the drone attack had been sacked and many senior officials, including the South Regional Commander, have been properly warned.
+
+The Israeli Security Force has said that the responsibility of investigating a criminal investigation into the incident has been handed over to the Army Advocate General.
 
 ...
 
 [Data](articles/73385151.json)
 
+[Extended Data](ext_articles/73385151.ext.json)
+
 ---
 
-### 3 மாதங்களில் சுற்றுலாத்துறையின் வருமானம் 100 கோடி அமெரிக்க டொலரை கடந்தது
+### President declares open flyover in Slave Island
+
+*2024-04-08 10:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98506/president-declares-open-flyover-in-slave-island) · `en`
+
+President Ranil Wickremesinghe inaugurated the flyover spanning the railway line linking Kompannavidiya (Slave Island) with Justice Akbar Mawatha and Uttarankanda Mawatha a short while ago, the President’s Media Division (PMD) reported.
+
+◼️
+
+[Data](articles/7c460253.json)
+
+---
+
+### Tourism's income in 3 months crossed US $ 100 billion
 
 *2024-04-08 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180662) · `ta`
 
-இவ் ஆண்டு முதல் மூன்று மாதங்களில் சுற்றுலா பயணிகளின் வருகை  635,784 ஆக பதிவாகியுள்ளதாக சுற்றுலாத்துறை அமைச்சர் ஹரின் பெர்னாண்டோ தெரிவித்துள்ளார்.
+Tourism income in 3 months exceeded $100 billion, with 635,784 tourist arrivals generating $1,025,000.
 
-இந்நிலையில், குறித்த காலப்பகுதியில் சுற்றுலா பயணிகளின் வருகையின் மூலம் 1,025,000,000 அமெரிக்க டொலர் வருமானம் கிடைத்துள்ளதாக அவர் தெரிவித்துள்ளார்.
+🟩
+
+Tourism Minister Harin Fernando said the arrival of tourists in the first three months of this year was 635,784.
+
+In this case, the arrival of tourists has earned US $ 1,025,000.
 
 ◼️
 
 [Data](articles/eeb73b56.json)
 
+[Extended Data](ext_articles/eeb73b56.ext.json)
+
 ---
 
-### කොම්පඤ්ඥවීදියේ නව ගුවන් පාලම ජන සතු කෙරේ
+### The new flyover in Slavidiary is owned by the people
 
 *2024-04-08 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195421) · `si`
 
-කොම්පඤ්ඥවීදිය, විනිසුරු අක්බාර් මාවත හා උත්තරානන්ද මාවත සම්බන්ධ කරමින් දුම්රිය මාර්ගයට ඉහළින් ඉදිකරන ලද ගුවන් පාලම අද (08) ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මීට සුළු මොහොතකට පෙර ජනතා අයිතියට පත් කර තිබේ.
+The new flyover in Slavidiary, owned by the people, was opened by President Ranil Wickremesinghe today, connecting Railway Line Mawatha, Referendiya Mawatha, and UK Language. Construction work is nearing completion.
 
-මෙම ව්‍යාපෘතියේ සෙසු ඉදිකිරීම් කටයුතු නුදුරේදී අවසන් කිරීමට නියමිත අතර, සමස්ත ව්‍යාපෘතිය වෙනුවෙන් ඇස්තමේන්තුගත මුදල රුපියල් 5,278,081,272.43ක් බව ජනාධිපති මාධ්‍ය ඒකකය නිවේදනය කරයි.
+🟩
+
+President Ranil Wickremesinghe has been opened by President Ranil Wickremesinghe today (08) after connecting the Railway Line Mawatha, Referendiya Mawatha and UK Language.
+
+The remaining construction work of the project is to be completed in the near future.
 
 ◼️
 
 [Data](articles/5ec5df47.json)
 
+[Extended Data](ext_articles/5ec5df47.ext.json)
+
 ---
 
-### ඩොලර් ගේන සංචාරකයෝ
+### Dollar tourists
 
 *2024-04-08 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195420) · `si`
 
-මේ වසරේ පළමු මාස 03තුළ සංචාරකයින් 635,784 දෙනෙකු මෙරටට පැමිණ ඇති බව සංචාරක අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+"Dollar tourists: 635,784 arrived in Sri Lanka in Q1, earning $1.025B. This is likely the highest number of tourists this year, surpassing 2018's record."
 
-එමඟින් උපයා ඇති ආදායම අමෙරිකානු ඩොලර් මිලියන 1,025ක් බව අමාත්‍යවරයා සඳහන් කරයි.
+🟩
 
-වසරක් තුළ මෙරටට පැමිණි වැඩිම සංචාරකයින්ගේ සංඛ්‍යාව මෙම වසරේ දී වාර්තා වීමට බොහෝ දුරට ඉඩ තිබෙන බව ද ඔහු සඳහන් කළේය.
+Travel Minister Harin Fernando says that 635,784 tourists have arrived in Sri Lanka in the first three months of this year.
 
-මේ වනවිට වසරක දී වැඩිම සංචාරකයින් පිරිසක් මෙරටට පැමිණ ඇත්තේ 2018 වසරේ දී වන අතර එම සංඛ්‍යාව ලක්ෂ 23ක් බව සංචාරක අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසා ඇත.
+The income earned is US $ 1,025 million, he said.
+
+He added that the number of tourist number of tourist arrivals in Sri Lanka is most likely to be recorded this year.
+
+Minister of Tourist Minister Harin Fernando has said that the highest number of tourists arrived in Sri Lanka in 2018.
 
 ◼️
 
 [Data](articles/56b99f2c.json)
 
+[Extended Data](ext_articles/56b99f2c.ext.json)
+
 ---
 
-### විහාරස්ථානයක ගරාජයක් තුළ පුද්ගල ඝාතනයක්
+### Murder in a garage in a temple
 
 *2024-04-08 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195419) · `si`
 
-සැකකටයුතු ලෙස මියගොස් තිබු මළ සිරුරක් මහනුවර ගැටඹේ ප්‍රදේශයේ තිබී සොයාගෙන තිබේ.
+A 42-year-old from Menikhinna was found murdered in a garage in Kandy's Gulamba area. Kandy police arrested a civilian bodyguard and are investigating further.
 
-එම ප්‍රදේශයේ විහාරස්ථානයක ගරාජයක් තුළ පුද්ගලයෙකු මිය ගොස් ඇති බවට මහනුවර පොලිස් ස්ථානයේ නිලධාරීන්ට ලද තොරතුරක් මත විමර්ශන ආරම්භ කර ඇති බව සඳහන්ය.
+🟩
 
-පොලිස් ස්ථානයේ නිලධාරීන් විසින් සිද්ධිය වූ ස්ථානය ගොස් පරීක්ෂා කිරීමේදී මියගිය පුද්ගලයාගේ දෙපා හා අත් ලණුවකින් ගැට ගසා මුනින් අතට වැටී පරදීමකින් ඇති වූ තුවාල සහිතව මියගොස් සිට ඇති බව පොලීසිය පැවසුවේය.
+The body of suspicion was found in the Gulamba area in Kandy.
 
-මියගොස් ඇත්තේ 42 හැවිරිදි මැණික්හින්න ප්‍රදේශයේ පදිංචිව සිට අයෙකු බව සඳහන්ය.
+Investigations have commenced on information received by the Kandy police station to the Kandy police station.
 
-සිද්ධිය වන විට එම විහාරස්ථානයේ ආරක්ෂාව සඳහා යොදවා සිටි සිවිල් ආරක්ෂක භටයෙකු අත්අඩංගුවට ගෙන ඇති අතර මහනුවර පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+The police station officials were tied to the incident and tied up the deceased and a cord, police said.
+
+The victim was a 42 year old resident of the Menikhinna area.
+
+A civilian bodyguard deployed for the safety of the temple was arrested and the Kandy Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/db015bf3.json)
 
+[Extended Data](ext_articles/db015bf3.ext.json)
+
 ---
 
-### பூநகரியில் 10 கிலோ வெடி மருந்துடன் ஒருவர் கைது
+### A man arrested for 10 kg of explosives in Poonakari
 
 *2024-04-08 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180661) · `ta`
 
-கிளிநொச்சி - பூநகரி பகுதியை சேர்ந்த நபர் ஒருவர் ஆபத்தான வெடிமருந்தை , மோட்டர் சைக்கிளில் கடத்தி செல்வதாக பூநகரி பொலிஸாருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் பிரகாரம் பொலிஸார் விசேட நடவடிக்கையை மேற்கொண்டு , மோட்டார் சைக்கிளில் பயணித்த நபரை மடக்கி பிடித்து கைதுசெய்தனர்.
+A man was arrested in Poonakari for smuggling 10 kg of C-4 ammunition on a motorcycle.
 
-குறித்த நபரிடம் இருந்து 10 கிலோ நிறையுடைய சி - 4 ரக வெடிமருந்தை பொலிஸார் மீட்டனர்.
+🟩
 
-அதனை அடுத்து குறித்த நபரை கைதுசெய்து பூநகரி பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை பொலிஸார் முன்னெடுத்துள்ளமை குறிப்பிடத்தக்கது.
+According to the confidential information received by the Poonakari police that a person from Kilinochchi - Poonakari area was smuggled into a motorcycle, the police took special action and arrested a man on a motorbike.
+
+Police recovered 10 kg of C -4 ammunition from the person.
+
+It is noteworthy that the police have carried out investigations and detained the man and detained at the Poonakari police station.
 
 ◼️
 
 [Data](articles/f671ca60.json)
+
+[Extended Data](ext_articles/f671ca60.ext.json)
 
 ---
 
@@ -184,27 +236,35 @@ According to Unicef, the current outbreak is the worst in 25 years. Since Octobe
 
 ---
 
-### පාදුක්කේ වෙඩිතැබීමේ සිදුවීම ගැන ගුවන් හමුදාවෙන් විශේෂ පරීක්ෂණයක්
+### Air Force special investigations into the shooting of Padukka
 
 *2024-04-08 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195418) · `si`
 
-අද (08) අලුයම පාදුක්ක, අංගමුව ප්‍රදේශයේ දී සිදුකළ වෙඩි ප්‍රහාරයකින් ගුවන් හමුදා සෙබළෙක් ජීවිතක්ෂයට පත්වීම සම්බන්ධයෙන් ගුවන් හමුදාව විශේෂ පරීක්ෂණයක් ආරම්භ කර තිබේ.
+The Air Force is investigating a shooting in Padukka, where a police officer and STF member were shot by a suspect, who was later identified as the main suspect in a Talgahawila incident. The suspect was injured and died after being admitted to the hospital.
 
-නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා ගුවන් හමුදා මාධ්‍ය ප්‍රකාශක, ගෲප් කැප්ටන් දුෂාන් විජේසිංහ මහතා සඳහන් කර ඇත්තේ, ගුවන් හමුදා රග්බි සංචිතයට අනුයුක්තව සේවය කළ ගුවන් හමුදා කෝප්‍රල්වරයෙකු එලෙස ජීවිතක්ෂයට පත්ව ඇති බවය.
+🟩
 
-අද අලුයම පොලීසිය සහ පොලිස් විශේෂ කාර්ය බළකාය අංගමුව ප්‍රදේශයේ රාත්‍රී මුර සංචාර කටයුතුවල නිරතව සිටිය දී පැමිණි අදාළ යතුරුපැදියකට නවත්වන ලෙස නියෝග කර ඇති බව වාර්තා වේ.
+The Air Force has commenced a special investigation into a shooting at Angamuwa, Padukka this morning.
 
-කෙසේවෙතත් අදාළ පුද්ගලයා පොලිස් අණ නොතකා යතුරුපැදිය ධාවනය කර ඇති අතර ඔහු පොලීසිය දෙසට වෙඩි ප්‍රහාර කිහිපයක් ද එල්ල කර තිබේ.
+The Sri Lanka Air Force Spokesman Group Captain Dushan Wijesinghe has said that a SLAF Corporal attached to the Air Force Rugby Pool.
 
-එහිදී පොලීසිය සහ පොලිස් විශේෂ කාර්ය බළකාය ආත්මආරක්ෂාව සඳහා වෙඩි තබා ඇති බව වාර්තා වේ.
+It is reported that the police and the STF have been ordered to be stopped in a nearby motorcycle while the police and the STF was engaged in a motorcycle in the Angamuwa area.
 
-වෙඩි වැදීමෙන් තුවාල ලැබු එම පුද්ගලයා ප්‍රතිකාර සඳහා පාදුක්ක රෝහලට ඇතුළත් කර තිබේ.
+However, the man has been operated the motorcycle despite the police orders and has shot several shots.
 
-පාදුක්ක රෝහලේ ප්‍රතිකාර ලබමින් සිටි සැකකරු පසුව මියගොස් ඇති බව පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේය.
+The police and the STF personnel have been shot for soul security.
 
-...
+The man who was injured in the shooting has been admitted to the Padukka Hospital for treatment.
+
+The suspect, who was receiving treatment at the Padukka Hospital, had died later.
+
+According to the police, the man was the main suspect in the Talgahawila area in Horana yesterday (07).
+
+◼️
 
 [Data](articles/d1827df1.json)
+
+[Extended Data](ext_articles/d1827df1.ext.json)
 
 ---
 
@@ -225,6 +285,26 @@ However, the salaries for April will be paid on April 10 in view of the New Year
 [Data](articles/223bff8c.json)
 
 [Extended Data](ext_articles/223bff8c.ext.json)
+
+---
+
+### Corporal from Air Force Rugby pool killed in police shootout
+
+*2024-04-08 08:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Corporal-from-Air-Force-Rugby-pool-killed-in-police-shootout/155-280362) · `en`
+
+Padukka, April 8 (Daily Mirror) - A Sri Lanka Air Force (SLAF) Corporal attached to the Sri Lanka Air Force Rugby pool, was killed in a shooting by the police and Special Task Force (STF) at Angamuwa in Padukka this morning.
+
+Police said the deceased is suspected to be the main suspect in the shooting incident at Moragahahena where two persons were killed.
+
+He had reportedly ignored an order to stop at a checkpoint during a Police-STF operation this morning. The victim was riding a motorcycle at the time of the incident.
+
+Police said the motorcyclist allegedly opened fire at the police personnel. Subsequently, when the police returned fire, the motorcyclist had sustained injuries and had died on admission to the Padukka Hospital.
+
+Meanwhile, SLAF spokesman Group Captain Dushan Wijesinghe said that the SLAF Commander has initiated an inquiry  into the incident.
+
+...
+
+[Data](articles/1719348a.json)
 
 ---
 
@@ -841,6 +921,8 @@ As the bank employees were not satisfied with regard to their requests for a New
 ...
 
 [Data](articles/7f008da4.json)
+
+[Extended Data](ext_articles/7f008da4.ext.json)
 
 ---
 
@@ -2169,45 +2251,5 @@ The Sri Lanka Freedom Party is the oldest party in this country. With the countr
 [Data](articles/ad268a7b.json)
 
 [Extended Data](ext_articles/ad268a7b.ext.json)
-
----
-
-### Two diplomatic ministers - Chanakyan
-
-*2024-04-07 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180643) · `ta`
-
-Batticaloa district residents vote against budget to reduce prices, contrasting with two diplomatic ministers' support. The increase in milk, gas, electricity, and water fares is attributed to former President Gotabhaya Rajapakse or current President Ranil Wickremesinghe. The situation is linked to local voting patterns, with the ministers' support influenced by the district's political leanings.
-
-🟩
-
-The people in the Batticaloa district are responsible for the increase in prices. We vote against the budget to reduce prices. On the contrary, the two diplomatic ministers in our district are raising their hands in support of the budget, saying that it is not okay to increase the price, "said Batticaloa district parliamentarian of the Sri Lanka Tamil State Party.
-
-The Rehabilitation Meeting of the Women's Team Reconstruction of Manmunai South Eruvil in the Batticaloa District of the Sri Lanka Tamil National Party was held at the office of Parliament Member R. Sanakkan, located in Kaluwanchikudi on Sunday (07).
-
-Arumugam Rathinswari was elected as the leader of the Sri Lanka Tamil State Party in South Eruvil, and the Secretary of the Executive Committee was elected.
-
-...
-
-[Data](articles/66f659a8.json)
-
-[Extended Data](ext_articles/66f659a8.ext.json)
-
----
-
-### A urgent announcement of tomorrow heating
-
-*2024-04-07 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195404) · `si`
-
-The Meteorological Department warns of high body heat levels tomorrow.
-
-🟩
-
-The Meteorological Department (Met Department) issued a new statement that the heat of the human body is in a level of "attention" tomorrow (08).
-
-◼️
-
-[Data](articles/d3f90adf.json)
-
-[Extended Data](ext_articles/d3f90adf.ext.json)
 
 ---

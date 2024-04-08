@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 14:03:15**
+As of **2024-04-08 14:18:24**
 
 ## Newspaper Stats
 
-*Scraped **17,827** Articles*
+*Scraped **17,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 972
 islandlk | 979
 economynextcom | 987
 adalk | 1,497
-tamilmirrorlk | 2,097
-adaderanalk | 2,148
+tamilmirrorlk | 2,098
+adaderanalk | 2,149
 virakesarilk | 2,612
 dailymirrorlk | 2,724
 adaderanasinhalalk | 2,890
@@ -26,63 +26,117 @@ adaderanasinhalalk | 2,890
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,824 (100.0%) of 17,827 articles have been extended.
+17,827 (100.0%) of 17,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### පොහොට්ටුව, සජබය අල්ලන් -ජනපති
+### 23 including organised criminal gang members arrested by special police teams
+
+*2024-04-08 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98514/23-including-organised-criminal-gang-members-arrested-by-special-police-teams) · `en`
+
+A total of 13 suspects involved in organised crime and 10 other individuals suspected of aiding and abetting them have been arrested, police said.
+
+The suspects in question were arrested during raids carried out by 20 special police teams deployed in the Southern and Western provinces in order to combat underworld activities and organised crime, parallel to the ongoing ‘Yukthiya’ anti-drug operation.
+
+◼️
+
+[Data](articles/a9cb2759.json)
+
+---
+
+### ஓட்டோவில் வந்தவர் சைக்கிளில் தப்பி ஓட்டம்
+
+*2024-04-08 14:00:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓட்டோவில்-வந்தவர்-சைக்கிளில்-தப்பி-ஓட்டம்/175-335739) · `ta`
+
+யாழ்ப்பாணத்தில் முச்சக்கர வண்டியை திருடி சென்ற ஒருவரை பொலிஸார் மடக்கி பிடிக்க முற்பட்ட போது , சந்தேகநபர் வீதியால் சென்ற மாணவனின் துவிச்சக்கர வண்டியை பறித்துக்கொண்டு  தப்பி சென்றுள்ள சம்பவம் பதிவாகியுள்ளது .
+
+யாழ்.போதனா வைத்தியசாலைக்கு  சென்ற ஒருவர் தனது முச்சக்கர வண்டியை அருகில்  நிறுத்தி விட்டு , மருத்துவ மனைக்கு சென்று திரும்பிய போது தனது முச்சக்கர வண்டி களவாடப்பட்டதை அறிந்து அது தொடர்பில் உடனடியாக யாழ்ப்பாணம் பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்துள்ளார்.
+
+இந் நிலையில்  களவாடப்பட்ட முச்சக்கர வண்டி,  யாழ்ப்பாணம் - காங்கேசன்துறை வீதியில் இணுவில் மத்திய கல்லூரிக்கு முன்பாக பயணித்த போது , அதனை அப்பகுதியில் கடமையில் இருந்த போக்குவரத்து பொலிஸார் கண்ணுற்று , முச்சக்கர வண்டியை வழிமறித்துள்ளனர்.
+
+அப்போது சந்தேக நபர் முச்சக்கர வண்டியை   கைவிட்டு  ,  வீதியில் துவிச்சக்கர வண்டியில் பயணித்துக்கொண்டிருந்த மாணவனின் துவிச்சக்கர வண்டியை பறித்துக்கொண்டு அதில் தப்பியோடியுள்ளார்.
+
+...
+
+[Data](articles/dcee71ed.json)
+
+---
+
+### Povett, Hagabi is in connection with the President
 
 *2024-04-08 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195431) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය ජී.එල්.පීරිස් මහතා ඇතුළු ශ්‍රී ලංකා පොදුජන පෙරමුණේ පිරිසක් මේ වනවිට සමඟි ජන බලවේගය අත්පත් කරගෙන ඇතැයි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe discusses the economic crisis, the UNP's role, and the party's history, mentioning a reconciliation with Professor GL Peiris and Sri Lankan families.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ එක්සත් ජාතික පක්ෂ ක්‍රියාකාරීන් අතර හමුවක් මහනුවර ජනාධිපති මන්දිරයේදී ඊයේ (07)පැවැත්වුණා.
+🟩
+
+President Ranil Wickremesinghe says that Professor GL Peiris and a group of Sri Lankan families have acquired the reconciliation.
+
+President Ranil Wickremesinghe and UNP activists were held at the President's House in Kandy yesterday.
 
 ...
 
 [Data](articles/025683cd.json)
 
+[Extended Data](ext_articles/025683cd.ext.json)
+
 ---
 
-### தமிழர் தரப்பில் பொது வேட்பாளர் : தமிழ் கட்சிகளுடன் கலந்துரையாட தீர்மானம் - சுரேஸ் பிரேமச்சந்திரன்
+### General candidate on Tamil party: Suresh Premachandran
 
 *2024-04-08 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180703) · `ta`
 
-ஜனாதிபதி தேர்தலில் தமிழர் தரப்பில் பொது வேட்பாளரை நியமிப்பதற்காக தமிழ் தேசியப்பரப்பில் உள்ள தமிழ் கட்சிகளுடன் ஜனநாயக தமிழ் தேசிய கூட்டணி கலந்துரையாடவுள்ளதாக ஜனநாயக தமிழ் தேசியக்கூட்டணியின் பேச்சாளரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான சுரேஸ் பிரேமச்சந்திரன் தெரிவித்தார்.
+Suresh Premachandran, TNA spokesperson, discusses TNA's strategy for the presidential election, including setting up district committees and consulting with civil organizations. The TNA aims to address the economic issues in Sri Lanka, which could lead to solving the national problem of the Tamil people.
 
-ஜனநாயக தமிழ் தேசியக்கூட்டணியின் நிறைவேற்றுக்குழு கூட்டம் சனிக்கிழமை (6) வவுனியா தனியார் விடுதியில் இடம்பெற்றதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-ஜனநாயக தமிழ் தேசிய கூட்டணியை பலப்படுத்தும் செயற்பாடுகள் முன்னெடுக்கப்படுகின்றது. இதன் பிரகாரம் மாவட்ட மட்டத்தில் குழுக்களை அமைக்கும் பணிகளை முன்னெடுத்து வருகின்றோம்.
+Suresh Premachandran, a spokesman for the Democratic Tamil National Alliance (TNA), said that the Democratic Tamil National Alliance (TNA) will discuss with the Tamil parties in the Tamil National Alliance to appoint a common candidate on the presidential election.
 
-8 மாவட்டங்களுக்குமான குழுக்கள் இந்த மாத இறுதியில் அமைக்கப்படும். இதன் பின்னர் அனைத்து மாவட்ட குழுக்களையும் ஒன்று கூட்டி கூட்டமொன்றினை வவுனியாவில் மே மாதம் 25 ஆம் திகதி நடத்தவுள்ளோம் இதனூடாக கிராம மட்டத்தில் எமது ஜனநாயக தமிழ் தேசிய கூட்டணியை கொண்டு செல்லும் வேலைத்திட்டம் ஆரம்பிக்கப்படும்.
+He was speaking to the media after the meeting of the Democratic Tamil National Alliance (TNA) Executive Committee on Saturday (6) at the Vavuniya private hotel.
+
+Strengthening the Democratic Tamil National Alliance. Accordingly, we are carrying out work on setting up groups at the district level.
+
+Committees for 8 districts will be set up at the end of this month. Thereafter all district committees will convene a meeting in Vavuniya on May 25, with a program to carry out our Democratic Tamil National Alliance at the village level.
+
+We are also consulting with others on the presidential election in the next presidential election.
+
+It has now been converted into a diaspora country. Some civil organizations are also working on this.
 
 ...
 
 [Data](articles/47ac85d6.json)
 
+[Extended Data](ext_articles/47ac85d6.ext.json)
+
 ---
 
-### வடக்கில் ஒரு வருடத்தில் 50 பேர்  நீரில் மூழ்கி உயிரிப்பு!
+### 50 people drown in the north a year
 
-*2024-04-08 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180705) · `ta`
+*2024-04-08 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180705) · `ta`
 
-வடமாகாணத்தில் கடந்த ஆண்டு நீரில் மூழ்கி 50 பேர் உயிரிழந்துள்ளனர் என பொலிஸார் தெரிவித்துள்ளனர்
+"50 drownings in Northern Province annually, with 700-800 deaths yearly, peaking during festive seasons."
 
-யாழ்ப்பாண பொலிஸ் பிராந்தியத்தில் 13 பேரும் , காங்கேசன்துறை பொலிஸ் பிராந்தியத்தில் 2 பேரும் , மன்னார் பொலிஸ் பிராந்தியத்தில் 6 பேரும் , வவுனியா பொலிஸ் பிராந்தியத்தில் 5 பேரும், முல்லைத்தீவு பொலிஸ் பிராந்தியத்தில் 8  பேரும் மற்றும் கிளிநொச்சி பொலிஸ் பிராந்தியத்தில் 16 பேருமாக வடக்கில் 50 பேர் நீரில் மூழ்கி உயிரிழந்துள்ளனர்.
+🟩
 
-"நாளாந்தம் இரண்டு அல்லது மூன்று பேர் நீரில் மூழ்கி உயிரிழக்கின்றனர். எங்களின் தகவல்களின்படி வருடாந்தம் 700 - 800 பேர் இவ்வாறு இறக்கின்றனர். பண்டிகை காலத்தில் இந்த எண்ணிக்கை அதிகரித்து வருகிறது" என சுகாதார அமைச்சின் தொற்றா நோய், விபத்து தடுப்பு மற்றும் முகாமைத்துவ பிரிவின் தலைவர் சமூக வைத்திய நிபுணர் சமித்த சிறிதுங்க தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+Fifty people were killed in the Northern Province last year, police said
+
+13 people in the Jaffna Police Region, 2 in the Kankesanthurai Police Region, 6 in the Mannar Police Region, 5 in the Vavuniya Police Region, 8 in the Mullaitivu Police Region and 16 in the Kilinochchi police region.
+
+“Two or three people are drowning in the water every day. According to our information, 700 - 800 people die annually. This number is increasing during the festive season, ”said Sirika, the head of the Health Ministry, Social Medical Expert, Socialist Medical Expert.
 
 ◼️
 
 [Data](articles/ff542772.json)
 
+[Extended Data](ext_articles/ff542772.ext.json)
+
 ---
 
 ### Public Works on 6 people supporting Sajith
 
-*2024-04-08 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180706) · `ta`
+*2024-04-08 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/180706) · `ta`
 
 Six Sri Lanka PA members face disciplinary action in tomorrow's meeting chaired by Mahinda Rajapaksa, discussing with United People's Power.
 
@@ -2225,49 +2279,5 @@ The revised advisory no longer includes previous concerns regarding shortages of
 [Data](articles/c3cbdfbb.json)
 
 [Extended Data](ext_articles/c3cbdfbb.ext.json)
-
----
-
-### SJB accuses JVP of avoiding economic debate challenge
-
-*2024-04-08 04:22:26* · [`dailyftlk`](https://www.ft.lk/news/SJB-accuses-JVP-of-avoiding-economic-debate-challenge/56-760441) · `en`
-
-Says JVP is resorting to making various claims and statements to evade a face-off
-
-Stresses that regardless of polls a party’s core economic policies must remain unchanged
-
-Claims JVP is uncertain of its own economic policies and is thus evading a debate
-
-Samagi Jana Balawegaya (SJB) Deputy General Secretary Mujibur Rahman yesterday criticised the rival Janatha Vimukthi Peramuna (JVP) for sidestepping the challenge posed by the SJB economic council to engage in a public debate on the economy between the two parties.
-
-Instead, he said the NPP is resorting to making various claims and statements in an attempt to evade a face-off with the SJB.
-
-Speaking at a press conference in Colombo, Rahman emphasised that regardless of the upcoming elections, a party’s core economic policies must remain unchanged.
-
-...
-
-[Data](articles/31c60fe9.json)
-
-[Extended Data](ext_articles/31c60fe9.ext.json)
-
----
-
-### SLFP to hold politburo meeting today
-
-*2024-04-08 04:20:23* · [`dailyftlk`](https://www.ft.lk/news/SLFP-to-hold-politburo-meeting-today/56-760440) · `en`
-
-The Sri Lanka Freedom Party (SLFP) has scheduled a gathering of its politburo today (8) to strategise on navigating the party’s current internal crisis and charting its future course of action.
-
-Former President Chandrika Bandaranaike Kumaratunga is expected to preside over the meeting.
-
-On 4 April, the Colombo District Court issued an interim injunction restraining former President Maithripala Sirisena from carrying out his duties as the SLFP Chairman, in response to a complaint lodged by Kumaratunga.
-
-However, Sirisena has responded, stating his intention to provide the court with relevant information on the issue. Meanwhile, SLFP Acting General Secretary Dushmantha Mithrapala filed a complaint with the Maradana Police on Friday (5), alleging the disappearance of several ‘important’ files from the party headquarters.
-
-...
-
-[Data](articles/5ccf73af.json)
-
-[Extended Data](ext_articles/5ccf73af.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 01:18:10**
+As of **2024-04-09 01:33:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,938 (100.0%) of 17,945 articles have been extended.
+17,945 (100.0%) of 17,945 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Present at the inauguration were Maersk South Asia Managing Director Vikash Agar
 
 [Data](articles/cd45f62e.json)
 
+[Extended Data](ext_articles/cd45f62e.ext.json)
+
 ---
 
 ### Cabinet clears Electricity Sector Reforms Bill for Parliament approval
@@ -66,6 +68,8 @@ The proposed electricity sector reforms bill marks a pivotal step in the Governm
 
 [Data](articles/6a646989.json)
 
+[Extended Data](ext_articles/6a646989.ext.json)
+
 ---
 
 ### Canadian envoy visits BOI
@@ -78,6 +82,8 @@ Canadian High Comm-issioner Eric Walsh met with the Board of Investment Chairman
 
 [Data](articles/ecf34535.json)
 
+[Extended Data](ext_articles/ecf34535.ext.json)
+
 ---
 
 ### Correction
@@ -89,6 +95,8 @@ In the article titled “Skywings Travel celebrates 30-year journey of Sri Lanka
 ◼️
 
 [Data](articles/1a64cd01.json)
+
+[Extended Data](ext_articles/1a64cd01.ext.json)
 
 ---
 
@@ -108,6 +116,8 @@ The strategic plan includes the installation of 68 remaining piles, construction
 
 [Data](articles/56da449a.json)
 
+[Extended Data](ext_articles/56da449a.ext.json)
+
 ---
 
 ### FREE TRADE ZONE MANUFACTURERS ASSOCIATION ELECTS NEW TEAM
@@ -121,6 +131,8 @@ Tropical Findings Director Dhammika Fernando was re-elected as the Chairman for 
 ...
 
 [Data](articles/efa691cd.json)
+
+[Extended Data](ext_articles/efa691cd.ext.json)
 
 ---
 
@@ -184,27 +196,33 @@ The Minister said that 200 electric buses will be issued to Kandy to carry out u
 
 ---
 
-### பல அத்தியாவசிய பொருட்களின் விலைகள் குறைந்தன
+### The prices of many essential commodities were down
 
 *2024-04-09 00:04:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-அத்தியாவசிய-பொருட்களின்-விலைகள்-குறைந்தன/175-335770) · `ta`
 
-புதுவருடத்தை முன்னிட்டு லங்கா சதொச நிறுவனம் பல அத்தியாவசிய பொருட்களின் விலைகளைக் குறைத்துள்ளது.
+Sri Lanka Sathosa reduced prices of essential commodities for New Year. Chilli now costs 850 rupees, onions from China 375, from India/Pakistan 445, and potatoes 165 rupees. Red pulses and white rice prices also decreased.
 
-இதற்கமைய 1 கிலோ செத்தல்  மிளகாய் 300 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன் புதிய விலை 850 ரூபாவாகும்.
+🟩
 
-சீனாவில் இருந்து இறக்குமதி செய்யப்படும் 1 கிலோ வெங்காயத்தின் விலை 120 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன், அதன் புதிய விலை 375 ரூபாவாகும்.
+Sri Lanka Sathosa has reduced the prices of many essential commodities ahead of the New Year.
 
-இந்தியா மற்றும் பாகிஸ்தானில் இருந்து இறக்குமதி செய்யப்படும் வெங்காயத்தின் விலை 50 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன் அதன் புதிய விலை 445 ரூபாவாகும்.
+Accordingly, 1 kg of chilli has been reduced by 300 rupees and the new price is 850 rupees.
 
-1 கிலோ வௌ்ளைபூடு 15 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன் அதன் புதிய விலை 680 ரூபாவாகும்.
+The price of 1 kg of onions imported from China has been reduced by 120 rupees and its new price is 375 rupees.
 
-1 கிலோ உருளைக்கிழங்கு 10 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன் அதன் புதிய விலை 165 ரூபாவாகும்.
+Onions imported from India and Pakistan have been reduced by 50 rupees and its new price is 445 rupees.
 
-அத்துடன் சிகப்பு பருப்பின் விலையை 7 ரூபாவினாலும் வெள்ளை அரிசியின் விலையை 3 ரூபாவினாலும் குறைக்கவும் லங்கா சதொச நிறுவனம் தீர்மானித்துள்ளது. R
+1kg is reduced by 15 rupees and its new price is 680 rupees.
+
+1 kg of potatoes have been reduced by 10 rupees and its new price is 165 rupees.
+
+Lanka Sathosa has also decided to reduce the price of red pulses by 7 rupees and white rice by 3 rupees.. Remble
 
 ◼️
 
 [Data](articles/ea2a7a12.json)
+
+[Extended Data](ext_articles/ea2a7a12.ext.json)
 
 ---
 

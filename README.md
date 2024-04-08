@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 08:05:57**
+As of **2024-04-08 08:18:13**
 
 ## Newspaper Stats
 
-*Scraped **17,732** Articles*
+*Scraped **17,734** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 159
-bbccomsinhala | 184
+bbccomsinhala | 185
 dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 972
@@ -20,33 +20,59 @@ tamilmirrorlk | 2,085
 adaderanalk | 2,139
 virakesarilk | 2,590
 dailymirrorlk | 2,708
-adaderanasinhalalk | 2,873
+adaderanasinhalalk | 2,874
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,727 (100.0%) of 17,732 articles have been extended.
+17,732 (100.0%) of 17,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### දියේ ගිලී වාර්ෂිකව ජීවිත 800ක් අහිමි වෙයි
+### අප්‍රේල් 15 රජයේ නිවාඩු දිනයක් ද?
+
+*2024-04-08 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195415) · `si`
+
+අප්‍රේල් මස 15 වන දා රජයේ නිවාඩු දිනයක් බවට පත්කිරීම අද (08) දිනයේ දී පැවැත්වෙන අමාත්‍ය මණ්ඩල රැස්වීමේ දී අවධානයට යොමු කිරීමට නියමිත ව තිබේ.
+
+අප්‍රේල් මස 14 වන දිනයේ අලුත් අවුරුදු නැකත් පැවැත්වෙන අතර අප්‍රේල් මස 15 වන සඳුදා සාමාන්‍ය රාජකාරී දිනයක් බවට මේ වන විට පත්ව තිබේ.
+
+කෙසේවෙතත් 15 වන සඳුදා දිනය රජයේ නිවාඩු දිනයක් බවට පත් කරන ලෙස බොහෝ පාර්ශ්ව මේ වන විට ඉල්ලීම් කර තිබුණත් ඒ සම්බන්ධයෙන් මේ දක්වා අවසන් තීරණයක් ගෙන නොමැත.
+
+එලෙස නිවාඩු දිනයක් බවට පත්කරන්නේ නම් ඒ සඳහා අමාත්‍ය මණ්ඩල තීරණයක් අවශ්‍ය බව ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා සඳහන් කර ඇත.
+
+ඒ අනුව අද පස්වරුවේ පැවැත්වෙන අමාත්‍ය මණ්ඩල රැස්වීමේ දී මේ සම්බන්ධයෙන් වැඩි අවධානයක් යොමු කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/9f38d0ea.json)
+
+---
+
+### Drowth of 800 lives annually
 
 *2024-04-08 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195414) · `si`
 
-දියේ ගිලීම් හේතුවෙන් දෛනිකව පුද්ගලයින් මියයෑමේ ප්‍රමාණය ඉහළ ගොස් ඇති බව සෞඛ්‍ය අමාත්‍යංශයේ බෝනොවන රෝග ඒකකයේ අනතුරු නිවාරණය සහ කළමනාකරණය පිළිබදව අංශ ප්‍රධානී ප්‍රජා වෛද්‍ය විශේෂඥ සමිත සිරිතුංග මහතා පවසයි.
+"800 lives lost annually to drowning. Health officials warn of increasing trend. Sri Lankans most at risk. Experts advise caution in unfamiliar waters."
 
-වාර්ෂිකව පුද්ගලයින් 800කගේ පමණ ජීවිත දියේ ගිලීම් හේතුවෙන් අහිමි වී යන බව  විශේෂඥ වෛද්‍ය සමිත සිරිතුංග මහතා කියා සිටියේය.
+🟩
 
-"සාමාන්‍යයෙන් ලංකාවේ දෙන්නෙක් හෝ තුන්දෙනෙක් දියේ ගිලීම්වලට ලක්වෙලා මිය යනවා. ඒ ප්‍රමාණය අපේ තියෙන තොරතුරු එක්ක සාමාන්‍යයෙන් 700 - 800ක් අතර ප්‍රමාණයක්. අවුරුදු කාලේ මේ ප්‍රවණතාවය යම් වැඩිවීමක් දක්නට ලැබෙනවා."
+Head Community Community Health Assistant Society of Health Community Union said that the number of people of the Ministry of Health has increased due to drowning due to drowning.
 
-නුපුරුදු ස්ථානවල දිය නෑමේ දී ඒ සම්බන්ධයෙන් වැඩි සැලකිල්ලක් දැක්විය යුතු බව විශේෂඥ වෛද්‍ය සමිත සිරිතුංග මහතා පැවසුවේය.
+A total of 800 people will be lost due to the lives of 800 people.
+
+"Two or three Sri Lankan people die from drowning. This is usually between 700 and 800 with the information we have. In the late the time, the trend will be seen. "
+
+Specialist Samaithunga said that at the dip of unfamiliar places, it should be more concerned about it.
 
 ◼️
 
 [Data](articles/b5e7608f.json)
+
+[Extended Data](ext_articles/b5e7608f.ext.json)
 
 ---
 
@@ -70,6 +96,8 @@ Rescuers had found five survivors and were searching for more, but sea condition
 
 [Data](articles/7d6c650e.json)
 
+[Extended Data](ext_articles/7d6c650e.ext.json)
+
 ---
 
 ### Showers expected in several provinces and districts
@@ -90,6 +118,8 @@ The nearest areas of Sri Lanka over which the sun is overhead today (08) are Mar
 
 [Data](articles/176fa828.json)
 
+[Extended Data](ext_articles/176fa828.ext.json)
+
 ---
 
 ### Suspect in Horana double murder killed in police shootout
@@ -108,25 +138,33 @@ The person who was shot dead at Angamuwa, Padukka is suspected to be the gunman 
 
 [Data](articles/4731791d.json)
 
+[Extended Data](ext_articles/4731791d.ext.json)
+
 ---
 
-### හොරණ ද්විත්ව ඝාතන සැකකරු පොලිස් වෙඩි පහරින් මරුට
+### Horana double murder suspect killed in police firing
 
 *2024-04-08 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195412) · `si`
 
-පාදුක්ක, අංගමුව ප්‍රදේශයේ දී  සිදුවු වෙඩිතැබීමකින් පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+A suspect in the Horana double murder case was killed by police in Angamuwa, Padukka. The victim, identified as an SLAF soldier, was shot while on a motorcycle. Despite being injured, he was admitted to the hospital.
 
-පොලිස් විශේෂ කාර්ය බළකාය සහ පොලීසිය විසින් සිදුකළ ඒකාබද්ධ මෙහෙයුමක් අතරතුර පොලිස් මාර්ග බාධකයක් අසල දී අණ නොතකා ධාවනය කළ යතුරුපැදියක් පොලීසියට වෙඩි ප්‍රහාරයක් එල්ල කර තිබේ.
+🟩
 
-කෙසේවෙතත් පොලීසියට එයට ප්‍රතිප්‍රහාර එල්ල කිරීමේ දී අදාළ යතුරුපැදිකරු තුවාල ලබා රෝහල්ගත කිරීමෙන් අනතුරුව ජීවිතක්ෂයට පත්ව ඇත.
+One person was killed in a shooting in Angamuwa, Padukka.
 
-එලෙස මියගොස් ඇත්තේ ශ්‍රී ලංකා ගුවන් හමුදා සෙබළෙක් බවට හඳුනාගෙන තිබේ.
+Police have shot a motorcycle who had not been committed by the STF and the police special operation.
 
-පොලීසිය පැවසුවේ, එම පුද්ගලයා ඊයේ (07) හොරණ තල්ගහවිල ප්‍රදේශයේ සිදුවු ද්විත්ව මනුෂ්‍ය ඝාතනය සිදුකළ ප්‍රධාන සැකකරු බවය.
+However, the motorcyclist has been injured and hospitalized when the police had been admitted to the police.
+
+The victim was identified as a SLAF soldier.
+
+According to the police, the man was the main suspect in the Talgahawila area in Horana yesterday (07).
 
 ◼️
 
 [Data](articles/4ffc5c7b.json)
+
+[Extended Data](ext_articles/4ffc5c7b.ext.json)
 
 ---
 
@@ -643,6 +681,26 @@ The Winners from the Maliban Group of Companies are Positha Perera – Category 
 [Data](articles/6f9a9785.json)
 
 [Extended Data](ext_articles/6f9a9785.ext.json)
+
+---
+
+### පොලිසියට මානව හිමිකම් පාඩමක් උගන්වන්න වෙයි ද?
+
+*2024-04-08 01:45:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd143wy282zo) · `si`
+
+ශ්‍රී ලංකා පොලිසියට මානව හිමිකම් කඩ කිරීම සම්බන්ධව දිගින් දිගටම චෝදනා එල්ල වීම හේතුවෙන් පොලිසියේ මානව හිමිකම් චර්යාව පිළිබඳව නැවත විමසා බලන්නට සිදුව තිබේ.
+
+වත්මන් පොලිස්පතිවරයා මුලික මිනිස් අයිතිවාසිකම් කඩ කළ නිලධාරියෙකු බව අධිකරණය තීන්දු කිරීම මෙන්ම මුලික අයිතිවාසිකම් කඩ වීම සම්බන්ධ නඩුකරයන් කිහිපයක්ම සමථය කර ගැනීම සඳහා අදාළ වින්දිතයින්ගෙන්  වැඳ සමාව ගැනීමට පොලිසියට සිදුවීම ඉන් කැපී පෙනන සිද්ධි කිහිපයකි.
+
+පොලිස්පති දේශබන්දු තෙන්කෝන් 2010 වසරේ නුගේගොඩ කොට්ඨාසයේ පොලිස් අධිකාරී ලෙස කටයුතු කළ සමයේ පුද්ගලයෙකුට වධ හිංසා කිරීමේ සිද්ධියක් සම්බන්ධයෙන් මුලික අයිතිවාසිකම් කඩ කළ බවට ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේ පසුගිය වසරේ දෙසැම්බර් 14 වැනිදා ය.
+
+සුමති ඉන්ෆොමේෂන් ටෙක්නොලොජි පුද්ගලික සමාගම විසින් ඉදිරිපත් කර තිබූ පෙත්සමක් සමථ කර ගැනීමට 2024 මාර්තු 01 වැනිදා කොල්ලුපිටිය පොලිසියේ නිලධාරියා විසින් පෙත්සම්කාර පාර්ශවයේ නියෝජිතයින්ගෙන් විවෘත අධිකරණයේ වැඳ සමාව ගන්නා ලදී.
+
+වින්දිතයින්ට කෝටි 15ක් වන්දි ගෙවන්නට සිදු වූ පොලිස් නිලධාරීන් කවුද?
+
+...
+
+[Data](articles/71f42085.json)
 
 ---
 
@@ -2161,51 +2219,5 @@ The first was an experiment called the Minimum Group Study (or Paradigm) devised
 [Data](articles/55934bea.json)
 
 [Extended Data](ext_articles/55934bea.ext.json)
-
----
-
-### Notice of the closure of liquor outlets
-
-*2024-04-07 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195397) · `si`
-
-The Commissioner General of Excise will close all alcohol sales except on 12th and 13th April, excluding resident travelers and top hotels. On Bucuppura Poya Day, all sales are prohibited. Complaints about crimes can be reported to the Excise Department.
-
-🟩
-
-The Commissioner General of Excise should be closed for the sale of all retailed alcohol, other than 12th and 13th April.
-
-It does not apply to resident travelers and special boutique wilic licensed places in top hotels of the tourism Development Authority.
-
-2024. 04. The Commissioner General of Excise License has been ordered to be closed for sale in the Bucuppura Poya Day on the 23rd day of the Bucuppura Poya Day.
-
-The public will be made aware of the complaints regarding the expiry crimes, drug crimes and tobacco operation of the Excise Department operating room at the Excise Department (1913 telephone number) or to the Excise Places and Excise Places of the island.
-
-◼️
-
-[Data](articles/89c5ef33.json)
-
-[Extended Data](ext_articles/89c5ef33.ext.json)
-
----
-
-### Child killed
-
-*2024-04-07 15:22:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/இளநீர்-லொறிக்கு-குழந்தை-பலி/73-335701) · `ta`
-
-A 2.5-year-old child was killed in Ampara when hit by a lorry near Namal Oya Lake. The child was admitted to Ikiniyagala Hospital but later died. The driver was arrested.
-
-🟩
-
-The incident occurred in Ampara when a two -and -a -half -year -old child crossed the road.
-
-The incident took place in the early part of the Namal Oya Lake in Ampara, police said.
-
-The injured child was admitted to Ikiniyagala Hospital. However, the hospital spokesman said the child had already died. The driver of the juvenile lorry has been arrested in connection with the accident.
-
-◼️
-
-[Data](articles/c2e696b1.json)
-
-[Extended Data](ext_articles/c2e696b1.ext.json)
 
 ---

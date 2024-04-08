@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 21:18:17**
+As of **2024-04-08 21:34:19**
 
 ## Newspaper Stats
 
-*Scraped **17,916** Articles*
+*Scraped **17,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ newsfirstlk | 363
 dailyftlk | 972
 islandlk | 979
 economynextcom | 993
-adalk | 1,511
+adalk | 1,512
 tamilmirrorlk | 2,106
-adaderanalk | 2,156
+adaderanalk | 2,157
 virakesarilk | 2,639
 dailymirrorlk | 2,734
-adaderanasinhalalk | 2,903
+adaderanasinhalalk | 2,904
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,916 (100.0%) of 17,916 articles have been extended.
+17,916 (100.0%) of 17,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### Sri Lanka and Indonesia to sign trade pact next March
+
+*2024-04-08 21:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98522/sri-lanka-and-indonesia-to-sign-trade-pact-next-march) · `en`
+
+Indonesia is seeking to sign its trade pact with Sri Lanka by next March while hoping that one year of negotiations is enough to close the deal.
+
+It has only been a few weeks since Indonesia and Sri Lanka agreed to formally discuss the preferential trade agreement (PTA). The first round of negotiations already took place virtually earlier this week, which zeroed in on the work plan and draft agreement text. The negotiators are set to enter more substantial chapters in the coming rounds.
+
+“Indonesia and Sri Lanka are … aiming to substantially conclude the negotiations by end-2024. We have also set a target to sign the agreement in March 2025,” a press statement by the Trade Ministry reads.
+
+The second round of talks is scheduled to take place in Colombo on June 19-20. Both countries will discuss the text concept, as well as market access.
+
+...
+
+[Data](articles/03d18791.json)
+
+---
+
+### අවසන් කැමැත්තට වැඩකරන්න අලුත් කමිටුවක්
+
+*2024-04-08 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195447) · `si`
+
+ඕනෑම පුද්ගලයෙකුගේ අවසන් කටයුතු සිදු කිරීමේදී ආගමානුකූලව හෝ අවසන් කැමති පත්‍රයට අනුව සිදුකිරීමට අවශ්‍ය කටයුතු සැලසීම සඳහා නව කමිටුවක් පත් කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ඊට අදාළ නීති සම්පාදනය කිරීමට ඉදිරියේදී කටයුතු කරන බව ද ජනාධිපතිවරයා සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මහනුවර කටුකැලේ ජුම්මා මුස්ලිම් පල්ලියේ ඊයේ (07) පැවති ඉෆ්තාර් උත්සවයට එක්වෙමිනි.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය,
+
+"පසුගිය කොරෝනා වසංගත සමයේ මුස්ලිම් ප්‍රජාව තමන්ගේ අවසන් කටයුතු නිසි ආකාරයෙන් සිදු කර ගැනීමට නොහැකිව දැඩි වේදනාකාරී තත්ත්වයක පසු වුණා. එම තත්ත්වය වෙනස් කිරීමට ඉදිරියේදී අප කටයුතු කරනවා. ඕනෑම කෙනෙකුට ආගමානුකූලව හෝ අවසන් කැමති පත්‍රයක් මඟින්, තමන්ට කැමති ලෙස අවසන් කටයුතු සිදු කර ගත හැකි නීති ඉදිරියේදී සකස් කරනවා. ඕනෑම කෙනෙකුට භූමදානය සඳහා හෝ ආදාහනය සඳහා අයිතියක් තිබෙනවා. එය ඔහුගේ හෝ ඇයගේ කැමැත්ත අනුව සිදු කිරීමට අවශ්‍ය නීති අප සකස් කරනවා."
+
+◼️
+
+[Data](articles/b3f97bed.json)
+
+---
 
 ### NPP says AKD ready for Presidential debate by Daily Mirror
 
@@ -115,6 +153,22 @@ The shooting was reportedly carried out with a pistol, causing injuries to the v
 [Data](articles/b9e0acf9.json)
 
 [Extended Data](ext_articles/b9e0acf9.ext.json)
+
+---
+
+### චමල් යළි රාජකාරී අරඹයි
+
+*2024-04-08 19:49:41* · [`adalk`](https://www.ada.lk/breaking_news/චමල්-යළි-රාජකාරී-අරඹයි/11-409021) · `si`
+
+මාස දාහතකට ආසන්න කාලයක් වැඩ තහනමකට ලක් කර සිටි  වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානයේ සභාපති විශේෂඥ වෛද්‍ය ජී. ජී. චමල් සංජීව මහතා අද (08දා)  යළි සේවයේ පිහිටුවා තිබේ.
+
+දරුවන්ගේ මන්ද පෝෂණය සම්බන්ධව සූරියවැව ප්‍රදේශයේ පැවැත්වූ  මාධ්‍ය සාකච්ඡාවකදී සිදුකළ ප්‍රකාශයක් මූලික කර ගනිමින් 2022 වසරේ නොවැම්බර් මාසයේදී ඒ මහතාගේ වැඩ තහනම් කිරීමට සෞඛ්‍ය අමාත්‍යාංශය කටයුතු කළේය.
+
+ඒ වන විට ඒ මහතා සෞඛ්‍ය අමාත්‍යාංශයේ සේවය කළ අතර  සේවය පිහිටු වීමෙන් පසු රාජකාරි භාර ගැනීම අද (08දා) සෞඛ්‍ය අමාත්‍යංශයේදී සිදුවිය.
+
+◼️
+
+[Data](articles/833dc669.json)
 
 ---
 
@@ -2305,81 +2359,5 @@ During Ramadan, the Muslim community is better off fasting. The Ramadan festival
 [Data](articles/7011b0ae.json)
 
 [Extended Data](ext_articles/7011b0ae.ext.json)
-
----
-
-### Is Sri Lanka safe to travel alone?Why has any social talk?
-
-*2024-04-08 13:05:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c164jkk79z8o) · `si`
-
-Sri Lanka's safety for solo travelers varies, with mixed social media responses. Tourism is recovering, but concerns remain, especially for women. Some travelers, like Dilini Udari and Vishwani Jayaweera, report positive experiences, emphasizing planning, awareness, and local interactions. However, others express safety concerns, particularly regarding public transportation and cultural differences.
-
-🟩
-
-Is Sri Lanka safe to travel alone?Why has any social talk?
-
-The Easter bomb explosion, the tourism industry in the face of the Coven and the Economic Crisis, Sri Lanka tourism is currently being resurrected. Minister of Tourism, Harin Fernando told the media that tourism was about $ 1 billion in the first three months.
-
-Most of the tourists visiting Sri Lanka at present are the visitors to visit. Most foreign women visit Sri Lanka to visit the same. A magazine called Timeout.com has been named the best destination for women who travel alone.
-
-Troops of 10 hills in Sri Lanka for 'Sollow Trave' in Sri Lanka
-
-...
-
-[Data](articles/f448816e.json)
-
-[Extended Data](ext_articles/f448816e.ext.json)
-
----
-
-### Politics in Sri Lanka is not a force struggle --.Sjith
-
-*2024-04-08 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195429) · `si`
-
-Sri Lankan politics, led by Opposition Leader Sajith Premadasa, is not a power struggle but a deepening division along caste, class, and race. Politicians should not support those defending elites. Progress requires reconciliation, not extremism, with a focus on social democracy. Dr. Surudaith Balay, an Indian economist, highlights Sri Lanka's social and human development, now facing economic crisis, with multiple leaders but no single face.
-
-🟩
-
-Opposition Leader Sajith Premadasa says Sri Lankan politics are not the power struggle, "says Leader of the Opposition.
-
-The Opposition Leader said that the politicians should not be given a chance to the politicians who are trying to defend an elite yesterday (07).
-
-"The political system of Sri Lanka is the deepening division and culture of our society. Politics in Sri Lanka is not more than a power struggle today. Every political propagation is prepared in a way that can manage the basement. And it is divided along the dimensions of the caste, class, race. Sustainable progress in Sri Lanka can only seek forgotten caste, class, race. We must stop nurturing politicians who strive to cause fear or revolutionary politicians or a certain class. In the reconciliation, we do not have a right-wing or extreme leftist ideology. We believe that social democracy is believed. "
-
-Dr. Surudaith Balay, one of the Indian economists, addressed the event.
-
-...
-
-[Data](articles/c260e411.json)
-
-[Extended Data](ext_articles/c260e411.ext.json)
-
----
-
-### Complete report asks for patients
-
-*2024-04-08 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195428) · `si`
-
-Lokawickrama orders DGHS to detail antibody-affected parties. Keheliya Rambukwella, 10 suspects, and attorneys discuss prostitute factor in relation to Human Development and Ritoximaps. Report due by May 31st.
-
-🟩
-
-Maligakanda Magistrate Lokawickrama today (08) ordered the Director General of Health Services.
-
-The case was taken up again in the Maligakkanda Magistrate's Court today.
-
-Former Health Minister Keheliya Rambukwella and the 10 suspects were brought to court this morning.
-
-Attorneys seemed for the prostitute factor in connection with the Prime of Human Development and Ritoximaps.
-
-Responding to the complaint, the Government General's Director General has issued an order to provide detailed details of prejudicated parties due to antibodies.
-
-Accordingly, Ms. Luchanavanda Magistrate Luchana Abeywawaka ordered the Director General of Health Services to submit the report before May 31st.
-
-◼️
-
-[Data](articles/30f17d9c.json)
-
-[Extended Data](ext_articles/30f17d9c.ext.json)
 
 ---

@@ -1,36 +1,84 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 09:52:38**
+As of **2024-04-08 10:04:23**
 
 ## Newspaper Stats
 
-*Scraped **17,744** Articles*
+*Scraped **17,748** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 159
-bbccomsinhala | 185
+bbccomsinhala | 186
 dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 972
 economynextcom | 978
 islandlk | 979
-adalk | 1,489
+adalk | 1,490
 tamilmirrorlk | 2,089
-adaderanalk | 2,140
+adaderanalk | 2,141
 virakesarilk | 2,590
-dailymirrorlk | 2,711
+dailymirrorlk | 2,712
 adaderanasinhalalk | 2,876
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,744 (100.0%) of 17,744 articles have been extended.
+17,744 (100.0%) of 17,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### SLAF launches separate probe after corporal killed in police fire
+
+*2024-04-08 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98505/slaf-launches-separate-probe-after-corporal-killed-in-police-fire) · `en`
+
+The Sri Lanka Air Force confirmed that an SLAF Volunteer Corporal of the Rugby pool died in an exchange of fire with police officers in Padukka.
+
+The Sri Lanka Air Force (SLAF) is conducting a separate inquiry into the incident, according to the SLAF Spokesman.
+
+It was reported this morning (08) that an individual was killed in an exchange of fire with police and Special Task Force (STF) personnel at Angamuwa in Padukka.
+
+The deceased was identified as a member of the Sri Lanka Air Force who was on a motorcycle and had defied an order to stop at a checkpoint during a Police-STF operation.
+
+Police said the motorcyclist had opened fire at the police personnel and was injured when the police returned fire. However, he had died on admission to the Padukka Hospital.
+
+The person who was shot dead at Angamuwa, Padukka is suspected to be the gunman in the shooting which killed two persons at Moragahahena in Horana yesterday, police said.
+
+◼️
+
+[Data](articles/299201f1.json)
+
+---
+
+### Mozambique ferry disaster kills more than 90
+
+*2024-04-08 09:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mozambique-ferry-disaster-kills-more-than-90/108-280374) · `en`
+
+Mozambique (BBC) - More than 90 people have died after a ferry sank off the north coast of Mozambique, local authorities say.
+
+Officials in Nampula province said five people had been rescued of the around 130 believed to have been on board.
+
+They were fleeing a cholera outbreak, Nampula Secretary of State Jaime Neto said. Many children were among the dead, he added.
+
+"Because the boat was overcrowded and unsuited to carry passengers it ended up sinking," Mr Neto said.
+
+Unverified video posted on social media purported to show dozens of bodies lying on a beach.
+
+The boat was apparently travelling from Lunga to Mozambique Island, off the coast of Nampula.
+
+Nampula province has been one of the worst-affected by the cholera outbreak which has spread over several countries in southern Africa since January last year.
+
+According to Unicef, the current outbreak is the worst in 25 years. Since October 2023, Mozambique has reported 13,700 confirmed cases and 30 deaths.
+
+...
+
+[Data](articles/634a2390.json)
+
+---
 
 ### Govt to release April salaries of employees with Rs. 10,000 allowance from today: Siyambalapitiya
 
@@ -78,7 +126,7 @@ In 2044, NASA has been able to see a full solar eclipse that is very rare.
 
 *2024-04-08 08:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Corporal-from-Air-Force-Rugby-pool-killed-in-police-shootout/108-280362) · `en`
 
-Padukka, April 8 (Daily Mirror) - An Sri Lanka Air Force (SLAF) Corporal attached to the Sri Lanka Air Force Rugby pool, was killed in a shooting by the police and Special Task Force (STF) at Angamuwa in Padukka this morning.
+Padukka, April 8 (Daily Mirror) - A Sri Lanka Air Force (SLAF) Corporal attached to the Sri Lanka Air Force Rugby pool, was killed in a shooting by the police and Special Task Force (STF) at Angamuwa in Padukka this morning.
 
 Police said the deceased is suspected to be the main suspect in the shooting incident at Moragahahena where two persons were killed.
 
@@ -613,6 +661,30 @@ Semasinghe stressed that even individuals who have missed out on previous subsid
 [Data](articles/5865c3ef.json)
 
 [Extended Data](ext_articles/5865c3ef.ext.json)
+
+---
+
+### ඇමෙරිකාවෙන් ලංකාවට ලබා දෙන ඔත්තු බැලීමේ යානය කුමක් ද?
+
+*2024-04-08 04:13:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cyxzendzrn0o) · `si`
+
+නුදුරේදීම විශේෂ ගුවන් යානාවක් ඇමෙරිකාවෙන් මෙරටට ලබා දීමට නියමිතව ඇතැයි ශ්‍රී ලංකා ගුවන් හමුදාව පවසයි.
+
+ඉන්දියන් සාගරයේ භූ ගෝලීය වශයෙන් වැදගත් ස්ථානයක පිහිටා තිබෙන ශ්‍රී ලංකාව ගැන ලෝකයේ අවධානය යොමු වන්නේ ඈත අතීතයේ සිටය.
+
+එම පිහිටීම නිසා දූපත් රාජ්‍යයක් වූ ශ්‍රී ලංකාවට ජාත්‍යන්තර නාවුක ගමන් මාර්ගයේ ඉතා වැදගත් ස්ථානයක් හිමිවන්නේ නිතැතිනි.
+
+ඒ හේතුවෙන් ශ්‍රී ලංකාවට අයත් සමුද්‍රීය සහ ගුවන් කලාපය රටේ ජාතික ආරක්ෂාවට ඉතා වැදගත් ලෙස සැලකෙයි.
+
+ගුවනේ සිට සමුද්‍රීය නිරීක්ෂණ කිරීමේ හැකියාව සහිත ඇමෙරිකානු ආරක්ෂක අංශ වලට අයත් ආවේක්ෂණ ගුවන් යානයක් ඉකුත් මාර්තු මාසයේදී ශ්‍රී ලංකාවට පැමිණියේය.
+
+එලෙස පැමිණි ගුවන් යානය චැලෙන්ජර් 605 වර්ගයේ නිරීක්ෂණ යානයක් වන අතර එය ‍ ගුවනේ සිට ආවේක්ෂණ කටයුතු සඳහා යොදා ගනු ලැබේ.
+
+බීබීසී සිංහල සේවය කළ විමසීමේදී ගුවන් හමුදා මාධ්‍ය ප්‍රකාශක ගෲප් කැප්ටන් දුෂාන් විජේසිංහ පැවසුවේ සමුද්‍රීය නිරීක්ෂණ කටයුතු සම්බන්ධයෙන් මෙරට ත්‍රිවිධ හමුදා නිලධාරීන් පුහුණු කිරීම සඳහා එම ගුවන් යානය මෙරටට පැමිණි බවයි.
+
+...
+
+[Data](articles/01095288.json)
 
 ---
 
@@ -1339,6 +1411,22 @@ Hardik Pandya and Tim David shared 60 runs off 31 balls in 5 wickets.
 [Data](articles/0f682807.json)
 
 [Extended Data](ext_articles/0f682807.ext.json)
+
+---
+
+### යක්ෂයාගේ වල්ගාතරුව දැක ගැනීමට ශ්‍රී ලාකිංකයන්ටත් අවස්ථාවක්
+
+*2024-04-07 21:00:02* · [`adalk`](https://www.ada.lk/breaking_news/යක්ෂයාගේ-වල්ගාතරුව-දැක-ගැනීමට-ශ්‍රී-ලාකිංකයන්ටත්-අවස්ථාවක්/11-408998) · `si`
+
+අද (08දා) දිනයේදී අහසේ දර්ශනය වීමට නියමිත 'යක්ෂයාගේ වල්ගාතරුව' දැක බලාගැනීමේ දුර්ලභ අවස්ථාවක් ශ්‍රී ලාංකිකයන් වෙත උදා වන බව තාරකා විද්‍යාඥයෝ පවසති. 12P/Pons-Brooks යන විද්‍යාත්මක නාමයෙන් හැඳින්වෙන මෙම වල්ගාතරුව වසර 71කට පසුව මෙලෙස පෘථිවිය පසුකරමින් යයි.
+
+සැතපුම් 18.6ක පළලක් සහිත ඉතා විශාල වල්ගාතරුවක් වන මෙහි ඇති 'අඟ' දෙකක් වැනි පෙනුම නිසා එයට යක්ෂයාගේ වල්ගාතරුව යන නම ලබා දී තිබේ. මෙම වල්ගාතරුව අයිස් සහ වායුව එකතුවෙන් සැකසී ඇති බවත්,  එහි කලින් කලට පිපිරීම් සිදුවන බවත් හඳුනාගෙන ඇත.
+
+ක්‍රි.ව. 1300 දී පමණ චීන තාරකාවිද්‍යාඥයන් පිරිසකට පළමුවරට මෙම වල්ගාතරුව නිරීක්ෂණය වී තිබේ. පසුව 19 වැනි සියවසේදී ප්‍රංශ තාරකාවිද්‍යාඥයෙකු වන ජීන්-ලුයිස් පොන්ස් විසින් නිල වශයෙන් මෙම වල්ගාතරුව හඳුනා ගත් අතර, 1883 දී බ්‍රිතාන්‍ය ඇමෙරිකානු තාරකාවිද්‍යාඥයෙකු වූ විලියම් බෘක්ස් යළිත් එය සොයා ගත්තේය. ඒ අනුව ඔවුන් දෙදෙනාගේ නම් එකතු කරමින් මෙම වල්ගාතරුවට 12P/Pons-Brooks යන නම ලබා දී තිබේ.
+
+...
+
+[Data](articles/b463a095.json)
 
 ---
 
@@ -2145,93 +2233,5 @@ The suspect has been handed over to the Kattankudy Police Station with the seize
 [Data](articles/b5935eb4.json)
 
 [Extended Data](ext_articles/b5935eb4.ext.json)
-
----
-
-### Politics is different - President
-
-*2024-04-07 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195403) · `si`
-
-President Ranil Wickremesinghe emphasized the changing nature of politics, highlighting the absence of UNP in current reconciliation efforts and the need for unity among parties like C1 Knowledge and the Sri Lanka Freedom Party. He also mentioned the economic policy is managed by a separate team.
-
-🟩
-
-President Ranil Wickremesinghe said that there were no policies in the reconciliation of community today (07).
-
-The President states that its economic policy is handled by the team that leaving the pointer.
-
-The President pointed out that the reconciliation of the Pohot has been submerged by the UNP's rights, declaring the rights of the UNP in 2020.
-
-President Ranil Wickremesinghe said this at the meeting with the political party representatives held today (07) at the President's House in Kandy today.
-
-The President has represented the political party that has changed the party's political system with the political system of July 2022, but today all should continue to support the government program.
-
-Speaking further, President Ranil Wickremesinghe further said,
-
-...
-
-[Data](articles/b18ef5cd.json)
-
-[Extended Data](ext_articles/b18ef5cd.ext.json)
-
----
-
-### Who imports toxic waste to Sri Lanka?
-
-*2024-04-07 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180635) · `ta`
-
-The US media reported the Singapore ship Dali, involved in a bridge incident, unloaded hazardous toxins in Sri Lanka, a story not widely covered by Sri Lankan media. Ships have faced controversies in Sri Lanka, including environmental impacts from fires and oil spills. Since 2017, ships have brought hazardous toxic waste, raising concerns about waste management and environmental protection. The government has not acknowledged or investigated these issues, leading to questions about the legality and safety of such imports.
-
-🟩
-
-The US media has widely reported that the Singapore ship, Dali, which broke the Francis Scott Key Bridge in Baltimore, USA, on March 26, the unloading of fuel and hazardous toxins to Sri Lanka.
-
-But no media other than a few print media in Sri Lanka has questioned this. Some English newspapers in Sri Lanka published news of the US media. This has been raised in Parliament later.Until then, no one has stated the incident from the government.
-
-Ships on the Sri Lankan waters have been carrying any controversy in recent years. Since 2020, the Greek -owned Channel Oil Business Ship, Newayamund, which was traveling towards Odisha, India, set fire to 38 nautical miles from Panama - Sangamankandi. As a result, the sea resources in the area are greatly facing.
-
-The ship, Pearl Express, owned by Singapore in 2021, burned about fire in the Negombo Sea. Sri Lanka's waters have faced the worst environmental impact of the ship's oil and concentrated nitric acid.
-
-...
-
-[Data](articles/73e826b6.json)
-
-[Extended Data](ext_articles/73e826b6.ext.json)
-
----
-
-### After Maldives, India supplies onions to Sri Lanka and UAE – report
-
-*2024-04-07 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98494/after-maldives-india-supplies-onions-to-sri-lanka-and-uae-report) · `en`
-
-The credibility of the Narendra Modi government’s neighbourhood first policy is evident as India is now planning to supply thousands of metric tons of onion to Sri Lanka after supplying vast quantities of essential commodities to Maldives under the pro-China Mohammed Muizzu regime, Indian Media reported today.
-
-It is understood that besides this, India on April 3 allowed a supply of additional 10,000 tons of onions over and above its quota to close ally United Arab Emirates (UAE) as the Gulf country is always a priority with Bharat.
-
-...
-
-[Data](articles/05534894.json)
-
-[Extended Data](ext_articles/05534894.ext.json)
-
----
-
-### Sri Lanka soon
-
-*2024-04-07 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195402) · `si`
-
-India plans to send thousands of files to Sri Lanka, a decision influenced by the Maldives' supply of goods to Sri Lanka.
-
-🟩
-
-India has planned to supply thousands of filing to Sri Lanka, India.
-
-The reports indicate that the neighbors 'neighbors' neighbors have decided to supply a large number of goods that have been made to the Maldives, which have taken this decision.
-
-◼️
-
-[Data](articles/92427069.json)
-
-[Extended Data](ext_articles/92427069.ext.json)
 
 ---

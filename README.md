@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 16:49:14**
+As of **2024-04-08 17:03:15**
 
 ## Newspaper Stats
 
-*Scraped **17,862** Articles*
+*Scraped **17,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,54 @@ islandlk | 979
 economynextcom | 987
 adalk | 1,502
 tamilmirrorlk | 2,104
-adaderanalk | 2,152
+adaderanalk | 2,153
 virakesarilk | 2,625
 dailymirrorlk | 2,726
-adaderanasinhalalk | 2,894
+adaderanasinhalalk | 2,895
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,857 (100.0%) of 17,862 articles have been extended.
+17,862 (100.0%) of 17,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### பிரபல வயலின் வித்துவான் அம்பலவாணர் ஜெயராமன் காலமானார்
+### Special postal service on April 12
+
+*2024-04-08 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98518/special-postal-service-on-april-12) · `en`
+
+Sri Lanka Post has decided to implement a special postal and courier service during the upcoming long weekend on the occasion of Ramadan and the Sinhala and Tamil New Year.
+
+Issuing a statement, Postmaster General S. R. W. M. R. P. Sathkumara stated that accordingly, special services will be available through the post offices and sub-post offices across the island for Cash On Delivery (COD), SL post courier and EMS on April 12 despite being a holiday.
+
+◼️
+
+[Data](articles/76847c1d.json)
+
+---
+
+### Ambalavanar Jayaraman has passed away
 
 *2024-04-08 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/180742) · `ta`
 
-யாழ்ப்பாணத்தைச் சேர்ந்த பிரபல வயலின் வித்துவான்  அம்பலவாணர் ஜெயராமன் தனது 65 ஆவது வயதில் இன்று திங்கட்கிழமை (08) அதிகாலை காலமானார்.
+Ambalavanar Jayaraman, a renowned violinist from Jaffna, died at 65. His music was mourned at a Jaffna art event. Funeral on Thursday at Annar's home near Nachimar Kovil.
 
-யாழ்ப்பாணம் - நீராவியடி இலங்கை வேந்தன் கலைக்கல்லூரியில் நேற்று ஞாயிற்றுக்கிழமை இடம் பெற்ற கலை நிகழ்வு ஒன்றில் வயலின் இசை வழங்கிக் கொண்டிருந்த நேரம் இயலாமை ஏற்பட்டு தொடர்ந்து வீட்டிற்கு சென்ற நிலையில் இன்றையதினம் அதிகாலை காலமானார்.
+🟩
 
-நாச்சிமார் கோவிலை அண்மித்த பகுதியில் உள்ள அன்னாரின் வீட்டில் எதிர்வரும் வியாழக்கிழமை  இறுதிக் கிரியைகள் நடைபெறவுள்ளது.
+Ambalavanar Jayaraman Jayaraman, who is a popular violinist from Jaffna, passed away this morning (08) at the age of 65.
+
+At an art event held at the Jaffna - Steam Vandan Art Gallery on Sunday, the violin music was in disability as he went home this morning.
+
+The funeral will take place on Thursday at the Annar's home in the neighboring area of Nachimar Kovil.
 
 ◼️
 
 [Data](articles/1925b4cd.json)
+
+[Extended Data](ext_articles/1925b4cd.ext.json)
 
 ---
 
@@ -74,73 +94,127 @@ The women on the bus said that the driver continued to speak by telephone.
 
 ---
 
-### ஹாட் ஸ்பாட் 2 ..?!
+### 2024 ලංකා ප්‍රිමියර් ලීග් තරග සටහන
+
+*2024-04-08 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195438) · `si`
+
+2024 ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ තරග කාලසටහන නිකුත් කර තිබේ.
+
+එහි සමාරම්භක උත්සවය ජූලි පළමුවනදා පැවැත්වෙන අතර පළමු තරගය එදිනම නුවර සහ දඹුල්ල අතර පැවැත්වෙයි.
+
+තරගාවලිය ජූලි 22තෙක් පැවැත්වෙන අතර අවසන් තරගය සමග තරග 24ක් පැවැත්වෙනු ඇත.
+
+2024 ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ තරග මහනුවර පල්ලෙකැලේ ක්‍රීඩාංගණය, දඹුල්ල ක්‍රීඩාංගණය සහ කොළඹ ආර් ප්‍රේමදාස ක්‍රීඩාංගණවලදී පැවැත්වීමට සැලසුම් කර තිබේ.
+
+අවසන් මහා තරගය කොළඹ ආර් ප්‍රේමදාස ක්‍රීඩාංගණයේදී ජුලි මස මස 22 වනදා පැවැත්වෙනු ඇත.
+
+◼️
+
+[Data](articles/d70981f0.json)
+
+---
+
+### Hot Spot 2 ..?!
 
 *2024-04-08 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180739) · `ta`
 
-நாகரீகமான மனித வாழ்க்கையில் உறவுகளுக்குள் ஏற்படும் முரண்களை முன்வைத்து உருவான 'ஹாட் ஸ்பாட்' திரைப்படம் எதிர்பார்த்ததை விட, பெரிய வெற்றியை பெற்றதால் உற்சாகமடைந்த படக்குழுவினர் ஹாட்ஸ்பாட் படத்தின் இரண்டாம் பாகம் அடுத்த ஆண்டு வெளியாகும் என தெரிவித்துள்ளனர்.
+"Hot Spot 2" is coming next year, directed by Vignesh Karthik, who also directed the first part. Despite mixed reviews, the film was a commercial success. The director and stars will reunite for the sequel.
 
-இயக்குநர் விக்னேஷ் கார்த்திக் இயக்கத்தில் உருவாகி கடந்த மாத இறுதியில் வெளியான திரைப்படம் 'ஹாட்ஸ்பாட்'. கலையரசன், ஜனனி, பவ்ய தரிகா உள்ளிட்ட முன்னணி நட்சத்திர கலைஞர்கள் நடித்திருந்த இந்த திரைப்படத்திற்கு கோகுல் பினோய் ஒளிப்பதிவு செய்திருந்தார்.
+🟩
 
-கலவையான விமர்சனங்களை பெற்றிருந்தாலும் வணிக ரீதியில் வெற்றி பெற்றது. இதனைத் தொடர்ந்து ரசிகர்களுக்கும், ஊடகவியலாளர்களுக்கும் நன்றி தெரிவிக்கும் விழா ஒன்று சென்னையில் நடைபெற்றது இதன் போது பட குழுவினர் பங்கு பற்றி படத்தை வெற்றி பெறச் செய்த ஊடகவியலாளர்களுக்கும் ரசிகர்களுக்கும் நன்றி தெரிவித்தனர்.
+The film 'Hot Spot', which has been a big hit, has been releasing the second part of the hotspot film next year.
 
-இதன் போது தயாரிப்பாளர் பாலாமணி மார்பன் பேசுகையில், '' இப்படத்தின் முன்னோட்டம் வெளியான பிறகு ஊடகங்களிடமிருந்து எதிர்மறையான விடயங்கள் வெளியானது.
+Directed by director Vignesh Karthik, the movie 'Hotspot' was released at the end of last month.. Gokul Binoy has recorded the film, starring leading star artists including Kalaiyarasan, Janani and Pavya Tarika.
+
+Commercially successful despite having mixed reviews. This was followed by a ceremony to thank the fans and the journalists in Chennai.
+
+Speaking at the event, producer Balamani Morben said, “After the preview of the film, there were negative issues from the media.
+
+Thus we feared at a point. But after the exclusive scene for journalists was screened .., the good features of the film were noticed and appreciated. It went to the people and sought the success of the film.
 
 ...
 
 [Data](articles/baaa53d2.json)
 
+[Extended Data](ext_articles/baaa53d2.ext.json)
+
 ---
 
-### மணிரத்னம் வெளியிட்ட ஆர். பார்த்திபனின் 'டீன்ஸ்' பட முன்னோட்டம்
+### Mani Ratnam Published. Parthiban's 'Teens' image preview
 
 *2024-04-08 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/180733) · `ta`
 
-புதிய முயற்சிகளை செய்து திரையுலக ரசிகர்களை மட்டுமல்லாமல்.. திரையுலகினரையும் வியப்பில் ஆழ்த்துவது தான் புதுமை விரும்பி இரா. பார்த்திபனின் பழக்கம். அந்த வகையில் அவர் இயக்கத்தில் உருவாகும் டீன்ஸ் திரைப்படத்தின் முன்னோட்ட வெளியீட்டு விழாவும் வித்தியாசமாக வடிவமைக்கப்பட்டிருந்ததுடன், கின்னஸ் சாதனையையும் படைத்து திரையுலகினரை திரும்பிப் பார்க்க வைத்திருக்கிறது.
+Parthiban's 'Teens' movie, directed by him, features a unique design and has set a Guinness record. The film, co-produced by Parthiban, stars Cavmik Ari and has music by Iman. It's produced by Caldwell Vel Nambi, Dr. Swaminathan, and others, with Parthiban co-producing. The preview was released at Kamala Theater in Chennai, honoring 13 young achievers. Yogi Babu stars in 'Ira Parthiban' and Parthiban has written seven songs for the film.
 
-இயக்குநரும், நடிகருமான இரா. பார்த்திபன் இயக்கத்தில் உருவாகும் 'டீன்ஸ்' எனும் திரைப்படத்தில் டீன் ஏஜ் எனும் பருவத்தின் தொடக்க எண்ணிக்கையான பதிமூன்று (தேர்ட்டீன்) வளரிளம் பருவ நடிகர்களை திரை நட்சத்திரங்களாக அறிமுகப்படுத்துகிறார். காவ்மிக் ஆரி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு டி. இமான் இசையமைத்திருக்கிறார்.
+🟩
+
+Not only the fans of the film industry made new ventures.. The newcomer is amazing. Parthiban. The preview release of the movie 'Teens', which is being directed by him, is differently designed and the Guinness record has kept the film industry back.
+
+Director and actor. In the movie 'Teens' directed by Parthiban. Cavmik Ari has recorded the film. Iman has composed music.
+
+Producer Caldwell Vel Nambi, Dr. Swaminathan, Dr. Swaminathan, Doctor Pinchi Srinivasan, Ranjith Dandapani, on behalf of the film companies such as Bioscopes Dreams LB and Akira Productions Pvt.. Parthiban has co -produced.
+
+The event was held at the Kamala Theater in Chennai as a special and Guinness record.. Thirteen young achievers were honored at various fields. The leading directors, producers and celebrities of the Tamil film industry were special guests.
 
 ...
 
 [Data](articles/2fe1e27e.json)
 
+[Extended Data](ext_articles/2fe1e27e.ext.json)
+
 ---
 
-### ஜூனில் வெளியாகும் 'உலகநாயகன்' கமலஹாசனின் 'இந்தியன் 2'
+### 'Indian 2'
 
 *2024-04-08 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180735) · `ta`
 
-இந்திய மக்களவை தேர்தலுக்கான பிரச்சாரத்தில்  இந்தியா கூட்டணிக்காக தீவிர பரப்புரையில் ஈடுபட்டிருக்கும் 'உலக நாயகன்' கமல்ஹாசன் நடிப்பில் தயாராகி வரும் 'இந்தியன் 2' படத்தின் வெளியீட்டிற்கான புதிய தகவல்கள் வெளியாகி இருக்கிறது.
+"'Indian 2', directed by Shankar and starring Kamal Haasan, is a sequel to the 1996 hit, set for release in June, following the Indian Lok Sabha elections. The film, written by Kamal Haasan and S.J. Ravivarman, features Surya, Kajal Agarwal, and others, with music by Anirudh and produced by Subhashkaran."
 
-இந்தியாவின் பிரமாண்ட இயக்குநர் ஷங்கர் இயக்கத்தில், 'உலகநாயகன்' கமல்ஹாசன் நடிப்பில் வெளியாகி வெற்றி பெற்ற திரைப்படம் 'இந்தியன்'.
+🟩
 
-1996 ஆம் ஆண்டில் வெளியாகி வசூல் ரீதியாகவும், விமர்சன ரீதியாகவும் பாரிய வெற்றியைப் பெற்ற இந்த திரைப்படத்தின் இரண்டாம் பாகம் கடந்த சில ஆண்டுகளாக உருவாகி வந்தது.  இரண்டாம் பாகத்திற்கான அதிகாரப்பூர்வமான அறிவிப்பு 2017 ஆம் ஆண்டில் வெளியானது.
+New information for the release of 'Indian 2' is being released in the Indian Lok Sabha elections.
 
-விபத்து , கோவிட் உள்ளிட்ட பல்வேறு தடைகள், தடங்கல்களுக்குப் பிறகு சர்வதேச தரத்துடன் தயாராகி இருக்கும் இந்த திரைப்படத்தின் வெளியீடு குறித்த அதிகாரப்பூர்வமான தகவல்கள் வெளியிடப்பட்டிருக்கிறது.
+Directed by Shankar, India's biggest director Shankar, 'Indian' starring Kamal Haasan is a hit movie 'Indian'.
+
+The second part of the film, which was released in 1996, has been a hugely successful and critically successful.The official announcement for the second part was released in 2017.
+
+Official information has been released on the release of the film, which is being prepared with international standards after various obstacles and obstacles, including accident and Kovit.
+
+'Lokayan' Kamal Haasan, S.J.. Ravivarman has written the film, starring Surya, Kajal Agarwal, Siddharth, Priya Bhavani Shankar, Rakul Preet Singh, Kalidas Jayaram and Bobby Simha.. The film is composed by Anirudh and produced by producer Subhashkaran on behalf of Leica Productions.
+
+All the work of the film is completed and ready for the release. In June, the film will be released in Tamil, Telugu and Hindi worldwide.
 
 ...
 
 [Data](articles/966364e2.json)
 
+[Extended Data](ext_articles/966364e2.ext.json)
+
 ---
 
-### குறட்டை விடும் மனைவியை சகித்துக் கொள்ளும் கணவனாக ஜீ.வி. பிரகாஷ் குமார்
+### GV as a husband who tolerates the snoring wife. Prakash Kumar
 
 *2024-04-08 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180737) · `ta`
 
-குறட்டை பிரச்சனையை மையப்படுத்தி கடந்த ஆண்டு வெளியாகி வெற்றி பெற்ற திரைப்படம் 'குட் நைட்'. இந்தத் திரைப்படத்தில் கதையின் நாயகனான மணிகண்டன் உறக்கத்தின் போது உரத்த ஒலியில் குறட்டை விடும் பழக்கம் கொண்டவராக நடித்திருப்பார்.
+"'Dear' stars Prakash Kumar and Aishwarya Rajesh, focusing on a husband's tolerance of his snoring wife. Directed by Anand Ravichandran, it's a relationship drama set to release on April 11th. The film, produced by Netmek Productions and Romeo Pictures, features live speech and sound recording, highlighting Aishwarya Rajesh's performance. It's a follow-up to the successful 'Goodnight', also starring Prakash Kumar."
 
-இவர் எப்படி ஒரு பெண்ணை காதலித்து திருமணம் செய்து கொண்டு வாழ்க்கையை நடத்தினார் என்பதுதான் இப்படத்தின் கதையாக இருக்கும்.
+🟩
 
-இதே கதையை கிட்டத்தட்ட சிறிய அளவில் மாற்றம் செய்து கதையின் நாயகியான ஐஸ்வர்யா ராஜேஷுக்கு குறட்டை விடும் பழக்கம் இருக்கிறது.
+'Goodnight' was released last year, focusing on the snarling problem.. In the film, Manikandan, the hero of the story, is a habit of snoring in loud sound during sleep.
 
-இவரது கணவராக ஜீ.வி. பிரகாஷ் குமார் நடிக்கிறார். இந்த திரைப்படத்திற்கு 'டியர்' என பெயரிடப்பட்டிருக்கிறது. ஏப்ரல் பதினோராம் திகதியன்று பட மாளிகையில் வெளியாகவிருக்கும் இந்த திரைப்படத்திற்கு ரசிகர்களின் ஆதரவு கிடைக்குமா? கிடைக்காதா? என்பதை பொறுத்திருந்துதான் பார்க்க வேண்டும்.
+The story of the film is how he fell in love with a woman and married a life.
 
-இயக்குநர் ஆனந்த் ரவிச்சந்திரன் இயக்கத்தில் உருவாகி இருக்கும் 'டியர்' எனும் திரைப்படத்தில் ஜீ. வி. பிரகாஷ் குமார், ஐஸ்வர்யா ராஜேஷ், காளி வெங்கட், இளவரசு, ரோகிணி, 'தலைவாசல்' விஜய், கீதா கைலாசம், அப்துல் லீ, 'பிளாக் ஷீப்' நந்தினி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+Aishwarya Rajesh, the hero of the story, has the habit of changing the same story almost a little.
+
+GV as her husband. Prakash Kumar plays. This movie is named 'Dear'. The film will be released at the film House on April eleven?Not available?It must be seen.
+
+Directed by director Anand Ravichandran in the movie 'Dear'. V.. Prakash Kumar, Aishwarya Rajesh, Kali Venkat, Prince, Rohini, 'Thalaivasal' Vijay, Geeta Kailasam, Abdul Lee, 'Black Sheep' Nandini.
 
 ...
 
 [Data](articles/422c9bc3.json)
+
+[Extended Data](ext_articles/422c9bc3.ext.json)
 
 ---
 
@@ -2239,57 +2313,5 @@ Next Zen ARP for men under 21 years of age last year. Saudi Arabia hosted the te
 [Data](articles/95b9dea9.json)
 
 [Extended Data](ext_articles/95b9dea9.ext.json)
-
----
-
-### There is only hatred in the United People's Power that has been created by the party -the president
-
-*2024-04-08 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180667) · `ta`
-
-President Ranil Wickremesinghe criticized the division of the United National Party (UNP) under Sajith Premadasa, expressing regret for the party's split. He highlighted the UNP's role in addressing the economic crisis and emphasized the importance of unity and economic development.
-
-🟩
-
-Working with President JR Jayawardene and defending the party under President Ranasinghe Premadasa. President Ranil Wickremesinghe said that he became prime minister from the United National Party and joined the United National Party (UNP) policy tradition.
-
-The President said that Sajith Premadasa had split the United National Party and built the United People's Power and was sorry for the party's division as the party was defended when the party was divided under his father's rule.
-
-President Ranil Wickremesinghe was speaking at a meeting with the United National Party (UNP) activists at the President's House on Sunday (07).
-
-The President pointed out that if the United National Party had not been allowed to split, the United National Party would have advanced today as a strong party and that there were no policies of the United National Party in the United National Party today.
-
-...
-
-[Data](articles/ec36afcf.json)
-
-[Extended Data](ext_articles/ec36afcf.ext.json)
-
----
-
-### Relief Staff Killing: Israeli Colonel, Major dismissed
-
-*2024-04-08 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180665) · `ta`
-
-Israel dismissed two army officers for ordering a drone attack that killed seven NGO employees, including citizens from the US, UK, Australia, Poland, and a US-Canadian dual citizen. The incident led to a heavy attack on Israel, with the Israeli Prime Minister and President apologizing. Israel's Security Forces have taken responsibility for the investigation. The US and other countries have called for an independent investigation. Israel has agreed to temporarily allow Gaza to allow distribution activities through its borders.
-
-🟩
-
-Israel has announced that it has fired two of its army officers who have ordered a killing of seven NGO employees in Gaza.
-
-The death of 7 people from the US charity, 'World Central Kitchen', which was involved in food supply in Gaza, has led to a heavy attack on Israel last Monday (01).
-
-Israeli Prime Minister Benjamin Nethanyahu said the attack was mistakenly. At the same time, Israeli President Isaac Harsak has said he apologized for the attack.
-
-The Israeli Security Forces said that the incident had various mistakes and violations.
-
-The Israeli Security Forces report said that a Colonel and a Major who ordered the drone attack had been sacked and many senior officials, including the South Regional Commander, have been properly warned.
-
-The Israeli Security Force has said that the responsibility of investigating a criminal investigation into the incident has been handed over to the Army Advocate General.
-
-...
-
-[Data](articles/73385151.json)
-
-[Extended Data](ext_articles/73385151.ext.json)
 
 ---

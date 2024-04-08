@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 08:51:52**
+As of **2024-04-08 09:03:20**
 
 ## Newspaper Stats
 
-*Scraped **17,741** Articles*
+*Scraped **17,744** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,79 @@ dailyftlk | 972
 economynextcom | 978
 islandlk | 979
 adalk | 1,489
-tamilmirrorlk | 2,088
+tamilmirrorlk | 2,089
 adaderanalk | 2,140
 virakesarilk | 2,590
-dailymirrorlk | 2,709
+dailymirrorlk | 2,711
 adaderanasinhalalk | 2,876
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,739 (100.0%) of 17,741 articles have been extended.
+17,741 (100.0%) of 17,744 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### පූර්ණ සූර්යග්‍රහණයක් අද
+### Govt to release April salaries of employees with Rs. 10,000 allowance from today: Siyambalapitiya
+
+*2024-04-08 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-to-release-April-salaries-of-employees-with-Rs-10-000-allowance-from-today-Siyambalapitiya/108-280356) · `en`
+
+Colombo, April 8 (Daily Mirror) - The balance Rs.5,000 of the increased allowance of Rs.10,000 to government employees will be released to the relevant institutions today along with their monthly salary, Finance State Minister Ranjith Siyambalapitiya said.
+
+Earlier, the government had released the first portion of Rs. 10,000 to government employees. The total calculation of the festival advance of the government employees for the New Year season was nearly Rs. 6 billion, and the government had already paid that.
+
+Usually, the government starts to pay government employees salaries from the 16th of every month, with first priority to teachers' salaries, second to tri-forces salaries and with the Provincil Council employee salaries in the third place.
+
+However, the salaries for April will be paid on April 10 in view of the New Year. Usually, government employees' monthly salaries are on the 25th of every month, he said.
+
+...
+
+[Data](articles/223bff8c.json)
+
+---
+
+### A full eclipse today
 
 *2024-04-08 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195417) · `si`
 
-එම සුර්යග්‍රහණය ශ්‍රී ලංකාවට නොපෙනෙන නමුත් බටහිර යුරෝපයේ, උතුරු අමෙරිකාව, පැසිෆික් සාගරය, අත්ලාන්තික් සාගරය සහ ආක්ටික් ප්‍රදේශයේ රටවලට දෘශ්‍යමාන වීමට නියමිතය.
+Today's full eclipse, visible in Western Europe, Pacific, Atlantic, and Arctic, began at 9.12 pm and ends at 2.22 am. In 2044, NASA will observe a rare full solar eclipse.
 
-මෙරට වේලාවෙන් සූර්යග්‍රහණය රාත්‍රී 9.12ට ආරම්භවී පසු දින අලුයම 2.22ට අවසන් වේ.
+🟩
 
-ඉතාමත් කලාතුරකින් දැකගත හැකි වන පූර්ණ සූර්ය ග්‍රහණයක් නැවත දැකගැනීමට හැකිවන්නේ 2044 දී බව නාසා ආයතනය සඳහන් කර ඇත.
+Sri Lanka is invisible, but Sri Lanka is due to visualize countries in Western Europe, the Pacific Ocean, Atlantic Ocean and Arctic.
+
+The eclipse of the eclipse commenced at 9.12 pm and ends at 2.22 days.
+
+In 2044, NASA has been able to see a full solar eclipse that is very rare.
 
 ◼️
 
 [Data](articles/2b8f7707.json)
+
+[Extended Data](ext_articles/2b8f7707.ext.json)
+
+---
+
+### Corporal from Air Force Rugby pool killed in police shootout
+
+*2024-04-08 08:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Corporal-from-Air-Force-Rugby-pool-killed-in-police-shootout/108-280362) · `en`
+
+Padukka, April 8 (Daily Mirror) - An Sri Lanka Air Force (SLAF) Corporal attached to the Sri Lanka Air Force Rugby pool, was killed in a shooting by the police and Special Task Force (STF) at Angamuwa in Padukka this morning.
+
+Police said the deceased is suspected to be the main suspect in the shooting incident at Moragahahena where two persons were killed.
+
+He had reportedly ignored an order to stop at a checkpoint during a Police-STF operation this morning. The victim was riding a motorcycle at the time of the incident.
+
+Police said the motorcyclist allegedly opened fire at the police personnel. Subsequently, when the police returned fire, the motorcyclist had sustained injuries and had died on admission to the Padukka Hospital.
+
+Meanwhile, SLAF spokesman Group Captain Dushan Wijesinghe said that the SLAF Commander has initiated an inquiry  into the incident.
+
+...
+
+[Data](articles/898c2e63.json)
 
 ---
 
@@ -59,6 +103,8 @@ He added that the amount earned from tourism in that period is USD 1,025 million
 ◼️
 
 [Data](articles/10d4fe19.json)
+
+[Extended Data](ext_articles/10d4fe19.ext.json)
 
 ---
 
@@ -911,6 +957,24 @@ The President pointed out that with the political change in July 2022, the presi
 [Data](articles/91db5a69.json)
 
 [Extended Data](ext_articles/91db5a69.ext.json)
+
+---
+
+### ’ஐ.தே.க. கொள்கையுடன் பதவிக்கு வந்தேன்’
+
+*2024-04-08 00:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-க-கொள்கையுடன்-பதவிக்கு-வந்தேன்/175-335725) · `ta`
+
+ஜனாதிபதி ஜே.ஆர் ஜயவர்தனவுடன் பணியாற்றி, ஜனாதிபதி ரணசிங்க பிரேமதாசவின் கீழ் கட்சியைப் பாதுகாத்து, ஜனாதிபதி டி.பி. விஜேதுங்கவுடனும் இணைந்து செயற்பட்டு ஐக்கிய தேசியக் கட்சியில் இருந்து பிரதமராகி, ஐக்கிய தேசியக் கட்சியின் கொள்கைப் பாரம்பரியத்துடன் நாட்டின் தலைமைப் பதவிக்கு நான் வந்தேன் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+கண்டி ஜனாதிபதி மாளிகையில் நேற்று நடைபெற்ற ஐக்கிய தேசியக் கட்சியின் செயற்பாட்டாளர்களுடனான கூட்டத்தில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+
+ஐக்கிய தேசியக் கட்சி எம்முடன் தான் இருக்கிறது என ஐக்கிய மக்கள் சக்தி அன்று கூறியது.சிறிகொத்த மாத்திரம் தான் எம்மிடம் இல்லை என்றார்கள். எமக்கு அதிகாரத்தை தாருங்கள் சிறிகொத்தவை கைப்பற்றுவோம் என ஐக்கிய மக்கள் சக்தி கூறியது. ஆனால் தற்போது ஜி.எல்.பீரிஸ் உள்ளிட்ட மொட்டுக் குழுவுடன் கூட்டணி அமைத்துள்ளனர்.
+
+இன்று சஜித்துடன் ரஞ்சித் மத்துமபண்டார மட்டுமே அமர்ந்துள்ளார். ஐக்கிய தேசியக் கட்சியைச் சேர்ந்த வேறு யாரும் அங்கு இல்லை.
+
+...
+
+[Data](articles/1edb7280.json)
 
 ---
 
@@ -2159,79 +2223,5 @@ The reports indicate that the neighbors 'neighbors' neighbors have decided to su
 [Data](articles/92427069.json)
 
 [Extended Data](ext_articles/92427069.ext.json)
-
----
-
-### Palestine & Ukraine: Two More Nails In Imperialism’s Coffin?
-
-*2024-04-07 16:56:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/palestine-ukraine-two-more-nails-in-imperialisms-coffin/) · `en`
-
-The Palestinians’ death toll in Gaza has risen beyond 32,000 men, women and children and counting. The Interim Ruling of the International Court of Justice highlighted the Palestinians’ plausible genocide by the Israeli State. That is likely an understatement, for the Director of the New York office of the UN High Commission for Human Rights resigned in disgust asserting Gaza is a “Textbook Case Of Genocide”. Further investigation by the UN’s Special Rapporteur determined (on 28 March) that Israel is committing genocide in Gaza; for her efforts to seek the truth she has received threats.
-
-...
-
-[Data](articles/c62e3965.json)
-
-[Extended Data](ext_articles/c62e3965.ext.json)
-
----
-
-### A 2 -year -old child died miserably in a lorry!
-
-*2024-04-07 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180642) · `ta`
-
-A 2-year-old child died in a lorry crash in Namal Oya, Ampara-Bibila. Parents were at a religious event when the accident happened. The child died after being taken to the hospital. The lorry driver is under investigation.
-
-🟩
-
-The tragedy of the death of a 2 -year -old child in the lorry crashed last night.
-
-The accident took place in Namal Oya area on the main road of Ampara - Bibila.
-
-Parents from the same area were involved in a religious events held at a nearby Viharaya with their 2 -year -old child and went to the streets when they were riding their parents.
-
-Police said the child died only after the parents were taken to the Hospital in Inginiyakalai.
-
-The driver of the lorry in connection with the accident is being arrested by the police and is investigating.
-
-◼️
-
-[Data](articles/2eb672bd.json)
-
-[Extended Data](ext_articles/2eb672bd.ext.json)
-
----
-
-### More information about Horana double murder
-
-*2024-04-07 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195400) · `si`
-
-In Horana, two people were shot dead in a robbery attempt, targeting a gold cargo area in Marapana. The victims, a 52-year-old man and a woman, were taken to Horana Base Hospital but the man died. The shooter, believed to be a contract killer named Jayakody, fled in a three-wheeler, leaving behind 13 bullets. The police are investigating with the help of the CID and six teams.
-
-🟩
-
-It has been revealed that the shooting of Horana Marana Mahena Malasi junction in the afternoon today (07).
-
-The shooting has been carried out targeting two people from a three-wheeler.
-
-Moragahahena Police said that the two persons who were seriously injured in the three-wheeler hospital have been admitted to the Horana Base Hospital.
-
-The two persons who were shot dead in a case of robbing a gold cargo area in Marapana area were to be signed from the Ratnapura Police.
-
-Therefore, the police said that the police had been shot dead and returned to homes.
-
-The victim was a 52-year-old pussy named Rupasinghe Arachchige Nayakara Perera, a 52-year-old, a resident of Hiripitiya, Pannipitiya Hiricipitiya.
-
-It is reported that a shooting has been used for shooting and that 13 bullets have been found in the area.
-
-The victim was taken to the hospital and died after being admitted to the hospital.
-
-A senior officer of the Moragahahena Police said that three bullets were found in the body of the three-wheeler.
-
-...
-
-[Data](articles/78e6197b.json)
-
-[Extended Data](ext_articles/78e6197b.ext.json)
 
 ---

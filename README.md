@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 21:34:19**
+As of **2024-04-08 21:53:22**
 
 ## Newspaper Stats
 
-*Scraped **17,919** Articles*
+*Scraped **17,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 2,106
 adaderanalk | 2,157
 virakesarilk | 2,639
 dailymirrorlk | 2,734
-adaderanasinhalalk | 2,904
+adaderanasinhalalk | 2,905
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,916 (100.0%) of 17,919 articles have been extended.
+17,919 (100.0%) of 17,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### මාර්තු මාසයේ 6000ක ශිෂ්‍යත්වය හිමිවන දරුවන් ගැන දැනුම්දීමක්
+
+*2024-04-08 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195448) · `si`
+
+2022 / 2023 අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය සමත් ආර්ථික අපහසුතා සහිත සිසුන් 6000ක් සඳහා ශිෂ්‍යත්ව ලබාදීමේ වැඩසටහන සඳහා ශිෂ්‍යත්වලාභීන් තෝරාගැනීමේ කටයුතු අවසන් කර තිබේ.
+
+ඒ අනුව මාර්තු සහ අප්‍රේල් මාසවල ගෙවිය යුතු හිඟ මුදල් ද සහිතව මැයි මාසයේ සිට ශිෂ්‍යාධාර මුදල් ගෙවීමට කටයුතු කරන බව ජනාධිපති අරමුදල දැනුම් දී ඇත.
+
+මේ වසරේ මාර්තු මාසයේ සිට තෝරාගත් සෑම ශිෂ්‍යත්ව ලාභියෙකුටම මාස 24ක් පුරා රුපියල් 6000ක මුදලක් බැගින් මාසිකව ශිෂ්‍යාධාර ලබාදීමට නියමිතය.
+
+තෝරාගත් ශිෂ්‍යත්වලාභීන්ගේ නාමලේඛනය ජනාධිපති අරමුදලේ නිල වෙබ් අඩවිය වන www.presidentsfund.gov.lk හි ප්‍රදර්ශනය කිරීමට නියමිත බව ද ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/990eba98.json)
+
+---
 
 ### Sri Lanka and Indonesia to sign trade pact next March
 
@@ -48,25 +66,33 @@ The second round of talks is scheduled to take place in Colombo on June 19-20. B
 
 [Data](articles/03d18791.json)
 
+[Extended Data](ext_articles/03d18791.ext.json)
+
 ---
 
-### අවසන් කැමැත්තට වැඩකරන්න අලුත් කමිටුවක්
+### New committee to finish
 
 *2024-04-08 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195447) · `si`
 
-ඕනෑම පුද්ගලයෙකුගේ අවසන් කටයුතු සිදු කිරීමේදී ආගමානුකූලව හෝ අවසන් කැමති පත්‍රයට අනුව සිදුකිරීමට අවශ්‍ය කටයුතු සැලසීම සඳහා නව කමිටුවක් පත් කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe announced a new committee to finalize work and implement future laws, addressing the Muslim community's challenges during the Corona Epidemio, including funeral difficulties. He emphasized the right to choose between burial or cremation, advocating for laws to support individual preferences.
 
-ඊට අදාළ නීති සම්පාදනය කිරීමට ඉදිරියේදී කටයුතු කරන බව ද ජනාධිපතිවරයා සඳහන් කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මහනුවර කටුකැලේ ජුම්මා මුස්ලිම් පල්ලියේ ඊයේ (07) පැවති ඉෆ්තාර් උත්සවයට එක්වෙමිනි.
+President Ranil Wickremesinghe said that a new committee would be appointed to implement the final work of any person in accordance with the final work.
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය,
+The President also said that the relevant laws will be implemented in the future.
 
-"පසුගිය කොරෝනා වසංගත සමයේ මුස්ලිම් ප්‍රජාව තමන්ගේ අවසන් කටයුතු නිසි ආකාරයෙන් සිදු කර ගැනීමට නොහැකිව දැඩි වේදනාකාරී තත්ත්වයක පසු වුණා. එම තත්ත්වය වෙනස් කිරීමට ඉදිරියේදී අප කටයුතු කරනවා. ඕනෑම කෙනෙකුට ආගමානුකූලව හෝ අවසන් කැමති පත්‍රයක් මඟින්, තමන්ට කැමති ලෙස අවසන් කටයුතු සිදු කර ගත හැකි නීති ඉදිරියේදී සකස් කරනවා. ඕනෑම කෙනෙකුට භූමදානය සඳහා හෝ ආදාහනය සඳහා අයිතියක් තිබෙනවා. එය ඔහුගේ හෝ ඇයගේ කැමැත්ත අනුව සිදු කිරීමට අවශ්‍ය නීති අප සකස් කරනවා."
+President Ranil Wickremesinghe made this statement participating at the Inftar festival held at Katukaley Mosque, Kandy yesterday.
+
+Speaking further, President Ranil Wickremesinghe further said,
+
+"During the recent Corona Epidemio, the Muslim community was in a painful situation that their funeral was impossible to properly. We will act in the future to change that situation. Anyone adjust the rules that can lead to funerals to anyone is religiously or finalized. Anyone has the right to burying or cremation. It makes us the laws needed to do according to his or her consent. "
 
 ◼️
 
 [Data](articles/b3f97bed.json)
+
+[Extended Data](ext_articles/b3f97bed.ext.json)
 
 ---
 
@@ -156,19 +182,25 @@ The shooting was reportedly carried out with a pistol, causing injuries to the v
 
 ---
 
-### චමල් යළි රාජකාරී අරඹයි
+### Chamal begins duties
 
 *2024-04-08 19:49:41* · [`adalk`](https://www.ada.lk/breaking_news/චමල්-යළි-රාජකාරී-අරඹයි/11-409021) · `si`
 
-මාස දාහතකට ආසන්න කාලයක් වැඩ තහනමකට ලක් කර සිටි  වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානයේ සභාපති විශේෂඥ වෛද්‍ය ජී. ජී. චමල් සංජීව මහතා අද (08දා)  යළි සේවයේ පිහිටුවා තිබේ.
+Dr. GG, suspended for 14 months, is re-employed by Chamal. The Ministry of Health was banned in November 2022. Chamal begins duties today.
 
-දරුවන්ගේ මන්ද පෝෂණය සම්බන්ධව සූරියවැව ප්‍රදේශයේ පැවැත්වූ  මාධ්‍ය සාකච්ඡාවකදී සිදුකළ ප්‍රකාශයක් මූලික කර ගනිමින් 2022 වසරේ නොවැම්බර් මාසයේදී ඒ මහතාගේ වැඩ තහනම් කිරීමට සෞඛ්‍ය අමාත්‍යාංශය කටයුතු කළේය.
+🟩
 
-ඒ වන විට ඒ මහතා සෞඛ්‍ය අමාත්‍යාංශයේ සේවය කළ අතර  සේවය පිහිටු වීමෙන් පසු රාජකාරි භාර ගැනීම අද (08දා) සෞඛ්‍ය අමාත්‍යංශයේදී සිදුවිය.
+Dr. GG, chairman of doctors of medical and civil rights, who was suspended for nearly fourteen months. G. Chamal Sanjeewa has been re-employed today (08th).
+
+The Ministry of Health was banned in November 2022, based on a statement from a media briefing held in Sooriyawewa area for nutrition.
+
+He worked at the Ministry of Health and the officials of the Ministry of Health was held this morning.
 
 ◼️
 
 [Data](articles/833dc669.json)
+
+[Extended Data](ext_articles/833dc669.ext.json)
 
 ---
 
@@ -2331,33 +2363,5 @@ State Minister Tharaka Balasuriya was presidential backed by the Committee on th
 [Data](articles/2a3dba43.json)
 
 [Extended Data](ext_articles/2a3dba43.ext.json)
-
----
-
-### To ensure good deeds on the basis of the religious belief of Muslims - the President
-
-*2024-04-08 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180700) · `ta`
-
-President Ranil Wickremesinghe announced a new committee to ensure Muslims' good deeds, investigate religious practices, and create laws for future religious practices. He highlighted the economic recovery allowing for Ramadan fasting and the focus on Islamic education. The President also expressed support for the Gaza Muslim community, promising to construct a school post-war and opposing the dissolution of the Palestinian state.
-
-🟩
-
-President Ranil Wickremesinghe has said that a new committee will be appointed to ensure that Muslims are doing good.
-
-The President also said that the committee would investigate any religion, no matter what a person's funeral was to be carried out in his last wishes, and that he would take steps to create laws related to the future.
-
-President Ranil Wickremesinghe made this statement while attending the Iftar event which was held on Sunday (07) at the Katukele Jumma School, Kandy.
-
-The economic crisis in the country in the past caused people to stand in line. Thus, Ramadan could not even exercise fasting.
-
-As the economy has been improving since last year, it is possible to spend the time of Ramadan fasting as usual and Ramadan fasting.
-
-During Ramadan, the Muslim community is better off fasting. The Ramadan festival and the Sinhalese New Year are to be celebrated simultaneously.
-
-...
-
-[Data](articles/7011b0ae.json)
-
-[Extended Data](ext_articles/7011b0ae.ext.json)
 
 ---

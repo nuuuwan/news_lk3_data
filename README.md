@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 23:34:01**
+As of **2024-04-08 23:54:10**
 
 ## Newspaper Stats
 
-*Scraped **17,928** Articles*
+*Scraped **17,930** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 972
 islandlk | 979
-economynextcom | 993
+economynextcom | 995
 adalk | 1,512
 tamilmirrorlk | 2,106
 adaderanalk | 2,160
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,928 (100.0%) of 17,928 articles have been extended.
+17,928 (100.0%) of 17,930 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -810,6 +810,24 @@ If today's government's economic program is rejected, the country's economy will
 
 ---
 
+### Sri Lanka sells Rs85bn in 2026 to 2032 bonds
+
+*2024-04-08 17:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs85bn-in-2026-to-2032-bonds-157955/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 85 billion rupees of bonds maturing from 2026 to 2032, at an auction on April 08, data from the state debt office showed.
+
+25 billion rupees of 15 December 2026 bonds were offered at 11.44 percent.
+
+25 billion rupees of 15 September 2029 bonds were offered at 12.37 percent.
+
+35 billion rupees of 1 October 2032 bonds were offered at 12.51 percent.
+
+◼️
+
+[Data](articles/dccf3d18.json)
+
+---
+
 ### Fisheries Minister Douglas Devananda
 
 *2024-04-08 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180757) · `ta`
@@ -887,6 +905,24 @@ It is celebrated in India and former territories of the Chola Empire including S
 [Data](articles/014aa25c.json)
 
 [Extended Data](ext_articles/014aa25c.ext.json)
+
+---
+
+### Sri Lanka plans politically correct names for Avurudu games
+
+*2024-04-08 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-politically-correct-names-for-avurudu-games-157945/) · `en`
+
+ECONOMYNEXT – Names of traditional New Year games which are considered to denigrate disabled people will be renamed with more acceptable labels, State Minister of Social Empowerment Anupa Pasqual said.
+
+One of the games is kana mutti, where a blind-folded person tries to smash a hanging clay pot with a club. Kana is an impolite term for a blind person.
+
+The traditional new year is a solar festival celebrated by Sri Lanka’s sinhala and tamil communities.
+
+It is celebrated in India and former territories of the Chola Empire including Sri Lanka (avurudu), and Thailand  (sonkram).
+
+◼️
+
+[Data](articles/88e68e5c.json)
 
 ---
 
@@ -2325,45 +2361,5 @@ It seems that the six of these six are disciplinary action.
 [Data](articles/9258cf40.json)
 
 [Extended Data](ext_articles/9258cf40.ext.json)
-
----
-
-### Sri Lanka opposes dissolution of Palestinian state: President
-
-*2024-04-08 13:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposes-dissolution-of-palestinian-state-president-157882/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s stance remains firm in opposing the dissolution of the Palestinian state, and stands in solidarity to end the ongoing conflict, President Ranil Wickremesinghe said at an Ifthar ceremony held Sunday at the Jumma Mosque in Katukele, Kandy.
-
-“As Sri Lanka observes Ramadan today, a sombre situation unfolds in the Gaza Strip, where the Muslim community mourns the loss of approximately thirty-five thousand lives,” Wickremesinghe was quoted in a statement by his media division.
-
-“In light of this tragedy, we have decided to forego the national Ramadan festival this year and allocate the funds to support the people of Gaza. Additionally, a commitment has been made to construct a school in Gaza once the conflict subsides.”
-
-...
-
-[Data](articles/d16b373e.json)
-
-[Extended Data](ext_articles/d16b373e.ext.json)
-
----
-
-### Sri Lanka Freedom Party appoints Nimal Siripala as acting chair, CBK as advisor
-
-*2024-04-08 13:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-appoints-nimal-siripala-as-acting-chair-cbk-as-advisor-157894/) · `en`
-
-ECONOMYNEXT — The crisis-riddled Sri Lanka Freedom Party (SLFP) has appointed its incumbent vice president Nimal Siripala de Silva as the party’s acting chairman, with former president and chairman Chandrika Bandaranaike Kumaratunga also serving as an advisor and observer.
-
-The appointment was made at a politburo meeting held Monday April 08 morning after the the Colombo District Court issued an interim order last week preventing former President Maithripala Sirisena from serving as SLFP chairman.
-
-SLFP National Organiser Duminda Dissanayake told reporters that the acting chairmanship was given to the senior-most member of the party.
-
-“A party cannot function without a chairman, especially during a politically decisive period such as this,” he said.
-
-Dissanayake also accused Sirisena of appointing several acting chairmen over the recent past but without giving party seniors their due.
-
-...
-
-[Data](articles/7eeadda6.json)
-
-[Extended Data](ext_articles/7eeadda6.ext.json)
 
 ---

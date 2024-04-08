@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 18:33:41**
+As of **2024-04-08 18:51:54**
 
 ## Newspaper Stats
 
@@ -26,35 +26,47 @@ adaderanasinhalalk | 2,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,893 (100.0%) of 17,896 articles have been extended.
+17,896 (100.0%) of 17,896 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### கம்பஹா கட்டுகஸ்தர பிரதேசத்தில் துப்பாக்கிச் சூடு ;  ஒருவர் பலி!
+### Gampaha firing in Katugastara area;One kills!
 
 *2024-04-08 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180760) · `ta`
 
-இனந்தெரியாத ஒருவரால் துப்பாக்கிப் பிரயோகம் திங்கட்கிழமை மாலை 4 மணி அளவில் மேற்கொள்ளப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+In Gampaha, an unidentified shooter killed one person at 4 pm on Monday. The victim, injured, later died in Gampaha Hospital.
 
-துப்பாக்கிச் சூட்டில் படுகாயமடைந்த நபர் கம்பஹா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+🟩
+
+It is reported that the shooting was carried out by an unidentified person at 4 pm on Monday.
+
+The man who was injured in the shooting has died after being admitted to the Gampaha Hospital for treatment.
 
 ◼️
 
 [Data](articles/80e10cba.json)
 
+[Extended Data](ext_articles/80e10cba.ext.json)
+
 ---
 
-### ලෝකෙම බැලූ සූර්යග්‍රහණය
+### The prone eclipse viewed in the world
 
 *2024-04-08 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195443) · `si`
 
-ඉතාමත් කලාතුරකින් දැකගත හැකි වන පූර්ණ සූර්ය ග්‍රහණය බටහිර යුරෝපයේ, උතුරු අමෙරිකාව, පැසිෆික් සාගරය, අත්ලාන්තික් සාගරය සහ ආක්ටික් ප්‍රදේශයේ රටවලට දෘශ්‍යමාන වීම ඇරඹි තිබුණි.
+A rare full solar eclipse will be visible in Western Europe, North America, Pacific, Atlantic, and Arctic regions.
+
+🟩
+
+The full solar eclipse that rarely visible is to be visible to countries in Western Europe, North America, Pacific, Atlantic and Arctic.
 
 ◼️
 
 [Data](articles/ba7e874b.json)
+
+[Extended Data](ext_articles/ba7e874b.ext.json)
 
 ---
 
@@ -2120,27 +2132,33 @@ The US dollar purchasing price was 294.3442 and the sales price were Rs 303.8976
 
 ---
 
-### ශ්‍රී ලංකා නිදහස් පක්ෂය තුළ මේ ක්‍රියාත්මක වන්නේ කුමන්ත්‍රණයක් ද?
+### Is this in the Sri Lanka Freedom Party?
 
 *2024-04-08 12:35:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz9zxrw9nkdo) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂය තුළ මේ ක්‍රියාත්මක වන්නේ කුමන්ත්‍රණයක් ද?
+The Sri Lanka Freedom Party (SLFP) is facing a crisis, with the court prohibiting the current chairman. Minister Nimal Siripala de Silva was appointed as the acting chairman, leading to legal disputes and accusations of conspiracy.
 
-ශ්‍රී ලාංකික දේශපාලනයේ තීරණාත්මක කාර්ය භාරයක් ඉටු කළ ප්‍රධාන පක්ෂයක් වන ශ්‍රී ලංකා නිදහස් පක්ෂය මේ වන විට අර්බුදකාරී තත්ත්වයකට පත්ව තිබේ.
+🟩
 
-එහි කූටප්‍රාප්තිය වාර්තා වූයේ, සඳුදා (අප්‍රේල් 08) දිනයේදී ශ්‍රී ලංකා පදනම් ආයතනයේදී පැවැත්වූ විශේෂ දේශපාලන මණ්ඩල රැස්වීමකදී අමාත්‍ය නිමල් සිරිපාල ද සිල්වා පක්ෂයේ වැඩබලන සභාපතිවරයා ලෙස පත් කිරීමත් සමග ය.
+Is this in the Sri Lanka Freedom Party?
 
-මේ වන විට, ශ්‍රී ලංකා නිදහස් පක්ෂයේ දේශපාලනඥයින් ප්‍රසිද්ධියේ ම දෙපිලකට බෙදී ඇති බවක් පෙනෙන්නට තිබේ.
+The Sri Lanka Freedom Party (SLFP), a major party that had played a decisive role in Sri Lankan politics, has become a crisis.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ විශේෂ දේශපාලන මණ්ඩල රැස්වීම ශ්‍රී ලංකා පදනම් ආයතනයේදී සඳුදා (අප්‍රේල් 8) පෙරවරුවේදී රැස් වූ අවස්ථාවේදී පක්ෂයේ වැඩබලන සභාපතිවරයා‌ ලෙස අමාත්‍ය නිමල් සිරිපාල ද සිල්වා පත් කෙරිණි.
+Its culmination was reported at a Special Politburo at the Sri Lanka Foundation Institute on Monday (April 08) as the acting chairman of the party as the acting chairman of the party.
 
-මෙම රැස්වීමට හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක නිරීක්ෂකවරියක ලෙස සහභාගි වූ බව පක්ෂයේ ජාතික සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක පැවසීය.
+The SLFP politicians seem to be divided into two bio.
 
-නිමල් සිරිපාල ද සිල්වා පක්ෂයේ වැඩබලන සභාපති ධූරයට පත් කිරීමට බලපෑ හේතුව දුමින්ද දිසානායක පැහැදිලි කළේ, මෙසේ ය.
+Minister Nimal Siripala de Silva was appointed as the acting chairman of the party at the SLFP special meeting at the Sri Lanka Freedom Party (April 8).
+
+UNP National Organizer MP Duminda Dissanayake said that former President of the President was present as a monitor's observer.
+
+Duminda Dissanayake explained why Nimal Siripala de Silva was appointed as the acting of the party acting chairman.
 
 ...
 
 [Data](articles/15bdd5bb.json)
+
+[Extended Data](ext_articles/15bdd5bb.ext.json)
 
 ---
 

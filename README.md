@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 17:35:11**
+As of **2024-04-08 17:54:08**
 
 ## Newspaper Stats
 
-*Scraped **17,876** Articles*
+*Scraped **17,883** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,63 @@ dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 972
 islandlk | 979
-economynextcom | 987
+economynextcom | 993
 adalk | 1,504
 tamilmirrorlk | 2,104
 adaderanalk | 2,154
 virakesarilk | 2,631
-dailymirrorlk | 2,727
+dailymirrorlk | 2,728
 adaderanasinhalalk | 2,897
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,869 (100.0%) of 17,876 articles have been extended.
+17,876 (100.0%) of 17,883 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### Sri Lanka plans politically correct names for Avurudu games
+
+*2024-04-08 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-plans-politically-correct-names-for-avurudu-games-157945/) · `en`
+
+ECONOMYNEXT – Names of traditional New Year games which are considered to denigrate disabled people will be renamed with more acceptable labels, State Minister of Social Empowerment Anupa Pasqual said.
+
+One of the games is kana mutti, where a blind-folded person tries to smash a hanging clay pot with a club. Kana is an impolite term for a blind person.
+
+The traditional new year is a solar festival celebrated by Sri Lanka’s sinhala and tamil communities.
+
+It is celebrated in India and former territories of the Chola Empire including Sri Lanka (avurudu), and Thailand  (sonkram).
+
+◼️
+
+[Data](articles/014aa25c.json)
+
+---
+
+### Sri Lanka rupee closes at 298.90/299.00 to the US dollar
+
+*2024-04-08 17:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-298-90-299-00-to-the-us-dollar-157933/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 298.90/299.00  to the US dollar in the spot forex market on Monday, stronger from 299.25/30 on Friday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 11.35/45 percent down from 11.40/45 percent.
+
+A bond maturing on 15.09.2027 closed at 11.85/12.00 percent down from 11.90/12.00 percent.
+
+A bond maturing on 15.12.2028 closed at 12.10/20 percent down from 12.15/25 percent.
+
+A bond maturing on 15.05.2030 closed at 12.25/50 percent down from 12.30/50 percent.
+
+A bond maturing on 01.10.2031 closed at 12.35/60 percent. (Colombo/Apr8/2024)
+
+◼️
+
+[Data](articles/dbf86bea.json)
+
+---
 
 ### Tamil Nadu and the Central Government of India should abandon the Kacha island for politics - Secretary of the Northern Province Fisheries Internet
 
@@ -58,89 +98,135 @@ Tamil Nadu continued to demand that the Kacha Island be recovered at every time 
 
 ---
 
-### විද්‍යාපීඨ සම්බන්ධයෙන් හදිසියේම ගත් තීරණය
+### A sudden decision on the science
 
 *2024-04-08 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195440) · `si`
 
-ජාතික අධ්‍යාපන විද්‍යාපීඨවලට ශික්ෂණලාභීන් බඳවාගැනීම යටතේ අයදුම්කිරීමේ කාලසීමාව එළැඹෙන 10 වනදා දක්වා දීර්ඝ කර තිබේ.
+The science sector made a sudden decision, extending the application period for the recruitment of Colleges of Education's teaching staff until April 10. The National Institute of Education announced GCEPs for 2021 and 2022, with applications open from April 5 to April 10, and a deadline of 12 midnight on April 17.
 
-2021 හා 2022 වර්ෂයන්හි අ.පො.ස. (උ.පෙළ) ප්‍රතිඵල මත ජාතික අධ්‍යාපන විද්‍යාපීඨ ශික්ෂණලාභීන් සඳහා එම නිවේදනය නිකුත් කර ඇත.
+🟩
 
-පසුගිය 05 දින සිට අප්‍රේල් 10 වනදා දක්වා අයදුම්පත් යොමුකළ අයදුම්කරුවන්ට, අයදුම්පත්වල සංශෝධනයන් සිදුකළ යුතු නම් අප්‍රේල් 11 වනදා සිට අප්‍රේල් 17 වනදා මධ්‍යම රාත්‍රී 12.00 දක්වා පමණක් ඒ සඳහා අවස්ථාව ලබාදෙන බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+The application period is extended until the recruitment of the teaching of the Colleges of Education.
+
+GCEPs in 2021 and 2022. The announcement has been issued for National Institute of Education on A / L.
+
+Applications have been made to applications for applications from the 5th to April 10 to April 10, the Ministry of Education says that only 12 midnight will be given on April 17.
 
 ◼️
 
 [Data](articles/a39bdb7a.json)
 
+[Extended Data](ext_articles/a39bdb7a.ext.json)
+
 ---
 
-### சாதனைகள் படைக்கும் அல்லு அர்ஜுன் 'புஷ்பா 2' பட டீசர்
+### Allu Arjun 'Pushpa 2' film teaser
 
 *2024-04-08 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/180745) · `ta`
 
-பான் இந்திய அளவிலான ரசிகர்களை சம்பாதித்திருக்கும் தெலுங்கின் முன்னணி நட்சத்திர நடிகரான அல்லு அர்ஜுன் நடிப்பில் தயாராகி இருக்கும் புஷ்பா 2 படத்தின் டீசர் வெளியிடப்பட்டிருக்கிறது.
+"Pushpa 2 teaser, starring Allu Arjun, released on his birthday, attracted 2M views in 45 minutes. Features Rashmika Mantana, Bhagat Basil, and music by Devi Sri Prasad. Produced by Naveen Jenerni, co-produced by Ravi Shankar and Sukumar. The film's first look and a special photo of Srivalli were also released."
 
-நடிகர் அல்லு அர்ஜுனின் பிறந்த நாளான ஏப்ரல் எட்டாம் திகதியன்று வெளியிடப்பட்டிருக்கும் இந்த டீசர், வெளியான 45 நிமிடங்களிலேயே இரண்டு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்து வருகிறது.
+🟩
 
-இயக்குநர் சுகுமார் இயக்கத்தில் உருவாகி வரும் 'புஷ்பா 2' எனும் திரைப்படத்தில் அல்லு அர்ஜுன், ராஷ்மிகா மந்தானா, பகத் பாசில் ஆகியோர் முதன்மையான கதாபாத்திரங்களில் நடிக்கிறார்கள்.
+The teaser of Pushpa 2 has been released, starring Telugu star actor Allu Arjun, who has earned Ban Indian -level fans.
 
-மிர்ஸ்லோ குபா ப்ரோஸெக் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'ராக் ஸ்டார்' தேவி ஸ்ரீ பிரசாத் இசையமைத்திருக்கிறார்.
+The teaser, released on the 8th of April, the birthday of actor Allu Arjun, has been visited by more than two million viewers in 45 minutes.
 
-எக்சன் எண்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை மைத்ரி மூவி மேக்கர்ஸ் மற்றும் சுகுமார் ரைட்டிங்ஸ் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் நவீன்  யெர்னேனி,  வை. ரவிசங்கர் மற்றும் சுகுமார் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+Allu Arjun, Rashmika Mantana and Bhagat Basil are playing the lead roles in the upcoming film 'Pushpa 2' directed by director Sukumar.
 
-...
+The film, which has been recorded by Mirslo Kuba Prosec, has composed the film 'Rock Star' Devi Sri Prasad.
+
+Producer Naveen Jenerni, on behalf of Maithri Movie Makers and Sukumar Writing Companies. Ravi Shankar and Sukumar have co -produced.
+
+The film's first look was released. Following this, the film crew released a special photo of Srivalli, the heroine of Rashmika Mantana, who plays the heroine of the film.
+
+The teaser of the film 'Pushpa+ The Rule' has been released on the birthday of the film's hero Allu Arjun. The appearance of Man Pushparaj in the teaser of the teaser usually has encouraged fans.
+
+◼️
 
 [Data](articles/95d89b67.json)
 
+[Extended Data](ext_articles/95d89b67.ext.json)
+
 ---
 
-### நித்யா மேனன் நடிக்கும் 'டியர் எக்ஸஸ்' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு
+### First Look release of 'Dear Excel' starring Nithya Menon
 
 *2024-04-08 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180747) · `ta`
 
-தமிழ் திரையுலகின் திறமையான நடிகைகளின் பட்டியலில் முன்னிலை வகிக்கும் நித்யா மேனன்  கதையின் நாயகியாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'டியர் எக்ஸஸ்' எனும் திரைப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது.
+"First Look of 'Dear Excess' released, featuring Nithya Menon, directed by debutant Gamini. The film, produced by Bask Time Theater and Popter Media Network, stars Nithya Menon, Vinay Roy, Navdeep, Deepak Parambol, and Pratik Popper. The title suggests a story about Nithya Menon's exes."
 
-இதனை இயக்குநரும், நடிகருமான வெங்கட் பிரபு அவருடைய இணைய பக்கத்தில் வெளியிட்டு படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+🟩
 
-அறிமுக இயக்குநர் காமினி இயக்கத்தில் உருவாகி வரும் 'டியர் எக்ஸஸ்' எனும் திரைப்படத்தில் நித்யா மேனன், வினய் ராய், நவ்தீப், தீபக் பரம்போல், பிரதிக் பாப்பர் ஆகியோர் முதன்மையான கதாபாத்திரங்களில் நடித்திருக்கிறார்கள்.
+The first look of the film 'Dear Excess' has been released as the hero of the story of Nithya Menon, who is the leading hero of the Tamil film industry.
 
-பிரீத்தா ஜெயராமன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்தின் படத்தொகுப்பு பணிகளை எம். சரவணன் மேற்கொண்டிருக்கிறார்.
+Director and actor Venkat Prabhu posted this on his web page and congratulated the film crew.
 
-கதையின் நாயகிக்கு முக்கியத்துவம் கொடுத்து உருவாகி இருக்கும் இந்த திரைப்படத்தை பாஸ்க் டைம் தியேட்டர் மற்றும் பொப்டர் மீடியா நெட்வொர்க் ஆகிய பட நிறுவனங்கள் சார்பில் பி ஜி என், ஆதித்யா அஜய் சிங், ராம்கி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+Nithya Menon, Vinay Roy, Navdeep, Deepak Parambol and Pratik Popper are the leading roles in the upcoming film 'Dear Excess' directed by debutant director Gamini.
 
-...
+The film is being recorded by Preeta Jayaraman. Saravanan is carrying out.
+
+The film is being produced by Bask Time Theater and Popter Media Network, which is being produced by PG, Aditya Ajay Singh and Ramki.
+
+The first look of 'Dear Excel' has been released on the occasion of actress Nithya Menon's birthday.
+
+Actress Nithya Menon's dress, her hands with a soft drink and a cell phone has surprised fans.
+
+Also, the title of 'Dear Excess' means that Nithya Menon's ex -lovers or ex -husbands can be a great anticipation of the appearance that the heroine may look like an orientate autograph.
+
+◼️
 
 [Data](articles/42f5f2a0.json)
 
+[Extended Data](ext_articles/42f5f2a0.ext.json)
+
 ---
 
-### வைட் ரோஸ் - விமர்சனம்
+### White Rose - Review
 
 *2024-04-08 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180750) · `ta`
 
-நடிகர்கள் : 'கயல்' ஆனந்தி, ஆர். கே. சுரேஷ், ரூசோ ஸ்ரீதரன், விஜித், சசிலயா, பேபி நட்சத்திரா மற்றும் பலர்.
+"White Rose" explores a tragic incident involving a civilian killed by police during an encounter with a murderer. The story follows 'Gayal' Anandi, whose husband Vijith is killed by police, leading to her daughter's abduction and her forced entry into sex work. The film, directed by K.. Rajasekhar, features a mix of drama, crime, and thriller elements, with performances by Anandi, Vijith, and R. K. Suresh. Critics note the film's weak screenplay and the impact of its themes, including police brutality and the plight of sex workers.
 
-தொடர் கொலைகளை செய்யும் கொலைகாரன் ஒருவனை காவல்துறை அதிகாரிகள் என்கவுண்டர் செய்யும் பணியில் ஈடுபட்டிருக்கும் போது தவறுதலாக பொதுமக்களில் ஒருவர் துப்பாக்கிச் சூட்டுக்கு இரையாகிறார். அவரின் குடும்பம் என்ன ஆனது? அந்த குடும்பத்தினருக்கு காவல்துறையினர் எம்மாதிரியான உதவிகளை செய்தனர்? என்பது போன்ற சில உண்மைச் சம்பவங்களை தழுவி, 'வைட் ரோஸ்' எனும் பெயரில் திரில்லர் ஜேனரிலான திரைப்படத்தை இயக்குநர் கே. ராஜசேகர் தலைமையிலான குழுவினர் உருவாக்கி இருக்கிறார்கள். இந்த திரைப்படம் அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+🟩
 
-'கயல்' ஆனந்தியின் கணவர் விஜித் வெளிநாட்டிலிருந்து விடுமுறைக்காக தாயகம் வருகிறார். அவர் தனது குழந்தையான பேபி நட்சத்திரா மற்றும் மனைவி 'கயல்' ஆனந்தியுடன் அவரது பிறந்த நாளை வித்தியாசமாக கொண்டாடுவதற்காக வெளியே புறப்படுகிறார்.
+Actors: 'Gayal' Anandi, R. K. Suresh, Rousseau Sreedharan, Vijith, Sasilaya, Baby Star and many others.
+
+One of the civilians firing when the police officers are working on an encounter with a murderer who committed a series of murder. What happened to his family?How did the police help the family?Director K.. Rajasekhar -led team is created. Did the film impress all the fans?Or not?We will continue to see.
+
+'Gayal' Anandi's husband Vijith comes home from abroad. He goes out to celebrate her birthday with her child Baby star and wife 'Gayal' Anandi.
+
+On the moment when he returned home after celebrating his birthday, the police were trying to leave a barrier without issuing a proper notice to the public.
+
+Vijith is killed by the police firing unexpectedly. Anandi is terrified of what to do with her husband from abroad suddenly dies. Anandi is unable to build a home rental and even without cash in his hand to buy food.
 
 ...
 
 [Data](articles/d7a113bd.json)
 
+[Extended Data](ext_articles/d7a113bd.ext.json)
+
 ---
 
-### டபுள் டக்கர் - விமர்சனம்
+### Double Tucker - Review
 
 *2024-04-08 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180748) · `ta`
 
-நடிகர்கள் : தீரஜ், ஸ்மிருதி வெங்கட், கோவை சரளா, எம். எஸ். பாஸ்கர், சுனில் ரெட்டி, முனீஸ்காந்த், காளி வெங்கட், கருணாகரன், யாஷிகா ஆனந்த் மற்றும் பலர்.
+"Double Tucker" is a comedy-drama featuring Theraj, Smriti Venkat, and others. It explores the life of Aravind, who, after a tragic accident, is given a second chance at life by animated characters. The film blends comedy with a serious message about love and sacrifice, with standout performances by Theraj and the animated characters voiced by Kali Venkat and Muniskant.
 
-குழந்தைகள் முதல் பெரியவர்கள் வரை அனைவரையும் கவரும் வகையில் அனிமேஷன் கதாபாத்திரங்களுடன் ஒரு படைப்பை உருவாக்க வேண்டும் என எண்ணியிருக்கும் அறிமுக இயக்குநர் மீரா மெஹதி, தொழில்நுட்ப தரத்துடன் உருவாக்கி இருக்கும் 'டபுள் டக்கர்' அனைவரையும் கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.‌
+🟩
+
+Actors: Theraj, Smriti Venkat, Kovai Sarala, M. S.. Bhaskar, Sunil Reddy, Muniskant, Kali Venkat, Karunakaran, Yashika Anand and many others.
+
+Does the debut director Meera Mehdi, who are hoping to create a work with animated characters, are attracted to all the 'double tucker' that has created technology?Or not?We will continue to see.
+
+Man Aravind (Tiraj) lives in a child's old accident and lives in a face with a hazardous face. Aravind has inferiority on his face. He is the principal of the property, and he loves Baru (Smriti Venkat), who helps with the volunteer for cancer.Aravind tells his love to Baru. Look at his face look.. Hesitates first to accept love. Thus, if Arvind does not accept our love at the specified date and the moment ... Suggests that he is going to commit suicide. He also committed suicide. Look at Aravind's love and come there a little late.. Aravind is shocked.
 
 ...
 
 [Data](articles/520ff681.json)
+
+[Extended Data](ext_articles/520ff681.ext.json)
 
 ---
 
@@ -186,6 +272,8 @@ The victim, who had sustained serious injuries in the incident, was admitted to 
 
 [Data](articles/97104c1d.json)
 
+[Extended Data](ext_articles/97104c1d.ext.json)
+
 ---
 
 ### Gampaha shooting
@@ -207,6 +295,18 @@ The shooting was carried out with a pistol firearm while the police have commenc
 [Data](articles/92c80401.json)
 
 [Extended Data](ext_articles/92c80401.ext.json)
+
+---
+
+### Preparing for Ramazan festival...
+
+*2024-04-08 16:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Preparing-for-Ramazan-festival/110-280400) · `en`
+
+As Ramazan, the month of fasting draws to an end, several Muslims in Pettah busy with their shopping to celebrate the Eid or festival marking the end of fasting, in a day or two. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/b06458a5.json)
 
 ---
 
@@ -454,6 +554,30 @@ In addition, the Punduloya police and the Nuwara Eliya Forensic Division have jo
 
 ---
 
+### Sri Lanka stocks close up 1-pct, turnover at 3bn
+
+*2024-04-08 16:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-1-pct-turnover-at-3bn-157925/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader All Share Index closed up 1.06 percent, or 124.53 points, at 11,920; while the S&P SL20 Index closed up 1.79 percent, or 62.17 points, at 3,543.
+
+“A lot of high net worth and corporates are getting involved expecting a successful completion of ISB negotiations,” market participants said.
+
+“The second round of ISB talks is affecting banks positively; bluechips are also seeing activity.”
+
+Sampath Bank Plc saw the most active trade volume contributing Rs675mn to the day’s turnover; the share closed up at 80.90.
+
+Hemas Holdings Plc also increased activity (Rs191mn) and the share closed up at 83.00.
+
+Other major contributors to the Index included Commercial Bank of Ceylon, up at 110.00, National Development Bank Plc, up at 76.70, Browns Investments Plc, up at 5.50, and Lanka IOC Plc, up at 126.00. (Colombo/Apr8/2024)
+
+◼️
+
+[Data](articles/98b214c7.json)
+
+---
+
 ### Special news for those who dreamed for New Zealand
 
 *2024-04-08 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195437) · `si`
@@ -530,6 +654,26 @@ The youth has been taken to Mannar Hospital for treatment of an accident.
 
 ---
 
+### Sri Lanka issues guidelines for holiday activities, cautions people to avoid accidents
+
+*2024-04-08 15:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-issues-guidelines-for-holiday-activities-cautions-people-to-avoid-accidents-157906/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s health officials and Police are cautioning the public to avoid accidents in the upcoming holiday period.
+
+“Every year around this time we see a rise in various fatal accidents – road accidents, drowning, explosions and sports injuries – and increased numbers of people being hospitalized,” Minister of Health Ramesh Pathirana said at a press briefing to launch a set of guidelines for conducting sporting events (avurudu kreeda) ahead of the festivities this week.
+
+“We entreat people to be vigilant about their and others’ safety during this festival period.
+
+Pathirana said that health officials had studied 5 years of data and seen an increase in accidents every year during this period.
+
+“If someone is injured, please don’t transport them in three-wheelers. This can do more damage, especially if they have fractures,” Health Ministry official and Consultant Community Physician Samitha Siritunga said.
+
+...
+
+[Data](articles/ace0ea67.json)
+
+---
+
 ### New committee to ensure respectful handling of final rites for individuals – President
 
 *2024-04-08 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98516/new-committee-to-ensure-respectful-handling-of-final-rites-for-individuals-president) · `en`
@@ -567,6 +711,24 @@ President Ranil Wickremesinghe made this statement participating at the Inftar f
 [Data](articles/cf4654fd.json)
 
 [Extended Data](ext_articles/cf4654fd.ext.json)
+
+---
+
+### Sri Lanka to inaugurate delayed, Iran-assisted 120 MW Umaoya project this month
+
+*2024-04-08 15:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-inaugurate-delayed-iran-assisted-120-mw-umaoya-project-this-month-157921/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Irrigation Ministry has planned to inaugurate $529 million worth Uma Oya multipurpose development project with 120MW hydro power generation capacity later this month on the advice of President Ranil Wickremesighe’s advice, the Ministry said in a statement.
+
+The project was scheduled to be completed in 2015, but had been delayed several times due to unexpected issued faced during the project cycle and funding issue after the United States imposed economic sanctions on Iran and economic crisis in Sri Lanka.
+
+The project was started in 2010 and the funding was to be received as loan grant from the Iranian government. However, Iran was able to provide $50 million before the sanctions. Sri Lanka has to bear the cost after the sanctions.
+
+“President Ranil Wickremesinghe gave instructions to open the Umaoya Multipurpose Development Project at the end of April,” the Irrigation Ministry said quoting Pavithra Vanniarachchi, Minister of Irrigation, Wildlife and Forestry.
+
+...
+
+[Data](articles/a3706ccb.json)
 
 ---
 
@@ -916,21 +1078,29 @@ The minister said that the ministry is planning to bring enough fuel for the nex
 
 ---
 
-### කොම්පඤ්ඤවීදිය ගුවන් පාලම ජනතා අයිතියට
+### Slave Island flyover vested with the public
 
 *2024-04-08 14:30:07* · [`adalk`](https://www.ada.lk/breaking_news/කොම්පඤ්ඤවීදිය-ගුවන්-පාලම-ජනතා-අයිතියට/11-409011) · `si`
 
-කොම්පඤ්ඤවීදිය, විනිසුරු අක්බාර් මාවත හා උත්තරානන්ද මාවත සම්බන්ධ කරමින් දුම්රිය මාර්ගයට ඉහළින් ඉදිකරන ලද ද්විත්ව ගුවන් පාලම ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අද (08) ජනතා අයිතියට පත් කරන ලදී.
+A new double flyover over the railway line, connecting Slave Island, Judge Akiya Mawatha, and Uththananda Mawatha, is under construction by the Road Development Authority (MAGA). Expected to be completed by September, the project costs Rs. 5,278,081,272.43. It aims to alleviate the 3-hour daily traffic congestion at the Slave Island railway crossing.
 
-මෙම ව්‍යාපෘතියේ සෙසු ඉදිකිරීම් කටයුතු සැප්තැම්බර් මාසය වන විට අවසන් කිරීමට සැලසුම් කර ඇති අතර, සමස්ත ව්‍යාපෘතිය වෙනුවෙන් ඇස්තමේන්තුගත මුදල රුපියල් 5,278,081,272.43කි.
+🟩
 
-රජයේ කාර්යාල, රෝහල්, ආගමික ස්ථාන, ආපනශාලා, චිත්‍රපට ශාලා ඇතුළු විවිධ ආයතනයන්ගෙන් සමන්විත ඉතා කාර්යබහුල වාණිජ නගරයක් වන කොම්පඤ්ඤවීදිය ප්‍රදේශයේ පිහිටි දුම්රිය හරස් මාර්ගය හේතුවෙන් දෛනිකව පැය 3කට ආසන්න කාලයක් අපතේ යන බවට නිරීක්ෂණය වී තිබේ.
+The double flyover constructed above the railway line, connected to the railway line, connected to the railway line, connecting Slave Island, Judge Akiya Mawatha and Uththananda Mawatha.
 
-එම ප්‍රමාදය මඟහරවා ගැනීම ඉලක්ක කර මාර්ග සංවර්ධන අධිකාරිය විසින් සිදු කරන මෙම ව්‍යාපෘතියේ ඉදිකිරීම් කටයුතු මාගා ඉංජිනේරු සමාගම (Maga Engineering) විසින් සිදු කරයි.
+The construction of the project is expected to be completed by September and the estimated cost of the entire project is Rs. 5,278,081,272.43.
 
-...
+The railway crossing in Slave Island has been observed for almost 3 hours daily due to the railway crossing in Slave Island.
+
+The construction of the project will be carried out by the Road Development Authority (MAGA).
+
+Minister of Transport, Highways and Mass Media and Mass Media and Mass Media and Parliamentarian Vajira Abeywardena, Chief of Transport and Head of the Presidential Staff Head Leader Sagala Ratnayake Secretary to the Ministry of Transport and Highways. W. R. Chaminda, Chaminda, Chaminda, Lives, Priyantha Sooriyabandara, Director General of the Road Development Authority were also present.
+
+◼️
 
 [Data](articles/bca74200.json)
+
+[Extended Data](ext_articles/bca74200.ext.json)
 
 ---
 
@@ -1113,6 +1283,26 @@ President Ranil Wickremesinghe and UNP activists were held at the President's Ho
 [Data](articles/025683cd.json)
 
 [Extended Data](ext_articles/025683cd.ext.json)
+
+---
+
+### Sri Lanka’s SJB must inform NPP in writing if Sajith wants debate: Tilvin
+
+*2024-04-08 13:54:00* · [`economynextcom`](https://economynext.com/sri-lankas-sjb-must-inform-npp-in-writing-if-sajith-wants-debate-tilvin-157905/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s main opposition Samagi Jana Balawegaya (SJB) must inform the leftist National People’s Power (NPP) in writing whether or not SJB leader Sajith Premadasa intends to debate NPP leader Anura Kumara Dissanayake, an NPP spokesman said.
+
+Janatha Vimukthi Peramuna (JVP) general secretary Tilvin Silva speaking at an NPP said the SJB is now embroiled in its own debate about who should be sent to debate the NPP.
+
+“They may call us for debates, but they won’t come. We know that it’s just posturing,” said Silva.
+
+“Honestly, this became a nuisance. We tried to ignore it it, but then it got annoying with everyone asking if he wouldn’t go. We said ‘okay, fine, we’ll come’,” she added.
+
+JVP and NPP leader Dissanayake is ready to attend the debate, Silva said, and Premadasa can represent the SJB.
+
+...
+
+[Data](articles/fd9d95da.json)
 
 ---
 
@@ -2125,165 +2315,5 @@ The complaints were filed before the District Court as the decision taken by the
 [Data](articles/3d3bf273.json)
 
 [Extended Data](ext_articles/3d3bf273.ext.json)
-
----
-
-### Ex-Health Minister Keheliya and 07 others further remanded
-
-*2024-04-08 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98510/ex-health-minister-keheliya-and-07-others-further-remanded) · `en`
-
-Former Minister of Health Keheliya Rambukwella and 07 others who were implicated in the alleged import of substandard immunoglobulin vials have been further remanded until April 22 by the Maligakanda Magistrate’s Court, Ada Derana reporter said.
-
-The Criminal Investigation Department (CID) arrested Rambukwella on 02 February in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
-
-The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
-
-...
-
-[Data](articles/b2a0aece.json)
-
-[Extended Data](ext_articles/b2a0aece.ext.json)
-
----
-
-### Introduction of the plan with the husband during childbirth
-
-*2024-04-08 11:05:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரசவத்தின்-போது-கணவர்-உடனிருக்கும்-திட்டம்-அறிமுகம்/175-335731) · `ta`
-
-Cascal Women's Hospital in Colombo is the first government hospital to allow fathers in the delivery room, enhancing the bond between couples and their child.
-
-🟩
-
-The women's hospital for women in Colombo has introduced a new program to allow fathers to be held in the delivery room during delivery.
-
-Dr. Ajith Dandanarayana, Director of the Cascal Women's Hospital, said that this was the first government hospital to launch such a project.
-
-Dr. Dandanarayana added that separate rooms have been prepared for every mother in the maternity room.
-
-"This plan, which allows husbands to be with the spouse during childbirth, will strengthen the relationship between the couple and the parents and the child, while giving birth to a child in good mood," he said.
-
-◼️
-
-[Data](articles/928d09d8.json)
-
-[Extended Data](ext_articles/928d09d8.ext.json)
-
----
-
-### The girl who gave a covenant killer to take care of a relative to a relative to the mother abroad
-
-*2024-04-08 11:04:05* · [`adalk`](https://www.ada.lk/breaking_news/මව-විදෙස්ගත-පැමිණෙන-තෙක්-ඥාතිවරියකට-රැකබලා-ගැනීමට-ගිවිසුමක්-මගින්-දුන්-දැරිය-හදිසියේම-මරුට/11-409001) · `si`
-
-A girl named Mohammed Ryfcan, temporarily residing in Maligawatta, was killed. Her father, a suspect, was arrested for giving a covenant killer to take care of a relative. The victim's mother had gone abroad five months ago. The suspect's wife and daughter were also arrested.
-
-🟩
-
-Maligawatta Police say four persons including the woman's husband and four others were arrested in connection with the death of a girl for a close relative to a close relative.
-
-The suspect (father of the deceased girl) has been arrested by connecting a child under a covenant with a covenant.
-
-A 45-year-old woman who was taken into customer with the rest of the arrested group is a 15-year-old daughter and 15 year old.The victim was a girl named Mohammed Ryfcan, a temporary residing in the Maligawatta.
-
-The deceased has been resident in Puttalam with mother and father and had a close relative to a close relative to the girl and returned to the girl before the mother went abroad about five months ago.Police investigations have revealed that a relative was given to the suspect.
-
-It has been revealed that the girl was playing at home on the 5th and the main suspect had been admitted to the Lady Lady Lady Children's Hospital.
-
-...
-
-[Data](articles/3260e84f.json)
-
-[Extended Data](ext_articles/3260e84f.ext.json)
-
----
-
-### Former Health Minister Keheliya remanded again
-
-*2024-04-08 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195425) · `si`
-
-Former Health Minister Keheliya Rambukwella remanded until April 22. Second, fourth, sixth, sixth, and eighth suspects reserved and released on bail, to be produced on the 10th to determine bail eligibility.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella has been remanded again until April 22.
-
-He was produced before the Maligakanda Magistrate today (08).
-
-Our court correspondent stated that the second, the fourth, sixth, sixth and eighth suspects were reserved and released on bail.
-
-The Magistrate ordered that they were produced before courts on the 10th to determine whether they were bied.
-
-◼️
-
-[Data](articles/f2aac175.json)
-
-[Extended Data](ext_articles/f2aac175.ext.json)
-
----
-
-### A new face to the big chair of the SLFP
-
-*2024-04-08 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195424) · `si`
-
-Nimal Siripala de Silva, SLFP's Senior Vice President, is now the acting chairman. Despite the Independence Party's General Secretary, Sarahi Yomalpala, claiming no constitutional right to convene a political panel meeting, the Political Bureau met today.
-
-🟩
-
-Nimal Siripala de Silva has been appointed as the new acting chairman of the SLFP.
-
-The Political Bureau was held today (08) at the patronage of a senior party and the senior party.
-
-However, the General Secretary of the Independence Party Sarahi Yomalpala said that according to the party constitution, there is no rights or authority to convene a political panel meeting.
-
-Sri Lanka Freedom Party (SLFP) Senior Vice President of the SLFP, Nimal Siripala de Silva was convened by a political meeting.
-
-◼️
-
-[Data](articles/1d222e46.json)
-
-[Extended Data](ext_articles/1d222e46.ext.json)
-
----
-
-### Nimal Siripala appointed Acting Chairman of SLFP
-
-*2024-04-08 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98509/nimal-siripala-appointed-acting-chairman-of-slfp) · `en`
-
-The Sri Lanka Freedom Party (SLFP) has decided to appoint Minister of Ports, Aviation and Shipping Nimal Siripala de Silva as the party’s Acting Chairman.
-
-This decision has been arrived at during the SLFP politburo meeting led by former President Chandrika Bandaranaike Kumaratunga, which was held this morning (08) at the Sri Lanka Foundation Institute.
-
-The SLFP convened the party’s politburo in order to discuss the future course of action of the party, in view of its current internal crisis situation. It was reported that all party members excluding former President Maithripala Sirisena, former General Secretary Dayasiri Jayasekara and MP Shan Vijayalal de Silva have been invited for the relevant meeting.
-
-On Thursday (04), the Colombo District Court issued an interim injunction preventing former President Maithripala Sirisena from functioning as the SLFP chairman, following a complaint filed by former President Chandrika Bandaranaike Kumaratunga.
-
-...
-
-[Data](articles/45538363.json)
-
-[Extended Data](ext_articles/45538363.ext.json)
-
----
-
-### Not a dry holiday for Sri Lanka’s foreign visitors
-
-*2024-04-08 10:58:00* · [`economynextcom`](https://economynext.com/not-a-dry-holiday-for-sri-lankas-foreign-visitors-157834/) · `en`
-
-ECONOMYNEXT – Liquor will be available for tourists staying in boutique villas and three-star and above hotels licensed by the Tourism Development Authority during the upcoming holiday period, the Department of Excise has said.
-
-But “All excise licensed pubs should be closed for retail sale of liquor,” the Commissioner General of Excise said in statement released by the Department of Government Information.
-
-Sri Lanka usually prohibits the sale of liquor during holidays.
-
-The Excise Department has requested the public to report any complaints during this period via telephone number 1913.
-
-Sri Lanka has seen an uptick in foreign visitors to the island, and earned 1,025.9 million US dollars from tourism in the first quarter of 2024, up 103 percent from a year ago, the central bank said quoting tourism promotion authorities. (Colombo/Apr8/2021)
-
-Sri Lanka earns billion dollars from tourism in first quarter
-
-◼️
-
-[Data](articles/ca4b8d20.json)
-
-[Extended Data](ext_articles/ca4b8d20.ext.json)
 
 ---

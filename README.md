@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 21:04:01**
+As of **2024-04-08 21:18:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,903
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,913 (100.0%) of 17,916 articles have been extended.
+17,916 (100.0%) of 17,916 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ However, with the presidential elections approaching, the NPP proposed that the 
 ...
 
 [Data](articles/03ce7e14.json)
+
+[Extended Data](ext_articles/03ce7e14.ext.json)
 
 ---
 
@@ -80,15 +82,21 @@ BY POORNIMA ON SCRIBD
 
 ---
 
-### விவாகரத்து கோரி நடிகர் தனுஷ் - ஐஸ்வர்யா மனு
+### Actor Dhanush - Aishwarya petition for divorce
 
 *2024-04-08 20:15:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விவாகரத்து-கோரி-நடிகர்-தனுஷ்-ஐஸ்வர்யா-மனு/54-335757) · `ta`
 
-2004ஆம் ஆண்டு நடைபெற்ற தங்களின் திருமணத்தை செல்லாது என அறிவிக்க கோரி இருவரும் குடும்ப நல நீதிமன்றத்தில் மனு தாக்கல்
+Actor Dhanush and Aishwarya filed a divorce petition in the Family Welfare Court, seeking a declaration of their 2004 marriage.
+
+🟩
+
+The two filed a petition in the Family Welfare Court demanding that they declare their marriage in 2004
 
 ◼️
 
 [Data](articles/c2b6c223.json)
+
+[Extended Data](ext_articles/c2b6c223.ext.json)
 
 ---
 
@@ -214,21 +222,27 @@ This will give my special thanks to everyone who contributed to the success of t
 
 ---
 
-### නව විදුලි පනතට කැබිනට් අනුමැතිය
+### Cabinet approval for the new electricity bill
 
 *2024-04-08 19:17:02* · [`adalk`](https://www.ada.lk/breaking_news/නව-විදුලි-පනතට-කැබිනට්-අනුමැතිය/11-409020) · `si`
 
-විදුලිබල ක්ෂේත්‍රයේ ප්‍රතිසංස්කරණ පනත් කෙටුම්පතට අමාත්‍ය මණ්ඩල අනුමැතිය අද හිමිවූ බව විදුලි බල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා කියයි.
+Cabinet approves new electricity bill. Amended copy to be presented to Parliament for approval. Bill to be tabled in final week of April and gazetted this week. Public given two weeks to challenge.
 
-ඒ අනුව නව විදුලිබල අංශයේ පනත් කෙටුම්පතේ සංශෝධිත පිටපත ගැසට් කර අනුමැතිය සඳහා පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතය.
+🟩
 
-පනත් කෙටුම්පත අප්‍රේල් මස අවසන් සතියේ පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත අතර මෙම සතියේදී එය ගැසට් කිරීමට නියමිතය.
+Cabinet Minister Kanchana Wijesekara says that the Cabinet approval was held today.
 
-පනත් කෙටුම්පත අභියෝගයට ලක් කිරීම සඳහා එය පාර්ලිමේන්තුවට ඉදිරිපත් කළ දිනයේ සිට සති 2 ක කාලයක් මහජනතාවට ලැබේ.
+Accordingly, the amended copy of the New Electricity Unit will be presented to Parliament for approval.
+
+The Bill is to be tabled in Parliament in the final week of April and it is to be gazetted this week.
+
+The public receives two weeks from the date on which it was presented to Parliament to challenge the Bill.
 
 ◼️
 
 [Data](articles/dbda5a9e.json)
+
+[Extended Data](ext_articles/dbda5a9e.ext.json)
 
 ---
 

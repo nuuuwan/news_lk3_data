@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 20:33:43**
+As of **2024-04-08 20:50:33**
 
 ## Newspaper Stats
 
-*Scraped **17,912** Articles*
+*Scraped **17,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ tamilmirrorlk | 2,105
 adaderanalk | 2,156
 virakesarilk | 2,639
 dailymirrorlk | 2,733
-adaderanasinhalalk | 2,902
+adaderanasinhalalk | 2,903
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,912 (100.0%) of 17,912 articles have been extended.
+17,912 (100.0%) of 17,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### රජයෙන් අලුත් මාර්ගෝපදේශ මාලාවක්
+
+*2024-04-08 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195446) · `si`
+
+අලුත් අවුරුදු උත්සව සමයේදී සංවිධානය කෙරෙන ක්‍රීඩා තරගවලට අදාළව මාර්ගෝපදේශ මාලාවක් නිකුත් කර තිබේ.
+
+සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ අද පැවති මාධ්‍ය හමුවක දී ප්‍රකාශ කළේ අදාළ කාලය තුළ සිදුවිය හැකි අනතුරු අවම කර ගැනීම සඳහා එම මාර්ගෝපදේශ මාලාව නිකුත් කරන බවය.
+
+මේ අතර ප්‍රජා වෛද්‍ය විශේෂඥ සමිත සිරිතුංග මහතා පැවසුවේ ඇතැම් ක්‍රීඩා සඳහා වෛද්‍ය සහතිකයක් ඉදිරිපත් කිරීම ඇතුළු මාර්ගෝපදේශ මාලාවක් ඉදිරිපත් කර ඇති බවය.
+
+එමෙන්ම ධාවන තරග, මැරතන් තරග ඇතුළු අවුරුදු ක්‍රීඩා සම්බන්ධයෙන් අවශ්‍ය මැදිහත් වීම සඳහා සියලු පොලිස් ස්ථාන වෙත චක්‍රලේඛයක් නිකුත් කර ඇති බව රථවාහන පාලන හා මාර්ග ආරක්ෂාව පිළිබඳ නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා එහිදී සදහන් කළේය.
+
+2023 වසරේ බීමත්ව රිය පැදවූ පුද්ගලයින් 124,760 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+එම වසරේ අප්‍රේල් මාසයේ දී බීමත්ව රිය පැදවීම් හේතුවෙන් සිදුවූ අනතුරුවලින් පුද්ගල මරණ 07ක් සිදුව ඇති බව නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ සඳහන් කළේය.
+
+අලුත් අවුරුදු උත්සව සමයේ දී ක්‍රීඩා තරගවලට අදාළව මාර්ගෝපදේශ මාලාවක් by poornima on Scribd
+
+◼️
+
+[Data](articles/78a8d180.json)
+
+---
 
 ### Man shot dead in Gampaha
 
@@ -2367,19 +2391,5 @@ Antony Albenis said that the responsibility for us - what happened in what happe
 [Data](articles/05ac3b32.json)
 
 [Extended Data](ext_articles/05ac3b32.ext.json)
-
----
-
-### Stock market to close at noon on April 10
-
-*2024-04-08 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98512/stock-market-to-close-at-noon-on-april-10) · `en`
-
-The Colombo Stock Exchange (CSE) will close at 12.00 noon on Wednesday (April 10), in view of the additional half-holiday on account of the Sinhala and Tamil New Year falling on Saturday (April 13), the CSE announced.
-
-◼️
-
-[Data](articles/627e26ac.json)
-
-[Extended Data](ext_articles/627e26ac.ext.json)
 
 ---

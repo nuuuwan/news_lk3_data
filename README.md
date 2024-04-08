@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 22:51:26**
+As of **2024-04-08 23:03:25**
 
 ## Newspaper Stats
 
-*Scraped **17,926** Articles*
+*Scraped **17,927** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 979
 economynextcom | 993
 adalk | 1,512
 tamilmirrorlk | 2,106
-adaderanalk | 2,159
+adaderanalk | 2,160
 virakesarilk | 2,640
 dailymirrorlk | 2,736
 adaderanasinhalalk | 2,906
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,925 (100.0%) of 17,926 articles have been extended.
+17,926 (100.0%) of 17,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### Rs 200 billion social safety net to support Sri Lanka’s vulnerable populations amid economic turmoil
+
+*2024-04-08 22:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98525/rs-200-billion-social-safety-net-to-support-sri-lankas-vulnerable-populations-amid-economic-turmoil) · `en`
+
+Presidential Director General (Community Affairs) Mr. Rajith Keerthi Tennakoon said that nearly Rs. 200 billion has been paid in 2023 alone to provide relief to the people affected by the economic crisis.
+
+He also mentioned that the number of relief beneficiaries as of March 31, 2024 is 1,854,308.
+
+Mr. Tennakoon mentioned this while making a special statement to the media today (08).
+
+The government acknowledges its duty to alleviate the hardships faced by the populace amidst the profound economic challenges experienced in 2021 and 2022. In the singular year of 2023, a substantial sum of Rs. 184,098.27 million is deemed necessary for various aids, loans, and allowances under the Samurdhi program, catering to seniors, disabled individuals, patients with kidney disorders, and other relief needs.
+
+Additionally, the government’s total expenditure on social welfare initiatives in 2023, inclusive of appeals and outstanding payments, amounts to approximately Rs.189,650.95 million (189.6 billion).
+
+...
+
+[Data](articles/bb7222e8.json)
+
+---
 
 ### Hamas says Gaza truce talks still deadlocked despite reports of progress
 
@@ -47,6 +67,8 @@ Western powers have voiced concern over the high Palestinian civilian death toll
 ...
 
 [Data](articles/9f0243ac.json)
+
+[Extended Data](ext_articles/9f0243ac.ext.json)
 
 ---
 
@@ -2335,29 +2357,5 @@ Former Health Beheliya Keheliya Rambukwella and six suspects have been remanded 
 [Data](articles/99f5d887.json)
 
 [Extended Data](ext_articles/99f5d887.ext.json)
-
----
-
-### Humans and the standards arrest the death of a person in a plumbing temple
-
-*2024-04-08 13:24:52* · [`adalk`](https://www.ada.lk/breaking_news/ගැටඹේ-විහාරස්ථානයක-පුද්ගලයකු-මිය-යාමේ-සිද්ධියට-හිමිනමක්-හා-ග්‍රාමාරක්ෂක-අත්අඩංගුවට/11-409008) · `si`
-
-A 4-year-old Army Society resident was killed in Kandy temple. Civilian security was deployed. The deceased was attacked and killed in a tree. Police arrested the temple leader.
-
-🟩
-
-Kandy headquarters said that a civilian security personnel were deployed in the temple and the temple to protect the death of a person when he was assaulted at the temple in Kandy.
-
-The deceased was a 4 year old former Army Society, a resident of Menikhinna area.
-
-While he entered the temples premises yesterday morning, a group of people were attacked and killed in a tree.
-
-Although the deceased was brutally attacked and collapsed in a tree, police have been arrested for the arrest of the Temple Leader.
-
-◼️
-
-[Data](articles/3f9d8b08.json)
-
-[Extended Data](ext_articles/3f9d8b08.ext.json)
 
 ---

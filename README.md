@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 16:18:21**
+As of **2024-04-08 16:33:33**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 2,894
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,852 (100.0%) of 17,857 articles have been extended.
+17,857 (100.0%) of 17,857 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### නවසීලන්තයට යන්න සිහින දකින අයට විශේෂ ආරංචියක්
+### Special news for those who dreamed for New Zealand
 
 *2024-04-08 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195437) · `si`
 
-"තිරසාර නොවන" සංක්‍රමණ වැඩිවීමට ප්‍රතිචාර වශයෙන් රැකියා වීසා නීති දැඩි කිරීමට නවසීලන්තය පියවර ගෙන ඇති බව ජාත්‍යන්තර මාධ්‍ය පවසයි.
+New Zealand tightens employment visa laws, requiring low-skilled workers to meet English language standards and limiting their stay to three years, previously five. This change aims to rebuild the economy and ensure employers meet skill and experience requirements.
 
-අඩු නිපුණතා සහිත අයදුම්කරුවන්ට දැන් ඉංග්‍රීසි භාෂා අවශ්‍යතා සපුරාලිය යුතු අතර ඔවුන්ට එරට රැඳී සිටීමට අවසර ලැබෙන්නේ වසර තුනක් පමණි. මීට පෙර එවැනි පුද්ගලයින් සඳහා වසර 5ක කාලයක් නවසීලන්තයේ රැඳී සිටීමට අවසර ලැබුණි.
+🟩
 
-"ආර්ථිකය නැවත ගොඩනැගීම සඳහා මෙම රජයේ සැලැස්මට මෙරට ආගමන ක්‍රමවේදය නිවැරදිව පවත්වාගැනීම ඉතා වැදගත්," ආගමන අමාත්‍ය එරිකා ස්ටැන්ෆර්ඩ් පැවසුවාය.
+New Zealand has taken steps to raise employment visa laws in response to a "unsustainable" immigration increase.
 
-දැඩි කර ඇති නීති යටතේ, බොහෝ රැකියා වීසා සඳහා අයදුම්කරුවන් කුසලතා සහ සේවා පළපුරුද්ද සම්බන්ධ වූ අවශ්‍යතා සපුරාලිය යුතුය.
+Low skilled applicants should now meet the English language requirements and are only three years allowed to stay in the country. Previously, such people were allowed to stay in New Zealand for five years.
 
-සංක්‍රමණිකයන්ට රැකියාවක් පිරිනැමීමට පෙර ඔවුන් නිශ්චිත අවශ්‍යතා සපුරා ඇති බව සහතික කිරීම හාම්පුතුන්ගේ වගකීම බව නවසීලන්ත බලධාරීන් පවසයි.
+"It is important to maintain the country's immigration methodology," says Immigration Minister Erika Stanford, to maintain the economy to rebuild the economy.
 
-එසේම කඩිනමින් එරට පුරවැසිභාවය ලබාගැනීමට අවස්ථාව ලැබෙන ලෙස හඳුනාගත් වෘත්තීන් සඳහා තවත් වෘත්තීන් 11ක් එක් කිරීමට බලධාරීන් සැලසුම් කර තිබූ අතර එම සැලසුම අත්හැර දැමීමට ඔවුන් මේ වනවිට තීරණය කර ඇති බව සඳහන් ය.
+Under the laws, many employers should meet the requirements of skills and work experience.
+
+New Zealand authorities say they are the responsibility of the employers before the migrants are served.
+
+The authorities have planned to add 11 more careers for the identified occupations identified as the citizenship of the country.
 
 ◼️
 
 [Data](articles/5deaf942.json)
+
+[Extended Data](ext_articles/5deaf942.ext.json)
 
 ---
 
@@ -76,23 +82,31 @@ Authorities have also decided to axe earlier plans to add 11 roles, such as weld
 
 [Data](articles/d41fe010.json)
 
+[Extended Data](ext_articles/d41fe010.ext.json)
+
 ---
 
-### பூண்டுலோயா நகரில் மருந்தகமொன்றில் தீ விபத்து!
+### Fire at a pharmacy in Punduloya
 
 *2024-04-08 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180731) · `ta`
 
-பூண்டுலோயா பிரதான நகரில் தனியார் மருத்தகம் ஒன்றில் தீ விபத்து ஏற்பட்டுள்ளது. குறித்த சம்பவம் நேற்று சனிக்கிழமை (06) இரவு இடம்பெற்றுள்ளது.
+A fire at a pharmacy in Punduloya's main city last Saturday night may have caused a fire at a private hospital. Damage to products, including drugs and furniture, is yet to be revealed. Punduloya police and Nuwara Eliya Forensic Division are investigating.
 
-மருந்தகத்தில் ஏற்பட்ட மின்னொழுக்கு காரணமாக இந்த   தீ விபத்து இடம் பெற்றிருக்கலாம் என ஆரம்ப கட்ட விசாரனையின் மூலம் தெரியவருகிறது.
+🟩
 
-இதன்போது, மருந்தகத்தில் வைக்கப்பட்டிருந்த மருந்துகள் உட்பட பொருட்கள், தளபாடங்களிற்கு சேதம் ஏற்பட்டுள்ளதாகவும் சேத விபரம் இதுவரை தெரியவரவில்லை. எனவும் பொலிஸார் தெரிவித்தனர்.
+A fire broke out in a private hospital in Punduloya main city. The incident took place last Saturday night (06).
 
-மேலும், தீ விபத்து தொடர்பான காரணங்களை கண்டறியவும் மேலதிக விசாரணைகளை முன்னெடுக்கவும் பூண்டுலோயா பொலிஸாரும், நுவரெலியா தடயவியல் பிரிவினரும் இணைந்துள்ளனர்
+Initial inquiries revealed that the fire may have been the cause of the fire at the pharmacy.
+
+Damage has not yet been revealed that the products, including drugs and furniture have been damaged at the pharmacy.. Police said.
+
+In addition, the Punduloya police and the Nuwara Eliya Forensic Division have joined forces to identify the causes of the fire and carry out further investigations.
 
 ◼️
 
 [Data](articles/715cef72.json)
+
+[Extended Data](ext_articles/715cef72.ext.json)
 
 ---
 
@@ -404,19 +418,25 @@ While the CBSL data shows Sri Lanka's foreign reserves reached US $ 5 billion, i
 
 ---
 
-### ඉල්ලපු වෙනස තමයි මේ දෙන්න හදන්නෙ
+### The difference is that this is what this is
 
 *2024-04-08 14:40:22* · [`adalk`](https://www.ada.lk/breaking_news/ඉල්ලපු-වෙනස-තමයි-මේ-දෙන්න-හදන්නෙ/11-409013) · `si`
 
-රට තුළ නව ආර්ථිකයක් නිර්මාණය කරන්නේ තරුණ පරපුර ඉල්ලා සිටින වෙනස ලබා දෙමින් රට ශීඝ්‍ර සංවර්ධනයක් කරා ගෙන යාමට බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe announced a new economic development plan for Sri Lanka, with legislation to be presented and passed in June.
 
-එම නව ආර්ථිකය ඇති කිරීමට අදාළ මුලික නීති ලබන මැයි මාසයේදී පාර්ලිමේන්තුවට ඉදිරිපත් කර ජුනි මාසයේදී සම්මත කර ගන්නා බවද ජනාධිපතිවරයා සඳහන් කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව ප්‍රකාශ කළේ ඊයේ (07) මහනුවර ජනාධිපති මන්දිරයේ පැවැති“ මගෙන් පටන්ගමු මහනුවර දිස්ත්‍රික් තරුණ සමුළුව“ අමතමිනි.
+President Ranil Wickremesinghe said that a new economy is being created in the country to bring the country to a rapid development.
+
+The head of the laws relating to the new economy will be presented to Parliament in June and passed in June in June.
+
+President Ranil Wickremesinghe said this at the President's House in Kandy yesterday (07), "the start of the Kandy District Youth Conference yesterday.
 
 ◼️
 
 [Data](articles/9b52017a.json)
+
+[Extended Data](ext_articles/9b52017a.ext.json)
 
 ---
 
@@ -568,23 +588,33 @@ They have two sons Linga and Yatra. It is noteworthy that Dhanush and Aishwarya 
 
 ---
 
-### විනෝද වෙන්න ගිය ගමන මරණයකින් කෙළවර වෙයි
+### The journey to fun is ending death
 
 *2024-04-08 14:24:05* · [`adalk`](https://www.ada.lk/breaking_news/විනෝද-වෙන්න-ගිය-ගමන-මරණයකින්-කෙළවර-වෙයි/11-409010) · `si`
 
-වැල්ලවාය-බුත්තල මාර්ගයේ වැල්ලවාය නගරය ආසන්නයේ පිහිටි තෙල් පිරවුම්හලක් අසලදී අද අලුයම ටිපර්රථයක් සහ ත්‍රීවීල්රථයක් ගැටීමෙන් සිදුවූ රියඅනතුරකින් අවුරුදු 02 මාස 08 දරුවෙක් මියගොස් ඇතැයි වැල්ලවාය පොලීසිය පවසයි.
+A tragic accident involving a tipper and a three-month-old child near Wellawaya resulted in the child's death. The father is in Wellawaya Base Hospital, and the mother, initially treated there, was transferred to Monaragala District Hospital. The incident occurred during a trip from Buttala to Wellawaya for a musical show. The child was hit by the tipper, and both parents were injured.
 
-වැල්ලවාය නගරයේ පැවති සංගීත සංදර්ශනයක් නැරඹීමට මෙම දරුවා, දරුවාගේ පියා සහ මව සමඟ වැල්ලවායට ගොස් එන අතරමඟදී බුත්තල සිට වැල්ලවාය දෙසට ධාවනය වෙමින් තිබූ ටිපර්රථයක් ත්‍රීවීල්රථයේ ගැටීමෙන් එහි රියදුරු ලෙස කටයුතු කළ පියාත් පිටුපස අසුනේ සිටි මව සහ දරුවාත් තුවාල ලබා වැල්ලවාය මූලික රෝහලට ඇතුලත්කිරීමෙන් අනතුරුව ආනපල්ලම පදිංචි විනෝද් බණ්ඩාර (අවු 02 මාස 08) දරුවා මියගොස් ඇත.
+🟩
 
-පියා වැල්ලවාය මූලික රෝහලේ ප්‍රතිකාර ලබන අතර මව මොනරාගල දිස්ත්‍රික් මහ රෝහලේ ප්‍රතිකාරලබමින් පසුවේ.
+Wellawaya Police say a Tipper and a three-month-year-old stories have been killed in a three-year-old area near the Wellawaya road on Wellawaya road.
 
-වැල්ලවාය ආනපල්ලම පදිංචි මෙම පිරිස  ත්‍රීවීල්රථයෙන් වැල්ලවාය නගරයේ පැවති සංගීත සංදර්ශනයක් නරඹා නිවසට ආපසු යමින් සිටියදී බුත්තල සිට වැල්ලවාය දෙසට ධාවනයවෙමින් ටිපර්රථය ඉදිරියෙන් පැමිණි ත්‍රීවීල්රථයේ ගැටී ඇත.
+A tipper from Buttala to visit the Wellawaya towards Wellawaya towards Wellawaya towards Wellawaya, a Tipper from Buttala to visit Wellawaya.Bandara (02 months 8 months), the child was killed.
 
-එම අවස්ථාවේ ත්‍රීවීල්රථයේ පිටුපස අසුනේ මවගේ ඇකයේ සිටි දරුවා පාරට විසිවී හිස පොළොවේ වැදී තිබේ.
+The father is receiving treatment at the Wellawaya Base Hospital while the mother of Moneragala will be treated.
+
+The group was traveling from Buttala to visit the Wellawaya towards the Wellawaya, while visiting a musical show from the Wellawaya to visit the house from Wellawaya.
+
+At the same seat of three-wheeler, the child of the mother of her mother had touched the road and hit the road.
+
+The father and mother was injured in the accident and was rushed to the Wellawaya Base Hospital.
+
+The mother has been transferred to the Monaragala District Hospital General Hospital for further treatment.
 
 ...
 
 [Data](articles/09a67d04.json)
+
+[Extended Data](ext_articles/09a67d04.ext.json)
 
 ---
 

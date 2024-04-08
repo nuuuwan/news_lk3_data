@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 23:18:07**
+As of **2024-04-08 23:34:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,927 (100.0%) of 17,928 articles have been extended.
+17,928 (100.0%) of 17,928 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,21 +54,27 @@ Additionally, the government’s total expenditure on social welfare initiatives
 
 ---
 
-### பூண்டுலோயாவில் மருந்தகத்தில் தீ விபத்து
+### Fire at the pharmacy in Punduloya
 
 *2024-04-08 22:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180769) · `ta`
 
-பூண்டுலோயா பிரதான நகரில் தனியார் மருத்தகம் ஒன்றில் தீ விபத்து ஏற்பட்டுள்ளது. குறித்த சம்பவம் சனிக்கிழமை (06) இரவு இடம்பெற்றுள்ளது.
+A fire in Punduloya's private hospital pharmacy on Saturday night may have been electrocution-related. Damage to furniture and drugs is unknown. Punduloya Police and Nuwara Eliya Forensic Division are investigating.
 
-மருந்தகத்தில் ஏற்பட்ட மின்னொழுக்கு காரணமாக  தீவிபத்து இடம் பெற்றிருக்கலாம் என ஆரம்ப கட்ட விசாரனையின் மூலம் தெரியவருகிறது.
+🟩
 
-இதன் போது, மருந்தகத்தில் வைக்கப்பட்டிருந்த மருந்துகள் உட்பட பொருட்கள், தளபாடங்களிற்கு சேதம் ஏற்பட்டுள்ளதாகவும் சேத விபரம் இதுவரை தெரியவரவில்லை எனவும் பொலிஸார் தெரிவித்தனர்.
+A fire broke out in a private hospital in Punduloya main city. The incident took place on Saturday night (06).
 
-மேலும் தீ விபத்து தொடர்பான காரணங்களை கண்டறியவும் மேலதிக விசாரணைகளை முன்னெடுக்கவும் பூண்டுலோயா பொலிஸாரும், நுவரெலியா தடயவியல் பிரிவினரும் இணைந்துள்ளனர்.
+Initial inquiries revealed that the fire may have been caused by the electrocution in the pharmacy.
+
+During this time, the police said that the damage to the furniture, including the drugs that were placed in the pharmacy, were unknown.
+
+The Punduloya Police and the Nuwara Eliya Forensic Division have joined the further investigations to identify the causes of the fire.
 
 ◼️
 
 [Data](articles/92e7c1c8.json)
+
+[Extended Data](ext_articles/92e7c1c8.ext.json)
 
 ---
 

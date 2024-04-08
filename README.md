@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 10:33:55**
+As of **2024-04-08 10:52:02**
 
 ## Newspaper Stats
 
-*Scraped **17,758** Articles*
+*Scraped **17,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 972
 economynextcom | 978
 islandlk | 979
-adalk | 1,490
+adalk | 1,491
 tamilmirrorlk | 2,089
 adaderanalk | 2,142
-virakesarilk | 2,593
+virakesarilk | 2,596
 dailymirrorlk | 2,714
 adaderanasinhalalk | 2,880
 
@@ -26,11 +26,63 @@ adaderanasinhalalk | 2,880
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,756 (100.0%) of 17,758 articles have been extended.
+17,758 (100.0%) of 17,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### மலைநாட்டு நடனக் கலையைப் பாதுகாக்க ஜனாதிபதியினால் குழு நியமிப்பு !
+
+*2024-04-08 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180671) · `ta`
+
+மலைநாட்டு நடனக் கலையைப் பாதுகாத்து, தொடர்ந்து பேணுவதற்கு எடுக்கப்பட  வேண்டிய நடவடிக்கைகள் குறித்து ஆராய குழுவொன்று நியமிக்கப்படும் என  ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+கலாச்சார அலுவல்கள் அமைச்சு, கட்புல அரங்கேற்றக் கலைகள் பல்கலைக்கழகம்  உள்ளிட்ட நிறுவனங்களைப் பிரதிநிதித்துவப்படுத்தி நியமிக்கப்படும் இந்தக்  குழுவில் கண்டி பாரம்பரிய நடனக் கலைஞர்களின் பிரதிநிதி ஒருவரை இணைத்துக்  கொள்ள ஆலோசனை வழங்கியுள்ளதாகத் தெரிவித்த ஜனாதிபதி,  மலைநாட்டு கலை  மையமொன்றை உருவாக்க நடவடிக்கை எடுப்பதாகவும் தெரிவித்தார்.
+
+கண்டி ஜனாதிபதி மாளிகையில் ஞாயிற்றுக்கிழமை (07) காலை கண்டி பாரம்பரிய நடன  கலைஞர்களைச் சந்தித்த  போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக்  குறிப்பிட்டார்.
+
+கண்டியின் பாரம்பரிய நடனக் கலைஞர்களுக்கு ஓய்வூதியம் வழங்குவது குறித்து  ஆராயுமாறும் தொழில்  அமைச்சர்  மனுஷ நாணயக்காரவுக்கு ஜனாதிபதி ரணில்  விக்கிரமசிங்க, ஆலோசனை வழங்கினார்.
+
+...
+
+[Data](articles/c715db50.json)
+
+---
+
+### WTA Finals மகளிர் டென்னிஸ் சுற்றுப்போட்டி சவூதி அரேபியாவில்
+
+*2024-04-08 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180670) · `ta`
+
+மகளிர் டென்னிஸ் சங்­கத்தின் வருட இறுதி சுற்­றுப்­போட்டி (டபிள்யூ.ரி.ஏ. பைனல்ஸ்) சவூதி அரே­பி­யாவில் நடை­பெ­ற­வுள்­ளது.
+
+2024 முதல் 2026 வரை­யான 3 வரு­டங்­களும் சவூதி அரே­பி­யாவின் றியாத் நகரில் இச்­சுற்­றுப்­போட்டி நடை­பெறும் என தொழிற்சார் மகளிர் டென்னிஸ் சுற்­றுப்­போட்­டி­களை நிர்­வ­கிக்கும் உல­க­ளா­விய அமைப்­பான மகளிர் டென்னிஸ் சங்கம் (டபிள்யூ.ரி.ஏ.) அறி­வித்­துள்­ளது.
+
+இவ்­வ­ருட போட்­டிகள் நவம்பர் 2 முதல் 9 ஆம் திக­தி­வரை நடை­பெறும் எனவும்  இப்­போட்­டி­களில் 15.25 மில்­லியன் அமெ­ரிக்க  டொலர் பணப்­ப­ரிசு வழங்­கப்­படும் எனவும் அறி­விக்­கப்­பட்­டுள்­ளது. இது கடந்த வருட பரி­சு ­தொ­கை­யை­விட 70 சத­வீதம் அதி­க­மாகும்.
+
+4 கிராண்ட்ஸ்லாம் சுற்­றுப்­போட்­டி­க­ளுக்கு அடுத்­த­தாக மகளிர் டென்­னிஸில் அதிக பரிசுப் பணம் மற்றும் அதிக புள்­ளிகள் வழங்­கப்­படும் முக்­கிய சுற்­றுப்­போட்­டி­யாக மகளிர் டென்னிஸ் சங்­கத்தின் வருட இறுதி சுற்­றுப்­போட்டி (டபிள்யூ.ரி.ஏ. பைனல்ஸ்) விளங்­கு­கி­றது.
+
+...
+
+[Data](articles/95b9dea9.json)
+
+---
+
+### கட்சியை பிளவுபடுத்தி உருவாக்கப்பட்ட ஐக்கிய மக்கள் சக்தியில் வெறுப்பு மட்டுமே உள்ளது - ஜனாதிபதி
+
+*2024-04-08 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180667) · `ta`
+
+ஜனாதிபதி  ஜே.ஆர் ஜயவர்தனவுடன் பணியாற்றி, ஜனாதிபதி ரணசிங்க பிரேமதாசவின் கீழ் கட்சியைப் பாதுகாத்து, ஜனாதிபதி டி.பி. விஜேதுங்கவுடனும் இணைந்து செயற்பட்டு ஐக்கிய தேசியக் கட்சியில் இருந்து பிரதமராகி, ஐக்கிய தேசியக் கட்சியின் கொள்கைப் பாரம்பரியத்துடன் நாட்டின் தலைமைப் பதவிக்கு தான் வந்ததாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+சஜித் பிரேமதாச ஐக்கிய தேசியக் கட்சியை பிளவுபடுத்தி ஐக்கிய மக்கள் சக்தியை கட்டியெழுப்பினார் எனவும், அவரது தந்தையின் ஆட்சியில் கட்சி பிளவுபட்ட போது கட்சியைப் பாதுகாத்தவர் என்றவகையில்  கட்சி பிளவுபட்டதற்கு வருந்துவதாகவும் ஜனாதிபதி தெரிவித்தார்.
+
+கண்டி ஜனாதிபதி மாளிகையில் ஞாயிற்றுக்கிழமை (07) நடைபெற்ற ஐக்கிய தேசியக் கட்சியின் செயற்பாட்டாளர்களுடனான கூட்டத்தில் உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/ec36afcf.json)
+
+---
 
 ### Relief Staff Killing: Israeli Colonel, Major dismissed
 
@@ -69,6 +121,8 @@ President Ranil Wickremesinghe inaugurated the flyover spanning the railway line
 ◼️
 
 [Data](articles/7c460253.json)
+
+[Extended Data](ext_articles/7c460253.ext.json)
 
 ---
 
@@ -305,6 +359,8 @@ Meanwhile, SLAF spokesman Group Captain Dushan Wijesinghe said that the SLAF Com
 ...
 
 [Data](articles/1719348a.json)
+
+[Extended Data](ext_articles/1719348a.ext.json)
 
 ---
 
@@ -1718,6 +1774,26 @@ During the period of the year 2023, there were 512 fatal road accidents in the c
 
 ---
 
+### අවුරුද්දකදී රජය රුපියල් බිලියන 978ක් අහිමිකර ගත් හැටි
+
+*2024-04-07 20:43:21* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුද්දකදී-රජය-රුපියල්-බිලියන-978ක්-අහිමිකර-ගත්-හැටි/11-408996) · `si`
+
+2022 වර්ෂයේ මාර්තු මාසයේ සිට 2023 වර්ෂයේ මාර්තු මස 31වනදා වන විට අවුරුදු 01ක කාලසීමාව තුළ මූල්‍ය වර්ෂයේ පමණක් රජය ලබා දුන් බදු සහන හේතුවෙන් රුපියල් බිලියන 978ක බදු ආදායමක් රජයට අහිමි වී ඇති බව මුදල් අමාත්‍යාංශය මගින්  අප්‍රේල් මස 03වැනිදා නිකුත් කර ඇති රාජ්‍ය කළමනාකරණ වියදම් ප්‍රකාශන වාර්තාවේ සඳහන් වේ.
+
+මෙසේ රජයට අහිමි කර ගෙන ඇති බදු ප්‍රමාණය 2022 වර්ෂයේ රජය එකතු කර ගෙන ඇති බදු ආදායමෙන් 56෴ක් බවත් එම රාජ්‍ය මූල්‍ය කළමනාකරණ වාර්තාවේ සඳහන් වේ.
+
+ඒ බව අනාවරණය වූයේ 2024 අප්‍රේල් මස 03වනදා ශ්‍රී ලංකා මුදල් අමාත්‍යාංශය මගින් නිකුත් කොට ඇති වියදම් ප්‍රකාශනය තුළින්ය.
+
+ශ්‍රී ලංකාවට ලබාදුන් විවිධ විශේෂ ඉලක්කගත බදු සහනාධාර සහ ආණ්ඩුව අහිමි කර ගෙන ඇති ආදායම් මෙම වාර්තාවේ ඇස්තමේන්තුගත කරගෙන ඇත.
+
+අන්තර්ජාතික පිළිගත් ක්‍රමවේදයන් සහ අනුගත වෙමින් ශ්‍රී ලංකාවේ මූල්‍ය කටයුතු වාර්තාකරණයේ විනිවිදභාවය ඉහළ නැංවීම මෙම වාර්තාවේ අරමුණ බව එහි වැඩිදුරටත් සඳහන් වේ.
+
+◼️
+
+[Data](articles/950fef55.json)
+
+---
+
 ### SLFP convenes urgent politburo meeting led by CBK
 
 *2024-04-07 20:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98498/slfp-convenes-urgent-politburo-meeting-led-by-cbk-) · `en`
@@ -2153,103 +2229,5 @@ A general perception among many is that banking and financial institutions earn 
 [Data](articles/b15a514c.json)
 
 [Extended Data](ext_articles/b15a514c.ext.json)
-
----
-
-### SLFP Politburo meeting tomorrow
-
-*2024-04-07 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195405) · `si`
-
-SLFP Politburo meeting tomorrow, led by Nimal Siripala de Silva, with Chandrika Bandaranaike Kumaratunga presiding. Court prevented entry to SLFP HQ due to inactive files.
-
-🟩
-
-A SLFP Politburo meeting has been convened tomorrow (08).
-
-The situation is the key to discussing the future action of the party.
-
-Former President Chandrika Bandaranaike Kumaratunga is scheduled to be presided over the party's pradeshiya.
-
-The Colombo District Court prevented the Colombo District Court in the Colombo District Court on the occasion as a petition filed by former President Chandrika Bandaranaike Kumaratunga.
-
-The acting Secretary-General of the party had then banned the SLFP headquarters to enter the SLFP headquarters according to the complaint that the important files were inactive in the party headquarters.
-
-The SLFP's Political Bureau of Sri Lanka Freedom Party (SLFP) has been convened by the Senior Vice President Nimal Siripala de Silva tomorrow.
-
-It is reported that the members of the Sri Lanka Freedom Party (SLFP), President of the Sri Lanka Freedom Party (SLFP) is the Chairman of the Election Commission, Dayasiri Jayasekara and Shan Vijayalal de Silva.
-
-◼️
-
-[Data](articles/2a73c13d.json)
-
-[Extended Data](ext_articles/2a73c13d.ext.json)
-
----
-
-### State Conference of the Liberation Tigers of Tamil Eelam (LTTE) in Tirumala
-
-*2024-04-07 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/180647) · `ta`
-
-The State Conference of the Liberation Tigers of Tamil Eelam (LTTE) in Tirumala was chaired by Ananda Sankari, attended by over 300 representatives and supporters.
-
-🟩
-
-The State Conference of the Tamil Liberation Alliance of the Trincomalee District was held on Sunday (07) at the Trincomalee Urban Council Hall.
-
-The conference is the leader of the Liberation Tigers of Tamil Eelam (LTTE). Ananda Sankari was chaired by.
-
-More than 300 representatives and supporters were present.
-
-◼️
-
-[Data](articles/b46fdbce.json)
-
-[Extended Data](ext_articles/b46fdbce.ext.json)
-
----
-
-### Whatever the challenges, the SLFP will go before-Maithri
-
-*2024-04-07 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180645) · `ta`
-
-The SLFP, despite challenges, will form a coalition for the upcoming election. Former President Maithripala Sirisena vows to proceed despite facing legal issues, including a lawsuit from the party's secretary and an interim injunction from the court. The party aims for a non-partial verdict and unity.
-
-🟩
-
-We will take steps to set up a coalition to resolve the issues facing the Sri Lanka Freedom Party and face the upcoming election. Former President Maithripala Sirisena said that whatever the challenges were made, it would go ahead.
-
-He said this while addressing the District Federation of the Sri Lanka Freedom Party in Kaduwala.
-
-The Sri Lanka Freedom Party had faced various crises several times in history. We have taken steps to overcome the challenges that we have at the time. Similarly, there are still various challenges and against the party. We will take action to win these challenges.
-
-The party's secretary in particular has sued me based on me.. Similarly, former President Chandrika Kumaratunga has gone to court and deleted me from the post of party leader. The court has imposed an interim injunction until the 18th.
-
-...
-
-[Data](articles/99738249.json)
-
-[Extended Data](ext_articles/99738249.ext.json)
-
----
-
-### Maithripala Sirisena will challenge all - Sarath Ekanayake in the presidential election
-
-*2024-04-07 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/180644) · `ta`
-
-Maithripala Sirisena challenges Sarath Ekanayake in presidential election. SLFP's stance on election announced May 1st. Ekanayake, former Chief Minister, highlights Sirisena's challenge. Amid political crisis, major parties form coalitions, including SLFP.
-
-🟩
-
-If the presidential election is announced, we will reveal the SLFP's position on May 1st. Former Chief Minister of the Central Province Sarath Ekanayake said that Maithripala Sirisena is going to be a challenge for all.
-
-He was speaking to the media after a religious ceremony held at the Bellanwila Vihara under the leadership of former President Maithripala Sirisena.
-
-The Sri Lanka Freedom Party is the oldest party in this country. With the country's politically crisis, the upcoming presidential election will be a major challenge to political parties. So the major parties are currently actively engaged in the formation of coalition. In that way, many parties have come forward to form an alliance with the Sri Lanka Freedom Party.
-
-...
-
-[Data](articles/ad268a7b.json)
-
-[Extended Data](ext_articles/ad268a7b.ext.json)
 
 ---

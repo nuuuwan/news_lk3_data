@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 15:18:36**
+As of **2024-04-08 15:34:21**
 
 ## Newspaper Stats
 
-*Scraped **17,839** Articles*
+*Scraped **17,847** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,130 @@ newsfirstlk | 363
 dailyftlk | 972
 islandlk | 979
 economynextcom | 987
-adalk | 1,499
-tamilmirrorlk | 2,103
+adalk | 1,500
+tamilmirrorlk | 2,104
 adaderanalk | 2,150
-virakesarilk | 2,612
-dailymirrorlk | 2,725
-adaderanasinhalalk | 2,891
+virakesarilk | 2,615
+dailymirrorlk | 2,726
+adaderanasinhalalk | 2,893
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,838 (100.0%) of 17,839 articles have been extended.
+17,839 (100.0%) of 17,847 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### තැපෑලෙන් අලුත් වැඩක්
+
+*2024-04-08 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195435) · `si`
+
+සිංහල, දමිළ අලුත් අවුරුදු සහ රාමසාන් උත්සව යෙදෙන දීර්ඝ සතිඅන්ත නිවාඩු කාලය තුළ දිවයින පුරා තැපැල් භාණ්ඩ බෙදීමේ විශේෂ සේවාවක් ක්‍රියාත්මක කිරීමට ශ්‍රී ලංකා තැපැල් දෙපාර්තමේන්තුව කටයුතු යොදා තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් තැපැල්පති එස් ආර් ඩබ් එම් ආර් පී සත්කුමාර මහතා ඒ බව පැවසීය.
+
+ඒ අනුව රජයේ නිවාඩු දිනයක් වන අප්‍රේල් 12 වනදා දිවයින පුරා බෙදීම් සහිත තැපැල්/උප තැපැල් කාර්යාල මගින් - Cash-on-Delivery, විදේශ කුරියර් සේවාව සහ සාමාන්‍ය පාර්සල් බෙදීමේ විශේෂ සේවාවක් සැලසුම් කර තිබේ.
+
+◼️
+
+[Data](articles/86af195c.json)
+
+---
+
+### Prime Minister Dinesh calls on Ban Ki-moon
+
+*2024-04-08 15:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prime-Minister-Dinesh-calls-on-Ban-Ki-moon/108-280398) · `en`
+
+April 08 - In a meeting in Seoul, Prime Minister Dinesh Gunawardena and Chairman of the Global Green Growth Institute (GGGI) and former Secretary-General of the United Nations Ban Ki-moon, expressed mutual appreciation on their close partnership and committed efforts to further strengthen bilateral relations across various sectors.
+
+Prime Minister Gunawardena, emphasizing Sri Lanka's commitment to transitioning towards a greener and more resilient economy, highlighted key initiatives focusing on renewable energy, sustainable transport, and urban greening during the talks with the former UN Secretary-General on April 4.
+
+"As an island nation, we are acutely aware of the vulnerabilities posed by climate change. It is imperative that we take urgent actions to safeguard our people and ecosystems," stated Prime Minister Gunawardena.
+
+...
+
+[Data](articles/2da62e3f.json)
+
+---
+
+### යතුරුපැදි අනතුරකින් සංගීත ශිල්පියෙකු මරුට
+
+*2024-04-08 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195434) · `si`
+
+තලාව ප්‍රදේශයේදී සිදුවූ යතුරුපැදි අනතුරකින් තරුණ සංගීත ශිල්පියෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ 23 හැවිරිදි වියේ පසුවූ ගෝවින්දගේ ඉශාන් නිමන්ත නමැති තරුණ සංගීත ශිල්පියෙකි.
+
+ඔහු වැඩසටහනකට සහභාගීවීමෙන් අනතුරුව අනුරාධපුර දෙස සිට යතුරුපැදියකින් තලාව ප්‍රදේශයේ පිහිටි සිය නිවස වෙත යමින් සිටියදී මෙම අනතුර සිදුව ඇත.
+
+අනුරාධපුර පාදෙණිය ප්‍රධාන මාර්ගයේ තලාව ගොවිජන සේවා ආයතනය ඉදිරිපිටදී ඔහු ගමන්කළ යතුරුපැදිය මාර්ගයෙන් ඉවතට පැන කොහොඹ ගසක වැදීමෙන් මෙම අනතුර සිදුව ඇත.
+
+පොලීසිය සැකපළකරන්නේ ඔහුට නින්දයාම හේතුවෙන් මෙම අවාසනාවන්ත අනතුර සිදුවන්නට ඇති බවටය.
+
+◼️
+
+[Data](articles/f817b02b.json)
+
+---
+
+### ஹங்குராங்கெத்தவில் பஸ் கவிழ்ந்து விபத்து ; மூவர் வைத்தியசாலையில் அனுமதி
+
+*2024-04-08 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180718) · `ta`
+
+நுவரெலியா மாவட்டத்திலுள்ள  ஹங்குராங்கெத்த பொலிஸ் பிரிவுக்கு உட்பட்ட தெல்தோட்டை நூல்கந்தூர பகுதியில் நேற்று ஞாயிற்றுக்கிழமை (7)  இரவு பஸ் பள்ளத்தில் கவிழ்ந்து விபத்து ஏற்பட்டுள்ளது,
+
+ஹங்குராங்கெத்த பகுதியில் இருந்து தெல்தோட்டை வரை (காமன்ட்) ஆடைதொழிற்சாலையில் தொழில் புரியும் பெண்களை ஏற்றி செல்லும் தனியார் பஸ் நேற்றைய தினம் இரவு நூல்கந்தூர பகுதியில் பாலத்தில் இருந்து விலகி பள்ளத்தில் வீழ்ந்துள்ளது.
+
+பஸ்ஸில் பயணித்த இரு பெண்களும் சாரதியும் காயங்களுக்கு உள்ளாகி தெல்தோட்டை பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
+
+பின்னர் மேலதிக சிகிச்சைக்காக இரு பெண்கள் நேற்று இரவு பேராதெனிய வைத்தியசாலைக்கு இடம் மாற்றம் செய்துள்ளனர்.
+
+பஸ்ஸில் பயணித்த பெண்கள் கூறியதாவது, சாரதி தொடர்ந்து தொலைபேசி மூலமாக பேசிகொண்டு வந்த காரணமாக இந்த விபத்து ஏற்பட்டுள்ளது என்று பஸ்ஸில் பயணித்த பெண்கள் குற்றம் சுமத்துகின்றனர்.
+
+◼️
+
+[Data](articles/d51ddf06.json)
+
+---
+
+### நாட்டையும் கட்சியையும் சாப்பிட்டவர் தொடர்பில் வாய் திறக்கும் சந்திரிகா!
+
+*2024-04-08 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180719) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சி மீளக் கட்டியெழுப்பப்பட்டு வருவதாகவும் அதற்கு உதவ தாம் எதிர்பார்ப்பதாகவும் முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்க தெரிவித்துள்ளார்.
+
+கொழும்பில் இன்று திங்கட்கிழமை (08) நடைபெற்ற சுதந்திரக் கட்சியின் அரசியல் குழு கூட்டத்தின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+2015ஆம் ஆண்டு ஜனாதிபதித் தேர்தலுக்காக ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பொதுச் செயலாளரை அழைத்து வந்தேன். அவரில் எனக்கு மிகுந்த நம்பிக்கை இருந்தது. ஆனால் அவர் நாட்டையும் கட்சியையும் சாப்பிட்டு விட்டார். இருப்பினும்   அந்தத் தவறு இன்று சரி செய்யப்பட்டது என்றும் அவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/89ffabd4.json)
+
+---
+
+### ”நாமல் ஜனாதிபதியாக இன்னும் காலவகாசம் தேவை”
+
+*2024-04-08 14:54:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-ஜனாதிபதியாக-இன்னும்-காலவகாசம்-தேவை/175-335745) · `ta`
+
+தனது மகன் நாமல் ராஜபக்ச அடுத்த ஜனாதிபதி தேர்தலில் போட்டியிடுவது குறித்த கேள்விகளுக்கு முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ச முற்றுப்புள்ளி வைத்துள்ளார்.
+
+ஊடகவியலாளர்களின் கேள்விகளுக்கு பதிலளித்த ராஜபக்ச, தனது மகன் இன்னும் ஜனாதிபதி தேர்தலில் போட்டியிட தயாராக இல்லை என்றார்.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய ஒருங்கிணைப்பாளராக அண்மையில் நியமிக்கப்பட்ட தனது மகனுக்கு மேலும் கால அவகாசம் தேவைப்படுவதாக தான் கருதுவதாக முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ச தெரிவித்துள்ளார்.
+
+ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்கு ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) ஒரு வேட்பாளரை முன்னிறுத்தும் என அவர் மேலும் தெரிவித்தார்.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுன இன்னும் ஜனாதிபதி வேட்பாளர் தொடர்பில் தீர்மானிக்கவில்லை என தெரிவித்த முன்னாள் ஜனாதிபதி, இது தொடர்பில் கட்சி சரியான நேரத்தில் கலந்துரையாடும் எனவும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/3fbd283b.json)
+
+---
 
 ### 13 more arrested by police
 
@@ -92,6 +200,8 @@ Kamindu Mendis claims the ICC Men’s Player of the Month award after his histor
 
 [Data](articles/673f57c0.json)
 
+[Extended Data](ext_articles/673f57c0.ext.json)
+
 ---
 
 ### Ten Tim 13 more midwives
@@ -113,6 +223,20 @@ Police said that 327 organized crime gangs have been arrested from the 19th to y
 [Data](articles/4547f657.json)
 
 [Extended Data](ext_articles/4547f657.ext.json)
+
+---
+
+### නිදහස් පක්ෂයේ බලය මෛත්‍රී පාර්ශවයෙන් ගැලවෙයි - වැඩබලන සභාපති නිමල් සිරිපාල
+
+*2024-04-08 14:36:22* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-බලය-මෛත්‍රී-පාර්ශවයෙන්-ගැලවෙයි---වැඩබලන-සභාපති-නිමල්-සිරිපාල/11-409012) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩ බලන සභාපති වශයෙන් අමාත්‍ය නිමල් සිරිපාලද සිල්වා මහතා පත්කිරීමට එහි දේශපාලන මණ්ඩලය කටයුතු කළේය. පක්ෂයේ දේශභාලන මණ්ඩලය හිටපු ජනපති චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මියගේද සහභාගිතිවයෙන් රැස්වූ අවස්ථාවේදී මෙම තීරණය ගෙන තිබේ.
+
+එසේම එහි වැඩ බලන ලේකම්වරයා ලෙස ජාතික සංවිධායක දුමින්ද දිසානායක මහතා තේරි පත් විය. පක්ෂයේ හිටපු සභාපති, හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතාට නිදහස් පක්ෂයේ සභාපතිධුරය දැරීමට එරෙහිව හිටපු ජනපතිනී චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය අධිකරණය හරහා වාරණ නියෝගයක් පසුගියදා ලබා ගත්තාය.
+
+◼️
+
+[Data](articles/1372b95d.json)
 
 ---
 
@@ -173,6 +297,26 @@ He has been working as a worker in the restaurant for the past six years in Mann
 [Data](articles/a74c4e52.json)
 
 [Extended Data](ext_articles/a74c4e52.ext.json)
+
+---
+
+### விவாகரத்து கோரி நீதிமன்றத்தை நாடிய தனுஷ்- ஐஸ்வர்யா ஜோடி
+
+*2024-04-08 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180714) · `ta`
+
+விவாகரத்து கோரி நடிகர் தனுஷ், ஐஸ்வர்யா ரஜினிகாந்த் சென்னை குடும்ப நல நீதிமன்றத்தில் மனுத் தாக்கல் செய்துள்ளனர்.
+
+அதில் 2004ல் நடைபெற்ற திருமணம் செல்லாது என அறிவிக்க வேண்டும் என கோரியுள்ளனர். நடிகர் தனுஷ், ஐஸ்வர்யா தாக்கல் செய்துள்ள மனு விரைவில் விசாரணைக்கு வரவுள்ளது.
+
+கடந்த 2004 ஆம் ஆண்டும் நவம்பர் 18 ஆம் திகதி நடிகர் தனுஷும், நடிகர் ரஜினிகாந்தின் மகள் ஐஸ்வர்யா ரஜினிகாந்தும் காதலித்து திருமணம் செய்துகெண்டனர்.
+
+பின்னர் இருவரும் தங்கள் திருமண உறவை முறித்துக் கொள்வதாக கடந்த 2022ஆம் ஆண்டு ஜனவரி 17ம் திகதி அறிவித்தனர்.
+
+இவர்களுக்கு லிங்கா, யாத்ரா என இரண்டு மகன்கள் உள்ளனர். இதையடுத்து தனுஷ், ஐஸ்வர்யா கடந்த சில ஆண்டுகளாக பிரிந்து வாழ்ந்து வருகின்றனர் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/57e30975.json)
 
 ---
 
@@ -2105,191 +2249,5 @@ In 2044, NASA has been able to see a full solar eclipse that is very rare.
 [Data](articles/2b8f7707.json)
 
 [Extended Data](ext_articles/2b8f7707.ext.json)
-
----
-
-### Corporal from Air Force Rugby pool killed in police shootout
-
-*2024-04-08 08:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Corporal-from-Air-Force-Rugby-pool-killed-in-police-shootout/108-280362) · `en`
-
-Padukka, April 8 (Daily Mirror) - A Sri Lanka Air Force (SLAF) Corporal attached to the Sri Lanka Air Force Rugby pool, was killed in a shooting by the police and Special Task Force (STF) at Angamuwa in Padukka this morning.
-
-Police said the deceased is suspected to be the main suspect in the shooting incident at Moragahahena where two persons were killed.
-
-He had reportedly ignored an order to stop at a checkpoint during a Police-STF operation this morning. The victim was riding a motorcycle at the time of the incident.
-
-Police said the motorcyclist allegedly opened fire at the police personnel. Subsequently, when the police returned fire, the motorcyclist had sustained injuries and had died on admission to the Padukka Hospital.
-
-Meanwhile, SLAF spokesman Group Captain Dushan Wijesinghe said that the SLAF Commander has initiated an inquiry  into the incident.
-
-...
-
-[Data](articles/898c2e63.json)
-
-[Extended Data](ext_articles/898c2e63.ext.json)
-
----
-
-### Sri Lanka’s tourism earnings exceed USD 1 billion in first three months
-
-*2024-04-08 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98504/sri-lankas-tourism-earnings-exceed-usd-1-billion-in-first-three-months) · `en`
-
-Tourism Minister Harin Fernando says Sri Lanka’s total tourist arrivals for the first three months of this year have been recorded as 635,784.
-
-He added that the amount earned from tourism in that period is USD 1,025 million.
-
-◼️
-
-[Data](articles/10d4fe19.json)
-
-[Extended Data](ext_articles/10d4fe19.ext.json)
-
----
-
-### Predictors related to the climate
-
-*2024-04-08 08:16:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலநிலை-தொடர்பான-முன்னறிவித்தல்/175-335727) · `ta`
-
-The Department of Meteorology forecasts rains and thunderstorms in several provinces and districts, advising precautions against wind and lightning. The sun's peak in Sri Lanka from April 5-15 will affect Mara, Pattuhahera, Kuruktete, Kalmunai, Kirtalavella, and Varapitiya.
-
-🟩
-
-The Department of Meteorology has forecast rains or thunderstorms in the Western, Sabaragamuwa, Southern and North Western Provinces and Moneragala, Mannar and Anuradhapura at 2.00 pm.
-
-The department has stated a report that some parts of the Western, Central and Sabaragamuwa Provinces, Galle and Matara districts are expected in the morning.
-
-The Department of Meteorology has urged the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.
-
-Due to the Sun's North Movement, this year will peak to the width lines of Sri Lanka from April 5 to the 15th of April.
-
-Accordingly, at 12.12 noon today (06), the sun will be at the peak of Mara, Pattuhahera, Kuruktete, Kalmunai, Kirtalavella and Varapitiya areas.. Remble
-
-◼️
-
-[Data](articles/8bb140a2.json)
-
-[Extended Data](ext_articles/8bb140a2.ext.json)
-
----
-
-### 90 killed in boat accident
-
-*2024-04-08 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195416) · `si`
-
-90 killed in Mozambique boat accident; 130 passengers on fishing vessel near NPLA; arrest led to accident.
-
-🟩
-
-90 people were killed in a boat accident in the coast of Mozambique coast.
-
-Foreign media reports that when the accident occurred, there were 130 passengers.
-
-The fishing vessel has been drowning near the NPLA.
-
-The arrest of the amount has led to the accident.
-
-◼️
-
-[Data](articles/efe6fcc6.json)
-
-[Extended Data](ext_articles/efe6fcc6.ext.json)
-
----
-
-### Air Force soldier killed in police firing
-
-*2024-04-08 08:13:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாரின்-துப்பாக்கிச்-சூட்டில்-விமானப்படை-வீரர்-மரணம்/175-335726) · `ta`
-
-An Air Force soldier was killed in police firing during a cooperative operation. A motorcycle driver fired at police, and a passenger died after being admitted to the hospital. The passenger was a suspect in a murder case.
-
-🟩
-
-During the process of co -operating by the Special Task Force and the police,
-
-Police said that a motorcycle was rushed to the police station, near the police road ban, and the driver fired at the police.
-
-In a reply, a motorcycle passenger died after being admitted to the hospital.
-
-Police said that he was the main suspect in the incident of the murder of two men in the Horana - Talgahawa area yesterday (07).. Remble
-
-◼️
-
-[Data](articles/1eee69aa.json)
-
-[Extended Data](ext_articles/1eee69aa.ext.json)
-
----
-
-### April 15 Is a Public Holiday?
-
-*2024-04-08 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195415) · `si`
-
-The cabinet is considering making April 15 a public holiday, following New Year's celebrations. No final decision has been made yet.
-
-🟩
-
-The cabinet meeting will be made to make a public holiday on April 15 (08).
-
-New Year's spectacle was held on April 14 and is now a normal duties on Monday 15th April.
-
-However, many parties have already requested the date on Monday, to make the date on Monday, to make a public holiday, no final decision has been taken up.
-
-State Affairs State Minister Ashoka Priyantha has said that if it is a holiday, the Cabinet of Home Affairs is a Cabinet decision.
-
-Accordingly, at the Cabinet Meeting will be held this afternoon.
-
-◼️
-
-[Data](articles/9f38d0ea.json)
-
-[Extended Data](ext_articles/9f38d0ea.ext.json)
-
----
-
-### Drowth of 800 lives annually
-
-*2024-04-08 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195414) · `si`
-
-"800 lives lost annually to drowning. Health officials warn of increasing trend. Sri Lankans most at risk. Experts advise caution in unfamiliar waters."
-
-🟩
-
-Head Community Community Health Assistant Society of Health Community Union said that the number of people of the Ministry of Health has increased due to drowning due to drowning.
-
-A total of 800 people will be lost due to the lives of 800 people.
-
-"Two or three Sri Lankan people die from drowning. This is usually between 700 and 800 with the information we have. In the late the time, the trend will be seen. "
-
-Specialist Samaithunga said that at the dip of unfamiliar places, it should be more concerned about it.
-
-◼️
-
-[Data](articles/b5e7608f.json)
-
-[Extended Data](ext_articles/b5e7608f.ext.json)
-
----
-
-### More than 90 killed as boat sinks off Mozambique coast
-
-*2024-04-08 07:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98503/more-than-90-killed-as-boat-sinks-off-mozambique-coast) · `en`
-
-More than 90 people have died after a boat capsized off Mozambique’s northern coast, authorities say.
-
-Those aboard the boat were fleeing a cholera outbreak and were travelling from Lunga to Mozambique Island, off the coast of Nampula, local media reported.
-
-The fishing boat could accommodate a maximum of 100 people, however there were around 130 people on board, a representative of the island administration told the STV television station.
-
-“Because the boat was overcrowded and unsuited to carry passengers it ended up sinking ... There are 91 people who lost their lives,” said Nampula’s secretary of state Jaime Neto.
-
-The AIM news agency, citing a representative of the maritime authority, reported that the ship was probably wrecked when it was hit by high waves.
-
-Rescuers had found five survivors and were searching for more, but sea conditions were making the operation difficult.
-
-...
-
-[Data](articles/7d6c650e.json)
-
-[Extended Data](ext_articles/7d6c650e.ext.json)
 
 ---

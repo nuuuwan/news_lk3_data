@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 15:52:33**
+As of **2024-04-08 16:05:14**
 
 ## Newspaper Stats
 
-*Scraped **17,847** Articles*
+*Scraped **17,852** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 979
 economynextcom | 987
 adalk | 1,500
 tamilmirrorlk | 2,104
-adaderanalk | 2,150
-virakesarilk | 2,615
+adaderanalk | 2,151
+virakesarilk | 2,619
 dailymirrorlk | 2,726
 adaderanasinhalalk | 2,893
 
@@ -26,11 +26,95 @@ adaderanasinhalalk | 2,893
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,847 (100.0%) of 17,847 articles have been extended.
+17,847 (100.0%) of 17,852 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### மன்னாரில் இடம்பெற்ற விபத்தில் இளைஞன் பலி
+
+*2024-04-08 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180728) · `ta`
+
+மன்னார்  - தாழ்வுபாடு பிரதான வீதி ரெலிக்கொம் சந்திக்கு அருகாமையில் நேற்று ஞாயிற்றுக்கிழ (7) மாலை இடம்பெற்ற விபத்தில் மன்னாரில் உணவகத்தில் பணியாற்றிவந்த 22 வயதான இளைஞன் பரிதாபமாக மரணமடைந்துள்ளார்.
+
+இவர் கடந்த 6 வருடங்களுக்கு மேலாக மன்னார் மாவட்டத்தில் தொழில் நிமித்தம் உணவகங்களில் தொழிலாளியாக பணிபுரிந்து வந்த நிலையில் நேற்றைய தினம் மாலை குறித்த விபத்து இடம்பெற்றுள்ளது.
+
+விபத்து இடம் பெற்று சிகிச்சைக்காக மன்னார் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட நிலையில் இளைஞன் பலியாகியுள்ளார்.
+
+◼️
+
+[Data](articles/a5667d08.json)
+
+---
+
+### New committee to ensure respectful handling of final rites for individuals – President
+
+*2024-04-08 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98516/new-committee-to-ensure-respectful-handling-of-final-rites-for-individuals-president) · `en`
+
+President Ranil Wickremesinghe announced that a new committee would be established to coordinate arrangements for the last rites of individuals in accordance with their religious customs or final wishes, including those within the Muslim community.
+
+He also expressed his commitment to enacting relevant legislation in the future. These remarks were made during his attendance at the Ifthar ceremony held yesterday (07) at the Jumma Mosque in Katukele, Kandy.
+
+“Amidst the economic challenges faced by the nation last season, long queues became a common sight, disrupting even the observance of Ramadan fasts. However, with improvements in the economy over the past year, today presents us with the opportunity to observe Ramadan and its fasting rituals as usual.
+
+...
+
+[Data](articles/b71f16f4.json)
+
+---
+
+### இனவெறி என்பது தேசப்பற்றில்லை ; தேர்தல் சீர்திருத்தங்களை தற்போது நடைமுறைப்படுத்தப்போவதில்லை - விஜயதாச ராஜபக்ஷ
+
+*2024-04-08 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/180726) · `ta`
+
+தேர்தல் சீர்திருத்தங்கள் தொடர்பான உத்தேச அரசமைப்பு திருத்தங்களை தற்போதைய நாடாளுமன்றத்தின் காலத்தில் நடைமுறைப்படுத்தப்போவதில்லை என தெரிவித்துள்ள நீதியமைச்சர் விஜயதாச ராஜபக்ஷ அதுவரை உத்தேச திருத்தங்கள் தொடர்பில் கலந்துரையாடல்கள் இடம்பெறும் எந்த வேட்பாளரும் கட்சியும் தங்களின் தேர்தல் வேட்புமனுவில் தங்களின் நிலைப்பாட்டை தெரிவிக்கலாம் எனவும் குறிப்பிட்டுள்ளார்.
+
+கேள்வி ;  ஜனாதிபதி ரணில்விக்கிரமசிங்க தனது ஆட்சிக்காலத்தில் முன்னெடுக்கப்பட்ட பல அரசமைப்பு திருத்தங்கள் குறித்து சமீபத்தில் குறிப்பிட்டார். இந்த திருத்தங்கள் எதிர்பார்க்கப்பட்ட மாற்றங்களை ஏற்படுத்தியுள்ளனவா?
+
+அதில் ஒன்று தேர்தல் திருத்தங்கள் தொடர்பானது இது குறித்து கடந்தகாலங்களில் பல பரிந்துரைகள் முன்வைக்கப்பட்டன 13 வருடங்கள் ஆராய்ந்த பின்னர் தினேஸ் குணவர்த்தன குழு பரிந்துரையை முன்வைத்தது.
+
+இதன் பின்னர் 2015 இல் நாங்கள் அரசமைப்பின் 20 வது திருத்தத்தை கொண்டுவந்தோம். ஆனால் அது நிறைவேற்றப்படவில்லை.
+
+நாடாளுமன்றத்தை விட மேலான செனெட்  என்ற யோசனையையும் நான் முன்வைத்தேன் அது  ஒரு மேற்பார்வை அமைப்பு-இது ஒரு ஆலோசனை அதிகாரசபை.
+
+...
+
+[Data](articles/180d149b.json)
+
+---
+
+### இணையத்தில் போலிப் பிரசாரம் முன்னெடுப்பு : மூவரை நீதிமன்றில் ஆஜராகுமாறு பணிப்பு
+
+*2024-04-08 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180725) · `ta`
+
+டிஜிட்டல் மற்றும்  ஒன்லைன்  ஊடாக  கடன் வழங்கும் நிதி நிறுவனத்தை அவமதிக்கும் வகையில் தவறான மற்றும் சட்டவிரோத கருத்துக்களை  இணையத்தில் வெளியிட்ட  மூன்று சமூக செயற்பாட்டாளர்களுக்கு எதிராக  அத்தனகல்ல மாவட்ட நீதிமன்றத்தில் ஐந்து வழக்குகள் தாக்கல் செய்யப்பட்டுள்ளன.
+
+டிஜிட்டல் ஆல்டர்நேட்டிவ் லெண்டிங் அசோசியேஷன் (DALA) சங்கத்தில் உள்ள நிறுவனங்களால் இந்த வழக்குப் பதியப்பட்டுள்ளதோடு வெயங்கொடை, கம்பளை மற்றும் மஹவயைச் சேர்ந்த மூவருக்கு எதிராகவே இந்த வழக்குகள் தாக்கல் செய்யப்பட்டுள்ளன.
+
+டலா நிறுவனத்தைச் சேர்ந்த ஏ வி பிஸினஸ் சொலூசன் கேஷ் (A V Business Solutions - CashX), பின்டெக் சொப்ட்வெயார் (Fintech Software Solutions - Loanme), செபர் சொலூசன் தனியார் நிறுவனம் - லோடஸ் கடன் (Zephyr Solutions (Pvt) Ltd.- Lotus Loan),ஒன்கிரடிட் (Oncredit) மற்றும் எஸ்.எப்.குரூப் (S F Group-Fino.lk)  என்பனவே இந்த வழக்குகளை தாக்கல் செய்துள்ளன.
+
+...
+
+[Data](articles/81ea2174.json)
+
+---
+
+### கர்ப்பிணித் தாய்மார்களுக்கு வழங்கப்படும் போசாக்குணவுத் திட்டத்தை கேலிக்கையாக நோக்க  வேண்டாம்  - சஜித் பிரேமதாச
+
+*2024-04-08 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180721) · `ta`
+
+கர்ப்பிணித் தாய்மார்களுக்கு வழங்கப்படும் போசாக்குணவுத் திட்டம் மிகவும் முக்கியமானது. தாய்மார்கள் மற்றும் வயிற்றில் இருக்கும் குழந்தைகள் ஆரோக்கியமாக வாழ்வதற்கான உரிமையை இது உறுதிப்படுத்துகிறது. எனவே இதனை வெறுமனே இலவசமாக பகிர்ந்தளிக்கும் திட்டமொன்று என கேலிக்கையாக நோக்க  வேண்டாம் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+பெண்களின் ஆரோக்கியத் துவாய் சுகாதார பிரச்சினை குறித்து தான் பேசியபோது சேறு பூசினர். இது குறித்து எமது குரல் தொடர்ந்து ஒலித்ததால், தற்போது பாடசாலை மாணவிகளுக்கு ஆரோக்கியத் துவாய் வசதிகளை ஏற்படுத்திக் கொடுக்க அரசாங்கம் முடிவு செய்துள்ளது. இதுவும் சமூக சேவை  போன்றதொரு திட்டமே என்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+தேர்தல் வருடத்தில் இதுபோன்ற திட்டத்தை அரசாங்கம் செயல்படுத்தினாலும், பொறாமை கொள்ளாது ஆரோக்கியத் துவாய் திட்டத்தை அரசாங்கம் செயல்படுத்துவதில் தான் மகிழ்ச்சியடைவதாகவும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/acfd40e2.json)
+
+---
 
 ### New work by mail
 
@@ -2177,121 +2261,5 @@ According to Unicef, the current outbreak is the worst in 25 years. Since Octobe
 [Data](articles/634a2390.json)
 
 [Extended Data](ext_articles/634a2390.ext.json)
-
----
-
-### Air Force special investigations into the shooting of Padukka
-
-*2024-04-08 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195418) · `si`
-
-The Air Force is investigating a shooting in Padukka, where a police officer and STF member were shot by a suspect, who was later identified as the main suspect in a Talgahawila incident. The suspect was injured and died after being admitted to the hospital.
-
-🟩
-
-The Air Force has commenced a special investigation into a shooting at Angamuwa, Padukka this morning.
-
-The Sri Lanka Air Force Spokesman Group Captain Dushan Wijesinghe has said that a SLAF Corporal attached to the Air Force Rugby Pool.
-
-It is reported that the police and the STF have been ordered to be stopped in a nearby motorcycle while the police and the STF was engaged in a motorcycle in the Angamuwa area.
-
-However, the man has been operated the motorcycle despite the police orders and has shot several shots.
-
-The police and the STF personnel have been shot for soul security.
-
-The man who was injured in the shooting has been admitted to the Padukka Hospital for treatment.
-
-The suspect, who was receiving treatment at the Padukka Hospital, had died later.
-
-According to the police, the man was the main suspect in the Talgahawila area in Horana yesterday (07).
-
-◼️
-
-[Data](articles/d1827df1.json)
-
-[Extended Data](ext_articles/d1827df1.ext.json)
-
----
-
-### Govt to release April salaries of employees with Rs. 10,000 allowance from today: Siyambalapitiya
-
-*2024-04-08 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-to-release-April-salaries-of-employees-with-Rs-10-000-allowance-from-today-Siyambalapitiya/108-280356) · `en`
-
-Colombo, April 8 (Daily Mirror) - The balance Rs.5,000 of the increased allowance of Rs.10,000 to government employees will be released to the relevant institutions today along with their monthly salary, Finance State Minister Ranjith Siyambalapitiya said.
-
-Earlier, the government had released the first portion of Rs. 10,000 to government employees. The total calculation of the festival advance of the government employees for the New Year season was nearly Rs. 6 billion, and the government had already paid that.
-
-Usually, the government starts to pay government employees salaries from the 16th of every month, with first priority to teachers' salaries, second to tri-forces salaries and with the Provincil Council employee salaries in the third place.
-
-However, the salaries for April will be paid on April 10 in view of the New Year. Usually, government employees' monthly salaries are on the 25th of every month, he said.
-
-...
-
-[Data](articles/223bff8c.json)
-
-[Extended Data](ext_articles/223bff8c.ext.json)
-
----
-
-### Govt to release April salaries with Rs.10,000 allowance from today
-
-*2024-04-08 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-to-release-April-salaries-with-Rs-10-000-allowance-from-today/108-280356) · `en`
-
-Colombo, April 8 (Daily Mirror) - The balance Rs.5,000 of the increased allowance of Rs.10,000 to government employees will be released to the relevant institutions today along with their monthly salary, Finance State Minister Ranjith Siyambalapitiya said.
-
-Earlier, the government had released the first portion of Rs. 10,000 to government employees. The total calculation of the festival advance of the government employees for the New Year season was nearly Rs. 6 billion, and the government had already paid that.
-
-Usually, the government starts to pay government employees salaries from the 16th of every month, with first priority to teachers' salaries, second to tri-forces salaries and with the Provincil Council employee salaries in the third place.
-
-However, the salaries for April will be paid on April 10 in view of the New Year. Usually, government employees' monthly salaries are on the 25th of every month, he said.
-
-...
-
-[Data](articles/9e4fac97.json)
-
-[Extended Data](ext_articles/9e4fac97.ext.json)
-
----
-
-### Corporal from Air Force Rugby pool killed in police shootout
-
-*2024-04-08 08:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Corporal-from-Air-Force-Rugby-pool-killed-in-police-shootout/155-280362) · `en`
-
-Padukka, April 8 (Daily Mirror) - A Sri Lanka Air Force (SLAF) Corporal attached to the Sri Lanka Air Force Rugby pool, was killed in a shooting by the police and Special Task Force (STF) at Angamuwa in Padukka this morning.
-
-Police said the deceased is suspected to be the main suspect in the shooting incident at Moragahahena where two persons were killed.
-
-He had reportedly ignored an order to stop at a checkpoint during a Police-STF operation this morning. The victim was riding a motorcycle at the time of the incident.
-
-Police said the motorcyclist allegedly opened fire at the police personnel. Subsequently, when the police returned fire, the motorcyclist had sustained injuries and had died on admission to the Padukka Hospital.
-
-Meanwhile, SLAF spokesman Group Captain Dushan Wijesinghe said that the SLAF Commander has initiated an inquiry  into the incident.
-
-...
-
-[Data](articles/1719348a.json)
-
-[Extended Data](ext_articles/1719348a.ext.json)
-
----
-
-### A full eclipse today
-
-*2024-04-08 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195417) · `si`
-
-Today's full eclipse, visible in Western Europe, Pacific, Atlantic, and Arctic, began at 9.12 pm and ends at 2.22 am. In 2044, NASA will observe a rare full solar eclipse.
-
-🟩
-
-Sri Lanka is invisible, but Sri Lanka is due to visualize countries in Western Europe, the Pacific Ocean, Atlantic Ocean and Arctic.
-
-The eclipse of the eclipse commenced at 9.12 pm and ends at 2.22 days.
-
-In 2044, NASA has been able to see a full solar eclipse that is very rare.
-
-◼️
-
-[Data](articles/2b8f7707.json)
-
-[Extended Data](ext_articles/2b8f7707.ext.json)
 
 ---

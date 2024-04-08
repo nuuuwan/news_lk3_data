@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 18:21:38**
+As of **2024-04-08 18:33:41**
 
 ## Newspaper Stats
 
-*Scraped **17,893** Articles*
+*Scraped **17,896** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 159
-bbccomsinhala | 186
+bbccomsinhala | 187
 dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 972
@@ -18,19 +18,45 @@ economynextcom | 993
 adalk | 1,506
 tamilmirrorlk | 2,104
 adaderanalk | 2,155
-virakesarilk | 2,633
+virakesarilk | 2,634
 dailymirrorlk | 2,731
-adaderanasinhalalk | 2,899
+adaderanasinhalalk | 2,900
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,884 (99.9%) of 17,893 articles have been extended.
+17,893 (100.0%) of 17,896 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### கம்பஹா கட்டுகஸ்தர பிரதேசத்தில் துப்பாக்கிச் சூடு ;  ஒருவர் பலி!
+
+*2024-04-08 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180760) · `ta`
+
+இனந்தெரியாத ஒருவரால் துப்பாக்கிப் பிரயோகம் திங்கட்கிழமை மாலை 4 மணி அளவில் மேற்கொள்ளப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+துப்பாக்கிச் சூட்டில் படுகாயமடைந்த நபர் கம்பஹா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/80e10cba.json)
+
+---
+
+### ලෝකෙම බැලූ සූර්යග්‍රහණය
+
+*2024-04-08 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195443) · `si`
+
+ඉතාමත් කලාතුරකින් දැකගත හැකි වන පූර්ණ සූර්ය ග්‍රහණය බටහිර යුරෝපයේ, උතුරු අමෙරිකාව, පැසිෆික් සාගරය, අත්ලාන්තික් සාගරය සහ ආක්ටික් ප්‍රදේශයේ රටවලට දෘශ්‍යමාන වීම ඇරඹි තිබුණි.
+
+◼️
+
+[Data](articles/ba7e874b.json)
+
+---
 
 ### Accepting applications for admission to NIEs extended
 
@@ -45,6 +71,8 @@ Meanwhile, the applicants who submitted the relevant applications from April 05 
 ◼️
 
 [Data](articles/29472a71.json)
+
+[Extended Data](ext_articles/29472a71.ext.json)
 
 ---
 
@@ -66,65 +94,93 @@ Accordingly, the fireworks price in the local market shows a lower budget, Ferna
 
 [Data](articles/bc95bc7d.json)
 
+[Extended Data](ext_articles/bc95bc7d.ext.json)
+
 ---
 
-### இளைஞர்கள் கோரும் மாற்றத்தை வழங்க நடவடிக்கை : ஜனாதிபதி
+### Action to give youth a change of youth: President
 
 *2024-04-08 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/180716) · `ta`
 
-நாட்டை விரைவான அபிவிருத்தியை நோக்கி இட்டுச் செல்வதற்கு இளைஞர்கள் கோரும் மாற்றத்தை வழங்கி நாட்டில் புதிய பொருளாதாரத்தை உருவாக்கி வருவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe emphasized the need for a new economy led by youth for rapid development, with basic laws to be tabled in Parliament in May. He highlighted the importance of cooperation among state departments and corporations for economic growth, and the role of youth in deciding the country's future. The government is working on economic restructuring and new financial bills, aiming for significant changes. The Janasabha initiative is noted, with plans to address legalization issues and improve the tourism sector. Measures for job opportunities post-vocational training are discussed, with a focus on economic recovery and job creation.
 
-புதிய பொருளாதாரத்தை உருவாக்குவது தொடர்பான அடிப்படை சட்டங்கள் எதிர்வரும் மே மாதம் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டு ஜூன் மாதம் நிறைவேற்றப்படும் எனவும் ஜனாதிபதி குறிப்பிட்டுள்ளார்.
+🟩
 
-கண்டி ஜனாதிபதி மாளிகையில் நேற்று ஞாயிற்றுக்கிழமை (07) இடம்பெற்ற “என்னில் இருந்து ஆரம்பிப்போம்” கண்டி மாவட்ட இளைஞர் மாநாட்டில் உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+President Ranil Wickremesinghe said that the country is creating a new economy in the country by providing a change in young people to lead the country towards rapid development.
 
-“நாட்டை விரைவான வளர்ச்சிக்கு இட்டுச் செல்லாவிட்டால், நாட்டிற்கு எதிர்காலம் இல்லை. நாட்டின் பொருளாதாரத்தை ஸ்தம்பிக்க வைப்பதா, முன்னோக்கி கொண்டு செல்வதா அல்லது வீழ்ச்சியடைய வைப்பதா என்பதை இளைஞர்கள் தான் முடிவு செய்ய வேண்டும்.
+The President also stated that the basic laws on creating a new economy will be tabled in Parliament in May and will be passed in June.
+
+President Ranil Wickremesinghe said this while addressing the Kandy District Youth Conference held at the Kandy President's House on Sunday (07).
+
+“If the country does not lead to rapid growth, the country has no future. Young people have to decide whether to break the country, bring forward or downfall.
+
+If today's government's economic program is rejected, the country's economy will fall again. Not everyone has the financial ability to leave the country. So we must all unite and strengthen the country's economy.
 
 ...
 
 [Data](articles/51193336.json)
 
+[Extended Data](ext_articles/51193336.ext.json)
+
 ---
 
-### கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தாவுக்கு நாடாளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் கண்டனம்!
+### Fisheries Minister Douglas Devananda
 
 *2024-04-08 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180757) · `ta`
 
-கிளநொச்சி பூநகரி பிரதேச செயலகத்திற்குட்பட்ட பொன்னாவெளி கிராமத்தில் சுண்ணக்கல் அகழ்வு க்காக கடந்த (05)திகதி சென்றிருந்த போது கிராம மக்களால் எதிர்ப்பு தெரிவிக்கப்பட்டு திருப்பி அனுப்பப்பட்டார்.
+Fisheries Minister Douglas Devananda criticized villagers in Ponnaveli for protesting against land and resource exploitation, recalling his past awareness of anti-Tamil activities. He defended his role as a representative of Tamil aspirations, emphasizing the need to protect Tamil resources without looting. The village, a traditional Eelam site, faces threats of land and resource seizure, including plans for a cement factory and warehouses near the sea.
 
-இதில் கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா அவர்கள் எதிர்ப்பு போராட்டத்தில் கலந்துகொண்ட மக்களை தாக்கியும் உள்ளார்.
+🟩
 
-கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தாவின்  நடவடிக்கைகள் இன்று நேற்று அல்ல அவர் பாராளுமன்ற உறுப்பினர்களாக இருந்த போதே தமிழர்களுடைய விரோத நடவடிக்கைகளை கொண்டவர் என்று வெளிப்படையாக எல்லோருக்கும் தெரியும் எனவும் அவருடைய சண்டித்தன அரசியல் அல்லது அடாவடி அரசியல் என்பது யாழ்ப்பாணம் மற்றும் கிளிநொச்சி என பல இடங்களில் அவர் நடந்து கொண்ட விதங்கள் மற்றும் முறைகள் எல்லோராலும் உணரபட்டவைதான் அதனால்தான் அவர் ஒரு தமிழ் தலைவராக மக்களுக்கு வரமுடியவில்லை.
+The villagers were opposed and sent back to the villagers when they visited the village of Ponnaveli in the Poonaveli Divisional Secretariat of Klanochchi.
+
+Fisheries Minister Douglas Devananda has attacked the people who participated in the protest.
+
+Fisheries Minister Douglas Devananda's actions were not yesterday, but when he was a Member of Parliament, he was openly aware that he had the anti -Tamil activities of the Tamils..
+
+If he has identified himself as a Member of Parliament who represents the aspirations of a legitimate honorable Tamils, he must maintain the resources of the Tamil people without looting the resources of the Tamil people.
+
+But it is not a matter of fact that it is not a matter of identification as a minister who takes the land of the Tamils, selling sand and selling stone.
+
+The Ponnaveli Village of the Poonakari Divisional Secretariat, Kilinochchi is a traditional Eelam, a native of the natives of the historical historical basis.
 
 ...
 
 [Data](articles/e883553b.json)
 
+[Extended Data](ext_articles/e883553b.ext.json)
+
 ---
 
-### භාණ්ඩ කිහිපයක මිල පහළට
+### The price of several items down
 
 *2024-04-08 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195442) · `si`
 
-එළැඹෙන අවුරුදු සමය අරමුණු කරගනිමින් ලංකා සතොස ආයතනය මගින් මහජනතාවට ලබාදෙන අත්‍යාවශ්‍ය පාරිභෝගික භාණ්ඩ වර්ග කිහිපයක මිල ගණන් පහළදමා තිබේ.
+Prices of essential goods like dry chilies, b onions, potatoes, and red dhal have been reduced, with dry chilies now at Rs. 850, b onions from China at Rs. 375 less, b onions from India/Pakistan at Rs. 50 less, potatoes at Rs. 165, and red dhal at a lower price.
 
-ඒ අනුව අද (08) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි මෙම මිල ගණන් පහළ දැමීමට තීරණය කර ඇත.
+🟩
 
-වියලි මිරිස් කිලෝවක් රුපියල් 300කින් පහළ දමා ඇති අතර එහි නව මිල ලෙස සටහන් වන්නේ රුපියල් 850කි.
+The prices of several essential consumer goods to the public have been reduced by several types of consumer goods to the public.
 
-චීනයෙන් ආනයනය කරන ලද බී ලූණු කිලෝවක මිල රුපියල් 120කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 375ක් ලෙස සටහන් වෙයි.
+Accordingly, these prices have been declined since midnight today (08).
 
-එසේම ඉන්දියාවෙන් සහ පාකිස්තානයෙන් ආනයනය කරන ලද බී ලූණු කිලෝවක මිල රුපියල් 50කින් අඩුකර ඇති අතර එහි නව මිල රුපියල් 445කි.
+A kilo of dry chilies has been down 300 rupees and its new price is Rs. 850.
 
-සුදු ලූණු කිලෝවක් රුපියල් 15කින් අඩුකර ඇති අතර එහි නව මිල රුපියල් 680ක් ලෙස සටහන්ව තිබේ.
+The price of a kilo of b onions imported from China has been reduced by Rs. 375.
 
-අර්තාපල් අල කිලෝවක් රුපියල් 10කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 165කි.
+The price of a kilo of b onions imported from India and Pakistan has been reduced by Rs. 50 is Rs.
 
-එසේම රතු පරිප්පු කිලෝවක් රුපියල් 7කින් ද සුදු කැකුළු සහල් කිලෝවක් රුපියල් 3කින් ද පහළ දැමීමට ලංකා සතොස තීරණය කර තිබේ.
+White onions have been reduced by Rs.
+
+A kilo of potatoes has been reduced by Rs.10 and its new price is Rs.165.
+
+Sri Lanka Sathosa has decided to decrease a kilogram of red dhal at Rs.
 
 ◼️
 
 [Data](articles/0c70e5b2.json)
+
+[Extended Data](ext_articles/0c70e5b2.ext.json)
 
 ---
 
@@ -174,21 +230,27 @@ Tamil Nadu continued to demand that the Kacha Island be recovered at every time 
 
 ---
 
-### පොලීසියෙන් විශේෂ දැනුම්දීමක්
+### Special notice from the police
 
 *2024-04-08 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195441) · `si`
 
-පාසලක ක්‍රීඩා උත්සවයක් සඳහා පොලිස් විශේෂකාර්ය බළකායේ කැලෑ නිල ඇඳුම් යොදාගැනීම සම්බන්ධයෙන් විශේෂ විමර්ශනයක් ආරම්භ කර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පවසයි.
+Police launch investigation into unauthorized use of forest uniforms by school cadets. One person arrested. Uniforms not permitted for children. A special investigation unit established.
 
-අද මාධ්‍ය හමුවකට එක්වෙමින් පොලිස් මාධ්‍ය ප්‍රකාශකවරයා මේ බව පැවසීය.
+🟩
 
-එසේම මෙම සිදුවීම සම්බන්ධයෙන් එක් පුද්ගලයෙකු සැකපිට අත්අඩංගුවට ගෙන ඇති බවද පොලිස් මාධ්‍ය ප්‍රකාශකවරයා වැඩිදුරටත් සඳහන් කළේය.
+Police Media Spokesperson DIG Talduuwa says that a special investigation has been launched into the use of forest uniforms of the Police Special Society for a school sport.
 
-මේ සම්බන්ධයෙන් වැඩිදුරටත් අදහස් දැක්වූ පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා,
+He was speaking at a media briefing today, the police spokesman said.
+
+According to the Police Media Spokesperson further stated that one person has been arrested on suspicion.
+
+Deputy Minister of Police Media Spokesperson DIG Talduwa, Speaking further
 
 ...
 
 [Data](articles/d51a7996.json)
+
+[Extended Data](ext_articles/d51a7996.ext.json)
 
 ---
 
@@ -365,6 +427,8 @@ He also said former President Maithripala Sirisena should not be taken seriously
 ◼️
 
 [Data](articles/77a9eb44.json)
+
+[Extended Data](ext_articles/77a9eb44.ext.json)
 
 ---
 
@@ -1126,19 +1190,25 @@ Meanwhile, 327 persons belonging to the organized criminal committees have been 
 
 ---
 
-### සිංහල සංස්කෘතිය මැරීමේ ආණ්ඩුවේ කුමන්ත්‍රණයක්
+### Conspiracy in the government to kill Sinhala culture
 
 *2024-04-08 14:43:28* · [`adalk`](https://www.ada.lk/breaking_news/සිංහල-සංස්කෘතිය-මැරීමේ-ආණ්ඩුවේ-කුමන්ත්‍රණයක්/11-409014) · `si`
 
-අවුරුදු චාරිත්‍ර පිළිබඳව පැන නැගී ඇති ගැටළු සහගත තත්වය නිරාකරණය කිරීමට ආණ්ඩුව කටයුතු නොකරන්නේ නම් අවුරුදු චාරිත්‍ර වලින් ජනතාව ඈත් වීමේ අවධානමක් පවතින බව පිවිතුරු හෙළ උරුමය නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි. ඒ මහතා මේ බව සදහන් කර සිටියේ අද දින (2024.04.08) පැවති මාධ්‍ය හමුවක් අමතමිනි.
+Legal Gammanpila criticizes the government for failing to resolve cultural disputes, urging intervention to preserve unique Sinhala traditions.
 
-"සිංහල අළුත් අවුරුද්දට තව තිබෙන්නේ සතියකටත් අඩු කාලයක්.  නමුත් අවුරුදු චාරිත්‍ර කරන නැකැත් පිළිබඳ ආරවුල විසඳන්න තවමත් ආණ්ඩුව අසමත් වෙලා තිබෙනවා.  රාජ්‍ය නැකැත් කමිටුව විසින් සකස් කරන ලද නැකැත් දෝෂ සහිත බවට ජාතික නැකැත් කමිටුව කියනවා.
+🟩
 
-ජාතික නැකැත් කමිටුව සැකසූ නැකැත් දෝෂ සහිත බවට රාජ්‍ය නැකැත් කමිටුව කියනවා.  දැන් එතකොට අපි අනුගමනය කරන්න ඕනි මොන නැකැත්ද?  දෙපාර්ශවයටම සවන් දුන්නු ජනතාවට හිතෙන්නේ මොන නැකැත අනුගමනය කලත් දෝෂ සහිත නිසා නැකැතට කරන චාරිත්‍ර නොකර සිටියා නම් හොඳයි වගේ හැඟීමක්.  නැකැත් කියන්නේ බොරුයි කියන හැඟීමක්.  මෙහි අවසාන ප්‍රතිඵලය වන්නේ අවුරුදු චාරිත්‍ර වලින් ජනතාව ඈත් වීමයි. මේ නැකැත් පිළිබද ඇතිවී ඇති ගැටුම විසදීමට ආණ්ඩුව මැදිහත් විය යුතුයි.
+Leader of the Leader of the Leader of the Leader of the Leader of the House, Legal Gammanpila says that if the government does not work to resolve the problem of the years. He was addressing a media briefing held today (08.04.2014).
+
+"The government has more than a week for the New Year. But the government has still failed to resolve the dispute about the ritual ritual.
+
+The State's auspicious committee is said to be aimed with the national auspicious committee.What we need to follow now?The people who listened to both parties felt the aimed, but they were not able to rituate the customs.A sense of being a sense of false.The end result is the people away from the rituals. The government should intervene to solve the conflict in this situation.
 
 ...
 
 [Data](articles/a9300777.json)
+
+[Extended Data](ext_articles/a9300777.ext.json)
 
 ---
 
@@ -2050,6 +2120,30 @@ The US dollar purchasing price was 294.3442 and the sales price were Rs 303.8976
 
 ---
 
+### ශ්‍රී ලංකා නිදහස් පක්ෂය තුළ මේ ක්‍රියාත්මක වන්නේ කුමන්ත්‍රණයක් ද?
+
+*2024-04-08 12:35:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz9zxrw9nkdo) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂය තුළ මේ ක්‍රියාත්මක වන්නේ කුමන්ත්‍රණයක් ද?
+
+ශ්‍රී ලාංකික දේශපාලනයේ තීරණාත්මක කාර්ය භාරයක් ඉටු කළ ප්‍රධාන පක්ෂයක් වන ශ්‍රී ලංකා නිදහස් පක්ෂය මේ වන විට අර්බුදකාරී තත්ත්වයකට පත්ව තිබේ.
+
+එහි කූටප්‍රාප්තිය වාර්තා වූයේ, සඳුදා (අප්‍රේල් 08) දිනයේදී ශ්‍රී ලංකා පදනම් ආයතනයේදී පැවැත්වූ විශේෂ දේශපාලන මණ්ඩල රැස්වීමකදී අමාත්‍ය නිමල් සිරිපාල ද සිල්වා පක්ෂයේ වැඩබලන සභාපතිවරයා ලෙස පත් කිරීමත් සමග ය.
+
+මේ වන විට, ශ්‍රී ලංකා නිදහස් පක්ෂයේ දේශපාලනඥයින් ප්‍රසිද්ධියේ ම දෙපිලකට බෙදී ඇති බවක් පෙනෙන්නට තිබේ.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ විශේෂ දේශපාලන මණ්ඩල රැස්වීම ශ්‍රී ලංකා පදනම් ආයතනයේදී සඳුදා (අප්‍රේල් 8) පෙරවරුවේදී රැස් වූ අවස්ථාවේදී පක්ෂයේ වැඩබලන සභාපතිවරයා‌ ලෙස අමාත්‍ය නිමල් සිරිපාල ද සිල්වා පත් කෙරිණි.
+
+මෙම රැස්වීමට හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක නිරීක්ෂකවරියක ලෙස සහභාගි වූ බව පක්ෂයේ ජාතික සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක පැවසීය.
+
+නිමල් සිරිපාල ද සිල්වා පක්ෂයේ වැඩබලන සභාපති ධූරයට පත් කිරීමට බලපෑ හේතුව දුමින්ද දිසානායක පැහැදිලි කළේ, මෙසේ ය.
+
+...
+
+[Data](articles/15bdd5bb.json)
+
+---
+
 ### 120 carpse hospitalized in Kovlu
 
 *2024-04-08 12:32:18* · [`adalk`](https://www.ada.lk/breaking_news/කොවිලේ-කෑම-කාපු-120ක්-රෝහලේ/11-409003) · `si`
@@ -2192,6 +2286,8 @@ He said this was the reality though the Central Bank data show the increase of f
 
 [Data](articles/19fe68c1.json)
 
+[Extended Data](ext_articles/19fe68c1.ext.json)
+
 ---
 
 ### Sri Lanka defaults on USD 6 billion payment despite rising reserves: Patali
@@ -2261,73 +2357,5 @@ There are many shallow human burials in the hospital. The World Health Organizat
 [Data](articles/56850882.json)
 
 [Extended Data](ext_articles/56850882.ext.json)
-
----
-
-### Keelia
-
-*2024-04-08 12:02:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவின்-விளக்கமறியல்-நீட்டிப்பு/175-335735) · `ta`
-
-Keheliya Rambukwella's explanation extended to 22nd. Suspects 1-4, 6-8, and 5th were bailed. Magistrate to decide on 10th and 11th suspects' bail.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella's explanation has been extended till the 22nd of this month.
-
-The suspects of the case were produced before the Magistrate's Court today (08).
-
-It is reported that the first, the second, the third, the fourth, the sixth, the seventh and the eighth suspects were placed on the bail and the fifth suspect was released on bail.
-
-In addition, the magistrate has ordered that the 10th and 11th suspects be granted bail or not.
-
-◼️
-
-[Data](articles/f9525bdc.json)
-
-[Extended Data](ext_articles/f9525bdc.ext.json)
-
----
-
-### Fathers now welcome in delivery room
-
-*2024-04-08 12:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fathers-now-welcome-in-delivery-room/108-280391) · `en`
-
-Colombo, April 08 (Daily Mirror) -  The Castle Street Hospital for Women in Colombo has initiated a new programme permitting fathers to be present in the delivery room during childbirth.
-
-Speaking to the Daily Mirror, Dr. Ajith Danthanarayana, the Director of the hospital, said that this initiative marks a significant milestone as the first government hospital to implement such a programme.
-
-Dr. Danthanarayana emphasized that separate rooms have been specifically prepared for each mother within the maternity ward.
-
-He highlighted the programme's potential to enhance the birthing experience for women, enabling them to deliver their child in a conducive environment.
-
-◼️
-
-[Data](articles/a48e7539.json)
-
-[Extended Data](ext_articles/a48e7539.ext.json)
-
----
-
-### Extension
-
-*2024-04-08 11:59:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளியேற்றத்துக்கு-எதிரான-தடை-நீட்டிப்பு/175-335733) · `ta`
-
-The Colombo District Court banned the implementation of a resolution by the Sri Lanka Freedom Party (SLFP) to remove Minister Mahinda Amaraweera, Lasantha Alagavanna, and Parliamentarian Duminda Dissanayake, following petitions filed by the ministers. The SLFP's leader, Maithripala Sirisena, and General Secretary Sarathi Dushmantha Mithrapala, were named defendants. The party's executive committee members filed a lawsuit, demanding a fair disciplinary inquiry and the cancellation of their removal announcement.
-
-🟩
-
-The Colombo District Court has ordered the ban issued to prevent the implementation of a resolution taken from the Sri Lanka Freedom Party (SLFP) to the removal of Minister Mahinda Amaraweera, Lasantha Alagavanna and Parliamentarian Duminda Dissanayake.
-
-The order was issued when the petitions filed by the ministers were taken up for hearing today (08).
-
-Sri Lanka Freedom Party (SLFP) leader Maithripala Sirisena and General Secretary Sarathi Dushmantha Mithrapala have been referred to as defendants in these complaints.
-
-Members of the relevant members have filed a lawsuit demanding that the party's executive committee's decision to remove themselves from the party without a fair disciplinary inquiry and the announcement of it should be canceled.
-
-◼️
-
-[Data](articles/517cd52c.json)
-
-[Extended Data](ext_articles/517cd52c.ext.json)
 
 ---

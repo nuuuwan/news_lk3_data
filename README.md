@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 14:33:41**
+As of **2024-04-08 14:51:43**
 
 ## Newspaper Stats
 
-*Scraped **17,830** Articles*
+*Scraped **17,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ newsfirstlk | 363
 dailyftlk | 972
 islandlk | 979
 economynextcom | 987
-adalk | 1,497
-tamilmirrorlk | 2,098
+adalk | 1,499
+tamilmirrorlk | 2,100
 adaderanalk | 2,149
 virakesarilk | 2,612
 dailymirrorlk | 2,725
-adaderanasinhalalk | 2,890
+adaderanasinhalalk | 2,891
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,829 (100.0%) of 17,830 articles have been extended.
+17,830 (100.0%) of 17,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### ටීම් 20ට තවත් පාතාලයෝ 13ක් කොටුවෙති
+
+*2024-04-08 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195433) · `si`
+
+විශේෂ පොලිස් කණ්ඩායම් 20ක් යොදවා සිදුකරනු ලබන මෙහෙයුම්වලදී තවත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් 13දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+ඔවුන් සමග විවිධ සම්බන්ධතා පවත්වමින් අපරාධවලට සහාය වූ බවට සැක කෙරෙන පුද්ගලයන් 10 දෙනෙකු ද පොලිස් භාරයට ගෙන ඇත.
+
+පසුගිය 19 වනදා සිට ඊයේ (07) දින දක්වා සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් 327 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/4547f657.json)
+
+---
+
+### தடையின்றி எரிபொருள் விநியோகம் இடம்பெறும்
+
+*2024-04-08 14:32:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடையின்றி-எரிபொருள்-விநியோகம்-இடம்பெறும்/175-335741) · `ta`
+
+விடுமுறை நாட்களில் தடையின்றி எரிபொருள் விநியோகம் இடம்பெறும் என மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+
+அடுத்த 12 மாதங்களுக்கு போதுமான எரிபொருள் சரக்குகளை கொண்டு வர அமைச்சகம் திட்டமிட்டுள்ளது என அமைச்சர் தனது எக்ஸ் பக்கத்தில் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e0a26199.json)
+
+---
+
+### மன்னார் விபத்தில் ஹட்டன் இளைஞன் பலி
+
+*2024-04-08 14:27:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-விபத்தில்-ஹட்டன்-இளைஞன்-பலி/175-335740) · `ta`
+
+மன்னார் -தாழ்வுபாடு பிரதான வீதி ரெலிக்கொம் சந்திக்கு அருகாமையில் ஞாயிற்றுக்கிழமை (7) மாலை இடம்பெற்ற விபத்தில் மன்னாரில் உணவகத்தில் பணியாற்றிவந்த 22 வயதான இளைஞன் பரிதாபமாக மரணமடைந்துள்ளார்
+
+இவர் கடந்த 6 வருடங்களுக்கு மேலாக மன்னார் மாவட்டத்தில் தொழில் நிமித்தம் உணவகங்களில் தொழிலாளியாக பணிபுரிந்து வந்த நிலையில் ஞாயிற்றுக்கிழமை (7) மாலை குறித்த விபத்து இடம்பெற்றுள்ளது. விபத்து இடம் பெற்று சிகிச்சைக்காக மன்னார் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட நிலையில் இளைஞன் பலியாகியுள்ளார்.
+
+◼️
+
+[Data](articles/34d0cc77.json)
+
+---
 
 ### Kamindu Mendis clinches Player of the Month title for March
 
@@ -48,6 +92,8 @@ The announcement, made by the International Cricket Council (ICC), highlights Me
 
 [Data](articles/87334e9f.json)
 
+[Extended Data](ext_articles/87334e9f.ext.json)
+
 ---
 
 ### 23 including organised criminal gang members arrested by special police teams
@@ -56,9 +102,13 @@ The announcement, made by the International Cricket Council (ICC), highlights Me
 
 A total of 13 suspects involved in organised crime and 10 other individuals suspected of aiding and abetting them have been arrested, police said.
 
-The suspects in question were arrested during raids carried out by 20 special police teams deployed in the Southern and Western provinces in order to combat underworld activities and organised crime, parallel to the ongoing ‘Yukthiya’ anti-drug operation.
+The suspects in question were arrested during raids carried out by 20 special police teams deployed to combat underworld activities and organised crime in the Southern and Western provinces, parallel to the ongoing ‘Yukthiya’ anti-drug operation.
 
-◼️
+The twenty-three suspects have been arrested within yesterday (07) during raids carried out by the special police teams attached to Western Province (North) Crimes Division, Western Province (South) Crimes Division, Colombo Crimes Division, Galle Crimes Division and Kalutara Crimes Division.
+
+Police said that in addition to the 13 criminal gang members, another 10 persons who are suspected to have aided and abetted these criminal figures have also been taken into custody.
+
+...
 
 [Data](articles/a9cb2759.json)
 
@@ -221,6 +271,18 @@ Dissanayake also accused Sirisena of appointing several acting chairmen over the
 [Data](articles/7eeadda6.json)
 
 [Extended Data](ext_articles/7eeadda6.ext.json)
+
+---
+
+### කෙහෙළිය ඇතුළු 6 දෙනා ලබන 22 තෙක් රිමාන්ඩ්
+
+*2024-04-08 13:24:54* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-ඇතුළු-6-දෙනා-ලබන-22-තෙක්-රිමාන්ඩ්/11-409009) · `si`
+
+හිටපු සෞඛ්‍ය අමත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 06 දෙනා ලබන 22 දක්වා අද (08) යළි රක්ෂිත බන්ධනාගාර ගත කොට තිබෙනවා.
+
+◼️
+
+[Data](articles/99f5d887.json)
 
 ---
 
@@ -454,9 +516,9 @@ However, the people of the area who arrived in 06 buses did not participate in t
 
 *2024-04-08 12:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-on-the-offensive-as-election-looms-hits-out-at-sjb-npp-157879/) · `en`
 
-ECONOMYNEXT — As Sri Lanka’s presidential election inches closer, President Ranil Wickremesinghe is increasingly on the offensive, hitting out both the main opposition Samagi Jana Balawegaya and the leftist National People’s Power (NPP).
+ECONOMYNEXT — As Sri Lanka’s presidential election inches closer, President Ranil Wickremesinghe is increasingly on the offensive, hitting out at both the main opposition Samagi Jana Balawegaya (SJB) and the leftist National People’s Power (NPP).
 
-Wickremesinghe told a gathering in Kandy on Sunday March 07 that the SJB has not inherited the policies of his United National Party (UNP), the party it broke off of from, with its economic policy now overseen by former members of the ruling Sri Lanka Podujana Peramuna (SLPP).
+Wickremesinghe told a gathering in Kandy on Sunday April 07 that the SJB has not inherited the policies of his United National Party (UNP), the party it broke off of from, with its economic policy now overseen by former members of the ruling Sri Lanka Podujana Peramuna (SLPP).
 
 The SJB, once poised to take control of the UNP headquarters at ‘Sirikotha’ in 2020 under the UNP banner, claimed Wickremesinghe, is now being influenced by the chairman of the SLPP and other factions.
 
@@ -579,6 +641,28 @@ Former President Maithripala Sirisena and the Sri Lanka Freedom Party (SLFP) gen
 [Data](articles/56c841f4.json)
 
 [Extended Data](ext_articles/56c841f4.ext.json)
+
+---
+
+### අනතුරින් සංගීත ශිල්පියා ජීවිතක්ෂයට
+
+*2024-04-08 12:40:16* · [`adalk`](https://www.ada.lk/breaking_news/අනතුරින්-සංගීත-ශිල්පියා-ජීවිතක්ෂයට/11-409004) · `si`
+
+අනුරාධපුර පාදෙණිය ඒ28 ප්‍රධාන මාර්ගයේ තලාව ප්‍රදේශයේදී අද (8දා)  සිදුවූ රිය අනතුරකින්  තරුණයකු ජීවිතක්ෂයට පත්ව ඇති බව තලාව පොලිසිය පවසයි.
+
+මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ , තලාව කැකිරාව මාර්ගයේ, තලාව නගරයට ආසන්නව  පදිංචිව සිටි ගෝවින්දගේ ඉශාන් නිමන්ත නැමති 23 හැවිරිදි  සංගීත ශිල්පියකි .
+
+අද (8දා) අළුයම  5.15ට පමණ අනුරාධපුර දෙස සිට තලාව ප්‍රදේශයට යතුරු පැදියකින් ගමන් කරමින් සිටි  මෙම තරුණයා තලාව ගොවිජන සේවා මධ්‍යස්ථාන ඉදිරිපිට දී  එම යතුරු පැදිය  මාර්ගයෙන් ඉවතට පැන මාර්ගය අසල කොහොඹ ගසක ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව පොලිසිය සඳහන් කළේය.
+
+අනතුරින්  බරපතළ තුවාල ලැබූ තරුණයා තලාව ප්‍රාදේශීය රෝහලට ඇතුළත් කරන විටත් ජීවිතක්ෂයට පත්ව  සිටි බව තලාව පොලිසිය  කියයි.
+
+අධික වේගයෙන් පැමිණ ඇති මරණකරුට නින්ද යාම හේතුවෙන් යතුරු පැදිය පාලනයෙන් ගිලිහී ගොස් ගසේ වදින්නට ඇති බවට සැක කරන බව පොලිසිය සඳහන් කළේය.
+
+මරණකරු තරුණ සේවා යොවුන් සංගීත කණ්ඩායමකට  අනියුක්තව සංගීත ශිල්පියෙකු ලෙස  කටයුතු කරමින් සිටි අයෙකු බවද මෙහිදී පොලිසිය පැවසීය.
+
+◼️
+
+[Data](articles/5edc101b.json)
 
 ---
 
@@ -2191,101 +2275,5 @@ The sun will be over 12:12 pm today at 12:00 pm today at Marawila, Pothuhele, Gu
 [Data](articles/40f3ec2c.json)
 
 [Extended Data](ext_articles/40f3ec2c.ext.json)
-
----
-
-### Uncertainty looms over 48 Sri Lankans trapped in Myanmar cyber crime saga
-
-*2024-04-08 06:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uncertainty-looms-over-48-Sri-Lankans-trapped-in-Myanmar-cyber-crime-saga/108-280353) · `en`
-
-Colombo, April 8 (Daily Mirror) - The military government in Myanmar has reportedly cited that the rescue of 48 Sri Lankans held captive by cyber crime operators in the Myawaddy area has proven to be challenging since that is controlled by ethnic armed groups, an informed source said.
-
-Altogether 56 Sri Lankan victims of cyber crimes had been held and eight of them were rescued. Currently, paper work is underway to send them back to Sri Lana via Thailand since the transportation of them by road to Yangon from Myawaddy in Myanmar to be flown back to the country is challenging. The area in between remains uncleared .
-
-However, the source familiar with the process said that the rescue of the remaining 48 Sri Lankans had become challenging as informed by the military government of Myanmar. According to the source, such a rescue effort will involve military operation even putting the lives of these people in peril.
-
-...
-
-[Data](articles/1feb13c5.json)
-
-[Extended Data](ext_articles/1feb13c5.ext.json)
-
----
-
-### Sri Lanka earns billion dollars from tourism in first quarter
-
-*2024-04-08 06:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-earns-billion-dollars-from-tourism-in-first-quarter-157797/) · `en`
-
-ECONOMYNEXT – Sri Lanka has earned 1,025.9 million US dollars from tourism in the first quarter of 2024, up 103 percent from a year ago, the central bank said quoting tourism promotion authorities.
-
-Sri Lanka’s tourist arrivals went up 89 percent to 635,784 persons in the first quarter of 2024.
-
-Tourism earnings in the month were estimated at 338.4 million US dollars, up 79 percent from 118.8 a year ago.
-
-The tourism earnings figure is estimated from a survey conducted by Sri Lanka Tourism Development Authority.
-
-Sri Lanka’s imports and the merchandise trade deficit has gradually picked as tourism earnings came in and people in the sector spent the wages and other earnings.
-
-Related Sri Lanka trade deficit up 77-pct to Feb, imports surge, rupee appreciates
-
-Tourism itself requires fuel for travel and operating hotels.  (Colombo/Apr8/2024)
-
-◼️
-
-[Data](articles/54bcfa68.json)
-
-[Extended Data](ext_articles/54bcfa68.ext.json)
-
----
-
-### Fcode Labs introduces power of AI in coaching
-
-*2024-04-08 04:56:00* · [`islandlk`](http://island.lk/fcode-labs-introduces-power-of-ai-in-coaching/) · `en`
-
-Fcode Labs, a leading healthcare technology consultancy company, has announced the launch of Progress Magic (www.progressmagic.com) – revolutionary platform designed to supercharge mental and corporate coaching practices.
-
-Progress Magic leverages the power of Artificial Intelligence (AI) to streamline workflows, optimize client outcomes, and unlock transformative results for both coaches and their clients. The platform is secure. It’s HIPAA, GDPR, and PDPA compliant which means, it uses all the industry best practices on security and data privacy to operate in the USA, Europe, Singapore, and Sri Lanka.
-
-The rise in mental health and corporate coaching clientele is outpacing the availability of streamlined administrative solutions. This cuts into valuable client interaction time, potentially leading to stalled progress or client abandonment. Traditional methods of scheduling, billing, and record keeping can be cumbersome, hindering coaches’ ability to deliver the highest quality care.
-
-...
-
-[Data](articles/2b25cdd3.json)
-
-[Extended Data](ext_articles/2b25cdd3.ext.json)
-
----
-
-### Nalanda Innovation Hub to catalyse entrepreneurship and sustainability in Ratnapura
-
-*2024-04-08 04:54:00* · [`islandlk`](http://island.lk/nalanda-innovation-hub-to-catalyse-entrepreneurship-and-sustainability-in-ratnapura/) · `en`
-
-The vibrant city of Ratnapura, renowned as the “City of Gems,” welcomes a new era of innovation and entrepreneurship with the grand opening of the Nalanda Innovation Hub on March 26, 2024. Nestled in the heart of Ratnapura, this hub is poised to become the nucleus of collaboration, creativity, and sustainable business practices in the region.
-
-Founded by Visaka Ellawala, the Nalanda Innovation Hub pays homage to the late Member of Parliament Nalanda Ellawala, whose enduring legacy of public service and community development serves as an inspiration to the community. Speaking at the inauguration, Visaka Ellawala emphasized the hub’s mission to unlock the entrepreneurial spirit of Ratnapura and drive sustainable development in the gem-rich region.
-
-...
-
-[Data](articles/c1164f19.json)
-
-[Extended Data](ext_articles/c1164f19.ext.json)
-
----
-
-### SOE losses costing LKR 141,809 per Sri Lankan household : Advocata
-
-*2024-04-08 04:53:00* · [`islandlk`](http://island.lk/soe-losses-costing-lkr-141809-per-sri-lankan-household-advocata/) · `en`
-
-The soft pedaling by the government to carry out crucial reforms of State Owned Enterprises is forcing taxpayer’s wallets to take the brunt of the hit, says Colombo based think tank, Advocata Institute.
-
-Dhananath Fernando, the Chief Executive Officer of the Advocata Institute said, taking into account the upcoming election cycle, the Advocata Institute, urged the need to reform State Owned (SOE) Enterprises. Here it was said that irrespective of the government that comes into power, SOE reforms must continue.
-
-The cumulative losses of key 52 SOE’s in 2022 amounted to LKR 744.6Bn, costing LKR 1.7Mn per registered taxpayer, LKR 33,949 per citizen and LKR 141,809 per household. Despite the sharp increase in tax collection, estimates of tax collection for 2024 cannot cover the losses incurred by these 52 SOE’s for the year 2022.
-
-...
-
-[Data](articles/16f6caf3.json)
-
-[Extended Data](ext_articles/16f6caf3.ext.json)
 
 ---

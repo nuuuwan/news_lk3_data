@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 02:50:02**
+As of **2024-04-09 03:03:23**
 
 ## Newspaper Stats
 
-*Scraped **17,951** Articles*
+*Scraped **17,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 995
 adalk | 1,512
 tamilmirrorlk | 2,107
 adaderanalk | 2,160
-virakesarilk | 2,644
+virakesarilk | 2,646
 dailymirrorlk | 2,738
 adaderanasinhalalk | 2,906
 
@@ -26,25 +26,69 @@ adaderanasinhalalk | 2,906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,950 (100.0%) of 17,951 articles have been extended.
+17,951 (100.0%) of 17,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### இலவசக் கல்வியின் பாரம்பரியத்திற்கு தேசிய கல்விக் கொள்கை பாரிய அச்சுறுத்தல் - யாழ்ப்பாண பல்கலைக்கழக ஆசிரியர் சங்கம்
+### மாற்றுத்திறனாளிகள் தொடர்பில் சமூகத்தில் கருத்தியல் ரீதியிலான மாற்றம் ஏற்படுத்தப்படும் - இராஜாங்க அமைச்சர் அனுப பஸ்குவல்
+
+*2024-04-09 02:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180774) · `ta`
+
+இம்முறை புத்தாண்டுக் கொண்டாட்டத்தின் போது மாற்றுத்திறனாளிகள் குறித்து. சமுதாயத்தில் கருத்தியல் ரீதியிலான மாற்றத்தை ஏற்படுத்துவதற்காக, முட்டி உடைத்தல் குருடனுக்கு உணவளித்தல் என்பன "அதிர்ஷ்ட பானையை உடைத்தல், பார்வையற்றவர்களுக்கு உணவளித்தல்" என மாற்றப்பட்டுள்ளதாக, சமூக வலுவூட்டல் இராஜாங்க அமைச்சர் அனுப பஸ்குவல் தெரிவித்தார்.
+
+சமுர்த்தி வேலைத்திட்டத்தின் கீழ் உள்ள அனைத்து வங்கிகளிலும் சிங்கள மற்றும் தமிழ் புத்தாண்டுக்காக நாடளாவிய ரீதியில் 1089 புத்தாண்டு கொண்டாட்டங்களை நடத்துவதற்கான ஏற்பாடுகளைச் செய்துள்ளதாகவும் இராஜாங்க அமைச்சர் சுட்டிக்காட்டினார்.
+
+ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (08) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே சமூக வலுவூட்டுகை இராஜாங்க அமைச்சர் அனுப பஸ்குவல்  இதனைத் தெரிவித்தார்.
+
+“இந்த வருடத்தின் கடைசி காலாண்டிற்குப் பிறகு, இந்த நாட்டில் பொருளாதாரச் சுருக்கம் குறைந்துள்ளதுடன், 2024 ஆம் ஆண்டில் வளர்ச்சி அடைந்த பொருளாதாரமாக மாறும் திறனைப் பெற்றுள்ளோம். நுகர்வோருக்குக் கட்டுப்படியாகாத வாழ்க்கைச் செலவுக்குத் தீர்வுகளை வழங்குவதே எமது பொருளாதாரத் திட்டத்தின் முக்கிய நோக்கமாக இருந்தது.
+
+...
+
+[Data](articles/86d33a94.json)
+
+---
+
+### பேராதனைப் பல்கலைக்கழகத்தில் மலர் வசந்தம் ஆரம்பம்
+
+*2024-04-09 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180773) · `ta`
+
+உலகின் அழகிய பல்கலைக்கழகங்களில் ஒன்றாகக் கருதப்படும் பேராதனைப் பல்கலைக்கழகத்தில் மலர் வசந்தம் ஆரம்பமாகியுள்ளது.
+
+பல்கலைக்கழகத்திற்குச் செல்லும் வீதியில் உள்ள  உள்ள மாரா மரங்களில் சுற்றியிருக்கும் டொலிச்சந்திரா டோலிச்சந்திரா உங்கிஸ் (Dolichandra unguis-cati) ஆண்டுதோறும் மார்ச் மாத இறுதியில் பூக்கும், ஆனால் இந்த முறை ஏப்ரல் இரண்டாவது வாரத்தில் பூக்கள் பூக்கத் தொடங்கியுள்ளன.
+
+ஹந்தான வசினா மஞ்சள் மழை பேராதனையின் மலர் வசந்தம் ஆனது வெளிநாட்டு மக்கள் மத்தியில் பிரபலமானது ஆகும்.
+
+இந்நாட்களில் பல்கலைக்கழக மாணவர்கள் மட்டுமின்றி பேராசிரியர்களும் ஏனையோரும்  இந்த அழகை ரசித்து புகைப்படம் எடுப்பது அற்புதமான காட்சியாக உள்ளது.
+
+◼️
+
+[Data](articles/8ef343e7.json)
+
+---
+
+### National Education Policy
 
 *2024-04-09 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180772) · `ta`
 
-தேசிய கல்விக் கொள்கை கட்டமைப்பானது (NEPF) இலங்கையின் நீண்டகால இலவசக் கல்வியின் பாரம்பரியத்திற்கு குறிப்பிடத்தக்க அச்சுறுத்தலாக உள்ளது என யாழ்ப்பாண பல்கலைக்கழக ஆசிரியர் சங்கம் குற்றஞ்சாட்டியுள்ளது.
+The Jaffna University Teachers Union opposes the National Education Policy Framework (NEPF 2023-2033), arguing it threatens Sri Lanka's long-term free education tradition by prioritizing profit over education quality and welfare. NEPF aims to transform education into a profit-making business, abolishing state education and the University Grants Commission (UGC), and introducing university fees. It also focuses on economics and digital education, ignoring broader educational goals like literacy and critical thinking. The union calls for the withdrawal of these reforms and prioritizes the interests of the people over market forces.
 
-பல்கலைக்கழக ஆசிரியர் சங்கங்களின் சம்மேளனம் (FUTA) என்ற வகையில், இலங்கை அரசாங்கத்தின் முன்மொழியப்பட்ட தேசிய கல்விக் கொள்கை கட்டமைப்பை (NEPF 2023-2033) நாங்கள் கடுமையாக எதிர்க்கிறோம், இது நமது நாட்டின் நீண்டகால இலவசக் கல்வி பாரம்பரியத்திற்குக் குறிப்பிடத்தக்க அச்சுறுத்தலாக உள்ளது.
+🟩
 
-கல்வியில் அரசின் பொறுப்பைத் திரும்பப் பெறுதல், அரச கல்விக்கான ஒதுக்கீடுகளைக் கைவிடுதல், பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவை (UGC) ஒழித்தல் போன்றவற்றை முன்னிலைப்படுத்தி NEPF திட்டம் கல்வி முறையை முழுவதுமாக லாபம் ஈட்டும் வணிகமாக மாற்றுகிறது.
+The Jaffna University Teachers Union alleges that the National Education Policy Framework (NEPF) is a significant threat to the tradition of long -term free education in Sri Lanka.
+
+As a Federation of University Teachers' Association (FUTA), we strongly oppose the proposed National Education Policy Framework (NEPF 2023-2033), which is a significant threat to our country's long-term free education heritage.
+
+The NEPF program transforms the education system into a profit -making business by highlighting the government's responsibility in education, the abolition of state education, and the abolition of the University Grants Commission (UGC).
+
+These reforms prior the profit rather than the quality of education and the welfare of students and educators. By introducing tariffs at the university level and withdrawing state funds for higher education, the NEPF undermines the equal access policy for education centered on Sri Lanka's social structure after independence.
 
 ...
 
 [Data](articles/53b0e34d.json)
+
+[Extended Data](ext_articles/53b0e34d.ext.json)
 
 ---
 
@@ -2239,59 +2283,5 @@ I brought the general secretary of the Sri Lanka Freedom Party for the 2015 pres
 [Data](articles/89ffabd4.json)
 
 [Extended Data](ext_articles/89ffabd4.ext.json)
-
----
-
-### "Namal needs more time as president"
-
-*2024-04-08 14:54:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-ஜனாதிபதியாக-இன்னும்-காலவகாசம்-தேவை/175-335745) · `ta`
-
-"Mahinda Rajapaksa confirms Namal needs more time as president. SLPP will lead a candidate for the presidential election, but the candidate has not been decided yet."
-
-🟩
-
-Former President Mahinda Rajapaksa has put an end to questions about his son Namal Rajapaksa contesting the next presidential election.
-
-Responding to questions from journalists, Rajapakse said his son is still not ready to contest the presidential election.
-
-Former President Mahinda Rajapaksa has said that his son, who was recently appointed as the National Coordinator of the Sri Lanka Peoples Alliance, needs more time.
-
-He added that the Sri Lanka PA (SLPP) would lead a candidate to contest the presidential election.
-
-The former president said the Sri Lanka PA had not yet decided on the presidential candidate, adding that the party would discuss the matter in a timely manner.
-
-◼️
-
-[Data](articles/3fbd283b.json)
-
-[Extended Data](ext_articles/3fbd283b.ext.json)
-
----
-
-### The latest committee appointed to the President
-
-*2024-04-08 14:53:56* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-පත්කළ-අලුත්ම-කමිටුව/11-409015) · `si`
-
-President Ranil Wickremesinghe announced a new committee to address final activities for all communities, including the Muslims, and plans to implement relevant laws. He highlighted the economic crisis's impact on Ramadan fasting and the need for regulation of maturity in schools. He also discussed the rights of the Muslim community during the coronavirus pandemic, promising to change future funeral practices. The President emphasized Sri Lanka's support for Palestine and the commitment to build a school in Gaza after the conflict ends.
-
-🟩
-
-President Ranil Wickremesinghe said that a new committee would be appointed to implement the final activities of any person including the Muslim community.
-
-The President also said that the relevant laws will be implemented in the future.
-
-President Ranil Wickremesinghe made this statement participating at the Inftar festival held at Katukaley Mosque, Kandy yesterday.
-
-Speaking further, President Ranil Wickremesinghe further said,
-
-Ramadan fast could not be done because the economic crisis in the country had to stay in the country due to the economic crisis in the country.. Since last year, the economy is being improved since last year, Ramadan season and the Ramazan fast have been able to do so.
-
-The Muslim community fasts in Ramadan and smuggling kusal drains. The Ramazan Festival and the Sinhala New Year season is in the same time. The country has been created from history from history from history.
-
-...
-
-[Data](articles/78edc9f0.json)
-
-[Extended Data](ext_articles/78edc9f0.ext.json)
 
 ---

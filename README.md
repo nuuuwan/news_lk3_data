@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 19:18:18**
+As of **2024-04-08 19:33:51**
 
 ## Newspaper Stats
 
-*Scraped **17,902** Articles*
+*Scraped **17,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 972
 islandlk | 979
 economynextcom | 993
-adalk | 1,507
+adalk | 1,508
 tamilmirrorlk | 2,104
 adaderanalk | 2,156
-virakesarilk | 2,637
+virakesarilk | 2,638
 dailymirrorlk | 2,732
 adaderanasinhalalk | 2,900
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,901 (100.0%) of 17,902 articles have been extended.
+17,902 (100.0%) of 17,904 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,30 @@ Meanwhile, the public will have 02 weeks from the day it’s presented to the Pa
 ◼️
 
 [Data](articles/c2f057fe.json)
+
+[Extended Data](ext_articles/c2f057fe.ext.json)
+
+---
+
+### லங்கா பிறீமியர் லீக் ஜூலை 1ஆம் திகதி ஆரம்பம்; முதல் போட்டியில் கண்டி -  தம்புள்ளை அணிகள்
+
+*2024-04-08 18:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180763) · `ta`
+
+ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தினால் ஏற்பாடு செய்யப்பட்டுள்ளதும் இரசிகர்களால் பெரிதும் எதிர்பார்க்கப்படுவதுமான லங்கா பிறீமியர் லீக் கிரிக்கெட் போட்டியின் நான்காவது அத்தியாயம் எதிர்வரும் ஜூலை 1ஆம் திகதி ஆரம்பமாகவுள்ளது.
+
+நடப்பு சம்பியன் பி லவ் கண்டி அணிக்கும் நடப்பு உப சம்பியன் தம்புள்ள ஒளவ்ரா அணிக்கும் பல்லேகலையில் நடைபெறவுள்ள போட்டியுடன் இந்த வருட லங்கா பிறீமியர் லீக் ஆரம்பமாகவுள்ளது.
+
+முதலாவது போட்டிக்கு முன்பதாக ஆரம்பி விழா வைபவத்தை கோலாகலமாக நடத்த ஸ்ரீலங்கா கிரிக்கெட் நிறுவனம் திட்டமிட்டுள்ளது.
+
+லங்கா பிறீமியர் லீக் இரண்டு சுற்றுகளைக் கொண்டதாகும். ஒவ்வொரு அணியும் முதல் சுற்றில் 4 போட்டிகளிலும் இரண்டாவது சுற்றில் 4 போட்டிகளிலுமாக மொத்தம் 8 போட்டிகளில் விளையாடும்.
+
+முதல் சுற்று ஜூலை 1ஆம் திகதியிலிருந்து 9ஆம் திகதிவரையும் இரண்டாம் சுற்று 9ஆம் திகதியிலிருந்து 16ஆம் திகதிவரையும் நடைபெறும்.
+
+இரண்டு சுற்றுகள் நிறைவில் முதல் இரண்டு இடங்களைப் பெறும் அணிகள் ஜூலை 18ஆம் திகதி முதலாவது தகுதிகாண் போட்டியில் பிற்பகல் விளையாடும்.
+
+...
+
+[Data](articles/24b3c4d1.json)
 
 ---
 
@@ -593,6 +617,8 @@ A person has reportedly been killed in a shooting incident at Katugasthara area 
 An unidentified gunman had carried out the shooting at around 04.00 p.m. this evening (08), according to Ada Derana reporter.
 
 The victim, who had sustained serious injuries in the incident, was admitted to Gampaha Hospital for treatment, where he had succumbed to injuries during treatment.
+
+It has been revealed that the deceased was running a vehicle painting garage at his home and the shooting has taken place while he was working there, the police said.
 
 ◼️
 
@@ -2345,41 +2371,5 @@ Steps have been taken to hand over the Katunayaka airport customs officers for f
 [Data](articles/b1d41dbd.json)
 
 [Extended Data](ext_articles/b1d41dbd.ext.json)
-
----
-
-### Rugby Player to take up the gun
-
-*2024-04-08 12:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195427) · `si`
-
-A rugby player and a corporal in the Sri Lanka Air Force were involved in a double murder in Padukka. The police found a suspicious motorcycle and shot its rider, who later died. The deceased was identified as the shooter in the Moragahahena area and a member of the Air Force Rugby Team.
-
-🟩
-
-The shooter was killed in a double murder yesterday (08) at the Padukka area in Padukka this morning.
-
-Police said that he was an active service attached to the Sri Lanka Air Force Ratmalana.
-
-In Horana, Moragahahena, Moragahahena, a shooting was shooting yesterday afternoon and both of them died yesterday.
-
-After shooting, the car was fled to PDV footage that the car had fled to Padukka.
-
-Meanwhile, the police received information regarding a suspicious suspicion.
-
-Accordingly, the officers of the Western Province South Criminal Division and the STF personnel were taken to a house in the Temple Road in Miriyagala Road, Padukka, Padukka, Miriyagala Road, Padukka.
-
-The investigation officials have come to Angamuwa junction and established its temporary roadbar.
-
-The police had noticed it to stop a suspicious motorcycle for a suspicious motorcycle on the road around 4.15 am.
-
-The motorcyclist has been shot dead by the police, the police said.
-
-The police had also been rehabilitated for self defense.
-
-...
-
-[Data](articles/379d8b57.json)
-
-[Extended Data](ext_articles/379d8b57.ext.json)
 
 ---

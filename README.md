@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 20:03:32**
+As of **2024-04-08 20:18:13**
 
 ## Newspaper Stats
 
-*Scraped **17,911** Articles*
+*Scraped **17,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,68 @@ adalk | 1,510
 tamilmirrorlk | 2,105
 adaderanalk | 2,156
 virakesarilk | 2,639
-dailymirrorlk | 2,732
+dailymirrorlk | 2,733
 adaderanasinhalalk | 2,902
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,910 (100.0%) of 17,911 articles have been extended.
+17,911 (100.0%) of 17,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### Man shot dead in Gampaha
+
+*2024-04-08 19:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-shot-dead-in-Gampaha/108-280404) · `en`
+
+Gampaha, April 8 (Daily Mirror) - An individual was shot dead by an unidentified gunman at Katugasthara in Gampaha.
+
+Police said the victim, a vehicle painter, died while being admitted to the Gampaha Hospital.
+
+The shooting was reportedly carried out with a pistol, causing injuries to the victim's neck, abdomen and an arm.
+
+◼️
+
+[Data](articles/b9e0acf9.json)
+
+---
+
+### Ceylon Premier League Beginning on July 1;Kandy -Dambulla teams in the first match
+
+*2024-04-08 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180763) · `ta`
+
+The Lanka Premier League, Sri Lanka's cricket tournament, starts July 1 with Kandy vs Dambulla in the first match. It's a two-round tournament, with the top two teams competing in the final on July 21.
+
+🟩
+
+The fourth chapter of the Lanka Premier League Cricket Tournament, which is organized by Sri Lanka Cricket and highly anticipated by fans, will commence on July 1.
+
+This year's Lanka Premier League will commence this year with the match to be played at Pallekelle in Pallekele.
+
+Sri Lanka Cricket is planning to hold the ceremony before the first match.
+
+The Lanka Premier League is two rounds. Each team will play a total of 8 matches in 4 matches and 4 matches in the second round.
+
+The first round will be held from 1st to 9th and the second round from 9th to 16th.
+
+The top two teams will play in the first qualifying competition on July 18.
+
+The third and fourth place teams will play the first deletion match on the same day.
+
+The first qualifying competition will be played in the 2nd deletion match on July 20th.
+
+The winning team will be opposed to the final in the first qualifying team in the final match on July 21, deciding the champion.
+
+...
+
+[Data](articles/24b3c4d1.json)
+
+[Extended Data](ext_articles/24b3c4d1.ext.json)
+
+---
 
 ### Salary increase for public servants from today
 
@@ -102,23 +152,29 @@ This will give my special thanks to everyone who contributed to the success of t
 
 ---
 
-### ටවර් ක්‍රේන් යන්ත්‍රයක බක්කිය කඩා වැටීමෙන් දේපළ රැසකට හානි
+### Tower Crane's beaker damaged a number of property by collapse
 
 *2024-04-08 19:06:06* · [`adalk`](https://www.ada.lk/picture_story/ටවර්-ක්‍රේන්-යන්ත්‍රයක-බක්කිය-කඩා-වැටීමෙන්-දේපළ-රැසකට-හානි/10-409018) · `si`
 
-කොල්ලුපිටිය ඇලෝ ඇවිනිව් ප්‍රදේශයේ ඉදිකරමින් පවතින ගොඩනැගිල්ලක ටවර් ක්‍රේන් යන්ත්‍රයේ බක්කිය කඩා වැටීමෙන් දේපළ රැසකට හානි සිදුවී ඇතැයි කොල්ලුපිටිය පොලිසිය කියයි.
+A tower crane's collapse in Kollupitiya damaged several properties, including a house, car, and three-wheeler, without causing any injuries. The crane was part of a high-floor office complex construction. The police are investigating the incident.
 
-ඒ හේතුවෙන් නිවසකට, මෝටර් රථයකට සහ ත්‍රීරෝද රථයකට අලාභ සිදු වී ඇත. බක්කිය  කඩා වැටෙන අවස්ථාවේදී කිසිදු පුද්ගලයකු ඒ අවට නොවීම හේතුවෙන් කිසිදු ජීවිත අනතුරක් හෝ තුවාලයක් නොවීය.
+🟩
 
-මහල් 23කින් යුක්තව ඉදිකරමින් පවතින කාර්යාල සංකීර්ණයේ ඉහළ මහලේ ඉදිකිරීම් කටයුතු සිදුකිරීමට භාවිතකළ ටවර් ක්‍රේන්   යන්ත්‍රයේ බක්කිය මෙලෙස කඩා වැටී ඇත.
+Kollupitiya Police say that the Tower Crane's busy beaker in the Av Aviniv area is claimed by a number of property.
 
-එම බක්කිය යාබද නිවසේ කොන්ක්‍රීට් තට්ටුව මතටත්  ,බක්කිය  තුළ තිබූ සිමෙන්ති ගල් සුඛෝභෝගී මෝටර් රථයේ බොනට්ටුව මතට හා ත්‍රීරෝ රථය මතටත් වැටීමෙන්  රුපියල් ලක්ෂ ගණනාවක අලාභයක් සිදු වීඇතැයි පොලිසිය සඳහන් කරයි.
+As a result, a house, a car and three-wheeler has been developed. None of the lives or injury was not surrounded by the burden of the beach.
 
-කොල්ලුපිටිය පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක එච්  එල් දුෂ්මන්ත මහතාගේ උපදෙස් මත විවිධ පැමිණිලි අංශයේ ස්ථානාධිපති උප පොලිස් පරීක්ෂක ජි ඒ සි පි ගමආරච්චි මහතා ඇතුළු කණ්ඩායමක් පරීක්ෂණ පවත්වයි.
+The tower of the Tower Crane was collapsed, which was used to take the construction of the high-floor of the office complex, which was constructed in the office complex.
+
+Police say that the backed deck adjacent to the land of the collapse and the coal of cement coal in the bench, police said.
+
+The OIC of the OIC of the Department of Kollupitiya Police OIC of the OIC of the Complaints Division (OIC) OIC of the Complaints Division, OIC of the OIC of the Complaints Division, has investigated.
 
 ◼️
 
 [Data](articles/3ebf735b.json)
+
+[Extended Data](ext_articles/3ebf735b.ext.json)
 
 ---
 
@@ -161,40 +217,6 @@ Meanwhile, the public will have 02 weeks from the day it’s presented to the Pa
 [Data](articles/c2f057fe.json)
 
 [Extended Data](ext_articles/c2f057fe.ext.json)
-
----
-
-### Ceylon Premier League Beginning on July 1;Kandy -Dambulla teams in the first match
-
-*2024-04-08 18:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180763) · `ta`
-
-The Lanka Premier League, Sri Lanka's cricket tournament, starts July 1 with Kandy vs Dambulla in the first match. It's a two-round tournament, with the top two teams competing in the final on July 21.
-
-🟩
-
-The fourth chapter of the Lanka Premier League Cricket Tournament, which is organized by Sri Lanka Cricket and highly anticipated by fans, will commence on July 1.
-
-This year's Lanka Premier League will commence this year with the match to be played at Pallekelle in Pallekele.
-
-Sri Lanka Cricket is planning to hold the ceremony before the first match.
-
-The Lanka Premier League is two rounds. Each team will play a total of 8 matches in 4 matches and 4 matches in the second round.
-
-The first round will be held from 1st to 9th and the second round from 9th to 16th.
-
-The top two teams will play in the first qualifying competition on July 18.
-
-The third and fourth place teams will play the first deletion match on the same day.
-
-The first qualifying competition will be played in the 2nd deletion match on July 20th.
-
-The winning team will be opposed to the final in the first qualifying team in the final match on July 21, deciding the champion.
-
-...
-
-[Data](articles/24b3c4d1.json)
-
-[Extended Data](ext_articles/24b3c4d1.ext.json)
 
 ---
 
@@ -2357,29 +2379,5 @@ The Colombo Stock Exchange (CSE) will close at 12.00 noon on Wednesday (April 10
 [Data](articles/627e26ac.json)
 
 [Extended Data](ext_articles/627e26ac.ext.json)
-
----
-
-### Public servants are paid by April today.
-
-*2024-04-08 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/180696) · `ta`
-
-Public servants' salaries will be paid by April 8th, before the 10th, due to Tamil and Sinhala New Year. The Finance Minister announced a 10,000 rupee payment, but no decision on declaring April 15th a public holiday.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya said that the salary for public servants will be paid from April today (08).
-
-Due to the Tamil and Sinhala New Year, April's salary will be paid before the 10th.
-
-He also said this when he told the media on Sunday in Kegalle that the salary will be paid with the government's 10,000 rupee payments proposed by the government.
-
-State Administrative Local Government and Provincial Council Minister Asoka Priyantha said that it has not been decided to declare the 15th of this month as public holidays.
-
-◼️
-
-[Data](articles/d98fd348.json)
-
-[Extended Data](ext_articles/d98fd348.ext.json)
 
 ---

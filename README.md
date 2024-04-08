@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 22:18:16**
+As of **2024-04-08 22:34:35**
 
 ## Newspaper Stats
 
-*Scraped **17,924** Articles*
+*Scraped **17,925** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 993
 adalk | 1,512
 tamilmirrorlk | 2,106
 adaderanalk | 2,158
-virakesarilk | 2,639
+virakesarilk | 2,640
 dailymirrorlk | 2,736
 adaderanasinhalalk | 2,906
 
@@ -26,25 +26,47 @@ adaderanasinhalalk | 2,906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,923 (100.0%) of 17,924 articles have been extended.
+17,924 (100.0%) of 17,925 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### මියගිය ගුවන් හමුදා නිලධාරියා ගැන ආන්දෝලනාත්මක අනාවරණයක්
+### Condemic discovery of dead Air Force officer
 
 *2024-04-08 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195449) · `si`
 
-පාදුක්ක අංගමුව ප්‍රදේශයේදී පොලිස් වෙඩි පහරට ලක්ව මියගිය ගුවන් හමුදා කෝප්‍රල්වරයා අයිස් මත්ද්‍රව්‍ය භාවිතයට ඇබ්බැහි වී සිටි අයකු බවට අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+An Air Force Corporal, known for ice drug addiction, was found dead in a double murder in Horana Marsla, attached to the Ratmalana camp.
 
-හොරණ මාලොස්ඇල ප්‍රදේශයේදී ඊයේ සිදුවූ ද්විත්ව ඝාතනයේ වෙඩික්කරු ලෙස කටයුතු කළ බව කියන මෙම ගුවන් හමුදා කෝප්‍රල්වවරයා අද අලුයම පාදුක්ක අංගමුව ප්‍රදේශයේදී පොලිස් වෙඩි පහරට ලක්ව මිය ගොස් තිබුණි.
+🟩
 
-පොලීසිය සඳහන් කළේ ඔහු ශ්‍රී ලංකා ගුවන් හමුදාවේ රත්මලාන කඳවුරට අනුයුක්තව සක්‍රීය සේවයේ නිරතව සිටි බවය.
+The Air Force Corporal has revealed that the Air Force Corporal was an ice drug addicted in the Anga Anganiya area in Padukka.
+
+The Corporal was killed in a double murder in Horana Marsla area this morning.
+
+Police said he was attached to the Ratmalana camp at the Sri Lanka Air Force.
 
 ◼️
 
 [Data](articles/460b9690.json)
+
+[Extended Data](ext_articles/460b9690.ext.json)
+
+---
+
+### கொழும்பு பெரிய பள்ளிவாசலில் தலைப்பிறையை தீர்மானிக்கும் மாநாடு
+
+*2024-04-08 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/180768) · `ta`
+
+ஹிஜ்ரி 1445 புனித ஷவ்வால் மாத தலைப்பிறையை தீர்மானிக்கும் பிறைக்குழு மாநாடு செவ்வாய்க்கிழமை (09) மாலை மஹ்ரிப் தொழுகையை தொடர்ந்து கொழும்பு பெரிய பள்ளிவாசலில் இடம்பெற இருக்கின்றது.
+
+இம்மாநாட்டில் கொழும்பு பெரிய பள்ளிவாசல், அகில இலங்கை ஜம்இய்யதுல் உலமா, முஸ்லிம் சமய பண்பாட்டலுவல்கள் திணைக்கள உறுப்பினர்கள் மற்றும் உலமாக்கள் கலந்துகொள்ள இருக்கின்றனர்.
+
+நாட்டின் எப்பிரதேசத்திலாவது ஷவ்வால் மாத தலைப்பிறை தென்பட்டால் தகுந்த ஆதாரங்களுடன் 0112432110, 0112451245, 0777316415 என்ற இலக்கத்துடன் தொடர்புகொண்டு அறிவிக்குமாறு கொழும்பு பெரிய பள்ளிவாசல் முஸ்லிம் மக்களை கேட்டுக்கொண்டுள்ளது.
+
+◼️
+
+[Data](articles/5fb86b96.json)
 
 ---
 
@@ -2331,23 +2353,5 @@ He also said that several advertisements have been published to establish new fu
 [Data](articles/18b23a05.json)
 
 [Extended Data](ext_articles/18b23a05.ext.json)
-
----
-
-### Sri Lanka Hones Its Balancing Act
-
-*2024-04-08 13:20:00* · [`islandlk`](http://island.lk/sri-lanka-hones-its-balancing-act/) · `en`
-
-Colombo has demonstrated its own brand of strategic autonomy on issues from Russia’s war in Ukraine to China’s global footprint
-
-Most South Asian governments tend to have nonaligned foreign policies, balancing their relations with major powers. This maximizes their diplomatic flexibility and ability to operate independently on the world stage, also known as strategic autonomy. India and Pakistan are two prominent examples: They both balance their relations with the United States and at least one of its core rivals (Russia and China, respectively).
-
-But it’s important not to overlook Sri Lanka: In the last two years, Colombo has quietly and successfully navigated global conflict and great-power rivalry. Like many other countries in the region, Sri Lanka has not condemned Russia’s war in Ukraine, even though resulting price shocks exacerbated its own economic crisis in 2022. Yet it has called for an end to the war and announced new measures that step up economic and energy ties with India.
-
-...
-
-[Data](articles/88890754.json)
-
-[Extended Data](ext_articles/88890754.ext.json)
 
 ---

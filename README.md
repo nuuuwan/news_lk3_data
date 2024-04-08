@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 13:03:18**
+As of **2024-04-08 13:18:00**
 
 ## Newspaper Stats
 
-*Scraped **17,809** Articles*
+*Scraped **17,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 979
 economynextcom | 984
 adalk | 1,495
 tamilmirrorlk | 2,096
-adaderanalk | 2,147
+adaderanalk | 2,148
 virakesarilk | 2,607
 dailymirrorlk | 2,723
 adaderanasinhalalk | 2,885
@@ -26,27 +26,71 @@ adaderanasinhalalk | 2,885
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,802 (100.0%) of 17,809 articles have been extended.
+17,809 (100.0%) of 17,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### அரச ஊழியர்களுக்கு இன்று முதல் ஏப்ரல் மாத சம்பளம்!.
+### Douglas Devananda's Adavadi and Chanditana Politics are valid for the Tamil people - former Karachi Pradeshiya Sabha member Jeevan ..!
 
-*2024-04-08 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180696) · `ta`
+*2024-04-08 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180689) · `ta`
 
-அரச ஊழியர்களுக்கு ஏப்ரல் மாதத்துக்கான சம்பளம் இன்று (08) முதல் வழங்கப்படும் என நிதி இராஜாங்க அமைச்சர்  ரஞ்சித் சியம்பலாப்பிட்டிய தெரிவித்துள்ளார்.
+Jeevan, a former Karachi Pradeshiya Sabha member, supports Douglas Devananda's Adavadi and Chanditana politics. People were transported in buses to Ponnaveli village to confront the villagers' struggle. Shanmugaraja Jeevarajah led a media briefing, highlighting the Tamil identity of those who arrived in buses, aiming to offer them a thousand rupees and a card permit. However, they did not engage in the struggle. Police in Jayapuram and Munga expressed gratitude to Ponnaweli villagers. Jeevan criticized the minister's actions, suggesting the government's involvement in suppressing the people's rights struggle.
 
-தமிழ் மற்றும் சிங்கள புத்தாண்டின் காரணமாக ஏப்ரல் மாத சம்பளமானது 10 ஆம் திகதிக்கு முன்னர் வழங்கப்படும் என குறிப்பிட்டுள்ளார்.
+🟩
 
-அத்தோடு, அரசாங்கத்தினால்  முன்மொழியப்பட்ட 10,000 ரூபா கொடுப்பனவுடன் சம்பளமும் வழங்கப்படும் என்று கேகாலையில் நேற்று (07)ஞாயிற்றுக்கிழமை ஊடகங்களுக்கு கருத்து தெரிவித்த போது அவர் இதனைக்  குறிப்பிட்டுள்ளார்.
+Former Karachchi Pradeshiya Sabha member Jeevan has said that Douglas Devananda's Adavadi and Chanditana politics are valid.
 
-எதிர்வரும் 15ஆம் திகதியை பொது விடுமுறை தினமாக பிரகடனம் செய்வது  தொடர்பில் தீர்மானிக்கப்படவில்லை என  அரச நிர்வாக உள்ளுராட்சி மற்றும் மாகாண சபை அமைச்சர் அசோக பிரியந்த தெரிவித்துள்ளார்.
+People were taken in 06 buses to overcome the legitimate struggle of the people of Ponnaveli village in the Poonakari Divisional Secretariat of Kilinochchi District.
+
+Former Pradeshiya Sabha member Shanmugaraja Jeevarajah had organized a media briefing on the matter.
+
+At a media briefing, we should thank the people who arrived in 06 buses first. They have confirmed that they are Tamil people. They were brought in to overcome the struggle of the villagers of the Ponnaweli villagers, claiming to give them a thousand rupees per person and give them a card permit.
+
+However, the people of the area who arrived in 06 buses did not participate in the struggle to learn the reality of the struggle in the village of Ponnaveli.. We have to thank them for this. Similarly, the police officers in Jayapuram and Munga have expressed their gratitude to the people of Ponnaweli.
+
+...
+
+[Data](articles/b9b3c8db.json)
+
+[Extended Data](ext_articles/b9b3c8db.ext.json)
+
+---
+
+### Stock market to close at noon on April 10
+
+*2024-04-08 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98512/stock-market-to-close-at-noon-on-april-10) · `en`
+
+The Colombo Stock Exchange (CSE) will close at 12.00 noon on Wednesday (April 10), in view of the additional half-holiday on account of the Sinhala and Tamil New Year falling on Saturday (April 13), the CSE announced.
+
+◼️
+
+[Data](articles/627e26ac.json)
+
+---
+
+### Public servants are paid by April today.
+
+*2024-04-08 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/180696) · `ta`
+
+Public servants' salaries will be paid by April 8th, before the 10th, due to Tamil and Sinhala New Year. The Finance Minister announced a 10,000 rupee payment, but no decision on declaring April 15th a public holiday.
+
+🟩
+
+Finance Minister Ranjith Siyambalapitiya said that the salary for public servants will be paid from April today (08).
+
+Due to the Tamil and Sinhala New Year, April's salary will be paid before the 10th.
+
+He also said this when he told the media on Sunday in Kegalle that the salary will be paid with the government's 10,000 rupee payments proposed by the government.
+
+State Administrative Local Government and Provincial Council Minister Asoka Priyantha said that it has not been decided to declare the 15th of this month as public holidays.
 
 ◼️
 
 [Data](articles/d98fd348.json)
+
+[Extended Data](ext_articles/d98fd348.ext.json)
 
 ---
 
@@ -66,89 +110,105 @@ Sri Lanka’s Export Development Board said, Abdul Jalil Abdul Karder, Assistant
 
 [Data](articles/529fdf30.json)
 
+[Extended Data](ext_articles/529fdf30.ext.json)
+
 ---
 
-### ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதவிகளிலிருந்து அமரவீர  உட்பட மூவரை நீக்குவதைத் தடுக்கும் தடை உத்தரவு நீடிப்பு!
+### Prohibition of preventing three persons, including Amaraweera, from the posts of Sri Lanka Freedom Party (SLFP)
 
 *2024-04-08 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180699) · `ta`
 
-துமிந்த திசாநாயக்க, லசந்த அழகியவண்ண மற்றும் மஹிந்த அமரவீர ஆகியோரை கட்சியில் இருந்து நீக்குவதற்கு ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழு மேற்கொண்ட தீர்மானத்தை  தடுக்கும் இடைக்காலத் தடை உத்தரவு ஏப்ரல் 24 ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளது.
+An interim injunction has been extended until April 24, preventing the Sri Lanka Freedom Party (SLFP) from removing Amaraweera, Dissanayake, and Alagavanna. The decision was made by Colombo District Judge Chandun Vidhan Vidhan.
 
-குறித்த  நாடாளுமன்ற உறுப்பினர்களால் தாக்கல் செய்யப்பட்ட மனு இன்று திங்கட்கிழமை (08)  விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போதே கொழும்பு மாவட்ட நீதிபதி சந்துன் விதான இந்த உத்தரவை பிறப்பித்ததார்.
+🟩
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன மற்றும் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் பொதுச் செயலாளர் சரதி துஷ்மந்த மித்ரபால உள்ளிட்ட சிலர் இந்த மனுக்களில் பிரதிவாதிகளாக குறிப்பிடப்பட்டுள்ளனர்.
+The interim injunction to prevent the decision of the Sri Lanka Freedom Party (SLFP) to remove Duminda Dissanayake, Lasantha Alagavanna and Mahinda Amaraweera from the party has been extended till April 24.
+
+The order was issued by Colombo District Judge Chandun Vidhan Vidhan when the petition was taken up for hearing on Monday (08).
+
+Former President Maithripala Sirisena and the Sri Lanka Freedom Party (SLFP) general secretary Sarathi Dushmantha Mithrapala have been referred to as defendants in these petitions.
 
 ◼️
 
 [Data](articles/56c841f4.json)
 
+[Extended Data](ext_articles/56c841f4.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-04-08 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/180697) · `ta`
 
-இன்று திங்கட்கிழமை (ஏப்ரல் 08) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 294.3442 ஆகவும் விற்பனை விலை ரூபா 303.8976 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On April 8, the US dollar was valued at 294.3442 Rs for purchase and 303.8976 Rs for sale.
+
+🟩
+
+The US dollar purchasing price was 294.3442 and the sales price were Rs 303.8976 based on the Central Bank's currency exchange rate on Monday (April 08).
 
 ◼️
 
 [Data](articles/527803b8.json)
 
+[Extended Data](ext_articles/527803b8.ext.json)
+
 ---
 
-### மனிதாபிமான பணியாளர்கள் படுகொலை - உரிய பொறுப்புக்கூறல் அவசியம் அவுஸ்திரேலியா மீண்டும் வலியுறுத்தல்
+### Humanitarian Employees Massacle - Appropriate accountability is essential Australia
 
 *2024-04-08 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180695) · `ta`
 
-மனிதாபிமான பணியாளர்கள் இஸ்ரேலின் தாக்குதலில் கொல்லப்பட்டமை குறித்த உரிய பொறுப்புக்கூறல் அவசியம் என அவுஸ்திரேலிய பிரதமர் மீண்டும் வலியுறுத்தியுள்ளார்.
+Australian Prime Minister Antony Albenez emphasizes the importance of accountability for the killing of seven humanitarian workers, including Jomi Frankom, in Israel's attack, calling it a tragic event.
 
-அவுஸ்திரேலியாவின் ஜோமி பிராங்கோம் உட்பட ஏழு மனிதாபிமான பணியாளர்கள் கொல்லப்பட்டதை உலகை உலுக்கியுள்ள பெரும் துன்பியல் சம்பவம் என அவுஸ்திரேலிய பிரதமர் தெரிவித்துள்ளார்.
+🟩
 
-மனிதாபிமான பணியாளர்கள் இஸ்ரேலின் தாக்குதலில் கொல்லப்பட்டமை குறித்த உரிய பொறுப்புக்கூறல் அவசியம் என அவுஸ்திரேலிய பிரதமர் மீண்டும் வலியுறுத்தியுள்ளார்.
+The Australian Prime Minister has reiterated that the responsibility for the killing of humanitarian workers in Israel's attack is essential.
 
-அவுஸ்திரேலியாவின் ஜோமி பிராங்கோம் உட்பட ஏழு மனிதாபிமான பணியாளர்கள் கொல்லப்பட்டதை உலகை உலுக்கியுள்ள பெரும் துன்பியல் சம்பவம் என அவுஸ்திரேலிய பிரதமர் தெரிவித்துள்ளார்.
+The Australian Prime Minister has said that the killing of seven humanitarian workers, including Australia's Jomi Frankom, has shocked the world.
 
-மனிதாபிமான பணியாளர்கள் படுகொலை தொடர்பான இஸ்ரேலின் விசாரணை திருப்தியளி;க்கவில்லை என அன்டனி அல்பெனிஸ் தெரிவித்துள்ளார்.
+The Australian Prime Minister has reiterated that the responsibility for the killing of humanitarian workers in Israel's attack is essential.
+
+The Australian Prime Minister has said that the killing of seven humanitarian workers, including Australia's Jomi Frankom, has shocked the world.
+
+Antony Albenez said Israel's investigation into the assassination of humanitarian workers was not satisfied.
+
+He said that this was a great tragic event, Jomi Frankom, who said he was working on supporting his colleagues there.
+
+The Australian Prime Minister said that his company was also acting properly but three cars were alternately attacked.
+
+Antony Albenis said that the responsibility for us - what happened in what happened.
 
 ...
 
 [Data](articles/05ac3b32.json)
 
----
-
-### டக்ளஸ் தேவானந்தாவின் அடாவடி மற்றும் சண்டித்தன அரசியல் தமிழ் மக்களிடம் செல்லுபடியாகது - முன்னாள் கரைச்சி பிரதேச சபை உறுப்பினர் ஜீவன்..!
-
-*2024-04-08 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180689) · `ta`
-
-டக்ளஸ் தேவானந்தாவின் அடாவடி மற்றும் சண்டித்தன அரசியல் தமிழ் மக்களிடம் செல்லுபடியாகது முன்னாள் கரைச்சி பிரதேச சபை உறுப்பினர் ஜீவன் தெரிவித்துள்ளார்.
-
-கிளிநொச்சி மாவட்ட பூநகரி பிரதேச செயலகத்திற்குட்பட்ட பொன்னாவெளி கிராமத்தில் கடந்த (05)ம் திகதி மக்களின் நியாயமான போராட்டத்தை முறியடிக்க 06 பஸ்களில் மக்கள் அழைத்துவரப்பட்டனர்.
-
-குறித்த விடயம் தொடர்பாக ஊடக சந்திப்பொன்றை முன்னாள் பிரதேச சபை உறுப்பினர் சண்முகராஜா ஜீவராஜா அவர்கள் ஏற்பாடு செய்திருந்தார்.
-
-குறித்த ஊடக சந்திப்பில் தெரிவித்ததாவது முதலில் நாம் 06 பஸ்களில் வந்திருந்த மக்களுக்கு நன்றி சொல்ல வேண்டும். அவர்கள் தமிழ் மக்கள் என்பதை உறுதிப்படுத்தி இருக்கிறார்கள். அவர்களுக்கு காசு ஒரு ஆளுக்கு ஆயிரம் ரூபா தருவதாகவும், அட்டை பண்னைக்கான அனுமதிபத்திரம் தருவதாகவும் பல பொய்களை கூறி பொன்னாவெளி கிராம மக்களின் போராட்டத்தை முறியடிக்கும் நோக்கிலேயே அழைத்து வரப்பட்டனர்.
-
-...
-
-[Data](articles/b9b3c8db.json)
+[Extended Data](ext_articles/05ac3b32.ext.json)
 
 ---
 
-### විස්කි හා ලැප්ටොප් කටුනායකින පන්නන්න ගිය ව්‍යාපාරිකයන්ට වැඩ වරදියි
+### Businesses have been persecuted for businessmen and laptops
 
 *2024-04-08 12:25:35* · [`adalk`](https://www.ada.lk/breaking_news/විස්කි-හා-ලැප්ටොප්-කටුනායකින-පන්නන්න-ගිය-ව්‍යාපාරිකයන්ට-වැඩ-වරදියි/11-409002) · `si`
 
-නීතිවිරෝධී ලෙස ශ්‍රී ලංකාවට ආනයනය කර, තීරු බදු නොගෙවා කටුනායක ගුවන් තොටුපොළෙන් පිට කර ගෙන යමින් සිටි රුපියල් ලක්ෂ පනහක් පමණ වටිනා  භාණ්ඩ තොගයක් සමග ඒවා මෙරටට ගෙන ආ ව්‍යාපාරිකයන් දෙදෙනෙකු  කටුනායක ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පිරිසක් විසින් 04/08 දින අත් අඩංගුවට ගෙන තිබේ.
+Two Singaporean businessmen, aged 58 and 50, were arrested in Sri Lanka for importing automotive parts. They arrived in Katunayake airport at 12.00 pm on a 12-day campaign. Customs officers are investigating the goods and the men.
 
-මෙම ව්‍යාපාරිකයන් දෙදෙනා අතරින් එක් අයෙකු 58 හැවිරිදි ජා - ඇළ ප්‍රදේශයේ පදිංචිකරුවෙකි . අනෙක් ව්‍යාපාරිකයා 50 හැවිරිදි රත්නපුර ප්‍රදේශයේ පදිංචිකරුවෙකි .
+🟩
 
-මොවුන් දෙදෙනා ගුවන් මගින් මෝටර් රථ අමතර කොටස් මෙරටට ආනයනය කර විකිණීමේ ව්‍යාපාරයක නිරත වී සිටින්නන් වන අතර මෙම උත්සව සමග එළඹීමත් සමග මොවුන් තම ගමන් මලු තුළ බහා විස්කි බෝතල් 56 ක් සහ ලැප්ටොප් පරිගණක 12 ක් නීතිවිරෝධී ලෙස රැගෙන විත් තිබුණි .
+A group of businesses who were brought to Sri Lanka with a large haul of Rs.
 
-මොවුන් දෙදෙනා 04/08 දින අලුයම 12.00 ට සිංගප්පූරුවේ සිට සිංගප්පූරු ගුවන් සේවයේ එස්.කිව්.- 468 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+One of these two businessmen is a 58 year old resident of Ja-Canal. The other businessman is 50 year old resident of the Ratnapura area.
 
-...
+They have been engaged in an importation campaign to import and sell automotive parts to Sri Lanka.
+
+The two were from Singapore to 12.00 days at 12.00 pm on the morning at 12.00 pm in Singapore to Katunayake airport.
+
+Steps have been taken to hand over the Katunayaka airport customs officers for further investigations into the investigation of the goods and the two businessmen who were brought to the country.
+
+◼️
 
 [Data](articles/b1d41dbd.json)
+
+[Extended Data](ext_articles/b1d41dbd.ext.json)
 
 ---
 
@@ -2125,23 +2185,5 @@ As admitted, Thondaman’s Ministry of Water Resources has found out that the CO
 [Data](articles/f9e65c20.json)
 
 [Extended Data](ext_articles/f9e65c20.ext.json)
-
----
-
-### Inputs to Thondaman’s Cabinet paper on State apology to Muslims on forced COVID cremations
-
-*2024-04-08 02:17:21* · [`dailyftlk`](https://www.ft.lk/columns/Inputs-to-Thondaman-s-Cabinetpaper-on-State-apology-to-Muslims-on-forced-COVID-cremations/4-760426) · `en`
-
-If this is not a crime against humanity to some extent one wonders what crimes against humanity are – Pic by Shehan Gunasekara
-
-With reference to the subject news report titled “Thondaman calls for formal Govt. apology to Muslim community over forced COVID cremations” appearing on the front page of your widely circulated and read newspaper of Friday 5 April 2024, I wish to bring the following to the attention of your readers with regard to the article.
-
-The apology from an individual on behalf of the Government which as a collective acted in contravention of prevalent and established ethical, scientific and moral grounds to selectively target a section of its own citizens indeed must not and should not be accepted as the decision to forcefully cremate COVID-19 dead during the pandemic was solely a political decision.
-
-...
-
-[Data](articles/45294757.json)
-
-[Extended Data](ext_articles/45294757.ext.json)
 
 ---

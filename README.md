@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 02:03:33**
+As of **2024-04-09 02:18:34**
 
 ## Newspaper Stats
 
-*Scraped **17,945** Articles*
+*Scraped **17,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 188
 dbsjeyarajcom | 213
 newsfirstlk | 363
 islandlk | 979
-dailyftlk | 982
+dailyftlk | 987
 economynextcom | 995
 adalk | 1,512
 tamilmirrorlk | 2,107
@@ -26,11 +26,89 @@ adaderanasinhalalk | 2,906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,945 (100.0%) of 17,945 articles have been extended.
+17,945 (100.0%) of 17,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### SLFP appoints Nimal Siripala as Acting  Chairman amidst intraparty crisis
+
+*2024-04-09 01:23:31* · [`dailyftlk`](https://www.ft.lk/news/SLFP-appoints-Nimal-Siripala-as-Acting-Chairman-amidst-intraparty-crisis/56-760500) · `en`
+
+Sri Lanka Freedom Party (SLFP) politburo appointed SLFP Senior Vice President Nimal Siripala de Silva as its Acting Chairman yesterday replacing the embattled Chairman Maithripala Sirisena who now faces a barrage of legal challenges to secure his post.
+
+The appointment was initiated by the SLFP faction led by former party leader Chandrika Bandaranaike Kumaratunga. This decision followed an interim injunction issued by the Colombo District Court last week, which prohibited SLFP Chairman Maithripala Sirisena from carrying out his duties in the position. This injunction stemmed from a complaint filed by Kumaratunga claiming Sirisena was unsuitable to carry out the role.
+
+...
+
+[Data](articles/8ee5cb0a.json)
+
+---
+
+### President pays homage to Sri Maha Bodhi
+
+*2024-04-09 01:22:38* · [`dailyftlk`](https://www.ft.lk/news/President-pays-homage-to-Sri-Maha-Bodhi/56-760499) · `en`
+
+President Ranil Wickremesinghe paid homage to the historic Jaya Sri Maha Bodhi on Saturday and received blessings.
+
+Later, he took park in the traditional “Aluth Sahal Mangalyaya” (New Rice Festival) in Anuradhapura.
+
+He also called on the Chief Incumbent of Atamasthana Venerable Pallegama Hemarathana Thero to inquire about his well-being and engaged in a brief discussion.
+
+◼️
+
+[Data](articles/e4aa922a.json)
+
+---
+
+### SL Journalists for Global Justice wants Govt. be alert to West Asian war threat by Israel
+
+*2024-04-09 01:22:03* · [`dailyftlk`](https://www.ft.lk/news/SL-Journalists-for-Global-Justice-wants-Govt-be-alert-to-West-Asian-war-threat-by-Israel/56-760498) · `en`
+
+The Sri Lanka Journalists for Global Justice (SLJGJ) yesterday alerted Sri Lankans and the Government to the  imminent threat of war engulfing the entire West Asian region due to the current Israeli Government’s expanding military aggression beyond Palestine to its immediate neighbouring
+
+In a statement, the SLJGJ points out that West Asia is Sri Lanka’s most important source of oil and gas as  well as the home of our migrant workers. Already, oil prices are volatile due to the existing  uncertainties regarding supply and the rising costs of shipping and insurance.
+
+Meanwhile, in the recent months since the launch of the Israeli government’s military  operations against Palestinian territories, a war-like atmosphere has extended throughout the  entire neighbouring region. The entire Arab world in the neighbourhood has been affected by the tensions and livelihood uncertainties.
+
+...
+
+[Data](articles/7d7ebf26.json)
+
+---
+
+### Harnessing value from diversity - Part II: A few management tips
+
+*2024-04-09 01:11:22* · [`dailyftlk`](https://www.ft.lk/columns/Harnessing-value-from-diversity-Part-II-A-few-management-tips/4-760489) · `en`
+
+Could Sri Lankan corporate and public sector leaders harness the best from the five generations at the workplace?
+
+The name of the game is teamwork. The objective is the development of a high-performance team, not star individuals
+
+In the Part I of this article, I talked about the challenge the leaders would have to be prepared to tackle when they are dealing with multi-generations at the workplace. However, the diversity in a multigenerational team is something good to have and it gives an opportunity for the leaders to harness the good.
+
+The following management tips will be useful for the leaders in this endeavour.
+
+...
+
+[Data](articles/98ce4862.json)
+
+---
+
+### The new era of business resilience: Navigating uncharted waters
+
+*2024-04-09 01:08:27* · [`dailyftlk`](https://www.ft.lk/columns/The-new-era-of-business-resilience-Navigating-uncharted-waters/4-760488) · `en`
+
+In the turbulent sea of today’s business landscape, resilience isn’t just about weathering the storm—it’s about harnessing its power to propel a company forward. As global events reshape the world around us, businesses face unprecedented challenges that demand agility, foresight, and innovation.
+
+Resilience isn’t a passive trait; it’s a dynamic force that drives us to thrive in the face of adversity. Seizing opportunities for growth is something we constantly work to achieve at CTC, instead of simply bouncing back from challenges. Guided by our core values, we embrace change, anticipate the unexpected, and transform obstacles into stepping stones towards success.
+
+...
+
+[Data](articles/982914c4.json)
+
+---
 
 ### Global shipping giant Maersk opens new warehouse in Sri Lanka
 
@@ -2211,113 +2289,5 @@ Meanwhile, 327 persons belonging to the organized criminal committees have been 
 [Data](articles/0f0a75b2.json)
 
 [Extended Data](ext_articles/0f0a75b2.ext.json)
-
----
-
-### Conspiracy in the government to kill Sinhala culture
-
-*2024-04-08 14:43:28* · [`adalk`](https://www.ada.lk/breaking_news/සිංහල-සංස්කෘතිය-මැරීමේ-ආණ්ඩුවේ-කුමන්ත්‍රණයක්/11-409014) · `si`
-
-Legal Gammanpila criticizes the government for failing to resolve cultural disputes, urging intervention to preserve unique Sinhala traditions.
-
-🟩
-
-Leader of the Leader of the Leader of the Leader of the Leader of the House, Legal Gammanpila says that if the government does not work to resolve the problem of the years. He was addressing a media briefing held today (08.04.2014).
-
-"The government has more than a week for the New Year. But the government has still failed to resolve the dispute about the ritual ritual.
-
-The State's auspicious committee is said to be aimed with the national auspicious committee.What we need to follow now?The people who listened to both parties felt the aimed, but they were not able to rituate the customs.A sense of being a sense of false.The end result is the people away from the rituals. The government should intervene to solve the conflict in this situation.
-
-...
-
-[Data](articles/a9300777.json)
-
-[Extended Data](ext_articles/a9300777.ext.json)
-
----
-
-### “Sri Lanka fails to pay $ 6 billion”
-
-*2024-04-08 14:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-பில்லியன்-டொலர்களை-இலங்கை-செலுத்தத்-தவறிவிட்டது/175-335742) · `ta`
-
-Sri Lanka owes $6 billion since April 2022, despite foreign reserves of $5 billion, UNP leader Patali Champika Ranawaka claims.
-
-🟩
-
-UNP leader Patali Champika Ranawaka said Sri Lanka had failed to pay US $ 6 billion since April 2022, declaring that the country was bankrupt.
-
-He said that this is the reality, although the Central Bank's data shows foreign stocks increasing to US $ 5 billion.
-
-While the CBSL data shows Sri Lanka's foreign reserves reached US $ 5 billion, it is necessary to understand that the amount of unpaid loans has been approximately US $ 6 billion since April 2022.. The amount of loans obtained from the World Bank, ADB and IMF is about $ 3 billion, ”he posted on his X page.
-
-◼️
-
-[Data](articles/02bbf7d7.json)
-
-[Extended Data](ext_articles/02bbf7d7.ext.json)
-
----
-
-### The difference is that this is what this is
-
-*2024-04-08 14:40:22* · [`adalk`](https://www.ada.lk/breaking_news/ඉල්ලපු-වෙනස-තමයි-මේ-දෙන්න-හදන්නෙ/11-409013) · `si`
-
-President Ranil Wickremesinghe announced a new economic development plan for Sri Lanka, with legislation to be presented and passed in June.
-
-🟩
-
-President Ranil Wickremesinghe said that a new economy is being created in the country to bring the country to a rapid development.
-
-The head of the laws relating to the new economy will be presented to Parliament in June and passed in June in June.
-
-President Ranil Wickremesinghe said this at the President's House in Kandy yesterday (07), "the start of the Kandy District Youth Conference yesterday.
-
-◼️
-
-[Data](articles/9b52017a.json)
-
-[Extended Data](ext_articles/9b52017a.ext.json)
-
----
-
-### Kamindu Mendis named ICC Players of the Month
-
-*2024-04-08 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98515/kamindu-mendis-named-icc-players-of-the-month) · `en`
-
-Sri Lanka’s Kamindu Mendis has beat off competition from Ireland pacer Mark Adair and New Zealand speedster Matt Henry to win the ICC Men’s Player of the Month Award for March 2024.
-
-Mendis becomes the third Sri Lankan after Prabath Jayasuriya and Wanindu Hasaranga to win the Men’s Player of the Month prize. The batter sees this award as a source of inspiration for his future in international cricket after historic batting feats in Bangladesh Test victory.
-
-The International Cricket Council (ICC) has revealed the ICC Men’s and Women’s Player of the Month award winners for March 2024 after shortlists were announced last week.
-
-Kamindu Mendis claims the ICC Men’s Player of the Month award after his historic efforts at the crease helped Sri Lanka comfortably win the first Test in their ICC World Test Championship showdown against Bangladesh in Sylhet.
-
-...
-
-[Data](articles/673f57c0.json)
-
-[Extended Data](ext_articles/673f57c0.ext.json)
-
----
-
-### Ten Tim 13 more midwives
-
-*2024-04-08 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195433) · `si`
-
-10 Tim, 13 more midwives, 20 special teams arrested 13 organized crime gangs, 10 persons suspected. From 19th to 07, 327 organized crime gangs arrested.
-
-🟩
-
-Thirteen other organized crime gangs were arrested in the operations carried out by 20 special teams.
-
-A total of 10 persons suspected of supporting crimes with them.
-
-Police said that 327 organized crime gangs have been arrested from the 19th to yesterday (07).
-
-◼️
-
-[Data](articles/4547f657.json)
-
-[Extended Data](ext_articles/4547f657.ext.json)
 
 ---

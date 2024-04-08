@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 17:18:02**
+As of **2024-04-08 17:35:11**
 
 ## Newspaper Stats
 
-*Scraped **17,869** Articles*
+*Scraped **17,876** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,70 +15,198 @@ newsfirstlk | 363
 dailyftlk | 972
 islandlk | 979
 economynextcom | 987
-adalk | 1,503
+adalk | 1,504
 tamilmirrorlk | 2,104
-adaderanalk | 2,153
-virakesarilk | 2,627
+adaderanalk | 2,154
+virakesarilk | 2,631
 dailymirrorlk | 2,727
-adaderanasinhalalk | 2,896
+adaderanasinhalalk | 2,897
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,864 (100.0%) of 17,869 articles have been extended.
+17,869 (100.0%) of 17,876 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தாவுக்கு நாடாளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் கண்டனம்!
+### Tamil Nadu and the Central Government of India should abandon the Kacha island for politics - Secretary of the Northern Province Fisheries Internet
 
-*2024-04-08 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180713) · `ta`
+*2024-04-08 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180751) · `ta`
 
-கிளிநொச்சி பூநகரி பிரதேச செயலகத்திற்குட்பட்ட பொன்னாவெளி கிராமத்தில் சுண்ணக்கல் அகழ்வு க்காக கடந்த 05 ஆம் திகதி சென்றிருந்த போது கிராம மக்களால் எதிர்ப்பு தெரிவிக்கப்பட்டு திருப்பி அனுப்பப்பட்டார்.
+Tamil Nadu and India's Central Govt should abandon Kachchi Island for political reasons, says Northern Province Fisheries Internet Secretary. Despite claims for politics, fishermen are encouraged to engage in illegal fishing. Tamil Nadu demands Kachchi Island's return whenever Indian fishermen are arrested. The central govt has taken advantage of this demand, leading to potential political opposition.
 
-இதில் கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா எதிர்ப்பு போராட்டத்தில் கலந்துகொண்ட மக்களை தாக்கியும் உள்ளார்.
+🟩
 
-இதுதொடர்பாக நாடாளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன்  ஊடகசந்திப்பொன்றை நேற்று ஞாயிற்றுக்கிழமை அறிவகத்தில் நடாத்தியிருந்தார்.
+Kachchi Island is a new stand in the central government and Tamil Nadu. Northern Province Fisheries Internet Secretary
 
-கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தாவின்  நடவடிக்கைகள் இன்று நேற்று அல்ல அவர் பாராளுமன்ற உறுப்பினர்களாக இருந்த போதே தமிழர்களுடைய விரோத நடவடிக்கைகளை கொண்டவர் என்று வெளிப்படையாக எல்லோருக்கும் தெரியும் எனவும் அவருடைய சண்டித்தன அரசியல் அல்லது அடாவடி அரசியல் என்பது யாழ்ப்பாணம் மற்றும் கிளிநொச்சி என பல இடங்களில் அவர் நடந்து கொண்ட விதங்கள் மற்றும் முறைகள் எல்லோராலும் உணரபட்டவைதான் அதனால்தான் அவர் ஒரு தமிழ் தலைவராக மக்களுக்கு வரமுடியவில்லை.
+He was speaking at a media briefing held at the office in Mannar today (8) afternoon.
 
-...
+Kachchi Island is a new stand in the central government and Tamil Nadu. Although they claim it for politics, the fishermen, especially the fishermen who are trying to move from illegal fishing activities, are encouraging them to encourage them and repeat them, illegal fishing, illegally entering the Sri Lankan waters and carrying out fishing.
 
-[Data](articles/91b2e132.json)
+On the one hand, the Central Government of India is very careful that its dominance in Sri Lanka should be stopped in Tamil Nadu. The Government of Tamil Nadu has prevailed many times the Kacha Island answer.
 
----
-
-### கச்ச தீவை அரசியலுக்காக கையாள்வதை தமிழகமும் இந்திய மத்திய அரசும் கைவிட வேண்டும் - வடமாகாண கடற்றொழிலாளர் இணையத்தின் செயலாளர்
-
-*2024-04-08 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180751) · `ta`
-
-இந்தியா மத்திய அரசிலும் தமிழகத்திலும் புதிதாக ஒரு நிலைப்பாடாக கச்சை தீவு விடயம்  தோன்றியுள்ளது. எனவே கச்ச தீவை அரசியலுக்காக கையாள்வதை தமிழகமும் மத்திய அரசும் கைவிட வேண்டும் என வடமாகாண கடற்றொழிலாளர் இணையத்தின் செயலாளர் என் எம்.ஆலம் தெரிவித்தார்.
-
-மன்னாரில் உள்ள அலுவலகத்தில் இன்று திட்கிழமை (8)  மதியம் இடம்பெற்ற ஊடக சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்தார்.
-
-இந்தியா மத்திய அரசிலும் தமிழகத்திலும் புதிதாக ஒரு நிலைப்பாடாக கச்சை தீவு விடயம்  தோன்றியுள்ளது. இதை அவர்கள் அரசியலுக்கு பயன்படுத்த கூறி இருந்தாலும் அங்குள்ள மீனவர்களை குறிப்பாக சட்டவிரோத மீன்பிடி நடவடிக்கைகளில் இருந்து மாற நினைக்கின்ற மீனவர்களை இத்தொழிலில் உள் வாங்கி அவர்களை உற்சாகமூட்டி மீண்டும் மீண்டும் அவர்களை சட்டவிரோத மீன்பிடி நடவடிக்கைக்கும், சட்டவிரோதமாக இலங்கை கடல் பகுதிக்குள் நுழைந்து மீன் பிடி நடவடிக்கையை முன்னெடுக்க ஆதரிப்பதாக காணப்படுகின்றது.
+Tamil Nadu continued to demand that the Kacha Island be recovered at every time the Indian fishermen were arrested.
 
 ...
 
 [Data](articles/27d62656.json)
 
+[Extended Data](ext_articles/27d62656.ext.json)
+
 ---
 
-### ගම්පහ වෙඩිතැබීමක්
+### විද්‍යාපීඨ සම්බන්ධයෙන් හදිසියේම ගත් තීරණය
+
+*2024-04-08 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195440) · `si`
+
+ජාතික අධ්‍යාපන විද්‍යාපීඨවලට ශික්ෂණලාභීන් බඳවාගැනීම යටතේ අයදුම්කිරීමේ කාලසීමාව එළැඹෙන 10 වනදා දක්වා දීර්ඝ කර තිබේ.
+
+2021 හා 2022 වර්ෂයන්හි අ.පො.ස. (උ.පෙළ) ප්‍රතිඵල මත ජාතික අධ්‍යාපන විද්‍යාපීඨ ශික්ෂණලාභීන් සඳහා එම නිවේදනය නිකුත් කර ඇත.
+
+පසුගිය 05 දින සිට අප්‍රේල් 10 වනදා දක්වා අයදුම්පත් යොමුකළ අයදුම්කරුවන්ට, අයදුම්පත්වල සංශෝධනයන් සිදුකළ යුතු නම් අප්‍රේල් 11 වනදා සිට අප්‍රේල් 17 වනදා මධ්‍යම රාත්‍රී 12.00 දක්වා පමණක් ඒ සඳහා අවස්ථාව ලබාදෙන බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+◼️
+
+[Data](articles/a39bdb7a.json)
+
+---
+
+### சாதனைகள் படைக்கும் அல்லு அர்ஜுன் 'புஷ்பா 2' பட டீசர்
+
+*2024-04-08 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/180745) · `ta`
+
+பான் இந்திய அளவிலான ரசிகர்களை சம்பாதித்திருக்கும் தெலுங்கின் முன்னணி நட்சத்திர நடிகரான அல்லு அர்ஜுன் நடிப்பில் தயாராகி இருக்கும் புஷ்பா 2 படத்தின் டீசர் வெளியிடப்பட்டிருக்கிறது.
+
+நடிகர் அல்லு அர்ஜுனின் பிறந்த நாளான ஏப்ரல் எட்டாம் திகதியன்று வெளியிடப்பட்டிருக்கும் இந்த டீசர், வெளியான 45 நிமிடங்களிலேயே இரண்டு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்து வருகிறது.
+
+இயக்குநர் சுகுமார் இயக்கத்தில் உருவாகி வரும் 'புஷ்பா 2' எனும் திரைப்படத்தில் அல்லு அர்ஜுன், ராஷ்மிகா மந்தானா, பகத் பாசில் ஆகியோர் முதன்மையான கதாபாத்திரங்களில் நடிக்கிறார்கள்.
+
+மிர்ஸ்லோ குபா ப்ரோஸெக் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'ராக் ஸ்டார்' தேவி ஸ்ரீ பிரசாத் இசையமைத்திருக்கிறார்.
+
+எக்சன் எண்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை மைத்ரி மூவி மேக்கர்ஸ் மற்றும் சுகுமார் ரைட்டிங்ஸ் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் நவீன்  யெர்னேனி,  வை. ரவிசங்கர் மற்றும் சுகுமார் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/95d89b67.json)
+
+---
+
+### நித்யா மேனன் நடிக்கும் 'டியர் எக்ஸஸ்' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு
+
+*2024-04-08 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180747) · `ta`
+
+தமிழ் திரையுலகின் திறமையான நடிகைகளின் பட்டியலில் முன்னிலை வகிக்கும் நித்யா மேனன்  கதையின் நாயகியாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'டியர் எக்ஸஸ்' எனும் திரைப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது.
+
+இதனை இயக்குநரும், நடிகருமான வெங்கட் பிரபு அவருடைய இணைய பக்கத்தில் வெளியிட்டு படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+
+அறிமுக இயக்குநர் காமினி இயக்கத்தில் உருவாகி வரும் 'டியர் எக்ஸஸ்' எனும் திரைப்படத்தில் நித்யா மேனன், வினய் ராய், நவ்தீப், தீபக் பரம்போல், பிரதிக் பாப்பர் ஆகியோர் முதன்மையான கதாபாத்திரங்களில் நடித்திருக்கிறார்கள்.
+
+பிரீத்தா ஜெயராமன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்தின் படத்தொகுப்பு பணிகளை எம். சரவணன் மேற்கொண்டிருக்கிறார்.
+
+கதையின் நாயகிக்கு முக்கியத்துவம் கொடுத்து உருவாகி இருக்கும் இந்த திரைப்படத்தை பாஸ்க் டைம் தியேட்டர் மற்றும் பொப்டர் மீடியா நெட்வொர்க் ஆகிய பட நிறுவனங்கள் சார்பில் பி ஜி என், ஆதித்யா அஜய் சிங், ராம்கி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/42f5f2a0.json)
+
+---
+
+### வைட் ரோஸ் - விமர்சனம்
+
+*2024-04-08 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180750) · `ta`
+
+நடிகர்கள் : 'கயல்' ஆனந்தி, ஆர். கே. சுரேஷ், ரூசோ ஸ்ரீதரன், விஜித், சசிலயா, பேபி நட்சத்திரா மற்றும் பலர்.
+
+தொடர் கொலைகளை செய்யும் கொலைகாரன் ஒருவனை காவல்துறை அதிகாரிகள் என்கவுண்டர் செய்யும் பணியில் ஈடுபட்டிருக்கும் போது தவறுதலாக பொதுமக்களில் ஒருவர் துப்பாக்கிச் சூட்டுக்கு இரையாகிறார். அவரின் குடும்பம் என்ன ஆனது? அந்த குடும்பத்தினருக்கு காவல்துறையினர் எம்மாதிரியான உதவிகளை செய்தனர்? என்பது போன்ற சில உண்மைச் சம்பவங்களை தழுவி, 'வைட் ரோஸ்' எனும் பெயரில் திரில்லர் ஜேனரிலான திரைப்படத்தை இயக்குநர் கே. ராஜசேகர் தலைமையிலான குழுவினர் உருவாக்கி இருக்கிறார்கள். இந்த திரைப்படம் அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+
+'கயல்' ஆனந்தியின் கணவர் விஜித் வெளிநாட்டிலிருந்து விடுமுறைக்காக தாயகம் வருகிறார். அவர் தனது குழந்தையான பேபி நட்சத்திரா மற்றும் மனைவி 'கயல்' ஆனந்தியுடன் அவரது பிறந்த நாளை வித்தியாசமாக கொண்டாடுவதற்காக வெளியே புறப்படுகிறார்.
+
+...
+
+[Data](articles/d7a113bd.json)
+
+---
+
+### டபுள் டக்கர் - விமர்சனம்
+
+*2024-04-08 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180748) · `ta`
+
+நடிகர்கள் : தீரஜ், ஸ்மிருதி வெங்கட், கோவை சரளா, எம். எஸ். பாஸ்கர், சுனில் ரெட்டி, முனீஸ்காந்த், காளி வெங்கட், கருணாகரன், யாஷிகா ஆனந்த் மற்றும் பலர்.
+
+குழந்தைகள் முதல் பெரியவர்கள் வரை அனைவரையும் கவரும் வகையில் அனிமேஷன் கதாபாத்திரங்களுடன் ஒரு படைப்பை உருவாக்க வேண்டும் என எண்ணியிருக்கும் அறிமுக இயக்குநர் மீரா மெஹதி, தொழில்நுட்ப தரத்துடன் உருவாக்கி இருக்கும் 'டபுள் டக்கர்' அனைவரையும் கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.‌
+
+...
+
+[Data](articles/520ff681.json)
+
+---
+
+### Fisheries Minister Douglas Devananda
+
+*2024-04-08 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180713) · `ta`
+
+Fisheries Minister Douglas Devananda criticized villagers for protesting lime excavation in Ponnaveli, Kilinochchi. He was previously aware of anti-Tamil activities. Devananda's actions, including land acquisition for sand and stone sales, are seen as plundering Tamil resources. The village, a traditional Eelam site, has been protected by native communities for years. The minister's plans to create saltwater warehouses and dig up the Murukkalis have sparked concern.
+
+🟩
+
+The villagers were opposed to the villagers on the 05th of last month for a lime excavation in the village of Ponnaveli, Poonakari Divisional Secretariat, Kilinochchi.
+
+Fisheries Minister Douglas Devananda has also attacked the people who participated in the protest.
+
+Parliamentarian Sivagnanam Sreedharan held a media briefing on Sunday.
+
+Fisheries Minister Douglas Devananda's actions were not yesterday, but when he was a Member of Parliament, he was openly aware that he had the anti -Tamil activities of the Tamils..
+
+If he has identified himself as a Member of Parliament who represents the aspirations of a legitimate honorable Tamils, he should not plunder the resources of the Tamil people and maintain the resources of the Tamil people.
+
+But it is not a matter of fact that it is not a matter of identification as a minister who takes the land of the Tamils, selling sand and selling stone.
+
+...
+
+[Data](articles/91b2e132.json)
+
+[Extended Data](ext_articles/91b2e132.ext.json)
+
+---
+
+### One person killed in shooting in Gampaha
+
+*2024-04-08 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98519/one-person-killed-in-shooting-in-gampaha) · `en`
+
+A person has reportedly been killed in a shooting incident at Katugasthara area in Gampaha, a short while ago.
+
+An unidentified gunman had carried out the shooting at around 04.00 p.m. this evening (08), according to Ada Derana reporter.
+
+The victim, who had sustained serious injuries in the incident, was admitted to Gampaha Hospital for treatment, where he had succumbed to injuries during treatment.
+
+◼️
+
+[Data](articles/97104c1d.json)
+
+---
+
+### Gampaha shooting
 
 *2024-04-08 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195439) · `si`
 
-අද පස්වරු 4ට පමණ නාඳුනන පුද්ගලයෙකු විසින් මෙම වෙඩිතැබීම සිදුකර ඇති බව වාර්තා වෙයි.
+An unknown person shot someone around 4 pm, using a pistol, and was treated at Gampaha Hospital. Police are investigating.
 
-වෙඩි ප්‍රහාරයෙන් බරපතළ තුවාල ලැබූ පුද්ගලයෙකු ප්‍රතිකාර සඳහා ගම්පහ රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව ඔහු මියගොස් තිබේ.
+🟩
 
-පිස්තෝල ගිනි අවියකින් මෙම වෙඩිතැබීම සිදුකර ඇති අතර ගම්පහ පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ ආරම්භ කර ඇත.
+It is reported that this shooting has been carried out by an unknown person around 4 pm.
+
+He was admitted to the Gampaha Hospital for treatment he was admitted to the Gampaha Hospital for treatment.
+
+The shooting was carried out with a pistol firearm while the police have commenced further investigations.
 
 ◼️
 
 [Data](articles/92c80401.json)
+
+[Extended Data](ext_articles/92c80401.ext.json)
 
 ---
 
@@ -420,19 +548,25 @@ He also expressed his commitment to enacting relevant legislation in the future.
 
 ---
 
-### ගාසා තීරයට ශ්‍රී ලංකාවෙන් පාසලක්
+### Sri Lankan school in Gaza
 
 *2024-04-08 15:40:04* · [`adalk`](https://www.ada.lk/breaking_news/ගාසා-තීරයට-ශ්‍රී-ලංකාවෙන්-පාසලක්/11-409016) · `si`
 
-අද ශ්‍රී ලංකාවේ රාමසාන් උපවාසය සිදු කළත් ගාසා තීරයේ ඉතා කණගාටු තත්ත්වයක් උද්ගත වී තිබෙනවා. එහි මුස්ලිම් ප්‍රජාව තිස්පන්දහකගේ පමණ ජීවිත අහිමි වී තිබෙනවා. එම නිසා මෙවර ජාතික රාමසාන් උත්සවය නොපවත්වා එම මුදල් ගාසා තීරයේ මුස්ලිම් ජනතාව වෙනුවෙන් ලබාදීමට අප කටයුතු කළා.
+Sri Lanka's Ramadan fast was dedicated to Gaza, with funds for Muslims there instead of a national ceremony. A school for the Scean was promised post-war, with Sri Lanka opposing the Palestinian state. President Ranil Wickremesinghe highlighted this at the Inftar festival in Kandy.
 
-ඒ වගේම යුද්ධය අවසන් වූ පසුව ගාසා තිරයට පාසලක් ඉදිකර දීමටත් අප පොරොන්දු වී තිබෙනවා. පලස්තීන රාජ්‍යය බිඳ දැමීමට අප කිසිදා සහාය පළ කරන්නේ නැහැ. එම නිසා මෙම යුද්ධය නැවැත්වීම සඳහා අප සහයෝග ලබා දෙනවා.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මහනුවර කටුකැලේ ජුම්මා මුස්ලිම් පල්ලියේ ඊයේ (07) පැවති ඉෆ්තාර් උත්සවයට එක්වෙමිනි.
+Ramadan fast in Sri Lanka today, but the Gaza has been very sorry. The Muslim community has lost about thirty-five. Therefore, we were not given the national Ramadan ceremony this year, we were given the money for the Muslims in Gaza.
+
+Also, after the end of the war, we have promised to build a school to the Scean. We will never support the Palestinian state. Therefore, we are cooperating to stop the war.
+
+President Ranil Wickremesinghe made this statement participating at the Inftar festival held at Katukaley Mosque, Kandy yesterday.
 
 ◼️
 
 [Data](articles/cf4654fd.json)
+
+[Extended Data](ext_articles/cf4654fd.ext.json)
 
 ---
 
@@ -779,6 +913,24 @@ The minister said that the ministry is planning to bring enough fuel for the nex
 [Data](articles/e0a26199.json)
 
 [Extended Data](ext_articles/e0a26199.ext.json)
+
+---
+
+### කොම්පඤ්ඤවීදිය ගුවන් පාලම ජනතා අයිතියට
+
+*2024-04-08 14:30:07* · [`adalk`](https://www.ada.lk/breaking_news/කොම්පඤ්ඤවීදිය-ගුවන්-පාලම-ජනතා-අයිතියට/11-409011) · `si`
+
+කොම්පඤ්ඤවීදිය, විනිසුරු අක්බාර් මාවත හා උත්තරානන්ද මාවත සම්බන්ධ කරමින් දුම්රිය මාර්ගයට ඉහළින් ඉදිකරන ලද ද්විත්ව ගුවන් පාලම ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අද (08) ජනතා අයිතියට පත් කරන ලදී.
+
+මෙම ව්‍යාපෘතියේ සෙසු ඉදිකිරීම් කටයුතු සැප්තැම්බර් මාසය වන විට අවසන් කිරීමට සැලසුම් කර ඇති අතර, සමස්ත ව්‍යාපෘතිය වෙනුවෙන් ඇස්තමේන්තුගත මුදල රුපියල් 5,278,081,272.43කි.
+
+රජයේ කාර්යාල, රෝහල්, ආගමික ස්ථාන, ආපනශාලා, චිත්‍රපට ශාලා ඇතුළු විවිධ ආයතනයන්ගෙන් සමන්විත ඉතා කාර්යබහුල වාණිජ නගරයක් වන කොම්පඤ්ඤවීදිය ප්‍රදේශයේ පිහිටි දුම්රිය හරස් මාර්ගය හේතුවෙන් දෛනිකව පැය 3කට ආසන්න කාලයක් අපතේ යන බවට නිරීක්ෂණය වී තිබේ.
+
+එම ප්‍රමාදය මඟහරවා ගැනීම ඉලක්ක කර මාර්ග සංවර්ධන අධිකාරිය විසින් සිදු කරන මෙම ව්‍යාපෘතියේ ඉදිකිරීම් කටයුතු මාගා ඉංජිනේරු සමාගම (Maga Engineering) විසින් සිදු කරයි.
+
+...
+
+[Data](articles/bca74200.json)
 
 ---
 
@@ -2133,159 +2285,5 @@ Sri Lanka earns billion dollars from tourism in first quarter
 [Data](articles/ca4b8d20.json)
 
 [Extended Data](ext_articles/ca4b8d20.ext.json)
-
----
-
-### "Do not join with bultles"
-
-*2024-04-08 10:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்டிகளுடன்-இணையக்-கூடாது/175-335730) · `ta`
-
-Tissa Attanayake warns Sajith Premadasa against joining with corrupt parties, emphasizing the importance of alliances with pure and people-believing entities. He criticizes the hasty signing of the MoU with NJB MPs, noting the absence of many SJB seniors and the same situation in NJB.
-
-🟩
-
-United People's Power (SJB) National Coordinator Tissa Attanayake has warned his leader Sajith Premadasa to join the party.
-
-Mr. Mr. Last Friday said, "Party tabs should join the pure and people who believe in the people, without contact with corrupt people.". Attanayake was speaking to journalists during the signing of the Memorandum of Understanding with the Nidanayaka Janata Party MPs.
-
-“The SJP Executive Committee gave the party leader the power to alliance with any party. Therefore, we are not against any alliance with NJB. However, we warn the party leader with whom we should join the party, as no coalition will be accepted by the people if we join the wrongdoers, ”he added.
-
-“The Memorandum of Understanding with the NJB MPs team has been signed in a hurry. That is why many SJB members are unknown. I was also engaged in another meeting. That is why I missed it, ”he said.
-
-It is noteworthy that many SJB seniors did not attend the signed event on Friday and NJB had the same situation.
-
-◼️
-
-[Data](articles/bb872491.json)
-
-[Extended Data](ext_articles/bb872491.ext.json)
-
----
-
-### "Do not join the party tabs"
-
-*2024-04-08 10:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சித்-தாவல்-செய்பவர்களுடன்-இணையக்-கூடாது/175-335730) · `ta`
-
-Tissa Attanayake warns Sajith Premadasa against joining party tabs, emphasizing alliances should be with pure and people-believing entities, not corrupt individuals. He criticizes the hasty signing of a MoU with Nidanayaka Janata Party MPs, noting many SJB members were unaware and he missed the event due to another meeting.
-
-🟩
-
-United People's Power (SJB) National Coordinator Tissa Attanayake has warned his leader Sajith Premadasa to join the party.
-
-Mr. Mr. Last Friday said, "Party tabs should join the pure and people who believe in the people, without contact with corrupt people.". Attanayake was speaking to journalists during the signing of the Memorandum of Understanding with the Nidanayaka Janata Party MPs.
-
-“The SJP Executive Committee gave the party leader the power to alliance with any party. Therefore, we are not against any alliance with NJB. However, we warn the party leader with whom we should join the party, as no coalition will be accepted by the people if we join the wrongdoers, ”he added.
-
-“The Memorandum of Understanding with the NJB MPs team has been signed in a hurry. That is why many SJB members are unknown. I was also engaged in another meeting. That is why I missed it, ”he said.
-
-It is noteworthy that many SJB seniors did not attend the signed event on Friday and NJB had the same situation.
-
-◼️
-
-[Data](articles/f98dd9f7.json)
-
-[Extended Data](ext_articles/f98dd9f7.ext.json)
-
----
-
-### President inaugurates flyover linking Kompannavidiya
-
-*2024-04-08 10:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-inaugurates-flyover-linking-Kompannavidiya/108-280386) · `en`
-
-Colombo, April 08 - President Ranil Wickremesinghe inaugurated the flyover spanning the railway line linking Kompannavidiya with Justice Akbar Mawatha & Uttarankanda Mawatha a short while ago.
-
-◼️
-
-[Data](articles/44b2dcba.json)
-
-[Extended Data](ext_articles/44b2dcba.ext.json)
-
----
-
-### President’s Fund announces May payments and new recipient lists for scholarships
-
-*2024-04-08 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98508/presidents-fund-announces-may-payments-and-new-recipient-lists-for-scholarships) · `en`
-
-The President’s Fund is in the final stages of providing scholarships to 6,000 economically disadvantaged students who passed the G.C.E. Ordinary Level Examination in 2022/2023. Payments for outstanding installments from March and April 2024 will be paid together with the May payment, the President’s Media Division (PMD) said.
-
-Issuing a statement, the PMD mentioned that starting March 2024, recipients will receive 24 monthly installments of Rs. 6,000 each.
-
-Meanwhile, the list of selected students will soon be published on the official website (www.presidentsfund.gov.lk) and further details can be accessed through the President’s Fund official Facebook page (www.facebook.com/president.fund).
-
-...
-
-[Data](articles/760d7745.json)
-
-[Extended Data](ext_articles/760d7745.ext.json)
-
----
-
-### Most of the allowance will be paid from today
-
-*2024-04-08 10:49:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிகுதிக்-கொடுப்பனவு-இன்றுமுதல்-வழங்கப்படும்/175-335729) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya announced that civil servants will receive their monthly salary of Rs. from today, with a total of 107 billion rupees allocated, including an increase of almost 13 billion rupees. Salaries for April will be paid by the New Year, with the first priority given to teachers, followed by the armed forces and the provincial council.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya said that the company will be paid a monthly salary of Rs.
-
-Before, in advance of Rs.. The state has paid a part of 10,000 in advance to civil servants. The total calculation of the festive advance for the New Year's Eve of Public Employees. The government has already paid 6 billion.
-
-Usually the government begins to pay salaries to civil servants from the 16th of each month, the first priority teachers' salary, the second is the salary of the armed forces and the third place of the provincial council.
-
-However, the salary for the month of April will be paid to the New Year. The Minister said that the monthly salary of civil servants will be paid monthly on the 25th.
-
-Accordingly, the government has decided to provide a total of 107 billion rupees, including the remaining 5,000 rupees of government employees' salary.. Almost 13 billion rupees has been increased this month than normal salary. "The Minister of State said.
-
-...
-
-[Data](articles/7cb9bbb5.json)
-
-[Extended Data](ext_articles/7cb9bbb5.ext.json)
-
----
-
-### The President's opening of the construction of the bridge at Kombani Road, Colombo
-
-*2024-04-08 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180666) · `ta`
-
-President Ranil Wickremesinghe inaugurated the Kombani Road bridge project in Colombo, connecting Judge Akbar Mawatha and Uttarananda Mawatha. The project, costing Rs 5,278,081,272.43, is nearing completion.
-
-🟩
-
-President Ranil Wickremesinghe was opened today (08) to connect Judge Akbar Mawatha and Uttarananda Mawatha to Colombo Kombani Road.
-
-The scheme will soon be completed and the total cost is estimated at Rs 5,278,081,272.43.
-
-◼️
-
-[Data](articles/36ed4cec.json)
-
-[Extended Data](ext_articles/36ed4cec.ext.json)
-
----
-
-### A part of the passenger aircraft escapes at the top sky
-
-*2024-04-08 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195423) · `si`
-
-A 2015 Boeing 737-800, trapped at Denver International Airport, was moving to Houston when the engine cover fell off at 10,000 feet, with 135 passengers and six crew on board.
-
-🟩
-
-A Boeing 737-800 is trapped at the Denver International Airport, in the Denver International Airport.
-
-The fault was moving to Houston, and after the plane was traveling to Hoostton, and later recovered the plane to the airport.
-
-The plane produced in 2015 was 737 model.
-
-The aircraft was about 10,000 feet at the air as the engine cover was saved. At that time, there were 135 passengers and six staff.
-
-◼️
-
-[Data](articles/76888759.json)
-
-[Extended Data](ext_articles/76888759.ext.json)
 
 ---

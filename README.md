@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 11:18:21**
+As of **2024-04-08 11:33:56**
 
 ## Newspaper Stats
 
-*Scraped **17,768** Articles*
+*Scraped **17,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,118 @@ newsfirstlk | 363
 dailyftlk | 972
 economynextcom | 978
 islandlk | 979
-adalk | 1,491
-tamilmirrorlk | 2,091
+adalk | 1,493
+tamilmirrorlk | 2,092
 adaderanalk | 2,144
-virakesarilk | 2,596
-dailymirrorlk | 2,714
-adaderanasinhalalk | 2,882
+virakesarilk | 2,597
+dailymirrorlk | 2,715
+adaderanasinhalalk | 2,885
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,766 (100.0%) of 17,768 articles have been extended.
+17,768 (100.0%) of 17,776 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### ”கட்சித் தாவல் செய்பவர்களுடன் இணையக் கூடாது”
+### මහින්ද, ලසන්ත සහ දුමින්ද නෙරපීමට එරෙහි වාරණය දීර්ඝ කෙරේ
+
+*2024-04-08 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195426) · `si`
+
+අමාත්‍ය මහින්ද අමරවීර, ලසන්ත අලගියවන්න සහ පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක ව ශ්‍රී ලංකා නිදහස් පක්ෂයෙන් නෙරපීමට ගනු ලැබූ තීරණය ක්‍රියාත්මකවීම වළක්වාලමින් නිකුත්කර තිබෙන වාරණ නියෝගය ලබන 24 වනදා දක්වා දීර්ඝ කරන ලෙස කොළඹ දිසා අධිකරණය නියම කළේය.
+
+තමන්ව  ශ්‍රී ලංකා නිදහස් පක්ෂයෙන් ඉවත් කිරීමට එරෙහිව එම අමාත්‍යවරු විසින් ගොනුකළ පැමිණිලි අද (08) කැඳවනු ලැබූ අවස්ථාවේදී කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා මෙම නියෝග නිකුත් කර තිබේ.
+
+අදාළ පැමිණිලිවල වගඋත්තරකරුවන් වශයෙන් නම් කර සිටි ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති මෛත්‍රිපාල සිරිසේන, වැඩබලන මහලේකම් සාරතී දුෂ්මන්ත මිත්‍රපාල ඇතුළු පිරිසක් නම් කර තිබුණි.
+
+කිසිදු සාධාරණ විනය පරීක්ෂණයකින් තොරව තමන්ව පක්ෂයෙන් නෙරපීමට පක්ෂ කෘත්‍යාධිකාරී මණ්ඩලය විසින් ගනු ලැබූ තීරණය නීතියට පටහැනි බවත් එය බල ශූන්‍ය බවට තීන්දුවක් ලබාදෙන ලෙසත් ඉල්ලා අදාළ අමාත්‍යවරු විසින් මෙම පැමිණිල්ල දිසා අධිකරණය හමුවේ ගොනුකර තිබුණේය.
+
+◼️
+
+[Data](articles/3d3bf273.json)
+
+---
+
+### பிரசவத்தின் போது கணவர் உடனிருக்கும் திட்டம் அறிமுகம்
+
+*2024-04-08 11:05:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரசவத்தின்-போது-கணவர்-உடனிருக்கும்-திட்டம்-அறிமுகம்/175-335731) · `ta`
+
+கொழும்பில் உள்ள பெண்களுக்கான காசல் வைத்தியசாலை பிரசவத்தின் போது பிரசவ அறையில் தந்தைகள் இருப்பதை அனுமதிக்கும் புதிய திட்டத்தை அறிமுகப்படுத்தியுள்ளது.
+
+இது போன்ற ஒரு திட்டத்தை தொடங்கும் முதல் அரசு மருத்துவமனை இது என்று காசல் பெண்களுக்கான மருத்துவமனையின் பணிப்பாளர் வைத்தியர் அஜித் தண்டநாராயணா தெரிவித்தார்.
+
+பிரசவ அறையில் ஒவ்வொரு தாய்க்கும் தனித்தனி அறைகள் தயார் செய்யப்பட்டுள்ளதாக வைத்தியர் தண்டநாராயணா மேலும் தெரிவித்தார்.
+
+"பிரசவத்தின்போது கணவர்கள் மனைவியுடன் இருக்க அனுமதிக்கும் இந்தத் திட்டம், பெண் நல்ல மனநிலையில் குழந்தையைப் பெற்றெடுக்கும் அதே வேளையில், தம்பதியர் மற்றும் பெற்றோருக்கும்  குழந்தைக்கும் இடையேயான உறவையும் வலுப்படுத்தும் ”என்று அவர் கூறினார்.
+
+◼️
+
+[Data](articles/928d09d8.json)
+
+---
+
+### හිටපු සෞඛ්‍ය ඇමති කෙහෙළිය නැවතත් රිමාන්ඩ්
+
+*2024-04-08 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195425) · `si`
+
+ආන්දෝලනයකට තුඩු දී ඇති ඉමියුනෝග්ලොබියුලීන් සිද්ධිය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටි හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාව අප්‍රේල් 22 වනදා දක්වා නැවතත් රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+
+ඒ මහතා ඇතුළු සැකකරුවන් පිරිසක් ව අද (08) දින මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කෙරිණි.
+
+අප අධිකරණ වාර්තාකරු සඳහන් කළේ පළවෙනි, දෙවැනි, තුන්වැනි, හතරවැනි, හයවැනි, හත්වැනි සහ අටවැනි සැකකරුවන් එහිදී නැවතත් රක්ෂිත බන්ධනාගාරගත කළ බවත් 5 වැනි සැකකරුව ඇප මත මුදාහැරී බවත් ය.
+
+එසේම 10 වන සහ 11 වන සැකකරුවන්ට ඇප දෙනවාද නැත්ද යන්න සම්බන්ධයෙන් තීරණය කිරීම සඳහා ඔවුන්ව නැවතත් 10 වනදා අධිකරණයට ඉදිරිපත් කරන ලෙස මහෙස්ත්‍රාත්වරයා නියෝග කර තිබුණි.
+
+◼️
+
+[Data](articles/f2aac175.json)
+
+---
+
+### ශ්‍රීලනිපයේ ලොකු පුටුවට අලුත් මුහුණක්
+
+*2024-04-08 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195424) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ නව වැඩබලන සභාපතිවරයා ලෙස නිමල් සිරිපාල ද සිල්වා මහතා පත්කර තිබේ.
+
+අද (08) උදෑසන එම පක්ෂයේ හිටපු සභාපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය ඇතුළු ජ්‍යේෂ්ඨයින්ගේ ප්‍රධානත්වයෙන් දේශපාලන මණ්ඩලයේ හදිසි රැස්වීමක් පැවැත්වූ අතර, එහිදී එම තීරණය ගෙන තිබේ.
+
+කෙසේවෙතත් පක්ෂ ව්‍යවස්ථාවට අනුව දේශපාලන මණ්ඩල රැස්වීමක් කැඳවීමට, තීරණයක් ගැනීමට හෝ ඉල්ලීමක් කිරීමට කිසිදු අයිතිවාසිකමක් හෝ බලයක් නොමැති බව නිදහස් පක්ෂ ප්‍රධාන ලේකම් සාරතී දුෂ්මන්ත මිත්‍රපාල මහතා පැවසීය.
+
+එවන් පසුබිමක ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජ්‍යේෂ්ඨ උප සභාපති නිමල් සිරිපාල ද සිල්වා මහතා විසින් දේශපාලන රැස්වීමක් මෙලෙස කැඳවා තිබිණි.
+
+◼️
+
+[Data](articles/1d222e46.json)
+
+---
+
+### "Do not join the party tabs"
 
 *2024-04-08 10:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சித்-தாவல்-செய்பவர்களுடன்-இணையக்-கூடாது/175-335730) · `ta`
 
-ஐக்கிய மக்கள் சக்தி (SJB) தேசிய ஒருங்கிணைப்பாளர் திஸ்ஸ அத்தநாயக்க, கட்சி யாருடன் இணைய வேண்டும் என தமது தலைவர் சஜித் பிரேமதாசவுக்கு எச்சரிக்கை விடுத்துள்ளார்.
+Tissa Attanayake warns Sajith Premadasa against joining party tabs, emphasizing alliances should be with pure and people-believing entities, not corrupt individuals. He criticizes the hasty signing of a MoU with Nidanayaka Janata Party MPs, noting many SJB members were unaware and he missed the event due to another meeting.
 
-"கட்சித் தாவல் செய்பவர்கள், ஊழல் செய்பவர்களுடன் தொடர்பு கொள்ளாமல், தூய்மையான மற்றும் மக்களால் நம்பிக்கை கொண்டவர்களுடன் இணைய வேண்டும்" என்று கடந்த வெள்ளிக்கிழமை திரு. அத்தநாயக்க நிதாஹஸ் ஜனதா கட்சி எம்.பி.க்கள் குழுவுடன் புரிந்துணர்வு உடன்படிக்கையை கைச்சாத்திட்ட நிகழ்வின் போது ஊடகவியலாளர்களிடம் குறிப்பிட்டார்.
+🟩
 
-“எஸ்.ஜே.பி செயற்குழுவானது கட்சித் தலைவருக்கு எந்தக் கட்சியுடனும் கூட்டணி வைக்கும் அதிகாரத்தை வழங்கியது. எனவே, NJB உடனான எந்த கூட்டணிக்கும் நாங்கள் எதிரானவர்கள் அல்ல. எவ்வாறாயினும், தவறானவர்களுடன் நாம் இணைந்தால் எந்தவொரு கூட்டணியும் மக்களால் ஏற்றுக்கொள்ளப்படாது என்பதால், கட்சி யாருடன் இணைய வேண்டும் என்பதை நாங்கள் கட்சித் தலைவருக்கு எச்சரிக்கிறோம், ”என்று அத்தநாயக்க மேலும் கூறினார்.
+United People's Power (SJB) National Coordinator Tissa Attanayake has warned his leader Sajith Premadasa to join the party.
 
-...
+Mr. Mr. Last Friday said, "Party tabs should join the pure and people who believe in the people, without contact with corrupt people.". Attanayake was speaking to journalists during the signing of the Memorandum of Understanding with the Nidanayaka Janata Party MPs.
+
+“The SJP Executive Committee gave the party leader the power to alliance with any party. Therefore, we are not against any alliance with NJB. However, we warn the party leader with whom we should join the party, as no coalition will be accepted by the people if we join the wrongdoers, ”he added.
+
+“The Memorandum of Understanding with the NJB MPs team has been signed in a hurry. That is why many SJB members are unknown. I was also engaged in another meeting. That is why I missed it, ”he said.
+
+It is noteworthy that many SJB seniors did not attend the signed event on Friday and NJB had the same situation.
+
+◼️
 
 [Data](articles/f98dd9f7.json)
+
+[Extended Data](ext_articles/f98dd9f7.ext.json)
 
 ---
 
@@ -66,21 +148,43 @@ Meanwhile, the list of selected students will soon be published on the official 
 
 ---
 
-### மிகுதிக் கொடுப்பனவு இன்றுமுதல் வழங்கப்படும்
+### Most of the allowance will be paid from today
 
 *2024-04-08 10:49:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிகுதிக்-கொடுப்பனவு-இன்றுமுதல்-வழங்கப்படும்/175-335729) · `ta`
 
-அரச ஊழியர்களுக்கு அதிகரிக்கப்பட்ட 10,000 ரூபா கொடுப்பனவின் மீதியான 5,000 ரூபா அவர்களின் மாதாந்த சம்பளத்துடன் சம்பந்தப்பட்ட நிறுவனங்களுக்கு இன்று வழங்கப்படும் என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+Finance Minister Ranjith Siyambalapitiya announced that civil servants will receive their monthly salary of Rs. from today, with a total of 107 billion rupees allocated, including an increase of almost 13 billion rupees. Salaries for April will be paid by the New Year, with the first priority given to teachers, followed by the armed forces and the provincial council.
 
-முன்னதாக, ரூ. 10,000 இன் ஒரு பகுதியை அரசு  அரச ஊழியர்களுக்கு முன்னதாகவே செலுத்தியுள்ளது. அரசு ஊழியர்களின் புத்தாண்டு காலத்துக்கான பண்டிகை முன்பணத்தின் மொத்தக் கணக்கீடு கிட்டத்தட்ட ரூ. 6 பில்லியனை அரசாங்கம் ஏற்கனவே செலுத்தியுள்ளது.
+🟩
 
-வழமையாக அரசாங்கம் ஒவ்வொரு மாதமும் 16 ஆம் திகதி முதல் அரசாங்க ஊழியர்களுக்கு சம்பளம் வழங்க ஆரம்பிக்கிறது, முதல் முன்னுரிமை ஆசிரியர்களின் சம்பளம், இரண்டாவதாக முப்படையினரின் சம்பளம் மற்றும் மூன்றாவது இடத்தில் மாகாண சபை ஊழியர் சம்பளம்.
+Finance Minister Ranjith Siyambalapitiya said that the company will be paid a monthly salary of Rs.
 
-எனினும், புத்தாண்டை முன்னிட்டு ஏப்ரல் மாதத்திற்கான சம்பளம் ஏப்ரல் 10ஆம் திகதி வழங்கப்படும். வழக்கமாக அரசு ஊழியர்களின் மாத சம்பளம் மாதந்தோறும் 25ம் திகதியே வழங்கப்படும் என அமைச்சர் கூறினார்.
+Before, in advance of Rs.. The state has paid a part of 10,000 in advance to civil servants. The total calculation of the festive advance for the New Year's Eve of Public Employees. The government has already paid 6 billion.
+
+Usually the government begins to pay salaries to civil servants from the 16th of each month, the first priority teachers' salary, the second is the salary of the armed forces and the third place of the provincial council.
+
+However, the salary for the month of April will be paid to the New Year. The Minister said that the monthly salary of civil servants will be paid monthly on the 25th.
+
+Accordingly, the government has decided to provide a total of 107 billion rupees, including the remaining 5,000 rupees of government employees' salary.. Almost 13 billion rupees has been increased this month than normal salary. "The Minister of State said.
 
 ...
 
 [Data](articles/7cb9bbb5.json)
+
+[Extended Data](ext_articles/7cb9bbb5.ext.json)
+
+---
+
+### கொழும்பு கொம்பனி வீதிப் பகுதியில் நிர்மாணிக்கப்பட்ட மேம்பாலம் ஜனாதிபதியால் திறப்பு
+
+*2024-04-08 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180666) · `ta`
+
+கொழும்பு கொம்பனி வீதி, நீதிபதி அக்பர் மாவத்தை மற்றும் உத்தரானந்த மாவத்தையை இணைக்கும் வகையில் புகையிரத பாதைக்கு மேலாக நிர்மாணிக்கப்பட்ட மேம்பாலம் இன்று (08) ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் திறந்து வைக்கப்பட்டது.
+
+இத்திட்டம் விரைவில் முழுமைபடுத்தப்படவுள்ளதுடன் அதற்கான மொத்தச் செலவு  5,278,081,272.43 ரூபாய் என மதிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/36ed4cec.json)
 
 ---
 
@@ -153,6 +257,22 @@ The President, despite being popular at home and abroad at home and abroad, focu
 [Data](articles/c715db50.json)
 
 [Extended Data](ext_articles/c715db50.ext.json)
+
+---
+
+### මොරගහහේන ද්විත්ව ඝාතනයේ  සැකකාර ගුවන් සෙබළාට පොලිසියෙන් වෙඩි
+
+*2024-04-08 10:31:35* · [`adalk`](https://www.ada.lk/breaking_news/මොරගහහේන-ද්විත්ව-ඝාතනයේ--සැකකාර-ගුවන්-සෙබළාට-පොලිසියෙන්-වෙඩි/11-409000) · `si`
+
+මොරගහහේන තල්ගහවිල මාලොස්ඇල ප්‍රදේශයේ දී  07දා ත්‍රීරෝද රථයක ගමන් කරමින් සිටි දෙදෙනකුට වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියේ වෙඩික්කරු බව කියන ගුවන් භටයකු අද 08දා අළුයම පාදුක්ක අංගමුව ප්‍රදේශයේ දී පොලිස් වෙඩි පහරකට ලක්ව මිය ගොස් ඇතැයි පාදුක්ක පොලිසිය පවසයි.
+
+බස්නාහිර පලාත් දකුණ අපරාධ කොට්ඨාසයට ලද තොරතුරක් මත මියගිය සැකකරුගේ පාදුක්ක මිරියගල්ල ප්‍රදේශයේ පිහිටි නිවස පොලිස් කණ්ඩායමක් විසින් පරීක්ෂා කර ඇති බවත් එම අවස්ථාවේදී සැකකරු නිවසේ නොසිටි බැවින් පොලිසිය විසින් අංගමුව මංසන්ධියේ මාර්ග බාධකයක් යොදා රථ වාහන පරීක්ෂාවේ යෙදී සිට ඇත.
+
+එලෙස රථ වාහන පරීක්ෂා කරන අතරතුර සැක කටයුතු යතුරු පැදියක් එම ස්ථානයෙන් ධාවනය කර ඇති බවත් එම අවස්ථාවේදී යතුරු පැදිය නවත්වන ලෙස සංඥා කළත් සැකකරු නොනවත්වා යතුරු පැදිය ඉදිරියට ධාවනය කර පොලිස් නිළධාරීන් දෙසට වෙඩි ප්‍රහාරයක් එල්ල කළ අවස්ථාවේදී ආත්මාරක්ෂාව සදහා පොලිසිය ද ප්‍රතිප්‍රහාර එල්ල කිරීමේදී වෙඩි වැදුණු සැකකරු බරපතල තත්වයෙන් පාදුක්ක ප්‍රාදේශීය රෝහලට ඇතුලත් කිරීමෙන් පසු මියගොස් ඇතැයි ද පොලිසිය පවසයි.
+
+...
+
+[Data](articles/84c9304e.json)
 
 ---
 
@@ -489,6 +609,24 @@ However, the salaries for April will be paid on April 10 in view of the New Year
 [Data](articles/223bff8c.json)
 
 [Extended Data](ext_articles/223bff8c.ext.json)
+
+---
+
+### Govt to release April salaries with Rs.10,000 allowance from today
+
+*2024-04-08 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-to-release-April-salaries-with-Rs-10-000-allowance-from-today/108-280356) · `en`
+
+Colombo, April 8 (Daily Mirror) - The balance Rs.5,000 of the increased allowance of Rs.10,000 to government employees will be released to the relevant institutions today along with their monthly salary, Finance State Minister Ranjith Siyambalapitiya said.
+
+Earlier, the government had released the first portion of Rs. 10,000 to government employees. The total calculation of the festival advance of the government employees for the New Year season was nearly Rs. 6 billion, and the government had already paid that.
+
+Usually, the government starts to pay government employees salaries from the 16th of every month, with first priority to teachers' salaries, second to tri-forces salaries and with the Provincil Council employee salaries in the third place.
+
+However, the salaries for April will be paid on April 10 in view of the New Year. Usually, government employees' monthly salaries are on the 25th of every month, he said.
+
+...
+
+[Data](articles/9e4fac97.json)
 
 ---
 
@@ -1950,6 +2088,24 @@ The report further states that this report also states that this report is to in
 
 ---
 
+### ප්‍රභූ ආරක්ෂාවට පොලීසියේ 11000ක්
+
+*2024-04-07 20:35:59* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රභූ-ආරක්ෂාවට-පොලීසියේ-11000ක්/11-408995) · `si`
+
+ශ්‍රී ලංකා පොලීසියට අනුයුක්ත නිලධාරීන් අතුරින් ප්‍රභූ ආරක්ෂක රාජකාරි සඳහා යොදවා ඇති මුළු නිලධාරීන් සංඛ්‍යාව 11,205ක් බවට පාර්ලිමේන්තුවේදී අනාවරණය විය.
+
+විවෘත හා වගකිවයුතු රජයක් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ සභාපති , පාර්ලිමේන්තු මන්ත්‍රී ජගත් කුමාර සුමිත්‍රආරච්චි මහතා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කළ 'ශ්‍රී ලංකා පොලීසිය වඩාත් කාර්යක්ෂම, මිත්‍රශීලී, ප්‍රශස්ත, ජනතා හිතවාදී, විවෘත හා වගකිව යුතු රාජ්‍ය ආයතනයක් බවට පත් කිරීම සඳහා වූ නිර්දේශ' ඇතුළත් වාර්තාවේ මේ බව සඳහන් කර ඇත.
+
+ඒ අනුව ප්‍රභූ ආරක්ෂාවේ නිරත පොලිස් නිලධාරීන්ගේ වගකීම හා කාර්ය භාරය සම්බන්ධයෙන් නියෝජ්‍ය පොලිස්පති විශේෂ ආරක්ෂක දිසාව විසින් කඩිනම් පුහුණු වැඩසටහනක් සම්පාදනය කළ යුතු බවට කාරක සභා වාර්තාවෙන් නිර්දේශ කර තිබේ.
+
+මෙලෙස වාර්තා වූ තොරතුරු අනුව ප්‍රාදේශීය පොලිස් ස්ථාන මඟින් පොලිස් නිලධාරීන් 5,380ක්ද, ප්‍රභූ ආරක්ෂක කොට්ඨාසය මඟින් පොලිස් නිලධාරීන් 4,484ක්ද, විශේෂ කාර්ය බලකා නිලධාරීන් 1,341ක්ද මෙලෙස ප්‍රභූ ආරක්ෂාව සඳහා යොදවා ඇත.
+
+◼️
+
+[Data](articles/82e0bb4a.json)
+
+---
+
 ### SLFP convenes urgent politburo meeting led by CBK
 
 *2024-04-07 20:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98498/slfp-convenes-urgent-politburo-meeting-led-by-cbk-) · `en`
@@ -2043,197 +2199,5 @@ He said he was aware of the incident and to conduct a formal investigation into 
 [Data](articles/f12cc333.json)
 
 [Extended Data](ext_articles/f12cc333.ext.json)
-
----
-
-### Survey Car Pharmatence
-
-*2024-04-07 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195407) · `si`
-
-Wariyapola Police arrested three suspects involved in an accident that interrupted police duties. One was filmed attacking a driver and a police officer.
-
-🟩
-
-Wariyapola Police have arrested three suspects who have been accidental and interrupted the duties of the police officers.
-
-The suspects had been admitted to the Wariyapola town yesterday (06) and had also been involved in the accident.
-
-One of the drunken people were videoed by a mobile phone where the drilling was attacking the driver and the behavior of the police.
-
-◼️
-
-[Data](articles/010271c7.json)
-
-[Extended Data](ext_articles/010271c7.ext.json)
-
----
-
-### Here are the families receiving 20 rice
-
-*2024-04-07 19:50:14* · [`adalk`](https://www.ada.lk/breaking_news/හාල්-කිලේ-20-ලැබෙන-පවුල්-මෙන්න/11-408992) · `si`
-
-The Ministry of Finance allocates 20 kg of rice for Sinhala New Year and Rs. 20000 million for regional development, covering all Divisional Secretariats. Shehan Semasinghe, the Minister of State, emphasizes decentralized budgeting for development, particularly in facilities.
-
-🟩
-
-The Ministry of Finance Shehan Semasinghe says that 20 kg of rice will be allocated for the Sinhala New Year.
-
-Cover every Divisional Secretariat. 20000 million has been allocated for regional development, with Rs. 100,000 million cover all Divisional Secretariats and another Rs. The Ministry of State Shehan Semasinghe says that the Ministry of Finance Shehan is the decentralized budget for the development of the Ministry of Finance, especially the most facilities.
-
-He was speaking at a Janama Hospitality in Anuradhapura (6th) at the village of village.
-
-In July, under the revenue reward program, the state will be able to benefit from Rs.The Minister said.
-
-Once again, he has never been able to build the economy in fifteen years.
-
-◼️
-
-[Data](articles/7c0de4c6.json)
-
-[Extended Data](ext_articles/7c0de4c6.ext.json)
-
----
-
-### Last option: to explore group
-
-*2024-04-07 19:44:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடைசி-விருப்பம்-ஆராய-குழு/175-335708) · `ta`
-
-President Ranil Wickremesinghe announced a new committee to organize funerals for all communities, including Muslims, during an Iftar event at Kattakel School.
-
-🟩
-
-President Ranil Wickremesinghe said that a new committee will be appointed to make necessary arrangements to make necessary arrangements to make the funeral of any of the people, including the Muslim community, and to make the necessary arrangements to make the last option, while addressing the Iftar event held at the Kattakel School School this afternoon (07).
-
-◼️
-
-[Data](articles/8e65f078.json)
-
-[Extended Data](ext_articles/8e65f078.ext.json)
-
----
-
-### The leadership of the country came to the lead
-
-*2024-04-07 19:42:47* · [`adalk`](https://www.ada.lk/breaking_news/රටේ-නායකත්වයට-ආවේ-පරපුරක-උරුමයද-සමගයි/11-408991) · `si`
-
-President Ranil Wickremesinghe addresses UNP's challenges, emphasizing the party's economic recovery efforts and unity. He criticizes the party's internal divisions and external opposition, highlighting the UNP's role in the country's economic crisis and its commitment to improving the economy.
-
-🟩
-
-JR. Jayewardene deals with the President and protect the party under the President of Ranasinghe Premadasa, DB. President Ranil Wickremesinghe said he came to the leadership of Wijetunga and headed the Prime Minister and headed the country with the inheritance of the UNP.
-
-The President said that Sajith Premadasa built the UNP and built the UNP to build the United National Party.
-
-President Ranil Wickremesinghe addressed the UNP action at the President's House in Kandy today (07).
-
-The President, who pointed out the UNP today, there is no policy policies in the UNP today, and the UNP's policies in the UNP today, the UNP is divided into the UNP, but also in the UNP today.He pointed out that more than the journey, he said.
-
-The President has shown that the UNP, who has left the Prime Minister today, is not a policy, but that the United National Party has not been politics today, that the UNP has not been politics today.He declared that the economy of the country was to improve.
-
-...
-
-[Data](articles/be6c4a72.json)
-
-[Extended Data](ext_articles/be6c4a72.ext.json)
-
----
-
-### President appoints committee to protect the Kandyan dance art
-
-*2024-04-07 19:35:15* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-නැටුම්-කලාව-ආරක්ෂා-කිරීමට-ජනපතිගෙන්-කමිටුවක්/11-408990) · `si`
-
-President Ranil Wickremesinghe announced a committee to protect Kandyan dance art, including traditional dancers and relevant institutions. He also advised on pensions for traditional dancers and emphasized the importance of preserving traditional arts like Sabaragamuwa dance.
-
-🟩
-
-President Ranil Wickremesinghe said a committee will be appointed to investigate the art of upgrading of the Kandyan dance art.
-
-The President said that the committee would be instructed to include a representative of traditional dancers in Kandy, including the Ministry of Cultural Affairs and the relevant agencies including the relevant institutions including the relevant institutions.
-
-President Ranil Wickremesinghe made this observation when he met traditional dancers in Kandy this morning.
-
-President Ranil Wickremesinghe also advised Labor Minister Manusha Nanayakkara to look into the pension of traditional dancers in Kandy.
-
-The President also said that the country was familiar with the treasure of the Kandyan dance, but the new committee will also advise the new committee to find a suitable methodology.
-
-The president advised the officials in Kandy regarding several issues that have been faced with working in the field.
-
-...
-
-[Data](articles/5a2f4494.json)
-
-[Extended Data](ext_articles/5a2f4494.ext.json)
-
----
-
-### I protects a dolphin herd in a dolphin herd to a net
-
-*2024-04-07 19:29:05* · [`adalk`](https://www.ada.lk/picture_story/මා-දැලකට-හසුවූ-ඩොල්ෆින්-රංචුවකගේ-දිවි-බේරයි/10-408989) · `si`
-
-Vadamarachchi fishermen captured 11 dolphins, sparking a protest. The Sri Lankan Navy urged caution in dolphin fishing.
-
-🟩
-
-The Vadamarachchi fishermen yesterday evening had taken steps to send 11 dolphins to the coastal of the fishermen who were fishing in the Vadamarachchi Kataraikattill coast, Jaffna.
-
-The fishermen had landed at the fishermen at the time of the fishermen, the dolphin fish had taken place to take up the dolphin fish to the sea.
-
-Fishermen in the area suffered the immediate release of 11 dolphins, using 11 dolphins.
-
-The Sri Lankan Navy has also asked the fishing community to cautify the fish related to fisheries as the dolphin fishing of the Vadamarachchi sea.
-
-◼️
-
-[Data](articles/46bc67b4.json)
-
-[Extended Data](ext_articles/46bc67b4.ext.json)
-
----
-
-### Man arrested for a refuge in Kuwait
-
-*2024-04-07 19:24:51* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-දේවාලයක-කපුවෙක්-යැයි-කියන-පුද්ගලයෙක්-අල්ලයි/11-408988) · `si`
-
-Three suspects arrested in Kuwait for smuggling nearly 4 lakhs of gold. Suspects, including a 38-year-old from Divulgalla Naram, were found with a sword and cigarettes. Police in Elpitiya, Sri Lanka, are investigating.
-
-🟩
-
-Ablipitiya Police today (07), with a sharp white iron silche, who was prevailing in a van of high-ranking gold, were skeptical of nearly 4 lakhs of gold.Have arrested.
-
-The suspects are to be produced at the Elpitiya Magistrate and Madushika Sadugali, police said.
-
-A total of Rs.
-
-The arrested. Jayasuriya Arachchilage Dinuka Madushan (38), a resident of the Divulgalla Naram, Koreawatta, is located in the same resident of Horombamta (46), a resident of Horamba (32), Dambagarigama. Elpitiya Police said that the first and second suspects were also confirmed.
-
-Elpitiya, Kurundugaham Rattamat Sampantha in Elpitiya. The three suspects have been arrested by the government of Elpitiya police. Police have told the police that they came out of the highway and that the garden from Wattala area came to Emaduwa.. During the inspection of the suspects, five manufactured cigarettes and white iron sword have been found in a foreign country.
-
-...
-
-[Data](articles/8ef79cf7.json)
-
-[Extended Data](ext_articles/8ef79cf7.ext.json)
-
----
-
-### ‘Namal has more time to run for presidency’ – Mahinda Rajapaksa
-
-*2024-04-07 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98497/namal-has-more-time-to-run-for-presidency-mahinda-rajapaksa) · `en`
-
-Former President Mahinda Rajapaksa says he is confident that the Sri Lanka Freedom Party (SLFP) will resolve its internal issues soon.
-
-In response to questions raised by journalists in Anuradhapura today (07), the former President also mentioned that the Samagi Jana Balawegaya (SJB) forming an alliance together with former members of the Sri Lanka Podujana Peramuna (SLPP) is not a challenge.
-
-“We have no problem even if ten alliances are formed. It is good that our people [members of SLPP] are everywhere [in the alliances].”
-
-Rajapaksa, who also commented regarding the SLPP’s presidential candidate, claimed that the party will definitely name a candidate for the Presidential Election and that a final decision regarding the candidate will be taken following discussions with the SLPP’s active members.
-
-“Definitely, they will name a candidate. We didn’t summon them [party members] as of yet. We’ll take a decision after holding discussions with them.”
-
-...
-
-[Data](articles/69688621.json)
-
-[Extended Data](ext_articles/69688621.ext.json)
 
 ---

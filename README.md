@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 15:03:14**
+As of **2024-04-08 15:18:36**
 
 ## Newspaper Stats
 
-*Scraped **17,838** Articles*
+*Scraped **17,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 979
 economynextcom | 987
 adalk | 1,499
 tamilmirrorlk | 2,103
-adaderanalk | 2,149
+adaderanalk | 2,150
 virakesarilk | 2,612
 dailymirrorlk | 2,725
 adaderanasinhalalk | 2,891
@@ -26,41 +26,71 @@ adaderanasinhalalk | 2,891
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,835 (100.0%) of 17,838 articles have been extended.
+17,838 (100.0%) of 17,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### பொலிஸாரால் மேலும் 13 பேர் கைது
+### 13 more arrested by police
 
 *2024-04-08 14:44:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாரால்-மேலும்-13-பேர்-கைது/175-335743) · `ta`
 
-20 விசேட பொலிஸ் குழுக்களினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பு நடவடிக்கைகளின் போது, ​​ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பலைச் சேர்ந்த மேலும் 13 பேர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+13 more arrested by police in a raid by 20 special groups. 10 suspects accused of aiding the crime placed under custody. 327 persons from organized criminal committees also arrested.
 
-இவர்களுடன் பல்வேறு தொடர்புகளை வைத்து குற்றச் செயல்களுக்கு உதவி செய்த சந்தேகிக்கப்படும் 10 பேரும் பொலிஸ் காவலில் வைக்கப்பட்டுள்ளனர்.
+🟩
 
-இதேவேளை, கடந்த 19ஆம் திகதி முதல் நேற்று (07) வரையில்  ஒழுங்கமைக்கப்பட்ட குற்றக் குழுக்களை சேர்ந்த 327 பேர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Another 13 persons belonging to the organized criminal gang were arrested during the raid carried out by 20 special police groups, police said.
+
+Ten suspects who have been accused of assisting the crime with various contacts have been placed under police custody.
+
+Meanwhile, 327 persons belonging to the organized criminal committees have been arrested, police said.
 
 ◼️
 
 [Data](articles/0f0a75b2.json)
 
+[Extended Data](ext_articles/0f0a75b2.ext.json)
+
 ---
 
-### ”6 பில்லியன் டொலர்களை இலங்கை செலுத்தத் தவறிவிட்டது”
+### “Sri Lanka fails to pay $ 6 billion”
 
 *2024-04-08 14:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-பில்லியன்-டொலர்களை-இலங்கை-செலுத்தத்-தவறிவிட்டது/175-335742) · `ta`
 
-நாடு திவாலாகிவிட்டதாக அறிவித்த 2022 ஏப்ரல் முதல் 6 பில்லியன் அமெரிக்க டொலர்களை இலங்கை செலுத்தத் தவறிவிட்டதாக ஐக்கிய குடியரசு முன்னணியின் தலைவர் பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+Sri Lanka owes $6 billion since April 2022, despite foreign reserves of $5 billion, UNP leader Patali Champika Ranawaka claims.
 
-மத்திய வங்கியின் தரவுகள் வெளிநாட்டு கையிருப்பு 5 பில்லியன் அமெரிக்க டொலர்களாக அதிகரிப்பதைக் காட்டுகின்ற போதிலும் இதுவே யதார்த்தம் எனவும் அவர் கூறினார்.
+🟩
 
-CBSL தரவுகள் இலங்கையின் வெளிநாட்டு கையிருப்பு 5 பில்லியன் அமெரிக்க டொலர்களை எட்டியிருப்பதைக் காட்டும் அதேவேளையில், ஏப்ரல் 2022 முதல், செலுத்தாத கடனின் தொகை தோராயமாக 6 பில்லியன் அமெரிக்க டொலர்கள் எனப் புரிந்து கொள்ள வேண்டியது அவசியமாகும். உலக வங்கி, ADB மற்றும் IMF இலிருந்து பெறப்பட்ட கடன்களின் தொகை சுமார் 3 பில்லியன் அமெரிக்க டொலர்கள்" என்று அவர் தனது X பக்கத்தில் பதிவிட்டுள்ளார்.
+UNP leader Patali Champika Ranawaka said Sri Lanka had failed to pay US $ 6 billion since April 2022, declaring that the country was bankrupt.
+
+He said that this is the reality, although the Central Bank's data shows foreign stocks increasing to US $ 5 billion.
+
+While the CBSL data shows Sri Lanka's foreign reserves reached US $ 5 billion, it is necessary to understand that the amount of unpaid loans has been approximately US $ 6 billion since April 2022.. The amount of loans obtained from the World Bank, ADB and IMF is about $ 3 billion, ”he posted on his X page.
 
 ◼️
 
 [Data](articles/02bbf7d7.json)
+
+[Extended Data](ext_articles/02bbf7d7.ext.json)
+
+---
+
+### Kamindu Mendis named ICC Players of the Month
+
+*2024-04-08 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98515/kamindu-mendis-named-icc-players-of-the-month) · `en`
+
+Sri Lanka’s Kamindu Mendis has beat off competition from Ireland pacer Mark Adair and New Zealand speedster Matt Henry to win the ICC Men’s Player of the Month Award for March 2024.
+
+Mendis becomes the third Sri Lankan after Prabath Jayasuriya and Wanindu Hasaranga to win the Men’s Player of the Month prize. The batter sees this award as a source of inspiration for his future in international cricket after historic batting feats in Bangladesh Test victory.
+
+The International Cricket Council (ICC) has revealed the ICC Men’s and Women’s Player of the Month award winners for March 2024 after shortlists were announced last week.
+
+Kamindu Mendis claims the ICC Men’s Player of the Month award after his historic efforts at the crease helped Sri Lanka comfortably win the first Test in their ICC World Test Championship showdown against Bangladesh in Sylhet.
+
+...
+
+[Data](articles/673f57c0.json)
 
 ---
 
@@ -126,17 +156,23 @@ He has been working as a worker in the restaurant for the past six years in Mann
 
 ---
 
-### மன்னார் விபத்தில் ஹட்டன் இளைஞன் பலி
+### Hatton youth killed in Mannar accident
 
 *2024-04-08 14:27:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மன்னார்-விபத்தில்-ஹட்டன்-இளைஞன்-பலி/76-335740) · `ta`
 
-மன்னார் -தாழ்வுபாடு பிரதான வீதி ரெலிக்கொம் சந்திக்கு அருகாமையில் ஞாயிற்றுக்கிழமை (7) மாலை இடம்பெற்ற விபத்தில் மன்னாரில் உணவகத்தில் பணியாற்றிவந்த 22 வயதான இளைஞன் பரிதாபமாக மரணமடைந்துள்ளார்
+A 22-year-old Mannar restaurant worker died in an accident Sunday evening, having worked there for six years.
 
-இவர் கடந்த 6 வருடங்களுக்கு மேலாக மன்னார் மாவட்டத்தில் தொழில் நிமித்தம் உணவகங்களில் தொழிலாளியாக பணிபுரிந்து வந்த நிலையில் ஞாயிற்றுக்கிழமை (7) மாலை குறித்த விபத்து இடம்பெற்றுள்ளது. விபத்து இடம் பெற்று சிகிச்சைக்காக மன்னார் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட நிலையில் இளைஞன் பலியாகியுள்ளார்.
+🟩
+
+A 22 -year -old youth who was working at a restaurant in Mannar has died in a tragic accident in Mannar on Sunday evening
+
+He has been working as a worker in the restaurant for the past six years in Mannar district.. The youth has been taken to Mannar Hospital for treatment of an accident.
 
 ◼️
 
 [Data](articles/a74c4e52.json)
+
+[Extended Data](ext_articles/a74c4e52.ext.json)
 
 ---
 
@@ -2255,27 +2291,5 @@ Rescuers had found five survivors and were searching for more, but sea condition
 [Data](articles/7d6c650e.json)
 
 [Extended Data](ext_articles/7d6c650e.ext.json)
-
----
-
-### Showers expected in several provinces and districts
-
-*2024-04-08 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98502/showers-expected-in-several-provinces-and-districts) · `en`
-
-The Meteorology Department says showers or thundershowers may occur at several places in Western, Sabaragamuwa, Southern and North-western provinces and in Monaragala, Mannar and Anuradhapura districts after 2.00 p.m.
-
-Misty conditions can be expected at some places in Western, Central and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-On the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka during 05th to 15th of April in this year.
-
-The nearest areas of Sri Lanka over which the sun is overhead today (08) are Marawila, Pothuhara, Gurukete, Kalmunai, Garthalawela and Warapitiya at about 12:12 noon.
-
-◼️
-
-[Data](articles/176fa828.json)
-
-[Extended Data](ext_articles/176fa828.ext.json)
 
 ---

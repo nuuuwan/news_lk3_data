@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 22:34:35**
+As of **2024-04-08 22:51:26**
 
 ## Newspaper Stats
 
-*Scraped **17,925** Articles*
+*Scraped **17,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 979
 economynextcom | 993
 adalk | 1,512
 tamilmirrorlk | 2,106
-adaderanalk | 2,158
+adaderanalk | 2,159
 virakesarilk | 2,640
 dailymirrorlk | 2,736
 adaderanasinhalalk | 2,906
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,924 (100.0%) of 17,925 articles have been extended.
+17,925 (100.0%) of 17,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### Hamas says Gaza truce talks still deadlocked despite reports of progress
+
+*2024-04-08 22:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98524/hamas-says-gaza-truce-talks-still-deadlocked-despite-reports-of-progress) · `en`
+
+(Reuters) - A Hamas official said on Monday no progress had been made at a new round of talks in Cairo on a ceasefire in the Gaza war after the Egyptian hosts said headway had been achieved on the agenda.
+
+Israel and Hamas sent teams to Egypt on Sunday after the arrival on Saturday of CIA Director William Burns, whose presence underlined rising U.S. pressure for a deal that would free Israeli hostages held in Gaza and get aid to Palestinian civilians. Qatari representatives also attended.
+
+“There is no change in the position of the occupation (Israel) and therefore, there is nothing new in the Cairo talks,” the Hamas official, who asked not to be identified, told Reuters. “There is no progress yet.”
+
+Western powers have voiced concern over the high Palestinian civilian death toll and the humanitarian crisis arising from Israel’s military onslaught to destroy Hamas in the densely populated Gaza Strip.
+
+...
+
+[Data](articles/9f0243ac.json)
+
+---
 
 ### Condemic discovery of dead Air Force officer
 
@@ -54,19 +72,25 @@ Police said he was attached to the Ratmalana camp at the Sri Lanka Air Force.
 
 ---
 
-### கொழும்பு பெரிய பள்ளிவாசலில் தலைப்பிறையை தீர்மானிக்கும் மாநாடு
+### Conference to determine the headline in Colombo big school
 
 *2024-04-08 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/180768) · `ta`
 
-ஹிஜ்ரி 1445 புனித ஷவ்வால் மாத தலைப்பிறையை தீர்மானிக்கும் பிறைக்குழு மாநாடு செவ்வாய்க்கிழமை (09) மாலை மஹ்ரிப் தொழுகையை தொடர்ந்து கொழும்பு பெரிய பள்ளிவாசலில் இடம்பெற இருக்கின்றது.
+The Hijri 1445 Birth Committee Conference to Determine the Title of St. Shawal will be held at the Great School of Colombo on Tuesday evening. Representatives from the Colombo Great School, All Ceylon Jamiyyathul Ulama, and the Department of Muslim Religious Cultural Affairs will attend. The school has requested Muslims to report if they see the Shawal month headline.
 
-இம்மாநாட்டில் கொழும்பு பெரிய பள்ளிவாசல், அகில இலங்கை ஜம்இய்யதுல் உலமா, முஸ்லிம் சமய பண்பாட்டலுவல்கள் திணைக்கள உறுப்பினர்கள் மற்றும் உலமாக்கள் கலந்துகொள்ள இருக்கின்றனர்.
+🟩
 
-நாட்டின் எப்பிரதேசத்திலாவது ஷவ்வால் மாத தலைப்பிறை தென்பட்டால் தகுந்த ஆதாரங்களுடன் 0112432110, 0112451245, 0777316415 என்ற இலக்கத்துடன் தொடர்புகொண்டு அறிவிக்குமாறு கொழும்பு பெரிய பள்ளிவாசல் முஸ்லிம் மக்களை கேட்டுக்கொண்டுள்ளது.
+The Hijri 1445 Birth Committee Conference to Determine the Title of St. Shawal is scheduled to be held at the Great School of Colombo on Tuesday evening (09) evening.
+
+Members of the Colombo Great School, All Ceylon Jamiyyathul Ulama, Members of the Department of Muslim Religious Cultural Affairs and Ulama will attend the conference.
+
+The Colombo big school has urged the Muslim people to report on 0112432110, 0112451245, 077316415 with the appropriate sources if the Shawal month headline is visible in the country.
 
 ◼️
 
 [Data](articles/5fb86b96.json)
+
+[Extended Data](ext_articles/5fb86b96.ext.json)
 
 ---
 
@@ -2335,23 +2359,5 @@ Although the deceased was brutally attacked and collapsed in a tree, police have
 [Data](articles/3f9d8b08.json)
 
 [Extended Data](ext_articles/3f9d8b08.ext.json)
-
----
-
-### Uninterrupted fuel supply during holiday: Kanchana
-
-*2024-04-08 13:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uninterrupted-fuel-supply-during-holiday-Kanchana/108-280393) · `en`
-
-Colombo, April 8 (Daily Mirror) - Power and Energy Minister Kanchana Wijesekera today said there will be an uninterrupted supply of fuel during the holidays.
-
-While posting an X message formerly known as Twitter he said the Ministy has planned to bring sufficient fuel cargos for the next 12 months.
-
-He also said that several advertisements have been published to establish new fuel stations.
-
-◼️
-
-[Data](articles/18b23a05.json)
-
-[Extended Data](ext_articles/18b23a05.ext.json)
 
 ---

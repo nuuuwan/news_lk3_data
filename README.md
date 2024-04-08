@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 12:34:08**
+As of **2024-04-08 12:51:52**
 
 ## Newspaper Stats
 
-*Scraped **17,801** Articles*
+*Scraped **17,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 972
 islandlk | 979
 economynextcom | 983
-adalk | 1,493
+adalk | 1,494
 tamilmirrorlk | 2,096
 adaderanalk | 2,147
 virakesarilk | 2,602
@@ -26,21 +26,27 @@ adaderanasinhalalk | 2,885
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,792 (99.9%) of 17,801 articles have been extended.
+17,801 (100.0%) of 17,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் தலைவராக  அமைச்சர் நிமல் சிறிபால டி சில்வா
+### Minister Nimal Siripala de Silva as the Sri Lanka Freedom Party (SLFP) leader
 
 *2024-04-08 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180691) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் தலைவராக அமைச்சர் நிமல் சிறிபால டி சில்வாவை கட்சியின் அரசியல் குழு  இன்று நியமித்துள்ளது.
+Minister Nimal Siripala de Silva appointed as SLFP leader.
+
+🟩
+
+The party's political committee today appointed Minister Nimal Siripala de Silva as the Sri Lanka Freedom Party (SLFP) leader.
 
 ◼️
 
 [Data](articles/9a175daf.json)
+
+[Extended Data](ext_articles/9a175daf.ext.json)
 
 ---
 
@@ -62,6 +68,8 @@ Sri Lanka imports seeds for various crops from foreign countries.
 
 [Data](articles/ca2b02eb.json)
 
+[Extended Data](ext_articles/ca2b02eb.ext.json)
+
 ---
 
 ### Sri Lanka defaults on USD 6 billion payment despite rising reserves: Patali
@@ -78,57 +86,83 @@ He said this was the reality though the Central Bank data show the increase of f
 
 [Data](articles/d7c7afeb.json)
 
+[Extended Data](ext_articles/d7c7afeb.ext.json)
+
 ---
 
-### வவுனியா பஸ் விபத்தில் மாணவன் படுகாயம்
+### Student injured in Vavuniya bus accident
 
 *2024-04-08 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180687) · `ta`
 
-வவுனியா பத்தினியார் மகிழங்குளம் பகுதியில் பாடசாலைக்கு சென்ற மாணவனை பஸ் மோதியதில் மாணவன் படுகாயம் அடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+A student in Vavuniya was injured in a bus crash near Pathaniyar, hit by a bus to Pudukkulam school.
 
-பத்தினியார் மகிழங்குளம் நோக்கி வந்த பஸ் அதே திசையில் புதுக்குளம் பாடசாலைக்கு துவிச்சக்கர வண்டியில் சென்ற மாணவனை மோதியதிலேயே மாணவன் படுகாயமடைந்தார்.
+🟩
+
+A student who went to school in the Vavuniya Patiniyar area has been admitted to the hospital after a bus crashed into a bus.
+
+The student was injured when a bus that was coming to Pathaniyar was hit by a bus to Pudukkulam school in the same direction.
 
 ◼️
 
 [Data](articles/fb0bca6d.json)
 
+[Extended Data](ext_articles/fb0bca6d.ext.json)
+
 ---
 
-### சாம்பல் மேடாக காணப்படுகின்றது காசாவின் மிகப்பெரிய மருத்துவமனை-அரைகுறையாக புதைக்கப்பட்ட உடல்களை பார்க்க முடிகின்றது - உலக சுகாதார ஸ்தாபனம்
+### Gaya's largest hospital - buried bodies can be seen - World Health Organization
 
 *2024-04-08 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180686) · `ta`
 
-காசாவின் மிகப்பெரிய மருத்துவமனை இஸ்ரேலின் சமீபத்தைய முற்றுகை மற்றும் தாக்குதல் காரணமாக சாம்பல்மேடாகியுள்ளது என தெரிவித்துள்ள உலக சுகாதார ஸ்தாபனம் மருத்துவமனை பல உடல்களுடன் வெறும் இடிபாடாக காணப்படுவதாகவும் தெரிவித்துள்ளது.
+The World Health Organization reports that Gaza's largest hospital, Alzipata, is severely damaged with visible half-buried bodies, including Israeli soldiers. The hospital, once a key health department facility, is now in ruins.
 
-முற்றிலும் அழிவுண்ட நிலையி;ல் காணப்படும் மருத்துவமனைக்கு சென்ற உலக சுகாதார ஸ்தாபனத்தின் பணியாளர்கள் அரைகுறையாக புதைக்கப்பட்ட உடல்கள் கைகால்கள் வெளியில் தெரியும் நிலையில் காணப்படுவதை பார்த்துள்ளனர்.
+🟩
 
-மருத்துவமனையில் பாரிய அழிவையும் பார்வையிட்டுள்ள உலக சுகாதார ஸ்தாபனத்தின் பணியாளர்கள் முற்றுகையின் போது இஸ்ரேலிய படையினர் மிக மோசமான நிலையில்நோயாளிகளை தடுத்துவைத்திருந்தமை  அவர்களில் சிலர் உயிரிழந்தமை  குறித்து அறிந்துள்ளனர்.
+The World Health Organization Hospital has said that Gaza's largest hospital has been a mere wreckage with many bodies.
 
-இரண்டு வாரகால நடவடிக்கையின் பின்னர் கடந்த திங்கட்கிழமை  அல்சிபா மருத்துவமனையிலிருந்து இஸ்ரேலிய படையினர் வெளியேறியிருந்தனர்
+The employees of the World Health Organization who visited the hospital, which is completely destroyed, have seen that the bodies buried in half are visible outside.
 
-இரண்டு வாரங்களாக தாங்கள் மருத்துவமனையின் உள்ளே பாலஸ்தீன தீவிரவாதிகளிற்கு எதிரான நடவடிக்கைகளில் ஈடுபட்டிருந்ததாக அவர்கள் தெரிவித்திருந்தனர்.
+Some of them are aware of the deaths of Israeli soldiers during the siege of the World Health Organization, which has also visited the hospital.
+
+Israeli soldiers left the Alsiba Hospital last Monday after a two -week operation
+
+They said they had been engaged in anti -Palestinian militants inside the hospital for two weeks.
+
+The World Health Organization said that they went into the hospital last Friday, with several efforts to go into the hospital.
+
+We went into the Alzipata Hospital, which was previously the backbone of the Gaza Health Department, and is now seen with human bodies.
+
+There are many shallow human burials in the hospital. The World Health Organization said.
 
 ...
 
 [Data](articles/56850882.json)
 
+[Extended Data](ext_articles/56850882.ext.json)
+
 ---
 
-### கெஹலியவின் விளக்கமறியல் நீட்டிப்பு
+### Keelia
 
 *2024-04-08 12:02:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவின்-விளக்கமறியல்-நீட்டிப்பு/175-335735) · `ta`
 
-சர்ச்சையை ஏற்படுத்திய மருந்து இறக்குமதி சம்பவம் தொடர்பில் விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்லவின் விளக்கமறியல் எதிர்வரும் 22ஆம் திகதி வரை நீட்டிக்கப்பட்டுள்ளது.
+Keheliya Rambukwella's explanation extended to 22nd. Suspects 1-4, 6-8, and 5th were bailed. Magistrate to decide on 10th and 11th suspects' bail.
 
-இந்த வழக்கின் சந்தேக நபர்கள் இன்று (08) மாளிகாகந்த நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டனர்.
+🟩
 
-அங்கு முதலாம், இரண்டாவது, மூன்றாவது, நான்காவது, ஆறாவது, ஏழாவது மற்றும் எட்டாவது சந்தேக நபர்கள் விளக்கமறியலில் வைக்கப்பட்டு ஐந்தாவது சந்தேக நபர் பிணையில் விடுவிக்கப்பட்டதாக தெரிவிக்கப்படுகின்றது.
+Former Health Minister Keheliya Rambukwella's explanation has been extended till the 22nd of this month.
 
-அத்துடன், 10ஆம் மற்றும் 11ஆம் சந்தேக நபர்களுக்கு பிணை வழங்குவதா இல்லையா என்பதை தீர்மானிக்க எதிர்வரும் 10ஆம் திகதி மீண்டும் நீதிமன்றில் முன்னிலைப்படுத்துமாறு நீதவான் உத்தரவிட்டுள்ளார்.
+The suspects of the case were produced before the Magistrate's Court today (08).
+
+It is reported that the first, the second, the third, the fourth, the sixth, the seventh and the eighth suspects were placed on the bail and the fifth suspect was released on bail.
+
+In addition, the magistrate has ordered that the 10th and 11th suspects be granted bail or not.
 
 ◼️
 
 [Data](articles/f9525bdc.json)
+
+[Extended Data](ext_articles/f9525bdc.ext.json)
 
 ---
 
@@ -148,23 +182,31 @@ He highlighted the programme's potential to enhance the birthing experience for 
 
 [Data](articles/a48e7539.json)
 
+[Extended Data](ext_articles/a48e7539.ext.json)
+
 ---
 
-### வெளியேற்றத்துக்கு எதிரான தடை நீட்டிப்பு
+### Extension
 
 *2024-04-08 11:59:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளியேற்றத்துக்கு-எதிரான-தடை-நீட்டிப்பு/175-335733) · `ta`
 
-அமைச்சர் மஹிந்த அமரவீர, லசந்த அழகியவன்ன மற்றும் பாராளுமன்ற உறுப்பினர் துமிந்த திஸாநாயக்க ஆகியோரை ஸ்ரீ லங்கா சுதந்திரக் கட்சியில் இருந்து நீக்குவதற்கு எடுக்கப்பட்ட தீர்மானத்தை அமுல்படுத்துவதை தடுக்கும் வகையில் பிறப்பிக்கப்பட்ட தடை உத்தரவை எதிர்வரும் 24ஆம் திகதி வரை நீடிக்குமாறு கொழும்பு மாவட்ட நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The Colombo District Court banned the implementation of a resolution by the Sri Lanka Freedom Party (SLFP) to remove Minister Mahinda Amaraweera, Lasantha Alagavanna, and Parliamentarian Duminda Dissanayake, following petitions filed by the ministers. The SLFP's leader, Maithripala Sirisena, and General Secretary Sarathi Dushmantha Mithrapala, were named defendants. The party's executive committee members filed a lawsuit, demanding a fair disciplinary inquiry and the cancellation of their removal announcement.
 
-ஸ்ரீ லங்கா சுதந்திரக் கட்சியில் இருந்து நீக்கப்பட்டமைக்கு எதிராக அந்த அமைச்சர்களால் தாக்கல் செய்யப்பட்ட மனுக்கள் இன்று (08)  விசாரணைக்கு  எடுத்துக்கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+🟩
 
-இந்த முறைப்பாடுகளில் பிரதிவாதிகளாக ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் தலைவர் மைத்திரிபால சிறிசேன, பதில் பொதுச் செயலாளர் சாரதி துஷ்மந்த மித்ரபால உள்ளிட்டோர் குறிப்பிடப்பட்டுள்ளனர்.
+The Colombo District Court has ordered the ban issued to prevent the implementation of a resolution taken from the Sri Lanka Freedom Party (SLFP) to the removal of Minister Mahinda Amaraweera, Lasantha Alagavanna and Parliamentarian Duminda Dissanayake.
 
-நியாயமான ஒழுக்காற்று விசாரணையின்றி தம்மை கட்சியில் இருந்து நீக்கி கட்சி செயற்குழு எடுத்த தீர்மானம் சட்டத்துக்கு முரணானது எனவும் அதனை இரத்துசெய்யுமாறு அறிவிக்க வேண்டும் எனவும் கோரி சம்பந்தப்பட்ட உறுப்பினர்கள் வழக்கு தொடர்ந்துள்ளனர்.
+The order was issued when the petitions filed by the ministers were taken up for hearing today (08).
+
+Sri Lanka Freedom Party (SLFP) leader Maithripala Sirisena and General Secretary Sarathi Dushmantha Mithrapala have been referred to as defendants in these complaints.
+
+Members of the relevant members have filed a lawsuit demanding that the party's executive committee's decision to remove themselves from the party without a fair disciplinary inquiry and the announcement of it should be canceled.
 
 ◼️
 
 [Data](articles/517cd52c.json)
+
+[Extended Data](ext_articles/517cd52c.ext.json)
 
 ---
 
@@ -255,6 +297,8 @@ The 38th National Rowing Championship 2024 was held at the Diyawanna Rowing Cent
 ◼️
 
 [Data](articles/bbd85d96.json)
+
+[Extended Data](ext_articles/bbd85d96.ext.json)
 
 ---
 
@@ -399,6 +443,22 @@ Dr. Dandanarayana added that separate rooms have been prepared for every mother 
 [Data](articles/928d09d8.json)
 
 [Extended Data](ext_articles/928d09d8.ext.json)
+
+---
+
+### මව විදෙස්ගත පැමිණෙන තෙක් ඥාතිවරියකට රැකබලා ගැනීමට ගිවිසුමක් මගින් දුන් දැරිය හදිසියේම මරුට
+
+*2024-04-08 11:04:05* · [`adalk`](https://www.ada.lk/breaking_news/මව-විදෙස්ගත-පැමිණෙන-තෙක්-ඥාතිවරියකට-රැකබලා-ගැනීමට-ගිවිසුමක්-මගින්-දුන්-දැරිය-හදිසියේම-මරුට/11-409001) · `si`
+
+ගිවිසුමක් හරහා සමීප ඥාතිවරියකට ලබා දුන් වයස අවුරුදු 4 මාස 7ක් දැරියක සැක කටයුතු ලෙස මියයාමේ සිද්ධියක් සම්බන්ධයෙන් එම කාන්තාවගේ සැමියා ඇතුළු සිවුදෙනකු අත්අඩංගුවට ගත් බව මාලිගාවත්ත පොලීසිය පවසයි.
+
+එම සැකකරු වන (මියගිය දැරියගේ පියා) අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු පහට අඩු දරුවෙක් ගිවිසුමක් හරහා වෙනත් පාර්ශ්වයකට ලබාදීමට කටයුතු කිරීම සම්බන්ධයෙනි.
+
+අත්අඩංගුවට ගත් සෙසු පිරිස අතර දැරිය හදා වඩා ගැනීමට භාරගත් 45 හැවිරිදි කාන්තාවක් ඇයගේ 19 හැවිරිදි දියණිය සහ 15 හැවිරිදි පුතාද වන බව පොලීසිය සඳහන් කරයි. මෙලෙස අවාසනාවන්ත ලෙස මියගොස් තිබුණේ, මාලිගාවත්ත ලක් සෙවන මහල් නිවාස සංකීර්ණයේ තාවකාලිකව පදිංචිව සිටි මොහොමඩ් රිෆ්කාන් හායිසා නමැති දැරියකි.
+
+...
+
+[Data](articles/3260e84f.json)
 
 ---
 
@@ -2105,29 +2165,5 @@ Traffic police who went to the scene are conducting further investigations into 
 [Data](articles/728bdd12.json)
 
 [Extended Data](ext_articles/728bdd12.ext.json)
-
----
-
-### There are no policies of the United National Party today in the United People's Power - President
-
-*2024-04-08 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/180655) · `ta`
-
-President Ranil Wickremesinghe stated that the United National Party (UNP) has no policies in the United People's Power, which is now led by a group expelled from the party. He emphasized the importance of political stability and economic programs for the country's welfare, including the Assembly program for low-income people and a permanent land guarantee scheme for 20 lakh people. He called for unity among political parties to advance the country's economic stability.
-
-🟩
-
-President Ranil Wickremesinghe said that there are no UNP policies in the United People's Power and that its economic policy is now handled by a group that has been expelled from the party.
-
-The President also pointed out that the JHU, who was ready to take over the Sirikotha in 2020, declared the right of the United National Party, and today, the leader of the party, including the party leader.
-
-President Ranil Wickremesinghe made this statement while addressing a meeting of political party representatives held at the Kandy President's House on Sunday (07).
-
-The President pointed out that with the political change in July 2022, the president said that whatever the political party he represented, everyone should consider the country and carry out the government's program.
-
-...
-
-[Data](articles/91db5a69.json)
-
-[Extended Data](ext_articles/91db5a69.ext.json)
 
 ---

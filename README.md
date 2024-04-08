@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 00:33:52**
+As of **2024-04-09 00:48:44**
 
 ## Newspaper Stats
 
-*Scraped **17,932** Articles*
+*Scraped **17,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 159
 bbccomsinhala | 188
 dbsjeyarajcom | 213
 newsfirstlk | 363
-dailyftlk | 972
+dailyftlk | 976
 islandlk | 979
 economynextcom | 995
 adalk | 1,512
 tamilmirrorlk | 2,106
 adaderanalk | 2,160
-virakesarilk | 2,641
+virakesarilk | 2,643
 dailymirrorlk | 2,738
 adaderanasinhalalk | 2,906
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 2,906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,930 (100.0%) of 17,932 articles have been extended.
+17,932 (100.0%) of 17,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### துடுப்பாட்டத்தில் கொல்கத்தா பிரகாசிக்கத் தவறியது; சென்னைக்கு இலகுவான 7 விக்கெட் வெற்றி
+
+*2024-04-09 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180771) · `ta`
+
+கொல்கத்தா நைட் ரைடர்ஸுக்கு எதிராக சென்னை சேப்பாக்கம் எம்.ஏ. சிதம்பரம் விளையாட்டரங்கில் திங்கட்கிழமை (08) நடைபெற்ற இண்டியன் பிறீமியர் லீக் கிரிக்கெட் போட்டியில் சகலதுறைகளிலும் பிரகாசித்த சென்னை சுப்பர் கிங்ஸ் 7 விக்கெட்களால் மிக இலகுவாக வெற்றிபெற்றது.
+
+இந்தியாவில் நடைபெற்றுவரும் 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 22ஆவது போட்டி இதுவாகும்.
+
+இந்தப் போட்டியில் கொல்கத்தா நைட் ரைடர்ஸினால் நிர்ணயிக்கப்பட்ட சுமாரான 138 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய சென்னை சுப்பர் கிங்ஸ் 17.4 ஓவர்களில் 3 விக்கெட்களை இழந்து 141 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+
+கொல்கத்தா நைட் ரைடர்ஸ் அணி  வீரர்களைப் போன்று கவனக்குறைவாக துடுப்பெடுத்தாடாமல் நிதனாத்தைக் கடைப்பிடித்தவாறு வெற்றியை மாத்திரம் குறிவைத்து சென்னை சுப்பர் கிங்ஸ்  வீரர்களைப்   துடுப்பெடுத்தாடி அதனை நிறைவேற்றிக்கொண்டனர்.
+
+ரச்சின் ரவிந்த்ரா 15 ஓட்டங்களுடன் ஆட்டம் இழந்தபோதிலும் டெரில் மிச்செல், ஷிவம் டுபே ஆகியோருடன் சிறப்பான இணைப்பாட்டங்களை ஏற்படுத்தி அணியின் வெற்றியை அணித் தலைவர் ருத்துராஜ் கய்க்வாட் உறுதிசெய்தார்.
+
+...
+
+[Data](articles/b2abf9ae.json)
+
+---
+
+### கண்டியை பசுமை நகரமாக மாற்றுவதற்கு உலக வங்கியிடம் யோசனை முன்வைக்கப்படும் - பந்துல குணவர்தன
+
+*2024-04-09 00:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180770) · `ta`
+
+கண்டியை பசுமை நகரமாக மாற்றுவதற்கு உலக வங்கியிடம் யோசனை முன்வைக்கப்படும் என போக்குவரத்து, நெடுஞ்சாலைகள் மற்றும் வெகுஜன ஊடக அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+
+அடுத்த மூன்று வருடங்களில் பசுமை நகர யோசனையும்,   (The Green City concept) உத்தேச பல்வகை போக்குவரத்து மையமும்  (Multi Transport hub)  கொண்டு செல்லப்படும் என்றும்  அமைச்சர் கூறினார்.
+
+கண்டி நகரில் நிர்மாணிக்கப்பட்டு வரும் பல்வகை போக்குவரத்து நிலையத்தின் அபிவிருத்தியை அவதானித்தல் மற்றும் மீளாய்வு செய்வது தொடர்பாக கண்டி குட்ஷெட் வளாகத்தில்  ஞாயிற்றுக்கிழமை (07) இடம்பெற்ற கலந்துரையாடலின் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+மூவாயிரம்  கோடி ரூபா செலவில் நிர்மாணிக்கப்படவுள்ள புதிய ஊடக மையத்தின் அபிவிருத்தி நடவடிக்கைகளில் தாம் ஈடுபடவில்லையென்றாலும் கூடுதலாக விஸ்தரிக்கப்பட வேண்டிய பல வீதிகள் தொடர்பில் கலந்துரையாடியதாக  தெரிவித்துள்ள அமைச்சர் இத்திட்டத்தின் வெற்றிக்கு வீதி அபிவிருத்தி பாதிப்பை ஏற்படுத்தும் எனவும் அவர் சுட்டிக் காட்டினார்.
+
+...
+
+[Data](articles/706fef28.json)
+
+---
 
 ### Role of Buddhism in fight against caste oppression in Tamil Nadu
 
@@ -48,6 +86,8 @@ In Ceylon, the Buddhist revival was a part of a nationalistic upsurge, the searc
 
 [Data](articles/16c53aaf.json)
 
+[Extended Data](ext_articles/16c53aaf.ext.json)
+
 ---
 
 ### ILO’s Gender Pay Gap report; a scathing indictment against Sri Lanka
@@ -60,9 +100,53 @@ Despite Sri Lanka having been boasting about producing the world’s first woman
 
 [Data](articles/1ba12f04.json)
 
+[Extended Data](ext_articles/1ba12f04.ext.json)
+
 ---
 
 ### 2024-04-08 (Monday)
+
+### Sajith-AKD debate: “People Development” programs of political parties should be discussed
+
+*2024-04-08 22:51:46* · [`dailyftlk`](https://www.ft.lk/columns/Sajith-AKD-debate-People-Development-programs-of-political-parties-should-be-discussed/4-760458) · `en`
+
+Both leaders, Sajith Premadasa (SP) of SJB and Anura Kumara Dissanayake (AKD) of the JVP/NPP have said a few days ago they are willing to debate their economic programs on TV. Yet for now, neither they nor their parties are getting into the logistics of holding such debate in weeks to come. About a month and a half ago Harsha de Silva of SJB invited Sunil Handunneththi the shadow finance minister of the JVP/NPP for a debate on their economic program on TV, but Handunneththi’s position was, leaders as presidential candidates should explain their economic program to the people.
+
+...
+
+[Data](articles/552f8f2f.json)
+
+---
+
+### With a View to a Kill (Master Spy – James Bond)
+
+*2024-04-08 22:50:12* · [`dailyftlk`](https://www.ft.lk/columns/With-a-View-to-a-Kill-Master-Spy-James-Bond/4-760457) · `en`
+
+When former President Sirisena claimed knowledge of the behind the scenes string-pullers of the Easter Sunday carnage, he was being true to the ways and methods of our clan in white native dress
+
+“I know who did it” Maithripala Sirisena on the Easter bombing
+
+Even as long ago as the Greek and Roman eras, playwrights have been engaging with the idea of tragicomedy, the dramatic coexistence of the two opposite elements in the human condition. “All the world’s a stage, and all the men and women merely players” suggested the Bard; characters are inter-changeable, the dramatists introduced men as gods, slaves as masters, a trivialising portrait exemplifying the inherence of the two elements in the one moment, tragedy and comedy. The tragicomedy exaggerates and glorifies the trivial, the banal is presented as climacteric, a burlesque denying authenticity.
+
+...
+
+[Data](articles/3d019c1a.json)
+
+---
+
+### Sri Lanka needs younger directors – those who are wonderfully weird than dreadfully dull
+
+*2024-04-08 22:48:11* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-needs-younger-directors-those-who-are-wonderfully-weird-than-dreadfully-dull/4-760456) · `en`
+
+Should we not have new blood and new thinking in them in staying relevant?
+
+The bottom line is that boards in Sri Lanka are too ‘old school’ and this is hampering Sri Lanka’s march to a new world economy, an economy which is personified by a shift from a manufacturing and commodity base to one which leverages technology in creating products and services at rates which could never be matched by traditional methods
+
+...
+
+[Data](articles/54414dc7.json)
+
+---
 
 ### Rs 200 billion social safety net to support Sri Lanka’s vulnerable populations amid economic turmoil
 
@@ -83,6 +167,22 @@ Additionally, the government’s total expenditure on social welfare initiatives
 [Data](articles/bb7222e8.json)
 
 [Extended Data](ext_articles/bb7222e8.ext.json)
+
+---
+
+### Navigating family business succession
+
+*2024-04-08 22:45:48* · [`dailyftlk`](https://www.ft.lk/columns/Navigating-family-business-succession/4-760455) · `en`
+
+Through the lens of Wilson’s and Samson’s families, the movie inspires to embrace change, foster innovation, honour traditions, and discover new pathways towards success and fulfilment
+
+The renowned actor and director, Giriraj Kaushalya’s latest Sinhala film emerged as a remarkable hit, captivating audiences with irresistible humour. Produced by Basuru Siriwardena for Alankulama films, the movie features popular veteran actors, late Jayalath Manoratne, Mahendra Perera, Rodney Warnakula, Priyantha Seneviratne, Giriraj Kaushalya, Sampath Jayaweera, Gihan Fernando, Maureen Charuni, Jayani Senanayake, Sahan Ranwala, Piyumi Botheju, Ranga Jayakody, alongside the debut performances of Rasanjana Nandasiri and Sandani Hettigoda.
+
+The movie emerges as a beacon of joy, spreading smiles and laughter. As it continues to charm audiences and win hearts, it cements its place as a must-watch cinematic gem in the vibrant landscape of Sri Lankan cinema.
+
+...
+
+[Data](articles/af38b4eb.json)
 
 ---
 
@@ -2217,141 +2317,5 @@ The mother has been transferred to the Monaragala District Hospital General Hosp
 [Data](articles/09a67d04.json)
 
 [Extended Data](ext_articles/09a67d04.ext.json)
-
----
-
-### Kamindu Mendis clinches Player of the Month title for March
-
-*2024-04-08 14:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kamindu-Mendis-clinches-Player-of-the-Month-title-for-March/108-280396) · `en`
-
-Colombo, April 8 (Daily Mirror)- Sri Lanka's cricket sensation, Kamindu Mendis, has secured the ICC Men's Player of the Month Award for March 2024.
-
-Mendis triumphed over formidable contenders, including Ireland's Mark Adair and New Zealand's Matt Henry, to clinch the coveted title.
-
-His stellar performance on the field throughout the month captivated fans and critics alike, solidifying his reputation as one of Sri Lanka's most promising batters.
-
-The announcement, made by the International Cricket Council (ICC), highlights Mendis's remarkable achievements and contributions to the sport, further cementing his status as a rising star in international cricket.
-
-◼️
-
-[Data](articles/87334e9f.json)
-
-[Extended Data](ext_articles/87334e9f.ext.json)
-
----
-
-### 23 including organised criminal gang members arrested by special police teams
-
-*2024-04-08 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98514/23-including-organised-criminal-gang-members-arrested-by-special-police-teams) · `en`
-
-A total of 13 suspects involved in organised crime and 10 other individuals suspected of aiding and abetting them have been arrested, police said.
-
-The suspects in question were arrested during raids carried out by 20 special police teams deployed to combat underworld activities and organised crime in the Southern and Western provinces, parallel to the ongoing ‘Yukthiya’ anti-drug operation.
-
-The twenty-three suspects have been arrested within yesterday (07) during raids carried out by the special police teams attached to Western Province (North) Crimes Division, Western Province (South) Crimes Division, Colombo Crimes Division, Galle Crimes Division and Kalutara Crimes Division.
-
-Police said that in addition to the 13 criminal gang members, another 10 persons who are suspected to have aided and abetted these criminal figures have also been taken into custody.
-
-...
-
-[Data](articles/a9cb2759.json)
-
-[Extended Data](ext_articles/a9cb2759.ext.json)
-
----
-
-### The man who came in Otto escaped the bicycle
-
-*2024-04-08 14:00:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓட்டோவில்-வந்தவர்-சைக்கிளில்-தப்பி-ஓட்டம்/175-335739) · `ta`
-
-A man in Jaffna reported his stolen three-wheeler. The thief escaped on a bicycle, but the police rescued the three-wheeler and arrested the suspect.
-
-🟩
-
-When the police tried to catch a man who had stolen a three -wheeler in Jaffna, the suspect had escaped from a student who was traveling by a student who was on the road.
-
-A man who went to the Jaffna Bodhana Hospital parked his three -wheeler and returned to the hospital, he learned that his three -wheeler had been stolen and immediately lodged a complaint at the Jaffna Police Station.
-
-When the three -wheeler was traveling in front of the Central College in the Jaffna - Kankesanthurai road, the traffic police in the area had seen the three -wheeler.
-
-The suspect then abandoned the three -wheeler and snatched the bicycle of a student who was traveling in a bicycle on the road.
-
-Police have rescued the three -wheeler and have taken steps to arrest the escaped man and the student has received a vote on the seizure of the bicycle.
-
-◼️
-
-[Data](articles/dcee71ed.json)
-
-[Extended Data](ext_articles/dcee71ed.ext.json)
-
----
-
-### Povett, Hagabi is in connection with the President
-
-*2024-04-08 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195431) · `si`
-
-President Ranil Wickremesinghe discusses the economic crisis, the UNP's role, and the party's history, mentioning a reconciliation with Professor GL Peiris and Sri Lankan families.
-
-🟩
-
-President Ranil Wickremesinghe says that Professor GL Peiris and a group of Sri Lankan families have acquired the reconciliation.
-
-President Ranil Wickremesinghe and UNP activists were held at the President's House in Kandy yesterday.
-
-...
-
-[Data](articles/025683cd.json)
-
-[Extended Data](ext_articles/025683cd.ext.json)
-
----
-
-### Sri Lanka’s SJB must inform NPP in writing if Sajith wants debate: Tilvin
-
-*2024-04-08 13:54:00* · [`economynextcom`](https://economynext.com/sri-lankas-sjb-must-inform-npp-in-writing-if-sajith-wants-debate-tilvin-157905/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s main opposition Samagi Jana Balawegaya (SJB) must inform the leftist National People’s Power (NPP) in writing whether or not SJB leader Sajith Premadasa intends to debate NPP leader Anura Kumara Dissanayake, an NPP spokesman said.
-
-Janatha Vimukthi Peramuna (JVP) general secretary Tilvin Silva speaking at an NPP said the SJB is now embroiled in its own debate about who should be sent to debate the NPP.
-
-“They may call us for debates, but they won’t come. We know that it’s just posturing,” said Silva.
-
-“Honestly, this became a nuisance. We tried to ignore it it, but then it got annoying with everyone asking if he wouldn’t go. We said ‘okay, fine, we’ll come’,” she added.
-
-JVP and NPP leader Dissanayake is ready to attend the debate, Silva said, and Premadasa can represent the SJB.
-
-...
-
-[Data](articles/fd9d95da.json)
-
-[Extended Data](ext_articles/fd9d95da.ext.json)
-
----
-
-### General candidate on Tamil party: Suresh Premachandran
-
-*2024-04-08 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180703) · `ta`
-
-Suresh Premachandran, TNA spokesperson, discusses TNA's strategy for the presidential election, including setting up district committees and consulting with civil organizations. The TNA aims to address the economic issues in Sri Lanka, which could lead to solving the national problem of the Tamil people.
-
-🟩
-
-Suresh Premachandran, a spokesman for the Democratic Tamil National Alliance (TNA), said that the Democratic Tamil National Alliance (TNA) will discuss with the Tamil parties in the Tamil National Alliance to appoint a common candidate on the presidential election.
-
-He was speaking to the media after the meeting of the Democratic Tamil National Alliance (TNA) Executive Committee on Saturday (6) at the Vavuniya private hotel.
-
-Strengthening the Democratic Tamil National Alliance. Accordingly, we are carrying out work on setting up groups at the district level.
-
-Committees for 8 districts will be set up at the end of this month. Thereafter all district committees will convene a meeting in Vavuniya on May 25, with a program to carry out our Democratic Tamil National Alliance at the village level.
-
-We are also consulting with others on the presidential election in the next presidential election.
-
-It has now been converted into a diaspora country. Some civil organizations are also working on this.
-
-...
-
-[Data](articles/47ac85d6.json)
-
-[Extended Data](ext_articles/47ac85d6.ext.json)
 
 ---

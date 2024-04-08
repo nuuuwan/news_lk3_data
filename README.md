@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 13:18:00**
+As of **2024-04-08 13:34:04**
 
 ## Newspaper Stats
 
-*Scraped **17,810** Articles*
+*Scraped **17,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ tamilmirrorlk | 2,096
 adaderanalk | 2,148
 virakesarilk | 2,607
 dailymirrorlk | 2,723
-adaderanasinhalalk | 2,885
+adaderanasinhalalk | 2,888
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,809 (100.0%) of 17,810 articles have been extended.
+17,810 (100.0%) of 17,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### හරක් කටා පහසුකම් රැසක් ඉල්ලයි - පැමිණිල්ලේ ප්‍රතිචාරය
+
+*2024-04-08 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195430) · `si`
+
+මේ වනවිට තංගල්ල පැරණි බන්ධනාගාරයේ රඳවා සිටින නදුන් චින්තක වික්‍රමරත්න හෙවත් හරක් කටා නමැති විත්තිකරුට පහසුකම් කීපයක් සලසාදීමට පැමිණිල්ල අද (08) කොළඹ මහාධිකරණය හමුවේ එකඟ වුණි.
+
+හරක් කටා වෙනුවෙන් ඉදිරිපත් කළ මෝසමක් අද කොළඹ මහාධිකරණ විනිසුරු දමිත් තොටවත්ත මහතා ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි  රජයේ නීතිඥවරයා මෙම දැනුම්දීම් කළේය.
+
+අත්අඩංගුවේ පසුවන තමන්ට නීතිඥවරු හමුවීම සඳහා මේ වනවිට ලබාදෙන විනාඩි 15ක කාලය පැයක් දක්වා දීර්ඝ කරන නියෝගයක් නිකුත් කරන මෙන් හරක් කටා සිය මෝසමෙන් ඉල්ලා තිබුණි.
+
+එහෙත් නීතිඥවරුන් හමුවීම සඳහා ලබා දෙන කාලය පැය භාගයක් දක්වා දීර්ඝ කළ හැකි බව රජයේ නීතිඥවරයා සඳහන් කළේය.
+
+විත්තිකරුගේ ආරක්ෂාව සඳහා සීසීටීවී කැමරා පද්ධතියක් ඔහු රඳවා සිටින ස්ථානයේ  ක්‍රියාත්මක වන්නේදැයි වාර්තාවක් කැඳවන ලෙසද එම මෝසමින් ඉල්ලීමක් කර තිබුණි.
+
+...
+
+[Data](articles/3c28401f.json)
+
+---
+
+### ලංකාවේ දේශපාලනය බල අරගලයක් මිස අන් කවරක් නොවේ -සජිත්
+
+*2024-04-08 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195429) · `si`
+
+ශ්‍රී ලංකාවේ දේශපාලනය යනු බල අරගලය මිස අන් කවරක්වත් නොවන බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+සමගි බුද්ධි මණ්ඩපයට ඊයේ (07) එක්වෙමින් විපක්ෂ නායකවරයා සඳහන් කළේ, පැලැන්තියක් රැකගැනීමට උත්සාහ දරන දේශපාලකයන්ට අවස්ථාවක් ලබා නොදිය යුතු බවය.
+
+"දැන් මෙරට දේශපාලන පද්ධතිය අපේ සමාජයේ ගැඹුරින් පවතින බෙදීම් සහ සංස්කෘතිය ප්‍රතිරූපනය කරනවා. ශ්‍රී ලංකාවේ දේශපාලනය අද බල අරගලයකට වඩා වැඩි යමක් නෙවෙයි. සෑම දේශපාලන ප්‍රචාරක ක්‍රමෝපායක්ම සකස් කර ඇත්තේ ඡන්ද පදනම කළමනාකරණය කළ හැකි ආකාරයෙන්. ඒවගේම එය කුලය, පංතිය, ජාතිය ආදී මානයන් ඔස්සේ බෙදා තිබෙනවා. ශ්‍රී ලංකාවේ තිරසාර ප්‍රගතියක් අපේක්ෂා කළ හැක්කේ කුලය, පංතිය, ජාතිය වැනිදෑ අමතක කර කටයුතු කළොත් පමණයි. භීතිය ඇති කරන හෝ විප්ලවකාරී වීමට තැත්කරන දේශපාලනඥයෝ හෝ එක්තරා පංතියක් ආරක්ෂා කිරීමට උත්සාහ කරන දේශපාලනඥයින් පෝෂණය කිරීම අප නතර කළ යුතුයි. සමගි ජන බලවේගයේ අපි අන්ත දක්ෂිණාංශික හෝ අන්ත වාමාංශික මතවාදයක එළඹ සිටින්නේ නැහැ.අප විශ්වාස කරන්නේ සමාජ ප්‍රජාතන්ත්‍රවාදයයි."
+
+මෙම අවස්ථාවට එක්වූ ඉන්දියානු ආර්ථික විශේෂඥයෙක් වූ ආචාර්ය සුරිජිත් බාලා මෙලෙස අදහස් දැක්වීය.
+
+...
+
+[Data](articles/c260e411.json)
+
+---
 
 ### Douglas Devananda's Adavadi and Chanditana Politics are valid for the Tamil people - former Karachi Pradeshiya Sabha member Jeevan ..!
 
@@ -67,6 +105,8 @@ The Colombo Stock Exchange (CSE) will close at 12.00 noon on Wednesday (April 10
 ◼️
 
 [Data](articles/627e26ac.json)
+
+[Extended Data](ext_articles/627e26ac.ext.json)
 
 ---
 
@@ -209,6 +249,28 @@ Steps have been taken to hand over the Katunayaka airport customs officers for f
 [Data](articles/b1d41dbd.json)
 
 [Extended Data](ext_articles/b1d41dbd.ext.json)
+
+---
+
+### තුවක්කුව අතට ගත් රගර් ක්‍රීඩකයා
+
+*2024-04-08 12:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195427) · `si`
+
+හොරණ මාලොස්ඇළ ප්‍රදේශයේදී ඊයේ (07) සිදුකළ ද්විත්ව ඝාතනයේ වෙඩික්කරු ලෙසට කටයුතු කළ බව කියන පුද්ගලයා අද (08) අලුයම පාදුක්ක අංගමුව ප්‍රදේශයේදී පොලිස් වෙඩි පහරට ලක්ව මිය ගොස් තිබුණි.
+
+පොලීසිය සඳහන් කළේ ඔහු ශ්‍රී ලංකා ගුවන් හමුදාවේ රත්මලාන කඳවුරට අනුයුක්තව සක්‍රීය සේවයේ නිරතව සිටි කෝප්‍රල්වරයෙක් බවයි.
+
+හොරණ, මොරගහහේන, මාලොස්ඇළ හන්දිය ප්‍රදේශයේදී ත්‍රිරෝද රථයකින් ගමන් කරමින් සිටි පුද්ගලයින් දෙදෙනෙකු ඉලක්ක කරමින් ඊයේ දහවල් වෙඩිතැබීමක් සිදුකළ අතර ඉන් එම පුද්ගලයින් දෙදෙනාම මිය ගියේය.
+
+වෙඩිතැබීමෙන් පසුව මෝටර් රථය පළාගොස් තිබුණේ පාදුක්ක දෙසට බව CCTV දර්ශන අනුව පොලීසිය අනාවරණ කරගත්තේය.
+
+වෙඩිතැබීමට සම්බන්ධ බව කියන සැකකරුවෙක් සම්බන්ධයෙන් තොරතුරක් පොලීසියට ලැබී තිබුණේ මේ අතරවාරයේදී ය.
+
+ඒ අනුව ක්‍රියාත්මක වූ බස්නාහිර පළාත් දකුණ අපරාධ කොට්ඨාසයේ නිලධාරීන් සහ පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් අද අලුයම 1ට පමණ පාදුක්ක, මිරියගල්ල පන්සල පාර ප්‍රදේශයේ පිහිටි නිවසකට ගොස් එහි පදිංචි පුද්ගලයෙක් ගැන තොරතුරු විමසා තිබුණි.
+
+...
+
+[Data](articles/379d8b57.json)
 
 ---
 
@@ -1080,9 +1142,15 @@ The Israeli Security Force has said that the responsibility of investigating a c
 
 *2024-04-08 10:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98506/president-declares-open-flyover-in-slave-island) · `en`
 
-President Ranil Wickremesinghe inaugurated the flyover spanning the railway line linking Kompannavidiya (Slave Island) with Justice Akbar Mawatha and Uttarankanda Mawatha a short while ago, the President’s Media Division (PMD) reported.
+President Ranil Wickremesinghe inaugurated the flyover spanning the railway line linking Kompanna Veediya with Justice Akbar Mawatha and Uttarankanda Mawatha, today (08).
 
-◼️
+The rest of the construction work of this project is planned to be completed by the month of September, and the estimated amount for the entire project is Rs. 5,278,081,272.43, the President’s Media Division (PMD) reported.
+
+It has been observed that nearly 3 hours of time is wasted daily due to the railway crossing located in Kompanna Veediya area, which is a very busy commercial city with various institutions including government offices, hospitals, religious places, restaurants and movie theatres.
+
+In order to avoid the delay, the construction work of this project, which is implemented by the Road Development Authority, is being carried out by Maga Engineering Company, the PMD said in a statement.
+
+...
 
 [Data](articles/7c460253.json)
 
@@ -2133,57 +2201,5 @@ CH17 Loyalty plans to offer bigger discounts for selected card schemes to reward
 [Data](articles/a5b0fce2.json)
 
 [Extended Data](ext_articles/a5b0fce2.ext.json)
-
----
-
-### CFA Society Sri Lanka Capital Market Awards 2024 to recgonise ESG reporting
-
-*2024-04-08 02:43:29* · [`dailyftlk`](https://www.ft.lk/business/CFA-Society-Sri-Lanka-Capital-Market-Awards-2024-to-recgonise-ESG-reporting/34-760431) · `en`
-
-CFA Society Sri Lanka Vice President and ESG Committee Chair Rashmi Peiris-Paranavitane
-
-The 11th annual CFA Society Sri Lanka Capital Market Awards will be held on 18 June 2024, with a key highlight being the Best ESG Reporting Award conferred for the first time in the history of the signature event. ESG reporting refers to the process of disclosing a company’s performance and practices related to environmental, social, and governance (ESG) factors. It involves communicating relevant information to key stakeholders, including investors, employees, customers, regulators, and the public, about how a company is managing its ESG risks and opportunities.
-
-...
-
-[Data](articles/264dd257.json)
-
-[Extended Data](ext_articles/264dd257.ext.json)
-
----
-
-### Capt. Navin to lead WCOBU’s 150th year celebrations
-
-*2024-04-08 02:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Capt-Navin-to-lead-WCOBUs-150th-year-celebrations/172-280328) · `en`
-
-Wesley College Old Boys Union (WCOBU) witnessed the unanimous reappointment of Capt. Navin de Silva as its
-
-President for the period 2024/25. According to a press release issued by WCOBU, Captain De Silva’s tenure has been marked by remarkable achievements and also uniting the Wesley Old Boys community; culminating in the unforgettable celebration of Wesley College’s Sesquicentennial.
-
-...
-
-[Data](articles/36f07e57.json)
-
-[Extended Data](ext_articles/36f07e57.ext.json)
-
----
-
-### Racist policy of forced cremation
-
-*2024-04-08 02:28:19* · [`dailyftlk`](https://www.ft.lk/columns/Racist-policy-of-forced-cremation/4-760427) · `en`
-
-The whole issue of forced cremation that shook the Muslim community in 2020/21 was entirely rooted in racism.
-
-It is the Gotabaya Government which both piloted and enforced to the full measure this racist policy, aided by experts whom the President himself effectively appointed.
-
-Now that it has been demonstrated, after a series of international setbacks for the Government and the erosion of public trust in Government leaders and experts, the question of tendering an open apology to the Muslim community and to those who opposed the policy tooth and nail as it was ruthlessly enforced has now come up.
-
-As admitted, Thondaman’s Ministry of Water Resources has found out that the COVID-19 virus doesn’t spread through ground water. Perhaps, Ali Sabry’s Ministry of Foreign Affairs may have found out that the damage that this racist policy implemented by the Government, of which he remained an integral part (as Justice Minister), heaped on the country internationally was avoidable but horrendous.
-
-...
-
-[Data](articles/f9e65c20.json)
-
-[Extended Data](ext_articles/f9e65c20.ext.json)
 
 ---

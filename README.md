@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 12:04:07**
+As of **2024-04-08 12:18:15**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 2,885
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,782 (99.9%) of 17,792 articles have been extended.
+17,792 (100.0%) of 17,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### கெஹெலிய விளக்கமறியல் நீடிப்பு!
+### Keheliya Explanation Prolongation!
 
 *2024-04-08 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180680) · `ta`
 
-முன்னாள்  சுகாதார அமைச்சர் கெஹெலிய ரம்புக்வெல்ல உள்ளிட்ட  6 சந்தேக நபர்கள் எதிர்வரும் ஏப்ரல் 22 வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+Keheliya Rambukwella, former health minister, among six, arrested for importing substandard immunoglobulin. Remanded till April 22.
 
-தரமற்ற இம்யூனோகுளோபியூலின்  என்ற மருந்தை இறக்குமதி செய்ததன் காரணமாகவே சந்தேகத்தில் இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+🟩
+
+Six suspects, including former health minister Keheliya Rambukwella, have been remanded till April 22.
+
+They have been arrested on suspicion of importing substandard immunoglobulin.
 
 ◼️
 
 [Data](articles/a18db4fe.json)
 
+[Extended Data](ext_articles/a18db4fe.ext.json)
+
 ---
 
-### கல்முனை வடக்கு பிரதேசமானது பறிபோகுமாயின் கிழக்கு இருப்பு கேள்விக்குறியாக போய்விடும் - கனகரட்ணம் சுகாஷ்
+### If the Kalmunai North is the Eastern Balance of the East - Kanakaratnam Sukash
 
 *2024-04-08 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180684) · `ta`
 
-கல்முனை வடக்கு பிரதேசமானது பறிபோகுமாயின் கிழக்கு இருப்பு கேள்விக்குறியாக போய்விடும். அம்பாறை தமிழ் தேச வரைபடத்தில் இருந்து நீக்கப்படும். ஆகவே மக்கள் சிந்திக்க வேண்டும் என  தமிழ் தேசிய மக்கள் முன்னணியின் ஊடகப் பேச்சாளர் சட்டத்தரணி கனகரட்ணம் சுகாஷ் தெரிவித்துள்ளார்.
+Kanakaratnam Sukash warns that losing Kalmunai North could disrupt the eastern balance and remove Ampara from the Tamil nation map. The Kalmunai North Divisional Secretariat, independent for 34 years, faces administrative repression. This is seen as state terrorism, as it violates the Cabinet decision and the law. The Tamil nation is rallying for justice, with protests continuing for 14 days. The Tamil National Alliance has filed a lawsuit, and the struggle will continue until justice is served.
 
-அம்பாறை மாவட்டம் கல்முனை வடக்கு பிரதேச செயலகத்தின் மீதான தொடர்ச்சியாக நிர்வாக அடக்குமுறைகளுக்கு எதிராக அங்குள்ள பொதுமக்கள் 14 ஆவது  நாளாக ஞாயிற்றுக்கிழமை (07) கவனயீர்ப்பு  பேரணியுடன் போராட்டத்தை முன்னெடுத்து வருகின்ற நிலையில் அங்கு விசேட செய்தியாளர் சந்திப்பில் கலந்து கொண்டு மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-கல்முனை வடக்கு பிரதேச செயலகம் 34 வருடங்களாக ஒரு சுயாதீனமான பிரதேச செயலகமாக இயங்கி வருகின்றது. ஆனால் இங்கு ஒரு தனியான பிரதேச செயலாளர் என்று ஒருவர் இல்லை. இது இலங்கையின் ஆச்சரியங்களில் ஒன்று. கணக்காளர் என்ற ஒருவர் இல்லை. கல்முனை தெற்கு பிரதேச செயலாளரின் ஏதேச்சையான அதிகாரத்தினுள் சட்டவிரோத உத்தரவிற்கு கட்டுப்பட்டு தான் கல்முனை வடக்கு பிரதேச செயலகம் செயற்பட்டு கொண்டு இருக்கின்றது. இது அரச ஏதேச்சை அதிகாரமாகும்.
+If the Kalmunai North is lost, the eastern balance will go into question. Ampara will be removed from the Tamil nation map. The Tamil National People's Front media spokesman Kanakaratnam Sukash said that the people should think.
+
+He was speaking at a special press conference as the public on Sunday (07) is carrying out a protest rally against the continuous administrative repression of the Kalmunai North Divisional Secretariat in Ampara District.
+
+Kalmunai North Divisional Secretariat has been an independent Divisional Secretariat for 34 years. But here is not a separate Divisional Secretary. This is one of the surprises of Sri Lanka. There is no one who is an accountant. The Kalmunai North Divisional Secretariat is in line with the illegal order of the Kalmunai South Divisional Secretary. This is the state's power.
 
 ...
 
 [Data](articles/d1a495a3.json)
+
+[Extended Data](ext_articles/d1a495a3.ext.json)
 
 ---
 
@@ -76,6 +88,8 @@ Janaka Ratnayake filed his petition in his capacity as an electricity consumer a
 
 [Data](articles/ea3a1cf7.json)
 
+[Extended Data](ext_articles/ea3a1cf7.ext.json)
+
 ---
 
 ### SLFP appoints Nimal Siripala as acting Chairman
@@ -92,17 +106,25 @@ The Colombo District Court last week issued an interim injunction, barring forme
 
 [Data](articles/46c60dea.json)
 
+[Extended Data](ext_articles/46c60dea.ext.json)
+
 ---
 
-### சு.காவில் அதிரடி மாற்றம்
+### Action change in SK
 
 *2024-04-08 11:25:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சு-காவில்-அதிரடி-மாற்றம்/175-335732) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் தலைவராக அமைச்சர் நிமல் சிறிபால டி சில்வா, அரசியல் குழுவினால் நியமிக்கப்பட்டுள்ளது. அதன் பதில் செயலாளராக தேசிய அமைப்பாளர்  துமிந்த திசாநாயக்க தெரிவு செய்யப்பட்டுள்ளார்.
+Nimal Siripala de Silva appointed SLFP leader; Duminda Dissanayake elected as National Organizer.
+
+🟩
+
+Minister Nimal Siripala de Silva has been appointed as the Sri Lanka Freedom Party (SLFP) leader. National Organizer Duminda Dissanayake has been elected as its answer.
 
 ◼️
 
 [Data](articles/eed69a6a.json)
+
+[Extended Data](ext_articles/eed69a6a.ext.json)
 
 ---
 
@@ -322,21 +344,33 @@ Sri Lanka earns billion dollars from tourism in first quarter
 
 [Data](articles/ca4b8d20.json)
 
+[Extended Data](ext_articles/ca4b8d20.ext.json)
+
 ---
 
-### ”பல்டிகளுடன் இணையக் கூடாது”
+### "Do not join with bultles"
 
 *2024-04-08 10:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்டிகளுடன்-இணையக்-கூடாது/175-335730) · `ta`
 
-ஐக்கிய மக்கள் சக்தி (SJB) தேசிய ஒருங்கிணைப்பாளர் திஸ்ஸ அத்தநாயக்க, கட்சி யாருடன் இணைய வேண்டும் என தமது தலைவர் சஜித் பிரேமதாசவுக்கு எச்சரிக்கை விடுத்துள்ளார்.
+Tissa Attanayake warns Sajith Premadasa against joining with corrupt parties, emphasizing the importance of alliances with pure and people-believing entities. He criticizes the hasty signing of the MoU with NJB MPs, noting the absence of many SJB seniors and the same situation in NJB.
 
-"கட்சித் தாவல் செய்பவர்கள், ஊழல் செய்பவர்களுடன் தொடர்பு கொள்ளாமல், தூய்மையான மற்றும் மக்களால் நம்பிக்கை கொண்டவர்களுடன் இணைய வேண்டும்" என்று கடந்த வெள்ளிக்கிழமை திரு. அத்தநாயக்க நிதாஹஸ் ஜனதா கட்சி எம்.பி.க்கள் குழுவுடன் புரிந்துணர்வு உடன்படிக்கையை கைச்சாத்திட்ட நிகழ்வின் போது ஊடகவியலாளர்களிடம் குறிப்பிட்டார்.
+🟩
 
-“எஸ்.ஜே.பி செயற்குழுவானது கட்சித் தலைவருக்கு எந்தக் கட்சியுடனும் கூட்டணி வைக்கும் அதிகாரத்தை வழங்கியது. எனவே, NJB உடனான எந்த கூட்டணிக்கும் நாங்கள் எதிரானவர்கள் அல்ல. எவ்வாறாயினும், தவறானவர்களுடன் நாம் இணைந்தால் எந்தவொரு கூட்டணியும் மக்களால் ஏற்றுக்கொள்ளப்படாது என்பதால், கட்சி யாருடன் இணைய வேண்டும் என்பதை நாங்கள் கட்சித் தலைவருக்கு எச்சரிக்கிறோம், ”என்று அத்தநாயக்க மேலும் கூறினார்.
+United People's Power (SJB) National Coordinator Tissa Attanayake has warned his leader Sajith Premadasa to join the party.
 
-...
+Mr. Mr. Last Friday said, "Party tabs should join the pure and people who believe in the people, without contact with corrupt people.". Attanayake was speaking to journalists during the signing of the Memorandum of Understanding with the Nidanayaka Janata Party MPs.
+
+“The SJP Executive Committee gave the party leader the power to alliance with any party. Therefore, we are not against any alliance with NJB. However, we warn the party leader with whom we should join the party, as no coalition will be accepted by the people if we join the wrongdoers, ”he added.
+
+“The Memorandum of Understanding with the NJB MPs team has been signed in a hurry. That is why many SJB members are unknown. I was also engaged in another meeting. That is why I missed it, ”he said.
+
+It is noteworthy that many SJB seniors did not attend the signed event on Friday and NJB had the same situation.
+
+◼️
 
 [Data](articles/bb872491.json)
+
+[Extended Data](ext_articles/bb872491.ext.json)
 
 ---
 
@@ -742,6 +776,8 @@ The Colombo Stock Exchange opened up. The All Share Price Index was up 0.71 perc
 
 [Data](articles/e306f66a.json)
 
+[Extended Data](ext_articles/e306f66a.ext.json)
+
 ---
 
 ### Murder in a garage in a temple
@@ -835,6 +871,8 @@ Under the terms of the agreement 50 percent of the tariffs were liberalized to z
 ...
 
 [Data](articles/76021e11.json)
+
+[Extended Data](ext_articles/76021e11.ext.json)
 
 ---
 
@@ -1321,6 +1359,8 @@ Tourism itself requires fuel for travel and operating hotels.  (Colombo/Apr8/202
 ◼️
 
 [Data](articles/54bcfa68.json)
+
+[Extended Data](ext_articles/54bcfa68.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 14:18:24**
+As of **2024-04-08 14:33:41**
 
 ## Newspaper Stats
 
-*Scraped **17,829** Articles*
+*Scraped **17,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,497
 tamilmirrorlk | 2,098
 adaderanalk | 2,149
 virakesarilk | 2,612
-dailymirrorlk | 2,724
+dailymirrorlk | 2,725
 adaderanasinhalalk | 2,890
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,827 (100.0%) of 17,829 articles have been extended.
+17,829 (100.0%) of 17,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### Kamindu Mendis clinches Player of the Month title for March
+
+*2024-04-08 14:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kamindu-Mendis-clinches-Player-of-the-Month-title-for-March/108-280396) · `en`
+
+Colombo, April 8 (Daily Mirror)- Sri Lanka's cricket sensation, Kamindu Mendis, has secured the ICC Men's Player of the Month Award for March 2024.
+
+Mendis triumphed over formidable contenders, including Ireland's Mark Adair and New Zealand's Matt Henry, to clinch the coveted title.
+
+His stellar performance on the field throughout the month captivated fans and critics alike, solidifying his reputation as one of Sri Lanka's most promising batters.
+
+The announcement, made by the International Cricket Council (ICC), highlights Mendis's remarkable achievements and contributions to the sport, further cementing his status as a rising star in international cricket.
+
+◼️
+
+[Data](articles/87334e9f.json)
+
+---
 
 ### 23 including organised criminal gang members arrested by special police teams
 
@@ -44,23 +62,33 @@ The suspects in question were arrested during raids carried out by 20 special po
 
 [Data](articles/a9cb2759.json)
 
+[Extended Data](ext_articles/a9cb2759.ext.json)
+
 ---
 
-### ஓட்டோவில் வந்தவர் சைக்கிளில் தப்பி ஓட்டம்
+### The man who came in Otto escaped the bicycle
 
 *2024-04-08 14:00:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓட்டோவில்-வந்தவர்-சைக்கிளில்-தப்பி-ஓட்டம்/175-335739) · `ta`
 
-யாழ்ப்பாணத்தில் முச்சக்கர வண்டியை திருடி சென்ற ஒருவரை பொலிஸார் மடக்கி பிடிக்க முற்பட்ட போது , சந்தேகநபர் வீதியால் சென்ற மாணவனின் துவிச்சக்கர வண்டியை பறித்துக்கொண்டு  தப்பி சென்றுள்ள சம்பவம் பதிவாகியுள்ளது .
+A man in Jaffna reported his stolen three-wheeler. The thief escaped on a bicycle, but the police rescued the three-wheeler and arrested the suspect.
 
-யாழ்.போதனா வைத்தியசாலைக்கு  சென்ற ஒருவர் தனது முச்சக்கர வண்டியை அருகில்  நிறுத்தி விட்டு , மருத்துவ மனைக்கு சென்று திரும்பிய போது தனது முச்சக்கர வண்டி களவாடப்பட்டதை அறிந்து அது தொடர்பில் உடனடியாக யாழ்ப்பாணம் பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்துள்ளார்.
+🟩
 
-இந் நிலையில்  களவாடப்பட்ட முச்சக்கர வண்டி,  யாழ்ப்பாணம் - காங்கேசன்துறை வீதியில் இணுவில் மத்திய கல்லூரிக்கு முன்பாக பயணித்த போது , அதனை அப்பகுதியில் கடமையில் இருந்த போக்குவரத்து பொலிஸார் கண்ணுற்று , முச்சக்கர வண்டியை வழிமறித்துள்ளனர்.
+When the police tried to catch a man who had stolen a three -wheeler in Jaffna, the suspect had escaped from a student who was traveling by a student who was on the road.
 
-அப்போது சந்தேக நபர் முச்சக்கர வண்டியை   கைவிட்டு  ,  வீதியில் துவிச்சக்கர வண்டியில் பயணித்துக்கொண்டிருந்த மாணவனின் துவிச்சக்கர வண்டியை பறித்துக்கொண்டு அதில் தப்பியோடியுள்ளார்.
+A man who went to the Jaffna Bodhana Hospital parked his three -wheeler and returned to the hospital, he learned that his three -wheeler had been stolen and immediately lodged a complaint at the Jaffna Police Station.
 
-...
+When the three -wheeler was traveling in front of the Central College in the Jaffna - Kankesanthurai road, the traffic police in the area had seen the three -wheeler.
+
+The suspect then abandoned the three -wheeler and snatched the bicycle of a student who was traveling in a bicycle on the road.
+
+Police have rescued the three -wheeler and have taken steps to arrest the escaped man and the student has received a vote on the seizure of the bicycle.
+
+◼️
 
 [Data](articles/dcee71ed.json)
+
+[Extended Data](ext_articles/dcee71ed.ext.json)
 
 ---
 
@@ -2259,25 +2287,5 @@ The cumulative losses of key 52 SOE’s in 2022 amounted to LKR 744.6Bn, costing
 [Data](articles/16f6caf3.json)
 
 [Extended Data](ext_articles/16f6caf3.ext.json)
-
----
-
-### UK’s revised travel advisory boosts confidence in Sri Lankan tourism
-
-*2024-04-08 04:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UKs-revised-travel-advisory-boosts-confidence-in-Sri-Lankan-tourism/108-280350) · `en`
-
-Sri Lanka’s tourism sector is expecting a multiplier effect across all key source markets following United Kingdom’s recent update on the travel advisory for Sri Lanka, which will immediately result in a significant boost in tourist arrivals in the upcoming summer season.
-
-The Foreign, Commonwealth & Development Office (FCDO) updated its Travel Advisory for Sri Lanka last week, with effect from April 5, after holding on to it since the economic and political crisis.
-
-The President’s Media Division asserted that this update encompasses various aspects including access to emergency medical services, security entry requirements, road safety, overall security situation, and health facility accessibility.
-
-The revised advisory no longer includes previous concerns regarding shortages of food, fuel, and medicine. In addition, the previously mentioned risks related to limitations in health services including the lack of medical equipment, have been omitted.
-
-...
-
-[Data](articles/c3cbdfbb.json)
-
-[Extended Data](ext_articles/c3cbdfbb.ext.json)
 
 ---

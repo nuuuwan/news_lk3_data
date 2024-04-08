@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 07:40:57**
+As of **2024-04-08 07:54:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,871
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,723 (100.0%) of 17,727 articles have been extended.
+17,727 (100.0%) of 17,727 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -638,21 +638,29 @@ Additionally, payments of US$ 22.3 million have been made to the European Invest
 
 ---
 
-### மலைநாட்டு நடனத்தை பாதுகாக்க குழு நியமிப்பு
+### Group assignment to protect mountain dance
 
 *2024-04-08 00:17:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலைநாட்டு-நடனத்தை-பாதுகாக்க-குழு-நியமிப்பு/175-335723) · `ta`
 
-மலைநாட்டு நடனக் கலையைப் பாதுகாத்து, தொடர்ந்து பேணுவதற்கு எடுக்கப்பட வேண்டிய நடவடிக்கைகள் குறித்து ஆராய குழுவொன்று நியமிக்கப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced a committee to protect the mountain dance art, including a representative from the Kandy Traditional Dancers. He also advised the Labor Minister to investigate the dancers' pensions.
 
-கலாச்சார அலுவல்கள் அமைச்சு, கட்புல அரங்கேற்றக் கலைகள் பல்கலைக்கழகம் உள்ளிட்ட நிறுவனங்களைப் பிரதிநிதித்துவப்படுத்தி நியமிக்கப்படும் இந்தக் குழுவில் கண்டி பாரம்பரிய நடனக் கலைஞர்களின் பிரதிநிதி ஒருவரை இணைத்துக் கொள்ள ஆலோசனை வழங்கப்பட்டுள்ளது எனவும் மலைநாட்டு கலை மையமொன்றை உருவாக்க நடவடிக்கை எடுப்பதாகவும் ஜனாதிபதி தெரிவித்தார்.
+🟩
 
-கண்டி ஜனாதிபதி மாளிகையில் நேற்று கண்டி பாரம்பரிய நடன கலைஞர்களைச் சந்தித்த போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க இவ்வாறு குறிப்பிட்டார்.
+President Ranil Wickremesinghe said a committee would be appointed to investigate the steps to be taken to protect and maintain the dance art.
 
-கண்டியின் பாரம்பரிய நடனக் கலைஞர்களுக்கு ஓய்வூதியம் வழங்குவது குறித்து ஆராயுமாறும் தொழில் அமைச்சர் மனுஷ நாணயக்காரவுக்கு ஜனாதிபதி ரணில் விக்கிகிரமசிங்க ஆலோசனை வழங்கினார்.
+The President said that the group, which is represented by the Ministry of Cultural Affairs and the University of Arts and University, has been advised to incorporate a representative of the Kandy Traditional Dancers.
 
-...
+President Ranil Wickremesinghe made this statement when he met the traditional dancers of Kandy yesterday at the Kandy President's House.
+
+President Ranil Wickremesinghe has advised Labor Minister Manusha Nanayakkara to investigate the pension of Kandy's traditional dancers.
+
+Although the dancers are popular at home and abroad, the President focused on the lack of traditional traditions and advised the new committee to examine it and prepare the appropriate method.. (A)
+
+◼️
 
 [Data](articles/0b3f5ece.json)
+
+[Extended Data](ext_articles/0b3f5ece.ext.json)
 
 ---
 

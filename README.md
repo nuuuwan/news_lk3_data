@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 18:51:54**
+As of **2024-04-08 19:03:17**
 
 ## Newspaper Stats
 
-*Scraped **17,896** Articles*
+*Scraped **17,901** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,90 @@ newsfirstlk | 363
 dailyftlk | 972
 islandlk | 979
 economynextcom | 993
-adalk | 1,506
+adalk | 1,507
 tamilmirrorlk | 2,104
 adaderanalk | 2,155
-virakesarilk | 2,634
-dailymirrorlk | 2,731
+virakesarilk | 2,637
+dailymirrorlk | 2,732
 adaderanasinhalalk | 2,900
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,896 (100.0%) of 17,896 articles have been extended.
+17,896 (100.0%) of 17,901 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### Prison Department allows visits for New Year
+
+*2024-04-08 18:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prison-Department-allows-visits-for-New-Year/108-280403) · `en`
+
+Colombo, April 8 (Daily Mirror) - In preparation for the Sinhala and Tamil New Year, the Prisons Department has arranged to allow visitors to see inmates on April 12 and 13.
+
+All prison facilities have been arranged to accept food, sweets and hygiene items brought by inmates' relatives from home, adhering to existing rules and implementing proper health and safety protocols. These items will be provided in quantities suitable for one person only.
+
+◼️
+
+[Data](articles/3a7d491e.json)
+
+---
+
+### காஸா யுத்தம்: ஜேர்மனிக்கு எதிராக சர்வதேச நீதிமன்றில் வழக்கு
+
+*2024-04-08 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180761) · `ta`
+
+இஸ்ரேலுக்கு ஆயுதங்களை வழங்குவதன் மூலம், பலஸ்தீனர்களின் இனப்படுகொலைக்கு ஜேர்மனி உதவுவதாக குற்றம் சுமத்தி, சர்வதேச நீதிமன்றத்தில் நிக்கரகுவா வழக்குத் தொடுத்துள்ளது.
+
+இஸ்ரேலுக்கு ஆயுதங்கள் மற்றும் ஏனைய உதவிகளை வழங்குவதை நிறுத்துமாறு ஜேர்மனிக்கு உத்தரவிட வேண்டும் என நிக்கரகுவா கோரியுள்ளது.
+
+நெதர்லாந்தின் ஹேக் நகரிலுள்ள சர்வதேச நீதிமன்றத்தில் இவ்வழக்கு இன்று திங்கட்கிழமை விசாரணைக்கு வந்தது.
+
+ஒருபுறம், பலஸ்தீன சிறார்கள், பெண்கள், ஆண்களுக்கு வான்வழி விநியோகம் உட்பட மனிதாபிமான உதவிகளை வழங்கிக் கொண்டே மறுபுறம், அவர்களைக் கொல்வதற்கான ஆயுதங்களை இஸ்ரேலுக்கு ஜேர்மனிக் வழங்குகிறது என நிக்கரகுவா சட்டத்தரணி டேனியல் முவெல்லர் நீதிமன்றத்தில் கூறினார்.
+
+இனப்படுகொலைக்கு இந்த ஆயுதங்களை இஸ்ரேல் பயன்படுத்துவதற்கான ஆபத்துள்ளது என்பதை ஜேர்மனி அறிந்துள்ளது என மற்றொரு சட்டத்தரணி அலெய்ன் பெலெட் கூறினார்.
+
+◼️
+
+[Data](articles/164cf2df.json)
+
+---
+
+### நாட்டில் சட்டக் கட்டமைப்புகளும் நவீனமயமாக்கப்பட வேண்டும் - ஜனாதிபதி
+
+*2024-04-08 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180753) · `ta`
+
+நாட்டில் விரைவான பொருளாதார வளர்ச்சியை ஏற்படுத்த அரசாங்கம் ஆரம்பித்துள்ள வேலைத்திட்டம் வெற்றியடைவதற்கு சட்ட கட்டமைப்பும் நவீனமயப்படுத்தப்பட வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+கண்டி மகாவலி ரீச் ஹோட்டலில் ஞாயிற்றுக்கிழமை (07) நடைபெற்ற கண்டி சட்டத்தரணிகளுடனான சிநேகபூர்வ சந்திப்பில் ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+
+சர்வதேச நாணய நிதியத்துடனான வேலைத்திட்டமே இலங்கையின் வீழ்ச்சியடைந்த பொருளாதாரத்தை மீளக் கட்டியெழுப்புவதற்கான விரைவான தீர்வாகும் என சுட்டிக்காட்டிய ஜனாதிபதி, அதன் பயனை மக்களுக்கு வழங்கும் வகையில் சர்வதேச நாணய நிதியத்துடனான ஒப்பந்தத்தை சட்டப்பூர்வமாக்குவதற்கு நடவடிக்கை எடுத்து வருவதாகவும் குறிப்பிட்டார்.
+
+அத்துடன், அனைத்து துறைகளிலும் நவீனமயப்படுத்தப்பட வேண்டும் என்பதற்காக புதிய சட்டக் கட்டமைப்பு கொண்டுவரப்படும் என தெரிவித்த ஜனாதிபதி, அந்த செயற்பாடுகளுக்கு சட்டத்துறையில் உள்ள அனைவரினதும் ஆதரவை எதிர்பார்ப்பதாகவும் தெரிவித்தார்.
+
+...
+
+[Data](articles/e7016c97.json)
+
+---
+
+### புனிதர்களின் 50ஆவது ஒருநாள் கிரிக்கெட் போட்டி: புனித பேதுருவானவர் 3 விக்கெட்களால் வெற்றி
+
+*2024-04-08 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180755) · `ta`
+
+கொழும்பு எஸ்.எஸ்.சி. மைதானத்தில் வார இறுதியில் நடைபெற்ற புனிதர்களின்   50ஆவது வருடாந்த கிரிக்கெட் போட்டியில் புனித சூசையப்பர் கல்லூரியை 3 விக்கெட்களால் புனித பேதுருவானர் கல்லூரி வெற்றிகொண்டு அருட்தந்தை பீட்டர் ஏ. பிள்ளை ஞாபகார்த்த கேடயத்தை சுவீகரித்தது.
+
+இலங்கை பாடசாலைகள் கிரிக்கெட் வரலாற்றில் புனித சூசையப்பர் கல்லூரிக்கும் புனித பேதுருவானவர் கல்லூரிக்கும் இடையிலேயே முதன்முதலாக 1975ஆம் ஆண்டு ஒருநாள் கிரிக்கெட் போட்டி நடைபெற்றது.
+
+அந்த வரலாற்று முக்கியம் வாய்ந்த கிரிக்கெட் போட்டியில் புனித சூசையப்பர் அணித் தலைவராக விளையாடிய துஷான் சொய்ஸா, புனித பேதுருவானவர் அணித் தலைவராக விளையாடிய பேர்னாட் விஜேதுங்க ஆகிய இருவரும் புனிதர்களின் 50ஆவது ஒருநாள் கிரிக்கெட் போட்டிக்கு பிரதம அதிதிகளாக அழைக்கப்பட்டிருந்தமை மிகவும் பொருத்தமானதாகும்.
+
+...
+
+[Data](articles/4c9d862e.json)
+
+---
 
 ### Gampaha firing in Katugastara area;One kills!
 
@@ -1848,6 +1916,22 @@ Accordingly, the time given to meet relatives can be extended to half an hour.
 
 ---
 
+### ආර්ථික ස්ථායීකරණ කාරක සභාවේ සභාපති තාරක බාලසූරිය
+
+*2024-04-08 13:10:39* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථික-ස්ථායීකරණ-කාරක-සභාවේ-සභාපති-තාරක-බාලසූරිය/11-409006) · `si`
+
+නවවැනි පාර්ලිමේන්තුවේ පස්වැනි සභාවාරය සඳහා ආර්ථික ස්ථායීකරණය පිළිබඳ කාරක සභාවේ සභාපතිවරයා ලෙස රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා ඒකමතිකව තේරී පත් විය. ඒ නවවැනි පාර්ලිමේන්තුවේ පස්වැනි සභාවාරය සඳහා ආර්ථික ස්ථායීකරණය පිළිබඳ කාරක සභාවේ පළමු රැස්වීම පසුගියදා පාර්ලිමේන්තුවේදී  පැවති අවස්ථවේදීය.
+
+රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා විසින් රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතාගේ නම යෝජනා කරන ලද අතර පාර්ලිමේන්තු මන්ත්‍රී සී.බී. රත්නායක මහතා විසින් එම යෝජනාව ස්ථිර කරන ලදී.
+
+පාර්ලිමේන්තුවේ සිව්වැනි සභාවාරයේදී ද මෙම කාරක සභාවේ සභාපතිත්වය රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා විසින් දරනු ලැබීය. ආර්ථීක ස්ථායීකරණය පිළිබඳ කාරක සභාවේ විෂය පථය,  පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ විෂය පථය හා සමාන වන බව පෙන්වා දුන් සභාපතිවරයා එම විෂය පථයන් වෙනස් කිරීමේ අවශ්‍යතාව අවධාරණය කළේය. තවද ආර්ථිකය පිළිබඳ  සියලු අංශ ආවරණය වන පරිදි කාරක සභාවේ  විෂය පථය පුළුල් කළ යුතු බවද යෝජනා කළේය.
+
+...
+
+[Data](articles/2a3dba43.json)
+
+---
+
 ### To ensure good deeds on the basis of the religious belief of Muslims - the President
 
 *2024-04-08 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180700) · `ta`
@@ -2265,115 +2349,5 @@ The party's political committee today appointed Minister Nimal Siripala de Silva
 [Data](articles/9a175daf.json)
 
 [Extended Data](ext_articles/9a175daf.ext.json)
-
----
-
-### Sri Lanka to export chilli, eggplant, okra and maize seeds: Minister
-
-*2024-04-08 12:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-export-chilli-eggplant-okra-and-maize-seeds-minister-157862/) · `en`
-
-ECONOMYNEXT – Sri Lanka is preparing to export several types of seeds after research proved successful, its Minister of Agriculture and Plantation Industry, Mahinda Amaraweera has said.
-
-“For the first time, several species of chillies, eggplant, okra and maize have been successfully tested. There is a high demand for these seeds from many foreign countries,” Minister Mahinda Amaraweera said on his social media page.
-
-The Department of Agriculture and the private sector have conducted research on these new types of seeds, he said during a visit to the CIC Holdings’ Palvehera farm.
-
-“More suitable seeds are being produced for cultivation in our country. The MICH 1-2 chilli variety introduced by the Department of Agriculture is currently yielding very successful harvests across the country. It is possible to get crops for 9 consecutive months from that chili cultivation.”
-
-Sri Lanka imports seeds for various crops from foreign countries.
-
-...
-
-[Data](articles/ca2b02eb.json)
-
-[Extended Data](ext_articles/ca2b02eb.ext.json)
-
----
-
-### Sri Lanka defaults on USD 6 billion payment despite rising reserves: Patali
-
-*2024-04-08 12:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-defaults-on-USD-6-billion-payment-despite-rising-reserves-Patali/155-280392) · `en`
-
-Colombo, April 8 (Daily Mirror) - United Republican Front (URF) leader Patali Champika Ranawaka said Sri Lanka defaulted on a payment of USD 6 billion starting from April 2022 when the country announced bankruptcy.
-
-He said this was the reality though the Central Bank data show the increase of foreign reserves to USD 5 billion.
-
-"While CBSL data shows Sri Lanka's foreign reserves reaching USD 5 billion, it is imperative to understand that from April 2022, the sum of defaulted debt is approximately USD 6 billion. The sum of loans obtained since the default from the World Bank, ADB, and IMF is USD 3 billion," he posted on X.
-
-◼️
-
-[Data](articles/19fe68c1.json)
-
-[Extended Data](ext_articles/19fe68c1.ext.json)
-
----
-
-### Sri Lanka defaults on USD 6 billion payment despite rising reserves: Patali
-
-*2024-04-08 12:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-defaults-on-USD-6-billion-payment-despite-rising-reserves-Patali/108-280392) · `en`
-
-Colombo, April 8 (Daily Mirror) - United Republican Front (URF) leader Patali Champika Ranawaka said Sri Lanka defaulted on a payment of USD 6 billion starting from April 2022 when the country announced bankruptcy.
-
-He said this was the reality though the Central Bank data show the increase of foreign reserves to USD 5 billion.
-
-"While CBSL data shows Sri Lanka's foreign reserves reaching USD 5 billion, it is imperative to understand that from April 2022, the sum of defaulted debt is approximately USD 6 billion. The sum of loans obtained since the default from the World Bank, ADB, and IMF is USD 3 billion," he posted on X.
-
-◼️
-
-[Data](articles/d7c7afeb.json)
-
-[Extended Data](ext_articles/d7c7afeb.ext.json)
-
----
-
-### Student injured in Vavuniya bus accident
-
-*2024-04-08 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180687) · `ta`
-
-A student in Vavuniya was injured in a bus crash near Pathaniyar, hit by a bus to Pudukkulam school.
-
-🟩
-
-A student who went to school in the Vavuniya Patiniyar area has been admitted to the hospital after a bus crashed into a bus.
-
-The student was injured when a bus that was coming to Pathaniyar was hit by a bus to Pudukkulam school in the same direction.
-
-◼️
-
-[Data](articles/fb0bca6d.json)
-
-[Extended Data](ext_articles/fb0bca6d.ext.json)
-
----
-
-### Gaya's largest hospital - buried bodies can be seen - World Health Organization
-
-*2024-04-08 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180686) · `ta`
-
-The World Health Organization reports that Gaza's largest hospital, Alzipata, is severely damaged with visible half-buried bodies, including Israeli soldiers. The hospital, once a key health department facility, is now in ruins.
-
-🟩
-
-The World Health Organization Hospital has said that Gaza's largest hospital has been a mere wreckage with many bodies.
-
-The employees of the World Health Organization who visited the hospital, which is completely destroyed, have seen that the bodies buried in half are visible outside.
-
-Some of them are aware of the deaths of Israeli soldiers during the siege of the World Health Organization, which has also visited the hospital.
-
-Israeli soldiers left the Alsiba Hospital last Monday after a two -week operation
-
-They said they had been engaged in anti -Palestinian militants inside the hospital for two weeks.
-
-The World Health Organization said that they went into the hospital last Friday, with several efforts to go into the hospital.
-
-We went into the Alzipata Hospital, which was previously the backbone of the Gaza Health Department, and is now seen with human bodies.
-
-There are many shallow human burials in the hospital. The World Health Organization said.
-
-...
-
-[Data](articles/56850882.json)
-
-[Extended Data](ext_articles/56850882.ext.json)
 
 ---

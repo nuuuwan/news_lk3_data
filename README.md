@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 21:53:22**
+As of **2024-04-08 22:05:12**
 
 ## Newspaper Stats
 
-*Scraped **17,920** Articles*
+*Scraped **17,923** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,88 @@ islandlk | 979
 economynextcom | 993
 adalk | 1,512
 tamilmirrorlk | 2,106
-adaderanalk | 2,157
+adaderanalk | 2,158
 virakesarilk | 2,639
-dailymirrorlk | 2,734
+dailymirrorlk | 2,736
 adaderanasinhalalk | 2,905
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,919 (100.0%) of 17,920 articles have been extended.
+17,920 (100.0%) of 17,923 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### මාර්තු මාසයේ 6000ක ශිෂ්‍යත්වය හිමිවන දරුවන් ගැන දැනුම්දීමක්
+### Social Empowerment Ministry renames two traditional New Year games
+
+*2024-04-08 21:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Social-Empowerment-Ministry-renames-two-traditional-New-Year-games/108-280410) · `en`
+
+Colombo, April 8 (Daily Mirror) - State Minister for Social Empowerment, Anupa Pasqual has decided to change the names of two traditional games that are played during the Sinhala and Tamil New Year festival.
+
+As per the decision, the game known as "Kana Mutti Bindeema," also known as breaking the pots, will now be called "Wasana Muttiya Bindeema," and "Andayata Kiri Kaweema," also known as "Blindfold Feeding," will be renamed "Sagayata Kiri Keveema."
+
+Speaking at an event in at the President's Media Centre, the Minister highlighted that the traditional games mentioned earlier had been rejected by society and endorsed by the Ministry.
+
+The decision was made to foster a conceptual shift in society's perception of disabled individuals during this year's New Year celebrations.
+
+Furthermore, the Minister announced that all banks participating in the Samurdhi campaign have organized 1,089 New Year celebrations across the country.
+
+◼️
+
+[Data](articles/da2a7bdc.json)
+
+---
+
+### Sathosa slashes prices of several essential food items
+
+*2024-04-08 21:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98523/sathosa-slashes-prices-of-several-essential-food-items) · `en`
+
+Sri Lanka’s state-owned wholesale and retail chain ‘Lanka Sathosa’ has reduced the prices of several types of essential consumer goods ahead of the upcoming festive season.
+
+Accordingly, it has been decided to lower these prices with effect from midnight today (08).
+
+The price of a kilogram of dry chillies has been reduced by Rs. 300 and the new price is Rs. 850.
+
+The price of a kilogram of big onions imported from China has been reduced by Rs. 120 and its new price will be listed as Rs. 375 per kg.
+
+Also, the price of big onions imported from India and Pakistan have been reduced by Rs. 50 and its new price is Rs. 445.
+
+The price of garlic has been reduced by Rs. 15 and the new price is Rs. 680 per kg.
+
+A kilogram of potato has been reduced by Rs. 10 and its new price is Rs. 165.
+
+Meanwhile, Lanka Sathosa has decided to reduce the price of red lentil dahl by Rs. 07 and white raw rice by Rs. 03 per kilogram.
+
+◼️
+
+[Data](articles/68543cf9.json)
+
+---
+
+### Notice of children who own 6000 scholarship in March
 
 *2024-04-08 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195448) · `si`
 
-2022 / 2023 අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය සමත් ආර්ථික අපහසුතා සහිත සිසුන් 6000ක් සඳහා ශිෂ්‍යත්ව ලබාදීමේ වැඩසටහන සඳහා ශිෂ්‍යත්වලාභීන් තෝරාගැනීමේ කටයුතු අවසන් කර තිබේ.
+The Presidential Fund has awarded 6,000 scholarships to GCE Ordinary Level students, with payments from March to April. Scholarships are monthly for 24 months. Details on www.presidentsfund.gov.lk.
 
-ඒ අනුව මාර්තු සහ අප්‍රේල් මාසවල ගෙවිය යුතු හිඟ මුදල් ද සහිතව මැයි මාසයේ සිට ශිෂ්‍යාධාර මුදල් ගෙවීමට කටයුතු කරන බව ජනාධිපති අරමුදල දැනුම් දී ඇත.
+🟩
 
-මේ වසරේ මාර්තු මාසයේ සිට තෝරාගත් සෑම ශිෂ්‍යත්ව ලාභියෙකුටම මාස 24ක් පුරා රුපියල් 6000ක මුදලක් බැගින් මාසිකව ශිෂ්‍යාධාර ලබාදීමට නියමිතය.
+Second recipients of scholarship recipients have been completed for 6,000 students with the economic certificates of the GCE Ordinary Level examination.
 
-තෝරාගත් ශිෂ්‍යත්වලාභීන්ගේ නාමලේඛනය ජනාධිපති අරමුදලේ නිල වෙබ් අඩවිය වන www.presidentsfund.gov.lk හි ප්‍රදර්ශනය කිරීමට නියමිත බව ද ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+Accordingly, the Presidential Fund has been paid to pay the scholarship from March and April.
+
+Each selected scholarship has been given monthly scholarships for 24 months to 24 months.
+
+The selected scholarship recipients are to be displayed at www.presidentsfund.gov.lk, the presidential fund's official website.
 
 ◼️
 
 [Data](articles/990eba98.json)
+
+[Extended Data](ext_articles/990eba98.ext.json)
 
 ---
 
@@ -113,6 +165,18 @@ However, with the presidential elections approaching, the NPP proposed that the 
 [Data](articles/03ce7e14.json)
 
 [Extended Data](ext_articles/03ce7e14.ext.json)
+
+---
+
+### Breaking fast banquet for Muslim devotees
+
+*2024-04-08 20:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Breaking-fast-banquet-for-Muslim-devotees/110-280406) · `en`
+
+A beverage company in the Port City held a breaking fast (Ifthar) banquet today for the fourth time for Muslim devotees who are fasting. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/2040b6fd.json)
 
 ---
 
@@ -2287,81 +2351,5 @@ However, Defense Minister Yo Calland said that the soldiers have left Khan Youni
 [Data](articles/d09f1d55.json)
 
 [Extended Data](ext_articles/d09f1d55.ext.json)
-
----
-
-### The main meeting tomorrow
-
-*2024-04-08 13:11:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டுக்-கட்சி-நாளை-முக்கிய-சந்திப்பு/175-335737) · `ta`
-
-The Sri Lanka PA's political committee meeting, led by former President Mahinda Rajapaksa, will discuss disciplinary action against six members of the Sri Lanka Peoples Freedom Alliance (PA) who have been in talks with the United People's Power.
-
-🟩
-
-The political committee meeting of the Sri Lanka PA will be held tomorrow (9) under the leadership of former President Mahinda Rajapaksa.
-
-Six members of the Sri Lanka Peoples Freedom Alliance (PA) have been discussed with the United People's Power.
-
-It has also been reported that disciplinary action will be taken against the six.
-
-◼️
-
-[Data](articles/2f9e07c3.json)
-
-[Extended Data](ext_articles/2f9e07c3.ext.json)
-
----
-
-### Ask for many beef
-
-*2024-04-08 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195430) · `si`
-
-The Colombo High Court agreed to provide limited facilities for the accused of Tangalle front, including extending meeting times with lawyers and relatives, and submitting a doctor for medical attention. However, requests for a CCTV system, telephone, and food/drinks were denied for security reasons.
-
-🟩
-
-The complaint agreed before Colombo High Court today to provide a few facilities for the accused of Tangalle front.
-
-The State Counsel appearing on behalf of the Attorney General have made these notifications when a motion was called before Colombo High Court Judge Thatawatte today.
-
-Herald has asked for a monk to promote 15 minutes to an extent to reach the lawyers in custody.
-
-However, the time given to meet lawyers can be extended to half an hour.
-
-A CCTV camera system had been called to call if a CCTV camera system operates at the place where he operates.
-
-Responding to this, the state lawyer said that the acquitant had no such camera system and said that the Police Special Task Force and Navy officials have been deployed to protect him.
-
-In addition, the father of 15 minutes to enhance the father and relatives, to extend its molecules to an hour.
-
-Accordingly, the time given to meet relatives can be extended to half an hour.
-
-...
-
-[Data](articles/3c28401f.json)
-
-[Extended Data](ext_articles/3c28401f.ext.json)
-
----
-
-### Tharaka Balasuriya, Chairman of the Economic Stability Committee
-
-*2024-04-08 13:10:39* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථික-ස්ථායීකරණ-කාරක-සභාවේ-සභාපති-තාරක-බාලසූරිය/11-409006) · `si`
-
-Tharaka Balasuriya, State Minister, elected Chairman of Economic Stability Committee. Proposed by Kanaka Herath and CB Ratnayake. Balasuriya backed by Parliament, aiming to expand Committee's scope to all economic aspects. Committees Chairman suggests discussing changes in a special meeting.
-
-🟩
-
-State Minister Tharaka Balasuriya was unanimously elected as the Chairman of the Committee on Economic Standards for the 5th Session of the Nineh Parliament. The first meeting of the Committee on Economic Standards was held in Parliament recently.
-
-State Minister Kanaka Herath has proposed the name of State Minister Tharaka Balasuriya and MP CB. Ratnayake was confirmed by the proposal.
-
-State Minister Tharaka Balasuriya was presidential backed by the Committee on the fourth meeting of Parliament. The Chairman pointed out that the scope of the Committee on the Economic Planning is the subject of the Committee of Public Enterprises, emphasized the need to change those rounds. It also proposed that the scope of the Committee should be expanded to cover all aspects of the economy.
-
-...
-
-[Data](articles/2a3dba43.json)
-
-[Extended Data](ext_articles/2a3dba43.ext.json)
 
 ---

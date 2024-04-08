@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 08:18:13**
+As of **2024-04-08 08:33:42**
 
 ## Newspaper Stats
 
-*Scraped **17,734** Articles*
+*Scraped **17,739** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,101 @@ dailyftlk | 972
 economynextcom | 978
 islandlk | 979
 adalk | 1,489
-tamilmirrorlk | 2,085
+tamilmirrorlk | 2,088
 adaderanalk | 2,139
 virakesarilk | 2,590
-dailymirrorlk | 2,708
-adaderanasinhalalk | 2,874
+dailymirrorlk | 2,709
+adaderanasinhalalk | 2,875
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,732 (100.0%) of 17,734 articles have been extended.
+17,734 (100.0%) of 17,739 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### අප්‍රේල් 15 රජයේ නිවාඩු දිනයක් ද?
+### காலநிலை தொடர்பான முன்னறிவித்தல்
+
+*2024-04-08 08:16:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலநிலை-தொடர்பான-முன்னறிவித்தல்/175-335727) · `ta`
+
+மேல், சப்ரகமுவ,​ தென் மற்றும் வடமேல் மாகாணங்களிலும் மொனராகலை, மன்னார் மற்றும் அனுராதபுரம் மாவட்டங்களிலும் பிற்பகல் 2.00 மணிக்குப் பின்னர் பரவலாக மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+மேல், மத்திய மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை எதிர்பார்க்கப்படுவதாக அந்த திணைக்களம் அறிக்கை ஒன்றை வௌியிட்டுத் தெரிவித்துள்ளது.
+
+இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம், மக்களிடம் கோரிக்கை விடுத்துள்ளது.
+
+அதேநேரேம் சூரியனின் வடதிசை நோக்கிய இயக்கத்தின்  காரணமாக, இவ் வருடம் ஏப்ரல் மாதம் 5ஆம் திகதியிலிருந்து 15ஆம் திகதி வரை இலங்கையின் அகலக் கோடுகளுக்கு நேராக உச்சம் கொடுக்கவுள்ளது.
+
+அதற்கிணங்க இன்று (06) நண்பகல் 12.12 அளவில் மாராவில், பொதுஹெர, குருகெட்டே, கல்முனை, கெர்தலாவெல மற்றும் வராப்பிட்டிய ஆகிய பிரதேசங்களில் சூரியன் உச்சம் கொடுக்கவுள்ளது. R
+
+◼️
+
+[Data](articles/8bb140a2.json)
+
+---
+
+### බෝට්ටු අනතුරකින් 90 දෙනෙක් ජීවිතක්ෂයට
+
+*2024-04-08 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195416) · `si`
+
+මොසැම්බික් වෙරළට ඔබ්බෙන් වු මුහුදු තීරයේ දී බෝට්ටුවක් අනතුරට පත්වීමෙන් පුද්ගලයින් 90 දෙනෙක් මියගොස් තිබේ.
+
+අනතුර සිදුවන විට එහි මගීන් 130 දෙනෙකු සිට ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ධීවර යාත්‍රාව නාම්පුලා පළාතේ දූපතක් ආසන්නයේ දී මෙලෙස ගිලීමට ලක්ව ඇති බව සඳහන්ය.
+
+ප්‍රමාණය ඉක්මවා පිරිස රැගෙන යාම මෙම අනතුරට හේතු වී ඇති බව එරට රාජ්‍ය ලේකම්වරයා සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/efe6fcc6.json)
+
+---
+
+### பொலிஸாரின் துப்பாக்கிச் சூட்டில் விமானப்படை வீரர் மரணம்
+
+*2024-04-08 08:13:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாரின்-துப்பாக்கிச்-சூட்டில்-விமானப்படை-வீரர்-மரணம்/175-335726) · `ta`
+
+பொலிஸ் விசேட அதிரடிப் படையினரும் பொலிஸாரும் இணைந்து மேற்கொண்ட நடவடிக்கையின் போது, ​​
+
+பொலிஸ் வீதித் தடைக்கு அருகில், உத்தரவை மீறி மோட்டார் சைக்கிள் ஒன்று சென்றதுடன் அதனை செலுத்தியவர் பொலிஸாரை நோக்கி துப்பாக்கிச் சூடு நடத்தியதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்நிலையில் பொலிஸார் பதிலுக்கு நடத்திய துப்பாக்கிச் சூட்டில் மோட்டார் சைக்கிளில் பயணித்தவர் படுகாயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்தார்.
+
+ஹொரணை - தல்கஹவில பிரதேசத்தில் நேற்று (07) துப்பாக்கிச் சூடு நடத்தி இருவரை கொலை செய்த சம்பவத்தின் பிரதான சந்தேகநபர் இவரே என தெரியவந்துள்ளதாகவும் பொலிஸார் தெரிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/1eee69aa.json)
+
+---
+
+### April 15 Is a Public Holiday?
 
 *2024-04-08 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195415) · `si`
 
-අප්‍රේල් මස 15 වන දා රජයේ නිවාඩු දිනයක් බවට පත්කිරීම අද (08) දිනයේ දී පැවැත්වෙන අමාත්‍ය මණ්ඩල රැස්වීමේ දී අවධානයට යොමු කිරීමට නියමිත ව තිබේ.
+The cabinet is considering making April 15 a public holiday, following New Year's celebrations. No final decision has been made yet.
 
-අප්‍රේල් මස 14 වන දිනයේ අලුත් අවුරුදු නැකත් පැවැත්වෙන අතර අප්‍රේල් මස 15 වන සඳුදා සාමාන්‍ය රාජකාරී දිනයක් බවට මේ වන විට පත්ව තිබේ.
+🟩
 
-කෙසේවෙතත් 15 වන සඳුදා දිනය රජයේ නිවාඩු දිනයක් බවට පත් කරන ලෙස බොහෝ පාර්ශ්ව මේ වන විට ඉල්ලීම් කර තිබුණත් ඒ සම්බන්ධයෙන් මේ දක්වා අවසන් තීරණයක් ගෙන නොමැත.
+The cabinet meeting will be made to make a public holiday on April 15 (08).
 
-එලෙස නිවාඩු දිනයක් බවට පත්කරන්නේ නම් ඒ සඳහා අමාත්‍ය මණ්ඩල තීරණයක් අවශ්‍ය බව ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා සඳහන් කර ඇත.
+New Year's spectacle was held on April 14 and is now a normal duties on Monday 15th April.
 
-ඒ අනුව අද පස්වරුවේ පැවැත්වෙන අමාත්‍ය මණ්ඩල රැස්වීමේ දී මේ සම්බන්ධයෙන් වැඩි අවධානයක් යොමු කිරීමට නියමිතය.
+However, many parties have already requested the date on Monday, to make the date on Monday, to make a public holiday, no final decision has been taken up.
+
+State Affairs State Minister Ashoka Priyantha has said that if it is a holiday, the Cabinet of Home Affairs is a Cabinet decision.
+
+Accordingly, at the Cabinet Meeting will be held this afternoon.
 
 ◼️
 
 [Data](articles/9f38d0ea.json)
+
+[Extended Data](ext_articles/9f38d0ea.ext.json)
 
 ---
 
@@ -139,6 +201,24 @@ The person who was shot dead at Angamuwa, Padukka is suspected to be the gunman 
 [Data](articles/4731791d.json)
 
 [Extended Data](ext_articles/4731791d.ext.json)
+
+---
+
+### Tissa cautions SJB Leadership on whom to associate with
+
+*2024-04-08 07:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tissa-cautions-SJB-Leadership-on-whom-to-associate-with/108-280355) · `en`
+
+Colombo, April 8 (Daily Mirror) - Samagi Jana Balawegaya (SJB) National Organizer Tissa Attanayake over the weekend cautioned his leader Sajith Premadasa on whom the party should associate with.
+
+“SJB should not associate with those who shift sides, and those who are corrupt but with those who are clean and trusted by the people,” Mr. Attanayake told journalists referring to the MoU with the party signed with a group of MPs from Nidahas Janatha Balawegaya (NJB) on Friday.
+
+“SJB working committee gave power to party leader to allay with any party. Therefore, we are not against any alliance with the NJB. However, we caution the party leader on whom the party should associate with as any alliance will not be accepted by the people if we are to associate with wrong the people,” Attanayake added.
+
+“The MoU with the group of NJB MPs was signed in a hurry. That is why many SJB members were not aware. I was also engaged in another appointment. That is why I missed it,” he also said.
+
+...
+
+[Data](articles/936722ec.json)
 
 ---
 
@@ -684,23 +764,33 @@ The Winners from the Maliban Group of Companies are Positha Perera – Category 
 
 ---
 
-### පොලිසියට මානව හිමිකම් පාඩමක් උගන්වන්න වෙයි ද?
+### Is it possible to teach the police a human rights lesson?
 
 *2024-04-08 01:45:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd143wy282zo) · `si`
 
-ශ්‍රී ලංකා පොලිසියට මානව හිමිකම් කඩ කිරීම සම්බන්ධව දිගින් දිගටම චෝදනා එල්ල වීම හේතුවෙන් පොලිසියේ මානව හිමිකම් චර්යාව පිළිබඳව නැවත විමසා බලන්නට සිදුව තිබේ.
+The Sri Lanka Police, accused of human rights violations, face legal challenges and compensation demands. The Supreme Court has ordered compensation for victims, and the government has committed to training on human rights. The Human Rights Commission of Sri Lanka highlights the need for police to act within the law and prevent abuses.
 
-වත්මන් පොලිස්පතිවරයා මුලික මිනිස් අයිතිවාසිකම් කඩ කළ නිලධාරියෙකු බව අධිකරණය තීන්දු කිරීම මෙන්ම මුලික අයිතිවාසිකම් කඩ වීම සම්බන්ධ නඩුකරයන් කිහිපයක්ම සමථය කර ගැනීම සඳහා අදාළ වින්දිතයින්ගෙන්  වැඳ සමාව ගැනීමට පොලිසියට සිදුවීම ඉන් කැපී පෙනන සිද්ධි කිහිපයකි.
+🟩
 
-පොලිස්පති දේශබන්දු තෙන්කෝන් 2010 වසරේ නුගේගොඩ කොට්ඨාසයේ පොලිස් අධිකාරී ලෙස කටයුතු කළ සමයේ පුද්ගලයෙකුට වධ හිංසා කිරීමේ සිද්ධියක් සම්බන්ධයෙන් මුලික අයිතිවාසිකම් කඩ කළ බවට ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේ පසුගිය වසරේ දෙසැම්බර් 14 වැනිදා ය.
+The Sri Lanka Police continuously charged with human rights violations have been re-examined as the police have continuously accused of human rights.
 
-සුමති ඉන්ෆොමේෂන් ටෙක්නොලොජි පුද්ගලික සමාගම විසින් ඉදිරිපත් කර තිබූ පෙත්සමක් සමථ කර ගැනීමට 2024 මාර්තු 01 වැනිදා කොල්ලුපිටිය පොලිසියේ නිලධාරියා විසින් පෙත්සම්කාර පාර්ශවයේ නියෝජිතයින්ගෙන් විවෘත අධිකරණයේ වැඳ සමාව ගන්නා ලදී.
+There are several occasions that the police are trying to pardon the victims of the judiciary, as well as the incumbent of the IGP violated basic human rights.
 
-වින්දිතයින්ට කෝටි 15ක් වන්දි ගෙවන්නට සිදු වූ පොලිස් නිලධාරීන් කවුද?
+The Supreme Court ruled that IP Deshankon Tenkoon was served as the Superintendent of the Nugegoda division of 2010, according to the 14th of December last year.
+
+On March 1, 2024, the Kollupitiya police officer was diagnosed with the petitioner representatives from the petitioner.
+
+Who were the police officers who had to pay for Rs.15 crores to victims?
+
+A senior citizen of the Narahenpita and two constables had to apologize to Senior citizens, the 71 constables to the Supreme Court against the Supreme Court against the police officers.
+
+Recently, police officers had to apologize to civilians after the Passover attack, three suspects arrested in Horowpathana area after the Passover attack.
 
 ...
 
 [Data](articles/71f42085.json)
+
+[Extended Data](ext_articles/71f42085.ext.json)
 
 ---
 
@@ -771,6 +861,24 @@ The President pointed out that with the political change in July 2022, the presi
 [Data](articles/91db5a69.json)
 
 [Extended Data](ext_articles/91db5a69.ext.json)
+
+---
+
+### ’ஐ.தே.க. கொள்கைகள் ஐக்கிய மக்கள் சக்தியில் இல்லை’
+
+*2024-04-08 00:39:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-க-கொள்கைகள்-ஐக்கிய-மக்கள்-சக்தியில்-இல்லை/175-335724) · `ta`
+
+ஐக்கிய மக்கள் சக்தியில் இன்று ஐக்கிய தேசியக் கட்சியின் கொள்கைகள் இல்லை. அதன் பொருளாதாரக் கொள்கையை மொட்டுக் கட்சியிலிருந்து வெளியேற்றப்பட்ட குழுவே தற்போது கையாள்கின்றது என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+கண்டி ஜனாதிபதி மாளிகையில் நேற்று நடைபெற்ற அரசியல் கட்சி பிரதிநிதிகள் கூட்டத்தில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+
+இன்று ஐக்கிய மக்கள் சக்தியில் ஐக்கிய தேசியக் கட்சி இல்லை. ஐக்கிய தேசியக் கட்சியை பாதுகாத்தவன் நான். ஜே.ஆர் ஜயவர்தன, ஆர், பிரேமதாச, டி.பி. விஜேதுங்க, இவர்கள் அனைவருடனும் நாங்கள் பணியாற்றினோம்.
+
+இன்று ஐக்கிய தேசியக் கட்சி என்று தங்களை அழைப்பதற்கு ஐக்கிய மக்கள் சக்திக்கு எந்த உரிமையும் இல்லை. இன்று எமக்கு பொதுஜன பெரமுன மற்றும் ஸ்ரீலங்கா சுதந்திரக் கட்சியுடன் இணைந்து செயற்பட வேண்டியுள்ளது. நாட்டு நலனுக்காக நாம் இணைந்து செயற்பட வேண்டும். இன்று அரசியல் போக்கு மாறிவிட்டது என்றார். (a)
+
+◼️
+
+[Data](articles/c84e4564.json)
 
 ---
 
@@ -2107,117 +2215,5 @@ Demonstrating exemplary teamwork and empathy, the fishermen carefully released a
 [Data](articles/32a0954a.json)
 
 [Extended Data](ext_articles/32a0954a.ext.json)
-
----
-
-### Measures to pay public servants in Public Servants from tomorrow
-
-*2024-04-07 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195399) · `si`
-
-"Govt to pay public servants Rs 10,000-107 billion from tomorrow. Also, 10 families to receive 10 kg of rice each on April 21, purchased from local industrialists."
-
-🟩
-
-State Minister Ranjith Siyambalapitiya stated that the government is prepared to pay the preparation of the premises of the public servants tomorrow (08).
-
-"I have been prepared to release money to the institutions from 08 tomorrow with Rs 10,000.. 107 billion rupees. The increased amount is only about Rs. 13 billion. "
-
-"On April 21, the country is one time. 10 families will be given 10 kg of rice. Buying this from the local industrialist. "
-
-◼️
-
-[Data](articles/0cbff782.json)
-
-[Extended Data](ext_articles/0cbff782.ext.json)
-
----
-
-### The cost of snacks has declined by 2 %
-
-*2024-04-07 16:07:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தின்பண்ட-செலவு-2-குறைந்துள்ளது/175-335705) · `ta`
-
-Snack costs fell 2% in 2024, but the Tamil Sinhala New Year's cost, though down, is still twice 2019's. This is based on a study by Veritarisch, Publicfinance.lk, showing a 2% decrease in goods cost by 2024 over 2023. The traditional sweets, like crocodiles and bananas, are a key part of the celebration, with recipes from the YouTube channel "Appeamma" used for analysis.
-
-🟩
-
-The cost of the Tamil Sinhala New Year has declined in 2024 compared to 2023. But it remains twice as much as 2019.
-
-This is revealed in a study on the annual cost of "New Year", the leading base of Sri Lanka's economic details that manage the Veritariserch, Publicfinance.lk.
-
-This shows that the cost of goods declined by 2 percent by 2024 than 2023.
-
-The cost was 2.3 times in 2023 compared to 2019.In 2024 compared to 2019, it declined slightly 2.2 times.
-
-The traditional sweets of Sri Lanka that indicate prosperity and happiness will take place in many New Year's Eve. Although there are differences between families, traditional New Year's sweets usually include crocodiles, bananas, bungalows, console, tutorial, bureaucracy and butter cake.
-
-...
-
-[Data](articles/29475936.json)
-
-[Extended Data](ext_articles/29475936.ext.json)
-
----
-
-### A reduction in the price of New Year's Eve
-
-*2024-04-07 16:07:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டு-தின்பண்டங்களின்-விலை-குறைப்பு/175-335705) · `ta`
-
-In 2024, the Tamil Sinhala New Year's Eve cost in Sri Lanka decreased from 2023 but remained higher than 2019. The study by Veritarisch and Publicfinance.lk shows a 2% reduction in goods' cost. Traditional sweets, like crocodiles and bananas, are still popular. The analysis, based on the "Appeamma" YouTube channel, focuses on 4-5-person family sizes, excluding electricity, gas, and spices costs.
-
-🟩
-
-The cost of the Tamil Sinhala New Year has declined in 2024 compared to 2023. But it remains twice as much as 2019.
-
-This is revealed in a study on the annual cost of "New Year", a leading base of Sri Lanka's economic details that manage the Veritariserch, Publicfinance.lk.
-
-This shows that the cost of goods declined by 2 percent by 2024 than 2023.
-
-The cost was 2.3 times in 2023 compared to 2019.In 2024 compared to 2019, it declined slightly 2.2 times.
-
-The traditional sweets of Sri Lanka that indicate prosperity and happiness will take place in many New Year's Eve. Although there are differences between families, traditional New Year's sweets usually include crocodiles, bananas, banana, bureau, bureau, tingling, panchayat and butter cake.
-
-...
-
-[Data](articles/3599d83b.json)
-
-[Extended Data](ext_articles/3599d83b.ext.json)
-
----
-
-### Israeli nationals found in Hamies hostage
-
-*2024-04-07 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195398) · `si`
-
-Israeli nationals discovered in Hamas hostage. Israeli Prime Minister Benjaminiu leads massive protest against Tel Aviv government. Israeli Army confirms Israeli nationals in Hamas hostage. 12 Israeli soldiers killed in Hamas operation.
-
-🟩
-
-Israeli Prime Minister of Prime Minister Benjaminiu has begun a massive protest with thousands of Israelites against the government of Tel Avice.
-
-The Israeli Army stated that Israeli nationals were found in Hamas hostage in the Hamas hostage.
-
-The bodies of 12 Israeli soldiers were also killed in the Hamas's treasure.
-
-◼️
-
-[Data](articles/0dc33061.json)
-
-[Extended Data](ext_articles/0dc33061.ext.json)
-
----
-
-### Two Experiments In Social Psychology & Their Relevance To Sri Lanka
-
-*2024-04-07 15:57:18* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/two-experiments-in-social-psychology-their-relevance-to-sri-lanka/) · `en`
-
-Mired in corruption, communal disharmony, crooked political leadership and religious nationalism, Sri Lankans would benefit from stepping back from all that has happened over the last fifty or more years and taking a meta view of interethnic conflict and other ailments that have overshadowed the more pressing problems of economic development, peace and prosperity. A social psychological approach may provide such valuable insights. Here we discuss two ground- breaking studies in social psychology that may provide an understanding into the group dynamics that underpin our interethnic problems.
-
-The first was an experiment called the Minimum Group Study (or Paradigm) devised and carried out by Henry Tajfel in UK in the 1970s and the other is by Muzafer Sheriff called the Robbers Cave experiment carried out in the 1950s in the US. These studies have been repeated by other social psychologists and the results have been the same.
-
-...
-
-[Data](articles/55934bea.json)
-
-[Extended Data](ext_articles/55934bea.ext.json)
 
 ---

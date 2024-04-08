@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 20:18:13**
+As of **2024-04-08 20:33:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,902
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,911 (100.0%) of 17,912 articles have been extended.
+17,912 (100.0%) of 17,912 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The shooting was reportedly carried out with a pistol, causing injuries to the v
 ◼️
 
 [Data](articles/b9e0acf9.json)
+
+[Extended Data](ext_articles/b9e0acf9.ext.json)
 
 ---
 

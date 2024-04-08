@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 11:03:16**
+As of **2024-04-08 11:18:21**
 
 ## Newspaper Stats
 
-*Scraped **17,766** Articles*
+*Scraped **17,768** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 972
 economynextcom | 978
 islandlk | 979
 adalk | 1,491
-tamilmirrorlk | 2,089
+tamilmirrorlk | 2,091
 adaderanalk | 2,144
 virakesarilk | 2,596
 dailymirrorlk | 2,714
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,762 (100.0%) of 17,766 articles have been extended.
+17,766 (100.0%) of 17,768 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### ”கட்சித் தாவல் செய்பவர்களுடன் இணையக் கூடாது”
+
+*2024-04-08 10:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சித்-தாவல்-செய்பவர்களுடன்-இணையக்-கூடாது/175-335730) · `ta`
+
+ஐக்கிய மக்கள் சக்தி (SJB) தேசிய ஒருங்கிணைப்பாளர் திஸ்ஸ அத்தநாயக்க, கட்சி யாருடன் இணைய வேண்டும் என தமது தலைவர் சஜித் பிரேமதாசவுக்கு எச்சரிக்கை விடுத்துள்ளார்.
+
+"கட்சித் தாவல் செய்பவர்கள், ஊழல் செய்பவர்களுடன் தொடர்பு கொள்ளாமல், தூய்மையான மற்றும் மக்களால் நம்பிக்கை கொண்டவர்களுடன் இணைய வேண்டும்" என்று கடந்த வெள்ளிக்கிழமை திரு. அத்தநாயக்க நிதாஹஸ் ஜனதா கட்சி எம்.பி.க்கள் குழுவுடன் புரிந்துணர்வு உடன்படிக்கையை கைச்சாத்திட்ட நிகழ்வின் போது ஊடகவியலாளர்களிடம் குறிப்பிட்டார்.
+
+“எஸ்.ஜே.பி செயற்குழுவானது கட்சித் தலைவருக்கு எந்தக் கட்சியுடனும் கூட்டணி வைக்கும் அதிகாரத்தை வழங்கியது. எனவே, NJB உடனான எந்த கூட்டணிக்கும் நாங்கள் எதிரானவர்கள் அல்ல. எவ்வாறாயினும், தவறானவர்களுடன் நாம் இணைந்தால் எந்தவொரு கூட்டணியும் மக்களால் ஏற்றுக்கொள்ளப்படாது என்பதால், கட்சி யாருடன் இணைய வேண்டும் என்பதை நாங்கள் கட்சித் தலைவருக்கு எச்சரிக்கிறோம், ”என்று அத்தநாயக்க மேலும் கூறினார்.
+
+...
+
+[Data](articles/f98dd9f7.json)
+
+---
 
 ### President’s Fund announces May payments and new recipient lists for scholarships
 
@@ -46,23 +62,49 @@ Meanwhile, the list of selected students will soon be published on the official 
 
 [Data](articles/760d7745.json)
 
+[Extended Data](ext_articles/760d7745.ext.json)
+
 ---
 
-### ඉහළ අහසේදී මගී ගුවන් යානයේ කොටසක් ගැලවෙයි
+### மிகுதிக் கொடுப்பனவு இன்றுமுதல் வழங்கப்படும்
+
+*2024-04-08 10:49:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிகுதிக்-கொடுப்பனவு-இன்றுமுதல்-வழங்கப்படும்/175-335729) · `ta`
+
+அரச ஊழியர்களுக்கு அதிகரிக்கப்பட்ட 10,000 ரூபா கொடுப்பனவின் மீதியான 5,000 ரூபா அவர்களின் மாதாந்த சம்பளத்துடன் சம்பந்தப்பட்ட நிறுவனங்களுக்கு இன்று வழங்கப்படும் என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+முன்னதாக, ரூ. 10,000 இன் ஒரு பகுதியை அரசு  அரச ஊழியர்களுக்கு முன்னதாகவே செலுத்தியுள்ளது. அரசு ஊழியர்களின் புத்தாண்டு காலத்துக்கான பண்டிகை முன்பணத்தின் மொத்தக் கணக்கீடு கிட்டத்தட்ட ரூ. 6 பில்லியனை அரசாங்கம் ஏற்கனவே செலுத்தியுள்ளது.
+
+வழமையாக அரசாங்கம் ஒவ்வொரு மாதமும் 16 ஆம் திகதி முதல் அரசாங்க ஊழியர்களுக்கு சம்பளம் வழங்க ஆரம்பிக்கிறது, முதல் முன்னுரிமை ஆசிரியர்களின் சம்பளம், இரண்டாவதாக முப்படையினரின் சம்பளம் மற்றும் மூன்றாவது இடத்தில் மாகாண சபை ஊழியர் சம்பளம்.
+
+எனினும், புத்தாண்டை முன்னிட்டு ஏப்ரல் மாதத்திற்கான சம்பளம் ஏப்ரல் 10ஆம் திகதி வழங்கப்படும். வழக்கமாக அரசு ஊழியர்களின் மாத சம்பளம் மாதந்தோறும் 25ம் திகதியே வழங்கப்படும் என அமைச்சர் கூறினார்.
+
+...
+
+[Data](articles/7cb9bbb5.json)
+
+---
+
+### A part of the passenger aircraft escapes at the top sky
 
 *2024-04-08 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195423) · `si`
 
-බෝයිං 737-800 යානයක් අමෙරිකාවේ ඩෙන්වර් ජාත්‍යන්තර ගුවන්තොටුපොළේ සිට ගමන් ආරම්භ කරන අවස්ථාවේ එහි එංජින් කවරය ගැලවී තටුවක සිරවී තිබේ.
+A 2015 Boeing 737-800, trapped at Denver International Airport, was moving to Houston when the engine cover fell off at 10,000 feet, with 135 passengers and six crew on board.
 
-සවුත් ඊස්ට් ගුවන් සමාගමට අයත් එම යානය හූස්ටන් බලා ගමන්කරමින් තිබියදී එම දෝෂය ඇතිවූ අතර පසුව එම යානය නැවත ඩෙන්වර් ගුවන්තොටුපොළට ආරක්ෂිතව ගොඩ බැස්සවීමට නියමුවන් සමත්විය.
+🟩
 
-2015 දී නිෂ්පාදනය කර තිබූ එම යානය මැක්ස් 737 මාදිලියට අයත් යානය කි.
+A Boeing 737-800 is trapped at the Denver International Airport, in the Denver International Airport.
 
-එන්ජින් කවරය ගැලවී යන විට යානය අඩි 10,000ක් පමණ ඉහළ අහසේ තිබුණි. ඒ වනවිට එහි මගීන් 135ක් සහ කාර්ය මණ්ඩලය 6දෙනෙක් සිටි බව වාර්තා විය.
+The fault was moving to Houston, and after the plane was traveling to Hoostton, and later recovered the plane to the airport.
+
+The plane produced in 2015 was 737 model.
+
+The aircraft was about 10,000 feet at the air as the engine cover was saved. At that time, there were 135 passengers and six staff.
 
 ◼️
 
 [Data](articles/76888759.json)
+
+[Extended Data](ext_articles/76888759.ext.json)
 
 ---
 
@@ -83,6 +125,8 @@ Meanwhile, State Minister of Home Affairs Ashoka Priyantha stated that a Cabinet
 ◼️
 
 [Data](articles/7d1da578.json)
+
+[Extended Data](ext_articles/7d1da578.ext.json)
 
 ---
 
@@ -112,21 +156,27 @@ The President, despite being popular at home and abroad at home and abroad, focu
 
 ---
 
-### ශ්‍රීලනිප ප්‍රබලයෝ පදනම් ආයතනයට රැස්වෙති
+### SLFP Prabhabar Foundation events
 
 *2024-04-08 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195422) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජ්‍යේෂ්ඨ නායකයින් රැසක් මේ වනවිට කොළඹ පදනම් ආයතනයට රැස්ව සිටී.
+Senior SLFP leaders, including Chandrika Bandaranaike Kumaratunga, attended Colombo Foundation Institute events. Nimal Siripala de Silva was summoned by Mahinda Rajapakse, but the General Secretary clarified that the Senior Vice Chairman lacks legal authority to call the meeting.
 
-එම අවස්ථාවට ශ්‍රී ලංකා නිදහස් පක්ෂයේ හිටපු සභාපතිනි, චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය ද එක්ව ඇත.
+🟩
 
-නිදහස් පක්ෂය තුළ මතුව ඇති අර්බුදකාරී වාතාවරණය හමුවේ පක්ෂයේ ජ්‍යේෂ්ඨ උප සභාපති නිමල් සිරිපාල ද සිල්වා මහතා විසින් අද (08) උදෑසන 10ට දේශපාලන මණ්ඩලයේ හදිසි රැස්වීමක් කැඳවා තිබිණි.
+A number of senior Sri Lanka Freedom Leaders are currently attending the Colombo Foundation Institute.
 
-කෙසේවෙතත් මෙලෙස දේශපාලන මණ්ඩල රැස්වීමක් කැඳවීමට පක්ෂයේ ජ්‍යේෂ්ඨ උප සභාපතිවරයාට කිසිදු නීතිමය හැකියාවක් නොමැති බව පවසනමින් පක්ෂ ප්‍රධාන ලේකම්වරයා විසින් නිමල් සිරිපාල ද සිල්වා මහතා වෙත ලිපියක් යොමුකර ඇත.
+Former Sri Lanka Freedom Party (SLFP chairman, Chandrika Bandaranaike Kumaratunga) was also present at the occasion.
+
+The party's senior Vice President Nimal Siripala de Silva was summoned by the party's senior Vice President Mahinda Rajapakse at 10 am today.
+
+However, the General Secretary of the party has written to Nimal Siripala de Silva that the Senior Vice Chairman of the party has not any legal ability to summon the meeting.
 
 ◼️
 
 [Data](articles/f7d0eee4.json)
+
+[Extended Data](ext_articles/f7d0eee4.ext.json)
 
 ---
 
@@ -2185,47 +2235,5 @@ Rajapaksa, who also commented regarding the SLPP’s presidential candidate, cla
 [Data](articles/69688621.json)
 
 [Extended Data](ext_articles/69688621.ext.json)
-
----
-
-### Liquor stores to remain closed for Sinhala Tamil New Year
-
-*2024-04-07 19:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Liquor-stores-to-remain-closed-for-Sinhala-Tamil-New-Year/108-280327) · `en`
-
-Colombo, April 07 (Daily Mirror) - In line with the Sinhala and Tamil New Year celebrations, the Excise Department has announced the closure of all liquor stores across the island on April 12th and 13th.
-
-Excise Commissioner General M.J. Gunasiri emphasized that during this period, efforts to combat illegal liquor activities will be heightened.
-
-Gunasiri revealed that approximately three hundred officers will be deployed to conduct raids targeting illegal liquor operations.
-
-This initiative aims to curb the illicit trade of alcohol during the temporary closure of licensed establishments.
-
-◼️
-
-[Data](articles/b2f05133.json)
-
-[Extended Data](ext_articles/b2f05133.ext.json)
-
----
-
-### April 12, 13 dry days except for top star hotels
-
-*2024-04-07 19:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/April-12-13-dry-days-except-for-top-star-hotels/108-280327) · `en`
-
-Colombo, April 07 (Daily Mirror) - To mark the Sinhala and Tamil New Year, the Department of Excise has banned the countrywide sale of liquor on April 12 and 13, except for the star class hotels.
-
-Issuing a special notice, the departmental media spokesperson Channa Weerakkody said the Excise Chief has ordered the closure of all wine stores, bars and taverns on Friday 12 and Saturday 13.
-
-However, in view of the tourists, all hotels that are registered under the Sri Lanka Tourism Development Authority (SLTDA) and beyond the category of three star range, as well as boutique villas are permitted to serve alcoholic beverages only to their local or foreign in-house guests during the stipulated period.
-
-Also, the sale of liquor is entirely prohibited in the country on April 23, which marks the Bak Full Moon Poya Day.
-
-The Excise Department requests the public to alert its Operations Room hotline 1913 for any unlawful activities and instances of violations of the Excise law.
-
-◼️
-
-[Data](articles/cf0cc5a9.json)
-
-[Extended Data](ext_articles/cf0cc5a9.ext.json)
 
 ---

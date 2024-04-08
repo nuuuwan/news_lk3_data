@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 10:04:23**
+As of **2024-04-08 10:18:13**
 
 ## Newspaper Stats
 
-*Scraped **17,748** Articles*
+*Scraped **17,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,119 @@ islandlk | 979
 adalk | 1,490
 tamilmirrorlk | 2,089
 adaderanalk | 2,141
-virakesarilk | 2,590
-dailymirrorlk | 2,712
-adaderanasinhalalk | 2,876
+virakesarilk | 2,593
+dailymirrorlk | 2,713
+adaderanasinhalalk | 2,880
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,744 (100.0%) of 17,748 articles have been extended.
+17,748 (100.0%) of 17,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### நிவாரணப் பணியாளர்கள் கொலை: இஸ்­ரே­லிய கேணல், மேஜர் பணி நீக்கம்
+
+*2024-04-08 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180665) · `ta`
+
+காஸாவில் தொண்டு நிறு­வன ஊழி­யர்கள் 7 பேர் கொல்­லப்­பட்ட தாக்­கு­த­லுக்கு உத்­த­ர­விட்ட தனது படை அதி­கா­ரிகள் இருவரை பணி­நீக்கம் செய்­துள்­ள­தாக இஸ்ரேல் அறி­வித்­துள்­ளது.
+
+காஸாவில் உணவுப் பொருட்­கள் விநி­யோ­கத்தில் ஈடு­பட்­டி­ருந்த, 'வேர்ல்ட் சென்ட்ரல் கிச்சன்' எனும் அமெ­ரிக்க தொண்டு நிறு­வ­னத்தைச் சேர்ந்த ஊழி­யர்கள் பயணம் செய்த வாக­னத்தின் மீது கடந்த திங்­கட்­கி­ழமை (01) இரவு  இஸ்ரேல் நடத்­திய தாக்­கு­தலால் 7 பேர் உயி­ரி­ழந்­தமை கடும் கண்­ட­னங்­க­ளுக்கு வழி­வ­குத்­துள்­ளது.
+
+இத்­தாக்­குதல் தவ­று­த­லாக இடம்­பெற்­றது என இஸ்­ரே­லிய பிர­தமர் பெஞ்­சமின் நெத்­தன்­யாஹு கூறினார். அதே­வேளை இத்­தாக்­கு­த­லுக்கு தான் மன்­னிப்பு கோரு­வ­தாக இஸ்­ரே­லிய ஜனா­தி­பதி ஐசக் ஹேர்ஸாக் தெரி­வித்­தி­ருந்தார்.
+
+இந்­நி­லையில், இச்­சம்­ப­வத்தில் பல்­வேறு தவ­று­களும்  விதி­மு­றை­ மீறல்­களும் இடம்­பெற்­றுள்­ள­தாக இஸ்­ரே­லிய பாது­காப்புப்படை தெரி­வித்­துள்­ளது.
+
+...
+
+[Data](articles/73385151.json)
+
+---
+
+### 3 மாதங்களில் சுற்றுலாத்துறையின் வருமானம் 100 கோடி அமெரிக்க டொலரை கடந்தது
+
+*2024-04-08 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180662) · `ta`
+
+இவ் ஆண்டு முதல் மூன்று மாதங்களில் சுற்றுலா பயணிகளின் வருகை  635,784 ஆக பதிவாகியுள்ளதாக சுற்றுலாத்துறை அமைச்சர் ஹரின் பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+இந்நிலையில், குறித்த காலப்பகுதியில் சுற்றுலா பயணிகளின் வருகையின் மூலம் 1,025,000,000 அமெரிக்க டொலர் வருமானம் கிடைத்துள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/eeb73b56.json)
+
+---
+
+### කොම්පඤ්ඥවීදියේ නව ගුවන් පාලම ජන සතු කෙරේ
+
+*2024-04-08 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195421) · `si`
+
+කොම්පඤ්ඥවීදිය, විනිසුරු අක්බාර් මාවත හා උත්තරානන්ද මාවත සම්බන්ධ කරමින් දුම්රිය මාර්ගයට ඉහළින් ඉදිකරන ලද ගුවන් පාලම අද (08) ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මීට සුළු මොහොතකට පෙර ජනතා අයිතියට පත් කර තිබේ.
+
+මෙම ව්‍යාපෘතියේ සෙසු ඉදිකිරීම් කටයුතු නුදුරේදී අවසන් කිරීමට නියමිත අතර, සමස්ත ව්‍යාපෘතිය වෙනුවෙන් ඇස්තමේන්තුගත මුදල රුපියල් 5,278,081,272.43ක් බව ජනාධිපති මාධ්‍ය ඒකකය නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/5ec5df47.json)
+
+---
+
+### ඩොලර් ගේන සංචාරකයෝ
+
+*2024-04-08 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195420) · `si`
+
+මේ වසරේ පළමු මාස 03තුළ සංචාරකයින් 635,784 දෙනෙකු මෙරටට පැමිණ ඇති බව සංචාරක අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+
+එමඟින් උපයා ඇති ආදායම අමෙරිකානු ඩොලර් මිලියන 1,025ක් බව අමාත්‍යවරයා සඳහන් කරයි.
+
+වසරක් තුළ මෙරටට පැමිණි වැඩිම සංචාරකයින්ගේ සංඛ්‍යාව මෙම වසරේ දී වාර්තා වීමට බොහෝ දුරට ඉඩ තිබෙන බව ද ඔහු සඳහන් කළේය.
+
+මේ වනවිට වසරක දී වැඩිම සංචාරකයින් පිරිසක් මෙරටට පැමිණ ඇත්තේ 2018 වසරේ දී වන අතර එම සංඛ්‍යාව ලක්ෂ 23ක් බව සංචාරක අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසා ඇත.
+
+◼️
+
+[Data](articles/56b99f2c.json)
+
+---
+
+### විහාරස්ථානයක ගරාජයක් තුළ පුද්ගල ඝාතනයක්
+
+*2024-04-08 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195419) · `si`
+
+සැකකටයුතු ලෙස මියගොස් තිබු මළ සිරුරක් මහනුවර ගැටඹේ ප්‍රදේශයේ තිබී සොයාගෙන තිබේ.
+
+එම ප්‍රදේශයේ විහාරස්ථානයක ගරාජයක් තුළ පුද්ගලයෙකු මිය ගොස් ඇති බවට මහනුවර පොලිස් ස්ථානයේ නිලධාරීන්ට ලද තොරතුරක් මත විමර්ශන ආරම්භ කර ඇති බව සඳහන්ය.
+
+පොලිස් ස්ථානයේ නිලධාරීන් විසින් සිද්ධිය වූ ස්ථානය ගොස් පරීක්ෂා කිරීමේදී මියගිය පුද්ගලයාගේ දෙපා හා අත් ලණුවකින් ගැට ගසා මුනින් අතට වැටී පරදීමකින් ඇති වූ තුවාල සහිතව මියගොස් සිට ඇති බව පොලීසිය පැවසුවේය.
+
+මියගොස් ඇත්තේ 42 හැවිරිදි මැණික්හින්න ප්‍රදේශයේ පදිංචිව සිට අයෙකු බව සඳහන්ය.
+
+සිද්ධිය වන විට එම විහාරස්ථානයේ ආරක්ෂාව සඳහා යොදවා සිටි සිවිල් ආරක්ෂක භටයෙකු අත්අඩංගුවට ගෙන ඇති අතර මහනුවර පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/db015bf3.json)
+
+---
+
+### பூநகரியில் 10 கிலோ வெடி மருந்துடன் ஒருவர் கைது
+
+*2024-04-08 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180661) · `ta`
+
+கிளிநொச்சி - பூநகரி பகுதியை சேர்ந்த நபர் ஒருவர் ஆபத்தான வெடிமருந்தை , மோட்டர் சைக்கிளில் கடத்தி செல்வதாக பூநகரி பொலிஸாருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் பிரகாரம் பொலிஸார் விசேட நடவடிக்கையை மேற்கொண்டு , மோட்டார் சைக்கிளில் பயணித்த நபரை மடக்கி பிடித்து கைதுசெய்தனர்.
+
+குறித்த நபரிடம் இருந்து 10 கிலோ நிறையுடைய சி - 4 ரக வெடிமருந்தை பொலிஸார் மீட்டனர்.
+
+அதனை அடுத்து குறித்த நபரை கைதுசெய்து பூநகரி பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை பொலிஸார் முன்னெடுத்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/f671ca60.json)
+
+---
 
 ### SLAF launches separate probe after corporal killed in police fire
 
@@ -51,6 +151,8 @@ The person who was shot dead at Angamuwa, Padukka is suspected to be the gunman 
 ◼️
 
 [Data](articles/299201f1.json)
+
+[Extended Data](ext_articles/299201f1.ext.json)
 
 ---
 
@@ -77,6 +179,32 @@ According to Unicef, the current outbreak is the worst in 25 years. Since Octobe
 ...
 
 [Data](articles/634a2390.json)
+
+[Extended Data](ext_articles/634a2390.ext.json)
+
+---
+
+### පාදුක්කේ වෙඩිතැබීමේ සිදුවීම ගැන ගුවන් හමුදාවෙන් විශේෂ පරීක්ෂණයක්
+
+*2024-04-08 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195418) · `si`
+
+අද (08) අලුයම පාදුක්ක, අංගමුව ප්‍රදේශයේ දී සිදුකළ වෙඩි ප්‍රහාරයකින් ගුවන් හමුදා සෙබළෙක් ජීවිතක්ෂයට පත්වීම සම්බන්ධයෙන් ගුවන් හමුදාව විශේෂ පරීක්ෂණයක් ආරම්භ කර තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා ගුවන් හමුදා මාධ්‍ය ප්‍රකාශක, ගෲප් කැප්ටන් දුෂාන් විජේසිංහ මහතා සඳහන් කර ඇත්තේ, ගුවන් හමුදා රග්බි සංචිතයට අනුයුක්තව සේවය කළ ගුවන් හමුදා කෝප්‍රල්වරයෙකු එලෙස ජීවිතක්ෂයට පත්ව ඇති බවය.
+
+අද අලුයම පොලීසිය සහ පොලිස් විශේෂ කාර්ය බළකාය අංගමුව ප්‍රදේශයේ රාත්‍රී මුර සංචාර කටයුතුවල නිරතව සිටිය දී පැමිණි අදාළ යතුරුපැදියකට නවත්වන ලෙස නියෝග කර ඇති බව වාර්තා වේ.
+
+කෙසේවෙතත් අදාළ පුද්ගලයා පොලිස් අණ නොතකා යතුරුපැදිය ධාවනය කර ඇති අතර ඔහු පොලීසිය දෙසට වෙඩි ප්‍රහාර කිහිපයක් ද එල්ල කර තිබේ.
+
+එහිදී පොලීසිය සහ පොලිස් විශේෂ කාර්ය බළකාය ආත්මආරක්ෂාව සඳහා වෙඩි තබා ඇති බව වාර්තා වේ.
+
+වෙඩි වැදීමෙන් තුවාල ලැබු එම පුද්ගලයා ප්‍රතිකාර සඳහා පාදුක්ක රෝහලට ඇතුළත් කර තිබේ.
+
+පාදුක්ක රෝහලේ ප්‍රතිකාර ලබමින් සිටි සැකකරු පසුව මියගොස් ඇති බව පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේය.
+
+...
+
+[Data](articles/d1827df1.json)
 
 ---
 
@@ -664,27 +792,55 @@ Semasinghe stressed that even individuals who have missed out on previous subsid
 
 ---
 
-### ඇමෙරිකාවෙන් ලංකාවට ලබා දෙන ඔත්තු බැලීමේ යානය කුමක් ද?
+### What is the intelligence plane to Sri Lanka from US?
 
 *2024-04-08 04:13:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cyxzendzrn0o) · `si`
 
-නුදුරේදීම විශේෂ ගුවන් යානාවක් ඇමෙරිකාවෙන් මෙරටට ලබා දීමට නියමිතව ඇතැයි ශ්‍රී ලංකා ගුවන් හමුදාව පවසයි.
+The US is providing a special aircraft to Sri Lanka, focusing on its strategic importance in the Indian Ocean. The aircraft, a 605 Challengegar 605, is used for surveillance activities. It arrived in March for training of Sri Lankan Armed Forces personnel. The Air Force Spokesperson confirmed future US surveillance aircraft will be given to Sri Lanka, including the Beech King AIR 360er Aircraft.
 
-ඉන්දියන් සාගරයේ භූ ගෝලීය වශයෙන් වැදගත් ස්ථානයක පිහිටා තිබෙන ශ්‍රී ලංකාව ගැන ලෝකයේ අවධානය යොමු වන්නේ ඈත අතීතයේ සිටය.
+🟩
 
-එම පිහිටීම නිසා දූපත් රාජ්‍යයක් වූ ශ්‍රී ලංකාවට ජාත්‍යන්තර නාවුක ගමන් මාර්ගයේ ඉතා වැදගත් ස්ථානයක් හිමිවන්නේ නිතැතිනි.
+The SLAF says that a special aircraft will be given to US in the US.
 
-ඒ හේතුවෙන් ශ්‍රී ලංකාවට අයත් සමුද්‍රීය සහ ගුවන් කලාපය රටේ ජාතික ආරක්ෂාවට ඉතා වැදගත් ලෙස සැලකෙයි.
+The world's focus on Sri Lanka is avenged in an important position in the Indian Ocean.
 
-ගුවනේ සිට සමුද්‍රීය නිරීක්ෂණ කිරීමේ හැකියාව සහිත ඇමෙරිකානු ආරක්ෂක අංශ වලට අයත් ආවේක්ෂණ ගුවන් යානයක් ඉකුත් මාර්තු මාසයේදී ශ්‍රී ලංකාවට පැමිණියේය.
+Because of that location, Sri Lanka, a island, is a very important place in the international shipping.
 
-එලෙස පැමිණි ගුවන් යානය චැලෙන්ජර් 605 වර්ගයේ නිරීක්ෂණ යානයක් වන අතර එය ‍ ගුවනේ සිට ආවේක්ෂණ කටයුතු සඳහා යොදා ගනු ලැබේ.
+As a result, Marine and the airline are very important to the national security of the country.
 
-බීබීසී සිංහල සේවය කළ විමසීමේදී ගුවන් හමුදා මාධ්‍ය ප්‍රකාශක ගෲප් කැප්ටන් දුෂාන් විජේසිංහ පැවසුවේ සමුද්‍රීය නිරීක්ෂණ කටයුතු සම්බන්ධයෙන් මෙරට ත්‍රිවිධ හමුදා නිලධාරීන් පුහුණු කිරීම සඳහා එම ගුවන් යානය මෙරටට පැමිණි බවයි.
+A large number of surveillance aircraft to be observed from the air came to Sri Lanka last March.
+
+The aircraft is a 605 Challengegar 605, which is used for surveillance activities.
+
+Air Force Spokesperson Group Captain Dushan Wijesinghe said that the aircraft arrived in Sri Lanka to train the three Armed Forces personnel in Sri Lanka regarding the BBC Sinhala.
+
+"This plane arrived in Sri Lanka to train our Air Force pilots and officers. Six crew including pilots and other staff were returned to Sri Lanka. "The Air Force Spokesman said.
+
+The spokesman said that the training was carried out from the SLAF Base Colombo.
 
 ...
 
 [Data](articles/01095288.json)
+
+[Extended Data](ext_articles/01095288.ext.json)
+
+---
+
+### Loss-making SMIB faces political pressure IN recoverING loans
+
+*2024-04-08 03:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/Loss-making-SMIB-faces-political-pressure-IN-recoverING-loans/131-280332) · `en`
+
+The state-run loss-making State Mortgage & Investment Bank (SMIB) has revealed that there are political interferences when the attempts are made to recover long- due loans.
+
+Bank’s General Manager,Thushara Asuramanna, has recently told this to workers and the trade union members at a public meeting explaining the ‘difficult’ situation that the state bank is going through.
+
+“When we tried to recover certain loans we used to get calls even from the Presidential Secretariat,” Asuramanna, told employees who gathered at the head office at Kollupitiya demanding bonuses for the Sinhala and Hindu New Year.
+
+As the bank employees were not satisfied with regard to their requests for a New Year bonus, they had surrounded the head office. However, the General Manager who intervened in the situation summoned the employees to the auditorium and explained how over the past few years the bank had been going from bad to worse and ended up with nearly Rs 500 million in losses.
+
+...
+
+[Data](articles/7f008da4.json)
 
 ---
 
@@ -1414,19 +1570,27 @@ Hardik Pandya and Tim David shared 60 runs off 31 balls in 5 wickets.
 
 ---
 
-### යක්ෂයාගේ වල්ගාතරුව දැක ගැනීමට ශ්‍රී ලාකිංකයන්ටත් අවස්ථාවක්
+### Sri Lankan lapicity is an opportunity to see the devil's comet
 
 *2024-04-07 21:00:02* · [`adalk`](https://www.ada.lk/breaking_news/යක්ෂයාගේ-වල්ගාතරුව-දැක-ගැනීමට-ශ්‍රී-ලාකිංකයන්ටත්-අවස්ථාවක්/11-408998) · `si`
 
-අද (08දා) දිනයේදී අහසේ දර්ශනය වීමට නියමිත 'යක්ෂයාගේ වල්ගාතරුව' දැක බලාගැනීමේ දුර්ලභ අවස්ථාවක් ශ්‍රී ලාංකිකයන් වෙත උදා වන බව තාරකා විද්‍යාඥයෝ පවසති. 12P/Pons-Brooks යන විද්‍යාත්මක නාමයෙන් හැඳින්වෙන මෙම වල්ගාතරුව වසර 71කට පසුව මෙලෙස පෘථිවිය පසුකරමින් යයි.
+Sri Lankans witness the 'Devil's Comet' today, a large comet named 12p/Pons-Brooks, visible due to its ice and gas composition. It was first observed by Chinese astronomers around 1300 and officially named by French astronomer Gene-Louis Ponn in 1883. NASA recommends viewing it today, especially during the solar eclipse in North America.
 
-සැතපුම් 18.6ක පළලක් සහිත ඉතා විශාල වල්ගාතරුවක් වන මෙහි ඇති 'අඟ' දෙකක් වැනි පෙනුම නිසා එයට යක්ෂයාගේ වල්ගාතරුව යන නම ලබා දී තිබේ. මෙම වල්ගාතරුව අයිස් සහ වායුව එකතුවෙන් සැකසී ඇති බවත්,  එහි කලින් කලට පිපිරීම් සිදුවන බවත් හඳුනාගෙන ඇත.
+🟩
 
-ක්‍රි.ව. 1300 දී පමණ චීන තාරකාවිද්‍යාඥයන් පිරිසකට පළමුවරට මෙම වල්ගාතරුව නිරීක්ෂණය වී තිබේ. පසුව 19 වැනි සියවසේදී ප්‍රංශ තාරකාවිද්‍යාඥයෙකු වන ජීන්-ලුයිස් පොන්ස් විසින් නිල වශයෙන් මෙම වල්ගාතරුව හඳුනා ගත් අතර, 1883 දී බ්‍රිතාන්‍ය ඇමෙරිකානු තාරකාවිද්‍යාඥයෙකු වූ විලියම් බෘක්ස් යළිත් එය සොයා ගත්තේය. ඒ අනුව ඔවුන් දෙදෙනාගේ නම් එකතු කරමින් මෙම වල්ගාතරුවට 12P/Pons-Brooks යන නම ලබා දී තිබේ.
+Astronomers say that Sri Lankans have come to see the 'Devil Windowa' today (08th). Seventy years after the scientific name of 12p / Pons-brooks, this comet is passing over the Earth.
+
+It is a large comet in a width of 18.6 miles, it is two 'hone', that is the name of the devil's comet. It has been identified that the comet is being prepared by the entirety of the ice and gas.
+
+AD. This heavant has been observed for a group of Chinese stars around 1300. Later, in the 19th century, the French astronomer, Gene-Louis Ponn, was officially identified by the British Army-stir of British American Astronomy, William Brooks, a British American Astronomy again in 1883. The name of the 12p / pons-brooks named the two of them have been added to these comet.
+
+NASA to establish NASA, "the views of the views today (8th. It is also said that when the end of the solar eclipse to take place in the North American region today, the sky is due to be visible at the time of the full eclipse.
 
 ...
 
 [Data](articles/b463a095.json)
+
+[Extended Data](ext_articles/b463a095.ext.json)
 
 ---
 
@@ -2045,193 +2209,5 @@ The Meteorological Department (Met Department) issued a new statement that the h
 [Data](articles/d3f90adf.json)
 
 [Extended Data](ext_articles/d3f90adf.ext.json)
-
----
-
-### From The Curry House To The White House & Beyond: The Trajectory Of High Blood Pressure
-
-*2024-04-07 18:31:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/from-the-curry-house-to-the-white-house-beyond-the-trajectory-of-high-blood-pressure/) · `en`
-
-At the tail end of World War II, with victory looming in the backdrop, the Allied Heroes convened in Yalta to chart the postwar future of Europe. Seated between Churchill and Stalin was Roosevelt, looking majestic and jubilant, so we thought, but with the benefit of hindsight, one can sketch a contrasting picture portraying a sick man in the middle, experiencing fleeting bouts of memory lapses. But in 1945 no one knew about transient small strokes or sentinel bleeding (warning leaks), portending a major catastrophe around the corner. High blood pressure was not even in the medical lexicon, let alone its effect on bargaining power against Stalin. In fact, Franklin Roosevelt was a sick man, noticeable to his comrades but not to his personal physicians.
-
-...
-
-[Data](articles/18e2a990.json)
-
-[Extended Data](ext_articles/18e2a990.ext.json)
-
----
-
-### Let us field the presidential candidate on our side - Mahinda Rajapaksa
-
-*2024-04-07 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180641) · `ta`
-
-Mahinda Rajapaksa supports Namal Rajapaksa for presidential election. He addresses Sri Lanka Freedom Party issues and acknowledges political alliances, emphasizing decision-making through the party's executive council.
-
-🟩
-
-Let us field the best candidate on behalf of our party in the presidential election. Former President Mahinda Rajapaksa said that Namal Rajapaksa is still in time to contest the presidential election.
-
-Speaking to the media after a religious worship in Anuradhapura today (07).
-
-Question - Problems in your Thai Party, Sri Lanka Freedom Party (SLFP). Your politics started from that party. So what is your position on the current situation of the party?
-
-Answer - Problems in Sri Lanka Freedom Party. Negotiations should be resolved quickly through negotiations.
-
-Question - Your partners have formed an alliance with the United People's Power ... Wouldn't that be a challenge for you?
-
-Answer - There is no challenge. It is natural for political alliances to be established as the election is held.
-
-Answer - that's his position. We will announce our candidate. We will make a better decision through the party's executive council.
-
-Question - Are you going to field MP Namal Rajapaksa as presidential candidate?
-
-...
-
-[Data](articles/69a14a8e.json)
-
-[Extended Data](ext_articles/69a14a8e.ext.json)
-
----
-
-### The Defense Minister's Focus on the interests and issues of retired soldiers
-
-*2024-04-07 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180640) · `ta`
-
-Defense Minister Bandara Tennakoon addressed retired soldiers' concerns, including medical issues and administrative problems, promising solutions. Aid centers were established for their needs. He praised their sacrifices, outlined welfare programs, and announced a program prioritizing warriors' families, including health, public administration, and banking services. The government plans to prioritize warriors and their families under the 'Urumaya' Land Confirmation Scheme.
-
-🟩
-
-Defense Minister Bandara Tennakoon yesterday (06) heard about the interests of the retired and retired soldiers for retired and medical reasons for medical reasons and heard about the issues facing them.
-
-A event was attended by retired soldiers and their relatives by the Wanni Security Forces yesterday.
-
-He then heard about the welfare of the retired soldiers and the administrative problems they face and said he would focus on solving those issues.
-
-Wanni Defense Commander Major General Dinesh Nanayakkara welcomed the Defense Minister of Defense to attend the event.
-
-It is noteworthy that aid centers were established under the seven different directors of the Army Headquarters, which were convenient to address their needs and address their needs.
-
-Addressing the gathering, the Defense Minister recalled the soldiers who sacrificed their lives during the deadly war in the country and praised their services for the nation.
-
-...
-
-[Data](articles/fe3f0ab3.json)
-
-[Extended Data](ext_articles/fe3f0ab3.ext.json)
-
----
-
-### India resolution to export large onions to Sri Lanka
-
-*2024-04-07 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180646) · `ta`
-
-India's Modi government plans to export large onions to Sri Lanka, despite a temporary ban to control prices and domestic supply.
-
-🟩
-
-Under the foreign policy of the Modi government, India has decided to export large onions to Sri Lanka, the media has reported.
-
-India is planning to distribute thousands of metric tonnes of onions to Sri Lanka, the report said.
-
-It is noteworthy that the Government of India has imposed a temporary ban on onion exports aimed at controlling prices and the high level of onion in the domestic market.
-
-◼️
-
-[Data](articles/612ae4d7.json)
-
-[Extended Data](ext_articles/612ae4d7.ext.json)
-
----
-
-### 29 farmers in Vavuniya for the economic development of the villagers
-
-*2024-04-07 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180638) · `ta`
-
-29 farmers in Vavuniya received grains under the Ponds and Villages Renaissance Scheme for rural economic development. The scheme, launched by the Ministry of Irrigation, provides seeds and cultivation guidelines at the Kovilkulam Agrarian Development Center.
-
-🟩
-
-29 farmers in Vavuniya today (07) have been given grains under the Ponds and Villages Renaissance Scheme for the economic development of the rural population.
-
-Under the Ponds and Villages Renaissance Scheme under the Ministry of Irrigation, the Cereal Project for Cultivation for the economic development of the rural people has been launched across the country.
-
-Accordingly, the event was held today at the Kovilkulam Agrarian Development Center located in the Vavuniya Ilupaiyadi area.
-
-Under this scheme, kachan, gape, lentils and plow are provided for cultivation under the selected ponds.
-
-As a part of this, 25 farmers under the Kovilkulam Agrarian Development Center were given seeds, 2 farmers, seeds for one farmer, seeds for one farmer, and other farmers' seeds were given to 29 farmers and the consultation guidelines on cultivation were given.
-
-...
-
-[Data](articles/02a67289.json)
-
-[Extended Data](ext_articles/02a67289.ext.json)
-
----
-
-### Heat advisory issued for 7 provinces and 2 districts
-
-*2024-04-07 18:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98496/heat-advisory-issued-for-7-provinces-and-2-districts) · `en`
-
-The heat index, the temperature felt on the human body, is expected to increase up to the ‘Caution’ level (39°C – 45°C) in some places in Northern, North-Central, Eastern, Western, Sabaragamuwa, North-western and Southern provinces and Matale, Monaragala districts, says the Department of Meteorology.
-
-The advisory, issued at 04.00 p.m. today (07), is effective until tomorrow (08), it added.
-
-The advisory cautions of heat cramps and heat exhaustion; continued activity could result in heatstroke, it further warns.
-
-The Heat Index Forecast is calculated by using relative humidity and maximum temperature and this is the condition that is felt on the human body, says the Meteorology Department.
-
-The department further says this is not the forecast of maximum temperature. It is generated by the Department of Meteorology for the next day period and prepared by using global numerical weather prediction model data, the advisory further read.
-
-◼️
-
-[Data](articles/4350c31a.json)
-
-[Extended Data](ext_articles/4350c31a.ext.json)
-
----
-
-### The same situation in the North will take place for ministers in the East - Chanakyan
-
-*2024-04-07 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/180636) · `ta`
-
-The TNA will fight for a permanent political solution for Tamils, with youth emigrating due to rising costs. Parliamentarian R. Sanakian highlights the Tamil community's role in deciding the presidential election. Sri Lanka Muslim Congress leader Rauf Hakeem emphasizes unity among Muslims in the East. The Sri Lankan Tamil National Party, established in 1949, advocates for a political solution for Tamils, suggesting unity is key to influencing the next presidential election.
-
-🟩
-
-The TNA will fight until a permanent political solution is available for the Tamil people, and the development projects on the people's taxpayer will not be satisfied with the people in the North.. The people will be chased away soon. Parliamentarian R. Sanakian said the Tamil people would be the main force to decide the presidential election.
-
-The Achievement Ceremony of the Allied Social Welfare Organization in Thikkodai village belonging to the Boratheevu Divisional Secretariat Division of Batticaloa District
-
-There have been an increase in prices that cannot live in this country. The costs have increased. Thus, the youth of the modern villages have gone to work in the Middle East. When elections come in the future, we can bring about changes when people make a decisive decision.A Chancellor told me that the Sinhalese brother had asked me to contest the MP in the presidential election.
-
-...
-
-[Data](articles/23b976d8.json)
-
-[Extended Data](ext_articles/23b976d8.ext.json)
-
----
-
-### Illegal registrar's office in Kattankudi: One arrested
-
-*2024-04-07 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180637) · `ta`
-
-In Kattankudi, a person was arrested for running an illegal registrar's office in Kalladi. The police seized 205 certificates, 58 blank certificates, 63 land replacement bonds, a computer, printer, typing machines, 30 bonds with official signatures, and 12 national identity cards. The suspect was handed over to the Kattankudy Police Station.
-
-🟩
-
-One person has been arrested for being surrounded by Special Task Force Office, an illegal registrar's office, which was operating in a house in Kalladi, which belongs to the Kattankudy Police Division.
-
-Police said 205 certificates from the suspect, 58 blank certificates, 63 land replacement bonds, computer, printer, typing machines, 30 bonds with the official signature of different officers and 12 copies of 12 national identity cards.
-
-The suspect has been handed over to the Kattankudy Police Station with the seized items.. Gajanayake said.
-
-◼️
-
-[Data](articles/b5935eb4.json)
-
-[Extended Data](ext_articles/b5935eb4.ext.json)
 
 ---

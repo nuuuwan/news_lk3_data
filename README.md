@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 12:18:15**
+As of **2024-04-08 12:34:08**
 
 ## Newspaper Stats
 
-*Scraped **17,792** Articles*
+*Scraped **17,801** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,159 @@ dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 972
 islandlk | 979
-economynextcom | 982
+economynextcom | 983
 adalk | 1,493
-tamilmirrorlk | 2,094
+tamilmirrorlk | 2,096
 adaderanalk | 2,147
-virakesarilk | 2,599
-dailymirrorlk | 2,720
+virakesarilk | 2,602
+dailymirrorlk | 2,723
 adaderanasinhalalk | 2,885
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,792 (100.0%) of 17,792 articles have been extended.
+17,792 (99.9%) of 17,801 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் தலைவராக  அமைச்சர் நிமல் சிறிபால டி சில்வா
+
+*2024-04-08 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180691) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் தலைவராக அமைச்சர் நிமல் சிறிபால டி சில்வாவை கட்சியின் அரசியல் குழு  இன்று நியமித்துள்ளது.
+
+◼️
+
+[Data](articles/9a175daf.json)
+
+---
+
+### Sri Lanka to export chilli, eggplant, okra and maize seeds: Minister
+
+*2024-04-08 12:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-export-chilli-eggplant-okra-and-maize-seeds-minister-157862/) · `en`
+
+ECONOMYNEXT – Sri Lanka is preparing to export several types of seeds after research proved successful, its Minister of Agriculture and Plantation Industry, Mahinda Amaraweera has said.
+
+“For the first time, several species of chillies, eggplant, okra and maize have been successfully tested. There is a high demand for these seeds from many foreign countries,” Minister Mahinda Amaraweera said on his social media page.
+
+The Department of Agriculture and the private sector have conducted research on these new types of seeds, he said during a visit to the CIC Holdings’ Palvehera farm.
+
+“More suitable seeds are being produced for cultivation in our country. The MICH 1-2 chilli variety introduced by the Department of Agriculture is currently yielding very successful harvests across the country. It is possible to get crops for 9 consecutive months from that chili cultivation.”
+
+Sri Lanka imports seeds for various crops from foreign countries.
+
+...
+
+[Data](articles/ca2b02eb.json)
+
+---
+
+### Sri Lanka defaults on USD 6 billion payment despite rising reserves: Patali
+
+*2024-04-08 12:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-defaults-on-USD-6-billion-payment-despite-rising-reserves-Patali/108-280392) · `en`
+
+Colombo, April 8 (Daily Mirror) - United Republican Front (URF) leader Patali Champika Ranawaka said Sri Lanka defaulted on a payment of USD 6 billion starting from April 2022 when the country announced bankruptcy.
+
+He said this was the reality though the Central Bank data show the increase of foreign reserves to USD 5 billion.
+
+"While CBSL data shows Sri Lanka's foreign reserves reaching USD 5 billion, it is imperative to understand that from April 2022, the sum of defaulted debt is approximately USD 6 billion. The sum of loans obtained since the default from the World Bank, ADB, and IMF is USD 3 billion," he posted on X.
+
+◼️
+
+[Data](articles/d7c7afeb.json)
+
+---
+
+### வவுனியா பஸ் விபத்தில் மாணவன் படுகாயம்
+
+*2024-04-08 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180687) · `ta`
+
+வவுனியா பத்தினியார் மகிழங்குளம் பகுதியில் பாடசாலைக்கு சென்ற மாணவனை பஸ் மோதியதில் மாணவன் படுகாயம் அடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+பத்தினியார் மகிழங்குளம் நோக்கி வந்த பஸ் அதே திசையில் புதுக்குளம் பாடசாலைக்கு துவிச்சக்கர வண்டியில் சென்ற மாணவனை மோதியதிலேயே மாணவன் படுகாயமடைந்தார்.
+
+◼️
+
+[Data](articles/fb0bca6d.json)
+
+---
+
+### சாம்பல் மேடாக காணப்படுகின்றது காசாவின் மிகப்பெரிய மருத்துவமனை-அரைகுறையாக புதைக்கப்பட்ட உடல்களை பார்க்க முடிகின்றது - உலக சுகாதார ஸ்தாபனம்
+
+*2024-04-08 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180686) · `ta`
+
+காசாவின் மிகப்பெரிய மருத்துவமனை இஸ்ரேலின் சமீபத்தைய முற்றுகை மற்றும் தாக்குதல் காரணமாக சாம்பல்மேடாகியுள்ளது என தெரிவித்துள்ள உலக சுகாதார ஸ்தாபனம் மருத்துவமனை பல உடல்களுடன் வெறும் இடிபாடாக காணப்படுவதாகவும் தெரிவித்துள்ளது.
+
+முற்றிலும் அழிவுண்ட நிலையி;ல் காணப்படும் மருத்துவமனைக்கு சென்ற உலக சுகாதார ஸ்தாபனத்தின் பணியாளர்கள் அரைகுறையாக புதைக்கப்பட்ட உடல்கள் கைகால்கள் வெளியில் தெரியும் நிலையில் காணப்படுவதை பார்த்துள்ளனர்.
+
+மருத்துவமனையில் பாரிய அழிவையும் பார்வையிட்டுள்ள உலக சுகாதார ஸ்தாபனத்தின் பணியாளர்கள் முற்றுகையின் போது இஸ்ரேலிய படையினர் மிக மோசமான நிலையில்நோயாளிகளை தடுத்துவைத்திருந்தமை  அவர்களில் சிலர் உயிரிழந்தமை  குறித்து அறிந்துள்ளனர்.
+
+இரண்டு வாரகால நடவடிக்கையின் பின்னர் கடந்த திங்கட்கிழமை  அல்சிபா மருத்துவமனையிலிருந்து இஸ்ரேலிய படையினர் வெளியேறியிருந்தனர்
+
+இரண்டு வாரங்களாக தாங்கள் மருத்துவமனையின் உள்ளே பாலஸ்தீன தீவிரவாதிகளிற்கு எதிரான நடவடிக்கைகளில் ஈடுபட்டிருந்ததாக அவர்கள் தெரிவித்திருந்தனர்.
+
+...
+
+[Data](articles/56850882.json)
+
+---
+
+### கெஹலியவின் விளக்கமறியல் நீட்டிப்பு
+
+*2024-04-08 12:02:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவின்-விளக்கமறியல்-நீட்டிப்பு/175-335735) · `ta`
+
+சர்ச்சையை ஏற்படுத்திய மருந்து இறக்குமதி சம்பவம் தொடர்பில் விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்லவின் விளக்கமறியல் எதிர்வரும் 22ஆம் திகதி வரை நீட்டிக்கப்பட்டுள்ளது.
+
+இந்த வழக்கின் சந்தேக நபர்கள் இன்று (08) மாளிகாகந்த நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டனர்.
+
+அங்கு முதலாம், இரண்டாவது, மூன்றாவது, நான்காவது, ஆறாவது, ஏழாவது மற்றும் எட்டாவது சந்தேக நபர்கள் விளக்கமறியலில் வைக்கப்பட்டு ஐந்தாவது சந்தேக நபர் பிணையில் விடுவிக்கப்பட்டதாக தெரிவிக்கப்படுகின்றது.
+
+அத்துடன், 10ஆம் மற்றும் 11ஆம் சந்தேக நபர்களுக்கு பிணை வழங்குவதா இல்லையா என்பதை தீர்மானிக்க எதிர்வரும் 10ஆம் திகதி மீண்டும் நீதிமன்றில் முன்னிலைப்படுத்துமாறு நீதவான் உத்தரவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/f9525bdc.json)
+
+---
+
+### Fathers now welcome in delivery room
+
+*2024-04-08 12:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fathers-now-welcome-in-delivery-room/108-280391) · `en`
+
+Colombo, April 08 (Daily Mirror) -  The Castle Street Hospital for Women in Colombo has initiated a new programme permitting fathers to be present in the delivery room during childbirth.
+
+Speaking to the Daily Mirror, Dr. Ajith Danthanarayana, the Director of the hospital, said that this initiative marks a significant milestone as the first government hospital to implement such a programme.
+
+Dr. Danthanarayana emphasized that separate rooms have been specifically prepared for each mother within the maternity ward.
+
+He highlighted the programme's potential to enhance the birthing experience for women, enabling them to deliver their child in a conducive environment.
+
+◼️
+
+[Data](articles/a48e7539.json)
+
+---
+
+### வெளியேற்றத்துக்கு எதிரான தடை நீட்டிப்பு
+
+*2024-04-08 11:59:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளியேற்றத்துக்கு-எதிரான-தடை-நீட்டிப்பு/175-335733) · `ta`
+
+அமைச்சர் மஹிந்த அமரவீர, லசந்த அழகியவன்ன மற்றும் பாராளுமன்ற உறுப்பினர் துமிந்த திஸாநாயக்க ஆகியோரை ஸ்ரீ லங்கா சுதந்திரக் கட்சியில் இருந்து நீக்குவதற்கு எடுக்கப்பட்ட தீர்மானத்தை அமுல்படுத்துவதை தடுக்கும் வகையில் பிறப்பிக்கப்பட்ட தடை உத்தரவை எதிர்வரும் 24ஆம் திகதி வரை நீடிக்குமாறு கொழும்பு மாவட்ட நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+ஸ்ரீ லங்கா சுதந்திரக் கட்சியில் இருந்து நீக்கப்பட்டமைக்கு எதிராக அந்த அமைச்சர்களால் தாக்கல் செய்யப்பட்ட மனுக்கள் இன்று (08)  விசாரணைக்கு  எடுத்துக்கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+இந்த முறைப்பாடுகளில் பிரதிவாதிகளாக ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் தலைவர் மைத்திரிபால சிறிசேன, பதில் பொதுச் செயலாளர் சாரதி துஷ்மந்த மித்ரபால உள்ளிட்டோர் குறிப்பிடப்பட்டுள்ளனர்.
+
+நியாயமான ஒழுக்காற்று விசாரணையின்றி தம்மை கட்சியில் இருந்து நீக்கி கட்சி செயற்குழு எடுத்த தீர்மானம் சட்டத்துக்கு முரணானது எனவும் அதனை இரத்துசெய்யுமாறு அறிவிக்க வேண்டும் எனவும் கோரி சம்பந்தப்பட்ட உறுப்பினர்கள் வழக்கு தொடர்ந்துள்ளனர்.
+
+◼️
+
+[Data](articles/517cd52c.json)
+
+---
 
 ### Keheliya Explanation Prolongation!
 
@@ -94,7 +230,7 @@ Janaka Ratnayake filed his petition in his capacity as an electricity consumer a
 
 ### SLFP appoints Nimal Siripala as acting Chairman
 
-*2024-04-08 11:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLFP-appoints-Nimal-Siripala-as-acting-Chairman/108-280390) · `en`
+*2024-04-08 11:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLFP-appoints-Nimal-Siripala-as-acting-Chairman/108-280390) · `en`
 
 Colombo, April 08 (Daily Mirror) - Minister of Ports, Aviation and Shipping Nimal Siripala de Silva has been appointed as Acting Chairman of the Sri Lanka Freedom Party (SLFP).
 
@@ -107,6 +243,18 @@ The Colombo District Court last week issued an interim injunction, barring forme
 [Data](articles/46c60dea.json)
 
 [Extended Data](ext_articles/46c60dea.ext.json)
+
+---
+
+### Rowing Championship 2024
+
+*2024-04-08 11:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Rowing-Championship-2024/110-280388) · `en`
+
+The 38th National Rowing Championship 2024 was held at the Diyawanna Rowing Centre. The crew’s commendable effort to achieve goals whilst tackling examinations and other duties is truly an example of fine sportsmanship. Pix by Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/bbd85d96.json)
 
 ---
 
@@ -154,13 +302,11 @@ Public Health Inspectors have obtained food samples to be sent to the Government
 
 The interim injunction order preventing the Sri Lanka Freedom Party’s (SLFP) Executive Committee from removing Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera from their respective positions in the party, has been extended until April 24.
 
-This order was issued by the Colombo District Court this morning (08), Ada Derana reporter said.
+The Colombo District judge Sandun Withana issued this order when a plaint filed by the relevant MPs was taken up this morning (08), Ada Derana reporter said.
+
+A group of individuals including former President Maithripala Sirisena and Acting General Secretary of SLFP Sarathi Dushmantha Mithrapala have been named as respondents of the relevant plaints, through which an order is sought declaring that the decision taken by the party’s executive committee to expel them without any disciplinary investigation to be unlawful.
 
 The Executive Committee of the SLFP decided to remove Dissanayake, Alagiyawanna and Amaraweera from their respective positions in the party, during a special party meeting held on March 30.
-
-Accordingly, Dissanayake was stripped of his post as the National Organizer, Alagiyawanna was removed as the Treasurer and Amaraweera as the Senior Vice President.
-
-Meanwhile, SLFP also appointed a new Senior Vice President, a Treasurer and a National Organizer after the trio was stripped of their respective positions.
 
 ...
 
@@ -836,15 +982,11 @@ The Sri Lanka Air Force confirmed that an SLAF Volunteer Corporal of the Rugby p
 
 The Sri Lanka Air Force (SLAF) is conducting a separate inquiry into the incident, according to the SLAF Spokesman.
 
-It was reported this morning (08) that an individual was killed in an exchange of fire with police and Special Task Force (STF) personnel at Angamuwa in Padukka.
+The SLAF said it is aware of an incident this morning involving an SLAF corporal attached to Air Force Rugby pool at a police checkpoint in Padukka, which has resulted in his death. The Commander of the Air Force has initiated an inquiry into the incident, Group Captain Dushan Wijesinghe said.
 
-The deceased was identified as a member of the Sri Lanka Air Force who was on a motorcycle and had defied an order to stop at a checkpoint during a Police-STF operation.
+The SLAF Director Media stated that preliminary findings point to an exchange of fire between the SLAF corporal (volunteer) and the police officers who were at the check point. According to the information of Police, the injured Corporal who was off duty, had succumbed to his injuries once hospitalised.
 
-Police said the motorcyclist had opened fire at the police personnel and was injured when the police returned fire. However, he had died on admission to the Padukka Hospital.
-
-The person who was shot dead at Angamuwa, Padukka is suspected to be the gunman in the shooting which killed two persons at Moragahahena in Horana yesterday, police said.
-
-◼️
+...
 
 [Data](articles/299201f1.json)
 
@@ -1987,229 +2129,5 @@ The President pointed out that with the political change in July 2022, the presi
 [Data](articles/91db5a69.json)
 
 [Extended Data](ext_articles/91db5a69.ext.json)
-
----
-
-### Model UNP. I came to office with policy
-
-*2024-04-08 00:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-க-கொள்கையுடன்-பதவிக்கு-வந்தேன்/175-335725) · `ta`
-
-President Ranasinghe Premadasa praised the United National Party (UNP) tradition, highlighting its role in leadership under President JR Jayawardene and President Ranil Wickremesinghe. He criticized the current United People's Power for not representing UNP policies, accusing it of aligning with the budding committee, including GL Peiris, and abandoning the UNP tradition.
-
-🟩
-
-Working with President JR Jayawardene and defending the party under President Ranasinghe Premadasa. President Ranil Wickremesinghe said that I came to the post of leadership of the country with the tradition of the United National Party (UNP) and became the Prime Minister of the United National Party.
-
-The President was speaking at a meeting with the United National Party (UNP) activists held at the Kandy President's House yesterday.. As he further stated,
-
-The United National Party said that it is with us.. The United People's Power has said that we will capture the Sirikotha. But now they have formed an alliance with the budding committee, including GL Peiris.
-
-Ranjith Mathumapandara is only sitting with Sajith today. There is no one else from the United National Party.
-
-...
-
-[Data](articles/1edb7280.json)
-
-[Extended Data](ext_articles/1edb7280.ext.json)
-
----
-
-### Model UNP. Policies are not in the United People's Power
-
-*2024-04-08 00:39:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-க-கொள்கைகள்-ஐக்கிய-மக்கள்-சக்தியில்-இல்லை/175-335724) · `ta`
-
-President Ranil Wickremesinghe stated that the United National Party (UNP) has no policies in the United People's Power, emphasizing the need to work with the PA and the Sri Lanka Freedom Party for the country's welfare.
-
-🟩
-
-There are no policies of the United National Party today in the United People's Power. President Ranil Wickremesinghe said that the group that was expelled from the Mottu party is currently dealing with its economic policy.
-
-The President said this while addressing a meeting of political party representatives held at the Kandy President's House yesterday. As he further stated,
-
-There is no United National Party in the United People's Power Today. I am the one who defended the United National Party. JR Jayawardena, R, Premadasa, DP. Wijetunga, we worked with all of them.
-
-The United National Party has no right to call themselves the United National Party today. Today we have to work with the PA and the Sri Lanka Freedom Party. We must work together for the welfare of the country. He said the political trend has changed today. (A)
-
-◼️
-
-[Data](articles/c84e4564.json)
-
-[Extended Data](ext_articles/c84e4564.ext.json)
-
----
-
-### Govt. settles US$ 2bn foreign debt and interest
-
-*2024-04-08 00:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-settles-US-2bn-foreign-debt-and-interest/108-280346) · `en`
-
-The government announced that it has been successful in settling a total of US$ 1909.7 million in foreign debt and interest payments within a time-frame of about 19 months.
-
-From 21 July 2022, to February 2024, the government has disbursed US$ $1338.8 million in multilateral loans and interest, with no outstanding arrears in loan installments or interest payments, President’s Office Community Affairs Director General Rajith Keerthi Tennakone said.
-
-Addressing a press conference on Friday, he shared that according to the Department of External Resources data, payments totaling US$ 760.1 million have been made to the Asian Development Bank (ADB) and US$ 7.0 million to the Asian Infrastructure Investment Bank.
-
-Additionally, payments of US$ 22.3 million have been made to the European Investment Bank, US$ 17.9 million to the International Fund for Agricultural Development, and US$ 9.8 million to the EFF 23-26 programme of the International Monetary Fund (IMF).
-
-...
-
-[Data](articles/e0f032f9.json)
-
-[Extended Data](ext_articles/e0f032f9.ext.json)
-
----
-
-### Group assignment to protect mountain dance
-
-*2024-04-08 00:17:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலைநாட்டு-நடனத்தை-பாதுகாக்க-குழு-நியமிப்பு/175-335723) · `ta`
-
-President Ranil Wickremesinghe announced a committee to protect the mountain dance art, including a representative from the Kandy Traditional Dancers. He also advised the Labor Minister to investigate the dancers' pensions.
-
-🟩
-
-President Ranil Wickremesinghe said a committee would be appointed to investigate the steps to be taken to protect and maintain the dance art.
-
-The President said that the group, which is represented by the Ministry of Cultural Affairs and the University of Arts and University, has been advised to incorporate a representative of the Kandy Traditional Dancers.
-
-President Ranil Wickremesinghe made this statement when he met the traditional dancers of Kandy yesterday at the Kandy President's House.
-
-President Ranil Wickremesinghe has advised Labor Minister Manusha Nanayakkara to investigate the pension of Kandy's traditional dancers.
-
-Although the dancers are popular at home and abroad, the President focused on the lack of traditional traditions and advised the new committee to examine it and prepare the appropriate method.. (A)
-
-◼️
-
-[Data](articles/0b3f5ece.json)
-
-[Extended Data](ext_articles/0b3f5ece.ext.json)
-
----
-
-### Arrival of 15,675 tourists in 3 days
-
-*2024-04-08 00:05:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-நாட்களில்-15-675-சுற்றுலாப்பயணிகள்-வருகை/175-335722) · `ta`
-
-In the last 3 days, 15,675 tourists visited, with India, Russia, and Germany being the top sources.
-
-🟩
-
-In the last three days of this month alone, 15,675 tourists have visited the country.
-
-The council also noted that the number of tourists from India continues to increase.
-
-Accordingly, 2,349 from India, 1,882 from Russia and 1,438 from Germany have arrived in the country.. (A)
-
-◼️
-
-[Data](articles/4fc721b7.json)
-
-[Extended Data](ext_articles/4fc721b7.ext.json)
-
----
-
-### 50 prisoners die in prisons
-
-*2024-04-08 00:00:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலைகளில்-50-கைதிகள்-உயிரிழப்பு/175-335721) · `ta`
-
-50 prisoners died in prisons due to illness, attacks, and poor health conditions, according to Gamini P. Dissanayake, a spokesperson for the prisons. Last year, 209 people were killed in prisons.
-
-🟩
-
-Prisons Media Spokesperson Gamini P. Dissanayake said that they have died due to ill results, illness and attacks.
-
-He said 209 people were killed in prisons last year.. (A)
-
-◼️
-
-[Data](articles/be0c8541.json)
-
-[Extended Data](ext_articles/be0c8541.ext.json)
-
----
-
-### 2024-04-07 (Sunday)
-
-### Lucknov beat Gujarat with accurate bowling of Yash Tagore and Grunal Pandya
-
-*2024-04-07 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180654) · `ta`
-
-Lucknov Super Giants won against Gujarat Titans by 33 runs in IPL 2023, thanks to Marcus Stoinis's 50, Yash Tagore's 5 wickets, and Krunal Pandya's bowling. Lucknov scored 163/5 in 20 overs.
-
-🟩
-
-Lucknov Super Giants won the Gujarat Titans by 33 runs in the 21st match of the 17th Indian Premier League chapter held on Sunday at the Lucknov Econna Stadium.
-
-Marcus Stoinis's half -century and Yash Tagore's 5 wickets pile and Krunal Pandya's accurate bowling made Lucknov Super Giants easier.
-
-Lucknov Super Giants scored a total of 163 runs for the loss of 5 wickets in 20 overs.
-
-Quinton de Kock (6) and Devdat (7) lost the game with less runs. (18 - 2 wig.)
-
-Team captain KL. Rahul and Macass Stoinis shared 73 runs in the 3rd wicket and recovered the team from the fall.
-
-Marx Stoinis ((58), KL. Rahul (33), Nicholas Pooran (32 in 22 balls) and Aush Bhatoni (20) scored 20 or more runs.
-
-In bowling, Darshan Nalgande took 2 wickets for 21 runs while Umesh Yadav took 2 wickets for 22 runs.
-
-The Gujarat Titans, who were targeted by 164 runs, lost all the wickets in 18.5 overs and lost 130 runs.
-
-Sai Sudarshan and team captain Shubman Gill shared 54 runs in Power Play overs.
-
-...
-
-[Data](articles/c91b9179.json)
-
-[Extended Data](ext_articles/c91b9179.ext.json)
-
----
-
-### Government is ready to implement further plans for the welfare of retired warriors and their families - Minister of State for Defense
-
-*2024-04-07 23:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/180653) · `ta`
-
-The Minister of Defense announced plans for retired warriors' welfare, addressing their medical and administrative issues. A Wanni Security Force event aimed to improve their welfare, with Defense Minister Bandara Tennakoon as the guest. Aid centers were established under Army Headquarters directors. The minister highlighted current and future welfare programs, emphasizing the importance of supporting warriors and their families, including priority under the 'Urumaya' Land Confirmation Scheme.
-
-🟩
-
-The Minister of Defense has asked the Army Gajaba in the brigade about the interests of the retired soldiers for retired and medical reasons and the problems they are facing administratively.
-
-A event was organized by the Wanni Security Force at the Regiment of the Army on Saturday (06) by the Vanni Security Force.
-
-The main purpose of this event was to address the problems of their welfare and administratively confronting them.
-
-Defense Minister Bandara Tennakoon was the chief guest at the event.
-
-Wanni Defense Commander Major General Dinesh Nanayakkara welcomed the Defense Minister of Defense to attend the event.
-
-It is noteworthy that aid centers were established under the seven different directors of the Army Headquarters, which were convenient to address their needs and address their needs.
-
-Addressing the gathering, the Defense Minister recalled the soldiers who sacrificed their lives during the deadly war in the country and praised their services for the nation.
-
-...
-
-[Data](articles/a610ea46.json)
-
-[Extended Data](ext_articles/a610ea46.ext.json)
-
----
-
-### Consumer Authority alerts to buy sweet items!
-
-*2024-04-07 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180652) · `ta`
-
-The Consumer Affairs Authority warns consumers about buying sweets, especially imported chocolates during festive seasons, and has taken legal action against importing outdated desserts and against Samba rice sellers charging above the control price.
-
-🟩
-
-The Consumer Affairs Authority has announced the public to be very careful when buying sweets, including chocolate imported during the festive season.
-
-The Consumer Affairs Authority has taken legal action to import outdated desserts from overseas.
-
-Similarly, legal proceedings have been taken to surround the shops on the basis of complaints received by the Consumer Affairs Authority (CAA) on the Samba rice sellers at a higher price than the control price.
-
-◼️
-
-[Data](articles/eb12169b.json)
-
-[Extended Data](ext_articles/eb12169b.ext.json)
 
 ---

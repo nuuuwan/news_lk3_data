@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 20:50:33**
+As of **2024-04-08 21:04:01**
 
 ## Newspaper Stats
 
-*Scraped **17,913** Articles*
+*Scraped **17,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,44 +15,80 @@ newsfirstlk | 363
 dailyftlk | 972
 islandlk | 979
 economynextcom | 993
-adalk | 1,510
-tamilmirrorlk | 2,105
+adalk | 1,511
+tamilmirrorlk | 2,106
 adaderanalk | 2,156
 virakesarilk | 2,639
-dailymirrorlk | 2,733
+dailymirrorlk | 2,734
 adaderanasinhalalk | 2,903
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,912 (100.0%) of 17,913 articles have been extended.
+17,913 (100.0%) of 17,916 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### රජයෙන් අලුත් මාර්ගෝපදේශ මාලාවක්
+### NPP says AKD ready for Presidential debate by Daily Mirror
+
+*2024-04-08 20:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/NPP-says-AKD-ready-for-Presidential-debate-by-Daily-Mirror/155-280407) · `en`
+
+Colombo, April 8 (Daily Mirror) - National People’s Power (NPP) MP Harini Amarasuriya said that the NPP is ready to accept the invitation made by the Daily Mirror to host an open debate with the three main presidential candidates.
+
+Addressing the media, the NPP Leader was ready to accept the invitation and members attached to the NPP economic council have participated in a number of debates in the recent past where various details were highlighted.
+
+However, with the presidential elections approaching, the NPP proposed that the debate should include only presidential candidates.
+
+"If this is not feasible, we are prepared to engage in a debate with economic council members from all political parties," MP Amarasuriya said.
+
+...
+
+[Data](articles/03ce7e14.json)
+
+---
+
+### A series of new guidelines from the government
 
 *2024-04-08 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195446) · `si`
 
-අලුත් අවුරුදු උත්සව සමයේදී සංවිධානය කෙරෙන ක්‍රීඩා තරගවලට අදාළව මාර්ගෝපදේශ මාලාවක් නිකුත් කර තිබේ.
+New guidelines issued for New Year sports events by Health Minister Dr. Ramesh Pathirana. Community Medical Excurs Unit Sitithuri requires medical certificates for some sports. All police stations to intervene in racing and marathon safety. 124,760 drunken driving arrests in 2023, with 7 deaths in April.
 
-සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ අද පැවති මාධ්‍ය හමුවක දී ප්‍රකාශ කළේ අදාළ කාලය තුළ සිදුවිය හැකි අනතුරු අවම කර ගැනීම සඳහා එම මාර්ගෝපදේශ මාලාව නිකුත් කරන බවය.
+🟩
 
-මේ අතර ප්‍රජා වෛද්‍ය විශේෂඥ සමිත සිරිතුංග මහතා පැවසුවේ ඇතැම් ක්‍රීඩා සඳහා වෛද්‍ය සහතිකයක් ඉදිරිපත් කිරීම ඇතුළු මාර්ගෝපදේශ මාලාවක් ඉදිරිපත් කර ඇති බවය.
+A series of guidelines have been issued in the sports competitions organized during the New Year festival.
 
-එමෙන්ම ධාවන තරග, මැරතන් තරග ඇතුළු අවුරුදු ක්‍රීඩා සම්බන්ධයෙන් අවශ්‍ය මැදිහත් වීම සඳහා සියලු පොලිස් ස්ථාන වෙත චක්‍රලේඛයක් නිකුත් කර ඇති බව රථවාහන පාලන හා මාර්ග ආරක්ෂාව පිළිබඳ නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා එහිදී සදහන් කළේය.
+Health Minister Dr. Ramesh Pathirana told a media briefing held at the Government Information Department today.
 
-2023 වසරේ බීමත්ව රිය පැදවූ පුද්ගලයින් 124,760 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Meanwhile, Community Medical Excurs Unit Sitithuri said that some guidelines have been presented to present a medical certificate for some sports.
 
-එම වසරේ අප්‍රේල් මාසයේ දී බීමත්ව රිය පැදවීම් හේතුවෙන් සිදුවූ අනතුරුවලින් පුද්ගල මරණ 07ක් සිදුව ඇති බව නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ සඳහන් කළේය.
+DIG Indika Hapugoda, Safety Control and Road Safety, has been issued to all police stations to intervene regarding the needs of racing and marathon competitions.
 
-අලුත් අවුරුදු උත්සව සමයේ දී ක්‍රීඩා තරගවලට අදාළව මාර්ගෝපදේශ මාලාවක් by poornima on Scribd
+124,760 people have been arrested in 2023 years of drunken driving.
+
+DIG Indika Hapugoda stated that seven deaths have occurred due to drunken driving in April.
+
+BY POORNIMA ON SCRIBD
 
 ◼️
 
 [Data](articles/78a8d180.json)
+
+[Extended Data](ext_articles/78a8d180.ext.json)
+
+---
+
+### விவாகரத்து கோரி நடிகர் தனுஷ் - ஐஸ்வர்யா மனு
+
+*2024-04-08 20:15:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விவாகரத்து-கோரி-நடிகர்-தனுஷ்-ஐஸ்வர்யா-மனு/54-335757) · `ta`
+
+2004ஆம் ஆண்டு நடைபெற்ற தங்களின் திருமணத்தை செல்லாது என அறிவிக்க கோரி இருவரும் குடும்ப நல நீதிமன்றத்தில் மனு தாக்கல்
+
+◼️
+
+[Data](articles/c2b6c223.json)
 
 ---
 
@@ -175,6 +211,24 @@ This will give my special thanks to everyone who contributed to the success of t
 [Data](articles/5350563f.json)
 
 [Extended Data](ext_articles/5350563f.ext.json)
+
+---
+
+### නව විදුලි පනතට කැබිනට් අනුමැතිය
+
+*2024-04-08 19:17:02* · [`adalk`](https://www.ada.lk/breaking_news/නව-විදුලි-පනතට-කැබිනට්-අනුමැතිය/11-409020) · `si`
+
+විදුලිබල ක්ෂේත්‍රයේ ප්‍රතිසංස්කරණ පනත් කෙටුම්පතට අමාත්‍ය මණ්ඩල අනුමැතිය අද හිමිවූ බව විදුලි බල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා කියයි.
+
+ඒ අනුව නව විදුලිබල අංශයේ පනත් කෙටුම්පතේ සංශෝධිත පිටපත ගැසට් කර අනුමැතිය සඳහා පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතය.
+
+පනත් කෙටුම්පත අප්‍රේල් මස අවසන් සතියේ පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත අතර මෙම සතියේදී එය ගැසට් කිරීමට නියමිතය.
+
+පනත් කෙටුම්පත අභියෝගයට ලක් කිරීම සඳහා එය පාර්ලිමේන්තුවට ඉදිරිපත් කළ දිනයේ සිට සති 2 ක කාලයක් මහජනතාවට ලැබේ.
+
+◼️
+
+[Data](articles/dbda5a9e.json)
 
 ---
 
@@ -2313,83 +2367,5 @@ Accordingly, Ms. Luchanavanda Magistrate Luchana Abeywawaka ordered the Director
 [Data](articles/30f17d9c.json)
 
 [Extended Data](ext_articles/30f17d9c.ext.json)
-
----
-
-### Douglas Devananda's Adavadi and Chanditana Politics are valid for the Tamil people - former Karachi Pradeshiya Sabha member Jeevan ..!
-
-*2024-04-08 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180689) · `ta`
-
-Jeevan, a former Karachi Pradeshiya Sabha member, supports Douglas Devananda's Adavadi and Chanditana politics. People were transported in buses to Ponnaveli village to confront the villagers' struggle. Shanmugaraja Jeevarajah led a media briefing, highlighting the Tamil identity of those who arrived in buses, aiming to offer them a thousand rupees and a card permit. However, they did not engage in the struggle. Police in Jayapuram and Munga expressed gratitude to Ponnaweli villagers. Jeevan criticized the minister's actions, suggesting the government's involvement in suppressing the people's rights struggle.
-
-🟩
-
-Former Karachchi Pradeshiya Sabha member Jeevan has said that Douglas Devananda's Adavadi and Chanditana politics are valid.
-
-People were taken in 06 buses to overcome the legitimate struggle of the people of Ponnaveli village in the Poonakari Divisional Secretariat of Kilinochchi District.
-
-Former Pradeshiya Sabha member Shanmugaraja Jeevarajah had organized a media briefing on the matter.
-
-At a media briefing, we should thank the people who arrived in 06 buses first. They have confirmed that they are Tamil people. They were brought in to overcome the struggle of the villagers of the Ponnaweli villagers, claiming to give them a thousand rupees per person and give them a card permit.
-
-However, the people of the area who arrived in 06 buses did not participate in the struggle to learn the reality of the struggle in the village of Ponnaveli.. We have to thank them for this. Similarly, the police officers in Jayapuram and Munga have expressed their gratitude to the people of Ponnaweli.
-
-...
-
-[Data](articles/b9b3c8db.json)
-
-[Extended Data](ext_articles/b9b3c8db.ext.json)
-
----
-
-### Sri Lanka president on the offensive as election looms, hits out at SJB, NPP
-
-*2024-04-08 12:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-on-the-offensive-as-election-looms-hits-out-at-sjb-npp-157879/) · `en`
-
-ECONOMYNEXT — As Sri Lanka’s presidential election inches closer, President Ranil Wickremesinghe is increasingly on the offensive, hitting out at both the main opposition Samagi Jana Balawegaya (SJB) and the leftist National People’s Power (NPP).
-
-Wickremesinghe told a gathering in Kandy on Sunday April 07 that the SJB has not inherited the policies of his United National Party (UNP), the party it broke off of from, with its economic policy now overseen by former members of the ruling Sri Lanka Podujana Peramuna (SLPP).
-
-The SJB, once poised to take control of the UNP headquarters at ‘Sirikotha’ in 2020 under the UNP banner, claimed Wickremesinghe, is now being influenced by the chairman of the SLPP and other factions.
-
-Sri Lanka’s SJB welcomes SLPP dissidents, heaps praise on G L PeirisSee more
-
-...
-
-[Data](articles/fd49e9ca.json)
-
-[Extended Data](ext_articles/fd49e9ca.ext.json)
-
----
-
-### Humanitarian Employees Massacle - Appropriate accountability is essential Australia
-
-*2024-04-08 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180695) · `ta`
-
-Australian Prime Minister Antony Albenez emphasizes the importance of accountability for the killing of seven humanitarian workers, including Jomi Frankom, in Israel's attack, calling it a tragic event.
-
-🟩
-
-The Australian Prime Minister has reiterated that the responsibility for the killing of humanitarian workers in Israel's attack is essential.
-
-The Australian Prime Minister has said that the killing of seven humanitarian workers, including Australia's Jomi Frankom, has shocked the world.
-
-The Australian Prime Minister has reiterated that the responsibility for the killing of humanitarian workers in Israel's attack is essential.
-
-The Australian Prime Minister has said that the killing of seven humanitarian workers, including Australia's Jomi Frankom, has shocked the world.
-
-Antony Albenez said Israel's investigation into the assassination of humanitarian workers was not satisfied.
-
-He said that this was a great tragic event, Jomi Frankom, who said he was working on supporting his colleagues there.
-
-The Australian Prime Minister said that his company was also acting properly but three cars were alternately attacked.
-
-Antony Albenis said that the responsibility for us - what happened in what happened.
-
-...
-
-[Data](articles/05ac3b32.json)
-
-[Extended Data](ext_articles/05ac3b32.ext.json)
 
 ---

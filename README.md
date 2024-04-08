@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 02:18:34**
+As of **2024-04-09 02:33:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,945 (100.0%) of 17,950 articles have been extended.
+17,950 (100.0%) of 17,950 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The appointment was initiated by the SLFP faction led by former party leader Cha
 
 [Data](articles/8ee5cb0a.json)
 
+[Extended Data](ext_articles/8ee5cb0a.ext.json)
+
 ---
 
 ### President pays homage to Sri Maha Bodhi
@@ -60,6 +62,8 @@ He also called on the Chief Incumbent of Atamasthana Venerable Pallegama Hemarat
 
 [Data](articles/e4aa922a.json)
 
+[Extended Data](ext_articles/e4aa922a.ext.json)
+
 ---
 
 ### SL Journalists for Global Justice wants Govt. be alert to West Asian war threat by Israel
@@ -75,6 +79,8 @@ Meanwhile, in the recent months since the launch of the Israeli government’s m
 ...
 
 [Data](articles/7d7ebf26.json)
+
+[Extended Data](ext_articles/7d7ebf26.ext.json)
 
 ---
 
@@ -94,6 +100,8 @@ The following management tips will be useful for the leaders in this endeavour.
 
 [Data](articles/98ce4862.json)
 
+[Extended Data](ext_articles/98ce4862.ext.json)
+
 ---
 
 ### The new era of business resilience: Navigating uncharted waters
@@ -107,6 +115,8 @@ Resilience isn’t a passive trait; it’s a dynamic force that drives us to thr
 ...
 
 [Data](articles/982914c4.json)
+
+[Extended Data](ext_articles/982914c4.ext.json)
 
 ---
 

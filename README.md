@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 11:33:56**
+As of **2024-04-08 11:52:57**
 
 ## Newspaper Stats
 
-*Scraped **17,776** Articles*
+*Scraped **17,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,90 +17,200 @@ economynextcom | 978
 islandlk | 979
 adalk | 1,493
 tamilmirrorlk | 2,092
-adaderanalk | 2,144
+adaderanalk | 2,147
 virakesarilk | 2,597
-dailymirrorlk | 2,715
+dailymirrorlk | 2,718
 adaderanasinhalalk | 2,885
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,768 (100.0%) of 17,776 articles have been extended.
+17,776 (100.0%) of 17,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### මහින්ද, ලසන්ත සහ දුමින්ද නෙරපීමට එරෙහි වාරණය දීර්ඝ කෙරේ
+### 120 plantation workers hospitalised due to food poisoning
+
+*2024-04-08 11:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/120-plantation-workers-hospitalised-due-to-food-poisoning/108-280385) · `en`
+
+Hatton, April 8 (Daily Mirror)- Some 120 plantation workers including children were hospitalized due to food poisoning after consuming food served at a Kovil in Nallatanniya last night.
+
+The people had suffered vomiting, stomach ache, diarrhea and had been faintish after consuming the food served at a dansala of the Kovil and were admitted to the Maskeliya Divisional Hospital.
+
+A medical officer at the hospital said 25 of them were receiving in-house treatment while the others had left the hospital after treatment.
+
+Public Health Inspectors have obtained food samples to be sent to the Government Analyst.
+
+◼️
+
+[Data](articles/4a6d2629.json)
+
+---
+
+### Injunction issued preventing removal of Amaraweera and others from SLFP posts extended
+
+*2024-04-08 11:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98511/injunction-issued-preventing-removal-of-amaraweera-and-others-from-slfp-posts-extended) · `en`
+
+The interim injunction order preventing the Sri Lanka Freedom Party’s (SLFP) Executive Committee from removing Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera from their respective positions in the party, has been extended until April 24.
+
+This order was issued by the Colombo District Court this morning (08), Ada Derana reporter said.
+
+The Executive Committee of the SLFP decided to remove Dissanayake, Alagiyawanna and Amaraweera from their respective positions in the party, during a special party meeting held on March 30.
+
+Accordingly, Dissanayake was stripped of his post as the National Organizer, Alagiyawanna was removed as the Treasurer and Amaraweera as the Senior Vice President.
+
+Meanwhile, SLFP also appointed a new Senior Vice President, a Treasurer and a National Organizer after the trio was stripped of their respective positions.
+
+...
+
+[Data](articles/9932b57e.json)
+
+---
+
+### Probe launched into students’ use of STF-like uniforms at school event
+
+*2024-04-08 11:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Probe-launched-into-students-use-of-STF-like-uniforms-at-school-event/108-280387) · `en`
+
+Colombo, April 8 (Daily Mirror) - The Special Investigation Unit of the Police Headquarters has launched an investigation into students being dressed in uniforms resembling the jungle camouflage uniforms used by the Police Special Task Force (STF) during a sports event at a leading school in Gampaha.
+
+Police said the probe was launched following orders from the Inspector General of Police due to concerns that police officers responsible for overseeing the police cadets were aware of the incident but took no preventive action.
+
+In addition, the investigation will address the lack of proper permission for the uniforms.
+
+Police said that disciplinary action will be taken against any officers found to have acted improperly.
+
+...
+
+[Data](articles/fc7f4037.json)
+
+---
+
+### Obtaining block against sacking Mahinda, Lasantha and Duminda
 
 *2024-04-08 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195426) · `si`
 
-අමාත්‍ය මහින්ද අමරවීර, ලසන්ත අලගියවන්න සහ පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක ව ශ්‍රී ලංකා නිදහස් පක්ෂයෙන් නෙරපීමට ගනු ලැබූ තීරණය ක්‍රියාත්මකවීම වළක්වාලමින් නිකුත්කර තිබෙන වාරණ නියෝගය ලබන 24 වනදා දක්වා දීර්ඝ කරන ලෙස කොළඹ දිසා අධිකරණය නියම කළේය.
+The Colombo District Court has issued an injunction order against the sacking of Mahinda Amaraweera, Lasantha Alagiyawanna, and MP Duminda Dissanayake, following complaints filed by the Ministers against their removal from the SLFP without disciplinary inquiry.
 
-තමන්ව  ශ්‍රී ලංකා නිදහස් පක්ෂයෙන් ඉවත් කිරීමට එරෙහිව එම අමාත්‍යවරු විසින් ගොනුකළ පැමිණිලි අද (08) කැඳවනු ලැබූ අවස්ථාවේදී කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා මෙම නියෝග නිකුත් කර තිබේ.
+🟩
 
-අදාළ පැමිණිලිවල වගඋත්තරකරුවන් වශයෙන් නම් කර සිටි ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති මෛත්‍රිපාල සිරිසේන, වැඩබලන මහලේකම් සාරතී දුෂ්මන්ත මිත්‍රපාල ඇතුළු පිරිසක් නම් කර තිබුණි.
+The Colombo District Court sentenced the extension of the injunction order issued by Mahinda Amaraweera, Lasantha Alagiyawanna and MP Duminda Dissanayake.
 
-කිසිදු සාධාරණ විනය පරීක්ෂණයකින් තොරව තමන්ව පක්ෂයෙන් නෙරපීමට පක්ෂ කෘත්‍යාධිකාරී මණ්ඩලය විසින් ගනු ලැබූ තීරණය නීතියට පටහැනි බවත් එය බල ශූන්‍ය බවට තීන්දුවක් ලබාදෙන ලෙසත් ඉල්ලා අදාළ අමාත්‍යවරු විසින් මෙම පැමිණිල්ල දිසා අධිකරණය හමුවේ ගොනුකර තිබුණේය.
+Colombo District Judge Sandun Withana has issued the orders on the complaints filed by the Ministers against the removal of him from the SLFP.
+
+The Sri Lanka Freedom Party Chairman Maithripala Sirisena, Acting Secretary of Sri Lanka, was named as acting of the complaints.
+
+The complaints were filed before the District Court as the decision taken by the working committee to expel himself from the party without any reasonable disciplinary inquiry.
 
 ◼️
 
 [Data](articles/3d3bf273.json)
 
+[Extended Data](ext_articles/3d3bf273.ext.json)
+
 ---
 
-### பிரசவத்தின் போது கணவர் உடனிருக்கும் திட்டம் அறிமுகம்
+### Ex-Health Minister Keheliya and 07 others further remanded
+
+*2024-04-08 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98510/ex-health-minister-keheliya-and-07-others-further-remanded) · `en`
+
+Former Minister of Health Keheliya Rambukwella and 07 others who were implicated in the alleged import of substandard immunoglobulin vials have been further remanded until April 22 by the Maligakanda Magistrate’s Court, Ada Derana reporter said.
+
+The Criminal Investigation Department (CID) arrested Rambukwella on 02 February in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
+
+The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
+
+...
+
+[Data](articles/b2a0aece.json)
+
+---
+
+### Introduction of the plan with the husband during childbirth
 
 *2024-04-08 11:05:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரசவத்தின்-போது-கணவர்-உடனிருக்கும்-திட்டம்-அறிமுகம்/175-335731) · `ta`
 
-கொழும்பில் உள்ள பெண்களுக்கான காசல் வைத்தியசாலை பிரசவத்தின் போது பிரசவ அறையில் தந்தைகள் இருப்பதை அனுமதிக்கும் புதிய திட்டத்தை அறிமுகப்படுத்தியுள்ளது.
+Cascal Women's Hospital in Colombo is the first government hospital to allow fathers in the delivery room, enhancing the bond between couples and their child.
 
-இது போன்ற ஒரு திட்டத்தை தொடங்கும் முதல் அரசு மருத்துவமனை இது என்று காசல் பெண்களுக்கான மருத்துவமனையின் பணிப்பாளர் வைத்தியர் அஜித் தண்டநாராயணா தெரிவித்தார்.
+🟩
 
-பிரசவ அறையில் ஒவ்வொரு தாய்க்கும் தனித்தனி அறைகள் தயார் செய்யப்பட்டுள்ளதாக வைத்தியர் தண்டநாராயணா மேலும் தெரிவித்தார்.
+The women's hospital for women in Colombo has introduced a new program to allow fathers to be held in the delivery room during delivery.
 
-"பிரசவத்தின்போது கணவர்கள் மனைவியுடன் இருக்க அனுமதிக்கும் இந்தத் திட்டம், பெண் நல்ல மனநிலையில் குழந்தையைப் பெற்றெடுக்கும் அதே வேளையில், தம்பதியர் மற்றும் பெற்றோருக்கும்  குழந்தைக்கும் இடையேயான உறவையும் வலுப்படுத்தும் ”என்று அவர் கூறினார்.
+Dr. Ajith Dandanarayana, Director of the Cascal Women's Hospital, said that this was the first government hospital to launch such a project.
+
+Dr. Dandanarayana added that separate rooms have been prepared for every mother in the maternity room.
+
+"This plan, which allows husbands to be with the spouse during childbirth, will strengthen the relationship between the couple and the parents and the child, while giving birth to a child in good mood," he said.
 
 ◼️
 
 [Data](articles/928d09d8.json)
 
+[Extended Data](ext_articles/928d09d8.ext.json)
+
 ---
 
-### හිටපු සෞඛ්‍ය ඇමති කෙහෙළිය නැවතත් රිමාන්ඩ්
+### Former Health Minister Keheliya remanded again
 
 *2024-04-08 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195425) · `si`
 
-ආන්දෝලනයකට තුඩු දී ඇති ඉමියුනෝග්ලොබියුලීන් සිද්ධිය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටි හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාව අප්‍රේල් 22 වනදා දක්වා නැවතත් රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+Former Health Minister Keheliya Rambukwella remanded until April 22. Second, fourth, sixth, sixth, and eighth suspects reserved and released on bail, to be produced on the 10th to determine bail eligibility.
 
-ඒ මහතා ඇතුළු සැකකරුවන් පිරිසක් ව අද (08) දින මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කෙරිණි.
+🟩
 
-අප අධිකරණ වාර්තාකරු සඳහන් කළේ පළවෙනි, දෙවැනි, තුන්වැනි, හතරවැනි, හයවැනි, හත්වැනි සහ අටවැනි සැකකරුවන් එහිදී නැවතත් රක්ෂිත බන්ධනාගාරගත කළ බවත් 5 වැනි සැකකරුව ඇප මත මුදාහැරී බවත් ය.
+Former Health Minister Keheliya Rambukwella has been remanded again until April 22.
 
-එසේම 10 වන සහ 11 වන සැකකරුවන්ට ඇප දෙනවාද නැත්ද යන්න සම්බන්ධයෙන් තීරණය කිරීම සඳහා ඔවුන්ව නැවතත් 10 වනදා අධිකරණයට ඉදිරිපත් කරන ලෙස මහෙස්ත්‍රාත්වරයා නියෝග කර තිබුණි.
+He was produced before the Maligakanda Magistrate today (08).
+
+Our court correspondent stated that the second, the fourth, sixth, sixth and eighth suspects were reserved and released on bail.
+
+The Magistrate ordered that they were produced before courts on the 10th to determine whether they were bied.
 
 ◼️
 
 [Data](articles/f2aac175.json)
 
+[Extended Data](ext_articles/f2aac175.ext.json)
+
 ---
 
-### ශ්‍රීලනිපයේ ලොකු පුටුවට අලුත් මුහුණක්
+### A new face to the big chair of the SLFP
 
 *2024-04-08 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195424) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ නව වැඩබලන සභාපතිවරයා ලෙස නිමල් සිරිපාල ද සිල්වා මහතා පත්කර තිබේ.
+Nimal Siripala de Silva, SLFP's Senior Vice President, is now the acting chairman. Despite the Independence Party's General Secretary, Sarahi Yomalpala, claiming no constitutional right to convene a political panel meeting, the Political Bureau met today.
 
-අද (08) උදෑසන එම පක්ෂයේ හිටපු සභාපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය ඇතුළු ජ්‍යේෂ්ඨයින්ගේ ප්‍රධානත්වයෙන් දේශපාලන මණ්ඩලයේ හදිසි රැස්වීමක් පැවැත්වූ අතර, එහිදී එම තීරණය ගෙන තිබේ.
+🟩
 
-කෙසේවෙතත් පක්ෂ ව්‍යවස්ථාවට අනුව දේශපාලන මණ්ඩල රැස්වීමක් කැඳවීමට, තීරණයක් ගැනීමට හෝ ඉල්ලීමක් කිරීමට කිසිදු අයිතිවාසිකමක් හෝ බලයක් නොමැති බව නිදහස් පක්ෂ ප්‍රධාන ලේකම් සාරතී දුෂ්මන්ත මිත්‍රපාල මහතා පැවසීය.
+Nimal Siripala de Silva has been appointed as the new acting chairman of the SLFP.
 
-එවන් පසුබිමක ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජ්‍යේෂ්ඨ උප සභාපති නිමල් සිරිපාල ද සිල්වා මහතා විසින් දේශපාලන රැස්වීමක් මෙලෙස කැඳවා තිබිණි.
+The Political Bureau was held today (08) at the patronage of a senior party and the senior party.
+
+However, the General Secretary of the Independence Party Sarahi Yomalpala said that according to the party constitution, there is no rights or authority to convene a political panel meeting.
+
+Sri Lanka Freedom Party (SLFP) Senior Vice President of the SLFP, Nimal Siripala de Silva was convened by a political meeting.
 
 ◼️
 
 [Data](articles/1d222e46.json)
+
+[Extended Data](ext_articles/1d222e46.ext.json)
+
+---
+
+### Nimal Siripala appointed Acting Chairman of SLFP
+
+*2024-04-08 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98509/nimal-siripala-appointed-acting-chairman-of-slfp) · `en`
+
+The Sri Lanka Freedom Party (SLFP) has decided to appoint Minister of Ports, Aviation and Shipping Nimal Siripala de Silva as the party’s Acting Chairman.
+
+This decision has been arrived at during the SLFP politburo meeting led by former President Chandrika Bandaranaike Kumaratunga, which was held this morning (08) at the Sri Lanka Foundation Institute.
+
+◼️
+
+[Data](articles/45538363.json)
 
 ---
 
@@ -127,6 +237,18 @@ It is noteworthy that many SJB seniors did not attend the signed event on Friday
 [Data](articles/f98dd9f7.json)
 
 [Extended Data](ext_articles/f98dd9f7.ext.json)
+
+---
+
+### President inaugurates flyover linking Kompannavidiya
+
+*2024-04-08 10:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-inaugurates-flyover-linking-Kompannavidiya/108-280386) · `en`
+
+Colombo, April 08 - President Ranil Wickremesinghe inaugurated the flyover spanning the railway line linking Kompannavidiya with Justice Akbar Mawatha & Uttarankanda Mawatha a short while ago.
+
+◼️
+
+[Data](articles/44b2dcba.json)
 
 ---
 
@@ -174,17 +296,23 @@ Accordingly, the government has decided to provide a total of 107 billion rupees
 
 ---
 
-### கொழும்பு கொம்பனி வீதிப் பகுதியில் நிர்மாணிக்கப்பட்ட மேம்பாலம் ஜனாதிபதியால் திறப்பு
+### The President's opening of the construction of the bridge at Kombani Road, Colombo
 
 *2024-04-08 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180666) · `ta`
 
-கொழும்பு கொம்பனி வீதி, நீதிபதி அக்பர் மாவத்தை மற்றும் உத்தரானந்த மாவத்தையை இணைக்கும் வகையில் புகையிரத பாதைக்கு மேலாக நிர்மாணிக்கப்பட்ட மேம்பாலம் இன்று (08) ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் திறந்து வைக்கப்பட்டது.
+President Ranil Wickremesinghe inaugurated the Kombani Road bridge project in Colombo, connecting Judge Akbar Mawatha and Uttarananda Mawatha. The project, costing Rs 5,278,081,272.43, is nearing completion.
 
-இத்திட்டம் விரைவில் முழுமைபடுத்தப்படவுள்ளதுடன் அதற்கான மொத்தச் செலவு  5,278,081,272.43 ரூபாய் என மதிப்பிடப்பட்டுள்ளது.
+🟩
+
+President Ranil Wickremesinghe was opened today (08) to connect Judge Akbar Mawatha and Uttarananda Mawatha to Colombo Kombani Road.
+
+The scheme will soon be completed and the total cost is estimated at Rs 5,278,081,272.43.
 
 ◼️
 
 [Data](articles/36ed4cec.json)
+
+[Extended Data](ext_articles/36ed4cec.ext.json)
 
 ---
 
@@ -260,19 +388,27 @@ The President, despite being popular at home and abroad at home and abroad, focu
 
 ---
 
-### මොරගහහේන ද්විත්ව ඝාතනයේ  සැකකාර ගුවන් සෙබළාට පොලිසියෙන් වෙඩි
+### Air Force shot dead in Moragahahena double murder
 
 *2024-04-08 10:31:35* · [`adalk`](https://www.ada.lk/breaking_news/මොරගහහේන-ද්විත්ව-ඝාතනයේ--සැකකාර-ගුවන්-සෙබළාට-පොලිසියෙන්-වෙඩි/11-409000) · `si`
 
-මොරගහහේන තල්ගහවිල මාලොස්ඇල ප්‍රදේශයේ දී  07දා ත්‍රීරෝද රථයක ගමන් කරමින් සිටි දෙදෙනකුට වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියේ වෙඩික්කරු බව කියන ගුවන් භටයකු අද 08දා අළුයම පාදුක්ක අංගමුව ප්‍රදේශයේ දී පොලිස් වෙඩි පහරකට ලක්ව මිය ගොස් ඇතැයි පාදුක්ක පොලිසිය පවසයි.
+An airman was shot dead in Moragahahena, Talgahawila. Two suspects were killed in a chase. The suspect was taken to the Western Criminal Division. The deceased was a Padukka resident and an Air Force Rugby Team member.
 
-බස්නාහිර පලාත් දකුණ අපරාධ කොට්ඨාසයට ලද තොරතුරක් මත මියගිය සැකකරුගේ පාදුක්ක මිරියගල්ල ප්‍රදේශයේ පිහිටි නිවස පොලිස් කණ්ඩායමක් විසින් පරීක්ෂා කර ඇති බවත් එම අවස්ථාවේදී සැකකරු නිවසේ නොසිටි බැවින් පොලිසිය විසින් අංගමුව මංසන්ධියේ මාර්ග බාධකයක් යොදා රථ වාහන පරීක්ෂාවේ යෙදී සිට ඇත.
+🟩
 
-එලෙස රථ වාහන පරීක්ෂා කරන අතරතුර සැක කටයුතු යතුරු පැදියක් එම ස්ථානයෙන් ධාවනය කර ඇති බවත් එම අවස්ථාවේදී යතුරු පැදිය නවත්වන ලෙස සංඥා කළත් සැකකරු නොනවත්වා යතුරු පැදිය ඉදිරියට ධාවනය කර පොලිස් නිළධාරීන් දෙසට වෙඩි ප්‍රහාරයක් එල්ල කළ අවස්ථාවේදී ආත්මාරක්ෂාව සදහා පොලිසිය ද ප්‍රතිප්‍රහාර එල්ල කිරීමේදී වෙඩි වැදුණු සැකකරු බරපතල තත්වයෙන් පාදුක්ක ප්‍රාදේශීය රෝහලට ඇතුලත් කිරීමෙන් පසු මියගොස් ඇතැයි ද පොලිසිය පවසයි.
+An airman, a shot of the shot dead in Talgahawila, Moragahahena Talgahawila was killed in a three-wheeler and killing two-wheeler in Padukka, police said.
 
-...
+Police have inspected the house in Madukka Miriyagalla area in the Padukka Madukka, Padukka Madukka, the suspect, which had been taken to the Western Criminal Division.
+
+Signs of a suspicious motorcycle while inspection of vehicles were driven to stop the motorcycle, but the suspect had been shot before the police officers.The deceased has been admitted to the Padukka Divisional Hospital.
+
+The deceased has been identified as a resident of Padukka, Padukka, and was a member of the Air Force Rugby Team.
+
+◼️
 
 [Data](articles/84c9304e.json)
+
+[Extended Data](ext_articles/84c9304e.ext.json)
 
 ---
 
@@ -627,6 +763,8 @@ However, the salaries for April will be paid on April 10 in view of the New Year
 ...
 
 [Data](articles/9e4fac97.json)
+
+[Extended Data](ext_articles/9e4fac97.ext.json)
 
 ---
 
@@ -2059,145 +2197,5 @@ During the period of the year 2023, there were 512 fatal road accidents in the c
 [Data](articles/67366c49.json)
 
 [Extended Data](ext_articles/67366c49.ext.json)
-
----
-
-### The government lost Rs. 978 billion in a year
-
-*2024-04-07 20:43:21* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුද්දකදී-රජය-රුපියල්-බිලියන-978ක්-අහිමිකර-ගත්-හැටි/11-408996) · `si`
-
-The Sri Lankan government lost Rs. 978 billion in 2022, with 56 taxes being deprived, as reported by the Ministry of Finance on April 3, 2024. This loss includes special target tax subsidies, aiming to increase financial transparency and align with international standards.
-
-🟩
-
-According to the Ministry of Finance, the government has lost Rs.Is.
-
-According to the State Financial Management Report, 56 taxes that have been deprived of the government have been deprived of the government in 2022.
-
-It was revealed by the expression issued by the Ministry of Finance of Sri Lanka on April 3, 2024.
-
-The report estimates that various special target tax subsidies to Sri Lanka and the government have lost their loss.
-
-The report further states that this report also states that this report is to increase the transparency of the financial activities of Sri Lanka and adapt to international recognized procedures.
-
-◼️
-
-[Data](articles/950fef55.json)
-
-[Extended Data](ext_articles/950fef55.ext.json)
-
----
-
-### ප්‍රභූ ආරක්ෂාවට පොලීසියේ 11000ක්
-
-*2024-04-07 20:35:59* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රභූ-ආරක්ෂාවට-පොලීසියේ-11000ක්/11-408995) · `si`
-
-ශ්‍රී ලංකා පොලීසියට අනුයුක්ත නිලධාරීන් අතුරින් ප්‍රභූ ආරක්ෂක රාජකාරි සඳහා යොදවා ඇති මුළු නිලධාරීන් සංඛ්‍යාව 11,205ක් බවට පාර්ලිමේන්තුවේදී අනාවරණය විය.
-
-විවෘත හා වගකිවයුතු රජයක් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ සභාපති , පාර්ලිමේන්තු මන්ත්‍රී ජගත් කුමාර සුමිත්‍රආරච්චි මහතා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කළ 'ශ්‍රී ලංකා පොලීසිය වඩාත් කාර්යක්ෂම, මිත්‍රශීලී, ප්‍රශස්ත, ජනතා හිතවාදී, විවෘත හා වගකිව යුතු රාජ්‍ය ආයතනයක් බවට පත් කිරීම සඳහා වූ නිර්දේශ' ඇතුළත් වාර්තාවේ මේ බව සඳහන් කර ඇත.
-
-ඒ අනුව ප්‍රභූ ආරක්ෂාවේ නිරත පොලිස් නිලධාරීන්ගේ වගකීම හා කාර්ය භාරය සම්බන්ධයෙන් නියෝජ්‍ය පොලිස්පති විශේෂ ආරක්ෂක දිසාව විසින් කඩිනම් පුහුණු වැඩසටහනක් සම්පාදනය කළ යුතු බවට කාරක සභා වාර්තාවෙන් නිර්දේශ කර තිබේ.
-
-මෙලෙස වාර්තා වූ තොරතුරු අනුව ප්‍රාදේශීය පොලිස් ස්ථාන මඟින් පොලිස් නිලධාරීන් 5,380ක්ද, ප්‍රභූ ආරක්ෂක කොට්ඨාසය මඟින් පොලිස් නිලධාරීන් 4,484ක්ද, විශේෂ කාර්ය බලකා නිලධාරීන් 1,341ක්ද මෙලෙස ප්‍රභූ ආරක්ෂාව සඳහා යොදවා ඇත.
-
-◼️
-
-[Data](articles/82e0bb4a.json)
-
----
-
-### SLFP convenes urgent politburo meeting led by CBK
-
-*2024-04-07 20:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98498/slfp-convenes-urgent-politburo-meeting-led-by-cbk-) · `en`
-
-The Sri Lanka Freedom Party (SLFP) has summoned the party’s politburo on Monday (March 08) to discuss the future course of action of the party, in view of its current internal crisis situation.
-
-The meeting will reportedly be chaired by former President Chandrika Bandaranaike Kumaratunga.
-
-On Thursday (04), the Colombo District Court issued an interim injunction preventing former President Maithripala Sirisena from functioning as the SLFP chairman, following a complaint filed by former President Chandrika Bandaranaike Kumaratunga.
-
-Nevertheless, Sirisena has reacted, saying that he intends to present facts before the court regarding the matter.
-
-Meanwhile, the Acting General Secretary of SLFP Dushmantha Mithrapala lodged a complaint with the Maradana Police on Friday (05), alleging that several ‘important’ files have gone missing from the party headquarters.
-
-...
-
-[Data](articles/38afa9d5.json)
-
-[Extended Data](ext_articles/38afa9d5.ext.json)
-
----
-
-### 51 jeeves without pay taxes prevents other parties
-
-*2024-04-07 20:08:04* · [`adalk`](https://www.ada.lk/breaking_news/රේගු-බදු-නොගවා-ගෙන්වූ-ජීප්-51ක්-වෙනත්-පාර්ශ්වලට-පැවැරීම-වළක්වයි/11-408994) · `si`
-
-The Bribery Commission requested Colombo Chief Magistrate Prasanna Alwis to investigate a 51 million rupee loss, involving 51 jeeps, including 24 Lam cruise jeeps and 18 Montaro jeeps, to prevent their transfer to other parties. The Chief Magistrate ordered the registration of 400 motor vehicles into the traffic system, revealing fake data. The Bribery Commission officials informed the court that 51 vehicles were not cleared, and it was planned to misplace them after investigation. The Magistrate appointed Bribery Commission officers to report on the progress to prevent the vehicles' transfer.
-
-🟩
-
-According to a request made by the Bribery Commission, Colombo Chief Magistrate Prasanna Alwis issued an order from the request of the Bribery Commission.
-
-After considering the 51-million rupees loss of the Government, the Chief Magistrate was planning to misplace the 51 millionths of the 51 million people over the 51-billion rupees.
-
-It was prevented from the transfer of transfers to other parties, 51 other-selling 51 differential jeeps, including 24 Lam cruise jeeps, 18 montaro varieties of jeep.
-
-Registration of 400 motor vehicle registration into a complaint with the vehicle registration of fake data to the traffic system of the Department of Motor Traffic to the Department of Motor Traffic or Correctional Cabinet:Bribery Commission officials informed the court that he had been revealed.
-
-...
-
-[Data](articles/c7ce96a2.json)
-
-[Extended Data](ext_articles/c7ce96a2.ext.json)
-
----
-
-### Tourists savor Avurudu sweetmeats
-
-*2024-04-07 20:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Tourists-savor-Avurudu-sweetmeats/110-280326) · `en`
-
-Sri Lanka eagerly awaits the arrival of Avurudu, the this week. This festival, deeply rooted in tradition, marks a time of joy and renewal for Sri Lankans across the island.
-
-One of the key highlights of Avurudu is the preparation and enjoyment of traditional sweetmeats, a symbol of prosperity and togetherness. Here, tourists are captured immersing themselves in this delightful culinary experience, savoring the flavors that define Sri Lanka's rich cultural heritage - Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/f661efb1.json)
-
-[Extended Data](ext_articles/f661efb1.ext.json)
-
----
-
-### Hundreds of thousands of fish die in Mundalama lagoon
-
-*2024-04-07 19:56:00* · [`adalk`](https://www.ada.lk/breaking_news/මුන්දලම-කලපුවේ-මසුන්-ලක්ෂ-ගාණක්-මිය-යයි/11-408993) · `si`
-
-Mundalama lagoon suffers massive fish death, affecting fishermen's livelihood. The Mundala St. James Fisheries Society reports the issue from the 6th, citing a lack of small fish. Over 1,000 fishermen are impacted, unable to sell dead fish. This follows last year's similar incident, with fishermen unable to return for years. The Assistant Fisheries Director IMG is conducting an investigation.
-
-🟩
-
-Mundala fishermen say there are many dead fish in Mundalama lagoon.
-
-Mundalama St. James Fisheries Society, Mundalama, said that this was seen from the 6th.
-
-Fisheries say that the lack of large small fish has also been piled up in the lack of large small fish.
-
-There are also a large number of fishermen and more than 1,000 fishermen.
-
-The fishermen state over the fishermen are not able to sell the animals because the fish is deceased and the fish that have been demolished.
-
-Last year, the Akii has reported a case of the death of fish in the Mundalama lagoon.
-
-They say they cannot work again in the Mundalama lagoon for a few years due to the death of small fish.
-
-We are also Assistant Fisheries Director IMG. Inquired from Mr. Sarathcherandanayake.
-
-He said he was aware of the incident and to conduct a formal investigation into the matter.
-
-◼️
-
-[Data](articles/f12cc333.json)
-
-[Extended Data](ext_articles/f12cc333.ext.json)
 
 ---

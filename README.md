@@ -1,36 +1,102 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 19:33:51**
+As of **2024-04-08 19:51:55**
 
 ## Newspaper Stats
 
-*Scraped **17,904** Articles*
+*Scraped **17,910** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 159
-bbccomsinhala | 187
+bbccomsinhala | 188
 dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 972
 islandlk | 979
 economynextcom | 993
-adalk | 1,508
-tamilmirrorlk | 2,104
+adalk | 1,509
+tamilmirrorlk | 2,105
 adaderanalk | 2,156
-virakesarilk | 2,638
+virakesarilk | 2,639
 dailymirrorlk | 2,732
-adaderanasinhalalk | 2,900
+adaderanasinhalalk | 2,902
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,902 (100.0%) of 17,904 articles have been extended.
+17,904 (100.0%) of 17,910 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### இன்று முதல் அரச ஊழியர்களுக்கு சம்பள அதிகரிப்பு
+
+*2024-04-08 19:35:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-அரச-ஊழியர்களுக்கு-சம்பள-அதிகரிப்பு/175-335756) · `ta`
+
+அரச ஊழியர்களின் ஏப்ரல் மாத சம்பளத்தை இன்று முதல் வழங்க அரசாங்கம் தயாராக இருப்பதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+அரச ஊழியர்களுக்கான வரவு செலவுத்திட்டத்தின் மூலம்அதிகரிக்கப்பட்டுள்ள 10,000 ரூபாவுடன்நிறுவனங்களுக்குப் பணத்தை வழங்கத் தயாராக இருப்பதாகவும் அவர் தெரிவித்தார்.
+
+இதன்ப அரச ஊழியர்களின் சம்பளம் வழங்குவதற்காக 107 பில்லியன் ரூபா செலவிடப்படவுள்ளதுடன், அதிகரிக்கப்பட்ட தொகை மாத்திரம் 13 பில்லியன் ரூபாவை அண்மித்துள்ளது. R
+
+◼️
+
+[Data](articles/94d6fd8e.json)
+
+---
+
+### மின்சார சீர்திருத்த சட்டத்திற்கு அமைச்சரவை ஒப்புதல்
+
+*2024-04-08 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180767) · `ta`
+
+மின்வலு மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர தனது டுவிட்டர் பக்கத்தில் இதனைக் குறிப்பிட்டுள்ளார்.
+
+இதன்படி திருத்தப்பட்ட மின்சார சீர்திருத்த சட்டமூலம் ஏப்ரல் இறுதி வாரத்தில் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டு இந்த வாரத்திற்குள் வர்த்தமானியில் வெளியிடப்படும் என அதில் மேலும் குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b4f6110b.json)
+
+---
+
+### අධිබල යතුරුපැදි ලියාපදිංචියට අවසර
+
+*2024-04-08 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195445) · `si`
+
+අධි ධාරිතාවයෙන් සමන්විත යතුරුපැදි ලියාපදිංචියට අවසර ලබාදීමට තීරණය කර ඇති බව පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා පවසයි.
+
+සිය ෆේස්බුක් ගිණුමේ විශේෂ සටහනක් එක්කරමින් මන්ත්‍රීවරයා මේ බව සඳහන් කර ඇත.
+
+එසේම මෙම අධි ධාරිතා යතුරුපැදි ලියාපදිංචියෙන් ලැබෙන ආදායමින් කොටසක් ශ්‍රී ලංකා පොලීසියේ අධි ධාරිතා යතුරුපැදි මිලදී ගැනීමට සහ අදාළ විශේෂ අවශ්‍යතා සඳහා යොදා ගැනීමටත් සාකච්ඡා කෙරුණු බව පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා එම සටහනින් පෙන්වාදෙයි.
+
+රටේ තාරුණ්‍යය මා හට කළ ඉල්ලීමක් වන අධි ධාරිතාවයෙන් සමන්විත යතුරුපැදි ලියාපදිංචි කිරීමේ යෝජනාවට අවසර ලබා දීමට ශක්තියක් වෙමින්, තාරුණ්‍යයේ හඬට හොඳින් සවන්දෙමින් ඔවුන්ගේ අවශ්‍යතා තේරුම්ගත් ගරු ජනාධිපති රනිල් වික්‍රමසිංහ මැතිතුමාටත්, ගරු මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මැතිතුමාටත්, ගරු ප්‍රවාහන අමාත්‍ය බන්දුල ගුණවර්ධන මැතිතුමාටත් මා විශේෂ ස්තූතිය මෙයින් පුද කර සිටිමි.
+
+මෙම අධි ධාරිතා යතුරුපැදි ලියාපදිංචියෙන් ලැබෙන ආදායමින් කොටසක් ශ්‍රී ලංකා පොලීසියේ අධි ධාරිතා යතුරුපැදි මිලදී ගැනීමට සහ අදාළ විශේෂ අවශ්‍යතා සඳහා යොදා ගැනීමටත් සාකච්ඡා කෙරිණි.
+
+...
+
+[Data](articles/5350563f.json)
+
+---
+
+### විදුලිබල ප්‍රතිසංස්කරණ පනතට අනුමැතිය
+
+*2024-04-08 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195444) · `si`
+
+විදුලිබල ප්‍රතිසංස්කරණ සංශෝධිත පනත් කෙටුම්පත සඳහා අද අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+විදුලිබල සහ බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා සිය X ගිණුමේ සටහනක් තබමින් මේ බව සඳහන් කර ඇත.
+
+ඒ අනුව විදුලිබල ප්‍රතිසංස්කරණ සංශෝධිත පනත් කෙටුම්පත අප්‍රේල් මස අවසන් සතියේ පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමටත් මෙම සතිය තුළ ගැසට් කිරීමටත් නියමිත බවද එහි දැක්වෙයි.
+
+◼️
+
+[Data](articles/8d48036d.json)
+
+---
 
 ### Cabinet approves amended Electricity Sector Reforms Bill
 
@@ -52,25 +118,63 @@ Meanwhile, the public will have 02 weeks from the day it’s presented to the Pa
 
 ---
 
-### லங்கா பிறீமியர் லீக் ஜூலை 1ஆம் திகதி ஆரம்பம்; முதல் போட்டியில் கண்டி -  தம்புள்ளை அணிகள்
+### Ceylon Premier League Beginning on July 1;Kandy -Dambulla teams in the first match
 
 *2024-04-08 18:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180763) · `ta`
 
-ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தினால் ஏற்பாடு செய்யப்பட்டுள்ளதும் இரசிகர்களால் பெரிதும் எதிர்பார்க்கப்படுவதுமான லங்கா பிறீமியர் லீக் கிரிக்கெட் போட்டியின் நான்காவது அத்தியாயம் எதிர்வரும் ஜூலை 1ஆம் திகதி ஆரம்பமாகவுள்ளது.
+The Lanka Premier League, Sri Lanka's cricket tournament, starts July 1 with Kandy vs Dambulla in the first match. It's a two-round tournament, with the top two teams competing in the final on July 21.
 
-நடப்பு சம்பியன் பி லவ் கண்டி அணிக்கும் நடப்பு உப சம்பியன் தம்புள்ள ஒளவ்ரா அணிக்கும் பல்லேகலையில் நடைபெறவுள்ள போட்டியுடன் இந்த வருட லங்கா பிறீமியர் லீக் ஆரம்பமாகவுள்ளது.
+🟩
 
-முதலாவது போட்டிக்கு முன்பதாக ஆரம்பி விழா வைபவத்தை கோலாகலமாக நடத்த ஸ்ரீலங்கா கிரிக்கெட் நிறுவனம் திட்டமிட்டுள்ளது.
+The fourth chapter of the Lanka Premier League Cricket Tournament, which is organized by Sri Lanka Cricket and highly anticipated by fans, will commence on July 1.
 
-லங்கா பிறீமியர் லீக் இரண்டு சுற்றுகளைக் கொண்டதாகும். ஒவ்வொரு அணியும் முதல் சுற்றில் 4 போட்டிகளிலும் இரண்டாவது சுற்றில் 4 போட்டிகளிலுமாக மொத்தம் 8 போட்டிகளில் விளையாடும்.
+This year's Lanka Premier League will commence this year with the match to be played at Pallekelle in Pallekele.
 
-முதல் சுற்று ஜூலை 1ஆம் திகதியிலிருந்து 9ஆம் திகதிவரையும் இரண்டாம் சுற்று 9ஆம் திகதியிலிருந்து 16ஆம் திகதிவரையும் நடைபெறும்.
+Sri Lanka Cricket is planning to hold the ceremony before the first match.
 
-இரண்டு சுற்றுகள் நிறைவில் முதல் இரண்டு இடங்களைப் பெறும் அணிகள் ஜூலை 18ஆம் திகதி முதலாவது தகுதிகாண் போட்டியில் பிற்பகல் விளையாடும்.
+The Lanka Premier League is two rounds. Each team will play a total of 8 matches in 4 matches and 4 matches in the second round.
+
+The first round will be held from 1st to 9th and the second round from 9th to 16th.
+
+The top two teams will play in the first qualifying competition on July 18.
+
+The third and fourth place teams will play the first deletion match on the same day.
+
+The first qualifying competition will be played in the 2nd deletion match on July 20th.
+
+The winning team will be opposed to the final in the first qualifying team in the final match on July 21, deciding the champion.
 
 ...
 
 [Data](articles/24b3c4d1.json)
+
+[Extended Data](ext_articles/24b3c4d1.ext.json)
+
+---
+
+### සතොසින් සහන මල්ලක්
+
+*2024-04-08 18:49:49* · [`adalk`](https://www.ada.lk/breaking_news/සතොසින්-සහන-මල්ලක්/11-409017) · `si`
+
+ලංකා සතොස අත්‍යවශ්‍ය භාණ්ඩ 8 ක මිල තවදුරටත් අඩු කිරීමට පියවර ගත් බවත් නව මිල අද (8) මධ්‍යම රාත්‍රීයේ සිට ක්‍රියාත්මක වන බවත් එම ආයතනය පවසයි.
+
+වියළි මිරිස් කිලෝවක මිල රුපියල් 300 කින් අඩුකර ඇති අතර නව මිල රුපියල් 850 කි.
+
+චීන ලොකු ලූනු කිලෝවක් රුපියල් 120 කින් අඩුකර ඇති අතර නව මිල රුපියල් 375 කි.
+
+ඉන්දීය සහ පාකිස්තානු ලොකු ලූනු කිලෝවක මිල රුපියල් 50 බැගින් අඩුකර ඇති අතර නව මිල රුපියල් 445 කි.
+
+සුදු ලූනු කිලෝවක මිල රුපියල් 15 කින් අඩුකර ඇති අතර නව මිල රුපියල් 680 කි.
+
+පාකිස්ථානු අර්තාපල් කිලෝවක මිල රුපියල් 10 කින් අඩුකර ඇති අතර නව මිල රුපියල් 165 කි.
+
+රතු පරිප්පු කිලෝවක මිල රුපියල් 7 කින් අඩුකර ඇති අතර නව මිල රුපියල් 298 කි.
+
+සුදු කැකුළු සහල් කිලෝවක මිල රුපියල් 3 කින් අඩුකර ඇති අතර නව මිල රුපියල්189 කි.
+
+◼️
+
+[Data](articles/cf7f0e2e.json)
 
 ---
 
@@ -2036,6 +2140,24 @@ During Ramadan, the Muslim community is better off fasting. The Ramadan festival
 
 ---
 
+### කාන්තාවන්ට තනිව සංචාරය කිරීමට ශ්‍රී ලංකාව ආරක්ෂිතද? සමාජ කථා බහක් මතුව ඇත්තේ ඇයි?
+
+*2024-04-08 13:05:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c164jkk79z8o) · `si`
+
+කාන්තාවන්ට තනිව සංචාරය කිරීමට ශ්‍රී ලංකාව ආරක්ෂිතද? සමාජ කථා බහක් මතුව ඇත්තේ ඇයි?
+
+පාස්කු බෝම්බ පිපිරීම, කොවිඩ් වසංගතය සහ ආර්ථික අර්බුදය හමුවේ බිඳ වැටුණු ශ්‍රී ලංකාවේ සංචාරක කර්මාන්තය වර්තමානය වන විට නැවත නැගී එමින් පවතියි. සංචාරක කටයුතු පිළිබඳ අමාත්‍ය හරීන් ප්‍රනාන්දු මාධ්‍ය වෙත පවසා තිබුණේ මුල් මාස තුන තුළ සංචාරක ව්‍යාපාරයෙන් ඉපැයූ ආදායම ඩොලර් බිලියනයක් පමණ වන බවයි.
+
+වර්තමානය වන විට  ශ්‍රී ලංකාවට පැමිණෙන බොහෝ සංචාරකයන් තනිව සංචාරය (solo travel) කිරීමේ අරමුණින් පැමිණෙන්නන් ය. බොහෝ විදේශීය කාන්තාවෝ එලෙස තනිව සංචාරය කිරීමට ශ්‍රී ලංකාවට පැමිණෙති. Timeout.com  නමැති සඟරාවක් ශ්‍රී ලංකාව තනිව සංචාරය කරන කාන්තාවන්ට හොඳම ගමනාන්තය ලෙස නම් කර තිබෙන්නේ එවැනි වටපිටාවක් තුළය.
+
+ලංකාව තුළ 'සෝලෝ ට්‍රැවලින්' සඳහා ලැයිස්තුවක්ශ්‍රී ලංකාවේ කඳු 10ක් දවස් පහෙන් තරණය කරමු
+
+...
+
+[Data](articles/f448816e.json)
+
+---
+
 ### Politics in Sri Lanka is not a force struggle --.Sjith
 
 *2024-04-08 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195429) · `si`
@@ -2221,155 +2343,5 @@ Sri Lanka’s Export Development Board said, Abdul Jalil Abdul Karder, Assistant
 [Data](articles/529fdf30.json)
 
 [Extended Data](ext_articles/529fdf30.ext.json)
-
----
-
-### Prohibition of preventing three persons, including Amaraweera, from the posts of Sri Lanka Freedom Party (SLFP)
-
-*2024-04-08 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180699) · `ta`
-
-An interim injunction has been extended until April 24, preventing the Sri Lanka Freedom Party (SLFP) from removing Amaraweera, Dissanayake, and Alagavanna. The decision was made by Colombo District Judge Chandun Vidhan Vidhan.
-
-🟩
-
-The interim injunction to prevent the decision of the Sri Lanka Freedom Party (SLFP) to remove Duminda Dissanayake, Lasantha Alagavanna and Mahinda Amaraweera from the party has been extended till April 24.
-
-The order was issued by Colombo District Judge Chandun Vidhan Vidhan when the petition was taken up for hearing on Monday (08).
-
-Former President Maithripala Sirisena and the Sri Lanka Freedom Party (SLFP) general secretary Sarathi Dushmantha Mithrapala have been referred to as defendants in these petitions.
-
-◼️
-
-[Data](articles/56c841f4.json)
-
-[Extended Data](ext_articles/56c841f4.ext.json)
-
----
-
-### Music mastery dies in accidents
-
-*2024-04-08 12:40:16* · [`adalk`](https://www.ada.lk/breaking_news/අනතුරින්-සංගීත-ශිල්පියා-ජීවිතක්ෂයට/11-409004) · `si`
-
-A 23-year-old, Govvinda's Ishan Nilinna, died in an accident near Talawa, Anuradhapura. He was a member of a youth band and was seriously injured. The accident occurred at 5.15 am. The police suspect the motorcycle was reduced due to the deceased being asleep.
-
-🟩
-
-The Talawa Police said that a youth has died in an accident in the Talawa area in Anuradhapura today (8).
-
-The deceased has been identified as Govvinda's Ishan Nilinna, a 23 year old, who lived close to Talawa Kekirawa road.
-
-The victim had taken place in front of the Talawa Agrarian Service Centers at around 5.15 am today.
-
-Thalathwa Police say that the youth who was seriously injured in the accident was also identified to rush the Talawa Divisional Hospital.
-
-The motorcycle may have been reduced by the management of the motorcycle due to sleeping deceased, police said.
-
-The police said that the deceased is a youth youth band that a band has been a physician.
-
-◼️
-
-[Data](articles/5edc101b.json)
-
-[Extended Data](ext_articles/5edc101b.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-04-08 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/180697) · `ta`
-
-On April 8, the US dollar was valued at 294.3442 Rs for purchase and 303.8976 Rs for sale.
-
-🟩
-
-The US dollar purchasing price was 294.3442 and the sales price were Rs 303.8976 based on the Central Bank's currency exchange rate on Monday (April 08).
-
-◼️
-
-[Data](articles/527803b8.json)
-
-[Extended Data](ext_articles/527803b8.ext.json)
-
----
-
-### Is this in the Sri Lanka Freedom Party?
-
-*2024-04-08 12:35:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz9zxrw9nkdo) · `si`
-
-The Sri Lanka Freedom Party (SLFP) is facing a crisis, with the court prohibiting the current chairman. Minister Nimal Siripala de Silva was appointed as the acting chairman, leading to legal disputes and accusations of conspiracy.
-
-🟩
-
-Is this in the Sri Lanka Freedom Party?
-
-The Sri Lanka Freedom Party (SLFP), a major party that had played a decisive role in Sri Lankan politics, has become a crisis.
-
-Its culmination was reported at a Special Politburo at the Sri Lanka Foundation Institute on Monday (April 08) as the acting chairman of the party as the acting chairman of the party.
-
-The SLFP politicians seem to be divided into two bio.
-
-Minister Nimal Siripala de Silva was appointed as the acting chairman of the party at the SLFP special meeting at the Sri Lanka Freedom Party (April 8).
-
-UNP National Organizer MP Duminda Dissanayake said that former President of the President was present as a monitor's observer.
-
-Duminda Dissanayake explained why Nimal Siripala de Silva was appointed as the acting of the party acting chairman.
-
-...
-
-[Data](articles/15bdd5bb.json)
-
-[Extended Data](ext_articles/15bdd5bb.ext.json)
-
----
-
-### 120 carpse hospitalized in Kovlu
-
-*2024-04-08 12:32:18* · [`adalk`](https://www.ada.lk/breaking_news/කොවිලේ-කෑම-කාපු-120ක්-රෝහලේ/11-409003) · `si`
-
-120 hospitalized in Kovlu due to food parcels. 25 showed symptoms of faint, vomiting, abdomen and diarrhea. Condition of infected women not serious. 2000 parcels distributed to plantation workers.
-
-🟩
-
-A doctor at the Maskeliya Divisional Hospital, including estate workers and small children who were given food parcel in Kovana Kovil in the Nallathaniya Police Division was admitted to the Maskeliya Divisional Hospital.
-
-The doctor said that 25 of them were rushed to the Maskeliya Divisional Hospital with the symptoms of faint, vomiting, abdomen and diarrhea.
-
-The doctor said that the condition of the patients who are infected is women and is not serious.
-
-Meanwhile, 2000 parcels have been distributed to plantation workers, with the grants of the Public Health Inspectors, the plantation workers have been distributed to plantation workers.He said a health inspector.
-
-The public health inspector said that the samples were given to the estate nights night.
-
-◼️
-
-[Data](articles/0b0ee0bf.json)
-
-[Extended Data](ext_articles/0b0ee0bf.ext.json)
-
----
-
-### Businesses have been persecuted for businessmen and laptops
-
-*2024-04-08 12:25:35* · [`adalk`](https://www.ada.lk/breaking_news/විස්කි-හා-ලැප්ටොප්-කටුනායකින-පන්නන්න-ගිය-ව්‍යාපාරිකයන්ට-වැඩ-වරදියි/11-409002) · `si`
-
-Two Singaporean businessmen, aged 58 and 50, were arrested in Sri Lanka for importing automotive parts. They arrived in Katunayake airport at 12.00 pm on a 12-day campaign. Customs officers are investigating the goods and the men.
-
-🟩
-
-A group of businesses who were brought to Sri Lanka with a large haul of Rs.
-
-One of these two businessmen is a 58 year old resident of Ja-Canal. The other businessman is 50 year old resident of the Ratnapura area.
-
-They have been engaged in an importation campaign to import and sell automotive parts to Sri Lanka.
-
-The two were from Singapore to 12.00 days at 12.00 pm on the morning at 12.00 pm in Singapore to Katunayake airport.
-
-Steps have been taken to hand over the Katunayaka airport customs officers for further investigations into the investigation of the goods and the two businessmen who were brought to the country.
-
-◼️
-
-[Data](articles/b1d41dbd.json)
-
-[Extended Data](ext_articles/b1d41dbd.ext.json)
 
 ---

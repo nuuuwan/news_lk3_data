@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 14:51:43**
+As of **2024-04-08 15:03:14**
 
 ## Newspaper Stats
 
-*Scraped **17,835** Articles*
+*Scraped **17,838** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 972
 islandlk | 979
 economynextcom | 987
 adalk | 1,499
-tamilmirrorlk | 2,100
+tamilmirrorlk | 2,103
 adaderanalk | 2,149
 virakesarilk | 2,612
 dailymirrorlk | 2,725
@@ -26,45 +26,109 @@ adaderanasinhalalk | 2,891
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,830 (100.0%) of 17,835 articles have been extended.
+17,835 (100.0%) of 17,838 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### ටීම් 20ට තවත් පාතාලයෝ 13ක් කොටුවෙති
+### பொலிஸாரால் மேலும் 13 பேர் கைது
+
+*2024-04-08 14:44:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாரால்-மேலும்-13-பேர்-கைது/175-335743) · `ta`
+
+20 விசேட பொலிஸ் குழுக்களினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பு நடவடிக்கைகளின் போது, ​​ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பலைச் சேர்ந்த மேலும் 13 பேர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+இவர்களுடன் பல்வேறு தொடர்புகளை வைத்து குற்றச் செயல்களுக்கு உதவி செய்த சந்தேகிக்கப்படும் 10 பேரும் பொலிஸ் காவலில் வைக்கப்பட்டுள்ளனர்.
+
+இதேவேளை, கடந்த 19ஆம் திகதி முதல் நேற்று (07) வரையில்  ஒழுங்கமைக்கப்பட்ட குற்றக் குழுக்களை சேர்ந்த 327 பேர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/0f0a75b2.json)
+
+---
+
+### ”6 பில்லியன் டொலர்களை இலங்கை செலுத்தத் தவறிவிட்டது”
+
+*2024-04-08 14:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-பில்லியன்-டொலர்களை-இலங்கை-செலுத்தத்-தவறிவிட்டது/175-335742) · `ta`
+
+நாடு திவாலாகிவிட்டதாக அறிவித்த 2022 ஏப்ரல் முதல் 6 பில்லியன் அமெரிக்க டொலர்களை இலங்கை செலுத்தத் தவறிவிட்டதாக ஐக்கிய குடியரசு முன்னணியின் தலைவர் பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+
+மத்திய வங்கியின் தரவுகள் வெளிநாட்டு கையிருப்பு 5 பில்லியன் அமெரிக்க டொலர்களாக அதிகரிப்பதைக் காட்டுகின்ற போதிலும் இதுவே யதார்த்தம் எனவும் அவர் கூறினார்.
+
+CBSL தரவுகள் இலங்கையின் வெளிநாட்டு கையிருப்பு 5 பில்லியன் அமெரிக்க டொலர்களை எட்டியிருப்பதைக் காட்டும் அதேவேளையில், ஏப்ரல் 2022 முதல், செலுத்தாத கடனின் தொகை தோராயமாக 6 பில்லியன் அமெரிக்க டொலர்கள் எனப் புரிந்து கொள்ள வேண்டியது அவசியமாகும். உலக வங்கி, ADB மற்றும் IMF இலிருந்து பெறப்பட்ட கடன்களின் தொகை சுமார் 3 பில்லியன் அமெரிக்க டொலர்கள்" என்று அவர் தனது X பக்கத்தில் பதிவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/02bbf7d7.json)
+
+---
+
+### Ten Tim 13 more midwives
 
 *2024-04-08 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195433) · `si`
 
-විශේෂ පොලිස් කණ්ඩායම් 20ක් යොදවා සිදුකරනු ලබන මෙහෙයුම්වලදී තවත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් 13දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+10 Tim, 13 more midwives, 20 special teams arrested 13 organized crime gangs, 10 persons suspected. From 19th to 07, 327 organized crime gangs arrested.
 
-ඔවුන් සමග විවිධ සම්බන්ධතා පවත්වමින් අපරාධවලට සහාය වූ බවට සැක කෙරෙන පුද්ගලයන් 10 දෙනෙකු ද පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-පසුගිය 19 වනදා සිට ඊයේ (07) දින දක්වා සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් 327 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+Thirteen other organized crime gangs were arrested in the operations carried out by 20 special teams.
+
+A total of 10 persons suspected of supporting crimes with them.
+
+Police said that 327 organized crime gangs have been arrested from the 19th to yesterday (07).
 
 ◼️
 
 [Data](articles/4547f657.json)
 
+[Extended Data](ext_articles/4547f657.ext.json)
+
 ---
 
-### தடையின்றி எரிபொருள் விநியோகம் இடம்பெறும்
+### Will feature uninterrupted fuel distribution
 
 *2024-04-08 14:32:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடையின்றி-எரிபொருள்-விநியோகம்-இடம்பெறும்/175-335741) · `ta`
 
-விடுமுறை நாட்களில் தடையின்றி எரிபொருள் விநியோகம் இடம்பெறும் என மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+Minister Kanjana Wijesekera assures uninterrupted fuel supply during holidays, with plans to stockpile fuel for the next 12 months.
 
-அடுத்த 12 மாதங்களுக்கு போதுமான எரிபொருள் சரக்குகளை கொண்டு வர அமைச்சகம் திட்டமிட்டுள்ளது என அமைச்சர் தனது எக்ஸ் பக்கத்தில் தெரிவித்துள்ளார்.
+🟩
+
+Minister of Power and Energy Kanjana Wijesekera said that there will be uninterrupted fuel supply during the holidays.
+
+The minister said that the ministry is planning to bring enough fuel for the next 12 months.
 
 ◼️
 
 [Data](articles/e0a26199.json)
 
+[Extended Data](ext_articles/e0a26199.ext.json)
+
+---
+
+### Hatton youth killed in Mannar accident
+
+*2024-04-08 14:27:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-விபத்தில்-ஹட்டன்-இளைஞன்-பலி/175-335740) · `ta`
+
+A 22-year-old restaurant worker in Mannar died in an accident Sunday evening, having worked there for six years.
+
+🟩
+
+A 22 -year -old youth who was working at a restaurant in Mannar has died in a tragic accident in Mannar on Sunday evening
+
+He has been working as a worker in the restaurant for the past six years in Mannar district.. The youth has been taken to Mannar Hospital for treatment of an accident.
+
+◼️
+
+[Data](articles/34d0cc77.json)
+
+[Extended Data](ext_articles/34d0cc77.ext.json)
+
 ---
 
 ### மன்னார் விபத்தில் ஹட்டன் இளைஞன் பலி
 
-*2024-04-08 14:27:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-விபத்தில்-ஹட்டன்-இளைஞன்-பலி/175-335740) · `ta`
+*2024-04-08 14:27:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மன்னார்-விபத்தில்-ஹட்டன்-இளைஞன்-பலி/76-335740) · `ta`
 
 மன்னார் -தாழ்வுபாடு பிரதான வீதி ரெலிக்கொம் சந்திக்கு அருகாமையில் ஞாயிற்றுக்கிழமை (7) மாலை இடம்பெற்ற விபத்தில் மன்னாரில் உணவகத்தில் பணியாற்றிவந்த 22 வயதான இளைஞன் பரிதாபமாக மரணமடைந்துள்ளார்
 
@@ -72,7 +136,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/34d0cc77.json)
+[Data](articles/a74c4e52.json)
 
 ---
 
@@ -274,15 +338,21 @@ Dissanayake also accused Sirisena of appointing several acting chairmen over the
 
 ---
 
-### කෙහෙළිය ඇතුළු 6 දෙනා ලබන 22 තෙක් රිමාන්ඩ්
+### Keheliya and 6 remanded till 22
 
 *2024-04-08 13:24:54* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-ඇතුළු-6-දෙනා-ලබන-22-තෙක්-රිමාන්ඩ්/11-409009) · `si`
 
-හිටපු සෞඛ්‍ය අමත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 06 දෙනා ලබන 22 දක්වා අද (08) යළි රක්ෂිත බන්ධනාගාර ගත කොට තිබෙනවා.
+Keheliya Rambukwella and six suspects remanded again from 22.
+
+🟩
+
+Former Health Beheliya Keheliya Rambukwella and six suspects have been remanded again from 22 (08).
 
 ◼️
 
 [Data](articles/99f5d887.json)
+
+[Extended Data](ext_articles/99f5d887.ext.json)
 
 ---
 
@@ -325,6 +395,24 @@ He also said that several advertisements have been published to establish new fu
 [Data](articles/18b23a05.json)
 
 [Extended Data](ext_articles/18b23a05.ext.json)
+
+---
+
+### Sri Lanka Hones Its Balancing Act
+
+*2024-04-08 13:20:00* · [`islandlk`](http://island.lk/sri-lanka-hones-its-balancing-act/) · `en`
+
+Colombo has demonstrated its own brand of strategic autonomy on issues from Russia’s war in Ukraine to China’s global footprint
+
+Most South Asian governments tend to have nonaligned foreign policies, balancing their relations with major powers. This maximizes their diplomatic flexibility and ability to operate independently on the world stage, also known as strategic autonomy. India and Pakistan are two prominent examples: They both balance their relations with the United States and at least one of its core rivals (Russia and China, respectively).
+
+But it’s important not to overlook Sri Lanka: In the last two years, Colombo has quietly and successfully navigated global conflict and great-power rivalry. Like many other countries in the region, Sri Lanka has not condemned Russia’s war in Ukraine, even though resulting price shocks exacerbated its own economic crisis in 2022. Yet it has called for an end to the war and announced new measures that step up economic and energy ties with India.
+
+...
+
+[Data](articles/88890754.json)
+
+[Extended Data](ext_articles/88890754.ext.json)
 
 ---
 
@@ -644,25 +732,31 @@ Former President Maithripala Sirisena and the Sri Lanka Freedom Party (SLFP) gen
 
 ---
 
-### අනතුරින් සංගීත ශිල්පියා ජීවිතක්ෂයට
+### Music mastery dies in accidents
 
 *2024-04-08 12:40:16* · [`adalk`](https://www.ada.lk/breaking_news/අනතුරින්-සංගීත-ශිල්පියා-ජීවිතක්ෂයට/11-409004) · `si`
 
-අනුරාධපුර පාදෙණිය ඒ28 ප්‍රධාන මාර්ගයේ තලාව ප්‍රදේශයේදී අද (8දා)  සිදුවූ රිය අනතුරකින්  තරුණයකු ජීවිතක්ෂයට පත්ව ඇති බව තලාව පොලිසිය පවසයි.
+A 23-year-old, Govvinda's Ishan Nilinna, died in an accident near Talawa, Anuradhapura. He was a member of a youth band and was seriously injured. The accident occurred at 5.15 am. The police suspect the motorcycle was reduced due to the deceased being asleep.
 
-මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ , තලාව කැකිරාව මාර්ගයේ, තලාව නගරයට ආසන්නව  පදිංචිව සිටි ගෝවින්දගේ ඉශාන් නිමන්ත නැමති 23 හැවිරිදි  සංගීත ශිල්පියකි .
+🟩
 
-අද (8දා) අළුයම  5.15ට පමණ අනුරාධපුර දෙස සිට තලාව ප්‍රදේශයට යතුරු පැදියකින් ගමන් කරමින් සිටි  මෙම තරුණයා තලාව ගොවිජන සේවා මධ්‍යස්ථාන ඉදිරිපිට දී  එම යතුරු පැදිය  මාර්ගයෙන් ඉවතට පැන මාර්ගය අසල කොහොඹ ගසක ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව පොලිසිය සඳහන් කළේය.
+The Talawa Police said that a youth has died in an accident in the Talawa area in Anuradhapura today (8).
 
-අනතුරින්  බරපතළ තුවාල ලැබූ තරුණයා තලාව ප්‍රාදේශීය රෝහලට ඇතුළත් කරන විටත් ජීවිතක්ෂයට පත්ව  සිටි බව තලාව පොලිසිය  කියයි.
+The deceased has been identified as Govvinda's Ishan Nilinna, a 23 year old, who lived close to Talawa Kekirawa road.
 
-අධික වේගයෙන් පැමිණ ඇති මරණකරුට නින්ද යාම හේතුවෙන් යතුරු පැදිය පාලනයෙන් ගිලිහී ගොස් ගසේ වදින්නට ඇති බවට සැක කරන බව පොලිසිය සඳහන් කළේය.
+The victim had taken place in front of the Talawa Agrarian Service Centers at around 5.15 am today.
 
-මරණකරු තරුණ සේවා යොවුන් සංගීත කණ්ඩායමකට  අනියුක්තව සංගීත ශිල්පියෙකු ලෙස  කටයුතු කරමින් සිටි අයෙකු බවද මෙහිදී පොලිසිය පැවසීය.
+Thalathwa Police say that the youth who was seriously injured in the accident was also identified to rush the Talawa Divisional Hospital.
+
+The motorcycle may have been reduced by the management of the motorcycle due to sleeping deceased, police said.
+
+The police said that the deceased is a youth youth band that a band has been a physician.
 
 ◼️
 
 [Data](articles/5edc101b.json)
+
+[Extended Data](ext_articles/5edc101b.ext.json)
 
 ---
 
@@ -2183,97 +2277,5 @@ The nearest areas of Sri Lanka over which the sun is overhead today (08) are Mar
 [Data](articles/176fa828.json)
 
 [Extended Data](ext_articles/176fa828.ext.json)
-
----
-
-### Suspect in Horana double murder killed in police shootout
-
-*2024-04-08 07:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98501/suspect-in-horana-double-murder-killed-in-police-shootout) · `en`
-
-An individual has been killed in an exchange of fire with police and Special Task Force (STF) personnel at Angamuwa in Padukka, police said.
-
-The deceased has been identified as a member of the Sri Lanka Air Force who was on a motorcycle and had defied an order to stop at a checkpoint during a Police-STF operation.
-
-Police said the motorcyclist had opened fire at the police personnel and was injured when the police returned fire. However, he had died on admission to the Padukka Hospital.
-
-The person who was shot dead at Angamuwa, Padukka is suspected to be the gunman in the shooting which killed two persons at Moragahahena in Horana yesterday, police said.
-
-◼️
-
-[Data](articles/4731791d.json)
-
-[Extended Data](ext_articles/4731791d.ext.json)
-
----
-
-### Tissa cautions SJB Leadership on whom to associate with
-
-*2024-04-08 07:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tissa-cautions-SJB-Leadership-on-whom-to-associate-with/108-280355) · `en`
-
-Colombo, April 8 (Daily Mirror) - Samagi Jana Balawegaya (SJB) National Organizer Tissa Attanayake over the weekend cautioned his leader Sajith Premadasa on whom the party should associate with.
-
-“SJB should not associate with those who shift sides, and those who are corrupt but with those who are clean and trusted by the people,” Mr. Attanayake told journalists referring to the MoU with the party signed with a group of MPs from Nidahas Janatha Balawegaya (NJB) on Friday.
-
-“SJB working committee gave power to party leader to allay with any party. Therefore, we are not against any alliance with the NJB. However, we caution the party leader on whom the party should associate with as any alliance will not be accepted by the people if we are to associate with wrong the people,” Attanayake added.
-
-“The MoU with the group of NJB MPs was signed in a hurry. That is why many SJB members were not aware. I was also engaged in another appointment. That is why I missed it,” he also said.
-
-...
-
-[Data](articles/936722ec.json)
-
-[Extended Data](ext_articles/936722ec.ext.json)
-
----
-
-### Horana double murder suspect killed in police firing
-
-*2024-04-08 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195412) · `si`
-
-A suspect in the Horana double murder case was killed by police in Angamuwa, Padukka. The victim, identified as an SLAF soldier, was shot while on a motorcycle. Despite being injured, he was admitted to the hospital.
-
-🟩
-
-One person was killed in a shooting in Angamuwa, Padukka.
-
-Police have shot a motorcycle who had not been committed by the STF and the police special operation.
-
-However, the motorcyclist has been injured and hospitalized when the police had been admitted to the police.
-
-The victim was identified as a SLAF soldier.
-
-According to the police, the man was the main suspect in the Talgahawila area in Horana yesterday (07).
-
-◼️
-
-[Data](articles/4ffc5c7b.json)
-
-[Extended Data](ext_articles/4ffc5c7b.ext.json)
-
----
-
-### Heavy rains in several areas today
-
-*2024-04-08 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195411) · `si`
-
-Heavy rains expected in Western, Sabaragamuwa, Southern, and North Western provinces, with showers or thundershowers in Managed, Mannar, and Anuradhapura Districts. The Department of Meteorology warns of temporary winds and lightning accidents. The sun will be directly over Sri Lanka from April 5 to 15, with a solar eclipse at 12:12 pm today in Marawila, Pothuhele, Gurukela, Kalmunai, Gratalawela, and Warapitiya.
-
-🟩
-
-In the Western, Sabaragamuwa, Southern and North Western provinces, Managed, Mannar and Anuradhapura Districts. Showers or thundershowers will occur at several places.
-
-The Department of Meteorology announced that some locations are expected in the Western, Central and Sabaragamuwa districts and in some places in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-When the sun was traveling to the North, the Sun is directly over Sri Lanka in April 5 to 15.
-
-The sun will be over 12:12 pm today at 12:00 pm today at Marawila, Pothuhele, Gurukela, Kalmunai, Gratalawela and Warapitiya.
-
-◼️
-
-[Data](articles/40f3ec2c.json)
-
-[Extended Data](ext_articles/40f3ec2c.ext.json)
 
 ---

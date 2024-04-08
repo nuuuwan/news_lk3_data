@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 06:55:51**
+As of **2024-04-08 07:17:23**
 
 ## Newspaper Stats
 
-*Scraped **17,711** Articles*
+*Scraped **17,726** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,43 +12,129 @@ colombotelegraphcom | 159
 bbccomsinhala | 184
 dbsjeyarajcom | 213
 newsfirstlk | 363
-islandlk | 968
 dailyftlk | 972
 economynextcom | 978
+islandlk | 979
 adalk | 1,489
 tamilmirrorlk | 2,084
 adaderanalk | 2,136
 virakesarilk | 2,590
-dailymirrorlk | 2,704
+dailymirrorlk | 2,708
 adaderanasinhalalk | 2,871
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,709 (100.0%) of 17,711 articles have been extended.
+17,711 (99.9%) of 17,726 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
 
-### අදත් ප්‍රදේශ කිහිපයකට තද වැසි
+### Heavy rains in several areas today
 
 *2024-04-08 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195411) · `si`
 
-බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වලත් මොනරාගල, මන්නාරම සහ අනුරාධපුර දිස්ත්‍රික්කවලත් ප.ව. 2න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+Heavy rains expected in Western, Sabaragamuwa, Southern, and North Western provinces, with showers or thundershowers in Managed, Mannar, and Anuradhapura Districts. The Department of Meteorology warns of temporary winds and lightning accidents. The sun will be directly over Sri Lanka from April 5 to 15, with a solar eclipse at 12:12 pm today in Marawila, Pothuhele, Gurukela, Kalmunai, Gratalawela, and Warapitiya.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, බස්නාහිර, මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බවය.
+🟩
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+In the Western, Sabaragamuwa, Southern and North Western provinces, Managed, Mannar and Anuradhapura Districts. Showers or thundershowers will occur at several places.
 
-දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනවලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්ෂාංශ වලට සෘජුවම ඉහලින් පවතී.
+The Department of Meteorology announced that some locations are expected in the Western, Central and Sabaragamuwa districts and in some places in the Galle and Matara districts.
 
-අද දින (08) දහවල් 12:12 ට මාරවිල, පොතුහැර, ගුරුකැටේ, කල්මුණේ, ගර්තලවෙල සහ වරාපිටිය යන ප්‍රදේශවලට හිරු මුදුන් වනු ඇත.
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+When the sun was traveling to the North, the Sun is directly over Sri Lanka in April 5 to 15.
+
+The sun will be over 12:12 pm today at 12:00 pm today at Marawila, Pothuhele, Gurukela, Kalmunai, Gratalawela and Warapitiya.
 
 ◼️
 
 [Data](articles/40f3ec2c.json)
+
+[Extended Data](ext_articles/40f3ec2c.ext.json)
+
+---
+
+### Uncertainty looms over 48 Sri Lankans trapped in Myanmar cyber crime saga
+
+*2024-04-08 06:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uncertainty-looms-over-48-Sri-Lankans-trapped-in-Myanmar-cyber-crime-saga/108-280353) · `en`
+
+Colombo, April 8 (Daily Mirror) - The military government in Myanmar has reportedly cited that the rescue of 48 Sri Lankans held captive by cyber crime operators in the Myawaddy area has proven to be challenging since that is controlled by ethnic armed groups, an informed source said.
+
+Altogether 56 Sri Lankan victims of cyber crimes had been held and eight of them were rescued. Currently, paper work is underway to send them back to Sri Lana via Thailand since the transportation of them by road to Yangon from Myawaddy in Myanmar to be flown back to the country is challenging. The area in between remains uncleared .
+
+However, the source familiar with the process said that the rescue of the remaining 48 Sri Lankans had become challenging as informed by the military government of Myanmar. According to the source, such a rescue effort will involve military operation even putting the lives of these people in peril.
+
+...
+
+[Data](articles/1feb13c5.json)
+
+---
+
+### Fcode Labs introduces power of AI in coaching
+
+*2024-04-08 04:56:00* · [`islandlk`](http://island.lk/fcode-labs-introduces-power-of-ai-in-coaching/) · `en`
+
+Fcode Labs, a leading healthcare technology consultancy company, has announced the launch of Progress Magic (www.progressmagic.com) – revolutionary platform designed to supercharge mental and corporate coaching practices.
+
+Progress Magic leverages the power of Artificial Intelligence (AI) to streamline workflows, optimize client outcomes, and unlock transformative results for both coaches and their clients. The platform is secure. It’s HIPAA, GDPR, and PDPA compliant which means, it uses all the industry best practices on security and data privacy to operate in the USA, Europe, Singapore, and Sri Lanka.
+
+The rise in mental health and corporate coaching clientele is outpacing the availability of streamlined administrative solutions. This cuts into valuable client interaction time, potentially leading to stalled progress or client abandonment. Traditional methods of scheduling, billing, and record keeping can be cumbersome, hindering coaches’ ability to deliver the highest quality care.
+
+...
+
+[Data](articles/2b25cdd3.json)
+
+---
+
+### Nalanda Innovation Hub to catalyse entrepreneurship and sustainability in Ratnapura
+
+*2024-04-08 04:54:00* · [`islandlk`](http://island.lk/nalanda-innovation-hub-to-catalyse-entrepreneurship-and-sustainability-in-ratnapura/) · `en`
+
+The vibrant city of Ratnapura, renowned as the “City of Gems,” welcomes a new era of innovation and entrepreneurship with the grand opening of the Nalanda Innovation Hub on March 26, 2024. Nestled in the heart of Ratnapura, this hub is poised to become the nucleus of collaboration, creativity, and sustainable business practices in the region.
+
+Founded by Visaka Ellawala, the Nalanda Innovation Hub pays homage to the late Member of Parliament Nalanda Ellawala, whose enduring legacy of public service and community development serves as an inspiration to the community. Speaking at the inauguration, Visaka Ellawala emphasized the hub’s mission to unlock the entrepreneurial spirit of Ratnapura and drive sustainable development in the gem-rich region.
+
+...
+
+[Data](articles/c1164f19.json)
+
+---
+
+### SOE losses costing LKR 141,809 per Sri Lankan household : Advocata
+
+*2024-04-08 04:53:00* · [`islandlk`](http://island.lk/soe-losses-costing-lkr-141809-per-sri-lankan-household-advocata/) · `en`
+
+The soft pedaling by the government to carry out crucial reforms of State Owned Enterprises is forcing taxpayer’s wallets to take the brunt of the hit, says Colombo based think tank, Advocata Institute.
+
+Dhananath Fernando, the Chief Executive Officer of the Advocata Institute said, taking into account the upcoming election cycle, the Advocata Institute, urged the need to reform State Owned (SOE) Enterprises. Here it was said that irrespective of the government that comes into power, SOE reforms must continue.
+
+The cumulative losses of key 52 SOE’s in 2022 amounted to LKR 744.6Bn, costing LKR 1.7Mn per registered taxpayer, LKR 33,949 per citizen and LKR 141,809 per household. Despite the sharp increase in tax collection, estimates of tax collection for 2024 cannot cover the losses incurred by these 52 SOE’s for the year 2022.
+
+...
+
+[Data](articles/16f6caf3.json)
+
+---
+
+### UK’s revised travel advisory boosts confidence in Sri Lankan tourism
+
+*2024-04-08 04:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UKs-revised-travel-advisory-boosts-confidence-in-Sri-Lankan-tourism/108-280350) · `en`
+
+Sri Lanka’s tourism sector is expecting a multiplier effect across all key source markets following United Kingdom’s recent update on the travel advisory for Sri Lanka, which will immediately result in a significant boost in tourist arrivals in the upcoming summer season.
+
+The Foreign, Commonwealth & Development Office (FCDO) updated its Travel Advisory for Sri Lanka last week, with effect from April 5, after holding on to it since the economic and political crisis.
+
+The President’s Media Division asserted that this update encompasses various aspects including access to emergency medical services, security entry requirements, road safety, overall security situation, and health facility accessibility.
+
+The revised advisory no longer includes previous concerns regarding shortages of food, fuel, and medicine. In addition, the previously mentioned risks related to limitations in health services including the lack of medical equipment, have been omitted.
+
+...
+
+[Data](articles/c3cbdfbb.json)
 
 ---
 
@@ -109,6 +195,70 @@ This review encompassed various crucial aspects, including system maintenance re
 [Data](articles/7d596b03.json)
 
 [Extended Data](ext_articles/7d596b03.ext.json)
+
+---
+
+### Govt urged to fix issues and go ahead with Adani wind power project in Mannar
+
+*2024-04-08 04:19:00* · [`islandlk`](http://island.lk/govt-urged-to-fix-issues-and-go-ahead-with-adani-wind-power-project-in-mannar/) · `en`
+
+A group of sustainable energy activists convened a press conference in Colombo last week and called for resolving any issues with the Adani wind power project in Mannar and find pragmatic and sustainable ways to implement it without dragging on it.
+
+“Sri Lanka is blessed with plenty of wind — a renewable energy resource with which cheaper electricity can be provided to consumers without spending millions of dollars on fossil fuel, but it is still an enigma why the government of Sri Lanka is dragging on finalizing the Adani wind power project in Mannar,” they said.
+
+Indunil Bandara, Convener of the Youth for Renewable Energy Organization voiced concerns over the issue of increasing electricity unit tariffs faced by Sri Lankans. Bandara highlighted that nearly 25% of the average income is allocated to electricity consumption, posing significant challenges to households and businesses alike.
+
+...
+
+[Data](articles/70523998.json)
+
+---
+
+### Chinese construction company Zhong Wei upbeat about SL growth prospects, opens office in Colombo
+
+*2024-04-08 04:19:00* · [`islandlk`](http://island.lk/chinese-construction-company-zhong-wei-upbeat-about-sl-growth-prospects-opens-office-in-colombo/) · `en`
+
+Zhong Wei International Corporation, one of the leading design and construction companies in China, has opened its office in Colombo under the name Zhong Wei Engineering Consulting Company Ltd., and has begun to engage with key stakeholders in the country, to explore the prospects of providing its services as the country’s recovery process is on track to start mega projects in the near future.
+
+Chairman of the company, Luo Xiaolan said that they are keen to involve in mega development projects in the Colombo Port City, Hambantota Port, Expressway Network and are also looking at investing in power generation projects.
+
+...
+
+[Data](articles/8b386a69.json)
+
+---
+
+### ComBank shines at LankaPay Technnovation Awards 2024
+
+*2024-04-08 04:19:00* · [`islandlk`](http://island.lk/combank-shines-at-lankapay-technnovation-awards-2024/) · `en`
+
+The Commercial Bank of Ceylon won three Gold awards and two Silvers at the LankaPay Technnovation Awards 2024, reaffirming the Bank’s status as a frontrunner in payment technology innovation in Sri Lanka.
+
+The Bank was presented the Silver in the ‘Overall Award for Excellence in Digital Payments’ in addition to being recognised as the ‘Most innovative Bank of the Year’ with a Gold award, and receiving the Gold awards for ‘Best Bank for Retail Payments’ and for ‘Best Mobile Application for Retail Payments via LankaQR’ for ComBank Q+ – the Bank’s QR Payments App. The Bank also won the overall Silver Award as ‘Best LankaPay Card Implementor of the Year.’
+
+The Bank said these awards reaffirm the Bank’s supremacy and its pioneering products and services in the digital payments sphere.
+
+Themed ‘Vision Beyond Borders,’ the LankaPay Technnovation Awards hosted by LankaClear (Pvt) Ltd., the operator of LankaPay national payment network, took place at the Shangri La Hotel, Colombo.
+
+...
+
+[Data](articles/8cdb801f.json)
+
+---
+
+### Sri Lanka forex reserves improving, but global oil prices keep increasing
+
+*2024-04-08 04:19:00* · [`islandlk`](http://island.lk/sri-lanka-forex-reserves-improving-but-global-oil-prices-keep-increasing/) · `en`
+
+The gross official reserves were provisionally estimated at US dollars 4,951 mn as at end March 2024 including proceeds from the People’ Bank of China (PBOC) swap arrangement, which is subject to conditionalities on usability, according to the Weekly Economic Indicators of the Central Bank of Sri Lanka.
+
+The report, however, stated that during the period under review (March 29- April 5), crude oil prices exhibited an increasing trend. Crude oil prices increased owing to optimism on demand with the expansion in manufacturing activity in China and the US, coupled with the concerns about tight supply stemming from escalating geopolitical tensions and major producers keeping output cuts in place. Overall, both Brent and WTI prices increased by more than US dollars 3.00 per barrel during the review period.
+
+The situation, therefore, appears to remain ambivalent for Sri Lanka as the cost of incoming shipments of oil could jump in the coming weeks.
+
+...
+
+[Data](articles/bcefd017.json)
 
 ---
 
@@ -304,6 +454,28 @@ The apology from an individual on behalf of the Government which as a collective
 
 ---
 
+### Tourism earnings on a tear as healthy arrivals power incomes
+
+*2024-04-08 02:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourism-earnings-on-a-tear-as-healthy-arrivals-power-incomes/108-280347) · `en`
+
+Reflecting what the Sri Lankan tourism trade could deliver in normal times when there are no pandemics or mass scale public protests as in 2022, the industry churned out back-to-back high foreign earnings exceeding US$ 300 million.
+
+According to data, the tourism trade generated US$ 338.4 million for March compared to US$ 188.8 million a year ago and US$ 345.7 million a month before.
+
+On a cumulative basis, in the first three months,  earnings were recorded at US$ 1,025.9 million, more than double from the same period a year ago.
+
+In March, Sri Lanka saw 209,181 visitors coming in with the first three months’ arrivals topping 635,784 million.
+
+Sri Lanka for 2024 targets 2.3 million visitors to generate roughly US$ 4.0 billion earnings.
+
+In 2023, the country saw little over 1.4 million arrivals generating a little over US$ 2.0 billion.
+
+...
+
+[Data](articles/2c273f2b.json)
+
+---
+
 ### How to miss five industrial revolutions
 
 *2024-04-08 01:55:38* · [`dailyftlk`](https://www.ft.lk/columns/How-to-miss-five-industrial-revolutions/4-760419) · `en`
@@ -426,19 +598,43 @@ The President pointed out that with the political change in July 2022, the presi
 
 ---
 
-### 3 நாட்களில் 15,675 சுற்றுலாப்பயணிகள் வருகை
+### Govt. settles US$ 2bn foreign debt and interest
+
+*2024-04-08 00:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-settles-US-2bn-foreign-debt-and-interest/108-280346) · `en`
+
+The government announced that it has been successful in settling a total of US$ 1909.7 million in foreign debt and interest payments within a time-frame of about 19 months.
+
+From 21 July 2022, to February 2024, the government has disbursed US$ $1338.8 million in multilateral loans and interest, with no outstanding arrears in loan installments or interest payments, President’s Office Community Affairs Director General Rajith Keerthi Tennakone said.
+
+Addressing a press conference on Friday, he shared that according to the Department of External Resources data, payments totaling US$ 760.1 million have been made to the Asian Development Bank (ADB) and US$ 7.0 million to the Asian Infrastructure Investment Bank.
+
+Additionally, payments of US$ 22.3 million have been made to the European Investment Bank, US$ 17.9 million to the International Fund for Agricultural Development, and US$ 9.8 million to the EFF 23-26 programme of the International Monetary Fund (IMF).
+
+...
+
+[Data](articles/e0f032f9.json)
+
+---
+
+### Arrival of 15,675 tourists in 3 days
 
 *2024-04-08 00:05:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-நாட்களில்-15-675-சுற்றுலாப்பயணிகள்-வருகை/175-335722) · `ta`
 
-இந்த மாதத்தின் கடந்த மூன்று நாட்களில் மாத்திரம் 15,675 சுற்றுலாப்பயணிகள் நாட்டுக்கு வருகைத்தந்துள்ளனர்.
+In the last 3 days, 15,675 tourists visited, with India, Russia, and Germany being the top sources.
 
-அத்துடன், இந்தியாவில் இருந்து வருகைத்தரும் சுற்றுலாப்பயணிகளின் எண்ணிக்கை தொடர்ந்தும் அதிகரித்து வருவதாக அந்த சபை குறிப்பிட்டுள்ளது.
+🟩
 
-இதன்படி, இந்தியாவில் இருந்து 2,349 பேரும், ரஷ்யாவில் இருந்து 1,882 பேரும் ஜேர்மனியில் இருந்து 1,438 பேரும் நாட்டுக்கு வருகைத்தந்துள்ளனர். (a)
+In the last three days of this month alone, 15,675 tourists have visited the country.
+
+The council also noted that the number of tourists from India continues to increase.
+
+Accordingly, 2,349 from India, 1,882 from Russia and 1,438 from Germany have arrived in the country.. (A)
 
 ◼️
 
 [Data](articles/4fc721b7.json)
+
+[Extended Data](ext_articles/4fc721b7.ext.json)
 
 ---
 
@@ -1983,255 +2179,5 @@ Last year, a near record 173,000 people migrated to New Zealand, the statement s
 [Data](articles/6af37709.json)
 
 [Extended Data](ext_articles/6af37709.ext.json)
-
----
-
-### Two killed in Moragahahena
-
-*2024-04-07 14:32:17* · [`adalk`](https://www.ada.lk/breaking_news/මොරගහහේනේ-වෙඩි-තැබීමකින්-දෙදෙනෙක්-මරුට/11-408985) · `si`
-
-Two traders in a three-wheeler were shot dead near Moragahahena Talgahawila Tharagala Junction. One was injured and taken to Piliyandala hospital. The shooting was carried out by a white car.
-
-🟩
-
-Moragahahena Police said that the two traders of the three-wheeler were shot dead near the Moragahahena Talgahawila Tharagala Junction.
-
-The two deaths of the dead have not yet been identified. The victim was admitted to the Piliyandala hospital while he was injured in the shooting.
-
-Investigations have revealed that the shooting had been carried out by a white car, police said.
-
-◼️
-
-[Data](articles/b3964180.json)
-
-[Extended Data](ext_articles/b3964180.ext.json)
-
----
-
-### Sun Siam Basikuda, the five star luxury boutique hotel
-
-*2024-04-07 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/180622) · `ta`
-
-Sun Siam Pasikuda, a 5-star luxury boutique hotel, offers 4 beach villa types with 34 rooms, including Ocean Pavilion, Garden Pavilion, and two-bedroom garden beach pavilions with ponds. It provides entertainment, culinary delights, and a cultural experience.
-
-🟩
-
-Sun Siam Pasikuda, a five -star luxury boutique hotel, has been re -opened in a new dimension for travelers who are interested in improving his hymn.
-
-There are 4 types of beach villas with 34 rooms, including Ocean Pavilion, Garden Pavilion, Garden Pavilion with a pond, two bedroom garden beach pavilion with pond. Sun Siam Pasikuda is a great accommodation for all those who have all the entertainment, tasty culinary pleasures and tasty culinary pleasures.. There is no doubt that this is a cultural experience that you may not miss.
-
-◼️
-
-[Data](articles/e3c827dd.json)
-
-[Extended Data](ext_articles/e3c827dd.ext.json)
-
----
-
-### Two killed in shooting in Moragahahena
-
-*2024-04-07 14:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-killed-in-shooting-in-Moragahahena/108-280323) · `en`
-
-Horana, April 7 (Daily Mirror) - Two individuals who were traveling in a three-wheeler were killed in a shooting by a group that arrived from a car at Thalgahawila, Moragahahena.
-
-Police said the victims died upon admission to the Horana Hospital.
-
-According to police investigations, the shooting was carried out by a group that arrived in a white car.
-
-The deceased were identified as 50 and 52 years old, residents of Piliyandala and Pannipitiya.
-
-Investigations are underway to ascertain the motive behind the shooting and to arrest the suspects involved.
-
-◼️
-
-[Data](articles/73f75c7a.json)
-
-[Extended Data](ext_articles/73f75c7a.ext.json)
-
----
-
-### By the end of the year, the work of removing the mines will be completed - the Governor of the Northern Province
-
-*2024-04-07 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180611) · `ta`
-
-The Governor of the Northern Province announced the completion of mine removal by the end of the year, highlighting Sri Lanka's progress in landmine elimination. He thanked international organizations, the Sri Lankan military, and the people involved in the resettlement process.
-
-🟩
-
-A special event and a special event was organized at the Kilinochchi Central College Playground yesterday (06) to mark the International Day for Awareness on Mind Elimination.
-
-Governor of the Northern Province, Prasanna Ranatunga and Douglas Devananda at the event.. Charles also attended.
-
-Addressing the gathering, the Governor of the Northern Province said that when the mineswashing process began, there was a stand that Sri Lanka could be declared as a mirror country without 2030, but by the end of this year, most of the mines were eliminated and the people would be expected to enter their dwellings.
-
-The Governor thanked the international organizations and the Sri Lankan military in Sri Lanka that he was not a huge challenge for many measures, including resettlement.
-
-The governor also pointed out that the work of removing the Poonakari and Muhamalai areas has to be done.
-
-...
-
-[Data](articles/122a7439.json)
-
-[Extended Data](ext_articles/122a7439.ext.json)
-
----
-
-### Surely the presidential election
-
-*2024-04-07 13:58:34* · [`adalk`](https://www.ada.lk/breaking_news/නියතවශයෙන්ම-තියෙන්නෙ-ජනපතිවරණයයි/11-408984) · `si`
-
-The General Secretary General of Rangambara Bandara stated that the next presidential election should be held in the country's next election. The UNP Secretary-General participated in the opening of the Presidential Electorate's Office in DS Senanayake Street. The Election Commission Director General was informed to hold the election before the presidential election. The UNP general secretary emphasized the start of the Central Province President's Office and the expected opening of a thousand election campaign offices across the country. The UNP aims to make Ranil Wickremesinghe the next president, in coordination with the world. The UNP leader acknowledges the harassment faced by UNP supporters since 1994 and the need for compensation, citing the current confusion in the country.
-
-🟩
-
-According to the Constitution, the General Secretary General of Rangambara Bandara said that the next presidential election should be held in the country's next election.
-
-The Secretary-General of the United National Party (UNP) The Secretary-General of the UNP participated in the opening of the Presidential Electorate's Office in DS Senanayake Street today (07).
-
-The apartment was emphasized that the Director General of the Election Commission had also been informed to be held before the presidential election.The UNP general secretary added:
-
-"Today we started the Central Province President's Office. Also, a thousand election campaign offices are expected to commence over the country until the end of the presidential election.
-
-We will make the task of making Ranil Wickremesinghe to make the President to make the country's next president in coordination of the country with the world where the country can be built with the world.
-
-...
-
-[Data](articles/747ba8bc.json)
-
-[Extended Data](ext_articles/747ba8bc.ext.json)
-
----
-
-### Tomorrow’s total solar eclipse not visible to Sr Lanka
-
-*2024-04-07 13:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tomorrows-total-solar-eclipse-not-visible-to-Sr-Lanka/108-280322) · `en`
-
-Colombo, April 7 (Daily Mirror)- Though there are two lunar eclipses and two solar eclipses this year, Sri Lnakns will not be able to see any of them said Prof. Chandana Jayaratne, the Director of the Astronomy and Space Science Unit, Department of Physics, Colombo University, and the Chairman of the Arthur C. Clarke Institute for Modern Technologies.
-
-On 8 April 2024, there will be a total solar eclipse, a very famous eclipse in the world, and in particular the USA, to the extent that some schools in the USA will be closed on the eclipse day.
-
-On Earth, a total solar eclipse occurs when the Moon blocks the Sun’s disk as seen from part of Earth’s surface. In this case, the “path of totality” will be a 185 kms  wide dark shadow strip cutting across the USA, from Texas to Maine.
-
-As such, this solar eclipse is not visible to Sri Lanka, but visible in countries of the West in Europe, North America, North in South America, the Pacific, the Atlantic and the Arctic.
-
-...
-
-[Data](articles/1fd091cb.json)
-
-[Extended Data](ext_articles/1fd091cb.ext.json)
-
----
-
-### Etna emits the smoke rings
-
-*2024-04-07 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195394) · `si`
-
-Etna, Italy's most active volcano, emits smoke rings, earning it the nickname "lady of the Rings". This rare occurrence is reported by foreign media.
-
-🟩
-
-The most active firewood in Europe is the Etna's fire mountain in Italy, reports foreign media reports.
-
-Along with it, the Etna volcano has been named as "lady of the Rings".
-
-Foreign media reports that such incidents were rarely occurring.
-
-◼️
-
-[Data](articles/5a5405c0.json)
-
-[Extended Data](ext_articles/5a5405c0.ext.json)
-
----
-
-### Tomorrow’s total solar eclipse not visible to Sri Lanka
-
-*2024-04-07 13:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tomorrows-total-solar-eclipse-not-visible-to-Sri-Lanka/108-280322) · `en`
-
-Colombo, April 7 (Daily Mirror)- Though there are two lunar eclipses and two solar eclipses this year, Sri Lankans will not be able to see any of them said Prof. Chandana Jayaratne, the Director of the Astronomy and Space Science Unit, Department of Physics, Colombo University, and the Chairman of the Arthur C. Clarke Institute for Modern Technologies.
-
-On 8 April 2024, there will be a total solar eclipse, a very famous eclipse in the world, and in particular the USA, to the extent that some schools in the USA will be closed on the eclipse day.
-
-On Earth, a total solar eclipse occurs when the Moon blocks the Sun’s disk as seen from part of Earth’s surface. In this case, the “path of totality” will be a 185 kms  wide dark shadow strip cutting across the USA, from Texas to Maine.
-
-As such, this solar eclipse is not visible to Sri Lanka, but visible in countries of the West in Europe, North America, North in South America, the Pacific, the Atlantic and the Arctic.
-
-...
-
-[Data](articles/f5915cd2.json)
-
-[Extended Data](ext_articles/f5915cd2.ext.json)
-
----
-
-### Sunlight and Wind Power Program in the island: Earth Pooja in Nedundevil
-
-*2024-04-07 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180630) · `ta`
-
-Sunlight and Wind Power Program in Nedundevil, Sri Lanka, features a Bhoomi Pooja event, marking a solar and wind power generation initiative. The project, supported by an Indian private company, aligns with government efforts.
-
-🟩
-
-Bhoomi Pooja was held this morning (07) as the other feature of the solar and wind power generation program to be carried out in the island.
-
-The massive power generation project, which is being contributed to the Indian private company, was held on the island of Anale last week in accordance with the agitation of the Sri Lankan and Indian governments.
-
-The "Bhoomi Pooja" event was held today in the presence of Indian Electricity Engineer Dinesh Pandiyan in Nedundivu, which is set to be a windmill for the solar and wind power plant.
-
-◼️
-
-[Data](articles/13f4a3fc.json)
-
-[Extended Data](ext_articles/13f4a3fc.ext.json)
-
----
-
-### The father of the constable murdered the new chapelly son commits suicide
-
-*2024-04-07 13:49:22* · [`adalk`](https://www.ada.lk/breaking_news/නව-හැවැරිදි-පුතු-ඝාතනය-කළ-කොස්තාපල්-පියාත්-දිවි-නසා-ගනියි/11-408983) · `si`
-
-A police constable's father murders the new chapel's son, leading to the constable's suicide. The 60-year-old Mahabage Police Chief Constable and a 9-year-old boy die, with the constable's death linked to the boy's inability to speak. The constable's wife was absent when the incident occurred.
-
-🟩
-
-It is reported that the deceased has been killed and a police constable is killed and a police constable is dead in a sick child, unable to speak.
-
-The deaths of the 60-year-old Mahabage Police Age of Mahabage Police, a 9-year-old boy, who was living in the Ven.
-
-The death inspection that the police officer had been worried about the absence of the ability to speak with a sons of cure, and this police officer had witnessed that the police had previously worried about it.
-
-When the wife was not in the house on the 5th Saturday afternoon, the police officer killed his child, killing himself.The deceased was attached to the Mahamabage Police Chief Constable.
-
-In the autopsy of the sister of the sister of the sister of the sister, he said that the bones were caused by the sight and murder of the boundaries.
-
-After the death inspection, the two brewers say that police officers were asked to devote the bodies to relatives of their sins.
-
-◼️
-
-[Data](articles/35e77bce.json)
-
-[Extended Data](ext_articles/35e77bce.ext.json)
-
----
-
-### Sri Lanka ready to export seed varieties for the first time
-
-*2024-04-07 13:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-ready-to-export-seed-varieties-for-the-first-time/108-280320) · `en`
-
-Sri Lanka is ready to export several types of seeds in this country for the first time, the Agriculture Ministry said.
-
-Accordingly, several species of chillies, eggplant, Capsicum, okra and maize have been successfully tested and there is a high demand for these seeds from many countries.
-
-The Agriculture Department, including its experts and the private sector have conducted the researches on these new types of seeds.
-
-Accordingly, Director General of Agriculture Ms. Malathi Parasuraman informed Agriculture Minister Mahinda Amaraweera that this year, some of the above mentioned seed varieties have been prepared for export for the first time.
-
-Whike expressing his opinion, the Minister said although seeds of various crops have been imported from foreign countries, it should be appreciated that the most suitable seeds are being produced for cultivation in our country.
-
-◼️
-
-[Data](articles/1fb81855.json)
-
-[Extended Data](ext_articles/1fb81855.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 18:10:01**
+As of **2024-04-08 18:21:38**
 
 ## Newspaper Stats
 
-*Scraped **17,884** Articles*
+*Scraped **17,893** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,118 @@ newsfirstlk | 363
 dailyftlk | 972
 islandlk | 979
 economynextcom | 993
-adalk | 1,505
+adalk | 1,506
 tamilmirrorlk | 2,104
-adaderanalk | 2,154
-virakesarilk | 2,631
-dailymirrorlk | 2,728
-adaderanasinhalalk | 2,897
+adaderanalk | 2,155
+virakesarilk | 2,633
+dailymirrorlk | 2,731
+adaderanasinhalalk | 2,899
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,883 (100.0%) of 17,884 articles have been extended.
+17,884 (99.9%) of 17,893 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### Accepting applications for admission to NIEs extended
+
+*2024-04-08 17:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98520/accepting-applications-for-admission-to-nies-extended) · `en`
+
+The acceptance of applications for the admission of students to the National Institutes of Education (NIEs) has been extended until April 10, 2024.
+
+Issuing a statement, the Ministry of Education stated that accordingly, the students can apply for admission to the NIEs based on the results of 2021 and 2022 G.C.E. Advanced Level examinations.
+
+Meanwhile, the applicants who submitted the relevant applications from April 05 to April 10, have been given the opportunity to make any amendments to their applications only from April 11 to midnight on April 17, according to the ministry.
+
+◼️
+
+[Data](articles/29472a71.json)
+
+---
+
+### Lower prices in fireworks this festive season
+
+*2024-04-08 17:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lower-prices-in-fireworks-this-festive-season/108-280401) · `en`
+
+Colombo, April 8 (Daily Mirror) - There is a higher demand for fireworks this year than in the previous festive seasons, but there is less demand for several firework items, All-Island Fireworks Manufacturers Association (AIFMA) President Dinesh Fernando said.
+
+Addressing the media, he said the distribution process of all types of fireworks has started around the country to meet the needs of the people.
+
+The manufacturing of fireworks did not take place at 100% in the previous years due to the financial crisis in the country, Fernando said.
+
+"There is a shortage of several fireworks, such as whistling rockets and whistling spinners, in the local market. The price of the ingredients for the making of fireworks has decreased by 30 percent this year when compared with previous years," he said.
+
+Accordingly, the fireworks price in the local market shows a lower budget, Fernando said.
+
+◼️
+
+[Data](articles/bc95bc7d.json)
+
+---
+
+### இளைஞர்கள் கோரும் மாற்றத்தை வழங்க நடவடிக்கை : ஜனாதிபதி
+
+*2024-04-08 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/180716) · `ta`
+
+நாட்டை விரைவான அபிவிருத்தியை நோக்கி இட்டுச் செல்வதற்கு இளைஞர்கள் கோரும் மாற்றத்தை வழங்கி நாட்டில் புதிய பொருளாதாரத்தை உருவாக்கி வருவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+புதிய பொருளாதாரத்தை உருவாக்குவது தொடர்பான அடிப்படை சட்டங்கள் எதிர்வரும் மே மாதம் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டு ஜூன் மாதம் நிறைவேற்றப்படும் எனவும் ஜனாதிபதி குறிப்பிட்டுள்ளார்.
+
+கண்டி ஜனாதிபதி மாளிகையில் நேற்று ஞாயிற்றுக்கிழமை (07) இடம்பெற்ற “என்னில் இருந்து ஆரம்பிப்போம்” கண்டி மாவட்ட இளைஞர் மாநாட்டில் உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+
+“நாட்டை விரைவான வளர்ச்சிக்கு இட்டுச் செல்லாவிட்டால், நாட்டிற்கு எதிர்காலம் இல்லை. நாட்டின் பொருளாதாரத்தை ஸ்தம்பிக்க வைப்பதா, முன்னோக்கி கொண்டு செல்வதா அல்லது வீழ்ச்சியடைய வைப்பதா என்பதை இளைஞர்கள் தான் முடிவு செய்ய வேண்டும்.
+
+...
+
+[Data](articles/51193336.json)
+
+---
+
+### கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தாவுக்கு நாடாளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் கண்டனம்!
+
+*2024-04-08 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180757) · `ta`
+
+கிளநொச்சி பூநகரி பிரதேச செயலகத்திற்குட்பட்ட பொன்னாவெளி கிராமத்தில் சுண்ணக்கல் அகழ்வு க்காக கடந்த (05)திகதி சென்றிருந்த போது கிராம மக்களால் எதிர்ப்பு தெரிவிக்கப்பட்டு திருப்பி அனுப்பப்பட்டார்.
+
+இதில் கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா அவர்கள் எதிர்ப்பு போராட்டத்தில் கலந்துகொண்ட மக்களை தாக்கியும் உள்ளார்.
+
+கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தாவின்  நடவடிக்கைகள் இன்று நேற்று அல்ல அவர் பாராளுமன்ற உறுப்பினர்களாக இருந்த போதே தமிழர்களுடைய விரோத நடவடிக்கைகளை கொண்டவர் என்று வெளிப்படையாக எல்லோருக்கும் தெரியும் எனவும் அவருடைய சண்டித்தன அரசியல் அல்லது அடாவடி அரசியல் என்பது யாழ்ப்பாணம் மற்றும் கிளிநொச்சி என பல இடங்களில் அவர் நடந்து கொண்ட விதங்கள் மற்றும் முறைகள் எல்லோராலும் உணரபட்டவைதான் அதனால்தான் அவர் ஒரு தமிழ் தலைவராக மக்களுக்கு வரமுடியவில்லை.
+
+...
+
+[Data](articles/e883553b.json)
+
+---
+
+### භාණ්ඩ කිහිපයක මිල පහළට
+
+*2024-04-08 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195442) · `si`
+
+එළැඹෙන අවුරුදු සමය අරමුණු කරගනිමින් ලංකා සතොස ආයතනය මගින් මහජනතාවට ලබාදෙන අත්‍යාවශ්‍ය පාරිභෝගික භාණ්ඩ වර්ග කිහිපයක මිල ගණන් පහළදමා තිබේ.
+
+ඒ අනුව අද (08) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි මෙම මිල ගණන් පහළ දැමීමට තීරණය කර ඇත.
+
+වියලි මිරිස් කිලෝවක් රුපියල් 300කින් පහළ දමා ඇති අතර එහි නව මිල ලෙස සටහන් වන්නේ රුපියල් 850කි.
+
+චීනයෙන් ආනයනය කරන ලද බී ලූණු කිලෝවක මිල රුපියල් 120කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 375ක් ලෙස සටහන් වෙයි.
+
+එසේම ඉන්දියාවෙන් සහ පාකිස්තානයෙන් ආනයනය කරන ලද බී ලූණු කිලෝවක මිල රුපියල් 50කින් අඩුකර ඇති අතර එහි නව මිල රුපියල් 445කි.
+
+සුදු ලූණු කිලෝවක් රුපියල් 15කින් අඩුකර ඇති අතර එහි නව මිල රුපියල් 680ක් ලෙස සටහන්ව තිබේ.
+
+අර්තාපල් අල කිලෝවක් රුපියල් 10කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 165කි.
+
+එසේම රතු පරිප්පු කිලෝවක් රුපියල් 7කින් ද සුදු කැකුළු සහල් කිලෝවක් රුපියල් 3කින් ද පහළ දැමීමට ලංකා සතොස තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/0c70e5b2.json)
+
+---
 
 ### Sri Lanka plans politically correct names for Avurudu games
 
@@ -49,6 +145,50 @@ It is celebrated in India and former territories of the Chola Empire including S
 [Data](articles/014aa25c.json)
 
 [Extended Data](ext_articles/014aa25c.ext.json)
+
+---
+
+### Tamil Nadu and the Central Government of India should abandon the Kacha island for politics - Secretary of the Northern Province Fisheries Internet
+
+*2024-04-08 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180751) · `ta`
+
+Tamil Nadu and India's Central Govt should abandon Kachchi Island for political reasons, says Northern Province Fisheries Internet Secretary. Despite claims for politics, fishermen are encouraged to engage in illegal fishing. Tamil Nadu demands Kachchi Island's return whenever Indian fishermen are arrested. The central govt has taken advantage of this demand, leading to potential political opposition.
+
+🟩
+
+Kachchi Island is a new stand in the central government and Tamil Nadu. Northern Province Fisheries Internet Secretary
+
+He was speaking at a media briefing held at the office in Mannar today (8) afternoon.
+
+Kachchi Island is a new stand in the central government and Tamil Nadu. Although they claim it for politics, the fishermen, especially the fishermen who are trying to move from illegal fishing activities, are encouraging them to encourage them and repeat them, illegal fishing, illegally entering the Sri Lankan waters and carrying out fishing.
+
+On the one hand, the Central Government of India is very careful that its dominance in Sri Lanka should be stopped in Tamil Nadu. The Government of Tamil Nadu has prevailed many times the Kacha Island answer.
+
+Tamil Nadu continued to demand that the Kacha Island be recovered at every time the Indian fishermen were arrested.
+
+...
+
+[Data](articles/27d62656.json)
+
+[Extended Data](ext_articles/27d62656.ext.json)
+
+---
+
+### පොලීසියෙන් විශේෂ දැනුම්දීමක්
+
+*2024-04-08 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195441) · `si`
+
+පාසලක ක්‍රීඩා උත්සවයක් සඳහා පොලිස් විශේෂකාර්ය බළකායේ කැලෑ නිල ඇඳුම් යොදාගැනීම සම්බන්ධයෙන් විශේෂ විමර්ශනයක් ආරම්භ කර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පවසයි.
+
+අද මාධ්‍ය හමුවකට එක්වෙමින් පොලිස් මාධ්‍ය ප්‍රකාශකවරයා මේ බව පැවසීය.
+
+එසේම මෙම සිදුවීම සම්බන්ධයෙන් එක් පුද්ගලයෙකු සැකපිට අත්අඩංගුවට ගෙන ඇති බවද පොලිස් මාධ්‍ය ප්‍රකාශකවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+මේ සම්බන්ධයෙන් වැඩිදුරටත් අදහස් දැක්වූ පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා,
+
+...
+
+[Data](articles/d51a7996.json)
 
 ---
 
@@ -73,32 +213,6 @@ A bond maturing on 01.10.2031 closed at 12.35/60 percent. (Colombo/Apr8/2024)
 [Data](articles/dbf86bea.json)
 
 [Extended Data](ext_articles/dbf86bea.ext.json)
-
----
-
-### Tamil Nadu and the Central Government of India should abandon the Kacha island for politics - Secretary of the Northern Province Fisheries Internet
-
-*2024-04-08 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180751) · `ta`
-
-Tamil Nadu and India's Central Govt should abandon Kachchi Island for political reasons, says Northern Province Fisheries Internet Secretary. Despite claims for politics, fishermen are encouraged to engage in illegal fishing. Tamil Nadu demands Kachchi Island's return whenever Indian fishermen are arrested. The central govt has taken advantage of this demand, leading to potential political opposition.
-
-🟩
-
-Kachchi Island is a new stand in the central government and Tamil Nadu. Northern Province Fisheries Internet Secretary
-
-He was speaking at a media briefing held at the office in Mannar today (8) afternoon.
-
-Kachchi Island is a new stand in the central government and Tamil Nadu. Although they claim it for politics, the fishermen, especially the fishermen who are trying to move from illegal fishing activities, are encouraging them to encourage them and repeat them, illegal fishing, illegally entering the Sri Lankan waters and carrying out fishing.
-
-On the one hand, the Central Government of India is very careful that its dominance in Sri Lanka should be stopped in Tamil Nadu. The Government of Tamil Nadu has prevailed many times the Kacha Island answer.
-
-Tamil Nadu continued to demand that the Kacha Island be recovered at every time the Indian fishermen were arrested.
-
-...
-
-[Data](articles/27d62656.json)
-
-[Extended Data](ext_articles/27d62656.ext.json)
 
 ---
 
@@ -231,6 +345,26 @@ Man Aravind (Tiraj) lives in a child's old accident and lives in a face with a h
 [Data](articles/520ff681.json)
 
 [Extended Data](ext_articles/520ff681.ext.json)
+
+---
+
+### SJB leaders won’t be able to hold their positions if party membership loses faith: Fonseka
+
+*2024-04-08 17:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-leaders-wont-be-able-to-hold-their-positions-if-party-membership-loses-faith-Fonseka/108-280402) · `en`
+
+Colombo, April 8 (Daily Mirror) - The Samagi Jana Balawegaya (SJB) leaders will not be able to hold on to their positions for long if the membership lose their faith in them, MP Sarath Fonseka said today.
+
+"Party leaders should think of their party membership and not their personal success," Fonseka told the media.
+
+"A few in the SJB want to push me out, but I am not scared of them. I am a man who has confronted political giants like Mahinda Rajapaksa," he said.
+
+He also said former President Maithripala Sirisena should not be taken seriously.
+
+"Former President Sirisena is not focusing on issues faced by the people but playing practical jokes," he added.
+
+◼️
+
+[Data](articles/77a9eb44.json)
 
 ---
 
@@ -942,23 +1076,31 @@ The former president said the Sri Lanka PA had not yet decided on the presidenti
 
 ---
 
-### ජනපති පත්කළ අලුත්ම කමිටුව
+### The latest committee appointed to the President
 
 *2024-04-08 14:53:56* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-පත්කළ-අලුත්ම-කමිටුව/11-409015) · `si`
 
-මුස්ලිම් ප්‍රජාව ඇතුළු ඕනෑම පුද්ගලයෙකුගේ අවසන් කටයුතු සිදු කිරීමේදී ආගමානුකූලව හෝ අවසන් කැමති පත්‍රයට අනුව සිදු කිරීමට අවශ්‍ය කටයුතු සැලසීම සඳහා නව කමිටුවක් පත් කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe announced a new committee to address final activities for all communities, including the Muslims, and plans to implement relevant laws. He highlighted the economic crisis's impact on Ramadan fasting and the need for regulation of maturity in schools. He also discussed the rights of the Muslim community during the coronavirus pandemic, promising to change future funeral practices. The President emphasized Sri Lanka's support for Palestine and the commitment to build a school in Gaza after the conflict ends.
 
-ඊට අදාළ නීති සම්පාදනය කිරීමට ඉදිරියේදී කටයුතු කරන බව ද ජනාධිපතිවරයා සඳහන් කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මහනුවර කටුකැලේ ජුම්මා මුස්ලිම් පල්ලියේ ඊයේ (07) පැවති ඉෆ්තාර් උත්සවයට එක්වෙමිනි.
+President Ranil Wickremesinghe said that a new committee would be appointed to implement the final activities of any person including the Muslim community.
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය,
+The President also said that the relevant laws will be implemented in the future.
 
-පසුගිය සමයේ රටේ පැවති ආර්ථික අර්බුදය නිසා ජනතාවට පෝලිම්වල සිටීමට සිදුවීම නිසා රාමසාන් උපවාසය පවා නිසි අයුරින් සිදු කිරීමට හැකි වුණේ නැහැ. පසුගිය වසරේ සිට ආර්ථිකය යහපත් තත්ත්වයට පත්වෙමින් තිබෙන නිසා අද වන විට සුපුරුදු ආකාරයටම රාමසාන් සමය සහ රාමසාන් උපවාසය සිදු කිරීමට අවස්ථාව ලැබී තිබෙනවා.
+President Ranil Wickremesinghe made this statement participating at the Inftar festival held at Katukaley Mosque, Kandy yesterday.
+
+Speaking further, President Ranil Wickremesinghe further said,
+
+Ramadan fast could not be done because the economic crisis in the country had to stay in the country due to the economic crisis in the country.. Since last year, the economy is being improved since last year, Ramadan season and the Ramazan fast have been able to do so.
+
+The Muslim community fasts in Ramadan and smuggling kusal drains. The Ramazan Festival and the Sinhala New Year season is in the same time. The country has been created from history from history from history.
 
 ...
 
 [Data](articles/78edc9f0.json)
+
+[Extended Data](ext_articles/78edc9f0.ext.json)
 
 ---
 
@@ -981,6 +1123,22 @@ Meanwhile, 327 persons belonging to the organized criminal committees have been 
 [Data](articles/0f0a75b2.json)
 
 [Extended Data](ext_articles/0f0a75b2.ext.json)
+
+---
+
+### සිංහල සංස්කෘතිය මැරීමේ ආණ්ඩුවේ කුමන්ත්‍රණයක්
+
+*2024-04-08 14:43:28* · [`adalk`](https://www.ada.lk/breaking_news/සිංහල-සංස්කෘතිය-මැරීමේ-ආණ්ඩුවේ-කුමන්ත්‍රණයක්/11-409014) · `si`
+
+අවුරුදු චාරිත්‍ර පිළිබඳව පැන නැගී ඇති ගැටළු සහගත තත්වය නිරාකරණය කිරීමට ආණ්ඩුව කටයුතු නොකරන්නේ නම් අවුරුදු චාරිත්‍ර වලින් ජනතාව ඈත් වීමේ අවධානමක් පවතින බව පිවිතුරු හෙළ උරුමය නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි. ඒ මහතා මේ බව සදහන් කර සිටියේ අද දින (2024.04.08) පැවති මාධ්‍ය හමුවක් අමතමිනි.
+
+"සිංහල අළුත් අවුරුද්දට තව තිබෙන්නේ සතියකටත් අඩු කාලයක්.  නමුත් අවුරුදු චාරිත්‍ර කරන නැකැත් පිළිබඳ ආරවුල විසඳන්න තවමත් ආණ්ඩුව අසමත් වෙලා තිබෙනවා.  රාජ්‍ය නැකැත් කමිටුව විසින් සකස් කරන ලද නැකැත් දෝෂ සහිත බවට ජාතික නැකැත් කමිටුව කියනවා.
+
+ජාතික නැකැත් කමිටුව සැකසූ නැකැත් දෝෂ සහිත බවට රාජ්‍ය නැකැත් කමිටුව කියනවා.  දැන් එතකොට අපි අනුගමනය කරන්න ඕනි මොන නැකැත්ද?  දෙපාර්ශවයටම සවන් දුන්නු ජනතාවට හිතෙන්නේ මොන නැකැත අනුගමනය කලත් දෝෂ සහිත නිසා නැකැතට කරන චාරිත්‍ර නොකර සිටියා නම් හොඳයි වගේ හැඟීමක්.  නැකැත් කියන්නේ බොරුයි කියන හැඟීමක්.  මෙහි අවසාන ප්‍රතිඵලය වන්නේ අවුරුදු චාරිත්‍ර වලින් ජනතාව ඈත් වීමයි. මේ නැකැත් පිළිබද ඇතිවී ඇති ගැටුම විසදීමට ආණ්ඩුව මැදිහත් විය යුතුයි.
+
+...
+
+[Data](articles/a9300777.json)
 
 ---
 
@@ -2022,6 +2180,22 @@ Sri Lanka imports seeds for various crops from foreign countries.
 
 ### Sri Lanka defaults on USD 6 billion payment despite rising reserves: Patali
 
+*2024-04-08 12:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-defaults-on-USD-6-billion-payment-despite-rising-reserves-Patali/155-280392) · `en`
+
+Colombo, April 8 (Daily Mirror) - United Republican Front (URF) leader Patali Champika Ranawaka said Sri Lanka defaulted on a payment of USD 6 billion starting from April 2022 when the country announced bankruptcy.
+
+He said this was the reality though the Central Bank data show the increase of foreign reserves to USD 5 billion.
+
+"While CBSL data shows Sri Lanka's foreign reserves reaching USD 5 billion, it is imperative to understand that from April 2022, the sum of defaulted debt is approximately USD 6 billion. The sum of loans obtained since the default from the World Bank, ADB, and IMF is USD 3 billion," he posted on X.
+
+◼️
+
+[Data](articles/19fe68c1.json)
+
+---
+
+### Sri Lanka defaults on USD 6 billion payment despite rising reserves: Patali
+
 *2024-04-08 12:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-defaults-on-USD-6-billion-payment-despite-rising-reserves-Patali/108-280392) · `en`
 
 Colombo, April 8 (Daily Mirror) - United Republican Front (URF) leader Patali Champika Ranawaka said Sri Lanka defaulted on a payment of USD 6 billion starting from April 2022 when the country announced bankruptcy.
@@ -2155,175 +2329,5 @@ Members of the relevant members have filed a lawsuit demanding that the party's 
 [Data](articles/517cd52c.json)
 
 [Extended Data](ext_articles/517cd52c.ext.json)
-
----
-
-### Keheliya Explanation Prolongation!
-
-*2024-04-08 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180680) · `ta`
-
-Keheliya Rambukwella, former health minister, among six, arrested for importing substandard immunoglobulin. Remanded till April 22.
-
-🟩
-
-Six suspects, including former health minister Keheliya Rambukwella, have been remanded till April 22.
-
-They have been arrested on suspicion of importing substandard immunoglobulin.
-
-◼️
-
-[Data](articles/a18db4fe.json)
-
-[Extended Data](ext_articles/a18db4fe.ext.json)
-
----
-
-### If the Kalmunai North is the Eastern Balance of the East - Kanakaratnam Sukash
-
-*2024-04-08 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180684) · `ta`
-
-Kanakaratnam Sukash warns that losing Kalmunai North could disrupt the eastern balance and remove Ampara from the Tamil nation map. The Kalmunai North Divisional Secretariat, independent for 34 years, faces administrative repression. This is seen as state terrorism, as it violates the Cabinet decision and the law. The Tamil nation is rallying for justice, with protests continuing for 14 days. The Tamil National Alliance has filed a lawsuit, and the struggle will continue until justice is served.
-
-🟩
-
-If the Kalmunai North is lost, the eastern balance will go into question. Ampara will be removed from the Tamil nation map. The Tamil National People's Front media spokesman Kanakaratnam Sukash said that the people should think.
-
-He was speaking at a special press conference as the public on Sunday (07) is carrying out a protest rally against the continuous administrative repression of the Kalmunai North Divisional Secretariat in Ampara District.
-
-Kalmunai North Divisional Secretariat has been an independent Divisional Secretariat for 34 years. But here is not a separate Divisional Secretary. This is one of the surprises of Sri Lanka. There is no one who is an accountant. The Kalmunai North Divisional Secretariat is in line with the illegal order of the Kalmunai South Divisional Secretary. This is the state's power.
-
-...
-
-[Data](articles/d1a495a3.json)
-
-[Extended Data](ext_articles/d1a495a3.ext.json)
-
----
-
-### Cases filed by ex-PUCSL chairman put off due to inadequate time
-
-*2024-04-08 11:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cases-filed-by-ex-PUCSL-chairman-put-off-due-to-inadequate-time/108-280389) · `en`
-
-The Supreme Court put off for June 12th and July 11 the hearing of the Fundamental Rights (FR) petitions filed by a group of persons including the former Chairman of the Public Utilities Commission (PUCSL), Janaka Ratnayake in his personal capacity despite being PUCSL Chairman, Asoka Abeygunawardhana and Electricity and Renewable Energy Consumers Association had Ven. Matara Ananda Sagara Thero and 10 others challenging the electricity tariff hike of February.
-
-The case was taken up for hearing before a three-judge bench of the Supreme Court comprising Justices Preethi Padman Surasena, Janak de Silva and Mahinda Samayawardena, but further inquiry was put off for June 12 and July 11 due to inadequate time to hear all the 10 petitions filed by the petitioners.
-
-Janaka Ratnayake filed his petition in his capacity as an electricity consumer and in the public interest, of those falling within the lowest bracket units of electricity consumers who are hardest hit by the tariff hike.
-
-...
-
-[Data](articles/ea3a1cf7.json)
-
-[Extended Data](ext_articles/ea3a1cf7.ext.json)
-
----
-
-### SLFP appoints Nimal Siripala as acting Chairman
-
-*2024-04-08 11:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLFP-appoints-Nimal-Siripala-as-acting-Chairman/108-280390) · `en`
-
-Colombo, April 08 (Daily Mirror) - Minister of Ports, Aviation and Shipping Nimal Siripala de Silva has been appointed as Acting Chairman of the Sri Lanka Freedom Party (SLFP).
-
-The appointment was made at the SLFP politburo meeting held this morning at the Sri Lanka Foundation Institute under the chairmanship of former President Chandrika Bandaranaike Kumaratunga.
-
-The Colombo District Court last week issued an interim injunction, barring former President Maithripala Sirisena from functioning as SLFP Chairman.
-
-◼️
-
-[Data](articles/46c60dea.json)
-
-[Extended Data](ext_articles/46c60dea.ext.json)
-
----
-
-### Rowing Championship 2024
-
-*2024-04-08 11:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Rowing-Championship-2024/110-280388) · `en`
-
-The 38th National Rowing Championship 2024 was held at the Diyawanna Rowing Centre. The crew’s commendable effort to achieve goals whilst tackling examinations and other duties is truly an example of fine sportsmanship. Pix by Waruna Wanniarachchi
-
-◼️
-
-[Data](articles/bbd85d96.json)
-
-[Extended Data](ext_articles/bbd85d96.ext.json)
-
----
-
-### Action change in SK
-
-*2024-04-08 11:25:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சு-காவில்-அதிரடி-மாற்றம்/175-335732) · `ta`
-
-Nimal Siripala de Silva appointed SLFP leader; Duminda Dissanayake elected as National Organizer.
-
-🟩
-
-Minister Nimal Siripala de Silva has been appointed as the Sri Lanka Freedom Party (SLFP) leader. National Organizer Duminda Dissanayake has been elected as its answer.
-
-◼️
-
-[Data](articles/eed69a6a.json)
-
-[Extended Data](ext_articles/eed69a6a.ext.json)
-
----
-
-### 120 plantation workers hospitalised due to food poisoning
-
-*2024-04-08 11:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/120-plantation-workers-hospitalised-due-to-food-poisoning/108-280385) · `en`
-
-Hatton, April 8 (Daily Mirror)- Some 120 plantation workers including children were hospitalized due to food poisoning after consuming food served at a Kovil in Nallatanniya last night.
-
-The people had suffered vomiting, stomach ache, diarrhea and had been faintish after consuming the food served at a dansala of the Kovil and were admitted to the Maskeliya Divisional Hospital.
-
-A medical officer at the hospital said 25 of them were receiving in-house treatment while the others had left the hospital after treatment.
-
-Public Health Inspectors have obtained food samples to be sent to the Government Analyst.
-
-◼️
-
-[Data](articles/4a6d2629.json)
-
-[Extended Data](ext_articles/4a6d2629.ext.json)
-
----
-
-### Injunction issued preventing removal of Amaraweera and others from SLFP posts extended
-
-*2024-04-08 11:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98511/injunction-issued-preventing-removal-of-amaraweera-and-others-from-slfp-posts-extended) · `en`
-
-The interim injunction order preventing the Sri Lanka Freedom Party’s (SLFP) Executive Committee from removing Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera from their respective positions in the party, has been extended until April 24.
-
-The Colombo District judge Sandun Withana issued this order when a plaint filed by the relevant MPs was taken up this morning (08), Ada Derana reporter said.
-
-A group of individuals including former President Maithripala Sirisena and Acting General Secretary of SLFP Sarathi Dushmantha Mithrapala have been named as respondents of the relevant plaints, through which an order is sought declaring that the decision taken by the party’s executive committee to expel them without any disciplinary investigation to be unlawful.
-
-The Executive Committee of the SLFP decided to remove Dissanayake, Alagiyawanna and Amaraweera from their respective positions in the party, during a special party meeting held on March 30.
-
-...
-
-[Data](articles/9932b57e.json)
-
-[Extended Data](ext_articles/9932b57e.ext.json)
-
----
-
-### Probe launched into students’ use of STF-like uniforms at school event
-
-*2024-04-08 11:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Probe-launched-into-students-use-of-STF-like-uniforms-at-school-event/108-280387) · `en`
-
-Colombo, April 8 (Daily Mirror) - The Special Investigation Unit of the Police Headquarters has launched an investigation into students being dressed in uniforms resembling the jungle camouflage uniforms used by the Police Special Task Force (STF) during a sports event at a leading school in Gampaha.
-
-Police said the probe was launched following orders from the Inspector General of Police due to concerns that police officers responsible for overseeing the police cadets were aware of the incident but took no preventive action.
-
-In addition, the investigation will address the lack of proper permission for the uniforms.
-
-Police said that disciplinary action will be taken against any officers found to have acted improperly.
-
-...
-
-[Data](articles/fc7f4037.json)
-
-[Extended Data](ext_articles/fc7f4037.ext.json)
 
 ---

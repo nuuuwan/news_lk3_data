@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 22:05:12**
+As of **2024-04-08 22:18:16**
 
 ## Newspaper Stats
 
-*Scraped **17,923** Articles*
+*Scraped **17,924** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 2,106
 adaderanalk | 2,158
 virakesarilk | 2,639
 dailymirrorlk | 2,736
-adaderanasinhalalk | 2,905
+adaderanasinhalalk | 2,906
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,920 (100.0%) of 17,923 articles have been extended.
+17,923 (100.0%) of 17,924 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### මියගිය ගුවන් හමුදා නිලධාරියා ගැන ආන්දෝලනාත්මක අනාවරණයක්
+
+*2024-04-08 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195449) · `si`
+
+පාදුක්ක අංගමුව ප්‍රදේශයේදී පොලිස් වෙඩි පහරට ලක්ව මියගිය ගුවන් හමුදා කෝප්‍රල්වරයා අයිස් මත්ද්‍රව්‍ය භාවිතයට ඇබ්බැහි වී සිටි අයකු බවට අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+
+හොරණ මාලොස්ඇල ප්‍රදේශයේදී ඊයේ සිදුවූ ද්විත්ව ඝාතනයේ වෙඩික්කරු ලෙස කටයුතු කළ බව කියන මෙම ගුවන් හමුදා කෝප්‍රල්වවරයා අද අලුයම පාදුක්ක අංගමුව ප්‍රදේශයේදී පොලිස් වෙඩි පහරට ලක්ව මිය ගොස් තිබුණි.
+
+පොලීසිය සඳහන් කළේ ඔහු ශ්‍රී ලංකා ගුවන් හමුදාවේ රත්මලාන කඳවුරට අනුයුක්තව සක්‍රීය සේවයේ නිරතව සිටි බවය.
+
+◼️
+
+[Data](articles/460b9690.json)
+
+---
 
 ### Social Empowerment Ministry renames two traditional New Year games
 
@@ -49,6 +65,8 @@ Furthermore, the Minister announced that all banks participating in the Samurdhi
 ◼️
 
 [Data](articles/da2a7bdc.json)
+
+[Extended Data](ext_articles/da2a7bdc.ext.json)
 
 ---
 
@@ -75,6 +93,8 @@ Meanwhile, Lanka Sathosa has decided to reduce the price of red lentil dahl by R
 ◼️
 
 [Data](articles/68543cf9.json)
+
+[Extended Data](ext_articles/68543cf9.ext.json)
 
 ---
 
@@ -177,6 +197,8 @@ A beverage company in the Port City held a breaking fast (Ifthar) banquet today 
 ◼️
 
 [Data](articles/2040b6fd.json)
+
+[Extended Data](ext_articles/2040b6fd.ext.json)
 
 ---
 
@@ -2327,29 +2349,5 @@ But it’s important not to overlook Sri Lanka: In the last two years, Colombo h
 [Data](articles/88890754.json)
 
 [Extended Data](ext_articles/88890754.ext.json)
-
----
-
-### Israel is preparing for military action in Rafa
-
-*2024-04-08 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180704) · `ta`
-
-Israel prepares for military action in Rafa, Gaza, with Israeli soldiers reducing their presence in the South. Defense Minister Yo Calland confirms soldiers have left Khan Younis for Rafa and future activities.
-
-🟩
-
-Israeli soldiers are preparing to take military action in Rafa, the southern city of Gaza, said the country leaders said.
-
-Hundreds of displaced people from other regions of Gaza are staying in the southern city of Rafa.
-
-A spokesman for the Israeli security forces said on Sunday that the number of Israeli soldiers in the South of Gaza was reduced.
-
-However, Defense Minister Yo Calland said that the soldiers have left Khan Younis to prepare for future activities, including Rafa.
-
-◼️
-
-[Data](articles/d09f1d55.json)
-
-[Extended Data](ext_articles/d09f1d55.ext.json)
 
 ---

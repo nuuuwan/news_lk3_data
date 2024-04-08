@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 16:33:33**
+As of **2024-04-08 16:49:14**
 
 ## Newspaper Stats
 
-*Scraped **17,857** Articles*
+*Scraped **17,862** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 987
 adalk | 1,502
 tamilmirrorlk | 2,104
 adaderanalk | 2,152
-virakesarilk | 2,620
+virakesarilk | 2,625
 dailymirrorlk | 2,726
 adaderanasinhalalk | 2,894
 
@@ -26,11 +26,147 @@ adaderanasinhalalk | 2,894
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,857 (100.0%) of 17,857 articles have been extended.
+17,857 (100.0%) of 17,862 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### பிரபல வயலின் வித்துவான் அம்பலவாணர் ஜெயராமன் காலமானார்
+
+*2024-04-08 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/180742) · `ta`
+
+யாழ்ப்பாணத்தைச் சேர்ந்த பிரபல வயலின் வித்துவான்  அம்பலவாணர் ஜெயராமன் தனது 65 ஆவது வயதில் இன்று திங்கட்கிழமை (08) அதிகாலை காலமானார்.
+
+யாழ்ப்பாணம் - நீராவியடி இலங்கை வேந்தன் கலைக்கல்லூரியில் நேற்று ஞாயிற்றுக்கிழமை இடம் பெற்ற கலை நிகழ்வு ஒன்றில் வயலின் இசை வழங்கிக் கொண்டிருந்த நேரம் இயலாமை ஏற்பட்டு தொடர்ந்து வீட்டிற்கு சென்ற நிலையில் இன்றையதினம் அதிகாலை காலமானார்.
+
+நாச்சிமார் கோவிலை அண்மித்த பகுதியில் உள்ள அன்னாரின் வீட்டில் எதிர்வரும் வியாழக்கிழமை  இறுதிக் கிரியைகள் நடைபெறவுள்ளது.
+
+◼️
+
+[Data](articles/1925b4cd.json)
+
+---
+
+### Bus crashes in Hanguranketta;Admission at the hospital
+
+*2024-04-08 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180718) · `ta`
+
+A bus carrying women from Hanguranketta to Teldottai crashed in Nuwara Eliya, injuring two women and the driver. They were admitted to Teldottai Divisional Hospital, then transferred to Peradeniya Hospital for further treatment.
+
+🟩
+
+The accident occurred in the bus ditch in Telltottai Nalgandura, which belongs to the Hanguranketha police division in Nuwara Eliya district on Sunday night.
+
+A private bus carrying women working in the commercial garment from Hanguranketta area to Teldottai has fallen into the ditch last night.
+
+Two women and drivers who were traveling on the bus were injured and admitted to the Teldottai Divisional Hospital.
+
+Later, two women were transferred to the Peradeniya Hospital last night for further treatment.
+
+The women on the bus said that the driver continued to speak by telephone.
+
+◼️
+
+[Data](articles/d51ddf06.json)
+
+[Extended Data](ext_articles/d51ddf06.ext.json)
+
+---
+
+### ஹாட் ஸ்பாட் 2 ..?!
+
+*2024-04-08 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180739) · `ta`
+
+நாகரீகமான மனித வாழ்க்கையில் உறவுகளுக்குள் ஏற்படும் முரண்களை முன்வைத்து உருவான 'ஹாட் ஸ்பாட்' திரைப்படம் எதிர்பார்த்ததை விட, பெரிய வெற்றியை பெற்றதால் உற்சாகமடைந்த படக்குழுவினர் ஹாட்ஸ்பாட் படத்தின் இரண்டாம் பாகம் அடுத்த ஆண்டு வெளியாகும் என தெரிவித்துள்ளனர்.
+
+இயக்குநர் விக்னேஷ் கார்த்திக் இயக்கத்தில் உருவாகி கடந்த மாத இறுதியில் வெளியான திரைப்படம் 'ஹாட்ஸ்பாட்'. கலையரசன், ஜனனி, பவ்ய தரிகா உள்ளிட்ட முன்னணி நட்சத்திர கலைஞர்கள் நடித்திருந்த இந்த திரைப்படத்திற்கு கோகுல் பினோய் ஒளிப்பதிவு செய்திருந்தார்.
+
+கலவையான விமர்சனங்களை பெற்றிருந்தாலும் வணிக ரீதியில் வெற்றி பெற்றது. இதனைத் தொடர்ந்து ரசிகர்களுக்கும், ஊடகவியலாளர்களுக்கும் நன்றி தெரிவிக்கும் விழா ஒன்று சென்னையில் நடைபெற்றது இதன் போது பட குழுவினர் பங்கு பற்றி படத்தை வெற்றி பெறச் செய்த ஊடகவியலாளர்களுக்கும் ரசிகர்களுக்கும் நன்றி தெரிவித்தனர்.
+
+இதன் போது தயாரிப்பாளர் பாலாமணி மார்பன் பேசுகையில், '' இப்படத்தின் முன்னோட்டம் வெளியான பிறகு ஊடகங்களிடமிருந்து எதிர்மறையான விடயங்கள் வெளியானது.
+
+...
+
+[Data](articles/baaa53d2.json)
+
+---
+
+### மணிரத்னம் வெளியிட்ட ஆர். பார்த்திபனின் 'டீன்ஸ்' பட முன்னோட்டம்
+
+*2024-04-08 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/180733) · `ta`
+
+புதிய முயற்சிகளை செய்து திரையுலக ரசிகர்களை மட்டுமல்லாமல்.. திரையுலகினரையும் வியப்பில் ஆழ்த்துவது தான் புதுமை விரும்பி இரா. பார்த்திபனின் பழக்கம். அந்த வகையில் அவர் இயக்கத்தில் உருவாகும் டீன்ஸ் திரைப்படத்தின் முன்னோட்ட வெளியீட்டு விழாவும் வித்தியாசமாக வடிவமைக்கப்பட்டிருந்ததுடன், கின்னஸ் சாதனையையும் படைத்து திரையுலகினரை திரும்பிப் பார்க்க வைத்திருக்கிறது.
+
+இயக்குநரும், நடிகருமான இரா. பார்த்திபன் இயக்கத்தில் உருவாகும் 'டீன்ஸ்' எனும் திரைப்படத்தில் டீன் ஏஜ் எனும் பருவத்தின் தொடக்க எண்ணிக்கையான பதிமூன்று (தேர்ட்டீன்) வளரிளம் பருவ நடிகர்களை திரை நட்சத்திரங்களாக அறிமுகப்படுத்துகிறார். காவ்மிக் ஆரி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு டி. இமான் இசையமைத்திருக்கிறார்.
+
+...
+
+[Data](articles/2fe1e27e.json)
+
+---
+
+### ஜூனில் வெளியாகும் 'உலகநாயகன்' கமலஹாசனின் 'இந்தியன் 2'
+
+*2024-04-08 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180735) · `ta`
+
+இந்திய மக்களவை தேர்தலுக்கான பிரச்சாரத்தில்  இந்தியா கூட்டணிக்காக தீவிர பரப்புரையில் ஈடுபட்டிருக்கும் 'உலக நாயகன்' கமல்ஹாசன் நடிப்பில் தயாராகி வரும் 'இந்தியன் 2' படத்தின் வெளியீட்டிற்கான புதிய தகவல்கள் வெளியாகி இருக்கிறது.
+
+இந்தியாவின் பிரமாண்ட இயக்குநர் ஷங்கர் இயக்கத்தில், 'உலகநாயகன்' கமல்ஹாசன் நடிப்பில் வெளியாகி வெற்றி பெற்ற திரைப்படம் 'இந்தியன்'.
+
+1996 ஆம் ஆண்டில் வெளியாகி வசூல் ரீதியாகவும், விமர்சன ரீதியாகவும் பாரிய வெற்றியைப் பெற்ற இந்த திரைப்படத்தின் இரண்டாம் பாகம் கடந்த சில ஆண்டுகளாக உருவாகி வந்தது.  இரண்டாம் பாகத்திற்கான அதிகாரப்பூர்வமான அறிவிப்பு 2017 ஆம் ஆண்டில் வெளியானது.
+
+விபத்து , கோவிட் உள்ளிட்ட பல்வேறு தடைகள், தடங்கல்களுக்குப் பிறகு சர்வதேச தரத்துடன் தயாராகி இருக்கும் இந்த திரைப்படத்தின் வெளியீடு குறித்த அதிகாரப்பூர்வமான தகவல்கள் வெளியிடப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/966364e2.json)
+
+---
+
+### குறட்டை விடும் மனைவியை சகித்துக் கொள்ளும் கணவனாக ஜீ.வி. பிரகாஷ் குமார்
+
+*2024-04-08 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180737) · `ta`
+
+குறட்டை பிரச்சனையை மையப்படுத்தி கடந்த ஆண்டு வெளியாகி வெற்றி பெற்ற திரைப்படம் 'குட் நைட்'. இந்தத் திரைப்படத்தில் கதையின் நாயகனான மணிகண்டன் உறக்கத்தின் போது உரத்த ஒலியில் குறட்டை விடும் பழக்கம் கொண்டவராக நடித்திருப்பார்.
+
+இவர் எப்படி ஒரு பெண்ணை காதலித்து திருமணம் செய்து கொண்டு வாழ்க்கையை நடத்தினார் என்பதுதான் இப்படத்தின் கதையாக இருக்கும்.
+
+இதே கதையை கிட்டத்தட்ட சிறிய அளவில் மாற்றம் செய்து கதையின் நாயகியான ஐஸ்வர்யா ராஜேஷுக்கு குறட்டை விடும் பழக்கம் இருக்கிறது.
+
+இவரது கணவராக ஜீ.வி. பிரகாஷ் குமார் நடிக்கிறார். இந்த திரைப்படத்திற்கு 'டியர்' என பெயரிடப்பட்டிருக்கிறது. ஏப்ரல் பதினோராம் திகதியன்று பட மாளிகையில் வெளியாகவிருக்கும் இந்த திரைப்படத்திற்கு ரசிகர்களின் ஆதரவு கிடைக்குமா? கிடைக்காதா? என்பதை பொறுத்திருந்துதான் பார்க்க வேண்டும்.
+
+இயக்குநர் ஆனந்த் ரவிச்சந்திரன் இயக்கத்தில் உருவாகி இருக்கும் 'டியர்' எனும் திரைப்படத்தில் ஜீ. வி. பிரகாஷ் குமார், ஐஸ்வர்யா ராஜேஷ், காளி வெங்கட், இளவரசு, ரோகிணி, 'தலைவாசல்' விஜய், கீதா கைலாசம், அப்துல் லீ, 'பிளாக் ஷீப்' நந்தினி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/422c9bc3.json)
+
+---
+
+### Fire at a pharmacy in Punduloya
+
+*2024-04-08 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180731) · `ta`
+
+A fire at a pharmacy in Punduloya's main city last Saturday night may have caused a fire at a private hospital. Damage to products, including drugs and furniture, is yet to be revealed. Punduloya police and Nuwara Eliya Forensic Division are investigating.
+
+🟩
+
+A fire broke out in a private hospital in Punduloya main city. The incident took place last Saturday night (06).
+
+Initial inquiries revealed that the fire may have been the cause of the fire at the pharmacy.
+
+Damage has not yet been revealed that the products, including drugs and furniture have been damaged at the pharmacy.. Police said.
+
+In addition, the Punduloya police and the Nuwara Eliya Forensic Division have joined forces to identify the causes of the fire and carry out further investigations.
+
+◼️
+
+[Data](articles/715cef72.json)
+
+[Extended Data](ext_articles/715cef72.ext.json)
+
+---
 
 ### Special news for those who dreamed for New Zealand
 
@@ -83,30 +219,6 @@ Authorities have also decided to axe earlier plans to add 11 roles, such as weld
 [Data](articles/d41fe010.json)
 
 [Extended Data](ext_articles/d41fe010.ext.json)
-
----
-
-### Fire at a pharmacy in Punduloya
-
-*2024-04-08 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180731) · `ta`
-
-A fire at a pharmacy in Punduloya's main city last Saturday night may have caused a fire at a private hospital. Damage to products, including drugs and furniture, is yet to be revealed. Punduloya police and Nuwara Eliya Forensic Division are investigating.
-
-🟩
-
-A fire broke out in a private hospital in Punduloya main city. The incident took place last Saturday night (06).
-
-Initial inquiries revealed that the fire may have been the cause of the fire at the pharmacy.
-
-Damage has not yet been revealed that the products, including drugs and furniture have been damaged at the pharmacy.. Police said.
-
-In addition, the Punduloya police and the Nuwara Eliya Forensic Division have joined forces to identify the causes of the fire and carry out further investigations.
-
-◼️
-
-[Data](articles/715cef72.json)
-
-[Extended Data](ext_articles/715cef72.ext.json)
 
 ---
 
@@ -297,32 +409,6 @@ The police will be configured that this unfortunate accident had to be killed du
 [Data](articles/f817b02b.json)
 
 [Extended Data](ext_articles/f817b02b.ext.json)
-
----
-
-### Bus crashes in Hanguranketta;Admission at the hospital
-
-*2024-04-08 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180718) · `ta`
-
-A bus carrying women from Hanguranketta to Teldottai crashed in Nuwara Eliya, injuring two women and the driver. They were admitted to Teldottai Divisional Hospital, then transferred to Peradeniya Hospital for further treatment.
-
-🟩
-
-The accident occurred in the bus ditch in Telltottai Nalgandura, which belongs to the Hanguranketha police division in Nuwara Eliya district on Sunday night.
-
-A private bus carrying women working in the commercial garment from Hanguranketta area to Teldottai has fallen into the ditch last night.
-
-Two women and drivers who were traveling on the bus were injured and admitted to the Teldottai Divisional Hospital.
-
-Later, two women were transferred to the Peradeniya Hospital last night for further treatment.
-
-The women on the bus said that the driver continued to speak by telephone.
-
-◼️
-
-[Data](articles/d51ddf06.json)
-
-[Extended Data](ext_articles/d51ddf06.ext.json)
 
 ---
 
@@ -2205,111 +2291,5 @@ The Israeli Security Force has said that the responsibility of investigating a c
 [Data](articles/73385151.json)
 
 [Extended Data](ext_articles/73385151.ext.json)
-
----
-
-### President declares open flyover in Slave Island
-
-*2024-04-08 10:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98506/president-declares-open-flyover-in-slave-island) · `en`
-
-President Ranil Wickremesinghe inaugurated the flyover spanning the railway line linking Kompanna Veediya with Justice Akbar Mawatha and Uttarankanda Mawatha, today (08).
-
-The rest of the construction work of this project is planned to be completed by the month of September, and the estimated amount for the entire project is Rs. 5,278,081,272.43, the President’s Media Division (PMD) reported.
-
-It has been observed that nearly 3 hours of time is wasted daily due to the railway crossing located in Kompanna Veediya area, which is a very busy commercial city with various institutions including government offices, hospitals, religious places, restaurants and movie theatres.
-
-In order to avoid the delay, the construction work of this project, which is implemented by the Road Development Authority, is being carried out by Maga Engineering Company, the PMD said in a statement.
-
-...
-
-[Data](articles/7c460253.json)
-
-[Extended Data](ext_articles/7c460253.ext.json)
-
----
-
-### Tourism's income in 3 months crossed US $ 100 billion
-
-*2024-04-08 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180662) · `ta`
-
-Tourism income in 3 months exceeded $100 billion, with 635,784 tourist arrivals generating $1,025,000.
-
-🟩
-
-Tourism Minister Harin Fernando said the arrival of tourists in the first three months of this year was 635,784.
-
-In this case, the arrival of tourists has earned US $ 1,025,000.
-
-◼️
-
-[Data](articles/eeb73b56.json)
-
-[Extended Data](ext_articles/eeb73b56.ext.json)
-
----
-
-### The new flyover in Slavidiary is owned by the people
-
-*2024-04-08 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195421) · `si`
-
-The new flyover in Slavidiary, owned by the people, was opened by President Ranil Wickremesinghe today, connecting Railway Line Mawatha, Referendiya Mawatha, and UK Language. Construction work is nearing completion.
-
-🟩
-
-President Ranil Wickremesinghe has been opened by President Ranil Wickremesinghe today (08) after connecting the Railway Line Mawatha, Referendiya Mawatha and UK Language.
-
-The remaining construction work of the project is to be completed in the near future.
-
-◼️
-
-[Data](articles/5ec5df47.json)
-
-[Extended Data](ext_articles/5ec5df47.ext.json)
-
----
-
-### Dollar tourists
-
-*2024-04-08 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195420) · `si`
-
-"Dollar tourists: 635,784 arrived in Sri Lanka in Q1, earning $1.025B. This is likely the highest number of tourists this year, surpassing 2018's record."
-
-🟩
-
-Travel Minister Harin Fernando says that 635,784 tourists have arrived in Sri Lanka in the first three months of this year.
-
-The income earned is US $ 1,025 million, he said.
-
-He added that the number of tourist number of tourist arrivals in Sri Lanka is most likely to be recorded this year.
-
-Minister of Tourist Minister Harin Fernando has said that the highest number of tourists arrived in Sri Lanka in 2018.
-
-◼️
-
-[Data](articles/56b99f2c.json)
-
-[Extended Data](ext_articles/56b99f2c.ext.json)
-
----
-
-### Sri Lanka rupee opens at 298.80/299.00 to the US dollar
-
-*2024-04-08 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-298-80-299-00-to-the-us-dollar-157812/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 298.80/299.00 to the US dollar in the spot forex market on Monday, stronger from 299.25/30 on Friday, dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 was quoted at 11.35/45 percent from 11.40/45 percent, down from Friday.
-
-A bond maturing on 15.09.2027 was quoted at 11.95/12.00 percent from 11.90/12.00 percent.
-
-A bond maturing on 15.12.2028 was quoted at 12.10/25 percent from 12.15/25 percent.
-
-The Colombo Stock Exchange opened up. The All Share Price Index was up 0.71 percent at 11,879, the S&P SL20 was up 1.31 percent at 3,527.(Colombo/Apr8/2024)
-
-◼️
-
-[Data](articles/e306f66a.json)
-
-[Extended Data](ext_articles/e306f66a.ext.json)
 
 ---

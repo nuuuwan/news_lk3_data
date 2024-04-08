@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 00:18:12**
+As of **2024-04-09 00:33:52**
 
 ## Newspaper Stats
 
-*Scraped **17,930** Articles*
+*Scraped **17,932** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,48 @@ adalk | 1,512
 tamilmirrorlk | 2,106
 adaderanalk | 2,160
 virakesarilk | 2,641
-dailymirrorlk | 2,736
+dailymirrorlk | 2,738
 adaderanasinhalalk | 2,906
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,930 (100.0%) of 17,930 articles have been extended.
+17,930 (100.0%) of 17,932 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-04-09 (Tuesday)
+
+### Role of Buddhism in fight against caste oppression in Tamil Nadu
+
+*2024-04-09 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Role-of-Buddhism-in-fight-against-caste-oppression-in-Tamil-Nadu/172-280411) · `en`
+
+Buddhism flourished in ancient India, including Tamil Nadu from the early years of the Christian era till about the 14th century. At its height, it enjoyed royal patronage and was the religion of the elite which at that time comprised the urban and mercantile classes.
+
+Buddhism ceased to exist in India in the medieval period for a variety of reasons, and saw a revival of sorts only in the closing years of the 19th century.
+
+The discoveries of British archaeologists and anti-colonial and religious revivalist movements in Ceylon and India spurred by Europeans interested in Eastern thought, were factors responsible for increasing interest in Buddhism at the end of the 19th century.
+
+In Ceylon, the Buddhist revival was a part of a nationalistic upsurge, the search for a national identity. But in India, its revival was part of the movement to liberate the traditionally oppressed “untouchable” castes, now called Dalits.
+
+...
+
+[Data](articles/16c53aaf.json)
+
+---
+
+### ILO’s Gender Pay Gap report; a scathing indictment against Sri Lanka
+
+*2024-04-09 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/ILOs-Gender-Pay-Gap-report-a-scathing-indictment-against-Sri-Lanka/172-280409) · `en`
+
+Despite Sri Lanka having been boasting about producing the world’s first woman Prime Minister and two women heads of government whose tenures spanned 23 years of the 76 years since Independence, the reports published by international organisations such as the United Nations Development Programme (UNDP) and the International Labour Organisation (ILO) do not allow the leaders of the country including those two women leaders to boast that they have done much to improve the lives of the women in the country.
+
+...
+
+[Data](articles/1ba12f04.json)
+
+---
 
 ### 2024-04-08 (Monday)
 
@@ -2321,49 +2353,5 @@ It has now been converted into a diaspora country. Some civil organizations are 
 [Data](articles/47ac85d6.json)
 
 [Extended Data](ext_articles/47ac85d6.ext.json)
-
----
-
-### 50 people drown in the north a year
-
-*2024-04-08 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180705) · `ta`
-
-"50 drownings in Northern Province annually, with 700-800 deaths yearly, peaking during festive seasons."
-
-🟩
-
-Fifty people were killed in the Northern Province last year, police said
-
-13 people in the Jaffna Police Region, 2 in the Kankesanthurai Police Region, 6 in the Mannar Police Region, 5 in the Vavuniya Police Region, 8 in the Mullaitivu Police Region and 16 in the Kilinochchi police region.
-
-“Two or three people are drowning in the water every day. According to our information, 700 - 800 people die annually. This number is increasing during the festive season, ”said Sirika, the head of the Health Ministry, Social Medical Expert, Socialist Medical Expert.
-
-◼️
-
-[Data](articles/ff542772.json)
-
-[Extended Data](ext_articles/ff542772.ext.json)
-
----
-
-### Public Works on 6 people supporting Sajith
-
-*2024-04-08 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/180706) · `ta`
-
-Six Sri Lanka PA members face disciplinary action in tomorrow's meeting chaired by Mahinda Rajapaksa, discussing with United People's Power.
-
-🟩
-
-The Sri Lanka PA's political committee meeting will be held tomorrow (9) under the chairmanship of former President Mahinda Rajapaksa.
-
-The meeting will be held tomorrow as the six members of the Sri Lanka Peoples Freedom Alliance (PA) will be discussed with the United People's Power.
-
-It seems that the six of these six are disciplinary action.
-
-◼️
-
-[Data](articles/9258cf40.json)
-
-[Extended Data](ext_articles/9258cf40.ext.json)
 
 ---

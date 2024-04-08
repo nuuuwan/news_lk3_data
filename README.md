@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 09:03:20**
+As of **2024-04-08 09:18:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,876
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,741 (100.0%) of 17,744 articles have been extended.
+17,744 (100.0%) of 17,744 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ However, the salaries for April will be paid on April 10 in view of the New Year
 ...
 
 [Data](articles/223bff8c.json)
+
+[Extended Data](ext_articles/223bff8c.ext.json)
 
 ---
 
@@ -89,6 +91,8 @@ Meanwhile, SLAF spokesman Group Captain Dushan Wijesinghe said that the SLAF Com
 ...
 
 [Data](articles/898c2e63.json)
+
+[Extended Data](ext_articles/898c2e63.ext.json)
 
 ---
 
@@ -960,21 +964,27 @@ The President pointed out that with the political change in July 2022, the presi
 
 ---
 
-### ’ஐ.தே.க. கொள்கையுடன் பதவிக்கு வந்தேன்’
+### Model UNP. I came to office with policy
 
 *2024-04-08 00:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-க-கொள்கையுடன்-பதவிக்கு-வந்தேன்/175-335725) · `ta`
 
-ஜனாதிபதி ஜே.ஆர் ஜயவர்தனவுடன் பணியாற்றி, ஜனாதிபதி ரணசிங்க பிரேமதாசவின் கீழ் கட்சியைப் பாதுகாத்து, ஜனாதிபதி டி.பி. விஜேதுங்கவுடனும் இணைந்து செயற்பட்டு ஐக்கிய தேசியக் கட்சியில் இருந்து பிரதமராகி, ஐக்கிய தேசியக் கட்சியின் கொள்கைப் பாரம்பரியத்துடன் நாட்டின் தலைமைப் பதவிக்கு நான் வந்தேன் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranasinghe Premadasa praised the United National Party (UNP) tradition, highlighting its role in leadership under President JR Jayawardene and President Ranil Wickremesinghe. He criticized the current United People's Power for not representing UNP policies, accusing it of aligning with the budding committee, including GL Peiris, and abandoning the UNP tradition.
 
-கண்டி ஜனாதிபதி மாளிகையில் நேற்று நடைபெற்ற ஐக்கிய தேசியக் கட்சியின் செயற்பாட்டாளர்களுடனான கூட்டத்தில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-ஐக்கிய தேசியக் கட்சி எம்முடன் தான் இருக்கிறது என ஐக்கிய மக்கள் சக்தி அன்று கூறியது.சிறிகொத்த மாத்திரம் தான் எம்மிடம் இல்லை என்றார்கள். எமக்கு அதிகாரத்தை தாருங்கள் சிறிகொத்தவை கைப்பற்றுவோம் என ஐக்கிய மக்கள் சக்தி கூறியது. ஆனால் தற்போது ஜி.எல்.பீரிஸ் உள்ளிட்ட மொட்டுக் குழுவுடன் கூட்டணி அமைத்துள்ளனர்.
+Working with President JR Jayawardene and defending the party under President Ranasinghe Premadasa. President Ranil Wickremesinghe said that I came to the post of leadership of the country with the tradition of the United National Party (UNP) and became the Prime Minister of the United National Party.
 
-இன்று சஜித்துடன் ரஞ்சித் மத்துமபண்டார மட்டுமே அமர்ந்துள்ளார். ஐக்கிய தேசியக் கட்சியைச் சேர்ந்த வேறு யாரும் அங்கு இல்லை.
+The President was speaking at a meeting with the United National Party (UNP) activists held at the Kandy President's House yesterday.. As he further stated,
+
+The United National Party said that it is with us.. The United People's Power has said that we will capture the Sirikotha. But now they have formed an alliance with the budding committee, including GL Peiris.
+
+Ranjith Mathumapandara is only sitting with Sajith today. There is no one else from the United National Party.
 
 ...
 
 [Data](articles/1edb7280.json)
+
+[Extended Data](ext_articles/1edb7280.ext.json)
 
 ---
 

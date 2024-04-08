@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 06:18:25**
+As of **2024-04-08 06:55:51**
 
 ## Newspaper Stats
 
-*Scraped **17,709** Articles*
+*Scraped **17,711** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ islandlk | 968
 dailyftlk | 972
 economynextcom | 978
 adalk | 1,489
-tamilmirrorlk | 2,083
+tamilmirrorlk | 2,084
 adaderanalk | 2,136
 virakesarilk | 2,590
 dailymirrorlk | 2,704
-adaderanasinhalalk | 2,870
+adaderanasinhalalk | 2,871
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,709 (100.0%) of 17,709 articles have been extended.
+17,709 (100.0%) of 17,711 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### අදත් ප්‍රදේශ කිහිපයකට තද වැසි
+
+*2024-04-08 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195411) · `si`
+
+බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වලත් මොනරාගල, මන්නාරම සහ අනුරාධපුර දිස්ත්‍රික්කවලත් ප.ව. 2න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, බස්නාහිර, මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බවය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනවලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්ෂාංශ වලට සෘජුවම ඉහලින් පවතී.
+
+අද දින (08) දහවල් 12:12 ට මාරවිල, පොතුහැර, ගුරුකැටේ, කල්මුණේ, ගර්තලවෙල සහ වරාපිටිය යන ප්‍රදේශවලට හිරු මුදුන් වනු ඇත.
+
+◼️
+
+[Data](articles/40f3ec2c.json)
+
+---
 
 ### SJB accuses JVP of avoiding economic debate challenge
 
@@ -403,6 +423,22 @@ The President pointed out that with the political change in July 2022, the presi
 [Data](articles/91db5a69.json)
 
 [Extended Data](ext_articles/91db5a69.ext.json)
+
+---
+
+### 3 நாட்களில் 15,675 சுற்றுலாப்பயணிகள் வருகை
+
+*2024-04-08 00:05:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-நாட்களில்-15-675-சுற்றுலாப்பயணிகள்-வருகை/175-335722) · `ta`
+
+இந்த மாதத்தின் கடந்த மூன்று நாட்களில் மாத்திரம் 15,675 சுற்றுலாப்பயணிகள் நாட்டுக்கு வருகைத்தந்துள்ளனர்.
+
+அத்துடன், இந்தியாவில் இருந்து வருகைத்தரும் சுற்றுலாப்பயணிகளின் எண்ணிக்கை தொடர்ந்தும் அதிகரித்து வருவதாக அந்த சபை குறிப்பிட்டுள்ளது.
+
+இதன்படி, இந்தியாவில் இருந்து 2,349 பேரும், ரஷ்யாவில் இருந்து 1,882 பேரும் ஜேர்மனியில் இருந்து 1,438 பேரும் நாட்டுக்கு வருகைத்தந்துள்ளனர். (a)
+
+◼️
+
+[Data](articles/4fc721b7.json)
 
 ---
 
@@ -2197,53 +2233,5 @@ Whike expressing his opinion, the Minister said although seeds of various crops 
 [Data](articles/1fb81855.json)
 
 [Extended Data](ext_articles/1fb81855.ext.json)
-
----
-
-### Contents to make a green city in Kandy
-
-*2024-04-07 13:44:26* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-හරිත-නගරයක්-කරන්න-සාකච්ඡා/11-408982) · `si`
-
-Mr. Bandula Gunawardena announced plans to make Kandy a green city, focusing on the Cargo Model Transport Center. The project, costing around two thousand crores, will be discussed with the World Bank. The center aims to implement green town concepts within three years, with no involvement of new journalists in the medium level costs.
-
-🟩
-
-Around two thousand crores in Kundala, Katugastota, Peradeniya and Galankumbura and that the World Bank will be discussed with the World Bank in advance.Mr. Bandula Gunawardena said.
-
-He was speaking at the Prime Minister in Kandy and review the development of the Cargo Model Transport Center and review of its progress.
-
-The proposal to be presented to the World Bank to appoint Kandy as a green city
-
-The Minister said that the proposed Kandy Transport Center is focused on the concept of the green town concept within the next three years.
-
-The Minister said that although the new journalist was not involved in the new medium level, which was not involved in the cost of Rs.
-
-Minister Bandula Gunawardena further stated that it has been allocated to Kandy and has proposed to Kandy and has proposed to Kandy.
-
-◼️
-
-[Data](articles/4729f88c.json)
-
-[Extended Data](ext_articles/4729f88c.ext.json)
-
----
-
-### Police launch special operation to combat drug trafficking via eZ cash, M cash
-
-*2024-04-07 13:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-launch-special-operation-to-combat-drug-trafficking-via-eZ-cash-M-cash/108-280321) · `en`
-
-Colombo, April 7 (Daily Mirror) - A special operation targeting individuals involved in purchasing drugs through eZ Cash and M Cash has been initiated by the police.
-
-Police said this operation, commenced on Saturday and is scheduled to continue till April 10, parallel to the 'Yukthiya' operation under the guidance of Inspector General of Police Deshabandu Tennakoon.
-
-During the initial operations across the island on Saturday, information was gathered on 198 individuals engaged in illegal drug trafficking using eZ Cash and M Cash.
-
-Accordingly, police said that investigations will be conduct by the Police Narcotics Bureau examining the bank account records of 18 traffickers and analyzing telephone tower data related to 71 other suspects.
-
-◼️
-
-[Data](articles/513fda84.json)
-
-[Extended Data](ext_articles/513fda84.ext.json)
 
 ---

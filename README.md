@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 17:54:08**
+As of **2024-04-08 18:10:01**
 
 ## Newspaper Stats
 
-*Scraped **17,883** Articles*
+*Scraped **17,884** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 972
 islandlk | 979
 economynextcom | 993
-adalk | 1,504
+adalk | 1,505
 tamilmirrorlk | 2,104
 adaderanalk | 2,154
 virakesarilk | 2,631
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,897
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,876 (100.0%) of 17,883 articles have been extended.
+17,883 (100.0%) of 17,884 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ It is celebrated in India and former territories of the Chola Empire including S
 ◼️
 
 [Data](articles/014aa25c.json)
+
+[Extended Data](ext_articles/014aa25c.ext.json)
 
 ---
 
@@ -69,6 +71,8 @@ A bond maturing on 01.10.2031 closed at 12.35/60 percent. (Colombo/Apr8/2024)
 ◼️
 
 [Data](articles/dbf86bea.json)
+
+[Extended Data](ext_articles/dbf86bea.ext.json)
 
 ---
 
@@ -307,6 +311,8 @@ As Ramazan, the month of fasting draws to an end, several Muslims in Pettah busy
 ◼️
 
 [Data](articles/b06458a5.json)
+
+[Extended Data](ext_articles/b06458a5.ext.json)
 
 ---
 
@@ -576,6 +582,8 @@ Other major contributors to the Index included Commercial Bank of Ceylon, up at 
 
 [Data](articles/98b214c7.json)
 
+[Extended Data](ext_articles/98b214c7.ext.json)
+
 ---
 
 ### Special news for those who dreamed for New Zealand
@@ -672,6 +680,8 @@ Pathirana said that health officials had studied 5 years of data and seen an inc
 
 [Data](articles/ace0ea67.json)
 
+[Extended Data](ext_articles/ace0ea67.ext.json)
+
 ---
 
 ### New committee to ensure respectful handling of final rites for individuals – President
@@ -729,6 +739,8 @@ The project was started in 2010 and the funding was to be received as loan grant
 ...
 
 [Data](articles/a3706ccb.json)
+
+[Extended Data](ext_articles/a3706ccb.ext.json)
 
 ---
 
@@ -927,6 +939,26 @@ The former president said the Sri Lanka PA had not yet decided on the presidenti
 [Data](articles/3fbd283b.json)
 
 [Extended Data](ext_articles/3fbd283b.ext.json)
+
+---
+
+### ජනපති පත්කළ අලුත්ම කමිටුව
+
+*2024-04-08 14:53:56* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-පත්කළ-අලුත්ම-කමිටුව/11-409015) · `si`
+
+මුස්ලිම් ප්‍රජාව ඇතුළු ඕනෑම පුද්ගලයෙකුගේ අවසන් කටයුතු සිදු කිරීමේදී ආගමානුකූලව හෝ අවසන් කැමති පත්‍රයට අනුව සිදු කිරීමට අවශ්‍ය කටයුතු සැලසීම සඳහා නව කමිටුවක් පත් කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ඊට අදාළ නීති සම්පාදනය කිරීමට ඉදිරියේදී කටයුතු කරන බව ද ජනාධිපතිවරයා සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මහනුවර කටුකැලේ ජුම්මා මුස්ලිම් පල්ලියේ ඊයේ (07) පැවති ඉෆ්තාර් උත්සවයට එක්වෙමිනි.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය,
+
+පසුගිය සමයේ රටේ පැවති ආර්ථික අර්බුදය නිසා ජනතාවට පෝලිම්වල සිටීමට සිදුවීම නිසා රාමසාන් උපවාසය පවා නිසි අයුරින් සිදු කිරීමට හැකි වුණේ නැහැ. පසුගිය වසරේ සිට ආර්ථිකය යහපත් තත්ත්වයට පත්වෙමින් තිබෙන නිසා අද වන විට සුපුරුදු ආකාරයටම රාමසාන් සමය සහ රාමසාන් උපවාසය සිදු කිරීමට අවස්ථාව ලැබී තිබෙනවා.
+
+...
+
+[Data](articles/78edc9f0.json)
 
 ---
 
@@ -1303,6 +1335,8 @@ JVP and NPP leader Dissanayake is ready to attend the debate, Silva said, and Pr
 ...
 
 [Data](articles/fd9d95da.json)
+
+[Extended Data](ext_articles/fd9d95da.ext.json)
 
 ---
 
@@ -2291,29 +2325,5 @@ Police said that disciplinary action will be taken against any officers found to
 [Data](articles/fc7f4037.json)
 
 [Extended Data](ext_articles/fc7f4037.ext.json)
-
----
-
-### Obtaining block against sacking Mahinda, Lasantha and Duminda
-
-*2024-04-08 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195426) · `si`
-
-The Colombo District Court has issued an injunction order against the sacking of Mahinda Amaraweera, Lasantha Alagiyawanna, and MP Duminda Dissanayake, following complaints filed by the Ministers against their removal from the SLFP without disciplinary inquiry.
-
-🟩
-
-The Colombo District Court sentenced the extension of the injunction order issued by Mahinda Amaraweera, Lasantha Alagiyawanna and MP Duminda Dissanayake.
-
-Colombo District Judge Sandun Withana has issued the orders on the complaints filed by the Ministers against the removal of him from the SLFP.
-
-The Sri Lanka Freedom Party Chairman Maithripala Sirisena, Acting Secretary of Sri Lanka, was named as acting of the complaints.
-
-The complaints were filed before the District Court as the decision taken by the working committee to expel himself from the party without any reasonable disciplinary inquiry.
-
-◼️
-
-[Data](articles/3d3bf273.json)
-
-[Extended Data](ext_articles/3d3bf273.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 12:51:52**
+As of **2024-04-08 13:03:18**
 
 ## Newspaper Stats
 
-*Scraped **17,802** Articles*
+*Scraped **17,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 972
 islandlk | 979
-economynextcom | 983
-adalk | 1,494
+economynextcom | 984
+adalk | 1,495
 tamilmirrorlk | 2,096
 adaderanalk | 2,147
-virakesarilk | 2,602
+virakesarilk | 2,607
 dailymirrorlk | 2,723
 adaderanasinhalalk | 2,885
 
@@ -26,11 +26,131 @@ adaderanasinhalalk | 2,885
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,801 (100.0%) of 17,802 articles have been extended.
+17,802 (100.0%) of 17,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### அரச ஊழியர்களுக்கு இன்று முதல் ஏப்ரல் மாத சம்பளம்!.
+
+*2024-04-08 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/180696) · `ta`
+
+அரச ஊழியர்களுக்கு ஏப்ரல் மாதத்துக்கான சம்பளம் இன்று (08) முதல் வழங்கப்படும் என நிதி இராஜாங்க அமைச்சர்  ரஞ்சித் சியம்பலாப்பிட்டிய தெரிவித்துள்ளார்.
+
+தமிழ் மற்றும் சிங்கள புத்தாண்டின் காரணமாக ஏப்ரல் மாத சம்பளமானது 10 ஆம் திகதிக்கு முன்னர் வழங்கப்படும் என குறிப்பிட்டுள்ளார்.
+
+அத்தோடு, அரசாங்கத்தினால்  முன்மொழியப்பட்ட 10,000 ரூபா கொடுப்பனவுடன் சம்பளமும் வழங்கப்படும் என்று கேகாலையில் நேற்று (07)ஞாயிற்றுக்கிழமை ஊடகங்களுக்கு கருத்து தெரிவித்த போது அவர் இதனைக்  குறிப்பிட்டுள்ளார்.
+
+எதிர்வரும் 15ஆம் திகதியை பொது விடுமுறை தினமாக பிரகடனம் செய்வது  தொடர்பில் தீர்மானிக்கப்படவில்லை என  அரச நிர்வாக உள்ளுராட்சி மற்றும் மாகாண சபை அமைச்சர் அசோக பிரியந்த தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/d98fd348.json)
+
+---
+
+### Singapore inspects Sri Lanka poultry, seafood, rice processors ahead of exports
+
+*2024-04-08 12:45:00* · [`economynextcom`](https://economynext.com/singapore-inspects-sri-lanka-poultry-seafood-rice-processors-ahead-of-exports-157874/) · `en`
+
+ECONOMYNEXT – A delegation from Singapore Food Agency (SFA), the competent authority responsible for food safety and security in the country, has visited Sri Lanka to inspect companies that wished to export foods to the country.
+
+Sri Lanka’s Export Development Board said, Abdul Jalil Abdul Karder, Assistant Chief Executive Officer (Operations) of the FSA had arrived on March 25 to pre-inspect slaughterhouses following applications made by Sri Lanka firms to export poultry products.
+
+“For Sri Lanka to export poultry products to Singapore, it is imperative for the country to meet the stringent requirements set out by the SFA,” EDB said.
+
+“In this regard, facilitating this process, the Sri Lanka Export Development Board (EDB) organized additional visits for the SFA delegation to a rice processing mill, a fruit and vegetable processing center, as well as a seafood export company.
+
+...
+
+[Data](articles/529fdf30.json)
+
+---
+
+### ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதவிகளிலிருந்து அமரவீர  உட்பட மூவரை நீக்குவதைத் தடுக்கும் தடை உத்தரவு நீடிப்பு!
+
+*2024-04-08 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180699) · `ta`
+
+துமிந்த திசாநாயக்க, லசந்த அழகியவண்ண மற்றும் மஹிந்த அமரவீர ஆகியோரை கட்சியில் இருந்து நீக்குவதற்கு ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழு மேற்கொண்ட தீர்மானத்தை  தடுக்கும் இடைக்காலத் தடை உத்தரவு ஏப்ரல் 24 ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளது.
+
+குறித்த  நாடாளுமன்ற உறுப்பினர்களால் தாக்கல் செய்யப்பட்ட மனு இன்று திங்கட்கிழமை (08)  விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போதே கொழும்பு மாவட்ட நீதிபதி சந்துன் விதான இந்த உத்தரவை பிறப்பித்ததார்.
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன மற்றும் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் பொதுச் செயலாளர் சரதி துஷ்மந்த மித்ரபால உள்ளிட்ட சிலர் இந்த மனுக்களில் பிரதிவாதிகளாக குறிப்பிடப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/56c841f4.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-04-08 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/180697) · `ta`
+
+இன்று திங்கட்கிழமை (ஏப்ரல் 08) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 294.3442 ஆகவும் விற்பனை விலை ரூபா 303.8976 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/527803b8.json)
+
+---
+
+### மனிதாபிமான பணியாளர்கள் படுகொலை - உரிய பொறுப்புக்கூறல் அவசியம் அவுஸ்திரேலியா மீண்டும் வலியுறுத்தல்
+
+*2024-04-08 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180695) · `ta`
+
+மனிதாபிமான பணியாளர்கள் இஸ்ரேலின் தாக்குதலில் கொல்லப்பட்டமை குறித்த உரிய பொறுப்புக்கூறல் அவசியம் என அவுஸ்திரேலிய பிரதமர் மீண்டும் வலியுறுத்தியுள்ளார்.
+
+அவுஸ்திரேலியாவின் ஜோமி பிராங்கோம் உட்பட ஏழு மனிதாபிமான பணியாளர்கள் கொல்லப்பட்டதை உலகை உலுக்கியுள்ள பெரும் துன்பியல் சம்பவம் என அவுஸ்திரேலிய பிரதமர் தெரிவித்துள்ளார்.
+
+மனிதாபிமான பணியாளர்கள் இஸ்ரேலின் தாக்குதலில் கொல்லப்பட்டமை குறித்த உரிய பொறுப்புக்கூறல் அவசியம் என அவுஸ்திரேலிய பிரதமர் மீண்டும் வலியுறுத்தியுள்ளார்.
+
+அவுஸ்திரேலியாவின் ஜோமி பிராங்கோம் உட்பட ஏழு மனிதாபிமான பணியாளர்கள் கொல்லப்பட்டதை உலகை உலுக்கியுள்ள பெரும் துன்பியல் சம்பவம் என அவுஸ்திரேலிய பிரதமர் தெரிவித்துள்ளார்.
+
+மனிதாபிமான பணியாளர்கள் படுகொலை தொடர்பான இஸ்ரேலின் விசாரணை திருப்தியளி;க்கவில்லை என அன்டனி அல்பெனிஸ் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/05ac3b32.json)
+
+---
+
+### டக்ளஸ் தேவானந்தாவின் அடாவடி மற்றும் சண்டித்தன அரசியல் தமிழ் மக்களிடம் செல்லுபடியாகது - முன்னாள் கரைச்சி பிரதேச சபை உறுப்பினர் ஜீவன்..!
+
+*2024-04-08 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180689) · `ta`
+
+டக்ளஸ் தேவானந்தாவின் அடாவடி மற்றும் சண்டித்தன அரசியல் தமிழ் மக்களிடம் செல்லுபடியாகது முன்னாள் கரைச்சி பிரதேச சபை உறுப்பினர் ஜீவன் தெரிவித்துள்ளார்.
+
+கிளிநொச்சி மாவட்ட பூநகரி பிரதேச செயலகத்திற்குட்பட்ட பொன்னாவெளி கிராமத்தில் கடந்த (05)ம் திகதி மக்களின் நியாயமான போராட்டத்தை முறியடிக்க 06 பஸ்களில் மக்கள் அழைத்துவரப்பட்டனர்.
+
+குறித்த விடயம் தொடர்பாக ஊடக சந்திப்பொன்றை முன்னாள் பிரதேச சபை உறுப்பினர் சண்முகராஜா ஜீவராஜா அவர்கள் ஏற்பாடு செய்திருந்தார்.
+
+குறித்த ஊடக சந்திப்பில் தெரிவித்ததாவது முதலில் நாம் 06 பஸ்களில் வந்திருந்த மக்களுக்கு நன்றி சொல்ல வேண்டும். அவர்கள் தமிழ் மக்கள் என்பதை உறுதிப்படுத்தி இருக்கிறார்கள். அவர்களுக்கு காசு ஒரு ஆளுக்கு ஆயிரம் ரூபா தருவதாகவும், அட்டை பண்னைக்கான அனுமதிபத்திரம் தருவதாகவும் பல பொய்களை கூறி பொன்னாவெளி கிராம மக்களின் போராட்டத்தை முறியடிக்கும் நோக்கிலேயே அழைத்து வரப்பட்டனர்.
+
+...
+
+[Data](articles/b9b3c8db.json)
+
+---
+
+### විස්කි හා ලැප්ටොප් කටුනායකින පන්නන්න ගිය ව්‍යාපාරිකයන්ට වැඩ වරදියි
+
+*2024-04-08 12:25:35* · [`adalk`](https://www.ada.lk/breaking_news/විස්කි-හා-ලැප්ටොප්-කටුනායකින-පන්නන්න-ගිය-ව්‍යාපාරිකයන්ට-වැඩ-වරදියි/11-409002) · `si`
+
+නීතිවිරෝධී ලෙස ශ්‍රී ලංකාවට ආනයනය කර, තීරු බදු නොගෙවා කටුනායක ගුවන් තොටුපොළෙන් පිට කර ගෙන යමින් සිටි රුපියල් ලක්ෂ පනහක් පමණ වටිනා  භාණ්ඩ තොගයක් සමග ඒවා මෙරටට ගෙන ආ ව්‍යාපාරිකයන් දෙදෙනෙකු  කටුනායක ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පිරිසක් විසින් 04/08 දින අත් අඩංගුවට ගෙන තිබේ.
+
+මෙම ව්‍යාපාරිකයන් දෙදෙනා අතරින් එක් අයෙකු 58 හැවිරිදි ජා - ඇළ ප්‍රදේශයේ පදිංචිකරුවෙකි . අනෙක් ව්‍යාපාරිකයා 50 හැවිරිදි රත්නපුර ප්‍රදේශයේ පදිංචිකරුවෙකි .
+
+මොවුන් දෙදෙනා ගුවන් මගින් මෝටර් රථ අමතර කොටස් මෙරටට ආනයනය කර විකිණීමේ ව්‍යාපාරයක නිරත වී සිටින්නන් වන අතර මෙම උත්සව සමග එළඹීමත් සමග මොවුන් තම ගමන් මලු තුළ බහා විස්කි බෝතල් 56 ක් සහ ලැප්ටොප් පරිගණක 12 ක් නීතිවිරෝධී ලෙස රැගෙන විත් තිබුණි .
+
+මොවුන් දෙදෙනා 04/08 දින අලුයම 12.00 ට සිංගප්පූරුවේ සිට සිංගප්පූරු ගුවන් සේවයේ එස්.කිව්.- 468 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+...
+
+[Data](articles/b1d41dbd.json)
+
+---
 
 ### Minister Nimal Siripala de Silva as the Sri Lanka Freedom Party (SLFP) leader
 
@@ -446,19 +566,29 @@ Dr. Dandanarayana added that separate rooms have been prepared for every mother 
 
 ---
 
-### මව විදෙස්ගත පැමිණෙන තෙක් ඥාතිවරියකට රැකබලා ගැනීමට ගිවිසුමක් මගින් දුන් දැරිය හදිසියේම මරුට
+### The girl who gave a covenant killer to take care of a relative to a relative to the mother abroad
 
 *2024-04-08 11:04:05* · [`adalk`](https://www.ada.lk/breaking_news/මව-විදෙස්ගත-පැමිණෙන-තෙක්-ඥාතිවරියකට-රැකබලා-ගැනීමට-ගිවිසුමක්-මගින්-දුන්-දැරිය-හදිසියේම-මරුට/11-409001) · `si`
 
-ගිවිසුමක් හරහා සමීප ඥාතිවරියකට ලබා දුන් වයස අවුරුදු 4 මාස 7ක් දැරියක සැක කටයුතු ලෙස මියයාමේ සිද්ධියක් සම්බන්ධයෙන් එම කාන්තාවගේ සැමියා ඇතුළු සිවුදෙනකු අත්අඩංගුවට ගත් බව මාලිගාවත්ත පොලීසිය පවසයි.
+A girl named Mohammed Ryfcan, temporarily residing in Maligawatta, was killed. Her father, a suspect, was arrested for giving a covenant killer to take care of a relative. The victim's mother had gone abroad five months ago. The suspect's wife and daughter were also arrested.
 
-එම සැකකරු වන (මියගිය දැරියගේ පියා) අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු පහට අඩු දරුවෙක් ගිවිසුමක් හරහා වෙනත් පාර්ශ්වයකට ලබාදීමට කටයුතු කිරීම සම්බන්ධයෙනි.
+🟩
 
-අත්අඩංගුවට ගත් සෙසු පිරිස අතර දැරිය හදා වඩා ගැනීමට භාරගත් 45 හැවිරිදි කාන්තාවක් ඇයගේ 19 හැවිරිදි දියණිය සහ 15 හැවිරිදි පුතාද වන බව පොලීසිය සඳහන් කරයි. මෙලෙස අවාසනාවන්ත ලෙස මියගොස් තිබුණේ, මාලිගාවත්ත ලක් සෙවන මහල් නිවාස සංකීර්ණයේ තාවකාලිකව පදිංචිව සිටි මොහොමඩ් රිෆ්කාන් හායිසා නමැති දැරියකි.
+Maligawatta Police say four persons including the woman's husband and four others were arrested in connection with the death of a girl for a close relative to a close relative.
+
+The suspect (father of the deceased girl) has been arrested by connecting a child under a covenant with a covenant.
+
+A 45-year-old woman who was taken into customer with the rest of the arrested group is a 15-year-old daughter and 15 year old.The victim was a girl named Mohammed Ryfcan, a temporary residing in the Maligawatta.
+
+The deceased has been resident in Puttalam with mother and father and had a close relative to a close relative to the girl and returned to the girl before the mother went abroad about five months ago.Police investigations have revealed that a relative was given to the suspect.
+
+It has been revealed that the girl was playing at home on the 5th and the main suspect had been admitted to the Lady Lady Lady Children's Hospital.
 
 ...
 
 [Data](articles/3260e84f.json)
+
+[Extended Data](ext_articles/3260e84f.ext.json)
 
 ---
 
@@ -2013,157 +2143,5 @@ The apology from an individual on behalf of the Government which as a collective
 [Data](articles/45294757.json)
 
 [Extended Data](ext_articles/45294757.ext.json)
-
----
-
-### Tourism earnings on a tear as healthy arrivals power incomes
-
-*2024-04-08 02:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourism-earnings-on-a-tear-as-healthy-arrivals-power-incomes/108-280347) · `en`
-
-Reflecting what the Sri Lankan tourism trade could deliver in normal times when there are no pandemics or mass scale public protests as in 2022, the industry churned out back-to-back high foreign earnings exceeding US$ 300 million.
-
-According to data, the tourism trade generated US$ 338.4 million for March compared to US$ 188.8 million a year ago and US$ 345.7 million a month before.
-
-On a cumulative basis, in the first three months,  earnings were recorded at US$ 1,025.9 million, more than double from the same period a year ago.
-
-In March, Sri Lanka saw 209,181 visitors coming in with the first three months’ arrivals topping 635,784 million.
-
-Sri Lanka for 2024 targets 2.3 million visitors to generate roughly US$ 4.0 billion earnings.
-
-In 2023, the country saw little over 1.4 million arrivals generating a little over US$ 2.0 billion.
-
-...
-
-[Data](articles/2c273f2b.json)
-
-[Extended Data](ext_articles/2c273f2b.ext.json)
-
----
-
-### How to miss five industrial revolutions
-
-*2024-04-08 01:55:38* · [`dailyftlk`](https://www.ft.lk/columns/How-to-miss-five-industrial-revolutions/4-760419) · `en`
-
-The signs of having gone through industrial revolutions are the country becoming wealthy, and population having a high level of per capita income
-
-Sri Lanka did not have a complete set of Government institutions to maintain a corruption-free economy. This incompleteness later led to countrywide corruption and creating a generation of rent seekers whose primary objective was to profit from the Government, at the expense of the welfare of the general public. This should have been obvious to the political leaders and bureaucrats of Sri Lanka who oversaw the transition of political power from the colonial master. Thus, the need to import and adopt technology and the need to install the full set of institutions should have been a top priority of the country. In similar situations, countries like Japan and Singapore adopted correct strategies
-
-...
-
-[Data](articles/71f39270.json)
-
-[Extended Data](ext_articles/71f39270.ext.json)
-
----
-
-### Dr. Anil Munasinghe appointed CEO of Kelani Cables
-
-*2024-04-08 01:48:52* · [`dailyftlk`](https://www.ft.lk/business/Dr-Anil-Munasinghe-appointed-CEO-of-Kelani-Cables/34-760418) · `en`
-
-Dr. Anil Munasinghe has been appointed as the new CEO of Kelani Cables Plc. Prior to this appointment, Munasinghe served as the Deputy CEO. He joined Kelani Cables as a Sales Manager (Distribution) in 2004 and made significant contributions to the growth and development of the Kelani brand image and personality. Recognizing his achievements, the top management appointed him as the General Manager (Marketing), and he was subsequently promoted to Deputy CEO.
-
-Kelani Cables Plc is recognized as one of the fastest-growing blue-chip companies in the Sri Lankan cable industry.
-
-Munasinghe began his sales and marketing career at ACL Group in 1991 and served successfully for 13 years in various capacities, including Sales Promotion Officer, Sales Executive, and Area Sales Manager, until 2004.
-
-...
-
-[Data](articles/8840c9d8.json)
-
-[Extended Data](ext_articles/8840c9d8.ext.json)
-
----
-
-### Maliban Group of Companies shines at CLA Great Managers Award
-
-*2024-04-08 01:46:39* · [`dailyftlk`](https://www.ft.lk/business/Maliban-Group-of-Companies-shines-at-CLA-Great-Managers-Award/34-760417) · `en`
-
-Wins “Companies With Great Managers 2023” award whilst eight managers win individual accolades
-
-Maliban Group of Companies last week won the “Companies With Great Managers 2023” award organised by the Colombo Leadership Academy. The recognition was bestowed at the CLA Great Managers Award Ceremony held at the Balmoral Banquet Hall, Kingsbury Hotel Colombo.
-
-The Winners from the Maliban Group of Companies are Positha Perera – Category Manager, Yenuli Jayawardhana – Category Manager, Sandaru Bandara – Brand Manager, Hasanthi Edirisooriya – Assistant Manager Production Export, Nuwan Buddhika – Group IT Manager Infrastructure & Operations, Chamika Weerasinghe – Assistant Accountant, Ranjana Balasooriya - Retail Execution Specialist and  Chandima Herath – Assistant Quality Assurance Manager Packaging.
-
-...
-
-[Data](articles/6f9a9785.json)
-
-[Extended Data](ext_articles/6f9a9785.ext.json)
-
----
-
-### Is it possible to teach the police a human rights lesson?
-
-*2024-04-08 01:45:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd143wy282zo) · `si`
-
-The Sri Lanka Police, accused of human rights violations, face legal challenges and compensation demands. The Supreme Court has ordered compensation for victims, and the government has committed to training on human rights. The Human Rights Commission of Sri Lanka highlights the need for police to act within the law and prevent abuses.
-
-🟩
-
-The Sri Lanka Police continuously charged with human rights violations have been re-examined as the police have continuously accused of human rights.
-
-There are several occasions that the police are trying to pardon the victims of the judiciary, as well as the incumbent of the IGP violated basic human rights.
-
-The Supreme Court ruled that IP Deshankon Tenkoon was served as the Superintendent of the Nugegoda division of 2010, according to the 14th of December last year.
-
-On March 1, 2024, the Kollupitiya police officer was diagnosed with the petitioner representatives from the petitioner.
-
-Who were the police officers who had to pay for Rs.15 crores to victims?
-
-A senior citizen of the Narahenpita and two constables had to apologize to Senior citizens, the 71 constables to the Supreme Court against the Supreme Court against the police officers.
-
-Recently, police officers had to apologize to civilians after the Passover attack, three suspects arrested in Horowpathana area after the Passover attack.
-
-...
-
-[Data](articles/71f42085.json)
-
-[Extended Data](ext_articles/71f42085.ext.json)
-
----
-
-### Grade 2 student attack in Vavuniya: Teacher arrested after four days
-
-*2024-04-08 01:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/180657) · `ta`
-
-A Grade 2 student in Vavuniya assaulted a teacher, leading to the teacher's arrest four days later. The student, who went home after school on 03.04, was admitted to the hospital. The teacher's father's phone call revealed the boy was attacked and hit in the face. The injured boy was treated at the Vavuniya District General Hospital and reported to the police. The teacher, who had not been arrested for four days, was finally arrested by the Vavuniya Echangulam police.
-
-🟩
-
-The teacher was arrested by the police today (07.04.2024) after the student was admitted to the hospital after a teacher indiscriminately assaulted a teacher at a school in Sundarapuram area in Vavuniya.
-
-A student studying in a school in Sundarapuram, Vavuniya, who was studying in the face and head of the boy who went home after school on 03.04, said that his teacher was assaulted by the boy.
-
-Following this, the teacher of the boy's father had telephoned and said that the reason why the boy was attacked and under the leg.. The teacher replied, "Your son did not know that A, was unknown and that the boy was hit in the face as he was hit and the teacher asked him to be a little bit.
-
-The injured boy was admitted to the Vavuniya District General Hospital and was treated with a complaint with the police.. In the last four days, the teacher who attacked the boy has not been arrested, has been strengthened against the police on social media.
-
-...
-
-[Data](articles/aaaaa84c.json)
-
-[Extended Data](ext_articles/aaaaa84c.ext.json)
-
----
-
-### A youth killed in vehicle accident in Vavuniya Chettikulam
-
-*2024-04-08 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180656) · `ta`
-
-A youth was killed in a motorcycle accident in Vavuniya Chettikulam, involving two motorcycles. Traffic police are investigating.
-
-🟩
-
-A youth was killed in a Patta -motorcycle accident in Vavuniya Chettikulam.
-
-A motorcycle driver has been killed when a motorcycle and a motorcycle crashed into a nearby area near Chettikulam Valawattakulam
-
-Traffic police who went to the scene are conducting further investigations into the accident.
-
-◼️
-
-[Data](articles/728bdd12.json)
-
-[Extended Data](ext_articles/728bdd12.ext.json)
 
 ---

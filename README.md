@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 23:54:10**
+As of **2024-04-09 00:05:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,928 (100.0%) of 17,930 articles have been extended.
+17,930 (100.0%) of 17,930 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -826,6 +826,8 @@ ECONOMYNEXT – Sri Lanka has sold 85 billion rupees of bonds maturing from 2026
 
 [Data](articles/dccf3d18.json)
 
+[Extended Data](ext_articles/dccf3d18.ext.json)
+
 ---
 
 ### Fisheries Minister Douglas Devananda
@@ -923,6 +925,8 @@ It is celebrated in India and former territories of the Chola Empire including S
 ◼️
 
 [Data](articles/88e68e5c.json)
+
+[Extended Data](ext_articles/88e68e5c.ext.json)
 
 ---
 

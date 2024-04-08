@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 01:03:30**
+As of **2024-04-09 01:18:10**
 
 ## Newspaper Stats
 
-*Scraped **17,938** Articles*
+*Scraped **17,945** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ colombotelegraphcom | 159
 bbccomsinhala | 188
 dbsjeyarajcom | 213
 newsfirstlk | 363
-dailyftlk | 976
 islandlk | 979
+dailyftlk | 982
 economynextcom | 995
 adalk | 1,512
-tamilmirrorlk | 2,106
+tamilmirrorlk | 2,107
 adaderanalk | 2,160
 virakesarilk | 2,643
 dailymirrorlk | 2,738
@@ -26,47 +26,185 @@ adaderanasinhalalk | 2,906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,932 (100.0%) of 17,938 articles have been extended.
+17,938 (100.0%) of 17,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### துடுப்பாட்டத்தில் கொல்கத்தா பிரகாசிக்கத் தவறியது; சென்னைக்கு இலகுவான 7 விக்கெட் வெற்றி
+### Global shipping giant Maersk opens new warehouse in Sri Lanka
+
+*2024-04-09 00:55:45* · [`dailyftlk`](https://www.ft.lk/business/Global-shipping-giant-Maersk-opens-new-warehouse-in-Sri-Lanka/34-760486) · `en`
+
+Maersk South Asia Managing Director Vikash Agarwal (second from right)
+
+New 100,000 sq. ft. facility, with export consolidation and 3PL services, lies close to key manufacturing hubs, consumption markets, and port infrastructure for quick turnaround times
+
+A.P. Moller – Maersk (Maersk) last week inaugurated its brand new warehouse in Sri Lanka at Wattala, spread over 100,000 sq. ft.
+
+Present at the inauguration were Maersk South Asia Managing Director Vikash Agarwal, Maersk Sri Lanka Head Biju Ravi, Aitken Spence PLC Deputy Chairman and Managing Director Dr. Parakrama Dissanayake and other leaders. This new facility is a testament to Maersk’s commitment to providing integrated supply chain solutions, offering a strategic advantage for various global customers and local suppliers in the retail and lifestyle sector.
+
+...
+
+[Data](articles/cd45f62e.json)
+
+---
+
+### Cabinet clears Electricity Sector Reforms Bill for Parliament approval
+
+*2024-04-09 00:54:21* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-clears-Electricity-Sector-Reforms-Bill-for-Parliament-approval/34-760485) · `en`
+
+Power and Energy Minister Kanchana Wijesekera announced that the Cabinet of Ministers approved the electricity sector reforms bill during its meeting yesterday.
+
+The Cabinet approval entails the green light to Gazette the amended version of the new electricity sector bill and to subsequently present it to Parliament for further consideration and approval.
+
+“The bill will be gazetted this week and is scheduled to be presented to Parliament in the last week of April. Upon its presentation, the public will have a two-week window to scrutinise and potentially challenge the bill,” he noted via ‘X’.
+
+The proposed electricity sector reforms bill marks a pivotal step in the Government’s efforts to modernise and streamline the electricity sector, aiming to enhance efficiency, reliability, and sustainability while fostering competition and innovation.
+
+◼️
+
+[Data](articles/6a646989.json)
+
+---
+
+### Canadian envoy visits BOI
+
+*2024-04-09 00:54:11* · [`dailyftlk`](https://www.ft.lk/business/Canadian-envoy-visits-BOI/34-760484) · `en`
+
+Canadian High Comm-issioner Eric Walsh met with the Board of Investment Chairman Dinesh Weerakkody and BOI and Port City officials last week to discuss the current investment climate and opportunities. The High Commissioner discussed potential areas to attract new investment from Canada into the
+
+◼️
+
+[Data](articles/ecf34535.json)
+
+---
+
+### Correction
+
+*2024-04-09 00:53:43* · [`dailyftlk`](https://www.ft.lk/business/Correction/34-760483) · `en`
+
+In the article titled “Skywings Travel celebrates 30-year journey of Sri Lankan heritage” published yesterday in the Daily FT, the picture captions should be corrected as follows. We regret the error.
+
+◼️
+
+[Data](articles/1a64cd01.json)
+
+---
+
+### AASL restarts halted BIA-DP phase II with Access Engineering
+
+*2024-04-09 00:52:59* · [`dailyftlk`](https://www.ft.lk/business/AASL-restarts-halted-BIA-DP-phase-II-with-Access-Engineering/34-760482) · `en`
+
+Airport and Aviation Services (Sri Lanka) Ltd., (AASL) has initiated decisive measures to resume and complete the substructure works of the suspended BIA-DP Phase II project.
+
+The project, which faced termination on 9 December 2022 amid economic crisis, is now being revived under the stewardship of AASL management.
+
+The objective of the project is to finalise the substructure works left partially completed by the Japanese contractor. Earlier this month the Cabinet of Ministers approved the awarding of the contract on BIA-DP Phase II project to Access Engineering PLC.
+
+The strategic plan includes the installation of 68 remaining piles, construction of pile caps and ground beams at key areas such as the Main Terminal Building (MTB), Pier 2 and Pier 3. In addition, it includes the partial completion of the Underground Utility Tunnel in Pier No. 2 and Pier No. 3.
+
+...
+
+[Data](articles/56da449a.json)
+
+---
+
+### FREE TRADE ZONE MANUFACTURERS ASSOCIATION ELECTS NEW TEAM
+
+*2024-04-09 00:52:09* · [`dailyftlk`](https://www.ft.lk/business/FREE-TRADE-ZONE-MANUFACTURERS-ASSOCIATION-ELECTS-NEW-TEAM/34-760481) · `en`
+
+The Free Trade Zone Manufacturers Association (FTZMA) elected a new set of office bearers for the year 2024/25 at its 43rd Annual General Meeting held at “Courtyard by Marriott Colombo” recently.
+
+Tropical Findings Director Dhammika Fernando was re-elected as the Chairman for another term. Flintec Transducers Ltd. Managing Director Tyronne Weckasinghe was elected as the Honorary Secretary, Lalan Rubber Ltd. CEO Manjula Mahadanaarachchi as the Honorary Treasurer and ATG Ceylon Ltd. Managing Director Fazal Abdeen and Screenline Holdings Ltd. Managing Director Nishantha Bakmeege as Vice Chairmen. The rest of the Executive Committee was elected through a distinguished gathering of C-suite executives of all BOI member enterprises. Malaysia High Commissioner Badli Hisham Adam was the Chief Guest and BOI Director General Renuka Weerakoon was the Guest of Honour. Here is the FTZMA Executive Committee with the invited dignitaries.
+
+...
+
+[Data](articles/efa691cd.json)
+
+---
+
+### Kolkata failed to shine in the field;7 wickets for Chennai lighter
 
 *2024-04-09 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180771) · `ta`
 
-கொல்கத்தா நைட் ரைடர்ஸுக்கு எதிராக சென்னை சேப்பாக்கம் எம்.ஏ. சிதம்பரம் விளையாட்டரங்கில் திங்கட்கிழமை (08) நடைபெற்ற இண்டியன் பிறீமியர் லீக் கிரிக்கெட் போட்டியில் சகலதுறைகளிலும் பிரகாசித்த சென்னை சுப்பர் கிங்ஸ் 7 விக்கெட்களால் மிக இலகுவாக வெற்றிபெற்றது.
+Chennai Super Kings won by 7 wickets against Kolkata Knight Riders in IPL 2023, with Chennai scoring 141 in 17.4 overs. Kolkata scored 137 in 20 overs. Key performers for Chennai included Rutraj Gaikwad, Tryl Michelle, and Shivam Dubey. Jadeja set a record with 1000 runs, 100 wickets, and 100 balls in IPL.
 
-இந்தியாவில் நடைபெற்றுவரும் 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 22ஆவது போட்டி இதுவாகும்.
+🟩
 
-இந்தப் போட்டியில் கொல்கத்தா நைட் ரைடர்ஸினால் நிர்ணயிக்கப்பட்ட சுமாரான 138 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய சென்னை சுப்பர் கிங்ஸ் 17.4 ஓவர்களில் 3 விக்கெட்களை இழந்து 141 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+Chennai Chepakkam MA against Kolkata Knight Riders. Chennai Super Kings, who shone in all fields at the Indian Premier League cricket match, won by 7 wickets at the Chidambaram Stadium on Monday (08).
 
-கொல்கத்தா நைட் ரைடர்ஸ் அணி  வீரர்களைப் போன்று கவனக்குறைவாக துடுப்பெடுத்தாடாமல் நிதனாத்தைக் கடைப்பிடித்தவாறு வெற்றியை மாத்திரம் குறிவைத்து சென்னை சுப்பர் கிங்ஸ்  வீரர்களைப்   துடுப்பெடுத்தாடி அதனை நிறைவேற்றிக்கொண்டனர்.
+This is the 22nd match of the 17th Indian Premier League chapter in India.
 
-ரச்சின் ரவிந்த்ரா 15 ஓட்டங்களுடன் ஆட்டம் இழந்தபோதிலும் டெரில் மிச்செல், ஷிவம் டுபே ஆகியோருடன் சிறப்பான இணைப்பாட்டங்களை ஏற்படுத்தி அணியின் வெற்றியை அணித் தலைவர் ருத்துராஜ் கய்க்வாட் உறுதிசெய்தார்.
+Chennai Super Kings lost 3 wickets in 17.4 overs with 141 runs in the match by winning 138 runs.
+
+The Kolkata Knight Riders team did not take carelessly as the players, and the Chennai Super Kings played the success of the Chennai Super Kings.
+
+Rachin Ravindra lost 15 runs, but team captain Rutraj Gaykwad confirmed the success of the team by creating a good connectivity with Tryl Michelle and Shivam Dubey.
+
+Rutraj Kaikwad, who shared 70 runs off 55 balls with Tryl Michelle in the second wicket, shared 38 runs with Shawam Dubey in the 3rd wicket.
+
+MS with 67 runs. Dhoni did not lose a run.
+
+Earlier, Kolkata Knight Riders, who were first invited to bat, scored 137 runs for the loss of 9 wickets in 20 overs.
 
 ...
 
 [Data](articles/b2abf9ae.json)
 
+[Extended Data](ext_articles/b2abf9ae.ext.json)
+
 ---
 
-### கண்டியை பசுமை நகரமாக மாற்றுவதற்கு உலக வங்கியிடம் யோசனை முன்வைக்கப்படும் - பந்துல குணவர்தன
+### The idea of the World Bank to turn Kandy into a green city - Bandula Gunawardena
 
 *2024-04-09 00:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180770) · `ta`
 
-கண்டியை பசுமை நகரமாக மாற்றுவதற்கு உலக வங்கியிடம் யோசனை முன்வைக்கப்படும் என போக்குவரத்து, நெடுஞ்சாலைகள் மற்றும் வெகுஜன ஊடக அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+Bandula Gunawardena, Transport Minister, announced the World Bank's plan to transform Kandy into a green city, focusing on transport, suburban development, and electric buses.
 
-அடுத்த மூன்று வருடங்களில் பசுமை நகர யோசனையும்,   (The Green City concept) உத்தேச பல்வகை போக்குவரத்து மையமும்  (Multi Transport hub)  கொண்டு செல்லப்படும் என்றும்  அமைச்சர் கூறினார்.
+🟩
 
-கண்டி நகரில் நிர்மாணிக்கப்பட்டு வரும் பல்வகை போக்குவரத்து நிலையத்தின் அபிவிருத்தியை அவதானித்தல் மற்றும் மீளாய்வு செய்வது தொடர்பாக கண்டி குட்ஷெட் வளாகத்தில்  ஞாயிற்றுக்கிழமை (07) இடம்பெற்ற கலந்துரையாடலின் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+Transport, Highways and Mass Media Minister Bandula Gunawardena has said that the idea of the World Bank will be proposed to convert Kandy into a green city.
 
-மூவாயிரம்  கோடி ரூபா செலவில் நிர்மாணிக்கப்படவுள்ள புதிய ஊடக மையத்தின் அபிவிருத்தி நடவடிக்கைகளில் தாம் ஈடுபடவில்லையென்றாலும் கூடுதலாக விஸ்தரிக்கப்பட வேண்டிய பல வீதிகள் தொடர்பில் கலந்துரையாடியதாக  தெரிவித்துள்ள அமைச்சர் இத்திட்டத்தின் வெற்றிக்கு வீதி அபிவிருத்தி பாதிப்பை ஏற்படுத்தும் எனவும் அவர் சுட்டிக் காட்டினார்.
+The Minister said that in the next three years, the Green City Concept will be carried out by the Multi Transport Hub.
+
+He said this while speaking to the media after a discussion held on Sunday (07) at the Kandy Goodsheet Complex on the development and review of the development of a multi -storey transport station in Kandy.
+
+He pointed out that he did not engage in the development activities of the new media center to be constructed at a cost of Rs.
+
+He said that the development of the suburbs, including Katugastota, Kundasalai, Peradeniya and Thennakumbura, said that he would have two thousand crores of rupees for it and that he would discuss additional allocation of funds in the future.
+
+The Minister said that 200 electric buses will be issued to Kandy to carry out unprecedented transport activities to convert Kandy into a green city.
 
 ...
 
 [Data](articles/706fef28.json)
+
+[Extended Data](ext_articles/706fef28.ext.json)
+
+---
+
+### பல அத்தியாவசிய பொருட்களின் விலைகள் குறைந்தன
+
+*2024-04-09 00:04:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-அத்தியாவசிய-பொருட்களின்-விலைகள்-குறைந்தன/175-335770) · `ta`
+
+புதுவருடத்தை முன்னிட்டு லங்கா சதொச நிறுவனம் பல அத்தியாவசிய பொருட்களின் விலைகளைக் குறைத்துள்ளது.
+
+இதற்கமைய 1 கிலோ செத்தல்  மிளகாய் 300 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன் புதிய விலை 850 ரூபாவாகும்.
+
+சீனாவில் இருந்து இறக்குமதி செய்யப்படும் 1 கிலோ வெங்காயத்தின் விலை 120 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன், அதன் புதிய விலை 375 ரூபாவாகும்.
+
+இந்தியா மற்றும் பாகிஸ்தானில் இருந்து இறக்குமதி செய்யப்படும் வெங்காயத்தின் விலை 50 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன் அதன் புதிய விலை 445 ரூபாவாகும்.
+
+1 கிலோ வௌ்ளைபூடு 15 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன் அதன் புதிய விலை 680 ரூபாவாகும்.
+
+1 கிலோ உருளைக்கிழங்கு 10 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன் அதன் புதிய விலை 165 ரூபாவாகும்.
+
+அத்துடன் சிகப்பு பருப்பின் விலையை 7 ரூபாவினாலும் வெள்ளை அரிசியின் விலையை 3 ரூபாவினாலும் குறைக்கவும் லங்கா சதொச நிறுவனம் தீர்மானித்துள்ளது. R
+
+◼️
+
+[Data](articles/ea2a7a12.json)
 
 ---
 
@@ -116,6 +254,8 @@ Both leaders, Sajith Premadasa (SP) of SJB and Anura Kumara Dissanayake (AKD) of
 
 [Data](articles/552f8f2f.json)
 
+[Extended Data](ext_articles/552f8f2f.ext.json)
+
 ---
 
 ### With a View to a Kill (Master Spy – James Bond)
@@ -132,6 +272,8 @@ Even as long ago as the Greek and Roman eras, playwrights have been engaging wit
 
 [Data](articles/3d019c1a.json)
 
+[Extended Data](ext_articles/3d019c1a.ext.json)
+
 ---
 
 ### Sri Lanka needs younger directors – those who are wonderfully weird than dreadfully dull
@@ -145,6 +287,8 @@ The bottom line is that boards in Sri Lanka are too ‘old school’ and this is
 ...
 
 [Data](articles/54414dc7.json)
+
+[Extended Data](ext_articles/54414dc7.ext.json)
 
 ---
 
@@ -183,6 +327,8 @@ The movie emerges as a beacon of joy, spreading smiles and laughter. As it conti
 ...
 
 [Data](articles/af38b4eb.json)
+
+[Extended Data](ext_articles/af38b4eb.ext.json)
 
 ---
 
@@ -2155,167 +2301,5 @@ Police said that 327 organized crime gangs have been arrested from the 19th to y
 [Data](articles/4547f657.json)
 
 [Extended Data](ext_articles/4547f657.ext.json)
-
----
-
-### Maithri Siripala escaping the power of the Independence Party - Acting Chairman Nimal Siripala
-
-*2024-04-08 14:36:22* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-බලය-මෛත්‍රී-පාර්ශවයෙන්-ගැලවෙයි---වැඩබලන-සභාපති-නිමල්-සිරිපාල/11-409012) · `si`
-
-Maithri Siripala, former President, was removed from power by the SLFP's Political Council, led by Nimal Siripala de Silva, with Chandrika Bandaranaike Kumaratunga's involvement. Duminda Dissanayake became acting secretary.
-
-🟩
-
-The Political Council of Minister Nimal Siripala de Silva was appointed as the Sri Lanka Freedom Chairman of the SLFP.. The decision was taken when the party's campaign was attended by former President Chandrika Bandaranaike Kumaratunga.
-
-Also, national organizer Duminda Dissanayake was elected as the acting secretary. Former President Chairman Maithripala Sirisena, former President Maithripala Sirisena, was held with a briefing order.
-
-◼️
-
-[Data](articles/1372b95d.json)
-
-[Extended Data](ext_articles/1372b95d.ext.json)
-
----
-
-### Will feature uninterrupted fuel distribution
-
-*2024-04-08 14:32:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடையின்றி-எரிபொருள்-விநியோகம்-இடம்பெறும்/175-335741) · `ta`
-
-Minister Kanjana Wijesekera assures uninterrupted fuel supply during holidays, with plans to stockpile fuel for the next 12 months.
-
-🟩
-
-Minister of Power and Energy Kanjana Wijesekera said that there will be uninterrupted fuel supply during the holidays.
-
-The minister said that the ministry is planning to bring enough fuel for the next 12 months.
-
-◼️
-
-[Data](articles/e0a26199.json)
-
-[Extended Data](ext_articles/e0a26199.ext.json)
-
----
-
-### Slave Island flyover vested with the public
-
-*2024-04-08 14:30:07* · [`adalk`](https://www.ada.lk/breaking_news/කොම්පඤ්ඤවීදිය-ගුවන්-පාලම-ජනතා-අයිතියට/11-409011) · `si`
-
-A new double flyover over the railway line, connecting Slave Island, Judge Akiya Mawatha, and Uththananda Mawatha, is under construction by the Road Development Authority (MAGA). Expected to be completed by September, the project costs Rs. 5,278,081,272.43. It aims to alleviate the 3-hour daily traffic congestion at the Slave Island railway crossing.
-
-🟩
-
-The double flyover constructed above the railway line, connected to the railway line, connected to the railway line, connecting Slave Island, Judge Akiya Mawatha and Uththananda Mawatha.
-
-The construction of the project is expected to be completed by September and the estimated cost of the entire project is Rs. 5,278,081,272.43.
-
-The railway crossing in Slave Island has been observed for almost 3 hours daily due to the railway crossing in Slave Island.
-
-The construction of the project will be carried out by the Road Development Authority (MAGA).
-
-Minister of Transport, Highways and Mass Media and Mass Media and Mass Media and Parliamentarian Vajira Abeywardena, Chief of Transport and Head of the Presidential Staff Head Leader Sagala Ratnayake Secretary to the Ministry of Transport and Highways. W. R. Chaminda, Chaminda, Chaminda, Lives, Priyantha Sooriyabandara, Director General of the Road Development Authority were also present.
-
-◼️
-
-[Data](articles/bca74200.json)
-
-[Extended Data](ext_articles/bca74200.ext.json)
-
----
-
-### Hatton youth killed in Mannar accident
-
-*2024-04-08 14:27:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-விபத்தில்-ஹட்டன்-இளைஞன்-பலி/175-335740) · `ta`
-
-A 22-year-old restaurant worker in Mannar died in an accident Sunday evening, having worked there for six years.
-
-🟩
-
-A 22 -year -old youth who was working at a restaurant in Mannar has died in a tragic accident in Mannar on Sunday evening
-
-He has been working as a worker in the restaurant for the past six years in Mannar district.. The youth has been taken to Mannar Hospital for treatment of an accident.
-
-◼️
-
-[Data](articles/34d0cc77.json)
-
-[Extended Data](ext_articles/34d0cc77.ext.json)
-
----
-
-### Hatton youth killed in Mannar accident
-
-*2024-04-08 14:27:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மன்னார்-விபத்தில்-ஹட்டன்-இளைஞன்-பலி/76-335740) · `ta`
-
-A 22-year-old Mannar restaurant worker died in an accident Sunday evening, having worked there for six years.
-
-🟩
-
-A 22 -year -old youth who was working at a restaurant in Mannar has died in a tragic accident in Mannar on Sunday evening
-
-He has been working as a worker in the restaurant for the past six years in Mannar district.. The youth has been taken to Mannar Hospital for treatment of an accident.
-
-◼️
-
-[Data](articles/a74c4e52.json)
-
-[Extended Data](ext_articles/a74c4e52.ext.json)
-
----
-
-### Dhanush-Aishwarya couple sought court for divorce
-
-*2024-04-08 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180714) · `ta`
-
-Dhanush and Aishwarya Rajinikanth filed for divorce in Chennai, citing their 2004 marriage. They have two sons, Linga and Yatra.
-
-🟩
-
-Actor Dhanush and Aishwarya Rajinikanth have filed a petition in the Chennai Family Welfare Court seeking divorce.
-
-They demanded that the marriage in 2004 be announced. Actor Dhanush and Aishwarya's petition is due to be heard soon.
-
-On November 18, 2004, actor Dhanush and actor Rajinikanth's daughter Aishwarya Rajinikanth fell in love.
-
-On January 17, 2022, the two announced that they would break their marriage.
-
-They have two sons Linga and Yatra. It is noteworthy that Dhanush and Aishwarya have been living in the last few years.
-
-◼️
-
-[Data](articles/57e30975.json)
-
-[Extended Data](ext_articles/57e30975.ext.json)
-
----
-
-### The journey to fun is ending death
-
-*2024-04-08 14:24:05* · [`adalk`](https://www.ada.lk/breaking_news/විනෝද-වෙන්න-ගිය-ගමන-මරණයකින්-කෙළවර-වෙයි/11-409010) · `si`
-
-A tragic accident involving a tipper and a three-month-old child near Wellawaya resulted in the child's death. The father is in Wellawaya Base Hospital, and the mother, initially treated there, was transferred to Monaragala District Hospital. The incident occurred during a trip from Buttala to Wellawaya for a musical show. The child was hit by the tipper, and both parents were injured.
-
-🟩
-
-Wellawaya Police say a Tipper and a three-month-year-old stories have been killed in a three-year-old area near the Wellawaya road on Wellawaya road.
-
-A tipper from Buttala to visit the Wellawaya towards Wellawaya towards Wellawaya towards Wellawaya, a Tipper from Buttala to visit Wellawaya.Bandara (02 months 8 months), the child was killed.
-
-The father is receiving treatment at the Wellawaya Base Hospital while the mother of Moneragala will be treated.
-
-The group was traveling from Buttala to visit the Wellawaya towards the Wellawaya, while visiting a musical show from the Wellawaya to visit the house from Wellawaya.
-
-At the same seat of three-wheeler, the child of the mother of her mother had touched the road and hit the road.
-
-The father and mother was injured in the accident and was rushed to the Wellawaya Base Hospital.
-
-The mother has been transferred to the Monaragala District Hospital General Hospital for further treatment.
-
-...
-
-[Data](articles/09a67d04.json)
-
-[Extended Data](ext_articles/09a67d04.ext.json)
 
 ---

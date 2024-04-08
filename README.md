@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-08 19:03:17**
+As of **2024-04-08 19:18:18**
 
 ## Newspaper Stats
 
-*Scraped **17,901** Articles*
+*Scraped **17,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 979
 economynextcom | 993
 adalk | 1,507
 tamilmirrorlk | 2,104
-adaderanalk | 2,155
+adaderanalk | 2,156
 virakesarilk | 2,637
 dailymirrorlk | 2,732
 adaderanasinhalalk | 2,900
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,896 (100.0%) of 17,901 articles have been extended.
+17,901 (100.0%) of 17,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-08 (Monday)
+
+### Cabinet approves amended Electricity Sector Reforms Bill
+
+*2024-04-08 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98521/cabinet-approves-amended-electricity-sector-reforms-bill) · `en`
+
+The Cabinet of Ministers has approved the amended version of the electricity sector reforms bill today (08).
+
+Minister of Power and Energy Kanchana Wijesekara said that accordingly, approval was granted to gazette the amended version of the new electricity sector bill and to present it to the Parliament for approval.
+
+Posting on ‘X’ (formerly Twitter), Wijesekara said the bill will be gazetted this week to be presented to the Parliament in the last week of April.
+
+Meanwhile, the public will have 02 weeks from the day it’s presented to the Parliament to challenge the bill, according to the Minister.
+
+◼️
+
+[Data](articles/c2f057fe.json)
+
+---
 
 ### Prison Department allows visits for New Year
 
@@ -44,59 +62,85 @@ All prison facilities have been arranged to accept food, sweets and hygiene item
 
 [Data](articles/3a7d491e.json)
 
+[Extended Data](ext_articles/3a7d491e.ext.json)
+
 ---
 
-### காஸா யுத்தம்: ஜேர்மனிக்கு எதிராக சர்வதேச நீதிமன்றில் வழக்கு
+### Gaza War: Case in International Court against Germany
 
 *2024-04-08 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180761) · `ta`
 
-இஸ்ரேலுக்கு ஆயுதங்களை வழங்குவதன் மூலம், பலஸ்தீனர்களின் இனப்படுகொலைக்கு ஜேர்மனி உதவுவதாக குற்றம் சுமத்தி, சர்வதேச நீதிமன்றத்தில் நிக்கரகுவா வழக்குத் தொடுத்துள்ளது.
+Nicaragua sues Germany in the International Court of Justice, alleging it aided Israel in potential genocide by supplying weapons. Germany counters by offering humanitarian aid to Palestinians. The case is heard in the Hague, Netherlands.
 
-இஸ்ரேலுக்கு ஆயுதங்கள் மற்றும் ஏனைய உதவிகளை வழங்குவதை நிறுத்துமாறு ஜேர்மனிக்கு உத்தரவிட வேண்டும் என நிக்கரகுவா கோரியுள்ளது.
+🟩
 
-நெதர்லாந்தின் ஹேக் நகரிலுள்ள சர்வதேச நீதிமன்றத்தில் இவ்வழக்கு இன்று திங்கட்கிழமை விசாரணைக்கு வந்தது.
+Nikarakua has sued the International Court of Justice, accusing Germany of helping the genocide of Palestinians by providing arms to Israel.
 
-ஒருபுறம், பலஸ்தீன சிறார்கள், பெண்கள், ஆண்களுக்கு வான்வழி விநியோகம் உட்பட மனிதாபிமான உதவிகளை வழங்கிக் கொண்டே மறுபுறம், அவர்களைக் கொல்வதற்கான ஆயுதங்களை இஸ்ரேலுக்கு ஜேர்மனிக் வழங்குகிறது என நிக்கரகுவா சட்டத்தரணி டேனியல் முவெல்லர் நீதிமன்றத்தில் கூறினார்.
+Nikaraga has demanded that Germany be ordered to stop Israel's weapons and other assistance.
 
-இனப்படுகொலைக்கு இந்த ஆயுதங்களை இஸ்ரேல் பயன்படுத்துவதற்கான ஆபத்துள்ளது என்பதை ஜேர்மனி அறிந்துள்ளது என மற்றொரு சட்டத்தரணி அலெய்ன் பெலெட் கூறினார்.
+The case came up for hearing on Monday at the International Court of Hague in the Netherlands.
+
+On the one hand, Nicaragua Attorney Daniel Mweller told the court that Germany offers Israel to Israel on the other hand, providing humanitarian assistance to Palestinian children, women and men, on the other hand.
+
+Another lawyer Aline Bellet said Germany knew that Israel was in danger of using these weapons for genocide.
 
 ◼️
 
 [Data](articles/164cf2df.json)
 
+[Extended Data](ext_articles/164cf2df.ext.json)
+
 ---
 
-### நாட்டில் சட்டக் கட்டமைப்புகளும் நவீனமயமாக்கப்பட வேண்டும் - ஜனாதிபதி
+### Law structures in the country should be modernized - the president
 
 *2024-04-08 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180753) · `ta`
 
-நாட்டில் விரைவான பொருளாதார வளர்ச்சியை ஏற்படுத்த அரசாங்கம் ஆரம்பித்துள்ள வேலைத்திட்டம் வெற்றியடைவதற்கு சட்ட கட்டமைப்பும் நவீனமயப்படுத்தப்பட வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe emphasized the need for modernizing legal structures in Sri Lanka to support economic growth, especially through a program with the IMF. He highlighted the importance of legalizing the IMF deal, updating laws, and focusing on digital economy, environmental, and financial laws.
 
-கண்டி மகாவலி ரீச் ஹோட்டலில் ஞாயிற்றுக்கிழமை (07) நடைபெற்ற கண்டி சட்டத்தரணிகளுடனான சிநேகபூர்வ சந்திப்பில் ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+🟩
 
-சர்வதேச நாணய நிதியத்துடனான வேலைத்திட்டமே இலங்கையின் வீழ்ச்சியடைந்த பொருளாதாரத்தை மீளக் கட்டியெழுப்புவதற்கான விரைவான தீர்வாகும் என சுட்டிக்காட்டிய ஜனாதிபதி, அதன் பயனை மக்களுக்கு வழங்கும் வகையில் சர்வதேச நாணய நிதியத்துடனான ஒப்பந்தத்தை சட்டப்பூர்வமாக்குவதற்கு நடவடிக்கை எடுத்து வருவதாகவும் குறிப்பிட்டார்.
+President Ranil Wickremesinghe said the legal framework should be modernized for the success of the government's plan to create rapid economic growth in the country.
 
-அத்துடன், அனைத்து துறைகளிலும் நவீனமயப்படுத்தப்பட வேண்டும் என்பதற்காக புதிய சட்டக் கட்டமைப்பு கொண்டுவரப்படும் என தெரிவித்த ஜனாதிபதி, அந்த செயற்பாடுகளுக்கு சட்டத்துறையில் உள்ள அனைவரினதும் ஆதரவை எதிர்பார்ப்பதாகவும் தெரிவித்தார்.
+The President made this statement at a meeting with Kandy's lawyers held at the Mahaweli Reich Hotel on Sunday (07).
+
+The President pointed out that a program with the International Monetary Fund is the rapid solution to the rebuilding of Sri Lanka's decline, and that it is taking steps to legalize the deal with the International Monetary Fund to provide people with its benefit.
+
+The President also said that the new legal structure would be introduced in order to be modernized in all sectors, and that the activities were expecting the support of all in the legal sector.
+
+We also need to decide whether President Ranil Wickremesinghe should continue the program with the IMF.
+
+Sri Lanka has a disgrace to change the decision every time.This is the last opportunity we have for the country.
 
 ...
 
 [Data](articles/e7016c97.json)
 
+[Extended Data](ext_articles/e7016c97.ext.json)
+
 ---
 
-### புனிதர்களின் 50ஆவது ஒருநாள் கிரிக்கெட் போட்டி: புனித பேதுருவானவர் 3 விக்கெட்களால் வெற்றி
+### The 50th ODI match of saints: Holy Peter wins 3 wickets
 
 *2024-04-08 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180755) · `ta`
 
-கொழும்பு எஸ்.எஸ்.சி. மைதானத்தில் வார இறுதியில் நடைபெற்ற புனிதர்களின்   50ஆவது வருடாந்த கிரிக்கெட் போட்டியில் புனித சூசையப்பர் கல்லூரியை 3 விக்கெட்களால் புனித பேதுருவானர் கல்லூரி வெற்றிகொண்டு அருட்தந்தை பீட்டர் ஏ. பிள்ளை ஞாபகார்த்த கேடயத்தை சுவீகரித்தது.
+St. Peter's College wins the 50th ODI against St. Susayapar College by 3 wickets in the 50th Annual Cricket Tournament. St. Susayapar scored 229/48.5, with Hirun Kapurupandara (70) and Hiran Jayasundara (65) leading. St. Peter's won by 7 wickets in 45.4 overs, with Dilana Damsara (67) and Oven Salkado (40) shining.
 
-இலங்கை பாடசாலைகள் கிரிக்கெட் வரலாற்றில் புனித சூசையப்பர் கல்லூரிக்கும் புனித பேதுருவானவர் கல்லூரிக்கும் இடையிலேயே முதன்முதலாக 1975ஆம் ஆண்டு ஒருநாள் கிரிக்கெட் போட்டி நடைபெற்றது.
+🟩
 
-அந்த வரலாற்று முக்கியம் வாய்ந்த கிரிக்கெட் போட்டியில் புனித சூசையப்பர் அணித் தலைவராக விளையாடிய துஷான் சொய்ஸா, புனித பேதுருவானவர் அணித் தலைவராக விளையாடிய பேர்னாட் விஜேதுங்க ஆகிய இருவரும் புனிதர்களின் 50ஆவது ஒருநாள் கிரிக்கெட் போட்டிக்கு பிரதம அதிதிகளாக அழைக்கப்பட்டிருந்தமை மிகவும் பொருத்தமானதாகும்.
+Colombo SSC. St. Susayapar College in the 50th Annual Cricket Tournament held at the stadium at the St. Peter by 3 wickets. The child took over the memorial shield.
+
+The first one -day cricket match was held in the history of Sri Lankan schools in the history of Cricket, St. Susayapar College and St. Peter's College.
+
+It is appropriate that Tushan Soyza, who played as the captain of the St. Susayapar, and Bernard Wijeedunga, who played the Holy See captain as the captain of the St. Susayapar, and Bernard Wijeedunga, were the chief guests of the 50th ODI of the Saints.
+
+St. Susayapar, who won the first match, scored 229 runs for the loss of all wickets in 48.5 overs.Hirun Kapurupandara and Assistant Team Leader Hiran Jayasundara shared 124 runs in the 3rd wicket and were expected to get a substantial total number.
 
 ...
 
 [Data](articles/4c9d862e.json)
+
+[Extended Data](ext_articles/4c9d862e.ext.json)
 
 ---
 
@@ -1916,19 +1960,25 @@ Accordingly, the time given to meet relatives can be extended to half an hour.
 
 ---
 
-### ආර්ථික ස්ථායීකරණ කාරක සභාවේ සභාපති තාරක බාලසූරිය
+### Tharaka Balasuriya, Chairman of the Economic Stability Committee
 
 *2024-04-08 13:10:39* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථික-ස්ථායීකරණ-කාරක-සභාවේ-සභාපති-තාරක-බාලසූරිය/11-409006) · `si`
 
-නවවැනි පාර්ලිමේන්තුවේ පස්වැනි සභාවාරය සඳහා ආර්ථික ස්ථායීකරණය පිළිබඳ කාරක සභාවේ සභාපතිවරයා ලෙස රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා ඒකමතිකව තේරී පත් විය. ඒ නවවැනි පාර්ලිමේන්තුවේ පස්වැනි සභාවාරය සඳහා ආර්ථික ස්ථායීකරණය පිළිබඳ කාරක සභාවේ පළමු රැස්වීම පසුගියදා පාර්ලිමේන්තුවේදී  පැවති අවස්ථවේදීය.
+Tharaka Balasuriya, State Minister, elected Chairman of Economic Stability Committee. Proposed by Kanaka Herath and CB Ratnayake. Balasuriya backed by Parliament, aiming to expand Committee's scope to all economic aspects. Committees Chairman suggests discussing changes in a special meeting.
 
-රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා විසින් රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතාගේ නම යෝජනා කරන ලද අතර පාර්ලිමේන්තු මන්ත්‍රී සී.බී. රත්නායක මහතා විසින් එම යෝජනාව ස්ථිර කරන ලදී.
+🟩
 
-පාර්ලිමේන්තුවේ සිව්වැනි සභාවාරයේදී ද මෙම කාරක සභාවේ සභාපතිත්වය රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා විසින් දරනු ලැබීය. ආර්ථීක ස්ථායීකරණය පිළිබඳ කාරක සභාවේ විෂය පථය,  පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ විෂය පථය හා සමාන වන බව පෙන්වා දුන් සභාපතිවරයා එම විෂය පථයන් වෙනස් කිරීමේ අවශ්‍යතාව අවධාරණය කළේය. තවද ආර්ථිකය පිළිබඳ  සියලු අංශ ආවරණය වන පරිදි කාරක සභාවේ  විෂය පථය පුළුල් කළ යුතු බවද යෝජනා කළේය.
+State Minister Tharaka Balasuriya was unanimously elected as the Chairman of the Committee on Economic Standards for the 5th Session of the Nineh Parliament. The first meeting of the Committee on Economic Standards was held in Parliament recently.
+
+State Minister Kanaka Herath has proposed the name of State Minister Tharaka Balasuriya and MP CB. Ratnayake was confirmed by the proposal.
+
+State Minister Tharaka Balasuriya was presidential backed by the Committee on the fourth meeting of Parliament. The Chairman pointed out that the scope of the Committee on the Economic Planning is the subject of the Committee of Public Enterprises, emphasized the need to change those rounds. It also proposed that the scope of the Committee should be expanded to cover all aspects of the economy.
 
 ...
 
 [Data](articles/2a3dba43.json)
+
+[Extended Data](ext_articles/2a3dba43.ext.json)
 
 ---
 
@@ -2331,23 +2381,5 @@ The police had also been rehabilitated for self defense.
 [Data](articles/379d8b57.json)
 
 [Extended Data](ext_articles/379d8b57.ext.json)
-
----
-
-### Minister Nimal Siripala de Silva as the Sri Lanka Freedom Party (SLFP) leader
-
-*2024-04-08 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180691) · `ta`
-
-Minister Nimal Siripala de Silva appointed as SLFP leader.
-
-🟩
-
-The party's political committee today appointed Minister Nimal Siripala de Silva as the Sri Lanka Freedom Party (SLFP) leader.
-
-◼️
-
-[Data](articles/9a175daf.json)
-
-[Extended Data](ext_articles/9a175daf.ext.json)
 
 ---

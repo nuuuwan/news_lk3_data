@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 03:03:23**
+As of **2024-04-09 03:18:33**
 
 ## Newspaper Stats
 
@@ -26,51 +26,15 @@ adaderanasinhalalk | 2,906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,951 (100.0%) of 17,953 articles have been extended.
+17,953 (100.0%) of 17,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### மாற்றுத்திறனாளிகள் தொடர்பில் சமூகத்தில் கருத்தியல் ரீதியிலான மாற்றம் ஏற்படுத்தப்படும் - இராஜாங்க அமைச்சர் அனுப பஸ்குவல்
-
-*2024-04-09 02:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180774) · `ta`
-
-இம்முறை புத்தாண்டுக் கொண்டாட்டத்தின் போது மாற்றுத்திறனாளிகள் குறித்து. சமுதாயத்தில் கருத்தியல் ரீதியிலான மாற்றத்தை ஏற்படுத்துவதற்காக, முட்டி உடைத்தல் குருடனுக்கு உணவளித்தல் என்பன "அதிர்ஷ்ட பானையை உடைத்தல், பார்வையற்றவர்களுக்கு உணவளித்தல்" என மாற்றப்பட்டுள்ளதாக, சமூக வலுவூட்டல் இராஜாங்க அமைச்சர் அனுப பஸ்குவல் தெரிவித்தார்.
-
-சமுர்த்தி வேலைத்திட்டத்தின் கீழ் உள்ள அனைத்து வங்கிகளிலும் சிங்கள மற்றும் தமிழ் புத்தாண்டுக்காக நாடளாவிய ரீதியில் 1089 புத்தாண்டு கொண்டாட்டங்களை நடத்துவதற்கான ஏற்பாடுகளைச் செய்துள்ளதாகவும் இராஜாங்க அமைச்சர் சுட்டிக்காட்டினார்.
-
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (08) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே சமூக வலுவூட்டுகை இராஜாங்க அமைச்சர் அனுப பஸ்குவல்  இதனைத் தெரிவித்தார்.
-
-“இந்த வருடத்தின் கடைசி காலாண்டிற்குப் பிறகு, இந்த நாட்டில் பொருளாதாரச் சுருக்கம் குறைந்துள்ளதுடன், 2024 ஆம் ஆண்டில் வளர்ச்சி அடைந்த பொருளாதாரமாக மாறும் திறனைப் பெற்றுள்ளோம். நுகர்வோருக்குக் கட்டுப்படியாகாத வாழ்க்கைச் செலவுக்குத் தீர்வுகளை வழங்குவதே எமது பொருளாதாரத் திட்டத்தின் முக்கிய நோக்கமாக இருந்தது.
-
-...
-
-[Data](articles/86d33a94.json)
-
----
-
-### பேராதனைப் பல்கலைக்கழகத்தில் மலர் வசந்தம் ஆரம்பம்
-
-*2024-04-09 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180773) · `ta`
-
-உலகின் அழகிய பல்கலைக்கழகங்களில் ஒன்றாகக் கருதப்படும் பேராதனைப் பல்கலைக்கழகத்தில் மலர் வசந்தம் ஆரம்பமாகியுள்ளது.
-
-பல்கலைக்கழகத்திற்குச் செல்லும் வீதியில் உள்ள  உள்ள மாரா மரங்களில் சுற்றியிருக்கும் டொலிச்சந்திரா டோலிச்சந்திரா உங்கிஸ் (Dolichandra unguis-cati) ஆண்டுதோறும் மார்ச் மாத இறுதியில் பூக்கும், ஆனால் இந்த முறை ஏப்ரல் இரண்டாவது வாரத்தில் பூக்கள் பூக்கத் தொடங்கியுள்ளன.
-
-ஹந்தான வசினா மஞ்சள் மழை பேராதனையின் மலர் வசந்தம் ஆனது வெளிநாட்டு மக்கள் மத்தியில் பிரபலமானது ஆகும்.
-
-இந்நாட்களில் பல்கலைக்கழக மாணவர்கள் மட்டுமின்றி பேராசிரியர்களும் ஏனையோரும்  இந்த அழகை ரசித்து புகைப்படம் எடுப்பது அற்புதமான காட்சியாக உள்ளது.
-
-◼️
-
-[Data](articles/8ef343e7.json)
-
----
-
 ### National Education Policy
 
-*2024-04-09 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180772) · `ta`
+*2024-04-09 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/180772) · `ta`
 
 The Jaffna University Teachers Union opposes the National Education Policy Framework (NEPF 2023-2033), arguing it threatens Sri Lanka's long-term free education tradition by prioritizing profit over education quality and welfare. NEPF aims to transform education into a profit-making business, abolishing state education and the University Grants Commission (UGC), and introducing university fees. It also focuses on economics and digital education, ignoring broader educational goals like literacy and critical thinking. The union calls for the withdrawal of these reforms and prioritizes the interests of the people over market forces.
 
@@ -89,6 +53,56 @@ These reforms prior the profit rather than the quality of education and the welf
 [Data](articles/53b0e34d.json)
 
 [Extended Data](ext_articles/53b0e34d.ext.json)
+
+---
+
+### The conceptual change in the community on the alternatives will be made - Minister of State
+
+*2024-04-09 02:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180774) · `ta`
+
+The Minister of State announced a shift in community attitudes towards "breaking the pot of luck and feeding the blind" during New Year celebrations, aiming for ideological change. All banks under the Samurdhi program will host 1089 New Year events nationwide. The Social Reinforcement Minister highlighted economic improvements and the goal to become a developed economy by 2024, focusing on consumer cost-of-living solutions. Despite economic challenges, people are celebrating as usual, with special events for the disabled.
+
+🟩
+
+During the New Year celebration this time. Social Empowerment Minister Anubhaskwal said that in order to bring about ideological change in society, feeding and feeding the blind to "breaking the lucky pot and feeding the blind."
+
+The Minister of State pointed out that all banks under the Samurdhi program have made arrangements to hold 1089 New Year celebrations nationwide for the Sinhala and Tamil New Year.
+
+Minister of Social Reinforcement Anupa Paskal said this at a media briefing held at the Presidential Media Center on Monday (08).
+
+“After the last quarter of this year, we have declined economic wrinkles in this country and we have the ability to become an developed economy in 2024. The main objective of our economic plan was to provide solutions to the cost of living in the consumer.
+
+But compared to last year, people are engaged in their daily activities to celebrate the New Year as usual.
+
+...
+
+[Data](articles/86d33a94.json)
+
+[Extended Data](ext_articles/86d33a94.ext.json)
+
+---
+
+### Flower spring is the beginning of the University of Peradeniya
+
+*2024-04-09 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180773) · `ta`
+
+The University of Peradeniya's Flower Spring, a global beauty, starts with Dolichandra Unguis-Cati blooming in Mara trees, attracting foreigners and locals alike.
+
+🟩
+
+Flower spring has begun at the University of Peradeniya which is considered one of the world's beautiful universities.
+
+Dolichandra Unguis-Cati will bloom annually in the Mara trees on the university road, but this time the flowers have begun to bloom in the second week of April.
+
+The flower spring of the Handana Vasina Yellow Rain is popular among foreign people.
+
+It is a wonderful scene in which not only university students but also professors and others enjoy this beauty.
+
+◼️
+
+[Data](articles/8ef343e7.json)
+
+[Extended Data](ext_articles/8ef343e7.ext.json)
 
 ---
 

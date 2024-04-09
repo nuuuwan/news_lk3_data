@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 15:52:38**
+As of **2024-04-09 16:05:07**
 
 ## Newspaper Stats
 
-*Scraped **18,068** Articles*
+*Scraped **18,071** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,102 @@ islandlk | 992
 economynextcom | 1,004
 adalk | 1,524
 tamilmirrorlk | 2,121
-adaderanalk | 2,170
+adaderanalk | 2,171
 virakesarilk | 2,661
 dailymirrorlk | 2,757
-adaderanasinhalalk | 2,927
+adaderanasinhalalk | 2,929
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,064 (100.0%) of 18,068 articles have been extended.
+18,068 (100.0%) of 18,071 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### ஜனாதிபதி தேர்தலுக்கான கட்டுப்பணத் தொகை அதிகரிப்பு : விபரம் இதோ !
+### තවත් ශ්‍රී ලංකා තරුවකට පායන්න සුවිශේෂී වරමක්
+
+*2024-04-09 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195473) · `si`
+
+විජයකාන්ත් වියස්කාන්ත් සන්රයිසස් හයිද්‍රාබාද් සංචිතයට කැඳවීමට තීරණය කර ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+එම වාර්තා පෙන්වාදෙන්නේ ආබාධයක ලක්වීම හේතුවෙන් මෙවර IPL තරගාවලිය අහිමි වූ වනිඳු හසරංග වෙනුවට ඔහු මෙලෙස සන්රයිසස් හයිද්‍රාබාද් සංචිතයට කැඳවා ඇති බවය.
+
+ශ්‍රී ලංකා තුන් ඉරියව් ක්‍රීඩක වනිඳු හසරංග මෙවර IPL තරගාවලියේ හයිද්‍රාබාද් සන්රයිසස් කණ්ඩායම නියෝජනය කිරීමට නියමිතව සිටියේය.
+
+කෙසේ වෙතත් ඔහුගේ ආබාධ තත්ත්වය සුව නොවීම හේතුවෙන් වනිඳු හසරංගට IPL තරගාවලියට ක්‍රීඩා කිරීමට නොහැකි බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලයට පසුගියදා දැනුම්දී තිබුණි.
+
+ඒ අනුව වනිඳු වෙනුවට LPL තරගාවලියෙන් කරළියට පැමිණි විජයකාන්ත් වියස්කාන්ත් සන්රයිසස් හයිද්‍රාබාද් සංචිතයට එක්කර ගැනීමට නියමිත බව වාර්තා වෙයි.
+
+වියස්කාන්ත් මේ වනවිට සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායමේ දැළ තුළ පන්දුයවන්නෙකු ලෙස විශිෂ්ට රාජකාරියක් ඉටුකරන අතර ඔහු නිමා වූ අයි එල් ටී තරගාවලියේදී පන්දුවෙන් කැපීපෙනෙන දස්කම් දැක්වීය.
+
+◼️
+
+[Data](articles/ce554f19.json)
+
+---
+
+### කෙහෙළියගේ පෙත්සමට එරෙහිව අතුරු පෙත්සමක්
+
+*2024-04-09 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195472) · `si`
+
+හිටපු සෞඛ්‍ය ඇමති කෙහෙළිය රඹුක්වැල්ල මහතා ගොනුකර ඇති පෙත්සමට මැදිහත්වී කරුණු දැක්වීම සඳහා ශ්‍රී ලංකා නීතිඥ සංගමය විසින්ද අතරමැදි පෙත්සමක් ඉදිරිපත් කර තිබේ.
+
+ඒ, පොදු දේපොළ පනත යටතේ නඩු විභාගය අවසන් වන තෙක් තමන්ව රක්ෂිත බන්ධනාගාරගත කිරීමට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය දී ඇති නියෝගය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා කෙහෙළිය රඹුක්වැල්ල ගොනුකර ඇති පෙත්සම සම්බන්ධයෙනි.
+
+අතරමැදි පෙත්සම තුළින් ශ්‍රී ලංකා නීතිඥ සංගමය ඉල්ලා සිටින්නේ කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කර තිබෙන මෙම පෙත්සම නිෂ්ප්‍රභ කරන ලෙසය.
+
+◼️
+
+[Data](articles/f9bcb567.json)
+
+---
+
+### Election Commission begins preparations for presidential polls
+
+*2024-04-09 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98536/election-commission-begins-preparations-for-presidential-polls) · `en`
+
+The Election Commission of Sri Lanka has commenced the activities related to preparing the electoral register for this year starting today (April 09).
+
+The activities pertaining to the preparation of electoral register will be carried out until May 10, as per the Election Secretariat.
+
+Accordingly, this allows the individuals whose names are not included in the electoral register despite being eligible to cast their votes, to add their names to the relevant lists.
+
+Thus, Election Secretariat further announced that the eligible voters now have the opportunity to include their names in the electoral register from respective Grama Niladhari offices or the election offices across the island.
+
+Meanwhile, the Election Commission will be authorized to call for nominations for the Presidential Election on any date after July 17, 2024.
+
+However, it is expected that the Presidential Election is likely to take place in the end of September or in the first week of October.
+
+...
+
+[Data](articles/2eeb1522.json)
+
+---
+
+### Increase in control of presidential election: Here is the details!
 
 *2024-04-09 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180820) · `ta`
 
-ஜனாதிபதித் தேர்தல் சட்டம், பாராளுமன்றத் தேர்தல் சட்டம் மற்றும் மாகாண சபைத் தேர்தல் சட்டம் ஆகியவற்றின் ஏற்பாடுகளுக்கமைய தற்போதுள்ள பிணை வைப்பு பணத் தொகையை காலத்துக்கு ஏற்ற வகையில் தற்போதைய சமூக, பொருளாதார மற்றும் அரசியல் பின்னணிக்கு ஏற்ப திருத்தம் செய்தல் பொருத்தமானது என அடையாளம் காணப்பட்டுள்ளது.
+The Cabinet approved a bill to amend Bail Plans, increasing bail deposits for candidates and independent committees under various election laws. For the Presidential Election Act, the bail deposit for a political party candidate is now 2.6 million rupees, and for an independent candidate, it's 3.1 million rupees. The Parliamentary Election Act increases the bail deposit by 16,000 rupees for political party candidates and the Election Act of 1988 increases it by 11,000 rupees for political party candidates and 11,000 rupees for independent committee candidates.
 
-அதற்கமைய, பின்வரும் வகையில் ஏற்புடைய பிணை வைப்புப்பணத் தொகையை திருத்தம் செய்வதற்கான சட்டமூலத்தைத் தயாரிக்குமாறு சட்ட வரைஞருக்கு ஆலோசனை வழங்குவதற்காக ஜனாதிபதி மற்றும் நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் சமர்ப்பித்த ஒருங்கிணைந்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+🟩
 
-1981ஆம் ஆண்டின் 15ஆம் இலக்க ஜனாதிபதித் தேர்தல் சட்டத்துக்கமைய அங்கீகரிக்கப்பட்ட ஒரு அரசியல் கட்சியால் சமர்ப்பிக்கப்படும் வேட்பாளர் ஒருவரின் பிணை வைப்புத் தொகை 2.6 மில்லியன் ரூபா வரையும், சுயேட்சை வேட்பாளரின் பிணை வைப்புத் தொகையை 3.1 மில்லியன் ரூபா வரையும் அதிகரிப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+The presidential law, the parliamentary electoral law and the provincial council electoral law have been identified as appropriate for the current social, economic and political background to suit the existing bail deposit.
+
+Accordingly, the Cabinet has approved the combined proposal submitted by the President and the Minister of Justice, Prison Affairs and Constitutional Reforms to advise the lawyer to prepare the Bill to amend the Bail Plans.
+
+The bail deposit of a candidate submitted by a political party approved by the Presidential Election Act No. 15 of 1981 has been decided to increase up to 2.6 million rupees and an independent candidate's bail deposit to 3.1 million rupees.
+
+It has been decided to increase the bail deposit of a candidate submitted by a political party approved by the Parliamentary Election Act No. 01 of 1981 and an increase of the bail deposit of an independent committee by up to 16,000 rupees.
 
 ...
 
 [Data](articles/f86fc2ab.json)
+
+[Extended Data](ext_articles/f86fc2ab.ext.json)
 
 ---
 
@@ -61,6 +129,8 @@ The admission process will be primarily based on the applicants' 'Z score' obtai
 ◼️
 
 [Data](articles/3a5b0c16.json)
+
+[Extended Data](ext_articles/3a5b0c16.ext.json)
 
 ---
 
@@ -144,21 +214,29 @@ Women's netball at international level will now be restricted to players "record
 
 ---
 
-### අයි.එම්.එෆ්. ගිවිසුම නීතියක් වෙයි
+### IMF. The agreement is a law
 
 *2024-04-09 14:42:12* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--ගිවිසුම-නීතියක්-වෙයි/11-409032) · `si`
 
-රට තුළ සීග්‍ර ආර්ථික වර්ධනයක් ඇති කිරීමට රජය ආරම්භ කර ඇති වැඩපිළිවෙළ සාර්ථක කර ගැනීමට නම් නීති පද්ධතියද නවීකරණය විය යුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe emphasized the need for modernizing Sri Lanka's legal system to support rapid economic growth, especially in collaboration with the IMF. He highlighted the importance of a new legal framework for modernizing every field, including digital economy, climate change laws, and gender equality. Wickremesinghe also stressed the urgency of making amendments to laws to attract investment and the opening of Sri Lanka's economy to the Finance Zone of Colombo.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ මහනුවර නීතිඥවරුන් සමඟ මහනුවර මහවැලි රීච් හෝටලයේ පැවති සුහද හමුවේදීය.
+🟩
 
-බිඳ වැටුණු ශ්‍රී ලංකා ආර්ථිකය ගොඩනැඟීමට ඇති කඩිනම් විසඳුම ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන වැඩසටහන බව මෙහිදී පෙන්වා දුන් ජනාධිපතිවරයා එම ප්‍රතිලාභය ජනතාවට හිමිකර දීම වෙනුවෙන් ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන ගිවිසුම නීතිගත කිරීමට කටයුතු කරන බව ද සඳහන් කළේය.
+President Ranil Wickremesinghe said that the legal system should also be modernized to make a program that the government has started to establish rapid economic growth in the country.
 
-එසේම සෑම ක්ෂේත්‍රයකම නවීකරණයක් වෙනුවෙන් නව නීති පද්ධතියක් ගෙන එන බව පැවසූ ජනාධිපතිවරයා එම කටයුතු සඳහා නීති ක්ෂේත්‍රයේ සියලුදෙනාගේ සහාය අපේක්ෂා කරන බවද සඳහන් කළේය.
+The President was speaking at a friendly meeting at Mahaweli Reich Hotel with Kandy.
+
+The President said that the accelerated solution to the Collapse of the Sri Lankan economy is working with the International Monetary Fund.
+
+The President said that the President said that a new legal system would bring a new legal system for a modernization of every field.
+
+"Do we need to determine whether the program with the International Monetary Fund is proceeding, or whether we should decide whether or whether it is back. Sri Lanka has a bad reputation that the agreement is every time every time. This is the last time we have received for the country. Therefore, we hope to legalize the agreement with the International Monetary Fund to give the people.
 
 ...
 
 [Data](articles/3673b5d6.json)
+
+[Extended Data](ext_articles/3673b5d6.ext.json)
 
 ---
 
@@ -2233,57 +2311,5 @@ The newspaper was reported from Trincomalee.
 [Data](articles/c73fb393.json)
 
 [Extended Data](ext_articles/c73fb393.ext.json)
-
----
-
-### SLFP appoints Nimal Siripala as Acting  Chairman amidst intraparty crisis
-
-*2024-04-09 01:23:31* · [`dailyftlk`](https://www.ft.lk/news/SLFP-appoints-Nimal-Siripala-as-Acting-Chairman-amidst-intraparty-crisis/56-760500) · `en`
-
-Sri Lanka Freedom Party (SLFP) politburo appointed SLFP Senior Vice President Nimal Siripala de Silva as its Acting Chairman yesterday replacing the embattled Chairman Maithripala Sirisena who now faces a barrage of legal challenges to secure his post.
-
-The appointment was initiated by the SLFP faction led by former party leader Chandrika Bandaranaike Kumaratunga. This decision followed an interim injunction issued by the Colombo District Court last week, which prohibited SLFP Chairman Maithripala Sirisena from carrying out his duties in the position. This injunction stemmed from a complaint filed by Kumaratunga claiming Sirisena was unsuitable to carry out the role.
-
-...
-
-[Data](articles/8ee5cb0a.json)
-
-[Extended Data](ext_articles/8ee5cb0a.ext.json)
-
----
-
-### President pays homage to Sri Maha Bodhi
-
-*2024-04-09 01:22:38* · [`dailyftlk`](https://www.ft.lk/news/President-pays-homage-to-Sri-Maha-Bodhi/56-760499) · `en`
-
-President Ranil Wickremesinghe paid homage to the historic Jaya Sri Maha Bodhi on Saturday and received blessings.
-
-Later, he took park in the traditional “Aluth Sahal Mangalyaya” (New Rice Festival) in Anuradhapura.
-
-He also called on the Chief Incumbent of Atamasthana Venerable Pallegama Hemarathana Thero to inquire about his well-being and engaged in a brief discussion.
-
-◼️
-
-[Data](articles/e4aa922a.json)
-
-[Extended Data](ext_articles/e4aa922a.ext.json)
-
----
-
-### SL Journalists for Global Justice wants Govt. be alert to West Asian war threat by Israel
-
-*2024-04-09 01:22:03* · [`dailyftlk`](https://www.ft.lk/news/SL-Journalists-for-Global-Justice-wants-Govt-be-alert-to-West-Asian-war-threat-by-Israel/56-760498) · `en`
-
-The Sri Lanka Journalists for Global Justice (SLJGJ) yesterday alerted Sri Lankans and the Government to the  imminent threat of war engulfing the entire West Asian region due to the current Israeli Government’s expanding military aggression beyond Palestine to its immediate neighbouring
-
-In a statement, the SLJGJ points out that West Asia is Sri Lanka’s most important source of oil and gas as  well as the home of our migrant workers. Already, oil prices are volatile due to the existing  uncertainties regarding supply and the rising costs of shipping and insurance.
-
-Meanwhile, in the recent months since the launch of the Israeli government’s military  operations against Palestinian territories, a war-like atmosphere has extended throughout the  entire neighbouring region. The entire Arab world in the neighbourhood has been affected by the tensions and livelihood uncertainties.
-
-...
-
-[Data](articles/7d7ebf26.json)
-
-[Extended Data](ext_articles/7d7ebf26.ext.json)
 
 ---

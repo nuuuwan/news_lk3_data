@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 20:18:20**
+As of **2024-04-09 20:34:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,938
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,122 (100.0%) of 18,125 articles have been extended.
+18,125 (100.0%) of 18,125 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ A 36-member elite athletic pool set up by the SLA is currently training while ta
 ...
 
 [Data](articles/92b908f3.json)
+
+[Extended Data](ext_articles/92b908f3.ext.json)
 
 ---
 
@@ -122,19 +124,29 @@ It is noteworthy that Vyaskant is currently working as a web bowler for Sunriser
 
 ---
 
-### මාර්ග හතරක් ඔස්සේ ශ්‍රී පාදය කරුණා කර ගිනස් වාර්තාවක් පිහිටවයි
+### Four four routes, Sri Pada is kind and establish a Guinness record
 
 *2024-04-09 19:08:22* · [`adalk`](https://www.ada.lk/breaking_news/මාර්ග-හතරක්-ඔස්සේ-ශ්‍රී-පාදය-කරුණා-කර-ගිනස්-වාර්තාවක්-පිහිටවයි/11-409038) · `si`
 
-පැය 23 විනාඩි 46 ක් තුල මාර්ග හතරක් ඔස්සේ ශ්‍රි පාදය කරුණා කර සෙරන්ඩිප් ගිනස් වාර්තාවක් පිහිටුවිමට ශ්‍රි ලංකා නාවික හමුවේ විශ්‍රාමික රියර් අද්මිරාල් ප්‍රින්ස්ලි ලියනගේ මහතා (09) දින පස්වරුවේ සමත්විය.
+Rear Admiral Princeley Liyanage set a new Guinness record by traveling 88.8 km in 14 minutes, completing the journey from Sri Pada to Nallataniya.
 
-සෙරන්ඩිප් ගිනස් වාර්තා සංවිධානයේ මෙරට නියෝජිතයන්ගේ අධික්ෂණය යටතේ (08) දින පස්වරු 3 ට නල්ලතන්නිය ශ්‍රි පාද පිවිසුම් මාර්ගයෙන් ගමන් ආරම්භ කල ප්‍රින්ස්ලි ලියනගේ මහතා පැය 1 විනාඩි 20 ක් තුල ශ්‍රි පාද උඩ මළුව වෙත ගමන් කර එතැන් සිට දෙවනුව ශ්‍රි පාද එරත්න මාර්ගය ඔස්සේ අඩවි කන්දට බැස නැවත එම මාර්ගයේම ශ්‍රි පාද උඩ මළුවට ළගා විය.
+🟩
 
-තෙවනුව ශ්‍රි පාද උඩ මළුවේ සිට ශ්‍රි පාද පලාබද්දල මාර්ගය ඔස්සේ පහලට බැස එම මාර්ගයෙන්ම යලිත් ශ්‍රි පාද උඩ මළුව වෙත ළගා වි සිව්වනුව ශ්‍රි පාද උඩ මළුවේ සිට ශ්‍රි පාද මාලින්බොඩ මාර්ගය මාලින්බොඩ දක්වා බැස එතැන් සිට එම මාර්ගයෙන්ම ශ්‍රි පාද උඩ මළුව වෙත (09) දින පස්වරු 1.15 පමණ ශ්‍රි පාද උඩ මළුව වෙත ළගා වි ශ්‍රි පාද උඩ මළුවේ සිට යලිත් නල්ලතන්නිය දක්වා පැය 1 විනාඩි 40 ක් තුල නල්ලතන්නිය වෙත පැමිණ සිය වාර්තාව පිහිටුවිමට සමත්විය.
+Retirement Rear Admiral Printing Liyanage, retired Rear Admiral Princeley Liyanage, retired Imiral Fineeman (09).
+
+Mr. Princeley Liyanage, which was traveling through Sri Phind Eraratne road in 1 pm, has passed the Sit on Sri Lanka within 3 pm, following the supervision of the Sri Lankan Representatives (08).Returning the Sriped in the upper courtyard.
+
+Third, the fourth of the Sri Philipaddala road from the Sri Padawala road from the Sri Padawala road from the Sri Philadadadala road and falls to the Sripeashes.About 1.15 arrived in Nallataniya to the Nallatnaiya to the Nallatniya to the Nallatniya from the Uda courtyard.
+
+Rear Admiral Princeley Liyanage was set to the establishment of Serendi Guinness record and formed 88.8 km before the time was heard, and formed his report for 14 minutes.
+
+Rear Admiral Princeley Liyanage was supporting the march for the establishment of Serendi Guinness report and the assistance of his family and his wife.
 
 ...
 
 [Data](articles/2ccc8004.json)
+
+[Extended Data](ext_articles/2ccc8004.ext.json)
 
 ---
 
@@ -1186,21 +1198,33 @@ It has been decided to increase the bail deposit of a candidate submitted by a p
 
 ---
 
-### ஜனாதிபதி ரணில் விக்கிரமசிங்க பொதுஜன பெரமுனவின் வேட்பாளரல்ல    -ரஞ்சித் பண்டார
+### President Ranil Wickremesinghe is not the candidate of PA -Ranjith Bandara
 
 *2024-04-09 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180821) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஜனாதிபதி வேட்பாளராக களமிறக்க கட்சி மட்டத்தில் தீர்மானிக்கவில்லை. பொதுஜன பெரமுனவின் வேட்பாளரையே களமிறக்குவோம். வெகுவிரைவில் எமது தீர்மானத்தை அறிவிப்போம் என பொதுஜன பெரமுனவின் பொருளாளரும்,பாராளுமன்ற உறுப்பினருமான ரஞ்சித் பண்டார தெரிவித்தார்.
+Ranjith Bandara, PA's Treasurer, announced no presidential candidate from PA, contradicting President Ranil Wickremesinghe's statement. Prasanna Ranatunga clarified no PA members will run, emphasizing internal party resolutions over personal opinions.
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காரியாலயத்தில் செவ்வாய்க்கிழமை (9) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி தேர்தலில் போட்டியிட பொதுஜன பெரமுனவில் உறுப்பினர்கள் எவரும் இல்லை என கட்சியின் சிரேஷ்ட உறுப்பினர் பிரசன்ன ரணதுங்க குறிப்பிடுவது அவரது தனிப்பட்ட நிலைப்பாடே தவிர கட்சியின் நிலைப்பாடல்ல.
+President Ranil Wickremesinghe does not decide on the party level as presidential candidate. Let us field the candidate of the PA. Ranjith Bandara, Treasurer and Member of Parliament, said that we will soon announce our resolution.
 
-கட்சி மட்டத்தில் உத்தியோகபூர்வ தீர்மானம் ஒன்று எடுக்கப்படும் பட்சத்தில் தனிப்பட்ட கருத்துக்களை குறிப்பிடுவதை தவிர்த்துக் கொள்ளுமாறு கட்சியின் உள்ளக மட்டத்தில் எடுக்கப்பட்ட தீர்மானத்தை அவர் விளங்கிக் கொள்வார் என்று எதிர்பார்க்கிறேன்.
+He made this statement during a media briefing held at the Sri Lanka PA's office on Tuesday (9).
+
+The party's senior member Prasanna Ranatunga states that there are no members in the PA to contest the presidential election and not the party's position.
+
+I expect that if an official resolution is taken at the party level, he will understand the resolution taken at the internal level of the party to avoid referring to personal opinions.
+
+We have the ability to field the presidential candidate.. Prasanna Ranatunga knows that we will field the winning candidate.
+
+There is no need to urgently in the presidential candidate. We will field a candidate.
+
+There are no contradictions within the Sri Lanka PA.
 
 ...
 
 [Data](articles/44dd5941.json)
+
+[Extended Data](ext_articles/44dd5941.ext.json)
 
 ---
 

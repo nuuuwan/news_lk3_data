@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 07:53:19**
+As of **2024-04-09 08:04:01**
 
 ## Newspaper Stats
 
@@ -26,63 +26,81 @@ adaderanasinhalalk | 2,911
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,969 (100.0%) of 17,972 articles have been extended.
+17,972 (100.0%) of 17,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### විභාග දෙපාර්තමේන්තුව කොටස් දෙකකින් ක්‍රියාත්මක කිරීමට සැලසුම්
+### Plans to implement the Examination Department in two parts
 
 *2024-04-09 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195455) · `si`
 
-විභාග දෙපාර්තමේන්තුව ඉදිරියේ දී කොටස් දෙකකට බෙදීමට තීරණය කර ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe plans to split the Examination Department into two, focusing on school exams and other exams separately, aiming to address youth concerns and improve exam scheduling.
 
-ජනාධිපතිවරයා පවසන්නේ එක් අංශයක් සඳහා පාසල් විභාග පමණක් භාරදීමට අපේක්ෂා කරන බවය.
+🟩
 
-මහනුවර දිස්ත්‍රික් තරුණ සමුළුවට සහභාගී වූ තරුණ තරුණියන්ගේ ප්‍රශ්නවලට පිළිතුරු ලබාදෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේය.
+President Ranil Wickremesinghe says he has decided to divide the Examination Department in the future.
 
-"මම විශ්වවිද්‍යාලයට ඇතුළු වුණේ 18 දී. 21 දී එළියට ආවා. අද ඇතුළු වෙන්නේ 21 දී. මම දැන් සාකච්ඡා කරගෙන යනවා 2025 හෝ 2026 සිට නීතියක් පනවමු දෙසැම්බර් මාසයේ මේ විභාගය තියන්න ඕනේ. මේ මාසයේ ඒ අයව විශ්වවිද්‍යාලයට ඇතුළු කළ යුතුයි කියලා. ඒක කැඩුවොත් දඬුවම් කරන විදියට කරන්න. අනික විශේෂයෙන්ම අපි සාකච්ඡා කරගෙන යන්නේ, විභාග දෙපාර්තමේන්තුව කොටස් දෙකකට බෙදලා එකකට පාසල් විභාග භාරදෙන්න. අනික් අයට අනිත් විභාග භාරදෙන්න. මොකද පහේ විභාගය, සාමාන්‍ය පෙළ හා උසස් පෙළට අමතරව මේ අය විභාග 50ක් - 100ක් විතර කරනවා රජයේ. මේක වෙන්කරලා අපි වෙනම අංශයක් දාමු රජයේ විභාග පවත්වන්න."
+The President says that only one sector is expected to be handed over to a single sector.
+
+President Ranil Wickremesinghe made this statement addressing the issues of the youths who attended the Kandy District Youth Conference.
+
+"I entered the university in 18. Came out in 21. Today in 21. I am now discussing 2025 or 2026 lagoon launcher to put this exam in December. That they should enter the university this month. Do it punishing if it is broken. Especially, we will discuss, divide the Department of Examinations into two parts and hand over school examinations. Others offer other examinations. Because in addition to the five exam, Ordinary Level and A / L students have 50 - 50 exams. We have separated this and conduct a separate degree to hold the government's examinations. "
 
 ◼️
 
 [Data](articles/300578a5.json)
 
+[Extended Data](ext_articles/300578a5.ext.json)
+
 ---
 
-### තවත් අභිරහස් මරණයක්
+### Another mysterious death
 
 *2024-04-09 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195454) · `si`
 
-එසේ මියගොස් ඇත්තේ එම ප්‍රදේශයේ පදිංචිව සිටි 54 හැවිරිදි පුද්ගලයෙකි.
+A 54-year-old resident died mysteriously, with severe head and rib injuries. The wife reported the death, and an autopsy was conducted at Hambantota Hospital.
 
-මියගිය පුද්ගලයාගේ බිරිඳ විසින් මරණය සම්බන්ධයෙන් පැමිණිලිකර ඇති අතර හදිසි මරණ පරීක්ෂණය හම්බන්තොට රෝහලේ දී සිදුකර ඇත.
+🟩
 
-එහිදී අනාවරණය වී ඇත්තේ, මරණකරුගේ හිසට හා ඉල ඇටවලට දැඩි තුවාල සිදුව ඇති බවය.
+The deceased has been identified as a 54 year old resident of the area.
+
+The wife of the deceased has been a complaint with death and the autopsy has been conducted at the Hambantota Hospital.
+
+The victim was severely injured in the head and the ribs.
 
 ◼️
 
 [Data](articles/387f9701.json)
 
+[Extended Data](ext_articles/387f9701.ext.json)
+
 ---
 
-### උතුරු - නැගෙනහිර අවතැන් මධ්‍යස්ථාන ගැන තීරණයක්
+### Decision regarding displaced centers in the North and East
 
 *2024-04-09 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195453) · `si`
 
-එල්.ටී.ටී.ඊ ත්‍රස්තවාදී යුද්ධය හේතුවෙන් උතුරු හා නැගෙනහිර පළාත්වල අවතැන්වූවන් රඳවා සිටින සියලු සුබසාධන මධ්‍යස්ථාන මෙම වසරේදී වසා දමන බව නාගරික සංවර්ධන සහ නිවාස අමාත්‍යංශය පවසයි.
+The Ministry of Urban Development and Housing announced plans to aid displaced families in the North and East, with 212 families receiving land for future housing. President Ranil Wickremesinghe urged further assistance for those not yet accommodated.
 
-මේ වනවිට යාපනය දිස්ත්‍රික්කයේ සුබසාධන මධ්‍යස්ථාන තුනක් ක්‍රියාත්මකව පවතින අතර එහි රැඳී සිටින පවුල් සංඛ්‍යාව 10ක් බව එම අමාත්‍යංශය පැවසුවේය.
+🟩
 
-උතුරු හා නැගෙනහිර පැවති ගැටුම්කාරී වාතාවරණය හමුවේ අවතැන්ව සිටි පවුල්වලින් මේ වනවිට සුබසාධන මධ්‍යස්ථානවලට ඇතුළත් නොවී නැවත පදිංචිය බලාපොරොත්තුවෙන් නෑදෑ හිත මිතුරන්ගේ නිවාසවල පවුල් 1,502ක් රැඳී සිටින බව නාගරික සංවර්ධන හා නිවාස අමාත්‍යංශය පැවසුවේය.
+The Ministry of Urban Development and Housing Ministry said that due to the war of the LTTE terrorist war, the Ministry of Urban Development and Housing Ministry said.
 
-ඉන් පවුල් 212ක් සඳහා ඉඩම් නිදහස් කර ඇති අතර ඔවුන්ට ඉදිරියේදී නිවාස ලබාදීම නියමිතය.
+There are three welfare centers in the Jaffna district and there are 10 families.
 
-එමෙන්ම ඉඩම් අහිමි අනෙකුත් සියලුදෙනාට කඩිමින් ඉඩම් ලබාදීමට කටයුතු කරන ලෙස ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා නාගරික සංවර්ධන හා නිවාස අමාත්‍යංශයට උපදෙස් දී ඇති අතර ඔවුන් සඳහා ද ඉදිරියේ දී ඉඩම් නිදහස් කිරීමට නියමිත බව නාගරික සංවර්ධන හා නිවාස අමාත්‍යංශයේ නැවත පදිංචි කිරීමේ අංශය සඳහන් කළේය.
+The Ministry of Urban Development and Housing said that there are 1,502 families in relatives of friends who have not been displaced by the welfare centers in the North and East.
+
+The land has been released for 212 families and will be given houses in the future.
+
+President Ranil Wickremesinghe has also advised the Ministry of Urban Development and Housing Development to provide lands to the other people who have not been able to provide lands to all other people.
 
 ◼️
 
 [Data](articles/b17598f8.json)
+
+[Extended Data](ext_articles/b17598f8.ext.json)
 
 ---
 

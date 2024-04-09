@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 01:50:57**
+As of **2024-04-10 02:04:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,168 (100.0%) of 18,173 articles have been extended.
+18,170 (100.0%) of 18,173 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Adding to this uncertain state of affairs are recent attempts by vested interest
 
 [Data](articles/45db6626.json)
 
+[Extended Data](ext_articles/45db6626.ext.json)
+
 ---
 
 ### Peak state capitalism – what’s next?
@@ -55,6 +57,8 @@ The limits of state capitalism are visible worldwide, from China, Sri Lanka, Egy
 ...
 
 [Data](articles/7b28b875.json)
+
+[Extended Data](ext_articles/7b28b875.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 07:39:48**
+As of **2024-04-09 07:53:19**
 
 ## Newspaper Stats
 
-*Scraped **17,969** Articles*
+*Scraped **17,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,71 @@ tamilmirrorlk | 2,107
 adaderanalk | 2,160
 virakesarilk | 2,646
 dailymirrorlk | 2,738
-adaderanasinhalalk | 2,908
+adaderanasinhalalk | 2,911
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,969 (100.0%) of 17,969 articles have been extended.
+17,969 (100.0%) of 17,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### විභාග දෙපාර්තමේන්තුව කොටස් දෙකකින් ක්‍රියාත්මක කිරීමට සැලසුම්
+
+*2024-04-09 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195455) · `si`
+
+විභාග දෙපාර්තමේන්තුව ඉදිරියේ දී කොටස් දෙකකට බෙදීමට තීරණය කර ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා පවසන්නේ එක් අංශයක් සඳහා පාසල් විභාග පමණක් භාරදීමට අපේක්ෂා කරන බවය.
+
+මහනුවර දිස්ත්‍රික් තරුණ සමුළුවට සහභාගී වූ තරුණ තරුණියන්ගේ ප්‍රශ්නවලට පිළිතුරු ලබාදෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේය.
+
+"මම විශ්වවිද්‍යාලයට ඇතුළු වුණේ 18 දී. 21 දී එළියට ආවා. අද ඇතුළු වෙන්නේ 21 දී. මම දැන් සාකච්ඡා කරගෙන යනවා 2025 හෝ 2026 සිට නීතියක් පනවමු දෙසැම්බර් මාසයේ මේ විභාගය තියන්න ඕනේ. මේ මාසයේ ඒ අයව විශ්වවිද්‍යාලයට ඇතුළු කළ යුතුයි කියලා. ඒක කැඩුවොත් දඬුවම් කරන විදියට කරන්න. අනික විශේෂයෙන්ම අපි සාකච්ඡා කරගෙන යන්නේ, විභාග දෙපාර්තමේන්තුව කොටස් දෙකකට බෙදලා එකකට පාසල් විභාග භාරදෙන්න. අනික් අයට අනිත් විභාග භාරදෙන්න. මොකද පහේ විභාගය, සාමාන්‍ය පෙළ හා උසස් පෙළට අමතරව මේ අය විභාග 50ක් - 100ක් විතර කරනවා රජයේ. මේක වෙන්කරලා අපි වෙනම අංශයක් දාමු රජයේ විභාග පවත්වන්න."
+
+◼️
+
+[Data](articles/300578a5.json)
+
+---
+
+### තවත් අභිරහස් මරණයක්
+
+*2024-04-09 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195454) · `si`
+
+එසේ මියගොස් ඇත්තේ එම ප්‍රදේශයේ පදිංචිව සිටි 54 හැවිරිදි පුද්ගලයෙකි.
+
+මියගිය පුද්ගලයාගේ බිරිඳ විසින් මරණය සම්බන්ධයෙන් පැමිණිලිකර ඇති අතර හදිසි මරණ පරීක්ෂණය හම්බන්තොට රෝහලේ දී සිදුකර ඇත.
+
+එහිදී අනාවරණය වී ඇත්තේ, මරණකරුගේ හිසට හා ඉල ඇටවලට දැඩි තුවාල සිදුව ඇති බවය.
+
+◼️
+
+[Data](articles/387f9701.json)
+
+---
+
+### උතුරු - නැගෙනහිර අවතැන් මධ්‍යස්ථාන ගැන තීරණයක්
+
+*2024-04-09 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195453) · `si`
+
+එල්.ටී.ටී.ඊ ත්‍රස්තවාදී යුද්ධය හේතුවෙන් උතුරු හා නැගෙනහිර පළාත්වල අවතැන්වූවන් රඳවා සිටින සියලු සුබසාධන මධ්‍යස්ථාන මෙම වසරේදී වසා දමන බව නාගරික සංවර්ධන සහ නිවාස අමාත්‍යංශය පවසයි.
+
+මේ වනවිට යාපනය දිස්ත්‍රික්කයේ සුබසාධන මධ්‍යස්ථාන තුනක් ක්‍රියාත්මකව පවතින අතර එහි රැඳී සිටින පවුල් සංඛ්‍යාව 10ක් බව එම අමාත්‍යංශය පැවසුවේය.
+
+උතුරු හා නැගෙනහිර පැවති ගැටුම්කාරී වාතාවරණය හමුවේ අවතැන්ව සිටි පවුල්වලින් මේ වනවිට සුබසාධන මධ්‍යස්ථානවලට ඇතුළත් නොවී නැවත පදිංචිය බලාපොරොත්තුවෙන් නෑදෑ හිත මිතුරන්ගේ නිවාසවල පවුල් 1,502ක් රැඳී සිටින බව නාගරික සංවර්ධන හා නිවාස අමාත්‍යංශය පැවසුවේය.
+
+ඉන් පවුල් 212ක් සඳහා ඉඩම් නිදහස් කර ඇති අතර ඔවුන්ට ඉදිරියේදී නිවාස ලබාදීම නියමිතය.
+
+එමෙන්ම ඉඩම් අහිමි අනෙකුත් සියලුදෙනාට කඩිමින් ඉඩම් ලබාදීමට කටයුතු කරන ලෙස ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා නාගරික සංවර්ධන හා නිවාස අමාත්‍යංශයට උපදෙස් දී ඇති අතර ඔවුන් සඳහා ද ඉදිරියේ දී ඉඩම් නිදහස් කිරීමට නියමිත බව නාගරික සංවර්ධන හා නිවාස අමාත්‍යංශයේ නැවත පදිංචි කිරීමේ අංශය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/b17598f8.json)
+
+---
 
 ### These days stay careful
 
@@ -2201,75 +2255,5 @@ The authorities have planned to add 11 more careers for the identified occupatio
 [Data](articles/5deaf942.json)
 
 [Extended Data](ext_articles/5deaf942.ext.json)
-
----
-
-### New Zealand tightens visa rules due to ‘unsustainable’ migration
-
-*2024-04-08 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98517/new-zealand-tightens-visa-rules-due-to-unsustainable-migration) · `en`
-
-New Zealand has tightened work visa rules in response to “unsustainable” migration levels, say authorities.
-
-Low-skilled applicants now have to fulfil English-language requirements and are allowed to stay on for three years - down from five previously.
-
-“Getting our immigration settings right is critical to this government’s plan to rebuild the economy,” said Immigration Minister Erica Stanford.
-
-A near-record 173,000 people migrated to New Zealand last year.
-
-Under the tightened rules, applicants for most work visas now have to fulfill requirements for skills and work experience.
-
-Employers are responsible for ensuring that migrants meet the specified requirements before offering them a job.
-
-Authorities have also decided to axe earlier plans to add 11 roles, such as welders, fitters and turners, to the list of occupations that would qualify for a fast track to residency.
-
-...
-
-[Data](articles/d41fe010.json)
-
-[Extended Data](ext_articles/d41fe010.ext.json)
-
----
-
-### Youth killed in accident in Mannar
-
-*2024-04-08 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180728) · `ta`
-
-A 22-year-old restaurant worker in Mannar died in an accident near Mannar-Thavapadu road on Sunday evening. He had been working in the area for six years.
-
-🟩
-
-A 22 -year -old youth who was working at a restaurant in Mannar has died tragically in a accident which took place on Sunday evening (7) evening near the Mannar -Thavapadu main road.
-
-He had been working as a worker at restaurants in Mannar district for the past six years.
-
-The youth has been taken to Mannar Hospital for treatment of an accident.
-
-◼️
-
-[Data](articles/a5667d08.json)
-
-[Extended Data](ext_articles/a5667d08.ext.json)
-
----
-
-### Sri Lanka issues guidelines for holiday activities, cautions people to avoid accidents
-
-*2024-04-08 15:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-issues-guidelines-for-holiday-activities-cautions-people-to-avoid-accidents-157906/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s health officials and Police are cautioning the public to avoid accidents in the upcoming holiday period.
-
-“Every year around this time we see a rise in various fatal accidents – road accidents, drowning, explosions and sports injuries – and increased numbers of people being hospitalized,” Minister of Health Ramesh Pathirana said at a press briefing to launch a set of guidelines for conducting sporting events (avurudu kreeda) ahead of the festivities this week.
-
-“We entreat people to be vigilant about their and others’ safety during this festival period.
-
-Pathirana said that health officials had studied 5 years of data and seen an increase in accidents every year during this period.
-
-“If someone is injured, please don’t transport them in three-wheelers. This can do more damage, especially if they have fractures,” Health Ministry official and Consultant Community Physician Samitha Siritunga said.
-
-...
-
-[Data](articles/ace0ea67.json)
-
-[Extended Data](ext_articles/ace0ea67.ext.json)
 
 ---

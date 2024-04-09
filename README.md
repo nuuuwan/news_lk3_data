@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 20:03:09**
+As of **2024-04-09 20:18:20**
 
 ## Newspaper Stats
 
-*Scraped **18,122** Articles*
+*Scraped **18,125** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,64 @@ newsfirstlk | 363
 dailyftlk | 987
 islandlk | 992
 economynextcom | 1,013
-adalk | 1,529
+adalk | 1,530
 tamilmirrorlk | 2,123
 adaderanalk | 2,176
-virakesarilk | 2,675
-dailymirrorlk | 2,764
+virakesarilk | 2,676
+dailymirrorlk | 2,765
 adaderanasinhalalk | 2,938
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,121 (100.0%) of 18,122 articles have been extended.
+18,122 (100.0%) of 18,125 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### මහින්ද නිවස ඉදිරිපිට සිට ආරම්භ කළ විරෝධය
+### SLA target four events at Paris Olympic Games
 
-*2024-04-09 19:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195483) · `si`
+*2024-04-09 19:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLA-target-four-events-at-Paris-Olympic-Games/108-280485) · `en`
 
-පුංචි ඡන්දය කල් දමා මහජන නියෝජිතයින් නොමැතිව නිලධාරී පාලනය යටතේ පළාත් පාලන ආයතන පවත්වාගෙන යාම මූලික අයිතිවාසිකම් කඩකිරීමක් බව මැතිවරණ කොමිෂන් සභාවේ හිටපු සභාපති මහින්ද දේශප්‍රිය මහතා පවසයි.
+Apr. 9 (Daily Mirror) - Sri Lanka Athletic (SLA) is optimistic they will qualify to participate in at least four events at the 2024 Paris Olympic Games, SLA President Major General Palitha Fernando (Retired) said.
 
-මැතිවරණ කල් දැමීම සම්බන්ධයෙන් සිය විරෝධය පළකරමින් අද ඔහුගේ නිවස ඉදිරිපිට බැනර් ප්‍රදර්ශනය කරමින් මේ බව ප්‍රකාශ කළේය.
+The deadline set by the IAAF to reach the Paris Olympic Games track and field events is June 30.
 
-එහිදී වැඩිදුරටත් දැක්වූ  මැතිවරණ කොමිෂන් සභාවේ හිටපු සභාපති මහින්ද දේශප්‍රිය මහතා,
+The qualifying period for the Paris Olympic Games athletics events is from June 30 2023 to June 30 2024, but none of the Sri Lankan athletes have reached the required standards.
 
-"පළාත් පාලන ආයතන නිලධාරීන් යටතේ තබාගැනීම මූලික අයිතිවාසිකම් කඩකිරීමක් බව අධිකරණය කිව්වා එයාලා නැතුව ඒවා දුවනවා කියලා සමහරු කියනවා එහෙම නම් පාර්ලිමේන්තු මන්ත්‍රීවරුත් අවශ්‍ය නැහැ ජනාධිපතිවරයෙක් මොකට ද ? ජනපති ලේකම්, අගවිනිසුරු හා ආරක්ෂක මාණ්ඩලික ප්‍රධානියාට පාලනය කරන්න පුළුවන්නේ මහජන නියෝජිතයෝ නැතුව පාලනය කිරීම වැරදියි එ.ජා. මානව හිමිකම් විශ්ව ප්‍රකාශයට අපි අත්සන් කරලා පළාත් සභාවලටත් මෙය වලංගුයි ආණ්ඩුකාරවරු හා නිලධාරීන් රටේ මුදල් භාවිත කරනවා ඒක සම්පූර්ණයෙන් වැරදියි එකකටවත් මහජන නියෝජිතයෝ ඕනේ නැහැ කියලා ඒකාධිපති ක්‍රමයකට යන්න හදන්නේ ඒ ගැන බැනර් එකක් මම දැම්මා ඡන්දය ප්‍රමාද කිරීම ඒකාධිපති ක්‍රමයකට අතවැනීමක්
+A 36-member elite athletic pool set up by the SLA is currently training while targeting the 2024 Paris Olympic Games.
 
 ...
 
+[Data](articles/92b908f3.json)
+
+---
+
+### Objection commenced from opposing Mahinda
+
+*2024-04-09 19:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195483) · `si`
+
+Mahinda Deshapriya, former Chairman, criticizes the government for postponing the Little Election without violating fundamental rights. He questions the control of the president and chief of the President over public representatives, accusing them of using public funds for their own benefit.
+
+🟩
+
+Former Chairman Mahinda Deshapriya says that the Little Election is procrastinated under the official government representatives without a fundamental rights violation.
+
+This was stated by the banners in front of his house today, protesting their election postpuls.
+
+Former Chairman Mahinda Deshapriya added,
+
+"The court said that" to keep the local government officials violating fundamental rights, then, is the president, the chief of the President, is not controlled by the chief of the people without public representatives?. The governors and officials are using the money of the country that the people of the country used the universal publication of human rights.
+
+If there is no referendum to extend the office to extend the office, there are no more than 80,000 opposition to paste any home advertisement. "
+
+◼️
+
 [Data](articles/fe8efe40.json)
+
+[Extended Data](ext_articles/fe8efe40.ext.json)
 
 ---
 
@@ -93,6 +119,22 @@ It is noteworthy that Vyaskant is currently working as a web bowler for Sunriser
 [Data](articles/254e9a99.json)
 
 [Extended Data](ext_articles/254e9a99.ext.json)
+
+---
+
+### මාර්ග හතරක් ඔස්සේ ශ්‍රී පාදය කරුණා කර ගිනස් වාර්තාවක් පිහිටවයි
+
+*2024-04-09 19:08:22* · [`adalk`](https://www.ada.lk/breaking_news/මාර්ග-හතරක්-ඔස්සේ-ශ්‍රී-පාදය-කරුණා-කර-ගිනස්-වාර්තාවක්-පිහිටවයි/11-409038) · `si`
+
+පැය 23 විනාඩි 46 ක් තුල මාර්ග හතරක් ඔස්සේ ශ්‍රි පාදය කරුණා කර සෙරන්ඩිප් ගිනස් වාර්තාවක් පිහිටුවිමට ශ්‍රි ලංකා නාවික හමුවේ විශ්‍රාමික රියර් අද්මිරාල් ප්‍රින්ස්ලි ලියනගේ මහතා (09) දින පස්වරුවේ සමත්විය.
+
+සෙරන්ඩිප් ගිනස් වාර්තා සංවිධානයේ මෙරට නියෝජිතයන්ගේ අධික්ෂණය යටතේ (08) දින පස්වරු 3 ට නල්ලතන්නිය ශ්‍රි පාද පිවිසුම් මාර්ගයෙන් ගමන් ආරම්භ කල ප්‍රින්ස්ලි ලියනගේ මහතා පැය 1 විනාඩි 20 ක් තුල ශ්‍රි පාද උඩ මළුව වෙත ගමන් කර එතැන් සිට දෙවනුව ශ්‍රි පාද එරත්න මාර්ගය ඔස්සේ අඩවි කන්දට බැස නැවත එම මාර්ගයේම ශ්‍රි පාද උඩ මළුවට ළගා විය.
+
+තෙවනුව ශ්‍රි පාද උඩ මළුවේ සිට ශ්‍රි පාද පලාබද්දල මාර්ගය ඔස්සේ පහලට බැස එම මාර්ගයෙන්ම යලිත් ශ්‍රි පාද උඩ මළුව වෙත ළගා වි සිව්වනුව ශ්‍රි පාද උඩ මළුවේ සිට ශ්‍රි පාද මාලින්බොඩ මාර්ගය මාලින්බොඩ දක්වා බැස එතැන් සිට එම මාර්ගයෙන්ම ශ්‍රි පාද උඩ මළුව වෙත (09) දින පස්වරු 1.15 පමණ ශ්‍රි පාද උඩ මළුව වෙත ළගා වි ශ්‍රි පාද උඩ මළුවේ සිට යලිත් නල්ලතන්නිය දක්වා පැය 1 විනාඩි 40 ක් තුල නල්ලතන්නිය වෙත පැමිණ සිය වාර්තාව පිහිටුවිමට සමත්විය.
+
+...
+
+[Data](articles/2ccc8004.json)
 
 ---
 
@@ -1141,6 +1183,24 @@ It has been decided to increase the bail deposit of a candidate submitted by a p
 [Data](articles/f86fc2ab.json)
 
 [Extended Data](ext_articles/f86fc2ab.ext.json)
+
+---
+
+### ஜனாதிபதி ரணில் விக்கிரமசிங்க பொதுஜன பெரமுனவின் வேட்பாளரல்ல    -ரஞ்சித் பண்டார
+
+*2024-04-09 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180821) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஜனாதிபதி வேட்பாளராக களமிறக்க கட்சி மட்டத்தில் தீர்மானிக்கவில்லை. பொதுஜன பெரமுனவின் வேட்பாளரையே களமிறக்குவோம். வெகுவிரைவில் எமது தீர்மானத்தை அறிவிப்போம் என பொதுஜன பெரமுனவின் பொருளாளரும்,பாராளுமன்ற உறுப்பினருமான ரஞ்சித் பண்டார தெரிவித்தார்.
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காரியாலயத்தில் செவ்வாய்க்கிழமை (9) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஜனாதிபதி தேர்தலில் போட்டியிட பொதுஜன பெரமுனவில் உறுப்பினர்கள் எவரும் இல்லை என கட்சியின் சிரேஷ்ட உறுப்பினர் பிரசன்ன ரணதுங்க குறிப்பிடுவது அவரது தனிப்பட்ட நிலைப்பாடே தவிர கட்சியின் நிலைப்பாடல்ல.
+
+கட்சி மட்டத்தில் உத்தியோகபூர்வ தீர்மானம் ஒன்று எடுக்கப்படும் பட்சத்தில் தனிப்பட்ட கருத்துக்களை குறிப்பிடுவதை தவிர்த்துக் கொள்ளுமாறு கட்சியின் உள்ளக மட்டத்தில் எடுக்கப்பட்ட தீர்மானத்தை அவர் விளங்கிக் கொள்வார் என்று எதிர்பார்க்கிறேன்.
+
+...
+
+[Data](articles/44dd5941.json)
 
 ---
 
@@ -2249,73 +2309,5 @@ The verdict on the request was due to be announced today, but the declaration wa
 [Data](articles/3e24f59b.json)
 
 [Extended Data](ext_articles/3e24f59b.ext.json)
-
----
-
-### 9 people injured in bus accident
-
-*2024-04-09 10:48:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-மாணவர்கள்-உள்ளிட்ட-9-பேர்-காயம்/175-335780) · `ta`
-
-9 injured in Sri Lanka bus accident near Nawalapitiya.
-
-🟩
-
-A bus belonging to the Sri Lanka Transport Board (SLTB) traveling from Tholaspake to Nawalapitiya has been hit by an accident.
-
-Three school children, five passengers and bus drivers were injured and admitted to the Nawalapitiya Hospital.
-
-The accident occurred at 6.45 am today (09) at Uduvella, Nawalapitiya.
-
-50 people, including school children, were traveling on the bus during the accident.
-
-◼️
-
-[Data](articles/75bd4088.json)
-
-[Extended Data](ext_articles/75bd4088.ext.json)
-
----
-
-### Maithripala traveled to Thailand
-
-*2024-04-09 10:45:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்லாந்துக்கு-பயணமானார்-மைத்திரிபால/175-335779) · `ta`
-
-Maithripala Sirisena, former President, visited Thailand, leaving for Bangkok at 12.55 am.
-
-🟩
-
-Former President Maithripala Sirisena left the country this morning on a visit to Thailand.
-
-They left for Bangkok, Thailand at around 12.55 am this morning.
-
-◼️
-
-[Data](articles/e055a060.json)
-
-[Extended Data](ext_articles/e055a060.ext.json)
-
----
-
-### A group of criminal gang arrested
-
-*2024-04-09 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195462) · `si`
-
-16 suspects, including 8 organized crime gangs, arrested in Wellawatte, Mithigoda, Keselwatta, Rathgama, Mount Lavinia, and Angoda in Western and Southern Provinces.
-
-🟩
-
-In several parts of the island, 16 suspects have been arrested for organizational criminal gang members and their relationships.
-
-The suspects were arrested in the special operation of the Western Province and Southern Province.
-
-The suspects have been arrested in Wellawatte, Mithigoda, Keselwatta, Rathgama, Mount Lavinia and Angoda.
-
-Among the arrested persons were arrested by the police eight organized crime gangs and their relations with them.
-
-◼️
-
-[Data](articles/ffec8f0c.json)
-
-[Extended Data](ext_articles/ffec8f0c.ext.json)
 
 ---

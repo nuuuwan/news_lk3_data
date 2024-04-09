@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 17:54:08**
+As of **2024-04-09 18:09:59**
 
 ## Newspaper Stats
 
-*Scraped **18,094** Articles*
+*Scraped **18,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,64 @@ newsfirstlk | 363
 dailyftlk | 987
 islandlk | 992
 economynextcom | 1,004
-adalk | 1,526
+adalk | 1,527
 tamilmirrorlk | 2,122
-adaderanalk | 2,174
+adaderanalk | 2,175
 virakesarilk | 2,669
 dailymirrorlk | 2,761
-adaderanasinhalalk | 2,934
+adaderanasinhalalk | 2,935
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,094 (100.0%) of 18,094 articles have been extended.
+18,094 (100.0%) of 18,097 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### International court rules Switzerland violated human rights in landmark climate case brought by 2,000 women
+
+*2024-04-09 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98540/international-court-rules-switzerland-violated-human-rights-in-landmark-climate-case-brought-by-2000-women) · `en`
+
+An international court in France on Tuesday ruled Switzerland’s failure to adequately tackle the climate crisis was in violation of human rights, in a landmark climate judgment that could have a ripple effect across the globe.
+
+The European Court of Human Rights (ECHR) in Strasbourg, France delivered its ruling in a case brought by more than 2,000 Swiss women, the majority of whom are in their 70s, against Switzerland’s government. They argued that climate change-fueled heat waves undermined their health and quality of life, and put them at risk of dying.
+
+The court ruled that the Swiss government had violated some of the women’s human rights due to “critical gaps” in its national legislation to reduce planet-heating emissions, as well as a failure to meet past climate targets.
+
+This amounted to a breach of the women’s rights to effective protection from the “the serious adverse effects of climate change on lives, health, well-being and quality of life,” the court said in a statement.
+
+...
+
+[Data](articles/eb3e45df.json)
+
+---
+
+### පන්සලේදී ඝාතනය වූ බවට සැක පුද්ගලයා ගැන අලුත් කතාවක්
+
+*2024-04-09 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195480) · `si`
+
+මහනුවර ගැටඹේ දියකපනාතොට ශ්‍රී රක්ඛංග විහාර පරිශ්‍රයේදී ඝාතනයට ලක්වූ බවට පැවසෙන පුද්ගලයාගේ දේහය භාරගැනීම ඔහුගේ ඥාතීන් විසින් ප්‍රතික්ෂේප කර ඇති බවට වාර්තාවෙයි.
+
+යම්කිසි අපරාධයක් සඳහා පන්සල තුළට ඇතුල් වූ බවට ඇතිවූ සැකය මත සිදුකළ පහරදීමකින් ඔහු මියයන්නට ඇති බවට පොලීසිය සැකපළ කරයි.
+
+එම ඝාතනය සම්බන්ධයෙන් මේ වනවිට ශ්‍රී රක්ඛංග විහාරයේ විහාරාධිපති හිමි සහ සිවිල් ආරක්ෂක භටයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඔහුගේ පළමු විවාහයේ බිරිඳ පවසා ඇත්තේ දික්කසාද වී ඇති බැවින් දේහය භාරගැනීමට නොහැකි බවය.
+
+එසේම මියයන අවස්ථාව වනවිට ඔහු සමග වාසය කළ කාන්තාව පොලීසිය වෙත පවසා ඇත්තේ තමන් කුලී පදනම මත සිටින බැවින් දේහය භාරගැනීමට නොහැකි බවය.
+
+ඒ අනුව දේහය භාරගැනීමට කිසිවෙකුත් ඉදිරිපත් නොවීම හේතුවෙන් දේහය පිළිබඳව අවසන් කටයුතු රජයේ වියදමින් සිදුකිරීම සඳහා අවශ්‍ය ඉදිරි අධිකරණමය කටයුතු සිදුකිරීමට පොලීසිය තීරණය කර ඇත.
+
+මේ අතර මෙම ඝාතනය සම්බන්ධයෙන් ඉදිරි පරීක්ෂණ කටයුතු මහනුවර පොලීසිය විසින් සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/04bd9d5b.json)
+
+---
 
 ### Russia and China reminds of the limits that there are no limits
 
@@ -757,6 +799,24 @@ Accordingly, over 7,350 security personnel have already been deployed with 5,580
 [Data](articles/46f74f6c.json)
 
 [Extended Data](ext_articles/46f74f6c.ext.json)
+
+---
+
+### අවුරුදු 15ක පාසල් සිසුවියකට අතවර කළ ක්‍රීඩා ගුරුවරයෙකු අත්අඩංගුවට
+
+*2024-04-09 14:56:40* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-15ක-පාසල්-සිසුවියකට-අතවර-කළ ක්‍රීඩා-ගුරුවරයෙකු-අත්අඩංගුවට/11-409034) · `si`
+
+බුත්තල අධ්‍යාපන කොට්ඨාසයේ පාසලක 11 වසරේ ඉගෙනුම ලබන පාසල් ශිෂ්‍යාවක් සමඟ ප්‍රේම සම්බන්ධතාවයක් පවත්වාගෙන ගිය එම පාසලේ ක්‍රීඩා ගුරුවරයා ඇයට ලිංගික අතවරයක්කිරීම සම්බන්ධයෙන් බුත්තල පොලීසිය මඟින් ඉකුත් (08) වෙනිදා අත්අඩංගුවටගෙන ඇත.
+
+සැකකරු බුත්තල යුදඟනාව ජනපදයේ පදිංචි 33 හැවිරිදි අයෙකි. සැකකරු දැරියට අවුරුදු 15 මාස 04 වන 2022 නොවැම්බර් මාසයේදී ප්‍රේම සම්බන්ධතාවයක් පවත්වාගෙන ගොස් ඇයගේ කැමැත්ත මත නිවසෙන් පිටතටගෙන ඇයගේ නිවස පිටුපසදී රාත්‍රී 12.30 පමණ ලෙස අඹු සැමියන් ලෙස හැසිරී ඇති අතර 2024/03/29 දින රාත්‍රී 12.30 පමණ ඇය සමඟ කථාබස්කර ඇයව නිවසෙන් පිටතටගෙන එම නිවස පිටුපස මඩුවකදීද අතවරයට ලක් කර ඇත.
+
+මෙම ප්‍රේම සම්බන්ධතාවය දැරියගේ පියා දැනගැනීමෙන් පසු එය නතරකරන ලෙස අවවාදකිරීම නිසා 2024/04/04 වෙනි දින දැරිය වස වර්ගයක් පානයකොට දැනට මොනරාගල දිස්ත්‍රික් මහ රෝහලේ ප්‍රතිකාර ලබමින් පසුවේ.
+
+අයගේ තත්වය බරපතළ නොවන අතර පොලීසිය ප්‍රශ්නකිරීමේදී පාසලේ ක්‍රීඩා ගුරුවරයා සමඟ අවස්ථා කිහිපයකදී අඹුසැමියන් ලෙස හැසිරුණු බව පොලීසියට පවසා ඇත.
+
+...
+
+[Data](articles/ba22e526.json)
 
 ---
 
@@ -2263,71 +2323,5 @@ Asked about the latest developments, a government source said the government to 
 [Data](articles/6ab5b67d.json)
 
 [Extended Data](ext_articles/6ab5b67d.ext.json)
-
----
-
-### Sri Lanka hard-pressed against time to conclude agreements for debt restructuring
-
-*2024-04-09 08:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-hard-pressed-against-time-to-conclude-agreements-for-debt-restructuring/155-280442) · `en`
-
-Colombo, April 9 (Daily Mirror) - Sri Lanka is hard-pressed against time to reach agreements with creditors including bondholders before June, when the third tranche of the International Monetary Fund (IMF) extended fund facility is expected, Daily Mirror learns.
-
-Sri Lanka is expected to get the next tranche of US $ 337 million in June after the third review of the programme.
-
-Before that, Sri Lanka has to sign the MoU with the Paris Club of Nations on restructuring bilateral debts while signing a separate agreement with China for the same purpose but on terms acceptable to all the bilateral creditors.
-
-Asked about the latest developments, a government source said the government to finalize the agreements in principle with commercial creditors including bondholders before that.
-
-...
-
-[Data](articles/913bd32d.json)
-
-[Extended Data](ext_articles/913bd32d.ext.json)
-
----
-
-### Showers expected in parts of the island
-
-*2024-04-09 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98526/showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers may occur at a few places in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts after 2.00 p.m.
-
-Misty conditions can be expected at some places in Western, Central and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-On the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka during 05th to 15th of April in this year.
-
-The nearest areas of Sri Lanka over which the sun is overhead today (09) are Udappu, Andigama, Pidivilla, Bakamuna, Nuwaragala and Eravur at about 12:11 noon.
-
-◼️
-
-[Data](articles/8ceda248.json)
-
-[Extended Data](ext_articles/8ceda248.ext.json)
-
----
-
-### Special decision on Islamic inmates
-
-*2024-04-09 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195457) · `si`
-
-The prison department has made special arrangements for Islamic inmates during Ramadan, including allowing only confectionery and sanitation items for visitors. Commissioner General Gamini B. Gamini B. Dissanayake emphasized these measures.
-
-🟩
-
-The prison department has taken steps to show the visitors to the Ramadan Day this time.
-
-Accordingly, the Commissioner General of Prisons Gamini B. Gamini B. Gamini B.. Dissanayake added.
-
-The limestone brought by relatives of Islamic detainees have been instructed to bring only a sufficient amount of confectionery and sanitation.
-
-Prison commissioners Gamini B. Gamini B.. Dissanayake added.
-
-◼️
-
-[Data](articles/912ab124.json)
-
-[Extended Data](ext_articles/912ab124.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 02:34:50**
+As of **2024-04-10 02:50:19**
 
 ## Newspaper Stats
 
@@ -52,9 +52,9 @@ Even if Sri Lanka is eventually able to “successfully” exit the IMF program,
 
 *2024-04-10 01:30:38* · [`dailyftlk`](https://www.ft.lk/columns/A-Hindu-presidential-candidate-and-the-Hindu-Tamil-Eelam-concept/4-760530) · `en`
 
-Current media coverage in Sri Lanka is heavily focused on the forthcoming Presidential elections. Though officially not announced yet, it seems a foregone conclusion that the presidential poll would take place later this year. Several potential candidates ranging from incumbent president Ranil Wickremesinghe to media magnate Dilith Jayaweera are tipped to be in the presidential fray.
+Siva Senai leader Satchithanandam and those of his ilk are seemingly successful in the short term in their anti-Christian action. But in the long term their actions are succeeding in weakening Tamil nationalism by driving the Hindu-Christian wedge in between. In that sense Satchithanandan is accomplishing what the historic enemies of Tamil nationalism have been unable to do in the past – Divide Tamils! The sad irony in this is that Satchi himself was nurtured in the nursery of Tamil nationalism and regards himself as Tamil nationalist still
 
-Adding to this uncertain state of affairs are recent attempts by vested interests to field a “Hindu” as a common presidential candidate in the 2024 election. Even as people were becoming aware of efforts by interested parties to nominate a Hindu presidential candidate, the head of a Hindu organisation in northern Sri Lanka issued a public statement calling for a common candidate to contest the forthcoming presidential poll on behalf of all Hindus in the island. Furthermore Hindus were asked to vote for Mano Ganesan MP as the presidential candidate.
+Current media coverage in Sri Lanka is heavily focused on the forthcoming Presidential elections. Though officially not announced yet, it seems a foregone conclusion that the presidential poll would take place later this year. Several potential candidates ranging from incumbent president Ranil Wickremesinghe to media magnate Dilith Jayaweera are tipped to be in the presidential fray.
 
 ...
 

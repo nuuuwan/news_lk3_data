@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 10:33:34**
+As of **2024-04-09 10:51:22**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 2,917
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,005 (100.0%) of 18,006 articles have been extended.
+18,006 (100.0%) of 18,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### ලංගම බස් රථයක් අනතුරක - පාසල් ළමුන් ඇතුළු පිරිසක් රෝහලට
+### SLTB bus accident
 
 *2024-04-09 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195461) · `si`
 
-දොළොස්බාගේ සිට නාවලපිටිය දක්වා ධාවනය වු ලංගම බස් රථයක් මාර්ගය අසල පිහිටි කන්දක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+A SLTB bus from Dolosbage to Nawalapitiya was involved in an accident, injuring three schools, five passengers, and the driver.
 
-එහිදී බස් රථයේ ගමන් ගත් පාසල් ළමුන් තිදෙනෙකු, මගීන් පස්දෙනෙකු සහ බස් රථයේ රියදුරා තුවාල ලබා නාවලපිටිය රෝහලට ඇතුළත් කර ඇත.
+🟩
+
+A SLTB bus traveling from Dolosbage to Nawalapitiya has accidentally caught the accident.
+
+Three schools, five passengers and the driver of the bus were injured and injured and injured and injured and injured.
 
 ◼️
 
 [Data](articles/02c7c2cc.json)
+
+[Extended Data](ext_articles/02c7c2cc.ext.json)
 
 ---
 

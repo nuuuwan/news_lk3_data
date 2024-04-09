@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 00:03:16**
+As of **2024-04-10 00:18:26**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 2,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,151 (100.0%) of 18,155 articles have been extended.
+18,155 (100.0%) of 18,155 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### 19இன் கீழ் மகளிர் 50 ஓவர் மும்முனை கிரிக்கெட் : இங்கிலாந்தை 108 ஓட்டங்களால் வெற்றிகொண்டது இலங்கை
+### Sri Lanka won by 108 runs
 
 *2024-04-09 23:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/180851) · `ta`
 
-காலி சர்வதேச விளையாட்டரங்கில் செவ்வாய்க்கிழமை (09) நடைபெற்ற 19 வயதுக்குட்பட்ட மகளிர் ஒருநாள் மும்முனை கிரிக்கெட் தொடரின் கடைசிப் போட்டியில்  இங்கிலாந்தை   108 ஓட்டங்களால் மிக இலகுவாக இலங்கை வெற்றிகொண்டது.
+Sri Lanka's U-19 women won by 108 runs in the ODI series at Galle, thanks to Rashmika's 59 runs, Samodhi Munasinghe's 5 wickets, and Thevmi Wijeratne's 4 wickets. England U-19 lost by 118 runs, with Amuruda Suren Kumar scoring 25 runs.
 
-ரஷ்மிக்கா செவ்வந்தி குவித்த அரைச் சதம், சமோதி முனசிங்கவின் 5 விக்கெட் குவியல், தெவ்மி விஜேரத்னவின் சகலதுறை ஆட்டம் என்பன 19 வயதுக்குட்பட்ட இலங்கை மகளிர் அணியின் வெற்றியில் பிரதான பங்காற்றின.
+🟩
 
-இப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய இலங்கை யுவதிகள் அணி 48.4 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 226 ஓட்டங்களைப் பெற்றது.
+Sri Lanka won by 108 runs in the last match of the Under -19 Women's ODI series held at the Galle International Stadium on Tuesday (09).
 
-சஞ்சனா காவிந்தி, சுமுது நிசன்சலா  ஆகிய இருவரும்   முதலாவது விக்கெட்டில் 68 ஓட்டங்களைப் பகிர்ந்து சிறந்த ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+The half -century of Rashmika, the five -wicket pile of Samodhi Munasinghe and the All -Red Cross of Thevmi Wijeratne, played a major role in the success of the Sri Lankan women's team under the age of 19.
 
-அவர்கள் இருவரும் தலா 27 ஓட்டங்களுடனும் விமோக்ஷா பாலசூரிய ஒரு ஓட்டத்துட னும்   2 ஓட்டங்கள் வித்தியாசத்தில் அடுத்தடுத்து ஆட்டம் இழந்தனர்.
+The Sri Lankan women lost all the wickets in 48.4 overs and scored 226 runs.
 
-தொடர்ந்து அணித் தலைவி மனுதி நாணயக்கார, தெவ்னி விஜேரத்ன ஆகிய இருவரும் 4ஆவது விக்கெட்டில் 54 ஓட்டங்களைப் பகிர்ந்து அணிக்கு உற்சாகத்தைக் கொடுத்தனர்.
+Sanjana Kavindi and Sumuthu Nishansala shared 68 runs in the first wicket and put the best start.
+
+They both lost 27 runs each and Vimksha Balasuriya lost by 2 runs.
+
+Subsequently, the team captain Manji Nanayakkara and Theveni Wijeratne shared 54 runs in the 4th wicket.
+
+Rashmika scored 59 runs and scored 17 runs and shared 40 runs in the 6th wicket with Netrajal, who scored 17 runs.
+
+In bowling, Saris Pavli took 2 wickets for 16 runs, Amuruda Suren Kumar took 2 wickets for 21 runs while Sobi Small took 2 wickets for 34 runs.
 
 ...
 
 [Data](articles/508795e5.json)
+
+[Extended Data](ext_articles/508795e5.ext.json)
 
 ---
 
@@ -568,6 +578,8 @@ HIPG is a joint venture between China’s CM Ports group and Sri Lanka Ports Aut
 
 [Data](articles/2029c48b.json)
 
+[Extended Data](ext_articles/2029c48b.ext.json)
+
 ---
 
 ### Public amnesty for 779 prisoners on Tamil and Sinhala New Year
@@ -866,21 +878,29 @@ A group of individuals staged a demonstration opposite the Fort Railway Station,
 
 ---
 
-### ஜனாதிபதி, பொதுத் தேர்தல் இரண்டும் ஒரே நேரத்தில் இடம்பெறாது -  ஐக்கிய தேசிய கட்சி
+### The President and the General Elections are not held simultaneously - the United National Party
 
 *2024-04-09 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180842) · `ta`
 
-ஜனாதிபதி தேர்தல் மற்றும் பொதுத் தேர்தல் ஆகிய இரண்டும் ஒரே நேரத்தில் இடம்பெறாது. ஜனாதிபதி தேர்தலில் ரணில் விக்ரமசிங்க யானை சின்னம் அல்லாத வேறு ஒரு சின்னத்திலேயே போட்டியிடுவார் என ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினரும் ஜனாதிபதியின் பாராளுமன்ற விவகாரங்கள் தொடர்பான பிரதானியுமான ஆஷு மாரசிங்க தெரிவித்தார்.
+The Presidential and General Elections in Sri Lanka won't occur simultaneously. Ranil Wickremesinghe, a former UNP member, will run for president without the elephant symbol. The presidential election is set for September-October, while the general election will follow. Wickremesinghe has the backing of 80% of the UNP, including Prasanna Ranatunga. The party aims to unite all sides and build the economy with international support.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் நேற்று இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-நாட்டில் இடம்பெற இருக்கும் தேர்தல் தொடர்பில் பலரும் பல்வேறு கருத்துக்களை தெரிவித்து வருகின்றனர். ஜனாதிபதி தேர்தல், பொதுத் தேர்தல் ஆகிய இரண்டும் ஒரே நேரத்தில் இடம்பெறும் எனவும் சிலர் தெரிவித்து வருகின்றனர். ஆனால் ஜனாதிபதி தேர்லும் பொதுத் தேர்தலுக்கும் ஒரே நேரத்தில் இடம்பெறாது.
+The presidential and general election will not take place simultaneously. Ranil Wickremesinghe will contest the presidential election in a non -elephant symbol, said Ashu Marasinghe, a former United National Party (UNP) Member and the President's Parliamentary Affairs.
 
-அவ்வாறு நடத்தவும் முடியாது. அரசியலமைப்பின் பிரகாரம் எதிர்வரும் செப்டம்பர், ஒக்டோபர் காலத்துக்குள் ஜனாதிபதி தேர்தல் இடம்பெறவேண்டும். பொதுத் தேர்தலுக்கு செல்ல இன்னும் காலம் இருக்கிறது.
+He was speaking at a press conference held at the UNP headquarters in Sirikotha yesterday.
+
+Many people have been making various comments on the elections in the country. Some people also say that both the presidential election and the general election will be held simultaneously. But the presidential election and the general election will not be held simultaneously.
+
+Cannot do so. According to the Constitution, the presidential election must be held in September and October. There is still time to go to the general election.
+
+Ranil Wickremesinghe is definitely contesting the presidential election. However, as he is contesting as a common candidate, he will compete in a symbol other than the elephant symbol.
 
 ...
 
 [Data](articles/1476c546.json)
+
+[Extended Data](ext_articles/1476c546.ext.json)
 
 ---
 
@@ -1863,6 +1883,8 @@ At the local government polls, a party candidate must pay 6,000 rupees as deposi
 ...
 
 [Data](articles/5b84a71f.json)
+
+[Extended Data](ext_articles/5b84a71f.ext.json)
 
 ---
 

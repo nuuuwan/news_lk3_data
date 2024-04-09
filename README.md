@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 12:34:08**
+As of **2024-04-09 12:50:57**
 
 ## Newspaper Stats
 
-*Scraped **18,026** Articles*
+*Scraped **18,028** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 159
-bbccomsinhala | 189
+bbccomsinhala | 190
 dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 987
@@ -18,7 +18,7 @@ economynextcom | 996
 adalk | 1,516
 tamilmirrorlk | 2,119
 adaderanalk | 2,167
-virakesarilk | 2,656
+virakesarilk | 2,657
 dailymirrorlk | 2,749
 adaderanasinhalalk | 2,920
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 2,920
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,024 (100.0%) of 18,026 articles have been extended.
+18,026 (100.0%) of 18,028 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-04-09 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180804) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (ஏப்ரல் 09) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 294.0863 ஆகவும் விற்பனை விலை ரூபா 303.4415 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e2a62c6f.json)
+
+---
 
 ### March marks yet another record in global heat
 
@@ -49,6 +61,8 @@ The 12 months ending with March also ranked as the planet’s hottest ever recor
 ...
 
 [Data](articles/9d13c97d.json)
+
+[Extended Data](ext_articles/9d13c97d.ext.json)
 
 ---
 
@@ -113,6 +127,8 @@ Dr. Wickramanayake, who currently remains under remand custody over the alleged 
 ...
 
 [Data](articles/c59902bd.json)
+
+[Extended Data](ext_articles/c59902bd.ext.json)
 
 ---
 
@@ -1234,6 +1250,24 @@ Accordingly, the sun will overcome the presence of Udupuvu, Audigura, Bakamuna, 
 
 ---
 
+### අවුරුදු නැකත: නැකත් සිට්ටුව හා සැමරීම්    සම්ප්‍රදාය ආරම්භ වූයේ කවදාද?
+
+*2024-04-09 05:56:16* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0den0jljjyo) · `si`
+
+අවුරුදු නැකත: නැකත් සිට්ටුව හා සැමරීම්    සම්ප්‍රදාය ආරම්භ වූයේ කවදාද?
+
+ලොව පුරා ජීවත් වන මිලියන ගණනක ජනතාව නව වසර උදාව ජනවාරි පළමුවන දා සමරන නමුත්, මුහුදෙන් වට වූ කුඩා දිවයිනක් වන සුන්දර ශ්‍රී ලංකාවේ ජීවත් වන බහුතරයක් ජනතාව අවුරුදු උදාව සමරන්නේ අප්‍රේල් මාසයේ දී ය. සූර්යයා මීන රාශියේ සිට මේෂ රාශියට පැමිණීමත් සමඟ නව වසරක ආරම්භය සනිටුහන් වන බව ඔවුන්ගේ විශ්වාසයයි. දුර ඈත අතීතයේ සිට වගාවන්හි අස්වනු නෙලා, කිරට නැමුණු රන්වන් ගොයම් කපා රට වැසියන් නව අවුරුදු උදාවට සූදානම් වෙද්දී, පරිසරය ද නව පනක් ලැබුවා සේ රත් පැහැ එරබදු මලින් පමණක් නොව විවිධ පැහැ මල් පිපී  කොහාගේ කොහෝ කොහෝ යන මියුරු නදින් ඇලලී යයි.
+
+සෘතු භේදය අන් රටවල මෙන් නිරීක්ෂණය කළ නොහැකි වුවත් වසන්ත ඍතුවක ස්වභාවය කැටිකරගත් අප්‍රේල් මාසයේ එළඹෙන සිංහල දෙමළ අලුත් අවුරුදු සැමරුම පදනම් වී ඇත්තේ ජ්‍යොතිෂය මත සැකසුණු නැකැත් චාරිත්‍ර මතයි.
+
+අධික අවුරුද්දක් වන මේ වසරේ පරණ අවුරුද්ද සහ අලුත් අවුරුද්ද යන දෙදින අප්‍රේල් 12 සහ 13 වන දින ලෙස නිවේදනය කර තිබේ.
+
+...
+
+[Data](articles/be7d951d.json)
+
+---
+
 ### Health guidelines issued ahead of festive season
 
 *2024-04-09 04:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-guidelines-issued-ahead-of-festive-season/108-280439) · `en`
@@ -2181,49 +2215,5 @@ A beverage company in the Port City held a breaking fast (Ifthar) banquet today 
 [Data](articles/2040b6fd.json)
 
 [Extended Data](ext_articles/2040b6fd.ext.json)
-
----
-
-### 53 inmates were killed in 3 months
-
-*2024-04-08 20:33:50* · [`adalk`](https://www.ada.lk/breaking_news/මාස-3ට-බන්ධනාගාරය-තුළ-රැඳවියන්-53ක්-මියගිහින්/11-409025) · `si`
-
-In 2023, 209 prison inmates were killed, including 53 in January-March. Six patients and 203 male inmates, including three foreign nationals, were present.
-
-🟩
-
-53 prison inmates have been killed in January 1 to 31 March, March 31, prison. Dissanayake said.
-
-209 prison inmates have been killed in the year 2023. Meanwhile, six patients and 203 male inmates are also present. Among them were three foreign nationals.
-
-◼️
-
-[Data](articles/99886cb9.json)
-
-[Extended Data](ext_articles/99886cb9.ext.json)
-
----
-
-### 695 AIDS patients were identified for 3 months
-
-*2024-04-08 20:29:18* · [`adalk`](https://www.ada.lk/breaking_news/මාස-3ට-ඒඩ්ස්-ආසාදිතයින්--695ක්-හදුනා-ගැනෙයි/11-409024) · `si`
-
-695 AIDS patients identified over 3 months. HIV cases in Colombo clinic rise to 47%. Unawareness among youths contributes. Jankanarachchi advocates for comprehensive sex education. A phone app allows confidential self-testing for HIV and STDs.
-
-🟩
-
-The Director of STDs and AIDS, the Director of Aff.
-
-The health regards have been found in every district of the island, and the number of HIV classes identified in the clinic in Colombo has increased to forty-seven percent.
-
-The health sector points out that this situation has developed due to the unconsciousness of STDs in the youths. Medical Special Jankanarachchi states that a perfect sex education should be given to the age.
-
-If a person has been having a HIV and STD, it can be contacted through the phone app app applied to a disease and reserve it into a disease. Then the information on their own self-test set has been confidentially imported.
-
-◼️
-
-[Data](articles/3778e643.json)
-
-[Extended Data](ext_articles/3778e643.ext.json)
 
 ---

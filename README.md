@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 13:34:13**
+As of **2024-04-09 13:52:54**
 
 ## Newspaper Stats
 
-*Scraped **18,038** Articles*
+*Scraped **18,040** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ islandlk | 992
 economynextcom | 996
 adalk | 1,517
 tamilmirrorlk | 2,119
-adaderanalk | 2,169
+adaderanalk | 2,170
 virakesarilk | 2,659
 dailymirrorlk | 2,752
-adaderanasinhalalk | 2,922
+adaderanasinhalalk | 2,923
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,037 (100.0%) of 18,038 articles have been extended.
+18,038 (100.0%) of 18,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### Candidate deposits for Presidential, Parliamentary and PC elections increased
+
+*2024-04-09 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98535/candidate-deposits-for-presidential-parliamentary-and-pc-elections-increased) · `en`
+
+Cabinet approval has been received to increase the deposits placed by candidates for the Presidential election, increasing the deposit of a candidate representing a recognised political party to Rs. 2.6 million and an independent party to Rs. 3.1 million.
+
+Since it was recognized that it is appropriate to update the existing deposit monetary limits in a timely manner according to the current social, economic and political background as per the provisions of the Presidential Elections Act, the Parliamentary Elections Act and the Provincial Council Elections Act, Minister of Justice Wijeyadasa Rajapakshe had presented the proposal to instruct the legal draftsman to draft a bill related to matter.
+
+Accordingly, the deposit money limits will be amended as follows;
+
+1.The deposit of a candidate from a recognized political party will be increased to Rs. 2.6 million and an independent candidate to Rs. 3.1 million, according to the Presidential Elections Act No. 15 of 1981.
+
+...
+
+[Data](articles/c748edff.json)
+
+---
+
+### ගම්පහ වෙඩික්කරුවන් ආ හැටි CCTV කැමරාවේ
+
+*2024-04-09 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195467) · `si`
+
+ගම්පහ, කටුගස්තර ප්‍රදේශයේදී වෙඩි තබා ඝාතනය කළ පුද්ගලායට කිසිදු අපරාධ චෝදනාවක් නොමැති බව පොලීසිය පවසයි.
+
+කෙසේවෙතත් ඔහුට වෙඩිතැබීමට හේතුව මෙතෙක් අනාවරණ වී නොමැති අතර වෙඩික්කරුවන් පැමිණෙන අයුරු දැක්වෙන CCTV දර්ශන පෙළක් මාධ්‍ය වෙත ලැබී තිබේ.
+
+ගම්පහ, උඩුගම්පොළ, කටුගස්තර ප්‍රදේශයේදී ඊයේ (08) පස්වරු 4ට පමණ වාහන අලුත්වැඩියා කරන ස්ථානයකදී වෙඩි තැබීමක් සිදුව තිබිණි.
+
+මේ වෙඩික්කරුවන් වෙඩිතැබීමට පැමිණෙන අයුරු දැක්වෙන CCTV රූපරාමු පෙළක් ද මාධ්‍යයට ලැබී තිබිණි.
+
+සිද්ධිය සම්බන්ධයෙන් පෑලියගොඩ අපරාධ කොට්ඨාසය ඇතුළු විමර්ශන කණ්ඩායම් කිහිපක් මේවන විට පරීක්ෂණ ආරම්භ කර තිබේ.
+
+ඔහු මේවන විට විදේශගතව සැඟව සිටින සංවිධානාත්මක අපරාධකරුවකු වන කෙහෙල්බද්දර චානක නැමැත්තාගේ මස්සිනා බව පොලීසිය සඳහන් කළේය.
+
+මේවන විට පොලිස් අත්අඩංගුවේ පසුවන ගණේමුල්ල සංජීව නැමැත්තාගේ සමීපතමයන් වන දැනට විදේශගතව සැඟව සිටින ලක්මාල් නැමැත්තෙක් හා දිනේෂ් වසන්ත නැමැත්තෙක් විසින් මෙම ඝාතනය මෙහෙයවා ඇතැයි සැක කරන බව පොලීසිය පැවසීය.
+
+...
+
+[Data](articles/830a46e7.json)
+
+---
 
 ### Sri Lanka to establish diplomatic relations with Republic of Chad
 
@@ -94,9 +136,13 @@ Accordingly, the government has decided to increase the number of schools to 1,0
 
 The Cabinet of Ministers has granted approval for the admission of local students for the MBBS medical degree programme at General Sir John Kotelawala Defence University starting from this year.
 
-The admissions will be carried out on payment basis and based on ‘Z’ score at G.C.E. Advanced Level and other qualifications, the Cabinet Spokesman Minister Bandula Gunawardena said.
+The admissions will be carried out on payment basis and based on ‘Z’ score at G.C.E. Advanced Level and other specified qualifications, the Cabinet Spokesman Minister Bandula Gunawardena said.
 
-◼️
+The General Sir John Kotalawala Defense University (KDU) was declared a University by the General Sir John Kotalawala State Defense Training Institute (Amendment) Act No. 27 of 1988.
+
+Meanwhile, the Faculty of Medicine of the university was established in the year 2011 to train cadet officers as medical professionals and award degrees in Medicine and Surgery (MBBS) as per the service requirements of the Armed Services.
+
+...
 
 [Data](articles/3375218b.json)
 
@@ -464,17 +510,23 @@ At a function held at the Regiment Center of the Gajaba Brigade, the minister sa
 
 ---
 
-### කපිල වික්‍රමනායකගේ ඇප ඉල්ලීම ගැන තීන්දුව 26දා
+### Decision on Kapila Wickremanayake's bail
 
 *2024-04-09 10:49:34* · [`adalk`](https://www.ada.lk/breaking_news/කපිල-වික්‍රමනායකගේ-ඇප-ඉල්ලීම-ගැන-තීන්දුව-26දා/11-409026) · `si`
 
-බාල බෙහෙත් ජාවාරම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රිමාන්ඩ් භාරයට පත්කර තිබෙන සෞඛ්‍ය අමාත්‍යාංශයේ හිටපු ලේකම් කපිල වික්‍රමනායක මහතාගේ ඇප ඉල්ලීම පිළිබඳ තීන්දු ලබන 26 දා ප්‍රකාශයට පත්කරන බව අභියාචනාධිකරණය අද දැනුම් දුන්නේය.
+The Court of Appeal postponed the bail decision for former Health Secretary Kapila Wickramanayaka to the 26th.
 
-එම ඇප ඉල්ලීම සම්බන්ධයෙන් වන තීන්දුව අද දිනයේදී ප්‍රකාශයට පත්කිරීමට නියමිතව තිබුණත් එම තීන්දුව ප්‍රකාශයට පත්කිරීම ලබන 26 දා තෙක් කල් දැමුණි.
+🟩
+
+The Court of Appeal has informed the bail of former Secretary to the Ministry of Health, Kapila Wickramanayaka declared on the 26th of this month.
+
+The verdict on the request was due to be announced today, but the declaration was postponed until the 26th.
 
 ◼️
 
 [Data](articles/3e24f59b.json)
+
+[Extended Data](ext_articles/3e24f59b.ext.json)
 
 ---
 
@@ -2169,39 +2221,5 @@ British Council in collaboration with ChildFund Sri Lanka, recently concluded an
 [Data](articles/c7bc7ac6.json)
 
 [Extended Data](ext_articles/c7bc7ac6.ext.json)
-
----
-
-### CSE reacts positively to debt moratorium time frame
-
-*2024-04-08 22:34:00* · [`islandlk`](http://island.lk/cse-reacts-positively-to-debt-moratorium-time-frame/) · `en`
-
-The CSE yesterday reacted in a very positive manner to a recent interview given by the Chief of staff to the President of Sri Lanka and National Security Advisor Sagala Ratnayake, to a media organization that Sri Lanka may likely get a debt moratorium until 2028.
-
-This was a major impetus to the stock market, which showed heavy buying interest, thus creating a bullish sentiment. Against this backdrop the market performed well and a strong rally on banking sector counters was noted throughout the day, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 130.4 points while S and P SL20 rose by 60.95 points. Turnover stood at Rs 3.2 billion with five crossings.
-
-...
-
-[Data](articles/730d59d6.json)
-
-[Extended Data](ext_articles/730d59d6.ext.json)
-
----
-
-### Teacher training programs for established 100 Capital Market Clubs
-
-*2024-04-08 22:34:00* · [`islandlk`](http://island.lk/teacher-training-programs-for-established-100-capital-market-clubs/) · `en`
-
-The Securities and Exchange Commission of Sri Lanka (SEC) in collaboration with the Colombo Stock Exchange (CSE) hosted several impactful teacher training programs for teachers of the established 100 Capital Market Clubs across the country. These teacher training programs were conducted in all three languages from the 13th March to 4th of April at teacher training centers across the nine provinces of country.
-
-The ‘Capital Market Club’ program is a strategic initiative designed in collaboration with the Presidential Secretariat and the Ministry of Education as well, aimed at fostering financial literacy throughout the education system of Sri Lanka.
-
-...
-
-[Data](articles/aa55c830.json)
-
-[Extended Data](ext_articles/aa55c830.ext.json)
 
 ---

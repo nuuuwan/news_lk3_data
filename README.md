@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 08:52:35**
+As of **2024-04-09 09:03:18**
 
 ## Newspaper Stats
 
-*Scraped **17,984** Articles*
+*Scraped **17,985** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 987
 islandlk | 992
 economynextcom | 996
 adalk | 1,513
-tamilmirrorlk | 2,112
+tamilmirrorlk | 2,113
 adaderanalk | 2,161
 virakesarilk | 2,646
 dailymirrorlk | 2,740
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,913
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,981 (100.0%) of 17,984 articles have been extended.
+17,984 (100.0%) of 17,985 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The nearest areas of Sri Lanka over which the sun is overhead today (09) are Uda
 ◼️
 
 [Data](articles/8ceda248.json)
+
+[Extended Data](ext_articles/8ceda248.ext.json)
 
 ---
 
@@ -196,6 +198,24 @@ In cases where strong winds and lightning impacts occur. Remble
 
 ---
 
+### ’மாற்றுத்திறனாளிகள் தொடர்பில் கருத்தியல் மாற்றம்’
+
+*2024-04-09 07:18:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாற்றுத்திறனாளிகள்-தொடர்பில்-கருத்தியல்-மாற்றம்/175-335775) · `ta`
+
+இம்முறை புத்தாண்டுக் கொண்டாட்டத்தின் போது மாற்றுத்திறனாளிகள் குறித்து. சமுதாயத்தில் கருத்தியல் ரீதியிலான மாற்றத்தை ஏற்படுத்துவதற்காக, முட்டி உடைத்தல் குருடனுக்கு உணவளித்தல் என்பன 'அதிர்ஷ்ட பானையை உடைத்தல், பார்வையற்றவர்களுக்கு உணவளித்தல்' என மாற்றப்பட்டுள்ளதாக சமூக வலுவூட்டல் இராஜாங்க அமைச்சர் அனுப பஸ்குவல் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+இவ்வருட புத்தாண்டுக்காக சமுர்த்தி வேலைத்திட்டத்தில் உள்ள அனைத்து வங்கிகளும் இணைந்து நாடளாவிய ரீதியில் 1089 புத்தாண்டு கொண்டாட்டங்களை நடத்துவதற்கு ஏற்பாடுகள் செய்துள்ளன.
+
+அதன்போது மாற்றுத்திறனாளிகள் குறித்து சிறப்பு கவனம் செலுத்தப்பட்டுள்ளது. 'முட்டி உடைத்தல் குருடர்களுக்கு உணவளித்தல்' என்ற அம்சங்கள் சமூகத்தால் இதுவரை நிராகரிக்கப்பட்டுள்ளன. அதனை எமது அமைச்சும் ஏற்றுக்கொண்டுள்ளது. அதற்கு பதிலாக, 'அதிர்ஷ்டத்தின் பானையை உடைத்தல் மற்றும் தோழனுக்கு உணவளித்தல்' என்ற பெயர்களைப் பயன்படுத்துமாறு ஏற்பாட்டாளர்களுக்குத் தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/27c7fe70.json)
+
+---
+
 ### Model legal structures need to be modernized
 
 *2024-04-09 07:11:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்ட-கட்டமைப்புகள்-நவீனமயமாக்கப்பட-வேண்டும்/175-335774) · `ta`
@@ -314,6 +334,8 @@ After sweeping northeast through Mexico and then Texas, Arkansas and Ohio shortl
 
 [Data](articles/24d3acf2.json)
 
+[Extended Data](ext_articles/24d3acf2.ext.json)
+
 ---
 
 ### Permit
@@ -399,6 +421,8 @@ They provide organizers, participants and communities with essential strategies 
 ...
 
 [Data](articles/96c43ca4.json)
+
+[Extended Data](ext_articles/96c43ca4.ext.json)
 
 ---
 
@@ -2253,19 +2277,5 @@ The shooting was carried out with a pistol firearm while the police have commenc
 [Data](articles/92c80401.json)
 
 [Extended Data](ext_articles/92c80401.ext.json)
-
----
-
-### Preparing for Ramazan festival...
-
-*2024-04-08 16:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Preparing-for-Ramazan-festival/110-280400) · `en`
-
-As Ramazan, the month of fasting draws to an end, several Muslims in Pettah busy with their shopping to celebrate the Eid or festival marking the end of fasting, in a day or two. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/b06458a5.json)
-
-[Extended Data](ext_articles/b06458a5.ext.json)
 
 ---

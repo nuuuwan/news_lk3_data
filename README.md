@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 15:18:27**
+As of **2024-04-09 15:34:03**
 
 ## Newspaper Stats
 
-*Scraped **18,062** Articles*
+*Scraped **18,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,61 @@ tamilmirrorlk | 2,121
 adaderanalk | 2,170
 virakesarilk | 2,660
 dailymirrorlk | 2,755
-adaderanasinhalalk | 2,925
+adaderanasinhalalk | 2,927
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,061 (100.0%) of 18,062 articles have been extended.
+18,062 (100.0%) of 18,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### හමාස් බෑ කියයි
+
+*2024-04-09 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195471) · `si`
+
+සටන් විරාමයක් සඳහා ඊශ්‍රායලය ගෙන ආ යෝජනාවක් ප්‍රතික්ෂේප කළ බව හමාස් සංවිධානය නිවේදනය කළේය.
+
+ඊජිප්තුවේ කයිරෝ නගරයේ පැවැත්වෙන සාකච්ඡා අතරතුරදී ඊශ්‍රායලය විසින් එම සටන් විරාම යෝජනාව ඉදිරිපත් කර තිබුණි.
+
+මේ අතර ඊශ්‍රායල අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහු පැවසුවේ ගාසා තීරයේ රෆා ප්‍රදේශය ආක්‍රමණය සඳහා ඊශ්‍රායල සැලසුම් සහ දිනය සම්බන්ධයෙන් තීරණයක් ගත් බවය.
+
+ඊශ්‍රායලය සහ හාමාස් සංවිධානය විසින් ඊජිප්තුවේ පැවැත්වෙන සාකච්ඡා සඳහා ඉරිදා කණ්ඩායම් යවා තිබුණි.
+
+එම සාකච්ඡා සඳහා අතරමැදියන් ලෙස කටාර් සහ ඊජිප්තුව කටයුතු කරයි. එසේම අමෙරිකාවේ මධ්‍යම තොරතුරු කාර්යාංශයේ විලියම් බර්න්ස් ද ඊට එක්වෙයි.
+
+◼️
+
+[Data](articles/eca46dea.json)
+
+---
+
+### මැතිවරණ කොමිසම ඡන්දෙට වැඩ අරඹයි
+
+*2024-04-09 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195470) · `si`
+
+ජූලි මස 17වන දිනට පසු ඕනෑම දිනයක ජනාධිපතිවරණයට අදාළ නාමයෝජනා පත්‍ර කැදවීමේ බලය ව්‍යවස්ථානුකූලව මැතිවරණ කොමිසමට හිමි වෙයි.
+
+මැතිවරණ කොමිසම මගින් ජනාධිපතිවරණය පැවැත්වීමට අවශ්‍ය කාලවකවානු තීරණය කිරීමෙන් පසු මැතිවරණ කොමසාරිස් ජනරාල්වරයා විසින් නාමයෝජනා පත්‍ර කැඳවීමට අදාළ ගැසට් නිවේදනය නිකුත් කරනු ඇති.
+
+ජනාධිපතිවරණය එළඹෙන සැප්තැම්බර් මස අඟ සතියේ හෝ ඔක්තෝම්බර් මස මුල් සතියේ පැවැත්වීමට නියමිත බව මේ වනවිට වාර්තා පළවෙයි.
+
+ප්‍රචාරක කටයුතු සඳහා දින 28ක් හෝ 35ක කාලයක් හිමිවන අතර ඒ අනුව ඡන්ද විමසීමට අදාළ නාමයෝජනා කැඳවීමේ දිනය තීරණය වනු ඇත.
+
+ඒ අවුය ජනාධිපතිවරණයට අදාළ මූලික කටයුතු මේ වනවිට මැතිවරණ කොමිසම විසින් ආරම්භ කර තිබේ.
+
+මේ අතර ප්‍රථමයෙන් ජනාධිපතිවරණය පවත්වන්නේ ද එසේත් නොමැති නම් මහමැතිවරණයක් පවත්වන්නේ ද යන්න පිළිබඳව මේ වන තෙක් අවසන් තීරණයක් ගෙන නොමැත.
+
+කෙසේවෙතත් මහමැතිවරණයක් පවත්වන ලෙස ජනාධිපතිවරයා වෙත ශ්‍රී ලංකා පොදු ජන පෙරමුණේ පාර්ශ්වය තුළින් එල්ලවන බලපෑම් තවදුරටත් පවතින බවද වාර්තා වෙයි.
+
+...
+
+[Data](articles/99966857.json)
+
+---
 
 ### World Netball bans transgender women from international competition
 
@@ -49,6 +93,8 @@ Women's netball at international level will now be restricted to players "record
 ...
 
 [Data](articles/955701c3.json)
+
+[Extended Data](ext_articles/955701c3.ext.json)
 
 ---
 
@@ -2231,39 +2277,5 @@ Present at the inauguration were Maersk South Asia Managing Director Vikash Agar
 [Data](articles/cd45f62e.json)
 
 [Extended Data](ext_articles/cd45f62e.ext.json)
-
----
-
-### Cabinet clears Electricity Sector Reforms Bill for Parliament approval
-
-*2024-04-09 00:54:21* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-clears-Electricity-Sector-Reforms-Bill-for-Parliament-approval/34-760485) · `en`
-
-Power and Energy Minister Kanchana Wijesekera announced that the Cabinet of Ministers approved the electricity sector reforms bill during its meeting yesterday.
-
-The Cabinet approval entails the green light to Gazette the amended version of the new electricity sector bill and to subsequently present it to Parliament for further consideration and approval.
-
-“The bill will be gazetted this week and is scheduled to be presented to Parliament in the last week of April. Upon its presentation, the public will have a two-week window to scrutinise and potentially challenge the bill,” he noted via ‘X’.
-
-The proposed electricity sector reforms bill marks a pivotal step in the Government’s efforts to modernise and streamline the electricity sector, aiming to enhance efficiency, reliability, and sustainability while fostering competition and innovation.
-
-◼️
-
-[Data](articles/6a646989.json)
-
-[Extended Data](ext_articles/6a646989.ext.json)
-
----
-
-### Canadian envoy visits BOI
-
-*2024-04-09 00:54:11* · [`dailyftlk`](https://www.ft.lk/business/Canadian-envoy-visits-BOI/34-760484) · `en`
-
-Canadian High Comm-issioner Eric Walsh met with the Board of Investment Chairman Dinesh Weerakkody and BOI and Port City officials last week to discuss the current investment climate and opportunities. The High Commissioner discussed potential areas to attract new investment from Canada into the
-
-◼️
-
-[Data](articles/ecf34535.json)
-
-[Extended Data](ext_articles/ecf34535.ext.json)
 
 ---

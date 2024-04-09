@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 14:33:58**
+As of **2024-04-09 14:52:01**
 
 ## Newspaper Stats
 
-*Scraped **18,054** Articles*
+*Scraped **18,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,45 +16,89 @@ dailyftlk | 987
 islandlk | 992
 economynextcom | 1,004
 adalk | 1,520
-tamilmirrorlk | 2,119
+tamilmirrorlk | 2,120
 adaderanalk | 2,170
-virakesarilk | 2,659
-dailymirrorlk | 2,753
+virakesarilk | 2,660
+dailymirrorlk | 2,754
 adaderanasinhalalk | 2,925
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,051 (100.0%) of 18,054 articles have been extended.
+18,054 (100.0%) of 18,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### වියපත් කළාකරුවන්ට දෙන දීමනාව වැඩි කරයි
+### 2,500 ஆங்கில ஆசிரியர்களை ஆட்சேர்ப்பு செய்ய அனுமதி
 
-*2024-04-09 14:16:52* · [`adalk`](https://www.ada.lk/breaking_news/වියපත්-කළාකරුවන්ට-දෙන-දීමනාව-වැඩි-කරයි/11-409030) · `si`
+*2024-04-09 14:29:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-500-ஆங்கில-ஆசிரியர்களை-ஆட்சேர்ப்பு-செய்ய-அனுமதி/175-335784) · `ta`
 
-වියපත් කලාකරුවන් මුහුණ දෙන අපහසුතාවලට පිළියම් යොදන බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පැවැසීය. අග්‍රාමාත්‍යවරයා මේ බව සඳහන් කළේ ටවර් හෝල් රඟහල පදනම මගින් ක්‍රියාත්මක කරනු ලබන වියපත් කලාකරුවන් සඳහා විශ්‍රාමික ජීවනාධාර ලබාදීමේ වැඩසටහන සඳහා අලුතින් ඉල්ලුම් කර ඇති කලාකරුවන් ඇතුළත් කර ගැනීමත්, ඔවුන්ට අලුත් අවුරුදු ත්‍යාග පිරිනැමීමත් නිමිත්තෙන් (2024.04.08) අරලිය ගහ මන්දිරයේ පැවැති උත්සවයට එක් වෙමිණි.
+அனைவருக்கும் ஆங்கிலம்' திட்டத்தின் கீழ் 2,500 ஆங்கில ஆசிரியர்களை ஆட்சேர்ப்பு செய்வதற்கு அமைச்சரவை அங்கீகாரம் வழங்கப்பட்டுள்ளதாக அமைச்சரவைப் பேச்சாளரும் அமைச்சருமான பந்துல குணவர்தன தெரிவித்தார்.
 
-මාසිකව රු.7,500/- ක විශ්‍රාමික ජීවනාධාරයක් තෝරාගත් වියපත් කලාකරුවන් 102ට ලබාදීම සිදුකෙරුණි. එම දීමනාව රු.10,000/- දක්වා වැඩිකිරීමට ටවර් හෝල් රඟහල පදනමේ සභාපති, අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතාගේ ප්‍රධානත්වයෙන් රැස්වූ ටවර් හෝල් රඟහල පදනමේ භාරකාර මණ්ඩලය තීරණය කර තිබේ. ඒ අනුව මෙම මස සිට ටවර් හෝල් රඟහල පදනම මඟින් වියපත් කලාකරුවන් 122ට රු රු.10,000/- ක් බැගින් වූ විශ්‍රාමික ජිවනාධාරයක් ලබා දේ.
+அமைச்சரவை முடிவுகளை அறிவிக்கும் வாராந்த கூட்டத்தில் உரையாற்றிய அவர், க.பொ.த சாதாரண தர (சா/த) பாடங்களை ஆங்கிலத்தில் கற்பிப்பதற்கு மொத்தம் 4,441 ஆங்கில ஆசிரியர்களுக்கு அனுமதி வழங்கப்பட்டுள்ளதாக தெரிவித்தார். இதற்கு 6,500 ஆங்கில ஆசிரியர்கள் தேவை எனவும் தெரிவித்தார்.
 
-...
+அதன்படி, இந்த ஆண்டு பாடசாலைகளின் எண்ணிக்கையை 1,000 ஆக உயர்த்த அரசு முடிவு செய்துள்ளது. 765 பாடசாலைகள் ஆங்கிலத்தில் பாடங்களை நடத்துகின்றன. மேலும், ஆங்கில ஆசிரியர்களின் எண்ணிக்கையை 6,500 ஆக அதிகரிக்க அரசாங்கம் திட்டமிட்டுள்ளதாகவும், இதற்கான அனுமதி அமைச்சரவையினால் வழங்கப்பட்டுள்ளதாகவும் அமைச்சர் குணவர்தன தெரிவித்தார்.
 
-[Data](articles/34a2024e.json)
+◼️
+
+[Data](articles/37ce513b.json)
 
 ---
 
-### ඒකාධිපති ක්‍රමයට එරෙහිව මහින්ද තාපයේ බැනර් ප්‍රදර්ශණය කරයි
+### வன ஜீவராசிகள் திணைக்கள அதிகாரியைத் தாக்கிய நபர் கைது!
+
+*2024-04-09 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/180809) · `ta`
+
+அம்பாறை வன பிரேதசத்துக்கு உட்பட்ட உஹன ஆதல்ஓயா கிராமத்தில் சட்டவிரோதமாக இறைச்சி விற்பனை செய்யப்படுவதாக கிடைத்த தகவலையடுத்து அங்கு சென்ற வன ஜீவராசி அதிகாரி மீது தாக்குதல் நடத்தப்பட்டுள்ளதாக வன ஜீவராசிகள் திணைக்களம் தெரிவித்துள்ளது.
+
+இந்த சம்பவத்தில் தொடர்புடையவரும் சட்டவிரோதமாக இறைச்சி விற்பனை செய்தவரும் கைது செய்யப்பட்டுள்ளதுடன், பெருந்தொகையான இறைச்சியும்  கைப்பற்றப்பட்டுள்ளதாக அதிகதாரிகள் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/a83cfdeb.json)
+
+---
+
+### Increases the gift giving to the aging
+
+*2024-04-09 14:16:52* · [`adalk`](https://www.ada.lk/breaking_news/වියපත්-කළාකරුවන්ට-දෙන-දීමනාව-වැඩි-කරයි/11-409030) · `si`
+
+Prime Minister Dinesh Gunawardena announced an increase in support for aging artists, providing Rs. 10,000 to 122 elderly artists through the Tower Hall Theater Foundation. This initiative aims to alleviate economic hardships faced by artists.
+
+🟩
+
+Prime Minister Dinesh Gunawardena said he would address the difficulties facing aging artists.. The Prime Minister said this to enroll the retired artists to provide the Retired Artists for the Annual Artists who have applied to the elderly artists who are implemented by the Tower Hall Theater Foundation (08.04.04.2012) at Temple Trees.
+
+A retired living standard of Rs. 7,500 / - was handed over to 102 selected artists. The Tower Hall Theater Foundation Board has decided to increase the allowance from Rs. 10,000 / -.. According to the Tower Hall Theater Foundation, 122 elderly artists will be provided with Rs.
+
+"The Board of Trustees discussed on the economic hardship faced by artists decided to increase the inconveniences to some extent to somewhat. Meeting the economic crisis. Other uncomfortable artists will be able to join this retirement aid program. "The Prime Minister said.
+
+◼️
+
+[Data](articles/34a2024e.json)
+
+[Extended Data](ext_articles/34a2024e.ext.json)
+
+---
+
+### The banners of the hera will be displayed against the dictatorial system
 
 *2024-04-09 14:02:59* · [`adalk`](https://www.ada.lk/breaking_news/ඒකාධිපති-ක්‍රමයට-එරෙහිව-මහින්ද-තාපයේ-බැනර්-ප්‍රදර්ශණය-කරයි/11-409029) · `si`
 
-නාම යෝජනා බාර ගෙන ආණ්ඩුවේ බලපෑම මත කල් තබා ඇති නගර සභා -පාදේශීය සභා ජන්ද විමසීම පමාද කිරීම ඒකාධිපති කමයට අත වැනීමකි හා නගර සභා -පාදේශීය සභාවල මහජන චන්දයෙන් පත්වූ නියෝජිතයන් නොමැතිව නිලධාරීන් සිදුකරන පාලනය පුරවැසි අයිතිවාසිකම් උල්ලංඝනය කිරීමකි යන දැන්වීම් දෙකක් මැතිවරණ කොමිෂන් සභාවේ හිටපු සභාපති මහින්ද දේශපිය මහතා අම්බලන්ගොඩ පෝරඹ සිය නිවසේ තාප්පයේ අද(9) එල්ලුවේය.
+Hera banners oppose dictatorship. Urban Councils' administration, without government influence or infrastructure, lacks representatives. NIA Chairman MahindaDeshape's house in Kotambalangoda was hacked today.
+
+🟩
+
+Formulating the dictatorship and the administration of the Urban Councils without the influence of the government of Urban Councils without the infrastructure of the Urban Councils - Urban Councils without representatives from the Urban Councils - NIA Chairman MahindaDeshape, Kotambalangoda hacked his house in his house today (9).
 
 ◼️
 
 [Data](articles/8705f9f7.json)
+
+[Extended Data](ext_articles/8705f9f7.ext.json)
 
 ---
 
@@ -2215,55 +2259,5 @@ The Minister said that 200 electric buses will be issued to Kandy to carry out u
 [Data](articles/706fef28.json)
 
 [Extended Data](ext_articles/706fef28.ext.json)
-
----
-
-### The prices of many essential commodities were down
-
-*2024-04-09 00:04:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-அத்தியாவசிய-பொருட்களின்-விலைகள்-குறைந்தன/175-335770) · `ta`
-
-Sri Lanka Sathosa reduced prices of essential commodities for New Year. Chilli now costs 850 rupees, onions from China 375, from India/Pakistan 445, and potatoes 165 rupees. Red pulses and white rice prices also decreased.
-
-🟩
-
-Sri Lanka Sathosa has reduced the prices of many essential commodities ahead of the New Year.
-
-Accordingly, 1 kg of chilli has been reduced by 300 rupees and the new price is 850 rupees.
-
-The price of 1 kg of onions imported from China has been reduced by 120 rupees and its new price is 375 rupees.
-
-Onions imported from India and Pakistan have been reduced by 50 rupees and its new price is 445 rupees.
-
-1kg is reduced by 15 rupees and its new price is 680 rupees.
-
-1 kg of potatoes have been reduced by 10 rupees and its new price is 165 rupees.
-
-Lanka Sathosa has also decided to reduce the price of red pulses by 7 rupees and white rice by 3 rupees.. Remble
-
-◼️
-
-[Data](articles/ea2a7a12.json)
-
-[Extended Data](ext_articles/ea2a7a12.ext.json)
-
----
-
-### Role of Buddhism in fight against caste oppression in Tamil Nadu
-
-*2024-04-09 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Role-of-Buddhism-in-fight-against-caste-oppression-in-Tamil-Nadu/172-280411) · `en`
-
-Buddhism flourished in ancient India, including Tamil Nadu from the early years of the Christian era till about the 14th century. At its height, it enjoyed royal patronage and was the religion of the elite which at that time comprised the urban and mercantile classes.
-
-Buddhism ceased to exist in India in the medieval period for a variety of reasons, and saw a revival of sorts only in the closing years of the 19th century.
-
-The discoveries of British archaeologists and anti-colonial and religious revivalist movements in Ceylon and India spurred by Europeans interested in Eastern thought, were factors responsible for increasing interest in Buddhism at the end of the 19th century.
-
-In Ceylon, the Buddhist revival was a part of a nationalistic upsurge, the search for a national identity. But in India, its revival was part of the movement to liberate the traditionally oppressed “untouchable” castes, now called Dalits.
-
-...
-
-[Data](articles/16c53aaf.json)
-
-[Extended Data](ext_articles/16c53aaf.ext.json)
 
 ---

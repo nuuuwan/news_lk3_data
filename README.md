@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 05:38:07**
+As of **2024-04-09 05:57:17**
 
 ## Newspaper Stats
 
-*Scraped **17,953** Articles*
+*Scraped **17,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 159
 bbccomsinhala | 188
 dbsjeyarajcom | 213
 newsfirstlk | 363
-islandlk | 979
 dailyftlk | 987
+islandlk | 992
 economynextcom | 995
 adalk | 1,512
 tamilmirrorlk | 2,107
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,953 (100.0%) of 17,953 articles have been extended.
+17,953 (99.9%) of 17,966 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -424,6 +424,56 @@ Despite Sri Lanka having been boasting about producing the world’s first woman
 
 ### 2024-04-08 (Monday)
 
+### Sinhala originals…on the way
+
+*2024-04-08 23:05:00* · [`islandlk`](http://island.lk/sinhala-originalson-the-way/) · `en`
+
+If you are to grab the spotlight, in a big way, in the scene here, and have the masses on your side, you have got to do songs in the official language, and that’s Sinhala.
+
+Janaka Palapathwala, who has changed his stage name to JPal, and whose Elvis/Jim Reeves style of singing, has the support of music lovers, overseas, is now keen to broaden his fan base here.
+
+Says Janaka: “You need Sinhala songs in your repertoire, and originals, as well. Without Sinhala songs, it’s very difficult to make it big in Sri Lanka.
+
+“The masses, and the electronic media, won’t accept anything other than Sinhala, so we need to give them what they want.”
+
+And, with that in mind, Janaka moved into action and is now in the process of completing two Sinhala originals.
+
+“I have an extremely talented lot of folks helping me to put together my Sinhala originals and I’m quite certain both songs will be welcomed by the masses.”
+
+The recordings are being done at one of the most modern studios in the island – Sonexco.
+
+...
+
+[Data](articles/61cd08b1.json)
+
+---
+
+### A taste of LunuDehi…in Negombo
+
+*2024-04-08 22:58:00* · [`islandlk`](http://island.lk/a-taste-of-lunudehiin-negombo/) · `en`
+
+Having just completed a highly successful tour of Canada and the States, with BnS, Umaria and Randhir, the band LunuDehi is, once again, ready to do the needful, back home.
+
+They say they are all geared up for the big event on Friday, 26th April, presented by the Past Pupils’ Association of Ave Maria Convent, Negombo.
+
+‘Twinkling Blues 2024’ will be held at the Jetwing Blue, Negombo, and, in addition to LunuDehi, JAYASRI will also be in attendance, along with DJ Nuwan.
+
+‘Twinkling Blues 2024’ is a dancing night, they say, and will move into action from 7.30 pm onwards.
+
+Since it’s a special event, the dress code is black and gold.
+
+For more information, you could call either Chrishani (0777465912) or Neeliya (0773014411).
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/2df5930c.json)
+
+---
+
 ### Sajith-AKD debate: “People Development” programs of political parties should be discussed
 
 *2024-04-08 22:51:46* · [`dailyftlk`](https://www.ft.lk/columns/Sajith-AKD-debate-People-Development-programs-of-political-parties-should-be-discussed/4-760458) · `en`
@@ -536,6 +586,34 @@ The Punduloya Police and the Nuwara Eliya Forensic Division have joined the furt
 
 ---
 
+### Full’r Burgers—Giga Food’s gourmet journey beyond boundaries
+
+*2024-04-08 22:41:00* · [`islandlk`](http://island.lk/fullr-burgers-giga-foods-gourmet-journey-beyond-boundaries/) · `en`
+
+One’s heart desires, what his eyes attract and taste buds approve! Full’r Burgers stands as a beacon of culinary innovation, tantalizing taste buds and igniting imaginations with each bite. Spearheaded by the visionary CEO, Shifaz Riyaz, of Giga Foods Pvt Ltd, the brand approaches challenges not as hindrances but as pathways to growth and excellence. With a steadfast commitment to redefining the burger experience, Full’r Burgers has triumphed through adversity, boasting seven thriving outlets across the western province.
+
+At the heart of Full’r’s success lies a dedication to diversity and delight. From the whimsical ‘Baby Barry,’ designed to bring smiles to the faces of little ones, to the fiery intensity of the ‘Major General,’ catering to adventurous palates, each burger tells a story of craftsmanship and passion. COO Revan Gunewardene echoes this sentiment, emphasizing the brand’s unwavering pursuit of quality, consistency, and innovation.
+
+...
+
+[Data](articles/534c3b56.json)
+
+---
+
+### World Wings Education & Migration launches first overseas office in Sri Lanka
+
+*2024-04-08 22:40:00* · [`islandlk`](http://island.lk/world-wings-education-migration-launches-first-overseas-office-in-sri-lanka/) · `en`
+
+World Wings Education & Migration, a distinguished leader in global education and migration services, proudly announces the grand opening of its inaugural overseas office in Sri Lanka. With a rich legacy spanning over two decades in the education and migration sector, World Wings is poised to revolutionize the landscape of overseas education consultancy in Sri Lanka.
+
+Anuj Vashisht, Chairman of World Wings Education – Sri Lanka, remarked on the burgeoning trend of Sri Lankan students opting for higher education abroad, positioning Sri Lanka as a prime destination for foreign investors in the field of education. Leveraging their expertise and experience, World Wings is committed to providing comprehensive services ranging from student counseling, visa facilitation, loan assistance, accommodation solutions, to migration planning – all conveniently accessible under one roof.
+
+...
+
+[Data](articles/d221eb50.json)
+
+---
+
 ### Hamas says Gaza truce talks still deadlocked despite reports of progress
 
 *2024-04-08 22:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98524/hamas-says-gaza-truce-talks-still-deadlocked-despite-reports-of-progress) · `en`
@@ -553,6 +631,48 @@ Western powers have voiced concern over the high Palestinian civilian death toll
 [Data](articles/9f0243ac.json)
 
 [Extended Data](ext_articles/9f0243ac.ext.json)
+
+---
+
+### Celebrating and rewarding local Sri Lankan women role models
+
+*2024-04-08 22:39:00* · [`islandlk`](http://island.lk/celebrating-and-rewarding-local-sri-lankan-women-role-models/) · `en`
+
+British Council in collaboration with ChildFund Sri Lanka, recently concluded an exciting competition to celebrate the achievements of local Sri Lankan women in their communities. The She-roes role model competition encouraged Sri Lankan girls to recognise and celebrate the achievements of local female role models, nurturing appreciation for the remarkable women in their communities. Tailored for the English and Digital for Girls’ Education (EDGE) project peer group leaders and members, the role model competition served as inspiration for its club members, nudging them to dream and soar to greater heights.
+
+...
+
+[Data](articles/c7bc7ac6.json)
+
+---
+
+### CSE reacts positively to debt moratorium time frame
+
+*2024-04-08 22:34:00* · [`islandlk`](http://island.lk/cse-reacts-positively-to-debt-moratorium-time-frame/) · `en`
+
+The CSE yesterday reacted in a very positive manner to a recent interview given by the Chief of staff to the President of Sri Lanka and National Security Advisor Sagala Ratnayake, to a media organization that Sri Lanka may likely get a debt moratorium until 2028.
+
+This was a major impetus to the stock market, which showed heavy buying interest, thus creating a bullish sentiment. Against this backdrop the market performed well and a strong rally on banking sector counters was noted throughout the day, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 130.4 points while S and P SL20 rose by 60.95 points. Turnover stood at Rs 3.2 billion with five crossings.
+
+...
+
+[Data](articles/730d59d6.json)
+
+---
+
+### Teacher training programs for established 100 Capital Market Clubs
+
+*2024-04-08 22:34:00* · [`islandlk`](http://island.lk/teacher-training-programs-for-established-100-capital-market-clubs/) · `en`
+
+The Securities and Exchange Commission of Sri Lanka (SEC) in collaboration with the Colombo Stock Exchange (CSE) hosted several impactful teacher training programs for teachers of the established 100 Capital Market Clubs across the country. These teacher training programs were conducted in all three languages from the 13th March to 4th of April at teacher training centers across the nine provinces of country.
+
+The ‘Capital Market Club’ program is a strategic initiative designed in collaboration with the Presidential Secretariat and the Ministry of Education as well, aimed at fostering financial literacy throughout the education system of Sri Lanka.
+
+...
+
+[Data](articles/aa55c830.json)
 
 ---
 
@@ -2125,177 +2245,5 @@ The project was started in 2010 and the funding was to be received as loan grant
 [Data](articles/a3706ccb.json)
 
 [Extended Data](ext_articles/a3706ccb.ext.json)
-
----
-
-### Racism is not patriotic;Vijayadasa Rajapaksa is not going to implement election reforms
-
-*2024-04-08 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/180726) · `ta`
-
-Justice Minister Vijayadasa Rajapaksa opposes implementing election reforms in the current Parliament. President Ranil Wickremesinghe's constitutional amendments, including the 20th Amendment, aimed to reform elections but have not achieved expected changes. The Cabinet has approved changes to the parliamentary election law to introduce a mixed electoral system, but this policy has not been approved by the Cabinet. The focus should be on the rule of law and economic recovery. The government's new laws, without proper consultation, may not benefit as expected. Expectations for the presidential election include a patriotic, honest leader who prioritizes the distressed people.
-
-🟩
-
-Justice Minister Vijayadasa Rajapaksa said that the proposed constitutional amendments to the election reforms will not be implemented during the present Parliament, ”he said.
-
-Question;President Ranil Wickremesinghe recently referred to the several constitutional amendments made during his tenure.. Has these amendments have made expected changes?
-
-One of them was the election amendments, and many recommendations were made in the past.
-
-After this we introduced the 20th Amendment of the Constitution in 2015. But it was not fulfilled.
-
-I also put forward the idea of Senate than Parliament.
-
-Question;The Cabinet has given permission to make changes to the parliamentary election law to introduce a mixed electoral system - how can it affect minority parties?
-
-Answer;The Cabinet has not approved it. The policy has been accepted.
-
-The second idea I put forward is a mixing election.
-
-Question;What is happening in the country's decisive moment when considering the upcoming presidential election?
-
-...
-
-[Data](articles/180d149b.json)
-
-[Extended Data](ext_articles/180d149b.ext.json)
-
----
-
-### Fake campaign initiative on the Internet: Three to appear in court
-
-*2024-04-08 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180725) · `ta`
-
-Three social activists face court for false online comments against financial institutions, with companies filing cases for 4250 million rupees. The defendants, Veyankoda, Gampola, and Mahavai, are accused of insulting Dala, Cashx, Loanme, Lotus Credit, and SF Group. The petitions, filed through the Sudhath Perera Law Institute, demand 500 million rupees each from the defendants and 350 million for damages. The case is being handled in multiple countries.
-
-🟩
-
-Five cases have been filed in the Attanagalla district court against three social activists who have issued false and illegal comments on the Internet to insult the financial institution by digital and online.
-
-The case has been filed by companies at the Digital Authorized Lending Association (Dala) Association and these cases have been filed against the trio of Veyankoda, Gampola and Mahavai.
-
-AV Business Solutes - Cashx, Fintech Software Solutions - Loanme, Sebar Solusan Private Company - Lotus Credit (Lotus Lotus Lotus)And SF Group (S F Group-Fino.lk) has filed these cases.
-
-The petitions have been filed for 4250 million rupees from the defendants and the petitions have been reported on Facebook and social media against these companies lending through ONLINE via online.
-
-500 million rupees each from each defendant for this purpose and 350 million rupees has been compensated for the damage.. These petitions have been filed through the Sudhath Perera Law Institute.
-
-...
-
-[Data](articles/81ea2174.json)
-
-[Extended Data](ext_articles/81ea2174.ext.json)
-
----
-
-### Do not mock the nutritional program offered to pregnant mothers - Sajith Premadasa
-
-*2024-04-08 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180721) · `ta`
-
-Sajith Premadasa emphasizes the importance of the nutritional program for pregnant mothers, ensuring healthy children. He criticizes mocking it as a mere distribution plan, highlighting its role in social services and health care. Premadasa notes the program's history, started with World Bank support in 2001 but halted by a regime change in 2004, only to be resumed by the government. He advocates for the inclusion of women, children, and education rights in the constitution's fundamental rights, aiming to protect mothers with healthy food to combat malnutrition.
-
-🟩
-
-The nutritional scheme offered to pregnant mothers is very important. It ensures the right to live healthy children in mothers and stomachs. Therefore, the opposition leader said that it should not be mocked as a simply distribution plan.
-
-The muddy washed when she talked about the health problems of women. As our voice continues to sound, the government has decided to provide health care facilities for school children.. Opposition leader Sajith Premadasa said that this is a social service like a social service.
-
-The opposition leader said that even if the government implemented such a plan during the election year, the government is happy to be implementing the health of the health.
-
-Opposition Leader Sajith Premadasa Premadasa said this while addressing the gathering of rice packs for 532 pregnant mothers in Hangwella area on Sunday (07).
-
-...
-
-[Data](articles/acfd40e2.json)
-
-[Extended Data](ext_articles/acfd40e2.ext.json)
-
----
-
-### New work by mail
-
-*2024-04-08 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195435) · `si`
-
-The Sri Lanka Postal Department offers special postal services during Sinhala, Tamil New Year, and Ramazan holidays, including Cash-On Delivery, Foreign Courier Service, and General Parcel Distribution, on April 12th.
-
-🟩
-
-The Sri Lanka Postal Department has implemented a special service of postal goods throughout the island during the long weekend holidays of Sinhala, Tamil New Year and Ramazan.
-
-The Post Master General Master General said this, he said that.
-
-Accordingly a public holiday on the 12th of April, a special service of the division mailboards across the country - Cash-On Delivery, Foreign Courier Service and General Parcel Distribution.
-
-◼️
-
-[Data](articles/86af195c.json)
-
-[Extended Data](ext_articles/86af195c.ext.json)
-
----
-
-### Prime Minister Dinesh calls on Ban Ki-moon
-
-*2024-04-08 15:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prime-Minister-Dinesh-calls-on-Ban-Ki-moon/108-280398) · `en`
-
-April 08 - In a meeting in Seoul, Prime Minister Dinesh Gunawardena and Chairman of the Global Green Growth Institute (GGGI) and former Secretary-General of the United Nations Ban Ki-moon, expressed mutual appreciation on their close partnership and committed efforts to further strengthen bilateral relations across various sectors.
-
-Prime Minister Gunawardena, emphasizing Sri Lanka's commitment to transitioning towards a greener and more resilient economy, highlighted key initiatives focusing on renewable energy, sustainable transport, and urban greening during the talks with the former UN Secretary-General on April 4.
-
-"As an island nation, we are acutely aware of the vulnerabilities posed by climate change. It is imperative that we take urgent actions to safeguard our people and ecosystems," stated Prime Minister Gunawardena.
-
-...
-
-[Data](articles/2da62e3f.json)
-
-[Extended Data](ext_articles/2da62e3f.ext.json)
-
----
-
-### A musician dies in motorcycle accident
-
-*2024-04-08 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195434) · `si`
-
-A 23-year-old musician, Govinda, died in a motorcycle accident near Talawa while returning from a program. The accident happened as he was traveling from the Talawa Agrarian Service Institute in Anuradhapura. The police believe the accident was caused by sleep.
-
-🟩
-
-A young man was killed in motorcycle accident in Talawa.
-
-The deceased is a youth musician named Govinda, aged 23 years old.
-
-The accident had occurred when he was attending a program, he was on his way to the house in Thalawala from a motorcycle.
-
-The accident had occurred when the motorcycle he had traveling from the Talawa Agrarian Service Institute in Anuradhapura.
-
-The police will be configured that this unfortunate accident had to be killed due to sleep.
-
-◼️
-
-[Data](articles/f817b02b.json)
-
-[Extended Data](ext_articles/f817b02b.ext.json)
-
----
-
-### Chandrika opens mouth to ate the country and the party!
-
-*2024-04-08 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180719) · `ta`
-
-Chandrika Bandaranaike Kumaratunga, former President of Sri Lanka, announced the rebuilding of the Sri Lanka Freedom Party (SLFP) and his role in its revival. He criticized the party's general secretary from the 2015 presidential election for damaging the country and the party, but acknowledged the issue was resolved.
-
-🟩
-
-Former President Chandrika Bandaranaike Kumaratunga has said that the Sri Lanka Freedom Party (SLFP) is being rebuilt and that he is expecting to help it.
-
-He said this while speaking to the media after a meeting of the Freedom Party (SLFP) held in Colombo on Monday (08).
-
-I brought the general secretary of the Sri Lanka Freedom Party for the 2015 presidential election. I had great faith in him. But he has eaten the country and the party. However, he said that the mistake was fixed today.
-
-◼️
-
-[Data](articles/89ffabd4.json)
-
-[Extended Data](ext_articles/89ffabd4.ext.json)
 
 ---

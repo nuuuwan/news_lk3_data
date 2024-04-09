@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 13:18:10**
+As of **2024-04-09 13:34:13**
 
 ## Newspaper Stats
 
-*Scraped **18,037** Articles*
+*Scraped **18,038** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 987
 islandlk | 992
 economynextcom | 996
-adalk | 1,516
+adalk | 1,517
 tamilmirrorlk | 2,119
 adaderanalk | 2,169
 virakesarilk | 2,659
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,032 (100.0%) of 18,037 articles have been extended.
+18,037 (100.0%) of 18,038 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,17 +48,25 @@ Accordingly, the proposal presented by the Minister of Foreign Affairs Ali Sabry
 
 [Data](articles/0e845a94.json)
 
+[Extended Data](ext_articles/0e845a94.ext.json)
+
 ---
 
-### අවුරුද්දට ගමේ යන්න විශේෂ ප්‍රවාහන සේවයක්
+### Special transport service to the year
 
 *2024-04-09 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195466) · `si`
 
-අලුත් අවුරුද්දට ගම්බිම් බලා යන ජනතාවට විශේෂ දුරගමන් ප්‍රවාහන සේවා මේ වනවිට ආරම්භ කර ඇතැයි ප්‍රවාහන බලධාරීන් පවසයි.
+New Year special transport services launched by authorities.
+
+🟩
+
+Transport authorities say that special transport services have been launched by the New Year, the Transport Authorities said.
 
 ◼️
 
 [Data](articles/4d3fcffc.json)
+
+[Extended Data](ext_articles/4d3fcffc.ext.json)
 
 ---
 
@@ -75,6 +83,8 @@ Accordingly, the government has decided to increase the number of schools to 1,0
 ◼️
 
 [Data](articles/1d22e3b3.json)
+
+[Extended Data](ext_articles/1d22e3b3.ext.json)
 
 ---
 
@@ -176,6 +186,8 @@ The 12 months ending with March also ranked as the planet's hottest ever recorde
 
 [Data](articles/a6d575c8.json)
 
+[Extended Data](ext_articles/a6d575c8.ext.json)
+
 ---
 
 ### Sri Lanka captain quashes retirement speculation; sets sight on T20 World Cup Qualifiers
@@ -195,6 +207,8 @@ Now, prior to the ODI series against South Africa, the 34-year-old emphasised th
 ...
 
 [Data](articles/2ed01e83.json)
+
+[Extended Data](ext_articles/2ed01e83.ext.json)
 
 ---
 
@@ -447,6 +461,20 @@ At a function held at the Regiment Center of the Gajaba Brigade, the minister sa
 [Data](articles/e6a2ab6d.json)
 
 [Extended Data](ext_articles/e6a2ab6d.ext.json)
+
+---
+
+### කපිල වික්‍රමනායකගේ ඇප ඉල්ලීම ගැන තීන්දුව 26දා
+
+*2024-04-09 10:49:34* · [`adalk`](https://www.ada.lk/breaking_news/කපිල-වික්‍රමනායකගේ-ඇප-ඉල්ලීම-ගැන-තීන්දුව-26දා/11-409026) · `si`
+
+බාල බෙහෙත් ජාවාරම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රිමාන්ඩ් භාරයට පත්කර තිබෙන සෞඛ්‍ය අමාත්‍යාංශයේ හිටපු ලේකම් කපිල වික්‍රමනායක මහතාගේ ඇප ඉල්ලීම පිළිබඳ තීන්දු ලබන 26 දා ප්‍රකාශයට පත්කරන බව අභියාචනාධිකරණය අද දැනුම් දුන්නේය.
+
+එම ඇප ඉල්ලීම සම්බන්ධයෙන් වන තීන්දුව අද දිනයේදී ප්‍රකාශයට පත්කිරීමට නියමිතව තිබුණත් එම තීන්දුව ප්‍රකාශයට පත්කිරීම ලබන 26 දා තෙක් කල් දැමුණි.
+
+◼️
+
+[Data](articles/3e24f59b.json)
 
 ---
 
@@ -2175,27 +2203,5 @@ The ‘Capital Market Club’ program is a strategic initiative designed in coll
 [Data](articles/aa55c830.json)
 
 [Extended Data](ext_articles/aa55c830.ext.json)
-
----
-
-### Condemic discovery of dead Air Force officer
-
-*2024-04-08 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195449) · `si`
-
-An Air Force Corporal, known for ice drug addiction, was found dead in a double murder in Horana Marsla, attached to the Ratmalana camp.
-
-🟩
-
-The Air Force Corporal has revealed that the Air Force Corporal was an ice drug addicted in the Anga Anganiya area in Padukka.
-
-The Corporal was killed in a double murder in Horana Marsla area this morning.
-
-Police said he was attached to the Ratmalana camp at the Sri Lanka Air Force.
-
-◼️
-
-[Data](articles/460b9690.json)
-
-[Extended Data](ext_articles/460b9690.ext.json)
 
 ---

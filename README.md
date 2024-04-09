@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 12:18:28**
+As of **2024-04-09 12:34:08**
 
 ## Newspaper Stats
 
-*Scraped **18,024** Articles*
+*Scraped **18,026** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 992
 economynextcom | 996
 adalk | 1,516
 tamilmirrorlk | 2,119
-adaderanalk | 2,165
+adaderanalk | 2,167
 virakesarilk | 2,656
 dailymirrorlk | 2,749
 adaderanasinhalalk | 2,920
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,920
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,024 (100.0%) of 18,024 articles have been extended.
+18,024 (100.0%) of 18,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### March marks yet another record in global heat
+
+*2024-04-09 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98532/march-marks-yet-another-record-in-global-heat) · `en`
+
+The world just experienced its warmest March on record, capping a 10-month streak in which every month set a new temperature record, the European Union’s climate change monitoring service said on Tuesday.
+
+Each of the last 10 months ranked as the world’s hottest on record, compared with the corresponding month in previous years, the EU’s Copernicus Climate Change Service (C3S) said in a monthly bulletin.
+
+The 12 months ending with March also ranked as the planet’s hottest ever recorded 12-month period, C3S said. From April 2023 to March 2024, the global average temperature was 1.58 degrees Celsius above the average in the 1850-1900 pre-industrial period.
+
+“It’s the long-term trend with exceptional records that has us very concerned,” C3S Deputy Director Samantha Burgess told Reuters.
+
+“Seeing records like this - month in, month out - really shows us that our climate is changing, is changing rapidly,” she added.
+
+...
+
+[Data](articles/9d13c97d.json)
+
+---
 
 ### The horrific accident that kills Little Son
 
@@ -75,6 +95,24 @@ Maithripala Sirisena towards Bangkok, Thailand's capital, 12 this morning. He wa
 [Data](articles/324159c5.json)
 
 [Extended Data](ext_articles/324159c5.ext.json)
+
+---
+
+### Court delays verdict on petition against remand of Medical Supplies Division’s Director
+
+*2024-04-09 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98531/court-delays-verdict-on-petition-against-remand-of-medical-supplies-divisions-director-) · `en`
+
+The Court of Appeal postponed delivering the verdict on the interim requests in the writ petition filed against the remand of the Director of the Health Ministry’s Medical Supplies Division Dr. Kapila Wickramanayake, until April 26.
+
+The relevant verdict was scheduled to be delivered by the Appeals Court judge D.N. Samarakoon today (09).
+
+However, the judge ordered the verdict to be issued on April 26, when the case was taken up this morning.
+
+Dr. Wickramanayake, who currently remains under remand custody over the alleged substandard immunoglobulin imports case, had filed the relevant petition through his lawyers, seeking an order that the Maligakanda Magistrate’s Court’s decision to remand him to be declared unlawful and therefore, to release him on bail.
+
+...
+
+[Data](articles/c59902bd.json)
 
 ---
 
@@ -2187,53 +2225,5 @@ If a person has been having a HIV and STD, it can be contacted through the phone
 [Data](articles/3778e643.json)
 
 [Extended Data](ext_articles/3778e643.ext.json)
-
----
-
-### A series of new guidelines from the government
-
-*2024-04-08 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195446) · `si`
-
-New guidelines issued for New Year sports events by Health Minister Dr. Ramesh Pathirana. Community Medical Excurs Unit Sitithuri requires medical certificates for some sports. All police stations to intervene in racing and marathon safety. 124,760 drunken driving arrests in 2023, with 7 deaths in April.
-
-🟩
-
-A series of guidelines have been issued in the sports competitions organized during the New Year festival.
-
-Health Minister Dr. Ramesh Pathirana told a media briefing held at the Government Information Department today.
-
-Meanwhile, Community Medical Excurs Unit Sitithuri said that some guidelines have been presented to present a medical certificate for some sports.
-
-DIG Indika Hapugoda, Safety Control and Road Safety, has been issued to all police stations to intervene regarding the needs of racing and marathon competitions.
-
-124,760 people have been arrested in 2023 years of drunken driving.
-
-DIG Indika Hapugoda stated that seven deaths have occurred due to drunken driving in April.
-
-BY POORNIMA ON SCRIBD
-
-◼️
-
-[Data](articles/78a8d180.json)
-
-[Extended Data](ext_articles/78a8d180.ext.json)
-
----
-
-### Actor Dhanush - Aishwarya petition for divorce
-
-*2024-04-08 20:15:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விவாகரத்து-கோரி-நடிகர்-தனுஷ்-ஐஸ்வர்யா-மனு/54-335757) · `ta`
-
-Actor Dhanush and Aishwarya filed a divorce petition in the Family Welfare Court, seeking a declaration of their 2004 marriage.
-
-🟩
-
-The two filed a petition in the Family Welfare Court demanding that they declare their marriage in 2004
-
-◼️
-
-[Data](articles/c2b6c223.json)
-
-[Extended Data](ext_articles/c2b6c223.ext.json)
 
 ---

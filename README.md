@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 21:03:31**
+As of **2024-04-09 21:18:10**
 
 ## Newspaper Stats
 
-*Scraped **18,133** Articles*
+*Scraped **18,134** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 987
 islandlk | 992
 economynextcom | 1,013
 adalk | 1,531
-tamilmirrorlk | 2,124
+tamilmirrorlk | 2,125
 adaderanalk | 2,177
 virakesarilk | 2,676
 dailymirrorlk | 2,769
@@ -26,43 +26,67 @@ adaderanasinhalalk | 2,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,130 (100.0%) of 18,133 articles have been extended.
+18,133 (100.0%) of 18,134 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### கைக்கு இரண்டு பூட்டுகள்: சாவிகளால் சிக்கல்
+### முதலில் வரும் தேர்தலை அறிவித்தார் பிள்ளையான்
+
+*2024-04-09 21:04:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/முதலில்-வரும்-தேர்தலை-அறிவித்தார்-பிள்ளையான்/73-335790) · `ta`
+
+◼️
+
+[Data](articles/7130aada.json)
+
+---
+
+### Two locks to hand: problem with keys
 
 *2024-04-09 20:53:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைக்கு-இரண்டு-பூட்டுகள்-சாவிகளால்-சிக்கல்/175-335789) · `ta`
 
-கொழும்பு -10 டி பி. ஜயா மாவத்தையில் அமைந்துள்ள ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைமையக கட்டிடம் யாருக்கு சொந்தமானது என்ற கேள்வி இன்று (09) மீண்டும் எழுந்துள்ளது.
+Sarathi Dushmantha Mithrapala, a member of the former President Maithripala Sirisena, faced a key issue at the Sri Lanka Freedom Party headquarters in Jaya Mawatha. The police were blamed for not allowing entry due to lack of keys. A press conference was held by party leaders, and the police sealed the building. The situation escalated, leading to the secretary installing a new lock and leaving.
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவிற்கு விசுவாசமான குழுவின் பதில் செயலாளரும், பாராளுமன்ற உறுப்பினருமான சாரதி துஷ்மந்த மித்ரபால, தலைமையகத்திற்குள் இன்று (09காலை நுழைய பொலிஸாருடன் சென்ற போது கதவுகளில் போடப்பட்டிருந்த பூட்டுகளை திறக்க சாவிகள் இல்லாததால் பெரும் சிரமத்திற்கு உள்ளானார்.
+🟩
 
-அப்போது, ​​தானும் தனது குழுவினரும் கட்டிடத்திற்குள் நுழைய முடியாமல் போனதற்கு காவல்துறைதான் பொறுப்பேற்க வேண்டும் என்று பதில் செயலாளர் கூறினார்.
+Colombo -10DB. The question of whom belonged to the Sri Lanka Freedom Party headquarters building in Jaya Mawatha has been raised again today (09).
 
-கட்சித் தலைமையகத்தில் அமைச்சர் மஹிந்த அமரவீர, இராஜாங்க அமைச்சர் லசந்த அழகியவன்ன, பாராளுமன்ற உறுப்பினர் துமிந்த திஸாநாயக்க ஆகியோர் செய்தியாளர் மாநாட்டை நடாத்திவிட்டு அங்கிருந்து வெளியேறியதாக அவரது முறைப்பாட்டின் பிரகாரம் தலைமையகத்திற்கு பொலிஸார் சீல் வைத்ததுடன் யாரையும் உள்ளே செல்ல அனுமதிக்கவில்லை. எனவே காவல்துறையே அனைத்துப் பொறுப்பையும் ஏற்க வேண்டும் என்றார்
+Sarathi Dushmantha Mithrapala, a member of the former President Maithripala Sirisena, was in great trouble due to lack of keys to open the locks on the doors when he went to the headquarters to enter the headquarters today (09).
+
+At the time, the police said that the police should take responsibility for the fact that he and his team were unable to enter the building.
+
+At the party headquarters, Minister Mahinda Amaraweera, State Minister Lasantha Alagavanna and Parliamentarian Duminda Dissanayake held a press conference and the police sealed the headquarters to the headquarters and did not allow anyone to go inside.. So the police should take all responsibility
+
+There was a great deal of tension and a serious situation between the secretary and the police, and the party members also reported to the police.
 
 ...
 
 [Data](articles/00b1b9a2.json)
 
+[Extended Data](ext_articles/00b1b9a2.ext.json)
+
 ---
 
-### පොහොට්ටුවේ ජනාධිපති අපේක්ෂකයා තීරණය කරන්නේ මහින්ද
+### Mahinda decides on the presidential candidate in the quantity
 
 *2024-04-09 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195484) · `si`
 
-එළඹෙන ජනාධිපතිවරණයේදී ශ්‍රී ලංකා පොදුජන පෙරමුණේ අපේක්ෂකයා සම්බන්ධයෙන් තීන්දුවක් ගැනීම හා ඒ පිළිබඳව ප්‍රකාශ කිරීමේ වගකීම එම පක්ෂ නායක මහින්ද රාජපක්ෂ මහතාට පවරා තිබේ.
+Mahinda Rajapaksa decides on Sri Lanka's presidential candidate, with Rohitha Abeygunawardena confirming the decision made at the Sri Lanka General Election's Political Bureau.
 
-පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා පැවසුවේ අද (09) පැවති ශ්‍රී ලංකා පොදුජන පෙරමුණේ දේශපාලන මණ්ඩල රැස්වීමේදී මෙම තීරණයට එළැඹි බවය.
+🟩
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ දේශපාලන මණ්ඩලය පක්ෂ නායක මහින්ද රාජපක්ෂ, පක්ෂ නිර්මාතෘ බැසිල් රාජපක්ෂ යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන් අද කොළඹදී රැස්වී තිබුණි.
+The party leader Mahinda Rajapaksa has assigned a decision on the candidate of the Sri Lanka Civil Appointment and the candidate of the Sri Lanka Public Election.
+
+Parliamentarian Rohitha Abeygunawardena said this decision was held at the Political Bureau of the Sri Lanka General Assault held today (09).
+
+The Political Bureau of Sri Lanka General Mannel (CHOGM) The party leader Mahinda Rajapaksa and party founder Basil Rajapaksa met in Colombo today.
 
 ◼️
 
 [Data](articles/97ad07d3.json)
+
+[Extended Data](ext_articles/97ad07d3.ext.json)
 
 ---
 
@@ -156,19 +180,25 @@ A 36-member elite athletic pool set up by the SLA is currently training while ta
 
 ---
 
-### නිදහස් පක්ෂයේ සියලුම තීරණ මැතිවරණ කොමිෂමට දැනුම් දෙයි
+### All the decisions of the Independence Party informed the Election Commission
 
 *2024-04-09 19:44:47* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-සියලුම-තීරණ-මැතිවරණ-කොමිෂමට-දැනුම්-දෙයි/11-409039) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂ දේශපාලන මණ්ඩලය විසින් ඊයේ(08දා)   ගත් තීන්දු පිළිබඳව මැතිවරණ කොමිසමට සියලුම වාර්තා ලබාදුන් බව එම පක්ෂයේ ජාතික සංවිධායක දුම්න්ද  දිසානායක මහතා සඳහන් කළේය.
+The Independence Party's decisions informed the Election Commission. UNP's Delanda Dissanayake mentioned the SLFP Politburo's decisions, including the appointment of Nimal Siripala de Silva as acting chairman. The Elections Commission will discuss SLFP reports on the 18th, with Chandrika Bandaranaike Kumaratunga meeting at the Colombo Foundation.
 
-පක්ෂයේ කටයුතු සිදුකිරීමට සභාපතිවරයෙකු නොමැති වීම නිසා වැඩබලන සභාපති ලෙස පක්ෂයේ ජ්‍යෙෂ්ඨ උපසභාපති නිමල් සිරිපාල ද සිල්වා මහතා පත් කර ගත් බවත්, මේ අනුව පක්ෂය ශක්තිමත් කිරීමේ කටයුතු අලුත් අවුරුදු සමයෙන් පසු ආරම්භ කිරීමට සැලසුම් කර තිබෙන බවත් හෙතෙම පවසා සිටියේය.
+🟩
 
-ශ්‍රි ලංකා නිදහස් පක්ෂය ලබාදුන් වාර්තා පිළිබඳව සාකච්ඡා කිරීමට මේ මස  18 වැනිදා මැතිවරණ කොමිෂන් සභාව රැස් වීමට නියමිතය.  ශ්‍රී ලංකා නිදහස් පක්ෂයේ අනුශාසක  හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මියගේ ප්‍රධානත්වයෙන් ඊයේ (8දා) කොළඹ පදනම් ආයතනයේ දී දේශපාලන මණෟඩලය රැස් විය.
+The National Organizer of the UNP Delanda Dissanayake said that the SLFP Politburo took over the decisions taken yesterday (08).
+
+He said that the acting chairman was appointed as acting chairman of the party, as the acting chairman was appointed as acting chairman Nimal Siripala de Silva.
+
+On the 18th of this month, the Elections Commission to discuss the reports of the Sri Lanka Freedom Party (SLFP). Political Information of the Sri Lanka Freedom Party (SLFP) former President Chandrika Bandaranaike Kumaratunga met yesterday (8) at the Colombo Foundation.
 
 ◼️
 
 [Data](articles/a3e558e9.json)
+
+[Extended Data](ext_articles/a3e558e9.ext.json)
 
 ---
 
@@ -2267,25 +2297,5 @@ Maithripala Sirisena towards Bangkok, Thailand's capital, 12 this morning. He wa
 [Data](articles/324159c5.json)
 
 [Extended Data](ext_articles/324159c5.ext.json)
-
----
-
-### Court delays verdict on petition against remand of Medical Supplies Division’s Director
-
-*2024-04-09 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98531/court-delays-verdict-on-petition-against-remand-of-medical-supplies-divisions-director-) · `en`
-
-The Court of Appeal postponed delivering the verdict on the interim requests in the writ petition filed against the remand of the Director of the Health Ministry’s Medical Supplies Division Dr. Kapila Wickramanayake, until April 26.
-
-The relevant verdict was scheduled to be delivered by the Appeals Court judge D.N. Samarakoon today (09).
-
-However, the judge ordered the verdict to be issued on April 26, when the case was taken up this morning.
-
-Dr. Wickramanayake, who currently remains under remand custody over the alleged substandard immunoglobulin imports case, had filed the relevant petition through his lawyers, seeking an order that the Maligakanda Magistrate’s Court’s decision to remand him to be declared unlawful and therefore, to release him on bail.
-
-...
-
-[Data](articles/c59902bd.json)
-
-[Extended Data](ext_articles/c59902bd.ext.json)
 
 ---

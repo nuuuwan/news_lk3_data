@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 13:03:30**
+As of **2024-04-09 13:18:10**
 
 ## Newspaper Stats
 
-*Scraped **18,032** Articles*
+*Scraped **18,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ islandlk | 992
 economynextcom | 996
 adalk | 1,516
 tamilmirrorlk | 2,119
-adaderanalk | 2,168
+adaderanalk | 2,169
 virakesarilk | 2,659
-dailymirrorlk | 2,749
-adaderanasinhalalk | 2,921
+dailymirrorlk | 2,752
+adaderanasinhalalk | 2,922
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,028 (100.0%) of 18,032 articles have been extended.
+18,032 (100.0%) of 18,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### Sri Lanka to establish diplomatic relations with Republic of Chad
+
+*2024-04-09 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98534/sri-lanka-to-establish-diplomatic-relations-with-republic-of-chad) · `en`
+
+The Cabinet of Ministers has approved the establishment of diplomatic relations with the Republic of Chad during the Cabinet meeting held on Monday (08).
+
+The Republic of Chad has extended cooperation to Sri Lanka in the United Nations and other multilateral forums.
+
+Meanwhile, Sri Lanka has now established diplomatic relations with 46 countries of the African continent, and the Republic of Chad has also expressed its desire to establish diplomatic relations with the island nation.
+
+Accordingly, the proposal presented by the Minister of Foreign Affairs Ali Sabry to establish diplomatic relations with the Republic of Chad has been approved by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/0e845a94.json)
+
+---
+
+### අවුරුද්දට ගමේ යන්න විශේෂ ප්‍රවාහන සේවයක්
+
+*2024-04-09 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195466) · `si`
+
+අලුත් අවුරුද්දට ගම්බිම් බලා යන ජනතාවට විශේෂ දුරගමන් ප්‍රවාහන සේවා මේ වනවිට ආරම්භ කර ඇතැයි ප්‍රවාහන බලධාරීන් පවසයි.
+
+◼️
+
+[Data](articles/4d3fcffc.json)
+
+---
+
+### Government approves recruiting 2,500 English teachers: Bandula
+
+*2024-04-09 12:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-approves-recruiting-2-500-English-teachers-Bandula/108-280469) · `en`
+
+Colombo, April 9 (Daily Mirror) - Cabinet approval was granted to recruit 2,500 English teachers under 'English for All' programme, Cabinet Spokesman and Minister Bandula Gunawardana said.
+
+Addressing the weekly meeting to convey Cabinet decisions, he said a total of 4,441 English teachers have been approved for schools to teach GCE Ordinary Level (O/L) subjects in English. There is a requirement of 6,500 English teachers for this.
+
+Accordingly, the government has decided to increase the number of schools to 1,000 this year. There are 765 schools that conduct subjects in English. Moreover, the government is to increase the number of English teachers to 6,500, and approval for this was granted by the Cabinet, Minister Gunawardana said.
+
+◼️
+
+[Data](articles/1d22e3b3.json)
+
+---
 
 ### Cabinet nod for admission of local students to medical degree programme at KDU
 
@@ -44,51 +90,111 @@ The admissions will be carried out on payment basis and based on ‘Z’ score a
 
 [Data](articles/3375218b.json)
 
+[Extended Data](ext_articles/3375218b.ext.json)
+
 ---
 
-### பாமர மக்களுக்கு, சட்ட அறிவை ஏற்படுத்துவதன் மூலமே அவர்களுடைய உரிமைகளைப் பாதுகாக்க முடியும்
+### For lame people, they can protect their rights by making legal knowledge
 
 *2024-04-09 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180807) · `ta`
 
-இலங்கையினுடைய எழுத்தறிவு மற்றும் கல்வியறிவு விகிதம் மிக உயர்ந்த நிலையில் காணப்படுகின்ற போதிலும் இன்றும் கிராமங்களில் சட்டங்கள், திணைக்களங்களின் நடவடிக்கைகள் மற்றும் மனித உரிமைகள் தொடர்பில் மக்களுக்கு போதிய தெளிவில்லாத நிலை காணப்படுகின்றது.
+Despite Sri Lanka's high literacy rates, villagers often lack legal knowledge, understanding of departmental activities, and human rights.
+
+🟩
+
+Despite the high level of literacy and literacy rate of Sri Lanka, the people are still inadequate in the villages of laws, the activities of the departments and human rights in the villages.
 
 ◼️
 
 [Data](articles/14049ae1.json)
 
+[Extended Data](ext_articles/14049ae1.ext.json)
+
 ---
 
-### කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලය  ගැන කැබිනට් තීරණයක්
+### Cabinet decision on the Kotalawala Defense University
 
 *2024-04-09 12:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195465) · `si`
 
-ජෙනරාල් ශ්‍රීමත් ජෝන් කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ වෛද්‍ය විද්‍යා උපාධිය සඳහා ගෙවීමේ පදනම මත සිසුන් ඇතුළත් කර ගැනීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
+The General Sir John Kotelawala Defense University received cabinet approval for payment basis.
 
-ජනාධිපතිවරයා විසින් ඉදිරිපත්කළ එම යෝජනාව සඳහා එලෙස අනුමැතිය හිමිව ඇත.
+🟩
+
+Cabinet approval has been approved by the General Sir John Kotelawala Defense University at the payment basis.
+
+The President's proposal has been approved.
 
 ◼️
 
 [Data](articles/e25f983e.json)
 
+[Extended Data](ext_articles/e25f983e.ext.json)
+
 ---
 
-### எனது வீடு எங்கே - கான் யூனிசிற்கு மீண்டும் திரும்பிய பாலஸ்தீனியர்கள் அதிர்ச்சி - முற்றாக அழிக்கப்பட்டுள்ள வீடுகள்
+### Where is my house - the Palestinians shocked who returned to Khan Unis - completely destroyed houses
 
-*2024-04-09 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180805) · `ta`
+*2024-04-09 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/180805) · `ta`
 
-காசாவின் கான்யூனிசிற்கு மீண்டும் திரும்பிச்சென்றுள்ள மக்கள் முன்னர் தங்கள் வீடுகள் காணப்பட்ட பகுதியில் தற்போது இடிபாடுகள் காணப்படுவது குறித்து அதிர்ச்சி வெளியிட்டுள்ளனர்.
+Palestinians in Khan Unis find their homes completely destroyed, shocking them with ruins where homes once stood. Hanan, a woman from Gaza's Connis, expresses her pain, saying their memories and childhood families are gone.
 
-அனைத்தும் அழிக்கப்பட்டுவிட்டதால் என்னால் எனது வீட்டை கண்டுபிடிக்கமுடியவில்லை மாக்டி அபு சாஹ்ரூர் என்பவர் தெரிவித்துள்ளார்.
+🟩
 
-தனது முதல்பெயர் ஹனான் என தெரிவித்த பெண்ணொருவர் எனது வலியை வேதனையை வர்ணிப்பதற்கு வார்த்தைகள் இல்லை என குறிப்பிட்டுள்ளார்.
+People who have returned to Gaza's Connis have shocked the people who have now found the ruins in the area where their homes were found.
 
-எங்களின் நினைவுகள் எங்களின் சிறுவயது எங்களின் குடும்பங்கள் என அனைத்தும் அழிக்கப்பட்டுவிட்டன என அவர் கலங்கிய குரலில் தெரிவித்துள்ளார்.
+I could not find my house because everything was destroyed.
 
-அவர் தனது வீட்டின் சிதைவுகளில் இருந்து மீட்ட பொருட்களுடன் காணப்பட்டார் என சர்வதேச ஊடகம் தெரிவித்துள்ளது.
+The woman who said her first name was Hanan, noted that there were no words to describe my pain.
+
+He said in a disturbing voice that our memories have been destroyed as our childhood families have been destroyed.
+
+International media reports that he was found with the materials that recovered from the degeneration of his house.
 
 ◼️
 
 [Data](articles/2f7cd4a0.json)
+
+[Extended Data](ext_articles/2f7cd4a0.ext.json)
+
+---
+
+### March marks yet another record in global heat
+
+*2024-04-09 12:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/March-marks-yet-another-record-in-global-heat/108-280468) · `en`
+
+BRUSSELS, April 9 (Reuters) - The world just experienced its warmest March on record, capping a 10-month streak in which every month set a new temperature record, the European Union's climate change monitoring service said on Tuesday.
+
+Each of the last 10 months ranked as the world's hottest on record, compared with the corresponding month in previous years, the EU's Copernicus Climate Change Service (C3S) said in a monthly bulletin.
+
+The 12 months ending with March also ranked as the planet's hottest ever recorded 12-month period, C3S said. From April 2023 to March 2024, the global average temperature was 1.58 degrees Celsius above the average in the 1850-1900 pre-industrial period.
+
+"It's the long-term trend with exceptional records that has us very concerned," C3S Deputy Director Samantha Burgess told Reuters.
+
+"Seeing records like this - month in, month out - really shows us that our climate is changing, is changing rapidly," she added.
+
+...
+
+[Data](articles/a6d575c8.json)
+
+---
+
+### Sri Lanka captain quashes retirement speculation; sets sight on T20 World Cup Qualifiers
+
+*2024-04-09 12:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-captain-quashes-retirement-speculation-sets-sight-on-T20-World-Cup-Qualifiers/108-280467) · `en`
+
+(ICC) - Sri Lanka Women’s team captain Chamari Athapaththu has cleared the air about her future in international cricket.
+
+Chamari Athapaththu has her focus entirely on the upcoming ICC Women’s T20 World Cup Qualifiers, after which she will decide her future in international cricket.
+
+Athapaththu stirred up speculation within the cricketing community by dropping hints about retirement in a now-deleted Facebook post, where she mentioned 'last duty for my country' following Sri Lanka's remarkable T20I series victory over South Africa.
+
+Now, prior to the ODI series against South Africa, the 34-year-old emphasised that her primary focus lies on the upcoming commitments for Sri Lanka
+
+"I'm still not decided [on retirement]," Athapaththu said on the eve of the first ODI against the Proteas. "We can talk about it later. At the moment, I'm focused on the [South Africa] ODIs and World Cup qualifiers. Let's see in the future."
+
+...
+
+[Data](articles/2ed01e83.json)
 
 ---
 
@@ -2091,121 +2197,5 @@ Police said he was attached to the Ratmalana camp at the Sri Lanka Air Force.
 [Data](articles/460b9690.json)
 
 [Extended Data](ext_articles/460b9690.ext.json)
-
----
-
-### Conference to determine the headline in Colombo big school
-
-*2024-04-08 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/180768) · `ta`
-
-The Hijri 1445 Birth Committee Conference to Determine the Title of St. Shawal will be held at the Great School of Colombo on Tuesday evening. Representatives from the Colombo Great School, All Ceylon Jamiyyathul Ulama, and the Department of Muslim Religious Cultural Affairs will attend. The school has requested Muslims to report if they see the Shawal month headline.
-
-🟩
-
-The Hijri 1445 Birth Committee Conference to Determine the Title of St. Shawal is scheduled to be held at the Great School of Colombo on Tuesday evening (09) evening.
-
-Members of the Colombo Great School, All Ceylon Jamiyyathul Ulama, Members of the Department of Muslim Religious Cultural Affairs and Ulama will attend the conference.
-
-The Colombo big school has urged the Muslim people to report on 0112432110, 0112451245, 077316415 with the appropriate sources if the Shawal month headline is visible in the country.
-
-◼️
-
-[Data](articles/5fb86b96.json)
-
-[Extended Data](ext_articles/5fb86b96.ext.json)
-
----
-
-### Social Empowerment Ministry renames two traditional New Year games
-
-*2024-04-08 21:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Social-Empowerment-Ministry-renames-two-traditional-New-Year-games/108-280410) · `en`
-
-Colombo, April 8 (Daily Mirror) - State Minister for Social Empowerment, Anupa Pasqual has decided to change the names of two traditional games that are played during the Sinhala and Tamil New Year festival.
-
-As per the decision, the game known as "Kana Mutti Bindeema," also known as breaking the pots, will now be called "Wasana Muttiya Bindeema," and "Andayata Kiri Kaweema," also known as "Blindfold Feeding," will be renamed "Sagayata Kiri Keveema."
-
-Speaking at an event in at the President's Media Centre, the Minister highlighted that the traditional games mentioned earlier had been rejected by society and endorsed by the Ministry.
-
-The decision was made to foster a conceptual shift in society's perception of disabled individuals during this year's New Year celebrations.
-
-Furthermore, the Minister announced that all banks participating in the Samurdhi campaign have organized 1,089 New Year celebrations across the country.
-
-◼️
-
-[Data](articles/da2a7bdc.json)
-
-[Extended Data](ext_articles/da2a7bdc.ext.json)
-
----
-
-### Sathosa slashes prices of several essential food items
-
-*2024-04-08 21:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98523/sathosa-slashes-prices-of-several-essential-food-items) · `en`
-
-Sri Lanka’s state-owned wholesale and retail chain ‘Lanka Sathosa’ has reduced the prices of several types of essential consumer goods ahead of the upcoming festive season.
-
-Accordingly, it has been decided to lower these prices with effect from midnight today (08).
-
-The price of a kilogram of dry chillies has been reduced by Rs. 300 and the new price is Rs. 850.
-
-The price of a kilogram of big onions imported from China has been reduced by Rs. 120 and its new price will be listed as Rs. 375 per kg.
-
-Also, the price of big onions imported from India and Pakistan have been reduced by Rs. 50 and its new price is Rs. 445.
-
-The price of garlic has been reduced by Rs. 15 and the new price is Rs. 680 per kg.
-
-A kilogram of potato has been reduced by Rs. 10 and its new price is Rs. 165.
-
-Meanwhile, Lanka Sathosa has decided to reduce the price of red lentil dahl by Rs. 07 and white raw rice by Rs. 03 per kilogram.
-
-◼️
-
-[Data](articles/68543cf9.json)
-
-[Extended Data](ext_articles/68543cf9.ext.json)
-
----
-
-### Notice of children who own 6000 scholarship in March
-
-*2024-04-08 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195448) · `si`
-
-The Presidential Fund has awarded 6,000 scholarships to GCE Ordinary Level students, with payments from March to April. Scholarships are monthly for 24 months. Details on www.presidentsfund.gov.lk.
-
-🟩
-
-Second recipients of scholarship recipients have been completed for 6,000 students with the economic certificates of the GCE Ordinary Level examination.
-
-Accordingly, the Presidential Fund has been paid to pay the scholarship from March and April.
-
-Each selected scholarship has been given monthly scholarships for 24 months to 24 months.
-
-The selected scholarship recipients are to be displayed at www.presidentsfund.gov.lk, the presidential fund's official website.
-
-◼️
-
-[Data](articles/990eba98.json)
-
-[Extended Data](ext_articles/990eba98.ext.json)
-
----
-
-### Sri Lanka and Indonesia to sign trade pact next March
-
-*2024-04-08 21:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98522/sri-lanka-and-indonesia-to-sign-trade-pact-next-march) · `en`
-
-Indonesia is seeking to sign its trade pact with Sri Lanka by next March while hoping that one year of negotiations is enough to close the deal.
-
-It has only been a few weeks since Indonesia and Sri Lanka agreed to formally discuss the preferential trade agreement (PTA). The first round of negotiations already took place virtually earlier this week, which zeroed in on the work plan and draft agreement text. The negotiators are set to enter more substantial chapters in the coming rounds.
-
-“Indonesia and Sri Lanka are … aiming to substantially conclude the negotiations by end-2024. We have also set a target to sign the agreement in March 2025,” a press statement by the Trade Ministry reads.
-
-The second round of talks is scheduled to take place in Colombo on June 19-20. Both countries will discuss the text concept, as well as market access.
-
-...
-
-[Data](articles/03d18791.json)
-
-[Extended Data](ext_articles/03d18791.ext.json)
 
 ---

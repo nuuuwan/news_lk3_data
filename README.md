@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 12:03:40**
+As of **2024-04-09 12:18:28**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 2,920
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,023 (100.0%) of 18,024 articles have been extended.
+18,024 (100.0%) of 18,024 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### පුංචි පුතුට මරු කැඳවූ බිහිසුණු අනතුර
+### The horrific accident that kills Little Son
 
 *2024-04-09 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195464) · `si`
 
-වැල්ලවාය - මොනරාගල ප්‍රධාන මාර්ගයේ වැල්ලවාය අයි.ඕ.සී ඉන්ධන පිරවුම්හල අසල ප්‍රදේශයේ දී සිදුවූ අනතුරකින් අවුරුදු දෙකයි මාස අටක දරුවෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+A tragic accident near Wellawaya resulted in the death of a 2-month-old child. A collision involving a three-wheeler and a tipper led to the child's demise. The parents of the three-wheeler were hospitalized, with the father being admitted to Wellawaya Base Hospital and the mother transferred to Moneragala district hospital. The deceased child was from Anaduwella, Wellawaya. The suspect driver is under investigation by Wellawaya Police.
 
-ත්‍රීරෝද රථයක් සහ ටිපර් රථයක් එකිනෙක ගැටීමෙන් එම අනතුරක් සිදුව තිබිණි.
+🟩
 
-එම අනතුරින් ත්‍රීරෝද රථයේ ගමන් ගත් දරුවාගේ මව සහ පියා ද තුවාල ලබා වැල්ලවාය මූලික රෝහලට ඇතුළත් කර ඇත.
+A two-month-old child killed in a nearby area near Wellawaya, Wellawaya main road.
 
-පසුව මව වැඩිදුර ප්‍රතිකාර සඳහා මොනරාගල දිස්ත්‍රික් මහ රෝහලට මාරු කර යවා ඇති බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+Three wheeler and a tipper collided with the accident.
 
-අනතුරින් මියගොස් ඇත්තේ වැල්ලවාය ආනපල්ලම ප්‍රදේශයේ පදිංචි දරුවෙකු වන අතර අනතුර සම්බන්ධයෙන් ටිපර් රථයේ රියදුරු වැල්ලවාය පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+The mother and father of the three-wheeler and father was admitted to the Wellawaya Base Hospital.
 
-සැකකාර රියදුරු වැල්ලවාය මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබූ අතර සිද්ධිය සම්බන්ධයෙන් වැල්ලවාය පොලිස් ස්ථානයේ නිලධාරීන් විසින් ඉදිරි විමර්ශන සිදුකරයි.
+The mother was later transferred to the Moneragala district hospital for further treatment, "Ada Derana reporter said.
+
+The deceased has been identified as a child of a resident of Anaduwella area in Wellawaya.
+
+The suspect driver was to be produced before the Wellawaya Magistrate's Court and the officers of the Wellawaya Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/07543a77.json)
+
+[Extended Data](ext_articles/07543a77.ext.json)
 
 ---
 

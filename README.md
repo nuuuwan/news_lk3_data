@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 07:17:09**
+As of **2024-04-09 07:39:48**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 2,908
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,966 (100.0%) of 17,969 articles have been extended.
+17,969 (100.0%) of 17,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### මේ දවස්වල පරිස්සමින් ඉන්න
+### These days stay careful
 
 *2024-04-09 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195452) · `si`
 
-කිරිබත්ගොඩ, හුණුපිටිය ප්‍රදේශයේ ගරාජයක තිබී කාබයිට් ටැංකියක් පුපුරා යාම හේතුවෙන් පුද්ගලයෙකු මියගොස් තිබේ.
+A carbite tank explosion in Hunupitiya killed a 45-year-old from Dekatana. A pedestrian on the 4th floor of the Fort Police Division was seriously injured and is in Colombo National Hospital.
 
-එම අනතුරින් මියගොස් ඇත්තේ,  දෙවලගම, දෙකටන ප්‍රදේශයේ පදිංචි 45 හැවිරිදි පුද්ගලයෙකි.
+🟩
 
-මේ අතර, කොටුව පොලිස් වසමේ චැතැම් විදියේ පිහිටි පැරණි ගොඩනැගිල්ලක 04 වන මහලේ උළුවහු ජනේලයක් ගැලවී මාර්ගයේ පදික වේදිකාවේ ගමන් කරමින් සිටි පදිකයකුගේ ඇඟට වැටී තිබිණි.
+A carbite tank was killed due to an explosion in a garage in the Hunupitiya area in Kiribathgoda.
 
-පදිකයා එම අනතුරින් බරපතළ තුවාල ලබා කොළඹ ජාතික රෝහල වෙත ඇතුළත් කර ඇත.
+The deceased is a 45 year old resident of the Dekatana area in Deanagama.
 
-තුවාලකරු කොළඹ ජාතික රෝහලේ නේවාසිකව ප්‍රතිකාර ලබමින් සිටින අතර කොටුව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+Meanwhile, the door of the 4th floor of the fort building of the fort building of the Fort Police Division was the body of a panel of pedestrian.
+
+The pedestrian has been seriously injured and admitted to the Colombo National Hospital.
+
+The injured hospital is receiving treatment at the Colombo National Hospital while the Fort Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/4b132bf5.json)
+
+[Extended Data](ext_articles/4b132bf5.ext.json)
 
 ---
 
@@ -68,25 +74,33 @@ Wickremesinghe government has been also trying to win people ahead of a presiden
 
 [Data](articles/cdd2c08d.json)
 
+[Extended Data](ext_articles/cdd2c08d.ext.json)
+
 ---
 
-### අදත් ප්‍රදේශ කිහිපයකට තද වැසි
+### Heavy rains in several areas today
 
 *2024-04-09 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195451) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (09) ප.ව. 2.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains expected in Galle, Matara, Western, Sabaragamuwa, and North Western Provinces today, with showers or thundershowers after 2.00 pm. Met Department advises public to take precautions against wind and lightning. Sun directly above Sri Lanka on 5th April, affecting Udupuvu, Audigura, Bakamuna, Grougadala, and Eravur.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බවය.
+🟩
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Galle and Matara districts will be today in the Western, Sabaragamuwa and North Western Provinces.. Showers or thundershowers will occur at a few places after 2.00 pm, the Met Department said.
 
-දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනවලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්ෂාංශ වලට සෘජුවම ඉහළින් පවතී.
+The department states that some locations are expected in the Western, Central and Sabaragamuwa provinces and in some places in the Galle and Matara districts.
 
-ඒ අනුව අද (09) දහවල් 12:11ට උඩප්පු , ආඩිගම, පිදිවිල්ල, බකමුණ, නුවරගල සහ එරාවුර් යන ප්‍රදේශවලට හිරු මුදුන් වනු ඇත.
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+The sun is directly above Sri Lanka at 5th April, while the sun traveled to the North.
+
+Accordingly, the sun will overcome the presence of Udupuvu, Audigura, Bakamuna, Bakamuna, Grougadala and Eravur today (09).
 
 ◼️
 
 [Data](articles/1b4429aa.json)
+
+[Extended Data](ext_articles/1b4429aa.ext.json)
 
 ---
 

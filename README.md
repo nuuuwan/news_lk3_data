@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 03:18:09**
+As of **2024-04-10 03:33:48**
 
 ## Newspaper Stats
 
-*Scraped **18,174** Articles*
+*Scraped **18,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,015
 adalk | 1,531
 tamilmirrorlk | 2,127
 adaderanalk | 2,180
-virakesarilk | 2,683
+virakesarilk | 2,686
 dailymirrorlk | 2,775
 adaderanasinhalalk | 2,943
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 2,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,174 (100.0%) of 18,174 articles have been extended.
+18,174 (100.0%) of 18,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### நிமல் சிறிபாலவின் நியமனம் சட்டவிரோதமானது - உதய கம்மன்பில
+
+*2024-04-10 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180854) · `ta`
+
+...
+
+[Data](articles/e3c00332.json)
+
+---
+
+### நோன்புப் பெருநாளை முன்னிட்டு முஸ்லிம் கைதுகளுக்கு விருந்தினர்களை பார்வையிட அனுமதி
+
+*2024-04-10 03:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180853) · `ta`
+
+நோன்புப் பெருநாளை முன்னிட்டு முஸ்லிம் சிறைக்கைதிகளுக்கு விருந்தினர்களை பார்வையிட அனுமதிக்க சிறைச்சாலைகள் திணைக்களம் தீர்மானித்துள்ளது. அதன் பிரகாரம் சிறைக்கைதிகளாக இருக்கும் முஸ்லிம் கைதிகளுக்கு நாளை 11ஆம் திகதி விருந்தினர்களை பார்வையிட தேவையான நடவடிக்கைகளை சிறைச்சாலை திணைக்களம்  எடுத்துள்ளதாக சிறைச்சாலை ஆணையாளர் (ஊடக பேச்சாளர்) காமினி பி. திஸாநாயக்க தெரிவித்துள்ளார்.
+
+அதனடிப்படையில், இஸ்லாம் மதத்தைச் சேர்ந்த சிறைக்கைதிகளின் உறவினர்களினால் தங்களின் வீடுகளில் இருந்து கொண்டுவரும் உணவு, இனிப்பு பண்டங்கள் மற்றும் அத்தியாவசிய பொருட்கள், ஒருவருக்கு தேவையான அளவு கொண்டுவர முடியும் என்பதுடன்  தற்போதுள்ள சட்ட திட்டங்கள் மற்றும் உரிய சுகாதார பாதுகாப்பு முறைமையின் கீழ் குறித்த பொருட்களை பெற்றுக்கொடு்க்க அனைத்து சிறைச்சாலை நிறுவனங்களும் நடவடிக்கை எடுத்துள்ளதாகவும்  அவர் விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/dc0cd69b.json)
+
+---
+
+### பரபரப்பான ஐபிஎல் போட்டியில் பஞ்சாப் கிங்ஸை 2 ஓட்டங்களால் வென்றது சன்ரைசர்ஸ் ஹைதராபாத்
+
+*2024-04-10 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180852) · `ta`
+
+மொஹாலி, மல்லன்பூர் மகாராஜா யாதவிந்த்ரா சிங் சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் செவ்வாய்க்கிழமை (09) கடைசிவரை மிகவும் பரபரப்பை ஏற்படுத்திய 17ஆவது இண்டியன் பிறீமியர் லீக் கிரிக்கெட் அத்தியாயத்தின் 23ஆவது போட்டியில் பஞ்சாப் கிங்ஸை 2 ஓட்டங்களால் சன்ரைசர்ஸ் ஹைதராபாத் வெற்றிகொண்டது.
+
+சன்ரைசர்ஸ் ஹைதராபாத் இலகுவாக வெற்றிபெறும் என பஞ்சாப் கிங்ஸின் 15ஆவது ஓவரின்போது கணிப்பிடப்பட்டது. ஆனால், வெற்றி இலகுவாக கிடைக்கவில்லை. கடைசிப் பந்திலேயே சன்ரைசர்ஸ் ஹைதராபாத்தின் வெற்றி உறுதியானது.
+
+183 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய பஞ்சாப் கிங்ஸ் 20 ஓவர்களில் 6 விக்கெட்களை இழந்து 180 ஓட்டங்களைப் பெற்று பரபரப்புக்கு மத்தியில் தோல்வி அடைந்தது.
+
+ஒரு கட்டத்தில் பஞ்சாப் கிங்ஸ் 15.3 ஓவர்களில் 6 விக்கெட்களை இழந்து 114 ஓட்டங்களைப் பெற்று தடுமாற்றத்தை எதிர்கொண்டது.
+
+...
+
+[Data](articles/ec6f1c77.json)
+
+---
 
 ### A bloc to confront global debt crisis: What role for Sri Lanka?
 
@@ -2159,75 +2201,5 @@ It has been decided to increase the bail deposit of a candidate submitted by a p
 [Data](articles/f86fc2ab.json)
 
 [Extended Data](ext_articles/f86fc2ab.ext.json)
-
----
-
-### President Ranil Wickremesinghe is not the candidate of PA -Ranjith Bandara
-
-*2024-04-09 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180821) · `ta`
-
-Ranjith Bandara, PA's Treasurer, announced no presidential candidate from PA, contradicting President Ranil Wickremesinghe's statement. Prasanna Ranatunga clarified no PA members will run, emphasizing internal party resolutions over personal opinions.
-
-🟩
-
-President Ranil Wickremesinghe does not decide on the party level as presidential candidate. Let us field the candidate of the PA. Ranjith Bandara, Treasurer and Member of Parliament, said that we will soon announce our resolution.
-
-He made this statement during a media briefing held at the Sri Lanka PA's office on Tuesday (9).
-
-The party's senior member Prasanna Ranatunga states that there are no members in the PA to contest the presidential election and not the party's position.
-
-I expect that if an official resolution is taken at the party level, he will understand the resolution taken at the internal level of the party to avoid referring to personal opinions.
-
-We have the ability to field the presidential candidate.. Prasanna Ranatunga knows that we will field the winning candidate.
-
-There is no need to urgently in the presidential candidate. We will field a candidate.
-
-There are no contradictions within the Sri Lanka PA.
-
-...
-
-[Data](articles/44dd5941.json)
-
-[Extended Data](ext_articles/44dd5941.ext.json)
-
----
-
-### Students can now enroll in Kotelawala University’s medical degree programme
-
-*2024-04-09 15:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Students-can-now-enroll-in-Kotelawala-Universitys-medical-degree-programme/108-280474) · `en`
-
-Colombo, April 09 (Daily Mirror) -  The Cabinet has granted approval for local students to gain admission to the General Sir John Kotelawala Defence University's medical degree programme.
-
-Under the endorsed proposal, which received the nod from the Cabinet, aspiring medical students from Sri Lanka will have the opportunity to commence their studies at the renowned institution from the upcoming academic year.
-
-The admission process will be primarily based on the applicants' 'Z score' obtained from the GCE Advanced Level Examination, alongside other pertinent qualifications. However, it's worth noting that admission will be facilitated on a fee-paying basis.
-
-◼️
-
-[Data](articles/3a5b0c16.json)
-
-[Extended Data](ext_articles/3a5b0c16.ext.json)
-
----
-
-### Sri Lanka to hike election deposits paid by candidates
-
-*2024-04-09 15:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-hike-election-deposits-paid-by-candidates-158040/) · `en`
-
-ECONOMYNEXT — As Sri Lanka heads into decisive elections, the cabinet of ministers has approved a proposal to increase the deposit placed by candidates representing recognised political parties as well as independent candidates.
-
-The deposit placed by a candidate representing a party has been increased to 2.6 million rupees while an independent party at the presidential election has to pay to 3.1 million.
-
-The proposal was made jointly by President Ranil Wickremesinghe and Minister of Justice Wijeyadasa Rajapakshe.
-
-For parliamentary elections, a candidate representing a recognised political party must pay 11,000 rupees while an independent candidate has to make a deposit of 16,000 rupees.
-
-At the local government polls, a party candidate must pay 6,000 rupees as deposit, while an independent candidate has to pay 11,000.
-
-...
-
-[Data](articles/5b84a71f.json)
-
-[Extended Data](ext_articles/5b84a71f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 10:51:22**
+As of **2024-04-09 11:03:17**
 
 ## Newspaper Stats
 
-*Scraped **18,006** Articles*
+*Scraped **18,015** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,177 @@ dailyftlk | 987
 islandlk | 992
 economynextcom | 996
 adalk | 1,515
-tamilmirrorlk | 2,113
-adaderanalk | 2,163
-virakesarilk | 2,651
-dailymirrorlk | 2,748
-adaderanasinhalalk | 2,917
+tamilmirrorlk | 2,115
+adaderanalk | 2,165
+virakesarilk | 2,653
+dailymirrorlk | 2,749
+adaderanasinhalalk | 2,919
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,006 (100.0%) of 18,006 articles have been extended.
+18,006 (100.0%) of 18,015 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### වෛද්‍ය සැපයුම් අංශයේ ලොක්කා ගැන නියෝගය කල්යයි
+
+*2024-04-09 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195463) · `si`
+
+වෛද්‍ය සැපයීම් අංශයේ අධ්‍යක්ෂ වෛද්‍ය කපිල වික්‍රමනායක මහතා රක්ෂිත බන්ධනාගාර ගත කිරීමට එරෙහිව ගොනුකර තිබෙන රිට් පෙත්සමේ අතුරු ඉල්ලීම් පිළිබඳ නියෝගය ප්‍රකාශ කිරීම අභියාචනාධිකරණය විසින් ලබන 26 වනදා දක්වා කල් තැබීය.
+
+ඔහු මේ වන විට රක්ෂිත බන්ධනාගාරගත කර ඇත්තේ, ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙනි.
+
+එම නියෝගය අද (09) අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් මහතා විසින් ප්‍රකාශයට පත්කිරීමට නියමිතව තිබිණි.
+
+එහෙත් විනිසුරුවරයා කියා සිටියේ, එම නියෝගය ප්‍රකාශයට පත්කිරීම ලබන 26 වනදා දක්වා කල්තබන බවය.
+
+තමන්ව රක්ෂිත බන්ධනාගාරගත කිරීමට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය කරනු ලැබූ තීරණය නීතියට පටහැනි බවත් එබැවින් තමන්ව ඇප මත මුදාහරින ලෙසත් ඉල්ලමින් අදාළ වෛද්‍යවරයා සිය නීතිඥවරු මාර්ගයෙන් මෙම පෙත්සම ඉදිරිපත් කර තිබිණි.
+
+◼️
+
+[Data](articles/db6fb470.json)
+
+---
+
+### தாய்லாந்துக்கு பயணமானார் மைத்திரிபால
+
+*2024-04-09 10:45:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்லாந்துக்கு-பயணமானார்-மைத்திரிபால/175-335779) · `ta`
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தாய்லாந்துக்கான விஜயம் ஒன்றை மேற்கொண்டு இன்று (09) அதிகாலை நாட்டிலிருந்து புறப்பட்டுள்ளார்.
+
+இன்று அதிகாலை 12.55 மணியளவில் தாய்லாந்தின் பேங்கொக் நகருக்கு இவர்கள் புறப்பட்டுச் சென்றுள்ளனர்.
+
+◼️
+
+[Data](articles/e055a060.json)
+
+---
+
+### අපරාධ කල්ලි සාමාජිකයින් පිරිසක් අත්අඩංගුවට
+
+*2024-04-09 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195462) · `si`
+
+දිවයිනේ ප්‍රදේශ කිහිපයක සිදුකළ විශේෂ මෙහෙයුම්වලදී සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් සහ ඔවුන් හා සබඳතා පැවැත්වු සැකකරුවන් 16 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+බස්නාහිර පළාත සහ දකුණු පළාත මුලික කරගනිමින් ක්‍රියාත්මක සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් අත්අඩංගුවට ගැනීමේ විශේෂ මෙහෙයුමේ දී එම සැකකරුවන් පිරිස අත්අඩංගුවට ගත් බව පොලීසිය පැවැසුවේය.
+
+එහිදී වැල්ලවත්ත, මිටියාගොඩ, කෙසෙල්වත්ත,රත්ගම, ගල්කිස්ස සහ අංගොඩ යන ප්‍රදේශවල දී අදාළ සැකකරුවන් අත්අඩංගුවට ගෙන ඇති බව සඳහන්ය.
+
+අත්අඩංගුවට ගත් පිරිස අතර සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් 8 දෙනෙකු සහ ඔවුන් සමඟ විවිධ සබඳතා පවත්වමින් අපරාධ සඳහා සහාය දැක්වු තවත් 8 දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/ffec8f0c.json)
+
+---
+
+### Former President Sirisena leaves for Thailand this morning
+
+*2024-04-09 10:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-President-Sirisena-leaves-for-Thailand-this-morning/108-280465) · `en`
+
+Former President Maithripala Sirisena left the Bandaranaike International Airport (BIA) this morning for a visit to Thailand.
+
+It was reported that he left the airport along with another nine persons.
+
+◼️
+
+[Data](articles/8140d8bc.json)
+
+---
+
+### Ex-President Maithripala leaves for Thailand
+
+*2024-04-09 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98530/ex-president-maithripala-leaves-for-thailand-) · `en`
+
+Former President Maithripala Sirisena has left the country for Thailand, early this morning (09).
+
+A delegation of 09 individuals have reportedly undertaken the visit along with Sirisena.
+
+They left the island at 12.55 a.m. this morning to travel to Bangkok, Thailand.
+
+◼️
+
+[Data](articles/cdfef03d.json)
+
+---
+
+### Special security to Mosques for Ramadan festival
+
+*2024-04-09 10:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98529/special-security-to-mosques-for-ramadan-festival-) · `en`
+
+Special security arrangements will be put in place at Mosques across the country in view of Ramadan festival (April 11), the Ministry of Public Security announced.
+
+Accordingly, 5,580 policemen, 510 Police Special Task Force (STF) personnel and 1,260 tri-forces personnel will be deployed for security.
+
+This special security plan has been prepared following discussions with the Mawlawis of all the mosques belonging to each police division across the island, according to the ministry.
+
+Thus, the necessary security will be assured for 2,453 mosques out of the 3,203 mosques across the island, where religious services are held.
+
+◼️
+
+[Data](articles/a8c0601d.json)
+
+---
+
+### சிறைச்சாலை கைதிகளை பார்வையிடுவதற்கு அனுமதி
+
+*2024-04-09 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180787) · `ta`
+
+ரமழான் மற்றும் தமிழ் சிங்கள புத்தாண்டு தினங்களை முன்னிட்டு சிறைச்சாலைக் கைதிகளை பார்வையிடுவதற்காக விசேட நடவடிக்கை மேற்கொள்ளபட்டுள்ளன.
+
+எதிர்வரும் 11, 12 மற்றும் 13 ஆம் திகதிகளில் இந்த வேலைத்திட்டம் அமுல்படுத்தப்படவுள்ளதாக சிறைச்சாலை ஆணையாளர் ஊடக பேச்சாளர் காமினி பி. திசாநாயக்க தெரிவித்துள்ளார்.
+
+அத்தோடு, எதிர்வரும் 11 ஆம் திகதி ரமழான் பண்டிகையினை முன்னிட்டு இஸ்லாமிய மதக் கைதிகளுக்கு மாத்திரம்  உறவினர்களை பார்வையிடுவதற்கு விசேட நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளதாக தெரிவித்துள்ளார்.
+
+சிறைச்சாலை கைதிகளுக்காக உறவினர்களினால் கொண்டுவரப்படும் இனிப்பு வகை உணவுகள், உணவு மற்றும் சுகாதார பொருட்களை தற்போதுள்ள சுகாதார விதிமுறைகளுக்கு அமைவாக பாதுகாப்பு நடைமுறைகளுடன் வழங்குவதற்காக  அனைத்து சிறைச்சாலைகளிலும் ஏற்பாடுகள் செய்யப்பட்டுள்ளதாக தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/13558899.json)
+
+---
+
+### பள்ளிவாசல்களுக்கு சிறப்பு பாதுகாப்பு
+
+*2024-04-09 10:36:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பள்ளிவாசல்களுக்கு-சிறப்பு-பாதுகாப்பு/175-335778) · `ta`
+
+பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனின் பணிப்புரைக்கு அமைவாக பொலிஸ் விசேட அதிரடிப்படையினர் மற்றும் முப்படையினர் இந்த கடமைகளில் ஈடுபடுத்தப்படவுள்ளனர்.
+
+ஒவ்வொரு பொலிஸ் பிரிவிலும் உள்ள அனைத்து பள்ளிவாசல் நிர்வாகத்தோடு கலந்துரையாடி சிறப்பு பாதுகாப்பு திட்டம் தயாரிக்கப்பட்டுள்ளது.
+
+நாடளாவிய ரீதியில் உள்ள 3,203 பள்ளிவாசல்களில்  மத வழிபாடுகள் நடைபெறும் 2,453 பள்ளிவாசல்களுக்கு பாதுகாப்பு வழங்கபடவுள்ளன.
+
+இந்த பணிகளில் 5,580 பொலிஸார், 510 விசேட அதிரடிப்படையினர் மற்றும் 1,260 இராணுவ வீரர்கள் உட்பட 7,350க்கும் மேற்பட்ட பாதுகாப்பு படையினர் ஈடுபடுத்தப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/aba93f4e.json)
+
+---
+
+### முல்லைத்தீவு மண்ணின் முதல் மேல் நீதிமன்ற நீதிபதியாக அலெக்ஸ்ராஜா நியமனம்
+
+*2024-04-09 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/180780) · `ta`
+
+மாவட்ட நீதிபதி ஆசிர்வாதம் கிறேசியன் அலெக்ஸ்ராஜா, மேல் நீதிமன்ற நீதிபதியாக பதவி உயர்வு வழங்கி ஜனாதிபதி நியமித்துள்ளார்.
+
+இதன்மூலம் முல்லைத்தீவு மண்ணில் பிறந்த முதலாவது நீதிபதியாகவும் மேல் நீதிபதியாகவும் அவர் பெருமையை பெற்றுள்ளார்.
+
+பருத்தித்துறை மாவட்ட நீதிபதியாக கடமையாற்றும் அவருக்கு நீதிச் சேவை ஆணைக்குழுவினால் மேல் நீதிமன்றம் வரும் நாள்களில் வழங்கி வைக்கப்படவுள்ளது.
+
+முல்லைத்தீவு செல்வபுரத்தில் 1976ஆம் ஆண்டு பிறந்த ஆசிர்வாதம் கிறேசியன் அலெக்ஸ்ராஜா, முல்லைத்தீவு மகா வித்தியாலயத்தில் உயர்கல்வியை முடித்தார்.
+
+2007ஆம் ஆண்டு நீதிச் சேவை அலுவலகராக நியமனம் பெற்று நீதிபதியாக யாழ்ப்பாணம் மாவட்டத்திலுள்ள அனைத்து நீதிவான் நீதிமன்றங்களிலும் கடமையாற்றியுள்ளார்.
+
+◼️
+
+[Data](articles/f34abb7a.json)
+
+---
 
 ### SLTB bus accident
 
@@ -2051,219 +2207,5 @@ The public receives two weeks from the date on which it was presented to Parliam
 [Data](articles/dbda5a9e.json)
 
 [Extended Data](ext_articles/dbda5a9e.ext.json)
-
----
-
-### Tower Crane's beaker damaged a number of property by collapse
-
-*2024-04-08 19:06:06* · [`adalk`](https://www.ada.lk/picture_story/ටවර්-ක්‍රේන්-යන්ත්‍රයක-බක්කිය-කඩා-වැටීමෙන්-දේපළ-රැසකට-හානි/10-409018) · `si`
-
-A tower crane's collapse in Kollupitiya damaged several properties, including a house, car, and three-wheeler, without causing any injuries. The crane was part of a high-floor office complex construction. The police are investigating the incident.
-
-🟩
-
-Kollupitiya Police say that the Tower Crane's busy beaker in the Av Aviniv area is claimed by a number of property.
-
-As a result, a house, a car and three-wheeler has been developed. None of the lives or injury was not surrounded by the burden of the beach.
-
-The tower of the Tower Crane was collapsed, which was used to take the construction of the high-floor of the office complex, which was constructed in the office complex.
-
-Police say that the backed deck adjacent to the land of the collapse and the coal of cement coal in the bench, police said.
-
-The OIC of the OIC of the Department of Kollupitiya Police OIC of the OIC of the Complaints Division (OIC) OIC of the Complaints Division, OIC of the OIC of the Complaints Division, has investigated.
-
-◼️
-
-[Data](articles/3ebf735b.json)
-
-[Extended Data](ext_articles/3ebf735b.ext.json)
-
----
-
-### Approval of the Electricity Reforms Act
-
-*2024-04-08 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195444) · `si`
-
-The Electricity Reforms Act has been approved by the Cabinet, with the revised Bill to be presented to Parliament in the last week of April, as stated by Minister Kanchana Wijesekera.
-
-🟩
-
-Cabinet approval has been granted today for the revised Bill, the revised Bill.
-
-The Minister of Power and Energy, Kanchana Wijesekera has made this statement.
-
-Accordingly, the revised Bill will be presented to Parliament in Parliament in the last week of April.
-
-◼️
-
-[Data](articles/8d48036d.json)
-
-[Extended Data](ext_articles/8d48036d.ext.json)
-
----
-
-### Cabinet approves amended Electricity Sector Reforms Bill
-
-*2024-04-08 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98521/cabinet-approves-amended-electricity-sector-reforms-bill) · `en`
-
-The Cabinet of Ministers has approved the amended version of the electricity sector reforms bill today (08).
-
-Minister of Power and Energy Kanchana Wijesekara said that accordingly, approval was granted to gazette the amended version of the new electricity sector bill and to present it to the Parliament for approval.
-
-Posting on ‘X’ (formerly Twitter), Wijesekara said the bill will be gazetted this week to be presented to the Parliament in the last week of April.
-
-Meanwhile, the public will have 02 weeks from the day it’s presented to the Parliament to challenge the bill, according to the Minister.
-
-◼️
-
-[Data](articles/c2f057fe.json)
-
-[Extended Data](ext_articles/c2f057fe.ext.json)
-
----
-
-### Satin 'concession bag
-
-*2024-04-08 18:49:49* · [`adalk`](https://www.ada.lk/breaking_news/සතොසින්-සහන-මල්ලක්/11-409017) · `si`
-
-Satin's concession bag now offers reduced prices on 8 essential commodities, including dried chilli, Chinese big onions, Indian and Pakistan big onions, white onions, Pakistani potato, red dhal, and white rice.
-
-🟩
-
-The company said that the new prices have been taken to reduce the price of 8 essential commodities.
-
-The price of a kilo of dried chilli has been reduced by Rs.
-
-A kilo of Chinese big onions has been reduced by Rs.130 rupees and the new price is Rs. 375.
-
-Indian and Pakistan big onions have been reduced Rs.
-
-The price of a kilo of white onions has been reduced by Rs. 15 and the new price is Rs.
-
-The price of a kilo of Pakistani potato has been reduced by Rs.10 and the new price is Rs.165.
-
-The price of a kilo of red dhal has been reduced by Rs.
-
-The price of a kilogram of white rice has been reduced by Rs.
-
-◼️
-
-[Data](articles/cf7f0e2e.json)
-
-[Extended Data](ext_articles/cf7f0e2e.ext.json)
-
----
-
-### Prison Department allows visits for New Year
-
-*2024-04-08 18:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prison-Department-allows-visits-for-New-Year/108-280403) · `en`
-
-Colombo, April 8 (Daily Mirror) - In preparation for the Sinhala and Tamil New Year, the Prisons Department has arranged to allow visitors to see inmates on April 12 and 13.
-
-All prison facilities have been arranged to accept food, sweets and hygiene items brought by inmates' relatives from home, adhering to existing rules and implementing proper health and safety protocols. These items will be provided in quantities suitable for one person only.
-
-◼️
-
-[Data](articles/3a7d491e.json)
-
-[Extended Data](ext_articles/3a7d491e.ext.json)
-
----
-
-### Gaza War: Case in International Court against Germany
-
-*2024-04-08 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180761) · `ta`
-
-Nicaragua sues Germany in the International Court of Justice, alleging it aided Israel in potential genocide by supplying weapons. Germany counters by offering humanitarian aid to Palestinians. The case is heard in the Hague, Netherlands.
-
-🟩
-
-Nikarakua has sued the International Court of Justice, accusing Germany of helping the genocide of Palestinians by providing arms to Israel.
-
-Nikaraga has demanded that Germany be ordered to stop Israel's weapons and other assistance.
-
-The case came up for hearing on Monday at the International Court of Hague in the Netherlands.
-
-On the one hand, Nicaragua Attorney Daniel Mweller told the court that Germany offers Israel to Israel on the other hand, providing humanitarian assistance to Palestinian children, women and men, on the other hand.
-
-Another lawyer Aline Bellet said Germany knew that Israel was in danger of using these weapons for genocide.
-
-◼️
-
-[Data](articles/164cf2df.json)
-
-[Extended Data](ext_articles/164cf2df.ext.json)
-
----
-
-### Law structures in the country should be modernized - the president
-
-*2024-04-08 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180753) · `ta`
-
-President Ranil Wickremesinghe emphasized the need for modernizing legal structures in Sri Lanka to support economic growth, especially through a program with the IMF. He highlighted the importance of legalizing the IMF deal, updating laws, and focusing on digital economy, environmental, and financial laws.
-
-🟩
-
-President Ranil Wickremesinghe said the legal framework should be modernized for the success of the government's plan to create rapid economic growth in the country.
-
-The President made this statement at a meeting with Kandy's lawyers held at the Mahaweli Reich Hotel on Sunday (07).
-
-The President pointed out that a program with the International Monetary Fund is the rapid solution to the rebuilding of Sri Lanka's decline, and that it is taking steps to legalize the deal with the International Monetary Fund to provide people with its benefit.
-
-The President also said that the new legal structure would be introduced in order to be modernized in all sectors, and that the activities were expecting the support of all in the legal sector.
-
-We also need to decide whether President Ranil Wickremesinghe should continue the program with the IMF.
-
-Sri Lanka has a disgrace to change the decision every time.This is the last opportunity we have for the country.
-
-...
-
-[Data](articles/e7016c97.json)
-
-[Extended Data](ext_articles/e7016c97.ext.json)
-
----
-
-### The 50th ODI match of saints: Holy Peter wins 3 wickets
-
-*2024-04-08 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180755) · `ta`
-
-St. Peter's College wins the 50th ODI against St. Susayapar College by 3 wickets in the 50th Annual Cricket Tournament. St. Susayapar scored 229/48.5, with Hirun Kapurupandara (70) and Hiran Jayasundara (65) leading. St. Peter's won by 7 wickets in 45.4 overs, with Dilana Damsara (67) and Oven Salkado (40) shining.
-
-🟩
-
-Colombo SSC. St. Susayapar College in the 50th Annual Cricket Tournament held at the stadium at the St. Peter by 3 wickets. The child took over the memorial shield.
-
-The first one -day cricket match was held in the history of Sri Lankan schools in the history of Cricket, St. Susayapar College and St. Peter's College.
-
-It is appropriate that Tushan Soyza, who played as the captain of the St. Susayapar, and Bernard Wijeedunga, who played the Holy See captain as the captain of the St. Susayapar, and Bernard Wijeedunga, were the chief guests of the 50th ODI of the Saints.
-
-St. Susayapar, who won the first match, scored 229 runs for the loss of all wickets in 48.5 overs.Hirun Kapurupandara and Assistant Team Leader Hiran Jayasundara shared 124 runs in the 3rd wicket and were expected to get a substantial total number.
-
-...
-
-[Data](articles/4c9d862e.json)
-
-[Extended Data](ext_articles/4c9d862e.ext.json)
-
----
-
-### Gampaha firing in Katugastara area;One kills!
-
-*2024-04-08 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180760) · `ta`
-
-In Gampaha, an unidentified shooter killed one person at 4 pm on Monday. The victim, injured, later died in Gampaha Hospital.
-
-🟩
-
-It is reported that the shooting was carried out by an unidentified person at 4 pm on Monday.
-
-The man who was injured in the shooting has died after being admitted to the Gampaha Hospital for treatment.
-
-◼️
-
-[Data](articles/80e10cba.json)
-
-[Extended Data](ext_articles/80e10cba.ext.json)
 
 ---

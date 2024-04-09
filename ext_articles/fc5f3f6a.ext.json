@@ -1,0 +1,19 @@
+{
+  "translated_text": {
+    "si": {
+      "title": "\u0d85\u0daf \u0dc0\u0da7\u0dd2\u0db1\u0dcf\u0d9a\u0db8",
+      "body_lines": [
+        "\u0d85\u0daf (09) \u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0 \u0db8\u0dad \u0db4\u0daf\u0db1\u0db8\u0dca\u0dc0 \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 294.0863 \u0d9a\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dd4\u0db8\u0dca \u0db8\u0dd2\u0dbd 303.4415 \u0d9a\u0dd2."
+      ]
+    },
+    "en": {
+      "title": "Today's value",
+      "body_lines": [
+        "Based on the Central Bank today (09), the US dollar purchasing price was Rs 294.0863 and the sales price were 303.4415."
+      ]
+    }
+  },
+  "summary_lines": [
+    "Today, the US dollar's buying price was Rs 294.0863, and the selling price was Rs 303.4415."
+  ]
+}

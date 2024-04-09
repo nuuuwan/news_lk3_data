@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 01:03:26**
+As of **2024-04-10 01:18:10**
 
 ## Newspaper Stats
 
-*Scraped **18,160** Articles*
+*Scraped **18,166** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 159
 bbccomsinhala | 190
 dbsjeyarajcom | 213
 newsfirstlk | 363
-dailyftlk | 989
 islandlk | 992
+dailyftlk | 995
 economynextcom | 1,015
 adalk | 1,531
 tamilmirrorlk | 2,127
@@ -26,11 +26,117 @@ adaderanasinhalalk | 2,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,160 (100.0%) of 18,160 articles have been extended.
+18,160 (100.0%) of 18,166 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### Muslim Aid Sri Lanka, UNHCR donate Rs. 50 m worth medical equipment to Lady Ridgeway Hospital
+
+*2024-04-10 01:04:02* · [`dailyftlk`](https://www.ft.lk/news/Muslim-Aid-Sri-Lanka-UNHCR-donate-Rs-50-m-worth-medical-equipment-to-Lady-Ridgeway-Hospital/56-760522) · `en`
+
+Muslim Aid Sri Lanka in collaboration with UNHCR handed over the most advanced laparoscope system to Lady Ridgeway Hospital on 2 April.
+
+The event was honoured by Ministry of Health Director General of Health Services Dr. Asela Gunewardana, UNHCR Head of National Office Sanjeetha Satyamurthy, Lady Ridgeway Hospital Director Dr. G. Wijeyesuriya, and Muslim Aid Sri Lanka Country Director Faizer Khan.
+
+...
+
+[Data](articles/5e73bf6d.json)
+
+---
+
+### Cabinet approves recruitment of 2,500 English teachers
+
+*2024-04-10 01:00:27* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-recruitment-of-2-500-English-teachers/56-760521) · `en`
+
+To strengthen language proficiency countrywide, the Cabinet of Ministers approved recruiting 2,500 English teachers.
+
+“The Government has recognised the pressing need for English teachers, particularly in schools offering General Certificate of Education (GCE) Ordinary Level subjects in English. Currently, 4,441 English teachers have been approved for these schools, leaving a deficit of 6,500 teachers to meet the demand,” Cabinet Co-Spokesperson and Minister Bandula Gunawardena disclosed.
+
+Highlighting the importance of English proficiency in today’s globalised world, Gunawardena asserted the Government’s determination to expand English medium education across the country.
+
+...
+
+[Data](articles/c39be6e1.json)
+
+---
+
+### Hajj Quota allocation suspended by Court of Appeal
+
+*2024-04-10 00:57:58* · [`dailyftlk`](https://www.ft.lk/news/Hajj-Quota-allocation-suspended-by-Court-of-Appeal/56-760520) · `en`
+
+The Court of Appeal yesterday suspended the allocation of 3500 quotas by the Hajj committee given to Sri Lanka for the Hajj Pilgrimage.
+
+The Kingdom of Saudi Arabia had granted a quota of 3500 pilgrims to the island for the upcoming Hajj in June.
+
+The Hajj committee was given discretion to allocate from the quota numbers of pilgrims to each travel operator.
+
+In a writ petition filed before the Court of Appeal a travel agent who was not granted any allocation said the process adopted by the Hajj committee was arbitrary.
+
+The Petitioners said that there was a large amount of money of pilgrims which were involved and that the process was susceptible to corrupt practices.
+
+They said that they had been singled out and victimised after questioning the conduct of allocation of quotas of the Hajj committee in the year 2023.
+
+The court of appeal also ordered the provisional registration of the Travel Agent United Travels as a Hajj operator.
+
+...
+
+[Data](articles/ae8d3fbb.json)
+
+---
+
+### Commercial High Court to hear Jaffna -Kilinochchi water project dispute
+
+*2024-04-10 00:57:33* · [`dailyftlk`](https://www.ft.lk/news/Commercial-High-Court-to-hear-Jaffna-Kilinochchi-water-project-dispute/56-760519) · `en`
+
+The District Court of Mt. Lavinia whilst refusing the extension of an enjoining order, directed the transfer of the Jaffna Kilinochchi water supply project to the Commercial High Court of Colombo.
+
+KP Projects International Ltd., had previously obtained Enjoining Orders on against both the National Water Supply and Drainage Board and the China Machinery Engineering Corporation (CMEC) on the contract to the Jaffna Kilinochchi Water Supply and Sanitation Project.
+
+The project is considered to be crucial for ensuring piped water access to Jaffna Peninsula residents.
+
+CMEC argued that the dispute, involving a commercial transaction exceeding Rs. 50 million, warranted transfer to the Commercial High Court under the provisions of the High Court of the Provinces (Special Provisions) Act, No. 10 of 1996 and submitted that the Plaintiff has surreptitiously valued the action at Rs. 100,000 in order to institute action before the District Court.
+
+...
+
+[Data](articles/a0e8c5e5.json)
+
+---
+
+### Medical degree admissions for local students at KDU
+
+*2024-04-10 00:57:07* · [`dailyftlk`](https://www.ft.lk/news/Medical-degree-admissions-for-local-students-at-KDU/56-760518) · `en`
+
+In a move aimed at expanding opportunities for aspiring medical students in Sri Lanka, the Cabinet of Ministers approved offering admission to local students for the medical degree programme at the General Sir John Kotelawala Defence University (KDU).
+
+“The admission process for local students to the medical programme at KDU will commence this year, based on the student’s ‘Z score’ attained at the GCE Advanced Level Examination, along with other relevant qualifications,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said.
+
+He said this will also help the country to stop the outflow of foreign exchange to countries like Bangladesh, Belarus China among others, where many Sri Lankan students study for their MBBS medical degree.
+
+...
+
+[Data](articles/4b3ecf2d.json)
+
+---
+
+### India loosens onion export ban to help neighbours
+
+*2024-04-10 00:56:43* · [`dailyftlk`](https://www.ft.lk/news/India-loosens-onion-export-ban-to-help-neighbours/56-760517) · `en`
+
+India is gearing up to supply thousands of metric tonnes of onions to Sri Lanka and UAE, days after it approved limited exports of essential commodities to the Maldives.
+
+According to the Hindustan Times, India has supplied 10,000 metric tons of onions over and above the agreed 14,400-ton cap.
+
+The world’s largest global exporter of onions, India has either banned or limited export permits for the in-demand vegetable, as well as for rice, wheat flour, pulses, and sugar, since last December.
+
+Subsequently, onion prices are believed to have risen dramatically in neighbouring countries that have depended on onion imports from India to meet their domestic demand. Through a “special quota” arrangement, the Indian Government recently allowed exports to Bangladesh, Sri Lanka, Mauritius, Bahrain, and Bhutan.
+
+◼️
+
+[Data](articles/cfdbe17c.json)
+
+---
 
 ### National Chamber and KPMG forge strategic collaboration to develop SME sector
 
@@ -2187,139 +2293,5 @@ The victim was identified as K. Jagath Kumara, forty-eight, a resident of the ar
 [Data](articles/199222b6.json)
 
 [Extended Data](ext_articles/199222b6.ext.json)
-
----
-
-### IMF. The agreement is a law
-
-*2024-04-09 14:42:12* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--ගිවිසුම-නීතියක්-වෙයි/11-409032) · `si`
-
-President Ranil Wickremesinghe emphasized the need for modernizing Sri Lanka's legal system to support rapid economic growth, especially in collaboration with the IMF. He highlighted the importance of a new legal framework for modernizing every field, including digital economy, climate change laws, and gender equality. Wickremesinghe also stressed the urgency of making amendments to laws to attract investment and the opening of Sri Lanka's economy to the Finance Zone of Colombo.
-
-🟩
-
-President Ranil Wickremesinghe said that the legal system should also be modernized to make a program that the government has started to establish rapid economic growth in the country.
-
-The President was speaking at a friendly meeting at Mahaweli Reich Hotel with Kandy.
-
-The President said that the accelerated solution to the Collapse of the Sri Lankan economy is working with the International Monetary Fund.
-
-The President said that the President said that a new legal system would bring a new legal system for a modernization of every field.
-
-"Do we need to determine whether the program with the International Monetary Fund is proceeding, or whether we should decide whether or whether it is back. Sri Lanka has a bad reputation that the agreement is every time every time. This is the last time we have received for the country. Therefore, we hope to legalize the agreement with the International Monetary Fund to give the people.
-
-...
-
-[Data](articles/3673b5d6.json)
-
-[Extended Data](ext_articles/3673b5d6.ext.json)
-
----
-
-### Today's value
-
-*2024-04-09 14:42:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டொலரின்-இன்றைய-பெறுமதி/175-335785) · `ta`
-
-Today, the US dollar's buying price was Rs 294.0863, and the selling price was Rs 303.4415.
-
-🟩
-
-Based on the Central Bank today (09), the US dollar purchasing price was Rs 294.0863 and the sales price were 303.4415.
-
-◼️
-
-[Data](articles/fc5f3f6a.json)
-
-[Extended Data](ext_articles/fc5f3f6a.ext.json)
-
----
-
-### Orders to expedite E-passport
-
-*2024-04-09 14:37:31* · [`adalk`](https://www.ada.lk/breaking_news/ඊ-පාස්පෝට්-නිකුත්-කිරීම-කඩිනම්-කිරීමට-නියෝග/11-409031) · `si`
-
-The Department of Immigration & Emigration is under scrutiny for delays in E-passport issuance, CCTV camera installation, and airport congestion reduction. The Immigration Department's Head Office is being enabled, and attention is being paid to the status of Russian and Ukrainian visa holders.
-
-🟩
-
-CCTV cameras of the Department of Immigration & Emigration - 6 years in a warehouse - Progress of immediate steps
-
-Release of passports through Regional Offices
-
-Attention about Russian and Ukrainian visa finishes, staying in the country, staying in the country.
-
-Lasantha Alagiyawanna, the President of the Public Accounts, informed the Department of Immigration and Emigration to enable the Immigration Department's Head Office.
-
-It was revealed that these cameras purchased at a cost of 2.1 million rupees in 2017 and had not all the necessary accessories.. It was also revealed that the suspects were transferred to the transfer of the transfers.. The Chairman of the Chairman, which has pointed out that there is an additional secretary of the Ministry of Public Defense and the CCTV camera system to install the CCTV camera system before May 15.
-
-...
-
-[Data](articles/fd694681.json)
-
-[Extended Data](ext_articles/fd694681.ext.json)
-
----
-
-### Allow 2,500 English teachers to recruit
-
-*2024-04-09 14:29:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-500-ஆங்கில-ஆசிரியர்களை-ஆட்சேர்ப்பு-செய்ய-அனுமதி/175-335784) · `ta`
-
-The Cabinet approved recruiting 2,500 English teachers, aiming to meet the demand for 6,500 teachers. The government plans to increase the number of schools offering English to 1,000, from 765.
-
-🟩
-
-Cabinet spokesman and Minister Bandula Gunawardena said that the Cabinet has approved the recruitment of 2,500 English teachers under the English 'program.
-
-Speaking at a weekly meeting announcing the Cabinet decisions, he said a total of 4,441 English teachers have been granted permission to teach the GCE Ordinary Level (S) subjects in English.. He also requires 6,500 English teachers.
-
-Accordingly, the government has decided to increase the number of schools this year to 1,000. 765 schools conduct lessons in English. Minister Gunawardena said the government is planning to increase the number of English teachers to 6,500 and the permission has been granted by the Cabinet.
-
-◼️
-
-[Data](articles/37ce513b.json)
-
-[Extended Data](ext_articles/37ce513b.ext.json)
-
----
-
-### A man arrested for assaulting an official of the Department of Wildlife
-
-*2024-04-09 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/180809) · `ta`
-
-A man was arrested for assaulting a wildlife officer in Uhana Adaloya, Ampara Forest, after illegal meat sales were reported.
-
-🟩
-
-The Forest Department has said that the wildlife officer has been attacked after receiving information that meat is being sold illegally in the village of Uhana Adaloya, which is under the Ampara Forest.
-
-Most of the people said that the illegal meat sold was arrested and a large amount of meat was seized.
-
-◼️
-
-[Data](articles/a83cfdeb.json)
-
-[Extended Data](ext_articles/a83cfdeb.ext.json)
-
----
-
-### Usual protesters take U-turn; Sri Lanka postal employees agree to work on April 12 holiday
-
-*2024-04-09 14:17:00* · [`economynextcom`](https://economynext.com/usual-protesters-take-u-turn-sri-lanka-postal-employees-agree-to-work-on-april-12-holiday-158029/) · `en`
-
-ECONOMYNEXT – Employees of Sri Lanka’s Department of Posts, who usually protest on various demand, have agreed to work on April 12 holiday to prevent reputational damage on their service amid a higher number of parcel to be delivered, State Media Minister said.
-
-The island nation has received a record number of foreign parcels this year including gifts for the festive reasons from Sri Lankan expatriates to their relatives.
-
-“So it is the responsibility of the Department of Posts to deliver these parcels on time,” Minister Shantha Bandara told reporters at a media briefing in Colombo on Tuesday.
-
-“We were facing an issue with long holidays during the upcoming festive seasons. All the postal employees have decided to report to work on April 12 despite a holiday to prevent a backlog and reputational damage of their service.”
-
-“If not for their service, the people will receive their parcels only around 16th or 17th.”
-
-...
-
-[Data](articles/5a7a646e.json)
-
-[Extended Data](ext_articles/5a7a646e.ext.json)
 
 ---

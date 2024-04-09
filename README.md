@@ -1,36 +1,88 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 08:18:17**
+As of **2024-04-09 08:34:08**
 
 ## Newspaper Stats
 
-*Scraped **17,972** Articles*
+*Scraped **17,981** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 159
-bbccomsinhala | 188
+bbccomsinhala | 189
 dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 987
 islandlk | 992
 economynextcom | 996
-adalk | 1,512
-tamilmirrorlk | 2,107
+adalk | 1,513
+tamilmirrorlk | 2,112
 adaderanalk | 2,160
 virakesarilk | 2,646
 dailymirrorlk | 2,738
-adaderanasinhalalk | 2,911
+adaderanasinhalalk | 2,913
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,972 (100.0%) of 17,972 articles have been extended.
+17,972 (99.9%) of 17,981 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### ඉස්ලාම් ආගමික රැඳවියන් ගැන විශේෂ තීරණයක්
+
+*2024-04-09 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195457) · `si`
+
+මෙවර රාමසාන් දිනය නිමිත්තෙන් බන්ධනාගාරගත ඉස්ලාම් ආගමික රැඳවියන්ට අමුත්තන් පෙන්වීමට බන්ධනාගාර දෙපාර්තමේන්තුව පියවර ගෙන තිබේ.
+
+ඒ අනුව අප්‍රේල් මස 11 වන දිනට යෙදෙන රාමසාන් දිනය වෙනුවෙන් බන්ධනාගාරගත ඉස්ලාම් ආගමික රැඳවියන් සඳහා පමණක් එදින අමුත්තන් පෙන්වීමේ කටයුතු සිදුකිරීමට නියමිත බව බන්ධනාගාර කොමසාරිස් ගාමිණී බී. දිසානායක මහතා සඳහන් කළේය.
+
+ඉස්ලාම් ආගමික රැඳවියන්ගේ ඥාතීන් විසින් රැගෙන එනු ලබන ආහාර, රසකැවිලි හා සනීපාරක්ෂක ද්‍රව්‍ය එක් අයෙකුට සරිලන ප්‍රමාණ‍යක් පමණක් ගෙන ඒමට උපදෙස් ලබාදී තිබේ.
+
+පවතින නීතිරීති හා නියමිත සෞඛ්‍ය ආරක්ෂිත ක්‍රම‍වේදයන් යටතේ  ඒවා ලබාදීමට සියලු බන්ධනාගාර ආයතන කටයුතු කරනු ඇති බව ද බන්ධනාගාර කොමසාරිස් ගාමිණී බී. දිසානායක මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/912ab124.json)
+
+---
+
+### தலைபிறை பார்க்கும் மாநாடு இன்று
+
+*2024-04-09 08:09:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலைபிறை-பார்க்கும்-மாநாடு-இன்று/175-335777) · `ta`
+
+ஹிஜ்ரி 1445ஆம் ஆண்டின் புனித ஷவ்வால் மாதத்திற்கான தலைபிறை பார்க்கும் மாநாடு இன்று மாலை இடம்பெறவுள்ளது.
+
+மஹ்ரிப் தொழுகையைத் தொடர்ந்து கொழும்பு பெரிய பள்ளிவாசலில் தலைவர் தாஹிர் ரஷீன் தலைமையில் இந்த நிகழ்வு நடைபெறவுள்ளது.
+
+இந்த மாநாட்டில், பெரிய பள்ளிவாசலின் பிறைக்குழுத் தலைவர் அஷ்ஷெய்க் ஹிஸாம் உட்பட பிறைக்குழு உறுப்பினர்கள், அகில இலங்கை ஜம்இய்யத்துல் உலமா சபையின் பிரதிநிதிகள், முஸ்லிம் சமய பண்பாட்டலுவல்கள் திணைக்கள அதிகாரிகள், வளிமண்டவியல் திணைக்கள சிரேஷ்ட அதிகாரி உள்ளிட்ட பலர் பங்கேற்கவுள்ளனர்.
+
+நாடளாவிய ரீதியில் ஷவ்வால் மாதத்திற்கான தலைபிறை தென்படுமாயின் பூரண ஆதாரத்துடன் 011 24 32 110, 011 24 51 245 மற்றும் 0777 35 37 89 ஆகிய தொலைபேசி இலக்கங்களுக்கு அழைப்பினை ஏற்படுத்தி அறிவிக்க முடியும். R
+
+◼️
+
+[Data](articles/58843f2c.json)
+
+---
+
+### අතුරුදන් වූ බිලියන ගණනක් වටින වී ගැන CID පරීක්ෂණ
+
+*2024-04-09 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195456) · `si`
+
+නිකවැරටිය, පොල්ගහවෙල, මහව සහ ආණමඩුව යන රජයේ වී ගබඩාවලින් 2022 වසරේ යල සහ මහ කන්නයට අදාළ වී කිලෝ ලක්ෂ 30ක් පමණ අතුරුදන්වීම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශනයක් ආරම්භ කර තිබේ.
+
+වී අලෙවි මණ්ඩලයේ සභාපති නීතීඥ බුද්ධික ඉද්දමල්ගොඩ මහතා ප්‍රකාශ කළේ, ඒ සම්බන්ධයෙන් සිදුකළ මූලික විමර්ශන වාර්තාව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට භාරදී ඇති අතර අතුරුදන් වී ඇති වී තොගයේ වටිනාකම රුපියල් බිලියනයකට ආසන්න බවය.
+
+"වී අලෙවි මණ්ඩලයේ වී තොග අතුරුදන් වීම ගැන පරීක්ෂණයක් මීට මාස 4කට පමණ පෙර සිට ආරම්භ කරනු ලැබුවා. ඒ අනුව ගබඩා 4ක බිලියනයකට ආසන්න මුදලක වටිනාකමින් යුත් වී අඩුවීම සම්බන්ධයෙන් ගබඩා 4ක වෙන් වෙන් වශයෙන් පරීක්ෂණයක් සිදුකර එහි මුලික වාර්තා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ලබාදී තිබෙනවා. ඒ අනුව ඔවුනුත් මේ පිළිබඳ පරීක්ෂණ ආරම්භ කර අවසන් අදියර දක්වා පැමිණ තිබෙනවා. අපි විශ්වාස කරනවා අපරාධ නීතිය යටතේ ක්‍රියාත්මක වෙමින් පවතින පරීක්ෂණවල අවසන් අදියරට එන්න පුළුවන්. මේවා මහජනතාවගේ මුදල්. පරීක්ෂණ කඩිනම් කර, අදාළ වරදකරුවන්ගෙන් එම මුදල් වී අලෙවි මණ්ඩලය වෙත පියවා ගැනීමට කටයුතු සිදුකරමින් පවතිනවා."
+
+...
+
+[Data](articles/cb71475c.json)
+
+---
 
 ### Plans to implement the Examination Department in two parts
 
@@ -78,6 +130,44 @@ The victim was severely injured in the head and the ribs.
 
 ---
 
+### இன்று அதிகரித்த வெப்பநிலை காணப்படும் இடங்கள்...
+
+*2024-04-09 07:21:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அதிகரித்த-வெப்பநிலை-காணப்படும்-இடங்கள்/175-335776) · `ta`
+
+வடக்கு, கிழக்கு, வடமத்திய, வடமேல்,  சப்ரகமுவ,மேல் மற்றும் தென் மாகாணங்களிலும் அத்துடன் மாத்தளை மற்றும்  மொனராகலை மாவட்டங்களிலும்  இன்று அதிகரித்த வெப்பநிலை காணப்படுமென சிரேஸ்ட வானிலை அதிகாரி கலாநிதி மொஹமட் சாலிஹீன் கூறினார்.
+
+சூரியனின் வடக்கு நோக்கியநகர்வின் காரணமாக இன்று மதியம் சுமார் 12.11 மணியளவில் உடப்பு, ஆட்டிகம, பிதிவில்ல, வக்காமுன, நுவரகல மற்றும் ஏறாவூர்  போன்ற இடங்களுக்கு மேலாக சூரியன் உச்சம் கொடுக்கின்றது.
+
+சப்ரகமுவ, மேல் மற்றும்  வடமேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும் பிற்பகல் இரண்டு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+
+மத்திய, சப்ரகமுவ மற்றும்  மேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன்  காலி மற்றும் மாத்தறை  மாவட்டங்களின் சில இடங்களிலும்  காலை வேளையில் பனிமூட்டம் காணப்படும்.
+
+பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக் கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு  கேட்டுக்கொள்ளப் படுகின்றனர். R
+
+◼️
+
+[Data](articles/e13cb158.json)
+
+---
+
+### ’சட்ட கட்டமைப்புகள் நவீனமயமாக்கப்பட வேண்டும்’
+
+*2024-04-09 07:11:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்ட-கட்டமைப்புகள்-நவீனமயமாக்கப்பட-வேண்டும்/175-335774) · `ta`
+
+நாட்டில் விரைவான பொருளாதார வளர்ச்சியை ஏற்படுத்த அரசாங்கம் ஆரம்பித்துள்ள வேலைத்திட்டம் வெற்றியடைவதற்கு சட்ட கட்டமைப்பும் நவீனமயப்படுத்தப்பட வேண்டுமென ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+கண்டி மகாவலி ரீச் ஹோட்டலில் நடைபெற்ற கண்டி சட்டத்தரணிகளுடனான சிநேகபூர்வ சந்திப்பில் ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார்.  அவர் மேலும் தெரிவிக்கையில்,
+
+சர்வதேச நாணய நிதியத்துடனான வேலைத்திட்டத்தை தொடர வேண்டுமா அல்லது அதை மாற்றியமைப்பதா என்பதை நாங்கள் தீர்மானிக்க வேண்டும். சம்மதித்து விட்டு ஒவ்வொரு முறையும் முடிவை மாற்றிக் கொள்ளும் அவப்பெயர் இலங்கைக்கு உண்டு.
+
+இதுவே நாட்டுக்காக எமக்கு கிடைத்துள்ள கடைசி வாய்ப்பாகும். எனவே, இந்த நன்மையை மக்களுக்கு வழங்கும் வகையில் சர்வதேச நாணய நிதியத்துடனான ஒப்பந்தத்தை சட்டப்பூர்வமாக்க எதிர்பார்க்கிறோம். நாட்டின் மீதான பொறுப்பில் இருந்து நாம் யாரும் தப்ப முடியாது. எனவே, அதனால் முக்கிய முடிவுகள் எடுக்கப்பட வேண்டும்.
+
+...
+
+[Data](articles/b19aa64e.json)
+
+---
+
 ### Decision regarding displaced centers in the North and East
 
 *2024-04-09 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195453) · `si`
@@ -104,6 +194,24 @@ President Ranil Wickremesinghe has also advised the Ministry of Urban Developmen
 
 ---
 
+### ’உயர்வான சமூக பாதுகாப்பு திட்டம் நடைமுறையில்’
+
+*2024-04-09 06:58:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்வான-சமூக-பாதுகாப்பு-திட்டம்-நடைமுறையில்/175-335773) · `ta`
+
+பொருளாதார நெருக்கடியால் பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்குவதற்காக 2023 ஆம் ஆண்டில் மாத்திரம் 200 பில்லியன் ரூபா செலுத்தப்பட்டுள்ளதாக ஜனாதிபதி பணிப்பாளர் நாயகம் ரஜித் கீர்த்தி தென்னகோன் தெரிவித்தார்.
+
+ஊடகங்களுக்கு நேற்று கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு குறிப்பிட்டுள்ளார். அவர் மேலும் தெரிவிக்கையில்,
+
+2021 மற்றும் 2022 ஆம் ஆண்டுகளில் நாட்டு மக்கள் எதிர்நோக்கிய கடுமையான பொருளாதாரச் சிரமங்களினால் பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்குவதை அரசாங்கம் தனது பொறுப்பாகக் கருதுகிறது.
+
+சமுர்த்தி உதவி, சமுர்த்தி கடன், 70 வயதுக்கு மேற்பட்ட முதியோருக்கான கொடுப்பனவு, 100 வயதுக்கு மேற்பட்ட முதியோருக்கான கொடுப்பனவு, அங்கவீனர்களுக்கான கொடுப்பனவு, சிறுநீரகக் கோளாறினால் பாதிக்கப்பட்டவர்களுக்கு வழங்கப்படும் கொடுப்பனவு மற்றும் அஸ்வெசும கொடுப்பனவு என 2023 ஆம் ஆண்டில் மாத்திரம் 184,098.27 மில்லியன் ரூபா அரசாங்கத்தினால் நிவாரண உதவித்தொகை தேவைப்படும் மக்களுக்கு வழங்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/87613ece.json)
+
+---
+
 ### These days stay careful
 
 *2024-04-09 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195452) · `si`
@@ -127,6 +235,20 @@ The injured hospital is receiving treatment at the Colombo National Hospital whi
 [Data](articles/4b132bf5.json)
 
 [Extended Data](ext_articles/4b132bf5.ext.json)
+
+---
+
+### மின்சார திருத்தச் சட்டமூலத்திற்கு அனுமதி
+
+*2024-04-09 06:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-திருத்தச்-சட்டமூலத்திற்கு-அனுமதி/175-335771) · `ta`
+
+மின்சார திருத்தச் சட்டமூலத்திற்கு அமைச்சரவை அனுமதி வழங்கியுள்ளதாக வலுசக்தி அமைச்சர் கஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+
+இதற்கமைய, மேற்படி  சட்டமூலத்தை இந்த வாரத்தில் வர்த்தமானியில் வெளியிடுவதற்கும், இந்த மாத இறுதியில் பாராளுமன்றில் முன்வைப்பதற்கும் அமைச்சரவை அனுமதி வழங்கியுள்ளதாக அவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/10a78f0a.json)
 
 ---
 
@@ -247,6 +369,26 @@ It is a wonderful scene in which not only university students but also professor
 [Data](articles/8ef343e7.json)
 
 [Extended Data](ext_articles/8ef343e7.ext.json)
+
+---
+
+### දෙවන ලෝක යුද්ධය: වසර 82කට පෙර ජපානය ශ්‍රී ලංකාවට බෝම්බ හෙළු හැටි ජාතික පුවත්පත් වාර්තා කලේ කොහොමද?
+
+*2024-04-09 02:17:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4nrg34er53o) · `si`
+
+දෙවන ලෝක යුද්ධය: වසර 82කට පෙර ජපානය ශ්‍රී ලංකාවට බෝම්බ හෙළු හැටි ජාතික පුවත්පත් වාර්තා කලේ කොහොමද?
+
+ශ්‍රී ලංකාව දෙවැනි ලෝක යුද්ධයේ පාර්ශවකරුවෙකු නොවූවත් එවකට ශ්‍රී ලංකාවේ පාලනය ගෙන ගිය බ්‍රිතාන්‍යයන් සතුරු පර්ශවීය සාමාජිකයන් වූ නිසා ජපානයේ ගුවන් ප්‍රහාරයකට මුහුණ දීමට 1942 දී ශ්‍රී ලංකාවට සිදු විය.
+
+හිරෝහිතෝ අධිරාජ්‍යයාගේ මෙහෙයවීමෙන් සිදු වූ මෙම ගුවන් ප්‍රහාරය 1942 වසරේ අප්‍රේල් 5 සිට අප්‍රේල් 9 දක්වා වරින් වර එල්ල වී ඇති අතර, අප්‍රේල් 5 කොළඹට එල්ල වූ ගුවන් ප්‍රහාරය එම වසරේ පාස්කු ඉරිදා දිනයේ එල්ල වීම විශේෂත්වයකි. මේ වන විට එම ප්‍රහාරය එල්ල වී වසර 82කි.
+
+පාස්කු ඉරිදා දිනයේ දී අනපේක්ෂිත ලෙස ගුවන් යානා 125කින් කොළඹ වට කළ ජපාන ගුවන් යානාවලට රත්මලාන සහ රේස්කෝස් හි පැවති  රාජකීය ගුවන් හමුදා බැරැක්කවලින් ප්‍රතිප්‍රහාරයක් එල්ල වු අතර එයින් ගුවන් යානා 27ක් පමණ බිම හෙලූ බව ශ්‍රී ලංකා ගුවන් හමුදාවේ නිල වෙබ් අඩවියේ දක්වා තිබේ.
+
+කෙසේ නමුත් මෙම අනපේක්ෂිත ගුවන් ප්‍රහාරයට මුහුණ දුන් රාජකීය ගුවන් හමුදාවට ද විශාල පාඩුවක් ඉන් සිදුවිය.
+
+...
+
+[Data](articles/c73fb393.json)
 
 ---
 
@@ -1077,6 +1219,30 @@ The two filed a petition in the Family Welfare Court demanding that they declare
 [Data](articles/c2b6c223.json)
 
 [Extended Data](ext_articles/c2b6c223.ext.json)
+
+---
+
+### දයාසිරි අකුණු ගහනවාට එළියට දාන යකඩ කෑල්ලක්
+
+*2024-04-08 19:54:48* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරි-අකුණු-ගහනවාට-එළියට-දාන-යකඩ-කෑල්ලක්/11-409022) · `si`
+
+'දයාසිරි යනු වහින විට, අකුණු ගහනවාට එළියට දාන යකඩ කෑල්ලක් විතරයි' යැයි අමාත්‍ය මහින්ද අමරවීර මහතා පැවසීය.
+
+ඔහු මේ බව සඳහන් කර සිටියේ පොල් සංවර්ධන අධිකාරියේදී අද  (08දා) පැවති වැඩසටහනක් අතරතුරදී මාධ්‍යවේදීන් විසින් අසන ලද ප්‍රශ්න සඳහා පිළිතුරු ලබා දෙමිනි.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂය තුළ මේ වනවිට උද්ගතව ඇති අර්බුදය සම්බන්ධයෙන් මාධ්‍යවේදීන් ප්‍රශ්න කර සිටි අතර එහිදී ඇතිවූ සංවාදයෙහි කෙටි සටහනක් පහතින් වේ.
+
+මාධ්‍ය - වැඩබලන සභාපති තනතුරට ජ්‍යෙෂ්ඨ උපසභාපති නිමල් සිරිපාල ද සිල්වා මහතා පත්කරගැනීම නීතිවිරෝධියි කියලා දයාසිරි ජයසේකර මහතා කියනවා ?
+
+අමාත්‍ය අමරවීර මහතා - කවුද දයාසිරි කියන ඒවා ගණන් ගන්නේ ? දයාසිරි කියන්නේ වහිනකොට අකුණු ගහනකොට එළියට දාන යකඩ කෑල්ලක්. එයා කියන දේවල් අපිට අදාළ නෑ.
+
+අමාත්‍ය අමරවීර මහතා - ඔව්. අපි පක්ෂය ජයග්‍රහණය කරවනවා, මෙතෙක් පක්ෂයේ තිබුණේ අඩු කිරීම් හා බෙදීම් විතරයි. ඉදිරියට තිබෙන්නේ වැඩි කිරීම් හා එකතු කිරීම් පමණයි.
+
+මාධ්‍ය - ශ්‍රී ලංකා නිදහස් පක්ෂය යූඑන්පීයේ එල්ලන්න හදනවා කියලා චෝදනාවක් තිබෙනවා ?
+
+...
+
+[Data](articles/a7ab8dda.json)
 
 ---
 
@@ -2039,239 +2205,5 @@ The funeral will take place on Thursday at the Annar's home in the neighboring a
 [Data](articles/1925b4cd.json)
 
 [Extended Data](ext_articles/1925b4cd.ext.json)
-
----
-
-### Bus crashes in Hanguranketta;Admission at the hospital
-
-*2024-04-08 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180718) · `ta`
-
-A bus carrying women from Hanguranketta to Teldottai crashed in Nuwara Eliya, injuring two women and the driver. They were admitted to Teldottai Divisional Hospital, then transferred to Peradeniya Hospital for further treatment.
-
-🟩
-
-The accident occurred in the bus ditch in Telltottai Nalgandura, which belongs to the Hanguranketha police division in Nuwara Eliya district on Sunday night.
-
-A private bus carrying women working in the commercial garment from Hanguranketta area to Teldottai has fallen into the ditch last night.
-
-Two women and drivers who were traveling on the bus were injured and admitted to the Teldottai Divisional Hospital.
-
-Later, two women were transferred to the Peradeniya Hospital last night for further treatment.
-
-The women on the bus said that the driver continued to speak by telephone.
-
-◼️
-
-[Data](articles/d51ddf06.json)
-
-[Extended Data](ext_articles/d51ddf06.ext.json)
-
----
-
-### 2024 Lanka Premier League Chart
-
-*2024-04-08 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195438) · `si`
-
-The 2024 Lanka Premier League, starting July 1st, features 24 matches concluding with the final on July 22nd at Colombo R Premadasa Stadium.
-
-🟩
-
-The schedule of the Lanka Premier League was issued.
-
-Its inaugural ceremony will be held in July first and the first match will be held on the same day and Dambulla.
-
-The tournament will be held until July 22 and 24 matches will be held with the final.
-
-The Kandy Pallekele Stadium, Dambulla Stadium and Colombo R Premadasa grounds are scheduled to contest 2024.
-
-The finals will be held on 22nd July at the Colombo R Premadasa Stadium.
-
-◼️
-
-[Data](articles/d70981f0.json)
-
-[Extended Data](ext_articles/d70981f0.ext.json)
-
----
-
-### Hot Spot 2 ..?!
-
-*2024-04-08 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180739) · `ta`
-
-"Hot Spot 2" is coming next year, directed by Vignesh Karthik, who also directed the first part. Despite mixed reviews, the film was a commercial success. The director and stars will reunite for the sequel.
-
-🟩
-
-The film 'Hot Spot', which has been a big hit, has been releasing the second part of the hotspot film next year.
-
-Directed by director Vignesh Karthik, the movie 'Hotspot' was released at the end of last month.. Gokul Binoy has recorded the film, starring leading star artists including Kalaiyarasan, Janani and Pavya Tarika.
-
-Commercially successful despite having mixed reviews. This was followed by a ceremony to thank the fans and the journalists in Chennai.
-
-Speaking at the event, producer Balamani Morben said, “After the preview of the film, there were negative issues from the media.
-
-Thus we feared at a point. But after the exclusive scene for journalists was screened .., the good features of the film were noticed and appreciated. It went to the people and sought the success of the film.
-
-...
-
-[Data](articles/baaa53d2.json)
-
-[Extended Data](ext_articles/baaa53d2.ext.json)
-
----
-
-### Mani Ratnam Published. Parthiban's 'Teens' image preview
-
-*2024-04-08 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/180733) · `ta`
-
-Parthiban's 'Teens' movie, directed by him, features a unique design and has set a Guinness record. The film, co-produced by Parthiban, stars Cavmik Ari and has music by Iman. It's produced by Caldwell Vel Nambi, Dr. Swaminathan, and others, with Parthiban co-producing. The preview was released at Kamala Theater in Chennai, honoring 13 young achievers. Yogi Babu stars in 'Ira Parthiban' and Parthiban has written seven songs for the film.
-
-🟩
-
-Not only the fans of the film industry made new ventures.. The newcomer is amazing. Parthiban. The preview release of the movie 'Teens', which is being directed by him, is differently designed and the Guinness record has kept the film industry back.
-
-Director and actor. In the movie 'Teens' directed by Parthiban. Cavmik Ari has recorded the film. Iman has composed music.
-
-Producer Caldwell Vel Nambi, Dr. Swaminathan, Dr. Swaminathan, Doctor Pinchi Srinivasan, Ranjith Dandapani, on behalf of the film companies such as Bioscopes Dreams LB and Akira Productions Pvt.. Parthiban has co -produced.
-
-The event was held at the Kamala Theater in Chennai as a special and Guinness record.. Thirteen young achievers were honored at various fields. The leading directors, producers and celebrities of the Tamil film industry were special guests.
-
-...
-
-[Data](articles/2fe1e27e.json)
-
-[Extended Data](ext_articles/2fe1e27e.ext.json)
-
----
-
-### 'Indian 2'
-
-*2024-04-08 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180735) · `ta`
-
-"'Indian 2', directed by Shankar and starring Kamal Haasan, is a sequel to the 1996 hit, set for release in June, following the Indian Lok Sabha elections. The film, written by Kamal Haasan and S.J. Ravivarman, features Surya, Kajal Agarwal, and others, with music by Anirudh and produced by Subhashkaran."
-
-🟩
-
-New information for the release of 'Indian 2' is being released in the Indian Lok Sabha elections.
-
-Directed by Shankar, India's biggest director Shankar, 'Indian' starring Kamal Haasan is a hit movie 'Indian'.
-
-The second part of the film, which was released in 1996, has been a hugely successful and critically successful.The official announcement for the second part was released in 2017.
-
-Official information has been released on the release of the film, which is being prepared with international standards after various obstacles and obstacles, including accident and Kovit.
-
-'Lokayan' Kamal Haasan, S.J.. Ravivarman has written the film, starring Surya, Kajal Agarwal, Siddharth, Priya Bhavani Shankar, Rakul Preet Singh, Kalidas Jayaram and Bobby Simha.. The film is composed by Anirudh and produced by producer Subhashkaran on behalf of Leica Productions.
-
-All the work of the film is completed and ready for the release. In June, the film will be released in Tamil, Telugu and Hindi worldwide.
-
-...
-
-[Data](articles/966364e2.json)
-
-[Extended Data](ext_articles/966364e2.ext.json)
-
----
-
-### GV as a husband who tolerates the snoring wife. Prakash Kumar
-
-*2024-04-08 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180737) · `ta`
-
-"'Dear' stars Prakash Kumar and Aishwarya Rajesh, focusing on a husband's tolerance of his snoring wife. Directed by Anand Ravichandran, it's a relationship drama set to release on April 11th. The film, produced by Netmek Productions and Romeo Pictures, features live speech and sound recording, highlighting Aishwarya Rajesh's performance. It's a follow-up to the successful 'Goodnight', also starring Prakash Kumar."
-
-🟩
-
-'Goodnight' was released last year, focusing on the snarling problem.. In the film, Manikandan, the hero of the story, is a habit of snoring in loud sound during sleep.
-
-The story of the film is how he fell in love with a woman and married a life.
-
-Aishwarya Rajesh, the hero of the story, has the habit of changing the same story almost a little.
-
-GV as her husband. Prakash Kumar plays. This movie is named 'Dear'. The film will be released at the film House on April eleven?Not available?It must be seen.
-
-Directed by director Anand Ravichandran in the movie 'Dear'. V.. Prakash Kumar, Aishwarya Rajesh, Kali Venkat, Prince, Rohini, 'Thalaivasal' Vijay, Geeta Kailasam, Abdul Lee, 'Black Sheep' Nandini.
-
-...
-
-[Data](articles/422c9bc3.json)
-
-[Extended Data](ext_articles/422c9bc3.ext.json)
-
----
-
-### Fire at a pharmacy in Punduloya
-
-*2024-04-08 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180731) · `ta`
-
-A fire at a pharmacy in Punduloya's main city last Saturday night may have caused a fire at a private hospital. Damage to products, including drugs and furniture, is yet to be revealed. Punduloya police and Nuwara Eliya Forensic Division are investigating.
-
-🟩
-
-A fire broke out in a private hospital in Punduloya main city. The incident took place last Saturday night (06).
-
-Initial inquiries revealed that the fire may have been the cause of the fire at the pharmacy.
-
-Damage has not yet been revealed that the products, including drugs and furniture have been damaged at the pharmacy.. Police said.
-
-In addition, the Punduloya police and the Nuwara Eliya Forensic Division have joined forces to identify the causes of the fire and carry out further investigations.
-
-◼️
-
-[Data](articles/715cef72.json)
-
-[Extended Data](ext_articles/715cef72.ext.json)
-
----
-
-### Sri Lanka stocks close up 1-pct, turnover at 3bn
-
-*2024-04-08 16:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-1-pct-turnover-at-3bn-157925/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader All Share Index closed up 1.06 percent, or 124.53 points, at 11,920; while the S&P SL20 Index closed up 1.79 percent, or 62.17 points, at 3,543.
-
-“A lot of high net worth and corporates are getting involved expecting a successful completion of ISB negotiations,” market participants said.
-
-“The second round of ISB talks is affecting banks positively; bluechips are also seeing activity.”
-
-Sampath Bank Plc saw the most active trade volume contributing Rs675mn to the day’s turnover; the share closed up at 80.90.
-
-Hemas Holdings Plc also increased activity (Rs191mn) and the share closed up at 83.00.
-
-Other major contributors to the Index included Commercial Bank of Ceylon, up at 110.00, National Development Bank Plc, up at 76.70, Browns Investments Plc, up at 5.50, and Lanka IOC Plc, up at 126.00. (Colombo/Apr8/2024)
-
-◼️
-
-[Data](articles/98b214c7.json)
-
-[Extended Data](ext_articles/98b214c7.ext.json)
-
----
-
-### Special news for those who dreamed for New Zealand
-
-*2024-04-08 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195437) · `si`
-
-New Zealand tightens employment visa laws, requiring low-skilled workers to meet English language standards and limiting their stay to three years, previously five. This change aims to rebuild the economy and ensure employers meet skill and experience requirements.
-
-🟩
-
-New Zealand has taken steps to raise employment visa laws in response to a "unsustainable" immigration increase.
-
-Low skilled applicants should now meet the English language requirements and are only three years allowed to stay in the country. Previously, such people were allowed to stay in New Zealand for five years.
-
-"It is important to maintain the country's immigration methodology," says Immigration Minister Erika Stanford, to maintain the economy to rebuild the economy.
-
-Under the laws, many employers should meet the requirements of skills and work experience.
-
-New Zealand authorities say they are the responsibility of the employers before the migrants are served.
-
-The authorities have planned to add 11 more careers for the identified occupations identified as the citizenship of the country.
-
-◼️
-
-[Data](articles/5deaf942.json)
-
-[Extended Data](ext_articles/5deaf942.ext.json)
 
 ---

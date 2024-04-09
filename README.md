@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 09:03:18**
+As of **2024-04-09 09:18:23**
 
 ## Newspaper Stats
 
-*Scraped **17,985** Articles*
+*Scraped **17,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,100 @@ newsfirstlk | 363
 dailyftlk | 987
 islandlk | 992
 economynextcom | 996
-adalk | 1,513
+adalk | 1,514
 tamilmirrorlk | 2,113
-adaderanalk | 2,161
+adaderanalk | 2,162
 virakesarilk | 2,646
-dailymirrorlk | 2,740
-adaderanasinhalalk | 2,913
+dailymirrorlk | 2,743
+adaderanasinhalalk | 2,915
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,984 (100.0%) of 17,985 articles have been extended.
+17,985 (100.0%) of 17,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### රාමසාන් වෙනුවෙන් ඉස්ලාම් දේවස්ථානවලට විශේෂ ආරක්ෂාවක්
+
+*2024-04-09 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195459) · `si`
+
+රාමසාන් උත්සවය වෙනුවෙන් ඉස්ලාම් දේවස්ථානයන්හී ආරක්ෂාව සඳහා පොලීසියෙන් විශේෂ ආරක්ෂක වැඩපිලිවෙලක් යොදා තිබේ.
+
+පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් පරිදි ක්‍රියාත්මක එම වැඩපිළිවෙළ සඳහා පොලීසිය, විශේෂ කාර්ය බළකාය සහ ත්‍රිවිද හමුදා ආරක්ෂක අංශ කැඳවා ඇත.
+
+සෑම පොලිස් වසමට අයත් සියලුම ඉස්ලාම් දේවස්ථානවල මව්ලවිතුමන්ලා හමුවී එම විශේෂ ආරක්ෂක සැලැස්ම සකස් කර ඇත.
+
+ඒ යටතේ දිවයින පුරා ඉස්ලාම් දේවස්ථාන 3,203ක් අතරින් දේව මෙහෙයන් පැවැත්වෙන ඉස්ලාම් දේවස්ථාන ස්ථාන 2,453කට අවශ්‍ය ආරක්ෂාව තහවුරු කර තිබේ.
+
+එම දේවස්ථානවල ආරක්ෂාව සඳහා පොලිස් නිලධාරීන් 5,580ක්, විශේෂ කාර්ය බළකා නිලධාරීන් 510ක් සහ ත්‍රිවිධ හමුදා නිලධාරීන් 1,260ක් සමඟින් 7,350කට අධික ආරක්ෂක භට පිරිසක් යෙදවීමට මේ වනවිටත් කටයුතු ඇත.
+
+◼️
+
+[Data](articles/81c66254.json)
+
+---
+
+### ජාතික අධ්‍යාපන ප්‍රතිපත්තියට සරසවි ඇදුරෝ විරෝධයේ
+
+*2024-04-09 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195458) · `si`
+
+යෝජිත අධ්‍යාපන ප්‍රතිපත්ති රාමුව මඟින් මෙරට අධ්‍යාපන පද්ධතිය වැඩි වශයෙන් පෞද්ගලික අංශයට පැවරීම සඳහා යෝජනා කර ඇති බව කොළඹ විශ්වවිද්‍යාල ශාස්ත්‍රපීඨ ආචාර්යවරුන්ගේ සමිති සම්මේලනය පවසයි.
+
+ඔවුන් පෙන්වා දෙන්නේ, අදාළ ප්‍රතිපත්ති රාමුවට මේ වන විට කැබිනට් අනුමැතිය හිමිව ඇති අතර එය පාර්ලිමේන්තුවේ අධ්‍යාපනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව වෙත යොමුකර ඇති බවය.
+
+එම ප්‍රතිපත්ති රාමුව මේ මාසය තුළ පාර්ලිමේන්තුවේ සම්මතවීමට ඉඩ පවතින අතර එය රජයේ ප්‍රතිපත්තිමය යෝජනාවක් බැවින් ශ්‍රේෂ්ඨාධිකරණය හමුවේ අභියෝගයට ලක්කිරීමට ද නොහැකි බව මහාචාර්ය අර්ජුන පරාක්‍රම මහතා ප්‍රකාශ කළේය.
+
+සිංහල සහ ඉංග්‍රීසී භාෂාවලින් සඳහන්ව ඇති එම ප්‍රකාශනයේ වෙනසක් පවතින බව ද එය සම්මත වීම මඟින් මෙරට පාසල් සහ විශ්වවිද්‍යාල අධ්‍යාපනයෙන් රාජ්‍ය වගකීම නිදහස් වීම අපේක්ෂා කරන බවය.
+
+නිදහස් විශ්වවිද්‍යාල අධ්‍යාපන ක්‍රමය අහෝසි කර ගාස්තු ගෙවා විශ්වවිද්‍යාල අධ්‍යාපනය ලැබීමේ අවස්ථාව ලබාදීමට ද එමඟින් සැලසුම් කරන බව කොළඹ විශ්වවිද්‍යාල ශාස්ත්‍රපීඨ ආචාර්යවරුන්ගේ සමිති සම්මේලනයේ ලේකම් ආචාර්ය අතුල සමරකෝන් මහතා පැවසුවේය.
+
+◼️
+
+[Data](articles/5a76b11d.json)
+
+---
+
+### Sri Lanka captain Chamari quashes retirement speculation; sets sight on T20 WC Qualifiers
+
+*2024-04-09 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98527/sri-lanka-captain-chamari-quashes-retirement-speculation-sets-sight-on-t20-wc-qualifiers) · `en`
+
+Sri Lanka Women’s team captain Chamari Athapaththu has cleared the air about her future in international cricket.
+
+Chamari Athapaththu has her focus entirely on the upcoming ICC Women’s T20 World Cup Qualifiers, after which she will decide her future in international cricket.
+
+Athapaththu stirred up speculation within the cricketing community by dropping hints about retirement in a now-deleted Facebook post, where she mentioned ‘last duty for my country’ following Sri Lanka’s remarkable T20I series victory over South Africa.
+
+Now, prior to the ODI series against South Africa, the 34-year-old emphasised that her primary focus lies on the upcoming commitments for Sri Lanka
+
+“I’m still not decided [on retirement],” Athapaththu said on the eve of the first ODI against the Proteas. “We can talk about it later. At the moment, I’m focused on the [South Africa] ODIs and World Cup qualifiers. Let’s see in the future.”
+
+...
+
+[Data](articles/c16767df.json)
+
+---
+
+### Sri Lanka hard-pressed against time to conclude agreements for debt restructuring
+
+*2024-04-09 08:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-hard-pressed-against-time-to-conclude-agreements-for-debt-restructuring/108-280442) · `en`
+
+Colombo, April 9 (Daily Mirror) - Sri Lanka is hard-pressed against time to reach agreements with creditors including bondholders before June, when the third tranche of the International Monetary Fund (IMF) extended fund facility is expected, Daily Mirror learns.
+
+Sri Lanka is expected to get the next tranche of US $ 337 million in June after the third review of the programme.
+
+Before that, Sri Lanka has to sign the MoU with the Paris Club of Nations on restructuring bilateral debts while signing a separate agreement with China for the same purpose but on terms acceptable to all the bilateral creditors.
+
+Asked about the latest developments, a government source said the government to finalize the agreements in principle with commercial creditors including bondholders before that.
+
+...
+
+[Data](articles/6ab5b67d.json)
+
+---
 
 ### Showers expected in parts of the island
 
@@ -126,6 +204,26 @@ Meanwhile, the Paddy Marketing Board, Attorney Buddhika Iddamalgoda, has been te
 
 ---
 
+### Invasive plant found spreading in Sri Pada mountain range: Minister
+
+*2024-04-09 07:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Invasive-plant-found-spreading-in-Sri-Pada-mountain-range-Minister/108-280443) · `en`
+
+Colombo, April 9 (Daily Mirror) - Wildlife and Forest Resources Conservation Minister Pavithradevi Wanniarachchi has directed the authorities concerned to promptly address the spread of the invasive plant species 'Koenigia Mollis' in the tropical rainforest surrounding the Sri Pada (Adam's Peak) mountain range.
+
+She instructed officials to implement measures focused on biodiversity conservation and to employ scientific and technical methods for the removal of the invasive plant.
+
+The invasive plant has been found to have spread along the roads leading to Sri Pada, near the stalls, shops and toilets.
+
+In areas where the plant has spread, native plants have been completely overwhelmed and destroyed.
+
+Researchers at Sabaragamuwa University have discovered that a particular plant, typically found growing 6 to 8 feet tall near mountainous areas, gradually weakens the stability of its root system. This weakening contributes to an increased risk of landslides occurring at the mountain peaks.
+
+...
+
+[Data](articles/5041d86e.json)
+
+---
+
 ### Plans to implement the Examination Department in two parts
 
 *2024-04-09 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195455) · `si`
@@ -198,21 +296,29 @@ In cases where strong winds and lightning impacts occur. Remble
 
 ---
 
-### ’மாற்றுத்திறனாளிகள் தொடர்பில் கருத்தியல் மாற்றம்’
+### Fetalism
 
 *2024-04-09 07:18:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாற்றுத்திறனாளிகள்-தொடர்பில்-கருத்தியல்-மாற்றம்/175-335775) · `ta`
 
-இம்முறை புத்தாண்டுக் கொண்டாட்டத்தின் போது மாற்றுத்திறனாளிகள் குறித்து. சமுதாயத்தில் கருத்தியல் ரீதியிலான மாற்றத்தை ஏற்படுத்துவதற்காக, முட்டி உடைத்தல் குருடனுக்கு உணவளித்தல் என்பன 'அதிர்ஷ்ட பானையை உடைத்தல், பார்வையற்றவர்களுக்கு உணவளித்தல்' என மாற்றப்பட்டுள்ளதாக சமூக வலுவூட்டல் இராஜாங்க அமைச்சர் அனுப பஸ்குவல் தெரிவித்தார்.
+Anupa Baskal, Minister of Social Empowerment, announced a change in the New Year's tradition of "feeding the blind" to "breaking the lucky pot and feeding the blind," aiming for a conceptual shift. Banks in the Samurdhi program will host 1089 New Year celebrations nationwide, focusing on alternatives to the traditional 'feeding the blind to the blind.'
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-இவ்வருட புத்தாண்டுக்காக சமுர்த்தி வேலைத்திட்டத்தில் உள்ள அனைத்து வங்கிகளும் இணைந்து நாடளாவிய ரீதியில் 1089 புத்தாண்டு கொண்டாட்டங்களை நடத்துவதற்கு ஏற்பாடுகள் செய்துள்ளன.
+During the New Year celebration this time. Minister of Social Empowerment Anupa Baskal said that the breakdown of the blind and the feeding of the blind in the society has been changed to "breaking the lucky pot and feeding the blind."
 
-அதன்போது மாற்றுத்திறனாளிகள் குறித்து சிறப்பு கவனம் செலுத்தப்பட்டுள்ளது. 'முட்டி உடைத்தல் குருடர்களுக்கு உணவளித்தல்' என்ற அம்சங்கள் சமூகத்தால் இதுவரை நிராகரிக்கப்பட்டுள்ளன. அதனை எமது அமைச்சும் ஏற்றுக்கொண்டுள்ளது. அதற்கு பதிலாக, 'அதிர்ஷ்டத்தின் பானையை உடைத்தல் மற்றும் தோழனுக்கு உணவளித்தல்' என்ற பெயர்களைப் பயன்படுத்துமாறு ஏற்பாட்டாளர்களுக்குத் தெரிவிக்கப்பட்டுள்ளது.
+He said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
 
-...
+All banks in the Samurdhi program for the New Year this year have made arrangements to hold 1089 New Year celebrations nationwide.
+
+Special attention has been paid to the alternatives. The features of 'feeding the blind to the blind' have been rejected by the community so far. Our Ministry has accepted it. Instead, the organizers have been told to use the names of 'breaking the pot of luck and feeding the companion'.
+
+We expect to create a conceptual change in the community. We have also organized various special events for the Disabled Persons at the New Year's festivals.(a)
+
+◼️
 
 [Data](articles/27c7fe70.json)
+
+[Extended Data](ext_articles/27c7fe70.ext.json)
 
 ---
 
@@ -473,6 +579,22 @@ But compared to last year, people are engaged in their daily activities to celeb
 [Data](articles/86d33a94.json)
 
 [Extended Data](ext_articles/86d33a94.ext.json)
+
+---
+
+### Small Medium Modern Trade  outlets gaining traction with  SL’s middle class: Study
+
+*2024-04-09 02:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Small-Medium-Modern-Trade-outlets-gaining-traction-with-SLs-middle-class-Study/108-280438) · `en`
+
+SMMTs became most visited place of purchase for 22% of  lower-middle-income consumers
+
+Small groceries remained as most visited place of purchase  among 44% lower-middle-class consumers
+
+The Small Medium Modern Trade (SMMT) outlets are  rapidly capturing the attention of Sri Lanka’s middle class,  with the traditional retailers swiftly adapting to this shifting  retail landscape.  A recent survey by Colombo-based independent research agency  Sparkwinn Research indicated that this trend is driven by the changing  consumer behaviour patterns, influenced by the soaring cost of living. According to the findings of the survey, the SMMTs became  the most visited place of purchase for 22 percent of lower-middleincome (Rs.50,000-100,000 monthly income) consumers, up from 15  percent three months ago.
+
+...
+
+[Data](articles/072e9c3d.json)
 
 ---
 
@@ -1364,6 +1486,24 @@ The two filed a petition in the Family Welfare Court demanding that they declare
 
 ---
 
+### පේරේ අනධ්‍යන කාර්ය මණ්ඩලයේ 59කට මිලියන 84ක් අමුතු විදිහට ගෙවලා
+
+*2024-04-08 20:01:26* · [`adalk`](https://www.ada.lk/breaking_news/පේරේ-අනධ්‍යන-කාර්ය-මණ්ඩලයේ-59කට-මිලියන-84ක්-අමුතු-විදිහට-ගෙවලා/11-409023) · `si`
+
+පේරාදෙණිය විශ්වවිද්‍යාලයේ අනධ්‍යයන කාර්ය මණ්ඩලයේ නිලධාරීන් 59කට කිසිදු අනුමතියකින් තොරව හා කිසිදු පර්යේෂණ වාර්තාවක් නොමැතිව පසුගිය කාලයේ පර්යේෂණ දීමනා ලෙස රුපියල් මිලියන 84ක් ගෙවා ඇතැයි ජාතික විගණන කාර්යාලය අනාවරණය කරයි.
+
+2014 නොවැම්බර් පළමුවැනිදා සිට 2022 අගෝස්තු 31 දක්වා කාලය තුළ මෙම ගෙවීම් සිදුකර තිබේ.
+
+2/2014 කළමනාකරණ සේවා චක්‍රලේඛයට අනුව පර්යේෂණ කළමනාකරණ කමිටු අනුමතියකින් තොරව හා කිසිදු අන්තර් පර්යේෂණ වාර්තාවක් හෝ වෙනත් පර්යේෂණ වාර්තාවක් ලබා නොගෙන මෙම දීමනා ගෙවා ඇති බව ජාතික විගණන කාර්යාලය සඳහන් කරයි.
+
+ජාතික විගණන කාර්යාලය මගින් 2022 වසර වෙනුවෙන් සකස් කරන ලද විගණකාධිපති වාර්ෂික වාර්තාව මගින් පේරාදෙණිය විශ්ව විද්‍යාලයට අදාළ විගණන නිරීක්ෂණ යටතේ මේ අනාවරණය සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/b1c566e0.json)
+
+---
+
 ### An iron piece to exclude Dayasiri
 
 *2024-04-08 19:54:48* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරි-අකුණු-ගහනවාට-එළියට-දාන-යකඩ-කෑල්ලක්/11-409022) · `si`
@@ -2105,177 +2245,5 @@ The teaser of the film 'Pushpa+ The Rule' has been released on the birthday of t
 [Data](articles/95d89b67.json)
 
 [Extended Data](ext_articles/95d89b67.ext.json)
-
----
-
-### First Look release of 'Dear Excel' starring Nithya Menon
-
-*2024-04-08 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180747) · `ta`
-
-"First Look of 'Dear Excess' released, featuring Nithya Menon, directed by debutant Gamini. The film, produced by Bask Time Theater and Popter Media Network, stars Nithya Menon, Vinay Roy, Navdeep, Deepak Parambol, and Pratik Popper. The title suggests a story about Nithya Menon's exes."
-
-🟩
-
-The first look of the film 'Dear Excess' has been released as the hero of the story of Nithya Menon, who is the leading hero of the Tamil film industry.
-
-Director and actor Venkat Prabhu posted this on his web page and congratulated the film crew.
-
-Nithya Menon, Vinay Roy, Navdeep, Deepak Parambol and Pratik Popper are the leading roles in the upcoming film 'Dear Excess' directed by debutant director Gamini.
-
-The film is being recorded by Preeta Jayaraman. Saravanan is carrying out.
-
-The film is being produced by Bask Time Theater and Popter Media Network, which is being produced by PG, Aditya Ajay Singh and Ramki.
-
-The first look of 'Dear Excel' has been released on the occasion of actress Nithya Menon's birthday.
-
-Actress Nithya Menon's dress, her hands with a soft drink and a cell phone has surprised fans.
-
-Also, the title of 'Dear Excess' means that Nithya Menon's ex -lovers or ex -husbands can be a great anticipation of the appearance that the heroine may look like an orientate autograph.
-
-◼️
-
-[Data](articles/42f5f2a0.json)
-
-[Extended Data](ext_articles/42f5f2a0.ext.json)
-
----
-
-### White Rose - Review
-
-*2024-04-08 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180750) · `ta`
-
-"White Rose" explores a tragic incident involving a civilian killed by police during an encounter with a murderer. The story follows 'Gayal' Anandi, whose husband Vijith is killed by police, leading to her daughter's abduction and her forced entry into sex work. The film, directed by K.. Rajasekhar, features a mix of drama, crime, and thriller elements, with performances by Anandi, Vijith, and R. K. Suresh. Critics note the film's weak screenplay and the impact of its themes, including police brutality and the plight of sex workers.
-
-🟩
-
-Actors: 'Gayal' Anandi, R. K. Suresh, Rousseau Sreedharan, Vijith, Sasilaya, Baby Star and many others.
-
-One of the civilians firing when the police officers are working on an encounter with a murderer who committed a series of murder. What happened to his family?How did the police help the family?Director K.. Rajasekhar -led team is created. Did the film impress all the fans?Or not?We will continue to see.
-
-'Gayal' Anandi's husband Vijith comes home from abroad. He goes out to celebrate her birthday with her child Baby star and wife 'Gayal' Anandi.
-
-On the moment when he returned home after celebrating his birthday, the police were trying to leave a barrier without issuing a proper notice to the public.
-
-Vijith is killed by the police firing unexpectedly. Anandi is terrified of what to do with her husband from abroad suddenly dies. Anandi is unable to build a home rental and even without cash in his hand to buy food.
-
-...
-
-[Data](articles/d7a113bd.json)
-
-[Extended Data](ext_articles/d7a113bd.ext.json)
-
----
-
-### Double Tucker - Review
-
-*2024-04-08 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180748) · `ta`
-
-"Double Tucker" is a comedy-drama featuring Theraj, Smriti Venkat, and others. It explores the life of Aravind, who, after a tragic accident, is given a second chance at life by animated characters. The film blends comedy with a serious message about love and sacrifice, with standout performances by Theraj and the animated characters voiced by Kali Venkat and Muniskant.
-
-🟩
-
-Actors: Theraj, Smriti Venkat, Kovai Sarala, M. S.. Bhaskar, Sunil Reddy, Muniskant, Kali Venkat, Karunakaran, Yashika Anand and many others.
-
-Does the debut director Meera Mehdi, who are hoping to create a work with animated characters, are attracted to all the 'double tucker' that has created technology?Or not?We will continue to see.
-
-Man Aravind (Tiraj) lives in a child's old accident and lives in a face with a hazardous face. Aravind has inferiority on his face. He is the principal of the property, and he loves Baru (Smriti Venkat), who helps with the volunteer for cancer.Aravind tells his love to Baru. Look at his face look.. Hesitates first to accept love. Thus, if Arvind does not accept our love at the specified date and the moment ... Suggests that he is going to commit suicide. He also committed suicide. Look at Aravind's love and come there a little late.. Aravind is shocked.
-
-...
-
-[Data](articles/520ff681.json)
-
-[Extended Data](ext_articles/520ff681.ext.json)
-
----
-
-### SJB leaders won’t be able to hold their positions if party membership loses faith: Fonseka
-
-*2024-04-08 17:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-leaders-wont-be-able-to-hold-their-positions-if-party-membership-loses-faith-Fonseka/108-280402) · `en`
-
-Colombo, April 8 (Daily Mirror) - The Samagi Jana Balawegaya (SJB) leaders will not be able to hold on to their positions for long if the membership lose their faith in them, MP Sarath Fonseka said today.
-
-"Party leaders should think of their party membership and not their personal success," Fonseka told the media.
-
-"A few in the SJB want to push me out, but I am not scared of them. I am a man who has confronted political giants like Mahinda Rajapaksa," he said.
-
-He also said former President Maithripala Sirisena should not be taken seriously.
-
-"Former President Sirisena is not focusing on issues faced by the people but playing practical jokes," he added.
-
-◼️
-
-[Data](articles/77a9eb44.json)
-
-[Extended Data](ext_articles/77a9eb44.ext.json)
-
----
-
-### Fisheries Minister Douglas Devananda
-
-*2024-04-08 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180713) · `ta`
-
-Fisheries Minister Douglas Devananda criticized villagers for protesting lime excavation in Ponnaveli, Kilinochchi. He was previously aware of anti-Tamil activities. Devananda's actions, including land acquisition for sand and stone sales, are seen as plundering Tamil resources. The village, a traditional Eelam site, has been protected by native communities for years. The minister's plans to create saltwater warehouses and dig up the Murukkalis have sparked concern.
-
-🟩
-
-The villagers were opposed to the villagers on the 05th of last month for a lime excavation in the village of Ponnaveli, Poonakari Divisional Secretariat, Kilinochchi.
-
-Fisheries Minister Douglas Devananda has also attacked the people who participated in the protest.
-
-Parliamentarian Sivagnanam Sreedharan held a media briefing on Sunday.
-
-Fisheries Minister Douglas Devananda's actions were not yesterday, but when he was a Member of Parliament, he was openly aware that he had the anti -Tamil activities of the Tamils..
-
-If he has identified himself as a Member of Parliament who represents the aspirations of a legitimate honorable Tamils, he should not plunder the resources of the Tamil people and maintain the resources of the Tamil people.
-
-But it is not a matter of fact that it is not a matter of identification as a minister who takes the land of the Tamils, selling sand and selling stone.
-
-...
-
-[Data](articles/91b2e132.json)
-
-[Extended Data](ext_articles/91b2e132.ext.json)
-
----
-
-### One person killed in shooting in Gampaha
-
-*2024-04-08 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98519/one-person-killed-in-shooting-in-gampaha) · `en`
-
-A person has reportedly been killed in a shooting incident at Katugasthara area in Gampaha, a short while ago.
-
-An unidentified gunman had carried out the shooting at around 04.00 p.m. this evening (08), according to Ada Derana reporter.
-
-The victim, who had sustained serious injuries in the incident, was admitted to Gampaha Hospital for treatment, where he had succumbed to injuries during treatment.
-
-It has been revealed that the deceased was running a vehicle painting garage at his home and the shooting has taken place while he was working there, the police said.
-
-◼️
-
-[Data](articles/97104c1d.json)
-
-[Extended Data](ext_articles/97104c1d.ext.json)
-
----
-
-### Gampaha shooting
-
-*2024-04-08 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195439) · `si`
-
-An unknown person shot someone around 4 pm, using a pistol, and was treated at Gampaha Hospital. Police are investigating.
-
-🟩
-
-It is reported that this shooting has been carried out by an unknown person around 4 pm.
-
-He was admitted to the Gampaha Hospital for treatment he was admitted to the Gampaha Hospital for treatment.
-
-The shooting was carried out with a pistol firearm while the police have commenced further investigations.
-
-◼️
-
-[Data](articles/92c80401.json)
-
-[Extended Data](ext_articles/92c80401.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 21:53:05**
+As of **2024-04-09 22:05:17**
 
 ## Newspaper Stats
 
-*Scraped **18,138** Articles*
+*Scraped **18,141** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,013
 adalk | 1,531
 tamilmirrorlk | 2,125
 adaderanalk | 2,178
-virakesarilk | 2,676
+virakesarilk | 2,679
 dailymirrorlk | 2,770
 adaderanasinhalalk | 2,941
 
@@ -26,21 +26,41 @@ adaderanasinhalalk | 2,941
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,135 (100.0%) of 18,138 articles have been extended.
+18,138 (100.0%) of 18,141 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### රාමසාන් හෙට
+### தலைப் பிறை தென்பட்டது ; நாளை நோன்பு பெருநாள்
+
+*2024-04-09 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180849) · `ta`
+
+புனித ஷவ்வால் மாதத்திற்கான தலைப் பிறை தென்பட்டுள்ளதால் நாளை புதன்கிழமை (10) நோன்பு பெருநாளைக் கொண்டாடத் தீர்மானித்துள்ளதாகக் கொழும்பு பெரிய பள்ளிவாசல் தெரிவித்துள்ளது.
+
+எனவே, புனித ஷவ்வால் மாத தலைப்பிறை தென்பட்டதால் இலங்கை வாழ் முஸ்லிம்கள் நாளை புதன்கிழமை (10) புனித நோன்புப் பெருநாளை கொண்டாடவுள்ளனர்.
+
+◼️
+
+[Data](articles/7d7ee3b6.json)
+
+---
+
+### Ramadan tomorrow
 
 *2024-04-09 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195486) · `si`
 
-මුස්ලිම් ජනතාව හෙට (10) දින රාමසාන් උත්සවය සමරන බව කොළඹ මහ පල්ලිය නිවේදනය කරයි.
+"Ramadan begins tomorrow, as announced by the Colombo Maha Church."
+
+🟩
+
+The Colombo Maha Church announced that the Muslims celebrate the Ramazan festival tomorrow (10).
 
 ◼️
 
 [Data](articles/46a65df4.json)
+
+[Extended Data](ext_articles/46a65df4.ext.json)
 
 ---
 
@@ -60,6 +80,8 @@ Meanwhile Mr. Premadasa told a public meeting in the North-Western Province that
 
 [Data](articles/33a9e03e.json)
 
+[Extended Data](ext_articles/33a9e03e.ext.json)
+
 ---
 
 ### Mahinda Rajapaksa tasked with selecting SLPP’s presidential candidate
@@ -75,6 +97,8 @@ The SLPP’s politburo led by party leader, former President Mahinda Rajapaksa a
 ◼️
 
 [Data](articles/e972b0c5.json)
+
+[Extended Data](ext_articles/e972b0c5.ext.json)
 
 ---
 
@@ -654,6 +678,24 @@ Next, it must be determined what is said on behalf of the Sri Lankan Tamils for 
 
 ---
 
+### தபால் சேவை வெள்ளிக்கிழமை இடம்பெறும் !
+
+*2024-04-09 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/180843) · `ta`
+
+வெளிநாடுகளிலிருந்து இலங்கையிலுள்ளவர்களுக்கு பெருமளவான பொதிகள் அனுப்பப்பட்டுள்ளன. எனவே அவற்றை உரிய நேரத்தில் உரியவர்களிடம் சேர்க்க வேண்டும் என்பதால் 12ஆம் திகதி தபால் சேவையை முன்னெடுப்பதற்கு தீர்மானிக்கப்பட்டுள்ளதாக தபால் அலுவல்கள் இராஜாங்க அமைச்சர் சாந்த பண்டார தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று செவ்வாய்கிழமை இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+வெளிநாடுகளிலிருந்து இலங்கையிலுள்ள தமது உறவினர்களுக்கு பெருமளவான பொதிகள் அனுப்பப்பட்டுள்ளன. அவற்றை உரிய நேரத்தில் உரியவர்களிடம் ஒப்படைக்க வேண்டும் என்பதால், 12ஆம் திகதி விடுமுறை என்ற போதிலும், அன்றைய தினம் சேவைக்கு சமூகமளிப்பதற்கு சகல தபால் ஊழியர்களும் தீர்மானித்துள்ளனர். இதற்குரிய ஒத்துழைப்பினை வழங்குவதாக சுங்க திணைக்களமும் உறுதியளித்துள்ளது.
+
+நஷ்டத்தில் இயங்கிக் கொண்டிருந்த தபால் திணைக்களம் தற்போது இலாபமீட்டத் தொடங்கியுள்ளது. எனினும் அத்தியாவசிய சேவைகளில் காணப்படும் ஆள் பற்றாக்குறை இந்த பயணத்துக்கு தடையாகவுள்ளது. எனவே அத்தியாவசிய சேவைகளுக்கு மாத்திரம் ஆட்சேர்ப்பதற்கு அனுமதி கோரப்பட்டுள்ளது.
+
+...
+
+[Data](articles/ab582522.json)
+
+---
+
 ### Sri Lanka rupee closes at 298.60/65 to the US dollar
 
 *2024-04-09 17:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-298-60-65-to-the-us-dollar-158058/) · `en`
@@ -675,6 +717,26 @@ A bond maturing on 01.07.2032 closed at 12.40/55 percent. (Colombo/Apr9/2024)
 [Data](articles/bb90a4bb.json)
 
 [Extended Data](ext_articles/bb90a4bb.ext.json)
+
+---
+
+### சர்வதேச கண்காணிப்பாளர்களுக்கு அழைப்பு விடுக்க வேண்டும் - தேர்தல் ஆணைக்குழுவிடம் பெப்ரல் கோரிக்கை
+
+*2024-04-09 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180838) · `ta`
+
+இடம்பெற இருக்கும் ஜனாதிபதி தேர்தலுக்கு சர்வதேச கண்காணிப்பாளர்களை அழைப்பதற்கு தேவையான நடவடிக்கைகளை தேர்தல் ஆணைக்குழு விரைவாக மேற்கொள்ள வேண்டும் என பெப்ரல் அமைப்பு கோரிக்கை விடுத்துள்ளது.
+
+பெப்ரல் அமைப்பின் நிறைவேற்று அதிகாரி ரோஹன ஹெட்டிஆரச்சி தேர்தல் ஆணைக்குழுவின் தலைவவருக்கு அனுப்பியுள்ள கடிதத்திலேயே இவ்வாறு தெரிவிக்கப்பட்டுள்ளது.
+
+நாட்டிற்குள் தற்போது தேர்தல் சூடு பிடிக்க ஆரம்பிள்ளதுடன் பல தேர்தல்கள் தொடர்பாகவும் அரசியல் கட்சிகள் கவனம் செலுத்திவருவதை காணக்கூடியதாக இருக்கிறது.
+
+அரசியலமைப்பின் பிரகாரம் ஜனாதிபதி தேர்தல் ஒக்டோபர் மாதம் 14ஆம் திகதிக்கு முன்னர் நடத்தப்பட வேண்டும். அது தொடர்பான பூரண அதிகாரம் மற்றும் பொறுப்பு தாங்கள் உட்பட தேர்தல் ஆணைக்குழுவுக்கு இருக்கிறது. அதனால் அரசியல் அதிகாரத்தை பயன்படுத்திக்கொண்டு தேர்தல் திகதியை மாற்றியமைக்க யாருக்கும் இயலாது.
+
+அதனால் வேட்புமனு தாக்கல் செய்யும் காலம் மற்றும் பிரசார காலம் தொடர்பாக நடைமுறை சாத்தியங்களை ஆராய்ந்து உரிய காலத்தில் நீங்கள் ஆணைக்குழுவினால் தேர்தல் திகதியை அறிவிக்கும் என்பதே எமது நம்பிக்கை.
+
+...
+
+[Data](articles/2dccc118.json)
 
 ---
 
@@ -2231,75 +2293,5 @@ The President's proposal has been approved.
 [Data](articles/e25f983e.json)
 
 [Extended Data](ext_articles/e25f983e.ext.json)
-
----
-
-### Where is my house - the Palestinians shocked who returned to Khan Unis - completely destroyed houses
-
-*2024-04-09 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/180805) · `ta`
-
-Palestinians in Khan Unis find their homes completely destroyed, shocking them with ruins where homes once stood. Hanan, a woman from Gaza's Connis, expresses her pain, saying their memories and childhood families are gone.
-
-🟩
-
-People who have returned to Gaza's Connis have shocked the people who have now found the ruins in the area where their homes were found.
-
-I could not find my house because everything was destroyed.
-
-The woman who said her first name was Hanan, noted that there were no words to describe my pain.
-
-He said in a disturbing voice that our memories have been destroyed as our childhood families have been destroyed.
-
-International media reports that he was found with the materials that recovered from the degeneration of his house.
-
-◼️
-
-[Data](articles/2f7cd4a0.json)
-
-[Extended Data](ext_articles/2f7cd4a0.ext.json)
-
----
-
-### March marks yet another record in global heat
-
-*2024-04-09 12:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/March-marks-yet-another-record-in-global-heat/108-280468) · `en`
-
-BRUSSELS, April 9 (Reuters) - The world just experienced its warmest March on record, capping a 10-month streak in which every month set a new temperature record, the European Union's climate change monitoring service said on Tuesday.
-
-Each of the last 10 months ranked as the world's hottest on record, compared with the corresponding month in previous years, the EU's Copernicus Climate Change Service (C3S) said in a monthly bulletin.
-
-The 12 months ending with March also ranked as the planet's hottest ever recorded 12-month period, C3S said. From April 2023 to March 2024, the global average temperature was 1.58 degrees Celsius above the average in the 1850-1900 pre-industrial period.
-
-"It's the long-term trend with exceptional records that has us very concerned," C3S Deputy Director Samantha Burgess told Reuters.
-
-"Seeing records like this - month in, month out - really shows us that our climate is changing, is changing rapidly," she added.
-
-...
-
-[Data](articles/a6d575c8.json)
-
-[Extended Data](ext_articles/a6d575c8.ext.json)
-
----
-
-### Sri Lanka captain quashes retirement speculation; sets sight on T20 World Cup Qualifiers
-
-*2024-04-09 12:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-captain-quashes-retirement-speculation-sets-sight-on-T20-World-Cup-Qualifiers/108-280467) · `en`
-
-(ICC) - Sri Lanka Women’s team captain Chamari Athapaththu has cleared the air about her future in international cricket.
-
-Chamari Athapaththu has her focus entirely on the upcoming ICC Women’s T20 World Cup Qualifiers, after which she will decide her future in international cricket.
-
-Athapaththu stirred up speculation within the cricketing community by dropping hints about retirement in a now-deleted Facebook post, where she mentioned 'last duty for my country' following Sri Lanka's remarkable T20I series victory over South Africa.
-
-Now, prior to the ODI series against South Africa, the 34-year-old emphasised that her primary focus lies on the upcoming commitments for Sri Lanka
-
-"I'm still not decided [on retirement]," Athapaththu said on the eve of the first ODI against the Proteas. "We can talk about it later. At the moment, I'm focused on the [South Africa] ODIs and World Cup qualifiers. Let's see in the future."
-
-...
-
-[Data](articles/2ed01e83.json)
-
-[Extended Data](ext_articles/2ed01e83.ext.json)
 
 ---

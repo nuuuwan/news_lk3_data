@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 22:18:31**
+As of **2024-04-09 22:33:48**
 
 ## Newspaper Stats
 
-*Scraped **18,142** Articles*
+*Scraped **18,145** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,76 @@ adalk | 1,531
 tamilmirrorlk | 2,125
 adaderanalk | 2,178
 virakesarilk | 2,679
-dailymirrorlk | 2,770
+dailymirrorlk | 2,773
 adaderanasinhalalk | 2,942
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,141 (100.0%) of 18,142 articles have been extended.
+18,142 (100.0%) of 18,145 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### ව්‍යාපාරිකයෙකුගේ නිවසට පෙට්‍රල් බෝම්බ ප්‍රහාරයක්
+### Muslim community in Sri Lanka to celebrate Eid-al-Fitr tomorrow
+
+*2024-04-09 22:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Muslim-community-in-Sri-Lanka-to-celebrate-Eid-al-Fitr-tomorrow/108-280507) · `en`
+
+Colombo, April 9 (Daily Mirror) - The Muslim community in Sri Lanka is gearing to celebrate Eid-al-Fitr tomorrow, April 10th, following the sighting of the new crescent moon today, April 9th.
+
+The Colombo Grand Mosque officially announced that Eid-al-Fitr, also known as the Ramadan festival, will be observed tomorrow for 2024.
+
+Eid-al-Fitr, often referred to as the "festival of breaking the fast," signifies the conclusion of the holy month of Ramadan, during which Muslims around the world fast from dawn till sunset.
+
+◼️
+
+[Data](articles/c9ef0be0.json)
+
+---
+
+### Jaffna resident who paid 7,000 Euros for forged Polish visa nabbed at BIA
+
+*2024-04-09 22:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jaffna-resident-who-paid-7-000-Euros-for-forged-Polish-visa-nabbed-at-BIA/108-280506) · `en`
+
+Colombo, April 9 (Daily Mirror) - A resident from Jaffna who had paid Euro 7,000 to obtain a forged Polish visa affixed to his Sri Lankan passport, was nabbed by the Immigration and Emigration Department officials at the Bandaranaike International Airport (BIA), whilst trying to leave the country.
+
+The passenger was about to board the SriLankan Airlines flight UL 217 bound for Doha, Qatar on Monday evening, when he was intercepted by the Immigration officials at the BIA departure counters.
+
+A senior Immigration official told the Daily Mirror that the passenger, when questioned, had said that he had paid Euro 7,000, which is more than Rs. 2.2 million, to a local agent to be transferred to another person in Germany to get his fake visa done.
+
+The passenger, who is a resident of Kokuvil in Jaffna had collected his passport with the forged Poland visa from the local agent.
+
+He was suspected to board a flight to Doha and then a connecting flight to Warsaw, Poland, the sources said.
+
+...
+
+[Data](articles/5f0ac61f.json)
+
+---
+
+### Petrol bomb blasts to businessman's house
 
 *2024-04-09 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195487) · `si`
 
-කෝටිපති ඇඟලුම් ව්‍යාපාරිකයෙකුට අයත් අතුරුගිරිය ගල්වරුසාව පාරේ පිහිටි නිවසකට කිසියම් පුද්ගලයෙකු විසින් අද (09) සවස පෙට්‍රල් බෝම්බ ප්‍රහාරයක් එල්ල කර ඇතැයි නවගමුව පොලීසිය කියයි.
+A petrol bomb attack on a garment businessman's house in Navagamuwa led to the arrest of three suspects. The businessman, who owns multiple factories, had previously been targeted with a flower.
 
-අදාළ ව්‍යාපාරිකයාට අයත් එම නිවස ඉදිරිපිට මාස කිහිපයකට පෙර මල්වඩමක් ද තබා තිබූ අතර ඒ සම්බන්ධයෙන් සැකකරුවන් තිදෙනෙකු නවගමුව පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබුණි.
+🟩
 
-විදෙස්ගතවී සිටින පාතාල ක්‍රියාකාරියකු වන කොරතොට "කයිවාරු මුතූ" නමැත්තා විසින් අදාළ ව්‍යාපාරිකයාගෙන් කිහිප වරක් කප්පම් ඉල්ලා ඇති බවත් එම මුදල් ලබාදීම ප්‍රතික්ෂේප කිරීම හේතුවෙන් මෙලෙස තර්ජනය කරන්නට ඇති බවත් සැක කරන බව නවගමුව පොලීසියේ උසස් නිලධාරියකු පැවසීය.
+Navagamuwa Police say that a person has been attacked by a person on the Athurugiriya grounds of a millionaire garment businessman.
 
-මහරගම පමුණුව ප්‍රදේශය විශාල ඇඟලුම් කර්මාන්තශාලාවක් පවත්වාගෙන යන මෙම කෝටිපති ව්‍යාපාරිකයාට තවත් ඇඟලුම් කර්මාන්තශාලා කිහිපයක් හිමි බවද පොලීසිය සඳහන් කළේය.
+The businessman had also kept a flower a few months ago in front of the businessman and three suspects were arrested by the Navagamuwa Police.
+
+A senior Navagamuwa Police said that he had demanded a number of businessmen and the repository of the businessman, Korathota.
+
+The billionaire businessman, which runs a large garment factory in Maharagama, has another garment factories.
 
 ◼️
 
 [Data](articles/8c4c275f.json)
+
+[Extended Data](ext_articles/8c4c275f.ext.json)
 
 ---
 
@@ -645,6 +687,18 @@ Meanwhile, the Kandy Police are conducting further investigations into the murde
 [Data](articles/04bd9d5b.json)
 
 [Extended Data](ext_articles/04bd9d5b.ext.json)
+
+---
+
+### Second anniversary of 'Aragalaya'
+
+*2024-04-09 17:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Second-anniversary-of-Aragalaya/110-280480) · `en`
+
+A group of individuals staged a demonstration opposite the Fort Railway Station, marking the second anniversary of the historical people's uprising known as “Aragalaya,” on July 9, 2022. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/b1d55727.json)
 
 ---
 
@@ -2253,61 +2307,5 @@ The General Sir John Kotelawala Defence University, is a State defense universit
 [Data](articles/095f636a.json)
 
 [Extended Data](ext_articles/095f636a.ext.json)
-
----
-
-### Government approves recruiting 2,500 English teachers: Bandula
-
-*2024-04-09 12:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-approves-recruiting-2-500-English-teachers-Bandula/108-280469) · `en`
-
-Colombo, April 9 (Daily Mirror) - Cabinet approval was granted to recruit 2,500 English teachers under 'English for All' programme, Cabinet Spokesman and Minister Bandula Gunawardana said.
-
-Addressing the weekly meeting to convey Cabinet decisions, he said a total of 4,441 English teachers have been approved for schools to teach GCE Ordinary Level (O/L) subjects in English. There is a requirement of 6,500 English teachers for this.
-
-Accordingly, the government has decided to increase the number of schools to 1,000 this year. There are 765 schools that conduct subjects in English. Moreover, the government is to increase the number of English teachers to 6,500, and approval for this was granted by the Cabinet, Minister Gunawardana said.
-
-◼️
-
-[Data](articles/1d22e3b3.json)
-
-[Extended Data](ext_articles/1d22e3b3.ext.json)
-
----
-
-### Cabinet nod for admission of local students to medical degree programme at KDU
-
-*2024-04-09 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98533/cabinet-nod-for-admission-of-local-students-to-medical-degree-programme-at-kdu) · `en`
-
-The Cabinet of Ministers has granted approval for the admission of local students for the MBBS medical degree programme at General Sir John Kotelawala Defence University starting from this year.
-
-The admissions will be carried out on payment basis and based on ‘Z’ score at G.C.E. Advanced Level and other specified qualifications, the Cabinet Spokesman Minister Bandula Gunawardena said.
-
-The General Sir John Kotalawala Defense University (KDU) was declared a University by the General Sir John Kotalawala State Defense Training Institute (Amendment) Act No. 27 of 1988.
-
-Meanwhile, the Faculty of Medicine of the university was established in the year 2011 to train cadet officers as medical professionals and award degrees in Medicine and Surgery (MBBS) as per the service requirements of the Armed Services.
-
-...
-
-[Data](articles/3375218b.json)
-
-[Extended Data](ext_articles/3375218b.ext.json)
-
----
-
-### For lame people, they can protect their rights by making legal knowledge
-
-*2024-04-09 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180807) · `ta`
-
-Despite Sri Lanka's high literacy rates, villagers often lack legal knowledge, understanding of departmental activities, and human rights.
-
-🟩
-
-Despite the high level of literacy and literacy rate of Sri Lanka, the people are still inadequate in the villages of laws, the activities of the departments and human rights in the villages.
-
-◼️
-
-[Data](articles/14049ae1.json)
-
-[Extended Data](ext_articles/14049ae1.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 23:03:12**
+As of **2024-04-09 23:18:09**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,150 (100.0%) of 18,151 articles have been extended.
+18,151 (100.0%) of 18,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### நாளை நோன்புப் பெருநாள்
+### Tomorrow
 
 *2024-04-09 22:48:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-நோன்புப்-பெருநாள்/175-335795) · `ta`
 
-நாட்டின் சில பகுதிகளில் ஷவ்வால் மாத தலைப்பிறை தென்பட்டுள்ளமையினால், நாளை (10) ஈதுல் பித்ர் நோன்புப் பெருநாளை கொண்டாடுமாறு கொழும்பு பெரிய பள்ளிவாசல் அறிவித்துள்ளது.
+The Colombo Great School will observe Eidul Fitr tomorrow due to the sighting of Shawal's crescent moon in parts of Sri Lanka. The Hijri 1445 Holy Sawal Month Conference was held today, and Khalipathul Gulaba Moulavi MPM Hisham Pathaki confirmed the countrywide fasting on Wednesday.
 
-ஹிஜ்ரி 1445 புனித ஷவ்வால் மாதத்துக்கான தலைப்பிறை பார்க்கும் மாநாடு மஹ்ரிப் தொழுகையின் பின்னர் இன்று கொழும்பு பெரிய பள்ளிவாசல் மாநாட்டு மண்டபத்தில் இடம்பெற்றது.
+🟩
 
-இதன்போது நாட்டின் பல பாகங்களிலும் ஷவ்வால் மாதத்துக்கான தலைப்பிறை தென்பட்டதாக உறுதிப்படுத்தப்பட்ட தகவல்கள் கிடைத்ததை அடுத்து இலங்கை வாழ் முஸ்லிம்கள் நாளை புதன்கிழமை நோன்பு பெருநாளை கொண்டாடுமாறு கொழும்பு பெரிய பள்ளிவாசலின் பிறைகுழுத் தலைவர் கலீபதுல் குலபா மௌலவி எம்.பி.எம் ஹிஷாம் பத்தாகி அறிவித்துள்ளார். (a)
+The Colombo Great School has announced that it will celebrate the Eidul Fitr fasting day tomorrow (10) as the Shawal month headline is seen in some parts of the country.
+
+The Hijri 1445 Holy Sawal Month Conference was held at the Colombo Large School Conference Hall today after the Mahrip prayer.
+
+Khalipathul Gulaba Moulavi MPM Hisham Pathaki has announced that the Muslims of Sri Lanka will celebrate the fasting of the fasting of the country on Wednesday after it was confirmed that the headline of the month of Shawal was found in many parts of the country.. (A)
 
 ◼️
 
 [Data](articles/a406e316.json)
+
+[Extended Data](ext_articles/a406e316.ext.json)
 
 ---
 

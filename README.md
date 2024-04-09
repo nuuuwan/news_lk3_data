@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 09:33:59**
+As of **2024-04-09 09:53:28**
 
 ## Newspaper Stats
 
-*Scraped **17,994** Articles*
+*Scraped **17,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 1,514
 tamilmirrorlk | 2,113
 adaderanalk | 2,163
 virakesarilk | 2,647
-dailymirrorlk | 2,743
+dailymirrorlk | 2,744
 adaderanasinhalalk | 2,915
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,992 (100.0%) of 17,994 articles have been extended.
+17,994 (100.0%) of 17,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### Trade Ministry to issue price range to curb middlemen profits
+
+*2024-04-09 09:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Trade-Ministry-to-issue-price-range-to-curb-middlemen-profits/108-280445) · `en`
+
+Colombo, April 9 (daily Mirror) - The Trade, Commerce, and Food Security Ministry is to issue price ranges on essential items to curb excessive profits by middlemen in the retail market.
+
+After a meeting held at the ministry, Minister Nalin Fernando said that the increase in commodity prices was a result of the economic crisis and inflation.
+
+In 2022, Sri Lanka faced the challenge of being one of the countries with the highest commodity prices globally, primarily due to soaring inflation.
+
+"In 2019, a kilogram of wheat flour was priced at Rs. 85. By 2022, this price had escalated to Rs. 485, leading to a loaf of bread being sold for approximately Rs. 195 to Rs. 200.
+
+Similarly, in 2019, a kilogram of dhal was sold for around Rs. 120. By 2022, this price had surged to Rs. 585 but has since dropped to Rs. 295," the minister said.
+
+The depreciation of the dollar exchange rate, which initially contributed to the rise in commodity prices, has now stabilized.
+
+...
+
+[Data](articles/60c8eeb1.json)
+
+---
 
 ### UK travel advice tweaks for Sri Lanka ‘still unfair’
 
@@ -50,17 +72,25 @@ In February, the advice stated: “Protests, demonstrations, roadblocks and viol
 
 [Data](articles/658998e1.json)
 
+[Extended Data](ext_articles/658998e1.ext.json)
+
 ---
 
-### வவுனியாவில் கடும் பனி மூட்டம்
+### Heavy snowfall in Vavuniya
 
 *2024-04-09 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/180776) · `ta`
 
-கடந்த சில நாட்களாக அதிக வெப்பமான வானிலை உணரப்பட்டுவரும் வவுனியாவில்  இன்று காலை அதிகளவான பனி மூட்டம் காணப்பட்டதுடன் வாகன சாரதிகளும் கடும் சிரமங்களுக்கு முகம் கொடுத்தனர்.
+"Vavuniya experiences heavy snowfall after warm weather, causing motorists severe difficulties."
+
+🟩
+
+In Vavuniya, which has been felt in the warm weather for the past few days, there has been a large snowfall this morning and motorists have been facing severe difficulties.
 
 ◼️
 
 [Data](articles/65297dc9.json)
+
+[Extended Data](ext_articles/65297dc9.ext.json)
 
 ---
 
@@ -2227,29 +2257,5 @@ Deputy Minister of Police Media Spokesperson DIG Talduwa, Speaking further
 [Data](articles/d51a7996.json)
 
 [Extended Data](ext_articles/d51a7996.ext.json)
-
----
-
-### Sri Lanka rupee closes at 298.90/299.00 to the US dollar
-
-*2024-04-08 17:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-298-90-299-00-to-the-us-dollar-157933/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 298.90/299.00  to the US dollar in the spot forex market on Monday, stronger from 299.25/30 on Friday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 11.35/45 percent down from 11.40/45 percent.
-
-A bond maturing on 15.09.2027 closed at 11.85/12.00 percent down from 11.90/12.00 percent.
-
-A bond maturing on 15.12.2028 closed at 12.10/20 percent down from 12.15/25 percent.
-
-A bond maturing on 15.05.2030 closed at 12.25/50 percent down from 12.30/50 percent.
-
-A bond maturing on 01.10.2031 closed at 12.35/60 percent. (Colombo/Apr8/2024)
-
-◼️
-
-[Data](articles/dbf86bea.json)
-
-[Extended Data](ext_articles/dbf86bea.ext.json)
 
 ---

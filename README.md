@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 06:17:21**
+As of **2024-04-09 06:55:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,953 (99.9%) of 17,966 articles have been extended.
+17,961 (100.0%) of 17,966 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -446,6 +446,8 @@ The recordings are being done at one of the most modern studios in the island �
 
 [Data](articles/61cd08b1.json)
 
+[Extended Data](ext_articles/61cd08b1.ext.json)
+
 ---
 
 ### A taste of LunuDehi…in Negombo
@@ -471,6 +473,8 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/2df5930c.json)
+
+[Extended Data](ext_articles/2df5930c.ext.json)
 
 ---
 
@@ -598,6 +602,8 @@ At the heart of Full’r’s success lies a dedication to diversity and delight.
 
 [Data](articles/534c3b56.json)
 
+[Extended Data](ext_articles/534c3b56.ext.json)
+
 ---
 
 ### World Wings Education & Migration launches first overseas office in Sri Lanka
@@ -611,6 +617,8 @@ Anuj Vashisht, Chairman of World Wings Education – Sri Lanka, remarked on the 
 ...
 
 [Data](articles/d221eb50.json)
+
+[Extended Data](ext_articles/d221eb50.ext.json)
 
 ---
 
@@ -644,6 +652,8 @@ British Council in collaboration with ChildFund Sri Lanka, recently concluded an
 
 [Data](articles/c7bc7ac6.json)
 
+[Extended Data](ext_articles/c7bc7ac6.ext.json)
+
 ---
 
 ### CSE reacts positively to debt moratorium time frame
@@ -660,6 +670,8 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 
 [Data](articles/730d59d6.json)
 
+[Extended Data](ext_articles/730d59d6.ext.json)
+
 ---
 
 ### Teacher training programs for established 100 Capital Market Clubs
@@ -673,6 +685,8 @@ The ‘Capital Market Club’ program is a strategic initiative designed in coll
 ...
 
 [Data](articles/aa55c830.json)
+
+[Extended Data](ext_articles/aa55c830.ext.json)
 
 ---
 

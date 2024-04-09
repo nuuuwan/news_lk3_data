@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 10:03:39**
+As of **2024-04-09 10:18:26**
 
 ## Newspaper Stats
 
-*Scraped **18,002** Articles*
+*Scraped **18,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 dailyftlk | 987
 islandlk | 992
 economynextcom | 996
-adalk | 1,514
+adalk | 1,515
 tamilmirrorlk | 2,113
 adaderanalk | 2,163
-virakesarilk | 2,650
+virakesarilk | 2,651
 dailymirrorlk | 2,748
-adaderanasinhalalk | 2,915
+adaderanasinhalalk | 2,916
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,995 (100.0%) of 18,002 articles have been extended.
+18,002 (100.0%) of 18,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### මෛත්‍රී රට යයි
+
+*2024-04-09 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195460) · `si`
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා තායිලන්තයේ සංචාරයක් සඳහා අද (09) අලුයම දිවයිනෙන් පිටත්ව ගොස් තිබේ.
+
+මෛත්‍රීපාල සිරිසේන මහතා සමඟ 9 දෙනෙකුගෙන් යුත් පිරිසක් එම සංචාරයට එක්ව ඇත.
+
+ඔවුන් අද අලුයම 12.55ට තායිලන්තයේ බැංකොක් නුවර බලා පිටව ගොස් තිබේ.
+
+◼️
+
+[Data](articles/28fb11b7.json)
+
+---
+
+### பகல் நேரத்தை இருளாக்கிய மிகப்பெரிய சூரிய கிரகணம்
+
+*2024-04-09 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180786) · `ta`
+
+இந்த ஆண்டுக்கான (2024) முதலாவது சூரிய கிரகணம் நேற்று திங்கட்கிழமை (08) நிகழ்ந்தது.
+
+இந்த முழு சூரிய கிரகணத்தை, அமெரிக்கா, கனடா, மற்றும் மெக்சிகோ ஆகிய நாடுகளில் பல கோடி மக்கள் நேற்று (இலங்கையில் இரவாக இருந்தபோது) கண்டுகளித்தனர்.
+
+இந்தச் சூரிய கிரகணத்தில், நிலவு சூரியனுக்கும் பூமிக்கும் இடையே வந்து, அதன் ஒளியை முழுவதும் மறைத்தது.
+
+இந்தக் கிரகணத்தின் பாதை, வட அமெரிக்கக் கண்டம் முழுதும் அமைந்தது. மேற்கே மெக்சிகோவின் கடற்கரையிலிருந்து, கிழக்கே நயாகரா நீர்வீழ்ச்சி வரை இந்தக் கிரகணம் கடந்து சென்றது.
+
+இந்த சூரிய கிரகணத்தின் போது, நான்கு நிமிடங்கள் மற்றும் ஒன்பது வினாடிகளுக்கு முழு இருள் நீடித்தது. இந்த முழு சூரிய கிரகணம் இலங்கை நேரப்படி இரவு 9.12 மணிக்கு ஆரம்பித்து செவ்வாய்க்கிழமை அதிகாலை 2.22 மணிக்கு நிறைவடைந்தது. எனினும், முழு சூரிய கிரகணம், இலங்கை நேரப்படி இரவு சுமார் 10.10 மணிக்கு ஆரம்பித்தது. இரவு நேரம் என்பதால் இலங்கையில் இந்த கிரகணத்தைப் பார்க்க முடியவில்லை.
+
+◼️
+
+[Data](articles/39471fab.json)
+
+---
 
 ### Plans underway to aid war heroes’ families in multiple sectors: Premitha Bandara
 
@@ -45,6 +81,8 @@ The Minister also announced the government's intention to prioritize war heroes 
 ◼️
 
 [Data](articles/28ba9568.json)
+
+[Extended Data](ext_articles/28ba9568.ext.json)
 
 ---
 
@@ -64,71 +102,97 @@ Police said a total of 5,580 police officers, 510 STF officers and 1,260 tri-for
 
 [Data](articles/b7a4c0ae.json)
 
+[Extended Data](ext_articles/b7a4c0ae.ext.json)
+
 ---
 
-### யாழில் புற்றுநோய் அதிகரிப்பு ! கடந்த வருடத்தில் 776 பேர் பாதிப்பபு : 71 பேர் இறப்பு - வைத்திய கலாநிதி யமுனானந்தா
+### Increase in Cancer in Jaffna!776 deaths last year: 71 deaths - Dr. Yamunananda
 
 *2024-04-09 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180779) · `ta`
 
-யாழ்ப்பாண மாவட்டத்தில் கடந்த வருடம் 2023 ஆம் ஆண்டு மட்டும் 776 பேர் புற்றுநோயால் பாதிக்கப்பட்ட நிலையில் 71 பேர் இறந்ததாக யாழ்ப்பாண வைத்தியசாலையில் பதில் பணிப்பாளர் வைத்திய கலாநிதி யமுனானந்தா தெரிவித்தார்.
+In 2023, Jaffna district saw 776 cancer deaths, with Dr. Yamunanda highlighting the importance of proper eating habits in cancer control. The Jaffna Teaching Hospital treats various cancers, including breast, ovarian, and respiratory cancers. Early diagnosis and treatment are crucial. Women over 30 should self-examine for breast cancer, and men should be cautious about smoking and alcohol consumption. The district also experienced deaths from intestinal, liver, and breast cancers.
 
-யாழ்ப்பாண மாவட்டத்தில் புற்றுநோயின் தாக்கம் அதிகரித்து வருகின்ற நிலையில் சரியான உணவுப் பழக்கம் புற்றுநோயை கட்டுப்படுத்துவதற்கு உதவும்.
+🟩
 
-புற்றுநோயைப் பொறுத்தவரையில் நிற மூர்த்தம் மற்றும் இரசாயன பதார்த்தங்கள் மற்றும் சமூகத்தில் வயதானவர்களின் எண்ணிக்கைகள் அதிகரிக்கும் போது புற்றுநோயின் தாக்கம் வேகமாக உணரப்படும்.
+In the Jaffna district last year alone, 776 people died of cancer in 2023 alone, said Dr. Yamunanda, Director of the Jaffna Hospital.
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சைக்காக வருபவர்களில் மார்பகப் புற்றுநோய், கருப்பை புற்றுநோய் சூலகப் புற்றுநோய், வாய் புற்றுநோய், சுவாசம் தொண்டை பகுதிகளில் ஏற்படும் புற்றுநோய், உடல் உள் உறுப்புக்களில் ஏற்படும் புற்றுநோய் என பல வகையான புற்று நோய்கள் இனம் காணப்படுகின்றன.
+With the increasing impact of cancer in the Jaffna district, proper eating habits can help control cancer.
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலையை பொறுத்தமட்டில் புற்று நோய்களை இனம் காணுவதற்கான  ஆய்வு கூட வசதிகள் காணப்படுகின்ற நிலையில் மேலதிக ஆய்வுகளுக்காக கொழும்புக்கும் அனுப்பி வைக்கப்படுகின்றது.
+In terms of cancer, the impact of cancer is faster when the number of elderly people in the community and the number of elderly people in the community increases.
+
+Those who visit the Jaffna Teaching Hospital for treatment are a variety of cancer, such as breast cancer, ovarian cancer, ovarian cancer, respiratory cancer in the throat, and cancer in the internal organs.
+
+In the case of the Jaffna Teaching Hospital, there is also a facility for racism of cancer.
+
+At the Jaffna Teaching Hospital in 2022, 60 people, 49 in February, 60 in March and 52 in April were confirmed.
+
+In the case of cancer, it can protect the disease from the disease when it is initially diagnosed with appropriate treatment.
 
 ...
 
 [Data](articles/0ed42f9a.json)
 
+[Extended Data](ext_articles/0ed42f9a.ext.json)
+
 ---
 
-### உஸ்மான் கானுக்கு ஐ.அ.இராச்சியத்தில் 5 வருட தடை!
+### 5 years ban on Usman Khan
 
 *2024-04-09 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180781) · `ta`
 
-பாகிஸ்தானில் பிறந்த கிரிக்கெட் வீரர் உஸ்மான் கானுக்கு ஐக்கிய அரபு இராச்சியத்தின் போட்டிகளில் விளையாடுவதற்கு 5 வருட தடை விதிக்கப்பட்டுள்ளது.
+Usman Khan, a Pakistan-born cricketer living in the UAE, has been banned for 5 years from playing in the UAE due to contract violations. He played in the ILR 20 and R10 leagues and was part of the Pakistani team training camp.
 
-ஐக்கிய அரபு இராச்சியத்தில் வசித்துவந்த உஸ்மான் கான் (29), ஐக்கிய அரபு இராச்சியத்தின் ஐ.எல்.ரி20 மற்றும் ரி10 லீக் போட்டிகளில் உள்நாட்டு வீரராக விளையாடினார்.
+🟩
 
-அண்மையில் நடைபெற்ற பாகிஸ்தான் சுப்பர் லீக் போட்டிகளில் முல்தான் சுல்தான்ஸ் அணியில் வெளிநாட்டு வீரராக இடம்பெற்ற அவர், அடுத்தடுத்து சதம் குவித்ததுடன், அத்தொடரில் அதிக ஓட்டங்களைக் குவித்த வீரர்கள் பட்டியலில் இரண்டாவது இடத்தைப் பெற்றார்.
+Pakistan -born cricketer Usman Khan has been banned from playing a 5 -year ban in the UAE.
 
-அதன்பின், பாகிஸ்தான் தேசிய அணி சார்பில் விளையாடுவதற்கு உஸ்மான் கான் விருப்பம் தெரிவித்தார்.
+Usman Khan (29), who lives in the United Arab Emirates, played as a domestic player in the ILR 20 and R10 league of the United Arab Emirates.
 
-அதையடுத்து, மார்ச் 26 முதல் ஏப்ரல் 8 வரை நடைபெற்ற பாகிஸ்தான் அணியினருக்கான பயிற்சி முகாமில் உஸ்மான் கான் சேர்க்கப்பட்டிருந்தார்.
+He fell as a foreign player in the Multan Sultanas team at the recent Pakistan Super League matches and won second place in the series.
 
-அதேவேளை,  பாகிஸ்தானுக்காக விளையாடத் தீர்மானித்தன் மூலம், எமிரேட்ஸ் கிரிக்கெட் சபையுடனான ஒப்பந்ததம் மற்றும் ஐக்கிய அரபு இராச்சிய லீக் அணிகளுடனான ஒப்பந்தங்களை உஸ்மான் கான் மீறிவிட்டார் குற்றம் சுமத்தப்பட்டது.
+Subsequently, Usman Khan expressed his desire to play on behalf of the Pakistan national team.
+
+Subsequently, Usman Khan was included in the Pakistani team training camp from March 26 to April 8.
+
+At the same time, Osman Khan was accused of violating the contract with the Emirates Cricket Board and the UAE's contract with the United Arab Emirates League teams by deciding to play for Pakistan.
 
 ...
 
 [Data](articles/c77b3df1.json)
 
+[Extended Data](ext_articles/c77b3df1.ext.json)
+
 ---
 
-### சதொசவில் அத்தியாவசியப் பொருட்களின் விலைகள் குறைப்பு
+### Reduce the prices of essential commodities in Sathosa
 
 *2024-04-09 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/180778) · `ta`
 
-பண்டிகை காலத்தை முன்னிட்டு பல அத்தியாவசியப் பொருட்களின் விலைகள் குறைக்கப்பட்டுள்ளதாக லங்கா சதொச நிறுவனம் தெரிவித்துள்ளது.
+Sathosa Sri Lanka reduces prices of essential commodities during festive season, starting midnight Monday. Cinnamon pepper now 850 rupees, large onions from China 375 rupees, from India/Pakistan 325 rupees, white shell 680 rupees, potatoes 165 rupees, red pulses 7 rupees less, white nadis price reduced.
 
-அனைத்து சதொச விற்பனை நிலையங்களிலும் இந்த விலைக் குறைப்பு நேற்று திங்கட்கிழமை (08) நள்ளிரவு முதல் அமலுக்கு வருகிறது.
+🟩
 
-ஒரு  கிலோகிராம் செத்தல் மிளாகாயின் விலை 300 ரூபாவால் குறைக்கப்பட்டுள்ள நிலையில் அதன் விலை 850 ரூபாவாகும்.
+Sri Lanka Sathosa has said that the prices of many essential commodities have been reduced during the festive season.
 
-சீனாவில் இருந்து இறக்குமதி செய்யப்படும் பெரிய வெங்காயம் ஒரு கிலோவின் விலை 120 ரூபாவால் குறைக்கப்பட்டுள்ள நிலையில், அதன் புதிய விலை 375 ரூபாவாகும்.
+The price reduction in all Sathosa outlets will come into effect from midnight on Monday (08).
 
-இந்தியா மற்றும் பாகிஸ்தானில் இருந்து இறக்குமதி செய்யப்படும் பெரிய வெங்காயம் ஒரு கிலோகிராமின் விலை 50 ரூபாவால் குறைக்கப்பட்டுள்ள நிலையில் அதன் புதிய விலை 445 ரூபாவாகும்.
+The price of a kilogram of cinnamon pepper has been reduced by 300 rupees and its price is 850 rupees.
 
-வெள்ளைப்பூடு ஒரு கிலோகிராமின் விலை 15 ரூபாவால் குறைக்கப்பட்டுள்ள நிலையில் அதன் புதிய விலை 680 ரூபாவாகும்.
+The new price of large onions imported from China has been reduced by 120 rupees, and its new price is 375 rupees.
 
-உருளைக்கிழங்கு ஒருகிலோகிராமின் விலை 10 ரூபாவால் குறைக்கப்பட்டுள்ள நிலையில், அதன் புதிய விலை 165 ரூபாவாகும்.
+Large onions imported from India and Pakistan have been reduced by 50 rupees by 50 rupees.
 
-...
+While the price of a kilogram of white shell has been reduced by 15 rupees, its new price is 680 rupees.
+
+While the price of potatoes has been reduced by 10 rupees, its new price is 165 rupees.
+
+Meanwhile, Sathosa has decided to reduce the price of a kilo of red pulses by 7 rupees and a kilo of white nadis.
+
+◼️
 
 [Data](articles/aec8da2b.json)
+
+[Extended Data](ext_articles/aec8da2b.ext.json)
 
 ---
 
@@ -305,6 +369,8 @@ Asked about the latest developments, a government source said the government to 
 ...
 
 [Data](articles/913bd32d.json)
+
+[Extended Data](ext_articles/913bd32d.ext.json)
 
 ---
 
@@ -1642,6 +1708,8 @@ However, with the presidential elections approaching, the NPP proposed that the 
 
 [Data](articles/c750f2ea.json)
 
+[Extended Data](ext_articles/c750f2ea.ext.json)
+
 ---
 
 ### Breaking fast banquet for Muslim devotees
@@ -1655,6 +1723,24 @@ A beverage company in the Port City held a breaking fast (Ifthar) banquet today 
 [Data](articles/2040b6fd.json)
 
 [Extended Data](ext_articles/2040b6fd.ext.json)
+
+---
+
+### මාස 3ට ඒඩ්ස් ආසාදිතයින්  695ක් හදුනා ගැනෙයි
+
+*2024-04-08 20:29:18* · [`adalk`](https://www.ada.lk/breaking_news/මාස-3ට-ඒඩ්ස්-ආසාදිතයින්--695ක්-හදුනා-ගැනෙයි/11-409024) · `si`
+
+2024 වර්ෂයේ ගෙවී ගිය මාස 3ක කාලය තුළ ශ්‍රී ලංකාවේ HIV ආසාදනය වූ නව රෝගීන් 695දෙනකු හඳුනාගෙන ඇතැයි ජාතික ලිංගාශ්‍රිත රෝග සහ ඒඩ්ස් මර්දන වැඩසටහන් අධ්‍යක්ෂ ප්‍රජා සොඛ්‍ය විශේෂඥ ජානකී විදානාරාච්චි මහත්මිය සඳහන් කරයි.එය පසුගිය 2023 වසරට වඩා 14%ක වර්ධනයක් ලෙස වාර්තාවේ.
+
+දිවයිනේ සෑම දිස්ත්‍රික්කයකින්ම ආසාදිතයන් මේ වන විට හමු වී ඇති අතර, කොළඹදී පවත්වන සායනවලදී හඳුනාගත් HIV ලිංගාශ්‍රිත රෝගීන් සංඛ්‍යාව සියයට හතළිහ ප්‍රමාණය දක්වා වර්ධනය වී ඇති බවද සෞඛ්‍යාංශ සඳහන් කරයි.
+
+තරුණ තරුණියන් තුළ ලිංගාශ්‍රිත රෝග පිළිබඳ ඇති අනවබෝධය නිසා මෙම තත්ත්වය වර්ධනය වී ඇති බවද සෞඛ්‍ය අංශ පෙන්වා දෙයි. වයසට සරිලන පරිපූර්ණ ලිංගික අධ්‍යාපනයක් පාසල් කාලය තුළදීම ලබාදිය යුතු බවද වෛද්‍ය විශේෂඥ ජානකි විදානාරච්චි මහත්මිය සඳහන් කරයි.
+
+කිසියම් අයෙකුට HIV සහ ලිංගාශ්‍රිත රෝගයක් වැළඳී තිබේ නම්, මූලික වශයෙන්ම එය දැන ගැනීමටත්, රෝග පරීක්ෂාවකට වෙලා වෙන් කර ගැනීමටත් know for sure නමින්ඇති දුරකථන යෙදවුම හරහා සම්බන්ධ විය හැකිය. ඉන්පසු තමන්ගේ ස්වයං පරීක්ෂණ කට්ටලයපිළිබඳ තොරතුරු ගෙදරට රහසිගතව ගෙන්වා ගැනීමටද ඉඩ සලසා ඇත.
+
+◼️
+
+[Data](articles/3778e643.json)
 
 ---
 
@@ -2159,71 +2245,5 @@ The full solar eclipse that rarely visible is to be visible to countries in West
 [Data](articles/ba7e874b.json)
 
 [Extended Data](ext_articles/ba7e874b.ext.json)
-
----
-
-### Accepting applications for admission to NIEs extended
-
-*2024-04-08 17:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98520/accepting-applications-for-admission-to-nies-extended) · `en`
-
-The acceptance of applications for the admission of students to the National Institutes of Education (NIEs) has been extended until April 10, 2024.
-
-Issuing a statement, the Ministry of Education stated that accordingly, the students can apply for admission to the NIEs based on the results of 2021 and 2022 G.C.E. Advanced Level examinations.
-
-Meanwhile, the applicants who submitted the relevant applications from April 05 to April 10, have been given the opportunity to make any amendments to their applications only from April 11 to midnight on April 17, according to the ministry.
-
-◼️
-
-[Data](articles/29472a71.json)
-
-[Extended Data](ext_articles/29472a71.ext.json)
-
----
-
-### Lower prices in fireworks this festive season
-
-*2024-04-08 17:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lower-prices-in-fireworks-this-festive-season/108-280401) · `en`
-
-Colombo, April 8 (Daily Mirror) - There is a higher demand for fireworks this year than in the previous festive seasons, but there is less demand for several firework items, All-Island Fireworks Manufacturers Association (AIFMA) President Dinesh Fernando said.
-
-Addressing the media, he said the distribution process of all types of fireworks has started around the country to meet the needs of the people.
-
-The manufacturing of fireworks did not take place at 100% in the previous years due to the financial crisis in the country, Fernando said.
-
-"There is a shortage of several fireworks, such as whistling rockets and whistling spinners, in the local market. The price of the ingredients for the making of fireworks has decreased by 30 percent this year when compared with previous years," he said.
-
-Accordingly, the fireworks price in the local market shows a lower budget, Fernando said.
-
-◼️
-
-[Data](articles/bc95bc7d.json)
-
-[Extended Data](ext_articles/bc95bc7d.ext.json)
-
----
-
-### Action to give youth a change of youth: President
-
-*2024-04-08 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/180716) · `ta`
-
-President Ranil Wickremesinghe emphasized the need for a new economy led by youth for rapid development, with basic laws to be tabled in Parliament in May. He highlighted the importance of cooperation among state departments and corporations for economic growth, and the role of youth in deciding the country's future. The government is working on economic restructuring and new financial bills, aiming for significant changes. The Janasabha initiative is noted, with plans to address legalization issues and improve the tourism sector. Measures for job opportunities post-vocational training are discussed, with a focus on economic recovery and job creation.
-
-🟩
-
-President Ranil Wickremesinghe said that the country is creating a new economy in the country by providing a change in young people to lead the country towards rapid development.
-
-The President also stated that the basic laws on creating a new economy will be tabled in Parliament in May and will be passed in June.
-
-President Ranil Wickremesinghe said this while addressing the Kandy District Youth Conference held at the Kandy President's House on Sunday (07).
-
-“If the country does not lead to rapid growth, the country has no future. Young people have to decide whether to break the country, bring forward or downfall.
-
-If today's government's economic program is rejected, the country's economy will fall again. Not everyone has the financial ability to leave the country. So we must all unite and strengthen the country's economy.
-
-...
-
-[Data](articles/51193336.json)
-
-[Extended Data](ext_articles/51193336.ext.json)
 
 ---

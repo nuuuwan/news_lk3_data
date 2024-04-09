@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 00:48:21**
+As of **2024-04-10 01:03:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,158 (100.0%) of 18,160 articles have been extended.
+18,160 (100.0%) of 18,160 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ This landmark agreement marks a strategic collaboration between two influential 
 
 [Data](articles/1a031d98.json)
 
+[Extended Data](ext_articles/1a031d98.ext.json)
+
 ---
 
 ### Vindhya Weerasekera appointed to RIL Property Board
@@ -65,6 +67,8 @@ Vindhya began her career as a Junior Lawyer of Dr. K. Kanag-Isvaran, Presidentâ€
 ...
 
 [Data](articles/54276ace.json)
+
+[Extended Data](ext_articles/54276ace.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 23:52:14**
+As of **2024-04-10 00:03:16**
 
 ## Newspaper Stats
 
-*Scraped **18,151** Articles*
+*Scraped **18,155** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 987
 islandlk | 992
-economynextcom | 1,013
+economynextcom | 1,015
 adalk | 1,531
 tamilmirrorlk | 2,126
 adaderanalk | 2,180
-virakesarilk | 2,681
+virakesarilk | 2,683
 dailymirrorlk | 2,773
 adaderanasinhalalk | 2,943
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 2,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,151 (100.0%) of 18,151 articles have been extended.
+18,151 (100.0%) of 18,155 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### 19இன் கீழ் மகளிர் 50 ஓவர் மும்முனை கிரிக்கெட் : இங்கிலாந்தை 108 ஓட்டங்களால் வெற்றிகொண்டது இலங்கை
+
+*2024-04-09 23:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/180851) · `ta`
+
+காலி சர்வதேச விளையாட்டரங்கில் செவ்வாய்க்கிழமை (09) நடைபெற்ற 19 வயதுக்குட்பட்ட மகளிர் ஒருநாள் மும்முனை கிரிக்கெட் தொடரின் கடைசிப் போட்டியில்  இங்கிலாந்தை   108 ஓட்டங்களால் மிக இலகுவாக இலங்கை வெற்றிகொண்டது.
+
+ரஷ்மிக்கா செவ்வந்தி குவித்த அரைச் சதம், சமோதி முனசிங்கவின் 5 விக்கெட் குவியல், தெவ்மி விஜேரத்னவின் சகலதுறை ஆட்டம் என்பன 19 வயதுக்குட்பட்ட இலங்கை மகளிர் அணியின் வெற்றியில் பிரதான பங்காற்றின.
+
+இப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய இலங்கை யுவதிகள் அணி 48.4 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 226 ஓட்டங்களைப் பெற்றது.
+
+சஞ்சனா காவிந்தி, சுமுது நிசன்சலா  ஆகிய இருவரும்   முதலாவது விக்கெட்டில் 68 ஓட்டங்களைப் பகிர்ந்து சிறந்த ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+
+அவர்கள் இருவரும் தலா 27 ஓட்டங்களுடனும் விமோக்ஷா பாலசூரிய ஒரு ஓட்டத்துட னும்   2 ஓட்டங்கள் வித்தியாசத்தில் அடுத்தடுத்து ஆட்டம் இழந்தனர்.
+
+தொடர்ந்து அணித் தலைவி மனுதி நாணயக்கார, தெவ்னி விஜேரத்ன ஆகிய இருவரும் 4ஆவது விக்கெட்டில் 54 ஓட்டங்களைப் பகிர்ந்து அணிக்கு உற்சாகத்தைக் கொடுத்தனர்.
+
+...
+
+[Data](articles/508795e5.json)
+
+---
 
 ### Tomorrow
 
@@ -528,6 +550,26 @@ If there is no referendum to extend the office to extend the office, there are n
 
 ---
 
+### Sri Lanka’s China-backed port starts container transshipment amid Red Sea crisis
+
+*2024-04-09 19:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-china-backed-port-starts-container-transshipment-amid-red-sea-crisis-158082/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s China-backed Hambantota International Port Group said it had entered container transshipment, partnering with Switzerland based Mediterranean Shipping Company.
+
+The container vessel MSC Ingrid made her maiden call at the port on April 09, coming from Rotterdam discharging 500 twenty foot equivalent units, kicking off the transshipment service, the company said.
+
+“We are confident our container transshipment service will enhance Sri Lanka’s position in the marine connectivity index for the South Asian region,” Johnson Liu ,Chief Representative of China Merchants Group in Sri Lanka and CEO of HIPG said.
+
+“With MSC’s collaborative partnership, HIPG will now look at expanding our investment in equipment and other infra-structure facilities, enabling us to service larger vessels on the east west shipping route.”
+
+HIPG is a joint venture between China’s CM Ports group and Sri Lanka Ports Authority.
+
+...
+
+[Data](articles/2029c48b.json)
+
+---
+
 ### Public amnesty for 779 prisoners on Tamil and Sinhala New Year
 
 *2024-04-09 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180848) · `ta`
@@ -821,6 +863,24 @@ A group of individuals staged a demonstration opposite the Fort Railway Station,
 [Data](articles/b1d55727.json)
 
 [Extended Data](ext_articles/b1d55727.ext.json)
+
+---
+
+### ஜனாதிபதி, பொதுத் தேர்தல் இரண்டும் ஒரே நேரத்தில் இடம்பெறாது -  ஐக்கிய தேசிய கட்சி
+
+*2024-04-09 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180842) · `ta`
+
+ஜனாதிபதி தேர்தல் மற்றும் பொதுத் தேர்தல் ஆகிய இரண்டும் ஒரே நேரத்தில் இடம்பெறாது. ஜனாதிபதி தேர்தலில் ரணில் விக்ரமசிங்க யானை சின்னம் அல்லாத வேறு ஒரு சின்னத்திலேயே போட்டியிடுவார் என ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினரும் ஜனாதிபதியின் பாராளுமன்ற விவகாரங்கள் தொடர்பான பிரதானியுமான ஆஷு மாரசிங்க தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் நேற்று இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+நாட்டில் இடம்பெற இருக்கும் தேர்தல் தொடர்பில் பலரும் பல்வேறு கருத்துக்களை தெரிவித்து வருகின்றனர். ஜனாதிபதி தேர்தல், பொதுத் தேர்தல் ஆகிய இரண்டும் ஒரே நேரத்தில் இடம்பெறும் எனவும் சிலர் தெரிவித்து வருகின்றனர். ஆனால் ஜனாதிபதி தேர்லும் பொதுத் தேர்தலுக்கும் ஒரே நேரத்தில் இடம்பெறாது.
+
+அவ்வாறு நடத்தவும் முடியாது. அரசியலமைப்பின் பிரகாரம் எதிர்வரும் செப்டம்பர், ஒக்டோபர் காலத்துக்குள் ஜனாதிபதி தேர்தல் இடம்பெறவேண்டும். பொதுத் தேர்தலுக்கு செல்ல இன்னும் காலம் இருக்கிறது.
+
+...
+
+[Data](articles/1476c546.json)
 
 ---
 
@@ -1788,6 +1848,26 @@ The admission process will be primarily based on the applicants' 'Z score' obtai
 
 ### Sri Lanka to hike election deposits paid by candidates
 
+*2024-04-09 15:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-hike-election-deposits-paid-by-candidates-158040/) · `en`
+
+ECONOMYNEXT — As Sri Lanka heads into decisive elections, the cabinet of ministers has approved a proposal to increase the deposit placed by candidates representing recognised political parties as well as independent candidates.
+
+The deposit placed by a candidate representing a party has been increased to 2.6 million rupees while an independent party at the presidential election has to pay to 3.1 million.
+
+The proposal was made jointly by President Ranil Wickremesinghe and Minister of Justice Wijeyadasa Rajapakshe.
+
+For parliamentary elections, a candidate representing a recognised political party must pay 11,000 rupees while an independent candidate has to make a deposit of 16,000 rupees.
+
+At the local government polls, a party candidate must pay 6,000 rupees as deposit, while an independent candidate has to pay 11,000.
+
+...
+
+[Data](articles/5b84a71f.json)
+
+---
+
+### Sri Lanka to hike election deposits paid by candidates
+
 *2024-04-09 15:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-nod-for-increasing-election-deposits-paid-by-candidates-158040/) · `en`
 
 ECONOMYNEXT — As Sri Lanka heads into decisive elections, the cabinet of ministers has approved a proposal to increase the deposit placed by candidates representing recognised political parties as well as independent candidates.
@@ -2221,101 +2301,5 @@ They were 12.55 am on the morning of 12.55 am in Bangkok, Thai Airlines, at Thai
 [Data](articles/cb444f65.json)
 
 [Extended Data](ext_articles/cb444f65.ext.json)
-
----
-
-### A bridge in western Russia collapses
-
-*2024-04-09 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195469) · `si`
-
-A bridge in western Russia collapsed, killing one and injuring five. The railway line was temporarily suspended, and about 8,000 houses lost gas due to pipe damage.
-
-🟩
-
-A woman was killed and another five injured in a bridge on a railway line in Western Russia.
-
-The railway line has been temporarily suspended, foreign media reports say.
-
-The gas has been interrupted by about 8,000 houses due to the damage to the pipes.
-
-The bridge has reportedly led to the collapse of the bridge for a long time.
-
-◼️
-
-[Data](articles/89ed3c24.json)
-
-[Extended Data](ext_articles/89ed3c24.ext.json)
-
----
-
-### Special decision taken about elections
-
-*2024-04-09 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195468) · `si`
-
-The Cabinet has approved revising election deposits, updating the Parliamentary Election Act and Provincial Councils Act. The President and Constitutional Reforms have been tasked with drafting a bill to amend these acts. Candidate bail deposits have been increased to Rs 3.1 million and Rs 16,000, respectively, under President Act No. 15 of 1981 and Parliamentary Party of No. 1 of 1981.
-
-🟩
-
-Cabinet approval has been approved to revise the deposits for elections.
-
-Upgrading the existing bail deposit limits in the Parliamentary Election Act and the Provincial Councils Act, as timely, is appropriate to update the existing social, economic and political background.
-
-Accordingly, the President and the Constitutional Reforms and the Constitutional Reforms have been approved to instruct a legal drafting provision to formulate a bill to amend the following bills.
-
-The bail deposit of a candidate from a recognized political party in accordance with the President Act No. 15 of 1981 has been increased to Rs 3.1 million.
-
-The bail de detail of one candidate from a reputed political party in accordance with the Parliamentary Party in accordance with the Parliamentary Party of No. 1 of 1981 has been increased to Rs. 16,000 / -.
-
-Up to Rs.
-
-◼️
-
-[Data](articles/631b223f.json)
-
-[Extended Data](ext_articles/631b223f.ext.json)
-
----
-
-### Sri Lanka IMF, World Bank loan linked state bank reforms get cabinet nod
-
-*2024-04-09 13:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-imf-world-bank-loan-linked-state-bank-reforms-get-cabinet-nod-158018/) · `en`
-
-ECONOMYNEXT  – Sri Lanka’s cabinet has approved reforms to the governance of state-owned banks which is required under a program with the International Monetary Fund, Minister Bandula Gunawardana said.
-
-The reforms were identified by a committee made up of representative of the IMF, World Bank and Central Bank of Sri Lanka, Gunawardana told reporters Tuesday.
-
-The changes relate to addressing weaknesses in governance, risk management and supervision of banks, he said.
-
-The reforms are tied to a structural benchmark of the IMF program and prior actions of a World Bank development policy operation (budget support loans) has to be completed quickly, he said.
-
-Sri Lanka struck a staff level agreement following mission who conducted the second review with final board approval after some prior actions have to be concluded.
-
-The World Bank gives budget support loans only after the completion of prior actions.
-
-...
-
-[Data](articles/a9be04f6.json)
-
-[Extended Data](ext_articles/a9be04f6.ext.json)
-
----
-
-### Candidate deposits for Presidential, Parliamentary and PC elections increased
-
-*2024-04-09 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98535/candidate-deposits-for-presidential-parliamentary-and-pc-elections-increased) · `en`
-
-Cabinet approval has been received to increase the deposits placed by candidates for the Presidential election, increasing the deposit of a candidate representing a recognised political party to Rs. 2.6 million and an independent party to Rs. 3.1 million.
-
-Since it was recognized that it is appropriate to update the existing deposit monetary limits in a timely manner according to the current social, economic and political background as per the provisions of the Presidential Elections Act, the Parliamentary Elections Act and the Provincial Council Elections Act, Minister of Justice Wijeyadasa Rajapakshe had presented the proposal to instruct the legal draftsman to draft a bill related to matter.
-
-Accordingly, the deposit money limits will be amended as follows;
-
-1.The deposit of a candidate from a recognized political party will be increased to Rs. 2.6 million and an independent candidate to Rs. 3.1 million, according to the Presidential Elections Act No. 15 of 1981.
-
-...
-
-[Data](articles/c748edff.json)
-
-[Extended Data](ext_articles/c748edff.ext.json)
 
 ---

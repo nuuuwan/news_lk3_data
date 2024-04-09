@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 20:34:09**
+As of **2024-04-09 20:51:51**
 
 ## Newspaper Stats
 
-*Scraped **18,125** Articles*
+*Scraped **18,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ islandlk | 992
 economynextcom | 1,013
 adalk | 1,530
 tamilmirrorlk | 2,123
-adaderanalk | 2,176
+adaderanalk | 2,177
 virakesarilk | 2,676
-dailymirrorlk | 2,765
+dailymirrorlk | 2,769
 adaderanasinhalalk | 2,938
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,125 (100.0%) of 18,125 articles have been extended.
+18,125 (100.0%) of 18,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### Sri Lanka to hold foreign office consultations with Kazakhstan and Kyrgyz Republic
+
+*2024-04-09 20:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98543/sri-lanka-to-hold-foreign-office-consultations-with-kazakhstan-and-kyrgyz-republic) · `en`
+
+Foreign Office Consultations between Sri Lanka and Kazakhstan are scheduled to be held on 11 April 2024 in Astana, the Ministry of Foreign Affairs said.
+
+Issuing a statement, the Foreign Ministry stated that the Sri Lanka Delegation will be led by Foreign Secretary Aruni Wijewardane.
+
+Following the meeting between President Ranil Wickremesinghe and Kazakhstan President Kassym-Jomart K. Tokayev last year a decision was taken to open a resident Sri Lanka Embassy in Kazakhstan. Discussions in Kazakhstan are expected to focus on trade, investment, tourism and modalities for opening the new Sri Lanka mission, it added.
+
+On the sidelines of the Foreign Office Consultations meetings are also scheduled to take place with the Conference on Interaction and Confidence Building Measures in Asia (CICA) Secretariat in Astana. Sri Lanka is a member of CICA.
+
+...
+
+[Data](articles/33b756f6.json)
+
+---
+
+### Ranil likely to contest presidential election under new symbol: Presidential advisor
+
+*2024-04-09 20:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Ranil-likely-to-contest-presidential-election-under-new-symbol-Presidential-advisor/155-280488) · `en`
+
+Colombo, April 9 (Daily Mirror) - Incumbent President Ranil Wickremesinghe is likely to contest the Presidential election under an entirely new symbol other than the elephant or flower bud, Senior Presidential Advisor and UNP senior Ashu Marasinghe said.
+
+Professor Marasinghe told journalists that President Wickrmesinghe will represent a number of parties as a national candidate.
+
+“People such as Minister Prasanna Ranatunga has said many including himself have an issue supporting Mr. Wickremeisnghe if he contests the Presidential election under the elephant symbol. Likewise, we in the UNP too have an issue with him contesting under the pohotuwa. Therefore Mr. Wickremeisnghe is expected to contest under a new symbol,” he said.
+
+He said more than 80 percent of the Samagi Jana Balawegaya (SJB) will be supporting Mr. Wickremesinghe at the next Presidential election.
+
+...
+
+[Data](articles/899ee615.json)
+
+---
+
+### President grants pardon to 779 prisoners
+
+*2024-04-09 20:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-grants-pardon-to-779-prisoners/108-280487) · `en`
+
+Colombo, April 09 - In view of the Sinhala and Tamil New Year, President Ranil Wickremesinghe has decided to grant Presidential pardons to 779 prisoners.
+
+This Presidential Pardon will be granted in accordance with Article 34 (1) of the Constitution.
+
+◼️
+
+[Data](articles/67879bd2.json)
+
+---
+
+### Lotus Tower to glow green, white to mark Eid
+
+*2024-04-09 20:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lotus-Tower-to-glow-green-white-to-mark-Eid/108-280486) · `en`
+
+The Colombo Lotus Tower will mark Eid on Thursday (11) by illuminating the sky with vibrant green and white lights, symbolizing harmony and joy.
+
+◼️
+
+[Data](articles/4a3e9f39.json)
+
+---
 
 ### SLA target four events at Paris Olympic Games
 
@@ -2237,101 +2299,5 @@ He added that all prisons have been arranged to provide safety procedures in acc
 [Data](articles/52f24dbd.json)
 
 [Extended Data](ext_articles/52f24dbd.ext.json)
-
----
-
-### Guidelines to prevent great medical conditions
-
-*2024-04-09 10:58:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்-மருத்துவ-நிலைமைகளைத்-தடுக்கும்-வழிகாட்டுதல்கள்/175-335782) · `ta`
-
-Sri Lanka's health officials have issued guidelines to protect participants and visitors during sports events during the Sinhala and Tamil New Year. These guidelines address unique challenges from traditional to modern events, emphasizing public health and safety. They provide strategies to reduce risks of injuries and severe medical conditions, covering crowd management and environmental risks.
-
-🟩
-
-As Sri Lanka is preparing for the Sinhala and Tamil New Year, health officials have issued a guidelines to protect participants and visitors during sports events.
-
-The guidelines, under the heading "Guidelines for Preventing Severe Medical Conditions in Sri Lanka during the festive season," are addressing unique challenges by merging with festivals and sports activities.
-
-Each action has its unique risks, whether "pillow fights" and "dude" or modern events such as Cross-Cantry flow and cycling.
-
-These guidelines emphasize the importance of giving priority to public health and safety during sports events.
-
-They provide essential strategies to reduce the risks associated with injuries and severe medical conditions for organizers, participants and communities.
-
-From managing the crowd to environmental risks, the guidelines include a variety of guidelines to ensure safe and happy celebration for all involved.
-
-◼️
-
-[Data](articles/6fefb42d.json)
-
-[Extended Data](ext_articles/6fefb42d.ext.json)
-
----
-
-### Order on the Medical Supply Sector Boss
-
-*2024-04-09 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195463) · `si`
-
-The Court of Appeal adjourned Dr. Kapila Wickramanayaka's interim demands to the 26th, remanding him for substandard antibodies purchase. Judge D. N. Samarakoon announced the order today, but it's pending until the 26th. The Maligakanda Magistrate's court contradicted the decision, demanding bail through lawyers.
-
-🟩
-
-The Court of Appeal adjourned to the 26th of the interim demands of the Director of the Medical Supply Division Dr. Kapila Wickramanayaka.
-
-He has been remanded for the purchase of the substandard antibodies.
-
-The order will be the Court today (09) Judge D. N. Mr. Samarakoon was to be announced.
-
-However, the judge said, the declaration of that order was in progress until the 26th.
-
-Maligakanda Magistrate's court to be remanded, the decision was contradicted to the law and that the petition had filed the petition through his lawyers demanding him on bail.
-
-◼️
-
-[Data](articles/db6fb470.json)
-
-[Extended Data](ext_articles/db6fb470.ext.json)
-
----
-
-### Assistance Schemes for Families of Warriors
-
-*2024-04-09 10:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போர்-வீரர்களின்-குடும்பங்களுக்கான-உதவித்-திட்டங்கள்-முன்னெடுப்பு/175-335781) · `ta`
-
-The Ranaviru Seva Authority plans to offer priority assistance to warriors' families in health, administration, banking, and more. The government aims to prioritize them in the 'Urumaya' Land Confirmation Program, highlighting the importance of supporting those who serve the country.
-
-🟩
-
-The Minister of Defense, Security Minister Premitha Bandara Thennakoon has said that the Ranaviru Seva Authority is planning to launch a program aimed at providing priority assistance to the families of warriors in various sectors such as health, public administration, banking and other services.
-
-The Minister also announced the aim of the government that would prioritize them in the 'Urumaya' Land Confirmation Program aimed at providing opportunities for the warriors and their families.
-
-At a function held at the Regiment Center of the Gajaba Brigade, the minister said, "It is very important for us to prioritize the benefit of those who have helped our country."
-
-◼️
-
-[Data](articles/e6a2ab6d.json)
-
-[Extended Data](ext_articles/e6a2ab6d.ext.json)
-
----
-
-### Decision on Kapila Wickremanayake's bail
-
-*2024-04-09 10:49:34* · [`adalk`](https://www.ada.lk/breaking_news/කපිල-වික්‍රමනායකගේ-ඇප-ඉල්ලීම-ගැන-තීන්දුව-26දා/11-409026) · `si`
-
-The Court of Appeal postponed the bail decision for former Health Secretary Kapila Wickramanayaka to the 26th.
-
-🟩
-
-The Court of Appeal has informed the bail of former Secretary to the Ministry of Health, Kapila Wickramanayaka declared on the 26th of this month.
-
-The verdict on the request was due to be announced today, but the declaration was postponed until the 26th.
-
-◼️
-
-[Data](articles/3e24f59b.json)
-
-[Extended Data](ext_articles/3e24f59b.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 17:34:28**
+As of **2024-04-09 17:54:08**
 
 ## Newspaper Stats
 
@@ -26,33 +26,39 @@ adaderanasinhalalk | 2,934
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,089 (100.0%) of 18,094 articles have been extended.
+18,094 (100.0%) of 18,094 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### සීමාවන් නොමැති බව රුසියාව සහ චීනය යළිත් මතක් කරයි
+### Russia and China reminds of the limits that there are no limits
 
 *2024-04-09 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195478) · `si`
 
-සදා ශක්තිමත් වන සිය ද්විපාර්ශ්වික සබඳතාවල කොටසක් ලෙස ත්‍රස්තවාදයට එරෙහි සටනේදී සහයෝගයෙන් කටයුතු කිරීමට රුසියාව සහ චීනය අඛණ්ඩව පියවර ගන්නා බව රුසියානු විදේශ අමාත්‍ය සර්ජි ලැවරොෆ් පවසයි.
+Russia and China pledge continued cooperation in combating terrorism, with Russia thanking China for its support in the Moscow attack. Lavrov met with China's Foreign Minister, emphasizing Russia's commitment to multilateral efforts against terrorism. The meeting included a joint statement affirming unlimited cooperation.
 
-මේ ප්‍රකාශයේ වැදගත්කම වන්නේ ඔහු මේ ප්‍රකාශය සිදුකළේ චීනයේ බීජිං නුවරදී වීමය.
+🟩
 
-චීන විදේශ අමාත්‍ය වෑන්ග් යී මුණගැසීමෙන් පසු ඔහු ත්‍රස්තවාදයට එරෙහි රුසියානු සටනට චීනයෙන් ලැබෙන සහාය පිළිබඳවත් ස්තූතිය පළ කර ඇත.
+Russian Foreign Minister Sergey Lavoff said that Russia and China will continue to cooperate in the fight against terrorism as part of its bilateral relations.
 
-පසුගිය මාර්තු 22 වනදා මොස්කව් නුවරට තදාසන්න රඟහලකට එල්ලවූ ත්‍රස්ත ප්‍රහාරයේදී මුලින්ම රුසියාවට සහාය පළ කළ, ඒ පිළිබඳ කනගාටුව පළ කළ චීනය යි.
+The importance of this statement is that he made this statement in Beijing in Beijing.
 
-පැහැදිලි සාක්ෂි ඉදිරිපත් කළ නොහැකි වුවත් රුසියාව, එම ප්‍රහාරය සඳහා යුක්‍රේනයේ සම්බන්ධයක් ඇති බවට විශ්වාස කරයි.
+After meeting the Chinese Foreign Minister Van, he thanked the Russian battle against the Russian battle against terrorism.
 
-බීජිං නුවරදී රුසියානු විදේශ අමාත්‍ය ලැවරොෆ් වැඩිදුරටත් සඳහන් කළේ බහුපාර්ශ්වික ආයතන ඇතුළු සියලු යාන්ත්‍රණයන් තුළ ත්‍රස්තවාදයට එරෙහි රුසියානු - චීන සහයෝගීතාව දිගටම පවත්වා ගන්නා බවය.
+China was the first to support Russia in the terrorist attack on Moscow on March 22.
 
-රුසියානු හමුදාවල යුක්‍රේන ආක්‍රමණය නැත්නම් ඔවුන් හඳුන්වන පරිදි විශේෂ හමුදා මෙහෙයුම 2022 වසරේ පෙබරවාරියේ ආරම්භ කිරීමට දින කිහිපයකට පෙර ජනාධිපති ව්ලැදිමීර් පුටින් චීනයේ සංචාරයක නිරත වුණි.
+Although clear evidence cannot be presented, Russia believes that the attack has a connection in Ukraine.
+
+In Beijing, the Russian Foreign Minister Lavain further stated that Russian cooperation is maintained against terrorism in all the mechanisms, including multilateral institutions.
+
+If they were invasible in the Russian armies, the Special Army operation visited the President Vladimir Putni Putin a few days before the exploitation of the special military operation in February 2022.
 
 ...
 
 [Data](articles/10b3436a.json)
+
+[Extended Data](ext_articles/10b3436a.ext.json)
 
 ---
 
@@ -76,6 +82,8 @@ The Chairman pointed out that some officials were reluctant for the installation
 
 [Data](articles/3bcc1865.json)
 
+[Extended Data](ext_articles/3bcc1865.ext.json)
+
 ---
 
 ### Appeals Court to decide on Keheliya’s petition against remand order
@@ -95,6 +103,8 @@ Through its interim petition, the BASL has sought the dismissal of Rambukwella�
 ◼️
 
 [Data](articles/d3cd1201.json)
+
+[Extended Data](ext_articles/d3cd1201.ext.json)
 
 ---
 
@@ -386,21 +396,29 @@ Upon completion of this runway expansion, the airport will be capable of accommo
 
 ---
 
-### வீட்டுக்குப் பின் சென்ற விளையாட்டு ஆசிரியர் கைது
+### Arrests of sports teacher after home
 
 *2024-04-09 16:15:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டுக்குப்-பின்-சென்ற-விளையாட்டு-ஆசிரியர்-கைது/175-335786) · `ta`
 
-புத்தல கல்விப் பிரிவுக்குட்பட்ட பாடசாலை ஒன்றின் 11ஆம் தரத்தில் கல்வி கற்கும் மாணவி ஒருவரை பாலியல் வன்கொடுமைக்கு உட்படுத்திய குற்றச்சாட்டின் பேரில் குறித்த பாடசாலையின் விளையாட்டு ஆசிரியையை புத்தல பொலிஸார் கடந்த (08) கைது செய்துள்ளனர்.
+A school sports teacher in Budhala was arrested for allegedly raping a student. The incident occurred when the suspect was 15, and the victim is now being treated at Moneragala District General Hospital. The police have confirmed the couple's past interactions. The suspect is set to appear in Wellawaya Magistrate's Court.
 
-சந்தேகநபர் 2022 ஆம் ஆண்டு நவம்பர் மாதம் சிறுமிக்கு 15 வயதாக இருந்தபோது காதல் உறவைப் பேணி, நள்ளிரவு 12.30 மணியளவில் அவரது வீட்டின் பின்புறத்தில் உள்ள வீட்டை விட்டு வெளியே அழைத்துச் சென்றார். வீட்டின் பின்புறம் உள்ள   ஒரு கொட்டகையில் வைத்து பலாத்காரம் செய்தார்.
+🟩
 
-இதனை அறிந்த சிறுமியின் தந்தை இந்த காதல் உறவை நிறுத்துமாறு எச்சரித்ததன் காரணமாக 04/04/2024 அன்று சிறுமி ஒருவித விஷத்தை குடித்து தற்போது மொனராகலை மாவட்ட பொது வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றார்.
+Budhala police have arrested a school sports teacher for allegedly raping a student of a school in the Budhala Education Division.
 
-இவர்களது நிலை கவலைக்கிடமாக இல்லை எனவும் விசாரணையின் போது பாடசாலையின் விளையாட்டு ஆசிரியருடன் இவர்கள் கணவன் மனைவி போன்று பல சந்தர்ப்பங்களில் நடந்து கொண்டதாக பொலிஸார் பொலிஸாரிடம் தெரிவித்துள்ளனர்.
+When the suspect was 15 years old in November 2022, she took a romantic relationship and took out the house in the back of her house at around 12.30pm.. He was raped in a barn at the back of the house.
 
-...
+Knowing this, the girl's father warned that the girl was being treated at the Moneragala District General Hospital on 04/04/2024 and is currently being treated at the Moneragala District General Hospital.
+
+Their condition was not worrisome and the police told the police that they had behaved on several occasions with the school's sports teacher during the investigation.
+
+The suspect has been arrested by the police and arrangements have been made to bring him to the Wellawaya Magistrate's Court.
+
+◼️
 
 [Data](articles/60ae5112.json)
+
+[Extended Data](ext_articles/60ae5112.ext.json)
 
 ---
 
@@ -720,19 +738,25 @@ A relevant discussion was held last week. The President's party first prefers th
 
 ---
 
-### ඉස්ලාම් දේවස්ථානවල ආරක්ෂාවට 7300
+### 7300 to the security of Islam
 
 *2024-04-09 15:04:06* · [`adalk`](https://www.ada.lk/breaking_news/ඉස්ලාම්-දේවස්ථානවල-ආරක්ෂාවට-7300/11-409035) · `si`
 
-රාමසාන් උත්සව දිනය වෙනුවෙන් ඉස්ලාම් දේවස්ථාන ආශ්‍රිතව ආරක්ෂාව සඳහා පොලිසිය ඇතුළු ආරක්ෂක අංශයේ 7350  කට අධික නිලධාරින් පිරිසක් යොදවන  බව පොලිස් මූලස්ථානය පවසයි.
+To ensure the security of Islam, over 7,350 police officers, including 5,580 regular officers, 510 STF officers, and 1,260 officers, are deployed for the Ramazan festival.
 
-සෑම පොලිස් වසමට අයත් සියලුම ඉස්ලාම්  දේවස්ථාන වල මව්ලවිතුමන්ලා හමුවි මෙම විශේෂ ආරක්ෂක සැලැස්ම සකස් කර ඇති අතර, ඒ යටතේ දිවයින පුරා ඉස්ලාම් දේවස්ථාන 3,203 ක් අතරින් දේව මෙහෙයන් පැවැත්වෙන ඉස්ලාම් දේවස්ථාන ස්ථාන 2,453 කට අවශ්‍ය  ආරක්ෂාව ලබාදීමට මෙම මෙම වැඩසටහන ක්‍රියාත්මක කෙරේ.
+🟩
 
-අඒ අනුව  පොලිස් නිළධාරීන් 5,580 ක්, විශේෂ කාර්ය බලකා නිළධාරීන් 510 ක් සහ ත්‍රිවිධ හමුදා නිළධාරීන් 1,260 ක් සමගින් 7,350 කට අධික ආරක්ෂක භට පිරිසක් යෙදවීමට මේ වනවිටත් කටයුතු  යොදා ඇත.
+Police Headquarters says that a group of over 7350 officers will be deployed to protect the Ramazan festival.
+
+The special security plan has been prepared to meet the mothervines in all Islam temples belonging to every police divisions.
+
+Accordingly, over 7,350 security personnel have already been deployed with 5,580 officers, 510 STF officers and 1,260 officers and 1,260 officers.
 
 ◼️
 
 [Data](articles/46f74f6c.json)
+
+[Extended Data](ext_articles/46f74f6c.ext.json)
 
 ---
 

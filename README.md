@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 02:18:23**
+As of **2024-04-10 02:34:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,173 (100.0%) of 18,174 articles have been extended.
+18,174 (100.0%) of 18,174 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Even if Sri Lanka is eventually able to “successfully” exit the IMF program,
 ...
 
 [Data](articles/d0a21dd6.json)
+
+[Extended Data](ext_articles/d0a21dd6.ext.json)
 
 ---
 

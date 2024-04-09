@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 06:55:14**
+As of **2024-04-09 07:17:09**
 
 ## Newspaper Stats
 
-*Scraped **17,966** Articles*
+*Scraped **17,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,81 @@ dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 987
 islandlk | 992
-economynextcom | 995
+economynextcom | 996
 adalk | 1,512
 tamilmirrorlk | 2,107
 adaderanalk | 2,160
 virakesarilk | 2,646
 dailymirrorlk | 2,738
-adaderanasinhalalk | 2,906
+adaderanasinhalalk | 2,908
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,961 (100.0%) of 17,966 articles have been extended.
+17,966 (100.0%) of 17,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### මේ දවස්වල පරිස්සමින් ඉන්න
+
+*2024-04-09 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195452) · `si`
+
+කිරිබත්ගොඩ, හුණුපිටිය ප්‍රදේශයේ ගරාජයක තිබී කාබයිට් ටැංකියක් පුපුරා යාම හේතුවෙන් පුද්ගලයෙකු මියගොස් තිබේ.
+
+එම අනතුරින් මියගොස් ඇත්තේ,  දෙවලගම, දෙකටන ප්‍රදේශයේ පදිංචි 45 හැවිරිදි පුද්ගලයෙකි.
+
+මේ අතර, කොටුව පොලිස් වසමේ චැතැම් විදියේ පිහිටි පැරණි ගොඩනැගිල්ලක 04 වන මහලේ උළුවහු ජනේලයක් ගැලවී මාර්ගයේ පදික වේදිකාවේ ගමන් කරමින් සිටි පදිකයකුගේ ඇඟට වැටී තිබිණි.
+
+පදිකයා එම අනතුරින් බරපතළ තුවාල ලබා කොළඹ ජාතික රෝහල වෙත ඇතුළත් කර ඇත.
+
+තුවාලකරු කොළඹ ජාතික රෝහලේ නේවාසිකව ප්‍රතිකාර ලබමින් සිටින අතර කොටුව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/4b132bf5.json)
+
+---
+
+### Chinese onion becomes cheaper in Sri Lanka than Indian ahead of festivals
+
+*2024-04-09 06:31:00* · [`economynextcom`](https://economynext.com/chinese-onion-becomes-cheaper-in-sri-lanka-than-indian-ahead-of-festivals-157958/) · `en`
+
+ECONOMYNEXT – Price of imported Chinese big onion has been reduced sharply than Indian one in Sri Lankan markets with effect from Tuesday, in a move to provide some relief ahead of the festive season in the island nation battered by an unprecedented economic crisis.
+
+Many Sri Lankans have blamed the government for expensive commodity prices in the country amid an unprecedented rise in the poverty level after the 2022 economic crisis.
+
+President Ranil Wickremesinghe government has been in the process of reducing the prices of essential goods ahead of the festival season. Muslims will celebrate Eid and both Sinhalese and Tamils will celebrate their traditional new year this week.
+
+Wickremesinghe government has been also trying to win people ahead of a presidential election between September 18 and October 18 this year.
+
+...
+
+[Data](articles/cdd2c08d.json)
+
+---
+
+### අදත් ප්‍රදේශ කිහිපයකට තද වැසි
+
+*2024-04-09 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195451) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (09) ප.ව. 2.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බවය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනවලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්ෂාංශ වලට සෘජුවම ඉහළින් පවතී.
+
+ඒ අනුව අද (09) දහවල් 12:11ට උඩප්පු , ආඩිගම, පිදිවිල්ල, බකමුණ, නුවරගල සහ එරාවුර් යන ප්‍රදේශවලට හිරු මුදුන් වනු ඇත.
+
+◼️
+
+[Data](articles/1b4429aa.json)
+
+---
 
 ### National Education Policy
 
@@ -2199,65 +2257,5 @@ Pathirana said that health officials had studied 5 years of data and seen an inc
 [Data](articles/ace0ea67.json)
 
 [Extended Data](ext_articles/ace0ea67.ext.json)
-
----
-
-### New committee to ensure respectful handling of final rites for individuals – President
-
-*2024-04-08 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98516/new-committee-to-ensure-respectful-handling-of-final-rites-for-individuals-president) · `en`
-
-President Ranil Wickremesinghe announced that a new committee would be established to coordinate arrangements for the last rites of individuals in accordance with their religious customs or final wishes, including those within the Muslim community.
-
-He also expressed his commitment to enacting relevant legislation in the future. These remarks were made during his attendance at the Ifthar ceremony held yesterday (07) at the Jumma Mosque in Katukele, Kandy.
-
-“Amidst the economic challenges faced by the nation last season, long queues became a common sight, disrupting even the observance of Ramadan fasts. However, with improvements in the economy over the past year, today presents us with the opportunity to observe Ramadan and its fasting rituals as usual.
-
-...
-
-[Data](articles/b71f16f4.json)
-
-[Extended Data](ext_articles/b71f16f4.ext.json)
-
----
-
-### Sri Lankan school in Gaza
-
-*2024-04-08 15:40:04* · [`adalk`](https://www.ada.lk/breaking_news/ගාසා-තීරයට-ශ්‍රී-ලංකාවෙන්-පාසලක්/11-409016) · `si`
-
-Sri Lanka's Ramadan fast was dedicated to Gaza, with funds for Muslims there instead of a national ceremony. A school for the Scean was promised post-war, with Sri Lanka opposing the Palestinian state. President Ranil Wickremesinghe highlighted this at the Inftar festival in Kandy.
-
-🟩
-
-Ramadan fast in Sri Lanka today, but the Gaza has been very sorry. The Muslim community has lost about thirty-five. Therefore, we were not given the national Ramadan ceremony this year, we were given the money for the Muslims in Gaza.
-
-Also, after the end of the war, we have promised to build a school to the Scean. We will never support the Palestinian state. Therefore, we are cooperating to stop the war.
-
-President Ranil Wickremesinghe made this statement participating at the Inftar festival held at Katukaley Mosque, Kandy yesterday.
-
-◼️
-
-[Data](articles/cf4654fd.json)
-
-[Extended Data](ext_articles/cf4654fd.ext.json)
-
----
-
-### Sri Lanka to inaugurate delayed, Iran-assisted 120 MW Umaoya project this month
-
-*2024-04-08 15:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-inaugurate-delayed-iran-assisted-120-mw-umaoya-project-this-month-157921/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Irrigation Ministry has planned to inaugurate $529 million worth Uma Oya multipurpose development project with 120MW hydro power generation capacity later this month on the advice of President Ranil Wickremesighe’s advice, the Ministry said in a statement.
-
-The project was scheduled to be completed in 2015, but had been delayed several times due to unexpected issued faced during the project cycle and funding issue after the United States imposed economic sanctions on Iran and economic crisis in Sri Lanka.
-
-The project was started in 2010 and the funding was to be received as loan grant from the Iranian government. However, Iran was able to provide $50 million before the sanctions. Sri Lanka has to bear the cost after the sanctions.
-
-“President Ranil Wickremesinghe gave instructions to open the Umaoya Multipurpose Development Project at the end of April,” the Irrigation Ministry said quoting Pavithra Vanniarachchi, Minister of Irrigation, Wildlife and Forestry.
-
-...
-
-[Data](articles/a3706ccb.json)
-
-[Extended Data](ext_articles/a3706ccb.ext.json)
 
 ---

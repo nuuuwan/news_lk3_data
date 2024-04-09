@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 22:51:10**
+As of **2024-04-09 23:03:12**
 
 ## Newspaper Stats
 
-*Scraped **18,150** Articles*
+*Scraped **18,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 987
 islandlk | 992
 economynextcom | 1,013
 adalk | 1,531
-tamilmirrorlk | 2,125
+tamilmirrorlk | 2,126
 adaderanalk | 2,180
 virakesarilk | 2,681
 dailymirrorlk | 2,773
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,145 (100.0%) of 18,150 articles have been extended.
+18,150 (100.0%) of 18,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### நாளை நோன்புப் பெருநாள்
+
+*2024-04-09 22:48:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-நோன்புப்-பெருநாள்/175-335795) · `ta`
+
+நாட்டின் சில பகுதிகளில் ஷவ்வால் மாத தலைப்பிறை தென்பட்டுள்ளமையினால், நாளை (10) ஈதுல் பித்ர் நோன்புப் பெருநாளை கொண்டாடுமாறு கொழும்பு பெரிய பள்ளிவாசல் அறிவித்துள்ளது.
+
+ஹிஜ்ரி 1445 புனித ஷவ்வால் மாதத்துக்கான தலைப்பிறை பார்க்கும் மாநாடு மஹ்ரிப் தொழுகையின் பின்னர் இன்று கொழும்பு பெரிய பள்ளிவாசல் மாநாட்டு மண்டபத்தில் இடம்பெற்றது.
+
+இதன்போது நாட்டின் பல பாகங்களிலும் ஷவ்வால் மாதத்துக்கான தலைப்பிறை தென்பட்டதாக உறுதிப்படுத்தப்பட்ட தகவல்கள் கிடைத்ததை அடுத்து இலங்கை வாழ் முஸ்லிம்கள் நாளை புதன்கிழமை நோன்பு பெருநாளை கொண்டாடுமாறு கொழும்பு பெரிய பள்ளிவாசலின் பிறைகுழுத் தலைவர் கலீபதுல் குலபா மௌலவி எம்.பி.எம் ஹிஷாம் பத்தாகி அறிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/a406e316.json)
+
+---
 
 ### Russia, Kazakhstan evacuate over 100,000 people amid worst flooding in decades
 
@@ -48,41 +64,57 @@ Downstream, water levels in Orenburg, a city of around 550,000, rose towards the
 
 [Data](articles/8ad0f2e6.json)
 
+[Extended Data](ext_articles/8ad0f2e6.ext.json)
+
 ---
 
-### චමෝදි ප්‍රබෝධා ලකුණු 42කට කඩුලු 5ක් දවා ගනී
+### Chamodi Prabodha pays 5 wickets for 42 runs
 
 *2024-04-09 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195488) · `si`
 
-වයස අවුරුදු 19න් පහළ තුන්කොන් එක්දින ක්‍රිකට් තරගාවලියේ  එංගලන්තයට එරෙහිව ලකුණු 108ක විශිෂ්ඨ ජයක් වාර්තා කිරීමට ශ්‍රී ලංකා යොවුන් ක්‍රීඩිකාවන් අද (09) සමත් වූවාය.
+Chamodi Prabodha, a 14-year-old, took 5 wickets for 42 runs in a match against England, where Sri Lanka scored 226 runs and England chased 227 runs, ending with 118 runs.
 
-මෙම තරගයේදී 14 හැවිරිදි චමෝදි ප්‍රබෝධා ලකුණු 42කට කඩුලු 5ක් දවා ගැනීම කාගේත් වැඩි අවධානයට ලක්වුණි.
+🟩
 
-ගාල්ලේ පැවති මෙම තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා යොවුන් කණ්ඩායම පන්දුවාර 48යි පන්දු 4කදී සියලු දෙනා දැවී ලකුණු 226ක් රැස් කළාය.
+Sri Lanka Yokeyers were able to record 108 runs in the 19th Tirania cricket team today (09).
 
-ලකුණු 227ක ඉලක්කයක් හඹා යාමට පිටියට පිවිසි එංගලන්ත යොවුන් ක්‍රීඩිකාවන්ට දැඩි පීඩනයක් එල්ල කිරීමට ශ්‍රී ලංකා පන්දු යවන්නියන් සමත් වුණි.
+Chamodi, a 14-year-old Chamodi Prabodha Praebodha, took 5 wickets for 42 runs.
 
-ඒ අනුව එංගලන්ත පිලට පන්දුවාර 23යි පන්දු 3ක් අවසානයේ සියලු දෙනා දැවී රැස් කරගැනීමට හැකි වූයේ ලකුණු 118ක් පමණි.
+Batting first, Sri Lanka youth scored 226 runs for the loss of 48 overs.
+
+Sri Lanka bowlers were hit by England youths to chase 227 runs.
+
+Accordingly, England scored 118 runs in the end of 23 overs.
 
 ◼️
 
 [Data](articles/07c9f04a.json)
 
+[Extended Data](ext_articles/07c9f04a.ext.json)
+
 ---
 
-### இராணுவத்தினருக்கு பொது மன்னிப்பு காலம் பிரகடனம்
+### Public amnesty to the military
 
 *2024-04-09 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180850) · `ta`
 
-நீண்ட காலமாக முறையான விடுமுறையின்றி சேவையிலிருந்து விலகியிருந்த இராணுவ வீரர்களுக்கு சட்ட ரீதியாக இராணுவ சேவையை விட்டு வெளியேறுவதற்கு பொது மன்னிப்பு காலம் பிரகடனப்படுத்தப்பட்டுள்ளது.
+A public amnesty for Sri Lankan military personnel, including officers and soldiers, has been declared for those who have not served or taken leave without proper vacation before the 2nd of this month. The military headquarters has set a final deadline for this amnesty, requiring applicants to submit documents such as bank statements, identification, salary and payment books, and a list of salary payments.
 
-அதற்கமைய முறையான விடுமுறையின்றி கடமைக்கு சமூகமளிக்காத மற்றும் சட்ட விரோதமான முறையில் சேவையை விட்டு வெளியேறியுள்ள இலங்கை இராணுவத்தின் அதிகாரிகள் மற்றும் சிப்பாய்களுக்கு இம்மாதம் 20ஆம் திகதி முதல் மே 20ஆம் திகதி வரை பொது மன்னிப்பு காலமாக அறிவிக்கப்பட்டுள்ளது.
+🟩
 
-இம்மாதம் 2ஆம் திகதிக்கு முன்னர் முறையான விடுமுறையின்றி பணிக்கு சமூகமளிக்காத அதிகாரிகள் மற்றும் சிப்பாய்களுக்கு இந்த பொது மன்னிப்பு காலம் அறிவிக்கப்பட்டுள்ளது. இந்த பொது மன்னிப்பு காலத்துக்கான இறுதி திகதி எக்காரணத்துக்காகவும் நீடிக்கப்பட மாட்டாது என இராணுவ தலைமையகம் அறிவித்துள்ளது.
+Public amnesty has been declared to leave the military service to the soldiers who have long left the service without a proper vacation.
 
-...
+The Public amnesty has been announced for the Sri Lankan army officials and soldiers who have not been able to serve and illegally without a proper vacation.
+
+This public amnesty has been announced to officers and soldiers who did not attend the work without proper vacation before the 2nd of this month.. The military headquarters has announced that the last date for this amnesty will not be extended for any reason.
+
+They have also been submitted to submit a copy of the bank's book, National Identity Card or Driver's License, Salary and Payment Book, a copy of the last received salary and a salary list of payments.
+
+◼️
 
 [Data](articles/997b9e31.json)
+
+[Extended Data](ext_articles/997b9e31.ext.json)
 
 ---
 
@@ -189,6 +221,8 @@ The date and time of Eid differ in various countries, depending upon the sightin
 ◼️
 
 [Data](articles/cca23b58.json)
+
+[Extended Data](ext_articles/cca23b58.ext.json)
 
 ---
 
@@ -784,21 +818,29 @@ A group of individuals staged a demonstration opposite the Fort Railway Station,
 
 ---
 
-### ஆங்கில மொழியில் கற்பிக்க 2500 ஆசிரியர் நியமனத்துக்கு அமைச்சரவை அங்கீகாரம்
+### Cabinet approval for 2500 teacher appointment to teach English language
 
 *2024-04-09 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180840) · `ta`
 
-'அனைவருக்கும்  ஆங்கிலம்' வேலைத்திட்டத்தின் கீழ்  ஆங்கில மொழியில் கற்பித்தல்களை மேற்கொள்கின்ற  2500 ஆசிரியர்களை ஆட்சேர்ப்புச் செய்வதற்கு அரசாங்கம் தீர்மானித்துள்ளது.
+The Cabinet has approved a plan to recruit 2500 teachers for English language instruction, aiming to increase the number of schools teaching English from 765 to 1000 by 2024, to meet the demand for 6500 teachers.
 
-ஆங்கில மொழியில் கல்விப் பொதுத் தராதர சாதாரண தரத்துக்கான பாடங்களை கற்பிப்பதற்காக தற்போது அங்கீகரிக்கப்பட்ட  ஆசிரியர்கள் எண்ணிக்கை 4441 ஆக இருப்பினும், அதற்காக  6500 ஆசிரியர்களின் தேவை  காணப்படுகிறது.
+🟩
 
-பெரும்பாலான பாடசாலைகளில் தற்போது சேவையில் ஈடுபடுகின்ற ஆசிரியர்களின் எண்ணிக்கைக்கு மேலதிகமாக நடவடிக்கைகள் திட்டமிட்டு, ஆங்கில மொழி மூலமான கற்பித்தல்கள் விரிவாக்கம் செய்யப்பட்டுள்ளமை, 765 பாடசாலைகளில் மேற்கொள்ளப்பட்ட  மதிப்பீட்டின் மூலம் கண்டறியப்பட்டுள்ளது.
+The government has decided to recruit 2500 teachers who are teaching in English under the 'English All English' program.
 
-அதற்கமைய, ஆங்கில மொழி மூலமான பாடங்களை கற்பிக்கின்ற 765 பாடசாலைகளின் எண்ணிக்கையை, 2024ஆம் ஆண்டில் 1000 பாடசாலைகளாக அதிகரித்து  ஆசிரியர் தேவைகளை பூர்த்தி செய்வதற்காக  ஆங்கில மொழி மூலமான பாடங்களை கற்பிக்கின்ற  அனுமதியளிக்கப்பட்ட ஆசிரியர் எண்ணிக்கையை 6500  வரைக்கும் அதிகரிப்பதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+Although the number of recognized teachers is 4441, there is a need for 6500 teachers to teach the lessons for the general standard of education in the English language.
 
-...
+In addition to the number of teachers currently serving in most schools, the expansion of English language teaching has been found by the assessment of 765 schools.
+
+Accordingly, the Cabinet has approved the increase in the number of 765 schools that teach English language subjects to 1000 schools by 2024 and increased the number of teachers who teach English language lessons to 6500 to meet the needs of teacher.
+
+The Cabinet has approved the idea of the President and Education Minister to recruit 2500 teachers who teach English language lessons.
+
+◼️
 
 [Data](articles/5bc3020e.json)
+
+[Extended Data](ext_articles/5bc3020e.ext.json)
 
 ---
 
@@ -2269,37 +2311,5 @@ Accordingly, the deposit money limits will be amended as follows;
 [Data](articles/c748edff.json)
 
 [Extended Data](ext_articles/c748edff.ext.json)
-
----
-
-### CCTV Camera
-
-*2024-04-09 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195467) · `si`
-
-A murder in Gampaha's Katashara area has been reported, with CCTV footage showing a shooting at Udugampola. Investigations are ongoing, involving the Peliyagoda Criminal Division. The victim's brother-in-law, Kehelbaddara Chanaka, is a fugitive abroad. Suspects include Dinesh Wasantha, in police custody, and an unnamed individual, believed to be seeking revenge.
-
-🟩
-
-The victim has been allegedly murdered in the Katashara area in Gampaha, police said.
-
-However, the media has not yet been revealed to him, but the media has received a CCTV display of CCTV visits.
-
-A shooting was shot dead at Udugampola, Udugampola, Udugampola, Udugampola at around 4 pm yesterday.
-
-The media also received a range of CCTV images: "Look!
-
-Several investigations into the Peliyagoda Criminal Division have commenced investigations into the incident.
-
-He is the brother-in-law of Kehelbaddara Chanaka, an organized criminal, who is hiding abroad.
-
-The murder is suspicious that a person who is close and Dinesh Wasantha, who is in police custody, is currently underway.
-
-Police suspect that the shooting has been carried out by the two of them to receive revenge from the two opponent.
-
-◼️
-
-[Data](articles/830a46e7.json)
-
-[Extended Data](ext_articles/830a46e7.ext.json)
 
 ---

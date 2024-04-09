@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 16:49:13**
+As of **2024-04-09 17:03:20**
 
 ## Newspaper Stats
 
-*Scraped **18,083** Articles*
+*Scraped **18,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,72 +17,188 @@ islandlk | 992
 economynextcom | 1,004
 adalk | 1,525
 tamilmirrorlk | 2,121
-adaderanalk | 2,171
+adaderanalk | 2,173
 virakesarilk | 2,669
-dailymirrorlk | 2,758
-adaderanasinhalalk | 2,931
+dailymirrorlk | 2,760
+adaderanasinhalalk | 2,933
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,077 (100.0%) of 18,083 articles have been extended.
+18,083 (100.0%) of 18,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### கற்பிட்டியில் பீடி இலைகளை கடத்த முற்பட்ட நபரொருவர் கைது
+### කෙහෙළියගේ පෙත්සම ගැන තීරණයක් 30 වනදා
 
-*2024-04-09 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180836) · `ta`
+*2024-04-09 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195477) · `si`
 
-கற்பிட்டி பகுதியிலிருந்து நாகவில்லு பகுதிக்கு பீடி இலைகளை அனுமதிப்பத்திரமின்றி சட்டவிரோதமாக கடத்த முற்பட்ட நபரொருவர் புத்தளம் பிராந்திய போக்குவரத்து பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඉදිරිපත් කළ පෙත්සම විභාග කිරීම සඳහා නොතිසි නිකුත් කරන්නේද? නැද්ද? යන තීරණය ලබන 30 වනදා ප්‍රකාශයට පත්කරන බව අභියාචනාධිකරණය අද (09) නිවේදනය කළේය.
 
-புத்தளம் பிராந்திய போக்குவரத்து பொலிஸார் இன்று செவ்வாய்க்கிழமை (09) காலை பாலாவி பகுதியில் கடமையில் ஈடுப்பட்டிருந்த போது சந்தேகத்திற்கிடமான லொறியை நிறுத்தி சோதனைக்குட்படுத்தியுள்ளனர்.
+ඒ, ප්‍රමිතියෙන් තොර ප්‍රතිදේහ ඖෂධ මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් නඩු විභාගය අවසන් වන තෙක් තමන්ව රක්ෂිත බන්ධනාගාරගත කිරීමට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය දී තිබෙන නියෝගය බල රහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා කෙහෙළිය රඹුක්වැල්ල ඉදිරිපත් කළ පෙත්සම සම්බන්ධයෙනි.
 
-இதன்போது அனுமதிப்பத்திரமின்றி சட்டவிரோதமாக கொண்டு செல்ல முற்பட்ட பீடி இலைகள் தேங்காய்களுக்குள் சூட்சமமான முறையில் மறைத்து வைத்திருந்தமைக் கண்டுபிடிக்கப்பட்டுள்ளன.
+අදාළ පෙත්සම සම්බන්ධයෙන් දීර්ඝ ලෙස කරුණු සලකා බැලීමෙන් අනතුරුව අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් මහතා විසින් මේ බව නිවේදනය කළේය.
 
-இதன்போது சுமார் 17 உரைகளில் 500 கிலோ கிராம் பீடி இலைகள் கைப்பற்றப்பட்டுள்ளன. அத்துடன் நாகவில்லு பகுதியைச் சேர்ந்த ஒருவர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளார்.
+◼️
 
-குறித்த பீடி இலைகள் சுமார் 30 இலட்சம் ரூபாவிற்கும் அதிக பெறுமதியென மதிக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்படுகின்றன.
-
-...
-
-[Data](articles/db297c65.json)
+[Data](articles/642699c3.json)
 
 ---
 
-### இலத்திரனியல் கடவுச்சீட்டு வழங்குவதில் உள்ள தாமதம் குறித்து கோபா குழுவில் அவதானம்
+### Edu. Ministry issues notice on school holidays
+
+*2024-04-09 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98538/edu-ministry-issues-notice-on-school-holidays) · `en`
+
+The first phase of the first term for the academic year 2024 of all government and government-approved Sinhala and Tamil private schools will conclude on Wednesday (10), the Ministry of Education announced.
+
+Meanwhile, the second phase of the first school term will commence on April 24.
+
+The Education Ministry also mentioned that the second phase of the first school term of Muslim schools will commence on April 17.
+
+◼️
+
+[Data](articles/a670d188.json)
+
+---
+
+### පැනමා පේපර්ස් නඩුව ඇරඹෙයි
+
+*2024-04-09 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195476) · `si`
+
+පැනමා පේපර්ස් මුදල් විශුද්ධිකරණ ජාවාරම සම්බන්ධයෙන් චෝදනා එල්ලවූ චුදිතයින් 27 දෙනෙකුට එරෙහි නඩු විභාගය පනමාවේ අපරාධ අධිකරණයකදී ආරම්භ වී තිබේ.
+
+2016 වසරේදී පිටවූ වූ රහස්‍ය මූල්‍ය ලේඛන මගින් ලොව බොහෝ ධනවත් පුද්ගලයින් ඔවුන්ගේ ධනය නීතිවිරෝධී ලෙස අක්වෙරළ සමාගම් වල රඳවා ඇති ආකාරය හෙළිදරව් විය.
+
+මෙම නඩුවේ විත්තිකරුවන් වන්නේ Jurgen Mossack සහ Ramon Fonseca Mora ඇතුළු පුද්ගලයින් පිරිසකි.
+
+ඔවුන් Mossack Fonseca නම් නීති සමාගමක් පිහිටුවා එම වංචාව සිදුකර තිබුණි.
+
+නමුත් එම සමාගම පවසන්නේ ඔවුන් ජාත්‍යන්තර හැකරුන්ගේ ගෙඔදුරක් වූ බවයි.
+
+එසේම පිටවූ තොරතුරු වැරදි ලෙස නිරූපණය කර ඇති බවද එම සමාගම පැවසීය.
+
+වැරදිකරුවන් වුවහොත් Mossack ට සහ Fonseca ට වසර 12 බැගින් සිරදඬුවම් හිමිවෙතැයි සඳහන් ය.
+
+එම හෙළිදරව්වේදී මූල්‍ය තොරතුරු අඩංගු ලේඛන මිලියන 11ක් පමණ පිටකර තිබුණි. එමගින් දේශපාලනඥයින්, ප්‍රබල රාජ්‍ය නිලධාරීන්, බිලියනපතීන් සහ ක්‍රීඩා තරු වෙත චෝදනා එල්ල විය.
+
+◼️
+
+[Data](articles/e1d7187a.json)
+
+---
+
+### A man arrested for attempting to smuggle beedi leaves in Kalpitiya
+
+*2024-04-09 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180836) · `ta`
+
+A man was arrested for smuggling 500 kg of beedi leaves in Kalpitiya, worth over Rs 30 lakh, by the Puttalam Regional Transport Police.
+
+🟩
+
+A person who has been illegally smuggled from the Kalpitiya area to the Nagavilu area has been arrested by the Puttalam Regional Transport Police.
+
+The Puttalam Regional Transport Police have stopped the suspicious lorry when they were on duty at the Palawi area on Tuesday morning.
+
+It has been found that the beedi leaves that attempted to illegally carry out without permit have been found in the coconut.
+
+About 17 text have been seized 500 kg of beedi leaves. A man from Nagavilu has been arrested on suspicion.
+
+The beedi leaves are said to be worth more than Rs 30 lakh.
+
+The Puttalam Regional Transport Police Officer said that the beedi leaves seized and the lorry used for the abduction were handed over to the Puttalam Police Station.
+
+◼️
+
+[Data](articles/db297c65.json)
+
+[Extended Data](ext_articles/db297c65.ext.json)
+
+---
+
+### Copa Committee on the delay in issuing electronic passports
 
 *2024-04-09 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180828) · `ta`
 
-இலத்திரனியல் கடவுச்சீட்டு (E-Passport)  வழங்குவதில் 4 ஆண்டுகளாகத் தாமதம் ஏற்பட்டுவது குறித்து அரசாங்கக் கணக்குகள் பற்றிய குழுவில் (கோபா) கவனம் செலுத்தப்பட்டது.
+The Government Accounts Committee (Copa) criticized a 4-year delay in issuing E-Passports, despite the Civil Aviation Authority's efforts to purchase E-Gate equipment. The committee urged quick action, improved technology, and more officials to reduce congestion. Sri Lanka's passport ranking was discussed, and a plan to improve global standards was advised. Issues with regional office procedures and the plight of Russian and Ukrainian citizens post-visa expiration were also highlighted.
 
-குடிவரவு மற்றும் குடியகல்வுத் திணைக்களத்தின் 2020, 2021 மற்றும் 2022 ஆம் ஆண்டுகளுக்கான கணக்காய்வாளர் நாயகத்தின் அறிக்கைகள் மற்றும் தற்போதைய செயலாற்றுகை தொடர்பில் ஆராய்வதற்காக அரசாங்கக் கணக்குகள் பற்றிய குழு (கோபா) அண்மையில் (02) கூடியபோது இந்த விடயம் குறித்துக் கவனம் செலுத்தப்பட்டது.
+🟩
 
-விமான நிலைய ஈ-கேட் (E-gate) வசதி தொடர்பான உபகரணங்களை கொள்வனவு செய்வதற்குக் குடிவரவு மற்றும் குடியகல்வுத் திணைக்களத்தின் பிரதிநிதி ஒருவரை தொடர்பு கொள்ள வேண்டுமென சிவில் விமான சேவைகள் அதிகாரசபையினால் தெரிவித்திருந்த போதிலும், இதுவரை அது தொடர்பில் நடவடிக்கை எடுக்காததால் மொத்த ஈ-கேட் வசதி வழங்குவதிலும் ஏற்பட்டுள்ள தாமதம் குறித்து குழு தனது கடும் அதிருப்தியை வெளிப்படுத்தியது.
+The focus of the Government Accounts (Copa) has been focused on the delay in 4 years of delay in issuing the E-Passport.
+
+The Committee on Government Accounts (02) was focused on the report of the Auditor General for 2020, 2021 and 2022 of the Department of Immigration and Emigration.
+
+Although the Civil Aviation Authority has announced that the Department of Immigration and Emigration has been contacted by the Department of Immigration and Emigration for the purchase of equipment related to E-Gate, the Committee expressed its displeasure over the delay in providing total e-tax facilities as it has not yet taken action..
+
+Accordingly, it was advised to submit a report on the progress before the 15th of April. It was also emphasized that the need to improve with modern technology equipment, including self -examination, to reduce airport congestion.
+
+Focusing on the delay in the issue of E-Passport for 4 years was focused.
 
 ...
 
 [Data](articles/8d606520.json)
 
+[Extended Data](ext_articles/8d606520.ext.json)
+
 ---
 
-### மின்சாரம் தாக்கியதில் இளைஞன் பரிதாபகரமாக மரணம்!
+### Young man dies miserably in electricity
 
-*2024-04-09 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180834) · `ta`
+*2024-04-09 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180834) · `ta`
 
-மட்டக்களப்பு தலைமையக பொலிஸ் பிரிவுக்குட்பட்ட திருமலை வீதியைச் சேர்ந்த இளைஞன் ஒருவர் தனது வீட்டில் வைத்து மின்சாரம் தாக்கியதில் உயிரிழந்த சம்பவம் இடம் பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A 19-year-old man, Sasikumar Dinease, died from an electric shock while welding at his home in Tirumalai road, Batticaloa. He was taken to a hospital but passed away without treatment.
 
-திருமலை வீதியை வசிப்பிடமாகக் கொண்ட சசிக்குமார் டினேஸ் (வயது 19) எனும் இளைஞனே இவ்வாறு உயிரிழந்தவராவார்.
+🟩
 
-திங்கட்கிழமை (08 ) தனிமையில் இருந்து தனது வீட்டில் வெல்டிங் - இரும்பு ஒட்டு வேலைகளை செய்து கொண்டிருந்த போது மின்சாரம் தாக்கப்பட்டு மயக்க நிலையில் இருந்ததாகவும் பின்னர் தனது சகோதரி மற்றும்  அயலவர்களின் உதவியுடன் வைத்தியசாலைக்கு கொண்டு சென்ற போதிலும் அவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+Police said that a young man from Thirumalai road belonging to the Batticaloa Headquarters Police Division had killed a electricity at his home.
 
-மட்டக்களப்பு மாவட்ட நீதிமன்ற நீதவான் அவர்களின் பணிப்புக்கமைவாக மட்டக்களப்பு போதனா வைத்தியசாலையில் திடீர் மரண விசாரணை அதிகாரி தம்பிப்பிள்ளை தவக்குமார் பிரேதத்தை பார்வையிட்ட பின்னர். பிரேதத்தை உடற்கூற்று பரிசோதனைக்குட்டடுத்துமாறு சட்ட வைத்தியரை பணித்திருந்தார்.
+The deceased is Sasikumar Dinease (age 19), a resident of Tirumalai road.
+
+On Monday (08), when he was doing a welding - iron -ironing work from his home, electricity was attacked and then taken to a hospital with the help of his sister and neighbors, but he died without treatment.
+
+After visiting the Batticaloa District Court Magistrate, Thambipillai Thakumar's body at the Batticaloa Teaching Hospital. He had worked with the legal doctor for the body to test the body.
 
 ◼️
 
 [Data](articles/ef81b515.json)
+
+[Extended Data](ext_articles/ef81b515.ext.json)
+
+---
+
+### Health Ministry issues special set of guidelines for New Year games
+
+*2024-04-09 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98537/health-ministry-issues-special-set-of-guidelines-for-new-year-games) · `en`
+
+The Directorate of Non-Communicable Diseases of the Ministry of Health has issued a set of guidelines for prevention of injuries and acute medical conditions related to sports events organized during festival seasons in Sri Lanka.
+
+Accordingly, the Health Ministry has described general guidelines to be followed in all sporting events and guidelines for identified specific events being carried out during the upcoming festive season.
+
+The relevant set of guidelines is aimed at equipping organizers, participants, and communities with essential knowledge and strategies to ensure a safe and enjoyable celebration, the ministry said.
+
+Meanwhile, the Health Ministry also expressed that recognizing the importance of safeguarding public health and promoting safety during sports events held amidst festival celebrations, the guidelines have been developed to address the unique challenges associated with such events to mitigate the risks associated with injuries and acute medical conditions.
+
+...
+
+[Data](articles/27d02295.json)
+
+---
+
+### First school term ends tomorrow
+
+*2024-04-09 16:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-school-term-ends-tomorrow/108-280477) · `en`
+
+Colombo, April 09 (Daily Mirror) - The Education Ministry today declared that the school holiday for the first phase of the first term for government and government-approved private Sinhala and Tamil schools will conclude tomorrow.
+
+Accordingly, the second phase of the first school term will start on April 24.
+
+The second phase of the first school term for Muslim schools will start on April 17.
+
+◼️
+
+[Data](articles/3ab85d33.json)
 
 ---
 
@@ -108,21 +224,31 @@ This applies to Sinhala and Tamil schools in government schools, government appr
 
 ---
 
-### சிவனொளிபாத மலையில் “கோனிஜியா மோலிஸ்” இன் பரவலை தடுக்குமாறு பவித்திரா பணிப்பு
+### Pavithra's work to prevent the spread of "Konjia Molis" on the Sivanolipada mountain
 
 *2024-04-09 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180827) · `ta`
 
-சிவனொளிபாத மலையைச் சுற்றியுள்ள அயனமண்டல மழைக்காடுகளில் “கோனிஜியா மோலிஸ்” (Koenigia Mollis) என்ற ஆக்கிரமிப்புத் தாவர இனங்கள் பரவுவதை உடனடியாக தடுக்குமாறு வனஜீவராசிகள் மற்றும் வன வளங்கள்  பாதுகாப்பு மற்றும் நீர்ப்பாசன அமைச்சர் பவித்ராதேவி வன்னியாராச்சி அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+Pavithradevi Wanniyarachchi, Minister of Wildlife, issued a directive to combat the spread of "Koenigia Mollis" on Sivanolipada mountain, advising the use of scientific methods to eliminate the invasive plant. The plant, originally from Myanmar and the Eastern Himalayas, is now spreading in Nepal and China, impacting native plant species and causing landslides.
 
-உயிர் பல்வகைமையினை பாதுகாப்பில் கவனம் செலுத்தும் நடவடிக்கைகளை செயல்படுத்தவும், ஆக்கிரமிப்பு தாவரத்தை அகற்ற விஞ்ஞான மற்றும் தொழில்நுட்ப முறைகளைப் பயன்படுத்துமாறு அவர் அதிகாரிகளுக்கு அறிவுறுத்தியுள்ளார்.
+🟩
 
-சிவனொளிபாத மலைக்குச் செல்லும் வீதிகள், கடைத்தொகுதிகள்  மற்றும் மலசல கூடங்கள் அருகில்ஆக்கிரமிப்பு தாவரம்  பரவி  இருப்பது கண்டறியப்பட்டுள்ளது. இந்த தாவரம் பரவியுள்ள பகுதிகளில் பூர்வீக தாவர இனங்கள் முற்றிலுமாக அழிந்து விட்டன.
+The Minister of Wildlife and Wildlife Protection and Irrigation, Pavithradevi Wanniyarachchi has issued a directive to prevent the spread of occupied plant species called "Koenigia Mollis" in the Ayanamandala rainforest surrounding the Sivanolipada mountain.
 
-6 முதல் 8 அடி உயரம் வரை வளரும் ஆக்கிரமிப்பு தாவரம் மலைப்பகுதிகளுக்கு அருகிலுள்ள  தாவரங்களில் வேர் அமைப்பின் உறுதித்தன்மையை படிப்படியாக பலவீனப்படுத்துகிறது. இதன்காரணமாக மலைப்பாங்கான பகுதிகளில்  மண்சரிவை ஏற்படுத்தும் என சப்ரகமுவ பல்கலைக்கழக ஆராய்ச்சியாளர்கள் கண்டுபிடித்துள்ளனர்.
+He has advised the authorities to implement the activities that focus on the safety of the vitality and use the scientific and technical methods to eliminate the aggressive plant.
+
+The streets, shops and sews on the Sivanolipada mountain have been found to be an aggressive plant spreading nearby. In the area where the plant is spread, the native plant species are completely destroyed.
+
+6 to 8 feet high. Researchers at the University of Sabaragamuwa have discovered that the landslide in the mountainous areas.
+
+It has been confirmed to have a serious impact on plants spreading.
+
+This plant originally appeared in Myanmar and the Eastern Himalayas. It is currently spreading in Nepal and China.
 
 ...
 
 [Data](articles/9e6552ad.json)
+
+[Extended Data](ext_articles/9e6552ad.ext.json)
 
 ---
 
@@ -156,17 +282,43 @@ The following are the general guidelines that must be followed in all sports eve
 
 ---
 
-### அரிசியின் விலையை உடனடியாக குறைக்குமாறு கோரி மன்னாரில் கவனயீர்ப்பு போராட்டம்
+### Government to upgrade Hingurakgoda airport to international hub
+
+*2024-04-09 16:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-upgrade-Hingurakgoda-airport-to-international-hub/108-280476) · `en`
+
+Colombo, April 9 (Daily Mirror0 - The government has decided to upgrade the Hingurakgoda domestic airport, the oldest airport in the country, into an international air hub.
+
+Originally built as the Minneriya Air Force Centre (RAF Minneriya) during World War II by England's Royal Air Force, the airport's transformation into an international facility is now a priority for the country's economy, as directed by President Ranil Wickremesinghe.
+
+To kickstart this initiative, the government has allocated Rs. 2 billion in the 2024 budget for the initial construction and development. This funding will be used to extend the current 2,287 metres long and 46 metres wide runway to 2,500 metres in the first phase.
+
+Upon completion of this runway expansion, the airport will be capable of accommodating aircraft such as the Airbus 320 and Boeing B737. The overall development project is estimated to cost approximately Rs. 17 billion, with all construction activities being managed by the Sri Lankan Air Force.
+
+...
+
+[Data](articles/50dd7ab1.json)
+
+---
+
+### Apart from Mannar demanding the immediate reduction of the price of rice
 
 *2024-04-09 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180826) · `ta`
 
-அரசாங்கம் உடனடியாக அரிசியின் விலையை 100 ரூபாய்க்கு கீழ் கொண்டு வருமாறு கோரி வடக்கு கிழக்கு பெண்கள் கூட்டின் ஏற்பாட்டில் இன்றைய தினம் வடக்கு கிழக்கில் உள்ள 8 மாவட்டங்களிலும் கவனயீர்ப்பு போராட்டம் முன்னெடுக்கப்பட்டது.
+The North-East Women's Alliance in Sri Lanka protests for rice prices under Rs. 100, highlighting the economic crisis's impact on food shortages, especially affecting women and families.
 
-அதனடிப்படையில் மன்னார் மாவட்டத்திலும் இன்று செவ்வாய்க்கிழமை (9) முன்னெடுக்கப்பட்டது.மன்னார் நகர சுற்றுவட்ட பகுதியில் நடைபெற்ற கவனயீர்ப்பு போராட்டத்தில் நூற்றுக்கணக்கான பெண்கள் கலந்து கொண்டு பல்வேறு வாசகங்கள் எழுதப்பட்ட பதாதைகளை ஏந்தியவாறு கவனயீர்ப்பு போராட்டத்தில் கலந்து கொண்டனர்.கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டவர்கள் பல்வேறு கோரிக்கைகளை முன்வைதத்தனர்.
+🟩
+
+The North -East Women's Alliance organized the North -East Women's Alliance today demanding the government to immediately bring the price of rice under Rs. 100.
+
+Accordingly, hundreds of women participated in the protests in Mannar district on Tuesday (9) in Mannar district.
+
+The basic food rice of the entire Sri Lankan people is rice. The economic crisis in Sri Lanka and the price of goods in the country has caused massive food shortages among the poor and middle class women in the village level.The price of rice, especially in Sri Lanka, has been able to get food for only one or two in the day, in the daily wage families and more members of the families with more members of the day.
 
 ...
 
 [Data](articles/d4114aa5.json)
+
+[Extended Data](ext_articles/d4114aa5.ext.json)
 
 ---
 
@@ -410,19 +562,25 @@ Qatar and Egypt work as intermediaries for those discussions. William Burns, the
 
 ---
 
-### ගෙවීමේ පදනම මත කොතලාවල සරසවියෙන් වෛද්‍ය උපාධියක් ගන්න අවස්ථාව
+### Opportunity to make a Medical Degree from the Kotalawala
 
 *2024-04-09 15:10:37* · [`adalk`](https://www.ada.lk/breaking_news/ගෙවීමේ-පදනම-මත-කොතලාවල-සරසවියෙන්-වෛද්‍ය-උපාධියක්-ගන්න-අවස්ථාව/11-409036) · `si`
 
-ජෙනරාල් ශ්‍රීමත් ජෝන් කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ වෛද්‍ය විද්‍යා උපාධිය සඳහා ගෙවීමේ පදනම මත දේශීය සිසුන් ඇතුළත් කර ගැනීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
+The General Sir John Kotelawala Defense University has approved a Cabinet paper to include local students in medical degree programs, with foreign students also given the opportunity to enroll based on payment.
 
-ජනාධිපතිවරයා විසින් ඉදිරිපත්කළ  කැබිනට් පත්‍රිකාවට මෙසේ අමාත්‍ය මණ්ඩලයේ අනුමැතිය ලැබී තිබේ.
+🟩
 
-දැනට මෙම විශ්වවිද්‍යාලය තුළ විදේශීය සිසුන්ට ගෙවීමේ පදනම මත වෛද්‍ය උපාධිය හැදැරී‌මේ අවස්ථාව සලසා දී තිබේ.
+Cabinet approval has been approved by the General Sir John Kotelawala Defense University to include local students on payment.
+
+The Cabinet paper presented by the President has been approved by the Cabinet of Ministers.
+
+Foreign students have been given the opportunity to develop a medical degree on the basis of payment of the university.
 
 ◼️
 
 [Data](articles/90959b09.json)
+
+[Extended Data](ext_articles/90959b09.ext.json)
 
 ---
 
@@ -2143,159 +2301,5 @@ The victim was severely injured in the head and the ribs.
 [Data](articles/387f9701.json)
 
 [Extended Data](ext_articles/387f9701.ext.json)
-
----
-
-### Increased temperatures today ...
-
-*2024-04-09 07:21:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அதிகரித்த-வெப்பநிலை-காணப்படும்-இடங்கள்/175-335776) · `ta`
-
-Dr. Mohamed Saliheen forecasts increased temperatures across multiple provinces today, with showers or thunderstorms likely after 2 pm. Snow may be seen in parts of Central, Sabaragamuwa, and Western Provinces, and in Galle and Matara districts.
-
-🟩
-
-Senior Weather Officer Dr. Mohamed Saliheen said that increased temperatures will occur today in the North, Eastern, North Central, North Western, Sabaragamuwa, Western and Southern Provinces as well as in Matale and Moneragala districts.
-
-Due to the Sun's northern city, the sun is at around 12.11 pm today at around 12.11 pm.
-
-Showers or thunderstorms are likely to occur after two o'clock in the afternoon.
-
-In the morning, the snow will be seen in some parts of the Central, Sabaragamuwa and Western Provinces as well as some of the Galle and Matara districts.
-
-In cases where strong winds and lightning impacts occur. Remble
-
-◼️
-
-[Data](articles/e13cb158.json)
-
-[Extended Data](ext_articles/e13cb158.ext.json)
-
----
-
-### Sri Lanka to publish ‘indicative prices’ for essential goods as rupee strengthens
-
-*2024-04-09 07:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-publish-indicative-prices-for-15-essential-goods-as-rupee-strengthens-157960/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Consumer Affairs Authority will publish ‘indicative prices’ for key imported essential goods, based on customs import data and domestic costs, Trade Minister Nalin Fernando said.
-
-The indicative prices are published due to public concerns that big margins are made by traders and there were big gaps between import prices and retail prices, he said.
-
-Sri Lanka’s food prices have fallen steeply since the central bank hike rates ending money printing to suppress rates.
-
-Sri Lanka’s central bank started to print money from early 2020, cutting rates, cutting reserve ratios and dumping hundreds of billions of rupees into the banking system, triggering severe forex shortages and downgrades, making it impossible to service foreign debt.
-
-Meanwhile the US money printing also pushed up global commodity prices including wheat, until the Federal Reserve hike rates starting from March 2022, and commodity prices started to ease about 4 to 5 months later.
-
-...
-
-[Data](articles/213864ef.json)
-
-[Extended Data](ext_articles/213864ef.ext.json)
-
----
-
-### Fetalism
-
-*2024-04-09 07:18:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாற்றுத்திறனாளிகள்-தொடர்பில்-கருத்தியல்-மாற்றம்/175-335775) · `ta`
-
-Anupa Baskal, Minister of Social Empowerment, announced a change in the New Year's tradition of "feeding the blind" to "breaking the lucky pot and feeding the blind," aiming for a conceptual shift. Banks in the Samurdhi program will host 1089 New Year celebrations nationwide, focusing on alternatives to the traditional 'feeding the blind to the blind.'
-
-🟩
-
-During the New Year celebration this time. Minister of Social Empowerment Anupa Baskal said that the breakdown of the blind and the feeding of the blind in the society has been changed to "breaking the lucky pot and feeding the blind."
-
-He said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-All banks in the Samurdhi program for the New Year this year have made arrangements to hold 1089 New Year celebrations nationwide.
-
-Special attention has been paid to the alternatives. The features of 'feeding the blind to the blind' have been rejected by the community so far. Our Ministry has accepted it. Instead, the organizers have been told to use the names of 'breaking the pot of luck and feeding the companion'.
-
-We expect to create a conceptual change in the community. We have also organized various special events for the Disabled Persons at the New Year's festivals.(a)
-
-◼️
-
-[Data](articles/27c7fe70.json)
-
-[Extended Data](ext_articles/27c7fe70.ext.json)
-
----
-
-### Model legal structures need to be modernized
-
-*2024-04-09 07:11:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்ட-கட்டமைப்புகள்-நவீனமயமாக்கப்பட-வேண்டும்/175-335774) · `ta`
-
-President Ranil Wickremesinghe emphasized the need to modernize legal structures for economic growth, discussing the decision to continue or change the program with the IMF. He highlighted the importance of making crucial decisions for the country's future, urging young lawyers to lead the modernization effort.
-
-🟩
-
-President Ranil Wickremesinghe said the legal framework for the success of the government's plan to create rapid economic growth in the country should be modernized.
-
-The President said this at a friendly meeting with Kandy's lawyers at the Mahaweli Reach Hotel in Kandy.As he further stated,
-
-We need to determine whether to continue the program with the International Monetary Fund or whether it is changed. Sri Lanka has a disgrace to change the decision every time.
-
-This is the last chance we have for the country. Therefore, we expect to legalize the deal with the International Monetary Fund to provide this benefit to the people. None of us can escape from the responsibility of the country. Therefore, so important decisions should be made.
-
-The legal structures in the country's economic change must also be modernized. 20 years to come forward and decide. I will not be alive for most of the people and I. But the young lawyers here should carry out this modernization program.. (A)
-
-◼️
-
-[Data](articles/b19aa64e.json)
-
-[Extended Data](ext_articles/b19aa64e.ext.json)
-
----
-
-### Decision regarding displaced centers in the North and East
-
-*2024-04-09 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195453) · `si`
-
-The Ministry of Urban Development and Housing announced plans to aid displaced families in the North and East, with 212 families receiving land for future housing. President Ranil Wickremesinghe urged further assistance for those not yet accommodated.
-
-🟩
-
-The Ministry of Urban Development and Housing Ministry said that due to the war of the LTTE terrorist war, the Ministry of Urban Development and Housing Ministry said.
-
-There are three welfare centers in the Jaffna district and there are 10 families.
-
-The Ministry of Urban Development and Housing said that there are 1,502 families in relatives of friends who have not been displaced by the welfare centers in the North and East.
-
-The land has been released for 212 families and will be given houses in the future.
-
-President Ranil Wickremesinghe has also advised the Ministry of Urban Development and Housing Development to provide lands to the other people who have not been able to provide lands to all other people.
-
-◼️
-
-[Data](articles/b17598f8.json)
-
-[Extended Data](ext_articles/b17598f8.ext.json)
-
----
-
-### Excellent Social Security Program in practice
-
-*2024-04-09 06:58:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்வான-சமூக-பாதுகாப்பு-திட்டம்-நடைமுறையில்/175-335773) · `ta`
-
-In 2023, the government paid 200 billion rupees for economic crisis relief, including Samurdhi assistance, credit, and various allowances. The government aims to implement over 30 social security programs transparently, with the World Bank providing a $200 million loan repayable in 30 years. By March 31, 2024, the number of relief beneficiaries is expected to reach 1,854,308.
-
-🟩
-
-President General of the President Rajith Keerthi Tennakoon said that only 200 billion rupees was paid in 2023 to provide relief to the people affected by the economic crisis.
-
-He made the above comment while commenting to the media yesterday. As he further stated,
-
-The government is responsible for providing relief to the people affected by the severe economic difficulties faced by the people of 2021 and 2022.
-
-Samurdhi assistance, Samurdhi credit, allowance for elderly people over 70 years of age, allowance for elderly people over 100 years of age, allowance for disabled people, allowance for kidney failure, and Assembly allowance in 2023 by the government.
-
-The amount of Rs.. In addition, Samurdhi Bank has loaned 59.5 billion rupees during the same period.
-
-The government is implementing this social security program in contrast to corruption, irregularities and bureaucracy in previous programs such as Janasiya and Samurdhi.
-
-...
-
-[Data](articles/87613ece.json)
-
-[Extended Data](ext_articles/87613ece.ext.json)
 
 ---

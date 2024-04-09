@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 14:52:01**
+As of **2024-04-09 15:03:14**
 
 ## Newspaper Stats
 
-*Scraped **18,057** Articles*
+*Scraped **18,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 dailyftlk | 987
 islandlk | 992
 economynextcom | 1,004
-adalk | 1,520
-tamilmirrorlk | 2,120
+adalk | 1,523
+tamilmirrorlk | 2,121
 adaderanalk | 2,170
 virakesarilk | 2,660
 dailymirrorlk | 2,754
@@ -26,39 +26,81 @@ adaderanasinhalalk | 2,925
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,054 (100.0%) of 18,057 articles have been extended.
+18,057 (100.0%) of 18,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### 2,500 ஆங்கில ஆசிரியர்களை ஆட்சேர்ப்பு செய்ய அனுமதி
+### டொலரின் இன்றைய பெறுமதி
+
+*2024-04-09 14:42:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டொலரின்-இன்றைய-பெறுமதி/175-335785) · `ta`
+
+இன்று (09) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 294.0863 ஆகவும் விற்பனை விலை ரூபா 303.4415 ஆகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/fc5f3f6a.json)
+
+---
+
+### ඊ-පාස්පෝට් නිකුත් කිරීම කඩිනම් කිරීමට නියෝග
+
+*2024-04-09 14:37:31* · [`adalk`](https://www.ada.lk/breaking_news/ඊ-පාස්පෝට්-නිකුත්-කිරීම-කඩිනම්-කිරීමට-නියෝග/11-409031) · `si`
+
+ආගමන විගමන දෙපාර්තමේන්තුවේ CCTV කැමරා වසර 6ක් ගබඩාවක - කඩිනමින් අවශ්‍ය පියවර ගෙන මැයි 15ට පෙර ප්‍රගතිය දැනුම් දෙන ලෙස කෝපා කමිටුවෙන් දැනුම් දෙයි
+
+ප්‍රාදේශීය කාර්යාල මගින් ගමන් බලපත්‍ර නිකුත් කිරීමේදී නිසි ක්‍රියාවලියක් නොමැතිවීම නිසා  පවතින තදබදය ඇතුළු අඩුපාඩු පිළිබඳව ද අවධානය…
+
+රුසියානු හා යුක්රේන ජාතිකයන් වීසා අවසන් වීමේන් පසුවද මෙරට රැදී සිටිමින් දකුණු ප්‍රදේශයේ ව්‍යාපාරවල නිරත වීම පිළිබඳවද අවධානය…
+
+ආගමන විගමන දෙපාර්තමේන්තුවේ ප්‍රධාන කාර්යාලයේ අභ්‍යන්තර පරිශ්‍රයේ සවිකිරීම සදහා මිලදී ගත් CCTV කැමරා උපකරණ වසර 6ක් සවිනොකර ගබඩාවක ඇති බැවින් ඒවා සවිකිරීමට කඩිනමින් අවශ්‍ය පියවර ගන්නා ලෙස රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ සභාපති රාජ්‍ය අමාත්‍ය ගරු ලසන්ත අලගියවන්න මහතා ආගමන හා විගමන දෙපාර්තමේන්තුවට දැනුම් දුන්නේය.
+
+...
+
+[Data](articles/fd694681.json)
+
+---
+
+### Allow 2,500 English teachers to recruit
 
 *2024-04-09 14:29:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-500-ஆங்கில-ஆசிரியர்களை-ஆட்சேர்ப்பு-செய்ய-அனுமதி/175-335784) · `ta`
 
-அனைவருக்கும் ஆங்கிலம்' திட்டத்தின் கீழ் 2,500 ஆங்கில ஆசிரியர்களை ஆட்சேர்ப்பு செய்வதற்கு அமைச்சரவை அங்கீகாரம் வழங்கப்பட்டுள்ளதாக அமைச்சரவைப் பேச்சாளரும் அமைச்சருமான பந்துல குணவர்தன தெரிவித்தார்.
+The Cabinet approved recruiting 2,500 English teachers, aiming to meet the demand for 6,500 teachers. The government plans to increase the number of schools offering English to 1,000, from 765.
 
-அமைச்சரவை முடிவுகளை அறிவிக்கும் வாராந்த கூட்டத்தில் உரையாற்றிய அவர், க.பொ.த சாதாரண தர (சா/த) பாடங்களை ஆங்கிலத்தில் கற்பிப்பதற்கு மொத்தம் 4,441 ஆங்கில ஆசிரியர்களுக்கு அனுமதி வழங்கப்பட்டுள்ளதாக தெரிவித்தார். இதற்கு 6,500 ஆங்கில ஆசிரியர்கள் தேவை எனவும் தெரிவித்தார்.
+🟩
 
-அதன்படி, இந்த ஆண்டு பாடசாலைகளின் எண்ணிக்கையை 1,000 ஆக உயர்த்த அரசு முடிவு செய்துள்ளது. 765 பாடசாலைகள் ஆங்கிலத்தில் பாடங்களை நடத்துகின்றன. மேலும், ஆங்கில ஆசிரியர்களின் எண்ணிக்கையை 6,500 ஆக அதிகரிக்க அரசாங்கம் திட்டமிட்டுள்ளதாகவும், இதற்கான அனுமதி அமைச்சரவையினால் வழங்கப்பட்டுள்ளதாகவும் அமைச்சர் குணவர்தன தெரிவித்தார்.
+Cabinet spokesman and Minister Bandula Gunawardena said that the Cabinet has approved the recruitment of 2,500 English teachers under the English 'program.
+
+Speaking at a weekly meeting announcing the Cabinet decisions, he said a total of 4,441 English teachers have been granted permission to teach the GCE Ordinary Level (S) subjects in English.. He also requires 6,500 English teachers.
+
+Accordingly, the government has decided to increase the number of schools this year to 1,000. 765 schools conduct lessons in English. Minister Gunawardena said the government is planning to increase the number of English teachers to 6,500 and the permission has been granted by the Cabinet.
 
 ◼️
 
 [Data](articles/37ce513b.json)
 
+[Extended Data](ext_articles/37ce513b.ext.json)
+
 ---
 
-### வன ஜீவராசிகள் திணைக்கள அதிகாரியைத் தாக்கிய நபர் கைது!
+### A man arrested for assaulting an official of the Department of Wildlife
 
 *2024-04-09 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/180809) · `ta`
 
-அம்பாறை வன பிரேதசத்துக்கு உட்பட்ட உஹன ஆதல்ஓயா கிராமத்தில் சட்டவிரோதமாக இறைச்சி விற்பனை செய்யப்படுவதாக கிடைத்த தகவலையடுத்து அங்கு சென்ற வன ஜீவராசி அதிகாரி மீது தாக்குதல் நடத்தப்பட்டுள்ளதாக வன ஜீவராசிகள் திணைக்களம் தெரிவித்துள்ளது.
+A man was arrested for assaulting a wildlife officer in Uhana Adaloya, Ampara Forest, after illegal meat sales were reported.
 
-இந்த சம்பவத்தில் தொடர்புடையவரும் சட்டவிரோதமாக இறைச்சி விற்பனை செய்தவரும் கைது செய்யப்பட்டுள்ளதுடன், பெருந்தொகையான இறைச்சியும்  கைப்பற்றப்பட்டுள்ளதாக அதிகதாரிகள் தெரிவித்தனர்.
+🟩
+
+The Forest Department has said that the wildlife officer has been attacked after receiving information that meat is being sold illegally in the village of Uhana Adaloya, which is under the Ampara Forest.
+
+Most of the people said that the illegal meat sold was arrested and a large amount of meat was seized.
 
 ◼️
 
 [Data](articles/a83cfdeb.json)
+
+[Extended Data](ext_articles/a83cfdeb.ext.json)
 
 ---
 
@@ -81,6 +123,18 @@ A retired living standard of Rs. 7,500 / - was handed over to 102 selected artis
 [Data](articles/34a2024e.json)
 
 [Extended Data](ext_articles/34a2024e.ext.json)
+
+---
+
+### මහින්දගෙන් ආණ්ඩුවට ප්‍රහාරයක්
+
+*2024-04-09 14:02:59* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දගෙන්-ආණ්ඩුවට-ප්‍රහාරයක්/11-409029) · `si`
+
+නාම යෝජනා බාර ගෙන ආණ්ඩුවේ බලපෑම මත කල් තබා ඇති නගර සභා -පාදේශීය සභා ජන්ද විමසීම පමාද කිරීම ඒකාධිපති කමයට අත වැනීමකි හා නගර සභා -පාදේශීය සභාවල මහජන චන්දයෙන් පත්වූ නියෝජිතයන් නොමැතිව නිලධාරීන් සිදුකරන පාලනය පුරවැසි අයිතිවාසිකම් උල්ලංඝනය කිරීමකි යන දැන්වීම් දෙකක් මැතිවරණ කොමිෂන් සභාවේ හිටපු සභාපති මහින්ද දේශපිය මහතා අම්බලන්ගොඩ පෝරඹ සිය නිවසේ තාප්පයේ අද(9) එල්ලුවේය.
+
+◼️
+
+[Data](articles/2515364c.json)
 
 ---
 
@@ -119,6 +173,22 @@ Due to this, the National Council for Road Safety has warned drivers of the poss
 [Data](articles/c8f683c8.json)
 
 [Extended Data](ext_articles/c8f683c8.ext.json)
+
+---
+
+### මෛත්‍රී තායිලන්ත සංචාරයක
+
+*2024-04-09 13:57:08* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-තායිලන්ත-සංචාරයක/11-409028) · `si`
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා තායිලන්තයේ සංචාරයක් සදහා 04/09 දින කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගිය බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා පැවසීය .
+
+ඔහු සමග තවත් 09 දෙනෙකු යුතු පිරිසක් ද පිටත්ව ගොස් ඇති බව සදහන් වේ .
+
+ඔවුන් 04/09 දින අලුයම 12.55 ට තායිලන්තයේ බැංකොක් නුවර බලා තායි ගුවන් සේවයේ ටී.ජී.-308 දරන ගුවන් යානයෙන් පිටත්ව ගොස් තිබේ .
+
+◼️
+
+[Data](articles/cb444f65.json)
 
 ---
 
@@ -2163,101 +2233,5 @@ In the article titled “Skywings Travel celebrates 30-year journey of Sri Lanka
 [Data](articles/1a64cd01.json)
 
 [Extended Data](ext_articles/1a64cd01.ext.json)
-
----
-
-### AASL restarts halted BIA-DP phase II with Access Engineering
-
-*2024-04-09 00:52:59* · [`dailyftlk`](https://www.ft.lk/business/AASL-restarts-halted-BIA-DP-phase-II-with-Access-Engineering/34-760482) · `en`
-
-Airport and Aviation Services (Sri Lanka) Ltd., (AASL) has initiated decisive measures to resume and complete the substructure works of the suspended BIA-DP Phase II project.
-
-The project, which faced termination on 9 December 2022 amid economic crisis, is now being revived under the stewardship of AASL management.
-
-The objective of the project is to finalise the substructure works left partially completed by the Japanese contractor. Earlier this month the Cabinet of Ministers approved the awarding of the contract on BIA-DP Phase II project to Access Engineering PLC.
-
-The strategic plan includes the installation of 68 remaining piles, construction of pile caps and ground beams at key areas such as the Main Terminal Building (MTB), Pier 2 and Pier 3. In addition, it includes the partial completion of the Underground Utility Tunnel in Pier No. 2 and Pier No. 3.
-
-...
-
-[Data](articles/56da449a.json)
-
-[Extended Data](ext_articles/56da449a.ext.json)
-
----
-
-### FREE TRADE ZONE MANUFACTURERS ASSOCIATION ELECTS NEW TEAM
-
-*2024-04-09 00:52:09* · [`dailyftlk`](https://www.ft.lk/business/FREE-TRADE-ZONE-MANUFACTURERS-ASSOCIATION-ELECTS-NEW-TEAM/34-760481) · `en`
-
-The Free Trade Zone Manufacturers Association (FTZMA) elected a new set of office bearers for the year 2024/25 at its 43rd Annual General Meeting held at “Courtyard by Marriott Colombo” recently.
-
-Tropical Findings Director Dhammika Fernando was re-elected as the Chairman for another term. Flintec Transducers Ltd. Managing Director Tyronne Weckasinghe was elected as the Honorary Secretary, Lalan Rubber Ltd. CEO Manjula Mahadanaarachchi as the Honorary Treasurer and ATG Ceylon Ltd. Managing Director Fazal Abdeen and Screenline Holdings Ltd. Managing Director Nishantha Bakmeege as Vice Chairmen. The rest of the Executive Committee was elected through a distinguished gathering of C-suite executives of all BOI member enterprises. Malaysia High Commissioner Badli Hisham Adam was the Chief Guest and BOI Director General Renuka Weerakoon was the Guest of Honour. Here is the FTZMA Executive Committee with the invited dignitaries.
-
-...
-
-[Data](articles/efa691cd.json)
-
-[Extended Data](ext_articles/efa691cd.ext.json)
-
----
-
-### Kolkata failed to shine in the field;7 wickets for Chennai lighter
-
-*2024-04-09 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180771) · `ta`
-
-Chennai Super Kings won by 7 wickets against Kolkata Knight Riders in IPL 2023, with Chennai scoring 141 in 17.4 overs. Kolkata scored 137 in 20 overs. Key performers for Chennai included Rutraj Gaikwad, Tryl Michelle, and Shivam Dubey. Jadeja set a record with 1000 runs, 100 wickets, and 100 balls in IPL.
-
-🟩
-
-Chennai Chepakkam MA against Kolkata Knight Riders. Chennai Super Kings, who shone in all fields at the Indian Premier League cricket match, won by 7 wickets at the Chidambaram Stadium on Monday (08).
-
-This is the 22nd match of the 17th Indian Premier League chapter in India.
-
-Chennai Super Kings lost 3 wickets in 17.4 overs with 141 runs in the match by winning 138 runs.
-
-The Kolkata Knight Riders team did not take carelessly as the players, and the Chennai Super Kings played the success of the Chennai Super Kings.
-
-Rachin Ravindra lost 15 runs, but team captain Rutraj Gaykwad confirmed the success of the team by creating a good connectivity with Tryl Michelle and Shivam Dubey.
-
-Rutraj Kaikwad, who shared 70 runs off 55 balls with Tryl Michelle in the second wicket, shared 38 runs with Shawam Dubey in the 3rd wicket.
-
-MS with 67 runs. Dhoni did not lose a run.
-
-Earlier, Kolkata Knight Riders, who were first invited to bat, scored 137 runs for the loss of 9 wickets in 20 overs.
-
-...
-
-[Data](articles/b2abf9ae.json)
-
-[Extended Data](ext_articles/b2abf9ae.ext.json)
-
----
-
-### The idea of the World Bank to turn Kandy into a green city - Bandula Gunawardena
-
-*2024-04-09 00:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180770) · `ta`
-
-Bandula Gunawardena, Transport Minister, announced the World Bank's plan to transform Kandy into a green city, focusing on transport, suburban development, and electric buses.
-
-🟩
-
-Transport, Highways and Mass Media Minister Bandula Gunawardena has said that the idea of the World Bank will be proposed to convert Kandy into a green city.
-
-The Minister said that in the next three years, the Green City Concept will be carried out by the Multi Transport Hub.
-
-He said this while speaking to the media after a discussion held on Sunday (07) at the Kandy Goodsheet Complex on the development and review of the development of a multi -storey transport station in Kandy.
-
-He pointed out that he did not engage in the development activities of the new media center to be constructed at a cost of Rs.
-
-He said that the development of the suburbs, including Katugastota, Kundasalai, Peradeniya and Thennakumbura, said that he would have two thousand crores of rupees for it and that he would discuss additional allocation of funds in the future.
-
-The Minister said that 200 electric buses will be issued to Kandy to carry out unprecedented transport activities to convert Kandy into a green city.
-
-...
-
-[Data](articles/706fef28.json)
-
-[Extended Data](ext_articles/706fef28.ext.json)
 
 ---

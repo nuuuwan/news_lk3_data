@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 03:33:48**
+As of **2024-04-10 03:50:57**
 
 ## Newspaper Stats
 
@@ -26,51 +26,75 @@ adaderanasinhalalk | 2,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,174 (100.0%) of 18,177 articles have been extended.
+18,177 (100.0%) of 18,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### நிமல் சிறிபாலவின் நியமனம் சட்டவிரோதமானது - உதய கம்மன்பில
+### Nimal Siripala's appointment is illegal - Udaya Kammanpila
 
 *2024-04-10 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180854) · `ta`
 
-...
+Udaya Kammanpila, LTTE leader, criticizes Nimal Siripala's appointment, arguing the SLFP's political committee requires the party leader's presence. Despite this, Chandrika Bandaranaike Kumaratunga leads a meeting, with SLFP activities under President Ranil Wickremesinghe. Kammanpila is negotiating a political coalition and aims to form a new alliance soon.
+
+🟩
+
+The leader of the Bhivithuru Hela Urumaya Party (LTTE) and Member of Parliament Udaya Kammanpila said on Tuesday (9) at a media briefing.He added that the political committee of the SLFP cannot be held without the party leader.But now the political committee meeting has been convened under the leadership of Chandrika Bandaranaike Kumaratunga, the party's all -party Chandrika Bandaranaike Kumaratunga. The activities of the Sri Lanka Freedom Party (SLFP) are being carried out with President Ranil Wickremesinghe.We are negotiating with all parties on the widespread political coalition. We will quickly establish a new political alliance before the day.
+
+◼️
 
 [Data](articles/e3c00332.json)
 
+[Extended Data](ext_articles/e3c00332.ext.json)
+
 ---
 
-### நோன்புப் பெருநாளை முன்னிட்டு முஸ்லிம் கைதுகளுக்கு விருந்தினர்களை பார்வையிட அனுமதி
+### Allow to visit guests for Muslim arrests on the occasion of fasting
 
 *2024-04-10 03:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180853) · `ta`
 
-நோன்புப் பெருநாளை முன்னிட்டு முஸ்லிம் சிறைக்கைதிகளுக்கு விருந்தினர்களை பார்வையிட அனுமதிக்க சிறைச்சாலைகள் திணைக்களம் தீர்மானித்துள்ளது. அதன் பிரகாரம் சிறைக்கைதிகளாக இருக்கும் முஸ்லிம் கைதிகளுக்கு நாளை 11ஆம் திகதி விருந்தினர்களை பார்வையிட தேவையான நடவடிக்கைகளை சிறைச்சாலை திணைக்களம்  எடுத்துள்ளதாக சிறைச்சாலை ஆணையாளர் (ஊடக பேச்சாளர்) காமினி பி. திஸாநாயக்க தெரிவித்துள்ளார்.
+The Department of Prisons allows Muslim prisoners to receive visits during Ramadan, ensuring they have home-cooked meals, essential items, and access to healthcare.
 
-அதனடிப்படையில், இஸ்லாம் மதத்தைச் சேர்ந்த சிறைக்கைதிகளின் உறவினர்களினால் தங்களின் வீடுகளில் இருந்து கொண்டுவரும் உணவு, இனிப்பு பண்டங்கள் மற்றும் அத்தியாவசிய பொருட்கள், ஒருவருக்கு தேவையான அளவு கொண்டுவர முடியும் என்பதுடன்  தற்போதுள்ள சட்ட திட்டங்கள் மற்றும் உரிய சுகாதார பாதுகாப்பு முறைமையின் கீழ் குறித்த பொருட்களை பெற்றுக்கொடு்க்க அனைத்து சிறைச்சாலை நிறுவனங்களும் நடவடிக்கை எடுத்துள்ளதாகவும்  அவர் விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
+
+The Department of Prisons has decided to allow Muslim prison guests to visit. According to the Prison Commissioner (Media Spokesman) Gamini B.. Dissanayake said.
+
+Accordingly, all prison companies have taken steps to bring in their homes, sweet commodities and essential items that are being brought from their homes by relatives of Islam, and the existing legal programs and the appropriate health care system have been taken.
 
 ◼️
 
 [Data](articles/dc0cd69b.json)
 
+[Extended Data](ext_articles/dc0cd69b.ext.json)
+
 ---
 
-### பரபரப்பான ஐபிஎல் போட்டியில் பஞ்சாப் கிங்ஸை 2 ஓட்டங்களால் வென்றது சன்ரைசர்ஸ் ஹைதராபாத்
+### Sunrisers Hyderabad beat Punjab Kings by 2 runs
 
 *2024-04-10 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180852) · `ta`
 
-மொஹாலி, மல்லன்பூர் மகாராஜா யாதவிந்த்ரா சிங் சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் செவ்வாய்க்கிழமை (09) கடைசிவரை மிகவும் பரபரப்பை ஏற்படுத்திய 17ஆவது இண்டியன் பிறீமியர் லீக் கிரிக்கெட் அத்தியாயத்தின் 23ஆவது போட்டியில் பஞ்சாப் கிங்ஸை 2 ஓட்டங்களால் சன்ரைசர்ஸ் ஹைதராபாத் வெற்றிகொண்டது.
+Sunrisers Hyderabad won by 2 runs against Punjab Kings in IPL 2023, with Punjab losing 6 wickets in 20 overs. Key performances included Nitish Kumar Reddy's 64 runs and Shashank Singh's 46 runs.
 
-சன்ரைசர்ஸ் ஹைதராபாத் இலகுவாக வெற்றிபெறும் என பஞ்சாப் கிங்ஸின் 15ஆவது ஓவரின்போது கணிப்பிடப்பட்டது. ஆனால், வெற்றி இலகுவாக கிடைக்கவில்லை. கடைசிப் பந்திலேயே சன்ரைசர்ஸ் ஹைதராபாத்தின் வெற்றி உறுதியானது.
+🟩
 
-183 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய பஞ்சாப் கிங்ஸ் 20 ஓவர்களில் 6 விக்கெட்களை இழந்து 180 ஓட்டங்களைப் பெற்று பரபரப்புக்கு மத்தியில் தோல்வி அடைந்தது.
+Sunrisers Hyderabad won the Punjab Kings by 2 runs in the 23rd match of the 17th Indian Premier League Cricket Chapter, which caused a stir at the end of Tuesday (09) at the Mahali and Malpur Maharaja Yadavindra Singh International Cricket Stadium.
 
-ஒரு கட்டத்தில் பஞ்சாப் கிங்ஸ் 15.3 ஓவர்களில் 6 விக்கெட்களை இழந்து 114 ஓட்டங்களைப் பெற்று தடுமாற்றத்தை எதிர்கொண்டது.
+Sunrisers Hyderabad will be easily successful in the Punjab Kings' 15th over. But, the success is unavailable lightly. Sunrisers Hyderabad's victory was firm in the last ball.
+
+Punjab Kings lost 6 wickets in 20 overs and lost 180 runs.
+
+At one point, Punjab Kings lost 6 wickets in 15.3 overs with 114 runs.
+
+However, Shashank Singh and Ashutosh Sharma were in a stunning batsman and survived Punjab Kingsung.. They shared 56 runs off 27 balls in the 7th wicket that was not divided. However, Punjab Kings failed by 3 runs to achieve their goal.
+
+Shashank Singh did not play with 25 balls with 6 fours, 46 runs, including one six, and Ashutosh Sharma scored 15 balls with 3 pounds and 2 sixes.
 
 ...
 
 [Data](articles/ec6f1c77.json)
+
+[Extended Data](ext_articles/ec6f1c77.ext.json)
 
 ---
 

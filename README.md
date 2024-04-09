@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 15:03:14**
+As of **2024-04-09 15:18:27**
 
 ## Newspaper Stats
 
-*Scraped **18,061** Articles*
+*Scraped **18,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,46 +19,80 @@ adalk | 1,523
 tamilmirrorlk | 2,121
 adaderanalk | 2,170
 virakesarilk | 2,660
-dailymirrorlk | 2,754
+dailymirrorlk | 2,755
 adaderanasinhalalk | 2,925
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,057 (100.0%) of 18,061 articles have been extended.
+18,061 (100.0%) of 18,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### டொலரின் இன்றைய பெறுமதி
+### World Netball bans transgender women from international competition
+
+*2024-04-09 14:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-Netball-bans-transgender-women-from-international-competition/108-280471) · `en`
+
+Apr. 9 (BBC) - World Netball has banned transgender women from competing in women's international competition.
+
+The ban comes in with immediate effect after the global governing body released a new participation and inclusion policy on Monday.
+
+World Netball said that after a lengthy consultation process it had determined international women's netball was a "gender affected activity".
+
+A new policy was required to ensure "fairness and safety", it added.
+
+Women's netball at international level will now be restricted to players "recorded as female at birth irrespective of gender identity" or transgender athletes who can demonstrate to World Netball's satisfaction "they have not experienced the biological effects of testosterone at any time".
+
+...
+
+[Data](articles/955701c3.json)
+
+---
+
+### Today's value
 
 *2024-04-09 14:42:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டொலரின்-இன்றைய-பெறுமதி/175-335785) · `ta`
 
-இன்று (09) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 294.0863 ஆகவும் விற்பனை விலை ரூபா 303.4415 ஆகவும் பதிவாகியுள்ளது.
+Today, the US dollar's buying price was Rs 294.0863, and the selling price was Rs 303.4415.
+
+🟩
+
+Based on the Central Bank today (09), the US dollar purchasing price was Rs 294.0863 and the sales price were 303.4415.
 
 ◼️
 
 [Data](articles/fc5f3f6a.json)
 
+[Extended Data](ext_articles/fc5f3f6a.ext.json)
+
 ---
 
-### ඊ-පාස්පෝට් නිකුත් කිරීම කඩිනම් කිරීමට නියෝග
+### Orders to expedite E-passport
 
 *2024-04-09 14:37:31* · [`adalk`](https://www.ada.lk/breaking_news/ඊ-පාස්පෝට්-නිකුත්-කිරීම-කඩිනම්-කිරීමට-නියෝග/11-409031) · `si`
 
-ආගමන විගමන දෙපාර්තමේන්තුවේ CCTV කැමරා වසර 6ක් ගබඩාවක - කඩිනමින් අවශ්‍ය පියවර ගෙන මැයි 15ට පෙර ප්‍රගතිය දැනුම් දෙන ලෙස කෝපා කමිටුවෙන් දැනුම් දෙයි
+The Department of Immigration & Emigration is under scrutiny for delays in E-passport issuance, CCTV camera installation, and airport congestion reduction. The Immigration Department's Head Office is being enabled, and attention is being paid to the status of Russian and Ukrainian visa holders.
 
-ප්‍රාදේශීය කාර්යාල මගින් ගමන් බලපත්‍ර නිකුත් කිරීමේදී නිසි ක්‍රියාවලියක් නොමැතිවීම නිසා  පවතින තදබදය ඇතුළු අඩුපාඩු පිළිබඳව ද අවධානය…
+🟩
 
-රුසියානු හා යුක්රේන ජාතිකයන් වීසා අවසන් වීමේන් පසුවද මෙරට රැදී සිටිමින් දකුණු ප්‍රදේශයේ ව්‍යාපාරවල නිරත වීම පිළිබඳවද අවධානය…
+CCTV cameras of the Department of Immigration & Emigration - 6 years in a warehouse - Progress of immediate steps
 
-ආගමන විගමන දෙපාර්තමේන්තුවේ ප්‍රධාන කාර්යාලයේ අභ්‍යන්තර පරිශ්‍රයේ සවිකිරීම සදහා මිලදී ගත් CCTV කැමරා උපකරණ වසර 6ක් සවිනොකර ගබඩාවක ඇති බැවින් ඒවා සවිකිරීමට කඩිනමින් අවශ්‍ය පියවර ගන්නා ලෙස රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ සභාපති රාජ්‍ය අමාත්‍ය ගරු ලසන්ත අලගියවන්න මහතා ආගමන හා විගමන දෙපාර්තමේන්තුවට දැනුම් දුන්නේය.
+Release of passports through Regional Offices
+
+Attention about Russian and Ukrainian visa finishes, staying in the country, staying in the country.
+
+Lasantha Alagiyawanna, the President of the Public Accounts, informed the Department of Immigration and Emigration to enable the Immigration Department's Head Office.
+
+It was revealed that these cameras purchased at a cost of 2.1 million rupees in 2017 and had not all the necessary accessories.. It was also revealed that the suspects were transferred to the transfer of the transfers.. The Chairman of the Chairman, which has pointed out that there is an additional secretary of the Ministry of Public Defense and the CCTV camera system to install the CCTV camera system before May 15.
 
 ...
 
 [Data](articles/fd694681.json)
+
+[Extended Data](ext_articles/fd694681.ext.json)
 
 ---
 
@@ -126,15 +160,21 @@ A retired living standard of Rs. 7,500 / - was handed over to 102 selected artis
 
 ---
 
-### මහින්දගෙන් ආණ්ඩුවට ප්‍රහාරයක්
+### Mahinda attacked
 
 *2024-04-09 14:02:59* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දගෙන්-ආණ්ඩුවට-ප්‍රහාරයක්/11-409029) · `si`
 
-නාම යෝජනා බාර ගෙන ආණ්ඩුවේ බලපෑම මත කල් තබා ඇති නගර සභා -පාදේශීය සභා ජන්ද විමසීම පමාද කිරීම ඒකාධිපති කමයට අත වැනීමකි හා නගර සභා -පාදේශීය සභාවල මහජන චන්දයෙන් පත්වූ නියෝජිතයන් නොමැතිව නිලධාරීන් සිදුකරන පාලනය පුරවැසි අයිතිවාසිකම් උල්ලංඝනය කිරීමකි යන දැන්වීම් දෙකක් මැතිවරණ කොමිෂන් සභාවේ හිටපු සභාපති මහින්ද දේශපිය මහතා අම්බලන්ගොඩ පෝරඹ සිය නිවසේ තාප්පයේ අද(9) එල්ලුවේය.
+MahindaDeshape, NIA Chairman, hacked his house in Kotambalangoda.
+
+🟩
+
+Formulating the dictatorship and the administration of the Urban Councils without the influence of the government of Urban Councils without the infrastructure of the Urban Councils - Urban Councils without representatives from the Urban Councils - NIA Chairman MahindaDeshape, Kotambalangoda hacked his house in his house today (9).
 
 ◼️
 
 [Data](articles/2515364c.json)
+
+[Extended Data](ext_articles/2515364c.ext.json)
 
 ---
 
@@ -176,19 +216,25 @@ Due to this, the National Council for Road Safety has warned drivers of the poss
 
 ---
 
-### මෛත්‍රී තායිලන්ත සංචාරයක
+### Maithri on a tour of Thailand
 
 *2024-04-09 13:57:08* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-තායිලන්ත-සංචාරයක/11-409028) · `si`
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා තායිලන්තයේ සංචාරයක් සදහා 04/09 දින කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගිය බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා පැවසීය .
+Former President Maithripala Sirisena visited Thailand on 04/09, accompanied by seven others, arriving in Bangkok at 12.55 am on Thai Airlines.
 
-ඔහු සමග තවත් 09 දෙනෙකු යුතු පිරිසක් ද පිටත්ව ගොස් ඇති බව සදහන් වේ .
+🟩
 
-ඔවුන් 04/09 දින අලුයම 12.55 ට තායිලන්තයේ බැංකොක් නුවර බලා තායි ගුවන් සේවයේ ටී.ජී.-308 දරන ගුවන් යානයෙන් පිටත්ව ගොස් තිබේ .
+Former President Maithripala Sirisena left the Katunayake airport on 04/09 for a visit to Thailand.
+
+It is said that seven more were left with him.
+
+They were 12.55 am on the morning of 12.55 am in Bangkok, Thai Airlines, at Thailand.
 
 ◼️
 
 [Data](articles/cb444f65.json)
+
+[Extended Data](ext_articles/cb444f65.ext.json)
 
 ---
 
@@ -2219,19 +2265,5 @@ Canadian High Comm-issioner Eric Walsh met with the Board of Investment Chairman
 [Data](articles/ecf34535.json)
 
 [Extended Data](ext_articles/ecf34535.ext.json)
-
----
-
-### Correction
-
-*2024-04-09 00:53:43* · [`dailyftlk`](https://www.ft.lk/business/Correction/34-760483) · `en`
-
-In the article titled “Skywings Travel celebrates 30-year journey of Sri Lankan heritage” published yesterday in the Daily FT, the picture captions should be corrected as follows. We regret the error.
-
-◼️
-
-[Data](articles/1a64cd01.json)
-
-[Extended Data](ext_articles/1a64cd01.ext.json)
 
 ---

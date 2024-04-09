@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 18:09:59**
+As of **2024-04-09 18:21:44**
 
 ## Newspaper Stats
 
-*Scraped **18,097** Articles*
+*Scraped **18,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,46 @@ islandlk | 992
 economynextcom | 1,004
 adalk | 1,527
 tamilmirrorlk | 2,122
-adaderanalk | 2,175
+adaderanalk | 2,176
 virakesarilk | 2,669
 dailymirrorlk | 2,761
-adaderanasinhalalk | 2,935
+adaderanasinhalalk | 2,936
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,094 (100.0%) of 18,097 articles have been extended.
+18,097 (100.0%) of 18,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### 779 prisoners to be pardoned for Sinhala and Tamil New Year
+
+*2024-04-09 18:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98541/779-prisoners-to-be-pardoned-for-sinhala-and-tamil-new-year) · `en`
+
+In view of the Sinhala and Tamil New Year, President Ranil Wickremesinghe will grant Presidential pardons to 779 prisoners in accordance with Article 34(1) of the Constitution, the President’s Media Division (PMD) said.
+
+◼️
+
+[Data](articles/d4069c42.json)
+
+---
+
+### අලුත් අවුරුද්ද වෙනුවෙන් 779 දෙනෙකුට ජනාධිපති සමාව
+
+*2024-04-09 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195481) · `si`
+
+සිංහල හා දෙමළ අලුත් අවුරුද්ද වෙනුවෙන් සිරකරුවන් 779 දෙනෙකුට ජනාධිපති සමාව ප්‍රදානය කෙරෙන බව ජනාධිපති මාධ්‍ය අංශය පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 34(1) ව්‍යවස්ථාව ප්‍රකාරව එලෙස ජනාධිපති සමාව ප්‍රදානය කරන බවද ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/98c2d291.json)
+
+---
 
 ### International court rules Switzerland violated human rights in landmark climate case brought by 2,000 women
 
@@ -48,29 +74,37 @@ This amounted to a breach of the women’s rights to effective protection from t
 
 [Data](articles/eb3e45df.json)
 
+[Extended Data](ext_articles/eb3e45df.ext.json)
+
 ---
 
-### පන්සලේදී ඝාතනය වූ බවට සැක පුද්ගලයා ගැන අලුත් කතාවක්
+### A new story about the suspect who was killed in the temple
 
 *2024-04-09 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195480) · `si`
 
-මහනුවර ගැටඹේ දියකපනාතොට ශ්‍රී රක්ඛංග විහාර පරිශ්‍රයේදී ඝාතනයට ලක්වූ බවට පැවසෙන පුද්ගලයාගේ දේහය භාරගැනීම ඔහුගේ ඥාතීන් විසින් ප්‍රතික්ෂේප කර ඇති බවට වාර්තාවෙයි.
+A suspect killed in Kandy's Vihara was refused by relatives, leading to his body's handling by police. The Chief Incumbent and a civil guard were arrested. His divorced wife and current partner denied accepting the body. The police, due to these complications, will handle the body's final proceedings. Further investigations are ongoing.
 
-යම්කිසි අපරාධයක් සඳහා පන්සල තුළට ඇතුල් වූ බවට ඇතිවූ සැකය මත සිදුකළ පහරදීමකින් ඔහු මියයන්නට ඇති බවට පොලීසිය සැකපළ කරයි.
+🟩
 
-එම ඝාතනය සම්බන්ධයෙන් මේ වනවිට ශ්‍රී රක්ඛංග විහාරයේ විහාරාධිපති හිමි සහ සිවිල් ආරක්ෂක භටයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+It is reported that his relatives have refused to accept the body of the person who was killed at the Vihara premises in Kandy.
 
-ඔහුගේ පළමු විවාහයේ බිරිඳ පවසා ඇත්තේ දික්කසාද වී ඇති බැවින් දේහය භාරගැනීමට නොහැකි බවය.
+Police suspect that he had died in a suspicion that he had entered the temple for a crime.
 
-එසේම මියයන අවස්ථාව වනවිට ඔහු සමග වාසය කළ කාන්තාව පොලීසිය වෙත පවසා ඇත්තේ තමන් කුලී පදනම මත සිටින බැවින් දේහය භාරගැනීමට නොහැකි බවය.
+The Chief Incumbent of the Sri Rakkikhaganga Viharaya and a civil guard have been arrested by the police.
 
-ඒ අනුව දේහය භාරගැනීමට කිසිවෙකුත් ඉදිරිපත් නොවීම හේතුවෙන් දේහය පිළිබඳව අවසන් කටයුතු රජයේ වියදමින් සිදුකිරීම සඳහා අවශ්‍ය ඉදිරි අධිකරණමය කටයුතු සිදුකිරීමට පොලීසිය තීරණය කර ඇත.
+The wife of his first marriage has said that the body cannot be accepted as divorced.
 
-මේ අතර මෙම ඝාතනය සම්බන්ධයෙන් ඉදිරි පරීක්ෂණ කටයුතු මහනුවර පොලීසිය විසින් සිදුකරනු ලබයි.
+The woman who lived with him had told the police that the body could not be accepted as he is on rent basis.
+
+Accordingly, the police have decided to carry out the final proceedings of the government at the expense of the bodies due to the presentation of the body.
+
+Meanwhile, the Kandy Police are conducting further investigations into the murder.
 
 ◼️
 
 [Data](articles/04bd9d5b.json)
+
+[Extended Data](ext_articles/04bd9d5b.ext.json)
 
 ---
 
@@ -802,21 +836,29 @@ Accordingly, over 7,350 security personnel have already been deployed with 5,580
 
 ---
 
-### අවුරුදු 15ක පාසල් සිසුවියකට අතවර කළ ක්‍රීඩා ගුරුවරයෙකු අත්අඩංගුවට
+### Teaching teacher arrested for a 15 year old school girl
 
 *2024-04-09 14:56:40* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-15ක-පාසල්-සිසුවියකට-අතවර-කළ ක්‍රීඩා-ගුරුවරයෙකු-අත්අඩංගුවට/11-409034) · `si`
 
-බුත්තල අධ්‍යාපන කොට්ඨාසයේ පාසලක 11 වසරේ ඉගෙනුම ලබන පාසල් ශිෂ්‍යාවක් සමඟ ප්‍රේම සම්බන්ධතාවයක් පවත්වාගෙන ගිය එම පාසලේ ක්‍රීඩා ගුරුවරයා ඇයට ලිංගික අතවරයක්කිරීම සම්බන්ධයෙන් බුත්තල පොලීසිය මඟින් ඉකුත් (08) වෙනිදා අත්අඩංගුවටගෙන ඇත.
+Buttala police arrested a 33-year-old sports teacher for a 15-month romantic relationship with a student. The teacher, from Butat, was arrested after the girl's father was informed. The girl is receiving treatment at Kandy General Hospital. The police are investigating further.
 
-සැකකරු බුත්තල යුදඟනාව ජනපදයේ පදිංචි 33 හැවිරිදි අයෙකි. සැකකරු දැරියට අවුරුදු 15 මාස 04 වන 2022 නොවැම්බර් මාසයේදී ප්‍රේම සම්බන්ධතාවයක් පවත්වාගෙන ගොස් ඇයගේ කැමැත්ත මත නිවසෙන් පිටතටගෙන ඇයගේ නිවස පිටුපසදී රාත්‍රී 12.30 පමණ ලෙස අඹු සැමියන් ලෙස හැසිරී ඇති අතර 2024/03/29 දින රාත්‍රී 12.30 පමණ ඇය සමඟ කථාබස්කර ඇයව නිවසෙන් පිටතටගෙන එම නිවස පිටුපස මඩුවකදීද අතවරයට ලක් කර ඇත.
+🟩
 
-මෙම ප්‍රේම සම්බන්ධතාවය දැරියගේ පියා දැනගැනීමෙන් පසු එය නතරකරන ලෙස අවවාදකිරීම නිසා 2024/04/04 වෙනි දින දැරිය වස වර්ගයක් පානයකොට දැනට මොනරාගල දිස්ත්‍රික් මහ රෝහලේ ප්‍රතිකාර ලබමින් පසුවේ.
+Buttala police have arrested the sports teacher who had a romantic teacher in a school student with a school student in a school in the Buttala Education Division.
 
-අයගේ තත්වය බරපතළ නොවන අතර පොලීසිය ප්‍රශ්නකිරීමේදී පාසලේ ක්‍රීඩා ගුරුවරයා සමඟ අවස්ථා කිහිපයකදී අඹුසැමියන් ලෙස හැසිරුණු බව පොලීසියට පවසා ඇත.
+The suspect is a 33 year old resident of Butat in Buttala.The suspect has operated a romantic relationship for the 15th month of a romantic relationship, and around 12.30 pm on her house, and chat with her house, while he was about 12:30 pm on her home and behind her home behind the houseAltered in a shed.
 
-...
+The girl is receiving treatment at the Moneragala district at the Kandy General Hospital due to warning the girl's father after learning it.
+
+The situation is not serious and the police have told the police that the school was conducting several occasions with the sports teacher of the school.
+
+The suspect has been arrested by the police and will be produced before the Wellawaya Magistrate's Court.Buttala Police OIC Mr. WMJ Bandara is conducting further investigations.
+
+◼️
 
 [Data](articles/ba22e526.json)
+
+[Extended Data](ext_articles/ba22e526.ext.json)
 
 ---
 
@@ -2281,47 +2323,5 @@ Secretary to the Federation Federation of the Federation of the University of Co
 [Data](articles/5a76b11d.json)
 
 [Extended Data](ext_articles/5a76b11d.ext.json)
-
----
-
-### Sri Lanka captain Chamari quashes retirement speculation; sets sight on T20 WC Qualifiers
-
-*2024-04-09 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98527/sri-lanka-captain-chamari-quashes-retirement-speculation-sets-sight-on-t20-wc-qualifiers) · `en`
-
-Sri Lanka Women’s team captain Chamari Athapaththu has cleared the air about her future in international cricket.
-
-Chamari Athapaththu has her focus entirely on the upcoming ICC Women’s T20 World Cup Qualifiers, after which she will decide her future in international cricket.
-
-Athapaththu stirred up speculation within the cricketing community by dropping hints about retirement in a now-deleted Facebook post, where she mentioned ‘last duty for my country’ following Sri Lanka’s remarkable T20I series victory over South Africa.
-
-Now, prior to the ODI series against South Africa, the 34-year-old emphasised that her primary focus lies on the upcoming commitments for Sri Lanka
-
-“I’m still not decided [on retirement],” Athapaththu said on the eve of the first ODI against the Proteas. “We can talk about it later. At the moment, I’m focused on the [South Africa] ODIs and World Cup qualifiers. Let’s see in the future.”
-
-...
-
-[Data](articles/c16767df.json)
-
-[Extended Data](ext_articles/c16767df.ext.json)
-
----
-
-### Sri Lanka hard-pressed against time to conclude agreements for debt restructuring
-
-*2024-04-09 08:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-hard-pressed-against-time-to-conclude-agreements-for-debt-restructuring/108-280442) · `en`
-
-Colombo, April 9 (Daily Mirror) - Sri Lanka is hard-pressed against time to reach agreements with creditors including bondholders before June, when the third tranche of the International Monetary Fund (IMF) extended fund facility is expected, Daily Mirror learns.
-
-Sri Lanka is expected to get the next tranche of US $ 337 million in June after the third review of the programme.
-
-Before that, Sri Lanka has to sign the MoU with the Paris Club of Nations on restructuring bilateral debts while signing a separate agreement with China for the same purpose but on terms acceptable to all the bilateral creditors.
-
-Asked about the latest developments, a government source said the government to finalize the agreements in principle with commercial creditors including bondholders before that.
-
-...
-
-[Data](articles/6ab5b67d.json)
-
-[Extended Data](ext_articles/6ab5b67d.ext.json)
 
 ---

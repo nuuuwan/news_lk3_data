@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 17:03:20**
+As of **2024-04-09 17:18:12**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,933
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,083 (100.0%) of 18,089 articles have been extended.
+18,089 (100.0%) of 18,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### කෙහෙළියගේ පෙත්සම ගැන තීරණයක් 30 වනදා
+### Decision on Keheliya's petition on 30th
 
 *2024-04-09 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195477) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඉදිරිපත් කළ පෙත්සම විභාග කිරීම සඳහා නොතිසි නිකුත් කරන්නේද? නැද්ද? යන තීරණය ලබන 30 වනදා ප්‍රකාශයට පත්කරන බව අභියාචනාධිකරණය අද (09) නිවේදනය කළේය.
+The Court of Appeal will announce Keheliya Rambukwella's petition decision on 30th.
 
-ඒ, ප්‍රමිතියෙන් තොර ප්‍රතිදේහ ඖෂධ මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් නඩු විභාගය අවසන් වන තෙක් තමන්ව රක්ෂිත බන්ධනාගාරගත කිරීමට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය දී තිබෙන නියෝගය බල රහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා කෙහෙළිය රඹුක්වැල්ල ඉදිරිපත් කළ පෙත්සම සම්බන්ධයෙනි.
+🟩
 
-අදාළ පෙත්සම සම්බන්ධයෙන් දීර්ඝ ලෙස කරුණු සලකා බැලීමෙන් අනතුරුව අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් මහතා විසින් මේ බව නිවේදනය කළේය.
+Is the former Health Minister Keheliya Rambukwella issues the petition issued by the former Health Minister Keheliya Rambukwella?Not?The Court of Appeal today announced that the decision would be announced on the 30th.
+
+The petition filed by Keheliya Rambukwella to be remanded until the end of the priority of non-substandard antiable antibodies.
+
+Appeal Court Judge D. N. Mr. Samarakoon announced this.
 
 ◼️
 
 [Data](articles/642699c3.json)
+
+[Extended Data](ext_articles/642699c3.ext.json)
 
 ---
 
@@ -62,37 +68,13 @@ The Education Ministry also mentioned that the second phase of the first school 
 
 [Data](articles/a670d188.json)
 
----
-
-### පැනමා පේපර්ස් නඩුව ඇරඹෙයි
-
-*2024-04-09 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195476) · `si`
-
-පැනමා පේපර්ස් මුදල් විශුද්ධිකරණ ජාවාරම සම්බන්ධයෙන් චෝදනා එල්ලවූ චුදිතයින් 27 දෙනෙකුට එරෙහි නඩු විභාගය පනමාවේ අපරාධ අධිකරණයකදී ආරම්භ වී තිබේ.
-
-2016 වසරේදී පිටවූ වූ රහස්‍ය මූල්‍ය ලේඛන මගින් ලොව බොහෝ ධනවත් පුද්ගලයින් ඔවුන්ගේ ධනය නීතිවිරෝධී ලෙස අක්වෙරළ සමාගම් වල රඳවා ඇති ආකාරය හෙළිදරව් විය.
-
-මෙම නඩුවේ විත්තිකරුවන් වන්නේ Jurgen Mossack සහ Ramon Fonseca Mora ඇතුළු පුද්ගලයින් පිරිසකි.
-
-ඔවුන් Mossack Fonseca නම් නීති සමාගමක් පිහිටුවා එම වංචාව සිදුකර තිබුණි.
-
-නමුත් එම සමාගම පවසන්නේ ඔවුන් ජාත්‍යන්තර හැකරුන්ගේ ගෙඔදුරක් වූ බවයි.
-
-එසේම පිටවූ තොරතුරු වැරදි ලෙස නිරූපණය කර ඇති බවද එම සමාගම පැවසීය.
-
-වැරදිකරුවන් වුවහොත් Mossack ට සහ Fonseca ට වසර 12 බැගින් සිරදඬුවම් හිමිවෙතැයි සඳහන් ය.
-
-එම හෙළිදරව්වේදී මූල්‍ය තොරතුරු අඩංගු ලේඛන මිලියන 11ක් පමණ පිටකර තිබුණි. එමගින් දේශපාලනඥයින්, ප්‍රබල රාජ්‍ය නිලධාරීන්, බිලියනපතීන් සහ ක්‍රීඩා තරු වෙත චෝදනා එල්ල විය.
-
-◼️
-
-[Data](articles/e1d7187a.json)
+[Extended Data](ext_articles/a670d188.ext.json)
 
 ---
 
 ### A man arrested for attempting to smuggle beedi leaves in Kalpitiya
 
-*2024-04-09 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180836) · `ta`
+*2024-04-09 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180836) · `ta`
 
 A man was arrested for smuggling 500 kg of beedi leaves in Kalpitiya, worth over Rs 30 lakh, by the Puttalam Regional Transport Police.
 
@@ -115,6 +97,38 @@ The Puttalam Regional Transport Police Officer said that the beedi leaves seized
 [Data](articles/db297c65.json)
 
 [Extended Data](ext_articles/db297c65.ext.json)
+
+---
+
+### Panama Papers' starts
+
+*2024-04-09 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195476) · `si`
+
+The Panama Papers trial, involving 27 defendants accused of cash laundering, began. Accusations include wealthy individuals using offshore companies, including Mossack Fonseca. The defendants claim to be hackers and that the information was misrepresented. If found guilty, they face up to 12 years in prison. The leak revealed about 11 million documents, implicating politicians, officials, and celebrities.
+
+🟩
+
+The trial against 27 accusations against Panama Papers cash laundering racket has begun in a criminal court.
+
+The confidential financial documents exited in 2016 was revealed by many rich persons in the world with their wealth illegally in acrestry companies.
+
+The defendants in this case are people including Jurten Mossack and Ramon Fonseca Moraa.
+
+They had established a legal company named Mosac Fonseca.
+
+However, the company says they were an international hackers.
+
+The company also said that information has been misrepresented information.
+
+If it is guilty, MosesAck and Fonseca say that 12 years in prison.
+
+About 11 million documents contained in that revelation. It was accused of politicians, powerful government officials, bbur and sports stars.
+
+◼️
+
+[Data](articles/e1d7187a.json)
+
+[Extended Data](ext_articles/e1d7187a.ext.json)
 
 ---
 
@@ -184,6 +198,8 @@ Meanwhile, the Health Ministry also expressed that recognizing the importance of
 
 [Data](articles/27d02295.json)
 
+[Extended Data](ext_articles/27d02295.ext.json)
+
 ---
 
 ### First school term ends tomorrow
@@ -199,6 +215,8 @@ The second phase of the first school term for Muslim schools will start on April
 ◼️
 
 [Data](articles/3ab85d33.json)
+
+[Extended Data](ext_articles/3ab85d33.ext.json)
 
 ---
 
@@ -297,6 +315,8 @@ Upon completion of this runway expansion, the airport will be capable of accommo
 ...
 
 [Data](articles/50dd7ab1.json)
+
+[Extended Data](ext_articles/50dd7ab1.ext.json)
 
 ---
 

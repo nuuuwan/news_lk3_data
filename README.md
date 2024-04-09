@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 00:18:26**
+As of **2024-04-10 00:34:41**
 
 ## Newspaper Stats
 
-*Scraped **18,155** Articles*
+*Scraped **18,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,19 +16,53 @@ dailyftlk | 987
 islandlk | 992
 economynextcom | 1,015
 adalk | 1,531
-tamilmirrorlk | 2,126
+tamilmirrorlk | 2,127
 adaderanalk | 2,180
 virakesarilk | 2,683
-dailymirrorlk | 2,773
+dailymirrorlk | 2,775
 adaderanasinhalalk | 2,943
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,155 (100.0%) of 18,155 articles have been extended.
+18,155 (100.0%) of 18,158 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-04-10 (Wednesday)
+
+### New Year, tough times and animal abuse - E
+
+*2024-04-10 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/New-Year-tough-times-and-animal-abuse-E/172-280493) · `en`
+
+We wish our readers a happy and bountiful New Year, as the country celebrates its cultural festival this month. On the 13th of this month, the two major communities in our country Tamils and the Sinhalese celebrate the Eastern or cultural New Year. Around the same time, our Muslim brothers and sisters celebrate Ramadan, while Christians celebrate Easter.
+
+The ‘Adhi Vasies’- also known as the ‘Veddahs’ also celebrate the New Year or ‘Kona Mangalaya’ during this time. Within the month all communities celebrate.
+
+This year too, since the Covid-19 pandemic hit our country in January 2020, New Year celebrations will be held on an austere basis. Over 500,000 persons lost employment due to the lockdowns imposed during that period.
+
+Making a bad situation worse, the financial meltdown in 2022 led the country to announce it was bankrupt. The country was thus deemed not credit-worthy by the world’s financial institutions.
+
+...
+
+[Data](articles/67ee24d8.json)
+
+---
+
+### Sri Lanka best  place for solo female travel and belittling country
+
+*2024-04-10 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sri-Lanka-best-place-for-solo-female-travel-and-belittling-country/172-280492) · `en`
+
+The British travel magazine Time Out ranked Sri Lanka as the best place for solo female travel.
+
+I have written in these pages that Sri Lankans, more than anyone else, have done a spectacular job in disparaging their country at home and abroad. The genesis of this particular penchant is multifaceted. Some are innately bitter, some are attention-seeking, and others seek validation. For certain others, this represents an escapism from an existential identity crisis. Most of them live in an eternal gripe. So whenever the country gets a positive mention, their egos are prickled, their heartbeat rises, and they resurface, like earthworms after the rain, to contest, talk trash and scandalize.
+
+...
+
+[Data](articles/6bc2caef.json)
+
+---
 
 ### 2024-04-09 (Tuesday)
 
@@ -61,6 +95,20 @@ In bowling, Saris Pavli took 2 wickets for 16 runs, Amuruda Suren Kumar took 2 w
 [Data](articles/508795e5.json)
 
 [Extended Data](ext_articles/508795e5.ext.json)
+
+---
+
+### 779 கைதிகளுக்கு பொது மன்னிப்பு
+
+*2024-04-09 23:40:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/779-கைதிகளுக்கு-பொது-மன்னிப்பு/175-335808) · `ta`
+
+தமிழ், சிங்களப் புத்தாண்டை முன்னிட்டு 779 கைதிகளுக்கு பொது மன்னிப்பு வழங்க ஜனாதிபதி தீர்மானித்துள்ளார்.
+
+அரசியலமைப்பின் 34(1) பிரிவிற்கமைவாக ஜனாதிபதியின் அதிகாரங்களைப் பயன்படுத்தி இந்த விசேட பொது மன்னிப்பு வழங்கப்படவுள்ளது. (a)
+
+◼️
+
+[Data](articles/27a9b02d.json)
 
 ---
 
@@ -2263,65 +2311,5 @@ Formulating the dictatorship and the administration of the Urban Councils withou
 [Data](articles/2515364c.json)
 
 [Extended Data](ext_articles/2515364c.ext.json)
-
----
-
-### The banners of the hera will be displayed against the dictatorial system
-
-*2024-04-09 14:02:59* · [`adalk`](https://www.ada.lk/breaking_news/ඒකාධිපති-ක්‍රමයට-එරෙහිව-මහින්ද-තාපයේ-බැනර්-ප්‍රදර්ශණය-කරයි/11-409029) · `si`
-
-Hera banners oppose dictatorship. Urban Councils' administration, without government influence or infrastructure, lacks representatives. NIA Chairman MahindaDeshape's house in Kotambalangoda was hacked today.
-
-🟩
-
-Formulating the dictatorship and the administration of the Urban Councils without the influence of the government of Urban Councils without the infrastructure of the Urban Councils - Urban Councils without representatives from the Urban Councils - NIA Chairman MahindaDeshape, Kotambalangoda hacked his house in his house today (9).
-
-◼️
-
-[Data](articles/8705f9f7.json)
-
-[Extended Data](ext_articles/8705f9f7.ext.json)
-
----
-
-### Sri Lanka expects up to 200 thousand vehicles on the road in New Year
-
-*2024-04-09 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-up-to-200-thousand-vehicles-on-the-road-in-new-year-158020/) · `en`
-
-ECONOMYNEXT- Sri Lanka expects 150,000 to 200,000 vehicles on the road during the April New Year season, compared to around 110,000 seen on other days, Road Development Authority Director General, S L P Suriyabandara said.
-
-“We usually see a 100,000 to a 110,000 cars a month,” Suriyabandara said at a press conference on Tuesday. “However, for the Christmas season we saw around 145,000 cars, and for the new year season we expect 150-200,000 cars.”
-
-Suriyabandara said that vehicles are expected to flood the roads from April 16 to April 18 as those who went on holiday or to visit relatives head back to Colombo.
-
-Due to this, the National Council for Road Safety has warned drivers of the possibility of increased road accidents in the Sinhala and Tamil New Year season.
-
-...
-
-[Data](articles/c8f683c8.json)
-
-[Extended Data](ext_articles/c8f683c8.ext.json)
-
----
-
-### Maithri on a tour of Thailand
-
-*2024-04-09 13:57:08* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-තායිලන්ත-සංචාරයක/11-409028) · `si`
-
-Former President Maithripala Sirisena visited Thailand on 04/09, accompanied by seven others, arriving in Bangkok at 12.55 am on Thai Airlines.
-
-🟩
-
-Former President Maithripala Sirisena left the Katunayake airport on 04/09 for a visit to Thailand.
-
-It is said that seven more were left with him.
-
-They were 12.55 am on the morning of 12.55 am in Bangkok, Thai Airlines, at Thailand.
-
-◼️
-
-[Data](articles/cb444f65.json)
-
-[Extended Data](ext_articles/cb444f65.ext.json)
 
 ---

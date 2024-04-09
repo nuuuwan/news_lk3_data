@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 08:34:08**
+As of **2024-04-09 08:52:35**
 
 ## Newspaper Stats
 
-*Scraped **17,981** Articles*
+*Scraped **17,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,70 +17,110 @@ islandlk | 992
 economynextcom | 996
 adalk | 1,513
 tamilmirrorlk | 2,112
-adaderanalk | 2,160
+adaderanalk | 2,161
 virakesarilk | 2,646
-dailymirrorlk | 2,738
+dailymirrorlk | 2,740
 adaderanasinhalalk | 2,913
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,972 (99.9%) of 17,981 articles have been extended.
+17,981 (100.0%) of 17,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### ඉස්ලාම් ආගමික රැඳවියන් ගැන විශේෂ තීරණයක්
+### Showers expected in parts of the island
+
+*2024-04-09 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98526/showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers may occur at a few places in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts after 2.00 p.m.
+
+Misty conditions can be expected at some places in Western, Central and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+On the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka during 05th to 15th of April in this year.
+
+The nearest areas of Sri Lanka over which the sun is overhead today (09) are Udappu, Andigama, Pidivilla, Bakamuna, Nuwaragala and Eravur at about 12:11 noon.
+
+◼️
+
+[Data](articles/8ceda248.json)
+
+---
+
+### Special decision on Islamic inmates
 
 *2024-04-09 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195457) · `si`
 
-මෙවර රාමසාන් දිනය නිමිත්තෙන් බන්ධනාගාරගත ඉස්ලාම් ආගමික රැඳවියන්ට අමුත්තන් පෙන්වීමට බන්ධනාගාර දෙපාර්තමේන්තුව පියවර ගෙන තිබේ.
+The prison department has made special arrangements for Islamic inmates during Ramadan, including allowing only confectionery and sanitation items for visitors. Commissioner General Gamini B. Gamini B. Dissanayake emphasized these measures.
 
-ඒ අනුව අප්‍රේල් මස 11 වන දිනට යෙදෙන රාමසාන් දිනය වෙනුවෙන් බන්ධනාගාරගත ඉස්ලාම් ආගමික රැඳවියන් සඳහා පමණක් එදින අමුත්තන් පෙන්වීමේ කටයුතු සිදුකිරීමට නියමිත බව බන්ධනාගාර කොමසාරිස් ගාමිණී බී. දිසානායක මහතා සඳහන් කළේය.
+🟩
 
-ඉස්ලාම් ආගමික රැඳවියන්ගේ ඥාතීන් විසින් රැගෙන එනු ලබන ආහාර, රසකැවිලි හා සනීපාරක්ෂක ද්‍රව්‍ය එක් අයෙකුට සරිලන ප්‍රමාණ‍යක් පමණක් ගෙන ඒමට උපදෙස් ලබාදී තිබේ.
+The prison department has taken steps to show the visitors to the Ramadan Day this time.
 
-පවතින නීතිරීති හා නියමිත සෞඛ්‍ය ආරක්ෂිත ක්‍රම‍වේදයන් යටතේ  ඒවා ලබාදීමට සියලු බන්ධනාගාර ආයතන කටයුතු කරනු ඇති බව ද බන්ධනාගාර කොමසාරිස් ගාමිණී බී. දිසානායක මහතා සඳහන් කළේය.
+Accordingly, the Commissioner General of Prisons Gamini B. Gamini B. Gamini B.. Dissanayake added.
+
+The limestone brought by relatives of Islamic detainees have been instructed to bring only a sufficient amount of confectionery and sanitation.
+
+Prison commissioners Gamini B. Gamini B.. Dissanayake added.
 
 ◼️
 
 [Data](articles/912ab124.json)
 
+[Extended Data](ext_articles/912ab124.ext.json)
+
 ---
 
-### தலைபிறை பார்க்கும் மாநாடு இன்று
+### Title Watching Conference Today
 
 *2024-04-09 08:09:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலைபிறை-பார்க்கும்-மாநாடு-இன்று/175-335777) · `ta`
 
-ஹிஜ்ரி 1445ஆம் ஆண்டின் புனித ஷவ்வால் மாதத்திற்கான தலைபிறை பார்க்கும் மாநாடு இன்று மாலை இடம்பெறவுள்ளது.
+The Hijri 1445 -St. Shawal Month Conference, led by President Tahir Rashein at Colombo Great School, will feature Birth Committee members, Ashsheyq Hizam, representatives from Jamiyyathul Ulama Council, Department of Muslim Religious and Cultural Affairs, and the Senior Officer of the Meteorological Department. Invitations available at 011 24 32 110, 011 24 51 245, and 0777 35 37 89.
 
-மஹ்ரிப் தொழுகையைத் தொடர்ந்து கொழும்பு பெரிய பள்ளிவாசலில் தலைவர் தாஹிர் ரஷீன் தலைமையில் இந்த நிகழ்வு நடைபெறவுள்ளது.
+🟩
 
-இந்த மாநாட்டில், பெரிய பள்ளிவாசலின் பிறைக்குழுத் தலைவர் அஷ்ஷெய்க் ஹிஸாம் உட்பட பிறைக்குழு உறுப்பினர்கள், அகில இலங்கை ஜம்இய்யத்துல் உலமா சபையின் பிரதிநிதிகள், முஸ்லிம் சமய பண்பாட்டலுவல்கள் திணைக்கள அதிகாரிகள், வளிமண்டவியல் திணைக்கள சிரேஷ்ட அதிகாரி உள்ளிட்ட பலர் பங்கேற்கவுள்ளனர்.
+The Hijri 1445 -St. Shawal Month Conference will be held this evening.
 
-நாடளாவிய ரீதியில் ஷவ்வால் மாதத்திற்கான தலைபிறை தென்படுமாயின் பூரண ஆதாரத்துடன் 011 24 32 110, 011 24 51 245 மற்றும் 0777 35 37 89 ஆகிய தொலைபேசி இலக்கங்களுக்கு அழைப்பினை ஏற்படுத்தி அறிவிக்க முடியும். R
+The event will be held under the leadership of President Tahir Rashein at the Colombo Great School following the Mahrip prayer.
+
+The conference will be attended by members of the Birth Committee of the Great School, Ashsheyq Hizam, representatives of the All Ceylon Jamiyyathul Ulama Council, the Department of Muslim Religious and Cultural Affairs and the Senior Officer of the Meteorological Department.
+
+If the headline for the month of Shawal is visible across the country, you can make an invitation to 011 24 32 110, 011 24 51 245 and 0777 35 37 89. Remble
 
 ◼️
 
 [Data](articles/58843f2c.json)
 
+[Extended Data](ext_articles/58843f2c.ext.json)
+
 ---
 
-### අතුරුදන් වූ බිලියන ගණනක් වටින වී ගැන CID පරීක්ෂණ
+### CID investigations are worth billions of missing
 
 *2024-04-09 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195456) · `si`
 
-නිකවැරටිය, පොල්ගහවෙල, මහව සහ ආණමඩුව යන රජයේ වී ගබඩාවලින් 2022 වසරේ යල සහ මහ කන්නයට අදාළ වී කිලෝ ලක්ෂ 30ක් පමණ අතුරුදන්වීම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශනයක් ආරම්භ කර තිබේ.
+The CID is investigating a billion-rupee disappearance of paddy stock, with Attorney Buddhika Iddamalgoda under investigation. Four stores are being probed separately.
 
-වී අලෙවි මණ්ඩලයේ සභාපති නීතීඥ බුද්ධික ඉද්දමල්ගොඩ මහතා ප්‍රකාශ කළේ, ඒ සම්බන්ධයෙන් සිදුකළ මූලික විමර්ශන වාර්තාව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට භාරදී ඇති අතර අතුරුදන් වී ඇති වී තොගයේ වටිනාකම රුපියල් බිලියනයකට ආසන්න බවය.
+🟩
 
-"වී අලෙවි මණ්ඩලයේ වී තොග අතුරුදන් වීම ගැන පරීක්ෂණයක් මීට මාස 4කට පමණ පෙර සිට ආරම්භ කරනු ලැබුවා. ඒ අනුව ගබඩා 4ක බිලියනයකට ආසන්න මුදලක වටිනාකමින් යුත් වී අඩුවීම සම්බන්ධයෙන් ගබඩා 4ක වෙන් වෙන් වශයෙන් පරීක්ෂණයක් සිදුකර එහි මුලික වාර්තා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ලබාදී තිබෙනවා. ඒ අනුව ඔවුනුත් මේ පිළිබඳ පරීක්ෂණ ආරම්භ කර අවසන් අදියර දක්වා පැමිණ තිබෙනවා. අපි විශ්වාස කරනවා අපරාධ නීතිය යටතේ ක්‍රියාත්මක වෙමින් පවතින පරීක්ෂණවල අවසන් අදියරට එන්න පුළුවන්. මේවා මහජනතාවගේ මුදල්. පරීක්ෂණ කඩිනම් කර, අදාළ වරදකරුවන්ගෙන් එම මුදල් වී අලෙවි මණ්ඩලය වෙත පියවා ගැනීමට කටයුතු සිදුකරමින් පවතිනවා."
+The Criminal Investigations Department (CID) has launched an investigation into the disappearance of Rs.
 
-...
+The Chairman of the Paddy Marketing Board Attorney Buddhika Iddamalgoda has been handed over to the CID and the proportion of the stock of paddy has disappeared, the value of the stock of paddy is nearly a billion rupees.
+
+"Investigation into the disappearance of paddy stock of paddy stock. Accordingly, a separate investigation in four stores of nearly a billion stores in four stores, a separate investigation into four stores have been issued to the CID.. Accordingly, they have commenced investigations and arrive in the final stages. We believe in the final stage of investigations under criminal law. These are the money of the public. Expedite investigations and will be taken to the Paddy Marketing Board. "
+
+Meanwhile, the Paddy Marketing Board, Attorney Buddhika Iddamalgoda, has been temporarily parked on Saturday from Saturday.
+
+◼️
 
 [Data](articles/cb71475c.json)
+
+[Extended Data](ext_articles/cb71475c.ext.json)
 
 ---
 
@@ -130,41 +170,55 @@ The victim was severely injured in the head and the ribs.
 
 ---
 
-### இன்று அதிகரித்த வெப்பநிலை காணப்படும் இடங்கள்...
+### Increased temperatures today ...
 
 *2024-04-09 07:21:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அதிகரித்த-வெப்பநிலை-காணப்படும்-இடங்கள்/175-335776) · `ta`
 
-வடக்கு, கிழக்கு, வடமத்திய, வடமேல்,  சப்ரகமுவ,மேல் மற்றும் தென் மாகாணங்களிலும் அத்துடன் மாத்தளை மற்றும்  மொனராகலை மாவட்டங்களிலும்  இன்று அதிகரித்த வெப்பநிலை காணப்படுமென சிரேஸ்ட வானிலை அதிகாரி கலாநிதி மொஹமட் சாலிஹீன் கூறினார்.
+Dr. Mohamed Saliheen forecasts increased temperatures across multiple provinces today, with showers or thunderstorms likely after 2 pm. Snow may be seen in parts of Central, Sabaragamuwa, and Western Provinces, and in Galle and Matara districts.
 
-சூரியனின் வடக்கு நோக்கியநகர்வின் காரணமாக இன்று மதியம் சுமார் 12.11 மணியளவில் உடப்பு, ஆட்டிகம, பிதிவில்ல, வக்காமுன, நுவரகல மற்றும் ஏறாவூர்  போன்ற இடங்களுக்கு மேலாக சூரியன் உச்சம் கொடுக்கின்றது.
+🟩
 
-சப்ரகமுவ, மேல் மற்றும்  வடமேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும் பிற்பகல் இரண்டு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+Senior Weather Officer Dr. Mohamed Saliheen said that increased temperatures will occur today in the North, Eastern, North Central, North Western, Sabaragamuwa, Western and Southern Provinces as well as in Matale and Moneragala districts.
 
-மத்திய, சப்ரகமுவ மற்றும்  மேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன்  காலி மற்றும் மாத்தறை  மாவட்டங்களின் சில இடங்களிலும்  காலை வேளையில் பனிமூட்டம் காணப்படும்.
+Due to the Sun's northern city, the sun is at around 12.11 pm today at around 12.11 pm.
 
-பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக் கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு  கேட்டுக்கொள்ளப் படுகின்றனர். R
+Showers or thunderstorms are likely to occur after two o'clock in the afternoon.
+
+In the morning, the snow will be seen in some parts of the Central, Sabaragamuwa and Western Provinces as well as some of the Galle and Matara districts.
+
+In cases where strong winds and lightning impacts occur. Remble
 
 ◼️
 
 [Data](articles/e13cb158.json)
 
+[Extended Data](ext_articles/e13cb158.ext.json)
+
 ---
 
-### ’சட்ட கட்டமைப்புகள் நவீனமயமாக்கப்பட வேண்டும்’
+### Model legal structures need to be modernized
 
 *2024-04-09 07:11:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்ட-கட்டமைப்புகள்-நவீனமயமாக்கப்பட-வேண்டும்/175-335774) · `ta`
 
-நாட்டில் விரைவான பொருளாதார வளர்ச்சியை ஏற்படுத்த அரசாங்கம் ஆரம்பித்துள்ள வேலைத்திட்டம் வெற்றியடைவதற்கு சட்ட கட்டமைப்பும் நவீனமயப்படுத்தப்பட வேண்டுமென ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe emphasized the need to modernize legal structures for economic growth, discussing the decision to continue or change the program with the IMF. He highlighted the importance of making crucial decisions for the country's future, urging young lawyers to lead the modernization effort.
 
-கண்டி மகாவலி ரீச் ஹோட்டலில் நடைபெற்ற கண்டி சட்டத்தரணிகளுடனான சிநேகபூர்வ சந்திப்பில் ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார்.  அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-சர்வதேச நாணய நிதியத்துடனான வேலைத்திட்டத்தை தொடர வேண்டுமா அல்லது அதை மாற்றியமைப்பதா என்பதை நாங்கள் தீர்மானிக்க வேண்டும். சம்மதித்து விட்டு ஒவ்வொரு முறையும் முடிவை மாற்றிக் கொள்ளும் அவப்பெயர் இலங்கைக்கு உண்டு.
+President Ranil Wickremesinghe said the legal framework for the success of the government's plan to create rapid economic growth in the country should be modernized.
 
-இதுவே நாட்டுக்காக எமக்கு கிடைத்துள்ள கடைசி வாய்ப்பாகும். எனவே, இந்த நன்மையை மக்களுக்கு வழங்கும் வகையில் சர்வதேச நாணய நிதியத்துடனான ஒப்பந்தத்தை சட்டப்பூர்வமாக்க எதிர்பார்க்கிறோம். நாட்டின் மீதான பொறுப்பில் இருந்து நாம் யாரும் தப்ப முடியாது. எனவே, அதனால் முக்கிய முடிவுகள் எடுக்கப்பட வேண்டும்.
+The President said this at a friendly meeting with Kandy's lawyers at the Mahaweli Reach Hotel in Kandy.As he further stated,
 
-...
+We need to determine whether to continue the program with the International Monetary Fund or whether it is changed. Sri Lanka has a disgrace to change the decision every time.
+
+This is the last chance we have for the country. Therefore, we expect to legalize the deal with the International Monetary Fund to provide this benefit to the people. None of us can escape from the responsibility of the country. Therefore, so important decisions should be made.
+
+The legal structures in the country's economic change must also be modernized. 20 years to come forward and decide. I will not be alive for most of the people and I. But the young lawyers here should carry out this modernization program.. (A)
+
+◼️
 
 [Data](articles/b19aa64e.json)
+
+[Extended Data](ext_articles/b19aa64e.ext.json)
 
 ---
 
@@ -194,21 +248,31 @@ President Ranil Wickremesinghe has also advised the Ministry of Urban Developmen
 
 ---
 
-### ’உயர்வான சமூக பாதுகாப்பு திட்டம் நடைமுறையில்’
+### Excellent Social Security Program in practice
 
 *2024-04-09 06:58:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்வான-சமூக-பாதுகாப்பு-திட்டம்-நடைமுறையில்/175-335773) · `ta`
 
-பொருளாதார நெருக்கடியால் பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்குவதற்காக 2023 ஆம் ஆண்டில் மாத்திரம் 200 பில்லியன் ரூபா செலுத்தப்பட்டுள்ளதாக ஜனாதிபதி பணிப்பாளர் நாயகம் ரஜித் கீர்த்தி தென்னகோன் தெரிவித்தார்.
+In 2023, the government paid 200 billion rupees for economic crisis relief, including Samurdhi assistance, credit, and various allowances. The government aims to implement over 30 social security programs transparently, with the World Bank providing a $200 million loan repayable in 30 years. By March 31, 2024, the number of relief beneficiaries is expected to reach 1,854,308.
 
-ஊடகங்களுக்கு நேற்று கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு குறிப்பிட்டுள்ளார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-2021 மற்றும் 2022 ஆம் ஆண்டுகளில் நாட்டு மக்கள் எதிர்நோக்கிய கடுமையான பொருளாதாரச் சிரமங்களினால் பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்குவதை அரசாங்கம் தனது பொறுப்பாகக் கருதுகிறது.
+President General of the President Rajith Keerthi Tennakoon said that only 200 billion rupees was paid in 2023 to provide relief to the people affected by the economic crisis.
 
-சமுர்த்தி உதவி, சமுர்த்தி கடன், 70 வயதுக்கு மேற்பட்ட முதியோருக்கான கொடுப்பனவு, 100 வயதுக்கு மேற்பட்ட முதியோருக்கான கொடுப்பனவு, அங்கவீனர்களுக்கான கொடுப்பனவு, சிறுநீரகக் கோளாறினால் பாதிக்கப்பட்டவர்களுக்கு வழங்கப்படும் கொடுப்பனவு மற்றும் அஸ்வெசும கொடுப்பனவு என 2023 ஆம் ஆண்டில் மாத்திரம் 184,098.27 மில்லியன் ரூபா அரசாங்கத்தினால் நிவாரண உதவித்தொகை தேவைப்படும் மக்களுக்கு வழங்கப்பட்டுள்ளது.
+He made the above comment while commenting to the media yesterday. As he further stated,
+
+The government is responsible for providing relief to the people affected by the severe economic difficulties faced by the people of 2021 and 2022.
+
+Samurdhi assistance, Samurdhi credit, allowance for elderly people over 70 years of age, allowance for elderly people over 100 years of age, allowance for disabled people, allowance for kidney failure, and Assembly allowance in 2023 by the government.
+
+The amount of Rs.. In addition, Samurdhi Bank has loaned 59.5 billion rupees during the same period.
+
+The government is implementing this social security program in contrast to corruption, irregularities and bureaucracy in previous programs such as Janasiya and Samurdhi.
 
 ...
 
 [Data](articles/87613ece.json)
+
+[Extended Data](ext_articles/87613ece.ext.json)
 
 ---
 
@@ -238,17 +302,37 @@ The injured hospital is receiving treatment at the Colombo National Hospital whi
 
 ---
 
-### மின்சார திருத்தச் சட்டமூலத்திற்கு அனுமதி
+### Solar Eclipse reaches its grand finale...
+
+*2024-04-09 06:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Solar-Eclipse-reaches-its-grand-finale/110-280441) · `en`
+
+The total solar eclipse brought America to a standstill on Monday as millions stopped work, paused classes and flocked to the streets and city rooftops to view the rare event.
+
+After sweeping northeast through Mexico and then Texas, Arkansas and Ohio shortly before 2pm, crowds gathered in New York City and Washington DC hoping to catch a glimpse. (Daily Mail)
+
+◼️
+
+[Data](articles/24d3acf2.json)
+
+---
+
+### Permit
 
 *2024-04-09 06:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-திருத்தச்-சட்டமூலத்திற்கு-அனுமதி/175-335771) · `ta`
 
-மின்சார திருத்தச் சட்டமூலத்திற்கு அமைச்சரவை அனுமதி வழங்கியுள்ளதாக வலுசக்தி அமைச்சர் கஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+The Cabinet has approved the Electricity Amendment Bill, allowing its publication in the Gazette this week and presentation to Parliament by the end of the month.
 
-இதற்கமைய, மேற்படி  சட்டமூலத்தை இந்த வாரத்தில் வர்த்தமானியில் வெளியிடுவதற்கும், இந்த மாத இறுதியில் பாராளுமன்றில் முன்வைப்பதற்கும் அமைச்சரவை அனுமதி வழங்கியுள்ளதாக அவர் தெரிவித்துள்ளார். (a)
+🟩
+
+Minister of State for Cabinet Kanjana Wijesekera said that the Cabinet has granted permission to the Electricity Amendment Bill.
+
+Accordingly, the Cabinet has granted permission to publish the bill in the Gazette this week and to present the Parliament by the end of this month.. (A)
 
 ◼️
 
 [Data](articles/10a78f0a.json)
+
+[Extended Data](ext_articles/10a78f0a.ext.json)
 
 ---
 
@@ -295,6 +379,26 @@ Accordingly, the sun will overcome the presence of Udupuvu, Audigura, Bakamuna, 
 [Data](articles/1b4429aa.json)
 
 [Extended Data](ext_articles/1b4429aa.ext.json)
+
+---
+
+### Health guidelines issued ahead of festive season
+
+*2024-04-09 04:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-guidelines-issued-ahead-of-festive-season/108-280439) · `en`
+
+Colombo, April 9 (Daily Mirror) - As Sri Lanka gears up for the Sinhala and Tamil New Year season, health authorities have released a set of guidelines aimed at safeguarding participants and spectators during sporting events.
+
+The guidelines, titled "Guidelines for Prevention of Injuries and Acute Medical Conditions Related to Sports Events Organized During Festival Seasons in Sri Lanka," address the unique challenges posed by combining festivals and sporting activities.
+
+Whether it is traditional sports like "pillow fights" and "kana mutti" or modern events like cross-country running and cycling, each activity carries its own set of risks.
+
+These guidelines emphasize the importance of prioritizing public health and safety during festival sporting events.
+
+They provide organizers, participants and communities with essential strategies to mitigate the risks associated with injuries and acute medical conditions.
+
+...
+
+[Data](articles/96c43ca4.json)
 
 ---
 
@@ -372,23 +476,37 @@ It is a wonderful scene in which not only university students but also professor
 
 ---
 
-### දෙවන ලෝක යුද්ධය: වසර 82කට පෙර ජපානය ශ්‍රී ලංකාවට බෝම්බ හෙළු හැටි ජාතික පුවත්පත් වාර්තා කලේ කොහොමද?
+### World War II: How did Japan report to Sri Lanka and report the national newspapers?
 
 *2024-04-09 02:17:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4nrg34er53o) · `si`
 
-දෙවන ලෝක යුද්ධය: වසර 82කට පෙර ජපානය ශ්‍රී ලංකාවට බෝම්බ හෙළු හැටි ජාතික පුවත්පත් වාර්තා කලේ කොහොමද?
+During WWII, Sri Lanka, under British rule, faced a Japanese air attack on April 5, 1942, targeting Colombo and Trincomalee. The attack, reported in national newspapers, caused significant damage but was not as severe as initially feared.
 
-ශ්‍රී ලංකාව දෙවැනි ලෝක යුද්ධයේ පාර්ශවකරුවෙකු නොවූවත් එවකට ශ්‍රී ලංකාවේ පාලනය ගෙන ගිය බ්‍රිතාන්‍යයන් සතුරු පර්ශවීය සාමාජිකයන් වූ නිසා ජපානයේ ගුවන් ප්‍රහාරයකට මුහුණ දීමට 1942 දී ශ්‍රී ලංකාවට සිදු විය.
+🟩
 
-හිරෝහිතෝ අධිරාජ්‍යයාගේ මෙහෙයවීමෙන් සිදු වූ මෙම ගුවන් ප්‍රහාරය 1942 වසරේ අප්‍රේල් 5 සිට අප්‍රේල් 9 දක්වා වරින් වර එල්ල වී ඇති අතර, අප්‍රේල් 5 කොළඹට එල්ල වූ ගුවන් ප්‍රහාරය එම වසරේ පාස්කු ඉරිදා දිනයේ එල්ල වීම විශේෂත්වයකි. මේ වන විට එම ප්‍රහාරය එල්ල වී වසර 82කි.
+World War II: How did Japan report to Sri Lanka and report the national newspapers?
 
-පාස්කු ඉරිදා දිනයේ දී අනපේක්ෂිත ලෙස ගුවන් යානා 125කින් කොළඹ වට කළ ජපාන ගුවන් යානාවලට රත්මලාන සහ රේස්කෝස් හි පැවති  රාජකීය ගුවන් හමුදා බැරැක්කවලින් ප්‍රතිප්‍රහාරයක් එල්ල වු අතර එයින් ගුවන් යානා 27ක් පමණ බිම හෙලූ බව ශ්‍රී ලංකා ගුවන් හමුදාවේ නිල වෙබ් අඩවියේ දක්වා තිබේ.
+Although Sri Lanka was not a party of World War II, Sri Lanka had to face a plane attack in Japan as the British rulership of Sri Lanka.
 
-කෙසේ නමුත් මෙම අනපේක්ෂිත ගුවන් ප්‍රහාරයට මුහුණ දුන් රාජකීය ගුවන් හමුදාවට ද විශාල පාඩුවක් ඉන් සිදුවිය.
+This air attack on the emperor of Hirohu was raised from April 5, 1942, and April 5 was aimed at the Easter Sunday of the year. 82 years have been launched by the attack.
+
+Unexpectedly 125 aircraft surrounded in Colombo and Racecose, Ratmalana and Racecose, was held on the round aircraft in Ratmalana and Racecose.
+
+However, the Royal Air Force faced this unexpected air strike, however, caused a large loss.
+
+Several soldiers were killed and several vessels were killed and several aircrafts were destroyed.
+
+By 1942, Sri Lanka's printed journal industry was highly advanced and 5th April 5, 1942, newspapers were reported in this way.
+
+On April 10, 1942, a photo of a helman in Colombo on 10 April 1942 was published on the ground.
+
+The newspaper was reported from Trincomalee.
 
 ...
 
 [Data](articles/c73fb393.json)
+
+[Extended Data](ext_articles/c73fb393.ext.json)
 
 ---
 
@@ -1222,27 +1340,35 @@ The two filed a petition in the Family Welfare Court demanding that they declare
 
 ---
 
-### දයාසිරි අකුණු ගහනවාට එළියට දාන යකඩ කෑල්ලක්
+### An iron piece to exclude Dayasiri
 
 *2024-04-08 19:54:48* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරි-අකුණු-ගහනවාට-එළියට-දාන-යකඩ-කෑල්ලක්/11-409022) · `si`
 
-'දයාසිරි යනු වහින විට, අකුණු ගහනවාට එළියට දාන යකඩ කෑල්ලක් විතරයි' යැයි අමාත්‍ය මහින්ද අමරවීර මහතා පැවසීය.
+Mr. Mahinda Amaraweera dismissed Dayasiri Jayasekera as an "iron piece for lightning," denying his influence on the Sri Lanka Freedom Party (SLFP). Amaraweera defended the party's actions, emphasizing growth and unity over division.
 
-ඔහු මේ බව සඳහන් කර සිටියේ පොල් සංවර්ධන අධිකාරියේදී අද  (08දා) පැවති වැඩසටහනක් අතරතුරදී මාධ්‍යවේදීන් විසින් අසන ලද ප්‍රශ්න සඳහා පිළිතුරු ලබා දෙමිනි.
+🟩
 
-ශ්‍රී ලංකා නිදහස් පක්ෂය තුළ මේ වනවිට උද්ගතව ඇති අර්බුදය සම්බන්ධයෙන් මාධ්‍යවේදීන් ප්‍රශ්න කර සිටි අතර එහිදී ඇතිවූ සංවාදයෙහි කෙටි සටහනක් පහතින් වේ.
+'Dayasiri is just a iron piece for lightning,' Mr. Mahinda Amaraweera said.
 
-මාධ්‍ය - වැඩබලන සභාපති තනතුරට ජ්‍යෙෂ්ඨ උපසභාපති නිමල් සිරිපාල ද සිල්වා මහතා පත්කරගැනීම නීතිවිරෝධියි කියලා දයාසිරි ජයසේකර මහතා කියනවා ?
+He was speaking at a program held at the Coconut Development Authority today (08th) respondents to answer questions.
 
-අමාත්‍ය අමරවීර මහතා - කවුද දයාසිරි කියන ඒවා ගණන් ගන්නේ ? දයාසිරි කියන්නේ වහිනකොට අකුණු ගහනකොට එළියට දාන යකඩ කෑල්ලක්. එයා කියන දේවල් අපිට අදාළ නෑ.
+Journalists questioned the crisis in the Sri Lanka Freedom Party and the brief note of the conversation that occurred there is a brief.
 
-අමාත්‍ය අමරවීර මහතා - ඔව්. අපි පක්ෂය ජයග්‍රහණය කරවනවා, මෙතෙක් පක්ෂයේ තිබුණේ අඩු කිරීම් හා බෙදීම් විතරයි. ඉදිරියට තිබෙන්නේ වැඩි කිරීම් හා එකතු කිරීම් පමණයි.
+Mr. Dayasiri Jayasekera says that it is illegal to appoint Nimal Siripala de Silva to appoint Nimal Siripala de Silva appointed as the Acting Chairman.
 
-මාධ්‍ය - ශ්‍රී ලංකා නිදහස් පක්ෂය යූඑන්පීයේ එල්ලන්න හදනවා කියලා චෝදනාවක් තිබෙනවා ?
+Mr. Amaraweera - Who is Dayasiri care for?Dayasiri is a penal for lightning. He doesn't apply to us.
 
-...
+Mr. Amaraweera - Yes. We win the party, only deductions and divisions. Only increases and additions.
+
+Is there a charge that the SLFP is trying to hang on the UNP?
+
+Mr. Amaraweera - not that. Some tried to hang this party Sajob. The SLFP as a party that we need the future is to uplift the SLFP. Mr. Maithripala Sirisena gave some organizers to sign up on their backs. They were the party's decline.
+
+◼️
 
 [Data](articles/a7ab8dda.json)
+
+[Extended Data](ext_articles/a7ab8dda.ext.json)
 
 ---
 
@@ -2141,69 +2267,5 @@ As Ramazan, the month of fasting draws to an end, several Muslims in Pettah busy
 [Data](articles/b06458a5.json)
 
 [Extended Data](ext_articles/b06458a5.ext.json)
-
----
-
-### Committee appointment by president to protect mountain dance
-
-*2024-04-08 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180671) · `ta`
-
-President Ranil Wickremesinghe announced a committee to protect traditional mountain dances, including consulting Kandy Traditional Dancers and creating a hill country art center.
-
-🟩
-
-President Ranil Wickremesinghe said a committee would be appointed to investigate the steps to be taken to protect and maintain the dance of the hill country.
-
-The committee, which is represented by the Ministry of Cultural Affairs and the University of Arts and University, has advised to consult a representative of the Kandy Traditional Dancers, and that steps will be taken to create a hill country art center.
-
-President Ranil Wickremesinghe made this statement when he met the Kandy's traditional dancers at the Presidential House on Sunday (07).
-
-President Ranil Wickremesinghe advised the Minister of Labor Manusha Nanayakkara to investigate the pension of Kandy's traditional dancers.
-
-The President, despite being popular at home and abroad at home and abroad, focused on the lack of traditional traditions and advised the new committee to analyze it and prepare the appropriate method.
-
-...
-
-[Data](articles/c715db50.json)
-
-[Extended Data](ext_articles/c715db50.ext.json)
-
----
-
-### Special postal service on April 12
-
-*2024-04-08 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98518/special-postal-service-on-april-12) · `en`
-
-Sri Lanka Post has decided to implement a special postal and courier service during the upcoming long weekend on the occasion of Ramadan and the Sinhala and Tamil New Year.
-
-Issuing a statement, Postmaster General S. R. W. M. R. P. Sathkumara stated that accordingly, special services will be available through the post offices and sub-post offices across the island for Cash On Delivery (COD), SL post courier and EMS on April 12 despite being a holiday.
-
-◼️
-
-[Data](articles/76847c1d.json)
-
-[Extended Data](ext_articles/76847c1d.ext.json)
-
----
-
-### Ambalavanar Jayaraman has passed away
-
-*2024-04-08 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/180742) · `ta`
-
-Ambalavanar Jayaraman, a renowned violinist from Jaffna, died at 65. His music was mourned at a Jaffna art event. Funeral on Thursday at Annar's home near Nachimar Kovil.
-
-🟩
-
-Ambalavanar Jayaraman Jayaraman, who is a popular violinist from Jaffna, passed away this morning (08) at the age of 65.
-
-At an art event held at the Jaffna - Steam Vandan Art Gallery on Sunday, the violin music was in disability as he went home this morning.
-
-The funeral will take place on Thursday at the Annar's home in the neighboring area of Nachimar Kovil.
-
-◼️
-
-[Data](articles/1925b4cd.json)
-
-[Extended Data](ext_articles/1925b4cd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 01:18:10**
+As of **2024-04-10 01:33:56**
 
 ## Newspaper Stats
 
-*Scraped **18,166** Articles*
+*Scraped **18,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 190
 dbsjeyarajcom | 213
 newsfirstlk | 363
 islandlk | 992
-dailyftlk | 995
+dailyftlk | 997
 economynextcom | 1,015
 adalk | 1,531
 tamilmirrorlk | 2,127
@@ -26,11 +26,41 @@ adaderanasinhalalk | 2,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,160 (100.0%) of 18,166 articles have been extended.
+18,166 (100.0%) of 18,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### JETRO Colombo organises “Sustainable development through Japanese technologies”
+
+*2024-04-10 01:14:19* · [`dailyftlk`](https://www.ft.lk/news/JETRO-Colombo-organises-Sustainable-development-through-Japanese-technologies/56-760524) · `en`
+
+In a groundbreaking initiative, Sri Lanka and Japan joined forces to accelerate sustainable development through Japanese technologies. Japan External Trade Organization (JETRO) organised a seminar themed “Sustainable development through Japanese technologies” on 26 March at Granbell Hotel Colombo. The event aims to foster collaboration between Japan and Sri Lanka, knowledge exchange, and impactful solutions to solve social issues in Sri Lanka through the Japanese technologies.
+
+Ambassador of Japan to Sri Lanka Mizukoshi Hideaki and Sri Lanka Japan Business Council President Mahen Kariyawasan in their opening address expressed their expectations on Japanese sustainable technologies in green and energy sectors.
+
+...
+
+[Data](articles/86c5435f.json)
+
+---
+
+### Ambassador of France visits Southern Province
+
+*2024-04-10 01:11:02* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-of-France-visits-Southern-Province/56-760523) · `en`
+
+Ambassador of France to Sri Lanka and the Maldives Jean-François Pactet paid a visit to the Southern Province of Sri Lanka from 25-27 March.
+
+During his visit, the Ambassador called on Southern Province Governor Dr. Willie Gamage and had a cordial exchange on the current economic and political situation in the province. The Governor explained the measures taken by the Government to expand the tourism industry in the province. The ambassador also called on former Speaker Chamal Rajapaksa and had an exchange of views with French investors engaged in the tourism industry in Galle.
+
+The Ambassador had the pleasure of visiting the Alliance Française in Matara and meeting with the Director and Executive Committee members of the Alliance Française and its annex in Galle. It was a productive exchange of ideas and a reaffirmation of the vibrant cultural exchanges fostered by Alliance Française.
+
+...
+
+[Data](articles/353a3788.json)
+
+---
 
 ### Muslim Aid Sri Lanka, UNHCR donate Rs. 50 m worth medical equipment to Lady Ridgeway Hospital
 
@@ -43,6 +73,8 @@ The event was honoured by Ministry of Health Director General of Health Services
 ...
 
 [Data](articles/5e73bf6d.json)
+
+[Extended Data](ext_articles/5e73bf6d.ext.json)
 
 ---
 
@@ -59,6 +91,8 @@ Highlighting the importance of English proficiency in today’s globalised world
 ...
 
 [Data](articles/c39be6e1.json)
+
+[Extended Data](ext_articles/c39be6e1.ext.json)
 
 ---
 
@@ -84,6 +118,8 @@ The court of appeal also ordered the provisional registration of the Travel Agen
 
 [Data](articles/ae8d3fbb.json)
 
+[Extended Data](ext_articles/ae8d3fbb.ext.json)
+
 ---
 
 ### Commercial High Court to hear Jaffna -Kilinochchi water project dispute
@@ -102,6 +138,8 @@ CMEC argued that the dispute, involving a commercial transaction exceeding Rs. 5
 
 [Data](articles/a0e8c5e5.json)
 
+[Extended Data](ext_articles/a0e8c5e5.ext.json)
+
 ---
 
 ### Medical degree admissions for local students at KDU
@@ -117,6 +155,8 @@ He said this will also help the country to stop the outflow of foreign exchange 
 ...
 
 [Data](articles/4b3ecf2d.json)
+
+[Extended Data](ext_articles/4b3ecf2d.ext.json)
 
 ---
 
@@ -135,6 +175,8 @@ Subsequently, onion prices are believed to have risen dramatically in neighbouri
 ◼️
 
 [Data](articles/cfdbe17c.json)
+
+[Extended Data](ext_articles/cfdbe17c.ext.json)
 
 ---
 
@@ -2239,59 +2281,5 @@ The suspect has been arrested by the police and will be produced before the Well
 [Data](articles/ba22e526.json)
 
 [Extended Data](ext_articles/ba22e526.ext.json)
-
----
-
-### World Netball bans transgender women from international competition
-
-*2024-04-09 14:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-Netball-bans-transgender-women-from-international-competition/108-280471) · `en`
-
-Apr. 9 (BBC) - World Netball has banned transgender women from competing in women's international competition.
-
-The ban comes in with immediate effect after the global governing body released a new participation and inclusion policy on Monday.
-
-World Netball said that after a lengthy consultation process it had determined international women's netball was a "gender affected activity".
-
-A new policy was required to ensure "fairness and safety", it added.
-
-Women's netball at international level will now be restricted to players "recorded as female at birth irrespective of gender identity" or transgender athletes who can demonstrate to World Netball's satisfaction "they have not experienced the biological effects of testosterone at any time".
-
-...
-
-[Data](articles/955701c3.json)
-
-[Extended Data](ext_articles/955701c3.ext.json)
-
----
-
-### Two bodies of two tanks in Anuradhapura
-
-*2024-04-09 14:47:07* · [`adalk`](https://www.ada.lk/breaking_news/අනුරාධපුර-වැව්-දෙකක-මළ-සිරුරු-දෙකක්/11-409033) · `si`
-
-In Anuradhapura, two bodies were found near Hidoadaniya and Anuradhapura, suspected of murder. One was found in Hideamorand Police Division, the other under a tree near Kandy Vidyalaya. The victim was K. Jagath Kumara, 48, from the area. Anuradhapura Additional Magistrate ordered a post-mortem to determine the cause of death.
-
-🟩
-
-Police said that two bodies of suspicions were found near the Hidoadaniya and Anuradhapura in Anuradhapura and Anuradhapura.
-
-Police said that the body was recovered to the Hydankatura Police that a dead body was in the Hideamorand Police Division.
-
-Police said that the body was a murder in several bedding, police said.
-
-Later, the officials of the Anuradhapura headquarters police officers came to the Anuradhapura Police, the magisterial inquiry after investigating the investigation.
-
-Accordingly, Anuradhapura Additional Magistrate R. Mrs. Hewawasam ordered the body of the Anuradhapura Teaching Hospital to the Judicial Medical Officer.
-
-Police say that he has not yet been revealed that he has yet to be uncovered to him.
-
-The other body body was recovered under a tree in front of the gate of the Vocational Training Center at the Kandy Vidyalaya, Anuradhapura.
-
-The victim was identified as K. Jagath Kumara, forty-eight, a resident of the area of the area.
-
-...
-
-[Data](articles/199222b6.json)
-
-[Extended Data](ext_articles/199222b6.ext.json)
 
 ---

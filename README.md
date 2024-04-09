@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 03:50:57**
+As of **2024-04-10 04:03:19**
 
 ## Newspaper Stats
 
-*Scraped **18,177** Articles*
+*Scraped **18,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,015
 adalk | 1,531
 tamilmirrorlk | 2,127
 adaderanalk | 2,180
-virakesarilk | 2,686
+virakesarilk | 2,687
 dailymirrorlk | 2,775
 adaderanasinhalalk | 2,943
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 2,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,177 (100.0%) of 18,177 articles have been extended.
+18,177 (100.0%) of 18,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### பொதுஜன பெரமுனவின் உறுப்பினரையே களமிறக்குவோம் - மஹிந்த ராஜபக்ஷ
+
+*2024-04-10 03:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180855) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன்  இயலுமான வரை ஒன்றிணைந்து செயற்படுவோம்.முடியாவிடின் விலகி விடுவோம். பொதுஜன பெரமுனவின் உறுப்பினரை களமிறக்கவே தீர்மானித்துள்ளோம். உத்தியோகபூர்வ அறிவிப்பை வெகுவிரைவில் வெளியிடுவோம் என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்தார்.
+
+கொழும்பில் உள்ள இலங்கை மன்றக் கல்லூரியில் செவ்வாய்க்கிழமை (9) இடம்பெற்ற நிகழ்வில் கலந்துக் கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+கேள்வி – புதிய அரசியல் கூட்டணிகள் ஸ்தாபிக்கப்படுகிறது,கூட்டணி தொடர்பில் நீங்கள் அவதானம் செலுத்தவில்லையா ?
+
+பதில் - புதிய அரசியல் கூட்டணி குறித்து பல்வேறு தரப்பினருடன் பேச்சுவார்த்தையில் ஈடுபட்டுள்ளோம் வெகுவிரைவில் பரந்துப்பட்ட அரசியல் கூட்டணி அமைக்கப்படும்.
+
+கேள்வி – உங்களின் தாய்  கட்சியான  ஸ்ரீ லங்கா சுதந்திரக் கட்சி தீ பற்றி எரிகிறதே, பிரச்சினைகளுக்கு தீர்வு காண நீங்கள் ஆலோசனை வழங்க போவதில்லையா?
+
+பதில் -சந்திரிக்கா அம்மணி வந்து தலைவர் மைத்திரியை விரட்டியடித்துள்ளார். தவறுகள் தற்போது திருத்திக் கொள்ளப்படுகின்றன. சுதந்திர கட்சி பல சவால்களை எதிர்கொண்டுள்ளது.
+
+...
+
+[Data](articles/82a4b4cb.json)
+
+---
 
 ### Nimal Siripala's appointment is illegal - Udaya Kammanpila
 
@@ -2201,29 +2223,5 @@ However, it is expected that the Presidential Election is likely to take place i
 [Data](articles/2eeb1522.json)
 
 [Extended Data](ext_articles/2eeb1522.ext.json)
-
----
-
-### Increase in control of presidential election: Here is the details!
-
-*2024-04-09 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180820) · `ta`
-
-The Cabinet approved a bill to amend Bail Plans, increasing bail deposits for candidates and independent committees under various election laws. For the Presidential Election Act, the bail deposit for a political party candidate is now 2.6 million rupees, and for an independent candidate, it's 3.1 million rupees. The Parliamentary Election Act increases the bail deposit by 16,000 rupees for political party candidates and the Election Act of 1988 increases it by 11,000 rupees for political party candidates and 11,000 rupees for independent committee candidates.
-
-🟩
-
-The presidential law, the parliamentary electoral law and the provincial council electoral law have been identified as appropriate for the current social, economic and political background to suit the existing bail deposit.
-
-Accordingly, the Cabinet has approved the combined proposal submitted by the President and the Minister of Justice, Prison Affairs and Constitutional Reforms to advise the lawyer to prepare the Bill to amend the Bail Plans.
-
-The bail deposit of a candidate submitted by a political party approved by the Presidential Election Act No. 15 of 1981 has been decided to increase up to 2.6 million rupees and an independent candidate's bail deposit to 3.1 million rupees.
-
-It has been decided to increase the bail deposit of a candidate submitted by a political party approved by the Parliamentary Election Act No. 01 of 1981 and an increase of the bail deposit of an independent committee by up to 16,000 rupees.
-
-...
-
-[Data](articles/f86fc2ab.json)
-
-[Extended Data](ext_articles/f86fc2ab.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 14:18:28**
+As of **2024-04-09 14:33:58**
 
 ## Newspaper Stats
 
-*Scraped **18,051** Articles*
+*Scraped **18,054** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,48 @@ newsfirstlk | 363
 dailyftlk | 987
 islandlk | 992
 economynextcom | 1,004
-adalk | 1,518
+adalk | 1,520
 tamilmirrorlk | 2,119
 adaderanalk | 2,170
 virakesarilk | 2,659
-dailymirrorlk | 2,752
+dailymirrorlk | 2,753
 adaderanasinhalalk | 2,925
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,042 (100.0%) of 18,051 articles have been extended.
+18,051 (100.0%) of 18,054 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### වියපත් කළාකරුවන්ට දෙන දීමනාව වැඩි කරයි
+
+*2024-04-09 14:16:52* · [`adalk`](https://www.ada.lk/breaking_news/වියපත්-කළාකරුවන්ට-දෙන-දීමනාව-වැඩි-කරයි/11-409030) · `si`
+
+වියපත් කලාකරුවන් මුහුණ දෙන අපහසුතාවලට පිළියම් යොදන බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පැවැසීය. අග්‍රාමාත්‍යවරයා මේ බව සඳහන් කළේ ටවර් හෝල් රඟහල පදනම මගින් ක්‍රියාත්මක කරනු ලබන වියපත් කලාකරුවන් සඳහා විශ්‍රාමික ජීවනාධාර ලබාදීමේ වැඩසටහන සඳහා අලුතින් ඉල්ලුම් කර ඇති කලාකරුවන් ඇතුළත් කර ගැනීමත්, ඔවුන්ට අලුත් අවුරුදු ත්‍යාග පිරිනැමීමත් නිමිත්තෙන් (2024.04.08) අරලිය ගහ මන්දිරයේ පැවැති උත්සවයට එක් වෙමිණි.
+
+මාසිකව රු.7,500/- ක විශ්‍රාමික ජීවනාධාරයක් තෝරාගත් වියපත් කලාකරුවන් 102ට ලබාදීම සිදුකෙරුණි. එම දීමනාව රු.10,000/- දක්වා වැඩිකිරීමට ටවර් හෝල් රඟහල පදනමේ සභාපති, අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතාගේ ප්‍රධානත්වයෙන් රැස්වූ ටවර් හෝල් රඟහල පදනමේ භාරකාර මණ්ඩලය තීරණය කර තිබේ. ඒ අනුව මෙම මස සිට ටවර් හෝල් රඟහල පදනම මඟින් වියපත් කලාකරුවන් 122ට රු රු.10,000/- ක් බැගින් වූ විශ්‍රාමික ජිවනාධාරයක් ලබා දේ.
+
+...
+
+[Data](articles/34a2024e.json)
+
+---
+
+### ඒකාධිපති ක්‍රමයට එරෙහිව මහින්ද තාපයේ බැනර් ප්‍රදර්ශණය කරයි
+
+*2024-04-09 14:02:59* · [`adalk`](https://www.ada.lk/breaking_news/ඒකාධිපති-ක්‍රමයට-එරෙහිව-මහින්ද-තාපයේ-බැනර්-ප්‍රදර්ශණය-කරයි/11-409029) · `si`
+
+නාම යෝජනා බාර ගෙන ආණ්ඩුවේ බලපෑම මත කල් තබා ඇති නගර සභා -පාදේශීය සභා ජන්ද විමසීම පමාද කිරීම ඒකාධිපති කමයට අත වැනීමකි හා නගර සභා -පාදේශීය සභාවල මහජන චන්දයෙන් පත්වූ නියෝජිතයන් නොමැතිව නිලධාරීන් සිදුකරන පාලනය පුරවැසි අයිතිවාසිකම් උල්ලංඝනය කිරීමකි යන දැන්වීම් දෙකක් මැතිවරණ කොමිෂන් සභාවේ හිටපු සභාපති මහින්ද දේශපිය මහතා අම්බලන්ගොඩ පෝරඹ සිය නිවසේ තාප්පයේ අද(9) එල්ලුවේය.
+
+◼️
+
+[Data](articles/8705f9f7.json)
+
+---
 
 ### Sri Lanka expects up to 200 thousand vehicles on the road in New Year
 
@@ -47,6 +73,8 @@ Due to this, the National Council for Road Safety has warned drivers of the poss
 ...
 
 [Data](articles/c8f683c8.json)
+
+[Extended Data](ext_articles/c8f683c8.ext.json)
 
 ---
 
@@ -122,6 +150,8 @@ The World Bank gives budget support loans only after the completion of prior act
 
 [Data](articles/a9be04f6.json)
 
+[Extended Data](ext_articles/a9be04f6.ext.json)
+
 ---
 
 ### Candidate deposits for Presidential, Parliamentary and PC elections increased
@@ -196,21 +226,29 @@ India pledges 61.5 million dollar grant for Jaffna KKS port Sri Lanka says
 
 [Data](articles/cfb29bb8.json)
 
+[Extended Data](ext_articles/cfb29bb8.ext.json)
+
 ---
 
-### “කණා මුට්ටිය බිඳීම සහ අන්ධයාට කිරි කැවීම” මින්පසු අවුරුදු උත්සව වලට බෑ
+### "Break the kings and milk to the blind" no year
 
 *2024-04-09 13:05:39* · [`adalk`](https://www.ada.lk/breaking_news/“කණා-මුට්ටිය-බිඳීම-සහ-අන්ධයාට-කිරි-කැවීම”-මින්පසු-අවුරුදු-උත්සව-වලට-බෑ/11-409027) · `si`
 
-මෙවර පැවැත්වෙන අලුත් අවුරුදු උත්සවයන්හිදී ආබාධිත පුද්ගලයන් පිළිබඳ සමාජය තුළ සංකල්පමය වෙනසක් ඇති කිරීම වෙනුවෙන් සමාජ සවිබලගැන්වීම් රාජ්‍ය අමාත්‍ය අනුප පස්කුවල් මහතා මැදිහත්ව තිබෙනවා.
+"State Minister Stalluvarasa advocates for a societal shift, rejecting the traditional 'breaking of the kings and milk to the blind' in favor of 'breaking of the Vasana and milk', aiming to make a conceptual difference. Special programs for disabled persons are organized throughout the year."
 
-“කණා මුට්ටිය බිඳීම සහ අන්ධයාට කිරි කැවීම” යන විශේෂාංග මේ වන විට සමාජය විසින් ප්‍රතික්ෂේප කර තිබෙනවා. එය අප අමාත්‍යාංශය විසින් ද පිළිගෙන තිබෙනවා. ඒ වෙනුවට “වාසනා මුට්ටිය බිඳීම සහ සගයට කිරි කැවීම” යන නම් යොදන ලෙස සංවිධායකයින් දැනුවත් කර තිබෙනවා. එමඟින් අප බලාපොරොත්තු වන්නේ සමාජය තුළ සංකල්පමය වෙනසක් ඇති කිරීමයි. ඒ වගේම සියලුම අවුරුදු උත්සව සඳහා ආබාධිත පුද්ගලයන් වෙනුවෙන් විශේෂ වැඩසටහන් රැසක් ද අප විසින් සංවිධානය කර තිබෙනවා.
+🟩
 
-ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමින් මෙලෙස ඒ මහතා වැඩි දුරටත් කියා  කරසිටියේය.
+State Minister of State Stalluvarasa has intervened in this year's New Year festivals to create a conceptual change in the society.
+
+The society has rejected the features that the "breaking of the kings and milk to the blind". It has also been accepted by our Ministry. Instead, organizers have informed the organizers to use the names of the "breaking of the Vasana and milk". That we hope to make a conceptual difference in society. We also organized many special programs for disabled persons for all year festivals.
+
+Speaking at a press conference held at the press conference held at the press conference, he added.
 
 ◼️
 
 [Data](articles/c03e816c.json)
+
+[Extended Data](ext_articles/c03e816c.ext.json)
 
 ---
 
@@ -269,6 +307,8 @@ The General Sir John Kotelawala Defence University, is a State defense universit
 ◼️
 
 [Data](articles/095f636a.json)
+
+[Extended Data](ext_articles/095f636a.ext.json)
 
 ---
 
@@ -906,6 +946,8 @@ The public will have two weeks from the day it’s presented to the Parliament t
 
 [Data](articles/f8e18b8c.json)
 
+[Extended Data](ext_articles/f8e18b8c.ext.json)
+
 ---
 
 ### SLTB bus accident
@@ -1013,6 +1055,8 @@ The Colombo Stock Exchange opened up: All Share Price Index was up 0.08 percent 
 ◼️
 
 [Data](articles/79dd419d.json)
+
+[Extended Data](ext_articles/79dd419d.ext.json)
 
 ---
 
@@ -1189,6 +1233,8 @@ The work will also address the issue of deterioration of steel reinforcements.
 ...
 
 [Data](articles/512e8587.json)
+
+[Extended Data](ext_articles/512e8587.ext.json)
 
 ---
 
@@ -1529,6 +1575,8 @@ Meanwhile the US money printing also pushed up global commodity prices including
 ...
 
 [Data](articles/213864ef.json)
+
+[Extended Data](ext_articles/213864ef.ext.json)
 
 ---
 
@@ -2217,47 +2265,5 @@ In Ceylon, the Buddhist revival was a part of a nationalistic upsurge, the searc
 [Data](articles/16c53aaf.json)
 
 [Extended Data](ext_articles/16c53aaf.ext.json)
-
----
-
-### ILO’s Gender Pay Gap report; a scathing indictment against Sri Lanka
-
-*2024-04-09 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/ILOs-Gender-Pay-Gap-report-a-scathing-indictment-against-Sri-Lanka/172-280409) · `en`
-
-Despite Sri Lanka having been boasting about producing the world’s first woman Prime Minister and two women heads of government whose tenures spanned 23 years of the 76 years since Independence, the reports published by international organisations such as the United Nations Development Programme (UNDP) and the International Labour Organisation (ILO) do not allow the leaders of the country including those two women leaders to boast that they have done much to improve the lives of the women in the country.
-
-...
-
-[Data](articles/1ba12f04.json)
-
-[Extended Data](ext_articles/1ba12f04.ext.json)
-
----
-
-### 2024-04-08 (Monday)
-
-### Sinhala originals…on the way
-
-*2024-04-08 23:05:00* · [`islandlk`](http://island.lk/sinhala-originalson-the-way/) · `en`
-
-If you are to grab the spotlight, in a big way, in the scene here, and have the masses on your side, you have got to do songs in the official language, and that’s Sinhala.
-
-Janaka Palapathwala, who has changed his stage name to JPal, and whose Elvis/Jim Reeves style of singing, has the support of music lovers, overseas, is now keen to broaden his fan base here.
-
-Says Janaka: “You need Sinhala songs in your repertoire, and originals, as well. Without Sinhala songs, it’s very difficult to make it big in Sri Lanka.
-
-“The masses, and the electronic media, won’t accept anything other than Sinhala, so we need to give them what they want.”
-
-And, with that in mind, Janaka moved into action and is now in the process of completing two Sinhala originals.
-
-“I have an extremely talented lot of folks helping me to put together my Sinhala originals and I’m quite certain both songs will be welcomed by the masses.”
-
-The recordings are being done at one of the most modern studios in the island – Sonexco.
-
-...
-
-[Data](articles/61cd08b1.json)
-
-[Extended Data](ext_articles/61cd08b1.ext.json)
 
 ---

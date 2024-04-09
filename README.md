@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 16:18:20**
+As of **2024-04-09 16:34:03**
 
 ## Newspaper Stats
 
-*Scraped **18,076** Articles*
+*Scraped **18,077** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,71 +20,113 @@ tamilmirrorlk | 2,121
 adaderanalk | 2,171
 virakesarilk | 2,664
 dailymirrorlk | 2,758
-adaderanasinhalalk | 2,930
+adaderanasinhalalk | 2,931
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,071 (100.0%) of 18,076 articles have been extended.
+18,076 (100.0%) of 18,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### ඉංග්‍රීසි ගුරුවරු 2500ක් බඳවා ගැනීමට අනුමැතිය
+### පාසල් නිවාඩුව ගැන දැනුම්දෙයි
+
+*2024-04-09 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195475) · `si`
+
+2024 වර්ෂයේ පළමු පාසල් වාරයේ පළමු වන අදියර හෙට (10) දිනයෙන් අවසන් කෙරෙන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+ඒ අනුව එම නිවේදනයේ දැක්වෙන්නේ පළමු පාසල් වාරයේ දෙවන අදියර 2024.04.24 වනදා ආරම්භ කෙරෙන බවය.
+
+රජයේ පාසල්, රජයේ අනුමත පෞද්ගලික පාසල්වල සිංහල හා දෙමළ පාසල් සඳහා මෙය අදාළ වෙයි.
+
+◼️
+
+[Data](articles/42becde1.json)
+
+---
+
+### Approval to recruit 2,500 English teachers
 
 *2024-04-09 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195474) · `si`
 
-ඉංග්‍රීසි මාධ්‍යයෙන් ඉගැන්වීම් සිදුකරන ගුරුවරුන් 2,500ක් බඳවාගැනීමට කැබිනට් අනුමැතිය හිමිවී තිබේ.
+The Cabinet has approved recruiting 2,500 more English teachers, aiming to meet the demand of 6,500 teachers for 2024, as currently there are 4,441 approved teachers.
 
-“සැමට ඉංග්‍රීසි” වැඩසටහන යටතේ මෙම යෝජනාව සඳහා කැබිනට් අනුමැතිය ලැබී ඇත.
+🟩
 
-ඉංග්‍රීසි මාධ්‍යයෙන් සාමාන්‍ය පෙළ විෂයන් ඉගැන්වීම සඳහා දැනට අනුමත ගුරුවරුන් සංඛ්‍යාව 4,441කි.
+Cabinet approval has been given to recruit 2,500 teachers in English medium.
 
-නමුත් ඒ සඳහා ගුරුවරුන් 6,500ක පමණ අවශ්‍යතාවයක් පවතින බවත්, බොහෝ පාසල්වල දැනට සේවයේ නියුතු සංඛ්‍යාවට අතිරේකව අවශ්‍ය කටයුතු සැලසුම් කරගනිමින් ඉංග්‍රීසි මාධ්‍යයෙන් ඉගැන්වීම් පුළුල් කර ඇති බවත් පාසල් 765ක් සම්බන්ධයෙන් සිදු කරන ලද ඇගයීමකදී හඳුනාගෙන තිබේ.
+The Cabinet approval has been given under the proposal under the "Alliance" program.
 
-ඒ අනුව, දැනට ඉංග්‍රීසි මාධ්‍යයෙන් විෂයයන් ඉගැන්වීම් සිදු කරනු ලබන පාසල් 765ක ප්‍රමාණය 2024 වර්ෂය තුළදී පාසල් 1,000ක් දක්වා වැඩි කරමින් ගුරු අවශ්‍යතාව සම්පූර්ණ කිරීම සඳහා ඉංග්‍රීසි මාධ්‍යයෙන් විෂයයන් උගන්වනු ලබන අනුමත ගුරු සංඛ්‍යාව 6,500 ක් දක්වා වැඩි කිරීමේ අරමුණින් අමාත්‍ය මණ්ඩලය මෙම තීරණය ගෙන ඇත.
+There are currently 4,441 approved teachers to teach Ordinary Level subjects in English medium.
+
+However, there is a need for about 6,500 teachers and that most of the schools currently work in working with the number of schools in many schools and is identified in an evaluation of 765 schools.
+
+Accordingly, the Cabinet has taken this decision to increase the approved number of approved teachers in the English medium to increase the teachers in the English medium of 2024.
 
 ◼️
 
 [Data](articles/fa84098d.json)
 
+[Extended Data](ext_articles/fa84098d.ext.json)
+
 ---
 
-### அரிசி விலையை குறைக்குமாறு கோரி வவுனியாவில் கவனயீர்ப்பு போராட்டம்
+### Attention Struggle in Vavuniya demanding a reduction in rice prices
 
 *2024-04-09 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180824) · `ta`
 
-அத்தியாவசிய பொருட்களின் விலை ஏற்றத்தைிற்கு எதிராகவும் விலை குறைப்பை முன்னெடுக்கக்கோரியும் வவுனியா இராசேந்திரங்குளத்தில் இன்று கவனயீர்ப்பு போராட்டம் ஒன்று முன்னெடுக்கப்பட்டுள்ளது.
+Protests in Vavuniya demand rice price reduction, highlighting economic crisis impact on Sri Lankan people, leading to food shortages and poverty.
 
-இதன்போது விவசாயிகளுக்கு இலவச திட்டங்களை வழங்கு, பட்டினிச்சாவு எதிர்காலத்தில் வேண்டாம், மூன்று வேளை உணவு எமக்கு வேண்டும் போன்ற பல்வேறு பதாதைகளை தாங்கியவாறு போராட்டத்தில் ஈடுபட்டனர்.
+🟩
 
-ஒட்டுமொத்த இலங்கை மக்களின் அடிப்படை உணவு அரிசிச் சோறு ஆகும். அந்த வகையில் தற்காலத்தில் எமது இலங்கை நாட்டில் ஏற்பட்டுள்ள பொருளாதார நெருக்கடியும் பொருட்களின் விலையேற்றமும் கிராம மட்டங்களிலுள்ள வறிய மற்றும் நடுத்தர குடும்பங்களிலுள்ள பெண்கள் மற்றும் பிள்ளைகள் மத்தியில் பாரிய உணவுப் தட்டுப்பாடு மட்டுமல்லாது போசாக்கு குறைபாடுகளையும் ஏற்படுத்தியுள்ளது.
+A protest campaign has been launched today in Vavuniya Rashendrangulam, demanding a reduction in prices of essential commodities.
+
+During this time, the farmers were struggling to carry out free plans, do not starve in the future, and three times a day.
+
+The basic food of the entire Sri Lankan people is rice rice. Thus, the economic crisis in our country and the price of commodities in the present country has caused not only a massive food shortage among women and children in the village level.
+
+Many people have been found in the absence of their employment opportunities. The rise of rice in Sri Lanka, especially in Sri Lanka, is in the process of receiving only one or two times instead of eating all three of the families with more members of the day.
+
+In some families, there is no rice and drinking water. The price of rice is still hunger in female -led families.
 
 ...
 
 [Data](articles/7059b8ee.json)
 
+[Extended Data](ext_articles/7059b8ee.ext.json)
+
 ---
 
-### பண்டிகை காலத்தை முன்னிட்டு சுகாதார வழிகாட்டி வெளியானது
+### Health Guide
 
 *2024-04-09 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180817) · `ta`
 
-தமிழ் சிங்கள பண்டிகையை முன்னிட்டு நடைபெறும் விளையாட்டு நிகழ்வுகளில் கலந்துகொள்ளும் போது கடைப்பிடிக்க வேண்டிய சுகாதார வழிகாட்டி ஆலோசனைகளை சுகாதார அதிகாரிகள் வெளியிட்டுள்ளனர்.
+Health officials have issued a guide titled "Guidelines to Prevention of Accidents and Strong Medical Cases in Sports Events organized during the festive season." This guide emphasizes public health and safety during festive sports events, including strategies to reduce risks such as accidents and severe medical conditions. It covers a variety of aspects, from managing the crowd to ensure a safe and happy celebration for everyone.
 
-இது, “பண்டிகைக் காலங்களில் ஏற்பாடு செய்யப்படும் விளையாட்டு நிகழ்வுகளில் ஏற்படுகின்ற விபத்துக்கள் மற்றும் கடுமையான மருத்துவ நிலைமைகளை தடுப்பதற்கான வழிகாட்டுதல் ” என்ற தலைப்பில் வெளியிட்டப்பட்டுள்ளது.
+🟩
 
-"தலையணை சண்டை" மற்றும் " கண்கட்டி முட்டி உடைத்தல்" போன்ற பாரம்பரிய விளையாட்டுகளாக இருந்தாலும் சரி அல்லது மரதன் ஓட்டப்போட்டி, சைக்கிள் ஒட்டப்போட்டி போன்ற நிகழ்வாக இருந்தாலும் அபாயங்கள் எற்படும்.
+Health officials have issued a health guide advice to be observed while attending sports events on the eve of the Tamil Sinhala festival.
 
-எனவே, பண்டிகை கால விளையாட்டு நிகழ்வுகளின் போது பொது சுகாதாரம் மற்றும் பாதுகாப்பிற்கு முன்னுரிமை அளிப்பதன் முக்கியத்துவத்தை இந்த வழிகாட்டுதல்கள் வலியுறுத்துகின்றன.
+It has been published titled "Guidelines to Prevention of Accidents and Strong Medical Cases in Sports Events organized during the festive season."
 
-அதில், விபத்துக்கள் மற்றும்  கடுமையான மருத்துவ நிலைமைகள் போன்ற அபாயங்களைக் குறைக்க  நிகழ்வு ஒருங்கிணைப்பாளர்கள், போட்டியாளர்கள் மற்றும் சமூக குழுக்களுக்கு அத்தியாவசிய உத்திகளை வழங்குகின்றன.
+Risks can be raised, whether "pillow fight" and "spectacular breaks", or an event like a marathon running, a bicycle clutter.
 
-...
+Therefore, these guidelines emphasize the importance of giving priority to public health and safety during festive sports events.
+
+In it, event coordinators, competitors and social groups provide essential strategies to reduce risks such as accidents and severe medical conditions.
+
+The guidance includes a variety of aspects, from managing the crowd to ensure a safe and happy celebration for everyone.
+
+The following are the general guidelines that must be followed in all sports events and specific events identified;https://shorturl.at/inmow
+
+◼️
 
 [Data](articles/31c8e1f7.json)
+
+[Extended Data](ext_articles/31c8e1f7.ext.json)
 
 ---
 
@@ -154,23 +196,33 @@ The proposal to amend the pertinent regulations was jointly presented by Preside
 
 [Data](articles/7a3bd494.json)
 
+[Extended Data](ext_articles/7a3bd494.ext.json)
+
 ---
 
-### மலையக பெருந்தோட்டத் தொழிலாளர்களுக்கு சம்பள உயர்வு : சர்வதேச தொழிலாளர் சம்மேளனம் அமைச்சர் ஜீவனிடம் தெரிவித்துள்ள விடயம்
+### Salary Increase for Upcountry Plantation Workers: International Labor Federation
 
 *2024-04-09 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/180813) · `ta`
 
-மலையக பெருந்தோட்டத் தொழிலாளர்களுக்கு நியாயமான சம்பள உயர்வு கிடைக்கப்பெறுவதற்கு சர்வதேச தொழிலாளர் சம்மேளனம் தமது அதிகார எல்லைக்குட்பட்ட வகையில் அனைத்து அறிவித்தல்களையும் விடுத்துள்ளது.
+The International Labor Federation has called for a salary increase for upland plantation workers, with discussions held at the Ministry of Colombo. Key issues, including salary increases and workers' rights, were addressed. Representatives of the International Workers Federation confirmed wage increases and emphasized the importance of workers' rights and security.
 
-சர்வதேச தொழிலாளர் சம்மேளனத்தின் இலங்கை மற்றும் மாலைதீவு ஆகிய நாடுகளுக்கான இயக்குநர் ஜொனி சிம்ப்சனிற்கும், இ.தொ.காவின் பொதுச்செயலாளரும், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமானிற்கும் இடையிலான சந்திப்பு கொழும்பு அமைச்சில் (08.04.2024) மாலை நடைபெற்றது.
+🟩
 
-மேற்படி சந்திப்பின்போது முக்கிய பல விடயங்கள் தொடர்பில் கலந்துரையாடப்பட்டுள்ளதுடன், தோட்டத் தொழிலாளர்களுக்கான சம்பள உயர்வு குறித்தும் கூடுதல் கவனம் செலுத்தப்பட்டுள்ளது.
+The International Labor Federation has issued all the announcements under its jurisdiction for a reasonable salary increase for upland plantation workers.
 
-பெருந்தோட்டத் தொழிலாளர்களுக்கு சம்பள உயர்வை பெற்றுக்கொடுப்பதற்கு முன்னெடுக்கப்பட்டு வரும் நகர்வுகள் பற்றி மேற்படி பிரதிநிதிகளிடம் ஜீவன் தொண்டமான் விளக்கமளித்தார். அத்துடன், இந்த விடயத்தில் உள்ள சவால்கள் பற்றியும் எடுத்துரைத்துள்ளார்.
+The meeting between Johnny Simpson, Director of the International Labor Federation and the Maldives, Jeevan Thondaman, General Secretary of the CWC and Jeevan Thondaman, Minister of Water Resources and Estate Infrastructure, was held at the Ministry of Colombo (08.04.2024).
+
+During the meeting, a number of key issues were discussed and more attention was paid to the salary increase for plantation workers.
+
+Jeevan Thondaman explained to these representatives about the moves being taken to pay a pay hike to plantation workers.. He also highlighted the challenges on this issue.
+
+Responding to this, representatives of the International Workers Federation have stated that the plantation workers have been given a wage increase.
 
 ...
 
 [Data](articles/7129fd37.json)
+
+[Extended Data](ext_articles/7129fd37.ext.json)
 
 ---
 
@@ -2269,27 +2321,5 @@ The old year and the New Year's old year and the New Year have been announced on
 [Data](articles/be7d951d.json)
 
 [Extended Data](ext_articles/be7d951d.ext.json)
-
----
-
-### Health guidelines issued ahead of festive season
-
-*2024-04-09 04:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-guidelines-issued-ahead-of-festive-season/108-280439) · `en`
-
-Colombo, April 9 (Daily Mirror) - As Sri Lanka gears up for the Sinhala and Tamil New Year season, health authorities have released a set of guidelines aimed at safeguarding participants and spectators during sporting events.
-
-The guidelines, titled "Guidelines for Prevention of Injuries and Acute Medical Conditions Related to Sports Events Organized During Festival Seasons in Sri Lanka," address the unique challenges posed by combining festivals and sporting activities.
-
-Whether it is traditional sports like "pillow fights" and "kana mutti" or modern events like cross-country running and cycling, each activity carries its own set of risks.
-
-These guidelines emphasize the importance of prioritizing public health and safety during festival sporting events.
-
-They provide organizers, participants and communities with essential strategies to mitigate the risks associated with injuries and acute medical conditions.
-
-...
-
-[Data](articles/96c43ca4.json)
-
-[Extended Data](ext_articles/96c43ca4.ext.json)
 
 ---

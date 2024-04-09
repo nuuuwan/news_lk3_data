@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 14:03:22**
+As of **2024-04-09 14:18:28**
 
 ## Newspaper Stats
 
-*Scraped **18,042** Articles*
+*Scraped **18,051** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,8 +14,8 @@ dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 987
 islandlk | 992
-economynextcom | 996
-adalk | 1,517
+economynextcom | 1,004
+adalk | 1,518
 tamilmirrorlk | 2,119
 adaderanalk | 2,170
 virakesarilk | 2,659
@@ -26,45 +26,101 @@ adaderanasinhalalk | 2,925
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,040 (100.0%) of 18,042 articles have been extended.
+18,042 (100.0%) of 18,051 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### බටහිර රුසියාවේ පාලමක් කඩා වැටේ
+### Sri Lanka expects up to 200 thousand vehicles on the road in New Year
+
+*2024-04-09 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-up-to-200-thousand-vehicles-on-the-road-in-new-year-158020/) · `en`
+
+ECONOMYNEXT- Sri Lanka expects 150,000 to 200,000 vehicles on the road during the April New Year season, compared to around 110,000 seen on other days, Road Development Authority Director General, S L P Suriyabandara said.
+
+“We usually see a 100,000 to a 110,000 cars a month,” Suriyabandara said at a press conference on Tuesday. “However, for the Christmas season we saw around 145,000 cars, and for the new year season we expect 150-200,000 cars.”
+
+Suriyabandara said that vehicles are expected to flood the roads from April 16 to April 18 as those who went on holiday or to visit relatives head back to Colombo.
+
+Due to this, the National Council for Road Safety has warned drivers of the possibility of increased road accidents in the Sinhala and Tamil New Year season.
+
+...
+
+[Data](articles/c8f683c8.json)
+
+---
+
+### A bridge in western Russia collapses
 
 *2024-04-09 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195469) · `si`
 
-බටහිර රුසියාවේ දුම්රිය මාර්ගයක් මතට පාලමක් කඩා වැටීමෙන් සිදුවූ අනතුරකින් කාන්තාවක් මියගොස් තවත් පස් දෙනෙකු තුවාල ලබා තිබේ.
+A bridge in western Russia collapsed, killing one and injuring five. The railway line was temporarily suspended, and about 8,000 houses lost gas due to pipe damage.
 
-මේ හේතුවෙන් එම දුම්රිය මාර්ගයේ ධාවන කටයුතු ද තාවකාලිකව අත්හිටුවා ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-එමෙන්ම නළ මාර්ගවලටට සිදුවූ හානි හේතුවෙන් නිවාස 8,000කට පමණ ගෑස් සැපයුමට බාධා එල්ල වී ඇති බව වාර්තා වේ.
+A woman was killed and another five injured in a bridge on a railway line in Western Russia.
 
-අදාළ පාලම බොහෝ කලක් තිස්සේ නඩත්තු නොකිරීම කඩා වැටීමට හේතු වී ඇති බව එරට මාධ්‍ය වාර්තා කර ඇත.
+The railway line has been temporarily suspended, foreign media reports say.
+
+The gas has been interrupted by about 8,000 houses due to the damage to the pipes.
+
+The bridge has reportedly led to the collapse of the bridge for a long time.
 
 ◼️
 
 [Data](articles/89ed3c24.json)
 
+[Extended Data](ext_articles/89ed3c24.ext.json)
+
 ---
 
-### මැතිවරණ ගැන රජය ගත් විශේෂ තීරණය
+### Special decision taken about elections
 
 *2024-04-09 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195468) · `si`
 
-මැතිවරණ සඳහා වන ඇප මුදල් තැන්පත් කිරීමේ ගාස්තු සංශෝධනය කිරීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
+The Cabinet has approved revising election deposits, updating the Parliamentary Election Act and Provincial Councils Act. The President and Constitutional Reforms have been tasked with drafting a bill to amend these acts. Candidate bail deposits have been increased to Rs 3.1 million and Rs 16,000, respectively, under President Act No. 15 of 1981 and Parliamentary Party of No. 1 of 1981.
 
-ජනාධිපතිවරයා තෝරා පත්කර ගැනීමේ පනතේ, පාර්ලිමේන්තු මැතිවරණ පනතේ සහ පළාත් සභා ඡන්ද විමසීම් පනතේ විධිවිධාන පරිදි දැනට පවතින ඇප තැන්පතු මුදල් සීමාවන් කාලෝචිත පරිදි වත්මන් සමාජ, ආර්ථීක සහ දේශපාලන පසුබිම අනුව යාවත්කාලීන කිරීම සුදුසු බවට හඳුනාගනු ලැබ ඇත.
+🟩
 
-ඒ අනුව, පහත පරිදි අදාළ ඇප තැන්පත් මුදල් සංශෝධනය කිරීම සඳහා පනත් කෙටුම්පතක් සකස් කරන ලෙස නීති කෙටුම්පත් සම්පාදකට උපදෙස්දීමට ජනාධිපතිවරයා සහ අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍යවරයා ඉදිරිපත් කළ ඒකාබද්ධ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කර තිබේ.
+Cabinet approval has been approved to revise the deposits for elections.
 
-1981 අංක 15 දරන ජනාධිපතිවරයා ගැනීමේ පනතට අනුව පිළිගත් දේශපාලන පක්ෂයකින් ඉදිරිපත් වන අපේක්ෂකයෙකුගේ ඇප තැන්පතුව රුපියල් මිලියන 2.6 දක්වාත්, ස්වාධීන අපේක්ෂකයෙකුගේ ඇප තැන්පතුව රුපියල් මිලියන 3.1 දක්වාත් ඉහළ නංවා ඇත.
+Upgrading the existing bail deposit limits in the Parliamentary Election Act and the Provincial Councils Act, as timely, is appropriate to update the existing social, economic and political background.
+
+Accordingly, the President and the Constitutional Reforms and the Constitutional Reforms have been approved to instruct a legal drafting provision to formulate a bill to amend the following bills.
+
+The bail deposit of a candidate from a recognized political party in accordance with the President Act No. 15 of 1981 has been increased to Rs 3.1 million.
+
+The bail de detail of one candidate from a reputed political party in accordance with the Parliamentary Party in accordance with the Parliamentary Party of No. 1 of 1981 has been increased to Rs. 16,000 / -.
+
+Up to Rs.
+
+◼️
+
+[Data](articles/631b223f.json)
+
+[Extended Data](ext_articles/631b223f.ext.json)
+
+---
+
+### Sri Lanka IMF, World Bank loan linked state bank reforms get cabinet nod
+
+*2024-04-09 13:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-imf-world-bank-loan-linked-state-bank-reforms-get-cabinet-nod-158018/) · `en`
+
+ECONOMYNEXT  – Sri Lanka’s cabinet has approved reforms to the governance of state-owned banks which is required under a program with the International Monetary Fund, Minister Bandula Gunawardana said.
+
+The reforms were identified by a committee made up of representative of the IMF, World Bank and Central Bank of Sri Lanka, Gunawardana told reporters Tuesday.
+
+The changes relate to addressing weaknesses in governance, risk management and supervision of banks, he said.
+
+The reforms are tied to a structural benchmark of the IMF program and prior actions of a World Bank development policy operation (budget support loans) has to be completed quickly, he said.
+
+Sri Lanka struck a staff level agreement following mission who conducted the second review with final board approval after some prior actions have to be concluded.
+
+The World Bank gives budget support loans only after the completion of prior actions.
 
 ...
 
-[Data](articles/631b223f.json)
+[Data](articles/a9be04f6.json)
 
 ---
 
@@ -120,6 +176,44 @@ Police suspect that the shooting has been carried out by the two of them to rece
 
 ---
 
+### KKS Port acquires Sri Lanka Cement Corp land
+
+*2024-04-09 13:25:00* · [`economynextcom`](https://economynext.com/kks-port-acquires-sri-lanka-cement-corp-land-158013/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Port Authority owned Kankasanthurai Port has acquired 23 acres and 12 perches of land belonging to the Cement Corporation, Cabinet spokesman Minister Bandula Gunawardena said.
+
+“After the Surveyor General’s assessment, the Port Authority has paid an advance of 52 million rupees to the Sri Lanka Cement Corporation,” Gunawardena told reporters on Tuesday announcing the week’s Cabinet decisions.
+
+“Accordingly these identified lands will be transferred legally as per State Lands Ordinance 6 (1) to the Kankasanthurai Port for its development.”
+
+India recently pledged 61.5 million dollars in grant aid to develop Kankasanthurai Port in the island’s Northern Jaffna peninsula.
+
+As part of the project, a new breakwater will be constructed, and the port will be dredged up to a depth of 30 metres to accommodate deep-draft vessels
+
+India pledges 61.5 million dollar grant for Jaffna KKS port Sri Lanka says
+
+...
+
+[Data](articles/cfb29bb8.json)
+
+---
+
+### “කණා මුට්ටිය බිඳීම සහ අන්ධයාට කිරි කැවීම” මින්පසු අවුරුදු උත්සව වලට බෑ
+
+*2024-04-09 13:05:39* · [`adalk`](https://www.ada.lk/breaking_news/“කණා-මුට්ටිය-බිඳීම-සහ-අන්ධයාට-කිරි-කැවීම”-මින්පසු-අවුරුදු-උත්සව-වලට-බෑ/11-409027) · `si`
+
+මෙවර පැවැත්වෙන අලුත් අවුරුදු උත්සවයන්හිදී ආබාධිත පුද්ගලයන් පිළිබඳ සමාජය තුළ සංකල්පමය වෙනසක් ඇති කිරීම වෙනුවෙන් සමාජ සවිබලගැන්වීම් රාජ්‍ය අමාත්‍ය අනුප පස්කුවල් මහතා මැදිහත්ව තිබෙනවා.
+
+“කණා මුට්ටිය බිඳීම සහ අන්ධයාට කිරි කැවීම” යන විශේෂාංග මේ වන විට සමාජය විසින් ප්‍රතික්ෂේප කර තිබෙනවා. එය අප අමාත්‍යාංශය විසින් ද පිළිගෙන තිබෙනවා. ඒ වෙනුවට “වාසනා මුට්ටිය බිඳීම සහ සගයට කිරි කැවීම” යන නම් යොදන ලෙස සංවිධායකයින් දැනුවත් කර තිබෙනවා. එමඟින් අප බලාපොරොත්තු වන්නේ සමාජය තුළ සංකල්පමය වෙනසක් ඇති කිරීමයි. ඒ වගේම සියලුම අවුරුදු උත්සව සඳහා ආබාධිත පුද්ගලයන් වෙනුවෙන් විශේෂ වැඩසටහන් රැසක් ද අප විසින් සංවිධානය කර තිබෙනවා.
+
+ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමින් මෙලෙස ඒ මහතා වැඩි දුරටත් කියා  කරසිටියේය.
+
+◼️
+
+[Data](articles/c03e816c.json)
+
+---
+
 ### Sri Lanka to establish diplomatic relations with Republic of Chad
 
 *2024-04-09 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98534/sri-lanka-to-establish-diplomatic-relations-with-republic-of-chad) · `en`
@@ -155,6 +249,26 @@ Transport authorities say that special transport services have been launched by 
 [Data](articles/4d3fcffc.json)
 
 [Extended Data](ext_articles/4d3fcffc.ext.json)
+
+---
+
+### Sri Lanka to offer paid medical degrees through KDU
+
+*2024-04-09 12:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-offer-paid-medical-degrees-through-kdu-158008/) · `en`
+
+ECONOMYNEXT – The Kotelawala Defence University (KDU) will offer a paid medical degree programme to students who qualify through the Z score, Minister Bandula Gunawardena said.
+
+“Middle-class families sell their ancestral lands to send their children abroad to countries like Bangladesh, Nepal, and Belarus to study for medical degrees,” Gunawardena said.
+
+“The foreign exchange Sri Lanka gets from migrant workers goes out of the country to pay for our students’ education abroad. This is a crime.”
+
+Gunawardena said this could be addressed by offering fee-levying medical degree programmes locally.
+
+The General Sir John Kotelawala Defence University, is a State defense university administered by the Ministry of Defense. At present it offers study programmes to those who join the defence forces. (Colombo/Apr9/2024)
+
+◼️
+
+[Data](articles/095f636a.json)
 
 ---
 
@@ -772,6 +886,28 @@ He was appointed as the Justice Service Officer in 2007 and served as a judge in
 
 ---
 
+### Sri Lanka cabinet approves revised electricity reform bill
+
+*2024-04-09 10:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-revised-electricity-reform-bill-157981/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers have approved an revised bill to reform the country’s electricity sector, Energy Minister Kanchana Wijesekera said.
+
+The bill will be published in the government gazette this week and presented to parliament in the last week of April, Wijesekera said in a post of the social media platform X.com (twitter).
+
+The electricity reform bill is linked to a 100 million US dollar budget support loan from the Asian Development bank.
+
+The reform bill envisages a splitting Ceylon Electricity Board in to separate entities.
+
+The first bill was revised amid concerns from stakeholders including lenders.
+
+The public will have two weeks from the day it’s presented to the Parliament to challenge the bill, Minister Wijesekera said.
+
+◼️
+
+[Data](articles/f8e18b8c.json)
+
+---
+
 ### SLTB bus accident
 
 *2024-04-09 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195461) · `si`
@@ -855,6 +991,28 @@ The Minister also announced the government's intention to prioritize war heroes 
 [Data](articles/28ba9568.json)
 
 [Extended Data](ext_articles/28ba9568.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 298.60/65 to the US dollar
+
+*2024-04-09 09:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-298-60-65-to-the-us-dollar-157971/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 298.60/65 to the US dollar in the spot forex market on Tuesday, stronger from 298.90/299.00 on Monday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 was quoted at 11.35/40 percent from 11.35/45 percent.
+
+A bond maturing on 15.09.2027 was quoted stable at 11.85/12.00 percent.
+
+A bond maturing on 15.12.2028 was quoted at 12.05/15 percent down from 12.10/20 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.15/30 percent from 12.20/40 percent.
+
+The Colombo Stock Exchange opened up: All Share Price Index was up 0.08 percent at 11,929, the S&P SL20 was up 0.10 percent at 3,547.(Colombo/Apr9/2024)
+
+◼️
+
+[Data](articles/79dd419d.json)
 
 ---
 
@@ -1011,6 +1169,26 @@ In February, the advice stated: “Protests, demonstrations, roadblocks and viol
 [Data](articles/658998e1.json)
 
 [Extended Data](ext_articles/658998e1.ext.json)
+
+---
+
+### Sri Lanka’s Access to complete substructure of halted airport terminal
+
+*2024-04-09 09:14:00* · [`economynextcom`](https://economynext.com/sri-lankas-access-to-complete-substructure-of-halted-airport-terminal-157968/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Access Engineering will complete the substructure of a new terminal which was halted by a Japanese contractor after the island defaulted on its foreign debt in 2022.
+
+State-run Airport and Aviation Services (Sri Lanka) Limited said the Access will be paid by its own funds and concurrence has been obtained from the Japan International Co-operation Agency which was funding the terminal expansion.
+
+Access will work under the direct supervision of consultants to the project, Japan Airport Consultants, Inc and Nippon Koei Co. Ltd.
+
+Access will install 68 remaining piles, construct pile caps and ground beams at the Main Terminal Building (MTB), Pier 2, and Pier 3, as well as the partial completion of an underground utility tunnel in Pier No 2 and 3.
+
+The work will also address the issue of deterioration of steel reinforcements.
+
+...
+
+[Data](articles/512e8587.json)
 
 ---
 
@@ -1331,6 +1509,26 @@ In cases where strong winds and lightning impacts occur. Remble
 [Data](articles/e13cb158.json)
 
 [Extended Data](ext_articles/e13cb158.ext.json)
+
+---
+
+### Sri Lanka to publish ‘indicative prices’ for 15 essential goods as rupee strengthens
+
+*2024-04-09 07:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-publish-indicative-prices-for-15-essential-goods-as-rupee-strengthens-157960/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Consumer Affairs Authority will publish ‘indicative prices’ for key imported essential goods, based on customs import data and domestic costs, Trade Minister Nalin Fernando said.
+
+The indicative prices are published due to public concerns that big margins are made by traders and there were big gaps between import prices and retail prices, he said.
+
+Sri Lanka’s food prices have fallen steeply since the central bank hike rates ending money printing to suppress rates.
+
+Sri Lanka’s central bank started to print money from early 2020, cutting rates, cutting reserve ratios and dumping hundreds of billions of rupees into the banking system, triggering severe forex shortages and downgrades, making it impossible to service foreign debt.
+
+Meanwhile the US money printing also pushed up global commodity prices including wheat, until the Federal Reserve hike rates starting from March 2022, and commodity prices started to ease about 4 to 5 months later.
+
+...
+
+[Data](articles/213864ef.json)
 
 ---
 
@@ -2061,177 +2259,5 @@ The recordings are being done at one of the most modern studios in the island �
 [Data](articles/61cd08b1.json)
 
 [Extended Data](ext_articles/61cd08b1.ext.json)
-
----
-
-### A taste of LunuDehi…in Negombo
-
-*2024-04-08 22:58:00* · [`islandlk`](http://island.lk/a-taste-of-lunudehiin-negombo/) · `en`
-
-Having just completed a highly successful tour of Canada and the States, with BnS, Umaria and Randhir, the band LunuDehi is, once again, ready to do the needful, back home.
-
-They say they are all geared up for the big event on Friday, 26th April, presented by the Past Pupils’ Association of Ave Maria Convent, Negombo.
-
-‘Twinkling Blues 2024’ will be held at the Jetwing Blue, Negombo, and, in addition to LunuDehi, JAYASRI will also be in attendance, along with DJ Nuwan.
-
-‘Twinkling Blues 2024’ is a dancing night, they say, and will move into action from 7.30 pm onwards.
-
-Since it’s a special event, the dress code is black and gold.
-
-For more information, you could call either Chrishani (0777465912) or Neeliya (0773014411).
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/2df5930c.json)
-
-[Extended Data](ext_articles/2df5930c.ext.json)
-
----
-
-### Sajith-AKD debate: “People Development” programs of political parties should be discussed
-
-*2024-04-08 22:51:46* · [`dailyftlk`](https://www.ft.lk/columns/Sajith-AKD-debate-People-Development-programs-of-political-parties-should-be-discussed/4-760458) · `en`
-
-Both leaders, Sajith Premadasa (SP) of SJB and Anura Kumara Dissanayake (AKD) of the JVP/NPP have said a few days ago they are willing to debate their economic programs on TV. Yet for now, neither they nor their parties are getting into the logistics of holding such debate in weeks to come. About a month and a half ago Harsha de Silva of SJB invited Sunil Handunneththi the shadow finance minister of the JVP/NPP for a debate on their economic program on TV, but Handunneththi’s position was, leaders as presidential candidates should explain their economic program to the people.
-
-...
-
-[Data](articles/552f8f2f.json)
-
-[Extended Data](ext_articles/552f8f2f.ext.json)
-
----
-
-### With a View to a Kill (Master Spy – James Bond)
-
-*2024-04-08 22:50:12* · [`dailyftlk`](https://www.ft.lk/columns/With-a-View-to-a-Kill-Master-Spy-James-Bond/4-760457) · `en`
-
-When former President Sirisena claimed knowledge of the behind the scenes string-pullers of the Easter Sunday carnage, he was being true to the ways and methods of our clan in white native dress
-
-“I know who did it” Maithripala Sirisena on the Easter bombing
-
-Even as long ago as the Greek and Roman eras, playwrights have been engaging with the idea of tragicomedy, the dramatic coexistence of the two opposite elements in the human condition. “All the world’s a stage, and all the men and women merely players” suggested the Bard; characters are inter-changeable, the dramatists introduced men as gods, slaves as masters, a trivialising portrait exemplifying the inherence of the two elements in the one moment, tragedy and comedy. The tragicomedy exaggerates and glorifies the trivial, the banal is presented as climacteric, a burlesque denying authenticity.
-
-...
-
-[Data](articles/3d019c1a.json)
-
-[Extended Data](ext_articles/3d019c1a.ext.json)
-
----
-
-### Sri Lanka needs younger directors – those who are wonderfully weird than dreadfully dull
-
-*2024-04-08 22:48:11* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-needs-younger-directors-those-who-are-wonderfully-weird-than-dreadfully-dull/4-760456) · `en`
-
-Should we not have new blood and new thinking in them in staying relevant?
-
-The bottom line is that boards in Sri Lanka are too ‘old school’ and this is hampering Sri Lanka’s march to a new world economy, an economy which is personified by a shift from a manufacturing and commodity base to one which leverages technology in creating products and services at rates which could never be matched by traditional methods
-
-...
-
-[Data](articles/54414dc7.json)
-
-[Extended Data](ext_articles/54414dc7.ext.json)
-
----
-
-### Rs 200 billion social safety net to support Sri Lanka’s vulnerable populations amid economic turmoil
-
-*2024-04-08 22:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98525/rs-200-billion-social-safety-net-to-support-sri-lankas-vulnerable-populations-amid-economic-turmoil) · `en`
-
-Presidential Director General (Community Affairs) Mr. Rajith Keerthi Tennakoon said that nearly Rs. 200 billion has been paid in 2023 alone to provide relief to the people affected by the economic crisis.
-
-He also mentioned that the number of relief beneficiaries as of March 31, 2024 is 1,854,308.
-
-Mr. Tennakoon mentioned this while making a special statement to the media today (08).
-
-The government acknowledges its duty to alleviate the hardships faced by the populace amidst the profound economic challenges experienced in 2021 and 2022. In the singular year of 2023, a substantial sum of Rs. 184,098.27 million is deemed necessary for various aids, loans, and allowances under the Samurdhi program, catering to seniors, disabled individuals, patients with kidney disorders, and other relief needs.
-
-Additionally, the government’s total expenditure on social welfare initiatives in 2023, inclusive of appeals and outstanding payments, amounts to approximately Rs.189,650.95 million (189.6 billion).
-
-...
-
-[Data](articles/bb7222e8.json)
-
-[Extended Data](ext_articles/bb7222e8.ext.json)
-
----
-
-### Navigating family business succession
-
-*2024-04-08 22:45:48* · [`dailyftlk`](https://www.ft.lk/columns/Navigating-family-business-succession/4-760455) · `en`
-
-Through the lens of Wilson’s and Samson’s families, the movie inspires to embrace change, foster innovation, honour traditions, and discover new pathways towards success and fulfilment
-
-The renowned actor and director, Giriraj Kaushalya’s latest Sinhala film emerged as a remarkable hit, captivating audiences with irresistible humour. Produced by Basuru Siriwardena for Alankulama films, the movie features popular veteran actors, late Jayalath Manoratne, Mahendra Perera, Rodney Warnakula, Priyantha Seneviratne, Giriraj Kaushalya, Sampath Jayaweera, Gihan Fernando, Maureen Charuni, Jayani Senanayake, Sahan Ranwala, Piyumi Botheju, Ranga Jayakody, alongside the debut performances of Rasanjana Nandasiri and Sandani Hettigoda.
-
-The movie emerges as a beacon of joy, spreading smiles and laughter. As it continues to charm audiences and win hearts, it cements its place as a must-watch cinematic gem in the vibrant landscape of Sri Lankan cinema.
-
-...
-
-[Data](articles/af38b4eb.json)
-
-[Extended Data](ext_articles/af38b4eb.ext.json)
-
----
-
-### Fire at the pharmacy in Punduloya
-
-*2024-04-08 22:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180769) · `ta`
-
-A fire in Punduloya's private hospital pharmacy on Saturday night may have been electrocution-related. Damage to furniture and drugs is unknown. Punduloya Police and Nuwara Eliya Forensic Division are investigating.
-
-🟩
-
-A fire broke out in a private hospital in Punduloya main city. The incident took place on Saturday night (06).
-
-Initial inquiries revealed that the fire may have been caused by the electrocution in the pharmacy.
-
-During this time, the police said that the damage to the furniture, including the drugs that were placed in the pharmacy, were unknown.
-
-The Punduloya Police and the Nuwara Eliya Forensic Division have joined the further investigations to identify the causes of the fire.
-
-◼️
-
-[Data](articles/92e7c1c8.json)
-
-[Extended Data](ext_articles/92e7c1c8.ext.json)
-
----
-
-### Full’r Burgers—Giga Food’s gourmet journey beyond boundaries
-
-*2024-04-08 22:41:00* · [`islandlk`](http://island.lk/fullr-burgers-giga-foods-gourmet-journey-beyond-boundaries/) · `en`
-
-One’s heart desires, what his eyes attract and taste buds approve! Full’r Burgers stands as a beacon of culinary innovation, tantalizing taste buds and igniting imaginations with each bite. Spearheaded by the visionary CEO, Shifaz Riyaz, of Giga Foods Pvt Ltd, the brand approaches challenges not as hindrances but as pathways to growth and excellence. With a steadfast commitment to redefining the burger experience, Full’r Burgers has triumphed through adversity, boasting seven thriving outlets across the western province.
-
-At the heart of Full’r’s success lies a dedication to diversity and delight. From the whimsical ‘Baby Barry,’ designed to bring smiles to the faces of little ones, to the fiery intensity of the ‘Major General,’ catering to adventurous palates, each burger tells a story of craftsmanship and passion. COO Revan Gunewardene echoes this sentiment, emphasizing the brand’s unwavering pursuit of quality, consistency, and innovation.
-
-...
-
-[Data](articles/534c3b56.json)
-
-[Extended Data](ext_articles/534c3b56.ext.json)
-
----
-
-### World Wings Education & Migration launches first overseas office in Sri Lanka
-
-*2024-04-08 22:40:00* · [`islandlk`](http://island.lk/world-wings-education-migration-launches-first-overseas-office-in-sri-lanka/) · `en`
-
-World Wings Education & Migration, a distinguished leader in global education and migration services, proudly announces the grand opening of its inaugural overseas office in Sri Lanka. With a rich legacy spanning over two decades in the education and migration sector, World Wings is poised to revolutionize the landscape of overseas education consultancy in Sri Lanka.
-
-Anuj Vashisht, Chairman of World Wings Education – Sri Lanka, remarked on the burgeoning trend of Sri Lankan students opting for higher education abroad, positioning Sri Lanka as a prime destination for foreign investors in the field of education. Leveraging their expertise and experience, World Wings is committed to providing comprehensive services ranging from student counseling, visa facilitation, loan assistance, accommodation solutions, to migration planning – all conveniently accessible under one roof.
-
-...
-
-[Data](articles/d221eb50.json)
-
-[Extended Data](ext_articles/d221eb50.ext.json)
 
 ---

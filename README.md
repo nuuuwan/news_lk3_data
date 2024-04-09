@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 00:34:41**
+As of **2024-04-10 00:48:21**
 
 ## Newspaper Stats
 
-*Scraped **18,158** Articles*
+*Scraped **18,160** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 159
 bbccomsinhala | 190
 dbsjeyarajcom | 213
 newsfirstlk | 363
-dailyftlk | 987
+dailyftlk | 989
 islandlk | 992
 economynextcom | 1,015
 adalk | 1,531
@@ -26,11 +26,47 @@ adaderanasinhalalk | 2,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,155 (100.0%) of 18,158 articles have been extended.
+18,158 (100.0%) of 18,160 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### National Chamber and KPMG forge strategic collaboration to develop SME sector
+
+*2024-04-10 00:27:19* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-and-KPMG-forge-strategic-collaboration-to-develop-SME-sector/34-760508) · `en`
+
+From left: NCCSL Council Member Ruwan Fernando, Honorary Secretary Dr. Lakmal Fernando, Senior Deputy President Anura Warnakulasooriya, President Deepal Nelson, KPMG Sri Lanka Managing Partner Priyanka Jayatilake, Principal - Deal Advisory, Head of Advisory and Deputy Head of Markets Shiluka Goonewardene, NCCSL Secretary General/CEO Nilupul Chandrasena, KPMG Sri Lanka Manager – Markets Uthpala Subasinghe, and Senior Executive – Markets Rachini Weerasekara
+
+National Chamber President Deepal Nelson (left) exchanging the MoU with KPMG Sri Lanka Managing Partner Priyanka Jayatilake
+
+The National Chamber of Commerce of Sri Lanka (NCCSL) and KPMG Sri Lanka have officially signed a Memorandum of Understanding (MOU) aimed at fostering knowledge sharing and collaborative endeavors.
+
+This landmark agreement marks a strategic collaboration between two influential organisations, poised to catalyse numerous joint initiatives.
+
+...
+
+[Data](articles/1a031d98.json)
+
+---
+
+### Vindhya Weerasekera appointed to RIL Property Board
+
+*2024-04-10 00:22:51* · [`dailyftlk`](https://www.ft.lk/business/Vindhya-Weerasekera-appointed-to-RIL-Property-Board/34-760507) · `en`
+
+RIL Property has announced the appointment of legal professional Vindhya Weerasekera to its Board as an Independent Non-Executive Director.
+
+Weerasekera is an Attorney-at-Law and was called to the Bar in 1997. She is a Bachelor of Laws (LLB) Graduate from the University of Colombo. She obtained her Master of Laws (LLM) in International Trade Law from the University of Wales.
+
+She has also obtained a Post Attorney Diploma in Intellectual Property Law from the Sri Lanka Law College in collaboration with the Asia Pacific Institute, Washington DC, USA.
+
+Vindhya began her career as a Junior Lawyer of Dr. K. Kanag-Isvaran, President’s Counsel. She has extensive experience of over 26 years in the legal and corporate sector in senior capacities including a multinational company. Vindhya is presently attached to the Colombo Port City Economic Commission in the capacity of Director Legal and Corporate Affairs of the Commission.
+
+...
+
+[Data](articles/54276ace.json)
+
+---
 
 ### New Year, tough times and animal abuse - E
 
@@ -48,6 +84,8 @@ Making a bad situation worse, the financial meltdown in 2022 led the country to 
 
 [Data](articles/67ee24d8.json)
 
+[Extended Data](ext_articles/67ee24d8.ext.json)
+
 ---
 
 ### Sri Lanka best  place for solo female travel and belittling country
@@ -61,6 +99,8 @@ I have written in these pages that Sri Lankans, more than anyone else, have done
 ...
 
 [Data](articles/6bc2caef.json)
+
+[Extended Data](ext_articles/6bc2caef.ext.json)
 
 ---
 
@@ -98,17 +138,23 @@ In bowling, Saris Pavli took 2 wickets for 16 runs, Amuruda Suren Kumar took 2 w
 
 ---
 
-### 779 கைதிகளுக்கு பொது மன்னிப்பு
+### 779 public apologies for prisoners
 
 *2024-04-09 23:40:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/779-கைதிகளுக்கு-பொது-மன்னிப்பு/175-335808) · `ta`
 
-தமிழ், சிங்களப் புத்தாண்டை முன்னிட்டு 779 கைதிகளுக்கு பொது மன்னிப்பு வழங்க ஜனாதிபதி தீர்மானித்துள்ளார்.
+The President grants public amnesty to 779 prisoners during Tamil and Sinhala New Year, using Article 34 (1) powers.
 
-அரசியலமைப்பின் 34(1) பிரிவிற்கமைவாக ஜனாதிபதியின் அதிகாரங்களைப் பயன்படுத்தி இந்த விசேட பொது மன்னிப்பு வழங்கப்படவுள்ளது. (a)
+🟩
+
+The President has decided to grant a public amnesty to 779 prisoners in the presence of Tamil and Sinhala New Year.
+
+This special amnesty will be granted using the powers of the president in accordance with Article 34 (1) of the Constitution. (A)
 
 ◼️
 
 [Data](articles/27a9b02d.json)
+
+[Extended Data](ext_articles/27a9b02d.ext.json)
 
 ---
 
@@ -2271,45 +2317,5 @@ The island nation has received a record number of foreign parcels this year incl
 [Data](articles/5a7a646e.json)
 
 [Extended Data](ext_articles/5a7a646e.ext.json)
-
----
-
-### Increases the gift giving to the aging
-
-*2024-04-09 14:16:52* · [`adalk`](https://www.ada.lk/breaking_news/වියපත්-කළාකරුවන්ට-දෙන-දීමනාව-වැඩි-කරයි/11-409030) · `si`
-
-Prime Minister Dinesh Gunawardena announced an increase in support for aging artists, providing Rs. 10,000 to 122 elderly artists through the Tower Hall Theater Foundation. This initiative aims to alleviate economic hardships faced by artists.
-
-🟩
-
-Prime Minister Dinesh Gunawardena said he would address the difficulties facing aging artists.. The Prime Minister said this to enroll the retired artists to provide the Retired Artists for the Annual Artists who have applied to the elderly artists who are implemented by the Tower Hall Theater Foundation (08.04.04.2012) at Temple Trees.
-
-A retired living standard of Rs. 7,500 / - was handed over to 102 selected artists. The Tower Hall Theater Foundation Board has decided to increase the allowance from Rs. 10,000 / -.. According to the Tower Hall Theater Foundation, 122 elderly artists will be provided with Rs.
-
-"The Board of Trustees discussed on the economic hardship faced by artists decided to increase the inconveniences to some extent to somewhat. Meeting the economic crisis. Other uncomfortable artists will be able to join this retirement aid program. "The Prime Minister said.
-
-◼️
-
-[Data](articles/34a2024e.json)
-
-[Extended Data](ext_articles/34a2024e.ext.json)
-
----
-
-### Mahinda attacked
-
-*2024-04-09 14:02:59* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දගෙන්-ආණ්ඩුවට-ප්‍රහාරයක්/11-409029) · `si`
-
-MahindaDeshape, NIA Chairman, hacked his house in Kotambalangoda.
-
-🟩
-
-Formulating the dictatorship and the administration of the Urban Councils without the influence of the government of Urban Councils without the infrastructure of the Urban Councils - Urban Councils without representatives from the Urban Councils - NIA Chairman MahindaDeshape, Kotambalangoda hacked his house in his house today (9).
-
-◼️
-
-[Data](articles/2515364c.json)
-
-[Extended Data](ext_articles/2515364c.ext.json)
 
 ---

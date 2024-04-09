@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 16:34:03**
+As of **2024-04-09 16:49:13**
 
 ## Newspaper Stats
 
-*Scraped **18,077** Articles*
+*Scraped **18,083** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 987
 islandlk | 992
 economynextcom | 1,004
-adalk | 1,524
+adalk | 1,525
 tamilmirrorlk | 2,121
 adaderanalk | 2,171
-virakesarilk | 2,664
+virakesarilk | 2,669
 dailymirrorlk | 2,758
 adaderanasinhalalk | 2,931
 
@@ -26,25 +26,147 @@ adaderanasinhalalk | 2,931
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,076 (100.0%) of 18,077 articles have been extended.
+18,077 (100.0%) of 18,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### පාසල් නිවාඩුව ගැන දැනුම්දෙයි
+### கற்பிட்டியில் பீடி இலைகளை கடத்த முற்பட்ட நபரொருவர் கைது
+
+*2024-04-09 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180836) · `ta`
+
+கற்பிட்டி பகுதியிலிருந்து நாகவில்லு பகுதிக்கு பீடி இலைகளை அனுமதிப்பத்திரமின்றி சட்டவிரோதமாக கடத்த முற்பட்ட நபரொருவர் புத்தளம் பிராந்திய போக்குவரத்து பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
+
+புத்தளம் பிராந்திய போக்குவரத்து பொலிஸார் இன்று செவ்வாய்க்கிழமை (09) காலை பாலாவி பகுதியில் கடமையில் ஈடுப்பட்டிருந்த போது சந்தேகத்திற்கிடமான லொறியை நிறுத்தி சோதனைக்குட்படுத்தியுள்ளனர்.
+
+இதன்போது அனுமதிப்பத்திரமின்றி சட்டவிரோதமாக கொண்டு செல்ல முற்பட்ட பீடி இலைகள் தேங்காய்களுக்குள் சூட்சமமான முறையில் மறைத்து வைத்திருந்தமைக் கண்டுபிடிக்கப்பட்டுள்ளன.
+
+இதன்போது சுமார் 17 உரைகளில் 500 கிலோ கிராம் பீடி இலைகள் கைப்பற்றப்பட்டுள்ளன. அத்துடன் நாகவில்லு பகுதியைச் சேர்ந்த ஒருவர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளார்.
+
+குறித்த பீடி இலைகள் சுமார் 30 இலட்சம் ரூபாவிற்கும் அதிக பெறுமதியென மதிக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்படுகின்றன.
+
+...
+
+[Data](articles/db297c65.json)
+
+---
+
+### இலத்திரனியல் கடவுச்சீட்டு வழங்குவதில் உள்ள தாமதம் குறித்து கோபா குழுவில் அவதானம்
+
+*2024-04-09 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180828) · `ta`
+
+இலத்திரனியல் கடவுச்சீட்டு (E-Passport)  வழங்குவதில் 4 ஆண்டுகளாகத் தாமதம் ஏற்பட்டுவது குறித்து அரசாங்கக் கணக்குகள் பற்றிய குழுவில் (கோபா) கவனம் செலுத்தப்பட்டது.
+
+குடிவரவு மற்றும் குடியகல்வுத் திணைக்களத்தின் 2020, 2021 மற்றும் 2022 ஆம் ஆண்டுகளுக்கான கணக்காய்வாளர் நாயகத்தின் அறிக்கைகள் மற்றும் தற்போதைய செயலாற்றுகை தொடர்பில் ஆராய்வதற்காக அரசாங்கக் கணக்குகள் பற்றிய குழு (கோபா) அண்மையில் (02) கூடியபோது இந்த விடயம் குறித்துக் கவனம் செலுத்தப்பட்டது.
+
+விமான நிலைய ஈ-கேட் (E-gate) வசதி தொடர்பான உபகரணங்களை கொள்வனவு செய்வதற்குக் குடிவரவு மற்றும் குடியகல்வுத் திணைக்களத்தின் பிரதிநிதி ஒருவரை தொடர்பு கொள்ள வேண்டுமென சிவில் விமான சேவைகள் அதிகாரசபையினால் தெரிவித்திருந்த போதிலும், இதுவரை அது தொடர்பில் நடவடிக்கை எடுக்காததால் மொத்த ஈ-கேட் வசதி வழங்குவதிலும் ஏற்பட்டுள்ள தாமதம் குறித்து குழு தனது கடும் அதிருப்தியை வெளிப்படுத்தியது.
+
+...
+
+[Data](articles/8d606520.json)
+
+---
+
+### மின்சாரம் தாக்கியதில் இளைஞன் பரிதாபகரமாக மரணம்!
+
+*2024-04-09 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180834) · `ta`
+
+மட்டக்களப்பு தலைமையக பொலிஸ் பிரிவுக்குட்பட்ட திருமலை வீதியைச் சேர்ந்த இளைஞன் ஒருவர் தனது வீட்டில் வைத்து மின்சாரம் தாக்கியதில் உயிரிழந்த சம்பவம் இடம் பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+திருமலை வீதியை வசிப்பிடமாகக் கொண்ட சசிக்குமார் டினேஸ் (வயது 19) எனும் இளைஞனே இவ்வாறு உயிரிழந்தவராவார்.
+
+திங்கட்கிழமை (08 ) தனிமையில் இருந்து தனது வீட்டில் வெல்டிங் - இரும்பு ஒட்டு வேலைகளை செய்து கொண்டிருந்த போது மின்சாரம் தாக்கப்பட்டு மயக்க நிலையில் இருந்ததாகவும் பின்னர் தனது சகோதரி மற்றும்  அயலவர்களின் உதவியுடன் வைத்தியசாலைக்கு கொண்டு சென்ற போதிலும் அவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+மட்டக்களப்பு மாவட்ட நீதிமன்ற நீதவான் அவர்களின் பணிப்புக்கமைவாக மட்டக்களப்பு போதனா வைத்தியசாலையில் திடீர் மரண விசாரணை அதிகாரி தம்பிப்பிள்ளை தவக்குமார் பிரேதத்தை பார்வையிட்ட பின்னர். பிரேதத்தை உடற்கூற்று பரிசோதனைக்குட்டடுத்துமாறு சட்ட வைத்தியரை பணித்திருந்தார்.
+
+◼️
+
+[Data](articles/ef81b515.json)
+
+---
+
+### School holidays notify
 
 *2024-04-09 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195475) · `si`
 
-2024 වර්ෂයේ පළමු පාසල් වාරයේ පළමු වන අදියර හෙට (10) දිනයෙන් අවසන් කෙරෙන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසයි.
+The Ministry of Education announced the end of the first phase of school holidays tomorrow, with the second phase starting on 24.04.24, affecting Sinhala and Tamil schools in government and government-approved private schools.
 
-ඒ අනුව එම නිවේදනයේ දැක්වෙන්නේ පළමු පාසල් වාරයේ දෙවන අදියර 2024.04.24 වනදා ආරම්භ කෙරෙන බවය.
+🟩
 
-රජයේ පාසල්, රජයේ අනුමත පෞද්ගලික පාසල්වල සිංහල හා දෙමළ පාසල් සඳහා මෙය අදාළ වෙයි.
+The Ministry of Education issued a statement that the first phase of the first phase of the first phase of the first phase of the first school will be completed tomorrow (10).
+
+Accordingly, the second stage of the first stage of the first term will commence on 24.04.24.
+
+This applies to Sinhala and Tamil schools in government schools, government approved private schools.
 
 ◼️
 
 [Data](articles/42becde1.json)
+
+[Extended Data](ext_articles/42becde1.ext.json)
+
+---
+
+### சிவனொளிபாத மலையில் “கோனிஜியா மோலிஸ்” இன் பரவலை தடுக்குமாறு பவித்திரா பணிப்பு
+
+*2024-04-09 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180827) · `ta`
+
+சிவனொளிபாத மலையைச் சுற்றியுள்ள அயனமண்டல மழைக்காடுகளில் “கோனிஜியா மோலிஸ்” (Koenigia Mollis) என்ற ஆக்கிரமிப்புத் தாவர இனங்கள் பரவுவதை உடனடியாக தடுக்குமாறு வனஜீவராசிகள் மற்றும் வன வளங்கள்  பாதுகாப்பு மற்றும் நீர்ப்பாசன அமைச்சர் பவித்ராதேவி வன்னியாராச்சி அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+
+உயிர் பல்வகைமையினை பாதுகாப்பில் கவனம் செலுத்தும் நடவடிக்கைகளை செயல்படுத்தவும், ஆக்கிரமிப்பு தாவரத்தை அகற்ற விஞ்ஞான மற்றும் தொழில்நுட்ப முறைகளைப் பயன்படுத்துமாறு அவர் அதிகாரிகளுக்கு அறிவுறுத்தியுள்ளார்.
+
+சிவனொளிபாத மலைக்குச் செல்லும் வீதிகள், கடைத்தொகுதிகள்  மற்றும் மலசல கூடங்கள் அருகில்ஆக்கிரமிப்பு தாவரம்  பரவி  இருப்பது கண்டறியப்பட்டுள்ளது. இந்த தாவரம் பரவியுள்ள பகுதிகளில் பூர்வீக தாவர இனங்கள் முற்றிலுமாக அழிந்து விட்டன.
+
+6 முதல் 8 அடி உயரம் வரை வளரும் ஆக்கிரமிப்பு தாவரம் மலைப்பகுதிகளுக்கு அருகிலுள்ள  தாவரங்களில் வேர் அமைப்பின் உறுதித்தன்மையை படிப்படியாக பலவீனப்படுத்துகிறது. இதன்காரணமாக மலைப்பாங்கான பகுதிகளில்  மண்சரிவை ஏற்படுத்தும் என சப்ரகமுவ பல்கலைக்கழக ஆராய்ச்சியாளர்கள் கண்டுபிடித்துள்ளனர்.
+
+...
+
+[Data](articles/9e6552ad.json)
+
+---
+
+### Health Guide
+
+*2024-04-09 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180817) · `ta`
+
+Health officials have issued a guide titled "Guidelines to Prevention of Accidents and Strong Medical Cases in Sports Events organized during the festive season." This guide emphasizes public health and safety during festive sports events, including strategies to reduce risks such as accidents and severe medical conditions. It covers a variety of aspects, from managing the crowd to ensure a safe and happy celebration for everyone.
+
+🟩
+
+Health officials have issued a health guide advice to be observed while attending sports events on the eve of the Tamil Sinhala festival.
+
+It has been published titled "Guidelines to Prevention of Accidents and Strong Medical Cases in Sports Events organized during the festive season."
+
+Risks can be raised, whether "pillow fight" and "spectacular breaks", or an event like a marathon running, a bicycle clutter.
+
+Therefore, these guidelines emphasize the importance of giving priority to public health and safety during festive sports events.
+
+In it, event coordinators, competitors and social groups provide essential strategies to reduce risks such as accidents and severe medical conditions.
+
+The guidance includes a variety of aspects, from managing the crowd to ensure a safe and happy celebration for everyone.
+
+The following are the general guidelines that must be followed in all sports events and specific events identified;https://shorturl.at/inmow
+
+◼️
+
+[Data](articles/31c8e1f7.json)
+
+[Extended Data](ext_articles/31c8e1f7.ext.json)
+
+---
+
+### அரிசியின் விலையை உடனடியாக குறைக்குமாறு கோரி மன்னாரில் கவனயீர்ப்பு போராட்டம்
+
+*2024-04-09 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180826) · `ta`
+
+அரசாங்கம் உடனடியாக அரிசியின் விலையை 100 ரூபாய்க்கு கீழ் கொண்டு வருமாறு கோரி வடக்கு கிழக்கு பெண்கள் கூட்டின் ஏற்பாட்டில் இன்றைய தினம் வடக்கு கிழக்கில் உள்ள 8 மாவட்டங்களிலும் கவனயீர்ப்பு போராட்டம் முன்னெடுக்கப்பட்டது.
+
+அதனடிப்படையில் மன்னார் மாவட்டத்திலும் இன்று செவ்வாய்க்கிழமை (9) முன்னெடுக்கப்பட்டது.மன்னார் நகர சுற்றுவட்ட பகுதியில் நடைபெற்ற கவனயீர்ப்பு போராட்டத்தில் நூற்றுக்கணக்கான பெண்கள் கலந்து கொண்டு பல்வேறு வாசகங்கள் எழுதப்பட்ட பதாதைகளை ஏந்தியவாறு கவனயீர்ப்பு போராட்டத்தில் கலந்து கொண்டனர்.கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டவர்கள் பல்வேறு கோரிக்கைகளை முன்வைதத்தனர்.
+
+...
+
+[Data](articles/d4114aa5.json)
 
 ---
 
@@ -97,36 +219,6 @@ In some families, there is no rice and drinking water. The price of rice is stil
 [Data](articles/7059b8ee.json)
 
 [Extended Data](ext_articles/7059b8ee.ext.json)
-
----
-
-### Health Guide
-
-*2024-04-09 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180817) · `ta`
-
-Health officials have issued a guide titled "Guidelines to Prevention of Accidents and Strong Medical Cases in Sports Events organized during the festive season." This guide emphasizes public health and safety during festive sports events, including strategies to reduce risks such as accidents and severe medical conditions. It covers a variety of aspects, from managing the crowd to ensure a safe and happy celebration for everyone.
-
-🟩
-
-Health officials have issued a health guide advice to be observed while attending sports events on the eve of the Tamil Sinhala festival.
-
-It has been published titled "Guidelines to Prevention of Accidents and Strong Medical Cases in Sports Events organized during the festive season."
-
-Risks can be raised, whether "pillow fight" and "spectacular breaks", or an event like a marathon running, a bicycle clutter.
-
-Therefore, these guidelines emphasize the importance of giving priority to public health and safety during festive sports events.
-
-In it, event coordinators, competitors and social groups provide essential strategies to reduce risks such as accidents and severe medical conditions.
-
-The guidance includes a variety of aspects, from managing the crowd to ensure a safe and happy celebration for everyone.
-
-The following are the general guidelines that must be followed in all sports events and specific events identified;https://shorturl.at/inmow
-
-◼️
-
-[Data](articles/31c8e1f7.json)
-
-[Extended Data](ext_articles/31c8e1f7.ext.json)
 
 ---
 
@@ -315,6 +407,22 @@ Qatar and Egypt work as intermediaries for those discussions. William Burns, the
 [Data](articles/eca46dea.json)
 
 [Extended Data](ext_articles/eca46dea.ext.json)
+
+---
+
+### ගෙවීමේ පදනම මත කොතලාවල සරසවියෙන් වෛද්‍ය උපාධියක් ගන්න අවස්ථාව
+
+*2024-04-09 15:10:37* · [`adalk`](https://www.ada.lk/breaking_news/ගෙවීමේ-පදනම-මත-කොතලාවල-සරසවියෙන්-වෛද්‍ය-උපාධියක්-ගන්න-අවස්ථාව/11-409036) · `si`
+
+ජෙනරාල් ශ්‍රීමත් ජෝන් කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ වෛද්‍ය විද්‍යා උපාධිය සඳහා ගෙවීමේ පදනම මත දේශීය සිසුන් ඇතුළත් කර ගැනීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+ජනාධිපතිවරයා විසින් ඉදිරිපත්කළ  කැබිනට් පත්‍රිකාවට මෙසේ අමාත්‍ය මණ්ඩලයේ අනුමැතිය ලැබී තිබේ.
+
+දැනට මෙම විශ්වවිද්‍යාලය තුළ විදේශීය සිසුන්ට ගෙවීමේ පදනම මත වෛද්‍ය උපාධිය හැදැරී‌මේ අවස්ථාව සලසා දී තිබේ.
+
+◼️
+
+[Data](articles/90959b09.json)
 
 ---
 
@@ -2189,137 +2297,5 @@ The government is implementing this social security program in contrast to corru
 [Data](articles/87613ece.json)
 
 [Extended Data](ext_articles/87613ece.ext.json)
-
----
-
-### These days stay careful
-
-*2024-04-09 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195452) · `si`
-
-A carbite tank explosion in Hunupitiya killed a 45-year-old from Dekatana. A pedestrian on the 4th floor of the Fort Police Division was seriously injured and is in Colombo National Hospital.
-
-🟩
-
-A carbite tank was killed due to an explosion in a garage in the Hunupitiya area in Kiribathgoda.
-
-The deceased is a 45 year old resident of the Dekatana area in Deanagama.
-
-Meanwhile, the door of the 4th floor of the fort building of the fort building of the Fort Police Division was the body of a panel of pedestrian.
-
-The pedestrian has been seriously injured and admitted to the Colombo National Hospital.
-
-The injured hospital is receiving treatment at the Colombo National Hospital while the Fort Police are conducting further investigations.
-
-◼️
-
-[Data](articles/4b132bf5.json)
-
-[Extended Data](ext_articles/4b132bf5.ext.json)
-
----
-
-### Solar Eclipse reaches its grand finale...
-
-*2024-04-09 06:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Solar-Eclipse-reaches-its-grand-finale/110-280441) · `en`
-
-The total solar eclipse brought America to a standstill on Monday as millions stopped work, paused classes and flocked to the streets and city rooftops to view the rare event.
-
-After sweeping northeast through Mexico and then Texas, Arkansas and Ohio shortly before 2pm, crowds gathered in New York City and Washington DC hoping to catch a glimpse. (Daily Mail)
-
-◼️
-
-[Data](articles/24d3acf2.json)
-
-[Extended Data](ext_articles/24d3acf2.ext.json)
-
----
-
-### Permit
-
-*2024-04-09 06:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-திருத்தச்-சட்டமூலத்திற்கு-அனுமதி/175-335771) · `ta`
-
-The Cabinet has approved the Electricity Amendment Bill, allowing its publication in the Gazette this week and presentation to Parliament by the end of the month.
-
-🟩
-
-Minister of State for Cabinet Kanjana Wijesekera said that the Cabinet has granted permission to the Electricity Amendment Bill.
-
-Accordingly, the Cabinet has granted permission to publish the bill in the Gazette this week and to present the Parliament by the end of this month.. (A)
-
-◼️
-
-[Data](articles/10a78f0a.json)
-
-[Extended Data](ext_articles/10a78f0a.ext.json)
-
----
-
-### Chinese onion becomes cheaper in Sri Lanka than Indian ahead of festivals
-
-*2024-04-09 06:31:00* · [`economynextcom`](https://economynext.com/chinese-onion-becomes-cheaper-in-sri-lanka-than-indian-ahead-of-festivals-157958/) · `en`
-
-ECONOMYNEXT – Price of imported Chinese big onion has been reduced sharply than Indian one in Sri Lankan markets with effect from Tuesday, in a move to provide some relief ahead of the festive season in the island nation battered by an unprecedented economic crisis.
-
-Many Sri Lankans have blamed the government for expensive commodity prices in the country amid an unprecedented rise in the poverty level after the 2022 economic crisis.
-
-President Ranil Wickremesinghe government has been in the process of reducing the prices of essential goods ahead of the festival season. Muslims will celebrate Eid and both Sinhalese and Tamils will celebrate their traditional new year this week.
-
-Wickremesinghe government has been also trying to win people ahead of a presidential election between September 18 and October 18 this year.
-
-...
-
-[Data](articles/cdd2c08d.json)
-
-[Extended Data](ext_articles/cdd2c08d.ext.json)
-
----
-
-### Heavy rains in several areas today
-
-*2024-04-09 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195451) · `si`
-
-Heavy rains expected in Galle, Matara, Western, Sabaragamuwa, and North Western Provinces today, with showers or thundershowers after 2.00 pm. Met Department advises public to take precautions against wind and lightning. Sun directly above Sri Lanka on 5th April, affecting Udupuvu, Audigura, Bakamuna, Grougadala, and Eravur.
-
-🟩
-
-The Galle and Matara districts will be today in the Western, Sabaragamuwa and North Western Provinces.. Showers or thundershowers will occur at a few places after 2.00 pm, the Met Department said.
-
-The department states that some locations are expected in the Western, Central and Sabaragamuwa provinces and in some places in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-The sun is directly above Sri Lanka at 5th April, while the sun traveled to the North.
-
-Accordingly, the sun will overcome the presence of Udupuvu, Audigura, Bakamuna, Bakamuna, Grougadala and Eravur today (09).
-
-◼️
-
-[Data](articles/1b4429aa.json)
-
-[Extended Data](ext_articles/1b4429aa.ext.json)
-
----
-
-### Years' Quit: When did the skilled setting and celebration tradition begin?
-
-*2024-04-09 05:56:16* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0den0jljjyo) · `si`
-
-The skilled setting and celebration tradition began with the Sinhala Tamil New Year, celebrated on April 12-13, based on astrological predictions. This tradition, unique to a small island, marks the beginning of the solar year, contrasting with the global celebration of New Year's Day. The tradition's origins date back to the Kotte era, with the current solar-centric celebration not present in ancient kingdoms like Anuradhapura, Polonnaruwa, and Dambadeniya. The celebration includes auspicious rituals, such as planting auspicious shoots and writing the auspicious year, which have evolved over time.
-
-🟩
-
-Years' Quit: When did the skilled setting and celebration tradition begin?
-
-Millions of people around the world have celebrated the New Year's dawn, but the vast majority of the island, a small island in the sea, celebrates the arrests in April. Their belief is that the beginning of the new year will mark the beginning of the source of the Sun.. The environment is not only a new arrival, as well as the popularity of the people, who saved the New Year's arrival, not only the new year, and the population is not the new year.
-
-Although seasonal split cannot be observed in other countries, the Sinhala Tamil New Year celebration is based on astrologer celebration based on astrologer.
-
-The old year and the New Year's old year and the New Year have been announced on April 12 and 13.
-
-...
-
-[Data](articles/be7d951d.json)
-
-[Extended Data](ext_articles/be7d951d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 19:03:12**
+As of **2024-04-09 19:18:09**
 
 ## Newspaper Stats
 
-*Scraped **18,111** Articles*
+*Scraped **18,112** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 1,527
 tamilmirrorlk | 2,123
 adaderanalk | 2,176
 virakesarilk | 2,669
-dailymirrorlk | 2,763
+dailymirrorlk | 2,764
 adaderanasinhalalk | 2,936
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,111 (100.0%) of 18,111 articles have been extended.
+18,111 (100.0%) of 18,112 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### Viyaskanth replaces Hasaranga in Sunrisers Squad for IPL 2024
+
+*2024-04-09 18:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Viyaskanth-replaces-Hasaranga-in-Sunrisers-Squad-for-IPL-2024/108-280483) · `en`
+
+April 09 - Sunrisers Hyderabad have signed Sri Lankan leggie Vijayakanth Viyaskanth as replacement for Wanindu Hasaranga for the remainder of IPL 2024.
+
+Hasaranga was set to represent SRH for the first time in his IPL career after being bought by the 2016 champions for Rs 1.5 crore at the players’ auction last December.
+
+However, a chronic pain in his left foot ended his hopes of playing any role for his new franchise in the ongoing season.
+
+Hasaranga represented Royal Challengers Bengaluru for two seasons after being bought at an astronomical price of Rs 10.75 crore at the 2022 players’ auction.
+
+The legspinner had an excellent maiden season for RCB, taking 26 wickets but played limited role last year following which he was released.
+
+◼️
+
+[Data](articles/3c6ac715.json)
+
+---
 
 ### 779 prisoners to be pardoned for Sinhala and Tamil New Year
 
@@ -2275,23 +2295,5 @@ They have left for Bangkok, Thailand at 12.55 am this morning.
 [Data](articles/28fb11b7.json)
 
 [Extended Data](ext_articles/28fb11b7.ext.json)
-
----
-
-### Plans underway to aid war heroes’ families in multiple sectors: Premitha Bandara
-
-*2024-04-09 09:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Plans-underway-to-aid-war-heroes-families-in-multiple-sectors-Premitha-Bandara/108-280453) · `en`
-
-Wanni, April 9 (Daily Mirror) - Plans are underway to launch a programme aimed at providing preferential assistance to the families of war heroes across various sectors such as health, public administration, banking and other services in collaboration with the Ministry of Defence, Tri Forces and the Ranaviru Seva Authority, State Minister of Defence Premitha Bandara Tennakoon said.
-
-The Minister also announced the government's intention to prioritize war heroes and their families in the 'Urumaya' land deeds presentation programme, aiming to provide them with land ownership opportunities.
-
-"It is crucial that we prioritize the welfare of those who have given so much for our country," the Minister said at a programme at the Regimental Centre of the Gajaba Regiment.
-
-◼️
-
-[Data](articles/28ba9568.json)
-
-[Extended Data](ext_articles/28ba9568.ext.json)
 
 ---

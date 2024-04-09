@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 15:34:03**
+As of **2024-04-09 15:52:38**
 
 ## Newspaper Stats
 
-*Scraped **18,064** Articles*
+*Scraped **18,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,64 +15,110 @@ newsfirstlk | 363
 dailyftlk | 987
 islandlk | 992
 economynextcom | 1,004
-adalk | 1,523
+adalk | 1,524
 tamilmirrorlk | 2,121
 adaderanalk | 2,170
-virakesarilk | 2,660
-dailymirrorlk | 2,755
+virakesarilk | 2,661
+dailymirrorlk | 2,757
 adaderanasinhalalk | 2,927
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,062 (100.0%) of 18,064 articles have been extended.
+18,064 (100.0%) of 18,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### හමාස් බෑ කියයි
+### ஜனாதிபதி தேர்தலுக்கான கட்டுப்பணத் தொகை அதிகரிப்பு : விபரம் இதோ !
+
+*2024-04-09 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180820) · `ta`
+
+ஜனாதிபதித் தேர்தல் சட்டம், பாராளுமன்றத் தேர்தல் சட்டம் மற்றும் மாகாண சபைத் தேர்தல் சட்டம் ஆகியவற்றின் ஏற்பாடுகளுக்கமைய தற்போதுள்ள பிணை வைப்பு பணத் தொகையை காலத்துக்கு ஏற்ற வகையில் தற்போதைய சமூக, பொருளாதார மற்றும் அரசியல் பின்னணிக்கு ஏற்ப திருத்தம் செய்தல் பொருத்தமானது என அடையாளம் காணப்பட்டுள்ளது.
+
+அதற்கமைய, பின்வரும் வகையில் ஏற்புடைய பிணை வைப்புப்பணத் தொகையை திருத்தம் செய்வதற்கான சட்டமூலத்தைத் தயாரிக்குமாறு சட்ட வரைஞருக்கு ஆலோசனை வழங்குவதற்காக ஜனாதிபதி மற்றும் நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் சமர்ப்பித்த ஒருங்கிணைந்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+1981ஆம் ஆண்டின் 15ஆம் இலக்க ஜனாதிபதித் தேர்தல் சட்டத்துக்கமைய அங்கீகரிக்கப்பட்ட ஒரு அரசியல் கட்சியால் சமர்ப்பிக்கப்படும் வேட்பாளர் ஒருவரின் பிணை வைப்புத் தொகை 2.6 மில்லியன் ரூபா வரையும், சுயேட்சை வேட்பாளரின் பிணை வைப்புத் தொகையை 3.1 மில்லியன் ரூபா வரையும் அதிகரிப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/f86fc2ab.json)
+
+---
+
+### Students can now enroll in Kotelawala University’s medical degree programme
+
+*2024-04-09 15:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Students-can-now-enroll-in-Kotelawala-Universitys-medical-degree-programme/108-280474) · `en`
+
+Colombo, April 09 (Daily Mirror) -  The Cabinet has granted approval for local students to gain admission to the General Sir John Kotelawala Defence University's medical degree programme.
+
+Under the endorsed proposal, which received the nod from the Cabinet, aspiring medical students from Sri Lanka will have the opportunity to commence their studies at the renowned institution from the upcoming academic year.
+
+The admission process will be primarily based on the applicants' 'Z score' obtained from the GCE Advanced Level Examination, alongside other pertinent qualifications. However, it's worth noting that admission will be facilitated on a fee-paying basis.
+
+◼️
+
+[Data](articles/3a5b0c16.json)
+
+---
+
+### Says Hamas
 
 *2024-04-09 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195471) · `si`
 
-සටන් විරාමයක් සඳහා ඊශ්‍රායලය ගෙන ආ යෝජනාවක් ප්‍රතික්ෂේප කළ බව හමාස් සංවිධානය නිවේදනය කළේය.
+Hamas reports Israel rejected a ceasefire proposal. Israel's PM Netanyahu announced an invasion of Ruffa in Gaza. Discussions between Israel and Hamas, mediated by Qatar, Egypt, and the US's William Burns, continue.
 
-ඊජිප්තුවේ කයිරෝ නගරයේ පැවැත්වෙන සාකච්ඡා අතරතුරදී ඊශ්‍රායලය විසින් එම සටන් විරාම යෝජනාව ඉදිරිපත් කර තිබුණි.
+🟩
 
-මේ අතර ඊශ්‍රායල අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහු පැවසුවේ ගාසා තීරයේ රෆා ප්‍රදේශය ආක්‍රමණය සඳහා ඊශ්‍රායල සැලසුම් සහ දිනය සම්බන්ධයෙන් තීරණයක් ගත් බවය.
+Hamas announced that Israel has rejected a proposal for a ceasefire.
 
-ඊශ්‍රායලය සහ හාමාස් සංවිධානය විසින් ඊජිප්තුවේ පැවැත්වෙන සාකච්ඡා සඳහා ඉරිදා කණ්ඩායම් යවා තිබුණි.
+During the negotiations in Cairo, Israel had presented the ceasefire proposal.
 
-එම සාකච්ඡා සඳහා අතරමැදියන් ලෙස කටාර් සහ ඊජිප්තුව කටයුතු කරයි. එසේම අමෙරිකාවේ මධ්‍යම තොරතුරු කාර්යාංශයේ විලියම් බර්න්ස් ද ඊට එක්වෙයි.
+In the meantime, Israeli Prime Minister Benjamin Netanyahu said that Israeli planned and day decided to invade Ruffa area in Gaza.
+
+Israel and Hamas had sent to Sunday group for discussions in Egypt.
+
+Qatar and Egypt work as intermediaries for those discussions. William Burns, the Central Information Bureau of the United States, is also joined.
 
 ◼️
 
 [Data](articles/eca46dea.json)
 
+[Extended Data](ext_articles/eca46dea.ext.json)
+
 ---
 
-### මැතිවරණ කොමිසම ඡන්දෙට වැඩ අරඹයි
+### The Election Commission launches election
 
 *2024-04-09 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195470) · `si`
 
-ජූලි මස 17වන දිනට පසු ඕනෑම දිනයක ජනාධිපතිවරණයට අදාළ නාමයෝජනා පත්‍ර කැදවීමේ බලය ව්‍යවස්ථානුකූලව මැතිවරණ කොමිසමට හිමි වෙයි.
+The Election Commission can call a presidential election after July 17, with nominations to follow. The election is likely in September or October, with a 28-35 day propaganda period. Preliminary work has started, but the decision on a general election is pending. The President's party prefers a presidential election, but some members are open to a general election. The Reconciliation and National Unity Front is ready but hasn't made a direct statement. Electoral register preparation has begun, with a deadline of May 10.
 
-මැතිවරණ කොමිසම මගින් ජනාධිපතිවරණය පැවැත්වීමට අවශ්‍ය කාලවකවානු තීරණය කිරීමෙන් පසු මැතිවරණ කොමසාරිස් ජනරාල්වරයා විසින් නාමයෝජනා පත්‍ර කැඳවීමට අදාළ ගැසට් නිවේදනය නිකුත් කරනු ඇති.
+🟩
 
-ජනාධිපතිවරණය එළඹෙන සැප්තැම්බර් මස අඟ සතියේ හෝ ඔක්තෝම්බර් මස මුල් සතියේ පැවැත්වීමට නියමිත බව මේ වනවිට වාර්තා පළවෙයි.
+The Elections Commission will have the power to call the presidential election any day after July 17.
 
-ප්‍රචාරක කටයුතු සඳහා දින 28ක් හෝ 35ක කාලයක් හිමිවන අතර ඒ අනුව ඡන්ද විමසීමට අදාළ නාමයෝජනා කැඳවීමේ දිනය තීරණය වනු ඇත.
+After the time of the election commission, the Commissioner General of Elections will issue the gazette notification to call for nominations after the election.
 
-ඒ අවුය ජනාධිපතිවරණයට අදාළ මූලික කටයුතු මේ වනවිට මැතිවරණ කොමිසම විසින් ආරම්භ කර තිබේ.
+It is reported that the presidential election is scheduled to be held in the week or in the first week of September or October.
 
-මේ අතර ප්‍රථමයෙන් ජනාධිපතිවරණය පවත්වන්නේ ද එසේත් නොමැති නම් මහමැතිවරණයක් පවත්වන්නේ ද යන්න පිළිබඳව මේ වන තෙක් අවසන් තීරණයක් ගෙන නොමැත.
+Propaganda work is 28 or 35 days and the date of the nomination date of the nomination will be determined.
 
-කෙසේවෙතත් මහමැතිවරණයක් පවත්වන ලෙස ජනාධිපතිවරයා වෙත ශ්‍රී ලංකා පොදු ජන පෙරමුණේ පාර්ශ්වය තුළින් එල්ලවන බලපෑම් තවදුරටත් පවතින බවද වාර්තා වෙයි.
+The preliminary work related to the presidential election has already begun by the Elections Commission.
+
+In the meantime, the presidential election has not been made to now have been made about whether a general election is held.
+
+However, it is reported that the President has effects on the Sri Lanka General Filling party to hold a general election.
+
+A relevant discussion was held last week. The President's party first prefers the presidential election.
 
 ...
 
 [Data](articles/99966857.json)
+
+[Extended Data](ext_articles/99966857.ext.json)
 
 ---
 
@@ -95,6 +141,24 @@ Women's netball at international level will now be restricted to players "record
 [Data](articles/955701c3.json)
 
 [Extended Data](ext_articles/955701c3.ext.json)
+
+---
+
+### අයි.එම්.එෆ්. ගිවිසුම නීතියක් වෙයි
+
+*2024-04-09 14:42:12* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--ගිවිසුම-නීතියක්-වෙයි/11-409032) · `si`
+
+රට තුළ සීග්‍ර ආර්ථික වර්ධනයක් ඇති කිරීමට රජය ආරම්භ කර ඇති වැඩපිළිවෙළ සාර්ථක කර ගැනීමට නම් නීති පද්ධතියද නවීකරණය විය යුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ මහනුවර නීතිඥවරුන් සමඟ මහනුවර මහවැලි රීච් හෝටලයේ පැවති සුහද හමුවේදීය.
+
+බිඳ වැටුණු ශ්‍රී ලංකා ආර්ථිකය ගොඩනැඟීමට ඇති කඩිනම් විසඳුම ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන වැඩසටහන බව මෙහිදී පෙන්වා දුන් ජනාධිපතිවරයා එම ප්‍රතිලාභය ජනතාවට හිමිකර දීම වෙනුවෙන් ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන ගිවිසුම නීතිගත කිරීමට කටයුතු කරන බව ද සඳහන් කළේය.
+
+එසේම සෑම ක්ෂේත්‍රයකම නවීකරණයක් වෙනුවෙන් නව නීති පද්ධතියක් ගෙන එන බව පැවසූ ජනාධිපතිවරයා එම කටයුතු සඳහා නීති ක්ෂේත්‍රයේ සියලුදෙනාගේ සහාය අපේක්ෂා කරන බවද සඳහන් කළේය.
+
+...
+
+[Data](articles/3673b5d6.json)
 
 ---
 
@@ -2221,61 +2285,5 @@ Meanwhile, in the recent months since the launch of the Israeli government’s m
 [Data](articles/7d7ebf26.json)
 
 [Extended Data](ext_articles/7d7ebf26.ext.json)
-
----
-
-### Harnessing value from diversity - Part II: A few management tips
-
-*2024-04-09 01:11:22* · [`dailyftlk`](https://www.ft.lk/columns/Harnessing-value-from-diversity-Part-II-A-few-management-tips/4-760489) · `en`
-
-Could Sri Lankan corporate and public sector leaders harness the best from the five generations at the workplace?
-
-The name of the game is teamwork. The objective is the development of a high-performance team, not star individuals
-
-In the Part I of this article, I talked about the challenge the leaders would have to be prepared to tackle when they are dealing with multi-generations at the workplace. However, the diversity in a multigenerational team is something good to have and it gives an opportunity for the leaders to harness the good.
-
-The following management tips will be useful for the leaders in this endeavour.
-
-...
-
-[Data](articles/98ce4862.json)
-
-[Extended Data](ext_articles/98ce4862.ext.json)
-
----
-
-### The new era of business resilience: Navigating uncharted waters
-
-*2024-04-09 01:08:27* · [`dailyftlk`](https://www.ft.lk/columns/The-new-era-of-business-resilience-Navigating-uncharted-waters/4-760488) · `en`
-
-In the turbulent sea of today’s business landscape, resilience isn’t just about weathering the storm—it’s about harnessing its power to propel a company forward. As global events reshape the world around us, businesses face unprecedented challenges that demand agility, foresight, and innovation.
-
-Resilience isn’t a passive trait; it’s a dynamic force that drives us to thrive in the face of adversity. Seizing opportunities for growth is something we constantly work to achieve at CTC, instead of simply bouncing back from challenges. Guided by our core values, we embrace change, anticipate the unexpected, and transform obstacles into stepping stones towards success.
-
-...
-
-[Data](articles/982914c4.json)
-
-[Extended Data](ext_articles/982914c4.ext.json)
-
----
-
-### Global shipping giant Maersk opens new warehouse in Sri Lanka
-
-*2024-04-09 00:55:45* · [`dailyftlk`](https://www.ft.lk/business/Global-shipping-giant-Maersk-opens-new-warehouse-in-Sri-Lanka/34-760486) · `en`
-
-Maersk South Asia Managing Director Vikash Agarwal (second from right)
-
-New 100,000 sq. ft. facility, with export consolidation and 3PL services, lies close to key manufacturing hubs, consumption markets, and port infrastructure for quick turnaround times
-
-A.P. Moller – Maersk (Maersk) last week inaugurated its brand new warehouse in Sri Lanka at Wattala, spread over 100,000 sq. ft.
-
-Present at the inauguration were Maersk South Asia Managing Director Vikash Agarwal, Maersk Sri Lanka Head Biju Ravi, Aitken Spence PLC Deputy Chairman and Managing Director Dr. Parakrama Dissanayake and other leaders. This new facility is a testament to Maersk’s commitment to providing integrated supply chain solutions, offering a strategic advantage for various global customers and local suppliers in the retail and lifestyle sector.
-
-...
-
-[Data](articles/cd45f62e.json)
-
-[Extended Data](ext_articles/cd45f62e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 22:33:48**
+As of **2024-04-09 22:51:10**
 
 ## Newspaper Stats
 
-*Scraped **18,145** Articles*
+*Scraped **18,150** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ islandlk | 992
 economynextcom | 1,013
 adalk | 1,531
 tamilmirrorlk | 2,125
-adaderanalk | 2,178
-virakesarilk | 2,679
+adaderanalk | 2,180
+virakesarilk | 2,681
 dailymirrorlk | 2,773
-adaderanasinhalalk | 2,942
+adaderanasinhalalk | 2,943
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,142 (100.0%) of 18,145 articles have been extended.
+18,145 (100.0%) of 18,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### Russia, Kazakhstan evacuate over 100,000 people amid worst flooding in decades
+
+*2024-04-09 22:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98546/russia-kazakhstan-evacuate-over-100000-people-amid-worst-flooding-in-decades) · `en`
+
+Russia and Kazakhstan ordered more than 100,000 people to evacuate after swiftly melting snow swelled mighty rivers beyond bursting point in the worst flooding in the area for at least 70 years.
+
+The deluge of melt water overwhelmed scores of settlements in the Ural Mountains, Siberia and areas of Kazakhstan close to rivers such as the Ural and Tobol, which local officials said had risen by metres in a matter of hours to the highest levels ever recorded.
+
+The Ural River, Europe’s third longest which flows through Russia and Kazakhstan into the Caspian, burst through an embankment dam on Friday, flooding the city of Orsk just south of the Ural Mountains.
+
+Downstream, water levels in Orenburg, a city of around 550,000, rose towards the critical level of 9.3 metres as sirens warned major floods were imminent. The water level is currently 9.14 metres.
+
+...
+
+[Data](articles/8ad0f2e6.json)
+
+---
+
+### චමෝදි ප්‍රබෝධා ලකුණු 42කට කඩුලු 5ක් දවා ගනී
+
+*2024-04-09 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195488) · `si`
+
+වයස අවුරුදු 19න් පහළ තුන්කොන් එක්දින ක්‍රිකට් තරගාවලියේ  එංගලන්තයට එරෙහිව ලකුණු 108ක විශිෂ්ඨ ජයක් වාර්තා කිරීමට ශ්‍රී ලංකා යොවුන් ක්‍රීඩිකාවන් අද (09) සමත් වූවාය.
+
+මෙම තරගයේදී 14 හැවිරිදි චමෝදි ප්‍රබෝධා ලකුණු 42කට කඩුලු 5ක් දවා ගැනීම කාගේත් වැඩි අවධානයට ලක්වුණි.
+
+ගාල්ලේ පැවති මෙම තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා යොවුන් කණ්ඩායම පන්දුවාර 48යි පන්දු 4කදී සියලු දෙනා දැවී ලකුණු 226ක් රැස් කළාය.
+
+ලකුණු 227ක ඉලක්කයක් හඹා යාමට පිටියට පිවිසි එංගලන්ත යොවුන් ක්‍රීඩිකාවන්ට දැඩි පීඩනයක් එල්ල කිරීමට ශ්‍රී ලංකා පන්දු යවන්නියන් සමත් වුණි.
+
+ඒ අනුව එංගලන්ත පිලට පන්දුවාර 23යි පන්දු 3ක් අවසානයේ සියලු දෙනා දැවී රැස් කරගැනීමට හැකි වූයේ ලකුණු 118ක් පමණි.
+
+◼️
+
+[Data](articles/07c9f04a.json)
+
+---
+
+### இராணுவத்தினருக்கு பொது மன்னிப்பு காலம் பிரகடனம்
+
+*2024-04-09 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180850) · `ta`
+
+நீண்ட காலமாக முறையான விடுமுறையின்றி சேவையிலிருந்து விலகியிருந்த இராணுவ வீரர்களுக்கு சட்ட ரீதியாக இராணுவ சேவையை விட்டு வெளியேறுவதற்கு பொது மன்னிப்பு காலம் பிரகடனப்படுத்தப்பட்டுள்ளது.
+
+அதற்கமைய முறையான விடுமுறையின்றி கடமைக்கு சமூகமளிக்காத மற்றும் சட்ட விரோதமான முறையில் சேவையை விட்டு வெளியேறியுள்ள இலங்கை இராணுவத்தின் அதிகாரிகள் மற்றும் சிப்பாய்களுக்கு இம்மாதம் 20ஆம் திகதி முதல் மே 20ஆம் திகதி வரை பொது மன்னிப்பு காலமாக அறிவிக்கப்பட்டுள்ளது.
+
+இம்மாதம் 2ஆம் திகதிக்கு முன்னர் முறையான விடுமுறையின்றி பணிக்கு சமூகமளிக்காத அதிகாரிகள் மற்றும் சிப்பாய்களுக்கு இந்த பொது மன்னிப்பு காலம் அறிவிக்கப்பட்டுள்ளது. இந்த பொது மன்னிப்பு காலத்துக்கான இறுதி திகதி எக்காரணத்துக்காகவும் நீடிக்கப்பட மாட்டாது என இராணுவ தலைமையகம் அறிவித்துள்ளது.
+
+...
+
+[Data](articles/997b9e31.json)
+
+---
 
 ### Muslim community in Sri Lanka to celebrate Eid-al-Fitr tomorrow
 
@@ -45,6 +99,8 @@ Eid-al-Fitr, often referred to as the "festival of breaking the fast," signifies
 ◼️
 
 [Data](articles/c9ef0be0.json)
+
+[Extended Data](ext_articles/c9ef0be0.ext.json)
 
 ---
 
@@ -65,6 +121,8 @@ He was suspected to board a flight to Doha and then a connecting flight to Warsa
 ...
 
 [Data](articles/5f0ac61f.json)
+
+[Extended Data](ext_articles/5f0ac61f.ext.json)
 
 ---
 
@@ -109,6 +167,28 @@ Therefore, the Muslims of Sri Lanka will celebrate the holy fast on Wednesday (1
 [Data](articles/7d7ee3b6.json)
 
 [Extended Data](ext_articles/7d7ee3b6.ext.json)
+
+---
+
+### Eid al-Fitr to be celebrated in Sri Lanka on Wednesday
+
+*2024-04-09 21:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/98545/eid-al-fitr-to-be-celebrated-in-sri-lanka-on-wednesday) · `en`
+
+The Muslim community of Sri Lanka will celebrate ‘Eid-al-Fitr’ tomorrow (10 April), as the new crescent moon was sighted today (09 April).
+
+Accordingly, the Colombo Grand Mosque announced that ‘Eid-al-Fitr’ (also known as Ramadan festival) for the year 2024 will be celebrated tomorrow.
+
+Eid al-Fitr is a “festival of breaking the fast” and marks the end of the holy month of Ramadan.
+
+It is a religious holiday that is celebrated by Muslims from all over the world and involves a range of celebrations as friends, family and the entire Muslim community come together.
+
+The festival is celebrated on the first day of Shawwal, the 10th month of Islamic lunar calendar.
+
+The date and time of Eid differ in various countries, depending upon the sighting of the crescent moon.
+
+◼️
+
+[Data](articles/cca23b58.json)
 
 ---
 
@@ -699,6 +779,26 @@ A group of individuals staged a demonstration opposite the Fort Railway Station,
 ◼️
 
 [Data](articles/b1d55727.json)
+
+[Extended Data](ext_articles/b1d55727.ext.json)
+
+---
+
+### ஆங்கில மொழியில் கற்பிக்க 2500 ஆசிரியர் நியமனத்துக்கு அமைச்சரவை அங்கீகாரம்
+
+*2024-04-09 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180840) · `ta`
+
+'அனைவருக்கும்  ஆங்கிலம்' வேலைத்திட்டத்தின் கீழ்  ஆங்கில மொழியில் கற்பித்தல்களை மேற்கொள்கின்ற  2500 ஆசிரியர்களை ஆட்சேர்ப்புச் செய்வதற்கு அரசாங்கம் தீர்மானித்துள்ளது.
+
+ஆங்கில மொழியில் கல்விப் பொதுத் தராதர சாதாரண தரத்துக்கான பாடங்களை கற்பிப்பதற்காக தற்போது அங்கீகரிக்கப்பட்ட  ஆசிரியர்கள் எண்ணிக்கை 4441 ஆக இருப்பினும், அதற்காக  6500 ஆசிரியர்களின் தேவை  காணப்படுகிறது.
+
+பெரும்பாலான பாடசாலைகளில் தற்போது சேவையில் ஈடுபடுகின்ற ஆசிரியர்களின் எண்ணிக்கைக்கு மேலதிகமாக நடவடிக்கைகள் திட்டமிட்டு, ஆங்கில மொழி மூலமான கற்பித்தல்கள் விரிவாக்கம் செய்யப்பட்டுள்ளமை, 765 பாடசாலைகளில் மேற்கொள்ளப்பட்ட  மதிப்பீட்டின் மூலம் கண்டறியப்பட்டுள்ளது.
+
+அதற்கமைய, ஆங்கில மொழி மூலமான பாடங்களை கற்பிக்கின்ற 765 பாடசாலைகளின் எண்ணிக்கையை, 2024ஆம் ஆண்டில் 1000 பாடசாலைகளாக அதிகரித்து  ஆசிரியர் தேவைகளை பூர்த்தி செய்வதற்காக  ஆங்கில மொழி மூலமான பாடங்களை கற்பிக்கின்ற  அனுமதியளிக்கப்பட்ட ஆசிரியர் எண்ணிக்கையை 6500  வரைக்கும் அதிகரிப்பதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+...
+
+[Data](articles/5bc3020e.json)
 
 ---
 
@@ -2201,111 +2301,5 @@ Police suspect that the shooting has been carried out by the two of them to rece
 [Data](articles/830a46e7.json)
 
 [Extended Data](ext_articles/830a46e7.ext.json)
-
----
-
-### KKS Port acquires Sri Lanka Cement Corp land
-
-*2024-04-09 13:25:00* · [`economynextcom`](https://economynext.com/kks-port-acquires-sri-lanka-cement-corp-land-158013/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Port Authority owned Kankasanthurai Port has acquired 23 acres and 12 perches of land belonging to the Cement Corporation, Cabinet spokesman Minister Bandula Gunawardena said.
-
-“After the Surveyor General’s assessment, the Port Authority has paid an advance of 52 million rupees to the Sri Lanka Cement Corporation,” Gunawardena told reporters on Tuesday announcing the week’s Cabinet decisions.
-
-“Accordingly these identified lands will be transferred legally as per State Lands Ordinance 6 (1) to the Kankasanthurai Port for its development.”
-
-India recently pledged 61.5 million dollars in grant aid to develop Kankasanthurai Port in the island’s Northern Jaffna peninsula.
-
-As part of the project, a new breakwater will be constructed, and the port will be dredged up to a depth of 30 metres to accommodate deep-draft vessels
-
-India pledges 61.5 million dollar grant for Jaffna KKS port Sri Lanka says
-
-...
-
-[Data](articles/cfb29bb8.json)
-
-[Extended Data](ext_articles/cfb29bb8.ext.json)
-
----
-
-### "Break the kings and milk to the blind" no year
-
-*2024-04-09 13:05:39* · [`adalk`](https://www.ada.lk/breaking_news/“කණා-මුට්ටිය-බිඳීම-සහ-අන්ධයාට-කිරි-කැවීම”-මින්පසු-අවුරුදු-උත්සව-වලට-බෑ/11-409027) · `si`
-
-"State Minister Stalluvarasa advocates for a societal shift, rejecting the traditional 'breaking of the kings and milk to the blind' in favor of 'breaking of the Vasana and milk', aiming to make a conceptual difference. Special programs for disabled persons are organized throughout the year."
-
-🟩
-
-State Minister of State Stalluvarasa has intervened in this year's New Year festivals to create a conceptual change in the society.
-
-The society has rejected the features that the "breaking of the kings and milk to the blind". It has also been accepted by our Ministry. Instead, organizers have informed the organizers to use the names of the "breaking of the Vasana and milk". That we hope to make a conceptual difference in society. We also organized many special programs for disabled persons for all year festivals.
-
-Speaking at a press conference held at the press conference held at the press conference, he added.
-
-◼️
-
-[Data](articles/c03e816c.json)
-
-[Extended Data](ext_articles/c03e816c.ext.json)
-
----
-
-### Sri Lanka to establish diplomatic relations with Republic of Chad
-
-*2024-04-09 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98534/sri-lanka-to-establish-diplomatic-relations-with-republic-of-chad) · `en`
-
-The Cabinet of Ministers has approved the establishment of diplomatic relations with the Republic of Chad during the Cabinet meeting held on Monday (08).
-
-The Republic of Chad has extended cooperation to Sri Lanka in the United Nations and other multilateral forums.
-
-Meanwhile, Sri Lanka has now established diplomatic relations with 46 countries of the African continent, and the Republic of Chad has also expressed its desire to establish diplomatic relations with the island nation.
-
-Accordingly, the proposal presented by the Minister of Foreign Affairs Ali Sabry to establish diplomatic relations with the Republic of Chad has been approved by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/0e845a94.json)
-
-[Extended Data](ext_articles/0e845a94.ext.json)
-
----
-
-### Special transport service to the year
-
-*2024-04-09 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195466) · `si`
-
-New Year special transport services launched by authorities.
-
-🟩
-
-Transport authorities say that special transport services have been launched by the New Year, the Transport Authorities said.
-
-◼️
-
-[Data](articles/4d3fcffc.json)
-
-[Extended Data](ext_articles/4d3fcffc.ext.json)
-
----
-
-### Sri Lanka to offer paid medical degrees through KDU
-
-*2024-04-09 12:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-offer-paid-medical-degrees-through-kdu-158008/) · `en`
-
-ECONOMYNEXT – The Kotelawala Defence University (KDU) will offer a paid medical degree programme to students who qualify through the Z score, Minister Bandula Gunawardena said.
-
-“Middle-class families sell their ancestral lands to send their children abroad to countries like Bangladesh, Nepal, and Belarus to study for medical degrees,” Gunawardena said.
-
-“The foreign exchange Sri Lanka gets from migrant workers goes out of the country to pay for our students’ education abroad. This is a crime.”
-
-Gunawardena said this could be addressed by offering fee-levying medical degree programmes locally.
-
-The General Sir John Kotelawala Defence University, is a State defense university administered by the Ministry of Defense. At present it offers study programmes to those who join the defence forces. (Colombo/Apr9/2024)
-
-◼️
-
-[Data](articles/095f636a.json)
-
-[Extended Data](ext_articles/095f636a.ext.json)
 
 ---

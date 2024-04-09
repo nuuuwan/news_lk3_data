@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 20:51:51**
+As of **2024-04-09 21:03:31**
 
 ## Newspaper Stats
 
-*Scraped **18,130** Articles*
+*Scraped **18,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 dailyftlk | 987
 islandlk | 992
 economynextcom | 1,013
-adalk | 1,530
-tamilmirrorlk | 2,123
+adalk | 1,531
+tamilmirrorlk | 2,124
 adaderanalk | 2,177
 virakesarilk | 2,676
 dailymirrorlk | 2,769
-adaderanasinhalalk | 2,938
+adaderanasinhalalk | 2,939
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,125 (100.0%) of 18,130 articles have been extended.
+18,130 (100.0%) of 18,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### கைக்கு இரண்டு பூட்டுகள்: சாவிகளால் சிக்கல்
+
+*2024-04-09 20:53:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைக்கு-இரண்டு-பூட்டுகள்-சாவிகளால்-சிக்கல்/175-335789) · `ta`
+
+கொழும்பு -10 டி பி. ஜயா மாவத்தையில் அமைந்துள்ள ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைமையக கட்டிடம் யாருக்கு சொந்தமானது என்ற கேள்வி இன்று (09) மீண்டும் எழுந்துள்ளது.
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவிற்கு விசுவாசமான குழுவின் பதில் செயலாளரும், பாராளுமன்ற உறுப்பினருமான சாரதி துஷ்மந்த மித்ரபால, தலைமையகத்திற்குள் இன்று (09காலை நுழைய பொலிஸாருடன் சென்ற போது கதவுகளில் போடப்பட்டிருந்த பூட்டுகளை திறக்க சாவிகள் இல்லாததால் பெரும் சிரமத்திற்கு உள்ளானார்.
+
+அப்போது, ​​தானும் தனது குழுவினரும் கட்டிடத்திற்குள் நுழைய முடியாமல் போனதற்கு காவல்துறைதான் பொறுப்பேற்க வேண்டும் என்று பதில் செயலாளர் கூறினார்.
+
+கட்சித் தலைமையகத்தில் அமைச்சர் மஹிந்த அமரவீர, இராஜாங்க அமைச்சர் லசந்த அழகியவன்ன, பாராளுமன்ற உறுப்பினர் துமிந்த திஸாநாயக்க ஆகியோர் செய்தியாளர் மாநாட்டை நடாத்திவிட்டு அங்கிருந்து வெளியேறியதாக அவரது முறைப்பாட்டின் பிரகாரம் தலைமையகத்திற்கு பொலிஸார் சீல் வைத்ததுடன் யாரையும் உள்ளே செல்ல அனுமதிக்கவில்லை. எனவே காவல்துறையே அனைத்துப் பொறுப்பையும் ஏற்க வேண்டும் என்றார்
+
+...
+
+[Data](articles/00b1b9a2.json)
+
+---
+
+### පොහොට්ටුවේ ජනාධිපති අපේක්ෂකයා තීරණය කරන්නේ මහින්ද
+
+*2024-04-09 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195484) · `si`
+
+එළඹෙන ජනාධිපතිවරණයේදී ශ්‍රී ලංකා පොදුජන පෙරමුණේ අපේක්ෂකයා සම්බන්ධයෙන් තීන්දුවක් ගැනීම හා ඒ පිළිබඳව ප්‍රකාශ කිරීමේ වගකීම එම පක්ෂ නායක මහින්ද රාජපක්ෂ මහතාට පවරා තිබේ.
+
+පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා පැවසුවේ අද (09) පැවති ශ්‍රී ලංකා පොදුජන පෙරමුණේ දේශපාලන මණ්ඩල රැස්වීමේදී මෙම තීරණයට එළැඹි බවය.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ දේශපාලන මණ්ඩලය පක්ෂ නායක මහින්ද රාජපක්ෂ, පක්ෂ නිර්මාතෘ බැසිල් රාජපක්ෂ යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන් අද කොළඹදී රැස්වී තිබුණි.
+
+◼️
+
+[Data](articles/97ad07d3.json)
+
+---
 
 ### Sri Lanka to hold foreign office consultations with Kazakhstan and Kyrgyz Republic
 
@@ -47,6 +81,8 @@ On the sidelines of the Foreign Office Consultations meetings are also scheduled
 ...
 
 [Data](articles/33b756f6.json)
+
+[Extended Data](ext_articles/33b756f6.ext.json)
 
 ---
 
@@ -66,6 +102,8 @@ He said more than 80 percent of the Samagi Jana Balawegaya (SJB) will be support
 
 [Data](articles/899ee615.json)
 
+[Extended Data](ext_articles/899ee615.ext.json)
+
 ---
 
 ### President grants pardon to 779 prisoners
@@ -80,6 +118,8 @@ This Presidential Pardon will be granted in accordance with Article 34 (1) of th
 
 [Data](articles/67879bd2.json)
 
+[Extended Data](ext_articles/67879bd2.ext.json)
+
 ---
 
 ### Lotus Tower to glow green, white to mark Eid
@@ -91,6 +131,8 @@ The Colombo Lotus Tower will mark Eid on Thursday (11) by illuminating the sky w
 ◼️
 
 [Data](articles/4a3e9f39.json)
+
+[Extended Data](ext_articles/4a3e9f39.ext.json)
 
 ---
 
@@ -111,6 +153,22 @@ A 36-member elite athletic pool set up by the SLA is currently training while ta
 [Data](articles/92b908f3.json)
 
 [Extended Data](ext_articles/92b908f3.ext.json)
+
+---
+
+### නිදහස් පක්ෂයේ සියලුම තීරණ මැතිවරණ කොමිෂමට දැනුම් දෙයි
+
+*2024-04-09 19:44:47* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-සියලුම-තීරණ-මැතිවරණ-කොමිෂමට-දැනුම්-දෙයි/11-409039) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂ දේශපාලන මණ්ඩලය විසින් ඊයේ(08දා)   ගත් තීන්දු පිළිබඳව මැතිවරණ කොමිසමට සියලුම වාර්තා ලබාදුන් බව එම පක්ෂයේ ජාතික සංවිධායක දුම්න්ද  දිසානායක මහතා සඳහන් කළේය.
+
+පක්ෂයේ කටයුතු සිදුකිරීමට සභාපතිවරයෙකු නොමැති වීම නිසා වැඩබලන සභාපති ලෙස පක්ෂයේ ජ්‍යෙෂ්ඨ උපසභාපති නිමල් සිරිපාල ද සිල්වා මහතා පත් කර ගත් බවත්, මේ අනුව පක්ෂය ශක්තිමත් කිරීමේ කටයුතු අලුත් අවුරුදු සමයෙන් පසු ආරම්භ කිරීමට සැලසුම් කර තිබෙන බවත් හෙතෙම පවසා සිටියේය.
+
+ශ්‍රි ලංකා නිදහස් පක්ෂය ලබාදුන් වාර්තා පිළිබඳව සාකච්ඡා කිරීමට මේ මස  18 වැනිදා මැතිවරණ කොමිෂන් සභාව රැස් වීමට නියමිතය.  ශ්‍රී ලංකා නිදහස් පක්ෂයේ අනුශාසක  හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මියගේ ප්‍රධානත්වයෙන් ඊයේ (8දා) කොළඹ පදනම් ආයතනයේ දී දේශපාලන මණෟඩලය රැස් විය.
+
+◼️
+
+[Data](articles/a3e558e9.json)
 
 ---
 
@@ -2229,75 +2287,5 @@ Dr. Wickramanayake, who currently remains under remand custody over the alleged 
 [Data](articles/c59902bd.json)
 
 [Extended Data](ext_articles/c59902bd.ext.json)
-
----
-
-### Sri Lanka PA's Political Council meets today!
-
-*2024-04-09 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180793) · `ta`
-
-Sri Lanka PA's Political Council meets today with leader Mahinda Rajapaksa to decide on six members joining the United People's Power Party.
-
-🟩
-
-The Sri Lanka PA's Political Council (PA) will meet with the party's leader and former president Mahinda Rajapaksa at its official office in Wijerama Mawatha, Colombo today.
-
-It is reported that the decision will be taken regarding the six members of the PA, which has joined the United People's Power Party.
-
-Meanwhile, the former PA of the United People's Power, GL, is the former Chairman of the PA. Peiris and Dylan Perera, Nalaka Kodahewa, Vasantha Yapa Bandara, Ubul Kalathi and KP. S.. It is reported that Kumarasiri has joined the 5th of this month.
-
-◼️
-
-[Data](articles/1b3b231f.json)
-
-[Extended Data](ext_articles/1b3b231f.ext.json)
-
----
-
-### Details of Sri Lankans captured by Pakistanis as hostages in Nepal
-
-*2024-04-09 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180792) · `ta`
-
-Four Sri Lankans were captured by Pakistanis in Nepal, promised jobs abroad. Nepal police arrested the Pakistanis, rescuing the Sri Lankans. The Pakistanis claimed employment in Canada, Romania, and Greece.
-
-🟩
-
-Nepal police said that four Pakistanis have been arrested and securely rescued by four Pakistanis who have taken four Sri Lankans to Nepal, promising to get employment abroad.
-
-57 -year -old Zubair Azad, 42 -year -old Jehan Dhanbir, 61 -year -old Malik Abdul Hameed and 44 -year -old Arif Masiha were hostage, police said.
-
-Nepal police said that Pakistani nationals have taken these Sri Lankans to Nepal, claiming to be employed in Canada, Romania and Greece.
-
-Nepal police said that all four Sri Lankans were intimidated by their families in Sri Lanka and the four Pakistanis were trying to extort money from Sri Lankans.
-
-◼️
-
-[Data](articles/bc009c20.json)
-
-[Extended Data](ext_articles/bc009c20.ext.json)
-
----
-
-### Allow the prisoners to visit
-
-*2024-04-09 11:12:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகளைப்-பார்வையிட-அனுமதி/175-335783) · `ta`
-
-Special measures for prisoner visits on Ramadan and Tamil Sinhala New Year eve, including Islamic religious prisoners, implemented on 11th, 12th, and 13th. Prisons ensure safety and adhere to health regulations for food and products.
-
-🟩
-
-Special measures have been taken to visit the prison prisoners on the eve of Ramadan and Tamil Sinhala New Year.
-
-Prison Commissioner Media Spokesperson Gamini B that the program will be implemented on the 11th, 12th and 13th.. Dissanayake said.
-
-In addition, special measures have been taken to visit relatives for Islamic religious prisoners on the 11th of this month.
-
-He added that all prisons have been arranged to provide safety procedures in accordance with the existing health regulations of desserts, food and health products brought by relatives for prison prisoners.
-
-◼️
-
-[Data](articles/52f24dbd.json)
-
-[Extended Data](ext_articles/52f24dbd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 17:18:12**
+As of **2024-04-09 17:34:28**
 
 ## Newspaper Stats
 
-*Scraped **18,089** Articles*
+*Scraped **18,094** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,88 @@ newsfirstlk | 363
 dailyftlk | 987
 islandlk | 992
 economynextcom | 1,004
-adalk | 1,525
-tamilmirrorlk | 2,121
-adaderanalk | 2,173
+adalk | 1,526
+tamilmirrorlk | 2,122
+adaderanalk | 2,174
 virakesarilk | 2,669
-dailymirrorlk | 2,760
-adaderanasinhalalk | 2,933
+dailymirrorlk | 2,761
+adaderanasinhalalk | 2,934
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,089 (100.0%) of 18,089 articles have been extended.
+18,089 (100.0%) of 18,094 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### සීමාවන් නොමැති බව රුසියාව සහ චීනය යළිත් මතක් කරයි
+
+*2024-04-09 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195478) · `si`
+
+සදා ශක්තිමත් වන සිය ද්විපාර්ශ්වික සබඳතාවල කොටසක් ලෙස ත්‍රස්තවාදයට එරෙහි සටනේදී සහයෝගයෙන් කටයුතු කිරීමට රුසියාව සහ චීනය අඛණ්ඩව පියවර ගන්නා බව රුසියානු විදේශ අමාත්‍ය සර්ජි ලැවරොෆ් පවසයි.
+
+මේ ප්‍රකාශයේ වැදගත්කම වන්නේ ඔහු මේ ප්‍රකාශය සිදුකළේ චීනයේ බීජිං නුවරදී වීමය.
+
+චීන විදේශ අමාත්‍ය වෑන්ග් යී මුණගැසීමෙන් පසු ඔහු ත්‍රස්තවාදයට එරෙහි රුසියානු සටනට චීනයෙන් ලැබෙන සහාය පිළිබඳවත් ස්තූතිය පළ කර ඇත.
+
+පසුගිය මාර්තු 22 වනදා මොස්කව් නුවරට තදාසන්න රඟහලකට එල්ලවූ ත්‍රස්ත ප්‍රහාරයේදී මුලින්ම රුසියාවට සහාය පළ කළ, ඒ පිළිබඳ කනගාටුව පළ කළ චීනය යි.
+
+පැහැදිලි සාක්ෂි ඉදිරිපත් කළ නොහැකි වුවත් රුසියාව, එම ප්‍රහාරය සඳහා යුක්‍රේනයේ සම්බන්ධයක් ඇති බවට විශ්වාස කරයි.
+
+බීජිං නුවරදී රුසියානු විදේශ අමාත්‍ය ලැවරොෆ් වැඩිදුරටත් සඳහන් කළේ බහුපාර්ශ්වික ආයතන ඇතුළු සියලු යාන්ත්‍රණයන් තුළ ත්‍රස්තවාදයට එරෙහි රුසියානු - චීන සහයෝගීතාව දිගටම පවත්වා ගන්නා බවය.
+
+රුසියානු හමුදාවල යුක්‍රේන ආක්‍රමණය නැත්නම් ඔවුන් හඳුන්වන පරිදි විශේෂ හමුදා මෙහෙයුම 2022 වසරේ පෙබරවාරියේ ආරම්භ කිරීමට දින කිහිපයකට පෙර ජනාධිපති ව්ලැදිමීර් පුටින් චීනයේ සංචාරයක නිරත වුණි.
+
+...
+
+[Data](articles/10b3436a.json)
+
+---
+
+### Immigration head office yet to fix CCTV cameras purchased six years ago
+
+*2024-04-09 17:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immigration-head-office-yet-to-fix-CCTV-cameras-purchased-six-years-ago/108-280479) · `en`
+
+Colombo, April 9 (Daily Mirror)- A Parliamentary Committee has revealed that CCTV camera equipment that had been purchased at a cost of Rs. 2.1 million to be fixed at the internal premises of the Immigration and Emigration head office had been stored for six years without being fixed.
+
+This was revealed when the Immigration and Emigrations Department was summoned before the Committee on Public Accounts (COPA) recently.
+
+It was further revealed that the equipment had been purchased in 2017 and that however, all the equipment required to install CCTV cameras had not been purchased.
+
+The officials who were responsible for the purchase have been transferred by now.
+
+COPA Chairman Lasantha Alagiyawanna instructed to appoint a committee headed by an additional secretary of the Public Security Ministry and take steps to install the CCTV cameras and submit a progress report before May 15.
+
+The Chairman pointed out that some officials were reluctant for the installation of CCTV cameras.
+
+...
+
+[Data](articles/3bcc1865.json)
+
+---
+
+### Appeals Court to decide on Keheliya’s petition against remand order
+
+*2024-04-09 17:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98539/appeals-court-to-decide-on-keheliyas-petition-against-remand-order) · `en`
+
+The Court of Appeals has set a date to deliver its decision on whether or not to take up the writ application seeking to quash the remand order on former Minister of Health Keheliya Rambukwella issued by the Maligakanda Magistrate.
+
+Accordingly, the court ordered that the decision will be communicated on April 30, 2024, Ada Derana reporter said.
+
+The former Minister filed the relevant petition seeking to invalidate the order issued by Maligakanda Magistrate’s Court under the Public Property Act to remand him until the completion of the trial related to the alleged substandard immunoglobulin vials scandal.
+
+Meanwhile, the Bar Association of Sri Lanka (BASL) has filed an interim petition requesting permission from the court to intervene and present facts in relation to the relevant petition by Rambukwella.
+
+Through its interim petition, the BASL has sought the dismissal of Rambukwella’s writ application.
+
+◼️
+
+[Data](articles/d3cd1201.json)
+
+---
 
 ### Decision on Keheliya's petition on 30th
 
@@ -317,6 +383,24 @@ Upon completion of this runway expansion, the airport will be capable of accommo
 [Data](articles/50dd7ab1.json)
 
 [Extended Data](ext_articles/50dd7ab1.ext.json)
+
+---
+
+### வீட்டுக்குப் பின் சென்ற விளையாட்டு ஆசிரியர் கைது
+
+*2024-04-09 16:15:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டுக்குப்-பின்-சென்ற-விளையாட்டு-ஆசிரியர்-கைது/175-335786) · `ta`
+
+புத்தல கல்விப் பிரிவுக்குட்பட்ட பாடசாலை ஒன்றின் 11ஆம் தரத்தில் கல்வி கற்கும் மாணவி ஒருவரை பாலியல் வன்கொடுமைக்கு உட்படுத்திய குற்றச்சாட்டின் பேரில் குறித்த பாடசாலையின் விளையாட்டு ஆசிரியையை புத்தல பொலிஸார் கடந்த (08) கைது செய்துள்ளனர்.
+
+சந்தேகநபர் 2022 ஆம் ஆண்டு நவம்பர் மாதம் சிறுமிக்கு 15 வயதாக இருந்தபோது காதல் உறவைப் பேணி, நள்ளிரவு 12.30 மணியளவில் அவரது வீட்டின் பின்புறத்தில் உள்ள வீட்டை விட்டு வெளியே அழைத்துச் சென்றார். வீட்டின் பின்புறம் உள்ள   ஒரு கொட்டகையில் வைத்து பலாத்காரம் செய்தார்.
+
+இதனை அறிந்த சிறுமியின் தந்தை இந்த காதல் உறவை நிறுத்துமாறு எச்சரித்ததன் காரணமாக 04/04/2024 அன்று சிறுமி ஒருவித விஷத்தை குடித்து தற்போது மொனராகலை மாவட்ட பொது வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றார்.
+
+இவர்களது நிலை கவலைக்கிடமாக இல்லை எனவும் விசாரணையின் போது பாடசாலையின் விளையாட்டு ஆசிரியருடன் இவர்கள் கணவன் மனைவி போன்று பல சந்தர்ப்பங்களில் நடந்து கொண்டதாக பொலிஸார் பொலிஸாரிடம் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/60ae5112.json)
 
 ---
 
@@ -633,6 +717,22 @@ A relevant discussion was held last week. The President's party first prefers th
 [Data](articles/99966857.json)
 
 [Extended Data](ext_articles/99966857.ext.json)
+
+---
+
+### ඉස්ලාම් දේවස්ථානවල ආරක්ෂාවට 7300
+
+*2024-04-09 15:04:06* · [`adalk`](https://www.ada.lk/breaking_news/ඉස්ලාම්-දේවස්ථානවල-ආරක්ෂාවට-7300/11-409035) · `si`
+
+රාමසාන් උත්සව දිනය වෙනුවෙන් ඉස්ලාම් දේවස්ථාන ආශ්‍රිතව ආරක්ෂාව සඳහා පොලිසිය ඇතුළු ආරක්ෂක අංශයේ 7350  කට අධික නිලධාරින් පිරිසක් යොදවන  බව පොලිස් මූලස්ථානය පවසයි.
+
+සෑම පොලිස් වසමට අයත් සියලුම ඉස්ලාම්  දේවස්ථාන වල මව්ලවිතුමන්ලා හමුවි මෙම විශේෂ ආරක්ෂක සැලැස්ම සකස් කර ඇති අතර, ඒ යටතේ දිවයින පුරා ඉස්ලාම් දේවස්ථාන 3,203 ක් අතරින් දේව මෙහෙයන් පැවැත්වෙන ඉස්ලාම් දේවස්ථාන ස්ථාන 2,453 කට අවශ්‍ය  ආරක්ෂාව ලබාදීමට මෙම මෙම වැඩසටහන ක්‍රියාත්මක කෙරේ.
+
+අඒ අනුව  පොලිස් නිළධාරීන් 5,580 ක්, විශේෂ කාර්ය බලකා නිළධාරීන් 510 ක් සහ ත්‍රිවිධ හමුදා නිළධාරීන් 1,260 ක් සමගින් 7,350 කට අධික ආරක්ෂක භට පිරිසක් යෙදවීමට මේ වනවිටත් කටයුතු  යොදා ඇත.
+
+◼️
+
+[Data](articles/46f74f6c.json)
 
 ---
 
@@ -2205,121 +2305,5 @@ Prison commissioners Gamini B. Gamini B.. Dissanayake added.
 [Data](articles/912ab124.json)
 
 [Extended Data](ext_articles/912ab124.ext.json)
-
----
-
-### Title Watching Conference Today
-
-*2024-04-09 08:09:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலைபிறை-பார்க்கும்-மாநாடு-இன்று/175-335777) · `ta`
-
-The Hijri 1445 -St. Shawal Month Conference, led by President Tahir Rashein at Colombo Great School, will feature Birth Committee members, Ashsheyq Hizam, representatives from Jamiyyathul Ulama Council, Department of Muslim Religious and Cultural Affairs, and the Senior Officer of the Meteorological Department. Invitations available at 011 24 32 110, 011 24 51 245, and 0777 35 37 89.
-
-🟩
-
-The Hijri 1445 -St. Shawal Month Conference will be held this evening.
-
-The event will be held under the leadership of President Tahir Rashein at the Colombo Great School following the Mahrip prayer.
-
-The conference will be attended by members of the Birth Committee of the Great School, Ashsheyq Hizam, representatives of the All Ceylon Jamiyyathul Ulama Council, the Department of Muslim Religious and Cultural Affairs and the Senior Officer of the Meteorological Department.
-
-If the headline for the month of Shawal is visible across the country, you can make an invitation to 011 24 32 110, 011 24 51 245 and 0777 35 37 89. Remble
-
-◼️
-
-[Data](articles/58843f2c.json)
-
-[Extended Data](ext_articles/58843f2c.ext.json)
-
----
-
-### CID investigations are worth billions of missing
-
-*2024-04-09 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195456) · `si`
-
-The CID is investigating a billion-rupee disappearance of paddy stock, with Attorney Buddhika Iddamalgoda under investigation. Four stores are being probed separately.
-
-🟩
-
-The Criminal Investigations Department (CID) has launched an investigation into the disappearance of Rs.
-
-The Chairman of the Paddy Marketing Board Attorney Buddhika Iddamalgoda has been handed over to the CID and the proportion of the stock of paddy has disappeared, the value of the stock of paddy is nearly a billion rupees.
-
-"Investigation into the disappearance of paddy stock of paddy stock. Accordingly, a separate investigation in four stores of nearly a billion stores in four stores, a separate investigation into four stores have been issued to the CID.. Accordingly, they have commenced investigations and arrive in the final stages. We believe in the final stage of investigations under criminal law. These are the money of the public. Expedite investigations and will be taken to the Paddy Marketing Board. "
-
-Meanwhile, the Paddy Marketing Board, Attorney Buddhika Iddamalgoda, has been temporarily parked on Saturday from Saturday.
-
-◼️
-
-[Data](articles/cb71475c.json)
-
-[Extended Data](ext_articles/cb71475c.ext.json)
-
----
-
-### Invasive plant found spreading in Sri Pada mountain range: Minister
-
-*2024-04-09 07:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Invasive-plant-found-spreading-in-Sri-Pada-mountain-range-Minister/108-280443) · `en`
-
-Colombo, April 9 (Daily Mirror) - Wildlife and Forest Resources Conservation Minister Pavithradevi Wanniarachchi has directed the authorities concerned to promptly address the spread of the invasive plant species 'Koenigia Mollis' in the tropical rainforest surrounding the Sri Pada (Adam's Peak) mountain range.
-
-She instructed officials to implement measures focused on biodiversity conservation and to employ scientific and technical methods for the removal of the invasive plant.
-
-The invasive plant has been found to have spread along the roads leading to Sri Pada, near the stalls, shops and toilets.
-
-In areas where the plant has spread, native plants have been completely overwhelmed and destroyed.
-
-Researchers at Sabaragamuwa University have discovered that a particular plant, typically found growing 6 to 8 feet tall near mountainous areas, gradually weakens the stability of its root system. This weakening contributes to an increased risk of landslides occurring at the mountain peaks.
-
-...
-
-[Data](articles/5041d86e.json)
-
-[Extended Data](ext_articles/5041d86e.ext.json)
-
----
-
-### Plans to implement the Examination Department in two parts
-
-*2024-04-09 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195455) · `si`
-
-President Ranil Wickremesinghe plans to split the Examination Department into two, focusing on school exams and other exams separately, aiming to address youth concerns and improve exam scheduling.
-
-🟩
-
-President Ranil Wickremesinghe says he has decided to divide the Examination Department in the future.
-
-The President says that only one sector is expected to be handed over to a single sector.
-
-President Ranil Wickremesinghe made this statement addressing the issues of the youths who attended the Kandy District Youth Conference.
-
-"I entered the university in 18. Came out in 21. Today in 21. I am now discussing 2025 or 2026 lagoon launcher to put this exam in December. That they should enter the university this month. Do it punishing if it is broken. Especially, we will discuss, divide the Department of Examinations into two parts and hand over school examinations. Others offer other examinations. Because in addition to the five exam, Ordinary Level and A / L students have 50 - 50 exams. We have separated this and conduct a separate degree to hold the government's examinations. "
-
-◼️
-
-[Data](articles/300578a5.json)
-
-[Extended Data](ext_articles/300578a5.ext.json)
-
----
-
-### Another mysterious death
-
-*2024-04-09 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195454) · `si`
-
-A 54-year-old resident died mysteriously, with severe head and rib injuries. The wife reported the death, and an autopsy was conducted at Hambantota Hospital.
-
-🟩
-
-The deceased has been identified as a 54 year old resident of the area.
-
-The wife of the deceased has been a complaint with death and the autopsy has been conducted at the Hambantota Hospital.
-
-The victim was severely injured in the head and the ribs.
-
-◼️
-
-[Data](articles/387f9701.json)
-
-[Extended Data](ext_articles/387f9701.ext.json)
 
 ---

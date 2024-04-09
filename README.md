@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 18:33:42**
+As of **2024-04-09 18:51:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,936
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,099 (99.9%) of 18,111 articles have been extended.
+18,111 (100.0%) of 18,111 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -76,6 +76,8 @@ The streets of Colombo and its suburbs bustled with crowds as people flocked for
 
 [Data](articles/494300e2.json)
 
+[Extended Data](ext_articles/494300e2.ext.json)
+
 ---
 
 ### International court rules Switzerland violated human rights in landmark climate case brought by 2,000 women
@@ -98,19 +100,25 @@ This amounted to a breach of the women’s rights to effective protection from t
 
 ---
 
-### முதலாம் தவணை நாளை நிறைவு
+### The first installment is completed tomorrow
 
 *2024-04-09 17:47:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலாம்-தவணை-நாளை-நிறைவு/175-335787) · `ta`
 
-அரச மற்றும் அரச அங்கீகாரம் பெற்ற தனியார், சிங்கள மற்றும் தமிழ் பாடசாலைகளுக்கான முதலாம் தவணைக்கான முதல் கட்ட விடுமுறை நாளையுடன் நிறைவடைவதாக கல்வி அமைச்சு அறிவித்துள்ளது.
+The first phase of holidays ends tomorrow for state and private schools, with the second phase starting April 24. Muslim schools begin their second phase on April 17.
 
-அதன்படி, இரண்டாம் கட்ட முதல் பள்ளித் தவணை ஏப்ரல் 24ஆம் திகதி தொடங்கவுள்ளது.
+🟩
 
-முஸ்லிம் பாடசாலைகளுக்கான முதல் பாடசாலை தவணையின் இரண்டாம் கட்டம் ஏப்ரல் 17ஆம் திகதி ஆரம்பமாகவுள்ளது
+The Ministry of Education has announced that it will end the first phase of holidays for the first installment for state and state -approved private, Sinhala and Tamil schools.
+
+Accordingly, the second phase of the second phase will begin on April 24.
+
+The second phase of the first school installment for Muslim schools begins on April 17
 
 ◼️
 
 [Data](articles/0f0c0e9c.json)
+
+[Extended Data](ext_articles/0f0c0e9c.ext.json)
 
 ---
 
@@ -166,6 +174,8 @@ The health salary bill was only 17 percent of the total, and education only 9 pe
 
 [Data](articles/6fd3dfe0.json)
 
+[Extended Data](ext_articles/6fd3dfe0.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes at 298.60/65 to the US dollar
@@ -187,6 +197,8 @@ A bond maturing on 01.07.2032 closed at 12.40/55 percent. (Colombo/Apr9/2024)
 ◼️
 
 [Data](articles/bb90a4bb.json)
+
+[Extended Data](ext_articles/bb90a4bb.ext.json)
 
 ---
 
@@ -387,6 +399,8 @@ Other major contributors to the Index included Ceylon Beverage Holdings Plc, up 
 ...
 
 [Data](articles/e94bcbc6.json)
+
+[Extended Data](ext_articles/e94bcbc6.ext.json)
 
 ---
 
@@ -692,6 +706,8 @@ A statement from the president’s office said Wickremesinghe has expressed plan
 
 [Data](articles/9a79ea28.json)
 
+[Extended Data](ext_articles/9a79ea28.ext.json)
+
 ---
 
 ### A special mandate to flee another Sri Lankan star
@@ -780,6 +796,8 @@ The proposal to amend the pertinent regulations was jointly presented by Preside
 
 [Data](articles/fd95f568.json)
 
+[Extended Data](ext_articles/fd95f568.ext.json)
+
 ---
 
 ### Sri Lanka Treasury bill yields marginally down across maturities
@@ -798,6 +816,8 @@ The 12-month yield fell 1 basis point to 10.27 percent with 20 billion rupees of
 
 [Data](articles/bb7123b8.json)
 
+[Extended Data](ext_articles/bb7123b8.ext.json)
+
 ---
 
 ### Sri Lanka spent nearly 200 billion rupees as social welfare in 2023
@@ -815,6 +835,8 @@ The government’s total expenditure on social welfare initiatives in 2023, incl
 ...
 
 [Data](articles/d0fc7f5a.json)
+
+[Extended Data](ext_articles/d0fc7f5a.ext.json)
 
 ---
 
@@ -927,6 +949,8 @@ At the local government polls, a party candidate must pay 6,000 rupees as deposi
 ...
 
 [Data](articles/a9f87674.json)
+
+[Extended Data](ext_articles/a9f87674.ext.json)
 
 ---
 
@@ -1209,6 +1233,8 @@ The island nation has received a record number of foreign parcels this year incl
 ...
 
 [Data](articles/5a7a646e.json)
+
+[Extended Data](ext_articles/5a7a646e.ext.json)
 
 ---
 

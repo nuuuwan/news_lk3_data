@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 18:21:44**
+As of **2024-04-09 18:33:42**
 
 ## Newspaper Stats
 
-*Scraped **18,099** Articles*
+*Scraped **18,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,19 +14,19 @@ dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 987
 islandlk | 992
-economynextcom | 1,004
+economynextcom | 1,013
 adalk | 1,527
-tamilmirrorlk | 2,122
+tamilmirrorlk | 2,123
 adaderanalk | 2,176
 virakesarilk | 2,669
-dailymirrorlk | 2,761
+dailymirrorlk | 2,763
 adaderanasinhalalk | 2,936
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,097 (100.0%) of 18,099 articles have been extended.
+18,099 (99.9%) of 18,111 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,19 +42,39 @@ In view of the Sinhala and Tamil New Year, President Ranil Wickremesinghe will g
 
 [Data](articles/d4069c42.json)
 
+[Extended Data](ext_articles/d4069c42.ext.json)
+
 ---
 
-### අලුත් අවුරුද්ද වෙනුවෙන් 779 දෙනෙකුට ජනාධිපති සමාව
+### President pardons 779 persons for New Year
 
 *2024-04-09 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195481) · `si`
 
-සිංහල හා දෙමළ අලුත් අවුරුද්ද වෙනුවෙන් සිරකරුවන් 779 දෙනෙකුට ජනාධිපති සමාව ප්‍රදානය කෙරෙන බව ජනාධිපති මාධ්‍ය අංශය පැවසීය.
+President pardons 779 for New Year; Presidential Forgiver awarded to Sinhala, Tamil New Year; Ranil Wickremesinghe awarded Presidential Forgiveness under Article 34 (1) of the Constitution.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 34(1) ව්‍යවස්ථාව ප්‍රකාරව එලෙස ජනාධිපති සමාව ප්‍රදානය කරන බවද ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+🟩
+
+Presidential Media Unit said that the Presidential Forgiver will be awarded to the Sinhala and Tamil New Year.
+
+President Ranil Wickremesinghe will be awarded to the Presidential Forgiveness in terms of Article 34 (1) of the Constitution.
 
 ◼️
 
 [Data](articles/98c2d291.json)
+
+[Extended Data](ext_articles/98c2d291.ext.json)
+
+---
+
+### Streets bustle for New Year shopping
+
+*2024-04-09 18:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Streets-bustle-for-New-Year-shopping/110-280481) · `en`
+
+The streets of Colombo and its suburbs bustled with crowds as people flocked for their New Year shopping, eagerly preparing for the festivities of Ramadan, Sinhala and Tamil New Year. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/494300e2.json)
 
 ---
 
@@ -75,6 +95,22 @@ This amounted to a breach of the women’s rights to effective protection from t
 [Data](articles/eb3e45df.json)
 
 [Extended Data](ext_articles/eb3e45df.ext.json)
+
+---
+
+### முதலாம் தவணை நாளை நிறைவு
+
+*2024-04-09 17:47:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலாம்-தவணை-நாளை-நிறைவு/175-335787) · `ta`
+
+அரச மற்றும் அரச அங்கீகாரம் பெற்ற தனியார், சிங்கள மற்றும் தமிழ் பாடசாலைகளுக்கான முதலாம் தவணைக்கான முதல் கட்ட விடுமுறை நாளையுடன் நிறைவடைவதாக கல்வி அமைச்சு அறிவித்துள்ளது.
+
+அதன்படி, இரண்டாம் கட்ட முதல் பள்ளித் தவணை ஏப்ரல் 24ஆம் திகதி தொடங்கவுள்ளது.
+
+முஸ்லிம் பாடசாலைகளுக்கான முதல் பாடசாலை தவணையின் இரண்டாம் கட்டம் ஏப்ரல் 17ஆம் திகதி ஆரம்பமாகவுள்ளது
+
+◼️
+
+[Data](articles/0f0c0e9c.json)
 
 ---
 
@@ -105,6 +141,52 @@ Meanwhile, the Kandy Police are conducting further investigations into the murde
 [Data](articles/04bd9d5b.json)
 
 [Extended Data](ext_articles/04bd9d5b.ext.json)
+
+---
+
+### Sri Lanka state workers, military given Rs107bn in April salaries
+
+*2024-04-09 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-workers-military-given-rs107bn-in-april-salaries-158063/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury has released 107 billion rupees to state workers for April salaries including an increment, State Minister for Finance Ranjith Siyambalapitiya said.
+
+The monthly salary bill is about 93 billion rupees, but it has gone up by about 13 billion rupees due to the 10,000 rupee allowance, he said.
+
+Usually the monthly salaries are paid starting from the 16 and 17. First teachers are paid, then the military the next day, followed by provincial councils, he said.
+
+“But for April we paid before the New Year,” Minister Siyambalapitiya said. “So today the Treasury released the funds to all state institutions.”
+
+“Tomorrow everyone should get their salaries, to their accounts or otherwise”.
+
+Colombo-based Verite Research analysis of expenditure found that 32 percent of the salaries go to the military and another 16 percent went to the public security ministry.
+
+The health salary bill was only 17 percent of the total, and education only 9 percent.
+
+...
+
+[Data](articles/6fd3dfe0.json)
+
+---
+
+### Sri Lanka rupee closes at 298.60/65 to the US dollar
+
+*2024-04-09 17:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-298-60-65-to-the-us-dollar-158058/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 298.60/65 to the US dollar in the spot forex market on Tuesday, stronger from 298.90/299.00 on Monday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 11.30/40 percent down from 11.35/45 percent.
+
+A bond maturing on 15.09.2027 closed stable at 11.85/12.00 percent.
+
+A bond maturing on 15.12.2028 closed at 12.05/15 percent down from 12.10/20 percent.
+
+A bond maturing on 15.09.2029 closed at 12.20/30 percent from 12.20/40 percent.
+
+A bond maturing on 01.07.2032 closed at 12.40/55 percent. (Colombo/Apr9/2024)
+
+◼️
+
+[Data](articles/bb90a4bb.json)
 
 ---
 
@@ -281,6 +363,30 @@ About 11 million documents contained in that revelation. It was accused of polit
 [Data](articles/e1d7187a.json)
 
 [Extended Data](ext_articles/e1d7187a.ext.json)
+
+---
+
+### Sri Lanka stocks close up, consumer durables and apparel push turnover
+
+*2024-04-09 16:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-consumer-durables-and-apparel-push-turnover-158054/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader All Share Index closed up 0.36 percent, or 42.49 points, at 11,962; while the S&P SL20 Index closed up 0.09 percent, or 3.12 points, at 3,546.
+
+Turnover was at 2.5 billion. Banks (Rs570mn) and Consumer Durables and Apparel (Rs469mn) brought in the most value.
+
+Ambeon Capital Plc saw the most active trade volume contributing 398 million rupees to the day’s turnover; the share closed up at 9.50.
+
+Access Engineering Plc, which announced it had secured a contract to complete the substructure of a new terminal at the Bandaranaike International Airport, halted by a Japanese contractor after the island defaulted on its foreign debt in 2022, closed up at 23.80.
+
+Sri Lanka’s Access to complete substructure of halted airport terminal
+
+Other major contributors to the Index included Ceylon Beverage Holdings Plc, up at 1,550.00, Vallibel One Plc, up at 54.10, and Royal Ceramics Lanka Plc, up at 32.30.
+
+...
+
+[Data](articles/e94bcbc6.json)
 
 ---
 
@@ -572,6 +678,22 @@ In some families, there is no rice and drinking water. The price of rice is stil
 
 ---
 
+### Sri Lanka president wants legal system modernised to facilitate economic growth
+
+*2024-04-09 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-wants-legal-system-modernised-to-facilitate-economic-growth-158051/) · `en`
+
+ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe has called for modernisation of the legal system to effectively implement the government’s economic reforms to drive growth.
+
+Speaking to a group of lawyers in Kandy on Sunday April 07, Wickremesinghe said collaboration with the International Monetary Fund (IMF) was a crucial step towards revitalising Sri Lanka’s economy, adding that legalising the agreements with the IMF to ensure that the benefits reach the people swiftly.
+
+A statement from the president’s office said Wickremesinghe has expressed plans to introduce a new legal framework geared towards modernisation across various sectors. According to the statement, he had sought the support of the legal community for the proposed initiatives, highlighting the significance of their involvement in advancing these efforts.
+
+...
+
+[Data](articles/9a79ea28.json)
+
+---
+
 ### A special mandate to flee another Sri Lankan star
 
 *2024-04-09 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195473) · `si`
@@ -639,6 +761,60 @@ The proposal to amend the pertinent regulations was jointly presented by Preside
 [Data](articles/7a3bd494.json)
 
 [Extended Data](ext_articles/7a3bd494.ext.json)
+
+---
+
+### Sri Lanka hikes candidate deposits for Presidential Election
+
+*2024-04-09 15:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-hikes-candidate-deposits-for-Presidential-Election/155-280475) · `en`
+
+Colombo, April 09 (Daily Mirror) - The Cabinet of Sri Lanka has given the green light to an increase in candidate deposits for Presidential Election.
+
+According to the newly sanctioned regulations, candidates representing recognized political parties will now be required to deposit Rs. 2.6 million, marking a substantial rise from the previous amount. -
+
+Similarly, independent candidates must place a deposit of Rs. 3.1 million to vie for the presidential seat.
+
+The proposal to amend the pertinent regulations was jointly presented by President Ranil Wickremesinghe and Minister of Justice, Wijeyadasa Rajapakshe.
+
+◼️
+
+[Data](articles/fd95f568.json)
+
+---
+
+### Sri Lanka Treasury bill yields marginally down across maturities
+
+*2024-04-09 15:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-marginally-down-across-maturities-158045/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields fell across maturities at Tuesday’s auction, data from the state debt office showed.
+
+The 3-month Treasury bill yield fell 1 basis point to 10.10 percent with 25 billion rupees offered and 25 billion sold.
+
+The 6-month yield fell 3 basis points to 10.27 percent with 20 billion rupees offered and 20 billion sold.
+
+The 12-month yield fell 1 basis point to 10.27 percent with 20 billion rupees offered and 13.2 billion sold.
+
+◼️
+
+[Data](articles/bb7123b8.json)
+
+---
+
+### Sri Lanka spent nearly 200 billion rupees as social welfare in 2023
+
+*2024-04-09 15:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-spent-nearly-200-billion-rupees-as-social-welfare-in-2023-158044/) · `en`
+
+ECONOMYNEXT — Sri Lanka has paid nearly 200 billion rupees in 2023 as relief to people affected by the country’s worst financial crisis in decades, an official said.
+
+Presidential Director General (Community Affairs) Rajith Keerthi Thennakoon said the number of relief beneficiaries as of March 31, 2024, is 1,854,308.
+
+A statement from the president’s office quoted Thennakoon as saying that a sum of 184,098.27 million rupees is deemed necessary for various aids, loans, and allowances under the Samurdhi welfare programme, catering to seniors, disabled individuals, patients with kidney disorders, and other relief needs.
+
+The government’s total expenditure on social welfare initiatives in 2023, inclusive of appeals and outstanding payments, amounted to approximately 189,650.95 million (189.6 billion) rupees, he said.
+
+...
+
+[Data](articles/d0fc7f5a.json)
 
 ---
 
@@ -731,6 +907,26 @@ The admission process will be primarily based on the applicants' 'Z score' obtai
 [Data](articles/3a5b0c16.json)
 
 [Extended Data](ext_articles/3a5b0c16.ext.json)
+
+---
+
+### Sri Lanka to hike election deposits paid by candidates
+
+*2024-04-09 15:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-nod-for-increasing-election-deposits-paid-by-candidates-158040/) · `en`
+
+ECONOMYNEXT — As Sri Lanka heads into decisive elections, the cabinet of ministers has approved a proposal to increase the deposit placed by candidates representing recognised political parties as well as independent candidates.
+
+The deposit placed by a candidate representing a party has been increased to 2.6 million rupees while an independent party at the presidential election has to pay to 3.1 million.
+
+The proposal was made jointly by President Ranil Wickremesinghe and Minister of Justice Wijeyadasa Rajapakshe.
+
+For parliamentary elections, a candidate representing a recognised political party must pay 11,000 rupees while an independent candidate has to make a deposit of 16,000 rupees.
+
+At the local government polls, a party candidate must pay 6,000 rupees as deposit, while an independent candidate has to pay 11,000.
+
+...
+
+[Data](articles/a9f87674.json)
 
 ---
 
@@ -993,6 +1189,26 @@ Most of the people said that the illegal meat sold was arrested and a large amou
 [Data](articles/a83cfdeb.json)
 
 [Extended Data](ext_articles/a83cfdeb.ext.json)
+
+---
+
+### Usual protesters take U-turn; Sri Lanka postal employees agree to work on April 12 holiday
+
+*2024-04-09 14:17:00* · [`economynextcom`](https://economynext.com/usual-protesters-take-u-turn-sri-lanka-postal-employees-agree-to-work-on-april-12-holiday-158029/) · `en`
+
+ECONOMYNEXT – Employees of Sri Lanka’s Department of Posts, who usually protest on various demand, have agreed to work on April 12 holiday to prevent reputational damage on their service amid a higher number of parcel to be delivered, State Media Minister said.
+
+The island nation has received a record number of foreign parcels this year including gifts for the festive reasons from Sri Lankan expatriates to their relatives.
+
+“So it is the responsibility of the Department of Posts to deliver these parcels on time,” Minister Shantha Bandara told reporters at a media briefing in Colombo on Tuesday.
+
+“We were facing an issue with long holidays during the upcoming festive seasons. All the postal employees have decided to report to work on April 12 despite a holiday to prevent a backlog and reputational damage of their service.”
+
+“If not for their service, the people will receive their parcels only around 16th or 17th.”
+
+...
+
+[Data](articles/5a7a646e.json)
 
 ---
 
@@ -2051,277 +2267,5 @@ The Minister also announced the government's intention to prioritize war heroes 
 [Data](articles/28ba9568.json)
 
 [Extended Data](ext_articles/28ba9568.ext.json)
-
----
-
-### Sri Lanka rupee opens at 298.60/65 to the US dollar
-
-*2024-04-09 09:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-298-60-65-to-the-us-dollar-157971/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 298.60/65 to the US dollar in the spot forex market on Tuesday, stronger from 298.90/299.00 on Monday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 was quoted at 11.35/40 percent from 11.35/45 percent.
-
-A bond maturing on 15.09.2027 was quoted stable at 11.85/12.00 percent.
-
-A bond maturing on 15.12.2028 was quoted at 12.05/15 percent down from 12.10/20 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.15/30 percent from 12.20/40 percent.
-
-The Colombo Stock Exchange opened up: All Share Price Index was up 0.08 percent at 11,929, the S&P SL20 was up 0.10 percent at 3,547.(Colombo/Apr9/2024)
-
-◼️
-
-[Data](articles/79dd419d.json)
-
-[Extended Data](ext_articles/79dd419d.ext.json)
-
----
-
-### Over 7,500 security personnel deployed at mosques for Ramadan
-
-*2024-04-09 09:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-7-500-security-personnel-deployed-at-mosques-for-Ramadan/108-280452) · `en`
-
-Colombo, April 9 (Daily Mirror) - Police have implemented special security measures for mosques during Ramadan, with over 7,500 security personnel involved in the effort.
-
-Police said Inspector General of Police Deshabandu Tennakoon has instructed to impliment a combined security programme involving the Police, Special Task Force (STF), and tri-forces for the Ramadan festival on April 11.
-
-This security plan has been developed after meetings with Mawlavis of mosques at each police divisions.
-
-Police said a total of 5,580 police officers, 510 STF officers and 1,260 tri-forces personnel have been deployed at 2,453 mosques across the island where religious services are held.
-
-◼️
-
-[Data](articles/b7a4c0ae.json)
-
-[Extended Data](ext_articles/b7a4c0ae.ext.json)
-
----
-
-### Increase in Cancer in Jaffna!776 deaths last year: 71 deaths - Dr. Yamunananda
-
-*2024-04-09 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180779) · `ta`
-
-In 2023, Jaffna district saw 776 cancer deaths, with Dr. Yamunanda highlighting the importance of proper eating habits in cancer control. The Jaffna Teaching Hospital treats various cancers, including breast, ovarian, and respiratory cancers. Early diagnosis and treatment are crucial. Women over 30 should self-examine for breast cancer, and men should be cautious about smoking and alcohol consumption. The district also experienced deaths from intestinal, liver, and breast cancers.
-
-🟩
-
-In the Jaffna district last year alone, 776 people died of cancer in 2023 alone, said Dr. Yamunanda, Director of the Jaffna Hospital.
-
-With the increasing impact of cancer in the Jaffna district, proper eating habits can help control cancer.
-
-In terms of cancer, the impact of cancer is faster when the number of elderly people in the community and the number of elderly people in the community increases.
-
-Those who visit the Jaffna Teaching Hospital for treatment are a variety of cancer, such as breast cancer, ovarian cancer, ovarian cancer, respiratory cancer in the throat, and cancer in the internal organs.
-
-In the case of the Jaffna Teaching Hospital, there is also a facility for racism of cancer.
-
-At the Jaffna Teaching Hospital in 2022, 60 people, 49 in February, 60 in March and 52 in April were confirmed.
-
-In the case of cancer, it can protect the disease from the disease when it is initially diagnosed with appropriate treatment.
-
-...
-
-[Data](articles/0ed42f9a.json)
-
-[Extended Data](ext_articles/0ed42f9a.ext.json)
-
----
-
-### 5 years ban on Usman Khan
-
-*2024-04-09 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180781) · `ta`
-
-Usman Khan, a Pakistan-born cricketer living in the UAE, has been banned for 5 years from playing in the UAE due to contract violations. He played in the ILR 20 and R10 leagues and was part of the Pakistani team training camp.
-
-🟩
-
-Pakistan -born cricketer Usman Khan has been banned from playing a 5 -year ban in the UAE.
-
-Usman Khan (29), who lives in the United Arab Emirates, played as a domestic player in the ILR 20 and R10 league of the United Arab Emirates.
-
-He fell as a foreign player in the Multan Sultanas team at the recent Pakistan Super League matches and won second place in the series.
-
-Subsequently, Usman Khan expressed his desire to play on behalf of the Pakistan national team.
-
-Subsequently, Usman Khan was included in the Pakistani team training camp from March 26 to April 8.
-
-At the same time, Osman Khan was accused of violating the contract with the Emirates Cricket Board and the UAE's contract with the United Arab Emirates League teams by deciding to play for Pakistan.
-
-...
-
-[Data](articles/c77b3df1.json)
-
-[Extended Data](ext_articles/c77b3df1.ext.json)
-
----
-
-### Reduce the prices of essential commodities in Sathosa
-
-*2024-04-09 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/180778) · `ta`
-
-Sathosa Sri Lanka reduces prices of essential commodities during festive season, starting midnight Monday. Cinnamon pepper now 850 rupees, large onions from China 375 rupees, from India/Pakistan 325 rupees, white shell 680 rupees, potatoes 165 rupees, red pulses 7 rupees less, white nadis price reduced.
-
-🟩
-
-Sri Lanka Sathosa has said that the prices of many essential commodities have been reduced during the festive season.
-
-The price reduction in all Sathosa outlets will come into effect from midnight on Monday (08).
-
-The price of a kilogram of cinnamon pepper has been reduced by 300 rupees and its price is 850 rupees.
-
-The new price of large onions imported from China has been reduced by 120 rupees, and its new price is 375 rupees.
-
-Large onions imported from India and Pakistan have been reduced by 50 rupees by 50 rupees.
-
-While the price of a kilogram of white shell has been reduced by 15 rupees, its new price is 680 rupees.
-
-While the price of potatoes has been reduced by 10 rupees, its new price is 165 rupees.
-
-Meanwhile, Sathosa has decided to reduce the price of a kilo of red pulses by 7 rupees and a kilo of white nadis.
-
-◼️
-
-[Data](articles/aec8da2b.json)
-
-[Extended Data](ext_articles/aec8da2b.ext.json)
-
----
-
-### Trade Ministry to issue price range to curb middlemen profits
-
-*2024-04-09 09:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Trade-Ministry-to-issue-price-range-to-curb-middlemen-profits/108-280445) · `en`
-
-Colombo, April 9 (daily Mirror) - The Trade, Commerce, and Food Security Ministry is to issue price ranges on essential items to curb excessive profits by middlemen in the retail market.
-
-After a meeting held at the ministry, Minister Nalin Fernando said that the increase in commodity prices was a result of the economic crisis and inflation.
-
-In 2022, Sri Lanka faced the challenge of being one of the countries with the highest commodity prices globally, primarily due to soaring inflation.
-
-"In 2019, a kilogram of wheat flour was priced at Rs. 85. By 2022, this price had escalated to Rs. 485, leading to a loaf of bread being sold for approximately Rs. 195 to Rs. 200.
-
-Similarly, in 2019, a kilogram of dhal was sold for around Rs. 120. By 2022, this price had surged to Rs. 585 but has since dropped to Rs. 295," the minister said.
-
-The depreciation of the dollar exchange rate, which initially contributed to the rise in commodity prices, has now stabilized.
-
-...
-
-[Data](articles/60c8eeb1.json)
-
-[Extended Data](ext_articles/60c8eeb1.ext.json)
-
----
-
-### UK travel advice tweaks for Sri Lanka ‘still unfair’
-
-*2024-04-09 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98528/uk-travel-advice-tweaks-for-sri-lanka-still-unfair) · `en`
-
-The UK government has tweaked its travel advice for Sri Lanka, but campaigners believe further changes are still required.
-
-An open letter published in January called for the Foreign, Commonwealth & Development Office (FCDO) to update its advice, describing sections as “overly harsh”, “outdated” and “synthetic”.
-
-The advice has now been changed slightly, with a reference to roadblocks amended.
-
-Sam Clark, chief executive of Sri Lanka specialist Experience Travel Group, said the advice is now “much better and more contextualised, but still not reflective of the current situation on the ground”.
-
-In February, the advice stated: “Protests, demonstrations, roadblocks and violent unrest can happen anywhere across the island at short notice, and security authorities may use tear gas and water cannons against protesters. The authorities may impose restrictions, including curfews, with little or no notice. Avoid demonstrations, political protests or large gatherings.”
-
-...
-
-[Data](articles/658998e1.json)
-
-[Extended Data](ext_articles/658998e1.ext.json)
-
----
-
-### Sri Lanka’s Access to complete substructure of halted airport terminal
-
-*2024-04-09 09:14:00* · [`economynextcom`](https://economynext.com/sri-lankas-access-to-complete-substructure-of-halted-airport-terminal-157968/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Access Engineering will complete the substructure of a new terminal which was halted by a Japanese contractor after the island defaulted on its foreign debt in 2022.
-
-State-run Airport and Aviation Services (Sri Lanka) Limited said the Access will be paid by its own funds and concurrence has been obtained from the Japan International Co-operation Agency which was funding the terminal expansion.
-
-Access will work under the direct supervision of consultants to the project, Japan Airport Consultants, Inc and Nippon Koei Co. Ltd.
-
-Access will install 68 remaining piles, construct pile caps and ground beams at the Main Terminal Building (MTB), Pier 2, and Pier 3, as well as the partial completion of an underground utility tunnel in Pier No 2 and 3.
-
-The work will also address the issue of deterioration of steel reinforcements.
-
-...
-
-[Data](articles/512e8587.json)
-
-[Extended Data](ext_articles/512e8587.ext.json)
-
----
-
-### Heavy snowfall in Vavuniya
-
-*2024-04-09 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/180776) · `ta`
-
-"Vavuniya experiences heavy snowfall after warm weather, causing motorists severe difficulties."
-
-🟩
-
-In Vavuniya, which has been felt in the warm weather for the past few days, there has been a large snowfall this morning and motorists have been facing severe difficulties.
-
-◼️
-
-[Data](articles/65297dc9.json)
-
-[Extended Data](ext_articles/65297dc9.ext.json)
-
----
-
-### Special Protection for Ramazan
-
-*2024-04-09 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195459) · `si`
-
-The police, Special Task Force, and Treater army have enhanced security for Ramazan, with 2,453 Islamic churches now secured. This initiative, led by IGP Deshabandu Tennakoon, involves 5,580 police officers, 510 STF officers, and 1,260 officers from the church and armed forces.
-
-🟩
-
-The police have been conducting a special security program to protect the Ramazan ceremony for the Ramazan event.
-
-Police, Special Task Force and Treater army security areas have been called for the program implemented by IGP Deshabandu Tennakoon.
-
-The special security plan has been found and prepared the special security plan in all Islamics belonging to every police divisions.
-
-Among the 3,203 Islamic church across the country has established the security of 2,453 security for the existing God-operations Islamic church.
-
-There are 5,580 police officers, 510 STF officers and 1,360 officers and 1,260 officers and 1,260 officers of the church and 1,260 armed forces officers.
-
-◼️
-
-[Data](articles/81c66254.json)
-
-[Extended Data](ext_articles/81c66254.ext.json)
-
----
-
-### University lecture against National Education policy
-
-*2024-04-09 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195458) · `si`
-
-The Federation of University Teachers' Associations (CSR) opposes transferring the proposed educational policy framework to the private sector. Prof. Arjuna Parakrama states the policy has been approved by the Cabinet and passed in parliament, making it unchallengeable in the Supreme Court. Dr. Athula Samarakoon, Secretary to the Federation of the University of Colombo, warns of the potential abolition of free university education.
-
-🟩
-
-The Federation of University Teachers' Associations (CSR) Federation says that the proposed educational policy framework has proposed to be transferred to the private sector.
-
-They point out that the relevant policy framework has been approved by the Cabinet, which has been sent to the Cabinet approval.
-
-Prof. Arjuna Parakrama said that the policy frame is passed in parliament this month and cannot challenge the Supreme Court as a policy proposal.
-
-The expression in Sinhala and English, the expression is that the passage of the country and university education is expected to exempt from school and university education.
-
-Secretary to the Federation Federation of the Federation of the University of Colombo, Dr. Athula Samarakoon said that it would be able to abolish the free university education system and pay university education.
-
-◼️
-
-[Data](articles/5a76b11d.json)
-
-[Extended Data](ext_articles/5a76b11d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 09:18:23**
+As of **2024-04-09 09:33:59**
 
 ## Newspaper Stats
 
-*Scraped **17,992** Articles*
+*Scraped **17,994** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 992
 economynextcom | 996
 adalk | 1,514
 tamilmirrorlk | 2,113
-adaderanalk | 2,162
-virakesarilk | 2,646
+adaderanalk | 2,163
+virakesarilk | 2,647
 dailymirrorlk | 2,743
 adaderanasinhalalk | 2,915
 
@@ -26,49 +26,93 @@ adaderanasinhalalk | 2,915
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,985 (100.0%) of 17,992 articles have been extended.
+17,992 (100.0%) of 17,994 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### රාමසාන් වෙනුවෙන් ඉස්ලාම් දේවස්ථානවලට විශේෂ ආරක්ෂාවක්
+### UK travel advice tweaks for Sri Lanka ‘still unfair’
+
+*2024-04-09 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98528/uk-travel-advice-tweaks-for-sri-lanka-still-unfair) · `en`
+
+The UK government has tweaked its travel advice for Sri Lanka, but campaigners believe further changes are still required.
+
+An open letter published in January called for the Foreign, Commonwealth & Development Office (FCDO) to update its advice, describing sections as “overly harsh”, “outdated” and “synthetic”.
+
+The advice has now been changed slightly, with a reference to roadblocks amended.
+
+Sam Clark, chief executive of Sri Lanka specialist Experience Travel Group, said the advice is now “much better and more contextualised, but still not reflective of the current situation on the ground”.
+
+In February, the advice stated: “Protests, demonstrations, roadblocks and violent unrest can happen anywhere across the island at short notice, and security authorities may use tear gas and water cannons against protesters. The authorities may impose restrictions, including curfews, with little or no notice. Avoid demonstrations, political protests or large gatherings.”
+
+...
+
+[Data](articles/658998e1.json)
+
+---
+
+### வவுனியாவில் கடும் பனி மூட்டம்
+
+*2024-04-09 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/180776) · `ta`
+
+கடந்த சில நாட்களாக அதிக வெப்பமான வானிலை உணரப்பட்டுவரும் வவுனியாவில்  இன்று காலை அதிகளவான பனி மூட்டம் காணப்பட்டதுடன் வாகன சாரதிகளும் கடும் சிரமங்களுக்கு முகம் கொடுத்தனர்.
+
+◼️
+
+[Data](articles/65297dc9.json)
+
+---
+
+### Special Protection for Ramazan
 
 *2024-04-09 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195459) · `si`
 
-රාමසාන් උත්සවය වෙනුවෙන් ඉස්ලාම් දේවස්ථානයන්හී ආරක්ෂාව සඳහා පොලීසියෙන් විශේෂ ආරක්ෂක වැඩපිලිවෙලක් යොදා තිබේ.
+The police, Special Task Force, and Treater army have enhanced security for Ramazan, with 2,453 Islamic churches now secured. This initiative, led by IGP Deshabandu Tennakoon, involves 5,580 police officers, 510 STF officers, and 1,260 officers from the church and armed forces.
 
-පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් පරිදි ක්‍රියාත්මක එම වැඩපිළිවෙළ සඳහා පොලීසිය, විශේෂ කාර්ය බළකාය සහ ත්‍රිවිද හමුදා ආරක්ෂක අංශ කැඳවා ඇත.
+🟩
 
-සෑම පොලිස් වසමට අයත් සියලුම ඉස්ලාම් දේවස්ථානවල මව්ලවිතුමන්ලා හමුවී එම විශේෂ ආරක්ෂක සැලැස්ම සකස් කර ඇත.
+The police have been conducting a special security program to protect the Ramazan ceremony for the Ramazan event.
 
-ඒ යටතේ දිවයින පුරා ඉස්ලාම් දේවස්ථාන 3,203ක් අතරින් දේව මෙහෙයන් පැවැත්වෙන ඉස්ලාම් දේවස්ථාන ස්ථාන 2,453කට අවශ්‍ය ආරක්ෂාව තහවුරු කර තිබේ.
+Police, Special Task Force and Treater army security areas have been called for the program implemented by IGP Deshabandu Tennakoon.
 
-එම දේවස්ථානවල ආරක්ෂාව සඳහා පොලිස් නිලධාරීන් 5,580ක්, විශේෂ කාර්ය බළකා නිලධාරීන් 510ක් සහ ත්‍රිවිධ හමුදා නිලධාරීන් 1,260ක් සමඟින් 7,350කට අධික ආරක්ෂක භට පිරිසක් යෙදවීමට මේ වනවිටත් කටයුතු ඇත.
+The special security plan has been found and prepared the special security plan in all Islamics belonging to every police divisions.
+
+Among the 3,203 Islamic church across the country has established the security of 2,453 security for the existing God-operations Islamic church.
+
+There are 5,580 police officers, 510 STF officers and 1,360 officers and 1,260 officers and 1,260 officers of the church and 1,260 armed forces officers.
 
 ◼️
 
 [Data](articles/81c66254.json)
 
+[Extended Data](ext_articles/81c66254.ext.json)
+
 ---
 
-### ජාතික අධ්‍යාපන ප්‍රතිපත්තියට සරසවි ඇදුරෝ විරෝධයේ
+### University lecture against National Education policy
 
 *2024-04-09 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195458) · `si`
 
-යෝජිත අධ්‍යාපන ප්‍රතිපත්ති රාමුව මඟින් මෙරට අධ්‍යාපන පද්ධතිය වැඩි වශයෙන් පෞද්ගලික අංශයට පැවරීම සඳහා යෝජනා කර ඇති බව කොළඹ විශ්වවිද්‍යාල ශාස්ත්‍රපීඨ ආචාර්යවරුන්ගේ සමිති සම්මේලනය පවසයි.
+The Federation of University Teachers' Associations (CSR) opposes transferring the proposed educational policy framework to the private sector. Prof. Arjuna Parakrama states the policy has been approved by the Cabinet and passed in parliament, making it unchallengeable in the Supreme Court. Dr. Athula Samarakoon, Secretary to the Federation of the University of Colombo, warns of the potential abolition of free university education.
 
-ඔවුන් පෙන්වා දෙන්නේ, අදාළ ප්‍රතිපත්ති රාමුවට මේ වන විට කැබිනට් අනුමැතිය හිමිව ඇති අතර එය පාර්ලිමේන්තුවේ අධ්‍යාපනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව වෙත යොමුකර ඇති බවය.
+🟩
 
-එම ප්‍රතිපත්ති රාමුව මේ මාසය තුළ පාර්ලිමේන්තුවේ සම්මතවීමට ඉඩ පවතින අතර එය රජයේ ප්‍රතිපත්තිමය යෝජනාවක් බැවින් ශ්‍රේෂ්ඨාධිකරණය හමුවේ අභියෝගයට ලක්කිරීමට ද නොහැකි බව මහාචාර්ය අර්ජුන පරාක්‍රම මහතා ප්‍රකාශ කළේය.
+The Federation of University Teachers' Associations (CSR) Federation says that the proposed educational policy framework has proposed to be transferred to the private sector.
 
-සිංහල සහ ඉංග්‍රීසී භාෂාවලින් සඳහන්ව ඇති එම ප්‍රකාශනයේ වෙනසක් පවතින බව ද එය සම්මත වීම මඟින් මෙරට පාසල් සහ විශ්වවිද්‍යාල අධ්‍යාපනයෙන් රාජ්‍ය වගකීම නිදහස් වීම අපේක්ෂා කරන බවය.
+They point out that the relevant policy framework has been approved by the Cabinet, which has been sent to the Cabinet approval.
 
-නිදහස් විශ්වවිද්‍යාල අධ්‍යාපන ක්‍රමය අහෝසි කර ගාස්තු ගෙවා විශ්වවිද්‍යාල අධ්‍යාපනය ලැබීමේ අවස්ථාව ලබාදීමට ද එමඟින් සැලසුම් කරන බව කොළඹ විශ්වවිද්‍යාල ශාස්ත්‍රපීඨ ආචාර්යවරුන්ගේ සමිති සම්මේලනයේ ලේකම් ආචාර්ය අතුල සමරකෝන් මහතා පැවසුවේය.
+Prof. Arjuna Parakrama said that the policy frame is passed in parliament this month and cannot challenge the Supreme Court as a policy proposal.
+
+The expression in Sinhala and English, the expression is that the passage of the country and university education is expected to exempt from school and university education.
+
+Secretary to the Federation Federation of the Federation of the University of Colombo, Dr. Athula Samarakoon said that it would be able to abolish the free university education system and pay university education.
 
 ◼️
 
 [Data](articles/5a76b11d.json)
+
+[Extended Data](ext_articles/5a76b11d.ext.json)
 
 ---
 
@@ -90,6 +134,8 @@ Now, prior to the ODI series against South Africa, the 34-year-old emphasised th
 
 [Data](articles/c16767df.json)
 
+[Extended Data](ext_articles/c16767df.ext.json)
+
 ---
 
 ### Sri Lanka hard-pressed against time to conclude agreements for debt restructuring
@@ -107,6 +153,8 @@ Asked about the latest developments, a government source said the government to 
 ...
 
 [Data](articles/6ab5b67d.json)
+
+[Extended Data](ext_articles/6ab5b67d.ext.json)
 
 ---
 
@@ -221,6 +269,8 @@ Researchers at Sabaragamuwa University have discovered that a particular plant, 
 ...
 
 [Data](articles/5041d86e.json)
+
+[Extended Data](ext_articles/5041d86e.ext.json)
 
 ---
 
@@ -595,6 +645,8 @@ The Small Medium Modern Trade (SMMT) outlets are  rapidly capturing the attenti
 ...
 
 [Data](articles/072e9c3d.json)
+
+[Extended Data](ext_articles/072e9c3d.ext.json)
 
 ---
 
@@ -1486,21 +1538,27 @@ The two filed a petition in the Family Welfare Court demanding that they declare
 
 ---
 
-### පේරේ අනධ්‍යන කාර්ය මණ්ඩලයේ 59කට මිලියන 84ක් අමුතු විදිහට ගෙවලා
+### 84 million for 59 non-academic staff
 
 *2024-04-08 20:01:26* · [`adalk`](https://www.ada.lk/breaking_news/පේරේ-අනධ්‍යන-කාර්ය-මණ්ඩලයේ-59කට-මිලියන-84ක්-අමුතු-විදිහට-ගෙවලා/11-409023) · `si`
 
-පේරාදෙණිය විශ්වවිද්‍යාලයේ අනධ්‍යයන කාර්ය මණ්ඩලයේ නිලධාරීන් 59කට කිසිදු අනුමතියකින් තොරව හා කිසිදු පර්යේෂණ වාර්තාවක් නොමැතිව පසුගිය කාලයේ පර්යේෂණ දීමනා ලෙස රුපියල් මිලියන 84ක් ගෙවා ඇතැයි ජාතික විගණන කාර්යාලය අනාවරණය කරයි.
+The University of Peradeniya paid Rs. 84 million to 59 non-academic staff from Nov 1, 2014, to Aug 31, 2014, without approval, revealing the National Audit office.
 
-2014 නොවැම්බර් පළමුවැනිදා සිට 2022 අගෝස්තු 31 දක්වා කාලය තුළ මෙම ගෙවීම් සිදුකර තිබේ.
+🟩
 
-2/2014 කළමනාකරණ සේවා චක්‍රලේඛයට අනුව පර්යේෂණ කළමනාකරණ කමිටු අනුමතියකින් තොරව හා කිසිදු අන්තර් පර්යේෂණ වාර්තාවක් හෝ වෙනත් පර්යේෂණ වාර්තාවක් ලබා නොගෙන මෙම දීමනා ගෙවා ඇති බව ජාතික විගණන කාර්යාලය සඳහන් කරයි.
+59 non-academic staff officers of the University of Peradeniya have been paid to Rs.
 
-ජාතික විගණන කාර්යාලය මගින් 2022 වසර වෙනුවෙන් සකස් කරන ලද විගණකාධිපති වාර්ෂික වාර්තාව මගින් පේරාදෙණිය විශ්ව විද්‍යාලයට අදාළ විගණන නිරීක්ෂණ යටතේ මේ අනාවරණය සිදුකර තිබේ.
+These payments have been made in November 1st to August 31, 2014.
+
+The National Audit office states that the allowance has been paid without approval of Research Management Committee without approval and other research report or other research records or other research records or other research records.
+
+The Auditor General's Office was discovered by the Auditor General's Report of the University of Peradeniya.
 
 ◼️
 
 [Data](articles/b1c566e0.json)
+
+[Extended Data](ext_articles/b1c566e0.ext.json)
 
 ---
 
@@ -2193,57 +2251,5 @@ A bond maturing on 01.10.2031 closed at 12.35/60 percent. (Colombo/Apr8/2024)
 [Data](articles/dbf86bea.json)
 
 [Extended Data](ext_articles/dbf86bea.ext.json)
-
----
-
-### A sudden decision on the science
-
-*2024-04-08 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195440) · `si`
-
-The science sector made a sudden decision, extending the application period for the recruitment of Colleges of Education's teaching staff until April 10. The National Institute of Education announced GCEPs for 2021 and 2022, with applications open from April 5 to April 10, and a deadline of 12 midnight on April 17.
-
-🟩
-
-The application period is extended until the recruitment of the teaching of the Colleges of Education.
-
-GCEPs in 2021 and 2022. The announcement has been issued for National Institute of Education on A / L.
-
-Applications have been made to applications for applications from the 5th to April 10 to April 10, the Ministry of Education says that only 12 midnight will be given on April 17.
-
-◼️
-
-[Data](articles/a39bdb7a.json)
-
-[Extended Data](ext_articles/a39bdb7a.ext.json)
-
----
-
-### Allu Arjun 'Pushpa 2' film teaser
-
-*2024-04-08 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/180745) · `ta`
-
-"Pushpa 2 teaser, starring Allu Arjun, released on his birthday, attracted 2M views in 45 minutes. Features Rashmika Mantana, Bhagat Basil, and music by Devi Sri Prasad. Produced by Naveen Jenerni, co-produced by Ravi Shankar and Sukumar. The film's first look and a special photo of Srivalli were also released."
-
-🟩
-
-The teaser of Pushpa 2 has been released, starring Telugu star actor Allu Arjun, who has earned Ban Indian -level fans.
-
-The teaser, released on the 8th of April, the birthday of actor Allu Arjun, has been visited by more than two million viewers in 45 minutes.
-
-Allu Arjun, Rashmika Mantana and Bhagat Basil are playing the lead roles in the upcoming film 'Pushpa 2' directed by director Sukumar.
-
-The film, which has been recorded by Mirslo Kuba Prosec, has composed the film 'Rock Star' Devi Sri Prasad.
-
-Producer Naveen Jenerni, on behalf of Maithri Movie Makers and Sukumar Writing Companies. Ravi Shankar and Sukumar have co -produced.
-
-The film's first look was released. Following this, the film crew released a special photo of Srivalli, the heroine of Rashmika Mantana, who plays the heroine of the film.
-
-The teaser of the film 'Pushpa+ The Rule' has been released on the birthday of the film's hero Allu Arjun. The appearance of Man Pushparaj in the teaser of the teaser usually has encouraged fans.
-
-◼️
-
-[Data](articles/95d89b67.json)
-
-[Extended Data](ext_articles/95d89b67.ext.json)
 
 ---

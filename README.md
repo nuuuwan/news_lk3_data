@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 12:50:57**
+As of **2024-04-09 13:03:30**
 
 ## Newspaper Stats
 
-*Scraped **18,028** Articles*
+*Scraped **18,032** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,30 +17,96 @@ islandlk | 992
 economynextcom | 996
 adalk | 1,516
 tamilmirrorlk | 2,119
-adaderanalk | 2,167
-virakesarilk | 2,657
+adaderanalk | 2,168
+virakesarilk | 2,659
 dailymirrorlk | 2,749
-adaderanasinhalalk | 2,920
+adaderanasinhalalk | 2,921
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,026 (100.0%) of 18,028 articles have been extended.
+18,028 (100.0%) of 18,032 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Cabinet nod for admission of local students to medical degree programme at KDU
+
+*2024-04-09 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98533/cabinet-nod-for-admission-of-local-students-to-medical-degree-programme-at-kdu) · `en`
+
+The Cabinet of Ministers has granted approval for the admission of local students for the MBBS medical degree programme at General Sir John Kotelawala Defence University starting from this year.
+
+The admissions will be carried out on payment basis and based on ‘Z’ score at G.C.E. Advanced Level and other qualifications, the Cabinet Spokesman Minister Bandula Gunawardena said.
+
+◼️
+
+[Data](articles/3375218b.json)
+
+---
+
+### பாமர மக்களுக்கு, சட்ட அறிவை ஏற்படுத்துவதன் மூலமே அவர்களுடைய உரிமைகளைப் பாதுகாக்க முடியும்
+
+*2024-04-09 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180807) · `ta`
+
+இலங்கையினுடைய எழுத்தறிவு மற்றும் கல்வியறிவு விகிதம் மிக உயர்ந்த நிலையில் காணப்படுகின்ற போதிலும் இன்றும் கிராமங்களில் சட்டங்கள், திணைக்களங்களின் நடவடிக்கைகள் மற்றும் மனித உரிமைகள் தொடர்பில் மக்களுக்கு போதிய தெளிவில்லாத நிலை காணப்படுகின்றது.
+
+◼️
+
+[Data](articles/14049ae1.json)
+
+---
+
+### කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලය  ගැන කැබිනට් තීරණයක්
+
+*2024-04-09 12:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195465) · `si`
+
+ජෙනරාල් ශ්‍රීමත් ජෝන් කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ වෛද්‍ය විද්‍යා උපාධිය සඳහා ගෙවීමේ පදනම මත සිසුන් ඇතුළත් කර ගැනීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+ජනාධිපතිවරයා විසින් ඉදිරිපත්කළ එම යෝජනාව සඳහා එලෙස අනුමැතිය හිමිව ඇත.
+
+◼️
+
+[Data](articles/e25f983e.json)
+
+---
+
+### எனது வீடு எங்கே - கான் யூனிசிற்கு மீண்டும் திரும்பிய பாலஸ்தீனியர்கள் அதிர்ச்சி - முற்றாக அழிக்கப்பட்டுள்ள வீடுகள்
+
+*2024-04-09 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180805) · `ta`
+
+காசாவின் கான்யூனிசிற்கு மீண்டும் திரும்பிச்சென்றுள்ள மக்கள் முன்னர் தங்கள் வீடுகள் காணப்பட்ட பகுதியில் தற்போது இடிபாடுகள் காணப்படுவது குறித்து அதிர்ச்சி வெளியிட்டுள்ளனர்.
+
+அனைத்தும் அழிக்கப்பட்டுவிட்டதால் என்னால் எனது வீட்டை கண்டுபிடிக்கமுடியவில்லை மாக்டி அபு சாஹ்ரூர் என்பவர் தெரிவித்துள்ளார்.
+
+தனது முதல்பெயர் ஹனான் என தெரிவித்த பெண்ணொருவர் எனது வலியை வேதனையை வர்ணிப்பதற்கு வார்த்தைகள் இல்லை என குறிப்பிட்டுள்ளார்.
+
+எங்களின் நினைவுகள் எங்களின் சிறுவயது எங்களின் குடும்பங்கள் என அனைத்தும் அழிக்கப்பட்டுவிட்டன என அவர் கலங்கிய குரலில் தெரிவித்துள்ளார்.
+
+அவர் தனது வீட்டின் சிதைவுகளில் இருந்து மீட்ட பொருட்களுடன் காணப்பட்டார் என சர்வதேச ஊடகம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/2f7cd4a0.json)
+
+---
+
+### Today's currency exchange rate
 
 *2024-04-09 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180804) · `ta`
 
-இன்று செவ்வாய்க்கிழமை (ஏப்ரல் 09) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 294.0863 ஆகவும் விற்பனை விலை ரூபா 303.4415 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+Today's US $294.0863 = Rs.
+
+🟩
+
+The US $ 294.0863 was recorded at Rs.
 
 ◼️
 
 [Data](articles/e2a62c6f.json)
+
+[Extended Data](ext_articles/e2a62c6f.ext.json)
 
 ---
 
@@ -1250,21 +1316,27 @@ Accordingly, the sun will overcome the presence of Udupuvu, Audigura, Bakamuna, 
 
 ---
 
-### අවුරුදු නැකත: නැකත් සිට්ටුව හා සැමරීම්    සම්ප්‍රදාය ආරම්භ වූයේ කවදාද?
+### Years' Quit: When did the skilled setting and celebration tradition begin?
 
 *2024-04-09 05:56:16* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0den0jljjyo) · `si`
 
-අවුරුදු නැකත: නැකත් සිට්ටුව හා සැමරීම්    සම්ප්‍රදාය ආරම්භ වූයේ කවදාද?
+The skilled setting and celebration tradition began with the Sinhala Tamil New Year, celebrated on April 12-13, based on astrological predictions. This tradition, unique to a small island, marks the beginning of the solar year, contrasting with the global celebration of New Year's Day. The tradition's origins date back to the Kotte era, with the current solar-centric celebration not present in ancient kingdoms like Anuradhapura, Polonnaruwa, and Dambadeniya. The celebration includes auspicious rituals, such as planting auspicious shoots and writing the auspicious year, which have evolved over time.
 
-ලොව පුරා ජීවත් වන මිලියන ගණනක ජනතාව නව වසර උදාව ජනවාරි පළමුවන දා සමරන නමුත්, මුහුදෙන් වට වූ කුඩා දිවයිනක් වන සුන්දර ශ්‍රී ලංකාවේ ජීවත් වන බහුතරයක් ජනතාව අවුරුදු උදාව සමරන්නේ අප්‍රේල් මාසයේ දී ය. සූර්යයා මීන රාශියේ සිට මේෂ රාශියට පැමිණීමත් සමඟ නව වසරක ආරම්භය සනිටුහන් වන බව ඔවුන්ගේ විශ්වාසයයි. දුර ඈත අතීතයේ සිට වගාවන්හි අස්වනු නෙලා, කිරට නැමුණු රන්වන් ගොයම් කපා රට වැසියන් නව අවුරුදු උදාවට සූදානම් වෙද්දී, පරිසරය ද නව පනක් ලැබුවා සේ රත් පැහැ එරබදු මලින් පමණක් නොව විවිධ පැහැ මල් පිපී  කොහාගේ කොහෝ කොහෝ යන මියුරු නදින් ඇලලී යයි.
+🟩
 
-සෘතු භේදය අන් රටවල මෙන් නිරීක්ෂණය කළ නොහැකි වුවත් වසන්ත ඍතුවක ස්වභාවය කැටිකරගත් අප්‍රේල් මාසයේ එළඹෙන සිංහල දෙමළ අලුත් අවුරුදු සැමරුම පදනම් වී ඇත්තේ ජ්‍යොතිෂය මත සැකසුණු නැකැත් චාරිත්‍ර මතයි.
+Years' Quit: When did the skilled setting and celebration tradition begin?
 
-අධික අවුරුද්දක් වන මේ වසරේ පරණ අවුරුද්ද සහ අලුත් අවුරුද්ද යන දෙදින අප්‍රේල් 12 සහ 13 වන දින ලෙස නිවේදනය කර තිබේ.
+Millions of people around the world have celebrated the New Year's dawn, but the vast majority of the island, a small island in the sea, celebrates the arrests in April. Their belief is that the beginning of the new year will mark the beginning of the source of the Sun.. The environment is not only a new arrival, as well as the popularity of the people, who saved the New Year's arrival, not only the new year, and the population is not the new year.
+
+Although seasonal split cannot be observed in other countries, the Sinhala Tamil New Year celebration is based on astrologer celebration based on astrologer.
+
+The old year and the New Year's old year and the New Year have been announced on April 12 and 13.
 
 ...
 
 [Data](articles/be7d951d.json)
+
+[Extended Data](ext_articles/be7d951d.ext.json)
 
 ---
 
@@ -2135,85 +2207,5 @@ The second round of talks is scheduled to take place in Colombo on June 19-20. B
 [Data](articles/03d18791.json)
 
 [Extended Data](ext_articles/03d18791.ext.json)
-
----
-
-### New committee to finish
-
-*2024-04-08 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195447) · `si`
-
-President Ranil Wickremesinghe announced a new committee to finalize work and implement future laws, addressing the Muslim community's challenges during the Corona Epidemio, including funeral difficulties. He emphasized the right to choose between burial or cremation, advocating for laws to support individual preferences.
-
-🟩
-
-President Ranil Wickremesinghe said that a new committee would be appointed to implement the final work of any person in accordance with the final work.
-
-The President also said that the relevant laws will be implemented in the future.
-
-President Ranil Wickremesinghe made this statement participating at the Inftar festival held at Katukaley Mosque, Kandy yesterday.
-
-Speaking further, President Ranil Wickremesinghe further said,
-
-"During the recent Corona Epidemio, the Muslim community was in a painful situation that their funeral was impossible to properly. We will act in the future to change that situation. Anyone adjust the rules that can lead to funerals to anyone is religiously or finalized. Anyone has the right to burying or cremation. It makes us the laws needed to do according to his or her consent. "
-
-◼️
-
-[Data](articles/b3f97bed.json)
-
-[Extended Data](ext_articles/b3f97bed.ext.json)
-
----
-
-### NPP says AKD ready for Presidential debate by Daily Mirror
-
-*2024-04-08 20:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/NPP-says-AKD-ready-for-Presidential-debate-by-Daily-Mirror/155-280407) · `en`
-
-Colombo, April 8 (Daily Mirror) - National People’s Power (NPP) MP Harini Amarasuriya said that the NPP is ready to accept the invitation made by the Daily Mirror to host an open debate with the three main presidential candidates.
-
-Addressing the media, the NPP Leader was ready to accept the invitation and members attached to the NPP economic council have participated in a number of debates in the recent past where various details were highlighted.
-
-However, with the presidential elections approaching, the NPP proposed that the debate should include only presidential candidates.
-
-"If this is not feasible, we are prepared to engage in a debate with economic council members from all political parties," MP Amarasuriya said.
-
-...
-
-[Data](articles/03ce7e14.json)
-
-[Extended Data](ext_articles/03ce7e14.ext.json)
-
----
-
-### NPP says AKD ready for Presidential debate by Daily Mirror
-
-*2024-04-08 20:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-says-AKD-ready-for-Presidential-debate-by-Daily-Mirror/108-280407) · `en`
-
-Colombo, April 8 (Daily Mirror) - National People’s Power (NPP) MP Harini Amarasuriya said that the NPP is ready to accept the invitation made by the Daily Mirror to host an open debate with the three main presidential candidates.
-
-Addressing the media, the NPP Leader was ready to accept the invitation and members attached to the NPP economic council have participated in a number of debates in the recent past where various details were highlighted.
-
-However, with the presidential elections approaching, the NPP proposed that the debate should include only presidential candidates.
-
-"If this is not feasible, we are prepared to engage in a debate with economic council members from all political parties," MP Amarasuriya said.
-
-...
-
-[Data](articles/c750f2ea.json)
-
-[Extended Data](ext_articles/c750f2ea.ext.json)
-
----
-
-### Breaking fast banquet for Muslim devotees
-
-*2024-04-08 20:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Breaking-fast-banquet-for-Muslim-devotees/110-280406) · `en`
-
-A beverage company in the Port City held a breaking fast (Ifthar) banquet today for the fourth time for Muslim devotees who are fasting. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/2040b6fd.json)
-
-[Extended Data](ext_articles/2040b6fd.ext.json)
 
 ---

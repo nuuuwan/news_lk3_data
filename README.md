@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 02:04:24**
+As of **2024-04-10 02:18:23**
 
 ## Newspaper Stats
 
-*Scraped **18,173** Articles*
+*Scraped **18,174** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 190
 dbsjeyarajcom | 213
 newsfirstlk | 363
 islandlk | 992
-dailyftlk | 1,000
+dailyftlk | 1,001
 economynextcom | 1,015
 adalk | 1,531
 tamilmirrorlk | 2,127
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,170 (100.0%) of 18,173 articles have been extended.
+18,173 (100.0%) of 18,174 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### A bloc to confront global debt crisis: What role for Sri Lanka?
+
+*2024-04-10 01:58:21* · [`dailyftlk`](https://www.ft.lk/columns/A-bloc-to-confront-global-debt-crisis-What-role-for-Sri-Lanka/4-760536) · `en`
+
+What proved to be particularly effective were the ways in which the IDEAs conference explored how powerful states and capitals reproduce a highly unequal global order with dramatic regional differences
+
+Even if Sri Lanka is eventually able to “successfully” exit the IMF program, the question is, at what human cost? The paucity of discourse about a short to medium-term relief strategy to cope with the immiseration of working people during the depression is an indictment of our ruling class. But considering the views expressed at the IDEAs conference, it further reflects tremendous short-sightedness in ignoring the paradoxes that have provoked serious researchers elsewhere. They have considered the impact of debt crisis not only on the infrastructure gap but also on human development
+
+...
+
+[Data](articles/d0a21dd6.json)
+
+---
 
 ### A “Hindu” presidential candidate and the “Hindu Tamil Eelam” concept
 
@@ -73,6 +87,8 @@ www.brookings.edu: At a time when many countries, large and small, are confronti
 ...
 
 [Data](articles/2d3e5228.json)
+
+[Extended Data](ext_articles/2d3e5228.ext.json)
 
 ---
 
@@ -798,6 +814,8 @@ The report, ‘Ready to suppress any protest’ Sri Lanka: Unlawful use of weap
 
 [Data](articles/101db488.json)
 
+[Extended Data](ext_articles/101db488.ext.json)
+
 ---
 
 ### SLA target four events at Paris Olympic Games
@@ -1249,6 +1267,8 @@ The male point of view about women, marriage and sexuality in the medieval times
 ...
 
 [Data](articles/c5a8e999.json)
+
+[Extended Data](ext_articles/c5a8e999.ext.json)
 
 ---
 
@@ -2207,27 +2227,5 @@ At the local government polls, a party candidate must pay 6,000 rupees as deposi
 [Data](articles/5b84a71f.json)
 
 [Extended Data](ext_articles/5b84a71f.ext.json)
-
----
-
-### Sri Lanka to hike election deposits paid by candidates
-
-*2024-04-09 15:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-nod-for-increasing-election-deposits-paid-by-candidates-158040/) · `en`
-
-ECONOMYNEXT — As Sri Lanka heads into decisive elections, the cabinet of ministers has approved a proposal to increase the deposit placed by candidates representing recognised political parties as well as independent candidates.
-
-The deposit placed by a candidate representing a party has been increased to 2.6 million rupees while an independent party at the presidential election has to pay to 3.1 million.
-
-The proposal was made jointly by President Ranil Wickremesinghe and Minister of Justice Wijeyadasa Rajapakshe.
-
-For parliamentary elections, a candidate representing a recognised political party must pay 11,000 rupees while an independent candidate has to make a deposit of 16,000 rupees.
-
-At the local government polls, a party candidate must pay 6,000 rupees as deposit, while an independent candidate has to pay 11,000.
-
-...
-
-[Data](articles/a9f87674.json)
-
-[Extended Data](ext_articles/a9f87674.ext.json)
 
 ---

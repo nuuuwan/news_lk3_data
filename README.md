@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 09:53:28**
+As of **2024-04-09 10:03:39**
 
 ## Newspaper Stats
 
-*Scraped **17,995** Articles*
+*Scraped **18,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,119 @@ economynextcom | 996
 adalk | 1,514
 tamilmirrorlk | 2,113
 adaderanalk | 2,163
-virakesarilk | 2,647
-dailymirrorlk | 2,744
+virakesarilk | 2,650
+dailymirrorlk | 2,748
 adaderanasinhalalk | 2,915
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-17,994 (100.0%) of 17,995 articles have been extended.
+17,995 (100.0%) of 18,002 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### Plans underway to aid war heroes’ families in multiple sectors: Premitha Bandara
+
+*2024-04-09 09:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Plans-underway-to-aid-war-heroes-families-in-multiple-sectors-Premitha-Bandara/108-280453) · `en`
+
+Wanni, April 9 (Daily Mirror) - Plans are underway to launch a programme aimed at providing preferential assistance to the families of war heroes across various sectors such as health, public administration, banking and other services in collaboration with the Ministry of Defence, Tri Forces and the Ranaviru Seva Authority, State Minister of Defence Premitha Bandara Tennakoon said.
+
+The Minister also announced the government's intention to prioritize war heroes and their families in the 'Urumaya' land deeds presentation programme, aiming to provide them with land ownership opportunities.
+
+"It is crucial that we prioritize the welfare of those who have given so much for our country," the Minister said at a programme at the Regimental Centre of the Gajaba Regiment.
+
+◼️
+
+[Data](articles/28ba9568.json)
+
+---
+
+### Over 7,500 security personnel deployed at mosques for Ramadan
+
+*2024-04-09 09:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-7-500-security-personnel-deployed-at-mosques-for-Ramadan/108-280452) · `en`
+
+Colombo, April 9 (Daily Mirror) - Police have implemented special security measures for mosques during Ramadan, with over 7,500 security personnel involved in the effort.
+
+Police said Inspector General of Police Deshabandu Tennakoon has instructed to impliment a combined security programme involving the Police, Special Task Force (STF), and tri-forces for the Ramadan festival on April 11.
+
+This security plan has been developed after meetings with Mawlavis of mosques at each police divisions.
+
+Police said a total of 5,580 police officers, 510 STF officers and 1,260 tri-forces personnel have been deployed at 2,453 mosques across the island where religious services are held.
+
+◼️
+
+[Data](articles/b7a4c0ae.json)
+
+---
+
+### யாழில் புற்றுநோய் அதிகரிப்பு ! கடந்த வருடத்தில் 776 பேர் பாதிப்பபு : 71 பேர் இறப்பு - வைத்திய கலாநிதி யமுனானந்தா
+
+*2024-04-09 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180779) · `ta`
+
+யாழ்ப்பாண மாவட்டத்தில் கடந்த வருடம் 2023 ஆம் ஆண்டு மட்டும் 776 பேர் புற்றுநோயால் பாதிக்கப்பட்ட நிலையில் 71 பேர் இறந்ததாக யாழ்ப்பாண வைத்தியசாலையில் பதில் பணிப்பாளர் வைத்திய கலாநிதி யமுனானந்தா தெரிவித்தார்.
+
+யாழ்ப்பாண மாவட்டத்தில் புற்றுநோயின் தாக்கம் அதிகரித்து வருகின்ற நிலையில் சரியான உணவுப் பழக்கம் புற்றுநோயை கட்டுப்படுத்துவதற்கு உதவும்.
+
+புற்றுநோயைப் பொறுத்தவரையில் நிற மூர்த்தம் மற்றும் இரசாயன பதார்த்தங்கள் மற்றும் சமூகத்தில் வயதானவர்களின் எண்ணிக்கைகள் அதிகரிக்கும் போது புற்றுநோயின் தாக்கம் வேகமாக உணரப்படும்.
+
+யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சைக்காக வருபவர்களில் மார்பகப் புற்றுநோய், கருப்பை புற்றுநோய் சூலகப் புற்றுநோய், வாய் புற்றுநோய், சுவாசம் தொண்டை பகுதிகளில் ஏற்படும் புற்றுநோய், உடல் உள் உறுப்புக்களில் ஏற்படும் புற்றுநோய் என பல வகையான புற்று நோய்கள் இனம் காணப்படுகின்றன.
+
+யாழ்ப்பாணம் போதனா வைத்தியசாலையை பொறுத்தமட்டில் புற்று நோய்களை இனம் காணுவதற்கான  ஆய்வு கூட வசதிகள் காணப்படுகின்ற நிலையில் மேலதிக ஆய்வுகளுக்காக கொழும்புக்கும் அனுப்பி வைக்கப்படுகின்றது.
+
+...
+
+[Data](articles/0ed42f9a.json)
+
+---
+
+### உஸ்மான் கானுக்கு ஐ.அ.இராச்சியத்தில் 5 வருட தடை!
+
+*2024-04-09 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180781) · `ta`
+
+பாகிஸ்தானில் பிறந்த கிரிக்கெட் வீரர் உஸ்மான் கானுக்கு ஐக்கிய அரபு இராச்சியத்தின் போட்டிகளில் விளையாடுவதற்கு 5 வருட தடை விதிக்கப்பட்டுள்ளது.
+
+ஐக்கிய அரபு இராச்சியத்தில் வசித்துவந்த உஸ்மான் கான் (29), ஐக்கிய அரபு இராச்சியத்தின் ஐ.எல்.ரி20 மற்றும் ரி10 லீக் போட்டிகளில் உள்நாட்டு வீரராக விளையாடினார்.
+
+அண்மையில் நடைபெற்ற பாகிஸ்தான் சுப்பர் லீக் போட்டிகளில் முல்தான் சுல்தான்ஸ் அணியில் வெளிநாட்டு வீரராக இடம்பெற்ற அவர், அடுத்தடுத்து சதம் குவித்ததுடன், அத்தொடரில் அதிக ஓட்டங்களைக் குவித்த வீரர்கள் பட்டியலில் இரண்டாவது இடத்தைப் பெற்றார்.
+
+அதன்பின், பாகிஸ்தான் தேசிய அணி சார்பில் விளையாடுவதற்கு உஸ்மான் கான் விருப்பம் தெரிவித்தார்.
+
+அதையடுத்து, மார்ச் 26 முதல் ஏப்ரல் 8 வரை நடைபெற்ற பாகிஸ்தான் அணியினருக்கான பயிற்சி முகாமில் உஸ்மான் கான் சேர்க்கப்பட்டிருந்தார்.
+
+அதேவேளை,  பாகிஸ்தானுக்காக விளையாடத் தீர்மானித்தன் மூலம், எமிரேட்ஸ் கிரிக்கெட் சபையுடனான ஒப்பந்ததம் மற்றும் ஐக்கிய அரபு இராச்சிய லீக் அணிகளுடனான ஒப்பந்தங்களை உஸ்மான் கான் மீறிவிட்டார் குற்றம் சுமத்தப்பட்டது.
+
+...
+
+[Data](articles/c77b3df1.json)
+
+---
+
+### சதொசவில் அத்தியாவசியப் பொருட்களின் விலைகள் குறைப்பு
+
+*2024-04-09 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/180778) · `ta`
+
+பண்டிகை காலத்தை முன்னிட்டு பல அத்தியாவசியப் பொருட்களின் விலைகள் குறைக்கப்பட்டுள்ளதாக லங்கா சதொச நிறுவனம் தெரிவித்துள்ளது.
+
+அனைத்து சதொச விற்பனை நிலையங்களிலும் இந்த விலைக் குறைப்பு நேற்று திங்கட்கிழமை (08) நள்ளிரவு முதல் அமலுக்கு வருகிறது.
+
+ஒரு  கிலோகிராம் செத்தல் மிளாகாயின் விலை 300 ரூபாவால் குறைக்கப்பட்டுள்ள நிலையில் அதன் விலை 850 ரூபாவாகும்.
+
+சீனாவில் இருந்து இறக்குமதி செய்யப்படும் பெரிய வெங்காயம் ஒரு கிலோவின் விலை 120 ரூபாவால் குறைக்கப்பட்டுள்ள நிலையில், அதன் புதிய விலை 375 ரூபாவாகும்.
+
+இந்தியா மற்றும் பாகிஸ்தானில் இருந்து இறக்குமதி செய்யப்படும் பெரிய வெங்காயம் ஒரு கிலோகிராமின் விலை 50 ரூபாவால் குறைக்கப்பட்டுள்ள நிலையில் அதன் புதிய விலை 445 ரூபாவாகும்.
+
+வெள்ளைப்பூடு ஒரு கிலோகிராமின் விலை 15 ரூபாவால் குறைக்கப்பட்டுள்ள நிலையில் அதன் புதிய விலை 680 ரூபாவாகும்.
+
+உருளைக்கிழங்கு ஒருகிலோகிராமின் விலை 10 ரூபாவால் குறைக்கப்பட்டுள்ள நிலையில், அதன் புதிய விலை 165 ரூபாவாகும்.
+
+...
+
+[Data](articles/aec8da2b.json)
+
+---
 
 ### Trade Ministry to issue price range to curb middlemen profits
 
@@ -51,6 +151,8 @@ The depreciation of the dollar exchange rate, which initially contributed to the
 ...
 
 [Data](articles/60c8eeb1.json)
+
+[Extended Data](ext_articles/60c8eeb1.ext.json)
 
 ---
 
@@ -185,6 +287,24 @@ Asked about the latest developments, a government source said the government to 
 [Data](articles/6ab5b67d.json)
 
 [Extended Data](ext_articles/6ab5b67d.ext.json)
+
+---
+
+### Sri Lanka hard-pressed against time to conclude agreements for debt restructuring
+
+*2024-04-09 08:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-hard-pressed-against-time-to-conclude-agreements-for-debt-restructuring/155-280442) · `en`
+
+Colombo, April 9 (Daily Mirror) - Sri Lanka is hard-pressed against time to reach agreements with creditors including bondholders before June, when the third tranche of the International Monetary Fund (IMF) extended fund facility is expected, Daily Mirror learns.
+
+Sri Lanka is expected to get the next tranche of US $ 337 million in June after the third review of the programme.
+
+Before that, Sri Lanka has to sign the MoU with the Paris Club of Nations on restructuring bilateral debts while signing a separate agreement with China for the same purpose but on terms acceptable to all the bilateral creditors.
+
+Asked about the latest developments, a government source said the government to finalize the agreements in principle with commercial creditors including bondholders before that.
+
+...
+
+[Data](articles/913bd32d.json)
 
 ---
 
@@ -1506,6 +1626,24 @@ However, with the presidential elections approaching, the NPP proposed that the 
 
 ---
 
+### NPP says AKD ready for Presidential debate by Daily Mirror
+
+*2024-04-08 20:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-says-AKD-ready-for-Presidential-debate-by-Daily-Mirror/108-280407) · `en`
+
+Colombo, April 8 (Daily Mirror) - National People’s Power (NPP) MP Harini Amarasuriya said that the NPP is ready to accept the invitation made by the Daily Mirror to host an open debate with the three main presidential candidates.
+
+Addressing the media, the NPP Leader was ready to accept the invitation and members attached to the NPP economic council have participated in a number of debates in the recent past where various details were highlighted.
+
+However, with the presidential elections approaching, the NPP proposed that the debate should include only presidential candidates.
+
+"If this is not feasible, we are prepared to engage in a debate with economic council members from all political parties," MP Amarasuriya said.
+
+...
+
+[Data](articles/c750f2ea.json)
+
+---
+
 ### Breaking fast banquet for Muslim devotees
 
 *2024-04-08 20:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Breaking-fast-banquet-for-Muslim-devotees/110-280406) · `en`
@@ -2087,175 +2225,5 @@ If today's government's economic program is rejected, the country's economy will
 [Data](articles/51193336.json)
 
 [Extended Data](ext_articles/51193336.ext.json)
-
----
-
-### Sri Lanka sells Rs85bn in 2026 to 2032 bonds
-
-*2024-04-08 17:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs85bn-in-2026-to-2032-bonds-157955/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 85 billion rupees of bonds maturing from 2026 to 2032, at an auction on April 08, data from the state debt office showed.
-
-25 billion rupees of 15 December 2026 bonds were offered at 11.44 percent.
-
-25 billion rupees of 15 September 2029 bonds were offered at 12.37 percent.
-
-35 billion rupees of 1 October 2032 bonds were offered at 12.51 percent.
-
-◼️
-
-[Data](articles/dccf3d18.json)
-
-[Extended Data](ext_articles/dccf3d18.ext.json)
-
----
-
-### Fisheries Minister Douglas Devananda
-
-*2024-04-08 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180757) · `ta`
-
-Fisheries Minister Douglas Devananda criticized villagers in Ponnaveli for protesting against land and resource exploitation, recalling his past awareness of anti-Tamil activities. He defended his role as a representative of Tamil aspirations, emphasizing the need to protect Tamil resources without looting. The village, a traditional Eelam site, faces threats of land and resource seizure, including plans for a cement factory and warehouses near the sea.
-
-🟩
-
-The villagers were opposed and sent back to the villagers when they visited the village of Ponnaveli in the Poonaveli Divisional Secretariat of Klanochchi.
-
-Fisheries Minister Douglas Devananda has attacked the people who participated in the protest.
-
-Fisheries Minister Douglas Devananda's actions were not yesterday, but when he was a Member of Parliament, he was openly aware that he had the anti -Tamil activities of the Tamils..
-
-If he has identified himself as a Member of Parliament who represents the aspirations of a legitimate honorable Tamils, he must maintain the resources of the Tamil people without looting the resources of the Tamil people.
-
-But it is not a matter of fact that it is not a matter of identification as a minister who takes the land of the Tamils, selling sand and selling stone.
-
-The Ponnaveli Village of the Poonakari Divisional Secretariat, Kilinochchi is a traditional Eelam, a native of the natives of the historical historical basis.
-
-...
-
-[Data](articles/e883553b.json)
-
-[Extended Data](ext_articles/e883553b.ext.json)
-
----
-
-### The price of several items down
-
-*2024-04-08 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195442) · `si`
-
-Prices of essential goods like dry chilies, b onions, potatoes, and red dhal have been reduced, with dry chilies now at Rs. 850, b onions from China at Rs. 375 less, b onions from India/Pakistan at Rs. 50 less, potatoes at Rs. 165, and red dhal at a lower price.
-
-🟩
-
-The prices of several essential consumer goods to the public have been reduced by several types of consumer goods to the public.
-
-Accordingly, these prices have been declined since midnight today (08).
-
-A kilo of dry chilies has been down 300 rupees and its new price is Rs. 850.
-
-The price of a kilo of b onions imported from China has been reduced by Rs. 375.
-
-The price of a kilo of b onions imported from India and Pakistan has been reduced by Rs. 50 is Rs.
-
-White onions have been reduced by Rs.
-
-A kilo of potatoes has been reduced by Rs.10 and its new price is Rs.165.
-
-Sri Lanka Sathosa has decided to decrease a kilogram of red dhal at Rs.
-
-◼️
-
-[Data](articles/0c70e5b2.json)
-
-[Extended Data](ext_articles/0c70e5b2.ext.json)
-
----
-
-### Sri Lanka plans politically correct names for Avurudu games
-
-*2024-04-08 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-plans-politically-correct-names-for-avurudu-games-157945/) · `en`
-
-ECONOMYNEXT – Names of traditional New Year games which are considered to denigrate disabled people will be renamed with more acceptable labels, State Minister of Social Empowerment Anupa Pasqual said.
-
-One of the games is kana mutti, where a blind-folded person tries to smash a hanging clay pot with a club. Kana is an impolite term for a blind person.
-
-The traditional new year is a solar festival celebrated by Sri Lanka’s sinhala and tamil communities.
-
-It is celebrated in India and former territories of the Chola Empire including Sri Lanka (avurudu), and Thailand  (sonkram).
-
-◼️
-
-[Data](articles/014aa25c.json)
-
-[Extended Data](ext_articles/014aa25c.ext.json)
-
----
-
-### Sri Lanka plans politically correct names for Avurudu games
-
-*2024-04-08 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-politically-correct-names-for-avurudu-games-157945/) · `en`
-
-ECONOMYNEXT – Names of traditional New Year games which are considered to denigrate disabled people will be renamed with more acceptable labels, State Minister of Social Empowerment Anupa Pasqual said.
-
-One of the games is kana mutti, where a blind-folded person tries to smash a hanging clay pot with a club. Kana is an impolite term for a blind person.
-
-The traditional new year is a solar festival celebrated by Sri Lanka’s sinhala and tamil communities.
-
-It is celebrated in India and former territories of the Chola Empire including Sri Lanka (avurudu), and Thailand  (sonkram).
-
-◼️
-
-[Data](articles/88e68e5c.json)
-
-[Extended Data](ext_articles/88e68e5c.ext.json)
-
----
-
-### Tamil Nadu and the Central Government of India should abandon the Kacha island for politics - Secretary of the Northern Province Fisheries Internet
-
-*2024-04-08 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180751) · `ta`
-
-Tamil Nadu and India's Central Govt should abandon Kachchi Island for political reasons, says Northern Province Fisheries Internet Secretary. Despite claims for politics, fishermen are encouraged to engage in illegal fishing. Tamil Nadu demands Kachchi Island's return whenever Indian fishermen are arrested. The central govt has taken advantage of this demand, leading to potential political opposition.
-
-🟩
-
-Kachchi Island is a new stand in the central government and Tamil Nadu. Northern Province Fisheries Internet Secretary
-
-He was speaking at a media briefing held at the office in Mannar today (8) afternoon.
-
-Kachchi Island is a new stand in the central government and Tamil Nadu. Although they claim it for politics, the fishermen, especially the fishermen who are trying to move from illegal fishing activities, are encouraging them to encourage them and repeat them, illegal fishing, illegally entering the Sri Lankan waters and carrying out fishing.
-
-On the one hand, the Central Government of India is very careful that its dominance in Sri Lanka should be stopped in Tamil Nadu. The Government of Tamil Nadu has prevailed many times the Kacha Island answer.
-
-Tamil Nadu continued to demand that the Kacha Island be recovered at every time the Indian fishermen were arrested.
-
-...
-
-[Data](articles/27d62656.json)
-
-[Extended Data](ext_articles/27d62656.ext.json)
-
----
-
-### Special notice from the police
-
-*2024-04-08 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195441) · `si`
-
-Police launch investigation into unauthorized use of forest uniforms by school cadets. One person arrested. Uniforms not permitted for children. A special investigation unit established.
-
-🟩
-
-Police Media Spokesperson DIG Talduuwa says that a special investigation has been launched into the use of forest uniforms of the Police Special Society for a school sport.
-
-He was speaking at a media briefing today, the police spokesman said.
-
-According to the Police Media Spokesperson further stated that one person has been arrested on suspicion.
-
-Deputy Minister of Police Media Spokesperson DIG Talduwa, Speaking further
-
-...
-
-[Data](articles/d51a7996.json)
-
-[Extended Data](ext_articles/d51a7996.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 05:03:19**
+As of **2024-04-10 05:18:13**
 
 ## Newspaper Stats
 
-*Scraped **18,178** Articles*
+*Scraped **18,181** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,015
 adalk | 1,531
 tamilmirrorlk | 2,127
 adaderanalk | 2,180
-virakesarilk | 2,687
+virakesarilk | 2,690
 dailymirrorlk | 2,775
 adaderanasinhalalk | 2,943
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 2,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,178 (100.0%) of 18,178 articles have been extended.
+18,178 (100.0%) of 18,181 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### மாணவர்களின் கல்வி பாதிப்படையும் வகையில் செயற்படாதீர்கள் - சுந்தரபுரம் கிராம மக்கள் கோரிக்கை
+
+*2024-04-10 04:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180858) · `ta`
+
+ஆசிரியரொருவர் மாணவரை தாக்கிய சம்பவத்துடன் தொடர்புப்படுத்தி ஏனைய மாணவர்களும் பாதிப்பையும் அவமானத்தையும் சந்திக்கும் வகையில் சிலர் முகநூல்களில் செயற்பட்டு வருகின்றமை வேதனை அளிப்பதாக சுந்தரபுரம் கிராம மக்கள் தெரிவித்தனர்.
+
+அண்மையில் சுந்தரபுரம் சரஸ்வதி வித்தியாலயத்தில் இரண்டாம் தரத்தில் கல்வி கற்கும் மாணவன் ஒருவனை ஆசிரியர் ஒருவர் கடுமையாக தாக்கியமையின் காரணமாக அம் மாணவன் வைத்தியசாலையில் சிகிச்சை பெற்ற நிலையில் ஆசிரியை பொலிஸாரால் கைது செய்யப்பட்டு பின்னர் பிணையில் விடுதலை செய்யப்பட்டிருந்தார்.
+
+இந்நிலையில் குறித்த கிராம மக்கள் ஒன்றிணைந்து இன்று ஊடகங்களுக்குக் கருத்து தெரிவிக்கும் போதே மேற்கண்டவாறு தெரிவித்தனர்.
+
+பாடசாலையில் நடைபெற்ற சம்பவமானது ஏற்றுக்கொள்ள முடியாத ஒரு விடயமாகவே காணப்படுகிறது. எனினும் நாம் எவருக்கும் பக்கச் சார்பின்றி செயற்படுபவர்கள் என்ற ரீதியில் குறித்த சம்பவத்தில் யார் சரி யார் பிழை என்பதற்கு அப்பால் அங்கு கற்று வரும் ஏனைய மாணவர்களின் கல்வியில் பாதிப்பை ஏற்படுத்தும் வகையில் சிலர் செயற்படுகின்றனர்.
+
+...
+
+[Data](articles/f1316454.json)
+
+---
+
+### சுவிஸிலிருந்து யாழ்ப்பாணம் வந்தவர் குளியலறையில் விழுந்து உயிரிழப்பு!
+
+*2024-04-10 04:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180857) · `ta`
+
+சுவிட்சர்லாந்திலிருந்து திங்கட்கிழமை (8) யாழ்ப்பாணம் வந்த ஒருவர் குளியலறையில் விழுந்து உயிரிழந்துள்ளார். பாலசிங்கம் உதயகுமார் (வயது 55) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த நபர் திங்கட்கிழமை (8)  சுவிஸிலிருந்து நவாலி தெற்கு, மானிப்பாய் பகுதியில் உள்ள தாயாரின் வீட்டுக்கு வந்திருந்தார். இந்நிலையில் செவ்வாய்க்கிழமை (9) காலை குளியலறையில் குளிக்கச் சென்றவேளை கீழே விழுந்து உயிரிழந்துள்ளார்.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசோதனைக்காக சடலம் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் கொண்டு செல்லப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/d25d26a9.json)
+
+---
+
+### வவுனியாவில் இரு துவிச்சக்கரவண்டிகளை மோதித்தள்ளிய கப்ரக வாகனம் - இரு மாணவர்கள் காயம்
+
+*2024-04-10 04:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180856) · `ta`
+
+வவுனியா சிவபுரம் பகுதியில் கப்ரக வாகனம் இரு துவிச்சக்கரவண்டிகளை மோதித்தள்ளியதில் இரு மாணவர்கள் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+நகரிலிருந்து மன்னார் வீதியூடாக பயணித்த கப்ரக வாகனம் சாரதியின் கட்டுப்பாட்டையிழந்து எதிர்த்திசையில் பம்பைமடு பகுதியிலிருந்து நெளுக்குளம் நோக்கி வீதியோரமாக பயணித்த இரு துவிச்சக்கரவண்டி மீது மோதுண்டு விபத்துக்குள்ளானது
+
+இவ் விபத்தில் துவிச்சக்கரவண்டியில் பயணித்த இரு மாணவர்கள் காயமடைந்த நிலையில் வவுனியா மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளமையுடன் விபத்து தொடர்பான மேலதிக விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/20afb7ec.json)
+
+---
 
 ### Let's field a member of the PA - Mahinda Rajapaksa
 
@@ -2161,75 +2211,5 @@ The 12-month yield fell 1 basis point to 10.27 percent with 20 billion rupees of
 [Data](articles/bb7123b8.json)
 
 [Extended Data](ext_articles/bb7123b8.ext.json)
-
----
-
-### Sri Lanka spent nearly 200 billion rupees as social welfare in 2023
-
-*2024-04-09 15:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-spent-nearly-200-billion-rupees-as-social-welfare-in-2023-158044/) · `en`
-
-ECONOMYNEXT — Sri Lanka has paid nearly 200 billion rupees in 2023 as relief to people affected by the country’s worst financial crisis in decades, an official said.
-
-Presidential Director General (Community Affairs) Rajith Keerthi Thennakoon said the number of relief beneficiaries as of March 31, 2024, is 1,854,308.
-
-A statement from the president’s office quoted Thennakoon as saying that a sum of 184,098.27 million rupees is deemed necessary for various aids, loans, and allowances under the Samurdhi welfare programme, catering to seniors, disabled individuals, patients with kidney disorders, and other relief needs.
-
-The government’s total expenditure on social welfare initiatives in 2023, inclusive of appeals and outstanding payments, amounted to approximately 189,650.95 million (189.6 billion) rupees, he said.
-
-...
-
-[Data](articles/d0fc7f5a.json)
-
-[Extended Data](ext_articles/d0fc7f5a.ext.json)
-
----
-
-### Salary Increase for Upcountry Plantation Workers: International Labor Federation
-
-*2024-04-09 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/180813) · `ta`
-
-The International Labor Federation has called for a salary increase for upland plantation workers, with discussions held at the Ministry of Colombo. Key issues, including salary increases and workers' rights, were addressed. Representatives of the International Workers Federation confirmed wage increases and emphasized the importance of workers' rights and security.
-
-🟩
-
-The International Labor Federation has issued all the announcements under its jurisdiction for a reasonable salary increase for upland plantation workers.
-
-The meeting between Johnny Simpson, Director of the International Labor Federation and the Maldives, Jeevan Thondaman, General Secretary of the CWC and Jeevan Thondaman, Minister of Water Resources and Estate Infrastructure, was held at the Ministry of Colombo (08.04.2024).
-
-During the meeting, a number of key issues were discussed and more attention was paid to the salary increase for plantation workers.
-
-Jeevan Thondaman explained to these representatives about the moves being taken to pay a pay hike to plantation workers.. He also highlighted the challenges on this issue.
-
-Responding to this, representatives of the International Workers Federation have stated that the plantation workers have been given a wage increase.
-
-...
-
-[Data](articles/7129fd37.json)
-
-[Extended Data](ext_articles/7129fd37.ext.json)
-
----
-
-### Election Commission begins preparations for presidential polls
-
-*2024-04-09 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98536/election-commission-begins-preparations-for-presidential-polls) · `en`
-
-The Election Commission of Sri Lanka has commenced the activities related to preparing the electoral register for this year starting today (April 09).
-
-The activities pertaining to the preparation of electoral register will be carried out until May 10, as per the Election Secretariat.
-
-Accordingly, this allows the individuals whose names are not included in the electoral register despite being eligible to cast their votes, to add their names to the relevant lists.
-
-Thus, Election Secretariat further announced that the eligible voters now have the opportunity to include their names in the electoral register from respective Grama Niladhari offices or the election offices across the island.
-
-Meanwhile, the Election Commission will be authorized to call for nominations for the Presidential Election on any date after July 17, 2024.
-
-However, it is expected that the Presidential Election is likely to take place in the end of September or in the first week of October.
-
-...
-
-[Data](articles/2eeb1522.json)
-
-[Extended Data](ext_articles/2eeb1522.ext.json)
 
 ---

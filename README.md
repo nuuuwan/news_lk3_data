@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 13:52:54**
+As of **2024-04-09 14:03:22**
 
 ## Newspaper Stats
 
-*Scraped **18,040** Articles*
+*Scraped **18,042** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ tamilmirrorlk | 2,119
 adaderanalk | 2,170
 virakesarilk | 2,659
 dailymirrorlk | 2,752
-adaderanasinhalalk | 2,923
+adaderanasinhalalk | 2,925
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,038 (100.0%) of 18,040 articles have been extended.
+18,040 (100.0%) of 18,042 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
+
+### බටහිර රුසියාවේ පාලමක් කඩා වැටේ
+
+*2024-04-09 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195469) · `si`
+
+බටහිර රුසියාවේ දුම්රිය මාර්ගයක් මතට පාලමක් කඩා වැටීමෙන් සිදුවූ අනතුරකින් කාන්තාවක් මියගොස් තවත් පස් දෙනෙකු තුවාල ලබා තිබේ.
+
+මේ හේතුවෙන් එම දුම්රිය මාර්ගයේ ධාවන කටයුතු ද තාවකාලිකව අත්හිටුවා ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+එමෙන්ම නළ මාර්ගවලටට සිදුවූ හානි හේතුවෙන් නිවාස 8,000කට පමණ ගෑස් සැපයුමට බාධා එල්ල වී ඇති බව වාර්තා වේ.
+
+අදාළ පාලම බොහෝ කලක් තිස්සේ නඩත්තු නොකිරීම කඩා වැටීමට හේතු වී ඇති බව එරට මාධ්‍ය වාර්තා කර ඇත.
+
+◼️
+
+[Data](articles/89ed3c24.json)
+
+---
+
+### මැතිවරණ ගැන රජය ගත් විශේෂ තීරණය
+
+*2024-04-09 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195468) · `si`
+
+මැතිවරණ සඳහා වන ඇප මුදල් තැන්පත් කිරීමේ ගාස්තු සංශෝධනය කිරීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+ජනාධිපතිවරයා තෝරා පත්කර ගැනීමේ පනතේ, පාර්ලිමේන්තු මැතිවරණ පනතේ සහ පළාත් සභා ඡන්ද විමසීම් පනතේ විධිවිධාන පරිදි දැනට පවතින ඇප තැන්පතු මුදල් සීමාවන් කාලෝචිත පරිදි වත්මන් සමාජ, ආර්ථීක සහ දේශපාලන පසුබිම අනුව යාවත්කාලීන කිරීම සුදුසු බවට හඳුනාගනු ලැබ ඇත.
+
+ඒ අනුව, පහත පරිදි අදාළ ඇප තැන්පත් මුදල් සංශෝධනය කිරීම සඳහා පනත් කෙටුම්පතක් සකස් කරන ලෙස නීති කෙටුම්පත් සම්පාදකට උපදෙස්දීමට ජනාධිපතිවරයා සහ අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍යවරයා ඉදිරිපත් කළ ඒකාබද්ධ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කර තිබේ.
+
+1981 අංක 15 දරන ජනාධිපතිවරයා ගැනීමේ පනතට අනුව පිළිගත් දේශපාලන පක්ෂයකින් ඉදිරිපත් වන අපේක්ෂකයෙකුගේ ඇප තැන්පතුව රුපියල් මිලියන 2.6 දක්වාත්, ස්වාධීන අපේක්ෂකයෙකුගේ ඇප තැන්පතුව රුපියල් මිලියන 3.1 දක්වාත් ඉහළ නංවා ඇත.
+
+...
+
+[Data](articles/631b223f.json)
+
+---
 
 ### Candidate deposits for Presidential, Parliamentary and PC elections increased
 
@@ -48,29 +84,39 @@ Accordingly, the deposit money limits will be amended as follows;
 
 [Data](articles/c748edff.json)
 
+[Extended Data](ext_articles/c748edff.ext.json)
+
 ---
 
-### ගම්පහ වෙඩික්කරුවන් ආ හැටි CCTV කැමරාවේ
+### CCTV Camera
 
 *2024-04-09 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195467) · `si`
 
-ගම්පහ, කටුගස්තර ප්‍රදේශයේදී වෙඩි තබා ඝාතනය කළ පුද්ගලායට කිසිදු අපරාධ චෝදනාවක් නොමැති බව පොලීසිය පවසයි.
+A murder in Gampaha's Katashara area has been reported, with CCTV footage showing a shooting at Udugampola. Investigations are ongoing, involving the Peliyagoda Criminal Division. The victim's brother-in-law, Kehelbaddara Chanaka, is a fugitive abroad. Suspects include Dinesh Wasantha, in police custody, and an unnamed individual, believed to be seeking revenge.
 
-කෙසේවෙතත් ඔහුට වෙඩිතැබීමට හේතුව මෙතෙක් අනාවරණ වී නොමැති අතර වෙඩික්කරුවන් පැමිණෙන අයුරු දැක්වෙන CCTV දර්ශන පෙළක් මාධ්‍ය වෙත ලැබී තිබේ.
+🟩
 
-ගම්පහ, උඩුගම්පොළ, කටුගස්තර ප්‍රදේශයේදී ඊයේ (08) පස්වරු 4ට පමණ වාහන අලුත්වැඩියා කරන ස්ථානයකදී වෙඩි තැබීමක් සිදුව තිබිණි.
+The victim has been allegedly murdered in the Katashara area in Gampaha, police said.
 
-මේ වෙඩික්කරුවන් වෙඩිතැබීමට පැමිණෙන අයුරු දැක්වෙන CCTV රූපරාමු පෙළක් ද මාධ්‍යයට ලැබී තිබිණි.
+However, the media has not yet been revealed to him, but the media has received a CCTV display of CCTV visits.
 
-සිද්ධිය සම්බන්ධයෙන් පෑලියගොඩ අපරාධ කොට්ඨාසය ඇතුළු විමර්ශන කණ්ඩායම් කිහිපක් මේවන විට පරීක්ෂණ ආරම්භ කර තිබේ.
+A shooting was shot dead at Udugampola, Udugampola, Udugampola, Udugampola at around 4 pm yesterday.
 
-ඔහු මේවන විට විදේශගතව සැඟව සිටින සංවිධානාත්මක අපරාධකරුවකු වන කෙහෙල්බද්දර චානක නැමැත්තාගේ මස්සිනා බව පොලීසිය සඳහන් කළේය.
+The media also received a range of CCTV images: "Look!
 
-මේවන විට පොලිස් අත්අඩංගුවේ පසුවන ගණේමුල්ල සංජීව නැමැත්තාගේ සමීපතමයන් වන දැනට විදේශගතව සැඟව සිටින ලක්මාල් නැමැත්තෙක් හා දිනේෂ් වසන්ත නැමැත්තෙක් විසින් මෙම ඝාතනය මෙහෙයවා ඇතැයි සැක කරන බව පොලීසිය පැවසීය.
+Several investigations into the Peliyagoda Criminal Division have commenced investigations into the incident.
 
-...
+He is the brother-in-law of Kehelbaddara Chanaka, an organized criminal, who is hiding abroad.
+
+The murder is suspicious that a person who is close and Dinesh Wasantha, who is in police custody, is currently underway.
+
+Police suspect that the shooting has been carried out by the two of them to receive revenge from the two opponent.
+
+◼️
 
 [Data](articles/830a46e7.json)
+
+[Extended Data](ext_articles/830a46e7.ext.json)
 
 ---
 
@@ -2187,39 +2233,5 @@ Anuj Vashisht, Chairman of World Wings Education – Sri Lanka, remarked on the 
 [Data](articles/d221eb50.json)
 
 [Extended Data](ext_articles/d221eb50.ext.json)
-
----
-
-### Hamas says Gaza truce talks still deadlocked despite reports of progress
-
-*2024-04-08 22:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98524/hamas-says-gaza-truce-talks-still-deadlocked-despite-reports-of-progress) · `en`
-
-(Reuters) - A Hamas official said on Monday no progress had been made at a new round of talks in Cairo on a ceasefire in the Gaza war after the Egyptian hosts said headway had been achieved on the agenda.
-
-Israel and Hamas sent teams to Egypt on Sunday after the arrival on Saturday of CIA Director William Burns, whose presence underlined rising U.S. pressure for a deal that would free Israeli hostages held in Gaza and get aid to Palestinian civilians. Qatari representatives also attended.
-
-“There is no change in the position of the occupation (Israel) and therefore, there is nothing new in the Cairo talks,” the Hamas official, who asked not to be identified, told Reuters. “There is no progress yet.”
-
-Western powers have voiced concern over the high Palestinian civilian death toll and the humanitarian crisis arising from Israel’s military onslaught to destroy Hamas in the densely populated Gaza Strip.
-
-...
-
-[Data](articles/9f0243ac.json)
-
-[Extended Data](ext_articles/9f0243ac.ext.json)
-
----
-
-### Celebrating and rewarding local Sri Lankan women role models
-
-*2024-04-08 22:39:00* · [`islandlk`](http://island.lk/celebrating-and-rewarding-local-sri-lankan-women-role-models/) · `en`
-
-British Council in collaboration with ChildFund Sri Lanka, recently concluded an exciting competition to celebrate the achievements of local Sri Lankan women in their communities. The She-roes role model competition encouraged Sri Lankan girls to recognise and celebrate the achievements of local female role models, nurturing appreciation for the remarkable women in their communities. Tailored for the English and Digital for Girls’ Education (EDGE) project peer group leaders and members, the role model competition served as inspiration for its club members, nudging them to dream and soar to greater heights.
-
-...
-
-[Data](articles/c7bc7ac6.json)
-
-[Extended Data](ext_articles/c7bc7ac6.ext.json)
 
 ---

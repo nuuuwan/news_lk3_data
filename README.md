@@ -1,19 +1,19 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 01:33:56**
+As of **2024-04-10 01:50:57**
 
 ## Newspaper Stats
 
-*Scraped **18,168** Articles*
+*Scraped **18,173** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 159
+colombotelegraphcom | 161
 bbccomsinhala | 190
 dbsjeyarajcom | 213
 newsfirstlk | 363
 islandlk | 992
-dailyftlk | 997
+dailyftlk | 1,000
 economynextcom | 1,015
 adalk | 1,531
 tamilmirrorlk | 2,127
@@ -26,11 +26,51 @@ adaderanasinhalalk | 2,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,166 (100.0%) of 18,168 articles have been extended.
+18,168 (100.0%) of 18,173 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### A “Hindu” presidential candidate and the “Hindu Tamil Eelam” concept
+
+*2024-04-10 01:30:38* · [`dailyftlk`](https://www.ft.lk/columns/A-Hindu-presidential-candidate-and-the-Hindu-Tamil-Eelam-concept/4-760530) · `en`
+
+Current media coverage in Sri Lanka is heavily focused on the forthcoming Presidential elections. Though officially not announced yet, it seems a foregone conclusion that the presidential poll would take place later this year. Several potential candidates ranging from incumbent president Ranil Wickremesinghe to media magnate Dilith Jayaweera are tipped to be in the presidential fray.
+
+Adding to this uncertain state of affairs are recent attempts by vested interests to field a “Hindu” as a common presidential candidate in the 2024 election. Even as people were becoming aware of efforts by interested parties to nominate a Hindu presidential candidate, the head of a Hindu organisation in northern Sri Lanka issued a public statement calling for a common candidate to contest the forthcoming presidential poll on behalf of all Hindus in the island. Furthermore Hindus were asked to vote for Mano Ganesan MP as the presidential candidate.
+
+...
+
+[Data](articles/45db6626.json)
+
+---
+
+### Peak state capitalism – what’s next?
+
+*2024-04-10 01:27:08* · [`dailyftlk`](https://www.ft.lk/columns/Peak-state-capitalism-what-s-next/4-760529) · `en`
+
+The limits of state capitalism are visible worldwide, from China, Sri Lanka, Egypt, and Nigeria to Ukraine. Globally, state-owned enterprises’ assets are worth the equivalent of half the global GDP, while government-owned real estate is worth twice that amount. Decades of research, including from the IMF, have shown that government-owned businesses are, on average, one-third less productive than private firms. This is hampering financial sector reform and the efficient allocation of capital, leading to constrained economic development and growth.
+
+...
+
+[Data](articles/7b28b875.json)
+
+---
+
+### Sustained debt reduction: The Jamaica exception
+
+*2024-04-10 01:23:58* · [`dailyftlk`](https://www.ft.lk/opinion/Sustained-debt-reduction-The-Jamaica-exception/14-760528) · `en`
+
+This article is part of the spring 2024 edition of the Brookings Papers on Economic Activity, the leading conference series and journal in economics for timely, cutting-edge research about real-world policy issues. Research findings are presented in a clear and accessible style to maximise their impact on economic understanding and policymaking. The editors are Brookings Nonresident Senior Fellows Janice Eberly and Jón Steinsson
+
+www.brookings.edu: At a time when many countries, large and small, are confronting heavy and growing public debt burdens, Jamaica offers a rare example of a country that succeeded in substantially reducing its debt, according to a paper discussed at the Brookings Papers on Economic Activity (BPEA) conference on 28 March.
+
+...
+
+[Data](articles/2d3e5228.json)
+
+---
 
 ### JETRO Colombo organises “Sustainable development through Japanese technologies”
 
@@ -43,6 +83,8 @@ Ambassador of Japan to Sri Lanka Mizukoshi Hideaki and Sri Lanka Japan Business 
 ...
 
 [Data](articles/86c5435f.json)
+
+[Extended Data](ext_articles/86c5435f.ext.json)
 
 ---
 
@@ -59,6 +101,8 @@ The Ambassador had the pleasure of visiting the Alliance Française in Matara an
 ...
 
 [Data](articles/353a3788.json)
+
+[Extended Data](ext_articles/353a3788.ext.json)
 
 ---
 
@@ -738,6 +782,20 @@ The Colombo Lotus Tower will mark Eid on Thursday (11) by illuminating the sky w
 
 ---
 
+### Sri Lankan Law Enforcement Officials Must Be Held Accountable For Abuses During Protests: Amnesty International
+
+*2024-04-09 19:50:07* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankan-law-enforcement-officials-must-be-held-accountable-for-abuses-during-protests-amnesty-international/) · `en`
+
+Sri Lankan law enforcement officials engaged in the violent repression of protests must be held accountable for committing widespread human rights violations, said Amnesty International in a new investigative report released today.
+
+The report, ‘Ready to suppress any protest’ Sri Lanka: Unlawful use of weapons during protests’, analyses the use of force during policing of 30 protests that took place in Sri Lanka between March 2022 and June 2023. Amnesty International’s research shows a pattern in the unlawful use of tear gas and water cannon and the misuse of batons by Sri Lankan law enforcement officials with video evidence revealing that in at least 17 protests – more than half of those analysed – the conduct of law enforcement officials fell well short of international law and standards on the use of force.
+
+...
+
+[Data](articles/101db488.json)
+
+---
+
 ### SLA target four events at Paris Olympic Games
 
 *2024-04-09 19:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLA-target-four-events-at-Paris-Olympic-Games/108-280485) · `en`
@@ -1173,6 +1231,20 @@ The Cabinet has approved the idea of the President and Education Minister to rec
 [Data](articles/5bc3020e.json)
 
 [Extended Data](ext_articles/5bc3020e.ext.json)
+
+---
+
+### A Bill For Women’s Empowerment Was Issued
+
+*2024-04-09 17:30:34* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-bill-for-womens-empowerment-was-issued/) · `en`
+
+We can hear these days the discussions of women’s rights and empowering women. These discussions are carried on a male centric point of view.
+
+The male point of view about women, marriage and sexuality in the medieval times and thereafter was backward. These attitudes were bred and promoted under the guidance of the Roman Catholic Church. Significant traits prescribed by men for women included chastity, silence, modesty, reticence, sobriety, and obedience. This situation started to change with the protestant movement in 16th century and the industrial revolution in the 18th century.
+
+...
+
+[Data](articles/c5a8e999.json)
 
 ---
 
@@ -2153,133 +2225,5 @@ At the local government polls, a party candidate must pay 6,000 rupees as deposi
 [Data](articles/a9f87674.json)
 
 [Extended Data](ext_articles/a9f87674.ext.json)
-
----
-
-### Says Hamas
-
-*2024-04-09 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195471) · `si`
-
-Hamas reports Israel rejected a ceasefire proposal. Israel's PM Netanyahu announced an invasion of Ruffa in Gaza. Discussions between Israel and Hamas, mediated by Qatar, Egypt, and the US's William Burns, continue.
-
-🟩
-
-Hamas announced that Israel has rejected a proposal for a ceasefire.
-
-During the negotiations in Cairo, Israel had presented the ceasefire proposal.
-
-In the meantime, Israeli Prime Minister Benjamin Netanyahu said that Israeli planned and day decided to invade Ruffa area in Gaza.
-
-Israel and Hamas had sent to Sunday group for discussions in Egypt.
-
-Qatar and Egypt work as intermediaries for those discussions. William Burns, the Central Information Bureau of the United States, is also joined.
-
-◼️
-
-[Data](articles/eca46dea.json)
-
-[Extended Data](ext_articles/eca46dea.ext.json)
-
----
-
-### Opportunity to make a Medical Degree from the Kotalawala
-
-*2024-04-09 15:10:37* · [`adalk`](https://www.ada.lk/breaking_news/ගෙවීමේ-පදනම-මත-කොතලාවල-සරසවියෙන්-වෛද්‍ය-උපාධියක්-ගන්න-අවස්ථාව/11-409036) · `si`
-
-The General Sir John Kotelawala Defense University has approved a Cabinet paper to include local students in medical degree programs, with foreign students also given the opportunity to enroll based on payment.
-
-🟩
-
-Cabinet approval has been approved by the General Sir John Kotelawala Defense University to include local students on payment.
-
-The Cabinet paper presented by the President has been approved by the Cabinet of Ministers.
-
-Foreign students have been given the opportunity to develop a medical degree on the basis of payment of the university.
-
-◼️
-
-[Data](articles/90959b09.json)
-
-[Extended Data](ext_articles/90959b09.ext.json)
-
----
-
-### The Election Commission launches election
-
-*2024-04-09 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195470) · `si`
-
-The Election Commission can call a presidential election after July 17, with nominations to follow. The election is likely in September or October, with a 28-35 day propaganda period. Preliminary work has started, but the decision on a general election is pending. The President's party prefers a presidential election, but some members are open to a general election. The Reconciliation and National Unity Front is ready but hasn't made a direct statement. Electoral register preparation has begun, with a deadline of May 10.
-
-🟩
-
-The Elections Commission will have the power to call the presidential election any day after July 17.
-
-After the time of the election commission, the Commissioner General of Elections will issue the gazette notification to call for nominations after the election.
-
-It is reported that the presidential election is scheduled to be held in the week or in the first week of September or October.
-
-Propaganda work is 28 or 35 days and the date of the nomination date of the nomination will be determined.
-
-The preliminary work related to the presidential election has already begun by the Elections Commission.
-
-In the meantime, the presidential election has not been made to now have been made about whether a general election is held.
-
-However, it is reported that the President has effects on the Sri Lanka General Filling party to hold a general election.
-
-A relevant discussion was held last week. The President's party first prefers the presidential election.
-
-...
-
-[Data](articles/99966857.json)
-
-[Extended Data](ext_articles/99966857.ext.json)
-
----
-
-### 7300 to the security of Islam
-
-*2024-04-09 15:04:06* · [`adalk`](https://www.ada.lk/breaking_news/ඉස්ලාම්-දේවස්ථානවල-ආරක්ෂාවට-7300/11-409035) · `si`
-
-To ensure the security of Islam, over 7,350 police officers, including 5,580 regular officers, 510 STF officers, and 1,260 officers, are deployed for the Ramazan festival.
-
-🟩
-
-Police Headquarters says that a group of over 7350 officers will be deployed to protect the Ramazan festival.
-
-The special security plan has been prepared to meet the mothervines in all Islam temples belonging to every police divisions.
-
-Accordingly, over 7,350 security personnel have already been deployed with 5,580 officers, 510 STF officers and 1,260 officers and 1,260 officers.
-
-◼️
-
-[Data](articles/46f74f6c.json)
-
-[Extended Data](ext_articles/46f74f6c.ext.json)
-
----
-
-### Teaching teacher arrested for a 15 year old school girl
-
-*2024-04-09 14:56:40* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-15ක-පාසල්-සිසුවියකට-අතවර-කළ ක්‍රීඩා-ගුරුවරයෙකු-අත්අඩංගුවට/11-409034) · `si`
-
-Buttala police arrested a 33-year-old sports teacher for a 15-month romantic relationship with a student. The teacher, from Butat, was arrested after the girl's father was informed. The girl is receiving treatment at Kandy General Hospital. The police are investigating further.
-
-🟩
-
-Buttala police have arrested the sports teacher who had a romantic teacher in a school student with a school student in a school in the Buttala Education Division.
-
-The suspect is a 33 year old resident of Butat in Buttala.The suspect has operated a romantic relationship for the 15th month of a romantic relationship, and around 12.30 pm on her house, and chat with her house, while he was about 12:30 pm on her home and behind her home behind the houseAltered in a shed.
-
-The girl is receiving treatment at the Moneragala district at the Kandy General Hospital due to warning the girl's father after learning it.
-
-The situation is not serious and the police have told the police that the school was conducting several occasions with the sports teacher of the school.
-
-The suspect has been arrested by the police and will be produced before the Wellawaya Magistrate's Court.Buttala Police OIC Mr. WMJ Bandara is conducting further investigations.
-
-◼️
-
-[Data](articles/ba22e526.json)
-
-[Extended Data](ext_articles/ba22e526.ext.json)
 
 ---

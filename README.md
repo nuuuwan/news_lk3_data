@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 16:05:07**
+As of **2024-04-09 16:18:20**
 
 ## Newspaper Stats
 
-*Scraped **18,071** Articles*
+*Scraped **18,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,55 +18,159 @@ economynextcom | 1,004
 adalk | 1,524
 tamilmirrorlk | 2,121
 adaderanalk | 2,171
-virakesarilk | 2,661
-dailymirrorlk | 2,757
-adaderanasinhalalk | 2,929
+virakesarilk | 2,664
+dailymirrorlk | 2,758
+adaderanasinhalalk | 2,930
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,068 (100.0%) of 18,071 articles have been extended.
+18,071 (100.0%) of 18,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### තවත් ශ්‍රී ලංකා තරුවකට පායන්න සුවිශේෂී වරමක්
+### ඉංග්‍රීසි ගුරුවරු 2500ක් බඳවා ගැනීමට අනුමැතිය
+
+*2024-04-09 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195474) · `si`
+
+ඉංග්‍රීසි මාධ්‍යයෙන් ඉගැන්වීම් සිදුකරන ගුරුවරුන් 2,500ක් බඳවාගැනීමට කැබිනට් අනුමැතිය හිමිවී තිබේ.
+
+“සැමට ඉංග්‍රීසි” වැඩසටහන යටතේ මෙම යෝජනාව සඳහා කැබිනට් අනුමැතිය ලැබී ඇත.
+
+ඉංග්‍රීසි මාධ්‍යයෙන් සාමාන්‍ය පෙළ විෂයන් ඉගැන්වීම සඳහා දැනට අනුමත ගුරුවරුන් සංඛ්‍යාව 4,441කි.
+
+නමුත් ඒ සඳහා ගුරුවරුන් 6,500ක පමණ අවශ්‍යතාවයක් පවතින බවත්, බොහෝ පාසල්වල දැනට සේවයේ නියුතු සංඛ්‍යාවට අතිරේකව අවශ්‍ය කටයුතු සැලසුම් කරගනිමින් ඉංග්‍රීසි මාධ්‍යයෙන් ඉගැන්වීම් පුළුල් කර ඇති බවත් පාසල් 765ක් සම්බන්ධයෙන් සිදු කරන ලද ඇගයීමකදී හඳුනාගෙන තිබේ.
+
+ඒ අනුව, දැනට ඉංග්‍රීසි මාධ්‍යයෙන් විෂයයන් ඉගැන්වීම් සිදු කරනු ලබන පාසල් 765ක ප්‍රමාණය 2024 වර්ෂය තුළදී පාසල් 1,000ක් දක්වා වැඩි කරමින් ගුරු අවශ්‍යතාව සම්පූර්ණ කිරීම සඳහා ඉංග්‍රීසි මාධ්‍යයෙන් විෂයයන් උගන්වනු ලබන අනුමත ගුරු සංඛ්‍යාව 6,500 ක් දක්වා වැඩි කිරීමේ අරමුණින් අමාත්‍ය මණ්ඩලය මෙම තීරණය ගෙන ඇත.
+
+◼️
+
+[Data](articles/fa84098d.json)
+
+---
+
+### அரிசி விலையை குறைக்குமாறு கோரி வவுனியாவில் கவனயீர்ப்பு போராட்டம்
+
+*2024-04-09 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180824) · `ta`
+
+அத்தியாவசிய பொருட்களின் விலை ஏற்றத்தைிற்கு எதிராகவும் விலை குறைப்பை முன்னெடுக்கக்கோரியும் வவுனியா இராசேந்திரங்குளத்தில் இன்று கவனயீர்ப்பு போராட்டம் ஒன்று முன்னெடுக்கப்பட்டுள்ளது.
+
+இதன்போது விவசாயிகளுக்கு இலவச திட்டங்களை வழங்கு, பட்டினிச்சாவு எதிர்காலத்தில் வேண்டாம், மூன்று வேளை உணவு எமக்கு வேண்டும் போன்ற பல்வேறு பதாதைகளை தாங்கியவாறு போராட்டத்தில் ஈடுபட்டனர்.
+
+ஒட்டுமொத்த இலங்கை மக்களின் அடிப்படை உணவு அரிசிச் சோறு ஆகும். அந்த வகையில் தற்காலத்தில் எமது இலங்கை நாட்டில் ஏற்பட்டுள்ள பொருளாதார நெருக்கடியும் பொருட்களின் விலையேற்றமும் கிராம மட்டங்களிலுள்ள வறிய மற்றும் நடுத்தர குடும்பங்களிலுள்ள பெண்கள் மற்றும் பிள்ளைகள் மத்தியில் பாரிய உணவுப் தட்டுப்பாடு மட்டுமல்லாது போசாக்கு குறைபாடுகளையும் ஏற்படுத்தியுள்ளது.
+
+...
+
+[Data](articles/7059b8ee.json)
+
+---
+
+### பண்டிகை காலத்தை முன்னிட்டு சுகாதார வழிகாட்டி வெளியானது
+
+*2024-04-09 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180817) · `ta`
+
+தமிழ் சிங்கள பண்டிகையை முன்னிட்டு நடைபெறும் விளையாட்டு நிகழ்வுகளில் கலந்துகொள்ளும் போது கடைப்பிடிக்க வேண்டிய சுகாதார வழிகாட்டி ஆலோசனைகளை சுகாதார அதிகாரிகள் வெளியிட்டுள்ளனர்.
+
+இது, “பண்டிகைக் காலங்களில் ஏற்பாடு செய்யப்படும் விளையாட்டு நிகழ்வுகளில் ஏற்படுகின்ற விபத்துக்கள் மற்றும் கடுமையான மருத்துவ நிலைமைகளை தடுப்பதற்கான வழிகாட்டுதல் ” என்ற தலைப்பில் வெளியிட்டப்பட்டுள்ளது.
+
+"தலையணை சண்டை" மற்றும் " கண்கட்டி முட்டி உடைத்தல்" போன்ற பாரம்பரிய விளையாட்டுகளாக இருந்தாலும் சரி அல்லது மரதன் ஓட்டப்போட்டி, சைக்கிள் ஒட்டப்போட்டி போன்ற நிகழ்வாக இருந்தாலும் அபாயங்கள் எற்படும்.
+
+எனவே, பண்டிகை கால விளையாட்டு நிகழ்வுகளின் போது பொது சுகாதாரம் மற்றும் பாதுகாப்பிற்கு முன்னுரிமை அளிப்பதன் முக்கியத்துவத்தை இந்த வழிகாட்டுதல்கள் வலியுறுத்துகின்றன.
+
+அதில், விபத்துக்கள் மற்றும்  கடுமையான மருத்துவ நிலைமைகள் போன்ற அபாயங்களைக் குறைக்க  நிகழ்வு ஒருங்கிணைப்பாளர்கள், போட்டியாளர்கள் மற்றும் சமூக குழுக்களுக்கு அத்தியாவசிய உத்திகளை வழங்குகின்றன.
+
+...
+
+[Data](articles/31c8e1f7.json)
+
+---
+
+### A special mandate to flee another Sri Lankan star
 
 *2024-04-09 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195473) · `si`
 
-විජයකාන්ත් වියස්කාන්ත් සන්රයිසස් හයිද්‍රාබාද් සංචිතයට කැඳවීමට තීරණය කර ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Wijayakaman summons Hyderabad Sunrisers for Sri Lankan Thunu Hasaranga, who can't play due to a non-healing condition. Visakhath, a bowler, replaces Hasaranga.
 
-එම වාර්තා පෙන්වාදෙන්නේ ආබාධයක ලක්වීම හේතුවෙන් මෙවර IPL තරගාවලිය අහිමි වූ වනිඳු හසරංග වෙනුවට ඔහු මෙලෙස සන්රයිසස් හයිද්‍රාබාද් සංචිතයට කැඳවා ඇති බවය.
+🟩
 
-ශ්‍රී ලංකා තුන් ඉරියව් ක්‍රීඩක වනිඳු හසරංග මෙවර IPL තරගාවලියේ හයිද්‍රාබාද් සන්රයිසස් කණ්ඩායම නියෝජනය කිරීමට නියමිතව සිටියේය.
+Wijayakaman has decided to summon the Hyderabad Sunrisers Hyderabad, foreign media reports.
 
-කෙසේ වෙතත් ඔහුගේ ආබාධ තත්ත්වය සුව නොවීම හේතුවෙන් වනිඳු හසරංගට IPL තරගාවලියට ක්‍රීඩා කිරීමට නොහැකි බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලයට පසුගියදා දැනුම්දී තිබුණි.
+These reports show that he had been called to Sunrises Hyderabad reserve that he had lost the IPL to lose this year's IPL tournament due to disability.
 
-ඒ අනුව වනිඳු වෙනුවට LPL තරගාවලියෙන් කරළියට පැමිණි විජයකාන්ත් වියස්කාන්ත් සන්රයිසස් හයිද්‍රාබාද් සංචිතයට එක්කර ගැනීමට නියමිත බව වාර්තා වෙයි.
+Sri Lanka's Thunu Hasaranga was due to represent the Hyderabad Sunrizers in the IPL match this year.
 
-වියස්කාන්ත් මේ වනවිට සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායමේ දැළ තුළ පන්දුයවන්නෙකු ලෙස විශිෂ්ට රාජකාරියක් ඉටුකරන අතර ඔහු නිමා වූ අයි එල් ටී තරගාවලියේදී පන්දුවෙන් කැපීපෙනෙන දස්කම් දැක්වීය.
+However, Sri Lanka Cricket recently informed the Indian Cricket Board that he could not play the IPL tournament due to his non-healing condition.
+
+Accordingly, Wijayakaan Visakhath, Vijayakan, who arrived in the LPL tournament, is to be brought to the Hyderabad reserve.
+
+Viscan is currently serving as a bowler in the net in the Hyderabad team of the Hyderabad team, and he excelled in the ball.
 
 ◼️
 
 [Data](articles/ce554f19.json)
 
+[Extended Data](ext_articles/ce554f19.ext.json)
+
 ---
 
-### කෙහෙළියගේ පෙත්සමට එරෙහිව අතුරු පෙත්සමක්
+### Interim petition against Keheliya Petition
 
 *2024-04-09 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195472) · `si`
 
-හිටපු සෞඛ්‍ය ඇමති කෙහෙළිය රඹුක්වැල්ල මහතා ගොනුකර ඇති පෙත්සමට මැදිහත්වී කරුණු දැක්වීම සඳහා ශ්‍රී ලංකා නීතිඥ සංගමය විසින්ද අතරමැදි පෙත්සමක් ඉදිරිපත් කර තිබේ.
+The Bar Association of Sri Lanka has submitted an interim petition against Keheliya Rambukwella's petition for a termination order in the Maligamanganda Magistrate's Court.
 
-ඒ, පොදු දේපොළ පනත යටතේ නඩු විභාගය අවසන් වන තෙක් තමන්ව රක්ෂිත බන්ධනාගාරගත කිරීමට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය දී ඇති නියෝගය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා කෙහෙළිය රඹුක්වැල්ල ගොනුකර ඇති පෙත්සම සම්බන්ධයෙනි.
+🟩
 
-අතරමැදි පෙත්සම තුළින් ශ්‍රී ලංකා නීතිඥ සංගමය ඉල්ලා සිටින්නේ කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කර තිබෙන මෙම පෙත්සම නිෂ්ප්‍රභ කරන ලෙසය.
+The Bar Association of Sri Lanka has also submitted an intermediate petition in the petition filed by the former Health Minister Keheliya Rambukwella.
+
+The petition filed by Keheliya Rambukwella to issue a termination order to issue a termination order to issue the order in the Maligamanganda Magistrate's Court.
+
+The Bar Association of Sri Lanka demands the Bar Association of Sri Lanka by the Intermediate Petition, the petition filed by Keheliya Rambukwella.
 
 ◼️
 
 [Data](articles/f9bcb567.json)
+
+[Extended Data](ext_articles/f9bcb567.ext.json)
+
+---
+
+### Sri Lanka hikes candidate deposits for Presidential Election
+
+*2024-04-09 15:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-hikes-candidate-deposits-for-Presidential-Election/108-280475) · `en`
+
+Colombo, April 09 (Daily Mirror) - The Cabinet of Sri Lanka has given the green light to an increase in candidate deposits for Presidential Election.
+
+According to the newly sanctioned regulations, candidates representing recognized political parties will now be required to deposit Rs. 2.6 million, marking a substantial rise from the previous amount. -
+
+Similarly, independent candidates must place a deposit of Rs. 3.1 million to vie for the presidential seat.
+
+The proposal to amend the pertinent regulations was jointly presented by President Ranil Wickremesinghe and Minister of Justice, Wijeyadasa Rajapakshe.
+
+◼️
+
+[Data](articles/7a3bd494.json)
+
+---
+
+### மலையக பெருந்தோட்டத் தொழிலாளர்களுக்கு சம்பள உயர்வு : சர்வதேச தொழிலாளர் சம்மேளனம் அமைச்சர் ஜீவனிடம் தெரிவித்துள்ள விடயம்
+
+*2024-04-09 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/180813) · `ta`
+
+மலையக பெருந்தோட்டத் தொழிலாளர்களுக்கு நியாயமான சம்பள உயர்வு கிடைக்கப்பெறுவதற்கு சர்வதேச தொழிலாளர் சம்மேளனம் தமது அதிகார எல்லைக்குட்பட்ட வகையில் அனைத்து அறிவித்தல்களையும் விடுத்துள்ளது.
+
+சர்வதேச தொழிலாளர் சம்மேளனத்தின் இலங்கை மற்றும் மாலைதீவு ஆகிய நாடுகளுக்கான இயக்குநர் ஜொனி சிம்ப்சனிற்கும், இ.தொ.காவின் பொதுச்செயலாளரும், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமானிற்கும் இடையிலான சந்திப்பு கொழும்பு அமைச்சில் (08.04.2024) மாலை நடைபெற்றது.
+
+மேற்படி சந்திப்பின்போது முக்கிய பல விடயங்கள் தொடர்பில் கலந்துரையாடப்பட்டுள்ளதுடன், தோட்டத் தொழிலாளர்களுக்கான சம்பள உயர்வு குறித்தும் கூடுதல் கவனம் செலுத்தப்பட்டுள்ளது.
+
+பெருந்தோட்டத் தொழிலாளர்களுக்கு சம்பள உயர்வை பெற்றுக்கொடுப்பதற்கு முன்னெடுக்கப்பட்டு வரும் நகர்வுகள் பற்றி மேற்படி பிரதிநிதிகளிடம் ஜீவன் தொண்டமான் விளக்கமளித்தார். அத்துடன், இந்த விடயத்தில் உள்ள சவால்கள் பற்றியும் எடுத்துரைத்துள்ளார்.
+
+...
+
+[Data](articles/7129fd37.json)
 
 ---
 
@@ -89,6 +193,8 @@ However, it is expected that the Presidential Election is likely to take place i
 ...
 
 [Data](articles/2eeb1522.json)
+
+[Extended Data](ext_articles/2eeb1522.ext.json)
 
 ---
 
@@ -1906,7 +2012,7 @@ In cases where strong winds and lightning impacts occur. Remble
 
 ---
 
-### Sri Lanka to publish ‘indicative prices’ for 15 essential goods as rupee strengthens
+### Sri Lanka to publish ‘indicative prices’ for essential goods as rupee strengthens
 
 *2024-04-09 07:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-publish-indicative-prices-for-15-essential-goods-as-rupee-strengthens-157960/) · `en`
 
@@ -2185,131 +2291,5 @@ They provide organizers, participants and communities with essential strategies 
 [Data](articles/96c43ca4.json)
 
 [Extended Data](ext_articles/96c43ca4.ext.json)
-
----
-
-### National Education Policy
-
-*2024-04-09 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/180772) · `ta`
-
-The Jaffna University Teachers Union opposes the National Education Policy Framework (NEPF 2023-2033), arguing it threatens Sri Lanka's long-term free education tradition by prioritizing profit over education quality and welfare. NEPF aims to transform education into a profit-making business, abolishing state education and the University Grants Commission (UGC), and introducing university fees. It also focuses on economics and digital education, ignoring broader educational goals like literacy and critical thinking. The union calls for the withdrawal of these reforms and prioritizes the interests of the people over market forces.
-
-🟩
-
-The Jaffna University Teachers Union alleges that the National Education Policy Framework (NEPF) is a significant threat to the tradition of long -term free education in Sri Lanka.
-
-As a Federation of University Teachers' Association (FUTA), we strongly oppose the proposed National Education Policy Framework (NEPF 2023-2033), which is a significant threat to our country's long-term free education heritage.
-
-The NEPF program transforms the education system into a profit -making business by highlighting the government's responsibility in education, the abolition of state education, and the abolition of the University Grants Commission (UGC).
-
-These reforms prior the profit rather than the quality of education and the welfare of students and educators. By introducing tariffs at the university level and withdrawing state funds for higher education, the NEPF undermines the equal access policy for education centered on Sri Lanka's social structure after independence.
-
-...
-
-[Data](articles/53b0e34d.json)
-
-[Extended Data](ext_articles/53b0e34d.ext.json)
-
----
-
-### The conceptual change in the community on the alternatives will be made - Minister of State
-
-*2024-04-09 02:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180774) · `ta`
-
-The Minister of State announced a shift in community attitudes towards "breaking the pot of luck and feeding the blind" during New Year celebrations, aiming for ideological change. All banks under the Samurdhi program will host 1089 New Year events nationwide. The Social Reinforcement Minister highlighted economic improvements and the goal to become a developed economy by 2024, focusing on consumer cost-of-living solutions. Despite economic challenges, people are celebrating as usual, with special events for the disabled.
-
-🟩
-
-During the New Year celebration this time. Social Empowerment Minister Anubhaskwal said that in order to bring about ideological change in society, feeding and feeding the blind to "breaking the lucky pot and feeding the blind."
-
-The Minister of State pointed out that all banks under the Samurdhi program have made arrangements to hold 1089 New Year celebrations nationwide for the Sinhala and Tamil New Year.
-
-Minister of Social Reinforcement Anupa Paskal said this at a media briefing held at the Presidential Media Center on Monday (08).
-
-“After the last quarter of this year, we have declined economic wrinkles in this country and we have the ability to become an developed economy in 2024. The main objective of our economic plan was to provide solutions to the cost of living in the consumer.
-
-But compared to last year, people are engaged in their daily activities to celebrate the New Year as usual.
-
-...
-
-[Data](articles/86d33a94.json)
-
-[Extended Data](ext_articles/86d33a94.ext.json)
-
----
-
-### Small Medium Modern Trade  outlets gaining traction with  SL’s middle class: Study
-
-*2024-04-09 02:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Small-Medium-Modern-Trade-outlets-gaining-traction-with-SLs-middle-class-Study/108-280438) · `en`
-
-SMMTs became most visited place of purchase for 22% of  lower-middle-income consumers
-
-Small groceries remained as most visited place of purchase  among 44% lower-middle-class consumers
-
-The Small Medium Modern Trade (SMMT) outlets are  rapidly capturing the attention of Sri Lanka’s middle class,  with the traditional retailers swiftly adapting to this shifting  retail landscape.  A recent survey by Colombo-based independent research agency  Sparkwinn Research indicated that this trend is driven by the changing  consumer behaviour patterns, influenced by the soaring cost of living. According to the findings of the survey, the SMMTs became  the most visited place of purchase for 22 percent of lower-middleincome (Rs.50,000-100,000 monthly income) consumers, up from 15  percent three months ago.
-
-...
-
-[Data](articles/072e9c3d.json)
-
-[Extended Data](ext_articles/072e9c3d.ext.json)
-
----
-
-### Flower spring is the beginning of the University of Peradeniya
-
-*2024-04-09 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180773) · `ta`
-
-The University of Peradeniya's Flower Spring, a global beauty, starts with Dolichandra Unguis-Cati blooming in Mara trees, attracting foreigners and locals alike.
-
-🟩
-
-Flower spring has begun at the University of Peradeniya which is considered one of the world's beautiful universities.
-
-Dolichandra Unguis-Cati will bloom annually in the Mara trees on the university road, but this time the flowers have begun to bloom in the second week of April.
-
-The flower spring of the Handana Vasina Yellow Rain is popular among foreign people.
-
-It is a wonderful scene in which not only university students but also professors and others enjoy this beauty.
-
-◼️
-
-[Data](articles/8ef343e7.json)
-
-[Extended Data](ext_articles/8ef343e7.ext.json)
-
----
-
-### World War II: How did Japan report to Sri Lanka and report the national newspapers?
-
-*2024-04-09 02:17:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4nrg34er53o) · `si`
-
-During WWII, Sri Lanka, under British rule, faced a Japanese air attack on April 5, 1942, targeting Colombo and Trincomalee. The attack, reported in national newspapers, caused significant damage but was not as severe as initially feared.
-
-🟩
-
-World War II: How did Japan report to Sri Lanka and report the national newspapers?
-
-Although Sri Lanka was not a party of World War II, Sri Lanka had to face a plane attack in Japan as the British rulership of Sri Lanka.
-
-This air attack on the emperor of Hirohu was raised from April 5, 1942, and April 5 was aimed at the Easter Sunday of the year. 82 years have been launched by the attack.
-
-Unexpectedly 125 aircraft surrounded in Colombo and Racecose, Ratmalana and Racecose, was held on the round aircraft in Ratmalana and Racecose.
-
-However, the Royal Air Force faced this unexpected air strike, however, caused a large loss.
-
-Several soldiers were killed and several vessels were killed and several aircrafts were destroyed.
-
-By 1942, Sri Lanka's printed journal industry was highly advanced and 5th April 5, 1942, newspapers were reported in this way.
-
-On April 10, 1942, a photo of a helman in Colombo on 10 April 1942 was published on the ground.
-
-The newspaper was reported from Trincomalee.
-
-...
-
-[Data](articles/c73fb393.json)
-
-[Extended Data](ext_articles/c73fb393.ext.json)
 
 ---

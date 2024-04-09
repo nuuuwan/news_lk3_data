@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-09 21:34:27**
+As of **2024-04-09 21:53:05**
 
 ## Newspaper Stats
 
-*Scraped **18,135** Articles*
+*Scraped **18,138** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,46 +17,102 @@ islandlk | 992
 economynextcom | 1,013
 adalk | 1,531
 tamilmirrorlk | 2,125
-adaderanalk | 2,177
+adaderanalk | 2,178
 virakesarilk | 2,676
-dailymirrorlk | 2,769
-adaderanasinhalalk | 2,940
+dailymirrorlk | 2,770
+adaderanasinhalalk | 2,941
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,134 (100.0%) of 18,135 articles have been extended.
+18,135 (100.0%) of 18,138 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-09 (Tuesday)
 
-### සූර්ය ආලෝකය පතිතවීම සදහටම නතර වුවහොත් කුමක් සිදු වෙයිද ?
+### රාමසාන් හෙට
+
+*2024-04-09 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195486) · `si`
+
+මුස්ලිම් ජනතාව හෙට (10) දින රාමසාන් උත්සවය සමරන බව කොළඹ මහ පල්ලිය නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/46a65df4.json)
+
+---
+
+### Sajith not ready for Presidential debate hosted by Daily Mirror?
+
+*2024-04-09 21:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-not-ready-for-Presidential-debate-hosted-by-Daily-Mirror/108-280505) · `en`
+
+Colombo, April 09 (Daily Mirror) -  The participation of Opposition Leader Sajith Premadasa for a Presidential debate together with President Ranil Wickremesinghe and NPP Leader Anura Kumara Dissanayake hosted by the Daily Mirror is uncertain with SJB Manager Nalin Banadara Jayamaha stating that it is unbelievable that Dissanayake has agreed to it.
+
+"It is unbelievable that Dissanayake has agreed for a debate with the President and Mr. Premadasa after declining to accept the challenge thrown at him by us, and agreeing for the debate with Mr. Premadasa and President Wickremesinghe.
+
+"We are ready for the debate which was suggested by us. Then the economic experts of both parties could have their debate," he added.
+
+Meanwhile Mr. Premadasa told a public meeting in the North-Western Province that the most important way for a political leader is to compete with his rivals to carry out development work in a competitive  way."
+
+...
+
+[Data](articles/33a9e03e.json)
+
+---
+
+### Mahinda Rajapaksa tasked with selecting SLPP’s presidential candidate
+
+*2024-04-09 21:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98544/mahinda-rajapaksa-tasked-with-selecting-slpps-presidential-candidate) · `en`
+
+The Sri Lanka Podujana Peramuna (SLPP) has assigned the responsibility of making a decision regarding the SLPP’s candidate for the upcoming presidential election and communicating it to the general public, to party leader and former President Mahinda Rajapaksa.
+
+SLPP Parliamentarian Rohitha Abeygunawardena stated that this decision was taken during the party’s politburo meeting which was held this afternoon (09).
+
+The SLPP’s politburo led by party leader, former President Mahinda Rajapaksa and attended by founder of the party Basil Rajapaksa convened today in Colombo.
+
+◼️
+
+[Data](articles/e972b0c5.json)
+
+---
+
+### What happens if the solar light stops forever?
 
 *2024-04-09 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195485) · `si`
 
-මහ පොළොවට සූර්ය ආලෝකය පතිතවීම සදහටම නතර වුවහොත් කුමක් සිදුවේද ? යන්න බොහෝ කලක සිට නැඟුණු ප්‍රශ්නයකි.
+If solar light stops, trees lose biodiversity, plants survive a few years, and Earth's temperature drops, becoming ice in three years. Oxygen allows life to persist for thousands of years. The Earth has experienced a total solar eclipse, visible in places like England, Northern Ireland, and Mexico.
 
-ඊට සුප්‍රකට තාරකා විද්‍යාඥයෙකු වූ කාල් සාගන් මෙවැනි පිළිතුරක් ලබාදී තිබුණි.
+🟩
 
-දිනක් තුළ ගස්වැල් සියල්ල මැරීයාම ආරම්භ වනවා වගේම මහපොළොවේ සියලු ස්වභාවික ජෛව විවිධත්වයන් නැතිවී යාම අපේක්ෂා කළ හැකිය.
+What happens if the solar light of the earth stops forever?It was a question raised from long.
 
-හිරුඑළිය නැතිවීමත් සමග ප්‍රභාසංස්ලේෂණය වහා නතර වුවත් ශක්තිය ගබඩා කර ඇති දැවැන්ත ශාකවලට වසර කිහිපයක් පැවතිය හැකි වෙයි.
+Karl Sagan, a well-known astronomer, had given such an answer.
 
-සතියක් තුළ පෘථිවියේ උෂ්ණත්වය සෙල්සියස් අංශක 0 දක්වා පහත වැටීමත්, හිරුඑළිය නොමැති නිසා තාපය මුදාහැරීමෙන් පොළව ශීත වීමත් අත්දැකිය හැකිවේවි.
+In a day, all the trees begin to lose all natural biodiversity in the earth.
 
-වසරක් තුළ පෘථිවියේ උෂ්ණත්වය සෙල්සියස් අංශක ඍණ 73 දක්වා පහත වැටීමත්, වසර තුනක් තුළ සාගර සියල්ල අයිස් බවට පත්වීමත් අපේක්ෂා කළ හැකිය.
+With the loss of the lightsynthesis, the massive plants can last for a few years.
 
-කෙසේ නමුත් වායුගෝලයේ ගබඩා වී ඇති ඔක්සිජන් හේතුවෙන් මිනිසාට තවත් වසර දහස් ගණනක් ජීවය පවත්වා ගැනීමට හැකියාව පවතින බව කාල් සාගන්ගේ අදහසය.
+In a week, the heat of heat can experience the failure of the earth due to the drop of the earth, as the sun does not fall from 0 degrees Celsius.
 
-එහෙත් හිරුඑළිය ගස්වැල් ජල ධාරා නොමැති ලෝකයක් ගැන අපට මනෝ චිත්‍රයක් මවාගැනීම අපහසුය.
+In a year, the Earth's temperature falls to 73 degrees Celsius can be expected to become ice in three years.
 
-පෘථිවිවාසීන් හිරු මුළුමණින්ම මුවා වූ පූර්ණ සූර්යග්‍රහණයක අත්දැකීමක් ඊයේ විඳ ගත්තේය.
+However, the oxygen in the atmosphere is capable of maintaining life thousands of years.
+
+But it is difficult to paint a psychological to a world that does not have a waterholding in the sunlight.
+
+The Earth suffered an experience in a fully deer eclipse of the sun.
+
+But it was possible to see the full eclipse, England and Northern Ireland.
+
+It was reported that the eclipse appeared for the North Arctic Pole.
 
 ...
 
 [Data](articles/698a0e91.json)
+
+[Extended Data](ext_articles/698a0e91.ext.json)
 
 ---
 
@@ -2245,73 +2301,5 @@ Now, prior to the ODI series against South Africa, the 34-year-old emphasised th
 [Data](articles/2ed01e83.json)
 
 [Extended Data](ext_articles/2ed01e83.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-04-09 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180804) · `ta`
-
-Today's US $294.0863 = Rs.
-
-🟩
-
-The US $ 294.0863 was recorded at Rs.
-
-◼️
-
-[Data](articles/e2a62c6f.json)
-
-[Extended Data](ext_articles/e2a62c6f.ext.json)
-
----
-
-### March marks yet another record in global heat
-
-*2024-04-09 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98532/march-marks-yet-another-record-in-global-heat) · `en`
-
-The world just experienced its warmest March on record, capping a 10-month streak in which every month set a new temperature record, the European Union’s climate change monitoring service said on Tuesday.
-
-Each of the last 10 months ranked as the world’s hottest on record, compared with the corresponding month in previous years, the EU’s Copernicus Climate Change Service (C3S) said in a monthly bulletin.
-
-The 12 months ending with March also ranked as the planet’s hottest ever recorded 12-month period, C3S said. From April 2023 to March 2024, the global average temperature was 1.58 degrees Celsius above the average in the 1850-1900 pre-industrial period.
-
-“It’s the long-term trend with exceptional records that has us very concerned,” C3S Deputy Director Samantha Burgess told Reuters.
-
-“Seeing records like this - month in, month out - really shows us that our climate is changing, is changing rapidly,” she added.
-
-...
-
-[Data](articles/9d13c97d.json)
-
-[Extended Data](ext_articles/9d13c97d.ext.json)
-
----
-
-### The horrific accident that kills Little Son
-
-*2024-04-09 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195464) · `si`
-
-A tragic accident near Wellawaya resulted in the death of a 2-month-old child. A collision involving a three-wheeler and a tipper led to the child's demise. The parents of the three-wheeler were hospitalized, with the father being admitted to Wellawaya Base Hospital and the mother transferred to Moneragala district hospital. The deceased child was from Anaduwella, Wellawaya. The suspect driver is under investigation by Wellawaya Police.
-
-🟩
-
-A two-month-old child killed in a nearby area near Wellawaya, Wellawaya main road.
-
-Three wheeler and a tipper collided with the accident.
-
-The mother and father of the three-wheeler and father was admitted to the Wellawaya Base Hospital.
-
-The mother was later transferred to the Moneragala district hospital for further treatment, "Ada Derana reporter said.
-
-The deceased has been identified as a child of a resident of Anaduwella area in Wellawaya.
-
-The suspect driver was to be produced before the Wellawaya Magistrate's Court and the officers of the Wellawaya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/07543a77.json)
-
-[Extended Data](ext_articles/07543a77.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 10:03:25**
+As of **2024-04-10 10:18:16**
 
 ## Newspaper Stats
 
-*Scraped **18,223** Articles*
+*Scraped **18,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,61 +14,163 @@ dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 1,001
 islandlk | 1,001
-economynextcom | 1,015
-adalk | 1,532
+economynextcom | 1,019
+adalk | 1,533
 tamilmirrorlk | 2,136
 adaderanalk | 2,183
 virakesarilk | 2,694
 dailymirrorlk | 2,782
-adaderanasinhalalk | 2,951
+adaderanasinhalalk | 2,952
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,217 (100.0%) of 18,223 articles have been extended.
+18,223 (100.0%) of 18,229 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### තවත් පාතාල කල්ලි සාමාජිකයින් පිරිසක් අත්අඩංගුවට
+### අස්වැසුමට තවත් පවුල් 182,140ක් සුදුසුකම් ලබයි
+
+*2024-04-10 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195498) · `si`
+
+අභියාචනා සහ විරෝධතා සලකා බැලීමෙන් පසු අස්වැසුම ප්‍රතිලාභ ලබාගැනීම සඳහා තවත් පවුල් 182,140ක් සුදුසුකම් ලබා ඇතැයි මුදල් රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා පවසයි.
+
+අමාත්‍යවරයා සඳහන් කරන්නේ, ඔවුන්ට අදාළ හිඟ මුදල් ඇතුළු සියලු ගෙවීම් අප්‍රේල් මස 18 වැනි දා වන විට ගිණුම් ගත කිරීමට කටයුතු කරන බවය.
+
+ඒ අනුව දැනට 1,854,000 අස්වැසුම ප්‍රතිලාභ ලබා ගන්න අතර රුපියල් බිලියන 58.5ක මුදලක් ඒ වෙනුවෙන් රජය වැය කරන බව අමාත්‍යවරයා සඳහන් කළේය.
+
+මේ අතර අස්වැසුම ප්‍රතිලාභ ලබාගැනීම සඳහා සියලු සුදුසුකම් සම්පූර්ණ කළ පවුල් 200,000ක් පමණ මෙතෙක් සිය බැංකු ගිණුම් ආරම්භ කර ඊට අදාළ තොරතුරු යාවත්කාලීන කිරීමට අපොහොසත් වී ඇතැයි අමාත්‍යවරයා සඳහන් කළේ ය.
+
+ඒ සම්බන්ධයෙන් ප්‍රාදේශීය ලේකම් කාර්යාල මඟින් සහ ජනමාධ්‍ය මඟින් දැනුවත් කිරීම සිදුකළ ද මෙතෙක් එම පවුල්වල සාමාජිකයන්ගෙන් ප්‍රතිචාර නොමැති බව අමාත්‍යවරයා සඳහන් කළේය.
+
+අස්වැසුම දෙවැනි අදියර සඳහා අයදුම්පත් 400,000කට අධික සංඛ්‍යාවක් ලැබී ඇති අතර ඉන් 286,000ක් පමණ මේ වන විට පද්ධතියට ඇතුළත් කර ඇති බවයි අමාත්‍යවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/0c7123d9.json)
+
+---
+
+### Sri Lanka President does not want to create election mentality amid reforms: state minister
+
+*2024-04-10 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-does-not-want-to-create-election-mentality-amid-reforms-state-minister-158105/) · `en`
+
+ECONOMYNEXT – Sri Lanka Presiednt Ranil Wickremesinghe does not want to create an election mentality earlier than the declaration by Election Commission amid the current reforms to strengthen a battered economy, State Media Minister Shantha Bandara said.
+
+Election Commission (EC) officials have said a presidential election is likely to be held between September 18 and October 18 this year as per the island nation’s constitution.
+
+President Wickremesinghe is expected to contest in a common alliance with the backing of some opposition party strongmen. However, he has not declared his candidacy yet.
+
+“We still have not given a major focus on the elections. The reason is because there are several months remaining before the election,” Bandara told reporters at a media briefing on Tuesday (08).
+
+“President and we expect to take the current (reform) program as it is without creating an election mentality,” he said.
+
+...
+
+[Data](articles/50da89c0.json)
+
+---
+
+### Another underworld gang arrested
 
 *2024-04-10 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195497) · `si`
 
-විශේෂ පොලිස් කණ්ඩායම් 20ක් යොදවා සිදුකරනු ලබන මෙහෙයුම්වලදී තවත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් 09දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+Police arrested 9 more organized crime gangs, 11 individuals, and have made 363 arrests in organized criminal activities so far.
 
-ඔවුන් සමග විවිධ සම්බන්ධතා පවත්වමින් අපරාධවලට සහාය වූ බවට සැක කෙරෙන පුද්ගලයන් 11 දෙනෙකු ද පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-පසුගිය 19 වනදා සිට ඊයේ (07) දින දක්වා සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් 363 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+Police say that nine more organized crime gangs were arrested in the operations carried out by 20 special teams.
+
+Police have also seized 11 persons who were involved in criminal relations with them.
+
+Police have arrested 363 organized criminal criminal criminal criminal criminal criminal crime until yesterday.
 
 ◼️
 
 [Data](articles/1d13ca2e.json)
 
+[Extended Data](ext_articles/1d13ca2e.ext.json)
+
 ---
 
-### சஜித் பிரேமதாசவின் நோன்புப் பெருநாள் வாழ்த்துச் செய்தி!
+### Sajith Premadasa's fasting message!
 
 *2024-04-10 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/180864) · `ta`
 
-இலங்கையர்கள் மற்றும் உலகெங்கிலும் உள்ள அனைத்து முஸ்லிம் சகோதர சகோதரிகளுக்கும் அமைதியான, நல்லிணக்கம் கொண்ட சகோதரத்துவம் வாய்ந்த ஈதுல் பித்ர் பெருநாளாக அமைய எனது மனமார்ந்த வாழ்த்துக்களை தெரிவித்துக் கொள்கிறேன் என்று சஜித் பிரேமதாச நோன்புப் பெரு­நாளை முன்­னிட்டு விடுத்­துள்ள வாழ்த்துச் செய்­தியில் தெரி­வித்­துள்ளார்.
+"Sajith Premadasa congratulates Muslims worldwide on Eidul Fitr, celebrating peace and brotherhood."
+
+🟩
+
+"I would like to convey my heartfelt congratulations to the peaceful, reconciliation brotherly Eidul Fitr, to all the Muslim brothers and sisters around the world."
 
 ◼️
 
 [Data](articles/f96ce8f7.json)
 
+[Extended Data](ext_articles/f96ce8f7.ext.json)
+
 ---
 
-### டிஜிட்டலில் வெளியாகும் 'பிரேமலு'
+### 'Premulu' released in digital
 
 *2024-04-10 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180861) · `ta`
 
-சிறிய முதலீட்டில் தயாராகி, பட மாளிகையில் வெளியாகி பிரம்மாண்டமான வெற்றியை பெற்ற பிறகு, குறுகிய கால அவகாசத்திற்குள் அத்திரைப்படம் டிஜிட்டல் தளத்தில் வெளியாவது தற்போதைய ட்ரெண்டிங். டிஜிட்டல் தளத்தை பார்வையிடும் ரசிகர்களின் எண்ணிக்கை கோடி கணக்கில் இருப்பதால்  அவர்களை வாரம் தோறும் திருப்திப்படுத்த புதிய திரைப்படங்களை வெளியிட வேண்டிய கட்டாயம் டிஜிட்டல் தள நிறுவனங்களுக்கு ஏற்பட்டிருக்கிறது. அந்த வகையில் உலகம் முழுவதும் ஏராளமான தமிழ் ரசிகர்களை சந்தாதாரராக கொண்டிருக்கும் டிஸ்னி பிளஸ் ஹாட்ஸ்டார் டிஜிட்டல் தளத்தில் தென்னிந்திய ரசிகர்களை மகிழ்வித்த 'பிரேமலு' படம் வெளியாகிறது. ஏப்ரல் 12ஆம் திகதியன்று இந்த திரைப்படம் டிஸ்னி பிளஸ் ஹாட்ஸ்டார் டிஜிட்டல் தளத்தில் தமிழ், தெலுங்கு, மலையாளம், கன்னடம் ஆகிய மொழிகளில் வெளியாகிறது.
+"Premulu," a romantic comedy, is released on Disney Plus Hotstar Digital in Tamil, Telugu, Malayalam, and Kannada on April 12, directed by Girish and featuring Naslen K Kapoor, Mamida Baiju, and others.
+
+🟩
+
+After getting ready for small investment and released in the film mansion, the film is released on the digital site within a short time.. Digital site companies have been forced to release new films to satisfy them weekly, as the number of fans visiting the digital site. The film 'Premulu', which entertained South Indian fans on Disney Plus Hotstar Digital, which has subscribed to a large number of Tamil fans around the world.. The film will be released on April 12 in Tamil, Telugu, Malayalam and Kannada on the Disney Plus Hotstar Digital site.
+
+A.D.. Directed by Girish, the film stars Naslen K Kapoor, Mamida Baiju, Sangeet Pratap, Akila Barkavan, Shyam Mohan, Meenakshi Raveendran, Altaf Salim, Sameer Khan and many others.. Vishnu Vijay has composed the film, which is being recorded by Ajmal Sabu.
+
+The highlight of this is that the film, which is being produced in the romantic comedy janer, can be enjoyed on the digital site without any censorship.
+
+◼️
+
+[Data](articles/6be08296.json)
+
+[Extended Data](ext_articles/6be08296.ext.json)
+
+---
+
+### Sri Lanka adds 182,000 to get tax payer income support, Rs58bn paid
+
+*2024-04-10 09:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-adds-182000-to-get-tax-payer-income-support-rs58bn-paid-158148/) · `en`
+
+ECONOMYNEXT – Sri Lanka has added 182,000 person to get tax payer support through Aswesuma income supplements, taking the total to 1.854 million beneficiaries, State Minister for Finance Shehan Semasinghe has said.
+
+All due payments would be made by April 18, Minister Semasinghe has said. A total of 58 billion rupees of taxes collected from the people would be spent on 1.854 million beneficiaries.
+
+For the full year 205 billion rupees has been allocated for income re-distribution.
+
+In a second round of calls, 400,000 people have applied to get benefits. Of this 286,000 has been added to the platform and evaluation is due to begin in May, he said.
+
+Under the Aswesuma scheme, payments are not expected to be permanent, except for people like kidney patients, but a helping hand to get over loss of incomes for a period.
 
 ...
 
-[Data](articles/6be08296.json)
+[Data](articles/d8b34328.json)
+
+---
+
+### Sri Lanka rupee opens at 298.40/50 to the US dollar
+
+*2024-04-10 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-298-40-50-to-the-us-dollar-158146/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 298.40/50 to the US dollar in the spot forex market on Tuesday, stronger from 298.60/65 on Monday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 was quoted stable at 11.30/40 percent.
+
+A bond maturing on 15.12.2028 was quoted at 12.10/15 percent from 12.05/15 percent.
+
+The Colombo Stock Exchange opened up; the All Share was up 0.01 percent at 11,964, the S&P SL20 was up at 3,546.85. (Colombo/Apr10/2024)
+
+◼️
+
+[Data](articles/a0267f45.json)
 
 ---
 
@@ -94,19 +196,25 @@ The report containing all the details will be handed over to the Ministry of Edu
 
 ---
 
-### காதலி உயிரிழந்து 50வது நாளில் காதலனும் உயிர்மாய்ப்பு - யாழ்ப்பாணத்தில் துயரம்!
+### The girlfriend died on the 50th day of the boyfriend - the tragedy in Jaffna!
 
 *2024-04-10 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180863) · `ta`
 
-காதலி ஒருவர் தூக்கிட்டு இறந்து 50வது நாளான நேற்று செவ்வாய்க்கிழமை (09) காதலனும் தூக்கிட்டு தற்கொலை செய்த சம்பவமானது அனைவரையும் சோகத்தில் ஆழ்த்தியுள்ளது. சிங்காவத்தை, துர்க்காபுரம், தெல்லிப்பழை பகுதியைச் சேர்ந்த கதிர்காமலிங்கம் கோபிசன் (வயது 20) என்ற இளைஞரே இவ்வாறு உயிரிழந்துள்ளார்.
+A tragic incident in Jaffna: Kadirgamalingam Gopisan, 20, from Singawatte, Durgapuram, and Tellippalai, died by suicide 50 days ago. The body was taken to Jaffna Teaching Hospital for autopsy.
 
-குறித்த இளைஞரின் காதலியான தெல்லிப்பழை பகுதியைச் சேர்ந்த யுவதி ஒருவர் கடந்த 50 நாட்களுக்கு முன்னர் தூக்கிட்டு உயிர்மாய்த்துள்ளளார். இந்நிலையில், குறித்த இளைஞன் நேற்றைய தினம் மதியம் ஒரு மணியளவில் அவரது இல்லத்தில் தூக்கிட்டு உயிர்மாய்த்துள்ளளார்.
+🟩
 
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசேதனைக்காக சடலம் யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளது.
+The suicide of a girlfriend's death on Tuesday (09) on the 50th day of the death of a girlfriend. Kadirgamalingam Gopisan (20 years old) from Singawatte, Durgapuram and Tellippalai area has died.
+
+A young woman from Tellippali, a young man, has been hanged 50 days ago. In this case, the young man was hanged at his residence yesterday afternoon.
+
+Sudden Death Investigation Officer A. Jayapalasingham. The body has been taken to the Jaffna Teaching Hospital for anatomical gift.
 
 ◼️
 
 [Data](articles/14af2eda.json)
+
+[Extended Data](ext_articles/14af2eda.ext.json)
 
 ---
 
@@ -130,21 +238,29 @@ The White House said last week that the president, in a call with Netanyahu, thr
 
 ---
 
-### ஜனாதிபதியின் நோன்புப் பெருநாள் வாழ்த்துச் செய்தி
+### Greeting
 
 *2024-04-10 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180862) · `ta`
 
-இலங்கை வாழ் முஸ்லிம் மக்களுக்கும், முழு உலக முஸ்லிம் சமூகத்திற்கும் சமாதானம், நல்லிணக்கம் நிறைந்த ரமழான் பெருநாளாக அமைய இதயபூர்வமான வாழ்த்துக்களைத் தெரிவித்துக் கொள்கிறேன் என்று ஜனாதிபதி ரணில் விக்ரமசிங்க நோன்புப் பெரு­நாளை முன்­னிட்டு விடுத்­துள்ள வாழ்த்துச் செய்­தியில் தெரி­வித்­துள்ளார்.
+President Ranil Wickremesinghe congratulated the Muslim community on Ramadan, emphasizing its role in promoting unity and spiritual growth. He expressed hope that the values of Ramadan, such as dedication and tolerance, will guide Sri Lanka towards progress, especially in overcoming economic challenges.
 
-இஸ்லாமிய நாட்காட்டியில் ஒன்பதாவது மாதமாகக் கருதப்படும் புனித ரமழான் மாதமானது, முஸ்லிம் சகோதரர்களுக்கு சிந்தனை மற்றும் ஆன்மீக வளர்ச்சிக்கான மாதமாகக் கருதப்படுகிறது.
+🟩
 
-இந்த ரமழான் மாதம்,நல்வாழ்வு மற்றும் நல்வாழ்வின் கலங்கரை விளக்கமாக இருப்பதோடு நம்மிடையே ஒற்றுமை மற்றும் மத நல்லிணக்கத்தை வளர்க்கிறது.
+President Ranil Wickremesinghe said in a congratulatory message to the Muslim people of Sri Lanka and the entire world Muslim community that the peace and reconciliation of Ramadan is a heartfelt congratulations.
 
-சாதி, மத பேதமின்றி இலங்கையர்கள் என்ற வகையில் நாம் அனைவரும் எதிர்கொண்ட இக்கட்டான காலகட்டத்தை கடந்து நாட்டில் நல்லதொரு சூழல் உருவாகியுள்ள இவ்வேளையில் எமது சக முஸ்லிம்களுக்கு ரமழான் பண்டிகையை மகிழ்ச்சியாகக் கொண்டாடும் வாய்ப்பு இந்த வருடம் கிடைத்துள்ளதையிட்டு நான் ஆனந்தமடைகின்றேன்.
+The month of Holy Ramadan, which is considered the ninth month in the Islamic calendar, is considered the month of thinking and spiritual development for the Muslim brothers.
+
+The month of Ramadan is a lighthouse of well -being and well -being and promotes us unity and religious harmony.
+
+I am happy that this year, our fellow Muslims have the opportunity to celebrate the Ramadan festival in the country where we are all over the dilemma that we all have confronted as Sri Lankans, regardless of caste and religion.
+
+I think it is right to consider Ramadan fasting in this country not only to the Muslims, but the time when everyone shares their happiness.
 
 ...
 
 [Data](articles/42e4e377.json)
+
+[Extended Data](ext_articles/42e4e377.ext.json)
 
 ---
 
@@ -367,6 +483,26 @@ He said that all arrangements have been prepared to distribute the highest numbe
 [Data](articles/4aad02d1.json)
 
 [Extended Data](ext_articles/4aad02d1.ext.json)
+
+---
+
+### Sri Lanka services surplus exceeds trade deficit in Feb 2024: analysis
+
+*2024-04-10 07:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-services-surplus-exceeds-trade-deficit-in-feb-2024-analysis-158108/) · `en`
+
+ECONOMYNEXT – Sri Lanka has posted a services account surplus of 400 million US dollars in February 2024, higher than a trade deficit of 319 million US dollars, central bank data shows.
+
+Sri Lanka’s exports in February 2024 was 1,059 million US dollars, up 7.9 percent from 982 million dollars a year ago while imports surged 35 percent to 1,378 million US dollars, giving trade deficit of 319 million dollars.
+
+Academics, politicians and many commentators rail against trade deficits, claiming it leads to currency depreciation or that it is a ‘problem’ of some kind, regressing back to classical mercantilism.
+
+However no foreign shipper will actually send goods to Sri Lanka without being paid in dollars, except for short term suppliers’ credit. Sri Lanka’s petroleum ministry has asked new petroleum distributors to delay payments for one year.
+
+The dollars have to be earned in some way to spend on imports.
+
+...
+
+[Data](articles/ae326319.json)
 
 ---
 
@@ -662,25 +798,33 @@ Question - The SLFP rise in the short term as the Sri Lanka PA has risen;Do you 
 
 ---
 
-### ඔබේ හිතුමනාපයට දුරකතන සංවාදයක් පටිගත කළ හැකි ද?
+### Can you make a telephone conversation a telephone dialogue?
 
 *2024-04-10 03:16:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c884zpej28jo) · `si`
 
-ස්මාර්ට් ජංගම දුරකතන අද වන විට කුඩා දරුවන්, තරුණ තරුණයින් අතර පමණක් නොව වැඩිහිටි ප්‍රජාව අතර ද වැඩි වශයෙන් ජනප්‍රිය තාක්ෂණික මෙවලමක් බවට පත්ව තිබේ.
+Smartphones have transformed telephone conversations into dialogues, raising privacy concerns. Sri Lanka has seen telephone dialogue recordings impacting society and politics. Senior Attorney Kamal Wijesiri clarified that recording a friendly conversation is not illegal, but it violates moral obligations. The Telecommunications Regulatory Commission of Sri Lanka has rules against interfering with customer messages. Reporthood Organization, a US-based rights group, protects journalists' rights to record confidential conversations. Laws regarding telephone conversations vary globally, with no specific rule in Sri Lanka for recording. Senior Attorney Kamal Wijesira highlighted the moral responsibility in recording phone conversations, emphasizing that it's not wrong to share such conversations, but it's a moral offense to publish them without consent. Asela Waidyalankara, a cybersecurity specialist, suggested asking the other party for consent before recording a conversation, advocating for digital literacy to address these issues.
 
-අතීතයේ විවිධ ක්‍රමවේද භාවිත කරමින් දුරකතන සංවාද පටිගත කිරීම සිදු වුව ද මේ වන විට එය ඉතා පහසු කාර්යයක් බවට පත්ව ඇත්තේ ස්මාර්ට් ජංගම දුරකතන නිසා ය. නමුත් ඇතැම් දුරකතන නිෂ්පාදන සමාගම් පෞද්ගලිකත්වය පදනම් කරගත් ප්‍රතිපත්ති මත ලෝකයේ ඇතැම් කලාප සඳහා ඊට අවශ්‍ය පහසුකම් ලබා දීමෙන් වැළකී සිටියි.
+🟩
 
-තාක්ෂණයේ දියුණුවත් සමග දුරකතන සංවාද පටිගත කිරීම පහසු වුව ද එය පසුපස ඇති සදාචාරය සම්බන්ධ කරුණු පිළිබඳව සමාජයේ බොහෝ දෙනෙක් ප්‍රශ්න කරති.
+Smart Mobile phones today have become more popular not only among young children but also among the older community.
 
-ශ්‍රී ලංකාවේ මෑත කාලය දෙස හැරී බැලීමේදී ද සමාජයීය වශයෙන් පමණක් නොව දේශපාලනික වශයෙන් ද ආන්දෝලනාත්මක සිදුවීම් ඇති වීමට දුරකතන සංවාද පටිගත කිරීම් තුඩු දුන්නේ ය.
+Smart mobile phones have become a very easy task, using the telephone conversation using various strategies in the past.. However, some telecom companies have avoided providing necessary facilities for certain regions of the world on privacy based policies.
 
-ඉන් එක් සිදුවීමක් ලෙස රාජ්‍ය අමාත්‍ය ධූරයක් දැරූ රන්ජන් රාමනායක විසින් රහසිගතව පටිගත කරන ලද දුරකතන සංවාදත් සමග ඇති වුණු සිදුවීම් මාලාව හුවා දැක්විය හැකි ය.
+With the advancement of technology, many of the society questions about the moral matters behind it, whether it is easy.
 
-එපමණක් නොවන සමාජ මාධ්‍ය ඔස්සේ සිදු කෙරෙන ඇතැම් පළ කිරීම් හරහා විවිධ පාර්ශව අපහසුතාවට පත්වන අවස්ථා ද අපි දැක ඇත්තෙමු.
+Repeated in Sri Lanka's recent years has led to the telephone dialogue recordings, not only socially but also politically but also politically.
+
+Ranjan Ramanayake, who was appointed as a state minister, can bear the series of events with the telephone conversations with telephone conversations.
+
+We have also seen occasions when some postings in social media are embarrassing various parties.
+
+Senior Attorney Kamal Wijesiri said that it is not an illegal act of recording a telephone conversation.
 
 ...
 
 [Data](articles/b592485c.json)
+
+[Extended Data](ext_articles/b592485c.ext.json)
 
 ---
 
@@ -1716,6 +1860,20 @@ This Presidential Pardon will be granted in accordance with Article 34 (1) of th
 
 ---
 
+### ඒක පුද්ගල මූර්ත ආදායම රු. 73000කින් පහළට
+
+*2024-04-09 20:03:48* · [`adalk`](https://www.ada.lk/breaking_news/ඒක-පුද්ගල-මූර්ත-ආදායම-රු--73000කින්-පහළට/11-409041) · `si`
+
+පසුගිය වසර 05 ක කාල සීමාව තුළ ලංකාවේ මූර්ත ඒක පුද්ගල ආදායම රු.73000කින් පමණ පහළ ගොස් ඇති බව මහ බැංකුව විසින් අප්‍රේල් 06 වන දින නිකුත් කරන ලද වාර්තාවකින් පෙන්වා දේ.  ප්‍රතිශතයක් ලෙස ගත් විට එය  මූර්ත ඒක පුද්ගල ආදායම 12%කින් පහළ යාමකි.
+
+2019 වර්ෂයේ දී මූර්ත ඒක පුද්ගල ආදායම රු.හය ලක්ෂ පන්දහස් හත්සිය නවයක් වූ අතර 2021 වර්ෂයේ දී එය රු.පන් ලක්ෂ  අනූ දෙදහස් හාරසීය දහතුන දක්වා පහළ යාමක්  පෙන්නුම් කරයි. 2023 වර්ෂය වන විට එය  රු.පන් ලක්ෂ තිස් දෙදහස් හයසීය හතළිස් හයක් දක්වා පහළ යාමක් පෙන්නුම් කරන බව මහ බැංකු වාර්තාවේ සඳහන් වේ. මේ කාලය තුළ රටේ මූර්ත දල දේශීය නිශ්පාදනය සැලකිය යුතු ආකාරයකින් පහළ යාම මෙයට  හේතුවේ. 2019 දී රටේ මූර්ත දළ දේශීය නිෂ්පාදනය රුපියල් බිලියන 13,206  වූ අතර 2021 වර්ෂය වන විට එය බිලියන 13,125 ලෙසත් වාර්තා වී ඇත.
+
+...
+
+[Data](articles/b779446f.json)
+
+---
+
 ### Lotus Tower to glow green, white to mark Eid
 
 *2024-04-09 20:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lotus-Tower-to-glow-green-white-to-mark-Eid/108-280486) · `en`
@@ -2027,125 +2185,5 @@ In view of the Sinhala and Tamil New Year, President Ranil Wickremesinghe will g
 [Data](articles/d4069c42.json)
 
 [Extended Data](ext_articles/d4069c42.ext.json)
-
----
-
-### President pardons 779 persons for New Year
-
-*2024-04-09 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195481) · `si`
-
-President pardons 779 for New Year; Presidential Forgiver awarded to Sinhala, Tamil New Year; Ranil Wickremesinghe awarded Presidential Forgiveness under Article 34 (1) of the Constitution.
-
-🟩
-
-Presidential Media Unit said that the Presidential Forgiver will be awarded to the Sinhala and Tamil New Year.
-
-President Ranil Wickremesinghe will be awarded to the Presidential Forgiveness in terms of Article 34 (1) of the Constitution.
-
-◼️
-
-[Data](articles/98c2d291.json)
-
-[Extended Data](ext_articles/98c2d291.ext.json)
-
----
-
-### Streets bustle for New Year shopping
-
-*2024-04-09 18:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Streets-bustle-for-New-Year-shopping/110-280481) · `en`
-
-The streets of Colombo and its suburbs bustled with crowds as people flocked for their New Year shopping, eagerly preparing for the festivities of Ramadan, Sinhala and Tamil New Year. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/494300e2.json)
-
-[Extended Data](ext_articles/494300e2.ext.json)
-
----
-
-### International court rules Switzerland violated human rights in landmark climate case brought by 2,000 women
-
-*2024-04-09 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98540/international-court-rules-switzerland-violated-human-rights-in-landmark-climate-case-brought-by-2000-women) · `en`
-
-An international court in France on Tuesday ruled Switzerland’s failure to adequately tackle the climate crisis was in violation of human rights, in a landmark climate judgment that could have a ripple effect across the globe.
-
-The European Court of Human Rights (ECHR) in Strasbourg, France delivered its ruling in a case brought by more than 2,000 Swiss women, the majority of whom are in their 70s, against Switzerland’s government. They argued that climate change-fueled heat waves undermined their health and quality of life, and put them at risk of dying.
-
-The court ruled that the Swiss government had violated some of the women’s human rights due to “critical gaps” in its national legislation to reduce planet-heating emissions, as well as a failure to meet past climate targets.
-
-This amounted to a breach of the women’s rights to effective protection from the “the serious adverse effects of climate change on lives, health, well-being and quality of life,” the court said in a statement.
-
-...
-
-[Data](articles/eb3e45df.json)
-
-[Extended Data](ext_articles/eb3e45df.ext.json)
-
----
-
-### The first installment is completed tomorrow
-
-*2024-04-09 17:47:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலாம்-தவணை-நாளை-நிறைவு/175-335787) · `ta`
-
-The first phase of holidays ends tomorrow for state and private schools, with the second phase starting April 24. Muslim schools begin their second phase on April 17.
-
-🟩
-
-The Ministry of Education has announced that it will end the first phase of holidays for the first installment for state and state -approved private, Sinhala and Tamil schools.
-
-Accordingly, the second phase of the second phase will begin on April 24.
-
-The second phase of the first school installment for Muslim schools begins on April 17
-
-◼️
-
-[Data](articles/0f0c0e9c.json)
-
-[Extended Data](ext_articles/0f0c0e9c.ext.json)
-
----
-
-### A new story about the suspect who was killed in the temple
-
-*2024-04-09 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195480) · `si`
-
-A suspect killed in Kandy's Vihara was refused by relatives, leading to his body's handling by police. The Chief Incumbent and a civil guard were arrested. His divorced wife and current partner denied accepting the body. The police, due to these complications, will handle the body's final proceedings. Further investigations are ongoing.
-
-🟩
-
-It is reported that his relatives have refused to accept the body of the person who was killed at the Vihara premises in Kandy.
-
-Police suspect that he had died in a suspicion that he had entered the temple for a crime.
-
-The Chief Incumbent of the Sri Rakkikhaganga Viharaya and a civil guard have been arrested by the police.
-
-The wife of his first marriage has said that the body cannot be accepted as divorced.
-
-The woman who lived with him had told the police that the body could not be accepted as he is on rent basis.
-
-Accordingly, the police have decided to carry out the final proceedings of the government at the expense of the bodies due to the presentation of the body.
-
-Meanwhile, the Kandy Police are conducting further investigations into the murder.
-
-◼️
-
-[Data](articles/04bd9d5b.json)
-
-[Extended Data](ext_articles/04bd9d5b.ext.json)
-
----
-
-### Second anniversary of 'Aragalaya'
-
-*2024-04-09 17:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Second-anniversary-of-Aragalaya/110-280480) · `en`
-
-A group of individuals staged a demonstration opposite the Fort Railway Station, marking the second anniversary of the historical people's uprising known as “Aragalaya,” on July 9, 2022. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/b1d55727.json)
-
-[Extended Data](ext_articles/b1d55727.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 16:18:28**
+As of **2024-04-10 16:33:49**
 
 ## Newspaper Stats
 
-*Scraped **18,298** Articles*
+*Scraped **18,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ islandlk | 1,001
 economynextcom | 1,021
 adalk | 1,540
 tamilmirrorlk | 2,144
-adaderanalk | 2,190
+adaderanalk | 2,191
 virakesarilk | 2,718
 dailymirrorlk | 2,791
-adaderanasinhalalk | 2,963
+adaderanasinhalalk | 2,965
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,290 (100.0%) of 18,298 articles have been extended.
+18,298 (100.0%) of 18,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### 294 housing units distributed to those displaced in Kajimawatte fire
+
+*2024-04-10 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98557/294-housing-units-distributed-to-those-displaced-in-kajimawatte-fire) · `en`
+
+President Ranil Wickremesinghe has affirmed his commitment to empowering the people and fortifying the economy by ensuring access to education, land, housing, and business opportunities.
+
+Stressing the importance of broadening economic participation, the Head of State highlighted its role in fostering a resilient national economy.
+
+These remarks were made on Tuesday afternoon (09) during his presence at the national event in Modara. As many as 294 units at ‘Randiya Uyana’ housing complex were thus allocated to those displaced by the massive fire in Kajimawatte in 2010.
+
+As I addressed you today, my heart goes out to the resilient residents of Kajimawatte, who have endured over a decade of unimaginable hardships. It was a poignant moment as we swiftly provided these flats, with Mr. Ravi Karunanayake’s unwavering support.
+
+...
+
+[Data](articles/889b7310.json)
+
+---
+
+### සමන් රත්නායකගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කෙරේ
+
+*2024-04-10 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195514) · `si`
+
+ප්‍රශ්නගත ප්‍රතිදේහ එන්නත් වංචාව සම්බන්ධයෙන් වූ නඩුවට අදාළව රක්ෂිත බන්ධනාගාරගතව සිටින සෞඛ්‍ය අමාත්‍යාංශ අතිරේක ලේකම් සමන් රත්නායක මහතාගේ ඇප ඉල්ලීම අද (10) ප්‍රතික්ෂේප කෙරුණි.
+
+එලෙස ඇප ඉල්ලීම ප්‍රතික්ෂේප කරමින් මාළිගාකන්ද මහෙස්ත්‍රාත් ලෝචනී අබේවික්‍රම මහත්මිය දැනුම්දුන්නේ නඩු විභාගය අවසන් වනතුරු සැකකරුව රක්ෂිත බන්ධනාගාරගතව තැබීමටය.
+
+◼️
+
+[Data](articles/534f4094.json)
+
+---
+
+### මේ විදියට ගියොත් 2025දී වාහන ආනයනය කරන්න පුළුවන් - මුදල් රාජ්‍ය ඇමති
+
+*2024-04-10 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195513) · `si`
+
+රට තුළ දැනට පවත්වාගෙන යන වැඩපිළිවෙළ කඩාකප්පල් නොකර ආරක්ෂා කරගෙන ගියහොත් 2025 වසරේදී වාහන ආනයනය  විවෘත කිරීමට හැකියාවක් ඇති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+
+රටේ අවශ්‍යතාව හඳුනාගෙන ක්‍රමක්‍රමයෙන් මෙම වෙළෙඳාම විවෘත කිරීමට සූදානම් බවද ඔහු වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/c380f4f1.json)
+
+---
 
 ### Due to tomorrow, the traffic decreases
 
@@ -58,25 +104,35 @@ It is also planned to deploy buses to come back to Colombo from the 15th.
 
 ---
 
-### இஸ்ரேலின் பாதுகாப்பே எங்கள் வெளிவிவகார கொள்கையின் முக்கியமான அம்சம் - ஜேர்மனி
+### Israel's protection is the important aspect of our foreign policy - Germany
 
 *2024-04-10 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180883) · `ta`
 
-இஸ்ரேலின் பாதுகாப்பே தனது வெளிவிவகார கொள்கையின் முக்கிய அம்சமாக காணப்படுகின்றது என தெரிவித்துள்ள  ஜேர்மனி தனது கடந்த கால வரலாறே இதற்கு காரணம் எனவும் தெரிவித்துள்ளது.
+Germany supports Israel's security, rejecting allegations of aiding genocide. Nikaragua filed a case against Germany at the International Court of Justice, accusing it of violating humanitarian law. Germany defends its actions, stating it provides necessary military aid and humanitarian support, and has learned from its past.
 
-எனினும் இஸ்ரேலிற்கு ஆயுதங்களை வழங்குவதன் மூலம் இனப்படுகொலைக்கு உதவுவதாக தெரிவிக்கப்படும் குற்றச்சாட்டினை ஜேர்மனி நிராகரித்துள்ளது.
+🟩
 
-ஜேர்மனி இஸ்ரேலிற்கான ஆயுதவிநியோகத்தை நிறுத்தவேண்டும் என கோரும் வழக்கினை சர்வதேச நீதிமன்றில் நிக்கரகுவா தாக்கல் செய்துள்ளது.
+Germany has said that this is due to its past history, saying that Israel's security is a key aspect of its foreign policy.
 
-இனப்படுகொலையை தடுப்பது சர்வதேச மனிதாபிமான சட்டம் மதிக்கப்படுவது தொடர்பான கடப்பாடுகளை ஜேர்மனி மீறிவிட்டது எனவும் நிக்கரகுவா குற்றம்சாட்டியுள்ளது.
+Germany, however, has rejected the allegation that Israel is assisting the genocide by providing arms to Israel.
 
-எங்கள் வெளிவிவகார கொள்கையில் இஸ்ரேலின் பாதுகாப்புமிக முக்கியமானதாக காணப்படுவதற்கு காரணம் எங்களின் வரலாறு என ஜேர்மனியின் வெளிவிவகார அமைச்சின் அதிகாரி சர்வதேச நீதிமன்றத்தில் தெரிவித்துள்ளார்.
+Nikaraga has filed a case in the International Court of Justice demanding that Germany stop the armed for Israel.
 
-இஸ்ரேலிற்கு ஜேர்மனி ஆயுதங்களையும் இராணுவதளபாடங்களையும் வழங்கியுள்ளது என தெரிவித்துள்ள அவர் ஆனால் நிக்கரகுவா அதன் அளவையும் நோக்கத்தையும் திரிபுபடுத்துகின்றது எனவும் அவர் தெரிவித்துள்ளார்.
+Nikaragua also alleges that Germany has violated the obligations of international humanitarian law to prevent genocide.
 
-...
+The German Foreign Ministry official said in the International Court of Justice that our history of Israel's security is important in our foreign policy.
+
+He said that Germany has provided Israel weapons and military instruments, but Nikaragua is distorting its size and purpose.
+
+He also said that Germany has learned lessons from its past.
+
+An official said in an international court that Germany is providing humanitarian aid every day.
+
+◼️
 
 [Data](articles/25c6d3ec.json)
+
+[Extended Data](ext_articles/25c6d3ec.ext.json)
 
 ---
 
@@ -94,43 +150,61 @@ The seminar, attended by dignitaries including State Minister of Defence Pramith
 
 [Data](articles/633f9d42.json)
 
+[Extended Data](ext_articles/633f9d42.ext.json)
+
 ---
 
-### ஜனாதிபதித் தேர்தலில் தமிழர்கள் ஜனநாயகப் பலத்தை நிரூபிக்க வேண்டும் - சபா குகதாஸ்
+### Tamils in the presidential election must prove democratic strength - Sabah Kukadas
 
 *2024-04-10 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180868) · `ta`
 
-யுத்த மௌனிப்பின் பின்னர் வடக்கு கிழக்கு மாகாணங்களில் மக்களின் அடிப்படை அபிலாசைகளை முன் நிறுத்தி ஒரு திரட்சியான ஜனநாயக பலம் 15 ஆண்டுகளை கடந்தும் வெளிப்படுத்தப்படவில்லை இதற்கான சரியான தேர்தல் களம் என்றால் அது ஜனாதிபதித் தேர்தல் மட்டும் தான் என ரெலோவின் தலைமைக்குழு உறுப்பினர் சபா குகதாஸ் தெரிவித்துள்ளார்.
+Sabah Kukadas emphasizes the need for Tamils to demonstrate democratic strength in the presidential election, highlighting the importance of unity and strategic decision-making to avoid chauvinism leading to racism.
 
-ஏனைய தேர்தல்களில் திரட்சியான முடிவை வெளிப்படுத்துவது தற்போதைய நிலையில் மிக இலகுவான விடயம் இல்லை.
+🟩
 
-கடந்த காலங்களில் ஜனாதிபதித் தேர்தல்களில் பல்வேறு முடிவுகளை எடுத்தாலும் அவை இன ரீதியாக சாதகமான அமையவில்லை ஆனால் யுத்தத்தின் பின்னரான சூழலில் ஒற்றுமையாக ஐனநாயகப் பலத்தை வெளிப்படுத்த வேண்டியது காலத்தின் கட்டாயம் இதனை நடைமுறைப்படுத்த தமிழர் தாயகத்தில் அனைத்து அரசியல் கட்சிகளும், சிவில் அமைப்புக்களும் ஒரே தளத்தில் ஒன்றிணைய வேண்டும் ஒரே முடிவை உறுதியாக எடுக்க வேண்டும்.
+Relo's leadership committee member Saba Kukadas said that after the war silence, the people's basic aspirations were not revealed for 15 years after the war.
 
-தமிழர்கள் எடுக்கும் முடிவுகளை பேரினவாதம் இனவாதமாக மாற்றிவிடும் என்கிற விமர்சனங்களை தாண்டி தந்திரோபாயமாக ஐனநாயக பலத்தை உறுதி செய்ய செயல் திறன்களை வடிவமைக்க வேண்டும்.
+It is not easy to make a conclusion in other elections.
 
-...
+In the past, the presidential elections have not been racially advantageous but they must unite in the aftermath of the war, but it is imperative that all political parties and civil organizations in the Tamil homeland must unite in the same site to implement this.
+
+The decisions of Tamils must be tactically beyond criticism that chauvinism can turn communalism into racism.
+
+Whatever the decisions of the Tamils in the past, the South has turned it into communalism, for example, the separatism is the reality of separatism.
+
+It is therefore stated that the aspirations of the ethnicity will be made in the international arena and the political liberation of the Tamil people in the international arena and the global regional conversation of the global regional countries.
+
+◼️
 
 [Data](articles/7cf4594c.json)
 
+[Extended Data](ext_articles/7cf4594c.ext.json)
+
 ---
 
-### பொஸ்பேட் நிறுவன ஊழியரை மிரட்டிய இராஜாங்க அமைச்சர்
+### State Minister
 
 *2024-04-10 15:48:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொஸ்பேட்-நிறுவன-ஊழியரை-மிரட்டிய-இராஜாங்க-அமைச்சர்/175-335823) · `ta`
 
-லங்கா பொஸ்பேட் நிறுவனத்தின் மனித வள மற்றும் நிர்வாக உதவியாளர் எச்.டி.வி.கே.சந்திரரத்னவை, அமைச்சு மற்றும் நிறுவனத்தின் அதிகாரிகள் முன்னிலையில், கைத்தொழில் இராஜாங்க அமைச்சர் சாமர சம்பத் தசநாயக்க கடுமையாக அச்சுறுத்தியதாக குற்றம் சுமத்தப்பட்டுள்ளது. .
+A Sri Lanka Pospot HR assistant allegedly threatened officials, prompting a trade union to warn of future action. The Nidahas Sevaka Association called for an investigation by Sandhya Ambanwela, despite the employee involved being transferred without investigation.
 
-எதிர்காலத்தில் இவ்வாறான சம்பவங்கள் மீண்டும் இடம்பெறும் பட்சத்தில் தொழிற்சங்க நடவடிக்கையில் ஈடுபடவுள்ளதாக இலங்கை நிதாஹஸ் சேவக சங்கமய தொழிற்சங்கம் அமைச்சரிடம் தெரிவித்துள்ளது.
+🟩
 
-இதேவேளை, சம்பவம் தொடர்பில் முறையான விசாரணை நடத்துமாறு சம்பந்தப்பட்ட அதிகாரி, நிறுவனத்தின் தலைவர் சந்தியா அம்பன்வெலவிடம் கோரிக்கை விடுத்துள்ளார்.
+Human Resources and Administrative Assistant, Human Resources and Administrative Assistant, Sri Lanka Pospot, has been accused of severely threatening the Minister of Industry and Minister of State for Ministry and the Ministry and the Ministry and the company.. .
 
-ஒரு சாதாரண ஊழியரை அவர் துன்புறுத்திய குற்றச்சாட்டின் பேரில், அமைச்சர் தன்னை அமைச்சில் கூட்டத்திற்கு அழைத்ததாகவும், நிறுவனத்தின் தலைவர் மற்றும் பல உயர் அதிகாரிகள் முன்னிலையில் தன்னை அச்சுறுத்தியதாகவும் கடுமையாக திட்டியதாகவும் அந்த அதிகாரி கூறினார்.
+The Sri Lanka Nidahas Sevaka Association Trade Union has informed the minister that the union action will be engaged in the future if such incidents occur again.
 
-சம்பவத்துடன் தொடர்புடைய சாதாரண ஊழியர் தற்போது அமைச்சுக்கு இடமாற்றம் செய்யப்பட்டுள்ள போதிலும் சம்பவம் தொடர்பில் இதுவரை விசாரணைகள் நடத்தப்படவில்லை என தொழிற்சங்க பிரதிநிதிகள் தெரிவித்தனர்.
+Meanwhile, the concerned officer has called on Sandhya Ambanwela to conduct a proper investigation into the incident.
+
+The official said that the minister had invited him to the ministry on charges of harassing an ordinary employee and threatened him in the presence of the company's chairman and several top officials.
+
+Trade union representatives said that although the ordinary employee involved in the incident has now been transferred to the Ministry, there have been no investigation into the incident.
 
 ◼️
 
 [Data](articles/1702fc00.json)
+
+[Extended Data](ext_articles/1702fc00.ext.json)
 
 ---
 
@@ -180,19 +254,25 @@ However, it has been announced that the state release stall will be opened as us
 
 ---
 
-### மதுலாவே நிமேஷ் கைது
+### Madulave Nimesh arrested
 
 *2024-04-10 15:38:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுலாவே-நிமேஷ்-கைது/175-335822) · `ta`
 
-அண்மையில் மொரகஹஹேனவில் இருவரைக் கொல்ல ஏற்பாடு செய்த ஹோமாகம ஹந்தயாவின் போதைப்பொருள் கடத்தல் நடவடிக்கைகளை துபாயில் இருந்து இயக்கியதாகக் கூறப்படும் போதைப்பொருள் கடத்தல்காரர் 'மாதுலாவே நிமேஷ்' கைது செய்யப்பட்டுள்ளார்.
+Madhulaway Nimesh arrested for drug trafficking from Dubai, with 12.700g ICE and 487 grams Kerala cannabis. Arrested by Western Province Southern Criminal Investigation Division.
 
-12.700 கிராம் ICE போதைப்பொருள் மற்றும் 487 கிராம் கேரள கஞ்சாவை வைத்திருந்த சந்தேகநபர் செவ்வாய்க்கிழமை (09) மாலை மேல் மாகாண தெற்கு குற்றப் புலனாய்வுப் பிரிவினரால் பதுக்கை பொலிஸ் பிரிவுக்குட்பட்ட மடுலாவ பகுதியில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது கைது செய்யப்பட்டார்.
+🟩
 
-மேல் மாகாண தெற்கு குற்றப் புலனாய்வுப் பிரிவினர் சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+'Madhulaway Nimesh' has been arrested for allegedly running Homagama Handya's drug trafficking operations from Dubai recently.
+
+The suspect, who had a 12.700g ICE and 487 grams of Kerala cannabis, was arrested on Tuesday (09) evening by the Western Province Southern Criminal Investigation Division during a roundup of Madulawa area under the Padukkai Police Division.
+
+The Western Province Southern Criminal Investigation Division is conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/1b497a81.json)
+
+[Extended Data](ext_articles/1b497a81.ext.json)
 
 ---
 
@@ -229,6 +309,8 @@ The Western Province South Crime Investigation Division is conducting further in
 ◼️
 
 [Data](articles/474440a9.json)
+
+[Extended Data](ext_articles/474440a9.ext.json)
 
 ---
 
@@ -380,19 +462,25 @@ New Year's dawn, charity, cooking, bleeding, diet, precisely visible and celebra
 
 ---
 
-### ඊෂි කෑෂ් ක්‍රමයට මත්ද්‍රව්‍ය ජාවාරම් කරන ජාවාරමුන් 137ක් හඳුනාගනියි
+### Identify 137 drug trafficking racketing
 
 *2024-04-10 14:13:11* · [`adalk`](https://www.ada.lk/breaking_news/ඊෂි-කෑෂ්-ක්‍රමයට-මත්ද්‍රව්‍ය-ජාවාරම්-කරන-ජාවාරමුන්-137ක්-හඳුනාගනියි/11-409051) · `si`
 
-මෙරට තුළ ඊෂිකෑෂ් ක්‍රමය  භාවිතා කරමින්  මත්ද්‍රව්‍ය ජාවාරම්වල මුදල් හුවමාරු කරන ජාවාරම්කරුවන් 137 දෙනකු සම්බන්ධයෙන් තොරතුරු අනාවරණය කර ගෙන ඇති බව පොලිස් මූලස්ථානය පවසයි
+Sri Lanka police reveal 137 drug traffickers using Escoash system for money exchange.
+
+🟩
+
+Police Headquarters says that information has been revealed in 137 racketeers who exchange money in drug trafficking using Escoash system in Sri Lanka
 
 මත්ද්‍රව්‍ය මැඩලීම සඳහා ක්‍රියාත්මක කර ඇති යුක්තිය මෙහෙයුමට සමගාමීව   සිදුකරන විමර්ශනවලදී මෙම පුද්ගලයන් සම්බන්ධයෙන් තොරතුරු අනාවරණය කරගෙන ඇති බවද පොලිස් මුලස්‌ථානය පවසයි පවසයි
 
-මෙම සැකකරුවන් අතරින් මහා පරිමාණයෙන් ජාවාරම්වල නිරත මත්ද්‍රව්‍ය ජාවාරම්කරුවන් පස් දෙනෙකුගේ බැංකු වාර්තාව ඔස්සේද, තවත් ජාවාරම්කරුවන් විසිදෙනෙකු සම්බන්ධයෙන් දුරකථන කුළුණු විශ්ලේෂණ වාර්තාව ඔස්සේ ද   පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාශ ය දැනටමත්  විමර්ශනාරම්භ කර ඇත
+Police Narcotics Research has already been investigated by the banking report of five drug dealers, who were engaged in large scale racketeers.
 
 ◼️
 
 [Data](articles/c87bead5.json)
+
+[Extended Data](ext_articles/c87bead5.ext.json)
 
 ---
 
@@ -721,6 +809,8 @@ The Sri Lanka Air Force is preparing for the Colombo Air Show and Defence Exhibi
 ◼️
 
 [Data](articles/33341ce8.json)
+
+[Extended Data](ext_articles/33341ce8.ext.json)
 
 ---
 
@@ -2265,77 +2355,5 @@ Meanwhile, the minister mentioned that the programme of providing ten kilogramme
 [Data](articles/0cdd1191.json)
 
 [Extended Data](ext_articles/0cdd1191.ext.json)
-
----
-
-### Do not act as a result of the education of the students- the villagers of Sundarapuram
-
-*2024-04-10 04:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180858) · `ta`
-
-Villagers of Sundarapuram criticize the education impact of a recent incident at Sundarapuram Saraswathi Vidyalaya, where a teacher was assaulted. They express concern over the incident's influence on students' education and the school's reputation.
-
-🟩
-
-Sundarapuram villagers said that it was painful that some people were working on the face of the face of other students and other students who had been involved in the incident that had been attacked by a teacher.
-
-Recently, a teacher was arrested by the police after being treated at the hospital after a teacher was severely assaulted by a teacher at the Sundarapuram Saraswathi Vidyalaya.
-
-The villagers united and commented to the media today.
-
-The incident at school is seen as an unacceptable issue. However, as we are working on the side of the incident, some people are working to affect the education of other students who are learning beyond who is right in the incident.
-
-The school is seen as a secondary school at the zonal level. It is a school of sports, whether it is an improved school.
-
-The school, which lives in the village where the displaced and resettled people live, has been transformed into a leading school in the midst of many troubles.
-
-...
-
-[Data](articles/f1316454.json)
-
-[Extended Data](ext_articles/f1316454.ext.json)
-
----
-
-### Jaffna from Switzerland falls in the bathroom
-
-*2024-04-10 04:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180857) · `ta`
-
-Balasingham Udayakumar, 55, from Switzerland, died after falling in a bathroom in Manipayi, Jaffna, on Tuesday. An investigation is underway.
-
-🟩
-
-A man from Switzerland falls into a bathroom on Monday (8). The deceased is Balasingham Udayakumar (age 55).
-
-The person had arrived from Switzerland to Thayar's home in Manipayi area on Monday (8). In this case, he fell down in the bathroom on Tuesday morning.
-
-A sudden death investigation officer A. Jayapalasingham. The body has been taken to the Jaffna Teaching Hospital for anatomical examination.
-
-◼️
-
-[Data](articles/d25d26a9.json)
-
-[Extended Data](ext_articles/d25d26a9.ext.json)
-
----
-
-### Two students injured in two bicycles
-
-*2024-04-10 04:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180856) · `ta`
-
-Two students injured in a bicycle crash in Vavuniya Sivapuram. A city-to-Mannar road bicycle crashed into a Pampaimadu-to-Nelukkulam bicycle. Both students admitted to Vavuniya District General Hospital for treatment. Further investigations ongoing.
-
-🟩
-
-Two students have been admitted to hospital with injuries when two bicycles crashed into two bicycles in the Vavuniya Sivapuram area.
-
-The driver of the driver of the city from the city to the Mannar road crashed into a two -wheeler from Pampaimadu area to Nelukkulam.
-
-Two students who were traveling in the bicycle were injured and admitted to the Vavuniya District General Hospital and are conducting further investigations into the accident.
-
-◼️
-
-[Data](articles/20afb7ec.json)
-
-[Extended Data](ext_articles/20afb7ec.ext.json)
 
 ---

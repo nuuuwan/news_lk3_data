@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 15:33:50**
+As of **2024-04-10 15:52:23**
 
 ## Newspaper Stats
 
-*Scraped **18,285** Articles*
+*Scraped **18,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 1,001
 islandlk | 1,001
 economynextcom | 1,021
 adalk | 1,539
-tamilmirrorlk | 2,141
+tamilmirrorlk | 2,142
 adaderanalk | 2,189
-virakesarilk | 2,714
+virakesarilk | 2,716
 dailymirrorlk | 2,788
 adaderanasinhalalk | 2,962
 
@@ -26,35 +26,69 @@ adaderanasinhalalk | 2,962
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,283 (100.0%) of 18,285 articles have been extended.
+18,285 (100.0%) of 18,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### ලෝක බලවතුන් යුක්‍රේනයට කොන්දේසි මතක් කරයි
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-04-10 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180919) · `ta`
+
+இன்று புதன்கிழமை (ஏப்ரல் 10) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 293.6852 ஆகவும் விற்பனை விலை ரூபா 303.3335 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/baf25f94.json)
+
+---
+
+### திங்கட்கிழமை அரசாங்க வெளியீட்டு அலுவலகத்தின் விற்பனை பிரிவு மூடப்படும்
+
+*2024-04-10 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180917) · `ta`
+
+நாரஹேன்பிட்டியில் உள்ள அரசாங்க வெளியீட்டு அலுவலகத்தின் விற்பனை பிரிவு இம்மாதம் 15 ஆம் திகதி மூடப்படும் என அரசாங்க தகவல் திணைக்களம் இன்று புதன்கிழமை (10) அறிவித்துள்ளது.
+
+கையிருப்பு மற்றும் சில உள் பராமரிப்பு நடவடிக்கைகள் காரணமாக இந்த முடிவு எடுக்கப்பட்டுள்ளது.
+
+எனினும், மறுநாள் செவ்வாய்க்கிழமை  (16) வழக்கம்போல் அரச வெளியீட்டு விற்பனை நிலையம்  திறக்கப்படும் என அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/4a4cac90.json)
+
+---
+
+### World powers reminds you of termination of Ukraine
 
 *2024-04-10 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195511) · `si`
 
-යුක්‍රේනයට, අමෙරිකාව ලබාදෙන යුද ආධාරවලට ආරම්භයේදී පැනවූ කොන්දේසියක් පිළිබඳව මේ වනවිට යළිත් අවධානය යොමුවෙමින් පවතී.
+World powers, including the US, remind Ukraine of the termination of its initiative, focusing on the condition that Ukraine should not attack Russian premises. The main reason now is the impact on global energy supply due to attacks on Russian oil refineries. Lloyd Austin, US Defense Secretary, stated Ukraine's dependence on Russian oil refineries affecting global fuel and energy. Anthony Blink, US Secretary of State, said the US won't approve attacks on Russian energy infrastructure. Selenski, Ukrainian President, admitted to the Washington Post that the US has not stopped Ukraine from attacking Russian energy infrastructure. The International Atomic Energy Authority (IAEA) is discussing the largest nuclear power plant in Europe under Russian control.
 
-අමෙරිකාව මෙන්ම ඇතැම් යුරෝපීය රටවල් යුක්‍රේනයට පැනවු එම කොන්දේසිය වන්නේ තමන් ලබාදෙන යුද අවිවලින් රුසියානු භූමිය තුළට ප්‍රහාර එල්ල නොකළ යතු බවය.
+🟩
 
-එම කොන්දේසිය පසුගිය කාලය තුළ බොහෝ දුරට අමතකව පැවතුනත් දැන් නැවත ඉස්මතු වීමට එක් ප්‍රධාන හේතුවක් තිබේ.
+Recently, the condition imposed on the initiative to Ukraine, the United States is currently being focused.
 
-ඒ, යුක්‍රේනය රුසියානු තෙල් පිරිපහදුවලට එල්ල කරන ප්‍රහාර නිසා ගෝලීය බලශක්ති සැපයුමට එල්ලවී ඇති බලපෑම ය.
+The condition as well as some European countries imposed in Ukraine, the condition imposed in Ukraine is that they should not attack the Russian premises.
 
-අමෙරිකානු පෙන්ටගනයේ ප්‍රධානියා හෙවත් ආරක්ෂක ලේකම් ලොයිඩ් ඔස්ටින් මේ සම්බන්ධයෙන් ප්‍රකාශයක් කර තිබේ.
+The condition is mostly forgotten, but now there is only one main reason to emerge.
 
-ඔහු එම ප්‍රකාශය සිදුකළේ අමෙරිකානු සෙනේට් මණ්ඩලයේ සන්නද්ධ සේවා කමිටුව ඉදිරියේ සිදුකළ කරුණු විමසීමකදී ය.
+It is the impact on the global energy supply because of the attacks on Russian oil refineries.
 
-අමෙරිකානු ආරක්ෂක ලේකම්වරයා එහිදී සඳහන් කළේ යුක්‍රේනය රුසියානු තෙල් පිරිපහදුවලට එල්ල කරන ප්‍රහාර සමස්ථ ගෝලීය ඉන්ධන සහ බලශක්ති පද්ධතියට අහිතකර බලපෑමක් සිදුකරන බවය.
+The Chief of Defense Secretary Lloyd Austin has made a statement regarding this.
 
-එමෙන්ම රුසියානු භූමිය වෙත එල්ල කරන යුක්‍රේන ප්‍රහාර අමෙරිකා එක්සත් ජනපදය විසින් අනුමත නොකරන බව අමෙරිකානු රාජ්‍ය ලේකම් ඇන්තනි බ්ලින්කන් ද පසුගිය අප්‍රේල් 02 වනදා සඳහන් කර තිබුණි.
+He made the statement when he contacted the American Seneated Committee of the American Seneated Committee.
+
+The American Defense Secretary stated that Ukraine is adversely affected by Russian oil refineries that influence the entire global fuel and energy system.
+
+US Secretary of State Anthony Blink has also stated that the United States of America will not be approved by the United States of America.
 
 ...
 
 [Data](articles/7c1c3e5e.json)
+
+[Extended Data](ext_articles/7c1c3e5e.ext.json)
 
 ---
 
@@ -73,6 +107,24 @@ The official said the Minister called her for a meeting at the Ministry and thre
 ...
 
 [Data](articles/1db42e49.json)
+
+[Extended Data](ext_articles/1db42e49.ext.json)
+
+---
+
+### இறுதி நேரத்தில்   முதலாளிமார் வரவில்லை: கடுப்பானார் செந்தில்
+
+*2024-04-10 15:07:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இறுதி-நேரத்தில்-முதலாளிமார்-வரவில்லை-கடுப்பானார்-செந்தில்/76-335821) · `ta`
+
+தோட்டத் தொழிலாளர்களின் சம்பள அதிகரிப்புக்கு  இ.தொ.கா தொடர்ச்சியாக  அழுத்தம் கொடுத்து வரும் நிலையில் இன்றைய தினம் சம்பள நிர்ணய சபையில் நடைபெறவிருந்த பேச்சுவார்த்தைக்கு இறுதி நேரத்தில் முதலாளிமார் சம்மேளனம் வருகை தராது தங்களது அழற்சிய போக்கை வெளிப்படுத்தியுள்ளமைக்கு இ.தொ.கா தலைவர் செந்தில் தொண்டமான் கடுமையாக கண்டனத்தை வெளியிட்டுள்ளார்.
+
+தோட்ட தொழிலாளர்களின் சம்பள அதிகரிப்பு விடயத்தில் சம்பள நிர்ணய சபை ஊடாக  தீர்வு எட்டப்படும் நிலையில், முதலாளிமார் சம்மேளனம் பேச்சுவார்த்தைக்கு வருகை தராது அசமந்த போக்கில் செயற்பட்டு வருகிறது.
+
+தோட்ட தொழிலாளர்களின் விடயத்தில் உரிய தீர்வு கிடைகாவிடின் இ.தொ.கா கடும் தொழிற்சங்க நடவடிக்கையில் ஈடுபடும் என முதலாளிமார் சம்மேளனத்திற்கு செந்தில் தொண்டமான் எச்சரிக்கையும்  விடுத்துள்ளார்.
+
+...
+
+[Data](articles/f0de30a1.json)
 
 ---
 
@@ -2285,55 +2337,5 @@ www.brookings.edu: At a time when many countries, large and small, are confronti
 [Data](articles/2d3e5228.json)
 
 [Extended Data](ext_articles/2d3e5228.ext.json)
-
----
-
-### JETRO Colombo organises “Sustainable development through Japanese technologies”
-
-*2024-04-10 01:14:19* · [`dailyftlk`](https://www.ft.lk/news/JETRO-Colombo-organises-Sustainable-development-through-Japanese-technologies/56-760524) · `en`
-
-In a groundbreaking initiative, Sri Lanka and Japan joined forces to accelerate sustainable development through Japanese technologies. Japan External Trade Organization (JETRO) organised a seminar themed “Sustainable development through Japanese technologies” on 26 March at Granbell Hotel Colombo. The event aims to foster collaboration between Japan and Sri Lanka, knowledge exchange, and impactful solutions to solve social issues in Sri Lanka through the Japanese technologies.
-
-Ambassador of Japan to Sri Lanka Mizukoshi Hideaki and Sri Lanka Japan Business Council President Mahen Kariyawasan in their opening address expressed their expectations on Japanese sustainable technologies in green and energy sectors.
-
-...
-
-[Data](articles/86c5435f.json)
-
-[Extended Data](ext_articles/86c5435f.ext.json)
-
----
-
-### Ambassador of France visits Southern Province
-
-*2024-04-10 01:11:02* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-of-France-visits-Southern-Province/56-760523) · `en`
-
-Ambassador of France to Sri Lanka and the Maldives Jean-François Pactet paid a visit to the Southern Province of Sri Lanka from 25-27 March.
-
-During his visit, the Ambassador called on Southern Province Governor Dr. Willie Gamage and had a cordial exchange on the current economic and political situation in the province. The Governor explained the measures taken by the Government to expand the tourism industry in the province. The ambassador also called on former Speaker Chamal Rajapaksa and had an exchange of views with French investors engaged in the tourism industry in Galle.
-
-The Ambassador had the pleasure of visiting the Alliance Française in Matara and meeting with the Director and Executive Committee members of the Alliance Française and its annex in Galle. It was a productive exchange of ideas and a reaffirmation of the vibrant cultural exchanges fostered by Alliance Française.
-
-...
-
-[Data](articles/353a3788.json)
-
-[Extended Data](ext_articles/353a3788.ext.json)
-
----
-
-### Muslim Aid Sri Lanka, UNHCR donate Rs. 50 m worth medical equipment to Lady Ridgeway Hospital
-
-*2024-04-10 01:04:02* · [`dailyftlk`](https://www.ft.lk/news/Muslim-Aid-Sri-Lanka-UNHCR-donate-Rs-50-m-worth-medical-equipment-to-Lady-Ridgeway-Hospital/56-760522) · `en`
-
-Muslim Aid Sri Lanka in collaboration with UNHCR handed over the most advanced laparoscope system to Lady Ridgeway Hospital on 2 April.
-
-The event was honoured by Ministry of Health Director General of Health Services Dr. Asela Gunewardana, UNHCR Head of National Office Sanjeetha Satyamurthy, Lady Ridgeway Hospital Director Dr. G. Wijeyesuriya, and Muslim Aid Sri Lanka Country Director Faizer Khan.
-
-...
-
-[Data](articles/5e73bf6d.json)
-
-[Extended Data](ext_articles/5e73bf6d.ext.json)
 
 ---

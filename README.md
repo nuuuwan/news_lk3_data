@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 07:40:12**
+As of **2024-04-10 07:53:30**
 
 ## Newspaper Stats
 
-*Scraped **18,199** Articles*
+*Scraped **18,201** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,77 @@ tamilmirrorlk | 2,129
 adaderanalk | 2,181
 virakesarilk | 2,690
 dailymirrorlk | 2,779
-adaderanasinhalalk | 2,945
+adaderanasinhalalk | 2,947
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,196 (100.0%) of 18,199 articles have been extended.
+18,199 (100.0%) of 18,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### පළමු පාසල් වාරය අදින් අවසන්
+### රාමසාන් අදයි
+
+*2024-04-10 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195493) · `si`
+
+නව සඳ දිස්වීම හේතුවෙන් අද (10) දිනයේ රාමසාන් උත්සවය සමරන බව කොළඹ මහ පල්ලිය නිවේදනය කර තිබේ.
+
+ඉස්ලාම් භක්තිකයන් මාසයක් පුරා උපවාසයේ යෙදුණු අතර එම කාලය පරිත්‍යාග කිරීමේ මාසය ලෙස ද හඳුන්වයි.
+
+සමාව දීමට,ඉවසීම ප්‍රගුණ කිරීමට හා වෙනත් කාරුණික ක්‍රියාකාරකම්වලට වෙන් වූ රාමසාන් මාසය අවසාන දිනය ලෙස රාමසාන් දිනය සැලකේ.
+
+මේ අතර රාමසාන් දින පණිඩුයක් නිකුත් කරමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසන්නේ ලොව වෙසෙන ඉස්ලාම් භක්තිකයන් මාසයක් පුරා උපවාස කරනුයේ තමන් වෙත ද, අනුන් වෙත ද යහපත උදාකර දීමේ අරමුණ ඇතිව බවය.
+
+මෙවර ශ්‍රී ලංකාවාසී ඉස්ලාම් භක්තිකයන් රාමසාන් සමරනුයේ පොදුවේ අපේ රට වඩාත් යහපත් මට්ටමක් කරා එළැඹෙමින් පවතින අවධියක බව ජනාධිපතිනරයා පෙන්වා දෙයි.
+
+මේ අතර රාමසාන් උත්සවය නිමිත්තෙන් ඉස්ලාම් දේවස්ථානවල විශේෂ ආරක්ෂක වැඩපිළිවලක් ක්‍රියාත්මක කර තිබේ.
+
+පොලීසිය, විශේෂ කාර්ය බළකාය සහ ත්‍රිවිධ හමුදා නිලධාරීන් ඇතුළු 7,000කට වැඩි පිරිසක් මේ සඳහා යොදවා ඇති බව පොලීසිය පැවසුවේය.
+
+◼️
+
+[Data](articles/21b77d05.json)
+
+---
+
+### ගිනිකෙළි භාවිතය පරිස්සමින්
+
+*2024-04-10 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195492) · `si`
+
+එළැඹෙන සිංහල දෙමළ අලුත් අවුරුදු උත්සව සමයේ මාර්ග හා ගිනිකෙළි අනතුරු අවම කර ගැනීමට සැලකිලිමත්වන ලෙස රජය ජනතාවගෙන් ඉල්ලා සිටී.
+
+උත්සව සමයේ හදිසි අනතුරුවලින් 36%ක් ගිනිකෙළි භාවිතය නිසා සිදුවන අතර 17%ක් අක්ෂි ආබාධ වාර්තා වන්නේ අපරික්ෂාකාරී රතිඤ්ඤා සහ ගිනිකෙළි භාවිතය නිසා බවට සමීක්ෂණ වාර්තාවලින් අනාවරණය වී තිබේ.
+
+එම අවස්ථාවට එක්වෙමින් කොළඹ ජාතික රෝහලේ  විශේෂඥ ශල්‍ය වෛද්‍ය සජිත් රණතුංග මහතා පැවසුවේ, ත්‍රීරෝද රථ අනතුරු හා යතුරුපැදි අනතුරුවලින් බරපතළ තුවාල ලැබූ පුද්ගලයින් 100%ක් මෙතෙක් සුවය ලබා නොමැති බවය.
+
+මෙරට සිදුවන මාරක අනතුරුවලින් වැඩි ප්‍රමාණයක් අධිවේගී මාර්ගවලින් පිටත සිදුවීම හේතුවෙන් රියදුරන් අවධානයෙන් කටයුතු කළ යුතු බව ද විශේෂඥ ශල්‍ය වෛද්‍ය සජිත් රණතුංග මහතා පැවසුවේය.
+
+◼️
+
+[Data](articles/5eb2c9dd.json)
+
+---
+
+### The first school term is over
 
 *2024-04-10 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195491) · `si`
 
-ඒ අනුව රජයේ පාසල් හා රජයේ අනුමත පෞද්ගලික සිංහල හා දෙමළ පාසල් සදහා පළමු පාසල් වාරයේ පළමු අදියර අදින් අවසන් වන බව අධ්‍යාපන අමාත්‍යංශය සඳහන් කළේය.
+The first school term ends, marking the conclusion of the first phase for Sinhala and Tamil schools. The second phase for Muslim schools begins Wednesday, as announced by the Ministry of Education.
 
-මේ අතර මුස්ලීම් පාසල් සඳහා පළමු පාසල් වාරයේ දෙවන අදියර 17වන බදාද දිනයේ ආරම්භ වන බව අධ්‍යාපන අමාත්‍යංශය වැඩිදුරටත් සඳහන් කළේය.
+🟩
+
+Accordingly, the first phase of the first school is today concluded today, the first phase of the first school to the approved private Sinhala and Tamil schools.
+
+Meanwhile, the second phase of the first phase of the first school for Muslim schools will commence on Wednesday, the Ministry of Education.
 
 ◼️
 
 [Data](articles/2cef2bbd.json)
+
+[Extended Data](ext_articles/2cef2bbd.ext.json)
 
 ---
 
@@ -72,25 +120,31 @@ In 2023, the male labour force participation rate declined to 68.6 percent from 
 
 ---
 
-### කාලගුණයේ වෙනසක්
+### A change in the weather
 
 *2024-04-10 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195489) · `si`
 
-හෙට (11) සිට දිවයිනේ වැසි තත්ත්වයේ තාවකාලික වැඩිවීමක් අපේක්ෂා කෙරේ.
+Expected rainy weather tomorrow in Eastern Province, Hambantota, and parts of Western, Sabaragamuwa provinces. Showers or thundershowers in Galle, Matara, and other areas. Public advised to prepare for wind and lightning.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, නැගෙනහිර පළාතේ සහ හම්බන්තොට දිස්ත්‍රික්කයේ වැසි වාර කිහිපයක් ඇති විය හැකි බවය.
+🟩
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව 2න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+A temporary increase in the rainy industry is expected to increase tomorrow (11).
 
-බස්නාහිර, මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේ දී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+The Department of Meteorology announced that several showers could occur in the Eastern Province and Hambantota District.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටී.
+Showers or thundershowers will occur at several places elsewhere in the Western and Sabaragamuwa provinces and in the Galle and Matara districts.
 
-අද (10) දහවල් 12.11ට තඹුත්තේගම, මැදිරිගිරිය, ඉහළ පුලියන්කුලම, රාජාංගනය, එප්පාවල සහ වාකරේ යන ප්‍රදේශවලට හිරු මුදුන්ව පවතී.
+In some places in the Western, Central and Sabaragamuwa Province, some locations are expected in the morning in the Galle and Matara districts.
+
+The public is kindly requested to take steps to reduce the temporary winds and lightning accidents caused by thunderstorms.
+
+The sun is in Thambulathugama, Medirigiriya, Medirigiriya, Medirigiriya, Rajanganaya, Eppawala and Vaqawala today.
 
 ◼️
 
 [Data](articles/c4505fc9.json)
+
+[Extended Data](ext_articles/c4505fc9.ext.json)
 
 ---
 
@@ -736,21 +790,29 @@ Genie Business Powered by Dialog Finance unveils Cutting-Edge Fintech Solutions 
 
 ---
 
-### புத்தாண்டுக் காலத்தில் விபத்துகள் குறித்து கவனம்
+### Focus on accidents during the New Year
 
 *2024-04-09 23:09:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டுக்-காலத்தில்-விபத்துகள்-குறித்து-கவனம்/175-335806) · `ta`
 
-எதிர்வரும் தமிழ், சிங்களப் புத்தாண்டுக் காலத்தில் வீதி விபத்துக்கள் மற்றும் பட்டாசு விபத்துக்களை குறைத்துக்கொள்வது தொடர்பில் கவனம் செலுத்துமாறு அரசாங்கம் பொது மக்களிடம் கோரிக்கை விடுக்கிறது.
+The government urges the public to reduce road and fireworks accidents during the Tamil and Sinhala New Year, with fireworks causing 36% of accidents. The Ministry of Transport and Health will launch a program to limit these accidents. A media briefing by the Ministry of Transport and the National Council of Road Safety highlighted the need to reduce road accidents during the festive season. Dr. Sajith Ranatunga, a special surgery expert, noted an increase in casualties and motorcycle accidents due to collisions with three-wheelers.
 
-பண்டிகைக் காலங்களில் பட்டாசு வெடிப்பதாலேயே 36 வீத விபத்துகள் ஏற்படுவதாகவும், அதனால் 17 வீதமானோர் கண் பாதிப்புகளுக்கு ஆளாவதாகவும் தெரியவந்துள்ளது.
+🟩
 
-எனவே எதிர்வரும் பண்டிகைக் காலத்தில் வீதி விபத்துக்கள் மற்றும் பட்டாசு விபத்துக்களை மட்டுப்படுத்துவதற்கான விசேட வேலைத்திட்டமொன்றை போக்குவரத்து அமைச்சு, சுகாதார அமைச்சு என்பன இணைந்து முன்னெடுக்கவுள்ளன.
+The government has called on the public to focus on the reduction of road accidents and fireworks accidents during the upcoming Tamil and Sinhala New Year.
 
-அதன்படி, பண்டிகைக் காலத்தில் வீதி விபத்துக்களை மட்டுப்படுத்துதல் குறித்து பொதுமக்களுக்கு அறிவிப்பதற்காக போக்குவரத்து அமைச்சு மற்றும் வீதி பாதுகாப்பு தேசிய சபை ஆகியன நடத்திய ஊடகவியலாளர் சந்திப்பு நேற்று  ஜனாதிபதி ஊடக மையத்தில் நடைபெற்றது.
+Fireworks erupted during the festive season, resulting in 36 percent accidents, and 17 percent are affected.
 
-...
+Therefore, the Ministry of Transport and the Ministry of Health will launch a special program to limit road accidents and crackers during the festive season.
+
+Accordingly, a media briefing held at the Presidential Media Center held a media briefing held by the Ministry of Transport and the National Council of Road Safety to inform the public about the limiting of road accidents during the festive season.
+
+Dr. Sajith Ranatunga, a special surgery expert at the Colombo National Hospital, pointed out that the number of casualties and motorcycle accidents caused by collision with three -wheelers face -to -face collision has increased.. (A)
+
+◼️
 
 [Data](articles/3d4531cf.json)
+
+[Extended Data](ext_articles/3d4531cf.ext.json)
 
 ---
 
@@ -2153,63 +2215,5 @@ This applies to Sinhala and Tamil schools in government schools, government appr
 [Data](articles/42becde1.json)
 
 [Extended Data](ext_articles/42becde1.ext.json)
-
----
-
-### Pavithra's work to prevent the spread of "Konjia Molis" on the Sivanolipada mountain
-
-*2024-04-09 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180827) · `ta`
-
-Pavithradevi Wanniyarachchi, Minister of Wildlife, issued a directive to combat the spread of "Koenigia Mollis" on Sivanolipada mountain, advising the use of scientific methods to eliminate the invasive plant. The plant, originally from Myanmar and the Eastern Himalayas, is now spreading in Nepal and China, impacting native plant species and causing landslides.
-
-🟩
-
-The Minister of Wildlife and Wildlife Protection and Irrigation, Pavithradevi Wanniyarachchi has issued a directive to prevent the spread of occupied plant species called "Koenigia Mollis" in the Ayanamandala rainforest surrounding the Sivanolipada mountain.
-
-He has advised the authorities to implement the activities that focus on the safety of the vitality and use the scientific and technical methods to eliminate the aggressive plant.
-
-The streets, shops and sews on the Sivanolipada mountain have been found to be an aggressive plant spreading nearby. In the area where the plant is spread, the native plant species are completely destroyed.
-
-6 to 8 feet high. Researchers at the University of Sabaragamuwa have discovered that the landslide in the mountainous areas.
-
-It has been confirmed to have a serious impact on plants spreading.
-
-This plant originally appeared in Myanmar and the Eastern Himalayas. It is currently spreading in Nepal and China.
-
-...
-
-[Data](articles/9e6552ad.json)
-
-[Extended Data](ext_articles/9e6552ad.ext.json)
-
----
-
-### Health Guide
-
-*2024-04-09 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180817) · `ta`
-
-Health officials have issued a guide titled "Guidelines to Prevention of Accidents and Strong Medical Cases in Sports Events organized during the festive season." This guide emphasizes public health and safety during festive sports events, including strategies to reduce risks such as accidents and severe medical conditions. It covers a variety of aspects, from managing the crowd to ensure a safe and happy celebration for everyone.
-
-🟩
-
-Health officials have issued a health guide advice to be observed while attending sports events on the eve of the Tamil Sinhala festival.
-
-It has been published titled "Guidelines to Prevention of Accidents and Strong Medical Cases in Sports Events organized during the festive season."
-
-Risks can be raised, whether "pillow fight" and "spectacular breaks", or an event like a marathon running, a bicycle clutter.
-
-Therefore, these guidelines emphasize the importance of giving priority to public health and safety during festive sports events.
-
-In it, event coordinators, competitors and social groups provide essential strategies to reduce risks such as accidents and severe medical conditions.
-
-The guidance includes a variety of aspects, from managing the crowd to ensure a safe and happy celebration for everyone.
-
-The following are the general guidelines that must be followed in all sports events and specific events identified;https://shorturl.at/inmow
-
-◼️
-
-[Data](articles/31c8e1f7.json)
-
-[Extended Data](ext_articles/31c8e1f7.ext.json)
 
 ---

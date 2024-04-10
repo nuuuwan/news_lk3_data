@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 16:33:49**
+As of **2024-04-10 16:50:56**
 
 ## Newspaper Stats
 
-*Scraped **18,301** Articles*
+*Scraped **18,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ economynextcom | 1,021
 adalk | 1,540
 tamilmirrorlk | 2,144
 adaderanalk | 2,191
-virakesarilk | 2,718
-dailymirrorlk | 2,791
+virakesarilk | 2,721
+dailymirrorlk | 2,792
 adaderanasinhalalk | 2,965
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,298 (100.0%) of 18,301 articles have been extended.
+18,301 (100.0%) of 18,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### நீதிமன்றம் உத்தரவிட்டும் இலட்ச ரூபாய் பெறுமதியான பொருட்களை பொலிஸார் மீள வழங்கவில்லை
+
+*2024-04-10 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180904) · `ta`
+
+இந்த வருடம் சிவராத்திரி தினத்தன்று சைவ வழிபாட்டு சடங்குகளை சீர்குலைத்து, வவுனியாவில் உள்ள ஆலய வளாகத்தில் வைத்து கைப்பற்றப்பட்ட உழவு இயந்திரம் உள்ளிட்ட பல உபகரணங்களை நீதிமன்ற உத்தரவின் பேரில், பொலிசார் உரிமையாளர்களிடம் மீள ஒப்படைக்க வேண்டி நிலைமை ஏற்பட்டுள்ளது.
+
+வெடுக்குநாரி மலையில் அமைந்துள்ள ஆதிலிங்கேஸ்வர் ஆலயத்தில் ஒரு மாதத்திற்கு முன்னர் கைப்பற்றப்பட்ட மூன்று இலட்ச ரூபாய்க்கும் அதிக பெறுமதியுடைய பூஜைப் பொருட்கள் மற்றும் உணவுப் பொருட்களை பொலிசார் இதுவரை மீள வழங்கவில்லை என ஆலய நிர்வாகத்தினர் குற்றம் சுமத்தியுள்ளனர்.
+
+பொலிஸாரால் எடுத்துச் செல்லப்பட்ட அனைத்துப் பொருட்களையும் விடுவிக்கக் கோரி, ஆலய நிர்வாகத்தினரும், கைது செய்யப்பட்ட எட்டு சைவத் தமிழர்களும் தாக்கல் செய்த மனுவை விசாரித்த வவுனியா மாவட்ட நீதிமன்றத்தின் உத்தரவுக்கமைய, ஏப்ரல் 04ஆம் திகதி, டெய்லருடன் கூடிய டெக்டர், ஒரு தண்ணீர் பௌசர் மற்றும் சமையலுக்குப் பயன்படுத்தப்படும் அலுமினிய பாத்திரங்களை பொலிஸார் விடுவித்தனர்.
+
+...
+
+[Data](articles/09ccf653.json)
+
+---
+
+### இஸ்ரேலின் தாக்குதலில் சிக்கிய அல்ஸிபா மருத்துவனையிலிருந்து மீட்கப்படும் உடல்கள் -  பிள்ளைகள் எங்கே என சொல்லுங்கள் - கதறும் உறவுகள்
+
+*2024-04-10 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180922) · `ta`
+
+அல்சிபா மருத்துவமனையின் புதைகுழிகளில் காணப்பட்ட உடல்களை சுகாதார பணியாளர்கள் செவ்வாய்கிழமை தோண்டி எடுத்தனர்.
+
+இரண்டுவார காலம் அந்த மருத்துவமனை இஸ்ரேலிய படையினரின் பிடியிலிருந்தவேளைநூற்றுக்கும் மேற்பட்ட பாலஸ்தீனியர்களை கொலை செய்த இஸ்ரேலிய படையினர் அவர்களின் உடல்களை சிதைவடையவிட்டனர் என சுகாதார பணியாளர்கள் குற்றம்சாட்டியுள்ளனர்.
+
+இஸ்ரேலிய படையினர் ஏப்பிரல் முதலாம் திகதி மருத்துவமனையிலிருந்து வெளியேறிய பின்னர் இதுவரை 381 உடல்கள் மீட்கப்பட்டுள்ளன என காசாவின் சிவில்பாதுகாப்பு படையின் பேச்சாளர் மஹ்மூட் பசால் தெரிவித்தார்.
+
+இதில் மருத்துவமனையின் வேறு சில பகுதிகளிற்குள் புதைக்கப்பட்டவர்களின் உடல்கள் உள்ளடக்கப்படவில்லை என அவர் தெரிவித்தார்.
+
+தோண்டி எடுக்கப்பட்ட உடல்கள் அல்லது உடல்பாகங்கள் அதிகளவிற்கு ஆழமாக புதைக்கப்படவில்லை என  அதிகாரிகள் சிஎன்என்னிற்கு தெரிவித்தனர்.
+
+இதன் காரணமாக சில உடல்கள் முற்றிலும் அடையாளம் காணமுடியாத நிலையில் சிதைவடைந்து காணப்படுகின்றன என பசல் தெரிவித்தார்.
+
+...
+
+[Data](articles/20c1b18b.json)
+
+---
 
 ### 294 housing units distributed to those displaced in Kajimawatte fire
 
@@ -48,33 +86,67 @@ As I addressed you today, my heart goes out to the resilient residents of Kajima
 
 [Data](articles/889b7310.json)
 
+[Extended Data](ext_articles/889b7310.ext.json)
+
 ---
 
-### සමන් රත්නායකගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කෙරේ
+### Saman Ratnayake's bail
 
 *2024-04-10 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195514) · `si`
 
-ප්‍රශ්නගත ප්‍රතිදේහ එන්නත් වංචාව සම්බන්ධයෙන් වූ නඩුවට අදාළව රක්ෂිත බන්ධනාගාරගතව සිටින සෞඛ්‍ය අමාත්‍යාංශ අතිරේක ලේකම් සමන් රත්නායක මහතාගේ ඇප ඉල්ලීම අද (10) ප්‍රතික්ෂේප කෙරුණි.
+Saman Ratnayake's bail was rejected by Ms. Luchananda Magistrate Lokawickrama, who ordered the suspect to be remanded until the end of the hearing.
 
-එලෙස ඇප ඉල්ලීම ප්‍රතික්ෂේප කරමින් මාළිගාකන්ද මහෙස්ත්‍රාත් ලෝචනී අබේවික්‍රම මහත්මිය දැනුම්දුන්නේ නඩු විභාගය අවසන් වනතුරු සැකකරුව රක්ෂිත බන්ධනාගාරගතව තැබීමටය.
+🟩
+
+The bail of the Secretary to the Ministry of Health has rejected the bail of the Secretary to the Ministry of Health today (10).
+
+Ms. Luchananda Magistrate Lokawickrama, refusing to request such bail, was notified to be remanded the suspect until the end of the hearing.
 
 ◼️
 
 [Data](articles/534f4094.json)
 
+[Extended Data](ext_articles/534f4094.ext.json)
+
 ---
 
-### මේ විදියට ගියොත් 2025දී වාහන ආනයනය කරන්න පුළුවන් - මුදල් රාජ්‍ය ඇමති
+### மைத்திரியின் தாய்லாந்து விஜயம் குறித்து காவிந்தவுக்கு எழுந்த சந்தேகம்
+
+*2024-04-10 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180921) · `ta`
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவின் தாய்லாந்துக்கான விஜயம் குறித்து ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் காவிந்த  ஜயவர்தன சந்தேகம் நிலவுவதாக தெரிவித்துள்ளார்.
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன உள்ளிட்ட 9 பேர் அடங்கிய குழுவினர் தாய்லாந்துக்கான விஜயமொன்றை மேற்கொண்டு நேற்று செவ்வாய்க்கிழமை (09) அதிகாலை நாட்டிலிருந்து புறப்பட்டுச் சென்றுள்ளனர்.
+
+இந்நிலையிலேயே இந்த விஜயம் சந்தேகத்தை ஏற்படுத்தியுள்ளதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் காவிந்த ஜயவர்தன தெரிவித்துள்ளார்.
+
+இது தொடர்பில் விசாரணை நடத்துமாறு கோரி குற்றப்புலனாய்வு திணைக்களத்தில் செய்யப்பட்ட முறைப்பாடு தொடர்பில் வாக்குமூலம் வழங்குவதற்காக குற்றப் புலனாய்வு திணைக்களத்திற்கு விஜயம் செய்த போதே காவிந்த ஜயவர்தன  இவ்வாறு தெரிவித்துள்ளார்.
+
+இதேவேளை, உயிர்த்த ஞாயிறு தாக்குதல் குறித்து சர்ச்சைக்குரிய கருத்து வெளியிடப்பட்ட நிலையில் தற்போது முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தாய்லாந்து நோக்கி விஜயம் மேற்கொண்டுள்ளமை சந்தேகத்தை எழுப்புவதாக தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/67630815.json)
+
+---
+
+### If you go this way, the vehicles can be imported in 2025 - Finance Minister of Finance
 
 *2024-04-10 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195513) · `si`
 
-රට තුළ දැනට පවත්වාගෙන යන වැඩපිළිවෙළ කඩාකප්පල් නොකර ආරක්ෂා කරගෙන ගියහොත් 2025 වසරේදී වාහන ආනයනය  විවෘත කිරීමට හැකියාවක් ඇති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+"Finance Minister predicts vehicle imports by 2025 if no sabotage. State Minister Ranjith Siyambalapitiya emphasizes protection and readiness for trade."
 
-රටේ අවශ්‍යතාව හඳුනාගෙන ක්‍රමක්‍රමයෙන් මෙම වෙළෙඳාම විවෘත කිරීමට සූදානම් බවද ඔහු වැඩිදුරටත් සඳහන් කළේය.
+🟩
+
+State Minister Ranjith Siyambalapitiya said that if the country was protected without sabotaging in the country, he said.
+
+He further stated that the trade is ready to identify and open the trade.
 
 ◼️
 
 [Data](articles/c380f4f1.json)
+
+[Extended Data](ext_articles/c380f4f1.ext.json)
 
 ---
 
@@ -151,6 +223,22 @@ The seminar, attended by dignitaries including State Minister of Defence Pramith
 [Data](articles/633f9d42.json)
 
 [Extended Data](ext_articles/633f9d42.ext.json)
+
+---
+
+### India remains SL’s most reliable, dependable partner: Indian Envoy
+
+*2024-04-10 15:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-remains-SLs-most-reliable-dependable-partner-Indian-Envoy/108-280564) · `en`
+
+Colombo, Aprl 10 (Daily Mirror) - India will remain Sri Lanka’s most reliable friend and a trusted and dependable partner, emphasized Indian High Commissioner to Sri Lanka Santosh Jha.
+
+"Our bilateral cooperation is expanding and diversifying. It is buttressed by India’s growing national capabilities. We now cooperate in a wider range of areas including infrastructure and connectivity, deeper economic engagement, trade and investment, culture and education, tourism and people-to-people ties,” stated the High Commissioner during the Second Seminar on India-Sri Lanka Defence Seminar held in Colombo.
+
+The seminar, attended by dignitaries including State Minister of Defence Pramitha Bandara Tennakoon, Chief of Defence Staff Gen. Shavendra Silva, Commanders of the Sri Lanka Navy and Air Force, senior officials from the Sri Lankan Armed Forces, and Indian delegates led by Additional Secretary from the Ministry of Defence, Anurag Bajpai, emphasized the Defence relations between the two nations.
+
+...
+
+[Data](articles/aa661028.json)
 
 ---
 
@@ -2261,99 +2349,5 @@ Meanwhile, the second phase of the first phase of the first school for Muslim sc
 [Data](articles/2cef2bbd.json)
 
 [Extended Data](ext_articles/2cef2bbd.ext.json)
-
----
-
-### Sri Lanka’s labour force participation rate hits new low in 2023
-
-*2024-04-10 06:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-labour-force-participation-rate-hits-new-low-in-2023/108-280514) · `en`
-
-2023 labour force participation rate contracts to 48.6% from 49.8% in 2022
-
-Male labour force participation dips to 68.6% while female participation falls to 31.3%
-
-In absolute terms, SL’s employed population declined by 137,821 to just above 8 million
-
-Sri Lanka’s labour force participation rate hit a new low in 2023, the recently published Labour Force Survey (LFS) annual bulletin highlighted.
-
-In 2023, labour force participation rate declined to 48.6 percent from 49.8 percent recorded in 2022. Since 2021, labour force participation rate has remained below the 50 percent mark.
-
-The labour force participation rate is the percentage of the population that is either working or actively looking for work.
-
-In 2023, the male labour force participation rate declined to 68.6 percent from 70.5 percent from a year earlier while the female labour force participation rate fell to 31.3 percent from 32.1 percent in the same period.
-
-...
-
-[Data](articles/f34df5fb.json)
-
-[Extended Data](ext_articles/f34df5fb.ext.json)
-
----
-
-### A change in the weather
-
-*2024-04-10 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195489) · `si`
-
-Expected rainy weather tomorrow in Eastern Province, Hambantota, and parts of Western, Sabaragamuwa provinces. Showers or thundershowers in Galle, Matara, and other areas. Public advised to prepare for wind and lightning.
-
-🟩
-
-A temporary increase in the rainy industry is expected to increase tomorrow (11).
-
-The Department of Meteorology announced that several showers could occur in the Eastern Province and Hambantota District.
-
-Showers or thundershowers will occur at several places elsewhere in the Western and Sabaragamuwa provinces and in the Galle and Matara districts.
-
-In some places in the Western, Central and Sabaragamuwa Province, some locations are expected in the morning in the Galle and Matara districts.
-
-The public is kindly requested to take steps to reduce the temporary winds and lightning accidents caused by thunderstorms.
-
-The sun is in Thambulathugama, Medirigiriya, Medirigiriya, Medirigiriya, Rajanganaya, Eppawala and Vaqawala today.
-
-◼️
-
-[Data](articles/c4505fc9.json)
-
-[Extended Data](ext_articles/c4505fc9.ext.json)
-
----
-
-### Increased rainfall expected over the island from tomorrow
-
-*2024-04-10 06:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98547/increased-rainfall-expected-over-the-island-from-tomorrow) · `en`
-
-Rainy condition is expected to temporarily enhance over the island from tomorrow (11), the Department of Meteorology says.
-
-Several spells of showers will occur in the Eastern Province and Hambantota District. Showers or thundershowers are expected in parts of the Western and Sabaragamuwa provinces and Galle and Matara districts after 2.00 p.m.
-
-Misty conditions can be expected at some places in Western, Central and Sabaragamuwa provinces and in Galle and Matara districts in the morning.
-
-The general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-Meanwhile, on the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka from 05 to 15 April this year. The nearest areas of Sri Lanka over which the sun is overhead today (10) are Tambuttegama, Medirigiriya, Ihala Puliyankulama, Rajanganaya, Eppawala, Vakarai at around noon.
-
-◼️
-
-[Data](articles/9b7bbffe.json)
-
-[Extended Data](ext_articles/9b7bbffe.ext.json)
-
----
-
-### Vehicle imports possible next year if economy improves
-
-*2024-04-10 04:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vehicle-imports-possible-next-year-if-economy-improves/108-280515) · `en`
-
-Colombo, April 10 (Daily Mirror) - If the country's economy improves by next year, there can be optimism regarding the import of vehicles, Finance State Minister Ranjith Siyambalapitiya said.
-
-Addressing the media at an opening event in Dematagoda, he said Rs. 13 billion was paid additionally for the increase in state employee salaries. Accordingly, Rs. 107 billion was paid for state employee salaries for the month of April.
-
-Meanwhile, the minister mentioned that the programme of providing ten kilogrammes of rice to 2.7 million families for the months of April and May will start on April 21. State Minister Siyambalapitiya said that more than half of the total number of families in Sri Lanka are entitled to this subsidy.
-
-◼️
-
-[Data](articles/0cdd1191.json)
-
-[Extended Data](ext_articles/0cdd1191.ext.json)
 
 ---

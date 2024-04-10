@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 15:18:16**
+As of **2024-04-10 15:33:50**
 
 ## Newspaper Stats
 
-*Scraped **18,283** Articles*
+*Scraped **18,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,62 @@ adalk | 1,539
 tamilmirrorlk | 2,141
 adaderanalk | 2,189
 virakesarilk | 2,714
-dailymirrorlk | 2,787
-adaderanasinhalalk | 2,961
+dailymirrorlk | 2,788
+adaderanasinhalalk | 2,962
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,282 (100.0%) of 18,283 articles have been extended.
+18,283 (100.0%) of 18,285 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### ලෝක බලවතුන් යුක්‍රේනයට කොන්දේසි මතක් කරයි
+
+*2024-04-10 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195511) · `si`
+
+යුක්‍රේනයට, අමෙරිකාව ලබාදෙන යුද ආධාරවලට ආරම්භයේදී පැනවූ කොන්දේසියක් පිළිබඳව මේ වනවිට යළිත් අවධානය යොමුවෙමින් පවතී.
+
+අමෙරිකාව මෙන්ම ඇතැම් යුරෝපීය රටවල් යුක්‍රේනයට පැනවු එම කොන්දේසිය වන්නේ තමන් ලබාදෙන යුද අවිවලින් රුසියානු භූමිය තුළට ප්‍රහාර එල්ල නොකළ යතු බවය.
+
+එම කොන්දේසිය පසුගිය කාලය තුළ බොහෝ දුරට අමතකව පැවතුනත් දැන් නැවත ඉස්මතු වීමට එක් ප්‍රධාන හේතුවක් තිබේ.
+
+ඒ, යුක්‍රේනය රුසියානු තෙල් පිරිපහදුවලට එල්ල කරන ප්‍රහාර නිසා ගෝලීය බලශක්ති සැපයුමට එල්ලවී ඇති බලපෑම ය.
+
+අමෙරිකානු පෙන්ටගනයේ ප්‍රධානියා හෙවත් ආරක්ෂක ලේකම් ලොයිඩ් ඔස්ටින් මේ සම්බන්ධයෙන් ප්‍රකාශයක් කර තිබේ.
+
+ඔහු එම ප්‍රකාශය සිදුකළේ අමෙරිකානු සෙනේට් මණ්ඩලයේ සන්නද්ධ සේවා කමිටුව ඉදිරියේ සිදුකළ කරුණු විමසීමකදී ය.
+
+අමෙරිකානු ආරක්ෂක ලේකම්වරයා එහිදී සඳහන් කළේ යුක්‍රේනය රුසියානු තෙල් පිරිපහදුවලට එල්ල කරන ප්‍රහාර සමස්ථ ගෝලීය ඉන්ධන සහ බලශක්ති පද්ධතියට අහිතකර බලපෑමක් සිදුකරන බවය.
+
+එමෙන්ම රුසියානු භූමිය වෙත එල්ල කරන යුක්‍රේන ප්‍රහාර අමෙරිකා එක්සත් ජනපදය විසින් අනුමත නොකරන බව අමෙරිකානු රාජ්‍ය ලේකම් ඇන්තනි බ්ලින්කන් ද පසුගිය අප්‍රේල් 02 වනදා සඳහන් කර තිබුණි.
+
+...
+
+[Data](articles/7c1c3e5e.json)
+
+---
+
+### Chamara Sampath threatens Phosphate Company employee
+
+*2024-04-10 15:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chamara-Sampath-threatens-Phosphate-Company-employee/108-280562) · `en`
+
+Colombo, April 10 (Daily Mirror)- State Minister of Primary Industries Chamara Sampath Dasanayake is alleged to have severely accused and threatened the Human Resources and Administration Assistant of the Lanka Phosphate Company H.D.V.K. Chandraratne in the presence of the officials of the Ministry and the company.
+
+The trade union Sri Lanka Nidahas Sevaka Sangamaya has informed the Minister that it will resort to trade union action in case of a recurrence of similar incidents in the future.
+
+Meanwhile, the official concerned has requested the Chairman of the Company Sandya Ambanwela to hold a formal investigation into the incident.
+
+The official said the Minister called her for a meeting at the Ministry and threatened and severely scolded her in the presence of the Chairman and several senior officials of the company, on an allegation that she had harassed a casual employee.
+
+...
+
+[Data](articles/1db42e49.json)
+
+---
 
 ### Identifying the main factors for accidents on high -speed streets
 
@@ -58,7 +102,7 @@ The Director of the Southern Expressway Police Division and Senior Superintenden
 
 ---
 
-### Hambantota International Port kicks of container operations
+### Hambantota International Port kicks off container operations
 
 *2024-04-10 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98555/hambantota-international-port-kicks-off-container-operations) · `en`
 
@@ -167,6 +211,8 @@ Auspicious periods comprise of various timings such as the New Year’s Eve, Pun
 ◼️
 
 [Data](articles/80d6aae3.json)
+
+[Extended Data](ext_articles/80d6aae3.ext.json)
 
 ---
 
@@ -2289,49 +2335,5 @@ The event was honoured by Ministry of Health Director General of Health Services
 [Data](articles/5e73bf6d.json)
 
 [Extended Data](ext_articles/5e73bf6d.ext.json)
-
----
-
-### Cabinet approves recruitment of 2,500 English teachers
-
-*2024-04-10 01:00:27* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-recruitment-of-2-500-English-teachers/56-760521) · `en`
-
-To strengthen language proficiency countrywide, the Cabinet of Ministers approved recruiting 2,500 English teachers.
-
-“The Government has recognised the pressing need for English teachers, particularly in schools offering General Certificate of Education (GCE) Ordinary Level subjects in English. Currently, 4,441 English teachers have been approved for these schools, leaving a deficit of 6,500 teachers to meet the demand,” Cabinet Co-Spokesperson and Minister Bandula Gunawardena disclosed.
-
-Highlighting the importance of English proficiency in today’s globalised world, Gunawardena asserted the Government’s determination to expand English medium education across the country.
-
-...
-
-[Data](articles/c39be6e1.json)
-
-[Extended Data](ext_articles/c39be6e1.ext.json)
-
----
-
-### Hajj Quota allocation suspended by Court of Appeal
-
-*2024-04-10 00:57:58* · [`dailyftlk`](https://www.ft.lk/news/Hajj-Quota-allocation-suspended-by-Court-of-Appeal/56-760520) · `en`
-
-The Court of Appeal yesterday suspended the allocation of 3500 quotas by the Hajj committee given to Sri Lanka for the Hajj Pilgrimage.
-
-The Kingdom of Saudi Arabia had granted a quota of 3500 pilgrims to the island for the upcoming Hajj in June.
-
-The Hajj committee was given discretion to allocate from the quota numbers of pilgrims to each travel operator.
-
-In a writ petition filed before the Court of Appeal a travel agent who was not granted any allocation said the process adopted by the Hajj committee was arbitrary.
-
-The Petitioners said that there was a large amount of money of pilgrims which were involved and that the process was susceptible to corrupt practices.
-
-They said that they had been singled out and victimised after questioning the conduct of allocation of quotas of the Hajj committee in the year 2023.
-
-The court of appeal also ordered the provisional registration of the Travel Agent United Travels as a Hajj operator.
-
-...
-
-[Data](articles/ae8d3fbb.json)
-
-[Extended Data](ext_articles/ae8d3fbb.ext.json)
 
 ---

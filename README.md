@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 23:03:21**
+As of **2024-04-10 23:18:16**
 
 ## Newspaper Stats
 
-*Scraped **18,353** Articles*
+*Scraped **18,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ economynextcom | 1,027
 adalk | 1,545
 tamilmirrorlk | 2,148
 adaderanalk | 2,197
-virakesarilk | 2,730
-dailymirrorlk | 2,801
+virakesarilk | 2,731
+dailymirrorlk | 2,802
 adaderanasinhalalk | 2,973
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,353 (100.0%) of 18,353 articles have been extended.
+18,353 (100.0%) of 18,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### பிறவி அட்ரீனல் ஹைப்பர்பிளேசியா எனும் சுரப்பியில் ஏற்படும் பாதிப்பிற்குரிய நவீன சிகிச்சை
+
+*2024-04-10 22:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180939) · `ta`
+
+எம்மில் சிலருக்கு பிறவிலேயே அட்ரீனல் எனப்படும் சுரப்பியில் குறைபாடு உண்டாகி இருக்கும். இதனை மருத்துவ மொழியில் கான்ஜினென்டல் அட்ரீனல் ஹைபர்பிளாஸியா என குறிப்பிடுவர். இதற்கு தற்போது நவீன மருத்துவ சிகிச்சைகள் மூலம் முழுமையான நிவாரணம் கிடைக்கிறது என மருத்துவர்கள் தெரிவிக்கிறார்கள்.
+
+ஒவ்வொருடைய உடலிலும் சிறுநீரகத்தின் மேல் பகுதியில் சிறிய அளவில் சுரப்பி ஒன்று இருக்கும். அதற்கு அட்ரீனல் சுரப்பி என பெயர். இந்த சுரப்பி பல்வேறு ஹோர்மோன்களையும் சுரக்கிறது. நோய் எதிர்ப்பு சக்தி, வளர்ச்சிதை மாற்றம், அத்தியாவசிய செயல்பாடு என பல்வேறு விடயங்களில் இதனுடைய ஹோர்மோன் உதவி செய்கிறது. இத்தகைய ஹோர்மோன் சுரப்பியின் செயல்பாடு- செயல்பாட்டில் சிலருக்கு பிறக்கும்போதே குறைபாடு உண்டாகும்.
+
+...
+
+[Data](articles/44cb8391.json)
+
+---
+
+### SJB trying to divert attention from original debate: NPP
+
+*2024-04-10 22:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-trying-to-divert-attention-from-original-debate-NPP/108-280587) · `en`
+
+Colombo, April 10 (Daily Mirror)- Claiming that NPP leader Anura Kumara Dissanayake first invited SJB leader Sajith Premadasa for a debate, the National People’s Power (NPP) said some members of the Samagi Jana Balavegaya were now attempting to divert the attention from the original debate.
+
+In a statement, NPP National Executive Member Dr. Nalinda Jayatissa said the first conversation about a debate between the two sides was created with the statement made by Anura Kumara Dissanayake during a TV programme in 2023, saying that he is ready for a debate with Sajith Premadasa on the development path of the country.
+
+He said Sajith Premadasa declined the debate challenge for undisclosed reasons and that several SJB MPs proposed an alternative debate on economic policies with the Economic Council of the National People's Power.
+
+...
+
+[Data](articles/77541eae.json)
+
+---
 
 ### ST released the new logo of their group. Anthony's Industries Group
 
@@ -2341,57 +2371,5 @@ They have no agreement with a salary increase. Senthil Thondaman said that the s
 [Data](articles/0c432700.json)
 
 [Extended Data](ext_articles/0c432700.ext.json)
-
----
-
-### Today is Ramadan
-
-*2024-04-10 11:17:29* · [`adalk`](https://www.ada.lk/breaking_news/අදයි-රාමසාන්/11-409045) · `si`
-
-Today marks the beginning of Ramadan, celebrated by the Colombo Maha Church. Sri Lankan President Ranil Wickremesinghe highlights the positive impact of Ramadan on Islamists worldwide. Prime Minister Dinesh Gunawardena acknowledges the religious observances of the Islamic community during Ramadan, expressing gratitude to the government for supporting various sectors. He also thanks the Muslim community for their commitment to maintaining progress.
-
-🟩
-
-The Colombo Maha Church will be announced that the new moon was celebrated today 10 today.
-
-President Ranil Wickremesinghe says that the Sri Lankan Islamists in the world is a phase of Ramadan, which is in general, is a good way to achieve good.The President points out.
-
-Prime Minister Dinesh Gunawardena has issued an announcement and the Islamic people have been given their religious observances and their religious practices in the Ramazan period.
-
-The Prime Minister states that this opportunity will also be grateful to the Government of Sri Lanka to the government control process, business sector, educational and various professional sectors to the fields, sports and cultural sectors.
-
-The Prime Minister also further stated that the kind commitment to the Muslim community is expecting further to maintain the most difficult goals we have won.
-
-◼️
-
-[Data](articles/707bdb1e.json)
-
-[Extended Data](ext_articles/707bdb1e.ext.json)
-
----
-
-### Some people attempt to attack-police chancellor
-
-*2024-04-10 11:16:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாக்குதல்-நடத்த-சிலர்-முயற்சி-பொலிஸ்-மா-அதிபர்/175-335818) · `ta`
-
-Inspector General of Police Patriot Tennakoon emphasized the need for enhanced security measures for upcoming Ramadan and New Year celebrations, highlighting the global threat of terrorism. He noted attempts to attack political, religious, and cultural aspects to incite public peace, and the importance of vigilance against unexpected terrorist attacks. Special security measures, including over 7,500 security personnel, have been implemented for mosques during Ramadan.
-
-🟩
-
-Police Inspector Patriot Tennakoon emphasized the need to strengthen security measures in view of the upcoming Ramadan festival and the Sinhala and Hindu New Year celebrations.
-
-Speaking at an event in the Minister's Security Division, the IGP stressed the importance of focusing on VIP security and national security, highlighting the global threat of terrorist attacks.
-
-“Terrorist and terrorist attacks worldwide often occur unexpectedly. This underlines the need for awareness, ”the IGP said.
-
-Meanwhile, the Inspector General of Police said that some are trying to attack political, religious and cultural aspects to incite public peace.
-
-Special attention should be paid to safety during the Ramadan festival and the Sinhala, Hindu New Year. Security conditions may change quickly. Other incidents may occur even if there is no Easter attack level. We need to solve social problems such as extremism and terrorism. , "IGP said.
-
-...
-
-[Data](articles/bb9106ab.json)
-
-[Extended Data](ext_articles/bb9106ab.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 21:53:11**
+As of **2024-04-10 22:05:51**
 
 ## Newspaper Stats
 
-*Scraped **18,348** Articles*
+*Scraped **18,349** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,55 +20,85 @@ tamilmirrorlk | 2,148
 adaderanalk | 2,195
 virakesarilk | 2,728
 dailymirrorlk | 2,801
-adaderanasinhalalk | 2,972
+adaderanasinhalalk | 2,973
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,346 (100.0%) of 18,348 articles have been extended.
+18,348 (100.0%) of 18,349 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### පොලිස් පහරදීමකින් තරුණයෙකුට වෘෂණ කෝෂයක් අහිමි වෙලා ?
+### හමාස් නායක ඉස්මයිල් ට පුතුන් තිදෙනෙක් අහිමි කළ ප්‍රහාරය
+
+*2024-04-10 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195524) · `si`
+
+හමාස් නායක ඉස්මයිල් හනියේ ගේ පුතුන් තිදෙනෙක් ඊශ්‍රායල ප්‍රහාර හේතුවෙන් මියගොස් ඇති බව වාර්තා වෙයි.
+
+කටාර් හි ජීවත්වන හමාස් නායකයා අල්ජසීරා පුවත් සේවයට පවසා ඇත්තේ ඊශ්‍රායල ගුවන් ප්‍රහාර හේතුවෙන් සිය මුණුපුරන් කිහිපදෙනෙක් ද මියගොස් ඇති බවය.
+
+◼️
+
+[Data](articles/13a64172.json)
+
+---
+
+### A young man lost a scrout with a police attack?
 
 *2024-04-10 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195522) · `si`
 
-මැදවච්චිය පොලීසියේ නිලධාරීන් පිරිසක් සිදුකළ පහරදීමක් නිසා සිය පුතුගේ වෘෂණ කෝෂයක් සැත්කමකින් ඉවත් කිරීමට සිදුවූ බවට ඔහුගේ මව චෝදනා කරයි.
+A young man from Medawachchiya Village was assaulted by police during a traffic stop, leading to accusations of assault and the removal of his testicle during surgery. The police claim the young man was trying to arrest them, and he was found to be drunk and without a valid driver's license.
 
-පොලීසිය පවසන්නේ තරුණයාට පහර නොදුන් අතර ඔහු අත්අඩංගුවට ගැනීමට යාමේදී ඔහු කළහකාරී ලෙස හැසිරුණු බවය.
+🟩
 
-අනුරාධපුර, මැදවච්චිය තුලාවේලි ගම්මානයේ පදිංචි 23 හැවිරිදි තරුණයෙකු සිය මිතුරෙකු සමග ලොරි රථයකින් මැදවච්චිය නගරය බලා ගොස් තිබුණේ පසුගිය 07 වනදාය.
+His mother accuses that a group of Media Kumarachchiya Police had assaulted her son from surgery.
 
-එම අවස්ථාවේ ලොරිය පිටුපසින් හඹා ආ මැදවච්චිය පොලීසියේ රථවාහන අංශයේ නිලධාරීන් දෙදෙනකු එම ලොරි රථය නවතා සිය පුතුට හා මිතුරාට පහරදුන් බව තරුණයාගේ මව පවසන්නීය.
+Police say the young man did not attack the young man and he was acting as he was trying to arrest.
 
-ඇය චෝදනා කරන්නේ පහරකෑමෙන් සිදුවූ බරපතළ තුවාල නිසා සිය පුතුගේ වෘෂණ කෝෂයක් ද සැත්කමකින් ඉවත් කිරීමට සිදුවූ බවය.
+A 23-year-old youth from Medawachchiya Village of Medawachchiya Village had gone to Medawachchiya with a lorry with his friend.
 
-ඔහු පවසන්නේ ත්‍රීරෝද රථයකින් එම ස්ථානයට පැමිණි පොලිස් නිලධාරීන් පිරිසක්ද තමාට සහ මිතුරාට බරපතළ ලෙස පහරදුන් බවය.
+Behind the Lorry, two traffic divisions of the Medawachchiya Police Station Stop the lorry and attacked his son and the friend.
 
-සිද්ධිය සම්බන්ධයෙන් අප විමසූ විට මැදවච්චිය පොලීසිය සඳහන් කළේ තරුණයින් දෙදෙනා ගමන් ගත් ලොරි රථය නවත්වන ලෙසට අණ කළ ද ඔවුන් අඛණ්ඩව ඉදිරියට ධාවනය කිරීම නිසා හඹාගොස් අත්අඩංගුවට ගැනීමට සිදුවූ බවය.
+She accuses the victims of assault and that their son's tube's testicle was also removed from surgery.
+
+He says that a group of police officers who had arrived at the scene with a three-wheeler were seriously attacked.
+
+When we asked about the incident, Medawachchiya Police said that they were continuing to stop the lorry that the two youths were traveling.
+
+They have been illegal drinks in their possession, police said.
+
+The youth was drunk at the time of the incident and he did not have a valid driver's license.
 
 ...
 
 [Data](articles/dde8619c.json)
 
+[Extended Data](ext_articles/dde8619c.ext.json)
+
 ---
 
-### இஸ்ரேலின் தாக்குதலில் ஹமாஸ் தலைவரின்  புதல்வர்கள் பலி
+### Hamas leader's sons killed in Israel's attack
 
 *2024-04-10 21:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180937) · `ta`
 
-காசாவில் இஸ்ரேல் மேற்கொண்ட தாக்குதலில் தனது மூன்று புதல்வர்களும் பேரனும் கொல்லப்பட்டுள்ளதை ஹமாஸ் தலைவர் இஸ்மாயில் ஹனியே உறுதிசெய்துள்ளார்.
+Hamas leader Ismail Honey confirms his three sons and grandson were killed in an Israeli attack on Gaza. He vows Hamas will not retreat, citing threats to their families. Hamas sees the attack as a sign of Israel's defeat.
 
-இஸ்ரேலிய இராணுவம் தங்கள் குடும்பத்தவர்களை கொலை செய்கின்றது என்பதற்காக ஹமாஸ் தலைவர்கள் பின்வாங்கமாட்டார்கள் என குறிப்பிட்டுள்ள அவர் இது  யுத்த நிறுத்த பேச்சுவார்த்தைகளிற்கான ஹமாசின் வேண்டுகோள்களை பாதிக்காது எனவும் தெரிவித்துள்ளார்.
+🟩
 
-தனது குடும்பத்தின் மீதான தாக்குதல் இஸ்ரேலின் தோல்வியை வெளிப்படுத்துகின்றது என தெரிவித்துள்ள ஹமாஸின் தலைவர் எனது பிள்ளைகளின் இரத்தம் பாலஸ்தீன மக்களின் பிள்ளைகளை விட பெறுமதியானது இல்லை எனவும் குறிப்பிட்டுள்ளார்.
+Hamas leader Ismail Honey has confirmed that his three sons and grandson have been killed in Israel's attack on Gaza.
+
+He said Hamas leaders would not retreat because the Israeli military would kill their families, he said, adding that Hamasin's requests for ceasefire negotiations would not affect the requests of the ceasefire.
+
+Hamas, the leader of the Hamas, said the attack on his family was revealing the defeat of Israel.
 
 ◼️
 
 [Data](articles/b53ec698.json)
+
+[Extended Data](ext_articles/b53ec698.ext.json)
 
 ---
 
@@ -2371,27 +2401,5 @@ However, low salaries have proved to be a problem in the recruitment of teachers
 [Data](articles/448747ad.json)
 
 [Extended Data](ext_articles/448747ad.ext.json)
-
----
-
-### The corpse of a woman who was naked in Jaffna
-
-*2024-04-10 10:56:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-நிர்வாணமாக-மீட்கப்பட்ட-பெண்ணின்-சடலம்/71-335815) · `ta`
-
-In Jaffna, an elderly woman was found naked, and neighbors reported finding her children and their husbands dead at home. The police recovered her body for examination at Jaffna Bodhana Hospital.
-
-🟩
-
-An elderly woman has been found naked naked in a state of Manipay police division in Jaffna.
-
-Neighbors have informed the police that the children and their husbands were living alone and found dead at home yesterday.
-
-The police have recovered the body and handed over the body to the Jaffna Bodhana Hospital for anatomical examination.
-
-◼️
-
-[Data](articles/b25fc95f.json)
-
-[Extended Data](ext_articles/b25fc95f.ext.json)
 
 ---

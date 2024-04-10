@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 22:50:54**
+As of **2024-04-10 23:03:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,351 (100.0%) of 18,353 articles have been extended.
+18,353 (100.0%) of 18,353 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,8 @@ The fishermen issue is a contentious one in the ties between India and Sri Lanka
 ...
 
 [Data](articles/d06ac31e.json)
+
+[Extended Data](ext_articles/d06ac31e.ext.json)
 
 ---
 
@@ -720,19 +722,29 @@ In 2010, the President handed over the housing of 294 houses in replacement of t
 
 ---
 
-### இலங்கையில் சட்டவிரோதமான முறையில் ஆர்ப்பாட்டங்கள் ஒடுக்கப்படுகின்றன : அதிகாரிகளை தண்டிக்குமாறு அரசாங்கத்தை வலியுறுத்துகிறது மன்னிப்புச்சபை
+### Illegal protests in Sri Lanka
 
 *2024-04-10 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180927) · `ta`
 
-இலங்கையில் 2022 - 2023 ஆம் ஆண்டு வரையான காலப்பகுதியில் இடம்பெற்ற ஆர்ப்பாட்டங்கள் சட்டவிரோத ஆயுதங்கள் மற்றும் உத்திகளைப் பயன்படுத்தி ஒடுக்கப்பட்டிருப்பதாக சுட்டிக்காட்டியுள்ள சர்வதேச மன்னிப்புச்சபை, அமைதியான முறையில் ஒன்றுகூடுவதற்கான உரிமைக்கு மதிப்பளித்து, அதனை உறுதிப்படுத்துவதற்கு தவறுவது அடக்குமுறையின் குறியீடாகும் எனத் தெரிவித்துள்ளது.
+Amnesty International reports on illegal protest suppression in Sri Lanka from 2022-2023, highlighting use of weapons and strategies against peaceful gatherings, which it deems a symbol of repression. The government has been urged to address past illegal actions during protests. The report, based on a survey over 16 months, shows continuous illegal use of tear gas, water, and improper bearding by law enforcement. Over half of the protests failed to adhere to international laws, limiting the right to peaceful assembly. Protests were sparked by economic crisis, demanding resignation of leaders and accountability for corruption and human rights violations. Despite the exit of former President Gotabhaya Rajapakse, illegal suppression continued under President Ranil Wickremesinghe.
 
-இந்நிலையில் கடந்த காலங்களில் ஆர்ப்பாட்டங்களின்போது சட்டவிரோத படைப்பலம் பிரயோகிக்கப்பட்டதாக முன்வைக்கப்படும் குற்றச்சாட்டுக்கள் தொடர்பில் முறையான விசாரணைகளை மேற்கொள்வதுடன், அத்தகைய சட்டவிரோத செயற்பாடுகளில் ஈடுபட்ட அதிகாரிகளை சட்டத்தின்முன் நிறுத்துவதற்கு நடவடிக்கை எடுக்குமாறு அரசாங்கத்தை வலியுறுத்தியுள்ளது.
+🟩
 
-இலங்கையில் ஆர்ப்பாட்டங்களின்போது சட்டவிரோதமான முறையில் ஆயுதங்கள் பயன்படுத்தப்படுவது பற்றி 'எந்தவொரு ஆர்ப்பாட்டத்தையும் ஒடுக்கத்தயார்' எனும் மகுடத்திலான விரிவான அறிக்கையொன்று சர்வதேச மன்னிப்புச்சபையினால் நேற்று வெளியிடப்பட்டுள்ளது.
+Pointing out that the demonstrations from 2022 to 2023 in Sri Lanka have been suppressed by illegal weapons and strategies, the International Amnesty International said that failing to ensure the right to gather peacefully and that it was a symbol of repression.
+
+In this context, the government has urged the government to take steps to stop the law in the past, with formal inquiries into allegations of illegal creation during protests in the past.
+
+The Amnesty International yesterday issued a detailed report on the illegal use of weapons during demonstrations in Sri Lanka.
+
+The Amnesty International has prepared this statement on the basis of a widespread survey of strategies and use of the strategies that have been handled to suppress them during the 16 -month period in Sri Lanka over 16 months from March - 2023.
+
+The study shows a continuous tendency of illegal tear gas, the use of water, and improper bearding by Sri Lanka's legal implementation structures.
 
 ...
 
 [Data](articles/ab7f4f84.json)
+
+[Extended Data](ext_articles/ab7f4f84.ext.json)
 
 ---
 

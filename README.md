@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 02:03:18**
+As of **2024-04-11 02:18:31**
 
 ## Newspaper Stats
 
-*Scraped **18,363** Articles*
+*Scraped **18,364** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,027
 adalk | 1,545
 tamilmirrorlk | 2,149
 adaderanalk | 2,199
-virakesarilk | 2,735
+virakesarilk | 2,736
 dailymirrorlk | 2,803
 adaderanasinhalalk | 2,973
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,362 (100.0%) of 18,363 articles have been extended.
+18,363 (100.0%) of 18,364 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### நடிகர் நாகேஷின் பேரன் பிஜேஷ் நடிக்கும் 'வானரன்' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு
+
+*2024-04-11 02:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180944) · `ta`
+
+திரையுலகில் நட்சத்திர வாரிசுகள் அறிமுகமாவது இயல்பு. முத்திரை பதித்த நட்சத்திரங்களின் இரண்டாம் தலைமுறை வாரிசுகளும் நட்சத்திரங்களாக அறிமுகமாவதும் இயல்பு. அந்த வகையில் உடல் மொழியாலும், நவரச பாவனைகளாலும்,  பார்வையாளர்களிடத்தில் புன்னகையை பூக்கச் செய்த மறைந்த நகைச்சுவை நடிகர் நாகேஷின் பேரன்- நடிகர் ஆனந்த் பாபுவின் மகனான பிஜேஷ் கதையின் நாயகனாக வித்தியாசமான வேடத்தில் நடித்திருக்கும் 'வானரன்' எனும் திரைப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. இதனை இயக்குநர் கே. பாக்யராஜ் வெளியிட்டு, பட குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+
+அறிமுக இயக்குநர் ஸ்ரீராம் பத்மநாபன் இயக்கத்தில் உருவாகி இருக்கும் 'வானரன்' திரைப்படத்தின் நடிகர் பிஜேஷ் கதையின் நாயகனாக நடித்திருக்கிறார். நிரன் சந்தர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஹெச். ஷாஜகான் இசையமைத்திருக்கிறார். பொழுதுபோக்கு சித்திரமாக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஒரஞ்சு பிக்சர்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் ராஜேஷ் பத்மநாபன் மற்றும் ஆர் சுஜாதா ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/66d38f2a.json)
+
+---
 
 ### Kavinda tells CID to repatriate Maithripala and hold investigations
 
@@ -49,6 +63,8 @@ MP Jayawardene and Mano Ganesan lodged a complaint with the CID a few weeks ago 
 ◼️
 
 [Data](articles/09d7eb63.json)
+
+[Extended Data](ext_articles/09d7eb63.ext.json)
 
 ---
 
@@ -2371,25 +2387,5 @@ Anyone who wishes to rectify their non-inclusion or inclusion can approach the d
 [Data](articles/fe6ab37d.json)
 
 [Extended Data](ext_articles/fe6ab37d.ext.json)
-
----
-
-### Caution urged to prevent traffic and firework accidents during festive season
-
-*2024-04-10 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98552/caution-urged-to-prevent-traffic-and-firework-accidents-during-festive-season) · `en`
-
-The government has urged the members of the public to exercise caution and minimize road accidents and fireworks-related incidents during the upcoming Sinhala and Tamil New Year season.
-
-Reports indicate that a significant number of accidents take place during this festive period and approximately 36% are attributed to the use of fireworks.
-
-In addition, 17% of eye injuries reported during this time are also due to the use of firecrackers and fireworks, according to the government.
-
-In response to these concerns, the Ministry of Transport and the Ministry of Health have collaborated on a special program aimed at raising awareness and reducing incidents of road accidents and firework-related injuries during the festive season.
-
-...
-
-[Data](articles/2ca39ef0.json)
-
-[Extended Data](ext_articles/2ca39ef0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 21:03:17**
+As of **2024-04-10 21:18:14**
 
 ## Newspaper Stats
 
-*Scraped **18,345** Articles*
+*Scraped **18,346** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 1,001
 economynextcom | 1,027
 adalk | 1,545
 tamilmirrorlk | 2,148
-adaderanalk | 2,194
+adaderanalk | 2,195
 virakesarilk | 2,727
 dailymirrorlk | 2,801
 adaderanasinhalalk | 2,971
@@ -26,25 +26,57 @@ adaderanasinhalalk | 2,971
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,342 (100.0%) of 18,345 articles have been extended.
+18,345 (100.0%) of 18,346 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### කෙහෙළියගේ රීට් පෙත්සම ගැන නීතිපතිගෙන් බරපතළ ඉල්ලීමක්
+### U.S assures unwavering commitment to supporting Sri Lanka’s security and sovereignty
 
-*2024-04-10 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195521) · `si`
+*2024-04-10 20:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98561/us-assures-unwavering-commitment-to-supporting-sri-lankas-security-and-sovereignty) · `en`
 
-නඩු විභාගය අවසන් වන තෙක් තමන් රක්ෂිත බන්ධනාගාරගත කිරීමට මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය දුන් නියෝගය බලරහිත කරන ලෙසට හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ගොනුකර ඇති රිට් පෙත්සම මුල් අවස්ථාවේදීම නිෂ්ප්‍රභ කරන්නැයි නීතිපතිවරයා ඊයේ අභියාචනාධිකරණයෙන් ඉල්ලා සිටියේය.
+In a significant diplomatic exchange, U.S. National Security Advisor Jake Sullivan engaged in a telephone conversation with his Sri Lankan counterpart, Senior Advisor to the President on National Security Sagala Ratnayaka on Wednesday (10).
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදීගැනීමේ සිදුවීමට අදාළව තමන්ව නඩු විභාගය අවසන් වන තෙක් රක්ෂිත බන්ධනාගාරගත කිරීමට මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය දුන් නියෝගය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ගොනුකර ඇති රිට් පෙත්සම අභියාචනාධිකරණ විනිසුරු ඩී.එන්. සමරකෝන් මහතා ඉදිරියේ සලකා බැලීය.
+The dialogue encompassed a range of crucial topics aimed at bolstering bilateral relations between the two nations, the President’s Media Division (PMD) said.
 
-එහිදී නීතිපතිවරයා වෙනුවෙන් අධිකරණයේ පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් නිර්මලන් විග්නේෂ්වරන් මහතා මුලික විරෝධතා මතු කරමින් මෙම රිට් පෙත්සම විභාගයට නොගෙන මුල් අවස්ථාවේදීම ප්‍රතික්ෂේප කරන්නැයි ඉල්ලා සිටියේය.
+Central to their discussion was the unwavering U.S. commitment to supporting Sri Lanka’s security and sovereignty.
+
+Acknowledging Sri Lanka’s ongoing endeavours, Sullivan emphasized the importance of completing the fiscal, monetary, and governance aspects of the IMF program.
+
+The conversation also delved into future prospects for collaboration between the two countries, exploring avenues for enhanced cooperation in various spheres.
+
+Sullivan conveyed his keen interest in fostering continued engagement with Sri Lanka, underscoring the mutual objective of advancing peace and security in the region.
 
 ...
 
+[Data](articles/cc212376.json)
+
+---
+
+### Attorney General is a serious demand of Keheliya's Ret petition
+
+*2024-04-10 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195521) · `si`
+
+The Attorney General has demanded Keheliya Rambukwella's retrial petition be heard by the Court of Appeal. Rambukwella, a former Health Minister, is remanded until trial's end. Nirmalan Vigneswaran, representing the AG, is tasked with handling protests. The Malimanakanda Magistrate's Court denied bail to the Additional Secretary to the Health Ministry. Dr. Thusitha Sudamakanda Magnettanda is remanded until the 22nd.
+
+🟩
+
+The Attorney General asked the Court of Appeal to refute the Rit petition filed by the Maligantiya Rambukwella to be remanded until the end of the trial.
+
+Former Health Minister Keheliya Rambukwella, who has been remanded to be remanded until the end of the substandard antibodies, is to be remanded until the end of the matter.. Considered before Mr. Samarakoon.
+
+Deputy Solicitor General Nirmalan Vigneswaran, who appeared in court on behalf of the Attorney General, was asked to take the tricketing of the basic protests.
+
+Meanwhile, the Malimanakanda Magistrate's Court today refused to be bail as Additional Secretary to the Health Ministry Additional Secretary to the Ministry of Health.
+
+Dr. Thusitha Sudamakanda Magnettanda Magistratanda Magnettanda Magnett Prabanakanda Magnett Prabanakanda Mahemi Abeywickrama has been remanded until the 22nd of the 22nd.
+
+◼️
+
 [Data](articles/002888c3.json)
+
+[Extended Data](ext_articles/002888c3.ext.json)
 
 ---
 
@@ -186,17 +218,23 @@ We have consulted with the Attorney General that there is no legislation on the 
 
 ---
 
-### අප්‍රෙල් 15 දා රජයේ නිවාඩු දිනයක් වෙයි
+### April 15 will be a public holiday
 
 *2024-04-10 19:27:36* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රෙල්-15-දා-රජයේ-නිවාඩු-දිනයක්-වෙයි/11-409052) · `si`
 
-අප්‍රේල් 15 වනදා රජයේ ප්‍රසිද්ධ නිවාඩු දිනයක් බවට පත් කිරීමට රාජ්‍ය පරිපාලන ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශය කටයුතු කර තිබේ.
+April 15, 2024, is a public holiday in the government, celebrated as the New Year Rite.
 
-අලුත් අවුරුදු චාරිත්‍රයක් වන ජාතික හිසතෙල් ගෑමේ චාරිත්‍රය 2024 අප්‍රේල් මස 15 වන දිනය යෙදී තිබීම හේතුවෙන් මෙසේ 15දා රජයේ නිවාඩුවක් බවට පත්කර තිබේ.
+🟩
+
+The Ministry of Public Administration Home Affairs, Provincial Councils and the Local Government has taken measures to make a public holiday in the government on April 15.
+
+The ritual of the New Year Rite is a government holiday due to April 15, 2024 due to April 15, 2024.
 
 ◼️
 
 [Data](articles/083abe8a.json)
+
+[Extended Data](ext_articles/083abe8a.ext.json)
 
 ---
 
@@ -1262,27 +1300,35 @@ The Director of the Southern Expressway Police Division and Senior Superintenden
 
 ---
 
-### මැදවච්චියේ තරුණයෙකුට වෘෂණ කෝෂයකට සිදුවූ හානිය හේතුවෙන් එය ශල්‍යකර්මයකින් ඉවත් කිරීමට සිදු ව ඇත්තේ පොලිස් පහරදීමෙන් ද?
+### The police assault is assaulted by the damage to a scrout to a scrout to a scrout in Medawachchi?
 
 *2024-04-10 14:49:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjq525z2x2xo) · `si`
 
-මැදවච්චියේ තරුණයෙකුට වෘෂණ කෝෂයකට සිදුවූ හානිය හේතුවෙන් එය ශල්‍යකර්මයකින් ඉවත් කිරීමට සිදු ව ඇත්තේ පොලිස් පහරදීමෙන් ද?
+A 23-year-old in Medawachchiya was assaulted by police, leading to severe injuries. He was hospitalized, underwent surgery, and his future plans, including studying in Korea, were disrupted. The police claimed they were arresting a vehicle involved in a drug operation, but the youth's family disputes this, accusing the police of excessive force.
 
-අනුරාධපුරය, මැදවච්චිය ප්‍රදේශයේ දී පොලිස් අණ නොතකා වාහනයක් ධාවනය කළ බව කියන සිදුවීමකට පොලිසිය විසින් සිදුකළ බව කියන පහර දීමකින් තුවාල ලැබූ තරුණයෙකු මේ වන විට රෝහල් ගත කර සිටියි.
+🟩
 
-ඉකුත් අප්‍රේල් මස 07 වෙනිදා රාත්‍රියේදී සිදු වූ බව කියන එම සිදුවීමට මුහුණ පා ඇත්තේ මැදවච්චිය, තුලාවේලිය ගම්මානයේ පදිංචිකරුවෙකු වන 23 හැවිරිදි තරුණයෙකු යි.
+The police assault is assaulted by the damage to a scrout to a scrout to a scrout in Medawachchi?
 
-දැනට අනුරාධපුරය ශික්ෂණ රෝහලට ඇතුළත් කර ඇති එම තරුණයා පවසන්නේ පොලිසියෙන් සිදුකළ පහරදීමෙන් සිය වෘෂණ කෝෂයකට සිදුවූ හානිය හේතුවෙන් එය ශල්‍යකර්මයකින් ඉවත් කිරීමට වෛද්‍යවරුන් කටයුතු කළ බවයි.
+A youth who was injured in the hospital that the police had been injured in a attack on the police that the police were driven by the police regardless of the police orders in the Medawachchiya area in Medawachchiya.
 
-'යුක්තිය' මත්ද්‍රව්‍ය මර්දන මෙහෙයුම : පොලිස් අත්අඩංගුවට ගැනීම් නිත්‍යානුකූල ද?
+The incident was a 23 year old resident of Medawachchiya, Temple Trees on the night of April 07.
 
-පොලිසියේ පහර කෑමට ලක්ව දැනට අනුරාධපුරය රෝහලේ ප්‍රතිකාර ලබන 23 හැවිරිදි තරුණයා පැවසුවේ එලෙස තමන්ට සහ තම මිතුරාට පහර දීමට හේතුව කුමක්ද යන්න පොලිසිය නොපැවසූ බවයි.
+The young man has been admitted to the Anuradhapura Teaching Hospital in the Anuradhapura Teaching Hospital says that the doctors acted in operation by the damage done by the police.
 
-"අප්‍රේල් 07 වෙනිදා මමයි යාළුවයි දෙන්නා ටවුන් එකට ගිහිල්ලා එද්දී මග හරියේ අපි දැක්කා පොලිසියේ ට්‍රැෆික් එකෙන් ඉන්නවා."
+'Justice' drug repressive operation: Are police arrests legitimate?
+
+The 23-year-old man who is currently receiving treatment at the Anuradhapura hospital in the Anuradhapura hospital said that the police did not leave the Anuradhapura.
+
+"On April 7, we saw the way to go to the town and saw the way out of the police trip."
+
+"The vehicles were stopped. We used to come forward all the vehicles. "
 
 ...
 
 [Data](articles/0e61f18a.json)
+
+[Extended Data](ext_articles/0e61f18a.ext.json)
 
 ---
 
@@ -2353,31 +2399,5 @@ Don't live like us. The highlight of the film is to say that they are like them.
 [Data](articles/05bd0620.json)
 
 [Extended Data](ext_articles/05bd0620.ext.json)
-
----
-
-### Israeli prime minister fails in Gaza affair - Bidan
-
-*2024-04-10 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180876) · `ta`
-
-"Israeli PM fails in Gaza, US President Jobitton criticizes. Faidan demands full drug entry, condemns attack on humanitarian organizations, requests ceasefire for 6-8 months."
-
-🟩
-
-US President Jobitton says the Israeli prime minister fails to deal with the Gaza issue.
-
-I think he is doing wrong.
-
-Faidan also said that the permission of drugs to be fully entered into the Gaza.
-
-Faidan said that the attack on humanitarian organizations on the highway was an outrageous issue.
-
-"I request the Israelis to announce the ceasefire and allow all kinds of humanitarian goods for the next six months to eight months."
-
-◼️
-
-[Data](articles/81d006d9.json)
-
-[Extended Data](ext_articles/81d006d9.ext.json)
 
 ---

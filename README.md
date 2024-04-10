@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 06:17:19**
+As of **2024-04-10 06:54:32**
 
 ## Newspaper Stats
 
-*Scraped **18,181** Articles*
+*Scraped **18,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 161
 bbccomsinhala | 190
 dbsjeyarajcom | 213
 newsfirstlk | 363
-islandlk | 992
 dailyftlk | 1,001
+islandlk | 1,001
 economynextcom | 1,015
 adalk | 1,531
 tamilmirrorlk | 2,127
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,181 (100.0%) of 18,181 articles have been extended.
+18,181 (100.0%) of 18,190 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -541,6 +541,60 @@ This special amnesty will be granted using the powers of the president in accord
 [Data](articles/27a9b02d.json)
 
 [Extended Data](ext_articles/27a9b02d.ext.json)
+
+---
+
+### “Breaking Barriers: Peoples Leasing & Finance and Hayleys Solar collaborate to make solar power accessible to all”
+
+*2024-04-09 23:11:00* · [`islandlk`](http://island.lk/breaking-barriers-peoples-leasing-finance-and-hayleys-solar-collaborate-to-make-solar-power-accessible-to-all/) · `en`
+
+Embarking on a bold journey toward sustainable energy solutions, People’s Leasing & Finance PLC (PLC) and Hayleys Solar, the renewable energy arm of Hayleys Fentons Limited have officially forged a groundbreaking alliance, through a Memorandum of Understanding (MoU), to offer an easy and affordable financing scheme for households and Micro, Small & Medium Enterprises (MSMEs) in the rooftop solar segment. This scheme will empower Sri Lankans to adopt renewable energy for their daily consumption and businesses, promoting a greener tomorrow.
+
+Related Topics:Peoples Leasing & Finance and Hayleys SolarPeoples Leasing & Finance and Hayleys Solar collaborate to make solar power accessible to all
+
+Nations Trust Bank – Symphony Orchestra of Sri Lanka Concert concludes on a successful note
+
+Share market sees marked buying interest due to positive outlook on debt restructuring front
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/a6316d9f.json)
+
+---
+
+### Nations Trust Bank – Symphony Orchestra of Sri Lanka Concert concludes on a successful note
+
+*2024-04-09 23:10:00* · [`islandlk`](http://island.lk/nations-trust-bank-symphony-orchestra-of-sri-lanka-concert-concludes-on-a-successful-note/) · `en`
+
+Nations Trust Bank partnered with the Symphony Orchestra of Sri Lanka (SOSL) to present the Nations Trust Bank SOSL Concert, featuring acclaimed cellist Dushyanthi Perera, conductor Keiko Kobayashi from Japan, and composer Lalanath De Silva. The partnership provided classical music enthusiasts in Sri Lanka an opportunity to witness their artistry alongside the Symphony Orchestra of Sri Lanka.
+
+In its aim to create meaningful collaborations with artists of various art forms, Nations Trust Bank has helped support and create platforms that nurture creativity and inspire innovation, especially in the realms of music, art and literature.
+
+Related Topics:Nations Trust BankNations Trust Bank partnered with the Symphony Orchestra of Sri LankaSymphony Orchestra of Sri Lanka
+
+Genie Business Powered by Dialog Finance unveils Cutting-Edge Fintech Solutions for Sri Lankan MSMEs
+
+“Breaking Barriers: Peoples Leasing & Finance and Hayleys Solar collaborate to make solar power accessible to all”
+
+...
+
+[Data](articles/983a8d7d.json)
+
+---
+
+### Share market sees marked buying interest due to positive outlook on debt restructuring front
+
+*2024-04-09 23:07:00* · [`islandlk`](http://island.lk/share-market-sees-marked-buying-interest-due-to-positive-outlook-on-debt-restructuring-front/) · `en`
+
+The stock market yesterday started off on a profit- taking stance but by the middle of the session heavy buying interests were noted among banking sector counters due to the positive status quo in the external debt restructuring exercise, market analysts said.
+
+Consequently, the stock market recorded a new high in trading yesterday as bullish investor sentiment boosted activities, especially in the banking sector. This resulted in both indices moving up. The All Share Price Index rose by 40.35 points, while S and P SL 20 moved to 6.72 points.
+
+...
+
+[Data](articles/c4bd94f4.json)
 
 ---
 
@@ -2173,65 +2227,5 @@ The Bar Association of Sri Lanka demands the Bar Association of Sri Lanka by the
 [Data](articles/f9bcb567.json)
 
 [Extended Data](ext_articles/f9bcb567.ext.json)
-
----
-
-### Sri Lanka hikes candidate deposits for Presidential Election
-
-*2024-04-09 15:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-hikes-candidate-deposits-for-Presidential-Election/108-280475) · `en`
-
-Colombo, April 09 (Daily Mirror) - The Cabinet of Sri Lanka has given the green light to an increase in candidate deposits for Presidential Election.
-
-According to the newly sanctioned regulations, candidates representing recognized political parties will now be required to deposit Rs. 2.6 million, marking a substantial rise from the previous amount. -
-
-Similarly, independent candidates must place a deposit of Rs. 3.1 million to vie for the presidential seat.
-
-The proposal to amend the pertinent regulations was jointly presented by President Ranil Wickremesinghe and Minister of Justice, Wijeyadasa Rajapakshe.
-
-◼️
-
-[Data](articles/7a3bd494.json)
-
-[Extended Data](ext_articles/7a3bd494.ext.json)
-
----
-
-### Sri Lanka hikes candidate deposits for Presidential Election
-
-*2024-04-09 15:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-hikes-candidate-deposits-for-Presidential-Election/155-280475) · `en`
-
-Colombo, April 09 (Daily Mirror) - The Cabinet of Sri Lanka has given the green light to an increase in candidate deposits for Presidential Election.
-
-According to the newly sanctioned regulations, candidates representing recognized political parties will now be required to deposit Rs. 2.6 million, marking a substantial rise from the previous amount. -
-
-Similarly, independent candidates must place a deposit of Rs. 3.1 million to vie for the presidential seat.
-
-The proposal to amend the pertinent regulations was jointly presented by President Ranil Wickremesinghe and Minister of Justice, Wijeyadasa Rajapakshe.
-
-◼️
-
-[Data](articles/fd95f568.json)
-
-[Extended Data](ext_articles/fd95f568.ext.json)
-
----
-
-### Sri Lanka Treasury bill yields marginally down across maturities
-
-*2024-04-09 15:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-marginally-down-across-maturities-158045/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields fell across maturities at Tuesday’s auction, data from the state debt office showed.
-
-The 3-month Treasury bill yield fell 1 basis point to 10.10 percent with 25 billion rupees offered and 25 billion sold.
-
-The 6-month yield fell 3 basis points to 10.27 percent with 20 billion rupees offered and 20 billion sold.
-
-The 12-month yield fell 1 basis point to 10.27 percent with 20 billion rupees offered and 13.2 billion sold.
-
-◼️
-
-[Data](articles/bb7123b8.json)
-
-[Extended Data](ext_articles/bb7123b8.ext.json)
 
 ---

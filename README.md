@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 22:33:55**
+As of **2024-04-10 22:50:54**
 
 ## Newspaper Stats
 
-*Scraped **18,351** Articles*
+*Scraped **18,353** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 1,001
 economynextcom | 1,027
 adalk | 1,545
 tamilmirrorlk | 2,148
-adaderanalk | 2,196
-virakesarilk | 2,729
+adaderanalk | 2,197
+virakesarilk | 2,730
 dailymirrorlk | 2,801
 adaderanasinhalalk | 2,973
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,350 (100.0%) of 18,351 articles have been extended.
+18,351 (100.0%) of 18,353 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### தமது குழுமத்தின் புதிய இலச்சினையை வெளியிட்ட St. Anthony’s Industries Group
+### ST released the new logo of their group. Anthony's Industries Group
 
 *2024-04-10 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180938) · `ta`
 
-1930 களில் இருந்து சிறந்த பாரம்பரியம் கொண்ட இலங்கையின் முன்னணி கூட்டு நிறுவனமான St. Anthony’s Industries Group (Pvt) Ltd, அதன் புதிய இலச்சினையை சமீபத்தில் பெருமையுடன் வெளியிட்டுள்ளது.
+ST's Anthony's Industries Group unveils a new logo, symbolizing excellence, innovation, and industrial leadership. The logo integrates sub-trades like Anton, Anton Max, Armor, Griffin, Netz, Thermo, Biocell, Polar, VOLTA, marking a new era for the group.
 
-இந்த முக்கிய நிகழ்வானது, குழுமத்திற்கு ஒரு புதிய சகாப்தத்தை குறிப்பதோடு, சிறந்து விளங்குதல், புத்தாக்கம், தொழில்துறை தலைமைத்துவத்திற்கான அதன் அசைக்க முடியாத அர்ப்பணிப்பு , குழுமத்தின் முக்கிய மதிப்புகள் மற்றும் பணி நோக்கை பிரதிபலிக்கும் வகையில் இப்புதிய இலச்சினையின் ஒவ்வொரு கூறும் உன்னிப்பாக தெரிவு செய்யப்பட்டுள்ளது.
+🟩
 
-St. Anthony's Industries Group அதன் பல்வேறு துணை வர்த்தகநாமங்களான Anton, Anton Max, Armor, Griffin, NetZ, Thermo, Biocell, Polar, Volta ஆகியவற்றை ஒரே நிறுவனத்தின் கீழ் பெருமையுடன் ஒருங்கிணைக்கிறது.
+ST, the leading joint venture of the best tradition since the 1930s. Anthony's Industries Group (PVT) Ltd has recently released its new logo.
+
+This important event is a new era of the group, and every component of the new logo has been selected to reflect the main values and work purposes of the group, with excellence, innovation, industrial leadership.
+
+St.. Anthony's Industries Group Proudly integrates its various sub -trades such as Anton, Anton Max, Anton Max, Armor, Griffin, Netz, Thermo, Biocell, Polar, VOLTA under the same company.
 
 ◼️
 
 [Data](articles/762147e3.json)
+
+[Extended Data](ext_articles/762147e3.ext.json)
 
 ---
 
@@ -59,6 +65,24 @@ Nineteen Indian fishermen detained by the Sri Lanka Navy were on Tuesday repatri
 [Data](articles/3fbe0f9b.json)
 
 [Extended Data](ext_articles/3fbe0f9b.ext.json)
+
+---
+
+### 19 more Indian fishermen detained by Sri Lanka return home
+
+*2024-04-10 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98562/19-more-indian-fishermen-detained-by-sri-lanka-return-home) · `en`
+
+Nineteen Indian fishermen detained by the Sri Lanka Navy were on Tuesday repatriated to India, the Indian High Commission said, almost a week after a similar number of fishermen were sent back to their home country.
+
+“19 Indian fishermen have been repatriated from Sri Lanka and are currently on their way to Chennai, the Indian High Commission here said in a post on X.
+
+The Navy has so far held 23 Indian trawlers and 178 Indian fishermen for allegedly fishing in the island nation’s waters thus far in 2024, and handed them over to authorities for legal action, the Sri Lankan Navy late last month confirmed in a statement.
+
+The fishermen issue is a contentious one in the ties between India and Sri Lanka, with Lankan Navy personnel even firing at Indian fishermen in the Palk Strait and seizing their boats in several alleged incidents of illegally entering Sri Lankan territorial waters.
+
+...
+
+[Data](articles/d06ac31e.json)
 
 ---
 
@@ -693,6 +717,22 @@ In 2010, the President handed over the housing of 294 houses in replacement of t
 [Data](articles/44b1b0cd.json)
 
 [Extended Data](ext_articles/44b1b0cd.ext.json)
+
+---
+
+### இலங்கையில் சட்டவிரோதமான முறையில் ஆர்ப்பாட்டங்கள் ஒடுக்கப்படுகின்றன : அதிகாரிகளை தண்டிக்குமாறு அரசாங்கத்தை வலியுறுத்துகிறது மன்னிப்புச்சபை
+
+*2024-04-10 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180927) · `ta`
+
+இலங்கையில் 2022 - 2023 ஆம் ஆண்டு வரையான காலப்பகுதியில் இடம்பெற்ற ஆர்ப்பாட்டங்கள் சட்டவிரோத ஆயுதங்கள் மற்றும் உத்திகளைப் பயன்படுத்தி ஒடுக்கப்பட்டிருப்பதாக சுட்டிக்காட்டியுள்ள சர்வதேச மன்னிப்புச்சபை, அமைதியான முறையில் ஒன்றுகூடுவதற்கான உரிமைக்கு மதிப்பளித்து, அதனை உறுதிப்படுத்துவதற்கு தவறுவது அடக்குமுறையின் குறியீடாகும் எனத் தெரிவித்துள்ளது.
+
+இந்நிலையில் கடந்த காலங்களில் ஆர்ப்பாட்டங்களின்போது சட்டவிரோத படைப்பலம் பிரயோகிக்கப்பட்டதாக முன்வைக்கப்படும் குற்றச்சாட்டுக்கள் தொடர்பில் முறையான விசாரணைகளை மேற்கொள்வதுடன், அத்தகைய சட்டவிரோத செயற்பாடுகளில் ஈடுபட்ட அதிகாரிகளை சட்டத்தின்முன் நிறுத்துவதற்கு நடவடிக்கை எடுக்குமாறு அரசாங்கத்தை வலியுறுத்தியுள்ளது.
+
+இலங்கையில் ஆர்ப்பாட்டங்களின்போது சட்டவிரோதமான முறையில் ஆயுதங்கள் பயன்படுத்தப்படுவது பற்றி 'எந்தவொரு ஆர்ப்பாட்டத்தையும் ஒடுக்கத்தயார்' எனும் மகுடத்திலான விரிவான அறிக்கையொன்று சர்வதேச மன்னிப்புச்சபையினால் நேற்று வெளியிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/ab7f4f84.json)
 
 ---
 
@@ -2341,57 +2381,5 @@ Special attention should be paid to safety during the Ramadan festival and the S
 [Data](articles/bb9106ab.json)
 
 [Extended Data](ext_articles/bb9106ab.ext.json)
-
----
-
-### Phi union fear by the death of the treasurer
-
-*2024-04-10 11:09:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாளரின்-மரணத்தால்-PHI-தொழிற்சங்கம்-அச்சம்/175-335817) · `ta`
-
-Following the tragic death of Roshan Kumara Vidanage, the treasurer of the Public Health Inspectors Association, public health inspectors face fear and inability to perform duties effectively. Vidanage was involved in exposing companies selling rotten foods, and his death has led to safety concerns among inspectors.
-
-🟩
-
-In the wake of the tragic death of Roshan Kumara Vidanage, the treasurer of the Public Health Inspectors Association, public health inspectors are unable to fulfill their duties effectively.
-
-Roshan Kumara was shot dead at his home in Elpitiya last February, with suspicion behind his death.
-
-Speaking to the Daily Mirror, PHI union leader Upul Rohana said that a significant number of PHIs were unsafe and fears in performing their duties in the light of the tragedy.
-
-Although the Inspector General of Police assured that the Criminal Investigation Department (CID) and the Special Task Force (STF) have been handed over, Rohan said that the progress has not been improved yet.
-
-PHI Roshan Kumara Vidhanage, who died, has been involved in dealing with many strict legal cases and has published many real dangerous information about companies that sell rotten foods.
-
-...
-
-[Data](articles/a4f31b58.json)
-
-[Extended Data](ext_articles/a4f31b58.ext.json)
-
----
-
-### Kandy Municipal Council employees protest
-
-*2024-04-10 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195500) · `si`
-
-Kandy Municipal Council employees are protesting against an unauthorized officer and the removal of a large haul of fruits. The Administrative Officer is in the hospital.
-
-🟩
-
-All staff have been protesting in the Kandy Municipal Council premises.
-
-The protest has commenced against an unauthorized officer in front of the Urban Council in front of an unauthorized market in front of an unauthorized market.
-
-The assailant has taken place due to announcement to remove a large haul of fruits which had been blocked.
-
-The Administrative Officer of the Administrative Officer is currently receiving treatment at the Kandy National Hospital.
-
-An employee who was engaged in a garbage disposal a week ago was also identified as a strike, and the protesting municipal staff also requested the protest to ensure protection.
-
-◼️
-
-[Data](articles/8b71d9ab.json)
-
-[Extended Data](ext_articles/8b71d9ab.ext.json)
 
 ---

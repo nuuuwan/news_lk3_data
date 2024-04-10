@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 19:33:38**
+As of **2024-04-10 19:50:59**
 
 ## Newspaper Stats
 
-*Scraped **18,334** Articles*
+*Scraped **18,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 1,542
 tamilmirrorlk | 2,147
 adaderanalk | 2,194
 virakesarilk | 2,726
-dailymirrorlk | 2,798
+dailymirrorlk | 2,799
 adaderanasinhalalk | 2,969
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,334 (100.0%) of 18,334 articles have been extended.
+18,334 (100.0%) of 18,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### Sri Lanka Air Force organizes Colombo Air Show and Defence Exhibition (CADE 2024)
+
+*2024-04-10 19:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Air-Force-organizes-Colombo-Air-Show-and-Defence-Exhibition-CADE-2024/108-280568) · `en`
+
+Colombo, April 10 (Daily Mirror) - The Sri Lanka Air Force is gearing up for the Colombo Air Show and Defence Exhibition (CADE 2024) to showcase air power and boost tourism and investment.
+
+Air Force Commander Air Marshal Udeni Rajapaksa announced that the five-day event will run from May 29 to June 2 at the Galle Face and Colombo Port City.
+
+CADE 2024 aims to enhance SLAF's proficiency, readiness, and overall effectiveness, with international and local aviation industry organizations participating.
+
+The Commander said that financial support from local and foreign entities is also expected to ensure the event's success.
+
+The event's objectives include air power showcasing, air diplomacy, promoting tourism and investments, defense industry promotion, technology and innovation and providing opportunities for career seekers. It will feature two segments; Air Show & Exhibition and Recreational Segment.
+
+...
+
+[Data](articles/871ff14a.json)
+
+---
 
 ### Announced as a public holiday on April 15
 
@@ -2363,35 +2383,5 @@ We are not in the position of acting in the curtains and complying to our occasi
 [Data](articles/9550dc2a.json)
 
 [Extended Data](ext_articles/9550dc2a.ext.json)
-
----
-
-### Another 182,140 families qualify for the relief
-
-*2024-04-10 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195498) · `si`
-
-182,140 families qualify for relief, with payments totaling 58.5 billion rupees. 200,000 families haven't updated bank accounts. More than 400,000 applications received for revenue phase 2, with 286,000 processed. Government aims to include 24 million families in welfare program.
-
-🟩
-
-The Minister of State Shehan Semasinghe says that 182,140 families have qualified to benefit from appeals and objections.
-
-The Minister said that all payments, including the arrears, will accountability by April 18.
-
-Accordingly, 1,854,000 will be rewarded and the government will spend 58.5 billion rupees.
-
-Meanwhile, about 200,000 families who have completed all qualified families have failed to start their bank accounts and update the relevant information.
-
-The Minister said that although the Divisional Secretariats and the media has not responded to the members of the media.
-
-More than 400,000 applications have been received for the second phase of the revenue, and about 286,000 have been included in the system.
-
-The government expects to include 24 million families to the welfare benefit program of the revenue.
-
-◼️
-
-[Data](articles/0c7123d9.json)
-
-[Extended Data](ext_articles/0c7123d9.ext.json)
 
 ---

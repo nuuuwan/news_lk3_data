@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 19:50:59**
+As of **2024-04-10 20:03:21**
 
 ## Newspaper Stats
 
-*Scraped **18,335** Articles*
+*Scraped **18,338** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 dailyftlk | 1,001
 islandlk | 1,001
 economynextcom | 1,027
-adalk | 1,542
+adalk | 1,544
 tamilmirrorlk | 2,147
 adaderanalk | 2,194
 virakesarilk | 2,726
 dailymirrorlk | 2,799
-adaderanasinhalalk | 2,969
+adaderanasinhalalk | 2,970
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,334 (100.0%) of 18,335 articles have been extended.
+18,335 (100.0%) of 18,338 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### ඔලිම්පික් මලල ක්‍රීඩා ශූරයින්ට මුදල් ත්‍යාග
+
+*2024-04-10 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195520) · `si`
+
+එළැඹෙන ඔලිම්පික් තරගාවලියේ සිට මලල ක්‍රීඩා ඉසව්වලින් පළමු ස්ථාන දිනා ගන්නා ක්‍රීඩක ක්‍රීඩිකාවන් ට ත්‍යාග මුදල් පිරිනැමීමට ලෝක මලල ක්‍රීඩා සම්මේලනය තීරණය කර තිබේ.
+
+ඒ අනුව ඔලිම්පික් තරග ජයග්‍රාහකයින් සඳහා ත්‍යාග මුදල් පිරිනමන පළමු ක්‍රීඩා සම්මේලනය බවට ලෝක මලල ක්‍රීඩා සම්මේලනය පත්වෙයි.
+
+ප්‍රංශයේ පැරිස් නගරයේදී පැවැත්වීමට නියමිත 2024 ඔලිම්පික් තරගාවලියේ සිට එම සැලසුම ක්‍රියාත්මක වෙයි. ඒ අනුව රන් පදක්කම්ලාභියෙකුට අමෙරිකානු ඩොලර් 50,000ක් හිමිවෙයි.
+
+රිදී සහ ලෝකඩ පදක්කම්ලාභීන්ට ද 2028 වසරේ සිට මුදල් ත්‍යාග ලබාදෙයි.
+
+◼️
+
+[Data](articles/108afa73.json)
+
+---
+
+### 2025දී වාහන ආනයනය ගැන ඇමතිගෙන් ඉඟියක්
+
+*2024-04-10 19:43:35* · [`adalk`](https://www.ada.lk/breaking_news/2025දී-වාහන-ආනයනය-ගැන-ඇමතිගෙන්-ඉඟියක්/11-409053) · `si`
+
+රට තුළ යපහත් ආර්ථික තත්ත්වයක් ක්‍රම ක්‍රමයෙන් වර්ධනය වෙන හෙයින් 2025 වසරේදී වාහන ආනයනය සම්බන්ධයෙන් යහපත් බලාපොරොත්තුවක් තබා ගත හැකි බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+මේ වන විටත් සංචාරක කර්මාන්තය වෙනුවෙන් බස් රථ 250ත් හා වෑන් රථ 750ක් ආනයනය කිරීමට අවසර දී ඇති බවත් ඔහු සඳහන් කළේය.
+
+◼️
+
+[Data](articles/39558c14.json)
+
+---
 
 ### Sri Lanka Air Force organizes Colombo Air Show and Defence Exhibition (CADE 2024)
 
@@ -49,6 +81,8 @@ The event's objectives include air power showcasing, air diplomacy, promoting to
 ...
 
 [Data](articles/871ff14a.json)
+
+[Extended Data](ext_articles/871ff14a.ext.json)
 
 ---
 
@@ -1314,6 +1348,22 @@ The arrested persons have been handed over to the human trafficking of the Katun
 
 ---
 
+### රටින් පිටවීම තහනම් පුද්ගලයෙක් ගුවන් යානයේදී අල්ලයි
+
+*2024-04-10 13:40:22* · [`adalk`](https://www.ada.lk/breaking_news/රටින්-පිටවීම-තහනම්-පුද්ගලයෙක්-ගුවන්-යානයේදී-අල්ලයි/11-409048) · `si`
+
+ධිකරණය මගින් රටින් පිටවීම තහනම් කරමින් නියෝග ලබා දී තිබූ ශ්‍රී ලාංකිකයෙකු , සිය ගමන් බලපත්‍රයෙහි ජීව දත්ත පිටුවෙහි තොරතුරු වෙනස් කර , කූඨ ලෙස සකස් කර ගත් ව්‍යාජ ගමන් බලපත්‍රයක් උපයෝගී කර ගෙන මැලේසියාව වෙත පළා යාම සදහා ගුවන් යානයෙහි අසුන් ගෙන සිටියදී , එම යානය තුළට පිවිස , 04/10 දින අලුයම  මෙම පුද්ගලයා අත් අඩංගුවට ගැනීමට කටුනායක ගුවන් තොටුපොළ ආගමන විගමන නිලධාරීන් පියවර ගෙන තිබුණි .මොහු යාපනය , සන්දිලිපායි ප්‍රදේශයේ පදිංචි 34 හැවිරිදි ද්‍රවිඩ ජාතිකයෙකි .
+
+ඔහු 04/10 දින අලුයම 12.00 ට මැලේසියාවේ ක්වාලාලම්පූර් නුවර බලා කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව යාමට නියමිත එයාර් ඒෂියා ගුවන් සේවයේ ඒ.කේ.- 046 දරන ගුවන් යානයට පිවිස අසුන් ගෙන තිබේ .
+
+ඔහු ඒ වනවිට ගුවන් තොටුපොළ සියලුම මගී නිශ්කාශන කටයුතු නිමවා සිටියත් ඔහු පිළිබඳ ඇති වූ සැකය මත , ඔහුගේ ජාතික හැදුනුම්පත් අංකය ලබා ගත් ආගමන විගමන දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන් , ඒ ඔස්සේ විමර්ශන කටයුතු සිදු කිරීමේ දී ඔහුට එරෙහිව ගුවන් ගමන් තහනමක් පවතින බව අනාවරණය වී තිබේ .
+
+...
+
+[Data](articles/bca64377.json)
+
+---
+
 ### Will you escape 'Vallavan divisional' ..!
 
 *2024-04-10 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180891) · `ta`
@@ -2311,77 +2361,5 @@ The highlight of this is that the film, which is being produced in the romantic 
 [Data](articles/6be08296.json)
 
 [Extended Data](ext_articles/6be08296.ext.json)
-
----
-
-### SLCERT engineers’ reports to be sent to Education Minister today
-
-*2024-04-10 10:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLCERT-engineers-reports-to-be-sent-to-Education-Minister-today/108-280550) · `en`
-
-Colombo, April 10 (Daily Mirror) - Sri Lanka Computer Emergency Readiness Team (SLCERT) Senior Information Security Engineer Charuka Damunupola today revealed that a report will be sent to the Education Minister regarding the recent hacking of the Education Ministry's official website.
-
-He said the initial investigations launched by the SLCERT indicate that the hack was carried out by a local individual.
-
-The detailed findings of the hack will be forwarded to the Minister, who will then pass a copy to the Criminal Investigation Department (CID) for further investigations to apprehend the culprit.
-
-It has been noted that necessary security patches and updates were not applied to the website, and the Ministry had failed to conduct a Vulnerability Assessment (VA), despite being advised to do so annually by SLCERT.
-
-...
-
-[Data](articles/63ddcf12.json)
-
-[Extended Data](ext_articles/63ddcf12.ext.json)
-
----
-
-### Ready to recognize the Palestinian nation - Australia
-
-*2024-04-10 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180872) · `ta`
-
-Australia's Foreign Minister Benivong criticizes the Palestinian nation, stating it has no place in the rule of the Palestinian nation. He believes the two neighboring countries are the only hope to end violence. He criticizes the Netanyahu government for not adopting a solution for decades, leading the international community to view the Palestinian nation as an action towards the two nations. He also mentions the recognition of the Palestinian nation as rewarding the enemy.
-
-🟩
-
-Australian External Affairs Minister Benivong said this, however, that there is no place in the rule of the Palestinian nation.
-
-The Australian Foreign Minister said that the two countries living near the Israeli and Palestinians are the only hope to end the violence.
-
-He said that for decades, the Netanyahu government's failure to seek the failure of Palestine to adopt this approach for decades, he said.
-
-As a result, the international community is now thinking of the Palestinian nation as an action towards the two nation, he said.
-
-He said that the recognition of the Palestinian nation is a reward of rewarding the enemy.
-
-◼️
-
-[Data](articles/26c29f7c.json)
-
-[Extended Data](ext_articles/26c29f7c.ext.json)
-
----
-
-### "Let Eman's matures confirm our future" - Rishad in the fasting message of fasting
-
-*2024-04-10 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180873) · `ta`
-
-Rishad Bathiudeen, Ceylon People's Congress leader, emphasizes the importance of patience, prayer, and unity in the face of challenges, especially against imperialist tendencies. He advocates for strengthening political principles that support communities and minorities.
-
-🟩
-
-All Ceylon People's Congress leader and Member of Parliament Rishad Bathiudeen said that the imperialist tendencies against Muslims should be prayed in the Holy Fast.
-
-"Today is the day of the day, let all of us be fulfilled. We must continue to practice the maturity of this Eman who have done good and good.
-
-It is best to seek help with patience and prayer during crises and trials. May the maturity of Ramadan be firm for our progress. To overcome the challenges of Muslims internationally, we must mobilize in the strength and maturity of Iman.
-
-The imperialist tendencies against the Palestinian people will never win. In the same image of these trends, some are trying to advance our country's politics. The politics of slipping for concessions cannot be done.
-
-We are not in the position of acting in the curtains and complying to our occasions. He said his aim was to strengthen the political principles that love communities and embrace the minority and embrace them.
-
-◼️
-
-[Data](articles/9550dc2a.json)
-
-[Extended Data](ext_articles/9550dc2a.ext.json)
 
 ---

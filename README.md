@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 04:35:00**
+As of **2024-04-11 04:51:43**
 
 ## Newspaper Stats
 
-*Scraped **18,367** Articles*
+*Scraped **18,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,545
 tamilmirrorlk | 2,149
 adaderanalk | 2,199
 virakesarilk | 2,739
-dailymirrorlk | 2,803
+dailymirrorlk | 2,804
 adaderanasinhalalk | 2,973
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,367 (100.0%) of 18,367 articles have been extended.
+18,367 (100.0%) of 18,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### State Minister alleged to have abused and threatened the HR and Admin Assistant of Lanka Phosphate Company
+
+*2024-04-11 04:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/State-Minister-alleged-to-have-abused-and-threatened-the-HR-and-Admin-Assistant-of-Lanka-Phosphate-Company/108-280576) · `en`
+
+State Minister of Primary Industries Chamara Sampath Dassanayake is alleged to have severely abused and threatened the Human Resources and Administration Assistant of the Lanka Phosphate Company Mrs. H.D.V.K. Chandraratne in the presence of officials of the ministry and the company.
+
+The trade union Sri Lanka Nidahas Sevaka Sangamaya has informed the minister that it will resort to trade union action in case of recurrence of similar incidents in the future.
+
+Meanwhile the official concerned has requested Chairman of the Company Sandya Ambanwela to hold a formal investigation of the incident.
+
+She said she was called her to a meeting at the ministry and threatened and severely abused her in the presence of the Chairman and several senior officials of the company, on a allegation that she had harassed a casual employee.
+
+...
+
+[Data](articles/beb756db.json)
+
+---
 
 ### The solution to the small action under the Iranamadu pond from the tug
 
@@ -2369,31 +2387,5 @@ They have said that during the evening, the body was brought to the tank.
 [Data](articles/8dc872be.json)
 
 [Extended Data](ext_articles/8dc872be.ext.json)
-
----
-
-### The police question the magnetic flower house 'racist repression'
-
-*2024-04-10 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/180901) · `ta`
-
-The police are investigating a house shaped like a Tamil national flower in Sri Lanka, leading to accusations of racist repression. The country's leading teachers union has condemned the police's actions, claiming violation of children's rights. Students and teachers were summoned for questioning, with the police stating they were investigating houses built in the form of armor and the flower.
-
-🟩
-
-The country's leading teachers union has condemned the question of racist repression of the Chancellor, teachers and students regarding the school's home games in the North.
-
-Police are investigating a house in the form of a Tamil national flower (Karthika flower) flower.
-
-The Sri Lanka Teachers Union had lodged a complaint at the Jaffna Human Rights Commission's Office at the Jaffna Human Rights Commission of Sri Lanka on April 2 that the basic rights of school children had been violated due to the action of the police.
-
-The Sri Lanka Teachers Association said that using the form of flowers in school textbooks, students are unable to showcase their skills.
-
-Regional journalists say that the soldiers and policemen who arrived at the Tellippalai Union College Home Sports Competition were held on March 30, and the police and police were investigating the houses that had been built in the form of armor and magnetic flower.
-
-...
-
-[Data](articles/cad18269.json)
-
-[Extended Data](ext_articles/cad18269.ext.json)
 
 ---

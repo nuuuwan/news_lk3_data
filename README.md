@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 03:03:28**
+As of **2024-04-11 03:18:30**
 
 ## Newspaper Stats
 
@@ -26,43 +26,59 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,365 (100.0%) of 18,367 articles have been extended.
+18,367 (100.0%) of 18,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### இழுபறியிலிருந்த இரணைமடு குளத்தின் கீழான சிறு போக செய்கைக்கு தீர்வு
+### The solution to the small action under the Iranamadu pond from the tug
 
 *2024-04-11 02:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/180947) · `ta`
 
-நீண்ட இழுபறியிலிருந்த இரணைமடு குளத்தின் கீழான சிறு போக செய்கைக்கு தீர்வு எட்டப்பட்டுள்ளது.
+The solution to the small action under the Iranamadu pond was settled after a long tug. A special discussion on Wednesday (10) in the Kilinochchi District, led by Muralitharan, addressed the issue. Representatives from various organizations, including the District Deputy Commissioner of Agrarian Development and the Irrigation Engineer, discussed the rotation of 15560 acres. Despite protests, it was decided to continue the usual rotation process.
 
-வடமாகாணத்தின் பாரிய நீர்ப்பாசனக்குளமாகிய இரணைமடு குளத்தின் கீழ், 2024ம் ஆண்டுக்கான சிறுபோக செய்கை சம்மந்தமான விசேட கலந்துரையாடல் புதன்கிழமை (10) கிளிநொச்சி மாவட்ட பதில் அரசாங்கதிபர் எஸ். முரளிதரன் தலைமையில் மாவட்ட செயலக மாநாட்டு மண்டபத்தில் நடைபெற்றது.
+🟩
 
-புதன்கிழமை (10) காலை நடைபெற்ற குறித்த கலந்துரையாடலில் கரைச்சி பிரதேச செயலாளர், கமநல அபிவிருத்தி திணைக்கள மாவட்ட பிரதி ஆணையாளர், நீர்ப்பாசன பொறியியலாளர், இரணைமடு கமக்காரர் அமைப்புக்களின் சம்மேளனத்தின் கீழ் உள்ள 22 கமக்காரர் அமைப்புக்களின் பிரதிநிதிகள் என பலரும் கலந்து கொண்டிருந்தனர்.
+The solution has been settled under a long tug of Iranamadu pond.
 
-இரணைமடு குளத்தின் கீழான சிறுபோக செய்கை அளவை தீர்மானிக்கும் கலந்துரையாடல்கள் முடிவு எட்டப்படாது இழுபறி நிலையில் காணப்பட்டது.
+Special Discussion of the Kilinochchi District on Wednesday (10). Muralitharan was held at the District Secretariat Conference Hall.
 
-கடந்த 8ம் திகதி திங்கட்கிழமை மாவட்ட பதில் அரசாங்கதிபர் தலைமையில் மாவட்ட செயலகத்தில் விவசாய அமைப்புக்களின் பிரதிநிதிகளுடனான கலந்துரையாடலையடுத்து சுழற்சி முறையில் 15560 ஏக்கர் செய்கை பண்ணுவதாகத் தீர்மானிக்கப்பட்டது.
+The discussion was held on Wednesday morning (10) and the District Deputy Commissioner of the Department of Agrarian Development, Irrigation Engineer, Irrigation Engineer, Iranamadu Kamakkara and many other representatives of 22 Kamakkara Organizations under the Federation of Iranamadu Kamakkara Organizations were present.
+
+Discussions to determine the amount of small work under the Iranamadu pond were found to be in a state of tug.
+
+On Monday 8th, it was decided that 15560 acres were being carried out in a rotational process after a discussion with representatives of agricultural organizations at the District Secretariat, headed by the Government Secretary.
+
+A special discussion was scheduled for today as farmers protested against the rotation.
 
 ...
 
 [Data](articles/312330b7.json)
 
+[Extended Data](ext_articles/312330b7.ext.json)
+
 ---
 
-### நடிகர் அவினாஷ் நடிக்கும் 'நாகபந்தம்' டைட்டில் லுக்கிற்கான காணொளி வெளியீடு
+### Actor Avinash's 'Nagabandam' Title Video Release
 
 *2024-04-11 02:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180946) · `ta`
 
-'கே ஜி எஃப்' பட புகழ் நடிகர் அவினாஷ் கதையின் நாயகனாக மாறுபட்ட வேடத்தில் நடிக்கும் பான் இந்திய அளவிலான புதிய திரைப்படத்திற்கு 'நாகபந்தம்' என பெயரிடப்பட்டு, அதன் ஃபர்ஸ்ட் லுக், டைட்டில் லுக் மற்றும் பிரத்யேக காணொளி வெளியிடப்பட்டிருக்கிறது.
+Avinash's 'Nagabandam' video release features the title 'KG F', directed by Abhishek Nama, with S Sounder Rajan as cinematographer and Abe as composer. Produced by Madhusudhan Rao for Abhishek Pictures and Thunder Studios, it's presented by Devansh Nama. The title's announcement boosts anticipation. The film will be released in multiple languages, with a star-studded cast to be announced soon.
 
-'டெவில் : தி பிரிட்டிஷ் சீக்ரெட் ஏஜெண்ட்' எனும் படத்தை இயக்கிய இயக்குநர் அபிஷேக் நாமா இயக்கத்தில் உருவாகும் 'நாகபந்தம் : தி சீக்ரெட் ட்ரெஸ்ஸரர்' எனும் திரைப்படத்தில் 'கே ஜி எஃப்' புகழ் அவினாஷ் அகோரியாக நடிக்கிறார். எஸ் சௌந்தர் ராஜன் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு அபே இசையமைக்கிறார். ஃபேண்டஸி என்டர்டெய்னர் ஜேனரில் தயாராகும் இந்த திரைப்படத்தை அபிஷேக் பிக்சர்ஸ் மற்றும் தண்டர் ஸ்டுடியோஸ் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர் மதுசூதன் ராவ் தயாரிக்கிறார். இந்த திரைப்படத்தை தேவன்ஷ் நாமா வழங்குகிறார்.
+🟩
 
-...
+'KG F' is named 'Nagabandam', which has been named 'Nagabandam', which has been named 'Nagabandam', which plays a different role as the hero of the story of 'KG F'.
+
+Directed by Director Abhishek Nama, who directed the film 'Devil: The British Secret Agent'. S Sounder Rajan is recording the film, Abe is composed by Abe. Producer Madhusudhan Rao is producing the film on behalf of Abhishek Pictures and Thunder Studios.. Devansh Nama presents this film.
+
+The climbs for the film's title offers a different experience for fans. Also increases expectations of the film. The film is released in Tamil, Telugu, Malayalam, Kannada and Hindi. It is reported that the list of star actors in the film will be officially announced soon.
+
+◼️
 
 [Data](articles/eb5f391e.json)
+
+[Extended Data](ext_articles/eb5f391e.ext.json)
 
 ---
 

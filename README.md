@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 17:54:05**
+As of **2024-04-10 18:10:15**
 
 ## Newspaper Stats
 
-*Scraped **18,311** Articles*
+*Scraped **18,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,59 +14,155 @@ dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 1,001
 islandlk | 1,001
-economynextcom | 1,021
-adalk | 1,541
+economynextcom | 1,027
+adalk | 1,542
 tamilmirrorlk | 2,144
 adaderanalk | 2,193
 virakesarilk | 2,723
-dailymirrorlk | 2,792
-adaderanasinhalalk | 2,966
+dailymirrorlk | 2,793
+adaderanasinhalalk | 2,967
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,308 (100.0%) of 18,311 articles have been extended.
+18,311 (100.0%) of 18,320 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### ජපානයෙන් ශ්‍රී ලංකාවට අධි තාක්ෂණික ස්කෑන් යන්ත්‍ර තොගයක්
+### බන්ධනාගාරගත සිරකරුවන්ට විශේෂ රාජ්‍ය සමාවක්
+
+*2024-04-10 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195517) · `si`
+
+2024 අප්‍රේල් මසට යෙදෙන සිංහල හා හින්දු  අලුත් අවුරුද්ද වෙනුවෙන් ජනාධිපතිවරයාට ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 34 (1) වගන්තියේ පැවරී ඇති බලතල අනුව බන්ධනාගාරගත සිරකරුවන්හට විශේෂ රාජ්‍ය සමාවක් පිරිනමයි.
+
+ඒ අනුව පහත සදහන් පරිදි නියමයන් හා කොන්දේසි යටතේ මෙම පොදු සමාව සිරකරුවන් හට ප්‍රධානය කර ඇත.
+
+* 2024.04.13 වනදා වනවිට බන්ධනාගාරගතව දඩුවම් විඳීමින් සිටින සිරකරුවන්ගේ ගෙවන ලද වසරකට හෝ ඉන් කොටසකට සති එකක සමාවක් ප්‍රධානය කිරීම.
+
+* දඩ මුදල් නොගෙවීම නිසා 2024.04.13 වනදා වනවිට බන්ධනාගාරගතව සිරදඬුවම් විඳීමින් සිටින සිරකරුවන්ගේ ගෙවමින් පවතින දඬුවමේ ශේෂය අහෝසි කිරීම.
+
+* 2024.04.13 වනදා වනවිට නියම කර ඇති සිරදඬුවමින් හරි අඩක් හෝ ඊට වැඩි කාලයක් ගෙවා අවසන් කර ඇති, වයස අවුරුදු 65 ඉක්මවා ඇති සිරකරුවන්ගේ දඬුවමේ ඉදිරි ශේෂය අහෝසි කිරීම.
+
+* 2024.04.13 වනදා වනවිට වසර 40ක් හෝ ඊට වැඩි සිරදඬුවමින් වසර 20ක කාලයක් ගෙවා අවසන්කර ඇති (මහාධිකරණයෙන් සිර දඬුවම් නියමකළ දින සිට) සිරකරුවන්ගේ දඬුවමේ ඉදිරි ශේෂය අහෝසි කිරීම.
+
+...
+
+[Data](articles/8f0aa620.json)
+
+---
+
+### Indian Ocean peace is our priority at present: SLAF chief
+
+*2024-04-10 17:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-Ocean-peace-is-our-priority-at-present-SLAF-chief/108-280565) · `en`
+
+Colombo, April 10 (Daily Mirror) - Sri Lanka Air Force (SLAF) today emphasized its commitment to maintaining peace in the Indian Ocean region, despite the absence of immediate terrorist threats within Sri Lanka.
+
+Air Force Commander Air Marshal Udeni Rajapaksa said the SLAF is very much worried about the civilians, weaponizers and providing free navigation for naval craft in the Indian Ocean and that they need to address those issues.
+
+In response to a media query the necessity of maintaining fighter jets like Kfir and F7 in the SLAF's fleet, the Commander explained that while they don't currently see an immediate need to phase out such jets, they are focusing on serviceability and plan to upgrade the existing five Kfir jets, by the first half of next year.
+
+...
+
+[Data](articles/8b11a010.json)
+
+---
+
+### Sri Lanka Customs to pilot pre-arrival processing of cargo from May
+
+*2024-04-10 17:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-to-pilot-pre-arrival-processing-of-cargo-from-may-158237/) · `en`
+
+ECONOMYNEXT – Sri Lanka Customs is seeking early declaration of cargo from this month, and will begin pre-arrival processing of import cargo as a pilot project from May, Additional Director General Sudatta Silva said.
+
+“It is still in the development stage,” Silva told EconomyNext.  “If the pilot is successful, we would be able to launch by the end of June.”
+
+Currently cargo ships arriving in Sri Lanka must declare the cargo upon their arrival in territorial waters.
+
+“We plan on getting cargo information 48 hours before the departure of the ship from the foreign port,” Silva said. “That way it is faster for us to do our homework.”
+
+“This way we can do the risk assessment and see if it’s low risk, medium risk or high risk.”
+
+Sri Lanka Customs can then start the process of authorization and documentation before the ship arrives in Sri Lankan territorial waters.
+
+Prior cargo declaration begins from April, and piloting of pre-arrival processing is set to start on May 1.
+
+...
+
+[Data](articles/ee2f0617.json)
+
+---
+
+### Sri Lanka has a stock of high-tech scans to Sri Lanka
 
 *2024-04-10 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195516) · `si`
 
-ජපානයේ ප්‍රදානයක් ලෙස අධි තාක්ෂණික ස්කෑන් යන්ත්‍ර තොගයක් මෙරටට ලබාදී තිබේ.
+Japan grants Sri Lanka high-tech scanners for disease monitoring at Colombo port and Katunayake Airport, including baggage, full-body, and biological access systems.
 
-කටුනායක ගුවන්තොටුපොලේ මෙහෙයුම් සහ කොළඹ වරායේ මෙහෙයුම් සඳහා මෙලෙස අමෙරිකානු ඩොලර් මිලියන 8.4ක ප්‍රදානයක් හිමවී ඇත.
+🟩
 
-විදේශිකයන් මගින් මෙරටට පැමිණෙන වසංගත, බෝවන රෝග වැනි මහජන සෞඛ්‍යයට අහිතකර රෝග තත්ත්වයන් නිරීක්ෂණය කිරීම මින් සිදුකෙරේ.
+A large haul of high tech scanners has been provided to the country as a grant of Japan.
 
-මෙම ව්‍යාපෘතිය යටතේ රෝග නිශ්චය කරනු ලබන ස්කෑන් යන්ත්‍රවලට අමතරව ගමන් මලු ස්කෑන් යන්ත්‍ර, සම්පූර්ණ ශරීර ස්කෑන් යන්ත්‍ර, විදේශීය ගමන් බලපත්‍ර ස්කෑන් යන්ත්‍ර සහ ජෛව මිතික ප්‍රවේශ පාලන පද්ධතියක් ද ලබාදීමට කටයුතු කර ඇත.
+Operations and the Colombo port operations have been given to the operations of the Katunayake Airport and the Colombo Port.
 
-ඒ අනුව මෙහි පළමු උපකරණ තොගය අද (10) කටුනායක ගුවන්තොටුපොලේදී ශ්‍රී ලංකාවේ ජපන් තානාපති මිෂුකොෂි හිඩෙයාකි මහතා විසින් වරාය නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා වෙත භාරදුනි.
+It is done to monitor the unhealthy disease, such as pestilences, infectious diseases, such as pestilences, infectious diseases.
 
-මෙයට අමතරව කටුනායක ගුවන්තොටුපොල තුළ ඒකක 150කින් යුත් සුහුරු වැසිකිළි පද්ධතියක් ස්ථාපිත කිරීමට ද මෙම ව්‍යාපෘතිය මගින් සිදු කෙරේ.
+In addition to the definite scanner under the project, a baggage scan machines, full-body scans, foreign licenses scan and a biological access control system.
+
+Accordingly, the first consignment was handed over to Ports and Aviation Minister Missukashi Hydai, Minister of Japan at the Bandaranaike International Airport today (10).
+
+In addition, the project will also establish a 150 unit coverage system in the Katunayake airport.
 
 ◼️
 
 [Data](articles/6d9e39b9.json)
 
+[Extended Data](ext_articles/6d9e39b9.ext.json)
+
 ---
 
-### முட்டையின் விலை மீண்டும் அதிகரிப்பு!
+### Increase in the price of eggs again!
 
 *2024-04-10 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180929) · `ta`
 
-தமிழ், சிங்கள புத்தாண்டை  முன்னிட்டு சில தினங்களுக்கு முன்பு குறைக்கப்பட்டிருந்த முட்டையின் விலை மீண்டும் உயரந்துள்ளது.
+Egg prices rise again after a brief reduction for Tamil and Sinhala New Year. Local eggs now sell at Rs 50, retail at Rs 55. Vegetables and fish prices also increase.
 
-உள்ளுர் முட்டையொன்றின் விலை தற்போது 50 ரூபாவாகவும் சில்லறை விற்பனை விலை 55 ரூபாவாகவும் விற்பனை செய்யப்படுகின்றன.
+🟩
 
-மேலும் கடந்த சில  நாட்களாக விலைக் குறைக்கப்பட்டிருந்த காய்கறி, மீன்களின்  விலை இன்று ஓரளவு  அதிகரித்துள்ளது.
+The price of eggs that had been reduced a few days ago in the wake of the Tamil and Sinhala New Year has risen again.
+
+The price of a local egg is currently being sold at Rs 50 and retail price at 55 rupees.
+
+Moreover, the price of vegetables and fish, which has been reduced for the past few days, has increased somewhat.
 
 ◼️
 
 [Data](articles/df45e4f7.json)
+
+[Extended Data](ext_articles/df45e4f7.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 298.50/55 to the US dollar
+
+*2024-04-10 17:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-298-50-55-to-the-us-dollar-158243/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 298.50/55 to the US dollar in the spot forex market on Wednesday, stronger from 298.60/65 on Tuesday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 11.30//35 percent down from 11.30/40 percent.
+
+A bond maturing on 15.09.2027 closed at 11.90/12.00 percent up from 11.85/12.00 percent.
+
+A bond maturing on 15.12.2028 closed at 12.10/15 percent up from 12.05/15 percent.
+
+A bond maturing on 15.09.2029 closed at 12.20/40 percent up from 12.20/30 percent.
+
+A bond maturing on 01.10.2032 closed at 12.30/50 percent down from 12.40/55. (Colombo/Apr10/2024)
+
+◼️
+
+[Data](articles/66dcb87a.json)
 
 ---
 
@@ -94,23 +190,31 @@ In recent weeks, Mr Yoon been criticised for appearing to be out of touch with v
 
 ---
 
-### இனியும் கம்பனி காரணம் கூற முடியாது –  ஜீவன் தொண்டமான்
+### The reason for the company is no longer the reason - Jeevan Thondaman
 
 *2024-04-10 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180928) · `ta`
 
-'பெருந்தோட்டத் தொழிலாளர்களுக்கான சம்பள உயர்வு தொடர்பான சம்பள நிர்ணயசபையின் 2ஆவது கூட்டம் எதிர்வரும் 24 ஆம் திகதி நடைபெறவுள்ளது. இதன்போது அனைத்து தொழிற்சங்கங்களும் தொழிலாளர் பக்கம் நின்று உரிய வகையில் தமது வாக்கை பயன்படுத்த வேண்டும்." என இ.தொ.காவின் பொதுச்செயலாளரும், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்.
+Jeevan Thondaman emphasized the need for plantation workers' salary standards, criticizing companies for not participating in talks. He highlighted the importance of a referendum on salary hike and urged workers to stand up against plantation companies.
 
-கொழும்பு அமைச்சில் இன்று புதன்கிழமை (10) நடைபெற்ற ஊடக சந்திப்பின்போதே அவர் இவ்வாறு கூறினார்.
+🟩
 
-'சம்பள நிர்ணயசபை இன்று கூடியது. 10 தொழிற்சங்கங்களில் 9 தொழிற்சங்க பிரதிநிதிகள் பங்கேற்றிருந்தனர். தோட்ட சேவையாளர் சங்க பிரதிநிதிகள் பங்கேற்கவில்லை. பெருந்தோட்டக் கம்பனிகளும் வரவில்லை.
+“The 2nd meeting of the Plantation Workers' Salary Standards Board will be held on the 24th of this month.. All the trade unions should stand up to the labor and use their vote. ”
 
-10 ஆம் திகதி சம்பள நிர்ணயசபைக் கூடும் என முதலாம் திகதியே அறிவித்திருந்தோம். எனினும், தம்மால் வரமுடியாது என கம்பனிகாரர்கள் நேற்றைய தினமே (09) அறிவித்திருந்தனர்.
+He said this during a media briefing held at the Colombo Ministry on Wednesday (10).
 
-சம்பள உயர்வு தொடர்பில் கடந்த ஆகஸ்ட் மாதம் முதலே பேச்சு நடத்தி வருகின்றோம். எனவே, உரிய கால அவகாசம் இல்லை என்பது உட்பட கம்பனிகள் கூறிவரும் காரணங்கள் ஏற்புடையானவையாக அல்ல.
+'Salary Standards Council met today. Nine union representatives participated in 10 unions. Plantation Service Association representatives did not participate. Plantation companies do not come.
+
+On the first day we announced that the salary council would be convened on the 10th. However, the company had announced yesterday (09) that they could not come.
+
+We have been holding talks since last August. Therefore, the reasons that the companies claim to have no timely time are not acceptable.
+
+We have consulted with the Attorney General that there is no legislation on the issue of joint agreement. But companies refuse to come to the joint venture as a legal issue.
 
 ...
 
 [Data](articles/16e070d5.json)
+
+[Extended Data](ext_articles/16e070d5.ext.json)
 
 ---
 
@@ -183,6 +287,24 @@ The secretary of the Adilingeswara Temple Executive Council, Durairasa Thamizelv
 [Data](articles/09ccf653.json)
 
 [Extended Data](ext_articles/09ccf653.ext.json)
+
+---
+
+### For Sri Lanka and India, cooperation is the only option: High Commissioner
+
+*2024-04-10 16:20:00* · [`economynextcom`](https://economynext.com/for-sri-lanka-and-india-cooperation-is-the-only-option-high-commissioner-158232/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s and India’s shared past, common heritage and strong cultural connect create ‘a natural warmth’ in dealing with each other, High Commissioner of India Santosh Jha has said.
+
+“For us, as close and proximate neighbours, cooperation is the only option. It is not driven by choice and opportunity alone,” Jha said speaking at the India-Sri Lanka Defence Seminar held in Colombo on Wednesday.
+
+“Our approach to Sri Lanka is guided by our neighbourhood-first policy and our SAGAR vision. This entails that we share with our closest neighbours all that we can based on their needs and aspirations. It also entails that our approach remains generous and non-reciprocal.”
+
+India looked forward to working with Sri Lanka to take forward our common endeavour to deepen and further strengthen our defence cooperation, the high commissioner said.
+
+...
+
+[Data](articles/903df171.json)
 
 ---
 
@@ -604,6 +726,36 @@ They have no agreement with a salary increase. Senthil Thondaman said that the s
 
 ---
 
+### Sri Lanka stocks close up, All Share passes 12,000
+
+*2024-04-10 14:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-all-share-passes-12000-158216/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader All Share Index closed up 0.59 percent, or 70.61 points, at 12,033; while the S&P SL20 Index closed up 0.73 percent, or 25.85 points, at 3,572.
+
+Turnover was at 2.9 billion. Banks brought in most of the value at 1.7 billion rupees.
+
+Sampath Bank Plc was the most traded stock at 1.4 billion rupees in turnover. The share closed up at 81.00.
+
+“There was a lot of buying interest coming into banks,” market participants said.
+
+Commercial Bank of Ceylon Plc was up at 111.50, Hatton National Bank Plc was up at 203.50, National Development Bank Plc was up at 78.20, and DFCC Bank Plc closed up at 83.00.
+
+Ambeon Capital Plc which announced changes to its board, closed up at 10.10.
+
+Hayleys Fabric Plc, which saw renewed interest, closed up at 23.80.
+
+LOLC Holdings Plc was up at 412.00, and subsidiary LOLC Finance Plc was up at 5.80.
+
+There was a net foreign outflow of 15 million. (Colombo/Apr10/2024)
+
+◼️
+
+[Data](articles/1f53a3d0.json)
+
+---
+
 ### Identifying the main factors for accidents on high -speed streets
 
 *2024-04-10 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180892) · `ta`
@@ -743,6 +895,24 @@ Tamil National People's Front parliamentarian Selvarajah Gajendran issued a warn
 [Data](articles/f07e66fc.json)
 
 [Extended Data](ext_articles/f07e66fc.ext.json)
+
+---
+
+### මොනරාගලින් ඇවිත් කාන්තා ක්‍රිකට් පිටිය හොල්ලපු පුංචි තරුව
+
+*2024-04-10 13:54:59* · [`adalk`](https://www.ada.lk/sports/මොනරාගලින්-ඇවිත්-කාන්තා-ක්‍රිකට්-පිටිය-හොල්ලපු-පුංචි-තරුව/9-409049) · `si`
+
+මොනරාගල කුඹුක්කන පඤ්ඤානන්ද මහා විද්‍යාලයේ එච්.එම් චමෝදී ප්‍රබෝධා ක්‍රීඩිකාව 19 පහළ ශ්‍රීලංකා ජාතික කාන්තා ක්‍රිකට්  කණ්ඩායඔමේ විශිෂ්ඨ දස්කම් දක්වා ඇත.
+
+10 වන වසරේ ඉගෙනුම ලබන ඇය මොනරාගල පාරාවිලවත්ත පදිංචිව සිටී. කුඩා කළ සිට ක්‍රීඩාවට ඇලුම් කළ ඇය ක්‍රිකට් ක්‍රීඩාවට දක්වන උනන්දුව පිළිබඳව පැහැදුණු විද්‍යාලයේ ස්වේච්ඡා ගුරුවරයෙකු වූ කේ.චන්ද්‍රකුමාර් මහතා යටතේ පුහුණුව ලබා තිබේ.
+
+විදුහල්පති ආර්.එම්.එස් රත්නායක,විද්‍යාලයීය ක්‍රීඩා පුහුණුකාරිය වන නාලනී විජේරත්න මහත්මියගේ මඟපෙන්වීම මත ක්‍රීඩා දිවිය ආරම්භකළ ඇය දිස්ත්‍රික් පළාත් ක්‍රිකට් ක්‍රීඩා තරඟ වලදී  දස්කම් රැසක් දක්වා තිබේ.
+
+වේගපන්දු යවන්නියක ලෙස දස්කම් දැක්වූ ඇය වමතින් පාදඟ පන්දු යවන්නියක ලෙසද දස්කම් දක්වන අතර දැනට ශ්‍රී ලංකා ජාතික ක්‍රිකට 19 පහළ කාන්තා  කණ්ඩායම නියෝජනය කරයි.පහළොස් වන වියෙහි පසුවන ඇය 19 පහළ කණ්ඩායමේ ලාබාලතම ක්‍රීඩිකාවයි.
+
+...
+
+[Data](articles/90de542d.json)
 
 ---
 
@@ -1076,6 +1246,24 @@ Meanwhile, the S&P SL20 closed at 3,580.64 points today, up by 0.95% (33.81 poin
 
 ---
 
+### Sri Lanka president asks new owners not to mortgage, sell houses
+
+*2024-04-10 13:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-asks-new-owners-not-to-mortgage-sell-houses-158202/) · `en`
+
+ECONOMYNEXT – President Ranil Wickremesinghe has asked new house owners to not mortgage property, at a ceremony to handover flats to those who lost houses in the Kajimawatte fire.
+
+“This house you get today will become your most valuable property. It is your responsibility to use it safely. Do not mortgage or sell these houses after suffering for the last ten years. I request you to protect these houses like your own life,” Wickremesinghe said.
+
+294 houses at the Randiya Uyana housing complex in Modara were handed over to people from Kajimawatte whose houses were gutted by a fire in 2010.
+
+“The people of Kajimawatte have been living in a place like hell. It is impossible to imagine how they lived there.” (Colombo/Apr10/2024)
+
+◼️
+
+[Data](articles/741ab537.json)
+
+---
+
 ### The hydrological tragedy reveals
 
 *2024-04-10 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195504) · `si`
@@ -1183,6 +1371,26 @@ I wish to congratulate all the Muslim brothers in the world to pray for equality
 [Data](articles/c1922a3b.json)
 
 [Extended Data](ext_articles/c1922a3b.ext.json)
+
+---
+
+### Sri Lanka voter lists opened for public scrutiny
+
+*2024-04-10 12:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-voter-lists-opened-for-public-scrutiny-158194/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Election Commission has announced that it would be posting its 2024 electoral roll for public viewing for revisions.
+
+“The ‘A’ list containing the names removed in 2023, and the ‘B’ list containing the new names included in the 2024 will be displayed at the following places from Apr 9 to May 6:
+
+1. All District Secretariat Election Offices (applicable to the entire district)
+
+4. In all Grama Niladhari offices (pertaining to Gram Niladhari domain)”
+
+Anyone who wishes to rectify their non-inclusion or inclusion can approach the district election offices, the Media Release said.
+
+◼️
+
+[Data](articles/fe6ab37d.json)
 
 ---
 
@@ -2171,195 +2379,5 @@ The accident had occurred when a motorbike to face a motorbike on the opposite.
 [Data](articles/30c743ea.json)
 
 [Extended Data](ext_articles/30c743ea.ext.json)
-
----
-
-### Petrol bomb in Athurugiriya
-
-*2024-04-10 09:01:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துருகிரியவில்-பெட்ரோல்-குண்டு-வீச்சு/175-335812) · `ta`
-
-A petrol bomb attack on a millionaire's house in Athurugiriya, Kalvarusawa road, follows arrests of three suspects linked to a lake incident. The businessman, who owns a garment factory, was targeted by an underworld activist abroad, possibly due to a refusal to pay.
-
-🟩
-
-Navagamuwa police said that a person had attacked a house belonging to a millionaire businessman on the Athurugiriya, Kalvarusawa road yesterday evening.
-
-A few months ago, three suspects were arrested by the Navagamuwa police in connection with the lake in front of a trader -owned house.
-
-A senior official of the Navagamuwa police said that the underworld activist abroad had demanded a businessman several times and that he could have threatened him due to refusal to give money.
-
-The billionaire businessman who runs a massive garment factory in the Maharagama Pamunwa area has many more garment plants.. Remble
-
-◼️
-
-[Data](articles/1fb49a0d.json)
-
-[Extended Data](ext_articles/1fb49a0d.ext.json)
-
----
-
-### Petrol bomb
-
-*2024-04-10 09:01:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதுருகிரியவில்-பெட்ரோல்-குண்டு-வீச்சு/175-335812) · `ta`
-
-A petrol bomb attack on a millionaire garment trader's house in Kalvarusawa Road, Navagamuwa, followed by arrests of three suspects linked to the trader's property. The trader, a billionaire businessman, has faced threats from an underworld activist abroad, possibly due to refusal to pay.
-
-🟩
-
-Navagamuwa police said that a person had carried out a petrol bomb yesterday evening (09) in a house owned by a millionaire garment trader at Kalvarusawa Road, Kalvarusawa Road.
-
-A few months ago, three suspects were arrested by the Navagamuwa police in connection with the lake in front of a trader -owned house.
-
-A senior official of the Navagamuwa police said that the underworld activist abroad had demanded a businessman several times and that he could have threatened him due to refusal to give money.
-
-The billionaire businessman who runs a massive garment factory in the Maharagama Pamunwa area has many more garment plants.. Remble
-
-◼️
-
-[Data](articles/d22bc23a.json)
-
-[Extended Data](ext_articles/d22bc23a.ext.json)
-
----
-
-### President Ranil’s message for Eid al-Fitr
-
-*2024-04-10 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98548/president-ranils-message-for-eid-al-fitr) · `en`
-
-President Ranil Wickremesinghe, in his message for Eid al-Fitr (also known as Ramadan), commended the devout Muslims for steadfastly adhering to their religious obligations, fasting piously and offering prayers for the well-being of both themselves and society at large.
-
-As the Sri Lankan Islamic community observes Ramadan this year, it coincides with a period of burgeoning progress and encouragement within the nation, he added.
-
-The Islamic adherents worldwide engage in fasting for a month, guided by the noble intention of fostering personal growth and benefiting others, the statement read further.
-
-The President also noted that the Holy Quran underscores the importance of adhering to such virtuous practices from antiquity, illuminating the path towards righteousness and spiritual fulfilment.
-
-...
-
-[Data](articles/12f54a67.json)
-
-[Extended Data](ext_articles/12f54a67.ext.json)
-
----
-
-### India & Sri Lanka: Identifying New Opportunities & Forging New Bonds
-
-*2024-04-10 08:51:53* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/india-sri-lanka-identifying-new-opportunities-forging-new-bonds/) · `en`
-
-It is my pleasure to welcome you to the Second Seminar on India-Sri Lanka Defence Cooperation that we are organizing in Colombo. I thank you all for attending. My deep appreciation to the Hon. State Minister Mr. Tennekoon for his presence here today. I must also thank the Chief of Defence Staff of Sri Lanka and the Commanders of the Air Force and Navy for their gracious presence.We value the support extended by the Ministry of Defence of Sri Lanka. We look forward to working with our Sri Lankan friends to take forward our common endeavour to deepen and further strengthen our defence cooperation.I am also grateful for the presence of Indian delegation led by Additional Secretary from Ministry of Defence. He is leading a large and very diverse delegation from the Indian defence-industry, including some leading Indian Defence Public Sector entities and wide range of industry players from the private sector.
-
-...
-
-[Data](articles/3c23c8b9.json)
-
-[Extended Data](ext_articles/3c23c8b9.ext.json)
-
----
-
-### The possibility of thunderstorms
-
-*2024-04-10 08:48:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யக்-கூடிய-சாத்தியம்/175-335811) · `ta`
-
-Expect rain/thundershowers in Western, Sabaragamuwa, North Western Provinces, and Galle/Matara districts after 2 pm. Morning snowfall possible in Western, Central, Sabaragamuwa provinces, and Galle/Matara districts. Thundershowers may occur. Take precautions against lightning. Sun's peak to Sri Lanka from April 5-15.
-
-🟩
-
-In some places in the Western, Sabaragamuwa and North Western Provinces and Galle and Matara districts, there is a possibility of rain or thundershowers after 2 pm.
-
-In the morning, in some parts of the Western, Central and Sabaragamuwa provinces, Galle and Matara districts, there is expected snowfall in the morning.
-
-Thundershowers can be temporarily blowing in the area during the thunderstorm.
-
-The public is advised to take necessary precautions to reduce the effects of lightning impacts.
-
-Due to the Sun's Movement, it will peak to Sri Lanka's wide lines from April 5 to 15 this year.. Remble
-
-◼️
-
-[Data](articles/36ebaa3b.json)
-
-[Extended Data](ext_articles/36ebaa3b.ext.json)
-
----
-
-### Key factors identified for accidents on expressways
-
-*2024-04-10 08:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Key-factors-identified-for-accidents-on-expressways/108-280519) · `en`
-
-Colombo, April 10 (Daily Mirror) - Driver negligence, vehicle maintenance issues and accidents caused by third parties were identified as the three main reasons for accidents on expressways, the Advisory Committee for Expressway Safety Actions member Dr. Chamod Hettiarachchi said.
-
-Addressing a media gathering yesterday in Colombo, he said the above key statistics and factors contributing to accidents on expressways were revealed following a survey report.
-
-...
-
-[Data](articles/647245b5.json)
-
-[Extended Data](ext_articles/647245b5.ext.json)
-
----
-
-### IGP calls for heightened security during festival season
-
-*2024-04-10 08:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IGP-calls-for-heightened-security-during-festival-season/108-280532) · `en`
-
-Colombo, April 10 (Daily Mirror)- Inspector General of Police Deshabandu Tennakoon emphasized the need for heightened security measures in light of the upcoming Ramadan festival and Sinhala and Hindu New Year celebrations.
-
-Speaking at an event held at the Minister's Security Division, the IGP highlighted the global threat of extremist terrorist attacks stressing the importance of focusing on VIP security and national security.
-
-"Extremist and terrorist attacks occur worldwide often unexpectedly. This underscores the necessity of vigilance, the IGP said.
-
-Meanwhile, the IGP said that there are certain persons who are attempting to attack on political, religious and cultural aspects to incite public unrest.
-
-...
-
-[Data](articles/a7f0a981.json)
-
-[Extended Data](ext_articles/a7f0a981.ext.json)
-
----
-
-### A person killed and put on the tut
-
-*2024-04-10 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195495) · `si`
-
-A 45-year-old man from Hindagama was found dead, assaulted with a sharp object. Investigations led to the arrest of his son, a 24-year-old, and the 39-year-old's wife, due to a family dispute.
-
-🟩
-
-Investigations have commenced on information received on information received by the Hindulwewa police division of the Divulwewa police year.
-
-Accordingly, the deceased has been identified as a 45 year old resident of Hindagama, Dadgokana, Dadgokana.
-
-It has been revealed that the person had been assaulted by a sharp object after the post mortem examination over the body.
-
-Further investigation further investigated by the son of the 24-year-old man and the 39-year-old man, the wife of the 39-year-old man, was arrested yesterday (09).
-
-Police have also been arrested by the murder at home due to a family dispute, and a three-wheeler used to carry the body after the assassination.
-
-◼️
-
-[Data](articles/9ba3b48a.json)
-
-[Extended Data](ext_articles/9ba3b48a.ext.json)
-
----
-
-### Demand
-
-*2024-04-10 08:36:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-மக்களிடம்-விடுத்துள்ள-கோரிக்கை/175-335810) · `ta`
-
-The government urges citizens to reduce road accidents and fireworks use during Tamil and Sinhala New Year, highlighting that 36% of accidents are due to fireworks explosions and 17% involve crackers.
-
-🟩
-
-The government has called on the people to focus on reducing road accidents and fireworks during the upcoming Tamil and Sinhala New Year.
-
-Research reports show that 36% of accidents are caused by fireworks explosion during festivals, and 17% of the use of crackers and crackers have been reported.. Remble
-
-◼️
-
-[Data](articles/7ade1e1d.json)
-
-[Extended Data](ext_articles/7ade1e1d.ext.json)
 
 ---

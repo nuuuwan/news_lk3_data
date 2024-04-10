@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 04:51:43**
+As of **2024-04-11 05:03:19**
 
 ## Newspaper Stats
 
-*Scraped **18,368** Articles*
+*Scraped **18,369** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 162
 bbccomsinhala | 192
 dbsjeyarajcom | 213
 newsfirstlk | 363
-dailyftlk | 1,001
 islandlk | 1,001
+dailyftlk | 1,002
 economynextcom | 1,027
 adalk | 1,545
 tamilmirrorlk | 2,149
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,367 (100.0%) of 18,368 articles have been extended.
+18,368 (100.0%) of 18,369 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### Indira Malwatte appointed to Kotmale Holdings Board
+
+*2024-04-11 04:51:11* · [`dailyftlk`](https://www.ft.lk/business/Indira-Malwatte-appointed-to-Kotmale-Holdings-Board/34-760568) · `en`
+
+Indira Malwatte has been appointed to the Board of Kotmale Holdings Plc as an Independent Non-Executive Director.
+
+She also serves on the Board of Cargills (Ceylon) Plc, the parent of Kotmale. Malwatte holds a Combined Degree in Economics and Geography from the University of Peradeniya Sri Lanka and was the first woman Chairperson of the EDB. She has over 40 years of experience in serving the Government both internationally and locally as a Top Export Promotion Professional.
+
+Her in-depth knowledge of multi sectors ranging from Industrial, Agricultural, Services, Supply Chain Management, and International Marketing has led to her serving as a Director in several Companies and Government Institutes in a variety of industries.
+
+...
+
+[Data](articles/3ff060eb.json)
+
+---
 
 ### State Minister alleged to have abused and threatened the HR and Admin Assistant of Lanka Phosphate Company
 
@@ -47,6 +63,8 @@ She said she was called her to a meeting at the ministry and threatened and seve
 ...
 
 [Data](articles/beb756db.json)
+
+[Extended Data](ext_articles/beb756db.ext.json)
 
 ---
 
@@ -2353,39 +2371,5 @@ ECONOMYNEXT – President Ranil Wickremesinghe has asked new house owners to not
 [Data](articles/741ab537.json)
 
 [Extended Data](ext_articles/741ab537.ext.json)
-
----
-
-### The hydrological tragedy reveals
-
-*2024-04-10 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195504) · `si`
-
-A shocking murder in Dangalawalawala, Vidul Lake, revealed by police. Victim, a 45-year-old, attacked with a sharp instrument. Son, 39, arrested by wife, 39, and son, 24. Body found in tank after being brought there in the evening.
-
-🟩
-
-Police have revealed to the police of the murder of shocking the country.
-
-The murder had taken place due to a family dispute.
-
-A corpse of a person was found in the Vidul Lake yesterday (09), met with a large number of fabrics.
-
-Accordingly, the deceased was revealed that the deceased was a 45 year old resident of the Dangalawalawala area.
-
-The post mortem examination on the remains of the murder were revealed that the murder had been attacked with a sharp instrument.
-
-The police then launched an investigation into the incident and the 39-year-old son of the victim have been arrested by the 39 year old wife and 24 year old son.
-
-The police also recovered three-wheeler to the tank to the tank after the assassination of the house.
-
-Disclosed during the interrogation of the suspects around 9 am on the 8th of this month.
-
-They have said that during the evening, the body was brought to the tank.
-
-◼️
-
-[Data](articles/8dc872be.json)
-
-[Extended Data](ext_articles/8dc872be.ext.json)
 
 ---

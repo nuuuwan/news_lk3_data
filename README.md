@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 12:51:31**
+As of **2024-04-10 13:03:16**
 
 ## Newspaper Stats
 
-*Scraped **18,258** Articles*
+*Scraped **18,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,78 @@ newsfirstlk | 363
 dailyftlk | 1,001
 islandlk | 1,001
 economynextcom | 1,021
-adalk | 1,535
+adalk | 1,536
 tamilmirrorlk | 2,141
 adaderanalk | 2,186
-virakesarilk | 2,705
+virakesarilk | 2,708
 dailymirrorlk | 2,785
-adaderanasinhalalk | 2,955
+adaderanasinhalalk | 2,956
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,257 (100.0%) of 18,258 articles have been extended.
+18,258 (100.0%) of 18,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### காந்தள் மலர் இல்லம் குறித்து பொலிஸார் கேள்வி எழுப்புவது 'இனவெறி அடக்குமுறை'
+
+*2024-04-10 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/180901) · `ta`
+
+வடக்கில் பாடசாலையொன்றின் இல்ல விளையாட்டுப் போட்டிகள் தொடர்பாக அதிபர், ஆசிரியர்கள் மற்றும் மாணவர்களிடம் பொலிஸார் கேள்வி எழுப்பியமை இனவாத அடக்குமுறை என நாட்டின் முன்னணி ஆசிரியர் சங்கம் ஒன்று கண்டனம் தெரிவித்துள்ளது.
+
+தமிழ் தேசிய மலராக கருதப்படும் காந்தள் (கார்த்திகை பூ) மலரின் வடிவில் இல்லம் ஒன்று வடிவமைக்கப்பட்டுள்ளமை குறித்து பொலிஸார் விசாரணை நடத்தியுள்ளனர்.
+
+பொலிஸாரின் நடவடிக்கையினால் பாடசாலை மாணவர்களின் அடிப்படை உரிமைகள் மீறப்பட்டுள்ளதாக இலங்கை ஆசிரியர் சங்கம், இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாண அலுவலகத்தில் கடந்த ஏப்ரல் 2ஆம் திகதி முறைப்பாடு செய்திருந்தது.
+
+பாடசாலைப் பாடப்புத்தகங்களிலும் இடம்பெற்றுள்ள பூக்களின் வடிவத்தை பயன்படுத்தி மாணவர்கள் தமது திறமைகளை வெளிப்படுத்த முடியாத வகையில் நெருக்கடியை ஏற்படுத்துவது இனவாதக் கோணத்தில் செயற்பபடுவதையே காட்டுவதாக இலங்கை ஆசிரியர் சங்கம் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/cad18269.json)
+
+---
+
+### ජීවිතය වගේ මේ ගෙදර රැකගන්න - ජනපති
+
+*2024-04-10 12:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195502) · `si`
+
+අධ්‍යාපනය, ඉඩම්, නිවාස හා ව්‍යාපාර අයිතිය ලබා දෙමින් ශක්තිමත් ආර්ථිකයක කොටස්කරුවන් බවට ජනතාව පත්කිරීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රකාශ කළේය.
+
+2010 වසරේදී කජීමාවත්තේ ගිනිබත් වූ නිවාස වෙනුවෙන් රන්දිය උයන නිවාස සංකීර්ණයේ නිවාස 294ක් ජනතා අයිතියට පවරාදීමේ අවස්ථාවට එක්වෙමින් ජනාධිපතිවරයා මෙම අදහස් පළකළේය.
+
+වැඩිදුරටත් අදහස් දක්වමින් ජනාධිපතිවරයා මෙම නිවාස උගස් තැබීමට හෝ විකිණීමට කටයුතු නොකරන ලෙසට ඉල්ලීමක්ද සිදුකළේය .
+
+වසර දහයකට වඩා කාලයක් කජිමාවත්තේ ජනතාව ජීවත් වී තිබෙන්නේ අපායක් වැනි ස්ථානයකයි. එහි ජීවත් වුනේ කොහොමද යන්නත්  හිතාගත නොහැකියි. එවැනි පසුබිමක මෙම මහල් නිවාස කඩිනමින් ජනතාවට ලබාදීමට හැකි වීම පිළිබඳ සතුටුවනවා. මේ සම්බන්ධයෙන් රවී කරුණානායක මහතා විශාල උනන්දුවක් දැක්වූවා. ඔබට අද ලැබෙන මෙම නිවස ඔබේ වටිනාම දේපළ බවට පත්වෙනවා. එය ආරක්ෂාකාරීව භාවිත කිරීම ඔබ සතු වගකීමක් වෙනවා. පසුගිය වසර දහයක කාලය තුළ දුක් වින්ඳ ඔබ මෙම නිවාස උගස් තියන්න හෝ විකුණන්න එපා. තමන්ගේ ජීවිතය වගේ මෙම නිවාස රැකගන්න කියා මා ඉල්ලා සිටිනවා.
+
+...
+
+[Data](articles/7e72f4ff.json)
+
+---
+
+### 'உலகமெங்கும் சமத்துவமும், சகோதரத்துவமும் மேலோங்க  பிரார்த்திப்போம்' - எம். எஸ் தௌபீக் எம்.பி..!
+
+*2024-04-10 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180897) · `ta`
+
+உலக வாழ் முஸ்லிம்கள் அனைவருக்கும் இனிய நோன்பு பெருநாள் வாழ்த்துக்களை  தெரிவிப்பதில் மகிழ்ச்சியடைவதாக திருகோணமலை மாவட்ட நாடாளுமன்ற உறுப்பினரும், ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் தேசிய அமைப்பாளருமான எம் எஸ் தௌபீக் அவருடைய பெருநாள் வாழ்த்துச் செய்தியில் குறிப்பிட்டுள்ளார்.
+
+புனித ரமழான் நோன்பை நோற்று நல்லமல்களில் விழித்திருந்து வணங்கி இன்று பெருநாளை அடைந்திருக்கிறோம். இறை அச்சத்தோடு இவ்வருட நோன்பை எதிர்கொண்டு, நமது ஈமானை இந்த மாதத்தில் பலப்படுத்திக் கொண்டோம்.
+
+பலப்படுத்திக் கொண்ட உள்ளங்களை இன்றைய தினத்தோடு விட்டுவிடாது வாழ்நாள் பூராகவும் செயற்படுத்திக் கொள்ள முயற்சி செய்வதோடு, ஏழை எழியோருக்கு முடியுமான உதவிகளை வழங்குவோம்.
+
+அதேபோன்று பலஸ்தீனில் எமது உடன்பிறப்புக்கள் படும் இன்னல்களை புரிந்து,  அவர்களின் சுபீட்சத்திற்காகவும் அங்கு நிரந்தர அமைதி நிலவவும் இறைவனிடம் இரு கரம் ஏந்தி பிரார்த்திப்போம்.
+
+உலகு எங்கும் சமத்துவமும், சகோதரத்துவமும் மேலோங்கட்டும் என பிரார்த்தித்தவனாக உலக வாழ் அனைத்து முஸ்லிம் சகோதரர்களுக்கும் எனது நோன்பு பெருநாள் வாழ்த்துக்களை தெரிவித்துக்கொள்கிறேன் என்றார்.
+
+◼️
+
+[Data](articles/c1922a3b.json)
+
+---
 
 ### Caution urged to prevent traffic and firework accidents during festive season
 
@@ -47,6 +103,24 @@ In response to these concerns, the Ministry of Transport and the Ministry of Hea
 ...
 
 [Data](articles/2ca39ef0.json)
+
+[Extended Data](ext_articles/2ca39ef0.ext.json)
+
+---
+
+### யாழில் வயோதிப பெண் சடலமாக மீட்பு
+
+*2024-04-10 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180894) · `ta`
+
+மானிப்பாய் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியை சேர்ந்த சாந்தினி எனும் 63 வயதுடைய பெண்ணே சடலமாக மீட்கப்பட்டுள்ளார்.
+
+பிள்ளைகள் மற்றும் கணவரை பிரிந்து தனியாக வீட்டில் வசித்து வந்ததாகவும் , நேற்றைய தினம் செவ்வாய்க்கிழமை வீட்டில் சடலமாக காணப்பட்டதை அயலவர்கள் கண்ணுற்று பொலிஸாருக்கு தகவல் வழங்கியுள்ளனர்.
+
+பொலிஸார் சம்பவ இடத்திற்கு சென்று விசாரணைகளை முன்னெடுத்த பின்னர் சடலத்தை மீட்டு, உடற்கூற்று பரிசோதனைக்காக யாழ்.போதனா வைத்தியசாலையில் ஒப்படைத்துள்ளனர்.
+
+◼️
+
+[Data](articles/10de7ef8.json)
 
 ---
 
@@ -459,6 +533,20 @@ He died that night as he was admitted to the Jaffna Teaching Hospital yesterday 
 [Data](articles/7e869145.json)
 
 [Extended Data](ext_articles/7e869145.ext.json)
+
+---
+
+### 779 ක් නිදස්
+
+*2024-04-10 10:44:13* · [`adalk`](https://www.ada.lk/breaking_news/779-ක්-නිදස්/11-409044) · `si`
+
+සිංහල හා දෙමළ අලුත් අවුරුද්ද වෙනුවෙන් සිරකරුවන් 779කට ජනාධිපති සමාව යටතේ නිදහස ලබා දීමට තීරණය කර ඇතිබව පැවසේ.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 34(1) වගන්තිය අනුව ජනාධිපතිවරයා වෙත පැවරී ඇති බලතල ප්‍රකාරව මෙම විශේෂ රාජ්‍ය සමාව පිරිනැමීමට නියමිත බව වාර්ථාවෙයි.
+
+◼️
+
+[Data](articles/8c1253b7.json)
 
 ---
 
@@ -2161,113 +2249,5 @@ Accordingly, England scored 118 runs in the end of 23 overs.
 [Data](articles/07c9f04a.json)
 
 [Extended Data](ext_articles/07c9f04a.ext.json)
-
----
-
-### Public amnesty to the military
-
-*2024-04-09 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180850) · `ta`
-
-A public amnesty for Sri Lankan military personnel, including officers and soldiers, has been declared for those who have not served or taken leave without proper vacation before the 2nd of this month. The military headquarters has set a final deadline for this amnesty, requiring applicants to submit documents such as bank statements, identification, salary and payment books, and a list of salary payments.
-
-🟩
-
-Public amnesty has been declared to leave the military service to the soldiers who have long left the service without a proper vacation.
-
-The Public amnesty has been announced for the Sri Lankan army officials and soldiers who have not been able to serve and illegally without a proper vacation.
-
-This public amnesty has been announced to officers and soldiers who did not attend the work without proper vacation before the 2nd of this month.. The military headquarters has announced that the last date for this amnesty will not be extended for any reason.
-
-They have also been submitted to submit a copy of the bank's book, National Identity Card or Driver's License, Salary and Payment Book, a copy of the last received salary and a salary list of payments.
-
-◼️
-
-[Data](articles/997b9e31.json)
-
-[Extended Data](ext_articles/997b9e31.ext.json)
-
----
-
-### Muslim community in Sri Lanka to celebrate Eid-al-Fitr tomorrow
-
-*2024-04-09 22:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Muslim-community-in-Sri-Lanka-to-celebrate-Eid-al-Fitr-tomorrow/108-280507) · `en`
-
-Colombo, April 9 (Daily Mirror) - The Muslim community in Sri Lanka is gearing to celebrate Eid-al-Fitr tomorrow, April 10th, following the sighting of the new crescent moon today, April 9th.
-
-The Colombo Grand Mosque officially announced that Eid-al-Fitr, also known as the Ramadan festival, will be observed tomorrow for 2024.
-
-Eid-al-Fitr, often referred to as the "festival of breaking the fast," signifies the conclusion of the holy month of Ramadan, during which Muslims around the world fast from dawn till sunset.
-
-◼️
-
-[Data](articles/c9ef0be0.json)
-
-[Extended Data](ext_articles/c9ef0be0.ext.json)
-
----
-
-### Jaffna resident who paid 7,000 Euros for forged Polish visa nabbed at BIA
-
-*2024-04-09 22:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jaffna-resident-who-paid-7-000-Euros-for-forged-Polish-visa-nabbed-at-BIA/108-280506) · `en`
-
-Colombo, April 9 (Daily Mirror) - A resident from Jaffna who had paid Euro 7,000 to obtain a forged Polish visa affixed to his Sri Lankan passport, was nabbed by the Immigration and Emigration Department officials at the Bandaranaike International Airport (BIA), whilst trying to leave the country.
-
-The passenger was about to board the SriLankan Airlines flight UL 217 bound for Doha, Qatar on Monday evening, when he was intercepted by the Immigration officials at the BIA departure counters.
-
-A senior Immigration official told the Daily Mirror that the passenger, when questioned, had said that he had paid Euro 7,000, which is more than Rs. 2.2 million, to a local agent to be transferred to another person in Germany to get his fake visa done.
-
-The passenger, who is a resident of Kokuvil in Jaffna had collected his passport with the forged Poland visa from the local agent.
-
-He was suspected to board a flight to Doha and then a connecting flight to Warsaw, Poland, the sources said.
-
-...
-
-[Data](articles/5f0ac61f.json)
-
-[Extended Data](ext_articles/5f0ac61f.ext.json)
-
----
-
-### Petrol bomb blasts to businessman's house
-
-*2024-04-09 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195487) · `si`
-
-A petrol bomb attack on a garment businessman's house in Navagamuwa led to the arrest of three suspects. The businessman, who owns multiple factories, had previously been targeted with a flower.
-
-🟩
-
-Navagamuwa Police say that a person has been attacked by a person on the Athurugiriya grounds of a millionaire garment businessman.
-
-The businessman had also kept a flower a few months ago in front of the businessman and three suspects were arrested by the Navagamuwa Police.
-
-A senior Navagamuwa Police said that he had demanded a number of businessmen and the repository of the businessman, Korathota.
-
-The billionaire businessman, which runs a large garment factory in Maharagama, has another garment factories.
-
-◼️
-
-[Data](articles/8c4c275f.json)
-
-[Extended Data](ext_articles/8c4c275f.ext.json)
-
----
-
-### The head was found;Tomorrow
-
-*2024-04-09 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180849) · `ta`
-
-The Colombo Great School will celebrate the fasting of the fast tomorrow (10) as the head of the holy month of St. Shawal is seen, marking the holy fast for Muslims in Sri Lanka.
-
-🟩
-
-The Colombo Great School has announced that it has decided to celebrate the fasting of the fast tomorrow (10) as the head of the holy month of St. Shawal is seen.
-
-Therefore, the Muslims of Sri Lanka will celebrate the holy fast on Wednesday (10) due to the headline of St. Shawal.
-
-◼️
-
-[Data](articles/7d7ee3b6.json)
-
-[Extended Data](ext_articles/7d7ee3b6.ext.json)
 
 ---

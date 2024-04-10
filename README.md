@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 09:03:27**
+As of **2024-04-10 09:18:14**
 
 ## Newspaper Stats
 
-*Scraped **18,207** Articles*
+*Scraped **18,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ islandlk | 1,001
 economynextcom | 1,015
 adalk | 1,532
 tamilmirrorlk | 2,130
-adaderanalk | 2,181
+adaderanalk | 2,182
 virakesarilk | 2,690
-dailymirrorlk | 2,781
-adaderanasinhalalk | 2,949
+dailymirrorlk | 2,782
+adaderanasinhalalk | 2,950
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,206 (100.0%) of 18,207 articles have been extended.
+18,207 (100.0%) of 18,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### යතුරුපැදි අනතුරින් 18 හැවිරිදි තරුණයා ජීවිතක්ෂයට
+
+*2024-04-10 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195496) · `si`
+
+මුල්ලියාවේලි -  නෙදුන්කේනි මාර්ගයේ සිදුවූ යතුරුපැදි අනතුරකින් තරුණයෙක් මියගොස් තිබේ.
+
+ඊයේ (09) එම අනතුරින් මියගොස් ඇත්තේ, මුල්ලියාවේලි ප්‍රදේශයේ පදිංචි 18 හැවිරිදි තරුණයෙකි.
+
+කනුක්කේනි ප්‍රදේශයේදී පුඳන්වයල් හන්දිය දෙසට ධාවනය වූ යතුරුපැදියක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි යතුරුපැදියක් මුහුණට මුහුණ ගැටීමෙන් එම අනතුර සිදුව ඇත.
+
+◼️
+
+[Data](articles/30c743ea.json)
+
+---
+
+### President Ranil’s message for Eid al-Fitr
+
+*2024-04-10 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98548/president-ranils-message-for-eid-al-fitr) · `en`
+
+President Ranil Wickremesinghe, in his message for Eid al-Fitr (also known as Ramadan), commended the devout Muslims for steadfastly adhering to their religious obligations, fasting piously and offering prayers for the well-being of both themselves and society at large.
+
+As the Sri Lankan Islamic community observes Ramadan this year, it coincides with a period of burgeoning progress and encouragement within the nation, he added.
+
+The Islamic adherents worldwide engage in fasting for a month, guided by the noble intention of fostering personal growth and benefiting others, the statement read further.
+
+The President also noted that the Holy Quran underscores the importance of adhering to such virtuous practices from antiquity, illuminating the path towards righteousness and spiritual fulfilment.
+
+...
+
+[Data](articles/12f54a67.json)
+
+---
+
+### Key factors identified for accidents on expressways
+
+*2024-04-10 08:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Key-factors-identified-for-accidents-on-expressways/108-280519) · `en`
+
+Colombo, April 10 (Daily Mirror) - Driver negligence, vehicle maintenance issues and accidents caused by third parties were identified as the three main reasons for accidents on expressways, the Advisory Committee for Expressway Safety Actions member Dr. Chamod Hettiarachchi said.
+
+Addressing a media gathering yesterday in Colombo, he said the above key statistics and factors contributing to accidents on expressways were revealed following a survey report.
+
+...
+
+[Data](articles/647245b5.json)
+
+---
 
 ### IGP calls for heightened security during festival season
 
@@ -47,6 +95,8 @@ Meanwhile, the IGP said that there are certain persons who are attempting to att
 ...
 
 [Data](articles/a7f0a981.json)
+
+[Extended Data](ext_articles/a7f0a981.ext.json)
 
 ---
 
@@ -258,9 +308,7 @@ Several spells of showers will occur in the Eastern Province and Hambantota Dist
 
 Misty conditions can be expected at some places in Western, Central and Sabaragamuwa provinces and in Galle and Matara districts in the morning.
 
-The general public is advised to take adequate precautions to minimize damages
-
-caused by temporary localized strong winds and lightning during thundershowers.
+The general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
 
 Meanwhile, on the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka from 05 to 15 April this year. The nearest areas of Sri Lanka over which the sun is overhead today (10) are Tambuttegama, Medirigiriya, Ihala Puliyankulama, Rajanganaya, Eppawala, Vakarai at around noon.
 
@@ -2147,83 +2195,5 @@ Appeal Court Judge D. N. Mr. Samarakoon announced this.
 [Data](articles/642699c3.json)
 
 [Extended Data](ext_articles/642699c3.ext.json)
-
----
-
-### Edu. Ministry issues notice on school holidays
-
-*2024-04-09 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98538/edu-ministry-issues-notice-on-school-holidays) · `en`
-
-The first phase of the first term for the academic year 2024 of all government and government-approved Sinhala and Tamil private schools will conclude on Wednesday (10), the Ministry of Education announced.
-
-Meanwhile, the second phase of the first school term will commence on April 24.
-
-The Education Ministry also mentioned that the second phase of the first school term of Muslim schools will commence on April 17.
-
-◼️
-
-[Data](articles/a670d188.json)
-
-[Extended Data](ext_articles/a670d188.ext.json)
-
----
-
-### A man arrested for attempting to smuggle beedi leaves in Kalpitiya
-
-*2024-04-09 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180836) · `ta`
-
-A man was arrested for smuggling 500 kg of beedi leaves in Kalpitiya, worth over Rs 30 lakh, by the Puttalam Regional Transport Police.
-
-🟩
-
-A person who has been illegally smuggled from the Kalpitiya area to the Nagavilu area has been arrested by the Puttalam Regional Transport Police.
-
-The Puttalam Regional Transport Police have stopped the suspicious lorry when they were on duty at the Palawi area on Tuesday morning.
-
-It has been found that the beedi leaves that attempted to illegally carry out without permit have been found in the coconut.
-
-About 17 text have been seized 500 kg of beedi leaves. A man from Nagavilu has been arrested on suspicion.
-
-The beedi leaves are said to be worth more than Rs 30 lakh.
-
-The Puttalam Regional Transport Police Officer said that the beedi leaves seized and the lorry used for the abduction were handed over to the Puttalam Police Station.
-
-◼️
-
-[Data](articles/db297c65.json)
-
-[Extended Data](ext_articles/db297c65.ext.json)
-
----
-
-### Panama Papers' starts
-
-*2024-04-09 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195476) · `si`
-
-The Panama Papers trial, involving 27 defendants accused of cash laundering, began. Accusations include wealthy individuals using offshore companies, including Mossack Fonseca. The defendants claim to be hackers and that the information was misrepresented. If found guilty, they face up to 12 years in prison. The leak revealed about 11 million documents, implicating politicians, officials, and celebrities.
-
-🟩
-
-The trial against 27 accusations against Panama Papers cash laundering racket has begun in a criminal court.
-
-The confidential financial documents exited in 2016 was revealed by many rich persons in the world with their wealth illegally in acrestry companies.
-
-The defendants in this case are people including Jurten Mossack and Ramon Fonseca Moraa.
-
-They had established a legal company named Mosac Fonseca.
-
-However, the company says they were an international hackers.
-
-The company also said that information has been misrepresented information.
-
-If it is guilty, MosesAck and Fonseca say that 12 years in prison.
-
-About 11 million documents contained in that revelation. It was accused of politicians, powerful government officials, bbur and sports stars.
-
-◼️
-
-[Data](articles/e1d7187a.json)
-
-[Extended Data](ext_articles/e1d7187a.ext.json)
 
 ---

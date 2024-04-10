@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 18:52:05**
+As of **2024-04-10 19:03:15**
 
 ## Newspaper Stats
 
-*Scraped **18,330** Articles*
+*Scraped **18,331** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,027
 adalk | 1,542
 tamilmirrorlk | 2,147
 adaderanalk | 2,194
-virakesarilk | 2,725
+virakesarilk | 2,726
 dailymirrorlk | 2,795
 adaderanasinhalalk | 2,969
 
@@ -26,65 +26,103 @@ adaderanasinhalalk | 2,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,323 (100.0%) of 18,330 articles have been extended.
+18,330 (100.0%) of 18,331 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### 15 ஆம் திகதி பொது விடுமுறை
+### ஏப்ரல் 15ஆம் திகதி பொது விடுமுறையாக அறிவிப்பு
+
+*2024-04-10 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180935) · `ta`
+
+ஏப்ரல் 15 ஆம் திகதி பொது விடுமுறையாக பொது நிர்வாக அமைச்சினால் அறிவிக்கப்பட்டுள்ளது.
+
+தேசிய எண்ணெய் அபிஷேகம் திங்கட்கிழமை (15) நடைபெறவுள்ள நிலையில் இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக பொதுநிர்வாக, உள்நாட்டலுவல்கள், மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சின் செயலாளர் பிரதீப் யசரத்ன தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a1210b3e.json)
+
+---
+
+### Public holidays on the 15th
 
 *2024-04-10 18:35:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-ஆம்-திகதி-பொது-விடுமுறை/175-335826) · `ta`
 
-தமிழ் சிங்களப் புத்தாண்டை முன்னிட்டு எதிர்வரும் 15 ஆம் திகதி திங்கட்கிழமையை பொது விடுமுறை தினமாக பொது நிர்வாக அமைச்சு அறிவித்துள்ளது. R
+The Ministry of Public Administration has declared Monday, 15th, a public holiday for the Tamil Sinhala New Year.
+
+🟩
+
+The Ministry of Public Administration has announced Monday 15th as a public holiday on the 15th of the Tamil Sinhala New Year.. Remble
 
 ◼️
 
 [Data](articles/0caabcbb.json)
 
+[Extended Data](ext_articles/0caabcbb.ext.json)
+
 ---
 
-### ஏப்ரல் 15 பொது விடுமுறை
+### April 15
 
 *2024-04-10 18:34:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-15-பொது-விடுமுறை/175-335825) · `ta`
 
-அனைத்து அரச ஊழியர்களுக்கும் ஏப்ரல் 15 ஆம் திகதி பொது விடுமுறையாக உள்துறை அமைச்சு இன்று அறிவித்துள்ளதாக அமைச்சின் செயலாளர் பிரதீப் யசரத்ன தெரிவித்துள்ளார்.
+The Ministry of Home Affairs declared April 15 a public holiday for public servants, due to the national oil supply on that day. This decision was also influenced by public demands for a holiday ahead of Sinhala and Tamil New Year.
 
-தேசிய எண்ணெய் சாத்துதல் திங்கட்கிழமை (15) நடைபெறவுள்ள நிலையில் இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக டெய்லி மிரருக்கு அவர் தெரிவித்தார்.
+🟩
 
-இதேவேளை, எதிர்வரும் சிங்கள மற்றும் தமிழ் புத்தாண்டை முன்னிட்டு ஏப்ரல் 15 ஆம் திகதியை பொது விடுமுறை தினமாக அறிவிக்குமாறு அரச அதிகாரிகள் மற்றும் பொதுமக்கள் பல கோரிக்கைகளை முன்வைத்துள்ளதாக உள்நாட்டலுவல்கள் இராஜாங்க அமைச்சர் அசோக பிரியந்த தெரிவித்துள்ளார்
+Secretary to the Ministry of Home Affairs Pradeep Yasaratne said that the Ministry of Home Affairs today announced a public holiday for all public servants.
+
+He told the Daily Mirror that the decision was taken as the national oil supply was scheduled to take place on Monday (15).
+
+Meanwhile, Home Affairs Minister Asoka Priyantha said that the public has made several demands to declare the public holiday on April 15 ahead of the upcoming Sinhala and Tamil New Year.
 
 ◼️
 
 [Data](articles/52dbc25a.json)
 
+[Extended Data](ext_articles/52dbc25a.ext.json)
+
 ---
 
-### யாழில் வன்முறை கும்பலின் அட்டகாசம்
+### Violence in Jaffna
 
 *2024-04-10 18:31:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-வன்முறை-கும்பலின்-அட்டகாசம்/175-335824) · `ta`
 
-யாழ்ப்பாணம் - திருநெல்வேலி, ஆடியபாதம் வீதியில் உள்ள வீடொன்றினுள் புகுந்த வன்முறை கும்பலொன்றினால் வாகனங்கள் சேதப்படுத்தப்பட்டுள்ளன.
+A violent gang damaged vehicles in Jaffna's Audiyapadam road, Tirunelveli.
+
+🟩
+
+Vehicles have been damaged by a violent gang that entered a house on the Audiyapadam road in Jaffna - Tirunelveli.
 
 ◼️
 
 [Data](articles/6bb95eb6.json)
 
+[Extended Data](ext_articles/6bb95eb6.ext.json)
+
 ---
 
-### මාලිමාවෙන් සජිත් ට දැනුම්දීමක්
+### Sajith's notification from the compass
 
 *2024-04-10 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195519) · `si`
 
-අනුර දිසානායක මහතා සහ සජිත් ප්‍රේමදාස මහතා අතර පැවැත්වීමට නියමිත විවාදයක් පිළිබඳ වැරදි සහගත තොරතුරු සමාජගත කිරීමේ උත්සාහයක් ඇති බව ජාතික ජන බලවේගයේ ජාතික විධායක සභික වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+Sajith's notification discusses a proposed debate between Anura Dissanayake and Sajith Premadasa, focusing on the rice project. Dissanayake initiated the conversation in 2013, but Premadasa has not accepted. The National Executive Committee suggests holding a debate before the 2024 presidential election to clarify the country's direction.
 
-බැවින් ඒ පිළිබඳ සත්‍ය තත්ත්වය පැහැදිලි කළ යුතු බවද ඔහු පෙන්වා දෙයි.
+🟩
 
-"දෙපාර්ශ්වය අතර විවාදයක් පිළිබඳ පළමු කතාබහ නිර්මාණය වන්නේ අප පක්ෂයේ නායක අනුර කුමාර දිසානායක සහෝදරයා විසින් 2023.01.09 දින රූපවාහිනී වැඩසටහනකදී රටේ සංවර්ධන මාවත පිළිබඳව සජිත් ප්‍රේමදාස මහතා සමග විවාදයකට සූදානම් බවට කරන ලද ප්‍රකාශය සමගය. ඒ, සජිත් ප්‍රේමදාස මහතා විසින් විවිධ මාධ්‍යයන්හි ජාතික ජන බලවේගයට එරෙහිව කරුණු දක්වමින් සිටි තත්ත්වය පිළිබඳව මාධ්‍යවේදීන් විසින් මතු කරන ලද අදහස්වලට ප්‍රතිචාර ලෙසය."
+The National Executive Committee of the National Executive Committee of the National Executive Committee of the National Executive Committee of the National Executive Executive is an attempt to reintegrate in the debate between Anura Dissanayake and Sajith Premadasa.
+
+He also pointed out that the truth about it should be explained.
+
+"The first conversation of a debate between the two parties is prepared by the leader of our party leader Anura Kumara Dissanayake on 09.01.2013 with Sajith Premadasa on the rice project.. That is, Sajith Premadasa has responded to the thoughts raised by journalists regarding the situation in various media. "
 
 ...
 
 [Data](articles/623a909c.json)
+
+[Extended Data](ext_articles/623a909c.ext.json)
 
 ---
 
@@ -102,6 +140,8 @@ Meanwhile, Home Affairs State Minister Ashoka Priyantha earlier said several req
 
 [Data](articles/209bffa3.json)
 
+[Extended Data](ext_articles/209bffa3.ext.json)
+
 ---
 
 ### 15 April declared a public holiday
@@ -114,21 +154,29 @@ The government has declared 15 April (Monday) as a public holiday, the Ministry 
 
 [Data](articles/c6f788a8.json)
 
+[Extended Data](ext_articles/c6f788a8.ext.json)
+
 ---
 
-### අප්‍රේල් 15 නිවාඩු දිනයක්
+### April 15 A Holiday
 
 *2024-04-10 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195518) · `si`
 
-අප්‍රේල් 15 වනදා රජයේ ප්‍රසිද්ධ නිවාඩු දිනයක් බවට පත් කර ඇති බව දැනුම්දෙයි.
+April 15, 2024, is declared a public holiday, marking the National Balawele, a New Year's ritual.
 
-ඒ් බව රාජ්‍ය පරිපාලන ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශ ලේකම් ප්‍රදීප් යසරත්න මහතා දැනුම්දී තිබේ.
+🟩
 
-අලුත් අවුරුදු චාරිත්‍රයක් වන ජාතික හිසතෙල් ගෑමේ චාරිත්‍රය 2024 අප්‍රේල් මස 15 වන දිනය යෙදී ඇත.
+It is informed that April 15 has been made a public holiday.
+
+He has informed the Ministry of Public Administration, Provincial Councils, Provincial Councils and Local Government Pradeep Yasaratne.
+
+The ritual of the National Balawele, a New Year's Ritual, is on April 15, 2024.
 
 ◼️
 
 [Data](articles/6ac675dd.json)
+
+[Extended Data](ext_articles/6ac675dd.ext.json)
 
 ---
 
@@ -2343,31 +2391,5 @@ President Wickremesinghe is expected to contest in a common alliance with the ba
 [Data](articles/50da89c0.json)
 
 [Extended Data](ext_articles/50da89c0.ext.json)
-
----
-
-### Drug dealer arrested in Trincomalee
-
-*2024-04-10 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180867) · `ta`
-
-A drug dealer was arrested in Trincomalee with 300 grams of heroin and 84 pages of documents. He was caught during a police raid with the Special Police Department.
-
-🟩
-
-A person has been arrested with heroin drugs in the Sumetharagama area of the Trincomalee headquarters police division, police said.
-
-He was arrested during a raid by the headquarters police in collaboration with the Special Police Department.
-
-A 36 -year -old man has seized 3 g 300 grams of heroin for sale.
-
-In addition, police said the heroin had been seized with 84 pages of pages.
-
-In addition, the Trincomalee headquarters headquarters headquarters said that the arrested person was a drug dealer and four cases were pending in court.
-
-◼️
-
-[Data](articles/87dc83c8.json)
-
-[Extended Data](ext_articles/87dc83c8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 08:52:27**
+As of **2024-04-10 09:03:27**
 
 ## Newspaper Stats
 
-*Scraped **18,206** Articles*
+*Scraped **18,207** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,60 @@ adalk | 1,532
 tamilmirrorlk | 2,130
 adaderanalk | 2,181
 virakesarilk | 2,690
-dailymirrorlk | 2,780
+dailymirrorlk | 2,781
 adaderanasinhalalk | 2,949
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,204 (100.0%) of 18,206 articles have been extended.
+18,206 (100.0%) of 18,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### පුද්ගලයෙකුව ඝාතනය කර වැවට දාලා
+### IGP calls for heightened security during festival season
+
+*2024-04-10 08:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IGP-calls-for-heightened-security-during-festival-season/108-280532) · `en`
+
+Colombo, April 10 (Daily Mirror)- Inspector General of Police Deshabandu Tennakoon emphasized the need for heightened security measures in light of the upcoming Ramadan festival and Sinhala and Hindu New Year celebrations.
+
+Speaking at an event held at the Minister's Security Division, the IGP highlighted the global threat of extremist terrorist attacks stressing the importance of focusing on VIP security and national security.
+
+"Extremist and terrorist attacks occur worldwide often unexpectedly. This underscores the necessity of vigilance, the IGP said.
+
+Meanwhile, the IGP said that there are certain persons who are attempting to attack on political, religious and cultural aspects to incite public unrest.
+
+...
+
+[Data](articles/a7f0a981.json)
+
+---
+
+### A person killed and put on the tut
 
 *2024-04-10 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195495) · `si`
 
-හිඳෝගම පොලිස් වසමේ දිවුල්වැව ප්‍රදේශයේ වැවෙහි නාඳුනන මෘත ශරීරයක් ඇති බවට හිඳෝගම පොලීසියට ලද තොරතුරක් මත විමර්ශන අරඹා තිබේ.
+A 45-year-old man from Hindagama was found dead, assaulted with a sharp object. Investigations led to the arrest of his son, a 24-year-old, and the 39-year-old's wife, due to a family dispute.
 
-ඒ අනුව මෘත ශරීරය සම්බන්ධයෙන් සිදුකළ විමර්ශනයේ දී මියගිය පුද්ගලයා 45 හැවිරිදි දංගහකඩවල, හිඳෝගම ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු බවට අනාවරණය වී ඇත.
+🟩
 
-මෘත ශරීරය සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණය සිදුකිරීමෙන් අනතුරුව තියුණු ආයුධයකින් පහරදී මෙම පුද්ගලයා ඝාතනය කර ඇති බවට අනාවරණය වී තිබේ.
+Investigations have commenced on information received on information received by the Hindulwewa police division of the Divulwewa police year.
 
-වැඩිදුරටත් සිදුකළ විමර්ශනයේ දී ඝාතනය සම්බන්ධයෙන් අවුරුදු 24ක් වූ මියගිය පුද්ගලයාගේ පුතා සහ ඊට අනුබල දුන් අවුරුදු 39ක් වූ මියගිය පුද්ගලයාගේ බිරිඳ ඊයේ (09) අත්අඩංගුවට ගෙන ඇත.
+Accordingly, the deceased has been identified as a 45 year old resident of Hindagama, Dadgokana, Dadgokana.
 
-පවුල් ආරවුලක් දුරදිග යාම හේතුවෙන් නිවසේ දී මෙම ඝාතනය සිදුකර ඇති බවට අනාවරණය වී ඇති අතර, ඝාතනයෙන් පසු මෘත ශරීරය රැගෙන යෑමට භාවිත කළ ත්‍රිරෝද රථයක් ද  පොලිස් අත්අඩංගුවට ගෙන තිබේ.
+It has been revealed that the person had been assaulted by a sharp object after the post mortem examination over the body.
+
+Further investigation further investigated by the son of the 24-year-old man and the 39-year-old man, the wife of the 39-year-old man, was arrested yesterday (09).
+
+Police have also been arrested by the murder at home due to a family dispute, and a three-wheeler used to carry the body after the assassination.
 
 ◼️
 
 [Data](articles/9ba3b48a.json)
+
+[Extended Data](ext_articles/9ba3b48a.ext.json)
 
 ---
 
@@ -1390,15 +1414,21 @@ The Colombo Lotus Tower will mark Eid on Thursday (11) by illuminating the sky w
 
 ---
 
-### වනිඳු වෙනුවට විජයකාන්ත්ට අවස්ථාව
+### Vijayakan replaces Fanuwatta
 
 *2024-04-09 20:00:03* · [`adalk`](https://www.ada.lk/sports/වනිඳු-වෙනුවට-විජයකාන්ත්ට-අවස්ථාව/9-409040) · `si`
 
-ඉන්දීය ප්‍රීමියර් ලීග තරඟාවලියේ ඉතිරි තරඟ සඳහා වනිඳු හසරංග වෙනුවට සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායම ශ්‍රී ලංකා ක්‍රීඩක විජයකාන්ත් වියස්කාන්ත් සමඟ ගිවිසුම්ගතව තිබේ. වනිඳුගේ පාදයේ ආබාධය හේතුවෙන් ඔහුට මෙවර තරගාවලිය අහිමි වී තිබේ.
+Sunrisers Hyderabad contracts Sri Lankan athlete Vijayakan, replacing Fanuwatta, who lost the IPL due to disorder.
+
+🟩
+
+Sunrisers Hyderabad has been contracted with Sri Lankan athlete Vijayakan, Sri Lanka Wijayakaan, instead of the rest of the Indian Premier League Tournament. He has lost the tournament this year due to the disorder of Fanuluwa.
 
 ◼️
 
 [Data](articles/dadba7ce.json)
+
+[Extended Data](ext_articles/dadba7ce.ext.json)
 
 ---
 
@@ -2195,31 +2225,5 @@ About 11 million documents contained in that revelation. It was accused of polit
 [Data](articles/e1d7187a.json)
 
 [Extended Data](ext_articles/e1d7187a.ext.json)
-
----
-
-### Sri Lanka stocks close up, consumer durables and apparel push turnover
-
-*2024-04-09 16:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-consumer-durables-and-apparel-push-turnover-158054/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader All Share Index closed up 0.36 percent, or 42.49 points, at 11,962; while the S&P SL20 Index closed up 0.09 percent, or 3.12 points, at 3,546.
-
-Turnover was at 2.5 billion. Banks (Rs570mn) and Consumer Durables and Apparel (Rs469mn) brought in the most value.
-
-Ambeon Capital Plc saw the most active trade volume contributing 398 million rupees to the day’s turnover; the share closed up at 9.50.
-
-Access Engineering Plc, which announced it had secured a contract to complete the substructure of a new terminal at the Bandaranaike International Airport, halted by a Japanese contractor after the island defaulted on its foreign debt in 2022, closed up at 23.80.
-
-Sri Lanka’s Access to complete substructure of halted airport terminal
-
-Other major contributors to the Index included Ceylon Beverage Holdings Plc, up at 1,550.00, Vallibel One Plc, up at 54.10, and Royal Ceramics Lanka Plc, up at 32.30.
-
-...
-
-[Data](articles/e94bcbc6.json)
-
-[Extended Data](ext_articles/e94bcbc6.ext.json)
 
 ---

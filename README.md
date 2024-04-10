@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 18:21:35**
+As of **2024-04-10 18:33:56**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 2,967
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,320 (100.0%) of 18,323 articles have been extended.
+18,323 (100.0%) of 18,323 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### லங்கா பிறீமியர் லீக்கில் வெளிநாட்டு வீரர்களைப் பதிவு செய்வது ஆரம்பம்
+### The beginning of registering foreign players in the Lanka Premier League
 
 *2024-04-10 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180934) · `ta`
 
-லங்கா பிறீமியர் லீக்கின் ஐந்தாவது அத்தியாயத்தை முன்னிட்டு வெளிநாட்டு வீரர்களைப் பதிவுசெய்யும் பணிகள் ஆரம்பிக்கப்பட்டுள்ளதாக ஸ்ரீலங்கா கிரிக்கெட் நிறுவனம் அறிவித்துள்ளது.
+Sri Lanka Cricket has started registering foreign players for the 5th Lanka Premier League, with categories for national and non-national players. Nationals include those with Test, ODI, or T20 experience, while non-nationals are first-grade or professional R20 players. Former Sri Lankan players in international T20s can also register. The tournament runs from July 1 to 21.
 
-இந்த வருட லங்கா பிறீமியர் லீக் கிரிக்கெட் போட்டியில் விளையாட விரும்பும் வெளிநாட்டு வீரர்கள் https://srilankacricket.lk/lpl-playerregistration-portal/ என்ற இணை முகப்பில் தங்களைப் பதிவுசெய்துகொள்ளலாம். இதில் இரண்டு பிரிவுகள் இருக்கிறது. ஒன்று தேசிய வீரர்களுக்கான பதிவு. மற்றையது தேசிய வீரர்கள் அல்லாதவர்களுக்கான பதிவு.
+🟩
 
-டெஸ்ட் கிரிக்கெட், சர்வதேச ஒருநாள் அல்லது சர்வதேச ரி20 கிரிக்கெட் ஆகியவற்றில் குறைந்த பட்சம் ஒரு போட்டியில் விளையாடியவர்கள் தேசிய வீரர்களாக கருதப்படுவர்.
+Sri Lanka Cricket has announced that it has begun registration of foreign players to mark the fifth chapter of the Lanka Premier League.
 
-தேசிய அணியில் இடம்பெறாமல் முதலாம் தர கிரிக்கெட் அல்லது தொழில்முறை ரி20 கிரிக்கெட் ஆகியவற்றில் விளையாடியவர்கள் தேசிய வீரர்கள் அல்லாதவர்களாக கருதப்படுவர்.
+Foreign players who wish to play in this year's Lanka Premier League Cricket can be recorded on the parallel facade https://srilankacricket.lk/lpl-playerregistration-portal/. There are two categories of which. One is the registration for national players. The other is a record for non -national players.
+
+At least one match in Test cricket, international ODI or international T20 cricket will be considered national players.
+
+Those who play in the first grade cricket or professional R20 cricket are considered non -national players.
+
+Meanwhile, there is an internet home to register for former Sri Lankan players playing in the International Cricket Council, playing in the vocational T20 matches, which have a full -fledged or parallel member.
 
 ...
 
 [Data](articles/f6c35a91.json)
+
+[Extended Data](ext_articles/f6c35a91.ext.json)
 
 ---
 
@@ -63,6 +71,8 @@ Mathews, who enjoyed a career-high third rank in August 2014, has increased two 
 ...
 
 [Data](articles/a4ceede9.json)
+
+[Extended Data](ext_articles/a4ceede9.ext.json)
 
 ---
 
@@ -152,21 +162,27 @@ Prior cargo declaration begins from April, and piloting of pre-arrival processin
 
 ---
 
-### கல்வி, காணி, வீட்டு உரிமைகளை வழங்கி மக்களையும் பொருளாதாரத்தில் பங்குதார்களாக்குவோம் - ஜனாதிபதி
+### Education, land and housing rights will be made by the people in the economy - the President
 
 *2024-04-10 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180925) · `ta`
 
-கல்வி, காணி, வீடு, வியாபார உரிமைகளை உறுதிப்படுத்தி.மக்களை பொருளாதாரத்தில் வலுவான பங்குதாரர்களாக மாற்றிக்கொள்ள நடவடிக்கை எடுப்பதாக ஜனாதிபதி ரணில் விக்ரமசிங்க உறுதியளித்தார்.
+President Ranil Wickremesinghe promises to strengthen education, land, and housing rights, aiming to make citizens stronger economy partners. He highlights the transformation of people into economic partners as key to a resilient economy. Wickremesinghe has handed over 294 houses in Kazimawatte, emphasizing the importance of protecting these homes. He also mentions the government's efforts to create a breathable environment compared to 2022, despite tax policies increasing life burdens. The President credits the resilience of the people for the government's financial strength, leading to a 10,000 rupee salary increase for public servants. He plans to grant permanent land and home rights, aiming to contribute to the economy by ensuring education, land, home, and business rights for the people.
 
-பொருளாதாரத்தின் பங்குதாரர்களாக மக்களை மாற்றுவதன் மூலம், சரிவடையாத வலுவான பொருளாதாரத்தைக் கட்டியெழுப்ப முடியுமெனவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+🟩
 
-கொழும்பு முகத்துவாரத்தில் நேற்று (09) நடைபெற்ற ரன்திய உயன வீட்டுத் தொகுதியை பயனாளிகளுக்குக் கையளிக்கும் நிகழ்விலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார்.
+President Ranil Wickremesinghe has promised to take steps to make them stronger shareholders in the economy, ensuring education, land, home and business rights.
 
-இதன்போது 2010 ஆம் ஆண்டில் கஜீமாவத்தையில் தீக்கிரையான வீடுகளுக்கு பதிலாக 294 வீடுகள் அடங்கிய இந்த வீட்டுத்தொகுதியை ஜனாதிபதி, பாதிக்கப்பட்ட மக்களுக்கு கையளித்தார்.
+The President also pointed out that the transformation of the people into partners of the economy can build a strong economy that does not fall.
+
+President Ranil Wickremesinghe made this statement at a function handed over to the beneficiaries at the Colombo Association yesterday (09).
+
+In 2010, the President handed over the housing of 294 houses in replacement of the houses that were on fire in Kazimawatte.
 
 ...
 
 [Data](articles/44b1b0cd.json)
+
+[Extended Data](ext_articles/44b1b0cd.ext.json)
 
 ---
 

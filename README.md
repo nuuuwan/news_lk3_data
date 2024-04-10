@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 07:53:30**
+As of **2024-04-10 08:05:59**
 
 ## Newspaper Stats
 
-*Scraped **18,201** Articles*
+*Scraped **18,202** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,58 +19,90 @@ adalk | 1,531
 tamilmirrorlk | 2,129
 adaderanalk | 2,181
 virakesarilk | 2,690
-dailymirrorlk | 2,779
+dailymirrorlk | 2,780
 adaderanasinhalalk | 2,947
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,199 (100.0%) of 18,201 articles have been extended.
+18,201 (100.0%) of 18,202 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### රාමසාන් අදයි
+### President restricts foreign travel for Govt. members as party gears up for presidential polls
+
+*2024-04-10 07:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/President-restricts-foreign-travel-for-Govt-members-as-party-gears-up-for-presidential-polls/155-280518) · `en`
+
+Colombo, April 10 (Daily Mirror) - Ahead of the presidential election, President Ranil Wickremesinghe has instructed the government members to restrict foreign travel as much as possible because their presence is required to undertake political work, an informed source said.
+
+The United National Party (UNP) led by the President is planning to ramp up political work in view of the election after the May Day rally.
+
+The party is planning to conduct the rally on a grand scale this year as a springboard for the launch of political work directly targeting the presidential elections. At the moment, the party is in the process of conducting meetings across the country with professional groups.
+
+The President is planning to participate in the election representing a broad alliance where numerous parties and groups are slated to join.
+
+Already, a large number of SLPP MPs have thrown their weight behind him while the other faction of the party insists on fielding its own candidate.
+
+...
+
+[Data](articles/4621c70f.json)
+
+---
+
+### Ramadan is today
 
 *2024-04-10 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195493) · `si`
 
-නව සඳ දිස්වීම හේතුවෙන් අද (10) දිනයේ රාමසාන් උත්සවය සමරන බව කොළඹ මහ පල්ලිය නිවේදනය කර තිබේ.
+Ramadan Day celebrated today at Colombo Maha Church. Islamists fast for a month, focusing on good deeds. President Wickremesinghe highlights global Islamic fasting for good intentions. Over 7,000, including police and military, participate in Ramazan festival.
 
-ඉස්ලාම් භක්තිකයන් මාසයක් පුරා උපවාසයේ යෙදුණු අතර එම කාලය පරිත්‍යාග කිරීමේ මාසය ලෙස ද හඳුන්වයි.
+🟩
 
-සමාව දීමට,ඉවසීම ප්‍රගුණ කිරීමට හා වෙනත් කාරුණික ක්‍රියාකාරකම්වලට වෙන් වූ රාමසාන් මාසය අවසාන දිනය ලෙස රාමසාන් දිනය සැලකේ.
+The Colombo Maha Church has announced that the Ramazan festival will celebrate the Ramadan Day today (10) due to the new moon.
 
-මේ අතර රාමසාන් දින පණිඩුයක් නිකුත් කරමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසන්නේ ලොව වෙසෙන ඉස්ලාම් භක්තිකයන් මාසයක් පුරා උපවාස කරනුයේ තමන් වෙත ද, අනුන් වෙත ද යහපත උදාකර දීමේ අරමුණ ඇතිව බවය.
+The Islamists fasted for a month and the month of the donation.
 
-මෙවර ශ්‍රී ලංකාවාසී ඉස්ලාම් භක්තිකයන් රාමසාන් සමරනුයේ පොදුවේ අපේ රට වඩාත් යහපත් මට්ටමක් කරා එළැඹෙමින් පවතින අවධියක බව ජනාධිපතිනරයා පෙන්වා දෙයි.
+Ramadan Day is considered to be the last day of Ramadan month, which is forgiven, and other kind activities.
 
-මේ අතර රාමසාන් උත්සවය නිමිත්තෙන් ඉස්ලාම් දේවස්ථානවල විශේෂ ආරක්ෂක වැඩපිළිවලක් ක්‍රියාත්මක කර තිබේ.
+Meanwhile, President Ranil Wickremesinghe says that Islamicians in the world is fasting for a month and the intention of achieving good to others.
 
-පොලීසිය, විශේෂ කාර්ය බළකාය සහ ත්‍රිවිධ හමුදා නිලධාරීන් ඇතුළු 7,000කට වැඩි පිරිසක් මේ සඳහා යොදවා ඇති බව පොලීසිය පැවසුවේය.
+The President points out that Ramadan celebrates Ramadan in general where our country is a better level of Sri Lanka.
+
+Meanwhile, Islam templates have been implemented in the Ramazan festival.
+
+Police said that more than 7,000 people, including the police, STF and the Armed Forces.
 
 ◼️
 
 [Data](articles/21b77d05.json)
 
+[Extended Data](ext_articles/21b77d05.ext.json)
+
 ---
 
-### ගිනිකෙළි භාවිතය පරිස්සමින්
+### Care of fireworks
 
 *2024-04-10 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195492) · `si`
 
-එළැඹෙන සිංහල දෙමළ අලුත් අවුරුදු උත්සව සමයේ මාර්ග හා ගිනිකෙළි අනතුරු අවම කර ගැනීමට සැලකිලිමත්වන ලෙස රජය ජනතාවගෙන් ඉල්ලා සිටී.
+The government asks for reduced fireworks use during Sinhala and Tamil New Year festivals, citing 17% of accidents as firework-related. Surgeon Sajith Ranatunga emphasizes the need for caution, especially outside highways, to prevent accidents.
 
-උත්සව සමයේ හදිසි අනතුරුවලින් 36%ක් ගිනිකෙළි භාවිතය නිසා සිදුවන අතර 17%ක් අක්ෂි ආබාධ වාර්තා වන්නේ අපරික්ෂාකාරී රතිඤ්ඤා සහ ගිනිකෙළි භාවිතය නිසා බවට සමීක්ෂණ වාර්තාවලින් අනාවරණය වී තිබේ.
+🟩
 
-එම අවස්ථාවට එක්වෙමින් කොළඹ ජාතික රෝහලේ  විශේෂඥ ශල්‍ය වෛද්‍ය සජිත් රණතුංග මහතා පැවසුවේ, ත්‍රීරෝද රථ අනතුරු හා යතුරුපැදි අනතුරුවලින් බරපතළ තුවාල ලැබූ පුද්ගලයින් 100%ක් මෙතෙක් සුවය ලබා නොමැති බවය.
+The government requests the public to minimize the cases of the Sinhala and Tamil New Year festival of the Sinhala New Year festival.
 
-මෙරට සිදුවන මාරක අනතුරුවලින් වැඩි ප්‍රමාණයක් අධිවේගී මාර්ගවලින් පිටත සිදුවීම හේතුවෙන් රියදුරන් අවධානයෙන් කටයුතු කළ යුතු බව ද විශේෂඥ ශල්‍ය වෛද්‍ය සජිත් රණතුංග මහතා පැවසුවේය.
+Survey reports reveal that 17% of the festive season is due to the use of fireworks and 17% of the survey reports have revealed that the use of essential crackers and fireworks.
+
+Specialist Surgeo Surgeon Surgeons Sajith Sajith Ranatunga said that the three-wheeler accidents and motorcycle accidents were not recovered from three-wheeler accidents and motorcycle accidents.
+
+Specialist Surgeons Sajith Ranatunga said that more of the fatal accidents in the country should take care of the drivers outside the highways.
 
 ◼️
 
 [Data](articles/5eb2c9dd.json)
+
+[Extended Data](ext_articles/5eb2c9dd.ext.json)
 
 ---
 
@@ -2193,27 +2225,5 @@ The second phase of the first school term for Muslim schools will start on April
 [Data](articles/3ab85d33.json)
 
 [Extended Data](ext_articles/3ab85d33.ext.json)
-
----
-
-### School holidays notify
-
-*2024-04-09 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195475) · `si`
-
-The Ministry of Education announced the end of the first phase of school holidays tomorrow, with the second phase starting on 24.04.24, affecting Sinhala and Tamil schools in government and government-approved private schools.
-
-🟩
-
-The Ministry of Education issued a statement that the first phase of the first phase of the first phase of the first phase of the first school will be completed tomorrow (10).
-
-Accordingly, the second stage of the first stage of the first term will commence on 24.04.24.
-
-This applies to Sinhala and Tamil schools in government schools, government approved private schools.
-
-◼️
-
-[Data](articles/42becde1.json)
-
-[Extended Data](ext_articles/42becde1.ext.json)
 
 ---

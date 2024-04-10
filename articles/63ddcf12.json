@@ -1,0 +1,16 @@
+{
+  "newspaper_id": "dailymirrorlk",
+  "url": "https://www.dailymirror.lk/breaking-news/SLCERT-engineers-reports-to-be-sent-to-Education-Minister-today/108-280550",
+  "time_ut": 1712724540.0,
+  "original_lang": "en",
+  "original_title": "SLCERT engineers\u2019 reports to be sent to Education Minister today",
+  "original_body_lines": [
+    "Colombo, April 10 (Daily Mirror) - Sri Lanka Computer Emergency Readiness Team (SLCERT) Senior Information Security Engineer Charuka Damunupola today revealed that a report will be sent to the Education Minister regarding the recent hacking of the Education Ministry's official website.",
+    "He said the initial investigations launched by the SLCERT indicate that the hack was carried out by a local individual.",
+    "The detailed findings of the hack will be forwarded to the Minister, who will then pass a copy to the Criminal Investigation Department (CID) for further investigations to apprehend the culprit.",
+    "It has been noted that necessary security patches and updates were not applied to the website, and the Ministry had failed to conduct a Vulnerability Assessment (VA), despite being advised to do so annually by SLCERT.",
+    "SLCERT has recommended that the Ministry should launch a new website with updated security measures instead of reinstating the compromised one. However, the current website will be restored with basic features either today or tomorrow.",
+    "The website was hacked on April 4. The hacker, purportedly identifying as \"Anonymous EEE,\" managed to gain unauthorized access to the site, leaving behind a message warning of security vulnerabilities.",
+    "The message left by the hacker read, \"My name is Anonymous EEE and I am currently studying AI. Sorry for unauthorized access to your website, but your website has some security flaws. As a Sri Lankan citizen, I am reporting this for the safety of my country. Fix it, thanks.\""
+  ]
+}

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 12:18:25**
+As of **2024-04-10 12:33:39**
 
 ## Newspaper Stats
 
-*Scraped **18,255** Articles*
+*Scraped **18,257** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 1,001
 islandlk | 1,001
-economynextcom | 1,019
+economynextcom | 1,021
 adalk | 1,535
 tamilmirrorlk | 2,141
 adaderanalk | 2,185
@@ -26,47 +26,83 @@ adaderanasinhalalk | 2,955
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,253 (100.0%) of 18,255 articles have been extended.
+18,255 (100.0%) of 18,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### හිටපු ජනපති මෛත්‍රී විදෙස්ගත වීම ගැන සැකයක්
+### Former President Maithree abroad
 
 *2024-04-10 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195501) · `si`
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා විදෙස් ගතවීම සම්බන්ධයෙන් සැකයක් පවතින බව සමගි ජන බලවේගය පක්ෂයේ කාවින්ද ජයවර්ධන මන්ත්‍රීවරයා පවසයි.
+MP Kavinda Jayawardena suspects former President Maithripala Sirisena is abroad, amid controversy over a statement on the Passover attack. Sirisena is accused of misleading the public and covering up the truth.
 
-මෛත්‍රීපාල සිරිසේන මහතා විසින් පාස්කු ප්‍රහාරය සම්බන්ධයෙන් ආන්දෝලනාත්මක ප්‍රකාශයක් සිදුකර ඇති තත්ත්වයක් තුළ ඔහු මෙලෙස විදෙස් ගත වීම ගැටලුවක් බව මන්ත්‍රීවරයා පෙන්වාදෙයි.
+🟩
 
-එම ප්‍රකාශය සම්බන්ධයෙන් විමර්ශනයක් සිදුකරන ලෙස ඉල්ලා කාවින්ද ජයවර්ධන මන්ත්‍රීවරයා විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට සිදුකළ පැමිණිල්ලට අදාළව ප්‍රකාශයක් ලබාදීම සඳහා අද (10) එම දෙපාර්තමේන්තුව වෙත පැමිණි අවස්ථාවේ මේ බව කියා සිටියේය.
+MP Kavinda Jayawardena says that there is suspicion that former President Maithripala Sirisena is abroad.
 
-"මෛත්‍රීපාල සිරිසේන හිටපු ජනාධිපතිවරයා, එක පැත්තකින් පාස්කු මහ මොළකරු දැනගෙන එය වසන් කිරීමේ වරදට හසුවෙනවා. අනෙක් පැත්තෙන් ඔහු බොරුවක් නම් කියන්නේ, මේ අහිංසක මිනිසුන්ගේ මරණයට වගකිව යුතු පුද්ගලයාව වසන් කරන්න එහෙම නැත්නම්, පරීක්ෂණ නොමඟ යවන්න කටයුතු කරනවා ද කියන සැකය අපිට ඇති වෙනවා. කිසිසේත්ම එතුමා ඒ කළ ප්‍රකාශයෙන් පැනලා යන්න බෑ. හැබැයි අපි දකිනවා එතුමා සැරින් සැරේ ඒ ප්‍රකාශ වෙනස් කරනවා.
+Maithripala Sirisena has been involved in a controversial statement regarding the Passover attack.
 
-...
+The demand was to investigate the statement to the CID today (10), he said this when he came to the Department today.
+
+"Former Maithripala Sirisena Sirisena, who is in one side, caught the mistake of knowing the Passover mastery on one side. On the other hand, he is a lie, if we are misled, whether it is possible to cover up the person responsible for the death of these innocent people,. He cannot escape from the statement. But we see him change those statements.
+
+Maithripala Sirisena, the country. Trying to mediate, he has to imagine. The fear of the martial arts have been so many in this country and has gone to Thailand. I personally feels that this is about. I immediately called him from law enforcement agencies to be taken up immediately. "
+
+◼️
 
 [Data](articles/48e00763.json)
 
+[Extended Data](ext_articles/48e00763.ext.json)
+
 ---
 
-### அங்கவீனமுற்ற இராணுவ வீரர்களின் நலனுக்காக முடிந்த அனைத்து நிவாரணங்களையும் அரசாங்கம் வழங்கும் - ஜனாதிபதி
+### Sri Lanka minister declines to explain pardon sought for convicted monk
+
+*2024-04-10 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-declines-to-explain-pardon-sought-for-convicted-monk-158187/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s State Minister for Social Empowerment Anupa Pasqual, said that he does not have the authority to explain the reasons for a request to pardon for convicted monk Galagoda Aththe Gnanasara.
+
+The monk was sentenced to four years in prison with hard labour for hate speech against Muslims.
+
+Minister Pasqual asked for a pardon for the controversial monk in parliament earlier this month. “The monk had spoken about the acts of Muslim extremists, not the Muslim people. We don’t like the speech made by him about the Muslim community.”
+
+But this week in response to journalists’ questions on why he asked President Ranil Wickremesinghe to pardon the monk, he said “As a state minister, I do not have the authority to comment on this.”
+
+The monk had previously been serving a six year sentence for contempt of court before he was pardoned by former president Maithripala Sirisena in May 2019.
+
+...
+
+[Data](articles/663298c4.json)
+
+---
+
+### The government will provide all relief for the benefit of disabled soldiers - President
 
 *2024-04-10 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180878) · `ta`
 
-அங்கவீனமுற்ற இராணுவ வீரர்களின் பாதுகாப்பு மற்றும் நலனுக்கு அரசாங்கத்தினால் முடிந்த அனைத்து நிவாரணங்களும் வழங்கப்படுமென ஜனாதிபதி ரணில் விக்ரமசிங்க உறுதியளித்தார்.
+President Ranil Wickremesinghe pledged to support disabled soldiers, providing 50 electric motorcycles costing 17 million rupees, aiming to enhance their livelihoods.
 
-ஸ்ரீ ஜயவர்தனபுர கோட்டேயில் அமைந்துள்ள பாதுகாப்பு அமைச்சின் தலைமையகத்தில் நேற்று செவ்வாய்க்கிழமை (09) நடைபெற்ற 'போரினால் பாதிக்கப்பட்ட இராணுவத்தினருக்கு மின்சார மோட்டார் சைக்கிள் வழங்கும்'' நிகழ்விலேயே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+🟩
 
-அதன்படி அங்கவீனமுற்ற இராணுவ வீரர்கள் மற்றும் அவர்களது குடும்பத்தாரின் வாழ்வாதாரத்தை மேம்படுத்தும் வகையில், 17 மில்லியன் ரூபா செலவில் 50 மின்சார மோட்டார் சைக்கிள்கள் இதன்போது வழங்கப்பட்டன.
+President Ranil Wickremesinghe has promised to provide all the relief to the government for the safety and welfare of the disabled soldiers.
 
-இன்று காலை பாதுகாப்பு அமைச்சின் தலைமையகத்திற்கு வருகைத் தந்த ஜனாதிபதிக்கு, பாதுகாப்பு அமைச்சின் செயலாளர் ஜெனரல் (ஓய்வு) கமல் குனரத்னவினால் சிறப்பு வரவேற்பளிக்கப்பட்டது.
+The President made this observation at the event held at the Headquarters of the Defense Ministry at Sri Jayawardenapura Kotte on Tuesday (09).
 
-நிகழ்வில் அடையாள அம்சமாக அங்கவீனமுற்ற இராணுவ வீரர்கள் சிலருக்கு ஜனாதிபதியால் மின்சார சைக்கிள்கள் வழங்கி வைக்கப்பட்டது.
+Accordingly, 50 electric motorcycles were provided at a cost of 17 million rupees to improve the livelihood of the disabled soldiers and their families.
+
+The President who visited the Headquarters of the Ministry of Defense this morning was welcomed by the Secretary General of the Ministry of Defense General (Retired) Kamal Gunaratne.
+
+The president was provided with electric bicycles to some of the disabled soldiers as a symbol of the event.
+
+The Army Service Authority hopes that this will be able to improve their entrepreneurship by promoting and promoting electric motorcycles to soldiers.
 
 ...
 
 [Data](articles/48e7641a.json)
+
+[Extended Data](ext_articles/48e7641a.ext.json)
 
 ---
 
@@ -237,6 +273,28 @@ This decision has been made due to stockpile and some internal maintenance activ
 [Data](articles/92a355e0.json)
 
 [Extended Data](ext_articles/92a355e0.ext.json)
+
+---
+
+### Sri Lanka to recruit 2,500 teachers for English medium
+
+*2024-04-10 10:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-recruit-2500-teachers-for-english-medium-158175/) · `en`
+
+ECONOMYNEXT – Sri Lanka plans to recruit 2,500 teachers to expand its English medium ordinary level classes, amidst a teacher shortage, Cabinet Spokesman Bandula Gunawardena said.
+
+“There are 765 schools chosen to offer English medium at present,” Gunawardena told reporters on Tuesday. “We want to increase this to 1,000 schools.”
+
+Sri Lanka has approved 4,441 English medium teachers already, and the state plans to increase the teachers to 6,500, Gunawardena said.
+
+However, low salaries have proved to be a problem in the recruitment of teachers. These English-medium teachers will get the same salaries as other teachers in the state sector, the minister said.
+
+“This is a problem. Because there is a big demand in the private sector for teachers in bio sciences, chemistry, physics, IT, accounts, English and foreign languages. And they are offered higher salaries than the state service.
+
+“But there are instances where people leave better paying private sector for state jobs.” (Colombo/Apr10/2024)
+
+◼️
+
+[Data](articles/448747ad.json)
 
 ---
 
@@ -2213,43 +2271,5 @@ The date and time of Eid differ in various countries, depending upon the sightin
 [Data](articles/cca23b58.json)
 
 [Extended Data](ext_articles/cca23b58.ext.json)
-
----
-
-### Ramadan tomorrow
-
-*2024-04-09 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195486) · `si`
-
-"Ramadan begins tomorrow, as announced by the Colombo Maha Church."
-
-🟩
-
-The Colombo Maha Church announced that the Muslims celebrate the Ramazan festival tomorrow (10).
-
-◼️
-
-[Data](articles/46a65df4.json)
-
-[Extended Data](ext_articles/46a65df4.ext.json)
-
----
-
-### Sajith not ready for Presidential debate hosted by Daily Mirror?
-
-*2024-04-09 21:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-not-ready-for-Presidential-debate-hosted-by-Daily-Mirror/108-280505) · `en`
-
-Colombo, April 09 (Daily Mirror) -  The participation of Opposition Leader Sajith Premadasa for a Presidential debate together with President Ranil Wickremesinghe and NPP Leader Anura Kumara Dissanayake hosted by the Daily Mirror is uncertain with SJB Manager Nalin Banadara Jayamaha stating that it is unbelievable that Dissanayake has agreed to it.
-
-"It is unbelievable that Dissanayake has agreed for a debate with the President and Mr. Premadasa after declining to accept the challenge thrown at him by us, and agreeing for the debate with Mr. Premadasa and President Wickremesinghe.
-
-"We are ready for the debate which was suggested by us. Then the economic experts of both parties could have their debate," he added.
-
-Meanwhile Mr. Premadasa told a public meeting in the North-Western Province that the most important way for a political leader is to compete with his rivals to carry out development work in a competitive  way."
-
-...
-
-[Data](articles/33a9e03e.json)
-
-[Extended Data](ext_articles/33a9e03e.ext.json)
 
 ---

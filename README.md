@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 14:04:49**
+As of **2024-04-10 14:18:16**
 
 ## Newspaper Stats
 
@@ -26,93 +26,123 @@ adaderanasinhalalk | 2,960
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,269 (100.0%) of 18,276 articles have been extended.
+18,276 (100.0%) of 18,276 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### වෙඩික්කරුගේ මව්පියන් සිරගෙට
+### The parents of the shotter's parents to jail
 
 *2024-04-10 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195508) · `si`
 
-පාසල් සිසු සිසුවියන්  සිව් දෙනෙක්ව වෙඩි තබා ඝාතනය කළ අමෙරිකාවේ මිචිගන් ප්‍රදේශයේ සිසුවෙකුගේ මව්පියන් ව වසර 10ත් 15ත් අතර කාලයක් සඳහා සිරගත කිරීමට නියමිත බව වාර්තා වෙයි.
+The parents of a student's parents were sentenced to 10-15 years for murdering four students, marking the first time parents of a school gunman were punished. They were later reduced to seven years. Ethan Crash, the 15-year-old gunman, targeted Oxford High School. His parents were accused of failing to address his mental disorder before buying a gun.
 
-ඔවුන් දෙදෙනාගේ දඬුවම වසර 7ක් දක්වා අඩු කරන ලෙස නිර්දේශ කර තිබුණ ද එම දඬුවම් අඩු නොකරන ලෙස රජයේ නීතිඥයින් ඉල්ලා ඇති බව සඳහන් ය.
+🟩
 
-ඒ අනුව අමෙරිකාවේ පාසල් තුවක්කුකරුවෙකුගේ දෙමව්පියන්ට දඬුවම් ලබා දෙන පළමු අවස්ථාව ලෙස මෙය ඉතිහාසගත වෙයි.
+It is reported that the parents of a student of a student of the United States have been imprisoned for 10 to 15 years of murdering four students.
 
-ජේම්ස් සහ ජෙනිෆර් ක්‍රම්ලි අද (10) පළමු වරට අධිකරණය හමුවේ පෙනී සිටි අතර තම පුතා සිදුකළ අපරාධය සම්බන්ධයෙන් ඔවුන් සිය කනගාටුව ප්‍රකාශ කළේය.
+The lawyers of State have requested that they had to reduce their sentences to seven years.
 
-එවකට 15 හැවිරිදි වියේ පසුවූ ඊතන් ක්‍රම්ලි 2021 වසරේදී ඔක්ස්ෆර්ඩ් උසස් විද්‍යාලයේදී සිය සහෝදර සිසු සිසුවියන් ඉලක්ක කර එම වෙඩි තැබීම සිදුකර තිබුණි.
+Accordingly, this is the first time that the parents of a school gunman will be punished.
 
-සිය පුතා ගේ මානසික ආබාධය සම්බන්ධයෙන් නිසි ක්‍රියා නොගැනීමත් ඔහුට තුවක්කුවක් මිලදී ගෙන දීමත් ඊතන් ක්‍රම්ලි ගේ දෙමව්පියන් ට එල්ලවූ ප්‍රධාන චෝදනා වෙයි.
+James and Jennifer Crampley appeared in court today and expressed their regret over the first of the crime he made.
+
+The 15-year-old Ethan Crash, a 15-year-old Ethan Crash, was aimed at Oxford High School at Oxford High School.
+
+Ethan Craramley's parents have accused of taking proper action against his son's mental disorder and buying a gun.
 
 ◼️
 
 [Data](articles/e82efcd5.json)
 
+[Extended Data](ext_articles/e82efcd5.ext.json)
+
 ---
 
-### රට පනින්න ගිය තරුණයා ගුවන්තොටේ දී අත්අඩංගුවට
+### Youth arrested for jumping country at airport
 
 *2024-04-10 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195507) · `si`
 
-ව්‍යාජ විදෙස් ගමන් බලපත්‍රයක් භාවිත කරමින් මැලේසියාව බලා පිටව යෑමට උත්සාහ කළ ශ්‍රී ලාංකිකයෙක් කටුනායක ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
+A Sri Lankan, 34, arrested at Katunayake airport for trying to leave for Malaysia with a fake passport. Charged with attempting to flee to Australia and banned from leaving the country.
 
-අදාළ පුද්ගලයාට රටින් පිටවීම තහනම් කරමින් අධිකරණ නියෝගයක් ද ක්‍රියාත්මක වෙමින් පවතී.
+🟩
 
-එම නිසා අදාළ පුද්ගලයා සිය ජීව දත්ත තොරතුරු වෙනස් කර ව්‍යාජ විදෙස් ගමන් බලපත්‍රය සකස් කර තිබිණි.
+A Sri Lankan who was trying to leave for Malaysia with a fake overseas license has been arrested at the Katunayake airport.
 
-එලෙස අත්අඩංගුවට පත්ව ඇත්තේ 34 හැවිරිදි යාපනයේ, සන්දිලිපායි ප්‍රදේශයේ පදිංචිකරුවෙකි.
+A court order is being carried out by banning the person to the individual.
 
-එම පුද්ගලයා අද (10) අලුයම මැලේසියාවේ ක්වාලාලම්පූර් නුවර බලා පිටත්ව යෑමට නියමිතව තිබිණි.
+As a result, the man changed his bio data information and prepared the false foreign passport.
 
-මගී නිශ්කාශන කටයුතු නිමවා අසුන්ගෙන සිටිය දී ඔහු පිළිබඳව නිලධාරීන්ට ඇති වූ සැකය මත මෙලෙස පරීක්ෂාවට ලක්කර ඇත.
+The arrested were a 34 year old resident of Jaffna, Jaffna.
 
-එම පුද්ගලයා 2012 වසරේ දී බෝට්ටුවෙන් ඔස්ට්‍රේලියාවට පළා යෑමට උත්සාහ කර අත්අඩංගුවට පත්වීමෙන් අනතුරුව මීගමුව මහෙස්ත්‍රාත් අධිකරණය විසින් රටින් පිටවීම තහනම් කරමින් නියෝගයක් නිකුත් කර තිබේ.
+The man was due to leave for Kuala Lumpur in Malaysia this morning.
 
-...
+The passenger clearance work was heard on suspicion of the officers on him while he was finished.
+
+After the man attempted to flee to Australia from the boat, the Negombo Magistrate's Court has issued an order to ban the country.
+
+The arrested persons have been handed over to the human trafficking of the Katunayake Airport Criminal Investigation and Officers in the Marine Criminal Investigations Department for further investigations.
+
+◼️
 
 [Data](articles/4977c314.json)
 
+[Extended Data](ext_articles/4977c314.ext.json)
+
 ---
 
-### தப்பி பிழைக்குமா 'வல்லவன் வகுத்ததடா'..!
+### Will you escape 'Vallavan divisional' ..!
 
 *2024-04-10 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180891) · `ta`
 
-'தகுதியுள்ளவை தப்பி பிழைக்கும்' என்ற முதுமொழியை மையப்படுத்தி உருவாகி இருக்கும் 'வல்லவன் வகுத்ததடா' திரைப்படம் ஏப்ரல் பதினோராம் திகதியன்று பட மாளிகையில் வெளியாகிறது.
+"Vallavan Kadatadada," a film about 'Eligible Things Evil,' releases on April 11th. Directed by Vinayak Durai, it stars Tej Saranraj, Rajesh Balachandran, Ananya Mani, Swathi Meenakshi, Vikram Aditya, Regin Rose, and others. The film, produced by Durai for Focus Studios, explores five characters' unexpected wealth acquisition. Sajisna Xavier composed the music, and Karthik Nallamuthu recorded it. The director hopes fans will enjoy the story of men chasing money.
 
-ஏராளமான திரைப்படங்கள் வெளியாகும் இந்த தருணத்தில் 'வல்லவன் வகுத்ததடா' தப்பி பிழைக்குமா..? என்பது ரசிகர்களின் கையில் இருக்கிறது.
+🟩
 
-அறிமுக இயக்குநர் விநாயக் துரை இயக்கத்தில் உருவாகி இருக்கும் 'வல்லவன் வகுத்ததடா' எனும் திரைப்படத்தில் தேஜ் சரண்ராஜ், ராஜேஷ் பாலச்சந்திரன், அனன்யா மணி, சுவாதி மீனாட்சி, விக்ரம் ஆதித்யா, ரெஜின் ரோஸ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+The film 'Vallavan Kadatadada', which focuses on 'Eligible Things Evil', will be released at the film House on the eleventh April.
 
-கார்த்திக் நல்லமுத்து ஒளிப்பதிவு செய்து இருக்கும் இந்த திரைப்படத்திற்கு சஜிஸ்னா சேவியர் இசையமைத்திருக்கிறார். ஹைபர் லிங்க் பாணியிலான இந்தத் திரைப்படத்தை ஃபோக்கஸ் ஸ்டுடியோஸ் எனும் பட நிறுவனம் சார்பில் இயக்குநர் விநாயக் துரை தயாரித்திருக்கிறார்.
+In this moment when a number of films are released, 'Vallavan Padatadada' will survive ..?Is in the hands of the fans.
 
-படத்தைப் பற்றி இயக்குநர் பேசுகையில், '' படத்தில் ஐந்து கதாபாத்திரங்கள் முதன்மையான வேடத்தில் நடித்திருக்கின்றனர்.  இவர்கள் அனைவருக்கும் பண தேவை உள்ளது.
+Tej Saranraj, Rajesh Balachandran, Ananya Mani, Swathi Meenakshi, Vikram Aditya, Regin Rose and many others have starred in the film 'Vallavan Kadatadada', directed by debutant director Vinayak Durai.
+
+Sajisna Xavier has composed the film, which is being recorded by Karthik Nallamuthu. The film is being produced by director Vinayak Durai on behalf of Focus Studios.
+
+Speaking of the film, the director said, “Five characters have played the lead role in the film.They all need money.
+
+In this case, they get millions of money unexpectedly. The interesting feature of the film is who captured and handled it effectively.
 
 ...
 
 [Data](articles/597a2c20.json)
 
+[Extended Data](ext_articles/597a2c20.ext.json)
+
 ---
 
-### බදු නිසා ජීවන බර වැඩිවුණු බව පිළිගන්නවා
+### Taxes admit that the weight of the living has increased
 
 *2024-04-10 13:27:47* · [`adalk`](https://www.ada.lk/breaking_news/බදු-නිසා-ජීවන-බර-වැඩිවුණු-බව-පිළිගන්නවා/11-409047) · `si`
 
-අධ්‍යාපනය, ඉඩම්, නිවාස හා ව්‍යාපාර අයිතිය ලබා දෙමින් ශක්තිමත් ආර්ථිකයක කොටස්කරුවන් බවට ජනතාව පත් කිරීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රකාශ කළේය.
+President Ranil Wickremesinghe highlighted the importance of education, land, housing, and business ownership in building a strong economy. He emphasized the role of the people in creating an unbreakable economy, mentioning the provision of 294 houses in the Uyana Housing Complex in 2010. The government's tax policy has increased state revenues, allowing for a 10,000 rupee salary increase for public servants and a strengthened rupee. The president also promised more than 50,000 houses to the people, aiming to improve living conditions.
 
-ජනතාව ආර්ථිකයේ කොටස්කරුවන් කිරීම මගින්  නොබිඳෙන පුළුල් ආර්ථිකයක් ගොඩනැඟිය හැකි බවද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කළේ මෝදර, රන්දිය උයන  මහල් නිවාස ලබාදීමේ ජාතික උත්සවයට ඊයේ (09) පස්වරුවේ  එක්වීමෙනි.
+President Ranil Wickremesinghe stated that the people will be appointed as partners in a strong economy with providing education, land, housing and business ownership.
 
-2010 වසරේ කජීමාවත්තේ ගිනිබත් වූ නිවාස වෙනුවෙන් මෙම රන්දිය උයන  නිවාස සංකීර්ණයේ නිවාස 294ක් ජනතා අයිතියට පවරාදීම මෙහිදි ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් සිදු කෙරිණි .
+The President pointed out that the people of the economy can build an unbreakable economy.
+
+President Ranil Wickremesinghe expressed these views to the national ceremony of Modara and Randiya Garden.
+
+The president was chaired by 294 houses in the Uyana Housing Complex for the public to be vested with the public in 2010.
+
+The people of Kajimawatte have lived in a place like hell for more than ten years. It is impossible to how to live there. In such a background, these apartments are pleased to provide the people soon. Ravi Karunanayake showed great interest in this regard. This house you get today becomes your most valuable property. It is your responsibility to use it safely. Don't have the last ten years in the last ten years you don't have or sell these habbing motors. I call on these houses like their life.
 
 ...
 
 [Data](articles/a5ca1a91.json)
+
+[Extended Data](ext_articles/a5ca1a91.ext.json)
 
 ---
 
@@ -136,45 +166,61 @@ President’s Senior Advisor on National Security and Chief of Presidential Staf
 
 ---
 
-### உதைபந்தாட்ட பயிற்சியாளரின் வாழ்வியலை பேசும் 'மைதான்'
+### 'Mython' speaks of the life of the trainer
 
 *2024-04-10 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/180895) · `ta`
 
-இந்தி திரையுலகில் விளையாட்டு துறை தொடர்பான சுயசரிதை சார்ந்த படைப்புகளுக்கு வரவேற்பு அதிகம். 'மேரி கோம்', 'டோனி -அன்டோல்ட் ஸ்டோரி',  'சூர்மா', 'தங்கல்', '83' என ஏராளமான  படைப்புகளை பட்டியலிடலாம்.
+"Mython" highlights sports-related films in Hindi cinema, including 'Mary Kom', 'Tony -Antold Story', 'Surma', 'Thangal', and '83'. 'Maidan', directed by Amit Ravindranath Sharma, stars Ajay Devgan, Priya Mani, and Kajaraj Rao, showcasing Syed Abdul Rahim's life. Released worldwide in Hindi from 10th April, it's produced by Bonnie Kapoor for Jee Studios and Bay Vuue Projects, with music by R. Rahman and cinematography by Tushar Kandre.
 
-அந்த வகையில் இந்திய அணியின் உதை பந்தாட்ட பயிற்சியாளரான சையத் அப்துல் ரஹீம் என்பவரின் வாழ்க்கை வரலாறைத் தழுவி 'மைதான்' எனும் திரைப்படம் உருவாகி இருக்கிறது.
+🟩
 
-இந்தத் திரைப்படம் ரமழான் பண்டிகையை முன்னிட்டு இன்று ஏப்ரல் 10 ஆம் திகதி முதல் இந்தியில் உலகம் முழுவதும் படமாளிகையில் வெளியாகிறது.
+The most welcome of the sports industry -related works in the Hindi film industry. You can list a large number of works such as 'Mary Kom', 'Tony -Antold Story', 'Surma', 'Thangal' and '83'.
 
-இயக்குநர் அமித் ரவீந்திரநாத் சர்மா இயக்கத்தில் உருவாகி இருக்கும் 'மைதான்' திரைப்படத்தில் அஜய் தேவ்கன், பிரியா மணி, கஜராஜ் ராவ் ஆகியோர் முதன்மையான கதாபாத்திரங்களில் நடித்திருக்கிறார்கள்.
+The film 'Maidan' has been developed by the life history of Syed Abdul Rahim, the Indian team's kick -off coach.
 
-துஷார் கான்டிரே ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'இசை புயல்' ஏ. ஆர். ரஹ்மான் இசையமைத்திருக்கிறார்.
+The film will be released worldwide in Hindi in Hindi from 10th April to mark the Ramadan festival.
 
-பயோபிக் திரைப்படமாக தயாராகும் இந்த திரைப்படத்தை ஜீ ஸ்டுடியோஸ் மற்றும் பே வ்யூ ப்ராஜெக்ட்ஸ் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர் போனி கபூர் தயாரித்திருக்கிறார்.
+Directed by Amit Ravindranath Sharma, Ajay Devgan, Priya Mani and Kajaraj Rao are the first roles in the film 'Maidan'.
 
-...
+Tushar Kandre's cinematography by the film 'Music Storm'. R. Rahman has composed the music.
+
+The film is being produced by Bonnie Kapoor on behalf of Jee Studios and Bay Vuue Projects.
+
+Ajay Devan, the leading star actor of the Hindi film industry, is the hero of the story and is a film -related film.
+
+◼️
 
 [Data](articles/d2ceb062.json)
 
+[Extended Data](ext_articles/d2ceb062.ext.json)
+
 ---
 
-### விதார்த் நடிக்கும் 'லாந்தர்' பட ஃபர்ஸ்ட் லுக் வெளியீடு
+### 'Lander' starring Vidarth's film First Look
 
 *2024-04-10 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180896) · `ta`
 
-தமிழ் சினிமாவில் நம்பிக்கைக்குரிய நட்சத்திர நடிகராகவும், தயாரிப்பாளருக்கு குறைந்தபட்ச லாபத்தை வழங்கும் நடிகராகவும் வலம் வரும் விதார்த், கதையின் நாயகனாக நடித்திருக்கும் 'லாந்தர்' எனும் திரைப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது.
+"'Lander', a horror thriller, stars Vidarth as a police officer in a film directed by Shaji Salim, produced by M Cinema Production. The first look has been released, featuring Vidarth and others. The film, set in a time without electricity, uses a lamp for night travel, drawing excitement from fans."
 
-இயக்குநர் ஷாஜி சலீம் இயக்கத்தில் உருவாகி இருக்கும் 'லாந்தர்' எனும் திரைப்படத்தில் விதார்த், ஸ்வேதா டோரத்தி, விபின், சஹானா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-ஞான சௌந்தர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு பிரவீண் இசையமைத்திருக்கிறார். ஹாரர் திரில்லர் ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை எம் சினிமா புரொடக்ஷன் எனும் நிறுவனம் தயாரித்திருக்கிறது.
+Vidarth, who is a trusted star in Tamil cinema and a minimum profit for the producer, has been released by the first look of 'Lander', which plays the hero of the story.
 
-இப்படத்தின் படப்பிடிப்பு பணிகள் நிறைவடைந்து இறுதி கட்டப் பணிகள் விறுவிறுப்பாக நடைபெற்று வருகிறது. இந்நிலையில் படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது.
+Directed by director Shaji Salim, Vidharth, Swetha Torathi, Vipin, Sahana and many others have starred in the film 'Lander'.
 
-இதில் விதார்த் காவல்துறை அதிகாரியாக தோன்றுகிறார். அவரின் பின்னணியில் வரையப்பட்டிருக்கும் உருவம் படத்தைப் பற்றிய எதிர்பார்ப்பை அதிகரிக்கிறது.
+Praveen has composed the film, which has been recorded by Gnana Sounder. The film is being produced in the horror thriller Janer and is produced by M Cinema Production.
 
-...
+The shooting of the film is completed and the final phase of the work is going on. In this case, the first look of the film has been released.
+
+Vidarth appears to be a police officer. The image drawn in his background increases the expectation of the film.
+
+'Lander' is a lamp used for night journey during a period where there is no electricity, although these are not currently in use.. The film, which focuses on this, has been welcomed by the fans.
+
+◼️
 
 [Data](articles/ec47c7a2.json)
+
+[Extended Data](ext_articles/ec47c7a2.ext.json)
 
 ---
 
@@ -570,21 +616,29 @@ They have no agreement with a salary increase. Senthil Thondaman said that the s
 
 ---
 
-### අදයි රාමසාන්
+### Today is Ramadan
 
 *2024-04-10 11:17:29* · [`adalk`](https://www.ada.lk/breaking_news/අදයි-රාමසාන්/11-409045) · `si`
 
-ඉස්ලාම් භක්තිකයන්ගේ රාමසාන් උත්සවය නව සඳ ඊයේ 9දා දිස්වීම හේතුවෙන් අද 10 දිනයේ  සමරන බව කොළඹ මහ පල්ලිය නිවේදනය කරයි.
+Today marks the beginning of Ramadan, celebrated by the Colombo Maha Church. Sri Lankan President Ranil Wickremesinghe highlights the positive impact of Ramadan on Islamists worldwide. Prime Minister Dinesh Gunawardena acknowledges the religious observances of the Islamic community during Ramadan, expressing gratitude to the government for supporting various sectors. He also thanks the Muslim community for their commitment to maintaining progress.
 
-රාමසාන් දින පණිඩුයක් නිකුත් කරමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසන්නේ ලොව වෙසෙන ඉස්ලාම් භක්තිකයන් මාසයක් පුරා උපවාස කරනුයේ තමන් වෙත ද, අනුන් වෙත ද යහපත උදාකර දීමේ අරමුණ ඇතිව බවය.මෙවර ශ්‍රී ලංකාවාසී ඉස්ලාම් භක්තිකයන් රාමසාන් සමරනුයේ පොදුවේ අපේ රට වඩාත් යහපත් මට්ටමක් කරා එළැඹෙමින් පවතින අවධියක බව ජනාධිපතිනරයා පෙන්වා දෙයි.
+🟩
 
-අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා නිවේදනයක් නිකුත් කරමින් සඳහන් කර ඇත්තේ, අනාදිමත් කාලයක සිට ඉස්ලාමීය ජනතාව රාමසාන් කාල සීමාවේදී තම ආගමික වතාවන් හා ප්‍රාර්ථනා අගය කරමින්, අන් අයටද උපකාර කරමින් රට තුළ පවතින සංස්කෘතික හා ආගමික විවිධත්වයට ආදර්ශමත් අරුත් ලබා දී ඇති බවය.
+The Colombo Maha Church will be announced that the new moon was celebrated today 10 today.
 
-ශ්‍රී ලාංකික මුස්ලිම් ප්‍රජාව රටේ පාලන ක්‍රියාවලියට, ව්‍යාපාර ක්ෂේත්‍රයට, අධ්‍යාපන හා විවිධ වෘත්තීය ක්ෂේත්‍රවලට, ක්‍රීඩා හා සංස්කෘතික ක්ෂේත්‍රවලට ලබාදෙන සක්‍රීය දායකත්වය උදෙසා කෘතවේදීත්වය පළ කිරීමට ද මෙය අවස්ථාවක් කර ගන්නා බව අග්‍රාමාත්‍යවරයා සඳහන් කරයි.
+President Ranil Wickremesinghe says that the Sri Lankan Islamists in the world is a phase of Ramadan, which is in general, is a good way to achieve good.The President points out.
 
-...
+Prime Minister Dinesh Gunawardena has issued an announcement and the Islamic people have been given their religious observances and their religious practices in the Ramazan period.
+
+The Prime Minister states that this opportunity will also be grateful to the Government of Sri Lanka to the government control process, business sector, educational and various professional sectors to the fields, sports and cultural sectors.
+
+The Prime Minister also further stated that the kind commitment to the Muslim community is expecting further to maintain the most difficult goals we have won.
+
+◼️
 
 [Data](articles/707bdb1e.json)
+
+[Extended Data](ext_articles/707bdb1e.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 18:10:15**
+As of **2024-04-10 18:21:35**
 
 ## Newspaper Stats
 
-*Scraped **18,320** Articles*
+*Scraped **18,323** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,39 +18,93 @@ economynextcom | 1,027
 adalk | 1,542
 tamilmirrorlk | 2,144
 adaderanalk | 2,193
-virakesarilk | 2,723
-dailymirrorlk | 2,793
+virakesarilk | 2,725
+dailymirrorlk | 2,794
 adaderanasinhalalk | 2,967
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,311 (100.0%) of 18,320 articles have been extended.
+18,320 (100.0%) of 18,323 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### බන්ධනාගාරගත සිරකරුවන්ට විශේෂ රාජ්‍ය සමාවක්
+### லங்கா பிறீமியர் லீக்கில் வெளிநாட்டு வீரர்களைப் பதிவு செய்வது ஆரம்பம்
+
+*2024-04-10 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180934) · `ta`
+
+லங்கா பிறீமியர் லீக்கின் ஐந்தாவது அத்தியாயத்தை முன்னிட்டு வெளிநாட்டு வீரர்களைப் பதிவுசெய்யும் பணிகள் ஆரம்பிக்கப்பட்டுள்ளதாக ஸ்ரீலங்கா கிரிக்கெட் நிறுவனம் அறிவித்துள்ளது.
+
+இந்த வருட லங்கா பிறீமியர் லீக் கிரிக்கெட் போட்டியில் விளையாட விரும்பும் வெளிநாட்டு வீரர்கள் https://srilankacricket.lk/lpl-playerregistration-portal/ என்ற இணை முகப்பில் தங்களைப் பதிவுசெய்துகொள்ளலாம். இதில் இரண்டு பிரிவுகள் இருக்கிறது. ஒன்று தேசிய வீரர்களுக்கான பதிவு. மற்றையது தேசிய வீரர்கள் அல்லாதவர்களுக்கான பதிவு.
+
+டெஸ்ட் கிரிக்கெட், சர்வதேச ஒருநாள் அல்லது சர்வதேச ரி20 கிரிக்கெட் ஆகியவற்றில் குறைந்த பட்சம் ஒரு போட்டியில் விளையாடியவர்கள் தேசிய வீரர்களாக கருதப்படுவர்.
+
+தேசிய அணியில் இடம்பெறாமல் முதலாம் தர கிரிக்கெட் அல்லது தொழில்முறை ரி20 கிரிக்கெட் ஆகியவற்றில் விளையாடியவர்கள் தேசிய வீரர்கள் அல்லாதவர்களாக கருதப்படுவர்.
+
+...
+
+[Data](articles/f6c35a91.json)
+
+---
+
+### Mendis, Mathews move up in ICC Test Rankings
+
+*2024-04-10 17:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mendis-Mathews-move-up-in-ICC-Test-Rankings/108-280567) · `en`
+
+Apr. 10 (ICC) - Sri Lanka all-rounder Kamindu Mendis and former Captain Angelo Mathews have progressed in the ICC Men’s Test Player Rankings after contributing to their team’s 192-run victory in Chattogram that helped complete a 2-0 win in the ICC World Test Championship series against Bangladesh.
+
+Kamindu’s scores of 92 not out and nine have lifted him 18 places to 46th position in the batters’ list while his three-wicket haul in the second innings sees him gain 46 slots and reach 117th position among bowlers.
+
+Mathews, who enjoyed a career-high third rank in August 2014, has increased two places to 25th after scores of 23 and 56. In what is another notable movement for a Sri Lankan batter, Kusal Mendis has progressed three places to 52nd after scoring 93 in the first innings.
+
+...
+
+[Data](articles/a4ceede9.json)
+
+---
+
+### Special number of prisoners for prison prisoners
 
 *2024-04-10 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195517) · `si`
 
-2024 අප්‍රේල් මසට යෙදෙන සිංහල හා හින්දු  අලුත් අවුරුද්ද වෙනුවෙන් ජනාධිපතිවරයාට ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 34 (1) වගන්තියේ පැවරී ඇති බලතල අනුව බන්ධනාගාරගත සිරකරුවන්හට විශේෂ රාජ්‍ය සමාවක් පිරිනමයි.
+For Sinhala and Hindu New Year 2024, the President offers special amnesty for prisoners under Section 34 (1) of the Constitution. This includes:
 
-ඒ අනුව පහත සදහන් පරිදි නියමයන් හා කොන්දේසි යටතේ මෙම පොදු සමාව සිරකරුවන් හට ප්‍රධානය කර ඇත.
+- A year's remission for prisoners punished by 404.14.13.2011.
 
-* 2024.04.13 වනදා වනවිට බන්ධනාගාරගතව දඩුවම් විඳීමින් සිටින සිරකරුවන්ගේ ගෙවන ලද වසරකට හෝ ඉන් කොටසකට සති එකක සමාවක් ප්‍රධානය කිරීම.
+- Abolition of punishment for prisoners by 23.04.2012 for non-financial crimes.
 
-* දඩ මුදල් නොගෙවීම නිසා 2024.04.13 වනදා වනවිට බන්ධනාගාරගතව සිරදඬුවම් විඳීමින් සිටින සිරකරුවන්ගේ ගෙවමින් පවතින දඬුවමේ ශේෂය අහෝසි කිරීම.
+- Abolition of fines for prisoners over 65 who have paid at least half their fines.
 
-* 2024.04.13 වනදා වනවිට නියම කර ඇති සිරදඬුවමින් හරි අඩක් හෝ ඊට වැඩි කාලයක් ගෙවා අවසන් කර ඇති, වයස අවුරුදු 65 ඉක්මවා ඇති සිරකරුවන්ගේ දඬුවමේ ඉදිරි ශේෂය අහෝසි කිරීම.
+- Immediate fines abolition for prisoners after 40 years in prison since 23.04.2013.
 
-* 2024.04.13 වනදා වනවිට වසර 40ක් හෝ ඊට වැඩි සිරදඬුවමින් වසර 20ක කාලයක් ගෙවා අවසන්කර ඇති (මහාධිකරණයෙන් සිර දඬුවම් නියමකළ දින සිට) සිරකරුවන්ගේ දඬුවමේ ඉදිරි ශේෂය අහෝසි කිරීම.
+- Rehabilitation for drug offenders under the Birm Institute, supervised by a Community Corporate Officer.
+
+- Exclusion from amnesty for serious offenses.
+
+- Release from all prisons for eligible prisoners.
+
+🟩
+
+For the Sinhala and Hindu New Year of April 2024, the President offers a special country for prisoned prisoners depending on the powers vested in Section 34 (1) of the Constitution.
+
+Accordingly, these common parks have been awarded to prisoners under the terms and conditions as follows.
+
+* A year after a yearly prisoners who are punished by 404.14.13.2011, awarding a whole year.
+
+• Abolition of punishment of prisoners in prison by 23.04.2012 due to non-fines.
+
+* Abolition of the forward balance of prisoners who have exceeded 65 years of age, which has been paid at least half or more than 23rd.120s.
+
+* After 40 years of prison in jail after 23.04.2013, the abolition of the immediate balance of prisoners.
 
 ...
 
 [Data](articles/8f0aa620.json)
+
+[Extended Data](ext_articles/8f0aa620.ext.json)
 
 ---
 
@@ -67,6 +121,8 @@ In response to a media query the necessity of maintaining fighter jets like Kfir
 ...
 
 [Data](articles/8b11a010.json)
+
+[Extended Data](ext_articles/8b11a010.ext.json)
 
 ---
 
@@ -91,6 +147,26 @@ Prior cargo declaration begins from April, and piloting of pre-arrival processin
 ...
 
 [Data](articles/ee2f0617.json)
+
+[Extended Data](ext_articles/ee2f0617.ext.json)
+
+---
+
+### கல்வி, காணி, வீட்டு உரிமைகளை வழங்கி மக்களையும் பொருளாதாரத்தில் பங்குதார்களாக்குவோம் - ஜனாதிபதி
+
+*2024-04-10 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180925) · `ta`
+
+கல்வி, காணி, வீடு, வியாபார உரிமைகளை உறுதிப்படுத்தி.மக்களை பொருளாதாரத்தில் வலுவான பங்குதாரர்களாக மாற்றிக்கொள்ள நடவடிக்கை எடுப்பதாக ஜனாதிபதி ரணில் விக்ரமசிங்க உறுதியளித்தார்.
+
+பொருளாதாரத்தின் பங்குதாரர்களாக மக்களை மாற்றுவதன் மூலம், சரிவடையாத வலுவான பொருளாதாரத்தைக் கட்டியெழுப்ப முடியுமெனவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+கொழும்பு முகத்துவாரத்தில் நேற்று (09) நடைபெற்ற ரன்திய உயன வீட்டுத் தொகுதியை பயனாளிகளுக்குக் கையளிக்கும் நிகழ்விலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார்.
+
+இதன்போது 2010 ஆம் ஆண்டில் கஜீமாவத்தையில் தீக்கிரையான வீடுகளுக்கு பதிலாக 294 வீடுகள் அடங்கிய இந்த வீட்டுத்தொகுதியை ஜனாதிபதி, பாதிக்கப்பட்ட மக்களுக்கு கையளித்தார்.
+
+...
+
+[Data](articles/44b1b0cd.json)
 
 ---
 
@@ -163,6 +239,8 @@ A bond maturing on 01.10.2032 closed at 12.30/50 percent down from 12.40/55. (Co
 ◼️
 
 [Data](articles/66dcb87a.json)
+
+[Extended Data](ext_articles/66dcb87a.ext.json)
 
 ---
 
@@ -305,6 +383,8 @@ India looked forward to working with Sri Lanka to take forward our common endeav
 ...
 
 [Data](articles/903df171.json)
+
+[Extended Data](ext_articles/903df171.ext.json)
 
 ---
 
@@ -754,6 +834,8 @@ There was a net foreign outflow of 15 million. (Colombo/Apr10/2024)
 
 [Data](articles/1f53a3d0.json)
 
+[Extended Data](ext_articles/1f53a3d0.ext.json)
+
 ---
 
 ### Identifying the main factors for accidents on high -speed streets
@@ -898,21 +980,29 @@ Tamil National People's Front parliamentarian Selvarajah Gajendran issued a warn
 
 ---
 
-### මොනරාගලින් ඇවිත් කාන්තා ක්‍රිකට් පිටිය හොල්ලපු පුංචි තරුව
+### Littlear star with the women's cricket ground
 
 *2024-04-10 13:54:59* · [`adalk`](https://www.ada.lk/sports/මොනරාගලින්-ඇවිත්-කාන්තා-ක්‍රිකට්-පිටිය-හොල්ලපු-පුංචි-තරුව/9-409049) · `si`
 
-මොනරාගල කුඹුක්කන පඤ්ඤානන්ද මහා විද්‍යාලයේ එච්.එම් චමෝදී ප්‍රබෝධා ක්‍රීඩිකාව 19 පහළ ශ්‍රීලංකා ජාතික කාන්තා ක්‍රිකට්  කණ්ඩායඔමේ විශිෂ්ඨ දස්කම් දක්වා ඇත.
+A young cricketer from Sri Lanka, part of the 19th Women's World Cricket team, excels in her sport. Born in Pahavilawatta, she trains at Panbukkana Pannananda Maha Vidyalaya, with guidance from teachers and sports trainers. She's a fast bowler and left-handed, playing in district and provincial competitions. Supported by her family and community, she's proud of her achievements, including a notable performance in a cricket tournament.
 
-10 වන වසරේ ඉගෙනුම ලබන ඇය මොනරාගල පාරාවිලවත්ත පදිංචිව සිටී. කුඩා කළ සිට ක්‍රීඩාවට ඇලුම් කළ ඇය ක්‍රිකට් ක්‍රීඩාවට දක්වන උනන්දුව පිළිබඳව පැහැදුණු විද්‍යාලයේ ස්වේච්ඡා ගුරුවරයෙකු වූ කේ.චන්ද්‍රකුමාර් මහතා යටතේ පුහුණුව ලබා තිබේ.
+🟩
 
-විදුහල්පති ආර්.එම්.එස් රත්නායක,විද්‍යාලයීය ක්‍රීඩා පුහුණුකාරිය වන නාලනී විජේරත්න මහත්මියගේ මඟපෙන්වීම මත ක්‍රීඩා දිවිය ආරම්භකළ ඇය දිස්ත්‍රික් පළාත් ක්‍රිකට් ක්‍රීඩා තරඟ වලදී  දස්කම් රැසක් දක්වා තිබේ.
+HM Chamo, Panbukkana Pannananda Maha Vidyalaya, Kumbukkana Palan Vidyalaya The 19th Sri Lanka Women's World Cricket team has been given excellent performances.
 
-වේගපන්දු යවන්නියක ලෙස දස්කම් දැක්වූ ඇය වමතින් පාදඟ පන්දු යවන්නියක ලෙසද දස්කම් දක්වන අතර දැනට ශ්‍රී ලංකා ජාතික ක්‍රිකට 19 පහළ කාන්තා  කණ්ඩායම නියෝජනය කරයි.පහළොස් වන වියෙහි පසුවන ඇය 19 පහළ කණ්ඩායමේ ලාබාලතම ක්‍රීඩිකාවයි.
+She is living in the 10th year, she is living in Pahavilawatta. She looked into the game and trained the school, a volunteer teacher, K.Kandrakumar, a voluntary teacher of cricket.
+
+Principal, RMS Ratnayake, the guidance of the College Sports Trainer, Nalini Wijeratne, she has played many opportunities in district provincial cricket game competitions.
+
+A fast bowler, she also serves as a left-hand bowler and is currently the youngest sports of the 19th group.
+
+Moneragala District Cricket Association, Panchanden College, Director of Moneragala Assistant Sports, Pasindu Lakshan, Pasindu Lakshan, Kasunku, Kasun Maduranga, Katale Narangoda, Kasun Maduranga, Sunday Narangoda, Kasun MadurangaThere are NANU's help helps to make her play life success.
 
 ...
 
 [Data](articles/90de542d.json)
+
+[Extended Data](ext_articles/90de542d.ext.json)
 
 ---
 
@@ -1262,6 +1352,8 @@ ECONOMYNEXT – President Ranil Wickremesinghe has asked new house owners to not
 
 [Data](articles/741ab537.json)
 
+[Extended Data](ext_articles/741ab537.ext.json)
+
 ---
 
 ### The hydrological tragedy reveals
@@ -1391,6 +1483,8 @@ Anyone who wishes to rectify their non-inclusion or inclusion can approach the d
 ◼️
 
 [Data](articles/fe6ab37d.json)
+
+[Extended Data](ext_articles/fe6ab37d.ext.json)
 
 ---
 
@@ -2305,79 +2399,5 @@ The White House said last week that the president, in a call with Netanyahu, thr
 [Data](articles/4d76f59d.json)
 
 [Extended Data](ext_articles/4d76f59d.ext.json)
-
----
-
-### Greeting
-
-*2024-04-10 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180862) · `ta`
-
-President Ranil Wickremesinghe congratulated the Muslim community on Ramadan, emphasizing its role in promoting unity and spiritual growth. He expressed hope that the values of Ramadan, such as dedication and tolerance, will guide Sri Lanka towards progress, especially in overcoming economic challenges.
-
-🟩
-
-President Ranil Wickremesinghe said in a congratulatory message to the Muslim people of Sri Lanka and the entire world Muslim community that the peace and reconciliation of Ramadan is a heartfelt congratulations.
-
-The month of Holy Ramadan, which is considered the ninth month in the Islamic calendar, is considered the month of thinking and spiritual development for the Muslim brothers.
-
-The month of Ramadan is a lighthouse of well -being and well -being and promotes us unity and religious harmony.
-
-I am happy that this year, our fellow Muslims have the opportunity to celebrate the Ramadan festival in the country where we are all over the dilemma that we all have confronted as Sri Lankans, regardless of caste and religion.
-
-I think it is right to consider Ramadan fasting in this country not only to the Muslims, but the time when everyone shares their happiness.
-
-...
-
-[Data](articles/42e4e377.json)
-
-[Extended Data](ext_articles/42e4e377.ext.json)
-
----
-
-### 10 times the price is low
-
-*2024-04-10 09:22:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-மடங்கு-விலை-குறைந்தது/175-335813) · `ta`
-
-Prices of greens like broccoli, red cabbage, and lettuce have dropped tenfold since January. Despite high demand, tourist hotel orders are low, affecting Nuwara Eliya's economy.
-
-🟩
-
-The price of a variety of greens, including the cellular used for food decoration, has declined ten times these days than in January.
-
-The broccoli sold for Rs 4,000, the red cabbage sold for 3,000 rupees, and the cellular lettuce sold for Rs 1,500 for Rs 1,500.
-
-In addition, the price of a kilo of coriander leaves sold for Rs 350 has fallen to Rs 80.
-
-The Nuwara Eliya Economic Center said that despite the rise of these greens, the demand for tourist hotels is low.
-
-The Nuwara Eliya Economic Center has said that salad greens are required from 2000 to 3000 kilograms per day from tourist hotels in Nuwara Eliya.. Remble
-
-◼️
-
-[Data](articles/70069b25.json)
-
-[Extended Data](ext_articles/70069b25.ext.json)
-
----
-
-### 18 year old youth killed in motorcycle accident
-
-*2024-04-10 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195496) · `si`
-
-An 18-year-old from Mulliyawei died in a motorcycle accident on the Mullahini-Nedunkeni road, colliding with a bike on the opposite side.
-
-🟩
-
-A young man has died in motorcycle accident on the Mullahini-Nedunkeni road.
-
-The victim was a 18 year old resident of Mulliyawei area yesterday.
-
-The accident had occurred when a motorbike to face a motorbike on the opposite.
-
-◼️
-
-[Data](articles/30c743ea.json)
-
-[Extended Data](ext_articles/30c743ea.ext.json)
 
 ---

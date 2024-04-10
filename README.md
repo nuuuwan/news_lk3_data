@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 12:33:39**
+As of **2024-04-10 12:51:31**
 
 ## Newspaper Stats
 
-*Scraped **18,257** Articles*
+*Scraped **18,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 1,001
 economynextcom | 1,021
 adalk | 1,535
 tamilmirrorlk | 2,141
-adaderanalk | 2,185
+adaderanalk | 2,186
 virakesarilk | 2,705
 dailymirrorlk | 2,785
 adaderanasinhalalk | 2,955
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,955
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,255 (100.0%) of 18,257 articles have been extended.
+18,257 (100.0%) of 18,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### Caution urged to prevent traffic and firework accidents during festive season
+
+*2024-04-10 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98552/caution-urged-to-prevent-traffic-and-firework-accidents-during-festive-season) · `en`
+
+The government has urged the members of the public to exercise caution and minimize road accidents and fireworks-related incidents during the upcoming Sinhala and Tamil New Year season.
+
+Reports indicate that a significant number of accidents take place during this festive period and approximately 36% are attributed to the use of fireworks.
+
+In addition, 17% of eye injuries reported during this time are also due to the use of firecrackers and fireworks, according to the government.
+
+In response to these concerns, the Ministry of Transport and the Ministry of Health have collaborated on a special program aimed at raising awareness and reducing incidents of road accidents and firework-related injuries during the festive season.
+
+...
+
+[Data](articles/2ca39ef0.json)
+
+---
 
 ### Former President Maithree abroad
 
@@ -75,6 +93,8 @@ The monk had previously been serving a six year sentence for contempt of court b
 ...
 
 [Data](articles/663298c4.json)
+
+[Extended Data](ext_articles/663298c4.ext.json)
 
 ---
 
@@ -295,6 +315,8 @@ However, low salaries have proved to be a problem in the recruitment of teachers
 ◼️
 
 [Data](articles/448747ad.json)
+
+[Extended Data](ext_articles/448747ad.ext.json)
 
 ---
 
@@ -2247,29 +2269,5 @@ Therefore, the Muslims of Sri Lanka will celebrate the holy fast on Wednesday (1
 [Data](articles/7d7ee3b6.json)
 
 [Extended Data](ext_articles/7d7ee3b6.ext.json)
-
----
-
-### Eid al-Fitr to be celebrated in Sri Lanka on Wednesday
-
-*2024-04-09 21:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/98545/eid-al-fitr-to-be-celebrated-in-sri-lanka-on-wednesday) · `en`
-
-The Muslim community of Sri Lanka will celebrate ‘Eid-al-Fitr’ tomorrow (10 April), as the new crescent moon was sighted today (09 April).
-
-Accordingly, the Colombo Grand Mosque announced that ‘Eid-al-Fitr’ (also known as Ramadan festival) for the year 2024 will be celebrated tomorrow.
-
-Eid al-Fitr is a “festival of breaking the fast” and marks the end of the holy month of Ramadan.
-
-It is a religious holiday that is celebrated by Muslims from all over the world and involves a range of celebrations as friends, family and the entire Muslim community come together.
-
-The festival is celebrated on the first day of Shawwal, the 10th month of Islamic lunar calendar.
-
-The date and time of Eid differ in various countries, depending upon the sighting of the crescent moon.
-
-◼️
-
-[Data](articles/cca23b58.json)
-
-[Extended Data](ext_articles/cca23b58.ext.json)
 
 ---

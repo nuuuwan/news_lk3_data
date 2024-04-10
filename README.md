@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 14:35:07**
+As of **2024-04-10 14:52:05**
 
 ## Newspaper Stats
 
-*Scraped **18,276** Articles*
+*Scraped **18,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ islandlk | 1,001
 economynextcom | 1,021
 adalk | 1,538
 tamilmirrorlk | 2,141
-adaderanalk | 2,188
+adaderanalk | 2,189
 virakesarilk | 2,712
 dailymirrorlk | 2,786
-adaderanasinhalalk | 2,960
+adaderanasinhalalk | 2,961
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,276 (100.0%) of 18,276 articles have been extended.
+18,276 (100.0%) of 18,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### Hambantota International Port kicks of container operations
+
+*2024-04-10 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98555/hambantota-international-port-kicks-off-container-operations) · `en`
+
+The Hambantota International Port (HIP), in a landmark move, inaugurated its container transshipment service operated by the Mediterranean Shipping Company (MSC).
+
+MV ‘MSC Ingrid’ made her maiden call at HIP on Tuesday (09), discharging a total of 500 plus TEUs of transshipment containers to be connected to a second carrier, ‘MSC Sky 11’, expected to make a port call on 16 April.
+
+The first shipment of containers consigned to the regional multipurpose port on the east-west shipping route, originated from the Rotterdam Port and will reach its final destination, Dubai via the second carrier.
+
+Commenting in this regard, Johnson Liu, Chief Representative of China Merchants Group in Sri Lanka and CEO of Hambantota International Port Group (HIPG) expressed confidence that HIPG container transshipment service would enhance Sri Lanka’s position in the marine connectivity index for the South Asian region.
+
+...
+
+[Data](articles/0d33d29b.json)
+
+---
+
+### අලුත් අවුරුදු නැකැත් සීට්ටුව ජනපතිට පිළිගන්වයි
+
+*2024-04-10 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195509) · `si`
+
+සිංහල හා දෙමළ අලුත් අවුරුදු නැකැත් සීට්ටුව සාම්ප්‍රදායික චාරිත්‍රානුකූලව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත පිළිගන්වා තිබේ.
+
+සංස්කෘතික කටයුතු දෙපාර්තමේන්තුවේ රාජ්‍ය නැකැත් කමිටුව විසින් සකස් කරන ලද නිවැරදි නැකැත් සීට්ටුව එලෙස ජනාධිපතිවරයා වෙත පිළිගැන්වූ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+නැකැත් සීට්ටුව බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍ය විදුර වික්‍රමනායක මහතා විසින් ජනාධිපතිවරයා වෙත පිළිගැන්වීම සිදු කළේය.
+
+අලුත් අවුරුදු උදාව, පුණ්‍ය කාලය, ආහාර පිසීම, ලිප ගිනි දැල්වීම, ආහාර අනුභවය, හිසතෙල් ගෑම සහ නව වසරේ රැකියා සඳහා පිටත්ව යාම ආදී සුබ මුහුර්තයන් නැකත් සීට්ටුවට ඇතුළත්ය.
+
+◼️
+
+[Data](articles/b7c8b301.json)
+
+---
 
 ### The parents of the shotter's parents to jail
 
@@ -2283,45 +2319,5 @@ This landmark agreement marks a strategic collaboration between two influential 
 [Data](articles/1a031d98.json)
 
 [Extended Data](ext_articles/1a031d98.ext.json)
-
----
-
-### Vindhya Weerasekera appointed to RIL Property Board
-
-*2024-04-10 00:22:51* · [`dailyftlk`](https://www.ft.lk/business/Vindhya-Weerasekera-appointed-to-RIL-Property-Board/34-760507) · `en`
-
-RIL Property has announced the appointment of legal professional Vindhya Weerasekera to its Board as an Independent Non-Executive Director.
-
-Weerasekera is an Attorney-at-Law and was called to the Bar in 1997. She is a Bachelor of Laws (LLB) Graduate from the University of Colombo. She obtained her Master of Laws (LLM) in International Trade Law from the University of Wales.
-
-She has also obtained a Post Attorney Diploma in Intellectual Property Law from the Sri Lanka Law College in collaboration with the Asia Pacific Institute, Washington DC, USA.
-
-Vindhya began her career as a Junior Lawyer of Dr. K. Kanag-Isvaran, President’s Counsel. She has extensive experience of over 26 years in the legal and corporate sector in senior capacities including a multinational company. Vindhya is presently attached to the Colombo Port City Economic Commission in the capacity of Director Legal and Corporate Affairs of the Commission.
-
-...
-
-[Data](articles/54276ace.json)
-
-[Extended Data](ext_articles/54276ace.ext.json)
-
----
-
-### New Year, tough times and animal abuse - E
-
-*2024-04-10 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/New-Year-tough-times-and-animal-abuse-E/172-280493) · `en`
-
-We wish our readers a happy and bountiful New Year, as the country celebrates its cultural festival this month. On the 13th of this month, the two major communities in our country Tamils and the Sinhalese celebrate the Eastern or cultural New Year. Around the same time, our Muslim brothers and sisters celebrate Ramadan, while Christians celebrate Easter.
-
-The ‘Adhi Vasies’- also known as the ‘Veddahs’ also celebrate the New Year or ‘Kona Mangalaya’ during this time. Within the month all communities celebrate.
-
-This year too, since the Covid-19 pandemic hit our country in January 2020, New Year celebrations will be held on an austere basis. Over 500,000 persons lost employment due to the lockdowns imposed during that period.
-
-Making a bad situation worse, the financial meltdown in 2022 led the country to announce it was bankrupt. The country was thus deemed not credit-worthy by the world’s financial institutions.
-
-...
-
-[Data](articles/67ee24d8.json)
-
-[Extended Data](ext_articles/67ee24d8.ext.json)
 
 ---

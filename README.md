@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 01:18:26**
+As of **2024-04-11 01:33:55**
 
 ## Newspaper Stats
 
-*Scraped **18,360** Articles*
+*Scraped **18,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 1,001
 economynextcom | 1,027
 adalk | 1,545
 tamilmirrorlk | 2,149
-adaderanalk | 2,198
-virakesarilk | 2,734
+adaderanalk | 2,199
+virakesarilk | 2,735
 dailymirrorlk | 2,802
 adaderanasinhalalk | 2,973
 
@@ -26,21 +26,49 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,358 (100.0%) of 18,360 articles have been extended.
+18,360 (100.0%) of 18,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### அனைத்து தோஷங்களுக்கும் நிவர்த்தி தரும் செந்தலை ஸ்ரீ மீனாட்சி சுந்தரேஸ்வரர் ஆலயம்
+### கடைசிப் பந்தில் வெற்றியை சுவைத்தது குஜராத் : ராஜஸ்தானுக்கு முதல்  தோல்வியைக் கொடுத்தார் ராஷித் கான்
+
+*2024-04-11 01:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180943) · `ta`
+
+ஜெய்பூர் சவாய் மான்சிங் விளையாட்டங்கில் புதன்கிழமை (10) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 24ஆவது போட்டியில் ராஷித் கானின் அதிரடி ஆட்டத்தின் உதவியுடன் ராஜஸ்தான் றோயல்ஸை கடைசிப் பந்தில் 3 விக்கெட்களால் குஜராத் டைட்டன்ஸ் வெற்றிகொண்டது.
+
+இந்த வருட இண்டியன் பிறீமியர் லீக் கிரிக்கெட் போட்டியில் ராஜஸ்தான் றோயல்ஸ் அடைந்த முதலாவது தோல்வி இதுவாகும்.இந்தப் போட்டியில் தோல்வி அடைந்தபோதிலும் அணிகள் நிலையில் தொடர்ந்தும் ராஜஸ்தான் றோயல்ஸ் 8 புள்ளிகளுடன் முதலிடத்தில் இருக்கிறது.
+
+19ஆவது ஓவரில் ஆவேஷ் கான் வைட்கள், நோபோலுடன் கொடுத்த 20 ஓட்டங்களே குஜராத் டைட்டன்ஸின் வெற்றிக்கு திருப்பு முனையாக அமைந்தது.
+
+ராஜஸ்தான் றோயல்ஸினால் நிர்ணயிக்கப்பட்ட 197 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய குஜராத் டைட்டன்ஸ் 20 ஓவர்களில் 7 விக்கெட்களை இழந்து 199 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+
+கடைசிவரை மிகவும் பரபரப்பாக நடைபெற்ற இப் போட்டியில் ராகுல் தெவாட்டியாவும் ராஷித் கானும் 7ஆவது விக்கெட்டில் 14 பந்துகளில் 38 ஓட்டங்களை விளாசியதன் மூலம் குஜராத் டைட்டன்ஸ் வெற்றியீட்டியது.
+
+...
+
+[Data](articles/eddbf0ab.json)
+
+---
+
+### Sri Meenakshi Sundareswarar Temple
 
 *2024-04-11 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180942) · `ta`
 
-தற்போதைய போட்டிகளும், பொறாமைகளும் நிறைந்த சூழலில் அறிவிக்கப்பட்ட மற்றும் அறிவிக்கப்படாத சவால்களை நாளாந்தம் சந்திக்கும் எம்முடைய மக்கள்... தங்கள் வளர்ச்சிக்காக ஆன்மீக பெரியோர்களையோ அல்லது ஜோதிட நிபுணர்களையோ சந்திக்கும்போது வைக்கும் முதன்மையான கோரிக்கை அனைத்து பிரச்சினைகளுக்கும் ஒரே தீர்வாக ஏதாவது ஒரு ஆலயத்தை மட்டும் குறிப்பிடுங்கள். அதற்கு நாங்கள் சென்று வருகிறோம் என சொல்வர். இத்தகைய அன்பர்களுக்காக எம்முடைய முன்னோர்கள் சுட்டிக் காட்டி இருக்கும் தலம் தான் செந்தலை ஸ்ரீ மீனாட்சி சுந்தரேஸ்வரர் ஆலயம்.
+Sri Meenakshi Sundareswarar Temple, a spiritual haven for remedying doshas, offers blessings for marriage, wealth, and health. It's a place of worship for Lord Shiva, Vishnu, and Brahma, with a unique Panchamukha Shiva shrine. Devotees seek blessings here, especially on Ratha Saptami, for marriage, wealth, and health.
+
+🟩
+
+Our people who face the day -to -day challenges in the context of current competitions and jealousy.. Specify the only solution to all problems when the primary demand that meets spiritual elders or astrologers for their development is the only solution to all problems. We will say we are going to. The Sri Meenakshi Sundareswarar Temple is the site where our ancestors point out for such lovers.
+
+Some of our family members will have field dosa, Mars dosha, mangalya dosha. This will result in a marriage ban and the marriage is delayed. After doing many remedies, the wedding marriage is delayed by the delays. Others will have Saturn Dosham and Sukra Dosham as Navagraha Dosha. Others would have been infant. Others are stagnant in the same position without developing or developing in businesses. No matter how many doshas like this ... Sri Meenakshi Sundareswarar Temple is the place where all the doshas are remedied.
 
 ...
 
 [Data](articles/e68620dd.json)
+
+[Extended Data](ext_articles/e68620dd.ext.json)
 
 ---
 
@@ -97,6 +125,24 @@ Old Peteries won the Milroy Perera Memorial Bowl for the third consecutive time 
 ---
 
 ### 2024-04-10 (Wednesday)
+
+### “Wasath Siriya 2024”: State Sinhala & Tamil New Year festival on April 27
+
+*2024-04-10 23:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98563/wasath-siriya-2024-state-sinhala-tamil-new-year-festival-on-april-27) · `en`
+
+The “Wasath Siriya 2024” celebration for the Sinhala and Tamil New Year will take place on 27 April (Saturday) at Shangri-La Green, Galle Face, Colombo.
+
+This event, organized by the Welfare Society of the Presidential Secretariat along with other ministries, will be held from 7.00 a.m. to 5.00 p.m. with a number of New Year games and competitions.
+
+The festivities will continue with the “Wasath Siriya- Miyasi musical concert”, which will commence at 7:00 pm at the venue with the participation of famous singers.
+
+The competitions have been divided into three sections, namely State Section, Open Section, and Guest Section, and feature a total of 11 competitions for both men and women. These competitions are open to the staff members of ministries and government institutions, their family members, friends, and children.
+
+...
+
+[Data](articles/7ed404f9.json)
+
+---
 
 ### And more than 1,82,140 families
 
@@ -197,6 +243,8 @@ The fishermen issue is a contentious one in the ties between India and Sri Lanka
 ...
 
 [Data](articles/155462a1.json)
+
+[Extended Data](ext_articles/155462a1.ext.json)
 
 ---
 
@@ -2325,53 +2373,5 @@ The police have recovered the body and handed over the body to the Jaffna Bodhan
 [Data](articles/10de7ef8.json)
 
 [Extended Data](ext_articles/10de7ef8.ext.json)
-
----
-
-### Former President Maithree abroad
-
-*2024-04-10 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195501) · `si`
-
-MP Kavinda Jayawardena suspects former President Maithripala Sirisena is abroad, amid controversy over a statement on the Passover attack. Sirisena is accused of misleading the public and covering up the truth.
-
-🟩
-
-MP Kavinda Jayawardena says that there is suspicion that former President Maithripala Sirisena is abroad.
-
-Maithripala Sirisena has been involved in a controversial statement regarding the Passover attack.
-
-The demand was to investigate the statement to the CID today (10), he said this when he came to the Department today.
-
-"Former Maithripala Sirisena Sirisena, who is in one side, caught the mistake of knowing the Passover mastery on one side. On the other hand, he is a lie, if we are misled, whether it is possible to cover up the person responsible for the death of these innocent people,. He cannot escape from the statement. But we see him change those statements.
-
-Maithripala Sirisena, the country. Trying to mediate, he has to imagine. The fear of the martial arts have been so many in this country and has gone to Thailand. I personally feels that this is about. I immediately called him from law enforcement agencies to be taken up immediately. "
-
-◼️
-
-[Data](articles/48e00763.json)
-
-[Extended Data](ext_articles/48e00763.ext.json)
-
----
-
-### Sri Lanka minister declines to explain pardon sought for convicted monk
-
-*2024-04-10 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-declines-to-explain-pardon-sought-for-convicted-monk-158187/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s State Minister for Social Empowerment Anupa Pasqual, said that he does not have the authority to explain the reasons for a request to pardon for convicted monk Galagoda Aththe Gnanasara.
-
-The monk was sentenced to four years in prison with hard labour for hate speech against Muslims.
-
-Minister Pasqual asked for a pardon for the controversial monk in parliament earlier this month. “The monk had spoken about the acts of Muslim extremists, not the Muslim people. We don’t like the speech made by him about the Muslim community.”
-
-But this week in response to journalists’ questions on why he asked President Ranil Wickremesinghe to pardon the monk, he said “As a state minister, I do not have the authority to comment on this.”
-
-The monk had previously been serving a six year sentence for contempt of court before he was pardoned by former president Maithripala Sirisena in May 2019.
-
-...
-
-[Data](articles/663298c4.json)
-
-[Extended Data](ext_articles/663298c4.ext.json)
 
 ---

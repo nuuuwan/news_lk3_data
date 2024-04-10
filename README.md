@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 17:03:27**
+As of **2024-04-10 17:18:14**
 
 ## Newspaper Stats
 
-*Scraped **18,306** Articles*
+*Scraped **18,308** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 1,001
 economynextcom | 1,021
 adalk | 1,541
 tamilmirrorlk | 2,144
-adaderanalk | 2,191
+adaderanalk | 2,193
 virakesarilk | 2,721
 dailymirrorlk | 2,792
 adaderanasinhalalk | 2,965
@@ -26,11 +26,47 @@ adaderanasinhalalk | 2,965
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,305 (100.0%) of 18,306 articles have been extended.
+18,306 (100.0%) of 18,308 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### Counting underway in South Korea’s parliamentary elections
+
+*2024-04-10 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98559/counting-underway-in-south-koreas-parliamentary-elections) · `en`
+
+Vote counting is underway in South Korea as the country awaits the results of its parliamentary elections.
+
+The election is widely seen as a midterm referendum on President Yoon Suk Yeol’s administration, who still has three years left in office.
+
+His People Power Party (PPP) has struggled to achieve its agenda in a legislature dominated by the opposition Democratic Party (DPK).
+
+Mr Yoon is under pressure to address a number of issues including rising food prices, a rapidly aging population and an ongoing doctor’s strike.
+
+Exit polls are projecting that the opposition will secure a majority of the 300-seat parliament, though such polls have proved inaccurate in the past.
+
+In recent weeks, Mr Yoon been criticised for appearing to be out of touch with voters’ inflation woes. But the opposition has also faced similar criticism.
+
+...
+
+[Data](articles/99f7b038.json)
+
+---
+
+### Immunoglobulin scandal: Additional Health Secretary’s bail application rejected
+
+*2024-04-10 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98558/immunoglobulin-scandal-additional-health-secretarys-bail-application-rejected) · `en`
+
+The bail application filed by the Additional Secretary of the Health Ministry, who is allegedly complicit in the procurement of substandard human intravenous immunoglobulin (IVIG) vials, has been rejected.
+
+When Saman Ratnayake was produced before the Maligakanda Magistrate’s Court earlier today (10), Magistrate Lochani Abeywickrama ordered that the accused be further held in remand custody until the conclusion of the hearing.
+
+◼️
+
+[Data](articles/e8a6d2c9.json)
+
+---
 
 ### The police did not return the goods worth Rs.
 
@@ -598,25 +634,31 @@ Police Narcotics Research has already been investigated by the banking report of
 
 ---
 
-### අධිබල යතුරු පැදියක කොටස් ප්‍රවාහනය කළ කොස්තාපල්වරයෙක් අල්ලයි
+### A constable transport of shares of a herou motorcycle
 
 *2024-04-10 14:06:21* · [`adalk`](https://www.ada.lk/breaking_news/අධිබල-යතුරු-පැදියක-කොටස්-ප්‍රවාහනය-කළ-කොස්තාපල්වරයෙක්-අල්ලයි/11-409050) · `si`
 
-මෙරට පැදිම  තහනම් කර ඇති  අධි ධාරිතාවකින් යුතු 1000 CC වර්ගයේ යතුරුපැදියක කොටස් මෝටර් රථයකින් ප්‍රවාහනය කරමින් සිටි පොලිස් කොස්තාපල්වරයෙකු ඇතුළු තිදෙනෙකු මුල්ලේරියාව පොලිසිය මගින් අත්අඩංගුවට ගනු ලැබ ඇත.
+Three police constables, including a motorcycle, were arrested in a car in the country by the Mulleriyawa police. The constable was part of the Pothiya Police Station's special duties. The motorcycle was found during a suspicious vehicle operation. The suspects, including the constable, were involved in the car. The police are investigating further.
 
-අත්අඩංගුවට ගත් පොලිස් කොස්තාපල්වරයා පෑලියගොඩ පොලිස් ස්ථානයට අනුයුක්තව පූගොඩ පොලිස් ස්ථානයේ විශේෂ රාජකාරී සඳහා යොදවා සිටියා අයෙක් බවද පොලිසිය සඳහන් කරයි.
+🟩
 
-මුල්ලේරියාවේ පොලිස් කණ්ඩායමක් විශේෂ රාජකාරියක යෙදී සිටියදී ලද තොරතුරකට අනුව සැකකටයුතු මෝටර් රථයක් පරීක්ෂාවට ලක් කිරීමේදී,  ඉහත යතුරු පැදියේ කොටස් සොයාගෙන ඇති බව පොලිසිය සඳහන් කරයි.
+Three of the police constable, including a shares of a motorcycle in a car in the country, was arrested by the Mulleriyawa police.
 
-සිද්ධිය වන අවස්ථාවේදී මෝටර් රථයේ සැකකරුවන් තිදෙනෙකු ගමන් ගැන ඇති අතර ඉන්න එක සැකකරුවෙකු ඉහත පොලිස් කොස්තාපල්වරයා බවට අනාවරණය කරගෙන ඇත.
+The arrested police constable was attached to the Pothiya Police Station Special duties.
 
-සැකකරුවන් විසින් ඉහත යතුරුපැදිය කිසිවකුගෙන් සොරාගෙන හෝ නැතිනම් නීතියානුකූල නොවන අයුරින් මෙරටට ගෙන්වන ලද  එකක් බවට  සැක කරන කරන බව පොලිසිය පවසයි.
+Police said the motorcycle was found in the operation of a suspicious vehicle according to information that a police team was engaged in a special duties.
 
-ට  එහි කොටස් එකලස් කිරීමේ අදහසින් මෙලෙස ප්‍රවාහනය කර ඇති බව පොලිසිය සඳහන් කරයි. මුල්ලේරියාව පොලිසිය සිද්ධිය සම්බන්ධයෙන් පරීක්ෂණ පවත්වයි.
+Three suspects in the car have been involved in the car and had been revealed that the police constable was one of the suspects.
+
+The suspects will be stolen from anyone or not to import anyone else or imported.
+
+Police said the police said. Mulleriyawa police are conducting further investigations.
 
 ◼️
 
 [Data](articles/e8afee8d.json)
+
+[Extended Data](ext_articles/e8afee8d.ext.json)
 
 ---
 
@@ -2323,59 +2365,5 @@ Already, a large number of SLPP MPs have thrown their weight behind him while th
 [Data](articles/4621c70f.json)
 
 [Extended Data](ext_articles/4621c70f.ext.json)
-
----
-
-### Ramadan is today
-
-*2024-04-10 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195493) · `si`
-
-Ramadan Day celebrated today at Colombo Maha Church. Islamists fast for a month, focusing on good deeds. President Wickremesinghe highlights global Islamic fasting for good intentions. Over 7,000, including police and military, participate in Ramazan festival.
-
-🟩
-
-The Colombo Maha Church has announced that the Ramazan festival will celebrate the Ramadan Day today (10) due to the new moon.
-
-The Islamists fasted for a month and the month of the donation.
-
-Ramadan Day is considered to be the last day of Ramadan month, which is forgiven, and other kind activities.
-
-Meanwhile, President Ranil Wickremesinghe says that Islamicians in the world is fasting for a month and the intention of achieving good to others.
-
-The President points out that Ramadan celebrates Ramadan in general where our country is a better level of Sri Lanka.
-
-Meanwhile, Islam templates have been implemented in the Ramazan festival.
-
-Police said that more than 7,000 people, including the police, STF and the Armed Forces.
-
-◼️
-
-[Data](articles/21b77d05.json)
-
-[Extended Data](ext_articles/21b77d05.ext.json)
-
----
-
-### Care of fireworks
-
-*2024-04-10 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195492) · `si`
-
-The government asks for reduced fireworks use during Sinhala and Tamil New Year festivals, citing 17% of accidents as firework-related. Surgeon Sajith Ranatunga emphasizes the need for caution, especially outside highways, to prevent accidents.
-
-🟩
-
-The government requests the public to minimize the cases of the Sinhala and Tamil New Year festival of the Sinhala New Year festival.
-
-Survey reports reveal that 17% of the festive season is due to the use of fireworks and 17% of the survey reports have revealed that the use of essential crackers and fireworks.
-
-Specialist Surgeo Surgeon Surgeons Sajith Sajith Ranatunga said that the three-wheeler accidents and motorcycle accidents were not recovered from three-wheeler accidents and motorcycle accidents.
-
-Specialist Surgeons Sajith Ranatunga said that more of the fatal accidents in the country should take care of the drivers outside the highways.
-
-◼️
-
-[Data](articles/5eb2c9dd.json)
-
-[Extended Data](ext_articles/5eb2c9dd.ext.json)
 
 ---

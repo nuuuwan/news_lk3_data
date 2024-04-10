@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 15:52:23**
+As of **2024-04-10 16:05:11**
 
 ## Newspaper Stats
 
-*Scraped **18,288** Articles*
+*Scraped **18,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,46 +17,100 @@ islandlk | 1,001
 economynextcom | 1,021
 adalk | 1,539
 tamilmirrorlk | 2,142
-adaderanalk | 2,189
+adaderanalk | 2,190
 virakesarilk | 2,716
 dailymirrorlk | 2,788
-adaderanasinhalalk | 2,962
+adaderanasinhalalk | 2,963
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,285 (100.0%) of 18,288 articles have been extended.
+18,288 (100.0%) of 18,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### இன்றைய நாணய மாற்று விகிதம்
+### හෙට ගමේ ගියොත් තදබදය අඩු වෙයි
+
+*2024-04-10 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195512) · `si`
+
+අලුත් අවුරුදු නිවාඩුව වෙනුවෙන් හෙට (11) දිනයේ සිට ගම්බිම් බලා යෑමට පිරිස් කටයුතු කරන්නේ නම් තදබදයකින් තොරව ගමන් කිරීමට හැකි බව ලංකා පෞද්ගලික බස් හිමියන්ගේ සංගමයේ සභාපති ගැමුණු විජේරත්න පවසයි.
+
+එහිදී ඔහු වැඩිදුරටත් කියා සිටියේ 12 වනදා සවස් කාලය වනවිට බස් රථවල තදබදයක් ඇති වියහැකි බවය.
+
+පුණ්‍ය කාලය එළඹෙන තෙක් සාමාන්‍ය පරිදි බස් රථ ධාවනය කරන බවද ගැමුණු විජේරත්න තවදුරටත් පැවසීය.
+
+අවුරුදු සමය වෙනුවෙන් ගමනා ගමන කොමිෂන් සභාවේ ඉල්ලීම මත අවශ්‍යතාවය අනුව අතිරේක බස් රථ යෙදවීමට කටයුතු සූදානම් කර තිබේ.
+
+එළඹෙන 15 වනදා සිට ජනතාවට නැවත කොළඹ ට පැමිණීමට බස් රථ යෙදවීමට ද සැලසුම් කර ඇත.
+
+◼️
+
+[Data](articles/c590e0ff.json)
+
+---
+
+### Nobel-winning ‘God particle’ physicist Peter Higgs dies aged 94
+
+*2024-04-10 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98556/nobel-winning-god-particle-physicist-peter-higgs-dies-aged-94) · `en`
+
+British physicist Peter Higgs, whose theory of a mass-giving particle – the so-called Higgs boson – jointly earned him the Nobel Prize for Physics, has died aged 94, the University of Edinburgh announced on Tuesday.
+
+“He passed away peacefully at home on Monday 8 April following a short illness,” the Scottish university, where he had been a professor for nearly five decades, said in a statement.
+
+It called him “a great teacher and mentor, inspiring generations of young scientists”.
+
+“His family has asked that the media and public respect their privacy at this time,” the university added.
+
+Higgs used ground-breaking theoretical work to help explain how the Universe has mass, thus resolving one of the greatest puzzles in physics and earning him a place alongside Albert Einstein and Max Planck in textbooks.
+
+His 1964 theory of a mass-giving particle, which became known as the Higgs boson or the “God particle”, won him and Belgian physicist Francois Englert the 2013 physics Nobel Prize.
+
+...
+
+[Data](articles/82f89185.json)
+
+---
+
+### Today's currency exchange rate
 
 *2024-04-10 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180919) · `ta`
 
-இன்று புதன்கிழமை (ஏப்ரல் 10) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 293.6852 ஆகவும் விற்பனை விலை ரூபா 303.3335 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On April 10, the US dollar was bought for Rs 293.6852 and sold for Rs 303.335.
+
+🟩
+
+The US dollar purchasing price was Rs 293.6852 and the sales price were Rs 303.335, based on the Central Bank's currency exchange rate on Wednesday (April 10).
 
 ◼️
 
 [Data](articles/baf25f94.json)
 
+[Extended Data](ext_articles/baf25f94.ext.json)
+
 ---
 
-### திங்கட்கிழமை அரசாங்க வெளியீட்டு அலுவலகத்தின் விற்பனை பிரிவு மூடப்படும்
+### The sales division of the Government Release Office will be closed on Monday
 
 *2024-04-10 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180917) · `ta`
 
-நாரஹேன்பிட்டியில் உள்ள அரசாங்க வெளியீட்டு அலுவலகத்தின் விற்பனை பிரிவு இம்மாதம் 15 ஆம் திகதி மூடப்படும் என அரசாங்க தகவல் திணைக்களம் இன்று புதன்கிழமை (10) அறிவித்துள்ளது.
+The Government Release Office's sales division will close on Monday, but the state release stall will remain open on Tuesday. This closure is due to stockpiling and maintenance.
 
-கையிருப்பு மற்றும் சில உள் பராமரிப்பு நடவடிக்கைகள் காரணமாக இந்த முடிவு எடுக்கப்பட்டுள்ளது.
+🟩
 
-எனினும், மறுநாள் செவ்வாய்க்கிழமை  (16) வழக்கம்போல் அரச வெளியீட்டு விற்பனை நிலையம்  திறக்கப்படும் என அறிவிக்கப்பட்டுள்ளது.
+The Government Information Department announced on Wednesday (10) that the sales unit of the Government Publication Office in Narahenpita will be closed on the 15th of this month.
+
+This decision has been made due to stockpile and some internal maintenance activities.
+
+However, it has been announced that the state release stall will be opened as usual on Tuesday (16) the next day.
 
 ◼️
 
 [Data](articles/4a4cac90.json)
+
+[Extended Data](ext_articles/4a4cac90.ext.json)
 
 ---
 
@@ -112,19 +166,29 @@ The official said the Minister called her for a meeting at the Ministry and thre
 
 ---
 
-### இறுதி நேரத்தில்   முதலாளிமார் வரவில்லை: கடுப்பானார் செந்தில்
+### Employers did not come in the final time: Senthil
 
 *2024-04-10 15:07:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இறுதி-நேரத்தில்-முதலாளிமார்-வரவில்லை-கடுப்பானார்-செந்தில்/76-335821) · `ta`
 
-தோட்டத் தொழிலாளர்களின் சம்பள அதிகரிப்புக்கு  இ.தொ.கா தொடர்ச்சியாக  அழுத்தம் கொடுத்து வரும் நிலையில் இன்றைய தினம் சம்பள நிர்ணய சபையில் நடைபெறவிருந்த பேச்சுவார்த்தைக்கு இறுதி நேரத்தில் முதலாளிமார் சம்மேளனம் வருகை தராது தங்களது அழற்சிய போக்கை வெளிப்படுத்தியுள்ளமைக்கு இ.தொ.கா தலைவர் செந்தில் தொண்டமான் கடுமையாக கண்டனத்தை வெளியிட்டுள்ளார்.
+Senthil Thondaman, CWC leader, criticizes employers for not negotiating plantation workers' salary increase. The Employers Federation is negotiating with the salary council. Thondaman warns of trade union action if no solution is found. The CWC opposes the Employers Federation's approach, preparing to support plantation workers.
 
-தோட்ட தொழிலாளர்களின் சம்பள அதிகரிப்பு விடயத்தில் சம்பள நிர்ணய சபை ஊடாக  தீர்வு எட்டப்படும் நிலையில், முதலாளிமார் சம்மேளனம் பேச்சுவார்த்தைக்கு வருகை தராது அசமந்த போக்கில் செயற்பட்டு வருகிறது.
+🟩
 
-தோட்ட தொழிலாளர்களின் விடயத்தில் உரிய தீர்வு கிடைகாவிடின் இ.தொ.கா கடும் தொழிற்சங்க நடவடிக்கையில் ஈடுபடும் என முதலாளிமார் சம்மேளனத்திற்கு செந்தில் தொண்டமான் எச்சரிக்கையும்  விடுத்துள்ளார்.
+CWC leader Senthil Thondaman has strongly condemned the CWC's continuous pressure on the salary increase of plantation workers.
 
-...
+The Employers Federation is in the process of negotiating with the salary council on the salary increase of plantation workers.
+
+Senthil Thondaman has also warned the employers' federation that the CWC will engage in heavy trade union if there is no proper solution to the plantation workers.
+
+This is the best example of how the Employers Federation, which adopts the government -appointed salary council, will approach the problems of plantation workers in the plantation workers.. This is why the CWC adopts their actions against their actions.
+
+They have no agreement with a salary increase. Senthil Thondaman said that the struggle against the CWC employers' federation is being prepared for the welfare of the plantation workers.
+
+◼️
 
 [Data](articles/f0de30a1.json)
+
+[Extended Data](ext_articles/f0de30a1.ext.json)
 
 ---
 
@@ -2307,35 +2371,5 @@ Current media coverage in Sri Lanka is heavily focused on the forthcoming Presid
 [Data](articles/45db6626.json)
 
 [Extended Data](ext_articles/45db6626.ext.json)
-
----
-
-### Peak state capitalism – what’s next?
-
-*2024-04-10 01:27:08* · [`dailyftlk`](https://www.ft.lk/columns/Peak-state-capitalism-what-s-next/4-760529) · `en`
-
-The limits of state capitalism are visible worldwide, from China, Sri Lanka, Egypt, and Nigeria to Ukraine. Globally, state-owned enterprises’ assets are worth the equivalent of half the global GDP, while government-owned real estate is worth twice that amount. Decades of research, including from the IMF, have shown that government-owned businesses are, on average, one-third less productive than private firms. This is hampering financial sector reform and the efficient allocation of capital, leading to constrained economic development and growth.
-
-...
-
-[Data](articles/7b28b875.json)
-
-[Extended Data](ext_articles/7b28b875.ext.json)
-
----
-
-### Sustained debt reduction: The Jamaica exception
-
-*2024-04-10 01:23:58* · [`dailyftlk`](https://www.ft.lk/opinion/Sustained-debt-reduction-The-Jamaica-exception/14-760528) · `en`
-
-This article is part of the spring 2024 edition of the Brookings Papers on Economic Activity, the leading conference series and journal in economics for timely, cutting-edge research about real-world policy issues. Research findings are presented in a clear and accessible style to maximise their impact on economic understanding and policymaking. The editors are Brookings Nonresident Senior Fellows Janice Eberly and Jón Steinsson
-
-www.brookings.edu: At a time when many countries, large and small, are confronting heavy and growing public debt burdens, Jamaica offers a rare example of a country that succeeded in substantially reducing its debt, according to a paper discussed at the Brookings Papers on Economic Activity (BPEA) conference on 28 March.
-
-...
-
-[Data](articles/2d3e5228.json)
-
-[Extended Data](ext_articles/2d3e5228.ext.json)
 
 ---

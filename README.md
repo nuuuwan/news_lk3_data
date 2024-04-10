@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 19:18:17**
+As of **2024-04-10 19:33:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,331 (100.0%) of 18,334 articles have been extended.
+18,334 (100.0%) of 18,334 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,6 +67,8 @@ MP Alahapperuma said former Presidents Mahinda Rajapaksa, Chandrika Bandaranaike
 ◼️
 
 [Data](articles/060e82ba.json)
+
+[Extended Data](ext_articles/060e82ba.ext.json)
 
 ---
 
@@ -733,6 +735,8 @@ The seminar, attended by dignitaries including State Minister of Defence Pramith
 ...
 
 [Data](articles/229c9320.json)
+
+[Extended Data](ext_articles/229c9320.ext.json)
 
 ---
 

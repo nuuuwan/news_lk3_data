@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 19:03:15**
+As of **2024-04-10 19:18:17**
 
 ## Newspaper Stats
 
-*Scraped **18,331** Articles*
+*Scraped **18,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,54 @@ adalk | 1,542
 tamilmirrorlk | 2,147
 adaderanalk | 2,194
 virakesarilk | 2,726
-dailymirrorlk | 2,795
+dailymirrorlk | 2,798
 adaderanasinhalalk | 2,969
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,330 (100.0%) of 18,331 articles have been extended.
+18,331 (100.0%) of 18,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### ஏப்ரல் 15ஆம் திகதி பொது விடுமுறையாக அறிவிப்பு
+### Announced as a public holiday on April 15
 
 *2024-04-10 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180935) · `ta`
 
-ஏப்ரல் 15 ஆம் திகதி பொது விடுமுறையாக பொது நிர்வாக அமைச்சினால் அறிவிக்கப்பட்டுள்ளது.
+The Public Administration Ministry declared April 15 a public holiday due to the National Oil Anointing.
 
-தேசிய எண்ணெய் அபிஷேகம் திங்கட்கிழமை (15) நடைபெறவுள்ள நிலையில் இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக பொதுநிர்வாக, உள்நாட்டலுவல்கள், மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சின் செயலாளர் பிரதீப் யசரத்ன தெரிவித்துள்ளார்.
+🟩
+
+The Public Administration Ministry has been announced on April 15 as a public holiday.
+
+Pradeep Yasaratne, Secretary of the Ministry of Home Affairs, Provincial Councils and Local Government, said that the decision was taken as the National Oil Anointing was to be held on Monday (15).
 
 ◼️
 
 [Data](articles/a1210b3e.json)
+
+[Extended Data](ext_articles/a1210b3e.ext.json)
+
+---
+
+### Four former Presidents should bow out of politics: Dullas
+
+*2024-04-10 18:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Four-former-Presidents-should-bow-out-of-politics-Dullas/108-280566) · `en`
+
+Colombo, April 10 (Daily Mirror) - The four former Presidents who are in active politics should bow out for their own benefit and for the sake of the people, MP Dullas Alahapperuma said today.
+
+MP Alahapperuma said former Presidents Mahinda Rajapaksa, Chandrika Bandaranaike Kumaratunga, Maithripala Sirisena and Gotabaya Rajapaksa should keep away from active politics.
+
+"Keeping away from politics is good for their own health and for the sake of the people. Public funds which are spent on them should not be used for any political matter," the MP said.
+
+"Only one time US President John Quincy Adams contested for the US Congress. He is the only foreign head of state to remain in politics after his retirement from the post, he added.
+
+◼️
+
+[Data](articles/060e82ba.json)
 
 ---
 
@@ -693,6 +717,22 @@ An official said in an international court that Germany is providing humanitaria
 [Data](articles/25c6d3ec.json)
 
 [Extended Data](ext_articles/25c6d3ec.ext.json)
+
+---
+
+### India remains SL’s most reliable, dependable partner: Indian Envoy
+
+*2024-04-10 15:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/India-remains-SLs-most-reliable-dependable-partner-Indian-Envoy/155-280564) · `en`
+
+Colombo, Aprl 10 (Daily Mirror) - India will remain Sri Lanka’s most reliable friend and a trusted and dependable partner, emphasized Indian High Commissioner to Sri Lanka Santosh Jha.
+
+"Our bilateral cooperation is expanding and diversifying. It is buttressed by India’s growing national capabilities. We now cooperate in a wider range of areas including infrastructure and connectivity, deeper economic engagement, trade and investment, culture and education, tourism and people-to-people ties,” stated the High Commissioner during the Second Seminar on India-Sri Lanka Defence Seminar held in Colombo.
+
+The seminar, attended by dignitaries including State Minister of Defence Pramitha Bandara Tennakoon, Chief of Defence Staff Gen. Shavendra Silva, Commanders of the Sri Lanka Navy and Air Force, senior officials from the Sri Lankan Armed Forces, and Indian delegates led by Additional Secretary from the Ministry of Defence, Anurag Bajpai, emphasized the Defence relations between the two nations.
+
+...
+
+[Data](articles/229c9320.json)
 
 ---
 
@@ -2349,47 +2389,5 @@ The government expects to include 24 million families to the welfare benefit pro
 [Data](articles/0c7123d9.json)
 
 [Extended Data](ext_articles/0c7123d9.ext.json)
-
----
-
-### We will rise up as the only Sri Lankan nation of brotherhood - Anura Kumara
-
-*2024-04-10 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180869) · `ta`
-
-Anura Kumara Dissanayake greets the Sri Lankan Islamic community on the birth of Ramadan, expressing good wishes and highlighting the importance of brotherhood and unity. He emphasizes the significance of Ramadan in fostering humanitarian values and criticizes the corrupt political system, calling for a rejection of its divisive tactics.
-
-🟩
-
-Ramadan, who refers to the completion of the fasting period for a month by the Islamic servants, was born on the 10th of this month.. Anura Kumara Dissanayake said in a greeting message that the National People's Power expresses its good wishes to the Sri Lankan Islamic servants who are united to celebrate the majority.
-
-The purpose of Ramadan is to take advantage of the wealth that has been patient in everyday life and helps their brothers and people to save through fasting for a month.. The Ramadan cult is a trying to bring back the humanitarian and common good characteristic of humans by the present -day corrupt social system.
-
-...
-
-[Data](articles/e44cc196.json)
-
-[Extended Data](ext_articles/e44cc196.ext.json)
-
----
-
-### Sri Lanka President does not want to create election mentality amid reforms: state minister
-
-*2024-04-10 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-does-not-want-to-create-election-mentality-amid-reforms-state-minister-158105/) · `en`
-
-ECONOMYNEXT – Sri Lanka Presiednt Ranil Wickremesinghe does not want to create an election mentality earlier than the declaration by Election Commission amid the current reforms to strengthen a battered economy, State Media Minister Shantha Bandara said.
-
-Election Commission (EC) officials have said a presidential election is likely to be held between September 18 and October 18 this year as per the island nation’s constitution.
-
-President Wickremesinghe is expected to contest in a common alliance with the backing of some opposition party strongmen. However, he has not declared his candidacy yet.
-
-“We still have not given a major focus on the elections. The reason is because there are several months remaining before the election,” Bandara told reporters at a media briefing on Tuesday (08).
-
-“President and we expect to take the current (reform) program as it is without creating an election mentality,” he said.
-
-...
-
-[Data](articles/50da89c0.json)
-
-[Extended Data](ext_articles/50da89c0.ext.json)
 
 ---

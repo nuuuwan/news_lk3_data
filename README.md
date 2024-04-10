@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 21:34:10**
+As of **2024-04-10 21:53:11**
 
 ## Newspaper Stats
 
-*Scraped **18,346** Articles*
+*Scraped **18,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,59 @@ economynextcom | 1,027
 adalk | 1,545
 tamilmirrorlk | 2,148
 adaderanalk | 2,195
-virakesarilk | 2,727
+virakesarilk | 2,728
 dailymirrorlk | 2,801
-adaderanasinhalalk | 2,971
+adaderanasinhalalk | 2,972
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,346 (100.0%) of 18,346 articles have been extended.
+18,346 (100.0%) of 18,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### පොලිස් පහරදීමකින් තරුණයෙකුට වෘෂණ කෝෂයක් අහිමි වෙලා ?
+
+*2024-04-10 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195522) · `si`
+
+මැදවච්චිය පොලීසියේ නිලධාරීන් පිරිසක් සිදුකළ පහරදීමක් නිසා සිය පුතුගේ වෘෂණ කෝෂයක් සැත්කමකින් ඉවත් කිරීමට සිදුවූ බවට ඔහුගේ මව චෝදනා කරයි.
+
+පොලීසිය පවසන්නේ තරුණයාට පහර නොදුන් අතර ඔහු අත්අඩංගුවට ගැනීමට යාමේදී ඔහු කළහකාරී ලෙස හැසිරුණු බවය.
+
+අනුරාධපුර, මැදවච්චිය තුලාවේලි ගම්මානයේ පදිංචි 23 හැවිරිදි තරුණයෙකු සිය මිතුරෙකු සමග ලොරි රථයකින් මැදවච්චිය නගරය බලා ගොස් තිබුණේ පසුගිය 07 වනදාය.
+
+එම අවස්ථාවේ ලොරිය පිටුපසින් හඹා ආ මැදවච්චිය පොලීසියේ රථවාහන අංශයේ නිලධාරීන් දෙදෙනකු එම ලොරි රථය නවතා සිය පුතුට හා මිතුරාට පහරදුන් බව තරුණයාගේ මව පවසන්නීය.
+
+ඇය චෝදනා කරන්නේ පහරකෑමෙන් සිදුවූ බරපතළ තුවාල නිසා සිය පුතුගේ වෘෂණ කෝෂයක් ද සැත්කමකින් ඉවත් කිරීමට සිදුවූ බවය.
+
+ඔහු පවසන්නේ ත්‍රීරෝද රථයකින් එම ස්ථානයට පැමිණි පොලිස් නිලධාරීන් පිරිසක්ද තමාට සහ මිතුරාට බරපතළ ලෙස පහරදුන් බවය.
+
+සිද්ධිය සම්බන්ධයෙන් අප විමසූ විට මැදවච්චිය පොලීසිය සඳහන් කළේ තරුණයින් දෙදෙනා ගමන් ගත් ලොරි රථය නවත්වන ලෙසට අණ කළ ද ඔවුන් අඛණ්ඩව ඉදිරියට ධාවනය කිරීම නිසා හඹාගොස් අත්අඩංගුවට ගැනීමට සිදුවූ බවය.
+
+...
+
+[Data](articles/dde8619c.json)
+
+---
+
+### இஸ்ரேலின் தாக்குதலில் ஹமாஸ் தலைவரின்  புதல்வர்கள் பலி
+
+*2024-04-10 21:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180937) · `ta`
+
+காசாவில் இஸ்ரேல் மேற்கொண்ட தாக்குதலில் தனது மூன்று புதல்வர்களும் பேரனும் கொல்லப்பட்டுள்ளதை ஹமாஸ் தலைவர் இஸ்மாயில் ஹனியே உறுதிசெய்துள்ளார்.
+
+இஸ்ரேலிய இராணுவம் தங்கள் குடும்பத்தவர்களை கொலை செய்கின்றது என்பதற்காக ஹமாஸ் தலைவர்கள் பின்வாங்கமாட்டார்கள் என குறிப்பிட்டுள்ள அவர் இது  யுத்த நிறுத்த பேச்சுவார்த்தைகளிற்கான ஹமாசின் வேண்டுகோள்களை பாதிக்காது எனவும் தெரிவித்துள்ளார்.
+
+தனது குடும்பத்தின் மீதான தாக்குதல் இஸ்ரேலின் தோல்வியை வெளிப்படுத்துகின்றது என தெரிவித்துள்ள ஹமாஸின் தலைவர் எனது பிள்ளைகளின் இரத்தம் பாலஸ்தீன மக்களின் பிள்ளைகளை விட பெறுமதியானது இல்லை எனவும் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/b53ec698.json)
+
+---
 
 ### U.S assures unwavering commitment to supporting Sri Lanka’s security and sovereignty
 
@@ -2353,53 +2393,5 @@ The police have recovered the body and handed over the body to the Jaffna Bodhan
 [Data](articles/b25fc95f.json)
 
 [Extended Data](ext_articles/b25fc95f.ext.json)
-
----
-
-### PHI Union gripped by fear following Treasurer’s death
-
-*2024-04-10 10:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/PHI-Union-gripped-by-fear-following-Treasurers-death/108-280553) · `en`
-
-Colombo, April 10 (Daily Mirror)- In the wake of the tragic death of Treasurer of the Public Health Inspectors' Union, Roshan Kumara Vithanage, the Public Health Inspectors are in cold sweat hindering their ability to carry out responsibilities effectively.
-
-Roshan Kumara was shot dead at his house in Elpitiya in February leaving doubts of the motive behind his death.
-
-Speaking to Daily Mirror, PHI union Head Upul Rohana said a significant number of PHIs feel insecure and fearful in the performance of their duties in light of the tragic incident.
-
-Despite assurances from the Inspector General of Police that investigations have been handed over to the Criminal Investigation Department (CID) and the Special Task Force (STF), Rohana lamented the lack of progress in the case thus far.
-
-Roshan Kumara Vithanage, the deceased PHI, had been involved in handling several serious legal cases and had uncovered alarming revelations regarding establishments selling rotten food.
-
-...
-
-[Data](articles/2e6f29aa.json)
-
-[Extended Data](ext_articles/2e6f29aa.ext.json)
-
----
-
-### The music release of the film 'Gugan' starring Gugan Emperor
-
-*2024-04-10 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/180879) · `ta`
-
-Gugan Emperor's film 'Bay of Bengal' premiered in Chennai, featuring music by Shanmugasundaram Prabhakar and Snegan, with special guests Karunananda Swamis. The film, directed by debutant Kugan Chakravartiyar, highlights Abdul Kalam's dreams and encourages viewers to aspire beyond their circumstances.
-
-🟩
-
-Currently, there are many new sections for creating a work in the film industry and films are ready for international standards.
-
-In this case, he has learned all the divisions needed to make a film and has produced and directed the film titled 'Bay of Bengal'
-
-Gugan is the emperor. The music release of the film was held in Chennai. During this time, the author Shanmugasundaram. Prabhakar, songwriter Snegan and Karunananda Swamis participated as special guests.
-
-Speaking at the time, the film's director, Gugan Chakravarthy, said, “The film has developed the idea of dreaming of the late former Indian President Abdul Kalam.
-
-Don't live like us. The highlight of the film is to say that they are like them. At the end of the film, I am making a request for the Chief Minister of Tamil Nadu. We have worked hard and created the image. Congratulations. ”
-
-...
-
-[Data](articles/05bd0620.json)
-
-[Extended Data](ext_articles/05bd0620.ext.json)
 
 ---

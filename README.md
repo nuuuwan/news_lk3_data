@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 23:53:02**
+As of **2024-04-11 00:21:45**
 
 ## Newspaper Stats
 
-*Scraped **18,355** Articles*
+*Scraped **18,356** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 1,001
 islandlk | 1,001
 economynextcom | 1,027
 adalk | 1,545
-tamilmirrorlk | 2,148
+tamilmirrorlk | 2,149
 adaderanalk | 2,197
 virakesarilk | 2,731
 dailymirrorlk | 2,802
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,355 (100.0%) of 18,355 articles have been extended.
+18,355 (100.0%) of 18,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### மேலும் 1,82,140 குடும்பங்களுக்கு அஸ்வெசும
+
+*2024-04-10 23:22:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-1-82-140-குடும்பங்களுக்கு-அஸ்வெசும/175-335840) · `ta`
+
+மேன்முறையீடுகளும் ஆட்சேபனைகளும் பரிசீலனை செய்யப்பட்டதன் பின்னர் அஸ்வெசும கொடுப்பனவை பெறுவதற்கு மேலும் 1,82,140 குடும்பங்கள் தகுதி பெற்றுள்ளதாக நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்துள்ளார்.
+
+இவர்களுக்கான நிலுவைத்தொகை உள்ளிட்ட அனைத்து கொடுப்பனவுகளையும் ஏப்ரல் மாதம் 18 ஆம் திகதியாகும்போது வங்கிக் கணக்குகளில் வைப்பிலிடுவதாக அவர் தெரிவித்துள்ளார்.
+
+இதற்கமைய, 18,54,000 பேர் தற்போது அஸ்வெசும கொடுப்பனவை பெறுவதுடன், அதற்காக 58.5 பில்லியன் ரூபா செலவிடப்படுவதாக நிதி இராஜாங்க அமைச்சர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/8dae46c5.json)
+
+---
 
 ### Congenital adrenal hyperplasia
 
@@ -2355,31 +2371,5 @@ He said that with the surge in deliveries expected during this festive period, e
 [Data](articles/f7158e4e.json)
 
 [Extended Data](ext_articles/f7158e4e.ext.json)
-
----
-
-### CWC leader Senthil Thondaman who has been severely warned of the Employers Federation of Estate workers' salary talks
-
-*2024-04-10 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180882) · `ta`
-
-CWC leader Senthil Thondaman warns the Employers Federation of Estate workers' salary talks, condemns CWC's pressure on plantation workers' salary increase, and threatens heavy trade union action if no solution is found.
-
-🟩
-
-CWC leader Senthil Thondaman has strongly condemned the CWC's continuous pressure on the salary increase of plantation workers.
-
-The Employers Federation is in the process of negotiating with the salary council on the salary increase of plantation workers.
-
-Senthil Thondaman has also warned the employers' federation that the CWC will engage in heavy trade union if there is no proper solution to the plantation workers.
-
-This is the best example of how the Employers Federation, which adopts the government -appointed salary council, will approach the problems of plantation workers in the plantation workers.. This is why the CWC adopts their actions against their actions.
-
-They have no agreement with a salary increase. Senthil Thondaman said that the struggle against the CWC employers' federation is being prepared for the welfare of the plantation workers.
-
-◼️
-
-[Data](articles/0c432700.json)
-
-[Extended Data](ext_articles/0c432700.ext.json)
 
 ---

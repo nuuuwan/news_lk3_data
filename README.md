@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 23:18:16**
+As of **2024-04-10 23:34:01**
 
 ## Newspaper Stats
 
@@ -26,23 +26,31 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,353 (100.0%) of 18,355 articles have been extended.
+18,355 (100.0%) of 18,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### பிறவி அட்ரீனல் ஹைப்பர்பிளேசியா எனும் சுரப்பியில் ஏற்படும் பாதிப்பிற்குரிய நவீன சிகிச்சை
+### Congenital adrenal hyperplasia
 
 *2024-04-10 22:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180939) · `ta`
 
-எம்மில் சிலருக்கு பிறவிலேயே அட்ரீனல் எனப்படும் சுரப்பியில் குறைபாடு உண்டாகி இருக்கும். இதனை மருத்துவ மொழியில் கான்ஜினென்டல் அட்ரீனல் ஹைபர்பிளாஸியா என குறிப்பிடுவர். இதற்கு தற்போது நவீன மருத்துவ சிகிச்சைகள் மூலம் முழுமையான நிவாரணம் கிடைக்கிறது என மருத்துவர்கள் தெரிவிக்கிறார்கள்.
+Congenital Adrenal Hyperplasia (CAH) is a genetic disorder affecting the adrenal glands, leading to hormone imbalances. Symptoms include irregular menstrual cycles, fertility issues, and acne. Diagnosis involves prenatal testing, and treatment includes medication, nutritional support, and in some cases, surgery.
 
-ஒவ்வொருடைய உடலிலும் சிறுநீரகத்தின் மேல் பகுதியில் சிறிய அளவில் சுரப்பி ஒன்று இருக்கும். அதற்கு அட்ரீனல் சுரப்பி என பெயர். இந்த சுரப்பி பல்வேறு ஹோர்மோன்களையும் சுரக்கிறது. நோய் எதிர்ப்பு சக்தி, வளர்ச்சிதை மாற்றம், அத்தியாவசிய செயல்பாடு என பல்வேறு விடயங்களில் இதனுடைய ஹோர்மோன் உதவி செய்கிறது. இத்தகைய ஹோர்மோன் சுரப்பியின் செயல்பாடு- செயல்பாட்டில் சிலருக்கு பிறக்கும்போதே குறைபாடு உண்டாகும்.
+🟩
+
+Some of us have a lack of adrenal in the gland. This is referred to as Conjinal Adrenal Hyperplasia in the medical language. Doctors say that this is currently being relieved of modern medical treatments.
+
+The upper part of the kidney in each body has a small amount of gland. It is the name of the adrenal gland. This gland also secretes various hormones. Its hormone helps in a variety of matters such as immunity, metabolism, and essential activity. Such hormone gland function- Some people in the process are defective.
+
+Doctors report such a damage due to genetic impaired. Such a defect occurs in two types of classic and I classic. Doctors report that classic type is rare and I often occur in the classic type of people between the ages of 5 to 15 years.
 
 ...
 
 [Data](articles/44cb8391.json)
+
+[Extended Data](ext_articles/44cb8391.ext.json)
 
 ---
 
@@ -59,6 +67,8 @@ He said Sajith Premadasa declined the debate challenge for undisclosed reasons a
 ...
 
 [Data](articles/77541eae.json)
+
+[Extended Data](ext_articles/77541eae.ext.json)
 
 ---
 

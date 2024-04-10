@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 08:05:59**
+As of **2024-04-10 08:18:22**
 
 ## Newspaper Stats
 
-*Scraped **18,202** Articles*
+*Scraped **18,203** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 2,129
 adaderanalk | 2,181
 virakesarilk | 2,690
 dailymirrorlk | 2,780
-adaderanasinhalalk | 2,947
+adaderanasinhalalk | 2,948
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,201 (100.0%) of 18,202 articles have been extended.
+18,202 (100.0%) of 18,203 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### තැපෑල 12ත් වැඩ
+
+*2024-04-10 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195494) · `si`
+
+අප්‍රේල් 12 වැනිදා රජයේ නිවාඩු දිනයක් වුවත් එදින රාජකාරි කිරීමට තැපැල් සේවකයන් එකඟතාවය පළකර ඇති බව ජනමාධ්‍ය රාජ්‍ය අමාත්‍ය ශාන්ත බණ්ඩාර මහතා පවසයි.
+
+ඔහු සඳහන් කළේ, අලුත් අවුරුදු සමයට අදාලව මධ්‍යම තැපැල් හුවමාරුවට ලැබී ඇති ඉතිහාසයේ වැඩිම භාණ්ඩ ප්‍රමාණය ප්‍රමාදයකින් තොරව බෙදාහැරීම සඳහා සියලු කටයුතු සූදානම් කර ඇති බවය.
+
+"ඉතිහාසයේ වැඩිම භාණ්ඩ ප්‍රමාණයක් තැපැල් දෙපාර්තමේන්තුවට, මධ්‍යම තැපැල් හුවමාරුවට ලැබුණු වසර මේ වසර. විදෙස් රටවල ඉන්න පිරිස් අපේ රටේ ඥාතීන්ට විශාල භාණ්ඩ ප්‍රමාණයක් පාර්සල් ලෙස එවලා. අපේ වගකීම ඒ භාණ්ඩ නිසි වෙලාවට ඒ අදාළ තැනට යොමු කිරීම. අපිට විශාල ප්‍රශ්නයක් වුණා අවුරුදු කාලේ එන දීර්ඝ නිවාඩු. ඒ අනුව තැපැල්පතිතුමාගේ උපදෙස් මත සියලුදෙනා තීරණය කරලා තියෙනවා 12 වෙනිදාත් සේවයට වාර්තා කරන්න. රේගු නිලධාරීනුත් අපිට සහාය දෙන බවට දැනුම්දීලා තියෙනවා."
+
+◼️
+
+[Data](articles/4aad02d1.json)
+
+---
 
 ### President restricts foreign travel for Govt. members as party gears up for presidential polls
 
@@ -49,6 +65,8 @@ Already, a large number of SLPP MPs have thrown their weight behind him while th
 ...
 
 [Data](articles/4621c70f.json)
+
+[Extended Data](ext_articles/4621c70f.ext.json)
 
 ---
 
@@ -2207,23 +2225,5 @@ Meanwhile, the Health Ministry also expressed that recognizing the importance of
 [Data](articles/27d02295.json)
 
 [Extended Data](ext_articles/27d02295.ext.json)
-
----
-
-### First school term ends tomorrow
-
-*2024-04-09 16:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-school-term-ends-tomorrow/108-280477) · `en`
-
-Colombo, April 09 (Daily Mirror) - The Education Ministry today declared that the first phase of the first term for government and government-approved private Sinhala and Tamil schools will conclude tomorrow.
-
-Accordingly, the second phase of the first school term will start on April 24.
-
-The second phase of the first school term for Muslim schools will start on April 17.
-
-◼️
-
-[Data](articles/3ab85d33.json)
-
-[Extended Data](ext_articles/3ab85d33.ext.json)
 
 ---

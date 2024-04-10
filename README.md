@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 22:18:28**
+As of **2024-04-10 22:33:55**
 
 ## Newspaper Stats
 
-*Scraped **18,350** Articles*
+*Scraped **18,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,027
 adalk | 1,545
 tamilmirrorlk | 2,148
 adaderanalk | 2,196
-virakesarilk | 2,728
+virakesarilk | 2,729
 dailymirrorlk | 2,801
 adaderanasinhalalk | 2,973
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,349 (100.0%) of 18,350 articles have been extended.
+18,350 (100.0%) of 18,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### தமது குழுமத்தின் புதிய இலச்சினையை வெளியிட்ட St. Anthony’s Industries Group
+
+*2024-04-10 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180938) · `ta`
+
+1930 களில் இருந்து சிறந்த பாரம்பரியம் கொண்ட இலங்கையின் முன்னணி கூட்டு நிறுவனமான St. Anthony’s Industries Group (Pvt) Ltd, அதன் புதிய இலச்சினையை சமீபத்தில் பெருமையுடன் வெளியிட்டுள்ளது.
+
+இந்த முக்கிய நிகழ்வானது, குழுமத்திற்கு ஒரு புதிய சகாப்தத்தை குறிப்பதோடு, சிறந்து விளங்குதல், புத்தாக்கம், தொழில்துறை தலைமைத்துவத்திற்கான அதன் அசைக்க முடியாத அர்ப்பணிப்பு , குழுமத்தின் முக்கிய மதிப்புகள் மற்றும் பணி நோக்கை பிரதிபலிக்கும் வகையில் இப்புதிய இலச்சினையின் ஒவ்வொரு கூறும் உன்னிப்பாக தெரிவு செய்யப்பட்டுள்ளது.
+
+St. Anthony's Industries Group அதன் பல்வேறு துணை வர்த்தகநாமங்களான Anton, Anton Max, Armor, Griffin, NetZ, Thermo, Biocell, Polar, Volta ஆகியவற்றை ஒரே நிறுவனத்தின் கீழ் பெருமையுடன் ஒருங்கிணைக்கிறது.
+
+◼️
+
+[Data](articles/762147e3.json)
+
+---
 
 ### 19 Indian fishermen detained by Sri Lanka return home
 
@@ -41,6 +57,8 @@ Nineteen Indian fishermen detained by the Sri Lanka Navy were on Tuesday repatri
 ◼️
 
 [Data](articles/3fbe0f9b.json)
+
+[Extended Data](ext_articles/3fbe0f9b.ext.json)
 
 ---
 
@@ -2375,25 +2393,5 @@ An employee who was engaged in a garbage disposal a week ago was also identified
 [Data](articles/8b71d9ab.json)
 
 [Extended Data](ext_articles/8b71d9ab.ext.json)
-
----
-
-### Lock to the state -of -the -art outlet
-
-*2024-04-10 11:02:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-வெளியீட்டு-விற்பனை-நிலையத்திற்கு-பூட்டு/175-335816) · `ta`
-
-The Government Information Department announced the closure of the Government Release Station in Narahenpita on April 15, due to stockpile and maintenance activities.
-
-🟩
-
-The Government Information Department today announced that the Government Release Station in Narahenpita will be closed on April 15.
-
-This decision has been made due to stockpile and some internal maintenance activities.
-
-◼️
-
-[Data](articles/92a355e0.json)
-
-[Extended Data](ext_articles/92a355e0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 08:33:45**
+As of **2024-04-10 08:52:27**
 
 ## Newspaper Stats
 
-*Scraped **18,204** Articles*
+*Scraped **18,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 dailyftlk | 1,001
 islandlk | 1,001
 economynextcom | 1,015
-adalk | 1,531
+adalk | 1,532
 tamilmirrorlk | 2,130
 adaderanalk | 2,181
 virakesarilk | 2,690
 dailymirrorlk | 2,780
-adaderanasinhalalk | 2,948
+adaderanasinhalalk | 2,949
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,203 (100.0%) of 18,204 articles have been extended.
+18,204 (100.0%) of 18,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### පුද්ගලයෙකුව ඝාතනය කර වැවට දාලා
+
+*2024-04-10 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195495) · `si`
+
+හිඳෝගම පොලිස් වසමේ දිවුල්වැව ප්‍රදේශයේ වැවෙහි නාඳුනන මෘත ශරීරයක් ඇති බවට හිඳෝගම පොලීසියට ලද තොරතුරක් මත විමර්ශන අරඹා තිබේ.
+
+ඒ අනුව මෘත ශරීරය සම්බන්ධයෙන් සිදුකළ විමර්ශනයේ දී මියගිය පුද්ගලයා 45 හැවිරිදි දංගහකඩවල, හිඳෝගම ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු බවට අනාවරණය වී ඇත.
+
+මෘත ශරීරය සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණය සිදුකිරීමෙන් අනතුරුව තියුණු ආයුධයකින් පහරදී මෙම පුද්ගලයා ඝාතනය කර ඇති බවට අනාවරණය වී තිබේ.
+
+වැඩිදුරටත් සිදුකළ විමර්ශනයේ දී ඝාතනය සම්බන්ධයෙන් අවුරුදු 24ක් වූ මියගිය පුද්ගලයාගේ පුතා සහ ඊට අනුබල දුන් අවුරුදු 39ක් වූ මියගිය පුද්ගලයාගේ බිරිඳ ඊයේ (09) අත්අඩංගුවට ගෙන ඇත.
+
+පවුල් ආරවුලක් දුරදිග යාම හේතුවෙන් නිවසේ දී මෙම ඝාතනය සිදුකර ඇති බවට අනාවරණය වී ඇති අතර, ඝාතනයෙන් පසු මෘත ශරීරය රැගෙන යෑමට භාවිත කළ ත්‍රිරෝද රථයක් ද  පොලිස් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/9ba3b48a.json)
+
+---
 
 ### Mail 12 work
 
@@ -802,23 +822,31 @@ This special amnesty will be granted using the powers of the president in accord
 
 ---
 
-### ’அங்கவீனமுற்ற இராணுவ வீரர்களுக்கு நிவாரணம்’
+### Relief to the disabled soldiers
 
 *2024-04-09 23:32:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அங்கவீனமுற்ற-இராணுவ-வீரர்களுக்கு-நிவாரணம்/175-335807) · `ta`
 
-அங்கவீனமுற்ற இராணுவ வீரர்களின் பாதுகாப்பு மற்றும் நலனுக்கு அரசாங்கத்தினால் முடிந்த அனைத்து நிவாரணங்களும் வழங்கப்படுமென ஜனாதிபதி ரணில் விக்கிரமசிங்க உறுதியளித்தார்.
+President Ranil Wickremesinghe pledged to support disabled soldiers, providing 50 electric motorcycles and promising more, highlighting Sri Lanka's dedication to their welfare.
 
-ஸ்ரீ ஜயவர்தனபுர கோட்டேயில் அமைந்துள்ள பாதுகாப்பு அமைச்சின் தலைமையகத்தில் நேற்று நடைபெற்ற 'போரினால் பாதிக்கப்பட்ட இராணுவத்தினருக்கு மின்சார மோட்டார் சைக்கிள் வழங்கும்' நிகழ்விலேயே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+🟩
 
-அதன்படி அங்கவீனமுற்ற இராணுவ வீரர்கள் மற்றும் அவர்களது குடும்பத்தாரின் வாழ்வாதாரத்தை மேம்படுத்தும் வகையில், 17 மில்லியன் ரூபா செலவில் 50 மின்சார மோட்டார் சைக்கிள்கள் இதன்போது வழங்கப்பட்டன.
+President Ranil Wickremesinghe has promised to provide all the relief to the government for the safety and welfare of the disabled soldiers.
 
-நிகழ்வில் அடையாள அம்சமாக அங்கவீனமுற்ற இராணுவ வீரர்கள் சிலருக்கு ஜனாதிபதியால் மின்சார சைக்கிள்கள் வழங்கி வைக்கப்பட்டது.
+The President made this observation at a function held at the Headquarters of the Defense Ministry at Sri Jayawardenapura Kotte yesterday.
 
-இங்கு மேலும் கருத்து தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, நாட்டின் ஒருமைப்பாட்டையும், சுயாதீனத் தனைமையையும் பாதுகாக்க உயிரைப் பணயம் வைத்து போராடிய இராணுவ வீரர்களுக்கு நன்றி கூறினார்.
+Accordingly, 50 electric motorcycles were provided at a cost of 17 million rupees to improve the livelihood of the disabled soldiers and their families.
 
-...
+The president was given electric bicycles to some of the disabled soldiers as a symbol of the event.
+
+President Ranil Wickremesinghe thanked the soldiers who fought for life to protect the country's integrity and independence.
+
+The President promised to allocate funds for the purchase of more 76 electric motorcycles for disabled soldiers and that the Sri Lankan Defense Ministry is working with a high dedication for the benefit of the soldiers compared to other countries.. (A)
+
+◼️
 
 [Data](articles/9d021822.json)
+
+[Extended Data](ext_articles/9d021822.ext.json)
 
 ---
 
@@ -1359,6 +1387,18 @@ The Colombo Lotus Tower will mark Eid on Thursday (11) by illuminating the sky w
 [Data](articles/4a3e9f39.json)
 
 [Extended Data](ext_articles/4a3e9f39.ext.json)
+
+---
+
+### වනිඳු වෙනුවට විජයකාන්ත්ට අවස්ථාව
+
+*2024-04-09 20:00:03* · [`adalk`](https://www.ada.lk/sports/වනිඳු-වෙනුවට-විජයකාන්ත්ට-අවස්ථාව/9-409040) · `si`
+
+ඉන්දීය ප්‍රීමියර් ලීග තරඟාවලියේ ඉතිරි තරඟ සඳහා වනිඳු හසරංග වෙනුවට සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායම ශ්‍රී ලංකා ක්‍රීඩක විජයකාන්ත් වියස්කාන්ත් සමඟ ගිවිසුම්ගතව තිබේ. වනිඳුගේ පාදයේ ආබාධය හේතුවෙන් ඔහුට මෙවර තරගාවලිය අහිමි වී තිබේ.
+
+◼️
+
+[Data](articles/dadba7ce.json)
 
 ---
 
@@ -2181,55 +2221,5 @@ Other major contributors to the Index included Ceylon Beverage Holdings Plc, up 
 [Data](articles/e94bcbc6.json)
 
 [Extended Data](ext_articles/e94bcbc6.ext.json)
-
----
-
-### Copa Committee on the delay in issuing electronic passports
-
-*2024-04-09 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180828) · `ta`
-
-The Government Accounts Committee (Copa) criticized a 4-year delay in issuing E-Passports, despite the Civil Aviation Authority's efforts to purchase E-Gate equipment. The committee urged quick action, improved technology, and more officials to reduce congestion. Sri Lanka's passport ranking was discussed, and a plan to improve global standards was advised. Issues with regional office procedures and the plight of Russian and Ukrainian citizens post-visa expiration were also highlighted.
-
-🟩
-
-The focus of the Government Accounts (Copa) has been focused on the delay in 4 years of delay in issuing the E-Passport.
-
-The Committee on Government Accounts (02) was focused on the report of the Auditor General for 2020, 2021 and 2022 of the Department of Immigration and Emigration.
-
-Although the Civil Aviation Authority has announced that the Department of Immigration and Emigration has been contacted by the Department of Immigration and Emigration for the purchase of equipment related to E-Gate, the Committee expressed its displeasure over the delay in providing total e-tax facilities as it has not yet taken action..
-
-Accordingly, it was advised to submit a report on the progress before the 15th of April. It was also emphasized that the need to improve with modern technology equipment, including self -examination, to reduce airport congestion.
-
-Focusing on the delay in the issue of E-Passport for 4 years was focused.
-
-...
-
-[Data](articles/8d606520.json)
-
-[Extended Data](ext_articles/8d606520.ext.json)
-
----
-
-### Young man dies miserably in electricity
-
-*2024-04-09 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180834) · `ta`
-
-A 19-year-old man, Sasikumar Dinease, died from an electric shock while welding at his home in Tirumalai road, Batticaloa. He was taken to a hospital but passed away without treatment.
-
-🟩
-
-Police said that a young man from Thirumalai road belonging to the Batticaloa Headquarters Police Division had killed a electricity at his home.
-
-The deceased is Sasikumar Dinease (age 19), a resident of Tirumalai road.
-
-On Monday (08), when he was doing a welding - iron -ironing work from his home, electricity was attacked and then taken to a hospital with the help of his sister and neighbors, but he died without treatment.
-
-After visiting the Batticaloa District Court Magistrate, Thambipillai Thakumar's body at the Batticaloa Teaching Hospital. He had worked with the legal doctor for the body to test the body.
-
-◼️
-
-[Data](articles/ef81b515.json)
-
-[Extended Data](ext_articles/ef81b515.ext.json)
 
 ---

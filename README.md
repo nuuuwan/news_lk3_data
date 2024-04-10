@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 10:33:44**
+As of **2024-04-10 10:51:12**
 
 ## Newspaper Stats
 
-*Scraped **18,230** Articles*
+*Scraped **18,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ dailyftlk | 1,001
 islandlk | 1,001
 economynextcom | 1,019
 adalk | 1,534
-tamilmirrorlk | 2,136
+tamilmirrorlk | 2,137
 adaderanalk | 2,183
 virakesarilk | 2,694
-dailymirrorlk | 2,782
+dailymirrorlk | 2,784
 adaderanasinhalalk | 2,952
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,229 (100.0%) of 18,230 articles have been extended.
+18,230 (100.0%) of 18,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### Government Publication Sales Counter closed on Monday
+
+*2024-04-10 10:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-Publication-Sales-Counter-closed-on-Monday/108-280551) · `en`
+
+Colombo, April 10 (Daily Mirror) - The Government Information Department today announced the closure of the Government Publication Sales Counter at Narahenpita on April 15.
+
+The decision was taken due to stock taking and certain internal maintenance activities.
+
+However, the counter will be open as usual on the following day (16).
+
+◼️
+
+[Data](articles/dd1468df.json)
+
+---
+
+### SLCERT engineers’ reports to be sent to Education Minister today
+
+*2024-04-10 10:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLCERT-engineers-reports-to-be-sent-to-Education-Minister-today/108-280550) · `en`
+
+Colombo, April 10 (Daily Mirror) - Sri Lanka Computer Emergency Readiness Team (SLCERT) Senior Information Security Engineer Charuka Damunupola today revealed that a report will be sent to the Education Minister regarding the recent hacking of the Education Ministry's official website.
+
+He said the initial investigations launched by the SLCERT indicate that the hack was carried out by a local individual.
+
+The detailed findings of the hack will be forwarded to the Minister, who will then pass a copy to the Criminal Investigation Department (CID) for further investigations to apprehend the culprit.
+
+It has been noted that necessary security patches and updates were not applied to the website, and the Ministry had failed to conduct a Vulnerability Assessment (VA), despite being advised to do so annually by SLCERT.
+
+...
+
+[Data](articles/63ddcf12.json)
+
+---
 
 ### Another 182,140 families qualify for the relief
 
@@ -242,7 +276,7 @@ Israeli Prime Minister Benjamin Netanyahu’s approach to the war in Gaza is a �
 
 Biden has also previously called Israel’s bombing in Gaza “indiscriminate,” and its military actions “over the top.”
 
-The White House said last week that the president, in a call with Netanyahu, threatened to make conditional, U.S. support for Israel’s offensive on it taking concrete steps to protect aid workers and civilians. That call followed an Israeli airstrike that killed seven staff, of the aid group World Central Kitchen.
+The White House said last week that the president, in a call with Netanyahu, threatened to make conditional, U.S. support for Israel’s offensive on it taking concrete steps to protect aid workers and civilians. That call followed an Israeli airstrike that killed seven staff of the aid group World Central Kitchen.
 
 ...
 
@@ -323,6 +357,24 @@ The accident had occurred when a motorbike to face a motorbike on the opposite.
 [Data](articles/30c743ea.json)
 
 [Extended Data](ext_articles/30c743ea.ext.json)
+
+---
+
+### அத்துருகிரியவில் பெட்ரோல் குண்டு வீச்சு
+
+*2024-04-10 09:01:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துருகிரியவில்-பெட்ரோல்-குண்டு-வீச்சு/175-335812) · `ta`
+
+அத்துருகிரிய, கல்வருசாவ வீதியில் உள்ள கோடீஸ்வர ஆடை வர்த்தகர் ஒருவருக்குச் சொந்தமான வீடொன்றின் மீது நபர் ஒருவர் நேற்று (09) மாலை பெற்றோல் குண்டு தாக்குதல் நடத்தியுள்ளதாக நவகமுவ பொலிஸார் தெரிவிக்கின்றனர்.
+
+கடந்த சில மாதங்களுக்கு முன்னர் குறித்த வர்த்தகருக்கு சொந்தமான வீட்டின் முன் மலர்வளையம் வைக்கப்பட்ட சம்பவத்தில், சந்தேகநபர்கள் மூவர் நவகமுவ பொலிஸாரால் கைது செய்யப்பட்டிருந்தனர்.
+
+வெளிநாட்டில் இருக்கும் பாதாள உலக செயற்பாட்டாளர், குறித்த வர்த்தகரிடம் பல தடவைகள் கப்பம் கோரியுள்ளதாகவும், பணத்தை தர மறுத்ததன் காரணமாக அவரை அச்சுறுத்தியிருக்கலாம் எனவும் சந்தேகம் இருப்பதாக நவகமுவ பொலிஸ் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+மஹரகம பமுன்வ பிரதேசத்தில் பாரிய ஆடைத் தொழிற்சாலை ஒன்றை நடத்தி வரும் இந்த கோடீஸ்வர வர்த்தகர் மேலும் பல ஆடைத் தொழிற்சாலைகளை வைத்திருப்பதாகவும் பொலிஸார் குறிப்பிட்டுள்ளனர். R
+
+◼️
+
+[Data](articles/1fb49a0d.json)
 
 ---
 
@@ -702,7 +754,7 @@ Colombo, April 10 (Daily Mirror) - If the country's economy improves by next yea
 
 Addressing the media at an opening event in Dematagoda, he said Rs. 13 billion was paid additionally for the increase in state employee salaries. Accordingly, Rs. 107 billion was paid for state employee salaries for the month of April.
 
-Meanwhile, the minister mentioned that the programme of providing ten kilogrammes each to 2.7 million families for the months of April and May will start on April 21. State Minister Siyambalapitiya said that more than half of the total number of families in Sri Lanka are entitled to this subsidy.
+Meanwhile, the minister mentioned that the programme of providing ten kilogrammes of rice to 2.7 million families for the months of April and May will start on April 21. State Minister Siyambalapitiya said that more than half of the total number of families in Sri Lanka are entitled to this subsidy.
 
 ◼️
 
@@ -1876,19 +1928,33 @@ This Presidential Pardon will be granted in accordance with Article 34 (1) of th
 
 ---
 
-### මත්පැන් නිෂ්පාදනාගාර රජයට ලොකු බදු පොල්ලක් තියයි
+### The liquor manufacturing government has a big tax stick
 
 *2024-04-09 20:08:19* · [`adalk`](https://www.ada.lk/breaking_news/මත්පැන්-නිෂ්පාදනාගාර-රජයට-ලොකු-බදු-පොල්ලක්-තියයි/11-409042) · `si`
 
-ශ්‍රී ලංකා සුරාබදු දෙපාර්තමේන්තුවට 2023 දෙසැම්බර් 31 වැනිදා වන විට රුපියල් බිලියන 6.9ක(6,948,154,112.41) බදු මෙරට මත්පැන් නිෂ්පාදනාගාර 10ක් විසින් ගෙවීම පැහැර හැර ඇති බව පාර්ලිමේන්තුවේදී අනාවරණය විය.
+The Sri Lanka Excise Department imposed a Rs. 6,15,11.41 tax on December 31, 2023. The Committee of the Committee, led by Phase Champika Ranawaka, reported to Parliament that companies like WM Rindis and Royal Ceylon Distalerties owe Rs. 120,406,152.20 and Rs. 38,067,835.64, respectively, with defaulted payments between 10-15 years.
 
-එම මුදලින් රුපියල් බිලියන 1.4ක් 2023 වසරට අදාළ වන බව ක්‍රම සහ විධි පිළිබඳ කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කළ එම කාරක සභාවේ දෙවන වාර්තාවේ සඳහන් කර තිබේ.
+🟩
 
-එහිදී  අවුරුදු 1-5 අතර රුපියල් බිලියන 1.1ක්(1,196,738,417.56) ද, අවුරුදු 10-15 අතර රුපියල් බිලියන 3.2ක්(3,214,391,947.79) ද සහ අවුරුදු 15 වැඩි රුපියල් 2.5ක්(2,537,023,747.06)ද ලෙස මත්පැන් නිෂ්පාදනාගාර විසින් ශ්‍රී ලංකා සුරාබදු දෙපාර්තමේන්තුවට හිඟ බදු ගෙවීමට ඇත.
+The Sri Lanka Excise Department on December 31, 2023, tax of Rs. 6,15,11.41.
 
-...
+The second report of the Committee of the Committee, Phase Champika Ranawaka, presented to Parliament, was presented to Parliament by the Chairman of Method and the Chairman of the Committee.
+
+1.1 billion (1,296,738,947.56 billion) and 15 billion rupees (1,537,747.5 years) and Rs.has.
+
+WM Rindis and the company is Rs. Reass 120,406,152.20, Royal Ceylon Distalerties Rs. 38,067,835.64The payments have been defaulted.
+
+Between 10-15 years, WM Mindis and the company have defaulted the payment of taxes Rs. 3,214,391,947.79.
+
+In addition, the North Western Distribution is Rs.
+
+Meanwhile, the bottles have been found recently, and the bottles have been found in the area.
+
+◼️
 
 [Data](articles/24da3644.json)
+
+[Extended Data](ext_articles/24da3644.ext.json)
 
 ---
 
@@ -2147,69 +2213,5 @@ The victim has been revealed that SF Karu and Ice drug was addicted to the drug 
 [Data](articles/01dbbb6f.json)
 
 [Extended Data](ext_articles/01dbbb6f.ext.json)
-
----
-
-### 2024 The first phase of the first school is over tomorrow
-
-*2024-04-09 18:57:40* · [`adalk`](https://www.ada.lk/breaking_news/2024-පළමු-පාසල්-වාරයේ-පළමු-අදියර-හෙටින්-අවසන්/11-409037) · `si`
-
-The first phase of the first school in 2024 ends tomorrow, with the second phase starting April 24 for Sinhala and Tamil schools, and April 17 for Muslim schools.
-
-🟩
-
-The first phase of the first phase of the first school in 2024 will end tomorrow. The second phase of the first school begins on April 24.
-
-These leave relates to private schools approved by the Sinhala and Tamil. The second phase of the Muslim schools will commence on April 17.
-
-◼️
-
-[Data](articles/45c804fc.json)
-
-[Extended Data](ext_articles/45c804fc.ext.json)
-
----
-
-### Viyaskanth replaces Hasaranga in Sunrisers Squad for IPL 2024
-
-*2024-04-09 18:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Viyaskanth-replaces-Hasaranga-in-Sunrisers-Squad-for-IPL-2024/108-280483) · `en`
-
-April 09 - Sunrisers Hyderabad have signed Sri Lankan leggie Vijayakanth Viyaskanth as replacement for Wanindu Hasaranga for the remainder of IPL 2024.
-
-Hasaranga was set to represent SRH for the first time in his IPL career after being bought by the 2016 champions for Rs 1.5 crore at the players’ auction last December.
-
-However, a chronic pain in his left foot ended his hopes of playing any role for his new franchise in the ongoing season.
-
-Hasaranga represented Royal Challengers Bengaluru for two seasons after being bought at an astronomical price of Rs 10.75 crore at the 2022 players’ auction.
-
-The legspinner had an excellent maiden season for RCB, taking 26 wickets but played limited role last year following which he was released.
-
-◼️
-
-[Data](articles/3c6ac715.json)
-
-[Extended Data](ext_articles/3c6ac715.ext.json)
-
----
-
-### Due to the violation of Indian fishermen;Will the affected fishermen be compensated?
-
-*2024-04-09 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180846) · `ta`
-
-Indian fishermen's violations led to 257 complaints in 3 years, with no action taken. The Fisheries Minister demands compensation for affected workers. A meeting is scheduled for Wednesday.
-
-🟩
-
-Due to the violation of Indian fishermen, 257 complaints have been lodged at the police station in the last three years.
-
-No action has been made on these complaints and the Ministry of Fisheries and the Ministry of Fisheries has been lodged in all departmental sides.The meeting will be held on Wednesday (10)
-
-The Fisheries Minister has demanded that the Minister of Fisheries take steps to pay compensation to the affected pirate workers at this coordination committee.
-
-◼️
-
-[Data](articles/b21278b5.json)
-
-[Extended Data](ext_articles/b21278b5.ext.json)
 
 ---

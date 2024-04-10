@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 22:05:51**
+As of **2024-04-10 22:18:28**
 
 ## Newspaper Stats
 
-*Scraped **18,349** Articles*
+*Scraped **18,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 1,001
 economynextcom | 1,027
 adalk | 1,545
 tamilmirrorlk | 2,148
-adaderanalk | 2,195
+adaderanalk | 2,196
 virakesarilk | 2,728
 dailymirrorlk | 2,801
 adaderanasinhalalk | 2,973
@@ -26,23 +26,63 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,348 (100.0%) of 18,349 articles have been extended.
+18,349 (100.0%) of 18,350 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### හමාස් නායක ඉස්මයිල් ට පුතුන් තිදෙනෙක් අහිමි කළ ප්‍රහාරය
+### 19 Indian fishermen detained by Sri Lanka return home
+
+*2024-04-10 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98562/19-indian-fishermen-detained-by-sri-lanka-return-home) · `en`
+
+Nineteen Indian fishermen detained by the Sri Lanka Navy were on Tuesday repatriated to India, the Indian High Commission said, almost a week after a similar number of fishermen were sent back to their home country.
+
+◼️
+
+[Data](articles/3fbe0f9b.json)
+
+---
+
+### Hamas leader's sons killed in Israel's attack
+
+*2024-04-10 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/180937) · `ta`
+
+Hamas leader Ismail Honey confirms his three sons and grandson were killed in an Israeli attack on Gaza. He vows Hamas will not retreat, citing threats to their families. Hamas sees the attack as a sign of Israel's defeat.
+
+🟩
+
+Hamas leader Ismail Honey has confirmed that his three sons and grandson have been killed in Israel's attack on Gaza.
+
+He said Hamas leaders would not retreat because the Israeli military would kill their families, he said, adding that Hamasin's requests for ceasefire negotiations would not affect the requests of the ceasefire.
+
+Hamas, the leader of the Hamas, said the attack on his family was revealing the defeat of Israel.
+
+◼️
+
+[Data](articles/b53ec698.json)
+
+[Extended Data](ext_articles/b53ec698.ext.json)
+
+---
+
+### Hamas leader Ismail was lost to three sons
 
 *2024-04-10 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195524) · `si`
 
-හමාස් නායක ඉස්මයිල් හනියේ ගේ පුතුන් තිදෙනෙක් ඊශ්‍රායල ප්‍රහාර හේතුවෙන් මියගොස් ඇති බව වාර්තා වෙයි.
+Hamas leader Ismail's three sons died in Israeli attacks. He, living in Qatar, reported hundreds of grandchildren also lost to Israeli air strikes.
 
-කටාර් හි ජීවත්වන හමාස් නායකයා අල්ජසීරා පුවත් සේවයට පවසා ඇත්තේ ඊශ්‍රායල ගුවන් ප්‍රහාර හේතුවෙන් සිය මුණුපුරන් කිහිපදෙනෙක් ද මියගොස් ඇති බවය.
+🟩
+
+Three sons of Hamas captain of Ismailine have died due to Israeli attacks.
+
+Hamas leader lives in Qatar told Aljazera News that several hundreds of grandson have died due to Israeli air strikes.
 
 ◼️
 
 [Data](articles/13a64172.json)
+
+[Extended Data](ext_articles/13a64172.ext.json)
 
 ---
 
@@ -77,28 +117,6 @@ The youth was drunk at the time of the incident and he did not have a valid driv
 [Data](articles/dde8619c.json)
 
 [Extended Data](ext_articles/dde8619c.ext.json)
-
----
-
-### Hamas leader's sons killed in Israel's attack
-
-*2024-04-10 21:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180937) · `ta`
-
-Hamas leader Ismail Honey confirms his three sons and grandson were killed in an Israeli attack on Gaza. He vows Hamas will not retreat, citing threats to their families. Hamas sees the attack as a sign of Israel's defeat.
-
-🟩
-
-Hamas leader Ismail Honey has confirmed that his three sons and grandson have been killed in Israel's attack on Gaza.
-
-He said Hamas leaders would not retreat because the Israeli military would kill their families, he said, adding that Hamasin's requests for ceasefire negotiations would not affect the requests of the ceasefire.
-
-Hamas, the leader of the Hamas, said the attack on his family was revealing the defeat of Israel.
-
-◼️
-
-[Data](articles/b53ec698.json)
-
-[Extended Data](ext_articles/b53ec698.ext.json)
 
 ---
 
@@ -2377,29 +2395,5 @@ This decision has been made due to stockpile and some internal maintenance activ
 [Data](articles/92a355e0.json)
 
 [Extended Data](ext_articles/92a355e0.ext.json)
-
----
-
-### Sri Lanka to recruit 2,500 teachers for English medium
-
-*2024-04-10 10:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-recruit-2500-teachers-for-english-medium-158175/) · `en`
-
-ECONOMYNEXT – Sri Lanka plans to recruit 2,500 teachers to expand its English medium ordinary level classes, amidst a teacher shortage, Cabinet Spokesman Bandula Gunawardena said.
-
-“There are 765 schools chosen to offer English medium at present,” Gunawardena told reporters on Tuesday. “We want to increase this to 1,000 schools.”
-
-Sri Lanka has approved 4,441 English medium teachers already, and the state plans to increase the teachers to 6,500, Gunawardena said.
-
-However, low salaries have proved to be a problem in the recruitment of teachers. These English-medium teachers will get the same salaries as other teachers in the state sector, the minister said.
-
-“This is a problem. Because there is a big demand in the private sector for teachers in bio sciences, chemistry, physics, IT, accounts, English and foreign languages. And they are offered higher salaries than the state service.
-
-“But there are instances where people leave better paying private sector for state jobs.” (Colombo/Apr10/2024)
-
-◼️
-
-[Data](articles/448747ad.json)
-
-[Extended Data](ext_articles/448747ad.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 09:52:15**
+As of **2024-04-10 10:03:25**
 
 ## Newspaper Stats
 
-*Scraped **18,217** Articles*
+*Scraped **18,223** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 161
-bbccomsinhala | 190
+bbccomsinhala | 191
 dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 1,001
@@ -18,33 +18,95 @@ economynextcom | 1,015
 adalk | 1,532
 tamilmirrorlk | 2,136
 adaderanalk | 2,183
-virakesarilk | 2,690
+virakesarilk | 2,694
 dailymirrorlk | 2,782
-adaderanasinhalalk | 2,950
+adaderanasinhalalk | 2,951
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,210 (100.0%) of 18,217 articles have been extended.
+18,217 (100.0%) of 18,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### தொடர்ந்தும் முடக்கப்பட்டுள்ள கல்வி அமைச்சின் இணையத்தளம்
+### තවත් පාතාල කල්ලි සාමාජිකයින් පිරිසක් අත්අඩංගුවට
+
+*2024-04-10 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195497) · `si`
+
+විශේෂ පොලිස් කණ්ඩායම් 20ක් යොදවා සිදුකරනු ලබන මෙහෙයුම්වලදී තවත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් 09දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+ඔවුන් සමග විවිධ සම්බන්ධතා පවත්වමින් අපරාධවලට සහාය වූ බවට සැක කෙරෙන පුද්ගලයන් 11 දෙනෙකු ද පොලිස් භාරයට ගෙන ඇත.
+
+පසුගිය 19 වනදා සිට ඊයේ (07) දින දක්වා සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් 363 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/1d13ca2e.json)
+
+---
+
+### சஜித் பிரேமதாசவின் நோன்புப் பெருநாள் வாழ்த்துச் செய்தி!
+
+*2024-04-10 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/180864) · `ta`
+
+இலங்கையர்கள் மற்றும் உலகெங்கிலும் உள்ள அனைத்து முஸ்லிம் சகோதர சகோதரிகளுக்கும் அமைதியான, நல்லிணக்கம் கொண்ட சகோதரத்துவம் வாய்ந்த ஈதுல் பித்ர் பெருநாளாக அமைய எனது மனமார்ந்த வாழ்த்துக்களை தெரிவித்துக் கொள்கிறேன் என்று சஜித் பிரேமதாச நோன்புப் பெரு­நாளை முன்­னிட்டு விடுத்­துள்ள வாழ்த்துச் செய்­தியில் தெரி­வித்­துள்ளார்.
+
+◼️
+
+[Data](articles/f96ce8f7.json)
+
+---
+
+### டிஜிட்டலில் வெளியாகும் 'பிரேமலு'
+
+*2024-04-10 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180861) · `ta`
+
+சிறிய முதலீட்டில் தயாராகி, பட மாளிகையில் வெளியாகி பிரம்மாண்டமான வெற்றியை பெற்ற பிறகு, குறுகிய கால அவகாசத்திற்குள் அத்திரைப்படம் டிஜிட்டல் தளத்தில் வெளியாவது தற்போதைய ட்ரெண்டிங். டிஜிட்டல் தளத்தை பார்வையிடும் ரசிகர்களின் எண்ணிக்கை கோடி கணக்கில் இருப்பதால்  அவர்களை வாரம் தோறும் திருப்திப்படுத்த புதிய திரைப்படங்களை வெளியிட வேண்டிய கட்டாயம் டிஜிட்டல் தள நிறுவனங்களுக்கு ஏற்பட்டிருக்கிறது. அந்த வகையில் உலகம் முழுவதும் ஏராளமான தமிழ் ரசிகர்களை சந்தாதாரராக கொண்டிருக்கும் டிஸ்னி பிளஸ் ஹாட்ஸ்டார் டிஜிட்டல் தளத்தில் தென்னிந்திய ரசிகர்களை மகிழ்வித்த 'பிரேமலு' படம் வெளியாகிறது. ஏப்ரல் 12ஆம் திகதியன்று இந்த திரைப்படம் டிஸ்னி பிளஸ் ஹாட்ஸ்டார் டிஜிட்டல் தளத்தில் தமிழ், தெலுங்கு, மலையாளம், கன்னடம் ஆகிய மொழிகளில் வெளியாகிறது.
+
+...
+
+[Data](articles/6be08296.json)
+
+---
+
+### Continuing Disabled Ministry of Education website
 
 *2024-04-10 09:35:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்தும்-முடக்கப்பட்டுள்ள-கல்வி-அமைச்சின்-இணையத்தளம்/175-335814) · `ta`
 
-அண்மையில் கல்வி அமைச்சின் உத்தியோகப்பூர்வ இணையத்தளத்தின் மீதான சைபர் தாக்குதல் இலங்கையில் உள்்ள இணைய இணைப்பின் ஊடாக மேற்கொள்ளப்பட்டுள்ளதாக தெரியவந்துள்ளது.
+The Ministry of Education's website in Sri Lanka was hacked via an internal internet connection, causing it to fail. A detailed report will be submitted today.
 
-கடந்த வெள்ளிக்கிழமை சைபர் தாக்குதலுக்கு உள்ளான கல்வி அமைச்சின் இணையத்தளம் தொடர்ந்தும் செயலிழந்துள்ளது.
+🟩
 
-இது தொடர்பான அனைத்து விபரங்களும் அடங்கிய அறிக்கை இன்று கல்வி அமைச்சிடம் கையளிக்கப்படும் எனவும் அவர் தெரிவித்தார். R
+Recently, a cyber attack on the official website of the Ministry of Education has been carried out through an internal internet connection in Sri Lanka.
+
+The website of the Ministry of Education, which was subjected to a cyber attack last Friday, continued to fail.
+
+The report containing all the details will be handed over to the Ministry of Education today, he said.. Remble
 
 ◼️
 
 [Data](articles/3347be68.json)
+
+[Extended Data](ext_articles/3347be68.ext.json)
+
+---
+
+### காதலி உயிரிழந்து 50வது நாளில் காதலனும் உயிர்மாய்ப்பு - யாழ்ப்பாணத்தில் துயரம்!
+
+*2024-04-10 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180863) · `ta`
+
+காதலி ஒருவர் தூக்கிட்டு இறந்து 50வது நாளான நேற்று செவ்வாய்க்கிழமை (09) காதலனும் தூக்கிட்டு தற்கொலை செய்த சம்பவமானது அனைவரையும் சோகத்தில் ஆழ்த்தியுள்ளது. சிங்காவத்தை, துர்க்காபுரம், தெல்லிப்பழை பகுதியைச் சேர்ந்த கதிர்காமலிங்கம் கோபிசன் (வயது 20) என்ற இளைஞரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த இளைஞரின் காதலியான தெல்லிப்பழை பகுதியைச் சேர்ந்த யுவதி ஒருவர் கடந்த 50 நாட்களுக்கு முன்னர் தூக்கிட்டு உயிர்மாய்த்துள்ளளார். இந்நிலையில், குறித்த இளைஞன் நேற்றைய தினம் மதியம் ஒரு மணியளவில் அவரது இல்லத்தில் தூக்கிட்டு உயிர்மாய்த்துள்ளளார்.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசேதனைக்காக சடலம் யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/14af2eda.json)
 
 ---
 
@@ -64,25 +126,51 @@ The White House said last week that the president, in a call with Netanyahu, thr
 
 [Data](articles/4d76f59d.json)
 
+[Extended Data](ext_articles/4d76f59d.ext.json)
+
 ---
 
-### 10 மடங்கு விலை குறைந்தது
+### ஜனாதிபதியின் நோன்புப் பெருநாள் வாழ்த்துச் செய்தி
+
+*2024-04-10 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180862) · `ta`
+
+இலங்கை வாழ் முஸ்லிம் மக்களுக்கும், முழு உலக முஸ்லிம் சமூகத்திற்கும் சமாதானம், நல்லிணக்கம் நிறைந்த ரமழான் பெருநாளாக அமைய இதயபூர்வமான வாழ்த்துக்களைத் தெரிவித்துக் கொள்கிறேன் என்று ஜனாதிபதி ரணில் விக்ரமசிங்க நோன்புப் பெரு­நாளை முன்­னிட்டு விடுத்­துள்ள வாழ்த்துச் செய்­தியில் தெரி­வித்­துள்ளார்.
+
+இஸ்லாமிய நாட்காட்டியில் ஒன்பதாவது மாதமாகக் கருதப்படும் புனித ரமழான் மாதமானது, முஸ்லிம் சகோதரர்களுக்கு சிந்தனை மற்றும் ஆன்மீக வளர்ச்சிக்கான மாதமாகக் கருதப்படுகிறது.
+
+இந்த ரமழான் மாதம்,நல்வாழ்வு மற்றும் நல்வாழ்வின் கலங்கரை விளக்கமாக இருப்பதோடு நம்மிடையே ஒற்றுமை மற்றும் மத நல்லிணக்கத்தை வளர்க்கிறது.
+
+சாதி, மத பேதமின்றி இலங்கையர்கள் என்ற வகையில் நாம் அனைவரும் எதிர்கொண்ட இக்கட்டான காலகட்டத்தை கடந்து நாட்டில் நல்லதொரு சூழல் உருவாகியுள்ள இவ்வேளையில் எமது சக முஸ்லிம்களுக்கு ரமழான் பண்டிகையை மகிழ்ச்சியாகக் கொண்டாடும் வாய்ப்பு இந்த வருடம் கிடைத்துள்ளதையிட்டு நான் ஆனந்தமடைகின்றேன்.
+
+...
+
+[Data](articles/42e4e377.json)
+
+---
+
+### 10 times the price is low
 
 *2024-04-10 09:22:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-மடங்கு-விலை-குறைந்தது/175-335813) · `ta`
 
-உணவு அலங்காரத்திற்கு பயன்படுத்தப்படும் செலட் உள்ளிட்ட பல்வேறு வகையான கீரைகளின் விலை ஜனவரி மாதத்தை விட இந்த நாட்களில் பத்து மடங்கு குறைந்துள்ளது.
+Prices of greens like broccoli, red cabbage, and lettuce have dropped tenfold since January. Despite high demand, tourist hotel orders are low, affecting Nuwara Eliya's economy.
 
-4,000 ரூபாய்க்கு விற்கப்பட்ட ப்ரோக்கோலி 300 ரூபாய் வரையிலும், 3,000 ரூபாய்க்கு விற்ற சிவப்பு முட்டைக்கோஸ் 200 ரூபாய் வரையிலும், 1,500 ரூபாய்க்கு விற்ற செலட் கீரை 50 ரூபாய் வரையிலும் குறைந்துள்ளது.
+🟩
 
-இது தவிர 350 ரூபாய்க்கு விற்பனை செய்யப்பட்ட ஒரு கிலோ கொத்தமல்லி இலையின் விலை 80 ரூபாயாகவும் குறைந்துள்ளது.
+The price of a variety of greens, including the cellular used for food decoration, has declined ten times these days than in January.
 
-இவ்வகை கீரைகளின் வரத்து அதிகமாக இருந்தாலும் சுற்றுலா ஹோட்டல்களுக்கான தேவை குறைவாகவே காணப்படுவதாக நுவரெலியா பொருளாதார மத்திய நிலையம் தெரிவித்துள்ளது.
+The broccoli sold for Rs 4,000, the red cabbage sold for 3,000 rupees, and the cellular lettuce sold for Rs 1,500 for Rs 1,500.
 
-நுவரெலியா நகரத்தில் உள்ள சுற்றுலா ஹோட்டல்களில் இருந்து நாளொன்றுக்கு 2000 முதல் 3000 கிலோகிராம் வரையிலான சாலட் கீரைகள் தேவைப்படுவதாக நுவரெலியா பொருளாதார மத்திய நிலையம் தெரிவித்துள்ளது. R
+In addition, the price of a kilo of coriander leaves sold for Rs 350 has fallen to Rs 80.
+
+The Nuwara Eliya Economic Center said that despite the rise of these greens, the demand for tourist hotels is low.
+
+The Nuwara Eliya Economic Center has said that salad greens are required from 2000 to 3000 kilograms per day from tourist hotels in Nuwara Eliya.. Remble
 
 ◼️
 
 [Data](articles/70069b25.json)
+
+[Extended Data](ext_articles/70069b25.ext.json)
 
 ---
 
@@ -108,21 +196,27 @@ The accident had occurred when a motorbike to face a motorbike on the opposite.
 
 ---
 
-### அதுருகிரியவில் பெட்ரோல் குண்டு வீச்சு
+### Petrol bomb
 
 *2024-04-10 09:01:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதுருகிரியவில்-பெட்ரோல்-குண்டு-வீச்சு/175-335812) · `ta`
 
-அதுருகிரிய, கல்வருசாவ வீதியில் உள்ள கோடீஸ்வர ஆடை வர்த்தகர் ஒருவருக்குச் சொந்தமான வீடொன்றின் மீது நபர் ஒருவர் நேற்று (09) மாலை பெற்றோல் குண்டு தாக்குதல் நடத்தியுள்ளதாக நவகமுவ பொலிஸார் தெரிவிக்கின்றனர்.
+A petrol bomb attack on a millionaire garment trader's house in Kalvarusawa Road, Navagamuwa, followed by arrests of three suspects linked to the trader's property. The trader, a billionaire businessman, has faced threats from an underworld activist abroad, possibly due to refusal to pay.
 
-கடந்த சில மாதங்களுக்கு முன்னர் குறித்த வர்த்தகருக்கு சொந்தமான வீட்டின் முன் மலர்வளையம் வைக்கப்பட்ட சம்பவத்தில், சந்தேகநபர்கள் மூவர் நவகமுவ பொலிஸாரால் கைது செய்யப்பட்டிருந்தனர்.
+🟩
 
-வெளிநாட்டில் இருக்கும் பாதாள உலக செயற்பாட்டாளர், குறித்த வர்த்தகரிடம் பல தடவைகள் கப்பம் கோரியுள்ளதாகவும், பணத்தை தர மறுத்ததன் காரணமாக அவரை அச்சுறுத்தியிருக்கலாம் எனவும் சந்தேகம் இருப்பதாக நவகமுவ பொலிஸ் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+Navagamuwa police said that a person had carried out a petrol bomb yesterday evening (09) in a house owned by a millionaire garment trader at Kalvarusawa Road, Kalvarusawa Road.
 
-மஹரகம பமுன்வ பிரதேசத்தில் பாரிய ஆடைத் தொழிற்சாலை ஒன்றை நடத்தி வரும் இந்த கோடீஸ்வர வர்த்தகர் மேலும் பல ஆடைத் தொழிற்சாலைகளை வைத்திருப்பதாகவும் பொலிஸார் குறிப்பிட்டுள்ளனர். R
+A few months ago, three suspects were arrested by the Navagamuwa police in connection with the lake in front of a trader -owned house.
+
+A senior official of the Navagamuwa police said that the underworld activist abroad had demanded a businessman several times and that he could have threatened him due to refusal to give money.
+
+The billionaire businessman who runs a massive garment factory in the Maharagama Pamunwa area has many more garment plants.. Remble
 
 ◼️
 
 [Data](articles/d22bc23a.json)
+
+[Extended Data](ext_articles/d22bc23a.ext.json)
 
 ---
 
@@ -146,23 +240,29 @@ The President also noted that the Holy Quran underscores the importance of adher
 
 ---
 
-### இடியுடன் கூடிய மழை பெய்யக் கூடிய சாத்தியம்
+### The possibility of thunderstorms
 
 *2024-04-10 08:48:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யக்-கூடிய-சாத்தியம்/175-335811) · `ta`
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் பிற்பகல் 2 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Expect rain/thundershowers in Western, Sabaragamuwa, North Western Provinces, and Galle/Matara districts after 2 pm. Morning snowfall possible in Western, Central, Sabaragamuwa provinces, and Galle/Matara districts. Thundershowers may occur. Take precautions against lightning. Sun's peak to Sri Lanka from April 5-15.
 
-மேல், மத்திய மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+🟩
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும்.
+In some places in the Western, Sabaragamuwa and North Western Provinces and Galle and Matara districts, there is a possibility of rain or thundershowers after 2 pm.
 
-மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள்.
+In the morning, in some parts of the Western, Central and Sabaragamuwa provinces, Galle and Matara districts, there is expected snowfall in the morning.
 
-சூரியனின் தொடர்பான வடதிசை நோக்கிய இயக்கத்தின் காரணமாக, இவ் வருடம் ஏப்ரல் மாதம் 5 ஆம் திகதியிலிருந்து 15 ஆம் திகதி வரை இலங்கையின் அகலக் கோடுகளுக்கு நேராக உச்சம் கொடுக்கவுள்ளது. R
+Thundershowers can be temporarily blowing in the area during the thunderstorm.
+
+The public is advised to take necessary precautions to reduce the effects of lightning impacts.
+
+Due to the Sun's Movement, it will peak to Sri Lanka's wide lines from April 5 to 15 this year.. Remble
 
 ◼️
 
 [Data](articles/36ebaa3b.json)
+
+[Extended Data](ext_articles/36ebaa3b.ext.json)
 
 ---
 
@@ -228,17 +328,23 @@ Police have also been arrested by the murder at home due to a family dispute, an
 
 ---
 
-### அரசாங்கம் மக்களிடம் விடுத்துள்ள கோரிக்கை
+### Demand
 
 *2024-04-10 08:36:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-மக்களிடம்-விடுத்துள்ள-கோரிக்கை/175-335810) · `ta`
 
-எதிர்வரும் தமிழ், சிங்கள புத்தாண்டுக் கொண்டாட்டத்தின் போது வீதி விபத்துக்கள் மற்றும் வானவேடிக்கைகளால் ஏற்படும் விபத்துக்களை குறைத்துக்கொள்வதில் கவனம் செலுத்துமாறு அரசாங்கம் மக்களிடம் கோரிக்கை விடுத்துள்ளது.
+The government urges citizens to reduce road accidents and fireworks use during Tamil and Sinhala New Year, highlighting that 36% of accidents are due to fireworks explosions and 17% involve crackers.
 
-பண்டிகைக் காலங்களில் ஏற்படும் விபத்துகளில் பட்டாசு வெடிப்பதால்  36% விபத்துக்கள் ஏற்படுவதாகவும், பட்டாசுகள் மற்றும் பட்டாசுகளை கவனக்குறைவாக பயன்படுத்துவதால் 17% கண் பாதிப்புகள் பதிவாகியுள்ளதாக ஆய்வு அறிக்கைகள் தெரிவிக்கின்றன. R
+🟩
+
+The government has called on the people to focus on reducing road accidents and fireworks during the upcoming Tamil and Sinhala New Year.
+
+Research reports show that 36% of accidents are caused by fireworks explosion during festivals, and 17% of the use of crackers and crackers have been reported.. Remble
 
 ◼️
 
 [Data](articles/7ade1e1d.json)
+
+[Extended Data](ext_articles/7ade1e1d.ext.json)
 
 ---
 
@@ -553,6 +659,28 @@ Question - The SLFP rise in the short term as the Sri Lanka PA has risen;Do you 
 [Data](articles/82a4b4cb.json)
 
 [Extended Data](ext_articles/82a4b4cb.ext.json)
+
+---
+
+### ඔබේ හිතුමනාපයට දුරකතන සංවාදයක් පටිගත කළ හැකි ද?
+
+*2024-04-10 03:16:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c884zpej28jo) · `si`
+
+ස්මාර්ට් ජංගම දුරකතන අද වන විට කුඩා දරුවන්, තරුණ තරුණයින් අතර පමණක් නොව වැඩිහිටි ප්‍රජාව අතර ද වැඩි වශයෙන් ජනප්‍රිය තාක්ෂණික මෙවලමක් බවට පත්ව තිබේ.
+
+අතීතයේ විවිධ ක්‍රමවේද භාවිත කරමින් දුරකතන සංවාද පටිගත කිරීම සිදු වුව ද මේ වන විට එය ඉතා පහසු කාර්යයක් බවට පත්ව ඇත්තේ ස්මාර්ට් ජංගම දුරකතන නිසා ය. නමුත් ඇතැම් දුරකතන නිෂ්පාදන සමාගම් පෞද්ගලිකත්වය පදනම් කරගත් ප්‍රතිපත්ති මත ලෝකයේ ඇතැම් කලාප සඳහා ඊට අවශ්‍ය පහසුකම් ලබා දීමෙන් වැළකී සිටියි.
+
+තාක්ෂණයේ දියුණුවත් සමග දුරකතන සංවාද පටිගත කිරීම පහසු වුව ද එය පසුපස ඇති සදාචාරය සම්බන්ධ කරුණු පිළිබඳව සමාජයේ බොහෝ දෙනෙක් ප්‍රශ්න කරති.
+
+ශ්‍රී ලංකාවේ මෑත කාලය දෙස හැරී බැලීමේදී ද සමාජයීය වශයෙන් පමණක් නොව දේශපාලනික වශයෙන් ද ආන්දෝලනාත්මක සිදුවීම් ඇති වීමට දුරකතන සංවාද පටිගත කිරීම් තුඩු දුන්නේ ය.
+
+ඉන් එක් සිදුවීමක් ලෙස රාජ්‍ය අමාත්‍ය ධූරයක් දැරූ රන්ජන් රාමනායක විසින් රහසිගතව පටිගත කරන ලද දුරකතන සංවාදත් සමග ඇති වුණු සිදුවීම් මාලාව හුවා දැක්විය හැකි ය.
+
+එපමණක් නොවන සමාජ මාධ්‍ය ඔස්සේ සිදු කෙරෙන ඇතැම් පළ කිරීම් හරහා විවිධ පාර්ශව අපහසුතාවට පත්වන අවස්ථා ද අපි දැක ඇත්තෙමු.
+
+...
+
+[Data](articles/b592485c.json)
 
 ---
 
@@ -990,19 +1118,27 @@ In bowling, Saris Pavli took 2 wickets for 16 runs, Amuruda Suren Kumar took 2 w
 
 ---
 
-### ’பொருட்களை தாமதிமின்றி விநியோகிக்க நடவடிக்கை’
+### Action to distribute the products without delay
 
 *2024-04-09 23:48:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருட்களை-தாமதிமின்றி-விநியோகிக்க-நடவடிக்கை/175-335809) · `ta`
 
-புத்தாண்டு காலத்தை முன்னிட்டு மத்திய தபால் பரிவர்த்தனைக்கு கிடைக்கப்பெறும் அதிகளவிலான பொருட்களை தாமதமின்றி அனுப்பி வைக்கும் நோக்கில் ஏப்ரல் 12 ஆம் திகதி பொது விடுமுறை நாளிலும், கடமையில் ஈடுபடுவதற்கு அனைத்து தபால் ஊழியர்களும் இணக்கம் தெரிவித்துள்ளனர் என  ஊடகத்துறை இராஜாங்க அமைச்சர் சாந்த பண்டார தெரிவித்தார்.
+Media Minister Shantha Bandara announced postal workers' agreement to work on April 12, a public holiday, to expedite item delivery to the Central Postal Transaction ahead of the New Year. This move is to address the surge in items sent by relatives and friends abroad, ensuring a smooth supply during the holiday period.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-மத்திய தபால் பரிவர்த்தனைக்கு இந்த புத்தாண்டுக் காலத்தில் அதிக எண்ணிக்கையிலான பொருட்களை வந்தடைந்துள்ளன. வெளிநாடுகளில் வசிக்கும் உறவினர்கள் மற்றும் நண்பர்கள் அதிக அளவில் பொருட்களை அனுப்பியுள்ளனர். புத்தாண்டு காலம் என்பதால் அந்த பொருட்களை துரிதமாக விநியோக்க வேண்டிய சவால் ஏற்பட்டுள்ளது.
+Media Minister Shantha Bandara said that all postal workers have agreed to work on the public holiday on April 12 to send more items to the central postal transaction ahead of the New Year.
 
-...
+He said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+A large number of items have arrived during this New Year for Central Postal Transaction. Relatives and friends living abroad have sent more items. Since the New Year is the challenge to supply those products.
+
+Although it is a public holiday on April 12, to avoid crisis, the post office and the postal trade unions and all employees agreed to commemorate the service that day.. Customs officials will also cooperate with it. (A)
+
+◼️
 
 [Data](articles/356378db.json)
+
+[Extended Data](ext_articles/356378db.ext.json)
 
 ---
 
@@ -2011,151 +2147,5 @@ A group of individuals staged a demonstration opposite the Fort Railway Station,
 [Data](articles/b1d55727.json)
 
 [Extended Data](ext_articles/b1d55727.ext.json)
-
----
-
-### The President and the General Elections are not held simultaneously - the United National Party
-
-*2024-04-09 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/180842) · `ta`
-
-The Presidential and General Elections in Sri Lanka won't occur simultaneously. Ranil Wickremesinghe, a former UNP member, will run for president without the elephant symbol. The presidential election is set for September-October, while the general election will follow. Wickremesinghe has the backing of 80% of the UNP, including Prasanna Ranatunga. The party aims to unite all sides and build the economy with international support.
-
-🟩
-
-The presidential and general election will not take place simultaneously. Ranil Wickremesinghe will contest the presidential election in a non -elephant symbol, said Ashu Marasinghe, a former United National Party (UNP) Member and the President's Parliamentary Affairs.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha yesterday.
-
-Many people have been making various comments on the elections in the country. Some people also say that both the presidential election and the general election will be held simultaneously. But the presidential election and the general election will not be held simultaneously.
-
-Cannot do so. According to the Constitution, the presidential election must be held in September and October. There is still time to go to the general election.
-
-Ranil Wickremesinghe is definitely contesting the presidential election. However, as he is contesting as a common candidate, he will compete in a symbol other than the elephant symbol.
-
-...
-
-[Data](articles/1476c546.json)
-
-[Extended Data](ext_articles/1476c546.ext.json)
-
----
-
-### Cabinet approval for 2500 teacher appointment to teach English language
-
-*2024-04-09 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180840) · `ta`
-
-The Cabinet has approved a plan to recruit 2500 teachers for English language instruction, aiming to increase the number of schools teaching English from 765 to 1000 by 2024, to meet the demand for 6500 teachers.
-
-🟩
-
-The government has decided to recruit 2500 teachers who are teaching in English under the 'English All English' program.
-
-Although the number of recognized teachers is 4441, there is a need for 6500 teachers to teach the lessons for the general standard of education in the English language.
-
-In addition to the number of teachers currently serving in most schools, the expansion of English language teaching has been found by the assessment of 765 schools.
-
-Accordingly, the Cabinet has approved the increase in the number of 765 schools that teach English language subjects to 1000 schools by 2024 and increased the number of teachers who teach English language lessons to 6500 to meet the needs of teacher.
-
-The Cabinet has approved the idea of the President and Education Minister to recruit 2500 teachers who teach English language lessons.
-
-◼️
-
-[Data](articles/5bc3020e.json)
-
-[Extended Data](ext_articles/5bc3020e.ext.json)
-
----
-
-### A Bill For Women’s Empowerment Was Issued
-
-*2024-04-09 17:30:34* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-bill-for-womens-empowerment-was-issued/) · `en`
-
-We can hear these days the discussions of women’s rights and empowering women. These discussions are carried on a male centric point of view.
-
-The male point of view about women, marriage and sexuality in the medieval times and thereafter was backward. These attitudes were bred and promoted under the guidance of the Roman Catholic Church. Significant traits prescribed by men for women included chastity, silence, modesty, reticence, sobriety, and obedience. This situation started to change with the protestant movement in 16th century and the industrial revolution in the 18th century.
-
-...
-
-[Data](articles/c5a8e999.json)
-
-[Extended Data](ext_articles/c5a8e999.ext.json)
-
----
-
-### Sri Lanka state workers, military given Rs107bn in April salaries
-
-*2024-04-09 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-workers-military-given-rs107bn-in-april-salaries-158063/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury has released 107 billion rupees to state workers for April salaries including an increment, State Minister for Finance Ranjith Siyambalapitiya said.
-
-The monthly salary bill is about 93 billion rupees, but it has gone up by about 13 billion rupees due to the 10,000 rupee allowance, he said.
-
-Usually the monthly salaries are paid starting from the 16 and 17. First teachers are paid, then the military the next day, followed by provincial councils, he said.
-
-“But for April we paid before the New Year,” Minister Siyambalapitiya said. “So today the Treasury released the funds to all state institutions.”
-
-“Tomorrow everyone should get their salaries, to their accounts or otherwise”.
-
-Colombo-based Verite Research analysis of expenditure found that 32 percent of the salaries go to the military and another 16 percent went to the public security ministry.
-
-The health salary bill was only 17 percent of the total, and education only 9 percent.
-
-...
-
-[Data](articles/6fd3dfe0.json)
-
-[Extended Data](ext_articles/6fd3dfe0.ext.json)
-
----
-
-### General Tamil political aspirations before identifying the general Tamil candidate: Mano
-
-*2024-04-09 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180839) · `ta`
-
-Mano Ganesan MP, Tamil Progressive Alliance leader, discusses the need for a unified Tamil political stance before identifying a general Tamil candidate. He emphasizes the importance of ensuring Tamil voters, especially those in the Northeast, vote as a whole. He also highlights the need for a clear political message to the world.
-
-🟩
-
-What are the general Tamil political aspirations?In particular, is it a complete implementation of thirteen?Thirteen “Blaza”?Is it federal?Northeastern Connection?Tamil Progressive Alliance leader Mano Ganesan MP said that the Tamil parties should come to the first conclusion of these.
-
-Mano Ganesan MP said at a media briefing held today.
-
-In the past, the Tamil people, especially the Northeastern Eelam siblings, have generously voted for the Tamil candidates in the South.
-
-Once they boycotted the election. The idea of being a common Tamil candidate is due to the fact that these two processes do not provide the expected use.. The possibility of this is to be carefully examined in the application contacts.
-
-In this way, if the general public Tamil candidate will contest, he must ensure that Tamil voters, especially the Tamil voters in the Northeast, will vote as a whole.
-
-Next, it must be determined what is said on behalf of the Sri Lankan Tamils for the entire world.
-
-...
-
-[Data](articles/b122ffb8.json)
-
-[Extended Data](ext_articles/b122ffb8.ext.json)
-
----
-
-### The postal service will feature Friday!
-
-*2024-04-09 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/180843) · `ta`
-
-The postal service in Sri Lanka will be extended to Friday, 12th, to deliver a large number of packages sent from abroad. This decision aims to ensure timely delivery. The postal department, previously operating at a loss, is now profitable, but challenges remain due to a shortage of essential service workers.
-
-🟩
-
-A large number of packages have been sent to Sri Lanka from abroad. The Minister of State for Postal Affairs Shantha Bandara said that it has been decided to carry out the postal service on the 12th as they should be added to the relevant persons in a timely manner.
-
-He further stated at a press conference held at the Presidential Media Center on Tuesday.
-
-A large number of packages have been sent to their relatives in Sri Lanka from abroad. Since they should be handed over to the relevant in a timely manner, all postal staff have decided to socialize the service that day.. The Customs Department has also promised to cooperate with this.
-
-The postal department, which was running at a loss, has now begun a profit. However, the shortage of people in essential services is a barrier to this journey. Therefore, permission is sought to recruit only essential services.
-
-...
-
-[Data](articles/ab582522.json)
-
-[Extended Data](ext_articles/ab582522.ext.json)
 
 ---

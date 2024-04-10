@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 11:53:06**
+As of **2024-04-10 12:04:08**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 2,954
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,251 (100.0%) of 18,253 articles have been extended.
+18,253 (100.0%) of 18,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### பண்டிகைக் காலங்களில் அத்தியாவசியப் பொருட்களுக்கு தட்டுப்பாடு இல்லை
+### There is no shortage of essentials in festivals
 
 *2024-04-10 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180884) · `ta`
 
-தமிழ், சிங்கள  புத்தாண்டு பண்டிகை காலத்தில் தேவையான உள்நாட்டில் உற்பத்தி செய்யப்படும் அரிசி , காய்கறிகள், முட்டை, கோழி , இறைச்சி மற்றும் பழங்கள் தட்டுப்பாடின்றி வழங்கப்பட்டுள்ளதாக விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+Mahinda Amaraweera, Agriculture Minister, stated that during the Tamil and Sinhala New Year festival, essential commodities like rice, vegetables, eggs, poultry, meat, and fruits were abundant. He highlighted the government's efforts to increase production, addressing past vegetable shortages and price hikes. Prices of essential commodities have been reduced, with the expectation of egg prices dropping to 30 rupees by May.
 
-அத்தோடு, கடந்த மாதங்களில் வேகமாக அதிகரித்து வந்த மரக்கறிகளின் விலையும் மரக்கறிகளின் தட்டுப்பாடும் தற்போது நிறைவுக்கு கொண்டுவரப்பட்டுள்ளதாக தெரிவித்துள்ளார்.
+🟩
 
-நாட்டினது உற்பத்தியை அதிகரிப்பதற்காக அரசாங்கத்தினால் மேற்கொள்ளப்பட்ட வேலைத்திட்டத்தின் கீழ் தேவைக்கு அதிகமாக அத்தியாவசியப் பொருட்கள் சந்தையில் பெற்றுக்கொள்ளக் கூடியதாக காணப்படும் எனவும் குறிப்பிட்டுள்ளார்
+Agriculture and Plantation Industries Minister Mahinda Amaraweera said that during the Tamil and Sinhala New Year festival, the necessary domestic rice, vegetables, eggs, poultry, meat and fruits were provided without scarcity.
 
-புத்தாண்டுக்கு முன்னர் ஒரு கிலோ கரட்டின் விலை 5,000 ரூபாவாக அதிகரிக்கும் என பலர் கூறிய போதிலும் தற்போது  கரட் மட்டுமன்றி அனைத்துப் பொருட்களினதும் விலை குறைவடைந்துள்ளதாகவும் வலியுறுத்தியுள்ளார்.
+He also said that the rapid rising vegetable prices and the shortage of vegetables have been completed in the past months.
 
-அதுமட்டுமன்றி மே மாதத்திற்கு முன்னர் முட்டையினது விலை 30 ரூபாவாக குறைக்கப்படும் எனவும் தெரிவித்துள்ளார்.
+He also said that under the government's program to increase the production of the country, more essential commodities are available in the market.
+
+Many people have said that the price of a kilo of bear will increase to 5,000 rupees ahead of the New Year, but he has urged that the prices of all commodities have been reduced.
+
+He also said that the price of the egg would be reduced to 30 rupees before May.
 
 ◼️
 
 [Data](articles/c7efe12b.json)
+
+[Extended Data](ext_articles/c7efe12b.ext.json)
 
 ---
 
@@ -150,23 +156,29 @@ PHI Roshan Kumara Vidhanage, who died, has been involved in dealing with many st
 
 ---
 
-### මහනුවර නගර සභා සේවකයින් විරෝධතාවයක
+### Kandy Municipal Council employees protest
 
 *2024-04-10 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195500) · `si`
 
-මහනුවර මහ නගර සභාවේ සියලු කාර්ය මණ්ඩල නගර සභා පරිශ්‍ර ඉදිරිපිට විරෝධතාවක නිරත වී තිබේ.
+Kandy Municipal Council employees are protesting against an unauthorized officer and the removal of a large haul of fruits. The Administrative Officer is in the hospital.
 
-නගර සභාවේ පරිපාලන නිලධාරීයෙකු හට මධ්‍යයම වෙළෙඳ පොළ ඉදිරිපිට දී‍ අනවසර වෙළෙන්ඳෙකු විසින් පහරදීමේ සිද්ධියට විරෝධය පළ කරමින් මෙම විරෝධතාව ආරම්භ කර ඇති බව "අද දෙරණ" වාර්තාකරු පැවසුවේය.
+🟩
 
-මධ්‍යම වෙළෙඳපොළ භුමියට ප්‍රවේශ වන මාර්ගය අවහිර වන පරිදි දමා තිබු පලතුරු තොගයක් ඉවත් කරන ලෙස දැනුම්දීම හේතුවෙන් මෙම පහරදීම සිදුව ඇති බව ස﻿ඳහන්ය.
+All staff have been protesting in the Kandy Municipal Council premises.
 
-පහරකෑමට ලක්වු පරිපාලන නිලධාරීවරයා මේ වන විට මහනුවර ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටින බව වාර්තා වේ.
+The protest has commenced against an unauthorized officer in front of the Urban Council in front of an unauthorized market in front of an unauthorized market.
 
-මීට සතියකට පෙර කසල බැහැර කිරිමේ නිරත වු සේවකයෙකු ද පහරකෑමකට ලක්ව රෝහල් ගත කර තිබු අතර මෙම තත්ත්වය තුළ තම ආරක්ෂාව තහවුරු කරන ලෙස විරෝධතාවයේ නිරත නගර සභා කාර්ය මණ්ඩලය බලධාරීන්ගෙන් ඉල්ලීමක් සිදුකරයි.
+The assailant has taken place due to announcement to remove a large haul of fruits which had been blocked.
+
+The Administrative Officer of the Administrative Officer is currently receiving treatment at the Kandy National Hospital.
+
+An employee who was engaged in a garbage disposal a week ago was also identified as a strike, and the protesting municipal staff also requested the protest to ensure protection.
 
 ◼️
 
 [Data](articles/8b71d9ab.json)
+
+[Extended Data](ext_articles/8b71d9ab.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 17:18:14**
+As of **2024-04-10 17:34:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,965
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,306 (100.0%) of 18,308 articles have been extended.
+18,308 (100.0%) of 18,308 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ In recent weeks, Mr Yoon been criticised for appearing to be out of touch with v
 
 [Data](articles/99f7b038.json)
 
+[Extended Data](ext_articles/99f7b038.ext.json)
+
 ---
 
 ### Immunoglobulin scandal: Additional Health Secretary’s bail application rejected
@@ -65,6 +67,8 @@ When Saman Ratnayake was produced before the Maligakanda Magistrate’s Court ea
 ◼️
 
 [Data](articles/e8a6d2c9.json)
+
+[Extended Data](ext_articles/e8a6d2c9.ext.json)
 
 ---
 

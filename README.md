@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 01:03:20**
+As of **2024-04-11 01:18:26**
 
 ## Newspaper Stats
 
-*Scraped **18,358** Articles*
+*Scraped **18,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 1,001
 economynextcom | 1,027
 adalk | 1,545
 tamilmirrorlk | 2,149
-adaderanalk | 2,197
-virakesarilk | 2,733
+adaderanalk | 2,198
+virakesarilk | 2,734
 dailymirrorlk | 2,802
 adaderanasinhalalk | 2,973
 
@@ -26,43 +26,73 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,356 (100.0%) of 18,358 articles have been extended.
+18,358 (100.0%) of 18,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### காதலி உயிரிழந்து 50வது நாளில் காதலனும் உயிர்மாய்ப்பு - யாழ்ப்பாணத்தில் துயரம்!
+### அனைத்து தோஷங்களுக்கும் நிவர்த்தி தரும் செந்தலை ஸ்ரீ மீனாட்சி சுந்தரேஸ்வரர் ஆலயம்
+
+*2024-04-11 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180942) · `ta`
+
+தற்போதைய போட்டிகளும், பொறாமைகளும் நிறைந்த சூழலில் அறிவிக்கப்பட்ட மற்றும் அறிவிக்கப்படாத சவால்களை நாளாந்தம் சந்திக்கும் எம்முடைய மக்கள்... தங்கள் வளர்ச்சிக்காக ஆன்மீக பெரியோர்களையோ அல்லது ஜோதிட நிபுணர்களையோ சந்திக்கும்போது வைக்கும் முதன்மையான கோரிக்கை அனைத்து பிரச்சினைகளுக்கும் ஒரே தீர்வாக ஏதாவது ஒரு ஆலயத்தை மட்டும் குறிப்பிடுங்கள். அதற்கு நாங்கள் சென்று வருகிறோம் என சொல்வர். இத்தகைய அன்பர்களுக்காக எம்முடைய முன்னோர்கள் சுட்டிக் காட்டி இருக்கும் தலம் தான் செந்தலை ஸ்ரீ மீனாட்சி சுந்தரேஸ்வரர் ஆலயம்.
+
+...
+
+[Data](articles/e68620dd.json)
+
+---
+
+### The girlfriend died on the 50th day of the boyfriend - the tragedy in Jaffna!
 
 *2024-04-11 00:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/180941) · `ta`
 
-காதலி ஒருவர் தூக்கிட்டு இறந்து 50வது செவ்வாய்க்கிழமை (09) காதலனும் தூக்கிட்டு தற்கொலை செய்த சம்பவமானது அனைவரையும் சோகத்தில் ஆழ்த்தியுள்ளது. சிங்காவத்தை, துர்க்காபுரம், தெல்லிப்பழை பகுதியைச் சேர்ந்த கதிர்காமலிங்கம் கோபிசன் (வயது 20) என்ற இளைஞரே இவ்வாறு உயிரிழந்துள்ளார்.
+A tragic suicide in Jaffna: Kadirgamalingam Gopisan, 20, from Tellippalai, hanged himself 50 days ago on a Tuesday.
 
-குறித்த இளைஞரின் காதலியான தெல்லிப்பழை பகுதியைச் சேர்ந்த யுவதி ஒருவர் கடந்த 50 நாட்களுக்கு முன்னர் தூக்கிட்டு உயிர்மாய்த்துள்ளளார். இந்நிலையில் குறித்த இளைஞன் செவ்வாய்க்கிழமை (09) மதியம் ஒரு மணியளவில் அவரது இல்லத்தில் தூக்கிட்டு உயிர்மாய்த்துள்ளளார்.
+🟩
+
+The suicide of a girlfriend who died and died on Tuesday (09) and committed suicide on the 50th Tuesday (09).. Kadirgamalingam Gopisan (20 years old) from Singawatte, Durgapuram and Tellippalai area has died.
+
+A young woman from Tellippali, a young man, has been hanged 50 days ago. In this case, the young man was hanged at his residence on Tuesday (09).
 
 ◼️
 
 [Data](articles/9fe0f75a.json)
 
+[Extended Data](ext_articles/9fe0f75a.ext.json)
+
 ---
 
-### 40 வயதுக்குட்பட்ட, 40 வயதுக்கு மேற்பட்ட  இரண்டு பிரிவுகளிலும் ஓல்ட் பீட்ஸ் வெற்றி
+### Old Beats win in both categories under the age of 40, over 40
 
 *2024-04-11 00:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180940) · `ta`
 
-கொட்டாஞ்சேனை புனித ஆசீர்வாதப்பர் கல்லூரி மைதானத்தில் கடந்த வார இறுதியில் நடைபெற்ற ஓல்ட் பெனடிக்டைன்ஸ் - ஓல்ட் பீட்டரைட்ஸ் அணிகளுக்கு இடையிலான வருடாந்த கால்பந்தாட்டப் போட்டிகளில் ஓல்ட் பீட்டரைட்ஸுக்கு இரட்டை வெற்றி கிடைத்தது.
+Old Beats win in both under-40 and over-40 categories at the Annual Football Tournament, with Old Peters winning the Milroy Perera Memorial Bowl. Old Benz lost by 4 lighter goals, including a penalty, and had several missed penalties. Tanjaya Sampbat and Gayan Rwaldo scored for Old Beats. Old Benz Vettarans won by 2-0, but captain Rendolv Perera was hospitalized. Best players: Shehan Dhanush (Old Beats), Isuru Udith Perera (Old Beats), Trivin Ramanathan (Old Benz), Man of the Match: Joshua Fernando (Old Beats).
 
-40 வயதுக்குட்பட்டவர்களுக்கான பிரதான போட்டியிலும்  40 வயதுக்கு மேற்பட்டவர்களுக்கான வெட்டரன்ஸ் போட்டியிலும் ஒல்ட் பென்ஸ் அணிகளை தலா 2 - 0 என்ற கோல்கள் வித்தியாசத்தில் வெற்றிகொண்ட ஓல்ட் பீட்ஸ் அணிகள் வெற்றிக் கிண்ணங்களை சுவீகரித்தன.
+🟩
 
-40 வயதுக்குட்பட்டவர்களுக்கான போட்டியில் ஒரு பெனல்டி உட்பட குறைந்தது 4 இலகுவான கோல் போடும் வாய்ப்புகளைத் தவற விட்டதன் காரணமாக ஓல்ட் பென்ஸ் தோல்வியைத் தழுவியது.
+Old Peters in the Annual Football Tournament between Old Benedictines and Old Peters at the St. Blessed College Ground at St. Blessed by Kottanchen.
 
-போட்டியின் 6ஆவது நிமிடத்தில் கிடைக்கப்பெற்ற பெனல்டியை ஓல்ட் பென்ஸ் பின்கள வீரர் சமீர கிருஷான்த தவறவிட்டதுடன் தொடர்ந்து 13ஆவது, 14ஆவது, 28ஆவது நிமிடங்களில் ஓல்ட் பென்ஸ் வீரர்கள் இலகுவான கோல் போடும் வாய்ப்புகளை கோட்டை விட்டனர்.
+Old Beats teams won the winning bowls by 2 - 0 each in the main match for the under -40 and the Vettarans for over 40.
 
-இடைவேளைக்குப் பின்னர் 52ஆவது நிமிடத்தில் மற்றொரு இலகுவான கோல் போடும் வாய்ப்பை தவறவிட்டது.
+Old -Benz lost at least 4 lighter goals, including a penalty in the under -40 -year -old competition.
+
+Old -Benz Pinnacle player Sameera Krishna missed Penaldi in the 6th minute of the competition, followed by Old Benz players in the 13th, 14th and 28th minutes.
+
+In the 52nd minute after the break, another lighter goal missed.
+
+In the 54th minute, Tanjaya Sampbat scored the first goal for the Old Beats.
+
+In the 75th minute of the match, Gayan Rwaldo moved the ball in the central field and scored the 2nd goal of the Old Beats.
+
+Old Peteries won the Milroy Perera Memorial Bowl for the third consecutive time by winning by a margin of 2 - 0.
 
 ...
 
 [Data](articles/379f5397.json)
+
+[Extended Data](ext_articles/379f5397.ext.json)
 
 ---
 
@@ -149,6 +179,24 @@ St.. Anthony's Industries Group Proudly integrates its various sub -trades such 
 [Data](articles/762147e3.json)
 
 [Extended Data](ext_articles/762147e3.ext.json)
+
+---
+
+### 19 more Indian fishermen detained in Sri Lanka return home
+
+*2024-04-10 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98562/19-more-indian-fishermen-detained-in-sri-lanka-return-home) · `en`
+
+Nineteen Indian fishermen detained by the Sri Lanka Navy were on Tuesday repatriated to India, the Indian High Commission said, almost a week after a similar number of fishermen were sent back to their home country.
+
+“19 Indian fishermen have been repatriated from Sri Lanka and are currently on their way to Chennai, the Indian High Commission here said in a post on X.
+
+The Navy has so far held 23 Indian trawlers and 178 Indian fishermen for allegedly fishing in the island nation’s waters thus far in 2024, and handed them over to authorities for legal action, the Sri Lankan Navy late last month confirmed in a statement.
+
+The fishermen issue is a contentious one in the ties between India and Sri Lanka, with Lankan Navy personnel even firing at Indian fishermen in the Palk Strait and seizing their boats in several alleged incidents of illegally entering Sri Lankan territorial waters.
+
+...
+
+[Data](articles/155462a1.json)
 
 ---
 
@@ -2325,47 +2373,5 @@ The monk had previously been serving a six year sentence for contempt of court b
 [Data](articles/663298c4.json)
 
 [Extended Data](ext_articles/663298c4.ext.json)
-
----
-
-### The government will provide all relief for the benefit of disabled soldiers - President
-
-*2024-04-10 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180878) · `ta`
-
-President Ranil Wickremesinghe pledged to support disabled soldiers, providing 50 electric motorcycles costing 17 million rupees, aiming to enhance their livelihoods.
-
-🟩
-
-President Ranil Wickremesinghe has promised to provide all the relief to the government for the safety and welfare of the disabled soldiers.
-
-The President made this observation at the event held at the Headquarters of the Defense Ministry at Sri Jayawardenapura Kotte on Tuesday (09).
-
-Accordingly, 50 electric motorcycles were provided at a cost of 17 million rupees to improve the livelihood of the disabled soldiers and their families.
-
-The President who visited the Headquarters of the Ministry of Defense this morning was welcomed by the Secretary General of the Ministry of Defense General (Retired) Kamal Gunaratne.
-
-The president was provided with electric bicycles to some of the disabled soldiers as a symbol of the event.
-
-The Army Service Authority hopes that this will be able to improve their entrepreneurship by promoting and promoting electric motorcycles to soldiers.
-
-...
-
-[Data](articles/48e7641a.json)
-
-[Extended Data](ext_articles/48e7641a.ext.json)
-
----
-
-### Eid-ul-Fitr festival at Galle Face Green
-
-*2024-04-10 11:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Eid-ul-Fitr-festival-at-Galle-Face-Green/110-280554) · `en`
-
-Muslims gathered at Galle Face Green in Colombo this morning to attend Eid prayers as the holy fasting month of Ramadan came to an end. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/6116c037.json)
-
-[Extended Data](ext_articles/6116c037.ext.json)
 
 ---

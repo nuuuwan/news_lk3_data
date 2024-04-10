@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 02:33:47**
+As of **2024-04-11 02:50:09**
 
 ## Newspaper Stats
 
@@ -26,23 +26,31 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,364 (100.0%) of 18,365 articles have been extended.
+18,365 (100.0%) of 18,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### சந்தானம் நடிக்கும் 'இங்க நான் தான் கிங்கு' படத்தின் இரண்டாவது பாடல் வெளியீடு
+### Santhanam starring 'Inga I Tan Kingu' is the second song release
 
 *2024-04-11 02:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180945) · `ta`
 
-கதையின் நாயகனாக உயர்ந்து வெற்றி படங்களையும், தோல்வி படங்களையும் வழங்கி ஓரளவு நிலையான சந்தை மதிப்பினை கொண்ட நடிகர் சந்தானம் கதையின் நாயகனாக நடித்திருக்கும் 'இங்க நான் தான் கிங்கு' எனும் திரைப்படத்தில் இடம்பெற்ற 'குலுக்கு குலுக்கு..' எனும் இரண்டாவது பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியாகி இருக்கிறது.
+"Santhanam's 'Inga I Tan Kingu' is the second song from 'Kinku', directed by Anand Narayan, featuring a star-studded cast including Santhanam, Priyalaya, and late actors Manopala and Sesu. The first song, 'Mayone', and the second, 'Kulukkul Kuluku', have been released, with music by Iman and cinematography by Om Narayan. The film, produced by Sushmita Anbu Chezhiyan, has been successful."
 
-இயக்குநர் ஆனந்த் நாராயண் இயக்கத்தில் உருவாகி இருக்கும் 'இங்க நான் தான் கிங்கு' எனும் திரைப்படத்தில் சந்தானம், பிரியாலயா, தம்பி ராமையா, விவேக் பிரசன்னா, பால சரவணன், முனீஸ்காந்த், மாறன், கூல் சுரேஷ், லொள்ளு சபா சுவாமிநாதன், மறைந்த நடிகர்கள் மனோபாலா மற்றும் சேசு உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஓம் நாராயண் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு டி. இமான் இசையமைத்திருக்கிறார். காமெடி என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை கோபுரம் பிலிம்ஸ் பட நிறுவனம் சார்பில் சுஷ்மிதா அன்பு செழியன் தயாரித்திருக்கிறார்.
+🟩
 
-...
+The second song 'Kulukkul Kuluku', which is featured in the film 'Kinku', which is the hero of the story, has been released as the hero of the story and the success of the story and the success of the film.
+
+Directed by director Anand Narayan, 'Inga I Kinku' stars Santhanam, Priyalaya, Thambi Ramaiah, Vivek Prasanna, Bala Saravanan, Muniskant, Maran, Cool Suresh, Lallu Saba Swaminathan, late actors Manopala and Sesu and many others.. Om Narayan's cinematography. Iman has composed music. Sushmita Anbu Chezhiyan has produced the film on behalf of the Tower Films Film Company.
+
+The first song, which begins as 'Mayone' featured in the film. This is followed by the second song and the lyrical video for the song 'Sojawa Suttunavan'. This song is written by songwriter and director Vignesh Sivan, composer and singer D.. Iman and playback singer Cinisha Jayaseelan have sung together. The song, which is located in Thullaisi, has attracted the younger generation.
+
+◼️
 
 [Data](articles/e9c39813.json)
+
+[Extended Data](ext_articles/e9c39813.ext.json)
 
 ---
 

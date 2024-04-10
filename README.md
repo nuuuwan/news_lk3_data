@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 20:18:33**
+As of **2024-04-10 20:33:50**
 
 ## Newspaper Stats
 
-*Scraped **18,338** Articles*
+*Scraped **18,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ dailyftlk | 1,001
 islandlk | 1,001
 economynextcom | 1,027
 adalk | 1,544
-tamilmirrorlk | 2,147
+tamilmirrorlk | 2,148
 adaderanalk | 2,194
-virakesarilk | 2,726
-dailymirrorlk | 2,799
+virakesarilk | 2,727
+dailymirrorlk | 2,800
 adaderanasinhalalk | 2,970
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,338 (100.0%) of 18,338 articles have been extended.
+18,338 (100.0%) of 18,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### தந்தை பிறந்த மண்ணில் சர்வதேச கிரிக்கெட் வாழ்க்கையை ஆரம்பிக்க கிடைத்தது பெரும் பாக்கியமாகும் - பிரித்தானிய தமிழ் யுவதி அமுருதா கூறுகிறார்
+
+*2024-04-10 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180936) · `ta`
+
+எனது தந்தை பிறந்த, கிரிக்கெட் விளையாடிய இலங்கை மண்ணில் எனது சர்வதேச கிரிக்கெட் வாழ்க்கையை ஆரம்பிக்கக் கிடைத்ததை ஓர் அற்புதமாகவும் பாக்கியமாகவும்  கருதுகிறேன் என வீரகேசரிக்கு 19 வயதுக்குட்பட்ட இங்கிலாந்து அணி வீராங்கனை அமுருதா சுரேன்குமார் தெரிவித்தார்.
+
+இலங்கையில் இன்னொரு கிரிக்கெட் சுற்றுப் பயணத்தை ஏற்படுத்திக்கொடுக்குமாறு தனது தந்தையிடம் கோரவுள்ளதாகவும் சகலதுறை வீராங்கனையான அமுருதா குறிப்பிட்டார்.
+
+காலி சர்வதேச விளையாட்டரங்கில் செவ்வாய்க்கிழமை (09) நிறைவடைந்த 19 வயதுக்குட்பட்ட மகளிர் ஒருநாள் மும்முனை கிரிக்கெட் தொடருக்குப் பின்னர் வீரகேசரிக்கு அளித்த பேட்டியின்போதே அமு என எல்லோராலும் பாசமாக அழைக்கப்படும் அமுருதா தனது கருத்தை வெளியிட்டார்.
+
+பதில்  (அமுருதா): 'எனது பெற்றோர் இருவருமே கிரிக்கெட்டின்பால் மிகுந்த ஆர்வம் உடையவர்கள். எனது தந்தை (சுரேன்குமார்) இலங்கையில் பாடசாலை மட்டத்தில் கிரிக்கெட் விளையாடி இருந்தார். எனது தாயார் (லோஜினி) இளம் வயதில் கிரிக்கெட் விளையாடியதுடன் வலைபந்தாட்டத்திலும் ஈடுபட்டார். அவர்கள் அளித்துவரும் ஆக்கமும் ஊக்கமுமே என்னை கிரிக்கெட் விளையாட்டில் ஈடுபட வைத்தது.
+
+...
+
+[Data](articles/2febd161.json)
+
+---
+
+### World Athletics introduces $50,000 prize money for Olympic gold medallists
+
+*2024-04-10 20:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/World-Athletics-introduces-50-000-prize-money-for-Olympic-gold-medallists/107-280573) · `en`
+
+Paris, April 10 (The Guardian) - Sebastian Coe has defended World Athletics’ decision to break with 128 years of Olympic tradition by becoming the first sport to give athletes prize money if they are victorious in Paris this summer.
+
+Coe said the surprise move, under which gold medal-winning athletes in each of the sport’s 48 events will walk away with $50,000 (£39,360), was merely a reflection that the world has changed and said it was time his sport gave more to its stars.
+
+However the decision clearly blindsided the International Olympic Committee, which has never awarded money for participating or winning a medal, as it believes that to compete at a Games is reward enough.
+
+Asked whether the announcement would violate the Olympic spirit, Coe was clear. “I don’t think it does,” he replied.
+
+...
+
+[Data](articles/cd42f67b.json)
+
+---
 
 ### Money prizes to Olympic athletic champions
 
@@ -73,6 +109,28 @@ He added that 250 buses and 750 vans have been permitted for the tourism industr
 [Data](articles/39558c14.json)
 
 [Extended Data](ext_articles/39558c14.ext.json)
+
+---
+
+### “இனியும் கம்பனி காரணம் கூற முடியாது” ஜீவன் அதிரடி அறிவிப்பு
+
+*2024-04-10 19:42:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இனியும்-கம்பனி-காரணம்-கூற-முடியாது-ஜீவன்-அதிரடி-அறிவிப்பு/76-335827) · `ta`
+
+பெருந்தோட்டத் தொழிலாளர்களுக்கான சம்பள உயர்வு தொடர்பான சம்பள நிர்ணயசபையின் 2ஆவது கூட்டம் எதிர்வரும் 24ஆம் திகதி நடைபெறவுள்ளது.
+
+இதன்போது அனைத்து தொழிற்சங்கங்களும் தொழிலாளர் பக்கம் நின்று உரிய வகையில் தமது வாக்கை பயன்படுத்த வேண்டும்." என்று இ.தொ.காவின் பொதுச்செயலாளரும், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்.
+
+கொழும்பில் இன்று (10) நடைபெற்ற ஊடக சந்திப்பின்போதே இவ்வாறு கூறினார். மேலும் தெரிவிக்கையில்,
+
+சம்பள நிர்ணயசபை இன்று கூடியது. 10 தொழிற்சங்கங்களில் 9 தொழிற்சங்க பிரதிநிதிகள் பங்கேற்றிருந்தனர். தோட்ட சேவையாளர் சங்க பிரதிநிதிகள் பங்கேற்கவில்லை. பெருந்தோட்டக் கம்பனிகளும் வரவில்லை.
+
+10 ஆம் திகதி சம்பள நிர்ணயசபைக் கூடும் என முதலாம் திகதியே அறிவித்திருந்தோம். எனினும், தம்மால் வரமுடியாது என கம்பனிகாரர்கள் நேற்றைய தினமே (09) அறிவித்திருந்தனர்.
+
+சம்பள உயர்வு தொடர்பில் கடந்த ஆகஸ்ட் மாதம் முதலே பேச்சு நடத்தி வருகின்றோம். எனவே, உரிய கால அவகாசம் இல்லை என்பது உட்பட கம்பனிகள் கூறிவரும் காரணங்கள் ஏற்புடையானவையாக அல்ல.
+
+...
+
+[Data](articles/8b92faac.json)
 
 ---
 
@@ -2315,71 +2373,5 @@ Meanwhile, the second phase of the first school term of Muslim schools will begi
 [Data](articles/82e18c45.json)
 
 [Extended Data](ext_articles/82e18c45.ext.json)
-
----
-
-### South Korea in the middle of three questions
-
-*2024-04-10 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195499) · `si`
-
-South Korea's General Election, seen as a referendum on President YOON Suk Seno's tenure, faces challenges. The Democratic Party, main opposition, hinders the President's success. Critics warn the election may not benefit any major party. South Korea grapples with rising food prices, aging population, and medical strikes.
-
-🟩
-
-The General Election of South Korea has begun. Criters say that the election can be considered as a referendum on the President's presence.
-
-President YOON Suk Seno has three more years to complete his tenure.
-
-However, as the main opposition, the Democratic Party, is responsible for the country, is difficult to achieve its program to a success of the President.
-
-However, election critics point out that the election cannot be guessed to be good for any major party.
-
-South Korea is currently facing three problems. The growth rate of rapidly rising food prices, the development of the adult population and the medical strike becomes 3.
-
-◼️
-
-[Data](articles/59b10795.json)
-
-[Extended Data](ext_articles/59b10795.ext.json)
-
----
-
-### Government Publication Sales Counter closed on Monday
-
-*2024-04-10 10:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-Publication-Sales-Counter-closed-on-Monday/108-280551) · `en`
-
-Colombo, April 10 (Daily Mirror) - The Government Information Department today announced the closure of the Government Publication Sales Counter at Narahenpita on April 15.
-
-The decision was taken due to stock taking and certain internal maintenance activities.
-
-However, the counter will be open as usual on the following day (16).
-
-◼️
-
-[Data](articles/dd1468df.json)
-
-[Extended Data](ext_articles/dd1468df.ext.json)
-
----
-
-### 'Premulu' released in digital
-
-*2024-04-10 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180861) · `ta`
-
-"Premulu," a romantic comedy, is released on Disney Plus Hotstar Digital in Tamil, Telugu, Malayalam, and Kannada on April 12, directed by Girish and featuring Naslen K Kapoor, Mamida Baiju, and others.
-
-🟩
-
-After getting ready for small investment and released in the film mansion, the film is released on the digital site within a short time.. Digital site companies have been forced to release new films to satisfy them weekly, as the number of fans visiting the digital site. The film 'Premulu', which entertained South Indian fans on Disney Plus Hotstar Digital, which has subscribed to a large number of Tamil fans around the world.. The film will be released on April 12 in Tamil, Telugu, Malayalam and Kannada on the Disney Plus Hotstar Digital site.
-
-A.D.. Directed by Girish, the film stars Naslen K Kapoor, Mamida Baiju, Sangeet Pratap, Akila Barkavan, Shyam Mohan, Meenakshi Raveendran, Altaf Salim, Sameer Khan and many others.. Vishnu Vijay has composed the film, which is being recorded by Ajmal Sabu.
-
-The highlight of this is that the film, which is being produced in the romantic comedy janer, can be enjoyed on the digital site without any censorship.
-
-◼️
-
-[Data](articles/6be08296.json)
-
-[Extended Data](ext_articles/6be08296.ext.json)
 
 ---

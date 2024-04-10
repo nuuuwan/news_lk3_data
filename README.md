@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 18:33:56**
+As of **2024-04-10 18:52:05**
 
 ## Newspaper Stats
 
-*Scraped **18,323** Articles*
+*Scraped **18,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,121 @@ dailyftlk | 1,001
 islandlk | 1,001
 economynextcom | 1,027
 adalk | 1,542
-tamilmirrorlk | 2,144
-adaderanalk | 2,193
+tamilmirrorlk | 2,147
+adaderanalk | 2,194
 virakesarilk | 2,725
-dailymirrorlk | 2,794
-adaderanasinhalalk | 2,967
+dailymirrorlk | 2,795
+adaderanasinhalalk | 2,969
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,323 (100.0%) of 18,323 articles have been extended.
+18,323 (100.0%) of 18,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### 15 ஆம் திகதி பொது விடுமுறை
+
+*2024-04-10 18:35:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-ஆம்-திகதி-பொது-விடுமுறை/175-335826) · `ta`
+
+தமிழ் சிங்களப் புத்தாண்டை முன்னிட்டு எதிர்வரும் 15 ஆம் திகதி திங்கட்கிழமையை பொது விடுமுறை தினமாக பொது நிர்வாக அமைச்சு அறிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/0caabcbb.json)
+
+---
+
+### ஏப்ரல் 15 பொது விடுமுறை
+
+*2024-04-10 18:34:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-15-பொது-விடுமுறை/175-335825) · `ta`
+
+அனைத்து அரச ஊழியர்களுக்கும் ஏப்ரல் 15 ஆம் திகதி பொது விடுமுறையாக உள்துறை அமைச்சு இன்று அறிவித்துள்ளதாக அமைச்சின் செயலாளர் பிரதீப் யசரத்ன தெரிவித்துள்ளார்.
+
+தேசிய எண்ணெய் சாத்துதல் திங்கட்கிழமை (15) நடைபெறவுள்ள நிலையில் இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக டெய்லி மிரருக்கு அவர் தெரிவித்தார்.
+
+இதேவேளை, எதிர்வரும் சிங்கள மற்றும் தமிழ் புத்தாண்டை முன்னிட்டு ஏப்ரல் 15 ஆம் திகதியை பொது விடுமுறை தினமாக அறிவிக்குமாறு அரச அதிகாரிகள் மற்றும் பொதுமக்கள் பல கோரிக்கைகளை முன்வைத்துள்ளதாக உள்நாட்டலுவல்கள் இராஜாங்க அமைச்சர் அசோக பிரியந்த தெரிவித்துள்ளார்
+
+◼️
+
+[Data](articles/52dbc25a.json)
+
+---
+
+### யாழில் வன்முறை கும்பலின் அட்டகாசம்
+
+*2024-04-10 18:31:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-வன்முறை-கும்பலின்-அட்டகாசம்/175-335824) · `ta`
+
+யாழ்ப்பாணம் - திருநெல்வேலி, ஆடியபாதம் வீதியில் உள்ள வீடொன்றினுள் புகுந்த வன்முறை கும்பலொன்றினால் வாகனங்கள் சேதப்படுத்தப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/6bb95eb6.json)
+
+---
+
+### මාලිමාවෙන් සජිත් ට දැනුම්දීමක්
+
+*2024-04-10 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195519) · `si`
+
+අනුර දිසානායක මහතා සහ සජිත් ප්‍රේමදාස මහතා අතර පැවැත්වීමට නියමිත විවාදයක් පිළිබඳ වැරදි සහගත තොරතුරු සමාජගත කිරීමේ උත්සාහයක් ඇති බව ජාතික ජන බලවේගයේ ජාතික විධායක සභික වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+
+බැවින් ඒ පිළිබඳ සත්‍ය තත්ත්වය පැහැදිලි කළ යුතු බවද ඔහු පෙන්වා දෙයි.
+
+"දෙපාර්ශ්වය අතර විවාදයක් පිළිබඳ පළමු කතාබහ නිර්මාණය වන්නේ අප පක්ෂයේ නායක අනුර කුමාර දිසානායක සහෝදරයා විසින් 2023.01.09 දින රූපවාහිනී වැඩසටහනකදී රටේ සංවර්ධන මාවත පිළිබඳව සජිත් ප්‍රේමදාස මහතා සමග විවාදයකට සූදානම් බවට කරන ලද ප්‍රකාශය සමගය. ඒ, සජිත් ප්‍රේමදාස මහතා විසින් විවිධ මාධ්‍යයන්හි ජාතික ජන බලවේගයට එරෙහිව කරුණු දක්වමින් සිටි තත්ත්වය පිළිබඳව මාධ්‍යවේදීන් විසින් මතු කරන ලද අදහස්වලට ප්‍රතිචාර ලෙසය."
+
+...
+
+[Data](articles/623a909c.json)
+
+---
+
+### April 15 declared a government holiday
+
+*2024-04-10 18:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/April-15-declared-a-government-holiday/108-280570) · `en`
+
+Colombo, April 10 (Daily Mirror) - The State Ministry of Home Affairs today declared April 15 as a Public (government) holiday for all state employees, Ministry Secretary Pradeep Yasarathna said.
+
+He told the Daily Mirror that the decision was taken as the National Oil Anointing Ceremony falls on Monday (15).
+
+Meanwhile, Home Affairs State Minister Ashoka Priyantha earlier said several requests have been made by state officials and the public to declare April 15 as a public holiday because of the upcoming Sinhala and Tamil New Year.
+
+◼️
+
+[Data](articles/209bffa3.json)
+
+---
+
+### 15 April declared a public holiday
+
+*2024-04-10 18:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98560/15-april-declared-a-public-holiday-) · `en`
+
+The government has declared 15 April (Monday) as a public holiday, the Ministry of Home Affairs announced.
+
+◼️
+
+[Data](articles/c6f788a8.json)
+
+---
+
+### අප්‍රේල් 15 නිවාඩු දිනයක්
+
+*2024-04-10 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195518) · `si`
+
+අප්‍රේල් 15 වනදා රජයේ ප්‍රසිද්ධ නිවාඩු දිනයක් බවට පත් කර ඇති බව දැනුම්දෙයි.
+
+ඒ් බව රාජ්‍ය පරිපාලන ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශ ලේකම් ප්‍රදීප් යසරත්න මහතා දැනුම්දී තිබේ.
+
+අලුත් අවුරුදු චාරිත්‍රයක් වන ජාතික හිසතෙල් ගෑමේ චාරිත්‍රය 2024 අප්‍රේල් මස 15 වන දිනය යෙදී ඇත.
+
+◼️
+
+[Data](articles/6ac675dd.json)
+
+---
 
 ### The beginning of registering foreign players in the Lanka Premier League
 
@@ -2269,151 +2369,5 @@ In addition, the Trincomalee headquarters headquarters headquarters said that th
 [Data](articles/87dc83c8.json)
 
 [Extended Data](ext_articles/87dc83c8.ext.json)
-
----
-
-### Another underworld gang arrested
-
-*2024-04-10 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195497) · `si`
-
-Police arrested 9 more organized crime gangs, 11 individuals, and have made 363 arrests in organized criminal activities so far.
-
-🟩
-
-Police say that nine more organized crime gangs were arrested in the operations carried out by 20 special teams.
-
-Police have also seized 11 persons who were involved in criminal relations with them.
-
-Police have arrested 363 organized criminal criminal criminal criminal criminal criminal crime until yesterday.
-
-◼️
-
-[Data](articles/1d13ca2e.json)
-
-[Extended Data](ext_articles/1d13ca2e.ext.json)
-
----
-
-### Sajith Premadasa's fasting message!
-
-*2024-04-10 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/180864) · `ta`
-
-"Sajith Premadasa congratulates Muslims worldwide on Eidul Fitr, celebrating peace and brotherhood."
-
-🟩
-
-"I would like to convey my heartfelt congratulations to the peaceful, reconciliation brotherly Eidul Fitr, to all the Muslim brothers and sisters around the world."
-
-◼️
-
-[Data](articles/f96ce8f7.json)
-
-[Extended Data](ext_articles/f96ce8f7.ext.json)
-
----
-
-### Sri Lanka adds 182,000 to get tax payer income support, Rs58bn paid
-
-*2024-04-10 09:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-adds-182000-to-get-tax-payer-income-support-rs58bn-paid-158148/) · `en`
-
-ECONOMYNEXT – Sri Lanka has added 182,000 person to get tax payer support through Aswesuma income supplements, taking the total to 1.854 million beneficiaries, State Minister for Finance Shehan Semasinghe has said.
-
-All due payments would be made by April 18, Minister Semasinghe has said. A total of 58 billion rupees of taxes collected from the people would be spent on 1.854 million beneficiaries.
-
-For the full year 205 billion rupees has been allocated for income re-distribution.
-
-In a second round of calls, 400,000 people have applied to get benefits. Of this 286,000 has been added to the platform and evaluation is due to begin in May, he said.
-
-Under the Aswesuma scheme, payments are not expected to be permanent, except for people like kidney patients, but a helping hand to get over loss of incomes for a period.
-
-...
-
-[Data](articles/d8b34328.json)
-
-[Extended Data](ext_articles/d8b34328.ext.json)
-
----
-
-### Sri Lanka rupee opens at 298.40/50 to the US dollar
-
-*2024-04-10 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-298-40-50-to-the-us-dollar-158146/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 298.40/50 to the US dollar in the spot forex market on Tuesday, stronger from 298.60/65 on Monday, dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 was quoted stable at 11.30/40 percent.
-
-A bond maturing on 15.12.2028 was quoted at 12.10/15 percent from 12.05/15 percent.
-
-The Colombo Stock Exchange opened up; the All Share was up 0.01 percent at 11,964, the S&P SL20 was up at 3,546.85. (Colombo/Apr10/2024)
-
-◼️
-
-[Data](articles/a0267f45.json)
-
-[Extended Data](ext_articles/a0267f45.ext.json)
-
----
-
-### Continuing Disabled Ministry of Education website
-
-*2024-04-10 09:35:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்தும்-முடக்கப்பட்டுள்ள-கல்வி-அமைச்சின்-இணையத்தளம்/175-335814) · `ta`
-
-The Ministry of Education's website in Sri Lanka was hacked via an internal internet connection, causing it to fail. A detailed report will be submitted today.
-
-🟩
-
-Recently, a cyber attack on the official website of the Ministry of Education has been carried out through an internal internet connection in Sri Lanka.
-
-The website of the Ministry of Education, which was subjected to a cyber attack last Friday, continued to fail.
-
-The report containing all the details will be handed over to the Ministry of Education today, he said.. Remble
-
-◼️
-
-[Data](articles/3347be68.json)
-
-[Extended Data](ext_articles/3347be68.ext.json)
-
----
-
-### The girlfriend died on the 50th day of the boyfriend - the tragedy in Jaffna!
-
-*2024-04-10 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180863) · `ta`
-
-A tragic incident in Jaffna: Kadirgamalingam Gopisan, 20, from Singawatte, Durgapuram, and Tellippalai, died by suicide 50 days ago. The body was taken to Jaffna Teaching Hospital for autopsy.
-
-🟩
-
-The suicide of a girlfriend's death on Tuesday (09) on the 50th day of the death of a girlfriend. Kadirgamalingam Gopisan (20 years old) from Singawatte, Durgapuram and Tellippalai area has died.
-
-A young woman from Tellippali, a young man, has been hanged 50 days ago. In this case, the young man was hanged at his residence yesterday afternoon.
-
-Sudden Death Investigation Officer A. Jayapalasingham. The body has been taken to the Jaffna Teaching Hospital for anatomical gift.
-
-◼️
-
-[Data](articles/14af2eda.json)
-
-[Extended Data](ext_articles/14af2eda.ext.json)
-
----
-
-### Biden says Netanyahu’s approach to war in Gaza is a ‘mistake’
-
-*2024-04-10 09:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98549/biden-says-netanyahus-approach-to-war-in-gaza-is-a-mistake) · `en`
-
-Israeli Prime Minister Benjamin Netanyahu’s approach to the war in Gaza is a “mistake,” U.S. President Joe Biden said in an interview published on Tuesday, offering further criticism of Israel’s handling of the conflict.
-
-“I think what he’s doing is a mistake. I don’t agree with his approach,” Biden said in comments to Univision, a U.S. Spanish-language TV network.
-
-Biden has also previously called Israel’s bombing in Gaza “indiscriminate,” and its military actions “over the top.”
-
-The White House said last week that the president, in a call with Netanyahu, threatened to make conditional, U.S. support for Israel’s offensive on it taking concrete steps to protect aid workers and civilians. That call followed an Israeli airstrike that killed seven staff of the aid group World Central Kitchen.
-
-...
-
-[Data](articles/4d76f59d.json)
-
-[Extended Data](ext_articles/4d76f59d.ext.json)
 
 ---

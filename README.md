@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 07:17:35**
+As of **2024-04-10 07:40:12**
 
 ## Newspaper Stats
 
-*Scraped **18,196** Articles*
+*Scraped **18,199** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,35 @@ dailyftlk | 1,001
 islandlk | 1,001
 economynextcom | 1,015
 adalk | 1,531
-tamilmirrorlk | 2,128
+tamilmirrorlk | 2,129
 adaderanalk | 2,181
 virakesarilk | 2,690
 dailymirrorlk | 2,779
-adaderanasinhalalk | 2,943
+adaderanasinhalalk | 2,945
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,186 (99.9%) of 18,196 articles have been extended.
+18,196 (100.0%) of 18,199 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### පළමු පාසල් වාරය අදින් අවසන්
+
+*2024-04-10 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195491) · `si`
+
+ඒ අනුව රජයේ පාසල් හා රජයේ අනුමත පෞද්ගලික සිංහල හා දෙමළ පාසල් සදහා පළමු පාසල් වාරයේ පළමු අදියර අදින් අවසන් වන බව අධ්‍යාපන අමාත්‍යංශය සඳහන් කළේය.
+
+මේ අතර මුස්ලීම් පාසල් සඳහා පළමු පාසල් වාරයේ දෙවන අදියර 17වන බදාද දිනයේ ආරම්භ වන බව අධ්‍යාපන අමාත්‍යංශය වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/2cef2bbd.json)
+
+---
 
 ### Sri Lanka’s labour force participation rate hits new low in 2023
 
@@ -54,6 +68,30 @@ In 2023, the male labour force participation rate declined to 68.6 percent from 
 
 [Data](articles/f34df5fb.json)
 
+[Extended Data](ext_articles/f34df5fb.ext.json)
+
+---
+
+### කාලගුණයේ වෙනසක්
+
+*2024-04-10 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195489) · `si`
+
+හෙට (11) සිට දිවයිනේ වැසි තත්ත්වයේ තාවකාලික වැඩිවීමක් අපේක්ෂා කෙරේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, නැගෙනහිර පළාතේ සහ හම්බන්තොට දිස්ත්‍රික්කයේ වැසි වාර කිහිපයක් ඇති විය හැකි බවය.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව 2න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+බස්නාහිර, මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේ දී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටී.
+
+අද (10) දහවල් 12.11ට තඹුත්තේගම, මැදිරිගිරිය, ඉහළ පුලියන්කුලම, රාජාංගනය, එප්පාවල සහ වාකරේ යන ප්‍රදේශවලට හිරු මුදුන්ව පවතී.
+
+◼️
+
+[Data](articles/c4505fc9.json)
+
 ---
 
 ### Increased rainfall expected over the island from tomorrow
@@ -76,6 +114,8 @@ Meanwhile, on the apparent northward relative motion of the sun, it is going to 
 
 [Data](articles/9b7bbffe.json)
 
+[Extended Data](ext_articles/9b7bbffe.ext.json)
+
 ---
 
 ### Vehicle imports possible next year if economy improves
@@ -91,6 +131,8 @@ Meanwhile, the minister mentioned that the programme of providing ten kilogramme
 ◼️
 
 [Data](articles/0cdd1191.json)
+
+[Extended Data](ext_articles/0cdd1191.ext.json)
 
 ---
 
@@ -279,6 +321,8 @@ This, he believes, is necessary to prevent innocent individuals from bearing the
 ◼️
 
 [Data](articles/766d3a8b.json)
+
+[Extended Data](ext_articles/766d3a8b.ext.json)
 
 ---
 
@@ -514,6 +558,8 @@ Instructions were provided during the meeting to prepare the necessary cabinet p
 
 [Data](articles/1a6017b5.json)
 
+[Extended Data](ext_articles/1a6017b5.ext.json)
+
 ---
 
 ### National Chamber and KPMG forge strategic collaboration to develop SME sector
@@ -690,6 +736,24 @@ Genie Business Powered by Dialog Finance unveils Cutting-Edge Fintech Solutions 
 
 ---
 
+### புத்தாண்டுக் காலத்தில் விபத்துகள் குறித்து கவனம்
+
+*2024-04-09 23:09:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டுக்-காலத்தில்-விபத்துகள்-குறித்து-கவனம்/175-335806) · `ta`
+
+எதிர்வரும் தமிழ், சிங்களப் புத்தாண்டுக் காலத்தில் வீதி விபத்துக்கள் மற்றும் பட்டாசு விபத்துக்களை குறைத்துக்கொள்வது தொடர்பில் கவனம் செலுத்துமாறு அரசாங்கம் பொது மக்களிடம் கோரிக்கை விடுக்கிறது.
+
+பண்டிகைக் காலங்களில் பட்டாசு வெடிப்பதாலேயே 36 வீத விபத்துகள் ஏற்படுவதாகவும், அதனால் 17 வீதமானோர் கண் பாதிப்புகளுக்கு ஆளாவதாகவும் தெரியவந்துள்ளது.
+
+எனவே எதிர்வரும் பண்டிகைக் காலத்தில் வீதி விபத்துக்கள் மற்றும் பட்டாசு விபத்துக்களை மட்டுப்படுத்துவதற்கான விசேட வேலைத்திட்டமொன்றை போக்குவரத்து அமைச்சு, சுகாதார அமைச்சு என்பன இணைந்து முன்னெடுக்கவுள்ளன.
+
+அதன்படி, பண்டிகைக் காலத்தில் வீதி விபத்துக்களை மட்டுப்படுத்துதல் குறித்து பொதுமக்களுக்கு அறிவிப்பதற்காக போக்குவரத்து அமைச்சு மற்றும் வீதி பாதுகாப்பு தேசிய சபை ஆகியன நடத்திய ஊடகவியலாளர் சந்திப்பு நேற்று  ஜனாதிபதி ஊடக மையத்தில் நடைபெற்றது.
+
+...
+
+[Data](articles/3d4531cf.json)
+
+---
+
 ### Share market sees marked buying interest due to positive outlook on debt restructuring front
 
 *2024-04-09 23:07:00* · [`islandlk`](http://island.lk/share-market-sees-marked-buying-interest-due-to-positive-outlook-on-debt-restructuring-front/) · `en`
@@ -706,21 +770,29 @@ Consequently, the stock market recorded a new high in trading yesterday as bulli
 
 ---
 
-### ஜனாதிபதி நோன்புப் பெருநாள் வாழ்த்துச் செய்தி
+### Greeting
 
 *2024-04-09 22:59:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நோன்புப்-பெருநாள்-வாழ்த்துச்-செய்தி/175-335805) · `ta`
 
-இஸ்லாமிய நாட்காட்டியில் ஒன்பதாவது மாதமாகக் கருதப்படும் புனித ரமழான் மாதமானது, முஸ்லிம் சகோதரர்களுக்கு சிந்தனை மற்றும் ஆன்மீக வளர்ச்சிக்கான மாதமாகக் கருதப்படுகிறது.
+Ramadan, the ninth month in the Islamic calendar, is a time for spiritual growth and unity among Muslims. President Ranil Wickremesinghe highlights its role in promoting well-being and religious harmony. He emphasizes the importance of Ramadan not just for Muslims but for all, aiming to uplift social values and rebuild the Sri Lankan economy.
 
-இந்த ரமழான் மாதம், நல்வாழ்வு மற்றும் நல்வாழ்வின் கலங்கரை விளக்கமாக இருப்பதோடு நம்மிடையே ஒற்றுமை மற்றும் மத நல்லிணக்கத்தை வளர்க்கிறது என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது நோன்புப் பெருநாள் வாழ்த்துச் செய்தி குறிப்பிட்டுள்ளார்.
+🟩
 
-"சாதி, மத பேதமின்றி இலங்கையர்கள் என்ற வகையில் நாம் அனைவரும் எதிர்கொண்ட இக்கட்டான காலகட்டத்தை கடந்து நாட்டில் நல்லதொரு சூழல் உருவாகியுள்ள இவ்வேளையில் எமது சக முஸ்லிம்களுக்கு ரமழான் பண்டிகையை மகிழ்ச்சியாகக் கொண்டாடும் வாய்ப்பு இந்த வருடம் கிடைத்துள்ளதையிட்டு நான் ஆன்ந்தமடைகின்றேன்.
+The month of Holy Ramadan, which is considered the ninth month in the Islamic calendar, is considered the month of thinking and spiritual development for the Muslim brothers.
 
-இந்நாட்டில் ரமழான் நோன்பு காலத்தை முஸ்லிம்களுக்கு மட்டுமன்றி, அனைவரும் தமது மகிழ்ச்சியைப் பகிர்ந்துகொள்ளும் காலமாக கருதுவதே சரியானதென நான் நினைக்கிறேன்.
+President Ranil Wickremesinghe has said that this month of Ramadan is a lighthouse of well -being and well -being and promotes unity and religious harmony among us.
+
+“As a result of the dilemma that we all have faced as Sri Lankans, without caste and religion, we have a good environment in the country, and I am going to celebrate the Ramadan festival this year.
+
+I think it is right to consider Ramadan fasting in this country not only to the Muslims, but the time when everyone shares their happiness.
+
+I hope that these issues created to uplift the social values of the collapse of the collapse of the Sri Lankan economy, regardless of individual progress, will provide the basis for a joint effort to rebuild the declined Sri Lankan economy and lead the country to the path of progress.
 
 ...
 
 [Data](articles/1c76676a.json)
+
+[Extended Data](ext_articles/1c76676a.ext.json)
 
 ---
 
@@ -2139,73 +2211,5 @@ The following are the general guidelines that must be followed in all sports eve
 [Data](articles/31c8e1f7.json)
 
 [Extended Data](ext_articles/31c8e1f7.ext.json)
-
----
-
-### Government to upgrade Hingurakgoda airport to international hub
-
-*2024-04-09 16:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-upgrade-Hingurakgoda-airport-to-international-hub/108-280476) · `en`
-
-Colombo, April 9 (Daily Mirror0 - The government has decided to upgrade the Hingurakgoda domestic airport, the oldest airport in the country, into an international air hub.
-
-Originally built as the Minneriya Air Force Centre (RAF Minneriya) during World War II by England's Royal Air Force, the airport's transformation into an international facility is now a priority for the country's economy, as directed by President Ranil Wickremesinghe.
-
-To kickstart this initiative, the government has allocated Rs. 2 billion in the 2024 budget for the initial construction and development. This funding will be used to extend the current 2,287 metres long and 46 metres wide runway to 2,500 metres in the first phase.
-
-Upon completion of this runway expansion, the airport will be capable of accommodating aircraft such as the Airbus 320 and Boeing B737. The overall development project is estimated to cost approximately Rs. 17 billion, with all construction activities being managed by the Sri Lankan Air Force.
-
-...
-
-[Data](articles/50dd7ab1.json)
-
-[Extended Data](ext_articles/50dd7ab1.ext.json)
-
----
-
-### Arrests of sports teacher after home
-
-*2024-04-09 16:15:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டுக்குப்-பின்-சென்ற-விளையாட்டு-ஆசிரியர்-கைது/175-335786) · `ta`
-
-A school sports teacher in Budhala was arrested for allegedly raping a student. The incident occurred when the suspect was 15, and the victim is now being treated at Moneragala District General Hospital. The police have confirmed the couple's past interactions. The suspect is set to appear in Wellawaya Magistrate's Court.
-
-🟩
-
-Budhala police have arrested a school sports teacher for allegedly raping a student of a school in the Budhala Education Division.
-
-When the suspect was 15 years old in November 2022, she took a romantic relationship and took out the house in the back of her house at around 12.30pm.. He was raped in a barn at the back of the house.
-
-Knowing this, the girl's father warned that the girl was being treated at the Moneragala District General Hospital on 04/04/2024 and is currently being treated at the Moneragala District General Hospital.
-
-Their condition was not worrisome and the police told the police that they had behaved on several occasions with the school's sports teacher during the investigation.
-
-The suspect has been arrested by the police and arrangements have been made to bring him to the Wellawaya Magistrate's Court.
-
-◼️
-
-[Data](articles/60ae5112.json)
-
-[Extended Data](ext_articles/60ae5112.ext.json)
-
----
-
-### Apart from Mannar demanding the immediate reduction of the price of rice
-
-*2024-04-09 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180826) · `ta`
-
-The North-East Women's Alliance in Sri Lanka protests for rice prices under Rs. 100, highlighting the economic crisis's impact on food shortages, especially affecting women and families.
-
-🟩
-
-The North -East Women's Alliance organized the North -East Women's Alliance today demanding the government to immediately bring the price of rice under Rs. 100.
-
-Accordingly, hundreds of women participated in the protests in Mannar district on Tuesday (9) in Mannar district.
-
-The basic food rice of the entire Sri Lankan people is rice. The economic crisis in Sri Lanka and the price of goods in the country has caused massive food shortages among the poor and middle class women in the village level.The price of rice, especially in Sri Lanka, has been able to get food for only one or two in the day, in the daily wage families and more members of the families with more members of the day.
-
-...
-
-[Data](articles/d4114aa5.json)
-
-[Extended Data](ext_articles/d4114aa5.ext.json)
 
 ---

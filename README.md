@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 06:54:32**
+As of **2024-04-10 07:17:35**
 
 ## Newspaper Stats
 
-*Scraped **18,190** Articles*
+*Scraped **18,196** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ dailyftlk | 1,001
 islandlk | 1,001
 economynextcom | 1,015
 adalk | 1,531
-tamilmirrorlk | 2,127
-adaderanalk | 2,180
+tamilmirrorlk | 2,128
+adaderanalk | 2,181
 virakesarilk | 2,690
-dailymirrorlk | 2,775
+dailymirrorlk | 2,779
 adaderanasinhalalk | 2,943
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,181 (100.0%) of 18,190 articles have been extended.
+18,186 (99.9%) of 18,196 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### Sri Lanka’s labour force participation rate hits new low in 2023
+
+*2024-04-10 06:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-labour-force-participation-rate-hits-new-low-in-2023/108-280514) · `en`
+
+2023 labour force participation rate contracts to 48.6% from 49.8% in 2022
+
+Male labour force participation dips to 68.6% while female participation falls to 31.3%
+
+In absolute terms, SL’s employed population declined by 137,821 to just above 8 million
+
+Sri Lanka’s labour force participation rate hit a new low in 2023, the recently published Labour Force Survey (LFS) annual bulletin highlighted.
+
+In 2023, labour force participation rate declined to 48.6 percent from 49.8 percent recorded in 2022. Since 2021, labour force participation rate has remained below the 50 percent mark.
+
+The labour force participation rate is the percentage of the population that is either working or actively looking for work.
+
+In 2023, the male labour force participation rate declined to 68.6 percent from 70.5 percent from a year earlier while the female labour force participation rate fell to 31.3 percent from 32.1 percent in the same period.
+
+...
+
+[Data](articles/f34df5fb.json)
+
+---
+
+### Increased rainfall expected over the island from tomorrow
+
+*2024-04-10 06:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98547/increased-rainfall-expected-over-the-island-from-tomorrow) · `en`
+
+Rainy condition is expected to temporarily enhance over the island from tomorrow (11), the Department of Meteorology says.
+
+Several spells of showers will occur in the Eastern Province and Hambantota District. Showers or thundershowers are expected in parts of the Western and Sabaragamuwa provinces and Galle and Matara districts after 2.00 p.m.
+
+Misty conditions can be expected at some places in Western, Central and Sabaragamuwa provinces and in Galle and Matara districts in the morning.
+
+The general public is advised to take adequate precautions to minimize damages
+
+caused by temporary localized strong winds and lightning during thundershowers.
+
+Meanwhile, on the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka from 05 to 15 April this year. The nearest areas of Sri Lanka over which the sun is overhead today (10) are Tambuttegama, Medirigiriya, Ihala Puliyankulama, Rajanganaya, Eppawala, Vakarai at around noon.
+
+◼️
+
+[Data](articles/9b7bbffe.json)
+
+---
+
+### Vehicle imports possible next year if economy improves
+
+*2024-04-10 04:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vehicle-imports-possible-next-year-if-economy-improves/108-280515) · `en`
+
+Colombo, April 10 (Daily Mirror) - If the country's economy improves by next year, there can be optimism regarding the import of vehicles, Finance State Minister Ranjith Siyambalapitiya said.
+
+Addressing the media at an opening event in Dematagoda, he said Rs. 13 billion was paid additionally for the increase in state employee salaries. Accordingly, Rs. 107 billion was paid for state employee salaries for the month of April.
+
+Meanwhile, the minister mentioned that the programme of providing ten kilogrammes each to 2.7 million families for the months of April and May will start on April 21. State Minister Siyambalapitiya said that more than half of the total number of families in Sri Lanka are entitled to this subsidy.
+
+◼️
+
+[Data](articles/0cdd1191.json)
+
+---
 
 ### Do not act as a result of the education of the students- the villagers of Sundarapuram
 
@@ -197,6 +259,26 @@ Shashank Singh did not play with 25 balls with 6 fours, 46 runs, including one s
 [Data](articles/ec6f1c77.json)
 
 [Extended Data](ext_articles/ec6f1c77.ext.json)
+
+---
+
+### Expressway debts could take 160 years to settle despite profit: Minister
+
+*2024-04-10 02:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Expressway-debts-could-take-160-years-to-settle-despite-profit-Minister/108-280516) · `en`
+
+Colombo, April 10 (Daily Mirror) - Despite earning a yearly profit of Rs. 5 billion from expressways, Minister Bandula Gunawardana revealed that it might take at least 160 years to fully pay off the Rs. 800 billion loan used to build them.
+
+Gunawardana explained that even if someone lived for 80 years, it would still be impossible to settle the debt. He emphasized that even if someone reincarnated multiple times and worked throughout each lifetime, the debt would persist.
+
+To prevent financial collapse, Gunawardana stressed the importance of following protocols set by the World Bank (WB), IMF, and Asian Development Bank (ADB). He warned that failure to comply could lead to ruin.
+
+To tackle the debt, the minister proposed transferring the expressway system and its assets to the government-owned Sahasya Investment Company.
+
+This, he believes, is necessary to prevent innocent individuals from bearing the burden for the rest of their lives.
+
+◼️
+
+[Data](articles/766d3a8b.json)
 
 ---
 
@@ -414,6 +496,26 @@ Subsequently, onion prices are believed to have risen dramatically in neighbouri
 
 ---
 
+### Govt. to consider registering higher engine capacity motorcycles
+
+*2024-04-10 00:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-to-consider-registering-higher-engine-capacity-motorcycles/108-280517) · `en`
+
+Colombo, April 10 (Daily Mirror) - A meeting was held recently at the Transport Ministry to explore the feasibility of registering motorcycles with higher engine capacities.
+
+Commissioner General of the Department of Motor Traffic Nishantha Weerasinghe informed Daily Mirror that a decision was made to draft a cabinet paper seeking approval from the cabinet of ministers.
+
+"We deliberated on the registration of existing illegally imported motorcycles with higher engine capacities through the DMT, with fines being imposed," stated the Commissioner General.
+
+The meeting took place on Monday (8) at the Public Security Ministry, with Public Security Minister Tiran Alles, DMT Commissioner General, MP Rohitha Abeygunawardena and representatives from the police department in attendance.
+
+Instructions were provided during the meeting to prepare the necessary cabinet paper.
+
+◼️
+
+[Data](articles/1a6017b5.json)
+
+---
+
 ### National Chamber and KPMG forge strategic collaboration to develop SME sector
 
 *2024-04-10 00:27:19* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-and-KPMG-forge-strategic-collaboration-to-develop-SME-sector/34-760508) · `en`
@@ -562,6 +664,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 
 [Data](articles/a6316d9f.json)
 
+[Extended Data](ext_articles/a6316d9f.ext.json)
+
 ---
 
 ### Nations Trust Bank – Symphony Orchestra of Sri Lanka Concert concludes on a successful note
@@ -582,6 +686,8 @@ Genie Business Powered by Dialog Finance unveils Cutting-Edge Fintech Solutions 
 
 [Data](articles/983a8d7d.json)
 
+[Extended Data](ext_articles/983a8d7d.ext.json)
+
 ---
 
 ### Share market sees marked buying interest due to positive outlook on debt restructuring front
@@ -595,6 +701,26 @@ Consequently, the stock market recorded a new high in trading yesterday as bulli
 ...
 
 [Data](articles/c4bd94f4.json)
+
+[Extended Data](ext_articles/c4bd94f4.ext.json)
+
+---
+
+### ஜனாதிபதி நோன்புப் பெருநாள் வாழ்த்துச் செய்தி
+
+*2024-04-09 22:59:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நோன்புப்-பெருநாள்-வாழ்த்துச்-செய்தி/175-335805) · `ta`
+
+இஸ்லாமிய நாட்காட்டியில் ஒன்பதாவது மாதமாகக் கருதப்படும் புனித ரமழான் மாதமானது, முஸ்லிம் சகோதரர்களுக்கு சிந்தனை மற்றும் ஆன்மீக வளர்ச்சிக்கான மாதமாகக் கருதப்படுகிறது.
+
+இந்த ரமழான் மாதம், நல்வாழ்வு மற்றும் நல்வாழ்வின் கலங்கரை விளக்கமாக இருப்பதோடு நம்மிடையே ஒற்றுமை மற்றும் மத நல்லிணக்கத்தை வளர்க்கிறது என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது நோன்புப் பெருநாள் வாழ்த்துச் செய்தி குறிப்பிட்டுள்ளார்.
+
+"சாதி, மத பேதமின்றி இலங்கையர்கள் என்ற வகையில் நாம் அனைவரும் எதிர்கொண்ட இக்கட்டான காலகட்டத்தை கடந்து நாட்டில் நல்லதொரு சூழல் உருவாகியுள்ள இவ்வேளையில் எமது சக முஸ்லிம்களுக்கு ரமழான் பண்டிகையை மகிழ்ச்சியாகக் கொண்டாடும் வாய்ப்பு இந்த வருடம் கிடைத்துள்ளதையிட்டு நான் ஆன்ந்தமடைகின்றேன்.
+
+இந்நாட்டில் ரமழான் நோன்பு காலத்தை முஸ்லிம்களுக்கு மட்டுமன்றி, அனைவரும் தமது மகிழ்ச்சியைப் பகிர்ந்துகொள்ளும் காலமாக கருதுவதே சரியானதென நான் நினைக்கிறேன்.
+
+...
+
+[Data](articles/1c76676a.json)
 
 ---
 
@@ -2081,151 +2207,5 @@ The basic food rice of the entire Sri Lankan people is rice. The economic crisis
 [Data](articles/d4114aa5.json)
 
 [Extended Data](ext_articles/d4114aa5.ext.json)
-
----
-
-### Approval to recruit 2,500 English teachers
-
-*2024-04-09 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195474) · `si`
-
-The Cabinet has approved recruiting 2,500 more English teachers, aiming to meet the demand of 6,500 teachers for 2024, as currently there are 4,441 approved teachers.
-
-🟩
-
-Cabinet approval has been given to recruit 2,500 teachers in English medium.
-
-The Cabinet approval has been given under the proposal under the "Alliance" program.
-
-There are currently 4,441 approved teachers to teach Ordinary Level subjects in English medium.
-
-However, there is a need for about 6,500 teachers and that most of the schools currently work in working with the number of schools in many schools and is identified in an evaluation of 765 schools.
-
-Accordingly, the Cabinet has taken this decision to increase the approved number of approved teachers in the English medium to increase the teachers in the English medium of 2024.
-
-◼️
-
-[Data](articles/fa84098d.json)
-
-[Extended Data](ext_articles/fa84098d.ext.json)
-
----
-
-### Attention Struggle in Vavuniya demanding a reduction in rice prices
-
-*2024-04-09 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180824) · `ta`
-
-Protests in Vavuniya demand rice price reduction, highlighting economic crisis impact on Sri Lankan people, leading to food shortages and poverty.
-
-🟩
-
-A protest campaign has been launched today in Vavuniya Rashendrangulam, demanding a reduction in prices of essential commodities.
-
-During this time, the farmers were struggling to carry out free plans, do not starve in the future, and three times a day.
-
-The basic food of the entire Sri Lankan people is rice rice. Thus, the economic crisis in our country and the price of commodities in the present country has caused not only a massive food shortage among women and children in the village level.
-
-Many people have been found in the absence of their employment opportunities. The rise of rice in Sri Lanka, especially in Sri Lanka, is in the process of receiving only one or two times instead of eating all three of the families with more members of the day.
-
-In some families, there is no rice and drinking water. The price of rice is still hunger in female -led families.
-
-...
-
-[Data](articles/7059b8ee.json)
-
-[Extended Data](ext_articles/7059b8ee.ext.json)
-
----
-
-### Sri Lanka president wants legal system modernised to facilitate economic growth
-
-*2024-04-09 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-wants-legal-system-modernised-to-facilitate-economic-growth-158051/) · `en`
-
-ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe has called for modernisation of the legal system to effectively implement the government’s economic reforms to drive growth.
-
-Speaking to a group of lawyers in Kandy on Sunday April 07, Wickremesinghe said collaboration with the International Monetary Fund (IMF) was a crucial step towards revitalising Sri Lanka’s economy, adding that legalising the agreements with the IMF to ensure that the benefits reach the people swiftly.
-
-A statement from the president’s office said Wickremesinghe has expressed plans to introduce a new legal framework geared towards modernisation across various sectors. According to the statement, he had sought the support of the legal community for the proposed initiatives, highlighting the significance of their involvement in advancing these efforts.
-
-...
-
-[Data](articles/9a79ea28.json)
-
-[Extended Data](ext_articles/9a79ea28.ext.json)
-
----
-
-### Cabinet approval to enroll students at Kotelawala University
-
-*2024-04-09 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180818) · `ta`
-
-The Cabinet has approved enrolling students in a fee-based manner for the Medical Science Degree at the University of John Kothalawala, a former institute converted into a university. This move aims to offer qualified foreign students opportunities in medical degree programs, with plans to enroll domestic applicants from 2024. The university is also preparing to become the Medical Faculty of Defense for the Ministry of Defense.
-
-🟩
-
-The Cabinet has approved the resolution to enroll students in a fee manner for the Medical Science Degree from the University of John Kothalawala.
-
-General Srimad John Kothalawala Protection University has been converted into a university by the General Srimad John Kotalawala State Security Training Institute (Amendment) Act No. 27 of 1988.
-
-In 2011, the University of Medicine was opened as the Medical Faculty of Medicine and Harvesting for the Graduation of Student Brigade Officers as medical professionals.
-
-Accordingly, by nowadays joining the Armed Forces or Police as a Gedd Officer, the qualified foreign students can only offer opportunities for medical degree programs at the university.
-
-It is planned to further enroll these products and incorporate the domestic applicants who have completed the qualifications from 2024 Studies from 2024.
-
-...
-
-[Data](articles/637bcac0.json)
-
-[Extended Data](ext_articles/637bcac0.ext.json)
-
----
-
-### A special mandate to flee another Sri Lankan star
-
-*2024-04-09 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195473) · `si`
-
-Wijayakaman summons Hyderabad Sunrisers for Sri Lankan Thunu Hasaranga, who can't play due to a non-healing condition. Visakhath, a bowler, replaces Hasaranga.
-
-🟩
-
-Wijayakaman has decided to summon the Hyderabad Sunrisers Hyderabad, foreign media reports.
-
-These reports show that he had been called to Sunrises Hyderabad reserve that he had lost the IPL to lose this year's IPL tournament due to disability.
-
-Sri Lanka's Thunu Hasaranga was due to represent the Hyderabad Sunrizers in the IPL match this year.
-
-However, Sri Lanka Cricket recently informed the Indian Cricket Board that he could not play the IPL tournament due to his non-healing condition.
-
-Accordingly, Wijayakaan Visakhath, Vijayakan, who arrived in the LPL tournament, is to be brought to the Hyderabad reserve.
-
-Viscan is currently serving as a bowler in the net in the Hyderabad team of the Hyderabad team, and he excelled in the ball.
-
-◼️
-
-[Data](articles/ce554f19.json)
-
-[Extended Data](ext_articles/ce554f19.ext.json)
-
----
-
-### Interim petition against Keheliya Petition
-
-*2024-04-09 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195472) · `si`
-
-The Bar Association of Sri Lanka has submitted an interim petition against Keheliya Rambukwella's petition for a termination order in the Maligamanganda Magistrate's Court.
-
-🟩
-
-The Bar Association of Sri Lanka has also submitted an intermediate petition in the petition filed by the former Health Minister Keheliya Rambukwella.
-
-The petition filed by Keheliya Rambukwella to issue a termination order to issue a termination order to issue the order in the Maligamanganda Magistrate's Court.
-
-The Bar Association of Sri Lanka demands the Bar Association of Sri Lanka by the Intermediate Petition, the petition filed by Keheliya Rambukwella.
-
-◼️
-
-[Data](articles/f9bcb567.json)
-
-[Extended Data](ext_articles/f9bcb567.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 15:03:20**
+As of **2024-04-10 15:18:16**
 
 ## Newspaper Stats
 
-*Scraped **18,282** Articles*
+*Scraped **18,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,42 @@ adalk | 1,539
 tamilmirrorlk | 2,141
 adaderanalk | 2,189
 virakesarilk | 2,714
-dailymirrorlk | 2,786
+dailymirrorlk | 2,787
 adaderanasinhalalk | 2,961
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,278 (100.0%) of 18,282 articles have been extended.
+18,282 (100.0%) of 18,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### அதிவேக வீதிகளில் ஏற்படும் விபத்துகளுக்கான முக்கிய காரணிகள் அடையாளம்
+### Identifying the main factors for accidents on high -speed streets
 
 *2024-04-10 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180892) · `ta`
 
-சாரதிகளின் கவனக்குறைவு, வாகனங்களை முறையாக பராமரிக்காமை மற்றும் மூன்றாம் தரப்பினரால் ஏற்படும் விபத்துக்கள் ஆகியவை அதிவேக வீதிகளில் விபத்துகள் ஏற்பட மூன்று முக்கிய காரணங்களாக அடையாளம் காணப்பட்டுள்ளதாக  அதிவேக வீதிகள் பாதுகாப்பு நடவடிக்கைகளுக்கான ஆலோசனைக் குழு உறுப்பினர் வைத்தியர் சமோத் ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+Dr. Samot Hettiarachchi identified three main causes of high-speed road accidents: drivers' negligence, non-maintenance of vehicles, and lack of road safety education. 56% of accidents are due to negligence, causing 35% of deaths or permanent disabilities. Despite efforts to improve safety, there's been a decrease in casualties from 17 in 2022 to 4 in 2023. The Ministry of Transport suggests updating the Motor Transport Act to reduce regulations and improve road safety.
 
-அதிவேக வீதிகளில் ஏற்படும் விபத்துகளின் புள்ளி விவரங்கள் மற்றும் காரணிகள் குறித்த   ஆய்வு அறிக்கையில் இந்த  விடயம் தெரிவந்துள்ளதாக  கொழும்பில் நேற்று இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்டு உரையாற்றிய  போது தெரிவித்துள்ளார்.
+🟩
 
-அதிவேக வீதிகளில் ஏற்படும் 56 சதவீதமான  விபத்துகள் வாகன சாரதிகளின் கவனக்குறைவால் இடம்பெறுகிறது. இது பெரிய பிரச்னையாக மாறியுள்ளது. இந்த விபத்துக்களால் 35 சதவீதமான மரணங்கள் அல்லது நிரந்தர அங்கவீனத்தை ஏற்படுகிறது.
+Dr. Samot Hettiarachchi, a member of the Advisory Committee for Expressway Protection, said that three major causes of accidents on high -speed roads have been identified as drivers' negligence, non -maintenance of vehicles.
+
+Speaking at a media briefing held in Colombo yesterday, he said that this was found in a report on the statistics and factors of accidents on high -speed roads.
+
+56 percent of accidents on high -speed streets are caused by drivers' negligence. It has become a big problem. These accidents cause 35 percent of deaths or permanent districts.
+
+A total of 9,375 road accidents have been registered in the thirteen years after the construction of the Southern Expressway, of which 5,292 accidents were due to the negligence of drivers.. Only 66 people have died in the accident and 637 have been permanently disabled.
+
+The Director of the Southern Expressway Police Division and Senior Superintendent of Police, Mayura Perera, explained the details of the accidents.
 
 ...
 
 [Data](articles/f63012c1.json)
+
+[Extended Data](ext_articles/f63012c1.ext.json)
 
 ---
 
@@ -92,17 +102,25 @@ New Year's dawn, charity, cooking, bleeding, diet, precisely visible and celebra
 
 ---
 
-### வடக்கில் இராணுவம் அமைத்த விகாரைக்கு எதிரான போராட்டத்திற்கு ஒரு வருடம்
+### One year for the struggle against the idol set up by the army in the north
 
 *2024-04-10 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180909) · `ta`
 
-தமிழ் மக்களுக்கு சொந்தமான தனியார் காணிகளை அபகரித்து வடக்கில் பௌத்த விகாரை இராணுவத்தினரால் கட்டப்பட்டுள்ளதாக குற்றம் சுமத்தி ஒரு வருட காலமாக போராட்டத்தை முன்னெடுத்து வரும் தமிழ் மக்களின் பிரதிநிதி ஒருவர் அந்த காணிகளை உடனடியாக விடுவிக்குமாறு கோரிக்கை விடுத்துள்ளார்.
+Tamil people protest for a year against the military's construction of a Buddhist Vihara, claiming land theft. Parliamentarian Selvarajah Gajendran warns of escalating struggles unless the land is returned. Demonstrators accuse the military of illegally building the Vihara on private Tamil lands without permission. The Sri Lankan military denies these claims, stating the Vihara, built on April 27, 2023, is a historic site. Tamils demand the release of their lands, which the military allegedly forcibly acquired.
 
-அவ்வாறு செய்யாவிடின் அந்த காணிகளை விடுவிப்பதற்காக முன்னெடுக்கப்படும் போராட்டங்களை மேலும் விரிவுபடுத்த வேண்டியிருக்கும் என தமிழ் தேசிய மக்கள் முன்னணியின் நாடாளுமன்ற உறுப்பினர் செல்வராஜா கஜேந்திரன் கடந்த காங்கேசன்துறை திஸ்ஸ விகாரைக்கு முன்பாக நின்று நேற்று முன்தினம் (ஏப்ரல் 7) வெளியிட்ட காணொளியில் எச்சரிக்கை விடுத்திருந்தார்.
+🟩
+
+A representative of the Tamil people who has been carrying out a struggle for a year, alleging that the Buddhist Vihara has been built by the military in the North and has been taken away by the Tamil people.
+
+Tamil National People's Front parliamentarian Selvarajah Gajendran issued a warning in a video released yesterday (April 7) in front of the Kankesanthurai Tissa Vihara, saying that if it does not do so, the struggles to be released to release the land will have to be further expanded.
+
+“The building is illegally built with the help of the army with the help of the army.. Those owners have been demanding that these land be handed over to the private sector but have not been handed over to them for the past several years.. This has led to a continuous struggle in front of this Vihara for the past one year. However no action has been taken to release the land. If this situation continues. Steps must be taken to remove the building very quickly and hand over the land to the relevant. "
 
 ...
 
 [Data](articles/f07e66fc.json)
+
+[Extended Data](ext_articles/f07e66fc.ext.json)
 
 ---
 
@@ -131,6 +149,24 @@ Ethan Craramley's parents have accused of taking proper action against his son's
 [Data](articles/e82efcd5.json)
 
 [Extended Data](ext_articles/e82efcd5.ext.json)
+
+---
+
+### ‘Nekath Seettuwa’ for New Year presented to President
+
+*2024-04-10 13:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nekath-Seettuwa-for-New-Year-presented-to-President/108-280560) · `en`
+
+Colombo, April 10 (Daily Mirror) - Following customs and traditions, the ‘Nekath Seettuwa’, the table of auspicious times for this year’s Sinhala and Tamil New Year, was presented to President Ranil Wickremesinghe at the Presidential Secretariat today.
+
+The table of auspicious times, duly prepared by the State Astrologers' Committee of the Department of Cultural Affairs, was presented to the President.
+
+Minister of Buddha Sasana, Religious and Cultural Affairs Vidura Wickremanayake presented the ‘Nekath Seettuwa’ to the President in accordance with traditional customs.
+
+Auspicious periods comprise of various timings such as the New Year’s Eve, Punya Kaalaya or inauspicious time, timings for cooking, working, eating, anointing, setting off for work and more.
+
+◼️
+
+[Data](articles/80d6aae3.json)
 
 ---
 
@@ -220,23 +256,29 @@ The people of Kajimawatte have lived in a place like hell for more than ten year
 
 ---
 
-### අවුරුදු නැකැත් සීට්ටුව ජනපතිට පිළිගන්වයි
+### New Year's Vision presents to President
 
 *2024-04-10 13:23:10* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-නැකැත්-සීට්ටුව-ජනපතිට-පිළිගන්වයි/11-409046) · `si`
 
-සිංහල හා දෙමළ අලුත් අවුරුදු නැකැත් සීට්ටුව සාම්ප්‍රදායික, චාරිත්‍රානුකූලව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත පිළිගැන්වීම අද (10) පෙරවරුවේ ජනාධිපති කාර්යාලයේ දි සිදු විය.
+President Ranil Wickremesinghe received a New Year's Vision presentation from the Department of Cultural Affairs, including Minister Vidura Wickramanayaka. The event celebrated charity, cooking, and the transition to the new year.
 
-සංස්කෘතික කටයුතු දෙපාර්තමේන්තුවේ රාජ්‍ය නැකැත් කමිටුව විසින් සකස් කරන ලද නිවැරදි නැකැත් සීට්ටුව මෙලෙස ජනාධිපතිවරයා වෙත පිළිගන්වනු ලැබීය.
+🟩
 
-චිරාගත පිළිවෙත් අනුව අඬබෙරකරු සමඟ පැමිණි නැකැත්කරු රැගෙන ආ නැකැත් සීට්ටුව බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍ය විදුර වික්‍රමනායක මහතා විසින් ජනාධිපතිවරයා වෙත පිළිගැන්වීය.
+The president of the Sinhala and Tamil New Year's NEWSATH SEP was presented to the Traditional and Ritual President Ranil Wickremesinghe this morning.
 
-අලුත් අවුරුදු උදාව, පුණ්‍ය කාලය, ආහාර පිසීම, ලිප ගිනි දැල්වීම, ආහාර අනුභවය, හිසතෙල් ගෑම සහ නව වසරේ රැකියා සඳහා පිටත්ව යාම ආදී සුබ මුහුර්තයන් නැකත් සීට්ටුවට ඇතුළත්ය.
+The right amazing show prepared by the State's auspicious committee of the Department of Cultural Affairs was presented to the President.
 
-ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක හා ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානී සාගල රත්නායක, ජනාධිපති ලේකම් සමන් ඒකනායක, බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමත්‍යාංශයේ ලේකම් සෝමරත්න විදානපතිරණ යන මහත්වරු ඇතුළු පිරිසක් මෙම අවස්ථාවට එක්ව සිටියහ.
+Minister of Buddha Sasana, Religious and Cultural Affairs Vidura Wickramanayaka was presented to the President.
+
+New Year's dawn, charity, cooking, bleeding, diet, precisely visible and celebrated and departing for the new year.
+
+Senior Presidential Advisor on National Security and Presidential Staff Head of the President Sagala Ratnayake, Secretary to the President Saman Ekanayake, Buddha Sashasana, Religious and Cultural Affairs Secretary Someratne Vidanathirana were also present at the occasion.
 
 ◼️
 
 [Data](articles/f3427c23.json)
+
+[Extended Data](ext_articles/f3427c23.ext.json)
 
 ---
 
@@ -1572,6 +1614,8 @@ It is my pleasure to welcome you to the Second Seminar on India-Sri Lanka Defenc
 
 [Data](articles/3c23c8b9.json)
 
+[Extended Data](ext_articles/3c23c8b9.ext.json)
+
 ---
 
 ### The possibility of thunderstorms
@@ -2289,25 +2333,5 @@ The court of appeal also ordered the provisional registration of the Travel Agen
 [Data](articles/ae8d3fbb.json)
 
 [Extended Data](ext_articles/ae8d3fbb.ext.json)
-
----
-
-### Commercial High Court to hear Jaffna -Kilinochchi water project dispute
-
-*2024-04-10 00:57:33* · [`dailyftlk`](https://www.ft.lk/news/Commercial-High-Court-to-hear-Jaffna-Kilinochchi-water-project-dispute/56-760519) · `en`
-
-The District Court of Mt. Lavinia whilst refusing the extension of an enjoining order, directed the transfer of the Jaffna Kilinochchi water supply project to the Commercial High Court of Colombo.
-
-KP Projects International Ltd., had previously obtained Enjoining Orders on against both the National Water Supply and Drainage Board and the China Machinery Engineering Corporation (CMEC) on the contract to the Jaffna Kilinochchi Water Supply and Sanitation Project.
-
-The project is considered to be crucial for ensuring piped water access to Jaffna Peninsula residents.
-
-CMEC argued that the dispute, involving a commercial transaction exceeding Rs. 50 million, warranted transfer to the Commercial High Court under the provisions of the High Court of the Provinces (Special Provisions) Act, No. 10 of 1996 and submitted that the Plaintiff has surreptitiously valued the action at Rs. 100,000 in order to institute action before the District Court.
-
-...
-
-[Data](articles/a0e8c5e5.json)
-
-[Extended Data](ext_articles/a0e8c5e5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 13:03:16**
+As of **2024-04-10 13:18:04**
 
 ## Newspaper Stats
 
-*Scraped **18,263** Articles*
+*Scraped **18,265** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,74 +17,140 @@ islandlk | 1,001
 economynextcom | 1,021
 adalk | 1,536
 tamilmirrorlk | 2,141
-adaderanalk | 2,186
+adaderanalk | 2,187
 virakesarilk | 2,708
 dailymirrorlk | 2,785
-adaderanasinhalalk | 2,956
+adaderanasinhalalk | 2,957
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,258 (100.0%) of 18,263 articles have been extended.
+18,263 (100.0%) of 18,265 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### காந்தள் மலர் இல்லம் குறித்து பொலிஸார் கேள்வி எழுப்புவது 'இனவெறி அடக்குமுறை'
+### CSE’s ASPI surpasses 12,000 points
+
+*2024-04-10 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98553/cses-aspi-surpasses-12000-points) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) crossed the 12,000-point mark at the end of trading on Wednesday (10).
+
+Reportedly, this is the first time the ASPI surpassed 12,000 points since 21 February 2022.
+
+The ASPI closed at 12,033.10 points at the end of trading today, marking an increase of 0.59% (70.61 points) from the previous day.
+
+More than 86 million shares were traded overall within the day and the market turnover is recorded as Rs. 2.96 billion.
+
+Meanwhile, the S&P SL20 closed at 3,580.64 points today, up by 0.95% (33.81 points) from the previous day.
+
+◼️
+
+[Data](articles/3adc7c6e.json)
+
+---
+
+### හිදෝගම ඛේදවාචකයේ සුලමුල හෙළිවෙයි
+
+*2024-04-10 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195504) · `si`
+
+රටම කම්පා කරමින් සිදුවූ හිදෝගම පුද්ගල ඝාතනයේ සුලමුල පොලීසියට අනාවරණය වී තිබේ.
+
+පවුල් ආරවුලක් දුරදිගයෑම හේතුවෙන් අදාළ ඝාතනය සිදුව ඇති බව පොලීසිය පැවසීය.
+
+අනුරාධපුර හිදෝගම දිවුල් වැවේ තිබී පුද්ගල මළ සිරුරක් ඊයේ (09) සොයාගත් අතර එය රෙදි කිහිපයකින් සම්පූර්ණයෙන්ම ඔතා කළුගලක් ගැටගසා වැව දමා තිබියදී හමුවුණි.
+
+ඒ අනුව පොලීසිය සිදුකළ සොයාබැලීමේදී අනාවරණය වී තිබුණේ මියගිය පුද්ගලයා 45 හැවිරිදි දංගහකඩවල ප්‍රදේශයේ පදිංචිකරුවකු බවය.
+
+තියුණු ආයුධයකින් පහරදී අදාළ ඝාතනය සිදුකර ඇති බවට දේහය පිළිබඳව සිදුකළ පශ්චාත් මරණ පරීක්ෂණයේදී අනාවරණ විය.
+
+අනතුරුව සිද්ධිය සම්බන්ධයෙන් පොලීසිය විමර්ශනයක් ආරම්භ කළ අතර සිද්ධිය සම්බන්ධයෙන් ඝාතනයට ලක් වූ පුද්ගලයාගේ 39 හැවිරිදි බිරිඳ හා 24 හැවිරිදි පුත්‍රයා පොලීසිය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+
+නිවසේදී සිදුවූ ඝාතනයෙන් පසුව මෘත ශරීරය වැව දක්වා රැගෙන ගිය ත්‍රිරෝද රථයද පොලීසිය සොයාගෙන තිබුණි.
+
+සැකකරුවන්ගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී අනාවරණ වී ඇත්තේ, පසුගිය 8 වනදා උදෑසන 9ට පමණ මව සහ පියා අතර ඇති වූ ගැටුමකට පුත්‍රයාද මැදිහත් වී සිදුකළ පහරදීමකින් අදාළ පුද්ගලයා මියගොස් ඇති බවය.
+
+...
+
+[Data](articles/8dc872be.json)
+
+---
+
+### The police question the magnetic flower house 'racist repression'
 
 *2024-04-10 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/180901) · `ta`
 
-வடக்கில் பாடசாலையொன்றின் இல்ல விளையாட்டுப் போட்டிகள் தொடர்பாக அதிபர், ஆசிரியர்கள் மற்றும் மாணவர்களிடம் பொலிஸார் கேள்வி எழுப்பியமை இனவாத அடக்குமுறை என நாட்டின் முன்னணி ஆசிரியர் சங்கம் ஒன்று கண்டனம் தெரிவித்துள்ளது.
+The police are investigating a house shaped like a Tamil national flower in Sri Lanka, leading to accusations of racist repression. The country's leading teachers union has condemned the police's actions, claiming violation of children's rights. Students and teachers were summoned for questioning, with the police stating they were investigating houses built in the form of armor and the flower.
 
-தமிழ் தேசிய மலராக கருதப்படும் காந்தள் (கார்த்திகை பூ) மலரின் வடிவில் இல்லம் ஒன்று வடிவமைக்கப்பட்டுள்ளமை குறித்து பொலிஸார் விசாரணை நடத்தியுள்ளனர்.
+🟩
 
-பொலிஸாரின் நடவடிக்கையினால் பாடசாலை மாணவர்களின் அடிப்படை உரிமைகள் மீறப்பட்டுள்ளதாக இலங்கை ஆசிரியர் சங்கம், இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாண அலுவலகத்தில் கடந்த ஏப்ரல் 2ஆம் திகதி முறைப்பாடு செய்திருந்தது.
+The country's leading teachers union has condemned the question of racist repression of the Chancellor, teachers and students regarding the school's home games in the North.
 
-பாடசாலைப் பாடப்புத்தகங்களிலும் இடம்பெற்றுள்ள பூக்களின் வடிவத்தை பயன்படுத்தி மாணவர்கள் தமது திறமைகளை வெளிப்படுத்த முடியாத வகையில் நெருக்கடியை ஏற்படுத்துவது இனவாதக் கோணத்தில் செயற்பபடுவதையே காட்டுவதாக இலங்கை ஆசிரியர் சங்கம் தெரிவித்துள்ளது.
+Police are investigating a house in the form of a Tamil national flower (Karthika flower) flower.
+
+The Sri Lanka Teachers Union had lodged a complaint at the Jaffna Human Rights Commission's Office at the Jaffna Human Rights Commission of Sri Lanka on April 2 that the basic rights of school children had been violated due to the action of the police.
+
+The Sri Lanka Teachers Association said that using the form of flowers in school textbooks, students are unable to showcase their skills.
+
+Regional journalists say that the soldiers and policemen who arrived at the Tellippalai Union College Home Sports Competition were held on March 30, and the police and police were investigating the houses that had been built in the form of armor and magnetic flower.
 
 ...
 
 [Data](articles/cad18269.json)
 
+[Extended Data](ext_articles/cad18269.ext.json)
+
 ---
 
-### ජීවිතය වගේ මේ ගෙදර රැකගන්න - ජනපති
+### Protect this home as life - President
 
 *2024-04-10 12:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195502) · `si`
 
-අධ්‍යාපනය, ඉඩම්, නිවාස හා ව්‍යාපාර අයිතිය ලබා දෙමින් ශක්තිමත් ආර්ථිකයක කොටස්කරුවන් බවට ජනතාව පත්කිරීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රකාශ කළේය.
+President Ranil Wickremesinghe emphasized the importance of protecting homes and ensuring economic growth, including increasing public servant salaries and strengthening the rupee. He also highlighted the provision of housing for the suffering people, aiming to improve their living conditions.
 
-2010 වසරේදී කජීමාවත්තේ ගිනිබත් වූ නිවාස වෙනුවෙන් රන්දිය උයන නිවාස සංකීර්ණයේ නිවාස 294ක් ජනතා අයිතියට පවරාදීමේ අවස්ථාවට එක්වෙමින් ජනාධිපතිවරයා මෙම අදහස් පළකළේය.
+🟩
 
-වැඩිදුරටත් අදහස් දක්වමින් ජනාධිපතිවරයා මෙම නිවාස උගස් තැබීමට හෝ විකිණීමට කටයුතු නොකරන ලෙසට ඉල්ලීමක්ද සිදුකළේය .
+President Ranil Wickremesinghe said that the people will be appointed as partners in a strong economy with the rights of the land, land, housing and business ownership.
 
-වසර දහයකට වඩා කාලයක් කජිමාවත්තේ ජනතාව ජීවත් වී තිබෙන්නේ අපායක් වැනි ස්ථානයකයි. එහි ජීවත් වුනේ කොහොමද යන්නත්  හිතාගත නොහැකියි. එවැනි පසුබිමක මෙම මහල් නිවාස කඩිනමින් ජනතාවට ලබාදීමට හැකි වීම පිළිබඳ සතුටුවනවා. මේ සම්බන්ධයෙන් රවී කරුණානායක මහතා විශාල උනන්දුවක් දැක්වූවා. ඔබට අද ලැබෙන මෙම නිවස ඔබේ වටිනාම දේපළ බවට පත්වෙනවා. එය ආරක්ෂාකාරීව භාවිත කිරීම ඔබ සතු වගකීමක් වෙනවා. පසුගිය වසර දහයක කාලය තුළ දුක් වින්ඳ ඔබ මෙම නිවාස උගස් තියන්න හෝ විකුණන්න එපා. තමන්ගේ ජීවිතය වගේ මෙම නිවාස රැකගන්න කියා මා ඉල්ලා සිටිනවා.
+The President made these comments participating in the event of the burning of 294 houses in the Randiya Uyana Housing Complex for the public in 2010.
+
+Speaking further the President also requested these homes or not to sell these houses.
+
+The people of Kajimawatte have lived in a place like hell for more than ten years. It is impossible to how to live there. In such a background, these apartments are pleased to provide the people soon. Mr. Ravi Karunanayake expressed great interest in this regard. This house you get today becomes your most valuable property. It is your responsibility to use it safely. Don't have the last ten years in the last ten years you don't have or sell these habbing motors. I call on these houses like their life.
 
 ...
 
 [Data](articles/7e72f4ff.json)
 
+[Extended Data](ext_articles/7e72f4ff.ext.json)
+
 ---
 
-### 'உலகமெங்கும் சமத்துவமும், சகோதரத்துவமும் மேலோங்க  பிரார்த்திப்போம்' - எம். எஸ் தௌபீக் எம்.பி..!
+### 'We pray for equality and brotherhood all over the world' - M. S Dafeek MP ..!
 
 *2024-04-10 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180897) · `ta`
 
-உலக வாழ் முஸ்லிம்கள் அனைவருக்கும் இனிய நோன்பு பெருநாள் வாழ்த்துக்களை  தெரிவிப்பதில் மகிழ்ச்சியடைவதாக திருகோணமலை மாவட்ட நாடாளுமன்ற உறுப்பினரும், ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் தேசிய அமைப்பாளருமான எம் எஸ் தௌபீக் அவருடைய பெருநாள் வாழ்த்துச் செய்தியில் குறிப்பிட்டுள்ளார்.
+MS Dafeek MP prays for global equality and brotherhood, highlighting the strengthening of faith during Ramadan and the support for Palestine.
 
-புனித ரமழான் நோன்பை நோற்று நல்லமல்களில் விழித்திருந்து வணங்கி இன்று பெருநாளை அடைந்திருக்கிறோம். இறை அச்சத்தோடு இவ்வருட நோன்பை எதிர்கொண்டு, நமது ஈமானை இந்த மாதத்தில் பலப்படுத்திக் கொண்டோம்.
+🟩
 
-பலப்படுத்திக் கொண்ட உள்ளங்களை இன்றைய தினத்தோடு விட்டுவிடாது வாழ்நாள் பூராகவும் செயற்படுத்திக் கொள்ள முயற்சி செய்வதோடு, ஏழை எழியோருக்கு முடியுமான உதவிகளை வழங்குவோம்.
+MS Tafeek, a member of the Trincomalee District Parliament and the National Organizer of the Sri Lanka Muslim Congress, said in his greeting message that the Muslims of the world are happy to congratulate all the world.
 
-அதேபோன்று பலஸ்தீனில் எமது உடன்பிறப்புக்கள் படும் இன்னல்களை புரிந்து,  அவர்களின் சுபீட்சத்திற்காகவும் அங்கு நிரந்தர அமைதி நிலவவும் இறைவனிடம் இரு கரம் ஏந்தி பிரார்த்திப்போம்.
+We have been awake and worshiped in the goodwill of Holy Ramadan. Faced with the fear of God this year, we strengthened our Iman this month.
 
-உலகு எங்கும் சமத்துவமும், சகோதரத்துவமும் மேலோங்கட்டும் என பிரார்த்தித்தவனாக உலக வாழ் அனைத்து முஸ்லிம் சகோதரர்களுக்கும் எனது நோன்பு பெருநாள் வாழ்த்துக்களை தெரிவித்துக்கொள்கிறேன் என்றார்.
+We will try to activate the strengthening hearts today, and we will be able to help the poor and help the poor.
+
+Similarly, we will pray to the Lord to understand the troubles of our siblings in Palestine and for their prosperity and permanent peace there.
+
+I wish to congratulate all the Muslim brothers in the world to pray for equality and brotherhood everywhere in the world.
 
 ◼️
 
 [Data](articles/c1922a3b.json)
+
+[Extended Data](ext_articles/c1922a3b.ext.json)
 
 ---
 
@@ -108,19 +174,25 @@ In response to these concerns, the Ministry of Transport and the Ministry of Hea
 
 ---
 
-### யாழில் வயோதிப பெண் சடலமாக மீட்பு
+### Elderly woman's body recovery in Jaffna
 
 *2024-04-10 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180894) · `ta`
 
-மானிப்பாய் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியை சேர்ந்த சாந்தினி எனும் 63 வயதுடைய பெண்ணே சடலமாக மீட்கப்பட்டுள்ளார்.
+A 63-year-old woman from Manipay, Jaffna, was found and handed over to the Jaffna Bodhana Hospital for examination.
 
-பிள்ளைகள் மற்றும் கணவரை பிரிந்து தனியாக வீட்டில் வசித்து வந்ததாகவும் , நேற்றைய தினம் செவ்வாய்க்கிழமை வீட்டில் சடலமாக காணப்பட்டதை அயலவர்கள் கண்ணுற்று பொலிஸாருக்கு தகவல் வழங்கியுள்ளனர்.
+🟩
 
-பொலிஸார் சம்பவ இடத்திற்கு சென்று விசாரணைகளை முன்னெடுத்த பின்னர் சடலத்தை மீட்டு, உடற்கூற்று பரிசோதனைக்காக யாழ்.போதனா வைத்தியசாலையில் ஒப்படைத்துள்ளனர்.
+Santini, a 63 -year -old woman from the Manipay police division, has been recovered.
+
+Neighbors have informed the police that the children and their husbands were living alone and living in the house on Tuesday.
+
+The police have recovered the body and handed over the body to the Jaffna Bodhana Hospital for anatomical examination.
 
 ◼️
 
 [Data](articles/10de7ef8.json)
+
+[Extended Data](ext_articles/10de7ef8.ext.json)
 
 ---
 
@@ -536,17 +608,23 @@ He died that night as he was admitted to the Jaffna Teaching Hospital yesterday 
 
 ---
 
-### 779 ක් නිදස්
+### 779 LSSPS
 
 *2024-04-10 10:44:13* · [`adalk`](https://www.ada.lk/breaking_news/779-ක්-නිදස්/11-409044) · `si`
 
-සිංහල හා දෙමළ අලුත් අවුරුද්ද වෙනුවෙන් සිරකරුවන් 779කට ජනාධිපති සමාව යටතේ නිදහස ලබා දීමට තීරණය කර ඇතිබව පැවසේ.
+779 prisoners released for Sinhala and Tamil New Year, as per Section 34 (1) of the Constitution.
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 34(1) වගන්තිය අනුව ජනාධිපතිවරයා වෙත පැවරී ඇති බලතල ප්‍රකාරව මෙම විශේෂ රාජ්‍ය සමාව පිරිනැමීමට නියමිත බව වාර්ථාවෙයි.
+🟩
+
+779 prisoners have been released for the Sinhala and Tamil New Year.
+
+According to Section 34 (1) of the Constitution, this special state is to be awarded this special state.
 
 ◼️
 
 [Data](articles/8c1253b7.json)
+
+[Extended Data](ext_articles/8c1253b7.ext.json)
 
 ---
 
@@ -2203,51 +2281,5 @@ Khalipathul Gulaba Moulavi MPM Hisham Pathaki has announced that the Muslims of 
 [Data](articles/a406e316.json)
 
 [Extended Data](ext_articles/a406e316.ext.json)
-
----
-
-### Russia, Kazakhstan evacuate over 100,000 people amid worst flooding in decades
-
-*2024-04-09 22:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98546/russia-kazakhstan-evacuate-over-100000-people-amid-worst-flooding-in-decades) · `en`
-
-Russia and Kazakhstan ordered more than 100,000 people to evacuate after swiftly melting snow swelled mighty rivers beyond bursting point in the worst flooding in the area for at least 70 years.
-
-The deluge of melt water overwhelmed scores of settlements in the Ural Mountains, Siberia and areas of Kazakhstan close to rivers such as the Ural and Tobol, which local officials said had risen by metres in a matter of hours to the highest levels ever recorded.
-
-The Ural River, Europe’s third longest which flows through Russia and Kazakhstan into the Caspian, burst through an embankment dam on Friday, flooding the city of Orsk just south of the Ural Mountains.
-
-Downstream, water levels in Orenburg, a city of around 550,000, rose towards the critical level of 9.3 metres as sirens warned major floods were imminent. The water level is currently 9.14 metres.
-
-...
-
-[Data](articles/8ad0f2e6.json)
-
-[Extended Data](ext_articles/8ad0f2e6.ext.json)
-
----
-
-### Chamodi Prabodha pays 5 wickets for 42 runs
-
-*2024-04-09 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195488) · `si`
-
-Chamodi Prabodha, a 14-year-old, took 5 wickets for 42 runs in a match against England, where Sri Lanka scored 226 runs and England chased 227 runs, ending with 118 runs.
-
-🟩
-
-Sri Lanka Yokeyers were able to record 108 runs in the 19th Tirania cricket team today (09).
-
-Chamodi, a 14-year-old Chamodi Prabodha Praebodha, took 5 wickets for 42 runs.
-
-Batting first, Sri Lanka youth scored 226 runs for the loss of 48 overs.
-
-Sri Lanka bowlers were hit by England youths to chase 227 runs.
-
-Accordingly, England scored 118 runs in the end of 23 overs.
-
-◼️
-
-[Data](articles/07c9f04a.json)
-
-[Extended Data](ext_articles/07c9f04a.ext.json)
 
 ---

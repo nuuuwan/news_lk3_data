@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 14:52:05**
+As of **2024-04-10 15:03:20**
 
 ## Newspaper Stats
 
-*Scraped **18,278** Articles*
+*Scraped **18,282** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 161
+colombotelegraphcom | 162
 bbccomsinhala | 191
 dbsjeyarajcom | 213
 newsfirstlk | 363
 dailyftlk | 1,001
 islandlk | 1,001
 economynextcom | 1,021
-adalk | 1,538
+adalk | 1,539
 tamilmirrorlk | 2,141
 adaderanalk | 2,189
-virakesarilk | 2,712
+virakesarilk | 2,714
 dailymirrorlk | 2,786
 adaderanasinhalalk | 2,961
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,961
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,276 (100.0%) of 18,278 articles have been extended.
+18,278 (100.0%) of 18,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### அதிவேக வீதிகளில் ஏற்படும் விபத்துகளுக்கான முக்கிய காரணிகள் அடையாளம்
+
+*2024-04-10 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180892) · `ta`
+
+சாரதிகளின் கவனக்குறைவு, வாகனங்களை முறையாக பராமரிக்காமை மற்றும் மூன்றாம் தரப்பினரால் ஏற்படும் விபத்துக்கள் ஆகியவை அதிவேக வீதிகளில் விபத்துகள் ஏற்பட மூன்று முக்கிய காரணங்களாக அடையாளம் காணப்பட்டுள்ளதாக  அதிவேக வீதிகள் பாதுகாப்பு நடவடிக்கைகளுக்கான ஆலோசனைக் குழு உறுப்பினர் வைத்தியர் சமோத் ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+
+அதிவேக வீதிகளில் ஏற்படும் விபத்துகளின் புள்ளி விவரங்கள் மற்றும் காரணிகள் குறித்த   ஆய்வு அறிக்கையில் இந்த  விடயம் தெரிவந்துள்ளதாக  கொழும்பில் நேற்று இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்டு உரையாற்றிய  போது தெரிவித்துள்ளார்.
+
+அதிவேக வீதிகளில் ஏற்படும் 56 சதவீதமான  விபத்துகள் வாகன சாரதிகளின் கவனக்குறைவால் இடம்பெறுகிறது. இது பெரிய பிரச்னையாக மாறியுள்ளது. இந்த விபத்துக்களால் 35 சதவீதமான மரணங்கள் அல்லது நிரந்தர அங்கவீனத்தை ஏற்படுகிறது.
+
+...
+
+[Data](articles/f63012c1.json)
+
+---
 
 ### Hambantota International Port kicks of container operations
 
@@ -48,23 +64,45 @@ Commenting in this regard, Johnson Liu, Chief Representative of China Merchants 
 
 [Data](articles/0d33d29b.json)
 
+[Extended Data](ext_articles/0d33d29b.ext.json)
+
 ---
 
-### අලුත් අවුරුදු නැකැත් සීට්ටුව ජනපතිට පිළිගන්වයි
+### New Year's Vision presented to President
 
 *2024-04-10 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195509) · `si`
 
-සිංහල හා දෙමළ අලුත් අවුරුදු නැකැත් සීට්ටුව සාම්ප්‍රදායික චාරිත්‍රානුකූලව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත පිළිගන්වා තිබේ.
+The Sinhala and Tamil New Year's NEWSATH SEP was presented to President Ranil Wickremesinghe by the State's Department of Cultural Affairs. Minister of Buddha Samara and Religious and Cultural Affairs Vidura Wickramanayaka participated. The event included charity, cooking, bleeding, diet, and celebrations marking the new year.
 
-සංස්කෘතික කටයුතු දෙපාර්තමේන්තුවේ රාජ්‍ය නැකැත් කමිටුව විසින් සකස් කරන ලද නිවැරදි නැකැත් සීට්ටුව එලෙස ජනාධිපතිවරයා වෙත පිළිගැන්වූ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+🟩
 
-නැකැත් සීට්ටුව බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍ය විදුර වික්‍රමනායක මහතා විසින් ජනාධිපතිවරයා වෙත පිළිගැන්වීම සිදු කළේය.
+The Sinhala and Tamil New Year's NEWSATH SEP has been admitted to the traditional ritual to President Ranil Wickremesinghe.
 
-අලුත් අවුරුදු උදාව, පුණ්‍ය කාලය, ආහාර පිසීම, ලිප ගිනි දැල්වීම, ආහාර අනුභවය, හිසතෙල් ගෑම සහ නව වසරේ රැකියා සඳහා පිටත්ව යාම ආදී සුබ මුහුර්තයන් නැකත් සීට්ටුවට ඇතුළත්ය.
+The procedure amazed seat prepared by the State's auspicious committee of the Department of Cultural Affairs, the Presidential Media Unit said.
+
+Minister of Buddha Samara presented the President of Buddha Sasana, Religious and Cultural Affairs Vidura Wickramanayaka.
+
+New Year's dawn, charity, cooking, bleeding, diet, precisely visible and celebrated and departing for the new year.
 
 ◼️
 
 [Data](articles/b7c8b301.json)
+
+[Extended Data](ext_articles/b7c8b301.ext.json)
+
+---
+
+### வடக்கில் இராணுவம் அமைத்த விகாரைக்கு எதிரான போராட்டத்திற்கு ஒரு வருடம்
+
+*2024-04-10 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180909) · `ta`
+
+தமிழ் மக்களுக்கு சொந்தமான தனியார் காணிகளை அபகரித்து வடக்கில் பௌத்த விகாரை இராணுவத்தினரால் கட்டப்பட்டுள்ளதாக குற்றம் சுமத்தி ஒரு வருட காலமாக போராட்டத்தை முன்னெடுத்து வரும் தமிழ் மக்களின் பிரதிநிதி ஒருவர் அந்த காணிகளை உடனடியாக விடுவிக்குமாறு கோரிக்கை விடுத்துள்ளார்.
+
+அவ்வாறு செய்யாவிடின் அந்த காணிகளை விடுவிப்பதற்காக முன்னெடுக்கப்படும் போராட்டங்களை மேலும் விரிவுபடுத்த வேண்டியிருக்கும் என தமிழ் தேசிய மக்கள் முன்னணியின் நாடாளுமன்ற உறுப்பினர் செல்வராஜா கஜேந்திரன் கடந்த காங்கேசன்துறை திஸ்ஸ விகாரைக்கு முன்பாக நின்று நேற்று முன்தினம் (ஏப்ரல் 7) வெளியிட்ட காணொளியில் எச்சரிக்கை விடுத்திருந்தார்.
+
+...
+
+[Data](articles/f07e66fc.json)
 
 ---
 
@@ -179,6 +217,26 @@ The people of Kajimawatte have lived in a place like hell for more than ten year
 [Data](articles/a5ca1a91.json)
 
 [Extended Data](ext_articles/a5ca1a91.ext.json)
+
+---
+
+### අවුරුදු නැකැත් සීට්ටුව ජනපතිට පිළිගන්වයි
+
+*2024-04-10 13:23:10* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-නැකැත්-සීට්ටුව-ජනපතිට-පිළිගන්වයි/11-409046) · `si`
+
+සිංහල හා දෙමළ අලුත් අවුරුදු නැකැත් සීට්ටුව සාම්ප්‍රදායික, චාරිත්‍රානුකූලව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත පිළිගැන්වීම අද (10) පෙරවරුවේ ජනාධිපති කාර්යාලයේ දි සිදු විය.
+
+සංස්කෘතික කටයුතු දෙපාර්තමේන්තුවේ රාජ්‍ය නැකැත් කමිටුව විසින් සකස් කරන ලද නිවැරදි නැකැත් සීට්ටුව මෙලෙස ජනාධිපතිවරයා වෙත පිළිගන්වනු ලැබීය.
+
+චිරාගත පිළිවෙත් අනුව අඬබෙරකරු සමඟ පැමිණි නැකැත්කරු රැගෙන ආ නැකැත් සීට්ටුව බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍ය විදුර වික්‍රමනායක මහතා විසින් ජනාධිපතිවරයා වෙත පිළිගැන්වීය.
+
+අලුත් අවුරුදු උදාව, පුණ්‍ය කාලය, ආහාර පිසීම, ලිප ගිනි දැල්වීම, ආහාර අනුභවය, හිසතෙල් ගෑම සහ නව වසරේ රැකියා සඳහා පිටත්ව යාම ආදී සුබ මුහුර්තයන් නැකත් සීට්ටුවට ඇතුළත්ය.
+
+ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක හා ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානී සාගල රත්නායක, ජනාධිපති ලේකම් සමන් ඒකනායක, බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමත්‍යාංශයේ ලේකම් සෝමරත්න විදානපතිරණ යන මහත්වරු ඇතුළු පිරිසක් මෙම අවස්ථාවට එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/f3427c23.json)
 
 ---
 
@@ -1504,6 +1562,18 @@ The President also noted that the Holy Quran underscores the importance of adher
 
 ---
 
+### India & Sri Lanka: Identifying New Opportunities & Forging New Bonds
+
+*2024-04-10 08:51:53* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/india-sri-lanka-identifying-new-opportunities-forging-new-bonds/) · `en`
+
+It is my pleasure to welcome you to the Second Seminar on India-Sri Lanka Defence Cooperation that we are organizing in Colombo. I thank you all for attending. My deep appreciation to the Hon. State Minister Mr. Tennekoon for his presence here today. I must also thank the Chief of Defence Staff of Sri Lanka and the Commanders of the Air Force and Navy for their gracious presence.We value the support extended by the Ministry of Defence of Sri Lanka. We look forward to working with our Sri Lankan friends to take forward our common endeavour to deepen and further strengthen our defence cooperation.I am also grateful for the presence of Indian delegation led by Additional Secretary from Ministry of Defence. He is leading a large and very diverse delegation from the Indian defence-industry, including some leading Indian Defence Public Sector entities and wide range of industry players from the private sector.
+
+...
+
+[Data](articles/3c23c8b9.json)
+
+---
+
 ### The possibility of thunderstorms
 
 *2024-04-10 08:48:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யக்-கூடிய-சாத்தியம்/175-335811) · `ta`
@@ -2239,85 +2309,5 @@ CMEC argued that the dispute, involving a commercial transaction exceeding Rs. 5
 [Data](articles/a0e8c5e5.json)
 
 [Extended Data](ext_articles/a0e8c5e5.ext.json)
-
----
-
-### Medical degree admissions for local students at KDU
-
-*2024-04-10 00:57:07* · [`dailyftlk`](https://www.ft.lk/news/Medical-degree-admissions-for-local-students-at-KDU/56-760518) · `en`
-
-In a move aimed at expanding opportunities for aspiring medical students in Sri Lanka, the Cabinet of Ministers approved offering admission to local students for the medical degree programme at the General Sir John Kotelawala Defence University (KDU).
-
-“The admission process for local students to the medical programme at KDU will commence this year, based on the student’s ‘Z score’ attained at the GCE Advanced Level Examination, along with other relevant qualifications,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said.
-
-He said this will also help the country to stop the outflow of foreign exchange to countries like Bangladesh, Belarus China among others, where many Sri Lankan students study for their MBBS medical degree.
-
-...
-
-[Data](articles/4b3ecf2d.json)
-
-[Extended Data](ext_articles/4b3ecf2d.ext.json)
-
----
-
-### India loosens onion export ban to help neighbours
-
-*2024-04-10 00:56:43* · [`dailyftlk`](https://www.ft.lk/news/India-loosens-onion-export-ban-to-help-neighbours/56-760517) · `en`
-
-India is gearing up to supply thousands of metric tonnes of onions to Sri Lanka and UAE, days after it approved limited exports of essential commodities to the Maldives.
-
-According to the Hindustan Times, India has supplied 10,000 metric tons of onions over and above the agreed 14,400-ton cap.
-
-The world’s largest global exporter of onions, India has either banned or limited export permits for the in-demand vegetable, as well as for rice, wheat flour, pulses, and sugar, since last December.
-
-Subsequently, onion prices are believed to have risen dramatically in neighbouring countries that have depended on onion imports from India to meet their domestic demand. Through a “special quota” arrangement, the Indian Government recently allowed exports to Bangladesh, Sri Lanka, Mauritius, Bahrain, and Bhutan.
-
-◼️
-
-[Data](articles/cfdbe17c.json)
-
-[Extended Data](ext_articles/cfdbe17c.ext.json)
-
----
-
-### Govt. to consider registering higher engine capacity motorcycles
-
-*2024-04-10 00:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-to-consider-registering-higher-engine-capacity-motorcycles/108-280517) · `en`
-
-Colombo, April 10 (Daily Mirror) - A meeting was held recently at the Transport Ministry to explore the feasibility of registering motorcycles with higher engine capacities.
-
-Commissioner General of the Department of Motor Traffic Nishantha Weerasinghe informed Daily Mirror that a decision was made to draft a cabinet paper seeking approval from the cabinet of ministers.
-
-"We deliberated on the registration of existing illegally imported motorcycles with higher engine capacities through the DMT, with fines being imposed," stated the Commissioner General.
-
-The meeting took place on Monday (8) at the Public Security Ministry, with Public Security Minister Tiran Alles, DMT Commissioner General, MP Rohitha Abeygunawardena and representatives from the police department in attendance.
-
-Instructions were provided during the meeting to prepare the necessary cabinet paper.
-
-◼️
-
-[Data](articles/1a6017b5.json)
-
-[Extended Data](ext_articles/1a6017b5.ext.json)
-
----
-
-### National Chamber and KPMG forge strategic collaboration to develop SME sector
-
-*2024-04-10 00:27:19* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-and-KPMG-forge-strategic-collaboration-to-develop-SME-sector/34-760508) · `en`
-
-From left: NCCSL Council Member Ruwan Fernando, Honorary Secretary Dr. Lakmal Fernando, Senior Deputy President Anura Warnakulasooriya, President Deepal Nelson, KPMG Sri Lanka Managing Partner Priyanka Jayatilake, Principal - Deal Advisory, Head of Advisory and Deputy Head of Markets Shiluka Goonewardene, NCCSL Secretary General/CEO Nilupul Chandrasena, KPMG Sri Lanka Manager – Markets Uthpala Subasinghe, and Senior Executive – Markets Rachini Weerasekara
-
-National Chamber President Deepal Nelson (left) exchanging the MoU with KPMG Sri Lanka Managing Partner Priyanka Jayatilake
-
-The National Chamber of Commerce of Sri Lanka (NCCSL) and KPMG Sri Lanka have officially signed a Memorandum of Understanding (MOU) aimed at fostering knowledge sharing and collaborative endeavors.
-
-This landmark agreement marks a strategic collaboration between two influential organisations, poised to catalyse numerous joint initiatives.
-
-...
-
-[Data](articles/1a031d98.json)
-
-[Extended Data](ext_articles/1a031d98.ext.json)
 
 ---

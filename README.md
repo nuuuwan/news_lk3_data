@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 00:49:41**
+As of **2024-04-11 01:03:20**
 
 ## Newspaper Stats
 
-*Scraped **18,356** Articles*
+*Scraped **18,358** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,027
 adalk | 1,545
 tamilmirrorlk | 2,149
 adaderanalk | 2,197
-virakesarilk | 2,731
+virakesarilk | 2,733
 dailymirrorlk | 2,802
 adaderanasinhalalk | 2,973
 
@@ -26,9 +26,45 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,356 (100.0%) of 18,356 articles have been extended.
+18,356 (100.0%) of 18,358 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-04-11 (Thursday)
+
+### காதலி உயிரிழந்து 50வது நாளில் காதலனும் உயிர்மாய்ப்பு - யாழ்ப்பாணத்தில் துயரம்!
+
+*2024-04-11 00:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/180941) · `ta`
+
+காதலி ஒருவர் தூக்கிட்டு இறந்து 50வது செவ்வாய்க்கிழமை (09) காதலனும் தூக்கிட்டு தற்கொலை செய்த சம்பவமானது அனைவரையும் சோகத்தில் ஆழ்த்தியுள்ளது. சிங்காவத்தை, துர்க்காபுரம், தெல்லிப்பழை பகுதியைச் சேர்ந்த கதிர்காமலிங்கம் கோபிசன் (வயது 20) என்ற இளைஞரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த இளைஞரின் காதலியான தெல்லிப்பழை பகுதியைச் சேர்ந்த யுவதி ஒருவர் கடந்த 50 நாட்களுக்கு முன்னர் தூக்கிட்டு உயிர்மாய்த்துள்ளளார். இந்நிலையில் குறித்த இளைஞன் செவ்வாய்க்கிழமை (09) மதியம் ஒரு மணியளவில் அவரது இல்லத்தில் தூக்கிட்டு உயிர்மாய்த்துள்ளளார்.
+
+◼️
+
+[Data](articles/9fe0f75a.json)
+
+---
+
+### 40 வயதுக்குட்பட்ட, 40 வயதுக்கு மேற்பட்ட  இரண்டு பிரிவுகளிலும் ஓல்ட் பீட்ஸ் வெற்றி
+
+*2024-04-11 00:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180940) · `ta`
+
+கொட்டாஞ்சேனை புனித ஆசீர்வாதப்பர் கல்லூரி மைதானத்தில் கடந்த வார இறுதியில் நடைபெற்ற ஓல்ட் பெனடிக்டைன்ஸ் - ஓல்ட் பீட்டரைட்ஸ் அணிகளுக்கு இடையிலான வருடாந்த கால்பந்தாட்டப் போட்டிகளில் ஓல்ட் பீட்டரைட்ஸுக்கு இரட்டை வெற்றி கிடைத்தது.
+
+40 வயதுக்குட்பட்டவர்களுக்கான பிரதான போட்டியிலும்  40 வயதுக்கு மேற்பட்டவர்களுக்கான வெட்டரன்ஸ் போட்டியிலும் ஒல்ட் பென்ஸ் அணிகளை தலா 2 - 0 என்ற கோல்கள் வித்தியாசத்தில் வெற்றிகொண்ட ஓல்ட் பீட்ஸ் அணிகள் வெற்றிக் கிண்ணங்களை சுவீகரித்தன.
+
+40 வயதுக்குட்பட்டவர்களுக்கான போட்டியில் ஒரு பெனல்டி உட்பட குறைந்தது 4 இலகுவான கோல் போடும் வாய்ப்புகளைத் தவற விட்டதன் காரணமாக ஓல்ட் பென்ஸ் தோல்வியைத் தழுவியது.
+
+போட்டியின் 6ஆவது நிமிடத்தில் கிடைக்கப்பெற்ற பெனல்டியை ஓல்ட் பென்ஸ் பின்கள வீரர் சமீர கிருஷான்த தவறவிட்டதுடன் தொடர்ந்து 13ஆவது, 14ஆவது, 28ஆவது நிமிடங்களில் ஓல்ட் பென்ஸ் வீரர்கள் இலகுவான கோல் போடும் வாய்ப்புகளை கோட்டை விட்டனர்.
+
+இடைவேளைக்குப் பின்னர் 52ஆவது நிமிடத்தில் மற்றொரு இலகுவான கோல் போடும் வாய்ப்பை தவறவிட்டது.
+
+...
+
+[Data](articles/379f5397.json)
+
+---
 
 ### 2024-04-10 (Wednesday)
 
@@ -2331,51 +2367,5 @@ Muslims gathered at Galle Face Green in Colombo this morning to attend Eid praye
 [Data](articles/6116c037.json)
 
 [Extended Data](ext_articles/6116c037.ext.json)
-
----
-
-### There is no shortage of essentials in festivals
-
-*2024-04-10 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180884) · `ta`
-
-Mahinda Amaraweera, Agriculture Minister, stated that during the Tamil and Sinhala New Year festival, essential commodities like rice, vegetables, eggs, poultry, meat, and fruits were abundant. He highlighted the government's efforts to increase production, addressing past vegetable shortages and price hikes. Prices of essential commodities have been reduced, with the expectation of egg prices dropping to 30 rupees by May.
-
-🟩
-
-Agriculture and Plantation Industries Minister Mahinda Amaraweera said that during the Tamil and Sinhala New Year festival, the necessary domestic rice, vegetables, eggs, poultry, meat and fruits were provided without scarcity.
-
-He also said that the rapid rising vegetable prices and the shortage of vegetables have been completed in the past months.
-
-He also said that under the government's program to increase the production of the country, more essential commodities are available in the market.
-
-Many people have said that the price of a kilo of bear will increase to 5,000 rupees ahead of the New Year, but he has urged that the prices of all commodities have been reduced.
-
-He also said that the price of the egg would be reduced to 30 rupees before May.
-
-◼️
-
-[Data](articles/c7efe12b.json)
-
-[Extended Data](ext_articles/c7efe12b.ext.json)
-
----
-
-### Postal services operational on 12 April; influx of parcels received for delivery
-
-*2024-04-10 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98551/postal-services-operational-on-12-april-influx-of-parcels-received-for-delivery) · `en`
-
-All postal workers have agreed to work on 12 April, despite it being a public holiday, to handle the significant volume of goods received by the Central Mail Exchange for the Sinhala and Tamil New Year season, for the first time in its history.
-
-State Minister for Mass Media Shantha Bandara mentioned that this decision was made to accommodate the surge in demand for postal services during this festive period.
-
-Addressing a media briefing at the Presidential Media Centre (PMC) on Tuesday (09), the lawmaker explained that the individuals living abroad have sent a substantial quantity of items to their relatives and friends here.
-
-He said that with the surge in deliveries expected during this festive period, ensuring timely delivery posed a significant challenge.
-
-...
-
-[Data](articles/f7158e4e.json)
-
-[Extended Data](ext_articles/f7158e4e.ext.json)
 
 ---

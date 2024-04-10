@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 02:50:09**
+As of **2024-04-11 03:03:28**
 
 ## Newspaper Stats
 
-*Scraped **18,365** Articles*
+*Scraped **18,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,027
 adalk | 1,545
 tamilmirrorlk | 2,149
 adaderanalk | 2,199
-virakesarilk | 2,737
+virakesarilk | 2,739
 dailymirrorlk | 2,803
 adaderanasinhalalk | 2,973
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,365 (100.0%) of 18,365 articles have been extended.
+18,365 (100.0%) of 18,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### இழுபறியிலிருந்த இரணைமடு குளத்தின் கீழான சிறு போக செய்கைக்கு தீர்வு
+
+*2024-04-11 02:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/180947) · `ta`
+
+நீண்ட இழுபறியிலிருந்த இரணைமடு குளத்தின் கீழான சிறு போக செய்கைக்கு தீர்வு எட்டப்பட்டுள்ளது.
+
+வடமாகாணத்தின் பாரிய நீர்ப்பாசனக்குளமாகிய இரணைமடு குளத்தின் கீழ், 2024ம் ஆண்டுக்கான சிறுபோக செய்கை சம்மந்தமான விசேட கலந்துரையாடல் புதன்கிழமை (10) கிளிநொச்சி மாவட்ட பதில் அரசாங்கதிபர் எஸ். முரளிதரன் தலைமையில் மாவட்ட செயலக மாநாட்டு மண்டபத்தில் நடைபெற்றது.
+
+புதன்கிழமை (10) காலை நடைபெற்ற குறித்த கலந்துரையாடலில் கரைச்சி பிரதேச செயலாளர், கமநல அபிவிருத்தி திணைக்கள மாவட்ட பிரதி ஆணையாளர், நீர்ப்பாசன பொறியியலாளர், இரணைமடு கமக்காரர் அமைப்புக்களின் சம்மேளனத்தின் கீழ் உள்ள 22 கமக்காரர் அமைப்புக்களின் பிரதிநிதிகள் என பலரும் கலந்து கொண்டிருந்தனர்.
+
+இரணைமடு குளத்தின் கீழான சிறுபோக செய்கை அளவை தீர்மானிக்கும் கலந்துரையாடல்கள் முடிவு எட்டப்படாது இழுபறி நிலையில் காணப்பட்டது.
+
+கடந்த 8ம் திகதி திங்கட்கிழமை மாவட்ட பதில் அரசாங்கதிபர் தலைமையில் மாவட்ட செயலகத்தில் விவசாய அமைப்புக்களின் பிரதிநிதிகளுடனான கலந்துரையாடலையடுத்து சுழற்சி முறையில் 15560 ஏக்கர் செய்கை பண்ணுவதாகத் தீர்மானிக்கப்பட்டது.
+
+...
+
+[Data](articles/312330b7.json)
+
+---
+
+### நடிகர் அவினாஷ் நடிக்கும் 'நாகபந்தம்' டைட்டில் லுக்கிற்கான காணொளி வெளியீடு
+
+*2024-04-11 02:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180946) · `ta`
+
+'கே ஜி எஃப்' பட புகழ் நடிகர் அவினாஷ் கதையின் நாயகனாக மாறுபட்ட வேடத்தில் நடிக்கும் பான் இந்திய அளவிலான புதிய திரைப்படத்திற்கு 'நாகபந்தம்' என பெயரிடப்பட்டு, அதன் ஃபர்ஸ்ட் லுக், டைட்டில் லுக் மற்றும் பிரத்யேக காணொளி வெளியிடப்பட்டிருக்கிறது.
+
+'டெவில் : தி பிரிட்டிஷ் சீக்ரெட் ஏஜெண்ட்' எனும் படத்தை இயக்கிய இயக்குநர் அபிஷேக் நாமா இயக்கத்தில் உருவாகும் 'நாகபந்தம் : தி சீக்ரெட் ட்ரெஸ்ஸரர்' எனும் திரைப்படத்தில் 'கே ஜி எஃப்' புகழ் அவினாஷ் அகோரியாக நடிக்கிறார். எஸ் சௌந்தர் ராஜன் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு அபே இசையமைக்கிறார். ஃபேண்டஸி என்டர்டெய்னர் ஜேனரில் தயாராகும் இந்த திரைப்படத்தை அபிஷேக் பிக்சர்ஸ் மற்றும் தண்டர் ஸ்டுடியோஸ் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர் மதுசூதன் ராவ் தயாரிக்கிறார். இந்த திரைப்படத்தை தேவன்ஷ் நாமா வழங்குகிறார்.
+
+...
+
+[Data](articles/eb5f391e.json)
+
+---
 
 ### Santhanam starring 'Inga I Tan Kingu' is the second song release
 
@@ -2345,55 +2379,5 @@ Regional journalists say that the soldiers and policemen who arrived at the Tell
 [Data](articles/cad18269.json)
 
 [Extended Data](ext_articles/cad18269.ext.json)
-
----
-
-### Protect this home as life - President
-
-*2024-04-10 12:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195502) · `si`
-
-President Ranil Wickremesinghe emphasized the importance of protecting homes and ensuring economic growth, including increasing public servant salaries and strengthening the rupee. He also highlighted the provision of housing for the suffering people, aiming to improve their living conditions.
-
-🟩
-
-President Ranil Wickremesinghe said that the people will be appointed as partners in a strong economy with the rights of the land, land, housing and business ownership.
-
-The President made these comments participating in the event of the burning of 294 houses in the Randiya Uyana Housing Complex for the public in 2010.
-
-Speaking further the President also requested these homes or not to sell these houses.
-
-The people of Kajimawatte have lived in a place like hell for more than ten years. It is impossible to how to live there. In such a background, these apartments are pleased to provide the people soon. Mr. Ravi Karunanayake expressed great interest in this regard. This house you get today becomes your most valuable property. It is your responsibility to use it safely. Don't have the last ten years in the last ten years you don't have or sell these habbing motors. I call on these houses like their life.
-
-...
-
-[Data](articles/7e72f4ff.json)
-
-[Extended Data](ext_articles/7e72f4ff.ext.json)
-
----
-
-### 'We pray for equality and brotherhood all over the world' - M. S Dafeek MP ..!
-
-*2024-04-10 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180897) · `ta`
-
-MS Dafeek MP prays for global equality and brotherhood, highlighting the strengthening of faith during Ramadan and the support for Palestine.
-
-🟩
-
-MS Tafeek, a member of the Trincomalee District Parliament and the National Organizer of the Sri Lanka Muslim Congress, said in his greeting message that the Muslims of the world are happy to congratulate all the world.
-
-We have been awake and worshiped in the goodwill of Holy Ramadan. Faced with the fear of God this year, we strengthened our Iman this month.
-
-We will try to activate the strengthening hearts today, and we will be able to help the poor and help the poor.
-
-Similarly, we will pray to the Lord to understand the troubles of our siblings in Palestine and for their prosperity and permanent peace there.
-
-I wish to congratulate all the Muslim brothers in the world to pray for equality and brotherhood everywhere in the world.
-
-◼️
-
-[Data](articles/c1922a3b.json)
-
-[Extended Data](ext_articles/c1922a3b.ext.json)
 
 ---

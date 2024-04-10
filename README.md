@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 09:18:14**
+As of **2024-04-10 09:34:04**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,950
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,207 (100.0%) of 18,210 articles have been extended.
+18,210 (100.0%) of 18,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### යතුරුපැදි අනතුරින් 18 හැවිරිදි තරුණයා ජීවිතක්ෂයට
+### 18 year old youth killed in motorcycle accident
 
 *2024-04-10 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195496) · `si`
 
-මුල්ලියාවේලි -  නෙදුන්කේනි මාර්ගයේ සිදුවූ යතුරුපැදි අනතුරකින් තරුණයෙක් මියගොස් තිබේ.
+An 18-year-old from Mulliyawei died in a motorcycle accident on the Mullahini-Nedunkeni road, colliding with a bike on the opposite side.
 
-ඊයේ (09) එම අනතුරින් මියගොස් ඇත්තේ, මුල්ලියාවේලි ප්‍රදේශයේ පදිංචි 18 හැවිරිදි තරුණයෙකි.
+🟩
 
-කනුක්කේනි ප්‍රදේශයේදී පුඳන්වයල් හන්දිය දෙසට ධාවනය වූ යතුරුපැදියක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි යතුරුපැදියක් මුහුණට මුහුණ ගැටීමෙන් එම අනතුර සිදුව ඇත.
+A young man has died in motorcycle accident on the Mullahini-Nedunkeni road.
+
+The victim was a 18 year old resident of Mulliyawei area yesterday.
+
+The accident had occurred when a motorbike to face a motorbike on the opposite.
 
 ◼️
 
 [Data](articles/30c743ea.json)
+
+[Extended Data](ext_articles/30c743ea.ext.json)
 
 ---
 
@@ -64,6 +70,8 @@ The President also noted that the Holy Quran underscores the importance of adher
 
 [Data](articles/12f54a67.json)
 
+[Extended Data](ext_articles/12f54a67.ext.json)
+
 ---
 
 ### Key factors identified for accidents on expressways
@@ -77,6 +85,8 @@ Addressing a media gathering yesterday in Colombo, he said the above key statist
 ...
 
 [Data](articles/647245b5.json)
+
+[Extended Data](ext_articles/647245b5.ext.json)
 
 ---
 

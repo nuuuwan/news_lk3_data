@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 01:51:24**
+As of **2024-04-11 02:03:18**
 
 ## Newspaper Stats
 
-*Scraped **18,362** Articles*
+*Scraped **18,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 1,545
 tamilmirrorlk | 2,149
 adaderanalk | 2,199
 virakesarilk | 2,735
-dailymirrorlk | 2,802
+dailymirrorlk | 2,803
 adaderanasinhalalk | 2,973
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,362 (100.0%) of 18,362 articles have been extended.
+18,362 (100.0%) of 18,363 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### Kavinda tells CID to repatriate Maithripala and hold investigations
+
+*2024-04-11 01:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kavinda-tells-CID-to-repatriate-Maithripala-and-hold-investigations/108-280577) · `en`
+
+Colombo, April 10 (Daily Mirror) - Samagi Jana Balawegaya (SJB) MP Kavinda Jayawardene today lodged a complaint with the CID that former President Maithripala Sirisena's departure to Thailand was suspicious.a
+
+"We feel that former President Sirisena has fled the country for some reason, just like the way he did prior to the Easter Sunday attacks," he said.
+
+"I have therefore requested the CID to expatriate him immidately and hold an investigation," he added.
+
+He noted that Sirisena had created a controversial situation through his words and actions.
+
+MP Jayawardene and Mano Ganesan lodged a complaint with the CID a few weeks ago after the former President said he was aware of the mastermind behind the Easter Sunday attacks.
+
+◼️
+
+[Data](articles/09d7eb63.json)
+
+---
 
 ### Rashid Khan's first defeat for Rajasthan
 
@@ -746,7 +766,11 @@ Meanwhile, Home Affairs State Minister Ashoka Priyantha earlier said several req
 
 *2024-04-10 18:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98560/15-april-declared-a-public-holiday-) · `en`
 
-The government has declared 15 April (Monday) as a public holiday, the Ministry of Home Affairs announced.
+The government has declared 15 April (Monday) as a public holiday.
+
+The decision was taken as the ‘Oil Anointing Ceremony’ of the Sinhala and Tamil New Year festival falls on 15 April.
+
+This was communicated by the Secretary of the Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government, Pradeep Yasaratne.
 
 ◼️
 
@@ -2367,27 +2391,5 @@ In response to these concerns, the Ministry of Transport and the Ministry of Hea
 [Data](articles/2ca39ef0.json)
 
 [Extended Data](ext_articles/2ca39ef0.ext.json)
-
----
-
-### Elderly woman's body recovery in Jaffna
-
-*2024-04-10 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180894) · `ta`
-
-A 63-year-old woman from Manipay, Jaffna, was found and handed over to the Jaffna Bodhana Hospital for examination.
-
-🟩
-
-Santini, a 63 -year -old woman from the Manipay police division, has been recovered.
-
-Neighbors have informed the police that the children and their husbands were living alone and living in the house on Tuesday.
-
-The police have recovered the body and handed over the body to the Jaffna Bodhana Hospital for anatomical examination.
-
-◼️
-
-[Data](articles/10de7ef8.json)
-
-[Extended Data](ext_articles/10de7ef8.ext.json)
 
 ---

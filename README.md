@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 11:18:15**
+As of **2024-04-10 11:33:51**
 
 ## Newspaper Stats
 
-*Scraped **18,244** Articles*
+*Scraped **18,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,143 @@ dailyftlk | 1,001
 islandlk | 1,001
 economynextcom | 1,019
 adalk | 1,535
-tamilmirrorlk | 2,137
-adaderanalk | 2,184
-virakesarilk | 2,702
-dailymirrorlk | 2,784
+tamilmirrorlk | 2,141
+adaderanalk | 2,185
+virakesarilk | 2,703
+dailymirrorlk | 2,785
 adaderanasinhalalk | 2,953
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,243 (100.0%) of 18,244 articles have been extended.
+18,244 (100.0%) of 18,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### Postal services operational on 12 April; influx of parcels received for delivery
+
+*2024-04-10 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98551/postal-services-operational-on-12-april-influx-of-parcels-received-for-delivery) · `en`
+
+All postal workers have agreed to work on 12 April, despite it being a public holiday, to handle the significant volume of goods received by the Central Mail Exchange for the Sinhala and Tamil New Year season, for the first time in its history.
+
+State Minister for Mass Media Shantha Bandara mentioned that this decision was made to accommodate the surge in demand for postal services during this festive period.
+
+Addressing a media briefing at the Presidential Media Centre (PMC) on Tuesday (09), the lawmaker explained that the individuals living abroad have sent a substantial quantity of items to their relatives and friends here.
+
+He said that with the surge in deliveries expected during this festive period, ensuring timely delivery posed a significant challenge.
+
+...
+
+[Data](articles/f7158e4e.json)
+
+---
+
+### தோட்ட தொழிலாளர்களின் சம்பள பேச்சுவார்த்தைக்கு இறுதி நேரத்தில் வருகைத்தராத முதலாளிமார்  சம்மேளனம் - கடுமையாக எச்சரித்த இ.தொ.கா தலைவர் செந்தில் தொண்டமான்
+
+*2024-04-10 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180882) · `ta`
+
+தோட்டத் தொழிலாளர்களின் சம்பள அதிகரிப்புக்கு  இ.தொ.கா தொடர்ச்சியாக  அழுத்தம் கொடுத்து வரும் நிலையில் இன்று புதன்கிழமை (10)  சம்பள நிர்ணய சபையில் நடைபெறவிருந்த பேச்சுவார்த்தைக்கு இறுதி நேரத்தில் முதலாளிமார் சம்மேளனம் வருகை தராது தங்களது அழற்சிய போக்கை வெளிப்படுத்தியுள்ளமைக்கு இ.தொ.கா தலைவர் செந்தில் தொண்டமான் கடுமையாக கண்டனத்தை வெளியிட்டுள்ளார்.
+
+தோட்ட தொழிலாளர்களின் சம்பள அதிகரிப்பு விடயத்தில் சம்பள நிர்ணய சபை ஊடாக  தீர்வு எட்டப்படும் நிலையில், முதலாளிமார் சம்மேளனம் பேச்சுவார்த்தைக்கு வருகை தராது அசமந்த போக்கில் செயற்பட்டு வருகிறது.
+
+தோட்ட தொழிலாளர்களின் விடயத்தில் உரிய தீர்வு கிடைகாவிடின் இ.தொ.கா கடும் தொழிற்சங்க நடவடிக்கையில் ஈடுபடும் என முதலாளிமார் சம்மேளனத்திற்கு செந்தில் தொண்டமான் எச்சரிக்கையும்  விடுத்துள்ளார்.
+
+...
+
+[Data](articles/0c432700.json)
+
+---
+
+### தாக்குதல் நடத்த சிலர் முயற்சி-பொலிஸ் மா அதிபர்
+
+*2024-04-10 11:16:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாக்குதல்-நடத்த-சிலர்-முயற்சி-பொலிஸ்-மா-அதிபர்/175-335818) · `ta`
+
+எதிர்வரும் ரமழான் பண்டிகை மற்றும் சிங்கள மற்றும் இந்து புத்தாண்டு கொண்டாட்டங்களை முன்னிட்டு பாதுகாப்பு நடவடிக்கைகள் பலப்படுத்தப்பட வேண்டியதன் அவசியத்தை பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் வலியுறுத்தினார்.
+
+அமைச்சரின் பாதுகாப்புப் பிரிவில் நடைபெற்ற நிகழ்வொன்றில் உரையாற்றிய ஐ.ஜி.பி., பயங்கரவாதத் தாக்குதல்களின் உலகளாவிய அச்சுறுத்தலை எடுத்துக்காட்டி, விஐபி பாதுகாப்பு மற்றும் தேசிய பாதுகாப்பில் கவனம் செலுத்த வேண்டியதன் முக்கியத்துவத்தை வலியுறுத்தினார்.
+
+"உலகளவில் தீவிரவாத மற்றும் பயங்கரவாத தாக்குதல்கள் அடிக்கடி எதிர்பாராத விதமாக நிகழ்கின்றன. இது விழிப்புணர்வின் அவசியத்தை அடிக்கோடிட்டுக் காட்டுகிறது" என்று ஐஜிபி கூறினார்.
+
+இதேவேளை, பொது அமைதியின்மையை தூண்டும் வகையில் அரசியல், மத மற்றும் கலாசார அம்சங்களின் மீது தாக்குதல் நடத்த சிலர் முயற்சிப்பதாக பொலிஸ் மா அதிபர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/bb9106ab.json)
+
+---
+
+### பொருளாளரின் மரணத்தால் PHI தொழிற்சங்கம் அச்சம்
+
+*2024-04-10 11:09:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாளரின்-மரணத்தால்-PHI-தொழிற்சங்கம்-அச்சம்/175-335817) · `ta`
+
+பொதுச் சுகாதார பரிசோதகர்கள் சங்கத்தின் பொருளாளர் ரொஷான் குமார விதானகேவின் பரிதாபகரமான மரணத்தை அடுத்து, பொதுச் சுகாதார பரிசோதகர்கள் தமது கடமைகளை திறம்பட நிறைவேற்ற முடியாத நிலையில் உள்ளனர்.
+
+ரொஷான் குமார கடந்த பெப்ரவரி மாதம் எல்பிட்டியவில் உள்ள அவரது வீட்டில் வைத்து சுட்டுக்கொல்லப்பட்டார், அவரது மரணத்தின் பின்னணியில் சந்தேகம் எழுந்தது.
+
+டெய்லி மிரரிடம் பேசிய PHI தொழிற்சங்கத் தலைவர் உபுல் ரோஹன, இந்த துயரச் சம்பவத்தின் வெளிச்சத்தில் கணிசமான எண்ணிக்கையிலான PHIக்கள் தங்கள் கடமைகளைச் செய்வதில் பாதுகாப்பற்றதாகவும் அச்சத்துடனும் இருப்பதாகக் கூறினார்.
+
+குற்றப் புலனாய்வுத் திணைக்களம் (CID) மற்றும் விசேட அதிரடிப் படை (STF) ஆகியோரிடம் விசாரணைகள் ஒப்படைக்கப்பட்டுள்ளதாக பொலிஸ் மா அதிபர் உறுதியளித்த போதிலும், இதுவரை இவ்வழக்கில் முன்னேற்றம் ஏற்படவில்லை என ரோஹன் வருத்தம் தெரிவித்தார்.
+
+உயிரிழந்த PHI ரொஷான் குமார விதானகே, பல கடுமையான சட்ட வழக்குகளை கையாள்வதில் ஈடுபட்டுள்ளதுடன், அழுகிய உணவுகளை விற்பனை செய்யும் நிறுவனங்கள் தொடர்பில் பல உண்மையான ஆபத்தான தகவல்களை வெளியிட்டிருந்தார்.
+
+...
+
+[Data](articles/a4f31b58.json)
+
+---
+
+### அரச வெளியீட்டு விற்பனை நிலையத்திற்கு பூட்டு
+
+*2024-04-10 11:02:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-வெளியீட்டு-விற்பனை-நிலையத்திற்கு-பூட்டு/175-335816) · `ta`
+
+நாரஹேன்பிட்டியில் உள்ள அரச வெளியீட்டு விற்பனை நிலையம் ஏப்ரல் 15 ஆம் திகதி மூடப்படும் என அரசாங்க தகவல் திணைக்களம் இன்று அறிவித்துள்ளது.
+
+கையிருப்பு மற்றும் சில உள் பராமரிப்பு நடவடிக்கைகள் காரணமாக இந்த முடிவு எடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/92a355e0.json)
+
+---
+
+### யாழில் நிர்வாணமாக மீட்கப்பட்ட பெண்ணின் சடலம்
+
+*2024-04-10 10:56:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-நிர்வாணமாக-மீட்கப்பட்ட-பெண்ணின்-சடலம்/71-335815) · `ta`
+
+யாழ்ப்பாணத்தில் மானிப்பாய் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் வயோதிப பெண்ணொருவர் ஆடைகளற்ற நிலையில் நிர்வாணமாக சடலமாக மீட்கப்பட்டுள்ளார்.
+
+பிள்ளைகள் மற்றும் கணவரை பிரிந்து தனியாக வீட்டில் வசித்து வந்ததாகவும், நேற்றைய தினம்  வீட்டில் சடலமாக காணப்பட்டதை அயலவர்கள் பொலிஸாருக்கு தகவல் வழங்கியுள்ளனர்.
+
+பொலிஸார் சம்பவ இடத்திற்கு சென்று விசாரணைகளை முன்னெடுத்த பின்னர் சடலத்தை மீட்டு , உடற்கூற்று பரிசோதனைக்காக யாழ்.போதனா வைத்தியசாலையில் ஒப்படைத்துள்ளனர்.
+
+◼️
+
+[Data](articles/b25fc95f.json)
+
+---
+
+### PHI Union gripped by fear following Treasurer’s death
+
+*2024-04-10 10:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/PHI-Union-gripped-by-fear-following-Treasurers-death/108-280553) · `en`
+
+Colombo, April 10 (Daily Mirror)- In the wake of the tragic death of Treasurer of the Public Health Inspectors' Union, Roshan Kumara Vithanage, the Public Health Inspectors are in cold sweat hindering their ability to carry out responsibilities effectively.
+
+Roshan Kumara was shot dead at his house in Elpitiya in February leaving doubts of the motive behind his death.
+
+Speaking to Daily Mirror, PHI union Head Upul Rohana said a significant number of PHIs feel insecure and fearful in the performance of their duties in light of the tragic incident.
+
+Despite assurances from the Inspector General of Police that investigations have been handed over to the Criminal Investigation Department (CID) and the Special Task Force (STF), Rohan lamented the lack of progress in the case thus far.
+
+Roshan Kumara Vithanage, the deceased PHI, had been involved in handling several serious legal cases and had uncovered alarming revelations regarding establishments selling rotten food.
+
+...
+
+[Data](articles/2e6f29aa.json)
+
+---
 
 ### The music release of the film 'Gugan' starring Gugan Emperor
 
@@ -58,23 +180,29 @@ Don't live like us. The highlight of the film is to say that they are like them.
 
 ---
 
-### காசா விவகாரத்தில் இஸ்ரேலிய பிரதமர் தவறிழைக்கின்றார் - பைடன்
+### Israeli prime minister fails in Gaza affair - Bidan
 
 *2024-04-10 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180876) · `ta`
 
-காசா விவகாரத்தை கையாள்வதில் இஸ்ரேலிய பிரதமர் தவறிழைக்கின்றார் என தான் கருதுவதாக அமெரிக்க ஜனாதிபதி ஜோபைடன் தெரிவித்துள்ளார்.
+"Israeli PM fails in Gaza, US President Jobitton criticizes. Faidan demands full drug entry, condemns attack on humanitarian organizations, requests ceasefire for 6-8 months."
 
-அவர் தவறுசெய்கின்றார் என நான் கருதுகின்றேன் அவரது அணுகுமுறையை நான் ஏற்றுக்கொள்ளவில்லை என பைடன் தெரிவித்துள்ளார்.
+🟩
 
-காசாவிற்குள் மருந்துகள் உணவுப்பொருட்கள் முழுமையாக செல்வதற்கான அனுமதி அவசியம் எனவும் பைடன் தெரிவித்துள்ளார்.
+US President Jobitton says the Israeli prime minister fails to deal with the Gaza issue.
 
-நெடுஞ்சாலையில் மனிதாபிமான அமைப்புகளின் வாகனங்கள் தாக்கப்பட்டமை  மூர்க்கத்தனமான விடயம் என பைடன் தெரிவித்துள்ளார்.
+I think he is doing wrong.
 
-இஸ்ரேலியர்கள் யுத்த நிறுத்தத்தை அறிவிக்கவேண்டும் அடுத்த ஆறுமுதல் எட்டு மாதங்களிற்கு  அனைத்து விதமான மனிதாபிமான பொருட்களையும் அனுமதிக்கவேண்டும் என நான் வேண்டுகோள் விடுக்கின்றேன் என பைடன் தெரிவித்துள்ளார்.
+Faidan also said that the permission of drugs to be fully entered into the Gaza.
+
+Faidan said that the attack on humanitarian organizations on the highway was an outrageous issue.
+
+"I request the Israelis to announce the ceasefire and allow all kinds of humanitarian goods for the next six months to eight months."
 
 ◼️
 
 [Data](articles/81d006d9.json)
+
+[Extended Data](ext_articles/81d006d9.ext.json)
 
 ---
 
@@ -2091,159 +2219,5 @@ There was a great deal of tension and a serious situation between the secretary 
 [Data](articles/00b1b9a2.json)
 
 [Extended Data](ext_articles/00b1b9a2.ext.json)
-
----
-
-### Mahinda decides on the presidential candidate in the quantity
-
-*2024-04-09 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195484) · `si`
-
-Mahinda Rajapaksa decides on Sri Lanka's presidential candidate, with Rohitha Abeygunawardena confirming the decision made at the Sri Lanka General Election's Political Bureau.
-
-🟩
-
-The party leader Mahinda Rajapaksa has assigned a decision on the candidate of the Sri Lanka Civil Appointment and the candidate of the Sri Lanka Public Election.
-
-Parliamentarian Rohitha Abeygunawardena said this decision was held at the Political Bureau of the Sri Lanka General Assault held today (09).
-
-The Political Bureau of Sri Lanka General Mannel (CHOGM) The party leader Mahinda Rajapaksa and party founder Basil Rajapaksa met in Colombo today.
-
-◼️
-
-[Data](articles/97ad07d3.json)
-
-[Extended Data](ext_articles/97ad07d3.ext.json)
-
----
-
-### Sri Lanka to hold foreign office consultations with Kazakhstan and Kyrgyz Republic
-
-*2024-04-09 20:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98543/sri-lanka-to-hold-foreign-office-consultations-with-kazakhstan-and-kyrgyz-republic) · `en`
-
-Foreign Office Consultations between Sri Lanka and Kazakhstan are scheduled to be held on 11 April 2024 in Astana, the Ministry of Foreign Affairs said.
-
-Issuing a statement, the Foreign Ministry stated that the Sri Lanka Delegation will be led by Foreign Secretary Aruni Wijewardane.
-
-Following the meeting between President Ranil Wickremesinghe and Kazakhstan President Kassym-Jomart K. Tokayev last year a decision was taken to open a resident Sri Lanka Embassy in Kazakhstan. Discussions in Kazakhstan are expected to focus on trade, investment, tourism and modalities for opening the new Sri Lanka mission, it added.
-
-On the sidelines of the Foreign Office Consultations meetings are also scheduled to take place with the Conference on Interaction and Confidence Building Measures in Asia (CICA) Secretariat in Astana. Sri Lanka is a member of CICA.
-
-...
-
-[Data](articles/33b756f6.json)
-
-[Extended Data](ext_articles/33b756f6.ext.json)
-
----
-
-### Ranil likely to contest presidential election under new symbol: Presidential advisor
-
-*2024-04-09 20:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Ranil-likely-to-contest-presidential-election-under-new-symbol-Presidential-advisor/155-280488) · `en`
-
-Colombo, April 9 (Daily Mirror) - Incumbent President Ranil Wickremesinghe is likely to contest the Presidential election under an entirely new symbol other than the elephant or flower bud, Senior Presidential Advisor and UNP senior Ashu Marasinghe said.
-
-Professor Marasinghe told journalists that President Wickrmesinghe will represent a number of parties as a national candidate.
-
-“People such as Minister Prasanna Ranatunga has said many including himself have an issue supporting Mr. Wickremeisnghe if he contests the Presidential election under the elephant symbol. Likewise, we in the UNP too have an issue with him contesting under the pohotuwa. Therefore Mr. Wickremeisnghe is expected to contest under a new symbol,” he said.
-
-He said more than 80 percent of the Samagi Jana Balawegaya (SJB) will be supporting Mr. Wickremesinghe at the next Presidential election.
-
-...
-
-[Data](articles/899ee615.json)
-
-[Extended Data](ext_articles/899ee615.ext.json)
-
----
-
-### 470 million US $ 470 million for textile and accessories
-
-*2024-04-09 20:15:59* · [`adalk`](https://www.ada.lk/breaking_news/රෙදි-පිළි-හා-උපාංග-වෙනුවෙන්-මාර්තු-31-වන-විට-ඩොලර්-මිලියන-470ක්-වැය-කරලා/11-409043) · `si`
-
-In 2024, Sri Lanka will spend $470.6M on di-doi and accessories imports, with $383.4M on textile devices and $87.2M on bodies, highlighting a favorable environment for imports from Kerala and China.
-
-🟩
-
-In the year 2024, Sri Lanka will cost US $ 470.6 million to the importation of di-doi and accessories used for it.Revealed in a new statistic document.
-
-The Central Bank report states that US $ 383.4 million was spent on the importation of textile devices in the period from January 2023.
-
-Accordingly, in the first three months of 2023, the first three months of 2024, the bodies paid $ 87.2 million for importation of bodies. The cost of importing textile devices alone was US $ 246.1 million.
-
-Due to the good environment in the country this year, the local state of Kerala and China in Sri Lanka had been imported from India.
-
-◼️
-
-[Data](articles/438ab303.json)
-
-[Extended Data](ext_articles/438ab303.ext.json)
-
----
-
-### President grants pardon to 779 prisoners
-
-*2024-04-09 20:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-grants-pardon-to-779-prisoners/108-280487) · `en`
-
-Colombo, April 09 - In view of the Sinhala and Tamil New Year, President Ranil Wickremesinghe has decided to grant Presidential pardons to 779 prisoners.
-
-This Presidential Pardon will be granted in accordance with Article 34 (1) of the Constitution.
-
-◼️
-
-[Data](articles/67879bd2.json)
-
-[Extended Data](ext_articles/67879bd2.ext.json)
-
----
-
-### The liquor manufacturing government has a big tax stick
-
-*2024-04-09 20:08:19* · [`adalk`](https://www.ada.lk/breaking_news/මත්පැන්-නිෂ්පාදනාගාර-රජයට-ලොකු-බදු-පොල්ලක්-තියයි/11-409042) · `si`
-
-The Sri Lanka Excise Department imposed a Rs. 6,15,11.41 tax on December 31, 2023. The Committee of the Committee, led by Phase Champika Ranawaka, reported to Parliament that companies like WM Rindis and Royal Ceylon Distalerties owe Rs. 120,406,152.20 and Rs. 38,067,835.64, respectively, with defaulted payments between 10-15 years.
-
-🟩
-
-The Sri Lanka Excise Department on December 31, 2023, tax of Rs. 6,15,11.41.
-
-The second report of the Committee of the Committee, Phase Champika Ranawaka, presented to Parliament, was presented to Parliament by the Chairman of Method and the Chairman of the Committee.
-
-1.1 billion (1,296,738,947.56 billion) and 15 billion rupees (1,537,747.5 years) and Rs.has.
-
-WM Rindis and the company is Rs. Reass 120,406,152.20, Royal Ceylon Distalerties Rs. 38,067,835.64The payments have been defaulted.
-
-Between 10-15 years, WM Mindis and the company have defaulted the payment of taxes Rs. 3,214,391,947.79.
-
-In addition, the North Western Distribution is Rs.
-
-Meanwhile, the bottles have been found recently, and the bottles have been found in the area.
-
-◼️
-
-[Data](articles/24da3644.json)
-
-[Extended Data](ext_articles/24da3644.ext.json)
-
----
-
-### Per capita real income is Rs. Down by 73000
-
-*2024-04-09 20:03:48* · [`adalk`](https://www.ada.lk/breaking_news/ඒක-පුද්ගල-මූර්ත-ආදායම-රු--73000කින්-පහළට/11-409041) · `si`
-
-Real per capita income in Sri Lanka has decreased by 73,000 Rs., down 12% since 2019, with a projected decline to 4 million Rs. by 2023 due to lower real GDP.
-
-🟩
-
-Revival of Revivered in Sri Lanka for the last five years. As a percentage, it is down 12% of the real per capita income.
-
-In 2019, real per capita income was Rs.. By the year 2023, the central bank report states that it will decline to 4 million. This is due to significantly lowering the real plucking in the country during this period. In 2019, the real Gross Domestic production of the country was Rs. 13,206 billion and Rs. 13,125 billion as of 2021.
-
-By the end of the year 2023, it was down to Rs 11,881 billion. As a result, the monthly real income of one person in the country has also been down close to Rs. 6150. The Central Bank's report states that the real per capita income is used to measure the goodness or well-being of the economy.
-
-◼️
-
-[Data](articles/b779446f.json)
-
-[Extended Data](ext_articles/b779446f.ext.json)
 
 ---

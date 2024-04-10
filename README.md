@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 17:34:38**
+As of **2024-04-10 17:54:05**
 
 ## Newspaper Stats
 
-*Scraped **18,308** Articles*
+*Scraped **18,311** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ economynextcom | 1,021
 adalk | 1,541
 tamilmirrorlk | 2,144
 adaderanalk | 2,193
-virakesarilk | 2,721
+virakesarilk | 2,723
 dailymirrorlk | 2,792
-adaderanasinhalalk | 2,965
+adaderanasinhalalk | 2,966
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,308 (100.0%) of 18,308 articles have been extended.
+18,308 (100.0%) of 18,311 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### ජපානයෙන් ශ්‍රී ලංකාවට අධි තාක්ෂණික ස්කෑන් යන්ත්‍ර තොගයක්
+
+*2024-04-10 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195516) · `si`
+
+ජපානයේ ප්‍රදානයක් ලෙස අධි තාක්ෂණික ස්කෑන් යන්ත්‍ර තොගයක් මෙරටට ලබාදී තිබේ.
+
+කටුනායක ගුවන්තොටුපොලේ මෙහෙයුම් සහ කොළඹ වරායේ මෙහෙයුම් සඳහා මෙලෙස අමෙරිකානු ඩොලර් මිලියන 8.4ක ප්‍රදානයක් හිමවී ඇත.
+
+විදේශිකයන් මගින් මෙරටට පැමිණෙන වසංගත, බෝවන රෝග වැනි මහජන සෞඛ්‍යයට අහිතකර රෝග තත්ත්වයන් නිරීක්ෂණය කිරීම මින් සිදුකෙරේ.
+
+මෙම ව්‍යාපෘතිය යටතේ රෝග නිශ්චය කරනු ලබන ස්කෑන් යන්ත්‍රවලට අමතරව ගමන් මලු ස්කෑන් යන්ත්‍ර, සම්පූර්ණ ශරීර ස්කෑන් යන්ත්‍ර, විදේශීය ගමන් බලපත්‍ර ස්කෑන් යන්ත්‍ර සහ ජෛව මිතික ප්‍රවේශ පාලන පද්ධතියක් ද ලබාදීමට කටයුතු කර ඇත.
+
+ඒ අනුව මෙහි පළමු උපකරණ තොගය අද (10) කටුනායක ගුවන්තොටුපොලේදී ශ්‍රී ලංකාවේ ජපන් තානාපති මිෂුකොෂි හිඩෙයාකි මහතා විසින් වරාය නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා වෙත භාරදුනි.
+
+මෙයට අමතරව කටුනායක ගුවන්තොටුපොල තුළ ඒකක 150කින් යුත් සුහුරු වැසිකිළි පද්ධතියක් ස්ථාපිත කිරීමට ද මෙම ව්‍යාපෘතිය මගින් සිදු කෙරේ.
+
+◼️
+
+[Data](articles/6d9e39b9.json)
+
+---
+
+### முட்டையின் விலை மீண்டும் அதிகரிப்பு!
+
+*2024-04-10 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180929) · `ta`
+
+தமிழ், சிங்கள புத்தாண்டை  முன்னிட்டு சில தினங்களுக்கு முன்பு குறைக்கப்பட்டிருந்த முட்டையின் விலை மீண்டும் உயரந்துள்ளது.
+
+உள்ளுர் முட்டையொன்றின் விலை தற்போது 50 ரூபாவாகவும் சில்லறை விற்பனை விலை 55 ரூபாவாகவும் விற்பனை செய்யப்படுகின்றன.
+
+மேலும் கடந்த சில  நாட்களாக விலைக் குறைக்கப்பட்டிருந்த காய்கறி, மீன்களின்  விலை இன்று ஓரளவு  அதிகரித்துள்ளது.
+
+◼️
+
+[Data](articles/df45e4f7.json)
+
+---
 
 ### Counting underway in South Korea’s parliamentary elections
 
@@ -56,6 +94,26 @@ In recent weeks, Mr Yoon been criticised for appearing to be out of touch with v
 
 ---
 
+### இனியும் கம்பனி காரணம் கூற முடியாது –  ஜீவன் தொண்டமான்
+
+*2024-04-10 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180928) · `ta`
+
+'பெருந்தோட்டத் தொழிலாளர்களுக்கான சம்பள உயர்வு தொடர்பான சம்பள நிர்ணயசபையின் 2ஆவது கூட்டம் எதிர்வரும் 24 ஆம் திகதி நடைபெறவுள்ளது. இதன்போது அனைத்து தொழிற்சங்கங்களும் தொழிலாளர் பக்கம் நின்று உரிய வகையில் தமது வாக்கை பயன்படுத்த வேண்டும்." என இ.தொ.காவின் பொதுச்செயலாளரும், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்.
+
+கொழும்பு அமைச்சில் இன்று புதன்கிழமை (10) நடைபெற்ற ஊடக சந்திப்பின்போதே அவர் இவ்வாறு கூறினார்.
+
+'சம்பள நிர்ணயசபை இன்று கூடியது. 10 தொழிற்சங்கங்களில் 9 தொழிற்சங்க பிரதிநிதிகள் பங்கேற்றிருந்தனர். தோட்ட சேவையாளர் சங்க பிரதிநிதிகள் பங்கேற்கவில்லை. பெருந்தோட்டக் கம்பனிகளும் வரவில்லை.
+
+10 ஆம் திகதி சம்பள நிர்ணயசபைக் கூடும் என முதலாம் திகதியே அறிவித்திருந்தோம். எனினும், தம்மால் வரமுடியாது என கம்பனிகாரர்கள் நேற்றைய தினமே (09) அறிவித்திருந்தனர்.
+
+சம்பள உயர்வு தொடர்பில் கடந்த ஆகஸ்ட் மாதம் முதலே பேச்சு நடத்தி வருகின்றோம். எனவே, உரிய கால அவகாசம் இல்லை என்பது உட்பட கம்பனிகள் கூறிவரும் காரணங்கள் ஏற்புடையானவையாக அல்ல.
+
+...
+
+[Data](articles/16e070d5.json)
+
+---
+
 ### Immunoglobulin scandal: Additional Health Secretary’s bail application rejected
 
 *2024-04-10 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98558/immunoglobulin-scandal-additional-health-secretarys-bail-application-rejected) · `en`
@@ -72,33 +130,9 @@ When Saman Ratnayake was produced before the Maligakanda Magistrate’s Court ea
 
 ---
 
-### The police did not return the goods worth Rs.
-
-*2024-04-10 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180904) · `ta`
-
-The police seized temple equipment on Shivaratri, disrupting Saiva rituals. The temple administration accused the police of not providing essential items. On April 4, the Vavuniya District Court ordered the release of seized items, including aluminum utensils and a water bowler. The temple administration and eight Tamils were arrested for demanding the release of these items. The temple's secretary stated that some items are still missing and in consultation with lawyers for their release. On March 8, police arrested eight Saivas and temple items involved in night worship. The Vavuniya District Court ordered their release on March 19, but the case was dismissed, and all were acquitted except one. The United Nations lodged a complaint with the Sri Lanka Human Rights Commission, demanding punishment for the police and compensation for the temple administration and the arrested individuals.
-
-🟩
-
-On the day of Shivaratri day, the Saiva rituals have been disrupted and a number of equipment, including a plowing machine seized at the temple complex in Vavuniya, has to be handed over to the owners of the police.
-
-The temple administration has accused the police of not providing more than three lakh rupees of pooja items and food items at the Athilingeswar Temple at Vettunari Mountain.
-
-On April 04, the police released the aluminum utensils used with Taylor, a water bowler and cooking, on April 04, on the orders of the Vavuniya District Court, which filed a petition filed by the temple administration and eight vegetarian Tamils who were arrested by the police demanding the release of all the items taken by the police.
-
-The secretary of the Adilingeswara Temple Executive Council, Durairasa Thamizelvam, told the media that some food items including 50 kg rice, 10 kg plow, paragraph, pooja, and pooja lamps and pooja, and some items are still worth Rs.
-
-...
-
-[Data](articles/09ccf653.json)
-
-[Extended Data](ext_articles/09ccf653.ext.json)
-
----
-
 ### Bodies recovering from Israel's attack
 
-*2024-04-10 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180922) · `ta`
+*2024-04-10 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180922) · `ta`
 
 Israeli soldiers allegedly killed hundreds of Palestinians during a two-week occupation of Alciba Hospital in Gaza. Recovery efforts have uncovered 381 bodies, with some buried in sand dunes. The UN and WHO have criticized Israel's refusal to allow humanitarian access.
 
@@ -125,6 +159,30 @@ He added that the public said that the occupation soldiers had distorted the bod
 [Data](articles/20c1b18b.json)
 
 [Extended Data](ext_articles/20c1b18b.ext.json)
+
+---
+
+### The police did not return the goods worth Rs.
+
+*2024-04-10 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180904) · `ta`
+
+The police seized temple equipment on Shivaratri, disrupting Saiva rituals. The temple administration accused the police of not providing essential items. On April 4, the Vavuniya District Court ordered the release of seized items, including aluminum utensils and a water bowler. The temple administration and eight Tamils were arrested for demanding the release of these items. The temple's secretary stated that some items are still missing and in consultation with lawyers for their release. On March 8, police arrested eight Saivas and temple items involved in night worship. The Vavuniya District Court ordered their release on March 19, but the case was dismissed, and all were acquitted except one. The United Nations lodged a complaint with the Sri Lanka Human Rights Commission, demanding punishment for the police and compensation for the temple administration and the arrested individuals.
+
+🟩
+
+On the day of Shivaratri day, the Saiva rituals have been disrupted and a number of equipment, including a plowing machine seized at the temple complex in Vavuniya, has to be handed over to the owners of the police.
+
+The temple administration has accused the police of not providing more than three lakh rupees of pooja items and food items at the Athilingeswar Temple at Vettunari Mountain.
+
+On April 04, the police released the aluminum utensils used with Taylor, a water bowler and cooking, on April 04, on the orders of the Vavuniya District Court, which filed a petition filed by the temple administration and eight vegetarian Tamils who were arrested by the police demanding the release of all the items taken by the police.
+
+The secretary of the Adilingeswara Temple Executive Council, Durairasa Thamizelvam, told the media that some food items including 50 kg rice, 10 kg plow, paragraph, pooja, and pooja lamps and pooja, and some items are still worth Rs.
+
+...
+
+[Data](articles/09ccf653.json)
+
+[Extended Data](ext_articles/09ccf653.ext.json)
 
 ---
 
@@ -2303,71 +2361,5 @@ Research reports show that 36% of accidents are caused by fireworks explosion du
 [Data](articles/7ade1e1d.json)
 
 [Extended Data](ext_articles/7ade1e1d.ext.json)
-
----
-
-### Mail 12 work
-
-*2024-04-10 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195494) · `si`
-
-The media minister Shantha Bandara announced that despite April 12 being a public holiday, postal workers have agreed to work that day. They are preparing to distribute the highest number of goods ever on this day, thanks to arrangements made to ensure a smooth transfer of New Year's gifts.
-
-🟩
-
-The media ministers Shantha Bandara says that although there is a public holiday on April 12, the post servants have agreed to work that day.
-
-He said that all arrangements have been prepared to distribute the highest number of goods in the history of the central year transfer of the New Year's year.
-
-"The highest number of goods in history has been received by the Central Mail Exchange this year. People in foreign countries sent great items to the relatives of our country as parcels. Referring our responsibility to the same place at the right time. We had a big problem for the long leave of the year. Accordingly, all have been decided on the advice of the Postcaster 12th. Customs officials have informed us to support us. "
-
-◼️
-
-[Data](articles/4aad02d1.json)
-
-[Extended Data](ext_articles/4aad02d1.ext.json)
-
----
-
-### Sri Lanka services surplus exceeds trade deficit in Feb 2024: analysis
-
-*2024-04-10 07:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-services-surplus-exceeds-trade-deficit-in-feb-2024-analysis-158108/) · `en`
-
-ECONOMYNEXT – Sri Lanka has posted a services account surplus of 400 million US dollars in February 2024, higher than a trade deficit of 319 million US dollars, central bank data shows.
-
-Sri Lanka’s exports in February 2024 was 1,059 million US dollars, up 7.9 percent from 982 million dollars a year ago while imports surged 35 percent to 1,378 million US dollars, giving trade deficit of 319 million dollars.
-
-Academics, politicians and many commentators rail against trade deficits, claiming it leads to currency depreciation or that it is a ‘problem’ of some kind, regressing back to classical mercantilism.
-
-However no foreign shipper will actually send goods to Sri Lanka without being paid in dollars, except for short term suppliers’ credit. Sri Lanka’s petroleum ministry has asked new petroleum distributors to delay payments for one year.
-
-The dollars have to be earned in some way to spend on imports.
-
-...
-
-[Data](articles/ae326319.json)
-
-[Extended Data](ext_articles/ae326319.ext.json)
-
----
-
-### President restricts foreign travel for Govt. members as party gears up for presidential polls
-
-*2024-04-10 07:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/President-restricts-foreign-travel-for-Govt-members-as-party-gears-up-for-presidential-polls/155-280518) · `en`
-
-Colombo, April 10 (Daily Mirror) - Ahead of the presidential election, President Ranil Wickremesinghe has instructed the government members to restrict foreign travel as much as possible because their presence is required to undertake political work, an informed source said.
-
-The United National Party (UNP) led by the President is planning to ramp up political work in view of the election after the May Day rally.
-
-The party is planning to conduct the rally on a grand scale this year as a springboard for the launch of political work directly targeting the presidential elections. At the moment, the party is in the process of conducting meetings across the country with professional groups.
-
-The President is planning to participate in the election representing a broad alliance where numerous parties and groups are slated to join.
-
-Already, a large number of SLPP MPs have thrown their weight behind him while the other faction of the party insists on fielding its own candidate.
-
-...
-
-[Data](articles/4621c70f.json)
-
-[Extended Data](ext_articles/4621c70f.ext.json)
 
 ---

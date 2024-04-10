@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 05:03:19**
+As of **2024-04-11 05:18:19**
 
 ## Newspaper Stats
 
-*Scraped **18,369** Articles*
+*Scraped **18,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 192
 dbsjeyarajcom | 213
 newsfirstlk | 363
 islandlk | 1,001
-dailyftlk | 1,002
+dailyftlk | 1,012
 economynextcom | 1,027
 adalk | 1,545
 tamilmirrorlk | 2,149
@@ -26,11 +26,179 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,368 (100.0%) of 18,369 articles have been extended.
+18,369 (99.9%) of 18,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### Sri Lanka and Estonia successfully conclude inaugural bilateral political consultations
+
+*2024-04-11 05:04:44* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-Estonia-successfully-conclude-inaugural-bilateral-political-consultations/56-760578) · `en`
+
+Sri Lanka and Estonia convened the inaugural bilateral political consultations at senior official level recently.
+
+The consultations focused on consolidating bilateral relations and identifying new areas for cooperation between the two countries. Potential for both public and private sector collaborations in ICT and e-governance was the highlight of the discussion as Estonia is renowned for its expertise in these sectors. A Memorandum of Understanding in e-governance is being negotiated between the two countries for further consolidating the partnership.
+
+The discussion also considered strengthening collaboration in green development, tourism, education, technical assistance and capacity building.
+
+The two sides exchanged views on cooperation at multilateral fora, developments in their respective regions and current global issues. They reiterated a shared commitment to upholding the values of freedom, democracy and the rule of law.
+
+...
+
+[Data](articles/f7418d3e.json)
+
+---
+
+### Govt. extends Aswesuma relief benefits to over 180,000 additional families: Semasinghe
+
+*2024-04-11 05:03:28* · [`dailyftlk`](https://www.ft.lk/news/Govt-extends-Aswesuma-relief-benefits-to-over-180-000-additional-families-Semasinghe/56-760577) · `en`
+
+Assures all payments including arrears for newly qualified families to be processed by 18 April
+
+Says Rs. 58.5 b allocated to support 1.85 m total beneficiaries
+
+Claims around 200,000 families failing to open bank accounts or update information despite meeting eligibility criteria
+
+Affirms over 400,000 applications received for second phase of program, 286 already processed
+
+State Minister of Finance Shehan Semasinghe yesterday announced that 182,140 more families have been deemed eligible to receive relief benefits under Aswesuma following a thorough review of appeals and objections.  He assured that all payments, including arrears, related to these families will be processed and accounted for by 18 April.
+
+“With this inclusion, the total number of beneficiaries is set to reach 1,854,000, with the Government allocating Rs. 58.5 billion for this purpose,” he added.
+
+...
+
+[Data](articles/7ffe4e86.json)
+
+---
+
+### Avurudu departure for first batch of 125 for construction work in Israel
+
+*2024-04-11 05:01:58* · [`dailyftlk`](https://www.ft.lk/news/Avurudu-departure-for-first-batch-of-125-for-construction-work-in-Israel/56-760576) · `en`
+
+Signifying a fresh start for Israeli jobs in the construction sector, 125 individuals chosen as the inaugural group for construction jobs in Israel received their air tickets yesterday from Labour and Foreign Employment Minister Manusha Nanayakkara.
+
+Sri Lanka Bureau of Foreign Employment General Manager Priyantha Senanayake and Additional General Manager Mangala Randeniya were present at the ceremony. These appointees are set to embark on their journey on 13 April.
+
+During the gathering, the Minister highlighted both the privileges and challenges of being the first group. He stressed their pivotal role in upholding Sri Lanka's reputation through diligent work.
+
+...
+
+[Data](articles/1565ffd1.json)
+
+---
+
+### Parliament to hold adjournment debate on Easter Sunday attack
+
+*2024-04-11 05:00:29* · [`dailyftlk`](https://www.ft.lk/news/Parliament-to-hold-adjournment-debate-on-Easter-Sunday-attack/56-760575) · `en`
+
+The Committee on Parliamentary Business has announced that the Parliament will convene on 24, 25 and 26 April with a special focus on addressing the tragic events of the Easter Sunday attack.
+
+According to the Acting Secretary General of Parliament Chaminda Kularatne the decision was made during a meeting chaired by Deputy Speaker Ajith Rajapakse. On 24 April from 9:30 a.m. to 10:30 p.m. the Parliament will debate the Code of Criminal Procedure (Amendment) Bill (Second Reading) and regulations under the Poisons, Opium and Dangerous Drugs Ordinance.
+
+Following this session, an Adjournment Debate on the Easter Sunday attack will take place from 10:30 a.m. to 5:30 p.m. The agenda for 25 April includes the approval of two regulations under the Motor Traffics Act, notifications under the Excise Ordinance, an order under the Excise (Special Provisions) Act, and regulations under the Immigrants and Emigrants Act.
+
+...
+
+[Data](articles/b1e77d44.json)
+
+---
+
+### Sri Lanka condemns attack on Iranian Consulate in Damascus
+
+*2024-04-11 05:00:10* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-condemns-attack-on-Iranian-Consulate-in-Damascus/56-760574) · `en`
+
+Sri Lanka yesterday condemned the attack on the Iranian Consulate in Damascus and called for strict adherence to Vienna Conventions on Diplomatic Relations, especially with regard to protection of personnel and premises of diplomatic missions.
+
+“Sri Lanka wishes to urge all parties concerned to exercise restraint, refrain from use of violence, and not to exacerbate the already volatile security situation in the region,” Foreign Affairs Ministry said in a statement.
+
+“Sri Lanka conveys its sincere condolences to the bereaved families due to the attack and the Government and the people of the Islamic Republic of Iran,” it added.
+
+...
+
+[Data](articles/4fd01698.json)
+
+---
+
+### Sri Lanka to hold talks with Kazakhstan counterparts
+
+*2024-04-11 04:59:48* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-to-hold-talks-with-Kazakhstan-counterparts/56-760573) · `en`
+
+Foreign Office Consultations between Sri Lanka and Kazakhstan are scheduled to be held on 11 April in Astana.  The Sri Lanka Delegation will be led by Foreign Secretary Aruni Wijewardane.
+
+Following the meeting between President Ranil Wickremesinghe and Kazakhstan President Kassym-Jomart K. Tokayev last year a decision was taken to open a resident Sri Lanka Embassy in Kazakhstan. Discussions in Kazakhstan are expected to focus on trade, investment, tourism and modalities for opening the new Sri Lanka mission.
+
+...
+
+[Data](articles/0021a594.json)
+
+---
+
+### Singapore’s Food Safety Agency officials explore local food processing firms
+
+*2024-04-11 04:59:02* · [`dailyftlk`](https://www.ft.lk/business/Singapore-s-Food-Safety-Agency-officials-explore-local-food-processing-firms/34-760572) · `en`
+
+A delegation from the Singapore Food Agency (SFA), headed by Assistant Chief Executive Officer (Operations), Dr. Abdul Jalil Abdul Karder, along with two other officers from the Joint Operation Division of the SFA visited Sri Lanka from 25 to 28 March.
+
+The purpose of the visit was to conduct pre-inspections of slaughterhouses in Sri Lanka that have applied for licenses from the SFA in Singapore, with the objective of assessing the potential of Sri Lankan companies to be approved as sources of poultry products for Singapore.
+
+...
+
+[Data](articles/b69a9d09.json)
+
+---
+
+### Fitch affirms Construction Guarantee Fund’s ‘BB’ National IFS Rating; Outlook Stable
+
+*2024-04-11 04:57:32* · [`dailyftlk`](https://www.ft.lk/business/Fitch-affirms-Construction-Guarantee-Fund-s-BB-National-IFS-Rating-Outlook-Stable/34-760571) · `en`
+
+Fitch Ratings said it has affirmed Sri Lanka-based Construction Guarantee Fund’s (CGF) National Insurer Financial Strength (IFS) Rating of ‘BB(lka)’. The Outlook is Stable.
+
+Weak Operating Conditions: CGF’s performance exhibits a strong correlation with Government construction activity, as the company offers guarantees and related services to small- and medium-sized contractors involved in Government projects. The Government’s weak fiscal position has resulted in fewer new construction contracts, the suspension of existing projects and payment delays to contractors. This has affected CGF through a drop in premium income and a higher risk of claims by employers.
+
+...
+
+[Data](articles/5139853a.json)
+
+---
+
+### Aitken Spence Travels wins prestigious CPM Best Management Practices Award 2024
+
+*2024-04-11 04:56:35* · [`dailyftlk`](https://www.ft.lk/business/Aitken-Spence-Travels-wins-prestigious-CPM-Best-Management-Practices-Award-2024/34-760570) · `en`
+
+Aitken Spence Travels Marketing General Manager Zaharine Hameen (left) and Asst. Vice President Lalin Sumanasinghe accepting the award at the CPM Awards ceremony
+
+Aitken Spence Travels, has clinched the coveted category award for the Hospitality and Tourism sector at the esteemed CPM Best Management Practices Company Awards (BMPC) 2024.
+
+The company recently received the award at the event organised by the Institute of Chartered Professional Managers of Sri Lanka (CPM Sri Lanka).
+
+The accolade reflects Aitken Spence Travels’ commitment to best management practices across its operations and celebrates the company’s managerial expertise, market leadership and business acumen for performance.
+
+...
+
+[Data](articles/aca4e50f.json)
+
+---
+
+### PRISL renews MOU with Malaysian counterpart
+
+*2024-04-11 04:52:12* · [`dailyftlk`](https://www.ft.lk/business/PRISL-renews-MOU-with-Malaysian-counterpart/34-760569) · `en`
+
+The Plastic and Rubber Institute of Sri Lanka (PRISL) recently renewed its Memorandum of Understanding with PRI Malaysia under the auspices of the Malaysian High Commission in Sri Lanka.
+
+The signing in ceremony was conducted as a hybrid event, with the virtual participation of the senior office- bearers from PRIM.
+
+Malaysia’s High Comm-issioner Bali Hisham Adam and PRISL former Chairman and Indu-stries Ministry Polymer Advisory Council Chairman Indhra Kaushal Rajapaksa graced the occasion.
+
+PRISL President P.P. Perera and PRIM President Chris Ng Kha Chan signed the MOU, with P.K Chan and Indra Kauashal Rajapaksa, both past presidents of the two organisations signed as witnesses.
+
+The event was attended by Malaysian High Commission Counsellor Mohammad Tuming, PRISL Hony. Secretary Pio Perera and Director General Chaminda Perera.
+
+...
+
+[Data](articles/7b525b1c.json)
+
+---
 
 ### Indira Malwatte appointed to Kotmale Holdings Board
 
@@ -45,6 +213,8 @@ Her in-depth knowledge of multi sectors ranging from Industrial, Agricultural, S
 ...
 
 [Data](articles/3ff060eb.json)
+
+[Extended Data](ext_articles/3ff060eb.ext.json)
 
 ---
 
@@ -1038,7 +1208,7 @@ In response to a media query the necessity of maintaining fighter jets like Kfir
 
 ---
 
-### Sri Lanka Customs to pilot pre-arrival processing of cargo from May
+### Sri Lanka to pilot pre-arrival processing of import shipments from May
 
 *2024-04-10 17:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-to-pilot-pre-arrival-processing-of-cargo-from-may-158237/) · `en`
 
@@ -2129,247 +2299,5 @@ In this case, they get millions of money unexpectedly. The interesting feature o
 [Data](articles/597a2c20.json)
 
 [Extended Data](ext_articles/597a2c20.ext.json)
-
----
-
-### Taxes admit that the weight of the living has increased
-
-*2024-04-10 13:27:47* · [`adalk`](https://www.ada.lk/breaking_news/බදු-නිසා-ජීවන-බර-වැඩිවුණු-බව-පිළිගන්නවා/11-409047) · `si`
-
-President Ranil Wickremesinghe highlighted the importance of education, land, housing, and business ownership in building a strong economy. He emphasized the role of the people in creating an unbreakable economy, mentioning the provision of 294 houses in the Uyana Housing Complex in 2010. The government's tax policy has increased state revenues, allowing for a 10,000 rupee salary increase for public servants and a strengthened rupee. The president also promised more than 50,000 houses to the people, aiming to improve living conditions.
-
-🟩
-
-President Ranil Wickremesinghe stated that the people will be appointed as partners in a strong economy with providing education, land, housing and business ownership.
-
-The President pointed out that the people of the economy can build an unbreakable economy.
-
-President Ranil Wickremesinghe expressed these views to the national ceremony of Modara and Randiya Garden.
-
-The president was chaired by 294 houses in the Uyana Housing Complex for the public to be vested with the public in 2010.
-
-The people of Kajimawatte have lived in a place like hell for more than ten years. It is impossible to how to live there. In such a background, these apartments are pleased to provide the people soon. Ravi Karunanayake showed great interest in this regard. This house you get today becomes your most valuable property. It is your responsibility to use it safely. Don't have the last ten years in the last ten years you don't have or sell these habbing motors. I call on these houses like their life.
-
-...
-
-[Data](articles/a5ca1a91.json)
-
-[Extended Data](ext_articles/a5ca1a91.ext.json)
-
----
-
-### New Year's Vision presents to President
-
-*2024-04-10 13:23:10* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-නැකැත්-සීට්ටුව-ජනපතිට-පිළිගන්වයි/11-409046) · `si`
-
-President Ranil Wickremesinghe received a New Year's Vision presentation from the Department of Cultural Affairs, including Minister Vidura Wickramanayaka. The event celebrated charity, cooking, and the transition to the new year.
-
-🟩
-
-The president of the Sinhala and Tamil New Year's NEWSATH SEP was presented to the Traditional and Ritual President Ranil Wickremesinghe this morning.
-
-The right amazing show prepared by the State's auspicious committee of the Department of Cultural Affairs was presented to the President.
-
-Minister of Buddha Sasana, Religious and Cultural Affairs Vidura Wickramanayaka was presented to the President.
-
-New Year's dawn, charity, cooking, bleeding, diet, precisely visible and celebrated and departing for the new year.
-
-Senior Presidential Advisor on National Security and Presidential Staff Head of the President Sagala Ratnayake, Secretary to the President Saman Ekanayake, Buddha Sashasana, Religious and Cultural Affairs Secretary Someratne Vidanathirana were also present at the occasion.
-
-◼️
-
-[Data](articles/f3427c23.json)
-
-[Extended Data](ext_articles/f3427c23.ext.json)
-
----
-
-### ‘Avurudu Nekath Seettuwa’ presented to President Ranil
-
-*2024-04-10 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98554/avurudu-nekath-seettuwa-presented-to-president-ranil) · `en`
-
-In compliance with the customs and traditions, the ‘Nekath Seettuwa’, the table of auspicious times for this year’s Sinhala and Tamil New Year, was presented to President Ranil Wickremesinghe at the Presidential Secretariat today (10).
-
-The ‘Nekath Seettuwa’, duly prepared by the State Astrologers’ Committee of the Department of Cultural Affairs, was thus handed over to the President by Minister of Buddha Sasana, Religious and Cultural Affairs Vidura Wickremanayake.
-
-Auspicious periods comprise various timings such as the dawn of New Year, ‘Punya Kaalaya’ or inauspicious time, auspicious timings for cooking, working, eating, anointing, setting off for work and more.
-
-President’s Senior Advisor on National Security and Chief of Presidential Staff Sagala Ratnayake, President’s Secretary Saman Ekanayake, Secretary to the Ministry of Buddha Shasana Religious and Cultural Affairs Somaratne Vidanapathirana and several others attended this event.
-
-◼️
-
-[Data](articles/e3b04a85.json)
-
-[Extended Data](ext_articles/e3b04a85.ext.json)
-
----
-
-### 'Mython' speaks of the life of the trainer
-
-*2024-04-10 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/180895) · `ta`
-
-"Mython" highlights sports-related films in Hindi cinema, including 'Mary Kom', 'Tony -Antold Story', 'Surma', 'Thangal', and '83'. 'Maidan', directed by Amit Ravindranath Sharma, stars Ajay Devgan, Priya Mani, and Kajaraj Rao, showcasing Syed Abdul Rahim's life. Released worldwide in Hindi from 10th April, it's produced by Bonnie Kapoor for Jee Studios and Bay Vuue Projects, with music by R. Rahman and cinematography by Tushar Kandre.
-
-🟩
-
-The most welcome of the sports industry -related works in the Hindi film industry. You can list a large number of works such as 'Mary Kom', 'Tony -Antold Story', 'Surma', 'Thangal' and '83'.
-
-The film 'Maidan' has been developed by the life history of Syed Abdul Rahim, the Indian team's kick -off coach.
-
-The film will be released worldwide in Hindi in Hindi from 10th April to mark the Ramadan festival.
-
-Directed by Amit Ravindranath Sharma, Ajay Devgan, Priya Mani and Kajaraj Rao are the first roles in the film 'Maidan'.
-
-Tushar Kandre's cinematography by the film 'Music Storm'. R. Rahman has composed the music.
-
-The film is being produced by Bonnie Kapoor on behalf of Jee Studios and Bay Vuue Projects.
-
-Ajay Devan, the leading star actor of the Hindi film industry, is the hero of the story and is a film -related film.
-
-◼️
-
-[Data](articles/d2ceb062.json)
-
-[Extended Data](ext_articles/d2ceb062.ext.json)
-
----
-
-### 'Lander' starring Vidarth's film First Look
-
-*2024-04-10 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180896) · `ta`
-
-"'Lander', a horror thriller, stars Vidarth as a police officer in a film directed by Shaji Salim, produced by M Cinema Production. The first look has been released, featuring Vidarth and others. The film, set in a time without electricity, uses a lamp for night travel, drawing excitement from fans."
-
-🟩
-
-Vidarth, who is a trusted star in Tamil cinema and a minimum profit for the producer, has been released by the first look of 'Lander', which plays the hero of the story.
-
-Directed by director Shaji Salim, Vidharth, Swetha Torathi, Vipin, Sahana and many others have starred in the film 'Lander'.
-
-Praveen has composed the film, which has been recorded by Gnana Sounder. The film is being produced in the horror thriller Janer and is produced by M Cinema Production.
-
-The shooting of the film is completed and the final phase of the work is going on. In this case, the first look of the film has been released.
-
-Vidarth appears to be a police officer. The image drawn in his background increases the expectation of the film.
-
-'Lander' is a lamp used for night journey during a period where there is no electricity, although these are not currently in use.. The film, which focuses on this, has been welcomed by the fans.
-
-◼️
-
-[Data](articles/ec47c7a2.json)
-
-[Extended Data](ext_articles/ec47c7a2.ext.json)
-
----
-
-### Conversion operations begin in Hambantota port container
-
-*2024-04-10 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195505) · `si`
-
-Hambantota port's container services start. MV 'MSC Ingrid' and NSC Sky11 bring nearly 500 containers. CEO Johnson aims to make Hambantota a major hub.
-
-🟩
-
-The container recipient version of Hambantota International Ports, Meditarranian, has commenced.
-
-Accordingly, MV 'MSC Ingrid' container has arrived at the Hambantota port with a stock of containers yesterday.
-
-NSC Sky11, the second container boat belonging to Shippin Company is 'MSc Sky11'
-
-The ship is due to arrive at the Hambantota port on the 16th and nearly 500 containers will be reciprocitated.
-
-The CEO of the Hambantota International Harbor group, Johnson wrote that the Sri Lanka's largest container transportation at the Port of the Hambantota port is a special feature that Johnson wrote Johnson.
-
-He also said that he has plans to make Sri Lanka a hub of Sri Lanka into a hub of the Hambantota port into a hub.
-
-The handling container handling is the final step in the port mechanism and the main operating officer Tissa Wickremasinghe says that the Hambantota International Harbor arrives as a giant with the commencement of the services.
-
-...
-
-[Data](articles/2f41d401.json)
-
-[Extended Data](ext_articles/2f41d401.ext.json)
-
----
-
-### New Year's Subhalese deed handed over to President
-
-*2024-04-10 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180903) · `ta`
-
-President Ranil Wickremesinghe received a Subhalese deed from the Department of Cultural Affairs, including New Year's rituals, at the Presidential Office.
-
-🟩
-
-President Ranil Wickremesinghe was handed over to President Ranil Wickremesinghe at the Presidential Office today (10).
-
-The president was handed over to the President by the Subhaveli Reference Record, prepared by the Department of Cultural Affairs.
-
-Buddha Sasana, Minister of Religious and Cultural Affairs Vidura Wickramanayaka handed over to the President.
-
-The deeds are mentioned in the deed, including New Year's birth, sacred period, food cooking, stove, food, eating, head oil, and going to work in the New Year.
-
-Sagala Ratnayake, President of the President of the National Security and President of the President, Sagala Ratnayake, President's Secretary Saman Ekanayake, Buddha Sasana, Secretary to the Ministry of Religious and Cultural Affairs Somatna Vidanapatra and many others participated in the event.
-
-◼️
-
-[Data](articles/56f88da0.json)
-
-[Extended Data](ext_articles/56f88da0.ext.json)
-
----
-
-### Sri Lanka Air Force gears up for CADE 2024
-
-*2024-04-10 13:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sri-Lanka-Air-Force-gears-up-for-CADE-2024/110-280558) · `en`
-
-The Sri Lanka Air Force is preparing for the Colombo Air Show and Defence Exhibition (CADE 2024) to demonstrate air power and stimulate tourism and investment. Air Force Commander Air Marshal Udeni Rajapaksa announced that the five-day event will take place from May 29 to June 2 at the Galle Face and Colombo Port City. The CADE 2024 was officially announced today during a media briefing at the Air Force Headquarters attended by SLAF Chief of Staff Air Vice Marshal Sampath Wickremeratne and Director of Media Group Captain Dushan Wijesinghe. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/33341ce8.json)
-
-[Extended Data](ext_articles/33341ce8.ext.json)
-
----
-
-### CSE’s ASPI surpasses 12,000 points
-
-*2024-04-10 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98553/cses-aspi-surpasses-12000-points) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) crossed the 12,000-point mark at the end of trading on Wednesday (10).
-
-Reportedly, this is the first time the ASPI surpassed 12,000 points since 21 February 2022.
-
-The ASPI closed at 12,033.10 points at the end of trading today, marking an increase of 0.59% (70.61 points) from the previous day.
-
-More than 86 million shares were traded overall within the day and the market turnover is recorded as Rs. 2.96 billion.
-
-Meanwhile, the S&P SL20 closed at 3,580.64 points today, up by 0.95% (33.81 points) from the previous day.
-
-◼️
-
-[Data](articles/3adc7c6e.json)
-
-[Extended Data](ext_articles/3adc7c6e.ext.json)
-
----
-
-### Sri Lanka president asks new owners not to mortgage, sell houses
-
-*2024-04-10 13:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-asks-new-owners-not-to-mortgage-sell-houses-158202/) · `en`
-
-ECONOMYNEXT – President Ranil Wickremesinghe has asked new house owners to not mortgage property, at a ceremony to handover flats to those who lost houses in the Kajimawatte fire.
-
-“This house you get today will become your most valuable property. It is your responsibility to use it safely. Do not mortgage or sell these houses after suffering for the last ten years. I request you to protect these houses like your own life,” Wickremesinghe said.
-
-294 houses at the Randiya Uyana housing complex in Modara were handed over to people from Kajimawatte whose houses were gutted by a fire in 2010.
-
-“The people of Kajimawatte have been living in a place like hell. It is impossible to imagine how they lived there.” (Colombo/Apr10/2024)
-
-◼️
-
-[Data](articles/741ab537.json)
-
-[Extended Data](ext_articles/741ab537.ext.json)
 
 ---

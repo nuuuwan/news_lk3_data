@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 13:18:04**
+As of **2024-04-10 13:34:05**
 
 ## Newspaper Stats
 
-*Scraped **18,265** Articles*
+*Scraped **18,269** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ islandlk | 1,001
 economynextcom | 1,021
 adalk | 1,536
 tamilmirrorlk | 2,141
-adaderanalk | 2,187
-virakesarilk | 2,708
-dailymirrorlk | 2,785
-adaderanasinhalalk | 2,957
+adaderanalk | 2,188
+virakesarilk | 2,709
+dailymirrorlk | 2,786
+adaderanasinhalalk | 2,958
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,263 (100.0%) of 18,265 articles have been extended.
+18,265 (100.0%) of 18,269 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
+
+### ‘Avurudu Nekath Seettuwa’ presented to President Ranil
+
+*2024-04-10 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98554/avurudu-nekath-seettuwa-presented-to-president-ranil) · `en`
+
+In compliance with the customs and traditions, the ‘Nekath Seettuwa’, the table of auspicious times for this year’s Sinhala and Tamil New Year, was presented to President Ranil Wickremesinghe at the Presidential Secretariat today (10).
+
+The ‘Nekath Seettuwa’, duly prepared by the State Astrologers’ Committee of the Department of Cultural Affairs, was thus handed over to the President by Minister of Buddha Sasana, Religious and Cultural Affairs Vidura Wickremanayake.
+
+Auspicious periods comprise various timings such as the dawn of New Year, ‘Punya Kaalaya’ or inauspicious time, auspicious timings for cooking, working, eating, anointing, setting off for work and more.
+
+President’s Senior Advisor on National Security and Chief of Presidential Staff Sagala Ratnayake, President’s Secretary Saman Ekanayake, Secretary to the Ministry of Buddha Shasana Religious and Cultural Affairs Somaratne Vidanapathirana and several others attended this event.
+
+◼️
+
+[Data](articles/e3b04a85.json)
+
+---
+
+### හම්බන්තොට වරායේ බහාලුම් ප්‍රතිඅපනයන මෙහෙයුම් ඇරඹෙයි
+
+*2024-04-10 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195505) · `si`
+
+හම්බන්තොට ජාත්‍යන්තර වරාය, මෙඩිටරේනියන් ෂිපින් සමාගම විසින් මෙහෙයවනු ලබන බහාලුම් ප්‍රතිනැව්ගත කිරීමේ සේවාව ආරම්භ කර තිබේ.
+
+ඒ අනුව MV 'MSC Ingrid' බහාලුම් නෞකාව ඊයේ ප්‍රථමවරට ප්‍රතිඅපනයනය බහාලුම් තොගයක් සමග හම්බන්තොට වරාය වෙත පැමිණ ඇත.
+
+එමෙන්ම මෙඩිටරේනියන් ෂිපින් සමාගමට අයත් දෙවන බහාලුම් නෞකාව වන 'MSC Sky11'
+
+නෞකාව එළඹෙන 16 වැනිදා හම්බන්තොට වරාය වෙත පැමිණීමට නියමිත අතර එහිදි බහාලුම් 500කට ආසන්න සංඛ්‍යාවක් ප්‍රතිනැව්ගත කෙරෙන බව හම්බන්තොට ජාත්‍යන්තර වරාය සමූහය පවසයි.
+
+හම්බන්තොට වරායේ නව ව්‍යාපාර වේදිකාව සඳහා ලොව විශාලතම බහාලුම් ප්‍රවාහන සේවාවක් වන MSC හෙවත් මෙඩිටරේනියන් ෂිපින් නෞකා සේවාව එක්වීම විශේෂත්වයක් බව හම්බන්තොට ජාත්‍යන්තර වරාය සමූහයේ ප්‍රධාන විධායක නිලධාරී ජොන්සන් ලියූ පවසයි.
+
+එමෙන්ම හම්බන්තොට වරායේ උපක්‍රමීය පිහිටීම යොදාගනිමින් ශ්‍රී ලංකාව නෞකා ප්‍රවාහන සේවාවන්හී කේන්ද්‍රයක් බවට පත්කිරීමට සැලසුම් තමන් සතුවන බවද ඔහු සඳහන් කරයි.
+
+...
+
+[Data](articles/2f41d401.json)
+
+---
+
+### புத்தாண்டு சுபவேளை பத்திரம் ஜனாதிபதியிடம் கையளிப்பு
+
+*2024-04-10 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180903) · `ta`
+
+தமிழ் சிங்களப் புத்தாண்டுக்கான சுபவேளை குறிப்புப் பத்திரம் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் சம்பிரதாய  முறைப்படி இன்று புதன்கிழமை (10) ஜனாதிபதி அலுவலகத்தில் வைத்து கையளிக்கப்பட்டது.
+
+கலாசார அலுவல்கள் திணைக்களத்தின் அரச சுபநேர கணிப்புக் குழுவினால் தயாரிக்கப்பட்ட சுபவேளை குறிப்புப் பத்திரமே இவ்வாறு ஜனாதிபதியிடம் கையளிக்கப்பட்டது.
+
+புத்தசாசன, சமய கலாசார அலுவல்கள் அமைச்சர் விதுர விக்கிரமநாயக்க சம்பிரதாய முறைப்படி  ஜனாதிபதிக்கு வழங்கி வைத்தார்.
+
+புத்தாண்டு பிறப்பு, புண்ணிய காலம், உணவு சமைத்தல், அடுப்பு பற்றவைத்தல், உணவு உண்ணல், தலைக்கு எண்ணெய் தேய்த்தல், புத்தாண்டில் வேலைக்குப் புறப்பட்டு செல்லுதல் உள்ளிட்ட சுப காரியங்களுக்கான சுப நேரங்கள் மேற்படி பத்திரத்தில் குறிப்பிடப்பட்டுள்ளன.
+
+தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின்  சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க, ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க, புத்தசாசன, சமய மற்றும் கலாசார அலுவல்கள் அமைச்சின் செயலாளர் சோமரத்ன விதானபத்திரன உள்ளிட்ட பலர் இந்த நிகழ்வில் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/56f88da0.json)
+
+---
 
 ### CSE’s ASPI surpasses 12,000 points
 
@@ -50,31 +110,41 @@ Meanwhile, the S&P SL20 closed at 3,580.64 points today, up by 0.95% (33.81 poin
 
 [Data](articles/3adc7c6e.json)
 
+[Extended Data](ext_articles/3adc7c6e.ext.json)
+
 ---
 
-### හිදෝගම ඛේදවාචකයේ සුලමුල හෙළිවෙයි
+### The hydrological tragedy reveals
 
 *2024-04-10 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195504) · `si`
 
-රටම කම්පා කරමින් සිදුවූ හිදෝගම පුද්ගල ඝාතනයේ සුලමුල පොලීසියට අනාවරණය වී තිබේ.
+A shocking murder in Dangalawalawala, Vidul Lake, revealed by police. Victim, a 45-year-old, attacked with a sharp instrument. Son, 39, arrested by wife, 39, and son, 24. Body found in tank after being brought there in the evening.
 
-පවුල් ආරවුලක් දුරදිගයෑම හේතුවෙන් අදාළ ඝාතනය සිදුව ඇති බව පොලීසිය පැවසීය.
+🟩
 
-අනුරාධපුර හිදෝගම දිවුල් වැවේ තිබී පුද්ගල මළ සිරුරක් ඊයේ (09) සොයාගත් අතර එය රෙදි කිහිපයකින් සම්පූර්ණයෙන්ම ඔතා කළුගලක් ගැටගසා වැව දමා තිබියදී හමුවුණි.
+Police have revealed to the police of the murder of shocking the country.
 
-ඒ අනුව පොලීසිය සිදුකළ සොයාබැලීමේදී අනාවරණය වී තිබුණේ මියගිය පුද්ගලයා 45 හැවිරිදි දංගහකඩවල ප්‍රදේශයේ පදිංචිකරුවකු බවය.
+The murder had taken place due to a family dispute.
 
-තියුණු ආයුධයකින් පහරදී අදාළ ඝාතනය සිදුකර ඇති බවට දේහය පිළිබඳව සිදුකළ පශ්චාත් මරණ පරීක්ෂණයේදී අනාවරණ විය.
+A corpse of a person was found in the Vidul Lake yesterday (09), met with a large number of fabrics.
 
-අනතුරුව සිද්ධිය සම්බන්ධයෙන් පොලීසිය විමර්ශනයක් ආරම්භ කළ අතර සිද්ධිය සම්බන්ධයෙන් ඝාතනයට ලක් වූ පුද්ගලයාගේ 39 හැවිරිදි බිරිඳ හා 24 හැවිරිදි පුත්‍රයා පොලීසිය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+Accordingly, the deceased was revealed that the deceased was a 45 year old resident of the Dangalawalawala area.
 
-නිවසේදී සිදුවූ ඝාතනයෙන් පසුව මෘත ශරීරය වැව දක්වා රැගෙන ගිය ත්‍රිරෝද රථයද පොලීසිය සොයාගෙන තිබුණි.
+The post mortem examination on the remains of the murder were revealed that the murder had been attacked with a sharp instrument.
 
-සැකකරුවන්ගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී අනාවරණ වී ඇත්තේ, පසුගිය 8 වනදා උදෑසන 9ට පමණ මව සහ පියා අතර ඇති වූ ගැටුමකට පුත්‍රයාද මැදිහත් වී සිදුකළ පහරදීමකින් අදාළ පුද්ගලයා මියගොස් ඇති බවය.
+The police then launched an investigation into the incident and the 39-year-old son of the victim have been arrested by the 39 year old wife and 24 year old son.
 
-...
+The police also recovered three-wheeler to the tank to the tank after the assassination of the house.
+
+Disclosed during the interrogation of the suspects around 9 am on the 8th of this month.
+
+They have said that during the evening, the body was brought to the tank.
+
+◼️
 
 [Data](articles/8dc872be.json)
+
+[Extended Data](ext_articles/8dc872be.ext.json)
 
 ---
 
@@ -269,6 +339,18 @@ The Army Service Authority hopes that this will be able to improve their entrepr
 [Data](articles/48e7641a.json)
 
 [Extended Data](ext_articles/48e7641a.ext.json)
+
+---
+
+### Eid-ul-Fitr festival at Galle Face Green
+
+*2024-04-10 11:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Eid-ul-Fitr-festival-at-Galle-Face-Green/110-280554) · `en`
+
+Muslims gathered at Galle Face Green in Colombo this morning to attend Eid prayers as the holy fasting month of Ramadan came to an end. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/6116c037.json)
 
 ---
 
@@ -498,7 +580,7 @@ Roshan Kumara was shot dead at his house in Elpitiya in February leaving doubts 
 
 Speaking to Daily Mirror, PHI union Head Upul Rohana said a significant number of PHIs feel insecure and fearful in the performance of their duties in light of the tragic incident.
 
-Despite assurances from the Inspector General of Police that investigations have been handed over to the Criminal Investigation Department (CID) and the Special Task Force (STF), Rohan lamented the lack of progress in the case thus far.
+Despite assurances from the Inspector General of Police that investigations have been handed over to the Criminal Investigation Department (CID) and the Special Task Force (STF), Rohana lamented the lack of progress in the case thus far.
 
 Roshan Kumara Vithanage, the deceased PHI, had been involved in handling several serious legal cases and had uncovered alarming revelations regarding establishments selling rotten food.
 
@@ -2191,95 +2273,5 @@ Genie Business Powered by Dialog Finance unveils Cutting-Edge Fintech Solutions 
 [Data](articles/983a8d7d.json)
 
 [Extended Data](ext_articles/983a8d7d.ext.json)
-
----
-
-### Focus on accidents during the New Year
-
-*2024-04-09 23:09:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டுக்-காலத்தில்-விபத்துகள்-குறித்து-கவனம்/175-335806) · `ta`
-
-The government urges the public to reduce road and fireworks accidents during the Tamil and Sinhala New Year, with fireworks causing 36% of accidents. The Ministry of Transport and Health will launch a program to limit these accidents. A media briefing by the Ministry of Transport and the National Council of Road Safety highlighted the need to reduce road accidents during the festive season. Dr. Sajith Ranatunga, a special surgery expert, noted an increase in casualties and motorcycle accidents due to collisions with three-wheelers.
-
-🟩
-
-The government has called on the public to focus on the reduction of road accidents and fireworks accidents during the upcoming Tamil and Sinhala New Year.
-
-Fireworks erupted during the festive season, resulting in 36 percent accidents, and 17 percent are affected.
-
-Therefore, the Ministry of Transport and the Ministry of Health will launch a special program to limit road accidents and crackers during the festive season.
-
-Accordingly, a media briefing held at the Presidential Media Center held a media briefing held by the Ministry of Transport and the National Council of Road Safety to inform the public about the limiting of road accidents during the festive season.
-
-Dr. Sajith Ranatunga, a special surgery expert at the Colombo National Hospital, pointed out that the number of casualties and motorcycle accidents caused by collision with three -wheelers face -to -face collision has increased.. (A)
-
-◼️
-
-[Data](articles/3d4531cf.json)
-
-[Extended Data](ext_articles/3d4531cf.ext.json)
-
----
-
-### Share market sees marked buying interest due to positive outlook on debt restructuring front
-
-*2024-04-09 23:07:00* · [`islandlk`](http://island.lk/share-market-sees-marked-buying-interest-due-to-positive-outlook-on-debt-restructuring-front/) · `en`
-
-The stock market yesterday started off on a profit- taking stance but by the middle of the session heavy buying interests were noted among banking sector counters due to the positive status quo in the external debt restructuring exercise, market analysts said.
-
-Consequently, the stock market recorded a new high in trading yesterday as bullish investor sentiment boosted activities, especially in the banking sector. This resulted in both indices moving up. The All Share Price Index rose by 40.35 points, while S and P SL 20 moved to 6.72 points.
-
-...
-
-[Data](articles/c4bd94f4.json)
-
-[Extended Data](ext_articles/c4bd94f4.ext.json)
-
----
-
-### Greeting
-
-*2024-04-09 22:59:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நோன்புப்-பெருநாள்-வாழ்த்துச்-செய்தி/175-335805) · `ta`
-
-Ramadan, the ninth month in the Islamic calendar, is a time for spiritual growth and unity among Muslims. President Ranil Wickremesinghe highlights its role in promoting well-being and religious harmony. He emphasizes the importance of Ramadan not just for Muslims but for all, aiming to uplift social values and rebuild the Sri Lankan economy.
-
-🟩
-
-The month of Holy Ramadan, which is considered the ninth month in the Islamic calendar, is considered the month of thinking and spiritual development for the Muslim brothers.
-
-President Ranil Wickremesinghe has said that this month of Ramadan is a lighthouse of well -being and well -being and promotes unity and religious harmony among us.
-
-“As a result of the dilemma that we all have faced as Sri Lankans, without caste and religion, we have a good environment in the country, and I am going to celebrate the Ramadan festival this year.
-
-I think it is right to consider Ramadan fasting in this country not only to the Muslims, but the time when everyone shares their happiness.
-
-I hope that these issues created to uplift the social values of the collapse of the collapse of the Sri Lankan economy, regardless of individual progress, will provide the basis for a joint effort to rebuild the declined Sri Lankan economy and lead the country to the path of progress.
-
-...
-
-[Data](articles/1c76676a.json)
-
-[Extended Data](ext_articles/1c76676a.ext.json)
-
----
-
-### Tomorrow
-
-*2024-04-09 22:48:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-நோன்புப்-பெருநாள்/175-335795) · `ta`
-
-The Colombo Great School will observe Eidul Fitr tomorrow due to the sighting of Shawal's crescent moon in parts of Sri Lanka. The Hijri 1445 Holy Sawal Month Conference was held today, and Khalipathul Gulaba Moulavi MPM Hisham Pathaki confirmed the countrywide fasting on Wednesday.
-
-🟩
-
-The Colombo Great School has announced that it will celebrate the Eidul Fitr fasting day tomorrow (10) as the Shawal month headline is seen in some parts of the country.
-
-The Hijri 1445 Holy Sawal Month Conference was held at the Colombo Large School Conference Hall today after the Mahrip prayer.
-
-Khalipathul Gulaba Moulavi MPM Hisham Pathaki has announced that the Muslims of Sri Lanka will celebrate the fasting of the fasting of the country on Wednesday after it was confirmed that the headline of the month of Shawal was found in many parts of the country.. (A)
-
-◼️
-
-[Data](articles/a406e316.json)
-
-[Extended Data](ext_articles/a406e316.ext.json)
 
 ---

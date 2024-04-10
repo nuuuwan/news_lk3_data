@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 20:33:50**
+As of **2024-04-10 20:51:46**
 
 ## Newspaper Stats
 
-*Scraped **18,341** Articles*
+*Scraped **18,342** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,58 @@ adalk | 1,544
 tamilmirrorlk | 2,148
 adaderanalk | 2,194
 virakesarilk | 2,727
-dailymirrorlk | 2,800
+dailymirrorlk | 2,801
 adaderanasinhalalk | 2,970
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,338 (100.0%) of 18,341 articles have been extended.
+18,341 (100.0%) of 18,342 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### தந்தை பிறந்த மண்ணில் சர்வதேச கிரிக்கெட் வாழ்க்கையை ஆரம்பிக்க கிடைத்தது பெரும் பாக்கியமாகும் - பிரித்தானிய தமிழ் யுவதி அமுருதா கூறுகிறார்
+### Heat advisory raised to caution level in 15 districts
+
+*2024-04-10 20:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heat-advisory-raised-to-caution-level-in-15-districts/108-280572) · `en`
+
+Colombo, April 10 (Daily Mirror) - As temperatures soar in parts of Sri Lanka, authorities warn of an impending rise in the heat index, particularly in regions spanning the Northern, Western, Sabaragamuwa and North-Western provinces and the Anuradhapura, Galle and Matara districts.
+
+The heat index, a measure of how hot it feels to the human body when relative humidity is factored in with the actual air temperature, is anticipated to escalate to levels classified as 'Caution' levels.
+
+According to the heat advisory issued, the 'Caution Level' was expected only in 15 districts, which included the Jaffna, Kilinochchi, Mullaitivu, Mannar, Vavunia, Anuradhapura, Puttalam, Kurunegala, Gampaha, Kegalle, Colombo, Kalutara, Ratnapura, Galle and Matara districts.
+
+This poses potential health risks, especially to vulnerable populations such as the elderly, children and individuals with pre-existing health conditions.
+
+...
+
+[Data](articles/a657f88e.json)
+
+---
+
+### It is a great privilege to start an international cricket career on the soil of the father - British Tamil girl Amuruda says
 
 *2024-04-10 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180936) · `ta`
 
-எனது தந்தை பிறந்த, கிரிக்கெட் விளையாடிய இலங்கை மண்ணில் எனது சர்வதேச கிரிக்கெட் வாழ்க்கையை ஆரம்பிக்கக் கிடைத்ததை ஓர் அற்புதமாகவும் பாக்கியமாகவும்  கருதுகிறேன் என வீரகேசரிக்கு 19 வயதுக்குட்பட்ட இங்கிலாந்து அணி வீராங்கனை அமுருதா சுரேன்குமார் தெரிவித்தார்.
+Amuruda Surenkumar, a 19-year-old England cricketer, expresses her privilege to start her international career in Sri Lanka, her father's birthplace. She credits her parents' interest in cricket for her engagement in the sport. Amuruda's journey includes joining the North London Cricket Club at 7, the Sunrisers Club's senior team at 16, and the England under-19 team. She highlights the challenges and learning from playing in Sri Lanka's international stadiums and aspires to play for the National Women's Team.
 
-இலங்கையில் இன்னொரு கிரிக்கெட் சுற்றுப் பயணத்தை ஏற்படுத்திக்கொடுக்குமாறு தனது தந்தையிடம் கோரவுள்ளதாகவும் சகலதுறை வீராங்கனையான அமுருதா குறிப்பிட்டார்.
+🟩
 
-காலி சர்வதேச விளையாட்டரங்கில் செவ்வாய்க்கிழமை (09) நிறைவடைந்த 19 வயதுக்குட்பட்ட மகளிர் ஒருநாள் மும்முனை கிரிக்கெட் தொடருக்குப் பின்னர் வீரகேசரிக்கு அளித்த பேட்டியின்போதே அமு என எல்லோராலும் பாசமாக அழைக்கப்படும் அமுருதா தனது கருத்தை வெளியிட்டார்.
+"I consider it a wonderful and privilege to start my international cricket career on the Sri Lankan soil where my father was born and played cricket," said Amuruda Surenkumar, a 19 -year -old England team.
 
-பதில்  (அமுருதா): 'எனது பெற்றோர் இருவருமே கிரிக்கெட்டின்பால் மிகுந்த ஆர்வம் உடையவர்கள். எனது தந்தை (சுரேன்குமார்) இலங்கையில் பாடசாலை மட்டத்தில் கிரிக்கெட் விளையாடி இருந்தார். எனது தாயார் (லோஜினி) இளம் வயதில் கிரிக்கெட் விளையாடியதுடன் வலைபந்தாட்டத்திலும் ஈடுபட்டார். அவர்கள் அளித்துவரும் ஆக்கமும் ஊக்கமுமே என்னை கிரிக்கெட் விளையாட்டில் ஈடுபட வைத்தது.
+All -rounder Amuruda said he had asked his father to make another cricket tour in Sri Lanka.
+
+Amu, who was affectionately known as Amu, made her opinion in an interview with Veerakesari after the 19 -year -old women under the ODI cricket series at the Galle International Stadium on Tuesday (09).
+
+Answer (Amuruda): 'Both of my parents are very interested in cricket. My father (Surenkumar) was playing cricket at the school level in Sri Lanka. My mother (Lojini) played cricket at a young age and engaged in webball. Their creativity and encouragement made me engage in cricket.
 
 ...
 
 [Data](articles/2febd161.json)
+
+[Extended Data](ext_articles/2febd161.ext.json)
 
 ---
 
@@ -65,6 +89,8 @@ Asked whether the announcement would violate the Olympic spirit, Coe was clear. 
 ...
 
 [Data](articles/cd42f67b.json)
+
+[Extended Data](ext_articles/cd42f67b.ext.json)
 
 ---
 
@@ -112,25 +138,33 @@ He added that 250 buses and 750 vans have been permitted for the tourism industr
 
 ---
 
-### “இனியும் கம்பனி காரணம் கூற முடியாது” ஜீவன் அதிரடி அறிவிப்பு
+### “The company can not say the reason anymore” Jeevan Action Announcement
 
 *2024-04-10 19:42:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இனியும்-கம்பனி-காரணம்-கூற-முடியாது-ஜீவன்-அதிரடி-அறிவிப்பு/76-335827) · `ta`
 
-பெருந்தோட்டத் தொழிலாளர்களுக்கான சம்பள உயர்வு தொடர்பான சம்பள நிர்ணயசபையின் 2ஆவது கூட்டம் எதிர்வரும் 24ஆம் திகதி நடைபெறவுள்ளது.
+The Plantation Workers' Salary Standards Board's 2nd meeting is on 24th. Trade unions urged to use their vote. Companies failed to attend, citing no timely reason. Despite talks since August, companies refuse to increase basic salary, offering only a 33% increase based on allowance. The Minister of Labor has accepted a request to hold the meeting, despite companies' absence. A referendum on salary hike is planned.
 
-இதன்போது அனைத்து தொழிற்சங்கங்களும் தொழிலாளர் பக்கம் நின்று உரிய வகையில் தமது வாக்கை பயன்படுத்த வேண்டும்." என்று இ.தொ.காவின் பொதுச்செயலாளரும், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்.
+🟩
 
-கொழும்பில் இன்று (10) நடைபெற்ற ஊடக சந்திப்பின்போதே இவ்வாறு கூறினார். மேலும் தெரிவிக்கையில்,
+The 2nd meeting of the Plantation Workers' Salary Standards Board will be held on the 24th of this month.
 
-சம்பள நிர்ணயசபை இன்று கூடியது. 10 தொழிற்சங்கங்களில் 9 தொழிற்சங்க பிரதிநிதிகள் பங்கேற்றிருந்தனர். தோட்ட சேவையாளர் சங்க பிரதிநிதிகள் பங்கேற்கவில்லை. பெருந்தோட்டக் கம்பனிகளும் வரவில்லை.
+All the trade unions should stand up to the labor and use their vote properly. ”
 
-10 ஆம் திகதி சம்பள நிர்ணயசபைக் கூடும் என முதலாம் திகதியே அறிவித்திருந்தோம். எனினும், தம்மால் வரமுடியாது என கம்பனிகாரர்கள் நேற்றைய தினமே (09) அறிவித்திருந்தனர்.
+He said this during a media briefing held in Colombo today (10). In addition,
 
-சம்பள உயர்வு தொடர்பில் கடந்த ஆகஸ்ட் மாதம் முதலே பேச்சு நடத்தி வருகின்றோம். எனவே, உரிய கால அவகாசம் இல்லை என்பது உட்பட கம்பனிகள் கூறிவரும் காரணங்கள் ஏற்புடையானவையாக அல்ல.
+Salary Standard Council. Nine union representatives participated in 10 unions. Plantation Servants Association representatives did not participate. Plantation companies do not come.
+
+We had announced that the salary council would be convened on the 10th. However, the company had announced yesterday (09) that they could not come.
+
+We have been holding talks since last August. Therefore, the reasons that the companies claim, including the fact that there is no timely time, is not acceptable.
+
+We have consulted with the Attorney General that there is no legislation on the issue of joint agreement. But companies refuse to come to the joint venture as a legal issue.
 
 ...
 
 [Data](articles/8b92faac.json)
+
+[Extended Data](ext_articles/8b92faac.ext.json)
 
 ---
 
@@ -2355,23 +2389,5 @@ According to Section 34 (1) of the Constitution, this special state is to be awa
 [Data](articles/8c1253b7.json)
 
 [Extended Data](ext_articles/8c1253b7.ext.json)
-
----
-
-### First phase of first school term ends today
-
-*2024-04-10 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98550/first-phase-of-first-school-term-ends-today) · `en`
-
-The first phase of the first term for the academic year 2024 of all government and government-approved Sinhala and Tamil private schools ends today (10), the Ministry of Education announced.
-
-Accordingly, the second phase of the first school term will commence on April 24.
-
-Meanwhile, the second phase of the first school term of Muslim schools will begin on April 17.
-
-◼️
-
-[Data](articles/82e18c45.json)
-
-[Extended Data](ext_articles/82e18c45.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 13:34:05**
+As of **2024-04-10 13:53:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,958
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,265 (100.0%) of 18,269 articles have been extended.
+18,269 (100.0%) of 18,269 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,47 +48,63 @@ President’s Senior Advisor on National Security and Chief of Presidential Staf
 
 [Data](articles/e3b04a85.json)
 
+[Extended Data](ext_articles/e3b04a85.ext.json)
+
 ---
 
-### හම්බන්තොට වරායේ බහාලුම් ප්‍රතිඅපනයන මෙහෙයුම් ඇරඹෙයි
+### Conversion operations begin in Hambantota port container
 
 *2024-04-10 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195505) · `si`
 
-හම්බන්තොට ජාත්‍යන්තර වරාය, මෙඩිටරේනියන් ෂිපින් සමාගම විසින් මෙහෙයවනු ලබන බහාලුම් ප්‍රතිනැව්ගත කිරීමේ සේවාව ආරම්භ කර තිබේ.
+Hambantota port's container services start. MV 'MSC Ingrid' and NSC Sky11 bring nearly 500 containers. CEO Johnson aims to make Hambantota a major hub.
 
-ඒ අනුව MV 'MSC Ingrid' බහාලුම් නෞකාව ඊයේ ප්‍රථමවරට ප්‍රතිඅපනයනය බහාලුම් තොගයක් සමග හම්බන්තොට වරාය වෙත පැමිණ ඇත.
+🟩
 
-එමෙන්ම මෙඩිටරේනියන් ෂිපින් සමාගමට අයත් දෙවන බහාලුම් නෞකාව වන 'MSC Sky11'
+The container recipient version of Hambantota International Ports, Meditarranian, has commenced.
 
-නෞකාව එළඹෙන 16 වැනිදා හම්බන්තොට වරාය වෙත පැමිණීමට නියමිත අතර එහිදි බහාලුම් 500කට ආසන්න සංඛ්‍යාවක් ප්‍රතිනැව්ගත කෙරෙන බව හම්බන්තොට ජාත්‍යන්තර වරාය සමූහය පවසයි.
+Accordingly, MV 'MSC Ingrid' container has arrived at the Hambantota port with a stock of containers yesterday.
 
-හම්බන්තොට වරායේ නව ව්‍යාපාර වේදිකාව සඳහා ලොව විශාලතම බහාලුම් ප්‍රවාහන සේවාවක් වන MSC හෙවත් මෙඩිටරේනියන් ෂිපින් නෞකා සේවාව එක්වීම විශේෂත්වයක් බව හම්බන්තොට ජාත්‍යන්තර වරාය සමූහයේ ප්‍රධාන විධායක නිලධාරී ජොන්සන් ලියූ පවසයි.
+NSC Sky11, the second container boat belonging to Shippin Company is 'MSc Sky11'
 
-එමෙන්ම හම්බන්තොට වරායේ උපක්‍රමීය පිහිටීම යොදාගනිමින් ශ්‍රී ලංකාව නෞකා ප්‍රවාහන සේවාවන්හී කේන්ද්‍රයක් බවට පත්කිරීමට සැලසුම් තමන් සතුවන බවද ඔහු සඳහන් කරයි.
+The ship is due to arrive at the Hambantota port on the 16th and nearly 500 containers will be reciprocitated.
+
+The CEO of the Hambantota International Harbor group, Johnson wrote that the Sri Lanka's largest container transportation at the Port of the Hambantota port is a special feature that Johnson wrote Johnson.
+
+He also said that he has plans to make Sri Lanka a hub of Sri Lanka into a hub of the Hambantota port into a hub.
+
+The handling container handling is the final step in the port mechanism and the main operating officer Tissa Wickremasinghe says that the Hambantota International Harbor arrives as a giant with the commencement of the services.
 
 ...
 
 [Data](articles/2f41d401.json)
 
+[Extended Data](ext_articles/2f41d401.ext.json)
+
 ---
 
-### புத்தாண்டு சுபவேளை பத்திரம் ஜனாதிபதியிடம் கையளிப்பு
+### New Year's Subhalese deed handed over to President
 
 *2024-04-10 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180903) · `ta`
 
-தமிழ் சிங்களப் புத்தாண்டுக்கான சுபவேளை குறிப்புப் பத்திரம் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் சம்பிரதாய  முறைப்படி இன்று புதன்கிழமை (10) ஜனாதிபதி அலுவலகத்தில் வைத்து கையளிக்கப்பட்டது.
+President Ranil Wickremesinghe received a Subhalese deed from the Department of Cultural Affairs, including New Year's rituals, at the Presidential Office.
 
-கலாசார அலுவல்கள் திணைக்களத்தின் அரச சுபநேர கணிப்புக் குழுவினால் தயாரிக்கப்பட்ட சுபவேளை குறிப்புப் பத்திரமே இவ்வாறு ஜனாதிபதியிடம் கையளிக்கப்பட்டது.
+🟩
 
-புத்தசாசன, சமய கலாசார அலுவல்கள் அமைச்சர் விதுர விக்கிரமநாயக்க சம்பிரதாய முறைப்படி  ஜனாதிபதிக்கு வழங்கி வைத்தார்.
+President Ranil Wickremesinghe was handed over to President Ranil Wickremesinghe at the Presidential Office today (10).
 
-புத்தாண்டு பிறப்பு, புண்ணிய காலம், உணவு சமைத்தல், அடுப்பு பற்றவைத்தல், உணவு உண்ணல், தலைக்கு எண்ணெய் தேய்த்தல், புத்தாண்டில் வேலைக்குப் புறப்பட்டு செல்லுதல் உள்ளிட்ட சுப காரியங்களுக்கான சுப நேரங்கள் மேற்படி பத்திரத்தில் குறிப்பிடப்பட்டுள்ளன.
+The president was handed over to the President by the Subhaveli Reference Record, prepared by the Department of Cultural Affairs.
 
-தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின்  சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க, ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க, புத்தசாசன, சமய மற்றும் கலாசார அலுவல்கள் அமைச்சின் செயலாளர் சோமரத்ன விதானபத்திரன உள்ளிட்ட பலர் இந்த நிகழ்வில் கலந்துகொண்டனர்.
+Buddha Sasana, Minister of Religious and Cultural Affairs Vidura Wickramanayaka handed over to the President.
+
+The deeds are mentioned in the deed, including New Year's birth, sacred period, food cooking, stove, food, eating, head oil, and going to work in the New Year.
+
+Sagala Ratnayake, President of the President of the National Security and President of the President, Sagala Ratnayake, President's Secretary Saman Ekanayake, Buddha Sasana, Secretary to the Ministry of Religious and Cultural Affairs Somatna Vidanapatra and many others participated in the event.
 
 ◼️
 
 [Data](articles/56f88da0.json)
+
+[Extended Data](ext_articles/56f88da0.ext.json)
 
 ---
 
@@ -351,6 +367,8 @@ Muslims gathered at Galle Face Green in Colombo this morning to attend Eid praye
 ◼️
 
 [Data](articles/6116c037.json)
+
+[Extended Data](ext_articles/6116c037.ext.json)
 
 ---
 

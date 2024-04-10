@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 08:18:22**
+As of **2024-04-10 08:33:45**
 
 ## Newspaper Stats
 
-*Scraped **18,203** Articles*
+*Scraped **18,204** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 1,001
 islandlk | 1,001
 economynextcom | 1,015
 adalk | 1,531
-tamilmirrorlk | 2,129
+tamilmirrorlk | 2,130
 adaderanalk | 2,181
 virakesarilk | 2,690
 dailymirrorlk | 2,780
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,948
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,202 (100.0%) of 18,203 articles have been extended.
+18,203 (100.0%) of 18,204 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### තැපෑල 12ත් වැඩ
+### Mail 12 work
 
 *2024-04-10 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195494) · `si`
 
-අප්‍රේල් 12 වැනිදා රජයේ නිවාඩු දිනයක් වුවත් එදින රාජකාරි කිරීමට තැපැල් සේවකයන් එකඟතාවය පළකර ඇති බව ජනමාධ්‍ය රාජ්‍ය අමාත්‍ය ශාන්ත බණ්ඩාර මහතා පවසයි.
+The media minister Shantha Bandara announced that despite April 12 being a public holiday, postal workers have agreed to work that day. They are preparing to distribute the highest number of goods ever on this day, thanks to arrangements made to ensure a smooth transfer of New Year's gifts.
 
-ඔහු සඳහන් කළේ, අලුත් අවුරුදු සමයට අදාලව මධ්‍යම තැපැල් හුවමාරුවට ලැබී ඇති ඉතිහාසයේ වැඩිම භාණ්ඩ ප්‍රමාණය ප්‍රමාදයකින් තොරව බෙදාහැරීම සඳහා සියලු කටයුතු සූදානම් කර ඇති බවය.
+🟩
 
-"ඉතිහාසයේ වැඩිම භාණ්ඩ ප්‍රමාණයක් තැපැල් දෙපාර්තමේන්තුවට, මධ්‍යම තැපැල් හුවමාරුවට ලැබුණු වසර මේ වසර. විදෙස් රටවල ඉන්න පිරිස් අපේ රටේ ඥාතීන්ට විශාල භාණ්ඩ ප්‍රමාණයක් පාර්සල් ලෙස එවලා. අපේ වගකීම ඒ භාණ්ඩ නිසි වෙලාවට ඒ අදාළ තැනට යොමු කිරීම. අපිට විශාල ප්‍රශ්නයක් වුණා අවුරුදු කාලේ එන දීර්ඝ නිවාඩු. ඒ අනුව තැපැල්පතිතුමාගේ උපදෙස් මත සියලුදෙනා තීරණය කරලා තියෙනවා 12 වෙනිදාත් සේවයට වාර්තා කරන්න. රේගු නිලධාරීනුත් අපිට සහාය දෙන බවට දැනුම්දීලා තියෙනවා."
+The media ministers Shantha Bandara says that although there is a public holiday on April 12, the post servants have agreed to work that day.
+
+He said that all arrangements have been prepared to distribute the highest number of goods in the history of the central year transfer of the New Year's year.
+
+"The highest number of goods in history has been received by the Central Mail Exchange this year. People in foreign countries sent great items to the relatives of our country as parcels. Referring our responsibility to the same place at the right time. We had a big problem for the long leave of the year. Accordingly, all have been decided on the advice of the Postcaster 12th. Customs officials have informed us to support us. "
 
 ◼️
 
 [Data](articles/4aad02d1.json)
+
+[Extended Data](ext_articles/4aad02d1.ext.json)
 
 ---
 
@@ -793,6 +799,26 @@ This special amnesty will be granted using the powers of the president in accord
 [Data](articles/27a9b02d.json)
 
 [Extended Data](ext_articles/27a9b02d.ext.json)
+
+---
+
+### ’அங்கவீனமுற்ற இராணுவ வீரர்களுக்கு நிவாரணம்’
+
+*2024-04-09 23:32:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அங்கவீனமுற்ற-இராணுவ-வீரர்களுக்கு-நிவாரணம்/175-335807) · `ta`
+
+அங்கவீனமுற்ற இராணுவ வீரர்களின் பாதுகாப்பு மற்றும் நலனுக்கு அரசாங்கத்தினால் முடிந்த அனைத்து நிவாரணங்களும் வழங்கப்படுமென ஜனாதிபதி ரணில் விக்கிரமசிங்க உறுதியளித்தார்.
+
+ஸ்ரீ ஜயவர்தனபுர கோட்டேயில் அமைந்துள்ள பாதுகாப்பு அமைச்சின் தலைமையகத்தில் நேற்று நடைபெற்ற 'போரினால் பாதிக்கப்பட்ட இராணுவத்தினருக்கு மின்சார மோட்டார் சைக்கிள் வழங்கும்' நிகழ்விலேயே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+
+அதன்படி அங்கவீனமுற்ற இராணுவ வீரர்கள் மற்றும் அவர்களது குடும்பத்தாரின் வாழ்வாதாரத்தை மேம்படுத்தும் வகையில், 17 மில்லியன் ரூபா செலவில் 50 மின்சார மோட்டார் சைக்கிள்கள் இதன்போது வழங்கப்பட்டன.
+
+நிகழ்வில் அடையாள அம்சமாக அங்கவீனமுற்ற இராணுவ வீரர்கள் சிலருக்கு ஜனாதிபதியால் மின்சார சைக்கிள்கள் வழங்கி வைக்கப்பட்டது.
+
+இங்கு மேலும் கருத்து தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, நாட்டின் ஒருமைப்பாட்டையும், சுயாதீனத் தனைமையையும் பாதுகாக்க உயிரைப் பணயம் வைத்து போராடிய இராணுவ வீரர்களுக்கு நன்றி கூறினார்.
+
+...
+
+[Data](articles/9d021822.json)
 
 ---
 
@@ -2205,25 +2231,5 @@ After visiting the Batticaloa District Court Magistrate, Thambipillai Thakumar's
 [Data](articles/ef81b515.json)
 
 [Extended Data](ext_articles/ef81b515.ext.json)
-
----
-
-### Health Ministry issues special set of guidelines for New Year games
-
-*2024-04-09 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98537/health-ministry-issues-special-set-of-guidelines-for-new-year-games) · `en`
-
-The Directorate of Non-Communicable Diseases of the Ministry of Health has issued a set of guidelines for prevention of injuries and acute medical conditions related to sports events organized during festival seasons in Sri Lanka.
-
-Accordingly, the Health Ministry has described general guidelines to be followed in all sporting events and guidelines for identified specific events being carried out during the upcoming festive season.
-
-The relevant set of guidelines is aimed at equipping organizers, participants, and communities with essential knowledge and strategies to ensure a safe and enjoyable celebration, the ministry said.
-
-Meanwhile, the Health Ministry also expressed that recognizing the importance of safeguarding public health and promoting safety during sports events held amidst festival celebrations, the guidelines have been developed to address the unique challenges associated with such events to mitigate the risks associated with injuries and acute medical conditions.
-
-...
-
-[Data](articles/27d02295.json)
-
-[Extended Data](ext_articles/27d02295.ext.json)
 
 ---

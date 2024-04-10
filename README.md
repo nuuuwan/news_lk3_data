@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 00:21:45**
+As of **2024-04-11 00:34:59**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,355 (100.0%) of 18,356 articles have been extended.
+18,356 (100.0%) of 18,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### மேலும் 1,82,140 குடும்பங்களுக்கு அஸ்வெசும
+### And more than 1,82,140 families
 
 *2024-04-10 23:22:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-1-82-140-குடும்பங்களுக்கு-அஸ்வெசும/175-335840) · `ta`
 
-மேன்முறையீடுகளும் ஆட்சேபனைகளும் பரிசீலனை செய்யப்பட்டதன் பின்னர் அஸ்வெசும கொடுப்பனவை பெறுவதற்கு மேலும் 1,82,140 குடும்பங்கள் தகுதி பெற்றுள்ளதாக நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்துள்ளார்.
+Over 1.82 million families now eligible for Azwezuma allowance, with all payments, including arrears, to be deposited on April 18. Currently, 18.54 million people receive the allowance, costing 58.5 billion rupees.
 
-இவர்களுக்கான நிலுவைத்தொகை உள்ளிட்ட அனைத்து கொடுப்பனவுகளையும் ஏப்ரல் மாதம் 18 ஆம் திகதியாகும்போது வங்கிக் கணக்குகளில் வைப்பிலிடுவதாக அவர் தெரிவித்துள்ளார்.
+🟩
 
-இதற்கமைய, 18,54,000 பேர் தற்போது அஸ்வெசும கொடுப்பனவை பெறுவதுடன், அதற்காக 58.5 பில்லியன் ரூபா செலவிடப்படுவதாக நிதி இராஜாங்க அமைச்சர் தெரிவித்துள்ளார். (a)
+Finance Minister Shehan Semasinghe says more than 1,82,140 families have been eligible for the Azwezuma allowance after the appeals and objections have been reviewed.
+
+He said that all payments, including arrears, will be deposited in bank accounts at 18 April.
+
+Accordingly, 18,54,000 people are currently receiving the allowance of Aswesum and the Minister of Finance said that 58.5 billion rupees are spent on it.. (A)
 
 ◼️
 
 [Data](articles/8dae46c5.json)
+
+[Extended Data](ext_articles/8dae46c5.ext.json)
 
 ---
 

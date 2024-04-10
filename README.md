@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-10 16:05:11**
+As of **2024-04-10 16:18:28**
 
 ## Newspaper Stats
 
-*Scraped **18,290** Articles*
+*Scraped **18,298** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,122 @@ newsfirstlk | 363
 dailyftlk | 1,001
 islandlk | 1,001
 economynextcom | 1,021
-adalk | 1,539
-tamilmirrorlk | 2,142
+adalk | 1,540
+tamilmirrorlk | 2,144
 adaderanalk | 2,190
-virakesarilk | 2,716
-dailymirrorlk | 2,788
+virakesarilk | 2,718
+dailymirrorlk | 2,791
 adaderanasinhalalk | 2,963
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,288 (100.0%) of 18,290 articles have been extended.
+18,290 (100.0%) of 18,298 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-10 (Wednesday)
 
-### හෙට ගමේ ගියොත් තදබදය අඩු වෙයි
+### Due to tomorrow, the traffic decreases
 
 *2024-04-10 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195512) · `si`
 
-අලුත් අවුරුදු නිවාඩුව වෙනුවෙන් හෙට (11) දිනයේ සිට ගම්බිම් බලා යෑමට පිරිස් කටයුතු කරන්නේ නම් තදබදයකින් තොරව ගමන් කිරීමට හැකි බව ලංකා පෞද්ගලික බස් හිමියන්ගේ සංගමයේ සභාපති ගැමුණු විජේරත්න පවසයි.
+Gemunu Wijeratne, Lanka Private Bus Owners Association president, expects decreased traffic due to personnel traveling to villages for New Year vacation. Buses may be congested on the 12th evening but will operate normally until charity periods. Additional buses will be deployed as requested by the Commission. Buses will return to Colombo from the 15th.
 
-එහිදී ඔහු වැඩිදුරටත් කියා සිටියේ 12 වනදා සවස් කාලය වනවිට බස් රථවල තදබදයක් ඇති වියහැකි බවය.
+🟩
 
-පුණ්‍ය කාලය එළඹෙන තෙක් සාමාන්‍ය පරිදි බස් රථ ධාවනය කරන බවද ගැමුණු විජේරත්න තවදුරටත් පැවසීය.
+President of the Lanka Private Bus Owners Association Gemunu Wijeratne says that if the personnel will travel to the village from tomorrow (11) for the New Year vacation.
 
-අවුරුදු සමය වෙනුවෙන් ගමනා ගමන කොමිෂන් සභාවේ ඉල්ලීම මත අවශ්‍යතාවය අනුව අතිරේක බස් රථ යෙදවීමට කටයුතු සූදානම් කර තිබේ.
+He further stated that the buses could be congested at the 12th evening.
 
-එළඹෙන 15 වනදා සිට ජනතාවට නැවත කොළඹ ට පැමිණීමට බස් රථ යෙදවීමට ද සැලසුම් කර ඇත.
+Gemunu Wijeratne added that the buses will be operated as normal until charity periods.
+
+Arrangements have been made to deploy additional buses according to the request of the Commission on request for the year.
+
+It is also planned to deploy buses to come back to Colombo from the 15th.
 
 ◼️
 
 [Data](articles/c590e0ff.json)
+
+[Extended Data](ext_articles/c590e0ff.ext.json)
+
+---
+
+### இஸ்ரேலின் பாதுகாப்பே எங்கள் வெளிவிவகார கொள்கையின் முக்கியமான அம்சம் - ஜேர்மனி
+
+*2024-04-10 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180883) · `ta`
+
+இஸ்ரேலின் பாதுகாப்பே தனது வெளிவிவகார கொள்கையின் முக்கிய அம்சமாக காணப்படுகின்றது என தெரிவித்துள்ள  ஜேர்மனி தனது கடந்த கால வரலாறே இதற்கு காரணம் எனவும் தெரிவித்துள்ளது.
+
+எனினும் இஸ்ரேலிற்கு ஆயுதங்களை வழங்குவதன் மூலம் இனப்படுகொலைக்கு உதவுவதாக தெரிவிக்கப்படும் குற்றச்சாட்டினை ஜேர்மனி நிராகரித்துள்ளது.
+
+ஜேர்மனி இஸ்ரேலிற்கான ஆயுதவிநியோகத்தை நிறுத்தவேண்டும் என கோரும் வழக்கினை சர்வதேச நீதிமன்றில் நிக்கரகுவா தாக்கல் செய்துள்ளது.
+
+இனப்படுகொலையை தடுப்பது சர்வதேச மனிதாபிமான சட்டம் மதிக்கப்படுவது தொடர்பான கடப்பாடுகளை ஜேர்மனி மீறிவிட்டது எனவும் நிக்கரகுவா குற்றம்சாட்டியுள்ளது.
+
+எங்கள் வெளிவிவகார கொள்கையில் இஸ்ரேலின் பாதுகாப்புமிக முக்கியமானதாக காணப்படுவதற்கு காரணம் எங்களின் வரலாறு என ஜேர்மனியின் வெளிவிவகார அமைச்சின் அதிகாரி சர்வதேச நீதிமன்றத்தில் தெரிவித்துள்ளார்.
+
+இஸ்ரேலிற்கு ஜேர்மனி ஆயுதங்களையும் இராணுவதளபாடங்களையும் வழங்கியுள்ளது என தெரிவித்துள்ள அவர் ஆனால் நிக்கரகுவா அதன் அளவையும் நோக்கத்தையும் திரிபுபடுத்துகின்றது எனவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/25c6d3ec.json)
+
+---
+
+### India remains SL’ s most reliable, dependable partner: Indian Envoy
+
+*2024-04-10 15:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-remains-SL-s-most-reliable-dependable-partner-Indian-Envoy/108-280564) · `en`
+
+Colombo, Aprl 10 (Daily Mirror) - India will remain Sri Lanka’s most reliable friend and a trusted and dependable partner, emphasised Indian High Commissioner to Sri Lanka Santosh Jha.
+
+"Our bilateral cooperation is expanding and diversifying. It is buttressed by India’s growing national capabilities. We now cooperate in a wider range of areas including infrastructure and connectivity, deeper economic engagement, trade and investment, culture and education, tourism and people-to-people ties,” stated the High Commissioner during the Second Seminar on India-Sri Lanka Defence Seminar held in Colombo.
+
+The seminar, attended by dignitaries including State Minister of Defence Pramitha Bandara Tennakoon, Chief of Defence Staff Gen. Shavendra Silva, Commanders of the Sri Lanka Navy and Air Force, senior officials from the Sri Lankan Armed Forces, and Indian delegates led by Additional Secretary from the Ministry of Defence, Anurag Bajpai, emphasized the Defence relations between the two nations.
+
+◼️
+
+[Data](articles/633f9d42.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலில் தமிழர்கள் ஜனநாயகப் பலத்தை நிரூபிக்க வேண்டும் - சபா குகதாஸ்
+
+*2024-04-10 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180868) · `ta`
+
+யுத்த மௌனிப்பின் பின்னர் வடக்கு கிழக்கு மாகாணங்களில் மக்களின் அடிப்படை அபிலாசைகளை முன் நிறுத்தி ஒரு திரட்சியான ஜனநாயக பலம் 15 ஆண்டுகளை கடந்தும் வெளிப்படுத்தப்படவில்லை இதற்கான சரியான தேர்தல் களம் என்றால் அது ஜனாதிபதித் தேர்தல் மட்டும் தான் என ரெலோவின் தலைமைக்குழு உறுப்பினர் சபா குகதாஸ் தெரிவித்துள்ளார்.
+
+ஏனைய தேர்தல்களில் திரட்சியான முடிவை வெளிப்படுத்துவது தற்போதைய நிலையில் மிக இலகுவான விடயம் இல்லை.
+
+கடந்த காலங்களில் ஜனாதிபதித் தேர்தல்களில் பல்வேறு முடிவுகளை எடுத்தாலும் அவை இன ரீதியாக சாதகமான அமையவில்லை ஆனால் யுத்தத்தின் பின்னரான சூழலில் ஒற்றுமையாக ஐனநாயகப் பலத்தை வெளிப்படுத்த வேண்டியது காலத்தின் கட்டாயம் இதனை நடைமுறைப்படுத்த தமிழர் தாயகத்தில் அனைத்து அரசியல் கட்சிகளும், சிவில் அமைப்புக்களும் ஒரே தளத்தில் ஒன்றிணைய வேண்டும் ஒரே முடிவை உறுதியாக எடுக்க வேண்டும்.
+
+தமிழர்கள் எடுக்கும் முடிவுகளை பேரினவாதம் இனவாதமாக மாற்றிவிடும் என்கிற விமர்சனங்களை தாண்டி தந்திரோபாயமாக ஐனநாயக பலத்தை உறுதி செய்ய செயல் திறன்களை வடிவமைக்க வேண்டும்.
+
+...
+
+[Data](articles/7cf4594c.json)
+
+---
+
+### பொஸ்பேட் நிறுவன ஊழியரை மிரட்டிய இராஜாங்க அமைச்சர்
+
+*2024-04-10 15:48:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொஸ்பேட்-நிறுவன-ஊழியரை-மிரட்டிய-இராஜாங்க-அமைச்சர்/175-335823) · `ta`
+
+லங்கா பொஸ்பேட் நிறுவனத்தின் மனித வள மற்றும் நிர்வாக உதவியாளர் எச்.டி.வி.கே.சந்திரரத்னவை, அமைச்சு மற்றும் நிறுவனத்தின் அதிகாரிகள் முன்னிலையில், கைத்தொழில் இராஜாங்க அமைச்சர் சாமர சம்பத் தசநாயக்க கடுமையாக அச்சுறுத்தியதாக குற்றம் சுமத்தப்பட்டுள்ளது. .
+
+எதிர்காலத்தில் இவ்வாறான சம்பவங்கள் மீண்டும் இடம்பெறும் பட்சத்தில் தொழிற்சங்க நடவடிக்கையில் ஈடுபடவுள்ளதாக இலங்கை நிதாஹஸ் சேவக சங்கமய தொழிற்சங்கம் அமைச்சரிடம் தெரிவித்துள்ளது.
+
+இதேவேளை, சம்பவம் தொடர்பில் முறையான விசாரணை நடத்துமாறு சம்பந்தப்பட்ட அதிகாரி, நிறுவனத்தின் தலைவர் சந்தியா அம்பன்வெலவிடம் கோரிக்கை விடுத்துள்ளார்.
+
+ஒரு சாதாரண ஊழியரை அவர் துன்புறுத்திய குற்றச்சாட்டின் பேரில், அமைச்சர் தன்னை அமைச்சில் கூட்டத்திற்கு அழைத்ததாகவும், நிறுவனத்தின் தலைவர் மற்றும் பல உயர் அதிகாரிகள் முன்னிலையில் தன்னை அச்சுறுத்தியதாகவும் கடுமையாக திட்டியதாகவும் அந்த அதிகாரி கூறினார்.
+
+சம்பவத்துடன் தொடர்புடைய சாதாரண ஊழியர் தற்போது அமைச்சுக்கு இடமாற்றம் செய்யப்பட்டுள்ள போதிலும் சம்பவம் தொடர்பில் இதுவரை விசாரணைகள் நடத்தப்படவில்லை என தொழிற்சங்க பிரதிநிதிகள் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/1702fc00.json)
 
 ---
 
@@ -72,6 +154,46 @@ His 1964 theory of a mass-giving particle, which became known as the Higgs boson
 
 [Data](articles/82f89185.json)
 
+[Extended Data](ext_articles/82f89185.ext.json)
+
+---
+
+### The sales division of the Government Release Office will be closed on Monday
+
+*2024-04-10 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/180917) · `ta`
+
+The Government Release Office's sales division will close on Monday, but the state release stall will remain open on Tuesday. This closure is due to stockpiling and maintenance.
+
+🟩
+
+The Government Information Department announced on Wednesday (10) that the sales unit of the Government Publication Office in Narahenpita will be closed on the 15th of this month.
+
+This decision has been made due to stockpile and some internal maintenance activities.
+
+However, it has been announced that the state release stall will be opened as usual on Tuesday (16) the next day.
+
+◼️
+
+[Data](articles/4a4cac90.json)
+
+[Extended Data](ext_articles/4a4cac90.ext.json)
+
+---
+
+### மதுலாவே நிமேஷ் கைது
+
+*2024-04-10 15:38:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுலாவே-நிமேஷ்-கைது/175-335822) · `ta`
+
+அண்மையில் மொரகஹஹேனவில் இருவரைக் கொல்ல ஏற்பாடு செய்த ஹோமாகம ஹந்தயாவின் போதைப்பொருள் கடத்தல் நடவடிக்கைகளை துபாயில் இருந்து இயக்கியதாகக் கூறப்படும் போதைப்பொருள் கடத்தல்காரர் 'மாதுலாவே நிமேஷ்' கைது செய்யப்பட்டுள்ளார்.
+
+12.700 கிராம் ICE போதைப்பொருள் மற்றும் 487 கிராம் கேரள கஞ்சாவை வைத்திருந்த சந்தேகநபர் செவ்வாய்க்கிழமை (09) மாலை மேல் மாகாண தெற்கு குற்றப் புலனாய்வுப் பிரிவினரால் பதுக்கை பொலிஸ் பிரிவுக்குட்பட்ட மடுலாவ பகுதியில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது கைது செய்யப்பட்டார்.
+
+மேல் மாகாண தெற்கு குற்றப் புலனாய்வுப் பிரிவினர் சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/1b497a81.json)
+
 ---
 
 ### Today's currency exchange rate
@@ -92,25 +214,21 @@ The US dollar purchasing price was Rs 293.6852 and the sales price were Rs 303.3
 
 ---
 
-### The sales division of the Government Release Office will be closed on Monday
+### ’Madulawe Nimesh’ arrested with drugs
 
-*2024-04-10 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180917) · `ta`
+*2024-04-10 15:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Madulawe-Nimesh-arrested-with-drugs/108-280563) · `en`
 
-The Government Release Office's sales division will close on Monday, but the state release stall will remain open on Tuesday. This closure is due to stockpiling and maintenance.
+Homagama, April 10 (Daily Mirror)-  Drug smuggler 'Madulawe Nimesh', who is alleged to have operated the drug smuggling activities of 'Homagama Handaya' who had organised the killing of two individuals in Moragahahena recently from Dubai, has been arrested.
 
-🟩
+The suspect who had in his possession 12.700 grams of ICE narcotics and 487 grams of Kerala Ganja was arrested by the Western Province South Crime Investigation Division on Tuesday evening (09) during a raid in Madulawa in the Paddukka police area.
 
-The Government Information Department announced on Wednesday (10) that the sales unit of the Government Publication Office in Narahenpita will be closed on the 15th of this month.
+The 27 year old suspect is a resident of the Kiriwattuduwa area.
 
-This decision has been made due to stockpile and some internal maintenance activities.
-
-However, it has been announced that the state release stall will be opened as usual on Tuesday (16) the next day.
+The Western Province South Crime Investigation Division is conducting further investigations.
 
 ◼️
 
-[Data](articles/4a4cac90.json)
-
-[Extended Data](ext_articles/4a4cac90.ext.json)
+[Data](articles/474440a9.json)
 
 ---
 
@@ -259,6 +377,22 @@ New Year's dawn, charity, cooking, bleeding, diet, precisely visible and celebra
 [Data](articles/b7c8b301.json)
 
 [Extended Data](ext_articles/b7c8b301.ext.json)
+
+---
+
+### ඊෂි කෑෂ් ක්‍රමයට මත්ද්‍රව්‍ය ජාවාරම් කරන ජාවාරමුන් 137ක් හඳුනාගනියි
+
+*2024-04-10 14:13:11* · [`adalk`](https://www.ada.lk/breaking_news/ඊෂි-කෑෂ්-ක්‍රමයට-මත්ද්‍රව්‍ය-ජාවාරම්-කරන-ජාවාරමුන්-137ක්-හඳුනාගනියි/11-409051) · `si`
+
+මෙරට තුළ ඊෂිකෑෂ් ක්‍රමය  භාවිතා කරමින්  මත්ද්‍රව්‍ය ජාවාරම්වල මුදල් හුවමාරු කරන ජාවාරම්කරුවන් 137 දෙනකු සම්බන්ධයෙන් තොරතුරු අනාවරණය කර ගෙන ඇති බව පොලිස් මූලස්ථානය පවසයි
+
+මත්ද්‍රව්‍ය මැඩලීම සඳහා ක්‍රියාත්මක කර ඇති යුක්තිය මෙහෙයුමට සමගාමීව   සිදුකරන විමර්ශනවලදී මෙම පුද්ගලයන් සම්බන්ධයෙන් තොරතුරු අනාවරණය කරගෙන ඇති බවද පොලිස් මුලස්‌ථානය පවසයි පවසයි
+
+මෙම සැකකරුවන් අතරින් මහා පරිමාණයෙන් ජාවාරම්වල නිරත මත්ද්‍රව්‍ය ජාවාරම්කරුවන් පස් දෙනෙකුගේ බැංකු වාර්තාව ඔස්සේද, තවත් ජාවාරම්කරුවන් විසිදෙනෙකු සම්බන්ධයෙන් දුරකථන කුළුණු විශ්ලේෂණ වාර්තාව ඔස්සේ ද   පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාශ ය දැනටමත්  විමර්ශනාරම්භ කර ඇත
+
+◼️
+
+[Data](articles/c87bead5.json)
 
 ---
 
@@ -575,6 +709,18 @@ Sagala Ratnayake, President of the President of the National Security and Presid
 [Data](articles/56f88da0.json)
 
 [Extended Data](ext_articles/56f88da0.ext.json)
+
+---
+
+### Sri Lanka Air Force gears up for CADE 2024
+
+*2024-04-10 13:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sri-Lanka-Air-Force-gears-up-for-CADE-2024/110-280558) · `en`
+
+The Sri Lanka Air Force is preparing for the Colombo Air Show and Defence Exhibition (CADE 2024) to demonstrate air power and stimulate tourism and investment. Air Force Commander Air Marshal Udeni Rajapaksa announced that the five-day event will take place from May 29 to June 2 at the Galle Face and Colombo Port City. The CADE 2024 was officially announced today during a media briefing at the Air Force Headquarters attended by SLAF Chief of Staff Air Vice Marshal Sampath Wickremeratne and Director of Media Group Captain Dushan Wijesinghe. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/33341ce8.json)
 
 ---
 
@@ -2191,185 +2337,5 @@ Two students who were traveling in the bicycle were injured and admitted to the 
 [Data](articles/20afb7ec.json)
 
 [Extended Data](ext_articles/20afb7ec.ext.json)
-
----
-
-### Let's field a member of the PA - Mahinda Rajapaksa
-
-*2024-04-10 03:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/180855) · `ta`
-
-PA member Mahinda Rajapaksa will work with President Ranil Wickremesinghe. They're in talks with parties for a new coalition. SLFP is facing challenges, but correcting mistakes. Prasanna Ranatunga's stance on PA member is personal.
-
-🟩
-
-We will work together as long as possible with President Ranil Wickremesinghe.. We have decided to field a member of the PA. Former President Mahinda Rajapakse said he would issue an official announcement soon.
-
-He was speaking to the media after attending a function held at the Sri Lanka Forum College in Colombo on Tuesday (9).
-
-Question - The establishment of new political alliances, are you not paying attention to the coalition?
-
-A: We are in talks with various parties on the new political coalition.
-
-Question - Your Thai Party, the Sri Lanka Freedom Party (SLFP) is burning the fire, is not going to advise you to address the problems?
-
-Answer -Chandrika Ammani has come and chases the leader Maithri. Mistakes are currently being corrected. The Freedom Party has faced many challenges.
-
-Question - The SLFP rise in the short term as the Sri Lanka PA has risen;Do you expect to receive?
-
-...
-
-[Data](articles/82a4b4cb.json)
-
-[Extended Data](ext_articles/82a4b4cb.ext.json)
-
----
-
-### Can you make a telephone conversation a telephone dialogue?
-
-*2024-04-10 03:16:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c884zpej28jo) · `si`
-
-Smartphones have transformed telephone conversations into dialogues, raising privacy concerns. Sri Lanka has seen telephone dialogue recordings impacting society and politics. Senior Attorney Kamal Wijesiri clarified that recording a friendly conversation is not illegal, but it violates moral obligations. The Telecommunications Regulatory Commission of Sri Lanka has rules against interfering with customer messages. Reporthood Organization, a US-based rights group, protects journalists' rights to record confidential conversations. Laws regarding telephone conversations vary globally, with no specific rule in Sri Lanka for recording. Senior Attorney Kamal Wijesira highlighted the moral responsibility in recording phone conversations, emphasizing that it's not wrong to share such conversations, but it's a moral offense to publish them without consent. Asela Waidyalankara, a cybersecurity specialist, suggested asking the other party for consent before recording a conversation, advocating for digital literacy to address these issues.
-
-🟩
-
-Smart Mobile phones today have become more popular not only among young children but also among the older community.
-
-Smart mobile phones have become a very easy task, using the telephone conversation using various strategies in the past.. However, some telecom companies have avoided providing necessary facilities for certain regions of the world on privacy based policies.
-
-With the advancement of technology, many of the society questions about the moral matters behind it, whether it is easy.
-
-Repeated in Sri Lanka's recent years has led to the telephone dialogue recordings, not only socially but also politically but also politically.
-
-Ranjan Ramanayake, who was appointed as a state minister, can bear the series of events with the telephone conversations with telephone conversations.
-
-We have also seen occasions when some postings in social media are embarrassing various parties.
-
-Senior Attorney Kamal Wijesiri said that it is not an illegal act of recording a telephone conversation.
-
-...
-
-[Data](articles/b592485c.json)
-
-[Extended Data](ext_articles/b592485c.ext.json)
-
----
-
-### Nimal Siripala's appointment is illegal - Udaya Kammanpila
-
-*2024-04-10 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180854) · `ta`
-
-Udaya Kammanpila, LTTE leader, criticizes Nimal Siripala's appointment, arguing the SLFP's political committee requires the party leader's presence. Despite this, Chandrika Bandaranaike Kumaratunga leads a meeting, with SLFP activities under President Ranil Wickremesinghe. Kammanpila is negotiating a political coalition and aims to form a new alliance soon.
-
-🟩
-
-The leader of the Bhivithuru Hela Urumaya Party (LTTE) and Member of Parliament Udaya Kammanpila said on Tuesday (9) at a media briefing.He added that the political committee of the SLFP cannot be held without the party leader.But now the political committee meeting has been convened under the leadership of Chandrika Bandaranaike Kumaratunga, the party's all -party Chandrika Bandaranaike Kumaratunga. The activities of the Sri Lanka Freedom Party (SLFP) are being carried out with President Ranil Wickremesinghe.We are negotiating with all parties on the widespread political coalition. We will quickly establish a new political alliance before the day.
-
-◼️
-
-[Data](articles/e3c00332.json)
-
-[Extended Data](ext_articles/e3c00332.ext.json)
-
----
-
-### Allow to visit guests for Muslim arrests on the occasion of fasting
-
-*2024-04-10 03:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180853) · `ta`
-
-The Department of Prisons allows Muslim prisoners to receive visits during Ramadan, ensuring they have home-cooked meals, essential items, and access to healthcare.
-
-🟩
-
-The Department of Prisons has decided to allow Muslim prison guests to visit. According to the Prison Commissioner (Media Spokesman) Gamini B.. Dissanayake said.
-
-Accordingly, all prison companies have taken steps to bring in their homes, sweet commodities and essential items that are being brought from their homes by relatives of Islam, and the existing legal programs and the appropriate health care system have been taken.
-
-◼️
-
-[Data](articles/dc0cd69b.json)
-
-[Extended Data](ext_articles/dc0cd69b.ext.json)
-
----
-
-### Sunrisers Hyderabad beat Punjab Kings by 2 runs
-
-*2024-04-10 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180852) · `ta`
-
-Sunrisers Hyderabad won by 2 runs against Punjab Kings in IPL 2023, with Punjab losing 6 wickets in 20 overs. Key performances included Nitish Kumar Reddy's 64 runs and Shashank Singh's 46 runs.
-
-🟩
-
-Sunrisers Hyderabad won the Punjab Kings by 2 runs in the 23rd match of the 17th Indian Premier League Cricket Chapter, which caused a stir at the end of Tuesday (09) at the Mahali and Malpur Maharaja Yadavindra Singh International Cricket Stadium.
-
-Sunrisers Hyderabad will be easily successful in the Punjab Kings' 15th over. But, the success is unavailable lightly. Sunrisers Hyderabad's victory was firm in the last ball.
-
-Punjab Kings lost 6 wickets in 20 overs and lost 180 runs.
-
-At one point, Punjab Kings lost 6 wickets in 15.3 overs with 114 runs.
-
-However, Shashank Singh and Ashutosh Sharma were in a stunning batsman and survived Punjab Kingsung.. They shared 56 runs off 27 balls in the 7th wicket that was not divided. However, Punjab Kings failed by 3 runs to achieve their goal.
-
-Shashank Singh did not play with 25 balls with 6 fours, 46 runs, including one six, and Ashutosh Sharma scored 15 balls with 3 pounds and 2 sixes.
-
-...
-
-[Data](articles/ec6f1c77.json)
-
-[Extended Data](ext_articles/ec6f1c77.ext.json)
-
----
-
-### Expressway debts could take 160 years to settle despite profit: Minister
-
-*2024-04-10 02:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Expressway-debts-could-take-160-years-to-settle-despite-profit-Minister/108-280516) · `en`
-
-Colombo, April 10 (Daily Mirror) - Despite earning a yearly profit of Rs. 5 billion from expressways, Minister Bandula Gunawardana revealed that it might take at least 160 years to fully pay off the Rs. 800 billion loan used to build them.
-
-Gunawardana explained that even if someone lived for 80 years, it would still be impossible to settle the debt. He emphasized that even if someone reincarnated multiple times and worked throughout each lifetime, the debt would persist.
-
-To prevent financial collapse, Gunawardana stressed the importance of following protocols set by the World Bank (WB), IMF, and Asian Development Bank (ADB). He warned that failure to comply could lead to ruin.
-
-To tackle the debt, the minister proposed transferring the expressway system and its assets to the government-owned Sahasya Investment Company.
-
-This, he believes, is necessary to prevent innocent individuals from bearing the burden for the rest of their lives.
-
-◼️
-
-[Data](articles/766d3a8b.json)
-
-[Extended Data](ext_articles/766d3a8b.ext.json)
-
----
-
-### A bloc to confront global debt crisis: What role for Sri Lanka?
-
-*2024-04-10 01:58:21* · [`dailyftlk`](https://www.ft.lk/columns/A-bloc-to-confront-global-debt-crisis-What-role-for-Sri-Lanka/4-760536) · `en`
-
-What proved to be particularly effective were the ways in which the IDEAs conference explored how powerful states and capitals reproduce a highly unequal global order with dramatic regional differences
-
-Even if Sri Lanka is eventually able to “successfully” exit the IMF program, the question is, at what human cost? The paucity of discourse about a short to medium-term relief strategy to cope with the immiseration of working people during the depression is an indictment of our ruling class. But considering the views expressed at the IDEAs conference, it further reflects tremendous short-sightedness in ignoring the paradoxes that have provoked serious researchers elsewhere. They have considered the impact of debt crisis not only on the infrastructure gap but also on human development
-
-...
-
-[Data](articles/d0a21dd6.json)
-
-[Extended Data](ext_articles/d0a21dd6.ext.json)
-
----
-
-### A “Hindu” presidential candidate and the “Hindu Tamil Eelam” concept
-
-*2024-04-10 01:30:38* · [`dailyftlk`](https://www.ft.lk/columns/A-Hindu-presidential-candidate-and-the-Hindu-Tamil-Eelam-concept/4-760530) · `en`
-
-Siva Senai leader Satchithanandam and those of his ilk are seemingly successful in the short term in their anti-Christian action. But in the long term their actions are succeeding in weakening Tamil nationalism by driving the Hindu-Christian wedge in between. In that sense Satchithanandan is accomplishing what the historic enemies of Tamil nationalism have been unable to do in the past – Divide Tamils! The sad irony in this is that Satchi himself was nurtured in the nursery of Tamil nationalism and regards himself as Tamil nationalist still
-
-Current media coverage in Sri Lanka is heavily focused on the forthcoming Presidential elections. Though officially not announced yet, it seems a foregone conclusion that the presidential poll would take place later this year. Several potential candidates ranging from incumbent president Ranil Wickremesinghe to media magnate Dilith Jayaweera are tipped to be in the presidential fray.
-
-...
-
-[Data](articles/45db6626.json)
-
-[Extended Data](ext_articles/45db6626.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 17:18:03**
+As of **2024-04-11 17:34:27**
 
 ## Newspaper Stats
 
-*Scraped **18,485** Articles*
+*Scraped **18,487** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,39 +18,65 @@ economynextcom | 1,034
 adalk | 1,549
 tamilmirrorlk | 2,160
 adaderanalk | 2,212
-virakesarilk | 2,752
+virakesarilk | 2,753
 dailymirrorlk | 2,820
-adaderanasinhalalk | 2,993
+adaderanasinhalalk | 2,994
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,484 (100.0%) of 18,485 articles have been extended.
+18,485 (100.0%) of 18,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### කක්කල් කැස්ස රෝගීන් ඉහළට
+### නීතිවිරෝධීව රැගෙන ආ භාණ්ඩ රැසක් කටුනායකදී හසුවෙයි
+
+*2024-04-11 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195548) · `si`
+
+ඉන්දියාවේ සිට පැමිණි ගුවන් මගීන් දෙදෙනෙකු සහ ඩුබායි සිට පැමිණි ගුවන් මගියෙකු කටුනායකදී අද (11) අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ තීරුබදු නොගෙවා රේගුවට ප්‍රකාශ නොකර භාණ්ඩ තොගයක් රැගෙන ඒමේ සිද්ධියක් සම්බන්ධයෙනි.
+
+කටුනායක ගුවන්තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් වැටලීම සිදුකර තිබේ.
+
+එහිදී විදේශීය මත්පැන් බෝතල් 111ක්, දුම්වැටි තොගයක්, පරිගණක උපාංග රැසක් තිබී සොයාගෙන ඇත.
+
+සැකකරුවන් ශ්‍රී ලාංකිකයන් වන අතර ඔවුන් කොළඹ 13 සහ මස්කෙළිය ප්‍රදේශවල පදිංචිකරුවන්ය.
+
+◼️
+
+[Data](articles/a8d116a9.json)
+
+---
+
+### Cattle patients rise
 
 *2024-04-11 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195547) · `si`
 
-ශ්වසන පද්ධතිය ආශ්‍රිතව බෝවන රෝගයක් වන කක්කල් කැස්ස යළි ලොව පුරා රටවල් කිහිපයක ව්‍යාප්ත වෙමින් පවතින බව වාර්තා වෙයි.
+Kakawkel cough spreads globally, with significant increases in the Philippines, Netherlands, America, and Britain. China reports 32,380 cases and 13 deaths in the first two months, a 20% rise from last year.
 
-වාර්ෂිකව ලොව පුරා කක්කල් කැස්ස රෝගීන් හා මරණ යම් ප්‍රමාණයක් වාර්තා වුවද මේ වසරේ එහි වර්ධනයක් පෙන්නුම් කරන බව විදෙස් මාධ්‍ය පවසයි.
+🟩
 
-විශේෂයෙන් චීනය, පිලිපීනය, නෙදර්ලන්තය, අමෙරිකාව හා බ්‍රිතාන්‍ය යන රටවලින් එම රෝග ව්‍යාප්තියේ ඉහළ යාමක් පෙන්නුම් කරන බව සඳහන් ය.
+It is reported that Kakawkel cough is spreading in several countries around the world.
 
-මේ වසරේ පළමු මාස දෙක තුළ පමණක් චීනයෙන් කක්කල් කැස්ස වැළඳුණු රෝගීන් 32,380 දෙනෙකු වාර්තා වී ඇති අතර සිදුවී ඇති මරණ සංඛ්‍යාව 13ක් බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+The annual number of cow patients and deaths worldwide, the foreign media said.
 
-එය පසුගිය වසරට සාපේක්ෂව සියයට 20ක ඉහළ යාමක් බව චීන බලධාරීන් පෙන්වාදී තිබේ.
+In particular, the Philippines, the Philippines, Netherlands, America and Britain show that the prevalence of the disease.
 
-පිලිපීනයේ ද කක්කල් කැස්ස රෝගීන් සංඛ්‍යාව පසුගිය වසරට සාපේක්ෂව සියයට 34ක ඉහළ යාමක් පෙන්නුම් කර ඇති බව වාර්තා විය.
+In the first two months of this year, 32,380 patients have been reported from China, and 13 deaths have been reported.
+
+The Chinese authorities have shown that it is 20 percent higher than last year.
+
+The number of cases of kascise patients in the Philippines has also increased significantly to a 40 percent increase over last year.
 
 ◼️
 
 [Data](articles/d99d69ef.json)
+
+[Extended Data](ext_articles/d99d69ef.ext.json)
 
 ---
 
@@ -129,6 +155,22 @@ The 28 -year -old father has been arrested on suspicion and has taken steps to b
 [Data](articles/76c51c73.json)
 
 [Extended Data](ext_articles/76c51c73.ext.json)
+
+---
+
+### கேப்பாப்புலவு காணி உரிமையாளர்களுக்கும் வடக்கு ஆளுநருக்கும் இடையே சந்திப்பு!
+
+*2024-04-11 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180990) · `ta`
+
+முல்லைத்தீவு மாவட்டம் கேப்பாப்புலவில் இராணுவத்தினரால் கையகப்படுத்தப்பட்டுள்ள காணிகளின் உரிமையாளர்கள் இன்று வட மாகாண ஆளுநரை சந்தித்து கலந்துரையாடினர்.
+
+முல்லைத்தீவு கேப்பாப்புலவில் இராணுவத்தினர் வசமுள்ள தமது சொந்தக் காணிகளை விடுவிக்கக்கோரி மக்கள் தொடர் போராட்டங்களில் ஈடுபட்டு வந்தனர்.
+
+அந்தவகையில் இன்றையதினம் இவ்வாறு ஆளுநரைச் சந்தித்தனர். தமது பிரச்சினைகள் குறித்து ஆராய்வதாக ஆளுநர் தெரிவித்ததாக குறிப்பிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/3d3735a4.json)
 
 ---
 
@@ -2215,39 +2257,5 @@ Her in-depth knowledge of multi sectors ranging from Industrial, Agricultural, S
 [Data](articles/3ff060eb.json)
 
 [Extended Data](ext_articles/3ff060eb.ext.json)
-
----
-
-### State Minister alleged to have abused and threatened the HR and Admin Assistant of Lanka Phosphate Company
-
-*2024-04-11 04:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/State-Minister-alleged-to-have-abused-and-threatened-the-HR-and-Admin-Assistant-of-Lanka-Phosphate-Company/108-280576) · `en`
-
-State Minister of Primary Industries Chamara Sampath Dassanayake is alleged to have severely abused and threatened the Human Resources and Administration Assistant of the Lanka Phosphate Company Mrs. H.D.V.K. Chandraratne in the presence of officials of the ministry and the company.
-
-The trade union Sri Lanka Nidahas Sevaka Sangamaya has informed the minister that it will resort to trade union action in case of recurrence of similar incidents in the future.
-
-Meanwhile the official concerned has requested Chairman of the Company Sandya Ambanwela to hold a formal investigation of the incident.
-
-She said she was called her to a meeting at the ministry and threatened and severely abused her in the presence of the Chairman and several senior officials of the company, on a allegation that she had harassed a casual employee.
-
-...
-
-[Data](articles/beb756db.json)
-
-[Extended Data](ext_articles/beb756db.ext.json)
-
----
-
-### Another withdrawn Gazette; controversy over auspicious times
-
-*2024-04-11 04:23:00* · [`islandlk`](http://island.lk/another-withdrawn-gazette-controversy-over-auspicious-times/) · `en`
-
-One government matter done with speed is withdrawing printed gazettes, withdrawing meaning: gazettes are printed, distributed and called back. This is totally stupid and lacking in responsibility. A matter has to be considered, thoroughly debated, and a clear, unambiguous statement/rule decided on unanimously or on majority consent. Not in this fair isle! A finger is thrust into the fire foolishly and finger withdrawn burnt. But no reprimand from on high (officials et al) and no protest from below (the citizenry).
-
-...
-
-[Data](articles/06918d3d.json)
-
-[Extended Data](ext_articles/06918d3d.ext.json)
 
 ---

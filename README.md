@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 18:33:51**
+As of **2024-04-11 18:52:02**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,493 (100.0%) of 18,494 articles have been extended.
+18,494 (100.0%) of 18,494 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### கட்டுநாயக்காவில் சட்டவிரோத பொருட்களுடன் மூவர் கைது!
+### Three arrested with illegal goods in Katunayake
 
 *2024-04-11 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181000) · `ta`
 
-இந்தியா மற்றும் டுபாயை சேர்ந்த மூன்று பயணிகள் கட்டுநாயக்கவில் வியாழக்கிழமை (11) கைது செய்யப்பட்டுள்ளனர்.
+Three passengers from India and Dubai were arrested in Katunayake for smuggling 111 foreign liquor bottles, cigarettes, and computer devices without customs clearance.
 
-சுங்கவரி செலுத்தாமல், சுங்கத்திற்கு அறிவிக்காமல் பொருட்கள் சிலவற்னை கொண்டு வந்த சம்பவம் தொடர்பில் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-அங்கு 111 வெளிநாட்டு மதுபான போத்தல்கள், நிறைய சிகரெட்டுகள் மற்றும் பல கணினி சாதனங்கள் கண்டுபிடிக்கப்பட்டன.
+Three passengers from India and Dubai were arrested in Katunayake on Thursday (11).
 
-சந்தேகநபர்கள் கொழும்பு 13 மற்றும் மஸ்கெலியா பிரதேசங்களை வசிப்பிடமாகக் கொண்ட இலங்கையர்கள் என்பது குறிப்பிடத்தக்கது.
+They have been arrested in connection with the incident of bringing some goods without paying customs and notifying the customs.
+
+There 111 foreign liquor bottles, a lot of cigarettes and many computer devices were found.
+
+It is noteworthy that the suspects are resident of Colombo 13 and Maskeliya areas.
 
 ◼️
 
 [Data](articles/b7e19d19.json)
+
+[Extended Data](ext_articles/b7e19d19.ext.json)
 
 ---
 

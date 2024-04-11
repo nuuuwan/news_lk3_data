@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 18:21:50**
+As of **2024-04-11 18:33:51**
 
 ## Newspaper Stats
 
-*Scraped **18,493** Articles*
+*Scraped **18,494** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,034
 adalk | 1,549
 tamilmirrorlk | 2,163
 adaderanalk | 2,213
-virakesarilk | 2,754
+virakesarilk | 2,755
 dailymirrorlk | 2,820
 adaderanasinhalalk | 2,995
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,492 (100.0%) of 18,493 articles have been extended.
+18,493 (100.0%) of 18,494 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### கட்டுநாயக்காவில் சட்டவிரோத பொருட்களுடன் மூவர் கைது!
+
+*2024-04-11 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181000) · `ta`
+
+இந்தியா மற்றும் டுபாயை சேர்ந்த மூன்று பயணிகள் கட்டுநாயக்கவில் வியாழக்கிழமை (11) கைது செய்யப்பட்டுள்ளனர்.
+
+சுங்கவரி செலுத்தாமல், சுங்கத்திற்கு அறிவிக்காமல் பொருட்கள் சிலவற்னை கொண்டு வந்த சம்பவம் தொடர்பில் கைது செய்யப்பட்டுள்ளனர்.
+
+அங்கு 111 வெளிநாட்டு மதுபான போத்தல்கள், நிறைய சிகரெட்டுகள் மற்றும் பல கணினி சாதனங்கள் கண்டுபிடிக்கப்பட்டன.
+
+சந்தேகநபர்கள் கொழும்பு 13 மற்றும் மஸ்கெலியா பிரதேசங்களை வசிப்பிடமாகக் கொண்ட இலங்கையர்கள் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b7e19d19.json)
+
+---
 
 ### A continued fuel supply during the year
 
@@ -56,21 +74,27 @@ The Petroleum Corporation stated that the Ceylon Petroleum Carryer Company has b
 
 ---
 
-### மரத்திலேறியவர் கிணற்றிலிருந்து சடலமாக மீட்பு
+### Recovery from the well to the tree
 
 *2024-04-11 17:57:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரத்திலேறியவர்-கிணற்றிலிருந்து-சடலமாக-மீட்பு/76-335853) · `ta`
 
-புத்தாண்டுக்காக வெற்றிலை பறிப்பதற்கு மரமொன்றில் ஏறியவர், கிளை முறிந்து விழுந்தமையால், கிணற்றில் விழுந்து மரணமாக சம்பவமொன்று பலாங்கொடை சத்தல்பொல பிரதேசத்தில்  இடம்பெற்றுள்ளதாக  பலாங்கொடை பொலிஸார் தெரிவித்தனர்.
+A man fell from a 40-foot tree into a well during New Year celebrations, dying from injuries. He was the father of three.
 
-துங்கிந்த திஸாநாயக்கலைச் சேர்ந்த  (52) என்பவரே இவ்வாறு மரணமடைந்துள்ளார் இவர் மூன்று பிள்ளைகளின் தந்தையே இவ்வாறு உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+🟩
 
-புத்தாண்டு பண்டிகைக்கு தேவையான வெற்றிலையை பறிக்க தோட்டத்தில் உள்ள40 அடி மரத்தில் ஏறியுள்ளார்.
+Balangoda police said that a man who climbed into a tree for the New Year, fell into a well and fell into a well.
 
-மரத்தின் இற்றுப்போன கிளை ஒன்றை பிடித்தபோது அக்கிளை  முறிந்தமையால் அவர், மரத்திலிருந்து கிணற்றுக்குள் விழுந்து விட்டதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+The deceased is the father of three children, who died from the Dissanayakkal (52).
+
+He has climbed into a 40 -foot tree in the garden to pluck the new festival for the New Year.
+
+Police say that when he caught a tree of the tree, he had fallen from the tree to the well.
 
 ◼️
 
 [Data](articles/0c14e9e9.json)
+
+[Extended Data](ext_articles/0c14e9e9.ext.json)
 
 ---
 
@@ -2273,23 +2297,5 @@ Following this session, an Adjournment Debate on the Easter Sunday attack will t
 [Data](articles/b1e77d44.json)
 
 [Extended Data](ext_articles/b1e77d44.ext.json)
-
----
-
-### Sri Lanka condemns attack on Iranian Consulate in Damascus
-
-*2024-04-11 05:00:10* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-condemns-attack-on-Iranian-Consulate-in-Damascus/56-760574) · `en`
-
-Sri Lanka yesterday condemned the attack on the Iranian Consulate in Damascus and called for strict adherence to Vienna Conventions on Diplomatic Relations, especially with regard to protection of personnel and premises of diplomatic missions.
-
-“Sri Lanka wishes to urge all parties concerned to exercise restraint, refrain from use of violence, and not to exacerbate the already volatile security situation in the region,” Foreign Affairs Ministry said in a statement.
-
-“Sri Lanka conveys its sincere condolences to the bereaved families due to the attack and the Government and the people of the Islamic Republic of Iran,” it added.
-
-...
-
-[Data](articles/4fd01698.json)
-
-[Extended Data](ext_articles/4fd01698.ext.json)
 
 ---

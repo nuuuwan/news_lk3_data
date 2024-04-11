@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 14:18:24**
+As of **2024-04-11 14:33:43**
 
 ## Newspaper Stats
 
-*Scraped **18,464** Articles*
+*Scraped **18,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,77 @@ dbsjeyarajcom | 214
 newsfirstlk | 363
 islandlk | 1,013
 dailyftlk | 1,018
-economynextcom | 1,033
+economynextcom | 1,034
 adalk | 1,549
 tamilmirrorlk | 2,156
 adaderanalk | 2,208
-virakesarilk | 2,749
+virakesarilk | 2,750
 dailymirrorlk | 2,817
-adaderanasinhalalk | 2,988
+adaderanasinhalalk | 2,989
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,463 (100.0%) of 18,464 articles have been extended.
+18,464 (100.0%) of 18,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### ටෙස්ලා අරන් ඊලොන් මස්ක් ඉන්දියාව ට
+
+*2024-04-11 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195541) · `si`
+
+ලොව ධනවත් ම පුද්ගලයෙක් ලෙස සැලකෙන ඊලොන් මස්ක්, ඉන්දීය අගමැති නරේන්ද්‍ර මෝදී ව හමුවීම සඳහා ඉන්දියාවට පැමිණීමට නියමිත බව මස්ක් 'X" පණිවුඩයක් නිකුත්කරමින් පවසයි.
+
+ඔහුගේ මෙම සංචාරයේ අරමුණ ටෙස්ලා කර්මාන්ත ශාලාවක් ස්ථාපනය කිරීම සඳහා ආයෝජනය කිරීම සම්බන්ධයෙන් එකඟතාවයකට පැමිණීම බව වාර්තා විය.
+
+පසුගිය සතියේදී විද්‍යුත් වාහන ආනයන බද්ද සැලකිය යුතු ලෙස අඩු කිරීමට ඉන්දියාව කටයුතු කළේය.
+
+ඩොලර් මිලියන 500කට වැඩි මුදලක් ආයෝජනය කිරීම සහ වසර තුනක් අතුළත දේශීය වශයෙන් නිෂ්පාදන කර්මාන්ත ශාලාවක් ආරම්භ කිරීමටත් හැකියාව ඇති මෝටර් රථ නිෂ්පාදන සමාගම් සඳහා එම අවස්ථාව යටතේ විද්‍යුත් වාහන ආනයනයට හැකියාව හිමිවෙයි.
+
+ටෙස්ලා සමාගමේ ප්‍රධානියා වන මස්ක්, 2021 දී පැවසුවේ අධික ආනයන බදු හේතුවෙන් තම සමාගමේ මෝටර් රථ ඉන්දියාවේ එළිදැක්වීම ට බාධා එල්ලවී ඇති බවය.
+
+◼️
+
+[Data](articles/4f4d7d37.json)
+
+---
+
+### மருதானையில் வாள், கைக்குண்டுகளுடன் மூவர் கைது!
+
+*2024-04-11 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/180978) · `ta`
+
+கொழும்பு வாழைத்தோட்ட பிரதேசத்தில்  ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பலைச் சேர்ந்தவர்களைத்  தாக்குவதற்கு மறைத்து வைக்கப்பட்டிருந்த T-56 ரக துப்பாக்கி, 14 தோட்டாக்கள் அடங்கிய மகசீன், வாள், கைக்குண்டு போன்றவற்றுடன் மூவர் மருதானை பிரதேசத்தில் கைது செய்யப்பட்டுள்ளதாக  பொலிஸ் விசேட அதிரடிப் படையினர் தெரிவித்தனர். .
+
+மருதானை பொலிஸ் பிரிவுக்கு உட்பட்ட ஸ்ரீ போதிராஜாராம விஹாரைக்கு  பின்புறம் உள்ள வீடொன்றுக்கு அருகில் நேற்று புதன்கிழமையன்று  (10) மேற்கொள்ளப்பட்ட சோதனை நடவடிக்கையின்  போதே  சந்தேக நபர்கள் மூவரும் கைது செய்யப்பட்டுள்ளனர்.
+
+அத்தோடு,  ஸ்ரீ போதிராஜாராம விகாரைக்கு  பின்புறமாக உள்ள வீட்டின் மேற்கூரையின் பின்பகுதியில் பயணப் பையிலிருந்தே இவை கைப்பற்றப்பட்டுள்ளன.
+
+கைது செய்யப்பட்ட சந்தேகநபர்கள் மூவரும் கொழும்பு 10 பிரதேசத்தில் வசிக்கும் 18, 34 மற்றும் 47 வயதுடையவர்கள் என விசேட அதிரடிப்படை தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/35d1901a.json)
+
+---
+
+### Sri Lanka consumer confidence surges to new peak in March 2024
+
+*2024-04-11 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-confidence-surges-to-new-peak-in-march-2024-158296/) · `en`
+
+ECONOMYNEXT — Consumer confidence in Sri Lanka surged to a new peak in March 2024 though all three indices run by the Institute for Health Policy (IHP), which ran the survey, were still at pessimistic levels.
+
+The IHP’s March 2024 Consumer Confidence Indices, which are generated from its Sri Lanka Opinion Tracker Survey (SLOTS), improved to a new all-time peak in March, the institute said in a statement on Wednesday April 11.
+
+The Index of Consumer Sentiment (ICS), the broadest measure of the public’s view of their personal economic status and the national economy gained 9 points to 31 points. The Index of Consumer Expectations (ICE), which tracks future perceptions increased 9 points to 37 points. The Index of Current Conditions (ICC), a measure of perceptions of current conditions, also increased 9 points to 22 points, the IHP said.
+
+...
+
+[Data](articles/db678534.json)
+
+---
 
 ### Vietnamese tycoon accused in multi-billion dollar bank fraud faces possible death sentence
 
@@ -69,6 +123,8 @@ The police also said that these thefts happen mostly on the Badulla-Colombo long
 ◼️
 
 [Data](articles/4445cf5b.json)
+
+[Extended Data](ext_articles/4445cf5b.ext.json)
 
 ---
 
@@ -2163,73 +2219,5 @@ In the future, the mechanisms and opportunities to improve cooperation between t
 [Data](articles/823b904f.json)
 
 [Extended Data](ext_articles/823b904f.ext.json)
-
----
-
-### Subhaveli deed handed over to the president
-
-*2024-04-10 23:27:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுபவேளை-பத்திரம்-ஜனாதிபதியிடம்-கையளிப்பு/175-335841) · `ta`
-
-President Ranil Wickremesinghe received the Subhaveli deed from the Department of Cultural Affairs, including details on New Year's celebrations.
-
-🟩
-
-President Ranil Wickremesinghe was formally handed over to President Ranil Wickremesinghe at the Presidential Office yesterday.
-
-The President was handed over to the President by the Subhaveli Reference Record, prepared by the Department of Cultural Affairs.
-
-Buddha Sasana, Minister of Religious and Cultural Affairs Vidura Wickramanayaka handed over to the President.
-
-A good times are mentioned in the deed, including New Year's birth, sacred period, food cooking, stove, eating, heading oil, and going to work in the New Year.. (A)
-
-◼️
-
-[Data](articles/be9a042a.json)
-
-[Extended Data](ext_articles/be9a042a.ext.json)
-
----
-
-### And more than 1,82,140 families
-
-*2024-04-10 23:22:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-1-82-140-குடும்பங்களுக்கு-அஸ்வெசும/175-335840) · `ta`
-
-Over 1.82 million families now eligible for Azwezuma allowance, with all payments, including arrears, to be deposited on April 18. Currently, 18.54 million people receive the allowance, costing 58.5 billion rupees.
-
-🟩
-
-Finance Minister Shehan Semasinghe says more than 1,82,140 families have been eligible for the Azwezuma allowance after the appeals and objections have been reviewed.
-
-He said that all payments, including arrears, will be deposited in bank accounts at 18 April.
-
-Accordingly, 18,54,000 people are currently receiving the allowance of Aswesum and the Minister of Finance said that 58.5 billion rupees are spent on it.. (A)
-
-◼️
-
-[Data](articles/8dae46c5.json)
-
-[Extended Data](ext_articles/8dae46c5.ext.json)
-
----
-
-### Congenital adrenal hyperplasia
-
-*2024-04-10 22:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180939) · `ta`
-
-Congenital Adrenal Hyperplasia (CAH) is a genetic disorder affecting the adrenal glands, leading to hormone imbalances. Symptoms include irregular menstrual cycles, fertility issues, and acne. Diagnosis involves prenatal testing, and treatment includes medication, nutritional support, and in some cases, surgery.
-
-🟩
-
-Some of us have a lack of adrenal in the gland. This is referred to as Conjinal Adrenal Hyperplasia in the medical language. Doctors say that this is currently being relieved of modern medical treatments.
-
-The upper part of the kidney in each body has a small amount of gland. It is the name of the adrenal gland. This gland also secretes various hormones. Its hormone helps in a variety of matters such as immunity, metabolism, and essential activity. Such hormone gland function- Some people in the process are defective.
-
-Doctors report such a damage due to genetic impaired. Such a defect occurs in two types of classic and I classic. Doctors report that classic type is rare and I often occur in the classic type of people between the ages of 5 to 15 years.
-
-...
-
-[Data](articles/44cb8391.json)
-
-[Extended Data](ext_articles/44cb8391.ext.json)
 
 ---

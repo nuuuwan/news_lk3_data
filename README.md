@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 20:51:30**
+As of **2024-04-11 21:03:36**
 
 ## Newspaper Stats
 
-*Scraped **18,501** Articles*
+*Scraped **18,504** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ dailyftlk | 1,018
 economynextcom | 1,034
 adalk | 1,549
 tamilmirrorlk | 2,163
-adaderanalk | 2,214
-virakesarilk | 2,756
+adaderanalk | 2,215
+virakesarilk | 2,757
 dailymirrorlk | 2,823
-adaderanasinhalalk | 2,996
+adaderanasinhalalk | 2,997
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,500 (100.0%) of 18,501 articles have been extended.
+18,501 (100.0%) of 18,504 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### மியன்மாரில் மீட்கப்பட்ட 8 இலங்கையர்கள் வெகுவிரைவில் இலங்கைக்குத் திருப்பியனுப்பப்படுவர் - வெளிவிவகார அமைச்சு உறுதி
+
+*2024-04-11 20:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181002) · `ta`
+
+மியன்மாரின் மியவடி பகுதியிலிருந்து மீட்கப்பட்ட 8 இலங்கையர்கள் பாங்கொக்கில் உள்ள இலங்கை தூதரக அதிகாரிகளால் வியாழக்கிழமை (11) பொறுப்பேற்றுக்கொள்ளப்பட்டிருப்பதாகவும், அவர்கள் வெகுவிரைவில் இலங்கைக்குத் திருப்பியனுப்பிவைக்கப்படுவார்கள் எனவும் வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+
+'மியன்மாரின் மியவடி பகுதியிலிருந்து கடந்த மார்ச் 4 ஆம் திகதி மியன்மார் நாட்டு அதிகாரிகளால் மீட்கப்பட்ட இலங்கையர்கள் அவ்வதிகாரிகளின் பாதுகாப்பின்கீழ் தங்கவைக்கப்பட்டிருந்தனர். அதனைத்தொடர்ந்து அவர்கள் தாய்லாந்தின் மியோஸோற் அழைத்துச்செல்லப்பட்டு, தாய்லாந்து குடியகல்வு அதிகாரிகளிடம் ஒப்படைக்கப்பட்டனர். தற்போது அவர்கள் பாங்கொக்கில் உள்ள இலங்கை தூதரக அதிகாரிகளின் பாதுகாப்பில் உள்ளனர்' என வெளிவிவகார அமைச்சு இதுபற்றி விளக்கமளித்துள்ளது.
+
+அதேவேளை மியன்மார் அதிகாரிகளால் மீட்கப்பட்ட இலங்கையர்களை இலங்கைக்கு அழைத்துவருவது தொடர்பில் வெளிவிவகார அமைச்சர் அலி சப்ரி மியன்மார் மற்றும் தாய்லாந்து நாடுகளின் வெளிவிவகார அமைச்சர்களுடன் கலந்துரையாடியிருந்தார்.
+
+...
+
+[Data](articles/bead67b0.json)
+
+---
+
+### මාතර හෝටලයකට පැන්න තිහගොඩ පොලීසිය ට චෝදනාවක්
+
+*2024-04-11 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195551) · `si`
+
+මාතර තිහගොඩ ප්‍රදේශයේ හෝටලයකට පැමිණි තිහගොඩ පොලිස් ස්ථානයේ නිලධාරීන් එහි හිමිකරු සහ ඔහුගේ මවට පදනම් විරහිත චෝදනා සිදුකර අත්අඩංගුවට ගත් බව හෝටලයේ හිමිකරු පවසයි.
+
+මාතර තිහගොඩ ප්‍රදේශයේ පවත්වාගෙන යන මෙම හෝටලයට ඉකුත් පළමු වනදා තිහගොඩ පොලිස් ස්ථානයේ නිලධාරීන් පිරිසක් පැමිණ තිබුණි.
+
+ඒ හෝටලය තුළ නීතිවිරෝධීව මත්පැන් ජාවාරමක් සිදුකළ බවට චෝදනා කරමිනි.
+
+මෙහිදී හෝටලයේ හිමිකරුගේ මව අත්අඩංගුවට ගැනීමට යාමේදී ඇතිවූයේ දැඩි උණුසුම් තත්ත්වයකි.
+
+එහිදී පොලිස් නිලධාරීන් විසින්, හෝටලයේ හිමිකරුගේ මව නීතිවිරෝධි මත්පැන් නිෂ්පාදනය සහ හෙරොයින් ළඟ තබාගැනීමේ චෝදනාව යටතේත් හෝටලයේ හිමිකරු රාජකාරියට බාධා කිරීමේ චෝදනාව යටතේත් අත්අඩංගුවට ගෙන තිබුණි.
+
+තිහගොඩ පොලී‍සිය සඳහන් කළේ, එම ස්ථානයේ තිබී නීතිවිරෝධී මත්පැන් ලීටර් එකහමාරක් සහ හෝටලයේ හිමිකරුගේ මව සන්තකයේ තිබී හෙරොයින් ග්‍රෑම් 3යි මිලිග්‍රෑම් 700ක් ද පොලිස් භාරයට ගත් බවය.
+
+කෙසේවෙතත් හෝටලයේ හිමිකරු චෝදනා කරන්නේ මාතර ජ්‍යේෂ්ඨ පොලිස් අධිකාරී කාර්යාලයේ උසස් නිලධාරියෙකුගේ බලපෑම මත තමන්ට සහ තම මවට තිහගොඩ පොලිස් ස්ථානයේ නිලධාරීන් පදනම් විරහිත චෝදනා එල්ලකර ඇති බවය.
+
+...
+
+[Data](articles/692a5382.json)
+
+---
 
 ### Three businessmen nabbed with illegally imported goods at BIA
 
@@ -51,6 +91,8 @@ The seized goods and the arrested businessmen have been handed over to the airpo
 ◼️
 
 [Data](articles/ec63e044.json)
+
+[Extended Data](ext_articles/ec63e044.ext.json)
 
 ---
 
@@ -77,6 +119,30 @@ He added that the details of the accident were still under investigation.
 [Data](articles/86e2f7db.json)
 
 [Extended Data](ext_articles/86e2f7db.ext.json)
+
+---
+
+### At least 17 pilgrims killed, dozens injured in Pakistan bus crash
+
+*2024-04-11 19:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98579/at-least-17-pilgrims-killed-dozens-injured-in-pakistan-bus-crash) · `en`
+
+At least 17 Pakistani pilgrims have died in a bus crash while travelling to a shrine in Balochistan for Eid-al-Fitr celebrations.
+
+The accident occurred late on Wednesday officials say, when the vehicle lost control before falling into a ravine.
+
+More than 40 are also being treated for injuries in Karachi and police have warned casualties could rise.
+
+High-fatality crashes are common in Pakistan, often caused by driver error and poorly maintained roads.
+
+Balochistan Chief Minister Sindh Murad Ali Shah told reporters that two children were among the injured, and that at least five people had sustained serious head injuries.
+
+“They were all very poor people,” he said of the victims, describing them as labourers who had been travelling by truck from the Thatta region in the country’s south, to visit a Sufi Muslim temple in the remote city of Khuzdar some 500km (310 miles) away.
+
+He added that the details of the accident were still under investigation.
+
+...
+
+[Data](articles/a1315527.json)
 
 ---
 
@@ -2273,61 +2339,5 @@ The event was graced by the presence of our esteemed chief guests: Dr. Janaka Ja
 [Data](articles/091d47ca.json)
 
 [Extended Data](ext_articles/091d47ca.ext.json)
-
----
-
-### Decline: Why Ranil and Sajith ain’t no JR and Premadasa
-
-*2024-04-11 05:35:47* · [`dailyftlk`](https://www.ft.lk/columns/Decline-Why-Ranil-and-Sajith-ain-t-no-JR-and-Premadasa/4-760584) · `en`
-
-Having watched recent TV performances by JVP leaders and NPP’s Dr. Harini Amarasuriya’s charming admission that though she reads Marx she is not a Marxist-Leninist nor is the leftist NPP, the SJB’s shadow finance minister Dr. Harsha de Silva experienced a “gotcha moment”. He exclaimed that this revealed a hugely problematic gap, and referring to the JVP’s admissions, challenged: “who can say they ‘love Marx’ and go to the IMF? No one does that! Tell me one country that does?” harsha de silva vcut (youtube.com)
-
-The obvious answer is Ceylon/Sri Lanka and Dr. N.M. Perera, Minister of Finance, whose first visit to the IMF was in 1970. He was the Marxist leader of the country’s oldest and largest Marxist party. The IMF and World Bank engagement under his stewardship was critiqued by two widely-read books of the day, Cheryl Payer’s The Debt Trap and Teresa Hayter’s Aid as Imperialism.
-
-...
-
-[Data](articles/11f0555f.json)
-
-[Extended Data](ext_articles/11f0555f.ext.json)
-
----
-
-### Deeply Passionate about modelling and the fashion industry
-
-*2024-04-11 05:25:00* · [`islandlk`](http://island.lk/deeply-passionate-about-modelling-and-the-fashion-industry/) · `en`
-
-Hey there! I’m a 30-year-old guy, deeply passionate about modelling and the fashion industry. Every day is an exciting adventure as I get to work with incredible designers, photographers, and stylists to bring their visions to life. My job takes me to various locations, from bustling cities to serene landscapes, for photo shoots and runway shows. I love the creativity and versatility this career offers, allowing me to express myself through different styles and concepts. It’s a fast-paced world, but I thrive on the energy and challenges it brings.
-
-I decided to become a model because I have a deep passion for fashion, creativity, and self-expression. The opportunity to collaborate with talented individuals in the industry, such as designers, photographers, and stylists, was a major driving force. Overall, modelling allows me to showcase my unique personality and style while pursuing a career that fuels my passion for creativity and expression.
-
-...
-
-[Data](articles/6f9d8383.json)
-
-[Extended Data](ext_articles/6f9d8383.ext.json)
-
----
-
-### The Falcon and Falconer
-
-*2024-04-11 05:24:15* · [`dailyftlk`](https://www.ft.lk/columns/The-Falcon-and-Falconer/4-760583) · `en`
-
-No society can surely be flourishing and happy, of which the far greater part of the members are poor and miserable.
-
-“The difficulty lies not so much in developing new ideas as in escaping from old ones.”
-
-It is showdown time. I borrowed the caption from the ‘The Second Coming’ by W.B. Yeats. Things fall apart and the centre cannot hold. Passionate intensity dictates debate.
-
-The next election, Presidential or Parliamentary will be a ‘head-to-head’ encounter between the ‘dominant’ and the ‘dominated.’
-
-Despite polls and engineered parades, the dismantling of the hegemony of the dominant class is not a certainty. Since hope is not optimism, I would say that it is a near certainty.
-
-The Bastille will be breached. If not totally, substantially. 2024 is the year when people of Sri Lanka will prove Heraclitus right. “No man ever steps in the same river twice, for it’s not the same river and he’s not the same man.”
-
-...
-
-[Data](articles/efc79ac3.json)
-
-[Extended Data](ext_articles/efc79ac3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 11:18:19**
+As of **2024-04-11 11:34:02**
 
 ## Newspaper Stats
 
-*Scraped **18,435** Articles*
+*Scraped **18,438** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ dailyftlk | 1,018
 economynextcom | 1,027
 adalk | 1,548
 tamilmirrorlk | 2,156
-adaderanalk | 2,204
-virakesarilk | 2,742
+adaderanalk | 2,205
+virakesarilk | 2,743
 dailymirrorlk | 2,812
-adaderanasinhalalk | 2,984
+adaderanasinhalalk | 2,985
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,434 (100.0%) of 18,435 articles have been extended.
+18,435 (100.0%) of 18,438 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### Amnesty urges accountability for ‘unlawful use of weapons’ in policing of protests in SL
+
+*2024-04-11 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98570/amnesty-urges-accountability-for-unlawful-use-of-weapons-in-policing-of-protests-in-sl) · `en`
+
+Sri Lanka’s law enforcement officials who engaged in the violent repression of protests must be held accountable for committing widespread human rights violations, Amnesty International said in a new investigative report released on Wednesday (10).
+
+According to the rights group, the report, ‘Ready to suppress any protest in Sri Lanka: Unlawful use of weapons during protests’, has analysed the use of force during policing of 30 protests that took place in Sri Lanka between March 2022 and June 2023.
+
+Amnesty International said its research showed a pattern in the unlawful use of tear gas and water cannon and the misuse of batons by Sri Lankan law enforcement officials with video evidence revealing that in at least 17 protests – more than half of those analysed – the conduct of law enforcement officials fell well short of international law and standards on the use of force.
+
+...
+
+[Data](articles/3e7b5c20.json)
+
+---
+
+### வடமராட்சி பாடசாலை அதிபரையும் வலயக் கல்விப் பணிப்பாளரையும் விசாரணைக்கு அழைத்த மனித உரிமைகள் ஆணைக்குழு!
+
+*2024-04-11 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180953) · `ta`
+
+வடமராட்சியில் உள்ள ஆரம்பப் பாடசாலையொன்றின் அதிபரையும் வடமராட்சி வலயக்கல்வி பணிப்பாளரையும் எதிர்வரும் 24.04.2024 அன்று இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாண அலுவலகத்தில் முன்னிலையாகி பாடசாலையில் நிதி சேகரிப்பு தொடர்பில் விளக்கமளிக்குமாறு கடிதம் அனுப்பப்பட்டுள்ளது.
+
+குறித்த பாடசாலையின் அதிபர் உள்ளிட்ட சிலர் வாட்ஸப் சமூக ஊடக குழு ஒன்றின் மூலம் மாணவர்களின் பெற்றோர்களிடம் பணம் பெற்று வந்துள்ளதாக நேற்று புதன்கிழமையன்று செய்திகள் வெளியாகி இருந்தன.
+
+அந்தவகையில் குறித்த பாடசாலையின் நற்பெயருக்கு களங்கம் ஏற்பட்டு விட்டதாக நேற்றையதினம் ஒரு தரப்பினர் போராட்டம் செய்திருந்தனர்.
+
+இந்நிலையில் குறித்த நிதி சேகரிப்பு குறித்து விசாரணை நடாத்துவதற்காக இவ்வாறு அழைப்பு விடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0fe767bf.json)
+
+---
 
 ### Father of 3 children fell down
 
@@ -83,6 +117,28 @@ The Fort Railway Station was also present at the time of the year.
 [Data](articles/47e48815.json)
 
 [Extended Data](ext_articles/47e48815.ext.json)
+
+---
+
+### වීසා ඉක්මවූ විදේශිකයන් 2,400ක් ශ්‍රී ලංකාවේ
+
+*2024-04-11 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195536) · `si`
+
+වීසා කාලය ඉක්මවූ 2,400 ඉක්මවූ විදේශිකයන් පිරිසක් මෙරට තුළ සිටින බව ආගමන විගමන දෙපාර්තමේන්තුව පවසයි.
+
+සංචාරක ක්ෂේත්‍රය ආශ්‍රිතව මෙරට තුළ ව්‍යාපාරවල නිරතවන විදේශීකයන් සම්බන්ධයෙන් පාර්ලිමේන්තුවේ පැවති රාජ්‍ය ගිණුම් පිළිබඳ කාරක සභාවේදී යොමුකළ ප්‍රශ්නයකට පිළිතුරු ලබාදෙමින් ඔවුන් මේබව සඳහන් කළේය.
+
+මෙහිදී අදහස් දක්වමින් සංචාරක රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය පවසා සිටියේ, වැලිගම ප්‍රදේශයේ රුසියානු සහ යුක්‍රේන ජාතිකයින් රැසක් වෙළෙඳාම් කටයුතුවල නියැලෙන බවය.
+
+මෙහිදී වැඩිදුරටත් අදහස් දක්වමින් රාජ්‍ය අමාත්‍යවරිය පවසා සිටියේ, මෙම තත්ත්වයට කඩිනමින් විසඳුමක් ලබාදුන්නේ නැත්නම් ඉතා භයානක තත්ත්වයක් ඇති විය හැකි බවට දේශීය වෙළෙඳුන් අනතුරු ඇඟවූ බවය.
+
+මේ අතර ඊශ්‍රායල ජාතිකයින් ද මේ වනවිට දකුණු පළාතේ වෙළෙඳාම් සිදුකරන බවට තොරතුරු ලැබී ඇතැයි පැවසු ඩයනා ගමගේ මහත්මිය, මෙම වෙළෙඳාම් කටයුතු සඳහා සහාය ලබාදෙන දේශීය පුද්ගලයින්ව වහාම අත්අඩංගුවට ගත යුතු බව ද පැවසීය.
+
+ආගමන විගමන දෙපාර්තමේන්තුවේ, අධ්‍යක්ෂ ජනරාල් අයි.එස්.එච්.ජේ.ඉළුක්පිටිය මහතා මෙහිදී අදහස් දක්වමින් පවසා සිටියේ, මේ සඳහා මේ වනවිටත් වැඩසටනක් දියත් කර ඇති බවය.
+
+...
+
+[Data](articles/c8bfd6b2.json)
 
 ---
 
@@ -469,6 +525,8 @@ Meanwhile , during a separate meeting, Chinese Prime Minister Li Qiang has raise
 ...
 
 [Data](articles/6e82e1f9.json)
+
+[Extended Data](ext_articles/6e82e1f9.ext.json)
 
 ---
 
@@ -2153,67 +2211,5 @@ The Ministry of Public Administration has announced Monday 15th as a public holi
 [Data](articles/0caabcbb.json)
 
 [Extended Data](ext_articles/0caabcbb.ext.json)
-
----
-
-### April 15
-
-*2024-04-10 18:34:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-15-பொது-விடுமுறை/175-335825) · `ta`
-
-The Ministry of Home Affairs declared April 15 a public holiday for public servants, due to the national oil supply on that day. This decision was also influenced by public demands for a holiday ahead of Sinhala and Tamil New Year.
-
-🟩
-
-Secretary to the Ministry of Home Affairs Pradeep Yasaratne said that the Ministry of Home Affairs today announced a public holiday for all public servants.
-
-He told the Daily Mirror that the decision was taken as the national oil supply was scheduled to take place on Monday (15).
-
-Meanwhile, Home Affairs Minister Asoka Priyantha said that the public has made several demands to declare the public holiday on April 15 ahead of the upcoming Sinhala and Tamil New Year.
-
-◼️
-
-[Data](articles/52dbc25a.json)
-
-[Extended Data](ext_articles/52dbc25a.ext.json)
-
----
-
-### Violence in Jaffna
-
-*2024-04-10 18:31:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-வன்முறை-கும்பலின்-அட்டகாசம்/175-335824) · `ta`
-
-A violent gang damaged vehicles in Jaffna's Audiyapadam road, Tirunelveli.
-
-🟩
-
-Vehicles have been damaged by a violent gang that entered a house on the Audiyapadam road in Jaffna - Tirunelveli.
-
-◼️
-
-[Data](articles/6bb95eb6.json)
-
-[Extended Data](ext_articles/6bb95eb6.ext.json)
-
----
-
-### Sajith's notification from the compass
-
-*2024-04-10 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195519) · `si`
-
-Sajith's notification discusses a proposed debate between Anura Dissanayake and Sajith Premadasa, focusing on the rice project. Dissanayake initiated the conversation in 2013, but Premadasa has not accepted. The National Executive Committee suggests holding a debate before the 2024 presidential election to clarify the country's direction.
-
-🟩
-
-The National Executive Committee of the National Executive Committee of the National Executive Committee of the National Executive Committee of the National Executive Executive is an attempt to reintegrate in the debate between Anura Dissanayake and Sajith Premadasa.
-
-He also pointed out that the truth about it should be explained.
-
-"The first conversation of a debate between the two parties is prepared by the leader of our party leader Anura Kumara Dissanayake on 09.01.2013 with Sajith Premadasa on the rice project.. That is, Sajith Premadasa has responded to the thoughts raised by journalists regarding the situation in various media. "
-
-...
-
-[Data](articles/623a909c.json)
-
-[Extended Data](ext_articles/623a909c.ext.json)
 
 ---

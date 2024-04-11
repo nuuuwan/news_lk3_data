@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 09:52:28**
+As of **2024-04-11 10:04:14**
 
 ## Newspaper Stats
 
-*Scraped **18,421** Articles*
+*Scraped **18,425** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,113 @@ islandlk | 1,013
 dailyftlk | 1,018
 economynextcom | 1,027
 adalk | 1,547
-tamilmirrorlk | 2,154
-adaderanalk | 2,203
+tamilmirrorlk | 2,156
+adaderanalk | 2,204
 virakesarilk | 2,739
 dailymirrorlk | 2,809
-adaderanasinhalalk | 2,980
+adaderanasinhalalk | 2,981
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,419 (100.0%) of 18,421 articles have been extended.
+18,421 (100.0%) of 18,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### ஆதரவு குறித்து கருத்து தெரிவிக்க கட்சி தடை
+### ගුවන් හමුදා භටපිරිස් අඩුකරන්න තීරණයක්
+
+*2024-04-11 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195533) · `si`
+
+තාක්ෂණයට මුල්තැන දෙමින් ගුවන් භට පිරිස 35,000 සිට 18,000 දක්වා අඩු කරන බව ගුවන් හමුදාපති එයාර් මාර්ෂල් උදේනි රාජපක්ෂ මහතා පවසයි.
+
+ඔහු මේ බව සඳහන් කළේ, ගුවන් හමුදා මූලස්ථානයේ ඊයේ (10) පැවති ප්‍රවෘත්ති සාකච්ඡාවකදීය.
+
+...
+
+[Data](articles/dac5c2b6.json)
+
+---
+
+### South Korea opposition secures landslide victory in parliamentary vote
+
+*2024-04-11 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98569/south-korea-opposition-secures-landslide-victory-in-parliamentary-vote-) · `en`
+
+South Korea’s liberal opposition parties scored a landslide victory in a parliamentary election held on Wednesday, dealing a resounding blow to President Yoon Suk Yeol and his conservative party but likely falling just short of a super majority.
+
+The Democratic Party (DP) was projected to take 175 of the 300 seats in the new assembly, data from the National Election Commission and network broadcasters showed with all votes counted as of 10:32 a.m. (0132 GMT).
+
+A splinter liberal party considered allied with the DP was expected to take 12 seats, projections showed, leaving the bloc short of the 200 seats needed for a super-majority. Yoon’s People Power Party (PPP) was set to win 108 seats. An official announcement of the results is due later on Thursday.
+
+DP leader Lee Jae-myung, who led a combative campaign against Yoon, said the top priority now was to work for an economic recovery that is palpable for the average consumer.
+
+...
+
+[Data](articles/53af9eb5.json)
+
+---
+
+### 2 நாட்களும் விசேட நடவடிக்கை முன்னெடுக்கும் கலால் திணைக்களம்
+
+*2024-04-11 09:48:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-நாட்களும்-விசேட-நடவடிக்கை-முன்னெடுக்கும்-கலால்-திணைக்களம்/175-335847) · `ta`
+
+சட்டவிரோதமாக மதுபானம் விற்பனை செய்பவர்களை இலக்கு வைத்து கொழும்பில் இரண்டு பண்டிகைக் கால நாட்களில் விசேட நடவடிக்கையொன்றை முன்னெடுக்கவும், சிங்கள மற்றும் தமிழ் புத்தாண்டுக் காலத்தில் சட்டத்தை கடுமையாக நடைமுறைப்படுத்தவும் கலால் திணைக்களம் திட்டமிட்டுள்ளது.
+
+கெஸ்பேவ, பாதுக்க, பத்தரமுல்ல மற்றும் கொழும்பு நகரில் உள்ள நான்கு பிரதான கலால் நிலையங்களுடன் இணைந்து கூட்டு நடவடிக்கை ஏற்பாடு செய்யப்பட்டுள்ளதாக கொழும்பு நகரை மேற்பார்வையிடும் உயர் கலால் அதிகாரி ஒருவர் டெய்லி மிரருக்கு நேற்று தெரிவித்தார்.
+
+இதன் விளைவாக ஏப்ரல் 12 மற்றும் 13 ஆம் திகதிகளில் கலால் கட்டளைகளை மீறி மதுபானங்களை விற்பனை செய்யும் சட்டத்தை மீறுபவர்களைத் தேடி 50 க்கும் மேற்பட்ட அதிகாரிகள் பல குழுக்களாக நியமிக்கப்பட்டுள்ளனர்.
+
+புத்தாண்டுக்கு முன்னதாக மதுபானங்களை அதிக அளவில் கையிருப்பில் வாங்கி, கறுப்புச் சந்தையில் அதிக விலைக்கு விற்கும் ஒழுங்கமைக்கப்பட்ட விற்பனையாளர்கள் குறித்து தங்களுக்கு உளவுத்துறை தகவல் கிடைத்துள்ளது என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/158d700d.json)
+
+---
+
+### பிற்பகல் ஒரு மணிக்குப் பின்னர் இடியுடன் கூடிய மழை பெய்யும்
+
+*2024-04-11 09:41:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிற்பகல்-ஒரு-மணிக்குப்-பின்னர்-இடியுடன்-கூடிய-மழை-பெய்யும்/175-335846) · `ta`
+
+வடக்கு, வடமேல்,மேல் மற்றும்  சப்ரகமுவ மாகாணங்களிலும் அத்துடன் அனுராதபுரம், காலி மற்றும் மாத்தறை  மாவட்டங்களிலும்  இன்று அதிகரித்த வெப்பநிலை காணப்படுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+சூரியனின் வடக்கு நோக்கிய நகர்வின் காரணமாக இன்று மதியம் சுமார் 12.11 மணியளவில் வத்தலன்குண்டு, மதவாச்சி, கொரவப்பொத்தான மற்றும் திருகோணமலை   போன்ற இடங்களுக்கு மேலாக சூரியன் உச்சம் கொடுக்கின்றது.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் ஹம்பாந்தோட்டை மாவட்டத்திலும் அடிக்கடி மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+நாட்டின் ஏனைய பிரதேசங்களின் பல இடங்களில் பிற்பகல் ஒரு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+மத்திய, சப்ரகமுவ, மேல் மற்றும் தென் மாகாணங்களின் சில இடங்களில் 100 மில்லிமீற்றரிலும் கூடிய  பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+
+பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக் கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு  கேட்டுக்கொள்ளப்படுகின்றனர்.
+
+...
+
+[Data](articles/30b532d1.json)
+
+---
+
+### Party prohibited to comment on support
 
 *2024-04-11 09:35:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆதரவு-குறித்து-கருத்து-தெரிவிக்க-கட்சி-தடை/175-335845) · `ta`
 
-வரவிருக்கும் தேர்தல்கள் குறித்து SLPP எம்பிக்கள் முரண்பட்ட கருத்துக்களை வெளியிட்டதையடுத்து, முறையான முடிவு எடுக்கும் வரை எந்த ஒரு ஜனாதிபதி வேட்பாளருக்கும் தங்கள் ஆதரவு குறித்து கருத்து தெரிவிக்க கட்சி தலைமை இறைமை தடை விதித்துள்ளது என  கட்சி நிர்வாகி ஒருவர் நேற்று தெரிவித்தார்.
+The SLPP party has temporarily suspended support for any presidential candidate until MPs resolve conflicting views on upcoming elections. Ministers supporting President Ranil Wickremesinghe include Susil Premajayantha, Prasanna Ranatunga, and Ali Sabri. The party is divided, with some urging against a native candidate and threatening disciplinary action against those allied with other parties.
 
-SLPP தற்போது அதன் ஆதரவில் பிளவுபட்டுள்ளது, அரசாங்கத்தில் பதவிகளை வகிப்பவர்கள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் முன்மொழியப்பட்ட வேட்புமனுவை வெளிப்படையாக ஆதரிக்கின்றனர். அவர்களில் அமைச்சர்களான சுசில் பிரேமஜயந்த, பிரசன்ன ரணதுங்க மற்றும் அலி சப்ரி ஆகியோர் அடங்குவர்.
+🟩
 
-மற்றொரு பிரிவினர் சொந்த வேட்பாளரை நிறுத்த வேண்டும் என வலியுறுத்துகின்றனர். அத்துடன், கட்சியின் அரசியலமைப்பை மீறி, ஏனைய கட்சிகளுடன் இணைந்து செயற்படுபவர்களுக்கு எதிராக கடும் ஒழுக்காற்று நடவடிக்கை எடுக்கவும் கட்சி தீர்மானித்துள்ளது.
+A party administrator said yesterday that the party has banned the leadership sovereignty of any presidential candidate until the SLPP MPs made conflicting views on the upcoming elections.
+
+The SLPP is currently split in its support, who holds the positions in the government openly support the proposed nomination of President Ranil Wickremesinghe. They include ministers Susil Premajayantha, Prasanna Ranatunga and Ali Sabri.
+
+Another section urges the native candidate to be stopped. The party has also decided to take strict disciplinary action against those who work with other parties in violation of the party's constitution.
 
 ◼️
 
 [Data](articles/459317cc.json)
+
+[Extended Data](ext_articles/459317cc.ext.json)
 
 ---
 
@@ -1590,23 +1668,31 @@ Asked whether the announcement would violate the Olympic spirit, Coe was clear. 
 
 ---
 
-### ආයතන තුනකින් අපේක්ෂිත බදු ආදායම බිලියන 3789
+### Tax revenue from three institutions 3789 billion
 
 *2024-04-10 19:57:35* · [`adalk`](https://www.ada.lk/breaking_news/ආයතන-තුනකින්-අපේක්ෂිත-බදු-ආදායම-බිලියන-3789/11-409056) · `si`
 
-මෙම වසරේ දේශීය ආදායම් දෙපාර්තමේන්තුව, ශ්‍රී ලංකා රේගුව සහ ශ්‍රී ලංකා සුරා බදු දෙපාර්තමේන්තුවෙන් ඇස්තමේන්තුගත බදු ආදායම රුපියල් බිලියන 3,789ක් රජය විසින් බලාපොරොත්තු වන බව පාර්ලිමේන්තුවේදී අනාවරණය විය.
+The Inland Revenue Department, Sri Lanka Customs, and SLASE expect Rs. 3,789 billion in tax revenue. In 2023, the Inland Revenue Department's estimated income is Rs. 1550 billion, and the Government of Sri Lanka Excise expects Rs. 2023 income. The Select Committee, chaired by Patali Champika Ranawaka, presented these figures to Parliament.
 
-එහිදී දේශීය ආදායම් දෙපාර්තමේන්තුවෙන් රුපියල් බිලියන 2024ක්ද, ශ්‍රී ලංකා රේගුවෙන් රුපියල් බිලියන 1,533ක්ද සහ ශ්‍රී ලංකා සුරා බදු දෙපාර්තමේන්තුවෙන් රුපියල් බිලියන 232ක් ද ලෙස මෙම වසරේ ආදායම ලෙස ගණනය කර ඇත.
+🟩
 
-2023 වසරේදී දේශීය ආදායම් දෙපාර්තමේන්තුවෙන් ඇස්තමේන්තුගත ආදායම රුපියල් බිලියන 1,667ක් බලාපොරොත්තු වුවද, එම වසරේදී රුපියල් බිලියන 1550ක් පමණක් බදු ආදායම ලෙස එකතු කර ගැනීමට හැකිව තිබේ.
+The Inland Revenue Department, Department of Inland Revenue, Sri Lanka Customs and Sri Lanka Excise Department (SLASE) expect the estimated Rs. 3,789 billion.
 
-ශ්‍රී ලංකා රේගුවේන් 2023 වසරේදී ඇස්තමේන්තුගත ආදායම රුපියල් බිලියන 1,220ක් බලාපොරොත්තු වුවද, එම වසරේදී රුපියල් බිලියන 974ක් පමණක් බදු ආදායම ලෙස එකතු කර ගැනීමට හැකිව ඇත.
+The Inland Revenue Department has been calculated as the income of Rs.
 
-මීට අමතරව ශ්‍රී ලංකා සුරා බදු දෙපාර්තමේන්තුවෙන් 2023 වසරේදී රුපියල් බිලියන 217ක් ලෙස ඇස්තමේන්තුගත ආදායමක් රජය බලාපොරොත්තු වුවද බදු ලෙස එම වසරේදී රුපියල් බිලියන 171.2ක් පමණක් බදු ආදායම ලෙස එකතු කර ගැනීමට හැකිව තිබේ.
+In 2023, the estimated income of the Inland Revenue Department expected Rs. 1550 billion in the year, only Rs.
 
-...
+Although the estimated income expected of Rs.
+
+In addition, the Government of Sri Lanka Excise, 2023, an estimated income of Rs.
+
+The Select Committee presented to Parliament by the Chairman of the Committee and the Chairman of the Committee Patali Champika Ranawaka, which was presented to parliament.
+
+◼️
 
 [Data](articles/94fb13df.json)
+
+[Extended Data](ext_articles/94fb13df.ext.json)
 
 ---
 
@@ -2113,103 +2199,5 @@ The study shows a continuous tendency of illegal tear gas, the use of water, and
 [Data](articles/ab7f4f84.json)
 
 [Extended Data](ext_articles/ab7f4f84.ext.json)
-
----
-
-### Sri Lanka has a stock of high-tech scans to Sri Lanka
-
-*2024-04-10 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195516) · `si`
-
-Japan grants Sri Lanka high-tech scanners for disease monitoring at Colombo port and Katunayake Airport, including baggage, full-body, and biological access systems.
-
-🟩
-
-A large haul of high tech scanners has been provided to the country as a grant of Japan.
-
-Operations and the Colombo port operations have been given to the operations of the Katunayake Airport and the Colombo Port.
-
-It is done to monitor the unhealthy disease, such as pestilences, infectious diseases, such as pestilences, infectious diseases.
-
-In addition to the definite scanner under the project, a baggage scan machines, full-body scans, foreign licenses scan and a biological access control system.
-
-Accordingly, the first consignment was handed over to Ports and Aviation Minister Missukashi Hydai, Minister of Japan at the Bandaranaike International Airport today (10).
-
-In addition, the project will also establish a 150 unit coverage system in the Katunayake airport.
-
-◼️
-
-[Data](articles/6d9e39b9.json)
-
-[Extended Data](ext_articles/6d9e39b9.ext.json)
-
----
-
-### Increase in the price of eggs again!
-
-*2024-04-10 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180929) · `ta`
-
-Egg prices rise again after a brief reduction for Tamil and Sinhala New Year. Local eggs now sell at Rs 50, retail at Rs 55. Vegetables and fish prices also increase.
-
-🟩
-
-The price of eggs that had been reduced a few days ago in the wake of the Tamil and Sinhala New Year has risen again.
-
-The price of a local egg is currently being sold at Rs 50 and retail price at 55 rupees.
-
-Moreover, the price of vegetables and fish, which has been reduced for the past few days, has increased somewhat.
-
-◼️
-
-[Data](articles/df45e4f7.json)
-
-[Extended Data](ext_articles/df45e4f7.ext.json)
-
----
-
-### Sri Lanka rupee closes at 298.50/55 to the US dollar
-
-*2024-04-10 17:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-298-50-55-to-the-us-dollar-158243/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 298.50/55 to the US dollar in the spot forex market on Wednesday, stronger from 298.60/65 on Tuesday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed at 11.30//35 percent down from 11.30/40 percent.
-
-A bond maturing on 15.09.2027 closed at 11.90/12.00 percent up from 11.85/12.00 percent.
-
-A bond maturing on 15.12.2028 closed at 12.10/15 percent up from 12.05/15 percent.
-
-A bond maturing on 15.09.2029 closed at 12.20/40 percent up from 12.20/30 percent.
-
-A bond maturing on 01.10.2032 closed at 12.30/50 percent down from 12.40/55. (Colombo/Apr10/2024)
-
-◼️
-
-[Data](articles/66dcb87a.json)
-
-[Extended Data](ext_articles/66dcb87a.ext.json)
-
----
-
-### Counting underway in South Korea’s parliamentary elections
-
-*2024-04-10 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98559/counting-underway-in-south-koreas-parliamentary-elections) · `en`
-
-Vote counting is underway in South Korea as the country awaits the results of its parliamentary elections.
-
-The election is widely seen as a midterm referendum on President Yoon Suk Yeol’s administration, who still has three years left in office.
-
-His People Power Party (PPP) has struggled to achieve its agenda in a legislature dominated by the opposition Democratic Party (DPK).
-
-Mr Yoon is under pressure to address a number of issues including rising food prices, a rapidly aging population and an ongoing doctor’s strike.
-
-Exit polls are projecting that the opposition will secure a majority of the 300-seat parliament, though such polls have proved inaccurate in the past.
-
-In recent weeks, Mr Yoon been criticised for appearing to be out of touch with voters’ inflation woes. But the opposition has also faced similar criticism.
-
-...
-
-[Data](articles/99f7b038.json)
-
-[Extended Data](ext_articles/99f7b038.ext.json)
 
 ---

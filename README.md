@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 16:18:21**
+As of **2024-04-11 16:34:04**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 2,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,477 (100.0%) of 18,479 articles have been extended.
+18,479 (100.0%) of 18,479 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### අද රාත්‍රියේ ප්‍රබල අකුණු සමග තද වැසි
+### Heavy rains with strong lightning tonight
 
 *2024-04-11 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195544) · `si`
 
-දිස්ත්‍රික්ක 13ක් සඳහා බලපැවැත්වෙන පරිදි කාලගුණ විද්‍යා දෙපාර්තමේන්තුවෙන් නවතම නිවේදනයක් නිකුත් කර තිබේ.
+Heavy rains and strong lightning tonight in 13 districts. Western, Central, Sabaragamuwa, Uva, and Matara districts warned. Reduce activities to minimize lightning damage. Temporary strong winds expected.
 
-එහි දැක්වෙන්නේ අද (11) පස්වරුවේ හෝ රත්‍රී කාලයේ ප්‍රබල අකුණු ඇතිවීමේ හැකියාවක් ඇති බවය.
+🟩
 
-බස්නාහිර, මධ්‍යම, සබරගමුව, ඌව සහ වයඹ යන පළාත්වලට හා ගාල්ල හා මාතර දිස්ත්‍රික්කවලට බලපැවැත්වෙන පරිදි මෙම අනතුරු ඇඟවීම සිදුකරන බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+The Department of Meteorology has issued a latest announcement from 13 districts.
 
-අදාළ ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතින බැවින් අකුණු මගින් සිදුවිය හැකි අනතුරු අවම කරගැනීම සඳහා අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ බලධාරීන් ජනතාවගෙන් ඉල්ලීමක් කරයි.
+It states that today (11) or her fee is capable of causing a strong lightning.
 
-ගිගුරුම් සහිත වැසි ඇති වනවිට තාවකාලික තද සුළං ද හටගනු ඇති බව පෙන්වා දෙයි.
+The warning is being carried out in the Western, Central, Sabaragamuwa, Uva and Uva and Matara districts.
+
+The weather authorities requests the public to take measures to reduce the necessary activities to minimize the damages caused by lightning during the evening or night.
+
+The temporary strong winds also occur when thunderstorms occur.
 
 ◼️
 
 [Data](articles/51fcc7de.json)
+
+[Extended Data](ext_articles/51fcc7de.ext.json)
 
 ---
 
@@ -1701,6 +1707,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 ...
 
 [Data](articles/12462c1b.json)
+
+[Extended Data](ext_articles/12462c1b.ext.json)
 
 ---
 

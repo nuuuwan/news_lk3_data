@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 16:34:04**
+As of **2024-04-11 16:49:49**
 
 ## Newspaper Stats
 
-*Scraped **18,479** Articles*
+*Scraped **18,481** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ dailyftlk | 1,018
 economynextcom | 1,034
 adalk | 1,549
 tamilmirrorlk | 2,158
-adaderanalk | 2,211
+adaderanalk | 2,212
 virakesarilk | 2,752
-dailymirrorlk | 2,819
+dailymirrorlk | 2,820
 adaderanasinhalalk | 2,991
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,479 (100.0%) of 18,479 articles have been extended.
+18,479 (100.0%) of 18,481 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### Sri Lankans rescued from cyber slave camp in Myanmar transferred to Embassy
+
+*2024-04-11 16:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankans-rescued-from-cyber-slave-camp-in-Myanmar-transferred-to-Embassy/108-280629) · `en`
+
+Eight Sri Lankans who were recently rescued from an illegal cyber slave camp in Myanmar, have been transferred to the care of the Sri Lankan Embassy in Thailand.
+
+The group, victims of a human trafficking ring, is slated for repatriation to Sri Lanka in the coming days, as confirmed by Sri Lanka's Ambassador to Myanmar, Janaka Bandara.
+
+This development follows the rescue operation conducted in March this year, where eight Sri Lankans were among a group of 56 individuals rescued with the cooperation of Myanmar authorities.
+
+Subsequently, the group, consisting of six males and two females, was placed under the custody of the Myawaddy Police in Myanmar.
+
+Upon their rescue, efforts spearheaded by the Sri Lankan Mission, the Ministry of Foreign Affairs, and other pertinent authorities have continued to facilitate the safe return of the rescued Sri Lankans.
+
+◼️
+
+[Data](articles/7f660f95.json)
+
+---
 
 ### Heavy rains with strong lightning tonight
 
@@ -199,6 +219,26 @@ However, the lorry driver had ignored the police directive to stop the vehicle a
 [Data](articles/05e44fee.json)
 
 [Extended Data](ext_articles/05e44fee.ext.json)
+
+---
+
+### Two cops, arrested over assault on youth in Medawachchiya, remanded
+
+*2024-04-11 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98575/two-cops-arrested-over-assault-on-youth-in-medawachchiya-remanded) · `en`
+
+UPDATE: The police sergeant and the constable of Medawachchiya Police Station who were arrested over the alleged assault on a youth on 07 April, have been remanded until 16 April.
+
+Two police officers attached to Medawachchiya Police Station have been arrested by the Kebithigollewa Crimes Unit over the alleged assault on a youth on April 07 in Medawachchiya.
+
+Accordingly, a Police Sergeant and a Constable attached to Medawachchiya Police have been arrested for allegedly inhumanely assaulting the youth after taking the latter into custody.
+
+They are to be produced before the Kebithigollewa Magistrate’s Court later today (11), police said.
+
+According to the Police Media Division, in the evening of April 07, a group of police officers on traffic duty near the Medawachchiya primary school on the Mannar-Medawachchiya road had signalled a small lorry heading towards Mannar to stop.
+
+...
+
+[Data](articles/443ae522.json)
 
 ---
 
@@ -2183,49 +2223,5 @@ A special discussion was scheduled for today as farmers protested against the ro
 [Data](articles/312330b7.json)
 
 [Extended Data](ext_articles/312330b7.ext.json)
-
----
-
-### Actor Avinash's 'Nagabandam' Title Video Release
-
-*2024-04-11 02:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180946) · `ta`
-
-Avinash's 'Nagabandam' video release features the title 'KG F', directed by Abhishek Nama, with S Sounder Rajan as cinematographer and Abe as composer. Produced by Madhusudhan Rao for Abhishek Pictures and Thunder Studios, it's presented by Devansh Nama. The title's announcement boosts anticipation. The film will be released in multiple languages, with a star-studded cast to be announced soon.
-
-🟩
-
-'KG F' is named 'Nagabandam', which has been named 'Nagabandam', which has been named 'Nagabandam', which plays a different role as the hero of the story of 'KG F'.
-
-Directed by Director Abhishek Nama, who directed the film 'Devil: The British Secret Agent'. S Sounder Rajan is recording the film, Abe is composed by Abe. Producer Madhusudhan Rao is producing the film on behalf of Abhishek Pictures and Thunder Studios.. Devansh Nama presents this film.
-
-The climbs for the film's title offers a different experience for fans. Also increases expectations of the film. The film is released in Tamil, Telugu, Malayalam, Kannada and Hindi. It is reported that the list of star actors in the film will be officially announced soon.
-
-◼️
-
-[Data](articles/eb5f391e.json)
-
-[Extended Data](ext_articles/eb5f391e.ext.json)
-
----
-
-### Santhanam starring 'Inga I Tan Kingu' is the second song release
-
-*2024-04-11 02:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180945) · `ta`
-
-"Santhanam's 'Inga I Tan Kingu' is the second song from 'Kinku', directed by Anand Narayan, featuring a star-studded cast including Santhanam, Priyalaya, and late actors Manopala and Sesu. The first song, 'Mayone', and the second, 'Kulukkul Kuluku', have been released, with music by Iman and cinematography by Om Narayan. The film, produced by Sushmita Anbu Chezhiyan, has been successful."
-
-🟩
-
-The second song 'Kulukkul Kuluku', which is featured in the film 'Kinku', which is the hero of the story, has been released as the hero of the story and the success of the story and the success of the film.
-
-Directed by director Anand Narayan, 'Inga I Kinku' stars Santhanam, Priyalaya, Thambi Ramaiah, Vivek Prasanna, Bala Saravanan, Muniskant, Maran, Cool Suresh, Lallu Saba Swaminathan, late actors Manopala and Sesu and many others.. Om Narayan's cinematography. Iman has composed music. Sushmita Anbu Chezhiyan has produced the film on behalf of the Tower Films Film Company.
-
-The first song, which begins as 'Mayone' featured in the film. This is followed by the second song and the lyrical video for the song 'Sojawa Suttunavan'. This song is written by songwriter and director Vignesh Sivan, composer and singer D.. Iman and playback singer Cinisha Jayaseelan have sung together. The song, which is located in Thullaisi, has attracted the younger generation.
-
-◼️
-
-[Data](articles/e9c39813.json)
-
-[Extended Data](ext_articles/e9c39813.ext.json)
 
 ---

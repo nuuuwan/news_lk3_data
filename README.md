@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 15:03:17**
+As of **2024-04-11 15:18:22**
 
 ## Newspaper Stats
 
-*Scraped **18,471** Articles*
+*Scraped **18,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,018
 economynextcom | 1,034
 adalk | 1,549
 tamilmirrorlk | 2,158
-adaderanalk | 2,209
+adaderanalk | 2,210
 virakesarilk | 2,750
 dailymirrorlk | 2,818
 adaderanasinhalalk | 2,989
@@ -26,11 +26,23 @@ adaderanasinhalalk | 2,989
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,469 (100.0%) of 18,471 articles have been extended.
+18,471 (100.0%) of 18,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### Two cops arrested over assault on youth in Medawachchiya
+
+*2024-04-11 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98575/two-cops-arrested-over-assault-on-youth-in-medawachchiya) · `en`
+
+Two police officers attached to Medawachchiya Police Station have been arrested by the Kebithigollewa Crimes Unit over the alleged assault on a youth on April 07 in Medawachchiya.
+
+◼️
+
+[Data](articles/05e44fee.json)
+
+---
 
 ### Sufficient rice, vegetables, eggs, chicken, fruits supplied to market for festive season
 
@@ -934,21 +946,29 @@ Tracking groups will excel in vehicles carrying liquor for relaxing purpose.
 
 ---
 
-### 2 நாட்களும் விசேட நடவடிக்கை: கலால்
+### 2 days of special action: excise
 
 *2024-04-11 09:48:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-நாட்களும்-விசேட-நடவடிக்கை-கலால்/175-335847) · `ta`
 
-சட்டவிரோதமாக மதுபானம் விற்பனை செய்பவர்களை இலக்கு வைத்து கொழும்பில் இரண்டு பண்டிகைக் கால நாட்களில் விசேட நடவடிக்கையொன்றை முன்னெடுக்கவும், சிங்கள மற்றும் தமிழ் புத்தாண்டுக் காலத்தில் சட்டத்தை கடுமையாக நடைமுறைப்படுத்தவும் கலால் திணைக்களம் திட்டமிட்டுள்ளது.
+The Department of Excise in Colombo plans a special action on Sinhala and Tamil New Year to target illegal liquor sellers, involving over 50 officers from four major excise stations. Licensed establishments found selling illegally will have their licenses revoked.
 
-கெஸ்பேவ, பாதுக்க, பத்தரமுல்ல மற்றும் கொழும்பு நகரில் உள்ள நான்கு பிரதான கலால் நிலையங்களுடன் இணைந்து கூட்டு நடவடிக்கை ஏற்பாடு செய்யப்பட்டுள்ளதாக கொழும்பு நகரை மேற்பார்வையிடும் உயர் கலால் அதிகாரி ஒருவர் டெய்லி மிரருக்கு நேற்று தெரிவித்தார்.
+🟩
 
-இதன் விளைவாக ஏப்ரல் 12 மற்றும் 13 ஆம் திகதிகளில் கலால் கட்டளைகளை மீறி மதுபானங்களை விற்பனை செய்யும் சட்டத்தை மீறுபவர்களைத் தேடி 50 க்கும் மேற்பட்ட அதிகாரிகள் பல குழுக்களாக நியமிக்கப்பட்டுள்ளனர்.
+The Department of Excise is planning to carry out a special action in Colombo in two festive days, targeting illegal liquor sellers and strictly implementing the law during the Sinhala and Tamil New Year.
 
-புத்தாண்டுக்கு முன்னதாக மதுபானங்களை அதிக அளவில் கையிருப்பில் வாங்கி, கறுப்புச் சந்தையில் அதிக விலைக்கு விற்கும் ஒழுங்கமைக்கப்பட்ட விற்பனையாளர்கள் குறித்து தங்களுக்கு உளவுத்துறை தகவல் கிடைத்துள்ளது என்று அவர் கூறினார்.
+A high -ranking official who oversees Colombo city yesterday told the Daily Mirror that a joint operation has been organized in collaboration with four major excise stations in Kespewa, Paduku, Battaramulla and Colombo.
+
+As a result, more than 50 officers have been appointed in several groups in search of those who violate the law that sells liquor in violation of the excise orders on April 12 and 13.
+
+He said that they had received information about the organized sellers who bought more liquor in a large quantity of liquor before the New Year and sold the high prices in the black market.
+
+Tracking groups will excel in vehicles carrying liquor for relaxing purpose.
 
 ...
 
 [Data](articles/b981d574.json)
+
+[Extended Data](ext_articles/b981d574.ext.json)
 
 ---
 
@@ -1006,25 +1026,37 @@ Rainfall or thunderstorms are expected in many parts of the sea regions from Put
 
 ---
 
-### பிற்பகலுக்குப் பின்னர் இடியுடன் மழை பெய்யும்
+### Thunderstorm after afternoon
 
 *2024-04-11 09:41:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிற்பகலுக்குப்-பின்னர்-இடியுடன்-மழை-பெய்யும்/175-335846) · `ta`
 
-வடக்கு, வடமேல்,மேல் மற்றும்  சப்ரகமுவ மாகாணங்களிலும் அத்துடன் அனுராதபுரம், காலி மற்றும் மாத்தறை  மாவட்டங்களிலும்  இன்று அதிகரித்த வெப்பநிலை காணப்படுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Expect thunderstorms in Northern, North Western, Western, Sabaragamuwa provinces, Anuradhapura, Galle, Matara districts, and Eastern, Uva provinces, with heavy rains in Central, Sabaragamuwa, Upper, Southern Provinces. Strong winds and lightning may occur, advising vigilance. Rainfall or thunderstorms expected in sea regions from Puttalam to Colombo and Hambantota, with winds blowing east at 15-25 km/h, potentially increasing to 40-45 km/h in some areas.
 
-சூரியனின் வடக்கு நோக்கிய நகர்வின் காரணமாக இன்று மதியம் சுமார் 12.11 மணியளவில் வத்தலன்குண்டு, மதவாச்சி, கொரவப்பொத்தான மற்றும் திருகோணமலை   போன்ற இடங்களுக்கு மேலாக சூரியன் உச்சம் கொடுக்கின்றது.
+🟩
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் ஹம்பாந்தோட்டை மாவட்டத்திலும் அடிக்கடி மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+The Department of Meteorology has said that increased temperatures will occur today in the Northern, North Western, Western and Sabaragamuwa provinces as well as in Anuradhapura, Galle and Matara districts.
 
-நாட்டின் ஏனைய பிரதேசங்களின் பல இடங்களில் பிற்பகல் ஒரு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+Due to the north of the Sun's north, the sun is at around 12.11 pm today.
 
-மத்திய, சப்ரகமுவ, மேல் மற்றும் தென் மாகாணங்களின் சில இடங்களில் 100 மில்லிமீற்றரிலும் கூடிய  பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+Rainfall or thunderstorms are expected in the Eastern and Uva provinces as well as in the Hambantota district.
 
-பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக் கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு  கேட்டுக்கொள்ளப்படுகின்றனர்.
+Showers or thunderstorms are likely to occur after one o'clock in the afternoon.
+
+Heavy rains are expected to occur in some parts of the Central, Sabaragamuwa, Upper and Southern Provinces.
+
+In cases where strong winds and lightning are occurring, the public is asked to act with vigilance.
+
+Rainfall is expected in the sea regions beyond the coast of Trincomalee to Batticaloa to Hambantota.
+
+Rainfall or thunderstorms are expected in many parts of the sea regions from Puttalam to Colombo and Hambantota.
+
+In the sea regions, the wind blows from the east direction or from a different direction at 15 - 25 km / h.
 
 ...
 
 [Data](articles/b3abaf3e.json)
+
+[Extended Data](ext_articles/b3abaf3e.ext.json)
 
 ---
 
@@ -2181,37 +2213,5 @@ A young woman from Tellippali, a young man, has been hanged 50 days ago. In this
 [Data](articles/9fe0f75a.json)
 
 [Extended Data](ext_articles/9fe0f75a.ext.json)
-
----
-
-### Old Beats win in both categories under the age of 40, over 40
-
-*2024-04-11 00:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180940) · `ta`
-
-Old Beats win in both under-40 and over-40 categories at the Annual Football Tournament, with Old Peters winning the Milroy Perera Memorial Bowl. Old Benz lost by 4 lighter goals, including a penalty, and had several missed penalties. Tanjaya Sampbat and Gayan Rwaldo scored for Old Beats. Old Benz Vettarans won by 2-0, but captain Rendolv Perera was hospitalized. Best players: Shehan Dhanush (Old Beats), Isuru Udith Perera (Old Beats), Trivin Ramanathan (Old Benz), Man of the Match: Joshua Fernando (Old Beats).
-
-🟩
-
-Old Peters in the Annual Football Tournament between Old Benedictines and Old Peters at the St. Blessed College Ground at St. Blessed by Kottanchen.
-
-Old Beats teams won the winning bowls by 2 - 0 each in the main match for the under -40 and the Vettarans for over 40.
-
-Old -Benz lost at least 4 lighter goals, including a penalty in the under -40 -year -old competition.
-
-Old -Benz Pinnacle player Sameera Krishna missed Penaldi in the 6th minute of the competition, followed by Old Benz players in the 13th, 14th and 28th minutes.
-
-In the 52nd minute after the break, another lighter goal missed.
-
-In the 54th minute, Tanjaya Sampbat scored the first goal for the Old Beats.
-
-In the 75th minute of the match, Gayan Rwaldo moved the ball in the central field and scored the 2nd goal of the Old Beats.
-
-Old Peteries won the Milroy Perera Memorial Bowl for the third consecutive time by winning by a margin of 2 - 0.
-
-...
-
-[Data](articles/379f5397.json)
-
-[Extended Data](ext_articles/379f5397.ext.json)
 
 ---

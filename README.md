@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 23:03:16**
+As of **2024-04-11 23:18:15**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,516 (100.0%) of 18,518 articles have been extended.
+18,518 (100.0%) of 18,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### வவுனியா ஏ9 வீதியில் இடம் பெற்ற விபத்தில் ஒருவர் படுகாயம்
+### One person was injured in an accident on the Vavuniya A9 road
 
 *2024-04-11 22:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181005) · `ta`
 
-வவுனியா ஏ9 வீதியில் இடம் பெற்ற விபத்தில் ஒருவர் படுகாயம் அடைந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+One person was injured in an accident on the Vavuniya A9 road and admitted to Vavuniya Hospital. A tillage machine was hit by a motorcycle traveling from Omanthai to Vavuniya.
 
-நகரிலிருந்து பயணித்த உழவு இயந்திரம் சாந்தசோலை வீதிக்கு திருப்ப முற்பட்ட வேலை ஓமந்தையிலிருந்து வவுனியா நோக்கி பயணித்த மோட்டார் சைக்கிளுடன் மோதுண்டு விபத்துக்குள்ளாகியுள்ளது.
+🟩
 
-இவ்வத்தில் மோட்டார் சைக்கிளில் பயணித்தவர் படுகாயம் அடைந்த நிலையில் வவுனியா  வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+One person was admitted to the Vavuniya Hospital after being injured in an accident on the Vavuniya A9 road, police said.
+
+The tillage machine from the city has been hit by a motorcycle traveling from Omanthai to Vavuniya.
+
+A motorcycle passenger has been admitted to the Vavuniya Hospital after being injured.
 
 ◼️
 
 [Data](articles/56d5fdcd.json)
+
+[Extended Data](ext_articles/56d5fdcd.ext.json)
 
 ---
 
@@ -618,17 +624,27 @@ The suspects are Sri Lankans and are residents of Colombo 13 and Maskeliya areas
 
 ---
 
-### வெடுக்குநாறிமலை, குருந்தூர்மலை விவகாரம் தொடர்பில் விசேடமாக ஆராய்ந்த அலன் கீனன்  - பரந்துபட்ட அறிக்கையொன்றை வெளியிடவும் உத்தேசம்
+### Alan Keenan - Analysis on the issue of Vedukunnarimalai, Kurundurmalai
 
 *2024-04-11 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180987) · `ta`
 
-அண்மையில் இலங்கைக்கு வருகைத்தந்திருந்த சர்வதேச நெருக்கடி கண்காணிப்புக்குழுவின் ஆய்வாளர் அலன் கீனன், வெடுக்குநாறிமலை மற்றும் குருந்தூர்மலை விவகாரம் தொடர்பில் விசேடமாக ஆராய்ந்ததாகவும், அதுபற்றிய அறிக்கையொன்றை வெளியிடுவதற்கு அவர் எதிர்பார்த்திருப்பதாகவும் நம்பத்தகுந்த வட்டாரங்கள் மூலம் அறியமுடிகின்றது.
+Alan Keenan, from the International Crisis Surveillance Committee, investigates Vedukunnarimalai and Kurundurmalai in Sri Lanka, focusing on political and human rights issues. He meets with political leaders, civil society, and relatives of missing persons, aiming to publish a report on the situation.
 
-வவுனியா மாவட்டத்தின் வெடுக்குநாறிமலையில் உள்ள ஆதிலிங்கேஸ்வரர் ஆலயத்தில் கடந்த சிவராத்திரி தினத்தன்று (மார்ச் 8 ஆம் திகதி) பூஜை வழிபாடுகளில் ஈடுபடச்சென்ற பக்தர்களுக்கு பொலிஸாரால் இடையூறு விளைவிக்கப்பட்டதுடன், இரவு வேளையில் அங்கு வழிபாடுகளைத் தொடர முற்பட்டோர் அங்கிருந்து வலுகட்டாயமாக வெளியேற்றப்பட்டனர். அதுமாத்திரமன்றி ஆலயப்பூசகர் உள்ளடங்கலாக 8 பேர் பொலிஸாரால் கைதுசெய்யப்பட்டனர்.
+🟩
+
+In reliable sources, Alan Keenan, the inspector of the International Crisis Surveillance Committee, who recently visited Sri Lanka, has been specially investigated on the issue of Vettu Nirimalai and Kurundurmalai and that he is expecting a report on it.
+
+The police were disrupted by the devotees who engaged in pooja worship on Shivaratri Day (March 8) at the Adilingeswarar Temple in Vettu Nirimalai in Vavuniya district and forcibly evacuated at night.. Eight people were arrested by the police, including the temple.
+
+A few days after the incident, the international crisis watchdog of Sri Lanka, Alan Keenan, who visited Sri Lanka, has visited the Vittukunnarimalai and Kurundurmalai areas to investigate the political and human rights situation in the country.
+
+According to reliable sources, Alan Keenan has widely studied the issue of Madhavan farmers and Madhavan.
 
 ...
 
 [Data](articles/63d2a7fc.json)
+
+[Extended Data](ext_articles/63d2a7fc.ext.json)
 
 ---
 

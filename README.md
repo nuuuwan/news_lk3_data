@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 12:18:24**
+As of **2024-04-11 12:34:43**
 
 ## Newspaper Stats
 
-*Scraped **18,449** Articles*
+*Scraped **18,450** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,018
 economynextcom | 1,029
 adalk | 1,549
 tamilmirrorlk | 2,156
-adaderanalk | 2,206
+adaderanalk | 2,207
 virakesarilk | 2,745
 dailymirrorlk | 2,814
 adaderanasinhalalk | 2,987
@@ -26,27 +26,51 @@ adaderanasinhalalk | 2,987
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,447 (100.0%) of 18,449 articles have been extended.
+18,449 (100.0%) of 18,450 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### தமிழ் மக்களிற்கான உங்கள் தீர்வுகள் என்ன ? வெளிநாட்டு இராஜதந்திரிகள் முன்னிலையில் எழுத்தில் தெரிவியுங்கள் - பெரும்பான்மையின ஜனாதிபதி வேட்பாளர்களிற்கு விக்னேஸ்வரன் வேண்டுகோள்
+### Sri Lanka shows signs of recovery but must maintain reform momentum: ADB
+
+*2024-04-11 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98572/sri-lanka-shows-signs-of-recovery-but-must-maintain-reform-momentum-adb) · `en`
+
+The Asian Development Bank (ADB) says its annual flagship economic publication – the Asian Development Outlook (ADO) April 2024 – has projected Sri Lanka’s economy to record moderate growth of 1.9% in 2024 and 2.5% in 2025 following two consecutive years of contractions.
+
+According to the publication, Sri Lanka is showing signs of recovery, with green shoots emerging in the second half of 2023. Inflation has decelerated to single digits, foreign exchange reserves continue to be built up, and the exchange rate has appreciated. Meanwhile, tourist arrivals and remittance inflows continue to show a commendable recovery while supply conditions have improved.
+
+ADB’s growth forecast hinges on the continuation of reforms and better consumer and business sentiment. Timely completion of external debt restructuring will also support Sri Lanka’s debt sustainability efforts, the regional development bank underscored.
+
+...
+
+[Data](articles/d0a88f00.json)
+
+---
+
+### What are your solutions for the Tamil people?Writing in the presence of foreign diplomats - Wigneswaran appeals to the majority presidential candidates
 
 *2024-04-11 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180971) · `ta`
 
-பெரும்பான்மையினத்தை சேர்ந்த ஜனாதிபதி தேர்தல் வேட்பாளர்கள் தமிழ் மக்கள் எதிர்கொள்ளும் பிரச்சினைகளிற்கான தங்களின் தீர்வுகளை வெளிநாட்டு இராஜதந்திரிகள் முன்னிலையில் வெளிப்படுத்தவேண்டும் என நாடாளுமன்ற உறுப்பினர் சிவி விக்னேஸ்வரன் தெரிவித்துள்ளார்.
+Wigneswaran calls for foreign diplomats to propose solutions to Tamil issues, criticizing majority presidential candidates for lacking progressive solutions.
 
-ஜனாதிபதி தேர்தலில் பெரும்பான்மை கட்சிகளின் சார்பில் போட்டியிடும் வேட்பாளர்கள் தமிழ் மக்களின் ஆதரவை பெறவிரும்பினால் தமிழ் மக்கள் எதிர்கொள்ளும் பிரச்சினைகளிற்கான தங்களின் தீர்வுகளை வெளிநாட்டு இராஜதந்திரிகள் முன்னிலையில் வெளிப்படுத்தவேண்டும் என அவர் தெரிவித்துள்ளார்.
+🟩
 
-பெரும்பான்மையினத்தை சேர்ந்த வேட்பாளர்கள் தமிழ் மக்களின் ஆதரவை பெறவிரும்பினால் தங்களிடம்  தமிழ் மக்களின் பிரச்சினைகளிற்கு உள்ள தீர்வு என்னவென்பதை தெரிவிக்கவேண்டும் என வி;க்னேஸ்வரன் மோர்னிங்கிற்கு தெரிவித்துள்ளார்.
+Parliamentarian CV Wigneswaran has said that foreign diplomats should reveal their solutions to the problems faced by the Tamil people in the presence of foreign diplomats.
 
-தாங்;கள் ஆட்சிக்கு வந்ததும் தமிழ் மக்களின் பிரச்சினைகளிற்கு தீர்வை காண்பதற்கு என்ன செய்வார்கள் என்பதை தெரிவிக்கின்ற துணிவு எவருக்காவது இருந்தால் நாங்கள் அந்த வேட்பாளருக்கு ஆதரவளிப்பது குறித்து சிந்திப்போம் என விக்னேஸ்வரன் தெரிவித்துள்ளார்.
+He said that if the candidates contesting on behalf of the majority parties in the presidential election, the foreign diplomats should reveal their solutions to the problems faced by the Tamil people if they seek the support of the Tamil people.
+
+Vaswaran Morning has told Morning that if the majority candidates are to get the support of the Tamil people, the solution to the problems of the Tamil people should be informed.
+
+Wigneswaran has said that if we have the courage to tell you what to do to solve the problems of the Tamil people, we will think about supporting the candidate, ”he said.
+
+However, he said that they should write their position in the presence of foreign diplomats of countries like the US, as they can write their promises and then give up the promise.
 
 ...
 
 [Data](articles/0ef68130.json)
+
+[Extended Data](ext_articles/0ef68130.ext.json)
 
 ---
 
@@ -67,6 +91,8 @@ However, the driver had sped up when the officers signaled the vehicle to pull o
 ◼️
 
 [Data](articles/400d7bbc.json)
+
+[Extended Data](ext_articles/400d7bbc.ext.json)
 
 ---
 
@@ -2209,29 +2235,5 @@ Asked whether the announcement would violate the Olympic spirit, Coe was clear. 
 [Data](articles/cd42f67b.json)
 
 [Extended Data](ext_articles/cd42f67b.ext.json)
-
----
-
-### Three new buses to SriLankan
-
-*2024-04-10 20:02:17* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකන්-වෙත-නවීනතම-බස්-රථ-තුනක්/11-409057) · `si`
-
-Katunayake airport added three new buses yesterday, produced by China International Murin. These 100m x 2.7m buses, equipped with air conditioning, accommodate 77 passengers, and include facilities for disabled passengers.
-
-🟩
-
-The aircraft from Katunayake airplane, three latest buses to transport passengers from the plane to the airport, the Sri Lankan aircraft premises was held yesterday (10).
-
-The buses have been a major need from a period of five years have been added to the Katunayake airport yesterday (10).
-
-The buses of China, with 100 meters long and 2.7 meters width in the operators of the Katunayaka airport, have been produced by China China International Murin.
-
-There is also a separate angel for the air conditioner's air conditioning in 4,500 engineering. The buses have a facilities for 77 passengers have access to the driver and passengers traveling towards communication.In addition, wheelchairs they travel for disabled passengers have also been inserted into the bus.
-
-◼️
-
-[Data](articles/b1d22168.json)
-
-[Extended Data](ext_articles/b1d22168.ext.json)
 
 ---

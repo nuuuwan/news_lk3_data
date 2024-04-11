@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 13:34:14**
+As of **2024-04-11 13:53:22**
 
 ## Newspaper Stats
 
-*Scraped **18,454** Articles*
+*Scraped **18,458** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 214
 newsfirstlk | 363
 islandlk | 1,013
 dailyftlk | 1,018
-economynextcom | 1,029
+economynextcom | 1,033
 adalk | 1,549
 tamilmirrorlk | 2,156
 adaderanalk | 2,207
@@ -26,11 +26,67 @@ adaderanasinhalalk | 2,987
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,453 (100.0%) of 18,454 articles have been extended.
+18,454 (100.0%) of 18,458 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### Activist complains to Sri Lanka bribery commission on election deposit increase
+
+*2024-04-11 13:30:00* · [`economynextcom`](https://economynext.com/activist-complains-to-sri-lanka-bribery-commission-on-election-deposit-increase-158290/) · `en`
+
+ECONOMYNEXT — A civil society activist has lodged a complaint at the Committee to Investigate Allegations of Bribery or Corruption against a recent cabinet decision to increase the deposit placed by candidates contesting elections.
+
+Jamuni Kamantha Thushara, Chairman of the Citizen’s Movement Against Fraud, Corruption, and Waste, who filed the complaint, told reporters on Wednesday April 11 that the deposit has been increased by 5,200 percent, which he claimed would give “corrupt” political parties who can afford such exorbitant rates the upper hand.
+
+“With such a high amount, only corrupt political parties that engage in thievery can contest this election. An innocent person who can only manage to pay a small deposit can no longer contest,” said Thushara.
+
+“Only thieving parties will be able to contest elections in the future,” he added.
+
+Thushara also criticised the Commissioner of Elections for his support for the deposit increase citing rising election costs.
+
+...
+
+[Data](articles/ef2b36f1.json)
+
+---
+
+### Sri Lanka airport, port get scanners and smart toilets from Japan
+
+*2024-04-11 12:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-airport-port-get-scanners-and-smart-toilets-from-japan-158287/) · `en`
+
+ECONOMYNEXT – Japan has gifted Sri Lanka 8.4 million dollars worth equipment to improve operations at the Bandaranaike International Airport and the Colombo Port.
+
+“The Japanese government has arranged to provide a stock of high-tech scanning machines worth 8.4 million US dollars to the Katunayake International Airport and the Port of Colombo in order to monitor disease conditions harmful to public health such as epidemics and infectious diseases that come to this country by foreigners,” a statement by the Government Department of Information said.
+
+Scanners that detect diseases, baggage scanners, full body scanners, foreign passport scanners and a biometric access control system have been provided, under this project supported by the International Organization for Migration (IOM).
+
+The island nation has seen a rise in visitor arrivals, and the number is expected to increase, especially with the country attracting cruise ships.
+
+...
+
+[Data](articles/49c45401.json)
+
+---
+
+### War of words continues between Sri Lanka’s SJB, NPP on debate
+
+*2024-04-11 12:45:00* · [`economynextcom`](https://economynext.com/war-of-words-continues-between-sri-lankas-sjb-npp-on-debate-158281/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s main opposition the Samagi Jana Balawegaya (SJB) and the leftist NPP are on the warpath over a debate that each keeps challenging the other to but has yet to materialise.
+
+SJB member Bandula Bandarigoda said he believes the NPP has been avoiding the matter because the party has no plan to develop the country.
+
+“We invited the NPP first to a debate at the economic council level. Now they’re saying because it’s a presidential election, their leader Anura Kumara Dissanayake will come. Our leader gladly accepted, but this debate still hasn’t happened as they’re giving various reasons and wasting time. I think it’s because the NPP has no plan to take the country forward,” he said.
+
+NPP member and All Ceylon Farmers Federation Convener Namal Karunaratne scoffed at the suggestion of a debate.
+
+...
+
+[Data](articles/4a3f9d3e.json)
+
+---
 
 ### Japan grants aid to strengthen operations at BIA
 
@@ -113,6 +169,26 @@ ADB’s growth forecast hinges on the continuation of reforms and better consume
 [Data](articles/d0a88f00.json)
 
 [Extended Data](ext_articles/d0a88f00.ext.json)
+
+---
+
+### Sri Lanka Construction Guarantee Fund premiums plunges, investment income up
+
+*2024-04-11 12:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-construction-guarantee-fund-premiums-plunges-investment-income-up-158263/) · `en`
+
+ECONOMYNEXT – Premium income at Sri Lanka’s Construction Guarantee Fund plunged 87 percent in 2023 period amid a downturn in the industry but investment income was up, Fitch Ratings said, confirming the firm’s IFS rating of ‘BB(lka)’. The outlook is stable.
+
+“The government’s weak fiscal position has resulted in fewer new construction contracts, the suspension of existing projects and payment delays to contractors. This has affected CGF through a drop in premium income,” Fitch said.
+
+“Premium income plummeted by 87% in 2023 to LKR13 million on low guarantee volume amid a sluggish local construction sector.” (Colombo/Apr11/2024)
+
+Fitch Affirms Construction Guarantee Fund’s ‘BB(lka)’ National IFS Rating; Outlook Stable
+
+Fitch Ratings has affirmed Sri Lankabased Construction Guarantee Fund’s (CGF) National Insurer Financial Strength (IFS) Rating of ‘BB(lka)’. The Outlook is Stable.
+
+...
+
+[Data](articles/b4282ef5.json)
 
 ---
 
@@ -1536,6 +1612,8 @@ Most were killed not by the army but by ordinary Hutus, the majority group. “N
 
 [Data](articles/58f70003.json)
 
+[Extended Data](ext_articles/58f70003.ext.json)
+
 ---
 
 ### LOLC clinches seventh successive People’s Award
@@ -2125,109 +2203,5 @@ Hamas, the leader of the Hamas, said the attack on his family was revealing the 
 [Data](articles/b53ec698.json)
 
 [Extended Data](ext_articles/b53ec698.ext.json)
-
----
-
-### Hamas leader Ismail was lost to three sons
-
-*2024-04-10 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195524) · `si`
-
-Hamas leader Ismail's three sons died in Israeli attacks. He, living in Qatar, reported hundreds of grandchildren also lost to Israeli air strikes.
-
-🟩
-
-Three sons of Hamas captain of Ismailine have died due to Israeli attacks.
-
-Hamas leader lives in Qatar told Aljazera News that several hundreds of grandson have died due to Israeli air strikes.
-
-◼️
-
-[Data](articles/13a64172.json)
-
-[Extended Data](ext_articles/13a64172.ext.json)
-
----
-
-### A young man lost a scrout with a police attack?
-
-*2024-04-10 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195522) · `si`
-
-A young man from Medawachchiya Village was assaulted by police during a traffic stop, leading to accusations of assault and the removal of his testicle during surgery. The police claim the young man was trying to arrest them, and he was found to be drunk and without a valid driver's license.
-
-🟩
-
-His mother accuses that a group of Media Kumarachchiya Police had assaulted her son from surgery.
-
-Police say the young man did not attack the young man and he was acting as he was trying to arrest.
-
-A 23-year-old youth from Medawachchiya Village of Medawachchiya Village had gone to Medawachchiya with a lorry with his friend.
-
-Behind the Lorry, two traffic divisions of the Medawachchiya Police Station Stop the lorry and attacked his son and the friend.
-
-She accuses the victims of assault and that their son's tube's testicle was also removed from surgery.
-
-He says that a group of police officers who had arrived at the scene with a three-wheeler were seriously attacked.
-
-When we asked about the incident, Medawachchiya Police said that they were continuing to stop the lorry that the two youths were traveling.
-
-They have been illegal drinks in their possession, police said.
-
-The youth was drunk at the time of the incident and he did not have a valid driver's license.
-
-...
-
-[Data](articles/dde8619c.json)
-
-[Extended Data](ext_articles/dde8619c.ext.json)
-
----
-
-### U.S. assures unwavering commitment to supporting Sri Lanka’s security and sovereignty
-
-*2024-04-10 20:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98561/us-assures-unwavering-commitment-to-supporting-sri-lankas-security-and-sovereignty) · `en`
-
-In a significant diplomatic exchange, U.S. National Security Advisor Jake Sullivan engaged in a telephone conversation with his Sri Lankan counterpart, Senior Advisor to the President on National Security Sagala Ratnayaka on Wednesday (10).
-
-The dialogue encompassed a range of crucial topics aimed at bolstering bilateral relations between the two nations, the President’s Media Division (PMD) said.
-
-Central to their discussion was the unwavering U.S. commitment to supporting Sri Lanka’s security and sovereignty.
-
-Acknowledging Sri Lanka’s ongoing endeavours, Sullivan emphasized the importance of completing the fiscal, monetary, and governance aspects of the IMF program.
-
-The conversation also delved into future prospects for collaboration between the two countries, exploring avenues for enhanced cooperation in various spheres.
-
-Sullivan conveyed his keen interest in fostering continued engagement with Sri Lanka, underscoring the mutual objective of advancing peace and security in the region.
-
-...
-
-[Data](articles/cc212376.json)
-
-[Extended Data](ext_articles/cc212376.ext.json)
-
----
-
-### Attorney General is a serious demand of Keheliya's Ret petition
-
-*2024-04-10 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195521) · `si`
-
-The Attorney General has demanded Keheliya Rambukwella's retrial petition be heard by the Court of Appeal. Rambukwella, a former Health Minister, is remanded until trial's end. Nirmalan Vigneswaran, representing the AG, is tasked with handling protests. The Malimanakanda Magistrate's Court denied bail to the Additional Secretary to the Health Ministry. Dr. Thusitha Sudamakanda Magnettanda is remanded until the 22nd.
-
-🟩
-
-The Attorney General asked the Court of Appeal to refute the Rit petition filed by the Maligantiya Rambukwella to be remanded until the end of the trial.
-
-Former Health Minister Keheliya Rambukwella, who has been remanded to be remanded until the end of the substandard antibodies, is to be remanded until the end of the matter.. Considered before Mr. Samarakoon.
-
-Deputy Solicitor General Nirmalan Vigneswaran, who appeared in court on behalf of the Attorney General, was asked to take the tricketing of the basic protests.
-
-Meanwhile, the Malimanakanda Magistrate's Court today refused to be bail as Additional Secretary to the Health Ministry Additional Secretary to the Ministry of Health.
-
-Dr. Thusitha Sudamakanda Magnettanda Magistratanda Magnettanda Magnett Prabanakanda Magnett Prabanakanda Mahemi Abeywickrama has been remanded until the 22nd of the 22nd.
-
-◼️
-
-[Data](articles/002888c3.json)
-
-[Extended Data](ext_articles/002888c3.ext.json)
 
 ---

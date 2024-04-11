@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 16:49:49**
+As of **2024-04-11 17:03:17**
 
 ## Newspaper Stats
 
-*Scraped **18,481** Articles*
+*Scraped **18,484** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ islandlk | 1,014
 dailyftlk | 1,018
 economynextcom | 1,034
 adalk | 1,549
-tamilmirrorlk | 2,158
+tamilmirrorlk | 2,160
 adaderanalk | 2,212
 virakesarilk | 2,752
 dailymirrorlk | 2,820
-adaderanasinhalalk | 2,991
+adaderanasinhalalk | 2,992
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,479 (100.0%) of 18,481 articles have been extended.
+18,481 (100.0%) of 18,484 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### பயணம் செய்பவர்களுக்கு விசேட அறிவித்தல்
+
+*2024-04-11 16:50:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயணம்-செய்பவர்களுக்கு-விசேட-அறிவித்தல்/175-335849) · `ta`
+
+தொலைதூரப் பயணிகளின் பெறுமதியான பொருட்களை கொள்ளையடிக்கும் கும்பல் தொடர்பில் பொதுமக்கள் அவதானத்துடன் இருக்குமாறு பொலிஸ் திணைக்களம் இன்று அறிவித்துள்ளது.
+
+இந்தக் கும்பலைச் சேர்ந்தவர்கள் சாதாரண பயணிகளைப் போல நீண்ட தூரப் பேருந்துகளில் ஏறி பயணிகளின் விலையுயர்ந்த பொருட்களை கொள்ளையடிப்பது வழக்கம்.
+
+எனவே பயணிகள், பஸ் சாரதிகள் மற்றும் நடத்துனர்கள் மிகவும் அவதானமாக இருக்குமாறு பொலிஸார் கேட்டுக்கொண்டுள்ளனர்.
+
+பதுளை - கொழும்பு தொலைதூரப் பேருந்துகளில் இந்த திருட்டுச் சம்பவங்கள் அதிகம் இடம்பெறுவதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/e25cc78a.json)
+
+---
+
+### පාකිස්තානයේ ට්‍රක් රථයක් පෙරළී 17ක් මරුට
+
+*2024-04-11 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195546) · `si`
+
+පාකිස්ථානයේ ට්‍රක් රථයක් පෙරළී යාමෙන් පුද්ගලයින් 17 දෙනෙකු මියගොස් තිබේ.
+
+වන්දනාකරුවන් පිරිසක් රැගෙන යමින් තිබු ට්‍රක් රථයක් මෙලෙස අනතුරට පත්වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+අනතුරින් තවත් පුද්ගලයින් 38 දෙනෙකු තුවාල ලබා රෝහල්ගත කර ඇති බව සඳහන් ය.
+
+අනතුර සිදුවන විට ට්‍රක් රථයේ පුද්ගලයින් 60 දෙනෙකු පමණ සිට ඇති බවත් දරුවන් ද සිට ඇති බවත් වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/17719543.json)
+
+---
+
+### 2 பிள்ளைகள் துஷ்பிரயோகம் தந்தை கைது
+
+*2024-04-11 16:36:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-பிள்ளைகள்-துஷ்பிரயோகம்-தந்தை-கைது/175-335848) · `ta`
+
+திருகோணமலை தம்பலகாமம் பொலிஸ் பிரிவிற்குட்பட்ட பகுதியில் தான்  பெற்ற இரண்டு பிள்ளைகளை துஸ்பிரயோகம் செய்த சந்தேகத்தின் பேரில் தந்தையை கைது செய்துள்ளதாக பொலிஸார்  தெரிவித்தனர்.
+
+தம்பலகாமம் சிராஜ் நகர் பகுதியில் வசித்து வரும்    28வயதுடைய நபரே கைது செய்யப்பட்டுள்ளதாக தெரிய வருகின்றது.
+
+மனைவி வெளிநாட்டுக்குச் சென்றிருந்த நிலையில் தனது 2 பிள்ளைகளும் தனது கண்காணிப்பில் இருந்ததாகவும் இந்நிலையில் 5 வயது சிறுவனை துஷ்பிரயோகம் செய்த நிலையில் தம்பலகாமம் வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+
+இதேவேளை, மூன்று வயது சிறுமி சலம் கழிக்கும் போது கத்தி கதறிக் கொண்டிருந்த வேலை குறித்த நபரின் உறவினர்களினால் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட ஒரு நிலையில் சிறுமி துஷ்பிரயோகம் செய்யப்பட்டதை அவதானிக்க வைத்தியர்கள் பொலிஸ் நிலையத்திற்கு  தெரியப்படுத்தியுள்ளனர்.
+
+இந்நிலையில் விசாரணைகளை முன்னெடுத்த பொலிஸார் மூன்று வயது சிறுமியின் வாக்குமூலம் பெற்றதை அடுத்து அச்சிறுமியின் தந்தையை கைது செய்துள்ளதாகவும் ஆரம்பகட்ட விசாரணை மூலம் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/76c51c73.json)
+
+---
 
 ### Sri Lankans rescued from cyber slave camp in Myanmar transferred to Embassy
 
@@ -49,6 +105,8 @@ Upon their rescue, efforts spearheaded by the Sri Lankan Mission, the Ministry o
 ◼️
 
 [Data](articles/7f660f95.json)
+
+[Extended Data](ext_articles/7f660f95.ext.json)
 
 ---
 
@@ -239,6 +297,8 @@ According to the Police Media Division, in the evening of April 07, a group of p
 ...
 
 [Data](articles/443ae522.json)
+
+[Extended Data](ext_articles/443ae522.ext.json)
 
 ---
 
@@ -2161,67 +2221,5 @@ Most were killed not by the army but by ordinary Hutus, the majority group. “N
 [Data](articles/58f70003.json)
 
 [Extended Data](ext_articles/58f70003.ext.json)
-
----
-
-### LOLC clinches seventh successive People’s Award
-
-*2024-04-11 02:48:00* · [`islandlk`](http://island.lk/lolc-clinches-seventh-successive-peoples-award/) · `en`
-
-LOLC Holdings PLC, the leading multinational financial conglomerate in Sri Lanka, proudly announces its glorious victory in clinching the esteemed title of “People’s Financial Services Brand of the Year” at the prestigious SLIM-Kantar People’s Awards 2024. This remarkable achievement marks the seventh consecutive year that LOLC has been recognized as the top choice in the nation’s financial services sector, repeating its dominance and firm dedication to uplifting lives across Sri Lanka.
-
-At LOLC, community well-being takes primacy, and this accolade emphasises their persistent belief in prioritizing the needs and aspirations of the people they serve. Winning the SLIM-Kantar People’s Award for the seventh consecutive year is a testimony to the trust and confidence bestowed upon them by the valued stakeholders, customers, and the Sri Lankan public at large.
-
-...
-
-[Data](articles/ac8c4071.json)
-
-[Extended Data](ext_articles/ac8c4071.ext.json)
-
----
-
-### ‘ComBank Digital’ goes trilingual to enhance inclusivity
-
-*2024-04-11 02:47:00* · [`islandlk`](http://island.lk/combank-digital-goes-trilingual-to-enhance-inclusivity/) · `en`
-
-‘ComBank Digital’ – Sri Lanka’s most-used digital banking platform – has significantly enhanced mass access by going trilingual, promoting greater inclusivity and even higher usage.
-
-Announcing the development, the Commercial Bank of Ceylon said the platform’s multilingual capability is expected to expedite adoption of digital banking in rural areas and more traditional customer segments.
-
-Commercial Bank’s Assistant General Manager – Digital Banking Mr Pradeep Banduwansa also expressed the hope that with its multilingual functionality, ComBank Digital would help extend access to financial services to the un-banked and under-banked, providing them the benefits of digital transformation.
-
-...
-
-[Data](articles/64cff4fd.json)
-
-[Extended Data](ext_articles/64cff4fd.ext.json)
-
----
-
-### The solution to the small action under the Iranamadu pond from the tug
-
-*2024-04-11 02:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/180947) · `ta`
-
-The solution to the small action under the Iranamadu pond was settled after a long tug. A special discussion on Wednesday (10) in the Kilinochchi District, led by Muralitharan, addressed the issue. Representatives from various organizations, including the District Deputy Commissioner of Agrarian Development and the Irrigation Engineer, discussed the rotation of 15560 acres. Despite protests, it was decided to continue the usual rotation process.
-
-🟩
-
-The solution has been settled under a long tug of Iranamadu pond.
-
-Special Discussion of the Kilinochchi District on Wednesday (10). Muralitharan was held at the District Secretariat Conference Hall.
-
-The discussion was held on Wednesday morning (10) and the District Deputy Commissioner of the Department of Agrarian Development, Irrigation Engineer, Irrigation Engineer, Iranamadu Kamakkara and many other representatives of 22 Kamakkara Organizations under the Federation of Iranamadu Kamakkara Organizations were present.
-
-Discussions to determine the amount of small work under the Iranamadu pond were found to be in a state of tug.
-
-On Monday 8th, it was decided that 15560 acres were being carried out in a rotational process after a discussion with representatives of agricultural organizations at the District Secretariat, headed by the Government Secretary.
-
-A special discussion was scheduled for today as farmers protested against the rotation.
-
-...
-
-[Data](articles/312330b7.json)
-
-[Extended Data](ext_articles/312330b7.ext.json)
 
 ---

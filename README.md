@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 11:03:16**
+As of **2024-04-11 11:18:19**
 
 ## Newspaper Stats
 
-*Scraped **18,434** Articles*
+*Scraped **18,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,70 @@ adalk | 1,548
 tamilmirrorlk | 2,156
 adaderanalk | 2,204
 virakesarilk | 2,742
-dailymirrorlk | 2,811
+dailymirrorlk | 2,812
 adaderanasinhalalk | 2,984
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,432 (100.0%) of 18,434 articles have been extended.
+18,434 (100.0%) of 18,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### කොළඹ මගී පෝලිම් දිගු වෙයි
+### Father of 3 children fell down
+
+*2024-04-11 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/180955) · `ta`
+
+A young father of three, Selvarasa Ketheeswaran, tragically died in Kaithadi after a palm tree fell on him. The incident occurred on his way to Chavakachcheri Hospital.
+
+🟩
+
+A tragic death of a young father of three children has been tragically killed in Kaithadi area on Tuesday.
+
+The man who died on the way to the Chavakachcheri Hospital has died as the palm tree fell into the palm tree to cut down the foam.
+
+Selvarasa Ketheeswaran, the father of three children from Kaithadi area, died in the incident.
+
+The body has been handed over to relatives after the autopsy. Chavakachcheri police are conducting further investigations
+
+◼️
+
+[Data](articles/011b9eac.json)
+
+[Extended Data](ext_articles/011b9eac.ext.json)
+
+---
+
+### Colombo passenger queues long
 
 *2024-04-11 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195537) · `si`
 
-අලුත් අවුරුදු සමය වෙනුවෙන් ගම්බිම් බලා යන ජනතාවට අවශ්‍ය පහසුකම් සැපයීම සඳහා විශේෂ පොදු ප්‍රවාහන සේවා ඊයේ (10) සිට ක්‍රියාත්මක වුණි.
+Special New Year's public transport services in Colombo have been overwhelmed, leading to long queues and congestion. The National Transport Board has deployed 1,400 buses but acknowledges the need for more. Passengers from Bastion Mawatha and Central Bus Stand faced difficulties, and Makumbura Multiple Transport Center was crowded despite operating as highway buses.
 
-නමුත් අද උදෑසන වන විටත් ප්‍රවාහන පහසුකම් නිසි ලෙස නොලැබීමෙන් ජනතාව දැඩි අසීරුතාවයකට මුහුණ දී සිටී.
+🟩
 
-ජාතික ගමනාගමන මණ්ඩලය සඳහන් කළේ, ඒ සඳහා ලංකා ගමනාගමන මණ්ඩලය බස්රථ 1,400ක් යොදවා ඇති අතර අවශ්‍යතාව මත තවත් බස්රථ එක් කීරීමට කටයුතු කරන බවය.
+Special public transport services have been operating for the New Year's people to facilitate the benefit of the Gamma.
 
-කෙසේවෙතත් ඊයේ රාත්‍රියේ පිටකොටුව බැස්ටියන් මාවත හා මධ්‍යම බස් නැවතුම්පොළ වෙත පැමිණි මගීන්ට ප්‍රමාණවත් තරම් දුරගමන් සේවා බස් රථ නොමැති වීම හේතුවෙන් අපහසුතාවට පත්වීමට සිදුවුණි.
+But this morning, the people are in great difficulty without getting the transport facilities.
 
-මේ හේතුවෙන් ජනතාවට දිගු පෝලිම්වල රැඳී සිටීමට සිදු වූ අතර බස් නැවතුම්පොළේ විශාල තදබදයක්ද නිර්මාණය වී තිබිණි.
+The National Transport Board (NTC) has said that 1,400 buses have been deployed and the need to meet more buses on the need.
 
-මේ අතර අවශ්‍ය තරම් අධිවේගී මාර්ග බස්රථ ධාවනයට එක්කර තිබුණද මාකුඹුර බහුවිධ ප්‍රවාහන මධ්‍යස්ථානයේ අද උදෑසන කාලයේ විශාල පිරිසක් දක්නට ලැබිණි.
+However, passengers from the Bastion Mawatha and Central Bus Stand, however last night, had difficulty lack difficult timely.
 
-කොටුව දුම්රිය ස්ථානයටද අද පෙරවරුවේ විශාල පිරිසක් පැමිණ තිබුණේ අවුරුද්දට ගම්බිම් බලා පිටත්ව යෑම සඳහාය.
+As a result, the people had to stay in the long queues and a large congestion at the bus stand was also created.
+
+Meanwhile, a large number of people were found at the Makumbura Multiple Transport Center, even though they had to operate as highways buses.
+
+The Fort Railway Station was also present at the time of the year.
 
 ◼️
 
 [Data](articles/47e48815.json)
+
+[Extended Data](ext_articles/47e48815.ext.json)
 
 ---
 
@@ -80,30 +110,6 @@ He also said that a cyber attack was due to some weakness of the website and tha
 
 ---
 
-### Father of 3 children fell down
-
-*2024-04-11 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180955) · `ta`
-
-A young father of three, Selvarasa Ketheeswaran, tragically died in Kaithadi after a palm tree fell on him. The incident occurred on his way to Chavakachcheri Hospital.
-
-🟩
-
-A tragic death of a young father of three children has been tragically killed in Kaithadi area on Tuesday.
-
-The man who died on the way to the Chavakachcheri Hospital has died as the palm tree fell into the palm tree to cut down the foam.
-
-Selvarasa Ketheeswaran, the father of three children from Kaithadi area, died in the incident.
-
-The body has been handed over to relatives after the autopsy. Chavakachcheri police are conducting further investigations
-
-◼️
-
-[Data](articles/011b9eac.json)
-
-[Extended Data](ext_articles/011b9eac.ext.json)
-
----
-
 ### UNP Deputy meets Chief Prelate...
 
 *2024-04-11 10:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/UNP-Deputy-meets-Chief-Prelate/110-280620) · `en`
@@ -113,6 +119,8 @@ UNP Deputy Leader and Senior Presidential Advisor Ruwan Wijewardene met the Chie
 ◼️
 
 [Data](articles/0d94704c.json)
+
+[Extended Data](ext_articles/0d94704c.ext.json)
 
 ---
 
@@ -441,6 +449,26 @@ Mohammed Siyam, a resident of Gintota, was a resident of Mapugala area.
 [Data](articles/5d42b9a4.json)
 
 [Extended Data](ext_articles/5d42b9a4.ext.json)
+
+---
+
+### Xi calls for fair, transparent environment for investment in Sri Lanka
+
+*2024-04-11 08:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Xi-calls-for-fair-transparent-environment-for-investment-in-Sri-Lanka/155-280574) · `en`
+
+Colombo, April 11 (Daily Mirror) - Chinese President Xi Jinping , in his recent meeting with Prime Minister Dinesh Gunawardena, has reportedly stressed the need for ‘fair and transparent’ environment for Chinese companies to invest in Sri Lanka.
+
+The Chinese leader had further mentioned that China is not happy about its friends being influenced by other countries unnecessarily when taking decisions.
+
+However , in the meeting which a top source mentioned as friendly and cordial , the Chinese President did not refer to any third country in his remarks.
+
+The Prime Minister recently undertook a tour of China between March March 25 and 30 to attend the Boao Forum for Asia (BFA) Annual Conference 2024.
+
+Meanwhile , during a separate meeting, Chinese Prime Minister Li Qiang has raised concerns about Sri Lanka announcing a moratorium on foreign research vessels in its Exclusive Economic Zone (ECZ) targeting Chinese ships while entertaining a similar vessel from Germany in between.
+
+...
+
+[Data](articles/6e82e1f9.json)
 
 ---
 
@@ -2187,23 +2215,5 @@ He also pointed out that the truth about it should be explained.
 [Data](articles/623a909c.json)
 
 [Extended Data](ext_articles/623a909c.ext.json)
-
----
-
-### April 15 declared a government holiday
-
-*2024-04-10 18:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/April-15-declared-a-government-holiday/108-280570) · `en`
-
-Colombo, April 10 (Daily Mirror) - The State Ministry of Home Affairs today declared April 15 as a Public (government) holiday for all state employees, Ministry Secretary Pradeep Yasarathna said.
-
-He told the Daily Mirror that the decision was taken as the National Oil Anointing Ceremony falls on Monday (15).
-
-Meanwhile, Home Affairs State Minister Ashoka Priyantha earlier said several requests have been made by state officials and the public to declare April 15 as a public holiday because of the upcoming Sinhala and Tamil New Year.
-
-◼️
-
-[Data](articles/209bffa3.json)
-
-[Extended Data](ext_articles/209bffa3.ext.json)
 
 ---

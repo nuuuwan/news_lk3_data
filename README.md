@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 08:05:25**
+As of **2024-04-11 08:18:14**
 
 ## Newspaper Stats
 
-*Scraped **18,407** Articles*
+*Scraped **18,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,013
 dailyftlk | 1,018
 economynextcom | 1,027
-adalk | 1,545
+adalk | 1,546
 tamilmirrorlk | 2,151
-adaderanalk | 2,199
+adaderanalk | 2,201
 virakesarilk | 2,739
 dailymirrorlk | 2,807
 adaderanasinhalalk | 2,977
@@ -26,35 +26,81 @@ adaderanasinhalalk | 2,977
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,406 (100.0%) of 18,407 articles have been extended.
+18,407 (100.0%) of 18,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### ලංකාවට ආ විදේශිකයින්ගේ වැඩිම කැමැත්ත
+### Israeli airstrike in Gaza kills 3 sons, 4 grandchildren of top Hamas leader
+
+*2024-04-11 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98566/israeli-airstrike-in-gaza-kills-3-sons-4-grandchildren-of-top-hamas-leader) · `en`
+
+Israeli aircraft killed three sons of Hamas’ top political leader in the Gaza Strip on Wednesday, striking high-stakes targets at a time when Israel is holding delicate ceasefire negotiations with the terrorist group. Hamas said four of the leader’s grandchildren were also killed.
+
+Ismail Haniyeh’s sons are among the highest-profile figures to be killed in the war so far. Israel said they were Hamas operatives, and Haniyeh accused Israel of acting in “the spirit of revenge and murder.”
+
+The deaths threaten to strain the internationally mediated ceasefire talks, which appeared to gain steam in recent days even as the sides remain far apart on key issues.
+
+Haniyeh said Hamas would not cave to the pressure leveled by the strike on his family.
+
+...
+
+[Data](articles/0843fec2.json)
+
+---
+
+### Heavy showers above 100mm expected in parts of the island
+
+*2024-04-11 07:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98565/heavy-showers-above-100mm-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in Eastern and Uva provinces and in Hambantota district.
+
+Showers or thundershowers will occur in most places elsewhere over the island after 1.00 p.m.
+
+Heavy showers above 100 mm are likely at some places in Western, Central, Sabaragamuwa and Southern provinces.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+On the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka during 05th to 15th of April in this year.
+
+The nearest areas of Sri Lanka over which the sun is overhead today (11th) are Baththalangunduwa, Medawachchiya, Horowpotana and Trincomalee at about 12:11 noon.
+
+◼️
+
+[Data](articles/ed4f925a.json)
+
+---
+
+### Most of the foreigners to visit Sri Lanka
 
 *2024-04-11 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195529) · `si`
 
-මේ වසරේ ගත වූ මාස කිහිපය තුළ මෙරට ජාතික වනෝද්‍යාන නැරඹීම සඳහා පැමිණි විදෙස් සංචාරකයින්ගේ සංඛ්‍යාව වාර්තාගත ලෙස ඉහළ ගොස් තිබේ.
+This year, Sri Lanka's national parks saw over 2 million foreign tourists, with Yala National Park alone attracting over 100,000 visitors. The total revenue from these visitors exceeded Rs. 200 billion. The Sri Lanka Tourism Development Authority highlighted that the majority of tourists were Indian nationals, totaling 106,004.
 
-ජනවාරි සිට මාර්තු දක්වා කාලය තුළ විදෙස් සංචාරකයින් ලක්ෂ දෙකකට අධික පිරිසක් ජාතික වනෝද්‍යාන නැරඹීම සඳහා පැමිණ ඇති බව වනජීවි සංරක්ෂණ දෙපාර්තමේන්තුව සඳහන් කළේය.
+🟩
 
-ඒ අතරින් යාල ජාතික වනෝද්‍යානය නැරඹීම සඳහා ලක්ෂයකට අධික විදෙස් සංචාරකයින් පිරිසක් පැමිණ තිබේ.
+The number of foreign tourists who had come to visit the National Parks of the country have increased to the country's national parks this year.
 
-ඊට අමතරව වස්ගමුව, කුමන, විල්පත්තුව, බුන්දල, උඩවලව, මින්නේරිය සහ කවුඩුල්ල වැනි ජාතික වනෝද්‍යාන නැරඹීමට විදෙස් සංචාරකයින් වැඩි වශයෙන් පැමිණ ඇති බව වාර්තා වේ.
+The Department of Wildlife Conservation stated that over January to March, more than two million foreign tourists have visited the national parks.
 
-වසරේ ගත වූ මාස තුන තුළ ජාතික වනෝද්‍යාන නැරඹීමට පැමිණි දෙස් විදෙස් සංචාරකයින්ගෙන් රුපියල් කෝටි 200කට අධික වාර්තාගත ආදායමක් උපයා ඇති බව සඳහන්ය.
+Over 100,000 foreign tourists have visited the Yala National Park.
 
-පසුගිය වසරට සාපේක්ෂව මේ වසරේ ජාතික වනෝද්‍යාන මඟින් උපයා ගත හැකි ආදායම ඉහළ යා හැකි බව වාර්තා වේ.
+In addition, foreign tourists have arrived at the Wilpattu, Bundala, Udawalawa, Minneriya and Kwudulla such as Wilpoththala, Udawalawa, Minneriya and Kwadulla.
 
-මේ අතර වසරේ ගත වූ කාලය තුළ විදෙස් සංචාරකයින් 686,321 දෙනෙකු දිවයිනට පැමිණ තිබේ.
+Over 200 million foreign tourists visited the national parks during the past three months has earned over Rs. 200 billion.
 
-ඉන් වැඩි දෙනෙකු ඉන්දීය ජාතිකයින් වන අතර එම සංඛ්‍යාව 106,004ක් බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය සඳහන් කළේය.
+It is reported that the generation earned by the National Parks of National National Parks will increase the year compared to last year.
+
+In the meantime, 686,321 foreign tourists arrived in the island during the year.
+
+The Sri Lanka Tourism Development Authority stated that most of them are Indian nationals and that number is 106,004.
 
 ◼️
 
 [Data](articles/6cb1d11e.json)
+
+[Extended Data](ext_articles/6cb1d11e.ext.json)
 
 ---
 
@@ -1340,6 +1386,24 @@ The silver and bronze medalists also offer cash prizes since 2028.
 
 ---
 
+### අවුරුදු 9 දරුවා දුම්රියට බිලි
+
+*2024-04-10 19:52:27* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-9-දරුවා-දුම්රියට-බිලි/11-409055) · `si`
+
+විනෝදයට පාපැදියක් පදිමින් සිටි 9 හැවිරිදි  දරුවෙක් මොරටුව මුරවත්ත දුම්රිය හරස් මාර්ගය අසලදී දුම්රියක ගැටී මිය ගොස් ඇතැයි මොරටුව මූලස්ථාන පොලිසිය කියයි
+
+අනතුරින් මියගොස් ඇත්තේ මොරටුව මොරටුවැල්ල ක්ලෝවියස් මාවතේ  අංක 64/බි  ලිපිනයේ පදිංචිව සිටි මොරටුව ජන ජය විදුහලේ සිව්වන වසරේ ඉගෙනුම ලබමින් සිටි එම් ආර්  රන්තරු නමැති දරුවාය
+
+මියගිය දරුවා  අලුත් ගාලු පාරේ සිට  පාපැදිය පදවාගෙන යමින් සිටියදී දුම්රිය ධාවනය  කිරීමට නියමිතව තිබි ඇති බැවින් දුම්රිය හරස් මාර්ගයේ ගේට්ටු වසා දමා තිබී ඇති අතර   දරුවා දුම්රිය මාර්ගය අසල පාපැදිය නවතාගෙන සිට ඇතැයි පොලිසිය කියයි
+
+එම අවස්ථාවේදී  කොළඹ සිට ගාල්ල දෙසට ගමන් ගන්නා දුම්රිය ගමන් කර ඇති අතර හරස් ගේට්ටු විවෘත කිරීමට පෙර    දරුවා සිය පාපැදිය දුම්රිය මාර්ගය හරහා පදවා ඇතැයි පොලිසිය කියයි
+
+...
+
+[Data](articles/907aa09a.json)
+
+---
+
 ### Minister Tips of Import of Vehicles in 2025
 
 *2024-04-10 19:43:35* · [`adalk`](https://www.ada.lk/breaking_news/2025දී-වාහන-ආනයනය-ගැන-ඇමතිගෙන්-ඉඟියක්/11-409053) · `si`
@@ -2149,59 +2213,5 @@ An official said in an international court that Germany is providing humanitaria
 [Data](articles/25c6d3ec.json)
 
 [Extended Data](ext_articles/25c6d3ec.ext.json)
-
----
-
-### India remains SL’s most reliable, dependable partner: Indian Envoy
-
-*2024-04-10 15:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/India-remains-SLs-most-reliable-dependable-partner-Indian-Envoy/155-280564) · `en`
-
-Colombo, Aprl 10 (Daily Mirror) - India will remain Sri Lanka’s most reliable friend and a trusted and dependable partner, emphasized Indian High Commissioner to Sri Lanka Santosh Jha.
-
-"Our bilateral cooperation is expanding and diversifying. It is buttressed by India’s growing national capabilities. We now cooperate in a wider range of areas including infrastructure and connectivity, deeper economic engagement, trade and investment, culture and education, tourism and people-to-people ties,” stated the High Commissioner during the Second Seminar on India-Sri Lanka Defence Seminar held in Colombo.
-
-The seminar, attended by dignitaries including State Minister of Defence Pramitha Bandara Tennakoon, Chief of Defence Staff Gen. Shavendra Silva, Commanders of the Sri Lanka Navy and Air Force, senior officials from the Sri Lankan Armed Forces, and Indian delegates led by Additional Secretary from the Ministry of Defence, Anurag Bajpai, emphasized the Defence relations between the two nations.
-
-...
-
-[Data](articles/229c9320.json)
-
-[Extended Data](ext_articles/229c9320.ext.json)
-
----
-
-### India remains SL’ s most reliable, dependable partner: Indian Envoy
-
-*2024-04-10 15:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-remains-SL-s-most-reliable-dependable-partner-Indian-Envoy/108-280564) · `en`
-
-Colombo, Aprl 10 (Daily Mirror) - India will remain Sri Lanka’s most reliable friend and a trusted and dependable partner, emphasised Indian High Commissioner to Sri Lanka Santosh Jha.
-
-"Our bilateral cooperation is expanding and diversifying. It is buttressed by India’s growing national capabilities. We now cooperate in a wider range of areas including infrastructure and connectivity, deeper economic engagement, trade and investment, culture and education, tourism and people-to-people ties,” stated the High Commissioner during the Second Seminar on India-Sri Lanka Defence Seminar held in Colombo.
-
-The seminar, attended by dignitaries including State Minister of Defence Pramitha Bandara Tennakoon, Chief of Defence Staff Gen. Shavendra Silva, Commanders of the Sri Lanka Navy and Air Force, senior officials from the Sri Lankan Armed Forces, and Indian delegates led by Additional Secretary from the Ministry of Defence, Anurag Bajpai, emphasized the Defence relations between the two nations.
-
-◼️
-
-[Data](articles/633f9d42.json)
-
-[Extended Data](ext_articles/633f9d42.ext.json)
-
----
-
-### India remains SL’s most reliable, dependable partner: Indian Envoy
-
-*2024-04-10 15:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-remains-SLs-most-reliable-dependable-partner-Indian-Envoy/108-280564) · `en`
-
-Colombo, Aprl 10 (Daily Mirror) - India will remain Sri Lanka’s most reliable friend and a trusted and dependable partner, emphasized Indian High Commissioner to Sri Lanka Santosh Jha.
-
-"Our bilateral cooperation is expanding and diversifying. It is buttressed by India’s growing national capabilities. We now cooperate in a wider range of areas including infrastructure and connectivity, deeper economic engagement, trade and investment, culture and education, tourism and people-to-people ties,” stated the High Commissioner during the Second Seminar on India-Sri Lanka Defence Seminar held in Colombo.
-
-The seminar, attended by dignitaries including State Minister of Defence Pramitha Bandara Tennakoon, Chief of Defence Staff Gen. Shavendra Silva, Commanders of the Sri Lanka Navy and Air Force, senior officials from the Sri Lankan Armed Forces, and Indian delegates led by Additional Secretary from the Ministry of Defence, Anurag Bajpai, emphasized the Defence relations between the two nations.
-
-...
-
-[Data](articles/aa661028.json)
-
-[Extended Data](ext_articles/aa661028.ext.json)
 
 ---

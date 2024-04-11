@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 20:34:20**
+As of **2024-04-11 20:51:30**
 
 ## Newspaper Stats
 
-*Scraped **18,500** Articles*
+*Scraped **18,501** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 1,549
 tamilmirrorlk | 2,163
 adaderanalk | 2,214
 virakesarilk | 2,756
-dailymirrorlk | 2,822
+dailymirrorlk | 2,823
 adaderanasinhalalk | 2,996
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,500 (100.0%) of 18,500 articles have been extended.
+18,500 (100.0%) of 18,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### Three businessmen nabbed with illegally imported goods at BIA
+
+*2024-04-11 20:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-businessmen-nabbed-with-illegally-imported-goods-at-BIA/108-280632) · `en`
+
+Three businessmen who attempted to smuggle a stock of goods worth more than Rs. 200 million into the country were arrested this evening by a group of investigation officers attached to the Sri Lanka Customs at the Bandaranaike International Airport (BIA).
+
+The Customs investigations revealed that the goods were imported into the country illegally without paying Customs duty.
+
+Among the goods were foreign-made whiskey, cigarettes, apple varieties, smart mobile phones, wristwatches, Apple Mac books, Apple iPads and many other electrical items were found by the Customs officers.
+
+These goods were imported to addresses in the Minuwangoda, Maskeliya and Colombo 13 areas.
+
+The arrest was made by a group of Airport Criminal Investigation Department officers who were engaged in surveillance duties in the area outside the airport.
+
+The seized goods and the arrested businessmen have been handed over to the airport Customs officials for further investigations.
+
+◼️
+
+[Data](articles/ec63e044.json)
+
+---
 
 ### At least 17 pilgrims killed, dozens injured in bus crash in Pakistan
 
@@ -2307,21 +2329,5 @@ The Bastille will be breached. If not totally, substantially. 2024 is the year w
 [Data](articles/efc79ac3.json)
 
 [Extended Data](ext_articles/efc79ac3.ext.json)
-
----
-
-### India and Sri Lanka identify new opportunities in defence cooperation
-
-*2024-04-11 05:09:09* · [`dailyftlk`](https://www.ft.lk/news/India-and-Sri-Lanka-identify-new-opportunities-in-defence-cooperation/56-760581) · `en`
-
-The Indian High Commission yesterday held a seminar on Defence Cooperation with the theme “Identifying new opportunities and forging new bonds” to promote Indian Made Defence equipment and explore avenues for collaboration in defence production at Taj Samudra, Colombo.
-
-State Minister of Defence Premitha Bandara Tennakoon was the Chief Guest.
-
-...
-
-[Data](articles/8fb36ad4.json)
-
-[Extended Data](ext_articles/8fb36ad4.ext.json)
 
 ---

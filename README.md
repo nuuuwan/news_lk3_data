@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 21:52:31**
+As of **2024-04-11 22:03:38**
 
 ## Newspaper Stats
 
-*Scraped **18,505** Articles*
+*Scraped **18,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,73 @@ dbsjeyarajcom | 214
 newsfirstlk | 363
 islandlk | 1,015
 dailyftlk | 1,018
-economynextcom | 1,034
+economynextcom | 1,035
 adalk | 1,549
 tamilmirrorlk | 2,163
-adaderanalk | 2,215
+adaderanalk | 2,216
 virakesarilk | 2,758
-dailymirrorlk | 2,823
+dailymirrorlk | 2,826
 adaderanasinhalalk | 2,997
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,505 (100.0%) of 18,505 articles have been extended.
+18,505 (100.0%) of 18,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### CPC assures uninterrupted fuel supply during Avurudu season
+
+*2024-04-11 21:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98580/cpc-assures-uninterrupted-fuel-supply-during-avurudu-season) · `en`
+
+The Ceylon Petroleum Corporation (CPC) says it has taken necessary measures to ensure an uninterrupted supply of fuel from Ceypetco filling stations during the Sinhala and Tamil New Year season.
+
+To this end, steps have been taken to maintain adequate stocks by importing fuel shipments to meet the demand, the CPC said further, adding that the filling station owners were given directives in this regard.
+
+Additionally, in a bid to ease the distributor’s fuel ordering procedures, transactions via cheques have been facilitated until 15 April.
+
+During this period, the Ceylon Petroleum Storage Terminals Ltd. will be dispatching sufficient tankers for fuel distribution activities, the CPC added.
+
+◼️
+
+[Data](articles/98dd8715.json)
+
+---
+
+### Will import eggs from India again if local prices increase: Minister
+
+*2024-04-11 21:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-import-eggs-from-India-again-if-local-prices-increase-Minister/108-280633) · `en`
+
+The government will import eggs from India again if the local egg prices increase again, Trade Minister Nalin Fernando said.
+
+He told the media that a slight price decrease was seen in the prices of eggs in the local market during the past few days, but the current price of an egg in the local market has increased up to Rs. 50.
+
+It was reported that the higher demand for eggs has caused the price increase in the local market, the Minister added.
+
+◼️
+
+[Data](articles/0fafb505.json)
+
+---
+
+### Malagamuwa secures 2nd place in European GT-4 Championship
+
+*2024-04-11 21:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Malagamuwa-secures-2nd-place-in-European-GT-4-Championship/108-280631) · `en`
+
+Colombo, April 11 (Daily Mirror) - Sri Lankan motor racing sensation Dilantha Malagamuwa returns home triumphant after clinching the second place at the European GT-4 Car Racing Championship held at the Paul Ricard track in France.
+
+Competing against elite drivers from 40 nations during the event spanning April 5th to 7th, Malagamuwa represented Sri Lanka and Asia on the international stage.
+
+Reflecting on his achievement, Malagamuwa expressed gratitude to his supporters and affirmed his commitment to excel in the upcoming ten races, including eight on the international circuit in Europe.
+
+◼️
+
+[Data](articles/8c912a36.json)
+
+---
 
 ### 8 Sri Lankans rescued in Myanmar will soon be returned to Sri Lanka - Ministry of External Affairs
 
@@ -672,6 +722,28 @@ According to Ambassador Bandara, the rescued Sri Lankans are in good health and 
 
 ---
 
+### Sri Lanka govt waits for LD approval to establish Chartered Institute for Journalists: Minister
+
+*2024-04-11 15:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-govt-waits-for-ld-approval-to-establish-chartered-institute-for-journalists-minister-158304/) · `en`
+
+ECONOMYNEXT – Sri Lanka government is waiting for the approval from the Legal Draftsman Department to proceed with  Chartered Institute for Journalists, State Media Minister Shantha Bandara said.
+
+The Cabinet has approved the establishment of Chartered Institute for Journalists in 2021, but it has not taken off the ground amid Covid pandemic and an unprecedented economic crisis.
+
+Media Minister Bandula Gunawardena had promised to complete the state-controlled professional media body by last year.
+
+“We have sent it to the Attorney Legal Draftsman Department. The approval is yet to be given,” State Minister Bandara told reporters on Tuesday.
+
+“We hope we get the approval, we will start the Chartered Institute of Journalism as soon as possible.”
+
+Sri Lanka’s move to set up such institute aiming to strengthen the professionalism of journalists comes amid criticism over vast deterioration in terms of moral and cultural values in the country and journalists’ failure to prevent such deterioration.
+
+...
+
+[Data](articles/f53fb07b.json)
+
+---
+
 ### To pay attention to the impact on the poor - Asian Development Bank
 
 *2024-04-11 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180982) · `ta`
@@ -1043,6 +1115,22 @@ ADB’s growth forecast hinges on the continuation of reforms and better consume
 [Data](articles/044fa93c.json)
 
 [Extended Data](ext_articles/044fa93c.ext.json)
+
+---
+
+### Sri Lanka shows signs of recovery but must maintain reform momentum: ADB
+
+*2024-04-11 13:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-shows-signs-of-recovery-but-must-maintain-reform-momentum-ADB/155-280626) · `en`
+
+COLOMBO, April 11- The Asian Development Bank’s (ADB) annual flagship economic publication, the Asian Development Outlook (ADO) April 2024, forecasts Sri Lanka’s economy to record moderate growth of 1.9% in 2024 and 2.5% in 2025 following 2 consecutive years of contractions.
+
+According to the ADB, Sri Lanka is showing signs of recovery, with green shoots emerging in the second half of 2023 while inflation has decelerated to single digits, foreign exchange reserves continue to be built up, and the exchange rate has appreciated. Furthermore, tourist arrivals and remittance inflows continue to show a commendable recovery while supply conditions have improved.
+
+ADB’s growth forecast hinges on the continuation of reforms and better consumer and business sentiment. Timely completion of external debt restructuring will also support Sri Lanka’s debt sustainability efforts.
+
+...
+
+[Data](articles/085aa757.json)
 
 ---
 
@@ -2273,97 +2361,5 @@ With airport traffic steadily increasing and nearing pre-pandemic levels, acquir
 [Data](articles/40bafde8.json)
 
 [Extended Data](ext_articles/40bafde8.ext.json)
-
----
-
-### Uncomplicated route to Kachchatheevu
-
-*2024-04-11 05:46:24* · [`dailyftlk`](https://www.ft.lk/columns/Uncomplicated-route-to-Kachchatheevu/4-760585) · `en`
-
-When an easy path is available and when the Indians and Sri Lankans both are linked to a common goal, why move on complicated routes?
-
-The recent statements by Prime Minister Narendra Modi and External Affairs Minister Dr. S. Jaishankar (37 minutes long) on Kachchatheevu created a sensation in India and Sri Lanka, especially regarding what would be their short- and long-term repercussions. Quotes such as “every Indian” is angered as PM Modi said, and India needing to sit down and work out a solution, declared by Minister Dr. Subramaniam Jashankar, insinuated the heartburn and the potential for follow-up action in Indian power-houses.
-
-...
-
-[Data](articles/64025928.json)
-
-[Extended Data](ext_articles/64025928.ext.json)
-
----
-
-### HNB and Ideal Motors partner up once again to offer exclusive perks on Mahindra automobiles, Powerol generators
-
-*2024-04-11 05:46:00* · [`islandlk`](http://island.lk/hnb-and-ideal-motors-partner-up-once-again-to-offer-exclusive-perks-on-mahindra-automobiles-powerol-generators/) · `en`
-
-Sri Lanka’s leading private sector bank, HNB PLC, has entered into a fresh agreement with Ideal Motors (Pvt.) Ltd, to promote and offer financing solutions for Mahindra automobiles and generators.
-
-A Memorandum of Understanding (MoU) was signed at Ideal Motors Head Office, which saw the participation of HNB Assistant General Manager (AGM) – Personal Financial Solutions, Kanchana Karunagama and Ideal Motors Director – Automotive, Chaminda Wanigarathna, among other representatives from both companies.
-
-Mallika Hemachndra Jewellers offer a glittering new year with gold and smiles
-
-HNB clinches joint victory at ACCA Sustainability Reporting Awards 2023
-
-HNB celebrates 135-year legacy of partnerships and progress with commemorative stamp launch
-
-Declaration of attractive dividends by banking sector counters rejuvenates bourse
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/12462c1b.json)
-
-[Extended Data](ext_articles/12462c1b.ext.json)
-
----
-
-### People’s Bank quiz teams shine in back-to-back competitions
-
-*2024-04-11 05:46:00* · [`islandlk`](http://island.lk/peoples-bank-quiz-teams-shine-in-back-to-back-competitions/) · `en`
-
-The intellect and knowledge prowess of People’s Bank quiz teams have once again been proven as they clinched victories in consecutive quiz competitions, showcasing their dominance in the realm of corporate intellect and acumen.
-
-In an exhilarating display of professional expertise and knowledge, the People’s Bank team emerged triumphant at the prestigious EXQUIZITE 3.0-2024 Quiz Competition. The event, organized by NSBM’s Human Resource Circle in collaboration with NFORCE – NSBM, unfolded on the 19th of March 2024 at the university auditorium. Leading the charge was Pulasthi Gunasekara as Team Leader, ably supported by Charith Malalasekara and Pasan Gunaratne, securing the coveted championship title.
-
-...
-
-[Data](articles/26570e53.json)
-
-[Extended Data](ext_articles/26570e53.ext.json)
-
----
-
-### Aitken Spence Travels wins prestigious CPM Best Management Practices Award 2024
-
-*2024-04-11 05:46:00* · [`islandlk`](http://island.lk/aitken-spence-travels-wins-prestigious-cpm-best-management-practices-award-2024/) · `en`
-
-Aitken Spence Travels, the leading destination management company in Sri Lanka, clinched the coveted category award for the Hospitality and Tourism sector at the esteemed CPM Best Management Practices Company Awards (BMPC) 2024. The company recently received the award at the event organised by the Institute of Chartered Professional Managers of Sri Lanka (CPM Sri Lanka).
-
-The accolade reflects Aitken Spence Travels’ commitment to best management practices across its operations and celebrates the company’s managerial expertise, market leadership and business acumen for performance.
-
-...
-
-[Data](articles/48b73de7.json)
-
-[Extended Data](ext_articles/48b73de7.ext.json)
-
----
-
-### ASPI soars beyond 12,000, first time in 2 years
-
-*2024-04-11 05:46:00* · [`islandlk`](http://island.lk/aspi-soars-beyond-12000-first-time-in-2-years/) · `en`
-
-The All Share Price Index (ASPI) on the Colombo Stock Exchange (CSE) crossed the 12,000 points mark at the end of trading yesterday for the first time since 21st February 2022, market analysts said.
-
-The bullish trend extended due to the prevailing favourable outlook on Sri Lanka’s external debt restructuring exercise.
-
-Further, the banking sector counters, especially Sampath Bank contributed more than 50 percent to the turnover, they said.
-
-...
-
-[Data](articles/d5ceb59d.json)
-
-[Extended Data](ext_articles/d5ceb59d.ext.json)
 
 ---

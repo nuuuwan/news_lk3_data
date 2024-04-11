@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 09:33:38**
+As of **2024-04-11 09:52:28**
 
 ## Newspaper Stats
 
-*Scraped **18,419** Articles*
+*Scraped **18,421** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,013
 dailyftlk | 1,018
 economynextcom | 1,027
-adalk | 1,546
-tamilmirrorlk | 2,153
+adalk | 1,547
+tamilmirrorlk | 2,154
 adaderanalk | 2,203
 virakesarilk | 2,739
 dailymirrorlk | 2,809
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,980
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,417 (100.0%) of 18,419 articles have been extended.
+18,419 (100.0%) of 18,421 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### ஆதரவு குறித்து கருத்து தெரிவிக்க கட்சி தடை
+
+*2024-04-11 09:35:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆதரவு-குறித்து-கருத்து-தெரிவிக்க-கட்சி-தடை/175-335845) · `ta`
+
+வரவிருக்கும் தேர்தல்கள் குறித்து SLPP எம்பிக்கள் முரண்பட்ட கருத்துக்களை வெளியிட்டதையடுத்து, முறையான முடிவு எடுக்கும் வரை எந்த ஒரு ஜனாதிபதி வேட்பாளருக்கும் தங்கள் ஆதரவு குறித்து கருத்து தெரிவிக்க கட்சி தலைமை இறைமை தடை விதித்துள்ளது என  கட்சி நிர்வாகி ஒருவர் நேற்று தெரிவித்தார்.
+
+SLPP தற்போது அதன் ஆதரவில் பிளவுபட்டுள்ளது, அரசாங்கத்தில் பதவிகளை வகிப்பவர்கள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் முன்மொழியப்பட்ட வேட்புமனுவை வெளிப்படையாக ஆதரிக்கின்றனர். அவர்களில் அமைச்சர்களான சுசில் பிரேமஜயந்த, பிரசன்ன ரணதுங்க மற்றும் அலி சப்ரி ஆகியோர் அடங்குவர்.
+
+மற்றொரு பிரிவினர் சொந்த வேட்பாளரை நிறுத்த வேண்டும் என வலியுறுத்துகின்றனர். அத்துடன், கட்சியின் அரசியலமைப்பை மீறி, ஏனைய கட்சிகளுடன் இணைந்து செயற்படுபவர்களுக்கு எதிராக கடும் ஒழுக்காற்று நடவடிக்கை எடுக்கவும் கட்சி தீர்மானித்துள்ளது.
+
+◼️
+
+[Data](articles/459317cc.json)
+
+---
 
 ### 25-year-old arrested with cache of heroin worth Rs. 60mn
 
@@ -50,25 +66,33 @@ He is slated to be produced before Maligakanda No. 2 Court today (11).
 
 [Data](articles/85d82ff4.json)
 
+[Extended Data](ext_articles/85d82ff4.ext.json)
+
 ---
 
-### දකුණු කොරියාවේ පාලක පක්ෂයට දරුණු පරාජයක්
+### The South Korean ruling party is a serious defeat
 
 *2024-04-11 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195532) · `si`
 
-දකුණු කොරියාවේ ඊයේ (10) පැවති මහ මැතිවරණයෙන් ප්‍රධාන විපක්ෂයට ට විශිෂ්ට ජයක් හිමිවී ඇති අතර ඒ අනුව පාර්ලිමේන්තුවේ බලය තහවුරු කර ගැනීමට ඔවුන් සමත්වී ඇත.
+The main opposition in South Korea won a significant victory, consolidating Parliament power. The Democratic Party now holds 192 seats. The President's party suffered a severe defeat, with the Prime Minister and Chairman resigning.
 
-එරට ජාතික සභාවේ ආසන 300න් 192ක බලය හිමිකර ගැනීමට ප්‍රජාතන්ත්‍රවාදී පක්ෂය සහ ඔවුන් සමග එකතුව කටයුතු කළ කුඩා පක්ෂ සමත්වී තිබේ.
+🟩
 
-ජනාධිපතිවරයාගේ People Power පක්ෂයට ඒ අනුව දරුණු පරාජයක් හිමිවී තිබේ.
+The main opposition won the major opposition in South Korea yesterday (10) and they were able to consolidate the power of Parliament.
 
-වර්තමාන ජනාධිපති Yoon Suk Yeol ගේ ප්‍රතිපත්ති ගැන ඇති ජනතා කැමැත්ත විමසීමට ජනමත විචාරණයක් ලෙස මෙම මැතිවරණය සැලකුණි.
+The Democratic Party and the Democratic Party and the Democratic Party and the Democratic Party and the Democratic Party have come to hold 192 seats in the national church.
 
-මෙම පරාජයත් සමගම අගමැති Han Duk-soo සහ People Power පක්ෂයේ සභාපති Han Dong-hoon ඉල්ලා අස්වී ඇති බව සඳහන් වෙයි.
+The President's People's People Power has been a severe defeat.
+
+The election was considered as a referendum to consult the people's consent about the current President of the present President YOON Suk Seno.
+
+The Prime Minister HAN DUK-SOO and the Chairman of Prime Minister HAN DUK-SOO and the Chairman of Prime Minister HAN DUK-SOO and Prime Minister HAN DUK-SOO and Prime Minister HAN DUK-SOO and Prime Minister HAN DUK-SOO and Prime Minister HAN DUK-SOO and Prime Minister HAN Dong-Soo have resigned.
 
 ◼️
 
 [Data](articles/11e68d81.json)
+
+[Extended Data](ext_articles/11e68d81.ext.json)
 
 ---
 
@@ -1566,6 +1590,26 @@ Asked whether the announcement would violate the Olympic spirit, Coe was clear. 
 
 ---
 
+### ආයතන තුනකින් අපේක්ෂිත බදු ආදායම බිලියන 3789
+
+*2024-04-10 19:57:35* · [`adalk`](https://www.ada.lk/breaking_news/ආයතන-තුනකින්-අපේක්ෂිත-බදු-ආදායම-බිලියන-3789/11-409056) · `si`
+
+මෙම වසරේ දේශීය ආදායම් දෙපාර්තමේන්තුව, ශ්‍රී ලංකා රේගුව සහ ශ්‍රී ලංකා සුරා බදු දෙපාර්තමේන්තුවෙන් ඇස්තමේන්තුගත බදු ආදායම රුපියල් බිලියන 3,789ක් රජය විසින් බලාපොරොත්තු වන බව පාර්ලිමේන්තුවේදී අනාවරණය විය.
+
+එහිදී දේශීය ආදායම් දෙපාර්තමේන්තුවෙන් රුපියල් බිලියන 2024ක්ද, ශ්‍රී ලංකා රේගුවෙන් රුපියල් බිලියන 1,533ක්ද සහ ශ්‍රී ලංකා සුරා බදු දෙපාර්තමේන්තුවෙන් රුපියල් බිලියන 232ක් ද ලෙස මෙම වසරේ ආදායම ලෙස ගණනය කර ඇත.
+
+2023 වසරේදී දේශීය ආදායම් දෙපාර්තමේන්තුවෙන් ඇස්තමේන්තුගත ආදායම රුපියල් බිලියන 1,667ක් බලාපොරොත්තු වුවද, එම වසරේදී රුපියල් බිලියන 1550ක් පමණක් බදු ආදායම ලෙස එකතු කර ගැනීමට හැකිව තිබේ.
+
+ශ්‍රී ලංකා රේගුවේන් 2023 වසරේදී ඇස්තමේන්තුගත ආදායම රුපියල් බිලියන 1,220ක් බලාපොරොත්තු වුවද, එම වසරේදී රුපියල් බිලියන 974ක් පමණක් බදු ආදායම ලෙස එකතු කර ගැනීමට හැකිව ඇත.
+
+මීට අමතරව ශ්‍රී ලංකා සුරා බදු දෙපාර්තමේන්තුවෙන් 2023 වසරේදී රුපියල් බිලියන 217ක් ලෙස ඇස්තමේන්තුගත ආදායමක් රජය බලාපොරොත්තු වුවද බදු ලෙස එම වසරේදී රුපියල් බිලියන 171.2ක් පමණක් බදු ආදායම ලෙස එකතු කර ගැනීමට හැකිව තිබේ.
+
+...
+
+[Data](articles/94fb13df.json)
+
+---
+
 ### Money prizes to Olympic athletic champions
 
 *2024-04-10 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195520) · `si`
@@ -2167,49 +2211,5 @@ In recent weeks, Mr Yoon been criticised for appearing to be out of touch with v
 [Data](articles/99f7b038.json)
 
 [Extended Data](ext_articles/99f7b038.ext.json)
-
----
-
-### The reason for the company is no longer the reason - Jeevan Thondaman
-
-*2024-04-10 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/180928) · `ta`
-
-Jeevan Thondaman emphasized the need for plantation workers' salary standards, criticizing companies for not participating in talks. He highlighted the importance of a referendum on salary hike and urged workers to stand up against plantation companies.
-
-🟩
-
-“The 2nd meeting of the Plantation Workers' Salary Standards Board will be held on the 24th of this month.. All the trade unions should stand up to the labor and use their vote. ”
-
-He said this during a media briefing held at the Colombo Ministry on Wednesday (10).
-
-'Salary Standards Council met today. Nine union representatives participated in 10 unions. Plantation Service Association representatives did not participate. Plantation companies do not come.
-
-On the first day we announced that the salary council would be convened on the 10th. However, the company had announced yesterday (09) that they could not come.
-
-We have been holding talks since last August. Therefore, the reasons that the companies claim to have no timely time are not acceptable.
-
-We have consulted with the Attorney General that there is no legislation on the issue of joint agreement. But companies refuse to come to the joint venture as a legal issue.
-
-...
-
-[Data](articles/16e070d5.json)
-
-[Extended Data](ext_articles/16e070d5.ext.json)
-
----
-
-### Immunoglobulin scandal: Additional Health Secretary’s bail application rejected
-
-*2024-04-10 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98558/immunoglobulin-scandal-additional-health-secretarys-bail-application-rejected) · `en`
-
-The bail application filed by the Additional Secretary of the Health Ministry, who is allegedly complicit in the procurement of substandard human intravenous immunoglobulin (IVIG) vials, has been rejected.
-
-When Saman Ratnayake was produced before the Maligakanda Magistrate’s Court earlier today (10), Magistrate Lochani Abeywickrama ordered that the accused be further held in remand custody until the conclusion of the hearing.
-
-◼️
-
-[Data](articles/e8a6d2c9.json)
-
-[Extended Data](ext_articles/e8a6d2c9.ext.json)
 
 ---

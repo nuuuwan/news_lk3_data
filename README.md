@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 06:17:42**
+As of **2024-04-11 06:55:52**
 
 ## Newspaper Stats
 
-*Scraped **18,397** Articles*
+*Scraped **18,399** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,17 +16,17 @@ islandlk | 1,013
 dailyftlk | 1,018
 economynextcom | 1,027
 adalk | 1,545
-tamilmirrorlk | 2,149
+tamilmirrorlk | 2,150
 adaderanalk | 2,199
 virakesarilk | 2,739
-dailymirrorlk | 2,804
+dailymirrorlk | 2,805
 adaderanasinhalalk | 2,973
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,384 (99.9%) of 18,397 articles have been extended.
+18,391 (100.0%) of 18,399 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ With airport traffic steadily increasing and nearing pre-pandemic levels, acquir
 
 [Data](articles/40bafde8.json)
 
+[Extended Data](ext_articles/40bafde8.ext.json)
+
 ---
 
 ### Uncomplicated route to Kachchatheevu
@@ -57,6 +59,8 @@ The recent statements by Prime Minister Narendra Modi and External Affairs Minis
 ...
 
 [Data](articles/64025928.json)
+
+[Extended Data](ext_articles/64025928.ext.json)
 
 ---
 
@@ -72,6 +76,8 @@ In an exhilarating display of professional expertise and knowledge, the People�
 
 [Data](articles/26570e53.json)
 
+[Extended Data](ext_articles/26570e53.ext.json)
+
 ---
 
 ### Aitken Spence Travels wins prestigious CPM Best Management Practices Award 2024
@@ -85,6 +91,8 @@ The accolade reflects Aitken Spence Travels’ commitment to best management pra
 ...
 
 [Data](articles/48b73de7.json)
+
+[Extended Data](ext_articles/48b73de7.ext.json)
 
 ---
 
@@ -102,6 +110,8 @@ Further, the banking sector counters, especially Sampath Bank contributed more t
 
 [Data](articles/d5ceb59d.json)
 
+[Extended Data](ext_articles/d5ceb59d.ext.json)
+
 ---
 
 ### Colombo Caregiver School holds Its grand orientation
@@ -116,6 +126,8 @@ The event was graced by the presence of our esteemed chief guests: Dr. Janaka Ja
 
 [Data](articles/091d47ca.json)
 
+[Extended Data](ext_articles/091d47ca.ext.json)
+
 ---
 
 ### Decline: Why Ranil and Sajith ain’t no JR and Premadasa
@@ -129,6 +141,8 @@ The obvious answer is Ceylon/Sri Lanka and Dr. N.M. Perera, Minister of Finance,
 ...
 
 [Data](articles/11f0555f.json)
+
+[Extended Data](ext_articles/11f0555f.ext.json)
 
 ---
 
@@ -588,6 +602,24 @@ MP Jayawardene and Mano Ganesan lodged a complaint with the CID a few weeks ago 
 
 ---
 
+### Tourist arrivals cross 50,000 mark in first 9 days of April
+
+*2024-04-11 01:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-arrivals-cross-50-000-mark-in-first-9-days-of-April/108-280603) · `en`
+
+Extending the growth momentum, the international tourist arrivals to Sri Lanka crossed the 50,000 mark during the first nine days of April.
+
+The provisional data from the Sri Lanka Tourism Development Authority showed that for the first nine days of April, the island nation welcomed a total of 50,537. This brings the cumulative arrivals for the January 1 to March 9 period to 686,321.
+
+When compared with the same period, last year, the inflow of international visitors has expanded by above 45 percent in the nine-day period.
+
+The daily average improved to around 5615 in the month, from around 3844 from a year ago. Sri Lanka is targeting between 168,539 and 182,724 tourist arrivals for April, which requires a daily average between 5617 and 6090, to achieve this target. The current arrival trend shows that Sri Lanka could reach the lower bound of the arrival target for the month.
+
+...
+
+[Data](articles/a84c59e1.json)
+
+---
+
 ### Rashid Khan's first defeat for Rajasthan
 
 *2024-04-11 01:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180943) · `ta`
@@ -713,6 +745,24 @@ The competitions have been divided into three sections, namely State Section, Op
 [Data](articles/7ed404f9.json)
 
 [Extended Data](ext_articles/7ed404f9.ext.json)
+
+---
+
+### சுபவேளை பத்திரம் ஜனாதிபதியிடம் கையளிப்பு
+
+*2024-04-10 23:27:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுபவேளை-பத்திரம்-ஜனாதிபதியிடம்-கையளிப்பு/175-335841) · `ta`
+
+தமிழ் சிங்களப் புத்தாண்டுக்கான சுபவேளை குறிப்புப் பத்திரம் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் சம்பிரதாய  முறைப்படி நேற்று ஜனாதிபதி அலுவலகத்தில் வைத்து கையளிக்கப்பட்டது.
+
+கலாசார அலுவல்கள் திணைக்களத்தின் அரச சுபநேர கணிப்புக் குழுவினால் தயாரிக்கப்பட்ட சுபவேளை குறிப்புப் பத்திரமே இவ்வாறு ஜனாதிபதியிடம் கையளிக்கப்பட்டது.
+
+புத்தசாசன, சமய கலாசார அலுவல்கள் அமைச்சர் விதுர விக்கிரமநாயக்க சம்பிரதாய முறைப்படி  ஜனாதிபதிக்கு வழங்கி வைத்தார்.
+
+புத்தாண்டு பிறப்பு, புண்ணிய காலம், உணவு சமைத்தல், அடுப்பு பற்றவைத்தல், உணவு உண்ணல், தலைக்கு எண்ணெய் தேய்த்தல், புத்தாண்டில் வேலைக்குப் புறப்பட்டு செல்லுதல் உள்ளிட்ட சுப காரியங்களுக்கான சுப நேரங்கள் மேற்படி பத்திரத்தில் குறிப்பிடப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/be9a042a.json)
 
 ---
 
@@ -2123,51 +2173,5 @@ US Secretary of State Anthony Blink has also stated that the United States of Am
 [Data](articles/7c1c3e5e.json)
 
 [Extended Data](ext_articles/7c1c3e5e.ext.json)
-
----
-
-### Chamara Sampath threatens Phosphate Company employee
-
-*2024-04-10 15:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chamara-Sampath-threatens-Phosphate-Company-employee/108-280562) · `en`
-
-Colombo, April 10 (Daily Mirror)- State Minister of Primary Industries Chamara Sampath Dasanayake is alleged to have severely accused and threatened the Human Resources and Administration Assistant of the Lanka Phosphate Company H.D.V.K. Chandraratne in the presence of the officials of the Ministry and the company.
-
-The trade union Sri Lanka Nidahas Sevaka Sangamaya has informed the Minister that it will resort to trade union action in case of a recurrence of similar incidents in the future.
-
-Meanwhile, the official concerned has requested the Chairman of the Company Sandya Ambanwela to hold a formal investigation into the incident.
-
-The official said the Minister called her for a meeting at the Ministry and threatened and severely scolded her in the presence of the Chairman and several senior officials of the company, on an allegation that she had harassed a casual employee.
-
-...
-
-[Data](articles/1db42e49.json)
-
-[Extended Data](ext_articles/1db42e49.ext.json)
-
----
-
-### Employers did not come in the final time: Senthil
-
-*2024-04-10 15:07:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இறுதி-நேரத்தில்-முதலாளிமார்-வரவில்லை-கடுப்பானார்-செந்தில்/76-335821) · `ta`
-
-Senthil Thondaman, CWC leader, criticizes employers for not negotiating plantation workers' salary increase. The Employers Federation is negotiating with the salary council. Thondaman warns of trade union action if no solution is found. The CWC opposes the Employers Federation's approach, preparing to support plantation workers.
-
-🟩
-
-CWC leader Senthil Thondaman has strongly condemned the CWC's continuous pressure on the salary increase of plantation workers.
-
-The Employers Federation is in the process of negotiating with the salary council on the salary increase of plantation workers.
-
-Senthil Thondaman has also warned the employers' federation that the CWC will engage in heavy trade union if there is no proper solution to the plantation workers.
-
-This is the best example of how the Employers Federation, which adopts the government -appointed salary council, will approach the problems of plantation workers in the plantation workers.. This is why the CWC adopts their actions against their actions.
-
-They have no agreement with a salary increase. Senthil Thondaman said that the struggle against the CWC employers' federation is being prepared for the welfare of the plantation workers.
-
-◼️
-
-[Data](articles/f0de30a1.json)
-
-[Extended Data](ext_articles/f0de30a1.ext.json)
 
 ---

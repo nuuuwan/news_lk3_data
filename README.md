@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 11:34:02**
+As of **2024-04-11 11:53:00**
 
 ## Newspaper Stats
 
-*Scraped **18,438** Articles*
+*Scraped **18,443** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,65 @@ dbsjeyarajcom | 213
 newsfirstlk | 363
 islandlk | 1,013
 dailyftlk | 1,018
-economynextcom | 1,027
-adalk | 1,548
+economynextcom | 1,029
+adalk | 1,549
 tamilmirrorlk | 2,156
 adaderanalk | 2,205
 virakesarilk | 2,743
-dailymirrorlk | 2,812
+dailymirrorlk | 2,814
 adaderanasinhalalk | 2,985
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,435 (100.0%) of 18,438 articles have been extended.
+18,438 (100.0%) of 18,443 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### RW can successfully implement reforms though own mandate: Prelate
+
+*2024-04-11 11:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/RW-can-successfully-implement-reforms-though-own-mandate-Prelate/108-280621) · `en`
+
+Colombo, April 11 (Daily Mirror) - The Chief Prelate (Mahanayake) of the Kotte Sri Kalayani Samagri Dharma Maha Sangha Sabha of the Siyam Maha Nikaya, Ven. Dr. Ittapana Dhammalankara Anu Nayake Maha Thera said incumbent President Ranil Wickremesinghe can implement reforms successfully if he receives a mandate of his own at a future presidential election.
+
+Thera made this remark when UNP Deputy Leader and Presidential Advisor Ruwan Wijewardene met him today.
+
+"One cannot bring about reforms through votes received by others," he said.
+
+"Ranil Wickremesinghe will be the most politically mature candidate in the next Presidential election," Thera added.
+
+"There will be other candidates, such as Anura Kumara Dissanayake at the next Presidential election. There is nothing wrong in them contesting the presidential election, but the incumbent president will be the most mature candidate at the next presidential poll," he added.
+
+Wijewardene said Sri Lanka's economy is becoming better and better.
+
+...
+
+[Data](articles/3b610160.json)
+
+---
+
+### Fuel distributors warns of trade union action after April 20
+
+*2024-04-11 11:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fuel-distributors-warns-of-trade-union-action-after-April-20/108-280619) · `en`
+
+Colombo, April 11 (Daily Mirror) - Despite the Ceylon Petroleum Corporation's (CPC) implementation a VAT on discounts for Petroleum Dealers, Vice President Kusum Sandanayaka of the Sri Lanka Petroleum Private TankOwners’ Association stated they’ll ensure uninterrupted fuel distribution until April 20.
+
+Addressing the media, he highlighted that Petroleum Dealers are burdened with an 18 percent VAT on the CPC’S three percent discount.
+
+Despite their willingness to pay VAT, he emphasized it’s unlawful to impose VAT on this discount. He noted efforts to raise this concern with relevant authorities, including the Inland Revenue Department, Finance Ministry, and CPC, without receiving concessions for three months, Sandanayaka said.
+
+Consequently, their association has decided to alert all members about this issue, he said.
+
+All fuel distributors, including CPC, Sinopac, IOC, and RM Parks (Private) Limited, convened to address the issue last morning.
+
+...
+
+[Data](articles/17e75ff7.json)
+
+---
 
 ### Amnesty urges accountability for ‘unlawful use of weapons’ in policing of protests in SL
 
@@ -46,23 +88,31 @@ Amnesty International said its research showed a pattern in the unlawful use of 
 
 [Data](articles/3e7b5c20.json)
 
+[Extended Data](ext_articles/3e7b5c20.ext.json)
+
 ---
 
-### வடமராட்சி பாடசாலை அதிபரையும் வலயக் கல்விப் பணிப்பாளரையும் விசாரணைக்கு அழைத்த மனித உரிமைகள் ஆணைக்குழு!
+### Human Rights Commission called for inquiry into Vadamarachchi School Principal and Zonal Education Director!
 
 *2024-04-11 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180953) · `ta`
 
-வடமராட்சியில் உள்ள ஆரம்பப் பாடசாலையொன்றின் அதிபரையும் வடமராட்சி வலயக்கல்வி பணிப்பாளரையும் எதிர்வரும் 24.04.2024 அன்று இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாண அலுவலகத்தில் முன்னிலையாகி பாடசாலையில் நிதி சேகரிப்பு தொடர்பில் விளக்கமளிக்குமாறு கடிதம் அனுப்பப்பட்டுள்ளது.
+The Human Rights Commission of Sri Lanka has initiated an inquiry into the fundraising practices of Vadamarachchi School's Principal and Zonal Education Director, following reports of alleged misconduct involving WhatsApp fundraising. Protests have erupted, damaging the school's reputation.
 
-குறித்த பாடசாலையின் அதிபர் உள்ளிட்ட சிலர் வாட்ஸப் சமூக ஊடக குழு ஒன்றின் மூலம் மாணவர்களின் பெற்றோர்களிடம் பணம் பெற்று வந்துள்ளதாக நேற்று புதன்கிழமையன்று செய்திகள் வெளியாகி இருந்தன.
+🟩
 
-அந்தவகையில் குறித்த பாடசாலையின் நற்பெயருக்கு களங்கம் ஏற்பட்டு விட்டதாக நேற்றையதினம் ஒரு தரப்பினர் போராட்டம் செய்திருந்தனர்.
+A letter has been sent to the Principal of the Principal of the Primary School in Vadamarachchi and the Director of Vadamarachchi Zonal Education on 24.04.2024 to explain the fundraising of the school in the Jaffna Office of the Human Rights Commission of Sri Lanka.
 
-இந்நிலையில் குறித்த நிதி சேகரிப்பு குறித்து விசாரணை நடாத்துவதற்காக இவ்வாறு அழைப்பு விடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+It was reported on Wednesday that some people, including the principal of the school, had received money from the parents of the students through a WhatsApp Social Media Group.
+
+Yesterday, a parties were protesting that the school's reputation was tarnished.
+
+It is noteworthy that this has been called for an investigation into the fund raising.
 
 ◼️
 
 [Data](articles/0fe767bf.json)
+
+[Extended Data](ext_articles/0fe767bf.ext.json)
 
 ---
 
@@ -120,25 +170,33 @@ The Fort Railway Station was also present at the time of the year.
 
 ---
 
-### වීසා ඉක්මවූ විදේශිකයන් 2,400ක් ශ්‍රී ලංකාවේ
+### 2,400 foreigners over visa in Sri Lanka
 
 *2024-04-11 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195536) · `si`
 
-වීසා කාලය ඉක්මවූ 2,400 ඉක්මවූ විදේශිකයන් පිරිසක් මෙරට තුළ සිටින බව ආගමන විගමන දෙපාර්තමේන්තුව පවසයි.
+Over 2,400 foreigners exceeded their visas in Sri Lanka, with significant numbers from Russia, Ukraine, and Israel, especially in Weligama. Local traders warn of potential issues if unresolved. The SLFP plans to discuss the Southern Province's situation this week, aiming for quick police intervention.
 
-සංචාරක ක්ෂේත්‍රය ආශ්‍රිතව මෙරට තුළ ව්‍යාපාරවල නිරතවන විදේශීකයන් සම්බන්ධයෙන් පාර්ලිමේන්තුවේ පැවති රාජ්‍ය ගිණුම් පිළිබඳ කාරක සභාවේදී යොමුකළ ප්‍රශ්නයකට පිළිතුරු ලබාදෙමින් ඔවුන් මේබව සඳහන් කළේය.
+🟩
 
-මෙහිදී අදහස් දක්වමින් සංචාරක රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය පවසා සිටියේ, වැලිගම ප්‍රදේශයේ රුසියානු සහ යුක්‍රේන ජාතිකයින් රැසක් වෙළෙඳාම් කටයුතුවල නියැලෙන බවය.
+The Department of Immigration and Emigration says that a large number of foreigners exceeded 2,400 visa during the visa.
 
-මෙහිදී වැඩිදුරටත් අදහස් දක්වමින් රාජ්‍ය අමාත්‍යවරිය පවසා සිටියේ, මෙම තත්ත්වයට කඩිනමින් විසඳුමක් ලබාදුන්නේ නැත්නම් ඉතා භයානක තත්ත්වයක් ඇති විය හැකි බවට දේශීය වෙළෙඳුන් අනතුරු ඇඟවූ බවය.
+They answered a question referred to a question referred to as a statement made by the Committee on Public Accounts in Parliament in the tourism industry.
 
-මේ අතර ඊශ්‍රායල ජාතිකයින් ද මේ වනවිට දකුණු පළාතේ වෙළෙඳාම් සිදුකරන බවට තොරතුරු ලැබී ඇතැයි පැවසු ඩයනා ගමගේ මහත්මිය, මෙම වෙළෙඳාම් කටයුතු සඳහා සහාය ලබාදෙන දේශීය පුද්ගලයින්ව වහාම අත්අඩංගුවට ගත යුතු බව ද පැවසීය.
+Minister of Tourism Diyan Gamage said that he said that there were many Russian and Ukrainians in Weligama.
 
-ආගමන විගමන දෙපාර්තමේන්තුවේ, අධ්‍යක්ෂ ජනරාල් අයි.එස්.එච්.ජේ.ඉළුක්පිටිය මහතා මෙහිදී අදහස් දක්වමින් පවසා සිටියේ, මේ සඳහා මේ වනවිටත් වැඩසටනක් දියත් කර ඇති බවය.
+The State Minister further stated that the local traders warned that if no solution could be a profound condition.
 
-...
+Meanwhile, Mrs. Diyanayana Gamage, said that the Israeli nationals were also in the Southern Province.
+
+Commenting in comments, Director General of Immigration and Emigration and Emigration and Emigration Emigration.
+
+He said that the SLFP is due to discuss the issue of the Southern Province this week and is expected to respond quickly on the intervention of the police.
+
+◼️
 
 [Data](articles/c8bfd6b2.json)
+
+[Extended Data](ext_articles/c8bfd6b2.ext.json)
 
 ---
 
@@ -707,6 +765,24 @@ Police Media Spokesperson DIG Nihal Talduuwa said that a special police protecti
 [Data](articles/50f4b2aa.json)
 
 [Extended Data](ext_articles/50f4b2aa.ext.json)
+
+---
+
+### Sri Lanka’s central bank buys $715mn from fx markets in March
+
+*2024-04-11 06:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-buys-715mn-from-fx-markets-in-march-158260/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has bought 715 million US dollars from forex markets in March 2024, up from a net 239.5 million US dollars in February, taking the total so far this year to 1,199 million dollars, official data show.
+
+Gross official reserves went up by 431 million US dollars in March as debt was repaid from domestic savings.
+
+A central bank is able to collect reserves when domestic credit is moderated by an appropriate interest rate (reducing domestic investments), and the rupees created by dollar purchases are mopped up by central bank securities sales to commercial banks.
+
+The action constitutes a raising of ‘deposits’ by the central bank (a note-issue bank) from the domestic economy and lending it to the US or other reserve currency nations to finance their deficits.
+
+...
+
+[Data](articles/d4112085.json)
 
 ---
 
@@ -1936,6 +2012,20 @@ Answer (Amuruda): 'Both of my parents are very interested in cricket. My father 
 
 ---
 
+### 2030 දී ගුවන් හමුදා භට පිරිස 18000ක් දක්වා අඩු කිරීමට යයි
+
+*2024-04-10 20:05:48* · [`adalk`](https://www.ada.lk/breaking_news/2030-දී-ගුවන්-හමුදා-භට-පිරිස-18000ක්-දක්වා-අඩු-කිරීමට-යයි/11-409058) · `si`
+
+භට පිරිස් විසින් ලබා දෙන සේවය තක්ෂණය භාවිත කරමින් ලබාගෙන  ගුවන් හමුදාවේ භටපිරිස්වල ප්‍රමාණය 2030 වසර වන විට අඩු කිරිමට සැලසුම්කර තිබෙන බව එයාර් මාර්ෂල් උදේනි රාජපක්ෂ මහතා සඳහන් කළේය. ඊයේ(10දා) ගුවන් හමුදා මූලස්ථානයේ පැවැත් වූ මාධ්‍ය සාකච්ඡාවකදී මාධ්‍යවේදීන්  ඇසූ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් මේ බව සඳහන් කළ ගුවන් හමුදාපතිවරයා වැඩිදුරටත් සඳහන් කළේ දැනට සිටින 35000ක් පමණ වූ භට පිරිස්වලින් ලබාගන්නා  සේවය   2030 වසර වන විට  18000ක  ප්‍රමාණයකින් මීට වඩා වඩා පලදායි ලෙස  ලබා දීමට කටයුතු කරන බව ය.
+
+ආරක්ෂිත කැමරා තාක්ෂණය  හා ඒ අයි තාක්ෂණය ඇතුළු තාක්ෂණය භාවිත කරමින්  හා  ඩ්‍රෝන කාත්ෂණය යොදගෙන භටයෙකු විසින් ලබා දෙන සේවය ලබා ගැනීමට හැකිවන බවත්,  ඩ්‍රෝන එකකින් එකවර කිලෝ මීටර් 05 ක පමණ ප්‍රමාණයක් ආවරණය කළ හැකි බවත් හෙතෙම පවසා සිටියේය.
+
+...
+
+[Data](articles/dd1859f4.json)
+
+---
+
 ### World Athletics introduces $50,000 prize money for Olympic gold medallists
 
 *2024-04-10 20:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/World-Athletics-introduces-50-000-prize-money-for-Olympic-gold-medallists/107-280573) · `en`
@@ -2131,85 +2221,5 @@ The ritual of the New Year Rite is a government holiday due to April 15, 2024 du
 [Data](articles/083abe8a.json)
 
 [Extended Data](ext_articles/083abe8a.ext.json)
-
----
-
-### Sri Lanka Air Force organizes Colombo Air Show and Defence Exhibition (CADE 2024)
-
-*2024-04-10 19:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Air-Force-organizes-Colombo-Air-Show-and-Defence-Exhibition-CADE-2024/108-280568) · `en`
-
-Colombo, April 10 (Daily Mirror) - The Sri Lanka Air Force is gearing up for the Colombo Air Show and Defence Exhibition (CADE 2024) to showcase air power and boost tourism and investment.
-
-Air Force Commander Air Marshal Udeni Rajapaksa announced that the five-day event will run from May 29 to June 2 at the Galle Face and Colombo Port City.
-
-CADE 2024 aims to enhance SLAF's proficiency, readiness, and overall effectiveness, with international and local aviation industry organizations participating.
-
-The Commander said that financial support from local and foreign entities is also expected to ensure the event's success.
-
-The event's objectives include air power showcasing, air diplomacy, promoting tourism and investments, defense industry promotion, technology and innovation and providing opportunities for career seekers. It will feature two segments; Air Show & Exhibition and Recreational Segment.
-
-...
-
-[Data](articles/871ff14a.json)
-
-[Extended Data](ext_articles/871ff14a.ext.json)
-
----
-
-### Announced as a public holiday on April 15
-
-*2024-04-10 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180935) · `ta`
-
-The Public Administration Ministry declared April 15 a public holiday due to the National Oil Anointing.
-
-🟩
-
-The Public Administration Ministry has been announced on April 15 as a public holiday.
-
-Pradeep Yasaratne, Secretary of the Ministry of Home Affairs, Provincial Councils and Local Government, said that the decision was taken as the National Oil Anointing was to be held on Monday (15).
-
-◼️
-
-[Data](articles/a1210b3e.json)
-
-[Extended Data](ext_articles/a1210b3e.ext.json)
-
----
-
-### Four former Presidents should bow out of politics: Dullas
-
-*2024-04-10 18:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Four-former-Presidents-should-bow-out-of-politics-Dullas/108-280566) · `en`
-
-Colombo, April 10 (Daily Mirror) - The four former Presidents who are in active politics should bow out for their own benefit and for the sake of the people, MP Dullas Alahapperuma said today.
-
-MP Alahapperuma said former Presidents Mahinda Rajapaksa, Chandrika Bandaranaike Kumaratunga, Maithripala Sirisena and Gotabaya Rajapaksa should keep away from active politics.
-
-"Keeping away from politics is good for their own health and for the sake of the people. Public funds which are spent on them should not be used for any political matter," the MP said.
-
-"Only one time US President John Quincy Adams contested for the US Congress. He is the only foreign head of state to remain in politics after his retirement from the post, he added.
-
-◼️
-
-[Data](articles/060e82ba.json)
-
-[Extended Data](ext_articles/060e82ba.ext.json)
-
----
-
-### Public holidays on the 15th
-
-*2024-04-10 18:35:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-ஆம்-திகதி-பொது-விடுமுறை/175-335826) · `ta`
-
-The Ministry of Public Administration has declared Monday, 15th, a public holiday for the Tamil Sinhala New Year.
-
-🟩
-
-The Ministry of Public Administration has announced Monday 15th as a public holiday on the 15th of the Tamil Sinhala New Year.. Remble
-
-◼️
-
-[Data](articles/0caabcbb.json)
-
-[Extended Data](ext_articles/0caabcbb.ext.json)
 
 ---

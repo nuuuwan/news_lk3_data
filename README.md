@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 20:03:34**
+As of **2024-04-11 20:18:27**
 
 ## Newspaper Stats
 
-*Scraped **18,498** Articles*
+*Scraped **18,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 163
 bbccomsinhala | 193
 dbsjeyarajcom | 214
 newsfirstlk | 363
-islandlk | 1,014
+islandlk | 1,015
 dailyftlk | 1,018
 economynextcom | 1,034
 adalk | 1,549
 tamilmirrorlk | 2,163
-adaderanalk | 2,213
+adaderanalk | 2,214
 virakesarilk | 2,756
 dailymirrorlk | 2,822
 adaderanasinhalalk | 2,996
@@ -26,11 +26,35 @@ adaderanasinhalalk | 2,996
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,498 (100.0%) of 18,498 articles have been extended.
+18,498 (100.0%) of 18,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### At least 17 pilgrims killed, dozens injured in bus crash in Pakistan
+
+*2024-04-11 19:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98579/at-least-17-pilgrims-killed-dozens-injured-in-bus-crash-in-pakistan) · `en`
+
+At least 17 Pakistani pilgrims have died in a bus crash while travelling to a shrine in Balochistan for Eid-al-Fitr celebrations.
+
+The accident occurred late on Wednesday officials say, when the vehicle lost control before falling into a ravine.
+
+More than 40 are also being treated for injuries in Karachi and police have warned casualties could rise.
+
+High-fatality crashes are common in Pakistan, often caused by driver error and poorly maintained roads.
+
+Balochistan Chief Minister Sindh Murad Ali Shah told reporters that two children were among the injured, and that at least five people had sustained serious head injuries.
+
+“They were all very poor people,” he said of the victims, describing them as labourers who had been travelling by truck from the Thatta region in the country’s south, to visit a Sufi Muslim temple in the remote city of Khuzdar some 500km (310 miles) away.
+
+He added that the details of the accident were still under investigation.
+
+...
+
+[Data](articles/86e2f7db.json)
+
+---
 
 ### Three arrested with illegal goods in Katunayake
 
@@ -2244,6 +2268,20 @@ The obvious answer is Ceylon/Sri Lanka and Dr. N.M. Perera, Minister of Finance,
 
 ---
 
+### Deeply Passionate about modelling and the fashion industry
+
+*2024-04-11 05:25:00* · [`islandlk`](http://island.lk/deeply-passionate-about-modelling-and-the-fashion-industry/) · `en`
+
+Hey there! I’m a 30-year-old guy, deeply passionate about modelling and the fashion industry. Every day is an exciting adventure as I get to work with incredible designers, photographers, and stylists to bring their visions to life. My job takes me to various locations, from bustling cities to serene landscapes, for photo shoots and runway shows. I love the creativity and versatility this career offers, allowing me to express myself through different styles and concepts. It’s a fast-paced world, but I thrive on the energy and challenges it brings.
+
+I decided to become a model because I have a deep passion for fashion, creativity, and self-expression. The opportunity to collaborate with talented individuals in the industry, such as designers, photographers, and stylists, was a major driving force. Overall, modelling allows me to showcase my unique personality and style while pursuing a career that fuels my passion for creativity and expression.
+
+...
+
+[Data](articles/6f9d8383.json)
+
+---
+
 ### The Falcon and Falconer
 
 *2024-04-11 05:24:15* · [`dailyftlk`](https://www.ft.lk/columns/The-Falcon-and-Falconer/4-760583) · `en`
@@ -2281,39 +2319,5 @@ State Minister of Defence Premitha Bandara Tennakoon was the Chief Guest.
 [Data](articles/8fb36ad4.json)
 
 [Extended Data](ext_articles/8fb36ad4.ext.json)
-
----
-
-### Third successful BFAS held; this year with a school highlighting interfaith harmony
-
-*2024-04-11 05:06:54* · [`dailyftlk`](https://www.ft.lk/news/Third-successful-BFAS-held-this-year-with-a-school-highlighting-interfaith-harmony/56-760580) · `en`
-
-The third successful “Break-Fast At Sunset” was held on 31 March at the Vidyawardana Maha Vidyalaya of Pelawatta, Battaramulla. The event saw the participation of more than 1,500 including children, their parents, and invitees representing leadership of all faiths and public officials.
-
-“This year we wanted to do something different and chose to break our fast with children of a few schools. Co-existence is a ‘feeling’ more than just a thought and we felt sharing this moment with children and their parents would be very special,” said Siddi Farook, Chairman of Sri Lanka Muslim Civil Society (SLMCS) which was established with the Motto of “Humanity Beyond Religion”.
-
-...
-
-[Data](articles/dfb73a3c.json)
-
-[Extended Data](ext_articles/dfb73a3c.ext.json)
-
----
-
-### Korea to provide assistance to education, health, renewable energy, employment following PM’s visit
-
-*2024-04-11 05:05:41* · [`dailyftlk`](https://www.ft.lk/news/Korea-to-provide-assistance-to-education-health-renewable-energy-employment-following-PM-s-visit/56-760579) · `en`
-
-Ambassador of the Republic of Korea Miyon Lee called on Prime Minister Dinesh Gunawardena at the Prime Minister’s Office in Colombo yesterday to discuss follow up actions on the decisions taken at the discussions held during the Prime Minister’s visit.
-
-Gunawardena held discussions with Korean Prime Minister Han Duck-soo, Speaker of National Assembly Kim Jin-pyo, Governor of Gyengsangbuk-do Province Lee Cheol-woo and former Secretary General of the United Nation and current President and chair of Green Growth Institute Ban Ki-moon.
-
-During these discussions, Korea agreed to increase support to Sri Lanka in several sectors including education, health, renewable energy, employment, agriculture and rural development.
-
-...
-
-[Data](articles/6c9b1332.json)
-
-[Extended Data](ext_articles/6c9b1332.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 10:18:18**
+As of **2024-04-11 10:34:04**
 
 ## Newspaper Stats
 
-*Scraped **18,426** Articles*
+*Scraped **18,428** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ tamilmirrorlk | 2,156
 adaderanalk | 2,204
 virakesarilk | 2,740
 dailymirrorlk | 2,809
-adaderanasinhalalk | 2,981
+adaderanasinhalalk | 2,983
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,425 (100.0%) of 18,426 articles have been extended.
+18,426 (100.0%) of 18,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### ටීම් 20ට තවත් අපරාධකරුවන් කොටුවෙයි
+
+*2024-04-11 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195535) · `si`
+
+සංවිධානාත්මක අපරාධ මැඩ පැවැත්වීම සඳහා මාර්තු මස 19 වනදා සිට පොලිස් කණ්ඩායම් 20ක් යොදවා ආරම්භ කළ මෙහෙයුම තවදුරටත් ක්‍රියාත්මක වෙයි.
+
+එම කණ්ඩායම් විසින් සංවිධානාත්තමක අපරාධ කල්ලි සාමාජිකයින් 6 දෙනෙක් සහ තවත්ත සැකකරුවන් 7 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව පොලිස් මාධ්‍ය කොට්ඨාසය නිවේදනය කරයි.
+
+එම පුද්ගලයින්ව කළුතර, ගාල්ල, බස්නාහිර පළාත (දකුණ) හා බස්නාහිර පළාත (උතුර) යන අපරාධ කොට්ඨාසවල නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/4b12b153.json)
+
+---
+
+### මරදානේ නිවසකින් සඟවා තිබූ අවි ආයුධ සොයා ගැනේ
+
+*2024-04-11 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195534) · `si`
+
+මරදාන, ලොක්ගේට්ලේන් ප්‍රදේශයේ නිවසක තිබී T-56 වර්ගයේ ගිනිඅවියක්, ජීව උණ්ඩ 14ක් සහිත මැගසිනයක් ඇතුළු අවි ආයුධ සමඟ පුද්ගලයින් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+සංවිධානාත්මක අපරාධ කල්ලි දෙකක් අතර හටගෙන ඇති ගැටුම්කාරී තත්ත්වයක් මත ප්‍රතිවිරුද්ධ කණ්ඩායම්වල සාමාජිකයින් ඝාතනය කිරීම සඳහා අවිආයුධ මෙම ස්ථානයේ සඟවා ඇති බවට බුද්ධි තොරතුරු මඟින් අනාවරණ වී තිබිණි.
+
+යුක්තිය මෙහෙයුමට සමගාමීව විශේෂ කාර්ය බළකා බුද්ධි කොට්ඨාසයේ නිලධාරීන් මරදාන, ලොක්ගේට්ලේන් ප්‍රදේශයේ ශ්‍රී බෝධිරාජාරාමය විහාරස්ථානය පිටුපස නිවසක ඊයේ (10) වැටලීමක් සිදුකළේය.
+
+එහිදී නිවසේ වහලයේ පිටුපස කොටසේ ගමන්මල්ලක බහා තිබූ T-56 වර්ගයේ ස්වයංක්‍රීය ගිනිඅවියක්, ජීව උණ්ඩ 14ක් සහිත මැගසිනයක්, කඩුවක් සහ කිනිස්සක්ද ඇතුළුව තියුණු ආයුධ සමඟ පුද්ගලයින් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුවන් මරදාන ප්‍රදේශයේ පදිංචි අවුරුදු 18, 34, 47 යන වයස්වල පසුවන්නන්ය.
+
+...
+
+[Data](articles/f839db2b.json)
+
+---
 
 ### Decision to reduce SLAF troops
 
@@ -98,19 +134,25 @@ Tracking groups will excel in vehicles carrying liquor for relaxing purpose.
 
 ---
 
-### பிரபல மிருதங்க வித்துவான் காலமானார் !
+### Celebrity Mridanga Vidhuvan has passed away!
 
 *2024-04-11 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180949) · `ta`
 
-பிரபல மிருதங்க வித்துவான் பிரம்மஸ்ரீ சு.வரதராஜசர்மா நேற்று புதன்கிழமையன்று (10) யாழ்ப்பாணம் தெல்லிப்பழையில் காலமானார்.
+Mridanga Vidhuvan Brahmasree S. Varadarajasarma, a renowned artist and educator, passed away on Wednesday, May 10, in Tellippalai, Jaffna. Born on May 2, 1955, in Tellipala, he contributed significantly to art and education, especially in moral development.
 
-தெல்லிப்பழையை பிறப்பிடமாகக்  கொண்ட இவர் ,1955 ஆம் ஆண்டு மே மாதம் 02 ம் திகதி பிறந்தார்.  இவர் மிருதங்க வித்துவானாக பல்வேறு கலை சார் பணிகளை முன்னெடுத்திருந்தார்.
+🟩
 
-குறிப்பாக யுத்த காலம் முதல் இன்று வரை அறநெறி சார் கல்வி வளர்ச்சியிலும் பங்காற்றியுள்ளமை குறிப்பிடத்தக்கது.
+Popular Mridanga Vidhuvan Brahmasree S. Varadarajasarma passed away on Wednesday (10) at Tellippalai, Jaffna.
+
+Born on May 2, 1955, a native of Tellipala.He has carried out various artistic work as Mridanga Vidhan.
+
+It is noteworthy that from the time of the war to the present, moral education has contributed to the development of education.
 
 ◼️
 
 [Data](articles/e8523e00.json)
+
+[Extended Data](ext_articles/e8523e00.ext.json)
 
 ---
 
@@ -2165,55 +2207,5 @@ In response to a media query the necessity of maintaining fighter jets like Kfir
 [Data](articles/8b11a010.json)
 
 [Extended Data](ext_articles/8b11a010.ext.json)
-
----
-
-### Sri Lanka to pilot pre-arrival processing of import shipments from May
-
-*2024-04-10 17:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-to-pilot-pre-arrival-processing-of-cargo-from-may-158237/) · `en`
-
-ECONOMYNEXT – Sri Lanka Customs is seeking early declaration of cargo from this month, and will begin pre-arrival processing of import cargo as a pilot project from May, Additional Director General Sudatta Silva said.
-
-“It is still in the development stage,” Silva told EconomyNext.  “If the pilot is successful, we would be able to launch by the end of June.”
-
-Currently cargo ships arriving in Sri Lanka must declare the cargo upon their arrival in territorial waters.
-
-“We plan on getting cargo information 48 hours before the departure of the ship from the foreign port,” Silva said. “That way it is faster for us to do our homework.”
-
-“This way we can do the risk assessment and see if it’s low risk, medium risk or high risk.”
-
-Sri Lanka Customs can then start the process of authorization and documentation before the ship arrives in Sri Lankan territorial waters.
-
-Prior cargo declaration begins from April, and piloting of pre-arrival processing is set to start on May 1.
-
-...
-
-[Data](articles/ee2f0617.json)
-
-[Extended Data](ext_articles/ee2f0617.ext.json)
-
----
-
-### Education, land and housing rights will be made by the people in the economy - the President
-
-*2024-04-10 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180925) · `ta`
-
-President Ranil Wickremesinghe promises to strengthen education, land, and housing rights, aiming to make citizens stronger economy partners. He highlights the transformation of people into economic partners as key to a resilient economy. Wickremesinghe has handed over 294 houses in Kazimawatte, emphasizing the importance of protecting these homes. He also mentions the government's efforts to create a breathable environment compared to 2022, despite tax policies increasing life burdens. The President credits the resilience of the people for the government's financial strength, leading to a 10,000 rupee salary increase for public servants. He plans to grant permanent land and home rights, aiming to contribute to the economy by ensuring education, land, home, and business rights for the people.
-
-🟩
-
-President Ranil Wickremesinghe has promised to take steps to make them stronger shareholders in the economy, ensuring education, land, home and business rights.
-
-The President also pointed out that the transformation of the people into partners of the economy can build a strong economy that does not fall.
-
-President Ranil Wickremesinghe made this statement at a function handed over to the beneficiaries at the Colombo Association yesterday (09).
-
-In 2010, the President handed over the housing of 294 houses in replacement of the houses that were on fire in Kazimawatte.
-
-...
-
-[Data](articles/44b1b0cd.json)
-
-[Extended Data](ext_articles/44b1b0cd.ext.json)
 
 ---

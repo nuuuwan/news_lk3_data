@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 05:18:19**
+As of **2024-04-11 05:37:59**
 
 ## Newspaper Stats
 
-*Scraped **18,379** Articles*
+*Scraped **18,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 162
 bbccomsinhala | 192
 dbsjeyarajcom | 213
 newsfirstlk | 363
-islandlk | 1,001
-dailyftlk | 1,012
+islandlk | 1,003
+dailyftlk | 1,015
 economynextcom | 1,027
 adalk | 1,545
 tamilmirrorlk | 2,149
@@ -26,11 +26,55 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,369 (99.9%) of 18,379 articles have been extended.
+18,379 (100.0%) of 18,384 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### India and Sri Lanka identify new opportunities in defence cooperation
+
+*2024-04-11 05:09:09* · [`dailyftlk`](https://www.ft.lk/news/India-and-Sri-Lanka-identify-new-opportunities-in-defence-cooperation/56-760581) · `en`
+
+The Indian High Commission yesterday held a seminar on Defence Cooperation with the theme “Identifying new opportunities and forging new bonds” to promote Indian Made Defence equipment and explore avenues for collaboration in defence production at Taj Samudra, Colombo.
+
+State Minister of Defence Premitha Bandara Tennakoon was the Chief Guest.
+
+...
+
+[Data](articles/8fb36ad4.json)
+
+---
+
+### Third successful BFAS held; this year with a school highlighting interfaith harmony
+
+*2024-04-11 05:06:54* · [`dailyftlk`](https://www.ft.lk/news/Third-successful-BFAS-held-this-year-with-a-school-highlighting-interfaith-harmony/56-760580) · `en`
+
+The third successful “Break-Fast At Sunset” was held on 31 March at the Vidyawardana Maha Vidyalaya of Pelawatta, Battaramulla. The event saw the participation of more than 1,500 including children, their parents, and invitees representing leadership of all faiths and public officials.
+
+“This year we wanted to do something different and chose to break our fast with children of a few schools. Co-existence is a ‘feeling’ more than just a thought and we felt sharing this moment with children and their parents would be very special,” said Siddi Farook, Chairman of Sri Lanka Muslim Civil Society (SLMCS) which was established with the Motto of “Humanity Beyond Religion”.
+
+...
+
+[Data](articles/dfb73a3c.json)
+
+---
+
+### Korea to provide assistance to education, health, renewable energy, employment following PM’s visit
+
+*2024-04-11 05:05:41* · [`dailyftlk`](https://www.ft.lk/news/Korea-to-provide-assistance-to-education-health-renewable-energy-employment-following-PM-s-visit/56-760579) · `en`
+
+Ambassador of the Republic of Korea Miyon Lee called on Prime Minister Dinesh Gunawardena at the Prime Minister’s Office in Colombo yesterday to discuss follow up actions on the decisions taken at the discussions held during the Prime Minister’s visit.
+
+Gunawardena held discussions with Korean Prime Minister Han Duck-soo, Speaker of National Assembly Kim Jin-pyo, Governor of Gyengsangbuk-do Province Lee Cheol-woo and former Secretary General of the United Nation and current President and chair of Green Growth Institute Ban Ki-moon.
+
+During these discussions, Korea agreed to increase support to Sri Lanka in several sectors including education, health, renewable energy, employment, agriculture and rural development.
+
+...
+
+[Data](articles/6c9b1332.json)
+
+---
 
 ### Sri Lanka and Estonia successfully conclude inaugural bilateral political consultations
 
@@ -47,6 +91,8 @@ The two sides exchanged views on cooperation at multilateral fora, developments 
 ...
 
 [Data](articles/f7418d3e.json)
+
+[Extended Data](ext_articles/f7418d3e.ext.json)
 
 ---
 
@@ -70,6 +116,8 @@ State Minister of Finance Shehan Semasinghe yesterday announced that 182,140 mor
 
 [Data](articles/7ffe4e86.json)
 
+[Extended Data](ext_articles/7ffe4e86.ext.json)
+
 ---
 
 ### Avurudu departure for first batch of 125 for construction work in Israel
@@ -85,6 +133,8 @@ During the gathering, the Minister highlighted both the privileges and challenge
 ...
 
 [Data](articles/1565ffd1.json)
+
+[Extended Data](ext_articles/1565ffd1.ext.json)
 
 ---
 
@@ -102,6 +152,8 @@ Following this session, an Adjournment Debate on the Easter Sunday attack will t
 
 [Data](articles/b1e77d44.json)
 
+[Extended Data](ext_articles/b1e77d44.ext.json)
+
 ---
 
 ### Sri Lanka condemns attack on Iranian Consulate in Damascus
@@ -118,6 +170,8 @@ Sri Lanka yesterday condemned the attack on the Iranian Consulate in Damascus an
 
 [Data](articles/4fd01698.json)
 
+[Extended Data](ext_articles/4fd01698.ext.json)
+
 ---
 
 ### Sri Lanka to hold talks with Kazakhstan counterparts
@@ -131,6 +185,8 @@ Following the meeting between President Ranil Wickremesinghe and Kazakhstan Pres
 ...
 
 [Data](articles/0021a594.json)
+
+[Extended Data](ext_articles/0021a594.ext.json)
 
 ---
 
@@ -146,6 +202,8 @@ The purpose of the visit was to conduct pre-inspections of slaughterhouses in Sr
 
 [Data](articles/b69a9d09.json)
 
+[Extended Data](ext_articles/b69a9d09.ext.json)
+
 ---
 
 ### Fitch affirms Construction Guarantee Fund’s ‘BB’ National IFS Rating; Outlook Stable
@@ -159,6 +217,8 @@ Weak Operating Conditions: CGF’s performance exhibits a strong correlation wit
 ...
 
 [Data](articles/5139853a.json)
+
+[Extended Data](ext_articles/5139853a.ext.json)
 
 ---
 
@@ -177,6 +237,8 @@ The accolade reflects Aitken Spence Travels’ commitment to best management pra
 ...
 
 [Data](articles/aca4e50f.json)
+
+[Extended Data](ext_articles/aca4e50f.ext.json)
 
 ---
 
@@ -197,6 +259,8 @@ The event was attended by Malaysian High Commission Counsellor Mohammad Tuming, 
 ...
 
 [Data](articles/7b525b1c.json)
+
+[Extended Data](ext_articles/7b525b1c.ext.json)
 
 ---
 
@@ -2215,89 +2279,5 @@ Auspicious periods comprise of various timings such as the New Year’s Eve, Pun
 [Data](articles/80d6aae3.json)
 
 [Extended Data](ext_articles/80d6aae3.ext.json)
-
----
-
-### Youth arrested for jumping country at airport
-
-*2024-04-10 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195507) · `si`
-
-A Sri Lankan, 34, arrested at Katunayake airport for trying to leave for Malaysia with a fake passport. Charged with attempting to flee to Australia and banned from leaving the country.
-
-🟩
-
-A Sri Lankan who was trying to leave for Malaysia with a fake overseas license has been arrested at the Katunayake airport.
-
-A court order is being carried out by banning the person to the individual.
-
-As a result, the man changed his bio data information and prepared the false foreign passport.
-
-The arrested were a 34 year old resident of Jaffna, Jaffna.
-
-The man was due to leave for Kuala Lumpur in Malaysia this morning.
-
-The passenger clearance work was heard on suspicion of the officers on him while he was finished.
-
-After the man attempted to flee to Australia from the boat, the Negombo Magistrate's Court has issued an order to ban the country.
-
-The arrested persons have been handed over to the human trafficking of the Katunayake Airport Criminal Investigation and Officers in the Marine Criminal Investigations Department for further investigations.
-
-◼️
-
-[Data](articles/4977c314.json)
-
-[Extended Data](ext_articles/4977c314.ext.json)
-
----
-
-### People banned on a person who is prohibited on aircraft
-
-*2024-04-10 13:40:22* · [`adalk`](https://www.ada.lk/breaking_news/රටින්-පිටවීම-තහනම්-පුද්ගලයෙක්-ගුවන්-යානයේදී-අල්ලයි/11-409048) · `si`
-
-A Sri Lankan banned from aircraft, attempting to flee to Australia by boat, was arrested by the Negombo Magistrate's Court. The Immigration and Emigration Department officials arrested the Katunayake Airport Criminal Investigation Department.
-
-🟩
-
-ධිකරණය මගින් රටින් පිටවීම තහනම් කරමින් නියෝග ලබා දී තිබූ ශ්‍රී ලාංකිකයෙකු , සිය ගමන් බලපත්‍රයෙහි ජීව දත්ත පිටුවෙහි තොරතුරු වෙනස් කර , කූඨ ලෙස සකස් කර ගත් ව්‍යාජ ගමන් බලපත්‍රයක් උපයෝගී කර ගෙන මැලේසියාව වෙත පළා යාම සදහා ගුවන් යානයෙහි අසුන් ගෙන සිටියදී , එම යානය තුළට පිවිස , 04/10 දින අලුයම  මෙම පුද්ගලයා අත් අඩංගුවට ගැනීමට කටුනායක ගුවන් තොටුපොළ ආගමන විගමන නිලධාරීන් පියවර ගෙන තිබුණි .මොහු යාපනය , සන්දිලිපායි ප්‍රදේශයේ පදිංචි 34 හැවිරිදි ද්‍රවිඩ ජාතිකයෙකි .
-
-He is to leave the Katunayake Airport at Kuala Lumpur in the Katunayake airport at 12.00 pm on the morning of 12.00 pm.
-
-ඔහු ඒ වනවිට ගුවන් තොටුපොළ සියලුම මගී නිශ්කාශන කටයුතු නිමවා සිටියත් ඔහු පිළිබඳ ඇති වූ සැකය මත , ඔහුගේ ජාතික හැදුනුම්පත් අංකය ලබා ගත් ආගමන විගමන දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන් , ඒ ඔස්සේ විමර්ශන කටයුතු සිදු කිරීමේ දී ඔහුට එරෙහිව ගුවන් ගමන් තහනමක් පවතින බව අනාවරණය වී තිබේ .
-
-After the arrest of a boat attempt to flee to Australia by a boat and was arrested by the Negombo Magistrate's Court, a banned the country.
-
-...
-
-[Data](articles/bca64377.json)
-
-[Extended Data](ext_articles/bca64377.ext.json)
-
----
-
-### Will you escape 'Vallavan divisional' ..!
-
-*2024-04-10 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180891) · `ta`
-
-"Vallavan Kadatadada," a film about 'Eligible Things Evil,' releases on April 11th. Directed by Vinayak Durai, it stars Tej Saranraj, Rajesh Balachandran, Ananya Mani, Swathi Meenakshi, Vikram Aditya, Regin Rose, and others. The film, produced by Durai for Focus Studios, explores five characters' unexpected wealth acquisition. Sajisna Xavier composed the music, and Karthik Nallamuthu recorded it. The director hopes fans will enjoy the story of men chasing money.
-
-🟩
-
-The film 'Vallavan Kadatadada', which focuses on 'Eligible Things Evil', will be released at the film House on the eleventh April.
-
-In this moment when a number of films are released, 'Vallavan Padatadada' will survive ..?Is in the hands of the fans.
-
-Tej Saranraj, Rajesh Balachandran, Ananya Mani, Swathi Meenakshi, Vikram Aditya, Regin Rose and many others have starred in the film 'Vallavan Kadatadada', directed by debutant director Vinayak Durai.
-
-Sajisna Xavier has composed the film, which is being recorded by Karthik Nallamuthu. The film is being produced by director Vinayak Durai on behalf of Focus Studios.
-
-Speaking of the film, the director said, “Five characters have played the lead role in the film.They all need money.
-
-In this case, they get millions of money unexpectedly. The interesting feature of the film is who captured and handled it effectively.
-
-...
-
-[Data](articles/597a2c20.json)
-
-[Extended Data](ext_articles/597a2c20.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 11:53:00**
+As of **2024-04-11 12:03:50**
 
 ## Newspaper Stats
 
-*Scraped **18,443** Articles*
+*Scraped **18,447** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 162
+colombotelegraphcom | 163
 bbccomsinhala | 193
 dbsjeyarajcom | 213
 newsfirstlk | 363
@@ -18,19 +18,89 @@ economynextcom | 1,029
 adalk | 1,549
 tamilmirrorlk | 2,156
 adaderanalk | 2,205
-virakesarilk | 2,743
+virakesarilk | 2,744
 dailymirrorlk | 2,814
-adaderanasinhalalk | 2,985
+adaderanasinhalalk | 2,987
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,438 (100.0%) of 18,443 articles have been extended.
+18,443 (100.0%) of 18,447 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### අම්මාට හොරෙන් බයිසිකල් පදින්න ගිය දරුවා දුම්රියේ ගැටෙයි
+
+*2024-04-11 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195539) · `si`
+
+මවට හොරෙන් රැගෙන ගිය පාපැදිය පදිමින් සිටි 9 හැවිරිදි දරුවෙක් මොරටුව මුරවත්ත දුම්රිය හරස් මාර්ගය අසලදී දුම්රියක ගැටී මිය ගොස් ඇතැයි මොරටුව මූලස්ථාන පොලීසිය පවසයි.
+
+අනතුරින් මියගොස් ඇත්තේ, මොරටුව මොරටුවැල්ල ක්ලෝවියස් මාවතේ, පදිංචිව සිටි මොරටුව ජන ජය විදුහලේ සිව්වන වසරේ ඉගෙනුම ලබමින් සිටි එම්. ආර්. රන්තරු නමැති දරුවාය.
+
+මියගිය දරුවා අලුත් ගාලු පාරේ සිට පාපැදිය පදවාගෙන යමින් සිටියදී දුම්රිය ධාවනය කිරීමට නියමිතව තිබී ඇති බැවින් දුම්රිය හරස් මාර්ගයේ ගේට්ටු වසා දමා තිබී ඇති අතර දරුවා දුම්රිය මාර්ගය අසල පාපැදිය නවතාගෙන සිට ඇතැයි පොලීසිය පවසයි.
+
+එම අවස්ථාවේදී කොළඹ සිට ගාල්ල දෙසට ගමන් ගන්නා දුම්රිය ගමන් කර ඇති අතර හරස් ගේට්ටු විවෘත කිරීමට පෙර දරුවා සිය පාපැදිය දුම්රිය මාර්ගය හරහා පදවා ඇතැයි පොලීසිය සඳහන් කළේය.
+
+එම අවස්ථාවේදී ක්ෂණයකින් බෙලිඅත්ත සිට නුවර බලා ගමන් ගන්නා දුම්රිය ද අනෙක් දුම්රිය මාර්ගය ඔස්සේ ධාවනය වී ඇති අතර, එහිදී දරුවා ගමන් ගත් පාපැදියේ ගැටී ඇත.
+
+අනතුරින් දරුවා මීටර් 13ක් පමණ ඈතට විසිවී ගොස් ඇති අතර, දුම්රිය ඒ ආසන්නයේ නතර කර ඇතැයි පොලීසිය සිදුකළ විමර්ශනයේ දී අනාවරණය වී තිබේ.
+
+...
+
+[Data](articles/cbe54df7.json)
+
+---
+
+### ලෝකෙම හෙල්ලූ බැංකු වංචාව - මුළු සොරකම ඩොලර් බිලියන 44ක්
+
+*2024-04-11 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195538) · `si`
+
+මෙම නඩු විභාගය සැලකෙන්නේ වියට්නාමයේ වැඩිම අවධානයක් දිනාගත් නඩුවක් ලෙසට ය.
+
+ඒ මෙහෙත්ක් ලොව සිදුකළ විශාලතම බැංකු වංචාවක් හා සම්බන්ධ නඩු විභාගයකි.
+
+වියට්නාමය කොමියුනිස්ට් පාලනයක් යටතේ පවතියි. එබැවින් එහි දැඩි නීති ක්‍රියාත්මක වෙයි. කොමියුනිස්ට් රාජ්‍යයක් වුවද එරට වංචාව දූෂණය සමාජය වෙළාගෙන ඇති පිළිලයක් බව ජනතාව චෝදනා කරති.
+
+එබැවින් මෙම බැංකු වංචාවට සම්බන්ධ සැකකරුවන්ට උපරිම දඬුවම් දීමටත් මෙම නඩුවට සුවිශේෂී මාධ්‍ය ප්‍රචාරයක් ලබා දීමටත් බලධාරීන් කටයුතු කරමින් සිටියි.
+
+මෙම නඩුවේ ප්‍රධාන සැකකාරිය වන්නේ ධනවත් කාන්තාවකි. 67 හැවිරිදි Truong My Lan දේපොළ සංවර්ධන ව්‍යාපාර හිමි කාන්තාවකි.
+
+ඇයට එල්ලවී ඇති චෝදනාව වන්නේ වියට්නාමයේ විශාලතම බැංකුවක් ලෙස සැලකෙන සයිගොන් කොමර්ෂල් බැංකුවෙන් මුදල් වංචා කිරීමය.
+
+වසර 11ක් පුරා ඩොලර් බිලියන 44ක් වංචාකර ඇති බවට ඇයට එල්ලවී ඇති ප්‍රධාන චෝදනාවයි.
+
+රජයේ නීතිඥයින් පවසන්නේ ඉන් ඩොලර් බිලියන 27ක් කිසිදිනෙක නැවත අය කරගැනීමට නොහැකිවීමට ඉඩ ඇති බවයි.
+
+මෙම නඩුව සඳහා සාක්ෂිකරුවන් 2700ක් කැඳවා ඇති අතර රජයේ නීතිඥයින් 10ක් සහ තවත් නීතිඥයින් 200ක් මෙම නඩුවට සම්බන්ධය.
+
+...
+
+[Data](articles/bb1b3f0b.json)
+
+---
+
+### ஜூலியன் அசஞ்சேயிற்கு எதிரான குற்றச்சாட்டுகளை கைவிட தயாராகின்றது அமெரிக்கா?
+
+*2024-04-11 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180968) · `ta`
+
+விக்கிலீக்ஸ் இணை ஸ்தாபகர்  ஜூலியன் அசஞ்சேயிற்கு எதிராக குற்றச்சாட்டுகளை கைவிடவேண்டும் என்ற அவுஸ்திரேலியாவின் வேண்டுகோளை பரிசீலித்துவருவதாக அமெரிக்க ஜனாதிபதி ஜோபைடன் தெரிவித்துள்ளார்.
+
+அமெரிக்காவின் இரகசிய தகவல்களை அம்பலப்படுத்தியமைக்காக விக்கிலீக்ஸ் இணை ஸ்தாபகருக்கு எதிராக வழக்கு தொடர்வது  குறித்து அமெரிக்கா கடந்த ஒரு தசாப்தகாலமாக தீவிரகவனம் செலுத்திவருகின்றது.
+
+பிரிட்டனின் சிறையிலிருந்து அமெரிக்காவிற்கு நாடு கடத்தப்படுவதை எதிர்நோக்கியுள்ள அவுஸ்திரேலிய பிரஜையான ஜூலியன் அசஞ்சேயிற்கு எதிராக குற்றச்சாட்டுகளை சுமத்துவதை கைவிடவேண்டும் என அவுஸ்திரேலியாதொடர்ந்து வேண்டுகோள் விடுத்துவருகின்றது.
+
+இந்த நிலையில் இதுகுறித்த கேள்வி;க்கு பதில் அளித்துள்ள ஜோ பைடன் அவுஸ்திரேலியாவின் வேண்டுகோளை பரிசீலித்து வருவதாக தெரிவித்துள்ளார்.
+
+பைடன் நிர்வாகம் ஜூலியன் அசஞ்சேயை விசாரணைக்கு உட்படுத்துவதை கைவிட தயாராகின்றது என்பதற்கான அறிகுறிகள் தொடர்ந்து வெளியாகிவருகின்றன எனினும் இது ஜனாதிபதி தேர்தலில் பைடனிற்கு பாதிப்பை ஏற்படுத்தலாம்.
+
+...
+
+[Data](articles/3f7a628e.json)
+
+---
 
 ### RW can successfully implement reforms though own mandate: Prelate
 
@@ -52,6 +122,8 @@ Wijewardene said Sri Lanka's economy is becoming better and better.
 
 [Data](articles/3b610160.json)
 
+[Extended Data](ext_articles/3b610160.ext.json)
+
 ---
 
 ### Fuel distributors warns of trade union action after April 20
@@ -71,6 +143,8 @@ All fuel distributors, including CPC, Sinopac, IOC, and RM Parks (Private) Limit
 ...
 
 [Data](articles/17e75ff7.json)
+
+[Extended Data](ext_articles/17e75ff7.ext.json)
 
 ---
 
@@ -784,6 +858,8 @@ The action constitutes a raising of ‘deposits’ by the central bank (a note-i
 
 [Data](articles/d4112085.json)
 
+[Extended Data](ext_articles/d4112085.ext.json)
+
 ---
 
 ### Blooming season starts...
@@ -843,6 +919,20 @@ The official said that they have received intelligence on organised vendors who 
 [Data](articles/0e220c12.json)
 
 [Extended Data](ext_articles/0e220c12.ext.json)
+
+---
+
+### With A View To A Kill (Master Spy-James Bond)!
+
+*2024-04-11 06:05:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/with-a-view-to-a-kill-master-spy-james-bond/) · `en`
+
+“I know who did it” ~ Maithripala Sirisena on the Easter Bombing.
+
+“We have met the enemy, and he is us”. Even as long ago as the Greek and Roman eras, playwrights have been engaging with the idea of tragicomedy, the dramatic coexistence of the two opposite elements in the human condition. “All the world’s a stage, and all the men and women merely players” suggested the Bard; characters are inter-changeable, the dramatists introduced men as gods, slaves as masters, a trivializing portrait exemplifying the inherence of the two elements in the one moment, tragedy and comedy. The tragicomedy exaggerates and glorifies the trivial, the banal is presented as climacteric, a burlesque denying authenticity.
+
+...
+
+[Data](articles/c1b51155.json)
 
 ---
 
@@ -2012,17 +2102,27 @@ Answer (Amuruda): 'Both of my parents are very interested in cricket. My father 
 
 ---
 
-### 2030 දී ගුවන් හමුදා භට පිරිස 18000ක් දක්වා අඩු කිරීමට යයි
+### In 2030, the SLAF troops to be reduced to 18,000
 
 *2024-04-10 20:05:48* · [`adalk`](https://www.ada.lk/breaking_news/2030-දී-ගුවන්-හමුදා-භට-පිරිස-18000ක්-දක්වා-අඩු-කිරීමට-යයි/11-409058) · `si`
 
-භට පිරිස් විසින් ලබා දෙන සේවය තක්ෂණය භාවිත කරමින් ලබාගෙන  ගුවන් හමුදාවේ භටපිරිස්වල ප්‍රමාණය 2030 වසර වන විට අඩු කිරිමට සැලසුම්කර තිබෙන බව එයාර් මාර්ෂල් උදේනි රාජපක්ෂ මහතා සඳහන් කළේය. ඊයේ(10දා) ගුවන් හමුදා මූලස්ථානයේ පැවැත් වූ මාධ්‍ය සාකච්ඡාවකදී මාධ්‍යවේදීන්  ඇසූ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් මේ බව සඳහන් කළ ගුවන් හමුදාපතිවරයා වැඩිදුරටත් සඳහන් කළේ දැනට සිටින 35000ක් පමණ වූ භට පිරිස්වලින් ලබාගන්නා  සේවය   2030 වසර වන විට  18000ක  ප්‍රමාණයකින් මීට වඩා වඩා පලදායි ලෙස  ලබා දීමට කටයුතු කරන බව ය.
+In 2030, the Sri Lanka Air Force (SLAF) plans to reduce its troops from 35,000 to 18,000, enhancing service with advanced technology. A Colombo Air Show and Technology Trade Show will feature parachute shows and support from local and foreign airlines from January 29 to June 29.
 
-ආරක්ෂිත කැමරා තාක්ෂණය  හා ඒ අයි තාක්ෂණය ඇතුළු තාක්ෂණය භාවිත කරමින්  හා  ඩ්‍රෝන කාත්ෂණය යොදගෙන භටයෙකු විසින් ලබා දෙන සේවය ලබා ගැනීමට හැකිවන බවත්,  ඩ්‍රෝන එකකින් එකවර කිලෝ මීටර් 05 ක පමණ ප්‍රමාණයක් ආවරණය කළ හැකි බවත් හෙතෙම පවසා සිටියේය.
+🟩
 
-...
+Air Marshal Udani Nayani Nayani Nayani Nayani Nayaki said. Speaking at a press conference held at the Air Force Headquarters yesterday (10), the Air Force Commander said that the service from about 35,000 troops of 2030 is more than 1830That is.
+
+He said that the service provided by a soldier and supply of security camera technology and technology and the drones were provided by a troops and the drones were provided with a drone.
+
+A Colombo Air Show and Technology Trade Show will be held on 29th May to be held on 29th May of this month of January 29 to June 29.
+
+A large number of local and foreign tourists are to receive a large number of features including 05-day airlines, which have a large support from local and foreign airlines.He said that the people will be able to take place on the role of the SLAF and see parachute shows.
+
+◼️
 
 [Data](articles/dd1859f4.json)
+
+[Extended Data](ext_articles/dd1859f4.ext.json)
 
 ---
 
@@ -2119,107 +2219,5 @@ The silver and bronze medalists also offer cash prizes since 2028.
 [Data](articles/108afa73.json)
 
 [Extended Data](ext_articles/108afa73.ext.json)
-
----
-
-### 9 year old son
-
-*2024-04-10 19:52:27* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-9-දරුවා-දුම්රියට-බිලි/11-409055) · `si`
-
-A 9-year-old boy was killed by a train near Moratuwa Railway Cross road. The child was cycling and crossed the railway line before the gates could be closed. The accident occurred as the train was traveling from Colombo to Galle. The boy's left foot was severely injured. Despite being taken to Panadura Base Hospital, the child died.
-
-🟩
-
-Moratuwa headqueso police say that a cycling is driving a train near Moratuwa Railway Cross road
-
-The deceased has been identified as MR Ranthanrasu, Moratuwa, Moratuwa, Moratuwa, Moratuwa, Moratuwa, Moratuwa, Moratuwa.
-
-The railway cross-crossed gates were to be saved from the new Galle Road to the bicycle.
-
-The train traveling from Colombo to Galle has traveled and the child has driven through the railway line before opening cross gates
-
-Police investigations revealed that when the child was traveling through the railway line at the time of the railway line while operating across the railway line while operating through the railway line, police investigations have revealed that the child is about 13 meters away.has
-
-Police say a child's left foot has been severely injured in the accident
-
-Residents of the area visated with the hospital with a danger and the child had visited the Panadura Base Hospital, but the child had already died
-
-Moratuwa Moratuwa was held at the Panadura Base Hospital
-
-...
-
-[Data](articles/907aa09a.json)
-
-[Extended Data](ext_articles/907aa09a.ext.json)
-
----
-
-### Minister Tips of Import of Vehicles in 2025
-
-*2024-04-10 19:43:35* · [`adalk`](https://www.ada.lk/breaking_news/2025දී-වාහන-ආනයනය-ගැන-ඇමතිගෙන්-ඉඟියක්/11-409053) · `si`
-
-In 2025, Minister Ranjith Siyambalapitiya expects a gradual increase in vehicle imports, including 250 buses and 750 vans for tourism.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya says that in 2025, the importation of the country is gradually increasing in the country.
-
-He added that 250 buses and 750 vans have been permitted for the tourism industry.
-
-◼️
-
-[Data](articles/39558c14.json)
-
-[Extended Data](ext_articles/39558c14.ext.json)
-
----
-
-### “The company can not say the reason anymore” Jeevan Action Announcement
-
-*2024-04-10 19:42:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இனியும்-கம்பனி-காரணம்-கூற-முடியாது-ஜீவன்-அதிரடி-அறிவிப்பு/76-335827) · `ta`
-
-The Plantation Workers' Salary Standards Board's 2nd meeting is on 24th. Trade unions urged to use their vote. Companies failed to attend, citing no timely reason. Despite talks since August, companies refuse to increase basic salary, offering only a 33% increase based on allowance. The Minister of Labor has accepted a request to hold the meeting, despite companies' absence. A referendum on salary hike is planned.
-
-🟩
-
-The 2nd meeting of the Plantation Workers' Salary Standards Board will be held on the 24th of this month.
-
-All the trade unions should stand up to the labor and use their vote properly. ”
-
-He said this during a media briefing held in Colombo today (10). In addition,
-
-Salary Standard Council. Nine union representatives participated in 10 unions. Plantation Servants Association representatives did not participate. Plantation companies do not come.
-
-We had announced that the salary council would be convened on the 10th. However, the company had announced yesterday (09) that they could not come.
-
-We have been holding talks since last August. Therefore, the reasons that the companies claim, including the fact that there is no timely time, is not acceptable.
-
-We have consulted with the Attorney General that there is no legislation on the issue of joint agreement. But companies refuse to come to the joint venture as a legal issue.
-
-...
-
-[Data](articles/8b92faac.json)
-
-[Extended Data](ext_articles/8b92faac.ext.json)
-
----
-
-### April 15 will be a public holiday
-
-*2024-04-10 19:27:36* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රෙල්-15-දා-රජයේ-නිවාඩු-දිනයක්-වෙයි/11-409052) · `si`
-
-April 15, 2024, is a public holiday in the government, celebrated as the New Year Rite.
-
-🟩
-
-The Ministry of Public Administration Home Affairs, Provincial Councils and the Local Government has taken measures to make a public holiday in the government on April 15.
-
-The ritual of the New Year Rite is a government holiday due to April 15, 2024 due to April 15, 2024.
-
-◼️
-
-[Data](articles/083abe8a.json)
-
-[Extended Data](ext_articles/083abe8a.ext.json)
 
 ---

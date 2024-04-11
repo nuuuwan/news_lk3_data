@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 08:51:23**
+As of **2024-04-11 09:03:37**
 
 ## Newspaper Stats
 
-*Scraped **18,412** Articles*
+*Scraped **18,416** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 1,013
 dailyftlk | 1,018
 economynextcom | 1,027
 adalk | 1,546
-tamilmirrorlk | 2,152
-adaderanalk | 2,201
+tamilmirrorlk | 2,153
+adaderanalk | 2,202
 virakesarilk | 2,739
 dailymirrorlk | 2,808
-adaderanasinhalalk | 2,977
+adaderanasinhalalk | 2,979
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,410 (100.0%) of 18,412 articles have been extended.
+18,412 (100.0%) of 18,416 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### S. Korea promises assistance for Sri Lanka in education, health, renewable energy & employment
+
+*2024-04-11 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98567/s-korea-promises-assistance-for-sri-lanka-in-education-health-renewable-energy-employment-) · `en`
+
+Ambassador of South Korea, Miyon Lee has called on Prime Minister Dinesh Gunawardena in Colombo on Wednesday (10) to discuss the follow-up actions on the decisions taken during the Sri Lankan Premier’s visit last week.
+
+While in South Korea, Gunawardena held discussions with his counterpart Han Duck-soo, Speaker of National Assembly Kim Jin-pyo, Governor of Gyengsangbuk-do Province Lee Cheol-woo and former Secretary General of the United Nations and current President and Chair of Green Growth Institute, Ban Ki-moon.
+
+During these bilateral discussions, South Korea agreed to increase support to Sri Lanka in several sectors including education, health, renewable energy, employment, agriculture and rural development.
+
+On the request of PM Gunawardena, South Korea agreed to provide smart classrooms to 1,000 schools in Sri Lanka to assist the government’s efforts to develop information technology education at the school level.
+
+...
+
+[Data](articles/cfeba759.json)
+
+---
+
+### ගවයින් ප්‍රවාහනය කළ ලොරියට පොලීසියෙන් වෙඩි
+
+*2024-04-11 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195531) · `si`
+
+කනංකේ දොලේලියද්ද ප්‍රදේශයේදී අණ නොතකා ධාවනය කළ ලොරි රථයකට පොලීසිය වෙඩිතබා තිබේ.
+
+පොලීසිය පැවසුවේ, ගවයින් ප්‍රවාහනය කරමින් සිටි ලොරි රථයකට මෙලෙස වෙඩි තබා ඇති බවය.
+
+අද (11) අලුයම 4.30ට පමණ කනංකේ රජමහා විහාරය අසල ප්‍රදේශයේදී ගවයෙක් ලොරි රථයකට පටවනු නිරීක්ෂණය කළ රාත්‍රී ජංගම සංචාරයේ නිරත වූ පොලිස් නිලධාරීන් පිරිසක් දොලේලියද්ද ප්‍රදේශයේදී එම ලොරි රථය නැවැත්වීම සඳහා නියෝග කර තිබේ.
+
+කෙසේ වෙතත් ලොරි රථය නොනවත්වා ධාවනය කර ඇති අතර පොලිස් නිලධරීන් රථයට වෙඩි තබා තිබුණි.
+
+එහිදී ලොරි රථයේ සිටි එක් පුද්ගලයෙකු තුවාල ලබා ඇති අතර තවත් දෙදෙනෙකු පළාගොස් තිබේ.
+
+මෙලෙස වෙඩි වැදීමෙන් තුවාල ලබා ඇත්තේ ගින්තොට, මාපුගල ප්‍රදේශයේ පදිංචි මොහොමඩ් සියාම් නම් පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/5d42b9a4.json)
+
+---
 
 ### Xi calls for fair, transparent environment for investment in Sri Lanka
 
@@ -49,6 +89,26 @@ Meanwhile , during a separate meeting, Chinese Prime Minister Li Qiang has raise
 ...
 
 [Data](articles/a0057563.json)
+
+[Extended Data](ext_articles/a0057563.ext.json)
+
+---
+
+### හෝටල් කාමරයක තවත් අභිරහස් මරණයක්
+
+*2024-04-11 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195530) · `si`
+
+අවිස්සාවේල්ල පොලිස් වසමේ මනමේන්ද්‍ර මාවතේ පිහිටි හෝටලයක නවාතැන් ගෙන සිටි තරුණියක් අභිරහස් ලෙස මියගොස් තිබේ.
+
+පොලීසිය සඳහන් කළේ, ඊයේ (10) සවස හෝටලයේ නවාතැන් ගෙන සිටි යුවළක් අතරින් කාන්තාවක් සැකකටයුතු ලෙස මියගොස් ඇතැයි පොලීසියට පැමිණිල්ලක් ලැබුණු බවය.
+
+මියගිය තරුණිය පුද්ගලයෙකු සමග ඊයේ සවස අදාළ හෝටලයට පැමිණ එහි කාමරයක නවාතැන්ගෙන ඇති අතර, ඊට ටික වේලාවකට පසුව ඇය සමග සිටි පුද්ගලයා විසින් තරුණිය සිහිසුන්ව වැටී සිටින බවට හෝටල් කළමනාකාරීත්වය දැනුවත් කර ඇත.
+
+මෘත ශරීරය පොලිස් ආරක්ෂාව යටතේ සිදුවීම වූ ස්ථානයේම ඇති අතර අවිස්සාවේල්ල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/679e92a4.json)
 
 ---
 
@@ -1004,19 +1064,43 @@ The competitions have been divided into three sections, namely State Section, Op
 
 ---
 
-### ’மக்களை பொருளாதார பங்குதார்களாக்குவோம்’
+### பாதுகாப்பு அமைச்சின் புத்தாண்டு நிகழ்வு
+
+*2024-04-10 23:41:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-அமைச்சின்-புத்தாண்டு-நிகழ்வு/175-335844) · `ta`
+
+பாதுகாப்பு அமைச்சின் நலன்புரிப் பிரிவினால் பத்தரமுல்லையில் உள்ள பாதுகாப்பு படைத் தலைமையக வளாகத்தில் நேற்று ஏற்பாடு செய்யப்பட்டிருந்த தமிழ் சிங்களப் புத்தாண்டு நிகழ்வில் ஜனாதிபதி ரணில் விக்கிரமசிங்க கலந்துகொண்டார்.
+
+சம்பிரதாயங்களுக்கு முன்னுரிமை அளித்து ஏற்பாடு செய்யப்பட்ட இந்த புத்தாண்டு கொண்டாட்டம் பல பாரம்பரிய விளையாட்டுகளை உள்ளடக்கியிருந்ததோடு, பாதுகாப்பு அமைச்சின் ஊழியர்களின் கலாச்சார நிகழ்வுகளும் இடம்பெற்றுள்ளன.
+
+புத்தாண்டு விழா நடைபெறும் வளாகத்திற்கு வருகை தந்த ஜனாதிபதிக்கு பாதுக்காப்பு அமைச்சின் செயலாளர் ஜெனரல் (ஓய்வு) கமல் குணரத்னவால் வரவேற்பளிக்கப்பட்டதோடு, புத்தாண்டு அழகி போட்டியில் பங்குபற்றி வெற்றி பெற்றவர்களுக்கு ஜனாதிபதி பரிசுகளை வழங்கினார். (a)
+
+◼️
+
+[Data](articles/46500986.json)
+
+---
+
+### Let us make people economic shareholders
 
 *2024-04-10 23:37:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களை-பொருளாதார-பங்குதார்களாக்குவோம்/175-335843) · `ta`
 
-கல்வி, காணி,  வீடு,  வியாபார உரிமைகளை உறுதிப்படுத்தி. மக்களை பொருளாதாரத்தில் வலுவான பங்குதாரர்களாக மாற்றிக்கொள்ள நடவடிக்கை எடுப்பதாக  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe aims to empower citizens economically by granting permanent land and home rights, among other benefits, to strengthen the economy. Despite tax policy challenges, the government has managed to increase public servant salaries and the value of the rupee without borrowing.
 
-கொழும்பு முகத்துவாரத்தில் நடைபெற்ற ரன்திய உயன வீட்டுத் தொகுதியை பயனாளிகளுக்குக் கையளிக்கும் நிகழ்விலேயே ஜனாதிபதி இவ்வாறு தெரிவித்தார். அவர்   மேலும் உரையாற்றுகையில்,
+🟩
 
-பொருளாதாரத்தைப் பலப்படுத்த நாம் அமுல்படுத்திய வரிக் கொள்கை வாழ்க்கைச் சுமையை மேலும் அதிகப்படுத்தியது. ஆனால் அந்த கஷ்டங்களை நீங்கள் தாங்கிக் கொண்டதாலேயே, கடன் வாங்காமலும், பணம் அச்சடிக்காமலும் அரசாங்கத்தின் வருமானத்தை அதிகரிக்க முடிந்தது. அதனால் தான் இந்த வருடத்தில் அரச ஊழியர்களுக்கு 10,000 ரூபா சம்பள அதிகரிப்பை வழங்க முடிந்தது. ரூபாவின் பெறுமதியும் வலுவடைந்துள்ளது.
+Education, Land, Home, Business Rights. President Ranil Wickremesinghe has said that steps will be taken to make the people strong in the economy.
+
+The President said this at the event to hand over the Ranthi Housing House at the Colombo Association. When he further addresses,
+
+The tax policy we implemented to strengthen the economy further increased the burden of life. But because you have endured those hardships, the government was able to increase the income of the government without borrowing and money. That is why this year, public servants were able to pay a 10,000 rupee salary increase. The value of the rupee is also strengthened.
+
+I consider permanent land rights and permanent home rights to thank the affected people. 50,000 houses will be handed over to people in the future. We expect to complete the construction of 1996 houses provided by the Chinese government during his tenure as Prime Minister.
 
 ...
 
 [Data](articles/5a8f440e.json)
+
+[Extended Data](ext_articles/5a8f440e.ext.json)
 
 ---
 
@@ -2123,91 +2207,5 @@ India looked forward to working with Sri Lanka to take forward our common endeav
 [Data](articles/903df171.json)
 
 [Extended Data](ext_articles/903df171.ext.json)
-
----
-
-### 294 housing units distributed to those displaced in Kajimawatte fire
-
-*2024-04-10 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98557/294-housing-units-distributed-to-those-displaced-in-kajimawatte-fire) · `en`
-
-President Ranil Wickremesinghe has affirmed his commitment to empowering the people and fortifying the economy by ensuring access to education, land, housing, and business opportunities.
-
-Stressing the importance of broadening economic participation, the Head of State highlighted its role in fostering a resilient national economy.
-
-These remarks were made on Tuesday afternoon (09) during his presence at the national event in Modara. As many as 294 units at ‘Randiya Uyana’ housing complex were thus allocated to those displaced by the massive fire in Kajimawatte in 2010.
-
-As I addressed you today, my heart goes out to the resilient residents of Kajimawatte, who have endured over a decade of unimaginable hardships. It was a poignant moment as we swiftly provided these flats, with Mr. Ravi Karunanayake’s unwavering support.
-
-...
-
-[Data](articles/889b7310.json)
-
-[Extended Data](ext_articles/889b7310.ext.json)
-
----
-
-### Saman Ratnayake's bail
-
-*2024-04-10 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195514) · `si`
-
-Saman Ratnayake's bail was rejected by Ms. Luchananda Magistrate Lokawickrama, who ordered the suspect to be remanded until the end of the hearing.
-
-🟩
-
-The bail of the Secretary to the Ministry of Health has rejected the bail of the Secretary to the Ministry of Health today (10).
-
-Ms. Luchananda Magistrate Lokawickrama, refusing to request such bail, was notified to be remanded the suspect until the end of the hearing.
-
-◼️
-
-[Data](articles/534f4094.json)
-
-[Extended Data](ext_articles/534f4094.ext.json)
-
----
-
-### Kavinda's suspicion on Maithri's visit to Thailand
-
-*2024-04-10 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180921) · `ta`
-
-Kavinda Jayawardena, a United People's Power MP, expressed doubts about former President Maithripala Sirisena's visit to Thailand, calling it suspicious. Sirisena was accompanied by eight others on the trip. Jayawardena made a complaint to the Criminal Investigation Department, demanding an investigation.
-
-🟩
-
-United People's Power MP Kavinda Jayawardena has expressed doubts about the visit to Thailand by former President Maithripala Sirisena.
-
-A group of nine people, including former President Maithripala Sirisena, left the country on Tuesday morning (09) on a visit to Thailand.
-
-United People's Power MP Kavinda Jayawardena said that the visit was suspicious.
-
-Kavinda Jayawardena said this while visiting the Criminal Investigation Department to make a complaint with the Criminal Investigation Department demanding an investigation into the matter.
-
-Meanwhile, former President Maithripala Sirisena has been on a visit to Thailand as the controversial comment has been made on the lifeblood attack.
-
-◼️
-
-[Data](articles/67630815.json)
-
-[Extended Data](ext_articles/67630815.ext.json)
-
----
-
-### If you go this way, the vehicles can be imported in 2025 - Finance Minister of Finance
-
-*2024-04-10 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195513) · `si`
-
-"Finance Minister predicts vehicle imports by 2025 if no sabotage. State Minister Ranjith Siyambalapitiya emphasizes protection and readiness for trade."
-
-🟩
-
-State Minister Ranjith Siyambalapitiya said that if the country was protected without sabotaging in the country, he said.
-
-He further stated that the trade is ready to identify and open the trade.
-
-◼️
-
-[Data](articles/c380f4f1.json)
-
-[Extended Data](ext_articles/c380f4f1.ext.json)
 
 ---

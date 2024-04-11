@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 01:33:43**
+As of **2024-04-12 01:51:37**
 
 ## Newspaper Stats
 
@@ -26,41 +26,63 @@ adaderanasinhalalk | 2,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,524 (100.0%) of 18,526 articles have been extended.
+18,526 (100.0%) of 18,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### பிரதீப் ரங்கநாதன் நடிக்கும் புதிய படத்தின் அறிவிப்பு
+### Pradeep Ranganathan's new movie
 
 *2024-04-12 01:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/181007) · `ta`
 
-'கோமாளி' படத்தின் மூலம் இயக்குநராகவும், 'லவ் டுடே' படத்தின் மூலம் நடிகராகவும் அறிமுகமாகி, தமிழ் ரசிகர்களிடத்தில் பிரபலமான பிரதீப் ரங்கநாதன் கதையின் நாயகனாக நடிக்கும் புதிய திரைப்படத்தை பற்றிய தகவல்கள் அதிகாரப்பூர்வமாக வெளியிடப்பட்டிருக்கிறது.
+Pradeep Ranganathan, a Tamil hero, directs 'Komali' and stars in 'Love Today', produced by AGS. He also stars in 'Oh My God' with Aswath Marimuthu, who directed both. Their 10-year collaboration culminates in a special video, highlighting their journey from graduates to successful filmmakers.
 
-'ஓ மை கடவுளே' எனும் வெற்றி படத்தை இயக்கிய இயக்குநர் அஸ்வத் மாரிமுத்து இயக்கத்தில் உருவாகும் பெயரிடப்படாத திரைப்படத்தில் பிரதீப் ரங்கநாதன் கதையின் நாயகனாக நடிக்கிறார். இந்தத் திரைப்படத்தை ஏஜிஎஸ் நிறுவனம் தயாரிக்கிறது. 'லவ் டுடே' எனும் வெற்றி படத்தை தொடர்ந்து மீண்டும் ஏஜிஎஸ் நிறுவனம் தயாரிக்கும் படத்தில் பிரதீப் ரங்கநாதன் நடிக்கிறார்.
+🟩
 
-...
+Information about the new movie, which is playing the role of Pradeep Ranganathan, the hero of the Tamil fans, has been officially released as a director with 'Komali' and 'Love Today'.
+
+Pradeep Ranganathan plays the hero of the film 'Oh My God' directed by director Aswath Marimuthu directed by Aswath Marimuthu. The film is being produced by AGS. Pradeep Ranganathan is playing the role of AGS again in the film 'Love Today'.
+
+The introductory announcement has been released in the form of a special video. Pradeep Ranganathan and director Aswath Marimuthu have joined a short film ten years ago and that their dreams have come true after a decade.. Because two young graduates are united.. The expectation of the film has also increased in fans.
+
+Pradeep Ranganathan- Aswath Marimuthu- AGS is a coalition that can be observed as a gentle love and humorous work.
+
+◼️
 
 [Data](articles/0905c5fa.json)
 
+[Extended Data](ext_articles/0905c5fa.ext.json)
+
 ---
 
-### RCBயை பந்தாடி சரிமாரியாக ஓட்டங்களைக் குவித்து வெற்றி பெற்றது மும்பை  இண்டியன்ஸ்
+### Mumbai Indians win the RCB
 
 *2024-04-12 00:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/181006) · `ta`
 
-மும்பை வன்கடே விளையாட்டரங்கில் வியாழக்கிழமை (11) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 25ஆவது போட்டியில் றோயல் செலஞ்சர்ஸ் பெங்களூரை பந்தாடி சரிமாரியாக ஓட்டங்களைக் குவித்த மும்பை இண்டியன்ஸ் 7 விக்கெட்களால் இலகுவாக வெற்றிபெற்றது.
+Mumbai Indians won against RCB by 7 wickets in IPL 2023, thanks to Bumrah's 5-wicket haul and key contributions from Kishan, Sharma, Yadav, and Pandya. RCB scored 196/8, with Plessis and Blessis shining.
 
-இவ் வருடம் முதல் 3 போட்டிகளில் தொல்வி அடைந்த மும்பை இண்டியன்ஸ் இப்போது அடுத்தடுத்து 2 வெற்றிகளை ஈட்டியுள்ளது.
+🟩
 
-ஆரம்பம் முதல் கடைசிவரை விறுவிறுப்பை தோற்றுவித்த இப் போட்டியில் ஜஸ்பிரிட் பும்ராவின் இந்த வருடத்துக்கான சாதனை மிகு 5 விக்கெட் குவியல், இஷான் கிஷான், ரோஹித் ஷர்மா, சூரியகுமார் யாதவ், அணித் தலைவர் ஹார்திக் பாண்டியா ஆகியோரின் சரிமாரியான ஓட்டக் குவிப்பு என்பன மும்பை இண்டியன்ஸின் வெற்றியை உறுதி செய்தன.
+In the 25th match of the 17th Indian Premier League chapter held at the Mumbai Vancade Stadium on Thursday (11), Mumbai Indians won by 7 wickets in Royal Challengers Bangalore.
 
-துடுப்பாட்ட வீரர்களுக்கு சாதகமாக அமைந்த இப் போட்டியில் ஜஸ்ப்ரிட் பும்ரா 5 விக்கெட் குவியலைப் பதிவுசெய்தபோதிலும் பவ் டு ப்ளெசிஸ், ரஜத் பட்டிதார், தினேஷ் கார்த்திக் ஆகியோர் குவித்த அரைச் சதங்கள் என்பன றோயல் செலஞ்சர்ஸ் பெங்களூருக்கு கணிசமான ஓட்டங்களைப் பெற உதவின.
+The Mumbai Indians have won 2 successes in the first 3 matches of this year.
+
+Jasprit Bumrah's record for this year's achievement from the beginning to the end of this year's 5 wickets pile, Ishahan Kishan, Rohit Sharma, Suriyakumar Yadav and team captain Hardik Pandya, confirmed the success of Mumbai Indians.
+
+Royal Challengers Bangalore helped Royal Chellengers Bangalore scored half -centuries, despite Jasprit Bumrah recorded the 5 -wicket focal in the match, which was favorable to the batsmen.
+
+However, they were in vain by the actions of Ishan Kishan, Rohit Sharma, Suriyakumar Yadav and Hardik Pandya.
+
+Mumbai Indians lost only 3 wickets in 15.3 overs with a target of 197 runs for Royal Challengers Bangalore.
+
+Both Ishan Kishan and Rohit Sharma scored 72 runs in Power Play and shared 101 runs off 53 balls.
 
 ...
 
 [Data](articles/dbfd81de.json)
+
+[Extended Data](ext_articles/dbfd81de.ext.json)
 
 ---
 

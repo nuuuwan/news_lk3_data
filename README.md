@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 05:37:59**
+As of **2024-04-11 06:17:42**
 
 ## Newspaper Stats
 
-*Scraped **18,384** Articles*
+*Scraped **18,397** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 162
 bbccomsinhala | 192
 dbsjeyarajcom | 213
 newsfirstlk | 363
-islandlk | 1,003
-dailyftlk | 1,015
+islandlk | 1,013
+dailyftlk | 1,018
 economynextcom | 1,027
 adalk | 1,545
 tamilmirrorlk | 2,149
@@ -26,11 +26,133 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,379 (100.0%) of 18,384 articles have been extended.
+18,384 (99.9%) of 18,397 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### SriLankan Airlines elevates Ground Handling with State-of-the-Art equipment upgrade
+
+*2024-04-11 05:47:00* · [`islandlk`](http://island.lk/srilankan-airlines-elevates-ground-handling-with-state-of-the-art-equipment-upgrade/) · `en`
+
+SriLankan Airlines, the exclusive ground operator at Bandaranaike International Airport (BIA), has initiated a phased upgrade of airport ground support equipment to accommodate the rising influx of flights and travellers transiting through the airport. Recently, the airline acquired three state-of-the-art passenger apron coaches, ensuring optimal comfort for passengers during transfers between the terminal and remote stands.
+
+With airport traffic steadily increasing and nearing pre-pandemic levels, acquiring modern ground support equipment has become an urgent priority for SriLankan Airlines. This investment aims to ensure a seamless end-to-end travel experience for customers.
+
+...
+
+[Data](articles/40bafde8.json)
+
+---
+
+### Uncomplicated route to Kachchatheevu
+
+*2024-04-11 05:46:24* · [`dailyftlk`](https://www.ft.lk/columns/Uncomplicated-route-to-Kachchatheevu/4-760585) · `en`
+
+When an easy path is available and when the Indians and Sri Lankans both are linked to a common goal, why move on complicated routes?
+
+The recent statements by Prime Minister Narendra Modi and External Affairs Minister Dr. S. Jaishankar (37 minutes long) on Kachchatheevu created a sensation in India and Sri Lanka, especially regarding what would be their short- and long-term repercussions. Quotes such as “every Indian” is angered as PM Modi said, and India needing to sit down and work out a solution, declared by Minister Dr. Subramaniam Jashankar, insinuated the heartburn and the potential for follow-up action in Indian power-houses.
+
+...
+
+[Data](articles/64025928.json)
+
+---
+
+### People’s Bank quiz teams shine in back-to-back competitions
+
+*2024-04-11 05:46:00* · [`islandlk`](http://island.lk/peoples-bank-quiz-teams-shine-in-back-to-back-competitions/) · `en`
+
+The intellect and knowledge prowess of People’s Bank quiz teams have once again been proven as they clinched victories in consecutive quiz competitions, showcasing their dominance in the realm of corporate intellect and acumen.
+
+In an exhilarating display of professional expertise and knowledge, the People’s Bank team emerged triumphant at the prestigious EXQUIZITE 3.0-2024 Quiz Competition. The event, organized by NSBM’s Human Resource Circle in collaboration with NFORCE – NSBM, unfolded on the 19th of March 2024 at the university auditorium. Leading the charge was Pulasthi Gunasekara as Team Leader, ably supported by Charith Malalasekara and Pasan Gunaratne, securing the coveted championship title.
+
+...
+
+[Data](articles/26570e53.json)
+
+---
+
+### Aitken Spence Travels wins prestigious CPM Best Management Practices Award 2024
+
+*2024-04-11 05:46:00* · [`islandlk`](http://island.lk/aitken-spence-travels-wins-prestigious-cpm-best-management-practices-award-2024/) · `en`
+
+Aitken Spence Travels, the leading destination management company in Sri Lanka, clinched the coveted category award for the Hospitality and Tourism sector at the esteemed CPM Best Management Practices Company Awards (BMPC) 2024. The company recently received the award at the event organised by the Institute of Chartered Professional Managers of Sri Lanka (CPM Sri Lanka).
+
+The accolade reflects Aitken Spence Travels’ commitment to best management practices across its operations and celebrates the company’s managerial expertise, market leadership and business acumen for performance.
+
+...
+
+[Data](articles/48b73de7.json)
+
+---
+
+### ASPI soars beyond 12,000, first time in 2 years
+
+*2024-04-11 05:46:00* · [`islandlk`](http://island.lk/aspi-soars-beyond-12000-first-time-in-2-years/) · `en`
+
+The All Share Price Index (ASPI) on the Colombo Stock Exchange (CSE) crossed the 12,000 points mark at the end of trading yesterday for the first time since 21st February 2022, market analysts said.
+
+The bullish trend extended due to the prevailing favourable outlook on Sri Lanka’s external debt restructuring exercise.
+
+Further, the banking sector counters, especially Sampath Bank contributed more than 50 percent to the turnover, they said.
+
+...
+
+[Data](articles/d5ceb59d.json)
+
+---
+
+### Colombo Caregiver School holds Its grand orientation
+
+*2024-04-11 05:40:00* · [`islandlk`](http://island.lk/colombo-caregiver-school-holds-its-grand-orientation/) · `en`
+
+Colombo Caregiver School (Pvt) Ltd. (a subsidiary of the Aviha Group) ceremoniously held its grand orientation for the caregiver certificate course on February 20, 2024, at the institute premises. The grand orientation aimed to initiate the first batch of the caregiver certificate course ceremoniously, encouraging the future batches of the school to gain the maximum return on the investments done by the Colombo Caregiver School.
+
+The event was graced by the presence of our esteemed chief guests: Dr. Janaka Jayalath (Deputy Director General – TVEC (Tertiary and Vocational Education Commission), Ms. Hashanthi Lakmini (Assistant Director – Technical Assistance: TVEC), along with Aviha Group’s honourable chairman, Mr. Priyankara Sumanapalage, and the Aviha Group’s team.
+
+...
+
+[Data](articles/091d47ca.json)
+
+---
+
+### Decline: Why Ranil and Sajith ain’t no JR and Premadasa
+
+*2024-04-11 05:35:47* · [`dailyftlk`](https://www.ft.lk/columns/Decline-Why-Ranil-and-Sajith-ain-t-no-JR-and-Premadasa/4-760584) · `en`
+
+Having watched recent TV performances by JVP leaders and NPP’s Dr. Harini Amarasuriya’s charming admission that though she reads Marx she is not a Marxist-Leninist nor is the leftist NPP, the SJB’s shadow finance minister Dr. Harsha de Silva experienced a “gotcha moment”. He exclaimed that this revealed a hugely problematic gap, and referring to the JVP’s admissions, challenged: “who can say they ‘love Marx’ and go to the IMF? No one does that! Tell me one country that does?” harsha de silva vcut (youtube.com)
+
+The obvious answer is Ceylon/Sri Lanka and Dr. N.M. Perera, Minister of Finance, whose first visit to the IMF was in 1970. He was the Marxist leader of the country’s oldest and largest Marxist party. The IMF and World Bank engagement under his stewardship was critiqued by two widely-read books of the day, Cheryl Payer’s The Debt Trap and Teresa Hayter’s Aid as Imperialism.
+
+...
+
+[Data](articles/11f0555f.json)
+
+---
+
+### The Falcon and Falconer
+
+*2024-04-11 05:24:15* · [`dailyftlk`](https://www.ft.lk/columns/The-Falcon-and-Falconer/4-760583) · `en`
+
+No society can surely be flourishing and happy, of which the far greater part of the members are poor and miserable.
+
+“The difficulty lies not so much in developing new ideas as in escaping from old ones.”
+
+It is showdown time. I borrowed the caption from the ‘The Second Coming’ by W.B. Yeats. Things fall apart and the centre cannot hold. Passionate intensity dictates debate.
+
+The next election, Presidential or Parliamentary will be a ‘head-to-head’ encounter between the ‘dominant’ and the ‘dominated.’
+
+Despite polls and engineered parades, the dismantling of the hegemony of the dominant class is not a certainty. Since hope is not optimism, I would say that it is a near certainty.
+
+The Bastille will be breached. If not totally, substantially. 2024 is the year when people of Sri Lanka will prove Heraclitus right. “No man ever steps in the same river twice, for it’s not the same river and he’s not the same man.”
+
+...
+
+[Data](articles/efc79ac3.json)
+
+---
 
 ### India and Sri Lanka identify new opportunities in defence cooperation
 
@@ -43,6 +165,8 @@ State Minister of Defence Premitha Bandara Tennakoon was the Chief Guest.
 ...
 
 [Data](articles/8fb36ad4.json)
+
+[Extended Data](ext_articles/8fb36ad4.ext.json)
 
 ---
 
@@ -57,6 +181,8 @@ The third successful “Break-Fast At Sunset” was held on 31 March at the Vidy
 ...
 
 [Data](articles/dfb73a3c.json)
+
+[Extended Data](ext_articles/dfb73a3c.ext.json)
 
 ---
 
@@ -73,6 +199,8 @@ During these discussions, Korea agreed to increase support to Sri Lanka in sever
 ...
 
 [Data](articles/6c9b1332.json)
+
+[Extended Data](ext_articles/6c9b1332.ext.json)
 
 ---
 
@@ -299,6 +427,48 @@ She said she was called her to a meeting at the ministry and threatened and seve
 [Data](articles/beb756db.json)
 
 [Extended Data](ext_articles/beb756db.ext.json)
+
+---
+
+### Another withdrawn Gazette; controversy over auspicious times
+
+*2024-04-11 04:23:00* · [`islandlk`](http://island.lk/another-withdrawn-gazette-controversy-over-auspicious-times/) · `en`
+
+One government matter done with speed is withdrawing printed gazettes, withdrawing meaning: gazettes are printed, distributed and called back. This is totally stupid and lacking in responsibility. A matter has to be considered, thoroughly debated, and a clear, unambiguous statement/rule decided on unanimously or on majority consent. Not in this fair isle! A finger is thrust into the fire foolishly and finger withdrawn burnt. But no reprimand from on high (officials et al) and no protest from below (the citizenry).
+
+...
+
+[Data](articles/06918d3d.json)
+
+---
+
+### LOLC clinches seventh successive People’s Award
+
+*2024-04-11 02:48:00* · [`islandlk`](http://island.lk/lolc-clinches-seventh-successive-peoples-award/) · `en`
+
+LOLC Holdings PLC, the leading multinational financial conglomerate in Sri Lanka, proudly announces its glorious victory in clinching the esteemed title of “People’s Financial Services Brand of the Year” at the prestigious SLIM-Kantar People’s Awards 2024. This remarkable achievement marks the seventh consecutive year that LOLC has been recognized as the top choice in the nation’s financial services sector, repeating its dominance and firm dedication to uplifting lives across Sri Lanka.
+
+At LOLC, community well-being takes primacy, and this accolade emphasises their persistent belief in prioritizing the needs and aspirations of the people they serve. Winning the SLIM-Kantar People’s Award for the seventh consecutive year is a testimony to the trust and confidence bestowed upon them by the valued stakeholders, customers, and the Sri Lankan public at large.
+
+...
+
+[Data](articles/ac8c4071.json)
+
+---
+
+### ‘ComBank Digital’ goes trilingual to enhance inclusivity
+
+*2024-04-11 02:47:00* · [`islandlk`](http://island.lk/combank-digital-goes-trilingual-to-enhance-inclusivity/) · `en`
+
+‘ComBank Digital’ – Sri Lanka’s most-used digital banking platform – has significantly enhanced mass access by going trilingual, promoting greater inclusivity and even higher usage.
+
+Announcing the development, the Commercial Bank of Ceylon said the platform’s multilingual capability is expected to expedite adoption of digital banking in rural areas and more traditional customer segments.
+
+Commercial Bank’s Assistant General Manager – Digital Banking Mr Pradeep Banduwansa also expressed the hope that with its multilingual functionality, ComBank Digital would help extend access to financial services to the un-banked and under-banked, providing them the benefits of digital transformation.
+
+...
+
+[Data](articles/64cff4fd.json)
 
 ---
 
@@ -1999,285 +2169,5 @@ They have no agreement with a salary increase. Senthil Thondaman said that the s
 [Data](articles/f0de30a1.json)
 
 [Extended Data](ext_articles/f0de30a1.ext.json)
-
----
-
-### Sri Lanka stocks close up, All Share passes 12,000
-
-*2024-04-10 14:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-all-share-passes-12000-158216/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader All Share Index closed up 0.59 percent, or 70.61 points, at 12,033; while the S&P SL20 Index closed up 0.73 percent, or 25.85 points, at 3,572.
-
-Turnover was at 2.9 billion. Banks brought in most of the value at 1.7 billion rupees.
-
-Sampath Bank Plc was the most traded stock at 1.4 billion rupees in turnover. The share closed up at 81.00.
-
-“There was a lot of buying interest coming into banks,” market participants said.
-
-Commercial Bank of Ceylon Plc was up at 111.50, Hatton National Bank Plc was up at 203.50, National Development Bank Plc was up at 78.20, and DFCC Bank Plc closed up at 83.00.
-
-Ambeon Capital Plc which announced changes to its board, closed up at 10.10.
-
-Hayleys Fabric Plc, which saw renewed interest, closed up at 23.80.
-
-LOLC Holdings Plc was up at 412.00, and subsidiary LOLC Finance Plc was up at 5.80.
-
-There was a net foreign outflow of 15 million. (Colombo/Apr10/2024)
-
-◼️
-
-[Data](articles/1f53a3d0.json)
-
-[Extended Data](ext_articles/1f53a3d0.ext.json)
-
----
-
-### Identifying the main factors for accidents on high -speed streets
-
-*2024-04-10 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180892) · `ta`
-
-Dr. Samot Hettiarachchi identified three main causes of high-speed road accidents: drivers' negligence, non-maintenance of vehicles, and lack of road safety education. 56% of accidents are due to negligence, causing 35% of deaths or permanent disabilities. Despite efforts to improve safety, there's been a decrease in casualties from 17 in 2022 to 4 in 2023. The Ministry of Transport suggests updating the Motor Transport Act to reduce regulations and improve road safety.
-
-🟩
-
-Dr. Samot Hettiarachchi, a member of the Advisory Committee for Expressway Protection, said that three major causes of accidents on high -speed roads have been identified as drivers' negligence, non -maintenance of vehicles.
-
-Speaking at a media briefing held in Colombo yesterday, he said that this was found in a report on the statistics and factors of accidents on high -speed roads.
-
-56 percent of accidents on high -speed streets are caused by drivers' negligence. It has become a big problem. These accidents cause 35 percent of deaths or permanent districts.
-
-A total of 9,375 road accidents have been registered in the thirteen years after the construction of the Southern Expressway, of which 5,292 accidents were due to the negligence of drivers.. Only 66 people have died in the accident and 637 have been permanently disabled.
-
-The Director of the Southern Expressway Police Division and Senior Superintendent of Police, Mayura Perera, explained the details of the accidents.
-
-...
-
-[Data](articles/f63012c1.json)
-
-[Extended Data](ext_articles/f63012c1.ext.json)
-
----
-
-### The police assault is assaulted by the damage to a scrout to a scrout to a scrout in Medawachchi?
-
-*2024-04-10 14:49:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjq525z2x2xo) · `si`
-
-A 23-year-old in Medawachchiya was assaulted by police, leading to severe injuries. He was hospitalized, underwent surgery, and his future plans, including studying in Korea, were disrupted. The police claimed they were arresting a vehicle involved in a drug operation, but the youth's family disputes this, accusing the police of excessive force.
-
-🟩
-
-The police assault is assaulted by the damage to a scrout to a scrout to a scrout in Medawachchi?
-
-A youth who was injured in the hospital that the police had been injured in a attack on the police that the police were driven by the police regardless of the police orders in the Medawachchiya area in Medawachchiya.
-
-The incident was a 23 year old resident of Medawachchiya, Temple Trees on the night of April 07.
-
-The young man has been admitted to the Anuradhapura Teaching Hospital in the Anuradhapura Teaching Hospital says that the doctors acted in operation by the damage done by the police.
-
-'Justice' drug repressive operation: Are police arrests legitimate?
-
-The 23-year-old man who is currently receiving treatment at the Anuradhapura hospital in the Anuradhapura hospital said that the police did not leave the Anuradhapura.
-
-"On April 7, we saw the way to go to the town and saw the way out of the police trip."
-
-"The vehicles were stopped. We used to come forward all the vehicles. "
-
-...
-
-[Data](articles/0e61f18a.json)
-
-[Extended Data](ext_articles/0e61f18a.ext.json)
-
----
-
-### Hambantota International Port kicks off container operations
-
-*2024-04-10 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98555/hambantota-international-port-kicks-off-container-operations) · `en`
-
-The Hambantota International Port (HIP), in a landmark move, inaugurated its container transshipment service operated by the Mediterranean Shipping Company (MSC).
-
-MV ‘MSC Ingrid’ made her maiden call at HIP on Tuesday (09), discharging a total of 500 plus TEUs of transshipment containers to be connected to a second carrier, ‘MSC Sky 11’, expected to make a port call on 16 April.
-
-The first shipment of containers consigned to the regional multipurpose port on the east-west shipping route, originated from the Rotterdam Port and will reach its final destination, Dubai via the second carrier.
-
-Commenting in this regard, Johnson Liu, Chief Representative of China Merchants Group in Sri Lanka and CEO of Hambantota International Port Group (HIPG) expressed confidence that HIPG container transshipment service would enhance Sri Lanka’s position in the marine connectivity index for the South Asian region.
-
-...
-
-[Data](articles/0d33d29b.json)
-
-[Extended Data](ext_articles/0d33d29b.ext.json)
-
----
-
-### New Year's Vision presented to President
-
-*2024-04-10 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195509) · `si`
-
-The Sinhala and Tamil New Year's NEWSATH SEP was presented to President Ranil Wickremesinghe by the State's Department of Cultural Affairs. Minister of Buddha Samara and Religious and Cultural Affairs Vidura Wickramanayaka participated. The event included charity, cooking, bleeding, diet, and celebrations marking the new year.
-
-🟩
-
-The Sinhala and Tamil New Year's NEWSATH SEP has been admitted to the traditional ritual to President Ranil Wickremesinghe.
-
-The procedure amazed seat prepared by the State's auspicious committee of the Department of Cultural Affairs, the Presidential Media Unit said.
-
-Minister of Buddha Samara presented the President of Buddha Sasana, Religious and Cultural Affairs Vidura Wickramanayaka.
-
-New Year's dawn, charity, cooking, bleeding, diet, precisely visible and celebrated and departing for the new year.
-
-◼️
-
-[Data](articles/b7c8b301.json)
-
-[Extended Data](ext_articles/b7c8b301.ext.json)
-
----
-
-### Identify 137 drug trafficking racketing
-
-*2024-04-10 14:13:11* · [`adalk`](https://www.ada.lk/breaking_news/ඊෂි-කෑෂ්-ක්‍රමයට-මත්ද්‍රව්‍ය-ජාවාරම්-කරන-ජාවාරමුන්-137ක්-හඳුනාගනියි/11-409051) · `si`
-
-Sri Lanka police reveal 137 drug traffickers using Escoash system for money exchange.
-
-🟩
-
-Police Headquarters says that information has been revealed in 137 racketeers who exchange money in drug trafficking using Escoash system in Sri Lanka
-
-මත්ද්‍රව්‍ය මැඩලීම සඳහා ක්‍රියාත්මක කර ඇති යුක්තිය මෙහෙයුමට සමගාමීව   සිදුකරන විමර්ශනවලදී මෙම පුද්ගලයන් සම්බන්ධයෙන් තොරතුරු අනාවරණය කරගෙන ඇති බවද පොලිස් මුලස්‌ථානය පවසයි පවසයි
-
-Police Narcotics Research has already been investigated by the banking report of five drug dealers, who were engaged in large scale racketeers.
-
-◼️
-
-[Data](articles/c87bead5.json)
-
-[Extended Data](ext_articles/c87bead5.ext.json)
-
----
-
-### A constable transport of shares of a herou motorcycle
-
-*2024-04-10 14:06:21* · [`adalk`](https://www.ada.lk/breaking_news/අධිබල-යතුරු-පැදියක-කොටස්-ප්‍රවාහනය-කළ-කොස්තාපල්වරයෙක්-අල්ලයි/11-409050) · `si`
-
-Three police constables, including a motorcycle, were arrested in a car in the country by the Mulleriyawa police. The constable was part of the Pothiya Police Station's special duties. The motorcycle was found during a suspicious vehicle operation. The suspects, including the constable, were involved in the car. The police are investigating further.
-
-🟩
-
-Three of the police constable, including a shares of a motorcycle in a car in the country, was arrested by the Mulleriyawa police.
-
-The arrested police constable was attached to the Pothiya Police Station Special duties.
-
-Police said the motorcycle was found in the operation of a suspicious vehicle according to information that a police team was engaged in a special duties.
-
-Three suspects in the car have been involved in the car and had been revealed that the police constable was one of the suspects.
-
-The suspects will be stolen from anyone or not to import anyone else or imported.
-
-Police said the police said. Mulleriyawa police are conducting further investigations.
-
-◼️
-
-[Data](articles/e8afee8d.json)
-
-[Extended Data](ext_articles/e8afee8d.ext.json)
-
----
-
-### One year for the struggle against the idol set up by the army in the north
-
-*2024-04-10 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180909) · `ta`
-
-Tamil people protest for a year against the military's construction of a Buddhist Vihara, claiming land theft. Parliamentarian Selvarajah Gajendran warns of escalating struggles unless the land is returned. Demonstrators accuse the military of illegally building the Vihara on private Tamil lands without permission. The Sri Lankan military denies these claims, stating the Vihara, built on April 27, 2023, is a historic site. Tamils demand the release of their lands, which the military allegedly forcibly acquired.
-
-🟩
-
-A representative of the Tamil people who has been carrying out a struggle for a year, alleging that the Buddhist Vihara has been built by the military in the North and has been taken away by the Tamil people.
-
-Tamil National People's Front parliamentarian Selvarajah Gajendran issued a warning in a video released yesterday (April 7) in front of the Kankesanthurai Tissa Vihara, saying that if it does not do so, the struggles to be released to release the land will have to be further expanded.
-
-“The building is illegally built with the help of the army with the help of the army.. Those owners have been demanding that these land be handed over to the private sector but have not been handed over to them for the past several years.. This has led to a continuous struggle in front of this Vihara for the past one year. However no action has been taken to release the land. If this situation continues. Steps must be taken to remove the building very quickly and hand over the land to the relevant. "
-
-...
-
-[Data](articles/f07e66fc.json)
-
-[Extended Data](ext_articles/f07e66fc.ext.json)
-
----
-
-### Littlear star with the women's cricket ground
-
-*2024-04-10 13:54:59* · [`adalk`](https://www.ada.lk/sports/මොනරාගලින්-ඇවිත්-කාන්තා-ක්‍රිකට්-පිටිය-හොල්ලපු-පුංචි-තරුව/9-409049) · `si`
-
-A young cricketer from Sri Lanka, part of the 19th Women's World Cricket team, excels in her sport. Born in Pahavilawatta, she trains at Panbukkana Pannananda Maha Vidyalaya, with guidance from teachers and sports trainers. She's a fast bowler and left-handed, playing in district and provincial competitions. Supported by her family and community, she's proud of her achievements, including a notable performance in a cricket tournament.
-
-🟩
-
-HM Chamo, Panbukkana Pannananda Maha Vidyalaya, Kumbukkana Palan Vidyalaya The 19th Sri Lanka Women's World Cricket team has been given excellent performances.
-
-She is living in the 10th year, she is living in Pahavilawatta. She looked into the game and trained the school, a volunteer teacher, K.Kandrakumar, a voluntary teacher of cricket.
-
-Principal, RMS Ratnayake, the guidance of the College Sports Trainer, Nalini Wijeratne, she has played many opportunities in district provincial cricket game competitions.
-
-A fast bowler, she also serves as a left-hand bowler and is currently the youngest sports of the 19th group.
-
-Moneragala District Cricket Association, Panchanden College, Director of Moneragala Assistant Sports, Pasindu Lakshan, Pasindu Lakshan, Kasunku, Kasun Maduranga, Katale Narangoda, Kasun Maduranga, Sunday Narangoda, Kasun MadurangaThere are NANU's help helps to make her play life success.
-
-...
-
-[Data](articles/90de542d.json)
-
-[Extended Data](ext_articles/90de542d.ext.json)
-
----
-
-### The parents of the shotter's parents to jail
-
-*2024-04-10 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195508) · `si`
-
-The parents of a student's parents were sentenced to 10-15 years for murdering four students, marking the first time parents of a school gunman were punished. They were later reduced to seven years. Ethan Crash, the 15-year-old gunman, targeted Oxford High School. His parents were accused of failing to address his mental disorder before buying a gun.
-
-🟩
-
-It is reported that the parents of a student of a student of the United States have been imprisoned for 10 to 15 years of murdering four students.
-
-The lawyers of State have requested that they had to reduce their sentences to seven years.
-
-Accordingly, this is the first time that the parents of a school gunman will be punished.
-
-James and Jennifer Crampley appeared in court today and expressed their regret over the first of the crime he made.
-
-The 15-year-old Ethan Crash, a 15-year-old Ethan Crash, was aimed at Oxford High School at Oxford High School.
-
-Ethan Craramley's parents have accused of taking proper action against his son's mental disorder and buying a gun.
-
-◼️
-
-[Data](articles/e82efcd5.json)
-
-[Extended Data](ext_articles/e82efcd5.ext.json)
-
----
-
-### ‘Nekath Seettuwa’ for New Year presented to President
-
-*2024-04-10 13:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nekath-Seettuwa-for-New-Year-presented-to-President/108-280560) · `en`
-
-Colombo, April 10 (Daily Mirror) - Following customs and traditions, the ‘Nekath Seettuwa’, the table of auspicious times for this year’s Sinhala and Tamil New Year, was presented to President Ranil Wickremesinghe at the Presidential Secretariat today.
-
-The table of auspicious times, duly prepared by the State Astrologers' Committee of the Department of Cultural Affairs, was presented to the President.
-
-Minister of Buddha Sasana, Religious and Cultural Affairs Vidura Wickremanayake presented the ‘Nekath Seettuwa’ to the President in accordance with traditional customs.
-
-Auspicious periods comprise of various timings such as the New Year’s Eve, Punya Kaalaya or inauspicious time, timings for cooking, working, eating, anointing, setting off for work and more.
-
-◼️
-
-[Data](articles/80d6aae3.json)
-
-[Extended Data](ext_articles/80d6aae3.ext.json)
 
 ---

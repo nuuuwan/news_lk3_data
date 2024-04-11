@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 14:33:43**
+As of **2024-04-11 14:51:19**
 
 ## Newspaper Stats
 
-*Scraped **18,467** Articles*
+*Scraped **18,469** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,56 +17,102 @@ dailyftlk | 1,018
 economynextcom | 1,034
 adalk | 1,549
 tamilmirrorlk | 2,156
-adaderanalk | 2,208
+adaderanalk | 2,209
 virakesarilk | 2,750
-dailymirrorlk | 2,817
+dailymirrorlk | 2,818
 adaderanasinhalalk | 2,989
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,464 (100.0%) of 18,467 articles have been extended.
+18,467 (100.0%) of 18,469 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### ටෙස්ලා අරන් ඊලොන් මස්ක් ඉන්දියාව ට
+### Sufficient rice, vegetables, eggs, chicken, fruits supplied to market for festive season
+
+*2024-04-11 14:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sufficient-rice-vegetables-eggs-chicken-fruits-supplied-to-market-for-festive-season/108-280624) · `en`
+
+Colombo, April 11 (Daily Mirror) - Locally produced rice, vegetables, eggs, chicken and fruits needed for the Sinhala and Tamil New Year celebrations have been supplied to the market without any shortages, Agriculture and Plantation Industries Minister Mahinda Amaraweera said.
+
+He said the vegetable prices, which increased rapidly about a month ago and the shortage of vegetables have been completely ended by now. Under the government's programme to increase production in the country, more than the required amount of poultry meat, eggs, vegetables, fruits and rice are now available in the market.
+
+"People also claimed that the price of a kilogramme of carrot will go up to Rs. 5,000 during the New Year season. But now, not only the price of carrots but also the prices of all other vegetables have come down. Although some said that the price of an egg will go up to Rs. 75, the price of eggs has also decreased to Rs. 40," he said.
+
+...
+
+[Data](articles/6a078013.json)
+
+---
+
+### Japan extends grant to strengthen facilities at BIA and Colombo Port
+
+*2024-04-11 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98574/japan-extends-grant-to-strengthen-facilities-at-bia-and-colombo-port) · `en`
+
+The Government of Japan has provided a grant of USD 8.4 million through the International Organization for Migration (IOM) to strengthen PoE facilities in Sri Lanka and the Maldives.
+
+The grant component for Sri Lanka aims to strengthen capacities at the Bandaranaike International Airport (BIA) and the Colombo Port which are vital gateways to the island nation, to be future-ready for responding to any public health emergencies such as pandemics and infectious diseases.
+
+The event for handing over the first part of the donation took place on Wednesday (10) at the BIA.
+
+Under this initiative, BIA and Colombo Port are set to receive cutting-edge equipment and facilities, including advanced baggage scanners, full body scanners, Automated Border Control (ABC) gates equipped with a Face Recognition System (AFRS), full-page e-passport scanners, and biometric-based access control systems.
+
+...
+
+[Data](articles/b9c32c54.json)
+
+---
+
+### Tesla arrow ewn meal
 
 *2024-04-11 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195541) · `si`
 
-ලොව ධනවත් ම පුද්ගලයෙක් ලෙස සැලකෙන ඊලොන් මස්ක්, ඉන්දීය අගමැති නරේන්ද්‍ර මෝදී ව හමුවීම සඳහා ඉන්දියාවට පැමිණීමට නියමිත බව මස්ක් 'X" පණිවුඩයක් නිකුත්කරමින් පවසයි.
+Tesla's EV factory investment in India aims to reduce import taxes, with Indian PM visiting for talks.
 
-ඔහුගේ මෙම සංචාරයේ අරමුණ ටෙස්ලා කර්මාන්ත ශාලාවක් ස්ථාපනය කිරීම සඳහා ආයෝජනය කිරීම සම්බන්ධයෙන් එකඟතාවයකට පැමිණීම බව වාර්තා විය.
+🟩
 
-පසුගිය සතියේදී විද්‍යුත් වාහන ආනයන බද්ද සැලකිය යුතු ලෙස අඩු කිරීමට ඉන්දියාව කටයුතු කළේය.
+An ewn meat, Indian Prime Minister, who is considered the world, is to arrive in India to visit India to visit India.
 
-ඩොලර් මිලියන 500කට වැඩි මුදලක් ආයෝජනය කිරීම සහ වසර තුනක් අතුළත දේශීය වශයෙන් නිෂ්පාදන කර්මාන්ත ශාලාවක් ආරම්භ කිරීමටත් හැකියාව ඇති මෝටර් රථ නිෂ්පාදන සමාගම් සඳහා එම අවස්ථාව යටතේ විද්‍යුත් වාහන ආනයනයට හැකියාව හිමිවෙයි.
+The purpose of his visit was reported that the purpose of investing a Tesla factory was to reach an agreement.
 
-ටෙස්ලා සමාගමේ ප්‍රධානියා වන මස්ක්, 2021 දී පැවසුවේ අධික ආනයන බදු හේතුවෙන් තම සමාගමේ මෝටර් රථ ඉන්දියාවේ එළිදැක්වීම ට බාධා එල්ලවී ඇති බවය.
+India was the significant reduction of electrical imports tax last week.
+
+Investing more than $ 500 million and the importation of electric vehicles can be imported for automobile manufacturing companies.
+
+Tesla, the head of Tesla, 2021 said that the company's vehicles were disrupted in India's vehicles due to heavy import taxes.
 
 ◼️
 
 [Data](articles/4f4d7d37.json)
 
+[Extended Data](ext_articles/4f4d7d37.ext.json)
+
 ---
 
-### மருதானையில் வாள், கைக்குண்டுகளுடன் மூவர் கைது!
+### Three arrests with sword and handguns in Maradana
 
 *2024-04-11 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/180978) · `ta`
 
-கொழும்பு வாழைத்தோட்ட பிரதேசத்தில்  ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பலைச் சேர்ந்தவர்களைத்  தாக்குவதற்கு மறைத்து வைக்கப்பட்டிருந்த T-56 ரக துப்பாக்கி, 14 தோட்டாக்கள் அடங்கிய மகசீன், வாள், கைக்குண்டு போன்றவற்றுடன் மூவர் மருதானை பிரதேசத்தில் கைது செய்யப்பட்டுள்ளதாக  பொலிஸ் விசேட அதிரடிப் படையினர் தெரிவித்தனர். .
+In Maradana, three suspects aged 18, 34, and 47, from Colombo 10, were arrested with a T-56 rifle, 14 bullets, and a sword, found in Banana Fort, Colombo.
 
-மருதானை பொலிஸ் பிரிவுக்கு உட்பட்ட ஸ்ரீ போதிராஜாராம விஹாரைக்கு  பின்புறம் உள்ள வீடொன்றுக்கு அருகில் நேற்று புதன்கிழமையன்று  (10) மேற்கொள்ளப்பட்ட சோதனை நடவடிக்கையின்  போதே  சந்தேக நபர்கள் மூவரும் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-அத்தோடு,  ஸ்ரீ போதிராஜாராம விகாரைக்கு  பின்புறமாக உள்ள வீட்டின் மேற்கூரையின் பின்பகுதியில் பயணப் பையிலிருந்தே இவை கைப்பற்றப்பட்டுள்ளன.
+Police Special Task Force (STF) said that three persons have been arrested in Maradana area with a T-56 rifle and 14 bullets hidden in the Banana Fort area in Colombo.. .
 
-கைது செய்யப்பட்ட சந்தேகநபர்கள் மூவரும் கொழும்பு 10 பிரதேசத்தில் வசிக்கும் 18, 34 மற்றும் 47 வயதுடையவர்கள் என விசேட அதிரடிப்படை தெரிவித்துள்ளனர்.
+Three suspects have been arrested during a raid on Wednesday (10) near a house behind the Sri Bodhirajarama Vihara, which belongs to the Maradana police division.
+
+In addition, they have been seized from the travel bag at the back of the roof of the house in the back of the Sri Bodhirajarama Vihara.
+
+The three arrested suspects are aged 18, 34 and 47, living in Colombo 10 area, the Special Task Force said.
 
 ◼️
 
 [Data](articles/35d1901a.json)
+
+[Extended Data](ext_articles/35d1901a.ext.json)
 
 ---
 
@@ -83,6 +129,8 @@ The Index of Consumer Sentiment (ICS), the broadest measure of the public’s vi
 ...
 
 [Data](articles/db678534.json)
+
+[Extended Data](ext_articles/db678534.ext.json)
 
 ---
 
@@ -2165,59 +2213,5 @@ Secretary of the Ministry of Health (Retirement) Kamal Gunaratne was welcomed by
 [Data](articles/46500986.json)
 
 [Extended Data](ext_articles/46500986.ext.json)
-
----
-
-### Let us make people economic shareholders
-
-*2024-04-10 23:37:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களை-பொருளாதார-பங்குதார்களாக்குவோம்/175-335843) · `ta`
-
-President Ranil Wickremesinghe aims to empower citizens economically by granting permanent land and home rights, among other benefits, to strengthen the economy. Despite tax policy challenges, the government has managed to increase public servant salaries and the value of the rupee without borrowing.
-
-🟩
-
-Education, Land, Home, Business Rights. President Ranil Wickremesinghe has said that steps will be taken to make the people strong in the economy.
-
-The President said this at the event to hand over the Ranthi Housing House at the Colombo Association. When he further addresses,
-
-The tax policy we implemented to strengthen the economy further increased the burden of life. But because you have endured those hardships, the government was able to increase the income of the government without borrowing and money. That is why this year, public servants were able to pay a 10,000 rupee salary increase. The value of the rupee is also strengthened.
-
-I consider permanent land rights and permanent home rights to thank the affected people. 50,000 houses will be handed over to people in the future. We expect to complete the construction of 1996 houses provided by the Chinese government during his tenure as Prime Minister.
-
-...
-
-[Data](articles/5a8f440e.json)
-
-[Extended Data](ext_articles/5a8f440e.ext.json)
-
----
-
-### US support Sri Lanka's sovereignty
-
-*2024-04-10 23:31:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-இறைமைக்கு-அமெரிக்கா-ஆதரவு/175-335842) · `ta`
-
-US National Security Advisor Jack Salivan pledges full support for Sri Lanka's sovereignty and security, discussing key issues to strengthen bilateral relations. He commends Sri Lanka's economic progress and emphasizes the need for public funds reform. Future cooperation opportunities are being explored to enhance peace and security in the region.
-
-🟩
-
-United States National Security Advisor Jack Salivan has promised to get the full support of Sri Lanka's sovereignty and security.
-
-He was speaking at a telephone discussion with the President's Senior Advisor to National Security yesterday.
-
-A number of important issues have been discussed to strengthen bilateral relations between the two countries.
-
-National Security Advisor Jack Salivan has praised Sri Lanka's continued efforts to achieve rapid economic improvement.
-
-He also emphasized the importance of reforming in public funds, money and administration, indicated by the International Monetary Fund program, the Presidential Media Division said.
-
-In the future, the mechanisms and opportunities to improve cooperation between the two countries have been extensively investigated.
-
-"We are working with Sri Lanka to improve peace and security in the region," the Presidential Media Division said.(a)
-
-◼️
-
-[Data](articles/823b904f.json)
-
-[Extended Data](ext_articles/823b904f.ext.json)
 
 ---

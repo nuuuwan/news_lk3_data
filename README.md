@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 09:03:37**
+As of **2024-04-11 09:18:14**
 
 ## Newspaper Stats
 
-*Scraped **18,416** Articles*
+*Scraped **18,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,546
 tamilmirrorlk | 2,153
 adaderanalk | 2,202
 virakesarilk | 2,739
-dailymirrorlk | 2,808
+dailymirrorlk | 2,809
 adaderanasinhalalk | 2,979
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,412 (100.0%) of 18,416 articles have been extended.
+18,416 (100.0%) of 18,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### SLPP MPs barred from going public on their support for presidential candidates
+
+*2024-04-11 08:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-MPs-barred-from-going-public-on-their-support-for-presidential-candidates/108-280617) · `en`
+
+Colombo, April 11 (Daily Mirror)- In the wake of SLPP (Sri Lanka Podujana Peramuna) MPS airing contrasting views over the upcoming elections, the party hierarchy has barred all MPS from making comments on their support to any presidential candidate until a formal decision is taken, a party official said yesterday.
+
+The party’s executive committee took this decision at its meeting held last Tuesday.
+
+The SLPP is currently divided on its support, with those holding positions in the government openly supporting the proposed candidacy of President Ranil Wickremesinghe.among them are ministers Susil Premajayantha, Prasanna Ranatunga and Ali Sabry.
+
+Another faction insists on fielding its own candidate. Also, the party has decided to take stern disciplinary action against those who sided with other parties, violating the party constitution.
+
+◼️
+
+[Data](articles/19e7ed24.json)
+
+---
 
 ### S. Korea promises assistance for Sri Lanka in education, health, renewable energy & employment
 
@@ -48,27 +66,35 @@ On the request of PM Gunawardena, South Korea agreed to provide smart classrooms
 
 [Data](articles/cfeba759.json)
 
+[Extended Data](ext_articles/cfeba759.ext.json)
+
 ---
 
-### ගවයින් ප්‍රවාහනය කළ ලොරියට පොලීසියෙන් වෙඩි
+### Police shooting the lorry transporting cattle
 
 *2024-04-11 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195531) · `si`
 
-කනංකේ දොලේලියද්ද ප්‍රදේශයේදී අණ නොතකා ධාවනය කළ ලොරි රථයකට පොලීසිය වෙඩිතබා තිබේ.
+Police found a lorry with a dead driver near Kananke Raja Maha Viharaya at 4.30 am. The lorry was shot at, injuring one inside, and two escaped.
 
-පොලීසිය පැවසුවේ, ගවයින් ප්‍රවාහනය කරමින් සිටි ලොරි රථයකට මෙලෙස වෙඩි තබා ඇති බවය.
+🟩
 
-අද (11) අලුයම 4.30ට පමණ කනංකේ රජමහා විහාරය අසල ප්‍රදේශයේදී ගවයෙක් ලොරි රථයකට පටවනු නිරීක්ෂණය කළ රාත්‍රී ජංගම සංචාරයේ නිරත වූ පොලිස් නිලධාරීන් පිරිසක් දොලේලියද්ද ප්‍රදේශයේදී එම ලොරි රථය නැවැත්වීම සඳහා නියෝග කර තිබේ.
+Police were shocked at a lorry, who was commanded in the area where Kanankey Doliyagoda.
 
-කෙසේ වෙතත් ලොරි රථය නොනවත්වා ධාවනය කර ඇති අතර පොලිස් නිලධරීන් රථයට වෙඩි තබා තිබුණි.
+The police said that the lorry was shot dead by carrier.
 
-එහිදී ලොරි රථයේ සිටි එක් පුද්ගලයෙකු තුවාල ලබා ඇති අතර තවත් දෙදෙනෙකු පළාගොස් තිබේ.
+A group of police officers have been imposed on a night visit to a lorry that a corpse was stabbed to a lorry near the Kananke Raja Maha Viharaya at around 4.30 am today (11).
 
-මෙලෙස වෙඩි වැදීමෙන් තුවාල ලබා ඇත්තේ ගින්තොට, මාපුගල ප්‍රදේශයේ පදිංචි මොහොමඩ් සියාම් නම් පුද්ගලයෙකි.
+However, the lorry was continued and the police officers were shot.
+
+One person in the lorry was injured and two others fled.
+
+Mohammed Siyam, a resident of Gintota, was a resident of Mapugala area.
 
 ◼️
 
 [Data](articles/5d42b9a4.json)
+
+[Extended Data](ext_articles/5d42b9a4.ext.json)
 
 ---
 
@@ -94,21 +120,27 @@ Meanwhile , during a separate meeting, Chinese Prime Minister Li Qiang has raise
 
 ---
 
-### හෝටල් කාමරයක තවත් අභිරහස් මරණයක්
+### Another mysterious death in a hotel room
 
 *2024-04-11 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195530) · `si`
 
-අවිස්සාවේල්ල පොලිස් වසමේ මනමේන්ද්‍ර මාවතේ පිහිටි හෝටලයක නවාතැන් ගෙන සිටි තරුණියක් අභිරහස් ලෙස මියගොස් තිබේ.
+A young girl died mysteriously in a Manamenda Mawatha hotel. Police lodged a complaint against a woman in the hotel. The girl was found unconscious in a room with another person. The body is under police protection, and Avissawella police are investigating.
 
-පොලීසිය සඳහන් කළේ, ඊයේ (10) සවස හෝටලයේ නවාතැන් ගෙන සිටි යුවළක් අතරින් කාන්තාවක් සැකකටයුතු ලෙස මියගොස් ඇතැයි පොලීසියට පැමිණිල්ලක් ලැබුණු බවය.
+🟩
 
-මියගිය තරුණිය පුද්ගලයෙකු සමග ඊයේ සවස අදාළ හෝටලයට පැමිණ එහි කාමරයක නවාතැන්ගෙන ඇති අතර, ඊට ටික වේලාවකට පසුව ඇය සමග සිටි පුද්ගලයා විසින් තරුණිය සිහිසුන්ව වැටී සිටින බවට හෝටල් කළමනාකාරීත්වය දැනුවත් කර ඇත.
+A young girl who was staying in a hotel in Manamenda Mawatha, Avissawella police division has died mysteriously.
 
-මෘත ශරීරය පොලිස් ආරක්ෂාව යටතේ සිදුවීම වූ ස්ථානයේම ඇති අතර අවිස්සාවේල්ල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+Police said that the police had lodged a complaint with a woman who was staying in the hotel yesterday evening yesterday evening.
+
+The deceased has come to the hotel last evening and stayed in a room with a person, a while, hotel management has been informed that the girl is unconscious.
+
+The body is under police protection and Avissawella police are conducting further investigations.
 
 ◼️
 
 [Data](articles/679e92a4.json)
+
+[Extended Data](ext_articles/679e92a4.ext.json)
 
 ---
 
@@ -1064,19 +1096,25 @@ The competitions have been divided into three sections, namely State Section, Op
 
 ---
 
-### பாதுகாப்பு அமைச்சின் புத்தாண்டு நிகழ்வு
+### New Year's event of the Ministry of Defense
 
 *2024-04-10 23:41:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-அமைச்சின்-புத்தாண்டு-நிகழ்வு/175-335844) · `ta`
 
-பாதுகாப்பு அமைச்சின் நலன்புரிப் பிரிவினால் பத்தரமுல்லையில் உள்ள பாதுகாப்பு படைத் தலைமையக வளாகத்தில் நேற்று ஏற்பாடு செய்யப்பட்டிருந்த தமிழ் சிங்களப் புத்தாண்டு நிகழ்வில் ஜனாதிபதி ரணில் விக்கிரமசிங்க கலந்துகொண்டார்.
+President Ranil Wickremesinghe attended the Tamil Sinhala New Year event at the Defense Army Headquarters, where traditional games and cultural events were celebrated. Secretary Kamal Gunaratne, from the Ministry of Health, was welcomed by the Defense Ministry's Kamal Gunaratne and presented gifts to the New Year's beauty competition winners.
 
-சம்பிரதாயங்களுக்கு முன்னுரிமை அளித்து ஏற்பாடு செய்யப்பட்ட இந்த புத்தாண்டு கொண்டாட்டம் பல பாரம்பரிய விளையாட்டுகளை உள்ளடக்கியிருந்ததோடு, பாதுகாப்பு அமைச்சின் ஊழியர்களின் கலாச்சார நிகழ்வுகளும் இடம்பெற்றுள்ளன.
+🟩
 
-புத்தாண்டு விழா நடைபெறும் வளாகத்திற்கு வருகை தந்த ஜனாதிபதிக்கு பாதுக்காப்பு அமைச்சின் செயலாளர் ஜெனரல் (ஓய்வு) கமல் குணரத்னவால் வரவேற்பளிக்கப்பட்டதோடு, புத்தாண்டு அழகி போட்டியில் பங்குபற்றி வெற்றி பெற்றவர்களுக்கு ஜனாதிபதி பரிசுகளை வழங்கினார். (a)
+President Ranil Wickremesinghe participated in the Tamil Sinhala New Year event organized by the Defense Ministry's Welfare Division at the Defense Army Headquarters Complex in Battaramulla yesterday.
+
+The New Year celebration, organized by the customs, includes many traditional games and the cultural events of the Ministry of Defense.
+
+Secretary of the Ministry of Health (Retirement) Kamal Gunaratne was welcomed by the President of the Ministry of Defense Kamal Gunaratne and presented the President's gifts to the winners of the New Year's beauty competition.. (A)
 
 ◼️
 
 [Data](articles/46500986.json)
+
+[Extended Data](ext_articles/46500986.ext.json)
 
 ---
 
@@ -2187,25 +2225,5 @@ The secretary of the Adilingeswara Temple Executive Council, Durairasa Thamizelv
 [Data](articles/09ccf653.json)
 
 [Extended Data](ext_articles/09ccf653.ext.json)
-
----
-
-### For Sri Lanka and India, cooperation is the only option: High Commissioner
-
-*2024-04-10 16:20:00* · [`economynextcom`](https://economynext.com/for-sri-lanka-and-india-cooperation-is-the-only-option-high-commissioner-158232/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s and India’s shared past, common heritage and strong cultural connect create ‘a natural warmth’ in dealing with each other, High Commissioner of India Santosh Jha has said.
-
-“For us, as close and proximate neighbours, cooperation is the only option. It is not driven by choice and opportunity alone,” Jha said speaking at the India-Sri Lanka Defence Seminar held in Colombo on Wednesday.
-
-“Our approach to Sri Lanka is guided by our neighbourhood-first policy and our SAGAR vision. This entails that we share with our closest neighbours all that we can based on their needs and aspirations. It also entails that our approach remains generous and non-reciprocal.”
-
-India looked forward to working with Sri Lanka to take forward our common endeavour to deepen and further strengthen our defence cooperation, the high commissioner said.
-
-...
-
-[Data](articles/903df171.json)
-
-[Extended Data](ext_articles/903df171.ext.json)
 
 ---

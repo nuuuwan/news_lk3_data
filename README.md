@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 15:34:07**
+As of **2024-04-11 15:52:28**
 
 ## Newspaper Stats
 
-*Scraped **18,474** Articles*
+*Scraped **18,476** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 1,018
 economynextcom | 1,034
 adalk | 1,549
 tamilmirrorlk | 2,158
-adaderanalk | 2,210
-virakesarilk | 2,750
+adaderanalk | 2,211
+virakesarilk | 2,751
 dailymirrorlk | 2,819
 adaderanasinhalalk | 2,990
 
@@ -26,29 +26,73 @@ adaderanasinhalalk | 2,990
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,472 (100.0%) of 18,474 articles have been extended.
+18,474 (100.0%) of 18,476 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### තරුණයෙකුගේ වෘෂණ කෝෂවලට හානීවීමේ සිද්ධියට පොලීසියේ දෙදෙනෙක් අත්අඩංගුවට
+### Eight Sri Lankans rescued from Myanmar cybercrime camps safely arrive in Thailand
+
+*2024-04-11 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/98576/eight-sri-lankans-rescued-from-myanmar-cybercrime-camps-safely-arrive-in-thailand) · `en`
+
+The eight Sri Lankans, who were rescued from the cybercrime camps in Myawaddy area of Myanmar, have safely arrived at the Embassy of Sri Lanka in Thailand, Ada Derana learns.
+
+Commenting in this regard, the Ambassador of Sri Lanka to Thailand, Mr. Janaka Bandara said the rescued people will be repatriated to the island in the coming days.
+
+Out of the 56 Sri Lankans who were trapped in cybercrime camps in Myawaddy, eight were rescued by the Myanmar government authorities in early March and sent to the Myawaddy central police station.
+
+This morning (11), Burmese immigration officials handed the group over to the Thai officials across the Thai–Myanmar Friendship Bridge.
+
+According to Ambassador Bandara, the rescued Sri Lankans are in good health and are currently accommodated at the Sri Lankan embassy in Thailand.
+
+...
+
+[Data](articles/6cb68f2c.json)
+
+---
+
+### சாவகச்சேரியில் திருடப்பட்ட மோட்டார் சைக்கிள் மன்னாரில் மீட்பு!
+
+*2024-04-11 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180983) · `ta`
+
+சாவகச்சேரியில் கடந்த திங்கட்கிழமை திருடப்பட்ட மோட்டார் சைக்கிள் சாவகச்சேரி பொலிஸாரின் துரித முயற்சியால் மன்னாரில் வைத்து மீட்கப்பட்டது.
+
+சாவகச்சேரி நகரப் பகுதியில் உள்ள மருத்துவ நிலையத்தில் சிகிச்சை பெறச் சென்ற ஒருவர் தனது மோட்டார் சைக்கிளை அங்கு நிறுத்தி விட்டுச் சென்ற நிலையில்  திரும்பிவந்து பார்த்த போது அவரது மோட்டார் சைக்கிள் திருடப்பட்டிருந்தது.
+
+இதன்போது ,  விரைந்து செயற்பட்ட சாவகச்சேரிப் பொலிஸாரினால்  பொலிஸ் நிலையங்களுக்கும் சோதனைச் சாவடிகளுக்கும் தகவல் வழங்கப்பட்டுள்ளது.
+
+அத்தோடு ,  மன்னார் சோதனைச் சாவடியில் வைத்து மோட்டார் சைக்கிள் மீட்கப்பட்டதுடன், மோட்டார் சைக்கிளைத் திருடியவரும் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/ae38b92e.json)
+
+---
+
+### Two policemen arrested for harm to a young man's testicenses
 
 *2024-04-11 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195542) · `si`
 
-මැදවච්චිය පොලීසියේ නිලධාරීන් පිරිසක් සිදුකළ පහරදීමක් නිසා සිය පුතුගේ වෘෂණ කෝෂයක් සැත්කමකින් ඉවත් කිරීමට සිදුවූ බවට ඔහුගේ මව චෝදනා කළ සිද්ධිය සම්බන්ධයෙන් පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
+Two policemen arrested for assaulting a young man during surgery. The police sergeant and a constable are to be tried by the Kebithigollewa Magistrate.
 
-තුවාලකරු සිදුකළ ප්‍රකාශය අනුව අනුරාධපුර රෝහල් පොලීසිය මගින් කැබිතිගොල්ලෑව කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරයා දැනුවත් කර තිබුණි.
+🟩
 
-අනතුරුව කැබිතිගොල්ලෑව කොට්ඨාස අපරාධ විමර්ශන අංශය මගින් ඒ සම්බන්ධව විමර්ශනයක් සිදුකර සිද්ධියට සම්බන්ධ පොලිස් සැරයන්වරයාව සහ කොස්තාපල්වරයෙක්ව අත්අඩංගුවට ගෙන ඇත.
+The police have commenced investigations into the incident that a group of Media Kumarachchiya Police had assaulted his son from a surgery.
 
-සැකකරුවන් දෙදෙනා අද (11) කැබිතිගොල්ලෑව මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+According to the injustice made by the injured, police had informed the Senior Superintendent of Police in Kebithigollewa Division.
 
-අනුරාධපුර ශික්ෂණ රෝහලේ අධ්‍යක්ෂ වෛද්‍ය දුලාන් සමරවීර මහතා සඳහන් කළේ අදාළ තරුණයාගේ වම් වෘෂණ කෝෂය සැත්කමකින් ඉවත් කළ බවය.
+The police sergeant and a constable have been arrested by the Divisional Secretariat Investigation Division.
+
+The two suspects are to be produced before the Kebithigollewa Magistrate today.
+
+Director of the Anuradhapura Teaching Hospital Dr. Dulan Samaraweera said that the young scrotum of the young man was removed from a surgery.
 
 ◼️
 
 [Data](articles/875c0030.json)
+
+[Extended Data](ext_articles/875c0030.ext.json)
 
 ---
 
@@ -66,6 +110,8 @@ Upon receiving the call, Crime Scene Investigation Officers from the Sitawaka Po
 
 [Data](articles/016791f8.json)
 
+[Extended Data](ext_articles/016791f8.ext.json)
+
 ---
 
 ### Two cops arrested over assault on youth in Medawachchiya
@@ -73,6 +119,10 @@ Upon receiving the call, Crime Scene Investigation Officers from the Sitawaka Po
 *2024-04-11 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98575/two-cops-arrested-over-assault-on-youth-in-medawachchiya) · `en`
 
 Two police officers attached to Medawachchiya Police Station have been arrested by the Kebithigollewa Crimes Unit over the alleged assault on a youth on April 07 in Medawachchiya.
+
+Accordingly, a Police Sergeant and a Constable attached to Medawachchiya Police have been arrested for allegedly inhumanely assaulting the youth after taking the latter into custody.
+
+They are to be produced before the Kebithigollewa Magistrate’s Court later today (11), police said.
 
 ◼️
 
@@ -2157,59 +2207,5 @@ MP Jayawardene and Mano Ganesan lodged a complaint with the CID a few weeks ago 
 [Data](articles/09d7eb63.json)
 
 [Extended Data](ext_articles/09d7eb63.ext.json)
-
----
-
-### Tourist arrivals cross 50,000 mark in first 9 days of April
-
-*2024-04-11 01:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-arrivals-cross-50-000-mark-in-first-9-days-of-April/108-280603) · `en`
-
-Extending the growth momentum, the international tourist arrivals to Sri Lanka crossed the 50,000 mark during the first nine days of April.
-
-The provisional data from the Sri Lanka Tourism Development Authority showed that for the first nine days of April, the island nation welcomed a total of 50,537. This brings the cumulative arrivals for the January 1 to March 9 period to 686,321.
-
-When compared with the same period, last year, the inflow of international visitors has expanded by above 45 percent in the nine-day period.
-
-The daily average improved to around 5615 in the month, from around 3844 from a year ago. Sri Lanka is targeting between 168,539 and 182,724 tourist arrivals for April, which requires a daily average between 5617 and 6090, to achieve this target. The current arrival trend shows that Sri Lanka could reach the lower bound of the arrival target for the month.
-
-...
-
-[Data](articles/a84c59e1.json)
-
-[Extended Data](ext_articles/a84c59e1.ext.json)
-
----
-
-### Rashid Khan's first defeat for Rajasthan
-
-*2024-04-11 01:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180943) · `ta`
-
-Rashid Khan's action helped Gujarat Titans defeat Rajasthan Royals by 3 wickets in the 24th IPL match. Gujarat won by 7 wickets, scoring 199 runs, and lost by 3 runs in the last over.
-
-🟩
-
-Gujarat Titans won by 3 wickets in the last ball with the help of Rashid Khan's action in the 24th match of the 17th Indian Premier League chapter held at the Jaipur Sawai Mansingh Player on Wednesday (10).
-
-This is the first defeat of Rajasthan Royals in this year's Indian Premier League cricket match.
-
-In the 19th over, Avesh Khan's wids were 20 runs with Nobol to turn the victory of Gujarat Titans.
-
-The Gujarat Titans, who were bowled out for 197 runs by Rajasthan Royals, won by 7 wickets in 20 overs and scored 199 runs.
-
-The Gujarat Titans won 38 runs in 14 balls in the 7th wicket.
-
-Though Thevatiya was run out in the previous ball, Rashid Khan confirmed the victory in the last ball.
-
-Sai Sudarman and team captain Shubman Gill played on behalf of Gujarat Titans and shared 64 runs in 50 balls in the opening wicket.
-
-The Gujarat Titans lost one wicket in 10 overs and scored 77 runs.
-
-According to the Duckworth Louis system, the Gujarat Titans were 7 runs.
-
-...
-
-[Data](articles/eddbf0ab.json)
-
-[Extended Data](ext_articles/eddbf0ab.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 19:03:27**
+As of **2024-04-11 19:18:20**
 
 ## Newspaper Stats
 
-*Scraped **18,494** Articles*
+*Scraped **18,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,71 @@ economynextcom | 1,034
 adalk | 1,549
 tamilmirrorlk | 2,163
 adaderanalk | 2,213
-virakesarilk | 2,755
-dailymirrorlk | 2,820
+virakesarilk | 2,756
+dailymirrorlk | 2,822
 adaderanasinhalalk | 2,995
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,494 (100.0%) of 18,494 articles have been extended.
+18,494 (100.0%) of 18,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### Remainig Aswesuma payments will be made on Monday
+
+*2024-04-11 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Remainig-Aswesuma-payments-will-be-made-on-Monday/108-280625) · `en`
+
+Colombo, April 11 (Daily Mirror) - The remaining 'Aswesuma' welfare benefit payments (Rs. 2,500) of the Rs. 5 billion to 182,000 families will be paid on Monday (15) and will be completed by next Wednesday (17), Finance State Minister Ranjith Siyambalapitiya said.
+
+Addressing the media today, he said the 'Aswesuma' payments for the beneficiaries in Kegalle, Polonnaruwa, Badulla and Nuwara Eliya were stopped due to certain technical issues.
+
+After settling the remaining Aswesuma payments, the government had completed all the payments that had to be made during the Sinhala and Tamil New Year, which will be completed with the maximum management, the State Minister said.
+
+◼️
+
+[Data](articles/77f67fb6.json)
+
+---
+
+### தமிழ், சிங்கள புத்தாண்டை முன்னிட்டு தொடர்ந்து எரிபொருள் விநியோகம்
+
+*2024-04-11 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181001) · `ta`
+
+சிங்கள தமிழ் புத்தாண்டு கொண்டாட்டத்தின் போது சிபெட்கோ எரிபொருள் நிலையங்களினால் தொடர்ந்தும் எரிபொருள் விநியோகம் செய்வதற்கு தேவையான நடவடிக்கைகள் எடுக்கப்பட்டுள்ளதாக இலங்கை பெற்றோலிய கூட்டுத்தாபனம் தெரிவித்துள்ளது.
+
+நாட்டின் எரிபொருள் தேவையை பூர்த்தி செய்வதற்காக, பிரதான முனையங்கள் மூலம் எரிபொருள் இருப்புக்களை இறக்குமதி செய்து, கிடங்குகளில் போதுமான இருப்புக்களை பராமரிக்க நிறுவனம் நடவடிக்கை எடுத்துள்ளதுடன், எரிபொருள் இருப்புக்களை பராமரிப்பது தொடர்பாக அனைத்து எரிபொருள் நிலைய உரிமையாளர்களுக்கும் அறிவித்துள்ளது.
+
+வினியோகஸ்தர்களின் எரிபொருளை வாங்குவதற்கு எளிதாக்கும் வகையில், காசோலை மூலம் பரிவர்த்தனை செய்ய வரும் 15ம் தேதி வரை அவகாசம் வழங்கப்பட்டுள்ளது.
+
+இந்த காலப்பகுதியில், எரிபொருள் விநியோக நடவடிக்கைகளுக்காக போதுமான பெற்றோலிய சேமிப்பை வைத்துக்கொள்ள அந் நிறுவனம் தீர்மானித்துள்ளதாக பெற்றோலிய கூட்டுத்தாபனம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/3a01ce6c.json)
+
+---
+
+### STF arrests three suspects with weapons in Maradana
+
+*2024-04-11 18:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/STF-arrests-three-suspects-with-weapons-in-Maradana/108-280630) · `en`
+
+Colombo, April 11 (Daily Mirror) - In a coordinated operation with Operation 'Yukthiya', the STF arrested three individuals in Maradana with a cache of weapons, including a T-56 firearm and a magazine containing 14 rounds of live ammunition.
+
+Investigations revealed that these weapons were intended for use in conflicts between organized crime groups.
+
+During the raid, the STF also seized sharp weapons, including a sword and a dagger, concealed in a suitcase on the rooftop of a house.
+
+The suspects, aged 18, 34 and 47 and residents of Maradana, were handed over to the Maradana Police for further investigations.
+
+◼️
+
+[Data](articles/3c6173ff.json)
+
+---
 
 ### Three arrested with illegal goods in Katunayake
 
@@ -2243,65 +2295,5 @@ The two sides exchanged views on cooperation at multilateral fora, developments 
 [Data](articles/f7418d3e.json)
 
 [Extended Data](ext_articles/f7418d3e.ext.json)
-
----
-
-### Govt. extends Aswesuma relief benefits to over 180,000 additional families: Semasinghe
-
-*2024-04-11 05:03:28* · [`dailyftlk`](https://www.ft.lk/news/Govt-extends-Aswesuma-relief-benefits-to-over-180-000-additional-families-Semasinghe/56-760577) · `en`
-
-Assures all payments including arrears for newly qualified families to be processed by 18 April
-
-Says Rs. 58.5 b allocated to support 1.85 m total beneficiaries
-
-Claims around 200,000 families failing to open bank accounts or update information despite meeting eligibility criteria
-
-Affirms over 400,000 applications received for second phase of program, 286 already processed
-
-State Minister of Finance Shehan Semasinghe yesterday announced that 182,140 more families have been deemed eligible to receive relief benefits under Aswesuma following a thorough review of appeals and objections.  He assured that all payments, including arrears, related to these families will be processed and accounted for by 18 April.
-
-“With this inclusion, the total number of beneficiaries is set to reach 1,854,000, with the Government allocating Rs. 58.5 billion for this purpose,” he added.
-
-...
-
-[Data](articles/7ffe4e86.json)
-
-[Extended Data](ext_articles/7ffe4e86.ext.json)
-
----
-
-### Avurudu departure for first batch of 125 for construction work in Israel
-
-*2024-04-11 05:01:58* · [`dailyftlk`](https://www.ft.lk/news/Avurudu-departure-for-first-batch-of-125-for-construction-work-in-Israel/56-760576) · `en`
-
-Signifying a fresh start for Israeli jobs in the construction sector, 125 individuals chosen as the inaugural group for construction jobs in Israel received their air tickets yesterday from Labour and Foreign Employment Minister Manusha Nanayakkara.
-
-Sri Lanka Bureau of Foreign Employment General Manager Priyantha Senanayake and Additional General Manager Mangala Randeniya were present at the ceremony. These appointees are set to embark on their journey on 13 April.
-
-During the gathering, the Minister highlighted both the privileges and challenges of being the first group. He stressed their pivotal role in upholding Sri Lanka's reputation through diligent work.
-
-...
-
-[Data](articles/1565ffd1.json)
-
-[Extended Data](ext_articles/1565ffd1.ext.json)
-
----
-
-### Parliament to hold adjournment debate on Easter Sunday attack
-
-*2024-04-11 05:00:29* · [`dailyftlk`](https://www.ft.lk/news/Parliament-to-hold-adjournment-debate-on-Easter-Sunday-attack/56-760575) · `en`
-
-The Committee on Parliamentary Business has announced that the Parliament will convene on 24, 25 and 26 April with a special focus on addressing the tragic events of the Easter Sunday attack.
-
-According to the Acting Secretary General of Parliament Chaminda Kularatne the decision was made during a meeting chaired by Deputy Speaker Ajith Rajapakse. On 24 April from 9:30 a.m. to 10:30 p.m. the Parliament will debate the Code of Criminal Procedure (Amendment) Bill (Second Reading) and regulations under the Poisons, Opium and Dangerous Drugs Ordinance.
-
-Following this session, an Adjournment Debate on the Easter Sunday attack will take place from 10:30 a.m. to 5:30 p.m. The agenda for 25 April includes the approval of two regulations under the Motor Traffics Act, notifications under the Excise Ordinance, an order under the Excise (Special Provisions) Act, and regulations under the Immigrants and Emigrants Act.
-
-...
-
-[Data](articles/b1e77d44.json)
-
-[Extended Data](ext_articles/b1e77d44.ext.json)
 
 ---

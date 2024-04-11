@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 23:18:15**
+As of **2024-04-11 23:33:47**
 
 ## Newspaper Stats
 
-*Scraped **18,518** Articles*
+*Scraped **18,521** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,015
 dailyftlk | 1,018
 economynextcom | 1,035
-adalk | 1,551
+adalk | 1,554
 tamilmirrorlk | 2,163
 adaderanalk | 2,216
 virakesarilk | 2,762
@@ -26,11 +26,47 @@ adaderanasinhalalk | 2,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,518 (100.0%) of 18,518 articles have been extended.
+18,518 (100.0%) of 18,521 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### දැරියක් ධාවනය වන දුම්රියෙන් ඇද වැටෙයි
+
+*2024-04-11 22:49:32* · [`adalk`](https://www.ada.lk/breaking_news/දැරියක්-ධාවනය-වන-දුම්රියෙන්-ඇද-වැටෙයි/11-409064) · `si`
+
+කොළඹ සිට මඩකලපුව බලා ධාවනය වෙමින් තිබූ දුම්රියෙන් දුම්රියෙන් වැලිකන්ද පුල්ලියාරඅඩි ප්‍රදේශයේදී 11 වෙනිදා සවස 3.00ට පමණ අවුරුදු දොළහක දැරියක් කෝච්චියෙන් ඇද වැටීමෙන් බරපතල තුවාල ලබා වැලිකන්ද රෝහලට ඇතුළත් කර ඇති බව වැලිකන්ද පොලිසිය කියයි.
+
+දුම්රිය මැදිරියේදී ආහාර ගැනීමෙන් අනතුරුව ජනේලයෙන් අත පිටට දමා සේදීමට යෑමේදී ඇය දුම්රියෙන් ඇද වැටී ඇති අතර  දැරියගේ හිසට දැඩි ලෙස තුවාල සිදුවීම නිසා ඇය වැලිකන්ද ප්‍රාදේශීය රෝහලෙන් පොළොන්නරුව රෝහලට මාරුකර යැවීමට කටයුතු කර ඇති බවද පොලිසිය සඳහන් කරයි.
+
+කටුපත කැකුණුගොල්ලේ ඥාති නිවසකට ගොස් ආපසු මඩකලපුව බලා යමින් සිටියදී මෙම දැරිය අනතුරට මුහුණපා ඇති බවද පරීක්ෂණ පවත්වන වැලිකන්ද පොලිසිය සඳහන් කරයි.
+
+වැලිකන්ද පොලිස් ස්ථානාධිපති පොලිස් පරීක්ෂක සමන්ත රත්නායක මහතා ඇතුළු පොලිස් නිලධාරි කණ්ඩායමක් මේ පිළිබඳ වැඩිදුර පරීක්ෂණ සිදු කරයි.
+
+◼️
+
+[Data](articles/9b0ca1f0.json)
+
+---
+
+### එල්ටීටීඊය හා ජවිපෙ අතර වෙනසක් නෑ
+
+*2024-04-11 22:45:30* · [`adalk`](https://www.ada.lk/breaking_news/එල්ටීටීඊය-හා-ජවිපෙ-අතර-වෙනසක්-නෑ/11-409063) · `si`
+
+ඉදිරි ජනාධිපතිවරණ ඡන්ද පත්‍රිකාවේ තම නම නොතිබුණත් පොහොට්ටු ලකුණ අනිවාර්යෙන් දැකගත හැකි වන බවත් පොදු ජන පෙරමුණ අනිවාර්යෙන්ම ජනාධිපති අපේක්ෂකයෙකු ඉදිරිපත් කරනු ඇති බවත් එම අපේක්ෂකයන් අතර රනිල් වික්‍රමසිංහ මහතා ද සිටිය හැකි බව පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා පවසයි .
+
+පාර්ලිමේන්තු මන්ත්‍රී සහ පොදු ජන පෙරමුණේ ජාතික සංවිධායක නාමල් රාජපක්ෂ මහතා අද (11) මහනුවරට පැමිණ දළදා සමිඳුන් වැඳ පුදා ගැනීමෙන් අනතුරුව මල්වතු අස්ගිරි මහා නා හිමිවරුන්ගෙන් ආශිර්වාද ලබා ගැනීමෙන් පසු මාධ්‍ය හමුවේ අදහස් දක්වමින් ඒ බව පැවසීය .
+
+එල්ටීටීඊ සංවිධානය සහ ජනතා විමුක්ති පෙරමුණ අතර වැඩි වෙනසක් නොමැති බව අවධාරණය කළ නාමල් රාජපක්ෂ මහතා එම දෙපාර්ශ්වයම මිනිස් ඝාතන සිදු කරමින් රජයේ දේපොළ විනාශ කළ බවද පැවසීය .
+
+ඇතැම් දේශපාලන පක්ෂ ප්‍රබලත්වයට පත්ව තිබෙන්නේ කයිවාරුවෙන් පමණක් බව පැවසූ නාමල් රාජපක්ෂ මහතා අරගල කර ආණ්ඩු පෙරළීමට ගියේ එවැනි කයිවාරුකරුවන් පිරිසක් බවත් එහි අවසාන ප්‍රතිඵලය වූයේ හොරු ඇල්ලීමට පැමිණි අය හොරකම්වල සැකකරුවන් බවට පත්ව බන්ධනාගාරගත වීම පමණක් බවද පැවසීය .
+
+◼️
+
+[Data](articles/4e42749b.json)
+
+---
 
 ### One person was injured in an accident on the Vavuniya A9 road
 
@@ -51,6 +87,24 @@ A motorcycle passenger has been admitted to the Vavuniya Hospital after being in
 [Data](articles/56d5fdcd.json)
 
 [Extended Data](ext_articles/56d5fdcd.ext.json)
+
+---
+
+### කටුනායකදී සී.අයි.ඩී.යේ ඇස් වහන්න බැරි වෙයි
+
+*2024-04-11 22:28:55* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකදී-සී-අයි-ඩී-යේ-ඇස්-වහන්න-බැරි-වෙයි/11-409061) · `si`
+
+ශ්‍රී ලංකාවට නීතිවිරෝධී ලෙස ආනයනය කර, රේගුවට තීරු බදු නොගෙවා කටුනායක  ගුවන් තොටුපොළෙන් පිට කර ගෙන යමින් සිටි රුපියල් කෝටි දෙකකට අධික වටිනාකමකින් යුතු භාණ්ඩ තොගයක් සමග ඒවා මෙරටට රැගෙන ආ ව්‍යාපාරිකයන් තිදෙනෙකු ද කටුනායක ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පිරිසක් විසින් 04/11 දින පස්වරුවේ අත් අඩංගුවට ගෙන තිබේ.‍
+
+මෙම භාණ්ඩ තොගය අතර විදේශීය නිෂ්පාදිත විස්කි, දුම්වැටි, ඇපල් වර්ගයේ ස්මාර්ට් ජංගම දුරකථන, දුරකථන උපාංග, ඇපල් වර්ගයේ ස්මාර්ට් අත් ඔරලෝසු , මැක් බුක්, ඇපල් වර්ගයේ අයි පෑඩ් ඇතුළු ඉලෙක්ට්‍රොනික උපකරණ රාශියක් ද විය .
+
+භාණ්ඩ තොගය මිනුවන්ගොඩ මස්කෙළිය සහ කොළඹ 13 යන ප්‍රදේශ වල පදිංචි ව්‍යාපාරිකයන් තිදෙනකු විසින් මෙරටට රැගෙන විත් තිබුණි .
+
+ගුවන් තොටුපොළෙන් පිටත ප්‍රදේශයේ ආවේක්ෂණ රාජකාරි වල නිරතව සිටි කටුනායක ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පිරිසක් විසින් මෙම අත් අඩංගුවට ගැනීම සිදු කර තිබුණි .
+
+...
+
+[Data](articles/d293ccd6.json)
 
 ---
 
@@ -2317,89 +2371,5 @@ Haniyeh said Hamas would not cave to the pressure leveled by the strike on his f
 [Data](articles/0843fec2.json)
 
 [Extended Data](ext_articles/0843fec2.ext.json)
-
----
-
-### Heavy showers above 100mm expected in parts of the island
-
-*2024-04-11 07:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98565/heavy-showers-above-100mm-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Eastern and Uva provinces and in Hambantota district.
-
-Showers or thundershowers will occur in most places elsewhere over the island after 1.00 p.m.
-
-Heavy showers above 100 mm are likely at some places in Western, Central, Sabaragamuwa and Southern provinces.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-On the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka during 05th to 15th of April in this year.
-
-The nearest areas of Sri Lanka over which the sun is overhead today (11th) are Baththalangunduwa, Medawachchiya, Horowpotana and Trincomalee at about 12:11 noon.
-
-◼️
-
-[Data](articles/ed4f925a.json)
-
-[Extended Data](ext_articles/ed4f925a.ext.json)
-
----
-
-### Most of the foreigners to visit Sri Lanka
-
-*2024-04-11 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195529) · `si`
-
-This year, Sri Lanka's national parks saw over 2 million foreign tourists, with Yala National Park alone attracting over 100,000 visitors. The total revenue from these visitors exceeded Rs. 200 billion. The Sri Lanka Tourism Development Authority highlighted that the majority of tourists were Indian nationals, totaling 106,004.
-
-🟩
-
-The number of foreign tourists who had come to visit the National Parks of the country have increased to the country's national parks this year.
-
-The Department of Wildlife Conservation stated that over January to March, more than two million foreign tourists have visited the national parks.
-
-Over 100,000 foreign tourists have visited the Yala National Park.
-
-In addition, foreign tourists have arrived at the Wilpattu, Bundala, Udawalawa, Minneriya and Kwudulla such as Wilpoththala, Udawalawa, Minneriya and Kwadulla.
-
-Over 200 million foreign tourists visited the national parks during the past three months has earned over Rs. 200 billion.
-
-It is reported that the generation earned by the National Parks of National National Parks will increase the year compared to last year.
-
-In the meantime, 686,321 foreign tourists arrived in the island during the year.
-
-The Sri Lanka Tourism Development Authority stated that most of them are Indian nationals and that number is 106,004.
-
-◼️
-
-[Data](articles/6cb1d11e.json)
-
-[Extended Data](ext_articles/6cb1d11e.ext.json)
-
----
-
-### Man arrested with heroin
-
-*2024-04-11 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195528) · `si`
-
-A 25-year-old from Wellampitiya, a disciple of a Dubai criminal leader, was arrested by Maligawatta Police for transporting heroin worth Rs. 750,000. He's accused of distributing drugs to schools.
-
-🟩
-
-A man was arrested by the Maligawatta Police, who was transporting a stock of heroin worth nearly Rs.
-
-The suspect had been arrested on a tip off received by the Maligawatta police officers to the Grandpass.
-
-The suspect was taken into custody by the suspect and earned 105 grams and Rs. 750,000 earned.
-
-The suspect is a 25 year old resident of Wellampitiya and has been revealed that a disciple of organized criminal leader in Dubai.
-
-The suspect has taken into custody to each area and transfer the drugs to the schools and transfer the sale.
-
-The suspect is to be produced before the Maligakanda No. 2 today (11).
-
-◼️
-
-[Data](articles/222641b1.json)
-
-[Extended Data](ext_articles/222641b1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 22:03:38**
+As of **2024-04-11 22:18:20**
 
 ## Newspaper Stats
 
-*Scraped **18,510** Articles*
+*Scraped **18,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,035
 adalk | 1,549
 tamilmirrorlk | 2,163
 adaderanalk | 2,216
-virakesarilk | 2,758
+virakesarilk | 2,760
 dailymirrorlk | 2,826
 adaderanasinhalalk | 2,997
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,997
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,505 (100.0%) of 18,510 articles have been extended.
+18,510 (100.0%) of 18,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### தமிழ்நாடு சேலத்தில் ஆரம்பமாகும் மாபெரும் தமிழ் இலக்கிய கலை விழாவில் பிரதம அதிதியாக சதீஷ்குமார் சிவலிங்கம்
+
+*2024-04-11 21:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181004) · `ta`
+
+தமிழ்நாடு சேலத்தில் வெள்ளிக்கிழமை (12) ஆரம்பமாகும் மாபெரும் தமிழ் இலக்கிய கலை விழாவில் இலங்கையிலிருந்து சென்றுள்ள  மலையக மக்கள் முன்னணியின் சிரேஷ்ட உபதலைவரும் மும் மொழிகளின் எழுத்தாளருமான  சதீஷ்குமார் சிவலிங்கம் பிரதம அதிதியாகக் கலந்துக்கொள்கிறார்.
+
+இலக்கிய ஆளுமைகளான மாவட்ட நீதிபதி அ. அகமது ஜியாவுதீன் (தமிழ்நாடு சட்ட ஆட்சிமொழி ஆணைய இயக்குனர்), இங்கிலாந்து செம்ஸ்போர்டு கவுன்சிலர் வழக்கறிஞர்  பாப்பாவெற்றி, புலவர் சண்முகவடிவேல், கலைமாமணி லேனா தமிழ்வாணன், திருப்புகழ் அரைமணி சொ.சொ.மீனாட்சிசுந்தர், கவிக்கோ நெல்லை ஜெயந்தா, அயலக தமிழர் தின குழு இயக்குனர் பேராசிரியர் குறிஞ்சிவேந்தன் இலக்கிய சொற்பொழிவாளர் முனைவர் எஸ்.டி கலையமுதன், மலேசியா கலைஞர் முனைவர் ராகவி பவனேஸ்வரி, சிங்கப்பூர் தொழிலதிபர் திரைப்பட இயக்குனர் பெ.அருமைசந்திரன், நந்தவனம் சந்திரசேகரன், கவிஞர் மாதுகண்ணன், கவிஞர் இராஜேந்திர சோழன் உள்ளிட்ட பேராசிரியர்கள் கவிஞர்கள்  எழுத்தாளர்கள் கலைஞர்கள் ஆன்மீகப் சொற்பொழிவாளர்கள் பலரும் சிறப்பு விருந்தினர்களாக கலந்து கொள்கின்றனர்.
+
+...
+
+[Data](articles/daa16579.json)
+
+---
 
 ### CPC assures uninterrupted fuel supply during Avurudu season
 
@@ -48,6 +62,22 @@ During this period, the Ceylon Petroleum Storage Terminals Ltd. will be dispatch
 
 [Data](articles/98dd8715.json)
 
+[Extended Data](ext_articles/98dd8715.ext.json)
+
+---
+
+### அமீரின் தேர்தல் கால முழக்கமாக ஒலிக்கும் 'சாயம் போகுதே சனநாயகம்... அடிச்சு கிழிக்குதே பணநாயகம்...'
+
+*2024-04-11 21:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/181003) · `ta`
+
+இந்திய மக்களவைத் தேர்தல் கால கட்டமான இந்த தருணத்தில் போதை பொருள் கடத்தல் வழக்கில் சிக்கி இருக்கும் இயக்குநரும், நடிகருமான அமீர் நடிப்பில் தயாராகி வரும் 'உயிர் தமிழுக்கு' எனும் திரைப்படத்தில் வாக்காளர்களுக்கு விழிப்புணர்வை ஏற்படுத்தும் வகையில் இடம்பெற்ற 'ஓட்டு கேட்டு..' எனத் தொடங்கும் பாடலும், பாடலுக்கான காணொளியும் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் ஆதம் பாவா இயக்கத்தில் உருவாகி இருக்கும் 'உயிர் தமிழுக்கு' எனும் திரைப்படத்தில் அமீர், சாந்தினி, ஆனந்தராஜ், இமான் அண்ணாச்சி, ராஜசிம்மன், சரவண சக்தி, மகாநதி சங்கர், சுப்ரமணியம் சிவா, ராஜ் கபூர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.  'மெலடி கிங்' வித்யாசாகர் இசையமைத்திருக்கும் இந்த திரைப்படத்தை மூன் பிக்சர்ஸ் பட நிறுவனம் சார்பில் ஆதம் பாவா தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/b443f7f7.json)
+
 ---
 
 ### Will import eggs from India again if local prices increase: Minister
@@ -64,6 +94,8 @@ It was reported that the higher demand for eggs has caused the price increase in
 
 [Data](articles/0fafb505.json)
 
+[Extended Data](ext_articles/0fafb505.ext.json)
+
 ---
 
 ### Malagamuwa secures 2nd place in European GT-4 Championship
@@ -79,6 +111,8 @@ Reflecting on his achievement, Malagamuwa expressed gratitude to his supporters 
 ◼️
 
 [Data](articles/8c912a36.json)
+
+[Extended Data](ext_articles/8c912a36.ext.json)
 
 ---
 
@@ -742,6 +776,8 @@ Sri Lanka’s move to set up such institute aiming to strengthen the professiona
 
 [Data](articles/f53fb07b.json)
 
+[Extended Data](ext_articles/f53fb07b.ext.json)
+
 ---
 
 ### To pay attention to the impact on the poor - Asian Development Bank
@@ -1131,6 +1167,8 @@ ADB’s growth forecast hinges on the continuation of reforms and better consume
 ...
 
 [Data](articles/085aa757.json)
+
+[Extended Data](ext_articles/085aa757.ext.json)
 
 ---
 
@@ -2329,37 +2367,5 @@ The official said that they have received intelligence on organised vendors who 
 [Data](articles/0e220c12.json)
 
 [Extended Data](ext_articles/0e220c12.ext.json)
-
----
-
-### With A View To A Kill (Master Spy-James Bond)!
-
-*2024-04-11 06:05:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/with-a-view-to-a-kill-master-spy-james-bond/) · `en`
-
-“I know who did it” ~ Maithripala Sirisena on the Easter Bombing.
-
-“We have met the enemy, and he is us”. Even as long ago as the Greek and Roman eras, playwrights have been engaging with the idea of tragicomedy, the dramatic coexistence of the two opposite elements in the human condition. “All the world’s a stage, and all the men and women merely players” suggested the Bard; characters are inter-changeable, the dramatists introduced men as gods, slaves as masters, a trivializing portrait exemplifying the inherence of the two elements in the one moment, tragedy and comedy. The tragicomedy exaggerates and glorifies the trivial, the banal is presented as climacteric, a burlesque denying authenticity.
-
-...
-
-[Data](articles/c1b51155.json)
-
-[Extended Data](ext_articles/c1b51155.ext.json)
-
----
-
-### SriLankan Airlines elevates Ground Handling with State-of-the-Art equipment upgrade
-
-*2024-04-11 05:47:00* · [`islandlk`](http://island.lk/srilankan-airlines-elevates-ground-handling-with-state-of-the-art-equipment-upgrade/) · `en`
-
-SriLankan Airlines, the exclusive ground operator at Bandaranaike International Airport (BIA), has initiated a phased upgrade of airport ground support equipment to accommodate the rising influx of flights and travellers transiting through the airport. Recently, the airline acquired three state-of-the-art passenger apron coaches, ensuring optimal comfort for passengers during transfers between the terminal and remote stands.
-
-With airport traffic steadily increasing and nearing pre-pandemic levels, acquiring modern ground support equipment has become an urgent priority for SriLankan Airlines. This investment aims to ensure a seamless end-to-end travel experience for customers.
-
-...
-
-[Data](articles/40bafde8.json)
-
-[Extended Data](ext_articles/40bafde8.ext.json)
 
 ---

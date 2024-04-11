@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 13:18:02**
+As of **2024-04-11 13:34:14**
 
 ## Newspaper Stats
 
-*Scraped **18,453** Articles*
+*Scraped **18,454** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 163
 bbccomsinhala | 193
-dbsjeyarajcom | 213
+dbsjeyarajcom | 214
 newsfirstlk | 363
 islandlk | 1,013
 dailyftlk | 1,018
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,987
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,452 (100.0%) of 18,453 articles have been extended.
+18,453 (100.0%) of 18,454 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,21 +52,27 @@ The project is being implemented by the International Organization for Migration
 
 ---
 
-### விலை தள்ளுபடி செய்யும் பொருட்கள் கொள்வனவின்போது அவதானம் தேவை!
+### Care is needed during the purchase of prices!
 
 *2024-04-11 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/180966) · `ta`
 
-பண்டிகைக் காலங்களில் சந்தையில் பொதுவாகக் காணப்படும் புத்தாண்டு தள்ளுபடிகள் மூலம் பொருட்களை கொள்வனவு செய்யும் போது மிகவும் அவதானமாக இருக்குமாறு நுகர்வோர் விவகார அதிகார சபை தெரிவித்துள்ளது.
+The Consumer Affairs Authority (CAA) advises consumers to be cautious when buying discounted goods during the New Year's festivals, especially clothing and home appliances. Director Sangjaya Weerasinghe warns about the quality of these discounted items and encourages filing complaints with evidence if issues arise.
 
-புத்தாண்டு பண்டிகை காலங்களில் ஆடைகள் மற்றும் வீட்டு உபயோகப் பொருட்களை கொள்வனவு செய்வது தொடர்பில்  நுகர்வோர்  அதிக ஆர்வம் காட்டுவதனால்  தள்ளுபடி செய்யப்பட்ட பொருட்களின்  கொள்வனவின்  போது அதிக கவனம் செலுத்துமாறு நுகர்வோர் அதிகாரசபையின் விசேட சோதனை மற்றும் விசாரணைகளின் பணிப்பாளர் சங்ஜய வீரசிங்க தெரிவித்தார்.
+🟩
 
-இவ்வாறான பண்டிகைக் காலங்களில் விலை  தள்ளுபடி வழங்கப்பட்ட பல ஆடைகள்தொடர்பில்  சிக்கல் ஏற்பட்டுள்ளதாகத் தெரிவித்த அவர், விலையில் உள்ள வேறுபாட்டைக் கருத்தில் கொண்டு, தள்ளுபடி செய்யப்பட்ட பொருட்களின் தரம் குறித்தும் அவதானம் செலுத்துமாறும் குறிப்பிட்டுள்ளார்.
+The Consumer Affairs Authority (CAA) has stated that it will be very careful when buying goods with New Year discounts in the market during the festive season.
 
-இவ்வாறு கொள்வனவு செய்யப்படும் பொருட்களுக்கு  பிரச்சினைகள் ஏற்பட்டால், சான்றுகளுடன்  நுகர்வோர் விவகார அதிகாரசபைக்கு எழுத்துப்பூர்வமாக முறைப்பாடு செய்யுமாறு தெரிவித்துள்ளார்.
+Sangjaya Weerasinghe, Director of the Consumer Authority, said that the consumer is more interested in purchasing clothing and home appliances during the New Year's festivals.
+
+He said that during these festivals, many of the costs of prices were dismissed, he said, considering the difference in prices and the quality of the dismissed goods.
+
+In case of problems with the purchased items, he said that the Consumer Affairs Authority should lodge a complaint with evidence.
 
 ◼️
 
 [Data](articles/7e868706.json)
+
+[Extended Data](ext_articles/7e868706.ext.json)
 
 ---
 
@@ -1518,6 +1524,20 @@ One government matter done with speed is withdrawing printed gazettes, withdrawi
 
 ---
 
+### The International Court of Justice has no jurisdiction over war crimes other than genocide, which encourages complainants to allege genocide even when the facts do not support it. That cheapens the taboo against genocide and discredits the ICJ- “The Economist”
+
+*2024-04-11 03:38:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83896) · `en`
+
+The killing started on April 7th 1994, as members of the presidential guard began assassinating opposition leaders and moderates in the government. Within hours the genocide of Rwanda’s minority Tutsis was under way. It was among the fastest mass killings in history: 100 days later three-quarters of Rwanda’s Tutsis, about 500,000 people, were dead.
+
+Most were killed not by the army but by ordinary Hutus, the majority group. “Neighbours hacked neighbours to death,” wrote Philip Gourevitch, an American journalist. “Doctors killed their patients, and schoolteachers killed their pupils.”
+
+...
+
+[Data](articles/58f70003.json)
+
+---
+
 ### LOLC clinches seventh successive People’s Award
 
 *2024-04-11 02:48:00* · [`islandlk`](http://island.lk/lolc-clinches-seventh-successive-peoples-award/) · `en`
@@ -2209,25 +2229,5 @@ Dr. Thusitha Sudamakanda Magnettanda Magistratanda Magnettanda Magnett Prabanaka
 [Data](articles/002888c3.json)
 
 [Extended Data](ext_articles/002888c3.ext.json)
-
----
-
-### Heat advisory raised to caution level in 15 districts
-
-*2024-04-10 20:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heat-advisory-raised-to-caution-level-in-15-districts/108-280572) · `en`
-
-Colombo, April 10 (Daily Mirror) - As temperatures soar in parts of Sri Lanka, authorities warn of an impending rise in the heat index, particularly in regions spanning the Northern, Western, Sabaragamuwa and North-Western provinces and the Anuradhapura, Galle and Matara districts.
-
-The heat index, a measure of how hot it feels to the human body when relative humidity is factored in with the actual air temperature, is anticipated to escalate to levels classified as 'Caution' levels.
-
-According to the heat advisory issued, the 'Caution Level' was expected only in 15 districts, which included the Jaffna, Kilinochchi, Mullaitivu, Mannar, Vavunia, Anuradhapura, Puttalam, Kurunegala, Gampaha, Kegalle, Colombo, Kalutara, Ratnapura, Galle and Matara districts.
-
-This poses potential health risks, especially to vulnerable populations such as the elderly, children and individuals with pre-existing health conditions.
-
-...
-
-[Data](articles/a657f88e.json)
-
-[Extended Data](ext_articles/a657f88e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 10:51:44**
+As of **2024-04-11 11:03:16**
 
 ## Newspaper Stats
 
-*Scraped **18,432** Articles*
+*Scraped **18,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,52 +19,100 @@ adalk | 1,548
 tamilmirrorlk | 2,156
 adaderanalk | 2,204
 virakesarilk | 2,742
-dailymirrorlk | 2,810
-adaderanasinhalalk | 2,983
+dailymirrorlk | 2,811
+adaderanasinhalalk | 2,984
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,428 (100.0%) of 18,432 articles have been extended.
+18,432 (100.0%) of 18,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### இணைய இணைப்பின் மூலமே கல்வி அமைச்சின் இணையத்தளம் மீது சைபர் தாக்குதல் : விசாரணை அறிக்கையை கையளிக்க நடவடிக்கை
+### කොළඹ මගී පෝලිම් දිගු වෙයි
+
+*2024-04-11 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195537) · `si`
+
+අලුත් අවුරුදු සමය වෙනුවෙන් ගම්බිම් බලා යන ජනතාවට අවශ්‍ය පහසුකම් සැපයීම සඳහා විශේෂ පොදු ප්‍රවාහන සේවා ඊයේ (10) සිට ක්‍රියාත්මක වුණි.
+
+නමුත් අද උදෑසන වන විටත් ප්‍රවාහන පහසුකම් නිසි ලෙස නොලැබීමෙන් ජනතාව දැඩි අසීරුතාවයකට මුහුණ දී සිටී.
+
+ජාතික ගමනාගමන මණ්ඩලය සඳහන් කළේ, ඒ සඳහා ලංකා ගමනාගමන මණ්ඩලය බස්රථ 1,400ක් යොදවා ඇති අතර අවශ්‍යතාව මත තවත් බස්රථ එක් කීරීමට කටයුතු කරන බවය.
+
+කෙසේවෙතත් ඊයේ රාත්‍රියේ පිටකොටුව බැස්ටියන් මාවත හා මධ්‍යම බස් නැවතුම්පොළ වෙත පැමිණි මගීන්ට ප්‍රමාණවත් තරම් දුරගමන් සේවා බස් රථ නොමැති වීම හේතුවෙන් අපහසුතාවට පත්වීමට සිදුවුණි.
+
+මේ හේතුවෙන් ජනතාවට දිගු පෝලිම්වල රැඳී සිටීමට සිදු වූ අතර බස් නැවතුම්පොළේ විශාල තදබදයක්ද නිර්මාණය වී තිබිණි.
+
+මේ අතර අවශ්‍ය තරම් අධිවේගී මාර්ග බස්රථ ධාවනයට එක්කර තිබුණද මාකුඹුර බහුවිධ ප්‍රවාහන මධ්‍යස්ථානයේ අද උදෑසන කාලයේ විශාල පිරිසක් දක්නට ලැබිණි.
+
+කොටුව දුම්රිය ස්ථානයටද අද පෙරවරුවේ විශාල පිරිසක් පැමිණ තිබුණේ අවුරුද්දට ගම්බිම් බලා පිටත්ව යෑම සඳහාය.
+
+◼️
+
+[Data](articles/47e48815.json)
+
+---
+
+### Cyber Attack on the Ministry of Education through Internet connection: Action to hand over the investigation report
 
 *2024-04-11 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180951) · `ta`
 
-கல்வி அமைச்சின் உத்தியோகபூர்வ இணையத்தளம் மீது மேற்கொள்ளப்பட்ட சைபர் தாக்குதல் தொடர்பான விசாரணை அறிக்கை இன்று வியாழக்கிழமை (11) கல்வி அமைச்சிடம் கையளிக்கப்படும் என இலங்கை கணினி அவசர நடவடிக்கை பிரிவு தெரிவித்துள்ளது.
+The Sri Lanka Computer Emergency Division will hand over a report on a cyber attack on the Ministry of Education's website to the Ministry on Thursday. The report includes details on future website security and recommendations to prevent future attacks.
 
-இணையத்தளத்தின் எதிர்கால பாதுகாப்பு தொடர்பான அனைத்து விபரங்களும் அறிக்கையில் உள்ளடங்கியுள்ளதாக இலங்கை கணினி அவசர நடவடிக்கை பிரிவின் சிரேஷ்ட தகவல் பாதுகாப்பு பொறியியலாளர் சாருக தமுனுபொல தெரிவித்துள்ளார்.
+🟩
 
-இலங்கையில் உள்ள இணைய இணைப்பின் மூலமே  கல்வி அமைச்சின் உத்தியோகபூர்வ இணையத்தளத்தின் மீதான சைபர் தாக்குதல் மேற்கொள்ளப்பட்டுள்ளது.
+The Sri Lanka Computer Emergency Division said that a report on the cyber attack on the official website of the Ministry of Education will be handed over to the Ministry of Education on Thursday (11).
 
-மேலும், இணையத்தளத்தின் காணப்படும் சில பலவீனம் காரணமாக சைபர் தாக்குதல் நடந்துள்ளதாகவும் எதிர்காலத்தில் இதுபோன்ற சம்பவங்கள் நடைபெறாமல் தடுப்பதற்கான பரிந்துரைகள் குறித்த அறிக்கையில் உள்ளதாகவும் அவர்  குறிப்பிட்டார்.
+Senior Information Safety Engineer of the Sri Lanka Computer Emergency Act, Saruka Tamunubola, said that all the details on the future security of the website are included in the report.
+
+The cyber attack on the official website of the Ministry of Education has been carried out through the Internet connection in Sri Lanka.
+
+He also said that a cyber attack was due to some weakness of the website and that there were suggestions on recommendations to prevent such incidents in the future.
 
 ◼️
 
 [Data](articles/ded26e97.json)
 
+[Extended Data](ext_articles/ded26e97.ext.json)
+
 ---
 
-### நுங்கு வெட்ட பனையில் ஏறிய 3 பிள்ளைகளின் தந்தை கீழே விழுந்து உயிரிழப்பு - யாழில் சம்பவம்!
+### Father of 3 children fell down
 
 *2024-04-11 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180955) · `ta`
 
-வெளிநாட்டில் இருந்து வந்தவர்களுக்கு நுங்கு வெட்ட பனை மரத்தில் ஏறி தவறி வீழ்ந்ததில் மூன்று பிள்ளைகளின் இளம் தந்தை பரிதாபமாக உயிரிழந்த சம்பவம் ஒன்று செவ்வாய்க்கிழமை (9) கைதடி பகுதியில் இடம் இடம்பெற்றுள்ளது.
+A young father of three, Selvarasa Ketheeswaran, tragically died in Kaithadi after a palm tree fell on him. The incident occurred on his way to Chavakachcheri Hospital.
 
-வெளிநாட்டில் இருந்து வந்தவர்களுக்கு நுங்கு வெட்டிக்கொடுக்க பனை மரத்தில் ஏறிய போது தவறி வீழ்ந்து படுகாயமடைந்த நிலையில் சாவகச்சேரி வைத்திய சாலைக்கு கொண்டு செல்லும் வழியில் குறித்த நபர் உயிரிழந்துள்ளார்.
+🟩
 
-சம்பவத்தில் கைதடி பகுதியைச் சேர்ந்த மூன்று பிள்ளைகளின் தந்தையான செல்வராசா கேதீஸ்வரன் வயது 41 என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+A tragic death of a young father of three children has been tragically killed in Kaithadi area on Tuesday.
 
-பிரேத பரிசோதனையின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டுள்ளது. மேலதிக விசாரணைகளை சாவகச்சேரி பொலிஸார் மேற்கொண்டு வருகின்றனர்
+The man who died on the way to the Chavakachcheri Hospital has died as the palm tree fell into the palm tree to cut down the foam.
+
+Selvarasa Ketheeswaran, the father of three children from Kaithadi area, died in the incident.
+
+The body has been handed over to relatives after the autopsy. Chavakachcheri police are conducting further investigations
 
 ◼️
 
 [Data](articles/011b9eac.json)
+
+[Extended Data](ext_articles/011b9eac.ext.json)
+
+---
+
+### UNP Deputy meets Chief Prelate...
+
+*2024-04-11 10:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/UNP-Deputy-meets-Chief-Prelate/110-280620) · `en`
+
+UNP Deputy Leader and Senior Presidential Advisor Ruwan Wijewardene met the Chief Prelate (Mahanayake) of the Kotte Sri Kalayani Samagri Dharma Maha Sangha Sabha of the Siyam Maha Nikaya, Ven. Dr. Ittapana Dhammalankara Anu Nayake Maha Thera today. They discussed the current political situation and the status of the economy. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/0d94704c.json)
 
 ---
 
@@ -81,6 +129,8 @@ He told the media that he was driving his mini- lorry after repairs with another
 ...
 
 [Data](articles/5d965e80.json)
+
+[Extended Data](ext_articles/5d965e80.ext.json)
 
 ---
 
@@ -1820,19 +1870,27 @@ Asked whether the announcement would violate the Olympic spirit, Coe was clear. 
 
 ---
 
-### ශ්‍රී ලංකන් වෙත නවීනතම බස් රථ තුනක්
+### Three new buses to SriLankan
 
 *2024-04-10 20:02:17* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකන්-වෙත-නවීනතම-බස්-රථ-තුනක්/11-409057) · `si`
 
-කටුනායක ගුවන් තොටුපොළේ සිට ගුවන් යානය වෙතත් , ගුවන් යානයේ සිට ගුවන් තොටුපොළ වෙතත් ගුවන් මගීන් ප්‍රවාහනය කිරීම සදහා නවීනතම බස් රථ තුනක් ,  ශ්‍රී ලන්කන් ගුවන් සේවයේ භූමි පාලන අංශයට පවරා දීමේ උත්සවයක් ඊයේ(10දා) ශ්‍රී ලන්කන් ගුවන් යානා පරිශ්‍රයේ දී පැවැත්විණ .
+Katunayake airport added three new buses yesterday, produced by China International Murin. These 100m x 2.7m buses, equipped with air conditioning, accommodate 77 passengers, and include facilities for disabled passengers.
 
-වසර 05 ක පමණ කාලයක සිට දැඩි අවශ්‍යතාවක් බවට පත්ව තිබූ බස් රථ ඊයේ(10දා) සිට කටුනායක ගුවන් තොටුපොළ තුළ සේවයට එක් කර තිබේ .
+🟩
 
-කටුනායක ගුවන් තොටුපොළ අවශ්‍යතාවලටම පමණක් ගැලපෙන පරිදි එහි ගුවන් මගී සේවා කවුළු සහ ආගමන විගමන කවුළුවලට 100% ක් ම ගැලපෙන ආකාරයට මීටර් 14 ක් දිගකින් සහ මීටර් 2.7 ක පළලකින් යුතු මෙම බස් රථ  චීනයේ චයිනා ඉන්ටර්නැෂනල් මරීන් කන්ටේනර් සමාගම විසින් නිෂ්පාදනය කර තිබේ .
+The aircraft from Katunayake airplane, three latest buses to transport passengers from the plane to the airport, the Sri Lankan aircraft premises was held yesterday (10).
 
-...
+The buses have been a major need from a period of five years have been added to the Katunayake airport yesterday (10).
+
+The buses of China, with 100 meters long and 2.7 meters width in the operators of the Katunayaka airport, have been produced by China China International Murin.
+
+There is also a separate angel for the air conditioner's air conditioning in 4,500 engineering. The buses have a facilities for 77 passengers have access to the driver and passengers traveling towards communication.In addition, wheelchairs they travel for disabled passengers have also been inserted into the bus.
+
+◼️
 
 [Data](articles/b1d22168.json)
+
+[Extended Data](ext_articles/b1d22168.ext.json)
 
 ---
 
@@ -2147,45 +2205,5 @@ Meanwhile, Home Affairs State Minister Ashoka Priyantha earlier said several req
 [Data](articles/209bffa3.json)
 
 [Extended Data](ext_articles/209bffa3.ext.json)
-
----
-
-### 15 April declared a public holiday
-
-*2024-04-10 18:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98560/15-april-declared-a-public-holiday-) · `en`
-
-The government has declared 15 April (Monday) as a public holiday.
-
-The decision was taken as the ‘Oil Anointing Ceremony’ of the Sinhala and Tamil New Year festival falls on 15 April.
-
-This was communicated by the Secretary of the Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government, Pradeep Yasaratne.
-
-◼️
-
-[Data](articles/c6f788a8.json)
-
-[Extended Data](ext_articles/c6f788a8.ext.json)
-
----
-
-### April 15 A Holiday
-
-*2024-04-10 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195518) · `si`
-
-April 15, 2024, is declared a public holiday, marking the National Balawele, a New Year's ritual.
-
-🟩
-
-It is informed that April 15 has been made a public holiday.
-
-He has informed the Ministry of Public Administration, Provincial Councils, Provincial Councils and Local Government Pradeep Yasaratne.
-
-The ritual of the National Balawele, a New Year's Ritual, is on April 15, 2024.
-
-◼️
-
-[Data](articles/6ac675dd.json)
-
-[Extended Data](ext_articles/6ac675dd.ext.json)
 
 ---

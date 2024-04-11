@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 22:18:20**
+As of **2024-04-11 22:33:55**
 
 ## Newspaper Stats
 
-*Scraped **18,512** Articles*
+*Scraped **18,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,83 @@ tamilmirrorlk | 2,163
 adaderanalk | 2,216
 virakesarilk | 2,760
 dailymirrorlk | 2,826
-adaderanasinhalalk | 2,997
+adaderanasinhalalk | 2,999
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,510 (100.0%) of 18,512 articles have been extended.
+18,512 (100.0%) of 18,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### தமிழ்நாடு சேலத்தில் ஆரம்பமாகும் மாபெரும் தமிழ் இலக்கிய கலை விழாவில் பிரதம அதிதியாக சதீஷ்குமார் சிவலிங்கம்
+### මඩකලපුව ආසන්නයේ ගිලී ගිය බ්‍රිතාන්‍ය යුද නැව ගැන අලුත්ම අනාවරණයක්
 
-*2024-04-11 21:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181004) · `ta`
+*2024-04-11 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195553) · `si`
 
-தமிழ்நாடு சேலத்தில் வெள்ளிக்கிழமை (12) ஆரம்பமாகும் மாபெரும் தமிழ் இலக்கிய கலை விழாவில் இலங்கையிலிருந்து சென்றுள்ள  மலையக மக்கள் முன்னணியின் சிரேஷ்ட உபதலைவரும் மும் மொழிகளின் எழுத்தாளருமான  சதீஷ்குமார் சிவலிங்கம் பிரதம அதிதியாகக் கலந்துக்கொள்கிறார்.
+දෙවන ලෝක යුද සමයේදී ජපානය බෝම්බ හෙළා විනාශ කළ යුද ගුවන්යානා රැගෙන යා හැකි ලොව පළමු නෞකාව වූ එච්. එම්. එස්. හර්මිස් නෞකාව විනාශවී 2024 වර්ෂයට වසර 82කි.
 
-இலக்கிய ஆளுமைகளான மாவட்ட நீதிபதி அ. அகமது ஜியாவுதீன் (தமிழ்நாடு சட்ட ஆட்சிமொழி ஆணைய இயக்குனர்), இங்கிலாந்து செம்ஸ்போர்டு கவுன்சிலர் வழக்கறிஞர்  பாப்பாவெற்றி, புலவர் சண்முகவடிவேல், கலைமாமணி லேனா தமிழ்வாணன், திருப்புகழ் அரைமணி சொ.சொ.மீனாட்சிசுந்தர், கவிக்கோ நெல்லை ஜெயந்தா, அயலக தமிழர் தின குழு இயக்குனர் பேராசிரியர் குறிஞ்சிவேந்தன் இலக்கிய சொற்பொழிவாளர் முனைவர் எஸ்.டி கலையமுதன், மலேசியா கலைஞர் முனைவர் ராகவி பவனேஸ்வரி, சிங்கப்பூர் தொழிலதிபர் திரைப்பட இயக்குனர் பெ.அருமைசந்திரன், நந்தவனம் சந்திரசேகரன், கவிஞர் மாதுகண்ணன், கவிஞர் இராஜேந்திர சோழன் உள்ளிட்ட பேராசிரியர்கள் கவிஞர்கள்  எழுத்தாளர்கள் கலைஞர்கள் ஆன்மீகப் சொற்பொழிவாளர்கள் பலரும் சிறப்பு விருந்தினர்களாக கலந்து கொள்கின்றனர்.
+ලොව පළමු යුද ගුවන්යානා රැගෙන යා හැකි එච්.එම්.එස්. හර්මිස් නෞකාවේ නිෂ්පාදන කටයුතු අරඹන්නේ පළමු ලෝක යුද්ධය ඉලක්ක කරගනිමිනි.
+
+බ්‍රිතාන්‍ය රාජකීය නාවික හමුදාවේ නිෂ්පාදනයක් වූ මෙහි වැඩ පළමු ලෝක යුද්ධය අවසන් වන තෙක්ම නිමකිරීමට නොහැකි විය.
+
+දිගින් අඩි 600කට ආසන්න වූ මෙම නෞකාවේ එකවර ගුවන්යානා 20ක් ප්‍රවාහනය කිරීමට තරම් අශ්වබල 40,000ක බලයකින් සමන්විත විය.
+
+1939 වසරේ දෙවන ලෝක යුද සමය ඇරඹීමත් සමග මෙම නෞකාව රාජකීය හමුදාවේ නැගෙනහිර යුද ඛණ්ඩය සඳහා අනුයුක්ත වූ අතර 1941 සහ 1942 වසර කාලය තුළ ශ්‍රී ලංකාවේ ත්‍රීකුණාමලය වරාය ආසන්නයේ නැංගුරම් ලා තිබුණි.
+
+කෙසේවෙතත් ශ්‍රී ලංකාව දෙවැනි ලෝක යුද්ධයේ පාර්ශ්වකරුවෙකු නොවූවත් එවක මෙරට පාලනය ගෙන ගිය බ්‍රිතාන්‍යයන් සතුරු පර්ශ්වීය සාමාජිකයන් වූ නිසා ජපානයේ ගුවන් ප්‍රහාරයකට මුහුණ දීමට 1942 වසරේ අප්‍රේල් 9 වනදා සිදුවුණි.
+
+ඒ වන විට එච්.එම්.එස්. හර්මිස් නෞකාව මැඩගස්කරය ආක්‍රමණය කිරීමට සූදානම්ව මඩකළපුව මුහුදු සීමාවේ නැංගුරම්ලා තිබුණි.
 
 ...
 
+[Data](articles/e067a782.json)
+
+---
+
+### ලෝකෙම හෙල්ලූ බිලියනපතිනියට මරණ දඬුවම
+
+*2024-04-11 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195552) · `si`
+
+වියට්නාමයේ විශාලතම බැංකුවක් ලෙස සැලකෙන සයිගොන් කොමර්ෂල් බැංකුවෙන් මුදල් වංචා කිරීමේ චෝදනාවට වරදකාරිය වූ Truong My Lan ට මරණ දඬුවම නියම කර තිබේ.
+
+මෙම නඩු විභාගය සැලකුණේ වියට්නාමයේ වැඩිම අවධානයක් දිනාගත් නඩුවක් ලෙසට ය.
+
+ඒ මෙතෙක් ලොව සිදුකළ විශාලතම බැංකු වංචාව හා සම්බන්ධ නඩු විභාගයකි.
+
+ධනවත් කාන්තාවක් වන 67 හැවිරිදි Truong My Lan දේපොළ සංවර්ධන ව්‍යාපාර හිමි කාන්තාවකි.
+
+වසර 11ක් පුරා ඩොලර් බිලියන 44ක් වංචාකර ඇති බවට ඇයට  එල්ලවී තිබූ ප්‍රධාන චෝදනාව විය.
+
+◼️
+
+[Data](articles/62e35144.json)
+
+---
+
+### Satishkumar Sivalingam is the chief guest at the Great Tamil Literary Arts Festival in Tamil Nadu Salem
+
+*2024-04-11 21:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181004) · `ta`
+
+Satishkumar Sivalingam, a prominent writer and politician, is the chief guest at the Great Tamil Literary Arts Festival in Salem, Tamil Nadu, starting Friday. The event features a mix of literary, artistic, and spiritual figures, including Ahmed Giauddin, Dr. Raghavi Bhavanneswari, and many others.
+
+🟩
+
+Sathishkumar Sivalingam, the Senior Vice President of the Upcountry People's Front and the writer of the Mount Language, will be the chief guest at the Great Tamil Literary Arts Festival, which begins on Friday (12) in Tamil Nadu Salem.
+
+Literary personality. Ahmed Giauddin (Director of Tamil Nadu Law Law Commission), UK Chemford Councilor Advocate Papavadi, Pulavar Shanmukavadivel, Kalaimamani Lena ThamizhvananMalaysian artist Dr. Raghavi Bhavanneswari, Singapore businessman film director P Arumanchandran, Nandavanam Chandrasekaran, poet Mathukannan, poet Rajendra Chola, Poets, Artists, Artists, Spiritual Lecturers and many special guests are the special guests.
+
+At the invitation of Dr. ST Kalaiyamudan, a lawyer and paramilitary referee, the scepter of Thirukkalai Parambarai scepter Srilasri Sivapragasa Desika, with the blessings of the Paramacharya Swamis
+
+The three -day event will be held at the Salem Shanmuga Nurse Education Muttam Tamil Stadium.
+
+◼️
+
 [Data](articles/daa16579.json)
+
+[Extended Data](ext_articles/daa16579.ext.json)
 
 ---
 
@@ -66,17 +120,27 @@ During this period, the Ceylon Petroleum Storage Terminals Ltd. will be dispatch
 
 ---
 
-### அமீரின் தேர்தல் கால முழக்கமாக ஒலிக்கும் 'சாயம் போகுதே சனநாயகம்... அடிச்சு கிழிக்குதே பணநாயகம்...'
+### Amir's election slogan. The footprint is the money ... '
 
 *2024-04-11 21:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/181003) · `ta`
 
-இந்திய மக்களவைத் தேர்தல் கால கட்டமான இந்த தருணத்தில் போதை பொருள் கடத்தல் வழக்கில் சிக்கி இருக்கும் இயக்குநரும், நடிகருமான அமீர் நடிப்பில் தயாராகி வரும் 'உயிர் தமிழுக்கு' எனும் திரைப்படத்தில் வாக்காளர்களுக்கு விழிப்புணர்வை ஏற்படுத்தும் வகையில் இடம்பெற்ற 'ஓட்டு கேட்டு..' எனத் தொடங்கும் பாடலும், பாடலுக்கான காணொளியும் வெளியிடப்பட்டிருக்கிறது.
+"Amir's election slogan highlights the importance of money. The film 'Bi Tamil', featuring songs like 'Vota' and 'Anju Anju', has gained significant attention, with over three million views for its preview and a million views for 'Anju Anju'. Directed by Adam Bawa and produced by Moon Pictures, it aims to raise awareness for voters, especially with the song 'Dyeing is Democracy'."
 
-இயக்குநர் ஆதம் பாவா இயக்கத்தில் உருவாகி இருக்கும் 'உயிர் தமிழுக்கு' எனும் திரைப்படத்தில் அமீர், சாந்தினி, ஆனந்தராஜ், இமான் அண்ணாச்சி, ராஜசிம்மன், சரவண சக்தி, மகாநதி சங்கர், சுப்ரமணியம் சிவா, ராஜ் கபூர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.  'மெலடி கிங்' வித்யாசாகர் இசையமைத்திருக்கும் இந்த திரைப்படத்தை மூன் பிக்சர்ஸ் பட நிறுவனம் சார்பில் ஆதம் பாவா தயாரித்திருக்கிறார்.
+🟩
+
+At this moment of the Indian Lok Sabha elections, the song 'Vota' and the song 'Vota Kisha ..', which has been released to raise awareness for voters in the film 'Bi Tamil', which is ready for the director and actor of the drug trafficking in the case of drug trafficking, has been released.
+
+Directed by director Adam Bawa, Aamir, Santini, Anandaraj, Iman Annachi, Rajasimman, Saravanak Shakti, Mahanadi Shankar, Subramaniam Siva, Raj Kapoor.The film, composed by 'Meldy King' Vidyasagar, has produced Adam Bawa on behalf of Moon Pictures.
+
+The film's preview has been released by over three million viewers. In addition, the song 'Anju Anju ..' featured in the film has been released on the Internet and has been a record of over a million viewers.
+
+In this case, the film was held in the film.. The second song and the lyrical video for the song has been released as the coin stretching .. '. The song is sung by politician, songwriter and actor Snegan, the playback singer Guru.
 
 ...
 
 [Data](articles/b443f7f7.json)
+
+[Extended Data](ext_articles/b443f7f7.ext.json)
 
 ---
 
@@ -2321,51 +2385,5 @@ This is the season when Robarosiya flowers are in full bloom. The picture shows 
 [Data](articles/1d237c88.json)
 
 [Extended Data](ext_articles/1d237c88.ext.json)
-
----
-
-### Heavy rains today
-
-*2024-04-11 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195525) · `si`
-
-Heavy rains today with showers/thundershowers in Eastern, Uva, and Hambantota districts. More showers in Western, Central, Sabaragamuwa, and Southern provinces. Steps to reduce winds and lightning accidents announced. Sun rises in Battalangunduwa, Medawachchiya, Horowpathana, and Trincomalee.
-
-🟩
-
-Showers or thundershowers will occur in the Eastern and Uva provinces and in the Hambantota district.
-
-The Department of Meteorological Department announced that showers or thundershowers will occur in many parts of the rest of the island.
-
-Heavy showers in some places in the Western, Central, Sabaragamuwa and Southern provinces.
-
-Department of Meteorology announces to take steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-The sun will rise in Battalangunduwa, Medawachchiya, Horowpathana and Trincomalee today (11).
-
-◼️
-
-[Data](articles/6bd9156e.json)
-
-[Extended Data](ext_articles/6bd9156e.ext.json)
-
----
-
-### Excise to launch special operation in Colombo City during Avurudu dry days
-
-*2024-04-11 06:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Excise-to-launch-special-operation-in-Colombo-City-during-Avurudu-dry-days/108-280575) · `en`
-
-Colombo, April 11 (Daily Mirror) - The Department of Excise is planning to launch a special operation in Colombo during the two festive dry days targeting illegal booze sellers and to implement law strictly during the Sinhala and Tamil New Year period.
-
-A senior Excise official overseeing the Colombo City told the Daily Mirror yesterday that a joint operation has been organised in collaboration with four main Excise stations in Kesbewa, Padukka, Battaramulla and Colombo City.
-
-As a result over 50 officials deployed in several teams will be patrolling the Greater Colombo area in search of law breakers who would sell liquor defying Excise orders on April 12th and 13th.
-
-The official said that they have received intelligence on organised vendors who would buy liquor in large stocks prior to the New Year period and then sell it at exorbitant rates in the black market. The surveillance teams will specially check for vehicles that are transporting liquor in large quantities for resale purpose.
-
-...
-
-[Data](articles/0e220c12.json)
-
-[Extended Data](ext_articles/0e220c12.ext.json)
 
 ---

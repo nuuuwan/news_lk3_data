@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 21:18:25**
+As of **2024-04-11 21:34:57**
 
 ## Newspaper Stats
 
-*Scraped **18,504** Articles*
+*Scraped **18,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,034
 adalk | 1,549
 tamilmirrorlk | 2,163
 adaderanalk | 2,215
-virakesarilk | 2,757
+virakesarilk | 2,758
 dailymirrorlk | 2,823
 adaderanasinhalalk | 2,997
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,997
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,504 (100.0%) of 18,504 articles have been extended.
+18,504 (100.0%) of 18,505 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -669,6 +669,22 @@ According to Ambassador Bandara, the rescued Sri Lankans are in good health and 
 [Data](articles/6cb68f2c.json)
 
 [Extended Data](ext_articles/6cb68f2c.ext.json)
+
+---
+
+### வறிய மக்கள் மீதான தாக்கம் தொடர்பில் அவதானம் செலுத்த வேண்டும் - ஆசிய அபிவிருத்தி வங்கி
+
+*2024-04-11 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180982) · `ta`
+
+பொருளாதார நெருக்கடிக்கு அடிப்படையாக அமைந்த காரணிகளைக் களைவதற்கும், நிலையான மீட்சிக்கான அடித்தளத்தை இடுவதற்கும், மீண்டெழும் தன்மையைக் கட்டியெழுப்புவதற்கும், வளர்ச்சியை அடைந்துகொள்வதற்கும் தற்போதைய மறுசீரமைப்புக்களை தொடர்ந்து நடைமுறைப்படுத்தவேண்டும் எனவும், வறிய மற்றும் நலிவுற்ற சமூகப்பிரிவினர் மீது ஏற்பட்டுள்ள தாக்கம் தொடர்பில் கவனம் செலுத்தவேண்டியது மிக அவசியம் எனவும் ஆசிய அபிவிருத்தி வங்கி இலங்கையை வலியுறுத்தியுள்ளது.
+
+ஆசிய அபிவிருத்தி வங்கியினால் வெளியிடப்பட்டுள்ள 2024 ஏப்ரல் மாதத்துக்கான ஆசிய அபிவிருத்தி மதிப்பீட்டின்படி, கடந்த இருவருடங்களாகத் தொடர்ந்து அவதானிக்கப்பட்ட பொருளாதாரச்சுருக்கத்தை அடுத்து இவ்வருடம் இலங்கை 1.9 சதவீத மிதமான வளர்ச்சியையும், 2025 இல் 2.5 சதவீத வளர்ச்சியையும் பதிவுசெய்யும் என எதிர்வுகூறப்பட்டுள்ளது.
+
+'கடந்த ஆண்டின் பின்னரை பாகத்திலிருந்து இலங்கையில் பொருளாதார மீட்சிக்கான குறிகாட்டிகள் தென்படுகின்றன. பணவீக்கம் ஓரிலக்கப்பெறுமதிக்கு வீழ்ச்சியடைந்துள்ளது.
+
+...
+
+[Data](articles/8a00cb98.json)
 
 ---
 
@@ -2341,21 +2357,5 @@ Further, the banking sector counters, especially Sampath Bank contributed more t
 [Data](articles/d5ceb59d.json)
 
 [Extended Data](ext_articles/d5ceb59d.ext.json)
-
----
-
-### Colombo Caregiver School holds Its grand orientation
-
-*2024-04-11 05:40:00* · [`islandlk`](http://island.lk/colombo-caregiver-school-holds-its-grand-orientation/) · `en`
-
-Colombo Caregiver School (Pvt) Ltd. (a subsidiary of the Aviha Group) ceremoniously held its grand orientation for the caregiver certificate course on February 20, 2024, at the institute premises. The grand orientation aimed to initiate the first batch of the caregiver certificate course ceremoniously, encouraging the future batches of the school to gain the maximum return on the investments done by the Colombo Caregiver School.
-
-The event was graced by the presence of our esteemed chief guests: Dr. Janaka Jayalath (Deputy Director General – TVEC (Tertiary and Vocational Education Commission), Ms. Hashanthi Lakmini (Assistant Director – Technical Assistance: TVEC), along with Aviha Group’s honourable chairman, Mr. Priyankara Sumanapalage, and the Aviha Group’s team.
-
-...
-
-[Data](articles/091d47ca.json)
-
-[Extended Data](ext_articles/091d47ca.ext.json)
 
 ---

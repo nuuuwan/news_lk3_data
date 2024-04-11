@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 00:48:28**
+As of **2024-04-12 01:03:30**
 
 ## Newspaper Stats
 
-*Scraped **18,523** Articles*
+*Scraped **18,524** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,015
 dailyftlk | 1,018
 economynextcom | 1,035
 adalk | 1,554
-tamilmirrorlk | 2,163
+tamilmirrorlk | 2,164
 adaderanalk | 2,218
 virakesarilk | 2,762
 dailymirrorlk | 2,826
@@ -26,9 +26,27 @@ adaderanasinhalalk | 2,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,521 (100.0%) of 18,523 articles have been extended.
+18,523 (100.0%) of 18,524 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-04-12 (Friday)
+
+### மேலும் சில பொருட்களின் விலைகள் குறைப்பு
+
+*2024-04-12 00:44:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-சில-பொருட்களின்-விலைகள்-குறைப்பு/175-335871) · `ta`
+
+புதுவருடப் பிறப்பை முன்னிட்டு அத்தியாவசிய உணவுப் பொருள்கள் சிலவற்றின் விலைகளை குறைப்பதற்கு லங்கா சதொச தீர்மானித்துள்ளது.
+
+இதற்கமைய, 189 ரூபாவுக்கு விற்பனை செய்யப்பட்ட வௌ்ளை பச்சை அரிசி ஒரு கிலோ கிராம் 4 ரூபாவால் குறைக்கப்பட்டுள்ளதுடன், அதன் புதிய விலை 185 ரூபாவாகும்.
+
+கோதுமை மா ஒரு கிலோ கிராம் 7 ரூபாவால் குறைக்கப்பட்டுள்ளதுடன், நெத்தலி ஒரு கிலோகிராம் 125 ரூபாவால் குறைக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/221dd616.json)
+
+---
 
 ### 2024-04-11 (Thursday)
 
@@ -47,6 +65,8 @@ Despite mitigating circumstances — this was a first-time offense and Lan parti
 ...
 
 [Data](articles/0db12130.json)
+
+[Extended Data](ext_articles/0db12130.ext.json)
 
 ---
 
@@ -135,6 +155,8 @@ The department further says this is not the forecast of maximum temperature. It 
 ◼️
 
 [Data](articles/832316a6.json)
+
+[Extended Data](ext_articles/832316a6.ext.json)
 
 ---
 
@@ -2361,27 +2383,5 @@ Meanwhile , during a separate meeting, Chinese Prime Minister Li Qiang has raise
 [Data](articles/6e82e1f9.json)
 
 [Extended Data](ext_articles/6e82e1f9.ext.json)
-
----
-
-### Xi calls for fair, transparent environment for investment in Sri Lanka
-
-*2024-04-11 08:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Xi-calls-for-fair-transparent-environment-for-investment-in-Sri-Lanka/108-280574) · `en`
-
-Colombo, April 11 (Daily Mirror) - Chinese President Xi Jinping , in his recent meeting with Prime Minister Dinesh Gunawardena, has reportedly stressed the need for ‘fair and transparent’ environment for Chinese companies to invest in Sri Lanka.
-
-The Chinese leader had further mentioned that China is not happy about its friends being influenced by other countries unnecessarily when taking decisions.
-
-However , in the meeting which a top source mentioned as friendly and cordial , the Chinese President did not refer to any third country in his remarks.
-
-The Prime Minister recently undertook a tour of China between March March 25 and 30 to attend the Boao Forum for Asia (BFA) Annual Conference 2024.
-
-Meanwhile , during a separate meeting, Chinese Prime Minister Li Qiang has raised concerns about Sri Lanka announcing a moratorium on foreign research vessels in its Exclusive Economic Zone (ECZ) targeting Chinese ships while entertaining a similar vessel from Germany in between.
-
-...
-
-[Data](articles/a0057563.json)
-
-[Extended Data](ext_articles/a0057563.ext.json)
 
 ---

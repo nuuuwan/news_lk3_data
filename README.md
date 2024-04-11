@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 13:03:35**
+As of **2024-04-11 13:18:02**
 
 ## Newspaper Stats
 
-*Scraped **18,452** Articles*
+*Scraped **18,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,029
 adalk | 1,549
 tamilmirrorlk | 2,156
 adaderanalk | 2,207
-virakesarilk | 2,746
+virakesarilk | 2,747
 dailymirrorlk | 2,815
 adaderanasinhalalk | 2,987
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,987
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,451 (100.0%) of 18,452 articles have been extended.
+18,452 (100.0%) of 18,453 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,26 @@ The project is being implemented by the International Organization for Migration
 ...
 
 [Data](articles/310c3b5b.json)
+
+[Extended Data](ext_articles/310c3b5b.ext.json)
+
+---
+
+### விலை தள்ளுபடி செய்யும் பொருட்கள் கொள்வனவின்போது அவதானம் தேவை!
+
+*2024-04-11 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/180966) · `ta`
+
+பண்டிகைக் காலங்களில் சந்தையில் பொதுவாகக் காணப்படும் புத்தாண்டு தள்ளுபடிகள் மூலம் பொருட்களை கொள்வனவு செய்யும் போது மிகவும் அவதானமாக இருக்குமாறு நுகர்வோர் விவகார அதிகார சபை தெரிவித்துள்ளது.
+
+புத்தாண்டு பண்டிகை காலங்களில் ஆடைகள் மற்றும் வீட்டு உபயோகப் பொருட்களை கொள்வனவு செய்வது தொடர்பில்  நுகர்வோர்  அதிக ஆர்வம் காட்டுவதனால்  தள்ளுபடி செய்யப்பட்ட பொருட்களின்  கொள்வனவின்  போது அதிக கவனம் செலுத்துமாறு நுகர்வோர் அதிகாரசபையின் விசேட சோதனை மற்றும் விசாரணைகளின் பணிப்பாளர் சங்ஜய வீரசிங்க தெரிவித்தார்.
+
+இவ்வாறான பண்டிகைக் காலங்களில் விலை  தள்ளுபடி வழங்கப்பட்ட பல ஆடைகள்தொடர்பில்  சிக்கல் ஏற்பட்டுள்ளதாகத் தெரிவித்த அவர், விலையில் உள்ள வேறுபாட்டைக் கருத்தில் கொண்டு, தள்ளுபடி செய்யப்பட்ட பொருட்களின் தரம் குறித்தும் அவதானம் செலுத்துமாறும் குறிப்பிட்டுள்ளார்.
+
+இவ்வாறு கொள்வனவு செய்யப்படும் பொருட்களுக்கு  பிரச்சினைகள் ஏற்பட்டால், சான்றுகளுடன்  நுகர்வோர் விவகார அதிகாரசபைக்கு எழுத்துப்பூர்வமாக முறைப்பாடு செய்யுமாறு தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/7e868706.json)
 
 ---
 
@@ -2209,29 +2229,5 @@ This poses potential health risks, especially to vulnerable populations such as 
 [Data](articles/a657f88e.json)
 
 [Extended Data](ext_articles/a657f88e.ext.json)
-
----
-
-### It is a great privilege to start an international cricket career on the soil of the father - British Tamil girl Amuruda says
-
-*2024-04-10 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180936) · `ta`
-
-Amuruda Surenkumar, a 19-year-old England cricketer, expresses her privilege to start her international career in Sri Lanka, her father's birthplace. She credits her parents' interest in cricket for her engagement in the sport. Amuruda's journey includes joining the North London Cricket Club at 7, the Sunrisers Club's senior team at 16, and the England under-19 team. She highlights the challenges and learning from playing in Sri Lanka's international stadiums and aspires to play for the National Women's Team.
-
-🟩
-
-"I consider it a wonderful and privilege to start my international cricket career on the Sri Lankan soil where my father was born and played cricket," said Amuruda Surenkumar, a 19 -year -old England team.
-
-All -rounder Amuruda said he had asked his father to make another cricket tour in Sri Lanka.
-
-Amu, who was affectionately known as Amu, made her opinion in an interview with Veerakesari after the 19 -year -old women under the ODI cricket series at the Galle International Stadium on Tuesday (09).
-
-Answer (Amuruda): 'Both of my parents are very interested in cricket. My father (Surenkumar) was playing cricket at the school level in Sri Lanka. My mother (Lojini) played cricket at a young age and engaged in webball. Their creativity and encouragement made me engage in cricket.
-
-...
-
-[Data](articles/2febd161.json)
-
-[Extended Data](ext_articles/2febd161.ext.json)
 
 ---

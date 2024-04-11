@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 22:51:37**
+As of **2024-04-11 23:03:16**
 
 ## Newspaper Stats
 
-*Scraped **18,516** Articles*
+*Scraped **18,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,035
 adalk | 1,551
 tamilmirrorlk | 2,163
 adaderanalk | 2,216
-virakesarilk | 2,760
+virakesarilk | 2,762
 dailymirrorlk | 2,826
 adaderanasinhalalk | 2,999
 
@@ -26,23 +26,45 @@ adaderanasinhalalk | 2,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,514 (100.0%) of 18,516 articles have been extended.
+18,516 (100.0%) of 18,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### බිත්තර මිල ඉහළ ගියොත් ආයෙත් බිත්තර ගෙන්වනවා
+### வவுனியா ஏ9 வீதியில் இடம் பெற்ற விபத்தில் ஒருவர் படுகாயம்
+
+*2024-04-11 22:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181005) · `ta`
+
+வவுனியா ஏ9 வீதியில் இடம் பெற்ற விபத்தில் ஒருவர் படுகாயம் அடைந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+
+நகரிலிருந்து பயணித்த உழவு இயந்திரம் சாந்தசோலை வீதிக்கு திருப்ப முற்பட்ட வேலை ஓமந்தையிலிருந்து வவுனியா நோக்கி பயணித்த மோட்டார் சைக்கிளுடன் மோதுண்டு விபத்துக்குள்ளாகியுள்ளது.
+
+இவ்வத்தில் மோட்டார் சைக்கிளில் பயணித்தவர் படுகாயம் அடைந்த நிலையில் வவுனியா  வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/56d5fdcd.json)
+
+---
+
+### If egg prices go up, the eggs will be brought back
 
 *2024-04-11 22:26:43* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තර-මිල-ඉහළ ගියොත්-ආයෙත්-බිත්තර-ගෙන්වනවා/11-409060) · `si`
 
-වෙළඳපොළ තුළ යළිත් බිත්තර මිල ඉහළ යාමක් සිදුවුවහොත් රජය නැවත වරක් ඉන්දියාවෙන් බිත්තර ආනයනය කිරීමට කටයුතු කරන බව වෙළඳ අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා පැවැසීය.
+"Egg prices rise, prompting Minister Nalin Fernando to consider importing from India. Prices have decreased recently but are expected to rise again due to the festival season."
 
-ඉහළ මිලකට අලෙවි වූ බිත්තර මිල පසුගිය දින කිහිපයේදී තරමක අඩුවීමක් පෙන්නුම් කළේය. කෙසේ වෙතත් උත්සව සමය හේතුවෙන් යළිත් බිත්තර මිලේ ඉහළ යාමක් පෙනෙන්නට තිබේ.
+🟩
+
+Commerce Minister Nalin Fernando said that if the government is rising again in the market, the government will soon import eggs from India.
+
+The eggs sold at a high price showed a decrease in the last few days. However, the festival season seems to increase the egg prices again.
 
 ◼️
 
 [Data](articles/c8425e64.json)
+
+[Extended Data](ext_articles/c8425e64.ext.json)
 
 ---
 
@@ -593,6 +615,20 @@ The suspects are Sri Lankans and are residents of Colombo 13 and Maskeliya areas
 [Data](articles/a8d116a9.json)
 
 [Extended Data](ext_articles/a8d116a9.ext.json)
+
+---
+
+### வெடுக்குநாறிமலை, குருந்தூர்மலை விவகாரம் தொடர்பில் விசேடமாக ஆராய்ந்த அலன் கீனன்  - பரந்துபட்ட அறிக்கையொன்றை வெளியிடவும் உத்தேசம்
+
+*2024-04-11 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180987) · `ta`
+
+அண்மையில் இலங்கைக்கு வருகைத்தந்திருந்த சர்வதேச நெருக்கடி கண்காணிப்புக்குழுவின் ஆய்வாளர் அலன் கீனன், வெடுக்குநாறிமலை மற்றும் குருந்தூர்மலை விவகாரம் தொடர்பில் விசேடமாக ஆராய்ந்ததாகவும், அதுபற்றிய அறிக்கையொன்றை வெளியிடுவதற்கு அவர் எதிர்பார்த்திருப்பதாகவும் நம்பத்தகுந்த வட்டாரங்கள் மூலம் அறியமுடிகின்றது.
+
+வவுனியா மாவட்டத்தின் வெடுக்குநாறிமலையில் உள்ள ஆதிலிங்கேஸ்வரர் ஆலயத்தில் கடந்த சிவராத்திரி தினத்தன்று (மார்ச் 8 ஆம் திகதி) பூஜை வழிபாடுகளில் ஈடுபடச்சென்ற பக்தர்களுக்கு பொலிஸாரால் இடையூறு விளைவிக்கப்பட்டதுடன், இரவு வேளையில் அங்கு வழிபாடுகளைத் தொடர முற்பட்டோர் அங்கிருந்து வலுகட்டாயமாக வெளியேற்றப்பட்டனர். அதுமாத்திரமன்றி ஆலயப்பூசகர் உள்ளடங்கலாக 8 பேர் பொலிஸாரால் கைதுசெய்யப்பட்டனர்.
+
+...
+
+[Data](articles/63d2a7fc.json)
 
 ---
 
@@ -2349,55 +2385,5 @@ The suspect is to be produced before the Maligakanda No. 2 today (11).
 [Data](articles/222641b1.json)
 
 [Extended Data](ext_articles/222641b1.ext.json)
-
----
-
-### First auspicious day of New Year
-
-*2024-04-11 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195527) · `si`
-
-Today marks the first auspicious day of the New Year, with traditional Sinhala rituals observed. The New Year Ritual is celebrated on April 15, with enhanced transport services and police protection for safety.
-
-🟩
-
-Today, the first two customs of the Sinhala and New Year's New Year's rituals have been played today.
-
-The austerity reference to the newly lunar year also states that the ritual of the new consecutive ritual is today.
-
-It is appropriate that it is appropriate that the niches are suitable for the old year in a shower mixing the zasic juice.
-
-Meanwhile, the ritual of the New Year Ritual is announced on April 15 as a government holiday.
-
-Meanwhile, the Ceylon Transport Board and Private Bus Owners have also taken steps to provide transport facilities for the new year to celebrate the New Year.
-
-Several additional buses as well as special train services will be implemented for the convenience of passengers.
-
-Police Media Spokesperson DIG Nihal Talduuwa said that a special police protection program has been implemented for the security of the people during the New Year.
-
-◼️
-
-[Data](articles/50f4b2aa.json)
-
-[Extended Data](ext_articles/50f4b2aa.ext.json)
-
----
-
-### Sri Lanka’s central bank buys $715mn from fx markets in March
-
-*2024-04-11 06:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-buys-715mn-from-fx-markets-in-march-158260/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has bought 715 million US dollars from forex markets in March 2024, up from a net 239.5 million US dollars in February, taking the total so far this year to 1,199 million dollars, official data show.
-
-Gross official reserves went up by 431 million US dollars in March as debt was repaid from domestic savings.
-
-A central bank is able to collect reserves when domestic credit is moderated by an appropriate interest rate (reducing domestic investments), and the rupees created by dollar purchases are mopped up by central bank securities sales to commercial banks.
-
-The action constitutes a raising of ‘deposits’ by the central bank (a note-issue bank) from the domestic economy and lending it to the US or other reserve currency nations to finance their deficits.
-
-...
-
-[Data](articles/d4112085.json)
-
-[Extended Data](ext_articles/d4112085.ext.json)
 
 ---

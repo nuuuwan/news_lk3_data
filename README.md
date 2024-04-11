@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 02:33:38**
+As of **2024-04-12 02:50:29**
 
 ## Newspaper Stats
 
-*Scraped **18,527** Articles*
+*Scraped **18,528** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,035
 adalk | 1,554
 tamilmirrorlk | 2,164
 adaderanalk | 2,218
-virakesarilk | 2,764
+virakesarilk | 2,765
 dailymirrorlk | 2,826
 adaderanasinhalalk | 2,999
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,526 (100.0%) of 18,527 articles have been extended.
+18,527 (100.0%) of 18,528 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### ஹீட் ஸ்ட்ரோக் எனும் பாதிப்பிற்குரிய சிகிச்சை
+
+*2024-04-12 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181008) · `ta`
+
+கோடை காலம் தொடங்கி விட்டால்... எம்முடைய வீடுகளில் இருக்கும் பச்சிளங் குழந்தைகள், முதியவர்கள், நோய் எதிர்ப்பு திறன் குறைவாக இருப்பவர்களை அதீத கவனத்துடன் அவர்களின் உடல் ஆரோக்கியத்தை பேண வேண்டியது அவசியமாகிறது. ஏனெனில் கோடையில் வெப்பநிலை உயர்வடைந்து, எம்முடைய தலைப்பகுதி, மூளை, இதயம், சிறுநீரகம், தசைகள் ஆகியவற்றை பாதிக்கும். இதற்கு மருத்துவர்கள் முதலுதவி சிகிச்சையையும், உரிய முறையான சிகிச்சையையும் மேற்கொள்ள வேண்டும் என்றும், இதனால் ஏற்படும் உயிரிழப்பைத் தவிர்க்கலாம் என அறிவுறுத்துகிறார்கள்.
+
+ஒவ்வொரு கோடை காலத்தின் போதும் அதிகரிக்கும் வெப்பநிலையைத் தாங்க இயலாமல் முதியவர்கள், பச்சிளங் குழந்தைகள் மரணமடைவது உண்டு. மேலும் கோடைகால வெப்பம் குறித்து மக்களிடத்தில் முழுமையான விழிப்புணர்வு ஏற்படவில்லை எனவும் மருத்துவர்கள் தெரிவிக்கிறார்கள்.
+
+...
+
+[Data](articles/27b05f3a.json)
+
+---
 
 ### Pradeep Ranganathan's new movie
 
@@ -2373,25 +2387,5 @@ Another faction insists on fielding its own candidate. Also, the party has decid
 [Data](articles/19e7ed24.json)
 
 [Extended Data](ext_articles/19e7ed24.ext.json)
-
----
-
-### S. Korea promises assistance for Sri Lanka in education, health, renewable energy & employment
-
-*2024-04-11 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98567/s-korea-promises-assistance-for-sri-lanka-in-education-health-renewable-energy-employment-) · `en`
-
-Ambassador of South Korea, Miyon Lee has called on Prime Minister Dinesh Gunawardena in Colombo on Wednesday (10) to discuss the follow-up actions on the decisions taken during the Sri Lankan Premier’s visit last week.
-
-While in South Korea, Gunawardena held discussions with his counterpart Han Duck-soo, Speaker of National Assembly Kim Jin-pyo, Governor of Gyengsangbuk-do Province Lee Cheol-woo and former Secretary General of the United Nations and current President and Chair of Green Growth Institute, Ban Ki-moon.
-
-During these bilateral discussions, South Korea agreed to increase support to Sri Lanka in several sectors including education, health, renewable energy, employment, agriculture and rural development.
-
-On the request of PM Gunawardena, South Korea agreed to provide smart classrooms to 1,000 schools in Sri Lanka to assist the government’s efforts to develop information technology education at the school level.
-
-...
-
-[Data](articles/cfeba759.json)
-
-[Extended Data](ext_articles/cfeba759.ext.json)
 
 ---

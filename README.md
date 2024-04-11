@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 19:18:20**
+As of **2024-04-11 19:33:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,494 (100.0%) of 18,497 articles have been extended.
+18,497 (100.0%) of 18,497 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,23 +46,31 @@ After settling the remaining Aswesuma payments, the government had completed all
 
 [Data](articles/77f67fb6.json)
 
+[Extended Data](ext_articles/77f67fb6.ext.json)
+
 ---
 
-### தமிழ், சிங்கள புத்தாண்டை முன்னிட்டு தொடர்ந்து எரிபொருள் விநியோகம்
+### Tamil and Sinhala New Year continued fuel supply
 
 *2024-04-11 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181001) · `ta`
 
-சிங்கள தமிழ் புத்தாண்டு கொண்டாட்டத்தின் போது சிபெட்கோ எரிபொருள் நிலையங்களினால் தொடர்ந்தும் எரிபொருள் விநியோகம் செய்வதற்கு தேவையான நடவடிக்கைகள் எடுக்கப்பட்டுள்ளதாக இலங்கை பெற்றோலிய கூட்டுத்தாபனம் தெரிவித்துள்ளது.
+During Sinhala Tamil New Year, CEB ensures fuel supply by importing reserves and maintaining warehouse stocks. Fuel station owners have been informed to keep reserves. Transactions by check are facilitated until the 15th for fuel purchases.
 
-நாட்டின் எரிபொருள் தேவையை பூர்த்தி செய்வதற்காக, பிரதான முனையங்கள் மூலம் எரிபொருள் இருப்புக்களை இறக்குமதி செய்து, கிடங்குகளில் போதுமான இருப்புக்களை பராமரிக்க நிறுவனம் நடவடிக்கை எடுத்துள்ளதுடன், எரிபொருள் இருப்புக்களை பராமரிப்பது தொடர்பாக அனைத்து எரிபொருள் நிலைய உரிமையாளர்களுக்கும் அறிவித்துள்ளது.
+🟩
 
-வினியோகஸ்தர்களின் எரிபொருளை வாங்குவதற்கு எளிதாக்கும் வகையில், காசோலை மூலம் பரிவர்த்தனை செய்ய வரும் 15ம் தேதி வரை அவகாசம் வழங்கப்பட்டுள்ளது.
+The Ceylon Petroleum Corporation (CEB) has said that during the Sinhala Tamil New Year celebrations, the Cebetco fuel stations have taken steps to continue the supply of fuel.
 
-இந்த காலப்பகுதியில், எரிபொருள் விநியோக நடவடிக்கைகளுக்காக போதுமான பெற்றோலிய சேமிப்பை வைத்துக்கொள்ள அந் நிறுவனம் தீர்மானித்துள்ளதாக பெற்றோலிய கூட்டுத்தாபனம் தெரிவித்துள்ளது.
+In order to meet the country's fuel demand, the company has taken steps to import fuel reserves through the main terminals and maintain adequate reserves in the warehouses and all the fuel station owners have informed the maintenance of fuel reserves.
+
+Time has been granted till the 15th of this month to make the transaction by check to facilitate the purchase of the fuel of distributors.
+
+During this period, the Institute has decided to keep sufficient petroleum savings for fuel supply activities, the Petroleum Corporation said.
 
 ◼️
 
 [Data](articles/3a01ce6c.json)
+
+[Extended Data](ext_articles/3a01ce6c.ext.json)
 
 ---
 
@@ -81,6 +89,8 @@ The suspects, aged 18, 34 and 47 and residents of Maradana, were handed over to 
 ◼️
 
 [Data](articles/3c6173ff.json)
+
+[Extended Data](ext_articles/3c6173ff.ext.json)
 
 ---
 

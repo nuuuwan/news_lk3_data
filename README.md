@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 07:54:44**
+As of **2024-04-11 08:05:25**
 
 ## Newspaper Stats
 
-*Scraped **18,406** Articles*
+*Scraped **18,407** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,69 @@ tamilmirrorlk | 2,151
 adaderanalk | 2,199
 virakesarilk | 2,739
 dailymirrorlk | 2,807
-adaderanasinhalalk | 2,976
+adaderanasinhalalk | 2,977
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,401 (100.0%) of 18,406 articles have been extended.
+18,406 (100.0%) of 18,407 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### කෝටි 6ක හෙරොයින් සමග පුද්ගලයෙකු දැලේ
+### ලංකාවට ආ විදේශිකයින්ගේ වැඩිම කැමැත්ත
+
+*2024-04-11 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195529) · `si`
+
+මේ වසරේ ගත වූ මාස කිහිපය තුළ මෙරට ජාතික වනෝද්‍යාන නැරඹීම සඳහා පැමිණි විදෙස් සංචාරකයින්ගේ සංඛ්‍යාව වාර්තාගත ලෙස ඉහළ ගොස් තිබේ.
+
+ජනවාරි සිට මාර්තු දක්වා කාලය තුළ විදෙස් සංචාරකයින් ලක්ෂ දෙකකට අධික පිරිසක් ජාතික වනෝද්‍යාන නැරඹීම සඳහා පැමිණ ඇති බව වනජීවි සංරක්ෂණ දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+ඒ අතරින් යාල ජාතික වනෝද්‍යානය නැරඹීම සඳහා ලක්ෂයකට අධික විදෙස් සංචාරකයින් පිරිසක් පැමිණ තිබේ.
+
+ඊට අමතරව වස්ගමුව, කුමන, විල්පත්තුව, බුන්දල, උඩවලව, මින්නේරිය සහ කවුඩුල්ල වැනි ජාතික වනෝද්‍යාන නැරඹීමට විදෙස් සංචාරකයින් වැඩි වශයෙන් පැමිණ ඇති බව වාර්තා වේ.
+
+වසරේ ගත වූ මාස තුන තුළ ජාතික වනෝද්‍යාන නැරඹීමට පැමිණි දෙස් විදෙස් සංචාරකයින්ගෙන් රුපියල් කෝටි 200කට අධික වාර්තාගත ආදායමක් උපයා ඇති බව සඳහන්ය.
+
+පසුගිය වසරට සාපේක්ෂව මේ වසරේ ජාතික වනෝද්‍යාන මඟින් උපයා ගත හැකි ආදායම ඉහළ යා හැකි බව වාර්තා වේ.
+
+මේ අතර වසරේ ගත වූ කාලය තුළ විදෙස් සංචාරකයින් 686,321 දෙනෙකු දිවයිනට පැමිණ තිබේ.
+
+ඉන් වැඩි දෙනෙකු ඉන්දීය ජාතිකයින් වන අතර එම සංඛ්‍යාව 106,004ක් බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/6cb1d11e.json)
+
+---
+
+### Man arrested with heroin
 
 *2024-04-11 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195528) · `si`
 
-රුපියල් කෝටි 06 කට ආසන්න වටිනාකමකින් යුත් හෙරොයින් තොගයක් ප්‍රවාහනය කරමින් සිටි පුද්ගලයෙකු මාළිගාවත්ත පොලීසිය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+A 25-year-old from Wellampitiya, a disciple of a Dubai criminal leader, was arrested by Maligawatta Police for transporting heroin worth Rs. 750,000. He's accused of distributing drugs to schools.
 
-මාළිගාවත්ත පොලීසියේ නිලධාරීන්ට ලද තොරතුරක් මත සැකකරු විසින් අදාළ මත්ද්‍රව්‍ය තොගය ග්‍රෑන්ඩ්පාස් වෙත රැගෙන යමින් සිටියදී අත්අඩංගුවට ගෙන ඇති බව සඳහන්ය.
+🟩
 
-එහිදි සැකකරු සතුව තිබී හෙරොයින් කිලෝග්‍රෑම් එකයි ග්‍රැම් 105ක තොගයක් සහ මත්ද්‍රව්‍ය ජාවාරමෙන් උපයාගත් රුපියල් 750,000ක මුදලක් පොලිස් භාරයට ගෙන තිබේ.
+A man was arrested by the Maligawatta Police, who was transporting a stock of heroin worth nearly Rs.
 
-සැකකරු වැල්ලම්පිටිය ප්‍රදේශයේ පදිංචි 25 හැවිරිදි අයෙකු වන අතර ඔහු දැනට ඩුබායිහි සැඟව සිටින සංවිධානාත්මක අපරාධ කල්ලි නායකයකු වන 'කෙසෙල්වත්ත දිනුකගේ' ගෝලයෙක් බවට අනාවරණය වී ඇත.
+The suspect had been arrested on a tip off received by the Maligawatta police officers to the Grandpass.
 
-සැකකරු විසින් විදෙස්ගත අපරාධ කල්ලි සාමාජිකයින්ගෙන් ලද උපදෙස් මත මත්ද්‍රව්‍ය ඒ ඒ ප්‍රදේශ වෙත ගෙන ගොස් අලෙවිකරන්නන් වෙත ලබා දීම හා මුදල් හුවමාරු කිරීම සිදුකර තිබේ.
+The suspect was taken into custody by the suspect and earned 105 grams and Rs. 750,000 earned.
 
-අත්අඩංගුවට ගත් සැකකරු අද (11) මාළිගාකන්ද අංක 2 අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+The suspect is a 25 year old resident of Wellampitiya and has been revealed that a disciple of organized criminal leader in Dubai.
+
+The suspect has taken into custody to each area and transfer the drugs to the schools and transfer the sale.
+
+The suspect is to be produced before the Maligakanda No. 2 today (11).
 
 ◼️
 
 [Data](articles/222641b1.json)
+
+[Extended Data](ext_articles/222641b1.ext.json)
 
 ---
 
@@ -93,6 +125,8 @@ This is the season when Robarosiya flowers are in full bloom. The picture shows 
 ◼️
 
 [Data](articles/1d237c88.json)
+
+[Extended Data](ext_articles/1d237c88.ext.json)
 
 ---
 
@@ -137,6 +171,8 @@ The official said that they have received intelligence on organised vendors who 
 ...
 
 [Data](articles/0e220c12.json)
+
+[Extended Data](ext_articles/0e220c12.ext.json)
 
 ---
 
@@ -696,29 +732,35 @@ Since Nagesh's grandson is playing the hero of the story and he appears in a dif
 
 ---
 
-### කෘමියෙකු නිසා ශ්‍රී ලංකාවට අහිමි වූ 'අපේ එරබදු'
+### Our insect was lost in Sri Lanka, "our permanent
 
 *2024-04-11 01:58:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czrxyl384dyo) · `si`
 
-මේ අවුරුදු සමයේ නිතර අසන්නට ලැබෙන ඉතා ජනප්‍රිය ගීතයකි. නමුත් ගීතයෙන්  විස්තර කෙරෙන එරබදු මල් අද දක්නට නොලැබෙන තරම් ය.
+A popular song in Sri Lanka, "Our Permanent," is now rare. The article discusses the life of the gameman, focusing on Emyrthina Variegata, a plant with beautiful, reddish-colored flowers that are difficult to see today. The plant, known as Erahuduwa, has thorns and is also called coral trees or Indian coral trees. It's botanically referred to as erythrina FUSCA, flowering in February and March. The plant is not found in natural ecosystems and was introduced to obtain fertilizer and shade in the mountains. In 2006, the first warning of the insect, quadrastichus erythrinae, was issued by the Sri Lanka Department of Agriculture. The insect harms the plant and has been reported in several countries. The plant, which grows up to 10 meters, is now near threatened.
 
-බොහෝවිට එරබදු ලෙස අදවන විට ඡායාරූප සහ වීඩියෝ දර්ශන පලවන්නේ පිටරටින් රැගෙන ආ විසිතුරු ශාකවල ඒවා ය.
+🟩
 
-එබැවින් අතීතයේ පටන් ගැමියාගේ ජීවිතය හා බැඳුණු, 'අපේ එරබදු' මොනවා ද යන්න සහ ඊට සිදුවූ දේ කුමක් ද යන්න මෙම ලිපියෙන් සාකච්ඡා කෙරේ.
+A very popular song that is often heard from this year. But the song described by the song is not seen today.
 
-'අපේ එරබදු' ලෙස පැරැණි ගැමියා හඳුනාගත් ශාක විශේෂ දෙකක් තිබේ. ඒ 'එරබදු' සහ 'යක් එරබදු' ය.
+Often, the photos and videos are published in ornaments that have been brought abroad.
 
-ඉන් අවුරුදු සමයේදී මල් පිපෙන, අවුරුද්ද හා බැඳුණු එරබදු විශේෂය වන්නේ Erythrina variegata යන උද්භිද විද්‍යාත්මක නාමයෙන් හඳුන්වන එරබදු ශාකය වේ.
+This article will discuss the life of the gameman since the past, what is "our permanent" and what happened.
 
-අප්‍රේල් මාසය වන විට මල් හට ගන්නා සමයේ දී එම එරබදු ශාකයේ පත්‍ර හැලී යයි. එමනිසා ඉතා අලංකාර, රතු පැහැති මලින් ගස පිරී යයි. නමුත් එම විශේෂයේ එරබදු ශාකයක් හෝ මලක් දැකීම අදවන විට කළුනික සෙවීම තරම් දුෂ්කර ක්‍රියාවක් බව උද්භිද විද්‍යාඥයෝ පවසති.
+There are two identical species identified as 'our Earnian'. It is a 'Earn Earlier' and 'performing'.
 
-මේ එරබදු ශාකය හැඳින්වීමට එරමුදු, කටු එරමුදු , වැට එරබදු යන නම් ද භාවිත කෙරේ.
+The year, the year flower, the year, the year of flowering, is the plant called Emyrthina Variegata.
 
-එරබදු ශාකයට ඉංග්‍රීසි බසින් නම් කිහිපයක් භාවිත කෙරේ. ඒ, Coral tree , Indian Coral tree, Thorny dadap යන නම් ය.
+By April, the leaves of the plant dysfun into the same season. Therefore, very beautiful, reddish-colored flower tree is full of. Botany Botanists say that it is today as difficult to see a flower of that species or a flower in that species.
+
+The plant is used if the plant is known as Erahuduwa, thorns.
+
+Some names are used in English to the farmers. The names, coral trees, indian coral trees, The TRNY DADAP.
 
 ...
 
 [Data](articles/42a085f9.json)
+
+[Extended Data](ext_articles/42a085f9.ext.json)
 
 ---
 
@@ -892,25 +934,33 @@ The competitions have been divided into three sections, namely State Section, Op
 
 ---
 
-### ’இலங்கையின் இறைமைக்கு அமெரிக்கா ஆதரவு’
+### US support Sri Lanka's sovereignty
 
 *2024-04-10 23:31:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-இறைமைக்கு-அமெரிக்கா-ஆதரவு/175-335842) · `ta`
 
-இலங்கையின் இறைமை மற்றும் பாதுகாப்பு ஆகியவற்றுக்கு அமெரிக்காவின் முழுமையான ஆதரவு கிடைக்குமென ஐக்கிய அமெரிக்காவின் தேசிய பாதுகாப்பு ஆலோசகர் ஜேக் சலிவன் உறுதியளித்துள்ளார்.
+US National Security Advisor Jack Salivan pledges full support for Sri Lanka's sovereignty and security, discussing key issues to strengthen bilateral relations. He commends Sri Lanka's economic progress and emphasizes the need for public funds reform. Future cooperation opportunities are being explored to enhance peace and security in the region.
 
-தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் சாகல ரத்நாயக்கவுடன் நேற்று  நடந்த தொலைபேசிக் கலந்துரையாடலின் போதே அவர் இவ்வாறு தெரிவித்துள்ளார்.
+🟩
 
-இரு நாடுகளுக்குமிடையிலான இருதரப்பு உறவுகளை வலுப்படுத்தும் நோக்கில் பல முக்கிய விடயங்கள் இதன்போது கலந்துரையாடப்பட்டுள்ளன.
+United States National Security Advisor Jack Salivan has promised to get the full support of Sri Lanka's sovereignty and security.
 
-விரைவான பொருளாதார முன்னேற்றத்தை அடைவதற்கான இலங்கையின் தொடர்ச்சியான முயற்சிகளை தேசிய பாதுகாப்பு ஆலோசகர் ஜேக் சலிவன் பாராட்டியுள்ளார்.
+He was speaking at a telephone discussion with the President's Senior Advisor to National Security yesterday.
 
-அத்தோடு, சர்வதேச நாணய நிதியத்துடனான வேலைத்திட்டத்தின் மூலம் சுட்டிக்காட்டப்பட்ட பொது நிதி, பணம் மற்றும் நிர்வாகம் ஆகிய துறைகளில் சீர்திருத்தங்களை மேற்கொள்வதன் முக்கியத்துவத்தையும் அவர் வலியுறுத்தினார் என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+A number of important issues have been discussed to strengthen bilateral relations between the two countries.
 
-எதிர்காலத்தில் பல்வேறு துறைகளில் இரு நாடுகளுக்கும் இடையிலான ஒத்துழைப்பை மேம்படுத்துவதற்கான வழிமுறைகள் மற்றும் வாய்ப்புகள் குறித்தும் விரிவாக ஆராயப்பட்டுள்ளது.
+National Security Advisor Jack Salivan has praised Sri Lanka's continued efforts to achieve rapid economic improvement.
 
-...
+He also emphasized the importance of reforming in public funds, money and administration, indicated by the International Monetary Fund program, the Presidential Media Division said.
+
+In the future, the mechanisms and opportunities to improve cooperation between the two countries have been extensively investigated.
+
+"We are working with Sri Lanka to improve peace and security in the region," the Presidential Media Division said.(a)
+
+◼️
 
 [Data](articles/823b904f.json)
+
+[Extended Data](ext_articles/823b904f.ext.json)
 
 ---
 
@@ -2153,33 +2203,5 @@ The seminar, attended by dignitaries including State Minister of Defence Pramith
 [Data](articles/aa661028.json)
 
 [Extended Data](ext_articles/aa661028.ext.json)
-
----
-
-### Tamils in the presidential election must prove democratic strength - Sabah Kukadas
-
-*2024-04-10 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/180868) · `ta`
-
-Sabah Kukadas emphasizes the need for Tamils to demonstrate democratic strength in the presidential election, highlighting the importance of unity and strategic decision-making to avoid chauvinism leading to racism.
-
-🟩
-
-Relo's leadership committee member Saba Kukadas said that after the war silence, the people's basic aspirations were not revealed for 15 years after the war.
-
-It is not easy to make a conclusion in other elections.
-
-In the past, the presidential elections have not been racially advantageous but they must unite in the aftermath of the war, but it is imperative that all political parties and civil organizations in the Tamil homeland must unite in the same site to implement this.
-
-The decisions of Tamils must be tactically beyond criticism that chauvinism can turn communalism into racism.
-
-Whatever the decisions of the Tamils in the past, the South has turned it into communalism, for example, the separatism is the reality of separatism.
-
-It is therefore stated that the aspirations of the ethnicity will be made in the international arena and the political liberation of the Tamil people in the international arena and the global regional conversation of the global regional countries.
-
-◼️
-
-[Data](articles/7cf4594c.json)
-
-[Extended Data](ext_articles/7cf4594c.ext.json)
 
 ---

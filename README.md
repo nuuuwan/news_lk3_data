@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 20:18:27**
+As of **2024-04-11 20:34:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,996
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,498 (100.0%) of 18,500 articles have been extended.
+18,500 (100.0%) of 18,500 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,11 +54,13 @@ He added that the details of the accident were still under investigation.
 
 [Data](articles/86e2f7db.json)
 
+[Extended Data](ext_articles/86e2f7db.ext.json)
+
 ---
 
 ### Three arrested with illegal goods in Katunayake
 
-*2024-04-11 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181000) · `ta`
+*2024-04-11 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/181000) · `ta`
 
 Three passengers from India and Dubai were arrested in Katunayake for smuggling 111 foreign liquor bottles, cigarettes, and computer devices without customs clearance.
 
@@ -2279,6 +2281,8 @@ I decided to become a model because I have a deep passion for fashion, creativit
 ...
 
 [Data](articles/6f9d8383.json)
+
+[Extended Data](ext_articles/6f9d8383.ext.json)
 
 ---
 

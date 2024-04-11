@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 12:03:50**
+As of **2024-04-11 12:18:24**
 
 ## Newspaper Stats
 
-*Scraped **18,447** Articles*
+*Scraped **18,449** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 1,018
 economynextcom | 1,029
 adalk | 1,549
 tamilmirrorlk | 2,156
-adaderanalk | 2,205
-virakesarilk | 2,744
+adaderanalk | 2,206
+virakesarilk | 2,745
 dailymirrorlk | 2,814
 adaderanasinhalalk | 2,987
 
@@ -26,79 +26,143 @@ adaderanasinhalalk | 2,987
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,443 (100.0%) of 18,447 articles have been extended.
+18,447 (100.0%) of 18,449 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### අම්මාට හොරෙන් බයිසිකල් පදින්න ගිය දරුවා දුම්රියේ ගැටෙයි
+### தமிழ் மக்களிற்கான உங்கள் தீர்வுகள் என்ன ? வெளிநாட்டு இராஜதந்திரிகள் முன்னிலையில் எழுத்தில் தெரிவியுங்கள் - பெரும்பான்மையின ஜனாதிபதி வேட்பாளர்களிற்கு விக்னேஸ்வரன் வேண்டுகோள்
 
-*2024-04-11 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195539) · `si`
+*2024-04-11 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180971) · `ta`
 
-මවට හොරෙන් රැගෙන ගිය පාපැදිය පදිමින් සිටි 9 හැවිරිදි දරුවෙක් මොරටුව මුරවත්ත දුම්රිය හරස් මාර්ගය අසලදී දුම්රියක ගැටී මිය ගොස් ඇතැයි මොරටුව මූලස්ථාන පොලීසිය පවසයි.
+பெரும்பான்மையினத்தை சேர்ந்த ஜனாதிபதி தேர்தல் வேட்பாளர்கள் தமிழ் மக்கள் எதிர்கொள்ளும் பிரச்சினைகளிற்கான தங்களின் தீர்வுகளை வெளிநாட்டு இராஜதந்திரிகள் முன்னிலையில் வெளிப்படுத்தவேண்டும் என நாடாளுமன்ற உறுப்பினர் சிவி விக்னேஸ்வரன் தெரிவித்துள்ளார்.
 
-අනතුරින් මියගොස් ඇත්තේ, මොරටුව මොරටුවැල්ල ක්ලෝවියස් මාවතේ, පදිංචිව සිටි මොරටුව ජන ජය විදුහලේ සිව්වන වසරේ ඉගෙනුම ලබමින් සිටි එම්. ආර්. රන්තරු නමැති දරුවාය.
+ஜனாதிபதி தேர்தலில் பெரும்பான்மை கட்சிகளின் சார்பில் போட்டியிடும் வேட்பாளர்கள் தமிழ் மக்களின் ஆதரவை பெறவிரும்பினால் தமிழ் மக்கள் எதிர்கொள்ளும் பிரச்சினைகளிற்கான தங்களின் தீர்வுகளை வெளிநாட்டு இராஜதந்திரிகள் முன்னிலையில் வெளிப்படுத்தவேண்டும் என அவர் தெரிவித்துள்ளார்.
 
-මියගිය දරුවා අලුත් ගාලු පාරේ සිට පාපැදිය පදවාගෙන යමින් සිටියදී දුම්රිය ධාවනය කිරීමට නියමිතව තිබී ඇති බැවින් දුම්රිය හරස් මාර්ගයේ ගේට්ටු වසා දමා තිබී ඇති අතර දරුවා දුම්රිය මාර්ගය අසල පාපැදිය නවතාගෙන සිට ඇතැයි පොලීසිය පවසයි.
+பெரும்பான்மையினத்தை சேர்ந்த வேட்பாளர்கள் தமிழ் மக்களின் ஆதரவை பெறவிரும்பினால் தங்களிடம்  தமிழ் மக்களின் பிரச்சினைகளிற்கு உள்ள தீர்வு என்னவென்பதை தெரிவிக்கவேண்டும் என வி;க்னேஸ்வரன் மோர்னிங்கிற்கு தெரிவித்துள்ளார்.
 
-එම අවස්ථාවේදී කොළඹ සිට ගාල්ල දෙසට ගමන් ගන්නා දුම්රිය ගමන් කර ඇති අතර හරස් ගේට්ටු විවෘත කිරීමට පෙර දරුවා සිය පාපැදිය දුම්රිය මාර්ගය හරහා පදවා ඇතැයි පොලීසිය සඳහන් කළේය.
-
-එම අවස්ථාවේදී ක්ෂණයකින් බෙලිඅත්ත සිට නුවර බලා ගමන් ගන්නා දුම්රිය ද අනෙක් දුම්රිය මාර්ගය ඔස්සේ ධාවනය වී ඇති අතර, එහිදී දරුවා ගමන් ගත් පාපැදියේ ගැටී ඇත.
-
-අනතුරින් දරුවා මීටර් 13ක් පමණ ඈතට විසිවී ගොස් ඇති අතර, දුම්රිය ඒ ආසන්නයේ නතර කර ඇතැයි පොලීසිය සිදුකළ විමර්ශනයේ දී අනාවරණය වී තිබේ.
+தாங்;கள் ஆட்சிக்கு வந்ததும் தமிழ் மக்களின் பிரச்சினைகளிற்கு தீர்வை காண்பதற்கு என்ன செய்வார்கள் என்பதை தெரிவிக்கின்ற துணிவு எவருக்காவது இருந்தால் நாங்கள் அந்த வேட்பாளருக்கு ஆதரவளிப்பது குறித்து சிந்திப்போம் என விக்னேஸ்வரன் தெரிவித்துள்ளார்.
 
 ...
 
-[Data](articles/cbe54df7.json)
+[Data](articles/0ef68130.json)
 
 ---
 
-### ලෝකෙම හෙල්ලූ බැංකු වංචාව - මුළු සොරකම ඩොලර් බිලියන 44ක්
+### Police open fire at defiant lorry transporting cattle; one injured
+
+*2024-04-11 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98571/police-open-fire-at-defiant-lorry-transporting-cattle-one-injured) · `en`
+
+The police have opened fire at a lorry transporting cattle after the driver defied the orders to stop in Kananke in the early hours of the day.
+
+One person who was inside the speeding vehicle was admitted to the Teaching Hospital in Karapitiya after sustaining gunshot wounds.
+
+Meanwhile, two others reportedly fled the scene as the police officers approached.
+
+The incident took place around 4.30 a.m. on Thursday (11) near the Kananke Raja Maha Viharaya after the police officers on night patrol duty observed cattle being loaded into the lorry.
+
+However, the driver had sped up when the officers signaled the vehicle to pull over. As the driver failed to comply with the orders, the police officers had opened fire at the vehicle, injuring one person.
+
+◼️
+
+[Data](articles/400d7bbc.json)
+
+---
+
+### Train collides his mother's bicycle riding
+
+*2024-04-11 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195539) · `si`
+
+A 9-year-old boy from Moratuwa Janatha Vidyalaya was fatally hit by a train at Moratuwa Mawatha. The train was traveling from Colombo to Galle and collided with the boy as he rode his bicycle near the railway crossing. The boy was thrown 13 meters away and died instantly.
+
+🟩
+
+A 9-year-old boy was hit by a train at Moratuwa Mawatha Mawatha.
+
+The deceased has been identified as Moratuwa, Moratuwa, Moratuwa, the fourth-year learning of the Moratuwa Janatha Vidyalaya. R. The child of Rantharu.
+
+The railway cross-crossed gates were closed down while the deceased was to be driven from the new Galle Road.
+
+The train traveling from Colombo to Galle has traveled and the child has driven through its bicycling line before opening cross gates.
+
+At that point, the travel train traveling to Kandy is also running along the other railway line and the child collided with the bay of the bay.
+
+The child has been thrown to 13 meters away, and the train has been suspended.
+
+The foot of the child has been separated and hospitalized, but the child was already dead.
+
+The child's plunge death test was held at the Panadura Base Hospital.
+
+◼️
+
+[Data](articles/cbe54df7.json)
+
+[Extended Data](ext_articles/cbe54df7.ext.json)
+
+---
+
+### The world's shake fraud - the entireft of $ 44 billion
 
 *2024-04-11 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195538) · `si`
 
-මෙම නඩු විභාගය සැලකෙන්නේ වියට්නාමයේ වැඩිම අවධානයක් දිනාගත් නඩුවක් ලෙසට ය.
+Vietnam's largest bank fraud trial, involving $44 billion, highlights the country's strong legal system despite communist rule. Accused are a wealthy woman and a 37-year-old businessman, with 2700 witnesses and 310 lawyers. The case involves 85 suspects, including the woman, who may face death sentences. The trial's commencement led to the deaths of two presidents and two deputy prime ministers, and legal action against over 100 officers.
 
-ඒ මෙහෙත්ක් ලොව සිදුකළ විශාලතම බැංකු වංචාවක් හා සම්බන්ධ නඩු විභාගයකි.
+🟩
 
-වියට්නාමය කොමියුනිස්ට් පාලනයක් යටතේ පවතියි. එබැවින් එහි දැඩි නීති ක්‍රියාත්මක වෙයි. කොමියුනිස්ට් රාජ්‍යයක් වුවද එරට වංචාව දූෂණය සමාජය වෙළාගෙන ඇති පිළිලයක් බව ජනතාව චෝදනා කරති.
+The trial is considered as a gaining case of Vietnam.
 
-එබැවින් මෙම බැංකු වංචාවට සම්බන්ධ සැකකරුවන්ට උපරිම දඬුවම් දීමටත් මෙම නඩුවට සුවිශේෂී මාධ්‍ය ප්‍රචාරයක් ලබා දීමටත් බලධාරීන් කටයුතු කරමින් සිටියි.
+It is a trial related to the largest bank fraud in the world.
 
-මෙම නඩුවේ ප්‍රධාන සැකකාරිය වන්නේ ධනවත් කාන්තාවකි. 67 හැවිරිදි Truong My Lan දේපොළ සංවර්ධන ව්‍යාපාර හිමි කාන්තාවකි.
+Vietnam is under Communist rule. So its stronger laws function. Although a communist state, the people accused the importance of corruption society.
 
-ඇයට එල්ලවී ඇති චෝදනාව වන්නේ වියට්නාමයේ විශාලතම බැංකුවක් ලෙස සැලකෙන සයිගොන් කොමර්ෂල් බැංකුවෙන් මුදල් වංචා කිරීමය.
+The authorities have also acted maximum punishment for suspects involved in this bank fraud.
 
-වසර 11ක් පුරා ඩොලර් බිලියන 44ක් වංචාකර ඇති බවට ඇයට එල්ලවී ඇති ප්‍රධාන චෝදනාවයි.
+The main suspect in this case is a wealthy woman. A 67-year-old is a 37-year-old Truna estate businessman.
 
-රජයේ නීතිඥයින් පවසන්නේ ඉන් ඩොලර් බිලියන 27ක් කිසිදිනෙක නැවත අය කරගැනීමට නොහැකිවීමට ඉඩ ඇති බවයි.
+Her accusation is to cheat with Syigong Commercial Bank, who is considered a largest bank in Vietnam.
 
-මෙම නඩුව සඳහා සාක්ෂිකරුවන් 2700ක් කැඳවා ඇති අතර රජයේ නීතිඥයින් 10ක් සහ තවත් නීතිඥයින් 200ක් මෙම නඩුවට සම්බන්ධය.
+The main accusation of her that she has been cheated on $ 44 billion over 11 years.
+
+State Counsel said they could never recover $ 27 billion.
+
+There are 2700 witnesses and 10 government lawyers and 200 other lawyers involved in this case.
+
+85 suspects including Truong My Lan, she and 13 others may be sentenced to death.
 
 ...
 
 [Data](articles/bb1b3f0b.json)
 
+[Extended Data](ext_articles/bb1b3f0b.ext.json)
+
 ---
 
-### ஜூலியன் அசஞ்சேயிற்கு எதிரான குற்றச்சாட்டுகளை கைவிட தயாராகின்றது அமெரிக்கா?
+### Is the United States ready to abandon the allegations against Julian Asngee?
 
 *2024-04-11 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180968) · `ta`
 
-விக்கிலீக்ஸ் இணை ஸ்தாபகர்  ஜூலியன் அசஞ்சேயிற்கு எதிராக குற்றச்சாட்டுகளை கைவிடவேண்டும் என்ற அவுஸ்திரேலியாவின் வேண்டுகோளை பரிசீலித்துவருவதாக அமெரிக்க ஜனாதிபதி ஜோபைடன் தெரிவித்துள்ளார்.
+US President Joe Bidan is considering Australia's request to drop allegations against Julian Asngee, a WikiLeaks co-founder. This decision could impact Bidan's presidential election.
 
-அமெரிக்காவின் இரகசிய தகவல்களை அம்பலப்படுத்தியமைக்காக விக்கிலீக்ஸ் இணை ஸ்தாபகருக்கு எதிராக வழக்கு தொடர்வது  குறித்து அமெரிக்கா கடந்த ஒரு தசாப்தகாலமாக தீவிரகவனம் செலுத்திவருகின்றது.
+🟩
 
-பிரிட்டனின் சிறையிலிருந்து அமெரிக்காவிற்கு நாடு கடத்தப்படுவதை எதிர்நோக்கியுள்ள அவுஸ்திரேலிய பிரஜையான ஜூலியன் அசஞ்சேயிற்கு எதிராக குற்றச்சாட்டுகளை சுமத்துவதை கைவிடவேண்டும் என அவுஸ்திரேலியாதொடர்ந்து வேண்டுகோள் விடுத்துவருகின்றது.
+US President Jobitton has said that he is considering Australia's request to abandon the allegations against WikiLeaks co -founder Julian Asngee.
 
-இந்த நிலையில் இதுகுறித்த கேள்வி;க்கு பதில் அளித்துள்ள ஜோ பைடன் அவுஸ்திரேலியாவின் வேண்டுகோளை பரிசீலித்து வருவதாக தெரிவித்துள்ளார்.
+The United States has been vigilant for the past decade over the exposure of US confidential information.
 
-பைடன் நிர்வாகம் ஜூலியன் அசஞ்சேயை விசாரணைக்கு உட்படுத்துவதை கைவிட தயாராகின்றது என்பதற்கான அறிகுறிகள் தொடர்ந்து வெளியாகிவருகின்றன எனினும் இது ஜனாதிபதி தேர்தலில் பைடனிற்கு பாதிப்பை ஏற்படுத்தலாம்.
+Australia continues to appeal to the abandonment of the allegations against the Australian citizen Julian Asngee, who is facing deportation from Britain's prison.
 
-...
+Responding to this, Joe Bidan said that Australia's request is being considered.
+
+Signs that Bitan administration is preparing to abandon Julian Asngee is constantly revealed, but this may affect Baidan in the presidential election.
+
+The Wolsrit Journal had reported a few days ago that Julian Asngee could be released in advance if he accepted the misrepresentation of confidential documents.
+
+◼️
 
 [Data](articles/3f7a628e.json)
+
+[Extended Data](ext_articles/3f7a628e.ext.json)
 
 ---
 
@@ -933,6 +997,8 @@ The official said that they have received intelligence on organised vendors who 
 ...
 
 [Data](articles/c1b51155.json)
+
+[Extended Data](ext_articles/c1b51155.ext.json)
 
 ---
 
@@ -2167,57 +2233,5 @@ There is also a separate angel for the air conditioner's air conditioning in 4,5
 [Data](articles/b1d22168.json)
 
 [Extended Data](ext_articles/b1d22168.ext.json)
-
----
-
-### Tax revenue from three institutions 3789 billion
-
-*2024-04-10 19:57:35* · [`adalk`](https://www.ada.lk/breaking_news/ආයතන-තුනකින්-අපේක්ෂිත-බදු-ආදායම-බිලියන-3789/11-409056) · `si`
-
-The Inland Revenue Department, Sri Lanka Customs, and SLASE expect Rs. 3,789 billion in tax revenue. In 2023, the Inland Revenue Department's estimated income is Rs. 1550 billion, and the Government of Sri Lanka Excise expects Rs. 2023 income. The Select Committee, chaired by Patali Champika Ranawaka, presented these figures to Parliament.
-
-🟩
-
-The Inland Revenue Department, Department of Inland Revenue, Sri Lanka Customs and Sri Lanka Excise Department (SLASE) expect the estimated Rs. 3,789 billion.
-
-The Inland Revenue Department has been calculated as the income of Rs.
-
-In 2023, the estimated income of the Inland Revenue Department expected Rs. 1550 billion in the year, only Rs.
-
-Although the estimated income expected of Rs.
-
-In addition, the Government of Sri Lanka Excise, 2023, an estimated income of Rs.
-
-The Select Committee presented to Parliament by the Chairman of the Committee and the Chairman of the Committee Patali Champika Ranawaka, which was presented to parliament.
-
-◼️
-
-[Data](articles/94fb13df.json)
-
-[Extended Data](ext_articles/94fb13df.ext.json)
-
----
-
-### Money prizes to Olympic athletic champions
-
-*2024-04-10 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195520) · `si`
-
-The World Athletics Federation will award cash prizes to Olympic athletic champions, starting with $50,000 for gold medalists from 2024, with silver and bronze medalists to receive prizes from 2028.
-
-🟩
-
-The World Athletics Federation has decided to offer prizes for players who win first places from the Olympic Games.
-
-The World Athletics Conference is a first sports conference on the Olympics winners.
-
-The plan is being implemented from the 2024 Olympic Games in Paris, France. Accordingly, a gold medal is owned by US $ 50,000.
-
-The silver and bronze medalists also offer cash prizes since 2028.
-
-◼️
-
-[Data](articles/108afa73.json)
-
-[Extended Data](ext_articles/108afa73.ext.json)
 
 ---

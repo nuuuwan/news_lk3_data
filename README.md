@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 10:34:04**
+As of **2024-04-11 10:51:44**
 
 ## Newspaper Stats
 
-*Scraped **18,428** Articles*
+*Scraped **18,432** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,124 @@ newsfirstlk | 363
 islandlk | 1,013
 dailyftlk | 1,018
 economynextcom | 1,027
-adalk | 1,547
+adalk | 1,548
 tamilmirrorlk | 2,156
 adaderanalk | 2,204
-virakesarilk | 2,740
-dailymirrorlk | 2,809
+virakesarilk | 2,742
+dailymirrorlk | 2,810
 adaderanasinhalalk | 2,983
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,426 (100.0%) of 18,428 articles have been extended.
+18,428 (100.0%) of 18,432 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### ටීම් 20ට තවත් අපරාධකරුවන් කොටුවෙයි
+### இணைய இணைப்பின் மூலமே கல்வி அமைச்சின் இணையத்தளம் மீது சைபர் தாக்குதல் : விசாரணை அறிக்கையை கையளிக்க நடவடிக்கை
+
+*2024-04-11 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180951) · `ta`
+
+கல்வி அமைச்சின் உத்தியோகபூர்வ இணையத்தளம் மீது மேற்கொள்ளப்பட்ட சைபர் தாக்குதல் தொடர்பான விசாரணை அறிக்கை இன்று வியாழக்கிழமை (11) கல்வி அமைச்சிடம் கையளிக்கப்படும் என இலங்கை கணினி அவசர நடவடிக்கை பிரிவு தெரிவித்துள்ளது.
+
+இணையத்தளத்தின் எதிர்கால பாதுகாப்பு தொடர்பான அனைத்து விபரங்களும் அறிக்கையில் உள்ளடங்கியுள்ளதாக இலங்கை கணினி அவசர நடவடிக்கை பிரிவின் சிரேஷ்ட தகவல் பாதுகாப்பு பொறியியலாளர் சாருக தமுனுபொல தெரிவித்துள்ளார்.
+
+இலங்கையில் உள்ள இணைய இணைப்பின் மூலமே  கல்வி அமைச்சின் உத்தியோகபூர்வ இணையத்தளத்தின் மீதான சைபர் தாக்குதல் மேற்கொள்ளப்பட்டுள்ளது.
+
+மேலும், இணையத்தளத்தின் காணப்படும் சில பலவீனம் காரணமாக சைபர் தாக்குதல் நடந்துள்ளதாகவும் எதிர்காலத்தில் இதுபோன்ற சம்பவங்கள் நடைபெறாமல் தடுப்பதற்கான பரிந்துரைகள் குறித்த அறிக்கையில் உள்ளதாகவும் அவர்  குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/ded26e97.json)
+
+---
+
+### நுங்கு வெட்ட பனையில் ஏறிய 3 பிள்ளைகளின் தந்தை கீழே விழுந்து உயிரிழப்பு - யாழில் சம்பவம்!
+
+*2024-04-11 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180955) · `ta`
+
+வெளிநாட்டில் இருந்து வந்தவர்களுக்கு நுங்கு வெட்ட பனை மரத்தில் ஏறி தவறி வீழ்ந்ததில் மூன்று பிள்ளைகளின் இளம் தந்தை பரிதாபமாக உயிரிழந்த சம்பவம் ஒன்று செவ்வாய்க்கிழமை (9) கைதடி பகுதியில் இடம் இடம்பெற்றுள்ளது.
+
+வெளிநாட்டில் இருந்து வந்தவர்களுக்கு நுங்கு வெட்டிக்கொடுக்க பனை மரத்தில் ஏறிய போது தவறி வீழ்ந்து படுகாயமடைந்த நிலையில் சாவகச்சேரி வைத்திய சாலைக்கு கொண்டு செல்லும் வழியில் குறித்த நபர் உயிரிழந்துள்ளார்.
+
+சம்பவத்தில் கைதடி பகுதியைச் சேர்ந்த மூன்று பிள்ளைகளின் தந்தையான செல்வராசா கேதீஸ்வரன் வயது 41 என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+பிரேத பரிசோதனையின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டுள்ளது. மேலதிக விசாரணைகளை சாவகச்சேரி பொலிஸார் மேற்கொண்டு வருகின்றனர்
+
+◼️
+
+[Data](articles/011b9eac.json)
+
+---
+
+### 23 year old youth ends up having his testicles removed
+
+*2024-04-11 10:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/23-year-old-youth-ends-up-having-his-testicles-removed/108-280618) · `en`
+
+Medawachchiya, April 11 (Daily Mirror)- The testicles of a young man had been removed yesterday at the Anuradhapura Teaching Hospital allegedly as a result of a police assault. He is under treatment at present after the surgery on Tuesday (9).
+
+It is alleged that six officers of the Medawachchiya police had trussed up his hands and brutally assaulted him. The 23 year old victim a resident of Thulawellia area in Medawachchiya.
+
+He told the media that he was driving his mini- lorry after repairs with another on board and that he passed the traffic check point and proceeded to a distance of about a kilometer when a police motorcycle overtook and obstructed their way and ordered them to halt.
+
+...
+
+[Data](articles/5d965e80.json)
+
+---
+
+### More criminals fall into Tamans 20
 
 *2024-04-11 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195535) · `si`
 
-සංවිධානාත්මක අපරාධ මැඩ පැවැත්වීම සඳහා මාර්තු මස 19 වනදා සිට පොලිස් කණ්ඩායම් 20ක් යොදවා ආරම්භ කළ මෙහෙයුම තවදුරටත් ක්‍රියාත්මක වෙයි.
+"Operation Tamans 20, led by 20 police teams, arrested 13 criminals, including 6 from organized crime, in Kalutara and Western Province. The Police Media Division announced the arrests."
 
-එම කණ්ඩායම් විසින් සංවිධානාත්තමක අපරාධ කල්ලි සාමාජිකයින් 6 දෙනෙක් සහ තවත්ත සැකකරුවන් 7 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව පොලිස් මාධ්‍ය කොට්ඨාසය නිවේදනය කරයි.
+🟩
 
-එම පුද්ගලයින්ව කළුතර, ගාල්ල, බස්නාහිර පළාත (දකුණ) හා බස්නාහිර පළාත (උතුර) යන අපරාධ කොට්ඨාසවල නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇත.
+The operation operated by 20 police teams to suppress organized crime.
+
+The Police Media Division announced that six members of the organizational crime and seven suspects have been arrested by the group.
+
+The people have been arrested by the Kalutara, Western Province (South) and the Western Province (North).
 
 ◼️
 
 [Data](articles/4b12b153.json)
 
+[Extended Data](ext_articles/4b12b153.ext.json)
+
 ---
 
-### මරදානේ නිවසකින් සඟවා තිබූ අවි ආයුධ සොයා ගැනේ
+### Weapons found hidden from a house in Maradana
 
 *2024-04-11 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195534) · `si`
 
-මරදාන, ලොක්ගේට්ලේන් ප්‍රදේශයේ නිවසක තිබී T-56 වර්ගයේ ගිනිඅවියක්, ජීව උණ්ඩ 14ක් සහිත මැගසිනයක් ඇතුළු අවි ආයුධ සමඟ පුද්ගලයින් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+In Maradana, three individuals were arrested with a T-56 rifle and 14 live bullets, suspected of hiding weapons to target opposing groups. The suspects, aged 18, 34, and 47, were handed over to the Maradana Police Station for further investigation.
 
-සංවිධානාත්මක අපරාධ කල්ලි දෙකක් අතර හටගෙන ඇති ගැටුම්කාරී තත්ත්වයක් මත ප්‍රතිවිරුද්ධ කණ්ඩායම්වල සාමාජිකයින් ඝාතනය කිරීම සඳහා අවිආයුධ මෙම ස්ථානයේ සඟවා ඇති බවට බුද්ධි තොරතුරු මඟින් අනාවරණ වී තිබිණි.
+🟩
 
-යුක්තිය මෙහෙයුමට සමගාමීව විශේෂ කාර්ය බළකා බුද්ධි කොට්ඨාසයේ නිලධාරීන් මරදාන, ලොක්ගේට්ලේන් ප්‍රදේශයේ ශ්‍රී බෝධිරාජාරාමය විහාරස්ථානය පිටුපස නිවසක ඊයේ (10) වැටලීමක් සිදුකළේය.
+Three people have been arrested by T-56 rifle with 14 live bullets, including a house with 14 live bullets in Maradana.
 
-එහිදී නිවසේ වහලයේ පිටුපස කොටසේ ගමන්මල්ලක බහා තිබූ T-56 වර්ගයේ ස්වයංක්‍රීය ගිනිඅවියක්, ජීව උණ්ඩ 14ක් සහිත මැගසිනයක්, කඩුවක් සහ කිනිස්සක්ද ඇතුළුව තියුණු ආයුධ සමඟ පුද්ගලයින් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Intelligence revealed that the LTTE was hidden in this place to kill members of the opposing groups between two organized criminal gangs.
 
-සැකකරුවන් මරදාන ප්‍රදේශයේ පදිංචි අවුරුදු 18, 34, 47 යන වයස්වල පසුවන්නන්ය.
+The officers of the Special Task Force (STF intelligence officers in the Bodhirajarama area in Lock Bodhirajarai) were raided yesterday in parallel to justice.
 
-...
+There are three persons with a T-56 type of automatic firearm, including 14 live bullets, including 14 live bullets, including 14 live bullets in the back of the house.
+
+The suspects are aged 18, 34, 47 years in the Maradana area.
+
+According to intelligence information, the arms were hidden in the area to kill members of the contradictory groups in Maradana LockGatlene and two organized crime clients in Keselwatta area.
+
+The suspects have been handed over to the Maradana Police Station for further investigations.
+
+◼️
 
 [Data](articles/f839db2b.json)
+
+[Extended Data](ext_articles/f839db2b.ext.json)
 
 ---
 
@@ -1752,6 +1820,22 @@ Asked whether the announcement would violate the Olympic spirit, Coe was clear. 
 
 ---
 
+### ශ්‍රී ලංකන් වෙත නවීනතම බස් රථ තුනක්
+
+*2024-04-10 20:02:17* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකන්-වෙත-නවීනතම-බස්-රථ-තුනක්/11-409057) · `si`
+
+කටුනායක ගුවන් තොටුපොළේ සිට ගුවන් යානය වෙතත් , ගුවන් යානයේ සිට ගුවන් තොටුපොළ වෙතත් ගුවන් මගීන් ප්‍රවාහනය කිරීම සදහා නවීනතම බස් රථ තුනක් ,  ශ්‍රී ලන්කන් ගුවන් සේවයේ භූමි පාලන අංශයට පවරා දීමේ උත්සවයක් ඊයේ(10දා) ශ්‍රී ලන්කන් ගුවන් යානා පරිශ්‍රයේ දී පැවැත්විණ .
+
+වසර 05 ක පමණ කාලයක සිට දැඩි අවශ්‍යතාවක් බවට පත්ව තිබූ බස් රථ ඊයේ(10දා) සිට කටුනායක ගුවන් තොටුපොළ තුළ සේවයට එක් කර තිබේ .
+
+කටුනායක ගුවන් තොටුපොළ අවශ්‍යතාවලටම පමණක් ගැලපෙන පරිදි එහි ගුවන් මගී සේවා කවුළු සහ ආගමන විගමන කවුළුවලට 100% ක් ම ගැලපෙන ආකාරයට මීටර් 14 ක් දිගකින් සහ මීටර් 2.7 ක පළලකින් යුතු මෙම බස් රථ  චීනයේ චයිනා ඉන්ටර්නැෂනල් මරීන් කන්ටේනර් සමාගම විසින් නිෂ්පාදනය කර තිබේ .
+
+...
+
+[Data](articles/b1d22168.json)
+
+---
+
 ### Tax revenue from three institutions 3789 billion
 
 *2024-04-10 19:57:35* · [`adalk`](https://www.ada.lk/breaking_news/ආයතන-තුනකින්-අපේක්ෂිත-බදු-ආදායම-බිලියන-3789/11-409056) · `si`
@@ -2103,109 +2187,5 @@ The ritual of the National Balawele, a New Year's Ritual, is on April 15, 2024.
 [Data](articles/6ac675dd.json)
 
 [Extended Data](ext_articles/6ac675dd.ext.json)
-
----
-
-### The beginning of registering foreign players in the Lanka Premier League
-
-*2024-04-10 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180934) · `ta`
-
-Sri Lanka Cricket has started registering foreign players for the 5th Lanka Premier League, with categories for national and non-national players. Nationals include those with Test, ODI, or T20 experience, while non-nationals are first-grade or professional R20 players. Former Sri Lankan players in international T20s can also register. The tournament runs from July 1 to 21.
-
-🟩
-
-Sri Lanka Cricket has announced that it has begun registration of foreign players to mark the fifth chapter of the Lanka Premier League.
-
-Foreign players who wish to play in this year's Lanka Premier League Cricket can be recorded on the parallel facade https://srilankacricket.lk/lpl-playerregistration-portal/. There are two categories of which. One is the registration for national players. The other is a record for non -national players.
-
-At least one match in Test cricket, international ODI or international T20 cricket will be considered national players.
-
-Those who play in the first grade cricket or professional R20 cricket are considered non -national players.
-
-Meanwhile, there is an internet home to register for former Sri Lankan players playing in the International Cricket Council, playing in the vocational T20 matches, which have a full -fledged or parallel member.
-
-...
-
-[Data](articles/f6c35a91.json)
-
-[Extended Data](ext_articles/f6c35a91.ext.json)
-
----
-
-### Mendis, Mathews move up in ICC Test Rankings
-
-*2024-04-10 17:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mendis-Mathews-move-up-in-ICC-Test-Rankings/108-280567) · `en`
-
-Apr. 10 (ICC) - Sri Lanka all-rounder Kamindu Mendis and former Captain Angelo Mathews have progressed in the ICC Men’s Test Player Rankings after contributing to their team’s 192-run victory in Chattogram that helped complete a 2-0 win in the ICC World Test Championship series against Bangladesh.
-
-Kamindu’s scores of 92 not out and nine have lifted him 18 places to 46th position in the batters’ list while his three-wicket haul in the second innings sees him gain 46 slots and reach 117th position among bowlers.
-
-Mathews, who enjoyed a career-high third rank in August 2014, has increased two places to 25th after scores of 23 and 56. In what is another notable movement for a Sri Lankan batter, Kusal Mendis has progressed three places to 52nd after scoring 93 in the first innings.
-
-...
-
-[Data](articles/a4ceede9.json)
-
-[Extended Data](ext_articles/a4ceede9.ext.json)
-
----
-
-### Special number of prisoners for prison prisoners
-
-*2024-04-10 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195517) · `si`
-
-For Sinhala and Hindu New Year 2024, the President offers special amnesty for prisoners under Section 34 (1) of the Constitution. This includes:
-
-- A year's remission for prisoners punished by 404.14.13.2011.
-
-- Abolition of punishment for prisoners by 23.04.2012 for non-financial crimes.
-
-- Abolition of fines for prisoners over 65 who have paid at least half their fines.
-
-- Immediate fines abolition for prisoners after 40 years in prison since 23.04.2013.
-
-- Rehabilitation for drug offenders under the Birm Institute, supervised by a Community Corporate Officer.
-
-- Exclusion from amnesty for serious offenses.
-
-- Release from all prisons for eligible prisoners.
-
-🟩
-
-For the Sinhala and Hindu New Year of April 2024, the President offers a special country for prisoned prisoners depending on the powers vested in Section 34 (1) of the Constitution.
-
-Accordingly, these common parks have been awarded to prisoners under the terms and conditions as follows.
-
-* A year after a yearly prisoners who are punished by 404.14.13.2011, awarding a whole year.
-
-• Abolition of punishment of prisoners in prison by 23.04.2012 due to non-fines.
-
-* Abolition of the forward balance of prisoners who have exceeded 65 years of age, which has been paid at least half or more than 23rd.120s.
-
-* After 40 years of prison in jail after 23.04.2013, the abolition of the immediate balance of prisoners.
-
-...
-
-[Data](articles/8f0aa620.json)
-
-[Extended Data](ext_articles/8f0aa620.ext.json)
-
----
-
-### Indian Ocean peace is our priority at present: SLAF chief
-
-*2024-04-10 17:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-Ocean-peace-is-our-priority-at-present-SLAF-chief/108-280565) · `en`
-
-Colombo, April 10 (Daily Mirror) - Sri Lanka Air Force (SLAF) today emphasized its commitment to maintaining peace in the Indian Ocean region, despite the absence of immediate terrorist threats within Sri Lanka.
-
-Air Force Commander Air Marshal Udeni Rajapaksa said the SLAF is very much worried about the civilians, weaponizers and providing free navigation for naval craft in the Indian Ocean and that they need to address those issues.
-
-In response to a media query the necessity of maintaining fighter jets like Kfir and F7 in the SLAF's fleet, the Commander explained that while they don't currently see an immediate need to phase out such jets, they are focusing on serviceability and plan to upgrade the existing five Kfir jets, by the first half of next year.
-
-...
-
-[Data](articles/8b11a010.json)
-
-[Extended Data](ext_articles/8b11a010.ext.json)
 
 ---

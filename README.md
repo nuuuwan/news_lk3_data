@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 14:51:19**
+As of **2024-04-11 15:03:17**
 
 ## Newspaper Stats
 
-*Scraped **18,469** Articles*
+*Scraped **18,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,013
 dailyftlk | 1,018
 economynextcom | 1,034
 adalk | 1,549
-tamilmirrorlk | 2,156
+tamilmirrorlk | 2,158
 adaderanalk | 2,209
 virakesarilk | 2,750
 dailymirrorlk | 2,818
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,989
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,467 (100.0%) of 18,469 articles have been extended.
+18,469 (100.0%) of 18,471 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ He said the vegetable prices, which increased rapidly about a month ago and the 
 
 [Data](articles/6a078013.json)
 
+[Extended Data](ext_articles/6a078013.ext.json)
+
 ---
 
 ### Japan extends grant to strengthen facilities at BIA and Colombo Port
@@ -63,6 +65,8 @@ Under this initiative, BIA and Colombo Port are set to receive cutting-edge equi
 ...
 
 [Data](articles/b9c32c54.json)
+
+[Extended Data](ext_articles/b9c32c54.ext.json)
 
 ---
 
@@ -930,6 +934,24 @@ Tracking groups will excel in vehicles carrying liquor for relaxing purpose.
 
 ---
 
+### 2 நாட்களும் விசேட நடவடிக்கை: கலால்
+
+*2024-04-11 09:48:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-நாட்களும்-விசேட-நடவடிக்கை-கலால்/175-335847) · `ta`
+
+சட்டவிரோதமாக மதுபானம் விற்பனை செய்பவர்களை இலக்கு வைத்து கொழும்பில் இரண்டு பண்டிகைக் கால நாட்களில் விசேட நடவடிக்கையொன்றை முன்னெடுக்கவும், சிங்கள மற்றும் தமிழ் புத்தாண்டுக் காலத்தில் சட்டத்தை கடுமையாக நடைமுறைப்படுத்தவும் கலால் திணைக்களம் திட்டமிட்டுள்ளது.
+
+கெஸ்பேவ, பாதுக்க, பத்தரமுல்ல மற்றும் கொழும்பு நகரில் உள்ள நான்கு பிரதான கலால் நிலையங்களுடன் இணைந்து கூட்டு நடவடிக்கை ஏற்பாடு செய்யப்பட்டுள்ளதாக கொழும்பு நகரை மேற்பார்வையிடும் உயர் கலால் அதிகாரி ஒருவர் டெய்லி மிரருக்கு நேற்று தெரிவித்தார்.
+
+இதன் விளைவாக ஏப்ரல் 12 மற்றும் 13 ஆம் திகதிகளில் கலால் கட்டளைகளை மீறி மதுபானங்களை விற்பனை செய்யும் சட்டத்தை மீறுபவர்களைத் தேடி 50 க்கும் மேற்பட்ட அதிகாரிகள் பல குழுக்களாக நியமிக்கப்பட்டுள்ளனர்.
+
+புத்தாண்டுக்கு முன்னதாக மதுபானங்களை அதிக அளவில் கையிருப்பில் வாங்கி, கறுப்புச் சந்தையில் அதிக விலைக்கு விற்கும் ஒழுங்கமைக்கப்பட்ட விற்பனையாளர்கள் குறித்து தங்களுக்கு உளவுத்துறை தகவல் கிடைத்துள்ளது என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/b981d574.json)
+
+---
+
 ### Celebrity Mridanga Vidhuvan has passed away!
 
 *2024-04-11 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180949) · `ta`
@@ -981,6 +1003,28 @@ Rainfall or thunderstorms are expected in many parts of the sea regions from Put
 [Data](articles/30b532d1.json)
 
 [Extended Data](ext_articles/30b532d1.ext.json)
+
+---
+
+### பிற்பகலுக்குப் பின்னர் இடியுடன் மழை பெய்யும்
+
+*2024-04-11 09:41:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிற்பகலுக்குப்-பின்னர்-இடியுடன்-மழை-பெய்யும்/175-335846) · `ta`
+
+வடக்கு, வடமேல்,மேல் மற்றும்  சப்ரகமுவ மாகாணங்களிலும் அத்துடன் அனுராதபுரம், காலி மற்றும் மாத்தறை  மாவட்டங்களிலும்  இன்று அதிகரித்த வெப்பநிலை காணப்படுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+சூரியனின் வடக்கு நோக்கிய நகர்வின் காரணமாக இன்று மதியம் சுமார் 12.11 மணியளவில் வத்தலன்குண்டு, மதவாச்சி, கொரவப்பொத்தான மற்றும் திருகோணமலை   போன்ற இடங்களுக்கு மேலாக சூரியன் உச்சம் கொடுக்கின்றது.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் ஹம்பாந்தோட்டை மாவட்டத்திலும் அடிக்கடி மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+நாட்டின் ஏனைய பிரதேசங்களின் பல இடங்களில் பிற்பகல் ஒரு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+மத்திய, சப்ரகமுவ, மேல் மற்றும் தென் மாகாணங்களின் சில இடங்களில் 100 மில்லிமீற்றரிலும் கூடிய  பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+
+பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக் கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு  கேட்டுக்கொள்ளப்படுகின்றனர்.
+
+...
+
+[Data](articles/b3abaf3e.json)
 
 ---
 
@@ -2169,49 +2213,5 @@ Old Peteries won the Milroy Perera Memorial Bowl for the third consecutive time 
 [Data](articles/379f5397.json)
 
 [Extended Data](ext_articles/379f5397.ext.json)
-
----
-
-### 2024-04-10 (Wednesday)
-
-### “Wasath Siriya 2024”: State Sinhala & Tamil New Year festival on April 27
-
-*2024-04-10 23:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98563/wasath-siriya-2024-state-sinhala-tamil-new-year-festival-on-april-27) · `en`
-
-The “Wasath Siriya 2024” celebration for the Sinhala and Tamil New Year will take place on 27 April (Saturday) at Shangri-La Green, Galle Face, Colombo.
-
-This event, organized by the Welfare Society of the Presidential Secretariat along with other ministries, will be held from 7.00 a.m. to 5.00 p.m. with a number of New Year games and competitions.
-
-The festivities will continue with the “Wasath Siriya- Miyasi musical concert”, which will commence at 7:00 pm at the venue with the participation of famous singers.
-
-The competitions have been divided into three sections, namely State Section, Open Section, and Guest Section, and feature a total of 11 competitions for both men and women. These competitions are open to the staff members of ministries and government institutions, their family members, friends, and children.
-
-...
-
-[Data](articles/7ed404f9.json)
-
-[Extended Data](ext_articles/7ed404f9.ext.json)
-
----
-
-### New Year's event of the Ministry of Defense
-
-*2024-04-10 23:41:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-அமைச்சின்-புத்தாண்டு-நிகழ்வு/175-335844) · `ta`
-
-President Ranil Wickremesinghe attended the Tamil Sinhala New Year event at the Defense Army Headquarters, where traditional games and cultural events were celebrated. Secretary Kamal Gunaratne, from the Ministry of Health, was welcomed by the Defense Ministry's Kamal Gunaratne and presented gifts to the New Year's beauty competition winners.
-
-🟩
-
-President Ranil Wickremesinghe participated in the Tamil Sinhala New Year event organized by the Defense Ministry's Welfare Division at the Defense Army Headquarters Complex in Battaramulla yesterday.
-
-The New Year celebration, organized by the customs, includes many traditional games and the cultural events of the Ministry of Defense.
-
-Secretary of the Ministry of Health (Retirement) Kamal Gunaratne was welcomed by the President of the Ministry of Defense Kamal Gunaratne and presented the President's gifts to the winners of the New Year's beauty competition.. (A)
-
-◼️
-
-[Data](articles/46500986.json)
-
-[Extended Data](ext_articles/46500986.ext.json)
 
 ---

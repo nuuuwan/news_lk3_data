@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 08:18:14**
+As of **2024-04-11 08:33:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,977
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,407 (100.0%) of 18,410 articles have been extended.
+18,410 (100.0%) of 18,410 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Haniyeh said Hamas would not cave to the pressure leveled by the strike on his f
 ...
 
 [Data](articles/0843fec2.json)
+
+[Extended Data](ext_articles/0843fec2.ext.json)
 
 ---
 
@@ -69,6 +71,8 @@ The nearest areas of Sri Lanka over which the sun is overhead today (11th) are B
 ◼️
 
 [Data](articles/ed4f925a.json)
+
+[Extended Data](ext_articles/ed4f925a.ext.json)
 
 ---
 
@@ -1386,21 +1390,35 @@ The silver and bronze medalists also offer cash prizes since 2028.
 
 ---
 
-### අවුරුදු 9 දරුවා දුම්රියට බිලි
+### 9 year old son
 
 *2024-04-10 19:52:27* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-9-දරුවා-දුම්රියට-බිලි/11-409055) · `si`
 
-විනෝදයට පාපැදියක් පදිමින් සිටි 9 හැවිරිදි  දරුවෙක් මොරටුව මුරවත්ත දුම්රිය හරස් මාර්ගය අසලදී දුම්රියක ගැටී මිය ගොස් ඇතැයි මොරටුව මූලස්ථාන පොලිසිය කියයි
+A 9-year-old boy was killed by a train near Moratuwa Railway Cross road. The child was cycling and crossed the railway line before the gates could be closed. The accident occurred as the train was traveling from Colombo to Galle. The boy's left foot was severely injured. Despite being taken to Panadura Base Hospital, the child died.
 
-අනතුරින් මියගොස් ඇත්තේ මොරටුව මොරටුවැල්ල ක්ලෝවියස් මාවතේ  අංක 64/බි  ලිපිනයේ පදිංචිව සිටි මොරටුව ජන ජය විදුහලේ සිව්වන වසරේ ඉගෙනුම ලබමින් සිටි එම් ආර්  රන්තරු නමැති දරුවාය
+🟩
 
-මියගිය දරුවා  අලුත් ගාලු පාරේ සිට  පාපැදිය පදවාගෙන යමින් සිටියදී දුම්රිය ධාවනය  කිරීමට නියමිතව තිබි ඇති බැවින් දුම්රිය හරස් මාර්ගයේ ගේට්ටු වසා දමා තිබී ඇති අතර   දරුවා දුම්රිය මාර්ගය අසල පාපැදිය නවතාගෙන සිට ඇතැයි පොලිසිය කියයි
+Moratuwa headqueso police say that a cycling is driving a train near Moratuwa Railway Cross road
 
-එම අවස්ථාවේදී  කොළඹ සිට ගාල්ල දෙසට ගමන් ගන්නා දුම්රිය ගමන් කර ඇති අතර හරස් ගේට්ටු විවෘත කිරීමට පෙර    දරුවා සිය පාපැදිය දුම්රිය මාර්ගය හරහා පදවා ඇතැයි පොලිසිය කියයි
+The deceased has been identified as MR Ranthanrasu, Moratuwa, Moratuwa, Moratuwa, Moratuwa, Moratuwa, Moratuwa, Moratuwa.
+
+The railway cross-crossed gates were to be saved from the new Galle Road to the bicycle.
+
+The train traveling from Colombo to Galle has traveled and the child has driven through the railway line before opening cross gates
+
+Police investigations revealed that when the child was traveling through the railway line at the time of the railway line while operating across the railway line while operating through the railway line, police investigations have revealed that the child is about 13 meters away.has
+
+Police say a child's left foot has been severely injured in the accident
+
+Residents of the area visated with the hospital with a danger and the child had visited the Panadura Base Hospital, but the child had already died
+
+Moratuwa Moratuwa was held at the Panadura Base Hospital
 
 ...
 
 [Data](articles/907aa09a.json)
+
+[Extended Data](ext_articles/907aa09a.ext.json)
 
 ---
 

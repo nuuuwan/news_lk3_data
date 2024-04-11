@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 01:03:30**
+As of **2024-04-12 01:18:11**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,523 (100.0%) of 18,524 articles have been extended.
+18,524 (100.0%) of 18,524 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### மேலும் சில பொருட்களின் விலைகள் குறைப்பு
+### A reduction in prices of some more goods
 
 *2024-04-12 00:44:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-சில-பொருட்களின்-விலைகள்-குறைப்பு/175-335871) · `ta`
 
-புதுவருடப் பிறப்பை முன்னிட்டு அத்தியாவசிய உணவுப் பொருள்கள் சிலவற்றின் விலைகளை குறைப்பதற்கு லங்கா சதொச தீர்மானித்துள்ளது.
+Lanka Sathosa reduces prices of essential food items, including Vailai green rice to 185 rupees and Wheat mango to 125 rupees, ahead of New Year.
 
-இதற்கமைய, 189 ரூபாவுக்கு விற்பனை செய்யப்பட்ட வௌ்ளை பச்சை அரிசி ஒரு கிலோ கிராம் 4 ரூபாவால் குறைக்கப்பட்டுள்ளதுடன், அதன் புதிய விலை 185 ரூபாவாகும்.
+🟩
 
-கோதுமை மா ஒரு கிலோ கிராம் 7 ரூபாவால் குறைக்கப்பட்டுள்ளதுடன், நெத்தலி ஒரு கிலோகிராம் 125 ரூபாவால் குறைக்கப்பட்டுள்ளது. (a)
+Lanka Sathosa has decided to reduce the prices of some of the essential food items ahead of the New Year's birth.
+
+Accordingly, the Vailai green rice sold for 189 rupees has been reduced by 4 rupees and its new price is 185 rupees.
+
+Wheat mango has been reduced by 7 rupees and reduced by 125 rupees of Netali. (A)
 
 ◼️
 
 [Data](articles/221dd616.json)
+
+[Extended Data](ext_articles/221dd616.ext.json)
 
 ---
 

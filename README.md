@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 13:53:22**
+As of **2024-04-11 14:05:24**
 
 ## Newspaper Stats
 
-*Scraped **18,458** Articles*
+*Scraped **18,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ dailyftlk | 1,018
 economynextcom | 1,033
 adalk | 1,549
 tamilmirrorlk | 2,156
-adaderanalk | 2,207
-virakesarilk | 2,747
-dailymirrorlk | 2,815
-adaderanasinhalalk | 2,987
+adaderanalk | 2,208
+virakesarilk | 2,749
+dailymirrorlk | 2,816
+adaderanasinhalalk | 2,988
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,454 (100.0%) of 18,458 articles have been extended.
+18,458 (100.0%) of 18,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### Vietnamese tycoon accused in multi-billion dollar bank fraud faces possible death sentence
+
+*2024-04-11 13:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98573/vietnamese-tycoon-accused-in-multi-billion-dollar-bank-fraud-faces-possible-death-sentence) · `en`
+
+(BBC) – It is the most spectacular trial ever held in Vietnam, befitting one of the greatest bank frauds the world has ever seen.
+
+Behind the stately yellow portico of the colonial-era courthouse in Ho Chi Minh City, a 67-year-old property developer stands accused of looting one of Vietnam’s largest banks over a period of 11 years.
+
+The numbers involved are dizzying. Truong My Lan is charged with taking out $44bn (£35bn) in loans from the Saigon Commercial Bank. Prosecutors say $27bn may never be recovered.
+
+The habitually secretive communist authorities have been uncharacteristically forthright about this case, going into minute detail for the media. They say they have summoned 2,700 people to testify. There are 10 state prosecutors and around 200 lawyers involved.
+
+The evidence is in 104 boxes weighing a total of six tonnes. Eighty-five defendants are on trial with Truong My Lan, who denies the charges. She and 13 others face a possible death sentence.
+
+...
+
+[Data](articles/646e1f2f.json)
+
+---
+
+### මියන්මාර ත්‍රස්ත ග්‍රහණයේ සිටි ශ්‍රී ලාංකිකයින්ව මුදා ගැනේ
+
+*2024-04-11 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195540) · `si`
+
+මියන්මාරයේ, මියාවාඩි හී සයිබර් ත්‍රස්ත කණ්ඩායම් ග්‍රහණයේ සිට මුදාගනු ලැබු
+
+ශ්‍රී ලාංකිකයින් 08 දෙනා තායිලන්තයේ මෙරට තානාපති කාර්යාලය වෙත භාරදී ඇති බව මියන්මාරයේ ශ්‍රී ලංකා තානාපති ජානක බණ්ඩාර මහතා පවසයි.
+
+ඔවුන් ඉදිරි දින කිහිපයේදී ශ්‍රී ලංකාව වෙත පැමිණීමට නියමිත බව තනාපතිවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+අද උදෑසන මියන්මාරයේ ආගමන විගමන නිලධාරීන් විසින් මියන්මාරයේ තායිලන්ත මිත්‍රත්ව පාලම හරහා මෙම පිරිස භාරදුන් බව ද ඒ මහතා පැවසීය.
+
+ඒ අනුව අදාළ ශ්‍රී ලාංකිකයින් පිරිස මේ වනවිට යහපත් සෞඛ්‍ය තත්ත්වයෙන් තායිලන්තයේ ශ්‍රී ලංකා තානාපති කාර්යාලයේ සිටින බවත් ඔවුන්ව ඉදිරි දින කිහිපයේ දී ලංකාවට එවීමට කටයුතු කරන බවත් ඒ මහතා පැවසීය.
+
+◼️
+
+[Data](articles/a8801b0d.json)
+
+---
+
+### நீண்டதூர பஸ் சேவைகள் இன்மையால் கடும் போக்குவரத்து நெரிசல்!
+
+*2024-04-11 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180974) · `ta`
+
+புத்தாண்டுக் காலத்தை முன்னிட்டு சொந்த ஊர்களுக்குச் செல்லும் மக்களுக்குத் தேவையான வசதிகளை ஏற்படுத்திக் கொடுப்பதற்காக நேற்று புதன்கிழமை (10) முதல் விசேட பொதுப் போக்குவரத்து சேவைகள் முன்னெடுக்கப்பட்டுள்ளன.
+
+விசேட போக்குவரத்து சேவைகளை முன்னேடுத்த போதிலும்  இன்று காலையில் முறையான போக்குவரத்து வசதிகள் இல்லாமையினால் மக்கள் கடும் சிரமத்திற்கு உள்ளாகியுள்ளனர்.
+
+இலங்கை போக்குவரத்து சபை 1,400 பஸ்களை சேவையில் ஈடுபடுத்தியுள்ளதுடன், தேவையான அளவு மேலதிக பஸ்களை  சேவையில் ஈடுபடுத்துவதற்கு நடவடிக்கை எடுக்கப்படும் என தேசிய போக்குவரத்து சபை தெரிவித்துள்ளது.
+
+எனினும் நேற்றிரவு புறக்கோட்டை  பஸ்டியன் மாவத்தை மற்றும் மத்திய பஸ் நிலையம் ஆகிய இடங்களுக்கு சென்ற பயணிகளிற்கு  நீண்ட தூர பஸ் சேவைகள் இன்மையினால் சிரமத்திற்குள்ளாகியுள்ளனர்.
+
+◼️
+
+[Data](articles/a489c074.json)
+
+---
 
 ### Activist complains to Sri Lanka bribery commission on election deposit increase
 
@@ -50,6 +108,46 @@ Thushara also criticised the Commissioner of Elections for his support for the d
 
 [Data](articles/ef2b36f1.json)
 
+[Extended Data](ext_articles/ef2b36f1.ext.json)
+
+---
+
+### Sri Lanka shows signs of recovery but must maintain reform momentum: ADB
+
+*2024-04-11 13:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-shows-signs-of-recovery-but-must-maintain-reform-momentum-ADB/108-280626) · `en`
+
+COLOMBO, April 11- The Asian Development Bank’s (ADB) annual flagship economic publication, the Asian Development Outlook (ADO) April 2024, forecasts Sri Lanka’s economy to record moderate growth of 1.9% in 2024 and 2.5% in 2025 following 2 consecutive years of contractions.
+
+According to the ADB, Sri Lanka is showing signs of recovery, with green shoots emerging in the second half of 2023 while inflation has decelerated to single digits, foreign exchange reserves continue to be built up, and the exchange rate has appreciated. Furthermore, tourist arrivals and remittance inflows continue to show a commendable recovery while supply conditions have improved.
+
+ADB’s growth forecast hinges on the continuation of reforms and better consumer and business sentiment. Timely completion of external debt restructuring will also support Sri Lanka’s debt sustainability efforts.
+
+...
+
+[Data](articles/044fa93c.json)
+
+---
+
+### பொலிஸாரின் உத்தரவை மீறிப் பயணித்த லொறி மீது துப்பாக்கிப் பிரயோகம் : ஒருவர் காயம்
+
+*2024-04-11 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/180961) · `ta`
+
+கனங்கே தோலேலியத்த பிரதேசத்தில் பொலிஸாரின் தடை உத்தரவை மீறி பயணித்த லொறியொன்றின் மீது பொலிஸாரினால் துப்பாக்கி பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
+
+கனங்கே ரஜமஹா விகாரையினை அண்மித்த பகுதியில் இன்று வியாழக்கிழமை (11) அதிகாலை 4.30 மணியளவில் இந்தச் சம்பவம் இடம்பெற்றுள்ளது.
+
+இரவு நேர கண்காணிப்பு நடவடிக்கையில் ஈடுபட்டிருந்த பொலிஸ் அதிகாரிகள் குழுவினர் குறித்த லொறியினை நிறுத்துமாறு உத்தரவிட்டுள்ள நிலையில், குறித்த லொறி உத்தரவை மீறி பயணித்துள்ளது.
+
+இதன்போது உத்தரவை மீறி பயணித்த லொறி மீது பொலிஸார் துப்பாக்கிப் பிரயோகத்தை மேற்கொண்டுள்ளனர்.
+
+இவ்வாறு காயமடைந்துள்ள நபர்  ஜிந்தோட்டை, மாபுகல பிரதேசத்தைச் சேர்ந்த மொஹமட் சியாம் என்பவராவார்.
+
+மேலும், சந்தேகநபர் சிகிச்சைக்காக கராப்பிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதுடன், மேலதிக  விசாரணைகளை மேற்கொண்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/1a3e446d.json)
+
 ---
 
 ### Sri Lanka airport, port get scanners and smart toilets from Japan
@@ -68,6 +166,8 @@ The island nation has seen a rise in visitor arrivals, and the number is expecte
 
 [Data](articles/49c45401.json)
 
+[Extended Data](ext_articles/49c45401.ext.json)
+
 ---
 
 ### War of words continues between Sri Lanka’s SJB, NPP on debate
@@ -85,6 +185,8 @@ NPP member and All Ceylon Farmers Federation Convener Namal Karunaratne scoffed 
 ...
 
 [Data](articles/4a3f9d3e.json)
+
+[Extended Data](ext_articles/4a3f9d3e.ext.json)
 
 ---
 
@@ -189,6 +291,8 @@ Fitch Ratings has affirmed Sri Lankabased Construction Guarantee Fund’s (CGF) 
 ...
 
 [Data](articles/b4282ef5.json)
+
+[Extended Data](ext_articles/b4282ef5.ext.json)
 
 ---
 
@@ -2105,103 +2209,5 @@ He said Sajith Premadasa declined the debate challenge for undisclosed reasons a
 [Data](articles/77541eae.json)
 
 [Extended Data](ext_articles/77541eae.ext.json)
-
----
-
-### ST released the new logo of their group. Anthony's Industries Group
-
-*2024-04-10 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180938) · `ta`
-
-ST's Anthony's Industries Group unveils a new logo, symbolizing excellence, innovation, and industrial leadership. The logo integrates sub-trades like Anton, Anton Max, Armor, Griffin, Netz, Thermo, Biocell, Polar, VOLTA, marking a new era for the group.
-
-🟩
-
-ST, the leading joint venture of the best tradition since the 1930s. Anthony's Industries Group (PVT) Ltd has recently released its new logo.
-
-This important event is a new era of the group, and every component of the new logo has been selected to reflect the main values and work purposes of the group, with excellence, innovation, industrial leadership.
-
-St.. Anthony's Industries Group Proudly integrates its various sub -trades such as Anton, Anton Max, Anton Max, Armor, Griffin, Netz, Thermo, Biocell, Polar, VOLTA under the same company.
-
-◼️
-
-[Data](articles/762147e3.json)
-
-[Extended Data](ext_articles/762147e3.ext.json)
-
----
-
-### 19 more Indian fishermen detained in Sri Lanka return home
-
-*2024-04-10 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98562/19-more-indian-fishermen-detained-in-sri-lanka-return-home) · `en`
-
-Nineteen Indian fishermen detained by the Sri Lanka Navy were on Tuesday repatriated to India, the Indian High Commission said, almost a week after a similar number of fishermen were sent back to their home country.
-
-“19 Indian fishermen have been repatriated from Sri Lanka and are currently on their way to Chennai, the Indian High Commission here said in a post on X.
-
-The Navy has so far held 23 Indian trawlers and 178 Indian fishermen for allegedly fishing in the island nation’s waters thus far in 2024, and handed them over to authorities for legal action, the Sri Lankan Navy late last month confirmed in a statement.
-
-The fishermen issue is a contentious one in the ties between India and Sri Lanka, with Lankan Navy personnel even firing at Indian fishermen in the Palk Strait and seizing their boats in several alleged incidents of illegally entering Sri Lankan territorial waters.
-
-...
-
-[Data](articles/155462a1.json)
-
-[Extended Data](ext_articles/155462a1.ext.json)
-
----
-
-### 19 Indian fishermen detained by Sri Lanka return home
-
-*2024-04-10 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98562/19-indian-fishermen-detained-by-sri-lanka-return-home) · `en`
-
-Nineteen Indian fishermen detained by the Sri Lanka Navy were on Tuesday repatriated to India, the Indian High Commission said, almost a week after a similar number of fishermen were sent back to their home country.
-
-◼️
-
-[Data](articles/3fbe0f9b.json)
-
-[Extended Data](ext_articles/3fbe0f9b.ext.json)
-
----
-
-### 19 more Indian fishermen detained by Sri Lanka return home
-
-*2024-04-10 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98562/19-more-indian-fishermen-detained-by-sri-lanka-return-home) · `en`
-
-Nineteen Indian fishermen detained by the Sri Lanka Navy were on Tuesday repatriated to India, the Indian High Commission said, almost a week after a similar number of fishermen were sent back to their home country.
-
-“19 Indian fishermen have been repatriated from Sri Lanka and are currently on their way to Chennai, the Indian High Commission here said in a post on X.
-
-The Navy has so far held 23 Indian trawlers and 178 Indian fishermen for allegedly fishing in the island nation’s waters thus far in 2024, and handed them over to authorities for legal action, the Sri Lankan Navy late last month confirmed in a statement.
-
-The fishermen issue is a contentious one in the ties between India and Sri Lanka, with Lankan Navy personnel even firing at Indian fishermen in the Palk Strait and seizing their boats in several alleged incidents of illegally entering Sri Lankan territorial waters.
-
-...
-
-[Data](articles/d06ac31e.json)
-
-[Extended Data](ext_articles/d06ac31e.ext.json)
-
----
-
-### Hamas leader's sons killed in Israel's attack
-
-*2024-04-10 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/180937) · `ta`
-
-Hamas leader Ismail Honey confirms his three sons and grandson were killed in an Israeli attack on Gaza. He vows Hamas will not retreat, citing threats to their families. Hamas sees the attack as a sign of Israel's defeat.
-
-🟩
-
-Hamas leader Ismail Honey has confirmed that his three sons and grandson have been killed in Israel's attack on Gaza.
-
-He said Hamas leaders would not retreat because the Israeli military would kill their families, he said, adding that Hamasin's requests for ceasefire negotiations would not affect the requests of the ceasefire.
-
-Hamas, the leader of the Hamas, said the attack on his family was revealing the defeat of Israel.
-
-◼️
-
-[Data](articles/b53ec698.json)
-
-[Extended Data](ext_articles/b53ec698.ext.json)
 
 ---

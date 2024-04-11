@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 02:50:29**
+As of **2024-04-12 03:03:14**
 
 ## Newspaper Stats
 
@@ -26,23 +26,31 @@ adaderanasinhalalk | 2,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,527 (100.0%) of 18,528 articles have been extended.
+18,528 (100.0%) of 18,528 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### ஹீட் ஸ்ட்ரோக் எனும் பாதிப்பிற்குரிய சிகிச்சை
+### Heat stroke
 
 *2024-04-12 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181008) · `ta`
 
-கோடை காலம் தொடங்கி விட்டால்... எம்முடைய வீடுகளில் இருக்கும் பச்சிளங் குழந்தைகள், முதியவர்கள், நோய் எதிர்ப்பு திறன் குறைவாக இருப்பவர்களை அதீத கவனத்துடன் அவர்களின் உடல் ஆரோக்கியத்தை பேண வேண்டியது அவசியமாகிறது. ஏனெனில் கோடையில் வெப்பநிலை உயர்வடைந்து, எம்முடைய தலைப்பகுதி, மூளை, இதயம், சிறுநீரகம், தசைகள் ஆகியவற்றை பாதிக்கும். இதற்கு மருத்துவர்கள் முதலுதவி சிகிச்சையையும், உரிய முறையான சிகிச்சையையும் மேற்கொள்ள வேண்டும் என்றும், இதனால் ஏற்படும் உயிரிழப்பைத் தவிர்க்கலாம் என அறிவுறுத்துகிறார்கள்.
+Heat stroke occurs when body temp rises to 104°F, affecting brain, heart, kidneys, and muscles. It's crucial for children, elders, and immune individuals to take precautions. Symptoms include red or dry skin, rapid breathing, drowsiness, fatigue, nausea, vomiting, headaches, irregular heartbeat, and confusion. Treatment involves cooling the body, checking blood sodium and potassium levels, and possibly changing lifestyle habits.
 
-ஒவ்வொரு கோடை காலத்தின் போதும் அதிகரிக்கும் வெப்பநிலையைத் தாங்க இயலாமல் முதியவர்கள், பச்சிளங் குழந்தைகள் மரணமடைவது உண்டு. மேலும் கோடைகால வெப்பம் குறித்து மக்களிடத்தில் முழுமையான விழிப்புணர்வு ஏற்படவில்லை எனவும் மருத்துவர்கள் தெரிவிக்கிறார்கள்.
+🟩
+
+If the summer starts ... It is necessary to maintain their physical health with great care of children, elderly and immune people in our homes.. Because the temperature in the summer will rise and affect our head, brain, heart, kidney, muscles. Doctors advise you to take first aid and proper treatment and avoid the death toll.
+
+Elderly and Bachlang children die without being able to withstand the temperature of every summer. Doctors also say that there is no full awareness of the people about summer heat.
+
+Heat stroke is a state of urgent medical treatment. It is an urgent state of increasing the temperature of our body by 104 degrees Fahrenheit, which exceeds 40 degrees Celsius Enksha.. When we face the temperature of the sunlight, our body fails to handle it effectively at some moments. This increases the temperature of our body and causes the temperature stroke called a heat stroke.
 
 ...
 
 [Data](articles/27b05f3a.json)
+
+[Extended Data](ext_articles/27b05f3a.ext.json)
 
 ---
 

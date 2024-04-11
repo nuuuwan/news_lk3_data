@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 21:34:57**
+As of **2024-04-11 21:52:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,997
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,504 (100.0%) of 18,505 articles have been extended.
+18,505 (100.0%) of 18,505 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -672,19 +672,27 @@ According to Ambassador Bandara, the rescued Sri Lankans are in good health and 
 
 ---
 
-### வறிய மக்கள் மீதான தாக்கம் தொடர்பில் அவதானம் செலுத்த வேண்டும் - ஆசிய அபிவிருத்தி வங்கி
+### To pay attention to the impact on the poor - Asian Development Bank
 
 *2024-04-11 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180982) · `ta`
 
-பொருளாதார நெருக்கடிக்கு அடிப்படையாக அமைந்த காரணிகளைக் களைவதற்கும், நிலையான மீட்சிக்கான அடித்தளத்தை இடுவதற்கும், மீண்டெழும் தன்மையைக் கட்டியெழுப்புவதற்கும், வளர்ச்சியை அடைந்துகொள்வதற்கும் தற்போதைய மறுசீரமைப்புக்களை தொடர்ந்து நடைமுறைப்படுத்தவேண்டும் எனவும், வறிய மற்றும் நலிவுற்ற சமூகப்பிரிவினர் மீது ஏற்பட்டுள்ள தாக்கம் தொடர்பில் கவனம் செலுத்தவேண்டியது மிக அவசியம் எனவும் ஆசிய அபிவிருத்தி வங்கி இலங்கையை வலியுறுத்தியுள்ளது.
+The Asian Development Bank urges Sri Lanka to address the impact on the poor and the wealthy, focusing on economic recovery and sustainable growth. Despite a 1.9% growth in 2024 and 2.5% in 2025 post-economic crisis, Sri Lanka's debt stability and poverty reduction are priorities. Uttar Kumar, Sri Lanka's representative, highlights the importance of policy restructuring and economic stabilization in 2023, emphasizing the need to eliminate crisis factors for sustainable recovery and growth.
 
-ஆசிய அபிவிருத்தி வங்கியினால் வெளியிடப்பட்டுள்ள 2024 ஏப்ரல் மாதத்துக்கான ஆசிய அபிவிருத்தி மதிப்பீட்டின்படி, கடந்த இருவருடங்களாகத் தொடர்ந்து அவதானிக்கப்பட்ட பொருளாதாரச்சுருக்கத்தை அடுத்து இவ்வருடம் இலங்கை 1.9 சதவீத மிதமான வளர்ச்சியையும், 2025 இல் 2.5 சதவீத வளர்ச்சியையும் பதிவுசெய்யும் என எதிர்வுகூறப்பட்டுள்ளது.
+🟩
 
-'கடந்த ஆண்டின் பின்னரை பாகத்திலிருந்து இலங்கையில் பொருளாதார மீட்சிக்கான குறிகாட்டிகள் தென்படுகின்றன. பணவீக்கம் ஓரிலக்கப்பெறுமதிக்கு வீழ்ச்சியடைந்துள்ளது.
+The Asian Development Bank has urged Sri Lanka to focus on the impact of the impact of the poor and the wealthy social sect, to eliminate the factors that are based on the economic crisis, to launch the foundation for the sustainable recovery, to build the restoration, and to achieve growth.
+
+According to the Asian Development Assessment for April 2024, the Asian Development Bank, which was published by the Asian Development Bank, continued to record 1.9 per cent moderate growth and 2.5 per cent in 2025 following the economic conflict that continued for the past two years.
+
+“The indicators of economic recovery in Sri Lanka from the post -last year. Inflation has fallen to one.
+
+Tourism and foreign affairs are continuously recorded at a prospective level. The Asian Development Bank has pointed out that the completion of the output of the output in a timely manner will help ensure Sri Lanka's debt stability.
 
 ...
 
 [Data](articles/8a00cb98.json)
+
+[Extended Data](ext_articles/8a00cb98.ext.json)
 
 ---
 

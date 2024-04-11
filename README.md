@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 22:33:55**
+As of **2024-04-11 22:51:37**
 
 ## Newspaper Stats
 
-*Scraped **18,514** Articles*
+*Scraped **18,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,015
 dailyftlk | 1,018
 economynextcom | 1,035
-adalk | 1,549
+adalk | 1,551
 tamilmirrorlk | 2,163
 adaderanalk | 2,216
 virakesarilk | 2,760
@@ -26,53 +26,81 @@ adaderanasinhalalk | 2,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,512 (100.0%) of 18,514 articles have been extended.
+18,514 (100.0%) of 18,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### මඩකලපුව ආසන්නයේ ගිලී ගිය බ්‍රිතාන්‍ය යුද නැව ගැන අලුත්ම අනාවරණයක්
+### බිත්තර මිල ඉහළ ගියොත් ආයෙත් බිත්තර ගෙන්වනවා
+
+*2024-04-11 22:26:43* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තර-මිල-ඉහළ ගියොත්-ආයෙත්-බිත්තර-ගෙන්වනවා/11-409060) · `si`
+
+වෙළඳපොළ තුළ යළිත් බිත්තර මිල ඉහළ යාමක් සිදුවුවහොත් රජය නැවත වරක් ඉන්දියාවෙන් බිත්තර ආනයනය කිරීමට කටයුතු කරන බව වෙළඳ අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා පැවැසීය.
+
+ඉහළ මිලකට අලෙවි වූ බිත්තර මිල පසුගිය දින කිහිපයේදී තරමක අඩුවීමක් පෙන්නුම් කළේය. කෙසේ වෙතත් උත්සව සමය හේතුවෙන් යළිත් බිත්තර මිලේ ඉහළ යාමක් පෙනෙන්නට තිබේ.
+
+◼️
+
+[Data](articles/c8425e64.json)
+
+---
+
+### The latest detection of the British War Ark that was drowned near Batticaloa
 
 *2024-04-11 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195553) · `si`
 
-දෙවන ලෝක යුද සමයේදී ජපානය බෝම්බ හෙළා විනාශ කළ යුද ගුවන්යානා රැගෙන යා හැකි ලොව පළමු නෞකාව වූ එච්. එම්. එස්. හර්මිස් නෞකාව විනාශවී 2024 වර්ෂයට වසර 82කි.
+The British War Ark, HMS Hermes, was sunk near Batticaloa in 1942, carrying the world's first war planes. It was part of the Royal Navy's Eastern Fleet. Despite efforts to protect it, continuous Japanese air strikes led to its sinking, with significant loss of life. Exploration of the wreck began in 2000.
 
-ලොව පළමු යුද ගුවන්යානා රැගෙන යා හැකි එච්.එම්.එස්. හර්මිස් නෞකාවේ නිෂ්පාදන කටයුතු අරඹන්නේ පළමු ලෝක යුද්ධය ඉලක්ක කරගනිමිනි.
+🟩
 
-බ්‍රිතාන්‍ය රාජකීය නාවික හමුදාවේ නිෂ්පාදනයක් වූ මෙහි වැඩ පළමු ලෝක යුද්ධය අවසන් වන තෙක්ම නිමකිරීමට නොහැකි විය.
+The world's first ship that can carry Japan bombs during World War II. M. S. The Hermitary was destroyed and 82 years were destroyed in 2024.
 
-දිගින් අඩි 600කට ආසන්න වූ මෙම නෞකාවේ එකවර ගුවන්යානා 20ක් ප්‍රවාහනය කිරීමට තරම් අශ්වබල 40,000ක බලයකින් සමන්විත විය.
+HMS that can carry the world's first war planes. The manufacturing of the Hermesic operates the production of the first world war.
 
-1939 වසරේ දෙවන ලෝක යුද සමය ඇරඹීමත් සමග මෙම නෞකාව රාජකීය හමුදාවේ නැගෙනහිර යුද ඛණ්ඩය සඳහා අනුයුක්ත වූ අතර 1941 සහ 1942 වසර කාලය තුළ ශ්‍රී ලංකාවේ ත්‍රීකුණාමලය වරාය ආසන්නයේ නැංගුරම් ලා තිබුණි.
+The manufacture of the British Royal Navy was unable to completion until the end of World War I.
 
-කෙසේවෙතත් ශ්‍රී ලංකාව දෙවැනි ලෝක යුද්ධයේ පාර්ශ්වකරුවෙකු නොවූවත් එවක මෙරට පාලනය ගෙන ගිය බ්‍රිතාන්‍යයන් සතුරු පර්ශ්වීය සාමාජිකයන් වූ නිසා ජපානයේ ගුවන් ප්‍රහාරයකට මුහුණ දීමට 1942 වසරේ අප්‍රේල් 9 වනදා සිදුවුණි.
+Nearly 600 feet [600 feet) consisted of 40,000 horsepowers to transport 20 aircraft.
 
-ඒ වන විට එච්.එම්.එස්. හර්මිස් නෞකාව මැඩගස්කරය ආක්‍රමණය කිරීමට සූදානම්ව මඩකළපුව මුහුදු සීමාවේ නැංගුරම්ලා තිබුණි.
+With the opening of World War II of 1939, the ship was attached to the eastern military seder of the royal army, and in the year 1941 and 1942, Sri Lanka was anchored.
+
+However, if Sri Lanka was not a part of World War II, the British controlled British was part of Japan on April 9, 1942.
+
+At that time HMS. The Hermesic was ready to invade Madagascar and anchored on the Batticaloa waters.
+
+The British Air Force was taken to the Port of Trincomalee to protect the ship to protect the airplane from the emperor of Hirohuh.
 
 ...
 
 [Data](articles/e067a782.json)
 
+[Extended Data](ext_articles/e067a782.ext.json)
+
 ---
 
-### ලෝකෙම හෙල්ලූ බිලියනපතිනියට මරණ දඬුවම
+### Billionaires sentenced to death in the world
 
 *2024-04-11 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195552) · `si`
 
-වියට්නාමයේ විශාලතම බැංකුවක් ලෙස සැලකෙන සයිගොන් කොමර්ෂල් බැංකුවෙන් මුදල් වංචා කිරීමේ චෝදනාවට වරදකාරිය වූ Truong My Lan ට මරණ දඬුවම නියම කර තිබේ.
+Truong My LAN, a 67-year-old property developer, was sentenced to death by the Syigon Commercial Bank, Vietnam's largest, for a $44 billion fraud over 11 years.
 
-මෙම නඩු විභාගය සැලකුණේ වියට්නාමයේ වැඩිම අවධානයක් දිනාගත් නඩුවක් ලෙසට ය.
+🟩
 
-ඒ මෙතෙක් ලොව සිදුකළ විශාලතම බැංකු වංචාව හා සම්බන්ධ නඩු විභාගයකි.
+Truong My LAN has been sentenced to death by the Syigon Commercial Bank, who is considered the largest bank in Vietnam.
 
-ධනවත් කාන්තාවක් වන 67 හැවිරිදි Truong My Lan දේපොළ සංවර්ධන ව්‍යාපාර හිමි කාන්තාවකි.
+The trial was considered as a wide case of Vietnam.
 
-වසර 11ක් පුරා ඩොලර් බිලියන 44ක් වංචාකර ඇති බවට ඇයට  එල්ලවී තිබූ ප්‍රධාන චෝදනාව විය.
+It is a trial related to the largest bank fraud.
+
+A 67-year-old woman, a 67-year-old woman, is a woman who owns a Lolon I LAN property development businessman.
+
+The main accusation of her was the main accusation that she had cheated $ 44 billion over 11 years.
 
 ◼️
 
 [Data](articles/62e35144.json)
+
+[Extended Data](ext_articles/62e35144.ext.json)
 
 ---
 
@@ -2371,19 +2399,5 @@ The action constitutes a raising of ‘deposits’ by the central bank (a note-i
 [Data](articles/d4112085.json)
 
 [Extended Data](ext_articles/d4112085.ext.json)
-
----
-
-### Blooming season starts...
-
-*2024-04-11 06:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Blooming-season-starts/110-280571) · `en`
-
-This is the season when Robarosiya flowers are in full bloom. The picture shows several areas glowing with Robarosiya flowers. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/1d237c88.json)
-
-[Extended Data](ext_articles/1d237c88.ext.json)
 
 ---

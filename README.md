@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 12:34:43**
+As of **2024-04-11 12:50:49**
 
 ## Newspaper Stats
 
-*Scraped **18,450** Articles*
+*Scraped **18,451** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,029
 adalk | 1,549
 tamilmirrorlk | 2,156
 adaderanalk | 2,207
-virakesarilk | 2,745
+virakesarilk | 2,746
 dailymirrorlk | 2,814
 adaderanasinhalalk | 2,987
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,987
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,449 (100.0%) of 18,450 articles have been extended.
+18,450 (100.0%) of 18,451 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### புதுவருட காலத்தில் போலி நோட்டுகளின் புழக்கம் அதிகரிப்பு!
+
+*2024-04-11 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180970) · `ta`
+
+இந்த வருடத்தில் போலி நாணயத்தாள்களின் புழக்கம் அதிகரித்துள்ளதாகவும், பணத்தை கையாள்வதில் கவனமாக இருக்குமாறும் பொலிஸாரினால்  பொதுமக்களை அறிவுறுத்தியுள்ளனர்.
+
+குறிப்பாக கொழும்பு உள்ளிட்ட புறநகர் பகுதிகளிலும், நாட்டின்  பல பகுதிகளிலும் போலி நாணயத்தாள்களை  மாற்றுவதற்கு சிலர். முற்படலாம் என பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்..
+
+மேலும் பணக் கையாள்கையின்  போது நாணயத்தாள்களில் மாற்றம் இருந்தால் பொலிஸாருக்கு  தகவல் தெரிவிக்குமாறு தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/80b1a2a8.json)
+
+---
 
 ### Sri Lanka shows signs of recovery but must maintain reform momentum: ADB
 
@@ -45,6 +61,8 @@ ADB’s growth forecast hinges on the continuation of reforms and better consume
 ...
 
 [Data](articles/d0a88f00.json)
+
+[Extended Data](ext_articles/d0a88f00.ext.json)
 
 ---
 
@@ -2100,7 +2118,7 @@ The youth was drunk at the time of the incident and he did not have a valid driv
 
 ---
 
-### U.S assures unwavering commitment to supporting Sri Lanka’s security and sovereignty
+### U.S. assures unwavering commitment to supporting Sri Lanka’s security and sovereignty
 
 *2024-04-10 20:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98561/us-assures-unwavering-commitment-to-supporting-sri-lankas-security-and-sovereignty) · `en`
 
@@ -2215,25 +2233,5 @@ A large number of local and foreign tourists are to receive a large number of fe
 [Data](articles/dd1859f4.json)
 
 [Extended Data](ext_articles/dd1859f4.ext.json)
-
----
-
-### World Athletics introduces $50,000 prize money for Olympic gold medallists
-
-*2024-04-10 20:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/World-Athletics-introduces-50-000-prize-money-for-Olympic-gold-medallists/107-280573) · `en`
-
-Paris, April 10 (The Guardian) - Sebastian Coe has defended World Athletics’ decision to break with 128 years of Olympic tradition by becoming the first sport to give athletes prize money if they are victorious in Paris this summer.
-
-Coe said the surprise move, under which gold medal-winning athletes in each of the sport’s 48 events will walk away with $50,000 (£39,360), was merely a reflection that the world has changed and said it was time his sport gave more to its stars.
-
-However the decision clearly blindsided the International Olympic Committee, which has never awarded money for participating or winning a medal, as it believes that to compete at a Games is reward enough.
-
-Asked whether the announcement would violate the Olympic spirit, Coe was clear. “I don’t think it does,” he replied.
-
-...
-
-[Data](articles/cd42f67b.json)
-
-[Extended Data](ext_articles/cd42f67b.ext.json)
 
 ---

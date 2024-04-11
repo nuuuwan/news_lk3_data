@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 14:05:24**
+As of **2024-04-11 14:18:24**
 
 ## Newspaper Stats
 
-*Scraped **18,463** Articles*
+*Scraped **18,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,549
 tamilmirrorlk | 2,156
 adaderanalk | 2,208
 virakesarilk | 2,749
-dailymirrorlk | 2,816
+dailymirrorlk | 2,817
 adaderanasinhalalk | 2,988
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,458 (100.0%) of 18,463 articles have been extended.
+18,463 (100.0%) of 18,464 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,43 +50,75 @@ The evidence is in 104 boxes weighing a total of six tonnes. Eighty-five defenda
 
 [Data](articles/646e1f2f.json)
 
+[Extended Data](ext_articles/646e1f2f.ext.json)
+
 ---
 
-### මියන්මාර ත්‍රස්ත ග්‍රහණයේ සිටි ශ්‍රී ලාංකිකයින්ව මුදා ගැනේ
+### Be careful when travelling on long-distance buses, warn Police
+
+*2024-04-11 13:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Be-careful-when-travelling-on-long-distance-buses-warn-Police/108-280623) · `en`
+
+Colombo, April 11 (Daily Mirror) - The Police Department today announced that the public should be vigilant over a gang that robs valuable belongings of long-distance passengers.
+
+They said members of this gang usually board long-distance service buses like ordinary passengers and rob the valuable belongings of passengers.
+
+Therefore, police request the passengers, bus drivers and conductors to be more careful.
+
+The police also said that these thefts happen mostly on the Badulla-Colombo long-distance buses.
+
+◼️
+
+[Data](articles/4445cf5b.json)
+
+---
+
+### Sri Lankans in Myanmar terminated
 
 *2024-04-11 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195540) · `si`
 
-මියන්මාරයේ, මියාවාඩි හී සයිබර් ත්‍රස්ත කණ්ඩායම් ග්‍රහණයේ සිට මුදාගනු ලැබු
+Eight Sri Lankans, previously held by Myanmar's cyber terrorist groups, have been released and handed over to the Sri Lankan embassy in Thailand. They are expected to arrive in Sri Lanka soon.
 
-ශ්‍රී ලාංකිකයින් 08 දෙනා තායිලන්තයේ මෙරට තානාපති කාර්යාලය වෙත භාරදී ඇති බව මියන්මාරයේ ශ්‍රී ලංකා තානාපති ජානක බණ්ඩාර මහතා පවසයි.
+🟩
 
-ඔවුන් ඉදිරි දින කිහිපයේදී ශ්‍රී ලංකාව වෙත පැමිණීමට නියමිත බව තනාපතිවරයා වැඩිදුරටත් සඳහන් කළේය.
+Myanmar's cyber terrorist groups were liberated from the clutches
 
-අද උදෑසන මියන්මාරයේ ආගමන විගමන නිලධාරීන් විසින් මියන්මාරයේ තායිලන්ත මිත්‍රත්ව පාලම හරහා මෙම පිරිස භාරදුන් බව ද ඒ මහතා පැවසීය.
+Sri Lanka's Ambassador in Myanmar says that the eight Sri Lankans have been handed over to the embassy in Thailand.
 
-ඒ අනුව අදාළ ශ්‍රී ලාංකිකයින් පිරිස මේ වනවිට යහපත් සෞඛ්‍ය තත්ත්වයෙන් තායිලන්තයේ ශ්‍රී ලංකා තානාපති කාර්යාලයේ සිටින බවත් ඔවුන්ව ඉදිරි දින කිහිපයේ දී ලංකාවට එවීමට කටයුතු කරන බවත් ඒ මහතා පැවසීය.
+They are due to arrive in Sri Lanka in the next few days, the Mataraera said.
+
+He also handed over to the Thailand Friendship Bridge in Myanmar this morning.
+
+Accordingly, the Sri Lankans are currently in good health and the Sri Lankan Embassy in Thailand and will be sent to Sri Lanka in the next few days.
 
 ◼️
 
 [Data](articles/a8801b0d.json)
 
+[Extended Data](ext_articles/a8801b0d.ext.json)
+
 ---
 
-### நீண்டதூர பஸ் சேவைகள் இன்மையால் கடும் போக்குவரத்து நெரிசல்!
+### Heavy traffic congestion due to lack of long bus services!
 
 *2024-04-11 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180974) · `ta`
 
-புத்தாண்டுக் காலத்தை முன்னிட்டு சொந்த ஊர்களுக்குச் செல்லும் மக்களுக்குத் தேவையான வசதிகளை ஏற்படுத்திக் கொடுப்பதற்காக நேற்று புதன்கிழமை (10) முதல் விசேட பொதுப் போக்குவரத்து சேவைகள் முன்னெடுக்கப்பட்டுள்ளன.
+Due to lack of long bus services, heavy traffic congestion and inconvenience for commuters. Special public transport services launched from Wednesday to cater to those heading home ahead of New Year. Despite efforts, long-distance bus services to Pastian Mawatha and Central Bus Stand remain affected.
 
-விசேட போக்குவரத்து சேவைகளை முன்னேடுத்த போதிலும்  இன்று காலையில் முறையான போக்குவரத்து வசதிகள் இல்லாமையினால் மக்கள் கடும் சிரமத்திற்கு உள்ளாகியுள்ளனர்.
+🟩
 
-இலங்கை போக்குவரத்து சபை 1,400 பஸ்களை சேவையில் ஈடுபடுத்தியுள்ளதுடன், தேவையான அளவு மேலதிக பஸ்களை  சேவையில் ஈடுபடுத்துவதற்கு நடவடிக்கை எடுக்கப்படும் என தேசிய போக்குவரத்து சபை தெரிவித்துள்ளது.
+Special public transport services have been launched from Wednesday (10) to provide the necessary facilities for the people who go to their hometowns ahead of the New Year.
 
-எனினும் நேற்றிரவு புறக்கோட்டை  பஸ்டியன் மாவத்தை மற்றும் மத்திய பஸ் நிலையம் ஆகிய இடங்களுக்கு சென்ற பயணிகளிற்கு  நீண்ட தூர பஸ் சேவைகள் இன்மையினால் சிரமத்திற்குள்ளாகியுள்ளனர்.
+Despite the lack of proper transport facilities this morning, people have been severely inconvenienced.
+
+The National Transport Board (SLTB) has said that 1,400 buses have been deployed and steps will be taken to serve the required amount of buses.
+
+However, long -distance bus services have been inconvenienced to passengers who traveled to Pastian Mawatha and Central Bus Stand last night.
 
 ◼️
 
 [Data](articles/a489c074.json)
+
+[Extended Data](ext_articles/a489c074.ext.json)
 
 ---
 
@@ -126,27 +158,35 @@ ADB’s growth forecast hinges on the continuation of reforms and better consume
 
 [Data](articles/044fa93c.json)
 
+[Extended Data](ext_articles/044fa93c.ext.json)
+
 ---
 
-### பொலிஸாரின் உத்தரவை மீறிப் பயணித்த லொறி மீது துப்பாக்கிப் பிரயோகம் : ஒருவர் காயம்
+### Shooting on lorry that was traveling in violation of police order: one injury
 
 *2024-04-11 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/180961) · `ta`
 
-கனங்கே தோலேலியத்த பிரதேசத்தில் பொலிஸாரின் தடை உத்தரவை மீறி பயணித்த லொறியொன்றின் மீது பொலிஸாரினால் துப்பாக்கி பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
+A lorry violating a police order in Toolliyatta was shot, injuring Mohamed Siam from Mapugala, Jindotta. The suspect is in Karapitiya Hospital for treatment.
 
-கனங்கே ரஜமஹா விகாரையினை அண்மித்த பகுதியில் இன்று வியாழக்கிழமை (11) அதிகாலை 4.30 மணியளவில் இந்தச் சம்பவம் இடம்பெற்றுள்ளது.
+🟩
 
-இரவு நேர கண்காணிப்பு நடவடிக்கையில் ஈடுபட்டிருந்த பொலிஸ் அதிகாரிகள் குழுவினர் குறித்த லொறியினை நிறுத்துமாறு உத்தரவிட்டுள்ள நிலையில், குறித்த லொறி உத்தரவை மீறி பயணித்துள்ளது.
+A lorry that was traveling in Toolliyatta area in Tooleiyatha area has been shot dead by police.
 
-இதன்போது உத்தரவை மீறி பயணித்த லொறி மீது பொலிஸார் துப்பாக்கிப் பிரயோகத்தை மேற்கொண்டுள்ளனர்.
+The incident took place at around 4.30 am on Thursday (11) in the nearby area of the Kananga Rajamaha Vihara.
 
-இவ்வாறு காயமடைந்துள்ள நபர்  ஜிந்தோட்டை, மாபுகல பிரதேசத்தைச் சேர்ந்த மொஹமட் சியாம் என்பவராவார்.
+A group of police officers who were involved in night watching have ordered the stopping of the lorry.
 
-மேலும், சந்தேகநபர் சிகிச்சைக்காக கராப்பிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதுடன், மேலதிக  விசாரணைகளை மேற்கொண்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police have fired a lorry that was traveling in violation of the order.
+
+The injured person is Mohamed Siam from Mapugala, Jindotta.
+
+In addition, the suspect has been admitted to the Karapitiya Hospital for treatment and further investigations are underway, police said.
 
 ◼️
 
 [Data](articles/1a3e446d.json)
+
+[Extended Data](ext_articles/1a3e446d.ext.json)
 
 ---
 
@@ -2191,23 +2231,5 @@ Doctors report such a damage due to genetic impaired. Such a defect occurs in tw
 [Data](articles/44cb8391.json)
 
 [Extended Data](ext_articles/44cb8391.ext.json)
-
----
-
-### SJB trying to divert attention from original debate: NPP
-
-*2024-04-10 22:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-trying-to-divert-attention-from-original-debate-NPP/108-280587) · `en`
-
-Colombo, April 10 (Daily Mirror)- Claiming that NPP leader Anura Kumara Dissanayake first invited SJB leader Sajith Premadasa for a debate, the National People’s Power (NPP) said some members of the Samagi Jana Balavegaya were now attempting to divert the attention from the original debate.
-
-In a statement, NPP National Executive Member Dr. Nalinda Jayatissa said the first conversation about a debate between the two sides was created with the statement made by Anura Kumara Dissanayake during a TV programme in 2023, saying that he is ready for a debate with Sajith Premadasa on the development path of the country.
-
-He said Sajith Premadasa declined the debate challenge for undisclosed reasons and that several SJB MPs proposed an alternative debate on economic policies with the Economic Council of the National People's Power.
-
-...
-
-[Data](articles/77541eae.json)
-
-[Extended Data](ext_articles/77541eae.ext.json)
 
 ---

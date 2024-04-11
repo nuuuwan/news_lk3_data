@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 08:33:50**
+As of **2024-04-11 08:51:23**
 
 ## Newspaper Stats
 
-*Scraped **18,410** Articles*
+*Scraped **18,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ islandlk | 1,013
 dailyftlk | 1,018
 economynextcom | 1,027
 adalk | 1,546
-tamilmirrorlk | 2,151
+tamilmirrorlk | 2,152
 adaderanalk | 2,201
 virakesarilk | 2,739
-dailymirrorlk | 2,807
+dailymirrorlk | 2,808
 adaderanasinhalalk | 2,977
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,410 (100.0%) of 18,410 articles have been extended.
+18,410 (100.0%) of 18,412 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### Xi calls for fair, transparent environment for investment in Sri Lanka
+
+*2024-04-11 08:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Xi-calls-for-fair-transparent-environment-for-investment-in-Sri-Lanka/108-280574) · `en`
+
+Colombo, April 11 (Daily Mirror) - Chinese President Xi Jinping , in his recent meeting with Prime Minister Dinesh Gunawardena, has reportedly stressed the need for ‘fair and transparent’ environment for Chinese companies to invest in Sri Lanka.
+
+The Chinese leader had further mentioned that China is not happy about its friends being influenced by other countries unnecessarily when taking decisions.
+
+However , in the meeting which a top source mentioned as friendly and cordial , the Chinese President did not refer to any third country in his remarks.
+
+The Prime Minister recently undertook a tour of China between March March 25 and 30 to attend the Boao Forum for Asia (BFA) Annual Conference 2024.
+
+Meanwhile , during a separate meeting, Chinese Prime Minister Li Qiang has raised concerns about Sri Lanka announcing a moratorium on foreign research vessels in its Exclusive Economic Zone (ECZ) targeting Chinese ships while entertaining a similar vessel from Germany in between.
+
+...
+
+[Data](articles/a0057563.json)
+
+---
 
 ### Israeli airstrike in Gaza kills 3 sons, 4 grandchildren of top Hamas leader
 
@@ -981,6 +1001,22 @@ The competitions have been divided into three sections, namely State Section, Op
 [Data](articles/7ed404f9.json)
 
 [Extended Data](ext_articles/7ed404f9.ext.json)
+
+---
+
+### ’மக்களை பொருளாதார பங்குதார்களாக்குவோம்’
+
+*2024-04-10 23:37:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களை-பொருளாதார-பங்குதார்களாக்குவோம்/175-335843) · `ta`
+
+கல்வி, காணி,  வீடு,  வியாபார உரிமைகளை உறுதிப்படுத்தி. மக்களை பொருளாதாரத்தில் வலுவான பங்குதாரர்களாக மாற்றிக்கொள்ள நடவடிக்கை எடுப்பதாக  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+கொழும்பு முகத்துவாரத்தில் நடைபெற்ற ரன்திய உயன வீட்டுத் தொகுதியை பயனாளிகளுக்குக் கையளிக்கும் நிகழ்விலேயே ஜனாதிபதி இவ்வாறு தெரிவித்தார். அவர்   மேலும் உரையாற்றுகையில்,
+
+பொருளாதாரத்தைப் பலப்படுத்த நாம் அமுல்படுத்திய வரிக் கொள்கை வாழ்க்கைச் சுமையை மேலும் அதிகப்படுத்தியது. ஆனால் அந்த கஷ்டங்களை நீங்கள் தாங்கிக் கொண்டதாலேயே, கடன் வாங்காமலும், பணம் அச்சடிக்காமலும் அரசாங்கத்தின் வருமானத்தை அதிகரிக்க முடிந்தது. அதனால் தான் இந்த வருடத்தில் அரச ஊழியர்களுக்கு 10,000 ரூபா சம்பள அதிகரிப்பை வழங்க முடிந்தது. ரூபாவின் பெறுமதியும் வலுவடைந்துள்ளது.
+
+...
+
+[Data](articles/5a8f440e.json)
 
 ---
 
@@ -2173,63 +2209,5 @@ He further stated that the trade is ready to identify and open the trade.
 [Data](articles/c380f4f1.json)
 
 [Extended Data](ext_articles/c380f4f1.ext.json)
-
----
-
-### Due to tomorrow, the traffic decreases
-
-*2024-04-10 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195512) · `si`
-
-Gemunu Wijeratne, Lanka Private Bus Owners Association president, expects decreased traffic due to personnel traveling to villages for New Year vacation. Buses may be congested on the 12th evening but will operate normally until charity periods. Additional buses will be deployed as requested by the Commission. Buses will return to Colombo from the 15th.
-
-🟩
-
-President of the Lanka Private Bus Owners Association Gemunu Wijeratne says that if the personnel will travel to the village from tomorrow (11) for the New Year vacation.
-
-He further stated that the buses could be congested at the 12th evening.
-
-Gemunu Wijeratne added that the buses will be operated as normal until charity periods.
-
-Arrangements have been made to deploy additional buses according to the request of the Commission on request for the year.
-
-It is also planned to deploy buses to come back to Colombo from the 15th.
-
-◼️
-
-[Data](articles/c590e0ff.json)
-
-[Extended Data](ext_articles/c590e0ff.ext.json)
-
----
-
-### Israel's protection is the important aspect of our foreign policy - Germany
-
-*2024-04-10 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180883) · `ta`
-
-Germany supports Israel's security, rejecting allegations of aiding genocide. Nikaragua filed a case against Germany at the International Court of Justice, accusing it of violating humanitarian law. Germany defends its actions, stating it provides necessary military aid and humanitarian support, and has learned from its past.
-
-🟩
-
-Germany has said that this is due to its past history, saying that Israel's security is a key aspect of its foreign policy.
-
-Germany, however, has rejected the allegation that Israel is assisting the genocide by providing arms to Israel.
-
-Nikaraga has filed a case in the International Court of Justice demanding that Germany stop the armed for Israel.
-
-Nikaragua also alleges that Germany has violated the obligations of international humanitarian law to prevent genocide.
-
-The German Foreign Ministry official said in the International Court of Justice that our history of Israel's security is important in our foreign policy.
-
-He said that Germany has provided Israel weapons and military instruments, but Nikaragua is distorting its size and purpose.
-
-He also said that Germany has learned lessons from its past.
-
-An official said in an international court that Germany is providing humanitarian aid every day.
-
-◼️
-
-[Data](articles/25c6d3ec.json)
-
-[Extended Data](ext_articles/25c6d3ec.ext.json)
 
 ---

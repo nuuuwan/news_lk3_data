@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 16:03:56**
+As of **2024-04-11 16:18:21**
 
 ## Newspaper Stats
 
-*Scraped **18,477** Articles*
+*Scraped **18,479** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 163
 bbccomsinhala | 193
 dbsjeyarajcom | 214
 newsfirstlk | 363
-islandlk | 1,013
+islandlk | 1,014
 dailyftlk | 1,018
 economynextcom | 1,034
 adalk | 1,549
@@ -20,35 +20,67 @@ tamilmirrorlk | 2,158
 adaderanalk | 2,211
 virakesarilk | 2,752
 dailymirrorlk | 2,819
-adaderanasinhalalk | 2,990
+adaderanasinhalalk | 2,991
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,476 (100.0%) of 18,477 articles have been extended.
+18,477 (100.0%) of 18,479 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### பொன்னாவெளியில் குடியேற விரும்பினால் வீட்டுத்திட்டம் வழங்கத் தயார் -  அமைச்சர் டக்ளஸ்
+### අද රාත්‍රියේ ප්‍රබල අකුණු සමග තද වැසි
+
+*2024-04-11 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195544) · `si`
+
+දිස්ත්‍රික්ක 13ක් සඳහා බලපැවැත්වෙන පරිදි කාලගුණ විද්‍යා දෙපාර්තමේන්තුවෙන් නවතම නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි දැක්වෙන්නේ අද (11) පස්වරුවේ හෝ රත්‍රී කාලයේ ප්‍රබල අකුණු ඇතිවීමේ හැකියාවක් ඇති බවය.
+
+බස්නාහිර, මධ්‍යම, සබරගමුව, ඌව සහ වයඹ යන පළාත්වලට හා ගාල්ල හා මාතර දිස්ත්‍රික්කවලට බලපැවැත්වෙන පරිදි මෙම අනතුරු ඇඟවීම සිදුකරන බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+අදාළ ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතින බැවින් අකුණු මගින් සිදුවිය හැකි අනතුරු අවම කරගැනීම සඳහා අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ බලධාරීන් ජනතාවගෙන් ඉල්ලීමක් කරයි.
+
+ගිගුරුම් සහිත වැසි ඇති වනවිට තාවකාලික තද සුළං ද හටගනු ඇති බව පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/51fcc7de.json)
+
+---
+
+### Ready to provide housing scheme if you want to settle in Ponnaweli - Minister Douglas
 
 *2024-04-11 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/180986) · `ta`
 
-பூநகரி பொன்னாவெளிப் பகுதியில் மக்கள் குடியேற விரும்பினால் மக்களுக்கான வீட்டுத்திட்டகளை வழங்கத் தயார் என ஈழ மக்கள் ஜனநாயகக் கட்சியின் செயலாளர் நாயகமும் கடற்தொழில் அமைச்சருமான டக்ளஸ் தேவானந்தா தெரிவித்துள்ளார்.
+Douglas Devananda, Minister of Fisheries, offers housing schemes for Ponnaweli settlers. He clarified doubts about lime excavation work, emphasizing its benefits and readiness to address concerns.
 
-வியாழக்கிழமை (11) யாழ்ப்பாணத்தில் உள்ள அவரது கட்சி அலுவலகத்தில் இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-அண்மையில் பொன்னியில் மக்களுக்கான அபிவிருத்திகளை முன்னெடுக்கும் நோக்கில் சுண்ணக்கல் அகழ்வு ஆய்வுப் பணிக்காக  இரண்டு துறை சார்ந்த அதிகாரிகளை அழைத்துச் சென்றேன் போதையில் நின்றவர்கள் குழப்பத்தை ஏற்படுத்தி செல்ல விடாமல் தடுத்தனர்.
+Douglas Devananda, Secretary -General of the Eelam People's Democratic Party and Minister of Fisheries, said that if people want to settle people in Poonakari Ponnaweli, the people are ready to provide housing schemes for the people.
 
-நான் அங்கு சென்றது துறைசார்ந்த அதிகாரிகளிடம் மக்களுக்கு இருக்கும் சந்தேகங்களை தெளிவுபடுத்துவதற்காக சென்றிருந்தேன் சிலர் அதனை அரசியல் நோக்கத்திற்காக தடுத்து விட்டார்கள்.
+He was speaking at a media briefing held at his party office in Jaffna on Thursday (11).
 
-பொன்னாவெளி சுண்ணக்கல் அகழ்வு ஆய்வுக்கு உட்படுத்தப்பட்டு மக்களுக்கு சாதகமானது என கருதினால் மட்டுமே அகழ்வு பணி மேற்கொள்ளப்படும்.
+Recently, I took two departmental officers for the launch of lime excavation work in order to carry out the development of the people in Ponni.
+
+I went there to clarify the doubts that the people had to clarify the people's doubts.
+
+The excavation work is only carried out if the excavation of the Ponnaveli Lime Excavation is considered favorable to the people.
+
+Some said that at a media briefing, the people who were in Ponnaweli said they could only get a home plan if they came out of publications.
+
+I would like to say something to them.
+
+The development of the country and the development of the country cannot be prevented by providing alcohol for political purposes.
 
 ...
 
 [Data](articles/7c393c20.json)
+
+[Extended Data](ext_articles/7c393c20.ext.json)
 
 ---
 
@@ -1648,6 +1680,30 @@ The recent statements by Prime Minister Narendra Modi and External Affairs Minis
 
 ---
 
+### HNB and Ideal Motors partner up once again to offer exclusive perks on Mahindra automobiles, Powerol generators
+
+*2024-04-11 05:46:00* · [`islandlk`](http://island.lk/hnb-and-ideal-motors-partner-up-once-again-to-offer-exclusive-perks-on-mahindra-automobiles-powerol-generators/) · `en`
+
+Sri Lanka’s leading private sector bank, HNB PLC, has entered into a fresh agreement with Ideal Motors (Pvt.) Ltd, to promote and offer financing solutions for Mahindra automobiles and generators.
+
+A Memorandum of Understanding (MoU) was signed at Ideal Motors Head Office, which saw the participation of HNB Assistant General Manager (AGM) – Personal Financial Solutions, Kanchana Karunagama and Ideal Motors Director – Automotive, Chaminda Wanigarathna, among other representatives from both companies.
+
+Mallika Hemachndra Jewellers offer a glittering new year with gold and smiles
+
+HNB clinches joint victory at ACCA Sustainability Reporting Awards 2023
+
+HNB celebrates 135-year legacy of partnerships and progress with commemorative stamp launch
+
+Declaration of attractive dividends by banking sector counters rejuvenates bourse
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/12462c1b.json)
+
+---
+
 ### People’s Bank quiz teams shine in back-to-back competitions
 
 *2024-04-11 05:46:00* · [`islandlk`](http://island.lk/peoples-bank-quiz-teams-shine-in-back-to-back-competitions/) · `en`
@@ -2163,59 +2219,5 @@ The first song, which begins as 'Mayone' featured in the film. This is followed 
 [Data](articles/e9c39813.json)
 
 [Extended Data](ext_articles/e9c39813.ext.json)
-
----
-
-### First Look release of 'Vaanaran' starring actor Nagesh's grandson
-
-*2024-04-11 02:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180944) · `ta`
-
-"Vaanaran's first look features Nagesh's grandson as the hero, Bijesh, in a story about his father, Anand Babu, and grandfather, the late comedian Nagesh. The film, directed by Bhagyaraj, has generated anticipation. Bijesh also stars in 'Vanharan', directed by debutant Sriram Padmanabhan, with music by H. Shah Jahan."
-
-🟩
-
-It is the nature of star heirs to be introduced in the film industry. It is the nature of the second generation heirs of stamped stars and the introduction of stars. The first look of the film 'Vaanaran', which plays the hero of the story of Bijesh, the son of Anand Babu, the grandson of the late comedian Nagesh, who smiled at the audience by the body language and the novelty of the audience.. This is the director. Bhagyaraj has released and congratulated the film crew.
-
-Actor Bijesh has been playing the hero of the film 'Vanharan', directed by debutant director Sriram Padmanabhan.. H.. Shah Jahan has composed the music. The film is being produced by Rajesh Padmanabhan and R Sujatha on behalf of the film company for the film 'Pictures'.
-
-Since Nagesh's grandson is playing the hero of the story and he appears in a different Anjaneyar, the minimum anticipation of the film 'Vanaran' has occurred among the film industry and the filmmakers.
-
-◼️
-
-[Data](articles/66d38f2a.json)
-
-[Extended Data](ext_articles/66d38f2a.ext.json)
-
----
-
-### Our insect was lost in Sri Lanka, "our permanent
-
-*2024-04-11 01:58:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czrxyl384dyo) · `si`
-
-A popular song in Sri Lanka, "Our Permanent," is now rare. The article discusses the life of the gameman, focusing on Emyrthina Variegata, a plant with beautiful, reddish-colored flowers that are difficult to see today. The plant, known as Erahuduwa, has thorns and is also called coral trees or Indian coral trees. It's botanically referred to as erythrina FUSCA, flowering in February and March. The plant is not found in natural ecosystems and was introduced to obtain fertilizer and shade in the mountains. In 2006, the first warning of the insect, quadrastichus erythrinae, was issued by the Sri Lanka Department of Agriculture. The insect harms the plant and has been reported in several countries. The plant, which grows up to 10 meters, is now near threatened.
-
-🟩
-
-A very popular song that is often heard from this year. But the song described by the song is not seen today.
-
-Often, the photos and videos are published in ornaments that have been brought abroad.
-
-This article will discuss the life of the gameman since the past, what is "our permanent" and what happened.
-
-There are two identical species identified as 'our Earnian'. It is a 'Earn Earlier' and 'performing'.
-
-The year, the year flower, the year, the year of flowering, is the plant called Emyrthina Variegata.
-
-By April, the leaves of the plant dysfun into the same season. Therefore, very beautiful, reddish-colored flower tree is full of. Botany Botanists say that it is today as difficult to see a flower of that species or a flower in that species.
-
-The plant is used if the plant is known as Erahuduwa, thorns.
-
-Some names are used in English to the farmers. The names, coral trees, indian coral trees, The TRNY DADAP.
-
-...
-
-[Data](articles/42a085f9.json)
-
-[Extended Data](ext_articles/42a085f9.ext.json)
 
 ---

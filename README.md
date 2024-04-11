@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 18:10:03**
+As of **2024-04-11 18:21:50**
 
 ## Newspaper Stats
 
-*Scraped **18,492** Articles*
+*Scraped **18,493** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,014
 dailyftlk | 1,018
 economynextcom | 1,034
 adalk | 1,549
-tamilmirrorlk | 2,162
+tamilmirrorlk | 2,163
 adaderanalk | 2,213
 virakesarilk | 2,754
 dailymirrorlk | 2,820
@@ -26,27 +26,51 @@ adaderanasinhalalk | 2,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,487 (100.0%) of 18,492 articles have been extended.
+18,492 (100.0%) of 18,493 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### අවුරුදු සමයේ අඛණ්ඩ ඉන්ධන සැපයුමක්
+### A continued fuel supply during the year
 
 *2024-04-11 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195549) · `si`
 
-සිංහල දෙමළ අලුත් අවුරුදු උත්සව සමය තුළ සිපෙට්කෝ ඉන්ධනහල් මගින් අඛණ්ඩ ඉන්ධන සැපයුමක් සඳහා අවශ්‍ය ක්‍රියාමාර්ග ගෙන ඇති බව ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාව පවසයි.
+Ceylon Petroleum Corporation ensures continuous fuel supplies during the Sinhala-Tamil New Year, importing reserves and deploying the Ceylon Petroleum Carryer Company for distribution.
 
-රටේ ඉන්ධන ඉල්ලුම සපුරාලීම සඳහා අවශ්‍ය ඉන්ධන තොග ආනයනය කර ප්‍රධාන පර්යන්ත හරහා ගබඩාවල ප්‍රමාණවත් සංචිත පවත්වාගෙන යාමට පියවර ගෙන ඇති අතර ඉන්ධන තොග පවත්වාගෙන යාම සම්බන්ධයෙන් සියලු ඉන්ධනහල් හිමියන් දැනුවත් කිරීමට ද කටයුතු කර ඇති බව එම සංස්ථාව පෙන්වා දෙයි.
+🟩
 
-බෙදුම්කරුවන්ගේ ඉන්ධන ඇනවුම් ක්‍රියාවලිය පහසුකරලීම සඳහා ලබන 15 වන දින දක්වා චෙක්පත් මගින් ගනුදෙනු කිරීමට අවස්ථාව සලසා දී තිබේ.
+Ceylon Petroleum Corporation says that the Ceylon Petroleum Corporation (CPA) has taken measures to provide continuous fuel supplies during the Sinhala-Tamil New Year festival.
 
-මෙම කාලපරිච්ඡේදය තුළ ලංකා ඛණිජ තෙල් තොග ගබඩා පර්යන්ත සමාගම විසින් ඉන්ධන බෙදාහැරීමේ කටයුතු සඳහා ප්‍රමාණවත් ටැංකි රථ යෙදවීමට ද තීරණය කර ඇති බව ඛණිජ තෙල් සංස්ථාව සඳහන් කළේය.
+The Corporation points out that steps have been taken to import sufficient reserves in stores to meet the country's fuel demand.
+
+Checks have been provided to the 15th to facilitate the fuel order process of the divider.
+
+The Petroleum Corporation stated that the Ceylon Petroleum Carryer Company has been decided to deploy the fuel distribution.
 
 ◼️
 
 [Data](articles/47b2979c.json)
+
+[Extended Data](ext_articles/47b2979c.ext.json)
+
+---
+
+### மரத்திலேறியவர் கிணற்றிலிருந்து சடலமாக மீட்பு
+
+*2024-04-11 17:57:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரத்திலேறியவர்-கிணற்றிலிருந்து-சடலமாக-மீட்பு/76-335853) · `ta`
+
+புத்தாண்டுக்காக வெற்றிலை பறிப்பதற்கு மரமொன்றில் ஏறியவர், கிளை முறிந்து விழுந்தமையால், கிணற்றில் விழுந்து மரணமாக சம்பவமொன்று பலாங்கொடை சத்தல்பொல பிரதேசத்தில்  இடம்பெற்றுள்ளதாக  பலாங்கொடை பொலிஸார் தெரிவித்தனர்.
+
+துங்கிந்த திஸாநாயக்கலைச் சேர்ந்த  (52) என்பவரே இவ்வாறு மரணமடைந்துள்ளார் இவர் மூன்று பிள்ளைகளின் தந்தையே இவ்வாறு உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+புத்தாண்டு பண்டிகைக்கு தேவையான வெற்றிலையை பறிக்க தோட்டத்தில் உள்ள40 அடி மரத்தில் ஏறியுள்ளார்.
+
+மரத்தின் இற்றுப்போன கிளை ஒன்றை பிடித்தபோது அக்கிளை  முறிந்தமையால் அவர், மரத்திலிருந்து கிணற்றுக்குள் விழுந்து விட்டதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/0c14e9e9.json)
 
 ---
 
@@ -66,37 +90,53 @@ The suspects are Sri Lankan nationals and are residents of Colombo 13 and Maskel
 
 [Data](articles/fedcab0b.json)
 
+[Extended Data](ext_articles/fedcab0b.ext.json)
+
 ---
 
-### மகளிர் ரி20 உலகக் கிண்ண தகுதிகாண் சுற்றுக்கான இலங்கை குழாம் அறிவிப்பு
+### Sri Lanka Group Announced for Women's T20 World Cup Qualification Round
 
 *2024-04-11 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/180999) · `ta`
 
-அபுதாபியில் இந்த மாதம் நடைபெறவுள்ள ஐசிசி மகளிர் ரி20 உலகக் கிண்ண உலகளாவிய தகுதிகாண் சுற்றுப் போட்டியை முன்னிட்டு 15 வீராங்னைகளைக் கொண்ட இலங்கை மகளிர் கிரிக்கெட் குழாத்தை ஸ்ரீலங்கா கிரிக்கெட் தெரிவுக்குழு பெயரிட்டுள்ளது.
+Sri Lanka's women's cricket team, including 15-year-old Sashini Kimhani, is preparing for the ICC Women's T20 World Cup Qualification Round in Abu Dhabi. They will face South Africa in a two-match series and compete in the A group with Thailand, Scotland, Uganda, and Iceland America. The top two teams from each group advance to the semi-finals, with the winners qualifying for the main round.
 
-தென் ஆபிரிக்காவில் இருவகை மட்டுப்படுத்தப்பட்ட ஓவர் கிரிக்கெட் போட்டியில் பங்குபற்றிவரும் இலங்கை குழாத்தில் இடம்பெறும் வீராங்கனைகளுடன் 15 வயதுடைய சஷினி கிம்ஹானி அறிமுக வீராங்கனையாக குழாத்தில் இணைத்துக்கொள்ளப்பட்டுள்ளார்.
+🟩
 
-ஹம்பாந்தோட்டையிலும் காலியிலும் நடைபெற்ற 19 வயதுக்குட்பட்ட மகளிர் இருவகை மட்டுப்படுத்தப்பட்ட ஓவர் கிரிக்கட் மும்முனை தொடர்களில் திறமையாக பந்துவீசியதால் சஷனி கிம்ஹானிக்கு சிரேஷ்ட அணியில் வாய்ப்பு வழங்கப்பட்டுள்ளது.
+The Sri Lanka Cricket Select Committee has named the Sri Lanka Women's Cricket Group with a 15 -year -old Sri Lanka Women's Cricket Group in view of the ICC Women's R20 World Cup World Eligibility Tournament in Abu Dhabi this month.
 
-தென் ஆபிரிக்காவுக்கு எதிரான மகளிர் ரி20 கிரிக்கெட் தொடரில் வெற்றியீட்டி வரலாறு படைத்த சூட்டோடு இலங்கை மகளிர் அணி, தகுதிகாண் சுற்றை மிகுந்த நம்பிக்கையுடன் எதிர்கொள்ளவுள்ளது.
+Sashini Kimhani, a 15 -year -old Sashini Kimhani, has been recruited as an debutant in the Sri Lankan group, which is participating in a two -limited over -cricket match in South Africa.
+
+Sasani Kimhani has been given the opportunity to bowl effectively in the two -year -old women under the age of 19 in Hambantota and Galle.
+
+The Sri Lankan women's team will face the qualifying round with a history suit in the women's T20 cricket series against South Africa.
+
+Inka Ranawira, Sukandika Kumari, Harshita Samarawickrama. 15 heroes including Hassini Perera, Nilakshi de Silva and Udayshika Prabodani have been named.
 
 ...
 
 [Data](articles/a098fd9d.json)
 
+[Extended Data](ext_articles/a098fd9d.ext.json)
+
 ---
 
-### முன்பள்ளி கட்டாயம் : சட்டமும் வருகிறது
+### Pre -school mandatory: law also comes
 
 *2024-04-11 17:25:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்பள்ளி-கட்டாயம்-சட்டமும்-வருகிறது/175-335852) · `ta`
 
-நான்கு வயதிற்குட்பட்ட அனைத்து குழந்தைகளுக்கும் முன்பள்ளி கட்டாயமாக்கப்படும் என கல்வி மறுசீரமைப்பு தொடர்பான நிபுணர் குழுவின் பேராசிரியர் குணபால நாணயக்கார தெரிவித்துள்ளார்.
+"Professor Gunapala Nanayakkara announced that all children must attend pre-school by age four, starting in 2026, as part of an education renovation effort."
 
-இதன்படி, 2026 ஆம் ஆண்டு முதல் பாடசாலையின் முதலாம் ஆண்டுக்கு முன்னர் நான்கு வயதில் முன்பள்ளி கற்பது கட்டாயமாக்கப்படும்.
+🟩
+
+Professor Gunapala Nanayakkara, a panel of experts on education renovation, said that all children under the age of four will be made compulsory.
+
+Accordingly, the pre -school will be made compulsory at the age of four before the first year of the school since 2026.
 
 ◼️
 
 [Data](articles/e85aae30.json)
+
+[Extended Data](ext_articles/e85aae30.ext.json)
 
 ---
 
@@ -126,19 +166,25 @@ The suspects are Sri Lankans and are residents of Colombo 13 and Maskeliya areas
 
 ---
 
-### 23 வயது பெண் மர்மமான  முறையில் மரணம்
+### 23 -year -old woman mysteriously death
 
 *2024-04-11 16:55:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/23-வயது-பெண்-மர்மமான-முறையில்-மரணம்/175-335850) · `ta`
 
-அவிசாவளையில் உள்ள ஹோட்டல் ஒன்றில் 23 வயதுடைய பெண் ஒருவர் சந்தேகத்திற்கிடமான முறையில் சடலமாக மீட்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+A 23-year-old woman was found unconscious at a hotel in Avissawala, leading to a criminal investigation by the Sitawaka Police Division.
 
-உயிரிழந்த பெண்ணுடன் சென்ற நபர், அவரது சுயநினைவற்ற நிலையை ஹோட்டல் நிர்வாகத்திடம் தெரிவித்ததையடுத்து, அவிசாவளை பொலிஸாருக்கு அறிவிக்கப்பட்டது.
+🟩
 
-இந்த அழைப்பின் பேரில், சீதாவக்க பொலிஸ் பிரிவின் குற்றப் புலனாய்வு அதிகாரிகள் சம்பவ இடத்திற்கு விரைந்து விசாரணைகளை ஆரம்பித்துள்ளனர்.
+A 23 -year -old woman was suspiciously recovered at a hotel in Avissawala, police said.
+
+The Avissawella police were informed that the man who had gone with the deceased woman had informed the hotel administration of her unconscious position.
+
+On this call, the Criminal Investigation Officers of the Sitawaka Police Division rushed to the scene and started investigations.
 
 ◼️
 
 [Data](articles/f7a2632d.json)
+
+[Extended Data](ext_articles/f7a2632d.ext.json)
 
 ---
 
@@ -2245,21 +2291,5 @@ Sri Lanka yesterday condemned the attack on the Iranian Consulate in Damascus an
 [Data](articles/4fd01698.json)
 
 [Extended Data](ext_articles/4fd01698.ext.json)
-
----
-
-### Sri Lanka to hold talks with Kazakhstan counterparts
-
-*2024-04-11 04:59:48* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-to-hold-talks-with-Kazakhstan-counterparts/56-760573) · `en`
-
-Foreign Office Consultations between Sri Lanka and Kazakhstan are scheduled to be held on 11 April in Astana.  The Sri Lanka Delegation will be led by Foreign Secretary Aruni Wijewardane.
-
-Following the meeting between President Ranil Wickremesinghe and Kazakhstan President Kassym-Jomart K. Tokayev last year a decision was taken to open a resident Sri Lanka Embassy in Kazakhstan. Discussions in Kazakhstan are expected to focus on trade, investment, tourism and modalities for opening the new Sri Lanka mission.
-
-...
-
-[Data](articles/0021a594.json)
-
-[Extended Data](ext_articles/0021a594.ext.json)
 
 ---

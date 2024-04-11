@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 17:34:27**
+As of **2024-04-11 17:54:06**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 2,994
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,485 (100.0%) of 18,487 articles have been extended.
+18,487 (100.0%) of 18,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### නීතිවිරෝධීව රැගෙන ආ භාණ්ඩ රැසක් කටුනායකදී හසුවෙයි
+### Many Illegal items have been brought to Katunayake
 
 *2024-04-11 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195548) · `si`
 
-ඉන්දියාවේ සිට පැමිණි ගුවන් මගීන් දෙදෙනෙකු සහ ඩුබායි සිට පැමිණි ගුවන් මගියෙකු කටුනායකදී අද (11) අත්අඩංගුවට ගෙන තිබේ.
+Katunayake Airport Criminal Investigations arrested two Indians and a Dubai passenger for smuggling illegal items, including 111 bottles of foreign liquor, cigarettes, and computer accessories, refusing to pay tariffs.
 
-ඒ තීරුබදු නොගෙවා රේගුවට ප්‍රකාශ නොකර භාණ්ඩ තොගයක් රැගෙන ඒමේ සිද්ධියක් සම්බන්ධයෙනි.
+🟩
 
-කටුනායක ගුවන්තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් වැටලීම සිදුකර තිබේ.
+Two passengers from India and a vehicle passenger from Dubai have been arrested today (11).
 
-එහිදී විදේශීය මත්පැන් බෝතල් 111ක්, දුම්වැටි තොගයක්, පරිගණක උපාංග රැසක් තිබී සොයාගෙන ඇත.
+It is in connection with a case that refuses to pay the tariffs without paying the Customs.
 
-සැකකරුවන් ශ්‍රී ලාංකිකයන් වන අතර ඔවුන් කොළඹ 13 සහ මස්කෙළිය ප්‍රදේශවල පදිංචිකරුවන්ය.
+The raid was raided by the Katunayake Airport Criminal Investigations.
+
+111 foreign liquor bottles, a stock of cigarettes, found a large number of computer accessories.
+
+The suspects are Sri Lankans and are residents of Colombo 13 and Maskeliya areas.
 
 ◼️
 
 [Data](articles/a8d116a9.json)
+
+[Extended Data](ext_articles/a8d116a9.ext.json)
 
 ---
 
@@ -158,19 +164,25 @@ The 28 -year -old father has been arrested on suspicion and has taken steps to b
 
 ---
 
-### கேப்பாப்புலவு காணி உரிமையாளர்களுக்கும் வடக்கு ஆளுநருக்கும் இடையே சந்திப்பு!
+### Meeting between landlords and northern governor
 
 *2024-04-11 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180990) · `ta`
 
-முல்லைத்தீவு மாவட்டம் கேப்பாப்புலவில் இராணுவத்தினரால் கையகப்படுத்தப்பட்டுள்ள காணிகளின் உரிமையாளர்கள் இன்று வட மாகாண ஆளுநரை சந்தித்து கலந்துரையாடினர்.
+Landlords in Keppapula, Mullaitivu, met with the Northern Governor to discuss land protests. The Governor is investigating the issue.
 
-முல்லைத்தீவு கேப்பாப்புலவில் இராணுவத்தினர் வசமுள்ள தமது சொந்தக் காணிகளை விடுவிக்கக்கோரி மக்கள் தொடர் போராட்டங்களில் ஈடுபட்டு வந்தனர்.
+🟩
 
-அந்தவகையில் இன்றையதினம் இவ்வாறு ஆளுநரைச் சந்தித்தனர். தமது பிரச்சினைகள் குறித்து ஆராய்வதாக ஆளுநர் தெரிவித்ததாக குறிப்பிட்டுள்ளனர்.
+The owners of the land acquired by the military in Keppapula in Mullaitivu district met with the Governor of the Northern Province today.
+
+The people were engaged in a series of protests to release their own lands in the Mullaitivu Keppapula.
+
+Thus met the governor today. The governor said he was investigating his problems.
 
 ◼️
 
 [Data](articles/3d3735a4.json)
+
+[Extended Data](ext_articles/3d3735a4.ext.json)
 
 ---
 

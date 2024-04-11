@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 01:18:11**
+As of **2024-04-12 01:33:43**
 
 ## Newspaper Stats
 
-*Scraped **18,524** Articles*
+*Scraped **18,526** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,035
 adalk | 1,554
 tamilmirrorlk | 2,164
 adaderanalk | 2,218
-virakesarilk | 2,762
+virakesarilk | 2,764
 dailymirrorlk | 2,826
 adaderanasinhalalk | 2,999
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 2,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,524 (100.0%) of 18,524 articles have been extended.
+18,524 (100.0%) of 18,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### பிரதீப் ரங்கநாதன் நடிக்கும் புதிய படத்தின் அறிவிப்பு
+
+*2024-04-12 01:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/181007) · `ta`
+
+'கோமாளி' படத்தின் மூலம் இயக்குநராகவும், 'லவ் டுடே' படத்தின் மூலம் நடிகராகவும் அறிமுகமாகி, தமிழ் ரசிகர்களிடத்தில் பிரபலமான பிரதீப் ரங்கநாதன் கதையின் நாயகனாக நடிக்கும் புதிய திரைப்படத்தை பற்றிய தகவல்கள் அதிகாரப்பூர்வமாக வெளியிடப்பட்டிருக்கிறது.
+
+'ஓ மை கடவுளே' எனும் வெற்றி படத்தை இயக்கிய இயக்குநர் அஸ்வத் மாரிமுத்து இயக்கத்தில் உருவாகும் பெயரிடப்படாத திரைப்படத்தில் பிரதீப் ரங்கநாதன் கதையின் நாயகனாக நடிக்கிறார். இந்தத் திரைப்படத்தை ஏஜிஎஸ் நிறுவனம் தயாரிக்கிறது. 'லவ் டுடே' எனும் வெற்றி படத்தை தொடர்ந்து மீண்டும் ஏஜிஎஸ் நிறுவனம் தயாரிக்கும் படத்தில் பிரதீப் ரங்கநாதன் நடிக்கிறார்.
+
+...
+
+[Data](articles/0905c5fa.json)
+
+---
+
+### RCBயை பந்தாடி சரிமாரியாக ஓட்டங்களைக் குவித்து வெற்றி பெற்றது மும்பை  இண்டியன்ஸ்
+
+*2024-04-12 00:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/181006) · `ta`
+
+மும்பை வன்கடே விளையாட்டரங்கில் வியாழக்கிழமை (11) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 25ஆவது போட்டியில் றோயல் செலஞ்சர்ஸ் பெங்களூரை பந்தாடி சரிமாரியாக ஓட்டங்களைக் குவித்த மும்பை இண்டியன்ஸ் 7 விக்கெட்களால் இலகுவாக வெற்றிபெற்றது.
+
+இவ் வருடம் முதல் 3 போட்டிகளில் தொல்வி அடைந்த மும்பை இண்டியன்ஸ் இப்போது அடுத்தடுத்து 2 வெற்றிகளை ஈட்டியுள்ளது.
+
+ஆரம்பம் முதல் கடைசிவரை விறுவிறுப்பை தோற்றுவித்த இப் போட்டியில் ஜஸ்பிரிட் பும்ராவின் இந்த வருடத்துக்கான சாதனை மிகு 5 விக்கெட் குவியல், இஷான் கிஷான், ரோஹித் ஷர்மா, சூரியகுமார் யாதவ், அணித் தலைவர் ஹார்திக் பாண்டியா ஆகியோரின் சரிமாரியான ஓட்டக் குவிப்பு என்பன மும்பை இண்டியன்ஸின் வெற்றியை உறுதி செய்தன.
+
+துடுப்பாட்ட வீரர்களுக்கு சாதகமாக அமைந்த இப் போட்டியில் ஜஸ்ப்ரிட் பும்ரா 5 விக்கெட் குவியலைப் பதிவுசெய்தபோதிலும் பவ் டு ப்ளெசிஸ், ரஜத் பட்டிதார், தினேஷ் கார்த்திக் ஆகியோர் குவித்த அரைச் சதங்கள் என்பன றோயல் செலஞ்சர்ஸ் பெங்களூருக்கு கணிசமான ஓட்டங்களைப் பெற உதவின.
+
+...
+
+[Data](articles/dbfd81de.json)
+
+---
 
 ### A reduction in prices of some more goods
 
@@ -2339,55 +2371,5 @@ On the request of PM Gunawardena, South Korea agreed to provide smart classrooms
 [Data](articles/cfeba759.json)
 
 [Extended Data](ext_articles/cfeba759.ext.json)
-
----
-
-### Police shooting the lorry transporting cattle
-
-*2024-04-11 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195531) · `si`
-
-Police found a lorry with a dead driver near Kananke Raja Maha Viharaya at 4.30 am. The lorry was shot at, injuring one inside, and two escaped.
-
-🟩
-
-Police were shocked at a lorry, who was commanded in the area where Kanankey Doliyagoda.
-
-The police said that the lorry was shot dead by carrier.
-
-A group of police officers have been imposed on a night visit to a lorry that a corpse was stabbed to a lorry near the Kananke Raja Maha Viharaya at around 4.30 am today (11).
-
-However, the lorry was continued and the police officers were shot.
-
-One person in the lorry was injured and two others fled.
-
-Mohammed Siyam, a resident of Gintota, was a resident of Mapugala area.
-
-◼️
-
-[Data](articles/5d42b9a4.json)
-
-[Extended Data](ext_articles/5d42b9a4.ext.json)
-
----
-
-### Xi calls for fair, transparent environment for investment in Sri Lanka
-
-*2024-04-11 08:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Xi-calls-for-fair-transparent-environment-for-investment-in-Sri-Lanka/155-280574) · `en`
-
-Colombo, April 11 (Daily Mirror) - Chinese President Xi Jinping , in his recent meeting with Prime Minister Dinesh Gunawardena, has reportedly stressed the need for ‘fair and transparent’ environment for Chinese companies to invest in Sri Lanka.
-
-The Chinese leader had further mentioned that China is not happy about its friends being influenced by other countries unnecessarily when taking decisions.
-
-However , in the meeting which a top source mentioned as friendly and cordial , the Chinese President did not refer to any third country in his remarks.
-
-The Prime Minister recently undertook a tour of China between March March 25 and 30 to attend the Boao Forum for Asia (BFA) Annual Conference 2024.
-
-Meanwhile , during a separate meeting, Chinese Prime Minister Li Qiang has raised concerns about Sri Lanka announcing a moratorium on foreign research vessels in its Exclusive Economic Zone (ECZ) targeting Chinese ships while entertaining a similar vessel from Germany in between.
-
-...
-
-[Data](articles/6e82e1f9.json)
-
-[Extended Data](ext_articles/6e82e1f9.ext.json)
 
 ---

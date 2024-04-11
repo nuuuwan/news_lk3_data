@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 12:50:49**
+As of **2024-04-11 13:03:35**
 
 ## Newspaper Stats
 
-*Scraped **18,451** Articles*
+*Scraped **18,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,56 @@ adalk | 1,549
 tamilmirrorlk | 2,156
 adaderanalk | 2,207
 virakesarilk | 2,746
-dailymirrorlk | 2,814
+dailymirrorlk | 2,815
 adaderanasinhalalk | 2,987
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,450 (100.0%) of 18,451 articles have been extended.
+18,451 (100.0%) of 18,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### புதுவருட காலத்தில் போலி நோட்டுகளின் புழக்கம் அதிகரிப்பு!
+### Japan grants aid to strengthen operations at BIA
+
+*2024-04-11 12:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japan-grants-aid-to-strengthen-operations-at-BIA/108-280622) · `en`
+
+Colombo, April 11 (Daily Mirror) - The Japanese government has granted a stock of high-tech scanners, valued at 8.4 million US dollars, to the Katunayake International Airport and the Colombo Port.
+
+In a grant from the Japanese government, a supply of scanners has been provided to monitor health issues, such as epidemics and contagious diseases harmful to public health that could be spread by foreigners in the country.
+
+The first batch of equipment under the grant aid was handed over to Ports, Shipping and Aviation Minister Nimal Siripala de Silva by the Japanese Ambassador to Sri Lanka, Mizukoshi Hideaki, at the Katunayake International Airport yesterday.
+
+The project is being implemented by the International Organization for Migration (IOM). In addition to disease-detecting scanners, baggage scanners, full-body scanners, foreign passport scanners and a biometric access control system have been provided under the project.
+
+...
+
+[Data](articles/310c3b5b.json)
+
+---
+
+### Increase in circulation of fake notes during the New Year
 
 *2024-04-11 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180970) · `ta`
 
-இந்த வருடத்தில் போலி நாணயத்தாள்களின் புழக்கம் அதிகரித்துள்ளதாகவும், பணத்தை கையாள்வதில் கவனமாக இருக்குமாறும் பொலிஸாரினால்  பொதுமக்களை அறிவுறுத்தியுள்ளனர்.
+The police advise against circulating fake notes during New Year, urging caution with money. Deputy Inspector General of Police Nihal Talduwa warns of an increase in fake currency, especially in suburbs, and advises reporting any changes in currency notes.
 
-குறிப்பாக கொழும்பு உள்ளிட்ட புறநகர் பகுதிகளிலும், நாட்டின்  பல பகுதிகளிலும் போலி நாணயத்தாள்களை  மாற்றுவதற்கு சிலர். முற்படலாம் என பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்..
+🟩
 
-மேலும் பணக் கையாள்கையின்  போது நாணயத்தாள்களில் மாற்றம் இருந்தால் பொலிஸாருக்கு  தகவல் தெரிவிக்குமாறு தெரிவித்துள்ளார்.
+The police have advised the public to increase the circulation of fake currency this year and to be careful with money handling.
+
+Some people, especially in suburbs, and many other parts of the country to change fake currency notes. Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said.
+
+He also told the police to inform the police if there was a change in the currency notes during the cash handling.
 
 ◼️
 
 [Data](articles/80b1a2a8.json)
+
+[Extended Data](ext_articles/80b1a2a8.ext.json)
 
 ---
 
@@ -2209,29 +2233,5 @@ Answer (Amuruda): 'Both of my parents are very interested in cricket. My father 
 [Data](articles/2febd161.json)
 
 [Extended Data](ext_articles/2febd161.ext.json)
-
----
-
-### In 2030, the SLAF troops to be reduced to 18,000
-
-*2024-04-10 20:05:48* · [`adalk`](https://www.ada.lk/breaking_news/2030-දී-ගුවන්-හමුදා-භට-පිරිස-18000ක්-දක්වා-අඩු-කිරීමට-යයි/11-409058) · `si`
-
-In 2030, the Sri Lanka Air Force (SLAF) plans to reduce its troops from 35,000 to 18,000, enhancing service with advanced technology. A Colombo Air Show and Technology Trade Show will feature parachute shows and support from local and foreign airlines from January 29 to June 29.
-
-🟩
-
-Air Marshal Udani Nayani Nayani Nayani Nayani Nayaki said. Speaking at a press conference held at the Air Force Headquarters yesterday (10), the Air Force Commander said that the service from about 35,000 troops of 2030 is more than 1830That is.
-
-He said that the service provided by a soldier and supply of security camera technology and technology and the drones were provided by a troops and the drones were provided with a drone.
-
-A Colombo Air Show and Technology Trade Show will be held on 29th May to be held on 29th May of this month of January 29 to June 29.
-
-A large number of local and foreign tourists are to receive a large number of features including 05-day airlines, which have a large support from local and foreign airlines.He said that the people will be able to take place on the role of the SLAF and see parachute shows.
-
-◼️
-
-[Data](articles/dd1859f4.json)
-
-[Extended Data](ext_articles/dd1859f4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 17:54:06**
+As of **2024-04-11 18:10:03**
 
 ## Newspaper Stats
 
-*Scraped **18,487** Articles*
+*Scraped **18,492** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ islandlk | 1,014
 dailyftlk | 1,018
 economynextcom | 1,034
 adalk | 1,549
-tamilmirrorlk | 2,160
-adaderanalk | 2,212
-virakesarilk | 2,753
+tamilmirrorlk | 2,162
+adaderanalk | 2,213
+virakesarilk | 2,754
 dailymirrorlk | 2,820
-adaderanasinhalalk | 2,994
+adaderanasinhalalk | 2,995
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,487 (100.0%) of 18,487 articles have been extended.
+18,487 (100.0%) of 18,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### අවුරුදු සමයේ අඛණ්ඩ ඉන්ධන සැපයුමක්
+
+*2024-04-11 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195549) · `si`
+
+සිංහල දෙමළ අලුත් අවුරුදු උත්සව සමය තුළ සිපෙට්කෝ ඉන්ධනහල් මගින් අඛණ්ඩ ඉන්ධන සැපයුමක් සඳහා අවශ්‍ය ක්‍රියාමාර්ග ගෙන ඇති බව ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාව පවසයි.
+
+රටේ ඉන්ධන ඉල්ලුම සපුරාලීම සඳහා අවශ්‍ය ඉන්ධන තොග ආනයනය කර ප්‍රධාන පර්යන්ත හරහා ගබඩාවල ප්‍රමාණවත් සංචිත පවත්වාගෙන යාමට පියවර ගෙන ඇති අතර ඉන්ධන තොග පවත්වාගෙන යාම සම්බන්ධයෙන් සියලු ඉන්ධනහල් හිමියන් දැනුවත් කිරීමට ද කටයුතු කර ඇති බව එම සංස්ථාව පෙන්වා දෙයි.
+
+බෙදුම්කරුවන්ගේ ඉන්ධන ඇනවුම් ක්‍රියාවලිය පහසුකරලීම සඳහා ලබන 15 වන දින දක්වා චෙක්පත් මගින් ගනුදෙනු කිරීමට අවස්ථාව සලසා දී තිබේ.
+
+මෙම කාලපරිච්ඡේදය තුළ ලංකා ඛණිජ තෙල් තොග ගබඩා පර්යන්ත සමාගම විසින් ඉන්ධන බෙදාහැරීමේ කටයුතු සඳහා ප්‍රමාණවත් ටැංකි රථ යෙදවීමට ද තීරණය කර ඇති බව ඛණිජ තෙල් සංස්ථාව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/47b2979c.json)
+
+---
+
+### Three arrested at BIA attempting to smuggle goods worth over Rs. 10m
+
+*2024-04-11 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98578/three-arrested-at-bia-attempting-to-smuggle-goods-worth-over-rs-10m) · `en`
+
+Three Sri Lankan passengers have been arrested by the CID at the Bandaranaike International Airport (BIA) in Katunayake while trying to smuggle foreign liquor, cigarettes, laptops, mobile phones and other accessories worth over Rs. 10 million, into the country.
+
+The three passengers, two of them arriving from Dubai and the other from Bangalore, were arrested on charges of attempting to bring in a consignment of goods without paying duty and without declaring to customs.
+
+A total of 111 bottles of foreign liquor, a stock of foreign cigarettes and several laptop devices and mobile phones including iPhones and iPods were found in their possession.
+
+The suspects are Sri Lankan nationals and are residents of Colombo 13 and Maskeliya areas.
+
+◼️
+
+[Data](articles/fedcab0b.json)
+
+---
+
+### மகளிர் ரி20 உலகக் கிண்ண தகுதிகாண் சுற்றுக்கான இலங்கை குழாம் அறிவிப்பு
+
+*2024-04-11 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/180999) · `ta`
+
+அபுதாபியில் இந்த மாதம் நடைபெறவுள்ள ஐசிசி மகளிர் ரி20 உலகக் கிண்ண உலகளாவிய தகுதிகாண் சுற்றுப் போட்டியை முன்னிட்டு 15 வீராங்னைகளைக் கொண்ட இலங்கை மகளிர் கிரிக்கெட் குழாத்தை ஸ்ரீலங்கா கிரிக்கெட் தெரிவுக்குழு பெயரிட்டுள்ளது.
+
+தென் ஆபிரிக்காவில் இருவகை மட்டுப்படுத்தப்பட்ட ஓவர் கிரிக்கெட் போட்டியில் பங்குபற்றிவரும் இலங்கை குழாத்தில் இடம்பெறும் வீராங்கனைகளுடன் 15 வயதுடைய சஷினி கிம்ஹானி அறிமுக வீராங்கனையாக குழாத்தில் இணைத்துக்கொள்ளப்பட்டுள்ளார்.
+
+ஹம்பாந்தோட்டையிலும் காலியிலும் நடைபெற்ற 19 வயதுக்குட்பட்ட மகளிர் இருவகை மட்டுப்படுத்தப்பட்ட ஓவர் கிரிக்கட் மும்முனை தொடர்களில் திறமையாக பந்துவீசியதால் சஷனி கிம்ஹானிக்கு சிரேஷ்ட அணியில் வாய்ப்பு வழங்கப்பட்டுள்ளது.
+
+தென் ஆபிரிக்காவுக்கு எதிரான மகளிர் ரி20 கிரிக்கெட் தொடரில் வெற்றியீட்டி வரலாறு படைத்த சூட்டோடு இலங்கை மகளிர் அணி, தகுதிகாண் சுற்றை மிகுந்த நம்பிக்கையுடன் எதிர்கொள்ளவுள்ளது.
+
+...
+
+[Data](articles/a098fd9d.json)
+
+---
+
+### முன்பள்ளி கட்டாயம் : சட்டமும் வருகிறது
+
+*2024-04-11 17:25:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்பள்ளி-கட்டாயம்-சட்டமும்-வருகிறது/175-335852) · `ta`
+
+நான்கு வயதிற்குட்பட்ட அனைத்து குழந்தைகளுக்கும் முன்பள்ளி கட்டாயமாக்கப்படும் என கல்வி மறுசீரமைப்பு தொடர்பான நிபுணர் குழுவின் பேராசிரியர் குணபால நாணயக்கார தெரிவித்துள்ளார்.
+
+இதன்படி, 2026 ஆம் ஆண்டு முதல் பாடசாலையின் முதலாம் ஆண்டுக்கு முன்னர் நான்கு வயதில் முன்பள்ளி கற்பது கட்டாயமாக்கப்படும்.
+
+◼️
+
+[Data](articles/e85aae30.json)
+
+---
 
 ### Many Illegal items have been brought to Katunayake
 
@@ -55,6 +123,22 @@ The suspects are Sri Lankans and are residents of Colombo 13 and Maskeliya areas
 [Data](articles/a8d116a9.json)
 
 [Extended Data](ext_articles/a8d116a9.ext.json)
+
+---
+
+### 23 வயது பெண் மர்மமான  முறையில் மரணம்
+
+*2024-04-11 16:55:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/23-வயது-பெண்-மர்மமான-முறையில்-மரணம்/175-335850) · `ta`
+
+அவிசாவளையில் உள்ள ஹோட்டல் ஒன்றில் 23 வயதுடைய பெண் ஒருவர் சந்தேகத்திற்கிடமான முறையில் சடலமாக மீட்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்த பெண்ணுடன் சென்ற நபர், அவரது சுயநினைவற்ற நிலையை ஹோட்டல் நிர்வாகத்திடம் தெரிவித்ததையடுத்து, அவிசாவளை பொலிஸாருக்கு அறிவிக்கப்பட்டது.
+
+இந்த அழைப்பின் பேரில், சீதாவக்க பொலிஸ் பிரிவின் குற்றப் புலனாய்வு அதிகாரிகள் சம்பவ இடத்திற்கு விரைந்து விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+◼️
+
+[Data](articles/f7a2632d.json)
 
 ---
 
@@ -2177,97 +2261,5 @@ Following the meeting between President Ranil Wickremesinghe and Kazakhstan Pres
 [Data](articles/0021a594.json)
 
 [Extended Data](ext_articles/0021a594.ext.json)
-
----
-
-### Singapore’s Food Safety Agency officials explore local food processing firms
-
-*2024-04-11 04:59:02* · [`dailyftlk`](https://www.ft.lk/business/Singapore-s-Food-Safety-Agency-officials-explore-local-food-processing-firms/34-760572) · `en`
-
-A delegation from the Singapore Food Agency (SFA), headed by Assistant Chief Executive Officer (Operations), Dr. Abdul Jalil Abdul Karder, along with two other officers from the Joint Operation Division of the SFA visited Sri Lanka from 25 to 28 March.
-
-The purpose of the visit was to conduct pre-inspections of slaughterhouses in Sri Lanka that have applied for licenses from the SFA in Singapore, with the objective of assessing the potential of Sri Lankan companies to be approved as sources of poultry products for Singapore.
-
-...
-
-[Data](articles/b69a9d09.json)
-
-[Extended Data](ext_articles/b69a9d09.ext.json)
-
----
-
-### Fitch affirms Construction Guarantee Fund’s ‘BB’ National IFS Rating; Outlook Stable
-
-*2024-04-11 04:57:32* · [`dailyftlk`](https://www.ft.lk/business/Fitch-affirms-Construction-Guarantee-Fund-s-BB-National-IFS-Rating-Outlook-Stable/34-760571) · `en`
-
-Fitch Ratings said it has affirmed Sri Lanka-based Construction Guarantee Fund’s (CGF) National Insurer Financial Strength (IFS) Rating of ‘BB(lka)’. The Outlook is Stable.
-
-Weak Operating Conditions: CGF’s performance exhibits a strong correlation with Government construction activity, as the company offers guarantees and related services to small- and medium-sized contractors involved in Government projects. The Government’s weak fiscal position has resulted in fewer new construction contracts, the suspension of existing projects and payment delays to contractors. This has affected CGF through a drop in premium income and a higher risk of claims by employers.
-
-...
-
-[Data](articles/5139853a.json)
-
-[Extended Data](ext_articles/5139853a.ext.json)
-
----
-
-### Aitken Spence Travels wins prestigious CPM Best Management Practices Award 2024
-
-*2024-04-11 04:56:35* · [`dailyftlk`](https://www.ft.lk/business/Aitken-Spence-Travels-wins-prestigious-CPM-Best-Management-Practices-Award-2024/34-760570) · `en`
-
-Aitken Spence Travels Marketing General Manager Zaharine Hameen (left) and Asst. Vice President Lalin Sumanasinghe accepting the award at the CPM Awards ceremony
-
-Aitken Spence Travels, has clinched the coveted category award for the Hospitality and Tourism sector at the esteemed CPM Best Management Practices Company Awards (BMPC) 2024.
-
-The company recently received the award at the event organised by the Institute of Chartered Professional Managers of Sri Lanka (CPM Sri Lanka).
-
-The accolade reflects Aitken Spence Travels’ commitment to best management practices across its operations and celebrates the company’s managerial expertise, market leadership and business acumen for performance.
-
-...
-
-[Data](articles/aca4e50f.json)
-
-[Extended Data](ext_articles/aca4e50f.ext.json)
-
----
-
-### PRISL renews MOU with Malaysian counterpart
-
-*2024-04-11 04:52:12* · [`dailyftlk`](https://www.ft.lk/business/PRISL-renews-MOU-with-Malaysian-counterpart/34-760569) · `en`
-
-The Plastic and Rubber Institute of Sri Lanka (PRISL) recently renewed its Memorandum of Understanding with PRI Malaysia under the auspices of the Malaysian High Commission in Sri Lanka.
-
-The signing in ceremony was conducted as a hybrid event, with the virtual participation of the senior office- bearers from PRIM.
-
-Malaysia’s High Comm-issioner Bali Hisham Adam and PRISL former Chairman and Indu-stries Ministry Polymer Advisory Council Chairman Indhra Kaushal Rajapaksa graced the occasion.
-
-PRISL President P.P. Perera and PRIM President Chris Ng Kha Chan signed the MOU, with P.K Chan and Indra Kauashal Rajapaksa, both past presidents of the two organisations signed as witnesses.
-
-The event was attended by Malaysian High Commission Counsellor Mohammad Tuming, PRISL Hony. Secretary Pio Perera and Director General Chaminda Perera.
-
-...
-
-[Data](articles/7b525b1c.json)
-
-[Extended Data](ext_articles/7b525b1c.ext.json)
-
----
-
-### Indira Malwatte appointed to Kotmale Holdings Board
-
-*2024-04-11 04:51:11* · [`dailyftlk`](https://www.ft.lk/business/Indira-Malwatte-appointed-to-Kotmale-Holdings-Board/34-760568) · `en`
-
-Indira Malwatte has been appointed to the Board of Kotmale Holdings Plc as an Independent Non-Executive Director.
-
-She also serves on the Board of Cargills (Ceylon) Plc, the parent of Kotmale. Malwatte holds a Combined Degree in Economics and Geography from the University of Peradeniya Sri Lanka and was the first woman Chairperson of the EDB. She has over 40 years of experience in serving the Government both internationally and locally as a Top Export Promotion Professional.
-
-Her in-depth knowledge of multi sectors ranging from Industrial, Agricultural, Services, Supply Chain Management, and International Marketing has led to her serving as a Director in several Companies and Government Institutes in a variety of industries.
-
-...
-
-[Data](articles/3ff060eb.json)
-
-[Extended Data](ext_articles/3ff060eb.ext.json)
 
 ---

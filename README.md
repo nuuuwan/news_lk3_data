@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 15:18:22**
+As of **2024-04-11 15:34:07**
 
 ## Newspaper Stats
 
-*Scraped **18,472** Articles*
+*Scraped **18,474** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 1,549
 tamilmirrorlk | 2,158
 adaderanalk | 2,210
 virakesarilk | 2,750
-dailymirrorlk | 2,818
-adaderanasinhalalk | 2,989
+dailymirrorlk | 2,819
+adaderanasinhalalk | 2,990
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,471 (100.0%) of 18,472 articles have been extended.
+18,472 (100.0%) of 18,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### තරුණයෙකුගේ වෘෂණ කෝෂවලට හානීවීමේ සිද්ධියට පොලීසියේ දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-04-11 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195542) · `si`
+
+මැදවච්චිය පොලීසියේ නිලධාරීන් පිරිසක් සිදුකළ පහරදීමක් නිසා සිය පුතුගේ වෘෂණ කෝෂයක් සැත්කමකින් ඉවත් කිරීමට සිදුවූ බවට ඔහුගේ මව චෝදනා කළ සිද්ධිය සම්බන්ධයෙන් පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
+
+තුවාලකරු සිදුකළ ප්‍රකාශය අනුව අනුරාධපුර රෝහල් පොලීසිය මගින් කැබිතිගොල්ලෑව කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරයා දැනුවත් කර තිබුණි.
+
+අනතුරුව කැබිතිගොල්ලෑව කොට්ඨාස අපරාධ විමර්ශන අංශය මගින් ඒ සම්බන්ධව විමර්ශනයක් සිදුකර සිද්ධියට සම්බන්ධ පොලිස් සැරයන්වරයාව සහ කොස්තාපල්වරයෙක්ව අත්අඩංගුවට ගෙන ඇත.
+
+සැකකරුවන් දෙදෙනා අද (11) කැබිතිගොල්ලෑව මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+අනුරාධපුර ශික්ෂණ රෝහලේ අධ්‍යක්ෂ වෛද්‍ය දුලාන් සමරවීර මහතා සඳහන් කළේ අදාළ තරුණයාගේ වම් වෘෂණ කෝෂය සැත්කමකින් ඉවත් කළ බවය.
+
+◼️
+
+[Data](articles/875c0030.json)
+
+---
+
+### Suspicious death of 23-year-old woman at hotel sparks concerns
+
+*2024-04-11 15:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspicious-death-of-23-year-old-woman-at-hotel-sparks-concerns/108-280628) · `en`
+
+Colombo, April 11 -  A 23-year-old woman was discovered dead under suspicious circumstances at a hotel in Avissawella, Police said.
+
+The Avissawella Police were alerted after the individual accompanying the deceased woman reported her unconscious state to the hotel management.
+
+Upon receiving the call, Crime Scene Investigation Officers from the Sitawaka Police Division rushed to the scene and initiated investigations.
+
+◼️
+
+[Data](articles/016791f8.json)
+
+---
 
 ### Two cops arrested over assault on youth in Medawachchiya
 
@@ -41,6 +77,8 @@ Two police officers attached to Medawachchiya Police Station have been arrested 
 ◼️
 
 [Data](articles/05e44fee.json)
+
+[Extended Data](ext_articles/05e44fee.ext.json)
 
 ---
 
@@ -110,7 +148,7 @@ Tesla, the head of Tesla, 2021 said that the company's vehicles were disrupted i
 
 ### Three arrests with sword and handguns in Maradana
 
-*2024-04-11 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/180978) · `ta`
+*2024-04-11 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180978) · `ta`
 
 In Maradana, three suspects aged 18, 34, and 47, from Colombo 10, were arrested with a T-56 rifle, 14 bullets, and a sword, found in Banana Fort, Colombo.
 
@@ -2173,45 +2211,5 @@ According to the Duckworth Louis system, the Gujarat Titans were 7 runs.
 [Data](articles/eddbf0ab.json)
 
 [Extended Data](ext_articles/eddbf0ab.ext.json)
-
----
-
-### Sri Meenakshi Sundareswarar Temple
-
-*2024-04-11 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180942) · `ta`
-
-Sri Meenakshi Sundareswarar Temple, a spiritual haven for remedying doshas, offers blessings for marriage, wealth, and health. It's a place of worship for Lord Shiva, Vishnu, and Brahma, with a unique Panchamukha Shiva shrine. Devotees seek blessings here, especially on Ratha Saptami, for marriage, wealth, and health.
-
-🟩
-
-Our people who face the day -to -day challenges in the context of current competitions and jealousy.. Specify the only solution to all problems when the primary demand that meets spiritual elders or astrologers for their development is the only solution to all problems. We will say we are going to. The Sri Meenakshi Sundareswarar Temple is the site where our ancestors point out for such lovers.
-
-Some of our family members will have field dosa, Mars dosha, mangalya dosha. This will result in a marriage ban and the marriage is delayed. After doing many remedies, the wedding marriage is delayed by the delays. Others will have Saturn Dosham and Sukra Dosham as Navagraha Dosha. Others would have been infant. Others are stagnant in the same position without developing or developing in businesses. No matter how many doshas like this ... Sri Meenakshi Sundareswarar Temple is the place where all the doshas are remedied.
-
-...
-
-[Data](articles/e68620dd.json)
-
-[Extended Data](ext_articles/e68620dd.ext.json)
-
----
-
-### The girlfriend died on the 50th day of the boyfriend - the tragedy in Jaffna!
-
-*2024-04-11 00:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/180941) · `ta`
-
-A tragic suicide in Jaffna: Kadirgamalingam Gopisan, 20, from Tellippalai, hanged himself 50 days ago on a Tuesday.
-
-🟩
-
-The suicide of a girlfriend who died and died on Tuesday (09) and committed suicide on the 50th Tuesday (09).. Kadirgamalingam Gopisan (20 years old) from Singawatte, Durgapuram and Tellippalai area has died.
-
-A young woman from Tellippali, a young man, has been hanged 50 days ago. In this case, the young man was hanged at his residence on Tuesday (09).
-
-◼️
-
-[Data](articles/9fe0f75a.json)
-
-[Extended Data](ext_articles/9fe0f75a.ext.json)
 
 ---

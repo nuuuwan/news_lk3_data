@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 10:04:14**
+As of **2024-04-11 10:18:18**
 
 ## Newspaper Stats
 
-*Scraped **18,425** Articles*
+*Scraped **18,426** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,027
 adalk | 1,547
 tamilmirrorlk | 2,156
 adaderanalk | 2,204
-virakesarilk | 2,739
+virakesarilk | 2,740
 dailymirrorlk | 2,809
 adaderanasinhalalk | 2,981
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 2,981
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,421 (100.0%) of 18,425 articles have been extended.
+18,425 (100.0%) of 18,426 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### ගුවන් හමුදා භටපිරිස් අඩුකරන්න තීරණයක්
+### Decision to reduce SLAF troops
 
 *2024-04-11 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195533) · `si`
 
-තාක්ෂණයට මුල්තැන දෙමින් ගුවන් භට පිරිස 35,000 සිට 18,000 දක්වා අඩු කරන බව ගුවන් හමුදාපති එයාර් මාර්ෂල් උදේනි රාජපක්ෂ මහතා පවසයි.
+Air Force Air Marshal Unima Rajapaksa announced a reduction in SLAF troops to 18,000, emphasizing the use of technology like CCTV, AI, drones, and information systems to enhance efficiency and literacy.
 
-ඔහු මේ බව සඳහන් කළේ, ගුවන් හමුදා මූලස්ථානයේ ඊයේ (10) පැවති ප්‍රවෘත්ති සාකච්ඡාවකදීය.
+🟩
+
+Commander of the Air Force, Air Force Air Marshal Unima Rajapaksa says that the airmen will reduce the technology to 18,000.
+
+He was speaking at a press conference held at the Air Force Headquarters yesterday.
 
 ...
 
 [Data](articles/dac5c2b6.json)
+
+[Extended Data](ext_articles/dac5c2b6.ext.json)
 
 ---
 
@@ -62,45 +68,81 @@ DP leader Lee Jae-myung, who led a combative campaign against Yoon, said the top
 
 [Data](articles/53af9eb5.json)
 
+[Extended Data](ext_articles/53af9eb5.ext.json)
+
 ---
 
-### 2 நாட்களும் விசேட நடவடிக்கை முன்னெடுக்கும் கலால் திணைக்களம்
+### The Department of Excise to carry out special action 2 days
 
 *2024-04-11 09:48:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-நாட்களும்-விசேட-நடவடிக்கை-முன்னெடுக்கும்-கலால்-திணைக்களம்/175-335847) · `ta`
 
-சட்டவிரோதமாக மதுபானம் விற்பனை செய்பவர்களை இலக்கு வைத்து கொழும்பில் இரண்டு பண்டிகைக் கால நாட்களில் விசேட நடவடிக்கையொன்றை முன்னெடுக்கவும், சிங்கள மற்றும் தமிழ் புத்தாண்டுக் காலத்தில் சட்டத்தை கடுமையாக நடைமுறைப்படுத்தவும் கலால் திணைக்களம் திட்டமிட்டுள்ளது.
+The Department of Excise in Colombo plans a special action on Sinhala and Tamil New Year, targeting illegal liquor sellers. A joint operation with four excise stations will involve over 50 officials. Licensed establishments found selling liquor illegally may have their licenses revoked.
 
-கெஸ்பேவ, பாதுக்க, பத்தரமுல்ல மற்றும் கொழும்பு நகரில் உள்ள நான்கு பிரதான கலால் நிலையங்களுடன் இணைந்து கூட்டு நடவடிக்கை ஏற்பாடு செய்யப்பட்டுள்ளதாக கொழும்பு நகரை மேற்பார்வையிடும் உயர் கலால் அதிகாரி ஒருவர் டெய்லி மிரருக்கு நேற்று தெரிவித்தார்.
+🟩
 
-இதன் விளைவாக ஏப்ரல் 12 மற்றும் 13 ஆம் திகதிகளில் கலால் கட்டளைகளை மீறி மதுபானங்களை விற்பனை செய்யும் சட்டத்தை மீறுபவர்களைத் தேடி 50 க்கும் மேற்பட்ட அதிகாரிகள் பல குழுக்களாக நியமிக்கப்பட்டுள்ளனர்.
+The Department of Excise is planning to carry out a special action in Colombo in two festive days, targeting illegal liquor sellers and strictly implementing the law during the Sinhala and Tamil New Year.
 
-புத்தாண்டுக்கு முன்னதாக மதுபானங்களை அதிக அளவில் கையிருப்பில் வாங்கி, கறுப்புச் சந்தையில் அதிக விலைக்கு விற்கும் ஒழுங்கமைக்கப்பட்ட விற்பனையாளர்கள் குறித்து தங்களுக்கு உளவுத்துறை தகவல் கிடைத்துள்ளது என்று அவர் கூறினார்.
+A high -ranking official who oversees Colombo city yesterday told the Daily Mirror that a joint operation has been organized in collaboration with four major excise stations in Kespewa, Paduku, Battaramulla and Colombo.
+
+As a result, more than 50 officials have been appointed in several groups in search of violating law for selling liquor in violation of excise orders on April 12 and 13.
+
+He said that they had received information about the organized sellers who bought more liquor in a large quantity of liquor before the New Year and sold the high prices in the black market.
+
+Tracking groups will excel in vehicles carrying liquor for relaxing purpose.
 
 ...
 
 [Data](articles/158d700d.json)
 
+[Extended Data](ext_articles/158d700d.ext.json)
+
 ---
 
-### பிற்பகல் ஒரு மணிக்குப் பின்னர் இடியுடன் கூடிய மழை பெய்யும்
+### பிரபல மிருதங்க வித்துவான் காலமானார் !
+
+*2024-04-11 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180949) · `ta`
+
+பிரபல மிருதங்க வித்துவான் பிரம்மஸ்ரீ சு.வரதராஜசர்மா நேற்று புதன்கிழமையன்று (10) யாழ்ப்பாணம் தெல்லிப்பழையில் காலமானார்.
+
+தெல்லிப்பழையை பிறப்பிடமாகக்  கொண்ட இவர் ,1955 ஆம் ஆண்டு மே மாதம் 02 ம் திகதி பிறந்தார்.  இவர் மிருதங்க வித்துவானாக பல்வேறு கலை சார் பணிகளை முன்னெடுத்திருந்தார்.
+
+குறிப்பாக யுத்த காலம் முதல் இன்று வரை அறநெறி சார் கல்வி வளர்ச்சியிலும் பங்காற்றியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e8523e00.json)
+
+---
+
+### Thunderstorms after one o'clock in the afternoon
 
 *2024-04-11 09:41:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிற்பகல்-ஒரு-மணிக்குப்-பின்னர்-இடியுடன்-கூடிய-மழை-பெய்யும்/175-335846) · `ta`
 
-வடக்கு, வடமேல்,மேல் மற்றும்  சப்ரகமுவ மாகாணங்களிலும் அத்துடன் அனுராதபுரம், காலி மற்றும் மாத்தறை  மாவட்டங்களிலும்  இன்று அதிகரித்த வெப்பநிலை காணப்படுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Thunderstorms expected after 1 PM in North, North Western, Western, Sabaragamuwa provinces, Anuradhapura, Galle, Matara districts, and Eastern, Uva provinces. Heavy rains in Central, Sabaragamuwa, Upper, Southern Provinces. Vigilance advised for strong winds and lightning. Rainfall in sea regions from Trincomalee to Batticaloa, Puttalam to Colombo, Galle. Wind speeds may increase to 40-45 km/h in certain areas.
 
-சூரியனின் வடக்கு நோக்கிய நகர்வின் காரணமாக இன்று மதியம் சுமார் 12.11 மணியளவில் வத்தலன்குண்டு, மதவாச்சி, கொரவப்பொத்தான மற்றும் திருகோணமலை   போன்ற இடங்களுக்கு மேலாக சூரியன் உச்சம் கொடுக்கின்றது.
+🟩
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் ஹம்பாந்தோட்டை மாவட்டத்திலும் அடிக்கடி மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+The Department of Meteorology has said that increased temperatures will occur today in the North, North Western, Western and Sabaragamuwa provinces as well as in the Anuradhapura, Galle and Matara districts.
 
-நாட்டின் ஏனைய பிரதேசங்களின் பல இடங்களில் பிற்பகல் ஒரு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+Due to the North of the Sun's north, the sun is at around 12.11 pm today at around 12.11 pm.
 
-மத்திய, சப்ரகமுவ, மேல் மற்றும் தென் மாகாணங்களின் சில இடங்களில் 100 மில்லிமீற்றரிலும் கூடிய  பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+Rainfall or thunderstorms can occur frequently in the Eastern and Uva provinces as well as in the Hambantota district.
 
-பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக் கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு  கேட்டுக்கொள்ளப்படுகின்றனர்.
+Showers or thunderstorms are likely to occur after one o'clock in the afternoon.
+
+Heavy rains are expected to occur in some parts of the Central, Sabaragamuwa, Upper and Southern Provinces.
+
+In cases where strong winds and lightning are occurring, the public is asked to act with vigilance.
+
+Rainfall is expected in the sea regions along the coast of Trincomalee to Batticaloa to Hambantota.
+
+Rainfall or thunderstorms are expected in many parts of the sea regions from Puttalam to Colombo and Galle.
 
 ...
 
 [Data](articles/30b532d1.json)
+
+[Extended Data](ext_articles/30b532d1.ext.json)
 
 ---
 
@@ -2173,31 +2215,5 @@ In 2010, the President handed over the housing of 294 houses in replacement of t
 [Data](articles/44b1b0cd.json)
 
 [Extended Data](ext_articles/44b1b0cd.ext.json)
-
----
-
-### Illegal protests in Sri Lanka
-
-*2024-04-10 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180927) · `ta`
-
-Amnesty International reports on illegal protest suppression in Sri Lanka from 2022-2023, highlighting use of weapons and strategies against peaceful gatherings, which it deems a symbol of repression. The government has been urged to address past illegal actions during protests. The report, based on a survey over 16 months, shows continuous illegal use of tear gas, water, and improper bearding by law enforcement. Over half of the protests failed to adhere to international laws, limiting the right to peaceful assembly. Protests were sparked by economic crisis, demanding resignation of leaders and accountability for corruption and human rights violations. Despite the exit of former President Gotabhaya Rajapakse, illegal suppression continued under President Ranil Wickremesinghe.
-
-🟩
-
-Pointing out that the demonstrations from 2022 to 2023 in Sri Lanka have been suppressed by illegal weapons and strategies, the International Amnesty International said that failing to ensure the right to gather peacefully and that it was a symbol of repression.
-
-In this context, the government has urged the government to take steps to stop the law in the past, with formal inquiries into allegations of illegal creation during protests in the past.
-
-The Amnesty International yesterday issued a detailed report on the illegal use of weapons during demonstrations in Sri Lanka.
-
-The Amnesty International has prepared this statement on the basis of a widespread survey of strategies and use of the strategies that have been handled to suppress them during the 16 -month period in Sri Lanka over 16 months from March - 2023.
-
-The study shows a continuous tendency of illegal tear gas, the use of water, and improper bearding by Sri Lanka's legal implementation structures.
-
-...
-
-[Data](articles/ab7f4f84.json)
-
-[Extended Data](ext_articles/ab7f4f84.ext.json)
 
 ---

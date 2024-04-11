@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 06:55:52**
+As of **2024-04-11 07:17:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,391 (100.0%) of 18,399 articles have been extended.
+18,394 (100.0%) of 18,399 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -165,6 +165,8 @@ The Bastille will be breached. If not totally, substantially. 2024 is the year w
 ...
 
 [Data](articles/efc79ac3.json)
+
+[Extended Data](ext_articles/efc79ac3.ext.json)
 
 ---
 
@@ -454,6 +456,8 @@ One government matter done with speed is withdrawing printed gazettes, withdrawi
 
 [Data](articles/06918d3d.json)
 
+[Extended Data](ext_articles/06918d3d.ext.json)
+
 ---
 
 ### LOLC clinches seventh successive People’s Award
@@ -467,6 +471,8 @@ At LOLC, community well-being takes primacy, and this accolade emphasises their 
 ...
 
 [Data](articles/ac8c4071.json)
+
+[Extended Data](ext_articles/ac8c4071.ext.json)
 
 ---
 

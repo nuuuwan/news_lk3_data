@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 19:33:43**
+As of **2024-04-11 19:51:28**
 
 ## Newspaper Stats
 
-*Scraped **18,497** Articles*
+*Scraped **18,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ tamilmirrorlk | 2,163
 adaderanalk | 2,213
 virakesarilk | 2,756
 dailymirrorlk | 2,822
-adaderanasinhalalk | 2,995
+adaderanasinhalalk | 2,996
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,497 (100.0%) of 18,497 articles have been extended.
+18,497 (100.0%) of 18,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### ශ්‍රී ලංකාවේ ආර්ථිකය ගැන යළිත් පුරෝකථනයක්
+
+*2024-04-11 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195550) · `si`
+
+ආසියානු සංවර්ධන බැංකුවේ ප්‍රමුඛතම ආර්ථික ප්‍රකාශනයකට අනුව ශ්‍රී ලංකාවේ ආර්ථිකය 2024 වසරේදී මධ්‍යස්ථ වර්ධනයක් පෙන්නුම් කරනු ඇති බවට පුරෝකතනය කර තිබේ.
+
+එහි දැක්වෙන්නේ ශ්‍රී ලංකාවේ ආර්ථිකය වසර දෙකක අඛණ්ඩ හැකිලීම්වලින් පසුව මෙම තත්ත්වය පෙන්නුම් කරන බවය.
+
+ඒ අනුව මෙම වසරේදී මෙරට ආර්ථිකය සියයට 1යි දශම 9ක වර්ධනයක් පෙන්නුම් කර ඇති බව ඔවුන් පෙන්වා දෙයි.
+
+අදාළ ප්‍රකාශනයට අනුව 2025 වසරේදී මෙරට ආර්ථිකයේ සියයට 2යි දශම 5ක වර්ධනයක් පුරෝකථනය කර තිබේ.
+
+පැවති අර්බුදකාරී වාතාවරණයෙන් පසු 2023 වසරේ මැද භාගයේ සිට මෙරට ආර්ථිකය ප්‍රකෘතිමත් වීමේ සලකුණු පෙන්නුම් කළ අතර මේ වනවිට උද්ධමනය තනි ඉලක්කමක් දක්වා පහත වැටී ඇති බව ආසියානු සංවර්ධන බැංකුව පෙන්වා දෙයි‍.
+
+එමෙන්ම සංචාරක පැමිණීම් ඉහළ යාම සහ විදෙස් ප්‍රේෂණ ගලා ඒම ද ප්‍රශංසනීය තත්ත්වයක පවතින බව අදාළ ප්‍රකාශනයෙන් සඳහන් වේ.
+
+දුෂ්කර ප්‍රතිසංස්කරණ ක්‍රියාත්මක කිරීම හමුවේ ශ්‍රී ලංකාව මේ වනවිට ලබා ඇති ප්‍රගතිය ප්‍රශංසනීය බව ආසියානු සංවර්ධන බැංකුවේ ශ්‍රී ලංකාව සඳහා වන නියෝජ්‍ය අධ්‍යක්ෂවරයා ප්‍රකාශ කර ඇත.
+
+◼️
+
+[Data](articles/99adebdc.json)
+
+---
 
 ### Remainig Aswesuma payments will be made on Monday
 
@@ -2285,25 +2309,5 @@ During these discussions, Korea agreed to increase support to Sri Lanka in sever
 [Data](articles/6c9b1332.json)
 
 [Extended Data](ext_articles/6c9b1332.ext.json)
-
----
-
-### Sri Lanka and Estonia successfully conclude inaugural bilateral political consultations
-
-*2024-04-11 05:04:44* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-Estonia-successfully-conclude-inaugural-bilateral-political-consultations/56-760578) · `en`
-
-Sri Lanka and Estonia convened the inaugural bilateral political consultations at senior official level recently.
-
-The consultations focused on consolidating bilateral relations and identifying new areas for cooperation between the two countries. Potential for both public and private sector collaborations in ICT and e-governance was the highlight of the discussion as Estonia is renowned for its expertise in these sectors. A Memorandum of Understanding in e-governance is being negotiated between the two countries for further consolidating the partnership.
-
-The discussion also considered strengthening collaboration in green development, tourism, education, technical assistance and capacity building.
-
-The two sides exchanged views on cooperation at multilateral fora, developments in their respective regions and current global issues. They reiterated a shared commitment to upholding the values of freedom, democracy and the rule of law.
-
-...
-
-[Data](articles/f7418d3e.json)
-
-[Extended Data](ext_articles/f7418d3e.ext.json)
 
 ---

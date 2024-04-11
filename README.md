@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 19:51:28**
+As of **2024-04-11 20:03:34**
 
 ## Newspaper Stats
 
@@ -26,57 +26,39 @@ adaderanasinhalalk | 2,996
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,497 (100.0%) of 18,498 articles have been extended.
+18,498 (100.0%) of 18,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### ශ්‍රී ලංකාවේ ආර්ථිකය ගැන යළිත් පුරෝකථනයක්
+### Three arrested with illegal goods in Katunayake
 
-*2024-04-11 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195550) · `si`
+*2024-04-11 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181000) · `ta`
 
-ආසියානු සංවර්ධන බැංකුවේ ප්‍රමුඛතම ආර්ථික ප්‍රකාශනයකට අනුව ශ්‍රී ලංකාවේ ආර්ථිකය 2024 වසරේදී මධ්‍යස්ථ වර්ධනයක් පෙන්නුම් කරනු ඇති බවට පුරෝකතනය කර තිබේ.
+Three passengers from India and Dubai were arrested in Katunayake for smuggling 111 foreign liquor bottles, cigarettes, and computer devices without customs clearance.
 
-එහි දැක්වෙන්නේ ශ්‍රී ලංකාවේ ආර්ථිකය වසර දෙකක අඛණ්ඩ හැකිලීම්වලින් පසුව මෙම තත්ත්වය පෙන්නුම් කරන බවය.
+🟩
 
-ඒ අනුව මෙම වසරේදී මෙරට ආර්ථිකය සියයට 1යි දශම 9ක වර්ධනයක් පෙන්නුම් කර ඇති බව ඔවුන් පෙන්වා දෙයි.
+Three passengers from India and Dubai were arrested in Katunayake on Thursday (11).
 
-අදාළ ප්‍රකාශනයට අනුව 2025 වසරේදී මෙරට ආර්ථිකයේ සියයට 2යි දශම 5ක වර්ධනයක් පුරෝකථනය කර තිබේ.
+They have been arrested in connection with the incident of bringing some goods without paying customs and notifying the customs.
 
-පැවති අර්බුදකාරී වාතාවරණයෙන් පසු 2023 වසරේ මැද භාගයේ සිට මෙරට ආර්ථිකය ප්‍රකෘතිමත් වීමේ සලකුණු පෙන්නුම් කළ අතර මේ වනවිට උද්ධමනය තනි ඉලක්කමක් දක්වා පහත වැටී ඇති බව ආසියානු සංවර්ධන බැංකුව පෙන්වා දෙයි‍.
+There 111 foreign liquor bottles, a lot of cigarettes and many computer devices were found.
 
-එමෙන්ම සංචාරක පැමිණීම් ඉහළ යාම සහ විදෙස් ප්‍රේෂණ ගලා ඒම ද ප්‍රශංසනීය තත්ත්වයක පවතින බව අදාළ ප්‍රකාශනයෙන් සඳහන් වේ.
-
-දුෂ්කර ප්‍රතිසංස්කරණ ක්‍රියාත්මක කිරීම හමුවේ ශ්‍රී ලංකාව මේ වනවිට ලබා ඇති ප්‍රගතිය ප්‍රශංසනීය බව ආසියානු සංවර්ධන බැංකුවේ ශ්‍රී ලංකාව සඳහා වන නියෝජ්‍ය අධ්‍යක්ෂවරයා ප්‍රකාශ කර ඇත.
+It is noteworthy that the suspects are resident of Colombo 13 and Maskeliya areas.
 
 ◼️
 
-[Data](articles/99adebdc.json)
+[Data](articles/b7e19d19.json)
 
----
-
-### Remainig Aswesuma payments will be made on Monday
-
-*2024-04-11 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Remainig-Aswesuma-payments-will-be-made-on-Monday/108-280625) · `en`
-
-Colombo, April 11 (Daily Mirror) - The remaining 'Aswesuma' welfare benefit payments (Rs. 2,500) of the Rs. 5 billion to 182,000 families will be paid on Monday (15) and will be completed by next Wednesday (17), Finance State Minister Ranjith Siyambalapitiya said.
-
-Addressing the media today, he said the 'Aswesuma' payments for the beneficiaries in Kegalle, Polonnaruwa, Badulla and Nuwara Eliya were stopped due to certain technical issues.
-
-After settling the remaining Aswesuma payments, the government had completed all the payments that had to be made during the Sinhala and Tamil New Year, which will be completed with the maximum management, the State Minister said.
-
-◼️
-
-[Data](articles/77f67fb6.json)
-
-[Extended Data](ext_articles/77f67fb6.ext.json)
+[Extended Data](ext_articles/b7e19d19.ext.json)
 
 ---
 
 ### Tamil and Sinhala New Year continued fuel supply
 
-*2024-04-11 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181001) · `ta`
+*2024-04-11 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181001) · `ta`
 
 During Sinhala Tamil New Year, CEB ensures fuel supply by importing reserves and maintaining warehouse stocks. Fuel station owners have been informed to keep reserves. Transactions by check are facilitated until the 15th for fuel purchases.
 
@@ -98,6 +80,54 @@ During this period, the Institute has decided to keep sufficient petroleum savin
 
 ---
 
+### Returning the Sri Lankan economy
+
+*2024-04-11 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195550) · `si`
+
+The Asian Development Bank predicts Sri Lanka's economy will recover in 2024, after two years of contraction, with a 9% growth this year and 2% growth in 2025. Despite challenges, including a decline since 2023 and the illusion of tourism and remittances, the bank acknowledges progress in implementing remote reforms.
+
+🟩
+
+According to the Asian Development Bank's leading economic statement, Sri Lanka's economy will be populated in 2024.
+
+It shows that this situation shows this situation after two years of continuous contractions.
+
+Accordingly, the economy of Sri Lanka has increased by 9 percent this year.
+
+According to the relevant expression, the year 2025 has foretold a growth of 2 percent and 5% decimal.
+
+The Asian Development Bank (ADB) points out that the economy of the country has declined to a single targeting since the crises of 2023.
+
+The publication states that the increase in tourist arrivals and the influence of foreign remittances is also an illusion.
+
+The Asian Development Bank has stated that the progress Sri Lanka has already achieved the progress that Sri Lanka has made in the face of the implementation of the remote reforms.
+
+◼️
+
+[Data](articles/99adebdc.json)
+
+[Extended Data](ext_articles/99adebdc.ext.json)
+
+---
+
+### Remainig Aswesuma payments will be made on Monday
+
+*2024-04-11 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Remainig-Aswesuma-payments-will-be-made-on-Monday/108-280625) · `en`
+
+Colombo, April 11 (Daily Mirror) - The remaining 'Aswesuma' welfare benefit payments (Rs. 2,500) of the Rs. 5 billion to 182,000 families will be paid on Monday (15) and will be completed by next Wednesday (17), Finance State Minister Ranjith Siyambalapitiya said.
+
+Addressing the media today, he said the 'Aswesuma' payments for the beneficiaries in Kegalle, Polonnaruwa, Badulla and Nuwara Eliya were stopped due to certain technical issues.
+
+After settling the remaining Aswesuma payments, the government had completed all the payments that had to be made during the Sinhala and Tamil New Year, which will be completed with the maximum management, the State Minister said.
+
+◼️
+
+[Data](articles/77f67fb6.json)
+
+[Extended Data](ext_articles/77f67fb6.ext.json)
+
+---
+
 ### STF arrests three suspects with weapons in Maradana
 
 *2024-04-11 18:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/STF-arrests-three-suspects-with-weapons-in-Maradana/108-280630) · `en`
@@ -115,30 +145,6 @@ The suspects, aged 18, 34 and 47 and residents of Maradana, were handed over to 
 [Data](articles/3c6173ff.json)
 
 [Extended Data](ext_articles/3c6173ff.ext.json)
-
----
-
-### Three arrested with illegal goods in Katunayake
-
-*2024-04-11 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181000) · `ta`
-
-Three passengers from India and Dubai were arrested in Katunayake for smuggling 111 foreign liquor bottles, cigarettes, and computer devices without customs clearance.
-
-🟩
-
-Three passengers from India and Dubai were arrested in Katunayake on Thursday (11).
-
-They have been arrested in connection with the incident of bringing some goods without paying customs and notifying the customs.
-
-There 111 foreign liquor bottles, a lot of cigarettes and many computer devices were found.
-
-It is noteworthy that the suspects are resident of Colombo 13 and Maskeliya areas.
-
-◼️
-
-[Data](articles/b7e19d19.json)
-
-[Extended Data](ext_articles/b7e19d19.ext.json)
 
 ---
 

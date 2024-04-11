@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 07:17:20**
+As of **2024-04-11 07:41:23**
 
 ## Newspaper Stats
 
-*Scraped **18,399** Articles*
+*Scraped **18,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,61 @@ tamilmirrorlk | 2,150
 adaderanalk | 2,199
 virakesarilk | 2,739
 dailymirrorlk | 2,805
-adaderanasinhalalk | 2,973
+adaderanasinhalalk | 2,975
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,394 (100.0%) of 18,399 articles have been extended.
+18,399 (100.0%) of 18,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### අලුත් අවුරුද්දේ පළමු නැකත අද
+
+*2024-04-11 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195527) · `si`
+
+මෙවර සිංහල දෙමළ අලුත් අවුරුදු නැකැත් චාරිත්‍රවල පළමු චාරිත්‍ර දෙක (11) අදට යෙදී තිබේ.
+
+අභිනව චන්ද්‍ර වර්ෂය සඳහා නව සඳ බැලීමේ චාරිත්‍රයත් පරණ අවුරුද්ද සඳහා ස්නානය කිරීමේ චාරිත්‍රයත් අදට යෙදී ඇති බව නැකැත් සීට්ටුවේ සඳහන් වේ.
+
+පරණ අවුරුද්ද සඳහා ස්නානය කිරීමේදී බෝපත් යුෂ මිශ්‍ර නානු ගා ස්නානය කොට ඉෂ්ට දේවතා අනුස්මරණයේ යෙදීම සුදුසු බව නැකැත් සීට්ටුවේ සඳහන්ය.
+
+මේ අතර අලුත් අවුරුදු චාරිත්‍රයක් වන ජාතික හිසතෙල් ගෑමේ චාරිත්‍රය අප්‍රේල් 15 වන දිනට යෙදී ඇති බැවින් එදින රජයේ නිවාඩු දිනයක් ලෙස ද ප්‍රකාශයට පත් කර තිබේ.
+
+මේ අතර අලුත් අවුරුදු සැමරීම වෙනුවෙන් ගම්බිම් බලා පිටව යන ජනතාවට අවශ්‍ය ප්‍රවාහන පහසුකම් සැලසීම සඳහා ලංකා ගමනාගමන මණ්ඩලය, දුම්රිය දෙපාර්තමේන්තුව මෙන්ම පෞද්ගලික බස් හිමියන් ද පියවර ගෙන තිබේ.
+
+අතිරේක බස් රථ මෙන්ම විශේෂ දුම්රිය ගමන් වාර කිහිපයක් ගම්බිම් බලා පිටව යන මගී ජනතාවගේ පහසුව වෙනුවෙන් ක්‍රියාත්මක කෙරේ.
+
+අලුත් අවුරුදු සමයේ ජනතාවගේ ආරක්ෂාව වෙනුවෙන් විශේෂ පොලිස් ආරක්ෂක වැඩපිළිවෙලක් ක්‍රියාත්මක කර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා පැවසුවේය.
+
+◼️
+
+[Data](articles/50f4b2aa.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට අදත් තද වැසි
+
+*2024-04-11 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195525) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, දිවයිනේ සෙසු බොහෝ ප්‍රදේශවල ප.ව 1න් පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
+
+බස්නාහිර, මධ්‍යම, සබරගමුව සහ දකුණු පළාත්වල ඇතැම් ස්ථානවල මි.මී 100 වඩා වැඩි තද වැසි ඇති වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+අද (11) දහවල් 12.11ට බත්තලන්ගුන්ඩුව, මැදවච්චිය, හොරොව්පතාන සහ  ත්‍රිකුණාමලය යන ප්‍රදේශවලට හිරු මුදුන්වනු ඇත.
+
+◼️
+
+[Data](articles/6bd9156e.json)
+
+---
 
 ### SriLankan Airlines elevates Ground Handling with State-of-the-Art equipment upgrade
 
@@ -490,6 +534,8 @@ Commercial Bank’s Assistant General Manager – Digital Banking Mr Pradeep Ban
 
 [Data](articles/64cff4fd.json)
 
+[Extended Data](ext_articles/64cff4fd.ext.json)
+
 ---
 
 ### The solution to the small action under the Iranamadu pond from the tug
@@ -624,6 +670,8 @@ The daily average improved to around 5615 in the month, from around 3844 from a 
 
 [Data](articles/a84c59e1.json)
 
+[Extended Data](ext_articles/a84c59e1.ext.json)
+
 ---
 
 ### Rashid Khan's first defeat for Rajasthan
@@ -754,21 +802,27 @@ The competitions have been divided into three sections, namely State Section, Op
 
 ---
 
-### சுபவேளை பத்திரம் ஜனாதிபதியிடம் கையளிப்பு
+### Subhaveli deed handed over to the president
 
 *2024-04-10 23:27:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுபவேளை-பத்திரம்-ஜனாதிபதியிடம்-கையளிப்பு/175-335841) · `ta`
 
-தமிழ் சிங்களப் புத்தாண்டுக்கான சுபவேளை குறிப்புப் பத்திரம் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் சம்பிரதாய  முறைப்படி நேற்று ஜனாதிபதி அலுவலகத்தில் வைத்து கையளிக்கப்பட்டது.
+President Ranil Wickremesinghe received the Subhaveli deed from the Department of Cultural Affairs, including details on New Year's celebrations.
 
-கலாசார அலுவல்கள் திணைக்களத்தின் அரச சுபநேர கணிப்புக் குழுவினால் தயாரிக்கப்பட்ட சுபவேளை குறிப்புப் பத்திரமே இவ்வாறு ஜனாதிபதியிடம் கையளிக்கப்பட்டது.
+🟩
 
-புத்தசாசன, சமய கலாசார அலுவல்கள் அமைச்சர் விதுர விக்கிரமநாயக்க சம்பிரதாய முறைப்படி  ஜனாதிபதிக்கு வழங்கி வைத்தார்.
+President Ranil Wickremesinghe was formally handed over to President Ranil Wickremesinghe at the Presidential Office yesterday.
 
-புத்தாண்டு பிறப்பு, புண்ணிய காலம், உணவு சமைத்தல், அடுப்பு பற்றவைத்தல், உணவு உண்ணல், தலைக்கு எண்ணெய் தேய்த்தல், புத்தாண்டில் வேலைக்குப் புறப்பட்டு செல்லுதல் உள்ளிட்ட சுப காரியங்களுக்கான சுப நேரங்கள் மேற்படி பத்திரத்தில் குறிப்பிடப்பட்டுள்ளன. (a)
+The President was handed over to the President by the Subhaveli Reference Record, prepared by the Department of Cultural Affairs.
+
+Buddha Sasana, Minister of Religious and Cultural Affairs Vidura Wickramanayaka handed over to the President.
+
+A good times are mentioned in the deed, including New Year's birth, sacred period, food cooking, stove, eating, heading oil, and going to work in the New Year.. (A)
 
 ◼️
 
 [Data](articles/be9a042a.json)
+
+[Extended Data](ext_articles/be9a042a.ext.json)
 
 ---
 
@@ -2127,57 +2181,5 @@ The US dollar purchasing price was Rs 293.6852 and the sales price were Rs 303.3
 [Data](articles/baf25f94.json)
 
 [Extended Data](ext_articles/baf25f94.ext.json)
-
----
-
-### ’Madulawe Nimesh’ arrested with drugs
-
-*2024-04-10 15:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Madulawe-Nimesh-arrested-with-drugs/108-280563) · `en`
-
-Homagama, April 10 (Daily Mirror)-  Drug smuggler 'Madulawe Nimesh', who is alleged to have operated the drug smuggling activities of 'Homagama Handaya' who had organised the killing of two individuals in Moragahahena recently from Dubai, has been arrested.
-
-The suspect who had in his possession 12.700 grams of ICE narcotics and 487 grams of Kerala Ganja was arrested by the Western Province South Crime Investigation Division on Tuesday evening (09) during a raid in Madulawa in the Paddukka police area.
-
-The 27 year old suspect is a resident of the Kiriwattuduwa area.
-
-The Western Province South Crime Investigation Division is conducting further investigations.
-
-◼️
-
-[Data](articles/474440a9.json)
-
-[Extended Data](ext_articles/474440a9.ext.json)
-
----
-
-### World powers reminds you of termination of Ukraine
-
-*2024-04-10 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195511) · `si`
-
-World powers, including the US, remind Ukraine of the termination of its initiative, focusing on the condition that Ukraine should not attack Russian premises. The main reason now is the impact on global energy supply due to attacks on Russian oil refineries. Lloyd Austin, US Defense Secretary, stated Ukraine's dependence on Russian oil refineries affecting global fuel and energy. Anthony Blink, US Secretary of State, said the US won't approve attacks on Russian energy infrastructure. Selenski, Ukrainian President, admitted to the Washington Post that the US has not stopped Ukraine from attacking Russian energy infrastructure. The International Atomic Energy Authority (IAEA) is discussing the largest nuclear power plant in Europe under Russian control.
-
-🟩
-
-Recently, the condition imposed on the initiative to Ukraine, the United States is currently being focused.
-
-The condition as well as some European countries imposed in Ukraine, the condition imposed in Ukraine is that they should not attack the Russian premises.
-
-The condition is mostly forgotten, but now there is only one main reason to emerge.
-
-It is the impact on the global energy supply because of the attacks on Russian oil refineries.
-
-The Chief of Defense Secretary Lloyd Austin has made a statement regarding this.
-
-He made the statement when he contacted the American Seneated Committee of the American Seneated Committee.
-
-The American Defense Secretary stated that Ukraine is adversely affected by Russian oil refineries that influence the entire global fuel and energy system.
-
-US Secretary of State Anthony Blink has also stated that the United States of America will not be approved by the United States of America.
-
-...
-
-[Data](articles/7c1c3e5e.json)
-
-[Extended Data](ext_articles/7c1c3e5e.ext.json)
 
 ---

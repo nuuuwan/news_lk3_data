@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 09:18:14**
+As of **2024-04-11 09:33:38**
 
 ## Newspaper Stats
 
-*Scraped **18,417** Articles*
+*Scraped **18,419** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ dailyftlk | 1,018
 economynextcom | 1,027
 adalk | 1,546
 tamilmirrorlk | 2,153
-adaderanalk | 2,202
+adaderanalk | 2,203
 virakesarilk | 2,739
 dailymirrorlk | 2,809
-adaderanasinhalalk | 2,979
+adaderanasinhalalk | 2,980
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,416 (100.0%) of 18,417 articles have been extended.
+18,417 (100.0%) of 18,419 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### 25-year-old arrested with cache of heroin worth Rs. 60mn
+
+*2024-04-11 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98568/25-year-old-arrested-with-cache-of-heroin-worth-rs-60mn) · `en`
+
+Maligawatta Police have arrested a man who was transporting a cache of heroin to the tune of Rs. 60 million.
+
+Acting on a tip-off they had received, Maligawatta police officers managed to make the arrest while the contraband was being transported to the Grandpass area.
+
+Accordingly, 1kg and 150g of heroin and ill-gotten money amounting to Rs. 750,000 were found on the suspect at the time of the arrest.
+
+The 25-year-old from the Wellampitiya area is reportedly a close associate of notorious criminal gang leader “Keselwatta Dinuka” who is currently in hiding in Dubai.
+
+He is slated to be produced before Maligakanda No. 2 Court today (11).
+
+◼️
+
+[Data](articles/85d82ff4.json)
+
+---
+
+### දකුණු කොරියාවේ පාලක පක්ෂයට දරුණු පරාජයක්
+
+*2024-04-11 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195532) · `si`
+
+දකුණු කොරියාවේ ඊයේ (10) පැවති මහ මැතිවරණයෙන් ප්‍රධාන විපක්ෂයට ට විශිෂ්ට ජයක් හිමිවී ඇති අතර ඒ අනුව පාර්ලිමේන්තුවේ බලය තහවුරු කර ගැනීමට ඔවුන් සමත්වී ඇත.
+
+එරට ජාතික සභාවේ ආසන 300න් 192ක බලය හිමිකර ගැනීමට ප්‍රජාතන්ත්‍රවාදී පක්ෂය සහ ඔවුන් සමග එකතුව කටයුතු කළ කුඩා පක්ෂ සමත්වී තිබේ.
+
+ජනාධිපතිවරයාගේ People Power පක්ෂයට ඒ අනුව දරුණු පරාජයක් හිමිවී තිබේ.
+
+වර්තමාන ජනාධිපති Yoon Suk Yeol ගේ ප්‍රතිපත්ති ගැන ඇති ජනතා කැමැත්ත විමසීමට ජනමත විචාරණයක් ලෙස මෙම මැතිවරණය සැලකුණි.
+
+මෙම පරාජයත් සමගම අගමැති Han Duk-soo සහ People Power පක්ෂයේ සභාපති Han Dong-hoon ඉල්ලා අස්වී ඇති බව සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/11e68d81.json)
+
+---
 
 ### SLPP MPs barred from going public on their support for presidential candidates
 
@@ -47,6 +87,8 @@ Another faction insists on fielding its own candidate. Also, the party has decid
 ◼️
 
 [Data](articles/19e7ed24.json)
+
+[Extended Data](ext_articles/19e7ed24.ext.json)
 
 ---
 
@@ -2169,61 +2211,5 @@ When Saman Ratnayake was produced before the Maligakanda Magistrate’s Court ea
 [Data](articles/e8a6d2c9.json)
 
 [Extended Data](ext_articles/e8a6d2c9.ext.json)
-
----
-
-### Bodies recovering from Israel's attack
-
-*2024-04-10 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180922) · `ta`
-
-Israeli soldiers allegedly killed hundreds of Palestinians during a two-week occupation of Alciba Hospital in Gaza. Recovery efforts have uncovered 381 bodies, with some buried in sand dunes. The UN and WHO have criticized Israel's refusal to allow humanitarian access.
-
-🟩
-
-The bodies found in the burials of the Alciba Hospital were digging on Tuesday.
-
-Health workers have alleged that Israeli soldiers killed more than hundreds of Palestinians while the hospital was under the clutches of Israeli soldiers for two weeks.
-
-Gaza's Civil Security Force spokesman Mahmood Basal said that 381 bodies have been recovered so far after Israeli soldiers left the hospital on April 1.
-
-He said that the bodies of those who were buried in some other parts of the hospital were not included.
-
-Officials informed CNN that the excavated bodies or bodies were not buried deeply.
-
-As a result, some bodies are completely irreversible, ”Basal said.
-
-Basal said that when Israeli soldiers attacked the hospital, the people who were trapped inside were found in the area.
-
-He added that the public said that the occupation soldiers had distorted the bodies and buried the land.
-
-...
-
-[Data](articles/20c1b18b.json)
-
-[Extended Data](ext_articles/20c1b18b.ext.json)
-
----
-
-### The police did not return the goods worth Rs.
-
-*2024-04-10 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180904) · `ta`
-
-The police seized temple equipment on Shivaratri, disrupting Saiva rituals. The temple administration accused the police of not providing essential items. On April 4, the Vavuniya District Court ordered the release of seized items, including aluminum utensils and a water bowler. The temple administration and eight Tamils were arrested for demanding the release of these items. The temple's secretary stated that some items are still missing and in consultation with lawyers for their release. On March 8, police arrested eight Saivas and temple items involved in night worship. The Vavuniya District Court ordered their release on March 19, but the case was dismissed, and all were acquitted except one. The United Nations lodged a complaint with the Sri Lanka Human Rights Commission, demanding punishment for the police and compensation for the temple administration and the arrested individuals.
-
-🟩
-
-On the day of Shivaratri day, the Saiva rituals have been disrupted and a number of equipment, including a plowing machine seized at the temple complex in Vavuniya, has to be handed over to the owners of the police.
-
-The temple administration has accused the police of not providing more than three lakh rupees of pooja items and food items at the Athilingeswar Temple at Vettunari Mountain.
-
-On April 04, the police released the aluminum utensils used with Taylor, a water bowler and cooking, on April 04, on the orders of the Vavuniya District Court, which filed a petition filed by the temple administration and eight vegetarian Tamils who were arrested by the police demanding the release of all the items taken by the police.
-
-The secretary of the Adilingeswara Temple Executive Council, Durairasa Thamizelvam, told the media that some food items including 50 kg rice, 10 kg plow, paragraph, pooja, and pooja lamps and pooja, and some items are still worth Rs.
-
-...
-
-[Data](articles/09ccf653.json)
-
-[Extended Data](ext_articles/09ccf653.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 21:03:36**
+As of **2024-04-11 21:18:25**
 
 ## Newspaper Stats
 
@@ -26,49 +26,65 @@ adaderanasinhalalk | 2,997
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,501 (100.0%) of 18,504 articles have been extended.
+18,504 (100.0%) of 18,504 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### மியன்மாரில் மீட்கப்பட்ட 8 இலங்கையர்கள் வெகுவிரைவில் இலங்கைக்குத் திருப்பியனுப்பப்படுவர் - வெளிவிவகார அமைச்சு உறுதி
+### 8 Sri Lankans rescued in Myanmar will soon be returned to Sri Lanka - Ministry of External Affairs
 
 *2024-04-11 20:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181002) · `ta`
 
-மியன்மாரின் மியவடி பகுதியிலிருந்து மீட்கப்பட்ட 8 இலங்கையர்கள் பாங்கொக்கில் உள்ள இலங்கை தூதரக அதிகாரிகளால் வியாழக்கிழமை (11) பொறுப்பேற்றுக்கொள்ளப்பட்டிருப்பதாகவும், அவர்கள் வெகுவிரைவில் இலங்கைக்குத் திருப்பியனுப்பிவைக்கப்படுவார்கள் எனவும் வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+Eight Sri Lankans rescued in Myanmar are being returned to Sri Lanka, with the Ministry of External Affairs coordinating with Thailand and Myanmar.
 
-'மியன்மாரின் மியவடி பகுதியிலிருந்து கடந்த மார்ச் 4 ஆம் திகதி மியன்மார் நாட்டு அதிகாரிகளால் மீட்கப்பட்ட இலங்கையர்கள் அவ்வதிகாரிகளின் பாதுகாப்பின்கீழ் தங்கவைக்கப்பட்டிருந்தனர். அதனைத்தொடர்ந்து அவர்கள் தாய்லாந்தின் மியோஸோற் அழைத்துச்செல்லப்பட்டு, தாய்லாந்து குடியகல்வு அதிகாரிகளிடம் ஒப்படைக்கப்பட்டனர். தற்போது அவர்கள் பாங்கொக்கில் உள்ள இலங்கை தூதரக அதிகாரிகளின் பாதுகாப்பில் உள்ளனர்' என வெளிவிவகார அமைச்சு இதுபற்றி விளக்கமளித்துள்ளது.
+🟩
 
-அதேவேளை மியன்மார் அதிகாரிகளால் மீட்கப்பட்ட இலங்கையர்களை இலங்கைக்கு அழைத்துவருவது தொடர்பில் வெளிவிவகார அமைச்சர் அலி சப்ரி மியன்மார் மற்றும் தாய்லாந்து நாடுகளின் வெளிவிவகார அமைச்சர்களுடன் கலந்துரையாடியிருந்தார்.
+The Ministry of External Affairs said that eight Sri Lankans rescued from Myanmar's Miyawadi area were taken over by the Sri Lankan embassy officials in Bangkok on Thursday (11) and that they would soon be returned to Sri Lanka.
 
-...
+“Sri Lankans rescued by Myanmar on March 4 from Myanmar's Miyavadi area were rescued under the protection of the authorities.. They were subsequently taken to Thailand's Miosot and handed over to the Thailand Emigration Officers. They are currently under the protection of the Sri Lankan embassy in Bangkok, ”the Foreign Ministry explained.
+
+At the same time, Foreign Minister Ali Sabri has discussed with Myanmar and Thailand's Foreign Ministers on the bringing of Sri Lankans rescued by Myanmar officials to Sri Lanka.
+
+The Sri Lankan embassies in Bangkok and Yangon are said to be ready to return the Sri Lankans who have been rescued with the Sri Lankan Foreign Ministry with the Sri Lankan Foreign Ministry.
+
+◼️
 
 [Data](articles/bead67b0.json)
 
+[Extended Data](ext_articles/bead67b0.ext.json)
+
 ---
 
-### මාතර හෝටලයකට පැන්න තිහගොඩ පොලීසිය ට චෝදනාවක්
+### Thihagoda police acquisition to Matara hotel
 
 *2024-04-11 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195551) · `si`
 
-මාතර තිහගොඩ ප්‍රදේශයේ හෝටලයකට පැමිණි තිහගොඩ පොලිස් ස්ථානයේ නිලධාරීන් එහි හිමිකරු සහ ඔහුගේ මවට පදනම් විරහිත චෝදනා සිදුකර අත්අඩංගුවට ගත් බව හෝටලයේ හිමිකරු පවසයි.
+Thihagoda police arrested hotel owner and his mother for running an illegal drug racket. The hotel owner's mother was also charged with heroin possession. The police found 3.5 grams of heroin and 700 grams of illegal drinks. The owner alleges influence from a senior officer. The hotel owner and his mother were recently produced in court, with the mother remanded until the 22nd.
 
-මාතර තිහගොඩ ප්‍රදේශයේ පවත්වාගෙන යන මෙම හෝටලයට ඉකුත් පළමු වනදා තිහගොඩ පොලිස් ස්ථානයේ නිලධාරීන් පිරිසක් පැමිණ තිබුණි.
+🟩
 
-ඒ හෝටලය තුළ නීතිවිරෝධීව මත්පැන් ජාවාරමක් සිදුකළ බවට චෝදනා කරමිනි.
+The owner of the Hotel said that the officials of the Thihagoda police station was arrested by the owner and his mother in Matara in Thihagoda, Matara.
 
-මෙහිදී හෝටලයේ හිමිකරුගේ මව අත්අඩංගුවට ගැනීමට යාමේදී ඇතිවූයේ දැඩි උණුසුම් තත්ත්වයකි.
+Thihagoda police station was present at the Hotel in Thihagoda, Matara.
 
-එහිදී පොලිස් නිලධාරීන් විසින්, හෝටලයේ හිමිකරුගේ මව නීතිවිරෝධි මත්පැන් නිෂ්පාදනය සහ හෙරොයින් ළඟ තබාගැනීමේ චෝදනාව යටතේත් හෝටලයේ හිමිකරු රාජකාරියට බාධා කිරීමේ චෝදනාව යටතේත් අත්අඩංගුවට ගෙන තිබුණි.
+Accused that an illegal drug racket was carried out in the hotel.
 
-තිහගොඩ පොලී‍සිය සඳහන් කළේ, එම ස්ථානයේ තිබී නීතිවිරෝධී මත්පැන් ලීටර් එකහමාරක් සහ හෝටලයේ හිමිකරුගේ මව සන්තකයේ තිබී හෙරොයින් ග්‍රෑම් 3යි මිලිග්‍රෑම් 700ක් ද පොලිස් භාරයට ගත් බවය.
+The hotel's mother's mother was warm.
 
-කෙසේවෙතත් හෝටලයේ හිමිකරු චෝදනා කරන්නේ මාතර ජ්‍යේෂ්ඨ පොලිස් අධිකාරී කාර්යාලයේ උසස් නිලධාරියෙකුගේ බලපෑම මත තමන්ට සහ තම මවට තිහගොඩ පොලිස් ස්ථානයේ නිලධාරීන් පදනම් විරහිත චෝදනා එල්ලකර ඇති බවය.
+The hotel owner's mother of the hotel's mother was also arrested by illegal production and charges of heroin and the owner owner of the hotel was also taken into custody.
+
+Thihagoda Police said that he was taken into custody by three and a half of heroin and 700 grams of heroin in possession of illegal drinks and the hotel owner's mother in the area.
+
+However, the owner of the hotel has been accused of the influence of a senior officer of the Matara Senior Superintendent of Police.
+
+When contacted, Thihagoda police station has been temporarily closed and there are several drug cases against the mother of the hotel owner before.
 
 ...
 
 [Data](articles/692a5382.json)
+
+[Extended Data](ext_articles/692a5382.ext.json)
 
 ---
 
@@ -143,6 +159,8 @@ He added that the details of the accident were still under investigation.
 ...
 
 [Data](articles/a1315527.json)
+
+[Extended Data](ext_articles/a1315527.ext.json)
 
 ---
 

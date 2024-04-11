@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 15:52:28**
+As of **2024-04-11 16:03:56**
 
 ## Newspaper Stats
 
-*Scraped **18,476** Articles*
+*Scraped **18,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,034
 adalk | 1,549
 tamilmirrorlk | 2,158
 adaderanalk | 2,211
-virakesarilk | 2,751
+virakesarilk | 2,752
 dailymirrorlk | 2,819
 adaderanasinhalalk | 2,990
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,990
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,474 (100.0%) of 18,476 articles have been extended.
+18,476 (100.0%) of 18,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
+
+### பொன்னாவெளியில் குடியேற விரும்பினால் வீட்டுத்திட்டம் வழங்கத் தயார் -  அமைச்சர் டக்ளஸ்
+
+*2024-04-11 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/180986) · `ta`
+
+பூநகரி பொன்னாவெளிப் பகுதியில் மக்கள் குடியேற விரும்பினால் மக்களுக்கான வீட்டுத்திட்டகளை வழங்கத் தயார் என ஈழ மக்கள் ஜனநாயகக் கட்சியின் செயலாளர் நாயகமும் கடற்தொழில் அமைச்சருமான டக்ளஸ் தேவானந்தா தெரிவித்துள்ளார்.
+
+வியாழக்கிழமை (11) யாழ்ப்பாணத்தில் உள்ள அவரது கட்சி அலுவலகத்தில் இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+அண்மையில் பொன்னியில் மக்களுக்கான அபிவிருத்திகளை முன்னெடுக்கும் நோக்கில் சுண்ணக்கல் அகழ்வு ஆய்வுப் பணிக்காக  இரண்டு துறை சார்ந்த அதிகாரிகளை அழைத்துச் சென்றேன் போதையில் நின்றவர்கள் குழப்பத்தை ஏற்படுத்தி செல்ல விடாமல் தடுத்தனர்.
+
+நான் அங்கு சென்றது துறைசார்ந்த அதிகாரிகளிடம் மக்களுக்கு இருக்கும் சந்தேகங்களை தெளிவுபடுத்துவதற்காக சென்றிருந்தேன் சிலர் அதனை அரசியல் நோக்கத்திற்காக தடுத்து விட்டார்கள்.
+
+பொன்னாவெளி சுண்ணக்கல் அகழ்வு ஆய்வுக்கு உட்படுத்தப்பட்டு மக்களுக்கு சாதகமானது என கருதினால் மட்டுமே அகழ்வு பணி மேற்கொள்ளப்படும்.
+
+...
+
+[Data](articles/7c393c20.json)
+
+---
 
 ### Eight Sri Lankans rescued from Myanmar cybercrime camps safely arrive in Thailand
 
@@ -50,23 +70,31 @@ According to Ambassador Bandara, the rescued Sri Lankans are in good health and 
 
 [Data](articles/6cb68f2c.json)
 
+[Extended Data](ext_articles/6cb68f2c.ext.json)
+
 ---
 
-### சாவகச்சேரியில் திருடப்பட்ட மோட்டார் சைக்கிள் மன்னாரில் மீட்பு!
+### Motorcycle stolen motorcycle rescue in Chavakachcheri
 
 *2024-04-11 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180983) · `ta`
 
-சாவகச்சேரியில் கடந்த திங்கட்கிழமை திருடப்பட்ட மோட்டார் சைக்கிள் சாவகச்சேரி பொலிஸாரின் துரித முயற்சியால் மன்னாரில் வைத்து மீட்கப்பட்டது.
+A motorcycle stolen in Chavakachcheri was recovered in Mannar, thanks to the Chavakachcheri police's efforts. The thief was arrested.
 
-சாவகச்சேரி நகரப் பகுதியில் உள்ள மருத்துவ நிலையத்தில் சிகிச்சை பெறச் சென்ற ஒருவர் தனது மோட்டார் சைக்கிளை அங்கு நிறுத்தி விட்டுச் சென்ற நிலையில்  திரும்பிவந்து பார்த்த போது அவரது மோட்டார் சைக்கிள் திருடப்பட்டிருந்தது.
+🟩
 
-இதன்போது ,  விரைந்து செயற்பட்ட சாவகச்சேரிப் பொலிஸாரினால்  பொலிஸ் நிலையங்களுக்கும் சோதனைச் சாவடிகளுக்கும் தகவல் வழங்கப்பட்டுள்ளது.
+The motorcycle stolen last Monday in Chavakachcheri was rescued in Mannar due to the speedy efforts of the Chavakachcheri police.
 
-அத்தோடு ,  மன்னார் சோதனைச் சாவடியில் வைத்து மோட்டார் சைக்கிள் மீட்கப்பட்டதுடன், மோட்டார் சைக்கிளைத் திருடியவரும் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A motorcycle was stolen when a man who had been treated at the Medical Center in Chavakachcheri had left his motorcycle.
+
+In the meantime, the police have been informed by the police and checkpoints by the police.
+
+In addition, the motorcycle was recovered at the Mannar checkpoint and the man who stole the motorcycle has been arrested, police said.
 
 ◼️
 
 [Data](articles/ae38b92e.json)
+
+[Extended Data](ext_articles/ae38b92e.ext.json)
 
 ---
 
@@ -124,7 +152,11 @@ Accordingly, a Police Sergeant and a Constable attached to Medawachchiya Police 
 
 They are to be produced before the Kebithigollewa Magistrate’s Court later today (11), police said.
 
-◼️
+According to the Police Media Division, in the evening of April 07, a group of police officers on traffic duty near the Medawachchiya primary school on the Mannar-Medawachchiya road had signalled a small lorry heading towards Mannar to stop.
+
+However, the lorry driver had ignored the police directive to stop the vehicle and continued forward prompting the police officers to give chase.
+
+...
 
 [Data](articles/05e44fee.json)
 
@@ -2185,27 +2217,5 @@ Some names are used in English to the farmers. The names, coral trees, indian co
 [Data](articles/42a085f9.json)
 
 [Extended Data](ext_articles/42a085f9.ext.json)
-
----
-
-### Kavinda tells CID to repatriate Maithripala and hold investigations
-
-*2024-04-11 01:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kavinda-tells-CID-to-repatriate-Maithripala-and-hold-investigations/108-280577) · `en`
-
-Colombo, April 10 (Daily Mirror) - Samagi Jana Balawegaya (SJB) MP Kavinda Jayawardene today lodged a complaint with the CID that former President Maithripala Sirisena's departure to Thailand was suspicious.a
-
-"We feel that former President Sirisena has fled the country for some reason, just like the way he did prior to the Easter Sunday attacks," he said.
-
-"I have therefore requested the CID to expatriate him immidately and hold an investigation," he added.
-
-He noted that Sirisena had created a controversial situation through his words and actions.
-
-MP Jayawardene and Mano Ganesan lodged a complaint with the CID a few weeks ago after the former President said he was aware of the mastermind behind the Easter Sunday attacks.
-
-◼️
-
-[Data](articles/09d7eb63.json)
-
-[Extended Data](ext_articles/09d7eb63.ext.json)
 
 ---

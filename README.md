@@ -1,78 +1,142 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-11 07:41:23**
+As of **2024-04-11 07:54:44**
 
 ## Newspaper Stats
 
-*Scraped **18,401** Articles*
+*Scraped **18,406** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 162
-bbccomsinhala | 192
+bbccomsinhala | 193
 dbsjeyarajcom | 213
 newsfirstlk | 363
 islandlk | 1,013
 dailyftlk | 1,018
 economynextcom | 1,027
 adalk | 1,545
-tamilmirrorlk | 2,150
+tamilmirrorlk | 2,151
 adaderanalk | 2,199
 virakesarilk | 2,739
-dailymirrorlk | 2,805
-adaderanasinhalalk | 2,975
+dailymirrorlk | 2,807
+adaderanasinhalalk | 2,976
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,399 (100.0%) of 18,401 articles have been extended.
+18,401 (100.0%) of 18,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-11 (Thursday)
 
-### අලුත් අවුරුද්දේ පළමු නැකත අද
+### කෝටි 6ක හෙරොයින් සමග පුද්ගලයෙකු දැලේ
+
+*2024-04-11 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195528) · `si`
+
+රුපියල් කෝටි 06 කට ආසන්න වටිනාකමකින් යුත් හෙරොයින් තොගයක් ප්‍රවාහනය කරමින් සිටි පුද්ගලයෙකු මාළිගාවත්ත පොලීසිය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+
+මාළිගාවත්ත පොලීසියේ නිලධාරීන්ට ලද තොරතුරක් මත සැකකරු විසින් අදාළ මත්ද්‍රව්‍ය තොගය ග්‍රෑන්ඩ්පාස් වෙත රැගෙන යමින් සිටියදී අත්අඩංගුවට ගෙන ඇති බව සඳහන්ය.
+
+එහිදි සැකකරු සතුව තිබී හෙරොයින් කිලෝග්‍රෑම් එකයි ග්‍රැම් 105ක තොගයක් සහ මත්ද්‍රව්‍ය ජාවාරමෙන් උපයාගත් රුපියල් 750,000ක මුදලක් පොලිස් භාරයට ගෙන තිබේ.
+
+සැකකරු වැල්ලම්පිටිය ප්‍රදේශයේ පදිංචි 25 හැවිරිදි අයෙකු වන අතර ඔහු දැනට ඩුබායිහි සැඟව සිටින සංවිධානාත්මක අපරාධ කල්ලි නායකයකු වන 'කෙසෙල්වත්ත දිනුකගේ' ගෝලයෙක් බවට අනාවරණය වී ඇත.
+
+සැකකරු විසින් විදෙස්ගත අපරාධ කල්ලි සාමාජිකයින්ගෙන් ලද උපදෙස් මත මත්ද්‍රව්‍ය ඒ ඒ ප්‍රදේශ වෙත ගෙන ගොස් අලෙවිකරන්නන් වෙත ලබා දීම හා මුදල් හුවමාරු කිරීම සිදුකර තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරු අද (11) මාළිගාකන්ද අංක 2 අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/222641b1.json)
+
+---
+
+### First auspicious day of New Year
 
 *2024-04-11 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195527) · `si`
 
-මෙවර සිංහල දෙමළ අලුත් අවුරුදු නැකැත් චාරිත්‍රවල පළමු චාරිත්‍ර දෙක (11) අදට යෙදී තිබේ.
+Today marks the first auspicious day of the New Year, with traditional Sinhala rituals observed. The New Year Ritual is celebrated on April 15, with enhanced transport services and police protection for safety.
 
-අභිනව චන්ද්‍ර වර්ෂය සඳහා නව සඳ බැලීමේ චාරිත්‍රයත් පරණ අවුරුද්ද සඳහා ස්නානය කිරීමේ චාරිත්‍රයත් අදට යෙදී ඇති බව නැකැත් සීට්ටුවේ සඳහන් වේ.
+🟩
 
-පරණ අවුරුද්ද සඳහා ස්නානය කිරීමේදී බෝපත් යුෂ මිශ්‍ර නානු ගා ස්නානය කොට ඉෂ්ට දේවතා අනුස්මරණයේ යෙදීම සුදුසු බව නැකැත් සීට්ටුවේ සඳහන්ය.
+Today, the first two customs of the Sinhala and New Year's New Year's rituals have been played today.
 
-මේ අතර අලුත් අවුරුදු චාරිත්‍රයක් වන ජාතික හිසතෙල් ගෑමේ චාරිත්‍රය අප්‍රේල් 15 වන දිනට යෙදී ඇති බැවින් එදින රජයේ නිවාඩු දිනයක් ලෙස ද ප්‍රකාශයට පත් කර තිබේ.
+The austerity reference to the newly lunar year also states that the ritual of the new consecutive ritual is today.
 
-මේ අතර අලුත් අවුරුදු සැමරීම වෙනුවෙන් ගම්බිම් බලා පිටව යන ජනතාවට අවශ්‍ය ප්‍රවාහන පහසුකම් සැලසීම සඳහා ලංකා ගමනාගමන මණ්ඩලය, දුම්රිය දෙපාර්තමේන්තුව මෙන්ම පෞද්ගලික බස් හිමියන් ද පියවර ගෙන තිබේ.
+It is appropriate that it is appropriate that the niches are suitable for the old year in a shower mixing the zasic juice.
 
-අතිරේක බස් රථ මෙන්ම විශේෂ දුම්රිය ගමන් වාර කිහිපයක් ගම්බිම් බලා පිටව යන මගී ජනතාවගේ පහසුව වෙනුවෙන් ක්‍රියාත්මක කෙරේ.
+Meanwhile, the ritual of the New Year Ritual is announced on April 15 as a government holiday.
 
-අලුත් අවුරුදු සමයේ ජනතාවගේ ආරක්ෂාව වෙනුවෙන් විශේෂ පොලිස් ආරක්ෂක වැඩපිළිවෙලක් ක්‍රියාත්මක කර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා පැවසුවේය.
+Meanwhile, the Ceylon Transport Board and Private Bus Owners have also taken steps to provide transport facilities for the new year to celebrate the New Year.
+
+Several additional buses as well as special train services will be implemented for the convenience of passengers.
+
+Police Media Spokesperson DIG Nihal Talduuwa said that a special police protection program has been implemented for the security of the people during the New Year.
 
 ◼️
 
 [Data](articles/50f4b2aa.json)
 
+[Extended Data](ext_articles/50f4b2aa.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයකට අදත් තද වැසි
+### Blooming season starts...
+
+*2024-04-11 06:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Blooming-season-starts/110-280571) · `en`
+
+This is the season when Robarosiya flowers are in full bloom. The picture shows several areas glowing with Robarosiya flowers. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/1d237c88.json)
+
+---
+
+### Heavy rains today
 
 *2024-04-11 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195525) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+Heavy rains today with showers/thundershowers in Eastern, Uva, and Hambantota districts. More showers in Western, Central, Sabaragamuwa, and Southern provinces. Steps to reduce winds and lightning accidents announced. Sun rises in Battalangunduwa, Medawachchiya, Horowpathana, and Trincomalee.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, දිවයිනේ සෙසු බොහෝ ප්‍රදේශවල ප.ව 1න් පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
+🟩
 
-බස්නාහිර, මධ්‍යම, සබරගමුව සහ දකුණු පළාත්වල ඇතැම් ස්ථානවල මි.මී 100 වඩා වැඩි තද වැසි ඇති වේ.
+Showers or thundershowers will occur in the Eastern and Uva provinces and in the Hambantota district.
 
-ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorological Department announced that showers or thundershowers will occur in many parts of the rest of the island.
 
-අද (11) දහවල් 12.11ට බත්තලන්ගුන්ඩුව, මැදවච්චිය, හොරොව්පතාන සහ  ත්‍රිකුණාමලය යන ප්‍රදේශවලට හිරු මුදුන්වනු ඇත.
+Heavy showers in some places in the Western, Central, Sabaragamuwa and Southern provinces.
+
+Department of Meteorology announces to take steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+The sun will rise in Battalangunduwa, Medawachchiya, Horowpathana and Trincomalee today (11).
 
 ◼️
 
 [Data](articles/6bd9156e.json)
+
+[Extended Data](ext_articles/6bd9156e.ext.json)
+
+---
+
+### Excise to launch special operation in Colombo City during Avurudu dry days
+
+*2024-04-11 06:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Excise-to-launch-special-operation-in-Colombo-City-during-Avurudu-dry-days/108-280575) · `en`
+
+Colombo, April 11 (Daily Mirror) - The Department of Excise is planning to launch a special operation in Colombo during the two festive dry days targeting illegal booze sellers and to implement law strictly during the Sinhala and Tamil New Year period.
+
+A senior Excise official overseeing the Colombo City told the Daily Mirror yesterday that a joint operation has been organised in collaboration with four main Excise stations in Kesbewa, Padukka, Battaramulla and Colombo City.
+
+As a result over 50 officials deployed in several teams will be patrolling the Greater Colombo area in search of law breakers who would sell liquor defying Excise orders on April 12th and 13th.
+
+The official said that they have received intelligence on organised vendors who would buy liquor in large stocks prior to the New Year period and then sell it at exorbitant rates in the black market. The surveillance teams will specially check for vehicles that are transporting liquor in large quantities for resale purpose.
+
+...
+
+[Data](articles/0e220c12.json)
 
 ---
 
@@ -632,6 +696,32 @@ Since Nagesh's grandson is playing the hero of the story and he appears in a dif
 
 ---
 
+### කෘමියෙකු නිසා ශ්‍රී ලංකාවට අහිමි වූ 'අපේ එරබදු'
+
+*2024-04-11 01:58:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czrxyl384dyo) · `si`
+
+මේ අවුරුදු සමයේ නිතර අසන්නට ලැබෙන ඉතා ජනප්‍රිය ගීතයකි. නමුත් ගීතයෙන්  විස්තර කෙරෙන එරබදු මල් අද දක්නට නොලැබෙන තරම් ය.
+
+බොහෝවිට එරබදු ලෙස අදවන විට ඡායාරූප සහ වීඩියෝ දර්ශන පලවන්නේ පිටරටින් රැගෙන ආ විසිතුරු ශාකවල ඒවා ය.
+
+එබැවින් අතීතයේ පටන් ගැමියාගේ ජීවිතය හා බැඳුණු, 'අපේ එරබදු' මොනවා ද යන්න සහ ඊට සිදුවූ දේ කුමක් ද යන්න මෙම ලිපියෙන් සාකච්ඡා කෙරේ.
+
+'අපේ එරබදු' ලෙස පැරැණි ගැමියා හඳුනාගත් ශාක විශේෂ දෙකක් තිබේ. ඒ 'එරබදු' සහ 'යක් එරබදු' ය.
+
+ඉන් අවුරුදු සමයේදී මල් පිපෙන, අවුරුද්ද හා බැඳුණු එරබදු විශේෂය වන්නේ Erythrina variegata යන උද්භිද විද්‍යාත්මක නාමයෙන් හඳුන්වන එරබදු ශාකය වේ.
+
+අප්‍රේල් මාසය වන විට මල් හට ගන්නා සමයේ දී එම එරබදු ශාකයේ පත්‍ර හැලී යයි. එමනිසා ඉතා අලංකාර, රතු පැහැති මලින් ගස පිරී යයි. නමුත් එම විශේෂයේ එරබදු ශාකයක් හෝ මලක් දැකීම අදවන විට කළුනික සෙවීම තරම් දුෂ්කර ක්‍රියාවක් බව උද්භිද විද්‍යාඥයෝ පවසති.
+
+මේ එරබදු ශාකය හැඳින්වීමට එරමුදු, කටු එරමුදු , වැට එරබදු යන නම් ද භාවිත කෙරේ.
+
+එරබදු ශාකයට ඉංග්‍රීසි බසින් නම් කිහිපයක් භාවිත කෙරේ. ඒ, Coral tree , Indian Coral tree, Thorny dadap යන නම් ය.
+
+...
+
+[Data](articles/42a085f9.json)
+
+---
+
 ### Kavinda tells CID to repatriate Maithripala and hold investigations
 
 *2024-04-11 01:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kavinda-tells-CID-to-repatriate-Maithripala-and-hold-investigations/108-280577) · `en`
@@ -799,6 +889,28 @@ The competitions have been divided into three sections, namely State Section, Op
 [Data](articles/7ed404f9.json)
 
 [Extended Data](ext_articles/7ed404f9.ext.json)
+
+---
+
+### ’இலங்கையின் இறைமைக்கு அமெரிக்கா ஆதரவு’
+
+*2024-04-10 23:31:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-இறைமைக்கு-அமெரிக்கா-ஆதரவு/175-335842) · `ta`
+
+இலங்கையின் இறைமை மற்றும் பாதுகாப்பு ஆகியவற்றுக்கு அமெரிக்காவின் முழுமையான ஆதரவு கிடைக்குமென ஐக்கிய அமெரிக்காவின் தேசிய பாதுகாப்பு ஆலோசகர் ஜேக் சலிவன் உறுதியளித்துள்ளார்.
+
+தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் சாகல ரத்நாயக்கவுடன் நேற்று  நடந்த தொலைபேசிக் கலந்துரையாடலின் போதே அவர் இவ்வாறு தெரிவித்துள்ளார்.
+
+இரு நாடுகளுக்குமிடையிலான இருதரப்பு உறவுகளை வலுப்படுத்தும் நோக்கில் பல முக்கிய விடயங்கள் இதன்போது கலந்துரையாடப்பட்டுள்ளன.
+
+விரைவான பொருளாதார முன்னேற்றத்தை அடைவதற்கான இலங்கையின் தொடர்ச்சியான முயற்சிகளை தேசிய பாதுகாப்பு ஆலோசகர் ஜேக் சலிவன் பாராட்டியுள்ளார்.
+
+அத்தோடு, சர்வதேச நாணய நிதியத்துடனான வேலைத்திட்டத்தின் மூலம் சுட்டிக்காட்டப்பட்ட பொது நிதி, பணம் மற்றும் நிர்வாகம் ஆகிய துறைகளில் சீர்திருத்தங்களை மேற்கொள்வதன் முக்கியத்துவத்தையும் அவர் வலியுறுத்தினார் என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+எதிர்காலத்தில் பல்வேறு துறைகளில் இரு நாடுகளுக்கும் இடையிலான ஒத்துழைப்பை மேம்படுத்துவதற்கான வழிமுறைகள் மற்றும் வாய்ப்புகள் குறித்தும் விரிவாக ஆராயப்பட்டுள்ளது.
+
+...
+
+[Data](articles/823b904f.json)
 
 ---
 
@@ -2069,117 +2181,5 @@ It is therefore stated that the aspirations of the ethnicity will be made in the
 [Data](articles/7cf4594c.json)
 
 [Extended Data](ext_articles/7cf4594c.ext.json)
-
----
-
-### State Minister
-
-*2024-04-10 15:48:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொஸ்பேட்-நிறுவன-ஊழியரை-மிரட்டிய-இராஜாங்க-அமைச்சர்/175-335823) · `ta`
-
-A Sri Lanka Pospot HR assistant allegedly threatened officials, prompting a trade union to warn of future action. The Nidahas Sevaka Association called for an investigation by Sandhya Ambanwela, despite the employee involved being transferred without investigation.
-
-🟩
-
-Human Resources and Administrative Assistant, Human Resources and Administrative Assistant, Sri Lanka Pospot, has been accused of severely threatening the Minister of Industry and Minister of State for Ministry and the Ministry and the Ministry and the company.. .
-
-The Sri Lanka Nidahas Sevaka Association Trade Union has informed the minister that the union action will be engaged in the future if such incidents occur again.
-
-Meanwhile, the concerned officer has called on Sandhya Ambanwela to conduct a proper investigation into the incident.
-
-The official said that the minister had invited him to the ministry on charges of harassing an ordinary employee and threatened him in the presence of the company's chairman and several top officials.
-
-Trade union representatives said that although the ordinary employee involved in the incident has now been transferred to the Ministry, there have been no investigation into the incident.
-
-◼️
-
-[Data](articles/1702fc00.json)
-
-[Extended Data](ext_articles/1702fc00.ext.json)
-
----
-
-### Nobel-winning ‘God particle’ physicist Peter Higgs dies aged 94
-
-*2024-04-10 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98556/nobel-winning-god-particle-physicist-peter-higgs-dies-aged-94) · `en`
-
-British physicist Peter Higgs, whose theory of a mass-giving particle – the so-called Higgs boson – jointly earned him the Nobel Prize for Physics, has died aged 94, the University of Edinburgh announced on Tuesday.
-
-“He passed away peacefully at home on Monday 8 April following a short illness,” the Scottish university, where he had been a professor for nearly five decades, said in a statement.
-
-It called him “a great teacher and mentor, inspiring generations of young scientists”.
-
-“His family has asked that the media and public respect their privacy at this time,” the university added.
-
-Higgs used ground-breaking theoretical work to help explain how the Universe has mass, thus resolving one of the greatest puzzles in physics and earning him a place alongside Albert Einstein and Max Planck in textbooks.
-
-His 1964 theory of a mass-giving particle, which became known as the Higgs boson or the “God particle”, won him and Belgian physicist Francois Englert the 2013 physics Nobel Prize.
-
-...
-
-[Data](articles/82f89185.json)
-
-[Extended Data](ext_articles/82f89185.ext.json)
-
----
-
-### The sales division of the Government Release Office will be closed on Monday
-
-*2024-04-10 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/180917) · `ta`
-
-The Government Release Office's sales division will close on Monday, but the state release stall will remain open on Tuesday. This closure is due to stockpiling and maintenance.
-
-🟩
-
-The Government Information Department announced on Wednesday (10) that the sales unit of the Government Publication Office in Narahenpita will be closed on the 15th of this month.
-
-This decision has been made due to stockpile and some internal maintenance activities.
-
-However, it has been announced that the state release stall will be opened as usual on Tuesday (16) the next day.
-
-◼️
-
-[Data](articles/4a4cac90.json)
-
-[Extended Data](ext_articles/4a4cac90.ext.json)
-
----
-
-### Madulave Nimesh arrested
-
-*2024-04-10 15:38:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுலாவே-நிமேஷ்-கைது/175-335822) · `ta`
-
-Madhulaway Nimesh arrested for drug trafficking from Dubai, with 12.700g ICE and 487 grams Kerala cannabis. Arrested by Western Province Southern Criminal Investigation Division.
-
-🟩
-
-'Madhulaway Nimesh' has been arrested for allegedly running Homagama Handya's drug trafficking operations from Dubai recently.
-
-The suspect, who had a 12.700g ICE and 487 grams of Kerala cannabis, was arrested on Tuesday (09) evening by the Western Province Southern Criminal Investigation Division during a roundup of Madulawa area under the Padukkai Police Division.
-
-The Western Province Southern Criminal Investigation Division is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/1b497a81.json)
-
-[Extended Data](ext_articles/1b497a81.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-04-10 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180919) · `ta`
-
-On April 10, the US dollar was bought for Rs 293.6852 and sold for Rs 303.335.
-
-🟩
-
-The US dollar purchasing price was Rs 293.6852 and the sales price were Rs 303.335, based on the Central Bank's currency exchange rate on Wednesday (April 10).
-
-◼️
-
-[Data](articles/baf25f94.json)
-
-[Extended Data](ext_articles/baf25f94.ext.json)
 
 ---

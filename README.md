@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 21:34:05**
+As of **2024-04-12 21:52:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,018
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,619 (100.0%) of 18,620 articles have been extended.
+18,620 (100.0%) of 18,620 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ On the apparent northward relative motion of the sun, it is going to be directly
 ◼️
 
 [Data](articles/9363ffec.json)
+
+[Extended Data](ext_articles/9363ffec.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 17:34:30**
+As of **2024-04-12 17:54:09**
 
 ## Newspaper Stats
 
-*Scraped **18,593** Articles*
+*Scraped **18,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 163
 bbccomsinhala | 196
 dbsjeyarajcom | 215
 newsfirstlk | 363
-islandlk | 1,016
+islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,040
 adalk | 1,554
@@ -20,17 +20,31 @@ tamilmirrorlk | 2,170
 adaderanalk | 2,227
 virakesarilk | 2,775
 dailymirrorlk | 2,843
-adaderanasinhalalk | 3,013
+adaderanasinhalalk | 3,014
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,593 (100.0%) of 18,593 articles have been extended.
+18,593 (100.0%) of 18,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### කිලෝ 200කට ආසන්න මත්ද්‍රව්‍ය තොගයක් නාවික හමුදා භාරයට
+
+*2024-04-12 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195571) · `si`
+
+හෙරොයින් හෝ අයිස් මත්ද්‍රව්‍ය බවට සැකකෙරෙන මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 200කට ආසන්න තොගයක් සමඟ බහුදින ධීවර යාත්‍රා 02ක් ශ්‍රී ලංකාවට දකුණු දෙසින් වූ ගැඹුරු මුහුදේදී නාවික හමුදාව මඟින් සිය භාරයට ගෙන තිබේ.
+
+නාවික හමුදා මාධ්‍ය ප්‍රකාශක කපිතාන් ගයාන් වික්‍රමසූරිය මහතා පැවසුවේ, එම යාත්‍රා දෙකේ සිටි ශ්‍රී ලාංකික ධීවරයින් 10 දෙනෙකුද අත්අඩංගුවට ගත් බවය.
+
+◼️
+
+[Data](articles/8ec8aea7.json)
+
+---
 
 ### Immigration Officers in a Career Program
 
@@ -2309,29 +2323,5 @@ The suspects are Sri Lankans and are residents of Colombo 13 and Maskeliya areas
 [Data](articles/a8d116a9.json)
 
 [Extended Data](ext_articles/a8d116a9.ext.json)
-
----
-
-### Alan Keenan - Analysis on the issue of Vedukunnarimalai, Kurundurmalai
-
-*2024-04-11 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180987) · `ta`
-
-Alan Keenan, from the International Crisis Surveillance Committee, investigates Vedukunnarimalai and Kurundurmalai in Sri Lanka, focusing on political and human rights issues. He meets with political leaders, civil society, and relatives of missing persons, aiming to publish a report on the situation.
-
-🟩
-
-In reliable sources, Alan Keenan, the inspector of the International Crisis Surveillance Committee, who recently visited Sri Lanka, has been specially investigated on the issue of Vettu Nirimalai and Kurundurmalai and that he is expecting a report on it.
-
-The police were disrupted by the devotees who engaged in pooja worship on Shivaratri Day (March 8) at the Adilingeswarar Temple in Vettu Nirimalai in Vavuniya district and forcibly evacuated at night.. Eight people were arrested by the police, including the temple.
-
-A few days after the incident, the international crisis watchdog of Sri Lanka, Alan Keenan, who visited Sri Lanka, has visited the Vittukunnarimalai and Kurundurmalai areas to investigate the political and human rights situation in the country.
-
-According to reliable sources, Alan Keenan has widely studied the issue of Madhavan farmers and Madhavan.
-
-...
-
-[Data](articles/63d2a7fc.json)
-
-[Extended Data](ext_articles/63d2a7fc.ext.json)
 
 ---

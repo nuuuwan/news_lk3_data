@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 20:51:54**
+As of **2024-04-12 21:03:25**
 
 ## Newspaper Stats
 
-*Scraped **18,615** Articles*
+*Scraped **18,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ dailyftlk | 1,018
 economynextcom | 1,040
 adalk | 1,554
 tamilmirrorlk | 2,172
-adaderanalk | 2,232
+adaderanalk | 2,233
 virakesarilk | 2,778
-dailymirrorlk | 2,850
+dailymirrorlk | 2,851
 adaderanasinhalalk | 3,017
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,613 (100.0%) of 18,615 articles have been extended.
+18,615 (100.0%) of 18,617 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### Police offer Rs. 5,000 reward for arresting drunk drivers
+
+*2024-04-12 20:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-offer-Rs-5-000-reward-for-arresting-drunk-drivers/108-280658) · `en`
+
+Colombo, April 12 (Daily Mirror) - Police officers who arrest a drunk driver will receive a reward of Rs. 5,000, the police said today.
+
+Police Spokesman DIG Nihal Thalduwa said many vehicles have to be checked to arrest a drunk driver and the reward is given to motivate the officer on duty for that purpose.
+
+He said that special police teams have been deployed round the clock to arrest drivers who drive under the influence of alcohol and that special motorcycle teams have also been deployed.
+
+It was reported that at least 150,000 breathalyzer test kits have been provided to all police stations to detect intoxicated drivers.
+
+DIG Thalduwa said the law will be strictly enforced against drivers who drive at high speed, violate traffic rules and drive carelessly when the roads are congested.
+
+◼️
+
+[Data](articles/cb679c44.json)
+
+---
 
 ### More than 100 unmanned aircraft Cruise missiles can be used for Iran's attack against Israel - CBS
 
@@ -74,6 +94,8 @@ Prodded for an answer to know whether it was a bank holiday, he said, “You jus
 
 [Data](articles/77e9e6cd.json)
 
+[Extended Data](ext_articles/77e9e6cd.ext.json)
+
 ---
 
 ### Biden urged to ban China-made electric vehicles
@@ -97,6 +119,8 @@ The White House did not immediately respond to a BBC request for comment.
 ...
 
 [Data](articles/aedca9a0.json)
+
+[Extended Data](ext_articles/aedca9a0.ext.json)
 
 ---
 
@@ -390,6 +414,22 @@ The Navy said the suspects and their stock of narcotics are being brought to the
 
 ---
 
+### Two vessels carrying nearly 200kg of narcotics intercepted off Sri Lanka
+
+*2024-04-12 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98594/two-vessels-carrying-nearly-200kg-of-narcotics-intercepted-off-sri-lanka) · `en`
+
+Sri Lanka Navy has intercepted two multi-day fishing trawlers carrying around 200kg of suspected heroin and crystal methamphetamine (‘Ice’) off the southern coast of the island.
+
+Ten crew members who were on board the vessels were also taken into account.
+
+They are now being escorted to the Galle Harbour and will be handed over to the respective authorities for onward investigations, the navy spokesperson added.
+
+◼️
+
+[Data](articles/3a607f11.json)
+
+---
+
 ### Two vessels carrying massive cache of narcotics intercepted off Sri Lanka
 
 *2024-04-12 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98594/two-vessels-carrying-massive-cache-of-narcotics-intercepted-off-sri-lanka) · `en`
@@ -472,7 +512,7 @@ Colombo, April 12 (Daily Mirror) - Recent PCR tests conducted on two female pati
 
 According to sources, it is not yet conclusive that the deaths can be directly linked to Covid-19. The deaths had occurred yesterday (11).
 
-However, authorities have mandated quarantine measures for both patients and staff members from the ward where the individual was receiving treatment.
+However, authorities have mandated quarantine measures for both patients and staff members from the ward where the individuals were receiving treatment.
 
 There have been a couple of deaths last year where the patients had tested positive for Coronavirus following their deaths.
 
@@ -2265,55 +2305,5 @@ The British Air Force was taken to the Port of Trincomalee to protect the ship t
 [Data](articles/e067a782.json)
 
 [Extended Data](ext_articles/e067a782.ext.json)
-
----
-
-### Billionaires sentenced to death in the world
-
-*2024-04-11 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195552) · `si`
-
-Truong My LAN, a 67-year-old property developer, was sentenced to death by the Syigon Commercial Bank, Vietnam's largest, for a $44 billion fraud over 11 years.
-
-🟩
-
-Truong My LAN has been sentenced to death by the Syigon Commercial Bank, who is considered the largest bank in Vietnam.
-
-The trial was considered as a wide case of Vietnam.
-
-It is a trial related to the largest bank fraud.
-
-A 67-year-old woman, a 67-year-old woman, is a woman who owns a Lolon I LAN property development businessman.
-
-The main accusation of her was the main accusation that she had cheated $ 44 billion over 11 years.
-
-◼️
-
-[Data](articles/62e35144.json)
-
-[Extended Data](ext_articles/62e35144.ext.json)
-
----
-
-### Satishkumar Sivalingam is the chief guest at the Great Tamil Literary Arts Festival in Tamil Nadu Salem
-
-*2024-04-11 21:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181004) · `ta`
-
-Satishkumar Sivalingam, a prominent writer and politician, is the chief guest at the Great Tamil Literary Arts Festival in Salem, Tamil Nadu, starting Friday. The event features a mix of literary, artistic, and spiritual figures, including Ahmed Giauddin, Dr. Raghavi Bhavanneswari, and many others.
-
-🟩
-
-Sathishkumar Sivalingam, the Senior Vice President of the Upcountry People's Front and the writer of the Mount Language, will be the chief guest at the Great Tamil Literary Arts Festival, which begins on Friday (12) in Tamil Nadu Salem.
-
-Literary personality. Ahmed Giauddin (Director of Tamil Nadu Law Law Commission), UK Chemford Councilor Advocate Papavadi, Pulavar Shanmukavadivel, Kalaimamani Lena ThamizhvananMalaysian artist Dr. Raghavi Bhavanneswari, Singapore businessman film director P Arumanchandran, Nandavanam Chandrasekaran, poet Mathukannan, poet Rajendra Chola, Poets, Artists, Artists, Spiritual Lecturers and many special guests are the special guests.
-
-At the invitation of Dr. ST Kalaiyamudan, a lawyer and paramilitary referee, the scepter of Thirukkalai Parambarai scepter Srilasri Sivapragasa Desika, with the blessings of the Paramacharya Swamis
-
-The three -day event will be held at the Salem Shanmuga Nurse Education Muttam Tamil Stadium.
-
-◼️
-
-[Data](articles/daa16579.json)
-
-[Extended Data](ext_articles/daa16579.ext.json)
 
 ---

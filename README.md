@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 07:17:06**
+As of **2024-04-12 07:41:46**
 
 ## Newspaper Stats
 
-*Scraped **18,531** Articles*
+*Scraped **18,532** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,018
 economynextcom | 1,035
 adalk | 1,554
 tamilmirrorlk | 2,165
-adaderanalk | 2,218
+adaderanalk | 2,219
 virakesarilk | 2,765
 dailymirrorlk | 2,827
 adaderanasinhalalk | 3,000
@@ -26,11 +26,33 @@ adaderanasinhalalk | 3,000
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,531 (100.0%) of 18,531 articles have been extended.
+18,531 (100.0%) of 18,532 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### 100mm rainfall likely in Western Province and several other areas
+
+*2024-04-12 07:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98583/100mm-rainfall-likely-in-western-province-and-several-other-areas) · `en`
+
+Showers or thundershowers will occur at times in Eastern and Uva provinces and Hambantota District, the Department of Meteorology says.
+
+Meanwhile, showers or thundershowers can be expected in most places elsewhere over the island after 1.00 p.m.
+
+Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Misty conditions can be expected at some places in Western, Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
+
+Members of the public are advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+On the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka from 05 to 15 April this year. The nearest areas of Sri Lanka over which the sun is overhead today are Vanchiyankulam, Omanthai, Eramadu and Thiriyai at around noon.
+
+...
+
+[Data](articles/8884d89d.json)
+
+---
 
 ### Weather today
 
@@ -2369,27 +2391,5 @@ In the sea regions, the wind blows from the east direction or from a different d
 [Data](articles/b3abaf3e.json)
 
 [Extended Data](ext_articles/b3abaf3e.ext.json)
-
----
-
-### Party prohibited to comment on support
-
-*2024-04-11 09:35:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆதரவு-குறித்து-கருத்து-தெரிவிக்க-கட்சி-தடை/175-335845) · `ta`
-
-The SLPP party has temporarily suspended support for any presidential candidate until MPs resolve conflicting views on upcoming elections. Ministers supporting President Ranil Wickremesinghe include Susil Premajayantha, Prasanna Ranatunga, and Ali Sabri. The party is divided, with some urging against a native candidate and threatening disciplinary action against those allied with other parties.
-
-🟩
-
-A party administrator said yesterday that the party has banned the leadership sovereignty of any presidential candidate until the SLPP MPs made conflicting views on the upcoming elections.
-
-The SLPP is currently split in its support, who holds the positions in the government openly support the proposed nomination of President Ranil Wickremesinghe. They include ministers Susil Premajayantha, Prasanna Ranatunga and Ali Sabri.
-
-Another section urges the native candidate to be stopped. The party has also decided to take strict disciplinary action against those who work with other parties in violation of the party's constitution.
-
-◼️
-
-[Data](articles/459317cc.json)
-
-[Extended Data](ext_articles/459317cc.ext.json)
 
 ---

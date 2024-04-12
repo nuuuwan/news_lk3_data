@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 17:18:20**
+As of **2024-04-12 17:34:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,013
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,592 (100.0%) of 18,593 articles have been extended.
+18,593 (100.0%) of 18,593 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,23 +56,33 @@ This profession is based on several issues, including the deficit of immigration
 
 ---
 
-### இன்று அல்லது நாளை இஸ்ரேலின் தென்பகுதி அல்லது வடபகுதி மீது ஈரான் தாக்குதலை மேற்கொள்ளலாம் - வோல்ஸ்டீரீட் ஜேர்னல்
+### Iran can carry out an attack on Israel's south or north today - Woltestreed Journal
 
 *2024-04-12 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181028) · `ta`
 
-ஈரான் இன்று அல்லது நாளை இஸ்ரேலின் தென்பகுதி மீது அல்லது வடபகுதி மீது நேரடி தாக்குதலை மேற்கொள்ளலாம் கருதும் இஸ்ரேல் தாக்குதலை எதிர்கொள்வதற்காக தயாராகிவருகின்றது என விடயம் குறித்து நன்கு அறிந்த நபர் ஒருவர் தெரிவித்தார்.என அமெரிக்காவின் வோல்ஸ்ரீட் ஜேர்னல் தெரிவித்துள்ளது
+Iran may attack Israel's south or north today, with Iranian officials planning retaliation for attacks on Syria. Iran's Revolutionary Guard has released videos of missile strikes on Israel, and there are plans for attacks on Israeli embassies and other targets.
 
-இதேவேளை ஈரானின் தலைமைத்துவத்திடமிருந்து தகவல்களை பெற்றஒருவர் ஈரான் தாக்குதல்களிற்கு திட்டமிடுகின்றது ஆனால் இன்னமும் இறுதிமுடிவு எதனையும் எடுக்கவில்லை என குறிப்பிட்டார்.
+🟩
 
-கடந்தவாரம் சிரிய தலைநகரில் உள்ள துணை தூதரகத்தின் மீது மேற்கொள்ளப்பட்ட தாக்குதலிற்கு பதிலடி கொடுக்கவுள்ளதாக ஈரான் பகிரங்கமாக அறிவித்துள்ளது.
+A person who is well aware of the issue of Israel is preparing to face a direct attack on Israel's south or northern part of Israel today, said a person who is well aware of the issue.
 
-இந்த தாக்குதலில் ஈரானின் இஸ்லாமிய புரட்சிகர காவலர் படையணியின் தளபதிகள் உட்பட ஈரான் இராணுவத்தின் முக்கிய தளபதிகள் கொல்லப்ப்பட்டனர்.
+Meanwhile, a man who received information from Iran's leadership is planning for Iran attacks but has not yet taken any funeral.
 
-முன்னதாக ஈரான் அல்லது அதன் சார்பு குழுக்கள் இஸ்ரேலின் தூதரகம் அல்லது அதற்கு சொந்தமான கட்டிடம் மீது தாக்குதலை மேற்கொள்வது உறுதி என்பதை வெளிப்படுத்தும் புலனாய்வு தகவல்கள் கிடைத்துள்ளதாக அமெரிக்க புலனாய்வு அமைப்புகள் தெரிவித்திருந்தன.
+Iran has publicly announced that it will respond to an attack on the consist of the Syrian capital last week.
+
+In this attack, Iranian army chiefs, including the commanders of the Iranian Islamic Revolutionary Guard forces, were killed.
+
+US intelligence agencies have reported that Iran or its pro -groups have received intelligence reports that are sure to attack Israel's embassy or its own building.
+
+However, intelligence agencies have said that the attack may take place within the limits of Israel
+
+Investigators have reported that Iran may be involved in a response to Israel over the next few days.
 
 ...
 
 [Data](articles/25a46819.json)
+
+[Extended Data](ext_articles/25a46819.ext.json)
 
 ---
 

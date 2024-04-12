@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 13:18:15**
+As of **2024-04-12 13:34:05**
 
 ## Newspaper Stats
 
-*Scraped **18,565** Articles*
+*Scraped **18,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 2,169
 adaderanalk | 2,224
 virakesarilk | 2,773
 dailymirrorlk | 2,833
-adaderanasinhalalk | 3,007
+adaderanasinhalalk | 3,008
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,564 (100.0%) of 18,565 articles have been extended.
+18,565 (100.0%) of 18,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### මහ බැංකුව යළිත් ඩොලර් ගනී
+
+*2024-04-12 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195564) · `si`
+
+ශ්‍රී ලංකා මහ බැංකුව 2024 මාර්තු මාසයේදී විදේශ විනිමය වෙළෙඳපොළෙන් අමෙරිකානු ඩොලර් මිලියන 715ක් මිලදී ගෙන තිබෙන බව මහ බැංකු දත්ත පෙන්වා දෙයි.
+
+එමෙන්ම මහ බැංකුව විසින් පෙබරවාරි මාසයේ අමෙරිකානු ඩොලර් මිලියන 239.5ක් විදේශ විනිමය වෙළෙඳපොළෙන් මිලදී ගෙන තිබේ.
+
+ඒ අනුව මේ වසරේ මේ දක්වා මහ බැංකුව විසින් වෙළෙඳපොළෙන් මිලදී ගෙන ඇති මුළු මුදල ඩොලර් මිලියන 1,199ක් දක්වා ඉහළ ගොස් ඇති බව නිල දත්ත පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/9e649f92.json)
+
+---
 
 ### Prepare for this nucle
 
@@ -636,23 +652,31 @@ However, according to the current Amendment, all liquor stations will be opened 
 
 ---
 
-### தமிழ் பொதுவேட்பாளரை நிறுத்த கொள்கையளவில் இணங்குகிறேன் - சிறீதரன்
+### I am in principle to stop the Tamil general candidate -Sreedharan
 
 *2024-04-12 06:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/181010) · `ta`
 
-ஜனாதிபதி தேர்தலில் தமிழ் பொதுவேட்பாளர் நிறுத்தப்படுவதற்கு கொள்கையளவில் இணக்கம் தெரிவிக்கும் அதேநேரம், கட்சியின் தீர்மானமும் முக்கியமானது என்று இலங்கைத் தமழரசுக்கட்சியின் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் தெரிவித்தார்.
+Sivagnanam Sreedharan, a Sri Lanka TNA MP, supports stopping a common Tamil candidate in the presidential election, emphasizing the need for Tamil parties to unite and make informed decisions.
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் தமிழ்க் கட்சிகளின் சார்பில் பொதுவேட்பாளர் ஒருவரை நிறுத்துவதற்கான முயற்சிகள் தொடர்பில் கருத்து வெளியிடும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் தமிழ் அரசியல் கட்சிகளின் சார்பில் பொதுவேட்பாளர் ஒருவரை நிறுத்துவதற்கான முன்முயற்சிகள் முன்னெடுக்கப்படுகின்றன.
+Sivagnanam Sreedharan, a Jaffna MP of the Sri Lanka TNA, said that the party's decision was important while the Tamil general candidate was in principle.
 
-தற்போதைய நிலையில், ஜனாதிபதி தேர்தலில் களமிறங்குவார்கள் என்று எதிர்பார்க்கப்படுகின்றவர்கள் தமிழ் மக்களின் இனப்பிரச்சினைக்கான தீர்வு உட்பட எந்தவொரு விடயங்களிலும் கரிசனைகளைக் கொண்டவர்களாக தம்மை வெளிப்படுத்தவில்லை.
+He said this while commenting on attempts to stop a common candidate on behalf of the Tamil parties in the upcoming presidential election.
 
-ஆகவே, எந்த அடிப்படைகளுமின்றி தென்னிலங்கை வேட்பாளர்களை ஆதரிப்பது பொருத்தமற்றதொரு முயற்சியாகும். அந்த வகையில் தமிழ் கட்சிகள் அனைத்தும் ஒன்றிணைந்து  பொதுவேட்பாளரை நிறுத்துகின்றமை பொருத்தமான அணுகுமுறையாகும்.
+In the upcoming presidential election, initiatives to stop a common candidate on behalf of Tamil political parties.
+
+At present, those who are expected to field in the presidential election do not reveal themselves as compassionate on any issues, including a solution to the ethnic problem of the Tamil people.
+
+Therefore, supporting the Candidates of South Sri Lanka without any basics is an inappropriate endeavor. It is a suitable approach that all the Tamil parties unite and stop the general candidate.
+
+I am in principle compliance with that effort. However, it is very important that the party needs to take a decision on the issue of the Sri Lankan Tamil party.
 
 ...
 
 [Data](articles/e4dc53ed.json)
+
+[Extended Data](ext_articles/e4dc53ed.ext.json)
 
 ---
 
@@ -2345,23 +2369,5 @@ Thushara also criticised the Commissioner of Elections for his support for the d
 [Data](articles/ef2b36f1.json)
 
 [Extended Data](ext_articles/ef2b36f1.ext.json)
-
----
-
-### Sri Lanka shows signs of recovery but must maintain reform momentum: ADB
-
-*2024-04-11 13:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-shows-signs-of-recovery-but-must-maintain-reform-momentum-ADB/108-280626) · `en`
-
-COLOMBO, April 11- The Asian Development Bank’s (ADB) annual flagship economic publication, the Asian Development Outlook (ADO) April 2024, forecasts Sri Lanka’s economy to record moderate growth of 1.9% in 2024 and 2.5% in 2025 following 2 consecutive years of contractions.
-
-According to the ADB, Sri Lanka is showing signs of recovery, with green shoots emerging in the second half of 2023 while inflation has decelerated to single digits, foreign exchange reserves continue to be built up, and the exchange rate has appreciated. Furthermore, tourist arrivals and remittance inflows continue to show a commendable recovery while supply conditions have improved.
-
-ADB’s growth forecast hinges on the continuation of reforms and better consumer and business sentiment. Timely completion of external debt restructuring will also support Sri Lanka’s debt sustainability efforts.
-
-...
-
-[Data](articles/044fa93c.json)
-
-[Extended Data](ext_articles/044fa93c.ext.json)
 
 ---

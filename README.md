@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 15:33:48**
+As of **2024-04-12 15:52:34**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,011
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,582 (100.0%) of 18,584 articles have been extended.
+18,584 (100.0%) of 18,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### நீண்ட நாளுக்கு பின்னர்‌ கொவிட் மரணம்
+### Kovit death after a long day
 
 *2024-04-12 15:17:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீண்ட-நாளுக்கு-பின்னர்-கொவிட்-மரணம்/175-335874) · `ta`
 
-அந்த அறிக்கையில், நீண்ட நாட்களுக்குப் பிறகு, குருநாகல் போதனா வைத்தியசாலையில் கொவிட் தொற்றுக்கு இலக்கான ஒருவர் உயிரிழந்துள்ளார்.
+A person infected with Kovit at Kurunegala Teaching Hospital died after a PCR test.
 
-குருநாகல் போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த சந்தேகநபர் ஒருவர் உயிரிழந்த நிலையில், பி.சி.ஆர் பரிசோதனைக்கு உட்படுத்தப்பட்டதில், கொவிட் வைரஸ் தொற்று காரணமாக உயிரிழந்தமை தெரியவந்துள்ளது
+🟩
+
+In the report, a long time after the Kovit infected at the Kurunegala Teaching Hospital, a person who was infected with the infection.
+
+A suspect who was receiving treatment at the Kurunegala Teaching Hospital has died after being subjected to a PCR examination.
 
 ◼️
 
 [Data](articles/d12d700a.json)
+
+[Extended Data](ext_articles/d12d700a.ext.json)
 
 ---
 
@@ -59,6 +65,8 @@ Addressing the media at the Ruwanwella area today, he assured that the preparati
 ...
 
 [Data](articles/3df7449d.json)
+
+[Extended Data](ext_articles/3df7449d.ext.json)
 
 ---
 

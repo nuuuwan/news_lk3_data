@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 14:18:26**
+As of **2024-04-12 14:34:47**
 
 ## Newspaper Stats
 
-*Scraped **18,570** Articles*
+*Scraped **18,572** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ dailyftlk | 1,018
 economynextcom | 1,037
 adalk | 1,554
 tamilmirrorlk | 2,169
-adaderanalk | 2,225
+adaderanalk | 2,226
 virakesarilk | 2,774
-dailymirrorlk | 2,834
+dailymirrorlk | 2,835
 adaderanasinhalalk | 3,009
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,569 (100.0%) of 18,570 articles have been extended.
+18,570 (100.0%) of 18,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### Advisory issued for evening thundershowers and severe lightning
+
+*2024-04-12 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98591/advisory-issued-for-evening-thundershowers-and-severe-lightning) · `en`
+
+The Department of Meteorology, issuing a weather alert, has said that thundershowers and severe lightning are expected in parts of the island in the coming hours.
+
+Accordingly, thundershowers accompanied by severe lightning are likely to occur at several places in Western, Southern, Sabaragamuwa, Northern and North-western provinces and Monaragala District.
+
+Members of the public are advised to take adequate precautions to minimize damages caused by lightning activity.
+
+◼️
+
+[Data](articles/09fdc2d1.json)
+
+---
+
+### 917 prisoners to get State amnesty tomorrow
+
+*2024-04-12 14:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/917-prisoners-to-get-State-amnesty-tomorrow/108-280643) · `en`
+
+Colombo, April 12 (Daily Mirror) - A special State amnesty has been granted to prisoners in view of the Sinhala and Tamil New Year tomorrow (13), Prisons Commissioner and media spokesman Gamini B. Dissanayaka said.
+
+He said the prisoners would be released in view of the Sinhala and Year New Year by the President in accordance with the powers conferred on him by Article 34 of the Constitution.
+
+Accordingly, a total of 917 prisoners, including 896 male prisoners and 21 female prisoners will be released from all prisons around the country tomorrow at 10 a.m.
+
+◼️
+
+[Data](articles/949294a1.json)
+
+---
 
 ### SLTB’s daily earnings surge to over Rs. 20M in New Year rush
 
@@ -47,6 +79,8 @@ Additionally, the SLTB has arranged numerous bus services to run along all the e
 ◼️
 
 [Data](articles/0f99acea.json)
+
+[Extended Data](ext_articles/0f99acea.ext.json)
 
 ---
 
@@ -2331,45 +2365,5 @@ The three arrested suspects are aged 18, 34 and 47, living in Colombo 10 area, t
 [Data](articles/35d1901a.json)
 
 [Extended Data](ext_articles/35d1901a.ext.json)
-
----
-
-### Sri Lanka consumer confidence surges to new peak in March 2024
-
-*2024-04-11 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-confidence-surges-to-new-peak-in-march-2024-158296/) · `en`
-
-ECONOMYNEXT — Consumer confidence in Sri Lanka surged to a new peak in March 2024 though all three indices run by the Institute for Health Policy (IHP), which ran the survey, were still at pessimistic levels.
-
-The IHP’s March 2024 Consumer Confidence Indices, which are generated from its Sri Lanka Opinion Tracker Survey (SLOTS), improved to a new all-time peak in March, the institute said in a statement on Wednesday April 11.
-
-The Index of Consumer Sentiment (ICS), the broadest measure of the public’s view of their personal economic status and the national economy gained 9 points to 31 points. The Index of Consumer Expectations (ICE), which tracks future perceptions increased 9 points to 37 points. The Index of Current Conditions (ICC), a measure of perceptions of current conditions, also increased 9 points to 22 points, the IHP said.
-
-...
-
-[Data](articles/db678534.json)
-
-[Extended Data](ext_articles/db678534.ext.json)
-
----
-
-### Vietnamese tycoon accused in multi-billion dollar bank fraud faces possible death sentence
-
-*2024-04-11 13:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98573/vietnamese-tycoon-accused-in-multi-billion-dollar-bank-fraud-faces-possible-death-sentence) · `en`
-
-(BBC) – It is the most spectacular trial ever held in Vietnam, befitting one of the greatest bank frauds the world has ever seen.
-
-Behind the stately yellow portico of the colonial-era courthouse in Ho Chi Minh City, a 67-year-old property developer stands accused of looting one of Vietnam’s largest banks over a period of 11 years.
-
-The numbers involved are dizzying. Truong My Lan is charged with taking out $44bn (£35bn) in loans from the Saigon Commercial Bank. Prosecutors say $27bn may never be recovered.
-
-The habitually secretive communist authorities have been uncharacteristically forthright about this case, going into minute detail for the media. They say they have summoned 2,700 people to testify. There are 10 state prosecutors and around 200 lawyers involved.
-
-The evidence is in 104 boxes weighing a total of six tonnes. Eighty-five defendants are on trial with Truong My Lan, who denies the charges. She and 13 others face a possible death sentence.
-
-...
-
-[Data](articles/646e1f2f.json)
-
-[Extended Data](ext_articles/646e1f2f.ext.json)
 
 ---

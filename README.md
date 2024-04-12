@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 15:18:21**
+As of **2024-04-12 15:33:48**
 
 ## Newspaper Stats
 
-*Scraped **18,582** Articles*
+*Scraped **18,584** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,45 +16,81 @@ islandlk | 1,016
 dailyftlk | 1,018
 economynextcom | 1,040
 adalk | 1,554
-tamilmirrorlk | 2,169
+tamilmirrorlk | 2,170
 adaderanalk | 2,226
 virakesarilk | 2,774
-dailymirrorlk | 2,839
+dailymirrorlk | 2,840
 adaderanasinhalalk | 3,011
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,575 (100.0%) of 18,582 articles have been extended.
+18,582 (100.0%) of 18,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### දූපතක සතියක් සිරවී සිටි පිරිසක් මුදාගනී
+### நீண்ட நாளுக்கு பின்னர்‌ கொவிட் மரணம்
+
+*2024-04-12 15:17:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீண்ட-நாளுக்கு-பின்னர்-கொவிட்-மரணம்/175-335874) · `ta`
+
+அந்த அறிக்கையில், நீண்ட நாட்களுக்குப் பிறகு, குருநாகல் போதனா வைத்தியசாலையில் கொவிட் தொற்றுக்கு இலக்கான ஒருவர் உயிரிழந்துள்ளார்.
+
+குருநாகல் போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த சந்தேகநபர் ஒருவர் உயிரிழந்த நிலையில், பி.சி.ஆர் பரிசோதனைக்கு உட்படுத்தப்பட்டதில், கொவிட் வைரஸ் தொற்று காரணமாக உயிரிழந்தமை தெரியவந்துள்ளது
+
+◼️
+
+[Data](articles/d12d700a.json)
+
+---
+
+### No political interference in providing 10kgs of rice to low-income families
+
+*2024-04-12 15:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-political-interference-in-providing-10kgs-of-rice-to-low-income-families/108-280644) · `en`
+
+Colombo, April 12 (Daily Mirror) - There is no political interference in the programme of providing 10 kgs of rice to about 3 million low-income families at the cost of Rs. 12 billion, Finance State Minister Ranjith Siyambalapitiya said.
+
+Addressing the media at the Ruwanwella area today, he assured that the preparation of the lists of beneficiaries under the programme of providing 10 kgs of rice will be done without any influence by its officials under the supervision of the Regional Secretaries.
+
+"Many people believe that we should expand the social safety net to support those who have fallen below the poverty line. The Minister agreed and said that steps are being taken in this direction. Additionally, he highlighted that the subsidy amount, which was Rs. 65 billion two years ago, has now been increased significantly to Rs. 205 billion.
+
+...
+
+[Data](articles/3df7449d.json)
+
+---
+
+### Release from a week trapped in an island
 
 *2024-04-12 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195568) · `si`
 
-රොබින්ස් කෘෘසෝ ලොකු කුඩා කා අතරත් ජනප්‍රිය ලෝක පූජිත නව කතාවකි.
+"Robbins, a new global story, tells of three friends rescued from an island in Micronesia. They were found using a signal device, thanks to the American Coast Guard's search. The island, known for its small wells, was their refuge."
 
-දූපතක සිරවී වසර ගණනක් හුදකලාව සිටි මිනිසෙකු වටා එම කතා ප්‍රස්තුතය ගොඩනැගී තිබේ.
+🟩
 
-රොබින්ස් කෘෘසෝ චරිතය යළි සිහි ගැන්වූ පුවතක් බටහිර පැසිෆික් කලාපයේ පිහිටා ඇති මයික්‍රොනීසියා නම් මිනිසුන් නොමැති දූපතකින් පසුගිය දා වාර්තා වුණි.
+Robbins are a new story of the popular global priority between small and small.
 
-ඒ එම දූපතේ  සිරවී සතියක කාලයක් ගත කළ මිතුරන් තිදෙනෙකු මුදාගැනීමත් සමගිනි.
+The brand was built around a man who was struggled on an island.
 
-සාගරය මැදදී සිය යාත්‍රාව අනතුරට පත්වීමෙන් පසු ඔවුන් මෙම දූපතට පැමිණ තිබිණි.
+The Robins The Crea was a reorganized news of the microneysia, located in the western Pacific region, a remaenting news.
 
-පිරිස සොයා අමෙරිකානු වෙරළාරක්ෂක හමුදාව මෙහෙයුම් ආරම්භ කර තිබුනේ ඔවුන් අතුරුදන් වීමේ පුවත සැලවීමත් සමගය.
+Upon the liberation of three of the friends who were stuck on the island had been released.
 
-පිරිස එම දූපතේ සිටින බවට සොයාගෙන ඇත්තේ, තල් පත් යොදාගෙන ඔවුන් වෙරළේ නිර්මාණ කර තිබූ හෙල්ප් එනම් උදව් ලෙස සටහන් වදන හේතුවෙනි.
+After their vessel was in danger at the center of the ocean, they had come to this island.
 
-ධීවරයින් විසින් කණිනු ලැබූ බවට සැලකෙන දූපතේ තිබූ කුඩා ලිඳකින් ඔවුන් පිරිසිදු ජලය සපයාගෙන තිබිණි.
+The American Coast Guard has commenced operations in search of the people with their disappearance.
+
+The people have been found that the people are on the island, using the phases, a helper, which was created on the beach.
+
+They were cleaned with the little well on the small wells on the island, which is considered by fishermen.
 
 ◼️
 
 [Data](articles/109cba7b.json)
+
+[Extended Data](ext_articles/109cba7b.ext.json)
 
 ---
 
@@ -71,6 +107,8 @@ The study, Understanding Connections between Human Rights and Economic Crimes, c
 ...
 
 [Data](articles/aa668f1a.json)
+
+[Extended Data](ext_articles/aa668f1a.ext.json)
 
 ---
 
@@ -90,6 +128,8 @@ Accordingly, the symbolic strike was launched at 9 a.m. and will continue till 9
 
 [Data](articles/f40131a6.json)
 
+[Extended Data](ext_articles/f40131a6.ext.json)
+
 ---
 
 ### Thundershowers, severe lightning forecast across the island
@@ -108,6 +148,8 @@ The Department of Meteorology continues to monitor the situation closely and urg
 
 [Data](articles/143fc552.json)
 
+[Extended Data](ext_articles/143fc552.ext.json)
+
 ---
 
 ### Preparing for New Year
@@ -119,6 +161,8 @@ People were buying goods even today to celebrate the Sinhala and Tamil New Year,
 ◼️
 
 [Data](articles/add870de.json)
+
+[Extended Data](ext_articles/add870de.ext.json)
 
 ---
 
@@ -367,6 +411,8 @@ Do Thi Nhan, former Director of bank supervision division II at the State Bank o
 ...
 
 [Data](articles/e21a4243.json)
+
+[Extended Data](ext_articles/e21a4243.ext.json)
 
 ---
 
@@ -887,6 +933,8 @@ India’s privately owned defence companies demonstrated the capability they hav
 ...
 
 [Data](articles/188b386f.json)
+
+[Extended Data](ext_articles/188b386f.ext.json)
 
 ---
 
@@ -2289,51 +2337,5 @@ The development of the country and the development of the country cannot be prev
 [Data](articles/7c393c20.json)
 
 [Extended Data](ext_articles/7c393c20.ext.json)
-
----
-
-### Eight Sri Lankans rescued from Myanmar cybercrime camps safely arrive in Thailand
-
-*2024-04-11 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/98576/eight-sri-lankans-rescued-from-myanmar-cybercrime-camps-safely-arrive-in-thailand) · `en`
-
-The eight Sri Lankans, who were rescued from the cybercrime camps in Myawaddy area of Myanmar, have safely arrived at the Embassy of Sri Lanka in Thailand, Ada Derana learns.
-
-Commenting in this regard, the Ambassador of Sri Lanka to Thailand, Mr. Janaka Bandara said the rescued people will be repatriated to the island in the coming days.
-
-Out of the 56 Sri Lankans who were trapped in cybercrime camps in Myawaddy, eight were rescued by the Myanmar government authorities in early March and sent to the Myawaddy central police station.
-
-This morning (11), Burmese immigration officials handed the group over to the Thai officials across the Thai–Myanmar Friendship Bridge.
-
-According to Ambassador Bandara, the rescued Sri Lankans are in good health and are currently accommodated at the Sri Lankan embassy in Thailand.
-
-...
-
-[Data](articles/6cb68f2c.json)
-
-[Extended Data](ext_articles/6cb68f2c.ext.json)
-
----
-
-### Sri Lanka govt waits for LD approval to establish Chartered Institute for Journalists: Minister
-
-*2024-04-11 15:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-govt-waits-for-ld-approval-to-establish-chartered-institute-for-journalists-minister-158304/) · `en`
-
-ECONOMYNEXT – Sri Lanka government is waiting for the approval from the Legal Draftsman Department to proceed with  Chartered Institute for Journalists, State Media Minister Shantha Bandara said.
-
-The Cabinet has approved the establishment of Chartered Institute for Journalists in 2021, but it has not taken off the ground amid Covid pandemic and an unprecedented economic crisis.
-
-Media Minister Bandula Gunawardena had promised to complete the state-controlled professional media body by last year.
-
-“We have sent it to the Attorney Legal Draftsman Department. The approval is yet to be given,” State Minister Bandara told reporters on Tuesday.
-
-“We hope we get the approval, we will start the Chartered Institute of Journalism as soon as possible.”
-
-Sri Lanka’s move to set up such institute aiming to strengthen the professionalism of journalists comes amid criticism over vast deterioration in terms of moral and cultural values in the country and journalists’ failure to prevent such deterioration.
-
-...
-
-[Data](articles/f53fb07b.json)
-
-[Extended Data](ext_articles/f53fb07b.ext.json)
 
 ---

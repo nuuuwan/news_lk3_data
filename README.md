@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 08:06:32**
+As of **2024-04-12 08:18:25**
 
 ## Newspaper Stats
 
-*Scraped **18,539** Articles*
+*Scraped **18,541** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 163
-bbccomsinhala | 193
+bbccomsinhala | 194
 dbsjeyarajcom | 214
 newsfirstlk | 363
 islandlk | 1,016
@@ -17,7 +17,7 @@ dailyftlk | 1,018
 economynextcom | 1,036
 adalk | 1,554
 tamilmirrorlk | 2,167
-adaderanalk | 2,219
+adaderanalk | 2,220
 virakesarilk | 2,767
 dailymirrorlk | 2,827
 adaderanasinhalalk | 3,002
@@ -26,31 +26,57 @@ adaderanasinhalalk | 3,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,536 (100.0%) of 18,539 articles have been extended.
+18,539 (100.0%) of 18,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### ලංගම දෛනික ආදායම රු මිලියන 25කින් වැඩිවෙයි
+### Russian House in Colombo hosts int’l documentary film festival ‘RT.Doc: Time of Heroes’
+
+*2024-04-12 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98585/russian-house-in-colombo-hosts-intl-documentary-film-festival-rtdoc-time-of-heroes) · `en`
+
+The Russian House in Colombo recently hosted the International Documentary Film Festival ‘RT.Doc: Time of Heroes’, featuring a meeting session with the renowned film director Vyacheslav Guz.
+
+According to the Russian cultural centre, all three presented documentaries were united by an uneasy theme – the dramas in the lives of ordinary people against the backdrop of the confrontation between Russia and Ukraine.
+
+The ‘T.Doc: Time of Heroes’ festival has already covered 16 countries before reaching the people of Sri Lanka.
+
+Among the guests were Russian Ambassador to Sri Lanka Levan Dzhagaryan, accompanied by the diplomatic corps, former Ambassador of Sri Lanka to Russia and General Secretary of the Russia-Sri Lanka Friendship Society Dr. Saman Weerasinghe, Professor of the University of Colombo Tudor Weerasinghe, as well as awarded Sri Lankan filmmakers and actors Boodee Keerthisena, Shyam Fernando, Damayanthi Fonseka, Chamara Janaraj Peiris, Kapila Sooriyaarachchi.
+
+◼️
+
+[Data](articles/ad42ca58.json)
+
+---
+
+### CTB rises to Rs 25 million
 
 *2024-04-12 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195557) · `si`
 
-සිංහල හා දෙමළ අවුරුදු සමය වෙනුවෙන් ක්‍රියාත්මක බස් සේවාව හරහා සිය දෛනික ආදායම රුපියල් මිලියන 25කින් පමණ ඉහළ ගොස් ඇති බව ලංකා ගමනාගමන මණ්ඩලය පවසයි.
+CTB's bus service revenue increased by Rs. 25 million for Sinhala and Tamil New Year, despite passenger complaints about bus shortages. The RDD development authority reported a 10% increase in highway income. Additional trains were added from April 15 to April 15, including daily services from April 10 to April 10.
 
-උත්සව සමයේ ගම්බිම් බලා යන ජනතාව වෙනුවෙන් එම මණ්ඩලය පසුගිය 5 වනදා සිට අතිරේක බස් රථ 200ක් පමණ ධාවනයට එක්කරමින් විශේෂ ගමනාගමන සේවාවක් ආරම්භ කරනු ලැබීය.
+🟩
 
-ඒ හරහා මේ වනවිට සිය දෛනික ආදායම රුපියල් මිලියන 25කින් පමණ ඉහළ ගොස් ඇති බව ලංකා ගමනාගමන මණ්ඩලයේ නියෝජ්‍ය සාමාන්‍යාධිකාරී පණ්ඩුක ස්වර්ණහංස මහතා සඳහන් කළේය.
+The Ceylon Transport Board says that the bus service has increased by Rs. 25 million through the bus service operating for the Sinhala and Tamil New Year.
 
-කෙසේවෙතත් ප්‍රමාණවත් පරිදි දුර ගමන් සේවා බස් රථ නොමැති වීම හේතුවෙන් පිටකොටුව බැස්ටියන් මාවත හා මධ්‍යම බස් නැවතුම්පොළ වෙත පැමිණි තමන් දැඩි අපහසුතාව පත්වු බවට මගීන් චෝදනා කර තිබුණි.
+The board began a special traffic service to run over 200 additional buses on the 5th to the people of the festive period.
 
-ඊට ප්‍රතිචාර දක්වමින් ලංකා ගමනාගමන මණ්ඩලයේ නියෝජ්‍ය සාමාන්‍යාධිකාරී පණ්ඩුක ස්වර්ණහංස මහතා පැවසුවේ ප්‍රමාණවත් පරිදි බස් රථ නොමැති බවට සිදුකරන චෝදනා ප්‍රතික්ෂේප කරන බවය.
+According to the Deputy General Manager of the Ceylon Transport Board (SLTB) stated that his daily income has increased by Rs. 25 million.
 
-මේ අතර ඊයේ දිනය තුළ අධිවේගී මාර්ගවල ආදායම සියයට 10කින් පමණ ඉහළ ගොස් ඇති බව මාර්ග සංවර්ධන අධිකාරිය පැවසීය.
+However, passengers had accused them of severe difficulties due to lack of difficulties and lack of travel buses.
+
+The Deputy General Manager of the Ceylon Transport Board Panduka Swarnasty said he denies the allegations of insufficient buses.
+
+Meanwhile, the RDD development authority said that the income on highways has increased by 10 percent yesterday.
+
+A spokesman said that the proceeds of the highways can be predicted from a significant level of highways until the 15th.
 
 ...
 
 [Data](articles/cf313e73.json)
+
+[Extended Data](ext_articles/cf313e73.ext.json)
 
 ---
 
@@ -76,17 +102,23 @@ Accordingly, a 63-year-old wife of the death and 63-year-old casual affair have 
 
 ---
 
-### தோட்டத் தொழிலாளர்களை ஏமாற்றி பணமோசடியில் ஈடுபட்டவர் கைது
+### Arrested in money laundering
 
 *2024-04-12 07:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180993) · `ta`
 
-ஹட்டன் பிரதேசத்தில் உள்ள பணம் பெறும் ஏ.ரி.எம். இயந்திரங்களில் பணம் பெற்றுக்கொள்ளவரும் தோட்டத் தொழிலாளர்களை ஏமாற்றி அவர்களின் ஏ.ரி.எம். அட்டைகளை பெற்று பணமோசடியில் ஈடுபட்ட நபரொருவர் பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
+A man involved in money laundering in Hatton was arrested, along with workers who received stolen money. The suspect has been active in the area for a while.
 
-அத்தோடு, ஹட்டன் பிரதேசத்தில் மிக நீண்ட காலமாக தோட்டத் தொழிலாளர்களை இலக்காக வைத்து குறித்த சந்தேகநபர் பணமோசடியில் ஈடுபட்டுவருவதாக பொலிஸார் தெரிவித்தனர்.
+🟩
+
+ARMM to receive money in Hatton area. Payment workers who get money in machinery cheated and their ARMM. A man who received the cards has been arrested by the police.
+
+In addition, police said that the suspect is engaged in money laundering in Hatton area for a long time.
 
 ◼️
 
 [Data](articles/08935fa1.json)
+
+[Extended Data](ext_articles/08935fa1.ext.json)
 
 ---
 
@@ -132,19 +164,25 @@ India’s privately owned defence companies demonstrated the capability they hav
 
 ---
 
-### மதுபான நிலையங்களுக்கு பூட்டு !
+### Lock for liquor stations!
 
 *2024-04-12 06:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180996) · `ta`
 
-நாடளாவிய ரீதியிலுள்ள அனைத்து மதுபான நிலையங்களும் ஏப்ரல் 12 மற்றும் 13 ஆம் திகதிகளில் மூடப்படுமென கலால் திணைக்களம் தெரிவித்துள்ளது.
+Liquor stations in the country will close on April 12 and 13, ahead of the Tamil Sinhala New Year. They will reopen from 8 am to 10 pm on other days.
 
-தமிழ் சிங்கள புத்தாண்டு தினத்தை முன்னிட்டே தீர்மானம் எடுக்கப்பட்டுள்ளதாக கலால் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-இருப்பினும், தற்போதைய நேரத் திருத்தத்தின்படி அனைத்து மதுபான நிலையங்களும் ஏனைய நாட்களில் காலை 8 மணிமுதல் இரவு 10 மணி வரை திறக்கப்பட்டிருக்கும் என அத் திணைக்களம் தெரிவித்துள்ளது.
+All liquor stations in the country will be closed on April 12 and 13, the Excise Department said.
+
+The Declaration Department said that the decision has been taken ahead of the Tamil Sinhala New Year.
+
+However, according to the current Amendment, all liquor stations will be opened from 8 am to 10 pm on other days, the Department said.
 
 ◼️
 
 [Data](articles/a636f310.json)
+
+[Extended Data](ext_articles/a636f310.ext.json)
 
 ---
 
@@ -189,6 +227,26 @@ Rare bird species and wild animals at the Horton Plains National Park in the sum
 [Data](articles/d77681da.json)
 
 [Extended Data](ext_articles/d77681da.ext.json)
+
+---
+
+### අලි නිදා සිටින අයුරු ඔබ දැක තිබෙනවා ද?
+
+*2024-04-12 02:13:24* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c136znzn1vvo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, සාමාන්‍යයෙන් ශරීරය ප්‍රමාණයෙන් විශාල ක්ෂීරපායි සතුන්ට වඩා කුඩා ක්ෂීරපායි සතුන්ගේ නිදන කාලය වැඩිය.
+
+අලි ඇතුන් බොහෝ දෙනෙකු දක්නට තිබුණ ද ඔවුන් නිදා සිටින අයුරු දක්නට ලැබෙන්නේ කලාතුරකිනි.
+
+අලි පිළිබඳ පර්යේෂකයෙකු වන මහාචාර්ය පෝල් මැන්ගර් පවසන පරිදි ක්ෂීරපායි සතුන් අතරින් ඉතාමත් කෙටි නින්දක් ලබන සත්ත්වයා අලියා ය.
+
+ස්වාභාවික පරිසරයේ දී අලි ඇතුන්ගේ විවේක කාලය දිනකට පැය දෙකකට පමණ සීමා වේ. නමුත් සත්වෝද්‍යාන තුළ වෙසෙන අලි ඇත්තු දිනකට පැය 4 - 6ක් අතර කාලයක් නින්දේ විවේකීව ගත කරති.
+
+සාමාන්‍යයෙන් ශරීරය ප්‍රමාණයෙන් විශාල ක්ෂීරපායි සතුන්ට වඩා කුඩා ක්ෂීරපායි සතුන්ගේ නිදන කාලය වැඩිය.
+
+◼️
+
+[Data](articles/980cf529.json)
 
 ---
 
@@ -2295,57 +2353,5 @@ He told the media that he was driving his mini- lorry after repairs with another
 [Data](articles/5d965e80.json)
 
 [Extended Data](ext_articles/5d965e80.ext.json)
-
----
-
-### More criminals fall into Tamans 20
-
-*2024-04-11 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195535) · `si`
-
-"Operation Tamans 20, led by 20 police teams, arrested 13 criminals, including 6 from organized crime, in Kalutara and Western Province. The Police Media Division announced the arrests."
-
-🟩
-
-The operation operated by 20 police teams to suppress organized crime.
-
-The Police Media Division announced that six members of the organizational crime and seven suspects have been arrested by the group.
-
-The people have been arrested by the Kalutara, Western Province (South) and the Western Province (North).
-
-◼️
-
-[Data](articles/4b12b153.json)
-
-[Extended Data](ext_articles/4b12b153.ext.json)
-
----
-
-### Weapons found hidden from a house in Maradana
-
-*2024-04-11 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195534) · `si`
-
-In Maradana, three individuals were arrested with a T-56 rifle and 14 live bullets, suspected of hiding weapons to target opposing groups. The suspects, aged 18, 34, and 47, were handed over to the Maradana Police Station for further investigation.
-
-🟩
-
-Three people have been arrested by T-56 rifle with 14 live bullets, including a house with 14 live bullets in Maradana.
-
-Intelligence revealed that the LTTE was hidden in this place to kill members of the opposing groups between two organized criminal gangs.
-
-The officers of the Special Task Force (STF intelligence officers in the Bodhirajarama area in Lock Bodhirajarai) were raided yesterday in parallel to justice.
-
-There are three persons with a T-56 type of automatic firearm, including 14 live bullets, including 14 live bullets, including 14 live bullets in the back of the house.
-
-The suspects are aged 18, 34, 47 years in the Maradana area.
-
-According to intelligence information, the arms were hidden in the area to kill members of the contradictory groups in Maradana LockGatlene and two organized crime clients in Keselwatta area.
-
-The suspects have been handed over to the Maradana Police Station for further investigations.
-
-◼️
-
-[Data](articles/f839db2b.json)
-
-[Extended Data](ext_articles/f839db2b.ext.json)
 
 ---

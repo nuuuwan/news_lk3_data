@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 16:34:12**
+As of **2024-04-12 16:50:44**
 
 ## Newspaper Stats
 
-*Scraped **18,586** Articles*
+*Scraped **18,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,018
 economynextcom | 1,040
 adalk | 1,554
 tamilmirrorlk | 2,170
-adaderanalk | 2,226
+adaderanalk | 2,227
 virakesarilk | 2,774
 dailymirrorlk | 2,841
 adaderanasinhalalk | 3,011
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,011
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,586 (100.0%) of 18,586 articles have been extended.
+18,586 (100.0%) of 18,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### Govt. to distribute Avurudu gifts to children at 336 child development centers
+
+*2024-04-12 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98592/govt-to-distribute-avurudu-gifts-to-children-at-336-child-development-centers) · `en`
+
+The distribution of annual gift parcels to children under the care of 336 child development centers throughout the country, in line with President Ranil Wickremesinghe’s initiative, is scheduled to take place tomorrow (13).
+
+Coordinated by the Office of the President, with support from the Office of the Chief of Defence Staff and Sri Lanka Army, the distribution aims to bring joy to over 10,000 children, the President’s Media Division (PMD) said.
+
+Regardless of their circumstances, these centers across various provinces, including the Central, Eastern, Northern, Sabaragamuwa, Southern, Uva and Western, will ensure that every child feels included and valued, extending a sense of family to them.
+
+The program is sponsored by Ceylon Biscuits Limited (CBL), facilitating the delivery of these much-awaited parcels to children nationwide, the PMD added.
+
+◼️
+
+[Data](articles/a7645e32.json)
+
+---
 
 ### Kovit death after a long day
 
@@ -248,13 +266,17 @@ But instead of the excavation license, he was referred to the request for excava
 
 *2024-04-12 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98591/advisory-issued-for-evening-thundershowers-and-severe-lightning) · `en`
 
-The Department of Meteorology, issuing a weather alert, has said that thundershowers and severe lightning are expected in parts of the island in the coming hours.
+The Department of Meteorology, issuing a weather advisory, has said that thundershowers and severe lightning are expected in parts of the island through the remainder of the day.
 
 Accordingly, thundershowers accompanied by severe lightning are likely to occur at several places in Western, Southern, Sabaragamuwa, Northern and North-western provinces and Monaragala District.
 
+The department is also forecasting temporary localized strong winds during thundershowers.
+
 Members of the public are advised to take adequate precautions to minimize damages caused by lightning activity.
 
-◼️
+The advisory states that the risk level is “High” in the aforementioned areas and urges the public to avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms.
+
+...
 
 [Data](articles/09fdc2d1.json)
 
@@ -2311,27 +2333,5 @@ Thus met the governor today. The governor said he was investigating his problems
 [Data](articles/3d3735a4.json)
 
 [Extended Data](ext_articles/3d3735a4.ext.json)
-
----
-
-### Sri Lankans rescued from cyber slave camp in Myanmar transferred to Embassy
-
-*2024-04-11 16:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankans-rescued-from-cyber-slave-camp-in-Myanmar-transferred-to-Embassy/108-280629) · `en`
-
-Eight Sri Lankans who were recently rescued from an illegal cyber slave camp in Myanmar, have been transferred to the care of the Sri Lankan Embassy in Thailand.
-
-The group, victims of a human trafficking ring, is slated for repatriation to Sri Lanka in the coming days, as confirmed by Sri Lanka's Ambassador to Myanmar, Janaka Bandara.
-
-This development follows the rescue operation conducted in March this year, where eight Sri Lankans were among a group of 56 individuals rescued with the cooperation of Myanmar authorities.
-
-Subsequently, the group, consisting of six males and two females, was placed under the custody of the Myawaddy Police in Myanmar.
-
-Upon their rescue, efforts spearheaded by the Sri Lankan Mission, the Ministry of Foreign Affairs, and other pertinent authorities have continued to facilitate the safe return of the rescued Sri Lankans.
-
-◼️
-
-[Data](articles/7f660f95.json)
-
-[Extended Data](ext_articles/7f660f95.ext.json)
 
 ---

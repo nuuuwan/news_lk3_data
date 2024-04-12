@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 19:51:18**
+As of **2024-04-12 20:03:31**
 
 ## Newspaper Stats
 
-*Scraped **18,608** Articles*
+*Scraped **18,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,040
 adalk | 1,554
-tamilmirrorlk | 2,171
-adaderanalk | 2,231
+tamilmirrorlk | 2,172
+adaderanalk | 2,232
 virakesarilk | 2,777
-dailymirrorlk | 2,847
+dailymirrorlk | 2,848
 adaderanasinhalalk | 3,016
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,608 (100.0%) of 18,608 articles have been extended.
+18,608 (100.0%) of 18,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### Gift parcels to children at 336 child development centres tomorrow
+
+*2024-04-12 19:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gift-parcels-to-children-at-336-child-development-centres-tomorrow/108-280655) · `en`
+
+The distribution of annual gift parcels to children under the care of 336 child development centres throughout the country will be made tomorrow, the President's Media Division (PMD) said.
+
+The gift parcels are distributed in line with President Ranil Wickremesinghe's initiative, which will take place across the island.
+
+Coordinated by the Office of the President, with support from the Office of the Chief of Defence Staff and the Sri Lanka Army, the distribution aims to bring joy to over 10,000 children, alongside the President's New Year message.
+
+Regardless of their circumstances, these centres across various provinces, including the Central, Eastern, Northern, Sabaragamuwa, Southern, Uva and Western, will ensure that every child feels included and valued, extending a sense of family to them.
+
+CBL sponsors this programme facilitating the delivery of these much-awaited parcels to children nationwide.
+
+◼️
+
+[Data](articles/8e5be50d.json)
+
+---
+
+### சட்டத்தரணி நுவான் டி சில்வா  நியமனம்
+
+*2024-04-12 19:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தரணி-நுவான்-டி-சில்வா-நியமனம்/175-335876) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் கொழும்பு மாவட்ட அமைப்பாளராக அண்மையில் நியமனம் செய்யப்பட்ட சட்டத்தரணி நுவான் டி சில்வாவிற்கு வாழ்த்துக்களை தெரிவிக்க இன்றைய, தினம் (12) பொது மக்கள் அவரது கொழும்பு பம்பலப்பிட்டியில் அமைந்துள்ள வாசஸ்தலத்தில் ஒன்று கூடினர்.
+
+இக் கூட்டத்தில் கலந்து கொண்டு கருத்து தெரிவித்த சட்டத்தரணி நுவான் டி சில்வா...
+
+"பொது மக்கள் நாட்டில் ஒரு மாற்றத்திற்காக ஆர்வமாக உள்ளனர், மேலும் எதிர்வரும் ஜனாதிபதித் தேர்தலில் கௌரவ சஜித் பிரேமதாச அவர்கள் நாட்டின் ஜனாதிபதியாக வருவார் என்றும் வெற்றி உறுதிசெய்யப்படும் என்றும் எதிர்பார்க்கின்றனர்."  என  தெரிவித்தார்.
+
+"ஜே.வி.பி தலைமையிலான தேசிய மக்கள் முன்னணியினர் தற்போது மேற்கொண்டு வரும்  தவறான தகவல்களை நம்ப வேண்டாம், நாட்டில் தற்போது நிலவும் நிலைமை குறித்து விழிப்புடன் இருந்து சரியான போக்கை ஆதரிக்குமாறு பொதுமக்களை கேட்டுக்கொள்கின்றேன்" என்றார்.
+
+இதனை தொடர்ந்து, நாட்டில் நிலவும் பொருளாதார நெருக்கடியைக் கருத்தில் கொண்டு நூற்றுக்கணக்கான அரிசிப் பொதிகளையும் கூட்டத்தில் கலந்துகொண்டவர்களுக்கு சட்டத்தரணி நுவான் டி சில்வா வழங்கி வைத்தமை குறிப்பிடத்தக்கது...
+
+...
+
+[Data](articles/997a0d88.json)
+
+---
+
+### SLPP to take disciplinary action against G.L. Peiris
+
+*2024-04-12 19:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98597/slpp-to-take-disciplinary-action-against-gl-peiris) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) has decided to take disciplinary action against MP Prof. G. L. Peiris, the party’s general secretary Sagara Kariyawasam said.
+
+According to him, the decision was reached by the executive committee of SLPP after taking into account the fact that he entered into an electoral pact with the Samagi Jana Balawegaya (SJB).
+
+Earlier this month, a group of six dissident SLPP parliamentarians, who are now members of the Freedom People’s Congress (Nidahasa Janatha Sabhawa), signed a Memorandum of Understanding (MoU) with the SJB.
+
+The agreement was inked between the main opposition and six MPs of Nidahasa Janatha Sabhawa including Prof. G.L. Peiris, Dilan Perera, Dr. Nalaka Godahewa, K.P. Kumarasiri, Dr. Upul Galappaththi and Wasantha Yapa Bandara, to form the SJB-led new alliance, ‘Samagi Jana Sandhanaya’.
+
+...
+
+[Data](articles/6a181df9.json)
+
+---
 
 ### 13 arrested for excavating treasure
 
@@ -2221,85 +2279,5 @@ Reflecting on his achievement, Malagamuwa expressed gratitude to his supporters 
 [Data](articles/8c912a36.json)
 
 [Extended Data](ext_articles/8c912a36.ext.json)
-
----
-
-### 8 Sri Lankans rescued in Myanmar will soon be returned to Sri Lanka - Ministry of External Affairs
-
-*2024-04-11 20:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181002) · `ta`
-
-Eight Sri Lankans rescued in Myanmar are being returned to Sri Lanka, with the Ministry of External Affairs coordinating with Thailand and Myanmar.
-
-🟩
-
-The Ministry of External Affairs said that eight Sri Lankans rescued from Myanmar's Miyawadi area were taken over by the Sri Lankan embassy officials in Bangkok on Thursday (11) and that they would soon be returned to Sri Lanka.
-
-“Sri Lankans rescued by Myanmar on March 4 from Myanmar's Miyavadi area were rescued under the protection of the authorities.. They were subsequently taken to Thailand's Miosot and handed over to the Thailand Emigration Officers. They are currently under the protection of the Sri Lankan embassy in Bangkok, ”the Foreign Ministry explained.
-
-At the same time, Foreign Minister Ali Sabri has discussed with Myanmar and Thailand's Foreign Ministers on the bringing of Sri Lankans rescued by Myanmar officials to Sri Lanka.
-
-The Sri Lankan embassies in Bangkok and Yangon are said to be ready to return the Sri Lankans who have been rescued with the Sri Lankan Foreign Ministry with the Sri Lankan Foreign Ministry.
-
-◼️
-
-[Data](articles/bead67b0.json)
-
-[Extended Data](ext_articles/bead67b0.ext.json)
-
----
-
-### Thihagoda police acquisition to Matara hotel
-
-*2024-04-11 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195551) · `si`
-
-Thihagoda police arrested hotel owner and his mother for running an illegal drug racket. The hotel owner's mother was also charged with heroin possession. The police found 3.5 grams of heroin and 700 grams of illegal drinks. The owner alleges influence from a senior officer. The hotel owner and his mother were recently produced in court, with the mother remanded until the 22nd.
-
-🟩
-
-The owner of the Hotel said that the officials of the Thihagoda police station was arrested by the owner and his mother in Matara in Thihagoda, Matara.
-
-Thihagoda police station was present at the Hotel in Thihagoda, Matara.
-
-Accused that an illegal drug racket was carried out in the hotel.
-
-The hotel's mother's mother was warm.
-
-The hotel owner's mother of the hotel's mother was also arrested by illegal production and charges of heroin and the owner owner of the hotel was also taken into custody.
-
-Thihagoda Police said that he was taken into custody by three and a half of heroin and 700 grams of heroin in possession of illegal drinks and the hotel owner's mother in the area.
-
-However, the owner of the hotel has been accused of the influence of a senior officer of the Matara Senior Superintendent of Police.
-
-When contacted, Thihagoda police station has been temporarily closed and there are several drug cases against the mother of the hotel owner before.
-
-...
-
-[Data](articles/692a5382.json)
-
-[Extended Data](ext_articles/692a5382.ext.json)
-
----
-
-### Three businessmen nabbed with illegally imported goods at BIA
-
-*2024-04-11 20:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-businessmen-nabbed-with-illegally-imported-goods-at-BIA/108-280632) · `en`
-
-Three businessmen who attempted to smuggle a stock of goods worth more than Rs. 200 million into the country were arrested this evening by a group of investigation officers attached to the Sri Lanka Customs at the Bandaranaike International Airport (BIA).
-
-The Customs investigations revealed that the goods were imported into the country illegally without paying Customs duty.
-
-Among the goods were foreign-made whiskey, cigarettes, apple varieties, smart mobile phones, wristwatches, Apple Mac books, Apple iPads and many other electrical items were found by the Customs officers.
-
-These goods were imported to addresses in the Minuwangoda, Maskeliya and Colombo 13 areas.
-
-The arrest was made by a group of Airport Criminal Investigation Department officers who were engaged in surveillance duties in the area outside the airport.
-
-The seized goods and the arrested businessmen have been handed over to the airport Customs officials for further investigations.
-
-◼️
-
-[Data](articles/ec63e044.json)
-
-[Extended Data](ext_articles/ec63e044.ext.json)
 
 ---

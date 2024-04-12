@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 08:52:09**
+As of **2024-04-12 09:03:17**
 
 ## Newspaper Stats
 
-*Scraped **18,544** Articles*
+*Scraped **18,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,81 @@ economynextcom | 1,036
 adalk | 1,554
 tamilmirrorlk | 2,167
 adaderanalk | 2,220
-virakesarilk | 2,767
-dailymirrorlk | 2,829
+virakesarilk | 2,768
+dailymirrorlk | 2,831
 adaderanasinhalalk | 3,003
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,542 (100.0%) of 18,544 articles have been extended.
+18,544 (100.0%) of 18,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### Taylor Swift’s music back on TikTok after dispute
+
+*2024-04-12 08:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Taylor-Swifts-music-back-on-TikTok-after-dispute/108-280638) · `en`
+
+April 12 (BBC) - Taylor Swift's songs are back on TikTok following a dispute that led her label to stop licensing its content to the app.
+
+Her music's return on Thursday comes ahead of the release of her new album, The Tortured Poets Department.
+
+Universal Music pulled songs by its artists in January, including Rihanna and Ariana Grande, citing a licensing dispute.
+
+While many of her songs - including You Belong With Me and Cruel Summer - are again available for users to add to their videos, music belonging to Universal's other artists has still not been relisted.
+
+That may be because unlike other artists, Swift owns the copyright to her music under the terms of a 2018 deal with Universal. Some reports speculated Swift reached a separate deal with TikTok.
+
+"Swifties" - Taylor Swift fans - took to the platform to share their delight at her music returning.
+
+"OMG this made my whole year," wrote verified user Jessica Golich, adding that users would "have the whole new album to play with".
+
+...
+
+[Data](articles/64c5a7c3.json)
+
+---
+
+### Vietnamese billionaire sentenced to death for $44bn fraud
+
+*2024-04-12 08:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vietnamese-billionaire-sentenced-to-death-for-44bn-fraud/108-280639) · `en`
+
+Vietnam, April 12 (BBC) - Behind the stately yellow portico of the colonial-era courthouse in Ho Chi Minh City, a 67-year-old Vietnamese property developer was sentenced to death on Thursday for looting one of the country's largest banks over a period of 11 years.
+
+It's a rare verdict - she is one of very few women in Vietnam to be sentenced to death for a white collar crime.
+
+The decision is a reflection of the dizzying scale of the fraud. Truong My Lan was convicted of taking out $44bn (£35bn) in loans from the Saigon Commercial Bank. The verdict requires her to return $27bn, a sum prosecutors said may never be recovered. Some believe the death penalty is the court's way of trying to encourage her to return some of the missing billions.
+
+The habitually secretive communist authorities were uncharacteristically forthright about this case, going into minute detail for the media. They said 2,700 people were summoned to testify, while 10 state prosecutors and around 200 lawyers were involved.
+
+...
+
+[Data](articles/ad13eff1.json)
+
+---
+
+### இஸ்ரேல் மீது ஈரான் தாக்குதலை மேற்கொள்ளலாம் என்ற அச்சம் அதிகரிக்கின்றது – தடுத்து நிறுத்த அமெரிக்கா தீவிர முயற்சி
+
+*2024-04-12 08:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/181017) · `ta`
+
+இஸ்ரேலின் பாதுகாப்பு குறித்த உத்தரவாதங்களை வழங்கிவரும் அதேவேளை அமெரிக்கா ஈரான் பதில் தாக்குதலை மேற்கொள்வதை தடுப்பதற்கான தீவிரமான முயற்சிகளில் ஈடுபட்டுள்ளது என வோசிங்டனில் அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+அதேவேளை மத்தியகிழக்கில் பாரிய போர்வெடிப்பதை   தடுப்பதற்கான முயற்சிகளிலும் அமெரிக்கா ஈடுபட்டுள்ளது என அவர்கள் தெரிவித்துள்ளனர்.
+
+அடுத்த சில நாட்களில் இஸ்ரேலிற்கு எதிராக ஈரான் ஆளில்லா விமான தாக்குதலை அல்லதுஏவுகணை தாக்குதலை மேற்கொள்ளவுள்ளதாக உறுதியாக  அமெரிக்க அதிகாரிகள் கருதுகின்றனர்
+
+சிரியதலைநகரில் உள்ள தனது துணைதூதரகத்தின் மீது இஸ்ரேல்  ஏப்பிரல் முதலாம் திகதி மேற்கொண்ட  தாக்குதலிற்கு பதிலடியாக ஈரான் இந்த தாக்குதலை மேற்கொள்ளவுள்ளதாக அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+ஈரான் தாக்குதலை மேற்கொண்டால் அமெரிக்க ஆயுதங்களை பயன்படுத்தி பதில் தாக்குதலை மேற்கொள்ளவுள்ளதாக இஸ்ரேல் கோடிட்டுக்காட்டியுள்ளது.
+
+...
+
+[Data](articles/7b81e889.json)
+
+---
 
 ### Indigo launches Mumbai-Colombo direct flights today
 
@@ -47,6 +109,8 @@ With the new addition, Indigo will operate 30 weekly flights to Colombo from fou
 ...
 
 [Data](articles/1f32370e.json)
+
+[Extended Data](ext_articles/1f32370e.ext.json)
 
 ---
 
@@ -249,6 +313,8 @@ Meanwhile, the Sri Lanka Transport Board (SLTB) said that sufficient buses were 
 ...
 
 [Data](articles/4bae7209.json)
+
+[Extended Data](ext_articles/4bae7209.ext.json)
 
 ---
 
@@ -2285,89 +2351,5 @@ It is noteworthy that this has been called for an investigation into the fund ra
 [Data](articles/0fe767bf.json)
 
 [Extended Data](ext_articles/0fe767bf.ext.json)
-
----
-
-### Father of 3 children fell down
-
-*2024-04-11 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/180955) · `ta`
-
-A young father of three, Selvarasa Ketheeswaran, tragically died in Kaithadi after a palm tree fell on him. The incident occurred on his way to Chavakachcheri Hospital.
-
-🟩
-
-A tragic death of a young father of three children has been tragically killed in Kaithadi area on Tuesday.
-
-The man who died on the way to the Chavakachcheri Hospital has died as the palm tree fell into the palm tree to cut down the foam.
-
-Selvarasa Ketheeswaran, the father of three children from Kaithadi area, died in the incident.
-
-The body has been handed over to relatives after the autopsy. Chavakachcheri police are conducting further investigations
-
-◼️
-
-[Data](articles/011b9eac.json)
-
-[Extended Data](ext_articles/011b9eac.ext.json)
-
----
-
-### Colombo passenger queues long
-
-*2024-04-11 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195537) · `si`
-
-Special New Year's public transport services in Colombo have been overwhelmed, leading to long queues and congestion. The National Transport Board has deployed 1,400 buses but acknowledges the need for more. Passengers from Bastion Mawatha and Central Bus Stand faced difficulties, and Makumbura Multiple Transport Center was crowded despite operating as highway buses.
-
-🟩
-
-Special public transport services have been operating for the New Year's people to facilitate the benefit of the Gamma.
-
-But this morning, the people are in great difficulty without getting the transport facilities.
-
-The National Transport Board (NTC) has said that 1,400 buses have been deployed and the need to meet more buses on the need.
-
-However, passengers from the Bastion Mawatha and Central Bus Stand, however last night, had difficulty lack difficult timely.
-
-As a result, the people had to stay in the long queues and a large congestion at the bus stand was also created.
-
-Meanwhile, a large number of people were found at the Makumbura Multiple Transport Center, even though they had to operate as highways buses.
-
-The Fort Railway Station was also present at the time of the year.
-
-◼️
-
-[Data](articles/47e48815.json)
-
-[Extended Data](ext_articles/47e48815.ext.json)
-
----
-
-### 2,400 foreigners over visa in Sri Lanka
-
-*2024-04-11 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195536) · `si`
-
-Over 2,400 foreigners exceeded their visas in Sri Lanka, with significant numbers from Russia, Ukraine, and Israel, especially in Weligama. Local traders warn of potential issues if unresolved. The SLFP plans to discuss the Southern Province's situation this week, aiming for quick police intervention.
-
-🟩
-
-The Department of Immigration and Emigration says that a large number of foreigners exceeded 2,400 visa during the visa.
-
-They answered a question referred to a question referred to as a statement made by the Committee on Public Accounts in Parliament in the tourism industry.
-
-Minister of Tourism Diyan Gamage said that he said that there were many Russian and Ukrainians in Weligama.
-
-The State Minister further stated that the local traders warned that if no solution could be a profound condition.
-
-Meanwhile, Mrs. Diyanayana Gamage, said that the Israeli nationals were also in the Southern Province.
-
-Commenting in comments, Director General of Immigration and Emigration and Emigration and Emigration Emigration.
-
-He said that the SLFP is due to discuss the issue of the Southern Province this week and is expected to respond quickly on the intervention of the police.
-
-◼️
-
-[Data](articles/c8bfd6b2.json)
-
-[Extended Data](ext_articles/c8bfd6b2.ext.json)
 
 ---

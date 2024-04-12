@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 17:54:09**
+As of **2024-04-12 18:09:57**
 
 ## Newspaper Stats
 
-*Scraped **18,595** Articles*
+*Scraped **18,599** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,85 @@ economynextcom | 1,040
 adalk | 1,554
 tamilmirrorlk | 2,170
 adaderanalk | 2,227
-virakesarilk | 2,775
-dailymirrorlk | 2,843
+virakesarilk | 2,776
+dailymirrorlk | 2,846
 adaderanasinhalalk | 3,014
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,593 (100.0%) of 18,595 articles have been extended.
+18,595 (100.0%) of 18,599 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### කිලෝ 200කට ආසන්න මත්ද්‍රව්‍ය තොගයක් නාවික හමුදා භාරයට
+### இலங்கையின் தெற்கே ஆழ்கடலில் 200 கிலோ போதைப்பொருள் சிக்கியது!
+
+*2024-04-12 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181032) · `ta`
+
+ஹெரோயின் அல்லது ஐஸ் போதைப்பொருள் என சந்தேகிக்கப்படும் 200 கிலோ போதைப்பொருளுடன் இரண்டு மீன்பிடிப் படகுகள் இலங்கையின் தெற்கு ஆழ்கடல் பகுதியில் கடற்படையினரால் கைப்பற்றப்பட்டுள்ளன.
+
+இரண்டு படகுகளிலும் காணப்பட்ட 10 இலங்கை மீனவர்களும் கைது செய்யப்பட்டதாக கடற்படைப் பேச்சாளர் கயான் விக்ரமசூரிய தெரிவித்தார்.
+
+◼️
+
+[Data](articles/33851e09.json)
+
+---
+
+### 10 suspects arrested with 200 kgs of heroin in SL waters
+
+*2024-04-12 17:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/10-suspects-arrested-with-200-kgs-of-heroin-in-SL-waters/108-280654) · `en`
+
+Colombo,  April 12 (Daily Mirror) - Two Sri Lankan multi-day fishing vessels carrying a stock of 200 kgs of drugs suspected to be heroin and ice were seized by the Navy on the deep sea.
+
+In a special operation carried out by the Sri Lanka Navy in the Southern seas, 10 suspects have been arrested along with 02 multi-day fishing boats carrying the stock of drugs.
+
+The Navy said the suspects and their stock of narcotics are being brought to the port.
+
+◼️
+
+[Data](articles/38cd642d.json)
+
+---
+
+### Navy bears withdrawn drugs nearly 200 kilograms
 
 *2024-04-12 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195571) · `si`
 
-හෙරොයින් හෝ අයිස් මත්ද්‍රව්‍ය බවට සැකකෙරෙන මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 200කට ආසන්න තොගයක් සමඟ බහුදින ධීවර යාත්‍රා 02ක් ශ්‍රී ලංකාවට දකුණු දෙසින් වූ ගැඹුරු මුහුදේදී නාවික හමුදාව මඟින් සිය භාරයට ගෙන තිබේ.
+Navy seizes nearly 200 kg drugs from two fishing vessels in Sri Lanka, arresting 10 fishermen.
 
-නාවික හමුදා මාධ්‍ය ප්‍රකාශක කපිතාන් ගයාන් වික්‍රමසූරිය මහතා පැවසුවේ, එම යාත්‍රා දෙකේ සිටි ශ්‍රී ලාංකික ධීවරයින් 10 දෙනෙකුද අත්අඩංගුවට ගත් බවය.
+🟩
+
+Two multi-day fishing vessels suspected to be drugs of heroin or ice have been taken into custody by the Navy in deep sea Sri Lanka.
+
+Navy Spokesperson Capithan Gayan Wickremasturiya said that 10 Sri Lankan fishermen were arrested in the two vessels.
 
 ◼️
 
 [Data](articles/8ec8aea7.json)
+
+[Extended Data](ext_articles/8ec8aea7.ext.json)
+
+---
+
+### Two COVID-19 deaths reported from Kurunegala Teaching Hospital?
+
+*2024-04-12 17:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-COVID-19-deaths-reported-from-Kurunegala-Teaching-Hospital/108-280653) · `en`
+
+Colombo, April 12 (Daily Mirror) - Recent PCR tests conducted on two female patients who had passed away during treatment at the Kurunegala Teaching Hospital have confirmed to be Covid-19.
+
+According to sources, it is not yet conclusive that the deaths can be directly linked to Covid-19. The deaths had occurred yesterday (11).
+
+However, authorities have mandated quarantine measures for both patients and staff members from the ward where the individual was receiving treatment.
+
+There have been a couple of deaths last year where the patients had tested positive for Coronavirus following their deaths.
+
+◼️
+
+[Data](articles/01403b12.json)
 
 ---
 
@@ -157,6 +211,26 @@ The program is sponsored by Ceylon Biscuits Limited (CBL), facilitating the deli
 [Data](articles/a7645e32.json)
 
 [Extended Data](ext_articles/a7645e32.ext.json)
+
+---
+
+### South Korean singer Park Bo-ram passes away at 30
+
+*2024-04-12 16:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/South-Korean-singer-Park-Bo-ram-passes-away-at-30/108-280652) · `en`
+
+Singer Park Bo-ram died on Thursday, according to her management agency, Friday.
+
+According to XANADU Entertainment, "Park Boram has passed away suddenly on April 11. We are deeply saddened to pass along the news and express condolences to her family members."
+
+According to local news reports quoting local police, she was drinking with her friends on Thursday at a bar in Namyangju, Gyeonggi Province, and was found unconscious in a bar bathroom at 9:55 p.m. She was transported to Hanyang University Guri Hospital and was confirmed dead at 11:17 p.m.
+
+Police reportedly plan to request an autopsy to investigate the exact cause of her death.
+
+Park made her musical debut through season 2 of the TV audition program "Super Star K" in 2010, in which she made it to the final 11 contestants. She officially debuted in 2014 with the song "Beautiful," and has had an active singing career. Last month, she released a new song titled "I Miss You Already."
+
+◼️
+
+[Data](articles/2176bdaf.json)
 
 ---
 
@@ -2231,97 +2305,5 @@ Police say that when he caught a tree of the tree, he had fallen from the tree t
 [Data](articles/0c14e9e9.json)
 
 [Extended Data](ext_articles/0c14e9e9.ext.json)
-
----
-
-### Three arrested at BIA attempting to smuggle goods worth over Rs. 10m
-
-*2024-04-11 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98578/three-arrested-at-bia-attempting-to-smuggle-goods-worth-over-rs-10m) · `en`
-
-Three Sri Lankan passengers have been arrested by the CID at the Bandaranaike International Airport (BIA) in Katunayake while trying to smuggle foreign liquor, cigarettes, laptops, mobile phones and other accessories worth over Rs. 10 million, into the country.
-
-The three passengers, two of them arriving from Dubai and the other from Bangalore, were arrested on charges of attempting to bring in a consignment of goods without paying duty and without declaring to customs.
-
-A total of 111 bottles of foreign liquor, a stock of foreign cigarettes and several laptop devices and mobile phones including iPhones and iPods were found in their possession.
-
-The suspects are Sri Lankan nationals and are residents of Colombo 13 and Maskeliya areas.
-
-◼️
-
-[Data](articles/fedcab0b.json)
-
-[Extended Data](ext_articles/fedcab0b.ext.json)
-
----
-
-### Sri Lanka Group Announced for Women's T20 World Cup Qualification Round
-
-*2024-04-11 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/180999) · `ta`
-
-Sri Lanka's women's cricket team, including 15-year-old Sashini Kimhani, is preparing for the ICC Women's T20 World Cup Qualification Round in Abu Dhabi. They will face South Africa in a two-match series and compete in the A group with Thailand, Scotland, Uganda, and Iceland America. The top two teams from each group advance to the semi-finals, with the winners qualifying for the main round.
-
-🟩
-
-The Sri Lanka Cricket Select Committee has named the Sri Lanka Women's Cricket Group with a 15 -year -old Sri Lanka Women's Cricket Group in view of the ICC Women's R20 World Cup World Eligibility Tournament in Abu Dhabi this month.
-
-Sashini Kimhani, a 15 -year -old Sashini Kimhani, has been recruited as an debutant in the Sri Lankan group, which is participating in a two -limited over -cricket match in South Africa.
-
-Sasani Kimhani has been given the opportunity to bowl effectively in the two -year -old women under the age of 19 in Hambantota and Galle.
-
-The Sri Lankan women's team will face the qualifying round with a history suit in the women's T20 cricket series against South Africa.
-
-Inka Ranawira, Sukandika Kumari, Harshita Samarawickrama. 15 heroes including Hassini Perera, Nilakshi de Silva and Udayshika Prabodani have been named.
-
-...
-
-[Data](articles/a098fd9d.json)
-
-[Extended Data](ext_articles/a098fd9d.ext.json)
-
----
-
-### Pre -school mandatory: law also comes
-
-*2024-04-11 17:25:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்பள்ளி-கட்டாயம்-சட்டமும்-வருகிறது/175-335852) · `ta`
-
-"Professor Gunapala Nanayakkara announced that all children must attend pre-school by age four, starting in 2026, as part of an education renovation effort."
-
-🟩
-
-Professor Gunapala Nanayakkara, a panel of experts on education renovation, said that all children under the age of four will be made compulsory.
-
-Accordingly, the pre -school will be made compulsory at the age of four before the first year of the school since 2026.
-
-◼️
-
-[Data](articles/e85aae30.json)
-
-[Extended Data](ext_articles/e85aae30.ext.json)
-
----
-
-### Many Illegal items have been brought to Katunayake
-
-*2024-04-11 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195548) · `si`
-
-Katunayake Airport Criminal Investigations arrested two Indians and a Dubai passenger for smuggling illegal items, including 111 bottles of foreign liquor, cigarettes, and computer accessories, refusing to pay tariffs.
-
-🟩
-
-Two passengers from India and a vehicle passenger from Dubai have been arrested today (11).
-
-It is in connection with a case that refuses to pay the tariffs without paying the Customs.
-
-The raid was raided by the Katunayake Airport Criminal Investigations.
-
-111 foreign liquor bottles, a stock of cigarettes, found a large number of computer accessories.
-
-The suspects are Sri Lankans and are residents of Colombo 13 and Maskeliya areas.
-
-◼️
-
-[Data](articles/a8d116a9.json)
-
-[Extended Data](ext_articles/a8d116a9.ext.json)
 
 ---

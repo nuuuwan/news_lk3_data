@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 05:38:10**
+As of **2024-04-12 05:57:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,528 (100.0%) of 18,529 articles have been extended.
+18,529 (100.0%) of 18,529 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,17 +54,23 @@ Heat stroke is a state of urgent medical treatment. It is an urgent state of inc
 
 ---
 
-### தீபச்செல்வனிடம் ரி.ஐ.டி. விசாரணை
+### RIT to Deepachelvan. Trial
 
 *2024-04-12 01:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீபச்செல்வனிடம்-ரி-ஐ-டி-விசாரணை/175-335872) · `ta`
 
-புத்தக வெளியீட்டு நிகழ்வு ஒன்றை ஏற்பாடு செய்தமைக்காகத் தமிழ்த் தேசிய கலை இலக்கியப் பேரவையின் தலைவரான தீபச்செல்வனிடம் இவ்வாறு விசாரணை மேற்கொள்ளப்பட்டுள்ளது.
+Deepachelvan, president of the Tamil National Art Literary Council, conducted an investigation into the book launch event for Naochendranathan's 'Swimming Pasturukku'.
 
-எழுத்தாளர் நா.யோகேந்திரநாதனின் '34 நாட்களில் நீந்திக் கடந்த நெருப்பாறு' என்ற புத்தகம் எழுத்தாளர் தீபச்செல்வன் தலைமையில் அண்மையில் வெளியிட்டு வைக்கப்பட்டது. இந்தப் புத்தக வெளியீடு தொடர்பாக நேற்று விசாரணை இடம்பெற்றது என்று தீபச்செல்வன் தெரிவித்துள்ளார். (a)
+🟩
+
+The investigation was carried out by Deepachelvan, president of the Tamil National Art Literary Council for organizing a book launch event.
+
+Writer Naochendranathan's book 'Swimming Pasturukku' was recently published under the leadership of writer Deepachelvan.. Deepachelvan said the investigation was held yesterday regarding the publication of the book. (A)
 
 ◼️
 
 [Data](articles/373efef5.json)
+
+[Extended Data](ext_articles/373efef5.ext.json)
 
 ---
 

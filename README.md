@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 21:52:47**
+As of **2024-04-12 22:03:52**
 
 ## Newspaper Stats
 
@@ -488,9 +488,11 @@ The Navy said the suspects and their stock of narcotics are being brought to the
 
 Sri Lanka Navy has intercepted two multi-day fishing trawlers carrying around 200kg of suspected heroin and crystal methamphetamine (‘Ice’) off the southern coast of the island.
 
-Ten crew members who were on board the vessels were also taken into account.
+Ten crew members who were on board the vessels were also taken into custody.
 
 They are now being escorted to the Galle Harbour and will be handed over to the respective authorities for onward investigations, the navy spokesperson added.
+
+Following a special operation mounted by the Navy, 02 local multiday fishing trawlers with about 200kg of narcotics, suspected to be heroin and crystal methamphetamine, have been intercepted on southern high seas. The 02 trawlers and 10 suspects aboard are being escorted ashore for onward legal action, the navy said.
 
 ◼️
 

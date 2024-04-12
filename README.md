@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 19:18:43**
+As of **2024-04-12 19:33:56**
 
 ## Newspaper Stats
 
-*Scraped **18,607** Articles*
+*Scraped **18,608** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,040
 adalk | 1,554
-tamilmirrorlk | 2,170
+tamilmirrorlk | 2,171
 adaderanalk | 2,231
 virakesarilk | 2,777
 dailymirrorlk | 2,847
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,016
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,606 (100.0%) of 18,607 articles have been extended.
+18,607 (100.0%) of 18,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### புதையல் தோண்டிய 13 பேர் கைது
+
+*2024-04-12 19:20:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/புதையல்-தோண்டிய-13-பேர்-கைது/75-335875) · `ta`
+
+திருகோணமலை மொரவெவ பொலிஸ் பிரிவிற்குட்பட்ட பகுதியில் புதையல் தோண்டிய குற்றச்சாட்டின் பேரில் 13 பேரை  சந்தேகத்தின் பேரில் வியாழக்கிழமை (11)  கைது செய்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மொரவெவ பொலிஸ் நிலையத்திற்கு கிடைக்கப் பெற்ற தகவலுக்கு அமைவாக குறித்த சந்தேக நபர்களை கைது செய்துள்ளதாகவும்  பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட குறித்த சந்தேக நபர்கள் ரத்னபுர,   கேகாலை மற்றும் தெவனிபியவர பகுதிகளில் வசித்து வரும் 21 வயதுக்கும் 52 வயதுக்கும் இடைப்பட்டவர்கள் எனவும் தெரியவந்துள்ளது.
+
+கைது செய்யப்பட்ட  13 பேரில் நான்கு பேர் மொரவெவ பொலிஸ் பிரிவில் வசித்து வருபவர்கள் எனவும் பெண்ணொருவர் அடங்குவதாகவும், whatsapp ஊடாக புதையல் தொடர்பில் புகைப்படங்கள் பரிமாரப்பட்டமை தெரிய வந்துள்ளதாகவும் குறித்த வேனில் பயணித்தமை தொடர்பில் விசாரணை முன்னெடுத்து வருவதாகவும் மொரவெவ தெரிவித்தனர்.
+
+அத்துடன் கைது செய்யப்பட்ட சந்தேக நபர்கள் தொடர்பில் தனித்தனியாக விசாரணைகள் முன்னெடுக்கப்பட்டு வருவதாகவும் விசாரணைகளின் பின்னர் திருகோணமலை நீதிமன்ற நீதிவான் முன்னிலையில் ஆஜர் படுத்த நடவடிக்கை எடுத்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/0bfeab81.json)
+
+---
 
 ### India to remain Sri Lanka’s most reliable friend; offers modern defence equipment
 
@@ -47,6 +67,8 @@ The various advanced platforms and equipment developed indigenously in India can
 ...
 
 [Data](articles/6ff5bedf.json)
+
+[Extended Data](ext_articles/6ff5bedf.ext.json)
 
 ---
 
@@ -2273,31 +2295,5 @@ The seized goods and the arrested businessmen have been handed over to the airpo
 [Data](articles/ec63e044.json)
 
 [Extended Data](ext_articles/ec63e044.ext.json)
-
----
-
-### At least 17 pilgrims killed, dozens injured in bus crash in Pakistan
-
-*2024-04-11 19:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98579/at-least-17-pilgrims-killed-dozens-injured-in-bus-crash-in-pakistan) · `en`
-
-At least 17 Pakistani pilgrims have died in a bus crash while travelling to a shrine in Balochistan for Eid-al-Fitr celebrations.
-
-The accident occurred late on Wednesday officials say, when the vehicle lost control before falling into a ravine.
-
-More than 40 are also being treated for injuries in Karachi and police have warned casualties could rise.
-
-High-fatality crashes are common in Pakistan, often caused by driver error and poorly maintained roads.
-
-Balochistan Chief Minister Sindh Murad Ali Shah told reporters that two children were among the injured, and that at least five people had sustained serious head injuries.
-
-“They were all very poor people,” he said of the victims, describing them as labourers who had been travelling by truck from the Thatta region in the country’s south, to visit a Sufi Muslim temple in the remote city of Khuzdar some 500km (310 miles) away.
-
-He added that the details of the accident were still under investigation.
-
-...
-
-[Data](articles/86e2f7db.json)
-
-[Extended Data](ext_articles/86e2f7db.ext.json)
 
 ---

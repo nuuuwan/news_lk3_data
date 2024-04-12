@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 18:09:57**
+As of **2024-04-12 18:23:08**
 
 ## Newspaper Stats
 
-*Scraped **18,599** Articles*
+*Scraped **18,600** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,018
 economynextcom | 1,040
 adalk | 1,554
 tamilmirrorlk | 2,170
-adaderanalk | 2,227
+adaderanalk | 2,228
 virakesarilk | 2,776
 dailymirrorlk | 2,846
 adaderanasinhalalk | 3,014
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,014
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,595 (100.0%) of 18,599 articles have been extended.
+18,599 (100.0%) of 18,600 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### இலங்கையின் தெற்கே ஆழ்கடலில் 200 கிலோ போதைப்பொருள் சிக்கியது!
+### 200 kg of drug trapped in the deep sea south of Sri Lanka!
 
 *2024-04-12 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181032) · `ta`
 
-ஹெரோயின் அல்லது ஐஸ் போதைப்பொருள் என சந்தேகிக்கப்படும் 200 கிலோ போதைப்பொருளுடன் இரண்டு மீன்பிடிப் படகுகள் இலங்கையின் தெற்கு ஆழ்கடல் பகுதியில் கடற்படையினரால் கைப்பற்றப்பட்டுள்ளன.
+Navy seizes 2 fishing boats in Sri Lanka's deep sea, arresting 10 fishermen with 200 kg of suspected heroin or ice.
 
-இரண்டு படகுகளிலும் காணப்பட்ட 10 இலங்கை மீனவர்களும் கைது செய்யப்பட்டதாக கடற்படைப் பேச்சாளர் கயான் விக்ரமசூரிய தெரிவித்தார்.
+🟩
+
+Two fishing boats have been seized by the navy in the southern deep sea of Sri Lanka with 200 kg of drugs suspected of heroin or ice.
+
+Navy spokesman Gayan Wickramasuriya said that 10 Sri Lankan fishermen found in both boats were arrested.
 
 ◼️
 
 [Data](articles/33851e09.json)
+
+[Extended Data](ext_articles/33851e09.ext.json)
 
 ---
 
@@ -59,6 +65,24 @@ The Navy said the suspects and their stock of narcotics are being brought to the
 ◼️
 
 [Data](articles/38cd642d.json)
+
+[Extended Data](ext_articles/38cd642d.ext.json)
+
+---
+
+### Massive cache of narcotics intercepted off southern coast of Sri Lanka
+
+*2024-04-12 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98594/massive-cache-of-narcotics-intercepted-off-southern-coast-of-sri-lanka) · `en`
+
+Sri Lanka Navy has intercepted a multi-day fishing trawler carrying around 200kg of suspected heroin and crystal methamphetamine (‘Ice’) off the southern coast of the island.
+
+Ten crew members who were on board the vessel were also taken into account.
+
+They are now being escorted to the Galle Harbour and will be handed over to the respective authorities for onward investigations, the navy spokesperson added.
+
+◼️
+
+[Data](articles/5b458fcb.json)
 
 ---
 
@@ -97,6 +121,8 @@ There have been a couple of deaths last year where the patients had tested posit
 ◼️
 
 [Data](articles/01403b12.json)
+
+[Extended Data](ext_articles/01403b12.ext.json)
 
 ---
 
@@ -231,6 +257,8 @@ Park made her musical debut through season 2 of the TV audition program "Super S
 ◼️
 
 [Data](articles/2176bdaf.json)
+
+[Extended Data](ext_articles/2176bdaf.ext.json)
 
 ---
 
@@ -2281,29 +2309,5 @@ The Petroleum Corporation stated that the Ceylon Petroleum Carryer Company has b
 [Data](articles/47b2979c.json)
 
 [Extended Data](ext_articles/47b2979c.ext.json)
-
----
-
-### Recovery from the well to the tree
-
-*2024-04-11 17:57:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரத்திலேறியவர்-கிணற்றிலிருந்து-சடலமாக-மீட்பு/76-335853) · `ta`
-
-A man fell from a 40-foot tree into a well during New Year celebrations, dying from injuries. He was the father of three.
-
-🟩
-
-Balangoda police said that a man who climbed into a tree for the New Year, fell into a well and fell into a well.
-
-The deceased is the father of three children, who died from the Dissanayakkal (52).
-
-He has climbed into a 40 -foot tree in the garden to pluck the new festival for the New Year.
-
-Police say that when he caught a tree of the tree, he had fallen from the tree to the well.
-
-◼️
-
-[Data](articles/0c14e9e9.json)
-
-[Extended Data](ext_articles/0c14e9e9.ext.json)
 
 ---

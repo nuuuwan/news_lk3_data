@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 13:03:19**
+As of **2024-04-12 13:18:15**
 
 ## Newspaper Stats
 
-*Scraped **18,564** Articles*
+*Scraped **18,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,037
 adalk | 1,554
 tamilmirrorlk | 2,169
 adaderanalk | 2,224
-virakesarilk | 2,772
+virakesarilk | 2,773
 dailymirrorlk | 2,833
 adaderanasinhalalk | 3,007
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,007
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,561 (100.0%) of 18,564 articles have been extended.
+18,564 (100.0%) of 18,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### මේ නැකැතට සූදානම් වෙන්න
+### Prepare for this nucle
 
 *2024-04-12 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195563) · `si`
 
-රාජ්‍ය නැකැත් කමිටුවේ නැකැත් සීට්ටුවට අනුව සිංහල අවුරුදු නැකැත් චාරිත්‍ර සිදුකරන ලෙස බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍යංශය ජනතාවගෙන් ඉල්ලා සිටී.
+The Ministry of Buddha Self, Religious and Cultural Affairs has asked the public to follow Sinhala and cultural rituals as per the State Tacketh Committee. Charity is due at 3.29 am on the 2024 Sinhala-Tamil New Year (13).
 
-2024 සිංහල හා දෙමළ අලුත් අවුරුදු නැකැත් වේලාවන් පිළිබඳව විවිධ මත පළවූ අතර සංස්කෘතික කටයුතු දෙපාර්තමේන්තුව පසුගියදා ජනතාවගෙන් ඉල්ලා සිටියේ රාජ්‍ය නැකැත් කමිටුව සකස් කළ නැකැත් සීට්ටුවට අනුව කටයුතු කරන ලෙසය.
+🟩
 
-ඒ අනුව හෙට (13) පස්වරුවේ උදාවන 2024 සිංහල දෙමළ අලුත් අවුරුද්දට සමගාමීව හෙට පස්වරු 2.41 සිට අනිද්දා අලුයම 3.29 දක්වා පුණ්‍ය කාලය යෙදී තිබේ.
+The Ministry of Buddha Self, Religious and Cultural Affairs has requested the public to carry out Sinhala and cultural rituals according to the State Tacketh Committee.
+
+2024 The people of the Cultural Affairs was recently demanded the people of the Cultural Affairs recently to act according to the auspicious vocile of the State Aroused Committee.
+
+Accordingly, charity has been paid to 3.29 am tomorrow at the time of the 2024 Sinhala-Tamil New Year tomorrow (13).
 
 ◼️
 
 [Data](articles/7555e7fe.json)
+
+[Extended Data](ext_articles/7555e7fe.ext.json)
 
 ---
 
@@ -64,6 +70,8 @@ Sinha, who had served as India’s finance minister, and external affairs minist
 
 [Data](articles/2464968d.json)
 
+[Extended Data](ext_articles/2464968d.ext.json)
+
 ---
 
 ### Vegetable prices increase
@@ -79,6 +87,8 @@ Therefore, NCF Chairman Asela Sampath requested people to refrain from buying ve
 ◼️
 
 [Data](articles/21928a08.json)
+
+[Extended Data](ext_articles/21928a08.ext.json)
 
 ---
 
@@ -623,6 +633,26 @@ However, according to the current Amendment, all liquor stations will be opened 
 [Data](articles/a636f310.json)
 
 [Extended Data](ext_articles/a636f310.ext.json)
+
+---
+
+### தமிழ் பொதுவேட்பாளரை நிறுத்த கொள்கையளவில் இணங்குகிறேன் - சிறீதரன்
+
+*2024-04-12 06:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/181010) · `ta`
+
+ஜனாதிபதி தேர்தலில் தமிழ் பொதுவேட்பாளர் நிறுத்தப்படுவதற்கு கொள்கையளவில் இணக்கம் தெரிவிக்கும் அதேநேரம், கட்சியின் தீர்மானமும் முக்கியமானது என்று இலங்கைத் தமழரசுக்கட்சியின் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் தெரிவித்தார்.
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் தமிழ்க் கட்சிகளின் சார்பில் பொதுவேட்பாளர் ஒருவரை நிறுத்துவதற்கான முயற்சிகள் தொடர்பில் கருத்து வெளியிடும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் தமிழ் அரசியல் கட்சிகளின் சார்பில் பொதுவேட்பாளர் ஒருவரை நிறுத்துவதற்கான முன்முயற்சிகள் முன்னெடுக்கப்படுகின்றன.
+
+தற்போதைய நிலையில், ஜனாதிபதி தேர்தலில் களமிறங்குவார்கள் என்று எதிர்பார்க்கப்படுகின்றவர்கள் தமிழ் மக்களின் இனப்பிரச்சினைக்கான தீர்வு உட்பட எந்தவொரு விடயங்களிலும் கரிசனைகளைக் கொண்டவர்களாக தம்மை வெளிப்படுத்தவில்லை.
+
+ஆகவே, எந்த அடிப்படைகளுமின்றி தென்னிலங்கை வேட்பாளர்களை ஆதரிப்பது பொருத்தமற்றதொரு முயற்சியாகும். அந்த வகையில் தமிழ் கட்சிகள் அனைத்தும் ஒன்றிணைந்து  பொதுவேட்பாளரை நிறுத்துகின்றமை பொருத்தமான அணுகுமுறையாகும்.
+
+...
+
+[Data](articles/e4dc53ed.json)
 
 ---
 
@@ -2333,23 +2363,5 @@ ADB’s growth forecast hinges on the continuation of reforms and better consume
 [Data](articles/044fa93c.json)
 
 [Extended Data](ext_articles/044fa93c.ext.json)
-
----
-
-### Sri Lanka shows signs of recovery but must maintain reform momentum: ADB
-
-*2024-04-11 13:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-shows-signs-of-recovery-but-must-maintain-reform-momentum-ADB/155-280626) · `en`
-
-COLOMBO, April 11- The Asian Development Bank’s (ADB) annual flagship economic publication, the Asian Development Outlook (ADO) April 2024, forecasts Sri Lanka’s economy to record moderate growth of 1.9% in 2024 and 2.5% in 2025 following 2 consecutive years of contractions.
-
-According to the ADB, Sri Lanka is showing signs of recovery, with green shoots emerging in the second half of 2023 while inflation has decelerated to single digits, foreign exchange reserves continue to be built up, and the exchange rate has appreciated. Furthermore, tourist arrivals and remittance inflows continue to show a commendable recovery while supply conditions have improved.
-
-ADB’s growth forecast hinges on the continuation of reforms and better consumer and business sentiment. Timely completion of external debt restructuring will also support Sri Lanka’s debt sustainability efforts.
-
-...
-
-[Data](articles/085aa757.json)
-
-[Extended Data](ext_articles/085aa757.ext.json)
 
 ---

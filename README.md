@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 00:34:11**
+As of **2024-04-13 00:49:05**
 
 ## Newspaper Stats
 
-*Scraped **18,635** Articles*
+*Scraped **18,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,041
 adalk | 1,559
-tamilmirrorlk | 2,172
+tamilmirrorlk | 2,174
 adaderanalk | 2,237
 virakesarilk | 2,779
 dailymirrorlk | 2,855
@@ -26,9 +26,45 @@ adaderanasinhalalk | 3,020
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,635 (100.0%) of 18,635 articles have been extended.
+18,635 (100.0%) of 18,637 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-04-13 (Saturday)
+
+### மீண்டும் கொரோனா... ஒருவர் மரணம்
+
+*2024-04-13 00:27:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-கொரோனா-ஒருவர்-மரணம்/175-335890) · `ta`
+
+உயிரிழந்த பெண்ணுக்கு PCR பரிசோதனை மேற்கொள்ளப்பட்ட நிலையில், அவர் கொரோனா தொற்றினால் உயிரிழந்துள்ளமை தெரியவந்துள்ளது.
+
+சம்பவத்தில் குருணாகல் ரிதிகம பகுதியை சேர்ந்த பெண் ஒருவரே உயிரிழந்துள்ளதாக காவல்துறையினர் தெரிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/f357d337.json)
+
+---
+
+### வளிமண்டலவியல் திணைக்களம் வௌியிட்ட அறிக்கை
+
+*2024-04-13 00:22:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களம்-வௌியிட்ட-அறிக்கை/175-335889) · `ta`
+
+வடக்கு மற்றும் கிழக்கு மாகாணங்களில் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+வடமத்திய மற்றும் ஊவா மாகாணங்களிலும் நாட்டின் ஏனைய பிரதேசங்களில் பல இடங்களிலும் பிற்பகல் 2.00 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் இன்று இரவு 100 மி.மீ அளவான பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+மேல், மத்திய. சப்ரகமுவ மற்றும் ஊவா மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள்.
+
+...
+
+[Data](articles/eed3a217.json)
+
+---
 
 ### 2024-04-12 (Friday)
 
@@ -2287,35 +2323,5 @@ The sun will be over 12:11 (12) at 12:11 pm today.
 [Data](articles/2f66720c.json)
 
 [Extended Data](ext_articles/2f66720c.ext.json)
-
----
-
-### Beauty of nature...
-
-*2024-04-12 06:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Beauty-of-nature/110-280440) · `en`
-
-Rare bird species and wild animals at the Horton Plains National Park in the summer season. Many local and foreign visitors frequent the National Park to witness its natural beauty. Located at an elevation of 2,100–2,300 m and encompassing mountain grasslands and forest, Horton Plains is rich in biodiversity and many of the species found here are endemic to the region. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/d77681da.json)
-
-[Extended Data](ext_articles/d77681da.ext.json)
-
----
-
-### “Siva Senai”(Siva’s Army) Leader Sachithananthan Weakens Tamil Nationalism Further  by Widening the Hindu-Christian  Divide.
-
-*2024-04-12 05:03:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83902) · `en`
-
-Current media coverage in Sri Lanka is heavily focused on the forthcoming Presidential elections. Though officially not announced yet, it seems a foregone conclusion that the presidential poll would take place later this year. Several potential candidates ranging from incumbent president Ranil Wickremesinghe to   media magnate Dilith Jayaweera are tipped to be in the presidential fray.
-
-Adding to this fluid state of affairs are recent attempts  by vested interests to field a “Hindu” as a common presidential candidate in the 2024 election. Even as people were becoming aware of efforts by interested parties to nominate a  Hindu  presidential candidate, the head of a  Hindu organization in Northern Sri Lanka issued a public statement calling for a common  candidate to contest the forthcoming presidential poll on behalf of all Hindus in the Island.  Furthermore Hindus were asked to vote for Mano Ganesan MP as the presidential candidate.
-
-...
-
-[Data](articles/d92322bd.json)
-
-[Extended Data](ext_articles/d92322bd.ext.json)
 
 ---

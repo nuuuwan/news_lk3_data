@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 15:03:33**
+As of **2024-04-12 15:18:21**
 
 ## Newspaper Stats
 
-*Scraped **18,575** Articles*
+*Scraped **18,582** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,113 @@ dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,016
 dailyftlk | 1,018
-economynextcom | 1,037
+economynextcom | 1,040
 adalk | 1,554
 tamilmirrorlk | 2,169
 adaderanalk | 2,226
 virakesarilk | 2,774
-dailymirrorlk | 2,836
-adaderanasinhalalk | 3,010
+dailymirrorlk | 2,839
+adaderanasinhalalk | 3,011
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,572 (100.0%) of 18,575 articles have been extended.
+18,575 (100.0%) of 18,582 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### දූපතක සතියක් සිරවී සිටි පිරිසක් මුදාගනී
+
+*2024-04-12 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195568) · `si`
+
+රොබින්ස් කෘෘසෝ ලොකු කුඩා කා අතරත් ජනප්‍රිය ලෝක පූජිත නව කතාවකි.
+
+දූපතක සිරවී වසර ගණනක් හුදකලාව සිටි මිනිසෙකු වටා එම කතා ප්‍රස්තුතය ගොඩනැගී තිබේ.
+
+රොබින්ස් කෘෘසෝ චරිතය යළි සිහි ගැන්වූ පුවතක් බටහිර පැසිෆික් කලාපයේ පිහිටා ඇති මයික්‍රොනීසියා නම් මිනිසුන් නොමැති දූපතකින් පසුගිය දා වාර්තා වුණි.
+
+ඒ එම දූපතේ  සිරවී සතියක කාලයක් ගත කළ මිතුරන් තිදෙනෙකු මුදාගැනීමත් සමගිනි.
+
+සාගරය මැදදී සිය යාත්‍රාව අනතුරට පත්වීමෙන් පසු ඔවුන් මෙම දූපතට පැමිණ තිබිණි.
+
+පිරිස සොයා අමෙරිකානු වෙරළාරක්ෂක හමුදාව මෙහෙයුම් ආරම්භ කර තිබුනේ ඔවුන් අතුරුදන් වීමේ පුවත සැලවීමත් සමගය.
+
+පිරිස එම දූපතේ සිටින බවට සොයාගෙන ඇත්තේ, තල් පත් යොදාගෙන ඔවුන් වෙරළේ නිර්මාණ කර තිබූ හෙල්ප් එනම් උදව් ලෙස සටහන් වදන හේතුවෙනි.
+
+ධීවරයින් විසින් කණිනු ලැබූ බවට සැලකෙන දූපතේ තිබූ කුඩා ලිඳකින් ඔවුන් පිරිසිදු ජලය සපයාගෙන තිබිණි.
+
+◼️
+
+[Data](articles/109cba7b.json)
+
+---
+
+### Sri Lanka political elites’ vested interests linked to weak institutional structures: Study
+
+*2024-04-12 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-political-elites-vested-interests-linked-to-weak-institutional-structures-study-158301/) · `en`
+
+ECONOMYNEXT – Politically connected persons who declare commitments to address various types of economic crimes, often during election cycles, have vested interests in institutions that investigate and prosecute economic crimes, a recent study by the Centre for Policy Alternatives (CPA) has found.
+
+“Therefore, once these political elites are in office, they are often reluctant to invest in building capacities as any form of institutional strengthening could lead to their private gains being investigated as well.”
+
+The study, Understanding Connections between Human Rights and Economic Crimes, combines the findings on key informant interviews (KIIs), and analysis of the challenges to the country’s efforts to combat corruption and ensure accountability within its governance framework.
+
+...
+
+[Data](articles/aa668f1a.json)
+
+---
+
+### Immigration officials stage symbolic protest
+
+*2024-04-12 14:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immigration-officials-stage-symbolic-protest/108-280649) · `en`
+
+Colombo, April 12 (Daily Mirror) - The Sri Lanka Immigration & Emigration Officers’ Association (SLIEOA) has launched a 24-hour symbolic strike against steps taken to change the service system by cancelling the more efficient service system without any reasons and causing serious hardships to the serving officers.
+
+SLIEOA Secretary K.P. Manawadu pointed out that their officers have been under unnecessary pressure due to the decisions taken by the departmental authorities in some cases.
+
+Accordingly, the symbolic strike was launched at 9 a.m. and will continue till 9 a.m. tomorrow.
+
+"We decided to embark on a professional action to cover all the airports and seaports of the country by requesting all officers to wear black belts and distribute leaflets," Manawadu said.
+
+...
+
+[Data](articles/f40131a6.json)
+
+---
+
+### Thundershowers, severe lightning forecast across the island
+
+*2024-04-12 14:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thundershowers-severe-lightning-forecast-across-the-island/108-280648) · `en`
+
+Colombo, April 12 (Daily Mirror) - The Department of Meteorology has issued a weather alert, warning of thundershowers and severe lightning expected to sweep across various parts of the island in the imminent hours.
+
+Thundershowers accompanied by severe lightning are anticipated to strike multiple areas within the Western, Southern, Sabaragamuwa, Northern and North-Western Provinces, as well as the Moneragala district.
+
+In light of the imminent weather conditions, members of the public are strongly advised to take proactive measures to mitigate potential damages caused by lightning activities.
+
+The Department of Meteorology continues to monitor the situation closely and urges residents to stay updated on further advisories and alerts.
+
+◼️
+
+[Data](articles/143fc552.json)
+
+---
+
+### Preparing for New Year
+
+*2024-04-12 14:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Preparing-for-New-Year/110-280646) · `en`
+
+People were buying goods even today to celebrate the Sinhala and Tamil New Year, with most seen buying firecrackers. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/add870de.json)
+
+---
 
 ### SLPP to take disciplinary action against GL, others
 
@@ -46,29 +136,41 @@ The SLPP, at its executive committee meeting, decided to initiate disciplinary a
 
 [Data](articles/ec05b715.json)
 
+[Extended Data](ext_articles/ec05b715.ext.json)
+
 ---
 
-### හබරණ හුරුළු රක්ෂිතයේ වන විනාශයක්
+### Destruction of Habarana Hurulu Reserve
 
 *2024-04-12 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195567) · `si`
 
-මෙරටට ආවේණික ශාක විශාල ප්‍රමාණයක් පිහිටා තිබෙන සහ සතුන් විශාල ප්‍රමාණයක් වාසය කරන හබරණ හුරුළු රක්ෂිතයේ සිදුකෙරෙන අනවසර කැණීමක් පිළිබඳව අද දෙරණ උකුස්සාට තොරතුරු වාර්තා වුණි.
+Unauthorized excavation in Habarana Hurulu Reserve, a 25,000-hectare International Biological Reserve, has been reported. Despite approval for a development project, no permission letter was received. The Forest Department's failure to enforce regulations has led to environmental concerns.
 
-හබරණ හුරුළු රක්ෂිතය අනුරාධපුර සහ පොළොන්නරු දිස්ත්‍රික්කවල හෙක්ටයාර 25,000ක් පුරා පැතිරී තිබෙන ස්වභාව සෞන්දර්යෙන් අනූන වූ රක්ෂිතයකි.
+🟩
 
-1977 වර්ෂයේදී මෙම රක්ෂිතය අන්තර්ජාතික ජෛව ගෝල රක්ෂිතයක් ලෙස නම් කළ අතර 2007 වර්ෂයේදී වන සංරක්ෂණ දෙපාර්තමේන්තුව මෙම රක්ෂිතයෙන් හෙක්ටයාර 1000ක භූමි ප්‍රමාණයක් පාරිසරික උද්‍යානයක් ලෙසට ප්‍රකාශයට පත්කර තිබේ.
+Derana Ukza has reported awareness of an unauthorized excavation in Habarana Hurulu Reserve, which is home to the country and a large number of animals.
 
-කෙසේවෙතත් මෙම රක්ෂිතයේ එම භූමි ප්‍රදේශයේ කලක පටන් අවිධිමත් අයුරින් භූමියේ කැණීම් සිදුකරන බවට අද දෙරණ උකුස්සාට තොරතුරු අනාවරණ වුණි.
+Habarana Hurulu Reserve is a suit of nature that has spread over 25,000 hectares in the Anuradhapura district.
 
-ඒ අනුව අද දෙරණ උකුස්සා දඹුල්ල පොලිස් විශේෂ කාර්ය බළකා නිලධාරින් ද සමග අදාළ රක්ෂිතයට ගියේ මේ සම්බන්ධයෙන් සෙයාබැලීම සඳහාය.
+The reserve was named as an International Biological Reserve in 1977 and the Forest Department has been announced as an environmental park in 2007.
 
-අප එම ස්ථානයට ළඟාවන විටත් පිරිසක් අදාළ රක්ෂිත භුමියේ කැණීම් සිදුකරමින් තිබුණි.
+However, today revealed information on Derana Ukkasa that the excavation of the land was carried out in the forest reserve.
 
-අනතුරුව කැණීම්  බලපත්‍රය පිළිබඳව අප විමසූ විට ඔවුන් සඳහන් කළේ ඒ සම්බන්ධයෙන් දිසා වනජීවි නිලධාරියාගෙන් විමසිය යුතු බවය.
+Accordingly, Ada Derana went to the relevant reserve to be taken to the relevant reserve.
+
+When we reach the site, a group had excavated in the relevant reserve.
+
+When we asked the mining license, they said that the District Wildlife officer should be inquired.
+
+The officer in response to the excavation document sent an article on Watsapp.
+
+But instead of the excavation license, he was referred to the request for excavation.
 
 ...
 
 [Data](articles/9295a066.json)
+
+[Extended Data](ext_articles/9295a066.ext.json)
 
 ---
 
@@ -249,6 +351,22 @@ Therefore, NCF Chairman Asela Sampath requested people to refrain from buying ve
 [Data](articles/21928a08.json)
 
 [Extended Data](ext_articles/21928a08.ext.json)
+
+---
+
+### Vietnam businesswoman sentenced to death, central banker to life over bad credit
+
+*2024-04-12 11:52:00* · [`economynextcom`](https://economynext.com/vietnam-businesswoman-sentenced-to-death-central-banker-to-life-over-bad-credit-158323/) · `en`
+
+ECONOMYNEXT – A court in Vietnam has sentenced to death Truong My Lan, head of Van Thinh Phat property group who was also involved in restructuring a troubled bank, while sentencing three others to life imprisonment, including a central bank supervisor.
+
+Lan, who was also a key shareholder of Saigon Commercial Bank, was sentenced to 20 years in prison for violating credit regulations, 20 years for bribing a State Bank of Vietnam (central bank) official, in addition to the death penalty, penalty for embezzlement, reports said.
+
+Do Thi Nhan, former Director of bank supervision division II at the State Bank of Vietnam was sentenced to life for accepting bribes during a re-structure of three failed banks over a decade ago, which eventually emerged as Saigon Commercial Bank.
+
+...
+
+[Data](articles/e21a4243.json)
 
 ---
 
@@ -758,6 +876,22 @@ On the apparent northward relative motion of the sun, it is going to be directly
 
 ### Arms manufacturers show Indian capability to Sri Lankan military
 
+*2024-04-12 07:00:00* · [`economynextcom`](https://economynext.com/arms-manufacturers-show-indian-capability-to-sri-lankan-military-158316/) · `en`
+
+ECONOMYNEXT – Indian arm manufacturing firms showed the Delhi’s capability in arm manufacturing to Sri Lankan military at a seminar on Wednesday which the island nation expects to open the door for future joint collaboration in manufacturing and services.
+
+Indian High Commission in Colombo High Commission organised the seminar titled “Identifying New Opportunities and Forging New Bonds” to promote Indian Made Defence equipment and explore avenues for collaboration in defence production.
+
+India’s privately owned defence companies demonstrated the capability they have developed in manufacturing arms and other products including unmanned aerial vehicles (UAVs), latest drones, and latest earth movers used in war zones.
+
+...
+
+[Data](articles/188b386f.json)
+
+---
+
+### Arms manufacturers show Indian capability to Sri Lankan military
+
 *2024-04-12 07:00:00* · [`economynextcom`](https://economynext.com/arms-manufacturers-show-indian-capability-to-sri-lankan-armed-forces-military-158316/) · `en`
 
 ECONOMYNEXT – Indian arm manufacturing firms showed the Delhi’s capability in arm manufacturing to Sri Lankan military at a seminar on Wednesday which the island nation expects to open the door for future joint collaboration in manufacturing and services.
@@ -972,17 +1106,19 @@ Rare bird species and wild animals at the Horton Plains National Park in the sum
 
 ---
 
-### 
+### “Siva Senai”(Siva’s Army) Leader Sachithananthan Weakens Tamil Nationalism Further  by Widening the Hindu-Christian  Divide.
 
 *2024-04-12 05:03:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83902) · `en`
 
-“Siva Senai”(Siva’s Army) Leader Sachithananthan Weakens Tamil Nationalism by Widening the Hindu-Christian  Divide.
-
 Current media coverage in Sri Lanka is heavily focused on the forthcoming Presidential elections. Though officially not announced yet, it seems a foregone conclusion that the presidential poll would take place later this year. Several potential candidates ranging from incumbent president Ranil Wickremesinghe to   media magnate Dilith Jayaweera are tipped to be in the presidential fray.
+
+Adding to this fluid state of affairs are recent attempts  by vested interests to field a “Hindu” as a common presidential candidate in the 2024 election. Even as people were becoming aware of efforts by interested parties to nominate a  Hindu  presidential candidate, the head of a  Hindu organization in Northern Sri Lanka issued a public statement calling for a common  candidate to contest the forthcoming presidential poll on behalf of all Hindus in the Island.  Furthermore Hindus were asked to vote for Mano Ganesan MP as the presidential candidate.
 
 ...
 
 [Data](articles/d92322bd.json)
+
+[Extended Data](ext_articles/d92322bd.ext.json)
 
 ---
 
@@ -2199,159 +2335,5 @@ Sri Lanka’s move to set up such institute aiming to strengthen the professiona
 [Data](articles/f53fb07b.json)
 
 [Extended Data](ext_articles/f53fb07b.ext.json)
-
----
-
-### To pay attention to the impact on the poor - Asian Development Bank
-
-*2024-04-11 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180982) · `ta`
-
-The Asian Development Bank urges Sri Lanka to address the impact on the poor and the wealthy, focusing on economic recovery and sustainable growth. Despite a 1.9% growth in 2024 and 2.5% in 2025 post-economic crisis, Sri Lanka's debt stability and poverty reduction are priorities. Uttar Kumar, Sri Lanka's representative, highlights the importance of policy restructuring and economic stabilization in 2023, emphasizing the need to eliminate crisis factors for sustainable recovery and growth.
-
-🟩
-
-The Asian Development Bank has urged Sri Lanka to focus on the impact of the impact of the poor and the wealthy social sect, to eliminate the factors that are based on the economic crisis, to launch the foundation for the sustainable recovery, to build the restoration, and to achieve growth.
-
-According to the Asian Development Assessment for April 2024, the Asian Development Bank, which was published by the Asian Development Bank, continued to record 1.9 per cent moderate growth and 2.5 per cent in 2025 following the economic conflict that continued for the past two years.
-
-“The indicators of economic recovery in Sri Lanka from the post -last year. Inflation has fallen to one.
-
-Tourism and foreign affairs are continuously recorded at a prospective level. The Asian Development Bank has pointed out that the completion of the output of the output in a timely manner will help ensure Sri Lanka's debt stability.
-
-...
-
-[Data](articles/8a00cb98.json)
-
-[Extended Data](ext_articles/8a00cb98.ext.json)
-
----
-
-### Motorcycle stolen motorcycle rescue in Chavakachcheri
-
-*2024-04-11 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180983) · `ta`
-
-A motorcycle stolen in Chavakachcheri was recovered in Mannar, thanks to the Chavakachcheri police's efforts. The thief was arrested.
-
-🟩
-
-The motorcycle stolen last Monday in Chavakachcheri was rescued in Mannar due to the speedy efforts of the Chavakachcheri police.
-
-A motorcycle was stolen when a man who had been treated at the Medical Center in Chavakachcheri had left his motorcycle.
-
-In the meantime, the police have been informed by the police and checkpoints by the police.
-
-In addition, the motorcycle was recovered at the Mannar checkpoint and the man who stole the motorcycle has been arrested, police said.
-
-◼️
-
-[Data](articles/ae38b92e.json)
-
-[Extended Data](ext_articles/ae38b92e.ext.json)
-
----
-
-### Two policemen arrested for harm to a young man's testicenses
-
-*2024-04-11 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195542) · `si`
-
-Two policemen arrested for assaulting a young man during surgery. The police sergeant and a constable are to be tried by the Kebithigollewa Magistrate.
-
-🟩
-
-The police have commenced investigations into the incident that a group of Media Kumarachchiya Police had assaulted his son from a surgery.
-
-According to the injustice made by the injured, police had informed the Senior Superintendent of Police in Kebithigollewa Division.
-
-The police sergeant and a constable have been arrested by the Divisional Secretariat Investigation Division.
-
-The two suspects are to be produced before the Kebithigollewa Magistrate today.
-
-Director of the Anuradhapura Teaching Hospital Dr. Dulan Samaraweera said that the young scrotum of the young man was removed from a surgery.
-
-◼️
-
-[Data](articles/875c0030.json)
-
-[Extended Data](ext_articles/875c0030.ext.json)
-
----
-
-### Suspicious death of 23-year-old woman at hotel sparks concerns
-
-*2024-04-11 15:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspicious-death-of-23-year-old-woman-at-hotel-sparks-concerns/108-280628) · `en`
-
-Colombo, April 11 -  A 23-year-old woman was discovered dead under suspicious circumstances at a hotel in Avissawella, Police said.
-
-The Avissawella Police were alerted after the individual accompanying the deceased woman reported her unconscious state to the hotel management.
-
-Upon receiving the call, Crime Scene Investigation Officers from the Sitawaka Police Division rushed to the scene and initiated investigations.
-
-◼️
-
-[Data](articles/016791f8.json)
-
-[Extended Data](ext_articles/016791f8.ext.json)
-
----
-
-### Two cops arrested over assault on youth in Medawachchiya
-
-*2024-04-11 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98575/two-cops-arrested-over-assault-on-youth-in-medawachchiya) · `en`
-
-Two police officers attached to Medawachchiya Police Station have been arrested by the Kebithigollewa Crimes Unit over the alleged assault on a youth on April 07 in Medawachchiya.
-
-Accordingly, a Police Sergeant and a Constable attached to Medawachchiya Police have been arrested for allegedly inhumanely assaulting the youth after taking the latter into custody.
-
-They are to be produced before the Kebithigollewa Magistrate’s Court later today (11), police said.
-
-According to the Police Media Division, in the evening of April 07, a group of police officers on traffic duty near the Medawachchiya primary school on the Mannar-Medawachchiya road had signalled a small lorry heading towards Mannar to stop.
-
-However, the lorry driver had ignored the police directive to stop the vehicle and continued forward prompting the police officers to give chase.
-
-...
-
-[Data](articles/05e44fee.json)
-
-[Extended Data](ext_articles/05e44fee.ext.json)
-
----
-
-### Two cops, arrested over assault on youth in Medawachchiya, remanded
-
-*2024-04-11 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98575/two-cops-arrested-over-assault-on-youth-in-medawachchiya-remanded) · `en`
-
-UPDATE: The police sergeant and the constable of Medawachchiya Police Station who were arrested over the alleged assault on a youth on 07 April, have been remanded until 16 April.
-
-Two police officers attached to Medawachchiya Police Station have been arrested by the Kebithigollewa Crimes Unit over the alleged assault on a youth on April 07 in Medawachchiya.
-
-Accordingly, a Police Sergeant and a Constable attached to Medawachchiya Police have been arrested for allegedly inhumanely assaulting the youth after taking the latter into custody.
-
-They are to be produced before the Kebithigollewa Magistrate’s Court later today (11), police said.
-
-According to the Police Media Division, in the evening of April 07, a group of police officers on traffic duty near the Medawachchiya primary school on the Mannar-Medawachchiya road had signalled a small lorry heading towards Mannar to stop.
-
-...
-
-[Data](articles/443ae522.json)
-
-[Extended Data](ext_articles/443ae522.ext.json)
-
----
-
-### Sufficient rice, vegetables, eggs, chicken, fruits supplied to market for festive season
-
-*2024-04-11 14:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sufficient-rice-vegetables-eggs-chicken-fruits-supplied-to-market-for-festive-season/108-280624) · `en`
-
-Colombo, April 11 (Daily Mirror) - Locally produced rice, vegetables, eggs, chicken and fruits needed for the Sinhala and Tamil New Year celebrations have been supplied to the market without any shortages, Agriculture and Plantation Industries Minister Mahinda Amaraweera said.
-
-He said the vegetable prices, which increased rapidly about a month ago and the shortage of vegetables have been completely ended by now. Under the government's programme to increase production in the country, more than the required amount of poultry meat, eggs, vegetables, fruits and rice are now available in the market.
-
-"People also claimed that the price of a kilogramme of carrot will go up to Rs. 5,000 during the New Year season. But now, not only the price of carrots but also the prices of all other vegetables have come down. Although some said that the price of an egg will go up to Rs. 75, the price of eggs has also decreased to Rs. 40," he said.
-
-...
-
-[Data](articles/6a078013.json)
-
-[Extended Data](ext_articles/6a078013.ext.json)
 
 ---

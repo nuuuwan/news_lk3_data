@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 09:33:50**
+As of **2024-04-12 09:52:51**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,004
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,548 (100.0%) of 18,549 articles have been extended.
+18,549 (100.0%) of 18,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### දෛනික වෙඩිතැබීම්වලට හේතුව බුද්ධි අංශ දුර්වලතා - මිහින්තලා හිමි
+### Intelligence Weakage - Mihintale Thero
 
 *2024-04-12 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195559) · `si`
 
-රටේ බුද්ධි අංශ ඇතුළු සියලු ආරක්ෂක අංශවල පවතින දුර්වලතා දෛනිකව සිදුවන වෙඩිතැබීම් සහ  අපරාධ සිද්ධිවලට හේතුව බව මිහින්තලා රජමහා විහාරාධිපති පූජ්‍ය වලවාහැංගුණවැවේ ධම්මරතන හිමි පවසති.
+Mihintale Thero, Chief Incumbent of Ven. Welpawanwewa Thero, emphasized the need for strengthening areas to prevent a criminal wave, during a media briefing in Anuradhapura.
 
-උන්වහන්සේ සඳහන් කළේ එම අංශ ශක්තිමත් කිරිමෙන් තොරව අපරාධ රැල්ල මැඩලීමේ හැකියාවක් නොමැති බවය.
+🟩
 
-අනුරාධපුර ප්‍රදේශයේ පැවැති මාධ්‍ය හමුවකට එක්වෙමින් මිහින්තලා රජමහා විහාරාධිපති පූජ්‍ය වලවාහැංගුණවැවේ ධම්මරතන හිමි මේ බව පැවසීය.
+The Welpawanwewa Thero, Chief Incumbent, Ven.
+
+The Thera said that there was no possibility of criminal wave without strengthening the areas.
+
+He was speaking at a media briefing in Anuradhapura, the Chief Incumbent of the Mihintamha Raja Maha Viharaya.
 
 ◼️
 
 [Data](articles/35999616.json)
+
+[Extended Data](ext_articles/35999616.ext.json)
 
 ---
 

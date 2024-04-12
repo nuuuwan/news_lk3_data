@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 16:50:44**
+As of **2024-04-12 17:03:15**
 
 ## Newspaper Stats
 
-*Scraped **18,587** Articles*
+*Scraped **18,592** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 163
-bbccomsinhala | 195
+bbccomsinhala | 196
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,016
@@ -19,18 +19,68 @@ adalk | 1,554
 tamilmirrorlk | 2,170
 adaderanalk | 2,227
 virakesarilk | 2,774
-dailymirrorlk | 2,841
-adaderanasinhalalk | 3,011
+dailymirrorlk | 2,843
+adaderanasinhalalk | 3,013
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,586 (100.0%) of 18,587 articles have been extended.
+18,587 (100.0%) of 18,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### ආගමන විගමන නිලධාරීන් වෘත්තීය ක්‍රියාමාර්ගයක
+
+*2024-04-12 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195570) · `si`
+
+ආගමන හා විගමන දෙපාර්තමේන්තු නිලධාරීන් වෘත්තිය ක්‍රියාමාර්ගයක් ආරම්භ කර තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා ආගමන හා විගමන නිලධාරීන්ගේ සංගමය පැවසුවේ අද (12) පෙරවරු 9.00 සිට හෙට පෙරවරු 9.00 දක්වා මෙම වෘත්තිය ක්‍රියාමාර්ගය පවත්වන බවය.
+
+ඒ අනුව ගුවන්තොටුපොළ හා වරායේ සේවය කරන නිලධාරීන් කළු පටි පලඳිමින් අද රාජකාරියේ නිරත වුණි.
+
+ආගමන විගමන නිලධාරී හිඟය නිසිකලට තනතුරු පුරප්පාඩු නොපිරිවීම ඇතුළු කරුණු කිහිපයක් මුල්කරගෙන මෙම වෘත්තිය ක්‍රියාමාර්ගය පැවැත්වේ.
+
+◼️
+
+[Data](articles/af50c7ed.json)
+
+---
+
+### සුපිරි තරු රාමසාන් සැමරූ හැටි
+
+*2024-04-12 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195569) · `si`
+
+බොලිවුඩයේ වඩාත් ජනප්‍රියතම රංගන ශිල්පීයා වන ශාරුක් ඛාන් මෙවර රාමසාන් අසිරිය සිය රසිකයින් සමඟ ඔවුන්ට ආචාර කරමින් බෙදාගත්තේය.
+
+සුපිරි නළු අමීර් ඛාන් සිය පුතුන් දෙදෙනා සම﻿ඟ පැමිණ සිය නිවස අසළ රැස්ව සිටි රසිකයින්ට සහ මාධ්‍යවේදීන්ට කැවිලි බෙදා දෙමින් රාමසාන් සමරා තිබුණි.
+
+◼️
+
+[Data](articles/aa7f3b55.json)
+
+---
+
+### Excise deny fake reports circulating about liquor shops opened on April 13
+
+*2024-04-12 16:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Excise-deny-fake-reports-circulating-about-liquor-shops-opened-on-April-13/108-280651) · `en`
+
+The Excise Department today denied fake news circulating on social media that liquor shops will be opened on April 13.
+
+The department issued a notice last week that the countrywide sale of liquor will be banned on April 12 and 13 in line with the Sinhala and Tamil New Year.
+
+However, this does not apply to in house guests, both local and foreign tourists of the hotels and boutique villas beyond the three star range that are registered with the Sri Lanka Tourism Development Authority.
+
+The regular sale of liquor in the country will commence from April 14, Sunday 8.00am onwards.
+
+◼️
+
+[Data](articles/b743c7c4.json)
+
+---
 
 ### Govt. to distribute Avurudu gifts to children at 336 child development centers
 
@@ -47,6 +97,28 @@ The program is sponsored by Ceylon Biscuits Limited (CBL), facilitating the deli
 ◼️
 
 [Data](articles/a7645e32.json)
+
+[Extended Data](ext_articles/a7645e32.ext.json)
+
+---
+
+### CPC assures uninterrupted fuel supply during festive season
+
+*2024-04-12 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CPC-assures-uninterrupted-fuel-supply-during-festive-season/108-280645) · `en`
+
+Colombo, April 12 (Daily Mirror) - In anticipation of the Sinhala and Tamil New Year, the Ceylon Petroleum Corporation (CPC) has announced robust measures to ensure a seamless flow of fuel from Ceypetco filling stations.
+
+Amidst the celebratory season, CPC has affirmed its commitment to maintaining adequate fuel stocks by orchestrating timely imports to meet the heightened demand.
+
+Underlining their proactive approach, the CPC has issued directives to filling station proprietors, emphasizing the imperative of sufficient stock levels to cater to the influx of customers during the festive period.
+
+Furthermore, to streamline fuel procurement processes for distributors, the CPC has extended the facilitation of cheque transactions until April 15th.
+
+To fortify the efficiency of fuel distribution operations, the Ceylon Petroleum Storage Terminals Ltd. is slated to dispatch an ample fleet of tankers for seamless distribution activities.
+
+◼️
+
+[Data](articles/9ba73e69.json)
 
 ---
 
@@ -503,6 +575,28 @@ He was speaking at a media briefing in Colombo, he said this.
 [Data](articles/7ea291ab.json)
 
 [Extended Data](ext_articles/7ea291ab.ext.json)
+
+---
+
+### 'මම ලියන හැටි' : නිශ්ශංක විජේමාන්න
+
+*2024-04-12 11:13:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72px735vk2o) · `si`
+
+නිශ්ශංක විජේමාන්න යනු සමකාලීන සිංහල සාහිත්‍යය තුළ කිසිසේත්ම මඟහැර යා හැකි නවකතාකරුවෙකු නොවේ. ඔහු වඩාත් සම්භාවනාවට පත් වී ඇත්තේ කෙටිකතාකරුවෙකු ලෙස වුවත් 'වැලන්ටයින් කුමාරයා' නවකතාවෙන් පටන් ගෙන 'තාරා මගේ දෙව්දුව' , 'හඳ පළුව තනි තරුව' හරහා 'කඳ අරනි' දක්වා ඔහු අතින් ලියවුණු  නවකතා තේමාත්මක සහ ආකෘතික විචිත්‍රත්වයකින් අනූන සුවිශේෂී කෘති ලෙස හැඳින්විය හැකිය.
+
+නවකතාකරුවෙකු ලෙස ඔහු ලේඛනයේ යෙදෙන විට ඔහුට දැනෙන හැඟීම් සහ ලිවීම සමඟ බැඳුණු  ඔහුටම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් මම ඔහු සමග කතාබහක යෙදුනෙමි.
+
+මේ සාකච්ඡාව තුළ  මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළකර ඇති නිම්නාගේ ඉතිහාසය (2019) සහ මේ රහස් කවුලුවෙන් එබෙන්න (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුණු  ඒවා ය.
+
+හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේම වූ ආකාරයකටය යන්න ප්‍රකට කරුණකි.
+
+ලියන තැන, ලියන විදිහ, ලියන විට බොන කෝපි කෝප්ප ගණන, ලිවීම තමන්ම විඳින හැටි වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියට ය.
+
+මේ සංවාද මාලාව උත්සාහ කරන්නේ නවකතාකරුවන්ගේ එම රහස් අඩවිය වෙත එබී බැලීමට ය.
+
+...
+
+[Data](articles/7e65e52a.json)
 
 ---
 
@@ -2205,133 +2299,5 @@ On this call, the Criminal Investigation Officers of the Sitawaka Police Divisio
 [Data](articles/f7a2632d.json)
 
 [Extended Data](ext_articles/f7a2632d.ext.json)
-
----
-
-### Cattle patients rise
-
-*2024-04-11 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195547) · `si`
-
-Kakawkel cough spreads globally, with significant increases in the Philippines, Netherlands, America, and Britain. China reports 32,380 cases and 13 deaths in the first two months, a 20% rise from last year.
-
-🟩
-
-It is reported that Kakawkel cough is spreading in several countries around the world.
-
-The annual number of cow patients and deaths worldwide, the foreign media said.
-
-In particular, the Philippines, the Philippines, Netherlands, America and Britain show that the prevalence of the disease.
-
-In the first two months of this year, 32,380 patients have been reported from China, and 13 deaths have been reported.
-
-The Chinese authorities have shown that it is 20 percent higher than last year.
-
-The number of cases of kascise patients in the Philippines has also increased significantly to a 40 percent increase over last year.
-
-◼️
-
-[Data](articles/d99d69ef.json)
-
-[Extended Data](ext_articles/d99d69ef.ext.json)
-
----
-
-### Special notification
-
-*2024-04-11 16:50:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயணம்-செய்பவர்களுக்கு-விசேட-அறிவித்தல்/175-335849) · `ta`
-
-The Police Department warns the public about a robbery gang targeting long-distance buses between Badulla and Colombo, advising passengers, drivers, and conductors to be cautious.
-
-🟩
-
-The Police Department today announced that the public will be vigilant on the robbery gang.
-
-It is customary for the gang to board a long -distance buses like ordinary passengers and loot the expensive items of passengers.
-
-So the police have asked the passengers, bus drivers and conductors to be very careful.
-
-Police said that the thefts were on the Badulla -Colombo distant bus.
-
-◼️
-
-[Data](articles/e25cc78a.json)
-
-[Extended Data](ext_articles/e25cc78a.ext.json)
-
----
-
-### Visphere's truck topples
-
-*2024-04-11 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195546) · `si`
-
-A truck carrying pilgrims in Pakistan toppled, killing 17 and injuring 38, with about 60 people on board.
-
-🟩
-
-17 people have died after reaching a truck in Pakistan.
-
-Foreign media reports that a truck carrying a group of pilgrims had been accidental.
-
-38 other people were injured in the accident and hospitalized.
-
-It is reported that there were about 60 people in the truck when the accident had been reached.
-
-◼️
-
-[Data](articles/17719543.json)
-
-[Extended Data](ext_articles/17719543.ext.json)
-
----
-
-### 2 children abusing father arrested
-
-*2024-04-11 16:36:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-பிள்ளைகள்-துஷ்பிரயோகம்-தந்தை-கைது/175-335848) · `ta`
-
-A 28-year-old man in Thambalakamam, Trincomalee, was arrested for allegedly abusing two children. The 3-year-old girl was taken to hospital by relatives, and the 5-year-old boy confessed to abuse. Both children are being treated at Trincomalee General Hospital.
-
-🟩
-
-Police said the father had been arrested on suspicion of abusing two children in the area of the Thambalakamam police division in Trincomalee.
-
-The 28 -year -old man who lives in Siraj Nagar, Thambalakamam has been arrested.
-
-The wife was admitted to the Thambalakamam hospital after his wife had gone abroad.
-
-Meanwhile, doctors have informed the police station that a three -year -old girl was taken to the hospital by relatives of the man who was shouting at the knife.
-
-Initial investigations have revealed that the police have arrested the father of a three -year -old girl after the police have investigated the investigation.
-
-At the same time, the 5 -year -old boy has confessed that the father had abused himself on the basis of a vote received by a five -year -old boy.
-
-The 28 -year -old father has been arrested on suspicion and has taken steps to bring the suspect to the Kantalai court.
-
-...
-
-[Data](articles/76c51c73.json)
-
-[Extended Data](ext_articles/76c51c73.ext.json)
-
----
-
-### Meeting between landlords and northern governor
-
-*2024-04-11 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180990) · `ta`
-
-Landlords in Keppapula, Mullaitivu, met with the Northern Governor to discuss land protests. The Governor is investigating the issue.
-
-🟩
-
-The owners of the land acquired by the military in Keppapula in Mullaitivu district met with the Governor of the Northern Province today.
-
-The people were engaged in a series of protests to release their own lands in the Mullaitivu Keppapula.
-
-Thus met the governor today. The governor said he was investigating his problems.
-
-◼️
-
-[Data](articles/3d3735a4.json)
-
-[Extended Data](ext_articles/3d3735a4.ext.json)
 
 ---

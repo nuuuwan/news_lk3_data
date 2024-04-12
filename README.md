@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 08:18:25**
+As of **2024-04-12 08:33:58**
 
 ## Newspaper Stats
 
-*Scraped **18,541** Articles*
+*Scraped **18,542** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 2,167
 adaderanalk | 2,220
 virakesarilk | 2,767
 dailymirrorlk | 2,827
-adaderanasinhalalk | 3,002
+adaderanasinhalalk | 3,003
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,539 (100.0%) of 18,541 articles have been extended.
+18,541 (100.0%) of 18,542 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### නිවසක් කොල්ලකෑ කල්ලියක් හසුවෙයි
+
+*2024-04-12 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195558) · `si`
+
+රාත්‍රී කාලයේදී නිවසකට ඇතුළුවූ පිරිසක් නිවැසියන් බියගන්වා මුදල් සහ දේපොළ කොල්ලකෑමේ සිද්ධියක් අලවාකුඹුර ප්‍රදේශයෙන් වාර්තා විය.
+
+සිද්ධිය වන අවස්ථාවේ නිවසේ හිමිකරුගේ බිරිඳ පමණක් සිට ඇති අතර කොල්ලකරුවන් ඇයට පහරදී ඇයව බියගන්වා කොල්ලය සිදුකර ඇත.
+
+සුදු පැහැති වෑන් රථයකින් පැමිණ තිබූ සැකකරුවන් සහ සැකකාරියක් ඉකුත් 10 වනදා මෙම කොල්ලය සිදුකර තිබුණි.
+
+පසුව මාර්ග බාධකයකදී සැකපිට පිරිස අත්අඩංගුවට ගැනීමට මහියංගනය පොලීසිය සමත් විය.
+
+ඒ අනුව සිදුකළ වැඩිදුර විමර්ශනයේදී අදාළ කොල්ලයට පිළිබඳ තොරතුරු හෙළිවී තිබේ.
+
+◼️
+
+[Data](articles/ae92494b.json)
+
+---
 
 ### Russian House in Colombo hosts int’l documentary film festival ‘RT.Doc: Time of Heroes’
 
@@ -47,6 +67,8 @@ Among the guests were Russian Ambassador to Sri Lanka Levan Dzhagaryan, accompan
 ◼️
 
 [Data](articles/ad42ca58.json)
+
+[Extended Data](ext_articles/ad42ca58.ext.json)
 
 ---
 
@@ -230,23 +252,29 @@ Rare bird species and wild animals at the Horton Plains National Park in the sum
 
 ---
 
-### අලි නිදා සිටින අයුරු ඔබ දැක තිබෙනවා ද?
+### Have you seen the elephants are sleeping?
 
 *2024-04-12 02:13:24* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c136znzn1vvo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, සාමාන්‍යයෙන් ශරීරය ප්‍රමාණයෙන් විශාල ක්ෂීරපායි සතුන්ට වඩා කුඩා ක්ෂීරපායි සතුන්ගේ නිදන කාලය වැඩිය.
+Elephants sleep 2-6 hours daily. In zoos, they sleep 4-6 hours. Professor Paul Manger studies elephant sleep.
 
-අලි ඇතුන් බොහෝ දෙනෙකු දක්නට තිබුණ ද ඔවුන් නිදා සිටින අයුරු දක්නට ලැබෙන්නේ කලාතුරකිනි.
+🟩
 
-අලි පිළිබඳ පර්යේෂකයෙකු වන මහාචාර්ය පෝල් මැන්ගර් පවසන පරිදි ක්ෂීරපායි සතුන් අතරින් ඉතාමත් කෙටි නින්දක් ලබන සත්ත්වයා අලියා ය.
+It contains nothing here.Video header, usually the body is more than large mammal animals than large mammals.
 
-ස්වාභාවික පරිසරයේ දී අලි ඇතුන්ගේ විවේක කාලය දිනකට පැය දෙකකට පමණ සීමා වේ. නමුත් සත්වෝද්‍යාන තුළ වෙසෙන අලි ඇත්තු දිනකට පැය 4 - 6ක් අතර කාලයක් නින්දේ විවේකීව ගත කරති.
+Although many elephants have seen, they are rarely seen.
 
-සාමාන්‍යයෙන් ශරීරය ප්‍රමාණයෙන් විශාල ක්ෂීරපායි සතුන්ට වඩා කුඩා ක්ෂීරපායි සතුන්ගේ නිදන කාලය වැඩිය.
+Professor Paul Manger, a researcher about Ali, is a very small sleep of mammals, according to Professor Paul Manger.
+
+In the natural environment, the lifes of elephants are limited to about two hours a day. But elephants living in zoos live in sleep for 4 - 6 hours a day.
+
+Generally, the body is more of the bedtime of animals than large mammals.
 
 ◼️
 
 [Data](articles/980cf529.json)
+
+[Extended Data](ext_articles/980cf529.ext.json)
 
 ---
 
@@ -2335,23 +2363,5 @@ UNP Deputy Leader and Senior Presidential Advisor Ruwan Wijewardene met the Chie
 [Data](articles/0d94704c.json)
 
 [Extended Data](ext_articles/0d94704c.ext.json)
-
----
-
-### 23 year old youth ends up having his testicles removed
-
-*2024-04-11 10:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/23-year-old-youth-ends-up-having-his-testicles-removed/108-280618) · `en`
-
-Medawachchiya, April 11 (Daily Mirror)- The testicles of a young man had been removed yesterday at the Anuradhapura Teaching Hospital allegedly as a result of a police assault. He is under treatment at present after the surgery on Tuesday (9).
-
-It is alleged that six officers of the Medawachchiya police had trussed up his hands and brutally assaulted him. The 23 year old victim a resident of Thulawellia area in Medawachchiya.
-
-He told the media that he was driving his mini- lorry after repairs with another on board and that he passed the traffic check point and proceeded to a distance of about a kilometer when a police motorcycle overtook and obstructed their way and ordered them to halt.
-
-...
-
-[Data](articles/5d965e80.json)
-
-[Extended Data](ext_articles/5d965e80.ext.json)
 
 ---

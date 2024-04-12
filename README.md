@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 10:04:20**
+As of **2024-04-12 10:18:25**
 
 ## Newspaper Stats
 
-*Scraped **18,552** Articles*
+*Scraped **18,553** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 214
 newsfirstlk | 363
 islandlk | 1,016
 dailyftlk | 1,018
-economynextcom | 1,036
+economynextcom | 1,037
 adalk | 1,554
 tamilmirrorlk | 2,169
 adaderanalk | 2,221
@@ -26,31 +26,41 @@ adaderanasinhalalk | 3,004
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,549 (100.0%) of 18,552 articles have been extended.
+18,552 (100.0%) of 18,553 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### STF வீரர்  மீது தாக்குதல்: இளைஞன் கைது
+### STF player attack: youth arrested
 
 *2024-04-12 09:53:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/STF-வீரர்-மீது-தாக்குதல்-இளைஞன்-கைது/72-335873) · `ta`
 
-குற்றச் செயல் ஒன்றுக்குத் தயாராகிக் கொண்டிருந்த நபர்களை கைது செய்ய முயன்ற விசேட அதிரடிப்படை அதிகாரி   மீது கொலைவெறித் தாக்குதல் நடத்த முயன்ற 17 வயது இளைஞனொருவர் மன்னாரில் கைது செய்யப்பட்டுள்ளார்.
+A 17-year-old youth was arrested in Mannar for allegedly killing an STF officer during a raid. The youth, a relative of the suspect, attacked the officer with a sword. The STF seized three swords and 500 mg of ice from the suspect. The officer was injured and taken to the hospital. The youth, a student, was handed over to the police for legal action.
 
-குறித்த சம்பவமானது, மன்னார் பெரிய கரிசல் பிரதேசத்தில் புதன்கிழமை (11) மாலை நடைபெற்றது.
+🟩
 
-குற்றச் செயல் ஒன்றைப் புரிவதற்காக தயார் நிலையில் இருந்த நபர் ஒருவரை கைது செய்வதற்காக விசேட அதிரடிப்படையினர் மன்னார் பெரிய  கரிசல் பிரதேசத்தில் திடீர் சுற்றிவளைப்பு நடத்தியுள்ளனர்.
+A 17 -year -old youth has been arrested in Mannar for allegedly assassinating a Special Task Force officer who tried to arrest the persons who were preparing for a crime.
 
-இதன் போது குறித்த சந்தேக நபரிடமிருந்து கூரிய வாள் மூன்று கூறிய கத்திகள் மற்றும் 500 மில்லிகிராம் ஐஸ் போதைப் பொருள் என்பன கைப்பற்றப்பட்டுள்ளன.
+The incident took place on Wednesday evening (11) evening in the Mannar Periya Karisal area.
 
-குறித்த சந்தர்ப்பத்தில் கைது செய்யப்பட்ட நபரின் உறவினரான  17 வயது இளைஞன் ஒருவர் கூரிய கத்தியால் விசேட அதிரடிப்படையினர் மீது கொலைவெறித் தாக்குதலை நடத்த முயன்றதையடுத்து அவரும் கைது செய்யப்பட்டுள்ளார்.
+Special Task Force (STF) has carried out a raid in the Mannar Periyar Karisal area to arrest a man who was ready to commit a crime.
 
-இதன் போது காயத்திற்கு உள்ளான விசேட அதிர அதிரடிப்படை வீரர் ஒருவர் காயமடைந்து மன்னார் பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+During this time, three stupid swords and 500 milligrams of ice were seized from the suspect.
 
-...
+A 17 -year -old youth, a relative of the man, has been arrested after trying to carry out a murderous attack on a special troop for a specialist.
+
+A Special Task Force soldier was injured and admitted to the Mannar General Hospital.
+
+Special Task Force said the two suspects were handed over to the Mannar Police Station for further legal action.
+
+The 17 -year -old youth arrested is also a student who goes to school.
+
+◼️
 
 [Data](articles/3e62a400.json)
+
+[Extended Data](ext_articles/3e62a400.ext.json)
 
 ---
 
@@ -72,6 +82,8 @@ Meanwhile, the Road Development Authority (RDA) said the income generated by the
 
 [Data](articles/24734a33.json)
 
+[Extended Data](ext_articles/24734a33.ext.json)
+
 ---
 
 ### Chicken retail prices increased
@@ -87,6 +99,28 @@ A selling price of Rs. 1,300 was recorded for skinless chicken and curry chicken
 ◼️
 
 [Data](articles/dd32416f.json)
+
+[Extended Data](ext_articles/dd32416f.ext.json)
+
+---
+
+### Sri Lanka Yukthiya operations leading addicts to seek Ayurveda high
+
+*2024-04-12 09:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-yukthiya-operations-leading-addicts-to-seek-ayurveda-high-158279/) · `en`
+
+ECONOMYNEXT – A shortage of drugs due to the Yukthiya crackdown has led some addicts to look for alternative medicines, State Minister of Indigenous Medicine Sisira Jayakody said.
+
+“The shortage of pharmaceuticals has led some individuals addicted to drugs to turn to certain alternative medicines within the indigenous medical system, Jayakody said at a press briefing last week.
+
+Sri Lanka allows cannabis to be used in the manufacture of ayurvedic medicine. Raw materials in Ayurvedic medicine include several parts of the cannabis plant, as well as abin (Papaver somniferum Linn), in herbal remedies.
+
+Anecdotal evidence suggests that over-the-counter products available at shops that sell ayurveda products (sinhala beheth) provide varying degrees of relaxation or stimulation.
+
+Jayakody said a written notification has been sent to Public Security Minister Tiran Alles and the Inspector General of Police regarding the challenges faced by the indigenous medical sector due to operation ‘Yukthiya’.
+
+...
+
+[Data](articles/efdcb49c.json)
 
 ---
 
@@ -2317,41 +2351,5 @@ The child's plunge death test was held at the Panadura Base Hospital.
 [Data](articles/cbe54df7.json)
 
 [Extended Data](ext_articles/cbe54df7.ext.json)
-
----
-
-### The world's shake fraud - the entireft of $ 44 billion
-
-*2024-04-11 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195538) · `si`
-
-Vietnam's largest bank fraud trial, involving $44 billion, highlights the country's strong legal system despite communist rule. Accused are a wealthy woman and a 37-year-old businessman, with 2700 witnesses and 310 lawyers. The case involves 85 suspects, including the woman, who may face death sentences. The trial's commencement led to the deaths of two presidents and two deputy prime ministers, and legal action against over 100 officers.
-
-🟩
-
-The trial is considered as a gaining case of Vietnam.
-
-It is a trial related to the largest bank fraud in the world.
-
-Vietnam is under Communist rule. So its stronger laws function. Although a communist state, the people accused the importance of corruption society.
-
-The authorities have also acted maximum punishment for suspects involved in this bank fraud.
-
-The main suspect in this case is a wealthy woman. A 67-year-old is a 37-year-old Truna estate businessman.
-
-Her accusation is to cheat with Syigong Commercial Bank, who is considered a largest bank in Vietnam.
-
-The main accusation of her that she has been cheated on $ 44 billion over 11 years.
-
-State Counsel said they could never recover $ 27 billion.
-
-There are 2700 witnesses and 10 government lawyers and 200 other lawyers involved in this case.
-
-85 suspects including Truong My Lan, she and 13 others may be sentenced to death.
-
-...
-
-[Data](articles/bb1b3f0b.json)
-
-[Extended Data](ext_articles/bb1b3f0b.ext.json)
 
 ---

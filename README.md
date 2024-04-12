@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 19:03:29**
+As of **2024-04-12 19:18:43**
 
 ## Newspaper Stats
 
-*Scraped **18,606** Articles*
+*Scraped **18,607** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,018
 economynextcom | 1,040
 adalk | 1,554
 tamilmirrorlk | 2,170
-adaderanalk | 2,230
+adaderanalk | 2,231
 virakesarilk | 2,777
 dailymirrorlk | 2,847
 adaderanasinhalalk | 3,016
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,016
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,604 (100.0%) of 18,606 articles have been extended.
+18,606 (100.0%) of 18,607 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### India to remain Sri Lanka’s most reliable friend; offers modern defence equipment
+
+*2024-04-12 18:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98596/india-to-remain-sri-lankas-most-reliable-friend-offers-modern-defence-equipment) · `en`
+
+India on Wednesday said it is and will remain Colombo’s most reliable friend and dependable partner as it underlined that New Delhi was willing to offer modern defence equipment to friendly partner countries like Sri Lanka.
+
+Addressing the Second India-Sri Lanka Defence Seminar here, India’s High Commissioner to Sri Lanka, Santosh Jha, said that like in other areas, India and Sri Lanka were cooperating closely on security and defence matters.
+
+“Because of our geography, our security is interlinked and intertwined. And when we speak of security, we must remember that it has acquired a wider meaning than we have traditionally associated with it,” Jha said and added, after the Covid19 pandemic and impact of Russia-Ukraine conflict, it has come to include energy, health, food and even economic security.
+
+The various advanced platforms and equipment developed indigenously in India can also become viable, affordable and modern solutions for the Sri Lankan military, he said.
+
+...
+
+[Data](articles/6ff5bedf.json)
+
+---
 
 ### Ven. Gnanasara Thera not among prisoners to be released tomorrow
 
@@ -48,31 +66,41 @@ Ven. Gnanasara Thera was sentenced on March 28 to four-year-rigorous imprisonmen
 
 [Data](articles/07fc0b28.json)
 
+[Extended Data](ext_articles/07fc0b28.ext.json)
+
 ---
 
-### සුරූපී කොරියානු ගායිකා පාර්ක් බෝරම් අබිරහස් ලෙස මරුට
+### Searly Korean singer park bore is killed
 
 *2024-04-12 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195573) · `si`
 
-සුරූපී ප්‍රසිද්ධ කොරියානු ගායිකා පාර්ක් බෝරම් (Park Bo Ram) අබිරහස් ලෙස මිය ගොස් තිබේ.
+Famous Korean singer Park Boarm, 30, died mysteriously after a private party. Friends found her unconscious in the bathroom. Cause of death unknown. Park, known for her talent in Super Star K2 and the "Beautiful" song, was set to release a new song for her 10th anniversary in the music industry.
 
-30 හැවිරිදි පාර්ක් බෝරම් මිය යාමට පැය කිහිපයකට පෙර ඊයේ (11) සවස සිය මිතුරන් දෙදෙනෙකු සමග පෞද්ගලික සාදයකට සහභාගි වී ඇති අතර ඇය එහිදී මත්පැන් පානය කර තිබිණි.
+🟩
 
-පසුව ඇය එම නිවසේ නාන කාමරයට ගොස් ඇති අතර, දිගු වෙලාවක් යන තුරු නැවත නොපැමිණීම හේතුවෙන් මිතුරියන් ඇය ගැන සෝදිසි කර ඇත.
+The beautiful famous Korean singer park bock has died mysteriously.
 
-එහිදී පාර්ක් බෝරම් සිහිසුන්ව ඇද වැටී සිටින අයුරු මිතුරියන් දැක ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+A few hours before the death of the 30-year-old Park Boarm, he had attended a private party with two friends.
 
-කෙසේ වෙතත් ඇයගේ මරණයට නිශ්චිත හේතුවක් තවමත් හෙළි වී නොමැති අතර ඒ සම්බන්ධයෙන් පොලීසිය විමර්ශන ආරම්භ කර ඇති බව විදෙස් මාධ්‍ය පවසයි.
+Later, she had gone to the bathroom at the house, and the friends were scrutinized for her due to a long time.
 
-ඇයගේ නියෝජිතායතනය වන XANADU එන්ටර්ටේන්මන්ට් ආයතනය නිවේදනයක් නිකුත් කරමින් පවසා ඇත්තේ, ඇයගේ හදිසි වියෝව ලොව වටා ඇයගේ රසික රසිකාවියන් මහත් දුකට සහ කම්පාවට පත් කර ඇති බවය.
+Police investigations have revealed that friends have seen the park board unconscious.
 
-2010 වසරේ දී දකුණු කොරියාවේ පැවත්වූ සුපර් ස්ටාර් K2 තරගයට සහභාගි වූ පාර්ක් බෝරම් සිය දක්ෂතාවයන්ගෙන් ප්‍රේක්ෂකයින් විශ්මයට පත් කළාය.
+However, a specific cause of her death has not yet been revealed and police have commenced investigations.
 
-පසුව ඇය 2014 වසරේ දී  "Beautiful" නම් ගීතය එළිදක්වමින් පොප් සංගීත ක්ෂේත්‍රයට ඇතුළු වුණි.
+Her announcement, her agency Xanadu Entertainment, has said that her emergency fans around the world have been shocked and shocked around the world.
+
+In 2010, Park Barum, who participated in the Super Star K2 in South Korea, was impressed with their talents.
+
+She later launched the "Beautiful" song in 2014, and entered the pop music industry.
+
+Since then, in the music of the music that came to this day, there was a new song, but she was ready to launch a new song.
 
 ...
 
 [Data](articles/c7cff5a8.json)
+
+[Extended Data](ext_articles/c7cff5a8.ext.json)
 
 ---
 
@@ -2271,31 +2299,5 @@ He added that the details of the accident were still under investigation.
 [Data](articles/86e2f7db.json)
 
 [Extended Data](ext_articles/86e2f7db.ext.json)
-
----
-
-### At least 17 pilgrims killed, dozens injured in Pakistan bus crash
-
-*2024-04-11 19:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98579/at-least-17-pilgrims-killed-dozens-injured-in-pakistan-bus-crash) · `en`
-
-At least 17 Pakistani pilgrims have died in a bus crash while travelling to a shrine in Balochistan for Eid-al-Fitr celebrations.
-
-The accident occurred late on Wednesday officials say, when the vehicle lost control before falling into a ravine.
-
-More than 40 are also being treated for injuries in Karachi and police have warned casualties could rise.
-
-High-fatality crashes are common in Pakistan, often caused by driver error and poorly maintained roads.
-
-Balochistan Chief Minister Sindh Murad Ali Shah told reporters that two children were among the injured, and that at least five people had sustained serious head injuries.
-
-“They were all very poor people,” he said of the victims, describing them as labourers who had been travelling by truck from the Thatta region in the country’s south, to visit a Sufi Muslim temple in the remote city of Khuzdar some 500km (310 miles) away.
-
-He added that the details of the accident were still under investigation.
-
-...
-
-[Data](articles/a1315527.json)
-
-[Extended Data](ext_articles/a1315527.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 16:03:58**
+As of **2024-04-12 16:18:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,011
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,584 (100.0%) of 18,586 articles have been extended.
+18,586 (100.0%) of 18,586 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -173,6 +173,8 @@ The SLPP, at its executive committee meeting, decided to initiate disciplinary a
 ◼️
 
 [Data](articles/3e12af29.json)
+
+[Extended Data](ext_articles/3e12af29.ext.json)
 
 ---
 
@@ -588,21 +590,31 @@ The Bathbinder Organization said that although Sri Lanka granted the right to fi
 
 ---
 
-### 'මට අපායක් වූ මියන්මාරයේ සයිබර් වහල් කඳවුර'
+### 'My Cyber slave camp in Myanmar, who was hell
 
 *2024-04-12 09:57:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51n5ne95ddo) · `si`
 
-අවවාදය යි: ඇතැම්  පාඨකයින්‌ට පීඩාකාරී විය හැකි ලිංගික ප්‍රචණ්ඩත්වය ඇතුළු ප්‍රචණ්ඩත්වයට අදාළ තොරතුරු මෙහි ඇතුළත් විය හැකි ය. මේ සඳහා සහභාගි වූ එක් පුද්ගලයෙකුගේ අනන්‍යතාව ආරක්ෂා කිරීම සඳහා ඔහුගේ නම - රවී - ලෙස වෙනස් කර තිබේ.
+Ravi, a 24-year-old Sri Lankan, was abducted in Myanmar and forced into a cyber slave camp run by a Chinese gang. He was tricked into investing in fake online trading platforms, leading to his capture. Ravi was tortured and sexually assaulted, and after escaping, he faced further challenges in returning home.
 
-"උන් මගේ ඇඳුම් ගලවලා, මාව පුටුවක ඉන්දවලා, මගේ කකුලට කරන්ට් එක ඇල්ලුවා. මට හිතුණෙ ඒක මගේ ජීවිතේ අවසානය කියලා."
+🟩
 
-රවී, තොරතුරු තාක්ෂණ ක්ෂේත්‍රයේ රැකියාවක් කිරීමට තායිලන්තයට ගොස් තිබූ නමුත් බැංකොක්හි දැවැන්ත කාර්යාල ගොඩනැගිල්ලක වාඩි වී සිටිනවා වෙනුවට 24 හැවිරිදි එම ශ්‍රී ලාංකිකයා මියන්මාරයේ අඳුරු ස්ථානයක සිරවී සිටියේ ය.
+Previous: Some readers may include information related to violence, including sexual violence that may be stressful. His name is - Ravi has been changed to protect the identity of one person who participated in this.
 
-ඔහු පැහැරගෙන ගොස් තායිලන්ත දේශ සීමාවේ පිහිටි නගරයක් වන මේ සොට් (Mae Sot) ආසන්නයේ ඇති ගංගාව හරහා ගෙන ගොස් මිනිස් ජාවාරමකට හසු කරගෙන තිබිණි.
+"They Saved my Clothes, I've caught the stupid to my leg. I thought it was the end of my life. "
+
+Ravi was gone to Thailand, but instead of sitting at Bangkok, 24-year-old Sri Lankan was stuck in a dark place in Myanmar.
+
+He was abducted and a city at Thai border was taken through the river near the MAE SOT.
+
+There he said, he had sold a gang by a number of camps operated by the Chinese language gang that runs online fraud. They are deployed as racketeering, fake online identities, and employ the isolated men in the United States and Europe.
+
+They prompt targeted people to invest a large amount of money on pseudo-online trading platforms, promising to benefit quickly.
 
 ...
 
 [Data](articles/bfde6ed6.json)
+
+[Extended Data](ext_articles/bfde6ed6.ext.json)
 
 ---
 

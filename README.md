@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 14:34:47**
+As of **2024-04-12 14:51:41**
 
 ## Newspaper Stats
 
-*Scraped **18,572** Articles*
+*Scraped **18,575** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 163
 bbccomsinhala | 194
-dbsjeyarajcom | 214
+dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,016
 dailyftlk | 1,018
@@ -19,18 +19,58 @@ adalk | 1,554
 tamilmirrorlk | 2,169
 adaderanalk | 2,226
 virakesarilk | 2,774
-dailymirrorlk | 2,835
-adaderanasinhalalk | 3,009
+dailymirrorlk | 2,836
+adaderanasinhalalk | 3,010
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,570 (100.0%) of 18,572 articles have been extended.
+18,572 (100.0%) of 18,575 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### SLPP to take disciplinary action against GL, others
+
+*2024-04-12 14:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-to-take-disciplinary-action-against-GL-others/108-280647) · `en`
+
+Colombo, April 12 (Daily Mirror) - The Sri Lanka Podujana Peramuna (SLPP) is to take disciplinary action against MP Prof. G.L. Peiris and others who have signed an agreement with the Samagi Jana Balawegaya (SJB).
+
+These MPs were elected to Parliament on the SLPP ticket. Later, they defected from the party and sat in opposition. A week ago, they signed an electoral pact with the main opposition, the SJB.
+
+The SLPP, at its executive committee meeting, decided to initiate disciplinary action against them for signing an agreement with another party while being members elected on its ticket at the last election.
+
+◼️
+
+[Data](articles/ec05b715.json)
+
+---
+
+### හබරණ හුරුළු රක්ෂිතයේ වන විනාශයක්
+
+*2024-04-12 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195567) · `si`
+
+මෙරටට ආවේණික ශාක විශාල ප්‍රමාණයක් පිහිටා තිබෙන සහ සතුන් විශාල ප්‍රමාණයක් වාසය කරන හබරණ හුරුළු රක්ෂිතයේ සිදුකෙරෙන අනවසර කැණීමක් පිළිබඳව අද දෙරණ උකුස්සාට තොරතුරු වාර්තා වුණි.
+
+හබරණ හුරුළු රක්ෂිතය අනුරාධපුර සහ පොළොන්නරු දිස්ත්‍රික්කවල හෙක්ටයාර 25,000ක් පුරා පැතිරී තිබෙන ස්වභාව සෞන්දර්යෙන් අනූන වූ රක්ෂිතයකි.
+
+1977 වර්ෂයේදී මෙම රක්ෂිතය අන්තර්ජාතික ජෛව ගෝල රක්ෂිතයක් ලෙස නම් කළ අතර 2007 වර්ෂයේදී වන සංරක්ෂණ දෙපාර්තමේන්තුව මෙම රක්ෂිතයෙන් හෙක්ටයාර 1000ක භූමි ප්‍රමාණයක් පාරිසරික උද්‍යානයක් ලෙසට ප්‍රකාශයට පත්කර තිබේ.
+
+කෙසේවෙතත් මෙම රක්ෂිතයේ එම භූමි ප්‍රදේශයේ කලක පටන් අවිධිමත් අයුරින් භූමියේ කැණීම් සිදුකරන බවට අද දෙරණ උකුස්සාට තොරතුරු අනාවරණ වුණි.
+
+ඒ අනුව අද දෙරණ උකුස්සා දඹුල්ල පොලිස් විශේෂ කාර්ය බළකා නිලධාරින් ද සමග අදාළ රක්ෂිතයට ගියේ මේ සම්බන්ධයෙන් සෙයාබැලීම සඳහාය.
+
+අප එම ස්ථානයට ළඟාවන විටත් පිරිසක් අදාළ රක්ෂිත භුමියේ කැණීම් සිදුකරමින් තිබුණි.
+
+අනතුරුව කැණීම්  බලපත්‍රය පිළිබඳව අප විමසූ විට ඔවුන් සඳහන් කළේ ඒ සම්බන්ධයෙන් දිසා වනජීවි නිලධාරියාගෙන් විමසිය යුතු බවය.
+
+...
+
+[Data](articles/9295a066.json)
+
+---
 
 ### Advisory issued for evening thundershowers and severe lightning
 
@@ -45,6 +85,8 @@ Members of the public are advised to take adequate precautions to minimize damag
 ◼️
 
 [Data](articles/09fdc2d1.json)
+
+[Extended Data](ext_articles/09fdc2d1.ext.json)
 
 ---
 
@@ -61,6 +103,8 @@ Accordingly, a total of 917 prisoners, including 896 male prisoners and 21 femal
 ◼️
 
 [Data](articles/949294a1.json)
+
+[Extended Data](ext_articles/949294a1.ext.json)
 
 ---
 
@@ -925,6 +969,20 @@ Rare bird species and wild animals at the Horton Plains National Park in the sum
 [Data](articles/d77681da.json)
 
 [Extended Data](ext_articles/d77681da.ext.json)
+
+---
+
+### 
+
+*2024-04-12 05:03:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83902) · `en`
+
+“Siva Senai”(Siva’s Army) Leader Sachithananthan Weakens Tamil Nationalism by Widening the Hindu-Christian  Divide.
+
+Current media coverage in Sri Lanka is heavily focused on the forthcoming Presidential elections. Though officially not announced yet, it seems a foregone conclusion that the presidential poll would take place later this year. Several potential candidates ranging from incumbent president Ranil Wickremesinghe to   media magnate Dilith Jayaweera are tipped to be in the presidential fray.
+
+...
+
+[Data](articles/d92322bd.json)
 
 ---
 
@@ -2295,75 +2353,5 @@ He said the vegetable prices, which increased rapidly about a month ago and the 
 [Data](articles/6a078013.json)
 
 [Extended Data](ext_articles/6a078013.ext.json)
-
----
-
-### Japan extends grant to strengthen facilities at BIA and Colombo Port
-
-*2024-04-11 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98574/japan-extends-grant-to-strengthen-facilities-at-bia-and-colombo-port) · `en`
-
-The Government of Japan has provided a grant of USD 8.4 million through the International Organization for Migration (IOM) to strengthen PoE facilities in Sri Lanka and the Maldives.
-
-The grant component for Sri Lanka aims to strengthen capacities at the Bandaranaike International Airport (BIA) and the Colombo Port which are vital gateways to the island nation, to be future-ready for responding to any public health emergencies such as pandemics and infectious diseases.
-
-The event for handing over the first part of the donation took place on Wednesday (10) at the BIA.
-
-Under this initiative, BIA and Colombo Port are set to receive cutting-edge equipment and facilities, including advanced baggage scanners, full body scanners, Automated Border Control (ABC) gates equipped with a Face Recognition System (AFRS), full-page e-passport scanners, and biometric-based access control systems.
-
-...
-
-[Data](articles/b9c32c54.json)
-
-[Extended Data](ext_articles/b9c32c54.ext.json)
-
----
-
-### Tesla arrow ewn meal
-
-*2024-04-11 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195541) · `si`
-
-Tesla's EV factory investment in India aims to reduce import taxes, with Indian PM visiting for talks.
-
-🟩
-
-An ewn meat, Indian Prime Minister, who is considered the world, is to arrive in India to visit India to visit India.
-
-The purpose of his visit was reported that the purpose of investing a Tesla factory was to reach an agreement.
-
-India was the significant reduction of electrical imports tax last week.
-
-Investing more than $ 500 million and the importation of electric vehicles can be imported for automobile manufacturing companies.
-
-Tesla, the head of Tesla, 2021 said that the company's vehicles were disrupted in India's vehicles due to heavy import taxes.
-
-◼️
-
-[Data](articles/4f4d7d37.json)
-
-[Extended Data](ext_articles/4f4d7d37.ext.json)
-
----
-
-### Three arrests with sword and handguns in Maradana
-
-*2024-04-11 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/180978) · `ta`
-
-In Maradana, three suspects aged 18, 34, and 47, from Colombo 10, were arrested with a T-56 rifle, 14 bullets, and a sword, found in Banana Fort, Colombo.
-
-🟩
-
-Police Special Task Force (STF) said that three persons have been arrested in Maradana area with a T-56 rifle and 14 bullets hidden in the Banana Fort area in Colombo.. .
-
-Three suspects have been arrested during a raid on Wednesday (10) near a house behind the Sri Bodhirajarama Vihara, which belongs to the Maradana police division.
-
-In addition, they have been seized from the travel bag at the back of the roof of the house in the back of the Sri Bodhirajarama Vihara.
-
-The three arrested suspects are aged 18, 34 and 47, living in Colombo 10 area, the Special Task Force said.
-
-◼️
-
-[Data](articles/35d1901a.json)
-
-[Extended Data](ext_articles/35d1901a.ext.json)
 
 ---

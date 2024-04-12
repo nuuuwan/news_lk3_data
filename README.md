@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 10:52:28**
+As of **2024-04-12 11:03:59**
 
 ## Newspaper Stats
 
-*Scraped **18,555** Articles*
+*Scraped **18,557** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,90 @@ dailyftlk | 1,018
 economynextcom | 1,037
 adalk | 1,554
 tamilmirrorlk | 2,169
-adaderanalk | 2,221
+adaderanalk | 2,222
 virakesarilk | 2,770
 dailymirrorlk | 2,832
-adaderanasinhalalk | 3,004
+adaderanasinhalalk | 3,005
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,553 (100.0%) of 18,555 articles have been extended.
+18,555 (100.0%) of 18,557 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### இந்தியாவில் மீண்டும் பேசுபொருளாகியுள்ள கச்சதீவு – தேர்தல் பிரச்சாரத்தை நோக்கமாக கொண்டது என பாத்பைன்டர்  அமைப்பு கருத்து
+### Sri Lanka, Kazakhstan seek to boost bilateral cooperation in many sectors
+
+*2024-04-12 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98587/sri-lanka-kazakhstan-seek-to-boost-bilateral-cooperation-in-many-sectors) · `en`
+
+Sri Lanka and Kazakhstan have successfully concluded the second round of Foreign Office Consultations in Astana on Thursday (11).
+
+The Sri Lanka delegation was led by Foreign Secretary Aruni Wijewardane while the Kazakh delegation was led by Deputy Minister of Foreign Affairs of Kazakhstan Alibek Bakayev.
+
+On high-level bilateral visits, the Kazakhstan delegation invited President Ranil Wickremesinghe to undertake an official visit to Kazakhstan. A visit by Foreign Minister Ali Sabry to participate in the Astana International Forum in June 2024 was also confirmed.
+
+With respect to bilateral cooperation, trade, tourism, energy, transport and logistics were prioritized. It was acknowledged that the resumption of direct charter flights by Air Astana to Sri Lanka has contributed to increasing tourist arrivals from Kazakhstan to Sri Lanka and the two sides will explore a reciprocal visa-free arrangement for normal passport holders.
+
+...
+
+[Data](articles/2db1bdc7.json)
+
+---
+
+### බයිඩන් හමුවී ෆුමියෝ දුන් චෙරි පැළ
+
+*2024-04-12 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195561) · `si`
+
+ජපාන අග්‍රමාත්‍ය ෆුමියෝ කිෂිඩාගේ අමෙරිකානු සංචාරය අතරතුරදී චෙරි පැළ හෙවත් සකුරා පැළ කිහිපයක් අමෙරිකාවට ත්‍යාග වශයෙන් ප්‍රදානය කර තිබුණි.
+
+ජපාන අග්‍රමාත්‍ය ෆුමියෝ කිෂිඩා පසුගියදා මෙලෙස අමෙරිකාවේ සංචාරයක නිරත වුණි.
+
+එහිදී ලෝකයේ අවධානය යොමු වුණේ ජපාන අගමැතිවරයා සහ අමෙරිකානු ජනාධිපති ජෝ බයිඩන් අතර පැවති සාකච්ඡා සම්බන්ධයෙනි.
+
+මේ අතර ජපාන අගමැති ෆුමියෝ කිෂිඩා අමෙරිකාවට චෙරි පැළ එසේත් නැත්නම් සකුරා පැළ ත්‍යාග ලෙස ලබාදීම ද විදෙස් මාධ්‍ය වැඩි අවධානයක් දෙමින් වාර්තා කළේය.
+
+මේ වනවිට වොෂින්ටන්හි රෝපණය කර ඇති චෙරි ශාක ඉවත් කිරීමට සැලසුම් කර තිබේ.
+
+ඒ හේතුවෙන් නව පැළ ප්‍රදානය කෙරුණු බවද විදෙස් වාර්තා පෙන්වා දෙයි.
+
+2026 වසර වනවිට චෙරි පැළ 250ක් ප්‍රදානය කිරීම ජපානයේ සැලසුමය.
+
+ඉතිහාසයට අනුව වොෂින්ටන් හි සියැට්ල් නගරය පුරා චෙරි රෝපණය කර ඇත්තේ 1929 වසරේ දී ලන්ඩන් බලා යමින් සිටි ජපාන රාජතාන්ත්‍රිකයින් පිරිසක් විසිනි.
+
+1976 දී නැවතත් ජපානය සහ අමෙරිකාව අතර පවතින මිත්‍රත්වය සනිටුහන් කරමින් අමෙරිකාව චෙරි පැළ දහසක් ත්‍යාග කිරීමට එවක ජපාන අගමැති තකෙයෝ මිකී කටයුතු කර තිබුණි.
+
+...
+
+[Data](articles/474a96ee.json)
+
+---
+
+### Kachchativu, which is a reunion in India, is aimed at the election campaign
 
 *2024-04-12 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/181026) · `ta`
 
-கச்சதீவு விவகாரத்தை பாரதிய ஜனதா கட்சி மீண்டும் கையிலெடுத்திருப்பது  தேர்தல் பிரச்சாரம் தொடர்பான செயற்பாடு என இந்தியாவிற்கான இலங்கையின் முன்னாள் தூதுவர் மிலிந்தமொராகொடவின் பாத்பைன்டர் அமைப்பு தெரிவித்துள்ளது.
+Kachchativu, a reunion in India, is used in the election campaign by the BJP, with the BJP accusing the Congress of lingering over the issue. India seeks fishing rights in Kachchativu, but the Sri Lankan government has asked for a fisheries research center there.
 
-கச்சதீவை சுற்றியுள்ள குழப்பமான நிலை தொடர்ந்து நீடிக்கின்ற அதேவேளை இலங்கையின் புத்திஜீவிகள் அமைப்பான பாத்பைன்டர் தேர்தல் தொடர்பான பிரச்சார நடவடிக்கைகளிற்காக கச்சதீவு விவகாரம் கிளறப்பட்டுள்ளது என தெரிவித்துள்ளது.
+🟩
 
-பலதசாப்தகாலமாக இரண்டு திராவிட கட்சிகளால் ஆளப்படும் தமிழ்நாட்டில் கால்பதிப்பதற்கு பாரதிய ஜனதா தீவிர முயற்சிகளை மேற்கொண்டுள்ள நிலையில் காங்கிரஸ் கட்சி 1974ம் ஆண்டு கச்சதீவை இலங்கைக்கு தாரைவார்த்தது என நரேந்திரமோடி குற்றம்சாட்டியுள்ளார்.
+Former Sri Lanka's Ambassador to India, Milindamoragoda's Batfire, has said that the Bharatiya Janata Party (BJP) has re -taken over the Kachchativu issue.
 
-அவ்வப்போது இந்த பிரச்சினையை எழுப்புவதன் மூலம் இந்தியா கச்சதீவில் மீன்பிடிப்பதற்கான உரிமையை மீண்டும் பெற்றுக்கொள்வதற்கு முயல்கின்றது என பாத்பைன்டர் அமைப்பு தெரிவித்துள்ளது.
+While the confusion surrounding Kachchativu continues, the Kachchativu issue has been stirred for campaigning for the Sri Lankan intellectual organization Pathpainter election.
+
+Narendra Modi has accused the Congress party of lingering Kachchativu in 1974 as the Bharatiya Janata Party has been actively attempting to set foot in Tamil Nadu, which has been ruled by two Dravidian parties for a long time.
+
+India is trying to regain the right to fishing in Kachchativu by raising the issue from time to time, the Bapeynter Organization said.
+
+The Bathbinder Organization said that although Sri Lanka granted the right to fishing in the surrounding areas of Kachchativu as India wants, India does not know how India will prevent Indian fishermen from looting the natural resources of Sri Lanka.
 
 ...
 
 [Data](articles/10baedb5.json)
+
+[Extended Data](ext_articles/10baedb5.ext.json)
 
 ---
 
@@ -94,7 +148,7 @@ As a result, the state-owned bus service provider’s daily income saw an increa
 
 However, the commuters complained that they were inconvenienced due to the inadequate number of long-distance buses in operation to accommodate the high volume of passengers.
 
-Meanwhile, the Road Development Authority (RDA) said the income generated by the expressways has gone up by at least 10%.
+Meanwhile, the Road Development Authority (RDA) said the income generated by the expressways has gone up by at least 10% during the festive season, adding that it is expected to further increase in the coming days until 15 April.
 
 ◼️
 
@@ -468,21 +522,31 @@ Meanwhile, the Sri Lanka Transport Board (SLTB) said that sufficient buses were 
 
 ---
 
-### பொருத்தமான தருணம் : சஜித், அநுரவுடன் தமிழ்த் தரப்பு பேச வேண்டும் - தயான் ஜயதிலக்க
+### Appropriate moment: Sajith, Tamil party should speak with Anura- Dayan Jayatilaka
 
 *2024-04-12 06:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181012) · `ta`
 
-உள்நாட்டில் நீண்டகாலமாக அரசியலில் புரையோடிப்போயிருக்கின்ற சிங்கள, பௌத்த தேசிய இனவாதத்தினை களைவதற்கு பொருத்தமான தருணம் ஏற்பட்டுள்ள நிலையில் தமிழ் தரப்புக்கள் பிரதான போட்டியாளர்களான சஜித், அநுரவுடன் பேச்சுவார்த்தைகளை முன்னெடுக்க வேண்டும் என்று இராஜதந்திரியான தயான் ஜயதிலக்க தெரிவித்துள்ளார்.
+Diplomat Dayan Jayatilaka advises Tamil parties to engage with main rivals, Sajith and Anura, amidst Sinhalese and Buddhist communalism. He suggests against stopping a Tamil general candidate, noting the lack of public support for such a move. Despite the historical tributes by Tamil parties in presidential elections, the current attempt to unite behind a common candidate faces challenges due to differing political tendencies and the absence of unanimity. Jayatilaka emphasizes the importance of addressing long-term issues with Sajith and Anura, drawing parallels with Catalonia and Kurdishland, and advocates for strategic decision-making to leverage the current political climate.
 
-அத்துடன், தமிழர்களின் அரசியல் போக்கு அவரோணகத்தில் சென்றுகொண்டிருக்கையில், தமிழ் பொதுவேட்பாளர் ஒருவரை நிறுத்துகின்ற முயற்சியானது பொருத்தமான வியூகமாக அமையப்போவதில்லை என்றும் அவர் சுட்டிக்காட்டியுள்ளார்.
+🟩
 
-வடக்கு,கிழக்கை தளமாகக் கொண்டு செயற்படும் தமிழ் அரசியல் கட்சிகள் எதிர்வரும் ஜனாதிபதி தேர்தலில் பொதுவேட்பாளர் ஒருவரை களமிறக்குவதற்கான முஸ்தீபுகளை எடுத்துள்ள நிலையில் அதுதொடர்பில் கருத்து வெளியிடுகையிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+Diplomatic Dayan Jayatilaka has said that the Tamil parties, Sajith, should carry out talks with the main rivals, as the time when the Sinhalese and Buddhist communalism, which have long been politicized at home, have been appropriate.
 
-ஜனாதிபதி தேர்தலில் தமிழ் மக்கள் கடந்த காலங்களில் பல்வேறு உபாயங்களை முன்னெடுத்துள்ளனர். இருப்பினும் அந்த உபாயங்களால் தமிழ் மக்களுக்கு போதுமான அளவில் பிரதிபலங்கள் கிடைத்திருக்கவில்லை.
+He also pointed out that while the political tendency of the Tamils is going on, the attempt to stop a Tamil general candidate will not be appropriate.
+
+He said this while commenting on the Tamil political parties, which are based on the North and East, have taken a public candidate in the upcoming presidential election.
+
+The Tamil people have carried out various tributes in the past in the presidential election. However, the tricks have not received enough reactors to the Tamil people.
+
+Against this backdrop, Tamil political parties are trying to stop a common candidate on their next presidential election.
+
+It is a possible strategy if all parties come forward to work together on this issue.
 
 ...
 
 [Data](articles/bf9355f2.json)
+
+[Extended Data](ext_articles/bf9355f2.ext.json)
 
 ---
 
@@ -2287,53 +2351,5 @@ ADB’s growth forecast hinges on the continuation of reforms and better consume
 [Data](articles/d0a88f00.json)
 
 [Extended Data](ext_articles/d0a88f00.ext.json)
-
----
-
-### Sri Lanka Construction Guarantee Fund premiums plunges, investment income up
-
-*2024-04-11 12:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-construction-guarantee-fund-premiums-plunges-investment-income-up-158263/) · `en`
-
-ECONOMYNEXT – Premium income at Sri Lanka’s Construction Guarantee Fund plunged 87 percent in 2023 period amid a downturn in the industry but investment income was up, Fitch Ratings said, confirming the firm’s IFS rating of ‘BB(lka)’. The outlook is stable.
-
-“The government’s weak fiscal position has resulted in fewer new construction contracts, the suspension of existing projects and payment delays to contractors. This has affected CGF through a drop in premium income,” Fitch said.
-
-“Premium income plummeted by 87% in 2023 to LKR13 million on low guarantee volume amid a sluggish local construction sector.” (Colombo/Apr11/2024)
-
-Fitch Affirms Construction Guarantee Fund’s ‘BB(lka)’ National IFS Rating; Outlook Stable
-
-Fitch Ratings has affirmed Sri Lankabased Construction Guarantee Fund’s (CGF) National Insurer Financial Strength (IFS) Rating of ‘BB(lka)’. The Outlook is Stable.
-
-...
-
-[Data](articles/b4282ef5.json)
-
-[Extended Data](ext_articles/b4282ef5.ext.json)
-
----
-
-### What are your solutions for the Tamil people?Writing in the presence of foreign diplomats - Wigneswaran appeals to the majority presidential candidates
-
-*2024-04-11 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180971) · `ta`
-
-Wigneswaran calls for foreign diplomats to propose solutions to Tamil issues, criticizing majority presidential candidates for lacking progressive solutions.
-
-🟩
-
-Parliamentarian CV Wigneswaran has said that foreign diplomats should reveal their solutions to the problems faced by the Tamil people in the presence of foreign diplomats.
-
-He said that if the candidates contesting on behalf of the majority parties in the presidential election, the foreign diplomats should reveal their solutions to the problems faced by the Tamil people if they seek the support of the Tamil people.
-
-Vaswaran Morning has told Morning that if the majority candidates are to get the support of the Tamil people, the solution to the problems of the Tamil people should be informed.
-
-Wigneswaran has said that if we have the courage to tell you what to do to solve the problems of the Tamil people, we will think about supporting the candidate, ”he said.
-
-However, he said that they should write their position in the presence of foreign diplomats of countries like the US, as they can write their promises and then give up the promise.
-
-...
-
-[Data](articles/0ef68130.json)
-
-[Extended Data](ext_articles/0ef68130.ext.json)
 
 ---

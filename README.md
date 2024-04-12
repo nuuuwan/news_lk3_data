@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 11:03:59**
+As of **2024-04-12 11:18:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,005
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,555 (100.0%) of 18,557 articles have been extended.
+18,557 (100.0%) of 18,557 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,33 +48,43 @@ With respect to bilateral cooperation, trade, tourism, energy, transport and log
 
 [Data](articles/2db1bdc7.json)
 
+[Extended Data](ext_articles/2db1bdc7.ext.json)
+
 ---
 
-### බයිඩන් හමුවී ෆුමියෝ දුන් චෙරි පැළ
+### Meeting by Beidon and cherry plants that gave Fumio
 
 *2024-04-12 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195561) · `si`
 
-ජපාන අග්‍රමාත්‍ය ෆුමියෝ කිෂිඩාගේ අමෙරිකානු සංචාරය අතරතුරදී චෙරි පැළ හෙවත් සකුරා පැළ කිහිපයක් අමෙරිකාවට ත්‍යාග වශයෙන් ප්‍රදානය කර තිබුණි.
+Japanese PM Fumio Killida visited the US, focusing on discussions with President Biden. Cherry plants were presented to the US, with plans to remove existing ones and plant 250 new ones by 2026. The tradition dates back to 1929, with 1000 plants planted in 1976. A state dinner was held, with American Vice President Mahinda Rajapaksa in attendance.
 
-ජපාන අග්‍රමාත්‍ය ෆුමියෝ කිෂිඩා පසුගියදා මෙලෙස අමෙරිකාවේ සංචාරයක නිරත වුණි.
+🟩
 
-එහිදී ලෝකයේ අවධානය යොමු වුණේ ජපාන අගමැතිවරයා සහ අමෙරිකානු ජනාධිපති ජෝ බයිඩන් අතර පැවති සාකච්ඡා සම්බන්ධයෙනි.
+During the American Prime Minister Prime Minister Prime Minister Prime Minister Prime Minister Prime Minister, the Cherry planting, or Sakura plants were presented to the United States.
 
-මේ අතර ජපාන අගමැති ෆුමියෝ කිෂිඩා අමෙරිකාවට චෙරි පැළ එසේත් නැත්නම් සකුරා පැළ ත්‍යාග ලෙස ලබාදීම ද විදෙස් මාධ්‍ය වැඩි අවධානයක් දෙමින් වාර්තා කළේය.
+Japanese Prime Minister Fumio Killida recently visited the United States.
 
-මේ වනවිට වොෂින්ටන්හි රෝපණය කර ඇති චෙරි ශාක ඉවත් කිරීමට සැලසුම් කර තිබේ.
+The world focused on the discussions between the Japanese Prime Minister and the US President Joe Biden.
 
-ඒ හේතුවෙන් නව පැළ ප්‍රදානය කෙරුණු බවද විදෙස් වාර්තා පෙන්වා දෙයි.
+Meanwhile, Japanese Prime Minister Fumio Khika is the cherry plants to the United States, or foreign media reports.
 
-2026 වසර වනවිට චෙරි පැළ 250ක් ප්‍රදානය කිරීම ජපානයේ සැලසුමය.
+It is planned to remove the cherry plants planted in Washington.
 
-ඉතිහාසයට අනුව වොෂින්ටන් හි සියැට්ල් නගරය පුරා චෙරි රෝපණය කර ඇත්තේ 1929 වසරේ දී ලන්ඩන් බලා යමින් සිටි ජපාන රාජතාන්ත්‍රිකයින් පිරිසක් විසිනි.
+As a result, new plants were awarded.
 
-1976 දී නැවතත් ජපානය සහ අමෙරිකාව අතර පවතින මිත්‍රත්වය සනිටුහන් කරමින් අමෙරිකාව චෙරි පැළ දහසක් ත්‍යාග කිරීමට එවක ජපාන අගමැති තකෙයෝ මිකී කටයුතු කර තිබුණි.
+Japan's plan is to provide 250 cherry plants by 2026.
+
+According to history, cherry was planted in Ceyruntle in Washington by a Japanese diplomats in 1929.
+
+In 1976, the United States of America had been able to generate a thousand cherry sewers to mark the friendship between Japan and America again in 1976.
+
+Meanwhile, a state dinner was organized under the patronage of the Japanese Prime Minister.
 
 ...
 
 [Data](articles/474a96ee.json)
+
+[Extended Data](ext_articles/474a96ee.ext.json)
 
 ---
 

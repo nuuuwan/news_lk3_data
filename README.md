@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 18:33:48**
+As of **2024-04-12 18:51:56**
 
 ## Newspaper Stats
 
-*Scraped **18,602** Articles*
+*Scraped **18,604** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,58 @@ dailyftlk | 1,018
 economynextcom | 1,040
 adalk | 1,554
 tamilmirrorlk | 2,170
-adaderanalk | 2,229
+adaderanalk | 2,230
 virakesarilk | 2,777
 dailymirrorlk | 2,846
-adaderanasinhalalk | 3,014
+adaderanasinhalalk | 3,015
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,600 (100.0%) of 18,602 articles have been extended.
+18,602 (100.0%) of 18,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### காலநிலை தொடர்பில் விடுக்கப்பட்டுள்ள எச்சரிக்கை!
+### ජී.එල් ට එරෙහිව පොහොට්ටුවෙන් විනය ක්‍රියාමාර්ගයක්
+
+*2024-04-12 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195572) · `si`
+
+මහාචාර්ය ජී.එල් පීරිස් මන්ත්‍රීවරයාට එරෙහිව විනය ක්‍රියාමාර්ග ගැනීමට ශ්‍රී ලංකා පොදුජන පෙරමුණ තීරණය කර තිබේ.
+
+එම පක්ෂයේ විධායක සභාව මඟින් එම තීරණය ගත් බව එහි මහලේකම් සාගර කාරියවසම් මහතා පැවසුවේය.
+
+සමගි ජන බලවේගය සමග එකඟතා ගිවිසුමකට අත්සන් තැබීම හේතුවෙන් ජී.එල්. පීරිස් මන්ත්‍රීවරයාට එරෙහිව විනය ක්‍රියාමාර්ග ගැනීමට තීරණය කර ඇති බව හෙතෙම කියා සිටියේය.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ සමාජිකත්වය දරමින් වෙනත් පක්ෂ සමග ගිවිසුම්වලට එළඹෙන්නන්ට එරෙහිව ඉදිරියේ දී ද විනය ක්‍රියාමාර්ග ගැනීම සඳහා පක්ෂයේ විනය කමිටුවට බලය දුන් බව සාගර කාරියවසම් මහතා තවදුරටත් පැවසුවේය.
+
+◼️
+
+[Data](articles/a06fdca1.json)
+
+---
+
+### Warning issued in connection with climate!
 
 *2024-04-12 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181033) · `ta`
 
-இதன்படி, மேல், தெற்கு, சப்ரகமுவ, வடக்கு மற்றும் வடமேல் மாகாணங்களிலும் மொனராகலை மாவட்டத்திலும் மாலை அல்லது இரவு வேளைகளில் இடியுடன் கூடிய மழையுடன் பலத்த மின்னலுக்கான அதிக சாத்தியக்கூறுகள் காணப்படுகின்றன.
+Climate warning: High chance of heavy lightning and thunderstorms in Moneragala district, with strong winds. Take precautions to avoid accidents.
 
-இடியுடன் கூடிய மழையின் போது அந்த பகுதிகளில் தற்காலிகமாக பலத்த காற்று வீசக்கூடும்.
+🟩
 
-மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய விபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது.
+Accordingly, there are high likelihoods of heavy lightning with thunderstorms in the evening or night in the Moneragala district and in the Moneragala district.
+
+During thunderstorms, strong winds can be temporarily blowing in those areas.
+
+The Department of Meteorology has urged the people to take necessary steps to reduce accidents caused by lightning.
 
 ◼️
 
 [Data](articles/044511b2.json)
+
+[Extended Data](ext_articles/044511b2.ext.json)
 
 ---
 
@@ -86,6 +110,22 @@ The Navy said the suspects and their stock of narcotics are being brought to the
 
 ---
 
+### Two vessels carrying massive cache of narcotics intercepted off Sri Lanka
+
+*2024-04-12 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98594/two-vessels-carrying-massive-cache-of-narcotics-intercepted-off-sri-lanka) · `en`
+
+Sri Lanka Navy has intercepted two multi-day fishing trawlers carrying around 200kg of suspected heroin and crystal methamphetamine (‘Ice’) off the southern coast of the island.
+
+Ten crew members who were on board the vessels were also taken into account.
+
+They are now being escorted to the Galle Harbour and will be handed over to the respective authorities for onward investigations, the navy spokesperson added.
+
+◼️
+
+[Data](articles/3d4a21cc.json)
+
+---
+
 ### Massive cache of narcotics intercepted off southern coast of Sri Lanka
 
 *2024-04-12 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98594/massive-cache-of-narcotics-intercepted-off-southern-coast-of-sri-lanka) · `en`
@@ -117,6 +157,8 @@ They are now being escorted to the Galle Harbour and will be handed over to the 
 ◼️
 
 [Data](articles/69697c16.json)
+
+[Extended Data](ext_articles/69697c16.ext.json)
 
 ---
 
@@ -2251,53 +2293,5 @@ During this period, the Institute has decided to keep sufficient petroleum savin
 [Data](articles/3a01ce6c.json)
 
 [Extended Data](ext_articles/3a01ce6c.ext.json)
-
----
-
-### Returning the Sri Lankan economy
-
-*2024-04-11 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195550) · `si`
-
-The Asian Development Bank predicts Sri Lanka's economy will recover in 2024, after two years of contraction, with a 9% growth this year and 2% growth in 2025. Despite challenges, including a decline since 2023 and the illusion of tourism and remittances, the bank acknowledges progress in implementing remote reforms.
-
-🟩
-
-According to the Asian Development Bank's leading economic statement, Sri Lanka's economy will be populated in 2024.
-
-It shows that this situation shows this situation after two years of continuous contractions.
-
-Accordingly, the economy of Sri Lanka has increased by 9 percent this year.
-
-According to the relevant expression, the year 2025 has foretold a growth of 2 percent and 5% decimal.
-
-The Asian Development Bank (ADB) points out that the economy of the country has declined to a single targeting since the crises of 2023.
-
-The publication states that the increase in tourist arrivals and the influence of foreign remittances is also an illusion.
-
-The Asian Development Bank has stated that the progress Sri Lanka has already achieved the progress that Sri Lanka has made in the face of the implementation of the remote reforms.
-
-◼️
-
-[Data](articles/99adebdc.json)
-
-[Extended Data](ext_articles/99adebdc.ext.json)
-
----
-
-### Remainig Aswesuma payments will be made on Monday
-
-*2024-04-11 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Remainig-Aswesuma-payments-will-be-made-on-Monday/108-280625) · `en`
-
-Colombo, April 11 (Daily Mirror) - The remaining 'Aswesuma' welfare benefit payments (Rs. 2,500) of the Rs. 5 billion to 182,000 families will be paid on Monday (15) and will be completed by next Wednesday (17), Finance State Minister Ranjith Siyambalapitiya said.
-
-Addressing the media today, he said the 'Aswesuma' payments for the beneficiaries in Kegalle, Polonnaruwa, Badulla and Nuwara Eliya were stopped due to certain technical issues.
-
-After settling the remaining Aswesuma payments, the government had completed all the payments that had to be made during the Sinhala and Tamil New Year, which will be completed with the maximum management, the State Minister said.
-
-◼️
-
-[Data](articles/77f67fb6.json)
-
-[Extended Data](ext_articles/77f67fb6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 09:18:11**
+As of **2024-04-12 09:33:50**
 
 ## Newspaper Stats
 
-*Scraped **18,548** Articles*
+*Scraped **18,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 2,168
 adaderanalk | 2,220
 virakesarilk | 2,768
 dailymirrorlk | 2,831
-adaderanasinhalalk | 3,003
+adaderanasinhalalk | 3,004
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,547 (100.0%) of 18,548 articles have been extended.
+18,548 (100.0%) of 18,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### දෛනික වෙඩිතැබීම්වලට හේතුව බුද්ධි අංශ දුර්වලතා - මිහින්තලා හිමි
+
+*2024-04-12 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195559) · `si`
+
+රටේ බුද්ධි අංශ ඇතුළු සියලු ආරක්ෂක අංශවල පවතින දුර්වලතා දෛනිකව සිදුවන වෙඩිතැබීම් සහ  අපරාධ සිද්ධිවලට හේතුව බව මිහින්තලා රජමහා විහාරාධිපති පූජ්‍ය වලවාහැංගුණවැවේ ධම්මරතන හිමි පවසති.
+
+උන්වහන්සේ සඳහන් කළේ එම අංශ ශක්තිමත් කිරිමෙන් තොරව අපරාධ රැල්ල මැඩලීමේ හැකියාවක් නොමැති බවය.
+
+අනුරාධපුර ප්‍රදේශයේ පැවැති මාධ්‍ය හමුවකට එක්වෙමින් මිහින්තලා රජමහා විහාරාධිපති පූජ්‍ය වලවාහැංගුණවැවේ ධම්මරතන හිමි මේ බව පැවසීය.
+
+◼️
+
+[Data](articles/35999616.json)
+
+---
 
 ### Taylor Swift’s music back on TikTok after dispute
 
@@ -522,19 +538,25 @@ Wheat mango has been reduced by 7 rupees and reduced by 125 rupees of Netali. (A
 
 ---
 
-### 9 நாட்களில் 50, 537 சுற்றுலாப் பயணிகள்
+### 50, 537 tourists in 9 days
 
 *2024-04-12 00:38:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-நாட்களில்-50-537-சுற்றுலாப்-பயணிகள்/175-335870) · `ta`
 
-இலங்கை வரும் சுற்றுலாப் பயணிகளின் எண்ணிக்கை ஏப்ரல் மாதத்தின் முதல் 9 நாட்களில் 50 ஆயிரத்தை கடந்துள்ளது.
+Sri Lanka saw over 50,000 tourists in the first 9 days of April, surpassing 600,000 visitors in the same period last year.
 
-ஏப்ரல் மாதத்தின் முதல் 9 நாள்களில் 50 ஆயிரத்து 537 சுற்றுலாப் பயணிகள் வருகை தந்துள்ளனர் என சுற்றுலா அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+🟩
 
-இதேவேளை, ஜனவரி மாதம் முதலாம் திகதி முதல் மார்ச் மாதம் 9 ஆம் திகதி வரையான காலப்பகுதிக்குள் 6 லட்சத்து 86 ஆயிரத்து 321 பேர் நாட்டிற்கு வருகை தந்துள்ளனர். (a)
+The number of tourists coming to Sri Lanka has crossed 50 thousand in the first 9 days of April.
+
+The Tourism Development Authority said that 50 thousand 537 tourists arrived in the first nine days of April.
+
+Meanwhile, 6 lakhs 86 thousand 321 people have visited the country between January 1st to 9th March.. (A)
 
 ◼️
 
 [Data](articles/937b8629.json)
+
+[Extended Data](ext_articles/937b8629.ext.json)
 
 ---
 
@@ -2341,23 +2363,5 @@ All fuel distributors, including CPC, Sinopac, IOC, and RM Parks (Private) Limit
 [Data](articles/17e75ff7.json)
 
 [Extended Data](ext_articles/17e75ff7.ext.json)
-
----
-
-### Amnesty urges accountability for ‘unlawful use of weapons’ in policing of protests in SL
-
-*2024-04-11 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98570/amnesty-urges-accountability-for-unlawful-use-of-weapons-in-policing-of-protests-in-sl) · `en`
-
-Sri Lanka’s law enforcement officials who engaged in the violent repression of protests must be held accountable for committing widespread human rights violations, Amnesty International said in a new investigative report released on Wednesday (10).
-
-According to the rights group, the report, ‘Ready to suppress any protest in Sri Lanka: Unlawful use of weapons during protests’, has analysed the use of force during policing of 30 protests that took place in Sri Lanka between March 2022 and June 2023.
-
-Amnesty International said its research showed a pattern in the unlawful use of tear gas and water cannon and the misuse of batons by Sri Lankan law enforcement officials with video evidence revealing that in at least 17 protests – more than half of those analysed – the conduct of law enforcement officials fell well short of international law and standards on the use of force.
-
-...
-
-[Data](articles/3e7b5c20.json)
-
-[Extended Data](ext_articles/3e7b5c20.ext.json)
 
 ---

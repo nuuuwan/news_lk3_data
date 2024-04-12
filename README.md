@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 06:55:33**
+As of **2024-04-12 07:17:06**
 
 ## Newspaper Stats
 
@@ -26,33 +26,39 @@ adaderanasinhalalk | 3,000
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,529 (100.0%) of 18,531 articles have been extended.
+18,531 (100.0%) of 18,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### අද කාලගුණය
+### Weather today
 
 *2024-04-12 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195554) · `si`
 
-අද (12) දිනයේ නැගෙනහිර සහ ඌව පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Today, showers and thundershowers are expected in the Eastern and Uva provinces, with heavy rains in the Western and Sabaragamuwa Province, Galle, and Matara Districts. Public advised to prepare for wind and lightning.
 
-දිවයිනේ සෙසු බොහෝ ප්‍රදේශවල සවස 1.00 න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+🟩
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකිය.
+Showers or thundershowers will occur at several places in the Eastern and Uva provinces today (12).
 
-බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතී.
+Showers or thundershowers will occur after about 1.00 pm in many parts of the island.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+Some locations in the Western and Sabaragamuwa Province and in some places in the Galle and Matara Districts. Heavy rains may occur at more than 100.
 
-දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනවලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්ෂාංශ වලට සෘජුවම ඉහළින් පවතී.
+Some locations in the Western, Central, Sabaragamuwa and Uva provinces and in the Galle and Matara districts have been around the morning.
 
-අද (12) දහවල් 12:11 ට වන්චියන්කුලම්, ඕමන්ත, එරමඩු සහ තිරියායි යන ප්‍රදේශවලට හිරු මුදුන් වනු ඇත.
+The public requests the public to take necessary steps to reduce the damages caused by temporary winds and lightning caused by thunderstorms.
+
+The sun is directly above Sri Lanka at 5th April, while the sun traveled to the North.
+
+The sun will be over 12:11 (12) at 12:11 pm today.
 
 ◼️
 
 [Data](articles/2f66720c.json)
+
+[Extended Data](ext_articles/2f66720c.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ Rare bird species and wild animals at the Horton Plains National Park in the sum
 ◼️
 
 [Data](articles/d77681da.json)
+
+[Extended Data](ext_articles/d77681da.ext.json)
 
 ---
 

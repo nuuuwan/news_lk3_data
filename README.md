@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 21:18:24**
+As of **2024-04-12 21:34:05**
 
 ## Newspaper Stats
 
-*Scraped **18,619** Articles*
+*Scraped **18,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,018
 economynextcom | 1,040
 adalk | 1,554
 tamilmirrorlk | 2,172
-adaderanalk | 2,233
+adaderanalk | 2,234
 virakesarilk | 2,779
 dailymirrorlk | 2,851
 adaderanasinhalalk | 3,018
@@ -26,39 +26,73 @@ adaderanasinhalalk | 3,018
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,617 (100.0%) of 18,619 articles have been extended.
+18,619 (100.0%) of 18,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### ஞானசாரருக்கு நாளை விடுதலை இல்லை!
+### Heavy showers expected in parts of the country
+
+*2024-04-12 21:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98598/heavy-showers-expected-in-parts-of-the-country) · `en`
+
+Heavy showers about 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts in the next 36 hours, according to the Meteorology Department.
+
+Several spells of showers will occur in Northern and Eastern provinces, it said.
+
+Showers or thundershowers will occur at a few places in North-central and Uva provinces and at several places elsewhere of the island after 2.00 p.m.
+
+Misty conditions can be expected at some places in Western, Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+On the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka during 05th to 15th of April in this year.
+
+◼️
+
+[Data](articles/9363ffec.json)
+
+---
+
+### Gnanasar will not be released tomorrow!
 
 *2024-04-12 21:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/181038) · `ta`
 
-புத்தாண்டையொட்டி  நாளைய தினம் (13)  விசேட அரச மன்னிப்பின் கீழ் விடுவிக்கப்படும் கைதிகளின் பட்டியலில், கடூழியச்  சிறைத் தண்டனை அனுபவிக்கும் பொதுபல சேனா அமைப்பின் பொதுச் செயலாளர் கலபொட அத்தே ஞானசார தேரரின் பெயர் இல்லையென தெரிவிக்கப்படுகிறது.
+Gnanasara Thera, Bodu Bala Sena's General Secretary, won't be released tomorrow. He's not the PA sentenced to life, but a prison official confirmed he couldn't be released under the state pardon.
 
-இதேவேளை, அரச மன்னிப்பின் கீழ் அவரை விடுவிக்க முடியாது என சிறைச்சாலை அதிகாரி ஒருவர் தெரிவித்துள்ளார்
+🟩
+
+The name of the General Secretary of the Bodu Bala Sena Organization, Galapoda Athay Gnanasara Thera, is not the name of the PA, which is being sentenced to life imprisonment in the list of prisoners who are released under a special state pardon.
+
+Meanwhile, a prison official said he could not be released under the state pardon
 
 ◼️
 
 [Data](articles/10017385.json)
 
+[Extended Data](ext_articles/10017385.ext.json)
+
 ---
 
-### බස්නාහිර ඇතුළු ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවූ වැසි
+### Showers over 100mm in areas including Western Province
 
 *2024-04-12 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195575) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල  සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී 100 ඉක්මවූ තද වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Heavy showers exceeding 100mm in Western, Sabaragamuwa, Matara, and thundershowers in North Central, Uva, and other areas. Flooding in Western, Central, Sabaragamuwa, Uva provinces, Galle, Matara districts.
 
-උතුරු මැද සහ ඌව පළාත්වල ස්ථාන ස්වල්පයක සහ දිවයිනේ සෙසු ප්‍රදේශවල තැනින් තැන ප.ව 2න් පසුව වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+🟩
 
-මේ අතර බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේ දී මීදුම් සහිත තත්ත්වයක් පවතී.
+The Department of Meteorology announces heavy showers exceeding 100 mm in the Western and Sabaragamuwa and Matara districts.
+
+Thundershowers will develop at several places in the North Central and Uva provinces and in the other areas of the island.
+
+Meanwhile, in some places in the Western, Central, Sabaragamuwa and Uva provinces and in the Galle and Matara districts have a murder.
 
 ◼️
 
 [Data](articles/f875b0f1.json)
+
+[Extended Data](ext_articles/f875b0f1.ext.json)
 
 ---
 
@@ -2261,31 +2295,5 @@ The department further says this is not the forecast of maximum temperature. It 
 [Data](articles/832316a6.json)
 
 [Extended Data](ext_articles/832316a6.ext.json)
-
----
-
-### In Katunayake, the CID is unable to close the eyes
-
-*2024-04-11 22:28:55* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකදී-සී-අයි-ඩී-යේ-ඇස්-වහන්න-බැරි-වෙයි/11-409061) · `si`
-
-Katunayake CID arrests three businessmen smuggling electronics, including whiskey, cigarettes, and phones, from Minuwangoda and Colombo 13.
-
-🟩
-
-Three businessmen who were brought to Sri Lanka with more than Rs.Have arrested
-
-There were many electronic products, including foreign manufactured whiskey, cigarettes, cigarettes, phone devices, phone devices, telepar type, and apple type of apple.
-
-The cargo stock was taken to Sri Lanka by three businessmen from Minuwangoda Maskeliya and Colombo 13.
-
-The arrest had been made by a group of Katunayake Airport Criminal Investigations Department (CID) in the airport area outside the airport.
-
-The goods were arrested and the three businessmen who were illegally brought to Sri Lanka to Sri Lanka have been submitted to the Customs Officers.
-
-◼️
-
-[Data](articles/d293ccd6.json)
-
-[Extended Data](ext_articles/d293ccd6.ext.json)
 
 ---

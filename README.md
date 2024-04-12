@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 13:52:55**
+As of **2024-04-12 14:03:23**
 
 ## Newspaper Stats
 
-*Scraped **18,566** Articles*
+*Scraped **18,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ dailyftlk | 1,018
 economynextcom | 1,037
 adalk | 1,554
 tamilmirrorlk | 2,169
-adaderanalk | 2,224
-virakesarilk | 2,773
+adaderanalk | 2,225
+virakesarilk | 2,774
 dailymirrorlk | 2,833
-adaderanasinhalalk | 3,008
+adaderanasinhalalk | 3,009
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,566 (100.0%) of 18,566 articles have been extended.
+18,566 (100.0%) of 18,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### U.S. support for Philippines, Japan defense ‘ironclad’ - Biden says amid growing China provocations
+
+*2024-04-12 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98590/us-support-for-philippines-japan-defense-ironclad-biden-says-amid-growing-china-provocations) · `en`
+
+U.S. President Joe Biden said Thursday that U.S. defense commitment to Pacific allies was “ironclad” as he gathered Philippine President Ferdinand Marcos Jr. and Japanese Prime Minister Fumio Kishida at the White House in the midst of growing concern about provocative Chinese military action in the Indo-Pacific.
+
+The U.S. and the Philippines have had a mutual treaty in place for more than 70 years. Biden’s forceful reinforcement of the American commitment comes in the midst of persistent skirmishes between the Philippine and Chinese coast guards in the disputed South China Sea.
+
+“The United States defense commitments to Japan and to the Philippines are ironclad. They’re ironclad,” Biden said as he began three-way talks at the White House with Kishida and Marcos. “As I said before, any attack on Philippine aircraft, vessels or armed forces in the South China Sea would invoke our mutual defense treaty.”
+
+...
+
+[Data](articles/6d985d0d.json)
+
+---
+
+### ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක්
+
+*2024-04-12 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195566) · `si`
+
+ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+ඒ අනුව බස්නාහිර, දකුණ, සබරගමුව, උතුර සහ වයඹ පළාත්වලත් මොනරාගල දිස්ත්‍රික්කයේත් සවස් කාලයේ දී හෝ රාත්‍රී කාලයේ දී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇති වීමේ වැඩි හැකියාවක් පවතින බවය.
+
+ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකිය.
+
+අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/57315557.json)
+
+---
 
 ### The Central Bank reestably dollars
 
@@ -655,6 +689,26 @@ However, according to the current Amendment, all liquor stations will be opened 
 [Data](articles/a636f310.json)
 
 [Extended Data](ext_articles/a636f310.ext.json)
+
+---
+
+### பெரமுனவின் ஆதரவு வேட்பாளருக்கும் சஜித்துக்கும் இடையிலேயே போட்டி - எதிர்வு கூறுகிறார் எஸ்.பி.திஸாநாயக்க
+
+*2024-04-12 06:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/181009) · `ta`
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் பொதுஜனபெரமுனவின் ஆதரவுடன் களமிறங்கும் வேட்பாளருக்கும், ஐக்கிய மக்கள் சக்தியின் தலைவரும், எதிர்க்கட்சித்தலைவருமான சஜித் பிரேமதாசவுக்கும் இடையில் தான் பிரான போட்டி காணப்படும் என்று பாராளுமன்ற உறுப்பினர் எஸ்.பி.திஸாநாயக்க தெரிவித்துள்ளார்.
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக பலரும் வரிசையில் நிற்கின்றார்கள். வெவ்வேறு கதைகளை கூறிக் கொண்டிருக்கின்றார்கள்.
+
+அவையெல்லாம் தேர்தலில் மக்களை திசைதிருப்பி வெற்றிகளை தம்வசப்படுத்துவதற்கே ஆகும். ஆனால் கள யதார்த்த நிலைமையானது முற்றிலும் மாறுபட்டதாகவே உள்ளது.
+
+பொதுஜனபெரமுனவின் ஆதரவுடன் வேட்பாளர் ஒரு நிறுத்தப்படுவார் அல்லது பொதுஜனபெரமுனவில் இருந்து வேட்பாளர் ஒருவர் நிறுத்தப்படுவர்.
+
+அந்த வகையில் குறித்த வேட்பாளருக்கும்,  ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாசவுக்கும் இடையில் தான் பிரதான போட்டி நடைபெறவுள்ளது என்பதே எனது கணிப்பாகும்.
+
+...
+
+[Data](articles/0f71ec8b.json)
 
 ---
 
@@ -2303,77 +2357,5 @@ The police also said that these thefts happen mostly on the Badulla-Colombo long
 [Data](articles/4445cf5b.json)
 
 [Extended Data](ext_articles/4445cf5b.ext.json)
-
----
-
-### Sri Lankans in Myanmar terminated
-
-*2024-04-11 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195540) · `si`
-
-Eight Sri Lankans, previously held by Myanmar's cyber terrorist groups, have been released and handed over to the Sri Lankan embassy in Thailand. They are expected to arrive in Sri Lanka soon.
-
-🟩
-
-Myanmar's cyber terrorist groups were liberated from the clutches
-
-Sri Lanka's Ambassador in Myanmar says that the eight Sri Lankans have been handed over to the embassy in Thailand.
-
-They are due to arrive in Sri Lanka in the next few days, the Mataraera said.
-
-He also handed over to the Thailand Friendship Bridge in Myanmar this morning.
-
-Accordingly, the Sri Lankans are currently in good health and the Sri Lankan Embassy in Thailand and will be sent to Sri Lanka in the next few days.
-
-◼️
-
-[Data](articles/a8801b0d.json)
-
-[Extended Data](ext_articles/a8801b0d.ext.json)
-
----
-
-### Heavy traffic congestion due to lack of long bus services!
-
-*2024-04-11 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180974) · `ta`
-
-Due to lack of long bus services, heavy traffic congestion and inconvenience for commuters. Special public transport services launched from Wednesday to cater to those heading home ahead of New Year. Despite efforts, long-distance bus services to Pastian Mawatha and Central Bus Stand remain affected.
-
-🟩
-
-Special public transport services have been launched from Wednesday (10) to provide the necessary facilities for the people who go to their hometowns ahead of the New Year.
-
-Despite the lack of proper transport facilities this morning, people have been severely inconvenienced.
-
-The National Transport Board (SLTB) has said that 1,400 buses have been deployed and steps will be taken to serve the required amount of buses.
-
-However, long -distance bus services have been inconvenienced to passengers who traveled to Pastian Mawatha and Central Bus Stand last night.
-
-◼️
-
-[Data](articles/a489c074.json)
-
-[Extended Data](ext_articles/a489c074.ext.json)
-
----
-
-### Activist complains to Sri Lanka bribery commission on election deposit increase
-
-*2024-04-11 13:30:00* · [`economynextcom`](https://economynext.com/activist-complains-to-sri-lanka-bribery-commission-on-election-deposit-increase-158290/) · `en`
-
-ECONOMYNEXT — A civil society activist has lodged a complaint at the Committee to Investigate Allegations of Bribery or Corruption against a recent cabinet decision to increase the deposit placed by candidates contesting elections.
-
-Jamuni Kamantha Thushara, Chairman of the Citizen’s Movement Against Fraud, Corruption, and Waste, who filed the complaint, told reporters on Wednesday April 11 that the deposit has been increased by 5,200 percent, which he claimed would give “corrupt” political parties who can afford such exorbitant rates the upper hand.
-
-“With such a high amount, only corrupt political parties that engage in thievery can contest this election. An innocent person who can only manage to pay a small deposit can no longer contest,” said Thushara.
-
-“Only thieving parties will be able to contest elections in the future,” he added.
-
-Thushara also criticised the Commissioner of Elections for his support for the deposit increase citing rising election costs.
-
-...
-
-[Data](articles/ef2b36f1.json)
-
-[Extended Data](ext_articles/ef2b36f1.ext.json)
 
 ---

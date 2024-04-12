@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 18:51:56**
+As of **2024-04-12 19:03:29**
 
 ## Newspaper Stats
 
-*Scraped **18,604** Articles*
+*Scraped **18,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,84 @@ adalk | 1,554
 tamilmirrorlk | 2,170
 adaderanalk | 2,230
 virakesarilk | 2,777
-dailymirrorlk | 2,846
-adaderanasinhalalk | 3,015
+dailymirrorlk | 2,847
+adaderanasinhalalk | 3,016
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,602 (100.0%) of 18,604 articles have been extended.
+18,604 (100.0%) of 18,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### ජී.එල් ට එරෙහිව පොහොට්ටුවෙන් විනය ක්‍රියාමාර්ගයක්
+### Ven. Gnanasara Thera not among prisoners to be released tomorrow
+
+*2024-04-12 18:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ven-Gnanasara-Thera-not-among-prisoners-to-be-released-tomorrow/108-280650) · `en`
+
+Colombo, April 12 (Daily Mirror) - Bodu Bala Sena (BBS) General Secretary Ven. Galaboda Atte Gnanasara Thera is not on the list among the prisoners to be released under the special State amnesty tomorrow.
+
+An official from the Prisons Department said he cannot be released under the common amnesty.
+
+The official said that Ven. Gnanasara Thera should be released under a special amnesty by the President.
+
+Ven. Gnanasara Thera was sentenced on March 28 to four-year-rigorous imprisonment for making a hate speech against the Islam on the Kuragala Temple.
+
+◼️
+
+[Data](articles/07fc0b28.json)
+
+---
+
+### සුරූපී කොරියානු ගායිකා පාර්ක් බෝරම් අබිරහස් ලෙස මරුට
+
+*2024-04-12 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195573) · `si`
+
+සුරූපී ප්‍රසිද්ධ කොරියානු ගායිකා පාර්ක් බෝරම් (Park Bo Ram) අබිරහස් ලෙස මිය ගොස් තිබේ.
+
+30 හැවිරිදි පාර්ක් බෝරම් මිය යාමට පැය කිහිපයකට පෙර ඊයේ (11) සවස සිය මිතුරන් දෙදෙනෙකු සමග පෞද්ගලික සාදයකට සහභාගි වී ඇති අතර ඇය එහිදී මත්පැන් පානය කර තිබිණි.
+
+පසුව ඇය එම නිවසේ නාන කාමරයට ගොස් ඇති අතර, දිගු වෙලාවක් යන තුරු නැවත නොපැමිණීම හේතුවෙන් මිතුරියන් ඇය ගැන සෝදිසි කර ඇත.
+
+එහිදී පාර්ක් බෝරම් සිහිසුන්ව ඇද වැටී සිටින අයුරු මිතුරියන් දැක ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+කෙසේ වෙතත් ඇයගේ මරණයට නිශ්චිත හේතුවක් තවමත් හෙළි වී නොමැති අතර ඒ සම්බන්ධයෙන් පොලීසිය විමර්ශන ආරම්භ කර ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+ඇයගේ නියෝජිතායතනය වන XANADU එන්ටර්ටේන්මන්ට් ආයතනය නිවේදනයක් නිකුත් කරමින් පවසා ඇත්තේ, ඇයගේ හදිසි වියෝව ලොව වටා ඇයගේ රසික රසිකාවියන් මහත් දුකට සහ කම්පාවට පත් කර ඇති බවය.
+
+2010 වසරේ දී දකුණු කොරියාවේ පැවත්වූ සුපර් ස්ටාර් K2 තරගයට සහභාගි වූ පාර්ක් බෝරම් සිය දක්ෂතාවයන්ගෙන් ප්‍රේක්ෂකයින් විශ්මයට පත් කළාය.
+
+පසුව ඇය 2014 වසරේ දී  "Beautiful" නම් ගීතය එළිදක්වමින් පොප් සංගීත ක්ෂේත්‍රයට ඇතුළු වුණි.
+
+...
+
+[Data](articles/c7cff5a8.json)
+
+---
+
+### Disciplinary action from the poin against GL
 
 *2024-04-12 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195572) · `si`
 
-මහාචාර්ය ජී.එල් පීරිස් මන්ත්‍රීවරයාට එරෙහිව විනය ක්‍රියාමාර්ග ගැනීමට ශ්‍රී ලංකා පොදුජන පෙරමුණ තීරණය කර තිබේ.
+The Sri Lanka Crown Front's Executive Council, led by Secretary-General Sagara Kariyawasam, has decided to take disciplinary action against MP GL Peiris, who signed a consensus agreement with Unity Power. The disciplinary committee has been authorized by the Sri Lanka General (SLC) and other parties.
 
-එම පක්ෂයේ විධායක සභාව මඟින් එම තීරණය ගත් බව එහි මහලේකම් සාගර කාරියවසම් මහතා පැවසුවේය.
+🟩
 
-සමගි ජන බලවේගය සමග එකඟතා ගිවිසුමකට අත්සන් තැබීම හේතුවෙන් ජී.එල්. පීරිස් මන්ත්‍රීවරයාට එරෙහිව විනය ක්‍රියාමාර්ග ගැනීමට තීරණය කර ඇති බව හෙතෙම කියා සිටියේය.
+The Sri Lanka Crown Front has decided to take disciplinary action against MPs MP GL Peiris.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ සමාජිකත්වය දරමින් වෙනත් පක්ෂ සමග ගිවිසුම්වලට එළඹෙන්නන්ට එරෙහිව ඉදිරියේ දී ද විනය ක්‍රියාමාර්ග ගැනීම සඳහා පක්ෂයේ විනය කමිටුවට බලය දුන් බව සාගර කාරියවසම් මහතා තවදුරටත් පැවසුවේය.
+The party's Executive Council has taken the decision by the Secretary-General Sagara Kariyawasam.
+
+GL signs a consensus agreement with unity power. He said he had decided to take disciplinary action against MPs MP.
+
+Sagara Kariyawasam further stated that the disciplinary committee has authorized the disciplinary committee of the Sri Lanka General (SLC) with other parties.
 
 ◼️
 
 [Data](articles/a06fdca1.json)
+
+[Extended Data](ext_articles/a06fdca1.ext.json)
 
 ---
 
@@ -123,6 +173,8 @@ They are now being escorted to the Galle Harbour and will be handed over to the 
 ◼️
 
 [Data](articles/3d4a21cc.json)
+
+[Extended Data](ext_articles/3d4a21cc.ext.json)
 
 ---
 
@@ -2245,53 +2297,5 @@ He added that the details of the accident were still under investigation.
 [Data](articles/a1315527.json)
 
 [Extended Data](ext_articles/a1315527.ext.json)
-
----
-
-### Three arrested with illegal goods in Katunayake
-
-*2024-04-11 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/181000) · `ta`
-
-Three passengers from India and Dubai were arrested in Katunayake for smuggling 111 foreign liquor bottles, cigarettes, and computer devices without customs clearance.
-
-🟩
-
-Three passengers from India and Dubai were arrested in Katunayake on Thursday (11).
-
-They have been arrested in connection with the incident of bringing some goods without paying customs and notifying the customs.
-
-There 111 foreign liquor bottles, a lot of cigarettes and many computer devices were found.
-
-It is noteworthy that the suspects are resident of Colombo 13 and Maskeliya areas.
-
-◼️
-
-[Data](articles/b7e19d19.json)
-
-[Extended Data](ext_articles/b7e19d19.ext.json)
-
----
-
-### Tamil and Sinhala New Year continued fuel supply
-
-*2024-04-11 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181001) · `ta`
-
-During Sinhala Tamil New Year, CEB ensures fuel supply by importing reserves and maintaining warehouse stocks. Fuel station owners have been informed to keep reserves. Transactions by check are facilitated until the 15th for fuel purchases.
-
-🟩
-
-The Ceylon Petroleum Corporation (CEB) has said that during the Sinhala Tamil New Year celebrations, the Cebetco fuel stations have taken steps to continue the supply of fuel.
-
-In order to meet the country's fuel demand, the company has taken steps to import fuel reserves through the main terminals and maintain adequate reserves in the warehouses and all the fuel station owners have informed the maintenance of fuel reserves.
-
-Time has been granted till the 15th of this month to make the transaction by check to facilitate the purchase of the fuel of distributors.
-
-During this period, the Institute has decided to keep sufficient petroleum savings for fuel supply activities, the Petroleum Corporation said.
-
-◼️
-
-[Data](articles/3a01ce6c.json)
-
-[Extended Data](ext_articles/3a01ce6c.ext.json)
 
 ---

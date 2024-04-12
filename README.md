@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 12:52:13**
+As of **2024-04-12 13:03:19**
 
 ## Newspaper Stats
 
-*Scraped **18,561** Articles*
+*Scraped **18,564** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ dailyftlk | 1,018
 economynextcom | 1,037
 adalk | 1,554
 tamilmirrorlk | 2,169
-adaderanalk | 2,223
+adaderanalk | 2,224
 virakesarilk | 2,772
-dailymirrorlk | 2,832
-adaderanasinhalalk | 3,006
+dailymirrorlk | 2,833
+adaderanasinhalalk | 3,007
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,561 (100.0%) of 18,561 articles have been extended.
+18,561 (100.0%) of 18,564 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### මේ නැකැතට සූදානම් වෙන්න
+
+*2024-04-12 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195563) · `si`
+
+රාජ්‍ය නැකැත් කමිටුවේ නැකැත් සීට්ටුවට අනුව සිංහල අවුරුදු නැකැත් චාරිත්‍ර සිදුකරන ලෙස බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍යංශය ජනතාවගෙන් ඉල්ලා සිටී.
+
+2024 සිංහල හා දෙමළ අලුත් අවුරුදු නැකැත් වේලාවන් පිළිබඳව විවිධ මත පළවූ අතර සංස්කෘතික කටයුතු දෙපාර්තමේන්තුව පසුගියදා ජනතාවගෙන් ඉල්ලා සිටියේ රාජ්‍ය නැකැත් කමිටුව සකස් කළ නැකැත් සීට්ටුවට අනුව කටයුතු කරන ලෙසය.
+
+ඒ අනුව හෙට (13) පස්වරුවේ උදාවන 2024 සිංහල දෙමළ අලුත් අවුරුද්දට සමගාමීව හෙට පස්වරු 2.41 සිට අනිද්දා අලුයම 3.29 දක්වා පුණ්‍ය කාලය යෙදී තිබේ.
+
+◼️
+
+[Data](articles/7555e7fe.json)
+
+---
+
+### Katchatheevu made poll issue without considering India-Sri Lanka ties: Ex-Indian minister
+
+*2024-04-12 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98589/katchatheevu-made-poll-issue-without-considering-india-sri-lanka-ties-ex-indian-minister-) · `en`
+
+India’s former Union Minister Yashwant Sinha said the BJP (Bharatiya Janata Party) has made the Katchatheevu island an election issue ahead of Lok Sabha polls without thinking of its implications on the India-Sri Lanka relations.
+
+The decades-old territorial and fishing rights dispute around the Katchatheevu island is in the limelight again with the BJP and the opposition parties engaged in a war of words.
+
+Sinha, who had served as India’s finance minister, and external affairs minister, said the island falls on the Sri Lankan side of the maritime boundary.
+
+“I am extremely dismayed that no other than the prime minister of the country has raised this issue. I am aware of the fact that Katchatheevu was an island which when the maritime, international maritime line was drawn fell on the side of Sri Lanka and therefore went to Sri Lanka.
+
+...
+
+[Data](articles/2464968d.json)
+
+---
+
+### Vegetable prices increase
+
+*2024-04-12 12:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vegetable-prices-increase/108-280641) · `en`
+
+The National Consumer Front (NCF) today claimed that the retail selling price of a kilogramme of vegetables has recorded a higher value.
+
+Accordingly, a kilogramme of carrot has increased to Rs. 450, leeks to Rs. 350, beans to Rs. 430 and tomatoes to Rs. 300.
+
+Therefore, NCF Chairman Asela Sampath requested people to refrain from buying vegetables during this festive season.
+
+◼️
+
+[Data](articles/21928a08.json)
+
+---
 
 ### Woman and her paramour arrested over murder of husband
 
@@ -536,7 +586,7 @@ On the apparent northward relative motion of the sun, it is going to be directly
 
 ---
 
-### Arms manufacturers show Indian capability to Sri Lankan armed forces, military
+### Arms manufacturers show Indian capability to Sri Lankan military
 
 *2024-04-12 07:00:00* · [`economynextcom`](https://economynext.com/arms-manufacturers-show-indian-capability-to-sri-lankan-armed-forces-military-158316/) · `en`
 
@@ -2301,73 +2351,5 @@ ADB’s growth forecast hinges on the continuation of reforms and better consume
 [Data](articles/085aa757.json)
 
 [Extended Data](ext_articles/085aa757.ext.json)
-
----
-
-### Shooting on lorry that was traveling in violation of police order: one injury
-
-*2024-04-11 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/180961) · `ta`
-
-A lorry violating a police order in Toolliyatta was shot, injuring Mohamed Siam from Mapugala, Jindotta. The suspect is in Karapitiya Hospital for treatment.
-
-🟩
-
-A lorry that was traveling in Toolliyatta area in Tooleiyatha area has been shot dead by police.
-
-The incident took place at around 4.30 am on Thursday (11) in the nearby area of the Kananga Rajamaha Vihara.
-
-A group of police officers who were involved in night watching have ordered the stopping of the lorry.
-
-Police have fired a lorry that was traveling in violation of the order.
-
-The injured person is Mohamed Siam from Mapugala, Jindotta.
-
-In addition, the suspect has been admitted to the Karapitiya Hospital for treatment and further investigations are underway, police said.
-
-◼️
-
-[Data](articles/1a3e446d.json)
-
-[Extended Data](ext_articles/1a3e446d.ext.json)
-
----
-
-### Sri Lanka airport, port get scanners and smart toilets from Japan
-
-*2024-04-11 12:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-airport-port-get-scanners-and-smart-toilets-from-japan-158287/) · `en`
-
-ECONOMYNEXT – Japan has gifted Sri Lanka 8.4 million dollars worth equipment to improve operations at the Bandaranaike International Airport and the Colombo Port.
-
-“The Japanese government has arranged to provide a stock of high-tech scanning machines worth 8.4 million US dollars to the Katunayake International Airport and the Port of Colombo in order to monitor disease conditions harmful to public health such as epidemics and infectious diseases that come to this country by foreigners,” a statement by the Government Department of Information said.
-
-Scanners that detect diseases, baggage scanners, full body scanners, foreign passport scanners and a biometric access control system have been provided, under this project supported by the International Organization for Migration (IOM).
-
-The island nation has seen a rise in visitor arrivals, and the number is expected to increase, especially with the country attracting cruise ships.
-
-...
-
-[Data](articles/49c45401.json)
-
-[Extended Data](ext_articles/49c45401.ext.json)
-
----
-
-### War of words continues between Sri Lanka’s SJB, NPP on debate
-
-*2024-04-11 12:45:00* · [`economynextcom`](https://economynext.com/war-of-words-continues-between-sri-lankas-sjb-npp-on-debate-158281/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s main opposition the Samagi Jana Balawegaya (SJB) and the leftist NPP are on the warpath over a debate that each keeps challenging the other to but has yet to materialise.
-
-SJB member Bandula Bandarigoda said he believes the NPP has been avoiding the matter because the party has no plan to develop the country.
-
-“We invited the NPP first to a debate at the economic council level. Now they’re saying because it’s a presidential election, their leader Anura Kumara Dissanayake will come. Our leader gladly accepted, but this debate still hasn’t happened as they’re giving various reasons and wasting time. I think it’s because the NPP has no plan to take the country forward,” he said.
-
-NPP member and All Ceylon Farmers Federation Convener Namal Karunaratne scoffed at the suggestion of a debate.
-
-...
-
-[Data](articles/4a3f9d3e.json)
-
-[Extended Data](ext_articles/4a3f9d3e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 23:33:53**
+As of **2024-04-12 23:52:16**
 
 ## Newspaper Stats
 
-*Scraped **18,629** Articles*
+*Scraped **18,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,94 @@ newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,040
-adalk | 1,555
+adalk | 1,559
 tamilmirrorlk | 2,172
 adaderanalk | 2,237
 virakesarilk | 2,779
-dailymirrorlk | 2,854
+dailymirrorlk | 2,855
 adaderanasinhalalk | 3,020
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,629 (100.0%) of 18,629 articles have been extended.
+18,629 (100.0%) of 18,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### ජල සම්පාදනෙන් කෝටි 27 ක  අමුතු සේවක දීමනාවක්
+
+*2024-04-12 23:20:54* · [`adalk`](https://www.ada.lk/breaking_news/ජල-සම්පාදනෙන්-කෝටි-27-ක--අමුතු-සේවක-දීමනාවක්/11-409069) · `si`
+
+රාජ්‍ය ව්‍යාපාර ආයතනවල  සේවකයන්ට ආයතනයේ ලාභය මත ප්‍රසාද දීමනා හෝ දිරි දීමනා ගෙවීම පිළිබඳව අනුගමනය කළයුතු    නියමයන්ට  පටහැනිව  ජාතික ජල සම්පාදන හා ජලාපවාහන මණ්ඩලයේ සේවකයන්ට ඵලදායී දීමනා නමින් රුපියල් මිලියන 269 ක්  ලෙස ගෙවා ඇතැයි ජාතික විගණන කාර්යාලය අනාවරණය කරයි.
+
+රාජ්‍ය  ව්‍යාපාර ආයතනයක් සේවකයන්ට  දිරි දීමනා හෝ ප්‍රසාද දීමනා ගෙවිය යුත්තේ එහි   ලාභ රජයේ ඒකාබද්ධ අරමුදලට යැවීමෙන් පසුව බවට රාජ්‍ය ව්‍යාපාර දෙපාර්තමේන්තුව මගින් 2021 නොවැම්බර් 17 දා  නිකුත් කර ඇති  මෙහෙයුම් අත්පොතේ   නියම කර ඇත.
+
+එහෙත් එම නියමයට  නොසලකා  ජාතික ජල සම්පාදන හා ජලාපවාහන මණ්ඩලය මගින්   2022 වර්ෂය වෙනුවෙන්  සිය සේවකයන්ට  මෙම ඵලදායී  දීමනා ගෙවා ඇත්තේ එම ආයතනය එම වර්ෂයේ රුපියල් බිලියන  තුනක පාඩුවක් ලබා තිබියදීය.
+
+මෙම දීමනා ගෙවා ඇත්තේ එම ආයතනයේ  අධ්‍යක්ෂ මණ්ඩලයේ අනුමැතියක් ඇතිව බවද 2022 වසරට අදාලව නිකුත් කර ඇති  වාර්ෂික විගණකාධිපති වාර්තාවේ ජල සම්පාදන මණ්ඩලය පිළිබඳ  විගණන නිරීක්ෂණ යටතේ සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/7088d0fa.json)
+
+---
+
+### Belgian traveller scammed in Kalutara
+
+*2024-04-12 23:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Belgian-traveller-scammed-in-Kalutara/108-280662) · `en`
+
+Colombo, April 12 (Daily Mirror) - Tim Tense, a Belgian traveller exploring Sri Lanka, recently shared a troubling encounter from his visit to Kalutara.
+
+According to Tim, he fell victim to a scam at a local restaurant, where he was charged an exorbitant Rs. 1,000 for a single Ulundu Vadai and a cup of plain tea.
+
+In his YouTube video titled "Avoid this man in Kalutara, Sri Lanka," Tim recounted his experience. He traversed Kalutara on his own three-wheeler, soaking in the sights. Upon parking, he was approached by a Sri Lankan individual who offered to take him to a place called 'Wadani Villas Saivar Kade' for an authentic Sri Lankan food experience.
+
+The friendly local guided Tim to the restaurant, where he was served an Ulundu Vadai and plain tea, despite not planning to dine initially. As Tim enjoyed his meal, the host suggested tourist spots, which Tim politely declined, opting to explore independently.
+
+...
+
+[Data](articles/d62f58e1.json)
+
+---
+
+### ජාතික රෝහලට නවීනතම සී.ටී. ස්කෑන් යන්ත්‍රයක්
+
+*2024-04-12 23:13:35* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-රෝහලට-නවීනතම-සී-ටී--ස්කෑන්-යන්ත්‍රයක්/11-409068) · `si`
+
+කොළඹ ජාතික රෝහලේ ස්නායු ශල්‍ය වෛද්‍ය අංශයේ ස්ථාපිත කරන ලද අති නවීන තාක්ෂණයෙන් යුත් සීටී ස්කෑන් (128-Slice CT Scan)යන්ත්‍රය ප්‍රතිකාර සේවාවන් සදහා එක් කිරීම ඊයේ (11) සෞඛ්‍ය අමාත්‍යංශයේ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතාගේ ප්‍රධානත්වයෙන් සිදුවිය.
+
+රුපියල් මිලියන 220 ක වටිනාකමකින් යුත් මෙම අති නවීන සීටී ස්කෑන් යන්ත්‍රය සදහා මුදල් ප්‍රතිපාදන සෞඛ්‍ය අංශ සංවර්ධන ව්‍යාපෘතිය හරහා ආසියානු සංවර්ධන බැංකුව මගින් ලබා දී ඇත.
+
+මෙම 128-Slice CT Scan යන්ත්‍රය මගින් වේගවත්, ආරක්ෂිත වඩාත් නිවැරදි රෝග විනිශ්චය ලබාදෙන අතර, මෙමගින් පටක අතර වෙනස හඳුනා ගැනීමට සහ රෝගය තීරණය පහසු කිරීමට අවශ්‍ය රෝග විනිශ්චය දත්ත සපයයි. රෝගියාගේ අපහසුතාවයන් සහ විකිරණ නිරාවරණය අවම කරන අතරම ඉහළ මට්ටමේ රෝග විනිශ්චය නිරවද්‍යතාවයක් සහ කාර්යක්ෂමතාවයක් ද මෙම අති නවීන සීටී ස්කෑන් යන්ත්‍රය මගින් ලබාදෙයි.
+
+...
+
+[Data](articles/882bd9dc.json)
+
+---
+
+### හෙට මිලි මීටර් 100ක් ඉක්මවා වහින පැති මෙන්න
+
+*2024-04-12 22:44:43* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-මිලි-මීටර්-100ක්-ඉක්මවා-වහින-පැති-මෙන්න/11-409067) · `si`
+
+උතුරු සහ නැගෙනහිර පළාත්වල වැසි වාර කිහිපයක් හෙට දිනයේදී ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එසේම උතුරු මැද සහ ඌව පළාත්වල ස්ථාන ස්වල්පයක සහ දිවයිනේ සෙසු ප්‍රදේශවල තැනින් තැන ප.ව. 2.00 න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බවද එම දෙපාර්තමේන්තුව පවසයි.
+
+මේ අතර බස්නාහිර හා සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවත් ඇතැම් ස්ථානවල මි.මී. 100 පමණ තද වැසි ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+
+දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දින්‍වලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්ෂාංශවලට සෘජුවම ඉහලින් පවතී.
+
+හෙට දින්‍ (13) දහවල් 12:10 ට කුමුලමුනෙයි, මුරික්කන්ඩි, කෙරිදිමඩු හා තන්නියට්ටු යන ප්‍ර දේශවලට හිරු මුදුන්ව පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/937625fc.json)
+
+---
 
 ### Norway’s health minister resigns after plagiarism accusation
 
@@ -51,6 +123,18 @@ Kjerkoll said she and a co-author “did not intend to plagiarize other people�
 [Data](articles/96670f0d.json)
 
 [Extended Data](ext_articles/96670f0d.ext.json)
+
+---
+
+### මත්ද්‍රව්‍ය කිලෝ 200ක් සමග මෙරට බහුදින ධීවර යාත්‍රා දෙකක් අල්ලයි
+
+*2024-04-12 22:37:25* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-කිලෝ-200ක්-සමග-මෙරට-බහුදින-ධීවර-යාත්‍රා-දෙකක්-අල්ලයි/11-409066) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාව විසින් දකුණු මුහුදේ  සිදුකල විශේෂ මෙහෙයුමක් මඟින් හෙරොයින් සහ අයිස් බවට සැකකෙරෙන මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 200 ක පමණ තොගයක් රැගත් මෙරට බහුදින ධීවර යාත්‍රා 02ක් සමඟ සැකකරුවන් 10 ක්  අත්අඩංගුවට ගෙන ඇති අතර, එම බහුදින ධීවර යාත්‍රා 02 ක  සහ සැකකරුවන් ඉදිරි නීතිමය  කටයුතු සඳහා  ගාල්ල වරාය  වෙත රැගෙන එමින් පවතින බව නාවික හමුදාව නිවේදනය කරයි .
+
+◼️
+
+[Data](articles/2cbc96c3.json)
 
 ---
 
@@ -2209,123 +2293,5 @@ Generally, the body is more of the bedtime of animals than large mammals.
 [Data](articles/980cf529.json)
 
 [Extended Data](ext_articles/980cf529.ext.json)
-
----
-
-### Heat stroke
-
-*2024-04-12 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181008) · `ta`
-
-Heat stroke occurs when body temp rises to 104°F, affecting brain, heart, kidneys, and muscles. It's crucial for children, elders, and immune individuals to take precautions. Symptoms include red or dry skin, rapid breathing, drowsiness, fatigue, nausea, vomiting, headaches, irregular heartbeat, and confusion. Treatment involves cooling the body, checking blood sodium and potassium levels, and possibly changing lifestyle habits.
-
-🟩
-
-If the summer starts ... It is necessary to maintain their physical health with great care of children, elderly and immune people in our homes.. Because the temperature in the summer will rise and affect our head, brain, heart, kidney, muscles. Doctors advise you to take first aid and proper treatment and avoid the death toll.
-
-Elderly and Bachlang children die without being able to withstand the temperature of every summer. Doctors also say that there is no full awareness of the people about summer heat.
-
-Heat stroke is a state of urgent medical treatment. It is an urgent state of increasing the temperature of our body by 104 degrees Fahrenheit, which exceeds 40 degrees Celsius Enksha.. When we face the temperature of the sunlight, our body fails to handle it effectively at some moments. This increases the temperature of our body and causes the temperature stroke called a heat stroke.
-
-...
-
-[Data](articles/27b05f3a.json)
-
-[Extended Data](ext_articles/27b05f3a.ext.json)
-
----
-
-### RIT to Deepachelvan. Trial
-
-*2024-04-12 01:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீபச்செல்வனிடம்-ரி-ஐ-டி-விசாரணை/175-335872) · `ta`
-
-Deepachelvan, president of the Tamil National Art Literary Council, conducted an investigation into the book launch event for Naochendranathan's 'Swimming Pasturukku'.
-
-🟩
-
-The investigation was carried out by Deepachelvan, president of the Tamil National Art Literary Council for organizing a book launch event.
-
-Writer Naochendranathan's book 'Swimming Pasturukku' was recently published under the leadership of writer Deepachelvan.. Deepachelvan said the investigation was held yesterday regarding the publication of the book. (A)
-
-◼️
-
-[Data](articles/373efef5.json)
-
-[Extended Data](ext_articles/373efef5.ext.json)
-
----
-
-### Pradeep Ranganathan's new movie
-
-*2024-04-12 01:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/181007) · `ta`
-
-Pradeep Ranganathan, a Tamil hero, directs 'Komali' and stars in 'Love Today', produced by AGS. He also stars in 'Oh My God' with Aswath Marimuthu, who directed both. Their 10-year collaboration culminates in a special video, highlighting their journey from graduates to successful filmmakers.
-
-🟩
-
-Information about the new movie, which is playing the role of Pradeep Ranganathan, the hero of the Tamil fans, has been officially released as a director with 'Komali' and 'Love Today'.
-
-Pradeep Ranganathan plays the hero of the film 'Oh My God' directed by director Aswath Marimuthu directed by Aswath Marimuthu. The film is being produced by AGS. Pradeep Ranganathan is playing the role of AGS again in the film 'Love Today'.
-
-The introductory announcement has been released in the form of a special video. Pradeep Ranganathan and director Aswath Marimuthu have joined a short film ten years ago and that their dreams have come true after a decade.. Because two young graduates are united.. The expectation of the film has also increased in fans.
-
-Pradeep Ranganathan- Aswath Marimuthu- AGS is a coalition that can be observed as a gentle love and humorous work.
-
-◼️
-
-[Data](articles/0905c5fa.json)
-
-[Extended Data](ext_articles/0905c5fa.ext.json)
-
----
-
-### Mumbai Indians win the RCB
-
-*2024-04-12 00:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/181006) · `ta`
-
-Mumbai Indians won against RCB by 7 wickets in IPL 2023, thanks to Bumrah's 5-wicket haul and key contributions from Kishan, Sharma, Yadav, and Pandya. RCB scored 196/8, with Plessis and Blessis shining.
-
-🟩
-
-In the 25th match of the 17th Indian Premier League chapter held at the Mumbai Vancade Stadium on Thursday (11), Mumbai Indians won by 7 wickets in Royal Challengers Bangalore.
-
-The Mumbai Indians have won 2 successes in the first 3 matches of this year.
-
-Jasprit Bumrah's record for this year's achievement from the beginning to the end of this year's 5 wickets pile, Ishahan Kishan, Rohit Sharma, Suriyakumar Yadav and team captain Hardik Pandya, confirmed the success of Mumbai Indians.
-
-Royal Challengers Bangalore helped Royal Chellengers Bangalore scored half -centuries, despite Jasprit Bumrah recorded the 5 -wicket focal in the match, which was favorable to the batsmen.
-
-However, they were in vain by the actions of Ishan Kishan, Rohit Sharma, Suriyakumar Yadav and Hardik Pandya.
-
-Mumbai Indians lost only 3 wickets in 15.3 overs with a target of 197 runs for Royal Challengers Bangalore.
-
-Both Ishan Kishan and Rohit Sharma scored 72 runs in Power Play and shared 101 runs off 53 balls.
-
-...
-
-[Data](articles/dbfd81de.json)
-
-[Extended Data](ext_articles/dbfd81de.ext.json)
-
----
-
-### A reduction in prices of some more goods
-
-*2024-04-12 00:44:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-சில-பொருட்களின்-விலைகள்-குறைப்பு/175-335871) · `ta`
-
-Lanka Sathosa reduces prices of essential food items, including Vailai green rice to 185 rupees and Wheat mango to 125 rupees, ahead of New Year.
-
-🟩
-
-Lanka Sathosa has decided to reduce the prices of some of the essential food items ahead of the New Year's birth.
-
-Accordingly, the Vailai green rice sold for 189 rupees has been reduced by 4 rupees and its new price is 185 rupees.
-
-Wheat mango has been reduced by 7 rupees and reduced by 125 rupees of Netali. (A)
-
-◼️
-
-[Data](articles/221dd616.json)
-
-[Extended Data](ext_articles/221dd616.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 20:33:52**
+As of **2024-04-12 20:51:54**
 
 ## Newspaper Stats
 
-*Scraped **18,613** Articles*
+*Scraped **18,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,84 @@ adalk | 1,554
 tamilmirrorlk | 2,172
 adaderanalk | 2,232
 virakesarilk | 2,778
-dailymirrorlk | 2,848
+dailymirrorlk | 2,850
 adaderanasinhalalk | 3,017
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,612 (100.0%) of 18,613 articles have been extended.
+18,613 (100.0%) of 18,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### 100க்கும் மேற்பட்ட ஆளில்லா விமானங்கள் குரூஸ் ஏவுகணைகள்  கண்டங்களிற்கு இடையிலான ஏவுகணைகளை ஈரான் இஸ்ரேலிற்கு எதிரான தாக்குதலிற்கு பயன்படுத்தலாம் - சிபிஎஸ்
+### More than 100 unmanned aircraft Cruise missiles can be used for Iran's attack against Israel - CBS
 
-*2024-04-12 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/181037) · `ta`
+*2024-04-12 20:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181037) · `ta`
 
-ஈரானின் தாக்குதலை எதிர்கொள்வது குறித்து ஆராய்வதற்காக இஸ்ரேலிய பிரதமர் பெஞ்சமின் நெட்டன்யாகு முக்கிய அதிகாரிகளுடன் பேச்சுவார்த்தைகளை மேற்கொள்ளவுள்ளார்.
+Iran reportedly has over 100 unmanned aircraft capable of launching cruise missiles, posing a significant threat to Israel. Israeli PM Netanyahu is discussing the situation with officials. Tensions are high due to Iran's potential retaliation for militant attacks. US officials warn of potential attacks on Israel at any time.
 
-இஸ்ரேலின் தாக்குதலில் ஈரானின் இராணுவதளபதிகள் கொல்லப்பட்டமைக்கு பதிலடி கொடுக்கும் விதத்தில் ஈரான் எந்தவேளையிலும் இஸ்ரேல் மீது தாக்குதல் தொடுக்கலாம் என வெளியாகும் தகவல்களால் மத்திய கிழக்கில் பதட்டநிலை காணப்படுகின்றது.
+🟩
 
-எவ்வேளையிலும் இஸ்ரேல்மீதான தாக்குதல் இடம்பெறலாம் என அமெரிக்க அதிகாரிகள் சிபிஎஸ் நியுசிற்கு தெரிவித்துள்ளனர்.
+Israeli Prime Minister Benjamin Netanyaku will hold talks with key officials to investigate Iran's attack.
 
-ஈரான் 100க்கும் மேற்பட்ட ஆளில்லா விமானங்கள் குரூஸ் ஏவுகணைகள் மற்றும் கண்டங்களிற்கு இடையிலான ஏவுகணைகளை பயன்படுத்தலாம் என அமெரிக்க அதிகாரிகள் சிபிஎஸ் நியுசிற்கு தெரிவித்துள்ளனர்.
+Tensions are in the Middle East due to reports that Iran may at any time attack Israel in retaliation for the killing of Iran's militants in Israel's attack.
 
-இஸ்ரேலின் இராணுவ கட்டமைப்புகளை ஈரான் இலக்குவைக்கலாம் அதனை எதிர்கொள்வதற்கு இஸ்ரேலிற்கு மிகவும் சவாலான விடயமாக காணப்படும் எனவும் அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+US officials have told CBS News that an attack on Israel can occur at any time.
+
+US officials have informed CBS News that more than 100 unmanned aircraft Iran can use cruise missiles and inter -continental missiles.
+
+US officials have said Iran can target Israel's military structures, which is a very challenging issue for Israel to confront it.
 
 ◼️
 
 [Data](articles/3c306deb.json)
+
+[Extended Data](ext_articles/3c306deb.ext.json)
+
+---
+
+### Confusion remains if April 15 is a bank holiday
+
+*2024-04-12 20:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Confusion-remains-if-April-15-is-a-bank-holiday/108-280657) · `en`
+
+Colombo, April 12 (Daily Mirror) - People remain confused since the Ministry of Public Administration, Home Affairs and Provincial has not defined the additional holiday declared on April 15 as a banking and mercantile holiday.
+
+The gazette notification issued by the ministry only says it is a public holiday.
+
+Asking for a comment in this regard, Ministry Secretary Pradeep Yasarathne only said,” we have declared a public holiday. It is up to the relevant institutions to decide."
+
+Prodded for an answer to know whether it was a bank holiday, he said, “You just refer to the gazette notification," without elaborating further.
+
+◼️
+
+[Data](articles/77e9e6cd.json)
+
+---
+
+### Biden urged to ban China-made electric vehicles
+
+*2024-04-12 20:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Biden-urged-to-ban-China-made-electric-vehicles/108-280656) · `en`
+
+April 12 (BBC) - President Joe Biden has been urged to ban imports of Chinese-made electric cars to the US.
+
+The chair of the Senate Banking Committee, Senator Sherrod Brown, wrote "Chinese electric vehicles are an existential threat to the American auto industry".
+
+His comments are the strongest yet by any US lawmaker on the issue, while others have called for steep tariffs to keep Chinese electric vehicles (EV) out of the country.
+
+In February, the White House said the US was opening an investigation into whether Chinese cars pose a national security risk.
+
+"We cannot allow China to bring its government-backed cheating to the American auto industry", Senator Brown said in a video on the social media platform X, formerly Twitter.
+
+Senator Brown, who is a Democrat from the the car-producing state of Ohio, is seeking to win a fourth term in office in November's election.
+
+The White House did not immediately respond to a BBC request for comment.
+
+...
+
+[Data](articles/aedca9a0.json)
 
 ---
 
@@ -2267,49 +2315,5 @@ The three -day event will be held at the Salem Shanmuga Nurse Education Muttam T
 [Data](articles/daa16579.json)
 
 [Extended Data](ext_articles/daa16579.ext.json)
-
----
-
-### CPC assures uninterrupted fuel supply during Avurudu season
-
-*2024-04-11 21:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98580/cpc-assures-uninterrupted-fuel-supply-during-avurudu-season) · `en`
-
-The Ceylon Petroleum Corporation (CPC) says it has taken necessary measures to ensure an uninterrupted supply of fuel from Ceypetco filling stations during the Sinhala and Tamil New Year season.
-
-To this end, steps have been taken to maintain adequate stocks by importing fuel shipments to meet the demand, the CPC said further, adding that the filling station owners were given directives in this regard.
-
-Additionally, in a bid to ease the distributor’s fuel ordering procedures, transactions via cheques have been facilitated until 15 April.
-
-During this period, the Ceylon Petroleum Storage Terminals Ltd. will be dispatching sufficient tankers for fuel distribution activities, the CPC added.
-
-◼️
-
-[Data](articles/98dd8715.json)
-
-[Extended Data](ext_articles/98dd8715.ext.json)
-
----
-
-### Amir's election slogan. The footprint is the money ... '
-
-*2024-04-11 21:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/181003) · `ta`
-
-"Amir's election slogan highlights the importance of money. The film 'Bi Tamil', featuring songs like 'Vota' and 'Anju Anju', has gained significant attention, with over three million views for its preview and a million views for 'Anju Anju'. Directed by Adam Bawa and produced by Moon Pictures, it aims to raise awareness for voters, especially with the song 'Dyeing is Democracy'."
-
-🟩
-
-At this moment of the Indian Lok Sabha elections, the song 'Vota' and the song 'Vota Kisha ..', which has been released to raise awareness for voters in the film 'Bi Tamil', which is ready for the director and actor of the drug trafficking in the case of drug trafficking, has been released.
-
-Directed by director Adam Bawa, Aamir, Santini, Anandaraj, Iman Annachi, Rajasimman, Saravanak Shakti, Mahanadi Shankar, Subramaniam Siva, Raj Kapoor.The film, composed by 'Meldy King' Vidyasagar, has produced Adam Bawa on behalf of Moon Pictures.
-
-The film's preview has been released by over three million viewers. In addition, the song 'Anju Anju ..' featured in the film has been released on the Internet and has been a record of over a million viewers.
-
-In this case, the film was held in the film.. The second song and the lyrical video for the song has been released as the coin stretching .. '. The song is sung by politician, songwriter and actor Snegan, the playback singer Guru.
-
-...
-
-[Data](articles/b443f7f7.json)
-
-[Extended Data](ext_articles/b443f7f7.ext.json)
 
 ---

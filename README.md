@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 12:03:39**
+As of **2024-04-12 12:18:19**
 
 ## Newspaper Stats
 
-*Scraped **18,559** Articles*
+*Scraped **18,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,037
 adalk | 1,554
 tamilmirrorlk | 2,169
 adaderanalk | 2,223
-virakesarilk | 2,770
+virakesarilk | 2,772
 dailymirrorlk | 2,832
 adaderanasinhalalk | 3,006
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,006
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,558 (100.0%) of 18,559 articles have been extended.
+18,559 (100.0%) of 18,561 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Further investigations into the incident led to the arrest of the wife of the de
 ◼️
 
 [Data](articles/971fbda4.json)
+
+[Extended Data](ext_articles/971fbda4.ext.json)
 
 ---
 
@@ -69,6 +71,24 @@ He was speaking at a media briefing in Colombo, he said this.
 [Data](articles/7ea291ab.json)
 
 [Extended Data](ext_articles/7ea291ab.ext.json)
+
+---
+
+### இஸ்ரேல் மீது தாக்குதல் மேற்கொள்ளும் எண்ணத்தை ஈரான் கைவிடவேண்டும் - அவுஸ்திரேலியா
+
+*2024-04-12 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/181027) · `ta`
+
+இஸ்ரேலிற்கு எதிராக பதில் தாக்குதலை மேற்கொள்வதன் மூலம் ஈரான் மத்திய கிழக்கில் மோதல்கள் மேலும் தீவிரமடையும் நிலையை ஏற்படுத்தக்கூடாது என அவுஸ்திரேலிய வெளிவிவகார அமைச்சர் பெனிவொங் வேண்டுகோள் விடுத்துள்ளார்.
+
+சமூக ஊடக பதிவில் இந்த வேண்டுகோளை விடுத்துள்ள அவர் ஈரான் வெளிவிவகார அமைச்சருடன் பேச்சுவார்த்தைகளை மேற்கொண்டதாகவும் தெரிவித்துள்ளார்.
+
+பிராந்தியத்தில் ஸ்திரதன்மையை ஏற்படுத்துவதற்குஈரான் தனது செல்வாக்கை பயன்படுத்தவேண்டும் பதற்ற நிலையை அதிகரிக்ககூடாது எனவும் அவுஸ்திரேலிய வெளிவிவகார அமைச்சர் தெரிவித்துள்ளார்.
+
+ஈரான் இஸ்ரேலிற்கு எதிராக தாக்குதலை மேற்கொள்ளவுள்ளது என வெளியாகும் அறிகுறிகள் குறித்து அவுஸ்திரேலியா கடும் கரிசணை கொண்டுள்ளது எனவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e5b04fc4.json)
 
 ---
 
@@ -547,6 +567,24 @@ However, according to the current Amendment, all liquor stations will be opened 
 [Data](articles/a636f310.json)
 
 [Extended Data](ext_articles/a636f310.ext.json)
+
+---
+
+### தமிழ் பொதுவேட்பாளரின் பின்னணியில் ராஜபக்ஷக்களா? - கட்சியாகக் கூடித் தீர்மானிப்போம் என்கிறார் சுமந்திரன்
+
+*2024-04-12 06:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181011) · `ta`
+
+தமிழ் பொதுவேட்பாளர் ஒருவரை களமிறக்கும் நடவடிக்கைகளின் பின்புலத்தில் ராஜபக்ஷக்கள் இருக்கின்றார்களா என்ற சந்தேகம் ஏற்பட்டுள்ளதாக தெரிவித்துள்ள இலங்கைத் தமிழரசுக்கட்சியின் யாழ்.மாவட்ட உறுப்பினர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன் இந்த விடயம் சம்பந்தமாக கட்சியாக கூடித்தீர்மானிப்போம் என்றும் குறிப்பிட்டார்.
+
+தமிழ் அரசியல் பரப்பில் எதிர்வரும் ஜனாதிபதி தேர்தலில் தமிழ்பொதுவேட்பாளர் ஒருவரை களமிறக்குவதற்கான முனைப்புக்கள் செய்யப்படுவது தொடர்பில் கருத்து வெளியிடும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+தமிழ் பொதுவேட்பாளர் ஒருவரை ஜனாதிபதி தேர்தலில் நிறுத்தப்படுகின்றபோது அந்த செயற்பாட்டை மையப்படுத்தி தென்னிலங்கை தீவிரவாத, இனவாத சக்திகள் ஒன்றுசேருவதற்கான வாய்ப்புக்கள் உள்ளன. அதுமட்டுமன்றி அவ்வாறு ஒன்று சேரும் தரப்புக்கள் மீண்டும் ஆதிக்கம் செலுத்துகின்ற நிகழ்வுகளும் அரங்கேறலாம்.
+
+குறிப்பாக, தற்போதைய சூழலில் அரசியல் ரீதியாக தோற்றுப்போயிருக்கின்ற ராஜபக்ஷக்குளுக்கு கூட தமிழ் பொதுவேட்பாளர் விடயம் உயிரூட்டும் ஒரு செயலாகக்கூட மாறுவதற்கான சந்தர்ப்பங்கள் காணப்படுகின்றன.
+
+...
+
+[Data](articles/be62a53b.json)
 
 ---
 
@@ -2317,49 +2355,5 @@ NPP member and All Ceylon Farmers Federation Convener Namal Karunaratne scoffed 
 [Data](articles/4a3f9d3e.json)
 
 [Extended Data](ext_articles/4a3f9d3e.ext.json)
-
----
-
-### Japan grants aid to strengthen operations at BIA
-
-*2024-04-11 12:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japan-grants-aid-to-strengthen-operations-at-BIA/108-280622) · `en`
-
-Colombo, April 11 (Daily Mirror) - The Japanese government has granted a stock of high-tech scanners, valued at 8.4 million US dollars, to the Katunayake International Airport and the Colombo Port.
-
-In a grant from the Japanese government, a supply of scanners has been provided to monitor health issues, such as epidemics and contagious diseases harmful to public health that could be spread by foreigners in the country.
-
-The first batch of equipment under the grant aid was handed over to Ports, Shipping and Aviation Minister Nimal Siripala de Silva by the Japanese Ambassador to Sri Lanka, Mizukoshi Hideaki, at the Katunayake International Airport yesterday.
-
-The project is being implemented by the International Organization for Migration (IOM). In addition to disease-detecting scanners, baggage scanners, full-body scanners, foreign passport scanners and a biometric access control system have been provided under the project.
-
-...
-
-[Data](articles/310c3b5b.json)
-
-[Extended Data](ext_articles/310c3b5b.ext.json)
-
----
-
-### Care is needed during the purchase of prices!
-
-*2024-04-11 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/180966) · `ta`
-
-The Consumer Affairs Authority (CAA) advises consumers to be cautious when buying discounted goods during the New Year's festivals, especially clothing and home appliances. Director Sangjaya Weerasinghe warns about the quality of these discounted items and encourages filing complaints with evidence if issues arise.
-
-🟩
-
-The Consumer Affairs Authority (CAA) has stated that it will be very careful when buying goods with New Year discounts in the market during the festive season.
-
-Sangjaya Weerasinghe, Director of the Consumer Authority, said that the consumer is more interested in purchasing clothing and home appliances during the New Year's festivals.
-
-He said that during these festivals, many of the costs of prices were dismissed, he said, considering the difference in prices and the quality of the dismissed goods.
-
-In case of problems with the purchased items, he said that the Consumer Affairs Authority should lodge a complaint with evidence.
-
-◼️
-
-[Data](articles/7e868706.json)
-
-[Extended Data](ext_articles/7e868706.ext.json)
 
 ---

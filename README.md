@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 02:03:34**
+As of **2024-04-13 02:18:07**
 
 ## Newspaper Stats
 
-*Scraped **18,637** Articles*
+*Scraped **18,638** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,559
 tamilmirrorlk | 2,174
 adaderanalk | 2,237
 virakesarilk | 2,779
-dailymirrorlk | 2,855
+dailymirrorlk | 2,856
 adaderanasinhalalk | 3,020
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,637 (100.0%) of 18,637 articles have been extended.
+18,637 (100.0%) of 18,638 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -957,6 +957,24 @@ There have been a couple of deaths last year where the patients had tested posit
 [Data](articles/01403b12.json)
 
 [Extended Data](ext_articles/01403b12.ext.json)
+
+---
+
+### Two COVID-19 deaths reported from Kurunegala Teaching Hospital?
+
+*2024-04-12 17:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Two-COVID-19-deaths-reported-from-Kurunegala-Teaching-Hospital/155-280653) · `en`
+
+Colombo, April 12 (Daily Mirror) - Recent PCR tests conducted on two female patients who had passed away during treatment at the Kurunegala Teaching Hospital have confirmed to be Covid-19.
+
+According to sources, it is not yet conclusive that the deaths can be directly linked to Covid-19. The deaths had occurred yesterday (11).
+
+However, authorities have mandated quarantine measures for both patients and staff members from the ward where the individuals were receiving treatment.
+
+There have been a couple of deaths last year where the patients had tested positive for Coronavirus following their deaths.
+
+◼️
+
+[Data](articles/8ea4d267.json)
 
 ---
 
@@ -2309,35 +2327,5 @@ It is a possible strategy if all parties come forward to work together on this i
 [Data](articles/bf9355f2.json)
 
 [Extended Data](ext_articles/bf9355f2.ext.json)
-
----
-
-### Weather today
-
-*2024-04-12 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195554) · `si`
-
-Today, showers and thundershowers are expected in the Eastern and Uva provinces, with heavy rains in the Western and Sabaragamuwa Province, Galle, and Matara Districts. Public advised to prepare for wind and lightning.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Eastern and Uva provinces today (12).
-
-Showers or thundershowers will occur after about 1.00 pm in many parts of the island.
-
-Some locations in the Western and Sabaragamuwa Province and in some places in the Galle and Matara Districts. Heavy rains may occur at more than 100.
-
-Some locations in the Western, Central, Sabaragamuwa and Uva provinces and in the Galle and Matara districts have been around the morning.
-
-The public requests the public to take necessary steps to reduce the damages caused by temporary winds and lightning caused by thunderstorms.
-
-The sun is directly above Sri Lanka at 5th April, while the sun traveled to the North.
-
-The sun will be over 12:11 (12) at 12:11 pm today.
-
-◼️
-
-[Data](articles/2f66720c.json)
-
-[Extended Data](ext_articles/2f66720c.ext.json)
 
 ---

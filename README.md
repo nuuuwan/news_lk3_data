@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 22:33:52**
+As of **2024-04-12 22:51:24**
 
 ## Newspaper Stats
 
-*Scraped **18,623** Articles*
+*Scraped **18,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,90 @@ newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,040
-adalk | 1,554
+adalk | 1,555
 tamilmirrorlk | 2,172
-adaderanalk | 2,235
+adaderanalk | 2,236
 virakesarilk | 2,779
 dailymirrorlk | 2,853
-adaderanasinhalalk | 3,018
+adaderanasinhalalk | 3,020
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,623 (100.0%) of 18,623 articles have been extended.
+18,623 (100.0%) of 18,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### Couple arrested for trying to travel to Sri Lanka using fake passports
+
+*2024-04-12 22:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98600/couple-arrested-for-trying-to-travel-to-sri-lanka-using-fake-passports) · `en`
+
+A couple who tried to travel to Sri Lanka using fake passports were arrested in the Chennai airport, Indian media reported.
+
+The immigration officials were checking the travel documents of the passengers who were about to board the flight to Colombo on Thursday night.
+
+When they checked the passports of Ramachandran (45) and his wife Hanisha (40) of Perambalur they found that both of them were about to travel using fake passports.
+
+During the inquiry, the officials found that both of them were from Sri Lanka and had been staying in Perambalur for the past few years and got ration cards and other Indian identity cards.
+
+Recently they decided to visit Sri Lanka and managed to get a fake passport in the Perambalur address.
+
+The immigration officials detained them and alerted the Central Crime Branch police and Q Branch and the officers who visited the Chennai airport held inquiries for a few hours and later they were arrested and taken to the Central Crime Branch office of the Chennai police.
+
+◼️
+
+[Data](articles/4d9618c4.json)
+
+---
+
+### ජීවිතයක් බිලිගත් අනියම් පෙම
+
+*2024-04-12 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195577) · `si`
+
+මොරටුව පොලිස් වසමේ කටුබැද්ද දන්දෙණිය වත්ත ප්‍රදේශයේ දී පෞද්ගලික ආරවුලක් හේතුවෙන් දෙපිරිසක් අතර ඇති වූ ගැටුමක දී තියුණු ආයුධයකින් ඇන පුද්ගලයෙකු ඝාතනය කර තිබේ.
+
+අනියම් ප්‍රේම සබඳතාවයක් හේතුවෙන් එම ආරවුල හට ගෙන ඇතැයි වාර්තා වේ.
+
+එම ප්‍රදේශයේ පදිංචි 25 හැවිරිදි තරුණයෙකු විසින් අදාළ ඝාතනය සිදුකර ඇති අතර, ඝාතනයට ලක්ව ඇත්තේ 27 හැවිරිදි හර්ෂණ කුමාර නැමැති අයෙකි.
+
+අදාළ ගැටුම් තවත් පුද්ගලයෙකු තුවාල ලබා කළුබෝවිල රෝහලට ඇතුළත් කර ඇත.
+
+ඝාතනය සම්බන්ධයෙන් තරුණයෙකු අත්අඩංගුවට ගෙන ඇති අතර, ඔහුගේ පුංචි අම්මා සමග මිය ගිය තරුණයා අනියම් සබඳතාවයක් පවත්වා ඇති බව අනාවරණය වී තිබේ.
+
+සැකකරුව හෙට (13) මොරටුව මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/d1b04bcf.json)
+
+---
+
+### පැය 24 තුළ බිහිසුණු අනතුරු කිහිපයක්
+
+*2024-04-12 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195576) · `si`
+
+උත්සව සමය ආරම්භවීමත් සමඟ සාමාන්‍ය දිනවලට සාපේක්ෂව රිය අනතුරුවල වර්ධනයක් දක්නට ලැබෙන බව පොලීසිය පවසයි.
+
+නොසැලකිලිමත් රිය ධාවනය හේතුවෙන් අලුත් අවුරුදු සමයේ රිය අනතුරු බහුලව වාර්තා වන බැවින් ගමනාගමනයේදී සැලකිලිමත් වන ලෙස පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා ජනතාවගෙන් ඉල්ලීමක් කරයි.
+
+එලෙස උත්සව සමයේ භාණ්ඩ මිලදීගැනීම සඳහා යමින් සිටි පිරිස් අනතුරට ලක්වූ සිදුවීම් ප්‍රෙද්ශ කිහිපයකින් වාර්තා විය.
+
+ඉකුත් පැය 24ක කාලය තුළ එවන් රිය අනතුරු කිහිපයක්ම වාර්තා විය.
+
+හයිලෙවල් මාර්ගයේ කොස්ගම ශාලාව ප්‍රෙද්ශයේදී යතුරුපැදියක් සහ ලොරි රථයක් එකිනෙක ගැටී සිදුවූ අනතුරකින් යතුරුපැදියේ ගමන්ගත් පුද්ගලයා ජීවිතක්ෂයට පත්විය.
+
+යතුරුපැදිය බස් රථයකට ඉස්සර කිරීමට උත්සාහ කිරීමේදී ප්‍රතිවිරුද්ධ දිශාවෙන් පැමිණි ලොරි රථයේ ගැටී තිබේ.
+
+වැල්ලවාය තණමල්විල ප්‍රධාන මාර්ගයේ ආඳාවිලයාය ප්‍රෙද්ශයේදී මෝටර් රථයක් සහ ත්‍රිරෝද රථයක් එකිනෙක ගැටී සිදුවූ අනතුරකින් මෝටර් රථයේ ගමන්ගත් කුඩා දරුවන් දෙදෙනෙකු ඇතුළු සිව් දෙනෙකු සහ ත්‍රි රෝද රථ රියදුරු තුවාල ලබා වැල්ලවාය මූලික රෝහලට ඇතුළත්කර තිබේ.
+
+...
+
+[Data](articles/f0ae3db6.json)
+
+---
 
 ### Uncertainty over elections could risk Sri Lanka’s economic recovery: ADB
 
@@ -2241,71 +2309,5 @@ Deputy General Manager of the Railway Department. (A)
 [Data](articles/d83f125d.json)
 
 [Extended Data](ext_articles/d83f125d.ext.json)
-
----
-
-### Fuel distribution
-
-*2024-04-12 00:33:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தட்டுப்பாடின்றி-எரிபொருள்-விநியோகம்/175-335868) · `ta`
-
-The Sri Lanka Ceylon Corporation has ensured fuel supply during the festive season by taking necessary steps and maintaining a stockpile to meet demand.
-
-🟩
-
-The Sri Lanka Ceylon Corporation has said that the necessary steps have been taken to maintain fuel supply during the festive season.
-
-It also stated that the stockpile is required to meet the fuel demand.(a)
-
-◼️
-
-[Data](articles/08a820bb.json)
-
-[Extended Data](ext_articles/08a820bb.ext.json)
-
----
-
-### 2024-04-11 (Thursday)
-
-### Vietnam sentences real estate tycoon to death over country’s largest-ever fraud case
-
-*2024-04-11 23:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98582/vietnam-sentences-real-estate-tycoon-to-death-over-countrys-largest-ever-fraud-case) · `en`
-
-Real estate tycoon Truong My Lan was sentenced Thursday to death by a court in Ho Chi Minh City in southern Vietnam in the country’s largest financial fraud case ever, state media Vietnam Net said.
-
-The 67-year-old chair of the real estate company Van Thinh Phat was formally charged with fraud amounting to $12.5 billion — nearly 3% of the country’s 2022 GDP.
-
-Lan illegally controlled Saigon Joint Stock Commercial Bank between 2012 and 2022 and allowed 2,500 loans that resulted in losses of $27 billion to the bank, reported state media VnExpress. The court asked her to compensate the bank $26.9 million.
-
-Despite mitigating circumstances — this was a first-time offense and Lan participated in charity activities — the court attributed its harsh sentence to the seriousness of the case, saying Lan was at the helm of an orchestrated and sophisticated criminal enterprise that had serious consequences with no possibility of the money being recovered, VnExpress said.
-
-...
-
-[Data](articles/0db12130.json)
-
-[Extended Data](ext_articles/0db12130.ext.json)
-
----
-
-### A girl's driving train falls
-
-*2024-04-11 22:49:32* · [`adalk`](https://www.ada.lk/breaking_news/දැරියක්-ධාවනය-වන-දුම්රියෙන්-ඇද-වැටෙයි/11-409064) · `si`
-
-A girl fell from a train traveling from Colombo to Batticaloa near Welikanda Pulandadi, severely injuring her head. She was rushed to Welikanda Hospital for treatment. Police are investigating her return to Batticaloa.
-
-🟩
-
-The train was traveling from Colombo to Batticaloa at the Welikanda Pulandadi area was seriously injured and rushed to the Welikanda Hospital.
-
-She had fallen from the train and was transferred to the Welikanda Regional Hospital to the Welikanda Regional Hospital as he was severely injured in the head of the route.
-
-Investigations investigating that the girl had gone back to Batticaloa and returning to Batticaloa and returning to Batticaloa, police said.
-
-Welikanda OIC Inspector Samantha Ratnayake, a team of police officers including this conducts further investigations.
-
-◼️
-
-[Data](articles/9b0ca1f0.json)
-
-[Extended Data](ext_articles/9b0ca1f0.ext.json)
 
 ---

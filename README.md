@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 22:51:24**
+As of **2024-04-12 23:03:28**
 
 ## Newspaper Stats
 
-*Scraped **18,627** Articles*
+*Scraped **18,629** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ dailyftlk | 1,018
 economynextcom | 1,040
 adalk | 1,555
 tamilmirrorlk | 2,172
-adaderanalk | 2,236
+adaderanalk | 2,237
 virakesarilk | 2,779
-dailymirrorlk | 2,853
+dailymirrorlk | 2,854
 adaderanasinhalalk | 3,020
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,623 (100.0%) of 18,627 articles have been extended.
+18,627 (100.0%) of 18,629 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### Norway’s health minister resigns after plagiarism accusation
+
+*2024-04-12 22:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98601/norways-health-minister-resigns-after-plagiarism-accusation) · `en`
+
+(AP) — Norway’s health minister resigned Friday, the second Norwegian government member to step down this year amid allegations they plagiarized academic works.
+
+Ingvild Kjerkol resigned a day after a probe by Nord University in Bodoe in northern Norway, where Kjerkol, handed in her master thesis in 2021, concluded that “there is a not insignificant amount of plagiarism in her master’s thesis.”
+
+“We have come to the conclusion that Ingvild should resign as minister,” Prime Minister Jonas Gahr Støre told a press conference. He said the probe had concluded the plagiarism was “intentional.”
+
+Kjerkoll said she and a co-author “did not intend to plagiarize other people’s assignments.”
+
+“Although it hurts not to be believed, we have to deal with the fact that (the university) is of a different opinion,” she said at a joint press conference with Gahr Støre.
+
+...
+
+[Data](articles/96670f0d.json)
+
+---
 
 ### Couple arrested for trying to travel to Sri Lanka using fake passports
 
@@ -52,51 +72,89 @@ The immigration officials detained them and alerted the Central Crime Branch pol
 
 [Data](articles/4d9618c4.json)
 
+[Extended Data](ext_articles/4d9618c4.ext.json)
+
 ---
 
-### ජීවිතයක් බිලිගත් අනියම් පෙම
+### Casuality of Casual
 
 *2024-04-12 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195577) · `si`
 
-මොරටුව පොලිස් වසමේ කටුබැද්ද දන්දෙණිය වත්ත ප්‍රදේශයේ දී පෞද්ගලික ආරවුලක් හේතුවෙන් දෙපිරිසක් අතර ඇති වූ ගැටුමක දී තියුණු ආයුධයකින් ඇන පුද්ගලයෙකු ඝාතනය කර තිබේ.
+A 25-year-old resident of Moratuwa was killed in a dispute over a casual romance, leading to the arrest of a youth involved in the incident. Another person was injured and taken to the hospital. The suspect will appear in court tomorrow.
 
-අනියම් ප්‍රේම සබඳතාවයක් හේතුවෙන් එම ආරවුල හට ගෙන ඇතැයි වාර්තා වේ.
+🟩
 
-එම ප්‍රදේශයේ පදිංචි 25 හැවිරිදි තරුණයෙකු විසින් අදාළ ඝාතනය සිදුකර ඇති අතර, ඝාතනයට ලක්ව ඇත්තේ 27 හැවිරිදි හර්ෂණ කුමාර නැමැති අයෙකි.
+A private dispute in the Dandeniya Estate in Moratuwa has been killed in a sharp weapon.
 
-අදාළ ගැටුම් තවත් පුද්ගලයෙකු තුවාල ලබා කළුබෝවිල රෝහලට ඇතුළත් කර ඇත.
+It is reported that the dispute has been caused by a casual romance.
 
-ඝාතනය සම්බන්ධයෙන් තරුණයෙකු අත්අඩංගුවට ගෙන ඇති අතර, ඔහුගේ පුංචි අම්මා සමග මිය ගිය තරුණයා අනියම් සබඳතාවයක් පවත්වා ඇති බව අනාවරණය වී තිබේ.
+A 25-year-old resident of the area had been conducted by a 25 year old resident of the area.
 
-සැකකරුව හෙට (13) මොරටුව මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතව තිබේ.
+Another person was injured and rushed to the Kalubowila hospital.
+
+A youth has been arrested in connection with the murder and the youth who died with his little mother had had a casual affair.
+
+The suspect is due to be produced before the Moratuwa Magistrate's Court tomorrow (13).
 
 ◼️
 
 [Data](articles/d1b04bcf.json)
 
+[Extended Data](ext_articles/d1b04bcf.ext.json)
+
 ---
 
-### පැය 24 තුළ බිහිසුණු අනතුරු කිහිපයක්
+### Some horrific accidents in the 24 hours
 
 *2024-04-12 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195576) · `si`
 
-උත්සව සමය ආරම්භවීමත් සමඟ සාමාන්‍ය දිනවලට සාපේක්ෂව රිය අනතුරුවල වර්ධනයක් දක්නට ලැබෙන බව පොලීසිය පවසයි.
+Increased accidents during festive season. Police request public vigilance. Incidents include motorbike-lorry collision, injuries from car-three-wheeler crash, and a train accident.
 
-නොසැලකිලිමත් රිය ධාවනය හේතුවෙන් අලුත් අවුරුදු සමයේ රිය අනතුරු බහුලව වාර්තා වන බැවින් ගමනාගමනයේදී සැලකිලිමත් වන ලෙස පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා ජනතාවගෙන් ඉල්ලීමක් කරයි.
+🟩
 
-එලෙස උත්සව සමයේ භාණ්ඩ මිලදීගැනීම සඳහා යමින් සිටි පිරිස් අනතුරට ලක්වූ සිදුවීම් ප්‍රෙද්ශ කිහිපයකින් වාර්තා විය.
+According to the police, there is a growth in accidents compared to normal days along with the beginning of the festive season.
 
-ඉකුත් පැය 24ක කාලය තුළ එවන් රිය අනතුරු කිහිපයක්ම වාර්තා විය.
+DIG's DIG's DIG Talduuwa to take care of the people in traffic due to a negligent period of negligence, police spokesman's DIG's duty lawy requests the public.
 
-හයිලෙවල් මාර්ගයේ කොස්ගම ශාලාව ප්‍රෙද්ශයේදී යතුරුපැදියක් සහ ලොරි රථයක් එකිනෙක ගැටී සිදුවූ අනතුරකින් යතුරුපැදියේ ගමන්ගත් පුද්ගලයා ජීවිතක්ෂයට පත්විය.
+In several other crash, the crash was reported in several areas that were on the occasion.
 
-යතුරුපැදිය බස් රථයකට ඉස්සර කිරීමට උත්සාහ කිරීමේදී ප්‍රතිවිරුද්ධ දිශාවෙන් පැමිණි ලොරි රථයේ ගැටී තිබේ.
+In the 24-hour period, several such road accidents were reported.
 
-වැල්ලවාය තණමල්විල ප්‍රධාන මාර්ගයේ ආඳාවිලයාය ප්‍රෙද්ශයේදී මෝටර් රථයක් සහ ත්‍රිරෝද රථයක් එකිනෙක ගැටී සිදුවූ අනතුරකින් මෝටර් රථයේ ගමන්ගත් කුඩා දරුවන් දෙදෙනෙකු ඇතුළු සිව් දෙනෙකු සහ ත්‍රි රෝද රථ රියදුරු තුවාල ලබා වැල්ලවාය මූලික රෝහලට ඇතුළත්කර තිබේ.
+Kosgama Hall in Kosgama Hall in High Level Road, a motorbike and a lorry collided with a lorry.
+
+The lorry collided with the opposite direction when trying to make a motorcycle before.
+
+Four-wheeler driver and three-wheeler injuries were admitted to the Wellawaya Base Hospital with two children who had traveled by a car and three-wheeler in the Andailaila area on the Wellawaya Tanamalwila main road.
+
+The CCTV camera was reported that a carton and a motorcycle collided in Kahathuduwa Pillavawa area on the Colombo main road.
 
 ...
 
 [Data](articles/f0ae3db6.json)
+
+[Extended Data](ext_articles/f0ae3db6.ext.json)
+
+---
+
+### Elections could dent Sri Lanka’s recovery: ADB
+
+*2024-04-12 22:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Elections-could-dent-Sri-Lankas-recovery-ADB/108-280661) · `en`
+
+Colombo, April 12 - Sri Lanka's recovery could be stalled by abrupt policy changes after elections later this year even as the economy showed signs of stabilising, the Asian Development Bank warned Friday.
+
+The island nation weathered an unprecedented financial crisis in 2022 that forced a foreign debt default as well as food and fuel shortages that prompted months of unrest.
+
+It secured a $2.9 billion rescue loan from the International Monetary Fund last year, with President Ranil Wickremesinghe hiking taxes and cutting generous subsidies to restore the government's ruined finances.
+
+But the ADB said presidential polls due by October could weaken the commitment to austerity measures.
+
+"Risks to the outlook tend to the downside," the bank said in its latest forecast on Sri Lanka's economy.
+
+Among them, the most important is uncertainty associated with the upcoming elections, including any possible impact on fiscal policy and reform implementation."
+
+...
+
+[Data](articles/cb29c069.json)
 
 ---
 
@@ -2265,49 +2323,5 @@ Wheat mango has been reduced by 7 rupees and reduced by 125 rupees of Netali. (A
 [Data](articles/221dd616.json)
 
 [Extended Data](ext_articles/221dd616.ext.json)
-
----
-
-### 50, 537 tourists in 9 days
-
-*2024-04-12 00:38:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-நாட்களில்-50-537-சுற்றுலாப்-பயணிகள்/175-335870) · `ta`
-
-Sri Lanka saw over 50,000 tourists in the first 9 days of April, surpassing 600,000 visitors in the same period last year.
-
-🟩
-
-The number of tourists coming to Sri Lanka has crossed 50 thousand in the first 9 days of April.
-
-The Tourism Development Authority said that 50 thousand 537 tourists arrived in the first nine days of April.
-
-Meanwhile, 6 lakhs 86 thousand 321 people have visited the country between January 1st to 9th March.. (A)
-
-◼️
-
-[Data](articles/937b8629.json)
-
-[Extended Data](ext_articles/937b8629.ext.json)
-
----
-
-### Special train service until the 15th
-
-*2024-04-12 00:35:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-ஆம்-திகதி-வரை-விசேட-ரயில்-சேவை/175-335869) · `ta`
-
-"Special train service until 15th. MJ Ipola, Deputy General Manager, announced 12 additional train services to address passenger inconveniences."
-
-🟩
-
-MJ Ipola, Deputy General Manager of the Railway Department, said that the 12 train services have been carried out in addition to the inconveniences of the passengers.
-
-The train services will be carried out until the 15th of this month, he said.
-
-Deputy General Manager of the Railway Department. (A)
-
-◼️
-
-[Data](articles/d83f125d.json)
-
-[Extended Data](ext_articles/d83f125d.ext.json)
 
 ---

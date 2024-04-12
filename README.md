@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 11:34:03**
+As of **2024-04-12 11:53:01**
 
 ## Newspaper Stats
 
-*Scraped **18,557** Articles*
+*Scraped **18,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 2,169
 adaderanalk | 2,222
 virakesarilk | 2,770
 dailymirrorlk | 2,832
-adaderanasinhalalk | 3,005
+adaderanasinhalalk | 3,006
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,557 (100.0%) of 18,557 articles have been extended.
+18,557 (100.0%) of 18,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### දෙමළ ජනතාවට වෙනම ජනාධිපති අපේක්ෂකයෙක් අවශ්‍ය නැහැ
+
+*2024-04-12 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195562) · `si`
+
+ජනාධිපතිවරණය සඳහා දෙමළ ජනතාවට වෙනම අපේක්ෂකයෙකු අවශ්‍ය නොවන බව ලංකා කම්කරු කොංග්‍රසයේ නායක සෙන්දිල් තොණ්ඩමන් මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට ලංකා කම්කරු කොංග්‍රසය කටයුතු කරනු ඇති බවය.
+
+කොළඹ පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ලංකා කම්කරු කොංග්‍රසයේ නායක සෙන්දිල් තොණ්ඩමන් මහතා මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/7ea291ab.json)
+
+---
 
 ### Sri Lanka, Kazakhstan seek to boost bilateral cooperation in many sectors
 
@@ -2343,23 +2359,5 @@ He also told the police to inform the police if there was a change in the curren
 [Data](articles/80b1a2a8.json)
 
 [Extended Data](ext_articles/80b1a2a8.ext.json)
-
----
-
-### Sri Lanka shows signs of recovery but must maintain reform momentum: ADB
-
-*2024-04-11 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98572/sri-lanka-shows-signs-of-recovery-but-must-maintain-reform-momentum-adb) · `en`
-
-The Asian Development Bank (ADB) says its annual flagship economic publication – the Asian Development Outlook (ADO) April 2024 – has projected Sri Lanka’s economy to record moderate growth of 1.9% in 2024 and 2.5% in 2025 following two consecutive years of contractions.
-
-According to the publication, Sri Lanka is showing signs of recovery, with green shoots emerging in the second half of 2023. Inflation has decelerated to single digits, foreign exchange reserves continue to be built up, and the exchange rate has appreciated. Meanwhile, tourist arrivals and remittance inflows continue to show a commendable recovery while supply conditions have improved.
-
-ADB’s growth forecast hinges on the continuation of reforms and better consumer and business sentiment. Timely completion of external debt restructuring will also support Sri Lanka’s debt sustainability efforts, the regional development bank underscored.
-
-...
-
-[Data](articles/d0a88f00.json)
-
-[Extended Data](ext_articles/d0a88f00.ext.json)
 
 ---

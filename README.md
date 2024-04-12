@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 21:03:25**
+As of **2024-04-12 21:18:24**
 
 ## Newspaper Stats
 
-*Scraped **18,617** Articles*
+*Scraped **18,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ economynextcom | 1,040
 adalk | 1,554
 tamilmirrorlk | 2,172
 adaderanalk | 2,233
-virakesarilk | 2,778
+virakesarilk | 2,779
 dailymirrorlk | 2,851
-adaderanasinhalalk | 3,017
+adaderanasinhalalk | 3,018
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,615 (100.0%) of 18,617 articles have been extended.
+18,617 (100.0%) of 18,619 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### ஞானசாரருக்கு நாளை விடுதலை இல்லை!
+
+*2024-04-12 21:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/181038) · `ta`
+
+புத்தாண்டையொட்டி  நாளைய தினம் (13)  விசேட அரச மன்னிப்பின் கீழ் விடுவிக்கப்படும் கைதிகளின் பட்டியலில், கடூழியச்  சிறைத் தண்டனை அனுபவிக்கும் பொதுபல சேனா அமைப்பின் பொதுச் செயலாளர் கலபொட அத்தே ஞானசார தேரரின் பெயர் இல்லையென தெரிவிக்கப்படுகிறது.
+
+இதேவேளை, அரச மன்னிப்பின் கீழ் அவரை விடுவிக்க முடியாது என சிறைச்சாலை அதிகாரி ஒருவர் தெரிவித்துள்ளார்
+
+◼️
+
+[Data](articles/10017385.json)
+
+---
+
+### බස්නාහිර ඇතුළු ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවූ වැසි
+
+*2024-04-12 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195575) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල  සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී 100 ඉක්මවූ තද වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+උතුරු මැද සහ ඌව පළාත්වල ස්ථාන ස්වල්පයක සහ දිවයිනේ සෙසු ප්‍රදේශවල තැනින් තැන ප.ව 2න් පසුව වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+මේ අතර බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේ දී මීදුම් සහිත තත්ත්වයක් පවතී.
+
+◼️
+
+[Data](articles/f875b0f1.json)
+
+---
 
 ### Police offer Rs. 5,000 reward for arresting drunk drivers
 
@@ -49,6 +79,8 @@ DIG Thalduwa said the law will be strictly enforced against drivers who drive at
 ◼️
 
 [Data](articles/cb679c44.json)
+
+[Extended Data](ext_articles/cb679c44.ext.json)
 
 ---
 
@@ -427,6 +459,8 @@ They are now being escorted to the Galle Harbour and will be handed over to the 
 ◼️
 
 [Data](articles/3a607f11.json)
+
+[Extended Data](ext_articles/3a607f11.ext.json)
 
 ---
 
@@ -2253,57 +2287,5 @@ The goods were arrested and the three businessmen who were illegally brought to 
 [Data](articles/d293ccd6.json)
 
 [Extended Data](ext_articles/d293ccd6.ext.json)
-
----
-
-### If egg prices go up, the eggs will be brought back
-
-*2024-04-11 22:26:43* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තර-මිල-ඉහළ ගියොත්-ආයෙත්-බිත්තර-ගෙන්වනවා/11-409060) · `si`
-
-"Egg prices rise, prompting Minister Nalin Fernando to consider importing from India. Prices have decreased recently but are expected to rise again due to the festival season."
-
-🟩
-
-Commerce Minister Nalin Fernando said that if the government is rising again in the market, the government will soon import eggs from India.
-
-The eggs sold at a high price showed a decrease in the last few days. However, the festival season seems to increase the egg prices again.
-
-◼️
-
-[Data](articles/c8425e64.json)
-
-[Extended Data](ext_articles/c8425e64.ext.json)
-
----
-
-### The latest detection of the British War Ark that was drowned near Batticaloa
-
-*2024-04-11 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195553) · `si`
-
-The British War Ark, HMS Hermes, was sunk near Batticaloa in 1942, carrying the world's first war planes. It was part of the Royal Navy's Eastern Fleet. Despite efforts to protect it, continuous Japanese air strikes led to its sinking, with significant loss of life. Exploration of the wreck began in 2000.
-
-🟩
-
-The world's first ship that can carry Japan bombs during World War II. M. S. The Hermitary was destroyed and 82 years were destroyed in 2024.
-
-HMS that can carry the world's first war planes. The manufacturing of the Hermesic operates the production of the first world war.
-
-The manufacture of the British Royal Navy was unable to completion until the end of World War I.
-
-Nearly 600 feet [600 feet) consisted of 40,000 horsepowers to transport 20 aircraft.
-
-With the opening of World War II of 1939, the ship was attached to the eastern military seder of the royal army, and in the year 1941 and 1942, Sri Lanka was anchored.
-
-However, if Sri Lanka was not a part of World War II, the British controlled British was part of Japan on April 9, 1942.
-
-At that time HMS. The Hermesic was ready to invade Madagascar and anchored on the Batticaloa waters.
-
-The British Air Force was taken to the Port of Trincomalee to protect the ship to protect the airplane from the emperor of Hirohuh.
-
-...
-
-[Data](articles/e067a782.json)
-
-[Extended Data](ext_articles/e067a782.ext.json)
 
 ---

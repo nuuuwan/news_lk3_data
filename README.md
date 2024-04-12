@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 08:33:58**
+As of **2024-04-12 08:52:09**
 
 ## Newspaper Stats
 
-*Scraped **18,542** Articles*
+*Scraped **18,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,60 @@ adalk | 1,554
 tamilmirrorlk | 2,167
 adaderanalk | 2,220
 virakesarilk | 2,767
-dailymirrorlk | 2,827
+dailymirrorlk | 2,829
 adaderanasinhalalk | 3,003
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,541 (100.0%) of 18,542 articles have been extended.
+18,542 (100.0%) of 18,544 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### නිවසක් කොල්ලකෑ කල්ලියක් හසුවෙයි
+### Indigo launches Mumbai-Colombo direct flights today
+
+*2024-04-12 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indigo-launches-Mumbai-Colombo-direct-flights-today/108-280635) · `en`
+
+Colombo, April 12 (Daily Mirror) - Indigo has expanded its connectivity to Sri Lanka adding Mumbai-Colombo direct flights from today (12), Airport and Aviation Services (Sri Lanka) (Pvt) Limited said.
+
+Accordingly, Indigo will operate flights three times a week on Tuesdays, Thursdays and Fridays.
+
+At present, Indigo operates to three destinations in India from Colombo (Chennai twice daily, Bengaluru once daily and Hyderabad six days per week). With this new route expansion, this will increase to four destinations, and it will contribute immensely to the development of travel, trade and tourism between Sri Lanka and India.
+
+With the new addition, Indigo will operate 30 weekly flights to Colombo from four main cities in India.
+
+...
+
+[Data](articles/1f32370e.json)
+
+---
+
+### A robbery gang caught
 
 *2024-04-12 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195558) · `si`
 
-රාත්‍රී කාලයේදී නිවසකට ඇතුළුවූ පිරිසක් නිවැසියන් බියගන්වා මුදල් සහ දේපොළ කොල්ලකෑමේ සිද්ධියක් අලවාකුඹුර ප්‍රදේශයෙන් වාර්තා විය.
+A robbery gang intimidated a house owner in Halalakumbura, assaulting her on the night of the 10th. They took potatoes and a suspect, and the Mahiyanganaya Police arrested them at a roadblock.
 
-සිද්ධිය වන අවස්ථාවේ නිවසේ හිමිකරුගේ බිරිඳ පමණක් සිට ඇති අතර කොල්ලකරුවන් ඇයට පහරදී ඇයව බියගන්වා කොල්ලය සිදුකර ඇත.
+🟩
 
-සුදු පැහැති වෑන් රථයකින් පැමිණ තිබූ සැකකරුවන් සහ සැකකාරියක් ඉකුත් 10 වනදා මෙම කොල්ලය සිදුකර තිබුණි.
+A group of people in a house during the night was intimidated by the Halalakumbura area.
 
-පසුව මාර්ග බාධකයකදී සැකපිට පිරිස අත්අඩංගුවට ගැනීමට මහියංගනය පොලීසිය සමත් විය.
+At the time of the incident, only the owner of the house was stored and the robbers were assaulted and intimidated her.
 
-ඒ අනුව සිදුකළ වැඩිදුර විමර්ශනයේදී අදාළ කොල්ලයට පිළිබඳ තොරතුරු හෙළිවී තිබේ.
+The potatoes and a suspect had been carried out on the 10th of the 10th.
+
+The Mahiyanganaya Police were arrested on the road block.
+
+Accordingly, the robbery has revealed about the robbery.
 
 ◼️
 
 [Data](articles/ae92494b.json)
+
+[Extended Data](ext_articles/ae92494b.ext.json)
 
 ---
 
@@ -205,6 +229,26 @@ However, according to the current Amendment, all liquor stations will be opened 
 [Data](articles/a636f310.json)
 
 [Extended Data](ext_articles/a636f310.ext.json)
+
+---
+
+### NTC has failed to assign buses for people to leave Colombo: Anjana
+
+*2024-04-12 06:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NTC-has-failed-to-assign-buses-for-people-to-leave-Colombo-Anjana/108-280636) · `en`
+
+Colombo, April 12 (Daily Mirror) - The Inter-Provincial Private Bus Association (IPPBA) today claimed that the National Transport Commission (NTC) has failed to provide sufficient buses for people to leave from Colombo.
+
+The Association's Secretary Anjana Priyanjith claimed that people have to wait at the private bus stand for more than three hours to get their buses.
+
+During previous years the NTC had discussions with private bus associations to arrange buses without inconveniencing commuters, he said.
+
+"Earlier, we were advised to assign short-distance buses to long-distance services to meet the demand. But this time no such decision has been taken. Therefore, people have to wait many hours at the bus stand to get their transport facilities", Priyanjith said.
+
+Meanwhile, the Sri Lanka Transport Board (SLTB) said that sufficient buses were assigned for people to get to their villages.
+
+...
+
+[Data](articles/4bae7209.json)
 
 ---
 
@@ -2325,43 +2369,5 @@ He said that the SLFP is due to discuss the issue of the Southern Province this 
 [Data](articles/c8bfd6b2.json)
 
 [Extended Data](ext_articles/c8bfd6b2.ext.json)
-
----
-
-### Cyber Attack on the Ministry of Education through Internet connection: Action to hand over the investigation report
-
-*2024-04-11 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180951) · `ta`
-
-The Sri Lanka Computer Emergency Division will hand over a report on a cyber attack on the Ministry of Education's website to the Ministry on Thursday. The report includes details on future website security and recommendations to prevent future attacks.
-
-🟩
-
-The Sri Lanka Computer Emergency Division said that a report on the cyber attack on the official website of the Ministry of Education will be handed over to the Ministry of Education on Thursday (11).
-
-Senior Information Safety Engineer of the Sri Lanka Computer Emergency Act, Saruka Tamunubola, said that all the details on the future security of the website are included in the report.
-
-The cyber attack on the official website of the Ministry of Education has been carried out through the Internet connection in Sri Lanka.
-
-He also said that a cyber attack was due to some weakness of the website and that there were suggestions on recommendations to prevent such incidents in the future.
-
-◼️
-
-[Data](articles/ded26e97.json)
-
-[Extended Data](ext_articles/ded26e97.ext.json)
-
----
-
-### UNP Deputy meets Chief Prelate...
-
-*2024-04-11 10:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/UNP-Deputy-meets-Chief-Prelate/110-280620) · `en`
-
-UNP Deputy Leader and Senior Presidential Advisor Ruwan Wijewardene met the Chief Prelate (Mahanayake) of the Kotte Sri Kalayani Samagri Dharma Maha Sangha Sabha of the Siyam Maha Nikaya, Ven. Dr. Ittapana Dhammalankara Anu Nayake Maha Thera today. They discussed the current political situation and the status of the economy. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/0d94704c.json)
-
-[Extended Data](ext_articles/0d94704c.ext.json)
 
 ---

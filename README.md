@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 00:18:20**
+As of **2024-04-13 00:34:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,020
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,634 (100.0%) of 18,635 articles have been extended.
+18,635 (100.0%) of 18,635 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -473,6 +473,8 @@ Sri Lanka’s currency collapsed in 2022 after two years of aggressive macro-eco
 ...
 
 [Data](articles/a951124a.json)
+
+[Extended Data](ext_articles/a951124a.ext.json)
 
 ---
 

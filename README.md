@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 22:18:26**
+As of **2024-04-12 22:33:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,018
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,620 (100.0%) of 18,623 articles have been extended.
+18,623 (100.0%) of 18,623 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ President Ranil Wickremesinghe, who has steered the recovery programme by going 
 ...
 
 [Data](articles/b302e3e8.json)
+
+[Extended Data](ext_articles/b302e3e8.ext.json)
 
 ---
 
@@ -73,6 +75,8 @@ However, there are exceptions - for example if it's a legal requirement due to c
 ...
 
 [Data](articles/bb092f19.json)
+
+[Extended Data](ext_articles/bb092f19.ext.json)
 
 ---
 
@@ -1603,6 +1607,8 @@ That may be because unlike other artists, Swift owns the copyright to her music 
 ...
 
 [Data](articles/e0076a29.json)
+
+[Extended Data](ext_articles/e0076a29.ext.json)
 
 ---
 

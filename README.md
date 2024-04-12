@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 07:54:31**
+As of **2024-04-12 08:06:32**
 
 ## Newspaper Stats
 
-*Scraped **18,536** Articles*
+*Scraped **18,539** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,75 @@ economynextcom | 1,036
 adalk | 1,554
 tamilmirrorlk | 2,167
 adaderanalk | 2,219
-virakesarilk | 2,765
+virakesarilk | 2,767
 dailymirrorlk | 2,827
-adaderanasinhalalk | 3,001
+adaderanasinhalalk | 3,002
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,532 (100.0%) of 18,536 articles have been extended.
+18,536 (100.0%) of 18,539 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### සැමියාගේ මරණයට බිරිඳ සහ අනියම් සැමියා අත්අඩංගුවට
+### ලංගම දෛනික ආදායම රු මිලියන 25කින් වැඩිවෙයි
+
+*2024-04-12 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195557) · `si`
+
+සිංහල හා දෙමළ අවුරුදු සමය වෙනුවෙන් ක්‍රියාත්මක බස් සේවාව හරහා සිය දෛනික ආදායම රුපියල් මිලියන 25කින් පමණ ඉහළ ගොස් ඇති බව ලංකා ගමනාගමන මණ්ඩලය පවසයි.
+
+උත්සව සමයේ ගම්බිම් බලා යන ජනතාව වෙනුවෙන් එම මණ්ඩලය පසුගිය 5 වනදා සිට අතිරේක බස් රථ 200ක් පමණ ධාවනයට එක්කරමින් විශේෂ ගමනාගමන සේවාවක් ආරම්භ කරනු ලැබීය.
+
+ඒ හරහා මේ වනවිට සිය දෛනික ආදායම රුපියල් මිලියන 25කින් පමණ ඉහළ ගොස් ඇති බව ලංකා ගමනාගමන මණ්ඩලයේ නියෝජ්‍ය සාමාන්‍යාධිකාරී පණ්ඩුක ස්වර්ණහංස මහතා සඳහන් කළේය.
+
+කෙසේවෙතත් ප්‍රමාණවත් පරිදි දුර ගමන් සේවා බස් රථ නොමැති වීම හේතුවෙන් පිටකොටුව බැස්ටියන් මාවත හා මධ්‍යම බස් නැවතුම්පොළ වෙත පැමිණි තමන් දැඩි අපහසුතාව පත්වු බවට මගීන් චෝදනා කර තිබුණි.
+
+ඊට ප්‍රතිචාර දක්වමින් ලංකා ගමනාගමන මණ්ඩලයේ නියෝජ්‍ය සාමාන්‍යාධිකාරී පණ්ඩුක ස්වර්ණහංස මහතා පැවසුවේ ප්‍රමාණවත් පරිදි බස් රථ නොමැති බවට සිදුකරන චෝදනා ප්‍රතික්ෂේප කරන බවය.
+
+මේ අතර ඊයේ දිනය තුළ අධිවේගී මාර්ගවල ආදායම සියයට 10කින් පමණ ඉහළ ගොස් ඇති බව මාර්ග සංවර්ධන අධිකාරිය පැවසීය.
+
+...
+
+[Data](articles/cf313e73.json)
+
+---
+
+### Wife and casual husband arrested for husband's death
 
 *2024-04-12 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195556) · `si`
 
-නිවසක් ගිනිගෙන පුද්ගලයෙකු මියගොස් ඇති බවට ඉකුත් 10 වනදා පොලීසියට වාර්තා වූ සිද්ධිය ඝාතනයක් බව පොලීසිය සැකකරයි.
+A 63-year-old wife and her 63-year-old lover were arrested for the death of her husband, suspected to have occurred on the 10th, revealed by a post-mortem examination on the 11th.
 
-ඊයේ (11) සිදුකළ පශ්චාත් මරණ පරීක්ෂණයේදී ගෙල කැපීම හේතුවෙන් මෙම මරණය සිදුවී ඇති බවට අනාවරණය වී තිබුණි.
+🟩
 
-ඒ අනුව මෙම මරණය සම්බන්ධයෙන් මරණකරුගේ 33 හැවිරිදි බිරිඳ සහ 63 හැවිරිදි ඇයගේ අනියම් සබඳතාවයක් පැවැත්වූ පුද්ගලයා අත්අඩංගුවට ගෙන ඇත.
+The police suspect that the incident had been killed on the 10th of the incident that a house was killed.
+
+It was revealed that the death had occurred due to the cut into the post mortem examination conducted yesterday (11).
+
+Accordingly, a 63-year-old wife of the death and 63-year-old casual affair have been arrested.
 
 ◼️
 
 [Data](articles/1d16e7b9.json)
+
+[Extended Data](ext_articles/1d16e7b9.ext.json)
+
+---
+
+### தோட்டத் தொழிலாளர்களை ஏமாற்றி பணமோசடியில் ஈடுபட்டவர் கைது
+
+*2024-04-12 07:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180993) · `ta`
+
+ஹட்டன் பிரதேசத்தில் உள்ள பணம் பெறும் ஏ.ரி.எம். இயந்திரங்களில் பணம் பெற்றுக்கொள்ளவரும் தோட்டத் தொழிலாளர்களை ஏமாற்றி அவர்களின் ஏ.ரி.எம். அட்டைகளை பெற்று பணமோசடியில் ஈடுபட்ட நபரொருவர் பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
+
+அத்தோடு, ஹட்டன் பிரதேசத்தில் மிக நீண்ட காலமாக தோட்டத் தொழிலாளர்களை இலக்காக வைத்து குறித்த சந்தேகநபர் பணமோசடியில் ஈடுபட்டுவருவதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/08935fa1.json)
 
 ---
 
@@ -85,6 +127,24 @@ India’s privately owned defence companies demonstrated the capability they hav
 ...
 
 [Data](articles/6421abae.json)
+
+[Extended Data](ext_articles/6421abae.ext.json)
+
+---
+
+### மதுபான நிலையங்களுக்கு பூட்டு !
+
+*2024-04-12 06:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180996) · `ta`
+
+நாடளாவிய ரீதியிலுள்ள அனைத்து மதுபான நிலையங்களும் ஏப்ரல் 12 மற்றும் 13 ஆம் திகதிகளில் மூடப்படுமென கலால் திணைக்களம் தெரிவித்துள்ளது.
+
+தமிழ் சிங்கள புத்தாண்டு தினத்தை முன்னிட்டே தீர்மானம் எடுக்கப்பட்டுள்ளதாக கலால் திணைக்களம் தெரிவித்துள்ளது.
+
+இருப்பினும், தற்போதைய நேரத் திருத்தத்தின்படி அனைத்து மதுபான நிலையங்களும் ஏனைய நாட்களில் காலை 8 மணிமுதல் இரவு 10 மணி வரை திறக்கப்பட்டிருக்கும் என அத் திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/a636f310.json)
 
 ---
 
@@ -250,33 +310,45 @@ Wheat mango has been reduced by 7 rupees and reduced by 125 rupees of Netali. (A
 
 ---
 
-### 15 ஆம் திகதி வரை விசேட ரயில் சேவை
+### Special train service until the 15th
 
 *2024-04-12 00:35:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-ஆம்-திகதி-வரை-விசேட-ரயில்-சேவை/175-335869) · `ta`
 
-பயணிகளின் அசௌகரியங்களை கருத்திற் கொண்டு, மேலதிகமாக 12 ரயில் சேவைகள் முன்னெடுக்கப்பட்டுள்ளன என ரயில்வே திணைக்களத்தின் பிரதி பொது முகாமையாளர் எம்.ஜே இந்திபொல தெரிவித்துள்ளார்.
+"Special train service until 15th. MJ Ipola, Deputy General Manager, announced 12 additional train services to address passenger inconveniences."
 
-இந்த ரயில் சேவைகளானது இம்மாதம், 15ஆம் திகதி வரையில் முன்னெடுக்கப்படும் என அவர் குறிப்பிட்டுள்ளார்.
+🟩
 
-தேவையேற்படுமானால் மேலதிகமாக ரயில்கள் சேவையில் ஈடுபடுத்தப்படவுள்ளன என ரயில்வே  திணைக்களத்தின் பிரதி பொது முகாமையாளர் எம்.ஜே இந்திபொல தெரிவித்துள்ளார். (a)
+MJ Ipola, Deputy General Manager of the Railway Department, said that the 12 train services have been carried out in addition to the inconveniences of the passengers.
+
+The train services will be carried out until the 15th of this month, he said.
+
+Deputy General Manager of the Railway Department. (A)
 
 ◼️
 
 [Data](articles/d83f125d.json)
 
+[Extended Data](ext_articles/d83f125d.ext.json)
+
 ---
 
-### தட்டுப்பாடின்றி எரிபொருள் விநியோகம்
+### Fuel distribution
 
 *2024-04-12 00:33:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தட்டுப்பாடின்றி-எரிபொருள்-விநியோகம்/175-335868) · `ta`
 
-பண்டிகைக் காலத்தில் எரிபொருள் விநியோகத்தை தட்டுப்பாடின்றி தொடர்ந்தும் பேணுவதற்கு தேவையான நடவடிக்கைகள் மேற்கொள்ளப்பட்டுள்ளதாக இலங்கை கனியவளக் கூட்டுத்தாபனம் தெரிவித்துள்ளது.
+The Sri Lanka Ceylon Corporation has ensured fuel supply during the festive season by taking necessary steps and maintaining a stockpile to meet demand.
 
-எரிபொருள் தேவையை பூர்த்தி செய்வதற்குத் தேவையான கையிருப்பு உள்ளதாகவும் அதில் குறிப்பிடப்பட்டுள்ளது.  (a)
+🟩
+
+The Sri Lanka Ceylon Corporation has said that the necessary steps have been taken to maintain fuel supply during the festive season.
+
+It also stated that the stockpile is required to meet the fuel demand.(a)
 
 ◼️
 
 [Data](articles/08a820bb.json)
+
+[Extended Data](ext_articles/08a820bb.ext.json)
 
 ---
 
@@ -2275,71 +2347,5 @@ The suspects have been handed over to the Maradana Police Station for further in
 [Data](articles/f839db2b.json)
 
 [Extended Data](ext_articles/f839db2b.ext.json)
-
----
-
-### Decision to reduce SLAF troops
-
-*2024-04-11 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195533) · `si`
-
-Air Force Air Marshal Unima Rajapaksa announced a reduction in SLAF troops to 18,000, emphasizing the use of technology like CCTV, AI, drones, and information systems to enhance efficiency and literacy.
-
-🟩
-
-Commander of the Air Force, Air Force Air Marshal Unima Rajapaksa says that the airmen will reduce the technology to 18,000.
-
-He was speaking at a press conference held at the Air Force Headquarters yesterday.
-
-...
-
-[Data](articles/dac5c2b6.json)
-
-[Extended Data](ext_articles/dac5c2b6.ext.json)
-
----
-
-### South Korea opposition secures landslide victory in parliamentary vote
-
-*2024-04-11 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98569/south-korea-opposition-secures-landslide-victory-in-parliamentary-vote-) · `en`
-
-South Korea’s liberal opposition parties scored a landslide victory in a parliamentary election held on Wednesday, dealing a resounding blow to President Yoon Suk Yeol and his conservative party but likely falling just short of a super majority.
-
-The Democratic Party (DP) was projected to take 175 of the 300 seats in the new assembly, data from the National Election Commission and network broadcasters showed with all votes counted as of 10:32 a.m. (0132 GMT).
-
-A splinter liberal party considered allied with the DP was expected to take 12 seats, projections showed, leaving the bloc short of the 200 seats needed for a super-majority. Yoon’s People Power Party (PPP) was set to win 108 seats. An official announcement of the results is due later on Thursday.
-
-DP leader Lee Jae-myung, who led a combative campaign against Yoon, said the top priority now was to work for an economic recovery that is palpable for the average consumer.
-
-...
-
-[Data](articles/53af9eb5.json)
-
-[Extended Data](ext_articles/53af9eb5.ext.json)
-
----
-
-### The Department of Excise to carry out special action 2 days
-
-*2024-04-11 09:48:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-நாட்களும்-விசேட-நடவடிக்கை-முன்னெடுக்கும்-கலால்-திணைக்களம்/175-335847) · `ta`
-
-The Department of Excise in Colombo plans a special action on Sinhala and Tamil New Year, targeting illegal liquor sellers. A joint operation with four excise stations will involve over 50 officials. Licensed establishments found selling liquor illegally may have their licenses revoked.
-
-🟩
-
-The Department of Excise is planning to carry out a special action in Colombo in two festive days, targeting illegal liquor sellers and strictly implementing the law during the Sinhala and Tamil New Year.
-
-A high -ranking official who oversees Colombo city yesterday told the Daily Mirror that a joint operation has been organized in collaboration with four major excise stations in Kespewa, Paduku, Battaramulla and Colombo.
-
-As a result, more than 50 officials have been appointed in several groups in search of violating law for selling liquor in violation of excise orders on April 12 and 13.
-
-He said that they had received information about the organized sellers who bought more liquor in a large quantity of liquor before the New Year and sold the high prices in the black market.
-
-Tracking groups will excel in vehicles carrying liquor for relaxing purpose.
-
-...
-
-[Data](articles/158d700d.json)
-
-[Extended Data](ext_articles/158d700d.ext.json)
 
 ---

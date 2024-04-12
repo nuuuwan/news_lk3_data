@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 09:03:17**
+As of **2024-04-12 09:18:11**
 
 ## Newspaper Stats
 
-*Scraped **18,547** Articles*
+*Scraped **18,548** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,016
 dailyftlk | 1,018
 economynextcom | 1,036
 adalk | 1,554
-tamilmirrorlk | 2,167
+tamilmirrorlk | 2,168
 adaderanalk | 2,220
 virakesarilk | 2,768
 dailymirrorlk | 2,831
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,003
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,544 (100.0%) of 18,547 articles have been extended.
+18,547 (100.0%) of 18,548 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,8 @@ That may be because unlike other artists, Swift owns the copyright to her music 
 
 [Data](articles/64c5a7c3.json)
 
+[Extended Data](ext_articles/64c5a7c3.ext.json)
+
 ---
 
 ### Vietnamese billionaire sentenced to death for $44bn fraud
@@ -72,25 +74,39 @@ The habitually secretive communist authorities were uncharacteristically forthri
 
 [Data](articles/ad13eff1.json)
 
+[Extended Data](ext_articles/ad13eff1.ext.json)
+
 ---
 
-### இஸ்ரேல் மீது ஈரான் தாக்குதலை மேற்கொள்ளலாம் என்ற அச்சம் அதிகரிக்கின்றது – தடுத்து நிறுத்த அமெரிக்கா தீவிர முயற்சி
+### Increasing fear of Iran attack on Israel
 
 *2024-04-12 08:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/181017) · `ta`
 
-இஸ்ரேலின் பாதுகாப்பு குறித்த உத்தரவாதங்களை வழங்கிவரும் அதேவேளை அமெரிக்கா ஈரான் பதில் தாக்குதலை மேற்கொள்வதை தடுப்பதற்கான தீவிரமான முயற்சிகளில் ஈடுபட்டுள்ளது என வோசிங்டனில் அதிகாரிகள் தெரிவித்துள்ளனர்.
+The US is making serious efforts to prevent Iran from attacking Israel, aiming to avoid warfare in the Middle East. Officials believe Iran will launch an attack on Israel's sub-embassy in Syriad Nagar on April 1st, using US weapons if attacked. Israel's PM, Benjamin Nettanyahu, has vowed to harm Iran with US warplanes if attacked. The US expects strong support from the president and state secretary for Israel.
 
-அதேவேளை மத்தியகிழக்கில் பாரிய போர்வெடிப்பதை   தடுப்பதற்கான முயற்சிகளிலும் அமெரிக்கா ஈடுபட்டுள்ளது என அவர்கள் தெரிவித்துள்ளனர்.
+🟩
 
-அடுத்த சில நாட்களில் இஸ்ரேலிற்கு எதிராக ஈரான் ஆளில்லா விமான தாக்குதலை அல்லதுஏவுகணை தாக்குதலை மேற்கொள்ளவுள்ளதாக உறுதியாக  அமெரிக்க அதிகாரிகள் கருதுகின்றனர்
+Officials in Washington said the US is making serious efforts to prevent Iran from carrying out an attack on Israel's security.
 
-சிரியதலைநகரில் உள்ள தனது துணைதூதரகத்தின் மீது இஸ்ரேல்  ஏப்பிரல் முதலாம் திகதி மேற்கொண்ட  தாக்குதலிற்கு பதிலடியாக ஈரான் இந்த தாக்குதலை மேற்கொள்ளவுள்ளதாக அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+At the same time, the US is also trying to prevent massive warfare in the Middle East, they said.
 
-ஈரான் தாக்குதலை மேற்கொண்டால் அமெரிக்க ஆயுதங்களை பயன்படுத்தி பதில் தாக்குதலை மேற்கொள்ளவுள்ளதாக இஸ்ரேல் கோடிட்டுக்காட்டியுள்ளது.
+US officials are sure that Iran will launch an unmanned air strike or a dismissal attack against Israel over the next few days
+
+US officials have said that Iran will launch the attack on the April 1st attack on its sub -embassy in Syriad Nagar.
+
+Israel has outlined that Iran will use US weapons if Iran is attacked.
+
+Israeli Prime Minister Benjamin Nettanyaku has said that we will harm them, with the former of the US 15 warplanes on the Telnov airport in the south of Israel.
+
+We will ensure this through the safety and security methods we are ready to meet all the security requirements of Israel, ”he said.
+
+The US expects the US president and the state secretary to support Israel's strong support for Iran from carrying out Iran's attack on Israel.
 
 ...
 
 [Data](articles/7b81e889.json)
+
+[Extended Data](ext_articles/7b81e889.ext.json)
 
 ---
 
@@ -503,6 +519,22 @@ Wheat mango has been reduced by 7 rupees and reduced by 125 rupees of Netali. (A
 [Data](articles/221dd616.json)
 
 [Extended Data](ext_articles/221dd616.ext.json)
+
+---
+
+### 9 நாட்களில் 50, 537 சுற்றுலாப் பயணிகள்
+
+*2024-04-12 00:38:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-நாட்களில்-50-537-சுற்றுலாப்-பயணிகள்/175-335870) · `ta`
+
+இலங்கை வரும் சுற்றுலாப் பயணிகளின் எண்ணிக்கை ஏப்ரல் மாதத்தின் முதல் 9 நாட்களில் 50 ஆயிரத்தை கடந்துள்ளது.
+
+ஏப்ரல் மாதத்தின் முதல் 9 நாள்களில் 50 ஆயிரத்து 537 சுற்றுலாப் பயணிகள் வருகை தந்துள்ளனர் என சுற்றுலா அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+
+இதேவேளை, ஜனவரி மாதம் முதலாம் திகதி முதல் மார்ச் மாதம் 9 ஆம் திகதி வரையான காலப்பகுதிக்குள் 6 லட்சத்து 86 ஆயிரத்து 321 பேர் நாட்டிற்கு வருகை தந்துள்ளனர். (a)
+
+◼️
+
+[Data](articles/937b8629.json)
 
 ---
 
@@ -2327,29 +2359,5 @@ Amnesty International said its research showed a pattern in the unlawful use of 
 [Data](articles/3e7b5c20.json)
 
 [Extended Data](ext_articles/3e7b5c20.ext.json)
-
----
-
-### Human Rights Commission called for inquiry into Vadamarachchi School Principal and Zonal Education Director!
-
-*2024-04-11 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180953) · `ta`
-
-The Human Rights Commission of Sri Lanka has initiated an inquiry into the fundraising practices of Vadamarachchi School's Principal and Zonal Education Director, following reports of alleged misconduct involving WhatsApp fundraising. Protests have erupted, damaging the school's reputation.
-
-🟩
-
-A letter has been sent to the Principal of the Principal of the Primary School in Vadamarachchi and the Director of Vadamarachchi Zonal Education on 24.04.2024 to explain the fundraising of the school in the Jaffna Office of the Human Rights Commission of Sri Lanka.
-
-It was reported on Wednesday that some people, including the principal of the school, had received money from the parents of the students through a WhatsApp Social Media Group.
-
-Yesterday, a parties were protesting that the school's reputation was tarnished.
-
-It is noteworthy that this has been called for an investigation into the fund raising.
-
-◼️
-
-[Data](articles/0fe767bf.json)
-
-[Extended Data](ext_articles/0fe767bf.ext.json)
 
 ---

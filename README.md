@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 05:18:26**
+As of **2024-04-12 05:38:10**
 
 ## Newspaper Stats
 
-*Scraped **18,528** Articles*
+*Scraped **18,529** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,016
 dailyftlk | 1,018
 economynextcom | 1,035
 adalk | 1,554
-tamilmirrorlk | 2,164
+tamilmirrorlk | 2,165
 adaderanalk | 2,218
 virakesarilk | 2,765
 dailymirrorlk | 2,826
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,528 (100.0%) of 18,528 articles have been extended.
+18,528 (100.0%) of 18,529 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,20 @@ Heat stroke is a state of urgent medical treatment. It is an urgent state of inc
 [Data](articles/27b05f3a.json)
 
 [Extended Data](ext_articles/27b05f3a.ext.json)
+
+---
+
+### தீபச்செல்வனிடம் ரி.ஐ.டி. விசாரணை
+
+*2024-04-12 01:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீபச்செல்வனிடம்-ரி-ஐ-டி-விசாரணை/175-335872) · `ta`
+
+புத்தக வெளியீட்டு நிகழ்வு ஒன்றை ஏற்பாடு செய்தமைக்காகத் தமிழ்த் தேசிய கலை இலக்கியப் பேரவையின் தலைவரான தீபச்செல்வனிடம் இவ்வாறு விசாரணை மேற்கொள்ளப்பட்டுள்ளது.
+
+எழுத்தாளர் நா.யோகேந்திரநாதனின் '34 நாட்களில் நீந்திக் கடந்த நெருப்பாறு' என்ற புத்தகம் எழுத்தாளர் தீபச்செல்வன் தலைமையில் அண்மையில் வெளியிட்டு வைக்கப்பட்டது. இந்தப் புத்தக வெளியீடு தொடர்பாக நேற்று விசாரணை இடம்பெற்றது என்று தீபச்செல்வன் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/373efef5.json)
 
 ---
 
@@ -2375,25 +2389,5 @@ The Prime Minister HAN DUK-SOO and the Chairman of Prime Minister HAN DUK-SOO an
 [Data](articles/11e68d81.json)
 
 [Extended Data](ext_articles/11e68d81.ext.json)
-
----
-
-### SLPP MPs barred from going public on their support for presidential candidates
-
-*2024-04-11 08:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-MPs-barred-from-going-public-on-their-support-for-presidential-candidates/108-280617) · `en`
-
-Colombo, April 11 (Daily Mirror)- In the wake of SLPP (Sri Lanka Podujana Peramuna) MPS airing contrasting views over the upcoming elections, the party hierarchy has barred all MPS from making comments on their support to any presidential candidate until a formal decision is taken, a party official said yesterday.
-
-The party’s executive committee took this decision at its meeting held last Tuesday.
-
-The SLPP is currently divided on its support, with those holding positions in the government openly supporting the proposed candidacy of President Ranil Wickremesinghe.among them are ministers Susil Premajayantha, Prasanna Ranatunga and Ali Sabry.
-
-Another faction insists on fielding its own candidate. Also, the party has decided to take stern disciplinary action against those who sided with other parties, violating the party constitution.
-
-◼️
-
-[Data](articles/19e7ed24.json)
-
-[Extended Data](ext_articles/19e7ed24.ext.json)
 
 ---

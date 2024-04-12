@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 18:23:08**
+As of **2024-04-12 18:33:48**
 
 ## Newspaper Stats
 
-*Scraped **18,600** Articles*
+*Scraped **18,602** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 1,018
 economynextcom | 1,040
 adalk | 1,554
 tamilmirrorlk | 2,170
-adaderanalk | 2,228
-virakesarilk | 2,776
+adaderanalk | 2,229
+virakesarilk | 2,777
 dailymirrorlk | 2,846
 adaderanasinhalalk | 3,014
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,014
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,599 (100.0%) of 18,600 articles have been extended.
+18,600 (100.0%) of 18,602 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### காலநிலை தொடர்பில் விடுக்கப்பட்டுள்ள எச்சரிக்கை!
+
+*2024-04-12 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181033) · `ta`
+
+இதன்படி, மேல், தெற்கு, சப்ரகமுவ, வடக்கு மற்றும் வடமேல் மாகாணங்களிலும் மொனராகலை மாவட்டத்திலும் மாலை அல்லது இரவு வேளைகளில் இடியுடன் கூடிய மழையுடன் பலத்த மின்னலுக்கான அதிக சாத்தியக்கூறுகள் காணப்படுகின்றன.
+
+இடியுடன் கூடிய மழையின் போது அந்த பகுதிகளில் தற்காலிகமாக பலத்த காற்று வீசக்கூடும்.
+
+மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய விபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது.
+
+◼️
+
+[Data](articles/044511b2.json)
+
+---
 
 ### 200 kg of drug trapped in the deep sea south of Sri Lanka!
 
@@ -83,6 +99,24 @@ They are now being escorted to the Galle Harbour and will be handed over to the 
 ◼️
 
 [Data](articles/5b458fcb.json)
+
+[Extended Data](ext_articles/5b458fcb.ext.json)
+
+---
+
+### Vessel carrying massive cache of narcotics intercepted off Sri Lanka
+
+*2024-04-12 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98594/vessel-carrying-massive-cache-of-narcotics-intercepted-off-sri-lanka) · `en`
+
+Sri Lanka Navy has intercepted a multi-day fishing trawler carrying around 200kg of suspected heroin and crystal methamphetamine (‘Ice’) off the southern coast of the island.
+
+Ten crew members who were on board the vessel were also taken into account.
+
+They are now being escorted to the Galle Harbour and will be handed over to the respective authorities for onward investigations, the navy spokesperson added.
+
+◼️
+
+[Data](articles/69697c16.json)
 
 ---
 
@@ -2265,49 +2299,5 @@ After settling the remaining Aswesuma payments, the government had completed all
 [Data](articles/77f67fb6.json)
 
 [Extended Data](ext_articles/77f67fb6.ext.json)
-
----
-
-### STF arrests three suspects with weapons in Maradana
-
-*2024-04-11 18:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/STF-arrests-three-suspects-with-weapons-in-Maradana/108-280630) · `en`
-
-Colombo, April 11 (Daily Mirror) - In a coordinated operation with Operation 'Yukthiya', the STF arrested three individuals in Maradana with a cache of weapons, including a T-56 firearm and a magazine containing 14 rounds of live ammunition.
-
-Investigations revealed that these weapons were intended for use in conflicts between organized crime groups.
-
-During the raid, the STF also seized sharp weapons, including a sword and a dagger, concealed in a suitcase on the rooftop of a house.
-
-The suspects, aged 18, 34 and 47 and residents of Maradana, were handed over to the Maradana Police for further investigations.
-
-◼️
-
-[Data](articles/3c6173ff.json)
-
-[Extended Data](ext_articles/3c6173ff.ext.json)
-
----
-
-### A continued fuel supply during the year
-
-*2024-04-11 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195549) · `si`
-
-Ceylon Petroleum Corporation ensures continuous fuel supplies during the Sinhala-Tamil New Year, importing reserves and deploying the Ceylon Petroleum Carryer Company for distribution.
-
-🟩
-
-Ceylon Petroleum Corporation says that the Ceylon Petroleum Corporation (CPA) has taken measures to provide continuous fuel supplies during the Sinhala-Tamil New Year festival.
-
-The Corporation points out that steps have been taken to import sufficient reserves in stores to meet the country's fuel demand.
-
-Checks have been provided to the 15th to facilitate the fuel order process of the divider.
-
-The Petroleum Corporation stated that the Ceylon Petroleum Carryer Company has been decided to deploy the fuel distribution.
-
-◼️
-
-[Data](articles/47b2979c.json)
-
-[Extended Data](ext_articles/47b2979c.ext.json)
 
 ---

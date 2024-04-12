@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 00:03:26**
+As of **2024-04-13 00:18:20**
 
 ## Newspaper Stats
 
-*Scraped **18,634** Articles*
+*Scraped **18,635** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
-economynextcom | 1,040
+economynextcom | 1,041
 adalk | 1,559
 tamilmirrorlk | 2,172
 adaderanalk | 2,237
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,020
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,634 (100.0%) of 18,634 articles have been extended.
+18,634 (100.0%) of 18,635 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -453,6 +453,26 @@ Prodded for an answer to know whether it was a bank holiday, he said, “You jus
 [Data](articles/77e9e6cd.json)
 
 [Extended Data](ext_articles/77e9e6cd.ext.json)
+
+---
+
+### Sri Lanka to grow 1.9-pct in 2024 despite tax hikes: ADB
+
+*2024-04-12 20:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-grow-1-9-pct-in-2024-despite-tax-hikes-adb-158412/) · `en`
+
+ECONOMYNEXT – Sri Lanka is expected to grow 1.9 percent in 2024, and speed up to 2.5 percent in 2025, as the island recovers from a contraction last year, the Asian Development Bank said.
+
+Sri Lanka’s currency collapsed in 2022 after two years of aggressive macro-economic policy where money was printed to boost growth and taxes were also cut, throwing large section of the population into poverty and pushing up inflation.
+
+“In Sri Lanka, growth will rebound to 1.9 percent in 2024 and 2.5 percent in 2025 from the 2.3 percent contraction in 2023,” the ADB said in its Asian Development Outlook report.
+
+“This will be driven by rising output in services, resumption in industrial projects, and continuous reform aimed at improving the business climate.
+
+“Still, tax increases will dampen the recovery in private consumption and investment.”
+
+...
+
+[Data](articles/a951124a.json)
 
 ---
 
@@ -2295,31 +2315,5 @@ Adding to this fluid state of affairs are recent attempts  by vested interests t
 [Data](articles/d92322bd.json)
 
 [Extended Data](ext_articles/d92322bd.ext.json)
-
----
-
-### Have you seen the elephants are sleeping?
-
-*2024-04-12 02:13:24* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c136znzn1vvo) · `si`
-
-Elephants sleep 2-6 hours daily. In zoos, they sleep 4-6 hours. Professor Paul Manger studies elephant sleep.
-
-🟩
-
-It contains nothing here.Video header, usually the body is more than large mammal animals than large mammals.
-
-Although many elephants have seen, they are rarely seen.
-
-Professor Paul Manger, a researcher about Ali, is a very small sleep of mammals, according to Professor Paul Manger.
-
-In the natural environment, the lifes of elephants are limited to about two hours a day. But elephants living in zoos live in sleep for 4 - 6 hours a day.
-
-Generally, the body is more of the bedtime of animals than large mammals.
-
-◼️
-
-[Data](articles/980cf529.json)
-
-[Extended Data](ext_articles/980cf529.ext.json)
 
 ---

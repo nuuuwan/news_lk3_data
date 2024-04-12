@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 10:18:25**
+As of **2024-04-12 10:33:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,004
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,552 (100.0%) of 18,553 articles have been extended.
+18,553 (100.0%) of 18,553 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -121,6 +121,8 @@ Jayakody said a written notification has been sent to Public Security Minister T
 ...
 
 [Data](articles/efdcb49c.json)
+
+[Extended Data](ext_articles/efdcb49c.ext.json)
 
 ---
 

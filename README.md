@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 22:03:52**
+As of **2024-04-12 22:18:26**
 
 ## Newspaper Stats
 
-*Scraped **18,620** Articles*
+*Scraped **18,623** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ dailyftlk | 1,018
 economynextcom | 1,040
 adalk | 1,554
 tamilmirrorlk | 2,172
-adaderanalk | 2,234
+adaderanalk | 2,235
 virakesarilk | 2,779
-dailymirrorlk | 2,851
+dailymirrorlk | 2,853
 adaderanasinhalalk | 3,018
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,620 (100.0%) of 18,620 articles have been extended.
+18,620 (100.0%) of 18,623 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### Uncertainty over elections could risk Sri Lanka’s economic recovery: ADB
+
+*2024-04-12 22:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98599/uncertainty-over-elections-could-risk-sri-lankas-economic-recovery-adb) · `en`
+
+The “uncertainty” over the impending elections in Sri Lanka will cause a possible downward trend in the country’s economic outlook, the Asian Development Bank (ADB) has said.
+
+The island nation is set to face a presidential election in the last quarter of this year, while the parliamentary election is due mid-next year.
+
+However, political uncertainty prevails in the country as opposition parties have pledged to reverse the current IMF-linked reforms, which have proved to be unpopular with the masses.
+
+President Ranil Wickremesinghe, who has steered the recovery programme by going into a bailout deal with the International Monetary Fund (IMF) for a USD 2.9 billion facility, maintains that the island could once again face economic collapse if the IMF programme reforms are not adhered to.
+
+...
+
+[Data](articles/b302e3e8.json)
+
+---
+
+### Germany eases gender change rules
+
+*2024-04-12 21:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Germany-eases-gender-change-rules/108-280660) · `en`
+
+Germany, April 12 (BBC) - The German parliament has passed a law making it easier for citizens and residents to legally change gender.
+
+It's also introducing hefty fines - in specific circumstances - for disclosing someone's prior registered name or gender without consent.
+
+Previously, changing your registered gender required a doctor's certificate and the approval of a family court.
+
+Now over-18s can change to male, female or diverse, a third gender option that already exists under German law.
+
+Three months on from a request for such a change, applicants will then have to appear at a registry office in person.
+
+You can also request that no details regarding your gender are registered at all.
+
+The intentional and harmful disclosure of someone's prior name or legal gender could attract a fine of up to €10,000.
+
+However, there are exceptions - for example if it's a legal requirement due to court proceedings or police investigations.
+
+...
+
+[Data](articles/bb092f19.json)
+
+---
 
 ### Heavy showers expected in parts of the country
 
@@ -1538,6 +1582,30 @@ The habitually secretive communist authorities were uncharacteristically forthri
 
 ---
 
+### Taylor Swift’s music back on TikTok after dispute
+
+*2024-04-12 08:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Taylor-Swifts-music-back-on-TikTok-after-dispute/107-280638) · `en`
+
+April 12 (BBC) - Taylor Swift's songs are back on TikTok following a dispute that led her label to stop licensing its content to the app.
+
+Her music's return on Thursday comes ahead of the release of her new album, The Tortured Poets Department.
+
+Universal Music pulled songs by its artists in January, including Rihanna and Ariana Grande, citing a licensing dispute.
+
+While many of her songs - including You Belong With Me and Cruel Summer - are again available for users to add to their videos, music belonging to Universal's other artists has still not been relisted.
+
+That may be because unlike other artists, Swift owns the copyright to her music under the terms of a 2018 deal with Universal. Some reports speculated Swift reached a separate deal with TikTok.
+
+"Swifties" - Taylor Swift fans - took to the platform to share their delight at her music returning.
+
+"OMG this made my whole year," wrote verified user Jessica Golich, adding that users would "have the whole new album to play with".
+
+...
+
+[Data](articles/e0076a29.json)
+
+---
+
 ### Increasing fear of Iran attack on Israel
 
 *2024-04-12 08:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/181017) · `ta`
@@ -2233,71 +2301,5 @@ Welikanda OIC Inspector Samantha Ratnayake, a team of police officers including 
 [Data](articles/9b0ca1f0.json)
 
 [Extended Data](ext_articles/9b0ca1f0.ext.json)
-
----
-
-### There is no difference between the LTTE and the JVP
-
-*2024-04-11 22:45:30* · [`adalk`](https://www.ada.lk/breaking_news/එල්ටීටීඊය-හා-ජවිපෙ-අතර-වෙනසක්-නෑ/11-409063) · `si`
-
-The LTTE and JVP have no difference. Ranil Wickremesinghe may run for president. Namal Rajapaksa, after becoming the National Organizer of Parliamentarian and General Assembly of the President, visited Kandy, emphasizing no change in the LTTE and JVP's actions. He criticized political parties for imprisoning the government.
-
-🟩
-
-The rains of the budget is definitely seen in the next presidential election and the rains will definitely be seen and Ranil Wickremesinghe can be present in a presidential candidate.
-
-After obtaining the National Organizer of Parliamentarian and the General Assembly of the President, Namal Rajapaksa arrived in Kandy and commenced the blessings of the Mahawathu Asgiriya Maha Naman.
-
-He said that Namal Rajapaksa emphasized that the LTTE and the JVP had no change in the killing of both parties.
-
-Namal Rajapaksa said that some political parties were the only one who struggled and the final result was that the government was imprisoned.
-
-◼️
-
-[Data](articles/4e42749b.json)
-
-[Extended Data](ext_articles/4e42749b.ext.json)
-
----
-
-### One person was injured in an accident on the Vavuniya A9 road
-
-*2024-04-11 22:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181005) · `ta`
-
-One person was injured in an accident on the Vavuniya A9 road and admitted to Vavuniya Hospital. A tillage machine was hit by a motorcycle traveling from Omanthai to Vavuniya.
-
-🟩
-
-One person was admitted to the Vavuniya Hospital after being injured in an accident on the Vavuniya A9 road, police said.
-
-The tillage machine from the city has been hit by a motorcycle traveling from Omanthai to Vavuniya.
-
-A motorcycle passenger has been admitted to the Vavuniya Hospital after being injured.
-
-◼️
-
-[Data](articles/56d5fdcd.json)
-
-[Extended Data](ext_articles/56d5fdcd.ext.json)
-
----
-
-### Heat advisory: Temperatures to reach ‘Caution’ level in some areas tomorrow
-
-*2024-04-11 22:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/98581/heat-advisory-temperatures-to-reach-caution-level-in-some-areas-tomorrow) · `en`
-
-Heat index, the temperature felt on human body, is expected to increase up to ‘Caution’ level in parts of the Northern and North-Western provinces and Anuradhapura District on Friday (12).
-
-Issuing an advisory, the Meteorology Department cautioned that heat cramps and heat exhaustion; continued activity could result in heatstroke.
-
-The Heat Index Forecast is calculated by using relative humidity and maximum temperature and this is the condition that is felt on the human body, says the Meteorology Department.
-
-The department further says this is not the forecast of maximum temperature. It is generated by the Department of Meteorology for the next day period and prepared by using global numerical weather prediction model data, the advisory further read.
-
-◼️
-
-[Data](articles/832316a6.json)
-
-[Extended Data](ext_articles/832316a6.ext.json)
 
 ---

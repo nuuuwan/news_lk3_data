@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 06:17:39**
+As of **2024-04-12 06:55:33**
 
 ## Newspaper Stats
 
-*Scraped **18,529** Articles*
+*Scraped **18,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 1,554
 tamilmirrorlk | 2,165
 adaderanalk | 2,218
 virakesarilk | 2,765
-dailymirrorlk | 2,826
-adaderanasinhalalk | 2,999
+dailymirrorlk | 2,827
+adaderanasinhalalk | 3,000
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,529 (100.0%) of 18,529 articles have been extended.
+18,529 (100.0%) of 18,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### අද කාලගුණය
+
+*2024-04-12 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195554) · `si`
+
+අද (12) දිනයේ නැගෙනහිර සහ ඌව පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+දිවයිනේ සෙසු බොහෝ ප්‍රදේශවල සවස 1.00 න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකිය.
+
+බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතී.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනවලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්ෂාංශ වලට සෘජුවම ඉහළින් පවතී.
+
+අද (12) දහවල් 12:11 ට වන්චියන්කුලම්, ඕමන්ත, එරමඩු සහ තිරියායි යන ප්‍රදේශවලට හිරු මුදුන් වනු ඇත.
+
+◼️
+
+[Data](articles/2f66720c.json)
+
+---
+
+### Beauty of nature...
+
+*2024-04-12 06:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Beauty-of-nature/110-280440) · `en`
+
+Rare bird species and wild animals at the Horton Plains National Park in the summer season. Many local and foreign visitors frequent the National Park to witness its natural beauty. Located at an elevation of 2,100–2,300 m and encompassing mountain grasslands and forest, Horton Plains is rich in biodiversity and many of the species found here are endemic to the region. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/d77681da.json)
+
+---
 
 ### Heat stroke
 
@@ -2347,53 +2383,5 @@ Another section urges the native candidate to be stopped. The party has also dec
 [Data](articles/459317cc.json)
 
 [Extended Data](ext_articles/459317cc.ext.json)
-
----
-
-### 25-year-old arrested with cache of heroin worth Rs. 60mn
-
-*2024-04-11 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98568/25-year-old-arrested-with-cache-of-heroin-worth-rs-60mn) · `en`
-
-Maligawatta Police have arrested a man who was transporting a cache of heroin to the tune of Rs. 60 million.
-
-Acting on a tip-off they had received, Maligawatta police officers managed to make the arrest while the contraband was being transported to the Grandpass area.
-
-Accordingly, 1kg and 150g of heroin and ill-gotten money amounting to Rs. 750,000 were found on the suspect at the time of the arrest.
-
-The 25-year-old from the Wellampitiya area is reportedly a close associate of notorious criminal gang leader “Keselwatta Dinuka” who is currently in hiding in Dubai.
-
-He is slated to be produced before Maligakanda No. 2 Court today (11).
-
-◼️
-
-[Data](articles/85d82ff4.json)
-
-[Extended Data](ext_articles/85d82ff4.ext.json)
-
----
-
-### The South Korean ruling party is a serious defeat
-
-*2024-04-11 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195532) · `si`
-
-The main opposition in South Korea won a significant victory, consolidating Parliament power. The Democratic Party now holds 192 seats. The President's party suffered a severe defeat, with the Prime Minister and Chairman resigning.
-
-🟩
-
-The main opposition won the major opposition in South Korea yesterday (10) and they were able to consolidate the power of Parliament.
-
-The Democratic Party and the Democratic Party and the Democratic Party and the Democratic Party and the Democratic Party have come to hold 192 seats in the national church.
-
-The President's People's People Power has been a severe defeat.
-
-The election was considered as a referendum to consult the people's consent about the current President of the present President YOON Suk Seno.
-
-The Prime Minister HAN DUK-SOO and the Chairman of Prime Minister HAN DUK-SOO and the Chairman of Prime Minister HAN DUK-SOO and Prime Minister HAN DUK-SOO and Prime Minister HAN DUK-SOO and Prime Minister HAN DUK-SOO and Prime Minister HAN DUK-SOO and Prime Minister HAN Dong-Soo have resigned.
-
-◼️
-
-[Data](articles/11e68d81.json)
-
-[Extended Data](ext_articles/11e68d81.ext.json)
 
 ---

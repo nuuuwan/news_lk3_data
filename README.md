@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 15:52:34**
+As of **2024-04-12 16:03:58**
 
 ## Newspaper Stats
 
-*Scraped **18,584** Articles*
+*Scraped **18,586** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 163
-bbccomsinhala | 194
+bbccomsinhala | 195
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,016
@@ -19,14 +19,14 @@ adalk | 1,554
 tamilmirrorlk | 2,170
 adaderanalk | 2,226
 virakesarilk | 2,774
-dailymirrorlk | 2,840
+dailymirrorlk | 2,841
 adaderanasinhalalk | 3,011
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,584 (100.0%) of 18,584 articles have been extended.
+18,584 (100.0%) of 18,586 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -157,6 +157,22 @@ The Department of Meteorology continues to monitor the situation closely and urg
 [Data](articles/143fc552.json)
 
 [Extended Data](ext_articles/143fc552.ext.json)
+
+---
+
+### SLPP to take disciplinary action against GL, others
+
+*2024-04-12 14:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SLPP-to-take-disciplinary-action-against-GL-others/155-280647) · `en`
+
+Colombo, April 12 (Daily Mirror) - The Sri Lanka Podujana Peramuna (SLPP) is to take disciplinary action against MP Prof. G.L. Peiris and others who have signed an agreement with the Samagi Jana Balawegaya (SJB).
+
+These MPs were elected to Parliament on the SLPP ticket. Later, they defected from the party and sat in opposition. A week ago, they signed an electoral pact with the main opposition, the SJB.
+
+The SLPP, at its executive committee meeting, decided to initiate disciplinary action against them for signing an agreement with another party while being members elected on its ticket at the last election.
+
+◼️
+
+[Data](articles/3e12af29.json)
 
 ---
 
@@ -569,6 +585,24 @@ The Bathbinder Organization said that although Sri Lanka granted the right to fi
 [Data](articles/10baedb5.json)
 
 [Extended Data](ext_articles/10baedb5.ext.json)
+
+---
+
+### 'මට අපායක් වූ මියන්මාරයේ සයිබර් වහල් කඳවුර'
+
+*2024-04-12 09:57:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51n5ne95ddo) · `si`
+
+අවවාදය යි: ඇතැම්  පාඨකයින්‌ට පීඩාකාරී විය හැකි ලිංගික ප්‍රචණ්ඩත්වය ඇතුළු ප්‍රචණ්ඩත්වයට අදාළ තොරතුරු මෙහි ඇතුළත් විය හැකි ය. මේ සඳහා සහභාගි වූ එක් පුද්ගලයෙකුගේ අනන්‍යතාව ආරක්ෂා කිරීම සඳහා ඔහුගේ නම - රවී - ලෙස වෙනස් කර තිබේ.
+
+"උන් මගේ ඇඳුම් ගලවලා, මාව පුටුවක ඉන්දවලා, මගේ කකුලට කරන්ට් එක ඇල්ලුවා. මට හිතුණෙ ඒක මගේ ජීවිතේ අවසානය කියලා."
+
+රවී, තොරතුරු තාක්ෂණ ක්ෂේත්‍රයේ රැකියාවක් කිරීමට තායිලන්තයට ගොස් තිබූ නමුත් බැංකොක්හි දැවැන්ත කාර්යාල ගොඩනැගිල්ලක වාඩි වී සිටිනවා වෙනුවට 24 හැවිරිදි එම ශ්‍රී ලාංකිකයා මියන්මාරයේ අඳුරු ස්ථානයක සිරවී සිටියේ ය.
+
+ඔහු පැහැරගෙන ගොස් තායිලන්ත දේශ සීමාවේ පිහිටි නගරයක් වන මේ සොට් (Mae Sot) ආසන්නයේ ඇති ගංගාව හරහා ගෙන ගොස් මිනිස් ජාවාරමකට හසු කරගෙන තිබිණි.
+
+...
+
+[Data](articles/bfde6ed6.json)
 
 ---
 
@@ -2287,63 +2321,5 @@ Upon their rescue, efforts spearheaded by the Sri Lankan Mission, the Ministry o
 [Data](articles/7f660f95.json)
 
 [Extended Data](ext_articles/7f660f95.ext.json)
-
----
-
-### Heavy rains with strong lightning tonight
-
-*2024-04-11 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195544) · `si`
-
-Heavy rains and strong lightning tonight in 13 districts. Western, Central, Sabaragamuwa, Uva, and Matara districts warned. Reduce activities to minimize lightning damage. Temporary strong winds expected.
-
-🟩
-
-The Department of Meteorology has issued a latest announcement from 13 districts.
-
-It states that today (11) or her fee is capable of causing a strong lightning.
-
-The warning is being carried out in the Western, Central, Sabaragamuwa, Uva and Uva and Matara districts.
-
-The weather authorities requests the public to take measures to reduce the necessary activities to minimize the damages caused by lightning during the evening or night.
-
-The temporary strong winds also occur when thunderstorms occur.
-
-◼️
-
-[Data](articles/51fcc7de.json)
-
-[Extended Data](ext_articles/51fcc7de.ext.json)
-
----
-
-### Ready to provide housing scheme if you want to settle in Ponnaweli - Minister Douglas
-
-*2024-04-11 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/180986) · `ta`
-
-Douglas Devananda, Minister of Fisheries, offers housing schemes for Ponnaweli settlers. He clarified doubts about lime excavation work, emphasizing its benefits and readiness to address concerns.
-
-🟩
-
-Douglas Devananda, Secretary -General of the Eelam People's Democratic Party and Minister of Fisheries, said that if people want to settle people in Poonakari Ponnaweli, the people are ready to provide housing schemes for the people.
-
-He was speaking at a media briefing held at his party office in Jaffna on Thursday (11).
-
-Recently, I took two departmental officers for the launch of lime excavation work in order to carry out the development of the people in Ponni.
-
-I went there to clarify the doubts that the people had to clarify the people's doubts.
-
-The excavation work is only carried out if the excavation of the Ponnaveli Lime Excavation is considered favorable to the people.
-
-Some said that at a media briefing, the people who were in Ponnaweli said they could only get a home plan if they came out of publications.
-
-I would like to say something to them.
-
-The development of the country and the development of the country cannot be prevented by providing alcohol for political purposes.
-
-...
-
-[Data](articles/7c393c20.json)
-
-[Extended Data](ext_articles/7c393c20.ext.json)
 
 ---

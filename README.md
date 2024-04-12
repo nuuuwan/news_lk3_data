@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 07:41:46**
+As of **2024-04-12 07:54:31**
 
 ## Newspaper Stats
 
-*Scraped **18,532** Articles*
+*Scraped **18,536** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,39 @@ dbsjeyarajcom | 214
 newsfirstlk | 363
 islandlk | 1,016
 dailyftlk | 1,018
-economynextcom | 1,035
+economynextcom | 1,036
 adalk | 1,554
-tamilmirrorlk | 2,165
+tamilmirrorlk | 2,167
 adaderanalk | 2,219
 virakesarilk | 2,765
 dailymirrorlk | 2,827
-adaderanasinhalalk | 3,000
+adaderanasinhalalk | 3,001
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,531 (100.0%) of 18,532 articles have been extended.
+18,532 (100.0%) of 18,536 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### සැමියාගේ මරණයට බිරිඳ සහ අනියම් සැමියා අත්අඩංගුවට
+
+*2024-04-12 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195556) · `si`
+
+නිවසක් ගිනිගෙන පුද්ගලයෙකු මියගොස් ඇති බවට ඉකුත් 10 වනදා පොලීසියට වාර්තා වූ සිද්ධිය ඝාතනයක් බව පොලීසිය සැකකරයි.
+
+ඊයේ (11) සිදුකළ පශ්චාත් මරණ පරීක්ෂණයේදී ගෙල කැපීම හේතුවෙන් මෙම මරණය සිදුවී ඇති බවට අනාවරණය වී තිබුණි.
+
+ඒ අනුව මෙම මරණය සම්බන්ධයෙන් මරණකරුගේ 33 හැවිරිදි බිරිඳ සහ 63 හැවිරිදි ඇයගේ අනියම් සබඳතාවයක් පැවැත්වූ පුද්ගලයා අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/1d16e7b9.json)
+
+---
 
 ### 100mm rainfall likely in Western Province and several other areas
 
@@ -51,6 +67,24 @@ On the apparent northward relative motion of the sun, it is going to be directly
 ...
 
 [Data](articles/8884d89d.json)
+
+[Extended Data](ext_articles/8884d89d.ext.json)
+
+---
+
+### Arms manufacturers show Indian capability to Sri Lankan armed forces, military
+
+*2024-04-12 07:00:00* · [`economynextcom`](https://economynext.com/arms-manufacturers-show-indian-capability-to-sri-lankan-armed-forces-military-158316/) · `en`
+
+ECONOMYNEXT – Indian arm manufacturing firms showed the Delhi’s capability in arm manufacturing to Sri Lankan military at a seminar on Wednesday which the island nation expects to open the door for future joint collaboration in manufacturing and services.
+
+Indian High Commission in Colombo High Commission organised the seminar titled “Identifying New Opportunities and Forging New Bonds” to promote Indian Made Defence equipment and explore avenues for collaboration in defence production.
+
+India’s privately owned defence companies demonstrated the capability they have developed in manufacturing arms and other products including unmanned aerial vehicles (UAVs), latest drones, and latest earth movers used in war zones.
+
+...
+
+[Data](articles/6421abae.json)
 
 ---
 
@@ -213,6 +247,36 @@ Wheat mango has been reduced by 7 rupees and reduced by 125 rupees of Netali. (A
 [Data](articles/221dd616.json)
 
 [Extended Data](ext_articles/221dd616.ext.json)
+
+---
+
+### 15 ஆம் திகதி வரை விசேட ரயில் சேவை
+
+*2024-04-12 00:35:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-ஆம்-திகதி-வரை-விசேட-ரயில்-சேவை/175-335869) · `ta`
+
+பயணிகளின் அசௌகரியங்களை கருத்திற் கொண்டு, மேலதிகமாக 12 ரயில் சேவைகள் முன்னெடுக்கப்பட்டுள்ளன என ரயில்வே திணைக்களத்தின் பிரதி பொது முகாமையாளர் எம்.ஜே இந்திபொல தெரிவித்துள்ளார்.
+
+இந்த ரயில் சேவைகளானது இம்மாதம், 15ஆம் திகதி வரையில் முன்னெடுக்கப்படும் என அவர் குறிப்பிட்டுள்ளார்.
+
+தேவையேற்படுமானால் மேலதிகமாக ரயில்கள் சேவையில் ஈடுபடுத்தப்படவுள்ளன என ரயில்வே  திணைக்களத்தின் பிரதி பொது முகாமையாளர் எம்.ஜே இந்திபொல தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/d83f125d.json)
+
+---
+
+### தட்டுப்பாடின்றி எரிபொருள் விநியோகம்
+
+*2024-04-12 00:33:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தட்டுப்பாடின்றி-எரிபொருள்-விநியோகம்/175-335868) · `ta`
+
+பண்டிகைக் காலத்தில் எரிபொருள் விநியோகத்தை தட்டுப்பாடின்றி தொடர்ந்தும் பேணுவதற்கு தேவையான நடவடிக்கைகள் மேற்கொள்ளப்பட்டுள்ளதாக இலங்கை கனியவளக் கூட்டுத்தாபனம் தெரிவித்துள்ளது.
+
+எரிபொருள் தேவையை பூர்த்தி செய்வதற்குத் தேவையான கையிருப்பு உள்ளதாகவும் அதில் குறிப்பிடப்பட்டுள்ளது.  (a)
+
+◼️
+
+[Data](articles/08a820bb.json)
 
 ---
 
@@ -2277,119 +2341,5 @@ Tracking groups will excel in vehicles carrying liquor for relaxing purpose.
 [Data](articles/158d700d.json)
 
 [Extended Data](ext_articles/158d700d.ext.json)
-
----
-
-### 2 days of special action: excise
-
-*2024-04-11 09:48:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-நாட்களும்-விசேட-நடவடிக்கை-கலால்/175-335847) · `ta`
-
-The Department of Excise in Colombo plans a special action on Sinhala and Tamil New Year to target illegal liquor sellers, involving over 50 officers from four major excise stations. Licensed establishments found selling illegally will have their licenses revoked.
-
-🟩
-
-The Department of Excise is planning to carry out a special action in Colombo in two festive days, targeting illegal liquor sellers and strictly implementing the law during the Sinhala and Tamil New Year.
-
-A high -ranking official who oversees Colombo city yesterday told the Daily Mirror that a joint operation has been organized in collaboration with four major excise stations in Kespewa, Paduku, Battaramulla and Colombo.
-
-As a result, more than 50 officers have been appointed in several groups in search of those who violate the law that sells liquor in violation of the excise orders on April 12 and 13.
-
-He said that they had received information about the organized sellers who bought more liquor in a large quantity of liquor before the New Year and sold the high prices in the black market.
-
-Tracking groups will excel in vehicles carrying liquor for relaxing purpose.
-
-...
-
-[Data](articles/b981d574.json)
-
-[Extended Data](ext_articles/b981d574.ext.json)
-
----
-
-### Celebrity Mridanga Vidhuvan has passed away!
-
-*2024-04-11 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/180949) · `ta`
-
-Mridanga Vidhuvan Brahmasree S. Varadarajasarma, a renowned artist and educator, passed away on Wednesday, May 10, in Tellippalai, Jaffna. Born on May 2, 1955, in Tellipala, he contributed significantly to art and education, especially in moral development.
-
-🟩
-
-Popular Mridanga Vidhuvan Brahmasree S. Varadarajasarma passed away on Wednesday (10) at Tellippalai, Jaffna.
-
-Born on May 2, 1955, a native of Tellipala.He has carried out various artistic work as Mridanga Vidhan.
-
-It is noteworthy that from the time of the war to the present, moral education has contributed to the development of education.
-
-◼️
-
-[Data](articles/e8523e00.json)
-
-[Extended Data](ext_articles/e8523e00.ext.json)
-
----
-
-### Thunderstorms after one o'clock in the afternoon
-
-*2024-04-11 09:41:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிற்பகல்-ஒரு-மணிக்குப்-பின்னர்-இடியுடன்-கூடிய-மழை-பெய்யும்/175-335846) · `ta`
-
-Thunderstorms expected after 1 PM in North, North Western, Western, Sabaragamuwa provinces, Anuradhapura, Galle, Matara districts, and Eastern, Uva provinces. Heavy rains in Central, Sabaragamuwa, Upper, Southern Provinces. Vigilance advised for strong winds and lightning. Rainfall in sea regions from Trincomalee to Batticaloa, Puttalam to Colombo, Galle. Wind speeds may increase to 40-45 km/h in certain areas.
-
-🟩
-
-The Department of Meteorology has said that increased temperatures will occur today in the North, North Western, Western and Sabaragamuwa provinces as well as in the Anuradhapura, Galle and Matara districts.
-
-Due to the North of the Sun's north, the sun is at around 12.11 pm today at around 12.11 pm.
-
-Rainfall or thunderstorms can occur frequently in the Eastern and Uva provinces as well as in the Hambantota district.
-
-Showers or thunderstorms are likely to occur after one o'clock in the afternoon.
-
-Heavy rains are expected to occur in some parts of the Central, Sabaragamuwa, Upper and Southern Provinces.
-
-In cases where strong winds and lightning are occurring, the public is asked to act with vigilance.
-
-Rainfall is expected in the sea regions along the coast of Trincomalee to Batticaloa to Hambantota.
-
-Rainfall or thunderstorms are expected in many parts of the sea regions from Puttalam to Colombo and Galle.
-
-...
-
-[Data](articles/30b532d1.json)
-
-[Extended Data](ext_articles/30b532d1.ext.json)
-
----
-
-### Thunderstorm after afternoon
-
-*2024-04-11 09:41:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிற்பகலுக்குப்-பின்னர்-இடியுடன்-மழை-பெய்யும்/175-335846) · `ta`
-
-Expect thunderstorms in Northern, North Western, Western, Sabaragamuwa provinces, Anuradhapura, Galle, Matara districts, and Eastern, Uva provinces, with heavy rains in Central, Sabaragamuwa, Upper, Southern Provinces. Strong winds and lightning may occur, advising vigilance. Rainfall or thunderstorms expected in sea regions from Puttalam to Colombo and Hambantota, with winds blowing east at 15-25 km/h, potentially increasing to 40-45 km/h in some areas.
-
-🟩
-
-The Department of Meteorology has said that increased temperatures will occur today in the Northern, North Western, Western and Sabaragamuwa provinces as well as in Anuradhapura, Galle and Matara districts.
-
-Due to the north of the Sun's north, the sun is at around 12.11 pm today.
-
-Rainfall or thunderstorms are expected in the Eastern and Uva provinces as well as in the Hambantota district.
-
-Showers or thunderstorms are likely to occur after one o'clock in the afternoon.
-
-Heavy rains are expected to occur in some parts of the Central, Sabaragamuwa, Upper and Southern Provinces.
-
-In cases where strong winds and lightning are occurring, the public is asked to act with vigilance.
-
-Rainfall is expected in the sea regions beyond the coast of Trincomalee to Batticaloa to Hambantota.
-
-Rainfall or thunderstorms are expected in many parts of the sea regions from Puttalam to Colombo and Hambantota.
-
-In the sea regions, the wind blows from the east direction or from a different direction at 15 - 25 km / h.
-
-...
-
-[Data](articles/b3abaf3e.json)
-
-[Extended Data](ext_articles/b3abaf3e.ext.json)
 
 ---

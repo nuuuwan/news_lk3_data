@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 11:53:01**
+As of **2024-04-12 12:03:39**
 
 ## Newspaper Stats
 
-*Scraped **18,558** Articles*
+*Scraped **18,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,018
 economynextcom | 1,037
 adalk | 1,554
 tamilmirrorlk | 2,169
-adaderanalk | 2,222
+adaderanalk | 2,223
 virakesarilk | 2,770
 dailymirrorlk | 2,832
 adaderanasinhalalk | 3,006
@@ -26,25 +26,49 @@ adaderanasinhalalk | 3,006
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,557 (100.0%) of 18,558 articles have been extended.
+18,558 (100.0%) of 18,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### දෙමළ ජනතාවට වෙනම ජනාධිපති අපේක්ෂකයෙක් අවශ්‍ය නැහැ
+### Woman and her paramour arrested over murder of husband
+
+*2024-04-12 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98588/woman-and-her-paramour-arrested-over-murder-of-husband) · `en`
+
+A woman, 33, and her paramour, 63, have been arrested in connection with the murder of a 39-year-old man. The victim was the husband of the female arrestee, according to the police.
+
+In the early hours of Wednesday (10), the body of a man who died in a house fire in the Kolavil 02 area of Akkaraipattu was found.
+
+During the post-mortem performed at the Akkaraipattu Base Hospital concluded that the actual cause of death was a haemorrhage following an incised wound of the neck.
+
+Further investigations into the incident led to the arrest of the wife of the deceased and her paramour, who is also a resident of the Kolavil 02 area.
+
+◼️
+
+[Data](articles/971fbda4.json)
+
+---
+
+### Tamils need a separate presidential candidate
 
 *2024-04-12 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195562) · `si`
 
-ජනාධිපතිවරණය සඳහා දෙමළ ජනතාවට වෙනම අපේක්ෂකයෙකු අවශ්‍ය නොවන බව ලංකා කම්කරු කොංග්‍රසයේ නායක සෙන්දිල් තොණ්ඩමන් මහතා පවසයි.
+Sri Lanka Labor Congress Leader Sandil Thondaman states Tamils don't need a separate presidential candidate, emphasizing the Ceylon Workers' Congress will support President Ranil Wickremesinghe.
 
-ඔහු පෙන්වා දෙන්නේ වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට ලංකා කම්කරු කොංග්‍රසය කටයුතු කරනු ඇති බවය.
+🟩
 
-කොළඹ පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ලංකා කම්කරු කොංග්‍රසයේ නායක සෙන්දිල් තොණ්ඩමන් මහතා මේ බව සඳහන් කළේය.
+Sri Lanka Labor Congress Leader Sandil Thondaman says that the Tamil people do not need a separate candidate for the presidential election.
+
+He points out that the Ceylon Workers' Congress will work to support the present President Ranil Wickremesinghe.
+
+He was speaking at a media briefing in Colombo, he said this.
 
 ◼️
 
 [Data](articles/7ea291ab.json)
+
+[Extended Data](ext_articles/7ea291ab.ext.json)
 
 ---
 
@@ -2337,27 +2361,5 @@ In case of problems with the purchased items, he said that the Consumer Affairs 
 [Data](articles/7e868706.json)
 
 [Extended Data](ext_articles/7e868706.ext.json)
-
----
-
-### Increase in circulation of fake notes during the New Year
-
-*2024-04-11 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180970) · `ta`
-
-The police advise against circulating fake notes during New Year, urging caution with money. Deputy Inspector General of Police Nihal Talduwa warns of an increase in fake currency, especially in suburbs, and advises reporting any changes in currency notes.
-
-🟩
-
-The police have advised the public to increase the circulation of fake currency this year and to be careful with money handling.
-
-Some people, especially in suburbs, and many other parts of the country to change fake currency notes. Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said.
-
-He also told the police to inform the police if there was a change in the currency notes during the cash handling.
-
-◼️
-
-[Data](articles/80b1a2a8.json)
-
-[Extended Data](ext_articles/80b1a2a8.ext.json)
 
 ---

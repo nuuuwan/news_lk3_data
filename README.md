@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 14:03:23**
+As of **2024-04-12 14:18:26**
 
 ## Newspaper Stats
 
-*Scraped **18,569** Articles*
+*Scraped **18,570** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,554
 tamilmirrorlk | 2,169
 adaderanalk | 2,225
 virakesarilk | 2,774
-dailymirrorlk | 2,833
+dailymirrorlk | 2,834
 adaderanasinhalalk | 3,009
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,566 (100.0%) of 18,569 articles have been extended.
+18,569 (100.0%) of 18,570 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
+
+### SLTB’s daily earnings surge to over Rs. 20M in New Year rush
+
+*2024-04-12 13:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLTBs-daily-earnings-surge-to-over-Rs-20M-in-New-Year-rush/108-280642) · `en`
+
+Colombo, April 12 (Daily Mirror) - The daily earnings of the Sri Lanka Transport Board (SLTB) have surged by over Rs. 20 million due to increased demand for transport services during the New Year period, SLTB Deputy General Manager Panduka Swarnahansa said.
+
+This is a significant boost compared to the usual daily income, he said.
+
+To cater to the influx of travellers heading to their hometowns, the SLTB has organised special bus services departing from the Colombo Central Bus Stand today.
+
+Additionally, the SLTB has arranged numerous bus services to run along all the expressways starting from the Makumbura Multimodal Center (MMC).
+
+◼️
+
+[Data](articles/0f99acea.json)
+
+---
 
 ### U.S. support for Philippines, Japan defense ‘ironclad’ - Biden says amid growing China provocations
 
@@ -46,23 +64,31 @@ The U.S. and the Philippines have had a mutual treaty in place for more than 70 
 
 [Data](articles/6d985d0d.json)
 
+[Extended Data](ext_articles/6d985d0d.ext.json)
+
 ---
 
-### ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක්
+### A pronouncement of strong lightning
 
 *2024-04-12 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195566) · `si`
 
-ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+The Department of Meteorology warns of increased lightning strikes in Western, Southern, Sabaragamuwa, North, and Northwestern provinces, and Moneragala district at night, advising the public to take precautions against lightning.
 
-ඒ අනුව බස්නාහිර, දකුණ, සබරගමුව, උතුර සහ වයඹ පළාත්වලත් මොනරාගල දිස්ත්‍රික්කයේත් සවස් කාලයේ දී හෝ රාත්‍රී කාලයේ දී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇති වීමේ වැඩි හැකියාවක් පවතින බවය.
+🟩
 
-ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකිය.
+The Department of Meteorology has issued an announcement in powerful lightning.
 
-අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Accordingly, there is an increase in lightning strikes in the Western, Southern, Sabaragamuwa, North and North and Northwestern provinces and at night in the Moneragala district.
+
+There may be temporary localized strong winds during thundershowers.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce the dangers of lightning.
 
 ◼️
 
 [Data](articles/57315557.json)
+
+[Extended Data](ext_articles/57315557.ext.json)
 
 ---
 
@@ -692,23 +718,31 @@ However, according to the current Amendment, all liquor stations will be opened 
 
 ---
 
-### பெரமுனவின் ஆதரவு வேட்பாளருக்கும் சஜித்துக்கும் இடையிலேயே போட்டி - எதிர்வு கூறுகிறார் எஸ்.பி.திஸாநாயக்க
+### Competition between Peramuna's support candidate and Sajith
 
 *2024-04-12 06:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/181009) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் பொதுஜனபெரமுனவின் ஆதரவுடன் களமிறங்கும் வேட்பாளருக்கும், ஐக்கிய மக்கள் சக்தியின் தலைவரும், எதிர்க்கட்சித்தலைவருமான சஜித் பிரேமதாசவுக்கும் இடையில் தான் பிரான போட்டி காணப்படும் என்று பாராளுமன்ற உறுப்பினர் எஸ்.பி.திஸாநாயக்க தெரிவித்துள்ளார்.
+"PA's candidate vs. Sajith Premadasa in presidential race. Others aim to distract, but PA's candidate or Sajith will dominate. Others may not secure parliamentary seats post-election."
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக பலரும் வரிசையில் நிற்கின்றார்கள். வெவ்வேறு கதைகளை கூறிக் கொண்டிருக்கின்றார்கள்.
+🟩
 
-அவையெல்லாம் தேர்தலில் மக்களை திசைதிருப்பி வெற்றிகளை தம்வசப்படுத்துவதற்கே ஆகும். ஆனால் கள யதார்த்த நிலைமையானது முற்றிலும் மாறுபட்டதாகவே உள்ளது.
+Parliamentarian SP Dissanayake has said that there will be a rivalry between the candidate of the PA, the leader of the United People's Power and the Leader of the Opposition, Sajith Premadasa.
 
-பொதுஜனபெரமுனவின் ஆதரவுடன் வேட்பாளர் ஒரு நிறுத்தப்படுவார் அல்லது பொதுஜனபெரமுனவில் இருந்து வேட்பாளர் ஒருவர் நிறுத்தப்படுவர்.
+Many are in line to contest the upcoming presidential election. They are telling different stories.
 
-அந்த வகையில் குறித்த வேட்பாளருக்கும்,  ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாசவுக்கும் இடையில் தான் பிரதான போட்டி நடைபெறவுள்ளது என்பதே எனது கணிப்பாகும்.
+All of them are to distract the people in the election and defeat the victories. But the reality of the field is completely different.
 
-...
+With the support of the PA, the candidate will be stopped or a candidate from the PA.
+
+My prediction is that the main competition will be held between the candidate and the leader of the United People's Power Sajith Premadasa.
+
+Therefore, others will be unidentified after the election. He said that they would not be able to get a seat in the next parliamentary election.
+
+◼️
 
 [Data](articles/0f71ec8b.json)
+
+[Extended Data](ext_articles/0f71ec8b.ext.json)
 
 ---
 
@@ -2337,25 +2371,5 @@ The evidence is in 104 boxes weighing a total of six tonnes. Eighty-five defenda
 [Data](articles/646e1f2f.json)
 
 [Extended Data](ext_articles/646e1f2f.ext.json)
-
----
-
-### Be careful when travelling on long-distance buses, warn Police
-
-*2024-04-11 13:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Be-careful-when-travelling-on-long-distance-buses-warn-Police/108-280623) · `en`
-
-Colombo, April 11 (Daily Mirror) - The Police Department today announced that the public should be vigilant over a gang that robs valuable belongings of long-distance passengers.
-
-They said members of this gang usually board long-distance service buses like ordinary passengers and rob the valuable belongings of passengers.
-
-Therefore, police request the passengers, bus drivers and conductors to be more careful.
-
-The police also said that these thefts happen mostly on the Badulla-Colombo long-distance buses.
-
-◼️
-
-[Data](articles/4445cf5b.json)
-
-[Extended Data](ext_articles/4445cf5b.ext.json)
 
 ---

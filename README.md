@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-12 13:34:05**
+As of **2024-04-12 13:52:55**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,008
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,565 (100.0%) of 18,566 articles have been extended.
+18,566 (100.0%) of 18,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-12 (Friday)
 
-### මහ බැංකුව යළිත් ඩොලර් ගනී
+### The Central Bank reestably dollars
 
 *2024-04-12 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195564) · `si`
 
-ශ්‍රී ලංකා මහ බැංකුව 2024 මාර්තු මාසයේදී විදේශ විනිමය වෙළෙඳපොළෙන් අමෙරිකානු ඩොලර් මිලියන 715ක් මිලදී ගෙන තිබෙන බව මහ බැංකු දත්ත පෙන්වා දෙයි.
+The Central Bank of Sri Lanka (CBSL) purchased $715M and $239.5M in the forex market in March 2024, totaling $1,199M this year.
 
-එමෙන්ම මහ බැංකුව විසින් පෙබරවාරි මාසයේ අමෙරිකානු ඩොලර් මිලියන 239.5ක් විදේශ විනිමය වෙළෙඳපොළෙන් මිලදී ගෙන තිබේ.
+🟩
 
-ඒ අනුව මේ වසරේ මේ දක්වා මහ බැංකුව විසින් වෙළෙඳපොළෙන් මිලදී ගෙන ඇති මුළු මුදල ඩොලර් මිලියන 1,199ක් දක්වා ඉහළ ගොස් ඇති බව නිල දත්ත පෙන්වා දෙයි.
+Central Bank of Sri Lanka (CBSL) has purchased US $ 715 million in the forex market in March 2024.
+
+The Central Bank has also purchased US $ 239.5 million in the forex market.
+
+Accordingly, the total amount purchased by the Central Bank has increased to 1,199 million in the market this year.
 
 ◼️
 
 [Data](articles/9e649f92.json)
+
+[Extended Data](ext_articles/9e649f92.ext.json)
 
 ---
 

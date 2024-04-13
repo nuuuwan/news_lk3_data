@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 18:07:13**
+As of **2024-04-13 18:18:58**
 
 ## Newspaper Stats
 
-*Scraped **18,708** Articles*
+*Scraped **18,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,045
 adalk | 1,560
-tamilmirrorlk | 2,185
+tamilmirrorlk | 2,186
 adaderanalk | 2,252
 virakesarilk | 2,782
-dailymirrorlk | 2,872
+dailymirrorlk | 2,873
 adaderanasinhalalk | 3,038
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,707 (100.0%) of 18,708 articles have been extended.
+18,708 (100.0%) of 18,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### Wild elephant rampage leaves family injured  in Dimbulagala
+
+*2024-04-13 17:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wild-elephant-rampage-leaves-family-injured-in-Dimbulagala/108-280677) · `en`
+
+April 13 (Daily Mirror) -  Three members of a family were injured after a wild elephant wreaked havoc, attacking their house in Dimbulagala.
+
+According to the Manampitiya Police, an eight-year-old daughter, four-year-old son and their twenty-six-year-old mother sustained injuries when the elephant toppled a wall of their residence.
+
+They were promptly rushed to the Manampitiya Hospital for medical attention.
+
+Hospital sources revealed that the family members suffered head and body injuries from the impact of the collapsing brick walls.
+
+◼️
+
+[Data](articles/dc221796.json)
+
+---
 
 ### Heat advisory issued for tomorrow; thundershowers also expected in some areas
 
@@ -51,6 +69,26 @@ The department advised the members of the public to take adequate precautions to
 ◼️
 
 [Data](articles/2d4a075b.json)
+
+[Extended Data](ext_articles/2d4a075b.ext.json)
+
+---
+
+### தமிழ் பொது வேட்பாளர் விவகாரத்தை குழப்ப பலர் சதி
+
+*2024-04-13 17:23:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-பொது-வேட்பாளர்-விவகாரத்தை-குழப்ப-பலர்-சதி/175-335905) · `ta`
+
+பொது வேட்பாளர் விவகாரத்தை குழப்ப பலர் சதியில் இறங்கியுள்ளதாக வடக்கு மாகாண சபை முன்னாள் உறுப்பினர் சபா குகதாஸ் குற்றஞ்சாட்டியுள்ளார்.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் தமிழ்ப் பொது வேட்பாளரை களம் இறக்குவது தொடர்பில் தாயக புலம்பெயர் தமிழர்களிடையே ஆதரவு பெருகி வரும் நிலையில் அதனை குழப்புவதற்கு பல தரப்பின் நிகழ்ச்சி நிரல்களில் தமிழ்த் தரப்பில் சிலர் சதி முயற்சியில் இறங்கியுள்ளனர்.
+
+அரசுடன் இணைந்துள்ள தமிழ் முகவர்கள்  வழமை போன்று அரசுக்கு சார்பாக பொது வேட்பாளர் விவகாரத்தை விமர்சிப்பதை தாண்டி தமிழ்த் தேசியக் கட்சிகளில் இருப்பவர்களும் வேறு சிலரும் மறைமுக அரசின் மற்றும் வெளிச் சக்திகளின் முகவர்களாக மாறி எதிரான கருத்துக்களை ஊடகப் பரப்பில் முன் வைத்து வருகின்றனர்.
+
+அண்மையில் பாராளுமன்ற உறுப்பினர் சுமந்திரன் அவர்களது கருத்து பொது வேட்பாளர் விடையத்தில் ராஜபக்சா்கள் பின்னணியில் இருப்பதாக சந்தேகம் வெளியிட்டார்.
+
+...
+
+[Data](articles/208667d4.json)
 
 ---
 
@@ -2225,59 +2263,5 @@ The various advanced platforms and equipment developed indigenously in India can
 [Data](articles/6ff5bedf.json)
 
 [Extended Data](ext_articles/6ff5bedf.ext.json)
-
----
-
-### Ven. Gnanasara Thera not among prisoners to be released tomorrow
-
-*2024-04-12 18:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ven-Gnanasara-Thera-not-among-prisoners-to-be-released-tomorrow/108-280650) · `en`
-
-Colombo, April 12 (Daily Mirror) - Bodu Bala Sena (BBS) General Secretary Ven. Galaboda Atte Gnanasara Thera is not on the list among the prisoners to be released under the special State amnesty tomorrow.
-
-An official from the Prisons Department said he cannot be released under the common amnesty.
-
-The official said that Ven. Gnanasara Thera should be released under a special amnesty by the President.
-
-Ven. Gnanasara Thera was sentenced on March 28 to four-year-rigorous imprisonment for making a hate speech against the Islam on the Kuragala Temple.
-
-◼️
-
-[Data](articles/07fc0b28.json)
-
-[Extended Data](ext_articles/07fc0b28.ext.json)
-
----
-
-### Searly Korean singer park bore is killed
-
-*2024-04-12 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195573) · `si`
-
-Famous Korean singer Park Boarm, 30, died mysteriously after a private party. Friends found her unconscious in the bathroom. Cause of death unknown. Park, known for her talent in Super Star K2 and the "Beautiful" song, was set to release a new song for her 10th anniversary in the music industry.
-
-🟩
-
-The beautiful famous Korean singer park bock has died mysteriously.
-
-A few hours before the death of the 30-year-old Park Boarm, he had attended a private party with two friends.
-
-Later, she had gone to the bathroom at the house, and the friends were scrutinized for her due to a long time.
-
-Police investigations have revealed that friends have seen the park board unconscious.
-
-However, a specific cause of her death has not yet been revealed and police have commenced investigations.
-
-Her announcement, her agency Xanadu Entertainment, has said that her emergency fans around the world have been shocked and shocked around the world.
-
-In 2010, Park Barum, who participated in the Super Star K2 in South Korea, was impressed with their talents.
-
-She later launched the "Beautiful" song in 2014, and entered the pop music industry.
-
-Since then, in the music of the music that came to this day, there was a new song, but she was ready to launch a new song.
-
-...
-
-[Data](articles/c7cff5a8.json)
-
-[Extended Data](ext_articles/c7cff5a8.ext.json)
 
 ---

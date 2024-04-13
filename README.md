@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 07:12:07**
+As of **2024-04-13 07:23:34**
 
 ## Newspaper Stats
 
-*Scraped **18,640** Articles*
+*Scraped **18,643** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 163
+colombotelegraphcom | 164
 bbccomsinhala | 196
 dbsjeyarajcom | 215
 newsfirstlk | 363
@@ -16,7 +16,7 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,041
 adalk | 1,559
-tamilmirrorlk | 2,175
+tamilmirrorlk | 2,177
 adaderanalk | 2,237
 virakesarilk | 2,779
 dailymirrorlk | 2,856
@@ -26,31 +26,87 @@ adaderanasinhalalk | 3,021
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,639 (100.0%) of 18,640 articles have been extended.
+18,640 (100.0%) of 18,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### අද පළාත් කිහිපයකට තරමක තද වැසි
+### போலி நாணயத்தாள் அச்சிடும் இயந்திரத்துடன் ஒருவர் கைது
+
+*2024-04-13 07:05:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-நாணயத்தாள்-அச்சிடும்-இயந்திரத்துடன்-ஒருவர்-கைது/175-335897) · `ta`
+
+500, 1000 மற்றும் 5000 ரூபாய் நோட்டுகளை அச்சிடுவதற்கு தயாரான தாள்கள் மற்றும் போலி நாணயத்தாள்களை அச்சிடுவதற்கு பயன்படுத்தப்பட்ட கணனி ஒன்றுடன் சந்தேக நபர் ஒருவர் அஹங்கமவில் வைத்து காலி பிரிவு குற்றப்புலனாய்வு திணைக்கள அதிகாரிகளினால் வெள்ளிக்கிழமை (12) இரவு  கைது செய்யப்பட்டுள்ளார்.
+
+கொழும்பில் தனியார் நிறுவனமொன்றில் பணிபுரியும் 47 வயதான அஹங்கம இமதுவ வீதி, ஷ்ரமதான மாவத்தையைச் சேர்ந்த ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+போலி நாணயத்தாள்களுக்கு மேலதிகமாக சுற்றுலாப் பயணிகளின் வீசா காலத்தை நீடிப்பதற்காக பெறப்பட்ட 10 கடவுச்சீட்டுகளும் சந்தேகநபரிடம் இருந்து கைப்பற்றப்பட்டுள்ளன.
+
+சந்தேகநபர் நீதிமன்றில் ஆஜர்படுத்துவதற்காக அஹங்கம பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளதுடன், சந்தேகநபர்  காலி நீதவான் முன்னிலையில் ஆஜர்படுத்தப்படவுள்ளார்.
+
+◼️
+
+[Data](articles/584c8da7.json)
+
+---
+
+### Heavy rains in several provinces today
 
 *2024-04-13 06:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195578) · `si`
 
-උතුරු සහ නැගෙනහිර පළාත්වල සිහින් වැසි වාර කිහිපයක් ඇතිවන අතර උතුරු මැද, මධ්‍යම සහ ඌව පළාත්වල ස්ථාන ස්වල්පයක සහ දිවයිනේ සෙසු ප්‍රදේශවල තැනින් තැන ප.ව. 2.00 න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains and thundershowers expected in several provinces, affecting the North, East, Western, Sabaragamuwa, and Galle/Matara districts. Wind and storm damage warnings issued. Sun directly over Sri Lanka from April 5-15, impacting Sunkuni, Murukandeki, Kiratamadu, and Tenniyani.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75පමණ තරමක තද වැසි ඇතිවිය හැක.
+🟩
 
-බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පවතී.
+Several thin spectacles in the North and East. Showers or thundershowers will occur at several times after 2.00 pm, the Met Department said.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවට දැනුම් දී තිබේ.
+Some locations in the Western and Sabaragamuwa Province and in some places in the Galle and Matara Districts. Heavy showers can occur at about 75 times.
 
-එමෙන්ම දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනවලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්ෂාංශ වලට සෘජුවම ඉහලින් පවතී.
+Some locations in the Western, Central, Sabaragamuwa and Uva provinces and in the Galle and Matara districts have a murder.
 
-ඒ අනුව අද (13) දහවල් 12:10 ට කුමුලමුනෙයි, මුරිකන්ඩි, කෙරිදමඩු සහ තන්නියට්ටුයන ප්‍රදේශවලට හිරු මුදුන් වනු ඇති බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් නිවේදනය කරයි.
+The people have been asked to take necessary steps to reduce temporary strong winds and the damages caused by thunderstorms.
+
+The sun is directly in Sri Lanka directly to Sri Lanka in April 5 to 15, when the sun traveled to the North.
+
+Accordingly, the sun will be overcome to the Sunkuni, Murukandeki, Kiratamadu and Tenniyani areas today (13).
 
 ◼️
 
 [Data](articles/cefb5563.json)
+
+[Extended Data](ext_articles/cefb5563.ext.json)
+
+---
+
+### கொழும்பு - மும்பை இடையே விமான சேவை
+
+*2024-04-13 01:39:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மும்பை-இடையே-விமான-சேவை/175-335892) · `ta`
+
+இந்தியாவின் இண்டிகோ எயார்லைன்ஸ் கொழும்பு மற்றும் மும்பை இடையே நேரடி விமான சேவையை ஆரம்பித்துள்ளது.
+
+தற்போது சென்னை, பெங்களூர் மற்றும் ஹைதராபாத்திலிருந்து கொழும்பிற்கு இண்டிகோ எயார்லைன்ஸ் மூலம் நேரடி விமானங்கள் இயக்கப்படுகின்றன.
+
+விமானங்களின் எண்ணிக்கை மற்றும் பயணிகளின் எண்ணிக்கை ஆகியவற்றின் அடிப்படையில், இண்டிகோ எயார்லைன்ஸ் இந்தியாவின் மிகப்பெரிய விமான நிறுவனமாக கருதப்படுகிறது.  (a)
+
+◼️
+
+[Data](articles/df9c980a.json)
+
+---
+
+### Undemocratic Rule Of Modi’s India Is A Security Threat To South Asia
+
+*2024-04-13 01:25:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/undemocratic-rule-of-modis-india-is-a-security-threat-to-south-asia/) · `en`
+
+“When a significant civilisational state is astray, it impacts its neighbourhood and stability, threatening regional security.”
+
+“West’s neglect of India’s smaller neighbours served to boost India’s ambitions in the region”
+
+“With India’s undemocratic practices, will Modi deliver the strategic partnership Washington seeks?”
+
+...
+
+[Data](articles/073389fc.json)
 
 ---
 
@@ -2241,87 +2297,5 @@ However, according to the current Amendment, all liquor stations will be opened 
 [Data](articles/a636f310.json)
 
 [Extended Data](ext_articles/a636f310.ext.json)
-
----
-
-### Competition between Peramuna's support candidate and Sajith
-
-*2024-04-12 06:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/181009) · `ta`
-
-"PA's candidate vs. Sajith Premadasa in presidential race. Others aim to distract, but PA's candidate or Sajith will dominate. Others may not secure parliamentary seats post-election."
-
-🟩
-
-Parliamentarian SP Dissanayake has said that there will be a rivalry between the candidate of the PA, the leader of the United People's Power and the Leader of the Opposition, Sajith Premadasa.
-
-Many are in line to contest the upcoming presidential election. They are telling different stories.
-
-All of them are to distract the people in the election and defeat the victories. But the reality of the field is completely different.
-
-With the support of the PA, the candidate will be stopped or a candidate from the PA.
-
-My prediction is that the main competition will be held between the candidate and the leader of the United People's Power Sajith Premadasa.
-
-Therefore, others will be unidentified after the election. He said that they would not be able to get a seat in the next parliamentary election.
-
-◼️
-
-[Data](articles/0f71ec8b.json)
-
-[Extended Data](ext_articles/0f71ec8b.ext.json)
-
----
-
-### I am in principle to stop the Tamil general candidate -Sreedharan
-
-*2024-04-12 06:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/181010) · `ta`
-
-Sivagnanam Sreedharan, a Sri Lanka TNA MP, supports stopping a common Tamil candidate in the presidential election, emphasizing the need for Tamil parties to unite and make informed decisions.
-
-🟩
-
-Sivagnanam Sreedharan, a Jaffna MP of the Sri Lanka TNA, said that the party's decision was important while the Tamil general candidate was in principle.
-
-He said this while commenting on attempts to stop a common candidate on behalf of the Tamil parties in the upcoming presidential election.
-
-In the upcoming presidential election, initiatives to stop a common candidate on behalf of Tamil political parties.
-
-At present, those who are expected to field in the presidential election do not reveal themselves as compassionate on any issues, including a solution to the ethnic problem of the Tamil people.
-
-Therefore, supporting the Candidates of South Sri Lanka without any basics is an inappropriate endeavor. It is a suitable approach that all the Tamil parties unite and stop the general candidate.
-
-I am in principle compliance with that effort. However, it is very important that the party needs to take a decision on the issue of the Sri Lankan Tamil party.
-
-...
-
-[Data](articles/e4dc53ed.json)
-
-[Extended Data](ext_articles/e4dc53ed.ext.json)
-
----
-
-### Rajapaksa in the backdrop of the Tamil general candidate?- Sumanthiran says we will decide to join the party
-
-*2024-04-12 06:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181011) · `ta`
-
-Sumanthiran, TNA's Jaffna member, suspects a Tamil general candidate in the presidential election, hinting at political maneuvers by the Rajapaksas. He raises concerns about the Tamil general candidate's impact on the Rajapaksas, who are currently politically disadvantaged. The TNA is yet to decide on joining the party regarding the Tamil general candidate.
-
-🟩
-
-The Jaffna Member of the Sri Lanka Tamil National Alliance (TNA), the Jaffna Member of the Sri Lanka Tamil National Alliance (TNA), said that there was suspicion that there was a Tamil general candidate in the wake of the process of fielding a Tamil general candidate.
-
-He said this while commenting on the Tamil political area of the upcoming presidential election.
-
-When a Tamil general candidate is stopped in the presidential election. Moreover, the events that are re -dominated by the parties that do so may take place.
-
-In particular, there are opportunities for the Tamil general candidate to become a life -threatening process for the Rajapaksa, which is politically lost in the present context.
-
-The Rajapaksas have dealt with the issue of the Tamil general candidate in the past as a strategy for their election victory. For that, the Tamils have a person from the side. So do the general candidate, and the tigers will come up. They will make political profit.
-
-...
-
-[Data](articles/be62a53b.json)
-
-[Extended Data](ext_articles/be62a53b.ext.json)
 
 ---

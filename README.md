@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 07:33:49**
+As of **2024-04-13 07:49:44**
 
 ## Newspaper Stats
 
-*Scraped **18,645** Articles*
+*Scraped **18,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 2,177
 adaderanalk | 2,238
 virakesarilk | 2,779
 dailymirrorlk | 2,857
-adaderanasinhalalk | 3,021
+adaderanasinhalalk | 3,022
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,643 (100.0%) of 18,645 articles have been extended.
+18,645 (100.0%) of 18,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### අද අවුරුදු උදාව
+
+*2024-04-13 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195579) · `si`
+
+සිංහල අවුරුදු නැකැත් පත්‍රයට අනුව අද (13) අපරභාග 09.05ට යෙදෙන සුබ මොහොතෙන් අලුත් අවුරුද්ද උදාවේ.
+
+අපරභාග 02.41 සිට ඉරිදා (14) අලුයම 03.29 දක්වා පුණ්‍ය කාලය යෙදී ඇති බැවින් අපරභාග 02.41ට පෙර ආහාර පාන ගෙන සියලු වැඩ අතහැර ආගමික වතාවත්වල යෙදීම මැනවි බව නැකැත් පත්‍රයේ සඳහන් වේ.
+
+ආහාර පිසීමේ නැකත අද රාත්‍රී 11.06ට යෙදී ඇති අතර නීල වර්ණ වස්ත්‍රාභරණයෙන් සැරසී දකුණු දිශාව බලා ලිප් බැද ගිනිමොලවා තල් උක් හකුරු මිශ්‍ර කිරිබතක් ද තල මිශ්‍ර කැවිලි වර්ගයක් ද පිළියෙළ කරගත යුතු බව සිංහල අවුරුදු නැකැත් පත්‍රයේ සඳහන් වේ.
+
+වැඩ ඇල්ලීම, ගනු දෙනු කිරීම හා ආහාර අනුභවය මධ්‍යම රාත්‍රී 12.06ට නීල වර්ණ වස්ත්‍රාභරණයෙන් සැරසී දකුණු දිශාව බලා සිදුකළ යුතු වේ.
+
+◼️
+
+[Data](articles/2492339f.json)
+
+---
 
 ### Parts of the island to receive fairly heavy rains of about 75mm
 
@@ -47,6 +65,8 @@ The general public is advised to take adequate precautions to minimize damages c
 ...
 
 [Data](articles/39a463e0.json)
+
+[Extended Data](ext_articles/39a463e0.ext.json)
 
 ---
 
@@ -91,6 +111,8 @@ Furthermore, it aids in evaluating patients requiring surgery for conditions lik
 ◼️
 
 [Data](articles/4d9e694b.json)
+
+[Extended Data](ext_articles/4d9e694b.ext.json)
 
 ---
 
@@ -2291,23 +2313,5 @@ On the apparent northward relative motion of the sun, it is going to be directly
 [Data](articles/8884d89d.json)
 
 [Extended Data](ext_articles/8884d89d.ext.json)
-
----
-
-### Arms manufacturers show Indian capability to Sri Lankan military
-
-*2024-04-12 07:00:00* · [`economynextcom`](https://economynext.com/arms-manufacturers-show-indian-capability-to-sri-lankan-military-158316/) · `en`
-
-ECONOMYNEXT – Indian arm manufacturing firms showed the Delhi’s capability in arm manufacturing to Sri Lankan military at a seminar on Wednesday which the island nation expects to open the door for future joint collaboration in manufacturing and services.
-
-Indian High Commission in Colombo High Commission organised the seminar titled “Identifying New Opportunities and Forging New Bonds” to promote Indian Made Defence equipment and explore avenues for collaboration in defence production.
-
-India’s privately owned defence companies demonstrated the capability they have developed in manufacturing arms and other products including unmanned aerial vehicles (UAVs), latest drones, and latest earth movers used in war zones.
-
-...
-
-[Data](articles/188b386f.json)
-
-[Extended Data](ext_articles/188b386f.ext.json)
 
 ---

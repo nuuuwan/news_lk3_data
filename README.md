@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-14 00:34:07**
+As of **2024-04-14 00:48:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,046
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,733 (100.0%) of 18,735 articles have been extended.
+18,735 (100.0%) of 18,735 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The auspicious time to start work, transactions, and have the first meal is 12:0
 
 [Data](articles/ac74dd74.json)
 
+[Extended Data](ext_articles/ac74dd74.ext.json)
+
 ---
 
 ### 2024-04-13 (Saturday)
@@ -59,6 +61,8 @@ As many as 366,000 vehicles have used the expressways during this three-day per
 ◼️
 
 [Data](articles/7a3d6e20.json)
+
+[Extended Data](ext_articles/7a3d6e20.ext.json)
 
 ---
 

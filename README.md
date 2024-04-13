@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 08:33:36**
+As of **2024-04-13 08:49:17**
 
 ## Newspaper Stats
 
-*Scraped **18,650** Articles*
+*Scraped **18,654** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,041
 adalk | 1,559
-tamilmirrorlk | 2,177
+tamilmirrorlk | 2,181
 adaderanalk | 2,239
 virakesarilk | 2,779
 dailymirrorlk | 2,857
@@ -26,27 +26,71 @@ adaderanasinhalalk | 3,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,647 (100.0%) of 18,650 articles have been extended.
+18,650 (100.0%) of 18,654 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### ඇවිලෙන ගින්දරට පිදුරු දමන ජෝ බයිඩන්
+### 200 கி.கி போதைப்பொருளுடன் 10 பேர் கைது
+
+*2024-04-13 08:37:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/200-கி-கி-போதைப்பொருளுடன்-10-பேர்-கைது/175-335900) · `ta`
+
+தென் கடற்பரப்பில் இலங்கை கடற்படையினர் மேற்கொண்ட விசேட சுற்றிவளைப்பில் ஹெரோயின் மற்றும் ஐஸ் போதைப்பொருள் என சந்தேகிக்கப்படும் 200 கிலோகிராம் போதைப்பொருளுடன் 02 மீன்பிடி படகுகளுடன் 10 பேர் கைது செய்யப்பட்டுள்ளனர் என கடற்படையினர் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/b958edda.json)
+
+---
+
+### ரயில் தடம்புரள்வு - ரயில் போக்குவரத்தில் தாமதம்
+
+*2024-04-13 08:30:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-தடம்புரள்வு-ரயில்-போக்குவரத்தில்-தாமதம்/175-335899) · `ta`
+
+தெற்கு களுத்துறையில் ரயில் ஒன்று தடம்புரண்டுள்ள காரணத்தால் கடலோர ரயில் மார்க்கத்தின் ரயில் போக்குவரத்தில் தாமதம் ஏற்பட்டுள்ளதாக ரயில்வே கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/ef43f127.json)
+
+---
+
+### துப்பாக்கிச்சூட்டில் இருவர் காயம்
+
+*2024-04-13 08:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-இருவர்-காயம்/175-335898) · `ta`
+
+ஹம்பேகமுவ பிரதேசத்தில் நேற்று (12) இரவு இடம்பெற்ற துப்பாக்கிச் சூட்டில் இருவர் காயமடைந்துள்ளனர்.
+
+வீட்டின் உரிமையாளரும் அவரது உறவினர்களும் விருந்தில் ஈடுபட்டிருந்த வேளையில் துப்பாக்கிச் சூடு இடம்பெற்றுள்ளதுடன், 24 வயது மற்றும் 42 வயதுடைய இருவர் காயமடைந்துள்ளனர்.
+
+◼️
+
+[Data](articles/adc842df.json)
+
+---
+
+### Joe Biden to the flaming fire
 
 *2024-04-13 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195582) · `si`
 
-ඉහළ පෙළේ අණ දෙන නිලධාරීන් ඝානතනය කළ ගුවන් ප්‍රහාරය සම්බන්ධයෙන් ඉරානය ඊශ්‍රායලයට පහර දෙනු ඇතැයි තමා අපේක්ෂා කරන බව එක්සත් ජනපද ජනාධිපති ජෝ බයිඩන් පවසයි.
+Joe Biden: Iran expected to attack Israel over air strike, despite Iran's claim of Israeli involvement. Israel denies involvement and is prepared for defense. Israeli PM Netanyahu meets war cabinet.
 
-සිරියාවේ ඉරාන කොන්සල් කාර්යාලයට ප්‍රහාරයක් එල්ල කළ බව ඊශ්‍රායලය පිළිගෙන නොමැති වුවත් එම ප්‍රහාරය පිටුපස ඊශ්‍රායලය සිටින බවට ඉරානය පවසා ඇති බව විදෙස් වාර්තා සඳහන් කළේය.
+🟩
 
-කෙසේ වෙතත් ඕනෑම ප්‍රහාරයකින් තමන් ආරක්ෂා වීමට සූදානම් බව ඊශ්‍රායලය පවසා ඇති අතර අමෙරිකානු ජනපති ජෝ බයිඩන් පවසා ඇත්තේ ඊශ්‍රායලයේ ආරක්ෂාව සඳහා කැපවී සිටින බවය.
+US President Joe Biden says Iran is expected to attack Israel regarding the air strike.
 
-ඉරනයේ අනතුරු ඇඟවීම් හමුවේ ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහු සිය යුද කැබිනට් මණ්ඩලයේ සාමාජිකයන් හමුවී ඇති බවද වාර්තා වේ.
+Although Israel has not accepted the Consul Office in Syria, Iran has said that there is Israel to be Israel behind the attack.
+
+However, Israel has said that he is ready to protect himself from any attack, and US President Joe Biden has said that Israel is committed to the protection of Israel.
+
+It is reported that Israeli Prime Minister Benjamin Netanyahu has met with the members of his war cabinet.
 
 ◼️
 
 [Data](articles/e3bf352b.json)
+
+[Extended Data](ext_articles/e3bf352b.ext.json)
 
 ---
 
@@ -62,27 +106,35 @@ Trains operating on the Coastal Line are thus experiencing delays, Sri Lanka Rai
 
 [Data](articles/c3f1e6d2.json)
 
+[Extended Data](ext_articles/c3f1e6d2.ext.json)
+
 ---
 
-### අවුරුද්ද වෙනුවෙන් නිදහස ලැබූ පිරිස 779ක්
+### 779 were released for the year
 
 *2024-04-13 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195581) · `si`
 
-සිංහල හා දෙමළ අලුත් අවුරුද්ද වෙනුවෙන් බන්ධනාගාර ගතව දඩුවම් ලබමින් සිටින රැඳවියන් 779 දෙනෙකු රාජ්‍ය සමාව යටතේ නිදහස ලබාගැනීමට නියමිතව තිබේ.
+779 inmates, imprisoned for Sinhala and Tamil New Year, will be pardoned today. All prisoners on the island will be released. Relatives will provide food, sweets, and sanitation materials.
 
-විශේෂ රාජ්‍ය සමාවට සුදුසුකම් ලබන සිරකරුවන් 768 දෙනෙකු සහ සිරකාරියන් 11 දෙනෙකු මෙලෙස නිදහස ලබාගැනීමට නියමිතය.
+🟩
 
-දිවයිනේ සෑම බන්ධනාගාරයකින්ම අද දිනයේ අදාළ සිරකරුවන් පිරිසට නිදහස ලබාදීමට නියමිත බව බන්ධනාගාර දෙපාර්තමේන්තුව සඳහන් කළේය.
+779 inmates who are imprisoned for the Sinhala and Tamil New Year are due to obtain independence under state pardon.
 
-මේ අතර මෙවර සිංහල හා දෙමළ අලුත් අවුරුද්ද නිමිත්තෙන් බන්ධනාගාර රැඳවියන් බැලීමේ අවස්ථාව අද දිනයේදී ද ඥාතීන්ට ලබාදෙන බව බන්ධනාගාර දෙපාර්තමේන්තුව පවසයි.
+Of the 768 prisoners who are eligible for the special year and 11 priscian is due to be obtained.
 
-එහිදි රැඳවියන්ගේ ඥාතීන් විසින් නිවසින් රැගෙන එන ආහාර, රසකැවිලි හා සනීපාරක්ෂක ද්‍රව්‍ය ලබාදීමට හැකි බව බන්ධනාගාර දෙපාර්තමේන්තුව සඳහන් කළේය.
+The prisoners of the island will be released from every prison in the island today.
 
-පවතින නීතිරීති හා නියමිත සෞඛ්‍යාරක්ෂිත ක්‍රමවේදයන් යටතේ අදාළ ද්‍රව්‍ය රැඳවියන් වෙත ලබාදීමට නියමිතය.
+Meanwhile, the Prison Department says that this time will be given to relatives today to commemorate the Sinhala and Tamil New Year.
+
+Relatives of the prison can provide food, sweets and sanitation materials brought by the relatives of the detainees.
+
+Applicants will be given to the inmates of the existing rules and due health.
 
 ◼️
 
 [Data](articles/5a48128f.json)
+
+[Extended Data](ext_articles/5a48128f.ext.json)
 
 ---
 
@@ -223,6 +275,24 @@ Accordingly, the sun will be overcome to the Sunkuni, Murukandeki, Kiratamadu an
 [Data](articles/cefb5563.json)
 
 [Extended Data](ext_articles/cefb5563.ext.json)
+
+---
+
+### ஜனாதிபதி ஆணைக்குழுவின் பதவிக்காலம் நீடிப்பு
+
+*2024-04-13 01:48:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஆணைக்குழுவின்-பதவிக்காலம்-நீடிப்பு/175-335893) · `ta`
+
+தேர்தல் முறையை திருத்துவதற்கான பரிந்துரைகளை சமர்ப்பிப்பதற்காக நியமிக்கப்பட்ட ஜனாதிபதி ஆணைக்குழுவின் பதவிக்காலம் ஜூன் 15 வரை நீடிக்கப்பட்டுள்ளது.
+
+இந்த நிலையில், ஆணைக்குழுவின் இறுதி அறிக்கையை எதிர்வரும் ஜூன் மாதம் 15 ஆம் திகதிக்கு முன்னர் ஜனாதிபதியிடம் சமர்ப்பிக்க திட்டமிட்டுள்ளதாக ஆணைக்குழுவின் செயலாளர் மாதவ தேவசுரேந்திர குறிப்பிட்டார்.
+
+2023 ஒக்டோபர் 15 ஆம் திகதி ஸ்தாபிக்கப்பட்ட இந்த ஆணைக்குழுவின் பதவிக்காலம் இம்மாதம் 15 ஆம் திகதி நிறைவடையவிருந்தது.
+
+இதேவேளை, தேர்தல் முறைமை திருத்துவது தொடர்பில் மூன்று உப குழுக்களின் அறிக்கைகளைப் பெற்று ஆணைக்குழுவின் இறுதி அறிக்கை தயாரிக்கப்பட்டு வருவதாக செயலாளர் மாதவ தேவசுரேந்திர தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/5ffab0b5.json)
 
 ---
 
@@ -2201,103 +2271,5 @@ That may be because unlike other artists, Swift owns the copyright to her music 
 [Data](articles/e0076a29.json)
 
 [Extended Data](ext_articles/e0076a29.ext.json)
-
----
-
-### Increasing fear of Iran attack on Israel
-
-*2024-04-12 08:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/181017) · `ta`
-
-The US is making serious efforts to prevent Iran from attacking Israel, aiming to avoid warfare in the Middle East. Officials believe Iran will launch an attack on Israel's sub-embassy in Syriad Nagar on April 1st, using US weapons if attacked. Israel's PM, Benjamin Nettanyahu, has vowed to harm Iran with US warplanes if attacked. The US expects strong support from the president and state secretary for Israel.
-
-🟩
-
-Officials in Washington said the US is making serious efforts to prevent Iran from carrying out an attack on Israel's security.
-
-At the same time, the US is also trying to prevent massive warfare in the Middle East, they said.
-
-US officials are sure that Iran will launch an unmanned air strike or a dismissal attack against Israel over the next few days
-
-US officials have said that Iran will launch the attack on the April 1st attack on its sub -embassy in Syriad Nagar.
-
-Israel has outlined that Iran will use US weapons if Iran is attacked.
-
-Israeli Prime Minister Benjamin Nettanyaku has said that we will harm them, with the former of the US 15 warplanes on the Telnov airport in the south of Israel.
-
-We will ensure this through the safety and security methods we are ready to meet all the security requirements of Israel, ”he said.
-
-The US expects the US president and the state secretary to support Israel's strong support for Iran from carrying out Iran's attack on Israel.
-
-...
-
-[Data](articles/7b81e889.json)
-
-[Extended Data](ext_articles/7b81e889.ext.json)
-
----
-
-### Indigo launches Mumbai-Colombo direct flights today
-
-*2024-04-12 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indigo-launches-Mumbai-Colombo-direct-flights-today/108-280635) · `en`
-
-Colombo, April 12 (Daily Mirror) - Indigo has expanded its connectivity to Sri Lanka adding Mumbai-Colombo direct flights from today (12), Airport and Aviation Services (Sri Lanka) (Pvt) Limited said.
-
-Accordingly, Indigo will operate flights three times a week on Tuesdays, Thursdays and Fridays.
-
-At present, Indigo operates to three destinations in India from Colombo (Chennai twice daily, Bengaluru once daily and Hyderabad six days per week). With this new route expansion, this will increase to four destinations, and it will contribute immensely to the development of travel, trade and tourism between Sri Lanka and India.
-
-With the new addition, Indigo will operate 30 weekly flights to Colombo from four main cities in India.
-
-...
-
-[Data](articles/1f32370e.json)
-
-[Extended Data](ext_articles/1f32370e.ext.json)
-
----
-
-### A robbery gang caught
-
-*2024-04-12 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195558) · `si`
-
-A robbery gang intimidated a house owner in Halalakumbura, assaulting her on the night of the 10th. They took potatoes and a suspect, and the Mahiyanganaya Police arrested them at a roadblock.
-
-🟩
-
-A group of people in a house during the night was intimidated by the Halalakumbura area.
-
-At the time of the incident, only the owner of the house was stored and the robbers were assaulted and intimidated her.
-
-The potatoes and a suspect had been carried out on the 10th of the 10th.
-
-The Mahiyanganaya Police were arrested on the road block.
-
-Accordingly, the robbery has revealed about the robbery.
-
-◼️
-
-[Data](articles/ae92494b.json)
-
-[Extended Data](ext_articles/ae92494b.ext.json)
-
----
-
-### Russian House in Colombo hosts int’l documentary film festival ‘RT.Doc: Time of Heroes’
-
-*2024-04-12 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98585/russian-house-in-colombo-hosts-intl-documentary-film-festival-rtdoc-time-of-heroes) · `en`
-
-The Russian House in Colombo recently hosted the International Documentary Film Festival ‘RT.Doc: Time of Heroes’, featuring a meeting session with the renowned film director Vyacheslav Guz.
-
-According to the Russian cultural centre, all three presented documentaries were united by an uneasy theme – the dramas in the lives of ordinary people against the backdrop of the confrontation between Russia and Ukraine.
-
-The ‘T.Doc: Time of Heroes’ festival has already covered 16 countries before reaching the people of Sri Lanka.
-
-Among the guests were Russian Ambassador to Sri Lanka Levan Dzhagaryan, accompanied by the diplomatic corps, former Ambassador of Sri Lanka to Russia and General Secretary of the Russia-Sri Lanka Friendship Society Dr. Saman Weerasinghe, Professor of the University of Colombo Tudor Weerasinghe, as well as awarded Sri Lankan filmmakers and actors Boodee Keerthisena, Shyam Fernando, Damayanthi Fonseka, Chamara Janaraj Peiris, Kapila Sooriyaarachchi.
-
-◼️
-
-[Data](articles/ad42ca58.json)
-
-[Extended Data](ext_articles/ad42ca58.ext.json)
 
 ---

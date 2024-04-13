@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-14 02:33:33**
+As of **2024-04-14 02:48:53**
 
 ## Newspaper Stats
 
-*Scraped **18,737** Articles*
+*Scraped **18,738** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,018
 economynextcom | 1,045
 adalk | 1,560
 tamilmirrorlk | 2,188
-adaderanalk | 2,257
+adaderanalk | 2,258
 virakesarilk | 2,782
 dailymirrorlk | 2,885
 adaderanasinhalalk | 3,046
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,046
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,737 (100.0%) of 18,737 articles have been extended.
+18,737 (100.0%) of 18,738 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-14 (Sunday)
+
+### Iran launches dozens of drones and missiles toward Israel amid escalating tensions
+
+*2024-04-14 02:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98619/iran-launches-dozens-of-drones-and-missiles-toward-israel-amid-escalating-tensions) · `en`
+
+Iran has fired multiple drones and cruise missiles toward Israel, escalating fears of wider conflict in the region.
+
+The Israeli military revealed the drones had been launched in a statement late on Saturday night, stressing that they would take several hours to arrive.
+
+Shortly after, Iran’s Revolutionary Guards confirmed the strike, adding that it had also launched missiles against specific targets in Israel. Neighbouring Jordan declared a state of emergency following the launch.
+
+It comes after months of ratcheting tensions in the region over Israel’s war in Gaza reached new levels last week, as Iran vowed retaliation for a strike that killed senior Iranian military officers in its embassy compound in Damascus, for which Israel has neither confirmed nor denied responsibility.
+
+...
+
+[Data](articles/a3c16223.json)
+
+---
 
 ### Passenger
 
@@ -2173,31 +2191,5 @@ Accordingly, at 12.10 noon tomorrow (13th), the sun will peak above the areas of
 [Data](articles/eed3a217.json)
 
 [Extended Data](ext_articles/eed3a217.ext.json)
-
----
-
-### 2024-04-12 (Friday)
-
-### An odd employee allowance of Rs 27 million from water supply
-
-*2024-04-12 23:20:54* · [`adalk`](https://www.ada.lk/breaking_news/ජල-සම්පාදනෙන්-කෝටි-27-ක--අමුතු-සේවක-දීමනාවක්/11-409069) · `si`
-
-The National Water Supply and Drainage Board (NVQ) paid Rs 27 million in employee bonuses, approved by the National Auditor General, as part of the company's profits. This was specified by the Department of Public Enterprises on November 17, 2021, and applied for the year 2022.
-
-🟩
-
-The National Water Supply and Drainage Board (NVQ) office has been paid to the employees of public enterprises on the profits of the company's profits on the company's profits.
-
-The Department of Public Enterprises has been specified on November 17, 2021 by the Department of Public Enterprises to be paid to employees incentives or bonuses.
-
-However, the National Water Supply and Drainage Board has paid this effective offer for the year 2022 by the National Water Supply and Drainage Board.
-
-The allowance was paid under the approval of the National Auditor General's Report of the Annual Auditor General's Report on the Annual Auditor General's Report.
-
-◼️
-
-[Data](articles/7088d0fa.json)
-
-[Extended Data](ext_articles/7088d0fa.ext.json)
 
 ---

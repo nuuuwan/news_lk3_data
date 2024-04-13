@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 23:18:16**
+As of **2024-04-13 23:35:09**
 
 ## Newspaper Stats
 
-*Scraped **18,729** Articles*
+*Scraped **18,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ dailyftlk | 1,018
 economynextcom | 1,045
 adalk | 1,560
 tamilmirrorlk | 2,186
-adaderanalk | 2,255
+adaderanalk | 2,256
 virakesarilk | 2,782
-dailymirrorlk | 2,882
-adaderanasinhalalk | 3,045
+dailymirrorlk | 2,883
+adaderanasinhalalk | 3,046
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,729 (100.0%) of 18,729 articles have been extended.
+18,729 (100.0%) of 18,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### President’s Avurudu message: ‘Social relations, solidarity essential for steering nation forward’
+
+*2024-04-13 23:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98617/presidents-avurudu-message-social-relations-solidarity-essential-for-steering-nation-forward) · `en`
+
+President Ranil Wickremesinghe, in his message for the 2024 Sinhala and Tamil New Year, said the progression of nations, countries and the global community is propelled by the perpetual cycle of renewal, where innovative ideas are nurtured and novel creations come to fruition.
+
+“Embracing renewal in accordance with the traditional New Year, the calendar year, or the changing seasons, individuals across the globe find themselves revitalized, endowed with fresh opportunities for growth and advancement. Beneath the surface of these myriad renewals lies a fundamental truth; the paramount importance of social relationships and collective unity.
+
+“During the Sinhala and Tamil New Year, we engage in a profound renewal of self, centering our focus on nurturing bonds and fostering a sense of gregariousness. This emphasis on interpersonal bonds is the cornerstone of traditional New Year rituals observed across diverse cultures worldwide.”
+
+...
+
+[Data](articles/bbf8a29e.json)
+
+---
+
+### Preparing of traditional meals
+
+*2024-04-13 23:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Preparing-of-traditional-meals/108-280579) · `en`
+
+New Year celebrations are incomplete without special traditional foods and a beautifully adorned table. The festivities begin with boiling milk in a new clay pot, symbolizing prosperity and good fortune for the family. Various traditional customs enrich the New Year celebrations.
+
+The central tradition of lighting the hearth and cooking Milk Rice in a new clay pot marks the essence of the New Year festival.
+
+Following this, families gather around an elegant New Year table adorned with an assortment of sweets.
+
+As the auspicious time approaches, all Sri Lankans share in tasting their New Year meal together.
+
+◼️
+
+[Data](articles/89440fbd.json)
+
+---
+
+### ආහාර පිසීමේ නැකැත උදා වෙයි
+
+*2024-04-13 23:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195607) · `si`
+
+මෙවර සිංහල සහ දෙමළ අලුත් අවුරුද්දේ නැකැත් අනුව ආහාර පිසීමේ නැකැත අද (13) රාත්‍රී 11.06ට උදා විය.
+
+නිල් පැහැති වස්ත්‍රාභරණයෙන් සැරසී දකුණු දිශාව බලා ලිප් බැඳ ගිනි මොළවා තල, උක් හකුරු මිශ්‍ර කිරිබතක් සහ තල මිශ්‍ර කැවිලි වර්ගයක් පිළියෙළ කරගැනීම යහපත් බව නැකැත් සීට්ටුවේ සඳහන් වෙයි.
+
+මෙවර වැඩ ඇල්ලීම ගනුදෙනු කිරීම හා ආහාර අනුභවය යෙදී ඇත්තේ අද මධ්‍යම රාත්‍රී 12.06ටය.
+
+◼️
+
+[Data](articles/a5b8a916.json)
+
+---
 
 ### Katunayaka expressway plunged in darkness
 
@@ -2149,71 +2199,5 @@ Kjerkoll said she and a co-author “did not intend to plagiarize other people�
 [Data](articles/96670f0d.json)
 
 [Extended Data](ext_articles/96670f0d.ext.json)
-
----
-
-### Two multi-day fishing boats arrested with 200 kg of drugs
-
-*2024-04-12 22:37:25* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-කිලෝ-200ක්-සමග-මෙරට-බහුදින-ධීවර-යාත්‍රා-දෙකක්-අල්ලයි/11-409066) · `si`
-
-Sri Lanka Navy arrests two fishing boats and ten suspects, seizing 200 kg of drugs. Operation in South Sea.
-
-🟩
-
-Ten suspects have been arrested along with two multi-day fishing boats who have been suspected of a special operation in the South Sea by a special operation in the South Sea by the Sri Lanka Navy.The Navy announced that the Galle harbor is being brought to the Port of Galle.
-
-◼️
-
-[Data](articles/2cbc96c3.json)
-
-[Extended Data](ext_articles/2cbc96c3.ext.json)
-
----
-
-### Couple arrested for trying to travel to Sri Lanka using fake passports
-
-*2024-04-12 22:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98600/couple-arrested-for-trying-to-travel-to-sri-lanka-using-fake-passports) · `en`
-
-A couple who tried to travel to Sri Lanka using fake passports were arrested in the Chennai airport, Indian media reported.
-
-The immigration officials were checking the travel documents of the passengers who were about to board the flight to Colombo on Thursday night.
-
-When they checked the passports of Ramachandran (45) and his wife Hanisha (40) of Perambalur they found that both of them were about to travel using fake passports.
-
-During the inquiry, the officials found that both of them were from Sri Lanka and had been staying in Perambalur for the past few years and got ration cards and other Indian identity cards.
-
-Recently they decided to visit Sri Lanka and managed to get a fake passport in the Perambalur address.
-
-The immigration officials detained them and alerted the Central Crime Branch police and Q Branch and the officers who visited the Chennai airport held inquiries for a few hours and later they were arrested and taken to the Central Crime Branch office of the Chennai police.
-
-◼️
-
-[Data](articles/4d9618c4.json)
-
-[Extended Data](ext_articles/4d9618c4.ext.json)
-
----
-
-### Immigration and Emigration Officers in objection
-
-*2024-04-12 22:32:37* · [`adalk`](https://www.ada.lk/breaking_news/ආගමන-හා-විගමන-නිලධාරීන්-විරෝධයක/11-409065) · `si`
-
-Immigration and Emigration Officers in Sri Lanka are protesting at Katunayake airport against changes in their duties, including handling visa applications for tourists and foreigners.
-
-🟩
-
-Sri Lanka Institute of Immigration Officers of the Immigration Officers of the Sri Lanka Institute of Immigrationary Officers (Immigration)Available.
-
-Accordingly, the protest is currently underway at the Katunayake airport.
-
-The integrated officer of the Immigration and Emigration and the Department of Immigration and Emigration Ltd has been in line with the posts for the posts and change the duties service for the tourist destiny to take on a foreign racketeers to a foreign private company to enroll into the country, including visa applications.The protest has commenced taking on the matter.
-
-The Airporting Officer in charge of the airport and the Ordinary Operations of the Airport and the Ordinary Operations of the Airport and the Ordinary Operations of the Airport and Katunayake airport have been imposed.
-
-◼️
-
-[Data](articles/09d2b7ac.json)
-
-[Extended Data](ext_articles/09d2b7ac.ext.json)
 
 ---

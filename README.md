@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 18:50:28**
+As of **2024-04-13 19:03:31**
 
 ## Newspaper Stats
 
-*Scraped **18,710** Articles*
+*Scraped **18,711** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ tamilmirrorlk | 2,186
 adaderanalk | 2,252
 virakesarilk | 2,782
 dailymirrorlk | 2,873
-adaderanasinhalalk | 3,038
+adaderanasinhalalk | 3,039
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,710 (100.0%) of 18,710 articles have been extended.
+18,710 (100.0%) of 18,711 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### අධිවේගී මාර්ග ආදායම මෙන්න
+
+*2024-04-13 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195599) · `si`
+
+ඉකුත් 10,11සහ 12 යන දින තුළ අධිවේගී මාර්ගවලින් ලද ආදායම රුපියල් මිලියන 126ක් බව මාර්ග සංවර්ධන අධිකාරිය පවසයි.
+
+අධිවේගි මාර්ග මෙහෙයුම් නඩත්තු හා කළමනාකරණ අංශයේ අධ්‍යක්ෂ ආර්. ඒ. ඩී. කහටපිටිය මහතා මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/344411dc.json)
+
+---
 
 ### Wild elephant rampage leaves family injured  in Dimbulagala
 
@@ -2253,25 +2267,5 @@ Police said that separate investigations are being carried out in the presence o
 [Data](articles/0bfeab81.json)
 
 [Extended Data](ext_articles/0bfeab81.ext.json)
-
----
-
-### India to remain Sri Lanka’s most reliable friend; offers modern defence equipment
-
-*2024-04-12 18:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98596/india-to-remain-sri-lankas-most-reliable-friend-offers-modern-defence-equipment) · `en`
-
-India on Wednesday said it is and will remain Colombo’s most reliable friend and dependable partner as it underlined that New Delhi was willing to offer modern defence equipment to friendly partner countries like Sri Lanka.
-
-Addressing the Second India-Sri Lanka Defence Seminar here, India’s High Commissioner to Sri Lanka, Santosh Jha, said that like in other areas, India and Sri Lanka were cooperating closely on security and defence matters.
-
-“Because of our geography, our security is interlinked and intertwined. And when we speak of security, we must remember that it has acquired a wider meaning than we have traditionally associated with it,” Jha said and added, after the Covid19 pandemic and impact of Russia-Ukraine conflict, it has come to include energy, health, food and even economic security.
-
-The various advanced platforms and equipment developed indigenously in India can also become viable, affordable and modern solutions for the Sri Lankan military, he said.
-
-...
-
-[Data](articles/6ff5bedf.json)
-
-[Extended Data](ext_articles/6ff5bedf.ext.json)
 
 ---

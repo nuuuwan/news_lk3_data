@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 16:34:23**
+As of **2024-04-13 16:48:16**
 
 ## Newspaper Stats
 
-*Scraped **18,701** Articles*
+*Scraped **18,704** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ dailyftlk | 1,018
 economynextcom | 1,045
 adalk | 1,560
 tamilmirrorlk | 2,185
-adaderanalk | 2,249
+adaderanalk | 2,250
 virakesarilk | 2,782
-dailymirrorlk | 2,869
+dailymirrorlk | 2,871
 adaderanasinhalalk | 3,037
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,697 (100.0%) of 18,701 articles have been extended.
+18,701 (100.0%) of 18,704 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,51 +52,65 @@ Prime Minister Anthony Albanese said there was no indication yet of the man’s 
 
 [Data](articles/f63748e2.json)
 
+[Extended Data](ext_articles/f63748e2.ext.json)
+
 ---
 
-### පියාගේ දේපොළට අයියයි මල්ලියි මරා ගනී
+### My brother is killed in the father's property
 
 *2024-04-13 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195596) · `si`
 
-ඉඩම් ආරවුලක් මුල් කරගනිමින් ගලහ, නිල්ලඹ යෝගලෙච්චමී වත්තේදී ඊයේ (12) පුද්ගලයෙක් සිය බාල සොහොයුරාව තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+Karunanidhi's brother, Eshazasan, was accused of killing Karunanidhi in a land dispute. Eshazasan, who was in jail, was released and later captured by the police.
 
-මෙලෙස ඝාතනයට ලක්වී ඇත්තේ 35 හැවිරිදි ක්‍රිෂ්ණසාමී කරුණානිධි නම් පුද්ගලයෙකි.
+🟩
 
-ඔහුගේ සොහොයුරා වන ඒසුදාසන් තිදරු පියෙකු වන අතර ඔහු කලක් බන්ධනාගාරගතව සිට නිදහස ලබා අනුරාධපුරයේ තනිව ජීවත්වෙමින් සිටි පුද්ගලයෙකි.
+A man was attacked with a sharp instrument in a land dispute.
 
-ඒ අතරතුර සිය පියාට අයත් ඉඩමක් සිය අවිවාහක සොහොයුරා විකුණා ඇති බවට සැළවීමත් සමග ඔහු ඉකුත් බ්‍රහස්පතින්දා රාත්‍රියේ කරුණානිධිගේ නිවසට පැමිණ ආරවුලක් ඇති කරගෙන තිබේ.
+The victim was a 35 year old Karunanidhi.
 
-රාත්‍රිය පුරා පැවති ගැටුමෙන් පසු ඊයේ අලුයම 2 පමණ සිට පැවති නිහඬතාවය සම්බන්ධයෙන් සැක සිතූ අසල්වැසියන් ඒ පිළිබඳව සෝදිසි කිරීමේදී දැක ඇත්තේ තුවාල සහිතව දෑත් ගැටගසා බිම වැටී තිබූ කරුණානිධිගේ නිසල දේහයයි.
+His brother Eshazasan is a person who was alone in the jail and liberated independence from prison.
 
-මුගුරු, තියුණු ආයුධ, ගල් සහ වීදුරු බෝතල්වලින් පහරදී මෙම ඝාතනය සිදුකර තිබෙන බවට සාක්ෂි හමුවී ඇතැයි පැවසෙයි.
+In the meantime, his father's land had to sell his unmarried brother and had come to Karunanidhi's house and had a dispute.
 
-සොහොයුරාට පහරදී පළායමින් සිටි ඒසුදාසන්ව අසල්වැසියන් විසින් අල්ලා ගලහ පොලීසියට භාරදී තිබුණි.
+The neighbors who were suspicious of the silence about the silence since the night of the night were to see Karunanidhi, which had fallen to the ground with wounds.
+
+It is said that the murder had been found in the murder, sharp weapons, stone and glass bottles.
+
+The police had captured Esaasan and handed them with the police.
 
 ◼️
 
 [Data](articles/b6784136.json)
 
+[Extended Data](ext_articles/b6784136.ext.json)
+
 ---
 
-### හෙට ලොකු වැස්සක්
+### Tomorrow is a big rain
 
 *2024-04-13 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195595) · `si`
 
-හෙට (14) දිනයේ බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වල ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තතමේන්තුව පවසයි.
+Tomorrow, heavy rains and thunderstorms are expected in Western, Sabaragamuwa, Southern, North Western, and Uva provinces. The Department of Meteorology advises against arbitrary winds and landslides.
 
-එම දෙපාර්තතමේන්තුව සඳහන් කරන්නේ බස්නාහිර, සබරගමුව, දකුණු, මධ්‍යම, වයඹ සහ ඌව පළාත්වල සවස 2.00 න් පමණ පසු තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+In some places in the Western, Sabaragamuwa and Southern Provinces tomorrow (14). The Department of Meteorology says that heavy rains can occur about 75.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තතමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Department said that showers or thundershowers will occur at times after 2.00 pm in the Western, Sabaragamuwa, Southern, North Western and Uva provinces.
 
-දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනවලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්ෂාංශවලට සෘජුවම ඉහළින් පවතී.
+In some places in the Western, Central, Sabaragamuwa and Uva provinces, in some places, are expected to be fired in the Galle and Matara districts.
 
-හෙට දින (14) දහවල් 12:10 ට නයිනතිව්, පුන්කුඩුතිව්, මණ්ඩයිතිව්, මනල්කාඩු සහ උඩුතුරෙයි යන ප්‍රදේශවලට හිරු මුදුන් වනු ඇත.
+Department of Meteorological Department requests the public to take necessary arbitrary winds and landsliness due to thunderstorms.
+
+When the sun is traveling to the North, the sun is directly above Sri Lanka in April 5 to 15.
+
+The sun will be over 12:10 tomorrow (14) at 12:00 pm.
 
 ◼️
 
 [Data](articles/0459e4be.json)
+
+[Extended Data](ext_articles/0459e4be.ext.json)
 
 ---
 
@@ -115,6 +129,40 @@ The rice stocks imported during this period but had been stuck at the port were 
 ◼️
 
 [Data](articles/1102caa9.json)
+
+[Extended Data](ext_articles/1102caa9.ext.json)
+
+---
+
+### Siyambalapitiya clears the air on reports concerning rice imports
+
+*2024-04-13 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98610/siyambalapitiya-clears-the-air-on-reports-concerning-rice-imports) · `en`
+
+The government has not given permission to import rice, Finance State Minister Ranjith Siyambalapitiya says.
+
+Addressing the reports claiming otherwise, the lawmaker clarified that only Basmati rice is permitted to be imported for the requirement of tourist hotels.
+
+Rice imports were green-lighted in February when the country was on the verge of facing a rice shortage, he explained, adding that the rice stocks imported during this period but had been stuck at the port were later allowed to be cleared within a period of one week.
+
+◼️
+
+[Data](articles/f62bb87f.json)
+
+---
+
+### Sri Lankans in Israel asked to exercise caution
+
+*2024-04-13 15:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankans-in-Israel-asked-to-exercise-caution/108-280674) · `en`
+
+Following the latest development of tension between Israel and Iran, Sri Lankans living in Israel have been asked to exercise caution in anticipation of any emergency.
+
+The Sri Lankan Ambassador in Tel Aviv, in a Facebook post requested Sri Lankans not to step out of their workplaces for unnecessary engagements. Also, Sri Lankans under medication for various ailments are asked to keep medicines sufficient for a long period in case any emergency situations that develop.
+
+They have also been requested to keep sufficient food stuffs. Sri Lankans work in Israel mostly as farm workers and caregivers.
+
+◼️
+
+[Data](articles/d205888c.json)
 
 ---
 
@@ -205,6 +253,20 @@ During the Nonagathaya, people used to engage in religious activities such as vi
 [Data](articles/23a1d079.json)
 
 [Extended Data](ext_articles/23a1d079.ext.json)
+
+---
+
+### Inauspicious time begins
+
+*2024-04-13 14:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Inauspicious-time-begins/108-280673) · `en`
+
+The inauspicious time, known as the Nonagathaya, begins today at 2:41 p.m. and lasts until 3:29 a.m. tomorrow, April 14th.
+
+During the Nonagathaya, people used to engage in religious activities such as visiting temples and offering alms to the poor.
+
+◼️
+
+[Data](articles/48786c64.json)
 
 ---
 
@@ -2199,61 +2261,5 @@ The Navy said the suspects and their stock of narcotics are being brought to the
 [Data](articles/38cd642d.json)
 
 [Extended Data](ext_articles/38cd642d.ext.json)
-
----
-
-### Two vessels carrying nearly 200kg of narcotics intercepted off Sri Lanka
-
-*2024-04-12 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98594/two-vessels-carrying-nearly-200kg-of-narcotics-intercepted-off-sri-lanka) · `en`
-
-Sri Lanka Navy has intercepted two multi-day fishing trawlers carrying around 200kg of suspected heroin and crystal methamphetamine (‘Ice’) off the southern coast of the island.
-
-Ten crew members who were on board the vessels were also taken into custody.
-
-They are now being escorted to the Galle Harbour and will be handed over to the respective authorities for onward investigations, the navy spokesperson added.
-
-Following a special operation mounted by the Navy, 02 local multiday fishing trawlers with about 200kg of narcotics, suspected to be heroin and crystal methamphetamine, have been intercepted on southern high seas. The 02 trawlers and 10 suspects aboard are being escorted ashore for onward legal action, the navy said.
-
-◼️
-
-[Data](articles/3a607f11.json)
-
-[Extended Data](ext_articles/3a607f11.ext.json)
-
----
-
-### Two vessels carrying massive cache of narcotics intercepted off Sri Lanka
-
-*2024-04-12 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98594/two-vessels-carrying-massive-cache-of-narcotics-intercepted-off-sri-lanka) · `en`
-
-Sri Lanka Navy has intercepted two multi-day fishing trawlers carrying around 200kg of suspected heroin and crystal methamphetamine (‘Ice’) off the southern coast of the island.
-
-Ten crew members who were on board the vessels were also taken into account.
-
-They are now being escorted to the Galle Harbour and will be handed over to the respective authorities for onward investigations, the navy spokesperson added.
-
-◼️
-
-[Data](articles/3d4a21cc.json)
-
-[Extended Data](ext_articles/3d4a21cc.ext.json)
-
----
-
-### Massive cache of narcotics intercepted off southern coast of Sri Lanka
-
-*2024-04-12 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98594/massive-cache-of-narcotics-intercepted-off-southern-coast-of-sri-lanka) · `en`
-
-Sri Lanka Navy has intercepted a multi-day fishing trawler carrying around 200kg of suspected heroin and crystal methamphetamine (‘Ice’) off the southern coast of the island.
-
-Ten crew members who were on board the vessel were also taken into account.
-
-They are now being escorted to the Galle Harbour and will be handed over to the respective authorities for onward investigations, the navy spokesperson added.
-
-◼️
-
-[Data](articles/5b458fcb.json)
-
-[Extended Data](ext_articles/5b458fcb.ext.json)
 
 ---

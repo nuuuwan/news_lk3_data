@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-14 00:18:22**
+As of **2024-04-14 00:34:07**
 
 ## Newspaper Stats
 
-*Scraped **18,733** Articles*
+*Scraped **18,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ dailyftlk | 1,018
 economynextcom | 1,045
 adalk | 1,560
 tamilmirrorlk | 2,186
-adaderanalk | 2,256
+adaderanalk | 2,257
 virakesarilk | 2,782
-dailymirrorlk | 2,884
+dailymirrorlk | 2,885
 adaderanasinhalalk | 3,046
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,733 (100.0%) of 18,733 articles have been extended.
+18,733 (100.0%) of 18,735 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-04-14 (Sunday)
+
+### Starting work, transactions and partaking of meals
+
+*2024-04-14 00:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Starting-work-transactions-and-partaking-of-meals/108-280582) · `en`
+
+Food holds great significance in Sri Lankan New Year celebrations. Traditional sweets like Kavum, Athirasa, Konda Kevum, Unduvel, and Kokis are staples.
+
+The auspicious time to start work, transactions, and have the first meal is 12:06 a.m. on April 14. Wear blue attire and face south for luck.
+
+◼️
+
+[Data](articles/ac74dd74.json)
+
+---
+
 ### 2024-04-13 (Saturday)
+
+### Expressways generate whopping Rs. 126mn within 3 days of Avurudu season
+
+*2024-04-13 23:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98618/expressways-generate-whopping-rs-126mn-within-3-days-of-avurudu-season) · `en`
+
+The expressways have generated an income of Rs. 126 million on April 10, 11, and 12, the Road Development Authority (RDA) says.
+
+As many as 366,000 vehicles have used the expressways during this three-day period, according to the Director of Expressway Operation Maintenance and Management Division, R.A.D. Kahatapitiya.
+
+◼️
+
+[Data](articles/7a3d6e20.json)
+
+---
 
 ### President’s Avurudu message: ‘Social relations, solidarity essential for steering nation forward’
 
@@ -2157,55 +2187,5 @@ The friendly local guided Tim to the restaurant, where he was served an Ulundu V
 [Data](articles/d62f58e1.json)
 
 [Extended Data](ext_articles/d62f58e1.ext.json)
-
----
-
-### New hospital for National Hospital. A scanner
-
-*2024-04-12 23:13:35* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-රෝහලට-නවීනතම-සී-ටී--ස්කෑන්-යන්ත්‍රයක්/11-409068) · `si`
-
-The Colombo National Hospital received a 220 million CT scanner from the Asian Development Sector Development Project, enhancing diagnostic capabilities and patient care.
-
-🟩
-
-The Health Ministry Secretary Medical Palitha Maheepala was chaired by the Ministry of Health yesterday (11) to provide the most modern technology at the Colombo National Hospital.
-
-220 million worth of modern CT scanner has been provided by the Asian Development Sector Development Project.
-
-The 128-SLCT CT SCAN machine provides fast, protective diagnosis and provides diagnostic data to distinguish between tissue and make it easier to make the diagnosis. This is also a high level of dialogue and efficiency, while minimizing patient's inconveniences and radiation exposure.
-
-රිය අනතුරු, පහරදීම්, වැටීම් නිසා මොලයට හා සුසුම්නාවට හානි සිදු වු රෝගීන්ට, මොළයේ ගැටිති, මොළයේ පිළිකා, මොළයේ සිදුවන ලේ ගැලීම් සදහා ශල්‍ය කර්ම සිදු කල යුතු රෝගීන්ට, රුධිර පීඩනය වැඩි රෝගීන්ගේ සිදුවන මොලයේ අභ්‍යන්තර ලේ ගැලීම් නැවැත්වීමේ ශල්‍යකර්ම සිදු කල යුතු රෝගීන්ට මෙන්ම මොලයThe CT scanner is used to obtain reports needed to judge the condition of the patients and after the surgery of patients to be directed to the surgery.
-
-...
-
-[Data](articles/882bd9dc.json)
-
-[Extended Data](ext_articles/882bd9dc.ext.json)
-
----
-
-### Here are the sides of over 100 millise
-
-*2024-04-12 22:44:43* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-මිලි-මීටර්-100ක්-ඉක්මවා-වහින-පැති-මෙන්න/11-409067) · `si`
-
-Tomorrow, heavy rain and thundershowers will hit Northern, Eastern, North Central, and Uva provinces, with severe weather in Western and Sabaragamuwa Province, Galle, and Matara districts. Sun will be intense in Kumarmunai, Muranuni, Kaladamadu, and Tenniyanu at 12:00 pm.
-
-🟩
-
-Several times will occur at the Northern and Eastern Provinces tomorrow.
-
-Also, a few places in the North Central and Uva provinces and in the rest of the island. Showers or thundershowers will occur at several places, about 2.00.
-
-Meanwhile, in some parts of the Western and Sabaragamuwa Province, Galle and Matara districts. Heavy rain can occur around 100.
-
-The sun is directly on April 5 to 15, directly from April to 15th April.
-
-The Met Department further stated that the sun is overwhelming to Kumarmunai, Muranuni, Kaladamadu and Tenniyanu, at 12:00 pm tomorrow.
-
-◼️
-
-[Data](articles/937625fc.json)
-
-[Extended Data](ext_articles/937625fc.ext.json)
 
 ---

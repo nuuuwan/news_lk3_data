@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 11:33:58**
+As of **2024-04-13 11:50:57**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,029
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,671 (100.0%) of 18,672 articles have been extended.
+18,672 (100.0%) of 18,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### ශ්‍රී ලංකා - දකුණු අප්‍රිකා දෙවන තරගය අද
+### Sri Lanka - South Africa Second match today
 
 *2024-04-13 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195586) · `si`
 
-සංචාරක ශ්‍රී ලංකා කාන්තා කණ්ඩායම සහ දකුණු අප්‍රිකානු කාන්තා කණ්ඩායම අතර දෙවන එක්දින ක්‍රිකට් තරගය අද (13) පැවැත් වෙයි.
+Sri Lanka Women's and South African female cricket teams face off in their second match today, after the first was postponed due to rain.
 
-තරග 03කින් සමන්විත එක්දින තරගාවලියේ පැවති පළමු තරගය වර්ෂාව හේතුවන් අත්හැර දැමීමට සිදුවිය.
+🟩
+
+The Sri Lanka Women's group and South African female group will be held today (13).
+
+The first match at the ODI series with the three match series had to give up the rain.
 
 ◼️
 
 [Data](articles/47bdbdd4.json)
+
+[Extended Data](ext_articles/47bdbdd4.ext.json)
 
 ---
 

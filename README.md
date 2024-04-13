@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 21:03:36**
+As of **2024-04-13 21:18:20**
 
 ## Newspaper Stats
 
-*Scraped **18,721** Articles*
+*Scraped **18,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ tamilmirrorlk | 2,186
 adaderanalk | 2,254
 virakesarilk | 2,782
 dailymirrorlk | 2,878
-adaderanasinhalalk | 3,042
+adaderanasinhalalk | 3,044
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,721 (100.0%) of 18,721 articles have been extended.
+18,721 (100.0%) of 18,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### ඔබ සැමට සුබ අලුත් අවුරුද්දක් වේවා !
+
+*2024-04-13 21:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195605) · `si`
+
+2024 සිංහල හා දෙමළ අලුත් අවුරුද්ද අද (13) රාත්‍රී 09.05ට යෙදී තිබූ සුබ මොහොතින් උදාවිය.
+
+නිල් පැහැති වස්ත්‍රාභරණයෙන් සැරසී දකුණු දිශාව බලා ලිප් බැඳ ගිනි මොළවා තල, උක් හකුරු මිශ්‍ර කිරිබතක් සහ තල මිශ්‍ර කැවිලි වර්ගයක් පිළියෙළ කරගැනීම යහපත් බව නැකැත් සීට්ටුවේ සඳහන් වෙයි.
+
+මෙවර වැඩ ඇල්ලීම ගනුදෙනු කිරීම හා ආහාර අනුභවය යෙදී ඇත්තේ අද මධ්‍යම රාත්‍රී 12.06ටය.
+
+◼️
+
+[Data](articles/6e3862d4.json)
+
+---
+
+### දෙරණ ඩයලොග් මාගම්පුර සූර්ය මංගල්‍යය හෙට දවස පුරා
+
+*2024-04-13 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195604) · `si`
+
+'දෙරණ ඩයලොග් මාගම්පුර සූර්ය මංගල්‍යය'' හෙට දවස පුරා තිස්සමහාරාම වීරවිල ජාතික පශු සම්පත් සංවර්ධන මණ්ඩල පරිශ්‍රයේදී පැවැත්වෙයි.
+
+ජන ක්‍රීඩා රැසකින් සහ රාත්‍රියේ සංගීත ප්‍රසංගයකින් හැඩවෙන මෙම බක්මහ උළෙලේ අසිරිය හෙට පෙරවරු 9.30 සිට ටී.වී. දෙරණින් ඔබටත් සජීවීව අත්විඳිය හැකිය.
+
+ඊට සංවිධාන ශක්තිය සපයන්නේ කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය, හම්බන්තොට දිස්ත්‍රික් ලේකම් කාර්යාලය, කතරගම, ලුණුගම්වෙහෙර, තිස්සමහාරාම ප්‍රාදේශීය ලේකම් කාර්යාල සහ තිස්සමහාරාම ප්‍රාදේශීය සභාවය.
+
+එහි සමාරම්භක තරග ලෙස පිරිමි සහ කාන්තා බයිසිකල් ධාවන සහ මැරතන් තරග පැවැත්වීමට නියමිතව තිබේ.
+
+විවෘත ඉසව් වන එම තරග සඳහා සහභාගී වන තරගකරුවන් හෙට උදෑසන 6 වනවිට වීරවිල ජාතික පශු සම්පත් සංවර්ධන මණ්ඩල පරිශ්‍රය වෙත පැමිණ ඊට  ලියාපදිංචි විය යුතුය.
+
+ජන ක්‍රීඩා රැසකින් වර්ණවත්ව හෙට දවස පුරා පැවැත්වෙන ''දෙරණ ඩයලොග් මාගම්පුර සූර්ය මංගල්‍යයයේ ජයග්‍රාහකයින්ට වටිනා ත්‍යාගද පිරිනැමීමට නියමිතව ඇත.
+
+'' මාගම්පුර අවුරුදු කුමරිය අභිෂේක'' ගැන්වීම හෙට පස්වරුවේ සිදුකිරීමට නියමිතය.
+
+...
+
+[Data](articles/764ecb15.json)
+
+---
 
 ### RDA earns Rs. 126 million within three days from expressway users
 
@@ -2199,47 +2239,5 @@ On the apparent northward relative motion of the sun, it is going to be directly
 [Data](articles/9363ffec.json)
 
 [Extended Data](ext_articles/9363ffec.ext.json)
-
----
-
-### Gnanasar will not be released tomorrow!
-
-*2024-04-12 21:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/181038) · `ta`
-
-Gnanasara Thera, Bodu Bala Sena's General Secretary, won't be released tomorrow. He's not the PA sentenced to life, but a prison official confirmed he couldn't be released under the state pardon.
-
-🟩
-
-The name of the General Secretary of the Bodu Bala Sena Organization, Galapoda Athay Gnanasara Thera, is not the name of the PA, which is being sentenced to life imprisonment in the list of prisoners who are released under a special state pardon.
-
-Meanwhile, a prison official said he could not be released under the state pardon
-
-◼️
-
-[Data](articles/10017385.json)
-
-[Extended Data](ext_articles/10017385.ext.json)
-
----
-
-### Showers over 100mm in areas including Western Province
-
-*2024-04-12 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195575) · `si`
-
-Heavy showers exceeding 100mm in Western, Sabaragamuwa, Matara, and thundershowers in North Central, Uva, and other areas. Flooding in Western, Central, Sabaragamuwa, Uva provinces, Galle, Matara districts.
-
-🟩
-
-The Department of Meteorology announces heavy showers exceeding 100 mm in the Western and Sabaragamuwa and Matara districts.
-
-Thundershowers will develop at several places in the North Central and Uva provinces and in the other areas of the island.
-
-Meanwhile, in some places in the Western, Central, Sabaragamuwa and Uva provinces and in the Galle and Matara districts have a murder.
-
-◼️
-
-[Data](articles/f875b0f1.json)
-
-[Extended Data](ext_articles/f875b0f1.ext.json)
 
 ---

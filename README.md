@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 06:16:42**
+As of **2024-04-13 06:41:05**
 
 ## Newspaper Stats
 
-*Scraped **18,638** Articles*
+*Scraped **18,639** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,041
 adalk | 1,559
-tamilmirrorlk | 2,174
+tamilmirrorlk | 2,175
 adaderanalk | 2,237
 virakesarilk | 2,779
 dailymirrorlk | 2,856
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,020
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,638 (100.0%) of 18,638 articles have been extended.
+18,638 (100.0%) of 18,639 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### குடிவரவு, குடியகல்வு திணைக்களத்தினர் போராட்டம்
+
+*2024-04-13 01:21:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடிவரவு-குடியகல்வு-திணைக்களத்தினர்-போராட்டம்/175-335891) · `ta`
+
+இலங்கை குடிவரவு மற்றும் குடியகல்வு திணைக்கள உறுப்பினர்கள் கருப்பு பட்டி அணிந்து தொழிற்சங்க போராட்டங்களில் ஈடுபட்டுள்ளனர்.
+
+இலங்கையில் செயற்படும் அனைத்து விமான நிலையங்கள் மற்றும் துறைமுகங்களில் குறிப்பாக கட்டுநாயக்க விமான நிலையத்தில் உள்ள அனைத்து அதிகாரிகளும் இந்த ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ளனர்.
+
+குடிவரவுத் திணைக்களத்தில் அதிகாரிகள் பற்றாக்குறை, உரிய பதவிகளுக்கான வெற்றிடங்களை நிரப்பாமை, ஷிப்ட் முறை மாற்றம், அரசாங்கத்தின் நிரந்தர விசா கொள்கை இல்லாத காரணத்தினால் சுற்றுலாப் பயணிகள் என்ற போர்வையில் நாட்டிற்குள் நுழையும் சர்வதேச கடத்தல்காரர்கள், வெளிநாட்டு தனியார் நிறுவனம் விசா விண்ணப்பங்களை கையாள்வது போன்றவற்றின் அடிப்படையில் இந்த எதிர்ப்பு பிரச்சாரம் தொடங்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/3b580d55.json)
+
+---
 
 ### Corona again ... Death
 
@@ -2301,33 +2317,5 @@ Meanwhile, the Sri Lanka Transport Board (SLTB) said that sufficient buses were 
 [Data](articles/4bae7209.json)
 
 [Extended Data](ext_articles/4bae7209.ext.json)
-
----
-
-### Appropriate moment: Sajith, Tamil party should speak with Anura- Dayan Jayatilaka
-
-*2024-04-12 06:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181012) · `ta`
-
-Diplomat Dayan Jayatilaka advises Tamil parties to engage with main rivals, Sajith and Anura, amidst Sinhalese and Buddhist communalism. He suggests against stopping a Tamil general candidate, noting the lack of public support for such a move. Despite the historical tributes by Tamil parties in presidential elections, the current attempt to unite behind a common candidate faces challenges due to differing political tendencies and the absence of unanimity. Jayatilaka emphasizes the importance of addressing long-term issues with Sajith and Anura, drawing parallels with Catalonia and Kurdishland, and advocates for strategic decision-making to leverage the current political climate.
-
-🟩
-
-Diplomatic Dayan Jayatilaka has said that the Tamil parties, Sajith, should carry out talks with the main rivals, as the time when the Sinhalese and Buddhist communalism, which have long been politicized at home, have been appropriate.
-
-He also pointed out that while the political tendency of the Tamils is going on, the attempt to stop a Tamil general candidate will not be appropriate.
-
-He said this while commenting on the Tamil political parties, which are based on the North and East, have taken a public candidate in the upcoming presidential election.
-
-The Tamil people have carried out various tributes in the past in the presidential election. However, the tricks have not received enough reactors to the Tamil people.
-
-Against this backdrop, Tamil political parties are trying to stop a common candidate on their next presidential election.
-
-It is a possible strategy if all parties come forward to work together on this issue.
-
-...
-
-[Data](articles/bf9355f2.json)
-
-[Extended Data](ext_articles/bf9355f2.ext.json)
 
 ---

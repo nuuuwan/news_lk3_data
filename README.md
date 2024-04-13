@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 14:34:17**
+As of **2024-04-13 14:48:34**
 
 ## Newspaper Stats
 
-*Scraped **18,688** Articles*
+*Scraped **18,690** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 1,560
 tamilmirrorlk | 2,184
 adaderanalk | 2,246
 virakesarilk | 2,781
-dailymirrorlk | 2,865
+dailymirrorlk | 2,867
 adaderanasinhalalk | 3,033
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,688 (100.0%) of 18,688 articles have been extended.
+18,688 (100.0%) of 18,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### All presidential candidates should reveal their educational qualifications: Navin Dissanayake
+
+*2024-04-13 14:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/All-presidential-candidates-should-reveal-their-educational-qualifications-Navin-Dissanayake/108-280672) · `en`
+
+All presidential candidates should show the public their apparent qualifications, whether they engage in public debates or not, former Minister Navin Dissanayake said.
+
+"All presidential candidates, be it A/L,s degrees or masters/professional qualifications, should show their qualifications to the public. We cannot have mere talkers crashing this country after an amazing stable recovery," Dissanayake said in his latest post on X.
+
+◼️
+
+[Data](articles/e0c3ef8d.json)
+
+---
+
+### No permission granted for rice imports: Siyambalapitiya
+
+*2024-04-13 14:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-permission-granted-for-rice-imports-Siyambalapitiya/108-280671) · `en`
+
+Colombo, April 13 (Daily Mirror) - No permission has been granted for the import of rice, other than Basmati rice for the needs of tourist hotels, Finance State Minister Ranjith Siyambalapitiya said.
+
+The Minister said this while speaking to the media in the Avissawella area regarding the allegations that the import of rice has been allowed.
+
+The Minister further said that the government had allowed the import of rice when there was a risk of a rice shortage last February.
+
+At that time, a quantity of rice that had been brought in after a few days was stuck in the port, so a week's time was given to release that particular quantity of rice, but that time has now expired, the Minister said.
+
+◼️
+
+[Data](articles/32973ecc.json)
+
+---
 
 ### After PM’s Chinese visit, US NSA talks to Sri Lanka President’s advisor on peace, security
 
@@ -2219,43 +2251,5 @@ To fortify the efficiency of fuel distribution operations, the Ceylon Petroleum 
 [Data](articles/9ba73e69.json)
 
 [Extended Data](ext_articles/9ba73e69.ext.json)
-
----
-
-### Kovit death after a long day
-
-*2024-04-12 15:17:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீண்ட-நாளுக்கு-பின்னர்-கொவிட்-மரணம்/175-335874) · `ta`
-
-A person infected with Kovit at Kurunegala Teaching Hospital died after a PCR test.
-
-🟩
-
-In the report, a long time after the Kovit infected at the Kurunegala Teaching Hospital, a person who was infected with the infection.
-
-A suspect who was receiving treatment at the Kurunegala Teaching Hospital has died after being subjected to a PCR examination.
-
-◼️
-
-[Data](articles/d12d700a.json)
-
-[Extended Data](ext_articles/d12d700a.ext.json)
-
----
-
-### No political interference in providing 10kgs of rice to low-income families
-
-*2024-04-12 15:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-political-interference-in-providing-10kgs-of-rice-to-low-income-families/108-280644) · `en`
-
-Colombo, April 12 (Daily Mirror) - There is no political interference in the programme of providing 10 kgs of rice to about 3 million low-income families at the cost of Rs. 12 billion, Finance State Minister Ranjith Siyambalapitiya said.
-
-Addressing the media at the Ruwanwella area today, he assured that the preparation of the lists of beneficiaries under the programme of providing 10 kgs of rice will be done without any influence by its officials under the supervision of the Regional Secretaries.
-
-"Many people believe that we should expand the social safety net to support those who have fallen below the poverty line. The Minister agreed and said that steps are being taken in this direction. Additionally, he highlighted that the subsidy amount, which was Rs. 65 billion two years ago, has now been increased significantly to Rs. 205 billion.
-
-...
-
-[Data](articles/3df7449d.json)
-
-[Extended Data](ext_articles/3df7449d.ext.json)
 
 ---

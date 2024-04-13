@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 13:34:01**
+As of **2024-04-13 13:50:58**
 
 ## Newspaper Stats
 
-*Scraped **18,684** Articles*
+*Scraped **18,685** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,47 +20,85 @@ tamilmirrorlk | 2,184
 adaderanalk | 2,246
 virakesarilk | 2,781
 dailymirrorlk | 2,865
-adaderanasinhalalk | 3,032
+adaderanasinhalalk | 3,033
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,681 (100.0%) of 18,684 articles have been extended.
+18,684 (100.0%) of 18,685 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### ඔස්ට්‍රේලියාවේ පිහි ඇනුමක්
+### ඊශ්‍රායලයට පිළිතුරු දෙන්න ඉරානය මිසයිල 100ක් සූදානම් කරයි
+
+*2024-04-13 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195590) · `si`
+
+ඉරානය, ඊශ්‍රායලය වෙත ප්‍රහාර එල්ල කිරීම සඳහා කෘෘස් මිසයිල 100ක් පමණ සූදානම් කරගෙන සිටින බවට වාර්තාවීමත් සමග එම කලාපය වෙත ලෝක බලවතුන්ගේ අවධානය යොමුවී තිබේ.
+
+ඉරානය ඉතාමත් ආසන්න දිනක ඊශ්‍රායලය වෙත ප්‍රහාර එල්ල කරනු ඇති බවට අමෙරිකාව අනතුරු අඟවා ඇත.
+
+ඒ සම්බන්ධව අදහස් පළකළ අමෙරිකානු ජනාධිපති ජෝ බයිඩන් පවසා ඇත්තේ තම රට ඊශ්‍රායලයේ ආරක්ෂාවට සහාය දක්වන බවය.
+
+එමෙන්ම ඉරානයට අනතුරු අඟවමින් පවසා ඇත්තේ එවැනි ප්‍රහාර එල්ල නොකරන ලෙසටය.
+
+කලාපීය උණුසුම තවත් තීව්‍ර කරමින් නිකුත් වූ මේ වාර්තාවට අනුව එම ප්‍රහාර ඊශ්‍රායලය වෙත මෙන්ම කලාපයේ ඊශ්‍රායල ඉලක්ක වෙත එල්ලවීමේ අවස්ථාවක් පවතී.
+
+අමෙරිකාව මෙම අනාවරණය කළේ ඉරානය සිය හමුදා සහ අවි, කලාපය පුරා ස්ථානගත කරමින් පවතින බවට හඳුනාගැනීමෙන් පසුවය.
+
+එමෙන්ම කලාපය වෙත අතිරේක බලඇණි යොමුකිරීමටත් අමෙරිකාව දැනටමත් කටයුතු කරමින් සිටී.
+
+ඉරාන ප්‍රහාරයක් එල්ල වීමට ඇති අවදානම මත පදනම්ව ඊශ්‍රායලයේ රැඳී සිටින සිය සේවකයින් තානාපති කාර්යාලයෙන් පිටතට යාම සීමා කිරීමට අමෙරිකානු රජය තීරණය කළේ ඊයේ (12) දිනයේදීය.
+
+...
+
+[Data](articles/3bf6b885.json)
+
+---
+
+### A knives of knives in Australia
 
 *2024-04-13 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195589) · `si`
 
-ඔස්ට්‍රේලියාවේ සිඩ්නි නුවර සාප්පු සංකීර්ණයක පිහි ඇනුමක් සිදුකර ඇති බව වාර්තාවී තිබේ.
+In Sydney, Australia, a knife attack in a shopping complex hospitalized several. The suspect was shot by police, but details are unclear.
 
-පුද්ගලයෙකු විසින් සාප්පු සංකීර්ණයේ සිටි පිරිසකට පිහියකින් පහරදී ඇති බවත් තුවාලකරුවන් රෝහල්ගත කර ඇති බවත් විදෙස් මාධ්‍ය පවසයි.
+🟩
 
-සැකකරුට පොලීසිය විසින් වෙඩිතබා ඇති නමුත් ඒ සම්බන්ධයෙන් නිවැරදි තොරතුරක් වාර්තාවී නොමැති බව විදෙස් මාධ්‍ය වැඩිදුරටත් සඳහන් කරයි.
+It has been reported that a shopping complex in Sydney, Australia, has been conducted.
+
+Foreign media has said that a group of malls were hit with a knife and hospitalized.
+
+The suspect has been shot by the police, but there is no accurate information.
 
 ◼️
 
 [Data](articles/f74cbd02.json)
 
+[Extended Data](ext_articles/f74cbd02.ext.json)
+
 ---
 
-### அவுஸ்திரேலியாவின் சிட்னியில் வணிகவளாகமொன்றில் கத்திக்குத்து தாக்குதல் - நால்வர் பலி
+### Four killed in a businessman in Sydney, Australia
 
 *2024-04-13 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/181048) · `ta`
 
-சிட்னியின் பொன்டி ஜங்சன் எனப்படும் பகுதியில் இந்த வன்முறை சம்பவம் சற்று முன்னர் இடம்பெற்றுள்ளது.
+In Sydney, Australia, four people were killed in a businessman incident, reportedly involving a knife. Police have issued warnings and reports suggest multiple targets.
 
-வணிகவளாகமொன்றிற்குள் நபர் ஒருவர் கத்தியுடன் காணப்படுவதாக பொதுமக்களை எச்சரித்துள்ள காவல்துறையினர் பாரிய சம்பவம் இடம்பெற்றுள்ளதாக தெரிவிக்கின்றனர்.
+🟩
 
-பலர் கத்திக்குத்திற்கு இலக்காகியுள்ளனர் என தகவல்கள் வெளியாகின்றன துப்பாக்கி பிரயோகம் இடம்பெற்றதாகவும் தகவல்கள் வெளியாகின்றன.
+The incident took place shortly before the incident, called Sydney's Pontie Jungson.
+
+Police have warned the public that a person is found with a knife inside a businessman, according to a massive incident.
+
+There are reports that many have been targeted for a knife.
 
 ◼️
 
 [Data](articles/d8cd358c.json)
+
+[Extended Data](ext_articles/d8cd358c.ext.json)
 
 ---
 
@@ -103,6 +141,8 @@ One witness said they saw a woman lying on the ground and took shelter in a jewe
 ◼️
 
 [Data](articles/819bffdf.json)
+
+[Extended Data](ext_articles/819bffdf.ext.json)
 
 ---
 
@@ -2213,25 +2253,5 @@ Accordingly, the symbolic strike was launched at 9 a.m. and will continue till 9
 [Data](articles/f40131a6.json)
 
 [Extended Data](ext_articles/f40131a6.ext.json)
-
----
-
-### Thundershowers, severe lightning forecast across the island
-
-*2024-04-12 14:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thundershowers-severe-lightning-forecast-across-the-island/108-280648) · `en`
-
-Colombo, April 12 (Daily Mirror) - The Department of Meteorology has issued a weather alert, warning of thundershowers and severe lightning expected to sweep across various parts of the island in the imminent hours.
-
-Thundershowers accompanied by severe lightning are anticipated to strike multiple areas within the Western, Southern, Sabaragamuwa, Northern and North-Western Provinces, as well as the Moneragala district.
-
-In light of the imminent weather conditions, members of the public are strongly advised to take proactive measures to mitigate potential damages caused by lightning activities.
-
-The Department of Meteorology continues to monitor the situation closely and urges residents to stay updated on further advisories and alerts.
-
-◼️
-
-[Data](articles/143fc552.json)
-
-[Extended Data](ext_articles/143fc552.ext.json)
 
 ---

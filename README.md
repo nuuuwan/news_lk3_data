@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 20:03:18**
+As of **2024-04-13 20:18:22**
 
 ## Newspaper Stats
 
-*Scraped **18,718** Articles*
+*Scraped **18,719** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ tamilmirrorlk | 2,186
 adaderanalk | 2,254
 virakesarilk | 2,782
 dailymirrorlk | 2,877
-adaderanasinhalalk | 3,040
+adaderanasinhalalk | 3,041
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,717 (100.0%) of 18,718 articles have been extended.
+18,718 (100.0%) of 18,719 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### රට ලස්සන කරන පිරිසගේ අවුරුදු උත්සවය
+
+*2024-04-13 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195602) · `si`
+
+අවුරුද්ද පුරාම කොළඹ පිරිසිදුව තබාගන්නා සුන්දර මිනිසුන් පිරිසකට දෙරණ මාධ්‍ය ජාලය පසුගියදා උපහාර පුද කර තිබුණි.
+
+◼️
+
+[Data](articles/07d8a34c.json)
+
+---
 
 ### Madagascar woman trying to enter SL with Rs.26 Mn worth swallowed Coke nabbed at BIA
 
@@ -49,6 +61,8 @@ Since yesterday evening the officials have retrieved 57 capsules containing 620 
 ...
 
 [Data](articles/dff1f9db.json)
+
+[Extended Data](ext_articles/dff1f9db.ext.json)
 
 ---
 
@@ -2219,25 +2233,5 @@ US officials have said Iran can target Israel's military structures, which is a 
 [Data](articles/3c306deb.json)
 
 [Extended Data](ext_articles/3c306deb.ext.json)
-
----
-
-### Confusion remains if April 15 is a bank holiday
-
-*2024-04-12 20:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Confusion-remains-if-April-15-is-a-bank-holiday/108-280657) · `en`
-
-Colombo, April 12 (Daily Mirror) - People remain confused since the Ministry of Public Administration, Home Affairs and Provincial has not defined the additional holiday declared on April 15 as a banking and mercantile holiday.
-
-The gazette notification issued by the ministry only says it is a public holiday.
-
-Asking for a comment in this regard, Ministry Secretary Pradeep Yasarathne only said,” we have declared a public holiday. It is up to the relevant institutions to decide."
-
-Prodded for an answer to know whether it was a bank holiday, he said, “You just refer to the gazette notification," without elaborating further.
-
-◼️
-
-[Data](articles/77e9e6cd.json)
-
-[Extended Data](ext_articles/77e9e6cd.ext.json)
 
 ---

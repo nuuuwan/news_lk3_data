@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 10:34:46**
+As of **2024-04-13 10:52:05**
 
 ## Newspaper Stats
 
-*Scraped **18,666** Articles*
+*Scraped **18,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 1,559
 tamilmirrorlk | 2,184
 adaderanalk | 2,242
 virakesarilk | 2,779
-dailymirrorlk | 2,858
-adaderanasinhalalk | 3,027
+dailymirrorlk | 2,861
+adaderanasinhalalk | 3,028
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,666 (100.0%) of 18,666 articles have been extended.
+18,666 (100.0%) of 18,670 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### ජෝර්ජිඒවා ට කැමැත්ත හිමිවෙයි
+
+*2024-04-13 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195585) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ (IMF) කළමනාකාර අධ්‍යක්ෂිකාව ලෙස සේවය කිරීම සඳහා දෙවන වතාවටත් ක්‍රිස්ටලිනා ජෝර්ජිඒවා මහත්මියව තෝරාපත් කරගෙන තිබේ.
+
+විධායක මණ්ඩලයේ ඒකමතික තිරණය අනුව ඇය ව 2024 ඔක්තෝම්බර් 1 වනදා සිට දෙවන පස් අවුරුදු ධුර කාලය සඳහා ඊයේ (12) දිනයේ දී  මෙලෙස තෝරා පත්කර ඇත.
+
+එම තනතුර සඳහා නම් කර සිටි එකම අපේක්ෂකයා ඇය වූ බවත් මෙම පත්වීම සිදු කිරීමට පෙර ඇයත් සමග සාකච්ඡා වට කිහිපයක්ම පැවත්වු බවත් ජාත්‍යන්තර මූල්‍ය අරමුදලේ නිල වෙබ් පිටුවේ සඳහන් වේ.
+
+ඇයගේ ශක්තිමත් සහ කඩිසර නායකත්වය IMF විධායක මණ්ඩලයේ පැසසුමට ලක්ව තිබේ.
+
+බල්ගේරියානු ජාතික ජෝර්ජීඒවා මහත්මිය 2019 වසරේ  ඔක්තෝබර් 1 දින සිට IMF හි කළමනාකාර අධ්‍යක්ෂවරිය ලෙස කටයුතු කරන්නීය.
+
+එමෙන්ම ඊට පෙර ඇය 2017 ජනවාරි සිට ලෝක බැංකුවේ ප්‍රධාන විධායක නිලධාරිනිය ලෙස ද කටයුතු කර තිබුණාය.
+
+◼️
+
+[Data](articles/b0100956.json)
+
+---
+
+### Kristalina Georgieva to serve second term as IMF managing director
+
+*2024-04-13 10:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kristalina-Georgieva-to-serve-second-term-as-IMF-managing-director/108-280666) · `en`
+
+Colombo, April 13 (Daily Mirror) - The Executive Board of the International Monetary Fund (IMF) on Friday selected Kristalina Georgieva to serve as IMF Managing Director for a second five-year term starting on October 1, 2024.
+
+"I am deeply grateful for the trust and support of the Fund’s Executive Board, representing our 190 members, and honored to continue leading the IMF as Managing Director for a second five-year term," she said in a statement.
+
+...
+
+[Data](articles/8325b95f.json)
+
+---
 
 ### Sri Lanka Diesel sales at 7-month high in March, Petrol at 3-month high
 
@@ -71,6 +107,24 @@ Georgieva has served as IMF’s Managing Director since October 1, 2019. The Man
 [Data](articles/c504e85b.json)
 
 [Extended Data](ext_articles/c504e85b.ext.json)
+
+---
+
+### Two injured in shooting in Hambegamuwa
+
+*2024-04-13 09:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-injured-in-shooting-in-Hambegamuwa/108-280665) · `en`
+
+Hambegamuwa, April 13 (Daily Mirror) - Two people were injured in a shooting in Hambegamuwa last night, police said.
+
+They said that two individuals in a house at Seenuggala in Hambegamuwa were shot at by two persons who arrived on a motorcycle.
+
+The incident occurred while the owner of the house and his cousins were having a party.
+
+Police said that a 24-year-old and a 42-year-old were injured in the shooting and were admitted to the Hambegamuwa and Embilipitiya hospitals.
+
+◼️
+
+[Data](articles/75adb5fc.json)
 
 ---
 
@@ -707,6 +761,24 @@ The allowance was paid under the approval of the National Auditor General's Repo
 [Data](articles/7088d0fa.json)
 
 [Extended Data](ext_articles/7088d0fa.ext.json)
+
+---
+
+### Belgian traveller scammed in Kalutara
+
+*2024-04-12 23:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Belgian-traveller-scammed-in-Kalutara/155-280662) · `en`
+
+Colombo, April 12 (Daily Mirror) - Tim Tense, a Belgian traveller exploring Sri Lanka, recently shared a troubling encounter from his visit to Kalutara.
+
+According to Tim, he fell victim to a scam at a local restaurant, where he was charged an exorbitant Rs. 1,000 for a single Ulundu Vadai and a cup of plain tea.
+
+In his YouTube video titled "Avoid this man in Kalutara, Sri Lanka," Tim recounted his experience. He traversed Kalutara on his own three-wheeler, soaking in the sights. Upon parking, he was approached by a Sri Lankan individual who offered to take him to a place called 'Wadani Villas Saivar Kade' for an authentic Sri Lankan food experience.
+
+The friendly local guided Tim to the restaurant, where he was served an Ulundu Vadai and plain tea, despite not planning to dine initially. As Tim enjoyed his meal, the host suggested tourist spots, which Tim politely declined, opting to explore independently.
+
+...
+
+[Data](articles/8638b544.json)
 
 ---
 
@@ -2151,103 +2223,5 @@ Do Thi Nhan, former Director of bank supervision division II at the State Bank o
 [Data](articles/e21a4243.json)
 
 [Extended Data](ext_articles/e21a4243.ext.json)
-
----
-
-### Woman and her paramour arrested over murder of husband
-
-*2024-04-12 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98588/woman-and-her-paramour-arrested-over-murder-of-husband) · `en`
-
-A woman, 33, and her paramour, 63, have been arrested in connection with the murder of a 39-year-old man. The victim was the husband of the female arrestee, according to the police.
-
-In the early hours of Wednesday (10), the body of a man who died in a house fire in the Kolavil 02 area of Akkaraipattu was found.
-
-During the post-mortem performed at the Akkaraipattu Base Hospital concluded that the actual cause of death was a haemorrhage following an incised wound of the neck.
-
-Further investigations into the incident led to the arrest of the wife of the deceased and her paramour, who is also a resident of the Kolavil 02 area.
-
-◼️
-
-[Data](articles/971fbda4.json)
-
-[Extended Data](ext_articles/971fbda4.ext.json)
-
----
-
-### Tamils need a separate presidential candidate
-
-*2024-04-12 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195562) · `si`
-
-Sri Lanka Labor Congress Leader Sandil Thondaman states Tamils don't need a separate presidential candidate, emphasizing the Ceylon Workers' Congress will support President Ranil Wickremesinghe.
-
-🟩
-
-Sri Lanka Labor Congress Leader Sandil Thondaman says that the Tamil people do not need a separate candidate for the presidential election.
-
-He points out that the Ceylon Workers' Congress will work to support the present President Ranil Wickremesinghe.
-
-He was speaking at a media briefing in Colombo, he said this.
-
-◼️
-
-[Data](articles/7ea291ab.json)
-
-[Extended Data](ext_articles/7ea291ab.ext.json)
-
----
-
-### 'How I Write': Nissanka Wijemanna
-
-*2024-04-12 11:13:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72px735vk2o) · `si`
-
-Nissanka Wijemanna, a renowned Sinhala novelist, shares his writing process, emphasizing the importance of planning, character development, and revising. He compares writing to painting, seeking to create a unique narrative model. Despite his slow writing pace, he values the time spent on his work, finding inspiration in everyday life and the impact on readers.
-
-🟩
-
-Nissanka Wijemanna is not a newly avoided in contemporary Sinhala literature at all. He is mostly known as a shortator, "The Prince of Valentine", "the 'duck', 'toddy', 'the moon', the 'duck', 'the moon is' in a software and formatting, 'he is in a software.'
-
-As a novelist, I chat with him in order to understand his feelings and writing as a novelist.
-
-The questions I hear in this discussion is currently written by the history (2019) and pressing from this link wind (2014) and have emerged from the experience I faced.
-
-It is well known for all writer's writing process.
-
-Where writing, writing, writing, how to write, the writing of the coffee, belong to the writer's abundance.
-
-The conversation is seeking to pointer to that secret site of the newcomers.
-
-The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
-
-Easy: First I would like to ask you to start a novel writing?
-
-...
-
-[Data](articles/7e65e52a.json)
-
-[Extended Data](ext_articles/7e65e52a.ext.json)
-
----
-
-### Iran has to abandon the idea of attacking Israel - Australia
-
-*2024-04-12 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/181027) · `ta`
-
-Australia's External Affairs Minister Benivong urges Iran to refrain from attacking Israel, citing concerns over potential instability.
-
-🟩
-
-Australian External Affairs Minister Benivong has appealed to the Iranian Middle East not to further intensify the attack on Israel.
-
-He made the request in the social media post and said he had negotiated with the Iranian Foreign Minister.
-
-The Australian Foreign Minister has said that Iran should use his influence to create stability in the region.
-
-He said Australia is concerned about the signs that Iran will launch an attack against Israel.
-
-◼️
-
-[Data](articles/e5b04fc4.json)
-
-[Extended Data](ext_articles/e5b04fc4.ext.json)
 
 ---

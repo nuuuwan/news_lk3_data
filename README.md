@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 14:48:34**
+As of **2024-04-13 15:03:22**
 
 ## Newspaper Stats
 
-*Scraped **18,690** Articles*
+*Scraped **18,692** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ dailyftlk | 1,018
 economynextcom | 1,045
 adalk | 1,560
 tamilmirrorlk | 2,184
-adaderanalk | 2,246
+adaderanalk | 2,247
 virakesarilk | 2,781
 dailymirrorlk | 2,867
-adaderanasinhalalk | 3,033
+adaderanasinhalalk | 3,034
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,688 (100.0%) of 18,690 articles have been extended.
+18,690 (100.0%) of 18,692 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### පුණ්‍ය කාලය උදා වෙයි
+
+*2024-04-13 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195592) · `si`
+
+මෙවර සිංහල සහ දෙමළ අලුත් අවුරුද්දේ නැකැත් අනුව පුණ්‍ය කාලය අප්‍රේල් 13 එනම් අද පස්වරු 2.41 සිට අප්‍රේල් 14 වනදා අලුයම 3.29 දක්වා යෙදී තිබේ.
+
+ඒ අනුව පුණ්‍ය කාලයේදී ආගමික වතාවත්වල යෙදීම යෝග්‍ය බව නැකැත් සීට්ටුවේ සඳහන් ය.
+
+◼️
+
+[Data](articles/56f9e504.json)
+
+---
+
+### Sinhala and Tamil New Year dawns today; ‘Punya Kaalaya’ begins
+
+*2024-04-13 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98609/sinhala-and-tamil-new-year-dawns-today-punya-kaalaya-begins) · `en`
+
+The inauspicious time (Punya Kaalaya or Nonagathaya) of 2024 Sinhala and Tamil New Year commenced a short while ago at 2.41 p.m. and is slated to end at 3.29 a.m. tomorrow (14). Sri Lankans are set to celebrate the dawn of the traditional New Year this year at 9.05 p.m. today (13).
+
+The New Year, known as ‘Aluth Avurudda’ in Sinhala, and ‘Puththandu’ in Tamil, is celebrated by both communities by observing various rituals and customs.
+
+According to traditional astrological belief, the Sun completes its movement across the twelve segments of the Zodiac in the course of a year taking one month to travel each constellation.
+
+The transition of the Sun from the House of Pisces to the House of Aries marks the beginning of the New Year (Aluth Avurudu).
+
+A number of customs and traditional beliefs are associated with Avurudu celebrations in Sri Lanka. The Sinhalese are influenced by astrological faiths and perform several religious practices during this time.
+
+...
+
+[Data](articles/d05e57c8.json)
+
+---
 
 ### All presidential candidates should reveal their educational qualifications: Navin Dissanayake
 
@@ -43,6 +77,8 @@ All presidential candidates should show the public their apparent qualifications
 ◼️
 
 [Data](articles/e0c3ef8d.json)
+
+[Extended Data](ext_articles/e0c3ef8d.ext.json)
 
 ---
 
@@ -61,6 +97,8 @@ At that time, a quantity of rice that had been brought in after a few days was s
 ◼️
 
 [Data](articles/32973ecc.json)
+
+[Extended Data](ext_articles/32973ecc.ext.json)
 
 ---
 
@@ -2207,49 +2245,5 @@ The program is sponsored by Ceylon Biscuits Limited (CBL), facilitating the deli
 [Data](articles/a7645e32.json)
 
 [Extended Data](ext_articles/a7645e32.ext.json)
-
----
-
-### South Korean singer Park Bo-ram passes away at 30
-
-*2024-04-12 16:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/South-Korean-singer-Park-Bo-ram-passes-away-at-30/108-280652) · `en`
-
-Singer Park Bo-ram died on Thursday, according to her management agency, Friday.
-
-According to XANADU Entertainment, "Park Boram has passed away suddenly on April 11. We are deeply saddened to pass along the news and express condolences to her family members."
-
-According to local news reports quoting local police, she was drinking with her friends on Thursday at a bar in Namyangju, Gyeonggi Province, and was found unconscious in a bar bathroom at 9:55 p.m. She was transported to Hanyang University Guri Hospital and was confirmed dead at 11:17 p.m.
-
-Police reportedly plan to request an autopsy to investigate the exact cause of her death.
-
-Park made her musical debut through season 2 of the TV audition program "Super Star K" in 2010, in which she made it to the final 11 contestants. She officially debuted in 2014 with the song "Beautiful," and has had an active singing career. Last month, she released a new song titled "I Miss You Already."
-
-◼️
-
-[Data](articles/2176bdaf.json)
-
-[Extended Data](ext_articles/2176bdaf.ext.json)
-
----
-
-### CPC assures uninterrupted fuel supply during festive season
-
-*2024-04-12 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CPC-assures-uninterrupted-fuel-supply-during-festive-season/108-280645) · `en`
-
-Colombo, April 12 (Daily Mirror) - In anticipation of the Sinhala and Tamil New Year, the Ceylon Petroleum Corporation (CPC) has announced robust measures to ensure a seamless flow of fuel from Ceypetco filling stations.
-
-Amidst the celebratory season, CPC has affirmed its commitment to maintaining adequate fuel stocks by orchestrating timely imports to meet the heightened demand.
-
-Underlining their proactive approach, the CPC has issued directives to filling station proprietors, emphasizing the imperative of sufficient stock levels to cater to the influx of customers during the festive period.
-
-Furthermore, to streamline fuel procurement processes for distributors, the CPC has extended the facilitation of cheque transactions until April 15th.
-
-To fortify the efficiency of fuel distribution operations, the Ceylon Petroleum Storage Terminals Ltd. is slated to dispatch an ample fleet of tankers for seamless distribution activities.
-
-◼️
-
-[Data](articles/9ba73e69.json)
-
-[Extended Data](ext_articles/9ba73e69.ext.json)
 
 ---

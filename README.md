@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 09:03:23**
+As of **2024-04-13 09:18:16**
 
 ## Newspaper Stats
 
-*Scraped **18,654** Articles*
+*Scraped **18,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,041
 adalk | 1,559
-tamilmirrorlk | 2,181
-adaderanalk | 2,239
+tamilmirrorlk | 2,183
+adaderanalk | 2,240
 virakesarilk | 2,779
-dailymirrorlk | 2,857
-adaderanasinhalalk | 3,025
+dailymirrorlk | 2,858
+adaderanasinhalalk | 3,026
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,654 (100.0%) of 18,654 articles have been extended.
+18,654 (100.0%) of 18,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### பன்றியின் சிறுநீரகம் பொருத்தப்பட்ட நபர் குணமடைந்தார்
+
+*2024-04-13 09:01:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பன்றியின்-சிறுநீரகம்-பொருத்தப்பட்ட-நபர்-குணமடைந்தார்/50-335901) · `ta`
+
+உறுப்பு மாற்று அறுவை சிகிச்சைக்கு தேவையான உறுப்புகள் கிடைக்காமல் உலகம் முழுவதும் பல லட்சம் நோயாளிகள் காத்திருக்கும் நிலையில், அமெரிக்காவைச் சேர்ந்த அறுவை சிகிச்சை நிபுணர்கள், முதல் முறையாக மரபணு மாற்றப்பட்ட பன்றியின் சிறுநீரகத்தை மனிதனுக்கு பொருத்தி அதில் வெற்றி கண்டுள்ளனர்.
+
+அமெரிக்காவின் மாசசூசெட்ஸ் மாநிலம், வேமவுத் நகரைச் சேர்ந்தவர் ரிச்சர்டு ஸ்லேமன் (வயது 62). இவரது சிறுநீரகம் பாதிக்கப்பட்டதால் பாஸ்டனில் உள்ள பொது மருத்துவமனையில் சிகிச்சைக்காக சேர்ந்தார். ஆரம்பத்தில் அவருக்கு சில வருடங்கள் டயாலிசிஸ் செய்யப்பட்டது. உடல்நிலை மோசமடையவே, 2018-ல் சிறுநீரக மாற்று அறுவை சிகிச்சை செய்யப்பட்டது. வேறு ஒரு நபரிடம் இருந்து பெறப்பட்ட சிறுநீரகத்தை அவருக்கு பொருத்தினர். ஆனால், 5 ஆண்டுகளில் அந்த உறுப்பு செயலிழந்தது. இதனால் மீண்டும் அவருக்கு டயாலிசிஸ் சிகிச்சை அளிக்கப்பட்டு வந்தது.
+
+...
+
+[Data](articles/c5e60505.json)
+
+---
+
+### Holding Presidential and Parliamentary polls on same day impossible: Election Commission
+
+*2024-04-13 08:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Holding-Presidential-and-Parliamentary-polls-on-same-day-impossible-Election-Commission/108-280664) · `en`
+
+Colombo, April 13 (Daily Mirror) - In the wake of calls by some people for the conduct of both the Presidential and Parliamentary polls on the same day, the Election Commission says it is something impossible due to practical difficulties.
+
+An official of the Commission said separate ballot papers should be printed for each electoral district as far as a parliamentary election is concerned whereas the same ballot paper is meant for all the districts in case of a Presidential election.
+
+Also, he said the political parties form alliances differently at both elections.
+
+“A political alliance that supports a Presidential candidate at such an election will part ways at a general election," the official said.
+
+◼️
+
+[Data](articles/c27a6891.json)
+
+---
 
 ### 10 arrested with 200kg drug
 
@@ -65,6 +97,18 @@ The Railway Control Division has said that a train in the southern Kalutara has 
 [Data](articles/ef43f127.json)
 
 [Extended Data](ext_articles/ef43f127.ext.json)
+
+---
+
+### දුම්රිය ප්‍රමාදයක්
+
+*2024-04-13 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195583) · `si`
+
+දකුණු කළුතර දුම්රිය පීලි පැනීමක් හේතුවෙන් මෙම ප්‍රමාදය සිදුවන බව ශ්‍රී ලංකා දුම්රිය දෙපාර්තමේන්තුව නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/81d5a311.json)
 
 ---
 
@@ -109,6 +153,20 @@ It is reported that Israeli Prime Minister Benjamin Netanyahu has met with the m
 [Data](articles/e3bf352b.json)
 
 [Extended Data](ext_articles/e3bf352b.ext.json)
+
+---
+
+### Train derailment causes delays on Coastal Line
+
+*2024-04-13 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98603/train-derailment-causes-delays-on-coastal-line) · `en`
+
+A train has detailed at the Kalutara South railway station on Saturday (13), Ada Derana learns.
+
+Trains operating on the Coastal Line are thus experiencing delays, Sri Lanka Railways said.
+
+◼️
+
+[Data](articles/8b61fd90.json)
 
 ---
 
@@ -293,6 +351,22 @@ Accordingly, the sun will be overcome to the Sunkuni, Murukandeki, Kiratamadu an
 [Data](articles/cefb5563.json)
 
 [Extended Data](ext_articles/cefb5563.ext.json)
+
+---
+
+### இலங்கை மீனவர்கள் 10 பேர் கைது
+
+*2024-04-13 01:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மீனவர்கள்-10-பேர்-கைது/175-335894) · `ta`
+
+ஹெரோயின் அல்லது ஐஸ் போதைப்பொருள் எனச் சந்தேகிக்கப்படும் 200 கிலோகிராம் போதைப்பொருளுடன் இரண்டு மீன்பிடிப் படகுகள் இலங்கையின் தெற்கு ஆழ்கடல் பகுதியில் கடற்படையினரால் நேற்று கைப்பற்றப்பட்டுள்ளன.
+
+இரண்டு படகுகளிலும் இருந்த 10 இலங்கை மீனவர்களும் கைது செய்யப்பட்டுள்ளனர் என்று கடற்படைப் பேச்சாளர் கயான் விக்கிரமசூரிய தெரிவித்துள்ளார்.
+
+போதைப்பொருடன் கைது செய்யப்பட்டவர்கள் காலித் துறைமுகத்துக்குக் கொண்டு வரப்பட்டுள்ளனர் என்றும்  கடற்படைப் பேச்சாளர் மேலும் குறிப்பிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/9e6303f4.json)
 
 ---
 
@@ -2179,121 +2253,5 @@ A selling price of Rs. 1,300 was recorded for skinless chicken and curry chicken
 [Data](articles/dd32416f.json)
 
 [Extended Data](ext_articles/dd32416f.ext.json)
-
----
-
-### Sri Lanka Yukthiya operations leading addicts to seek Ayurveda high
-
-*2024-04-12 09:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-yukthiya-operations-leading-addicts-to-seek-ayurveda-high-158279/) · `en`
-
-ECONOMYNEXT – A shortage of drugs due to the Yukthiya crackdown has led some addicts to look for alternative medicines, State Minister of Indigenous Medicine Sisira Jayakody said.
-
-“The shortage of pharmaceuticals has led some individuals addicted to drugs to turn to certain alternative medicines within the indigenous medical system, Jayakody said at a press briefing last week.
-
-Sri Lanka allows cannabis to be used in the manufacture of ayurvedic medicine. Raw materials in Ayurvedic medicine include several parts of the cannabis plant, as well as abin (Papaver somniferum Linn), in herbal remedies.
-
-Anecdotal evidence suggests that over-the-counter products available at shops that sell ayurveda products (sinhala beheth) provide varying degrees of relaxation or stimulation.
-
-Jayakody said a written notification has been sent to Public Security Minister Tiran Alles and the Inspector General of Police regarding the challenges faced by the indigenous medical sector due to operation ‘Yukthiya’.
-
-...
-
-[Data](articles/efdcb49c.json)
-
-[Extended Data](ext_articles/efdcb49c.ext.json)
-
----
-
-### Intelligence Weakage - Mihintale Thero
-
-*2024-04-12 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195559) · `si`
-
-Mihintale Thero, Chief Incumbent of Ven. Welpawanwewa Thero, emphasized the need for strengthening areas to prevent a criminal wave, during a media briefing in Anuradhapura.
-
-🟩
-
-The Welpawanwewa Thero, Chief Incumbent, Ven.
-
-The Thera said that there was no possibility of criminal wave without strengthening the areas.
-
-He was speaking at a media briefing in Anuradhapura, the Chief Incumbent of the Mihintamha Raja Maha Viharaya.
-
-◼️
-
-[Data](articles/35999616.json)
-
-[Extended Data](ext_articles/35999616.ext.json)
-
----
-
-### Taylor Swift’s music back on TikTok after dispute
-
-*2024-04-12 08:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Taylor-Swifts-music-back-on-TikTok-after-dispute/108-280638) · `en`
-
-April 12 (BBC) - Taylor Swift's songs are back on TikTok following a dispute that led her label to stop licensing its content to the app.
-
-Her music's return on Thursday comes ahead of the release of her new album, The Tortured Poets Department.
-
-Universal Music pulled songs by its artists in January, including Rihanna and Ariana Grande, citing a licensing dispute.
-
-While many of her songs - including You Belong With Me and Cruel Summer - are again available for users to add to their videos, music belonging to Universal's other artists has still not been relisted.
-
-That may be because unlike other artists, Swift owns the copyright to her music under the terms of a 2018 deal with Universal. Some reports speculated Swift reached a separate deal with TikTok.
-
-"Swifties" - Taylor Swift fans - took to the platform to share their delight at her music returning.
-
-"OMG this made my whole year," wrote verified user Jessica Golich, adding that users would "have the whole new album to play with".
-
-...
-
-[Data](articles/64c5a7c3.json)
-
-[Extended Data](ext_articles/64c5a7c3.ext.json)
-
----
-
-### Vietnamese billionaire sentenced to death for $44bn fraud
-
-*2024-04-12 08:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vietnamese-billionaire-sentenced-to-death-for-44bn-fraud/108-280639) · `en`
-
-Vietnam, April 12 (BBC) - Behind the stately yellow portico of the colonial-era courthouse in Ho Chi Minh City, a 67-year-old Vietnamese property developer was sentenced to death on Thursday for looting one of the country's largest banks over a period of 11 years.
-
-It's a rare verdict - she is one of very few women in Vietnam to be sentenced to death for a white collar crime.
-
-The decision is a reflection of the dizzying scale of the fraud. Truong My Lan was convicted of taking out $44bn (£35bn) in loans from the Saigon Commercial Bank. The verdict requires her to return $27bn, a sum prosecutors said may never be recovered. Some believe the death penalty is the court's way of trying to encourage her to return some of the missing billions.
-
-The habitually secretive communist authorities were uncharacteristically forthright about this case, going into minute detail for the media. They said 2,700 people were summoned to testify, while 10 state prosecutors and around 200 lawyers were involved.
-
-...
-
-[Data](articles/ad13eff1.json)
-
-[Extended Data](ext_articles/ad13eff1.ext.json)
-
----
-
-### Taylor Swift’s music back on TikTok after dispute
-
-*2024-04-12 08:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Taylor-Swifts-music-back-on-TikTok-after-dispute/107-280638) · `en`
-
-April 12 (BBC) - Taylor Swift's songs are back on TikTok following a dispute that led her label to stop licensing its content to the app.
-
-Her music's return on Thursday comes ahead of the release of her new album, The Tortured Poets Department.
-
-Universal Music pulled songs by its artists in January, including Rihanna and Ariana Grande, citing a licensing dispute.
-
-While many of her songs - including You Belong With Me and Cruel Summer - are again available for users to add to their videos, music belonging to Universal's other artists has still not been relisted.
-
-That may be because unlike other artists, Swift owns the copyright to her music under the terms of a 2018 deal with Universal. Some reports speculated Swift reached a separate deal with TikTok.
-
-"Swifties" - Taylor Swift fans - took to the platform to share their delight at her music returning.
-
-"OMG this made my whole year," wrote verified user Jessica Golich, adding that users would "have the whole new album to play with".
-
-...
-
-[Data](articles/e0076a29.json)
-
-[Extended Data](ext_articles/e0076a29.ext.json)
 
 ---

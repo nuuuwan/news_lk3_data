@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 15:18:07**
+As of **2024-04-13 15:34:43**
 
 ## Newspaper Stats
 
-*Scraped **18,692** Articles*
+*Scraped **18,694** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,045
 adalk | 1,560
-tamilmirrorlk | 2,184
+tamilmirrorlk | 2,185
 adaderanalk | 2,247
 virakesarilk | 2,781
 dailymirrorlk | 2,867
-adaderanasinhalalk | 3,034
+adaderanasinhalalk | 3,035
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,692 (100.0%) of 18,692 articles have been extended.
+18,692 (100.0%) of 18,694 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### நாடளாவிய ரீதியில் விஷேட பாதுகாப்பு
+
+*2024-04-13 15:19:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-ரீதியில்-விஷேட-பாதுகாப்பு/175-335904) · `ta`
+
+புத்தாண்டு காலத்தில் முன்னெடுக்கப்படும் கொண்டாட்ட நிகழ்வுகளின் போது விசேட பாதுகாப்பு வேலைத்திட்டத்தை நடைமுறைப்படுத்துவதற்கு பொலிஸ் தலைமையகம் நடவடிக்கை எடுத்துள்ளது.
+
+பொலிஸ்மா அதிபர் தேசபந்து தென்னகோனின் பணிப்புரையின் கீழ் இதற்காக 14,000 பொலிஸ் உத்தியோகத்தர்கள் சேவையில் ஈடுபடுத்தப்பட்டுள்ளதாக பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+இதற்கமைவாக, 14,000 பொலிஸ் உத்தியோகத்தர்கள், 500 பொலிஸ் விசேட அதிரடிப்படையினர் மற்றும் 400 இராணுவத்தினர் இந்த பாதுகாப்பு வேலைத்திட்டத்தில் ஈடுபடுத்தப்பட்டுள்ளனர். R
+
+◼️
+
+[Data](articles/d1d7d416.json)
+
+---
+
+### ජපානයේ ජනගහන යළිත් පහළට
+
+*2024-04-13 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195593) · `si`
+
+පසුගිය වසරට සාපේක්ෂව එය සියයට බින්දුවයි දශම 4යි 8කින් පහත වැටී ඇති බව වාර්තා වෙයි.
+
+එරට අභ්‍යන්තර කටයුතු අමාත්‍යංශය විසින් සිදුකළ සමීක්ෂණයකින් මෙම තොරතුරු අනාවරණය වී ඇති බව සඳහන් විය.
+
+මේ අතර ජපානයේ තනිව ජීවත්වන වැඩිහිටි ජනගහනය 2050 වන විට සියයට 47ක් දක්වා ඉහළ යනු ඇති බවට එරට පරීක්ෂණ ආයතනයක් නිකුත් කළ වාර්තාවකින් පෙන්වා දී තිබේ.
+
+◼️
+
+[Data](articles/75726024.json)
+
+---
 
 ### Charity is coming
 
@@ -2213,45 +2245,5 @@ Superior Khan was crowded and distributed by his two sons and distribute to thei
 [Data](articles/aa7f3b55.json)
 
 [Extended Data](ext_articles/aa7f3b55.ext.json)
-
----
-
-### Excise deny fake reports circulating about liquor shops opened on April 13
-
-*2024-04-12 16:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Excise-deny-fake-reports-circulating-about-liquor-shops-opened-on-April-13/108-280651) · `en`
-
-The Excise Department today denied fake news circulating on social media that liquor shops will be opened on April 13.
-
-The department issued a notice last week that the countrywide sale of liquor will be banned on April 12 and 13 in line with the Sinhala and Tamil New Year.
-
-However, this does not apply to in house guests, both local and foreign tourists of the hotels and boutique villas beyond the three star range that are registered with the Sri Lanka Tourism Development Authority.
-
-The regular sale of liquor in the country will commence from April 14, Sunday 8.00am onwards.
-
-◼️
-
-[Data](articles/b743c7c4.json)
-
-[Extended Data](ext_articles/b743c7c4.ext.json)
-
----
-
-### Govt. to distribute Avurudu gifts to children at 336 child development centers
-
-*2024-04-12 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98592/govt-to-distribute-avurudu-gifts-to-children-at-336-child-development-centers) · `en`
-
-The distribution of annual gift parcels to children under the care of 336 child development centers throughout the country, in line with President Ranil Wickremesinghe’s initiative, is scheduled to take place tomorrow (13).
-
-Coordinated by the Office of the President, with support from the Office of the Chief of Defence Staff and Sri Lanka Army, the distribution aims to bring joy to over 10,000 children, the President’s Media Division (PMD) said.
-
-Regardless of their circumstances, these centers across various provinces, including the Central, Eastern, Northern, Sabaragamuwa, Southern, Uva and Western, will ensure that every child feels included and valued, extending a sense of family to them.
-
-The program is sponsored by Ceylon Biscuits Limited (CBL), facilitating the delivery of these much-awaited parcels to children nationwide, the PMD added.
-
-◼️
-
-[Data](articles/a7645e32.json)
-
-[Extended Data](ext_articles/a7645e32.ext.json)
 
 ---

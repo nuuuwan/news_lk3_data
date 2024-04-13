@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 21:33:59**
+As of **2024-04-13 21:52:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,044
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,723 (100.0%) of 18,725 articles have been extended.
+18,725 (100.0%) of 18,725 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The number of people from zero to 14 years old fell 329,000 to about 14.17 milli
 ...
 
 [Data](articles/715eddb2.json)
+
+[Extended Data](ext_articles/715eddb2.ext.json)
 
 ---
 
@@ -81,6 +83,8 @@ As the new year begins, Sri Lankans kick off with a cherished tradition: lightin
 ◼️
 
 [Data](articles/fc82154c.json)
+
+[Extended Data](ext_articles/fc82154c.ext.json)
 
 ---
 

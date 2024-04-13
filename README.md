@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 14:18:23**
+As of **2024-04-13 14:34:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,033
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,686 (100.0%) of 18,688 articles have been extended.
+18,688 (100.0%) of 18,688 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ China already owns a port and a proclaimed land next to the main Colombo port in
 ...
 
 [Data](articles/f24471ef.json)
+
+[Extended Data](ext_articles/f24471ef.ext.json)
 
 ---
 
@@ -465,6 +467,8 @@ The monthly sales of widely used Octane 92 recorded 112, 545 Metric Tonnes (MT) 
 ...
 
 [Data](articles/37d74651.json)
+
+[Extended Data](ext_articles/37d74651.ext.json)
 
 ---
 

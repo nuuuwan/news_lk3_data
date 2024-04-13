@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 17:53:48**
+As of **2024-04-13 18:07:13**
 
 ## Newspaper Stats
 
-*Scraped **18,707** Articles*
+*Scraped **18,708** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,018
 economynextcom | 1,045
 adalk | 1,560
 tamilmirrorlk | 2,185
-adaderanalk | 2,251
+adaderanalk | 2,252
 virakesarilk | 2,782
 dailymirrorlk | 2,872
 adaderanasinhalalk | 3,038
@@ -26,11 +26,33 @@ adaderanasinhalalk | 3,038
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,707 (100.0%) of 18,707 articles have been extended.
+18,707 (100.0%) of 18,708 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### Heat advisory issued for tomorrow; thundershowers also expected in some areas
+
+*2024-04-13 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98613/heat-advisory-issued-for-tomorrow-thundershowers-also-expected-in-some-areas) · `en`
+
+The Department of Meteorology has issued a weather alert for extreme heat and heavy rainfall in parts of the island tomorrow (14).
+
+Accordingly, the heat index, the temperature felt on the human body, is expected to reach ‘Caution’ level at some places in the Northern and North-Western provinces and Colombo, Gampaha, Anuradhapura and Trincomalee districts.
+
+In its advisory, the department cautioned that heat cramps and heat exhaustion; continued activity could result in heatstroke.
+
+Against this backdrop, showers or thundershowers are expected in parts of the Western, Sabaragamuwa, Southern, Central, North-western and Uva provinces tomorrow.
+
+Fairly heavy rainfall of about 75mm is possible in the Western, Central, Sabaragamuwa, and Uva provinces and Galle and Matara districts.
+
+The department advised the members of the public to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/2d4a075b.json)
+
+---
 
 ### Unable to feed family, Pakistani man kills wife and seven kids with axe
 
@@ -2257,29 +2279,5 @@ Since then, in the music of the music that came to this day, there was a new son
 [Data](articles/c7cff5a8.json)
 
 [Extended Data](ext_articles/c7cff5a8.ext.json)
-
----
-
-### Disciplinary action from the poin against GL
-
-*2024-04-12 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195572) · `si`
-
-The Sri Lanka Crown Front's Executive Council, led by Secretary-General Sagara Kariyawasam, has decided to take disciplinary action against MP GL Peiris, who signed a consensus agreement with Unity Power. The disciplinary committee has been authorized by the Sri Lanka General (SLC) and other parties.
-
-🟩
-
-The Sri Lanka Crown Front has decided to take disciplinary action against MPs MP GL Peiris.
-
-The party's Executive Council has taken the decision by the Secretary-General Sagara Kariyawasam.
-
-GL signs a consensus agreement with unity power. He said he had decided to take disciplinary action against MPs MP.
-
-Sagara Kariyawasam further stated that the disciplinary committee has authorized the disciplinary committee of the Sri Lanka General (SLC) with other parties.
-
-◼️
-
-[Data](articles/a06fdca1.json)
-
-[Extended Data](ext_articles/a06fdca1.ext.json)
 
 ---

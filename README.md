@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 08:18:21**
+As of **2024-04-13 08:33:36**
 
 ## Newspaper Stats
 
-*Scraped **18,647** Articles*
+*Scraped **18,650** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ dailyftlk | 1,018
 economynextcom | 1,041
 adalk | 1,559
 tamilmirrorlk | 2,177
-adaderanalk | 2,238
+adaderanalk | 2,239
 virakesarilk | 2,779
 dailymirrorlk | 2,857
-adaderanasinhalalk | 3,023
+adaderanasinhalalk | 3,025
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,647 (100.0%) of 18,647 articles have been extended.
+18,647 (100.0%) of 18,650 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### ඇවිලෙන ගින්දරට පිදුරු දමන ජෝ බයිඩන්
+
+*2024-04-13 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195582) · `si`
+
+ඉහළ පෙළේ අණ දෙන නිලධාරීන් ඝානතනය කළ ගුවන් ප්‍රහාරය සම්බන්ධයෙන් ඉරානය ඊශ්‍රායලයට පහර දෙනු ඇතැයි තමා අපේක්ෂා කරන බව එක්සත් ජනපද ජනාධිපති ජෝ බයිඩන් පවසයි.
+
+සිරියාවේ ඉරාන කොන්සල් කාර්යාලයට ප්‍රහාරයක් එල්ල කළ බව ඊශ්‍රායලය පිළිගෙන නොමැති වුවත් එම ප්‍රහාරය පිටුපස ඊශ්‍රායලය සිටින බවට ඉරානය පවසා ඇති බව විදෙස් වාර්තා සඳහන් කළේය.
+
+කෙසේ වෙතත් ඕනෑම ප්‍රහාරයකින් තමන් ආරක්ෂා වීමට සූදානම් බව ඊශ්‍රායලය පවසා ඇති අතර අමෙරිකානු ජනපති ජෝ බයිඩන් පවසා ඇත්තේ ඊශ්‍රායලයේ ආරක්ෂාව සඳහා කැපවී සිටින බවය.
+
+ඉරනයේ අනතුරු ඇඟවීම් හමුවේ ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහු සිය යුද කැබිනට් මණ්ඩලයේ සාමාජිකයන් හමුවී ඇති බවද වාර්තා වේ.
+
+◼️
+
+[Data](articles/e3bf352b.json)
+
+---
+
+### Derailment causes delays on Coastal Line
+
+*2024-04-13 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98603/derailment-causes-delays-on-coastal-line) · `en`
+
+A train has detailed at the Kalutara South railway station on Saturday (13), Ada Derana learns.
+
+Trains operating on the Coastal Line are thus experiencing delays, Sri Lanka Railways said.
+
+◼️
+
+[Data](articles/c3f1e6d2.json)
+
+---
+
+### අවුරුද්ද වෙනුවෙන් නිදහස ලැබූ පිරිස 779ක්
+
+*2024-04-13 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195581) · `si`
+
+සිංහල හා දෙමළ අලුත් අවුරුද්ද වෙනුවෙන් බන්ධනාගාර ගතව දඩුවම් ලබමින් සිටින රැඳවියන් 779 දෙනෙකු රාජ්‍ය සමාව යටතේ නිදහස ලබාගැනීමට නියමිතව තිබේ.
+
+විශේෂ රාජ්‍ය සමාවට සුදුසුකම් ලබන සිරකරුවන් 768 දෙනෙකු සහ සිරකාරියන් 11 දෙනෙකු මෙලෙස නිදහස ලබාගැනීමට නියමිතය.
+
+දිවයිනේ සෑම බන්ධනාගාරයකින්ම අද දිනයේ අදාළ සිරකරුවන් පිරිසට නිදහස ලබාදීමට නියමිත බව බන්ධනාගාර දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+මේ අතර මෙවර සිංහල හා දෙමළ අලුත් අවුරුද්ද නිමිත්තෙන් බන්ධනාගාර රැඳවියන් බැලීමේ අවස්ථාව අද දිනයේදී ද ඥාතීන්ට ලබාදෙන බව බන්ධනාගාර දෙපාර්තමේන්තුව පවසයි.
+
+එහිදි රැඳවියන්ගේ ඥාතීන් විසින් නිවසින් රැගෙන එන ආහාර, රසකැවිලි හා සනීපාරක්ෂක ද්‍රව්‍ය ලබාදීමට හැකි බව බන්ධනාගාර දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+පවතින නීතිරීති හා නියමිත සෞඛ්‍යාරක්ෂිත ක්‍රමවේදයන් යටතේ අදාළ ද්‍රව්‍ය රැඳවියන් වෙත ලබාදීමට නියමිතය.
+
+◼️
+
+[Data](articles/5a48128f.json)
+
+---
 
 ### Shooting of Hampegama
 
@@ -2245,77 +2299,5 @@ Among the guests were Russian Ambassador to Sri Lanka Levan Dzhagaryan, accompan
 [Data](articles/ad42ca58.json)
 
 [Extended Data](ext_articles/ad42ca58.ext.json)
-
----
-
-### CTB rises to Rs 25 million
-
-*2024-04-12 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195557) · `si`
-
-CTB's bus service revenue increased by Rs. 25 million for Sinhala and Tamil New Year, despite passenger complaints about bus shortages. The RDD development authority reported a 10% increase in highway income. Additional trains were added from April 15 to April 15, including daily services from April 10 to April 10.
-
-🟩
-
-The Ceylon Transport Board says that the bus service has increased by Rs. 25 million through the bus service operating for the Sinhala and Tamil New Year.
-
-The board began a special traffic service to run over 200 additional buses on the 5th to the people of the festive period.
-
-According to the Deputy General Manager of the Ceylon Transport Board (SLTB) stated that his daily income has increased by Rs. 25 million.
-
-However, passengers had accused them of severe difficulties due to lack of difficulties and lack of travel buses.
-
-The Deputy General Manager of the Ceylon Transport Board Panduka Swarnasty said he denies the allegations of insufficient buses.
-
-Meanwhile, the RDD development authority said that the income on highways has increased by 10 percent yesterday.
-
-A spokesman said that the proceeds of the highways can be predicted from a significant level of highways until the 15th.
-
-...
-
-[Data](articles/cf313e73.json)
-
-[Extended Data](ext_articles/cf313e73.ext.json)
-
----
-
-### Wife and casual husband arrested for husband's death
-
-*2024-04-12 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195556) · `si`
-
-A 63-year-old wife and her 63-year-old lover were arrested for the death of her husband, suspected to have occurred on the 10th, revealed by a post-mortem examination on the 11th.
-
-🟩
-
-The police suspect that the incident had been killed on the 10th of the incident that a house was killed.
-
-It was revealed that the death had occurred due to the cut into the post mortem examination conducted yesterday (11).
-
-Accordingly, a 63-year-old wife of the death and 63-year-old casual affair have been arrested.
-
-◼️
-
-[Data](articles/1d16e7b9.json)
-
-[Extended Data](ext_articles/1d16e7b9.ext.json)
-
----
-
-### Arrested in money laundering
-
-*2024-04-12 07:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/180993) · `ta`
-
-A man involved in money laundering in Hatton was arrested, along with workers who received stolen money. The suspect has been active in the area for a while.
-
-🟩
-
-ARMM to receive money in Hatton area. Payment workers who get money in machinery cheated and their ARMM. A man who received the cards has been arrested by the police.
-
-In addition, police said that the suspect is engaged in money laundering in Hatton area for a long time.
-
-◼️
-
-[Data](articles/08935fa1.json)
-
-[Extended Data](ext_articles/08935fa1.ext.json)
 
 ---

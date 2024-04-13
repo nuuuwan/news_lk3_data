@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 09:33:37**
+As of **2024-04-13 09:51:45**
 
 ## Newspaper Stats
 
-*Scraped **18,663** Articles*
+*Scraped **18,664** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,018
 economynextcom | 1,041
 adalk | 1,559
 tamilmirrorlk | 2,184
-adaderanalk | 2,241
+adaderanalk | 2,242
 virakesarilk | 2,779
 dailymirrorlk | 2,858
 adaderanasinhalalk | 3,027
@@ -26,45 +26,75 @@ adaderanasinhalalk | 3,027
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,659 (100.0%) of 18,663 articles have been extended.
+18,663 (100.0%) of 18,664 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### 200 பெண்கள், ஆண்களிடம்   பாலியல் தொல்லை பலே டாக்டர்
+### Kristalina Georgieva selected for second term as IMF’s Managing Director
+
+*2024-04-13 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98604/kristalina-georgieva-selected-for-second-term-as-imfs-managing-director-) · `en`
+
+The International Monetary Fund (IMF) has selected Kristalina Georgieva to serve as its Managing Director for a second five-year term starting on October 1, 2024.
+
+IMF’s Executive Board took the decision on Friday (12) by consensus.
+
+In a press release, the global lender said that in line with the selection process it had established on March 13, 2024, the Board has held several rounds of discussions, including with Georgieva, the sole candidate nominated for the position, before making its decision.
+
+Georgieva has served as IMF’s Managing Director since October 1, 2019. The Managing Director is the chief of the IMF’s operating staff and Chair of the Executive Board. The Managing Director is assisted by four Deputy Managing Directors in overseeing the Fund’s operations, which serve its membership through about 3,100 staff.
+
+...
+
+[Data](articles/c504e85b.json)
+
+---
+
+### 200 women and men sexually harassed doctor
 
 *2024-04-13 09:18:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/200-பெண்கள்-ஆண்களிடம்-பாலியல்-தொல்லை-பலே-டாக்டர்/50-335902) · `ta`
 
-வயது வித்தியாசமின்றி சிறுமிகள் முதல் 60 வயது பெண்கள் வரை, டாக்டர் டாட் தனது கைவரிசையை காட்டியிருப்பதாக குற்றம்சாட்டப்பட்டுள்ளது.
+Dr. Terrick Dot, a rheumatology specialist in Boston, has been accused of sexually harassing over 200 patients, including women and men, for years. He allegedly performed unnecessary tests and engaged in sexual misconduct, particularly with female patients. The case has shocked the medical community and led to his administrative leave and removal from the Charles River Medical Association.
 
-விலைமதிப்பற்ற உயிர்களை காப்பாற்றும் சேவையை செய்வதால் டாக்டர்களை கடவுள்களாக பார்க்கிறோம். அவர்கள் மீது முழு நம்பிக்கையும் வைப்பதால்தான் அவர்கள் பரிந்துரைக்கும் பரிசோதனை மற்றும் சிகிச்சை முறைகளை யோசிக்காமல் மேற்கொள்கிறோம். ஆனால் இந்த நம்பிக்கைக்கு துரோகம் செய்யும் வகையில் ஒருசில மருத்துவர்கள் நடந்துகொள்வதாக அவ்வப்போது புகார்கள் வருகின்றன. இதுபோன்ற சம்பவங்கள் மருத்துவ சமூகத்திற்கே அவப்பெயரை ஏற்படுத்துகின்றன.
+🟩
 
-அவ்வகையில் அமெரிக்காவைச் சேர்ந்த டாக்டர் ஒருவர் நோயாளிகளுக்கு சிகிச்சைகளை தாண்டி, பல ஆண்டுகளாக பாலியல் தொல்லை கொடுத்த சம்பவம் கடும் அதிர்ச்சியை ஏற்படுத்தி உள்ளது. அவருக்கு எதிராக 200-க்கும் மேற்பட்ட பெண்கள், பல்வேறு ஆண்கள் வழக்கு தொடர்ந்துள்ளனர்.
+Dr. Dod has been accused of showing her handcuffs, ranging from girls to 60 years of age without age.
 
-மாசாசூசெட் மாநிலம் பாஸ்டனைச் சேர்ந்தவர் டாக்டர் டெரிக் டாட். வாத நோய்கள் மற்றும் மூட்டு சம்பந்தப்பட்ட நோய்களுக்கு சிகிச்சை அளிக்கும் சிறப்பு டாக்டரான இவர், பிரிகாம் மற்றும் மகளிர் மருத்துவமனையில் பணியாற்றினார்.
+We see doctors as gods because they do the service to save precious lives. We do not think about the testing and therapeutic methods they recommend. But there are occasional complaints that a few doctors behave as a betrayal of this belief. Such incidents cause disgrace to the medical community.
+
+The incident has been a shocking incident for a doctor from the US, who has been sexually harassed for many years beyond treatment for patients.. More than 200 women and various men have sued him.
+
+Dr. Terrick Dot belongs to Massachusett State Boston. She is a specialist doctor who treats rheumatism and arthritis and worked at Brikam and Women's Hospital.
 
 ...
 
 [Data](articles/c70b2770.json)
 
+[Extended Data](ext_articles/c70b2770.ext.json)
+
 ---
 
-### කලක සිටි පැවති ආරවුල ජීවිතයක් අහිමි කරයි
+### Losing a life of time
 
 *2024-04-13 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195584) · `si`
 
-මොරටුව කටුබැද්ද ප්‍රදේශයේදී තියුනු ආයුධයකින් පහර දිමක් හේතුවෙන් පුද්ගලයෙකු මියගොස් තවත් දෙදෙනෙකු තුවාල ලබා තිබේ.
+In Katubedda, a 28-year-old was killed, and two others injured by a sharp weapon. The victim was identified, and the suspect arrested. Further investigations are ongoing.
 
-පොලීසිය පැවසුවේ කලක සිටි පැවති ආරවුලක් දුරදිග යාම හේතුවෙන් මෙම ඝාතනය සිදුව ඇති බවට මූලික විමර්ශන වලදි අනාවරණ වී ඇති බවය.
+🟩
 
-පහරදීමෙන් තුවාල ලැබූ පුද්ගලයින් තිදෙනා පානදුර රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව 28 හැවිරිදි පුද්ගලයෙකු මියගොස් ඇත.
+One person was killed and two others were injured as a result of a sharp weapon in Katubedda.
 
-ඝාතනය සම්බන්ධයෙන් සැකකරුවෙක් අත්අඩංගුවට ගෙන ඇති අතර මොරටුව පොලීසිය වැඩිදුර විමර්ශන ආරම්භ කර තිබේ.
+Police said that the victim was revealed in preliminary investigations into the incident.
+
+The three injured persons were rushed to the Panadura hospital and a 28 year old man was killed.
+
+The suspect has been arrested and the Moratuwa police have commenced further investigations.
 
 ◼️
 
 [Data](articles/ddb32a61.json)
+
+[Extended Data](ext_articles/ddb32a61.ext.json)
 
 ---
 
@@ -219,6 +249,8 @@ Trains operating on the Coastal Line are thus experiencing delays, Sri Lanka Rai
 ◼️
 
 [Data](articles/874f0547.json)
+
+[Extended Data](ext_articles/874f0547.ext.json)
 
 ---
 
@@ -422,25 +454,33 @@ Accordingly, the sun will be overcome to the Sunkuni, Murukandeki, Kiratamadu an
 
 ---
 
-### සිංහල  දෙමළ  අලුත් අවුරුදු චාරිත්‍ර වාරිත්‍ර හා මුසු වී ඇති බාහිර සංස්කෘතික අංග ගැන විමසා බැලීමක්
+### Inquiry into the external cultural elements that have been borne and mixed with Sinhala and Tamil New Year
 
 *2024-04-13 03:21:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gxv56pz7jo) · `si`
 
-සිංහල  දෙමළ  අලුත් අවුරුදු චාරිත්‍ර වාරිත්‍ර හා මුසු වී ඇති බාහිර සංස්කෘතික අංග ගැන විමසා බැලීමක්
+The Sinhala and Tamil New Year in Sri Lanka is a cultural blend, influenced by external elements. It's not unique, but a collective standard of living system. The New Year's customs include auspicious moments, influenced by Indian traditions, and involve foods like cocose, pickles, and cake from foreign cultures. Sports and fireworks also reflect foreign influences.
 
-ශ්‍රී ලංකාවේ ප්‍රධාන වශයෙන් සිංහල සහ දෙමළ ජනතාව එක්ව සමරන අලුත් අවුරුද්ද යනු සංස්කෘතියකි.
+🟩
 
-මහාචාර්ය විමල් දිසානායක පෙන්වා දී ඇති පරිදි, සංස්කෘතිය ප්‍රකට වන "සිරිත් විරිත්, ගති පැවතුම්, ආචාර විචාර" ආදිය අලුත් අවුරුදු සංස්කෘතියට ඇතුළත් වේ.
+Inquiry into the external cultural elements that have been borne and mixed with Sinhala and Tamil New Year
 
-කෙසේ වෙතත්, අලුත් අවුරුදු සංස්කෘතිය මෙරටට ආවේණික අංගවලින් සමන්විතව ගොඩ නැගුණු "ආවේණික, පාරිශුද්ධ සංස්කෘතියක් නොවන," බව ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ සිංහල අධ්‍යයන අංශයේ ජ්‍යෙෂ්ඨ මහාචාර්ය රත්නසිරි අරංගල බීබීසී සිංහල සේවයට පැවසීය.
+The New Year is a culture to celebrate Sinhala and Tamil people in Sri Lanka.
 
-"මේ උත්සවයේ වැඩිපුර තියෙන්නේ බාහිරින් එකතු වුණ අංග. ඒ නිසා මම මේ උත්සවය හඳුන්වන්නේ, සංස්කෘතික සම්මිශ්‍රණයක් කියලා," මහාචාර්ය රත්නසිරි අරංගල පෙන්වා දුන්නේ ය.
+According to Professor Wimal Dissanayake, the New Year culture includes the New Year culture.
 
-"සංස්කෘතිය යනු කිසියම් ස්ථානයක වෙසෙන ජන සමූහයකගේ සාමූහික ජීවන ක්‍රමය යි. ඔවුන්ගේ සිරිත් විරිත්, ගති පැවතුම්, ආචාර විචාර, සමාජ සංස්ථා, කලාව හා ආගම තුළින් සංස්කෘතිය ප්‍රකට වෙයි," යනුවෙන් මහාචාර්ය විමල් දිසානායක සංස්කෘතිය යන සංකල්පය නිර්වචනය කර තිබේ.
+However, the New Year's culture is not an unique, purity culture, "Senior Professor Ratnasiri Arangala, Senior Professor of Sinhala Studies, Sri Jayewardenepura," said Senior Professor Ratnasiri Arangala.
+
+"The external features of this event are more. So I call this festival, a cultural blend, "Professor Ratnasiri Aramala.
+
+"Culture is the collective standard of living system of a group of people living in a particular location. Their customs, traits, salutes, social corporations, arts, art, art, art, art, arts and religion are defined the concept of Professor Wimal Dissanayake Culture.
+
+Culture is a concept with a wide range of definitions.
 
 ...
 
 [Data](articles/b505b56d.json)
+
+[Extended Data](ext_articles/b505b56d.ext.json)
 
 ---
 
@@ -2223,31 +2263,5 @@ Meanwhile, a state dinner was organized under the patronage of the Japanese Prim
 [Data](articles/474a96ee.json)
 
 [Extended Data](ext_articles/474a96ee.ext.json)
-
----
-
-### Kachchativu, which is a reunion in India, is aimed at the election campaign
-
-*2024-04-12 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/181026) · `ta`
-
-Kachchativu, a reunion in India, is used in the election campaign by the BJP, with the BJP accusing the Congress of lingering over the issue. India seeks fishing rights in Kachchativu, but the Sri Lankan government has asked for a fisheries research center there.
-
-🟩
-
-Former Sri Lanka's Ambassador to India, Milindamoragoda's Batfire, has said that the Bharatiya Janata Party (BJP) has re -taken over the Kachchativu issue.
-
-While the confusion surrounding Kachchativu continues, the Kachchativu issue has been stirred for campaigning for the Sri Lankan intellectual organization Pathpainter election.
-
-Narendra Modi has accused the Congress party of lingering Kachchativu in 1974 as the Bharatiya Janata Party has been actively attempting to set foot in Tamil Nadu, which has been ruled by two Dravidian parties for a long time.
-
-India is trying to regain the right to fishing in Kachchativu by raising the issue from time to time, the Bapeynter Organization said.
-
-The Bathbinder Organization said that although Sri Lanka granted the right to fishing in the surrounding areas of Kachchativu as India wants, India does not know how India will prevent Indian fishermen from looting the natural resources of Sri Lanka.
-
-...
-
-[Data](articles/10baedb5.json)
-
-[Extended Data](ext_articles/10baedb5.ext.json)
 
 ---

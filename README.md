@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 15:03:22**
+As of **2024-04-13 15:18:07**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,690 (100.0%) of 18,692 articles have been extended.
+18,692 (100.0%) of 18,692 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### පුණ්‍ය කාලය උදා වෙයි
+### Charity is coming
 
 *2024-04-13 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195592) · `si`
 
-මෙවර සිංහල සහ දෙමළ අලුත් අවුරුද්දේ නැකැත් අනුව පුණ්‍ය කාලය අප්‍රේල් 13 එනම් අද පස්වරු 2.41 සිට අප්‍රේල් 14 වනදා අලුයම 3.29 දක්වා යෙදී තිබේ.
+Charity period from April 13 to 3.29 am, starting 2.41 am today, for religious observances.
 
-ඒ අනුව පුණ්‍ය කාලයේදී ආගමික වතාවත්වල යෙදීම යෝග්‍ය බව නැකැත් සීට්ටුවේ සඳහන් ය.
+🟩
+
+According to the Sinhala and Tamil New Year, the charity period is April 13 to 3.29 am from 2.41 am today.
+
+Accordingly, the auspicious seat is appropriate in the religious observances during charity.
 
 ◼️
 
 [Data](articles/56f9e504.json)
+
+[Extended Data](ext_articles/56f9e504.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ A number of customs and traditional beliefs are associated with Avurudu celebrat
 ...
 
 [Data](articles/d05e57c8.json)
+
+[Extended Data](ext_articles/d05e57c8.ext.json)
 
 ---
 

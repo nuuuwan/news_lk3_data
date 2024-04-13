@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 12:49:09**
+As of **2024-04-13 13:04:33**
 
 ## Newspaper Stats
 
-*Scraped **18,679** Articles*
+*Scraped **18,680** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 1,559
 tamilmirrorlk | 2,184
 adaderanalk | 2,245
 virakesarilk | 2,780
-dailymirrorlk | 2,864
+dailymirrorlk | 2,865
 adaderanasinhalalk | 3,030
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,677 (100.0%) of 18,679 articles have been extended.
+18,679 (100.0%) of 18,680 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### 15,000 security personnel deployed for Sinhala and Tamil New Year celebrations
+
+*2024-04-13 12:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/15-000-security-personnel-deployed-for-Sinhala-and-Tamil-New-Year-celebrations/108-280670) · `en`
+
+Colombo, April 13 (Daily Mirror) - Special security measures have been implemented for the Sinhala and Tamil New Year celebrations across the island, with around 4,500 events planned, including music shows and carnivals, Police said.
+
+Inspector General of Police Deshabandu Tennakoon has directed senior Deputy Inspectors General of Police and divisional officers to ensure public safety through enhanced police security.
+
+Police have instructed officers in charge to provide security at public gathering points during the festivities.
+
+Accordingly, approximately 14,000 police, nearly 500 Special Task Force and 400 military personnel have been deployed for security purposes.
+
+In addition, 15,806 Civil Defense Committee members will assist in organizing and coordinating these events.
+
+◼️
+
+[Data](articles/02ee8caf.json)
+
+---
 
 ### Heavy showers on the cards in multiple provinces
 
@@ -50,6 +70,8 @@ Moreover, with the apparent northward relative motion of the sun, it is set to b
 
 [Data](articles/3bde9c18.json)
 
+[Extended Data](ext_articles/3bde9c18.ext.json)
+
 ---
 
 ### Sri Lanka’s Rupee leads emerging markets in 1st quarter of 2024
@@ -63,6 +85,8 @@ With an impressive spot return exceeding 7%, the LKR has surpassed its counterpa
 ◼️
 
 [Data](articles/50e041e0.json)
+
+[Extended Data](ext_articles/50e041e0.ext.json)
 
 ---
 
@@ -2217,27 +2241,5 @@ But instead of the excavation license, he was referred to the request for excava
 [Data](articles/9295a066.json)
 
 [Extended Data](ext_articles/9295a066.ext.json)
-
----
-
-### Advisory issued for evening thundershowers and severe lightning
-
-*2024-04-12 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98591/advisory-issued-for-evening-thundershowers-and-severe-lightning) · `en`
-
-The Department of Meteorology, issuing a weather advisory, has said that thundershowers and severe lightning are expected in parts of the island through the remainder of the day.
-
-Accordingly, thundershowers accompanied by severe lightning are likely to occur at several places in Western, Southern, Sabaragamuwa, Northern and North-western provinces and Monaragala District.
-
-The department is also forecasting temporary localized strong winds during thundershowers.
-
-Members of the public are advised to take adequate precautions to minimize damages caused by lightning activity.
-
-The advisory states that the risk level is “High” in the aforementioned areas and urges the public to avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms.
-
-...
-
-[Data](articles/09fdc2d1.json)
-
-[Extended Data](ext_articles/09fdc2d1.ext.json)
 
 ---

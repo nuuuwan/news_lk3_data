@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 18:18:58**
+As of **2024-04-13 18:33:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,038
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,708 (100.0%) of 18,710 articles have been extended.
+18,710 (100.0%) of 18,710 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Hospital sources revealed that the family members suffered head and body injurie
 ◼️
 
 [Data](articles/dc221796.json)
+
+[Extended Data](ext_articles/dc221796.ext.json)
 
 ---
 
@@ -74,21 +76,29 @@ The department advised the members of the public to take adequate precautions to
 
 ---
 
-### தமிழ் பொது வேட்பாளர் விவகாரத்தை குழப்ப பலர் சதி
+### Many conspiracy to confuse the Tamil general candidate issue
 
 *2024-04-13 17:23:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-பொது-வேட்பாளர்-விவகாரத்தை-குழப்ப-பலர்-சதி/175-335905) · `ta`
 
-பொது வேட்பாளர் விவகாரத்தை குழப்ப பலர் சதியில் இறங்கியுள்ளதாக வடக்கு மாகாண சபை முன்னாள் உறுப்பினர் சபா குகதாஸ் குற்றஞ்சாட்டியுள்ளார்.
+Saba Kukadas accuses conspiracy to confuse Tamil general candidate support. Tamil National Alliance and other parties allegedly act as agents of indirect state and external forces, despite criticism of the general candidate. Parliamentarian Sumanthiran suspects Rajapaksa's involvement. Criticism and conspiracies persist, united by Sinhala chauvinism and Tamil party decisions.
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் தமிழ்ப் பொது வேட்பாளரை களம் இறக்குவது தொடர்பில் தாயக புலம்பெயர் தமிழர்களிடையே ஆதரவு பெருகி வரும் நிலையில் அதனை குழப்புவதற்கு பல தரப்பின் நிகழ்ச்சி நிரல்களில் தமிழ்த் தரப்பில் சிலர் சதி முயற்சியில் இறங்கியுள்ளனர்.
+🟩
 
-அரசுடன் இணைந்துள்ள தமிழ் முகவர்கள்  வழமை போன்று அரசுக்கு சார்பாக பொது வேட்பாளர் விவகாரத்தை விமர்சிப்பதை தாண்டி தமிழ்த் தேசியக் கட்சிகளில் இருப்பவர்களும் வேறு சிலரும் மறைமுக அரசின் மற்றும் வெளிச் சக்திகளின் முகவர்களாக மாறி எதிரான கருத்துக்களை ஊடகப் பரப்பில் முன் வைத்து வருகின்றனர்.
+Former Northern Provincial Council member Saba Kukadas has accused many of the conspiracy to confuse the common candidate.
 
-அண்மையில் பாராளுமன்ற உறுப்பினர் சுமந்திரன் அவர்களது கருத்து பொது வேட்பாளர் விடையத்தில் ராஜபக்சா்கள் பின்னணியில் இருப்பதாக சந்தேகம் வெளியிட்டார்.
+In the upcoming presidential election, some of the Tamils have conspired to confuse the support of the Tamil diaspora Tamils over the upcoming presidential election.
+
+The Tamil National Alliance and some others in the Tamil national parties and some others have become the agents of indirect state and external forces, despite the criticism of the general candidate on behalf of the state, as usual.
+
+Recently, Parliamentarian Sumanthiran expressed suspicion that the Rajapaksa was in the background of the common candidate.
+
+Some people like him have jumped into conspiracies, such as the names of the candidates without the permission of those who are relevant to the parties and civil organizations.
 
 ...
 
 [Data](articles/208667d4.json)
+
+[Extended Data](ext_articles/208667d4.ext.json)
 
 ---
 

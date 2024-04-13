@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 20:18:22**
+As of **2024-04-13 20:33:35**
 
 ## Newspaper Stats
 
-*Scraped **18,719** Articles*
+*Scraped **18,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,28 +19,76 @@ adalk | 1,560
 tamilmirrorlk | 2,186
 adaderanalk | 2,254
 virakesarilk | 2,782
-dailymirrorlk | 2,877
-adaderanasinhalalk | 3,041
+dailymirrorlk | 2,878
+adaderanasinhalalk | 3,042
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,718 (100.0%) of 18,719 articles have been extended.
+18,719 (100.0%) of 18,721 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### රට ලස්සන කරන පිරිසගේ අවුරුදු උත්සවය
+### RDA earns Rs. 126 million within three days from expressway users
+
+*2024-04-13 20:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/RDA-earns-Rs-126-million-within-three-days-from-expressway-users/108-280682) · `en`
+
+Colombo, April 13 (Daily Mirror) - The Road Development Authority (RDA) has generated Rs. 126 million in revenue from expressway users between April 10 and 12.
+
+During this period, 366,000 vehicles utilized the expressways, the RDA said.
+
+◼️
+
+[Data](articles/d4d44516.json)
+
+---
+
+### නව සොයාගැනීම් 3කින් ශ්‍රී ලාංකික නාමය ඉහළට ඔසවා තැබූ තිළිණ
+
+*2024-04-13 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195603) · `si`
+
+ඒ වසර ගණනාවක් පුරා සිදුකරන ලද පර්යේෂණ ඔස්සේ නව මී මැස්සන් විශේෂ 03ක් සොයාගනිමිනි.
+
+ලොව පුරා මී මැසි විශේෂයන් 20,000කට ආසන්න සංඛ්‍යාවක් ජීවත්වන අතර ඉන් මී පැණි සාදන්නේ සියයට 10ක් පමණි.
+
+තිළිණ හෙට්ටිආරච්චි සිය පර්යේෂණ ඔස්සේ හඳුනාගෙන ඇත්තේ, මී පැණි නොසාදන මල් පරාග මත යැපෙන මී මැස්සන් වර්ග තුනකි.
+
+මෙම සොයාගැනීම් සිදුකර ඇත්තේ, උතුරු අමෙරිකාවේ Lasioglossum (ලැසියෝග්ලොසම්) කුලයේ මී මැසි නිදර්ශක පරීක්ෂාවේදීය.
+
+මේ මී මැසි වර්ගයේ ශරීරයේ ලෝහමය වයනයක් දක්නට ලැබෙන නිසා එය Lasioglossum dilisena (ලැසියෝග්ලොසම් දිලිසෙන) යන නම තිළිණ විසින් යෝජනා කර තිබේ.
+
+ඊට තිළිණගේ මහාචාර්යවරයා වන ජේසන් ගිබ්ස් ද කැමැත්ත පළ කර ඇත්තේ ‘‘දිලිසෙන‘‘ යන නම උච්චාරණයට ඇති පහසුව හේතුවෙනි.
+
+මැනිබොටා විශ්වවිද්‍යාලයේ තිළිණගේ මේ පර්යේෂණය අධීක්ෂණය කරනු ලබන මහාචාර්ය ජේසන් ගිබ්ස් පවසන්නේ, මේ මී මැස්සන් වෙනත් භාෂාවකින් නාමකරණය කිරීම ද සිත්ගන්නා සුළු බවය.
+
+එමෙන්ම තමා සිදුකරන ලද පර්යේෂණ ඔස්සේ තම මවට උපහාර පිදීමට ද තිළිණ අමතක කර නැත.
+
+ඒ, තමා විසින් සොයාගන්නා ලද මී මැසි උප ගණයක් සිය මව වන පද්මිණි පතිරණ මහත්මියගේ නමින් නම් කරමිනි.
+
+◼️
+
+[Data](articles/db0a3210.json)
+
+---
+
+### The New Year Festival
 
 *2024-04-13 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195602) · `si`
 
-අවුරුද්ද පුරාම කොළඹ පිරිසිදුව තබාගන්නා සුන්දර මිනිසුන් පිරිසකට දෙරණ මාධ්‍ය ජාලය පසුගියදා උපහාර පුද කර තිබුණි.
+Derana Media Network honors Colombo's cleanliness advocates with a New Year Festival.
+
+🟩
+
+Derana Media Network has recently sacked the Derana Media Network to a group of beautiful people who keep Colombo clean throughout the year.
 
 ◼️
 
 [Data](articles/07d8a34c.json)
+
+[Extended Data](ext_articles/07d8a34c.ext.json)
 
 ---
 
@@ -2185,53 +2233,5 @@ Meanwhile, in some places in the Western, Central, Sabaragamuwa and Uva province
 [Data](articles/f875b0f1.json)
 
 [Extended Data](ext_articles/f875b0f1.ext.json)
-
----
-
-### Police offer Rs. 5,000 reward for arresting drunk drivers
-
-*2024-04-12 20:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-offer-Rs-5-000-reward-for-arresting-drunk-drivers/108-280658) · `en`
-
-Colombo, April 12 (Daily Mirror) - Police officers who arrest a drunk driver will receive a reward of Rs. 5,000, the police said today.
-
-Police Spokesman DIG Nihal Thalduwa said many vehicles have to be checked to arrest a drunk driver and the reward is given to motivate the officer on duty for that purpose.
-
-He said that special police teams have been deployed round the clock to arrest drivers who drive under the influence of alcohol and that special motorcycle teams have also been deployed.
-
-It was reported that at least 150,000 breathalyzer test kits have been provided to all police stations to detect intoxicated drivers.
-
-DIG Thalduwa said the law will be strictly enforced against drivers who drive at high speed, violate traffic rules and drive carelessly when the roads are congested.
-
-◼️
-
-[Data](articles/cb679c44.json)
-
-[Extended Data](ext_articles/cb679c44.ext.json)
-
----
-
-### More than 100 unmanned aircraft Cruise missiles can be used for Iran's attack against Israel - CBS
-
-*2024-04-12 20:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181037) · `ta`
-
-Iran reportedly has over 100 unmanned aircraft capable of launching cruise missiles, posing a significant threat to Israel. Israeli PM Netanyahu is discussing the situation with officials. Tensions are high due to Iran's potential retaliation for militant attacks. US officials warn of potential attacks on Israel at any time.
-
-🟩
-
-Israeli Prime Minister Benjamin Netanyaku will hold talks with key officials to investigate Iran's attack.
-
-Tensions are in the Middle East due to reports that Iran may at any time attack Israel in retaliation for the killing of Iran's militants in Israel's attack.
-
-US officials have told CBS News that an attack on Israel can occur at any time.
-
-US officials have informed CBS News that more than 100 unmanned aircraft Iran can use cruise missiles and inter -continental missiles.
-
-US officials have said Iran can target Israel's military structures, which is a very challenging issue for Israel to confront it.
-
-◼️
-
-[Data](articles/3c306deb.json)
-
-[Extended Data](ext_articles/3c306deb.ext.json)
 
 ---

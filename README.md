@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 10:52:05**
+As of **2024-04-13 11:03:12**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 3,028
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,666 (100.0%) of 18,670 articles have been extended.
+18,670 (100.0%) of 18,670 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### ජෝර්ජිඒවා ට කැමැත්ත හිමිවෙයි
+### Georgi approaches will receive will
 
 *2024-04-13 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195585) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ (IMF) කළමනාකාර අධ්‍යක්ෂිකාව ලෙස සේවය කිරීම සඳහා දෙවන වතාවටත් ක්‍රිස්ටලිනා ජෝර්ජිඒවා මහත්මියව තෝරාපත් කරගෙන තිබේ.
+Mrs. Christlia Georgiva, a Bulgarian national, has been re-elected as the IMF's Managing Director, succeeding her previous tenure from 2019. She's the first and only candidate for the position, highlighted for her leadership skills.
 
-විධායක මණ්ඩලයේ ඒකමතික තිරණය අනුව ඇය ව 2024 ඔක්තෝම්බර් 1 වනදා සිට දෙවන පස් අවුරුදු ධුර කාලය සඳහා ඊයේ (12) දිනයේ දී  මෙලෙස තෝරා පත්කර ඇත.
+🟩
 
-එම තනතුර සඳහා නම් කර සිටි එකම අපේක්ෂකයා ඇය වූ බවත් මෙම පත්වීම සිදු කිරීමට පෙර ඇයත් සමග සාකච්ඡා වට කිහිපයක්ම පැවත්වු බවත් ජාත්‍යන්තර මූල්‍ය අරමුදලේ නිල වෙබ් පිටුවේ සඳහන් වේ.
+Mrs. Christlia Georgiva has been selected for the second time to serve as the International Monetary Fund (IMF) as Manager Director.
 
-ඇයගේ ශක්තිමත් සහ කඩිසර නායකත්වය IMF විධායක මණ්ඩලයේ පැසසුමට ලක්ව තිබේ.
+According to the unanimous decision of the Executive Board, she was elected on October 1, 2024, yesterday (12).
 
-බල්ගේරියානු ජාතික ජෝර්ජීඒවා මහත්මිය 2019 වසරේ  ඔක්තෝබර් 1 දින සිට IMF හි කළමනාකාර අධ්‍යක්ෂවරිය ලෙස කටයුතු කරන්නීය.
+She was the only candidate named for the post and had several rounds of discussions with her before making this appointment.
 
-එමෙන්ම ඊට පෙර ඇය 2017 ජනවාරි සිට ලෝක බැංකුවේ ප්‍රධාන විධායක නිලධාරිනිය ලෙස ද කටයුතු කර තිබුණාය.
+Her strong and industrious leadership is praised by the IMF Executive Board.
+
+Mrs. Bulgarian National Georgawa is the Managing Director of the IMF from October 1, 2019.
+
+Prior to that, she was also the CEO of the World Bank since January 2017.
 
 ◼️
 
 [Data](articles/b0100956.json)
+
+[Extended Data](ext_articles/b0100956.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ Colombo, April 13 (Daily Mirror) - The Executive Board of the International Mone
 ...
 
 [Data](articles/8325b95f.json)
+
+[Extended Data](ext_articles/8325b95f.ext.json)
 
 ---
 
@@ -125,6 +133,8 @@ Police said that a 24-year-old and a 42-year-old were injured in the shooting an
 ◼️
 
 [Data](articles/75adb5fc.json)
+
+[Extended Data](ext_articles/75adb5fc.ext.json)
 
 ---
 
@@ -779,6 +789,8 @@ The friendly local guided Tim to the restaurant, where he was served an Ulundu V
 ...
 
 [Data](articles/8638b544.json)
+
+[Extended Data](ext_articles/8638b544.ext.json)
 
 ---
 

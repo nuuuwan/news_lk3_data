@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 07:49:44**
+As of **2024-04-13 08:03:19**
 
 ## Newspaper Stats
 
-*Scraped **18,646** Articles*
+*Scraped **18,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,55 @@ tamilmirrorlk | 2,177
 adaderanalk | 2,238
 virakesarilk | 2,779
 dailymirrorlk | 2,857
-adaderanasinhalalk | 3,022
+adaderanasinhalalk | 3,023
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,645 (100.0%) of 18,646 articles have been extended.
+18,646 (100.0%) of 18,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### අද අවුරුදු උදාව
+### හම්බේගමුවේ වෙඩි තැබීමක්
+
+*2024-04-13 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195580) · `si`
+
+හම්බේගමුව ප්‍රදේශයේ සිදුකළ වෙඩි තැබීමකින් පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා තිබේ.
+
+ඊයේ (12) රාත්‍රී හම්බේගමුව සීනුග්ගල ප්‍රදේශයේ නිවසක සිටි දෙදෙනෙකුට යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් මෙම වෙඩි තැබීම සිදුකර පළාගොස් ඇති බව පොලීසිය පැවසුවේය.
+
+එම නිවසේ හිමිකරු සහ ඔහුගේ ඥාතී සොහොයුරන් ඇතුළු පිරිසක් සාදයක් පවත්මින් සිටියදී මෙම වෙඩි තැබීම සිදුව ඇති අතර එහිදී 24 හැවිරිදි සහ 42 හැවිරිදි පුද්ගලයින් දෙදෙනෙකු වෙඩි වැදීමෙන් තුවාල ලබා තිබේ.
+
+◼️
+
+[Data](articles/c8010760.json)
+
+---
+
+### Though today's year
 
 *2024-04-13 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195579) · `si`
 
-සිංහල අවුරුදු නැකැත් පත්‍රයට අනුව අද (13) අපරභාග 09.05ට යෙදෙන සුබ මොහොතෙන් අලුත් අවුරුද්ද උදාවේ.
+Today's new year at Sinhala Avil. Charity from 03.29 am Sunday. Cuisine at 11.06 pm. Prepare for Sinhala years, work, transactions, and diet by 12.06 midnight.
 
-අපරභාග 02.41 සිට ඉරිදා (14) අලුයම 03.29 දක්වා පුණ්‍ය කාලය යෙදී ඇති බැවින් අපරභාග 02.41ට පෙර ආහාර පාන ගෙන සියලු වැඩ අතහැර ආගමික වතාවත්වල යෙදීම මැනවි බව නැකැත් පත්‍රයේ සඳහන් වේ.
+🟩
 
-ආහාර පිසීමේ නැකත අද රාත්‍රී 11.06ට යෙදී ඇති අතර නීල වර්ණ වස්ත්‍රාභරණයෙන් සැරසී දකුණු දිශාව බලා ලිප් බැද ගිනිමොලවා තල් උක් හකුරු මිශ්‍ර කිරිබතක් ද තල මිශ්‍ර කැවිලි වර්ගයක් ද පිළියෙළ කරගත යුතු බව සිංහල අවුරුදු නැකැත් පත්‍රයේ සඳහන් වේ.
+New year will be held today (13) at the Sinhala Avil.
 
-වැඩ ඇල්ලීම, ගනු දෙනු කිරීම හා ආහාර අනුභවය මධ්‍යම රාත්‍රී 12.06ට නීල වර්ණ වස්ත්‍රාභරණයෙන් සැරසී දකුණු දිශාව බලා සිදුකළ යුතු වේ.
+As the charity is scheduled to 03.29 am on Sunday (14) from 02.41 to 03.29 am on Sunday (14).
+
+The cuisine of cooking has been played at 11.06 pm today, the Sinhala years sheet should be prepared for the right direction.
+
+Working, transaction and diet should be dressed in the right direction at 12.06 midnight.
 
 ◼️
 
 [Data](articles/2492339f.json)
+
+[Extended Data](ext_articles/2492339f.ext.json)
 
 ---
 
@@ -2289,29 +2311,5 @@ In addition, police said that the suspect is engaged in money laundering in Hatt
 [Data](articles/08935fa1.json)
 
 [Extended Data](ext_articles/08935fa1.ext.json)
-
----
-
-### 100mm rainfall likely in Western Province and several other areas
-
-*2024-04-12 07:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98583/100mm-rainfall-likely-in-western-province-and-several-other-areas) · `en`
-
-Showers or thundershowers will occur at times in Eastern and Uva provinces and Hambantota District, the Department of Meteorology says.
-
-Meanwhile, showers or thundershowers can be expected in most places elsewhere over the island after 1.00 p.m.
-
-Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Misty conditions can be expected at some places in Western, Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
-
-Members of the public are advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-On the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka from 05 to 15 April this year. The nearest areas of Sri Lanka over which the sun is overhead today are Vanchiyankulam, Omanthai, Eramadu and Thiriyai at around noon.
-
-...
-
-[Data](articles/8884d89d.json)
-
-[Extended Data](ext_articles/8884d89d.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 17:18:23**
+As of **2024-04-13 17:34:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,038
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,705 (100.0%) of 18,707 articles have been extended.
+18,707 (100.0%) of 18,707 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Punjab Chief Minister Maryam Nawaz has expressed her grief over the killing of i
 ◼️
 
 [Data](articles/1770faa5.json)
+
+[Extended Data](ext_articles/1770faa5.ext.json)
 
 ---
 
@@ -75,6 +77,8 @@ The officer was also seen in videos on social media administering CPR to those w
 ...
 
 [Data](articles/8be8618f.json)
+
+[Extended Data](ext_articles/8be8618f.ext.json)
 
 ---
 

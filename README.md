@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 22:18:08**
+As of **2024-04-13 22:33:42**
 
 ## Newspaper Stats
 
-*Scraped **18,725** Articles*
+*Scraped **18,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 1,560
 tamilmirrorlk | 2,186
 adaderanalk | 2,255
 virakesarilk | 2,782
-dailymirrorlk | 2,879
+dailymirrorlk | 2,881
 adaderanasinhalalk | 3,044
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,725 (100.0%) of 18,725 articles have been extended.
+18,725 (100.0%) of 18,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### Environmentalists urge public to protect pets from fireworks
+
+*2024-04-13 21:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Environmentalists-urge-public-to-protect-pets-from-fireworks/108-280683) · `en`
+
+Colombo, April 13 (Daily Mirror) -As the Sinhala and Tamil festive season approaches, environmentalists in Sri Lanka have sounded the alarm on the detrimental impact of fireworks on pets and wildlife.
+
+According to Environmentalist Nayanaka Ranwella, research indicates that fireworks not only disturb the peace of humans but also have profound effects on wildlife, particularly birds and small mammals, including dogs and cats.
+
+The loud explosions can cause birds to abandon their nests in fear, disrupting their habitats.
+
+According to studies, animals have a far more acute sense of hearing than humans, making them particularly sensitive to the deafening blasts of fireworks.
+
+With explosions reaching up to 190 decibels—far surpassing the threshold for human hearing damage at 75 decibels—the sound can induce anxiety, confusion and panic in animals.
+
+Furthermore, researches suggest that up to 50 percent of dogs experience fear or anxiety during fireworks displays.
+
+...
+
+[Data](articles/06d7c3a2.json)
+
+---
 
 ### Japan’s population falls below 125 million, down for 13th straight year
 
@@ -49,6 +71,16 @@ The number of people from zero to 14 years old fell 329,000 to about 14.17 milli
 [Data](articles/715eddb2.json)
 
 [Extended Data](ext_articles/715eddb2.ext.json)
+
+---
+
+### Happy New Year!
+
+*2024-04-13 21:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Happy-New-Year/110-280659) · `en`
+
+◼️
+
+[Data](articles/c1634857.json)
 
 ---
 
@@ -2189,49 +2221,5 @@ The CCTV camera was reported that a carton and a motorcycle collided in Kahathud
 [Data](articles/f0ae3db6.json)
 
 [Extended Data](ext_articles/f0ae3db6.ext.json)
-
----
-
-### Elections could dent Sri Lanka’s recovery: ADB
-
-*2024-04-12 22:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Elections-could-dent-Sri-Lankas-recovery-ADB/108-280661) · `en`
-
-Colombo, April 12 - Sri Lanka's recovery could be stalled by abrupt policy changes after elections later this year even as the economy showed signs of stabilising, the Asian Development Bank warned Friday.
-
-The island nation weathered an unprecedented financial crisis in 2022 that forced a foreign debt default as well as food and fuel shortages that prompted months of unrest.
-
-It secured a $2.9 billion rescue loan from the International Monetary Fund last year, with President Ranil Wickremesinghe hiking taxes and cutting generous subsidies to restore the government's ruined finances.
-
-But the ADB said presidential polls due by October could weaken the commitment to austerity measures.
-
-"Risks to the outlook tend to the downside," the bank said in its latest forecast on Sri Lanka's economy.
-
-Among them, the most important is uncertainty associated with the upcoming elections, including any possible impact on fiscal policy and reform implementation."
-
-...
-
-[Data](articles/cb29c069.json)
-
-[Extended Data](ext_articles/cb29c069.ext.json)
-
----
-
-### Uncertainty over elections could risk Sri Lanka’s economic recovery: ADB
-
-*2024-04-12 22:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98599/uncertainty-over-elections-could-risk-sri-lankas-economic-recovery-adb) · `en`
-
-The “uncertainty” over the impending elections in Sri Lanka will cause a possible downward trend in the country’s economic outlook, the Asian Development Bank (ADB) has said.
-
-The island nation is set to face a presidential election in the last quarter of this year, while the parliamentary election is due mid-next year.
-
-However, political uncertainty prevails in the country as opposition parties have pledged to reverse the current IMF-linked reforms, which have proved to be unpopular with the masses.
-
-President Ranil Wickremesinghe, who has steered the recovery programme by going into a bailout deal with the International Monetary Fund (IMF) for a USD 2.9 billion facility, maintains that the island could once again face economic collapse if the IMF programme reforms are not adhered to.
-
-...
-
-[Data](articles/b302e3e8.json)
-
-[Extended Data](ext_articles/b302e3e8.ext.json)
 
 ---

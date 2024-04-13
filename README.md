@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 16:48:16**
+As of **2024-04-13 17:03:16**
 
 ## Newspaper Stats
 
-*Scraped **18,704** Articles*
+*Scraped **18,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 2,185
 adaderanalk | 2,250
 virakesarilk | 2,782
 dailymirrorlk | 2,871
-adaderanasinhalalk | 3,037
+adaderanasinhalalk | 3,038
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,701 (100.0%) of 18,704 articles have been extended.
+18,704 (100.0%) of 18,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### මැදවච්චියේ සිද්ධිය පොලිස්පති පැහැදිලි කරයි
+
+*2024-04-13 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195597) · `si`
+
+මැදවච්චිය පොලීසියේ නිලධාරීන් පිරිසක් සිදුකළ පහරදීමක් නිසා තරුණයෙකුගේ වෘෂණ කෝෂයක් සැත්කමකින් ඉවත් කිරීමට සිදුවූ බව කියන සිද්ධිය සම්බන්ධයෙන් පොලිස්පතිවරයා අදහස් පළ කළේය.
+
+පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා මෙම අදහස් පළ කළේ හොරණ, ඔළබොඩුව රජ මහා විහාරස්ථානයේ පැවති උත්සවයකින් අනතුරුව ය.
+
+"අධිකරණයට ඔවුන්ව ඉදිරිපත් කර රක්ෂිත බන්ධනාගාරගත කර තිබෙනවා. පොලිස් නිලධාරීන් රාජකාරී කිරීමේදී වුණත් සීමාව ඉක්මවා බලය පාවිච්චි කළොත් ඒ අයට පුද්ගලිකව ඒ සම්බන්ධයෙන් වගඋත්තර බඳින්න වෙනවා."
+
+"ඒ චෝදනාව එල්ල කරන අයත් නීතිවිරෝධී මත්පැන් සහ මත්ද්‍රව්‍ය පිළිබඳවත්, වෙනත් නීතිවිරෝධී කටයුතු සම්බන්ධවත් පෙර වැරදි ගණනාවක් තියෙන පවුලක අය."
+
+◼️
+
+[Data](articles/064787f9.json)
+
+---
 
 ### Five killed in Sydney mass stabbing; attacker shot dead by police
 
@@ -148,6 +166,8 @@ Rice imports were green-lighted in February when the country was on the verge of
 
 [Data](articles/f62bb87f.json)
 
+[Extended Data](ext_articles/f62bb87f.ext.json)
+
 ---
 
 ### Sri Lankans in Israel asked to exercise caution
@@ -163,6 +183,8 @@ They have also been requested to keep sufficient food stuffs. Sri Lankans work i
 ◼️
 
 [Data](articles/d205888c.json)
+
+[Extended Data](ext_articles/d205888c.ext.json)
 
 ---
 
@@ -267,6 +289,8 @@ During the Nonagathaya, people used to engage in religious activities such as vi
 ◼️
 
 [Data](articles/48786c64.json)
+
+[Extended Data](ext_articles/48786c64.ext.json)
 
 ---
 
@@ -2243,23 +2267,5 @@ Navy spokesman Gayan Wickramasuriya said that 10 Sri Lankan fishermen found in b
 [Data](articles/33851e09.json)
 
 [Extended Data](ext_articles/33851e09.ext.json)
-
----
-
-### 10 suspects arrested with 200 kgs of heroin in SL waters
-
-*2024-04-12 17:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/10-suspects-arrested-with-200-kgs-of-heroin-in-SL-waters/108-280654) · `en`
-
-Colombo,  April 12 (Daily Mirror) - Two Sri Lankan multi-day fishing vessels carrying a stock of 200 kgs of drugs suspected to be heroin and ice were seized by the Navy on the deep sea.
-
-In a special operation carried out by the Sri Lanka Navy in the Southern seas, 10 suspects have been arrested along with 02 multi-day fishing boats carrying the stock of drugs.
-
-The Navy said the suspects and their stock of narcotics are being brought to the port.
-
-◼️
-
-[Data](articles/38cd642d.json)
-
-[Extended Data](ext_articles/38cd642d.ext.json)
 
 ---

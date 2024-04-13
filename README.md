@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 21:18:20**
+As of **2024-04-13 21:33:59**
 
 ## Newspaper Stats
 
-*Scraped **18,723** Articles*
+*Scraped **18,725** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,58 +17,100 @@ dailyftlk | 1,018
 economynextcom | 1,045
 adalk | 1,560
 tamilmirrorlk | 2,186
-adaderanalk | 2,254
+adaderanalk | 2,255
 virakesarilk | 2,782
-dailymirrorlk | 2,878
+dailymirrorlk | 2,879
 adaderanasinhalalk | 3,044
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,721 (100.0%) of 18,723 articles have been extended.
+18,723 (100.0%) of 18,725 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### ඔබ සැමට සුබ අලුත් අවුරුද්දක් වේවා !
+### Japan’s population falls below 125 million, down for 13th straight year
+
+*2024-04-13 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98616/japans-population-falls-below-125-million-down-for-13th-straight-year) · `en`
+
+Japan’s population fell 595,000 from a year earlier to total 124,352,000 as of Oct. 1 for the 13th consecutive year of decline, according to government data released Friday, as the Asian nation continues to grapple with a declining birthrate and a rapidly graying society.
+
+The population of Japanese nationals fell 837,000 to 121,193,000, marking the largest drop since comparable data became available in 1950, according to a demographic survey by the Ministry of Internal Affairs and Communications.
+
+Those 75 or above rose 713,000 to about 20.08 million, eclipsing the 20 million mark for the first time.
+
+The number of people from zero to 14 years old fell 329,000 to about 14.17 million, accounting for 11.4% of the total population, the lowest ever. Those between 15 and 64 dropped 256,000 to about 73.95 million, 59.5% of the total population.
+
+...
+
+[Data](articles/715eddb2.json)
+
+---
+
+### Happy New Year to you all!
 
 *2024-04-13 21:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195605) · `si`
 
-2024 සිංහල හා දෙමළ අලුත් අවුරුද්ද අද (13) රාත්‍රී 09.05ට යෙදී තිබූ සුබ මොහොතින් උදාවිය.
+"Happy New Year! 2024 Sinhala & Tamil New Year ended at 9.05 pm today. Celebrated with blue garments, sugarcane, and sesame. Work and feasting concluded at 12.06 am."
 
-නිල් පැහැති වස්ත්‍රාභරණයෙන් සැරසී දකුණු දිශාව බලා ලිප් බැඳ ගිනි මොළවා තල, උක් හකුරු මිශ්‍ර කිරිබතක් සහ තල මිශ්‍ර කැවිලි වර්ගයක් පිළියෙළ කරගැනීම යහපත් බව නැකැත් සීට්ටුවේ සඳහන් වෙයි.
+🟩
 
-මෙවර වැඩ ඇල්ලීම ගනුදෙනු කිරීම හා ආහාර අනුභවය යෙදී ඇත්තේ අද මධ්‍යම රාත්‍රී 12.06ටය.
+2024 The Sinhala and Tamil New Year was up to 9.05 pm today (13).
+
+The auspicious view of the blue garment, wearing a blue wire and prepare a mix of flame, sugarcane, and selling sesame mixed coast.
+
+The work of dealing and eating this year's work is 12.06 midnight today.
 
 ◼️
 
 [Data](articles/6e3862d4.json)
 
+[Extended Data](ext_articles/6e3862d4.ext.json)
+
 ---
 
-### දෙරණ ඩයලොග් මාගම්පුර සූර්ය මංගල්‍යය හෙට දවස පුරා
+### Dawn of the New Year
+
+*2024-04-13 21:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dawn-of-the-New-Year/108-280578) · `en`
+
+As the new year begins, Sri Lankans kick off with a cherished tradition: lighting the hearth to make milk rice, a staple dish symbolizing prosperity for the festive feast.
+
+◼️
+
+[Data](articles/fc82154c.json)
+
+---
+
+### Derana Dialog Magampura Solar Festival throughout the day
 
 *2024-04-13 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195604) · `si`
 
-'දෙරණ ඩයලොග් මාගම්පුර සූර්ය මංගල්‍යය'' හෙට දවස පුරා තිස්සමහාරාම වීරවිල ජාතික පශු සම්පත් සංවර්ධන මණ්ඩල පරිශ්‍රයේදී පැවැත්වෙයි.
+"Derana Dialog Magampura Solar Festival in Tissamaharama tomorrow, featuring bakmana festival, bicycle and marathon competitions, and concerts. Organized by Ministry of Agriculture, District Secretariat, and Tissamaharama Divisional Secretariats."
 
-ජන ක්‍රීඩා රැසකින් සහ රාත්‍රියේ සංගීත ප්‍රසංගයකින් හැඩවෙන මෙම බක්මහ උළෙලේ අසිරිය හෙට පෙරවරු 9.30 සිට ටී.වී. දෙරණින් ඔබටත් සජීවීව අත්විඳිය හැකිය.
+🟩
 
-ඊට සංවිධාන ශක්තිය සපයන්නේ කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය, හම්බන්තොට දිස්ත්‍රික් ලේකම් කාර්යාලය, කතරගම, ලුණුගම්වෙහෙර, තිස්සමහාරාම ප්‍රාදේශීය ලේකම් කාර්යාල සහ තිස්සමහාරාම ප්‍රාදේශීය සභාවය.
+'Derana Dialog Magampura Solar Festival' is held tomorrow at the National Livestock Development Board in Tissamaharama tomorrow.
 
-එහි සමාරම්භක තරග ලෙස පිරිමි සහ කාන්තා බයිසිකල් ධාවන සහ මැරතන් තරග පැවැත්වීමට නියමිතව තිබේ.
+The beauty of a large number of gangs and a concert at night, the beauty of the bakmana festival at 9.30 am. Dearan can experience you too.
 
-විවෘත ඉසව් වන එම තරග සඳහා සහභාගී වන තරගකරුවන් හෙට උදෑසන 6 වනවිට වීරවිල ජාතික පශු සම්පත් සංවර්ධන මණ්ඩල පරිශ්‍රය වෙත පැමිණ ඊට  ලියාපදිංචි විය යුතුය.
+It empowers the Ministry of Agriculture and Plantation Industries, Ministry of Agriculture and Plantation Industries, District Secretariat, Kataragama, Lunugamvehera, Tissamaharama Divisional Secretariats and Tissamaharama Divisional Secretariat.
 
-ජන ක්‍රීඩා රැසකින් වර්ණවත්ව හෙට දවස පුරා පැවැත්වෙන ''දෙරණ ඩයලොග් මාගම්පුර සූර්ය මංගල්‍යයයේ ජයග්‍රාහකයින්ට වටිනා ත්‍යාගද පිරිනැමීමට නියමිතව ඇත.
+Male and women's bicycles and marathon are to be held as inauguration competitions.
 
-'' මාගම්පුර අවුරුදු කුමරිය අභිෂේක'' ගැන්වීම හෙට පස්වරුවේ සිදුකිරීමට නියමිතය.
+The participating competitors will visit the Weerawila Resources Development Board by 6am tomorrow at 6:30 am tomorrow.
+
+The winners of the Magampura Solar Solar Front of Derana will be awarded to a number of mass games.
+
+"The Magampura-year-old princess is scheduled to be held tomorrow afternoon.
 
 ...
 
 [Data](articles/764ecb15.json)
+
+[Extended Data](ext_articles/764ecb15.ext.json)
 
 ---
 
@@ -2187,57 +2229,5 @@ President Ranil Wickremesinghe, who has steered the recovery programme by going 
 [Data](articles/b302e3e8.json)
 
 [Extended Data](ext_articles/b302e3e8.ext.json)
-
----
-
-### Germany eases gender change rules
-
-*2024-04-12 21:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Germany-eases-gender-change-rules/108-280660) · `en`
-
-Germany, April 12 (BBC) - The German parliament has passed a law making it easier for citizens and residents to legally change gender.
-
-It's also introducing hefty fines - in specific circumstances - for disclosing someone's prior registered name or gender without consent.
-
-Previously, changing your registered gender required a doctor's certificate and the approval of a family court.
-
-Now over-18s can change to male, female or diverse, a third gender option that already exists under German law.
-
-Three months on from a request for such a change, applicants will then have to appear at a registry office in person.
-
-You can also request that no details regarding your gender are registered at all.
-
-The intentional and harmful disclosure of someone's prior name or legal gender could attract a fine of up to €10,000.
-
-However, there are exceptions - for example if it's a legal requirement due to court proceedings or police investigations.
-
-...
-
-[Data](articles/bb092f19.json)
-
-[Extended Data](ext_articles/bb092f19.ext.json)
-
----
-
-### Heavy showers expected in parts of the country
-
-*2024-04-12 21:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98598/heavy-showers-expected-in-parts-of-the-country) · `en`
-
-Heavy showers about 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts in the next 36 hours, according to the Meteorology Department.
-
-Several spells of showers will occur in Northern and Eastern provinces, it said.
-
-Showers or thundershowers will occur at a few places in North-central and Uva provinces and at several places elsewhere of the island after 2.00 p.m.
-
-Misty conditions can be expected at some places in Western, Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-On the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka during 05th to 15th of April in this year.
-
-◼️
-
-[Data](articles/9363ffec.json)
-
-[Extended Data](ext_articles/9363ffec.ext.json)
 
 ---

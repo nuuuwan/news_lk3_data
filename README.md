@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 10:03:36**
+As of **2024-04-13 10:18:19**
 
 ## Newspaper Stats
 
-*Scraped **18,664** Articles*
+*Scraped **18,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
-economynextcom | 1,041
+economynextcom | 1,043
 adalk | 1,559
 tamilmirrorlk | 2,184
 adaderanalk | 2,242
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,027
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,664 (100.0%) of 18,664 articles have been extended.
+18,664 (100.0%) of 18,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### Sri Lanka’s monthly fuel sales growing; Diesel at 7-month high in March, Petrol at 3-month high
+
+*2024-04-13 10:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-monthly-fuel-sales-growing-diesel-at-7-month-high-in-march-petrol-at-3-month-high-158417/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s monthly fuel sales from retail distributors have been on the rise, the official data from Power and Energy Minister showed.
+
+The total fuel sales through state run Ceypetco, India’s LIOC, and China’s Sinopec are on the rise and have peaked monthly higher in March, signaling a possible recovery of the battered economy that saw an unprecedented economic crisis and contractions.
+
+“Fuel supply and demand has normalized since the Covid Pandemic and the Economic crisis,” Minister Kanchana Wijesekera said in his X (formerly Twitter) platform.
+
+The monthly sales of auto diesel recorded 137, 927 Metric Tonnes (MT) in March, its highest since August 2023 when it recorded 147,586 MT, the data released by the Minister showed.
+
+The monthly sales of widely used Octane 92 recorded 112, 545 Metric Tonnes (MT) in March, its highest since December 2023 when it recorded 113,078 MT.
+
+...
+
+[Data](articles/1e5ba429.json)
+
+---
 
 ### Kristalina Georgieva selected for second term as IMF’s Managing Director
 
@@ -425,6 +445,22 @@ Furthermore, it aids in evaluating patients requiring surgery for conditions lik
 [Data](articles/4d9e694b.json)
 
 [Extended Data](ext_articles/4d9e694b.ext.json)
+
+---
+
+### Sri Lanka making national tariff policy for export orientation
+
+*2024-04-13 06:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-making-national-tariff-policy-for-export-orientation-158425/) · `en`
+
+ECONOMYNEXT – Sri Lanka is developing a national tariff policy which will be approved by the cabinet as part of creating an export-oriented economy, Treasury Secretary Mahinda Siriwardana has said.
+
+Sri Lanka has high import duties, and so-called para-tariffs such as the port and airport levey, and ‘export development’ CESS which has pushed up cost of imported raw materials, making it impossible for any firm other than those in Board of Investment zones, which can import inputs tax free, to be export competitive.
+
+“The tax structure to support exports and investment is also being facilitated, particularly with the phasing out of para-tariffs such as PAL and Cess which have in the past added to cost of raw materials and intermediate inputs which undermined Sri Lanka’s competitiveness,” Siriwardana was quoted as saying at presentation at the Finance Ministry on April 08.
+
+...
+
+[Data](articles/90beed3b.json)
 
 ---
 
@@ -2209,61 +2245,5 @@ He said Australia is concerned about the signs that Iran will launch an attack a
 [Data](articles/e5b04fc4.json)
 
 [Extended Data](ext_articles/e5b04fc4.ext.json)
-
----
-
-### Sri Lanka, Kazakhstan seek to boost bilateral cooperation in many sectors
-
-*2024-04-12 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98587/sri-lanka-kazakhstan-seek-to-boost-bilateral-cooperation-in-many-sectors) · `en`
-
-Sri Lanka and Kazakhstan have successfully concluded the second round of Foreign Office Consultations in Astana on Thursday (11).
-
-The Sri Lanka delegation was led by Foreign Secretary Aruni Wijewardane while the Kazakh delegation was led by Deputy Minister of Foreign Affairs of Kazakhstan Alibek Bakayev.
-
-On high-level bilateral visits, the Kazakhstan delegation invited President Ranil Wickremesinghe to undertake an official visit to Kazakhstan. A visit by Foreign Minister Ali Sabry to participate in the Astana International Forum in June 2024 was also confirmed.
-
-With respect to bilateral cooperation, trade, tourism, energy, transport and logistics were prioritized. It was acknowledged that the resumption of direct charter flights by Air Astana to Sri Lanka has contributed to increasing tourist arrivals from Kazakhstan to Sri Lanka and the two sides will explore a reciprocal visa-free arrangement for normal passport holders.
-
-...
-
-[Data](articles/2db1bdc7.json)
-
-[Extended Data](ext_articles/2db1bdc7.ext.json)
-
----
-
-### Meeting by Beidon and cherry plants that gave Fumio
-
-*2024-04-12 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195561) · `si`
-
-Japanese PM Fumio Killida visited the US, focusing on discussions with President Biden. Cherry plants were presented to the US, with plans to remove existing ones and plant 250 new ones by 2026. The tradition dates back to 1929, with 1000 plants planted in 1976. A state dinner was held, with American Vice President Mahinda Rajapaksa in attendance.
-
-🟩
-
-During the American Prime Minister Prime Minister Prime Minister Prime Minister Prime Minister Prime Minister, the Cherry planting, or Sakura plants were presented to the United States.
-
-Japanese Prime Minister Fumio Killida recently visited the United States.
-
-The world focused on the discussions between the Japanese Prime Minister and the US President Joe Biden.
-
-Meanwhile, Japanese Prime Minister Fumio Khika is the cherry plants to the United States, or foreign media reports.
-
-It is planned to remove the cherry plants planted in Washington.
-
-As a result, new plants were awarded.
-
-Japan's plan is to provide 250 cherry plants by 2026.
-
-According to history, cherry was planted in Ceyruntle in Washington by a Japanese diplomats in 1929.
-
-In 1976, the United States of America had been able to generate a thousand cherry sewers to mark the friendship between Japan and America again in 1976.
-
-Meanwhile, a state dinner was organized under the patronage of the Japanese Prime Minister.
-
-...
-
-[Data](articles/474a96ee.json)
-
-[Extended Data](ext_articles/474a96ee.ext.json)
 
 ---

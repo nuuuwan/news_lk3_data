@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 15:50:41**
+As of **2024-04-13 16:03:32**
 
 ## Newspaper Stats
 
-*Scraped **18,694** Articles*
+*Scraped **18,697** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,39 @@ economynextcom | 1,045
 adalk | 1,560
 tamilmirrorlk | 2,185
 adaderanalk | 2,247
-virakesarilk | 2,781
-dailymirrorlk | 2,867
+virakesarilk | 2,782
+dailymirrorlk | 2,869
 adaderanasinhalalk | 3,035
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,694 (100.0%) of 18,694 articles have been extended.
+18,694 (100.0%) of 18,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### தாயையும் குழந்தையையும் வாள்போன்ற ஆயுதத்தினால் தாக்கிய நபர் -  துப்பாக்கி பிரயோகத்தினை மேற்கொண்டு பயங்கரமான சூழ்நிலையை முடிவிற்கு கொண்டுவந்த பெண் பொலிஸ் உத்தியோகத்தர்-சிட்னி வணிக வளாக தாக்குதலை எதிர்கொண்டவர்கள் தகவல்
+
+*2024-04-13 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181051) · `ta`
+
+சிட்னியின் வணிகவளாகத்தில் இடம்பெற்ற கத்திக்குத்து தாக்குதலில் சிக்கி பலியானவர்களின் எண்ணிக்கை ஆறாக  அதிகரித்துள்ள அதேவேளை வளாகத்திலிருந்து தப்பிவெளியேறியவர்கள் தாங்கள் எதிர்கொண்ட ஆபத்து குறித்து பல தகவல்களை வெளியிட்டுள்ளனர்.
+
+கத்திக்குத்திற்கு இலக்கான பெண் ஒருவர் தரையில் வீழ்ந்து கிடப்பதை பார்த்தாக தெரிவித்துள்ள பெண் அங்கு ஓரு பைத்தியக்காரத்தனமான சூழ்நிலை காணப்பட்டது என தெரிவித்துள்ளார்.
+
+அவுஸ்திரேலிய நேரப்படி மாலை மூன்றுமணியளவில் வெஸ்ட்பீல்ட் வணிக வளாகத்தில் கத்திக்குத்து தாக்குதல் இடம்பெற்றது – அங்கு காணப்பட்ட மக்கள் உடனடியாக தப்பியோட தொடங்கினார்கள்.
+
+உணவுவிடுதியொன்றில் தனது இரண்டு பிள்ளைகளுடன் நின்றிருந்த ஒருவர், நபர் ஒருவர் கண்மூடித்தனமாக கத்திக்குத்து தாக்குதலில் ஈடுபடுவதை பார்த்தேன் என தெரிவித்துள்ளார்.
+
+மூன்று பத்திற்கு வணிகவளாகத்திற்குள் நுழைந்த நபர் அங்கிருந்து வெளியேறிய பின்னர் சில நிமிடங்களில் திரும்பிவந்து தாக்குதலில் ஈடுபட்டார் என காவல்துறையினர் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/cc0c4dd9.json)
+
+---
 
 ### Special security
 
@@ -73,6 +93,20 @@ Meanwhile, a report issued by an investigation issued by a investigation by 2050
 [Data](articles/75726024.json)
 
 [Extended Data](ext_articles/75726024.ext.json)
+
+---
+
+### Inauspicious time starts
+
+*2024-04-13 14:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Inauspicious-time-starts/108-280673) · `en`
+
+The inauspicious time, known as the Nonagathaya, begins today at 2:41 p.m. and lasts until 3:29 a.m. tomorrow, April 14th.
+
+During the Nonagathaya, people used to engage in religious activities such as visiting temples and offering alms to the poor.
+
+◼️
+
+[Data](articles/23a1d079.json)
 
 ---
 
@@ -353,6 +387,20 @@ With an impressive spot return exceeding 7%, the LKR has surpassed its counterpa
 [Data](articles/50e041e0.json)
 
 [Extended Data](ext_articles/50e041e0.ext.json)
+
+---
+
+### Sri Lanka’s Rupee leads emerging markets in 1st quarter of 2024
+
+*2024-04-13 12:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lankas-Rupee-leads-emerging-markets-in-1st-quarter-of-2024/155-280668) · `en`
+
+Colombo, April 13 - Sri Lanka's Rupee (LKR) has distinguished itself as the top-performing currency among emerging markets in the first quarter of 2024, said the President’s Media Division based on Bloomberg market data.
+
+With an impressive spot return exceeding 7%, the LKR has surpassed its counterparts, showcasing resilience and strength in the global currency landscape, the PMD added.
+
+◼️
+
+[Data](articles/9aa40bfe.json)
 
 ---
 
@@ -2183,79 +2231,5 @@ There have been a couple of deaths last year where the patients had tested posit
 [Data](articles/8ea4d267.json)
 
 [Extended Data](ext_articles/8ea4d267.ext.json)
-
----
-
-### Immigration Officers in a Career Program
-
-*2024-04-12 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195570) · `si`
-
-The Department of Immigration and Emigration has initiated a career program for Immigration Officers, scheduled from 9 am to 9 am tomorrow. This move addresses the shortage of immigration officers and vacancies.
-
-🟩
-
-Department of Immigration and Emigration has launched a professional action.
-
-The program will be held from 9.00 am from 9.00 am to 9.00 am tomorrow (12).
-
-Accordingly, the airport and the port officers were expelled from the black belts.
-
-This profession is based on several issues, including the deficit of immigrationary officer's deficit, including the vacancies vacancies.
-
-◼️
-
-[Data](articles/af50c7ed.json)
-
-[Extended Data](ext_articles/af50c7ed.ext.json)
-
----
-
-### Iran can carry out an attack on Israel's south or north today - Woltestreed Journal
-
-*2024-04-12 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181028) · `ta`
-
-Iran may attack Israel's south or north today, with Iranian officials planning retaliation for attacks on Syria. Iran's Revolutionary Guard has released videos of missile strikes on Israel, and there are plans for attacks on Israeli embassies and other targets.
-
-🟩
-
-A person who is well aware of the issue of Israel is preparing to face a direct attack on Israel's south or northern part of Israel today, said a person who is well aware of the issue.
-
-Meanwhile, a man who received information from Iran's leadership is planning for Iran attacks but has not yet taken any funeral.
-
-Iran has publicly announced that it will respond to an attack on the consist of the Syrian capital last week.
-
-In this attack, Iranian army chiefs, including the commanders of the Iranian Islamic Revolutionary Guard forces, were killed.
-
-US intelligence agencies have reported that Iran or its pro -groups have received intelligence reports that are sure to attack Israel's embassy or its own building.
-
-However, intelligence agencies have said that the attack may take place within the limits of Israel
-
-Investigators have reported that Iran may be involved in a response to Israel over the next few days.
-
-...
-
-[Data](articles/25a46819.json)
-
-[Extended Data](ext_articles/25a46819.ext.json)
-
----
-
-### How the Super Star Ramazan celebrated
-
-*2024-04-12 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195569) · `si`
-
-Shahrukh Khan celebrated Ramazan by sharing Roshan 5 with fans and journalists, distributed by his sons.
-
-🟩
-
-Shahukha Khan, the most popular performer of the Bollywood, shared the Rosan 5 this time with his fans.
-
-Superior Khan was crowded and distributed by his two sons and distribute to their homes, the fans and journalists.
-
-◼️
-
-[Data](articles/aa7f3b55.json)
-
-[Extended Data](ext_articles/aa7f3b55.ext.json)
 
 ---

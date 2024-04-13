@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 16:03:32**
+As of **2024-04-13 16:18:11**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 3,035
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,694 (100.0%) of 18,697 articles have been extended.
+18,697 (100.0%) of 18,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### தாயையும் குழந்தையையும் வாள்போன்ற ஆயுதத்தினால் தாக்கிய நபர் -  துப்பாக்கி பிரயோகத்தினை மேற்கொண்டு பயங்கரமான சூழ்நிலையை முடிவிற்கு கொண்டுவந்த பெண் பொலிஸ் உத்தியோகத்தர்-சிட்னி வணிக வளாக தாக்குதலை எதிர்கொண்டவர்கள் தகவல்
+### A man who attacked the mother and child with a sword -like weapon
 
 *2024-04-13 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181051) · `ta`
 
-சிட்னியின் வணிகவளாகத்தில் இடம்பெற்ற கத்திக்குத்து தாக்குதலில் சிக்கி பலியானவர்களின் எண்ணிக்கை ஆறாக  அதிகரித்துள்ள அதேவேளை வளாகத்திலிருந்து தப்பிவெளியேறியவர்கள் தாங்கள் எதிர்கொண்ட ஆபத்து குறித்து பல தகவல்களை வெளியிட்டுள்ளனர்.
+A man attacked a mother and child with a sword-like weapon at a Sydney business complex, causing panic. Six victims, including children, were targeted. The attacker was shot dead by a businessman.
 
-கத்திக்குத்திற்கு இலக்கான பெண் ஒருவர் தரையில் வீழ்ந்து கிடப்பதை பார்த்தாக தெரிவித்துள்ள பெண் அங்கு ஓரு பைத்தியக்காரத்தனமான சூழ்நிலை காணப்பட்டது என தெரிவித்துள்ளார்.
+🟩
 
-அவுஸ்திரேலிய நேரப்படி மாலை மூன்றுமணியளவில் வெஸ்ட்பீல்ட் வணிக வளாகத்தில் கத்திக்குத்து தாக்குதல் இடம்பெற்றது – அங்கு காணப்பட்ட மக்கள் உடனடியாக தப்பியோட தொடங்கினார்கள்.
+While the number of victims of Sydney's businessmen has increased, the number of victims has increased to six, while the people who fled the premises have revealed many information on the danger they faced.
 
-உணவுவிடுதியொன்றில் தனது இரண்டு பிள்ளைகளுடன் நின்றிருந்த ஒருவர், நபர் ஒருவர் கண்மூடித்தனமாக கத்திக்குத்து தாக்குதலில் ஈடுபடுவதை பார்த்தேன் என தெரிவித்துள்ளார்.
+A woman who was targeted by the knife was found lying on the ground, saying that there was a mad atmosphere.
 
-மூன்று பத்திற்கு வணிகவளாகத்திற்குள் நுழைந்த நபர் அங்கிருந்து வெளியேறிய பின்னர் சில நிமிடங்களில் திரும்பிவந்து தாக்குதலில் ஈடுபட்டார் என காவல்துறையினர் தெரிவித்துள்ளனர்.
+According to the Australian time, there was a knife attack at the Westfield business complex at three o'clock in the evening - the people who were found there immediately began to flee.
+
+He said that a man who was standing with his two children in a food festival, said that a person was blindfolded.
+
+The man who had entered the three -tenth businesses had returned to a few minutes after he left, police said.
+
+No information has been revealed on the cause of the attack so far, while police said that the terrorist purpose cannot be rejected.
+
+The attack was halted after the man was fired at the man who was trying to attack the woman who was involved in a knife attack.
 
 ...
 
 [Data](articles/cc0c4dd9.json)
+
+[Extended Data](ext_articles/cc0c4dd9.ext.json)
 
 ---
 
@@ -107,6 +117,8 @@ During the Nonagathaya, people used to engage in religious activities such as vi
 ◼️
 
 [Data](articles/23a1d079.json)
+
+[Extended Data](ext_articles/23a1d079.ext.json)
 
 ---
 
@@ -401,6 +413,8 @@ With an impressive spot return exceeding 7%, the LKR has surpassed its counterpa
 ◼️
 
 [Data](articles/9aa40bfe.json)
+
+[Extended Data](ext_articles/9aa40bfe.ext.json)
 
 ---
 

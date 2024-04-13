@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 08:03:19**
+As of **2024-04-13 08:18:21**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,023
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,646 (100.0%) of 18,647 articles have been extended.
+18,647 (100.0%) of 18,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### හම්බේගමුවේ වෙඩි තැබීමක්
+### Shooting of Hampegama
 
 *2024-04-13 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195580) · `si`
 
-හම්බේගමුව ප්‍රදේශයේ සිදුකළ වෙඩි තැබීමකින් පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා තිබේ.
+In Hambegamuwa, two were injured in a shooting by two on a motorbike. The victims, aged 24 and 42, were part of a group at a house in Seneuggala.
 
-ඊයේ (12) රාත්‍රී හම්බේගමුව සීනුග්ගල ප්‍රදේශයේ නිවසක සිටි දෙදෙනෙකුට යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් මෙම වෙඩි තැබීම සිදුකර පළාගොස් ඇති බව පොලීසිය පැවසුවේය.
+🟩
 
-එම නිවසේ හිමිකරු සහ ඔහුගේ ඥාතී සොහොයුරන් ඇතුළු පිරිසක් සාදයක් පවත්මින් සිටියදී මෙම වෙඩි තැබීම සිදුව ඇති අතර එහිදී 24 හැවිරිදි සහ 42 හැවිරිදි පුද්ගලයින් දෙදෙනෙකු වෙඩි වැදීමෙන් තුවාල ලබා තිබේ.
+Two people were injured in a shooting conducted in Hambegamuwa area.
+
+The shooting had fled the shooting by two persons who were in a motorbike at a house in Seneuggala yesterday.
+
+The owner and his relatives including his relatives and his relatives were a party and a group of 24-year-old and 42 year old were injured in shooting.
 
 ◼️
 
 [Data](articles/c8010760.json)
+
+[Extended Data](ext_articles/c8010760.ext.json)
 
 ---
 

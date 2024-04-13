@@ -1,48 +1,92 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 09:18:16**
+As of **2024-04-13 09:33:37**
 
 ## Newspaper Stats
 
-*Scraped **18,659** Articles*
+*Scraped **18,663** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 164
-bbccomsinhala | 196
+bbccomsinhala | 197
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,041
 adalk | 1,559
-tamilmirrorlk | 2,183
-adaderanalk | 2,240
+tamilmirrorlk | 2,184
+adaderanalk | 2,241
 virakesarilk | 2,779
 dailymirrorlk | 2,858
-adaderanasinhalalk | 3,026
+adaderanasinhalalk | 3,027
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,654 (100.0%) of 18,659 articles have been extended.
+18,659 (100.0%) of 18,663 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### பன்றியின் சிறுநீரகம் பொருத்தப்பட்ட நபர் குணமடைந்தார்
+### 200 பெண்கள், ஆண்களிடம்   பாலியல் தொல்லை பலே டாக்டர்
+
+*2024-04-13 09:18:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/200-பெண்கள்-ஆண்களிடம்-பாலியல்-தொல்லை-பலே-டாக்டர்/50-335902) · `ta`
+
+வயது வித்தியாசமின்றி சிறுமிகள் முதல் 60 வயது பெண்கள் வரை, டாக்டர் டாட் தனது கைவரிசையை காட்டியிருப்பதாக குற்றம்சாட்டப்பட்டுள்ளது.
+
+விலைமதிப்பற்ற உயிர்களை காப்பாற்றும் சேவையை செய்வதால் டாக்டர்களை கடவுள்களாக பார்க்கிறோம். அவர்கள் மீது முழு நம்பிக்கையும் வைப்பதால்தான் அவர்கள் பரிந்துரைக்கும் பரிசோதனை மற்றும் சிகிச்சை முறைகளை யோசிக்காமல் மேற்கொள்கிறோம். ஆனால் இந்த நம்பிக்கைக்கு துரோகம் செய்யும் வகையில் ஒருசில மருத்துவர்கள் நடந்துகொள்வதாக அவ்வப்போது புகார்கள் வருகின்றன. இதுபோன்ற சம்பவங்கள் மருத்துவ சமூகத்திற்கே அவப்பெயரை ஏற்படுத்துகின்றன.
+
+அவ்வகையில் அமெரிக்காவைச் சேர்ந்த டாக்டர் ஒருவர் நோயாளிகளுக்கு சிகிச்சைகளை தாண்டி, பல ஆண்டுகளாக பாலியல் தொல்லை கொடுத்த சம்பவம் கடும் அதிர்ச்சியை ஏற்படுத்தி உள்ளது. அவருக்கு எதிராக 200-க்கும் மேற்பட்ட பெண்கள், பல்வேறு ஆண்கள் வழக்கு தொடர்ந்துள்ளனர்.
+
+மாசாசூசெட் மாநிலம் பாஸ்டனைச் சேர்ந்தவர் டாக்டர் டெரிக் டாட். வாத நோய்கள் மற்றும் மூட்டு சம்பந்தப்பட்ட நோய்களுக்கு சிகிச்சை அளிக்கும் சிறப்பு டாக்டரான இவர், பிரிகாம் மற்றும் மகளிர் மருத்துவமனையில் பணியாற்றினார்.
+
+...
+
+[Data](articles/c70b2770.json)
+
+---
+
+### කලක සිටි පැවති ආරවුල ජීවිතයක් අහිමි කරයි
+
+*2024-04-13 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195584) · `si`
+
+මොරටුව කටුබැද්ද ප්‍රදේශයේදී තියුනු ආයුධයකින් පහර දිමක් හේතුවෙන් පුද්ගලයෙකු මියගොස් තවත් දෙදෙනෙකු තුවාල ලබා තිබේ.
+
+පොලීසිය පැවසුවේ කලක සිටි පැවති ආරවුලක් දුරදිග යාම හේතුවෙන් මෙම ඝාතනය සිදුව ඇති බවට මූලික විමර්ශන වලදි අනාවරණ වී ඇති බවය.
+
+පහරදීමෙන් තුවාල ලැබූ පුද්ගලයින් තිදෙනා පානදුර රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව 28 හැවිරිදි පුද්ගලයෙකු මියගොස් ඇත.
+
+ඝාතනය සම්බන්ධයෙන් සැකකරුවෙක් අත්අඩංගුවට ගෙන ඇති අතර මොරටුව පොලීසිය වැඩිදුර විමර්ශන ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/ddb32a61.json)
+
+---
+
+### The person with the kidneys of the pig is healed
 
 *2024-04-13 09:01:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பன்றியின்-சிறுநீரகம்-பொருத்தப்பட்ட-நபர்-குணமடைந்தார்/50-335901) · `ta`
 
-உறுப்பு மாற்று அறுவை சிகிச்சைக்கு தேவையான உறுப்புகள் கிடைக்காமல் உலகம் முழுவதும் பல லட்சம் நோயாளிகள் காத்திருக்கும் நிலையில், அமெரிக்காவைச் சேர்ந்த அறுவை சிகிச்சை நிபுணர்கள், முதல் முறையாக மரபணு மாற்றப்பட்ட பன்றியின் சிறுநீரகத்தை மனிதனுக்கு பொருத்தி அதில் வெற்றி கண்டுள்ளனர்.
+The US successfully transplanted a genetically modified pig's kidney into Richard Sleaman, marking a significant milestone in organ transplantation. Despite initial dialysis and a failed transplant, Sleaman's health improved after receiving the pig kidney, which is seen as a promising step towards organ availability.
 
-அமெரிக்காவின் மாசசூசெட்ஸ் மாநிலம், வேமவுத் நகரைச் சேர்ந்தவர் ரிச்சர்டு ஸ்லேமன் (வயது 62). இவரது சிறுநீரகம் பாதிக்கப்பட்டதால் பாஸ்டனில் உள்ள பொது மருத்துவமனையில் சிகிச்சைக்காக சேர்ந்தார். ஆரம்பத்தில் அவருக்கு சில வருடங்கள் டயாலிசிஸ் செய்யப்பட்டது. உடல்நிலை மோசமடையவே, 2018-ல் சிறுநீரக மாற்று அறுவை சிகிச்சை செய்யப்பட்டது. வேறு ஒரு நபரிடம் இருந்து பெறப்பட்ட சிறுநீரகத்தை அவருக்கு பொருத்தினர். ஆனால், 5 ஆண்டுகளில் அந்த உறுப்பு செயலிழந்தது. இதனால் மீண்டும் அவருக்கு டயாலிசிஸ் சிகிச்சை அளிக்கப்பட்டு வந்தது.
+🟩
+
+While millions of patients around the world are waiting for the organs for organ transplantation, the US has succeeded in applying the kidney of a genetically modified pig for the first time.
+
+Richard Sleaman (age 62) hails from Vemaut, Massachusetts, USA. He was admitted to the General Hospital in Boston for treatment of his kidney. Initially he had dialysis for a few years. In 2018, kidney transplant. The kidney obtained from a different person was fitted to him. But, in 5 years that organ crashed. He was again treated for dialysis.
+
+Subsequently, from the pharmaceutical company called Igenitis, the genetically modified pig's kidney was applied to Richard Slean on the 16th of last month (March 16).. After that his health was constantly monitored. He was discharged on Wednesday (April 3) last week as he was recovering from his return home.
 
 ...
 
 [Data](articles/c5e60505.json)
+
+[Extended Data](ext_articles/c5e60505.ext.json)
 
 ---
 
@@ -61,6 +105,8 @@ Also, he said the political parties form alliances differently at both elections
 ◼️
 
 [Data](articles/c27a6891.json)
+
+[Extended Data](ext_articles/c27a6891.ext.json)
 
 ---
 
@@ -100,15 +146,21 @@ The Railway Control Division has said that a train in the southern Kalutara has 
 
 ---
 
-### දුම්රිය ප්‍රමාදයක්
+### Train delay
 
 *2024-04-13 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195583) · `si`
 
-දකුණු කළුතර දුම්රිය පීලි පැනීමක් හේතුවෙන් මෙම ප්‍රමාදය සිදුවන බව ශ්‍රී ලංකා දුම්රිය දෙපාර්තමේන්තුව නිවේදනය කළේය.
+Train delayed by South Kalutara Railway delegation's arrival.
+
+🟩
+
+The delay will be held due to an arrival of South Kalutara Railway delegation.
 
 ◼️
 
 [Data](articles/81d5a311.json)
+
+[Extended Data](ext_articles/81d5a311.ext.json)
 
 ---
 
@@ -156,6 +208,20 @@ It is reported that Israeli Prime Minister Benjamin Netanyahu has met with the m
 
 ---
 
+### Derailed train causes delays on Coastal Line
+
+*2024-04-13 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98603/derailed-train-causes-delays-on-coastal-line) · `en`
+
+A train has derailed at the Kalutara South railway station on Saturday morning (13), Ada Derana learns.
+
+Trains operating on the Coastal Line are thus experiencing delays, Sri Lanka Railways said.
+
+◼️
+
+[Data](articles/874f0547.json)
+
+---
+
 ### Train derailment causes delays on Coastal Line
 
 *2024-04-13 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98603/train-derailment-causes-delays-on-coastal-line) · `en`
@@ -167,6 +233,8 @@ Trains operating on the Coastal Line are thus experiencing delays, Sri Lanka Rai
 ◼️
 
 [Data](articles/8b61fd90.json)
+
+[Extended Data](ext_articles/8b61fd90.ext.json)
 
 ---
 
@@ -354,19 +422,47 @@ Accordingly, the sun will be overcome to the Sunkuni, Murukandeki, Kiratamadu an
 
 ---
 
-### இலங்கை மீனவர்கள் 10 பேர் கைது
+### සිංහල  දෙමළ  අලුත් අවුරුදු චාරිත්‍ර වාරිත්‍ර හා මුසු වී ඇති බාහිර සංස්කෘතික අංග ගැන විමසා බැලීමක්
+
+*2024-04-13 03:21:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gxv56pz7jo) · `si`
+
+සිංහල  දෙමළ  අලුත් අවුරුදු චාරිත්‍ර වාරිත්‍ර හා මුසු වී ඇති බාහිර සංස්කෘතික අංග ගැන විමසා බැලීමක්
+
+ශ්‍රී ලංකාවේ ප්‍රධාන වශයෙන් සිංහල සහ දෙමළ ජනතාව එක්ව සමරන අලුත් අවුරුද්ද යනු සංස්කෘතියකි.
+
+මහාචාර්ය විමල් දිසානායක පෙන්වා දී ඇති පරිදි, සංස්කෘතිය ප්‍රකට වන "සිරිත් විරිත්, ගති පැවතුම්, ආචාර විචාර" ආදිය අලුත් අවුරුදු සංස්කෘතියට ඇතුළත් වේ.
+
+කෙසේ වෙතත්, අලුත් අවුරුදු සංස්කෘතිය මෙරටට ආවේණික අංගවලින් සමන්විතව ගොඩ නැගුණු "ආවේණික, පාරිශුද්ධ සංස්කෘතියක් නොවන," බව ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ සිංහල අධ්‍යයන අංශයේ ජ්‍යෙෂ්ඨ මහාචාර්ය රත්නසිරි අරංගල බීබීසී සිංහල සේවයට පැවසීය.
+
+"මේ උත්සවයේ වැඩිපුර තියෙන්නේ බාහිරින් එකතු වුණ අංග. ඒ නිසා මම මේ උත්සවය හඳුන්වන්නේ, සංස්කෘතික සම්මිශ්‍රණයක් කියලා," මහාචාර්ය රත්නසිරි අරංගල පෙන්වා දුන්නේ ය.
+
+"සංස්කෘතිය යනු කිසියම් ස්ථානයක වෙසෙන ජන සමූහයකගේ සාමූහික ජීවන ක්‍රමය යි. ඔවුන්ගේ සිරිත් විරිත්, ගති පැවතුම්, ආචාර විචාර, සමාජ සංස්ථා, කලාව හා ආගම තුළින් සංස්කෘතිය ප්‍රකට වෙයි," යනුවෙන් මහාචාර්ය විමල් දිසානායක සංස්කෘතිය යන සංකල්පය නිර්වචනය කර තිබේ.
+
+...
+
+[Data](articles/b505b56d.json)
+
+---
+
+### 10 Sri Lankan fishermen arrested
 
 *2024-04-13 01:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மீனவர்கள்-10-பேர்-கைது/175-335894) · `ta`
 
-ஹெரோயின் அல்லது ஐஸ் போதைப்பொருள் எனச் சந்தேகிக்கப்படும் 200 கிலோகிராம் போதைப்பொருளுடன் இரண்டு மீன்பிடிப் படகுகள் இலங்கையின் தெற்கு ஆழ்கடல் பகுதியில் கடற்படையினரால் நேற்று கைப்பற்றப்பட்டுள்ளன.
+10 Sri Lankan fishermen arrested for smuggling 200kg of suspected heroin/ice. Navy seized boats in southern deep sea.
 
-இரண்டு படகுகளிலும் இருந்த 10 இலங்கை மீனவர்களும் கைது செய்யப்பட்டுள்ளனர் என்று கடற்படைப் பேச்சாளர் கயான் விக்கிரமசூரிய தெரிவித்துள்ளார்.
+🟩
 
-போதைப்பொருடன் கைது செய்யப்பட்டவர்கள் காலித் துறைமுகத்துக்குக் கொண்டு வரப்பட்டுள்ளனர் என்றும்  கடற்படைப் பேச்சாளர் மேலும் குறிப்பிட்டுள்ளார். (a)
+Two fishing boats were seized by the navy in the southern deep sea of Sri Lanka yesterday with 200 kilograms of drugs suspected of heroin or ice.
+
+Navy spokesman Gayan Wickremasuriya said that 10 Sri Lankan fishermen in both boats have been arrested.
+
+The naval spokesman also noted that those arrested with drugs have been brought to the Khalid port.. (A)
 
 ◼️
 
 [Data](articles/9e6303f4.json)
+
+[Extended Data](ext_articles/9e6303f4.ext.json)
 
 ---
 
@@ -2153,105 +2249,5 @@ The Bathbinder Organization said that although Sri Lanka granted the right to fi
 [Data](articles/10baedb5.json)
 
 [Extended Data](ext_articles/10baedb5.ext.json)
-
----
-
-### 'My Cyber slave camp in Myanmar, who was hell
-
-*2024-04-12 09:57:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51n5ne95ddo) · `si`
-
-Ravi, a 24-year-old Sri Lankan, was abducted in Myanmar and forced into a cyber slave camp run by a Chinese gang. He was tricked into investing in fake online trading platforms, leading to his capture. Ravi was tortured and sexually assaulted, and after escaping, he faced further challenges in returning home.
-
-🟩
-
-Previous: Some readers may include information related to violence, including sexual violence that may be stressful. His name is - Ravi has been changed to protect the identity of one person who participated in this.
-
-"They Saved my Clothes, I've caught the stupid to my leg. I thought it was the end of my life. "
-
-Ravi was gone to Thailand, but instead of sitting at Bangkok, 24-year-old Sri Lankan was stuck in a dark place in Myanmar.
-
-He was abducted and a city at Thai border was taken through the river near the MAE SOT.
-
-There he said, he had sold a gang by a number of camps operated by the Chinese language gang that runs online fraud. They are deployed as racketeering, fake online identities, and employ the isolated men in the United States and Europe.
-
-They prompt targeted people to invest a large amount of money on pseudo-online trading platforms, promising to benefit quickly.
-
-...
-
-[Data](articles/bfde6ed6.json)
-
-[Extended Data](ext_articles/bfde6ed6.ext.json)
-
----
-
-### STF player attack: youth arrested
-
-*2024-04-12 09:53:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/STF-வீரர்-மீது-தாக்குதல்-இளைஞன்-கைது/72-335873) · `ta`
-
-A 17-year-old youth was arrested in Mannar for allegedly killing an STF officer during a raid. The youth, a relative of the suspect, attacked the officer with a sword. The STF seized three swords and 500 mg of ice from the suspect. The officer was injured and taken to the hospital. The youth, a student, was handed over to the police for legal action.
-
-🟩
-
-A 17 -year -old youth has been arrested in Mannar for allegedly assassinating a Special Task Force officer who tried to arrest the persons who were preparing for a crime.
-
-The incident took place on Wednesday evening (11) evening in the Mannar Periya Karisal area.
-
-Special Task Force (STF) has carried out a raid in the Mannar Periyar Karisal area to arrest a man who was ready to commit a crime.
-
-During this time, three stupid swords and 500 milligrams of ice were seized from the suspect.
-
-A 17 -year -old youth, a relative of the man, has been arrested after trying to carry out a murderous attack on a special troop for a specialist.
-
-A Special Task Force soldier was injured and admitted to the Mannar General Hospital.
-
-Special Task Force said the two suspects were handed over to the Mannar Police Station for further legal action.
-
-The 17 -year -old youth arrested is also a student who goes to school.
-
-◼️
-
-[Data](articles/3e62a400.json)
-
-[Extended Data](ext_articles/3e62a400.ext.json)
-
----
-
-### SLTB says daily revenue up by Rs. 25mn during festive season
-
-*2024-04-12 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98586/sltb-says-daily-revenue-up-by-rs-25mn-during-festive-season) · `en`
-
-The Sri Lanka Transport Board (SLTB) says its daily revenue has gone up by approximately Rs. 25 million owing to the special bus service set in place for the Sinhala and Tamil New Year season.
-
-Since 5 April, the SLTB has been deploying at least 200 additional buses to facilitate the people who are returning to their hometowns for the festive period.
-
-As a result, the state-owned bus service provider’s daily income saw an increase to the tune of Rs. 25 million over the past few days, according to SLTB Deputy General Manager Panduka Swarnahansa.
-
-However, the commuters complained that they were inconvenienced due to the inadequate number of long-distance buses in operation to accommodate the high volume of passengers.
-
-Meanwhile, the Road Development Authority (RDA) said the income generated by the expressways has gone up by at least 10% during the festive season, adding that it is expected to further increase in the coming days until 15 April.
-
-◼️
-
-[Data](articles/24734a33.json)
-
-[Extended Data](ext_articles/24734a33.ext.json)
-
----
-
-### Chicken retail prices increased
-
-*2024-04-12 09:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chicken-retail-prices-increased/108-280637) · `en`
-
-Colombo, April 12 (Daily Mirror) - The retail price of a kilogram of chicken has been recorded at a higher price at Economic Centres today.
-
-Accordingly, the retail price of a kilo of fresh chicken at the Narahenpita Economic Centre is Rs.1,400.
-
-A selling price of Rs. 1,300 was recorded for skinless chicken and curry chicken was sold at Rs. 999 per kilogram.
-
-◼️
-
-[Data](articles/dd32416f.json)
-
-[Extended Data](ext_articles/dd32416f.ext.json)
 
 ---

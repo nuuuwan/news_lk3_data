@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 06:41:05**
+As of **2024-04-13 06:57:28**
 
 ## Newspaper Stats
 
-*Scraped **18,639** Articles*
+*Scraped **18,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,59 @@ tamilmirrorlk | 2,175
 adaderanalk | 2,237
 virakesarilk | 2,779
 dailymirrorlk | 2,856
-adaderanasinhalalk | 3,020
+adaderanasinhalalk | 3,021
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,638 (100.0%) of 18,639 articles have been extended.
+18,639 (100.0%) of 18,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### குடிவரவு, குடியகல்வு திணைக்களத்தினர் போராட்டம்
+### අද පළාත් කිහිපයකට තරමක තද වැසි
+
+*2024-04-13 06:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195578) · `si`
+
+උතුරු සහ නැගෙනහිර පළාත්වල සිහින් වැසි වාර කිහිපයක් ඇතිවන අතර උතුරු මැද, මධ්‍යම සහ ඌව පළාත්වල ස්ථාන ස්වල්පයක සහ දිවයිනේ සෙසු ප්‍රදේශවල තැනින් තැන ප.ව. 2.00 න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75පමණ තරමක තද වැසි ඇතිවිය හැක.
+
+බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පවතී.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවට දැනුම් දී තිබේ.
+
+එමෙන්ම දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනවලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්ෂාංශ වලට සෘජුවම ඉහලින් පවතී.
+
+ඒ අනුව අද (13) දහවල් 12:10 ට කුමුලමුනෙයි, මුරිකන්ඩි, කෙරිදමඩු සහ තන්නියට්ටුයන ප්‍රදේශවලට හිරු මුදුන් වනු ඇති බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/cefb5563.json)
+
+---
+
+### Struggle to the Department of Immigration and Emigration
 
 *2024-04-13 01:21:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடிவரவு-குடியகல்வு-திணைக்களத்தினர்-போராட்டம்/175-335891) · `ta`
 
-இலங்கை குடிவரவு மற்றும் குடியகல்வு திணைக்கள உறுப்பினர்கள் கருப்பு பட்டி அணிந்து தொழிற்சங்க போராட்டங்களில் ஈடுபட்டுள்ளனர்.
+Sri Lanka's Department of Immigration and Emigration staff, including airport officials, are protesting for better staffing, filling vacancies, shifting changes, and a government permanent visa policy.
 
-இலங்கையில் செயற்படும் அனைத்து விமான நிலையங்கள் மற்றும் துறைமுகங்களில் குறிப்பாக கட்டுநாயக்க விமான நிலையத்தில் உள்ள அனைத்து அதிகாரிகளும் இந்த ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ளனர்.
+🟩
 
-குடிவரவுத் திணைக்களத்தில் அதிகாரிகள் பற்றாக்குறை, உரிய பதவிகளுக்கான வெற்றிடங்களை நிரப்பாமை, ஷிப்ட் முறை மாற்றம், அரசாங்கத்தின் நிரந்தர விசா கொள்கை இல்லாத காரணத்தினால் சுற்றுலாப் பயணிகள் என்ற போர்வையில் நாட்டிற்குள் நுழையும் சர்வதேச கடத்தல்காரர்கள், வெளிநாட்டு தனியார் நிறுவனம் விசா விண்ணப்பங்களை கையாள்வது போன்றவற்றின் அடிப்படையில் இந்த எதிர்ப்பு பிரச்சாரம் தொடங்கப்பட்டுள்ளது. (a)
+Members of the Department of Immigration and Emigration of Sri Lanka are engaged in trade union protests by wearing a black bar.
+
+All the officials at the Katunayake Airport, especially in all airports and ports operating in Sri Lanka, are involved in the demonstration.
+
+The protest campaign has been launched on the basis of the shortage of officials in the Department of Immigration, Filling Vacancies for Proper positions, Shifting Change, and Lack of Government Permanent Visa Policy due to lack of government permanent visa policy. (A)
 
 ◼️
 
 [Data](articles/3b580d55.json)
+
+[Extended Data](ext_articles/3b580d55.ext.json)
 
 ---
 
@@ -2295,27 +2323,5 @@ The Rajapaksas have dealt with the issue of the Tamil general candidate in the p
 [Data](articles/be62a53b.json)
 
 [Extended Data](ext_articles/be62a53b.ext.json)
-
----
-
-### NTC has failed to assign buses for people to leave Colombo: Anjana
-
-*2024-04-12 06:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NTC-has-failed-to-assign-buses-for-people-to-leave-Colombo-Anjana/108-280636) · `en`
-
-Colombo, April 12 (Daily Mirror) - The Inter-Provincial Private Bus Association (IPPBA) today claimed that the National Transport Commission (NTC) has failed to provide sufficient buses for people to leave from Colombo.
-
-The Association's Secretary Anjana Priyanjith claimed that people have to wait at the private bus stand for more than three hours to get their buses.
-
-During previous years the NTC had discussions with private bus associations to arrange buses without inconveniencing commuters, he said.
-
-"Earlier, we were advised to assign short-distance buses to long-distance services to meet the demand. But this time no such decision has been taken. Therefore, people have to wait many hours at the bus stand to get their transport facilities", Priyanjith said.
-
-Meanwhile, the Sri Lanka Transport Board (SLTB) said that sufficient buses were assigned for people to get to their villages.
-
-...
-
-[Data](articles/4bae7209.json)
-
-[Extended Data](ext_articles/4bae7209.ext.json)
 
 ---

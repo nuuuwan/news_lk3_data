@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 19:33:37**
+As of **2024-04-13 19:50:36**
 
 ## Newspaper Stats
 
-*Scraped **18,716** Articles*
+*Scraped **18,717** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 2,186
 adaderanalk | 2,254
 virakesarilk | 2,782
 dailymirrorlk | 2,876
-adaderanasinhalalk | 3,039
+adaderanasinhalalk | 3,040
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,713 (100.0%) of 18,716 articles have been extended.
+18,716 (100.0%) of 18,717 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### උඩුවිල විදුහලේ දරුවෙකුගෙන් නව නිපැයුමක්
+
+*2024-04-13 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195600) · `si`
+
+තිස්සමහාරාමය ගෝණගමුව උඩුවිල විද්‍යාලයේ ඉගෙනුම ලබන 14 හැවිරිදි එච්. කේ. එසර නිලුපුල් සිසුවා විසින් නව නිපැයුම් කිහිපයක් සිදු කර තිබේ.
+
+එම නව නිපැයුම් අතර Bluetooth තාක්ෂණයෙන් ක්‍රියාත්මක වන JBL Bulb සහ සූර්ය බල ශක්තියෙන් ක්‍රියාත්මක වන ජංගම දුරකථන බැටරි ආරෝපණ යන්ත්‍රයක් (Solar Power Mobile Phone Charger) ද වෙයි.
+
+මෙම සිසුවා විසින් තොරතුරු තාක්ෂණ ක්ෂේත්‍රයට දක්වන උනන්දුව සහ දක්ෂතාව තවදුරටත් වැඩි දියුණු කරගැනීමට විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා විසින් නවීන ලැප්ටොප් පරිගණක යන්ත්‍රයක් ලබාදීමට කටයුතු කළේය.
+
+◼️
+
+[Data](articles/cdc8130b.json)
+
+---
 
 ### New Year gifts to needy children...
 
@@ -41,6 +57,8 @@ The distribution of New Year gift parcels to children under the care of 336 Chil
 ◼️
 
 [Data](articles/c61f6b0b.json)
+
+[Extended Data](ext_articles/c61f6b0b.ext.json)
 
 ---
 
@@ -101,6 +119,8 @@ The BASL vehemently condemns any use of brutality by police officers carrying ou
 ...
 
 [Data](articles/44803138.json)
+
+[Extended Data](ext_articles/44803138.ext.json)
 
 ---
 
@@ -267,6 +287,8 @@ The officer was also seen in videos on social media administering CPR to those w
 ...
 
 [Data](articles/cc49b62d.json)
+
+[Extended Data](ext_articles/cc49b62d.ext.json)
 
 ---
 
@@ -2213,31 +2235,5 @@ Sri Lanka’s currency collapsed in 2022 after two years of aggressive macro-eco
 [Data](articles/a951124a.json)
 
 [Extended Data](ext_articles/a951124a.ext.json)
-
----
-
-### Biden urged to ban China-made electric vehicles
-
-*2024-04-12 20:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Biden-urged-to-ban-China-made-electric-vehicles/108-280656) · `en`
-
-April 12 (BBC) - President Joe Biden has been urged to ban imports of Chinese-made electric cars to the US.
-
-The chair of the Senate Banking Committee, Senator Sherrod Brown, wrote "Chinese electric vehicles are an existential threat to the American auto industry".
-
-His comments are the strongest yet by any US lawmaker on the issue, while others have called for steep tariffs to keep Chinese electric vehicles (EV) out of the country.
-
-In February, the White House said the US was opening an investigation into whether Chinese cars pose a national security risk.
-
-"We cannot allow China to bring its government-backed cheating to the American auto industry", Senator Brown said in a video on the social media platform X, formerly Twitter.
-
-Senator Brown, who is a Democrat from the the car-producing state of Ohio, is seeking to win a fourth term in office in November's election.
-
-The White House did not immediately respond to a BBC request for comment.
-
-...
-
-[Data](articles/aedca9a0.json)
-
-[Extended Data](ext_articles/aedca9a0.ext.json)
 
 ---

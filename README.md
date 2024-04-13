@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 07:23:34**
+As of **2024-04-13 07:33:49**
 
 ## Newspaper Stats
 
-*Scraped **18,643** Articles*
+*Scraped **18,645** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,80 @@ dailyftlk | 1,018
 economynextcom | 1,041
 adalk | 1,559
 tamilmirrorlk | 2,177
-adaderanalk | 2,237
+adaderanalk | 2,238
 virakesarilk | 2,779
-dailymirrorlk | 2,856
+dailymirrorlk | 2,857
 adaderanasinhalalk | 3,021
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,640 (100.0%) of 18,643 articles have been extended.
+18,643 (100.0%) of 18,645 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### போலி நாணயத்தாள் அச்சிடும் இயந்திரத்துடன் ஒருவர் கைது
+### Parts of the island to receive fairly heavy rains of about 75mm
+
+*2024-04-13 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98602/parts-of-the-island-to-receive-fairly-heavy-rains-of-about-75mm) · `en`
+
+Several spells of light showers are expected in Northern and Eastern provinces while showers or thundershowers are possible at a few places in North-central, Central and Uva provinces and elsewhere of the island after 2.00 p.m. today (13).
+
+The Department of Meteorology says parts of the Western and Sabaragamuwa provinces, as well as Galle and Matara districts, are likely to receive fairly heavy showers of about 75mm.
+
+Misty conditions can be expected at some places in Western, Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
+
+The general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+...
+
+[Data](articles/39a463e0.json)
+
+---
+
+### A man arrested with fake currency printing machine
 
 *2024-04-13 07:05:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-நாணயத்தாள்-அச்சிடும்-இயந்திரத்துடன்-ஒருவர்-கைது/175-335897) · `ta`
 
-500, 1000 மற்றும் 5000 ரூபாய் நோட்டுகளை அச்சிடுவதற்கு தயாரான தாள்கள் மற்றும் போலி நாணயத்தாள்களை அச்சிடுவதற்கு பயன்படுத்தப்பட்ட கணனி ஒன்றுடன் சந்தேக நபர் ஒருவர் அஹங்கமவில் வைத்து காலி பிரிவு குற்றப்புலனாய்வு திணைக்கள அதிகாரிகளினால் வெள்ளிக்கிழமை (12) இரவு  கைது செய்யப்பட்டுள்ளார்.
+A 47-year-old man in Ahangama was arrested for possessing a fake currency printing machine and 10 passports to extend tourists' visas. He's to face court in Galle.
 
-கொழும்பில் தனியார் நிறுவனமொன்றில் பணிபுரியும் 47 வயதான அஹங்கம இமதுவ வீதி, ஷ்ரமதான மாவத்தையைச் சேர்ந்த ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-போலி நாணயத்தாள்களுக்கு மேலதிகமாக சுற்றுலாப் பயணிகளின் வீசா காலத்தை நீடிப்பதற்காக பெறப்பட்ட 10 கடவுச்சீட்டுகளும் சந்தேகநபரிடம் இருந்து கைப்பற்றப்பட்டுள்ளன.
+A suspect has been arrested on Friday night by a suspect in Ahangama with a computer used to print sheets and fake currency notes ready for printing 500, 1000 and 5000 rupee banknotes.
 
-சந்தேகநபர் நீதிமன்றில் ஆஜர்படுத்துவதற்காக அஹங்கம பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளதுடன், சந்தேகநபர்  காலி நீதவான் முன்னிலையில் ஆஜர்படுத்தப்படவுள்ளார்.
+The 47 -year -old Ahangama Imaduwa Road, a private company in Colombo has been arrested.
+
+In addition to the fake currency, 10 passports received to extend the visa period of tourists have been seized from the suspect.
+
+The suspect has been handed over to the Ahangama police to appear in court and is to be produced before the Galle Magistrate.
 
 ◼️
 
 [Data](articles/584c8da7.json)
+
+[Extended Data](ext_articles/584c8da7.ext.json)
+
+---
+
+### National Hospital gets new cutting-edge CT scanner
+
+*2024-04-13 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/National-Hospital-gets-new-cutting-edge-CT-scanner/108-280663) · `en`
+
+Colombo, April 13 (Daily Mirror) -The Colombo National Hospital's Neurosurgery Department welcomed a new addition to its arsenal of medical equipment with the installation of a state-of-the-art CT scan machine.
+
+Spearheaded by Dr. Palitha Mahipala, Secretary of the Ministry of Health, the incorporation of this advanced technology marks a significant advancement in the hospital's treatment services.
+
+Funded by the Asian Development Bank through the Health Sector Development Project, this cutting-edge CT scan machine boasts a price tag of Rs. 220 million.
+
+The 128-Slice CT Scan machine serves a vital role in assessing and monitoring patients with brain and spinal cord injuries stemming from various causes such as motor accidents, assaults, falls and brain tumors.
+
+Furthermore, it aids in evaluating patients requiring surgery for conditions like brain bleeding or high blood pressure-induced internal bleeding in the brain.
+
+◼️
+
+[Data](articles/4d9e694b.json)
 
 ---
 
@@ -78,19 +122,25 @@ Accordingly, the sun will be overcome to the Sunkuni, Murukandeki, Kiratamadu an
 
 ---
 
-### கொழும்பு - மும்பை இடையே விமான சேவை
+### Airlines between Colombo and Mumbai
 
 *2024-04-13 01:39:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மும்பை-இடையே-விமான-சேவை/175-335892) · `ta`
 
-இந்தியாவின் இண்டிகோ எயார்லைன்ஸ் கொழும்பு மற்றும் மும்பை இடையே நேரடி விமான சேவையை ஆரம்பித்துள்ளது.
+Indigo Airlines, India's largest airline, now offers a direct flight from Colombo to Mumbai, joining its existing routes from Chennai, Bangalore, and Hyderabad.
 
-தற்போது சென்னை, பெங்களூர் மற்றும் ஹைதராபாத்திலிருந்து கொழும்பிற்கு இண்டிகோ எயார்லைன்ஸ் மூலம் நேரடி விமானங்கள் இயக்கப்படுகின்றன.
+🟩
 
-விமானங்களின் எண்ணிக்கை மற்றும் பயணிகளின் எண்ணிக்கை ஆகியவற்றின் அடிப்படையில், இண்டிகோ எயார்லைன்ஸ் இந்தியாவின் மிகப்பெரிய விமான நிறுவனமாக கருதப்படுகிறது.  (a)
+India's Indigo Airlines has launched a direct flight between Colombo and Mumbai.
+
+Currently, direct flights are operated from Chennai, Bangalore and Hyderabad to Colombo by Indigo Airlines.
+
+Based on the number of flights and the number of passengers, Indigo Airlines is considered India's largest airline.(a)
 
 ◼️
 
 [Data](articles/df9c980a.json)
+
+[Extended Data](ext_articles/df9c980a.ext.json)
 
 ---
 
@@ -107,6 +157,8 @@ Accordingly, the sun will be overcome to the Sunkuni, Murukandeki, Kiratamadu an
 ...
 
 [Data](articles/073389fc.json)
+
+[Extended Data](ext_articles/073389fc.ext.json)
 
 ---
 
@@ -2257,45 +2309,5 @@ India’s privately owned defence companies demonstrated the capability they hav
 [Data](articles/188b386f.json)
 
 [Extended Data](ext_articles/188b386f.ext.json)
-
----
-
-### Arms manufacturers show Indian capability to Sri Lankan military
-
-*2024-04-12 07:00:00* · [`economynextcom`](https://economynext.com/arms-manufacturers-show-indian-capability-to-sri-lankan-armed-forces-military-158316/) · `en`
-
-ECONOMYNEXT – Indian arm manufacturing firms showed the Delhi’s capability in arm manufacturing to Sri Lankan military at a seminar on Wednesday which the island nation expects to open the door for future joint collaboration in manufacturing and services.
-
-Indian High Commission in Colombo High Commission organised the seminar titled “Identifying New Opportunities and Forging New Bonds” to promote Indian Made Defence equipment and explore avenues for collaboration in defence production.
-
-India’s privately owned defence companies demonstrated the capability they have developed in manufacturing arms and other products including unmanned aerial vehicles (UAVs), latest drones, and latest earth movers used in war zones.
-
-...
-
-[Data](articles/6421abae.json)
-
-[Extended Data](ext_articles/6421abae.ext.json)
-
----
-
-### Lock for liquor stations!
-
-*2024-04-12 06:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180996) · `ta`
-
-Liquor stations in the country will close on April 12 and 13, ahead of the Tamil Sinhala New Year. They will reopen from 8 am to 10 pm on other days.
-
-🟩
-
-All liquor stations in the country will be closed on April 12 and 13, the Excise Department said.
-
-The Declaration Department said that the decision has been taken ahead of the Tamil Sinhala New Year.
-
-However, according to the current Amendment, all liquor stations will be opened from 8 am to 10 pm on other days, the Department said.
-
-◼️
-
-[Data](articles/a636f310.json)
-
-[Extended Data](ext_articles/a636f310.ext.json)
 
 ---

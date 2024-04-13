@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 09:51:45**
+As of **2024-04-13 10:03:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,027
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,663 (100.0%) of 18,664 articles have been extended.
+18,664 (100.0%) of 18,664 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Georgieva has served as IMF’s Managing Director since October 1, 2019. The Man
 ...
 
 [Data](articles/c504e85b.json)
+
+[Extended Data](ext_articles/c504e85b.ext.json)
 
 ---
 

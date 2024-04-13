@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-14 02:03:29**
+As of **2024-04-14 02:18:30**
 
 ## Newspaper Stats
 
-*Scraped **18,736** Articles*
+*Scraped **18,737** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,045
 adalk | 1,560
-tamilmirrorlk | 2,187
+tamilmirrorlk | 2,188
 adaderanalk | 2,257
 virakesarilk | 2,782
 dailymirrorlk | 2,885
@@ -26,27 +26,51 @@ adaderanasinhalalk | 3,046
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,735 (100.0%) of 18,736 articles have been extended.
+18,736 (100.0%) of 18,737 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-14 (Sunday)
 
-### 917 கைதிகளுக்கு பொது மன்னிப்பு
+### சுற்றுலா சென்றவர்களின் வான் விபத்து
+
+*2024-04-14 01:56:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலா-சென்றவர்களின்-வான்-விபத்து/175-335921) · `ta`
+
+பண்டாரவளை – கஹகல்ல பகுதியில் இடம்பெற்ற விபத்தில் 6 பேர் காயமடைந்துள்ளனர் என பொலிஸார் தெரிவித்துள்ளனர்.
+
+ஹப்புத்தளை பகுதியிலிருந்து பண்டாரவளை நோக்கி பயணித்துக் கொண்டிருந்த வான் ஒன்றே வீதியை விட்டு விலகி பள்ளத்தில் வீழ்ந்து விபத்துக்குள்ளாகியுள்ளது.
+
+காலி பகுதியிலிருந்து சுற்றுலா சென்ற குழுவினர் பயணித்த வானே விபத்துக்குள்ளாகியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+விபத்தில் காயமடைந்த 6 பேரும் சிகிச்சைகளுக்காக தியத்தலாவை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/924f6a14.json)
+
+---
+
+### Public apologies for 917 prisoners
 
 *2024-04-14 01:45:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/917-கைதிகளுக்கு-பொது-மன்னிப்பு/175-335918) · `ta`
 
-அந்த கைதிகள் நேற்று விடுதலை பெற்று சிறைச்சாலைகளில் இருந்து வௌியேறியுள்ளனர் என சிறைசாலைகள் ஊடகப்பேச்சாளர் காமினி திசாநாயக்க தெரிவித்துள்ளார்.
+917 prisoners released under amnesty, including 21 from Jaffna, 17 from Batticaloa, and 12 from Vavuniya.
 
-பொது மன்னிப்பின் கீழ் 21 கைதிகள் யாழ்ப்பாணம் சிறைச்சாலையில் இருந்து நேற்று விடுவிக்கப்பட்டனர்.
+🟩
 
-மட்டக்களப்பு சிறைச்சாலையில் இருந்து 17 கைதிகள் பொது மன்னிப்பின் அடிப்படையில் நேற்று விடுதலை செய்யப்பட்டுள்ளனர்.
+Prison media spokesperson Gamini Dissanayake said that the prisoners were released yesterday and fled from prisons.
 
-வவுனியா சிறைச்சாலையிலிருந்து விடுதலை செய்யப்பட்ட 12 கைதிகள் நேற்று காலை அங்கிருந்து வௌியேறினர். (a)
+Under the amnesty, 21 prisoners were released from the Jaffna Prison yesterday.
+
+17 inmates from the Batticaloa Prison have been released yesterday on a public amnesty.
+
+12 prisoners released from Vavuniya Prison. (A)
 
 ◼️
 
 [Data](articles/87fb728c.json)
+
+[Extended Data](ext_articles/87fb728c.ext.json)
 
 ---
 
@@ -2169,25 +2193,5 @@ The allowance was paid under the approval of the National Auditor General's Repo
 [Data](articles/7088d0fa.json)
 
 [Extended Data](ext_articles/7088d0fa.ext.json)
-
----
-
-### Belgian traveller scammed in Kalutara
-
-*2024-04-12 23:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Belgian-traveller-scammed-in-Kalutara/155-280662) · `en`
-
-Colombo, April 12 (Daily Mirror) - Tim Tense, a Belgian traveller exploring Sri Lanka, recently shared a troubling encounter from his visit to Kalutara.
-
-According to Tim, he fell victim to a scam at a local restaurant, where he was charged an exorbitant Rs. 1,000 for a single Ulundu Vadai and a cup of plain tea.
-
-In his YouTube video titled "Avoid this man in Kalutara, Sri Lanka," Tim recounted his experience. He traversed Kalutara on his own three-wheeler, soaking in the sights. Upon parking, he was approached by a Sri Lankan individual who offered to take him to a place called 'Wadani Villas Saivar Kade' for an authentic Sri Lankan food experience.
-
-The friendly local guided Tim to the restaurant, where he was served an Ulundu Vadai and plain tea, despite not planning to dine initially. As Tim enjoyed his meal, the host suggested tourist spots, which Tim politely declined, opting to explore independently.
-
-...
-
-[Data](articles/8638b544.json)
-
-[Extended Data](ext_articles/8638b544.ext.json)
 
 ---

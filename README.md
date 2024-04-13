@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 13:04:33**
+As of **2024-04-13 13:18:19**
 
 ## Newspaper Stats
 
-*Scraped **18,680** Articles*
+*Scraped **18,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ tamilmirrorlk | 2,184
 adaderanalk | 2,245
 virakesarilk | 2,780
 dailymirrorlk | 2,865
-adaderanasinhalalk | 3,030
+adaderanasinhalalk | 3,031
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,679 (100.0%) of 18,680 articles have been extended.
+18,680 (100.0%) of 18,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### රුපියල ට ලෝකයෙන් සහතිකයක්
+
+*2024-04-13 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195588) · `si`
+
+2024 වසරේ පළමු කාර්තුවේදී ශ්‍රී ලංකා රුපියල ලෝකයේ නැගී එන වෙළෙඳපොළ අතුරින් ඉහළම කාර්ය සාධනය පෙන්වූ මුදල් ඒකකය බවට පත්වී ඇති බව බ්ලූම්බර්ග් වෙළඳපොළ දත්ත පෙන්වාදී ඇති බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+එය වසර ආරම්භයේදී පැවති අගයට සාපේක්ෂව 7%කට වඩා වැඩි කැපී පෙනෙන වර්ධනයක් පෙන්නුම් කර ඇති බවද එහි සඳහන් ය.
+
+◼️
+
+[Data](articles/d4db57f1.json)
+
+---
 
 ### 15,000 security personnel deployed for Sinhala and Tamil New Year celebrations
 
@@ -49,6 +63,8 @@ In addition, 15,806 Civil Defense Committee members will assist in organizing an
 ◼️
 
 [Data](articles/02ee8caf.json)
+
+[Extended Data](ext_articles/02ee8caf.ext.json)
 
 ---
 
@@ -2207,39 +2223,5 @@ The SLPP, at its executive committee meeting, decided to initiate disciplinary a
 [Data](articles/ec05b715.json)
 
 [Extended Data](ext_articles/ec05b715.ext.json)
-
----
-
-### Destruction of Habarana Hurulu Reserve
-
-*2024-04-12 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195567) · `si`
-
-Unauthorized excavation in Habarana Hurulu Reserve, a 25,000-hectare International Biological Reserve, has been reported. Despite approval for a development project, no permission letter was received. The Forest Department's failure to enforce regulations has led to environmental concerns.
-
-🟩
-
-Derana Ukza has reported awareness of an unauthorized excavation in Habarana Hurulu Reserve, which is home to the country and a large number of animals.
-
-Habarana Hurulu Reserve is a suit of nature that has spread over 25,000 hectares in the Anuradhapura district.
-
-The reserve was named as an International Biological Reserve in 1977 and the Forest Department has been announced as an environmental park in 2007.
-
-However, today revealed information on Derana Ukkasa that the excavation of the land was carried out in the forest reserve.
-
-Accordingly, Ada Derana went to the relevant reserve to be taken to the relevant reserve.
-
-When we reach the site, a group had excavated in the relevant reserve.
-
-When we asked the mining license, they said that the District Wildlife officer should be inquired.
-
-The officer in response to the excavation document sent an article on Watsapp.
-
-But instead of the excavation license, he was referred to the request for excavation.
-
-...
-
-[Data](articles/9295a066.json)
-
-[Extended Data](ext_articles/9295a066.ext.json)
 
 ---

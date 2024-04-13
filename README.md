@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 13:50:58**
+As of **2024-04-13 14:03:16**
 
 ## Newspaper Stats
 
-*Scraped **18,685** Articles*
+*Scraped **18,686** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,043
-adalk | 1,559
+adalk | 1,560
 tamilmirrorlk | 2,184
 adaderanalk | 2,246
 virakesarilk | 2,781
@@ -26,35 +26,43 @@ adaderanasinhalalk | 3,033
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,684 (100.0%) of 18,685 articles have been extended.
+18,685 (100.0%) of 18,686 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### ඊශ්‍රායලයට පිළිතුරු දෙන්න ඉරානය මිසයිල 100ක් සූදානම් කරයි
+### Answer the Israeli Iran prepare 100 missiles
 
 *2024-04-13 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195590) · `si`
 
-ඉරානය, ඊශ්‍රායලය වෙත ප්‍රහාර එල්ල කිරීම සඳහා කෘෘස් මිසයිල 100ක් පමණ සූදානම් කරගෙන සිටින බවට වාර්තාවීමත් සමග එම කලාපය වෙත ලෝක බලවතුන්ගේ අවධානය යොමුවී තිබේ.
+The US warns Iran against attacking Israel, with Iran preparing 100 missiles. Iran's military and weapons have been identified by the US. The US is directing additional support to the region and has limited embassy staff due to the risk of an Iranian attack. Israel denies responsibility for the attack on its embassy in Syria.
 
-ඉරානය ඉතාමත් ආසන්න දිනක ඊශ්‍රායලය වෙත ප්‍රහාර එල්ල කරනු ඇති බවට අමෙරිකාව අනතුරු අඟවා ඇත.
+🟩
 
-ඒ සම්බන්ධව අදහස් පළකළ අමෙරිකානු ජනාධිපති ජෝ බයිඩන් පවසා ඇත්තේ තම රට ඊශ්‍රායලයේ ආරක්ෂාවට සහාය දක්වන බවය.
+The world powers have drawn attention to the zone with Iran to attack Israel.
 
-එමෙන්ම ඉරානයට අනතුරු අඟවමින් පවසා ඇත්තේ එවැනි ප්‍රහාර එල්ල නොකරන ලෙසටය.
+The United States has warned Iran to attack Israel at a very immediate day.
 
-කලාපීය උණුසුම තවත් තීව්‍ර කරමින් නිකුත් වූ මේ වාර්තාවට අනුව එම ප්‍රහාර ඊශ්‍රායලය වෙත මෙන්ම කලාපයේ ඊශ්‍රායල ඉලක්ක වෙත එල්ලවීමේ අවස්ථාවක් පවතී.
+US President Joe Biden, who commented on it, has said that their country supports Israel.
 
-අමෙරිකාව මෙම අනාවරණය කළේ ඉරානය සිය හමුදා සහ අවි, කලාපය පුරා ස්ථානගත කරමින් පවතින බවට හඳුනාගැනීමෙන් පසුවය.
+It was also said that such attacks were warning.
 
-එමෙන්ම කලාපය වෙත අතිරේක බලඇණි යොමුකිරීමටත් අමෙරිකාව දැනටමත් කටයුතු කරමින් සිටී.
+According to the report that the regional warmth is released, there is an opportunity to bug the attacks to Israel as well as Israeli targets.
 
-ඉරාන ප්‍රහාරයක් එල්ල වීමට ඇති අවදානම මත පදනම්ව ඊශ්‍රායලයේ රැඳී සිටින සිය සේවකයින් තානාපති කාර්යාලයෙන් පිටතට යාම සීමා කිරීමට අමෙරිකානු රජය තීරණය කළේ ඊයේ (12) දිනයේදීය.
+The US revealed that Iran was identified after Iran was being placed throughout its military and weapons.
+
+The US is already working to direct additional bursts to the region.
+
+The United States government decided to limit their employees from the embassy based on the risk of an Iranian attack.
+
+At least 3 people were killed by a Iranian Army chief from an attack on the Iranian embassy in Syria earlier this month.
 
 ...
 
 [Data](articles/3bf6b885.json)
+
+[Extended Data](ext_articles/3bf6b885.ext.json)
 
 ---
 
@@ -1252,6 +1260,22 @@ The immigration officials detained them and alerted the Central Crime Branch pol
 
 ---
 
+### ආගමන හා විගමන නිලධාරීන් විරෝධයක
+
+*2024-04-12 22:32:37* · [`adalk`](https://www.ada.lk/breaking_news/ආගමන-හා-විගමන-නිලධාරීන්-විරෝධයක/11-409065) · `si`
+
+කටුනායක ගුවන් තොටුපොළ ප්‍රමුඛව ශ්‍රී ලංකාව තුළ ක්‍රියාත්මක සියලුම ගුවන් තොටුපොළ සහ වරායන් තුළ 04/12 උදෑසන 09.00 සිට 04/13 දින උදෑසන 09.00 පැය දක්වා " අත් වල කළු පටි බැද " වෘත්තීය සමිති විරෝධතා ව්‍යාපාරයක නිරත වීම ශ්‍රී ලංකා ආගමන විගමන නිලධාරීන්ගේ සංගමය විසින්  ආරම්භ කර තිබේ .
+
+ඒ අනුව මෙම විරෝධතා ව්‍යාපාරය කටුනායක ගුවන් තොටුපොළ තුළ ද මේ වනවිට ක්‍රියාත්මක වෙමින් පවතී .
+
+දැනට ආගමන විගමන දෙපාර්තමේන්තුව සතුව පවතින උග්‍ර නිලධාරී හිගය , නිසි කළට තනතුරු සදහා පුරප්පාඩු නොපිරවීම , රාජකාරී සේවා මුර ක්‍රමය වෙනස් කිරීම , රජය ස්ථිර වීසා ප්‍රතිපත්තියක නොපිහිටා කටයුතු කිරීම නිසා සංචාරකයන් වේශයෙන් ජාත්‍යන්තර ජාවාරම්කරුවන් රට තුළට ඇතුළු වීම , වීසා අයදුම්පත් සම්බන්ධයෙන් කටයුතු කිරීමට විදේශීය පෞද්ගලික සමාගමකට භාර දීම යනාදී කරුණු මුල් කර ගනිමින් මෙම විරෝධතා ව්‍යාපාරය ආරම්භ කර තිබේ .
+
+...
+
+[Data](articles/09d2b7ac.json)
+
+---
+
 ### Casuality of Casual
 
 *2024-04-12 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195577) · `si`
@@ -2233,25 +2257,5 @@ The study, Understanding Connections between Human Rights and Economic Crimes, c
 [Data](articles/aa668f1a.json)
 
 [Extended Data](ext_articles/aa668f1a.ext.json)
-
----
-
-### Immigration officials stage symbolic protest
-
-*2024-04-12 14:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immigration-officials-stage-symbolic-protest/108-280649) · `en`
-
-Colombo, April 12 (Daily Mirror) - The Sri Lanka Immigration & Emigration Officers’ Association (SLIEOA) has launched a 24-hour symbolic strike against steps taken to change the service system by cancelling the more efficient service system without any reasons and causing serious hardships to the serving officers.
-
-SLIEOA Secretary K.P. Manawadu pointed out that their officers have been under unnecessary pressure due to the decisions taken by the departmental authorities in some cases.
-
-Accordingly, the symbolic strike was launched at 9 a.m. and will continue till 9 a.m. tomorrow.
-
-"We decided to embark on a professional action to cover all the airports and seaports of the country by requesting all officers to wear black belts and distribute leaflets," Manawadu said.
-
-...
-
-[Data](articles/f40131a6.json)
-
-[Extended Data](ext_articles/f40131a6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 22:33:42**
+As of **2024-04-13 22:49:02**
 
 ## Newspaper Stats
 
-*Scraped **18,727** Articles*
+*Scraped **18,729** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ adalk | 1,560
 tamilmirrorlk | 2,186
 adaderanalk | 2,255
 virakesarilk | 2,782
-dailymirrorlk | 2,881
-adaderanasinhalalk | 3,044
+dailymirrorlk | 2,882
+adaderanasinhalalk | 3,045
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,725 (100.0%) of 18,727 articles have been extended.
+18,727 (100.0%) of 18,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### Katunayaka expressway plunged in darkness
+
+*2024-04-13 22:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Katunayaka-expressway-plunged-in-darkness/108-280684) · `en`
+
+Colombo, April 13 (Daily Mirror) -  Majority of the Katunayaka Expressway section has been plunged into darkness this evening as the lamp post has failed to function.
+
+As per information shared by the toll gate officials, the highway streetlights are not functioning as the electric cables have been cut.
+
+The officials elaborated that the underground cables have been stolen.
+
+This is not the first time the electric cables of the highway has been stolen.
+
+Last year in January, wires worth Rs. 2.4 million of four lamp post were stolen in the Wedikanda area using an axe.
+
+◼️
+
+[Data](articles/f78e8b7d.json)
+
+---
+
+### මෙරටට ඇතුළු වූ විදෙස් කාන්තාවක් අත්අඩංගුවට
+
+*2024-04-13 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195606) · `si`
+
+මිලියන 26කට ආසන්න කොකේන් මත්ද්‍රව්‍ය බවට සැක කෙරෙන ගුලි 57ක් සමග මැඩගස්කර් ජාතික කාන්තාවක් අත්අඩංගුවට ගෙන ති‌බේ.
+
+38 හැවිරිදි එම කාන්තාව ඊයේ (12) කටුනායක ගුවන්තොටුපොළ තුළදී අත්අඩංගුවට ගෙන තිබුණේ රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින්ය.
+
+මෙම සැකකාරිය ඉතියෝපියාවේ සිට ඉන්දියාවේ මුම්බායි හරහා මෙරටට පැමිණ තිබුණි.
+
+එහිදී එම කාන්තවගේ  ශරීරය තුළ සඟවාගෙන සිටි මත්ද්‍රව්‍ය ඉවතට ගැනීම සඳහා මීගමුව රජය රෝහලට ඇතුළ කරන ලදී.
+
+මේ වන විට මෙම කාන්තාව තම ශරීරයේ සඟවාගෙන සිටි මත්ද්‍රව්‍ය ගුලි 57 එළියට ගෙන ඇති අතර එහි බර ග්‍රෑම් 620 කට ආසන්න බව වාර්තා වෙයි.
+
+වැඩිදුර පරීක්ෂණ සඳහා සැකකාර කාන්තාව හා මත්ද්‍රව්‍ය ශ්‍රී ලංකා පොලිසියේ මත්ද්‍රව්‍ය නාශක කාර්යාංශය වෙත භාර දී තිබේ.
+
+◼️
+
+[Data](articles/712959ce.json)
+
+---
 
 ### Environmentalists urge public to protect pets from fireworks
 
@@ -51,6 +93,8 @@ Furthermore, researches suggest that up to 50 percent of dogs experience fear or
 ...
 
 [Data](articles/06d7c3a2.json)
+
+[Extended Data](ext_articles/06d7c3a2.ext.json)
 
 ---
 
@@ -81,6 +125,8 @@ The number of people from zero to 14 years old fell 329,000 to about 14.17 milli
 ◼️
 
 [Data](articles/c1634857.json)
+
+[Extended Data](ext_articles/c1634857.ext.json)
 
 ---
 
@@ -2161,65 +2207,5 @@ The Airporting Officer in charge of the airport and the Ordinary Operations of t
 [Data](articles/09d2b7ac.json)
 
 [Extended Data](ext_articles/09d2b7ac.ext.json)
-
----
-
-### Casuality of Casual
-
-*2024-04-12 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195577) · `si`
-
-A 25-year-old resident of Moratuwa was killed in a dispute over a casual romance, leading to the arrest of a youth involved in the incident. Another person was injured and taken to the hospital. The suspect will appear in court tomorrow.
-
-🟩
-
-A private dispute in the Dandeniya Estate in Moratuwa has been killed in a sharp weapon.
-
-It is reported that the dispute has been caused by a casual romance.
-
-A 25-year-old resident of the area had been conducted by a 25 year old resident of the area.
-
-Another person was injured and rushed to the Kalubowila hospital.
-
-A youth has been arrested in connection with the murder and the youth who died with his little mother had had a casual affair.
-
-The suspect is due to be produced before the Moratuwa Magistrate's Court tomorrow (13).
-
-◼️
-
-[Data](articles/d1b04bcf.json)
-
-[Extended Data](ext_articles/d1b04bcf.ext.json)
-
----
-
-### Some horrific accidents in the 24 hours
-
-*2024-04-12 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195576) · `si`
-
-Increased accidents during festive season. Police request public vigilance. Incidents include motorbike-lorry collision, injuries from car-three-wheeler crash, and a train accident.
-
-🟩
-
-According to the police, there is a growth in accidents compared to normal days along with the beginning of the festive season.
-
-DIG's DIG's DIG Talduuwa to take care of the people in traffic due to a negligent period of negligence, police spokesman's DIG's duty lawy requests the public.
-
-In several other crash, the crash was reported in several areas that were on the occasion.
-
-In the 24-hour period, several such road accidents were reported.
-
-Kosgama Hall in Kosgama Hall in High Level Road, a motorbike and a lorry collided with a lorry.
-
-The lorry collided with the opposite direction when trying to make a motorcycle before.
-
-Four-wheeler driver and three-wheeler injuries were admitted to the Wellawaya Base Hospital with two children who had traveled by a car and three-wheeler in the Andailaila area on the Wellawaya Tanamalwila main road.
-
-The CCTV camera was reported that a carton and a motorcycle collided in Kahathuduwa Pillavawa area on the Colombo main road.
-
-...
-
-[Data](articles/f0ae3db6.json)
-
-[Extended Data](ext_articles/f0ae3db6.ext.json)
 
 ---

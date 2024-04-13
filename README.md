@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 17:03:16**
+As of **2024-04-13 17:18:23**
 
 ## Newspaper Stats
 
-*Scraped **18,705** Articles*
+*Scraped **18,707** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,88 @@ dailyftlk | 1,018
 economynextcom | 1,045
 adalk | 1,560
 tamilmirrorlk | 2,185
-adaderanalk | 2,250
+adaderanalk | 2,251
 virakesarilk | 2,782
-dailymirrorlk | 2,871
+dailymirrorlk | 2,872
 adaderanasinhalalk | 3,038
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,704 (100.0%) of 18,705 articles have been extended.
+18,705 (100.0%) of 18,707 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### මැදවච්චියේ සිද්ධිය පොලිස්පති පැහැදිලි කරයි
+### Unable to feed family, Pakistani man kills wife and seven kids with axe
+
+*2024-04-13 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98612/unable-to-feed-family-pakistani-man-kills-wife-and-seven-kids-with-axe) · `en`
+
+In a gruesome incident, a poverty-stricken man allegedly axed to death his wife and seven minor children in the Punjab province of Pakistan on Thursday, police said.
+
+Sajjad Khokhar, a labourer by profession, attacked his wife Kausar, 42, and seven children -- four daughters and three sons, aged between eight months and 10 years -- with an axe killing them on the spot in Alipur, Muzaffargarh district, some 350 km from Lahore.
+
+Police said the accused was mentally disturbed over financial issues and he often had quarrels with his wife.
+
+The man has been arrested and a case registered against him. The suspect confessed to his crime claiming that he had taken this extreme step as he could not feed his children any more, the police said.
+
+Punjab Chief Minister Maryam Nawaz has expressed her grief over the killing of innocent children and sought a report from the Inspector General of Police.
+
+◼️
+
+[Data](articles/1770faa5.json)
+
+---
+
+### Six dead in mass stabbing at Sydney shopping center
+
+*2024-04-13 16:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Six-dead-in-mass-stabbing-at-Sydney-shopping-center/108-280676) · `en`
+
+Sydney, April 13 ( CNN) - Six people have been killed and several others injured, including a child, in a mass stabbing at a busy shopping center in Sydney, Australian police said.
+
+Police were called to Westfield Bondi Junction on Saturday afternoon local time following reports of multiple people stabbed.
+
+Five people died at the scene and another died later from stab wounds at the hospital, a New South Wales police spokesperson confirmed to CNN.
+
+The suspect - who police said acted alone - was shot dead at the scene by a lone officer.
+
+New South Wales Police’s Assistant Commissioner Anthony Cooke said a senior police inspector was nearby when the attack unfolded.
+
+She arrived on the scene first and was alone when she engaged with the attacker. She shot the offender when he raised a knife at her.
+
+“She discharged her firearm, and that person is now deceased,” Cooke said.
+
+The officer was also seen in videos on social media administering CPR to those who had been injured.
+
+...
+
+[Data](articles/8be8618f.json)
+
+---
+
+### IGP explains the incident in Medawachchiya
 
 *2024-04-13 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195597) · `si`
 
-මැදවච්චිය පොලීසියේ නිලධාරීන් පිරිසක් සිදුකළ පහරදීමක් නිසා තරුණයෙකුගේ වෘෂණ කෝෂයක් සැත්කමකින් ඉවත් කිරීමට සිදුවූ බව කියන සිද්ධිය සම්බන්ධයෙන් පොලිස්පතිවරයා අදහස් පළ කළේය.
+IGP Tennakoon discusses the attack on a young man in Medawachchiya, following the assassination of police. He emphasizes the need for police to act within their limits and the consequences of illegal activities affecting families.
 
-පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා මෙම අදහස් පළ කළේ හොරණ, ඔළබොඩුව රජ මහා විහාරස්ථානයේ පැවති උත්සවයකින් අනතුරුව ය.
+🟩
 
-"අධිකරණයට ඔවුන්ව ඉදිරිපත් කර රක්ෂිත බන්ධනාගාරගත කර තිබෙනවා. පොලිස් නිලධාරීන් රාජකාරී කිරීමේදී වුණත් සීමාව ඉක්මවා බලය පාවිච්චි කළොත් ඒ අයට පුද්ගලිකව ඒ සම්බන්ධයෙන් වගඋත්තර බඳින්න වෙනවා."
+The IGP expressed his views regarding the attack on a young man's testicle due to an assassination of a group of Medawachchiya police.
 
-"ඒ චෝදනාව එල්ල කරන අයත් නීතිවිරෝධී මත්පැන් සහ මත්ද්‍රව්‍ය පිළිබඳවත්, වෙනත් නීතිවිරෝධී කටයුතු සම්බන්ධවත් පෙර වැරදි ගණනාවක් තියෙන පවුලක අය."
+IGP Deshabandu Tennakoon made these comments after a function held at the Alaboduwa Raja Maha Viharaya.
+
+"He has been remanded and remanded. Even if the police officers use the power over the limit, they have to make a statement in personal. "
+
+"The accusation of the accused of illegal liquor and drugs and other illegal activities have a family with a family with a family."
 
 ◼️
 
 [Data](articles/064787f9.json)
+
+[Extended Data](ext_articles/064787f9.ext.json)
 
 ---
 
@@ -2225,47 +2277,5 @@ Sagara Kariyawasam further stated that the disciplinary committee has authorized
 [Data](articles/a06fdca1.json)
 
 [Extended Data](ext_articles/a06fdca1.ext.json)
-
----
-
-### Warning issued in connection with climate!
-
-*2024-04-12 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181033) · `ta`
-
-Climate warning: High chance of heavy lightning and thunderstorms in Moneragala district, with strong winds. Take precautions to avoid accidents.
-
-🟩
-
-Accordingly, there are high likelihoods of heavy lightning with thunderstorms in the evening or night in the Moneragala district and in the Moneragala district.
-
-During thunderstorms, strong winds can be temporarily blowing in those areas.
-
-The Department of Meteorology has urged the people to take necessary steps to reduce accidents caused by lightning.
-
-◼️
-
-[Data](articles/044511b2.json)
-
-[Extended Data](ext_articles/044511b2.ext.json)
-
----
-
-### 200 kg of drug trapped in the deep sea south of Sri Lanka!
-
-*2024-04-12 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181032) · `ta`
-
-Navy seizes 2 fishing boats in Sri Lanka's deep sea, arresting 10 fishermen with 200 kg of suspected heroin or ice.
-
-🟩
-
-Two fishing boats have been seized by the navy in the southern deep sea of Sri Lanka with 200 kg of drugs suspected of heroin or ice.
-
-Navy spokesman Gayan Wickramasuriya said that 10 Sri Lankan fishermen found in both boats were arrested.
-
-◼️
-
-[Data](articles/33851e09.json)
-
-[Extended Data](ext_articles/33851e09.ext.json)
 
 ---

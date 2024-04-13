@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 23:50:47**
+As of **2024-04-14 00:03:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,046
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,732 (100.0%) of 18,733 articles have been extended.
+18,733 (100.0%) of 18,733 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -107,6 +107,8 @@ Similarly, last year in January, wires worth Rs. 2.4 million from four lamp post
 ◼️
 
 [Data](articles/359abb3d.json)
+
+[Extended Data](ext_articles/359abb3d.ext.json)
 
 ---
 

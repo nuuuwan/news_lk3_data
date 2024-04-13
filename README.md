@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 12:33:38**
+As of **2024-04-13 12:49:09**
 
 ## Newspaper Stats
 
-*Scraped **18,677** Articles*
+*Scraped **18,679** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 1,559
 tamilmirrorlk | 2,184
 adaderanalk | 2,245
 virakesarilk | 2,780
-dailymirrorlk | 2,862
+dailymirrorlk | 2,864
 adaderanasinhalalk | 3,030
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,675 (100.0%) of 18,677 articles have been extended.
+18,677 (100.0%) of 18,679 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### Heavy showers on the cards in multiple provinces
+
+*2024-04-13 12:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-showers-on-the-cards-in-multiple-provinces/108-280669) · `en`
+
+Colombo, April 13 (Daily Mirror) -  The Meteorology Department has issued a weather advisory forecasting heavy showers of about 75 mm in some areas of the Western and Sabaragamuwa Provinces, as well as in the Galle and Matara districts.
+
+Residents in these regions are advised to take necessary precautions to mitigate any potential damages caused by the downpour.
+
+Furthermore, several spells of light showers are expected in the Northern and Eastern Provinces, with showers or thundershowers forecast in a few places in the North-Central, Central and Uva Provinces, as well as several other areas of the island after 2:00 p.m.
+
+Meanwhile, misty conditions may prevail in certain areas of the Western, Central, Sabaragamuwa, and Uva Provinces, as well as in the Galle and Matara districts during the morning hours.
+
+Moreover, with the apparent northward relative motion of the sun, it is set to be directly overhead the latitudes of Sri Lanka from the 5th to the 15th of April this year.
+
+...
+
+[Data](articles/3bde9c18.json)
+
+---
+
+### Sri Lanka’s Rupee leads emerging markets in 1st quarter of 2024
+
+*2024-04-13 12:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-Rupee-leads-emerging-markets-in-1st-quarter-of-2024/108-280668) · `en`
+
+Colombo, April 13 - Sri Lanka's Rupee (LKR) has distinguished itself as the top-performing currency among emerging markets in the first quarter of 2024, said the President’s Media Division based on Bloomberg market data.
+
+With an impressive spot return exceeding 7%, the LKR has surpassed its counterparts, showcasing resilience and strength in the global currency landscape, the PMD added.
+
+◼️
+
+[Data](articles/50e041e0.json)
+
+---
 
 ### Sri Lankan rupee outpaces emerging market currencies in Q1 2024
 
@@ -41,6 +75,8 @@ In the first quarter (Q1) of 2024, Sri Lankan rupee (LKR) emerged as the top-per
 ◼️
 
 [Data](articles/df848ba1.json)
+
+[Extended Data](ext_articles/df848ba1.ext.json)
 
 ---
 
@@ -105,6 +141,8 @@ Due to the derailment commuters travelling to their home towns today for the Sin
 ◼️
 
 [Data](articles/f1f47d05.json)
+
+[Extended Data](ext_articles/f1f47d05.ext.json)
 
 ---
 
@@ -2201,43 +2239,5 @@ The advisory states that the risk level is “High” in the aforementioned area
 [Data](articles/09fdc2d1.json)
 
 [Extended Data](ext_articles/09fdc2d1.ext.json)
-
----
-
-### 917 prisoners to get State amnesty tomorrow
-
-*2024-04-12 14:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/917-prisoners-to-get-State-amnesty-tomorrow/108-280643) · `en`
-
-Colombo, April 12 (Daily Mirror) - A special State amnesty has been granted to prisoners in view of the Sinhala and Tamil New Year tomorrow (13), Prisons Commissioner and media spokesman Gamini B. Dissanayaka said.
-
-He said the prisoners would be released in view of the Sinhala and Year New Year by the President in accordance with the powers conferred on him by Article 34 of the Constitution.
-
-Accordingly, a total of 917 prisoners, including 896 male prisoners and 21 female prisoners will be released from all prisons around the country tomorrow at 10 a.m.
-
-◼️
-
-[Data](articles/949294a1.json)
-
-[Extended Data](ext_articles/949294a1.ext.json)
-
----
-
-### SLTB’s daily earnings surge to over Rs. 20M in New Year rush
-
-*2024-04-12 13:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLTBs-daily-earnings-surge-to-over-Rs-20M-in-New-Year-rush/108-280642) · `en`
-
-Colombo, April 12 (Daily Mirror) - The daily earnings of the Sri Lanka Transport Board (SLTB) have surged by over Rs. 20 million due to increased demand for transport services during the New Year period, SLTB Deputy General Manager Panduka Swarnahansa said.
-
-This is a significant boost compared to the usual daily income, he said.
-
-To cater to the influx of travellers heading to their hometowns, the SLTB has organised special bus services departing from the Colombo Central Bus Stand today.
-
-Additionally, the SLTB has arranged numerous bus services to run along all the expressways starting from the Makumbura Multimodal Center (MMC).
-
-◼️
-
-[Data](articles/0f99acea.json)
-
-[Extended Data](ext_articles/0f99acea.ext.json)
 
 ---

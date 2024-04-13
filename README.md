@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 10:18:19**
+As of **2024-04-13 10:34:46**
 
 ## Newspaper Stats
 
@@ -26,13 +26,13 @@ adaderanasinhalalk | 3,027
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,664 (100.0%) of 18,666 articles have been extended.
+18,666 (100.0%) of 18,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### Sri Lanka’s monthly fuel sales growing; Diesel at 7-month high in March, Petrol at 3-month high
+### Sri Lanka Diesel sales at 7-month high in March, Petrol at 3-month high
 
 *2024-04-13 10:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-monthly-fuel-sales-growing-diesel-at-7-month-high-in-march-petrol-at-3-month-high-158417/) · `en`
 
@@ -49,6 +49,8 @@ The monthly sales of widely used Octane 92 recorded 112, 545 Metric Tonnes (MT) 
 ...
 
 [Data](articles/1e5ba429.json)
+
+[Extended Data](ext_articles/1e5ba429.ext.json)
 
 ---
 
@@ -461,6 +463,8 @@ Sri Lanka has high import duties, and so-called para-tariffs such as the port an
 ...
 
 [Data](articles/90beed3b.json)
+
+[Extended Data](ext_articles/90beed3b.ext.json)
 
 ---
 

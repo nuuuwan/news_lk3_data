@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 11:50:57**
+As of **2024-04-13 12:03:22**
 
 ## Newspaper Stats
 
-*Scraped **18,672** Articles*
+*Scraped **18,675** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ dailyftlk | 1,018
 economynextcom | 1,043
 adalk | 1,559
 tamilmirrorlk | 2,184
-adaderanalk | 2,243
-virakesarilk | 2,779
+adaderanalk | 2,244
+virakesarilk | 2,780
 dailymirrorlk | 2,861
-adaderanasinhalalk | 3,029
+adaderanasinhalalk | 3,030
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,672 (100.0%) of 18,672 articles have been extended.
+18,672 (100.0%) of 18,675 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### Joe Biden expects Iran to attack Israel ‘sooner than later’
+
+*2024-04-13 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98606/joe-biden-expects-iran-to-attack-israel-sooner-than-later) · `en`
+
+US President Joe Biden says he expects Iran to attack Israel “sooner than later”, as fears grow of Iranian retaliation over an air strike that killed top commanders early this month.
+
+Israel has not admitted attacking an Iranian consulate in Syria but is widely believed to have been behind it.
+
+US officials have told CBS News, the BBC’s US partner, that a major attack on Israel could happen imminently.
+
+Israel says it is ready to defend itself. Mr Biden told Iran: “Don’t.”
+
+“We are devoted to the defence of Israel. We will support Israel,” Mr Biden said. “We will help defend Israel and Iran will not succeed.”
+
+Iran backs Hamas, the Palestinian group fighting Israel in Gaza, as well as various proxy groups throughout the region, including some - such as Hezbollah in Lebanon - that frequently carry out strikes against the Israelis.
+
+...
+
+[Data](articles/0e717463.json)
+
+---
+
+### ව්‍යාජ මුදල් නෝට්ටු මුද්‍රණය කළ අයෙක් අත්අඩංගුවට
+
+*2024-04-13 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195587) · `si`
+
+ව්‍යාජ මුදල් නෝට්ටු මුද්‍රණය කළ සැකකරුවෙකු අහංගම ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+ගාල්ල කොට්ඨාස අපරාධ විමර්ශන කාර්‌යාංශයේ නිලධාරීන් විසින් සිදු කරන ලද වැටලීමකදී අදාළ සැකකරු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසීය.
+
+සැකකරු සතුව තිබී ව්‍යාජ මුදල් නෝට්ටු මුද්‍රණය සඳහා යොදාගත් ලැප්ටොප් පරිගණකයක්, මුද්‍රණ යන්ත්‍රයක්, නෝට්ටු මුද්‍රණය කරන ලද කඩදාසි තොගයක් පොලිස් භාරයට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරු 47 හැවිරිදි ඉමදුව ප්‍රදේශයේ පදිංචිකරුවෙක් වන අතර අහංගම පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
+
+◼️
+
+[Data](articles/1db90256.json)
+
+---
+
+### மனிதாபிமான பணியாளர்களிற்கு தொடர்ந்தும் ஆபத்தானதாக காணப்படும் காசா – மயிரிழையில் உயிர் தப்பிய அவுஸ்திரேலிய மனிதாபிமான பணியாளர்
+
+*2024-04-13 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181047) · `ta`
+
+காசாவில் மனிதாபிமான பணிகளில் ஈடுபட்டிருந்தவேளை தன்மீது துப்பாக்கி பிரயோகம் மேற்கொள்ளப்பட்டதாக அவுஸ்திரேலியாவை சேர்ந்த மனிதாபிமான பணியாளர் ஒருவர் தெரிவித்துள்ளார்.
+
+இஸ்ரேலின் தாக்குதலில் அவுஸ்திரேலியாவை சேர்ந்த ஒருவர் உட்பட ஏழுமனிதாபிமான பணியாளர்கள் கொல்லப்பட்ட சில வாரங்களிற்குள் இந்த சம்பவம் குறித்த தகவல்கள் வெளியாகியுள்ளன.
+
+யுனிசெவ் பணியாளரும் அவுஸ்திரேலியாவை சேர்ந்த முன்னாள் பத்திரிகையாளருமான டெஸ் இன்கிராம் காசாவில் உள்ள சோதனை சாவடிக்கு அருகில் தனது வாகனத்தை நோக்கி துப்பாக்கி பிரயோகங்கள் இடம்பெற்றன என தெரிவித்துள்ளார்.
+
+எரிபொருள் குடிநீர் விநியோகத்திற்கான ஒருங்கிணைக்கப்பட்ட நடவடிக்கைக்காக வாகனத்தொடரணியில் பயணம் செய்துகொண்டிருந்தவேளை துப்பாக்கி பிரயோகம் இடம்பெற்றதாக அவர் தெரிவித்துள்ளார்.
+
+நாங்கள் அந்த பகுதியில் காத்திருந்தவேளை துப்பாக்கி பிரயோகம் ஆரம்பமானது பொதுமக்கள் காணப்பட்ட சோதனைசாவடியிலிருந்தே துப்பாக்கி பிரயோகம் இடம்பெற்றது அவர்கள் சிதறியோடினார்கள் என அவர் தெரிவித்துள்ளார்.
+
+துப்பாக்கி சன்னங்கள் எனது காரை தாக்கின நான் அமர்ந்திருந்த பகுதிகளின் கண்ணாடிகளை தாக்கின என அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/615562e5.json)
+
+---
 
 ### Sri Lanka - South Africa Second match today
 
@@ -2173,69 +2235,5 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/57315557.json)
 
 [Extended Data](ext_articles/57315557.ext.json)
-
----
-
-### The Central Bank reestably dollars
-
-*2024-04-12 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195564) · `si`
-
-The Central Bank of Sri Lanka (CBSL) purchased $715M and $239.5M in the forex market in March 2024, totaling $1,199M this year.
-
-🟩
-
-Central Bank of Sri Lanka (CBSL) has purchased US $ 715 million in the forex market in March 2024.
-
-The Central Bank has also purchased US $ 239.5 million in the forex market.
-
-Accordingly, the total amount purchased by the Central Bank has increased to 1,199 million in the market this year.
-
-◼️
-
-[Data](articles/9e649f92.json)
-
-[Extended Data](ext_articles/9e649f92.ext.json)
-
----
-
-### Prepare for this nucle
-
-*2024-04-12 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195563) · `si`
-
-The Ministry of Buddha Self, Religious and Cultural Affairs has asked the public to follow Sinhala and cultural rituals as per the State Tacketh Committee. Charity is due at 3.29 am on the 2024 Sinhala-Tamil New Year (13).
-
-🟩
-
-The Ministry of Buddha Self, Religious and Cultural Affairs has requested the public to carry out Sinhala and cultural rituals according to the State Tacketh Committee.
-
-2024 The people of the Cultural Affairs was recently demanded the people of the Cultural Affairs recently to act according to the auspicious vocile of the State Aroused Committee.
-
-Accordingly, charity has been paid to 3.29 am tomorrow at the time of the 2024 Sinhala-Tamil New Year tomorrow (13).
-
-◼️
-
-[Data](articles/7555e7fe.json)
-
-[Extended Data](ext_articles/7555e7fe.ext.json)
-
----
-
-### Katchatheevu made poll issue without considering India-Sri Lanka ties: Ex-Indian minister
-
-*2024-04-12 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98589/katchatheevu-made-poll-issue-without-considering-india-sri-lanka-ties-ex-indian-minister-) · `en`
-
-India’s former Union Minister Yashwant Sinha said the BJP (Bharatiya Janata Party) has made the Katchatheevu island an election issue ahead of Lok Sabha polls without thinking of its implications on the India-Sri Lanka relations.
-
-The decades-old territorial and fishing rights dispute around the Katchatheevu island is in the limelight again with the BJP and the opposition parties engaged in a war of words.
-
-Sinha, who had served as India’s finance minister, and external affairs minister, said the island falls on the Sri Lankan side of the maritime boundary.
-
-“I am extremely dismayed that no other than the prime minister of the country has raised this issue. I am aware of the fact that Katchatheevu was an island which when the maritime, international maritime line was drawn fell on the side of Sri Lanka and therefore went to Sri Lanka.
-
-...
-
-[Data](articles/2464968d.json)
-
-[Extended Data](ext_articles/2464968d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 23:35:09**
+As of **2024-04-13 23:50:47**
 
 ## Newspaper Stats
 
-*Scraped **18,732** Articles*
+*Scraped **18,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,560
 tamilmirrorlk | 2,186
 adaderanalk | 2,256
 virakesarilk | 2,782
-dailymirrorlk | 2,883
+dailymirrorlk | 2,884
 adaderanasinhalalk | 3,046
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,729 (100.0%) of 18,732 articles have been extended.
+18,732 (100.0%) of 18,733 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ President Ranil Wickremesinghe, in his message for the 2024 Sinhala and Tamil Ne
 
 [Data](articles/bbf8a29e.json)
 
+[Extended Data](ext_articles/bbf8a29e.ext.json)
+
 ---
 
 ### Preparing of traditional meals
@@ -64,21 +66,47 @@ As the auspicious time approaches, all Sri Lankans share in tasting their New Ye
 
 [Data](articles/89440fbd.json)
 
+[Extended Data](ext_articles/89440fbd.ext.json)
+
 ---
 
-### ආහාර පිසීමේ නැකැත උදා වෙයි
+### Cooking auspicious
 
 *2024-04-13 23:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195607) · `si`
 
-මෙවර සිංහල සහ දෙමළ අලුත් අවුරුද්දේ නැකැත් අනුව ආහාර පිසීමේ නැකැත අද (13) රාත්‍රී 11.06ට උදා විය.
+"This year's Sinhala and Tamil New Year's cooking focused on blue garments, flame, sugarcane, and sesame mixed coast. The auspicious view and preparation were at 11.06 pm, with the work of dealing and eating at 12.06 midnight."
 
-නිල් පැහැති වස්ත්‍රාභරණයෙන් සැරසී දකුණු දිශාව බලා ලිප් බැඳ ගිනි මොළවා තල, උක් හකුරු මිශ්‍ර කිරිබතක් සහ තල මිශ්‍ර කැවිලි වර්ගයක් පිළියෙළ කරගැනීම යහපත් බව නැකැත් සීට්ටුවේ සඳහන් වෙයි.
+🟩
 
-මෙවර වැඩ ඇල්ලීම ගනුදෙනු කිරීම හා ආහාර අනුභවය යෙදී ඇත්තේ අද මධ්‍යම රාත්‍රී 12.06ටය.
+This year, cooking was aimed at the Sinhala and Tamil New Year's cuisine at 11.06 pm today.
+
+The auspicious view of the blue garment, wearing a blue wire and prepare a mix of flame, sugarcane, and selling sesame mixed coast.
+
+The work of dealing and eating this year's work is 12.06 midnight today.
 
 ◼️
 
 [Data](articles/a5b8a916.json)
+
+[Extended Data](ext_articles/a5b8a916.ext.json)
+
+---
+
+### Katunayaka expressway plunged into darkness
+
+*2024-04-13 22:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Katunayaka-expressway-plunged-into-darkness/108-280684) · `en`
+
+Colombo, April 13 (Daily Mirror) - The majority of the Katunayaka expressway section has been plunged into darkness this evening as the lamp posts have failed to function.
+
+According to information shared by toll gate officials, the highway streetlights are not functioning due to the electric cables being cut.The officials elaborated that the underground cables have been stolen.
+
+This is not the first time the electric cables of the highway have been stolen. In January, the high-voltage electricity cables of the Katunayake expressway were removed which caused a loss of Rs. 286 million.
+
+Similarly, last year in January, wires worth Rs. 2.4 million from four lamp posts were stolen in the Wedikanda area using an axe.
+
+◼️
+
+[Data](articles/359abb3d.json)
 
 ---
 
@@ -2177,27 +2205,5 @@ The Met Department further stated that the sun is overwhelming to Kumarmunai, Mu
 [Data](articles/937625fc.json)
 
 [Extended Data](ext_articles/937625fc.ext.json)
-
----
-
-### Norway’s health minister resigns after plagiarism accusation
-
-*2024-04-12 22:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98601/norways-health-minister-resigns-after-plagiarism-accusation) · `en`
-
-(AP) — Norway’s health minister resigned Friday, the second Norwegian government member to step down this year amid allegations they plagiarized academic works.
-
-Ingvild Kjerkol resigned a day after a probe by Nord University in Bodoe in northern Norway, where Kjerkol, handed in her master thesis in 2021, concluded that “there is a not insignificant amount of plagiarism in her master’s thesis.”
-
-“We have come to the conclusion that Ingvild should resign as minister,” Prime Minister Jonas Gahr Støre told a press conference. He said the probe had concluded the plagiarism was “intentional.”
-
-Kjerkoll said she and a co-author “did not intend to plagiarize other people’s assignments.”
-
-“Although it hurts not to be believed, we have to deal with the fact that (the university) is of a different opinion,” she said at a joint press conference with Gahr Støre.
-
-...
-
-[Data](articles/96670f0d.json)
-
-[Extended Data](ext_articles/96670f0d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 16:18:11**
+As of **2024-04-13 16:34:23**
 
 ## Newspaper Stats
 
-*Scraped **18,697** Articles*
+*Scraped **18,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,106 @@ dailyftlk | 1,018
 economynextcom | 1,045
 adalk | 1,560
 tamilmirrorlk | 2,185
-adaderanalk | 2,247
+adaderanalk | 2,249
 virakesarilk | 2,782
 dailymirrorlk | 2,869
-adaderanasinhalalk | 3,035
+adaderanasinhalalk | 3,037
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,697 (100.0%) of 18,697 articles have been extended.
+18,697 (100.0%) of 18,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### Five killed in Sydney mass stabbing; attacker shot dead by police
+
+*2024-04-13 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98611/five-killed-in-sydney-mass-stabbing-attacker-shot-dead-by-police) · `en`
+
+An attacker who fatally knifed five people in a Sydney mall was shot dead by police in Sydney’s beachside suburb of Bondi on Saturday, police said, as hundreds fled the scene.
+
+The assailant was shot by a police officer after he engaged with nine people in the busy Westfield Bondi Junction shopping centre, police said.
+
+“She discharged a firearm and that person is now deceased. I am advised that there are five victims who are now deceased as a result of the actions of this offender,” New South Wales Police Assistant Commissioner Anthony Cooke told a press conference.
+
+Prime Minister Anthony Albanese said there was no indication yet of the man’s motive.
+
+“This was a horrific act of violence, indiscriminately targeting innocent people going about an ordinary Saturday doing their shopping,” he told a press conference.
+
+“Tonight the first thoughts of all Australians are with the victims of these terrible acts.”
+
+...
+
+[Data](articles/f63748e2.json)
+
+---
+
+### පියාගේ දේපොළට අයියයි මල්ලියි මරා ගනී
+
+*2024-04-13 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195596) · `si`
+
+ඉඩම් ආරවුලක් මුල් කරගනිමින් ගලහ, නිල්ලඹ යෝගලෙච්චමී වත්තේදී ඊයේ (12) පුද්ගලයෙක් සිය බාල සොහොයුරාව තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+
+මෙලෙස ඝාතනයට ලක්වී ඇත්තේ 35 හැවිරිදි ක්‍රිෂ්ණසාමී කරුණානිධි නම් පුද්ගලයෙකි.
+
+ඔහුගේ සොහොයුරා වන ඒසුදාසන් තිදරු පියෙකු වන අතර ඔහු කලක් බන්ධනාගාරගතව සිට නිදහස ලබා අනුරාධපුරයේ තනිව ජීවත්වෙමින් සිටි පුද්ගලයෙකි.
+
+ඒ අතරතුර සිය පියාට අයත් ඉඩමක් සිය අවිවාහක සොහොයුරා විකුණා ඇති බවට සැළවීමත් සමග ඔහු ඉකුත් බ්‍රහස්පතින්දා රාත්‍රියේ කරුණානිධිගේ නිවසට පැමිණ ආරවුලක් ඇති කරගෙන තිබේ.
+
+රාත්‍රිය පුරා පැවති ගැටුමෙන් පසු ඊයේ අලුයම 2 පමණ සිට පැවති නිහඬතාවය සම්බන්ධයෙන් සැක සිතූ අසල්වැසියන් ඒ පිළිබඳව සෝදිසි කිරීමේදී දැක ඇත්තේ තුවාල සහිතව දෑත් ගැටගසා බිම වැටී තිබූ කරුණානිධිගේ නිසල දේහයයි.
+
+මුගුරු, තියුණු ආයුධ, ගල් සහ වීදුරු බෝතල්වලින් පහරදී මෙම ඝාතනය සිදුකර තිබෙන බවට සාක්ෂි හමුවී ඇතැයි පැවසෙයි.
+
+සොහොයුරාට පහරදී පළායමින් සිටි ඒසුදාසන්ව අසල්වැසියන් විසින් අල්ලා ගලහ පොලීසියට භාරදී තිබුණි.
+
+◼️
+
+[Data](articles/b6784136.json)
+
+---
+
+### හෙට ලොකු වැස්සක්
+
+*2024-04-13 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195595) · `si`
+
+හෙට (14) දිනයේ බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වල ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තතමේන්තුව පවසයි.
+
+එම දෙපාර්තතමේන්තුව සඳහන් කරන්නේ බස්නාහිර, සබරගමුව, දකුණු, මධ්‍යම, වයඹ සහ ඌව පළාත්වල සවස 2.00 න් පමණ පසු තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තතමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනවලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්ෂාංශවලට සෘජුවම ඉහළින් පවතී.
+
+හෙට දින (14) දහවල් 12:10 ට නයිනතිව්, පුන්කුඩුතිව්, මණ්ඩයිතිව්, මනල්කාඩු සහ උඩුතුරෙයි යන ප්‍රදේශවලට හිරු මුදුන් වනු ඇත.
+
+◼️
+
+[Data](articles/0459e4be.json)
+
+---
+
+### State Minister clears the air on rice imports
+
+*2024-04-13 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98610/state-minister-clears-the-air-on-rice-imports) · `en`
+
+The government has not given permission to import rice, Finance State Minister Ranjith Siyambalapitiya says.
+
+Addressing the reports claiming otherwise, the lawmaker clarified that only Basmati rice is permitted to be imported for the requirement of tourist hotels.
+
+Rice imports were green-lighted in February when the country was on the verge of facing a rice shortage, he explained.
+
+The rice stocks imported during this period but had been stuck at the port were later allowed to be cleared within a period of one week, Siyambalapitiya added.
+
+◼️
+
+[Data](articles/1102caa9.json)
+
+---
 
 ### A man who attacked the mother and child with a sword -like weapon
 
@@ -422,7 +508,9 @@ With an impressive spot return exceeding 7%, the LKR has surpassed its counterpa
 
 *2024-04-13 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98607/sri-lankan-rupee-outpaces-emerging-market-currencies-in-q1-2024) · `en`
 
-In the first quarter (Q1) of 2024, Sri Lankan rupee (LKR) emerged as the top-performing currency among emerging markets, boasting a remarkable spot return of over 7%, the President’s Media Division (PMD) said citing Bloomberg market data.
+Sri Lankan rupee (LKR) has emerged as the top-performing currency among emerging markets during the first quarter (Q1) of 2024, the President’s Media Division (PMD) says.
+
+Citing Bloomberg market data, the PMD added that the rupee boasted a remarkable spot return of over 7% by outpacing the emerging market currencies during this period.
 
 ◼️
 
@@ -2167,83 +2255,5 @@ They are now being escorted to the Galle Harbour and will be handed over to the 
 [Data](articles/5b458fcb.json)
 
 [Extended Data](ext_articles/5b458fcb.ext.json)
-
----
-
-### Vessel carrying massive cache of narcotics intercepted off Sri Lanka
-
-*2024-04-12 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98594/vessel-carrying-massive-cache-of-narcotics-intercepted-off-sri-lanka) · `en`
-
-Sri Lanka Navy has intercepted a multi-day fishing trawler carrying around 200kg of suspected heroin and crystal methamphetamine (‘Ice’) off the southern coast of the island.
-
-Ten crew members who were on board the vessel were also taken into account.
-
-They are now being escorted to the Galle Harbour and will be handed over to the respective authorities for onward investigations, the navy spokesperson added.
-
-◼️
-
-[Data](articles/69697c16.json)
-
-[Extended Data](ext_articles/69697c16.ext.json)
-
----
-
-### Navy bears withdrawn drugs nearly 200 kilograms
-
-*2024-04-12 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195571) · `si`
-
-Navy seizes nearly 200 kg drugs from two fishing vessels in Sri Lanka, arresting 10 fishermen.
-
-🟩
-
-Two multi-day fishing vessels suspected to be drugs of heroin or ice have been taken into custody by the Navy in deep sea Sri Lanka.
-
-Navy Spokesperson Capithan Gayan Wickremasturiya said that 10 Sri Lankan fishermen were arrested in the two vessels.
-
-◼️
-
-[Data](articles/8ec8aea7.json)
-
-[Extended Data](ext_articles/8ec8aea7.ext.json)
-
----
-
-### Two COVID-19 deaths reported from Kurunegala Teaching Hospital?
-
-*2024-04-12 17:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-COVID-19-deaths-reported-from-Kurunegala-Teaching-Hospital/108-280653) · `en`
-
-Colombo, April 12 (Daily Mirror) - Recent PCR tests conducted on two female patients who had passed away during treatment at the Kurunegala Teaching Hospital have confirmed to be Covid-19.
-
-According to sources, it is not yet conclusive that the deaths can be directly linked to Covid-19. The deaths had occurred yesterday (11).
-
-However, authorities have mandated quarantine measures for both patients and staff members from the ward where the individuals were receiving treatment.
-
-There have been a couple of deaths last year where the patients had tested positive for Coronavirus following their deaths.
-
-◼️
-
-[Data](articles/01403b12.json)
-
-[Extended Data](ext_articles/01403b12.ext.json)
-
----
-
-### Two COVID-19 deaths reported from Kurunegala Teaching Hospital?
-
-*2024-04-12 17:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Two-COVID-19-deaths-reported-from-Kurunegala-Teaching-Hospital/155-280653) · `en`
-
-Colombo, April 12 (Daily Mirror) - Recent PCR tests conducted on two female patients who had passed away during treatment at the Kurunegala Teaching Hospital have confirmed to be Covid-19.
-
-According to sources, it is not yet conclusive that the deaths can be directly linked to Covid-19. The deaths had occurred yesterday (11).
-
-However, authorities have mandated quarantine measures for both patients and staff members from the ward where the individuals were receiving treatment.
-
-There have been a couple of deaths last year where the patients had tested positive for Coronavirus following their deaths.
-
-◼️
-
-[Data](articles/8ea4d267.json)
-
-[Extended Data](ext_articles/8ea4d267.ext.json)
 
 ---

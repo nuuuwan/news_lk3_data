@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 12:03:22**
+As of **2024-04-13 12:18:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,672 (100.0%) of 18,675 articles have been extended.
+18,675 (100.0%) of 18,675 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,45 +52,63 @@ Iran backs Hamas, the Palestinian group fighting Israel in Gaza, as well as vari
 
 [Data](articles/0e717463.json)
 
+[Extended Data](ext_articles/0e717463.ext.json)
+
 ---
 
-### ව්‍යාජ මුදල් නෝට්ටු මුද්‍රණය කළ අයෙක් අත්අඩංගුවට
+### Suspect arrested for printing counterfeit notes
 
 *2024-04-13 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195587) · `si`
 
-ව්‍යාජ මුදල් නෝට්ටු මුද්‍රණය කළ සැකකරුවෙකු අහංගම ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+A 47-year-old from Imaduwa was arrested in Ahangama for printing counterfeit notes, using a laptop, printing press, and stock of paper. Galle Division Criminal Investigation Bureau officers conducted the raid. Further investigations are ongoing.
 
-ගාල්ල කොට්ඨාස අපරාධ විමර්ශන කාර්‌යාංශයේ නිලධාරීන් විසින් සිදු කරන ලද වැටලීමකදී අදාළ සැකකරු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසීය.
+🟩
 
-සැකකරු සතුව තිබී ව්‍යාජ මුදල් නෝට්ටු මුද්‍රණය සඳහා යොදාගත් ලැප්ටොප් පරිගණකයක්, මුද්‍රණ යන්ත්‍රයක්, නෝට්ටු මුද්‍රණය කරන ලද කඩදාසි තොගයක් පොලිස් භාරයට ගෙන ඇත.
+The suspect, printed fake currency notes, has been arrested in the Ahangama area.
 
-අත්අඩංගුවට ගත් සැකකරු 47 හැවිරිදි ඉමදුව ප්‍රදේශයේ පදිංචිකරුවෙක් වන අතර අහංගම පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
+The suspect has been arrested in a raid conducted by the officers of the Galle Division Criminal Investigation Bureau.
+
+The suspect had a laptop used for printing counterfeit notes, a printing press, printed a stock of paper.
+
+The suspect is a 47 year old resident of Imaduwa and the Ahangama Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/1db90256.json)
 
+[Extended Data](ext_articles/1db90256.ext.json)
+
 ---
 
-### மனிதாபிமான பணியாளர்களிற்கு தொடர்ந்தும் ஆபத்தானதாக காணப்படும் காசா – மயிரிழையில் உயிர் தப்பிய அவுஸ்திரேலிய மனிதாபிமான பணியாளர்
+### Australian humanitarian employee who survived the Gaza - Hair Line
 
 *2024-04-13 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181047) · `ta`
 
-காசாவில் மனிதாபிமான பணிகளில் ஈடுபட்டிருந்தவேளை தன்மீது துப்பாக்கி பிரயோகம் மேற்கொள்ளப்பட்டதாக அவுஸ்திரேலியாவை சேர்ந்த மனிதாபிமான பணியாளர் ஒருவர் தெரிவித்துள்ளார்.
+An Australian humanitarian in Gaza was fired upon during a coordinated operation for water and fuel supply, near a checkpoint. The incident, revealed weeks after seven employees were killed in an Israeli attack, highlights the dangers faced by humanitarian workers.
 
-இஸ்ரேலின் தாக்குதலில் அவுஸ்திரேலியாவை சேர்ந்த ஒருவர் உட்பட ஏழுமனிதாபிமான பணியாளர்கள் கொல்லப்பட்ட சில வாரங்களிற்குள் இந்த சம்பவம் குறித்த தகவல்கள் வெளியாகியுள்ளன.
+🟩
 
-யுனிசெவ் பணியாளரும் அவுஸ்திரேலியாவை சேர்ந்த முன்னாள் பத்திரிகையாளருமான டெஸ் இன்கிராம் காசாவில் உள்ள சோதனை சாவடிக்கு அருகில் தனது வாகனத்தை நோக்கி துப்பாக்கி பிரயோகங்கள் இடம்பெற்றன என தெரிவித்துள்ளார்.
+A humanitarian employee from Australia said he was fired at him while he was involved in humanitarian work in Gaza.
 
-எரிபொருள் குடிநீர் விநியோகத்திற்கான ஒருங்கிணைக்கப்பட்ட நடவடிக்கைக்காக வாகனத்தொடரணியில் பயணம் செய்துகொண்டிருந்தவேளை துப்பாக்கி பிரயோகம் இடம்பெற்றதாக அவர் தெரிவித்துள்ளார்.
+The incident has been revealed within a few weeks after the killing of seven -man employees, including a man from Australia, in Israel's attack.
 
-நாங்கள் அந்த பகுதியில் காத்திருந்தவேளை துப்பாக்கி பிரயோகம் ஆரம்பமானது பொதுமக்கள் காணப்பட்ட சோதனைசாவடியிலிருந்தே துப்பாக்கி பிரயோகம் இடம்பெற்றது அவர்கள் சிதறியோடினார்கள் என அவர் தெரிவித்துள்ளார்.
+UNICEV employee and former Australia -based journalist, Tess Ingram Gaza, said there were shootings towards his vehicle near the checkpoint in Gaza.
 
-துப்பாக்கி சன்னங்கள் எனது காரை தாக்கின நான் அமர்ந்திருந்த பகுதிகளின் கண்ணாடிகளை தாக்கின என அவர் தெரிவித்துள்ளார்.
+He said that the firing took place while traveling in the vehicle for a coordinated operation for fuel drinking water supply.
 
-...
+While we were waiting in the area, the shooting began when the public's checkpoint took place.
+
+He said that the gunfire attacked my car and attacked the mirrors of the areas where I was sitting.
+
+He also said that we were well aware of our work to travel to Hamas and Israel, if we traveled.
+
+He added that the attack has revealed how difficult it is to work as humanitarian employees.
+
+◼️
 
 [Data](articles/615562e5.json)
+
+[Extended Data](ext_articles/615562e5.ext.json)
 
 ---
 

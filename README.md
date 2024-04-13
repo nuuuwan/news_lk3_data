@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 19:18:22**
+As of **2024-04-13 19:33:37**
 
 ## Newspaper Stats
 
-*Scraped **18,713** Articles*
+*Scraped **18,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,30 @@ adalk | 1,560
 tamilmirrorlk | 2,186
 adaderanalk | 2,254
 virakesarilk | 2,782
-dailymirrorlk | 2,873
+dailymirrorlk | 2,876
 adaderanasinhalalk | 3,039
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,711 (100.0%) of 18,713 articles have been extended.
+18,713 (100.0%) of 18,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### New Year gifts to needy children...
+
+*2024-04-13 19:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/New-Year-gifts-to-needy-children/110-280680) · `en`
+
+The distribution of New Year gift parcels to children under the care of 336 Child Development Centres nationwide in celebration of the Sinhala and Tamil New Year commenced this morning in the Colombo, Kalutara and Gampaha districts. This effort covered 336 centres, including 40 in the Central Province, 57 in the Eastern Province, 16 in the North-Central Province, 23 in the Northern Province, 19 in the Sabaragamuwa Province, 25 in the Southern Province, 14 in the Uva Province and 106 in the Western Province, ensuring this year's gift parcels reached their intended recipients.
+
+◼️
+
+[Data](articles/c61f6b0b.json)
+
+---
 
 ### Gunmen kill 9 men after abduction in southwest Pakistan, say police
 
@@ -50,6 +62,8 @@ Their bullet-ridden bodies were found from beneath a bridge after one and a half
 
 [Data](articles/9701e6e2.json)
 
+[Extended Data](ext_articles/9701e6e2.ext.json)
+
 ---
 
 ### Bar Association deplores alleged police brutality in Medawachchiya
@@ -67,6 +81,26 @@ In a statement published on Saturday (13), the BASL vehemently condemned any use
 ...
 
 [Data](articles/a12da295.json)
+
+[Extended Data](ext_articles/a12da295.ext.json)
+
+---
+
+### BASL calls for action against police brutality in Medawachchiya
+
+*2024-04-13 18:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/BASL-calls-for-action-against-police-brutality-in-Medawachchiya/108-280678) · `en`
+
+Colombo, April 13 (Daily Mirror)- The Bar Association of Sri Lanka (BASL) has called for swift and transparent action over the alleged assault of a young man by officers of the Medawachchiya Police Traffic Division.
+
+The alleged brutal police attack on the young man resulted in the surgical removal of one of his testicles at the Anuradhapura Teaching Hospital on April 9.
+
+In a statement, the BASL observed that the perpetrators must be held accountable to the fullest extent of the law.
+
+The BASL vehemently condemns any use of brutality by police officers carrying out their official duties.
+
+...
+
+[Data](articles/44803138.json)
 
 ---
 
@@ -207,6 +241,32 @@ The officer was also seen in videos on social media administering CPR to those w
 [Data](articles/8be8618f.json)
 
 [Extended Data](ext_articles/8be8618f.ext.json)
+
+---
+
+### Six dead in mass stabbing at Sydney shopping center
+
+*2024-04-13 16:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Six-dead-in-mass-stabbing-at-Sydney-shopping-center/107-280676) · `en`
+
+Sydney, April 13 ( CNN) - Six people have been killed and several others injured, including a child, in a mass stabbing at a busy shopping center in Sydney, Australian police said.
+
+Police were called to Westfield Bondi Junction on Saturday afternoon local time following reports of multiple people stabbed.
+
+Five people died at the scene and another died later from stab wounds at the hospital, a New South Wales police spokesperson confirmed to CNN.
+
+The suspect - who police said acted alone - was shot dead at the scene by a lone officer.
+
+New South Wales Police’s Assistant Commissioner Anthony Cooke said a senior police inspector was nearby when the attack unfolded.
+
+She arrived on the scene first and was alone when she engaged with the attacker. She shot the offender when he raised a knife at her.
+
+“She discharged her firearm, and that person is now deceased,” Cooke said.
+
+The officer was also seen in videos on social media administering CPR to those who had been injured.
+
+...
+
+[Data](articles/cc49b62d.json)
 
 ---
 
@@ -2179,91 +2239,5 @@ The White House did not immediately respond to a BBC request for comment.
 [Data](articles/aedca9a0.json)
 
 [Extended Data](ext_articles/aedca9a0.ext.json)
-
----
-
-### The plant plant is in danger of extinction
-
-*2024-04-12 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195574) · `si`
-
-The Erythrina Varief, a rare flower, faces extinction due to the Erythrina Gall WASP, a pest reported in multiple countries. This threatens the plant's survival in wet zones, including Kerala Agro Agriya and Agriculture University. Professor Cyril Wijesundera advocates for replanting efforts to restore the plant's status in the Red Database.
-
-🟩
-
-Seying the Sinhala Tamil New Year and a flower has become a rare sight today.
-
-That was because of a pescent of insect and human activity.
-
-There are two local species of plants, and they are a 'Erawrasal' and a 'rot'.
-
-Dry zone is found in the low country, intermediate zone and low country wet zone and is found in the water.
-
-The foregoing is the botanical name of Erythrina Varief.
-
-The tree close to the next month fills the red flower, beautifying the entire environment.
-
-However, due to an insect called Erythrina Gall WASP, the current plant has been threatened.
-
-The insect reported in China, Guam, Hong Kong, India, Japan, Moraius, Taiwan, Thailand and Taiwan, Thailand and found in 2006.
-
-The plant's young leaves and young leaves of the insect also live in the same plant as a society.
-
-The plant is destroyed due to this insect and has been destroyed in many places in the wet zone.
-
-...
-
-[Data](articles/31345573.json)
-
-[Extended Data](ext_articles/31345573.ext.json)
-
----
-
-### Gift parcels to children at 336 child development centres tomorrow
-
-*2024-04-12 19:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gift-parcels-to-children-at-336-child-development-centres-tomorrow/108-280655) · `en`
-
-The distribution of annual gift parcels to children under the care of 336 child development centres throughout the country will be made tomorrow, the President's Media Division (PMD) said.
-
-The gift parcels are distributed in line with President Ranil Wickremesinghe's initiative, which will take place across the island.
-
-Coordinated by the Office of the President, with support from the Office of the Chief of Defence Staff and the Sri Lanka Army, the distribution aims to bring joy to over 10,000 children, alongside the President's New Year message.
-
-Regardless of their circumstances, these centres across various provinces, including the Central, Eastern, Northern, Sabaragamuwa, Southern, Uva and Western, will ensure that every child feels included and valued, extending a sense of family to them.
-
-CBL sponsors this programme facilitating the delivery of these much-awaited parcels to children nationwide.
-
-◼️
-
-[Data](articles/8e5be50d.json)
-
-[Extended Data](ext_articles/8e5be50d.ext.json)
-
----
-
-### Attorney Nuwan de Silva appointed
-
-*2024-04-12 19:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தரணி-நுவான்-டி-சில்வா-நியமனம்/175-335876) · `ta`
-
-Attorney Nuwan de Silva, newly appointed United People's Power Colombo District Organizer, was congratulated by the public in Bambalapitiya, Colombo. He expressed support for Hon. Sajith Premadasa in the presidential election and warned against false information from the JVP-led National People's Front.
-
-🟩
-
-Today (12) general people gathered at a residence in Bambalapitiya, Colombo, Colombo, to congratulate Attorney Nuwan de Silva, who recently appointed the United People's Power Colombo District Organizer.
-
-Attorney -at -Law Nuwan de Silva ...
-
-"The general public is interested in a change in the country and expects the Hon. Sajith Premadasa in the upcoming presidential election and expects success."Said.
-
-"Do not rely on the false information on the JVP -led National People's Front. I urge the public to be aware of the prevailing situation in the country and support the right course."
-
-Following this, lawyer Nuwan de Silva presented hundreds of rice packages to the meeting in view of the economic crisis in the country.
-
-West Colombo Organizer of the United People's Power
-
-◼️
-
-[Data](articles/997a0d88.json)
-
-[Extended Data](ext_articles/997a0d88.ext.json)
 
 ---

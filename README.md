@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 19:50:36**
+As of **2024-04-13 20:03:18**
 
 ## Newspaper Stats
 
-*Scraped **18,717** Articles*
+*Scraped **18,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,58 @@ adalk | 1,560
 tamilmirrorlk | 2,186
 adaderanalk | 2,254
 virakesarilk | 2,782
-dailymirrorlk | 2,876
+dailymirrorlk | 2,877
 adaderanasinhalalk | 3,040
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,716 (100.0%) of 18,717 articles have been extended.
+18,717 (100.0%) of 18,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### උඩුවිල විදුහලේ දරුවෙකුගෙන් නව නිපැයුමක්
+### Madagascar woman trying to enter SL with Rs.26 Mn worth swallowed Coke nabbed at BIA
+
+*2024-04-13 19:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Madagascar-woman-trying-to-enter-SL-with-Rs-26-Mn-worth-swallowed-Coke-nabbed-at-BIA/108-280681) · `en`
+
+Colombo, April 13 (Daily Mirror)- A female Madagascar national who tried to enter Sri Lanka with swallowed capsules containing cocaine worth over Rs. 26 million was intercepted by the Sri Lanka Customs at the Bandaranaike International Airport (BIA) yesterday (12) evening.
+
+The Customs Narcotics Control Unit officials stationed at the BIA Arrival Terminal stopped the arriving passenger on suspicion that she may be carrying drugs.
+
+Since they could not find anything in her belongings the woman was taken into custody under suspicion that she might be carrying drugs in her body.
+
+She was then admitted to the Negombo Hospital for an X ray scan and the authorities found capsules containing drugs in her abdomen.
+
+Since yesterday evening the officials have retrieved 57 capsules containing 620 grams of cocaine and the operation is continuing, as they suspect there are more.
+
+...
+
+[Data](articles/dff1f9db.json)
+
+---
+
+### Invention of a child of Uduvil
 
 *2024-04-13 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195600) · `si`
 
-තිස්සමහාරාමය ගෝණගමුව උඩුවිල විද්‍යාලයේ ඉගෙනුම ලබන 14 හැවිරිදි එච්. කේ. එසර නිලුපුල් සිසුවා විසින් නව නිපැයුම් කිහිපයක් සිදු කර තිබේ.
+Tissamaharama, Uduwila College, celebrated the inventions of Ezzara Nilapul, including Bluetooth techniques, JBL Bulb, and Solar Power Sharster, and Sajith Premadasa's modern laptop for IT industry advancement.
 
-එම නව නිපැයුම් අතර Bluetooth තාක්ෂණයෙන් ක්‍රියාත්මක වන JBL Bulb සහ සූර්ය බල ශක්තියෙන් ක්‍රියාත්මක වන ජංගම දුරකථන බැටරි ආරෝපණ යන්ත්‍රයක් (Solar Power Mobile Phone Charger) ද වෙයි.
+🟩
 
-මෙම සිසුවා විසින් තොරතුරු තාක්ෂණ ක්ෂේත්‍රයට දක්වන උනන්දුව සහ දක්ෂතාව තවදුරටත් වැඩි දියුණු කරගැනීමට විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා විසින් නවීන ලැප්ටොප් පරිගණක යන්ත්‍රයක් ලබාදීමට කටයුතු කළේය.
+Tissamaharama, Gangamuwa Uduwila College, 14,. K. The Ezzara Nilapul student has committed several inventions.
+
+Between these inventions, Bluetooth techniques operate with Bluetooth technology, JBL Bulb and Solar Power Sharster.
+
+Opposition Leader Sajith Premadasa made a modern laptop machine to further enhance the interest and talent of the IT industry.
 
 ◼️
 
 [Data](articles/cdc8130b.json)
+
+[Extended Data](ext_articles/cdc8130b.ext.json)
 
 ---
 
@@ -2213,27 +2239,5 @@ Prodded for an answer to know whether it was a bank holiday, he said, “You jus
 [Data](articles/77e9e6cd.json)
 
 [Extended Data](ext_articles/77e9e6cd.ext.json)
-
----
-
-### Sri Lanka to grow 1.9-pct in 2024 despite tax hikes: ADB
-
-*2024-04-12 20:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-grow-1-9-pct-in-2024-despite-tax-hikes-adb-158412/) · `en`
-
-ECONOMYNEXT – Sri Lanka is expected to grow 1.9 percent in 2024, and speed up to 2.5 percent in 2025, as the island recovers from a contraction last year, the Asian Development Bank said.
-
-Sri Lanka’s currency collapsed in 2022 after two years of aggressive macro-economic policy where money was printed to boost growth and taxes were also cut, throwing large section of the population into poverty and pushing up inflation.
-
-“In Sri Lanka, growth will rebound to 1.9 percent in 2024 and 2.5 percent in 2025 from the 2.3 percent contraction in 2023,” the ADB said in its Asian Development Outlook report.
-
-“This will be driven by rising output in services, resumption in industrial projects, and continuous reform aimed at improving the business climate.
-
-“Still, tax increases will dampen the recovery in private consumption and investment.”
-
-...
-
-[Data](articles/a951124a.json)
-
-[Extended Data](ext_articles/a951124a.ext.json)
 
 ---

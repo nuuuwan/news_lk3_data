@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 14:03:16**
+As of **2024-04-13 14:18:23**
 
 ## Newspaper Stats
 
-*Scraped **18,686** Articles*
+*Scraped **18,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
-economynextcom | 1,043
+economynextcom | 1,045
 adalk | 1,560
 tamilmirrorlk | 2,184
 adaderanalk | 2,246
@@ -26,11 +26,51 @@ adaderanasinhalalk | 3,033
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,685 (100.0%) of 18,686 articles have been extended.
+18,686 (100.0%) of 18,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### After PM’s Chinese visit, US NSA talks to Sri Lanka President’s advisor on peace, security
+
+*2024-04-13 14:00:00* · [`economynextcom`](https://economynext.com/after-pms-chinese-visit-us-nsa-talks-to-sri-lanka-presidents-advisor-on-peace-security-158419/) · `en`
+
+ECONOMYNEXT – The United States National Security Advisor (NSA) Jake Sullivan held talks with Sri Lanka President’s Senior Advisor on National Security Sagala Ratnayaka focusing on regional security issues this week.
+
+The conversation between the two comes days after Sri Lanka Prime Minister Dinesh Gunawardena ended an official visit to China in which he met President Xi Jinping and his counterpart Li Qiang in Beijing amid discussions over further investments in Sri Lanka and concerns over banning Chinese research ships.
+
+The United States along with India is highly concerned over increasing Chinese influence in Sri Lanka, which is located in a strategic location in the Asia.
+
+China already owns a port and a proclaimed land next to the main Colombo port in Sri Lanka and analysts say the Beijing’s ownership of assets has raised doubts if China is planning to use Sri Lanka as a military base. China has denied this and said its relationship with Sri Lanka is only based on commercial aspects.
+
+...
+
+[Data](articles/f24471ef.json)
+
+---
+
+### Four killed in a businessman in Sydney, Australia
+
+*2024-04-13 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/181048) · `ta`
+
+In Sydney, Australia, four people were killed in a businessman incident, reportedly involving a knife. Police have issued warnings and reports suggest multiple targets.
+
+🟩
+
+The incident took place shortly before the incident, called Sydney's Pontie Jungson.
+
+Police have warned the public that a person is found with a knife inside a businessman, according to a massive incident.
+
+There are reports that many have been targeted for a knife.
+
+◼️
+
+[Data](articles/d8cd358c.json)
+
+[Extended Data](ext_articles/d8cd358c.ext.json)
+
+---
 
 ### Answer the Israeli Iran prepare 100 missiles
 
@@ -85,28 +125,6 @@ The suspect has been shot by the police, but there is no accurate information.
 [Data](articles/f74cbd02.json)
 
 [Extended Data](ext_articles/f74cbd02.ext.json)
-
----
-
-### Four killed in a businessman in Sydney, Australia
-
-*2024-04-13 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/181048) · `ta`
-
-In Sydney, Australia, four people were killed in a businessman incident, reportedly involving a knife. Police have issued warnings and reports suggest multiple targets.
-
-🟩
-
-The incident took place shortly before the incident, called Sydney's Pontie Jungson.
-
-Police have warned the public that a person is found with a knife inside a businessman, according to a massive incident.
-
-There are reports that many have been targeted for a knife.
-
-◼️
-
-[Data](articles/d8cd358c.json)
-
-[Extended Data](ext_articles/d8cd358c.ext.json)
 
 ---
 
@@ -427,6 +445,26 @@ The monthly sales of widely used Octane 92 recorded 112, 545 Metric Tonnes (MT) 
 [Data](articles/1e5ba429.json)
 
 [Extended Data](ext_articles/1e5ba429.ext.json)
+
+---
+
+### Sri Lanka Diesel sales at 7-month high in March, Petrol at 3-month high
+
+*2024-04-13 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-diesel-sales-at-7-month-high-in-march-petrol-at-3-month-high-158417/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s monthly fuel sales from retail distributors have been on the rise, the official data from Power and Energy Minister showed.
+
+The total fuel sales through state run Ceypetco, India’s LIOC, and China’s Sinopec are on the rise and have peaked monthly higher in March, signaling a possible recovery of the battered economy that saw an unprecedented economic crisis and contractions.
+
+“Fuel supply and demand has normalized since the Covid Pandemic and the Economic crisis,” Minister Kanchana Wijesekera said in his X (formerly Twitter) platform.
+
+The monthly sales of auto diesel recorded 137, 927 Metric Tonnes (MT) in March, its highest since August 2023 when it recorded 147,586 MT, the data released by the Minister showed.
+
+The monthly sales of widely used Octane 92 recorded 112, 545 Metric Tonnes (MT) in March, its highest since December 2023 when it recorded 113,078 MT.
+
+...
+
+[Data](articles/37d74651.json)
 
 ---
 
@@ -1260,19 +1298,27 @@ The immigration officials detained them and alerted the Central Crime Branch pol
 
 ---
 
-### ආගමන හා විගමන නිලධාරීන් විරෝධයක
+### Immigration and Emigration Officers in objection
 
 *2024-04-12 22:32:37* · [`adalk`](https://www.ada.lk/breaking_news/ආගමන-හා-විගමන-නිලධාරීන්-විරෝධයක/11-409065) · `si`
 
-කටුනායක ගුවන් තොටුපොළ ප්‍රමුඛව ශ්‍රී ලංකාව තුළ ක්‍රියාත්මක සියලුම ගුවන් තොටුපොළ සහ වරායන් තුළ 04/12 උදෑසන 09.00 සිට 04/13 දින උදෑසන 09.00 පැය දක්වා " අත් වල කළු පටි බැද " වෘත්තීය සමිති විරෝධතා ව්‍යාපාරයක නිරත වීම ශ්‍රී ලංකා ආගමන විගමන නිලධාරීන්ගේ සංගමය විසින්  ආරම්භ කර තිබේ .
+Immigration and Emigration Officers in Sri Lanka are protesting at Katunayake airport against changes in their duties, including handling visa applications for tourists and foreigners.
 
-ඒ අනුව මෙම විරෝධතා ව්‍යාපාරය කටුනායක ගුවන් තොටුපොළ තුළ ද මේ වනවිට ක්‍රියාත්මක වෙමින් පවතී .
+🟩
 
-දැනට ආගමන විගමන දෙපාර්තමේන්තුව සතුව පවතින උග්‍ර නිලධාරී හිගය , නිසි කළට තනතුරු සදහා පුරප්පාඩු නොපිරවීම , රාජකාරී සේවා මුර ක්‍රමය වෙනස් කිරීම , රජය ස්ථිර වීසා ප්‍රතිපත්තියක නොපිහිටා කටයුතු කිරීම නිසා සංචාරකයන් වේශයෙන් ජාත්‍යන්තර ජාවාරම්කරුවන් රට තුළට ඇතුළු වීම , වීසා අයදුම්පත් සම්බන්ධයෙන් කටයුතු කිරීමට විදේශීය පෞද්ගලික සමාගමකට භාර දීම යනාදී කරුණු මුල් කර ගනිමින් මෙම විරෝධතා ව්‍යාපාරය ආරම්භ කර තිබේ .
+Sri Lanka Institute of Immigration Officers of the Immigration Officers of the Sri Lanka Institute of Immigrationary Officers (Immigration)Available.
 
-...
+Accordingly, the protest is currently underway at the Katunayake airport.
+
+The integrated officer of the Immigration and Emigration and the Department of Immigration and Emigration Ltd has been in line with the posts for the posts and change the duties service for the tourist destiny to take on a foreign racketeers to a foreign private company to enroll into the country, including visa applications.The protest has commenced taking on the matter.
+
+The Airporting Officer in charge of the airport and the Ordinary Operations of the Airport and the Ordinary Operations of the Airport and the Ordinary Operations of the Airport and Katunayake airport have been imposed.
+
+◼️
 
 [Data](articles/09d2b7ac.json)
+
+[Extended Data](ext_articles/09d2b7ac.ext.json)
 
 ---
 
@@ -2207,55 +2253,5 @@ Addressing the media at the Ruwanwella area today, he assured that the preparati
 [Data](articles/3df7449d.json)
 
 [Extended Data](ext_articles/3df7449d.ext.json)
-
----
-
-### Release from a week trapped in an island
-
-*2024-04-12 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195568) · `si`
-
-"Robbins, a new global story, tells of three friends rescued from an island in Micronesia. They were found using a signal device, thanks to the American Coast Guard's search. The island, known for its small wells, was their refuge."
-
-🟩
-
-Robbins are a new story of the popular global priority between small and small.
-
-The brand was built around a man who was struggled on an island.
-
-The Robins The Crea was a reorganized news of the microneysia, located in the western Pacific region, a remaenting news.
-
-Upon the liberation of three of the friends who were stuck on the island had been released.
-
-After their vessel was in danger at the center of the ocean, they had come to this island.
-
-The American Coast Guard has commenced operations in search of the people with their disappearance.
-
-The people have been found that the people are on the island, using the phases, a helper, which was created on the beach.
-
-They were cleaned with the little well on the small wells on the island, which is considered by fishermen.
-
-◼️
-
-[Data](articles/109cba7b.json)
-
-[Extended Data](ext_articles/109cba7b.ext.json)
-
----
-
-### Sri Lanka political elites’ vested interests linked to weak institutional structures: Study
-
-*2024-04-12 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-political-elites-vested-interests-linked-to-weak-institutional-structures-study-158301/) · `en`
-
-ECONOMYNEXT – Politically connected persons who declare commitments to address various types of economic crimes, often during election cycles, have vested interests in institutions that investigate and prosecute economic crimes, a recent study by the Centre for Policy Alternatives (CPA) has found.
-
-“Therefore, once these political elites are in office, they are often reluctant to invest in building capacities as any form of institutional strengthening could lead to their private gains being investigated as well.”
-
-The study, Understanding Connections between Human Rights and Economic Crimes, combines the findings on key informant interviews (KIIs), and analysis of the challenges to the country’s efforts to combat corruption and ensure accountability within its governance framework.
-
-...
-
-[Data](articles/aa668f1a.json)
-
-[Extended Data](ext_articles/aa668f1a.ext.json)
 
 ---

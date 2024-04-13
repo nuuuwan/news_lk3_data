@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 20:33:35**
+As of **2024-04-13 20:48:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,042
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,719 (100.0%) of 18,721 articles have been extended.
+18,721 (100.0%) of 18,721 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,33 +44,41 @@ During this period, 366,000 vehicles utilized the expressways, the RDA said.
 
 [Data](articles/d4d44516.json)
 
+[Extended Data](ext_articles/d4d44516.ext.json)
+
 ---
 
-### නව සොයාගැනීම් 3කින් ශ්‍රී ලාංකික නාමය ඉහළට ඔසවා තැබූ තිළිණ
+### Sri Lankan name was upheld by 3 innovations
 
 *2024-04-13 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195603) · `si`
 
-ඒ වසර ගණනාවක් පුරා සිදුකරන ලද පර්යේෂණ ඔස්සේ නව මී මැස්සන් විශේෂ 03ක් සොයාගනිමිනි.
+Thilina Hettiarachchi discovered three new bee species, Lasioglossum Dilisena, using honey-notulent pollen, with Professor Jason Gibbs and Manbotta University's support. Mrs. Padmini Pathirana named the bee after her mother.
 
-ලොව පුරා මී මැසි විශේෂයන් 20,000කට ආසන්න සංඛ්‍යාවක් ජීවත්වන අතර ඉන් මී පැණි සාදන්නේ සියයට 10ක් පමණි.
+🟩
 
-තිළිණ හෙට්ටිආරච්චි සිය පර්යේෂණ ඔස්සේ හඳුනාගෙන ඇත්තේ, මී පැණි නොසාදන මල් පරාග මත යැපෙන මී මැස්සන් වර්ග තුනකි.
+Over the years, research has discovered three species of new bees.
 
-මෙම සොයාගැනීම් සිදුකර ඇත්තේ, උතුරු අමෙරිකාවේ Lasioglossum (ලැසියෝග්ලොසම්) කුලයේ මී මැසි නිදර්ශක පරීක්ෂාවේදීය.
+Nearly 20,000 bee species live worldwide alone, which only makes the honey.
 
-මේ මී මැසි වර්ගයේ ශරීරයේ ලෝහමය වයනයක් දක්නට ලැබෙන නිසා එය Lasioglossum dilisena (ලැසියෝග්ලොසම් දිලිසෙන) යන නම තිළිණ විසින් යෝජනා කර තිබේ.
+Thilina Hettiarachchi has identified three varieties of bees dependent on honey-notulent pollen on pollen.
 
-ඊට තිළිණගේ මහාචාර්යවරයා වන ජේසන් ගිබ්ස් ද කැමැත්ත පළ කර ඇත්තේ ‘‘දිලිසෙන‘‘ යන නම උච්චාරණයට ඇති පහසුව හේතුවෙනි.
+These discoveries were made by Lasioglossum in the Lasioglossum of North America (Lasiolossum) caste test.
 
-මැනිබොටා විශ්වවිද්‍යාලයේ තිළිණගේ මේ පර්යේෂණය අධීක්ෂණය කරනු ලබන මහාචාර්ය ජේසන් ගිබ්ස් පවසන්නේ, මේ මී මැස්සන් වෙනත් භාෂාවකින් නාමකරණය කිරීම ද සිත්ගන්නා සුළු බවය.
+The name Lasioglossum Dilisena has proposed the name Lasioglossum Dilisena, as the bee variation is visible.
 
-එමෙන්ම තමා සිදුකරන ලද පර්යේෂණ ඔස්සේ තම මවට උපහාර පිදීමට ද තිළිණ අමතක කර නැත.
+Gilina professor Jason Gibbs also agreed to the ease of acceleration.
 
-ඒ, තමා විසින් සොයාගන්නා ලද මී මැසි උප ගණයක් සිය මව වන පද්මිණි පතිරණ මහත්මියගේ නමින් නම් කරමිනි.
+Professor Jason Gibbs says the research at the Manbotta University, says Professor Jason Gibbs said that the bees are also interesting to nominate in another language.
+
+There is also not forgotiation to tribute to her mother through the research he performed.
+
+It was named by Mrs. Padmini Pathirana, a beverage substance he had discovered.
 
 ◼️
 
 [Data](articles/db0a3210.json)
+
+[Extended Data](ext_articles/db0a3210.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 22:49:02**
+As of **2024-04-13 23:03:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,045
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,727 (100.0%) of 18,729 articles have been extended.
+18,729 (100.0%) of 18,729 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,27 +50,35 @@ Last year in January, wires worth Rs. 2.4 million of four lamp post were stolen 
 
 [Data](articles/f78e8b7d.json)
 
+[Extended Data](ext_articles/f78e8b7d.ext.json)
+
 ---
 
-### මෙරටට ඇතුළු වූ විදෙස් කාන්තාවක් අත්අඩංගුවට
+### Foreign woman arrested
 
 *2024-04-13 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195606) · `si`
 
-මිලියන 26කට ආසන්න කොකේන් මත්ද්‍රව්‍ය බවට සැක කෙරෙන ගුලි 57ක් සමග මැඩගස්කර් ජාතික කාන්තාවක් අත්අඩංගුවට ගෙන ති‌බේ.
+A Madagascar national, 38, arrested at Katunayake airport with 57 million cocaine drugs, smuggled from Ethiopia via Mumbai, India.
 
-38 හැවිරිදි එම කාන්තාව ඊයේ (12) කටුනායක ගුවන්තොටුපොළ තුළදී අත්අඩංගුවට ගෙන තිබුණේ රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින්ය.
+🟩
 
-මෙම සැකකාරිය ඉතියෝපියාවේ සිට ඉන්දියාවේ මුම්බායි හරහා මෙරටට පැමිණ තිබුණි.
+A Madagascar national has been arrested along with 57 million cocaine drugs.
 
-එහිදී එම කාන්තවගේ  ශරීරය තුළ සඟවාගෙන සිටි මත්ද්‍රව්‍ය ඉවතට ගැනීම සඳහා මීගමුව රජය රෝහලට ඇතුළ කරන ලදී.
+The 38-year-old woman was arrested by the Customs Drug Administration at the Katunayake airport.
 
-මේ වන විට මෙම කාන්තාව තම ශරීරයේ සඟවාගෙන සිටි මත්ද්‍රව්‍ය ගුලි 57 එළියට ගෙන ඇති අතර එහි බර ග්‍රෑම් 620 කට ආසන්න බව වාර්තා වෙයි.
+The suspect had come to Sri Lanka through the Mumbai, India, from Ethiopia.
 
-වැඩිදුර පරීක්ෂණ සඳහා සැකකාර කාන්තාව හා මත්ද්‍රව්‍ය ශ්‍රී ලංකා පොලිසියේ මත්ද්‍රව්‍ය නාශක කාර්යාංශය වෙත භාර දී තිබේ.
+The government of the Negombo was instructed to take drugs hidden in the body of the woman's body.
+
+The woman has been taken out of the 57 drug gulus in his body and is now nearly 620 grams.
+
+The suspect and the drug have been handed over to the Sri Lanka Police Offens.
 
 ◼️
 
 [Data](articles/712959ce.json)
+
+[Extended Data](ext_articles/712959ce.ext.json)
 
 ---
 

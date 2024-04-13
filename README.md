@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 13:18:19**
+As of **2024-04-13 13:34:01**
 
 ## Newspaper Stats
 
-*Scraped **18,681** Articles*
+*Scraped **18,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,92 @@ dailyftlk | 1,018
 economynextcom | 1,043
 adalk | 1,559
 tamilmirrorlk | 2,184
-adaderanalk | 2,245
-virakesarilk | 2,780
+adaderanalk | 2,246
+virakesarilk | 2,781
 dailymirrorlk | 2,865
-adaderanasinhalalk | 3,031
+adaderanasinhalalk | 3,032
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,680 (100.0%) of 18,681 articles have been extended.
+18,681 (100.0%) of 18,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### රුපියල ට ලෝකයෙන් සහතිකයක්
+### ඔස්ට්‍රේලියාවේ පිහි ඇනුමක්
+
+*2024-04-13 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195589) · `si`
+
+ඔස්ට්‍රේලියාවේ සිඩ්නි නුවර සාප්පු සංකීර්ණයක පිහි ඇනුමක් සිදුකර ඇති බව වාර්තාවී තිබේ.
+
+පුද්ගලයෙකු විසින් සාප්පු සංකීර්ණයේ සිටි පිරිසකට පිහියකින් පහරදී ඇති බවත් තුවාලකරුවන් රෝහල්ගත කර ඇති බවත් විදෙස් මාධ්‍ය පවසයි.
+
+සැකකරුට පොලීසිය විසින් වෙඩිතබා ඇති නමුත් ඒ සම්බන්ධයෙන් නිවැරදි තොරතුරක් වාර්තාවී නොමැති බව විදෙස් මාධ්‍ය වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/f74cbd02.json)
+
+---
+
+### அவுஸ்திரேலியாவின் சிட்னியில் வணிகவளாகமொன்றில் கத்திக்குத்து தாக்குதல் - நால்வர் பலி
+
+*2024-04-13 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/181048) · `ta`
+
+சிட்னியின் பொன்டி ஜங்சன் எனப்படும் பகுதியில் இந்த வன்முறை சம்பவம் சற்று முன்னர் இடம்பெற்றுள்ளது.
+
+வணிகவளாகமொன்றிற்குள் நபர் ஒருவர் கத்தியுடன் காணப்படுவதாக பொதுமக்களை எச்சரித்துள்ள காவல்துறையினர் பாரிய சம்பவம் இடம்பெற்றுள்ளதாக தெரிவிக்கின்றனர்.
+
+பலர் கத்திக்குத்திற்கு இலக்காகியுள்ளனர் என தகவல்கள் வெளியாகின்றன துப்பாக்கி பிரயோகம் இடம்பெற்றதாகவும் தகவல்கள் வெளியாகின்றன.
+
+◼️
+
+[Data](articles/d8cd358c.json)
+
+---
+
+### Certificate from the world to the rupee
 
 *2024-04-13 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195588) · `si`
 
-2024 වසරේ පළමු කාර්තුවේදී ශ්‍රී ලංකා රුපියල ලෝකයේ නැගී එන වෙළෙඳපොළ අතුරින් ඉහළම කාර්ය සාධනය පෙන්වූ මුදල් ඒකකය බවට පත්වී ඇති බව බ්ලූම්බර්ග් වෙළඳපොළ දත්ත පෙන්වාදී ඇති බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+In Q1 2024, the Sri Lankan rupee outperformed all others, gaining over 7% from the start of the year, according to the Presidential Media Unit.
 
-එය වසර ආරම්භයේදී පැවති අගයට සාපේක්ෂව 7%කට වඩා වැඩි කැපී පෙනෙන වර්ධනයක් පෙන්නුම් කර ඇති බවද එහි සඳහන් ය.
+🟩
+
+The Sri Lankan rupee has shown that the Sri Lankan rupee has become the top performance unit in the first quarter of 2024, the Presidential Media Unit said.
+
+It has shown more than 7% over the beginning of the year.
 
 ◼️
 
 [Data](articles/d4db57f1.json)
+
+[Extended Data](ext_articles/d4db57f1.ext.json)
+
+---
+
+### Man shot in Sydney mall after reports of mass stabbing
+
+*2024-04-13 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98608/man-shot-in-sydney-mall-after-reports-of-mass-stabbing) · `en`
+
+A man was shot at a mall in Sydney on Saturday following reports of multiple people stabbed, police in the city said.
+
+Emergency services were called to Westfield Bondi Junction just before 4 p.m. (0600 GMT) following the reports, New South Wales Police said in a statement.
+
+“Inquiries are continuing in relation to the incident and there are no further details.”
+
+Hundreds of people were evacuated from the shopping centre after the incident, news site news.com.au reported.
+
+“Even 20 minutes after people were rushed out of the mall, I saw SWAT teams of people sweeping the surrounding streets,” one of the witnesses said.
+
+One witness said they saw a woman lying on the ground and took shelter in a jewellery store.
+
+◼️
+
+[Data](articles/819bffdf.json)
 
 ---
 
@@ -2173,55 +2233,5 @@ The Department of Meteorology continues to monitor the situation closely and urg
 [Data](articles/143fc552.json)
 
 [Extended Data](ext_articles/143fc552.ext.json)
-
----
-
-### SLPP to take disciplinary action against GL, others
-
-*2024-04-12 14:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SLPP-to-take-disciplinary-action-against-GL-others/155-280647) · `en`
-
-Colombo, April 12 (Daily Mirror) - The Sri Lanka Podujana Peramuna (SLPP) is to take disciplinary action against MP Prof. G.L. Peiris and others who have signed an agreement with the Samagi Jana Balawegaya (SJB).
-
-These MPs were elected to Parliament on the SLPP ticket. Later, they defected from the party and sat in opposition. A week ago, they signed an electoral pact with the main opposition, the SJB.
-
-The SLPP, at its executive committee meeting, decided to initiate disciplinary action against them for signing an agreement with another party while being members elected on its ticket at the last election.
-
-◼️
-
-[Data](articles/3e12af29.json)
-
-[Extended Data](ext_articles/3e12af29.ext.json)
-
----
-
-### Preparing for New Year
-
-*2024-04-12 14:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Preparing-for-New-Year/110-280646) · `en`
-
-People were buying goods even today to celebrate the Sinhala and Tamil New Year, with most seen buying firecrackers. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/add870de.json)
-
-[Extended Data](ext_articles/add870de.ext.json)
-
----
-
-### SLPP to take disciplinary action against GL, others
-
-*2024-04-12 14:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-to-take-disciplinary-action-against-GL-others/108-280647) · `en`
-
-Colombo, April 12 (Daily Mirror) - The Sri Lanka Podujana Peramuna (SLPP) is to take disciplinary action against MP Prof. G.L. Peiris and others who have signed an agreement with the Samagi Jana Balawegaya (SJB).
-
-These MPs were elected to Parliament on the SLPP ticket. Later, they defected from the party and sat in opposition. A week ago, they signed an electoral pact with the main opposition, the SJB.
-
-The SLPP, at its executive committee meeting, decided to initiate disciplinary action against them for signing an agreement with another party while being members elected on its ticket at the last election.
-
-◼️
-
-[Data](articles/ec05b715.json)
-
-[Extended Data](ext_articles/ec05b715.ext.json)
 
 ---

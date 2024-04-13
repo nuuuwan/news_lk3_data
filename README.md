@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 19:03:31**
+As of **2024-04-13 19:18:22**
 
 ## Newspaper Stats
 
-*Scraped **18,711** Articles*
+*Scraped **18,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,018
 economynextcom | 1,045
 adalk | 1,560
 tamilmirrorlk | 2,186
-adaderanalk | 2,252
+adaderanalk | 2,254
 virakesarilk | 2,782
 dailymirrorlk | 2,873
 adaderanasinhalalk | 3,039
@@ -26,23 +26,67 @@ adaderanasinhalalk | 3,039
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,710 (100.0%) of 18,711 articles have been extended.
+18,711 (100.0%) of 18,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### අධිවේගී මාර්ග ආදායම මෙන්න
+### Gunmen kill 9 men after abduction in southwest Pakistan, say police
+
+*2024-04-13 19:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98615/gunmen-kill-9-men-after-abduction-in-southwest-pakistan-say-police) · `en`
+
+Gunmen shot and killed nine men after abducting them from a bus in a troubled province in southwestern Pakistan bordering Afghanistan and Iran, officials said on Saturday.
+
+No one has claimed the responsibility for the Friday night attack in Balochistan province in Pakistan’s southwest.
+
+Separatist ethnic Baloch militant groups in the mineral-rich region have been fighting for decades against the state, saying it denies them their share of regional resources.
+
+Several gunmen intercepted the Iran-bound bus in Noshki district, taking the nine men with them after determining they were from the eastern province of Punjab, said police officer Abdullah Mengal. “All of them were travelling to Taftan,” he said.
+
+Their bullet-ridden bodies were found from beneath a bridge after one and a half hour, said the district deputy commissioner, Habibullah Musakhail.
+
+...
+
+[Data](articles/9701e6e2.json)
+
+---
+
+### Bar Association deplores alleged police brutality in Medawachchiya
+
+*2024-04-13 18:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98614/bar-association-deplores-alleged-police-brutality-in-medawachchiya) · `en`
+
+The Bar Association of Sri Lanka (BASL) has expressed its ‘utmost outrage and horror’ at the recent assault of a young man allegedly perpetrated by officers of the Medawachchiya Police Traffic Division on April 07.
+
+It is understood that the assault also necessitated the surgical removal of one testicle of the victim two days later while being treated at the Anuradhapura Teaching Hospital.
+
+In a statement published on Saturday (13), the BASL vehemently condemned any use of brutality by police officers while carrying out their official duties.
+
+“Such reprehensible acts not only contravene the fundamental principles of justice and human rights but also violate international instruments such as the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment.
+
+...
+
+[Data](articles/a12da295.json)
+
+---
+
+### Here is the highway income
 
 *2024-04-13 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195599) · `si`
 
-ඉකුත් 10,11සහ 12 යන දින තුළ අධිවේගී මාර්ගවලින් ලද ආදායම රුපියල් මිලියන 126ක් බව මාර්ග සංවර්ධන අධිකාරිය පවසයි.
+The Road Development Authority reported highway revenue of Rs. 126 million from 2010 to 2012, according to D. Mr. Kahatapitiya, Director of External Operations Maintenance and Management Division.
 
-අධිවේගි මාර්ග මෙහෙයුම් නඩත්තු හා කළමනාකරණ අංශයේ අධ්‍යක්ෂ ආර්. ඒ. ඩී. කහටපිටිය මහතා මේ බව සඳහන් කළේය.
+🟩
+
+The Road Development Authority (Road Development Authority) stated that the revenue from highways is Rs. 126 million during the past 10,11 and 12.
+
+Director of External Operations Maintenance and Management Division. it. D. Mr. Kahatapitiya made this statement.
 
 ◼️
 
 [Data](articles/344411dc.json)
+
+[Extended Data](ext_articles/344411dc.ext.json)
 
 ---
 
@@ -2221,51 +2265,5 @@ West Colombo Organizer of the United People's Power
 [Data](articles/997a0d88.json)
 
 [Extended Data](ext_articles/997a0d88.ext.json)
-
----
-
-### SLPP to take disciplinary action against G.L. Peiris
-
-*2024-04-12 19:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98597/slpp-to-take-disciplinary-action-against-gl-peiris) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) has decided to take disciplinary action against MP Prof. G. L. Peiris, the party’s general secretary Sagara Kariyawasam said.
-
-According to him, the decision was reached by the executive committee of SLPP after taking into account the fact that he entered into an electoral pact with the Samagi Jana Balawegaya (SJB).
-
-Earlier this month, a group of six dissident SLPP parliamentarians, who are now members of the Freedom People’s Congress (Nidahasa Janatha Sabhawa), signed a Memorandum of Understanding (MoU) with the SJB.
-
-The agreement was inked between the main opposition and six MPs of Nidahasa Janatha Sabhawa including Prof. G.L. Peiris, Dilan Perera, Dr. Nalaka Godahewa, K.P. Kumarasiri, Dr. Upul Galappaththi and Wasantha Yapa Bandara, to form the SJB-led new alliance, ‘Samagi Jana Sandhanaya’.
-
-...
-
-[Data](articles/6a181df9.json)
-
-[Extended Data](ext_articles/6a181df9.ext.json)
-
----
-
-### 13 arrested for excavating treasure
-
-*2024-04-12 19:20:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/புதையல்-தோண்டிய-13-பேர்-கைது/75-335875) · `ta`
-
-13 arrested for treasure excavation in Trincomalee. Suspects aged 21-52, from Ratnapura, Kegalle, and Thevanipiyawara. Four in Morawewa. Investigations ongoing.
-
-🟩
-
-Thirteen persons were arrested on Thursday (11) on suspicion of excavating treasure in the Trincomalee Morawewa Police Division.
-
-The suspects have been arrested in accordance with the information available to the Morawewa police station, police said.
-
-The suspects were between the ages of 21 and 52, living in Ratnapura, Kegalle and Thevanipiyawara areas.
-
-Morawewa said that four of the 13 arrested were residing in the Morawewa Police Division and that the woman was involved in the travelers of the van that the female was found and the treasure was exchanged via WhatsApp.
-
-Police said that separate investigations are being carried out in the presence of the Trincomalee Court Magistrate after investigations.
-
-◼️
-
-[Data](articles/0bfeab81.json)
-
-[Extended Data](ext_articles/0bfeab81.ext.json)
 
 ---

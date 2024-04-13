@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 12:18:09**
+As of **2024-04-13 12:33:38**
 
 ## Newspaper Stats
 
-*Scraped **18,675** Articles*
+*Scraped **18,677** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,32 @@ dailyftlk | 1,018
 economynextcom | 1,043
 adalk | 1,559
 tamilmirrorlk | 2,184
-adaderanalk | 2,244
+adaderanalk | 2,245
 virakesarilk | 2,780
-dailymirrorlk | 2,861
+dailymirrorlk | 2,862
 adaderanasinhalalk | 3,030
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,675 (100.0%) of 18,675 articles have been extended.
+18,675 (100.0%) of 18,677 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### Sri Lankan rupee outpaces emerging market currencies in Q1 2024
+
+*2024-04-13 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98607/sri-lankan-rupee-outpaces-emerging-market-currencies-in-q1-2024) · `en`
+
+In the first quarter (Q1) of 2024, Sri Lankan rupee (LKR) emerged as the top-performing currency among emerging markets, boasting a remarkable spot return of over 7%, the President’s Media Division (PMD) said citing Bloomberg market data.
+
+◼️
+
+[Data](articles/df848ba1.json)
+
+---
 
 ### Joe Biden expects Iran to attack Israel ‘sooner than later’
 
@@ -77,6 +89,22 @@ The suspect is a 47 year old resident of Imaduwa and the Ahangama Police are con
 [Data](articles/1db90256.json)
 
 [Extended Data](ext_articles/1db90256.ext.json)
+
+---
+
+### Train derailed at Kalutara station
+
+*2024-04-13 11:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-derailed-at-Kalutara-station/108-280667) · `en`
+
+A train derailed this morning at the Kalutara railway station when the Maradana-bound Kalutara train entered the station, the Railways Department said.
+
+Three train compartments of the train that had left Maradana at 5.45 a.m. derailed at 7.20 a.m.
+
+Due to the derailment commuters travelling to their home towns today for the Sinhala Tamil New Year have been inconvenienced.
+
+◼️
+
+[Data](articles/f1f47d05.json)
 
 ---
 
@@ -2211,47 +2239,5 @@ Additionally, the SLTB has arranged numerous bus services to run along all the e
 [Data](articles/0f99acea.json)
 
 [Extended Data](ext_articles/0f99acea.ext.json)
-
----
-
-### U.S. support for Philippines, Japan defense ‘ironclad’ - Biden says amid growing China provocations
-
-*2024-04-12 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98590/us-support-for-philippines-japan-defense-ironclad-biden-says-amid-growing-china-provocations) · `en`
-
-U.S. President Joe Biden said Thursday that U.S. defense commitment to Pacific allies was “ironclad” as he gathered Philippine President Ferdinand Marcos Jr. and Japanese Prime Minister Fumio Kishida at the White House in the midst of growing concern about provocative Chinese military action in the Indo-Pacific.
-
-The U.S. and the Philippines have had a mutual treaty in place for more than 70 years. Biden’s forceful reinforcement of the American commitment comes in the midst of persistent skirmishes between the Philippine and Chinese coast guards in the disputed South China Sea.
-
-“The United States defense commitments to Japan and to the Philippines are ironclad. They’re ironclad,” Biden said as he began three-way talks at the White House with Kishida and Marcos. “As I said before, any attack on Philippine aircraft, vessels or armed forces in the South China Sea would invoke our mutual defense treaty.”
-
-...
-
-[Data](articles/6d985d0d.json)
-
-[Extended Data](ext_articles/6d985d0d.ext.json)
-
----
-
-### A pronouncement of strong lightning
-
-*2024-04-12 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195566) · `si`
-
-The Department of Meteorology warns of increased lightning strikes in Western, Southern, Sabaragamuwa, North, and Northwestern provinces, and Moneragala district at night, advising the public to take precautions against lightning.
-
-🟩
-
-The Department of Meteorology has issued an announcement in powerful lightning.
-
-Accordingly, there is an increase in lightning strikes in the Western, Southern, Sabaragamuwa, North and North and Northwestern provinces and at night in the Moneragala district.
-
-There may be temporary localized strong winds during thundershowers.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce the dangers of lightning.
-
-◼️
-
-[Data](articles/57315557.json)
-
-[Extended Data](ext_articles/57315557.ext.json)
 
 ---

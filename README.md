@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 11:18:17**
+As of **2024-04-13 11:33:58**
 
 ## Newspaper Stats
 
-*Scraped **18,671** Articles*
+*Scraped **18,672** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ tamilmirrorlk | 2,184
 adaderanalk | 2,243
 virakesarilk | 2,779
 dailymirrorlk | 2,861
-adaderanasinhalalk | 3,028
+adaderanasinhalalk | 3,029
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,670 (100.0%) of 18,671 articles have been extended.
+18,671 (100.0%) of 18,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### ශ්‍රී ලංකා - දකුණු අප්‍රිකා දෙවන තරගය අද
+
+*2024-04-13 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195586) · `si`
+
+සංචාරක ශ්‍රී ලංකා කාන්තා කණ්ඩායම සහ දකුණු අප්‍රිකානු කාන්තා කණ්ඩායම අතර දෙවන එක්දින ක්‍රිකට් තරගය අද (13) පැවැත් වෙයි.
+
+තරග 03කින් සමන්විත එක්දින තරගාවලියේ පැවති පළමු තරගය වර්ෂාව හේතුවන් අත්හැර දැමීමට සිදුවිය.
+
+◼️
+
+[Data](articles/47bdbdd4.json)
+
+---
 
 ### Two injured in shooting at a house party in Hambegamuwa
 
@@ -45,6 +59,8 @@ According to the police, two people, aged 24 and 42 years, had sustained injurie
 ◼️
 
 [Data](articles/f06e4db7.json)
+
+[Extended Data](ext_articles/f06e4db7.ext.json)
 
 ---
 
@@ -2215,23 +2231,5 @@ Sinha, who had served as India’s finance minister, and external affairs minist
 [Data](articles/2464968d.json)
 
 [Extended Data](ext_articles/2464968d.ext.json)
-
----
-
-### Vegetable prices increase
-
-*2024-04-12 12:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vegetable-prices-increase/108-280641) · `en`
-
-The National Consumer Front (NCF) today claimed that the retail selling price of a kilogramme of vegetables has recorded a higher value.
-
-Accordingly, a kilogramme of carrot has increased to Rs. 450, leeks to Rs. 350, beans to Rs. 430 and tomatoes to Rs. 300.
-
-Therefore, NCF Chairman Asela Sampath requested people to refrain from buying vegetables during this festive season.
-
-◼️
-
-[Data](articles/21928a08.json)
-
-[Extended Data](ext_articles/21928a08.ext.json)
 
 ---

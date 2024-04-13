@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 11:03:12**
+As of **2024-04-13 11:18:17**
 
 ## Newspaper Stats
 
-*Scraped **18,670** Articles*
+*Scraped **18,671** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,018
 economynextcom | 1,043
 adalk | 1,559
 tamilmirrorlk | 2,184
-adaderanalk | 2,242
+adaderanalk | 2,243
 virakesarilk | 2,779
 dailymirrorlk | 2,861
 adaderanasinhalalk | 3,028
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,028
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,670 (100.0%) of 18,670 articles have been extended.
+18,670 (100.0%) of 18,671 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
+
+### Two injured in shooting at a house party in Hambegamuwa
+
+*2024-04-13 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98605/two-injured-in-shooting-at-a-house-party-in-hambegamuwa) · `en`
+
+Two people have been injured in a shooting incident reported in Hambegamuwa area on Friday night (12).
+
+Two unidentified assailants on a motorcycle had fired several rounds of gunshots at a group of individuals who were hanging out in the garden during a house party. Reportedly, the owner of the house had thrown a party for his cousin brothers and friends.
+
+According to the police, two people, aged 24 and 42 years, had sustained injuries in the incident and are now receiving medical attention at the Hambegamuwa and Embilipitiya hospitals.
+
+◼️
+
+[Data](articles/f06e4db7.json)
+
+---
 
 ### Georgi approaches will receive will
 
@@ -2217,23 +2233,5 @@ Therefore, NCF Chairman Asela Sampath requested people to refrain from buying ve
 [Data](articles/21928a08.json)
 
 [Extended Data](ext_articles/21928a08.ext.json)
-
----
-
-### Vietnam businesswoman sentenced to death, central banker to life over bad credit
-
-*2024-04-12 11:52:00* · [`economynextcom`](https://economynext.com/vietnam-businesswoman-sentenced-to-death-central-banker-to-life-over-bad-credit-158323/) · `en`
-
-ECONOMYNEXT – A court in Vietnam has sentenced to death Truong My Lan, head of Van Thinh Phat property group who was also involved in restructuring a troubled bank, while sentencing three others to life imprisonment, including a central bank supervisor.
-
-Lan, who was also a key shareholder of Saigon Commercial Bank, was sentenced to 20 years in prison for violating credit regulations, 20 years for bribing a State Bank of Vietnam (central bank) official, in addition to the death penalty, penalty for embezzlement, reports said.
-
-Do Thi Nhan, former Director of bank supervision division II at the State Bank of Vietnam was sentenced to life for accepting bribes during a re-structure of three failed banks over a decade ago, which eventually emerged as Saigon Commercial Bank.
-
-...
-
-[Data](articles/e21a4243.json)
-
-[Extended Data](ext_articles/e21a4243.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-13 15:34:43**
+As of **2024-04-13 15:50:41**
 
 ## Newspaper Stats
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 3,035
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,692 (100.0%) of 18,694 articles have been extended.
+18,694 (100.0%) of 18,694 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-13 (Saturday)
 
-### நாடளாவிய ரீதியில் விஷேட பாதுகாப்பு
+### Special security
 
 *2024-04-13 15:19:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-ரீதியில்-விஷேட-பாதுகாப்பு/175-335904) · `ta`
 
-புத்தாண்டு காலத்தில் முன்னெடுக்கப்படும் கொண்டாட்ட நிகழ்வுகளின் போது விசேட பாதுகாப்பு வேலைத்திட்டத்தை நடைமுறைப்படுத்துவதற்கு பொலிஸ் தலைமையகம் நடவடிக்கை எடுத்துள்ளது.
+During New Year's, 14,000 police officers, 500 Special Task Force members, and 400 soldiers are deployed for special security under Inspector General Deshabandu's directive.
 
-பொலிஸ்மா அதிபர் தேசபந்து தென்னகோனின் பணிப்புரையின் கீழ் இதற்காக 14,000 பொலிஸ் உத்தியோகத்தர்கள் சேவையில் ஈடுபடுத்தப்பட்டுள்ளதாக பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+🟩
 
-இதற்கமைவாக, 14,000 பொலிஸ் உத்தியோகத்தர்கள், 500 பொலிஸ் விசேட அதிரடிப்படையினர் மற்றும் 400 இராணுவத்தினர் இந்த பாதுகாப்பு வேலைத்திட்டத்தில் ஈடுபடுத்தப்பட்டுள்ளனர். R
+The Police Headquarters has taken steps to implement the special security program during the New Year's celebrations.
+
+According to the Police Media Unit, 14,000 police officers have been deployed under the directive of the Inspector General of Police, Deshabandu.
+
+As a result, 14,000 police officers, 500 police Special Task Force and 400 soldiers have been deployed in the security program.. Remble
 
 ◼️
 
 [Data](articles/d1d7d416.json)
 
+[Extended Data](ext_articles/d1d7d416.ext.json)
+
 ---
 
-### ජපානයේ ජනගහන යළිත් පහළට
+### Japan's population back down
 
 *2024-04-13 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195593) · `si`
 
-පසුගිය වසරට සාපේක්ෂව එය සියයට බින්දුවයි දශම 4යි 8කින් පහත වැටී ඇති බව වාර්තා වෙයි.
+Japan's population has decreased by 4.8% this year, according to the Ministry of Internal Affairs. By 2050, the adult population could reach 47%.
 
-එරට අභ්‍යන්තර කටයුතු අමාත්‍යංශය විසින් සිදුකළ සමීක්ෂණයකින් මෙම තොරතුරු අනාවරණය වී ඇති බව සඳහන් විය.
+🟩
 
-මේ අතර ජපානයේ තනිව ජීවත්වන වැඩිහිටි ජනගහනය 2050 වන විට සියයට 47ක් දක්වා ඉහළ යනු ඇති බවට එරට පරීක්ෂණ ආයතනයක් නිකුත් කළ වාර්තාවකින් පෙන්වා දී තිබේ.
+It is reported that it has fallen by 4 decimals and 8 decimals compared to last year.
+
+According to a survey conducted by the Ministry of Internal Affairs, this was revealed.
+
+Meanwhile, a report issued by an investigation issued by a investigation by 2050 the adult population in Japan is reaching up to 47 percent.
 
 ◼️
 
 [Data](articles/75726024.json)
+
+[Extended Data](ext_articles/75726024.ext.json)
 
 ---
 

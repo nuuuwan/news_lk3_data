@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-14 10:30:48**
+As of **2024-04-14 11:38:49**
 
 ## Newspaper Stats
 
-*Scraped **18,764** Articles*
+*Scraped **18,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,144 @@ newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,046
-adalk | 1,563
+adalk | 1,564
 tamilmirrorlk | 2,193
-adaderanalk | 2,261
+adaderanalk | 2,262
 virakesarilk | 2,786
-dailymirrorlk | 2,889
-adaderanasinhalalk | 3,052
+dailymirrorlk | 2,891
+adaderanasinhalalk | 3,054
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,757 (100.0%) of 18,764 articles have been extended.
+18,766 (100.0%) of 18,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-14 (Sunday)
 
-### இஸ்ரேலிற்கு மரணம் - ஆயிரக்கணக்கான ஈரான் மக்கள் வீதியில் இறங்கி தாக்குதலிற்கு ஆதரவு
+### Shots fired outside Salman Khan’s house in Mumbai’s Bandra
+
+*2024-04-14 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98623/shots-fired-outside-salman-khans-house-in-mumbais-bandra) · `en`
+
+Shots were fired outside actor Salman Khan’s house in Mumbai’s Bandra on Sunday morning.
+
+At least four rounds were fired outside the Galaxy Apartments, where the actor resides, at around 5am today.
+
+According to reports, two unidentified gunmen on a motorbike were involved in the incident.
+
+The local police and the crime branch have started a probe into the incident.
+
+In March last year, an e-mail threatening Khan was received at his office following which the Mumbai Police registered an FIR against gangsters Lawrence Bishnoi and Goldy Brar.
+
+◼️
+
+[Data](articles/5cd510c5.json)
+
+---
+
+### Blessings for New Year...
+
+*2024-04-14 11:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Blessings-for-New-Year/110-280691) · `en`
+
+A pirith chanting ceremony was held last night at the Siri Vajiragnana Dhamma School, Maharagama in view of the dawn of the Sinhala and Tamil New Year. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/f39da2f0.json)
+
+---
+
+### Buses operate from today
+
+*2024-04-14 11:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Buses-operate-from-today/108-280690) · `en`
+
+Buses will arrange for passengers to Colombo today for their requirements, bus associations said.
+
+Meanwhile, the Sri Lanka Transport Board (SLTB) said buses will operate from today.
+
+Many people arrived in Colombo from areas like Kandy, Badulla, Batticoloa and the Southern Province.
+
+However, people will not have to wait longer in queues. Buses will be provided one after the other for the convenience of the passengers.
+
+◼️
+
+[Data](articles/85238da5.json)
+
+---
+
+### The operation enclosed the fishing vessel of 3.7 billion drugs
+
+*2024-04-14 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195615) · `si`
+
+The Sri Lanka Navy seized a fishing vessel in the south sea, capturing 3.7 billion drugs, including 179 kg of ice drugs and over 83 kilos of heroin.
+
+🟩
+
+The Sri Lanka Navy has won the Sri Lankan multi-day fishing vessel in the south sea.
+
+The vessel had 179 kg of ice drugs and over 83 kilos of heroin.
+
+◼️
+
+[Data](articles/5c9689a3.json)
+
+[Extended Data](ext_articles/5c9689a3.ext.json)
+
+---
+
+### Sulman Khan's house was shot of superbollywood actor
+
+*2024-04-14 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195614) · `si`
+
+Salman Khan's Mumbai house was shot at by two unidentified persons on a motorbike, leaving 5 bullet holes. Mumbai Police and NIA are investigating.
+
+🟩
+
+Bollywood actor Salman Khan, along today, has shot a shot to the Mumbai house today (14).
+
+Two unidentified persons who came in a motorbike around 5 am, two unidentified persons have fled the site.
+
+The Indian media reported that there are about 5 shots of shootings on the outside walls.
+
+The Mumbai Police have launched an investigation into the matter and the intersathing of the Mumbai has launched an investigation.
+
+The National Investigation Agency of India (NIA) has said that the 10-leading gangsters are the top 10 targets in a leading gang.
+
+The Mumbai Police had worked to increase the security of Salman Khan due to threatening phone calls last year.
+
+◼️
+
+[Data](articles/0faf2ba1.json)
+
+[Extended Data](ext_articles/0faf2ba1.ext.json)
+
+---
+
+### Death of Israel
 
 *2024-04-14 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/181065) · `ta`
 
-இஸ்ரேலிற்கு எதிரான ஈரானின் முன்னொருபோதும் இல்லாத பாரிய  ஏவுகணை மற்றும் ஆளில்லா விமானதாக்குதல்களிற்கு ஈரானிய மக்கள் வீதிகளில் இறங்கி ஆதரவை வெளியிட்டு வருகி;ன்றனர்.
+Iranians celebrate missile strikes on Israel, waving flags and banners in Tehran's squares, expressing support for Iran's military actions.
 
-ஆண்டவனின் வெற்றி நெருங்கிவிட்டது போன்ற பதாகைகளுடன் வீதிகளில் இறங்கி தங்கள் மகிழ்ச்சியை வெளிப்படுத்திவரும் ஈரானிய மக்கள் ஈரான் பாலஸ்தீன கொடிகளுடன் காணப்படுகின்றனர்.
+🟩
 
-டெஹ்ரானின் பாலஸதீன சதுக்கத்தில் காணப்படும் ஆயிரக்கணக்கான மக்கள் இஸ்ரேலிற்கு மரணம் அமெரிக்காவிற்கு மரணம் என கோசம் எழுப்புகின்றனர்.
+Iranian people have come down the streets and expressed their support for Iran's unprecedented missile and unmanned air strikes against Israel.
 
-அடுத்த அடி மிகமோசமானதாக காணப்படும் என்ற வாசகங்கள் பொறிக்கப்பட்ட பதாகையொன்றை டெஹ்ரான் பாலஸ்தீன சதுக்கத்தில் காணமுடிகின்றது.
+The Iranian people are seen with Iranian Palestinian flags, who are expressing their happiness on the streets with banners as the Lord's victory is approaching.
 
-ஈரான் தலைநகரில் உள்ள பிரிட்டிஸ் தூதரகத்தின் முன்னாலும் அமெரிக்காவின் தாக்குதல் உயிரிழந்த ஈரானின் இராணுவதளபதி காசிம் சுலைமானியின் கல்லறைக்கு முன்னாலும் பெருமளவு மக்கள் திரண்டுள்ளனர்.
+Thousands of people found in Tehran's Balasadena Square are claiming to be the death of the United States to Israel.
+
+The next step is to be found in Tehran Palestine Square, an inscribed banner.
+
+A large number of people have gathered in front of the British embassy in the Iranian capital and the American attack, Iran's military commander, Qasim Sulemani.
 
 ◼️
 
 [Data](articles/21aa523d.json)
+
+[Extended Data](ext_articles/21aa523d.ext.json)
 
 ---
 
@@ -65,6 +169,8 @@ Condemnation from the United Nations chief and others was swift, with France say
 ...
 
 [Data](articles/05829549.json)
+
+[Extended Data](ext_articles/05829549.ext.json)
 
 ---
 
@@ -109,6 +215,8 @@ He stated that the service rendered by the farmers to produce food for the count
 ...
 
 [Data](articles/36855dbf.json)
+
+[Extended Data](ext_articles/36855dbf.ext.json)
 
 ---
 
@@ -156,6 +264,8 @@ UN Secretary-General Antonio Guterres and General Assembly President Dennis Fran
 
 [Data](articles/8df8441a.json)
 
+[Extended Data](ext_articles/8df8441a.ext.json)
+
 ---
 
 ### Sri Lanka Navy brings ashore seized ICE, heroin worth Rs. 3.7 billion
@@ -175,6 +285,26 @@ The Commander of the Sri Lanka Navy Vice Admiral Priyantha Perera inspected the 
 ...
 
 [Data](articles/79448d1f.json)
+
+[Extended Data](ext_articles/79448d1f.ext.json)
+
+---
+
+### ජනපති නිසා ළමා මධ්‍යස්ථානවල දරුවන්ටත් අවුරුදු
+
+*2024-04-14 08:50:05* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-නිසා-ළමා-මධ්‍යස්ථානවල-දරුවන්ටත්-අවුරුදු/11-409073) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයකට අනුව සිංහල දෙමළ අලුත් අවුරුද්ද වෙනුවෙන් රට පුරා පිහිටි ළමා සංවර්ධන මධ්‍යස්ථාන 336ක  ආරක්ෂාව යටතේ සිටින දරු දැරියන් සඳහා  අවුරුදු ත්‍යාග පාර්සල් බෙදාදීම ඊයේ (13) දිවයින පුරා සිදු කෙරිණි.
+
+කොළඹ, කළුතර හා ගම්පහ දිස්ත්‍රික්කවල අද උදෑසන ආරම්භ වූ මෙම වැඩසටහන සෑම දිස්ත්‍රික්කයක්ම ආවරණය වන පරිදි අලුත් අවුරුදු රසකැවිලි හා ත්‍යාග පාර්සල් දරුවන්ට බෙදාදීම  දවසපුරාම සිදු කරන ලදී.
+
+නිවසින් හෝ ආදරණීය දෙමාපියන්ගෙන් බැහැරව සිටියත් සෑම දරුවකුටම අවුරුදු සතුට ලබාදීම වෙනුවෙන් “ළමා නිවාසවල සිටින දූ දරුවන්ටත් අවුරුදු” මැයෙන් ජනාධීපති කාර්යාලය, සිලෝන් බිස්කට් සමාගම ඇතුළු පෞද්ගලික අංශයේ අනුග්‍රහයෙන් මෙම වැඩසටහන සංවිධාන කර තිබිණි.
+
+ජනාධිපතිවරයාගේ අලුත් අවුරුදු පණිවිඩය සමග රස කැවිලි හා ත්‍යාග පාර්සල් 10,000කට අධික ප්‍රමාණයක් දරුවන් අතර බෙදා දීම මෙහිදී සිදු කෙරිණි.
+
+...
+
+[Data](articles/507bac38.json)
 
 ---
 
@@ -276,6 +406,8 @@ Happy Bengali, Khmer, Lao, Myanmarese, Nepali, Sinhalese, Tamil, Thai and Vishu 
 
 [Data](articles/24db71e6.json)
 
+[Extended Data](ext_articles/24db71e6.ext.json)
+
 ---
 
 ### 679 health vehicles missing
@@ -323,6 +455,8 @@ Daniel Hagari, spokesman for the Israel Defense Forces (IDF), said that around 2
 ...
 
 [Data](articles/55d7fb72.json)
+
+[Extended Data](ext_articles/55d7fb72.ext.json)
 
 ---
 
@@ -2105,137 +2239,5 @@ Colombo, April 13 (Daily Mirror) - The Executive Board of the International Mone
 [Data](articles/8325b95f.json)
 
 [Extended Data](ext_articles/8325b95f.ext.json)
-
----
-
-### Sri Lanka Diesel sales at 7-month high in March, Petrol at 3-month high
-
-*2024-04-13 10:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-monthly-fuel-sales-growing-diesel-at-7-month-high-in-march-petrol-at-3-month-high-158417/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s monthly fuel sales from retail distributors have been on the rise, the official data from Power and Energy Minister showed.
-
-The total fuel sales through state run Ceypetco, India’s LIOC, and China’s Sinopec are on the rise and have peaked monthly higher in March, signaling a possible recovery of the battered economy that saw an unprecedented economic crisis and contractions.
-
-“Fuel supply and demand has normalized since the Covid Pandemic and the Economic crisis,” Minister Kanchana Wijesekera said in his X (formerly Twitter) platform.
-
-The monthly sales of auto diesel recorded 137, 927 Metric Tonnes (MT) in March, its highest since August 2023 when it recorded 147,586 MT, the data released by the Minister showed.
-
-The monthly sales of widely used Octane 92 recorded 112, 545 Metric Tonnes (MT) in March, its highest since December 2023 when it recorded 113,078 MT.
-
-...
-
-[Data](articles/1e5ba429.json)
-
-[Extended Data](ext_articles/1e5ba429.ext.json)
-
----
-
-### Sri Lanka Diesel sales at 7-month high in March, Petrol at 3-month high
-
-*2024-04-13 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-diesel-sales-at-7-month-high-in-march-petrol-at-3-month-high-158417/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s monthly fuel sales from retail distributors have been on the rise, the official data from Power and Energy Minister showed.
-
-The total fuel sales through state run Ceypetco, India’s LIOC, and China’s Sinopec are on the rise and have peaked monthly higher in March, signaling a possible recovery of the battered economy that saw an unprecedented economic crisis and contractions.
-
-“Fuel supply and demand has normalized since the Covid Pandemic and the Economic crisis,” Minister Kanchana Wijesekera said in his X (formerly Twitter) platform.
-
-The monthly sales of auto diesel recorded 137, 927 Metric Tonnes (MT) in March, its highest since August 2023 when it recorded 147,586 MT, the data released by the Minister showed.
-
-The monthly sales of widely used Octane 92 recorded 112, 545 Metric Tonnes (MT) in March, its highest since December 2023 when it recorded 113,078 MT.
-
-...
-
-[Data](articles/37d74651.json)
-
-[Extended Data](ext_articles/37d74651.ext.json)
-
----
-
-### Kristalina Georgieva selected for second term as IMF’s Managing Director
-
-*2024-04-13 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98604/kristalina-georgieva-selected-for-second-term-as-imfs-managing-director-) · `en`
-
-The International Monetary Fund (IMF) has selected Kristalina Georgieva to serve as its Managing Director for a second five-year term starting on October 1, 2024.
-
-IMF’s Executive Board took the decision on Friday (12) by consensus.
-
-In a press release, the global lender said that in line with the selection process it had established on March 13, 2024, the Board has held several rounds of discussions, including with Georgieva, the sole candidate nominated for the position, before making its decision.
-
-Georgieva has served as IMF’s Managing Director since October 1, 2019. The Managing Director is the chief of the IMF’s operating staff and Chair of the Executive Board. The Managing Director is assisted by four Deputy Managing Directors in overseeing the Fund’s operations, which serve its membership through about 3,100 staff.
-
-...
-
-[Data](articles/c504e85b.json)
-
-[Extended Data](ext_articles/c504e85b.ext.json)
-
----
-
-### Two injured in shooting in Hambegamuwa
-
-*2024-04-13 09:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-injured-in-shooting-in-Hambegamuwa/108-280665) · `en`
-
-Hambegamuwa, April 13 (Daily Mirror) - Two people were injured in a shooting in Hambegamuwa last night, police said.
-
-They said that two individuals in a house at Seenuggala in Hambegamuwa were shot at by two persons who arrived on a motorcycle.
-
-The incident occurred while the owner of the house and his cousins were having a party.
-
-Police said that a 24-year-old and a 42-year-old were injured in the shooting and were admitted to the Hambegamuwa and Embilipitiya hospitals.
-
-◼️
-
-[Data](articles/75adb5fc.json)
-
-[Extended Data](ext_articles/75adb5fc.ext.json)
-
----
-
-### 200 women and men sexually harassed doctor
-
-*2024-04-13 09:18:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/200-பெண்கள்-ஆண்களிடம்-பாலியல்-தொல்லை-பலே-டாக்டர்/50-335902) · `ta`
-
-Dr. Terrick Dot, a rheumatology specialist in Boston, has been accused of sexually harassing over 200 patients, including women and men, for years. He allegedly performed unnecessary tests and engaged in sexual misconduct, particularly with female patients. The case has shocked the medical community and led to his administrative leave and removal from the Charles River Medical Association.
-
-🟩
-
-Dr. Dod has been accused of showing her handcuffs, ranging from girls to 60 years of age without age.
-
-We see doctors as gods because they do the service to save precious lives. We do not think about the testing and therapeutic methods they recommend. But there are occasional complaints that a few doctors behave as a betrayal of this belief. Such incidents cause disgrace to the medical community.
-
-The incident has been a shocking incident for a doctor from the US, who has been sexually harassed for many years beyond treatment for patients.. More than 200 women and various men have sued him.
-
-Dr. Terrick Dot belongs to Massachusett State Boston. She is a specialist doctor who treats rheumatism and arthritis and worked at Brikam and Women's Hospital.
-
-...
-
-[Data](articles/c70b2770.json)
-
-[Extended Data](ext_articles/c70b2770.ext.json)
-
----
-
-### Losing a life of time
-
-*2024-04-13 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195584) · `si`
-
-In Katubedda, a 28-year-old was killed, and two others injured by a sharp weapon. The victim was identified, and the suspect arrested. Further investigations are ongoing.
-
-🟩
-
-One person was killed and two others were injured as a result of a sharp weapon in Katubedda.
-
-Police said that the victim was revealed in preliminary investigations into the incident.
-
-The three injured persons were rushed to the Panadura hospital and a 28 year old man was killed.
-
-The suspect has been arrested and the Moratuwa police have commenced further investigations.
-
-◼️
-
-[Data](articles/ddb32a61.json)
-
-[Extended Data](ext_articles/ddb32a61.ext.json)
 
 ---

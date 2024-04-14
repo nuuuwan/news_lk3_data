@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-14 11:38:49**
+As of **2024-04-14 13:42:01**
 
 ## Newspaper Stats
 
-*Scraped **18,770** Articles*
+*Scraped **18,773** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,70 @@ adalk | 1,564
 tamilmirrorlk | 2,193
 adaderanalk | 2,262
 virakesarilk | 2,786
-dailymirrorlk | 2,891
-adaderanasinhalalk | 3,054
+dailymirrorlk | 2,892
+adaderanasinhalalk | 3,056
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,766 (100.0%) of 18,770 articles have been extended.
+18,770 (100.0%) of 18,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-14 (Sunday)
+
+### ඉරානය ඊශ්‍රායලයට එල්ල කළ ප්‍රහාරය හමුවේ අමෙරිකාව ගත් තීරණය
+
+*2024-04-14 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195617) · `si`
+
+ඉරානය විසින් ඊශ්‍රායලයට එල්ල කළ ප්‍රහාරය සම්බන්ධයෙන් අද (14) දිනයේ ජී 07 රටවල නායකයින්ගේ සාකච්ඡාවක් කැඳවන බව අමෙරිකානු ජනාධිපති ජෝ බයිඩන් පවසයි.
+
+ඉරානය විසින් සිදුකළ නිර්ලජ්ජිත ප්‍රහාරය සම්බන්ධයෙන් දක්වන ප්‍රතිචාර පිළිබඳ සාකච්ඡා කිරීම මෙහි අරමුණ බව අමෙරිකානු ජනාධිපතිවරයා ප්‍රකාශ කර ඇත.
+
+ඊශ්‍රායලය සමග සමීපව කටයුතු කරන අතර එරට අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහු සමග දුරකථන මාර්ගය ඔස්සේ ආරක්ෂක තත්ත්වය සම්බන්ධයෙන් තමා සාකච්ඡා කළ බව ද අමෙරිකානු ජනාධිපතිවරයා ප්‍රකාශ කර තිබේ.
+
+ඉරානය විසින් ඊයේ (13) දිනයේ දී ඊශ්‍රායලයට ඩ්‍රෝන සහ මිසයිල ප්‍රහාර එල්ල කළ අතර ඩ්‍රෝන යනා රැසක් විනාශ කිරීමට පියවර ගත් බව අමෙරිකාව ප්‍රකාශ කර ඇත.
+
+කෙසේවෙතත් මෙම ප්‍රහාරවලින් සිදුවූ හානිය පිළිබඳ මෙතෙක් නිශ්චිතව අනාවරණ කර නොමැති බව සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/2b7fe637.json)
+
+---
+
+### දිවි අහිමි කරවමින් තමන්ටම පත්තු වූ වෙඩිල්ල
+
+*2024-04-14 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195616) · `si`
+
+සතුන් දඩයම් කිරීම සඳහා ඇටවූ ගිනි අවියක් ක්‍රියාත්මකවීමෙන් මදුරාගොඩ ආඳාපොළ ප්‍රදේශයේ පුද්ගලයෙකු මියගොස් තිබේ.
+
+පොලීසිය ප්‍රකාශ කළේ මෙරට නිශ්පාදනය කරන ලද ගිනි අවියක් මෙලෙස ක්‍රියාත්මක වී ඇති අතර ඉන් බරපතළ තුවාල ලැබූ මියගොස් ඇති පුද්ගලයා ප්‍රතිකාර සඳහා රිදීගම රෝහලට ඇතුළත් කිරීමේ දී මියගොස් ඇති බවය.
+
+මෙලෙස මියගොස් ඇත්තේ 51 හැවිරිදි දොඩම්ගස්ලන්ද ප්‍රදේශයේ පදිංචිව සිටි අයෙකි.
+
+මියගිය පුද්ගලයා කලක සිට ගිනිඅවි උපයෝගී කර ගනිමින් සතුන් දඩයමේ නිරතව සිටි අයෙකු වන අතර ඔහු විසින් අටවන ලද ගිනිඅවියක් මෙලෙස ක්‍රියාත්මක වී ඇති බව පොලීසිය සිදුකළ මූලික විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/4c38ce72.json)
+
+---
+
+### Shots fired outside Salman Khan’s house
+
+*2024-04-14 11:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shots-fired-outside-Salman-Khans-house/108-280692) · `en`
+
+April 14 (Times of India) - Shots were fired outside actor Salman Khan's house in Mumbai's Bandra on Sunday morning.
+
+Mumbai Police's Crime Branch has reached the spot for investigation.
+
+◼️
+
+[Data](articles/69e8826b.json)
+
+---
 
 ### Shots fired outside Salman Khan’s house in Mumbai’s Bandra
 
@@ -50,6 +102,8 @@ In March last year, an e-mail threatening Khan was received at his office follow
 
 [Data](articles/5cd510c5.json)
 
+[Extended Data](ext_articles/5cd510c5.ext.json)
+
 ---
 
 ### Blessings for New Year...
@@ -61,6 +115,8 @@ A pirith chanting ceremony was held last night at the Siri Vajiragnana Dhamma Sc
 ◼️
 
 [Data](articles/f39da2f0.json)
+
+[Extended Data](ext_articles/f39da2f0.ext.json)
 
 ---
 
@@ -79,6 +135,8 @@ However, people will not have to wait longer in queues. Buses will be provided o
 ◼️
 
 [Data](articles/85238da5.json)
+
+[Extended Data](ext_articles/85238da5.ext.json)
 
 ---
 
@@ -290,21 +348,29 @@ The Commander of the Sri Lanka Navy Vice Admiral Priyantha Perera inspected the 
 
 ---
 
-### ජනපති නිසා ළමා මධ්‍යස්ථානවල දරුවන්ටත් අවුරුදු
+### Children in children's centers due to President
 
 *2024-04-14 08:50:05* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-නිසා-ළමා-මධ්‍යස්ථානවල-දරුවන්ටත්-අවුරුදු/11-409073) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයකට අනුව සිංහල දෙමළ අලුත් අවුරුද්ද වෙනුවෙන් රට පුරා පිහිටි ළමා සංවර්ධන මධ්‍යස්ථාන 336ක  ආරක්ෂාව යටතේ සිටින දරු දැරියන් සඳහා  අවුරුදු ත්‍යාග පාර්සල් බෙදාදීම ඊයේ (13) දිවයින පුරා සිදු කෙරිණි.
+President Ranil Wickremesinghe distributed New Year's gifts to children in 336 child development centers across Sri Lanka, organized by the Presidential Office and Ceylon Biscuits. The Army, under Silva, assisted in the distribution.
 
-කොළඹ, කළුතර හා ගම්පහ දිස්ත්‍රික්කවල අද උදෑසන ආරම්භ වූ මෙම වැඩසටහන සෑම දිස්ත්‍රික්කයක්ම ආවරණය වන පරිදි අලුත් අවුරුදු රසකැවිලි හා ත්‍යාග පාර්සල් දරුවන්ට බෙදාදීම  දවසපුරාම සිදු කරන ලදී.
+🟩
 
-නිවසින් හෝ ආදරණීය දෙමාපියන්ගෙන් බැහැරව සිටියත් සෑම දරුවකුටම අවුරුදු සතුට ලබාදීම වෙනුවෙන් “ළමා නිවාසවල සිටින දූ දරුවන්ටත් අවුරුදු” මැයෙන් ජනාධීපති කාර්යාලය, සිලෝන් බිස්කට් සමාගම ඇතුළු පෞද්ගලික අංශයේ අනුග්‍රහයෙන් මෙම වැඩසටහන සංවිධාන කර තිබිණි.
+According to President Ranil Wickremesinghe, 336 child development centers, which are under security under the Sinhala, 336 child development centers across the country, was held island wide yesterday (13).
 
-ජනාධිපතිවරයාගේ අලුත් අවුරුදු පණිවිඩය සමග රස කැවිලි හා ත්‍යාග පාර්සල් 10,000කට අධික ප්‍රමාණයක් දරුවන් අතර බෙදා දීම මෙහිදී සිදු කෙරිණි.
+The program commenced this morning in Colombo, Kalutara and Gampaha districts, this program was distributed to the new year sweets and gift parcel to cover every district.
+
+The program was organized by the Presidential Office, Ceylon Biscuits, Ceylon Biscuits, Ceylon Biscuits, Ceylon Biscuits, Ceylon Biscuits, Ceylon Biscuits.
+
+More than 10,000 conventions and rewards parcels were distributed among children with the President's New Year's message.
+
+The Army was distributed by the Army under the guidance of the Chief of Defense Standard Silva on the instructions of the President of the President.
 
 ...
 
 [Data](articles/507bac38.json)
+
+[Extended Data](ext_articles/507bac38.ext.json)
 
 ---
 
@@ -2177,67 +2243,5 @@ The first match at the ODI series with the three match series had to give up the
 [Data](articles/47bdbdd4.json)
 
 [Extended Data](ext_articles/47bdbdd4.ext.json)
-
----
-
-### Two injured in shooting at a house party in Hambegamuwa
-
-*2024-04-13 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98605/two-injured-in-shooting-at-a-house-party-in-hambegamuwa) · `en`
-
-Two people have been injured in a shooting incident reported in Hambegamuwa area on Friday night (12).
-
-Two unidentified assailants on a motorcycle had fired several rounds of gunshots at a group of individuals who were hanging out in the garden during a house party. Reportedly, the owner of the house had thrown a party for his cousin brothers and friends.
-
-According to the police, two people, aged 24 and 42 years, had sustained injuries in the incident and are now receiving medical attention at the Hambegamuwa and Embilipitiya hospitals.
-
-◼️
-
-[Data](articles/f06e4db7.json)
-
-[Extended Data](ext_articles/f06e4db7.ext.json)
-
----
-
-### Georgi approaches will receive will
-
-*2024-04-13 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195585) · `si`
-
-Mrs. Christlia Georgiva, a Bulgarian national, has been re-elected as the IMF's Managing Director, succeeding her previous tenure from 2019. She's the first and only candidate for the position, highlighted for her leadership skills.
-
-🟩
-
-Mrs. Christlia Georgiva has been selected for the second time to serve as the International Monetary Fund (IMF) as Manager Director.
-
-According to the unanimous decision of the Executive Board, she was elected on October 1, 2024, yesterday (12).
-
-She was the only candidate named for the post and had several rounds of discussions with her before making this appointment.
-
-Her strong and industrious leadership is praised by the IMF Executive Board.
-
-Mrs. Bulgarian National Georgawa is the Managing Director of the IMF from October 1, 2019.
-
-Prior to that, she was also the CEO of the World Bank since January 2017.
-
-◼️
-
-[Data](articles/b0100956.json)
-
-[Extended Data](ext_articles/b0100956.ext.json)
-
----
-
-### Kristalina Georgieva to serve second term as IMF managing director
-
-*2024-04-13 10:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kristalina-Georgieva-to-serve-second-term-as-IMF-managing-director/108-280666) · `en`
-
-Colombo, April 13 (Daily Mirror) - The Executive Board of the International Monetary Fund (IMF) on Friday selected Kristalina Georgieva to serve as IMF Managing Director for a second five-year term starting on October 1, 2024.
-
-"I am deeply grateful for the trust and support of the Fund’s Executive Board, representing our 190 members, and honored to continue leading the IMF as Managing Director for a second five-year term," she said in a statement.
-
-...
-
-[Data](articles/8325b95f.json)
-
-[Extended Data](ext_articles/8325b95f.ext.json)
 
 ---

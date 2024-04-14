@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-14 16:52:05**
+As of **2024-04-14 19:34:39**
 
 ## Newspaper Stats
 
-*Scraped **18,795** Articles*
+*Scraped **18,801** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,178 @@ dailyftlk | 1,018
 economynextcom | 1,046
 adalk | 1,564
 tamilmirrorlk | 2,198
-adaderanalk | 2,267
+adaderanalk | 2,269
 virakesarilk | 2,788
 dailymirrorlk | 2,896
-adaderanasinhalalk | 3,061
+adaderanasinhalalk | 3,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,790 (100.0%) of 18,795 articles have been extended.
+18,801 (100.0%) of 18,801 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-14 (Sunday)
 
-### විකෘති කර සමාජ මාධ්‍යට දැමූ අලුත් අවුරුදු ගීතය ගැන ගත් තීරණය
+### Advisory issued for severe lightning in five provinces
+
+*2024-04-14 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98631/advisory-issued-for-severe-lightning-in-five-provinces) · `en`
+
+The Meteorology Department has issued an advisory for severe lightning in five provinces today (April 14).
+
+Thundershowers accompanied by severe lightning are likely to occur at several places in Western, Sabaragamuwa, Southern, Central and North-western provinces, it said.
+
+There may be temporary localized strong winds during thundershowers. The general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
+
+The general public is further requested to avoid using wired telephones and connected electric appliances during thunderstorms and to also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
+
+For emergency assistance, the public is requested to contact local disaster management authorities.
+
+◼️
+
+[Data](articles/070e0aad.json)
+
+[Extended Data](ext_articles/070e0aad.ext.json)
+
+---
+
+### Ukrainian attack killed
+
+*2024-04-14 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195628) · `si`
+
+Ukrainian army attacked Russian military in Tokmak, killing 16 and injuring 20, including 12 critically.
+
+🟩
+
+Foreign media reports that 16 people have been killed in an area that the Ukrainian army has been captured to a Russian military.
+
+The attack was launched in the Tokmak name to Tokmak, a area of Russian army.
+
+Ukraine was attacked targeting the territory of Russia.
+
+Twent up to 20 others in the attack and 12 of them were in critical condition.
+
+◼️
+
+[Data](articles/25fa440c.json)
+
+[Extended Data](ext_articles/25fa440c.ext.json)
+
+---
+
+### British Royal Army before Israel
+
+*2024-04-14 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195627) · `si`
+
+British Royal Army jets deployed to protect Israel from Iranian drone attacks. British Prime Minister Rishi Suneake condemned Iran's attacks.
+
+🟩
+
+British fighter jets have been deployed to the drone from Iran to Israel to Israel.
+
+The jets belonging to the British royal army have been deployed in foreign media.
+
+The British king has announced that the jets have been deployed in the relevant airline.
+
+British Prime Minister Rishi Suneake has condemned the attacks on Iran and said they would continue to appear for the protection of Israel.
+
+In early morning, Iran had a number of air drones and missile attacks.
+
+◼️
+
+[Data](articles/11a5eb9d.json)
+
+[Extended Data](ext_articles/11a5eb9d.ext.json)
+
+---
+
+### Additional trains in operation after New Year holidays
+
+*2024-04-14 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98630/additional-trains-in-operation-after-new-year-holidays) · `en`
+
+Special train services are in operation from this evening (April 14) for people to return to Colombo after the Sinhala and Tamil New Year holidays, the Railways Department said.
+
+Deputy General Manager of Sri Lanka Railways N.J. Indipolage stated that accordingly, eight additional train journeys will be in operation from Badulla, Galle and Beliatta railway stations to Colombo Fort.
+
+Meanwhile, the Department of Railways also mentioned that the office trains will be operational as per usual from April 16.
+
+◼️
+
+[Data](articles/cbdcce8a.json)
+
+[Extended Data](ext_articles/cbdcce8a.ext.json)
+
+---
+
+### Conflict at liquor party killed
+
+*2024-04-14 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195625) · `si`
+
+A 32-year-old custom vehicle driver was killed in a liquor party dispute, leading to the arrest of eight suspects.
+
+🟩
+
+The deceased has been identified as a 32-year-old custom vehicle driver from a 32-year-old profession.
+
+Police say that the murder had taken place when a dispute between two groups were far away during a liquor party.
+
+Police have arrested eight persons on suspicion of the murder.
+
+◼️
+
+[Data](articles/5b85380c.json)
+
+[Extended Data](ext_articles/5b85380c.ext.json)
+
+---
+
+### Special notice from the Railway Department
+
+*2024-04-14 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195624) · `si`
+
+The Railway Department has added 8 more trains to Colombo Fort today and tomorrow, and will resume normal office hours from the 16th.
+
+🟩
+
+Deputy General Manager Nandana Schools, Deputy General Manager Nandana Schools said that additional train services have been launched to the people from outside to Colombo.
+
+Accordingly, 8 additional trains have been added to Colombo Fort today and tomorrow.
+
+In addition, the Railway Department said that the office will be opened from the 16th to normal.
+
+◼️
+
+[Data](articles/d5be4ec1.json)
+
+[Extended Data](ext_articles/d5be4ec1.ext.json)
+
+---
+
+### The decision taken about the New Year's song to the social media
 
 *2024-04-14 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195622) · `si`
 
-අලුත් අවුරුදු ගීතයක් විකෘති කර සමාජ මාධ්‍යට මුදා හැරීමේ සිද්ධිය සම්බන්ධයෙන් වහාම විමර්ශනයක් පවත්වන ලෙස සංස්කෘතික කටයුතු අමාත්‍යාංශය විදුලි සං‍දේශ නියාමන කොමිෂන් සභාවට දැනුම් දී තිබේ.
+The Ministry of Cultural Affairs is investigating a distorted version of a New Year's song by Rohana Baddage on social media. The Secretary, Somaratne Vidanathirana, notified the Director General of the Telecommunication Regulatory Commission. The Ministry plans to promote the discoverers of the song and take legal action against the distorters.
 
-සංස්කෘතික කටයුතු අමාත්‍යාංශ ලේකම් සොමරත්න විදානපතිරණ මහතා විසින් විදුලි සංදේශ නියාමන කොමිෂන් සභාවේ අධ්‍යක්ෂ ජනරාල්වරයා වෙත අදාළ දැනුම්දීම සිදුකර ඇති බව  වාර්තාවෙයි.
+🟩
 
-රෝහණ බැද්දගේ මහතා විසින් ගායනා කරනු ලබන ගීතයක් එහි පද විකෘති කර මේ දිනවල සමාජ මාධ්‍යවලට මුදාහැර තිබුණි.
+The Ministry of Cultural Affairs has informed the Ministry of Cultural Affairs to investigate the New Year's song and release the immediate investigation into the social media.
 
-එම ගීතය විකෘති කර සමාජ මාධ්‍යට මුදාහළ පුද්ගලයින් පිළිබඳව සොයාබලා දැනුම්දෙන ලෙස සංස්කෘතික කටයුතු අමාත්‍යාංශය විදුලි සංදේශන කොමිසන් සභාවට මෙලෙස දැනුම් දී තිබේ.
+It is reported that the Secretary to the Ministry of Cultural Affairs Somaratne Vidanathirana has been notified regarding the Director General of the Telecommunication Regulatory Commission.
 
-අදාළ පුද්ගලයින්ට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගැනීමට කටයුතු කරන බව සංස්කෘතික කටයුතු අමාත්‍යාංශයේ ලේකම් සොමරත්න විදානපතිරණ මහතා වැඩිදුරටත් සදහන් කළේය.
+A song that is sung by Rohana Baddage has been distorted into the social media these days.
+
+The Ministry of Cultural Affairs has informed the Council to promote the persons who discovered the song and will be found in the social media released.
+
+The Secretary to the Ministry of Cultural Affairs somaratne Vidanapathirana, he added that legal action will be taken against the persons.
 
 ◼️
 
 [Data](articles/67905db2.json)
+
+[Extended Data](ext_articles/67905db2.ext.json)
 
 ---
 
@@ -70,23 +210,31 @@ Mr. Bandara expressed that there were Sri Lankans on the flight, who were on the
 
 [Data](articles/0051ae4d.json)
 
+[Extended Data](ext_articles/0051ae4d.ext.json)
+
 ---
 
-### පළාත් කිහිපයකට ප්‍රබල අකුණු සමග වැසි
+### Showers with strong lightning into several provinces
 
 *2024-04-14 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195621) · `si`
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
+The Meteorological Department warns of strong lightning in Western, Sabaragamuwa, Central, and Southern provinces, advising the public to take precautions against lightning dangers.
 
-එම නිවේදනයේ දැක්වෙන්නේ බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණ සහ වයඹ පළාත්වල සවස් කාලයේ දී හෝ රාත්‍රී කාලයේ දී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතින බවය.
+🟩
 
-ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං තත්ත්වයක් ද ඇති විය හැකිය.
+The Department of Meteorological Department has issued a pronouncement of strong lightning.
 
-අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The announcement states that there is an increase in lightning with thundershowers in the Western, Sabaragamuwa, Central, Southern provinces.
+
+There may be temporary strong winds in those areas when thunderstorms occur.
+
+The Department of Meteorology urges the public to take necessary steps to reduce the dangers of lightning.
 
 ◼️
 
 [Data](articles/f39c3772.json)
+
+[Extended Data](ext_articles/f39c3772.ext.json)
 
 ---
 
@@ -200,6 +348,8 @@ Iran launched the attack in response to a strike widely blamed on Israel on an I
 
 [Data](articles/2d23b16b.json)
 
+[Extended Data](ext_articles/2d23b16b.ext.json)
+
 ---
 
 ### Drugs seized from trawler off south coast estimated to be worth over Rs. 3, 798 mn
@@ -219,6 +369,8 @@ The operation was mounted by deploying Sri Lanka Coast Guard Ship (SLCG) Samudra
 ...
 
 [Data](articles/a28f2688.json)
+
+[Extended Data](ext_articles/a28f2688.ext.json)
 
 ---
 
@@ -2167,131 +2319,5 @@ The rice stocks imported during this period but had been stuck at the port were 
 [Data](articles/1102caa9.json)
 
 [Extended Data](ext_articles/1102caa9.ext.json)
-
----
-
-### Siyambalapitiya clears the air on reports concerning rice imports
-
-*2024-04-13 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98610/siyambalapitiya-clears-the-air-on-reports-concerning-rice-imports) · `en`
-
-The government has not given permission to import rice, Finance State Minister Ranjith Siyambalapitiya says.
-
-Addressing the reports claiming otherwise, the lawmaker clarified that only Basmati rice is permitted to be imported for the requirement of tourist hotels.
-
-Rice imports were green-lighted in February when the country was on the verge of facing a rice shortage, he explained, adding that the rice stocks imported during this period but had been stuck at the port were later allowed to be cleared within a period of one week.
-
-◼️
-
-[Data](articles/f62bb87f.json)
-
-[Extended Data](ext_articles/f62bb87f.ext.json)
-
----
-
-### Sri Lankans in Israel asked to exercise caution
-
-*2024-04-13 15:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankans-in-Israel-asked-to-exercise-caution/108-280674) · `en`
-
-Following the latest development of tension between Israel and Iran, Sri Lankans living in Israel have been asked to exercise caution in anticipation of any emergency.
-
-The Sri Lankan Ambassador in Tel Aviv, in a Facebook post requested Sri Lankans not to step out of their workplaces for unnecessary engagements. Also, Sri Lankans under medication for various ailments are asked to keep medicines sufficient for a long period in case any emergency situations that develop.
-
-They have also been requested to keep sufficient food stuffs. Sri Lankans work in Israel mostly as farm workers and caregivers.
-
-◼️
-
-[Data](articles/d205888c.json)
-
-[Extended Data](ext_articles/d205888c.ext.json)
-
----
-
-### A man who attacked the mother and child with a sword -like weapon
-
-*2024-04-13 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181051) · `ta`
-
-A man attacked a mother and child with a sword-like weapon at a Sydney business complex, causing panic. Six victims, including children, were targeted. The attacker was shot dead by a businessman.
-
-🟩
-
-While the number of victims of Sydney's businessmen has increased, the number of victims has increased to six, while the people who fled the premises have revealed many information on the danger they faced.
-
-A woman who was targeted by the knife was found lying on the ground, saying that there was a mad atmosphere.
-
-According to the Australian time, there was a knife attack at the Westfield business complex at three o'clock in the evening - the people who were found there immediately began to flee.
-
-He said that a man who was standing with his two children in a food festival, said that a person was blindfolded.
-
-The man who had entered the three -tenth businesses had returned to a few minutes after he left, police said.
-
-No information has been revealed on the cause of the attack so far, while police said that the terrorist purpose cannot be rejected.
-
-The attack was halted after the man was fired at the man who was trying to attack the woman who was involved in a knife attack.
-
-...
-
-[Data](articles/cc0c4dd9.json)
-
-[Extended Data](ext_articles/cc0c4dd9.ext.json)
-
----
-
-### Special security
-
-*2024-04-13 15:19:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-ரீதியில்-விஷேட-பாதுகாப்பு/175-335904) · `ta`
-
-During New Year's, 14,000 police officers, 500 Special Task Force members, and 400 soldiers are deployed for special security under Inspector General Deshabandu's directive.
-
-🟩
-
-The Police Headquarters has taken steps to implement the special security program during the New Year's celebrations.
-
-According to the Police Media Unit, 14,000 police officers have been deployed under the directive of the Inspector General of Police, Deshabandu.
-
-As a result, 14,000 police officers, 500 police Special Task Force and 400 soldiers have been deployed in the security program.. Remble
-
-◼️
-
-[Data](articles/d1d7d416.json)
-
-[Extended Data](ext_articles/d1d7d416.ext.json)
-
----
-
-### Japan's population back down
-
-*2024-04-13 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195593) · `si`
-
-Japan's population has decreased by 4.8% this year, according to the Ministry of Internal Affairs. By 2050, the adult population could reach 47%.
-
-🟩
-
-It is reported that it has fallen by 4 decimals and 8 decimals compared to last year.
-
-According to a survey conducted by the Ministry of Internal Affairs, this was revealed.
-
-Meanwhile, a report issued by an investigation issued by a investigation by 2050 the adult population in Japan is reaching up to 47 percent.
-
-◼️
-
-[Data](articles/75726024.json)
-
-[Extended Data](ext_articles/75726024.ext.json)
-
----
-
-### Inauspicious time starts
-
-*2024-04-13 14:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Inauspicious-time-starts/108-280673) · `en`
-
-The inauspicious time, known as the Nonagathaya, begins today at 2:41 p.m. and lasts until 3:29 a.m. tomorrow, April 14th.
-
-During the Nonagathaya, people used to engage in religious activities such as visiting temples and offering alms to the poor.
-
-◼️
-
-[Data](articles/23a1d079.json)
-
-[Extended Data](ext_articles/23a1d079.ext.json)
 
 ---

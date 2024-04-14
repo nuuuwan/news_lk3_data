@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-14 21:13:14**
+As of **2024-04-14 22:33:22**
 
 ## Newspaper Stats
 
-*Scraped **18,821** Articles*
+*Scraped **18,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,43 +14,147 @@ dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
-economynextcom | 1,048
+economynextcom | 1,049
 adalk | 1,570
 tamilmirrorlk | 2,201
-adaderanalk | 2,271
-virakesarilk | 2,791
-dailymirrorlk | 2,896
+adaderanalk | 2,272
+virakesarilk | 2,794
+dailymirrorlk | 2,900
 adaderanasinhalalk | 3,069
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,815 (100.0%) of 18,821 articles have been extended.
+18,821 (100.0%) of 18,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-14 (Sunday)
 
-### මොරගහහේන ඝාතනයට ආ මෝටර් රථයේ පාට වෙනස් වූ හැටි
+### Fatal accident in Pussellawa claims two lives, injures four
+
+*2024-04-14 21:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fatal-accident-in-Pussellawa-claims-two-lives-injures-four/108-280699) · `en`
+
+Colombo, April 14 (Daily Mirror) - An accident in the Helboda area of Pussellawa today (Sunday) has left two individuals dead, including a child, and four others injured after a van plunged down a precipice.
+
+Police spokesman DIG Nihal Thalduwa confirmed the tragic incident, revealing that among the fatalities were a 2-year-old boy and a 70-year-old individual.
+
+Further, four individuals sustained injuries in the accident and were rushed to hospital for medical treatment.
+
+◼️
+
+[Data](articles/ed0a5908.json)
+
+---
+
+### கல்முனை வடக்கு விவகாரம் :  கறுப்பு பொங்கல் பொங்கியும் கறுப்பு கொடியுடன் மோட்டார் சைக்கிள் பவணியாகவும்  21 ஆவது நாளாக தொடரும் போராட்டம்
+
+*2024-04-14 20:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181077) · `ta`
+
+கல்முனை வடக்கு பிரதேச செயலக நிர்வாக ரீதியான பிரச்சினைகளை வென்றெடுப்பதற்காக 21 ஆவது நாளாகவும் போராட்டம் கறுப்பு சித்திரை என்ற பெயருடன் ஞாயிற்றுக்கிழமை (14) முன்னெடுக்கப்பட்டது.
+
+இதன் போது மோட்டார் சைக்கிள் பவணி ஒன்று இளைஞர் கழகங்கள் விளையாட்டு கழகங்கள் மற்றும் பொதுமக்களின் பங்களிப்புடன் கறுப்பு கொடி ஏந்தப்பட்டு பிரதேச செயலக முன்றலில் இருந்து ஆரம்பமாகி மணல்சேனை நற்பிட்டிமுனை சேனைக்குடியிருப்பு துரைவந்தியன் மேடு துறைநீலாவணை பெரிய நீலாவணை மருதமுனை பாண்டிருப்பு கல்முனை நகரப்பகுதி ஊடாக சென்று மீண்டும் பிரதேச செயலக முன்றல் நோக்கி வந்தடைந்ததுடன் பல்வேறு கோஷங்களுடன் போராட்டம் முன்னெடுக்கப்பட்டது.
+
+அத்துடன் முற்பகல் பிரதேச செயலகத்தின் முன்பாக கறுப்பு பொங்கல் பானையில் இடப்பட்டு பொங்கப்பட்டது. இந்நிலையில் அங்கு வருகை தந்த கல்முனை தலைமையக பொலிஸார் நீதிமன்ற கட்டளைப்படி பொதுமக்களின் போக்குவரத்து மற்றும் பொதுச்சொத்துக்கள் சேதமாக்குதல் போன்ற செயற்பாடுகளுக்காக  போராட்டக்காரர்கள் என மூவரின் பெயரை குறிப்பிட்டு அப்பகுதியில் கடிதம் ஒன்றினை வழங்கினர்.
+
+...
+
+[Data](articles/5d9165ac.json)
+
+---
+
+### Sri Lanka undershoots inflation target in first quarter despite VAT hike
+
+*2024-04-14 20:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-undershoots-inflation-target-in-first-quarter-despite-vat-hike-158470/) · `en`
+
+Sri Lanka undershoots inflation target in first quarter despite VAT hike
+
+ECONOMYNEXT – Sri Lanka’s inflation is expected to lower than initially projected in 2024, despite a value added tax hike, Central Bank Governor Nandalal Weerasinghe has said
+
+“When we looked at the last two monetary policy reviews… we had an inflation path a little elevated to what was realized, ” he told reporters following a March 50 basis point rate cut.
+
+“Mainly because our projection factored in the VAT increase in January and some of the short-term food price increases, we have seen in December and January.
+
+But what we have seen the actual inflation realization, is that the impact of VAT has not been that much and also the reduction in electricity prices also has helped, as well as the supply conditions, especially food supplies has been better.
+
+“As a result, inflation outcome has been much lower than we expected.”
+
+...
+
+[Data](articles/8fc3ddb1.json)
+
+---
+
+### பில் சோல்ட், மிச்செல் ஸ்டாக் பிரகாசிக்க, லக்னோவை பந்தாடியது கொல்கத்தா
+
+*2024-04-14 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181076) · `ta`
+
+லக்னோ சுப்பர் ஜயன்ட்ஸ் அணியை தனது சொந்த மைதானமான கொல்கத்தா ஈடன் கார்ட்ன் விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (14) சந்தித்த கொல்கத்தா நைட் ரைடர்ஸ் 8 விக்கெட்களால் அமோக வெற்றியீட்டியது.
+
+இந்தியாவில் நடைபெற்றுவரும் 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 28ஆவது போட்டியில் வெற்றியீட்டிய கொல்கத்தா நைட் ரைடர்ஸ் தனது 4ஆவது வெற்றியைப் பதிவுசெய்து அணிகள் நிலையில் தொடர்ந்தும் 2ஆவது இடத்தில் இருந்து வருகிறது.
+
+மிச்செல் ஸ்டாக்கின் துல்லியமான பந்துவீச்சு, பில் சோல்ட்டின் அதிரடி துடுப்பாட்டம் ஆகியவற்றின் உதவியுடன் லக்னோ சுப்பர் ஜயன்ட்ஸை பந்தாடிய கொல்கத்தா நைட் ரைடர்ஸ் இலகுவாக வெற்றிபெற்றது.
+
+லக்னோ சுப்பர் ஜயன்ட்ஸினால் நிர்ணயிக்கப்பட்ட 162 ஓட்டங்களை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய கொல்கத்தா நைட் ரைடர்ஸ் 15.4 ஓவர்களில் 2 விக்கெட்களை இழந்து 162 ஓட்டங்களைப் பெற்று அமோக வெற்றிபெற்றது.
+
+அதிரடி வீரர் சுனில் நரேன் (6), அங்ரிஷ் ரகுவன்ஷி (7) ஆகிய இருவரும் குறைந்த ஓட்டங்களுடன் ஆட்டம் இழந்தனர். (42 - 2 விக்.)
+
+...
+
+[Data](articles/eb27e43e.json)
+
+---
+
+### பலாங்கொடையில் இளைஞர் கூரிய ஆயுதத்தால் வெட்டிக்கொலை!
+
+*2024-04-14 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181075) · `ta`
+
+பலாங்கொடை - பெட்டிகல பிரதேசத்தில் கூரிய ஆயுதத்தால் தாக்கப்பட்ட நிலையில் இளைஞர் ஒருவர் உயிரிழந்தார்.
+
+குறித்த பகுதியைச் சேர்ந்த 32 வயதுடைய முச்சக்கரவண்டி சாரதியே இவ்வாறு கூரிய ஆயுதத்தால் வெட்டிக்கொலை செய்யப்பட்டுள்ளார்.
+
+மதுபான விருந்து ஒன்றில் இரு பிரிவினருக்கு இடையில் ஏற்பட்ட வாய்த்தர்க்கம் தீவிரமடைந்து இக்கொலை இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+கொலைச் சம்பவம் தொடர்பான மேலதிக விசாரணைகளை பலாங்கொடை பொலிஸார் மேற்கொண்டு வருகின்றனமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ff85aefa.json)
+
+---
+
+### How the car to murder was changed to Moragahahena
 
 *2024-04-14 19:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195632) · `si`
 
-මොරගහහේන ප්‍රදේශයේදී අප්‍රේල් 07 වනදා සිදුකළ ද්විත්ව ඝාතනය සඳහා සැකකරුවන් පැමිණි මෝටර් රථය සපුගස්කන්ද ප්‍රදේශයේ ගරාජයක තිබී සොයාගෙන තිබේ.
+A suspect in the "car to murder" case was arrested in Moragahahena, revealing he was instructed to change a car's plates near a road sign. He admitted to being paid by Mooniya Handiya and was involved in legal cases.
 
-එම ගරාජය පවත්වාගෙන යමින් මෝටර් රථය සන්තකයේ තබාගෙන සිටි පුද්ගලයා අත්අඩංගුවට ගත් බව මොරගහහේන පොලීසිය සඳහන් කළේය.
+🟩
 
-සැකකරු වාහන විකිණීම, හුවමාරු කිරීම සහ පිංතාරු කිරීම් සිදුකරන ගරාජයක් පවත්වාගෙන යන අයෙකි
+The suspects were found in a garage in the Sapugaskanda area in the Moragahahena area on April 7.
 
-සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදි ඔහු පවසා ඇත්තේ විදේශගතව සිටින සංවිධානාත්මත අපරාධ කල්ලි සාමාජිකයෙක් වන හෝමාගම හඳයා නැමැත්තාගේ සමීපතමයෙකු වන දැනට රිමාන්ඩ් බන්ධනාගාරගතව සිටින සංජය නැමැත්තෙක් අප්‍රේල් 07 වනදා තමන්ට දුරකථන ඇමතුමක් දුන් බවය.
+Moragahahena Police said that the man had been arrested while maintaining the garage.
 
-එහිදී සියඹලාපේ මාර්ග සංඥා පුවරුව අසල ඇවිදින මංතීරුවට යාබදව නවතා තිබෙන සිල්වර් පැහැති මෝටර් රථය රැගෙන විත් එය සුදු පැහැ වර්ණය ගන්වා අංක තහඩු මාරු කරන්නැයි ඔහු උපදෙස් දුන් බව සැකකරු පවසා තිබේ.
+The suspect is a garage to sell vehicles, exchanges and demons
 
-ඊට ගෙවීම ලෙස හෝමාගම හඳයා නමැත්තා ඩුබායි රාජ්‍යයේ සිට රුපියල් ලක්ෂයක මුදලක්ද, තවත් රුපියල් 40,000ක් කඩුවෙල ප්‍රදේශයේ බැංකුවකින්ද තමන්ගේ ගිණුමට බැරකළ බව සැකකරු ප්‍රකාශ කර තිබුණි.
+In the interrogation of the suspect, he has already been remanded, a close associate of the Handala Handiyawa Handiyawa.
+
+The suspect has said that he was instructed to carry the silver colored car adjoining near the road signature near the road signature near the road sign board.
+
+The suspect had stated that the Mooniya Handiya was paid a sum of Rs.
+
+The arrested person has told the police that he was speaking to the car and changed the number plates and stopped and stopped.
+
+CCTV scenes were recorded in the PCs that carry the car and stops.
+
+The suspect was revealed in the instructions of the suspect, the instruction of the suspect and was arrested in various cases of his close assistance and was also involved in legal assistance.
 
 ...
 
 [Data](articles/70d8cde7.json)
+
+[Extended Data](ext_articles/70d8cde7.ext.json)
 
 ---
 
@@ -74,6 +178,38 @@ Istanbul resident Hatice Polat and her family were rescued seven hours into the 
 
 ---
 
+### Special train services for post-New Year commuters returning to Colombo
+
+*2024-04-14 19:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-train-services-for-post-New-Year-commuters-returning-to-Colombo/108-280698) · `en`
+
+Colombo, April 14 (Daily Mirror) - In a bid to accommodate the influx of commuters returning to Colombo after celebrating the Sinhala and Tamil New Year holidays, the Railways Department has announced the commencement of special train services, effective this evening, April 14.
+
+According to N.J. Indipolage, the Deputy General Manager of Sri Lanka Railways, eight additional train journeys will be operational from key stations including Badulla, Galle and Beliatta, facilitating the smooth return of travellers to Colombo Fort.
+
+Furthermore, the Department of Railways assures the public that regular office train services will resume as scheduled from April 16.
+
+◼️
+
+[Data](articles/ba26c5af.json)
+
+---
+
+### Two including child killed, 4 injured after van falls down precipice
+
+*2024-04-14 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98632/two-including-child-killed-4-injured-after-van-falls-down-precipice) · `en`
+
+Two individuals including a child have been killed after a van toppled down a precipice in the Helboda area of Pussellawa on Sunday.
+
+Police said that a 02-year-old child and a 70-year-old person were killed in the accident.
+
+UPDATE: Police Spokesman DIG Nihal Thalduwa said a two-year-old boy and his grandfather (70) have been reported dead while 04 others have been injured after a van veered off the road and topples down a precipice at Pussellawa.
+
+◼️
+
+[Data](articles/624bd0d5.json)
+
+---
+
 ### Two including child killed after van falls down precipice
 
 *2024-04-14 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98632/two-including-child-killed-after-van-falls-down-precipice) · `en`
@@ -90,17 +226,23 @@ Police said that a 02-year-old child and a 70-year-old person were killed in the
 
 ---
 
-### වෑන් රථයක් ප්‍රපාතයකට පෙරළී දෙදෙනෙකු මරුට
+### Van killed in precipice
 
 *2024-04-14 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195631) · `si`
 
-පුස්සැල්ලාව හෙල්බොඩ ප්‍රදේශයේදී වෑන් රථයක් ප්‍රපාතයකට පෙරළීමෙන් අනතුරක් සිදුව තිබේ.
+A 2-year-old and a 70-year-old died in a van accident near a precipice in Hellboda.
 
-අනතුරින් වයස අවුරුදු 2ක කුඩා දරුවෙකු සහ 70 හැවිරිදි වියේ පසුවූ පුද්ගලයෙකු මියගොස් ඇති බව පොලීසිය පවසයි.
+🟩
+
+Pussellawa has been a danger to a precipice in the Hellboda area in the Hellboda area.
+
+A 2-year-old child and a 70-year-old man died in the accident.
 
 ◼️
 
 [Data](articles/d6db4b96.json)
+
+[Extended Data](ext_articles/d6db4b96.ext.json)
 
 ---
 
@@ -126,25 +268,33 @@ In addition, the Railway Department further stated that the office of the office
 
 ---
 
-### රුසියානු ආරක්ෂක බලධාරීන්ගෙන් කළ විශේෂ ඉල්ලීම
+### Special request from the Russian security authorities
 
 *2024-04-14 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195630) · `si`
 
-රුසියානු හමුදාවට එක්ව සිටින ශ්‍රී ලාංකිකයින් සම්බන්ධයෙන් තොරතුරු ලබාදෙන ලෙස රුසියාවේ පිහිටි ශ්‍රී ලංකා තානාපති කාර්යාලය එරට ආරක්ෂක බලධාරීන්ගෙන් ඉල්ලීමක් කර තිබේ.
+The Sri Lankan embassy in Russia seeks information on Sri Lankans in the Russian army, noting common recruitment from foreign countries, including tourist visa holders. The ambassador mentioned that if a Sri Lankan joins Russian troops, Russia would inform the embassy. Reports of Sri Lankans' deaths in recent army engagements were denied by the ambassador.
 
-රුසියාවේ ශ්‍රී ලංකා තානාපති ජනිතා ලියනගේ මහත්මිය සඳහන් කළේ රුසියානු හමුදාවට විදෙස් රටවලින් පැමිණෙන පුද්ගලයින් බඳවාගැනීම මේ දිනවල බහුලව සිදුවන බවය.
+🟩
 
-ඉන් බොහෝ පිරිසක් සංචාරක වීසා මත රුසියාවට පැමිණ හමුදා සේවයට එක්වන පුද්ගලයින් බව සඳහන් වෙයි.
+The Sri Lankan embassy in Russia has requested the security authorities to provide information about Sri Lankans who have joined the Russian army.
 
-ශ්‍රී ලාංකිකයින් ද එලෙස සංචාරක වීසා මත පැමිණ රුසියානු හමුදාවට එක්ව සිටින බවට තොරතුරු ලැබී ඇති බව ජනිතා ලියනගේ මහත්මිය සඳහන් කළේය.
+Sri Lanka's Ambassador in Russia Janitan Liyanage said that the recruitment of persons from foreign countries was commonplace these days.
 
-එහෙත් ඒ පිළිබඳව නිසි තොරතුරු තානාපති කාර්යාලය සතුව නොමැති බැවින් ශ්‍රී ලාංකිකයින් එරට හමුදා සේවයේ කටයුතු කරන්නේ නම් ඒ  පිළිබඳව තොරතුරු ලබාදෙන ලෙස තානාපති කාර්යාලය රුසියානු ආරක්ෂක ප්‍රධානීන්ගෙන් ඉල්ලීමක් කර තිබේ.
+It is said that many of them are present in Russia on tourist visas and joins the military.
 
-යම් ශ්‍රී ලාංකිකයෙකු රුසියානු හමුදා සමඟ එක්වන්නේ නම් තානාපති කාර්යාලය දැනුවත් කරන ලෙස සියලු දෙනාගෙන් ඉල්ලීමක් කරන බවද රුසියාවේ ශ්‍රී ලංකා තානාපතිවරිය සදහන් කළේය.
+He added that the Sri Lankans have received information that Sri Lankans will come on tourist visa and have joined the Russian army.
+
+However, if the embassy is not in the country, the embassy has requested Russian defense heads to provide information about it.
+
+The Sri Lankan Ambassador to the Sri Lanka Ambassador to the Sri Lanka Ambassador to the Sri Lanka Ambassador said that if a Sri Lankan joins Russian troops, Russia said he would make a request to inform the embassy.
+
+Foreign media reports have been reported that several Sri Lankans who were ingether participating with the Russian army in the past few days have died.
 
 ...
 
 [Data](articles/4c88c4f4.json)
+
+[Extended Data](ext_articles/4c88c4f4.ext.json)
 
 ---
 
@@ -194,19 +344,25 @@ The Department of Meteorology has urged the people to take necessary steps to re
 
 ---
 
-### නිවසක ඇතිවූ ගින්නකින් කාන්තාවක් මරුට
+### Woman dies after a fire in a house
 
 *2024-04-14 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195629) · `si`
 
-දිඹුලපතන කොටගල ප්‍රදේශයේ නිවසක ඇති වූ ගින්නකින් එහි සිටි කාන්තාවක් මියගොස් තිබේ.
+A 52-year-old woman died in a fire in Kotagagala, Dimbulapathana. The fire started in a room and was extinguished at Kotagala Hospital.
 
-පොලීසිය ප්‍රකාශ කළේ නිවසේ කාමරයක් තුළ ගින්න හටගෙන ඇති අතර ගින්නෙන් පිළිසුම් තුවාල ලැබූ කාන්තාව කොටගල රෝහලට ඇතුළත් කිරීමේ දී මියගොස් ඇති බවය.
+🟩
 
-මියගොස් ඇත්තේ 52 හැවිරිදි වියේ පසුවූ කොටගල ප්‍රදේශයේ පදිංචිව සිටි කාන්තාවක් බව සඳහන් වෙයි.
+A woman was killed in a fire in the Kotagagala area in the Dimbulapathana.
+
+The fire has erupted in a room room and the fire was killed in rushing at Kotagala Hospital.
+
+The deceased has been identified as a 52-year-old woman in Kotagala area.
 
 ◼️
 
 [Data](articles/92756241.json)
+
+[Extended Data](ext_articles/92756241.ext.json)
 
 ---
 
@@ -259,6 +415,24 @@ For emergency assistance, the public is requested to contact local disaster mana
 [Data](articles/070e0aad.json)
 
 [Extended Data](ext_articles/070e0aad.ext.json)
+
+---
+
+### Dengue cases for 2024 top 21,000
+
+*2024-04-14 17:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dengue-cases-for-2024-top-21-000/108-280697) · `en`
+
+Colombo, April 14 (Daily Mirror) - The tally of dengue cases recorded for 2024 has topped the 21,000 mark, according to the Epidemiology Unit.
+
+As of April 13, a total of 21,028 cases have been reported in 2024, with the highest number being from the Colombo district, which stood at 4,527.
+
+The Western Province has recorded 7,547 cases, the highest province-wise while the month of April has also logged 989 Dengue cases.
+
+As several parts in Sri Lanka have experienced significant rainfall for the past few days, health officials urge people to keep their surroundings clean and destroy mosquito breeding places in order to keep dengue at bay.
+
+◼️
+
+[Data](articles/e59fa4b2.json)
 
 ---
 
@@ -399,6 +573,8 @@ Sri Lanka also expects to receive the third tranche of the IMF by mid this year 
 ...
 
 [Data](articles/fa783eb1.json)
+
+[Extended Data](ext_articles/fa783eb1.ext.json)
 
 ---
 
@@ -1042,6 +1218,8 @@ In the so-called conservative South Asian nations, changes to legislation are sl
 
 [Data](articles/a14b1605.json)
 
+[Extended Data](ext_articles/a14b1605.ext.json)
+
 ---
 
 ### Shots fired outside Salman Khan’s house
@@ -1427,6 +1605,26 @@ The Commander of the Sri Lanka Navy Vice Admiral Priyantha Perera inspected the 
 [Data](articles/79448d1f.json)
 
 [Extended Data](ext_articles/79448d1f.ext.json)
+
+---
+
+### Sri Lanka Navy brings ashore seized ICE, heroin worth Rs. 3.7 billion
+
+*2024-04-14 08:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-Navy-brings-ashore-seized-ICE-heroin-worth-Rs-3-7-billion/155-280688) · `en`
+
+Galle, April 14 (Daily Mirror) - The Sri Lanka Navy brought ashore the seized narcotics, including 179 kgs and 906 gms of Crystal Methamphetamine (ICE) and 83 kgs and 582 gms of heroin, which were seized yesterday in the seas approximately 133 nautical miles (about 246 kms) off Dondra, south of Sri Lanka.
+
+The consignment of drugs, with an estimated street value exceeding Rs. 3,798 million, was seized during an intelligence operation conducted by the Sri Lanka Navy. A local multi-day fishing trawler, carrying six persons was intercepted during the operation.
+
+In addition, another local one-day fishing trawler with four persons was seized, suspected to be awaiting a mid-sea exchange of narcotics.
+
+The Sri Lanka Coast Guard Ship (SLCG) Samudraraksha played a crucial role in arresting the suspects and seizing the narcotics on 12 April 2024.
+
+The Commander of the Sri Lanka Navy Vice Admiral Priyantha Perera inspected the seized consignment at the Galle Harbour.
+
+...
+
+[Data](articles/c0744b45.json)
 
 ---
 
@@ -2097,193 +2295,5 @@ Similarly, last year in January, wires worth Rs. 2.4 million from four lamp post
 [Data](articles/359abb3d.json)
 
 [Extended Data](ext_articles/359abb3d.ext.json)
-
----
-
-### Katunayaka expressway plunged in darkness
-
-*2024-04-13 22:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Katunayaka-expressway-plunged-in-darkness/108-280684) · `en`
-
-Colombo, April 13 (Daily Mirror) -  Majority of the Katunayaka Expressway section has been plunged into darkness this evening as the lamp post has failed to function.
-
-As per information shared by the toll gate officials, the highway streetlights are not functioning as the electric cables have been cut.
-
-The officials elaborated that the underground cables have been stolen.
-
-This is not the first time the electric cables of the highway has been stolen.
-
-Last year in January, wires worth Rs. 2.4 million of four lamp post were stolen in the Wedikanda area using an axe.
-
-◼️
-
-[Data](articles/f78e8b7d.json)
-
-[Extended Data](ext_articles/f78e8b7d.ext.json)
-
----
-
-### Foreign woman arrested
-
-*2024-04-13 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195606) · `si`
-
-A Madagascar national, 38, arrested at Katunayake airport with 57 million cocaine drugs, smuggled from Ethiopia via Mumbai, India.
-
-🟩
-
-A Madagascar national has been arrested along with 57 million cocaine drugs.
-
-The 38-year-old woman was arrested by the Customs Drug Administration at the Katunayake airport.
-
-The suspect had come to Sri Lanka through the Mumbai, India, from Ethiopia.
-
-The government of the Negombo was instructed to take drugs hidden in the body of the woman's body.
-
-The woman has been taken out of the 57 drug gulus in his body and is now nearly 620 grams.
-
-The suspect and the drug have been handed over to the Sri Lanka Police Offens.
-
-◼️
-
-[Data](articles/712959ce.json)
-
-[Extended Data](ext_articles/712959ce.ext.json)
-
----
-
-### Environmentalists urge public to protect pets from fireworks
-
-*2024-04-13 21:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Environmentalists-urge-public-to-protect-pets-from-fireworks/108-280683) · `en`
-
-Colombo, April 13 (Daily Mirror) -As the Sinhala and Tamil festive season approaches, environmentalists in Sri Lanka have sounded the alarm on the detrimental impact of fireworks on pets and wildlife.
-
-According to Environmentalist Nayanaka Ranwella, research indicates that fireworks not only disturb the peace of humans but also have profound effects on wildlife, particularly birds and small mammals, including dogs and cats.
-
-The loud explosions can cause birds to abandon their nests in fear, disrupting their habitats.
-
-According to studies, animals have a far more acute sense of hearing than humans, making them particularly sensitive to the deafening blasts of fireworks.
-
-With explosions reaching up to 190 decibels—far surpassing the threshold for human hearing damage at 75 decibels—the sound can induce anxiety, confusion and panic in animals.
-
-Furthermore, researches suggest that up to 50 percent of dogs experience fear or anxiety during fireworks displays.
-
-...
-
-[Data](articles/06d7c3a2.json)
-
-[Extended Data](ext_articles/06d7c3a2.ext.json)
-
----
-
-### Japan’s population falls below 125 million, down for 13th straight year
-
-*2024-04-13 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98616/japans-population-falls-below-125-million-down-for-13th-straight-year) · `en`
-
-Japan’s population fell 595,000 from a year earlier to total 124,352,000 as of Oct. 1 for the 13th consecutive year of decline, according to government data released Friday, as the Asian nation continues to grapple with a declining birthrate and a rapidly graying society.
-
-The population of Japanese nationals fell 837,000 to 121,193,000, marking the largest drop since comparable data became available in 1950, according to a demographic survey by the Ministry of Internal Affairs and Communications.
-
-Those 75 or above rose 713,000 to about 20.08 million, eclipsing the 20 million mark for the first time.
-
-The number of people from zero to 14 years old fell 329,000 to about 14.17 million, accounting for 11.4% of the total population, the lowest ever. Those between 15 and 64 dropped 256,000 to about 73.95 million, 59.5% of the total population.
-
-...
-
-[Data](articles/715eddb2.json)
-
-[Extended Data](ext_articles/715eddb2.ext.json)
-
----
-
-### Happy New Year!
-
-*2024-04-13 21:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Happy-New-Year/110-280659) · `en`
-
-◼️
-
-[Data](articles/c1634857.json)
-
-[Extended Data](ext_articles/c1634857.ext.json)
-
----
-
-### Happy New Year to you all!
-
-*2024-04-13 21:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195605) · `si`
-
-"Happy New Year! 2024 Sinhala & Tamil New Year ended at 9.05 pm today. Celebrated with blue garments, sugarcane, and sesame. Work and feasting concluded at 12.06 am."
-
-🟩
-
-2024 The Sinhala and Tamil New Year was up to 9.05 pm today (13).
-
-The auspicious view of the blue garment, wearing a blue wire and prepare a mix of flame, sugarcane, and selling sesame mixed coast.
-
-The work of dealing and eating this year's work is 12.06 midnight today.
-
-◼️
-
-[Data](articles/6e3862d4.json)
-
-[Extended Data](ext_articles/6e3862d4.ext.json)
-
----
-
-### Dawn of the New Year
-
-*2024-04-13 21:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dawn-of-the-New-Year/108-280578) · `en`
-
-As the new year begins, Sri Lankans kick off with a cherished tradition: lighting the hearth to make milk rice, a staple dish symbolizing prosperity for the festive feast.
-
-◼️
-
-[Data](articles/fc82154c.json)
-
-[Extended Data](ext_articles/fc82154c.ext.json)
-
----
-
-### Derana Dialog Magampura Solar Festival throughout the day
-
-*2024-04-13 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195604) · `si`
-
-"Derana Dialog Magampura Solar Festival in Tissamaharama tomorrow, featuring bakmana festival, bicycle and marathon competitions, and concerts. Organized by Ministry of Agriculture, District Secretariat, and Tissamaharama Divisional Secretariats."
-
-🟩
-
-'Derana Dialog Magampura Solar Festival' is held tomorrow at the National Livestock Development Board in Tissamaharama tomorrow.
-
-The beauty of a large number of gangs and a concert at night, the beauty of the bakmana festival at 9.30 am. Dearan can experience you too.
-
-It empowers the Ministry of Agriculture and Plantation Industries, Ministry of Agriculture and Plantation Industries, District Secretariat, Kataragama, Lunugamvehera, Tissamaharama Divisional Secretariats and Tissamaharama Divisional Secretariat.
-
-Male and women's bicycles and marathon are to be held as inauguration competitions.
-
-The participating competitors will visit the Weerawila Resources Development Board by 6am tomorrow at 6:30 am tomorrow.
-
-The winners of the Magampura Solar Solar Front of Derana will be awarded to a number of mass games.
-
-"The Magampura-year-old princess is scheduled to be held tomorrow afternoon.
-
-...
-
-[Data](articles/764ecb15.json)
-
-[Extended Data](ext_articles/764ecb15.ext.json)
-
----
-
-### RDA earns Rs. 126 million within three days from expressway users
-
-*2024-04-13 20:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/RDA-earns-Rs-126-million-within-three-days-from-expressway-users/108-280682) · `en`
-
-Colombo, April 13 (Daily Mirror) - The Road Development Authority (RDA) has generated Rs. 126 million in revenue from expressway users between April 10 and 12.
-
-During this period, 366,000 vehicles utilized the expressways, the RDA said.
-
-◼️
-
-[Data](articles/d4d44516.json)
-
-[Extended Data](ext_articles/d4d44516.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-14 14:31:26**
+As of **2024-04-14 15:59:54**
 
 ## Newspaper Stats
 
-*Scraped **18,780** Articles*
+*Scraped **18,790** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 164
+colombotelegraphcom | 165
 bbccomsinhala | 197
 dbsjeyarajcom | 215
 newsfirstlk | 363
@@ -16,57 +16,219 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,046
 adalk | 1,564
-tamilmirrorlk | 2,197
+tamilmirrorlk | 2,198
 adaderanalk | 2,264
-virakesarilk | 2,786
-dailymirrorlk | 2,892
-adaderanasinhalalk | 3,057
+virakesarilk | 2,788
+dailymirrorlk | 2,896
+adaderanasinhalalk | 3,059
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,773 (100.0%) of 18,780 articles have been extended.
+18,780 (99.9%) of 18,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-14 (Sunday)
 
-### ஹலி எல விபத்தில் பெண்கள் இருவர் பலி
+### ඊශ්‍රායලයට එල්ලවූ ප්‍රහාර මැද ශ්‍රී ලාංකිකයින් ගැන දැනුම්දීමක්
+
+*2024-04-14 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195620) · `si`
+
+මැද පෙරදිග යුද ගැටුම් තවදුරටත් තීව්‍ර කරමින් ඉරානය ඊයේ රාත්‍රියේදී ඊශ්‍රායලය වෙත ඩ්‍රෝන සහ මිසයිල ප්‍රහාර මාලාවක් දියත් කර තිබුණි.
+
+මෙම ප්‍රහාර මාලාව හමුවේ එරට සිටින ශ්‍රී ලාංකිකයින් සම්බන්ධයෙන් අදහස් දක්වමින් ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා නිවේදනයක් නිකුත් කර ඇත.
+
+එමගින් ඔහු ශ්‍රී ලාංකිකයින් පිරිසක් සමග ඩුබායි සිට ටෙල් අවීව් දක්වා පියාසර කරන ලද ගුවන් යානය සම්බන්ධයෙන්ද කරුණු පැහැදිළි කර ඇත.
+
+ෆ්ලයි ඩුබායි ගුවන් සේවයට අයත් FZ-1625 දරණ ගුවන් යානය ඊයේ රාත්‍රියේ 20.10ට පමණ ටෙල් අවීව් දක්වා දක්වා ගමන් කරමින් සිටියදී මෙම ප්‍රහාරය සම්බන්ධයෙන් තොරතුරු වාර්තා වී තිබුණු බව නිමල් බණ්ඩාර මහතා සිය නිවේදනයෙන් පවසයි.
+
+ඒ සමගම වහාම ක්‍රියාත්මක වී එම යානය නැවත හරවා ඩුබායි දක්වා පියාසර කරවීමට පියවර ගෙන ඇති බවද නිමල් බණ්ඩාර මහතා සිය නිවේදනය මගින් වැඩිදුරටත් පෙන්වා දී තිබේ.
+
+මේ අනුව එම යානයේ සිටි ඊශ්‍රායලය බලා පැමිණීමට සිටි ශ්‍රී ලාංකිකයින් සම්බන්ධයෙන් තොරතුරු අනාවරණය කරගැනීමට කටයුතු කරමින් සිටින බවද නිමල් බණ්ඩාර මහතා පවසයි.
+
+...
+
+[Data](articles/18edad2e.json)
+
+---
+
+### Group of Sri Lankans enroute to Israel stranded in Dubai due to tension in region
+
+*2024-04-14 15:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Group-of-Sri-Lankans-enroute-to-Israel-stranded-in-Dubai-due-to-tension-in-region/108-280696) · `en`
+
+Colombo, April 14 (Daily Mirror)- A group of Sri Lankans enroute to Tel Aviv in Israel on board Fly Dubai flight FZ 1625 have been stranded in Dubai because air travel is disrupted due to tensions in the region between Iran and Israel.
+
+Sri Lankan Ambassador in Israel Nimal Bandara told the Daily Mirror that the flight with some Sri Lankans among the passengers on board was diverted to Dubai following the information about the air strikes by Iran into Israeli territory.
+
+He said there are flight delays in the region and requested Sri Lankans travelling to or via the region to contact their respective airlines for possible changes in flight schedules.
+
+◼️
+
+[Data](articles/38c9b41b.json)
+
+---
+
+### அம்புலன்ஸ் சேவைகள் 24 மணி நேரமும் தயார் நிலையில் உள்ளன
+
+*2024-04-14 15:12:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்புலன்ஸ்-சேவைகள்-24-மணி-நேரமும்-தயார்-நிலையில்-உள்ளன/175-335929) · `ta`
+
+பண்டிகைக் காலத்தில் வினைத்திறன் மற்றும் தொடர்ச்சியான சுகாதார சேவைகளை உறுதிப்படுத்த தேவையான நடவடிக்கைகளை எடுக்குமாறு சுகாதார அமைச்சர் ரமேஷ் பத்திரனவினால் அதிகாரிகளுக்கு பணிப்புரை வழங்கப்பட்டுள்ளதாக சுகாதார செயலாளர் பாலித மஹீபால தெரிவித்துள்ளார்.
+
+பொதுவாக பண்டிகைக் காலங்களில் விபத்துகள், உணவு விஷம் மற்றும் தொற்றாத நோய்கள் அதிகரித்து வருகிறது.
+
+விபத்துக்கள், உணவு விஷமான சம்பவங்கள் மற்றும் தொற்றாத நோய்கள் காரணமாக வைத்தியசாலைகளில் அனுமதிக்கப்படும் நோயாளர்களுக்கு துரித சேவைகளை வழங்குவதற்கு அனைத்து நடவடிக்கைகளும் எடுக்கப்பட்டுள்ளதாக வைத்தியர் மஹீபால தெரிவித்தார்.
+
+அவசர காலங்களில் சேவைகளை வழங்க அம்புலன்ஸ் சேவைகள் இருபத்திநான்கு மணி நேரமும் தயார் நிலையில் இருப்பதாக அவர் கூறினார்.
+
+◼️
+
+[Data](articles/33ad0870.json)
+
+---
+
+### Advisory issued on severe lightning, heavy showers
+
+*2024-04-14 14:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Advisory-issued-on-severe-lightning-heavy-showers/108-280695) · `en`
+
+Colombo, April 14 (Daily Mirror)- The Natural Hazards Early Warning Centre of the Meteorology Department has issued a weather warning for thundershowers accompanied by severe lightning at several places in the Western, Sabaragamuwa, Southern, Central and North-Western Provinces.
+
+Thundershowers accompanied by severe lightning can occur at several places in the Western, Sabaragamuwa, Southern, Central and North-Western Provinces, the Department said.
+
+It said heavy showers of about 100 mm can be expected at some places in the Western, Sabaragamuwa, Uva and Southern Provinces and in the Ampara district.
+
+The Department said showers or thundershowers will occur at times in the Eastern and Uva Provinces and in the Hambantota, Nuwara Eliya and Matale districts while several spells of showers may occur in the Northern and North-Central Provinces.
+
+Showers or thundershowers will occur at several places elsewhere over the island after 2.00 p.m., the Department said.
+
+...
+
+[Data](articles/aa1cfd00.json)
+
+---
+
+### යුපුන්ට සුපිරි ජයක්
+
+*2024-04-14 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195619) · `si`
+
+ශ්‍රී ලංකා සුපිරි ධාවන ශූර යුපුන් අබේකෝන් ඉතාලියේ පැවති තරගාවලියක මීටර් 150 ඉසව්වේ ජය හිමිකරගෙන තිබේ.
+
+ඉතාලියේ ෆ්ලෝරන්ස් ස්ප්‍රින්ට් තරගාවලියේ මීටර් 150 ඉසව්වට එක්වූ යුපුන් මීටර් 150 ඉසව්ව තත්පර 15යි දශම 1යි 9ක කාලයකින් අවසන් කරමින් එම ඉසව්වේ පළමු ස්ථානය මෙලෙස හිමිකරගෙන ඇත.
+
+එම කාලය මීටර් 150 ඉසව්වේදි ඔහු මෙතෙක් වාර්තා කළ දෙවැනි වේගවත්ම කාලයයි.
+
+◼️
+
+[Data](articles/e10820e4.json)
+
+---
+
+### Two women killed, two injured in car tragedy at Hali-Ela
+
+*2024-04-14 13:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-women-killed-two-injured-in-car-tragedy-at-Hali-Ela/108-280694) · `en`
+
+Badulla, April 14 (Daily Mirror)- Two women were killed and another two injured when a car veered off the road and crashed onto a tree at Hali-Ela on the Badulla-Bandarawela main road.
+
+A group from the same family met with the tragedy while they were visiting a relative's house in Hali-Ela in view of the New Year.
+
+The deceased are a 70-year-old woman and a 51-year-old woman from Dompe, Puwakwatte.
+
+The 53-year-old father and a 22-year-old daughter have been admitted to the Badulla Teaching Hospital.
+
+◼️
+
+[Data](articles/77db4d07.json)
+
+---
+
+### Efficient healthcare services ensured during festive season: Health Ministry
+
+*2024-04-14 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Efficient-healthcare-services-ensured-during-festive-season-Health-Ministry/108-280693) · `en`
+
+Colombo, April 14 (Daily Mirror) Health authorities have been instructed by Health Minister Ramesh Pathirana to take necessary steps to ensure efficient and continuous healthcare services during the festive season, Health Secretary Palitha Maheepala said.
+
+Accidents, incidents of food poisoning and non-communicable diseases are usually on the rise during the festive season.
+
+Dr. Maheepala said all steps have been taken to provide prompt services to patients who are admitted to hospitals due to accidents, incidents of food poisoning and non-communicable diseases.
+
+He said ambulance services are also on standby for twenty-four hours to provide services in cases of emergency.
+
+◼️
+
+[Data](articles/ff71b4b8.json)
+
+---
+
+### Two women killed in Hali Ela accident
 
 *2024-04-14 13:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹலி-எல-விபத்தில்-பெண்கள்-இருவர்-பலி/175-335928) · `ta`
 
-புத்தாண்டை கொண்டாடுவதற்காக ஒரே குடும்பத்தைச் சேர்ந்த குழுவினரை ஏற்றிச் சென்ற கார் ஒன்று வீதியை விட்டு விலகிச் சென்று மரத்தில் மோதி இரு பெண்கள் உயிரிழந்துள்ளதுடன் தந்தை மற்றும் மகள் படுகாயமடைந்து பதுளை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர். பதுளை பண்டாரவளை பிரதான வீதியில் ஹாலிஎல ஆலயம் இன்று (14) இடம்பெற்றது.
+In Hali Ela, two women from Gampaha Dompe Puwakwatte were killed in a car accident celebrating New Year. Their daughter was injured and hospitalized.
 
-கம்பஹா தொம்பே புவக்வத்த பிரதேசத்தைச் சேர்ந்த எச்.எம். கமலாவதி (70) மற்றும் மருமகள் ஒருவருடன் அவரது மாமியார் முதுகமஹேவகே சிரியாவதி (51) ஆகியோரும் கூறியதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+🟩
+
+A car carrying a group of people from the same family to celebrate the New Year and two women were killed and two women were killed and their daughter was injured and admitted to the Badulla Teaching Hospital.. The Hali Ela Temple was held today (14) on the main road of Bandarawela, Badulla.
+
+HM from Gampaha Dompe Puwakwatte area. The police also said that Kamalavati (70) and her daughter -in -law, Mudumahake Syria (51), said.
 
 ◼️
 
 [Data](articles/52425955.json)
 
+[Extended Data](ext_articles/52425955.ext.json)
+
 ---
 
-### ක්‍රිකට් පිටිය උඩුයටිකුරු කළ හයේ හය
+### மனோநிலை பாதிக்கப்பட்டவரே சிட்னியில் நேற்று கத்திக்குத்து தாக்குதலில் ஈடுபட்டார் – அவுஸ்திரேலிய காவல்துறையினர்
+
+*2024-04-14 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181070) · `ta`
+
+சிட்னியின் பொன்டி வெஸ்ட்பீல்ட் வணிக வளாகத்தில் கத்திக்குத்து தாக்குதலை மேற்கொண்டு பலரை கொலை செய்தவர் குயின்ஸ்லாந்தை சேர்ந்த 40 வயது ஜோ கௌச்சி என காவல்துறையினர் தெரிவித்துள்ளனர்.
+
+இந்த நபர் மனோநிலை பாதிப்புக்குள்ளானவர் சில மாதங்களிற்கு முன்பே சிட்னியில் குடியேறினார் என காவல்துறையினர் தெரிவித்துள்ளனர்.
+
+அவரின் வன்முறை மிகவும் பயங்கரமானது என தெரிவித்துள்ள குடும்பத்தவர்கள் உயிரிழந்தவர்களின் குடும்பத்தவர்களிற்கு தங்கள் அனுதாபங்களை வெளியிட்டுள்ளனர்.
+
+கௌச்சி மீது துப்பாக்கி பிரயோகம் மேற்கொண்டு அவரின் வெறியாட்டத்தை தடுத்து நிறுத்திய பெண் காவல்துறை உத்தியோகத்தருக்கு அவர்கள் தங்கள் ஆதரவை வெளியிட்டுள்ளனர்.
+
+கௌச்சி பெண்களை இலக்குவைத்து தாக்குதலை மேற்கொண்டாரா என்பது குறித்து ஆராய்ந்து வருவதாக காவல்துறையினர் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/50a959fd.json)
+
+---
+
+### Six six six with cricket ground
 
 *2024-04-14 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195618) · `si`
 
-විස්සයි විස්ස ක්‍රිකට් තරගයකදී පන්දුවාරයක් තුළදී හයේ පහර හයක් එල්ලකළ තුන්වන ක්‍රීඩකයා ලෙස ක්‍රිකට් වාර්තා පොතට එක්වීමට නේපාල ක්‍රිකට් ක්‍රීඩක දිපේන්ද්‍ර සිං සමත්ව තිබේ.
+Diprandra Singh, a Nepalese cricketer, scored six sixes in six balls in the Asian Premier Cup, becoming the third player in the Twenty20. He was selected after Yuvaraj Singh and Kiran Palad. In a match last year, he scored 64 runs in 20 overs, including six sixes and seven fours, leading Nepal to 210 runs.
 
-ආසියානු ප්‍රිමියර් කුසලාන ජාත්‍යන්තර ක්‍රිකට් තරගාවලියේ කටාර් රාජ්‍යට එරෙහිව පැවති තරගයේදී ඔහු මෙම දක්ෂතාවය දක්වා ඇත.
+🟩
 
-ඒ අනුව සුපිරි ක්‍රීඩකයින් වන යුවරාජ් සිං සහ කිරන් පොලාඩ්ගෙන් පසුව ජාත්‍යන්තර 20-20 පිටියේ පිට පිට පන්දු 6 කදී හයේ පහරවල් 6ක් වාර්තා කළ පිතිකරුවා බවට දිපේන්ද්‍ර සිං පත්විය.
+Nepal Cricketers Diphendra Singh has also been able to join the Cricket Report as a third player in the Twenty20 player.
 
-පසුගිය වසරේ සැප්තැම්බර් මාසයේදී මොංගෝලියාවට එරෙහිව පැවති තරගයකදී පන්දු 9කින් අර්ධ ශතකයක් වාර්තා කරමින් 20/20 පිටියේ වේගවත්ම අර්ධ ශතක ලාභියා ලෙස ද දිපේන්ද්‍ර සිං ක්‍රිකට් වාර්තා පොතට එක්විය.
+He made this talent in the competition against Qatar in the Asian Premier Cup International Cricket Tournament.
 
-තරගයේ පළමුව පන්දුවට පහර දුන් නේපාලය නියමිත පන්දුවාර 20 අවසානයේදී කඩුලු 7ක් දැවි ලකුණු 210ක් රැස්කළේය.
+Accordingly, Dipandra Singh was elected to the batting of six six batsman after the Super players Yuvaraj Singh and Kiran Palad.
 
-එහි අවසන් පන්දුවාරයේදී ක්‍රියාත්මක වූ  දිපේන්ද්‍ර සිං පිට පිට පන්දු 6 කදී හයේ පහරවල් 6ක් වාර්තා කිරීමට සමත්වුණා.
+In September last year, Dipandra Singh joined the Farmers' Records Book.
 
-එහිදී දීපේන්ද්‍ර සිං පන්දු 21කදී හයේ පහර 7ක් සහ හතරේ පහර 3ක් සමගින් නොදැවී රැස්කළ ලකුණු සංඛ්‍යාව 64කි.
+Batting first, Nepal scored 210 runs for the loss of 7 wickets in their allotted 20 overs.
 
-...
+Diprandra Sinhala, operating at the last over, was recorded six six bursts in six balls.
+
+The Deephra Sylligious scored 64 runs in his six sixes and 7 fours and three fours.
+
+At the end of 178 runs, the loss of 9 wickets in the end of 20 overs were collected.
+
+◼️
 
 [Data](articles/48d79972.json)
+
+[Extended Data](ext_articles/48d79972.ext.json)
 
 ---
 
@@ -110,6 +272,8 @@ Posting on ‘X’ (formerly Twitter), Semasinghe expressed that Sri Lanka’s j
 
 [Data](articles/7a2a5646.json)
 
+[Extended Data](ext_articles/7a2a5646.ext.json)
+
 ---
 
 ### Madagascan woman arrested with 75 swallowed cocaine capsules at BIA
@@ -131,6 +295,8 @@ After extracting the swallowed drug capsules from the suspect’s body, she will
 ◼️
 
 [Data](articles/7c7fcf69.json)
+
+[Extended Data](ext_articles/7c7fcf69.ext.json)
 
 ---
 
@@ -155,6 +321,26 @@ Preliminary investigations have revealed that the deceased was being used by fir
 [Data](articles/4c38ce72.json)
 
 [Extended Data](ext_articles/4c38ce72.ext.json)
+
+---
+
+### அடுத்த கட்ட நடவடிக்கை என்ன ? தீர்மானிக்கும் பொறுப்பு இஸ்ரேலின் போர்க்கால அமைச்சரவையிடம் - மத்திய கிழக்கில் பாரிய மோதல் ஆபத்து தொடர்கின்றது
+
+*2024-04-14 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181066) · `ta`
+
+ஈரானின் தாக்குதலை தொடர்ந்து எவ்வாறான பதில் நடவடிக்கையை எடுப்பது என்பதை தீர்மானிக்கும் பொறுப்பபை இஸ்ரேலிய போர் அமைச்சரவையிடம் இஸ்ரேலிய அமைச்சரவை கையளித்துள்ள அதேவேளை மத்திய கிழக்கில் பாரிய யுத்தமொன்றிற்கான வாய்ப்புகள் தொடர்ந்தும் நீடிக்கின்றன.
+
+நள்ளிரவில் கூடிய இஸ்ரேலிய அமைச்சரவை அடுத்த கட்டம் குறித்து தீர்மானிக்கும் பொறுப்பை இஸ்ரேலிய பிரதமர் உட்பட மூவர் அடங்கிய போர் அமைச்சரவையிடம் ஒப்படைத்துள்ளது.
+
+மூவரும் அடுத்த கட்ட நடவடிக்கை குறித்து தீர்மானிக்கவுள்ள நிலையில் பிராந்தியத்தின் தலைவிதி அவர்களின் கரங்களில் தற்போது தங்கியுள்ளது.
+
+யுத்த அமைச்சரவையின் கூட்டத்திற்கு முன்னரான பதற்றமான நிமிடங்களில் அமெரிக்க ஜனாதிபதியும் இஸ்ரேலிய பிரதமரும் 25 நிமிடங்கள் தொலைபேசி உரையாடலில் ஈடுபட்டனர்.
+
+இந்த உரையாடலில் இஸ்ரேல் பொறுமையை கடைப்பிடிக்கவேண்டு;ம் என பைடன் வலியுறுத்தினார் என இஸ்ரேலிய ஊடகங்கள் சில தெரிவித்துள்ளன.
+
+...
+
+[Data](articles/145b7233.json)
 
 ---
 
@@ -210,41 +396,55 @@ A pirith chanting ceremony was held last night at the Siri Vajiragnana Dhamma Sc
 
 ---
 
-### மக்களுக்கு விடுக்கப்பட்டுள்ள எச்சரிக்கை
+### Alert
 
 *2024-04-14 11:15:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மக்களுக்கு-விடுக்கப்பட்டுள்ள-எச்சரிக்கை/73-335927) · `ta`
 
-மட்டக்களப்பு மாவட்டத்தில் கடுமையான வெயிலுடனான காலநிலை நீங்கி மழை பெய்துவரும் நிலையில் மக்கள் குடியிருப்புகளை நோக்கி முதலைகள் வரும் சாத்தியம் இருப்பதால் மக்களை அவதானமாக செயற்படுமாறு அறிவுறுத்தப்பட்டுள்ளது.
+In Batticaloa, residents have caught the first person entering a concentrated area, likely due to crocodile vigilance during rain. Despite no water bodies, people entered the area. The Department of Wildlife was informed, and the crocodile is currently being cared for.
 
-மட்டக்களப்பு மாநகரசபைக்குட்பட்ட மக்கள் செறிந்து வாழும் கூழாவடி பகுதிக்குள் நுழைந்த முதலையொன்று மக்களினால் பிடிக்கப்பட்டுள்ளது.
+🟩
 
-குறித்த பகுதிக்குள் நீர்நிலைகள் இல்லாதபோதிலும் முதலையொன்று மக்கள் பகுதிக்குள் நுழைந்ததையடுத்து பெரும் பதற்ற நிலைமையேற்பட்டதாக அப்பகுதி மக்கள் தெரிவித்தனர்.
+In the Batticaloa district, the crocodile is likely to be vigilant due to the possibility of crocodiles to the residences as it is raining and it is raining.
 
-முதலையை அப்பகுதி மக்கள் பிடித்து சம்பவம் குறித்து வனஜீவராசிகள் திணைக்களத்திற்கு அறிவிக்கப்பட்டதை தொடர்ந்து முதலையினை கொண்டுசெல்லும் நடவடிக்கை முன்னெடுக்கப்பட்டது.
+The first person who entered the concentrated area of the Batticaloa Municipal Council has been caught by the people.
 
-தற்போது மழையுடனான காலநிலை நிலவும் நிலையில் முதலைகளின் நடமாட்டம் தொடர்பில் அவதானமாக செயற்படுமாறு அறிவுறுத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+The residents of the area said that despite the lack of water bodies in the area, the first people entered the area.
+
+Following the announcement to the Department of Wildlife, the people of the area have been taken up by the people of the area.
+
+It is noteworthy that the crocodile is currently undergoing a care of the crocodiles.
 
 ◼️
 
 [Data](articles/b4d6ee3f.json)
 
+[Extended Data](ext_articles/b4d6ee3f.ext.json)
+
 ---
 
-### ஐ.நா. பாதுகாப்பு கவுன்சில் ஞாயிற்றுக்கிழமை கூடுகிறது
+### The UN. The Security Council meets Sunday
 
 *2024-04-14 11:06:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஐ-நா-பாதுகாப்பு-கவுன்சில்-ஞாயிற்றுக்கிழமை-கூடுகிறது/50-335926) · `ta`
 
-ஈரான் வான்வழித் தாக்குதலைத் தொடர்ந்து இஸ்ரேல் அவசரக் கூட்டத்தைக் கோரியதை அடுத்து ஐ.நா. பாதுகாப்பு கவுன்சில் ஞாயிற்றுக்கிழமை கூடுகிறது.
+The UN Security Council meets Sunday to discuss Iran's air strike on Israel, following an attack on Iran's embassy in Syria. Israeli Ambassador Erdan called for declaring IRGC a terrorist organization. The Council, led by Antonio and Francis, urges Israel and Iran to de-escalate tensions.
 
-சனிக்கிழமை பிற்பகுதியில் வெளியிடப்பட்ட அட்டவணையின்படி, 15 உறுப்பினர்களைக் கொண்ட கவுன்சில் நியூயோர்க்கிலுள்ள உள்ளூர் நேரப்படி மாலை 4 மணிக்கு கூடும்.
+🟩
 
-ஐ.நா.வுக்கான இஸ்ரேலின் தூதர் கிலாட் எர்டன், "கடுமையான அத்துமீறல்களுக்காக ஈரானைக் கண்டித்து உடனடியாக IRGC ஐ ஒரு பயங்கரவாத அமைப்பாக அறிவிக்க நடவடிக்கை எடுக்க கூட்டத்தைக் கூட்ட வேண்டும்" என்று சனிக்கிழமை கேட்டுக் கொண்டார்.
+The United Nations demanding an emergency crowd following Iran's air strike. The Security Council meets Sunday.
 
-கவுன்சிலின் தலைவருக்கு எழுதிய கடிதத்தில், எர்டான் இந்த தாக்குதல் உலகளாவிய அமைதி மற்றும் பாதுகாப்பிற்கு "தீவிரமான அச்சுறுத்தல்" என்று கூறினார், ஈரானுக்கு எதிராக உறுதியான நடவடிக்கை எடுக்க கவுன்சில் எல்லா வழிகளையும் பயன்படுத்த வேண்டும் என்று அவர் எதிர்பார்க்கிறார்.
+According to the table released on Saturday, the 15 -member Council will meet at 4 pm local time in New York.
+
+Israeli Ambassador to the United Nations on Saturday called on Khilat Eron to "convene a meeting to take steps to declare IRGC as a terrorist organization for fierce violations."
+
+In a letter to the chairman of the Council, Erdan said the attack was a "extreme threat" for global peace and security, and he expects the Council to use all the ways to take concrete action against Iran.
+
+UN Secretary -General Antonio and General Council Chairman Dennis Francis have separately voiced the attack and urged Israel and Iran to keep up with the increasing number of tensions in the area.
 
 ...
 
 [Data](articles/70e4e58c.json)
+
+[Extended Data](ext_articles/70e4e58c.ext.json)
 
 ---
 
@@ -268,25 +468,33 @@ However, people will not have to wait longer in queues. Buses will be provided o
 
 ---
 
-### செல்லப்பிராணிகளை வீட்டில் பாதுகாப்பாக வைத்திருக்கவும்
+### Keep pets safe at home
 
 *2024-04-14 10:53:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செல்லப்பிராணிகளை-வீட்டில்-பாதுகாப்பாக-வைத்திருக்கவும்/175-335925) · `ta`
 
-சிங்களம் மற்றும் தமிழ் பண்டிகைக் காலத்தில், இலங்கையில் சுற்றுசூழல் ஆர்வலர்கள் பட்டாசு வெடிப்பதால் செல்லப்பிராணிகள் மற்றும் வனவிலங்குகளுக்கு ஏற்படும் பாதிப்புகள் குறித்து எச்சரிக்கை விடுத்துள்ளனர்.
+Environmental activists in Sri Lanka warn that fireworks during Sinhalese and Tamil festivals harm pets and wildlife, causing birds to leave nests and dogs to feel fear or tension.
 
-சுற்றுச்சூழல் ஆர்வலர் நயனக ரன்வெல்லவின் கருத்துப்படி, பட்டாசுகள் மனிதர்களின் அமைதியை சீர்குலைப்பது மட்டுமல்லாமல், வனவிலங்குகள், குறிப்பாக நாய்கள் மற்றும் பூனைகள் உட்பட பறவைகள் மற்றும் சிறிய பாலூட்டிகளின் மீது ஆழமான தாக்கத்தை ஏற்படுத்துவதாக ஆராய்ச்சி சுட்டிக்காட்டுகிறது.
+🟩
 
-உரத்த வெடிப்புகளின் பொருட்டு பறவைகள் பயத்தில் கூடுகளை விட்டு வெளியேறி, அவற்றின் வாழ்விடங்களை சீர்குலைக்கும் நிலை ஏற்படும்.
+During the Sinhalese and Tamil festival, environmental activists in Sri Lanka have warned pets and wildlife effects of fireworks.
 
-ஆய்வுகளின்படி, விலங்குகள் மனிதர்களை விட மிகவும் அதிக செவித்திறன் கொண்டவை, அவை குறிப்பாக பட்டாசு வெடிப்புகளுக்கு அதி உணர்திறன் கொண்டவை.
+According to environmental activist Nayanaka Ranwella, research indicates that crackers have a deep impact on birds and small mammals, especially in the birds, including wildlife, dogs and cats.
 
-வெடிப்புகள் 190 டெசிபல்களை எட்டும் - 75 டெசிபல்களில் மனித செவிப்புலன் சேதத்திற்கான வரம்பை மீறுகிறது – அதிக ஒலி விலங்குகளில் கவலை, குழப்பம் மற்றும் பீதியைத் தூண்டும்.
+For the sake of loud eruptions, the birds will leave the nests in fear and disrupt their habitats.
 
-மேலும், 50 சதவீத நாய்கள் பட்டாசு வெடிக்கும் போது பயம் அல்லது பதட்டத்தை அனுபவிப்பதாக ஆய்வுகள் தெரிவிக்கின்றன.
+According to studies, the animals are more hears than humans, especially sensitive to crackers.
 
-...
+Explosions reach 190 decibels - 75 decibels exceed the range of human hearing damage - more sound animals can cause anxiety, confusion and panic.
+
+In addition, studies have shown that 50 percent of dogs experience fear or tension when fireworks explodes.
+
+The combination of loud noise and large crowds may be more than pets, and environmental activists have to have pet owners to keep their furry friends safe during fireworks events.
+
+◼️
 
 [Data](articles/7020b55e.json)
+
+[Extended Data](ext_articles/7020b55e.ext.json)
 
 ---
 
@@ -695,6 +903,22 @@ He says that he and his wife will benefit all the world who celebrate this uniqu
 [Data](articles/f0615592.json)
 
 [Extended Data](ext_articles/f0615592.ext.json)
+
+---
+
+### How Long Can The People Be Fooled?
+
+*2024-04-14 08:00:43* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/how-long-can-the-people-be-fooled/) · `en`
+
+Since gaining independence, Sri Lanka has navigated a turbulent political landscape, swinging between left and right-wing ideologies until the early ’90s. Since then, the nation has largely sought a middle path. The prolonged  war, spanning nearly three decades, hampered development and progress but benefitted a segment from the nature of war economy.
+
+However, 2009 marked a turning point with the war’s end, heralding an era of peace and offering Sri Lanka a golden opportunity to ascend to the ranks of developed nations. Country missed the bus, not necessarily due to known reasons but also the refusal to accept the fact the universal law ‘no one wins in a war’ and ‘All must benefit from peace’. This is history now.
+
+Future potential thereafter has been overshadowed by a myriad of challenges.
+
+...
+
+[Data](articles/d3c9eb27.json)
 
 ---
 
@@ -2021,227 +2245,5 @@ At that time, a quantity of rice that had been brought in after a few days was s
 [Data](articles/32973ecc.json)
 
 [Extended Data](ext_articles/32973ecc.ext.json)
-
----
-
-### After PM’s Chinese visit, US NSA talks to Sri Lanka President’s advisor on peace, security
-
-*2024-04-13 14:00:00* · [`economynextcom`](https://economynext.com/after-pms-chinese-visit-us-nsa-talks-to-sri-lanka-presidents-advisor-on-peace-security-158419/) · `en`
-
-ECONOMYNEXT – The United States National Security Advisor (NSA) Jake Sullivan held talks with Sri Lanka President’s Senior Advisor on National Security Sagala Ratnayaka focusing on regional security issues this week.
-
-The conversation between the two comes days after Sri Lanka Prime Minister Dinesh Gunawardena ended an official visit to China in which he met President Xi Jinping and his counterpart Li Qiang in Beijing amid discussions over further investments in Sri Lanka and concerns over banning Chinese research ships.
-
-The United States along with India is highly concerned over increasing Chinese influence in Sri Lanka, which is located in a strategic location in the Asia.
-
-China already owns a port and a proclaimed land next to the main Colombo port in Sri Lanka and analysts say the Beijing’s ownership of assets has raised doubts if China is planning to use Sri Lanka as a military base. China has denied this and said its relationship with Sri Lanka is only based on commercial aspects.
-
-...
-
-[Data](articles/f24471ef.json)
-
-[Extended Data](ext_articles/f24471ef.ext.json)
-
----
-
-### Four killed in a businessman in Sydney, Australia
-
-*2024-04-13 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/181048) · `ta`
-
-In Sydney, Australia, four people were killed in a businessman incident, reportedly involving a knife. Police have issued warnings and reports suggest multiple targets.
-
-🟩
-
-The incident took place shortly before the incident, called Sydney's Pontie Jungson.
-
-Police have warned the public that a person is found with a knife inside a businessman, according to a massive incident.
-
-There are reports that many have been targeted for a knife.
-
-◼️
-
-[Data](articles/d8cd358c.json)
-
-[Extended Data](ext_articles/d8cd358c.ext.json)
-
----
-
-### The wild elephant who works for the year
-
-*2024-04-13 13:48:04* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුද්දට-වැඩ-ඇල්ලූ-වන-අලි/11-409070) · `si`
-
-A wild elephant injured by bricks in Manampitiya attacked a wall in Dimbulagala, causing severe damage to villagers near Aiaskadara.
-
-🟩
-
-Manampitiya police have been admitted to the hospital due to the injuries of the brick walls in the brick walls and the injured due to the attack on a wall of Dimbulagala today.
-
-It is said that the villagers have been damaged in the vicinity of the Aiaskadara village and the villagers have been severely damaged.
-
-◼️
-
-[Data](articles/88a18ed2.json)
-
-[Extended Data](ext_articles/88a18ed2.ext.json)
-
----
-
-### Answer the Israeli Iran prepare 100 missiles
-
-*2024-04-13 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195590) · `si`
-
-The US warns Iran against attacking Israel, with Iran preparing 100 missiles. Iran's military and weapons have been identified by the US. The US is directing additional support to the region and has limited embassy staff due to the risk of an Iranian attack. Israel denies responsibility for the attack on its embassy in Syria.
-
-🟩
-
-The world powers have drawn attention to the zone with Iran to attack Israel.
-
-The United States has warned Iran to attack Israel at a very immediate day.
-
-US President Joe Biden, who commented on it, has said that their country supports Israel.
-
-It was also said that such attacks were warning.
-
-According to the report that the regional warmth is released, there is an opportunity to bug the attacks to Israel as well as Israeli targets.
-
-The US revealed that Iran was identified after Iran was being placed throughout its military and weapons.
-
-The US is already working to direct additional bursts to the region.
-
-The United States government decided to limit their employees from the embassy based on the risk of an Iranian attack.
-
-At least 3 people were killed by a Iranian Army chief from an attack on the Iranian embassy in Syria earlier this month.
-
-...
-
-[Data](articles/3bf6b885.json)
-
-[Extended Data](ext_articles/3bf6b885.ext.json)
-
----
-
-### A knives of knives in Australia
-
-*2024-04-13 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195589) · `si`
-
-In Sydney, Australia, a knife attack in a shopping complex hospitalized several. The suspect was shot by police, but details are unclear.
-
-🟩
-
-It has been reported that a shopping complex in Sydney, Australia, has been conducted.
-
-Foreign media has said that a group of malls were hit with a knife and hospitalized.
-
-The suspect has been shot by the police, but there is no accurate information.
-
-◼️
-
-[Data](articles/f74cbd02.json)
-
-[Extended Data](ext_articles/f74cbd02.ext.json)
-
----
-
-### Certificate from the world to the rupee
-
-*2024-04-13 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195588) · `si`
-
-In Q1 2024, the Sri Lankan rupee outperformed all others, gaining over 7% from the start of the year, according to the Presidential Media Unit.
-
-🟩
-
-The Sri Lankan rupee has shown that the Sri Lankan rupee has become the top performance unit in the first quarter of 2024, the Presidential Media Unit said.
-
-It has shown more than 7% over the beginning of the year.
-
-◼️
-
-[Data](articles/d4db57f1.json)
-
-[Extended Data](ext_articles/d4db57f1.ext.json)
-
----
-
-### Man shot in Sydney mall after reports of mass stabbing
-
-*2024-04-13 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98608/man-shot-in-sydney-mall-after-reports-of-mass-stabbing) · `en`
-
-A man was shot at a mall in Sydney on Saturday following reports of multiple people stabbed, police in the city said.
-
-Emergency services were called to Westfield Bondi Junction just before 4 p.m. (0600 GMT) following the reports, New South Wales Police said in a statement.
-
-“Inquiries are continuing in relation to the incident and there are no further details.”
-
-Hundreds of people were evacuated from the shopping centre after the incident, news site news.com.au reported.
-
-“Even 20 minutes after people were rushed out of the mall, I saw SWAT teams of people sweeping the surrounding streets,” one of the witnesses said.
-
-One witness said they saw a woman lying on the ground and took shelter in a jewellery store.
-
-◼️
-
-[Data](articles/819bffdf.json)
-
-[Extended Data](ext_articles/819bffdf.ext.json)
-
----
-
-### 15,000 security personnel deployed for Sinhala and Tamil New Year celebrations
-
-*2024-04-13 12:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/15-000-security-personnel-deployed-for-Sinhala-and-Tamil-New-Year-celebrations/108-280670) · `en`
-
-Colombo, April 13 (Daily Mirror) - Special security measures have been implemented for the Sinhala and Tamil New Year celebrations across the island, with around 4,500 events planned, including music shows and carnivals, Police said.
-
-Inspector General of Police Deshabandu Tennakoon has directed senior Deputy Inspectors General of Police and divisional officers to ensure public safety through enhanced police security.
-
-Police have instructed officers in charge to provide security at public gathering points during the festivities.
-
-Accordingly, approximately 14,000 police, nearly 500 Special Task Force and 400 military personnel have been deployed for security purposes.
-
-In addition, 15,806 Civil Defense Committee members will assist in organizing and coordinating these events.
-
-◼️
-
-[Data](articles/02ee8caf.json)
-
-[Extended Data](ext_articles/02ee8caf.ext.json)
-
----
-
-### Heavy showers on the cards in multiple provinces
-
-*2024-04-13 12:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-showers-on-the-cards-in-multiple-provinces/108-280669) · `en`
-
-Colombo, April 13 (Daily Mirror) -  The Meteorology Department has issued a weather advisory forecasting heavy showers of about 75 mm in some areas of the Western and Sabaragamuwa Provinces, as well as in the Galle and Matara districts.
-
-Residents in these regions are advised to take necessary precautions to mitigate any potential damages caused by the downpour.
-
-Furthermore, several spells of light showers are expected in the Northern and Eastern Provinces, with showers or thundershowers forecast in a few places in the North-Central, Central and Uva Provinces, as well as several other areas of the island after 2:00 p.m.
-
-Meanwhile, misty conditions may prevail in certain areas of the Western, Central, Sabaragamuwa, and Uva Provinces, as well as in the Galle and Matara districts during the morning hours.
-
-Moreover, with the apparent northward relative motion of the sun, it is set to be directly overhead the latitudes of Sri Lanka from the 5th to the 15th of April this year.
-
-...
-
-[Data](articles/3bde9c18.json)
-
-[Extended Data](ext_articles/3bde9c18.ext.json)
-
----
-
-### Sri Lanka’s Rupee leads emerging markets in 1st quarter of 2024
-
-*2024-04-13 12:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-Rupee-leads-emerging-markets-in-1st-quarter-of-2024/108-280668) · `en`
-
-Colombo, April 13 - Sri Lanka's Rupee (LKR) has distinguished itself as the top-performing currency among emerging markets in the first quarter of 2024, said the President’s Media Division based on Bloomberg market data.
-
-With an impressive spot return exceeding 7%, the LKR has surpassed its counterparts, showcasing resilience and strength in the global currency landscape, the PMD added.
-
-◼️
-
-[Data](articles/50e041e0.json)
-
-[Extended Data](ext_articles/50e041e0.ext.json)
 
 ---

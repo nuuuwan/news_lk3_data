@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-14 08:35:36**
+As of **2024-04-14 09:13:03**
 
 ## Newspaper Stats
 
-*Scraped **18,742** Articles*
+*Scraped **18,750** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,89 +14,211 @@ dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
-economynextcom | 1,045
+economynextcom | 1,046
 adalk | 1,560
-tamilmirrorlk | 2,189
+tamilmirrorlk | 2,191
 adaderanalk | 2,258
-virakesarilk | 2,782
+virakesarilk | 2,785
 dailymirrorlk | 2,885
-adaderanasinhalalk | 3,049
+adaderanasinhalalk | 3,051
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,739 (100.0%) of 18,742 articles have been extended.
+18,742 (100.0%) of 18,750 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-14 (Sunday)
 
-### ජාතියක් දේශයක් ලෝකයක් ඉදිරියට යනු ලබන්නේ අලුත්වීමෙන් - ජනපති
+### රටපුරා අවුරුදු සමරයි
+
+*2024-04-14 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195612) · `si`
+
+ලැබුවා වූ සිංහල හා දෙමළ අලුත් අවුරුද්ද සුබ අලුත් අවුරුද්දක් වේවා යි ඔබට සැමට අද දෙරණ ප්‍රවෘත්ති අංශයේ අපි ප්‍රාර්ථනා කරමු.
+
+සූර්යයා මීන රාශියේ සිට මේෂ රාශියට සංක්‍රමණය වීම හෙවත් අලුත් අවුරුදු උදාව ඊයේ (13) අපරභාග 09.05ට සිදු විය.
+
+ආහාර පිසීමේ නැකැත රාත්‍රී 11.06ට යෙදී තිබූ අතර නීල වර්ණ වස්ත්‍රාභරණයෙන් සැරසී දකුණු දිශාව බලා ලිප් බැඳ ගිනි මොලවා තල්, උක් හකුරු මිශ්‍ර කිරි බතක් ද තල මිශ්‍ර කැවිලි වර්ගයක් ද පිළියෙළ කර ගැනීම මැනවි බව අවුරුදු නැකැත් පත්‍රයේ සඳහන්ව තිබුණි.
+
+වැඩ ඇල්ලීම, ගණුදෙනු කිරීම සහ ආහාර අනුභවය ඊයේ මධ්‍යම රාත්‍රී 12.06ට යෙදී තිබූ අතර නීල වර්ණ වස්ත්‍රාභරණයෙන් සැරසී දකුණු දිශාව බලා සියලු වැඩ අල්ලා ගණුදෙනු කොට ආහාර අනුභවය සිදුකළ යුතු බව නැකැත් පත්‍රයේ සඳහන් විය.
+
+සිංහල හා දෙමළ අලුත් අවුරුද්දේ හිසතෙල් ගෑමේ නැකැත හෙට (15) දිනයට යෙදී ඇති අතර එය හෙට පූර්ව භාග 10.17ට යෙදී තිබේ.
+
+ශ්වේත්‍ර වර්ණ හෙවත් සුදු වස්ත්‍රාභරණයෙන් සැරසී දකුණු දිශාව බලා හිසට දිවුල්පත් ද පයට ඉඹුල්පත්ද තබා දිවුල් පත් යුෂ මිශ්‍ර නානු හා තෙල් ගා ස්නානය කිරීම මැනවි බව නැකැත් පත්‍රයේ සඳහන් වේ.
+
+...
+
+[Data](articles/296a6021.json)
+
+---
+
+### අලුත් අවුරුද්දට සුබ පැතුම් එක්කළ ලෝක බලවතා
+
+*2024-04-14 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195611) · `si`
+
+අමෙරිකානු ජනාධිපති ජෝ බයිඩන් සිංහල හා දෙමළ අවුරුද්ද නිමිත්තෙන් මෙරට ජනතාවට සුබ පැතුම් එක්කර තිබේ.
+
+සිය එක්ස් ගිණුමේ සටහනක් තබමින් ජෝ බයිඩ්න් සිය සුබපැතුම් එක්කර තිබුණි.
+
+මෙම සුවිශේෂී අවස්ථාව සමරන ලොව සියලුදෙනා ට තමා සහ තම බිරිඳ සුබපතන බව ඔහු සිය සටහනින් පවසයි.
+
+◼️
+
+[Data](articles/f0615592.json)
+
+---
+
+### A nation is coming forward to renewal - President
 
 *2024-04-14 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195610) · `si`
 
-අලුත්වීම ජීවිතයට අලුත් බලාපොරොත්තුවක් එක් කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe highlights renewal as a source of hope, emphasizing the traditional year's significance in Sinhala and Tamil New Year. Prime Minister Dinesh Gunawardena underscores the importance of new concepts and protecting beauty in the New Year. Opposition Leader Sajith Premadasa expresses optimism for the country's prosperity and acknowledges the challenges of new normalization.
 
-ජනාධිපතිවරයා පෙන්වා දෙන්නේ ජාතියක් දේශයක් ලෝකයක් ඉදිරියට යනු ලබන්නේ අලුත්වීමෙන් බවය.
+🟩
 
-සාම්ප්‍රදායික අවුරුද්දට අලුත් වීම කැලැන්ඩර් අවුරුද්දට අලුත් වීම සෘතුවෙන් සෘතුවට අලුත් වීම ආදී වශයෙන් ලෝකයේ රටවල ජනතාව ඔවුන්ට ලැබී ඇති අවස්ථාවන් හීදී අලුත් වන බව සිය අලුත් අවුරුදු පණිවුඩය නිකුත් කරමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe says that the renewal will add a new hope for life.
 
-සිංහල හා දෙමළ අලුත් අවුරුද්දේ අප අලුත් වන්නේ ද සබඳතාවය සහ සාමූහිකත්වය කේන්ද්‍ර කොටගෙන වන බවත් ලෝකයේ ඕනෑම රටක සාම්ප්‍රදායික අවුරුදු චාරිත්‍රයන් සැකසී ඇත්තේ මෙම කරුණු පදනම් කරගෙන බවත් ජනාධිපතිවරයා පෙන්වා දෙයි.
+The President pointed out that a nation is a world from renewal.
 
-අලුත් අවුරුද්දේ රටක් වශයෙන් නිවැරදි මඟක ඉදිරියට යාමට අවශ්‍ය මුලීක සාධකයන් වනුයේ ද සමාජ සබඳතාවය සහ සාමූහිකත්වය බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය සුබපැතුම් පණිවුඩයෙන් දැනුම් දෙයි.
+President Ranil Wickremesinghe says that the new year's new year is new in the world that the people of the world have been renewed by the renewal of the traditional year.
 
-මේ අතර නවමු සංකල්පයන් තුළින් පෝෂිත අලුත් අවුරුද්දක් අදින් ඇරඹිය යුතු බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පවසයි.
+The President points out that the traditional years of the world is based on the connection and collective years in the Sinhala and Tamil New Year.
+
+President Ranil Wickremesinghe, President Ranil Wickremesinghe, congratulates its greeting as a social connection and solidarity in the New Year.
+
+Prime Minister Dinesh Gunawardena says that the new year should begin a New Year through the new concepts.
+
+The Prime Minister points out that the real rights of the New Year is the duty of all of us to protect that beauty.
+
+Prime Minister Dinesh Gunawardena says that the new year should be gratefully recalled in the New Year, the new year should be convinced in the New Year.
 
 ...
 
 [Data](articles/6b3c8df1.json)
 
+[Extended Data](ext_articles/6b3c8df1.ext.json)
+
 ---
 
-### ඊශ්‍රායලයට දැඩි ප්‍රහාරයක්
+### ஈரான் தாக்குதல் - இஸ்ரேலின் தென்பகுதி இராணுவதளம் சேதம்
+
+*2024-04-14 07:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181061) · `ta`
+
+ஈரானின் தாக்குதல் காரணமாக இஸ்ரேலின் தென்பகுதியில் உள்ள இராணுவதளமொன்று சேதமடைந்துள்ளதாக இஸ்ரேலிய இராணுவம் தெரிவித்துள்ளது.
+
+தளத்தின் உட்கட்டமைப்பிற்கு சிறிய சேதங்கள் ஏற்பட்டதாக இஸ்ரேலின் இராணுவபேச்சாளர் ரியர் அட்மிரல் டானியல் ஹகாரி  தெரிவித்துள்ளார்.சில காயங்கள் ஏற்பட்டுள்ளதாகவும் அவர் தெரிவித்துள்ளார்
+
+ஈரான் செலுத்திய ஆளில்லா விமானங்கள் ஏவுகணைகள் பலவற்றை இஸ்ரேலின் எல்லைக்குள் வைத்து செயல் இழக்கச்செய்துவிட்டதாக அவர் தெரிவித்துள்ளார்.
+
+அரோ அமைப்பு முறையை பயன்படுத்தி வான்வெளிபாதுகாப்பு பொறிமுறை ஏவுகணைகள் ஆளில்லா விமானங்களை எதிர்கொண்டது இந்த நடவடிக்கையில் எங்களின் மூலோபாய சகாக்களும் உதவி வழங்கினார்கள் எங்கள் எல்லைக்குள் வருவதற்குள் அனேகமானவற்றை செயல் இழக்கச்செய்துவிட்டோம் என அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/2b4d9c97.json)
+
+---
+
+### A strong attack on Israel
 
 *2024-04-14 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195609) · `si`
 
-විදෙස් මාධ්‍ය වාර්තා කරන්නේ ඊයේ (13) රාත්‍රී ඉරානය විසින් ඊශ්‍රායලයේ හඳුනාගත් ස්ථානවලට ඩ්‍රෝන සහ කෲස් මිසයිල ප්‍රහාර එල්ල කර ඇති බවය.
+Iran retaliates against Israel for an attack on its Syrian consulate, killing 13 and 5 army chiefs. The US monitors the situation, with the President discussing it at the White House.
 
-පසුගිය අප්‍රේල් මස පළමුවන දින සිරියාවේ ඉරාන කොන්සල් කාර්යාලයට එල්ල වූ ප්‍රහාරයට ප්‍රතිප්‍රහාරයක් ලෙස ඉරානය විසින් මෙම ප්‍රහාරය එල්ල කර ඇති බව සඳහන් වේ.
+🟩
 
-අදාළ ප්‍රහාරයෙන් ඉරාන කොන්සල් කාර්යාලයේ සිටි පුද්ගලයින් 13 දෙනෙකු මියගොස් ඇති අතර හමුදා ප්‍රධානීන් 05 දෙනෙකු ද ඒ අතර විය.
+Foreign media reports that the drones and cruise missiles were attacked by drone missiles to the identified places in Israel yesterday.
 
-අදාළ ප්‍රහාරයට පළි ගැනීමක් වශයෙන් ඊශ්‍රායලයට ප්‍රහාර එල්ල කරන බවට ඉරාන නායකයා ප්‍රකාශ කර තිබූ අතර ඊයේ රාත්‍රී එම ප්‍රහාරය දියත් කර ඇති බව සඳහන් වේ.
+It is said that Iran has been attacked by Iran as a result of the attack on the Iran in the Iranian Consul of Syria last April.
 
-ඉරානය විසින් ඊශ්‍රායලයට ප්‍රහාර එල්ල කිරීමත් සමග මැදපෙරදිග කලාපයේ ගුවන් ගමන් ද නතර කර ඇති බව වාර්තා විය.
+Thirteen persons at Iranian consulate were killed and five army chiefs.
 
-මෙම යුධමය තත්ත්වය පිළිබදව අමෙරිකාව ඇතුළු රටවල් රැසක අවධානය යොමුව ඇති අතර අමෙරිකානු ජනාධිපතිවරයා ධවල මන්දිරයේ විශේෂ සාකච්ඡාවක් ද කැදවා තිබේ.
+The Iranian leader stated that the attack had been launched last night as a result of the attack.
+
+With the attack on Israel, flights in the Middle East had been stopped.
+
+The US has focused on this military situation and the US President has also called a special discussion at the White House.
 
 ◼️
 
 [Data](articles/e5986b17.json)
 
+[Extended Data](ext_articles/e5986b17.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයකට හිරු මුදුන් වෙයි
+### முக்கிய அதிகாரிகளுடன் பைடன் அவசரசந்திப்பு
+
+*2024-04-14 07:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181062) · `ta`
+
+ஈரானின் தாக்குதல் குறித்து அமெரிக்க ஜனாதிபதி ஜோ பைடனிற்கு உடனடியாக தகவல் தெரிவிக்கப்பட்டதாக வெள்ளை மாளிகை தெரிவித்துள்ளது.
+
+ஈரானிடமிருந்தும் அவர்களின் சகாக்களிடமிருந்தும் இஸ்ரேல் எதிர்கொள்ளும் ஆபத்திலிருந்து அந்த நாட்டை பாதுகாக்கும் எங்கள் உறுதிப்பாடு மிகவும் வலுவானது என பைடன் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/3dd897bc.json)
+
+---
+
+### நூற்றுக்கும் மேற்பட்ட ஆளில்லா விமானதாக்குதல்கள் ஏவுகணை தாக்குதல்கள்  - இஸ்ரேல் மீதான தாக்குதலை ஆரம்பித்தது ஈரான்
+
+*2024-04-14 06:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181059) · `ta`
+
+பெருமளவு ஆளில்லா விமானங்கள் மற்றும் ஏவுகணைகளையும் பயன்படுத்தி ஈரான் பதில் தாக்குதலை மேற்கொண்டுள்ளதாகவும் இஸ்ரேல் அவற்றை நடுவானில் செயல் இழக்கச்செய்யும் சத்தங்களை கேட்க முடிவதாகவும் தகவல்கள் வெளியாகின்றன
+
+◼️
+
+[Data](articles/557caab3.json)
+
+---
+
+### Sri Lanka making new economic laws to embed structural reforms
+
+*2024-04-14 06:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-making-new-economic-laws-to-embed-structural-reforms-158444/) · `en`
+
+ECONOMYNEXT – Sri Lanka is making new laws and also revising old legislation following a comprehensive review of past experience and lessons learned, Treasury Secretary Mahinda Siriwardana has said.
+
+Most of these new laws focus on structural changes of the existing executive and administrative structures, Siriwardana was quoted as saying in a speech to ministry officials on April 08.
+
+The laws related to public finance, procurement, public private partnerships, state enterprises and also a law on the offshore economy.
+
+n. New law for facilitating proposed agricultural land lease programme
+
+◼️
+
+[Data](articles/5bafc82c.json)
+
+---
+
+### The sun tops in several areas
 
 *2024-04-14 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195608) · `si`
 
-බස්නාහිර, සබරගමුව, දකුණු, මධ්‍යම, වයඹ සහ ඌව පළාත්වලත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Sri Lanka's weather varies across provinces and districts, with sunny days in Western, Sabaragamuwa, Southern, Central, North Western, and Uva provinces, and Ampara and Batticaloa Districts. Showers or thundershowers are expected in several areas, with heavy showers possible in the Western, Central, Sabaragamuwa, and Uva provinces, and Galle, Matara, and Ampara districts. The population is advised to prepare for strong winds and thunderstorm damage.
 
-නැගෙනහිර පළාතේ උදෑසන කාලයේදීත් වැසි ඇතිවිය හැකි අතර දිවයිනේ සෙසු ප්‍රදේශවල සිහින් වැසි වාර කිහිපයක් ඇතිවිය හැක.
+🟩
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර සහ අම්පාර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75පමණ තරමක තද වැසි ඇතිවිය හැක.
+At the Western, Sabaragamuwa, Southern, Central, North Western and Uva provinces and Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places, about 2.00.
 
-බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල, මාතර සහ කුරුණෑගල දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පවති.
+Showers will occur in the morning of the Eastern Province and can occur in the rest of the island.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවට දැනුම් දී තිබේ.
+Some locations in the Western and Sabaragamuwa Provincial and Galle, Matara and Ampara Districts. Heavy showers can occur at about 75 times.
 
-දෘශ්‍ය ලෙස සූර්යයා උතුරට ගමන් කිරීමේදී සූර්යයා, අප්‍රේල් මස 05 සිට 15 දක්වා දිනවලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්ෂාංශ වලට සෘජුවම ඉහළින් පවතී.
+Some locations in the Western, Central, Sabaragamuwa and Uva provinces are also in some places in Galle, Matara and Kurunegala districts.
 
-අද දිනයේ (14) දහවල් 12:10 ට නයිනතිව්, පුන්කුඩුතිව්, මණ්ඩයිතිව්, මනල්කාඩු සහ උඩුතුරෙයියන ප්‍රදේශවලට හිරු මුදුන් වනු ඇත.
+The people have been asked to take necessary steps to reduce temporary strong winds and the damages caused by thunderstorms.
+
+The sun is directly above Sri Lanka at 5th April, while the sun traveled to the North.
+
+The sun will overcome the day of Nainathivu, Punchunutthi, Manalkadu, and the Ucongia (14).
 
 ◼️
 
 [Data](articles/a3924c35.json)
+
+[Extended Data](ext_articles/a3924c35.ext.json)
 
 ---
 
@@ -117,6 +239,24 @@ It comes after months of ratcheting tensions in the region over Israel’s war i
 [Data](articles/a3c16223.json)
 
 [Extended Data](ext_articles/a3c16223.ext.json)
+
+---
+
+### ஜனாதிபதி புத்தாண்டு வாழ்த்துச் செய்தி
+
+*2024-04-14 02:15:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-புத்தாண்டு-வாழ்த்துச்-செய்தி/175-335922) · `ta`
+
+புதுப்பித்தல் வாழ்க்கைக்கு புதிய நம்பிக்கை தரும். புதுப்பிப்புக்களின் அடிப்படையிலேயே நாடு, தேசம் உலகம் முன்னேற முடியும். புதிய சிந்தனைகளினாலேயே புத்தாக்கம் பிறக்கும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது புத்தாண்டு வாழ்த்துச் செய்தியில் குறிப்பிட்டுள்ளார்.
+
+புதிய வருடம் பிறத்தல், புதிய நாற்காட்டி, பருவத்திற்குப் பருவம் ஏற்படும் புதிய மாற்றங்கள் உலக மக்களுக்கான வாய்ப்புக்களை புதுப்பிக்கின்றன.
+
+இந்த புதுப்பித்தல்களுக்குப் பின்னால் மற்றொரு மிக முக்கியமான விடயமும் உள்ளது. அதுவே சமூக ஒற்றுமையும் ஒருமைப்பாடும் ஆகும். தமிழ், சிங்களப் புத்தாண்டை உறவுகளையும் ஒற்றுமையையும் அடிப்படையாகக் கொண்டே புதுப்பித்துக் கொள்கிறோம். உலக நாடுகள் அனைத்தும் இந்த சம்பிரதாயத்தைப் பின்பற்றியே புத்தாண்டுக் கொண்டாட்டங்களை கட்டமைத்துள்ளன.
+
+புத்தாண்டு நமக்கு சொல்லும் பாடத்தை இந்த தருணத்தில் சுட்டிக்காட்டுவது பொருத்தமானது என நம்புகிறேன்.
+
+...
+
+[Data](articles/a87e02df.json)
 
 ---
 
@@ -141,6 +281,22 @@ Six persons who were injured in the accident have been admitted to Diyathalawa R
 [Data](articles/924f6a14.json)
 
 [Extended Data](ext_articles/924f6a14.ext.json)
+
+---
+
+### ரயில் சேவைகள் சில இன்று இரத்து
+
+*2024-04-14 01:52:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவைகள்-சில-இன்று-இரத்து/175-335920) · `ta`
+
+இன்று சில அலுவலக ரயில்கள் இரத்து செய்யப்பட்டுள்ளன என ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+நகரங்களுக்கு இடையிலான ரயில் சேவைகள் வழமை போன்று இடம்பெறும் என திணைக்களம் குறிப்பிட்டுள்ளது.
+
+விசேட நேர அட்டவணையின் கீழ் 6 ரயில்களை சேவையில் ஈடுபடுத்த திட்டமிடப்பட்டுள்ளதாகவும் ரயில்வே திணைக்களம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/55558977.json)
 
 ---
 
@@ -2005,195 +2161,5 @@ The general public is advised to take adequate precautions to minimize damages c
 [Data](articles/39a463e0.json)
 
 [Extended Data](ext_articles/39a463e0.ext.json)
-
----
-
-### A man arrested with fake currency printing machine
-
-*2024-04-13 07:05:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-நாணயத்தாள்-அச்சிடும்-இயந்திரத்துடன்-ஒருவர்-கைது/175-335897) · `ta`
-
-A 47-year-old man in Ahangama was arrested for possessing a fake currency printing machine and 10 passports to extend tourists' visas. He's to face court in Galle.
-
-🟩
-
-A suspect has been arrested on Friday night by a suspect in Ahangama with a computer used to print sheets and fake currency notes ready for printing 500, 1000 and 5000 rupee banknotes.
-
-The 47 -year -old Ahangama Imaduwa Road, a private company in Colombo has been arrested.
-
-In addition to the fake currency, 10 passports received to extend the visa period of tourists have been seized from the suspect.
-
-The suspect has been handed over to the Ahangama police to appear in court and is to be produced before the Galle Magistrate.
-
-◼️
-
-[Data](articles/584c8da7.json)
-
-[Extended Data](ext_articles/584c8da7.ext.json)
-
----
-
-### National Hospital gets new cutting-edge CT scanner
-
-*2024-04-13 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/National-Hospital-gets-new-cutting-edge-CT-scanner/108-280663) · `en`
-
-Colombo, April 13 (Daily Mirror) -The Colombo National Hospital's Neurosurgery Department welcomed a new addition to its arsenal of medical equipment with the installation of a state-of-the-art CT scan machine.
-
-Spearheaded by Dr. Palitha Mahipala, Secretary of the Ministry of Health, the incorporation of this advanced technology marks a significant advancement in the hospital's treatment services.
-
-Funded by the Asian Development Bank through the Health Sector Development Project, this cutting-edge CT scan machine boasts a price tag of Rs. 220 million.
-
-The 128-Slice CT Scan machine serves a vital role in assessing and monitoring patients with brain and spinal cord injuries stemming from various causes such as motor accidents, assaults, falls and brain tumors.
-
-Furthermore, it aids in evaluating patients requiring surgery for conditions like brain bleeding or high blood pressure-induced internal bleeding in the brain.
-
-◼️
-
-[Data](articles/4d9e694b.json)
-
-[Extended Data](ext_articles/4d9e694b.ext.json)
-
----
-
-### Sri Lanka making national tariff policy for export orientation
-
-*2024-04-13 06:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-making-national-tariff-policy-for-export-orientation-158425/) · `en`
-
-ECONOMYNEXT – Sri Lanka is developing a national tariff policy which will be approved by the cabinet as part of creating an export-oriented economy, Treasury Secretary Mahinda Siriwardana has said.
-
-Sri Lanka has high import duties, and so-called para-tariffs such as the port and airport levey, and ‘export development’ CESS which has pushed up cost of imported raw materials, making it impossible for any firm other than those in Board of Investment zones, which can import inputs tax free, to be export competitive.
-
-“The tax structure to support exports and investment is also being facilitated, particularly with the phasing out of para-tariffs such as PAL and Cess which have in the past added to cost of raw materials and intermediate inputs which undermined Sri Lanka’s competitiveness,” Siriwardana was quoted as saying at presentation at the Finance Ministry on April 08.
-
-...
-
-[Data](articles/90beed3b.json)
-
-[Extended Data](ext_articles/90beed3b.ext.json)
-
----
-
-### Heavy rains in several provinces today
-
-*2024-04-13 06:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195578) · `si`
-
-Heavy rains and thundershowers expected in several provinces, affecting the North, East, Western, Sabaragamuwa, and Galle/Matara districts. Wind and storm damage warnings issued. Sun directly over Sri Lanka from April 5-15, impacting Sunkuni, Murukandeki, Kiratamadu, and Tenniyani.
-
-🟩
-
-Several thin spectacles in the North and East. Showers or thundershowers will occur at several times after 2.00 pm, the Met Department said.
-
-Some locations in the Western and Sabaragamuwa Province and in some places in the Galle and Matara Districts. Heavy showers can occur at about 75 times.
-
-Some locations in the Western, Central, Sabaragamuwa and Uva provinces and in the Galle and Matara districts have a murder.
-
-The people have been asked to take necessary steps to reduce temporary strong winds and the damages caused by thunderstorms.
-
-The sun is directly in Sri Lanka directly to Sri Lanka in April 5 to 15, when the sun traveled to the North.
-
-Accordingly, the sun will be overcome to the Sunkuni, Murukandeki, Kiratamadu and Tenniyani areas today (13).
-
-◼️
-
-[Data](articles/cefb5563.json)
-
-[Extended Data](ext_articles/cefb5563.ext.json)
-
----
-
-### Inquiry into the external cultural elements that have been borne and mixed with Sinhala and Tamil New Year
-
-*2024-04-13 03:21:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gxv56pz7jo) · `si`
-
-The Sinhala and Tamil New Year in Sri Lanka is a cultural blend, influenced by external elements. It's not unique, but a collective standard of living system. The New Year's customs include auspicious moments, influenced by Indian traditions, and involve foods like cocose, pickles, and cake from foreign cultures. Sports and fireworks also reflect foreign influences.
-
-🟩
-
-Inquiry into the external cultural elements that have been borne and mixed with Sinhala and Tamil New Year
-
-The New Year is a culture to celebrate Sinhala and Tamil people in Sri Lanka.
-
-According to Professor Wimal Dissanayake, the New Year culture includes the New Year culture.
-
-However, the New Year's culture is not an unique, purity culture, "Senior Professor Ratnasiri Arangala, Senior Professor of Sinhala Studies, Sri Jayewardenepura," said Senior Professor Ratnasiri Arangala.
-
-"The external features of this event are more. So I call this festival, a cultural blend, "Professor Ratnasiri Aramala.
-
-"Culture is the collective standard of living system of a group of people living in a particular location. Their customs, traits, salutes, social corporations, arts, art, art, art, art, arts and religion are defined the concept of Professor Wimal Dissanayake Culture.
-
-Culture is a concept with a wide range of definitions.
-
-...
-
-[Data](articles/b505b56d.json)
-
-[Extended Data](ext_articles/b505b56d.ext.json)
-
----
-
-### 10 Sri Lankan fishermen arrested
-
-*2024-04-13 01:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மீனவர்கள்-10-பேர்-கைது/175-335894) · `ta`
-
-10 Sri Lankan fishermen arrested for smuggling 200kg of suspected heroin/ice. Navy seized boats in southern deep sea.
-
-🟩
-
-Two fishing boats were seized by the navy in the southern deep sea of Sri Lanka yesterday with 200 kilograms of drugs suspected of heroin or ice.
-
-Navy spokesman Gayan Wickremasuriya said that 10 Sri Lankan fishermen in both boats have been arrested.
-
-The naval spokesman also noted that those arrested with drugs have been brought to the Khalid port.. (A)
-
-◼️
-
-[Data](articles/9e6303f4.json)
-
-[Extended Data](ext_articles/9e6303f4.ext.json)
-
----
-
-### The term of office of the Presidential Commission
-
-*2024-04-13 01:48:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஆணைக்குழுவின்-பதவிக்காலம்-நீடிப்பு/175-335893) · `ta`
-
-The Presidential Commission's term, initially ending June 15, has been extended. It will submit its final report, including findings from three sub-committees on electoral system amendments, before the new deadline.
-
-🟩
-
-The term of the Presidential Commission appointed to submit recommendations to amend the electoral system has been extended till June 15.
-
-The Commission's Secretary Madhava Devasurendra said that the Commission is scheduled to submit the final report of the Commission to the President before the 15th of June.
-
-The term of the Commission, which was established on October 15, 2023, is scheduled to end on the 15th of this month.
-
-Meanwhile, Secretary Madhava Devasurendra has said that the final report of the Commission is being prepared with reports of three sub -committees on the amendment of the electoral system.. (A)
-
-◼️
-
-[Data](articles/5ffab0b5.json)
-
-[Extended Data](ext_articles/5ffab0b5.ext.json)
-
----
-
-### Airlines between Colombo and Mumbai
-
-*2024-04-13 01:39:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மும்பை-இடையே-விமான-சேவை/175-335892) · `ta`
-
-Indigo Airlines, India's largest airline, now offers a direct flight from Colombo to Mumbai, joining its existing routes from Chennai, Bangalore, and Hyderabad.
-
-🟩
-
-India's Indigo Airlines has launched a direct flight between Colombo and Mumbai.
-
-Currently, direct flights are operated from Chennai, Bangalore and Hyderabad to Colombo by Indigo Airlines.
-
-Based on the number of flights and the number of passengers, Indigo Airlines is considered India's largest airline.(a)
-
-◼️
-
-[Data](articles/df9c980a.json)
-
-[Extended Data](ext_articles/df9c980a.ext.json)
 
 ---

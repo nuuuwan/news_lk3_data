@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-14 22:33:22**
+As of **2024-04-15 00:57:32**
 
 ## Newspaper Stats
 
-*Scraped **18,830** Articles*
+*Scraped **18,836** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,107 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,049
 adalk | 1,570
-tamilmirrorlk | 2,201
-adaderanalk | 2,272
-virakesarilk | 2,794
+tamilmirrorlk | 2,202
+adaderanalk | 2,273
+virakesarilk | 2,796
 dailymirrorlk | 2,900
-adaderanasinhalalk | 3,069
+adaderanasinhalalk | 3,071
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,821 (100.0%) of 18,830 articles have been extended.
+18,830 (100.0%) of 18,836 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-14 (Sunday)
+
+### கொழும்புக்கு வரும் மக்களுக்கு விஷேட அறிவிப்பு
+
+*2024-04-14 23:34:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்புக்கு-வரும்-மக்களுக்கு-விஷேட-அறிவிப்பு/175-335944) · `ta`
+
+வெளி மாகாணங்களில் இருந்து கொழும்புக்கு வரும் மக்களுக்கான மேலதிக ரயில் சேவைகள் இன்று முதல் ஆரம்பிக்கப்பட்டுள்ளதாக ரயில்வே பிரதி பொது முகாமையாளர் நந்தன இந்திபொலகே தெரிவித்துள்ளார்.
+
+அதன்படி இன்றும் நாளையும் மேலதிக ரயில் சேவையில் இயக்கப்படவுள்ளன. இது தவிர நாளை மறுதினம் 16ஆம் திகதி முதல் அலுவலக ரயில் சேவைகள் வழமை போன்று இடம்பெறும் என ரயில்வே திணைக்களம் குறிப்பிட்டுள்ளது.
+
+◼️
+
+[Data](articles/357a1b86.json)
+
+---
+
+### பொது வேட்பாளர் விடையத்தை குழப்ப பலர் சதியில் இறங்கியுள்ளனர் - சபா குகதாஸ்
+
+*2024-04-14 23:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/181079) · `ta`
+
+எதிர்வரும் ஐனாதிபதித் தேர்தலில் தமிழ்ப் பொது வேட்பாளரை களம் இறக்குவது தொடர்பில் தாயக புலம்பெயர் தமிழர்களிடையே ஆதரவு பெருகி வரும் நிலையில் அதனை குழப்புவதற்கு பல தரப்பின் நிகழ்ச்சி நிரல்களில் தமிழ்த் தரப்பில் சிலர் சதி முயற்சியில் இறங்கியுள்ளனர் என வடக்கு மாகாணசபை முன்னாள் உறுப்பினர் சபா குகதாஸ் குற்றம் சாட்டியுள்ளார்.
+
+அவர் சனிக்கிழமை (13) வெளியிட்ட  ஊடக அறிக்கையிலேயே இவ்வாறு குறிப்பிட்டுள்ளார். அவ் அறிக்கையில் மேலும் குறிப்பிடப்பட்டுள்ளதாவது,
+
+அரசுடன் இணைந்துள்ள தமிழ் முகவர்கள்  வழமை போன்று அரசுக்கு சார்பாக பொது வேட்பாளர் விவகாரத்தை விமர்சிப்பதை தாண்டி தமிழ்த் தேசியக் கட்சிகளில் இருப்பவர்களும் வேறு சிலரும் மறைமுக அரசின் மற்றும் வெளிச் சக்திகளின் முகவர்களாக மாறி எதிரான கருத்துக்களை ஊடகப் பரப்பில் முன் வைத்து வருகின்றனர்.
+
+...
+
+[Data](articles/bf79154b.json)
+
+---
+
+### ரி20 உலகக் கிண்ணத்துக்கான இலங்கை முன்னோடி குழாத்தில் யாழ். இளைஞர் விஜயகாந்த் வியாஸ்காந்த்
+
+*2024-04-14 22:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181078) · `ta`
+
+ஐக்கிய அமெரிக்காவிலும் மேற்கிந்தியத் தீவுகளிலும் ஜூன் மாதம் நடைபெறவுள்ள ஐசிசி ஆடவர் ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியை முன்னிட்டு தெரிவாளர்கள் பெயரிட்டுள்ள 32 வீரர்களைக் கொண்ட இலங்கை முன்னோடி குழாத்தில் யாழ். மத்திய கல்லூரியின் முன்னாள் தலைவர் விஜயகாந்த் வியாஸ்காந்த்  பெயரிடப்பட்டுள்ளார்.
+
+இலங்கை கிரிக்கெட் தெரிவாளர்கள் ஏற்கனவே அறிவித்தவாறு வனிந்து ஹசரங்க அணித் தலைவராகவும் சரித் அசலன்க உதவித் தலைவராகவும் பெயரிடப்பட்டுள்ளனர்.
+
+அண்மைக்காலமாக சர்வதேச ரி20 கிரிக்கெட் போட்டிகளில் திறமையை வெளிப்படுத்திவரும் சகலதுறை ஆட்டக்காரர்கள் உட்பட சிறந்த வீரர்கள் பலர் குழாத்தில் இடம்பெறுகின்றனர்.
+
+இண்டியன் பிறீமியர் லீக் கிரிக்கெட் போட்டிகளில் விளையாடிவரும் சில வீரர்களைத் தவிர்ந்த ஏனைய அனைவரும் தமிழ், சிங்கள புத்தாண்டு கொண்டாட்டத்துடன் குழாத்தில் இணைந்து தீவிர பயிற்சிகளில் ஈடுபடவுள்ளனர்.
+
+...
+
+[Data](articles/53d97be4.json)
+
+---
+
+### Advisory issued for rising temperatures in parts of the island
+
+*2024-04-14 21:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98634/advisory-issued-for-rising-temperatures-in-parts-of-the-island) · `en`
+
+The heat index, the temperature felt on the human body, is expected to increase up to the ‘Caution’ level (39°C – 45°C) in some places in Western and North-Western provinces and Mannar district, says the Department of Meteorology.
+
+The advisory, issued at 04.00 p.m. today (14), is effective until tomorrow (15), it added.
+
+The advisory cautions of heat cramps and heat exhaustion; continued activity could result in heatstroke, it further warns.
+
+The Heat Index Forecast is calculated by using relative humidity and maximum temperature and this is the condition that is felt on the human body, says the Meteorology Department.
+
+The department further says this is not the forecast of maximum temperature. It is generated by the Department of Meteorology for the next day period and prepared by using global numerical weather prediction model data, the advisory further read.
+
+◼️
+
+[Data](articles/5400a977.json)
+
+---
+
+### අවුරුදු අනතුරුවල අඩුවක්
+
+*2024-04-14 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195634) · `si`
+
+අද (14) උදෑසන 7න් අවසන් වූ ගතවූ පැය 24 තුළ විවිධ අනතුරු හේතුවෙන් පුද්ගලයින් 162ක් ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබේ.
+
+එහිදී රිය අනතුරු හේතුවෙන් පුද්ගලයින් 37 ක් රෝහල් ගතකර ඇති බව ජාතික රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා සඳහන් කළේය.
+
+කෙසේවෙතත් ඊයේ (13) දිනය තුළ ගිණිකෙළි අනතුරු කිසිවක් වාර්තා වී නොමැති බවට වාර්තා වෙයි.
+
+ඒ අනුව පෙර වසරවලට සාපේක්ෂව මෙවර අලුත් අවුරුදු දිනයේ සිදුව ඇති අනතුරුවල අඩුවීමක් වාර්තා වන බව වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/8de71e22.json)
+
+---
 
 ### Fatal accident in Pussellawa claims two lives, injures four
 
@@ -46,21 +132,49 @@ Further, four individuals sustained injuries in the accident and were rushed to 
 
 [Data](articles/ed0a5908.json)
 
+[Extended Data](ext_articles/ed0a5908.ext.json)
+
 ---
 
-### கல்முனை வடக்கு விவகாரம் :  கறுப்பு பொங்கல் பொங்கியும் கறுப்பு கொடியுடன் மோட்டார் சைக்கிள் பவணியாகவும்  21 ஆவது நாளாக தொடரும் போராட்டம்
+### Kalmunai Northern Province
 
 *2024-04-14 20:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181077) · `ta`
 
-கல்முனை வடக்கு பிரதேச செயலக நிர்வாக ரீதியான பிரச்சினைகளை வென்றெடுப்பதற்காக 21 ஆவது நாளாகவும் போராட்டம் கறுப்பு சித்திரை என்ற பெயருடன் ஞாயிற்றுக்கிழமை (14) முன்னெடுக்கப்பட்டது.
+On the 21st day, Kalmunai North Divisional Secretariat's election saw a motorcycle procession from the Divisional Secretariat to the Municipal Secretariat, involving sports clubs and the public, starting with a black flag. The Kalmunai Headquarters Police issued a letter naming three protesters for public transport damage. Tensions arose.
 
-இதன் போது மோட்டார் சைக்கிள் பவணி ஒன்று இளைஞர் கழகங்கள் விளையாட்டு கழகங்கள் மற்றும் பொதுமக்களின் பங்களிப்புடன் கறுப்பு கொடி ஏந்தப்பட்டு பிரதேச செயலக முன்றலில் இருந்து ஆரம்பமாகி மணல்சேனை நற்பிட்டிமுனை சேனைக்குடியிருப்பு துரைவந்தியன் மேடு துறைநீலாவணை பெரிய நீலாவணை மருதமுனை பாண்டிருப்பு கல்முனை நகரப்பகுதி ஊடாக சென்று மீண்டும் பிரதேச செயலக முன்றல் நோக்கி வந்தடைந்ததுடன் பல்வேறு கோஷங்களுடன் போராட்டம் முன்னெடுக்கப்பட்டது.
+🟩
 
-அத்துடன் முற்பகல் பிரதேச செயலகத்தின் முன்பாக கறுப்பு பொங்கல் பானையில் இடப்பட்டு பொங்கப்பட்டது. இந்நிலையில் அங்கு வருகை தந்த கல்முனை தலைமையக பொலிஸார் நீதிமன்ற கட்டளைப்படி பொதுமக்களின் போக்குவரத்து மற்றும் பொதுச்சொத்துக்கள் சேதமாக்குதல் போன்ற செயற்பாடுகளுக்காக  போராட்டக்காரர்கள் என மூவரின் பெயரை குறிப்பிட்டு அப்பகுதியில் கடிதம் ஒன்றினை வழங்கினர்.
+For the 21st day to win the Kalmunai North Divisional Secretariat, the struggle was carried out on Sunday (14).
 
-...
+During this time, a motorcycle bouquet, with the participation of the sports clubs and the public, began with a black flag and started from the Divisional Secretariat Municipal Secretariat.
+
+As well as in the black pongal pot in front of the Divisional Secretariat in the morning. In this case, the Kalmunai Headquarters Police, under the orders of the Kalmunai headquarters, issued a letter in the area, referring to the name of the three as the protesters for the public transport and the damage to the public.
+
+Thereafter, there was a small tension.
+
+◼️
 
 [Data](articles/5d9165ac.json)
+
+[Extended Data](ext_articles/5d9165ac.ext.json)
+
+---
+
+### උණුසුම ගැන අලුත්ම දැනුම්දීම
+
+*2024-04-14 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195633) · `si`
+
+උණුසුම් කාලගුණය ගැන අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+බස්නාහිර හා වයඹ පළාත්වලත් මන්නාරම දිස්ත්‍රික්කයේත් ඇතැම් ස්ථාන සඳහා අදාළ නිවේදනය නිකුත් කර ඇත.
+
+උණුසුම් දර්ශකය, මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමු කළ යුතු මට්ටමක පවතින බව එහි සඳහන්ව තිබේ.
+
+ඒ අනුව ජනතාව ඒ සම්බන්ධයෙන් අවධානය යොමු කළ යුතු බවත් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/6d7f166b.json)
 
 ---
 
@@ -84,43 +198,63 @@ But what we have seen the actual inflation realization, is that the impact of VA
 
 [Data](articles/8fc3ddb1.json)
 
+[Extended Data](ext_articles/8fc3ddb1.ext.json)
+
 ---
 
-### பில் சோல்ட், மிச்செல் ஸ்டாக் பிரகாசிக்க, லக்னோவை பந்தாடியது கொல்கத்தா
+### Bill Sold
 
 *2024-04-14 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181076) · `ta`
 
-லக்னோ சுப்பர் ஜயன்ட்ஸ் அணியை தனது சொந்த மைதானமான கொல்கத்தா ஈடன் கார்ட்ன் விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (14) சந்தித்த கொல்கத்தா நைட் ரைடர்ஸ் 8 விக்கெட்களால் அமோக வெற்றியீட்டியது.
+Kolkata Knight Riders beat Lucknow Super Giants in their own stadium, Kolkata Eden Garden, winning the 28th match of the 17th IPL. Key players were Bill Sold, unbeaten on 89 runs, and Shreyas Iyer, who scored 38 runs. Lucknow Super Giants scored 161 runs in 20 overs, with Nicoles Pooran and Grunal Pandya shining.
 
-இந்தியாவில் நடைபெற்றுவரும் 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 28ஆவது போட்டியில் வெற்றியீட்டிய கொல்கத்தா நைட் ரைடர்ஸ் தனது 4ஆவது வெற்றியைப் பதிவுசெய்து அணிகள் நிலையில் தொடர்ந்தும் 2ஆவது இடத்தில் இருந்து வருகிறது.
+🟩
 
-மிச்செல் ஸ்டாக்கின் துல்லியமான பந்துவீச்சு, பில் சோல்ட்டின் அதிரடி துடுப்பாட்டம் ஆகியவற்றின் உதவியுடன் லக்னோ சுப்பர் ஜயன்ட்ஸை பந்தாடிய கொல்கத்தா நைட் ரைடர்ஸ் இலகுவாக வெற்றிபெற்றது.
+Kolkata Knight Riders won the Lucknow Super Giants team at their own stadium, Kolkata Eden Garden Stadium on Sunday (14).
 
-லக்னோ சுப்பர் ஜயன்ட்ஸினால் நிர்ணயிக்கப்பட்ட 162 ஓட்டங்களை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய கொல்கத்தா நைட் ரைடர்ஸ் 15.4 ஓவர்களில் 2 விக்கெட்களை இழந்து 162 ஓட்டங்களைப் பெற்று அமோக வெற்றிபெற்றது.
+Kolkata Knight Riders, who won the 28th match of the 17th Indian Premier League chapter in India, registered their 4th victory and continued to be 2nd.
 
-அதிரடி வீரர் சுனில் நரேன் (6), அங்ரிஷ் ரகுவன்ஷி (7) ஆகிய இருவரும் குறைந்த ஓட்டங்களுடன் ஆட்டம் இழந்தனர். (42 - 2 விக்.)
+Kolkata Knight Riders, who played Lucknow Super Giants with the help of Michelle Stack's accurate bowling and Bill Salt's Action Cash.
+
+Kolkata Knight Riders lost 2 wickets in 15.4 overs and scored 162 runs.
+
+Action player Sunil Narain (6) and Angrish Raghuwanshi (7) lost the game with less runs. (42 - 2 wig.)
+
+But Bill Sold and team captain Shreyas Iyer both played the most effectively and shared 120 runs off 75 balls in the 3rd wicket.
+
+Bill Sold, who was struck by 47 balls, was unbeaten on 89 runs, including 14 pounds and 3 sixes.
+
+On the other hand, Shreyas Iyer, who was very relaxed, scored 38 runs without losing the game.
 
 ...
 
 [Data](articles/eb27e43e.json)
 
+[Extended Data](ext_articles/eb27e43e.ext.json)
+
 ---
 
-### பலாங்கொடையில் இளைஞர் கூரிய ஆயுதத்தால் வெட்டிக்கொலை!
+### Youth cut off with a sharp weapon in Balangoda!
 
 *2024-04-14 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181075) · `ta`
 
-பலாங்கொடை - பெட்டிகல பிரதேசத்தில் கூரிய ஆயுதத்தால் தாக்கப்பட்ட நிலையில் இளைஞர் ஒருவர் உயிரிழந்தார்.
+A 32-year-old was killed in Balangoda's Betigala area with a sharp weapon during a liquor banquet. Police are investigating.
 
-குறித்த பகுதியைச் சேர்ந்த 32 வயதுடைய முச்சக்கரவண்டி சாரதியே இவ்வாறு கூரிய ஆயுதத்தால் வெட்டிக்கொலை செய்யப்பட்டுள்ளார்.
+🟩
 
-மதுபான விருந்து ஒன்றில் இரு பிரிவினருக்கு இடையில் ஏற்பட்ட வாய்த்தர்க்கம் தீவிரமடைந்து இக்கொலை இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+A youth died after being attacked by a sharp weapon in Balangoda - Betigala area.
 
-கொலைச் சம்பவம் தொடர்பான மேலதிக விசாரணைகளை பலாங்கொடை பொலிஸார் மேற்கொண்டு வருகின்றனமை குறிப்பிடத்தக்கது.
+The 32 -year -old three -wheeler from the area has been hacked to death with a sharp weapon.
+
+Police say the murder took place in a liquor banquet.
+
+It is noteworthy that the Balangoda police are conducting further investigations into the murder.
 
 ◼️
 
 [Data](articles/ff85aefa.json)
+
+[Extended Data](ext_articles/ff85aefa.ext.json)
 
 ---
 
@@ -192,6 +326,8 @@ Furthermore, the Department of Railways assures the public that regular office t
 
 [Data](articles/ba26c5af.json)
 
+[Extended Data](ext_articles/ba26c5af.ext.json)
+
 ---
 
 ### Two including child killed, 4 injured after van falls down precipice
@@ -207,6 +343,8 @@ UPDATE: Police Spokesman DIG Nihal Thalduwa said a two-year-old boy and his gran
 ◼️
 
 [Data](articles/624bd0d5.json)
+
+[Extended Data](ext_articles/624bd0d5.ext.json)
 
 ---
 
@@ -433,6 +571,8 @@ As several parts in Sri Lanka have experienced significant rainfall for the past
 ◼️
 
 [Data](articles/e59fa4b2.json)
+
+[Extended Data](ext_articles/e59fa4b2.ext.json)
 
 ---
 
@@ -1626,6 +1766,8 @@ The Commander of the Sri Lanka Navy Vice Admiral Priyantha Perera inspected the 
 
 [Data](articles/c0744b45.json)
 
+[Extended Data](ext_articles/c0744b45.ext.json)
+
 ---
 
 ### Children in children's centers due to President
@@ -2181,119 +2323,5 @@ Under the amnesty, 21 prisoners were released from the Jaffna Prison yesterday.
 [Data](articles/87fb728c.json)
 
 [Extended Data](ext_articles/87fb728c.ext.json)
-
----
-
-### Starting work, transactions and partaking of meals
-
-*2024-04-14 00:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Starting-work-transactions-and-partaking-of-meals/108-280582) · `en`
-
-Food holds great significance in Sri Lankan New Year celebrations. Traditional sweets like Kavum, Athirasa, Konda Kevum, Unduvel, and Kokis are staples.
-
-The auspicious time to start work, transactions, and have the first meal is 12:06 a.m. on April 14. Wear blue attire and face south for luck.
-
-◼️
-
-[Data](articles/ac74dd74.json)
-
-[Extended Data](ext_articles/ac74dd74.ext.json)
-
----
-
-### 2024-04-13 (Saturday)
-
-### Expressways generate whopping Rs. 126mn within 3 days of Avurudu season
-
-*2024-04-13 23:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98618/expressways-generate-whopping-rs-126mn-within-3-days-of-avurudu-season) · `en`
-
-The expressways have generated an income of Rs. 126 million on April 10, 11, and 12, the Road Development Authority (RDA) says.
-
-As many as 366,000 vehicles have used the expressways during this three-day period, according to the Director of Expressway Operation Maintenance and Management Division, R.A.D. Kahatapitiya.
-
-◼️
-
-[Data](articles/7a3d6e20.json)
-
-[Extended Data](ext_articles/7a3d6e20.ext.json)
-
----
-
-### President’s Avurudu message: ‘Social relations, solidarity essential for steering nation forward’
-
-*2024-04-13 23:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98617/presidents-avurudu-message-social-relations-solidarity-essential-for-steering-nation-forward) · `en`
-
-President Ranil Wickremesinghe, in his message for the 2024 Sinhala and Tamil New Year, said the progression of nations, countries and the global community is propelled by the perpetual cycle of renewal, where innovative ideas are nurtured and novel creations come to fruition.
-
-“Embracing renewal in accordance with the traditional New Year, the calendar year, or the changing seasons, individuals across the globe find themselves revitalized, endowed with fresh opportunities for growth and advancement. Beneath the surface of these myriad renewals lies a fundamental truth; the paramount importance of social relationships and collective unity.
-
-“During the Sinhala and Tamil New Year, we engage in a profound renewal of self, centering our focus on nurturing bonds and fostering a sense of gregariousness. This emphasis on interpersonal bonds is the cornerstone of traditional New Year rituals observed across diverse cultures worldwide.”
-
-...
-
-[Data](articles/bbf8a29e.json)
-
-[Extended Data](ext_articles/bbf8a29e.ext.json)
-
----
-
-### Preparing of traditional meals
-
-*2024-04-13 23:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Preparing-of-traditional-meals/108-280579) · `en`
-
-New Year celebrations are incomplete without special traditional foods and a beautifully adorned table. The festivities begin with boiling milk in a new clay pot, symbolizing prosperity and good fortune for the family. Various traditional customs enrich the New Year celebrations.
-
-The central tradition of lighting the hearth and cooking Milk Rice in a new clay pot marks the essence of the New Year festival.
-
-Following this, families gather around an elegant New Year table adorned with an assortment of sweets.
-
-As the auspicious time approaches, all Sri Lankans share in tasting their New Year meal together.
-
-◼️
-
-[Data](articles/89440fbd.json)
-
-[Extended Data](ext_articles/89440fbd.ext.json)
-
----
-
-### Cooking auspicious
-
-*2024-04-13 23:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195607) · `si`
-
-"This year's Sinhala and Tamil New Year's cooking focused on blue garments, flame, sugarcane, and sesame mixed coast. The auspicious view and preparation were at 11.06 pm, with the work of dealing and eating at 12.06 midnight."
-
-🟩
-
-This year, cooking was aimed at the Sinhala and Tamil New Year's cuisine at 11.06 pm today.
-
-The auspicious view of the blue garment, wearing a blue wire and prepare a mix of flame, sugarcane, and selling sesame mixed coast.
-
-The work of dealing and eating this year's work is 12.06 midnight today.
-
-◼️
-
-[Data](articles/a5b8a916.json)
-
-[Extended Data](ext_articles/a5b8a916.ext.json)
-
----
-
-### Katunayaka expressway plunged into darkness
-
-*2024-04-13 22:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Katunayaka-expressway-plunged-into-darkness/108-280684) · `en`
-
-Colombo, April 13 (Daily Mirror) - The majority of the Katunayaka expressway section has been plunged into darkness this evening as the lamp posts have failed to function.
-
-According to information shared by toll gate officials, the highway streetlights are not functioning due to the electric cables being cut.The officials elaborated that the underground cables have been stolen.
-
-This is not the first time the electric cables of the highway have been stolen. In January, the high-voltage electricity cables of the Katunayake expressway were removed which caused a loss of Rs. 286 million.
-
-Similarly, last year in January, wires worth Rs. 2.4 million from four lamp posts were stolen in the Wedikanda area using an axe.
-
-◼️
-
-[Data](articles/359abb3d.json)
-
-[Extended Data](ext_articles/359abb3d.ext.json)
 
 ---

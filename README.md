@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-14 13:42:01**
+As of **2024-04-14 14:31:26**
 
 ## Newspaper Stats
 
-*Scraped **18,773** Articles*
+*Scraped **18,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,57 +16,145 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,046
 adalk | 1,564
-tamilmirrorlk | 2,193
-adaderanalk | 2,262
+tamilmirrorlk | 2,197
+adaderanalk | 2,264
 virakesarilk | 2,786
 dailymirrorlk | 2,892
-adaderanasinhalalk | 3,056
+adaderanasinhalalk | 3,057
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,770 (100.0%) of 18,773 articles have been extended.
+18,773 (100.0%) of 18,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-14 (Sunday)
 
-### ඉරානය ඊශ්‍රායලයට එල්ල කළ ප්‍රහාරය හමුවේ අමෙරිකාව ගත් තීරණය
+### ஹலி எல விபத்தில் பெண்கள் இருவர் பலி
+
+*2024-04-14 13:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹலி-எல-விபத்தில்-பெண்கள்-இருவர்-பலி/175-335928) · `ta`
+
+புத்தாண்டை கொண்டாடுவதற்காக ஒரே குடும்பத்தைச் சேர்ந்த குழுவினரை ஏற்றிச் சென்ற கார் ஒன்று வீதியை விட்டு விலகிச் சென்று மரத்தில் மோதி இரு பெண்கள் உயிரிழந்துள்ளதுடன் தந்தை மற்றும் மகள் படுகாயமடைந்து பதுளை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர். பதுளை பண்டாரவளை பிரதான வீதியில் ஹாலிஎல ஆலயம் இன்று (14) இடம்பெற்றது.
+
+கம்பஹா தொம்பே புவக்வத்த பிரதேசத்தைச் சேர்ந்த எச்.எம். கமலாவதி (70) மற்றும் மருமகள் ஒருவருடன் அவரது மாமியார் முதுகமஹேவகே சிரியாவதி (51) ஆகியோரும் கூறியதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/52425955.json)
+
+---
+
+### ක්‍රිකට් පිටිය උඩුයටිකුරු කළ හයේ හය
+
+*2024-04-14 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195618) · `si`
+
+විස්සයි විස්ස ක්‍රිකට් තරගයකදී පන්දුවාරයක් තුළදී හයේ පහර හයක් එල්ලකළ තුන්වන ක්‍රීඩකයා ලෙස ක්‍රිකට් වාර්තා පොතට එක්වීමට නේපාල ක්‍රිකට් ක්‍රීඩක දිපේන්ද්‍ර සිං සමත්ව තිබේ.
+
+ආසියානු ප්‍රිමියර් කුසලාන ජාත්‍යන්තර ක්‍රිකට් තරගාවලියේ කටාර් රාජ්‍යට එරෙහිව පැවති තරගයේදී ඔහු මෙම දක්ෂතාවය දක්වා ඇත.
+
+ඒ අනුව සුපිරි ක්‍රීඩකයින් වන යුවරාජ් සිං සහ කිරන් පොලාඩ්ගෙන් පසුව ජාත්‍යන්තර 20-20 පිටියේ පිට පිට පන්දු 6 කදී හයේ පහරවල් 6ක් වාර්තා කළ පිතිකරුවා බවට දිපේන්ද්‍ර සිං පත්විය.
+
+පසුගිය වසරේ සැප්තැම්බර් මාසයේදී මොංගෝලියාවට එරෙහිව පැවති තරගයකදී පන්දු 9කින් අර්ධ ශතකයක් වාර්තා කරමින් 20/20 පිටියේ වේගවත්ම අර්ධ ශතක ලාභියා ලෙස ද දිපේන්ද්‍ර සිං ක්‍රිකට් වාර්තා පොතට එක්විය.
+
+තරගයේ පළමුව පන්දුවට පහර දුන් නේපාලය නියමිත පන්දුවාර 20 අවසානයේදී කඩුලු 7ක් දැවි ලකුණු 210ක් රැස්කළේය.
+
+එහි අවසන් පන්දුවාරයේදී ක්‍රියාත්මක වූ  දිපේන්ද්‍ර සිං පිට පිට පන්දු 6 කදී හයේ පහරවල් 6ක් වාර්තා කිරීමට සමත්වුණා.
+
+එහිදී දීපේන්ද්‍ර සිං පන්දු 21කදී හයේ පහර 7ක් සහ හතරේ පහර 3ක් සමගින් නොදැවී රැස්කළ ලකුණු සංඛ්‍යාව 64කි.
+
+...
+
+[Data](articles/48d79972.json)
+
+---
+
+### Decision taken by Iran to attack Israel
 
 *2024-04-14 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195617) · `si`
 
-ඉරානය විසින් ඊශ්‍රායලයට එල්ල කළ ප්‍රහාරය සම්බන්ධයෙන් අද (14) දිනයේ ජී 07 රටවල නායකයින්ගේ සාකච්ඡාවක් කැඳවන බව අමෙරිකානු ජනාධිපති ජෝ බයිඩන් පවසයි.
+Iran attacked Israel, prompting US President Biden to call G7 leaders for discussion. Biden discussed the incident with Israel's Netanyahu and mentioned steps to destroy drones, but damage details are unclear.
 
-ඉරානය විසින් සිදුකළ නිර්ලජ්ජිත ප්‍රහාරය සම්බන්ධයෙන් දක්වන ප්‍රතිචාර පිළිබඳ සාකච්ඡා කිරීම මෙහි අරමුණ බව අමෙරිකානු ජනාධිපතිවරයා ප්‍රකාශ කර ඇත.
+🟩
 
-ඊශ්‍රායලය සමග සමීපව කටයුතු කරන අතර එරට අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහු සමග දුරකථන මාර්ගය ඔස්සේ ආරක්ෂක තත්ත්වය සම්බන්ධයෙන් තමා සාකච්ඡා කළ බව ද අමෙරිකානු ජනාධිපතිවරයා ප්‍රකාශ කර තිබේ.
+US President Joe Biden says that the leaders of the G7 will be called today (14) regarding the attack on Israel.
 
-ඉරානය විසින් ඊයේ (13) දිනයේ දී ඊශ්‍රායලයට ඩ්‍රෝන සහ මිසයිල ප්‍රහාර එල්ල කළ අතර ඩ්‍රෝන යනා රැසක් විනාශ කිරීමට පියවර ගත් බව අමෙරිකාව ප්‍රකාශ කර ඇත.
+The US President has stated that it is aimed at discussing the expressive attack on Iran.
 
-කෙසේවෙතත් මෙම ප්‍රහාරවලින් සිදුවූ හානිය පිළිබඳ මෙතෙක් නිශ්චිතව අනාවරණ කර නොමැති බව සඳහන් වෙයි.
+The US President has said that he was discussing with the security situation along the telephone line with Israel and discussed the security situation along the telephone line with Prime Minister Benjamin Netanya.
+
+Iran launched the drones and missiles to be destroyed by the Iran yesterday (13), and the US said that steps were taken to destroy a number of drones.
+
+However, it is said that there have been no clearly detected on the damage caused by these attacks.
 
 ◼️
 
 [Data](articles/2b7fe637.json)
 
+[Extended Data](ext_articles/2b7fe637.ext.json)
+
 ---
 
-### දිවි අහිමි කරවමින් තමන්ටම පත්තු වූ වෙඩිල්ල
+### Sri Lanka hopeful of fruitful engagements for ‘speedy debt resolution’ during IMF-World Bank spring meetings
+
+*2024-04-14 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98625/sri-lanka-hopeful-of-fruitful-engagements-for-speedy-debt-resolution-during-imf-world-bank-spring-meetings-) · `en`
+
+Sri Lanka’s State Minister of Finance Shehan Semasinghe says that they expect fruitful engagements that will pave the way for unlocking the next tranche of essential IMF funding and a speedy debt resolution which will enhance economic stability, during the upcoming International Monetary Fund (IMF) and World Bank “Spring Meetings” 2024.
+
+Posting on ‘X’ (formerly Twitter), Semasinghe expressed that Sri Lanka’s journey to its current state of stability and progress is due to the invaluable support provided by the IMF, World Bank and international partners during the most severe economic crisis that the country faced since 2022.
+
+“As we navigate the complexities of global economic challenges, we will engage closely with the IMF and aim to contribute to broader international economic cooperation with our partners”, he added.
+
+...
+
+[Data](articles/7a2a5646.json)
+
+---
+
+### Madagascan woman arrested with 75 swallowed cocaine capsules at BIA
+
+*2024-04-14 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98624/madagascan-woman-arrested-with-75-swallowed-cocaine-capsules-at-bia) · `en`
+
+The officers of the Narcotics Control Unit of Sri Lanka Customs have arrested a foreign national woman at the arrival terminal of the Bandaranaike International Airport (BIA) for attempting to smuggle cocaine capsules by ingesting them.
+
+The arrested 38-year-old Madagascan woman is suspected to have swallowed about 75 cocaine capsules with an estimated street value of around Rs. 35 million.
+
+The Madagascan had arrived at BIA onboard a Vistara Airlines flight on April 12 from Addis Ababa in Ethiopia via Mumbai, India.
+
+The woman had ingested cocaine capsules enclosed in condoms, carefully sealing them with tape to avoid any potential leakage, Sri Lanka Customs said.
+
+Following her arrest, the Madagascan has been admitted to Negombo Hospital for extracting the swallowed capsules of drugs.
+
+After extracting the swallowed drug capsules from the suspect’s body, she will be handed over to the Narcotics Control Unit of Sri Lanka Customs for further investigation.
+
+◼️
+
+[Data](articles/7c7fcf69.json)
+
+---
+
+### The shore of the loss of surviving
 
 *2024-04-14 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195616) · `si`
 
-සතුන් දඩයම් කිරීම සඳහා ඇටවූ ගිනි අවියක් ක්‍රියාත්මකවීමෙන් මදුරාගොඩ ආඳාපොළ ප්‍රදේශයේ පුද්ගලයෙකු මියගොස් තිබේ.
+A 51-year-old in Dodamgaslanda was killed by a firearm in Maduragoda Amandapola, Sri Lanka. The victim was admitted to Ridigama Hospital but died. Preliminary investigations suggest the deceased was occasionally involved with firearms.
 
-පොලීසිය ප්‍රකාශ කළේ මෙරට නිශ්පාදනය කරන ලද ගිනි අවියක් මෙලෙස ක්‍රියාත්මක වී ඇති අතර ඉන් බරපතළ තුවාල ලැබූ මියගොස් ඇති පුද්ගලයා ප්‍රතිකාර සඳහා රිදීගම රෝහලට ඇතුළත් කිරීමේ දී මියගොස් ඇති බවය.
+🟩
 
-මෙලෙස මියගොස් ඇත්තේ 51 හැවිරිදි දොඩම්ගස්ලන්ද ප්‍රදේශයේ පදිංචිව සිටි අයෙකි.
+A firearm of a firearm to hunt the animals was killed in a Maduragoda Amandapola.
 
-මියගිය පුද්ගලයා කලක සිට ගිනිඅවි උපයෝගී කර ගනිමින් සතුන් දඩයමේ නිරතව සිටි අයෙකු වන අතර ඔහු විසින් අටවන ලද ගිනිඅවියක් මෙලෙස ක්‍රියාත්මක වී ඇති බව පොලීසිය සිදුකළ මූලික විමර්ශනවලදී අනාවරණය වී තිබේ.
+The police said that a firearm in Sri Lanka has been implemented and the victim has died in ridden admission to the Ridigama Hospital for treatment.
+
+The victim was a 51 year old resident of the Dodamgaslanda area.
+
+Preliminary investigations have revealed that the deceased was being used by firearms from time to time.
 
 ◼️
 
 [Data](articles/4c38ce72.json)
+
+[Extended Data](ext_articles/4c38ce72.ext.json)
 
 ---
 
@@ -82,13 +170,15 @@ Mumbai Police's Crime Branch has reached the spot for investigation.
 
 [Data](articles/69e8826b.json)
 
+[Extended Data](ext_articles/69e8826b.ext.json)
+
 ---
 
 ### Shots fired outside Salman Khan’s house in Mumbai’s Bandra
 
 *2024-04-14 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98623/shots-fired-outside-salman-khans-house-in-mumbais-bandra) · `en`
 
-Shots were fired outside actor Salman Khan’s house in Mumbai’s Bandra on Sunday morning.
+Shots were fired outside Bollywood actor Salman Khan’s house in Mumbai’s Bandra on Sunday morning, Indian media reported.
 
 At least four rounds were fired outside the Galaxy Apartments, where the actor resides, at around 5am today.
 
@@ -120,6 +210,44 @@ A pirith chanting ceremony was held last night at the Siri Vajiragnana Dhamma Sc
 
 ---
 
+### மக்களுக்கு விடுக்கப்பட்டுள்ள எச்சரிக்கை
+
+*2024-04-14 11:15:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மக்களுக்கு-விடுக்கப்பட்டுள்ள-எச்சரிக்கை/73-335927) · `ta`
+
+மட்டக்களப்பு மாவட்டத்தில் கடுமையான வெயிலுடனான காலநிலை நீங்கி மழை பெய்துவரும் நிலையில் மக்கள் குடியிருப்புகளை நோக்கி முதலைகள் வரும் சாத்தியம் இருப்பதால் மக்களை அவதானமாக செயற்படுமாறு அறிவுறுத்தப்பட்டுள்ளது.
+
+மட்டக்களப்பு மாநகரசபைக்குட்பட்ட மக்கள் செறிந்து வாழும் கூழாவடி பகுதிக்குள் நுழைந்த முதலையொன்று மக்களினால் பிடிக்கப்பட்டுள்ளது.
+
+குறித்த பகுதிக்குள் நீர்நிலைகள் இல்லாதபோதிலும் முதலையொன்று மக்கள் பகுதிக்குள் நுழைந்ததையடுத்து பெரும் பதற்ற நிலைமையேற்பட்டதாக அப்பகுதி மக்கள் தெரிவித்தனர்.
+
+முதலையை அப்பகுதி மக்கள் பிடித்து சம்பவம் குறித்து வனஜீவராசிகள் திணைக்களத்திற்கு அறிவிக்கப்பட்டதை தொடர்ந்து முதலையினை கொண்டுசெல்லும் நடவடிக்கை முன்னெடுக்கப்பட்டது.
+
+தற்போது மழையுடனான காலநிலை நிலவும் நிலையில் முதலைகளின் நடமாட்டம் தொடர்பில் அவதானமாக செயற்படுமாறு அறிவுறுத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b4d6ee3f.json)
+
+---
+
+### ஐ.நா. பாதுகாப்பு கவுன்சில் ஞாயிற்றுக்கிழமை கூடுகிறது
+
+*2024-04-14 11:06:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஐ-நா-பாதுகாப்பு-கவுன்சில்-ஞாயிற்றுக்கிழமை-கூடுகிறது/50-335926) · `ta`
+
+ஈரான் வான்வழித் தாக்குதலைத் தொடர்ந்து இஸ்ரேல் அவசரக் கூட்டத்தைக் கோரியதை அடுத்து ஐ.நா. பாதுகாப்பு கவுன்சில் ஞாயிற்றுக்கிழமை கூடுகிறது.
+
+சனிக்கிழமை பிற்பகுதியில் வெளியிடப்பட்ட அட்டவணையின்படி, 15 உறுப்பினர்களைக் கொண்ட கவுன்சில் நியூயோர்க்கிலுள்ள உள்ளூர் நேரப்படி மாலை 4 மணிக்கு கூடும்.
+
+ஐ.நா.வுக்கான இஸ்ரேலின் தூதர் கிலாட் எர்டன், "கடுமையான அத்துமீறல்களுக்காக ஈரானைக் கண்டித்து உடனடியாக IRGC ஐ ஒரு பயங்கரவாத அமைப்பாக அறிவிக்க நடவடிக்கை எடுக்க கூட்டத்தைக் கூட்ட வேண்டும்" என்று சனிக்கிழமை கேட்டுக் கொண்டார்.
+
+கவுன்சிலின் தலைவருக்கு எழுதிய கடிதத்தில், எர்டான் இந்த தாக்குதல் உலகளாவிய அமைதி மற்றும் பாதுகாப்பிற்கு "தீவிரமான அச்சுறுத்தல்" என்று கூறினார், ஈரானுக்கு எதிராக உறுதியான நடவடிக்கை எடுக்க கவுன்சில் எல்லா வழிகளையும் பயன்படுத்த வேண்டும் என்று அவர் எதிர்பார்க்கிறார்.
+
+...
+
+[Data](articles/70e4e58c.json)
+
+---
+
 ### Buses operate from today
 
 *2024-04-14 11:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Buses-operate-from-today/108-280690) · `en`
@@ -137,6 +265,28 @@ However, people will not have to wait longer in queues. Buses will be provided o
 [Data](articles/85238da5.json)
 
 [Extended Data](ext_articles/85238da5.ext.json)
+
+---
+
+### செல்லப்பிராணிகளை வீட்டில் பாதுகாப்பாக வைத்திருக்கவும்
+
+*2024-04-14 10:53:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செல்லப்பிராணிகளை-வீட்டில்-பாதுகாப்பாக-வைத்திருக்கவும்/175-335925) · `ta`
+
+சிங்களம் மற்றும் தமிழ் பண்டிகைக் காலத்தில், இலங்கையில் சுற்றுசூழல் ஆர்வலர்கள் பட்டாசு வெடிப்பதால் செல்லப்பிராணிகள் மற்றும் வனவிலங்குகளுக்கு ஏற்படும் பாதிப்புகள் குறித்து எச்சரிக்கை விடுத்துள்ளனர்.
+
+சுற்றுச்சூழல் ஆர்வலர் நயனக ரன்வெல்லவின் கருத்துப்படி, பட்டாசுகள் மனிதர்களின் அமைதியை சீர்குலைப்பது மட்டுமல்லாமல், வனவிலங்குகள், குறிப்பாக நாய்கள் மற்றும் பூனைகள் உட்பட பறவைகள் மற்றும் சிறிய பாலூட்டிகளின் மீது ஆழமான தாக்கத்தை ஏற்படுத்துவதாக ஆராய்ச்சி சுட்டிக்காட்டுகிறது.
+
+உரத்த வெடிப்புகளின் பொருட்டு பறவைகள் பயத்தில் கூடுகளை விட்டு வெளியேறி, அவற்றின் வாழ்விடங்களை சீர்குலைக்கும் நிலை ஏற்படும்.
+
+ஆய்வுகளின்படி, விலங்குகள் மனிதர்களை விட மிகவும் அதிக செவித்திறன் கொண்டவை, அவை குறிப்பாக பட்டாசு வெடிப்புகளுக்கு அதி உணர்திறன் கொண்டவை.
+
+வெடிப்புகள் 190 டெசிபல்களை எட்டும் - 75 டெசிபல்களில் மனித செவிப்புலன் சேதத்திற்கான வரம்பை மீறுகிறது – அதிக ஒலி விலங்குகளில் கவலை, குழப்பம் மற்றும் பீதியைத் தூண்டும்.
+
+மேலும், 50 சதவீத நாய்கள் பட்டாசு வெடிக்கும் போது பயம் அல்லது பதட்டத்தை அனுபவிப்பதாக ஆய்வுகள் தெரிவிக்கின்றன.
+
+...
+
+[Data](articles/7020b55e.json)
 
 ---
 
@@ -2093,155 +2243,5 @@ With an impressive spot return exceeding 7%, the LKR has surpassed its counterpa
 [Data](articles/50e041e0.json)
 
 [Extended Data](ext_articles/50e041e0.ext.json)
-
----
-
-### Sri Lanka’s Rupee leads emerging markets in 1st quarter of 2024
-
-*2024-04-13 12:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lankas-Rupee-leads-emerging-markets-in-1st-quarter-of-2024/155-280668) · `en`
-
-Colombo, April 13 - Sri Lanka's Rupee (LKR) has distinguished itself as the top-performing currency among emerging markets in the first quarter of 2024, said the President’s Media Division based on Bloomberg market data.
-
-With an impressive spot return exceeding 7%, the LKR has surpassed its counterparts, showcasing resilience and strength in the global currency landscape, the PMD added.
-
-◼️
-
-[Data](articles/9aa40bfe.json)
-
-[Extended Data](ext_articles/9aa40bfe.ext.json)
-
----
-
-### Sri Lankan rupee outpaces emerging market currencies in Q1 2024
-
-*2024-04-13 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98607/sri-lankan-rupee-outpaces-emerging-market-currencies-in-q1-2024) · `en`
-
-Sri Lankan rupee (LKR) has emerged as the top-performing currency among emerging markets during the first quarter (Q1) of 2024, the President’s Media Division (PMD) says.
-
-Citing Bloomberg market data, the PMD added that the rupee boasted a remarkable spot return of over 7% by outpacing the emerging market currencies during this period.
-
-◼️
-
-[Data](articles/df848ba1.json)
-
-[Extended Data](ext_articles/df848ba1.ext.json)
-
----
-
-### Joe Biden expects Iran to attack Israel ‘sooner than later’
-
-*2024-04-13 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98606/joe-biden-expects-iran-to-attack-israel-sooner-than-later) · `en`
-
-US President Joe Biden says he expects Iran to attack Israel “sooner than later”, as fears grow of Iranian retaliation over an air strike that killed top commanders early this month.
-
-Israel has not admitted attacking an Iranian consulate in Syria but is widely believed to have been behind it.
-
-US officials have told CBS News, the BBC’s US partner, that a major attack on Israel could happen imminently.
-
-Israel says it is ready to defend itself. Mr Biden told Iran: “Don’t.”
-
-“We are devoted to the defence of Israel. We will support Israel,” Mr Biden said. “We will help defend Israel and Iran will not succeed.”
-
-Iran backs Hamas, the Palestinian group fighting Israel in Gaza, as well as various proxy groups throughout the region, including some - such as Hezbollah in Lebanon - that frequently carry out strikes against the Israelis.
-
-...
-
-[Data](articles/0e717463.json)
-
-[Extended Data](ext_articles/0e717463.ext.json)
-
----
-
-### Suspect arrested for printing counterfeit notes
-
-*2024-04-13 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195587) · `si`
-
-A 47-year-old from Imaduwa was arrested in Ahangama for printing counterfeit notes, using a laptop, printing press, and stock of paper. Galle Division Criminal Investigation Bureau officers conducted the raid. Further investigations are ongoing.
-
-🟩
-
-The suspect, printed fake currency notes, has been arrested in the Ahangama area.
-
-The suspect has been arrested in a raid conducted by the officers of the Galle Division Criminal Investigation Bureau.
-
-The suspect had a laptop used for printing counterfeit notes, a printing press, printed a stock of paper.
-
-The suspect is a 47 year old resident of Imaduwa and the Ahangama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/1db90256.json)
-
-[Extended Data](ext_articles/1db90256.ext.json)
-
----
-
-### Train derailed at Kalutara station
-
-*2024-04-13 11:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-derailed-at-Kalutara-station/108-280667) · `en`
-
-A train derailed this morning at the Kalutara railway station when the Maradana-bound Kalutara train entered the station, the Railways Department said.
-
-Three train compartments of the train that had left Maradana at 5.45 a.m. derailed at 7.20 a.m.
-
-Due to the derailment commuters travelling to their home towns today for the Sinhala Tamil New Year have been inconvenienced.
-
-◼️
-
-[Data](articles/f1f47d05.json)
-
-[Extended Data](ext_articles/f1f47d05.ext.json)
-
----
-
-### Australian humanitarian employee who survived the Gaza - Hair Line
-
-*2024-04-13 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181047) · `ta`
-
-An Australian humanitarian in Gaza was fired upon during a coordinated operation for water and fuel supply, near a checkpoint. The incident, revealed weeks after seven employees were killed in an Israeli attack, highlights the dangers faced by humanitarian workers.
-
-🟩
-
-A humanitarian employee from Australia said he was fired at him while he was involved in humanitarian work in Gaza.
-
-The incident has been revealed within a few weeks after the killing of seven -man employees, including a man from Australia, in Israel's attack.
-
-UNICEV employee and former Australia -based journalist, Tess Ingram Gaza, said there were shootings towards his vehicle near the checkpoint in Gaza.
-
-He said that the firing took place while traveling in the vehicle for a coordinated operation for fuel drinking water supply.
-
-While we were waiting in the area, the shooting began when the public's checkpoint took place.
-
-He said that the gunfire attacked my car and attacked the mirrors of the areas where I was sitting.
-
-He also said that we were well aware of our work to travel to Hamas and Israel, if we traveled.
-
-He added that the attack has revealed how difficult it is to work as humanitarian employees.
-
-◼️
-
-[Data](articles/615562e5.json)
-
-[Extended Data](ext_articles/615562e5.ext.json)
-
----
-
-### Sri Lanka - South Africa Second match today
-
-*2024-04-13 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195586) · `si`
-
-Sri Lanka Women's and South African female cricket teams face off in their second match today, after the first was postponed due to rain.
-
-🟩
-
-The Sri Lanka Women's group and South African female group will be held today (13).
-
-The first match at the ODI series with the three match series had to give up the rain.
-
-◼️
-
-[Data](articles/47bdbdd4.json)
-
-[Extended Data](ext_articles/47bdbdd4.ext.json)
 
 ---

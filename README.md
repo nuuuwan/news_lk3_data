@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-14 06:00:19**
+As of **2024-04-14 07:02:19**
 
 ## Newspaper Stats
 
-*Scraped **18,738** Articles*
+*Scraped **18,739** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,045
 adalk | 1,560
-tamilmirrorlk | 2,188
+tamilmirrorlk | 2,189
 adaderanalk | 2,258
 virakesarilk | 2,782
 dailymirrorlk | 2,885
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,046
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,738 (100.0%) of 18,738 articles have been extended.
+18,738 (100.0%) of 18,739 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -73,6 +73,24 @@ Six persons who were injured in the accident have been admitted to Diyathalawa R
 [Data](articles/924f6a14.json)
 
 [Extended Data](ext_articles/924f6a14.ext.json)
+
+---
+
+### 68 வர்த்தக நிலையங்களுக்கு எதிராக வழக்கு
+
+*2024-04-14 01:47:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/68-வர்த்தக-நிலையங்களுக்கு-எதிராக-வழக்கு/175-335919) · `ta`
+
+கொழும்பு மாவட்டத்தில் உள்ள ஹோட்டல்கள், உணவகங்கள் மற்றும் வர்த்தக நிலையங்கள் உள்ளிட்ட 68 நிறுவனங்களுக்கு எதிராக வழக்கு தாக்கல் செய்யப்பட்டுள்ளது.
+
+சித்திரை புத்தாண்டை முன்னிட்டு பொது சுகாதார பரிசோதகர்களால் ஏப்ரல் மாதம் முதலாம் திகதி முதல் இதுவரையான காலப்பகுதிக்குள் முன்னெடுக்கப்பட்ட சோதனை நடவடிக்கைகளில் இந்த வழக்கு தாக்கல் செய்யப்பட்டுள்ளது.
+
+கொழும்பிலுள்ள ஹோட்டல்கள், பேக்கரிகள், மீன் மற்றும் இறைச்சிக் கடைகள், குளிரூட்டப்பட்ட உணவுப் பண்டங்களை ஏற்றிச்செல்லும் வாகனங்கள் உள்ளிட்ட 700 இற்கும் மேற்பட்ட பகுதிகளில் சோதனை நடவடிக்கைகள் முன்னெடுக்கப்பட்டன என கொழும்பு பிராந்திய நிர்வாக பொது சுகாதார பரிசோதகர் பிரியந்த விஜேசூரிய தெரிவித்துள்ளார்.
+
+இந்த சோதனை நடவடிக்கைகளில் தரமற்ற உணவுப்பொருள்கள், உரிய வகையில் களஞ்சியப்படுத்தப்படாமை, லேபில்கள் மற்றும் பொதிகளிலுள்ள குறைபாடுகள் காரணமாக இத்தகைய வழக்குகள் பதிவு செய்யப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/392c8dc3.json)
 
 ---
 
@@ -2163,35 +2181,5 @@ A woman from Kurunegala Ritikama area has died in the incident, police said. Rem
 [Data](articles/f357d337.json)
 
 [Extended Data](ext_articles/f357d337.ext.json)
-
----
-
-### Report of the Department of Meteorology
-
-*2024-04-13 00:22:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களம்-வௌியிட்ட-அறிக்கை/175-335889) · `ta`
-
-The Department of Meteorology forecasts heavy rainfall and snowfall in parts of the country, with thunderstorms expected at 2.00 pm. Precautions are advised due to lightning risks.
-
-🟩
-
-The Department of Meteorology has forecast rainfall in the Northern and Eastern Provinces several times.
-
-Rainfall or thunderstorms are likely to occur in many parts of the country and other parts of the country at 2.00 pm.
-
-Heavy rainfall is expected to be 100 mm tonight in some places in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
-
-Upper, central. In the mornings in the mornings, in some parts of the Sabaragamuwa and Uva Provinces, Galle and Matara districts, there is expected snowfall in the morning.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the effects of lightning impacts.
-
-Due to the Sun's Movement to the North, this year, this year will peak to Sri Lanka's wide lines from April 5 to 15.
-
-Accordingly, at 12.10 noon tomorrow (13th), the sun will peak above the areas of Kumuzhamunai, Muttikandi, Karidamadu and Watercutters.. Remble
-
-◼️
-
-[Data](articles/eed3a217.json)
-
-[Extended Data](ext_articles/eed3a217.ext.json)
 
 ---

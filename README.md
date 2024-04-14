@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-14 15:59:54**
+As of **2024-04-14 16:52:05**
 
 ## Newspaper Stats
 
-*Scraped **18,790** Articles*
+*Scraped **18,795** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,40 +17,108 @@ dailyftlk | 1,018
 economynextcom | 1,046
 adalk | 1,564
 tamilmirrorlk | 2,198
-adaderanalk | 2,264
+adaderanalk | 2,267
 virakesarilk | 2,788
 dailymirrorlk | 2,896
-adaderanasinhalalk | 3,059
+adaderanasinhalalk | 3,061
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,780 (99.9%) of 18,790 articles have been extended.
+18,790 (100.0%) of 18,795 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-14 (Sunday)
 
-### ඊශ්‍රායලයට එල්ලවූ ප්‍රහාර මැද ශ්‍රී ලාංකිකයින් ගැන දැනුම්දීමක්
+### විකෘති කර සමාජ මාධ්‍යට දැමූ අලුත් අවුරුදු ගීතය ගැන ගත් තීරණය
+
+*2024-04-14 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195622) · `si`
+
+අලුත් අවුරුදු ගීතයක් විකෘති කර සමාජ මාධ්‍යට මුදා හැරීමේ සිද්ධිය සම්බන්ධයෙන් වහාම විමර්ශනයක් පවත්වන ලෙස සංස්කෘතික කටයුතු අමාත්‍යාංශය විදුලි සං‍දේශ නියාමන කොමිෂන් සභාවට දැනුම් දී තිබේ.
+
+සංස්කෘතික කටයුතු අමාත්‍යාංශ ලේකම් සොමරත්න විදානපතිරණ මහතා විසින් විදුලි සංදේශ නියාමන කොමිෂන් සභාවේ අධ්‍යක්ෂ ජනරාල්වරයා වෙත අදාළ දැනුම්දීම සිදුකර ඇති බව  වාර්තාවෙයි.
+
+රෝහණ බැද්දගේ මහතා විසින් ගායනා කරනු ලබන ගීතයක් එහි පද විකෘති කර මේ දිනවල සමාජ මාධ්‍යවලට මුදාහැර තිබුණි.
+
+එම ගීතය විකෘති කර සමාජ මාධ්‍යට මුදාහළ පුද්ගලයින් පිළිබඳව සොයාබලා දැනුම්දෙන ලෙස සංස්කෘතික කටයුතු අමාත්‍යාංශය විදුලි සංදේශන කොමිසන් සභාවට මෙලෙස දැනුම් දී තිබේ.
+
+අදාළ පුද්ගලයින්ට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගැනීමට කටයුතු කරන බව සංස්කෘතික කටයුතු අමාත්‍යාංශයේ ලේකම් සොමරත්න විදානපතිරණ මහතා වැඩිදුරටත් සදහන් කළේය.
+
+◼️
+
+[Data](articles/67905db2.json)
+
+---
+
+### Sri Lankans living in Israel safe amidst Iranian attacks – Ambassador
+
+*2024-04-14 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98628/sri-lankans-living-in-israel-safe-amidst-iranian-attacks-ambassador) · `en`
+
+The Sri Lankan Ambassador to Israel, Nimal Bandara has assured that all Sri Lankans living in Israel are safe amidst attacks carried out by Iran.
+
+Issuing a statement, Mr. Bandara said that although Iran targeted Israel with more than 500 shells and missiles last night (April 13), Israel’s Iron Dome system has managed to neutralize all of them.
+
+“Apart from an injury to a little girl [Israeli], no one in Israel has been reported to have been injured so far”, the Sri Lankan envoy in Tel Aviv assured.
+
+Meanwhile, he stated that flight FZ 1625 belonging to the Fly Dubai airline operated from Dubai to Tel Aviv last night at 08.10 p.m. while traveling from Dubai to Tel Aviv, was diverted to Dubai as soon as the information about the air attacks came to light.
+
+Mr. Bandara expressed that there were Sri Lankans on the flight, who were on the way to Israel and that information about them is being disclosed.
+
+...
+
+[Data](articles/0051ae4d.json)
+
+---
+
+### පළාත් කිහිපයකට ප්‍රබල අකුණු සමග වැසි
+
+*2024-04-14 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195621) · `si`
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
+
+එම නිවේදනයේ දැක්වෙන්නේ බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණ සහ වයඹ පළාත්වල සවස් කාලයේ දී හෝ රාත්‍රී කාලයේ දී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතින බවය.
+
+ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං තත්ත්වයක් ද ඇති විය හැකිය.
+
+අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/f39c3772.json)
+
+---
+
+### Notice of Sri Lankans in the middle of the attacks on Israel
 
 *2024-04-14 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195620) · `si`
 
-මැද පෙරදිග යුද ගැටුම් තවදුරටත් තීව්‍ර කරමින් ඉරානය ඊයේ රාත්‍රියේදී ඊශ්‍රායලය වෙත ඩ්‍රෝන සහ මිසයිල ප්‍රහාර මාලාවක් දියත් කර තිබුණි.
+Sri Lanka's Ambassador to Israel, Nimal Bandara, issued a statement regarding a plane from Dubai to Tel Aviv, reportedly involved in an attack on Tel Aviv. Bandara is investigating the incident and assures Sri Lankans in Israel of safety. Meanwhile, Iran launched missile attacks on Israel, but the Iron DETE system reportedly neutralized them. Bandara also highlighted the impact of travel restrictions on air tickets to the Middle East and Europe.
 
-මෙම ප්‍රහාර මාලාව හමුවේ එරට සිටින ශ්‍රී ලාංකිකයින් සම්බන්ධයෙන් අදහස් දක්වමින් ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා නිවේදනයක් නිකුත් කර ඇත.
+🟩
 
-එමගින් ඔහු ශ්‍රී ලාංකිකයින් පිරිසක් සමග ඩුබායි සිට ටෙල් අවීව් දක්වා පියාසර කරන ලද ගුවන් යානය සම්බන්ධයෙන්ද කරුණු පැහැදිළි කර ඇත.
+In the Middle East conflicts, Iran had launched a series of drones and missiles to Israel last night.
 
-ෆ්ලයි ඩුබායි ගුවන් සේවයට අයත් FZ-1625 දරණ ගුවන් යානය ඊයේ රාත්‍රියේ 20.10ට පමණ ටෙල් අවීව් දක්වා දක්වා ගමන් කරමින් සිටියදී මෙම ප්‍රහාරය සම්බන්ධයෙන් තොරතුරු වාර්තා වී තිබුණු බව නිමල් බණ්ඩාර මහතා සිය නිවේදනයෙන් පවසයි.
+Sri Lanka's ambassador to Israel, Sri Lanka's Ambassador to Israel has issued an announcement.
 
-ඒ සමගම වහාම ක්‍රියාත්මක වී එම යානය නැවත හරවා ඩුබායි දක්වා පියාසර කරවීමට පියවර ගෙන ඇති බවද නිමල් බණ්ඩාර මහතා සිය නිවේදනය මගින් වැඩිදුරටත් පෙන්වා දී තිබේ.
+It also explains the plane flying from Dubai to Tel Aviv with a group of Sri Lankans.
 
-මේ අනුව එම යානයේ සිටි ඊශ්‍රායලය බලා පැමිණීමට සිටි ශ්‍රී ලාංකිකයින් සම්බන්ධයෙන් තොරතුරු අනාවරණය කරගැනීමට කටයුතු කරමින් සිටින බවද නිමල් බණ්ඩාර මහතා පවසයි.
+Flay Dubai FZ-1625, FZ-1625, was reported in connection with the attack on Tel Aviv on 20.10 last night, he said.
+
+At the same time, Mr. Nimal Bandara has stated that steps have been taken to conquer the plane and flowing to Dubai.
+
+According to Nimal Bandara, he is working to uncover information about Sri Lankans who were on the occasion.
+
+Meanwhile, the Sri Lankan Ambassador further said that a function held at the Jeritians of the Jerusalem Shance of Two Sri Lankans on April 13 and then they had gone to their homes.
+
+Sri Lankan Ambassador Nimal Bandara further requested that the embassy is in focus and not to fear the Sri Lankans in Israel.
 
 ...
 
 [Data](articles/18edad2e.json)
+
+[Extended Data](ext_articles/18edad2e.ext.json)
 
 ---
 
@@ -68,23 +136,31 @@ He said there are flight delays in the region and requested Sri Lankans travelli
 
 [Data](articles/38c9b41b.json)
 
+[Extended Data](ext_articles/38c9b41b.ext.json)
+
 ---
 
-### அம்புலன்ஸ் சேவைகள் 24 மணி நேரமும் தயார் நிலையில் உள்ளன
+### Ambulance Services are ready 24 hours a day
 
 *2024-04-14 15:12:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்புலன்ஸ்-சேவைகள்-24-மணி-நேரமும்-தயார்-நிலையில்-உள்ளன/175-335929) · `ta`
 
-பண்டிகைக் காலத்தில் வினைத்திறன் மற்றும் தொடர்ச்சியான சுகாதார சேவைகளை உறுதிப்படுத்த தேவையான நடவடிக்கைகளை எடுக்குமாறு சுகாதார அமைச்சர் ரமேஷ் பத்திரனவினால் அதிகாரிகளுக்கு பணிப்புரை வழங்கப்பட்டுள்ளதாக சுகாதார செயலாளர் பாலித மஹீபால தெரிவித்துள்ளார்.
+Health Secretary Palitha Mahebala emphasized the readiness of ambulance services 24/7 to ensure efficient health services during the festive season, addressing increased accidents, food poisoning, and infectious diseases.
 
-பொதுவாக பண்டிகைக் காலங்களில் விபத்துகள், உணவு விஷம் மற்றும் தொற்றாத நோய்கள் அதிகரித்து வருகிறது.
+🟩
 
-விபத்துக்கள், உணவு விஷமான சம்பவங்கள் மற்றும் தொற்றாத நோய்கள் காரணமாக வைத்தியசாலைகளில் அனுமதிக்கப்படும் நோயாளர்களுக்கு துரித சேவைகளை வழங்குவதற்கு அனைத்து நடவடிக்கைகளும் எடுக்கப்பட்டுள்ளதாக வைத்தியர் மஹீபால தெரிவித்தார்.
+Health Secretary Palitha Mahebala said that the authorities have been given a directive by the Minister of Health Ramesh Pathirana to take necessary steps to ensure the efficiency and continuous health services during the festive season.
 
-அவசர காலங்களில் சேவைகளை வழங்க அம்புலன்ஸ் சேவைகள் இருபத்திநான்கு மணி நேரமும் தயார் நிலையில் இருப்பதாக அவர் கூறினார்.
+In general, accidents, food poisoning and infectious diseases are increasing during the festive season.
+
+Dr. Mahebala said that all measures have been taken to provide fast services to patients admitted to hospitals due to accidents, food poisonous incidents and infectious diseases.
+
+He said ambulance services were ready for twenty -four hours to provide services in times of emergency.
 
 ◼️
 
 [Data](articles/33ad0870.json)
+
+[Extended Data](ext_articles/33ad0870.ext.json)
 
 ---
 
@@ -106,21 +182,65 @@ Showers or thundershowers will occur at several places elsewhere over the island
 
 [Data](articles/aa1cfd00.json)
 
+[Extended Data](ext_articles/aa1cfd00.ext.json)
+
 ---
 
-### යුපුන්ට සුපිරි ජයක්
+### Israel hails ‘success’ after blocking unprecedented attack from Iran
+
+*2024-04-14 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98627/israel-hails-success-after-blocking-unprecedented-attack-from-iran) · `en`
+
+Israel on Sunday hailed its successful air defenses in the face of an unprecedented attack by Iran, saying it and its allies thwarted 99% of the more than 300 drones and missiles launched toward its territory. But regional tensions remain high, amid fears of further escalation in the event of a possible Israeli counter-strike.
+
+U.S. President Joe Biden said he would convene a meeting of the Group of Seven advanced democracies on Sunday “to coordinate a united diplomatic response to Iran’s brazen attack.” The language indicated that the Biden administration does not want Iran’s assault to spiral into a broader military conflict.
+
+Iran launched the attack in response to a strike widely blamed on Israel on an Iranian consular building in Syria earlier this month which killed two Iranian generals. Israel said Iran launched 170 drones, more than 30 cruise missiles and more than 120 ballistic missiles early Sunday.
+
+...
+
+[Data](articles/2d23b16b.json)
+
+---
+
+### Drugs seized from trawler off south coast estimated to be worth over Rs. 3, 798 mn
+
+*2024-04-14 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98626/drugs-seized-from-trawler-off-south-coast-estimated-to-be-worth-over-rs-3-798-mn) · `en`
+
+The local multi-day fishing trawler seized by Sri Lanka Navy while carrying a large haul of narcotics off Dondra, in southern Sri Lanka has been brought to the Galle Harbour, along with the arrested suspects.
+
+The Commander of the Navy, Vice Admiral Priyantha Perera arrived at the Galle Harbour to inspect the massive consignment of narcotics taken into custody in this operation.
+
+Sri Lanka Navy intercepted a local multi-day fishing trawler carrying a large haul of narcotics, with 06 suspects aboard about 133 nautical miles (about 246 km) off Dondra, in southern Sri Lanka.
+
+During the operation, the navy seized another local one-day fishing trawler with 04 suspects, believed to have been there to fetch the consignment of narcotics mid-sea.
+
+The operation was mounted by deploying Sri Lanka Coast Guard Ship (SLCG) Samudraraksha which made the apprehension on April 12, 2024.
+
+...
+
+[Data](articles/a28f2688.json)
+
+---
+
+### Superssed to the eups
 
 *2024-04-14 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195619) · `si`
 
-ශ්‍රී ලංකා සුපිරි ධාවන ශූර යුපුන් අබේකෝන් ඉතාලියේ පැවති තරගාවලියක මීටර් 150 ඉසව්වේ ජය හිමිකරගෙන තිබේ.
+Sri Lanka's Fern Abeykoon won the 150m ephok in Italy, setting a new personal best of 15.9 seconds, the second fastest time ever.
 
-ඉතාලියේ ෆ්ලෝරන්ස් ස්ප්‍රින්ට් තරගාවලියේ මීටර් 150 ඉසව්වට එක්වූ යුපුන් මීටර් 150 ඉසව්ව තත්පර 15යි දශම 1යි 9ක කාලයකින් අවසන් කරමින් එම ඉසව්වේ පළමු ස්ථානය මෙලෙස හිමිකරගෙන ඇත.
+🟩
 
-එම කාලය මීටර් 150 ඉසව්වේදි ඔහු මෙතෙක් වාර්තා කළ දෙවැනි වේගවත්ම කාලයයි.
+Sri Lanka Supermarket Fern Abeykoon has won the 150 meters ephok in Italy.
+
+The next 150m event, the 150-meter event, was placed first in the event of 15 and 9 seconds.
+
+That time was the second fastest time he had ever recorded.
 
 ◼️
 
 [Data](articles/e10820e4.json)
+
+[Extended Data](ext_articles/e10820e4.ext.json)
 
 ---
 
@@ -140,6 +260,8 @@ The 53-year-old father and a 22-year-old daughter have been admitted to the Badu
 
 [Data](articles/77db4d07.json)
 
+[Extended Data](ext_articles/77db4d07.ext.json)
+
 ---
 
 ### Efficient healthcare services ensured during festive season: Health Ministry
@@ -157,6 +279,8 @@ He said ambulance services are also on standby for twenty-four hours to provide 
 ◼️
 
 [Data](articles/ff71b4b8.json)
+
+[Extended Data](ext_articles/ff71b4b8.ext.json)
 
 ---
 
@@ -180,23 +304,29 @@ HM from Gampaha Dompe Puwakwatte area. The police also said that Kamalavati (70)
 
 ---
 
-### மனோநிலை பாதிக்கப்பட்டவரே சிட்னியில் நேற்று கத்திக்குத்து தாக்குதலில் ஈடுபட்டார் – அவுஸ்திரேலிய காவல்துறையினர்
+### The victim was attacked by a knife in Sydney yesterday - Australian police
 
 *2024-04-14 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181070) · `ta`
 
-சிட்னியின் பொன்டி வெஸ்ட்பீல்ட் வணிக வளாகத்தில் கத்திக்குத்து தாக்குதலை மேற்கொண்டு பலரை கொலை செய்தவர் குயின்ஸ்லாந்தை சேர்ந்த 40 வயது ஜோ கௌச்சி என காவல்துறையினர் தெரிவித்துள்ளனர்.
+A 40-year-old man from Queensland, Joe Gaqi, attacked by knife in Sydney, killing many in Pontie Westfield. He was mentally ill, settled in Sydney recently. Family sympathizes with victims and supports female officer who stopped him. Police investigate if Kauchi was targeted by women.
 
-இந்த நபர் மனோநிலை பாதிப்புக்குள்ளானவர் சில மாதங்களிற்கு முன்பே சிட்னியில் குடியேறினார் என காவல்துறையினர் தெரிவித்துள்ளனர்.
+🟩
 
-அவரின் வன்முறை மிகவும் பயங்கரமானது என தெரிவித்துள்ள குடும்பத்தவர்கள் உயிரிழந்தவர்களின் குடும்பத்தவர்களிற்கு தங்கள் அனுதாபங்களை வெளியிட்டுள்ளனர்.
+Police said that the 40 -year -old Joe Gaqi from Queensland was the man who killed many people in Sydney's Pontie Westfield Business Complex.
 
-கௌச்சி மீது துப்பாக்கி பிரயோகம் மேற்கொண்டு அவரின் வெறியாட்டத்தை தடுத்து நிறுத்திய பெண் காவல்துறை உத்தியோகத்தருக்கு அவர்கள் தங்கள் ஆதரவை வெளியிட்டுள்ளனர்.
+The person who was mentally ill had settled in Sydney a few months ago, police said.
 
-கௌச்சி பெண்களை இலக்குவைத்து தாக்குதலை மேற்கொண்டாரா என்பது குறித்து ஆராய்ந்து வருவதாக காவல்துறையினர் தெரிவித்துள்ளனர்.
+Her family has expressed their sympathies to the families of the victims.
+
+They have expressed their support to the female police officer who fired on Kauchi and stopped her frenzy.
+
+Police said they were investigating whether Kauchi was targeted by women.
 
 ◼️
 
 [Data](articles/50a959fd.json)
+
+[Extended Data](ext_articles/50a959fd.ext.json)
 
 ---
 
@@ -324,23 +454,33 @@ Preliminary investigations have revealed that the deceased was being used by fir
 
 ---
 
-### அடுத்த கட்ட நடவடிக்கை என்ன ? தீர்மானிக்கும் பொறுப்பு இஸ்ரேலின் போர்க்கால அமைச்சரவையிடம் - மத்திய கிழக்கில் பாரிய மோதல் ஆபத்து தொடர்கின்றது
+### What is the next step?The responsibility of deciding is to Israel's Wartime Cabinet - Massive conflict in the Middle East continues
 
 *2024-04-14 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181066) · `ta`
 
-ஈரானின் தாக்குதலை தொடர்ந்து எவ்வாறான பதில் நடவடிக்கையை எடுப்பது என்பதை தீர்மானிக்கும் பொறுப்பபை இஸ்ரேலிய போர் அமைச்சரவையிடம் இஸ்ரேலிய அமைச்சரவை கையளித்துள்ள அதேவேளை மத்திய கிழக்கில் பாரிய யுத்தமொன்றிற்கான வாய்ப்புகள் தொடர்ந்தும் நீடிக்கின்றன.
+Israel's Wartime Cabinet decides next action on Iranian attack amid Middle East conflict. US, Israel discuss, with US helping intercept Iranian missiles. Israel's patience urged. Only minor injuries reported. US warns against indiscriminate actions. UN statement suggests Iran expects no severe response. Israel's PM considers Iran's nuclear reactors a threat.
 
-நள்ளிரவில் கூடிய இஸ்ரேலிய அமைச்சரவை அடுத்த கட்டம் குறித்து தீர்மானிக்கும் பொறுப்பை இஸ்ரேலிய பிரதமர் உட்பட மூவர் அடங்கிய போர் அமைச்சரவையிடம் ஒப்படைத்துள்ளது.
+🟩
 
-மூவரும் அடுத்த கட்ட நடவடிக்கை குறித்து தீர்மானிக்கவுள்ள நிலையில் பிராந்தியத்தின் தலைவிதி அவர்களின் கரங்களில் தற்போது தங்கியுள்ளது.
+The Israeli Cabinet has handed over the Israeli War Cabinet to the Cabinet of War to decide what action to take on the Iranian attack, while the chances of a massive war in the Middle East continue.
 
-யுத்த அமைச்சரவையின் கூட்டத்திற்கு முன்னரான பதற்றமான நிமிடங்களில் அமெரிக்க ஜனாதிபதியும் இஸ்ரேலிய பிரதமரும் 25 நிமிடங்கள் தொலைபேசி உரையாடலில் ஈடுபட்டனர்.
+The Israeli Cabinet at midnight has entrusted the war Cabinet of War Cabinet, including the Israeli Prime Minister, to decide on the next stage.
 
-இந்த உரையாடலில் இஸ்ரேல் பொறுமையை கடைப்பிடிக்கவேண்டு;ம் என பைடன் வலியுறுத்தினார் என இஸ்ரேலிய ஊடகங்கள் சில தெரிவித்துள்ளன.
+The fate of the region is now in their hands as the trio will decide on the next step.
+
+In the tense minutes before the war cabinet, the US president and the Israeli prime minister engaged in telephone conversations for 25 minutes.
+
+In this conversation, Israeli media has stated that Israel's patience should be practiced.
+
+Following the telephone conversation, Bitidan Benjamin did not report to Benjamin Nettanyaku, but Iran's missiles were all down with the help of the United States.
+
+Faidan noted that the enemies have made a clear news that the best security skills have been revealed, which cannot threaten Israel's security.
 
 ...
 
 [Data](articles/145b7233.json)
+
+[Extended Data](ext_articles/145b7233.ext.json)
 
 ---
 
@@ -919,6 +1059,8 @@ Future potential thereafter has been overshadowed by a myriad of challenges.
 ...
 
 [Data](articles/d3c9eb27.json)
+
+[Extended Data](ext_articles/d3c9eb27.ext.json)
 
 ---
 
@@ -2151,99 +2293,5 @@ During the Nonagathaya, people used to engage in religious activities such as vi
 [Data](articles/23a1d079.json)
 
 [Extended Data](ext_articles/23a1d079.ext.json)
-
----
-
-### Inauspicious time begins
-
-*2024-04-13 14:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Inauspicious-time-begins/108-280673) · `en`
-
-The inauspicious time, known as the Nonagathaya, begins today at 2:41 p.m. and lasts until 3:29 a.m. tomorrow, April 14th.
-
-During the Nonagathaya, people used to engage in religious activities such as visiting temples and offering alms to the poor.
-
-◼️
-
-[Data](articles/48786c64.json)
-
-[Extended Data](ext_articles/48786c64.ext.json)
-
----
-
-### Charity is coming
-
-*2024-04-13 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195592) · `si`
-
-Charity period from April 13 to 3.29 am, starting 2.41 am today, for religious observances.
-
-🟩
-
-According to the Sinhala and Tamil New Year, the charity period is April 13 to 3.29 am from 2.41 am today.
-
-Accordingly, the auspicious seat is appropriate in the religious observances during charity.
-
-◼️
-
-[Data](articles/56f9e504.json)
-
-[Extended Data](ext_articles/56f9e504.ext.json)
-
----
-
-### Sinhala and Tamil New Year dawns today; ‘Punya Kaalaya’ begins
-
-*2024-04-13 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98609/sinhala-and-tamil-new-year-dawns-today-punya-kaalaya-begins) · `en`
-
-The inauspicious time (Punya Kaalaya or Nonagathaya) of 2024 Sinhala and Tamil New Year commenced a short while ago at 2.41 p.m. and is slated to end at 3.29 a.m. tomorrow (14). Sri Lankans are set to celebrate the dawn of the traditional New Year this year at 9.05 p.m. today (13).
-
-The New Year, known as ‘Aluth Avurudda’ in Sinhala, and ‘Puththandu’ in Tamil, is celebrated by both communities by observing various rituals and customs.
-
-According to traditional astrological belief, the Sun completes its movement across the twelve segments of the Zodiac in the course of a year taking one month to travel each constellation.
-
-The transition of the Sun from the House of Pisces to the House of Aries marks the beginning of the New Year (Aluth Avurudu).
-
-A number of customs and traditional beliefs are associated with Avurudu celebrations in Sri Lanka. The Sinhalese are influenced by astrological faiths and perform several religious practices during this time.
-
-...
-
-[Data](articles/d05e57c8.json)
-
-[Extended Data](ext_articles/d05e57c8.ext.json)
-
----
-
-### All presidential candidates should reveal their educational qualifications: Navin Dissanayake
-
-*2024-04-13 14:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/All-presidential-candidates-should-reveal-their-educational-qualifications-Navin-Dissanayake/108-280672) · `en`
-
-All presidential candidates should show the public their apparent qualifications, whether they engage in public debates or not, former Minister Navin Dissanayake said.
-
-"All presidential candidates, be it A/L,s degrees or masters/professional qualifications, should show their qualifications to the public. We cannot have mere talkers crashing this country after an amazing stable recovery," Dissanayake said in his latest post on X.
-
-◼️
-
-[Data](articles/e0c3ef8d.json)
-
-[Extended Data](ext_articles/e0c3ef8d.ext.json)
-
----
-
-### No permission granted for rice imports: Siyambalapitiya
-
-*2024-04-13 14:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-permission-granted-for-rice-imports-Siyambalapitiya/108-280671) · `en`
-
-Colombo, April 13 (Daily Mirror) - No permission has been granted for the import of rice, other than Basmati rice for the needs of tourist hotels, Finance State Minister Ranjith Siyambalapitiya said.
-
-The Minister said this while speaking to the media in the Avissawella area regarding the allegations that the import of rice has been allowed.
-
-The Minister further said that the government had allowed the import of rice when there was a risk of a rice shortage last February.
-
-At that time, a quantity of rice that had been brought in after a few days was stuck in the port, so a week's time was given to release that particular quantity of rice, but that time has now expired, the Minister said.
-
-◼️
-
-[Data](articles/32973ecc.json)
-
-[Extended Data](ext_articles/32973ecc.ext.json)
 
 ---

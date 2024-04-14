@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-14 13:05:05**
+As of **2024-04-14 11:38:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,054
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,770 (100.0%) of 18,770 articles have been extended.
+18,766 (100.0%) of 18,770 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,8 +50,6 @@ In March last year, an e-mail threatening Khan was received at his office follow
 
 [Data](articles/5cd510c5.json)
 
-[Extended Data](ext_articles/5cd510c5.ext.json)
-
 ---
 
 ### Blessings for New Year...
@@ -63,8 +61,6 @@ A pirith chanting ceremony was held last night at the Siri Vajiragnana Dhamma Sc
 ◼️
 
 [Data](articles/f39da2f0.json)
-
-[Extended Data](ext_articles/f39da2f0.ext.json)
 
 ---
 
@@ -83,8 +79,6 @@ However, people will not have to wait longer in queues. Buses will be provided o
 ◼️
 
 [Data](articles/85238da5.json)
-
-[Extended Data](ext_articles/85238da5.ext.json)
 
 ---
 
@@ -296,29 +290,21 @@ The Commander of the Sri Lanka Navy Vice Admiral Priyantha Perera inspected the 
 
 ---
 
-### Children in children's centers due to President
+### ජනපති නිසා ළමා මධ්‍යස්ථානවල දරුවන්ටත් අවුරුදු
 
 *2024-04-14 08:50:05* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-නිසා-ළමා-මධ්‍යස්ථානවල-දරුවන්ටත්-අවුරුදු/11-409073) · `si`
 
-President Ranil Wickremesinghe distributed New Year's gifts to children in 336 child development centers across Sri Lanka, organized by the Presidential Office and Ceylon Biscuits. The Army, under Silva, assisted in the distribution.
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයකට අනුව සිංහල දෙමළ අලුත් අවුරුද්ද වෙනුවෙන් රට පුරා පිහිටි ළමා සංවර්ධන මධ්‍යස්ථාන 336ක  ආරක්ෂාව යටතේ සිටින දරු දැරියන් සඳහා  අවුරුදු ත්‍යාග පාර්සල් බෙදාදීම ඊයේ (13) දිවයින පුරා සිදු කෙරිණි.
 
-🟩
+කොළඹ, කළුතර හා ගම්පහ දිස්ත්‍රික්කවල අද උදෑසන ආරම්භ වූ මෙම වැඩසටහන සෑම දිස්ත්‍රික්කයක්ම ආවරණය වන පරිදි අලුත් අවුරුදු රසකැවිලි හා ත්‍යාග පාර්සල් දරුවන්ට බෙදාදීම  දවසපුරාම සිදු කරන ලදී.
 
-According to President Ranil Wickremesinghe, 336 child development centers, which are under security under the Sinhala, 336 child development centers across the country, was held island wide yesterday (13).
+නිවසින් හෝ ආදරණීය දෙමාපියන්ගෙන් බැහැරව සිටියත් සෑම දරුවකුටම අවුරුදු සතුට ලබාදීම වෙනුවෙන් “ළමා නිවාසවල සිටින දූ දරුවන්ටත් අවුරුදු” මැයෙන් ජනාධීපති කාර්යාලය, සිලෝන් බිස්කට් සමාගම ඇතුළු පෞද්ගලික අංශයේ අනුග්‍රහයෙන් මෙම වැඩසටහන සංවිධාන කර තිබිණි.
 
-The program commenced this morning in Colombo, Kalutara and Gampaha districts, this program was distributed to the new year sweets and gift parcel to cover every district.
-
-The program was organized by the Presidential Office, Ceylon Biscuits, Ceylon Biscuits, Ceylon Biscuits, Ceylon Biscuits, Ceylon Biscuits, Ceylon Biscuits.
-
-More than 10,000 conventions and rewards parcels were distributed among children with the President's New Year's message.
-
-The Army was distributed by the Army under the guidance of the Chief of Defense Standard Silva on the instructions of the President of the President.
+ජනාධිපතිවරයාගේ අලුත් අවුරුදු පණිවිඩය සමග රස කැවිලි හා ත්‍යාග පාර්සල් 10,000කට අධික ප්‍රමාණයක් දරුවන් අතර බෙදා දීම මෙහිදී සිදු කෙරිණි.
 
 ...
 
 [Data](articles/507bac38.json)
-
-[Extended Data](ext_articles/507bac38.ext.json)
 
 ---
 

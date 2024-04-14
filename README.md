@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-14 11:13:28**
+As of **2024-04-14 10:30:48**
 
 ## Newspaper Stats
 
-*Scraped **18,766** Articles*
+*Scraped **18,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,53 +20,17 @@ tamilmirrorlk | 2,193
 adaderanalk | 2,261
 virakesarilk | 2,786
 dailymirrorlk | 2,889
-adaderanasinhalalk | 3,054
+adaderanasinhalalk | 3,052
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,757 (100.0%) of 18,766 articles have been extended.
+18,757 (100.0%) of 18,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-14 (Sunday)
-
-### බිලියන 3.7ක මත්ද්‍රව්‍ය රැගත් ධීවර යාත්‍රාව කොටුකර ගත් මෙහෙයුම
-
-*2024-04-14 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195615) · `si`
-
-මත්ද්‍රව්‍ය කිලෝ 250කට වැඩි ප්‍රමාණයක් රැගත් මෙරට බහුදින ධීවර යාත්‍රාව ක් දකුණු මුහුදේදී සිය භාරයට ගැනීමට ශ්‍රී ලංකා නාවික හමුදාව සමත්වී තිබේ.
-
-එම යාත්‍රාවේ අයිස් මත්ද්‍රව්‍ය කිලෝ 179ක් සහ හෙරොයින් කිලෝ 83කට වැඩි ප්‍රමාණයක් තිබුණි.
-
-◼️
-
-[Data](articles/5c9689a3.json)
-
----
-
-### සුපිරි බොලිවුඩ් නළු සල්මන් ඛාන්ගේ නිවසට වෙඩිතබයි
-
-*2024-04-14 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195614) · `si`
-
-බොලිවුඩ් නළු සල්මන් ඛාන්ගේ මුම්බායි නිවස දෙසට අද (14) අලුයම වෙඩිතැබීමක් සිදුකර ඇති බව එරට පොලීසිය පවසයි.
-
-අද අලුයම 5 ට පමණ යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු සල්මන් ඛාන්ගේ නිවසට සහ අහසට වෙඩිතබා එම ස්ථානයෙන් පළා ගොස් ඇති බව වාර්තා වේ.
-
-ඉන්දීය මාධ්‍ය වාර්තා කර ඇත්තේ නිවසේ පිටත බිත්ති වල වෙඩි සලකුණු 5ක් පමණ තිබෙන බවය.
-
-මුම්බායි පොලීසිය මේ සම්බන්ධයෙන් පරීක්ෂණයක් ආරම්භ කර ඇති අතර සැකකරු සොයා ගැනීමට වීමර්ශන ක්‍රයාත්මක බව සඳහන් වේ.
-
-ඉන්දියාවේ ජාතික විමර්ශන ඒජන්සිය (NIA) පසුගිය වසරේ පවසා ඇත්තේ ප්‍රධාන පෙළේ මැර කල්ලියක ප්‍රධාන ඉලක්ක 10 අතර බොලිවුඩ් නළු සල්මන් ඛාන්ද සිටින බවය.
-
-පසුගිය වසරේ ඔහුට ලැබුණු තර්ජනාත්මක දුරකථන ඇමතුම් හේතුවෙන් සල්මන් ඛාන්ගේ ආරක්ෂාව තවත් වැඩි කිරීමට මුම්බායි පොලීසිය කටයුතු කර තිබුණි.
-
-◼️
-
-[Data](articles/0faf2ba1.json)
-
----
 
 ### இஸ்ரேலிற்கு மரணம் - ஆயிரக்கணக்கான ஈரான் மக்கள் வீதியில் இறங்கி தாக்குதலிற்கு ஆதரவு
 
@@ -2225,5 +2189,53 @@ Police said that a 24-year-old and a 42-year-old were injured in the shooting an
 [Data](articles/75adb5fc.json)
 
 [Extended Data](ext_articles/75adb5fc.ext.json)
+
+---
+
+### 200 women and men sexually harassed doctor
+
+*2024-04-13 09:18:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/200-பெண்கள்-ஆண்களிடம்-பாலியல்-தொல்லை-பலே-டாக்டர்/50-335902) · `ta`
+
+Dr. Terrick Dot, a rheumatology specialist in Boston, has been accused of sexually harassing over 200 patients, including women and men, for years. He allegedly performed unnecessary tests and engaged in sexual misconduct, particularly with female patients. The case has shocked the medical community and led to his administrative leave and removal from the Charles River Medical Association.
+
+🟩
+
+Dr. Dod has been accused of showing her handcuffs, ranging from girls to 60 years of age without age.
+
+We see doctors as gods because they do the service to save precious lives. We do not think about the testing and therapeutic methods they recommend. But there are occasional complaints that a few doctors behave as a betrayal of this belief. Such incidents cause disgrace to the medical community.
+
+The incident has been a shocking incident for a doctor from the US, who has been sexually harassed for many years beyond treatment for patients.. More than 200 women and various men have sued him.
+
+Dr. Terrick Dot belongs to Massachusett State Boston. She is a specialist doctor who treats rheumatism and arthritis and worked at Brikam and Women's Hospital.
+
+...
+
+[Data](articles/c70b2770.json)
+
+[Extended Data](ext_articles/c70b2770.ext.json)
+
+---
+
+### Losing a life of time
+
+*2024-04-13 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195584) · `si`
+
+In Katubedda, a 28-year-old was killed, and two others injured by a sharp weapon. The victim was identified, and the suspect arrested. Further investigations are ongoing.
+
+🟩
+
+One person was killed and two others were injured as a result of a sharp weapon in Katubedda.
+
+Police said that the victim was revealed in preliminary investigations into the incident.
+
+The three injured persons were rushed to the Panadura hospital and a 28 year old man was killed.
+
+The suspect has been arrested and the Moratuwa police have commenced further investigations.
+
+◼️
+
+[Data](articles/ddb32a61.json)
+
+[Extended Data](ext_articles/ddb32a61.ext.json)
 
 ---

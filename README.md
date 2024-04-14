@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-14 09:13:03**
+As of **2024-04-14 09:29:01**
 
 ## Newspaper Stats
 
-*Scraped **18,750** Articles*
+*Scraped **18,753** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,046
-adalk | 1,560
+adalk | 1,562
 tamilmirrorlk | 2,191
-adaderanalk | 2,258
+adaderanalk | 2,259
 virakesarilk | 2,785
 dailymirrorlk | 2,885
 adaderanasinhalalk | 3,051
@@ -26,47 +26,105 @@ adaderanasinhalalk | 3,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,742 (100.0%) of 18,750 articles have been extended.
+18,750 (100.0%) of 18,753 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-14 (Sunday)
 
-### රටපුරා අවුරුදු සමරයි
+### Fairly heavy showers likely in parts of the country
+
+*2024-04-14 08:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98620/fairly-heavy-showers-likely-in-parts-of-the-country) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Southern, Central, North-western and Uva provinces and in Ampara and Batticaloa districts.
+
+Showers are likely in the Eastern province during the morning too while several spells of light showers may occur elsewhere of the island.
+
+Fairly heavy showers about 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle, Matara and Ampara districts.
+
+Misty conditions can be expected at some places in Western, Central, Sabaragamuwa and Uva provinces and in Galle, Matara and Kurunegala districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+On the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka during 05th to 15th of April in this year.
+
+...
+
+[Data](articles/127c8a3b.json)
+
+---
+
+### Celebrating the New Year across the country
 
 *2024-04-14 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195612) · `si`
 
-ලැබුවා වූ සිංහල හා දෙමළ අලුත් අවුරුද්ද සුබ අලුත් අවුරුද්දක් වේවා යි ඔබට සැමට අද දෙරණ ප්‍රවෘත්ති අංශයේ අපි ප්‍රාර්ථනා කරමු.
+The Sinhala and Tamil New Year was celebrated with joy, including cultural programs and festivals. Ada Derana News Division highlighted the significance of the New Year's dawn and the auspicious juice. Special security measures were in place for the festivals, supported by the police and armed forces.
 
-සූර්යයා මීන රාශියේ සිට මේෂ රාශියට සංක්‍රමණය වීම හෙවත් අලුත් අවුරුදු උදාව ඊයේ (13) අපරභාග 09.05ට සිදු විය.
+🟩
 
-ආහාර පිසීමේ නැකැත රාත්‍රී 11.06ට යෙදී තිබූ අතර නීල වර්ණ වස්ත්‍රාභරණයෙන් සැරසී දකුණු දිශාව බලා ලිප් බැඳ ගිනි මොලවා තල්, උක් හකුරු මිශ්‍ර කිරි බතක් ද තල මිශ්‍ර කැවිලි වර්ගයක් ද පිළියෙළ කර ගැනීම මැනවි බව අවුරුදු නැකැත් පත්‍රයේ සඳහන්ව තිබුණි.
+The Sinhala and Tamil New Year, which was a Happy New Year, we wish you all the Ada Derana News Division.
 
-වැඩ ඇල්ලීම, ගණුදෙනු කිරීම සහ ආහාර අනුභවය ඊයේ මධ්‍යම රාත්‍රී 12.06ට යෙදී තිබූ අතර නීල වර්ණ වස්ත්‍රාභරණයෙන් සැරසී දකුණු දිශාව බලා සියලු වැඩ අල්ලා ගණුදෙනු කොට ආහාර අනුභවය සිදුකළ යුතු බව නැකැත් පත්‍රයේ සඳහන් විය.
+The New Year's dawn took place yesterday (13) from the sun from the sun.
 
-සිංහල හා දෙමළ අලුත් අවුරුද්දේ හිසතෙල් ගෑමේ නැකැත හෙට (15) දිනයට යෙදී ඇති අතර එය හෙට පූර්ව භාග 10.17ට යෙදී තිබේ.
+The cooking prompt was on the right direction at 11.06 pm and to prepare a cock-jagged milk, a mixed cow, a mixed coach and a cock jaggery.
 
-ශ්වේත්‍ර වර්ණ හෙවත් සුදු වස්ත්‍රාභරණයෙන් සැරසී දකුණු දිශාව බලා හිසට දිවුල්පත් ද පයට ඉඹුල්පත්ද තබා දිවුල් පත් යුෂ මිශ්‍ර නානු හා තෙල් ගා ස්නානය කිරීම මැනවි බව නැකැත් පත්‍රයේ සඳහන් වේ.
+Working, transaction, and diet was held at 12.06 midnight yesterday, and the vacant sheet should be done to work south and coordinate all the work.
+
+The aimed at the Sinhala and Tamil New Year has been played tomorrow (15) tomorrow (15).
+
+The auspicious sheet states that the auspicious juice is not dressed in a white garment, and to the head.
+
+Ada Derana reporters said that the New Year's dawn was zealously celebrated yesterday.
+
+Meanwhile, a number of cultural programs including New Year's festivals have been organized to mark the Sinhala and Tamil New Year.
+
+It is reported that these New Year's festivals are scheduled to be held in accordance with old customs.
 
 ...
 
 [Data](articles/296a6021.json)
 
+[Extended Data](ext_articles/296a6021.ext.json)
+
 ---
 
-### අලුත් අවුරුද්දට සුබ පැතුම් එක්කළ ලෝක බලවතා
+### සෞඛ්‍ය වාහන 679 ක් අතුරුදන් වෙලා
+
+*2024-04-14 08:12:19* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-වාහන-679-ක්-අතුරුදන්-වෙලා/11-409071) · `si`
+
+සෞඛ්‍ය අමාත්‍යාංශය සතු විවිධ වාහන 679 ක්  ප්‍රමාණවත් කිසිදු තොරතුරක් සොයාගත නොහැකි පරිදි  අස්ථාන ගතවී ඇතැයි ජාතික විගණන කාර්යාලය අනාවරණය කරයි.
+
+ජාතික විගණන කාර්යාලය මගින් සෞඛ්‍ය අමාත්‍යාංශයේ වාහන කළමනාකරණය පිළිබඳව 2019 වසරේදී සිදුකළ විශේෂ විගණන පරීක්ෂණයක් මගින්  මෙලෙස  වාහන 679 ක් අස්ථානගතවීම ගැන ප්‍රථම වරට  අනාවරණය කරගෙන තිබුණි.
+
+එයින් වාහන 240 ක් පිළිබඳව හඳුනා ගත් බව සෞඛ්‍ය අමාත්‍යාංශය මගින් විගණනයට දන්වා ඇතත් ඒ බව තහවුරු කිරීමට ප්‍රමාණවත් තොරතුරු විගණනයට ඉදිරිපත් කිරීමට අමාත්‍යාංශය අපොහොසත් වී ඇති බව විගණන කාර්යාලය සඳහන් කරයි.
+
+අනිකුත් වාහන 439 පිළිබඳවද මේ දක්වා වසර හතරක් තිස්සේ කිසිම තොරතුරක්  සොයා ගැනීමට  නොහැකිව  ඇතැයිද ජාතික විගණන කාර්යාලය මගින් නිකුත් කළ වාර්ෂික විගණකාධිපති වාර්තාවේ සෞඛ්‍ය අමාත්‍යාංශය පිළිබඳ විගණන නිරීක්ෂණ මගින් පෙන්වා දී තිබේ.
+
+◼️
+
+[Data](articles/766233da.json)
+
+---
+
+### Congratulations for the New Year
 
 *2024-04-14 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195611) · `si`
 
-අමෙරිකානු ජනාධිපති ජෝ බයිඩන් සිංහල හා දෙමළ අවුරුද්ද නිමිත්තෙන් මෙරට ජනතාවට සුබ පැතුම් එක්කර තිබේ.
+"Congratulations on the New Year! Sri Lanka marks the Sinhala and Tamil New Year with President Joe Biden, who added a greeting. He and his wife wish to benefit all who celebrate this unique opportunity."
 
-සිය එක්ස් ගිණුමේ සටහනක් තබමින් ජෝ බයිඩ්න් සිය සුබපැතුම් එක්කර තිබුණි.
+🟩
 
-මෙම සුවිශේෂී අවස්ථාව සමරන ලොව සියලුදෙනා ට තමා සහ තම බිරිඳ සුබපතන බව ඔහු සිය සටහනින් පවසයි.
+The people of Sri Lanka have joined the people of Sri Lanka to mark the Sinhala and Tamil year of America President Joe Biden.
+
+Joe Buyn had added his greeting by putting a note of X account.
+
+He says that he and his wife will benefit all the world who celebrate this unique opportunity.
 
 ◼️
 
 [Data](articles/f0615592.json)
+
+[Extended Data](ext_articles/f0615592.ext.json)
 
 ---
 
@@ -102,21 +160,27 @@ Prime Minister Dinesh Gunawardena says that the new year should be gratefully re
 
 ---
 
-### ஈரான் தாக்குதல் - இஸ்ரேலின் தென்பகுதி இராணுவதளம் சேதம்
+### Iran attack - Israel's southern territory damage
 
 *2024-04-14 07:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181061) · `ta`
 
-ஈரானின் தாக்குதல் காரணமாக இஸ்ரேலின் தென்பகுதியில் உள்ள இராணுவதளமொன்று சேதமடைந்துள்ளதாக இஸ்ரேலிய இராணுவம் தெரிவித்துள்ளது.
+Iran's attack damaged a military site in Israel's south, causing minor infrastructure damage. Iran's unmanned aircraft lost missiles within Israel's borders. Israel has assisted strategic partners in this incident.
 
-தளத்தின் உட்கட்டமைப்பிற்கு சிறிய சேதங்கள் ஏற்பட்டதாக இஸ்ரேலின் இராணுவபேச்சாளர் ரியர் அட்மிரல் டானியல் ஹகாரி  தெரிவித்துள்ளார்.சில காயங்கள் ஏற்பட்டுள்ளதாகவும் அவர் தெரிவித்துள்ளார்
+🟩
 
-ஈரான் செலுத்திய ஆளில்லா விமானங்கள் ஏவுகணைகள் பலவற்றை இஸ்ரேலின் எல்லைக்குள் வைத்து செயல் இழக்கச்செய்துவிட்டதாக அவர் தெரிவித்துள்ளார்.
+The Israeli military has said that a military site in the south of Israel has been damaged due to Iran's attack.
 
-அரோ அமைப்பு முறையை பயன்படுத்தி வான்வெளிபாதுகாப்பு பொறிமுறை ஏவுகணைகள் ஆளில்லா விமானங்களை எதிர்கொண்டது இந்த நடவடிக்கையில் எங்களின் மூலோபாய சகாக்களும் உதவி வழங்கினார்கள் எங்கள் எல்லைக்குள் வருவதற்குள் அனேகமானவற்றை செயல் இழக்கச்செய்துவிட்டோம் என அவர் தெரிவித்துள்ளார்.
+Israeli military spokesman Rear Admiral Daniel Hakari said there were minor damage to the site's infrastructure.
+
+He said that Iran's unmanned aircraft had lost many missiles within the limits of Israel.
+
+We have helped our strategic colleagues in this activity.
 
 ◼️
 
 [Data](articles/2b4d9c97.json)
+
+[Extended Data](ext_articles/2b4d9c97.ext.json)
 
 ---
 
@@ -148,29 +212,41 @@ The US has focused on this military situation and the US President has also call
 
 ---
 
-### முக்கிய அதிகாரிகளுடன் பைடன் அவசரசந்திப்பு
+### Bitton emergency with key officials
 
 *2024-04-14 07:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181062) · `ta`
 
-ஈரானின் தாக்குதல் குறித்து அமெரிக்க ஜனாதிபதி ஜோ பைடனிற்கு உடனடியாக தகவல் தெரிவிக்கப்பட்டதாக வெள்ளை மாளிகை தெரிவித்துள்ளது.
+"Bitton emergency: US President Joe Biden reportedly informed about Iran's attack, emphasizing strong commitment to protect against threats from Iran and Israel."
 
-ஈரானிடமிருந்தும் அவர்களின் சகாக்களிடமிருந்தும் இஸ்ரேல் எதிர்கொள்ளும் ஆபத்திலிருந்து அந்த நாட்டை பாதுகாக்கும் எங்கள் உறுதிப்பாடு மிகவும் வலுவானது என பைடன் தெரிவித்துள்ளார்.
+🟩
+
+The White House said it was immediately reported to US President Joe Faidan about Iran's attack.
+
+"Our commitment to protect the country from the danger of Israel from Iran and their colleagues is very strong," Biden said.
 
 ◼️
 
 [Data](articles/3dd897bc.json)
 
+[Extended Data](ext_articles/3dd897bc.ext.json)
+
 ---
 
-### நூற்றுக்கும் மேற்பட்ட ஆளில்லா விமானதாக்குதல்கள் ஏவுகணை தாக்குதல்கள்  - இஸ்ரேல் மீதான தாக்குதலை ஆரம்பித்தது ஈரான்
+### Iran launches more than one hundred unmanned air strikes
 
 *2024-04-14 06:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181059) · `ta`
 
-பெருமளவு ஆளில்லா விமானங்கள் மற்றும் ஏவுகணைகளையும் பயன்படுத்தி ஈரான் பதில் தாக்குதலை மேற்கொண்டுள்ளதாகவும் இஸ்ரேல் அவற்றை நடுவானில் செயல் இழக்கச்செய்யும் சத்தங்களை கேட்க முடிவதாகவும் தகவல்கள் வெளியாகின்றன
+Iran responds to Israel's use of unmanned aircraft and missiles with over 100 unmanned air strikes, targeting areas in the middle of the country.
+
+🟩
+
+According to reports, Iran has launched a response to the use of large numbers of unmanned aircraft and missiles and is able to hear the sounds of Israel in the middle of the country.
 
 ◼️
 
 [Data](articles/557caab3.json)
+
+[Extended Data](ext_articles/557caab3.ext.json)
 
 ---
 
@@ -189,6 +265,8 @@ n. New law for facilitating proposed agricultural land lease programme
 ◼️
 
 [Data](articles/5bafc82c.json)
+
+[Extended Data](ext_articles/5bafc82c.ext.json)
 
 ---
 
@@ -242,21 +320,29 @@ It comes after months of ratcheting tensions in the region over Israel’s war i
 
 ---
 
-### ஜனாதிபதி புத்தாண்டு வாழ்த்துச் செய்தி
+### President New Year's greeting message
 
 *2024-04-14 02:15:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-புத்தாண்டு-வாழ்த்துச்-செய்தி/175-335922) · `ta`
 
-புதுப்பித்தல் வாழ்க்கைக்கு புதிய நம்பிக்கை தரும். புதுப்பிப்புக்களின் அடிப்படையிலேயே நாடு, தேசம் உலகம் முன்னேற முடியும். புதிய சிந்தனைகளினாலேயே புத்தாக்கம் பிறக்கும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது புத்தாண்டு வாழ்த்துச் செய்தியில் குறிப்பிட்டுள்ளார்.
+President Wickremesinghe's New Year message emphasizes renewal, hope, and unity, highlighting the importance of social cohesion in advancing the world.
 
-புதிய வருடம் பிறத்தல், புதிய நாற்காட்டி, பருவத்திற்குப் பருவம் ஏற்படும் புதிய மாற்றங்கள் உலக மக்களுக்கான வாய்ப்புக்களை புதுப்பிக்கின்றன.
+🟩
 
-இந்த புதுப்பித்தல்களுக்குப் பின்னால் மற்றொரு மிக முக்கியமான விடயமும் உள்ளது. அதுவே சமூக ஒற்றுமையும் ஒருமைப்பாடும் ஆகும். தமிழ், சிங்களப் புத்தாண்டை உறவுகளையும் ஒற்றுமையையும் அடிப்படையாகக் கொண்டே புதுப்பித்துக் கொள்கிறோம். உலக நாடுகள் அனைத்தும் இந்த சம்பிரதாயத்தைப் பின்பற்றியே புத்தாண்டுக் கொண்டாட்டங்களை கட்டமைத்துள்ளன.
+Renewal gives new hope for life. Country and nation world can advance on the basis of updates. President Ranil Wickremesinghe has stated in his New Year's greeting message that newcomers will be born with new ideas.
 
-புத்தாண்டு நமக்கு சொல்லும் பாடத்தை இந்த தருணத்தில் சுட்டிக்காட்டுவது பொருத்தமானது என நம்புகிறேன்.
+New Year's birth, new quarters, and season new changes renew the opportunities for the people of the world.
 
-...
+There is another very important thing behind these updates. That is the social unity and integrity. We renew the Tamil and Sinhala New Year based on relationships and unity. All the countries of the world have built New Year celebrations followed by this formalism.
+
+I hope it is appropriate to point out the lesson that the New Year tells us.
+
+In the new year, as a nation, social relations and unity are the basic factors that are the basic factors and prayed that the New Year birth is better for all.. (A)
+
+◼️
 
 [Data](articles/a87e02df.json)
+
+[Extended Data](ext_articles/a87e02df.ext.json)
 
 ---
 
@@ -284,19 +370,25 @@ Six persons who were injured in the accident have been admitted to Diyathalawa R
 
 ---
 
-### ரயில் சேவைகள் சில இன்று இரத்து
+### Some of the train services are canceled today
 
 *2024-04-14 01:52:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவைகள்-சில-இன்று-இரத்து/175-335920) · `ta`
 
-இன்று சில அலுவலக ரயில்கள் இரத்து செய்யப்பட்டுள்ளன என ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+Some office trains are canceled today, but inter-cities trains will run as usual. 6 trains will operate under a special timetable.
 
-நகரங்களுக்கு இடையிலான ரயில் சேவைகள் வழமை போன்று இடம்பெறும் என திணைக்களம் குறிப்பிட்டுள்ளது.
+🟩
 
-விசேட நேர அட்டவணையின் கீழ் 6 ரயில்களை சேவையில் ஈடுபடுத்த திட்டமிடப்பட்டுள்ளதாகவும் ரயில்வே திணைக்களம் தெரிவித்துள்ளது. (a)
+Some office trains have been canceled today, the Railway Department said.
+
+The department said that the inter -cities will take place as usual.
+
+The Railway Department said that 6 trains are scheduled to be operated under the special timetable schedule.. (A)
 
 ◼️
 
 [Data](articles/55558977.json)
+
+[Extended Data](ext_articles/55558977.ext.json)
 
 ---
 
@@ -1378,6 +1470,20 @@ There are reports that many have been targeted for a knife.
 
 ---
 
+### අවුරුද්දට වැඩ ඇල්ලූ වන අලි
+
+*2024-04-13 13:48:04* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුද්දට-වැඩ-ඇල්ලූ-වන-අලි/11-409070) · `si`
+
+දිඹුලාගල මගුල්දමන, නිවසකට අද 13දා අලුයම වන අලියකු පහරදීමෙන් බිත්තියකට යටවී ගඩොල් බිත්ති වල තිබු ගඩොල් වැදිම නිසා තුවාල ලැබූ අවුරුදු 08 හා 04 දරුවන් දෙදෙනා  අවුරුදු 26ක් වයසති මව තුවාල ලබා මනම්පිටිය රෝහල්ගත කර ඇති බව,මනම්පිටිය පොලිසිය පවයි.
+
+එම වන අලියා මඟුල්දමන ගම්මානයේ තවත් නිවාසකට හානි සිදුකර ඇති බවත්  ගම් වැදුන වන අලියා පලවා හැරීමට ගම්මුන් විශාල ප්‍රයත්නයක් දරා ඇති බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/88a18ed2.json)
+
+---
+
 ### Answer the Israeli Iran prepare 100 missiles
 
 *2024-04-13 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195590) · `si`
@@ -2095,71 +2201,5 @@ Applicants will be given to the inmates of the existing rules and due health.
 [Data](articles/5a48128f.json)
 
 [Extended Data](ext_articles/5a48128f.ext.json)
-
----
-
-### Shooting of Hampegama
-
-*2024-04-13 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195580) · `si`
-
-In Hambegamuwa, two were injured in a shooting by two on a motorbike. The victims, aged 24 and 42, were part of a group at a house in Seneuggala.
-
-🟩
-
-Two people were injured in a shooting conducted in Hambegamuwa area.
-
-The shooting had fled the shooting by two persons who were in a motorbike at a house in Seneuggala yesterday.
-
-The owner and his relatives including his relatives and his relatives were a party and a group of 24-year-old and 42 year old were injured in shooting.
-
-◼️
-
-[Data](articles/c8010760.json)
-
-[Extended Data](ext_articles/c8010760.ext.json)
-
----
-
-### Though today's year
-
-*2024-04-13 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195579) · `si`
-
-Today's new year at Sinhala Avil. Charity from 03.29 am Sunday. Cuisine at 11.06 pm. Prepare for Sinhala years, work, transactions, and diet by 12.06 midnight.
-
-🟩
-
-New year will be held today (13) at the Sinhala Avil.
-
-As the charity is scheduled to 03.29 am on Sunday (14) from 02.41 to 03.29 am on Sunday (14).
-
-The cuisine of cooking has been played at 11.06 pm today, the Sinhala years sheet should be prepared for the right direction.
-
-Working, transaction and diet should be dressed in the right direction at 12.06 midnight.
-
-◼️
-
-[Data](articles/2492339f.json)
-
-[Extended Data](ext_articles/2492339f.ext.json)
-
----
-
-### Parts of the island to receive fairly heavy rains of about 75mm
-
-*2024-04-13 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98602/parts-of-the-island-to-receive-fairly-heavy-rains-of-about-75mm) · `en`
-
-Several spells of light showers are expected in Northern and Eastern provinces while showers or thundershowers are possible at a few places in North-central, Central and Uva provinces and elsewhere of the island after 2.00 p.m. today (13).
-
-The Department of Meteorology says parts of the Western and Sabaragamuwa provinces, as well as Galle and Matara districts, are likely to receive fairly heavy showers of about 75mm.
-
-Misty conditions can be expected at some places in Western, Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
-
-The general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-...
-
-[Data](articles/39a463e0.json)
-
-[Extended Data](ext_articles/39a463e0.ext.json)
 
 ---

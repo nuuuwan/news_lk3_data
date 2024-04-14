@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-14 10:16:22**
+As of **2024-04-14 10:30:48**
 
 ## Newspaper Stats
 
-*Scraped **18,757** Articles*
+*Scraped **18,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,98 @@ dailyftlk | 1,018
 economynextcom | 1,046
 adalk | 1,563
 tamilmirrorlk | 2,193
-adaderanalk | 2,259
-virakesarilk | 2,785
-dailymirrorlk | 2,885
+adaderanalk | 2,261
+virakesarilk | 2,786
+dailymirrorlk | 2,889
 adaderanasinhalalk | 3,052
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,755 (100.0%) of 18,757 articles have been extended.
+18,757 (100.0%) of 18,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-14 (Sunday)
 
-### ’’மிக சரியானவராக இருந்ததால் விவாகரத்து செய்தேன்’’
+### இஸ்ரேலிற்கு மரணம் - ஆயிரக்கணக்கான ஈரான் மக்கள் வீதியில் இறங்கி தாக்குதலிற்கு ஆதரவு
 
-*2024-04-14 09:45:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/மிக-சரியானவராக-இருந்ததால்-விவாகரத்து-செய்தேன்/44-335924) · `ta`
+*2024-04-14 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/181065) · `ta`
 
-பிரேசிலை சேர்ந்த பிரபல கால்பந்து வீரர் ரிக்கார்டோ இசேக்சன் டோஸ் சாண்டோஸ் லெய்டே. இவரை காகா என்று ரசிகர்கள் அழைக்கின்றனர். 2002ம் ஆண்டு உலகக்கோப்பையை வென்ற பிரேசில் கால்பந்து அணியில் காகா இடம்பெற்றிருந்தார். 2006ம் ஆண்டு உலகக்கோப்பை தொடரிலும் இவர் இடம்பெற்றிருந்தார். அதன்பின்னர் 2017ம் ஆண்டு காகா கால்பந்தில் இருந்து ஓய்வு பெற்றார்.
+இஸ்ரேலிற்கு எதிரான ஈரானின் முன்னொருபோதும் இல்லாத பாரிய  ஏவுகணை மற்றும் ஆளில்லா விமானதாக்குதல்களிற்கு ஈரானிய மக்கள் வீதிகளில் இறங்கி ஆதரவை வெளியிட்டு வருகி;ன்றனர்.
 
-இதனிடையே, காகா தனது சிறுவயது தோழியும், காதலியுமான கரோலின் சிலிகோவை கடந்த 2005ம் ஆண்டு திருமணம் செய்தார். 10 ஆண்டுகள் சேர்ந்து வாழ்ந்த நிலையில் கடந்த 2015ம் ஆண்டு இருவரும் பிரிவதாக இந்த தம்பதி அறிவித்தனர்.
+ஆண்டவனின் வெற்றி நெருங்கிவிட்டது போன்ற பதாகைகளுடன் வீதிகளில் இறங்கி தங்கள் மகிழ்ச்சியை வெளிப்படுத்திவரும் ஈரானிய மக்கள் ஈரான் பாலஸ்தீன கொடிகளுடன் காணப்படுகின்றனர்.
 
-விவாகரத்து பெற்றபின் காகா கடந்த 2019ம் ஆண்டு பிரேசில் மாடல் அழகி கரோலினா டையாஸ் என்பவரை திருமணம் செய்தார். அதேபோல், கரோலின் சிலிகோ கடந்த 2021ம் ஆண்டு இடூர்டொ ஸ்கார்பா ஜூலியோ என்பவரை திருமணம் செய்துகொண்டார்.
+டெஹ்ரானின் பாலஸதீன சதுக்கத்தில் காணப்படும் ஆயிரக்கணக்கான மக்கள் இஸ்ரேலிற்கு மரணம் அமெரிக்காவிற்கு மரணம் என கோசம் எழுப்புகின்றனர்.
 
-இந்நிலையில், காகா மிகவும் சரியானவராக இருந்ததால் விவாகரத்து செய்ததாக முன்னாள் மனைவி கரோலின் சிலிகோ தெரிவித்துள்ளார்.
+அடுத்த அடி மிகமோசமானதாக காணப்படும் என்ற வாசகங்கள் பொறிக்கப்பட்ட பதாகையொன்றை டெஹ்ரான் பாலஸ்தீன சதுக்கத்தில் காணமுடிகின்றது.
+
+ஈரான் தலைநகரில் உள்ள பிரிட்டிஸ் தூதரகத்தின் முன்னாலும் அமெரிக்காவின் தாக்குதல் உயிரிழந்த ஈரானின் இராணுவதளபதி காசிம் சுலைமானியின் கல்லறைக்கு முன்னாலும் பெருமளவு மக்கள் திரண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/21aa523d.json)
+
+---
+
+### Booms and sirens in Israel after Iran launches over 200 missiles and drones in unprecedented attack
+
+*2024-04-14 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98622/booms-and-sirens-in-israel-after-iran-launches-over-200-missiles-and-drones-in-unprecedented-attack) · `en`
+
+JERUSALEM (AP) — Booms and air raid sirens sounded across Israel early Sunday after Iran launched hundreds of drones, ballistic missiles and cruise missiles in an unprecedented revenge mission that pushed the Middle East closer to a regionwide war. In Washington, President Joe Biden said U.S. forces helped Israel down “nearly all” the drones and missiles and pledged to convene allies to develop a unified response.
+
+The attack, less than two weeks after a suspected Israeli strike in Syria that killed two Iranian generals in an Iranian consular building, marked the first time Iran has launched a direct military assault on Israel, despite decades of enmity dating back to the country’s 1979 Islamic Revolution.
+
+Condemnation from the United Nations chief and others was swift, with France saying Iran “is risking a potential military escalation,” Britain calling the attack “reckless” and Germany saying Iran and its proxies “must stop it immediately.”
 
 ...
 
+[Data](articles/05829549.json)
+
+---
+
+### Divorced because I was very correct
+
+*2024-04-14 09:45:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/மிக-சரியானவராக-இருந்ததால்-விவாகரத்து-செய்தேன்/44-335924) · `ta`
+
+Ricardo Iskson dose Santos Laidy, known as Gaga, a famous Brazilian footballer, won the 2002 World Cup and was in the 2006 series. He retired in 2017. Gaga married Caroline Silico in 2005, divorced in 2015, and she later married Idurdo Scorba Julio in 2021. Caroline said Gaga was very correct, but she wasn't happy due to a lack of something, leading to the divorce.
+
+🟩
+
+Brazil -based famous footballer Ricardo Iskson dose Santos Laidy. Fans call him Gaga. Gaga was featured in the Brazilian football team that won the World Cup in 2002. He was also present in the 2006 World Cup series. He then retired from Gaga football in 2017.
+
+In the meantime, Gaga married her childhood and girlfriend Caroline Silico in 2005. The couple announced that they would split in 2015 after living together for 10 years.
+
+After divorce. Similarly, Caroline Silico married Idurdo Scorba Julio in 2021.
+
+Former wife Caroline Silico has said that Gaga was divorced because it was very correct.
+
+Caroline Silico has commented on her ex -husband Gaga and divorce. As he says about this, Gaga has never betrayed me. He took care of me lovingly and he gave me the best family. But, I am not happy. There was a lack of something. The problem is what Gaga was very perfect for me. So I divorced. '
+
+◼️
+
 [Data](articles/92b9bf05.json)
+
+[Extended Data](ext_articles/92b9bf05.ext.json)
+
+---
+
+### Duty of all to preserve the wonder of New Year for future generations - PM
+
+*2024-04-14 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98621/duty-of-all-to-preserve-the-wonder-of-new-year-for-future-generations-pm) · `en`
+
+The Sinhala and Hindu New Year or Surya Mangalyaya (Solar Festival) is the greatest cultural festival of Sri Lanka, says Prime Minister Dinesh Gunawardena.
+
+Giving priority to auspicious rituals and religious activities, preserving the customary traditions, working together with the same purpose at the same moment in the same auspicious time cannot be seen in the cultures of any other country in the world, he said.
+
+“Our ancestors who dealt with nature everyday made it even more realistic in the New Year customs. As their descendants, we do not need to be taught again and again about food security, thrift, self-belonging and unity. What requires is, to implement them,” he said in his New Year message.
+
+He stated that the service rendered by the farmers to produce food for the country in the face of the recent food and economic crisis should be gratefully remembered in this New Year.
+
+...
+
+[Data](articles/36855dbf.json)
 
 ---
 
@@ -76,6 +138,46 @@ The body is placed at the Polonnaruwa hospital morgue and the post mortem will b
 
 ---
 
+### UN Security Council to meet on Sunday amid Iran’s attack on Israel
+
+*2024-04-14 09:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UN-Security-Council-to-meet-on-Sunday-amid-Irans-attack-on-Israel/108-280689) · `en`
+
+WASHINGTON, April 14 - The UN Security Council will meet Sunday after Israel demanded an urgent meeting following an Iranian airborne attack.
+
+The 15-member Council will gather at 4 p.m. local time in New York, according to a schedule that was released late Saturday.
+
+Israel's ambassador to the UN, Gilad Erdan, requested Saturday that the Council convene to condemn Iran for the "grave violations and immediately act to designate the IRGC (Iran's Revolutionary Guards) as a terrorist organization."
+
+In a letter to the Council's president, Erdan said the attack is a "serious threat" to global peace and security, indicating that he expects the Council to use every means to take concrete action against Iran.
+
+UN Secretary-General Antonio Guterres and General Assembly President Dennis Francis separately voiced concern about the attack and urged Israel and Iran to exercise the utmost restraint to avoid further escalation of tension in the region.
+
+...
+
+[Data](articles/8df8441a.json)
+
+---
+
+### Sri Lanka Navy brings ashore seized ICE, heroin worth Rs. 3.7 billion
+
+*2024-04-14 08:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Navy-brings-ashore-seized-ICE-heroin-worth-Rs-3-7-billion/108-280688) · `en`
+
+Galle, April 14 (Daily Mirror) - The Sri Lanka Navy brought ashore the seized narcotics, including 179 kgs and 906 gms of Crystal Methamphetamine (ICE) and 83 kgs and 582 gms of heroin, which were seized yesterday in the seas approximately 133 nautical miles (about 246 kms) off Dondra, south of Sri Lanka.
+
+The consignment of drugs, with an estimated street value exceeding Rs. 3,798 million, was seized during an intelligence operation conducted by the Sri Lanka Navy. A local multi-day fishing trawler, carrying six persons was intercepted during the operation.
+
+In addition, another local one-day fishing trawler with four persons was seized, suspected to be awaiting a mid-sea exchange of narcotics.
+
+The Sri Lanka Coast Guard Ship (SLCG) Samudraraksha played a crucial role in arresting the suspects and seizing the narcotics on 12 April 2024.
+
+The Commander of the Sri Lanka Navy Vice Admiral Priyantha Perera inspected the seized consignment at the Galle Harbour.
+
+...
+
+[Data](articles/79448d1f.json)
+
+---
+
 ### Fairly heavy showers likely in parts of the country
 
 *2024-04-14 08:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98620/fairly-heavy-showers-likely-in-parts-of-the-country) · `en`
@@ -100,21 +202,29 @@ On the apparent northward relative motion of the sun, it is going to be directly
 
 ---
 
-### ලක්ෂ 350ක් ගිල දමා පැමිණි මැඩගස්කර් කාන්තාවක් අල්ලයි
+### Madagascar woman arrested
 
 *2024-04-14 08:46:38* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-350ක්-ගිල-දමා-පැමිණි-මැඩගස්කර්-කාන්තාවක්-අල්ලයි/11-409072) · `si`
 
-රුපියල් තුන් කෝටි පනස් ලක්ෂයක් පමණ වටිනා කොකේන් මත්ද්‍රව්‍ය ගුලි 75 ක් පමණ ගිල දමා පැමිණි 38 හැවැරිදි මැඩගස්කර් ජාතික කාන්තාවක් 04/12 දින පස්වරුවේ කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ දී රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
+A Madagascar woman was arrested in Mumbai for attempting to smuggle 35 million cocaine gulfs worth about 75 crores. She was caught with cocaine taped to her body and taken to Negombo General Hospital, where doctors tried to remove it. The cocaine is now with the Police Narcotics Unit of Katunayake for further investigation.
 
-ඇය මුළින්ම ඉතියෝපියාවේ අඩිස්අබාබා නුවර සිට ඉන්දියාවේ මුම්බායි නුවර වෙත පැමිණ , එතැන් සිට  ඉකුත් 04/12 දින පස්වරු 04.00 ට පමණ විස්තාරා ගුවන් සේවයේ යූ.කේ.- 131 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+🟩
 
-ඇය මෙම කොකේන් මත්ද්‍රව්‍ය උපත් පාළන කොපු තුළ බහා , තවදුරටත් පිටතට කාන්දු වීමක් සිදු වුවහොත් එය වළක්වා ගැනීමට සෙලෝ ටේප් මගින් ද අලවා තිබුණි .
+A number of cocaine has been devoured by a 35 million cocaine gulfs worth about 75 crores.
 
-මෙසේ අත් අඩංගුවට ගත් කාන්තාව , ඇය විසින් ගිල දමා පැමිණි කොකේන් මත්ද්‍රව්‍ය ගුලි තොගය පිටතට ගැනීම සදහා මීගමුව මහ රෝහල වෙත ඇතුළත් කිරීමට පියවර ගෙන තිබූ අතර , එම රෝහලේ වෛද්‍යවරුන් විසින් ඇයට විරේක බෙහෙත් ලබා දෙමින් , එම ගුලි තොගය එළියට ගැනීමට ප්‍රයත්න දරා තිබුණි .
+She came to the Mumbai Kandy from Ethiopia, from Ethiopia, India, and the flight of the airport at the Katunayake airport.
 
-...
+She had been pasted by Cello tape if she was baptized in the cocaine in the cocaine.
+
+The arrested woman had taken steps to admit the cocaine to the Negombo General Hospital while her doctors, the doctors of the hospital, had tried to take out the stock.
+
+The cocaine is to be handed over to the Police Narcotics Unit of Katunayake to conduct further investigations into the stock of the drug.
+
+◼️
 
 [Data](articles/67026274.json)
+
+[Extended Data](ext_articles/67026274.ext.json)
 
 ---
 
@@ -152,6 +262,22 @@ It is reported that these New Year's festivals are scheduled to be held in accor
 
 ---
 
+### US President extends wishes for Sinhala and Tamil New Year
+
+*2024-04-14 08:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-President-extends-wishes-for-Sinhala-and-Tamil-New-Year/108-280687) · `en`
+
+Colombo, April 14 (DAily Mirror) - US President Joe Biden expressed heartfelt wishes to communities celebrating various cultural festivities worldwide including Sri Lankans.
+
+"To all those gathering around the world in celebration of Vaisakhi, Navratri, Songkran and the incoming New Year this week, Jill and I wish you warmth, community and joy.
+
+Happy Bengali, Khmer, Lao, Myanmarese, Nepali, Sinhalese, Tamil, Thai and Vishu New Year!" he posted on 'X'.
+
+◼️
+
+[Data](articles/24db71e6.json)
+
+---
+
 ### 679 health vehicles missing
 
 *2024-04-14 08:12:19* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-වාහන-679-ක්-අතුරුදන්-වෙලා/11-409071) · `si`
@@ -173,6 +299,30 @@ The Audit Monitoring of the Ministry of Health has pointed out that the National
 [Data](articles/766233da.json)
 
 [Extended Data](ext_articles/766233da.ext.json)
+
+---
+
+### US shoots down Iranian drones bound for Israel
+
+*2024-04-14 08:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/US-shoots-down-Iranian-drones-bound-for-Israel/107-280686) · `en`
+
+Israel, April 14 (BBC) - The US has shot down Iranian drones headed to Israel after Iran launched its retaliatory attack early on Sunday.
+
+The UK meanwhile said its Royal Air Force (RAF) would intercept drones "as required".
+
+Both US president Joe Biden and Rishi Sunak, the UK's prime minister, condemned Iran's attack and reiterated their support for Israel.
+
+Two US officials told CBS, the BBC's official partner, that "several" drones had been shot down by US assets.
+
+Tehran launched its overnight attack in response to the killing of its Quds Force commander, Major General Mohammad Reza Zahedi, two weeks ago in an air strike on the Iranian consulate in Damascus, Syria.
+
+Iran blamed Israel for the attack shortly after and said it would retaliate.
+
+Daniel Hagari, spokesman for the Israel Defense Forces (IDF), said that around 200 drones and missiles were launched towards Israel by Iran. The vast majority were intercepted by the IDF and its partners, he added.
+
+...
+
+[Data](articles/55d7fb72.json)
 
 ---
 
@@ -2087,145 +2237,5 @@ The suspect has been arrested and the Moratuwa police have commenced further inv
 [Data](articles/ddb32a61.json)
 
 [Extended Data](ext_articles/ddb32a61.ext.json)
-
----
-
-### The person with the kidneys of the pig is healed
-
-*2024-04-13 09:01:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பன்றியின்-சிறுநீரகம்-பொருத்தப்பட்ட-நபர்-குணமடைந்தார்/50-335901) · `ta`
-
-The US successfully transplanted a genetically modified pig's kidney into Richard Sleaman, marking a significant milestone in organ transplantation. Despite initial dialysis and a failed transplant, Sleaman's health improved after receiving the pig kidney, which is seen as a promising step towards organ availability.
-
-🟩
-
-While millions of patients around the world are waiting for the organs for organ transplantation, the US has succeeded in applying the kidney of a genetically modified pig for the first time.
-
-Richard Sleaman (age 62) hails from Vemaut, Massachusetts, USA. He was admitted to the General Hospital in Boston for treatment of his kidney. Initially he had dialysis for a few years. In 2018, kidney transplant. The kidney obtained from a different person was fitted to him. But, in 5 years that organ crashed. He was again treated for dialysis.
-
-Subsequently, from the pharmaceutical company called Igenitis, the genetically modified pig's kidney was applied to Richard Slean on the 16th of last month (March 16).. After that his health was constantly monitored. He was discharged on Wednesday (April 3) last week as he was recovering from his return home.
-
-...
-
-[Data](articles/c5e60505.json)
-
-[Extended Data](ext_articles/c5e60505.ext.json)
-
----
-
-### Holding Presidential and Parliamentary polls on same day impossible: Election Commission
-
-*2024-04-13 08:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Holding-Presidential-and-Parliamentary-polls-on-same-day-impossible-Election-Commission/108-280664) · `en`
-
-Colombo, April 13 (Daily Mirror) - In the wake of calls by some people for the conduct of both the Presidential and Parliamentary polls on the same day, the Election Commission says it is something impossible due to practical difficulties.
-
-An official of the Commission said separate ballot papers should be printed for each electoral district as far as a parliamentary election is concerned whereas the same ballot paper is meant for all the districts in case of a Presidential election.
-
-Also, he said the political parties form alliances differently at both elections.
-
-“A political alliance that supports a Presidential candidate at such an election will part ways at a general election," the official said.
-
-◼️
-
-[Data](articles/c27a6891.json)
-
-[Extended Data](ext_articles/c27a6891.ext.json)
-
----
-
-### 10 arrested with 200kg drug
-
-*2024-04-13 08:37:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/200-கி-கி-போதைப்பொருளுடன்-10-பேர்-கைது/175-335900) · `ta`
-
-10 arrested in Sri Lanka with 200kg drugs in 2 boats, suspected of heroin and ice.
-
-🟩
-
-10 people have been arrested with 2 fishing boats with 200 kilograms of drugs suspected of heroin and ice drugs in a special roundup by the Sri Lankan navy in the South Sea.
-
-◼️
-
-[Data](articles/b958edda.json)
-
-[Extended Data](ext_articles/b958edda.ext.json)
-
----
-
-### Rail Traffic - delay in train transport
-
-*2024-04-13 08:30:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-தடம்புரள்வு-ரயில்-போக்குவரத்தில்-தாமதம்/175-335899) · `ta`
-
-A train in Kalutara is delayed by coastal railway traffic.
-
-🟩
-
-The Railway Control Division has said that a train in the southern Kalutara has been delayed due to a traffic of the coastal railway traffic. Remble
-
-◼️
-
-[Data](articles/ef43f127.json)
-
-[Extended Data](ext_articles/ef43f127.ext.json)
-
----
-
-### Train delay
-
-*2024-04-13 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195583) · `si`
-
-Train delayed by South Kalutara Railway delegation's arrival.
-
-🟩
-
-The delay will be held due to an arrival of South Kalutara Railway delegation.
-
-◼️
-
-[Data](articles/81d5a311.json)
-
-[Extended Data](ext_articles/81d5a311.ext.json)
-
----
-
-### Two people injured in shooting
-
-*2024-04-13 08:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-இருவர்-காயம்/175-335898) · `ta`
-
-In Hambagamuwa, two were injured in a shooting involving the house owner and relatives. The victims are a 24-year-old and a 42-year-old.
-
-🟩
-
-Two people were injured in a shooting that took place last night in Hambagamuwa area.
-
-The owner of the house and his relatives were involved in the firing while the 24 -year -old and 42 -year -olds were injured.
-
-◼️
-
-[Data](articles/adc842df.json)
-
-[Extended Data](ext_articles/adc842df.ext.json)
-
----
-
-### Joe Biden to the flaming fire
-
-*2024-04-13 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195582) · `si`
-
-Joe Biden: Iran expected to attack Israel over air strike, despite Iran's claim of Israeli involvement. Israel denies involvement and is prepared for defense. Israeli PM Netanyahu meets war cabinet.
-
-🟩
-
-US President Joe Biden says Iran is expected to attack Israel regarding the air strike.
-
-Although Israel has not accepted the Consul Office in Syria, Iran has said that there is Israel to be Israel behind the attack.
-
-However, Israel has said that he is ready to protect himself from any attack, and US President Joe Biden has said that Israel is committed to the protection of Israel.
-
-It is reported that Israeli Prime Minister Benjamin Netanyahu has met with the members of his war cabinet.
-
-◼️
-
-[Data](articles/e3bf352b.json)
-
-[Extended Data](ext_articles/e3bf352b.ext.json)
 
 ---

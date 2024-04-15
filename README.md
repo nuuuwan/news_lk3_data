@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 14:18:25**
+As of **2024-04-15 14:33:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,082
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,897 (100.0%) of 18,900 articles have been extended.
+18,900 (100.0%) of 18,900 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,25 +52,31 @@ He added that the Central Bank -owned foreign reserves are currently at US $ 5 b
 
 ---
 
-### ඉරානයට එරෙහි ප්‍රහාරවලට ඊශ්‍රායලයට සහාය නොදෙන බව අමෙරිකාව කියයි
+### The US says that the attacks on Iran will not support Israel
 
 *2024-04-15 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195647) · `si`
 
-ඔපරේෂන් ටෘෘ ප්‍රොමිස් නමින් ඉරානය එල්ල කළ ප්‍රහාරවලට නිසි කාලය පැමිණි විට ප්‍රතිචාර දක්වන බවට ඊශ්‍රායලය අනතුරු අඟවා ඇති පසුබිමක අමෙරිකාවද ප්‍රතිචාර දක්වා තිබේ.
+The US denies supporting Israel in attacks on Iran, emphasizing uncontrollable regional failure. Iran launched drones and missiles, with Israel potentially costing $1.35 billion to prevent attacks.
 
-ඒ අනුව අමෙරිකාව පවසන්නේ ඉරානයට එරෙහි කිසිදු ප්‍රහාරයක් සඳහා ඊශ්‍රායලයට සහාය නොදක්වන බවය.
+🟩
 
-එසේ නොවුනහොත් කලාපය තුළ පාලනය කළ නොහැකි යුදමය තත්ත්වයක් උද්ගත විය හැකි බව අවධාරණය කරමින්.
+The United States also responded to the background of Israel to respond to the attacks on Iran in the name of Operations.
 
-මැද පෙරදිග කලාපයේ යුද බියක් මවමින් ඉරානය ඊශ්‍රායලයට ඩ්‍රෝන සහ මිසයිල ප්‍රහාර සිය ගණනක් එල්ල කළේ පසුගිය සෙනසුරාදා රාත්‍රියේදීය.
+Accordingly, US says that Israel is not supporting Israel for any attack on Iran.
 
-මේ වනවිට දෙපාර්ශ්වය අතර ගැටුම් සමනය වී තිබුණත් සුදුසු කාලය පැමිණි විට ඉරාන ප්‍රහාරවලට ප්‍රතිචාර දක්වන බව ඊශ්‍රායලය පවසයි.
+Otherwise, emphasizing that there is uncontrollable failure in the region.
 
-සෙනසුරාදා ප්‍රහාර සඳහා ඉරානයට ඩොලර් මිලියන 38ත්- 62ත් අතර පිරිවැයක් දැරීමට සිදුවන්නට ඇති අතර ප්‍රහාර වැළැක්වීම සඳහා ඊශ්‍රායලයට ඩොලර් බිලියන 1.35ක පිරිවැයක් දැරීමට සිදුවන්නට ඇතැයි ද විදෙස් මාධ්‍ය සඳහන් කරයි.
+Iran launched hundreds of drones and missiles at the Middle East region at the Middle East.
+
+It is the Israeli say that conflicts between the two parties have been allocated, but the appropriate time will respond to Iranian attacks.
+
+At least 38 to 62 million to the attacks on Saturday, Israeli may have to cost $ 1.35 billion to prevent attacks.
 
 ◼️
 
 [Data](articles/de889d1e.json)
+
+[Extended Data](ext_articles/de889d1e.ext.json)
 
 ---
 
@@ -137,6 +143,8 @@ Oil anointing ceremonies were held throughout the country this morning. This is 
 ◼️
 
 [Data](articles/fd84f92d.json)
+
+[Extended Data](ext_articles/fd84f92d.ext.json)
 
 ---
 
@@ -451,6 +459,8 @@ Police Media Spokesman DIG Nihal Thalduwa said five of the eight road accidents 
 ◼️
 
 [Data](articles/856fbeac.json)
+
+[Extended Data](ext_articles/856fbeac.ext.json)
 
 ---
 

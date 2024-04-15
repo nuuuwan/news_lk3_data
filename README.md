@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 17:54:21**
+As of **2024-04-15 18:08:42**
 
 ## Newspaper Stats
 
-*Scraped **18,941** Articles*
+*Scraped **18,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,018
 economynextcom | 1,052
 adalk | 1,581
 tamilmirrorlk | 2,217
-adaderanalk | 2,285
+adaderanalk | 2,286
 virakesarilk | 2,820
 dailymirrorlk | 2,918
 adaderanasinhalalk | 3,090
@@ -26,29 +26,53 @@ adaderanasinhalalk | 3,090
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,935 (100.0%) of 18,941 articles have been extended.
+18,941 (100.0%) of 18,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### පැවිදි දිවියට එළැඹීමට ඇදහිය නොහැකි ධනයක් පරිත්‍යාග කළ යුවළ
+### Vehicle import restrictions to be lifted only after thorough analysis - state minister
+
+*2024-04-15 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98648/vehicle-import-restrictions-to-be-lifted-only-after-thorough-analysis-state-minister) · `en`
+
+A committee has been appointed to look into the lifting of import restrictions imposed on vehicles, State Minister of Finance Ranjith Siyambalapitiya said.
+
+Speaking to the reporters today (15), Siyambalapitiya emphasized that measures will be taken to gradually relax the import restrictions on vehicles in parallel to the increase of foreign reserves within the country.
+
+Commenting further, the Finance State Minister said: “We have been gradually relaxing import restrictions. Initially, there were restrictions on the import of around 1,500 to 2,000 items, but now only vehicle imports remain restricted. We will continue to ease these restrictions as necessary. Specifically, we have permitted the import of 250 buses and 750 vans required for the tourism industry.”
+
+The State Minister expressed that the government, the Ministry of Finance and the Treasury make decisions based on reports, following proper investigations.
+
+...
+
+[Data](articles/75b5c179.json)
+
+---
+
+### Couple who donated unbelievable wealth to come
 
 *2024-04-15 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195656) · `si`
 
-පැවිදි දිවියට එළැඹිම සඳහා සිය ධනය මුළුමනින්ම පරිත්‍යාග කළ යුවළක් පිළිබඳව පුවතක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+A Gujarat couple donated 200 million to enter a monastery, reaching it by April 2022. Their children joined them in obscurity.
 
-ඉන්දියාවේ ගුජරාටයේ ජෛන ආගම අදහන යුවළක් මෙම තීරණය ගෙන ඇති බව එම මාධ්‍ය වාර්තා කර ඇත.
+🟩
 
-එහිදී ඔවුන් ජනතාව වෙත බෙදා දී ඇති ධනය ඉන්දීය රුපියල් කෝටි 200කට ආසන්න බව එම වාර්තා පෙන්වාදී තිබේ.
+Foreign media has reportedly reported a news about a couple who donated their wealth to enter the monastery.
 
-මොවුන් පසුගිය පෙබරවාරි මාසයේදී මෙලෙස සිය ධනය පරිත්‍යාග කර ඇති අතර අප්‍රේල් මාසය අවසානයේ පැවිදි දිවියට එළැඹීමට නියමිත බවට වාර්තා වෙයි.
+The media has reported that this decision has been taken by a couple of Gujarat in India.
 
-2022 වර්ෂයේදී ඔවුන්ගේ දියණිය සහ පුත්‍රයාද මෙලෙස පැවිදිදිවියට එළැඹ තිබීම විශේෂත්වයකි.
+It has been reported that the wealth has been distributed to the public is nearly 200 million reports.
+
+They have donated their wealth in February and it is reported that the monastery is to be reached at the end of April.
+
+In the year 2022, their daughter and son had come to the obscene.
 
 ◼️
 
 [Data](articles/420a98fb.json)
+
+[Extended Data](ext_articles/420a98fb.ext.json)
 
 ---
 
@@ -62,23 +86,31 @@ People begin arriving in Colombo after the Sinhala and Tamil New Year celebratio
 
 [Data](articles/0e2c5143.json)
 
+[Extended Data](ext_articles/0e2c5143.ext.json)
+
 ---
 
-### අවුරුදු සමයේ නිවසේ සිදු වු අනතුරු වලින් දරුවන් දෙදෙනෙකුගේ දිවි අහිමිවේ
+### Two children loddy from house accidents during the festive season
 
 *2024-04-15 17:08:33* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-සමයේ-නිවසේ-සිදු-වු-අනතුරු-වලින්-දරුවන්-දෙදෙනෙකුගේ-දිවි-අහිමිවේ/11-409090) · `si`
 
-මිදුලේ තබා තිබූ කොන්ක්‍රීට්වලින් සාදන ලද ජිරාෆ් සත්ත්වයෙකුගේ පිළිරුවක් කඩා වැටීමෙන් බරපතළ තුවාල ලැබූ  08 හැවිරිදි කුඩා දරුවෙකු අවාසනාවන්ත ලෙස මියගොස් ඇති බව හෙට්ටිපොළ, දිග්ගලගෙදර ප්‍රදේශයෙන් වාර්තාවේ.
+Two children were injured in house accidents during the festive season. A child in Damatgalagedara, Hettipola, was seriously hurt when a statue fell on them. In Ruhaunugama village, Polonnaruwa, a woman died after a plastic water tank fell on her head.
 
-එම දරුවාගේ නිවසේ  ජිරාෆ්ගේ පිළිරුවක් මෙලෙස දරුවාගේ සිරුර මතට කඩාවැටී ඇති බව පොලීසිය පවසයි.
+🟩
 
-එමෙන්ම පොලොන්නරුව අරලගංවිල රුහුණුගම ගම්මානයේ නිවෙසක ප්ලාස්ටික් ජල ටැංකියක් හිස මතට කඩා වැටීම නිසා  අවුරුදු 03ක දැරියක මියගොස් ඇතැයි වාර්තාවේ.
+A small child who has been seriously injured in a giraffe created in the yard is reported from the Damatgalagedara, Hettipola, Hettipola, who has been injured.
 
-ජල කරාමය අසලට ගොස් කරාමය විවෘත කර ඇති අවස්තාවේ වැසිකිළියේ වහලය උඩ තිබූ ජලය සහිත ප්ලාස්ටික් ජල ටැංකියක් ඇයගේ හිස මතට කඩා වැටී, ඇය ඊට යටවී ඇති බව ඇති බව පොලිසිය පවසයි.
+A statue of the child's house has collapsed on the child's body, police said.
+
+It is reported that a plastic water tank in a house in Ruhaunugama village in Polonnaruwa has died due to the fall.
+
+A plastic water tank on the head of the toilet, she had fallen on her head, police said.
 
 ◼️
 
 [Data](articles/769b1871.json)
+
+[Extended Data](ext_articles/769b1871.ext.json)
 
 ---
 
@@ -172,23 +204,31 @@ Police and local residents have launched an operation to find the missing person
 
 ---
 
-### සුමනරතන හිමිගේ ආරක්ෂාවට සිටි සිවිල් ආරක්ෂකයින් ඉවත් කරයි
+### Civil defenders captured by Sumanaratana Thero
 
 *2024-04-15 16:51:55* · [`adalk`](https://www.ada.lk/breaking_news/සුමනරතන-හිමිගේ-ආරක්ෂාවට-සිටි-සිවිල්-ආරක්ෂකයින්-ඉවත්-කරයි/11-409089) · `si`
 
-තමන්ට දැඩි ජීවිත තර්ජනයක් තිබියදි, ජීවිත තවදුරටත් අනාරක්ෂිත තත්ත්වයට පත් කරමින් වසර තිහකට අධික කාලයක්
+Sumanaratana Thero discusses the impact of removing civil defenders, citing a 30-year serious threat to their lives. Thembirigiya Sumanarata Thera highlights the unfair treatment of opposition police and security forces by extremist leaders, emphasizing the need for their removal.
 
-තම ජීවිත ආරක්‍ෂාවට සිටි, සිවිල් ආරක්ෂක නිලධාරීන් පස්දෙනා ඇතුළු සියලු ආරක්‍ෂ නිලධාරීන් 11 වෙනිදා ඉවත් කිරීමට ආරක්ෂක අංශ පියවර ගැනීම කනගාටුවට කරුණක් බව මඩකලපුව ශ්‍රී මංගලාරාමාධිපති අම්පිටියේ සුමනරතන නාහිමියන් 15 වෙනිදා සවස මඩකලපුව පන්සල්ගල රජමහා විහාරයේ දී මාධ්‍ය සාකච්ඡාවක් පවත්වමින් සඳහන් කළහ.
+🟩
 
-2023 වසරේ පෙබරවාරි 23 වෙනිදා වෙඩි ප්‍රහාරයට ලක්ව තමන් අනු නවයෙන් බේරුණු බවත්, එම සිද්ධියේ පරීක්ෂණ යට ගසමින් තිබෙන අවස්ථාවක තමන්ගේ ආරක්‍ෂාවට සිටි සියලු ආරක්ෂක නිලධාරීන් ඉවත් කිරීමෙන් අනතුරුව තමන්ගේ ජීවිතයට යම් හානියක් සිදු වුවහොත්, ඊට එම නිලධාරීන් ඉවත් කළ සියලූ ආරක්ෂක අංශවල උසස් නිලධාරීන් වගකිය යුතු බවද සුමනරතන නාහිමියන් සඳහන් කළහ.
+Over the thirty years, despite a serious life threatening
 
-වසර තිහක කුරිරු යුද්ධයේදී එල් .ටී.ටී. ඊ ත්‍රස්තවාදීන් සමඟ ගැටෙමින් නැගෙනහිර පළාතේ සිංහල ජනතාව දිවි හිමියෙන්
+The Pasigaratra Thera had a discussion on the 15th in the Movement of the Paselgala Raja Maha Vihara, Batticaloa.
 
-බේරාගත් තමන්ට ආරක්‍ෂාවට සිටි එම සිවිල් ආරක්ෂක භටයින් හිටිහැටියේ ඉවත් කිරීම, තම ජීවිතයට දැඩි බලපෑමක් එල්ල වී ඇති බවද අම්පිටියේ සුමනරතන නාහිමියන් මෙහිදී සඳහන් කළහ,
+The superior officers of all security officers who have been removed after their safety are harmful when they are removed after the dismissal of their security in the event of the investigation of their security.Sumanarathana Thera said.
+
+LB 5 in cruel war. Sinhalese in the Eastern Provinces clashing with the terrorists
+
+Thembirigiya Sumanarata Thera said that the removal of the rescued civil security guards had a profound effect on her life,
+
+The Thera said that since the leadership of the leaders of the Sinhalese and the leaders of the Sinhalese people, the leaders of the various extremist organizations and political conspirators have been noted that they are not fair for the opposition police and security forces.
 
 ...
 
 [Data](articles/b234739e.json)
+
+[Extended Data](ext_articles/b234739e.ext.json)
 
 ---
 
@@ -324,17 +364,23 @@ The government has issued a special transport service schedule implemented from 
 
 ---
 
-### වාහන ආනයන සීමා ඉවත් කිරීමට විශේෂ කමිටුවක්
+### Special committee to remove vehicle import boundaries
 
 *2024-04-15 16:34:29* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයන-සීමා-ඉවත්-කිරීමට-විශේෂ-කමිටුවක්/11-409088) · `si`
 
-අවශ්‍යතා අනුව ප්‍රමුඛතා අනුපිළිවෙලක් යටතේ  වාහන ආනයන සම්බන්ධයෙන් සීමා ඉවත් කිරීමට මේ වනවිට විශේෂ කමිටුවක් පත්කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+A special committee has been formed to ease import restrictions, including 750 vans and 250 buses for tourism, with plans to gradually relax import rules for vehicles.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ මුදල් රාජ්‍ය අමාත්‍යවරයා පැවසුවේ. මේ වන විට සංචාරක කර්මාන්තය සඳහා අවශ්‍ය  වෑන් රථ 750 ක්  සහ බස් රථ 250ක් ආනයනය කිරීමට අවස්ථාව දුන් බවත්. මෙරට විදෙස් සංචිත ඩොලර් බිලියන 5 ඉක්මවා ඉහළ යෑමත් සමග අවශ්‍යතාව පරිදි ක්‍රමානුකූලව වාහන ආනයන සීමා ලිහිල් කිරීමට කටයුතු කරන බව රංජිත් සියඹලාපිටිය මහතා තව දුරටත් සඳහන් කළේය.
+🟩
+
+State Minister Ranjith Siyambalapitiya says that a special committee has been appointed to remove the limits on imports in accordance with the requirements.
+
+State Minister further stated that. 750 vans required for tourism and 250 buses were given to import. According to Ranjith Siyambalapitiya, gradually, relaxing the importation of electrical imports gradually, gradually liberate vehicle imports.
 
 ◼️
 
 [Data](articles/b073a996.json)
+
+[Extended Data](ext_articles/b073a996.ext.json)
 
 ---
 
@@ -829,6 +875,8 @@ Even after the Sinhala and Tamil New Year festivals, some foreign tourists were 
 ◼️
 
 [Data](articles/862059b5.json)
+
+[Extended Data](ext_articles/862059b5.ext.json)
 
 ---
 
@@ -2261,39 +2309,5 @@ A sudden death investigation officer A. Jayapalasingham. Anatomical samples have
 [Data](articles/d40b0bea.json)
 
 [Extended Data](ext_articles/d40b0bea.ext.json)
-
----
-
-### Mumbai's bowling Mumbai: Rutraj, Tube, Dhoni AbaramRohit's game was not lost
-
-*2024-04-15 00:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181081) · `ta`
-
-Chennai Super Kings won the 29th IPL match against Mumbai Indians by 20 runs, thanks to Madish Pathirana's 4 wickets and key contributions from Ruthuraj Kaikwad, Shivam Tube, and Mahendra Singh Dhoni. Mumbai lost despite Rohit Sharma's century.
-
-🟩
-
-Chennai Subkar Kings won by 20 runs in the 29th match of the 17th Indian Premier League Chapter held at the Mumbai Vankade Stadium on Sunday (14).
-
-Sri Lanka's fast bowler Madish Pathirana took 4 wickets, including 2 key wickets, and made Mumbai kneel to Mumbai.
-
-Team captain Ruthuraj Kaikwad, Shivam Tube and Mahendra Singh Dhoni also played a major role in the success of Chennai Super Kings.
-
-Rohit Sharma in Mumbai on behalf of Mumbai, but it was fallen despite the loss of a century.. This is the second century he scored in the Indian Premier League.
-
-Chennai Super Kings lost only 4 wickets in 20 overs and scored 206 runs.
-
-Chennai Super Kings faced stumbling block when opener Ajinkia Rahane lost 5 runs in the 2nd over. (8 - 1 wig.)
-
-However, Rachin Ravindra (21) and Ruthuraj Kaikwad shared 52 runs in the 2nd wicket.
-
-Subsequently, Ruthuraj Kaikwad and Shivam Dubey shared 90 runs off 45 balls in the 3rd wicket.
-
-Ruthuraj Gaygwad faced 40 balls and scored 69 runs with 5 pounds and 5 sixes.
-
-...
-
-[Data](articles/a8187379.json)
-
-[Extended Data](ext_articles/a8187379.ext.json)
 
 ---

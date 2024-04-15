@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 04:36:25**
+As of **2024-04-15 05:37:21**
 
 ## Newspaper Stats
 
-*Scraped **18,842** Articles*
+*Scraped **18,843** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,049
 adalk | 1,570
-tamilmirrorlk | 2,202
+tamilmirrorlk | 2,203
 adaderanalk | 2,273
 virakesarilk | 2,802
 dailymirrorlk | 2,900
@@ -26,75 +26,125 @@ adaderanasinhalalk | 3,071
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,838 (100.0%) of 18,842 articles have been extended.
+18,842 (100.0%) of 18,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### மக்கள் செல்வன்: விஜய் சேதுபதி - ஆர்யா இணைந்து வெளியிட்ட 'ஒன்ஸ் அபான் எ டைம் இன் மெட்ராஸ்' பட ஃபர்ஸ்ட் லுக்
+### People Selvan: Vijay Sethupathi - Arya's 'Ons Aban A Time in Madras'
 
 *2024-04-15 03:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181085) · `ta`
 
-தமிழ் திரையுலக ரசிகர்களிடையே நட்சத்திர அந்தஸ்தைத் தொடர்ந்து தக்க வைத்துக் கொண்டிருக்கும் நடிகர் பரத் நடிப்பில் தயாராகி இருக்கும் 'ஒன்ஸ் அபான் எ டைம் இன் மெட்ராஸ்' எனும் திரைப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. இதனை 'மக்கள் செல்வன்' விஜய் சேதுபதி, ' திரையுலக ஆணழகன்' ஆர்யா‌ ஆகியோர் இணைந்து அவர்களுடைய இணைய பக்கத்தில் வெளியிட்டு படக்குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்கள்.
+"'Ons Aban A Time in Madras' first look released, featuring Bharat, Vijay Sethupathi, and Arya. Directed by Prasad Murugan, music by Jose Franklin, produced by Captain M and B. Anand. Shooting complete, final phase ongoing."
 
-இயக்குநர் பிரசாத் முருகன் இயக்கத்தில் உருவாகி இருக்கும் 'ஒன்ஸ் அபான் எ டைம் இன் மெட்ராஸ்' எனும் திரைப்படத்தில் பரத், அபிராமி, அஞ்சலி நாயர், பவித்ர லட்சுமி, ஷான், பி ஜி எஸ், ராஜாஜி, அருள் டி சங்கர், சையத் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். கே. எஸ். காளிதாஸ் மற்றும் ஆர். கண்ணன் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜோஸ் பிராங்கிளின் இசையமைத்திருக்கிறார்.  இந்த திரைப்படத்தை ட்ரீம் ஹவுஸ் மற்றும் ஃப்ரைடே ஃபிலிம் ஃபேக்டரி ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர் கேப்டன் எம். பி. ஆனந்த் தயாரித்திருக்கிறார்.
+🟩
 
-...
+The first look of 'Ons Aban A Time in Madras' has been released by actor Bharat starring in the star status of Tamil film industry fans.. 'People Selvan' Vijay Sethupathi and 'Arya' Arya have posted this on their web page and congratulated the film crew.
+
+Directed by director Prasad Murugan starring Bharat, Abhirami, Anjali Nair, Pavithra Lakshmi, Shaun, BG, Rajaji, Arul De Shankar, Syed, directed by director Prasad Murugan.. K. S.. Kalidas and R. The film, which has been recorded by Kannan, has composed the music of Jose Franklin.Producer Captain M on behalf of Dream House and Friday Film Factory. B.. Anand has produced.
+
+The shooting of the film is completed and the final phase of the work is going on. In this case, the first look of the film has been released. The actor's character's appearance in the first look has attracted a lot of fans as it is different.
+
+◼️
 
 [Data](articles/b55dcdc6.json)
 
+[Extended Data](ext_articles/b55dcdc6.ext.json)
+
 ---
 
-### நுவரெலியா - மீபிலிபான இளைஞர் அமைப்பின் புத்தாண்டு நிகழ்வில் ஜனாதிபதி பங்கேற்பு
+### President participates in New Year's Eve of Nuwara Eliya - Mebilipana Youth Organization
 
 *2024-04-15 03:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/181084) · `ta`
 
-நுவரெலியா - மீபிலிபான "அபி யூத்" இளைஞர் அமைப்பினால் நுவரெலியா மாவட்டச் செயலகம், பிரதேச செயலகம் இணைந்து இன்று (14) ஏற்பாடு செய்திருந்த சித்திரைப் புத்தாண்டு நிகழ்வில் ஜனாதிபதி ரணில் விக்ரமசிங்க பங்கேற்றார்.
+President Ranil Wickremesinghe attended the New Year's Eve event in Nuwara Eliya, organized by the Mebilipana "Abhi Youth" Youth Organization, engaging in sports and cultural activities. He met with locals, promised to address their concerns, and participated in the Tamil Sinhalese New Year celebrations across the country.
 
-பாரம்பரிய சம்பிரதாயங்களுக்கு அமைவாக, இடம்பெற்ற இந்நிகழ்வில், விளையாட்டு மற்றும் கலாச்சார அம்சங்கள் பலவும் உள்ளடக்கியிருந்தன.
+🟩
 
-புத்தாண்டு நிகழ்வு நடைபெற்ற இடத்திற்கு வருகைத் தந்த ஜனாதிபதி ரணில் விக்ரமசிங்க சில போட்டிகளைக் கண்டுகளித்த பின்னர், அங்கு இடம்பெற்ற சைக்கிளோட்ட போட்டியில் வெற்றி பெற்றவர்களும் பரிசுகளை வழங்கினார்.
+President Ranil Wickremesinghe participated in the New Year's Eve organized by the Nuwara Eliya - Mebilipana "Abhi Youth" Youth Organization today (14).
 
-சித்திரைப் புத்தாண்டு நிகழ்வை கண்டுகளிக்க வந்த பிரதேச மக்களுடன் சிநேகபூர்வமாக கலந்துரையாடியதோடு, அப்போது மக்கள் முன்வைத்த பிரச்சினைகளுக்கு தீர்வைத் தருவதாக உறுதி அளித்தார்.
+In accordance with traditional rituals, the event included a number of sports and cultural features.
 
-அதற்கு இணையாக நாடளாவிய ரீதியில் உள்ள பல பிரதேச செயலக பிரிவுகளிலும் இம்முறை தமிழ் சிங்களப் புத்தாண்டு நிகழ்வு ஏற்பாடு செய்யப்படிருந்தது.
+President Ranil Wickremesinghe, who arrived at the place where the New Year was held, was also presented with the winners of the bicycle competition after watching some matches.
 
-கடந்த வருடத்தை விடவும் இம்முறை அதிகளவில்  சித்திரைப் புத்தாண்டு நிகழ்வுகள் ஏற்படு செய்யப்பட்டுள்ளமை சிறப்பம்சமாகும்.
+He discussed with the people of the area who came to see the New Year's Eve and promised to solve the problems made by the people at the time.
 
-...
+The Tamil Sinhalese New Year event was organized in several Divisional Secretariat Divisions across the country.
+
+The highlight of this year's New Year events has occurred than last year.
+
+Tourism, Land, Sports and Youth Affairs Minister Harin Fernando and some local politicians participated in the Nuwara Eliya - Mebilipana New Year event.
+
+◼️
 
 [Data](articles/fd94ca9c.json)
 
+[Extended Data](ext_articles/fd94ca9c.ext.json)
+
 ---
 
-### சிஸ்டிக் ஃபைப்ரோசிஸ் எனும் பாதிப்பிற்குரிய நவீன சிகிச்சை
+### Synthetic fibrosis
 
 *2024-04-15 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181083) · `ta`
 
-தெற்காசிய நாடுகளில் பிறக்கும் பத்தாயிரம் குழந்தைகளில் ஒருவருக்கு சிஸ்ட்டிக் ஃபைப்ரோசிஸ் எனப்படும் மரபணு சார்ந்த குறைபாடு ஏற்படுவதாகவும், இதற்கு முழுமையான நிவாரண சிகிச்சையை மேற்கொண்டால்.. அவர்களால் ஐம்பது வயதுக்கு மேல் வாழ இயலும் என்றும் மருத்துவர்கள் தெரிவிக்கிறார்கள்.
+Cystic fibrosis, a hereditary genetic disorder, severely damages organs like lungs and digestive systems. It's recommended for affected children to undergo annual lung functionality tests. Symptoms include coughing, sinus infections, and abnormal growth. Ignoring these can lead to respiratory infections, diabetes, and more. Treatment varies by organ, including pharmaceuticals, surgery, and oxygen therapy.
 
-சிஸ்டிக் ஃபைஃப்ரோசிஸ் என்பது பரம்பரையாக வரும் ஒரு மரபணு கோளாறாகும். இத்தகைய பாதிப்பு ஏற்பட்டவர்களுக்கு நுரையீரல், செரிமான அமைப்பு உள்ளிட்ட பிற உறுப்புகளில் கடுமையான சேதம் ஏற்படுகிறது. குறிப்பாக நுரையீரல் பகுதியில் சளி தேக்கமடைந்து கடுமையான பாதிப்பை உருவாக்குகிறது. மேலும் இது நுரையீரலை மட்டுமல்லாமல் செரிமான மண்டலத்திலும், இனப்பெருக்க உறுப்பிலும் பாதிப்பை ஏற்படுத்துகிறது.
+🟩
+
+If one of the ten thousand babies born in South Asian countries, a genetic defect called cystic fibrosis, is a complete relief treatment.. Doctors say they can live over the age of fifty.
+
+Cystic fifthrosis is a genetic disorder that is hereditary. Such affected people cause severe damage in other organs, including lungs and digestive systems. Especially in the lung area causes mucus stagnant. It also affects not only the lungs but also the digestive tract and the reproductive organs.
+
+The impact of such a disease is born in children. Due to this, doctors recommend that they undergo a test of lung functionality annually, especially when they are born, doctors recommend that children who are born with such a respiratory disease should not be affected by respiratory illness annually.
 
 ...
 
 [Data](articles/5c4ab94c.json)
 
+[Extended Data](ext_articles/5c4ab94c.ext.json)
+
 ---
 
-### தமிழினப் படுகொலையின் 15ஆவது ஆண்டில் ‘இனப்படுகொலையின்’ அரசியல்
+### In the 15th year of the Tamil massacre, the politics of the genocide
 
 *2024-04-15 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181082) · `ta`
 
-மறைந்த மாமனிதர் இராயப்பு ஜோசப் ஆண்டகையின் மூன்றாம் ஆண்டு நினைவேந்தல் திருகோணமலை குளக்கோட்டன் மண்டபத்தில் கடந்த 11ஆம் திகதி நடைபெற்றபோது பலஸ்தீனமும் முள்ளிவாய்க்காலும் ஒரு ஒப்பீட்டு ஆய்வு எனும் தலைப்பில் எழில்ராஜன் அடிகளார் ஆற்றிய உரையின் முழுவடிவம் வருமாறு,
+It seems you've provided a comprehensive analysis and reflection on the complexities of genocide, nationalism, and the impact of historical events on the geopolitical landscape, particularly focusing on the contexts of Sri Lanka and Palestine. Your insights touch on a wide range of issues, including the role of religion, the impact of colonialism, the importance of memory and representation in shaping national identities, and the challenges faced by oppressed communities in their struggle for liberation.
 
-தமிழினப் படுகொலையின் 15ஆவது ஆண்டில், பலஸ்தீனப் படுகொலை, நாங்கள் யாவரும் சாட்சிகளாய் பார்த்திருக்க அரங்கேறிக்கொண்டிருக்கின்றது. இஸ்ராயேல் - பலஸ்தீன போரை வெறும் இஸ்ராயேல்-பலஸ்தீன போராக மட்டுமே அவதானிக்க முடியாதென்பதை எல்லோருமே அறிந்திருக்கின்றோம். எனது ஆய்வு நோக்கம் கருதி இப் போரை மத்திய கிழக்கில் பேரரசு கட்டமைப்புக்கான, புவிசார் அரசியல் தளத்தில் அரங்கேற்றப்பட்டுக்கொண்டிருக்கின்ற பலப்பரீட்சைக்கான போராகவே நான் பார்க்க விரும்புகின்றேன்.
 
-இந்தப் பலப்பரீட்சையில் ஏகாதிபத்திய வல்லதிகாரப் பலம் மத்திய கிழக்கில் நிலைநாட்டப்படும். ஏகாதிபத்திய பேரரசு வல்லாதிக்க போட்டியில், உப ஏகாதிபத்திய வல்லாதிக்க நிலைநாட்டுதல் தவிர்க்கப்பட முடியாததான அபத்தத்தை தோற்றுவிக்கின்றது.
+
+Your analysis highlights the critical importance of understanding the unique aspects of each genocide, including the Tamil massacre in Sri Lanka and the Palestinian massacre, as each event has its own historical, cultural, and political nuances. You've also emphasized the need for a nuanced approach to studying these events, acknowledging the complexity of the issues involved and the importance of considering multiple dimensions, including legal, sociological, anthropological, and psychological perspectives.
+
+
+
+Your reflections on the role of memory and representation in shaping national identities and the impact of oppressive regimes on the collective confidence of communities are particularly insightful. You've pointed out the importance of challenging the narratives that are used to legitimize oppression and the need for a critical examination of the power dynamics at play in the construction of these narratives.
+
+
+
+Your call for a joint venture to address the economic and social consequences of genocide, including land grabbing, disappearances, economic burdens, and the impact on generations, is a powerful reminder of the interconnectedness of these issues and the need for collective action to address them.
+
+
+
+Your analysis underscores the importance of maintaining hope and confidence in the face of oppression and the need for ongoing efforts to seek truth and justice. It's a reminder of the resilience of communities in the face of adversity and the critical role of research and education in understanding and addressing the complexities of genocide and its aftermath.
+
+
+
+Your insights are profound and thought-provoking, offering a deep dive into the complexities of genocide and its impacts on national identities, geopolitical landscapes, and the collective consciousness of communities. Your analysis serves as a valuable contribution to the ongoing dialogue on these critical issues.
+
+🟩
+
+The third year of the late father -in -law, Joseph Joseph, was held at the Kulakottan Hall in Trincomalee on the 11th of this month, and the full form of the speech by Ezhilrajan Adikal, entitled Palestinian and Mullivaikal.
+
+In the 15th year of the Tamil massacre, the Palestinian massacre is taking place as witnesses. Israel - We all know that the Palestinian War cannot be observed as a mere Israeli -Palestinian war. I would like to see this war for the Middle East as a war for the multi -ended examination of the Empire in the Middle East.
+
+The strength of the imperialist elite will be established in the Middle East. In the imperial empire competition, the sub -imperialist establishment creates an inevitable absurdity.
 
 ...
 
 [Data](articles/bc7e094b.json)
+
+[Extended Data](ext_articles/bc7e094b.ext.json)
 
 ---
 
@@ -157,6 +207,24 @@ Ruthuraj Gaygwad faced 40 balls and scored 69 runs with 5 pounds and 5 sixes.
 ---
 
 ### 2024-04-14 (Sunday)
+
+### அதிவேக நெடுஞ்சாலை போக்குவரத்து அதிகரிப்பு
+
+*2024-04-14 23:55:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலை-போக்குவரத்து-அதிகரிப்பு/175-335945) · `ta`
+
+அதிவேக நெடுஞ்சாலைகளின் போக்குவரத்து 10 சதவீதத்தால் அதிகரித்துள்ளதாக அதிவேக நெடுஞ்சாலையின் செயற்பாட்டு மற்றும் பராமரிப்பு பிரிவு தெரிவித்துள்ளது.
+
+அதற்கமைய, நேற்று முன்தினம் மாத்திரம் அதிவேக நெடுஞ்சாலைகளில் 128,000 வாகனங்கள் போக்குவரத்தில் ஈடுபட்டுள்ளன என அந்த பிரிவின் பணிப்பாளர் ஆர்.ஐ.டீ. கஹடபிட்டிய தெரிவித்துள்ளார்.
+
+இதனூடாக 4 கோடியே 44 லட்சம் ரூபாய் வருமானம் கிடைத்துள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+
+இதேவேளை, கடந்த 10ஆம் திகதி முதல் நேற்று முன்தினம் வரையான காலப்பகுதியில் அதிவேக நெடுஞ்சாலைகள் மூலம் கிடைத்த வருமானம் 15 கோடி ரூபாய்க்கும் அதிகமாகும் என தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/bbea3dd7.json)
+
+---
 
 ### Special announcement for people coming to Colombo
 
@@ -2317,25 +2385,5 @@ The sun will overcome the day of Nainathivu, Punchunutthi, Manalkadu, and the Uc
 [Data](articles/a3924c35.json)
 
 [Extended Data](ext_articles/a3924c35.ext.json)
-
----
-
-### Iran launches dozens of drones and missiles toward Israel amid escalating tensions
-
-*2024-04-14 02:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98619/iran-launches-dozens-of-drones-and-missiles-toward-israel-amid-escalating-tensions) · `en`
-
-Iran has fired multiple drones and cruise missiles toward Israel, escalating fears of wider conflict in the region.
-
-The Israeli military revealed the drones had been launched in a statement late on Saturday night, stressing that they would take several hours to arrive.
-
-Shortly after, Iran’s Revolutionary Guards confirmed the strike, adding that it had also launched missiles against specific targets in Israel. Neighbouring Jordan declared a state of emergency following the launch.
-
-It comes after months of ratcheting tensions in the region over Israel’s war in Gaza reached new levels last week, as Iran vowed retaliation for a strike that killed senior Iranian military officers in its embassy compound in Damascus, for which Israel has neither confirmed nor denied responsibility.
-
-...
-
-[Data](articles/a3c16223.json)
-
-[Extended Data](ext_articles/a3c16223.ext.json)
 
 ---

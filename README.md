@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 21:03:30**
+As of **2024-04-15 21:18:21**
 
 ## Newspaper Stats
 
-*Scraped **18,953** Articles*
+*Scraped **18,965** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,37 @@ dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
-economynextcom | 1,052
+economynextcom | 1,062
 adalk | 1,583
-tamilmirrorlk | 2,217
+tamilmirrorlk | 2,218
 adaderanalk | 2,288
 virakesarilk | 2,824
-dailymirrorlk | 2,919
+dailymirrorlk | 2,920
 adaderanasinhalalk | 3,092
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,953 (100.0%) of 18,953 articles have been extended.
+18,953 (99.9%) of 18,965 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### India lifts export restrictions on onions to Sri Lanka
+
+*2024-04-15 20:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-lifts-export-restrictions-on-onions-to-Sri-Lanka/108-280719) · `en`
+
+Colombo, April 15 (Daily Mirror) - The government of India has lifted the export restrictions on onions to Sri Lanka, with export of up to 10,000 MT of onions permitted vide the enclosed notification of the Directorate General of Foreign Trade.
+
+The Indian High Commission said the exemption for Sri Lanka reiterated India’s Neighbourhood First policy, adding to the Sinhala and Tamil New Year festivities.
+
+◼️
+
+[Data](articles/b2826dc5.json)
+
+---
 
 ### The Tamil party will make the decision that it is not possible to field a common candidate - K. Mastan
 
@@ -85,6 +99,28 @@ Accordingly, the Sri Lankan government is currently in a positive stand for disc
 [Data](articles/f6e43468.json)
 
 [Extended Data](ext_articles/f6e43468.ext.json)
+
+---
+
+### Sri Lanka to discuss two contentious points with bondholders: report
+
+*2024-04-15 19:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-discuss-two-contentious-points-with-bondholders-report-158562/) · `en`
+
+ECONOMYNEXT – Sri Lanka and sovereign bondholders are to discuss two matters in the near future which the two sides failed to reach agreement at March talks in London, a media report quoting a top aide to President Wickremesinghe as saying.
+
+Sri Lanka and bondholders had discussed four matters on restructuring international sovereign bonds in late March and agreement had been reached on two, President’s Chief of Staff Sagala Ratnayake was quoted as saying on state-run ITN television.
+
+A restructuring proposal by bondholders was not in line with IMF requirements, and Sri Lanka had sent a counter proposal, he said.
+
+The matters will be discussed at round of talks in the near future.
+
+Sri Lanka was optimistic of reaching an agreement with the bondholders before June, officials have said.
+
+According to matters already in the public domain, sovereign bond holders are keen to get a bond tied to dollar gross domestic product, as they feel IMF growth projections are too low.
+
+...
+
+[Data](articles/8914b319.json)
 
 ---
 
@@ -212,6 +248,24 @@ Police said that the concrete statue of a giraffe that was placed in the garden 
 
 ---
 
+### BIMSTEC Secretary General visits Sri Lanka, discusses regional cooperation
+
+*2024-04-15 18:03:00* · [`economynextcom`](https://economynext.com/bimstec-secretary-general-visits-sri-lanka-discusses-regional-cooperation-158553/) · `en`
+
+ECONOMYNEXT – The Secretary General of the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC), discussed measures to enhance regional cooperation, during his visit to the island last week.
+
+Ambassador Indra Mani Pandey, Secretary General of BIMSTEC visited Sri Lanka from 07 – 12 April 2024, following his assumption of office as Secretary General of BIMSTEC in January this year.
+
+The Secretary General “met with senior officials of relevant Ministries/Agencies to discuss measures to enhance regional cooperation under various BIMSTEC initiatives,” the Foreign Ministry said in a statement.
+
+Several BIMSTEC countries have bilateral trade agreements, such as Sri Lanka and India, Thailand and Myanmar, Sri Lanka and Thailand, but no collective regional agreement to enable intra-regional leverage.
+
+...
+
+[Data](articles/6365af51.json)
+
+---
+
 ### Violence in Sydney Church
 
 *2024-04-15 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181163) · `ta`
@@ -335,6 +389,26 @@ In the year 2022, their daughter and son had come to the obscene.
 [Data](articles/420a98fb.json)
 
 [Extended Data](ext_articles/420a98fb.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 299.00/10 to the US dollar
+
+*2024-04-15 17:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-299-00-10-to-the-us-dollar-158547/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 299.00/10 to the US dollar in the spot forex market on Monday, from 298.50/55 on Wednesday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed stable at 11.30/35 percent.
+
+A bond maturing on 15.09.2027 closed stable at 11.90/12.00 percent.
+
+A bond maturing on 15.12.2028 closed at 12.10/20 percent up from 12.10/15 percent.
+
+A bond maturing on 15.09.2029 closed stable at 12.20/40 percent. (Colombo/Apr15/2024)
+
+◼️
+
+[Data](articles/e603f30f.json)
 
 ---
 
@@ -477,6 +551,24 @@ Lokesh Kanakaraj -Bakiraj Kannan -Rawa Lawrence has designed a helmet in the tit
 [Data](articles/a46ccae6.json)
 
 [Extended Data](ext_articles/a46ccae6.ext.json)
+
+---
+
+### “பிரபாகரனுக்கு பின் தமிழ்  இல்லை”
+
+*2024-04-15 16:59:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பிரபாகரனுக்கு-பின்-தமிழ்-இல்லை/72-335962) · `ta`
+
+வடக்கு ,கிழக்கு ,மலையகம் மற்றும்கொழும்பை பொறுத்த வகையில் அங்குள்ள தமிழர்கள் தலைவர் வேலுப்பிள்ளை பிரபாகரனுக்கு பின்னர் ஒரு தமிழ் தலைமையை   இன்னும் அடையாளம் காணவில்லை.எனவே  தமிழ் பொது வேட்பாளர் தொடர்பாக தமிழ் மக்கள் ஆர்வமற்றவர்களாகவே இருக்கின்றனர் என பாராளுமன்ற உறுப்பினர் சாள்ஸ் நிர்மலநாதன் தெரிவித்தார்.
+
+-மன்னாரில் உள்ள அலுவலகத்தில்  திங்கட்கிழமை (15) காலை இடம்பெற்ற ஊடக சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+தமிழரசு கட்சி எதிர்வரும் ஜனாதிபதி தேர்தலின் போது யாரை ஆதரிப்பது  அல்லது தமிழ் பொது வேட்பாளர் குறித்து இதுவரை எவ்வித கலந்தாலோசனைகளையும் முன்னெடுக்கவில்லை.
+
+தமிழ் பொது வேட்பாளர் குறித்து ஊடகங்களில் கருத்துக்கள் வெளிவருகின்றன. என்னை பொருத்தமட்டில் அவர்கள் கூறுவதன் பிரதான காரணம் தொடர்ச்சியாக ஜனாதிபதி தேர்தலில் தமிழர்கள் வாக்களித்தாலும் தமிழர்களின் உரிமைகள் தொடர்ச்சியாக மறுக்கப்பட்டு வருகின்றன. இதன் காரணமாக தமிழ் பொது வேட்பாளர் ஒருவரை நிறுத்த வேண்டும் என்கின்ற சிலரது கருத்துக்கள் நிலவுகின்றன.
+
+...
+
+[Data](articles/d0a04ff0.json)
 
 ---
 
@@ -854,6 +946,26 @@ Furthermore, there were only a few incidents of motor accidents, domestic accide
 
 ---
 
+### Sri Lanka stocks close down, turnover at 2.5bn
+
+*2024-04-15 16:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-at-2-5bn-158545/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
+
+The broader All Share Index closed down 0.22 percent, or 26.90 points, at 12,006; while the S&P SL20 Index closed down 0.21 percent, or 7.51 points, at 3,565.
+
+Turnover was at 2.5 billion. Banks (Rs675mn) and the food, beverage and tobacco (Rs568mn) sectors brought in most of the value.
+
+Hatton National Bank Plc was the most traded stock at 404 million rupees in turnover. The share closed down at 199.00.
+
+Melstacorp Plc also saw investor interest (Rs354mn) and closed down at 92.00. (Colombo/Apr15/2024)
+
+◼️
+
+[Data](articles/e890af35.json)
+
+---
+
 ### The death of children
 
 *2024-04-15 15:53:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெஞ்சை-பதற-வைத்த-பச்சிளம்-குழந்தைகளின்-மரணம்/175-335958) · `ta`
@@ -1136,6 +1248,28 @@ The fishermen issue is a contentious one in the ties between India and Sri Lanka
 
 ---
 
+### Sri Lanka SOEs place Rs33,949 on each citizen: restructuring unit
+
+*2024-04-15 14:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-soes-place-rs33949-on-each-citizen-restructuring-unit-158535/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-owned enterprises incurred 744.6 billion rupees in losses in 2022, the SOE restructuring unit has said.
+
+“52 State-Owned Enterprises in Sri Lanka incurred losses of LKR 744.6 billion in 2022,” SOERU said in a social media post.
+
+“When divided by the total number of Citizen, each citizen needs bare LKR  33,949.”
+
+🔴52 State-Owned Enterprises in Sri Lanka incurred losses of LKR 744.6 billion in 2022. When divided by the total number of Citizen, each citizen needs bare LKR 33,949.Updates of SOERU – https://t.co/UVuBd7zmrb#SriLanka #lka #soereforms pic.twitter.com/cZFFKXjr2L
+
+When state enterprises ran losses they were covered by loans taken from domestic banks as well as from capital markets.
+
+Though entities like the CEB have taken loans for infrastructure, CPC and SriLankan Airlines have taken loans simply to cover losses.
+
+...
+
+[Data](articles/235caafb.json)
+
+---
+
 ### The price of chicken meat rose again!
 
 *2024-04-15 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/181125) · `ta`
@@ -1195,6 +1329,26 @@ Accordingly, the information issued by the Central Bank today (15.04.2024) on ot
 [Data](articles/d358dc71.json)
 
 [Extended Data](ext_articles/d358dc71.ext.json)
+
+---
+
+### Sri Lanka’s Unisyst Engineering Plc delists from CSE
+
+*2024-04-15 14:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-unisyst-engineering-plc-delists-from-cse-158528/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hayleys Group company, Unisyst Engineering Plc, has announced it would be delisting from the Colombo Stock Exchange.
+
+“The Securities and Exchange Commission of Sri Lanka has granted their approval to delist the shares of Unisyst Engineering PLC from the Official List of the Colombo Stock Exchange, at an exit offer price of Rs. 6/- per share,” the Hayleys Group said in a stock exchange filing.
+
+The company said an offer letter will be sent to the shareholders shortly.
+
+Formerly Alufab Plc, Unisyst Engineering is an aluminium supplier in Sri Lanka.
+
+The Company’s revenue increased by 38 percent to 784 million rupees during the last financial year, according to its annual report: “Unisyst Engineering PLC will continue to leverage the strengths of its partnership with Hayleys Advantis as it seeks to drive increased penetration in selected customer segments.”
+
+...
+
+[Data](articles/476ae1f8.json)
 
 ---
 
@@ -1448,6 +1602,26 @@ New South Wales state Police Commissioner Karen Webb said detectives would quest
 
 ---
 
+### Kaushali Kusumapala appointed Coca-Cola Country Director for Sri Lanka and the Maldives
+
+*2024-04-15 12:34:00* · [`economynextcom`](https://economynext.com/kaushali-kusumapala-appointed-coca-cola-country-director-for-sri-lanka-and-the-maldives-158522/) · `en`
+
+ECONOMYNEXT – Kaushali Kusumapala has been appointed Country Director for Sri Lanka and the Maldives, becoming the first woman to hold the position, the company said.
+
+“In this position, Kaushali will closely collaborate with bottling teams, customers, partners, consumers and external stakeholders in Sri Lanka and Maldives,” the company said.
+
+Kusumapala said she will collaborate with bottling partners, Coca-Cola Beverages Sri Lanka and Male’ Aerated Water Company, and other stakeholders.
+
+“For some years now, Coca-Cola holds a special place for me as a consumer and as a marketeer, and I am deeply committed to steering our loved brands and franchise operations to greater heights,” she said in the statement.
+
+She takes over from Pankaj Sinha, who was country director for 2019.
+
+...
+
+[Data](articles/efe01138.json)
+
+---
+
 ### Police launch investigations into murders that occurred on April 14 and 15
 
 *2024-04-15 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98641/police-launch-investigations-into-murders-that-occurred-on-april-14-and-15) · `en`
@@ -1651,6 +1825,26 @@ Police Media Spokesman DIG Nihal Thalduwa said five of the eight road accidents 
 [Data](articles/856fbeac.json)
 
 [Extended Data](ext_articles/856fbeac.ext.json)
+
+---
+
+### Sri Lanka airport briefed on Boeing B777-9 operations
+
+*2024-04-15 11:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-airport-briefed-on-boeing-b777-9-operations-158504/) · `en`
+
+ECONOMYNEXT – America’s Boeing has briefed Sri Lanka’s main international airport on the B777-9 airliner which is expected to enter service in mid-2025, the state airport agency said.
+
+Richard Vaisvila, Lead Engineer of Airport Operations at Boeing Airport Operations Engineering conducted the technical session, state-run Airport and Aviation Services said.
+
+Officials from AASL and SriLankan Airlines had attended the session. SriLankan has the ground handling franchise at the airport.
+
+Boeing’s B-777X model promises greater fuel efficiency with the 777 dash 9 and can carry over 400 passengers in a two – class configuration.
+
+The aircraft has foldable wing-tips allowing it to be parked at airports that can accommodate earlier B-777 style aircraft with a smaller wingspan (Code E).
+
+◼️
+
+[Data](articles/be32b659.json)
 
 ---
 
@@ -2002,6 +2196,26 @@ The shooting has not yet been revealed, and the Minneriya Police are conducting 
 
 ---
 
+### Sri Lanka rupee opens at 298.40/60 to the US dollar
+
+*2024-04-15 09:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-298-40-60-to-the-us-dollar-158497/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 298.40/60 to the US dollar in the spot forex market on Monday, from 298.50/55 on Wednesday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 was quoted stable at 11.30/35 percent.
+
+A bond maturing on 15.09.2027 was quoted stable at 11.90/12.00 percent.
+
+A bond maturing on 15.12.2028 was quoted at 12.10/18 percent up from 12.10/15 percent.
+
+The Colombo Stock Market opened down; the All Share Price Index was down 0.22 percent at 12,007, and the S&P SL20 was down 0.32 percent at 3,561. (Colombo/Apr15/2024)
+
+◼️
+
+[Data](articles/92b2d2a0.json)
+
+---
+
 ### A knife and a person who states a person who states
 
 *2024-04-15 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195640) · `si`
@@ -2067,263 +2281,5 @@ The selected person should set up an office with 20 plus persons de Silva said.
 [Data](articles/b9318fc0.json)
 
 [Extended Data](ext_articles/b9318fc0.ext.json)
-
----
-
-### Langekara, a symbol of printing history in Sri Lanka
-
-*2024-04-15 09:13:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72p5v01l3jo) · `si`
-
-Lankaparatu, Sri Lanka's first printing press, launched in 1862 in Galle, is a key symbol in the country's printing history. It printed the first Sinhala newspaper, Lakdami, in 1862. The press is preserved in Galle and has been recognized by the Ministry of Education for its historical significance.
-
-🟩
-
-It contains nothing here.S.
-
-Launched in Galle in 1862, Lankaparatu printing press found in Sri Lanka's printing industry. The Ministry of Education has also included information on the printing of the printing press.
-
-Sri Lanka's first Sinhala newspaper is printed its printed. (The first newspaper registered newspaper in Sri Lanka is Lakdami-1862).
-
-The ancient printing press held at the Stories in the Stories in Galle, Galle, Galle, Galle, Galle.
-
-Thai Marakolla Wimalajothi Thero assumed the Sri Lankan authorities to take action to reform and conservation.
-
-◼️
-
-[Data](articles/c57b03e7.json)
-
-[Extended Data](ext_articles/c57b03e7.ext.json)
-
----
-
-### US will not take part in any Israeli retaliatory action against Iran
-
-*2024-04-15 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98637/us-will-not-take-part-in-any-israeli-retaliatory-action-against-iran) · `en`
-
-(Reuters) - President Joe Biden warned Prime Minister Benjamin Netanyahu the U.S. will not take part in a counter-offensive against Iran, an option Netanyahu’s war cabinet favors after a mass drone and missile attack on Israeli territory, according to officials.
-
-The threat of open warfare erupting between the arch Middle East foes and dragging in the United States put the region on edge, triggering calls for restraint from global powers and Arab nations.
-
-“The Middle East is on the brink. The people of the region are confronting a real danger of a devastating full-scale conflict. Now is the time to defuse and de-escalate,” United Nations Secretary-General Antonio Guterres told a Security Council meeting called on Sunday in response to the strikes.
-
-Deputy U.S. Ambassador to the U.N. Robert Wood called on the council to unequivocally condemn Iran’s attack.
-
-...
-
-[Data](articles/ceacb0f0.json)
-
-[Extended Data](ext_articles/ceacb0f0.ext.json)
-
----
-
-### No rice imports permitted in Sri Lanka, says State FinMin
-
-*2024-04-15 09:00:00* · [`economynextcom`](https://economynext.com/no-rice-imports-permitted-in-sri-lanka-says-state-finmin-158476/) · `en`
-
-ECONOMYNEXT – Sri Lanka government has not allowed any rice imports and the permission to buy the staple food outside the country for the public consumption has not been granted to anybody, State Finance Minister Ranjith Siyambalapitiya said.
-
-The island nation, which is self sufficient in rice production, imports the staple food from time to time when there is scarcity or the traders stubbornly maintain high prices at retail level.
-
-President Ranil Wickremesinghe’s government reduced import tax on rice by 65 rupee per kilo to 1 rupee in January this year to import some rice and control high domestic prices.
-
-The move came after millers and collectors drove up the price due to lack of free trade.
-
-However, State Finance Minister Siyambalapitiya said no permission has been given for the import of rice and only the required quantity of Basmati rice has been given for the needs of tourist hotels.
-
-...
-
-[Data](articles/aaa9c33a.json)
-
-[Extended Data](ext_articles/aaa9c33a.ext.json)
-
----
-
-### A temporary increase in the rain today
-
-*2024-04-15 08:25:09* · [`adalk`](https://www.ada.lk/breaking_news/අද-දිනයේදී-වැස්සේ-තාවකාලික-වැඩිවීමක්/11-409083) · `si`
-
-"Temporary rain increase expected in East, Uva, and Southern provinces, with showers or thundershowers in parts of the Eastern and Uva provinces, and several spells in the North and North Central provinces. Heavy showers possible in Western, Sabaragamuwa, Uva, and Southern provinces."
-
-🟩
-
-The Department of Meteorology says that today is expected to increase a temporary increase in the East, Uva and Southern provinces of the island.
-
-Accordingly, in the Eastern and Uva provinces, Hambantota, Nuwara Eliya and Matale districts
-
-Showers or thundershowers will occur at times.
-
-Several spells of the North and North Central province can occur in the rest of the island. Showers or thundershowers will occur at several places, about 2.00.
-
-The department has the ability to raise heavy showers over 100 millisewarms today in the Western, Sabaragamuwa, Uva and Southern provinces.
-
-◼️
-
-[Data](articles/e65f6ad3.json)
-
-[Extended Data](ext_articles/e65f6ad3.ext.json)
-
----
-
-### The Impact Of The Next Election On The Economic Reforms
-
-*2024-04-15 08:22:12* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-impact-of-the-next-election-on-the-economic-reforms/) · `en`
-
-The next election is going to be a presidential election and according to the constitution it will be held during September-October 2024. Last year we observed the postponement of the elections of local bodies and the explanation given was that there were not sufficient funds to allocate for the elections due to the economic crisis. As a country, solving the economic crisis should be the priority and not who solved it. The upcoming presidential election cannot be postponed while keeping the democratic status of the country.
-
-The government agreed with the IMF the conditions of the revival plan and in return Sri Lanka is getting IMF assistance in the form of  48-month Extended Fund Facility  of SDR 2.286 billion (around USD 3 billion) to be released in half yearly instalments. Next major step is external debt restructuring which is already delayed. With this delay the IMF delayed their second tranche and paid it last December amounting to USD 337 million.
-
-...
-
-[Data](articles/1b8598ea.json)
-
-[Extended Data](ext_articles/1b8598ea.ext.json)
-
----
-
-### Israel is watching until there is an opportunity
-
-*2024-04-15 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195639) · `si`
-
-Israel is on alert for an opportunity to attack Iran, following Iran's missile and drone attacks on Israel. Iran's attacks targeted the Israeli embassy in Syria, killing 13, including a military chief. The US warned Israel of an impending attack. Israeli schools were protected, and Iranian Revolutionary Security Forces seized an Israeli ship in the Homus Strait. Israel's air defense system intercepted over 300 Iranian missiles. Airspace was temporarily closed in Iraq, Jordan, Lebanon, and Israel, with Israel and Jordan reopening their airways. Israel's air and technology defenses thwarted 99% of Iranian attacks. The Iranian Armed Forces Head General Moummond Bagery declared the operation successful, warning Israel of a worse response if it retaliates.
-
-🟩
-
-Israel says that Iran is a suitable opportunity to attack Iran.
-
-Iran launched a series of masses to Israel for the first time in the Middle East region.
-
-Accordingly, Iran had launched a wide range of drones and missile attacks on the 13th and yesterday (14).
-
-The attack was launched by the Israeli attack on the Embassy of the Iranian embassy in Syria.
-
-In Israel, however, 99 percent of Iranian attacks were successfully thwarted.
-
-Iran was warned of Israel's embassy in Syria, with the fierce attack on the Iranian embassy in Syria last April.
-
-Thirteen Army chief, including a military chief killed in the attack.
-
-In such a setting, the US has also informed Israel that Israel will be attacked soon.
-
-The US had confirmed Iran's placement in its military and arms zone.
-
-Israeli schools, in the middle of those warnings, were covered with schools as a protective measure.
-
-In such a situation, the Iranian Revolutionary Security Forces recently took over the Israeli ship in the Homus Strait.
-
-...
-
-[Data](articles/697177a0.json)
-
-[Extended Data](ext_articles/697177a0.ext.json)
-
----
-
-### Rainy conditions to intensify with showers above 100 mm pegged
-
-*2024-04-15 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rainy-conditions-to-intensify-with-showers-above-100-mm-pegged/108-280700) · `en`
-
-Colombo, April 15 (Daily Mirror) -The Meteorological Department has issued a weather advisory for several provinces in Sri Lanka, forecasting heavy showers exceeding 100 mm in some areas.
-
-The Western, Sabaragamuwa, Uva and Southern Provinces, as well as Ampara and Batticaloa districts are likely to experience these heavy downpours.
-
-In addition, the Eastern, Uva and Southern Provinces are expected to experience temporary enhancement in showery weather conditions today, with showers or thundershowers predicted in various districts including Hambantota, Nuwara Eliya and Matale.
-
-In the Eastern and Uva Provinces, as well as in the Hambantota, Nuwara Eliya and Matale districts, showers or thundershowers will occur at times.
-
-Meanwhile, the Northern and North Central Provinces may experience several spells of showers.
-
-For the rest of the island, showers or thundershowers are forecast at several places after 2:00 p.m. today.
-
-...
-
-[Data](articles/2902a7f6.json)
-
-[Extended Data](ext_articles/2902a7f6.ext.json)
-
----
-
-### Child and adult killed in a van precipice
-
-*2024-04-15 08:01:45* · [`adalk`](https://www.ada.lk/breaking_news/වෑන්-රථයක්-ප්‍රපාතයකට-පෙරලී-දරුවෙක්-හා-වැඩිහිටියෙක්-මරුට/11-409082) · `si`
-
-A van plunged into a precipice, killing a child and an adult. The Pussellawa police are investigating. The victims were traveling from Nuwara Eliya to Kurunegala. The child was 2, and the adult was 65. Seven others were injured and treated at Wahunapitiya and Gampola Hospitals.
-
-🟩
-
-Pussellawa police division in Katukatemunu town from Nuwara Eliya and Gampola. Seven injuries and arrested by the van driver, including the accident and was admitted to the Wahunapitiya hospital. The two-year-old boy of Ridigama and 65 years died yesterday evening.
-
-The victims were the only family from Ridigama and they were traveling from Nuwara Eliya to Kurunegala to Kurunegala to Kurunegala.
-
-Three persons and two male have been transferred to the Gampola Hospital for treatment.
-
-◼️
-
-[Data](articles/0ba7bd35.json)
-
-[Extended Data](ext_articles/0ba7bd35.ext.json)
-
----
-
-### Sri Lanka among countries that could benefit from debt-for-nature swaps, says report
-
-*2024-04-15 07:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98636/sri-lanka-among-countries-that-could-benefit-from-debt-for-nature-swaps-says-report) · `en`
-
-(Reuters) - Debt-for-nature swaps, where poorer countries have debt written off in return for protecting ecosystems such as barrier reefs or rainforests, could provide $100 billion for the fight against climate change, a new report has calculated.
-
-The UK-based, non-profit International Institute for Environment and Development (IIED) based the estimate on the possibility of debt swaps in many of the 49 less developed countries seen as most at risk of debt crises.
-
-Belize, Ecuador, Barbados, Gabon and Cabo Verde have all done such swaps in recent years and Laura Kelly, the director of IIED’s sustainable markets research group, said many of those in debt distress and also often most threatened by global warming, were looking at them.
-
-The IMF and World Bank, whose figures the analysis is based on, estimate the countries focused on collectively owe $431 billion, mostly to wealthier governments, the IMF itself and pension and hedge funds.
-
-...
-
-[Data](articles/c8e82d0a.json)
-
-[Extended Data](ext_articles/c8e82d0a.ext.json)
-
----
-
-### Special transport facilities to Colombo to Colombo
-
-*2024-04-15 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195638) · `si`
-
-The National Transport Commission (NTC) has re-employed special buses in Colombo for passenger convenience, with some special trains also deployed.
-
-🟩
-
-The National Transport Commission (NTC) has said that he has taken steps to re-employment of special buses today (15) and tomorrow.
-
-Chairman of the company Shashi Welgama said that the buses had been deployed on passenger needs.
-
-Meanwhile, a few special trains traveling to the passenger people from the train have been deployed for their convenience, the Deputy General Manager NJ. He said.
-
-◼️
-
-[Data](articles/64b31496.json)
-
-[Extended Data](ext_articles/64b31496.ext.json)
-
----
-
-### Sri Lanka private credit expands in February
-
-*2024-04-15 07:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-expands-in-february-158478/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s private credit from rupee banking units of commercial banks expanded 22.9 billion rupees in February 2024, after contracting 65.8 billion rupees in January, official data showed.
-
-Private credit along with US dollar denominated loans grew only 7.3 billion rupees to 7,321.5 billion rupees, with dollar denominated loans contracting to 529.6 billion rupees from 545.2 billion rupees amid rupee appreciation.
-
-With the appreciation of the rupee reducing stock holding costs of importers and other producers, working capital credit requirement could also fall giving more ‘bang for buck.’
-
-Central bank credit contracted 121 billion rupees in February, after contracting 91 billion rupees in January 2024, keeping the balance of payments in surplus.
-
-Credit to government from commercial banks went up by around 100 billion rupees to 6,153.4 billion rupees in February, but overall credit from the banking system was down amid the central bank credit contraction.
-
-...
-
-[Data](articles/243a959b.json)
-
-[Extended Data](ext_articles/243a959b.ext.json)
 
 ---

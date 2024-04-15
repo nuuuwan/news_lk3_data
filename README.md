@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 10:18:16**
+As of **2024-04-15 10:33:42**
 
 ## Newspaper Stats
 
-*Scraped **18,865** Articles*
+*Scraped **18,866** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,573
 tamilmirrorlk | 2,207
 adaderanalk | 2,277
 virakesarilk | 2,802
-dailymirrorlk | 2,902
+dailymirrorlk | 2,903
 adaderanasinhalalk | 3,077
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,848 (99.9%) of 18,865 articles have been extended.
+18,865 (100.0%) of 18,866 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,41 +46,75 @@ Meanwhile, special train services are also in place from Badulla, Galle and Beli
 
 [Data](articles/bc773f3c.json)
 
+[Extended Data](ext_articles/bc773f3c.ext.json)
+
 ---
 
-### 17 හැවිරිදි සිසුවියකට වෙඩිතබයි
+### Matheesha Pathirana made the difference for CSK, says MI skipper Hardik Pandya
+
+*2024-04-15 09:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Matheesha-Pathirana-made-the-difference-for-CSK-says-MI-skipper-Hardik-Pandya/108-280703) · `en`
+
+NEW DELHI, April 15 ( Times of India) : Mumbai Indians skipper Hardik Pandya attributed his team's 20-run defeat in Match 29 of the Indian Premier League (IPL) at the Wankhede Stadium to Chennai Super Kings' Impact Substitute, Sri Lankan pacer Matheesha Pathirana.
+
+Pathirana's impressive spell of 4-28 in four overs turned the tide, disrupting Mumbai's momentum after a strong start at 70 for no loss in the eighth over.
+
+His crucial breakthroughs, including dismissing Ishan Kishan and Suryakumar Yadav, derailed Mumbai's innings, despite a valiant century from former skipper Rohit Sharma.
+
+Pandya's decision to bowl first backfired as he faced a barrage from Mahendra Singh Dhoni, conceding 20 runs off four balls. Pandya's batting contribution of two runs off six balls couldn't salvage Mumbai's chase, leading to their fourth defeat in six matches.
+
+Pandya said Pathirana made the difference for CSK as the target for definitely gettable.
+
+...
+
+[Data](articles/7067570e.json)
+
+---
+
+### Shot dead to a 17 year old girl
 
 *2024-04-15 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195641) · `si`
 
-ගෙලට වෙඩි වැදුණු 17 හැවිරිදි සිසුවියක් රෝහල්ගත කර ඇති බව පොලීසිය පවසයි.
+A 17-year-old girl was shot and hospitalized in Giritale last night. The incident involved a family member and is under investigation by the Minneriya Police.
 
-ඊයේ (14) රාත්‍රියේදී මින්නේරිය යාය 04 ගිරිතලේ ප්‍රදේශයේදී මෙම වෙඩිතැබීම සිදුකර තිබේ.
+🟩
 
-අදාළ සිසුවිය පවුලේ අය සමග ඥාති නිවසකට ගොස් සිටියදී මෙම සිද්ධියට මුහුණදී ඇත.
+A 17-year-old student was hospitalized, police said.
 
-වෙඩිතැබීම කවුරුන් විසින් සිදු කළේය යන්න මෙතෙක් අනාවරණය වී නොමැති අතර මින්නේරිය පොලීසිය විමර්ශන සිදුකරයි.
+The shooting was carried out in the Giritale area at the Giritale area last night.
+
+The student was facing a cousin with his family.
+
+The shooting has not yet been revealed, and the Minneriya Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/becc4dd5.json)
 
+[Extended Data](ext_articles/becc4dd5.ext.json)
+
 ---
 
-### පිහියකින් සහ කතුරකින් ඇන පුද්ගලයෙකු ඝාතනය කරයි
+### A knife and a person who states a person who states
 
 *2024-04-15 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195640) · `si`
 
-පොලීසිය සඳහන් කළේ පුද්ගලික ආරවුලක් මත ඊයේ (14) 37 හැවිරිදි පුද්ගලයෙකුව මෙලෙස ඝාතනය කර ඇති බවය.
+A 37-year-old man was murdered in a personal dispute near Wastapattuwa police division. A 21-year-old was assaulted in Hakmana. A 41-year-old man was killed with a sharp weapon in Mahaweligama, Serunuwara.
 
-ඇලයාපත්තුව පොලිස් වසමේ තිබ්බටුවාගම විහාරස්ථානයට යන මාර්ගයේදී මෙම ඝාතනය සිදුකර තිබුණි.
+🟩
 
-මේ අතර අද (15) අලුයම හක්මන පොලිස් වසමේ කහටගහකොරටුව ප්‍රදේශයේදී 21 හැවිරිදි පුද්ගලයෙකුට තියුණු ආයුධයකින් පහරදී ඝාතනය කර ඇත.
+Police said that a 37-year-old man had been murdered yesterday (14) at a personal dispute.
 
-සේරුනුවර මහවැලිගම ප්‍රදේශයේදී ද තියුණු ආයුධයකින් ඇන 41 හැවිරිදි පුද්ගලයෙකු ඝාතනය කර තිබේ.
+The murder had been carried out on the road to the Wastapattuwa police division.
+
+Meanwhile, a 21-year-old person has been assaulted by a 21-year-old man in the Hakmana Police Division in the Hakmana Police Division this morning (15).
+
+A 41-year-old man was killed with a sharp weapon in Mahaweligama area in Serunuwara.
 
 ◼️
 
 [Data](articles/67ef7ade.json)
+
+[Extended Data](ext_articles/67ef7ade.ext.json)
 
 ---
 
@@ -99,6 +133,8 @@ The motive behind the shooting has not been disclosed as yet and investigations 
 ◼️
 
 [Data](articles/1186e754.json)
+
+[Extended Data](ext_articles/1186e754.ext.json)
 
 ---
 
@@ -122,6 +158,8 @@ The selected person should set up an office with 20 plus persons de Silva said.
 
 [Data](articles/b9318fc0.json)
 
+[Extended Data](ext_articles/b9318fc0.ext.json)
+
 ---
 
 ### US will not take part in any Israeli retaliatory action against Iran
@@ -139,6 +177,8 @@ Deputy U.S. Ambassador to the U.N. Robert Wood called on the council to unequivo
 ...
 
 [Data](articles/ceacb0f0.json)
+
+[Extended Data](ext_articles/ceacb0f0.ext.json)
 
 ---
 
@@ -160,33 +200,45 @@ However, State Finance Minister Siyambalapitiya said no permission has been give
 
 [Data](articles/aaa9c33a.json)
 
+[Extended Data](ext_articles/aaa9c33a.ext.json)
+
 ---
 
-### අවස්ථාවක් ලැබෙන තුරු ඊශ්‍රායලය බලා සිටී
+### Israel is watching until there is an opportunity
 
 *2024-04-15 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195639) · `si`
 
-ඉරානයට පහරදීමට සුදුසු අවස්ථාවක් ලැබෙන තුරු බලාසිටින බව ඊශ්‍රායලය පවසයි.
+Israel is on alert for an opportunity to attack Iran, following Iran's missile and drone attacks on Israel. Iran's attacks targeted the Israeli embassy in Syria, killing 13, including a military chief. The US warned Israel of an impending attack. Israeli schools were protected, and Iranian Revolutionary Security Forces seized an Israeli ship in the Homus Strait. Israel's air defense system intercepted over 300 Iranian missiles. Airspace was temporarily closed in Iraq, Jordan, Lebanon, and Israel, with Israel and Jordan reopening their airways. Israel's air and technology defenses thwarted 99% of Iranian attacks. The Iranian Armed Forces Head General Moummond Bagery declared the operation successful, warning Israel of a worse response if it retaliates.
 
-මැදපෙරදිග කලාපය තුළ දරුණු යුද බියක් මවමින් ඉරානය පළමු වරට ඊශ්‍රායලයට දැවැන්ත ප්‍රහාර මාලාවක් දියත් කළේය.
+🟩
 
-ඒ අනුව ඉරානය විසින් ඉකුත් 13 වනදා සහ ඊයේ (14) අලුයම් කාලයේදී ඊශ්‍රායලයට ඩ්‍රෝන සහ මිසයිල ප්‍රහාර රැසක් එල්ල කර තිබුණි.
+Israel says that Iran is a suitable opportunity to attack Iran.
 
-සිරියාවේ පිහිටි ඉරාන තානාපති කාර්යාලයට එල්ලවූ ඊශ්‍රායල ප්‍රහාරයට පළිගැනීමක් ලෙසින් මෙම ප්‍රහාර දියත් කර තිබුණි.
+Iran launched a series of masses to Israel for the first time in the Middle East region.
 
-කෙසේවෙතත් ඊශ්‍රායලය පවසන්නේ ඉරාන ප්‍රහාරවලින් සියයට 99ක්ම සාර්ථකව ව්‍යර්ථ කළ බවය.
+Accordingly, Iran had launched a wide range of drones and missile attacks on the 13th and yesterday (14).
 
-ඉරානය ඊශ්‍රායලයෙන් පළිගන්නා බවට අනතුරු අඟවා තිබුණේ සිරියාවේ පිහිටි ඉරාන තානාපති කාර්යාලයට ඊශ්‍රායලයෙන් පසුගිය අප්‍රේල් පළමුවැනිදා එල්ලවූ දරුණු ප්‍රහාරයත් සමගිනි.
+The attack was launched by the Israeli attack on the Embassy of the Iranian embassy in Syria.
 
-ඉරාන හමුදා ප්‍රධානියෙකු ඇතුළු 13 දෙනෙකු එම ප්‍රහාරයෙන් මියගොස් ඇත.
+In Israel, however, 99 percent of Iranian attacks were successfully thwarted.
 
-එවන් පසුබිමක අමෙරිකාවද ඊශ්‍රායලයට දැනුම්දී තිබුණේ ඉතාම ආසන්න දිනක ඊශ්‍රායලය වෙත ප්‍රහාරයක් එල්ලවනු ඇති බවටය.
+Iran was warned of Israel's embassy in Syria, with the fierce attack on the Iranian embassy in Syria last April.
 
-ඉරානය, සිය හමුදා සහ අවි කලාපයේ ස්ථානගත කරමින් ඇති බවටත් අමෙරිකාව තහවුරු කර තිබුණි.
+Thirteen Army chief, including a military chief killed in the attack.
+
+In such a setting, the US has also informed Israel that Israel will be attacked soon.
+
+The US had confirmed Iran's placement in its military and arms zone.
+
+Israeli schools, in the middle of those warnings, were covered with schools as a protective measure.
+
+In such a situation, the Iranian Revolutionary Security Forces recently took over the Israeli ship in the Homus Strait.
 
 ...
 
 [Data](articles/697177a0.json)
+
+[Extended Data](ext_articles/697177a0.ext.json)
 
 ---
 
@@ -210,21 +262,29 @@ For the rest of the island, showers or thundershowers are forecast at several pl
 
 [Data](articles/2902a7f6.json)
 
+[Extended Data](ext_articles/2902a7f6.ext.json)
+
 ---
 
-### වෑන් රථයක් ප්‍රපාතයකට පෙරලී දරුවෙක් හා වැඩිහිටියෙක් මරුට
+### Child and adult killed in a van precipice
 
 *2024-04-15 08:01:45* · [`adalk`](https://www.ada.lk/breaking_news/වෑන්-රථයක්-ප්‍රපාතයකට-පෙරලී-දරුවෙක්-හා-වැඩිහිටියෙක්-මරුට/11-409082) · `si`
 
-පුස්සැල්ලාව පොලිස් වසමේ, කටුකිතුල ප්‍ර දේශයේදී නුවරඑළිය දෙස සිට ගම්පොල දෙසට ධාවනය වූ වෑන් රථයක්ප්‍ෙරපාතයකට පෙරළී අනතුරක් සිදුව ඇතැයි පොලීසිය කියයි. අනතුරින් වෑන් රථයේ රියදුරු ඇතුළු 07 දෙනෙකු තුවාල ලබා වහුගපිටිය රෝහලට ඇතුළත් කර කර තිබේ. ඊයේ සවස සිදුවූ මෙම අනතුරින් රිදීගම පදිිංචි වයස අවුරුදු 02 ක පිරිමි දරුවෙකු හා අවුරුදු 65 ක් වන පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+A van plunged into a precipice, killing a child and an adult. The Pussellawa police are investigating. The victims were traveling from Nuwara Eliya to Kurunegala. The child was 2, and the adult was 65. Seven others were injured and treated at Wahunapitiya and Gampola Hospitals.
 
-වෑන් රථයේ ගමන් කල පුද්ගලයින් රිදීගම පදිංචි එකම පවුලේ අයවලුන් වන අතර ඔවුන් නුවරඑළියේ සිට කුරුණෑගලට ගමන්කරමින් සිටියදී මෙම අනතුරට ලක්ව ඇත.
+🟩
 
-අනතුරින් තුවාල ලැබූ කාන්තාවක් තිදෙනෙක් හා පිරිමි පුද්ගලයන් දෙදෙනෙක් වැඩිදුරට ප්‍රතිකාර සඳහා ගම්පොල රෝහලට මාරු කර යවා තිබේ.
+Pussellawa police division in Katukatemunu town from Nuwara Eliya and Gampola. Seven injuries and arrested by the van driver, including the accident and was admitted to the Wahunapitiya hospital. The two-year-old boy of Ridigama and 65 years died yesterday evening.
+
+The victims were the only family from Ridigama and they were traveling from Nuwara Eliya to Kurunegala to Kurunegala to Kurunegala.
+
+Three persons and two male have been transferred to the Gampola Hospital for treatment.
 
 ◼️
 
 [Data](articles/0ba7bd35.json)
+
+[Extended Data](ext_articles/0ba7bd35.ext.json)
 
 ---
 
@@ -288,6 +348,8 @@ Credit to government from commercial banks went up by around 100 billion rupees 
 
 [Data](articles/243a959b.json)
 
+[Extended Data](ext_articles/243a959b.ext.json)
+
 ---
 
 ### Showery conditions expected to enhance over several provinces
@@ -314,17 +376,23 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 ---
 
-### හිසතෙල් ගෑමේ නැතක අදයි
+### Today is the notice of headlines
 
 *2024-04-15 07:29:09* · [`adalk`](https://www.ada.lk/breaking_news/හිසතෙල්-ගෑමේ-නැතක-අදයි/11-409081) · `si`
 
-සිංහල හා හින්දු අලුත් අවුරුදු මංගල්‍යයේ හිසතෙල් ගෑමේ ජාතික නැකත අද (15දා) යෙදි තිබේ. මෙහි ජාතික උත්සවය වත්තල හැඳල පුරාණ රජමහා විහාරයේදී අගමැති දිනේෂ් ගුණවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පැවැත්වීමට නියමිතය.
+National auditor announces Sinhala and Hindu New Year's West New Year (15) at Evil Raja Maha Viharaya, Wattala, under Prime Minister Dinesh Gunawardena's patronage. Organized by Ministry of Indigenous Medicine, the ceremony starts at 10.17 am.
 
-දේශීය වෛද්‍ය අමාත්‍යාංශය විසින් මෙම ජාතික උත්සවය සංවිධානය කරනු ලබන අතර පෙරවරු 10.17ට යෙදෙන සුබ නැකතට හිස තෙල් ගෑමේ උත්සවය ආරම්භ වීමට නියමිතය.
+🟩
+
+National auditor in the Sinhala and Hindu New Year's West New Year's West New Year (15). The National Festival will be held under the patronage of Prime Minister Dinesh Gunawardena at the Evil Raja Maha Viharaya in Wattala.
+
+The National Ceremony is organized by the Ministry of Indigenous Medicine and the head oil is due to begin at 10.17 am.
 
 ◼️
 
 [Data](articles/0b6d2421.json)
+
+[Extended Data](ext_articles/0b6d2421.ext.json)
 
 ---
 
@@ -490,17 +558,23 @@ The strength of the imperialist elite will be established in the Middle East. In
 
 ---
 
-### டெங்கு நோயாளர்கள் அதிகரிப்பு
+### Increase in dengue patients
 
 *2024-04-15 00:26:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்கள்-அதிகரிப்பு/175-335948) · `ta`
 
-இதன்படி, இந்த வருடத்தின் இதுவரையான காலப்பகுதியில், பதிவாகியுள்ள டெங்கு நோயாளர்களின் எண்ணிக்கை 21,028 ஆக பதிவாகியுள்ளது.
+Dengue cases in 2023: 21,028 nationally, 4,527 in Colombo.
 
-இதன்படி, கொழும்பு மாவட்டத்தில் இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 4,527 டெங்கு நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர்.
+🟩
+
+Accordingly, the number of dengue patients recorded at 21,028 has been reported so far this year.
+
+Accordingly, 4,527 dengue patients have been identified in the Colombo district so far this year.
 
 ◼️
 
 [Data](articles/926860cf.json)
+
+[Extended Data](ext_articles/926860cf.ext.json)
 
 ---
 
@@ -562,39 +636,51 @@ Ruthuraj Gaygwad faced 40 balls and scored 69 runs with 5 pounds and 5 sixes.
 
 ---
 
-### புத்தாண்டு நிகழ்வில் ஜனாதிபதி பங்கேற்றார்
+### President participated in the New Year's event
 
 *2024-04-15 00:22:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டு-நிகழ்வில்-ஜனாதிபதி-பங்கேற்றார்/175-335947) · `ta`
 
-நுவரெலியா – மீபிலிபான 'அபி யூத்' இளைஞர் அமைப்பினால் நுவரெலியா மாவட்டச் செயலகம், பிரதேச செயலகம் இணைந்து நேற்று ஏற்பாடு செய்திருந்த சித்திரைப் புத்தாண்டு நிகழ்வில் ஜனாதிபதி ரணில் விக்கிரமசிங்க பங்கேற்றார்.
+President Ranil Wickremesinghe attended the New Year's event in Nuwara Eliya, engaging in sports and cultural activities, and promised to address local issues.
 
-பாரம்பரிய சம்பிரதாயங்களுக்கு அமைவாக, இடம்பெற்ற இந்த நிகழ்வில், விளையாட்டு மற்றும் கலாச்சார அம்சங்கள் பலவும் உள்ளடக்கியிருந்தன.
+🟩
 
-புத்தாண்டு நிகழ்வு நடைபெற்ற இடத்திற்கு வருகைத் தந்த ஜனாதிபதி ரணில் விக்கிரமசிங்க சில போட்டிகளைக் கண்டுகளித்த பின்னர், அங்கு இடம்பெற்ற சைக்கிளோட்ட போட்டியில் வெற்றி பெற்றவர்களும் பரிசுகளை வழங்கினார்.
+President Ranil Wickremesinghe participated in the New Year's anniversary organized by the Nuwara Eliya - Mebilipana 'Abhi Youth' Youth Organization yesterday.
 
-சித்திரைப் புத்தாண்டு நிகழ்வை கண்டுகளிக்க வந்த பிரதேச மக்களுடன் சிநேகபூர்வமாக கலந்துரையாடினார். அப்போது மக்கள் முன்வைத்த பிரச்சினைகளுக்கு தீர்வைத் தருவேன் என அவர் உறுதி அளித்தார். (a)
+In accordance with traditional rituals, this event included a number of sports and cultural features.
+
+President Ranil Wickremesinghe, who arrived at the place where the New Year event was held, was also presented with prizes after watching some matches.
+
+He discussed with the people of the area who came to see the New Year's Eve. He promised to solve the problems made by the people at the time. (A)
 
 ◼️
 
 [Data](articles/ca382202.json)
 
+[Extended Data](ext_articles/ca382202.ext.json)
+
 ---
 
-### இஸ்ரேலில் இலங்கையர்கள் பாதுகாப்பாக உள்ளனர்
+### Sri Lankans are safe in Israel
 
 *2024-04-15 00:17:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலில்-இலங்கையர்கள்-பாதுகாப்பாக-உள்ளனர்/175-335946) · `ta`
 
-இஸ்ரேலில் உள்ள இலங்கையர்கள் பாதுகாப்பாக உள்ளனர் என இஸ்ரேலுக்கான இலங்கை தூதரகம் தெரிவித்துள்ளது.
+Sri Lankans in Israel are safe, according to the Sri Lankan embassy, despite Iran's attacks on Israel. Sri Lankan Ambassador Nimal Bandara confirmed this, noting his travel with Sri Lankans from Dubai to Tel Aviv.
 
-இஸ்ரேல் மீது ஈரான் ஆளில்லா விமானம் மற்றும் ஏவுகனை தாக்குதல்களை நடத்தியுள்ள நிலையில் இஸ்ரேலில் உள்ள இலங்கையர்கள் தொடர்பில் இந்த அறிவிப்பு விடுக்கப்பட்டுள்ளது.
+🟩
 
-அதன்படி, இஸ்ரேலில் உள்ள இலங்கையர்கள் பாதுகாப்பாக உள்ளனர் என இஸ்ரேலுக்கான இலங்கை தூதுவர் நிமல் பண்டார தெரிவித்துள்ளார்.
+Sri Lankans in Israel are safe, the Sri Lankan embassy in Israel said.
 
-இந்த நிலையில், டுபாயிலிருந்து இலங்கையர்கள் குழுவுடன் டெல் அவிவ் நோக்கி பயணித்த விமானம் தொடர்பில் அவர் தெளிவுப்படுத்தியுள்ளார். (a)
+The announcement has been made regarding Sri Lankans in Israel as Iran has launched an unmanned aircraft and missile attacks on Israel.
+
+Accordingly, Sri Lankan Ambassador to Israel Nimal Bandara said that Sri Lankans in Israel are safe.
+
+At this juncture, he made it clear that he was traveling with a group of Sri Lankans from Dubai to Tel Aviv. (A)
 
 ◼️
 
 [Data](articles/896b019b.json)
+
+[Extended Data](ext_articles/896b019b.ext.json)
 
 ---
 
@@ -1220,21 +1306,27 @@ As several parts in Sri Lanka have experienced significant rainfall for the past
 
 ---
 
-### புஸ்ஸல்லாவ விபத்தில் இருவர் பலி
+### Two killed in Pussellawa accident
 
 *2024-04-14 17:23:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/புஸ்ஸல்லாவ-விபத்தில்-இருவர்-பலி/76-335930) · `ta`
 
-இறம்பொடை - கொழும்பு பிரதான வீதியில் எல்பொடைக்கும், புஸ்ஸலாவுக்கும் இடைப்பட்ட பகுதியில் இன்று மாலை வேன் ஒன்று பாதையை விட்டு விலகி பள்ளத்தில் வீழ்ந்து பாரிய விபத்துக்கு உள்ளாகியுள்ளதாக கொத்மலை பொலிஸார் தெரிவித்தனர்.
+Two killed in Pussellawa accident. A van hit a ditch on Marambodai-Colombo road, traveling from Colombo to Nuwara Eliya with 10 people, including children and the elderly. Rescue efforts ongoing.
 
-சம்பவத்தில் விபத்துக்கு உள்ளான வேன் கொழும்பிலிருந்து நுவரெலியாவுக்கு 10 பேருடன் சுற்றுலாவுக்கு வருகைதந்து பின் கொழும்பை நோக்கி பயணிக்கையில் விபத்து சம்பவித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-மேலும் இச்சம்பவத்தில் விபத்துக்கு உள்ளான வேனில் சிறு குழந்தைகளும் வயதானவர்களும் கூட இருந்ததாக தெரிவிக்கப்பட்டுள்ளது.
+Kotmalai police said that a van has been hit by a ditch this evening in the area between Elbod and Pussala on the main road of Marambodai - Colombo main road.
 
-அதேநேரம் விபத்தில் வேனில் சிக்கியுள்ளவர்களை மீட்கும் பணியில் பிரதேச மக்கள்,பொலிஸார் ஈடுப்பட்டுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது. R
+The van, which was involved in the incident, was traveling from Colombo to Nuwara Eliya with 10 people on the tour and then traveling to Colombo, police said.
+
+It has also been reported that small children and even the elderly were in the van that crashed into the incident.
+
+At the same time, the people of the area have been involved in the rescue of the victims of the van.. Remble
 
 ◼️
 
 [Data](articles/c3ca4edc.json)
+
+[Extended Data](ext_articles/c3ca4edc.ext.json)
 
 ---
 
@@ -1286,17 +1378,25 @@ Twent up to 20 others in the attack and 12 of them were in critical condition.
 
 ---
 
-### කොස්ගොඩ බියවැද්දූ කොල්ලකල්ලියක් මෙහෙයවූ නැන්දා ,දුව අල්ලයි
+### Aunt, led by Kosgoda scawellers, arrested
 
 *2024-04-14 17:13:22* · [`adalk`](https://www.ada.lk/breaking_news/කොස්ගොඩ-බියවැද්දූ-කොල්ලකල්ලියක්-මෙහෙයවූ-නැන්දා--දුව-අල්ලයි/11-409080) · `si`
 
-කොස්ගොඩ  ඌරගස්මන්හන්දිය සහ අහුන්ගල්ල පොලිස් වසම්වල ජනතාව භීතියට පත්කරමින් කාලයක්  තිස්සේ රාත්‍රී කාලයේ නිවෙස් කොල්ලකෑම් රැසක් සිදුකළ කොල්ලකල්ලියක් මෙහෙයවූ මත්ද්‍රව්‍ය අලෙවියේද නිරතව සිටි බව කියන   කාන්තාවන් දෙදෙනෙකු සහ  කොල්ලකල්ලියේ සාමාජිකයන්වූ තරුණයන් දෙදෙනෙකු සැකපිට අත් අඩංගුවට ගත් බව කොස්ගොඩ පොලීසිය කියයි.
+Two women and two youths, led by Kosgoda scavengers, were arrested in Uraungalla for robbery, with 3112 milligrams of heroin found. They intimidated residents and stole gold jewelry worth over Rs.
 
-නෑදෑ කමට නැන්දා සහ දුවක වන  සැකාරියන් දෙදෙනා වයස අවුරුදු 29 හා 40 වියේ පසුවන අතර අත් අඩංගුවට ගත් අවස්ථාවේ  ඔවුන් සන්තකයේ තිබී හෙරොයින් මිලිග්‍රෑම් 2410 ක් සහ අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 3112 ක් ද සොයාගත් බවත් කොල්ල කල්ලිය   මුලුමනින්ම මෙහෙයවා ඇති  මෙම කාන්තාවන් දෙදෙනාගේ උපදෙස්  පරිදි හා ඔවුන් ලබා දෙන මත්ද්‍රව්‍ය පානය කර තරුණයින් විසින්  දොරවල් කඩා නිවෙස්වලට ඇතුළු වී ආයුධ පෙන්වා නිවැසියන් බියවද්දා මෙම    කොල්ලකෑම් සිදුකර ඇතැයි පොලීසිය කියයි.
+🟩
 
-...
+Two women and two youths who were involved in a robbery have been arrested in Uraungalla Police Divisions and a robbery have been arrested in the Uraundella Police Divisions.
+
+Aunt and the daughter, who was aged between 29 and 40 years old, and 3112 milligrams of heroin were in their possession and 3112 milligrams of the robbers, they were fully led by the robbery.Police say that the youth have dropped the doors and intimidated the doors and intimidated the residents, police said.
+
+They were conducting a large quantity of gold jewelery and the swords of gold jewelery, which had more than Rs.
+
+◼️
 
 [Data](articles/96fecd16.json)
+
+[Extended Data](ext_articles/96fecd16.ext.json)
 
 ---
 
@@ -2261,31 +2361,5 @@ Condemnation from the United Nations chief and others was swift, with France say
 [Data](articles/05829549.json)
 
 [Extended Data](ext_articles/05829549.ext.json)
-
----
-
-### Divorced because I was very correct
-
-*2024-04-14 09:45:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/மிக-சரியானவராக-இருந்ததால்-விவாகரத்து-செய்தேன்/44-335924) · `ta`
-
-Ricardo Iskson dose Santos Laidy, known as Gaga, a famous Brazilian footballer, won the 2002 World Cup and was in the 2006 series. He retired in 2017. Gaga married Caroline Silico in 2005, divorced in 2015, and she later married Idurdo Scorba Julio in 2021. Caroline said Gaga was very correct, but she wasn't happy due to a lack of something, leading to the divorce.
-
-🟩
-
-Brazil -based famous footballer Ricardo Iskson dose Santos Laidy. Fans call him Gaga. Gaga was featured in the Brazilian football team that won the World Cup in 2002. He was also present in the 2006 World Cup series. He then retired from Gaga football in 2017.
-
-In the meantime, Gaga married her childhood and girlfriend Caroline Silico in 2005. The couple announced that they would split in 2015 after living together for 10 years.
-
-After divorce. Similarly, Caroline Silico married Idurdo Scorba Julio in 2021.
-
-Former wife Caroline Silico has said that Gaga was divorced because it was very correct.
-
-Caroline Silico has commented on her ex -husband Gaga and divorce. As he says about this, Gaga has never betrayed me. He took care of me lovingly and he gave me the best family. But, I am not happy. There was a lack of something. The problem is what Gaga was very perfect for me. So I divorced. '
-
-◼️
-
-[Data](articles/92b9bf05.json)
-
-[Extended Data](ext_articles/92b9bf05.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 22:33:46**
+As of **2024-04-15 22:50:04**
 
 ## Newspaper Stats
 
-*Scraped **18,971** Articles*
+*Scraped **18,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,86 @@ dailyftlk | 1,018
 economynextcom | 1,062
 adalk | 1,583
 tamilmirrorlk | 2,218
-adaderanalk | 2,291
+adaderanalk | 2,292
 virakesarilk | 2,825
 dailymirrorlk | 2,920
-adaderanasinhalalk | 3,094
+adaderanasinhalalk | 3,095
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,970 (100.0%) of 18,971 articles have been extended.
+18,971 (100.0%) of 18,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### ශ්‍රී ලංකාව වෙනුවෙන් ඉන්දියාවෙන් ලොකු තීරණයක්
+### ජීවිත 3ක් බිලිගත් වික්ටෝරියා ඛේදවාචකය
+
+*2024-04-15 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195661) · `si`
+
+වික්ටෝරියා ජලාශයේ දියේ ගිලීමෙන් මියගිය යුවළ බේරාගැනීමට උත්සාහ කළ පුද්ගලයෙකුද අද පස්වරුවේ දියේ ගිලී මියගොස් ඇති බව පොලීසිය පවසයි.
+
+දිගන, කුඹුක්කඳුර ප්‍රදේශයෙන් වික්ටෝරියා ජලාශයේ දින නෑමට ගිය අඹුසැමි යුවළක් අද පස්වරුවේ දියේ ගිලී තිබුණි.
+
+එහිදී ඔවුන් බේරාගැනීම සඳහා ඉදිරිපත් වූ 30 හැවිරිදි වියේ පසුවූ ප්‍රදේශවාසියෙකු ද මෙලෙස දියේ ගිලී මියගොස් ඇත.
+
+දියේ ගිලී මියගිය අඹුසැමි යුවළ තිහාරිය ප්‍රදේශයේ පදිංචිකරුවන් වන අතර කාන්තාවගේ ගම් ප්‍රදේශයට ගිය අවස්ථාවේ මෙම අනතුරට මුහුණ දී තිබේ.
+
+මියගොස් ඇති සැමියාගේ වයස අවුරුදු 28ක් සහ බිරිඳගේ වයස අවුරුදු 22ක් ලෙසට වාර්තාවෙයි.
+
+පළමුව කාන්තාව දියනෑම සඳහා ජලාශයට බැස ඇති අතර ඇය එක්වරම දියේ ගිලී තිබේ.
+
+කෙසේවෙතත් එහිදී ජල පහරට හසුව එම දෙදෙනාම අතුරුදන්ව ඇති අතර ඔවුන් බේරාගැනීමට ප්‍රදේශවාසියෙක් ද ජලයට බැස ඇති බව වාර්තාවෙයි.
+
+පළමුව බිරිඳගේ දේහය සොයාගෙන තිබුණු අතර පොලිසිය සහ ප්‍රදේශවාසීන් එක්ව සිදුකළ සෝදිසි මෙහෙයුමේදී සැමියා සහ ඔවුන් බේරාගැනීමට ගිය ප්‍රදේශවාසියාගේ සිරුරද සොයාගෙන තිබේ.
+
+◼️
+
+[Data](articles/d13658e2.json)
+
+---
+
+### Ghana fails to reach debt deal with international bondholders
+
+*2024-04-15 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98654/ghana-fails-to-reach-debt-deal-with-international-bondholders) · `en`
+
+(Reuters) - Ghana has failed to agree a deal with two bondholder groups to restructure $13 billion of international bonds, the government said on Monday, in a blow to its efforts to swiftly emerge from default and economic crisis.
+
+Talks were on hold for now after the International Monetary Fund indicated that the deal would not fit its debt sustainability parameters, which set out how much debt it thinks a country can afford, the government said in a statement.
+
+Ghana had been in formal talks with two groups holding its international bonds since March 16 - one “international” group of Western asset managers and hedge funds and another one including regional African banks.
+
+The regional African bondholder group had also rejected part of the proposed rework, including an option to retain the original value of the bonds with a longer maturity and lower coupon.
+
+...
+
+[Data](articles/dd6d2cc4.json)
+
+---
+
+### India a big decision on Sri Lanka
 
 *2024-04-15 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195660) · `si`
 
-ලොකු ලූනු අපනයනයට පනවා තිබු තහනම ශ්‍රී ලංකාව සඳහා පමණක් ඉවත් කිරීමට ඉන්දියාව තීරණය කර තිබේ.
+India lifts ban on big onions for Sri Lanka, allowing export of 10,000 metric tons, marking a significant decision in their diplomatic relations.
 
-මෙරට ඉන්දීය මහ කොමසාරිස් කාර්යාලය නිවේදනයක් නිකුත් කරමින් මේ බව පවසයි
+🟩
 
-ඒ අනුව ලොකු ලූනු මෙට්‍රික් ටොන් 10,000ක් දක්වා ශ්‍රී ලංකාවට අපනයනය  කිරීමට මෙමගින් අවසර ලබා දී තිබේ.
+India has decided to remove only for Sri Lanka's ban on big onions.
 
-පළමුව අසල්වැසියා යන පදනම සහ අලුත් අවුරුදු උත්සව සමය සැලකිල්ල ට ගෙන ඉන්දියාව එම තීරණය ගත් බව සඳහන් ය.
+High Commissioner in Sri Lanka Issues a statement
+
+Accordingly, it has been granted to export big onions to 10,000 metric tons of big onions.
+
+India took the foundation of the neighbor's foundation and the New Year festive season.
 
 ◼️
 
 [Data](articles/a68a9dcf.json)
+
+[Extended Data](ext_articles/a68a9dcf.ext.json)
 
 ---
 
@@ -2275,37 +2325,5 @@ The National Festival of Headhel Gardens will be held at the Anna Rajamaha Vihar
 [Data](articles/ca9cb08a.json)
 
 [Extended Data](ext_articles/ca9cb08a.ext.json)
-
----
-
-### Anointing of oil
-
-*2024-04-15 10:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anointing-of-oil/108-280584) · `en`
-
-During the traditional oil anointing ritual after the Sinhala and Tamil New Year dawn, a blessing is recited that invokes a series of seemingly impossible transformations to grant longevity to the anointed.
-
-◼️
-
-[Data](articles/d88c3a08.json)
-
-[Extended Data](ext_articles/d88c3a08.ext.json)
-
----
-
-### Special public transport services in place after New Year holidays
-
-*2024-04-15 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98638/special-public-transport-services-in-place-after-new-year-holidays) · `en`
-
-Special bus services are in operation on Monday (April 15) and Tuesday (April 16) for people to return to Colombo after the Sinhala and Tamil New Year holidays, the National Transport Commission (NTC) said.
-
-The Chairman of NTC Shashi Welgama stated that the additional buses have been deployed according to the requirements of passengers.
-
-Meanwhile, special train services are also in place from Badulla, Galle and Beliatta railway stations to Colombo Fort, according to the Department of Railways.
-
-◼️
-
-[Data](articles/bc773f3c.json)
-
-[Extended Data](ext_articles/bc773f3c.ext.json)
 
 ---

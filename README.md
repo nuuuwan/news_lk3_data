@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 17:35:09**
+As of **2024-04-15 17:54:21**
 
 ## Newspaper Stats
 
-*Scraped **18,935** Articles*
+*Scraped **18,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,052
-adalk | 1,578
+adalk | 1,581
 tamilmirrorlk | 2,217
 adaderanalk | 2,285
 virakesarilk | 2,820
-dailymirrorlk | 2,916
-adaderanasinhalalk | 3,089
+dailymirrorlk | 2,918
+adaderanasinhalalk | 3,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,932 (100.0%) of 18,935 articles have been extended.
+18,935 (100.0%) of 18,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### පැවිදි දිවියට එළැඹීමට ඇදහිය නොහැකි ධනයක් පරිත්‍යාග කළ යුවළ
+
+*2024-04-15 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195656) · `si`
+
+පැවිදි දිවියට එළැඹිම සඳහා සිය ධනය මුළුමනින්ම පරිත්‍යාග කළ යුවළක් පිළිබඳව පුවතක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+ඉන්දියාවේ ගුජරාටයේ ජෛන ආගම අදහන යුවළක් මෙම තීරණය ගෙන ඇති බව එම මාධ්‍ය වාර්තා කර ඇත.
+
+එහිදී ඔවුන් ජනතාව වෙත බෙදා දී ඇති ධනය ඉන්දීය රුපියල් කෝටි 200කට ආසන්න බව එම වාර්තා පෙන්වාදී තිබේ.
+
+මොවුන් පසුගිය පෙබරවාරි මාසයේදී මෙලෙස සිය ධනය පරිත්‍යාග කර ඇති අතර අප්‍රේල් මාසය අවසානයේ පැවිදි දිවියට එළැඹීමට නියමිත බවට වාර්තා වෙයි.
+
+2022 වර්ෂයේදී ඔවුන්ගේ දියණිය සහ පුත්‍රයාද මෙලෙස පැවිදිදිවියට එළැඹ තිබීම විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/420a98fb.json)
+
+---
+
+### Back to Colombo...
+
+*2024-04-15 17:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Back-to-Colombo/110-280715) · `en`
+
+People begin arriving in Colombo after the Sinhala and Tamil New Year celebrations. Long-distance buses were deployed to beef up transportation. Pix by Kushan Pathiraja
+
+◼️
+
+[Data](articles/0e2c5143.json)
+
+---
+
+### අවුරුදු සමයේ නිවසේ සිදු වු අනතුරු වලින් දරුවන් දෙදෙනෙකුගේ දිවි අහිමිවේ
+
+*2024-04-15 17:08:33* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-සමයේ-නිවසේ-සිදු-වු-අනතුරු-වලින්-දරුවන්-දෙදෙනෙකුගේ-දිවි-අහිමිවේ/11-409090) · `si`
+
+මිදුලේ තබා තිබූ කොන්ක්‍රීට්වලින් සාදන ලද ජිරාෆ් සත්ත්වයෙකුගේ පිළිරුවක් කඩා වැටීමෙන් බරපතළ තුවාල ලැබූ  08 හැවිරිදි කුඩා දරුවෙකු අවාසනාවන්ත ලෙස මියගොස් ඇති බව හෙට්ටිපොළ, දිග්ගලගෙදර ප්‍රදේශයෙන් වාර්තාවේ.
+
+එම දරුවාගේ නිවසේ  ජිරාෆ්ගේ පිළිරුවක් මෙලෙස දරුවාගේ සිරුර මතට කඩාවැටී ඇති බව පොලීසිය පවසයි.
+
+එමෙන්ම පොලොන්නරුව අරලගංවිල රුහුණුගම ගම්මානයේ නිවෙසක ප්ලාස්ටික් ජල ටැංකියක් හිස මතට කඩා වැටීම නිසා  අවුරුදු 03ක දැරියක මියගොස් ඇතැයි වාර්තාවේ.
+
+ජල කරාමය අසලට ගොස් කරාමය විවෘත කර ඇති අවස්තාවේ වැසිකිළියේ වහලය උඩ තිබූ ජලය සහිත ප්ලාස්ටික් ජල ටැංකියක් ඇයගේ හිස මතට කඩා වැටී, ඇය ඊට යටවී ඇති බව ඇති බව පොලිසිය පවසයි.
+
+◼️
+
+[Data](articles/769b1871.json)
+
+---
 
 ### Sundar C's 'Palace 4' update
 
@@ -71,6 +121,8 @@ This incident did not disrupt railway traffic, and an investigation will be cond
 ◼️
 
 [Data](articles/5ed7f899.json)
+
+[Extended Data](ext_articles/5ed7f899.ext.json)
 
 ---
 
@@ -115,6 +167,28 @@ Police and local residents have launched an operation to find the missing person
 ◼️
 
 [Data](articles/8cbda66a.json)
+
+[Extended Data](ext_articles/8cbda66a.ext.json)
+
+---
+
+### සුමනරතන හිමිගේ ආරක්ෂාවට සිටි සිවිල් ආරක්ෂකයින් ඉවත් කරයි
+
+*2024-04-15 16:51:55* · [`adalk`](https://www.ada.lk/breaking_news/සුමනරතන-හිමිගේ-ආරක්ෂාවට-සිටි-සිවිල්-ආරක්ෂකයින්-ඉවත්-කරයි/11-409089) · `si`
+
+තමන්ට දැඩි ජීවිත තර්ජනයක් තිබියදි, ජීවිත තවදුරටත් අනාරක්ෂිත තත්ත්වයට පත් කරමින් වසර තිහකට අධික කාලයක්
+
+තම ජීවිත ආරක්‍ෂාවට සිටි, සිවිල් ආරක්ෂක නිලධාරීන් පස්දෙනා ඇතුළු සියලු ආරක්‍ෂ නිලධාරීන් 11 වෙනිදා ඉවත් කිරීමට ආරක්ෂක අංශ පියවර ගැනීම කනගාටුවට කරුණක් බව මඩකලපුව ශ්‍රී මංගලාරාමාධිපති අම්පිටියේ සුමනරතන නාහිමියන් 15 වෙනිදා සවස මඩකලපුව පන්සල්ගල රජමහා විහාරයේ දී මාධ්‍ය සාකච්ඡාවක් පවත්වමින් සඳහන් කළහ.
+
+2023 වසරේ පෙබරවාරි 23 වෙනිදා වෙඩි ප්‍රහාරයට ලක්ව තමන් අනු නවයෙන් බේරුණු බවත්, එම සිද්ධියේ පරීක්ෂණ යට ගසමින් තිබෙන අවස්ථාවක තමන්ගේ ආරක්‍ෂාවට සිටි සියලු ආරක්ෂක නිලධාරීන් ඉවත් කිරීමෙන් අනතුරුව තමන්ගේ ජීවිතයට යම් හානියක් සිදු වුවහොත්, ඊට එම නිලධාරීන් ඉවත් කළ සියලූ ආරක්ෂක අංශවල උසස් නිලධාරීන් වගකිය යුතු බවද සුමනරතන නාහිමියන් සඳහන් කළහ.
+
+වසර තිහක කුරිරු යුද්ධයේදී එල් .ටී.ටී. ඊ ත්‍රස්තවාදීන් සමඟ ගැටෙමින් නැගෙනහිර පළාතේ සිංහල ජනතාව දිවි හිමියෙන්
+
+බේරාගත් තමන්ට ආරක්‍ෂාවට සිටි එම සිවිල් ආරක්ෂක භටයින් හිටිහැටියේ ඉවත් කිරීම, තම ජීවිතයට දැඩි බලපෑමක් එල්ල වී ඇති බවද අම්පිටියේ සුමනරතන නාහිමියන් මෙහිදී සඳහන් කළහ,
+
+...
+
+[Data](articles/b234739e.json)
 
 ---
 
@@ -247,6 +321,20 @@ The government has issued a special transport service schedule implemented from 
 [Data](articles/4a1ebaa0.json)
 
 [Extended Data](ext_articles/4a1ebaa0.ext.json)
+
+---
+
+### වාහන ආනයන සීමා ඉවත් කිරීමට විශේෂ කමිටුවක්
+
+*2024-04-15 16:34:29* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයන-සීමා-ඉවත්-කිරීමට-විශේෂ-කමිටුවක්/11-409088) · `si`
+
+අවශ්‍යතා අනුව ප්‍රමුඛතා අනුපිළිවෙලක් යටතේ  වාහන ආනයන සම්බන්ධයෙන් සීමා ඉවත් කිරීමට මේ වනවිට විශේෂ කමිටුවක් පත්කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ මුදල් රාජ්‍ය අමාත්‍යවරයා පැවසුවේ. මේ වන විට සංචාරක කර්මාන්තය සඳහා අවශ්‍ය  වෑන් රථ 750 ක්  සහ බස් රථ 250ක් ආනයනය කිරීමට අවස්ථාව දුන් බවත්. මෙරට විදෙස් සංචිත ඩොලර් බිලියන 5 ඉක්මවා ඉහළ යෑමත් සමග අවශ්‍යතාව පරිදි ක්‍රමානුකූලව වාහන ආනයන සීමා ලිහිල් කිරීමට කටයුතු කරන බව රංජිත් සියඹලාපිටිය මහතා තව දුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/b073a996.json)
 
 ---
 
@@ -421,6 +509,8 @@ Furthermore, there were only a few incidents of motor accidents, domestic accide
 ◼️
 
 [Data](articles/73078d64.json)
+
+[Extended Data](ext_articles/73078d64.ext.json)
 
 ---
 
@@ -727,6 +817,18 @@ Commerce Minister Nalin Fernando has said that the price of eggs will be importe
 [Data](articles/50ac7bc0.json)
 
 [Extended Data](ext_articles/50ac7bc0.ext.json)
+
+---
+
+### Growth in tourist arrivals...
+
+*2024-04-15 14:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Growth-in-tourist-arrivals/110-280711) · `en`
+
+Even after the Sinhala and Tamil New Year festivals, some foreign tourists were seen walking in the streets of Colombo. According to the reports by the Sri Lanka Tourism Development Authority, Sri Lanka crossed the 50,000 mark of tourist arrivals during the first nine days of April. Pix By Pradeep Pathirana
+
+◼️
+
+[Data](articles/862059b5.json)
 
 ---
 
@@ -2193,147 +2295,5 @@ Ruthuraj Gaygwad faced 40 balls and scored 69 runs with 5 pounds and 5 sixes.
 [Data](articles/a8187379.json)
 
 [Extended Data](ext_articles/a8187379.ext.json)
-
----
-
-### President participated in the New Year's event
-
-*2024-04-15 00:22:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டு-நிகழ்வில்-ஜனாதிபதி-பங்கேற்றார்/175-335947) · `ta`
-
-President Ranil Wickremesinghe attended the New Year's event in Nuwara Eliya, engaging in sports and cultural activities, and promised to address local issues.
-
-🟩
-
-President Ranil Wickremesinghe participated in the New Year's anniversary organized by the Nuwara Eliya - Mebilipana 'Abhi Youth' Youth Organization yesterday.
-
-In accordance with traditional rituals, this event included a number of sports and cultural features.
-
-President Ranil Wickremesinghe, who arrived at the place where the New Year event was held, was also presented with prizes after watching some matches.
-
-He discussed with the people of the area who came to see the New Year's Eve. He promised to solve the problems made by the people at the time. (A)
-
-◼️
-
-[Data](articles/ca382202.json)
-
-[Extended Data](ext_articles/ca382202.ext.json)
-
----
-
-### Sri Lankans are safe in Israel
-
-*2024-04-15 00:17:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலில்-இலங்கையர்கள்-பாதுகாப்பாக-உள்ளனர்/175-335946) · `ta`
-
-Sri Lankans in Israel are safe, according to the Sri Lankan embassy, despite Iran's attacks on Israel. Sri Lankan Ambassador Nimal Bandara confirmed this, noting his travel with Sri Lankans from Dubai to Tel Aviv.
-
-🟩
-
-Sri Lankans in Israel are safe, the Sri Lankan embassy in Israel said.
-
-The announcement has been made regarding Sri Lankans in Israel as Iran has launched an unmanned aircraft and missile attacks on Israel.
-
-Accordingly, Sri Lankan Ambassador to Israel Nimal Bandara said that Sri Lankans in Israel are safe.
-
-At this juncture, he made it clear that he was traveling with a group of Sri Lankans from Dubai to Tel Aviv. (A)
-
-◼️
-
-[Data](articles/896b019b.json)
-
-[Extended Data](ext_articles/896b019b.ext.json)
-
----
-
-### 2024-04-14 (Sunday)
-
-### Increase in high -speed highway traffic
-
-*2024-04-14 23:55:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலை-போக்குவரத்து-அதிகரிப்பு/175-335945) · `ta`
-
-Highway traffic increased by 10%, with 128,000 vehicles yesterday, earning Rs 4.44 crore. Revenue from 10th to yesterday exceeded Rs 15 crore.
-
-🟩
-
-Traffic on highways has increased by 10 per cent, the Expressway's Operations and Maintenance Unit said.
-
-Accordingly, the Director of the Division RID said that 128,000 vehicles were traffic on highways yesterday.. Said Kahadapitiya.
-
-He added that 4 crore 44 lakhs of rupees have been earned through this.
-
-Meanwhile, from the 10th to yesterday, the revenue of highways will be over Rs 15 crore.. (A)
-
-◼️
-
-[Data](articles/bbea3dd7.json)
-
-[Extended Data](ext_articles/bbea3dd7.ext.json)
-
----
-
-### Special announcement for people coming to Colombo
-
-*2024-04-14 23:34:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்புக்கு-வரும்-மக்களுக்கு-விஷேட-அறிவிப்பு/175-335944) · `ta`
-
-New train services for out-of-province travelers in Colombo start today and tomorrow. Railway Department office hours remain unchanged.
-
-🟩
-
-Railway Deputy General Manager Nandana Indipolake said that additional train services for people from outside provinces have been launched from today.
-
-Accordingly, today and tomorrow will be operated on the additional train service. The Railway Department said that the office of the office will be held as usual from the 16th of the day.
-
-◼️
-
-[Data](articles/357a1b86.json)
-
-[Extended Data](ext_articles/357a1b86.ext.json)
-
----
-
-### Many people are conspiring to confuse the general candidate's answer - Sabah Kukadas
-
-*2024-04-14 23:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/181079) · `ta`
-
-Sabah Kukadas, a former Northern Provincial Council member, accuses the Tamil National Alliance and other Tamil national parties of conspiring to confuse the Tamil diaspora in the presidential election. He suggests these parties are agents of indirect state and external forces, criticizing the general candidate without permission. Parliamentarian Sumanthiran has expressed suspicion that Rajapakse is behind the general candidate's response, highlighting a divide in the Tamil party's unity.
-
-🟩
-
-Former Northern Provincial Council member Saba Kukadas has accused some of the Tamil party conspiring to confuse the Tamil diaspora Tamils in the upcoming presidential election.
-
-He said this in a media report issued on Saturday (13). In the report further,
-
-The Tamil National Alliance and some others in the Tamil national parties and some others have become the agents of indirect state and external forces, beyond criticizing the general candidate on behalf of the state.
-
-Recently, Parliamentarian Sumanthiran expressed suspicion that Rajapakse was behind the general candidate's response.. Some people like him have jumped into conspiracies, such as the names of the candidates without the permission of those who are appointed before the unity of the parties and civil organizations.
-
-...
-
-[Data](articles/bf79154b.json)
-
-[Extended Data](ext_articles/bf79154b.ext.json)
-
----
-
-### Jaffna in Sri Lanka's Pioneer Group for World Cup. Youth Vijayakanth Vyaskant
-
-*2024-04-14 22:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181078) · `ta`
-
-Jaffna's Vijayakanth Vyaskant leads Sri Lanka's World Cup team, featuring top T20 players.
-
-🟩
-
-The Sri Lankan pioneer in Jaffna, named after the ICC Men's R20 World Cup, to be held in June in the United States and the West Indies.. Former President of Central College Vijayakanth Vyaskant has been named.
-
-Sri Lankan cricket selectors have already been named as the captain of the Hazaranga Team and the Assistant Leader of the Sarid Asalanga.
-
-Recently, many of the best players, including all -rounder players who have been capable of talented in international T20 cricket matches, have been featured in the group.
-
-All the other players who have played in the Indian Premier League cricket matches will join the Tamil and Sinhala New Year celebration.
-
-...
-
-[Data](articles/53d97be4.json)
-
-[Extended Data](ext_articles/53d97be4.ext.json)
 
 ---

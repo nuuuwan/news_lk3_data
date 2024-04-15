@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 13:33:46**
+As of **2024-04-15 13:51:24**
 
 ## Newspaper Stats
 
-*Scraped **18,895** Articles*
+*Scraped **18,896** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,576
 tamilmirrorlk | 2,212
 adaderanalk | 2,280
 virakesarilk | 2,809
-dailymirrorlk | 2,909
+dailymirrorlk | 2,910
 adaderanasinhalalk | 3,081
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,895 (100.0%) of 18,895 articles have been extended.
+18,895 (100.0%) of 18,896 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### Covid death reported from Jaffna Hospital
+
+*2024-04-15 13:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Covid-death-reported-from-Jaffna-Hospital/108-280710) · `en`
+
+Jaffna, April 15 (Daily Mirror)- A 62-year-old woman who was receiving treatment at the Jaffna Hospital died of Covid-19, hospital sources said.
+
+The woman, a resident of Jaffna had arrived from France last week and was admitted to the Jaffna Hospital due to fever.
+
+She had died last Friday (12) and the post-mortem report which was received today had revealed that the death was due to Covid-19.
+
+Public Health Inspectors (PHIs) have taken steps to trace her close contacts.
+
+◼️
+
+[Data](articles/ec3c0495.json)
+
+---
 
 ### Woman girl shot dead
 
@@ -2347,37 +2365,5 @@ The Department of Meteorology urges the public to take necessary steps to reduce
 [Data](articles/f39c3772.json)
 
 [Extended Data](ext_articles/f39c3772.ext.json)
-
----
-
-### Notice of Sri Lankans in the middle of the attacks on Israel
-
-*2024-04-14 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195620) · `si`
-
-Sri Lanka's Ambassador to Israel, Nimal Bandara, issued a statement regarding a plane from Dubai to Tel Aviv, reportedly involved in an attack on Tel Aviv. Bandara is investigating the incident and assures Sri Lankans in Israel of safety. Meanwhile, Iran launched missile attacks on Israel, but the Iron DETE system reportedly neutralized them. Bandara also highlighted the impact of travel restrictions on air tickets to the Middle East and Europe.
-
-🟩
-
-In the Middle East conflicts, Iran had launched a series of drones and missiles to Israel last night.
-
-Sri Lanka's ambassador to Israel, Sri Lanka's Ambassador to Israel has issued an announcement.
-
-It also explains the plane flying from Dubai to Tel Aviv with a group of Sri Lankans.
-
-Flay Dubai FZ-1625, FZ-1625, was reported in connection with the attack on Tel Aviv on 20.10 last night, he said.
-
-At the same time, Mr. Nimal Bandara has stated that steps have been taken to conquer the plane and flowing to Dubai.
-
-According to Nimal Bandara, he is working to uncover information about Sri Lankans who were on the occasion.
-
-Meanwhile, the Sri Lankan Ambassador further said that a function held at the Jeritians of the Jerusalem Shance of Two Sri Lankans on April 13 and then they had gone to their homes.
-
-Sri Lankan Ambassador Nimal Bandara further requested that the embassy is in focus and not to fear the Sri Lankans in Israel.
-
-...
-
-[Data](articles/18edad2e.json)
-
-[Extended Data](ext_articles/18edad2e.ext.json)
 
 ---

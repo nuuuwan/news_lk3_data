@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 18:51:59**
+As of **2024-04-15 19:03:27**
 
 ## Newspaper Stats
 
-*Scraped **18,946** Articles*
+*Scraped **18,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,052
-adalk | 1,581
+adalk | 1,582
 tamilmirrorlk | 2,217
-adaderanalk | 2,287
-virakesarilk | 2,822
+adaderanalk | 2,288
+virakesarilk | 2,823
 dailymirrorlk | 2,918
 adaderanasinhalalk | 3,091
 
@@ -26,35 +26,81 @@ adaderanasinhalalk | 3,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,945 (100.0%) of 18,946 articles have been extended.
+18,946 (100.0%) of 18,949 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### ඉපැරණි පතහා ළිඳට පුංචි දරුවෙකු බිලිවෙයි
+### In a historic first, Trump’s criminal hush money trial kicks off in New York
+
+*2024-04-15 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98650/in-a-historic-first-trumps-criminal-hush-money-trial-kicks-off-in-new-york) · `en`
+
+Donald Trump arrived at a Manhattan court for a historic criminal trial stemming from a hush-money payment to a porn star that could keep him in court for weeks and complicate his bid to win back the White House.
+
+Trump, 77, is the first former U.S. president to face a criminal trial. He is required to attend the trial in Manhattan, which could last through May. Jury selection is expected to take about a week, followed by witness testimony.
+
+Police stood guard in front of the courthouse amid a maze of barricades ahead of the trial’s 9:30 a.m. (1330 GMT) start, and helicopters shadowed the motorcade of black SUVs that ferried Trump from his Trump Tower apartment.
+
+A handful of protesters, gathered in the plaza across the street, carried hand-painted signs reading “LOSER” and “convict Trump already.”
+
+Though the case is regarded by some legal experts as the least consequential of the four criminal prosecutions he faces, it is the only one guaranteed to go to trial before the Nov. 5 election.
+
+...
+
+[Data](articles/58722dea.json)
+
+---
+
+### நேபாள கிரிக்கெட் வீரர் திப்பேந்த்ரா சிங்; ஒரே ஒவரில் 6 சிக்ஸ்கள் விளாசல்
+
+*2024-04-15 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181174) · `ta`
+
+சர்வதேச ரி20 கிரிக்கெட் போட்டியில் ஒரே ஒவரில் 6 சிக்ஸ்களை விளாசி நேபாள கிரிக்கெட் வீரர் திப்பேந்த்ரா சிங் ஆய்ரீ வரலாறு படைத்துள்ளார்.
+
+சர்வதேச ரி20 கிரிக்கெட் போட்டி ஒன்றில் ஒரே ஓவரில் 6 சிக்ஸ்கள் விளாசிய மூன்றாவது வீரர் திப்பேந்த்ரா சிங் ஆவார்.
+
+ஆசிய கிரிக்கெட் பேரவையினால் ஏற்பாடு செய்யப்பட்டுள்ள சர்வதேச ரி20 பிறீமியர் கிண்ண கிரிக்கெட் சுற்றுப் போட்டியில் கத்தாருக்கு எதிராக அல் அமீரத் விளையாட்டரங்கில் இந்த அரிய மைல்கல் சாதனையை திப்பேந்த்ரா சிங் ஆய்ரீ நிலைநாட்டினார்.
+
+சர்வதேச ரி20 கிரிக்கெட் போட்டியில் இந்த சாதனைக்கான பட்டியலில் இந்தியாவின் யுவ்ராஜ் சிங், மேற்கிந்தியத் தீவுகளின் கீரன் பொலார்ட் ஆகியோருடன் ஆய்ரீ இணைந்துகொண்டுள்ளார்.
+
+இங்கிலாந்துக்கு எதிராக 2007இல் நடைபெற்ற ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியிலேயே யுவ்ராஜ் சிங் முதலாவது வீரராக ஒரே ஓவரில் 6 சிக்ஸ்களை விளாசியிருந்தார். ஸ்டுவர்ட் ப்றோடின் ஓவரிலேயே யுவ்ராஜ் சிங் இந்த சாதனையை முதன் முதலில் நிலைநாட்டியிருந்தார்.
+
+...
+
+[Data](articles/4002864d.json)
+
+---
+
+### Anchola and the well kills a little child
 
 *2024-04-15 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195657) · `si`
 
-ගම්පොළ නගරයේ අඹගමුව වීදියේ ඇති ඉපැරණි අනාරක්ෂිත ළිඳක් වන පතහා ළිඳට ඇදවැටීමෙන් කුඩා දරුවෙකු මියගොස් ඇත.
+A 9-year-old child from Jawatta, Colombo, was killed by an ancient well in Gampola. The incident occurred when the child went to a store near their home in Mahagedara. Residents found the child in the well and rushed them to the hospital, but the child had already died.
 
-මෙලෙස මියගොස් ඇත්තේ එම කොළඹ ජාවත්ත ප්‍රදේශයේ පදිංචිව සිටි වයස අවුරුදු 9ක කුඩා දරුවෙකි.
+🟩
 
-දරුවාගේ මව්පියන් ගම්පොළ ප්‍රදේශයේ පදිංචිකරුවන් වන අතර නිවාඩු කාලයේ ඔවුන් සිය මහගෙදර වෙත පැමිණ සිටි අවස්ථාවේ මෙම අනතුර සිදුව ඇත.
+A child has been killed by an ancient well on the wells at Ambagamuwa Street, Gampola.
 
-එහිදී දරුවා නිවසේ සෙල්ලම් කරමින් සිට ඇති අතර මව වෙළෙඳසැලකට ගොස් සිට ඇත.
+The deceased has been identified as a 9 year old childhood in Jawatta, Colombo.
 
-නැවත සිය නිවස වෙත පැමිණි මව දරුවා නොමැති බව දැක කලබලයට පත්ව සොයාබැලීමේදී ප්‍රදේශවාසීන්ද දරුවා සෙවීමට එක්ව තිබේ.
+The child's parents are residents of the Gampola area and the accident had occurred when they returned to his Mahagedara.
 
-එහිදී ප්‍රදේශවාසීන් එම නිවස ආසන්නයේ ඇති පතහා ළිඳට බැස සෝදිසි කිරීමේදී එහි වැටී දියේ ගිලී සිටි දරුවා සොයාගෙන ඇති බවට වාර්තාවෙයි.
+The child was playing at home and had gone to a mother store.
 
-අනතුරුව දරුවා කඩිනමින් ගම්පොළ රෝහල වෙත ඇතුළත් කිරීමට පියවර ගෙන තිබුණ ද ඒ වනවිටත් දරුවා මියගොස් තිබූ බව අනාවරණය වී ඇත.
+The residents of the area have participated in the search for the child when the mother returned to her home.
 
-ප්‍රදේශවාසීන් පවසන්නේ මීට පෙර ද එම අනාරක්ෂිත ළිඳට ම ඇදවැටීමෙන් කාන්තාවක් සහ කුඩා දරුවෙකු ද මියගොස් ඇති බවය.
+It is reported that the residents of the area recovered the child who had dropped the well and dropped.
+
+The child had then admitted to the Gampola hospital, but the child had already died.
+
+Residents say that before they had died, a child and a child had died.
 
 ◼️
 
 [Data](articles/2472973e.json)
+
+[Extended Data](ext_articles/2472973e.ext.json)
 
 ---
 
@@ -175,6 +221,26 @@ In the year 2022, their daughter and son had come to the obscene.
 [Data](articles/420a98fb.json)
 
 [Extended Data](ext_articles/420a98fb.ext.json)
+
+---
+
+### ඊශ්‍රායෙලයේ ලාංකිකයන් ගැන අනියත බියක් එපා
+
+*2024-04-15 17:26:51* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙලයේ-ලාංකිකයන්-ගැන-අනියත-බියක්-එපා/11-409091) · `si`
+
+ඊශ්‍රායලයේ සිටින ශ්‍රී ලාංකිකයන් සම්බන්ධයෙන් තානාපති කාර්යාලය අවධානයෙන් පසුවන බවත්, ඒ සම්බන්ධයෙන් අනියත බියක් ඇතිකර නොගන්නා ලෙසත් ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා සියලු ශ්‍රී ලාංකිකයන්ගෙන් ඉල්ලා සිටියි.
+
+මේ අතර ඉරානය විසින් පසුගියදා (13දා) රාත්‍රියේ ෂෙල් සහ මිසයිල ප්‍රහාර 500කට වඩා වැඩි ප්‍රමාණයක් ඊශ්‍රායලය වෙත එල්ලකර තිබුණ ද මේ දක්වා තුවාලකරුවන් ලෙස එක් කුඩා දියණියක් පමණක් වාර්තා වී ඇති බවද ඒ මහතා පවසයි.
+
+එම ප්‍රහාර සියල්ල ගුවනේදීම විනාශ කිරීමට  Iron Dome පද්ධතිය සමත්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබු බව ද ඔහු සඳහන් කරයි.
+
+පවතින තත්ත්වය හමුවේ ජෝර්දානය, ලෙබනනය, ඉරාකය ඊශ්‍රායලය ආදී රටවල් වෙත ගමන් ගන්නා ගුවන් ගමන් එම කලාපය මගහැර නැවත වෙනත් ගුවන් මාර්ග ඔස්සේ යුරෝපයේ බොහෝ රටවල් වෙත ගමන් කිරීම හේතුවෙන් එම ගමන් සඳහා ගතවන කාලය සහ ප්‍රවේශ පත්‍ර ගාස්තුව ද ඉහළ ගොස් ඇති බව ඒ මහතා වැඩිදුරටත් පෙන්වා දෙයි.
+
+මේ හේතුවෙන් මැදපෙරදිග කලාපයේ සහ යුරෝපීය රටවල් වෙත ගමන් කිරීමට ගුවන් ප්‍රවේශ පත්‍ර ලබාගෙන ඇති පිරිස එම ප්‍රවේශ පත්‍ර පිළිබඳව නැවත අවධානය යොමුකරන ලෙසට ද නිමල් බණ්ඩාර මහතා ඉල්ලා සිටියි.
+
+...
+
+[Data](articles/61633f6c.json)
 
 ---
 
@@ -2223,85 +2289,5 @@ Accordingly, in the Western, Sabaragamuwa, Uva and Southern provinces, the Ampar
 [Data](articles/c3a5314e.json)
 
 [Extended Data](ext_articles/c3a5314e.ext.json)
-
----
-
-### Can parents, teachers post the photos of their children in social media?
-
-*2024-04-15 05:13:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1e85p8yx2qo) · `si`
-
-Parents and teachers can post children's photos on social media, but it's crucial to consider the child's consent and potential harm. Experts advise caution, especially with nude photos, to protect children's privacy and safety.
-
-🟩
-
-Can parents, teachers post the photos of their children in social media?
-
-The boy is defined in the security of the Surveying Act No. 9 of 2024.
-
-The expert opinion that children can take place in various child abuse, including Facebook, including Facebook.
-
-However, parents and teachers are common in the social media.
-
-Under normal circumstances, one's photographs must be taken by the person in the photograph to post in social media.
-
-However, experts who appear to protect cyber defense are not a successful way to express children photos of children in social media.
-
-...
-
-[Data](articles/c8e7da31.json)
-
-[Extended Data](ext_articles/c8e7da31.ext.json)
-
----
-
-### People Selvan: Vijay Sethupathi - Arya's 'Ons Aban A Time in Madras'
-
-*2024-04-15 03:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181085) · `ta`
-
-"'Ons Aban A Time in Madras' first look released, featuring Bharat, Vijay Sethupathi, and Arya. Directed by Prasad Murugan, music by Jose Franklin, produced by Captain M and B. Anand. Shooting complete, final phase ongoing."
-
-🟩
-
-The first look of 'Ons Aban A Time in Madras' has been released by actor Bharat starring in the star status of Tamil film industry fans.. 'People Selvan' Vijay Sethupathi and 'Arya' Arya have posted this on their web page and congratulated the film crew.
-
-Directed by director Prasad Murugan starring Bharat, Abhirami, Anjali Nair, Pavithra Lakshmi, Shaun, BG, Rajaji, Arul De Shankar, Syed, directed by director Prasad Murugan.. K. S.. Kalidas and R. The film, which has been recorded by Kannan, has composed the music of Jose Franklin.Producer Captain M on behalf of Dream House and Friday Film Factory. B.. Anand has produced.
-
-The shooting of the film is completed and the final phase of the work is going on. In this case, the first look of the film has been released. The actor's character's appearance in the first look has attracted a lot of fans as it is different.
-
-◼️
-
-[Data](articles/b55dcdc6.json)
-
-[Extended Data](ext_articles/b55dcdc6.ext.json)
-
----
-
-### President participates in New Year's Eve of Nuwara Eliya - Mebilipana Youth Organization
-
-*2024-04-15 03:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/181084) · `ta`
-
-President Ranil Wickremesinghe attended the New Year's Eve event in Nuwara Eliya, organized by the Mebilipana "Abhi Youth" Youth Organization, engaging in sports and cultural activities. He met with locals, promised to address their concerns, and participated in the Tamil Sinhalese New Year celebrations across the country.
-
-🟩
-
-President Ranil Wickremesinghe participated in the New Year's Eve organized by the Nuwara Eliya - Mebilipana "Abhi Youth" Youth Organization today (14).
-
-In accordance with traditional rituals, the event included a number of sports and cultural features.
-
-President Ranil Wickremesinghe, who arrived at the place where the New Year was held, was also presented with the winners of the bicycle competition after watching some matches.
-
-He discussed with the people of the area who came to see the New Year's Eve and promised to solve the problems made by the people at the time.
-
-The Tamil Sinhalese New Year event was organized in several Divisional Secretariat Divisions across the country.
-
-The highlight of this year's New Year events has occurred than last year.
-
-Tourism, Land, Sports and Youth Affairs Minister Harin Fernando and some local politicians participated in the Nuwara Eliya - Mebilipana New Year event.
-
-◼️
-
-[Data](articles/fd94ca9c.json)
-
-[Extended Data](ext_articles/fd94ca9c.ext.json)
 
 ---

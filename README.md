@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 16:49:29**
+As of **2024-04-15 17:03:34**
 
 ## Newspaper Stats
 
-*Scraped **18,921** Articles*
+*Scraped **18,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,052
-adalk | 1,576
+adalk | 1,578
 tamilmirrorlk | 2,217
-adaderanalk | 2,284
-virakesarilk | 2,814
+adaderanalk | 2,285
+virakesarilk | 2,818
 dailymirrorlk | 2,913
 adaderanasinhalalk | 3,087
 
@@ -26,27 +26,137 @@ adaderanasinhalalk | 3,087
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,919 (100.0%) of 18,921 articles have been extended.
+18,921 (100.0%) of 18,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක්
+### ராகவா லோரன்ஸ் நடிக்கும் 'ஹண்டர்'
+
+*2024-04-15 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181145) · `ta`
+
+நடன இயக்குநரும், நட்சத்திர நடிகருமான ராகவா லோரன்ஸ் கதையின் நாயகனாக நடிக்கும் புதிய திரைப்படத்திற்கு 'ஹண்டர்' என பெயரிடப்பட்டு, அதன் டைட்டில் லுக் வெளியிடப்பட்டிருக்கிறது.
+
+அறிமுக இயக்குநர் வெங்கட் மோகன் இயக்கத்தில் உருவாகும் 'ஹண்டர்' எனும் திரைப்படத்தில் ராகவா லோரன்ஸ் கதையின் நாயகனாக நடிக்கிறார்.
+
+ஓம் பிரகாஷ் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு 'ராக் ஸ்டார்' தேவி ஸ்ரீ பிரசாத் இசையமைக்கிறார். எக்சன் எண்டர்டெயினராக தயாராகும் இந்த திரைப்படத்தை சத்யஜோதி பிலிம்ஸ் டி.ஜி. தியாகராஜன் வழங்க, கோல்ட்மைன் பிலிம்ஸ் சார்பில் தயாரிப்பாளர் மனிஷா  ஷா தயாரிக்கிறார்.
+
+'ஜிகர்தண்டா டபுள் எக்ஸ்' படத்தின் வெற்றிக்குப் பிறகு ராகவா லோரன்ஸ் தொடர்ந்து அடுத்தடுத்து இரண்டு படங்களில் நடிக்க ஒப்புக் கொண்டிருப்பது அவருடைய ரசிகர்களை உற்சாகப்படுத்தி இருக்கிறது.
+
+◼️
+
+[Data](articles/50958a58.json)
+
+---
+
+### இயக்குநர் முத்தையாவின் ‘சுள்ளான் சேது’ ஃபர்ஸ்ட் லுக் வெளியீடு
+
+*2024-04-15 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181148) · `ta`
+
+தமிழக மண் சார்ந்த படைப்புகளை உணர்வுபூர்வமாக படைத்து ரசிகர்களை வசப்படுத்தி இருக்கும் இயக்குநர் முத்தையாவின் வாரிசான அறிமுக நடிகர் விஜய் முத்தையா நடிப்பில் தயாராகும் திரைப்படத்திற்கு, 'சுள்ளான் சேது' என பெயரிடப்பட்டு, அதன் ஃபர்ஸ்ட் லுக்  மற்றும் செகண்ட் லுக் ஆகியவை வெளியிடப்பட்டிருக்கிறது.
+
+'குட்டி புலி', 'கொம்பன்', 'மருது', 'கொடிவீரன்', 'தேவராட்டம்', 'புலிக்குத்தி பாண்டி', 'விருமன்', 'காதர் பாட்ஷா என்கிற முத்துராமலிங்கம்' ஆகிய படங்களை இயக்கிய இயக்குநர் எம். முத்தையா இயக்கத்தில் உருவாகும் 'சுள்ளான் சேது' எனும் திரைப்படத்தில் விஜய் முத்தையா கதையின் நாயகனாக அறிமுகமாகிறார். இவருக்கு ஜோடியாக நடிகை பிரிகிடா சகா நடிக்கிறார். எம். சுகுமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜென் மார்ட்டின் இசையமைத்திருக்கிறார். கமர்சியல் என்டர்டெய்னராக தயாராகும் இந்த திரைப்படத்தை கே கே ஆர் சினிமாஸ் எனும் பட நிறுவனம் தயாரிப்பில் தயாரிப்பாளர் கே. கே. ரமேஷ் பாண்டியன் தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/5a77cf9d.json)
+
+---
+
+### ரசிகர்களையும் தொண்டர்களையும் விசில் போட சொல்லும் விஜய்
+
+*2024-04-15 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181147) · `ta`
+
+தமிழக வெற்றி கழகத்தின் நிறுவனரும், தமிழ் திரையுலகின் முன்னணி நட்சத்திர நடிகருமான விஜய் நடிப்பில் தயாராகி, செப்டம்பரில் வெளியாக இருக்கும் 'தி கிரேட்டஸ்ட் ஆஃப் ஆல் டைம்'  எனும் தமிழ் திரைப்படத்தில் இடம்பெற்ற 'விசில் போடு' எனும் முதல் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியாகி இருக்கிறது. வெளியான குறுகிய கால அவகாசத்திற்குள் ஏழு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனையும் படைத்திருக்கிறது.
+
+நடிகரும், இயக்குநருமான வெங்கட் பிரபு இயக்கத்தில் உருவாகி வரும் 'GOAT' எனும் திரைப்படத்தில் விஜய், பிரசாந்த், பிரபுதேவா, மோகன், ஜெயராம், சினேகா, லைலா, மீனாட்சி சவுத்ரி  உள்ளிட்ட பல முன்னணி நட்சத்திர கலைஞர்கள் நடித்திருக்கிறார்கள். சித்தார்த்தா நூனி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு யுவன் சங்கர் ராஜா இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஏ ஜி எஸ் என்டர்டெயின்மென்ட் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் கல்பாத்தி எஸ். அகோரம், கல்பாத்தி எஸ். சுரேஷ், கல்பாத்தி எஸ். கணேஷ் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/05e61f23.json)
+
+---
+
+### Sydney rocked by second mass stabbing in days as knifeman attacks bishop and worshippers in church
+
+*2024-04-15 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98647/sydney-rocked-by-second-mass-stabbing-in-days-as-knifeman-attacks-bishop-and-worshippers-in-church) · `en`
+
+A bishop and several worshippers were attacked inside Christ the Good Shepherd Church in the suburb of Wakeley on Monday night just after 7pm.
+
+NSW Police confirmed a man has been arrested following reports a number of people were stabbed.
+
+The force said the injured people suffered non-life threatening injuries and are being treated by emergency services.
+
+The video shows Bishop Mar Mari Emmanuel speaking to the congregation before a man dressed in all black walks up to him and allegedly stabs him a number of times.
+
+Screams can be heard before a live feed of the Mass, which was being shown on YouTube, was quickly cut off.
+
+On Saturday, six people were killed at Westfield Bondi Junction complex.
+
+They have been named as Jade Young, 47, Dawn Singleton, 25, Pikria Darchia, 55, Faraz Tahir, 30, Ashlee Good, 38 and Cheng Yixuan, 25.
+
+A number of others, including a 9-month-old baby, were also injured.
+
+...
+
+[Data](articles/263f4b06.json)
+
+---
+
+### ஆர் ஜே விஜய் நடிக்கும் 'வைஃப்' படத்தின் மோசன் போஸ்டர் வெளியீடு
+
+*2024-04-15 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181142) · `ta`
+
+வானொலி தொகுப்பாளரும், நிகழ்ச்சி தொகுப்பாளரும் , நடிகருமான ஆர் ஜே விஜய் முதல் முறையாக கதையின் நாயகனாக அறிமுகமாகும் 'வைஃப் 'எனும் திரைப்படத்தின் மோஷன் போஸ்டர் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் ஆர். ஹேமநாதன் இயக்கத்தில் உருவாகி வரும் 'வைஃப்' எனும் திரைப்படத்தில் ஆர் ஜே விஜய், அஞ்சலி  நாயர், மைத்ரேயன், ரெடின் கிங்ஸ்லீ , அபிஷேக், ஜோசப், விஜய் பாபு, கல்யாணி நடராஜன், கதிர் உள்ளிட்ட பலர் நடிக்கிறார்கள்.
+
+கே. ஏ. சக்திவேல் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜென் மார்ட்டின் இசையமைத்திருக்கிறார். திருமணமான இளம் தம்பதிகளின் வாழ்வியலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை ஒலிம்பியா மூவிஸ் எனும் பட நிறுவனம் சார்பில் தயாரிப்பாளர் எஸ் அம்பேத்குமார் தயாரித்திருக்கிறார்.
+
+இப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியாகி பெரும் வரவேற்பை பெற்றது. இந்நிலையில் இப்படத்தின் மோஷன் போஸ்டர் வெளியிடப்பட்டிருக்கிறது. இதுவும் இளம் தலைமுறை ரசிகர்களை கவரும் வகையில் வடிவமைக்கப்பட்டிருப்பதால் படத்தை பற்றிய எதிர்பார்ப்பை அதிகரித்திருக்கிறது.
+
+◼️
+
+[Data](articles/a2e754ad.json)
+
+---
+
+### වික්ටෝරියාවේ දිය නෑමට ගිය තරුණ යුවළක් ජීවිතක්ෂයට
+
+*2024-04-15 16:23:26* · [`adalk`](https://www.ada.lk/breaking_news/වික්ටෝරියාවේ-දිය-නෑමට-ගිය-තරුණ-යුවළක්-ජීවිතක්ෂයට/11-409087) · `si`
+
+අද දින දහවල් කාලයේ තෙල්දෙණිය පොලිස් වසමේ කුඹුක්කඳුර ප්‍ර දේශයෙන් වික්ටෝරියා ජලාශයේ දිය නෑමට ගිය තරුණ අඹුසැමි යුවළක් දියේ ගිලී ජීවිතක්ෂයට පත්ව ඇතැයි පොලීසිය කියයි.
+
+අවුරුදු 22ක් වන කාන්තාවගේ සිරුර සොයාගෙන ඇති අතර අවුරුදු 28ක් වන පිරිමි පුද්ගලයා අතුරුදන්ව තිබේ. තිහාරිය පදිංචි යුවළක් මෙසේ ජීවිතක්ෂයට පත්ව තිබේ.
+
+◼️
+
+[Data](articles/fd023ce0.json)
+
+---
+
+### A pronouncement of lightning
 
 *2024-04-15 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195653) · `si`
 
-ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+The Department of Meteorology warns of powerful lightning in Western, Sabaragamuwa, and North Western provinces, including Western, Matara, and Kandy districts. Temporary strong winds may accompany thunderstorms. Take precautions to mitigate lightning risks.
 
-එම නිවේදනයේ දැක්වෙන්නේ බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර දිස්ත්‍රික්කවලත් සවස් කාලයේ දී හෝ රාත්‍රී කාලයේ දී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතින බවය.
+🟩
 
-ගිගුරුම් සහිත වැසි ඇති වනවිට එම ප්‍රදේශවල තාවකාලිකව තද සුළං තත්ත්වයක් ද ඇතිවිය හැකිය.
+The Department of Meteorology has issued an announcement in powerful lightning.
 
-අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The announcement is expected to occur in the Western, Sabaragamuwa and North Western provinces, in the Western, Matara and Kandy districts.
+
+There is also a temporary strong winds in those areas can also be temporarily at the time of thunderstorms.
+
+The Department of Meteorology urges the public to take necessary steps to reduce the dangers of lightning.
 
 ◼️
 
 [Data](articles/3c1854ca.json)
+
+[Extended Data](ext_articles/3c1854ca.ext.json)
 
 ---
 
@@ -74,19 +184,27 @@ The Railway Department has launched a test at the Railway Department regarding t
 
 ---
 
-### பாராளுமன்றத்தில் வேலைவாய்ப்பு
+### Employment in Parliament
 
 *2024-04-15 16:07:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தில்-வேலைவாய்ப்பு/175-335960) · `ta`
 
-இலங்கையின் பாராளுமன்ற வரவு செலவுத் திட்ட அலுவலகத்திற்கான “பாராளுமன்ற வரவு செலவுத் திட்ட அதிகாரி” மற்றும் “பிரதி பாராளுமன்ற வரவு செலவுத் திட்ட அதிகாரி” பதவிகளுக்கு விண்ணப்பங்கள் கோரப்படுகின்றன.
+Sri Lanka's Parliament seeks economists for "Parliament Budget Officer" and "Deputy Parliament Budget Officer" roles, aiming to independently assess financial laws. The Parliamentary Budget Office, established to support public financial responsibilities, will be free from political influence, with a five-year contract and a minimum initial monthly pay of Rs. 665,000 for the Budget Officer and Rs. 560,000 for the Deputy. Applications due by May 6, 2024.
 
-பாராளுமன்றத்தின் அதிகாரப்பூர்வ இணையதளத்தில் அறிவிக்கப்பட்ட காலியிடங்களின்படி, அரசியலமைப்பின் கீழ் பொது நிதிப் பொறுப்புகளை நிறைவேற்றுவதில் சட்டமன்றத்திற்கு உதவுவதற்காக பாராளுமன்ற பட்ஜெட் அலுவலகம் நிறுவப்பட்டுள்ளது.
+🟩
 
-"பாராளுமன்ற பட்ஜெட் அலுவலகம் சுதந்திரமானதாகவும், கட்சி சார்பற்றதாகவும், எந்த அரசியல் செல்வாக்கிலிருந்தும் பிரத்தியேகமாகவும் பாதுகாக்கப்பட்டதாகவும் இருக்கும். இது தகுதிவாய்ந்த பொருளாதார வல்லுனர்களுடன் சரியான முறையில் பணியமர்த்தப்படும், மேலும் உயர்தர பகுப்பாய்வு மற்றும் அறிக்கைகளை தயாரிப்பதில் பணிபுரியும்" என்று அந்த அறிக்கையில் கூறப்பட்டுள்ளது.
+Applications are requested for the posts of "Parliament Budget Officer" and "Deputy Parliament Budget Officer" for the Parliamentary Budget Office in Sri Lanka.
+
+According to vacancies announced on the official website of Parliament, the Parliamentary Budget Office has been established to assist the Legislature in carrying out public financial responsibilities under the Constitution.
+
+“The Parliament Budget Office is free, non -party, and exclusively protected from any political influence. It will be appropriately hired with qualified economists and will work on making high quality analysis and reports, ”the statement said.
+
+Positions are a five -year contract period, while the minimum initial total monthly pay for the post of Parliament Budget Officer along with all other allowances. 665,000 and for the post of Deputy Parliamentary Budget Officer Rs.. 560,000.
 
 ...
 
 [Data](articles/171a3738.json)
+
+[Extended Data](ext_articles/171a3738.ext.json)
 
 ---
 
@@ -559,6 +677,24 @@ The suspect has fled the area and Minneriya Police have commenced further invest
 [Data](articles/dfdb453c.json)
 
 [Extended Data](ext_articles/dfdb453c.ext.json)
+
+---
+
+### අධිවේගයේ අධිවේගී ආදායමක්
+
+*2024-04-15 13:04:17* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගයේ-අධිවේගී-ආදායමක්/11-409086) · `si`
+
+අප්‍රේල් 10 වැනිදා සිට 14 වැනිදා දක්වා දින 4 ක් තුළ අධිවේගී මාර්ගවල ගමන් ගත් රථ වාහනවලින් මිලියන 150 ක ආදායමක් උපයා ගෙන ඇති බව අධිවේගී මාර්ග මෙහෙයුම් සහ නඩත්තු ඒකකයේ අධ්‍යක්ෂ ආර්.අයි.ඩී.කහටපිටිය මහතා සඳහන් කරයි.
+
+මෙම කාලය තුළ අධිවේගී මාර්ගයේ වාහන හතළිස් තුන් ලක්ෂ පනස්දාස් පනස් එකක් ධාවනය කර ඇති බව  මාර්ග සංවර්ධන අධිකාරිය සඳහන් කරයි.
+
+අධිවේගී මාර්ගවල පෙරේදා (14) දිනය පමණක්  උපයා ගෙන ඇති ආදායම හාරකෝටි හතළිස් ලක්ෂයක් බව මාර්ග සංවර්ධන අධිකාරිය සඳහන් කරයි.
+
+ඉදිරි දින කිහිපය තුළද අධිවේගී මාර්ග තුළ වාහන ලක්ගෂ ගණනක් ධාවනය වීමට නියමිත බැවින් රියදුරන්ට නියමිත මාර්ග නීති පිළිපැද  අවධානයෙන් තම වාහන ධාවනය කරන මෙන් මාර්ග සංවර්ධන අධිකාරිය ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/1b0d5ee8.json)
 
 ---
 
@@ -2171,167 +2307,5 @@ But what we have seen the actual inflation realization, is that the impact of VA
 [Data](articles/8fc3ddb1.json)
 
 [Extended Data](ext_articles/8fc3ddb1.ext.json)
-
----
-
-### Bill Sold
-
-*2024-04-14 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181076) · `ta`
-
-Kolkata Knight Riders beat Lucknow Super Giants in their own stadium, Kolkata Eden Garden, winning the 28th match of the 17th IPL. Key players were Bill Sold, unbeaten on 89 runs, and Shreyas Iyer, who scored 38 runs. Lucknow Super Giants scored 161 runs in 20 overs, with Nicoles Pooran and Grunal Pandya shining.
-
-🟩
-
-Kolkata Knight Riders won the Lucknow Super Giants team at their own stadium, Kolkata Eden Garden Stadium on Sunday (14).
-
-Kolkata Knight Riders, who won the 28th match of the 17th Indian Premier League chapter in India, registered their 4th victory and continued to be 2nd.
-
-Kolkata Knight Riders, who played Lucknow Super Giants with the help of Michelle Stack's accurate bowling and Bill Salt's Action Cash.
-
-Kolkata Knight Riders lost 2 wickets in 15.4 overs and scored 162 runs.
-
-Action player Sunil Narain (6) and Angrish Raghuwanshi (7) lost the game with less runs. (42 - 2 wig.)
-
-But Bill Sold and team captain Shreyas Iyer both played the most effectively and shared 120 runs off 75 balls in the 3rd wicket.
-
-Bill Sold, who was struck by 47 balls, was unbeaten on 89 runs, including 14 pounds and 3 sixes.
-
-On the other hand, Shreyas Iyer, who was very relaxed, scored 38 runs without losing the game.
-
-...
-
-[Data](articles/eb27e43e.json)
-
-[Extended Data](ext_articles/eb27e43e.ext.json)
-
----
-
-### Youth cut off with a sharp weapon in Balangoda!
-
-*2024-04-14 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181075) · `ta`
-
-A 32-year-old was killed in Balangoda's Betigala area with a sharp weapon during a liquor banquet. Police are investigating.
-
-🟩
-
-A youth died after being attacked by a sharp weapon in Balangoda - Betigala area.
-
-The 32 -year -old three -wheeler from the area has been hacked to death with a sharp weapon.
-
-Police say the murder took place in a liquor banquet.
-
-It is noteworthy that the Balangoda police are conducting further investigations into the murder.
-
-◼️
-
-[Data](articles/ff85aefa.json)
-
-[Extended Data](ext_articles/ff85aefa.ext.json)
-
----
-
-### How the car to murder was changed to Moragahahena
-
-*2024-04-14 19:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195632) · `si`
-
-A suspect in the "car to murder" case was arrested in Moragahahena, revealing he was instructed to change a car's plates near a road sign. He admitted to being paid by Mooniya Handiya and was involved in legal cases.
-
-🟩
-
-The suspects were found in a garage in the Sapugaskanda area in the Moragahahena area on April 7.
-
-Moragahahena Police said that the man had been arrested while maintaining the garage.
-
-The suspect is a garage to sell vehicles, exchanges and demons
-
-In the interrogation of the suspect, he has already been remanded, a close associate of the Handala Handiyawa Handiyawa.
-
-The suspect has said that he was instructed to carry the silver colored car adjoining near the road signature near the road signature near the road sign board.
-
-The suspect had stated that the Mooniya Handiya was paid a sum of Rs.
-
-The arrested person has told the police that he was speaking to the car and changed the number plates and stopped and stopped.
-
-CCTV scenes were recorded in the PCs that carry the car and stops.
-
-The suspect was revealed in the instructions of the suspect, the instruction of the suspect and was arrested in various cases of his close assistance and was also involved in legal assistance.
-
-...
-
-[Data](articles/70d8cde7.json)
-
-[Extended Data](ext_articles/70d8cde7.ext.json)
-
----
-
-### 174 people stranded in the air are rescued, almost a day after fatal cable car accident in Turkey
-
-*2024-04-14 19:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98633/174-people-stranded-in-the-air-are-rescued-almost-a-day-after-fatal-cable-car-accident-in-turkey) · `en`
-
-A total of 607 search and rescue personnel and 10 helicopters were involved, including teams from Turkey’s emergency response agency, AFAD, the Coast Guard, firefighting teams and mountain rescue teams from different parts of Turkey, officials said. Helicopters with night-vision capabilities had continued rescuing people throughout the night.
-
-The stranded people had been stuck on the Tunektepe cable car, just outside the Mediterranean city of Antalya, since 5:30 p.m. on Friday, when the accident occurred.
-
-Istanbul resident Hatice Polat and her family were rescued seven hours into the ordeal. Speaking to the Anadolu agency, she said the power went out and the pod flipped four or five times.
-
-“The night was awful, we were very scared. There were children with us, they passed out,” she said. “It was torture being up there for seven hours. It is swaying every second, you’re constantly in fear. ... It was very traumatic, I don’t know how we’ll get over this trauma.”
-
-...
-
-[Data](articles/fb5e0d96.json)
-
-[Extended Data](ext_articles/fb5e0d96.ext.json)
-
----
-
-### Special train services for post-New Year commuters returning to Colombo
-
-*2024-04-14 19:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-train-services-for-post-New-Year-commuters-returning-to-Colombo/108-280698) · `en`
-
-Colombo, April 14 (Daily Mirror) - In a bid to accommodate the influx of commuters returning to Colombo after celebrating the Sinhala and Tamil New Year holidays, the Railways Department has announced the commencement of special train services, effective this evening, April 14.
-
-According to N.J. Indipolage, the Deputy General Manager of Sri Lanka Railways, eight additional train journeys will be operational from key stations including Badulla, Galle and Beliatta, facilitating the smooth return of travellers to Colombo Fort.
-
-Furthermore, the Department of Railways assures the public that regular office train services will resume as scheduled from April 16.
-
-◼️
-
-[Data](articles/ba26c5af.json)
-
-[Extended Data](ext_articles/ba26c5af.ext.json)
-
----
-
-### Two including child killed, 4 injured after van falls down precipice
-
-*2024-04-14 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98632/two-including-child-killed-4-injured-after-van-falls-down-precipice) · `en`
-
-Two individuals including a child have been killed after a van toppled down a precipice in the Helboda area of Pussellawa on Sunday.
-
-Police said that a 02-year-old child and a 70-year-old person were killed in the accident.
-
-UPDATE: Police Spokesman DIG Nihal Thalduwa said a two-year-old boy and his grandfather (70) have been reported dead while 04 others have been injured after a van veered off the road and topples down a precipice at Pussellawa.
-
-◼️
-
-[Data](articles/624bd0d5.json)
-
-[Extended Data](ext_articles/624bd0d5.ext.json)
-
----
-
-### Two including child killed after van falls down precipice
-
-*2024-04-14 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98632/two-including-child-killed-after-van-falls-down-precipice) · `en`
-
-Two individuals including a child have been killed after a van toppled down a precipice in the Helboda area of Pussellawa on Sunday.
-
-Police said that a 02-year-old child and a 70-year-old person were killed in the accident.
-
-◼️
-
-[Data](articles/680a954e.json)
-
-[Extended Data](ext_articles/680a954e.ext.json)
 
 ---

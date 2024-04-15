@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 05:03:27**
+As of **2024-04-16 05:18:21**
 
 ## Newspaper Stats
 
-*Scraped **19,006** Articles*
+*Scraped **19,007** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 166
+colombotelegraphcom | 167
 bbccomsinhala | 199
 dbsjeyarajcom | 215
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,096
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,006 (100.0%) of 19,006 articles have been extended.
+19,006 (100.0%) of 19,007 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -390,6 +390,20 @@ In addition, the Sunrisers Hyderabad - Mumbai Indians won the record for the tot
 
 ---
 
+### Debate Over Profits Of Banks: Who Shares Them Ultimately? – Part II
+
+*2024-04-15 23:30:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/debate-over-profits-of-banks-who-shares-them-ultimately-part-ii/) · `en`
+
+A reader of the Part I of this article has brought to my notice that banks should make profits, in addition to the reasons mentioned earlier, to support them when they are financially insolvent.
+
+This argument has validity in the current legal context in Sri Lanka. It is the accepted policy of the Parliamentarians in Sri Lanka, as revealed in the new Central Bank Act and the Banking (Special Provisions) Act that when banks get into insolvency, they should not be rescued through printing of new money by the Central Bank. Section 6 of the Central Bank Act has stipulated that the primary objective of the bank is to achieve and maintain ‘domestic price stability’ and ‘the other objective’ shall be to secure ‘financial system stability’.
+
+...
+
+[Data](articles/594665c7.json)
+
+---
+
 ### Hayleys Fabric celebrates triple triumph at ISPO Textrends Spring/Summer 2026
 
 *2024-04-15 23:28:11* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fabric-celebrates-triple-triumph-at-ISPO-Textrends-Spring-Summer-2026/34-760632) · `en`
@@ -498,7 +512,7 @@ Luckily, The International Authority for Professional Coaching and Mentoring (IA
 
 ---
 
-### Sri Lanka allowed to import 10,000MT of onions from India
+### India allows Sri Lanka to import 10,000MT of onions
 
 *2024-04-15 23:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-allowed-to-import-10000mt-of-onions-from-india-158570/) · `en`
 
@@ -2223,33 +2237,5 @@ He added that the Central Bank -owned foreign reserves are currently at US $ 5 b
 [Data](articles/455bb3f9.json)
 
 [Extended Data](ext_articles/455bb3f9.ext.json)
-
----
-
-### The US says that the attacks on Iran will not support Israel
-
-*2024-04-15 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195647) · `si`
-
-The US denies supporting Israel in attacks on Iran, emphasizing uncontrollable regional failure. Iran launched drones and missiles, with Israel potentially costing $1.35 billion to prevent attacks.
-
-🟩
-
-The United States also responded to the background of Israel to respond to the attacks on Iran in the name of Operations.
-
-Accordingly, US says that Israel is not supporting Israel for any attack on Iran.
-
-Otherwise, emphasizing that there is uncontrollable failure in the region.
-
-Iran launched hundreds of drones and missiles at the Middle East region at the Middle East.
-
-It is the Israeli say that conflicts between the two parties have been allocated, but the appropriate time will respond to Iranian attacks.
-
-At least 38 to 62 million to the attacks on Saturday, Israeli may have to cost $ 1.35 billion to prevent attacks.
-
-◼️
-
-[Data](articles/de889d1e.json)
-
-[Extended Data](ext_articles/de889d1e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 22:18:28**
+As of **2024-04-15 22:33:46**
 
 ## Newspaper Stats
 
-*Scraped **18,970** Articles*
+*Scraped **18,971** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 2,218
 adaderanalk | 2,291
 virakesarilk | 2,825
 dailymirrorlk | 2,920
-adaderanasinhalalk | 3,093
+adaderanasinhalalk | 3,094
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,970 (100.0%) of 18,970 articles have been extended.
+18,970 (100.0%) of 18,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### ශ්‍රී ලංකාව වෙනුවෙන් ඉන්දියාවෙන් ලොකු තීරණයක්
+
+*2024-04-15 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195660) · `si`
+
+ලොකු ලූනු අපනයනයට පනවා තිබු තහනම ශ්‍රී ලංකාව සඳහා පමණක් ඉවත් කිරීමට ඉන්දියාව තීරණය කර තිබේ.
+
+මෙරට ඉන්දීය මහ කොමසාරිස් කාර්යාලය නිවේදනයක් නිකුත් කරමින් මේ බව පවසයි
+
+ඒ අනුව ලොකු ලූනු මෙට්‍රික් ටොන් 10,000ක් දක්වා ශ්‍රී ලංකාවට අපනයනය  කිරීමට මෙමගින් අවසර ලබා දී තිබේ.
+
+පළමුව අසල්වැසියා යන පදනම සහ අලුත් අවුරුදු උත්සව සමය සැලකිල්ල ට ගෙන ඉන්දියාව එම තීරණය ගත් බව සඳහන් ය.
+
+◼️
+
+[Data](articles/a68a9dcf.json)
+
+---
 
 ### BIMSTEC Secretary General visits Sri Lanka; briefs President on expectations from 6th summit
 
@@ -2289,27 +2307,5 @@ Meanwhile, special train services are also in place from Badulla, Galle and Beli
 [Data](articles/bc773f3c.json)
 
 [Extended Data](ext_articles/bc773f3c.ext.json)
-
----
-
-### Matheesha Pathirana made the difference for CSK, says MI skipper Hardik Pandya
-
-*2024-04-15 09:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Matheesha-Pathirana-made-the-difference-for-CSK-says-MI-skipper-Hardik-Pandya/108-280703) · `en`
-
-NEW DELHI, April 15 ( Times of India) : Mumbai Indians skipper Hardik Pandya attributed his team's 20-run defeat in Match 29 of the Indian Premier League (IPL) at the Wankhede Stadium to Chennai Super Kings' Impact Substitute, Sri Lankan pacer Matheesha Pathirana.
-
-Pathirana's impressive spell of 4-28 in four overs turned the tide, disrupting Mumbai's momentum after a strong start at 70 for no loss in the eighth over.
-
-His crucial breakthroughs, including dismissing Ishan Kishan and Suryakumar Yadav, derailed Mumbai's innings, despite a valiant century from former skipper Rohit Sharma.
-
-Pandya's decision to bowl first backfired as he faced a barrage from Mahendra Singh Dhoni, conceding 20 runs off four balls. Pandya's batting contribution of two runs off six balls couldn't salvage Mumbai's chase, leading to their fourth defeat in six matches.
-
-Pandya said Pathirana made the difference for CSK as the target for definitely gettable.
-
-...
-
-[Data](articles/7067570e.json)
-
-[Extended Data](ext_articles/7067570e.ext.json)
 
 ---

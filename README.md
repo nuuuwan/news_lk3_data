@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 17:03:34**
+As of **2024-04-15 17:18:28**
 
 ## Newspaper Stats
 
-*Scraped **18,928** Articles*
+*Scraped **18,932** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,63 +18,131 @@ economynextcom | 1,052
 adalk | 1,578
 tamilmirrorlk | 2,217
 adaderanalk | 2,285
-virakesarilk | 2,818
+virakesarilk | 2,820
 dailymirrorlk | 2,913
-adaderanasinhalalk | 3,087
+adaderanasinhalalk | 3,089
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,921 (100.0%) of 18,928 articles have been extended.
+18,928 (100.0%) of 18,932 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### ராகவா லோரன்ஸ் நடிக்கும் 'ஹண்டர்'
+### சுந்தர் சி யின் 'அரண்மனை 4' அப்டேட்
+
+*2024-04-15 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/181153) · `ta`
+
+இயக்குநரும், நடிகருமான சுந்தர். சி கதையின் நாயகனாக நடித்திருக்கும் 'அரண்மனை 4' திரைப்படத்தைப் பற்றிய புதிய தகவல்கள் வெளியாகி இருக்கிறது.
+
+ரசிகர்களின் எதிர்பார்ப்பை பொழுதுபோக்கு பார்வையில் பூர்த்தி செய்யும் படைப்பாளியான சுந்தர். சி இயக்கத்தில் உருவாகி இருக்கும் 'அரண்மனை 4 ' திரைப்படத்தில் சுந்தர். சி, தமன்னா, ராசி கண்ணா, யோகி பாபு, விடிவி கணேஷ், டெல்லி கணேஷ், கோவை சரளா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+ஈ. கிருஷ்ணசாமி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஹிப் ஹொப் தமிழா ஆதி இசையமைத்திருக்கிறார். ஹாரர் வித் காமெடி ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை பென்ஸ் மீடியா பிரைவேட் லிமிடெட் பட நிறுவனம் சார்பில் தயாரிப்பாளர் ஏ சி எஸ் அருண்குமார் தயாரித்திருக்கிறார். இந்த திரைப்படத்தை குஷ்பூ வழங்குகிறார்.
+
+...
+
+[Data](articles/6a240223.json)
+
+---
+
+### 'பென்ஸ்'
+
+*2024-04-15 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181150) · `ta`
+
+'சந்திரமுகி 2' எனும் தோல்வி படத்தையும், 'ஜிகிர்தண்டா டபுள் எக்ஸ்' என்ற வணிக ரீதியான வெற்றி படத்தையும் வழங்கிய ராகவா லோரன்ஸ் சிறிய இடைவெளிக்குப் பிறகு நடிக்க ஒப்புக் கொண்டிருக்கும் புதிய திரைப்படத்திற்கு, 'பென்ஸ்' என பெயரிடப்பட்டு, அதன் டைட்டில் லுக் வெளியிடப்பட்டிருக்கிறது.
+
+“ரெமோ' படத்தை இயக்கிய இயக்குநர் பாக்கியராஜ் கண்ணன் இயக்கத்தில் உருவாகும் 'பென்ஸ்' எனும் திரைப்படத்தில் ராகவா லோரன்ஸ் கதையின் நாயகனாக நடிக்கிறார்.
+
+இந்த திரைப்படத்தை ஃபேஷன் ஸ்டுடியோஸ், தி ரூட் மற்றும் ஜி ஸ்குவாட் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் சுதன் சுந்தரம், ஜெகதீஷ் பழனிச்சாமி மற்றும் லோகேஷ் கனகராஜ் ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
+
+இயக்குநர் லோகேஷ் கனகராஜ் கதை எழுதியிருக்கும் இந்தத் திரைப்படத்தின் பணியாற்றும் ஏனைய நட்சத்திர நடிகர்கள் மற்றும் தொழில்நுட்ப கலைஞர்கள் குறித்த அதிகாரப்பூர்வமான அறிவிப்பு விரைவில் வெளியாகும் என எதிர்பார்க்கப்படுகிறது
+
+...
+
+[Data](articles/a46ccae6.json)
+
+---
+
+### ඔස්ට්‍රේලියාවේ තවත් බිහිසුණු ප්‍රහාරයක්
+
+*2024-04-15 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195655) · `si`
+
+ඉන් බිෂොප්වරයෙක් සහ තවත් පිරිසක් තුවාල ලබා ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+දේවස්ථානයේ පැවති දේවමෙහෙයක් අතරතුරදී කළු ඇඳුමින් සැරසුණු අයෙකු පැමිණ එක්වරම මෙම පිහි ප්‍රහාරය එල්ලකර තිබේ.
+
+◼️
+
+[Data](articles/a28617ae.json)
+
+---
+
+### Raghava Lawrence starrer 'Hunter'
 
 *2024-04-15 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181145) · `ta`
 
-நடன இயக்குநரும், நட்சத்திர நடிகருமான ராகவா லோரன்ஸ் கதையின் நாயகனாக நடிக்கும் புதிய திரைப்படத்திற்கு 'ஹண்டர்' என பெயரிடப்பட்டு, அதன் டைட்டில் லுக் வெளியிடப்பட்டிருக்கிறது.
+Raghava Lawrence stars in 'Hunter', directed by Venkat Mohan, produced by Manisha Shah for Goldman Films.
 
-அறிமுக இயக்குநர் வெங்கட் மோகன் இயக்கத்தில் உருவாகும் 'ஹண்டர்' எனும் திரைப்படத்தில் ராகவா லோரன்ஸ் கதையின் நாயகனாக நடிக்கிறார்.
+🟩
 
-ஓம் பிரகாஷ் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு 'ராக் ஸ்டார்' தேவி ஸ்ரீ பிரசாத் இசையமைக்கிறார். எக்சன் எண்டர்டெயினராக தயாராகும் இந்த திரைப்படத்தை சத்யஜோதி பிலிம்ஸ் டி.ஜி. தியாகராஜன் வழங்க, கோல்ட்மைன் பிலிம்ஸ் சார்பில் தயாரிப்பாளர் மனிஷா  ஷா தயாரிக்கிறார்.
+The new movie starring choreographer and star actor Raghava Lawrence is named 'Hunter' and has been released in its title.
 
-'ஜிகர்தண்டா டபுள் எக்ஸ்' படத்தின் வெற்றிக்குப் பிறகு ராகவா லோரன்ஸ் தொடர்ந்து அடுத்தடுத்து இரண்டு படங்களில் நடிக்க ஒப்புக் கொண்டிருப்பது அவருடைய ரசிகர்களை உற்சாகப்படுத்தி இருக்கிறது.
+Raghava Lawrence is the hero of the story in the film 'Hunter' directed by debutant director Venkat Mohan.
+
+The film, which is being recorded by Om Prakash, is composed by Devi Sri Prasad.. Satyajodi Films DG. Producer Manisha Shah is produced on behalf of Goldman Films.
+
+After the success of 'Jigarthanda Double X', Raghava Lawrence continued to act in two films.
 
 ◼️
 
 [Data](articles/50958a58.json)
 
+[Extended Data](ext_articles/50958a58.ext.json)
+
 ---
 
-### இயக்குநர் முத்தையாவின் ‘சுள்ளான் சேது’ ஃபர்ஸ்ட் லுக் வெளியீடு
+### Director Muttiah's Sullon Sethu's first look release
 
 *2024-04-15 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181148) · `ta`
 
-தமிழக மண் சார்ந்த படைப்புகளை உணர்வுபூர்வமாக படைத்து ரசிகர்களை வசப்படுத்தி இருக்கும் இயக்குநர் முத்தையாவின் வாரிசான அறிமுக நடிகர் விஜய் முத்தையா நடிப்பில் தயாராகும் திரைப்படத்திற்கு, 'சுள்ளான் சேது' என பெயரிடப்பட்டு, அதன் ஃபர்ஸ்ட் லுக்  மற்றும் செகண்ட் லுக் ஆகியவை வெளியிடப்பட்டிருக்கிறது.
+"Director Muttiah's 'Sullon Sethu' stars Vijay Muttiah, featuring music by M. Jen Martin and cinematography by Sukumar. Produced by KKR Cinemas and Ramesh Pandian, it's a Tamil Nadu-based film with two poster releases."
 
-'குட்டி புலி', 'கொம்பன்', 'மருது', 'கொடிவீரன்', 'தேவராட்டம்', 'புலிக்குத்தி பாண்டி', 'விருமன்', 'காதர் பாட்ஷா என்கிற முத்துராமலிங்கம்' ஆகிய படங்களை இயக்கிய இயக்குநர் எம். முத்தையா இயக்கத்தில் உருவாகும் 'சுள்ளான் சேது' எனும் திரைப்படத்தில் விஜய் முத்தையா கதையின் நாயகனாக அறிமுகமாகிறார். இவருக்கு ஜோடியாக நடிகை பிரிகிடா சகா நடிக்கிறார். எம். சுகுமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜென் மார்ட்டின் இசையமைத்திருக்கிறார். கமர்சியல் என்டர்டெய்னராக தயாராகும் இந்த திரைப்படத்தை கே கே ஆர் சினிமாஸ் எனும் பட நிறுவனம் தயாரிப்பில் தயாரிப்பாளர் கே. கே. ரமேஷ் பாண்டியன் தயாரித்திருக்கிறார்.
+🟩
 
-...
+The film is titled 'Sullon Sethu', which is being played by director Muttiah's successor actor Vijay Muttiah, who has created the soil -based works of Tamil Nadu and has been released.
+
+Director M.. Vijay Muttiah makes his debut as the hero of the film 'Sullan Sethu' directed by Muttiah. She is paired with actress Brigita Saka. M.. Jen Martin has composed the film, which has been recorded by Sukumar. The film is being produced by KKR Cinemas, a producer K.. K. Produced by Ramesh Pandian.
+
+The shooting of the film has reached its final stage. In this case, the film is titled 'Sullan Sethu'. As well as two posters as First Look and Second Look. In the first poster, Vijay Muttiah is a prisoner and the posters are designed to be in the second poster.
+
+◼️
 
 [Data](articles/5a77cf9d.json)
 
+[Extended Data](ext_articles/5a77cf9d.ext.json)
+
 ---
 
-### ரசிகர்களையும் தொண்டர்களையும் விசில் போட சொல்லும் விஜய்
+### Vijay tells fans and volunteers whistling
 
 *2024-04-15 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181147) · `ta`
 
-தமிழக வெற்றி கழகத்தின் நிறுவனரும், தமிழ் திரையுலகின் முன்னணி நட்சத்திர நடிகருமான விஜய் நடிப்பில் தயாராகி, செப்டம்பரில் வெளியாக இருக்கும் 'தி கிரேட்டஸ்ட் ஆஃப் ஆல் டைம்'  எனும் தமிழ் திரைப்படத்தில் இடம்பெற்ற 'விசில் போடு' எனும் முதல் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியாகி இருக்கிறது. வெளியான குறுகிய கால அவகாசத்திற்குள் ஏழு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனையும் படைத்திருக்கிறது.
+"Vijay's 'Visil Podu' from 'The Greatest of All Time' garners 7M views. Features stars like Venkat Prabhu, Prashant, and Yuvan Shankar Raja. Directed by Venkat Prabhu, produced by Kalpathi S, and co-produced by others. Currently filming in Russia. First song 'Party One Start' is a hit, written by Madan Karki and others, with Vijay's voice. Tamil community anticipates Vijay's political move."
 
-நடிகரும், இயக்குநருமான வெங்கட் பிரபு இயக்கத்தில் உருவாகி வரும் 'GOAT' எனும் திரைப்படத்தில் விஜய், பிரசாந்த், பிரபுதேவா, மோகன், ஜெயராம், சினேகா, லைலா, மீனாட்சி சவுத்ரி  உள்ளிட்ட பல முன்னணி நட்சத்திர கலைஞர்கள் நடித்திருக்கிறார்கள். சித்தார்த்தா நூனி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு யுவன் சங்கர் ராஜா இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஏ ஜி எஸ் என்டர்டெயின்மென்ட் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் கல்பாத்தி எஸ். அகோரம், கல்பாத்தி எஸ். சுரேஷ், கல்பாத்தி எஸ். கணேஷ் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+🟩
+
+The first song 'Visil Podu', which is featured in the Tamil film 'The Greatest of All Time', is being released in September, starring the founder of the Tamil Nadu Victory Club and the leading star star of the Tamil film industry.. Within a short period of time, more than seven million viewers have been visited and achieved.
+
+Actor and director Venkat Prabhu has starred in 'Goat' and many leading star artists including Vijay, Prashant, Prabhu Deva, Mohan, Jayaram, Sneha, Laila and Meenakshi Chaudhry.. Yuvan Shankar Raja has composed the film, which has been recorded by Siddhartha Nuni. Producer Kalpathi S is the producer of the film, which is being prepared as Exan Entertainer. Akoram, Kalpathi S. Suresh, Kalpathi S. Ganesh has co -produced.
 
 ...
 
 [Data](articles/05e61f23.json)
+
+[Extended Data](ext_articles/05e61f23.ext.json)
 
 ---
 
@@ -102,37 +170,63 @@ A number of others, including a 9-month-old baby, were also injured.
 
 [Data](articles/263f4b06.json)
 
+[Extended Data](ext_articles/263f4b06.ext.json)
+
 ---
 
-### ஆர் ஜே விஜய் நடிக்கும் 'வைஃப்' படத்தின் மோசன் போஸ்டர் வெளியீடு
+### ගමේ ඉඳලා එන අයට දැනුම්දීමක්
+
+*2024-04-15 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195654) · `si`
+
+අප්‍රේල් මස 14 වනදා සිට 17 වනදා දක්වා ක්‍රියාත්මකවන විශේෂ ප්‍රවාහන සේවා කාලසටනක් රජය විසින් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/4a1ebaa0.json)
+
+---
+
+### R J Vijay starrer 'Wife'
 
 *2024-04-15 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181142) · `ta`
 
-வானொலி தொகுப்பாளரும், நிகழ்ச்சி தொகுப்பாளரும் , நடிகருமான ஆர் ஜே விஜய் முதல் முறையாக கதையின் நாயகனாக அறிமுகமாகும் 'வைஃப் 'எனும் திரைப்படத்தின் மோஷன் போஸ்டர் வெளியிடப்பட்டிருக்கிறது.
+R J Vijay stars in 'Wife', his first hero role, directed by Hemanathan, featuring music by K. A. Jen Martin. Produced by S Ambedkumar, it's aimed at married couples, with a motion poster released to boost anticipation.
 
-இயக்குநர் ஆர். ஹேமநாதன் இயக்கத்தில் உருவாகி வரும் 'வைஃப்' எனும் திரைப்படத்தில் ஆர் ஜே விஜய், அஞ்சலி  நாயர், மைத்ரேயன், ரெடின் கிங்ஸ்லீ , அபிஷேக், ஜோசப், விஜய் பாபு, கல்யாணி நடராஜன், கதிர் உள்ளிட்ட பலர் நடிக்கிறார்கள்.
+🟩
 
-கே. ஏ. சக்திவேல் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜென் மார்ட்டின் இசையமைத்திருக்கிறார். திருமணமான இளம் தம்பதிகளின் வாழ்வியலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை ஒலிம்பியா மூவிஸ் எனும் பட நிறுவனம் சார்பில் தயாரிப்பாளர் எஸ் அம்பேத்குமார் தயாரித்திருக்கிறார்.
+Radio host, host and actor R J Vijay has been released as the hero of the story for the first time.
 
-இப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியாகி பெரும் வரவேற்பை பெற்றது. இந்நிலையில் இப்படத்தின் மோஷன் போஸ்டர் வெளியிடப்பட்டிருக்கிறது. இதுவும் இளம் தலைமுறை ரசிகர்களை கவரும் வகையில் வடிவமைக்கப்பட்டிருப்பதால் படத்தை பற்றிய எதிர்பார்ப்பை அதிகரித்திருக்கிறது.
+Director r. R J Vijay, Anjali Nair, Maitreyan, Redin Kingsley, Abhishek, Joseph, Vijay Babu, Kalyani Natarajan, Kadir and many others star in the film 'Wife' directed by Hemanathan.
+
+K. A.. Jen Martin has composed music for the film, which has been recorded by Sakthivel. The film, which is ready for the life of married young couples, has been produced by producer S Ambedkumar on behalf of Olympia Movies.
+
+The film's first look was released. In this case, the film's motion poster has been released. This, too, is designed to attract younger generations of fans, and the expectation of the film has increased.
 
 ◼️
 
 [Data](articles/a2e754ad.json)
 
+[Extended Data](ext_articles/a2e754ad.ext.json)
+
 ---
 
-### වික්ටෝරියාවේ දිය නෑමට ගිය තරුණ යුවළක් ජීවිතක්ෂයට
+### Youth couple killed in Victoria
 
 *2024-04-15 16:23:26* · [`adalk`](https://www.ada.lk/breaking_news/වික්ටෝරියාවේ-දිය-නෑමට-ගිය-තරුණ-යුවළක්-ජීවිතක්ෂයට/11-409087) · `si`
 
-අද දින දහවල් කාලයේ තෙල්දෙණිය පොලිස් වසමේ කුඹුක්කඳුර ප්‍ර දේශයෙන් වික්ටෝරියා ජලාශයේ දිය නෑමට ගිය තරුණ අඹුසැමි යුවළක් දියේ ගිලී ජීවිතක්ෂයට පත්ව ඇතැයි පොලීසිය කියයි.
+A young couple drowned in Victoria Reservoir, Thambukkandura. The 22-year-old woman's mother was found, but the 28-year-old man is missing. A resident of Thihariya died.
 
-අවුරුදු 22ක් වන කාන්තාවගේ සිරුර සොයාගෙන ඇති අතර අවුරුදු 28ක් වන පිරිමි පුද්ගලයා අතුරුදන්ව තිබේ. තිහාරිය පදිංචි යුවළක් මෙසේ ජීවිතක්ෂයට පත්ව තිබේ.
+🟩
+
+A young couple drowned in the Victoria Reservoir, police said in the Vicukkokadura Reservoir in Thambukkandura during the afternoon today.
+
+The mother of the 22-year-old woman has been found and the 28-year-old male disappeared. A resident of Thihariya has died.
 
 ◼️
 
 [Data](articles/fd023ce0.json)
+
+[Extended Data](ext_articles/fd023ce0.ext.json)
 
 ---
 
@@ -680,21 +774,27 @@ The suspect has fled the area and Minneriya Police have commenced further invest
 
 ---
 
-### අධිවේගයේ අධිවේගී ආදායමක්
+### High speed earnings on highway
 
 *2024-04-15 13:04:17* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගයේ-අධිවේගී-ආදායමක්/11-409086) · `si`
 
-අප්‍රේල් 10 වැනිදා සිට 14 වැනිදා දක්වා දින 4 ක් තුළ අධිවේගී මාර්ගවල ගමන් ගත් රථ වාහනවලින් මිලියන 150 ක ආදායමක් උපයා ගෙන ඇති බව අධිවේගී මාර්ග මෙහෙයුම් සහ නඩත්තු ඒකකයේ අධ්‍යක්ෂ ආර්.අයි.ඩී.කහටපිටිය මහතා සඳහන් කරයි.
+From April 10-14, the Express Oil Order and Maintenance Unit earned 150 million from expressways, with 43 million vehicles operated, generating 40,000 hackore revenue. Future traffic areas will increase earnings.
 
-මෙම කාලය තුළ අධිවේගී මාර්ගයේ වාහන හතළිස් තුන් ලක්ෂ පනස්දාස් පනස් එකක් ධාවනය කර ඇති බව  මාර්ග සංවර්ධන අධිකාරිය සඳහන් කරයි.
+🟩
 
-අධිවේගී මාර්ගවල පෙරේදා (14) දිනය පමණක්  උපයා ගෙන ඇති ආදායම හාරකෝටි හතළිස් ලක්ෂයක් බව මාර්ග සංවර්ධන අධිකාරිය සඳහන් කරයි.
+The Director of the Express Oil Order and Maintenance Unit, the Director of the Expressway and Maintenance Unit stated that 150 million vehicles have been earned from the expressways from the 10th to 14th April.
 
-ඉදිරි දින කිහිපය තුළද අධිවේගී මාර්ග තුළ වාහන ලක්ගෂ ගණනක් ධාවනය වීමට නියමිත බැවින් රියදුරන්ට නියමිත මාර්ග නීති පිළිපැද  අවධානයෙන් තම වාහන ධාවනය කරන මෙන් මාර්ග සංවර්ධන අධිකාරිය ඉල්ලා සිටියි.
+The Road Development Authority (Road Development Authority) stated that forty-three million vehicles have been operated on the Expressway during this period.
+
+The Road Development Authority (Road Development Authority) stated that the revenue earned on the highways was only 40,000 hackore.
+
+In the next few days, traffic areas will be operated on the highways, as the drivers drive their vehicles to operate their vehicles.
 
 ◼️
 
 [Data](articles/1b0d5ee8.json)
+
+[Extended Data](ext_articles/1b0d5ee8.ext.json)
 
 ---
 
@@ -2217,95 +2317,5 @@ Further, four individuals sustained injuries in the accident and were rushed to 
 [Data](articles/ed0a5908.json)
 
 [Extended Data](ext_articles/ed0a5908.ext.json)
-
----
-
-### Kalmunai Northern Province
-
-*2024-04-14 20:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181077) · `ta`
-
-On the 21st day, Kalmunai North Divisional Secretariat's election saw a motorcycle procession from the Divisional Secretariat to the Municipal Secretariat, involving sports clubs and the public, starting with a black flag. The Kalmunai Headquarters Police issued a letter naming three protesters for public transport damage. Tensions arose.
-
-🟩
-
-For the 21st day to win the Kalmunai North Divisional Secretariat, the struggle was carried out on Sunday (14).
-
-During this time, a motorcycle bouquet, with the participation of the sports clubs and the public, began with a black flag and started from the Divisional Secretariat Municipal Secretariat.
-
-As well as in the black pongal pot in front of the Divisional Secretariat in the morning. In this case, the Kalmunai Headquarters Police, under the orders of the Kalmunai headquarters, issued a letter in the area, referring to the name of the three as the protesters for the public transport and the damage to the public.
-
-Thereafter, there was a small tension.
-
-◼️
-
-[Data](articles/5d9165ac.json)
-
-[Extended Data](ext_articles/5d9165ac.ext.json)
-
----
-
-### Latest notice of heating
-
-*2024-04-14 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195633) · `si`
-
-The Department of Meteorology warns of warm weather in Western and North Western provinces, advising attention to body heating.
-
-🟩
-
-The Department of Meteorology has announced announcement on warm weather.
-
-The relevant announcement has been issued in the Western and North Western provinces and some places.
-
-The warm indicator is at a level that should be focused on the heating of the human body.
-
-Accordingly, the Peoples Department of Meteorology states that the people should pay attention to it.
-
-◼️
-
-[Data](articles/6d7f166b.json)
-
-[Extended Data](ext_articles/6d7f166b.ext.json)
-
----
-
-### Sri Lanka eyes speedy debt resolution at IMF/WB Spring Meetings: State Finmin
-
-*2024-04-14 20:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-eyes-on-speedy-debt-resolution-at-imf-wb-spring-meetings-state-finmin-158467/) · `en`
-
-ECONOMYNEXT – Sri Lanka is looking forward to have discussions for a speedy debt resolution and restore debt sustainability at the Spring Meetings of the International Monetary Fund (IMF) and World Bank (WB) starting on Monday (15) in Washington, State Finance Minister Shehan Semasinghe said.
-
-Minister Semasinghe is leading the Sri Lankas delegation for this year’s IMF/WB Spring Meetings that includes Central Bank Governor Nandalal Weerasinghe and Treasury Secretary Mahinda Siriwardana.
-
-The island nation expects to conclude the debt restructuring negotiation with its private creditors and sovereign bond holders and formalize the already agreed deal with bilateral creditors by end of the first half of this year, government sources have told EconomyNext.
-
-Sri Lanka also expects to receive the third tranche of the IMF by mid this year after the completion of the second review of a $3 billion loan program last month.
-
-...
-
-[Data](articles/fa783eb1.json)
-
-[Extended Data](ext_articles/fa783eb1.ext.json)
-
----
-
-### Sri Lanka undershoots inflation target in first quarter despite VAT hike
-
-*2024-04-14 20:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-undershoots-inflation-target-in-first-quarter-despite-vat-hike-158470/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s inflation is expected to lower than initially projected in 2024, despite a value added tax hike, Central Bank Governor Nandalal Weerasinghe has said
-
-“When we looked at the last two monetary policy reviews… we had an inflation path a little elevated to what was realized, ” he told reporters following a March 50 basis point rate cut.
-
-“Mainly because our projection factored in the VAT increase in January and some of the short-term food price increases, we have seen in December and January.
-
-But what we have seen the actual inflation realization, is that the impact of VAT has not been that much and also the reduction in electricity prices also has helped, as well as the supply conditions, especially food supplies has been better.
-
-“As a result, inflation outcome has been much lower than we expected.”
-
-...
-
-[Data](articles/8fc3ddb1.json)
-
-[Extended Data](ext_articles/8fc3ddb1.ext.json)
 
 ---

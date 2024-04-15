@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 19:33:47**
+As of **2024-04-15 19:50:59**
 
 ## Newspaper Stats
 
-*Scraped **18,949** Articles*
+*Scraped **18,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,582
 tamilmirrorlk | 2,217
 adaderanalk | 2,288
 virakesarilk | 2,823
-dailymirrorlk | 2,918
+dailymirrorlk | 2,919
 adaderanasinhalalk | 3,091
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,949 (100.0%) of 18,949 articles have been extended.
+18,949 (100.0%) of 18,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### Public inconvenienced due to lack of transport
+
+*2024-04-15 19:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-inconvenienced-due-to-lack-of-transport/108-280717) · `en`
+
+Colombo, April 15 (Daily Mirror) - Despite assurances from transport authorities that sufficient facilities would be provided to accommodate commuters during the festive season, people were highly inconvenienced due to inadequate public transport, resulting in them risking their lives.
+
+However, the local transport authorities assured to provide sufficient transport facilities before and after the new year.
+
+In a notice issued by the Government Information Department, it was stated that many trains and buses have been scheduled to operate between April 14 and 17 to Colombo and its suburbs. Accordingly, buses will commence operations from 5 a.m. in the morning based on demand.
+
+Furthermore, the Chairman of the National Transport Commission (NTC), Shashi Welgama, informed the Daily Mirror that an ample number of buses have been allocated for the convenience of the public.
+
+...
+
+[Data](articles/f9c362bd.json)
+
+---
 
 ### In a historic first, Trump’s criminal hush money trial kicks off in New York
 
@@ -2293,25 +2311,5 @@ The Mumbai team obtained only 186 runs for the loss of 6 wickets at the end of 2
 [Data](articles/06b1ec91.json)
 
 [Extended Data](ext_articles/06b1ec91.ext.json)
-
----
-
-### Today is a bold rain
-
-*2024-04-15 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195635) · `si`
-
-"Today's rain is bold, with Met Department forecasting over 100mm in Western, Sabaragamuwa, Uva, and Southern provinces, including Ampara and Batticaloa districts."
-
-🟩
-
-The Met Department forecasts a temporary increase in several areas today (15).
-
-Accordingly, in the Western, Sabaragamuwa, Uva and Southern provinces, the Ampara and Batticaloa districts can occur at more than 100mm and Batticaloa districts.
-
-◼️
-
-[Data](articles/c3a5314e.json)
-
-[Extended Data](ext_articles/c3a5314e.ext.json)
 
 ---

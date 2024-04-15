@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 16:18:30**
+As of **2024-04-15 16:33:36**
 
 ## Newspaper Stats
 
-*Scraped **18,917** Articles*
+*Scraped **18,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ dailyftlk | 1,018
 economynextcom | 1,052
 adalk | 1,576
 tamilmirrorlk | 2,216
-adaderanalk | 2,283
+adaderanalk | 2,284
 virakesarilk | 2,814
 dailymirrorlk | 2,913
-adaderanasinhalalk | 3,085
+adaderanasinhalalk | 3,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,914 (100.0%) of 18,917 articles have been extended.
+18,917 (100.0%) of 18,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### පළමුවන වේදිකාව උඩටම එන්න හැදූ දුම්රිය
+
+*2024-04-15 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195652) · `si`
+
+හලාවත බලා ධාවනය වීමට නියමිතව තිබූ දුම්රියක් කොටුව දුම්රිය ස්ථානයේදී අනතුරට ලක්ව ඇත.
+
+දුම්රිය පළමුවන වේදිකාව වෙත ගමන් කිරීමේදී එහි නිමාවේ ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
+
+අනතුරින් කිසිවෙකුටත් හානි සිදුව නොමැති අතර දුම්රියේ ඉදිරි කොටසට සහ වේදිකාවේ කොටසකට හානි සිදුව ඇත.
+
+සිද්ධිය සම්බන්ධයෙන් මේ වනවිට දුම්රිය දෙපාර්තමේන්තුව මට්ටමින් පරීක්ෂණයක් ආරම්භ කර ඇත.
+
+◼️
+
+[Data](articles/66e4d1b5.json)
+
+---
+
+### Woman drowns, husband missing while bathing in Victoria Reservoir
+
+*2024-04-15 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98646/woman-drowns-husband-missing-while-bathing-in-victoria-reservoir) · `en`
+
+A woman has drowned while her husband is reported missing while they were bathing in the Victoria Reservoir at Kumbukkandura in the Teldeniya police area.
+
+Police said that the deceased is a 22-year-old woman and that her missing husband is 28 years old while they are residents of Thihariya.
+
+According to police, they were among a group of individuals bathing at the location, during a visit to the deceased’s hometown, when they had both gone underwater suddenly owing to strong currents.
+
+The young woman’s body has been recovered while police and residents in the area have launched a search operation to locate her missing husband, who is also feared drowned.
+
+◼️
+
+[Data](articles/f0e6c1ea.json)
+
+---
 
 ### Drastic dip in accidents injuries during festive season
 
@@ -48,21 +84,29 @@ Furthermore, there were only a few incidents of motor accidents, domestic accide
 
 [Data](articles/3fd0600b.json)
 
+[Extended Data](ext_articles/3fd0600b.ext.json)
+
 ---
 
-### நெஞ்சை பதற வைத்த பச்சிளம் குழந்தைகளின் மரணம்
+### The death of children
 
 *2024-04-15 15:53:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெஞ்சை-பதற-வைத்த-பச்சிளம்-குழந்தைகளின்-மரணம்/175-335958) · `ta`
 
-ஹெட்டிபொல, திக்கலகெதர பிரதேசத்தில் கொங்கிறீட்டால் செய்யப்பட்ட ஒட்டகச்சிவிங்கி சிலை  விழுந்ததில் 8 வயதுச் சிறுவன் ஒருவன் பரிதாபமாக உயிரிழந்துள்ளார்.
+In Hettipola, an 8-year-old boy died when a gingerbread camel statue fell on him. In Ruhunugama, a 3.5-year-old girl drowned after a plastic water bottle washed into her house.
 
-வீட்டின் முற்றத்தில் வைக்கப்பட்டிருந்த கொங்கிறீட்டால் செய்யப்பட்ட ஒட்டகச்சிவிங்கியின் சிலையே குழந்தையின் உடலில் விழுந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+🟩
 
-இதேவேளை, பொலன்னறுவை - அரலகங்வில ருஹுனுகம கிராமத்தில் உள்ள வீடொன்றில் பிளாஸ்டிக் தண்ணீர் தாங்கி ஒன்று தலையில் விழுந்ததில் மூன்றரை வயது சிறுமி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+An 8 -year -old boy died in a tragic death of a camera in Hettipola, Thikkaladera.
+
+Police say that a statue of a camel made of a gingerbread that was placed in the courtyard of the house fell on the child's body.
+
+Meanwhile, a three -and -a -half -year -old girl has died after a plastic water washed into a house in the village of Ruhunugama, Polonnaruwa - Aralangwila.
 
 ◼️
 
 [Data](articles/8c6dd3ac.json)
+
+[Extended Data](ext_articles/8c6dd3ac.ext.json)
 
 ---
 
@@ -160,25 +204,31 @@ He added that the official website of the Ministry of Education, which was inact
 
 ---
 
-### காட்டு யானைகளின் அட்டகாசத்தால் வாழ்வாதாரத்தை இழக்கும் கொழுத்துபுலவு மக்கள்
+### People who lose their livelihood by the attraction of wild elephants
 
 *2024-04-15 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181128) · `ta`
 
-கிளிநொச்சி மாவட்டத்தின் கண்டாவளைப் பிரதேச செயலாளர் பிரிவுக்குட்பட்ட கொழுத்துப்புலவு பகுதியில் தொடர்ச்சியாக மக்கள் குடியிருப்பு பகுதியில் காட்டு யானைகள் அழிவுகளை ஏற்படுத்தி வருகின்றன.
+In Kilinochchi, wild elephants destroyed crops in Koluttupulavu, affecting over 300 families. Elephants damaged bananas, coconuts, and pumpkins, causing fear and livelihood loss. Authorities urge setting up an electric fence for safety.
 
-மக்களின் வாழ்வாதாரம் யானைகளினால் அழிக்கப்படுவதால் அப்பகுதியில் வாழும்  300  மேற்பட்ட குடும்பங்களைச் சேர்ந்தவர்கள் பாதிக்கப்படுகின்றனர்.
+🟩
 
-தமது ஜீவனோ பாயத்துக்காக  விவசாய செய்கையினை மேற்கொண்டு வரும் மக்களின் தென்னை, வாழை, பூசணி போன்ற பயிர்களை யானைகள் அழித்து வருவதாக கவலை தெரிவிக்கின்றனர்.
+Wild elephants have been destroyed in the residential area of the Koluttupulavu area of the Kandawala Divisional Secretariat of Kilinochchi District.
 
-நேற்று இரவும் மக்கள் குடியிருப்புக்குள் புகுந்த ஆறு காட்டு யானைகள் 120க்கும் மேற்பட்ட வாழைகள், 50க்கும் மேற்பட்ட தென்னை மரங்கள் போன்றவற்றை அழித்துள்ளன.
+More than 300 families living in the area suffer from the destruction of elephants by elephants.
 
-காட்டு யானைகளின் நடமாட்டத்தினால் அப்பகுதியில் வாழும் மக்கள் அச்சத்துடன் வாழ வேண்டிய நிலைக்கு தள்ளப்பட்டுள்ளதாக கவலை தெரிவிக்கின்றனர்.
+Elephants are worried that the crops such as coconut, banana and pumpkin crops are being destroyed by the people who are engaged in agriculture for their lives.
 
-குறித்த பாதிப்பு தொடர்பாக சம்பந்தப்பட்ட அதிகாரிகள் நேரில் பார்வையிட்டு தமது பாதுகாப்பை உறுதி செய்ய வேண்டும் எனவும், நிரந்தரமான மின்சார வேலி ஒன்றையும் அமைத்துத் தர வேண்டும் எனவும் உருக்கமாக வேண்டுகோளை விடுத்துள்ளனர்.
+Six wild elephants that entered the residence last night destroyed more than 120 bananas and more than 50 coconut trees.
+
+People living in the area are worried that the movement of wild elephants has been forced to live in fear.
+
+The relevant authorities have appealed to the concerned authorities to ensure their safety and set up a permanent electric fence.
 
 ◼️
 
 [Data](articles/981c5ca4.json)
+
+[Extended Data](ext_articles/981c5ca4.ext.json)
 
 ---
 
@@ -196,7 +246,7 @@ The general public is further requested to avoid using wired telephones and conn
 
 For emergency assistance, the public is requested to contact local disaster management authorities.
 
-◼️
+...
 
 [Data](articles/531b86ea.json)
 
@@ -2283,57 +2333,5 @@ In addition, the Railway Department further stated that the office of the office
 [Data](articles/8176a5f6.json)
 
 [Extended Data](ext_articles/8176a5f6.ext.json)
-
----
-
-### Special request from the Russian security authorities
-
-*2024-04-14 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195630) · `si`
-
-The Sri Lankan embassy in Russia seeks information on Sri Lankans in the Russian army, noting common recruitment from foreign countries, including tourist visa holders. The ambassador mentioned that if a Sri Lankan joins Russian troops, Russia would inform the embassy. Reports of Sri Lankans' deaths in recent army engagements were denied by the ambassador.
-
-🟩
-
-The Sri Lankan embassy in Russia has requested the security authorities to provide information about Sri Lankans who have joined the Russian army.
-
-Sri Lanka's Ambassador in Russia Janitan Liyanage said that the recruitment of persons from foreign countries was commonplace these days.
-
-It is said that many of them are present in Russia on tourist visas and joins the military.
-
-He added that the Sri Lankans have received information that Sri Lankans will come on tourist visa and have joined the Russian army.
-
-However, if the embassy is not in the country, the embassy has requested Russian defense heads to provide information about it.
-
-The Sri Lankan Ambassador to the Sri Lanka Ambassador to the Sri Lanka Ambassador to the Sri Lanka Ambassador said that if a Sri Lankan joins Russian troops, Russia said he would make a request to inform the embassy.
-
-Foreign media reports have been reported that several Sri Lankans who were ingether participating with the Russian army in the past few days have died.
-
-...
-
-[Data](articles/4c88c4f4.json)
-
-[Extended Data](ext_articles/4c88c4f4.ext.json)
-
----
-
-### High possibilities for heavy lightning
-
-*2024-04-14 18:13:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-மின்னலுக்கான-அதிக-சாத்தியக்கூறுகள்/175-335931) · `ta`
-
-"High lightning risks in Western, Sabaragamuwa, Central, Southern, and North Western provinces due to widespread thunderstorms. Meteorology advises precautions to prevent accidents."
-
-🟩
-
-The Department of Meteorology has warned that in the evening or night in the Western, Sabaragamuwa, Central, Southern and North Western provinces, there are widespread thunderstorms.
-
-Thundershowers can be temporarily blowing in those areas.
-
-The Department of Meteorology has urged the people to take necessary steps to reduce accidents caused by lightning strikes.. Remble
-
-◼️
-
-[Data](articles/1dc1cbc2.json)
-
-[Extended Data](ext_articles/1dc1cbc2.ext.json)
 
 ---

@@ -1,52 +1,144 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 15:51:09**
+As of **2024-04-15 16:03:19**
 
 ## Newspaper Stats
 
-*Scraped **18,908** Articles*
+*Scraped **18,914** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 166
-bbccomsinhala | 198
+bbccomsinhala | 199
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,052
 adalk | 1,576
-tamilmirrorlk | 2,214
-adaderanalk | 2,281
+tamilmirrorlk | 2,215
+adaderanalk | 2,283
 virakesarilk | 2,813
 dailymirrorlk | 2,912
-adaderanasinhalalk | 3,083
+adaderanasinhalalk | 3,085
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,907 (100.0%) of 18,908 articles have been extended.
+18,908 (100.0%) of 18,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### திடீரென விலை அதிகரிப்பு
+### Navy nabs 08 persons for engaging in illegal fishing in eastern waters
+
+*2024-04-15 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98645/navy-nabs-08-persons-for-engaging-in-illegal-fishing-in-eastern-waters) · `en`
+
+The Sri Lanka Navy has apprehended 08 persons for their involvement in illegal fishing using unauthorized fishing nets, during a search operation conducted in Upparu sea area of Muthur on Sunday (14).
+
+During this operation, navy has also taken custody of a dinghy and unauthorized fishing equipment used for this illegal act.
+
+Having spotted the suspicious dinghy, SLNS Parakumba in the Eastern Naval Command has taken the eight individuals into custody, along with their fishing gear and the dinghy after conducting a more thorough search of the dinghy.
+
+The persons held in this operation have been identified as residents of Kinniya area, who are aged between 23 and 63. The individuals along with the seized items were handed over to the Fisheries Inspector of Muthur for onward legal action, the navy said.
+
+◼️
+
+[Data](articles/4394d33a.json)
+
+---
+
+### අඹුසැමි යුවළක් වික්ටෝරියා ජලාශයට බිලිවෙයි
+
+*2024-04-15 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195651) · `si`
+
+අඹුසැමි යුවළක් වික්ටෝරියා ජලාශයේ දියේ ගිලීමෙන් මියගොස් ඇති බව පොලීසිය පවසයි.
+
+මෙලෙස මියගොස් ඇති කාන්තාවගේ වයස අවුරුදු 22ක් බවත් පිරිමි පුද්ගලයාගේ වයස අවුරුදු 28ක් බවත් පොලීසිය පවසයි.
+
+ඔවුන් තිහාරිය ප්‍රදේශයේ පදිංචිකරුවන් වන අතර කාන්තාවගේ ගම් ප්‍රදේශයට පැමිණි අවස්ථාවේ වික්ටෝරියා ජලාශයේ දින නෑමට ගොස් මෙම අවාසනාවන්ත අනතුර සිදුව ඇති බව පොලීසිය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/ab0a0c70.json)
+
+---
+
+### ஒவ்வொரு மாதமும் 25-30 சைபர் தாக்குதல்கள்
+
+*2024-04-15 15:49:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒவ்வொரு-மாதமும்-25-30-சைபர்-தாக்குதல்கள்/175-335957) · `ta`
+
+இலங்கையில் ஒவ்வொரு மாதமும் 25 முதல் 30 இணையத்தளங்கள் சைபர் தாக்குதலுக்கு இலக்காவதாக இலங்கை கணினி அவசர பதிலளிப்பு மன்ற பிரதம தகவல் பாதுகாப்பு அதிகாரி நிரோஷ் ஆனந்த  தெரிவித்துள்ளார்.
+
+அண்மையில் சைபர் தாக்குதல் காரணமாக செயலிழந்த கல்வி அமைச்சின் உத்தியோகபூர்வ இணையத்தளம் மீளமைக்கப்பட்டுள்ளதாகவும் அவர் மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/87ff6047.json)
+
+---
+
+### Warning issued for severe lightning in several areas
+
+*2024-04-15 15:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98644/warning-issued-for-severe-lightning-in-several-areas) · `en`
+
+The Meteorology Department warns that thundershowers accompanied by severe lightning are likely to occur at several places in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
+
+There may be temporary localized strong winds during thundershowers, the Met. Department said.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
+
+The general public is further requested to avoid using wired telephones and connected electric appliances during thunderstorms and to also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
+
+For emergency assistance, the public is requested to contact local disaster management authorities.
+
+◼️
+
+[Data](articles/531b86ea.json)
+
+---
+
+### යළි වාහන ආනයනයේදී රජය සලකාබලන කරුණු මෙන්න
+
+*2024-04-15 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195650) · `si`
+
+වාහන ආනයන සීමා ඉවත් කිරීම සම්බන්ධයෙන් සොයාබැලීම සඳහා මේ වනවිට කමිටුවක් පත්කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+මාධ්‍ය වෙත අදහස් දක්වමින් මුදල් රාජ්‍ය අමාත්‍යවරයා මෙම අදහස් පළකළේය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ මුදල් රාජ්‍ය අමාත්‍යවරයා පැවසුවේ මෙරට විදෙස් සංචිත ඉහළ යෑමත් සමග අවශ්‍යතාව පරිදි ක්‍රමානුකූලව වාහන ආනයන සීමා ලිහිල් කිරීමට කටයුතු කරන බවය.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා,
+
+...
+
+[Data](articles/f7700e32.json)
+
+---
+
+### An increase in prices
 
 *2024-04-15 15:33:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-விலை-அதிகரிப்பு/175-335956) · `ta`
 
-பண்டிகைக் காலங்களில் கோழி இறைச்சியின் விலையை வியாபாரிகள்  தன்னிச்சையாக உயர்த்தி வருவதாக தெரிவிக்கப்படுகின்றது.
+Merchants raise poultry meat prices during festive season, despite government promises to lower them. Prices have risen from 1,100 to 1,500 rupees per kg. Ajith Gunasekera, Poultry Farmers Association president, expects price reductions soon.
 
-பண்டிகைக் காலங்களில் கோழி  இறைச்சி மற்றும் முட்டைகளின் விலை குறைக்கப்படும் என அரசாங்கம் உறுதியளித்த போதிலும் அவ்வாறான நிலைமை சந்தையில் காணப்படவில்லையென மக்கள் குற்றம் சாட்டியுள்ளனர்.
+🟩
 
-முன்னர் கோழி இறைச்சியின் விலையானது 1,100 ரூபாவாக காணப்பட்டதோடு தற்போது 1 கிலோ கோழி இறைச்சியின் விலையானது  1,500 ரூபாவாக காணப்படுகின்றது.
+It is reported that merchants are arbitrarily raising the price of poultry meat during the festive season.
 
-இதேவேளை,அதிகரித்துள்ள இறைச்சி மற்றும் முட்டையினது விலை எதிர்வரும் நாட்களில் குறைக்கப்படும் என   கோழி பண்ணையாளர்கள் சங்கத்தின்  தலைவர் அஜித் குணசேகர தெரிவித்துள்ளார். R
+The government has promised to reduce the price of poultry meat and eggs during the festive season, but people have accused the market of not being in the market.
+
+Previously the price of poultry meat was 1,100 rupees and the price of 1 kg of chicken meat is currently at 1,500 rupees.
+
+Meanwhile, the prices of increased meat and eggs will be reduced in the coming days, said Ajith Gunasekera, president of the Poultry Farmers Association.. Remble
 
 ◼️
 
 [Data](articles/69f94794.json)
+
+[Extended Data](ext_articles/69f94794.ext.json)
 
 ---
 
@@ -1043,6 +1135,26 @@ The selected person should set up an office with 20 plus persons de Silva said.
 [Data](articles/b9318fc0.json)
 
 [Extended Data](ext_articles/b9318fc0.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවේ මුද්‍රණ ඉතිහාසයේ සංකේතයක් වූ ලංකෝපකාර මුද්‍රණාලය
+
+*2024-04-15 09:13:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72p5v01l3jo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ශ්‍රී ලංකාවේ පළ කළ ප්‍රථම සිංහල පුවත්පත ලෙස සැලකෙන 'ලංකාලෝකය' එහි මුද්‍රණය කර ඇත.
+
+1862 වසරේ දී ගාල්ලේ ආරම්භ කරන ලද ලංකෝපකාර මුද්‍රණාලය ශ්‍රී ලංකාවේ මුද්‍රණ කර්මාන්තයේ සුවිශේෂී සංකේතයකි. මේ මුද්‍රණාලය ගැන තොරතුරු අධ්‍යාපන අමාත්‍යාංශය විසින් පාසල් පෙළ පොත්වලට ද ඇතුළත් කර තිබේ.
+
+ශ්‍රී ලංකාවේ පළ කළ ප්‍රථම සිංහල පුවත්පත ලෙස සැලකෙන 'ලංකාලෝකය' එහි මුද්‍රණය කර ඇත. (ශ්‍රී ලංකාවේ ලියාපදිංචි කළ පළමු පුවත්පත ලක්මිණි පහන -1862)  වේ.
+
+2012 වසරේ ඇති වූ ගින්නකින් ගාල්ල, කතළුව රන්වැල්ල පුරණ විහාරස්ථානයේ පැවති ඉපැරණි මුද්‍රණාලය විනාශ විය.
+
+එය ප්‍රතිසංස්කරණය කර සංරක්ෂණය කිරීමට අවශ්‍ය පියවර ගන්නැයි කළ ඉල්ලීම ශ්‍රී ලංකාවේ බලධාරීන් සැලකිල්ලට නොගත්ත ද තායිලන්ත රජය විසින් ඊට සහයෝගය දැක්වූ බව පූජ්‍ය මාරකොල්ලියේ විමලජෝති හිමියෝ BBC සිංහල සේවයට පැවසූහ.
+
+◼️
+
+[Data](articles/c57b03e7.json)
 
 ---
 
@@ -2215,141 +2327,5 @@ We are grateful for the support of our Tamils in the United States and we thank 
 [Data](articles/1e2d75ea.json)
 
 [Extended Data](ext_articles/1e2d75ea.ext.json)
-
----
-
-### Advisory issued for severe lightning in five provinces
-
-*2024-04-14 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98631/advisory-issued-for-severe-lightning-in-five-provinces) · `en`
-
-The Meteorology Department has issued an advisory for severe lightning in five provinces today (April 14).
-
-Thundershowers accompanied by severe lightning are likely to occur at several places in Western, Sabaragamuwa, Southern, Central and North-western provinces, it said.
-
-There may be temporary localized strong winds during thundershowers. The general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
-
-The general public is further requested to avoid using wired telephones and connected electric appliances during thunderstorms and to also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
-
-For emergency assistance, the public is requested to contact local disaster management authorities.
-
-◼️
-
-[Data](articles/070e0aad.json)
-
-[Extended Data](ext_articles/070e0aad.ext.json)
-
----
-
-### Dengue cases for 2024 top 21,000
-
-*2024-04-14 17:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dengue-cases-for-2024-top-21-000/108-280697) · `en`
-
-Colombo, April 14 (Daily Mirror) - The tally of dengue cases recorded for 2024 has topped the 21,000 mark, according to the Epidemiology Unit.
-
-As of April 13, a total of 21,028 cases have been reported in 2024, with the highest number being from the Colombo district, which stood at 4,527.
-
-The Western Province has recorded 7,547 cases, the highest province-wise while the month of April has also logged 989 Dengue cases.
-
-As several parts in Sri Lanka have experienced significant rainfall for the past few days, health officials urge people to keep their surroundings clean and destroy mosquito breeding places in order to keep dengue at bay.
-
-◼️
-
-[Data](articles/e59fa4b2.json)
-
-[Extended Data](ext_articles/e59fa4b2.ext.json)
-
----
-
-### Two killed in Pussellawa accident
-
-*2024-04-14 17:23:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/புஸ்ஸல்லாவ-விபத்தில்-இருவர்-பலி/76-335930) · `ta`
-
-Two killed in Pussellawa accident. A van hit a ditch on Marambodai-Colombo road, traveling from Colombo to Nuwara Eliya with 10 people, including children and the elderly. Rescue efforts ongoing.
-
-🟩
-
-Kotmalai police said that a van has been hit by a ditch this evening in the area between Elbod and Pussala on the main road of Marambodai - Colombo main road.
-
-The van, which was involved in the incident, was traveling from Colombo to Nuwara Eliya with 10 people on the tour and then traveling to Colombo, police said.
-
-It has also been reported that small children and even the elderly were in the van that crashed into the incident.
-
-At the same time, the people of the area have been involved in the rescue of the victims of the van.. Remble
-
-◼️
-
-[Data](articles/c3ca4edc.json)
-
-[Extended Data](ext_articles/c3ca4edc.ext.json)
-
----
-
-### Four killed in Pussellawa accident
-
-*2024-04-14 17:23:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/புஸ்ஸல்லாவ-விபத்தில்-நால்வர்-பலி/76-335930) · `ta`
-
-In Pussellawa, a van carrying ten people, including children and the elderly, crashed into a ditch, killing four. The van was traveling from Colombo to Nuwara Eliya and back. Residents helped in the rescue.
-
-🟩
-
-Kotmalai police said that a van had been hit by a ditch this evening in the area between Pussala and in the area.
-
-The van, which was involved in the incident, was traveling from Colombo to Nuwara Eliya with ten people on the tour and then traveling to Colombo, police said.
-
-It has also been reported that small children and even the elderly were in the van that crashed into the incident.
-
-At the same time, the residents of the area have been involved in the rescue of the victims of the van.
-
-◼️
-
-[Data](articles/ee606696.json)
-
-[Extended Data](ext_articles/ee606696.ext.json)
-
----
-
-### Ukrainian attack killed
-
-*2024-04-14 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195628) · `si`
-
-Ukrainian army attacked Russian military in Tokmak, killing 16 and injuring 20, including 12 critically.
-
-🟩
-
-Foreign media reports that 16 people have been killed in an area that the Ukrainian army has been captured to a Russian military.
-
-The attack was launched in the Tokmak name to Tokmak, a area of Russian army.
-
-Ukraine was attacked targeting the territory of Russia.
-
-Twent up to 20 others in the attack and 12 of them were in critical condition.
-
-◼️
-
-[Data](articles/25fa440c.json)
-
-[Extended Data](ext_articles/25fa440c.ext.json)
-
----
-
-### Aunt, led by Kosgoda scawellers, arrested
-
-*2024-04-14 17:13:22* · [`adalk`](https://www.ada.lk/breaking_news/කොස්ගොඩ-බියවැද්දූ-කොල්ලකල්ලියක්-මෙහෙයවූ-නැන්දා--දුව-අල්ලයි/11-409080) · `si`
-
-Two women and two youths, led by Kosgoda scavengers, were arrested in Uraungalla for robbery, with 3112 milligrams of heroin found. They intimidated residents and stole gold jewelry worth over Rs.
-
-🟩
-
-Two women and two youths who were involved in a robbery have been arrested in Uraungalla Police Divisions and a robbery have been arrested in the Uraundella Police Divisions.
-
-Aunt and the daughter, who was aged between 29 and 40 years old, and 3112 milligrams of heroin were in their possession and 3112 milligrams of the robbers, they were fully led by the robbery.Police say that the youth have dropped the doors and intimidated the doors and intimidated the residents, police said.
-
-They were conducting a large quantity of gold jewelery and the swords of gold jewelery, which had more than Rs.
-
-◼️
-
-[Data](articles/96fecd16.json)
-
-[Extended Data](ext_articles/96fecd16.ext.json)
 
 ---

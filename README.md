@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 12:33:50**
+As of **2024-04-15 12:48:23**
 
 ## Newspaper Stats
 
-*Scraped **18,881** Articles*
+*Scraped **18,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,130 @@ newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,052
-adalk | 1,574
+adalk | 1,575
 tamilmirrorlk | 2,212
 adaderanalk | 2,279
 virakesarilk | 2,805
-dailymirrorlk | 2,904
+dailymirrorlk | 2,908
 adaderanasinhalalk | 3,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,879 (100.0%) of 18,881 articles have been extended.
+18,881 (100.0%) of 18,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### நாட்டில் 24 மணித்தியாலத்தில் 10 பேர் மரணம்
+### 10 people die in 24 hours in the country
 
 *2024-04-15 12:12:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-24-மணித்தியாலத்தில்-10-பேர்-மரணம்/175-335953) · `ta`
 
-கடந்த 24 மணித்தியாலங்களில் நாட்டின் வெவ்வேறு பகுதிகளில் இடம்பெற்ற 8 வீதி விபத்துக்களில்   10 பேர் உயிரிழந்துள்ளனர்.
+In the last 24 hours, 10 people died in 8 road accidents across the country, with 5 crashes attributed to driver errors.
 
-இந்த 8 விபத்துக்களில் 5 விபத்துக்கள் வீதியில் வாகனம் சறுக்கிச் சென்றதன் காரணமாகவே இடம்பெற்றுள்ளதாக பொலிஸார் குறிப்பிடுகின்றனர்.
+🟩
 
-போக்குவரத்து விதிமுறைகளை சாரதிகள; உரிய முறையில் பின்பற்றுமாறு கேட்டுக்கொள்ளப்படுவதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதிப் பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.R
+In the last 24 hours, 10 people have died in 8 road accidents in different parts of the country.
+
+Police say that 5 of these eight accidents were due to the crash on the road.
+
+Drivers of traffic rules;Police Media Spokesperson Nihal Talduwa said that he is being asked to follow the appropriately.
 
 ◼️
 
 [Data](articles/dbefa9a9.json)
 
+[Extended Data](ext_articles/dbefa9a9.ext.json)
+
 ---
 
-### மாணவியை கடத்திய   இளைஞன்   கைது
+### Youth arrested for abducting student
 
 *2024-04-15 12:06:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மாணவியை-கடத்திய-இளைஞன்-கைது/73-335952) · `ta`
 
-14 வயது மாணவியை கடத்திச் சென்ற குற்றச்சாட்டின் பேரில் 17 வயது இளைஞர் ஒருவரை காத்தான்குடி பொலிஸார் திங்கட்கிழமை (15) காலை கைது செய்துள்ளனர் .
+A 17-year-old from Trincomalee was arrested for abducting a 14-year-old student from Arayambathi Grankulam, Kattankudy. The arrest was based on information received on Sunday, after the student was found in Colombo. The youth will be produced before the magistrate, and the student was examined at the Batticaloa Teaching Hospital.
 
-மட்டக்களப்பு காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட ஆரையம்பதி கிரான்குளத்தைச் சேர்ந்த மேற்படி மாணவியை காதல் என்ற பெயரில் கடத்திச் சென்ற திருகோணமலை குற்றவெளியைச் சேர்ந்த 17 வயது இளைஞனே கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கடத்திச் சென்று கொழும்பில் சில நாட்கள் தங்கி இருந்தபின் மீண்டும்  சொந்த இடத்துக்கு ஞாயிற்றுக்கிழமை (14)  திரும்பி வீட்டில் தங்கியிருப்பதாக  கிடைக்கப்பெற்ற தகவல் ஒன்றின் அடிப்படையில் காத்தான்குடி பொலிஸார்  இளைஞனை கைது செய்துள்ளனர்
+Kattankudy police arrested a 17 -year -old youth on charges of abducting a 14 -year -old student on Monday morning.
 
-குற்றவெளியிலிருந்து கிரான் குளத்துக்கு ஏப்ரல் 9ஆம் திகதி வந்த மேற்படி காதலன் குறித்த மாணவியை கொழும்புக்கு அழைத்துச் சென்றுள்ளார் கொழும்பிலிருந்து மீண்டும் ஞாயிறுக்கிழமை (14) ஊர் திரும்பிய நிலையில் கிடைக்கப்பெற்ற தகவலின் அடிப்படையில் குறித்த இளைஞர் காத்தான்குடி பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
+A 17 -year -old youth from Trincomalee has been arrested for allegedly abducting the student from Arayambathi Grankulam in the Batticaloa Kattankudi police division.
 
-கைது செய்யப்பட்ட இளைஞர்  நீதவான் முன்னிலையில் ஆஜர் படுத்தப்பட உள்ளதாக காத்தான்குடி பொலிஸார் மேலும் தெரிவித்தனர்.
+Kattankudy police have arrested the youth based on information available on Sunday (14) after she was abducted and stayed in Colombo on Sunday (14).
+
+The young man has been arrested by the Kattankudy police on the basis of information received from the crime on Sunday (14) from Colombo on Sunday (14).
+
+Kattankudy police said that the arrested youth magistrate will be produced before the arrested.
+
+The Kattankudy police said that the student was admitted to the Batticaloa Teaching Hospital for medical examination.
+
+◼️
+
+[Data](articles/ae9f0d16.json)
+
+[Extended Data](ext_articles/ae9f0d16.ext.json)
+
+---
+
+### අවුරුදු ගිය ජනතාවට කොළඹ එන්න යන්න විශේෂ ප්‍රවාහන පහසුකම්
+
+*2024-04-15 11:48:23* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-ගිය-ජනතාවට-කොළඹ-එන්න-යන්න-විශේෂ-ප්‍රවාහන-පහසුකම්/11-409084) · `si`
+
+අලුත් අවුරුද්දට ගම්බිම් බලා පිටත්ව ගිය ජනතාවට යළි පැමිණීම සඳහා අද 15 සහ හෙට 16 විශේෂ බස් රථ යෙදවීමට කටයුතු කර ඇති බව ජාතික ගමනාගමන කොමිෂන් සභාව පවසයි.
+
+එමෙන්ම අළුත් අවුරුද්දට  විශේෂ දුම්රිය සේවාක්ද අද 15 ක්‍රියාත්මක කෙරෙන බව දුම්රිය දෙපාර්තමෙන්තුව පවසයි. එම විශේෂ දුම්රිය බදුල්ල, ගාල්ල හා බෙලිඅත්ත සිට කොළඹ දක්වා ධාවනය කෙරෙන බව නියෝජ්‍ය දුම්රිය සාමාන්‍යාධිකාරී එන්.ජේ. ඉදිපොලගේ මහතා පැවසීය.
+
+මේ අතර දුම්රියෙන් කොළඹට පැමිණෙන ජනතාව සඳහා කොළඹ සිට පිටපළාත් දක්වා ලංගම හා පෞද්ගලික බස් රථ ක්‍රියාත්මක කෙරෙන බව ප්‍රවාහන අමාත්‍යාංශය පවසයි.
+
+◼️
+
+[Data](articles/9e356ad9.json)
+
+---
+
+### UN chief calls for restraint after Iran’s retaliatory attacks on Israel
+
+*2024-04-15 11:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UN-chief-calls-for-restraint-after-Irans-retaliatory-attacks-on-Israel/108-280705) · `en`
+
+April 15 - UN Secretary-General Antonio Guterres has called for maximum restraint after Iran's retaliatory attacks on Israel over the latter's deadly assault on the Iranian consulate in Syria.
+
+"The Middle East is on the brink. The people of the region are confronting a real danger of a devastating full-scale conflict. Now is the time to defuse and de-escalate. Now is the time for maximum restraint," he told an emergency meeting of the Security Council.
+
+According to the latest reports, Iran on Saturday launched hundreds of drones and missiles from its territory toward Israel, with most intercepted. Several missiles reportedly struck within Israeli territory, one of which damaged an Israeli military facility in the south of the country. Overall, a few civilians were injured, said Guterres.
 
 ...
 
-[Data](articles/ae9f0d16.json)
+[Data](articles/9dde782b.json)
+
+---
+
+### Avurudu Perahera of Kataragama Dewalaya
+
+*2024-04-15 11:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Avurudu-Perahera-of-Kataragama-Dewalaya/110-280702) · `en`
+
+The annual traditional Avurudu Perahera of the Ruhunu Maha Kataragama Dewalaya was held yesterday, ushering in prosperity following timely rainfall. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/ad6767bf.json)
+
+---
+
+### Ten killed in road accidents within 24 hours
+
+*2024-04-15 11:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ten-killed-in-road-accidents-within-24-hours/108-280706) · `en`
+
+Colombo, April 15 (Daily Mirror)- At least ten people were killed in eight road accidents within the past 24 hours in differenet parts of the country, Police said.
+
+Four people were killed in two accidents in Pussellawa and Hali-Ela while six individuals were killed in six seperate accidents in Mahiyangana, Kirindiwela, Ambalantota, Pugoda, Matara and Thanamalwila.
+
+Police Media Spokesman DIG Nihal Thalduwa said five of the eight road accidents were due to vehicles skidding off the roads.
+
+◼️
+
+[Data](articles/e91e339b.json)
 
 ---
 
@@ -131,6 +205,26 @@ Police said that the fire broke out in a room of the house and the woman who was
 [Data](articles/639bd843.json)
 
 [Extended Data](ext_articles/639bd843.ext.json)
+
+---
+
+### At least 18 dead as landslides hit Indonesia's Sulawesi island
+
+*2024-04-15 11:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/At-least-18-dead-as-landslides-hit-Indonesia-s-Sulawesi-island/108-280704) · `en`
+
+JAKARTA, April 14 (Reuters) - Landslides on Indonesia's Sulawesi island on the weekend killed at least 18 people with rescue efforts, including police sniffer dogs, still ongoing for two missing people, local authorities said on Monday.
+
+The local government in South Sulawesi also reported that two people were in a critical condition in hospital.
+
+Landslides, triggered by high-intensity rains, affected two villages in the region of Tana Toraja, in South Sulawesi and destroyed four homes, according to the country's disaster mitigation data on Sunday.
+
+Photos of affected villages provided by the agency showed rescuers trawling through the rubble for survivors, with homes flattened and reduced to planks of wood and concrete.
+
+Emergency response efforts have been complicated by poor weather conditions and damage to roads into the affected areas, making it difficult for vehicles, including ambulances to evacuate victims, the agency previously said.
+
+...
+
+[Data](articles/95d4eee8.json)
 
 ---
 
@@ -2233,127 +2327,5 @@ He said ambulance services are also on standby for twenty-four hours to provide 
 [Data](articles/ff71b4b8.json)
 
 [Extended Data](ext_articles/ff71b4b8.ext.json)
-
----
-
-### Two women killed in Hali Ela accident
-
-*2024-04-14 13:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹலி-எல-விபத்தில்-பெண்கள்-இருவர்-பலி/175-335928) · `ta`
-
-In Hali Ela, two women from Gampaha Dompe Puwakwatte were killed in a car accident celebrating New Year. Their daughter was injured and hospitalized.
-
-🟩
-
-A car carrying a group of people from the same family to celebrate the New Year and two women were killed and two women were killed and their daughter was injured and admitted to the Badulla Teaching Hospital.. The Hali Ela Temple was held today (14) on the main road of Bandarawela, Badulla.
-
-HM from Gampaha Dompe Puwakwatte area. The police also said that Kamalavati (70) and her daughter -in -law, Mudumahake Syria (51), said.
-
-◼️
-
-[Data](articles/52425955.json)
-
-[Extended Data](ext_articles/52425955.ext.json)
-
----
-
-### The victim was attacked by a knife in Sydney yesterday - Australian police
-
-*2024-04-14 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181070) · `ta`
-
-A 40-year-old man from Queensland, Joe Gaqi, attacked by knife in Sydney, killing many in Pontie Westfield. He was mentally ill, settled in Sydney recently. Family sympathizes with victims and supports female officer who stopped him. Police investigate if Kauchi was targeted by women.
-
-🟩
-
-Police said that the 40 -year -old Joe Gaqi from Queensland was the man who killed many people in Sydney's Pontie Westfield Business Complex.
-
-The person who was mentally ill had settled in Sydney a few months ago, police said.
-
-Her family has expressed their sympathies to the families of the victims.
-
-They have expressed their support to the female police officer who fired on Kauchi and stopped her frenzy.
-
-Police said they were investigating whether Kauchi was targeted by women.
-
-◼️
-
-[Data](articles/50a959fd.json)
-
-[Extended Data](ext_articles/50a959fd.ext.json)
-
----
-
-### Six six six with cricket ground
-
-*2024-04-14 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195618) · `si`
-
-Diprandra Singh, a Nepalese cricketer, scored six sixes in six balls in the Asian Premier Cup, becoming the third player in the Twenty20. He was selected after Yuvaraj Singh and Kiran Palad. In a match last year, he scored 64 runs in 20 overs, including six sixes and seven fours, leading Nepal to 210 runs.
-
-🟩
-
-Nepal Cricketers Diphendra Singh has also been able to join the Cricket Report as a third player in the Twenty20 player.
-
-He made this talent in the competition against Qatar in the Asian Premier Cup International Cricket Tournament.
-
-Accordingly, Dipandra Singh was elected to the batting of six six batsman after the Super players Yuvaraj Singh and Kiran Palad.
-
-In September last year, Dipandra Singh joined the Farmers' Records Book.
-
-Batting first, Nepal scored 210 runs for the loss of 7 wickets in their allotted 20 overs.
-
-Diprandra Sinhala, operating at the last over, was recorded six six bursts in six balls.
-
-The Deephra Sylligious scored 64 runs in his six sixes and 7 fours and three fours.
-
-At the end of 178 runs, the loss of 9 wickets in the end of 20 overs were collected.
-
-◼️
-
-[Data](articles/48d79972.json)
-
-[Extended Data](ext_articles/48d79972.ext.json)
-
----
-
-### Decision taken by Iran to attack Israel
-
-*2024-04-14 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195617) · `si`
-
-Iran attacked Israel, prompting US President Biden to call G7 leaders for discussion. Biden discussed the incident with Israel's Netanyahu and mentioned steps to destroy drones, but damage details are unclear.
-
-🟩
-
-US President Joe Biden says that the leaders of the G7 will be called today (14) regarding the attack on Israel.
-
-The US President has stated that it is aimed at discussing the expressive attack on Iran.
-
-The US President has said that he was discussing with the security situation along the telephone line with Israel and discussed the security situation along the telephone line with Prime Minister Benjamin Netanya.
-
-Iran launched the drones and missiles to be destroyed by the Iran yesterday (13), and the US said that steps were taken to destroy a number of drones.
-
-However, it is said that there have been no clearly detected on the damage caused by these attacks.
-
-◼️
-
-[Data](articles/2b7fe637.json)
-
-[Extended Data](ext_articles/2b7fe637.ext.json)
-
----
-
-### Sri Lanka hopeful of fruitful engagements for ‘speedy debt resolution’ during IMF-World Bank spring meetings
-
-*2024-04-14 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98625/sri-lanka-hopeful-of-fruitful-engagements-for-speedy-debt-resolution-during-imf-world-bank-spring-meetings-) · `en`
-
-Sri Lanka’s State Minister of Finance Shehan Semasinghe says that they expect fruitful engagements that will pave the way for unlocking the next tranche of essential IMF funding and a speedy debt resolution which will enhance economic stability, during the upcoming International Monetary Fund (IMF) and World Bank “Spring Meetings” 2024.
-
-Posting on ‘X’ (formerly Twitter), Semasinghe expressed that Sri Lanka’s journey to its current state of stability and progress is due to the invaluable support provided by the IMF, World Bank and international partners during the most severe economic crisis that the country faced since 2022.
-
-“As we navigate the complexities of global economic challenges, we will engage closely with the IMF and aim to contribute to broader international economic cooperation with our partners”, he added.
-
-...
-
-[Data](articles/7a2a5646.json)
-
-[Extended Data](ext_articles/7a2a5646.ext.json)
 
 ---

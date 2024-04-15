@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 10:33:42**
+As of **2024-04-15 10:50:53**
 
 ## Newspaper Stats
 
-*Scraped **18,866** Articles*
+*Scraped **18,868** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,48 @@ dailyftlk | 1,018
 economynextcom | 1,052
 adalk | 1,573
 tamilmirrorlk | 2,207
-adaderanalk | 2,277
+adaderanalk | 2,278
 virakesarilk | 2,802
-dailymirrorlk | 2,903
+dailymirrorlk | 2,904
 adaderanasinhalalk | 3,077
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,865 (100.0%) of 18,866 articles have been extended.
+18,866 (100.0%) of 18,868 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### Ten deaths reported from 8 road accidents within 24 hours
+
+*2024-04-15 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98639/ten-deaths-reported-from-8-road-accidents-within-24-hours) · `en`
+
+A total of eight road accidents with 10 deaths have been reported during the last 24 hours from various parts of the country, Police Media Spokesman DIG Nihal Thalduwa said.
+
+He further revealed that five of the 08 road accidents were caused due to vehicles skidding off the roads.
+
+Meanwhile, the police state that most road accidents are observed to be due to driver negligence. Hence, drivers are requested to be more careful and to adhere to traffic rules.
+
+◼️
+
+[Data](articles/52e2cc34.json)
+
+---
+
+### Anointing of oil
+
+*2024-04-15 10:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anointing-of-oil/108-280584) · `en`
+
+During the traditional oil anointing ritual after the Sinhala and Tamil New Year dawn, a blessing is recited that invokes a series of seemingly impossible transformations to grant longevity to the anointed.
+
+◼️
+
+[Data](articles/d88c3a08.json)
+
+---
 
 ### Special public transport services in place after New Year holidays
 
@@ -67,6 +95,8 @@ Pandya said Pathirana made the difference for CSK as the target for definitely g
 ...
 
 [Data](articles/7067570e.json)
+
+[Extended Data](ext_articles/7067570e.ext.json)
 
 ---
 
@@ -2317,49 +2347,5 @@ The Mumbai Police had worked to increase the security of Salman Khan due to thre
 [Data](articles/0faf2ba1.json)
 
 [Extended Data](ext_articles/0faf2ba1.ext.json)
-
----
-
-### Death of Israel
-
-*2024-04-14 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/181065) · `ta`
-
-Iranians celebrate missile strikes on Israel, waving flags and banners in Tehran's squares, expressing support for Iran's military actions.
-
-🟩
-
-Iranian people have come down the streets and expressed their support for Iran's unprecedented missile and unmanned air strikes against Israel.
-
-The Iranian people are seen with Iranian Palestinian flags, who are expressing their happiness on the streets with banners as the Lord's victory is approaching.
-
-Thousands of people found in Tehran's Balasadena Square are claiming to be the death of the United States to Israel.
-
-The next step is to be found in Tehran Palestine Square, an inscribed banner.
-
-A large number of people have gathered in front of the British embassy in the Iranian capital and the American attack, Iran's military commander, Qasim Sulemani.
-
-◼️
-
-[Data](articles/21aa523d.json)
-
-[Extended Data](ext_articles/21aa523d.ext.json)
-
----
-
-### Booms and sirens in Israel after Iran launches over 200 missiles and drones in unprecedented attack
-
-*2024-04-14 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98622/booms-and-sirens-in-israel-after-iran-launches-over-200-missiles-and-drones-in-unprecedented-attack) · `en`
-
-JERUSALEM (AP) — Booms and air raid sirens sounded across Israel early Sunday after Iran launched hundreds of drones, ballistic missiles and cruise missiles in an unprecedented revenge mission that pushed the Middle East closer to a regionwide war. In Washington, President Joe Biden said U.S. forces helped Israel down “nearly all” the drones and missiles and pledged to convene allies to develop a unified response.
-
-The attack, less than two weeks after a suspected Israeli strike in Syria that killed two Iranian generals in an Iranian consular building, marked the first time Iran has launched a direct military assault on Israel, despite decades of enmity dating back to the country’s 1979 Islamic Revolution.
-
-Condemnation from the United Nations chief and others was swift, with France saying Iran “is risking a potential military escalation,” Britain calling the attack “reckless” and Germany saying Iran and its proxies “must stop it immediately.”
-
-...
-
-[Data](articles/05829549.json)
-
-[Extended Data](ext_articles/05829549.ext.json)
 
 ---

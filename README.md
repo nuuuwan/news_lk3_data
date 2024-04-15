@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 01:34:05**
+As of **2024-04-16 01:51:12**
 
 ## Newspaper Stats
 
-*Scraped **19,004** Articles*
+*Scraped **19,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,064
 adalk | 1,583
 tamilmirrorlk | 2,219
 adaderanalk | 2,292
-virakesarilk | 2,827
+virakesarilk | 2,828
 dailymirrorlk | 2,924
 adaderanasinhalalk | 3,096
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,096
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,995 (100.0%) of 19,004 articles have been extended.
+19,004 (100.0%) of 19,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### யாழில் போதைப்பொருள் பாவனைக்காகத் திருட்டில் ஈடுபட்டவர் கைது
+
+*2024-04-16 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181185) · `ta`
+
+யாழ்ப்பாணம் - குருநகர் பகுதியில் போதைப்பொருள் பாவனைக்காகத் திருட்டில் ஈடுபட்டவர் என்ற சந்தேகத்தின் அடிப்படையில் ஒருவர் திங்கட்கிழமை (15) கைது செய்யப்பட்டார்.
+
+யாழ் மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகர் ஜகத் விஷாந்த தலைமையிலான பொலிஸ் புலனாய்வு பிரிவுக்கு கிடைத்த தகவலில் குறித்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டது.
+
+குருநகர் பகுதியில் கடந்த வாரம் இரு வேறு இடங்களில் 90,000 ரூபாய் பணத்தையும் ஐந்தரைப் பவுன் பெறுமதியான நகையையும் திருடிச் சென்றவரே இவ்வாறு கைது செய்யப்பட்டார்.
+
+கைது செய்யப்பட்ட 23 வயதான சந்தேக நபர் யாழ்ப்பாண பிராந்திய குற்றத்தடுப்பு பிரிவு பொலிஸாரிடம் ஒப்படைக்கப்பட்டார்.
+
+போதைப்பொருள் பாவனைக்காகவே தான் திருடியதாகச் சந்தேக நபர் ஒப்புக் கொண்டுள்ளதாகத் தெரிவித்த பொலிஸார், நகை மற்றும் பணம் என்பன மீட்கப்பட்ட பின்னர் சந்தேக நபரை நீதிமன்றத்தில் முற்படுத்த நடவடிக்கை எடுக்கப்படும் எனத் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/22669d91.json)
+
+---
 
 ### Uma Oya multi-purpose development project completes construction, begins hydropower generation
 
@@ -50,6 +70,8 @@ With its completion scheduled for 24 April, the Umaoya Multi-Purpose Development
 
 [Data](articles/6f05c9d6.json)
 
+[Extended Data](ext_articles/6f05c9d6.ext.json)
+
 ---
 
 ### Iranian President to inaugurate Uma Oya Project
@@ -65,6 +87,8 @@ The Uma Oya Multipurpose Development Project is poised for a grand inauguration,
 ◼️
 
 [Data](articles/a6f089d5.json)
+
+[Extended Data](ext_articles/a6f089d5.ext.json)
 
 ---
 
@@ -88,6 +112,8 @@ It has invited applications from competent citizens of Sri Lanka for the positio
 
 [Data](articles/29dd63c6.json)
 
+[Extended Data](ext_articles/29dd63c6.ext.json)
+
 ---
 
 ### Public lecture on Buddhist diplomacy on 19 April
@@ -101,6 +127,8 @@ The Guest Speaker is Dr. George Cooke, formerly in the Diplomatic Service and su
 ◼️
 
 [Data](articles/61ffdf1c.json)
+
+[Extended Data](ext_articles/61ffdf1c.ext.json)
 
 ---
 
@@ -118,6 +146,8 @@ Fakhoury’s agenda included meetings with several private sector clients as wel
 
 [Data](articles/7b1fd4bc.json)
 
+[Extended Data](ext_articles/7b1fd4bc.ext.json)
+
 ---
 
 ### Coca-Cola appoints Kaushali Kusumapala as first female Country Director for Sri Lanka and Maldives
@@ -133,6 +163,8 @@ With a career spanning back to 2009, Kaushali has garnered diverse experience ha
 ...
 
 [Data](articles/13a188dc.json)
+
+[Extended Data](ext_articles/13a188dc.ext.json)
 
 ---
 
@@ -150,6 +182,8 @@ The decision to exempt Sri Lanka from the export ban on onions underscores the c
 
 [Data](articles/58070f84.json)
 
+[Extended Data](ext_articles/58070f84.ext.json)
+
 ---
 
 ### Aspiring Sri Lankan tech start up to disrupt global EdTech landscape with HEAD
@@ -163,6 +197,8 @@ HEAD leads addresses a major pain point for institutions by offering a streamlin
 ...
 
 [Data](articles/94cb1885.json)
+
+[Extended Data](ext_articles/94cb1885.ext.json)
 
 ---
 
@@ -181,6 +217,8 @@ Though he failed to explicitly name these “classists, communists, and extremis
 ...
 
 [Data](articles/5ee04e6d.json)
+
+[Extended Data](ext_articles/5ee04e6d.ext.json)
 
 ---
 
@@ -2201,39 +2239,5 @@ Public Health Inspectors (PHIs) have taken steps to trace her close contacts.
 [Data](articles/ec3c0495.json)
 
 [Extended Data](ext_articles/ec3c0495.ext.json)
-
----
-
-### Woman girl shot dead
-
-*2024-04-15 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195646) · `si`
-
-A 17-year-old girl was shot dead in Polonnaruwa, Sri Lanka, in a dispute with her 40-year-old ex-boyfriend. The incident occurred at Giritale on the 4th night. The girl had left her ex-boyfriend due to harassment but was persuaded to return. The suspect fled, and police are investigating.
-
-🟩
-
-The 17-year-old girl was killed in a shooting at Giritale in Polonnaruwa yesterday (14).
-
-The shooting has been carried out by a 40-year-old man and has been shooting on a personal dispute between him and his girl.
-
-The shooting was shooting at the 4th night in Polonnaruwa Giritale.
-
-Along with the person who was shot, had commenced a romantic relationship.
-
-However, the girl had returned to their parents home a few weeks after the frequent trouble and harassment.
-
-The girl had later influenced a number of occasions to the young woman to return to the country.
-
-In such a background, the girl had gone to attend a neighboring house in a neighboring house with her mother last night.
-
-The suspect, or 40, has been shot dead.
-
-The suspect has fled the area and Minneriya Police have commenced further investigations into the suspect.
-
-◼️
-
-[Data](articles/dfdb453c.json)
-
-[Extended Data](ext_articles/dfdb453c.ext.json)
 
 ---

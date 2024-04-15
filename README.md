@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 12:03:17**
+As of **2024-04-15 12:18:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,878 (100.0%) of 18,879 articles have been extended.
+18,879 (100.0%) of 18,879 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -450,23 +450,29 @@ However, State Finance Minister Siyambalapitiya said no permission has been give
 
 ---
 
-### අද දිනයේදී වැස්සේ තාවකාලික වැඩිවීමක්
+### A temporary increase in the rain today
 
 *2024-04-15 08:25:09* · [`adalk`](https://www.ada.lk/breaking_news/අද-දිනයේදී-වැස්සේ-තාවකාලික-වැඩිවීමක්/11-409083) · `si`
 
-අද දිනයේදී දිවයිනේ නැගෙනහිර, ඌව සහ දකුණු පළාත්වල වැසි තත්ත්වයේ තාවකාලික වැඩිවීමක් බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+"Temporary rain increase expected in East, Uva, and Southern provinces, with showers or thundershowers in parts of the Eastern and Uva provinces, and several spells in the North and North Central provinces. Heavy showers possible in Western, Sabaragamuwa, Uva, and Southern provinces."
 
-ඒ අනුව නැගෙනහිර සහ ඌව පළාත්වලත් හම්බන්තොට, නුවරඑළිය සහ මාතලේ දිස්ත්‍රික්කවලත් විටින් විට
+🟩
 
-වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව එම දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology says that today is expected to increase a temporary increase in the East, Uva and Southern provinces of the island.
 
-උතුරු සහ උතුරුමැද පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකි බවත් දිවයිනේ සෙසු ප්‍ර දෙශවල ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බවද එම දෙපාර්තමේන්තුව පවසයි.
+Accordingly, in the Eastern and Uva provinces, Hambantota, Nuwara Eliya and Matale districts
 
-බස්නාහිර, සබරගමුව, ඌව හා දකුණු පළාත්වලත් අම්පාර හා මඩකළපුව දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මිලි මිටර් 100ට වැඩි තද වැසි ඇතිවීමේ හැකියාවක් තිබෙන බවද එම දෙපාර්තමේනතුව අද අලුයම නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+Showers or thundershowers will occur at times.
+
+Several spells of the North and North Central province can occur in the rest of the island. Showers or thundershowers will occur at several places, about 2.00.
+
+The department has the ability to raise heavy showers over 100 millisewarms today in the Western, Sabaragamuwa, Uva and Southern provinces.
 
 ◼️
 
 [Data](articles/e65f6ad3.json)
+
+[Extended Data](ext_articles/e65f6ad3.ext.json)
 
 ---
 

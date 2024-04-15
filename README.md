@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 12:18:30**
+As of **2024-04-15 12:33:50**
 
 ## Newspaper Stats
 
-*Scraped **18,879** Articles*
+*Scraped **18,881** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,052
 adalk | 1,574
-tamilmirrorlk | 2,210
+tamilmirrorlk | 2,212
 adaderanalk | 2,279
 virakesarilk | 2,805
 dailymirrorlk | 2,904
@@ -26,11 +26,47 @@ adaderanasinhalalk | 3,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,879 (100.0%) of 18,879 articles have been extended.
+18,879 (100.0%) of 18,881 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### நாட்டில் 24 மணித்தியாலத்தில் 10 பேர் மரணம்
+
+*2024-04-15 12:12:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-24-மணித்தியாலத்தில்-10-பேர்-மரணம்/175-335953) · `ta`
+
+கடந்த 24 மணித்தியாலங்களில் நாட்டின் வெவ்வேறு பகுதிகளில் இடம்பெற்ற 8 வீதி விபத்துக்களில்   10 பேர் உயிரிழந்துள்ளனர்.
+
+இந்த 8 விபத்துக்களில் 5 விபத்துக்கள் வீதியில் வாகனம் சறுக்கிச் சென்றதன் காரணமாகவே இடம்பெற்றுள்ளதாக பொலிஸார் குறிப்பிடுகின்றனர்.
+
+போக்குவரத்து விதிமுறைகளை சாரதிகள; உரிய முறையில் பின்பற்றுமாறு கேட்டுக்கொள்ளப்படுவதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதிப் பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.R
+
+◼️
+
+[Data](articles/dbefa9a9.json)
+
+---
+
+### மாணவியை கடத்திய   இளைஞன்   கைது
+
+*2024-04-15 12:06:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மாணவியை-கடத்திய-இளைஞன்-கைது/73-335952) · `ta`
+
+14 வயது மாணவியை கடத்திச் சென்ற குற்றச்சாட்டின் பேரில் 17 வயது இளைஞர் ஒருவரை காத்தான்குடி பொலிஸார் திங்கட்கிழமை (15) காலை கைது செய்துள்ளனர் .
+
+மட்டக்களப்பு காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட ஆரையம்பதி கிரான்குளத்தைச் சேர்ந்த மேற்படி மாணவியை காதல் என்ற பெயரில் கடத்திச் சென்ற திருகோணமலை குற்றவெளியைச் சேர்ந்த 17 வயது இளைஞனே கைது செய்யப்பட்டுள்ளார்.
+
+கடத்திச் சென்று கொழும்பில் சில நாட்கள் தங்கி இருந்தபின் மீண்டும்  சொந்த இடத்துக்கு ஞாயிற்றுக்கிழமை (14)  திரும்பி வீட்டில் தங்கியிருப்பதாக  கிடைக்கப்பெற்ற தகவல் ஒன்றின் அடிப்படையில் காத்தான்குடி பொலிஸார்  இளைஞனை கைது செய்துள்ளனர்
+
+குற்றவெளியிலிருந்து கிரான் குளத்துக்கு ஏப்ரல் 9ஆம் திகதி வந்த மேற்படி காதலன் குறித்த மாணவியை கொழும்புக்கு அழைத்துச் சென்றுள்ளார் கொழும்பிலிருந்து மீண்டும் ஞாயிறுக்கிழமை (14) ஊர் திரும்பிய நிலையில் கிடைக்கப்பெற்ற தகவலின் அடிப்படையில் குறித்த இளைஞர் காத்தான்குடி பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட இளைஞர்  நீதவான் முன்னிலையில் ஆஜர் படுத்தப்பட உள்ளதாக காத்தான்குடி பொலிஸார் மேலும் தெரிவித்தனர்.
+
+...
+
+[Data](articles/ae9f0d16.json)
+
+---
 
 ### Increase in domestic egg prices!
 
@@ -2319,53 +2355,5 @@ Posting on ‘X’ (formerly Twitter), Semasinghe expressed that Sri Lanka’s j
 [Data](articles/7a2a5646.json)
 
 [Extended Data](ext_articles/7a2a5646.ext.json)
-
----
-
-### Madagascan woman arrested with 75 swallowed cocaine capsules at BIA
-
-*2024-04-14 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98624/madagascan-woman-arrested-with-75-swallowed-cocaine-capsules-at-bia) · `en`
-
-The officers of the Narcotics Control Unit of Sri Lanka Customs have arrested a foreign national woman at the arrival terminal of the Bandaranaike International Airport (BIA) for attempting to smuggle cocaine capsules by ingesting them.
-
-The arrested 38-year-old Madagascan woman is suspected to have swallowed about 75 cocaine capsules with an estimated street value of around Rs. 35 million.
-
-The Madagascan had arrived at BIA onboard a Vistara Airlines flight on April 12 from Addis Ababa in Ethiopia via Mumbai, India.
-
-The woman had ingested cocaine capsules enclosed in condoms, carefully sealing them with tape to avoid any potential leakage, Sri Lanka Customs said.
-
-Following her arrest, the Madagascan has been admitted to Negombo Hospital for extracting the swallowed capsules of drugs.
-
-After extracting the swallowed drug capsules from the suspect’s body, she will be handed over to the Narcotics Control Unit of Sri Lanka Customs for further investigation.
-
-◼️
-
-[Data](articles/7c7fcf69.json)
-
-[Extended Data](ext_articles/7c7fcf69.ext.json)
-
----
-
-### The shore of the loss of surviving
-
-*2024-04-14 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195616) · `si`
-
-A 51-year-old in Dodamgaslanda was killed by a firearm in Maduragoda Amandapola, Sri Lanka. The victim was admitted to Ridigama Hospital but died. Preliminary investigations suggest the deceased was occasionally involved with firearms.
-
-🟩
-
-A firearm of a firearm to hunt the animals was killed in a Maduragoda Amandapola.
-
-The police said that a firearm in Sri Lanka has been implemented and the victim has died in ridden admission to the Ridigama Hospital for treatment.
-
-The victim was a 51 year old resident of the Dodamgaslanda area.
-
-Preliminary investigations have revealed that the deceased was being used by firearms from time to time.
-
-◼️
-
-[Data](articles/4c38ce72.json)
-
-[Extended Data](ext_articles/4c38ce72.ext.json)
 
 ---

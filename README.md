@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 02:03:26**
+As of **2024-04-16 02:18:22**
 
 ## Newspaper Stats
 
@@ -2072,7 +2072,7 @@ The fishermen issue is a contentious one in the ties between India and Sri Lanka
 
 ---
 
-### Sri Lanka SOEs place Rs33,949 on each citizen: restructuring unit
+### Sri Lanka SOEs place Rs33,949 debt on each citizen: restructuring unit
 
 *2024-04-15 14:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-soes-place-rs33949-on-each-citizen-restructuring-unit-158535/) · `en`
 

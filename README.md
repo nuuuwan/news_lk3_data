@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 10:50:53**
+As of **2024-04-15 11:03:36**
 
 ## Newspaper Stats
 
-*Scraped **18,868** Articles*
+*Scraped **18,874** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 165
-bbccomsinhala | 197
+bbccomsinhala | 198
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,017
@@ -17,20 +17,70 @@ dailyftlk | 1,018
 economynextcom | 1,052
 adalk | 1,573
 tamilmirrorlk | 2,207
-adaderanalk | 2,278
-virakesarilk | 2,802
+adaderanalk | 2,279
+virakesarilk | 2,804
 dailymirrorlk | 2,904
-adaderanasinhalalk | 3,077
+adaderanasinhalalk | 3,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,866 (100.0%) of 18,868 articles have been extended.
+18,868 (100.0%) of 18,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### பண்டிகையை முன்னிட்டு சொந்த  இடங்களுக்குச் சென்ற மக்களுக்கு விசேட போக்குவரத்து சேவை!
+
+*2024-04-15 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181092) · `ta`
+
+புதுவருட பண்டிகையினை  முன்னிட்டு தமது கிராமங்களுக்கு சென்ற மக்களுக்காக இன்று  (15) மற்றும் நாளை (16) விசேட  பஸ் சேவைகளை  நடத்துவதற்கு ஏற்பாடுகள் செய்யப்பட்டுள்ளதாக தேசிய போக்குவரத்து ஆணைக்குழு தெரிவித்துள்ளது.
+
+பயணிகளின் தேவைக்கு ஏற்ப  பஸ்களை சேவையில் ஈடுபடுத்த ஏற்பாடுகள் செய்யப்பட்டுள்ளதாக போக்குவரத்து ஆணைக்குழுவின் தலைவர் சஷி வெல்கம தெரிவித்துள்ளார்.
+
+அத்தோடு, ரயிலில் வரும் பயணிகளின் வசதிகளை அடிப்படையாக கொண்டு சில விசேட ரயில் பயணங்களும்  ஏற்பாடு செய்யப்பட்டுள்ளதாக ரயில்வே திணைக்கள பிரதிப்பொது முகாமையாளர் என்.ஜே.இதிபொலகே தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/687d0d60.json)
+
+---
+
+### 17-year-old girl injured in shooting in Giritale
+
+*2024-04-15 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98640/17-year-old-girl-injured-in-shooting-in-giritale-) · `en`
+
+A 17-year-old teenage girl has been hospitalized after reportedly being shot in the neck, police said.
+
+The shooting has taken place in Yaya 04 area of Giritale, Minneriya last night (April 14).
+
+The girl was injured in the shooting while she was at a relative’s house with her family.
+
+Police said that it is not yet known as to who carried out the shooting, and Minneriya Police is conducting further investigations into the incident.
+
+The teenage girl who sustained injuries during the shooting is currently receiving treatment at Polonnaruwa Hospital, according to police.
+
+◼️
+
+[Data](articles/4d8928e8.json)
+
+---
+
+### தீ விபத்தில் பெண் உயிரிழப்பு!
+
+*2024-04-15 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/181088) · `ta`
+
+திம்புலபதன கொட்டகலை பிரதேசத்தில் வீடொன்றில் ஏற்பட்ட தீ விபத்தில் பெண் ஒருவர் உயிரிழந்துள்ளார்.
+
+வீட்டின் அறையொன்றில் தீ பரவியதாகவும் தீயினால் தீக்காயங்களுக்கு உள்ளான பெண் கொட்டகலை வைத்தியசாலையில் அனுமதிக்கப்பட்ட போது சிகிச்சை பலனின்றி  உயிரிழந்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/639bd843.json)
+
+---
 
 ### Ten deaths reported from 8 road accidents within 24 hours
 
@@ -46,6 +96,42 @@ Meanwhile, the police state that most road accidents are observed to be due to d
 
 [Data](articles/52e2cc34.json)
 
+[Extended Data](ext_articles/52e2cc34.ext.json)
+
+---
+
+### පැය 24ක් තුළ රිය අනතුරුවලින් ජීවිත 10ක් අහිමිවෙයි
+
+*2024-04-15 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195643) · `si`
+
+ඉකුත් පැය 24 තුළ මාර්ග අනතුරු 08ක් වාර්තාවී ඇති අතර ඉන් මරණ 10ක් වාර්තා වී තිබේ.
+
+පොලීසිය සඳහන් කරන්නේ මෙම අනතුරු 8න් 05ක් සිදුවී ඇත්තේ මාර්ගයේ වාහන ලිස්සා යාමෙන් බවය.
+
+බොහෝ මාර්ග අනතුරු රියදුරන්ගේ නොසැලකිල්ල නිසා සිදුවන බව නිරීක්ෂණය වී තිබේ.
+
+එබැවින් රථවාහන නීති රීති පිළිපදින ලෙස රියදුරන්ගෙන් ඉල්ලීමක් කරන බවද පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසීය.
+
+◼️
+
+[Data](articles/b3857455.json)
+
+---
+
+### හිසතෙල් ගෑමේ නැකැත උදාවෙයි
+
+*2024-04-15 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195642) · `si`
+
+සිංහල හා දෙමළ අලුත් අවුරුද්දේ තවත් සුවිශේෂී නැකැත් චාරිත්‍රයක් වන හිසතෙල් ගෑමේ චාරිත්‍රය අද (15) පෙරවරු 10යි 17 ට යෙදී තිබුණි.
+
+ශ්වේත වර්ණ හෙවත් සුදු පැහැති වස්ත්‍රභරණයෙන් සැරසී දකුණු දිශාව බලා හිසට දිවුල් පත් ද පයට ඉඹුල් පත් ද තබා දිවුල් පත්‍ර යුෂ මිශ්‍ර නානු හා තෙල් ගා ස්නානය කිරීම මැනවි බව නැකැත් පත්‍රයේ සඳහන් වෙයි.
+
+හිසතෙල් ගෑමේ ජාතික උත්සවය වත්තල, හැඳළ පුරාණ රජමහා විහාරයේදී පැවැත් වෙයි.
+
+◼️
+
+[Data](articles/ca9cb08a.json)
+
 ---
 
 ### Anointing of oil
@@ -57,6 +143,8 @@ During the traditional oil anointing ritual after the Sinhala and Tamil New Year
 ◼️
 
 [Data](articles/d88c3a08.json)
+
+[Extended Data](ext_articles/d88c3a08.ext.json)
 
 ---
 
@@ -469,6 +557,28 @@ Accordingly, in the Western, Sabaragamuwa, Uva and Southern provinces, the Ampar
 [Data](articles/c3a5314e.json)
 
 [Extended Data](ext_articles/c3a5314e.ext.json)
+
+---
+
+### දෙමාපියන්ට, ගුරුවරුන්ට දරුවන්ගේ ඡායාරූප සමාජ මාධ්‍යවල පළ කළ හැකි ද?
+
+*2024-04-15 05:13:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1e85p8yx2qo) · `si`
+
+දෙමාපියන්ට, ගුරුවරුන්ට දරුවන්ගේ ඡායාරූප සමාජ මාධ්‍යවල පළ කළ හැකි ද?
+
+'ළමයා යන්නෙන් වයස අවුරුදු 18ට අඩු තැනැත්තෙකු අදහස් වන' බව 2024 අංක 9 දරන මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනතෙහි නිර්වචනය කර තිබේ.
+
+ළමුන්ගේ ඡායාරූප ෆේස්බුක් ඇතුළු සමාජ මාධ්‍යවල පළ කිරීම හරහා විවිධ ළමා අපයෝජන සිදු විය හැකි බව විශේෂඥ මතයයි.
+
+කෙසේ වෙතත්, දෙමාපියන් සහ ගුරුවරුන් දරුවන්ගේ ඡායාරූප සමාජ මාධ්‍යවල පළ කරනු බහුලව දැකිය හැකි ය.
+
+සාමාන්‍ය තත්ත්වයන් යටතේ යමෙකුගේ ඡායාරූපයක් වෙනත් අයෙකු විසින් සමාජ මාධ්‍යවල පළ කිරීම සඳහා අදාළ ඡායාරූපයේ සිටින තැනැත්තන්ගේ අවසරය ගත යුතු ය.
+
+එහෙත්, ළමුන්ගේ ඡායාරූප සමාජ මාධ්‍යවල පළ කිරීමට ඔවුන්ගේ දෙමාපියන්ගෙන් හෝ අදාළ ළමුන්ගෙන් අවසර ගැනීම ද සාර්ථක ක්‍රමයක් නොවන බව සයිබර් ආරක්ෂාව වෙනුවෙන් පෙනී සිටින විශේෂඥයින්ගේ අදහස වී තිබේ.
+
+...
+
+[Data](articles/c8e7da31.json)
 
 ---
 
@@ -2197,155 +2307,5 @@ A pirith chanting ceremony was held last night at the Siri Vajiragnana Dhamma Sc
 [Data](articles/f39da2f0.json)
 
 [Extended Data](ext_articles/f39da2f0.ext.json)
-
----
-
-### Alert
-
-*2024-04-14 11:15:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மக்களுக்கு-விடுக்கப்பட்டுள்ள-எச்சரிக்கை/73-335927) · `ta`
-
-In Batticaloa, residents have caught the first person entering a concentrated area, likely due to crocodile vigilance during rain. Despite no water bodies, people entered the area. The Department of Wildlife was informed, and the crocodile is currently being cared for.
-
-🟩
-
-In the Batticaloa district, the crocodile is likely to be vigilant due to the possibility of crocodiles to the residences as it is raining and it is raining.
-
-The first person who entered the concentrated area of the Batticaloa Municipal Council has been caught by the people.
-
-The residents of the area said that despite the lack of water bodies in the area, the first people entered the area.
-
-Following the announcement to the Department of Wildlife, the people of the area have been taken up by the people of the area.
-
-It is noteworthy that the crocodile is currently undergoing a care of the crocodiles.
-
-◼️
-
-[Data](articles/b4d6ee3f.json)
-
-[Extended Data](ext_articles/b4d6ee3f.ext.json)
-
----
-
-### The UN. The Security Council meets Sunday
-
-*2024-04-14 11:06:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஐ-நா-பாதுகாப்பு-கவுன்சில்-ஞாயிற்றுக்கிழமை-கூடுகிறது/50-335926) · `ta`
-
-The UN Security Council meets Sunday to discuss Iran's air strike on Israel, following an attack on Iran's embassy in Syria. Israeli Ambassador Erdan called for declaring IRGC a terrorist organization. The Council, led by Antonio and Francis, urges Israel and Iran to de-escalate tensions.
-
-🟩
-
-The United Nations demanding an emergency crowd following Iran's air strike. The Security Council meets Sunday.
-
-According to the table released on Saturday, the 15 -member Council will meet at 4 pm local time in New York.
-
-Israeli Ambassador to the United Nations on Saturday called on Khilat Eron to "convene a meeting to take steps to declare IRGC as a terrorist organization for fierce violations."
-
-In a letter to the chairman of the Council, Erdan said the attack was a "extreme threat" for global peace and security, and he expects the Council to use all the ways to take concrete action against Iran.
-
-UN Secretary -General Antonio and General Council Chairman Dennis Francis have separately voiced the attack and urged Israel and Iran to keep up with the increasing number of tensions in the area.
-
-...
-
-[Data](articles/70e4e58c.json)
-
-[Extended Data](ext_articles/70e4e58c.ext.json)
-
----
-
-### Buses operate from today
-
-*2024-04-14 11:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Buses-operate-from-today/108-280690) · `en`
-
-Buses will arrange for passengers to Colombo today for their requirements, bus associations said.
-
-Meanwhile, the Sri Lanka Transport Board (SLTB) said buses will operate from today.
-
-Many people arrived in Colombo from areas like Kandy, Badulla, Batticoloa and the Southern Province.
-
-However, people will not have to wait longer in queues. Buses will be provided one after the other for the convenience of the passengers.
-
-◼️
-
-[Data](articles/85238da5.json)
-
-[Extended Data](ext_articles/85238da5.ext.json)
-
----
-
-### Keep pets safe at home
-
-*2024-04-14 10:53:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செல்லப்பிராணிகளை-வீட்டில்-பாதுகாப்பாக-வைத்திருக்கவும்/175-335925) · `ta`
-
-Environmental activists in Sri Lanka warn that fireworks during Sinhalese and Tamil festivals harm pets and wildlife, causing birds to leave nests and dogs to feel fear or tension.
-
-🟩
-
-During the Sinhalese and Tamil festival, environmental activists in Sri Lanka have warned pets and wildlife effects of fireworks.
-
-According to environmental activist Nayanaka Ranwella, research indicates that crackers have a deep impact on birds and small mammals, especially in the birds, including wildlife, dogs and cats.
-
-For the sake of loud eruptions, the birds will leave the nests in fear and disrupt their habitats.
-
-According to studies, the animals are more hears than humans, especially sensitive to crackers.
-
-Explosions reach 190 decibels - 75 decibels exceed the range of human hearing damage - more sound animals can cause anxiety, confusion and panic.
-
-In addition, studies have shown that 50 percent of dogs experience fear or tension when fireworks explodes.
-
-The combination of loud noise and large crowds may be more than pets, and environmental activists have to have pet owners to keep their furry friends safe during fireworks events.
-
-◼️
-
-[Data](articles/7020b55e.json)
-
-[Extended Data](ext_articles/7020b55e.ext.json)
-
----
-
-### The operation enclosed the fishing vessel of 3.7 billion drugs
-
-*2024-04-14 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195615) · `si`
-
-The Sri Lanka Navy seized a fishing vessel in the south sea, capturing 3.7 billion drugs, including 179 kg of ice drugs and over 83 kilos of heroin.
-
-🟩
-
-The Sri Lanka Navy has won the Sri Lankan multi-day fishing vessel in the south sea.
-
-The vessel had 179 kg of ice drugs and over 83 kilos of heroin.
-
-◼️
-
-[Data](articles/5c9689a3.json)
-
-[Extended Data](ext_articles/5c9689a3.ext.json)
-
----
-
-### Sulman Khan's house was shot of superbollywood actor
-
-*2024-04-14 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195614) · `si`
-
-Salman Khan's Mumbai house was shot at by two unidentified persons on a motorbike, leaving 5 bullet holes. Mumbai Police and NIA are investigating.
-
-🟩
-
-Bollywood actor Salman Khan, along today, has shot a shot to the Mumbai house today (14).
-
-Two unidentified persons who came in a motorbike around 5 am, two unidentified persons have fled the site.
-
-The Indian media reported that there are about 5 shots of shootings on the outside walls.
-
-The Mumbai Police have launched an investigation into the matter and the intersathing of the Mumbai has launched an investigation.
-
-The National Investigation Agency of India (NIA) has said that the 10-leading gangsters are the top 10 targets in a leading gang.
-
-The Mumbai Police had worked to increase the security of Salman Khan due to threatening phone calls last year.
-
-◼️
-
-[Data](articles/0faf2ba1.json)
-
-[Extended Data](ext_articles/0faf2ba1.ext.json)
 
 ---

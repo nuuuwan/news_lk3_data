@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 19:03:27**
+As of **2024-04-15 19:18:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,946 (100.0%) of 18,949 articles have been extended.
+18,949 (100.0%) of 18,949 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,25 +50,37 @@ Though the case is regarded by some legal experts as the least consequential of 
 
 [Data](articles/58722dea.json)
 
+[Extended Data](ext_articles/58722dea.ext.json)
+
 ---
 
-### நேபாள கிரிக்கெட் வீரர் திப்பேந்த்ரா சிங்; ஒரே ஒவரில் 6 சிக்ஸ்கள் விளாசல்
+### Nepal cricketer Tipendra Singh;6 sixes in the same over
 
 *2024-04-15 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181174) · `ta`
 
-சர்வதேச ரி20 கிரிக்கெட் போட்டியில் ஒரே ஒவரில் 6 சிக்ஸ்களை விளாசி நேபாள கிரிக்கெட் வீரர் திப்பேந்த்ரா சிங் ஆய்ரீ வரலாறு படைத்துள்ளார்.
+Nepal's Tipendra Singh Ayree scored six sixes in one over, setting a record in the International T20 Premier Bowl Cricket Tournament. This follows Yuvraj Singh and Kieran Pollard's feats. Ayree, a former under-19 World Cup player, also achieved a half-century in 9 balls.
 
-சர்வதேச ரி20 கிரிக்கெட் போட்டி ஒன்றில் ஒரே ஓவரில் 6 சிக்ஸ்கள் விளாசிய மூன்றாவது வீரர் திப்பேந்த்ரா சிங் ஆவார்.
+🟩
 
-ஆசிய கிரிக்கெட் பேரவையினால் ஏற்பாடு செய்யப்பட்டுள்ள சர்வதேச ரி20 பிறீமியர் கிண்ண கிரிக்கெட் சுற்றுப் போட்டியில் கத்தாருக்கு எதிராக அல் அமீரத் விளையாட்டரங்கில் இந்த அரிய மைல்கல் சாதனையை திப்பேந்த்ரா சிங் ஆய்ரீ நிலைநாட்டினார்.
+Nepal cricketer Tipendra Singh Ayree has made six sixes in the international T20 cricket match.
 
-சர்வதேச ரி20 கிரிக்கெட் போட்டியில் இந்த சாதனைக்கான பட்டியலில் இந்தியாவின் யுவ்ராஜ் சிங், மேற்கிந்தியத் தீவுகளின் கீரன் பொலார்ட் ஆகியோருடன் ஆய்ரீ இணைந்துகொண்டுள்ளார்.
+Tipendra Singh is the third player in the international T20 cricket match.
 
-இங்கிலாந்துக்கு எதிராக 2007இல் நடைபெற்ற ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியிலேயே யுவ்ராஜ் சிங் முதலாவது வீரராக ஒரே ஓவரில் 6 சிக்ஸ்களை விளாசியிருந்தார். ஸ்டுவர்ட் ப்றோடின் ஓவரிலேயே யுவ்ராஜ் சிங் இந்த சாதனையை முதன் முதலில் நிலைநாட்டியிருந்தார்.
+Tipendra Singh Ayree set this rare milestone record at the Al -Amirath Stadium against Qatar at the International R20 Premier Bowl Cricket Tournament organized by the Asian Cricket Council.
+
+India's Yuvraj Singh and Kieran Pollard of the West Indies are joining the list of records in the international T20 cricket match.
+
+Yuvraj Singh was the first player in the 2007 T20 World Cup in 2007 against England.. Yuvraj Singh first set this feat in Stuart Broadin over.
+
+Kieran Pollard was bowled out for 6 sixes in the over 14 years later in the International T20 cricket match against Sri Lanka in 2021 at the Gulij Stadium.
+
+In the 19 overs of the Asian Cricket Council's International T20 Bowl Cricket, Ayree was in the field with 28 runs off 15 balls.
 
 ...
 
 [Data](articles/4002864d.json)
+
+[Extended Data](ext_articles/4002864d.ext.json)
 
 ---
 
@@ -224,23 +236,35 @@ In the year 2022, their daughter and son had come to the obscene.
 
 ---
 
-### ඊශ්‍රායෙලයේ ලාංකිකයන් ගැන අනියත බියක් එපා
+### Don't worry about Sri Lankans in Israel
 
 *2024-04-15 17:26:51* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙලයේ-ලාංකිකයන්-ගැන-අනියත-බියක්-එපා/11-409091) · `si`
 
-ඊශ්‍රායලයේ සිටින ශ්‍රී ලාංකිකයන් සම්බන්ධයෙන් තානාපති කාර්යාලය අවධානයෙන් පසුවන බවත්, ඒ සම්බන්ධයෙන් අනියත බියක් ඇතිකර නොගන්නා ලෙසත් ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා සියලු ශ්‍රී ලාංකිකයන්ගෙන් ඉල්ලා සිටියි.
+Sri Lanka's Ambassador to Israel advises Sri Lankans in Israel to stay safe, as the Iron DOME system has successfully defended against recent attacks. Flight times and fees are increasing due to heightened security. The ambassador also mentioned a recent incident involving a flight from Dubai to Tel Aviv, where Sri Lankans were passengers, and efforts are underway to uncover information about the incident.
 
-මේ අතර ඉරානය විසින් පසුගියදා (13දා) රාත්‍රියේ ෂෙල් සහ මිසයිල ප්‍රහාර 500කට වඩා වැඩි ප්‍රමාණයක් ඊශ්‍රායලය වෙත එල්ලකර තිබුණ ද මේ දක්වා තුවාලකරුවන් ලෙස එක් කුඩා දියණියක් පමණක් වාර්තා වී ඇති බවද ඒ මහතා පවසයි.
+🟩
 
-එම ප්‍රහාර සියල්ල ගුවනේදීම විනාශ කිරීමට  Iron Dome පද්ධතිය සමත්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබු බව ද ඔහු සඳහන් කරයි.
+Sri Lanka Ambassador, Sri Lankans, is also asked to be aware of the embassy on Sri Lankans in Israel and not to fear there.
 
-පවතින තත්ත්වය හමුවේ ජෝර්දානය, ලෙබනනය, ඉරාකය ඊශ්‍රායලය ආදී රටවල් වෙත ගමන් ගන්නා ගුවන් ගමන් එම කලාපය මගහැර නැවත වෙනත් ගුවන් මාර්ග ඔස්සේ යුරෝපයේ බොහෝ රටවල් වෙත ගමන් කිරීම හේතුවෙන් එම ගමන් සඳහා ගතවන කාලය සහ ප්‍රවේශ පත්‍ර ගාස්තුව ද ඉහළ ගොස් ඇති බව ඒ මහතා වැඩිදුරටත් පෙන්වා දෙයි.
+Meanwhile (
 
-මේ හේතුවෙන් මැදපෙරදිග කලාපයේ සහ යුරෝපීය රටවල් වෙත ගමන් කිරීමට ගුවන් ප්‍රවේශ පත්‍ර ලබාගෙන ඇති පිරිස එම ප්‍රවේශ පත්‍ර පිළිබඳව නැවත අවධානය යොමුකරන ලෙසට ද නිමල් බණ්ඩාර මහතා ඉල්ලා සිටියි.
+According to foreign media reports, the Iron DOME system has been able to destroy all these attacks on the air.
+
+The time and the ticket fee will be increased due to the flights from the airline, including Jordan, Lebanon, Lebanon, Iraq, Iraq and Iraq..
+
+As a result, the number of air tickets to travel to the Middle East and European countries have been re-focused on those tickets.
+
+Nimal Bandara further stated that with this situation, the aircrafts that come to Israel and eating from Israel can be recorded.
+
+In addition to the Middle East conflicts, Iran had launched a series of drones and missiles to Israel recently.
+
+Sri Lanka's ambassador to Israel, Sri Lanka's Ambassador to Israel has issued an announcement.
 
 ...
 
 [Data](articles/61633f6c.json)
+
+[Extended Data](ext_articles/61633f6c.ext.json)
 
 ---
 

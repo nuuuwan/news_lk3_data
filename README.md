@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 23:03:33**
+As of **2024-04-15 23:18:26**
 
 ## Newspaper Stats
 
-*Scraped **18,974** Articles*
+*Scraped **18,975** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,58 @@ adalk | 1,583
 tamilmirrorlk | 2,218
 adaderanalk | 2,292
 virakesarilk | 2,825
-dailymirrorlk | 2,920
+dailymirrorlk | 2,921
 adaderanasinhalalk | 3,096
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,973 (100.0%) of 18,974 articles have been extended.
+18,974 (100.0%) of 18,975 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### එංගලන්ත ක්‍රිකට් පිටියේ සුපිරි වැඩකරුවෙකු දිවියෙන් සමුගනී
+### The super-cricket of England citizes
 
 *2024-04-15 22:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195662) · `si`
 
-එතෙක් මෙතෙක් එංගලන්ත ටෙස්ට් ක්‍රිකට් ඉතිහාසයේ සිටි විශිෂ්ටතම දඟ පන්දු යවන්නා ලෙස සැලකෙන Derek Underwood මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+Derek Underwood, England's legendary spinner, passed away. Known for his 86 Tests since 1962, he was affectionately called "Dadly" by his teammates. His unique spinning style made a significant impact, earning him a spot in the ICC Hall of Fame.
 
-වර්ෂ 1966 සිට වර්ෂ 1982 දක්වා කාලය තුළ ටෙස්ට් තරග 86කට ක්‍රීඩා කළ Derek Underwood කඩුලු 297 දවාගැනීමට සමත්වී තිබේ.
+🟩
 
-එවකට එංගලන්ත ක්‍රිකට් කණ්ඩායමේ සඟයන් ඔහුව හැඳින්වූයේ "Deadly" යන අන්වර්ථ නාමයෙනි.
+Foreign media reports that Derek Underwood has died as the excellent spinner in the history of England Test history.
 
-ලෝක ක්‍රිකට් ඉතිහාසයේ සිය නාමය ඉදිරියේ සුවිශේෂී පරිච්ඡේදයක් නිර්මාණය කළ මෙම සුවිශේෂී දඟ පන්දු යවන්නා icc hall of fame වෙත ද ඇතුළත් විය.
+Drek under 86 Tests, played 86 Tests, has played 86 Tests since 1962.
+
+At the time, the monks of the England cricket team called him from the "Dadly."
+
+This unique spin, which created a special chapter in the history of the history of the history of the history of the history of the history of the history of the world, was included in the ICC Hall of Fame.
 
 ◼️
 
 [Data](articles/e941ecc0.json)
+
+[Extended Data](ext_articles/e941ecc0.ext.json)
+
+---
+
+### Committee studying permitting vehicle imports on priority basis: Siyambalapitiya
+
+*2024-04-15 22:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Committee-studying-permitting-vehicle-imports-on-priority-basis-Siyambalapitiya/108-280734) · `en`
+
+Colombo, April 15 (Daily Mirror)- Claiming that only vehicle imports have been restricted by now, State Minister of Finance Ranjith Siyambalapitiya said today that a committee is studying the possibility of permitting vehicle imports on a priority basis in the future.
+
+He told reporters that 750 vans and 250 buses required for the tourism sector have already been permitted to be imported.
+
+He said import of some 1,500 items had been restricted due to the economic crisis and that restriction on all items except on vehicles had been lifted by now.
+
+“A special committee is studying the matters pertaining to the import of vehicles. The Committee is looking into what type of vehicles are essential, whether used vehicles are to be imported, what kind of used vehicles (number of years used), fuel consumption of vehicles and capacity of roads,” he said.
+
+...
+
+[Data](articles/a148db41.json)
 
 ---
 
@@ -2305,29 +2329,5 @@ Meanwhile, the police state that most road accidents are observed to be due to d
 [Data](articles/52e2cc34.json)
 
 [Extended Data](ext_articles/52e2cc34.ext.json)
-
----
-
-### 10 lives will be lost in 24 hours
-
-*2024-04-15 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195643) · `si`
-
-In 24 hours, 10 lives lost in 8 road accidents, 5 involving sliding vehicles. Negligence suspected. Police urge drivers to follow traffic rules.
-
-🟩
-
-There were eight road accidents in the past 24 hours and 10 deaths were reported.
-
-Police say that 05 out of these eight accidents, 5 of these eight accidents were sliding vehicles.
-
-Many road accidents have been observed that it is caused by negligence of drivers.
-
-Attorney at Law, police spokesman, Nihal Talduuwa said that drivers will be requested to follow traffic rules.
-
-◼️
-
-[Data](articles/b3857455.json)
-
-[Extended Data](ext_articles/b3857455.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 14:04:18**
+As of **2024-04-15 14:18:25**
 
 ## Newspaper Stats
 
-*Scraped **18,897** Articles*
+*Scraped **18,900** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,58 @@ adalk | 1,576
 tamilmirrorlk | 2,212
 adaderanalk | 2,280
 virakesarilk | 2,810
-dailymirrorlk | 2,910
-adaderanasinhalalk | 3,081
+dailymirrorlk | 2,912
+adaderanasinhalalk | 3,082
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,896 (100.0%) of 18,897 articles have been extended.
+18,897 (100.0%) of 18,900 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### எதிர்காலத்தின் தேவைக்கு ஏற்ப வாகனங்களை இறக்குமதி செய்ய அனுமதி!
+### Allow vehicles to be imported according to the needs of the future!
 
 *2024-04-15 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181120) · `ta`
 
-எதிர்காலத்தின் தேவைக்கு ஏற்ப வாகனங்களை இறக்குமதி செய்ய அனுமதி வழங்கப்படும் என  நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய  ஊடகங்களுக்கு தெரிவித்துள்ளார்.
+Finance Minister Ranjith Siyambalapitiya announced that vehicle imports will align with future needs, with the Central Bank's foreign reserves at $5 billion.
 
-தற்போது மத்திய வங்கிக்கு சொந்தமான வெளிநாட்டு கையிருப்பு 5 பில்லியன் அமெரிக்க டொலராக காணப்படுவதாகவும் அவர் மேலும்  தெரிவித்துள்ளார்.
+🟩
+
+Finance Minister Ranjith Siyambalapitiya has told the media that the import of vehicles will be allowed to be imported as per the needs of the future.
+
+He added that the Central Bank -owned foreign reserves are currently at US $ 5 billion.
 
 ◼️
 
 [Data](articles/455bb3f9.json)
+
+[Extended Data](ext_articles/455bb3f9.ext.json)
+
+---
+
+### ඉරානයට එරෙහි ප්‍රහාරවලට ඊශ්‍රායලයට සහාය නොදෙන බව අමෙරිකාව කියයි
+
+*2024-04-15 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195647) · `si`
+
+ඔපරේෂන් ටෘෘ ප්‍රොමිස් නමින් ඉරානය එල්ල කළ ප්‍රහාරවලට නිසි කාලය පැමිණි විට ප්‍රතිචාර දක්වන බවට ඊශ්‍රායලය අනතුරු අඟවා ඇති පසුබිමක අමෙරිකාවද ප්‍රතිචාර දක්වා තිබේ.
+
+ඒ අනුව අමෙරිකාව පවසන්නේ ඉරානයට එරෙහි කිසිදු ප්‍රහාරයක් සඳහා ඊශ්‍රායලයට සහාය නොදක්වන බවය.
+
+එසේ නොවුනහොත් කලාපය තුළ පාලනය කළ නොහැකි යුදමය තත්ත්වයක් උද්ගත විය හැකි බව අවධාරණය කරමින්.
+
+මැද පෙරදිග කලාපයේ යුද බියක් මවමින් ඉරානය ඊශ්‍රායලයට ඩ්‍රෝන සහ මිසයිල ප්‍රහාර සිය ගණනක් එල්ල කළේ පසුගිය සෙනසුරාදා රාත්‍රියේදීය.
+
+මේ වනවිට දෙපාර්ශ්වය අතර ගැටුම් සමනය වී තිබුණත් සුදුසු කාලය පැමිණි විට ඉරාන ප්‍රහාරවලට ප්‍රතිචාර දක්වන බව ඊශ්‍රායලය පවසයි.
+
+සෙනසුරාදා ප්‍රහාර සඳහා ඉරානයට ඩොලර් මිලියන 38ත්- 62ත් අතර පිරිවැයක් දැරීමට සිදුවන්නට ඇති අතර ප්‍රහාර වැළැක්වීම සඳහා ඊශ්‍රායලයට ඩොලර් බිලියන 1.35ක පිරිවැයක් දැරීමට සිදුවන්නට ඇතැයි ද විදෙස් මාධ්‍ය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/de889d1e.json)
 
 ---
 
@@ -97,6 +125,18 @@ The suspect has fled the area and Minneriya Police have commenced further invest
 [Data](articles/dfdb453c.json)
 
 [Extended Data](ext_articles/dfdb453c.ext.json)
+
+---
+
+### Oil anointing ceremony at Gangaramaya
+
+*2024-04-15 13:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Oil-anointing-ceremony-at-Gangaramaya/110-280708) · `en`
+
+Oil anointing ceremonies were held throughout the country this morning. This is from a ceremony held at the Hunupitiya Gangaramaya Temple in Colombo under the aegis of Ven. Dr. Kirinde Assaji Thera. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/fd84f92d.json)
 
 ---
 
@@ -395,6 +435,22 @@ The annual traditional Avurudu Perahera of the Ruhunu Maha Kataragama Dewalaya w
 [Data](articles/ad6767bf.json)
 
 [Extended Data](ext_articles/ad6767bf.ext.json)
+
+---
+
+### Ten killed in road accidents within 24 hours
+
+*2024-04-15 11:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Ten-killed-in-road-accidents-within-24-hours/155-280706) · `en`
+
+Colombo, April 15 (Daily Mirror)- At least ten people were killed in eight road accidents within the past 24 hours in differenet parts of the country, Police said.
+
+Four people were killed in two accidents in Pussellawa and Hali-Ela while six individuals were killed in six seperate accidents in Mahiyangana, Kirindiwela, Ambalantota, Pugoda, Matara and Thanamalwila.
+
+Police Media Spokesman DIG Nihal Thalduwa said five of the eight road accidents were due to vehicles skidding off the roads.
+
+◼️
+
+[Data](articles/856fbeac.json)
 
 ---
 
@@ -2287,75 +2343,5 @@ The Department of Sri Lanka and Coast Guard operates regular patrols and search 
 [Data](articles/b059453e.json)
 
 [Extended Data](ext_articles/b059453e.ext.json)
-
----
-
-### Special notice from the Railway Department
-
-*2024-04-14 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195624) · `si`
-
-The Railway Department has added 8 more trains to Colombo Fort today and tomorrow, and will resume normal office hours from the 16th.
-
-🟩
-
-Deputy General Manager Nandana Schools, Deputy General Manager Nandana Schools said that additional train services have been launched to the people from outside to Colombo.
-
-Accordingly, 8 additional trains have been added to Colombo Fort today and tomorrow.
-
-In addition, the Railway Department said that the office will be opened from the 16th to normal.
-
-◼️
-
-[Data](articles/d5be4ec1.json)
-
-[Extended Data](ext_articles/d5be4ec1.ext.json)
-
----
-
-### The decision taken about the New Year's song to the social media
-
-*2024-04-14 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195622) · `si`
-
-The Ministry of Cultural Affairs is investigating a distorted version of a New Year's song by Rohana Baddage on social media. The Secretary, Somaratne Vidanathirana, notified the Director General of the Telecommunication Regulatory Commission. The Ministry plans to promote the discoverers of the song and take legal action against the distorters.
-
-🟩
-
-The Ministry of Cultural Affairs has informed the Ministry of Cultural Affairs to investigate the New Year's song and release the immediate investigation into the social media.
-
-It is reported that the Secretary to the Ministry of Cultural Affairs Somaratne Vidanathirana has been notified regarding the Director General of the Telecommunication Regulatory Commission.
-
-A song that is sung by Rohana Baddage has been distorted into the social media these days.
-
-The Ministry of Cultural Affairs has informed the Council to promote the persons who discovered the song and will be found in the social media released.
-
-The Secretary to the Ministry of Cultural Affairs somaratne Vidanapathirana, he added that legal action will be taken against the persons.
-
-◼️
-
-[Data](articles/67905db2.json)
-
-[Extended Data](ext_articles/67905db2.ext.json)
-
----
-
-### Sri Lankans living in Israel safe amidst Iranian attacks – Ambassador
-
-*2024-04-14 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98628/sri-lankans-living-in-israel-safe-amidst-iranian-attacks-ambassador) · `en`
-
-The Sri Lankan Ambassador to Israel, Nimal Bandara has assured that all Sri Lankans living in Israel are safe amidst attacks carried out by Iran.
-
-Issuing a statement, Mr. Bandara said that although Iran targeted Israel with more than 500 shells and missiles last night (April 13), Israel’s Iron Dome system has managed to neutralize all of them.
-
-“Apart from an injury to a little girl [Israeli], no one in Israel has been reported to have been injured so far”, the Sri Lankan envoy in Tel Aviv assured.
-
-Meanwhile, he stated that flight FZ 1625 belonging to the Fly Dubai airline operated from Dubai to Tel Aviv last night at 08.10 p.m. while traveling from Dubai to Tel Aviv, was diverted to Dubai as soon as the information about the air attacks came to light.
-
-Mr. Bandara expressed that there were Sri Lankans on the flight, who were on the way to Israel and that information about them is being disclosed.
-
-...
-
-[Data](articles/0051ae4d.json)
-
-[Extended Data](ext_articles/0051ae4d.ext.json)
 
 ---

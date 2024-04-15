@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 11:52:54**
+As of **2024-04-15 12:03:17**
 
 ## Newspaper Stats
 
-*Scraped **18,878** Articles*
+*Scraped **18,879** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,052
-adalk | 1,573
+adalk | 1,574
 tamilmirrorlk | 2,210
 adaderanalk | 2,279
 virakesarilk | 2,805
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,877 (100.0%) of 18,878 articles have been extended.
+18,878 (100.0%) of 18,879 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### உள்நாட்டு முட்டையின் விலை அதிகரிப்பு!
+### Increase in domestic egg prices!
 
 *2024-04-15 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/181097) · `ta`
 
-இந்தியாவிலிருந்து  இறக்குமதி செய்யப்படும் முட்டைகளின் விலை  குறைக்கப்பட்டாலும்  உள்நாட்டு  முட்டையினது  விலை அதிகரித்து காணப்படுவதாக  நுகர்வோர் தெரிவிக்கினறனர்.
+Despite Sri Lanka CWC's efforts to reduce egg prices to 36 rupees, domestic egg prices rose from 40.45 to 60 rupees during New Year, despite a decrease in imported eggs' prices.
 
-பண்டிகைக் காலங்களில் மக்களுக்கு நிவாரணம் வழங்கும் நோக்கத்துடன்  லங்கா ச.தொ.ச முட்டையொன்றின் விலையை 42 ரூபாவில் இருந்து 36 ரூபாவாக குறைக்க நடவடிக்கை எடுத்துள்ளது.
+🟩
 
-ஆனால், அண்மைய நாட்களில் 40,45 ரூபாவாக குறைக்கப்பட்ட உள்ளுர் முட்டையின் விலை புத்தாண்டின் போது 50 முதல் 60 ரூபா  வரை அதிகரித்துள்ளதாக வர்த்தகர்கள்  தெரிவித்துள்ளனர்.
+Consumers said the price of domestic eggs was increased despite the reduction in the prices of eggs imported from India.
+
+With the aim of providing relief to the people during the festive season, the Sri Lanka CWC has taken steps to reduce the price of an egg from 42 rupees to 36 rupees.
+
+However, in recent days, the price of local eggs, which was reduced to 40,45 rupees, increased from 50 to 60 rupees during the New Year, traders said.
 
 ◼️
 
 [Data](articles/0e601969.json)
+
+[Extended Data](ext_articles/0e601969.ext.json)
 
 ---
 
@@ -441,6 +447,26 @@ However, State Finance Minister Siyambalapitiya said no permission has been give
 [Data](articles/aaa9c33a.json)
 
 [Extended Data](ext_articles/aaa9c33a.ext.json)
+
+---
+
+### අද දිනයේදී වැස්සේ තාවකාලික වැඩිවීමක්
+
+*2024-04-15 08:25:09* · [`adalk`](https://www.ada.lk/breaking_news/අද-දිනයේදී-වැස්සේ-තාවකාලික-වැඩිවීමක්/11-409083) · `si`
+
+අද දිනයේදී දිවයිනේ නැගෙනහිර, ඌව සහ දකුණු පළාත්වල වැසි තත්ත්වයේ තාවකාලික වැඩිවීමක් බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+ඒ අනුව නැගෙනහිර සහ ඌව පළාත්වලත් හම්බන්තොට, නුවරඑළිය සහ මාතලේ දිස්ත්‍රික්කවලත් විටින් විට
+
+වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව එම දෙපාර්තමේන්තුව පවසයි.
+
+උතුරු සහ උතුරුමැද පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකි බවත් දිවයිනේ සෙසු ප්‍ර දෙශවල ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බවද එම දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව, ඌව හා දකුණු පළාත්වලත් අම්පාර හා මඩකළපුව දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මිලි මිටර් 100ට වැඩි තද වැසි ඇතිවීමේ හැකියාවක් තිබෙන බවද එම දෙපාර්තමේනතුව අද අලුයම නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+
+◼️
+
+[Data](articles/e65f6ad3.json)
 
 ---
 
@@ -2335,35 +2361,5 @@ Preliminary investigations have revealed that the deceased was being used by fir
 [Data](articles/4c38ce72.json)
 
 [Extended Data](ext_articles/4c38ce72.ext.json)
-
----
-
-### What is the next step?The responsibility of deciding is to Israel's Wartime Cabinet - Massive conflict in the Middle East continues
-
-*2024-04-14 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181066) · `ta`
-
-Israel's Wartime Cabinet decides next action on Iranian attack amid Middle East conflict. US, Israel discuss, with US helping intercept Iranian missiles. Israel's patience urged. Only minor injuries reported. US warns against indiscriminate actions. UN statement suggests Iran expects no severe response. Israel's PM considers Iran's nuclear reactors a threat.
-
-🟩
-
-The Israeli Cabinet has handed over the Israeli War Cabinet to the Cabinet of War to decide what action to take on the Iranian attack, while the chances of a massive war in the Middle East continue.
-
-The Israeli Cabinet at midnight has entrusted the war Cabinet of War Cabinet, including the Israeli Prime Minister, to decide on the next stage.
-
-The fate of the region is now in their hands as the trio will decide on the next step.
-
-In the tense minutes before the war cabinet, the US president and the Israeli prime minister engaged in telephone conversations for 25 minutes.
-
-In this conversation, Israeli media has stated that Israel's patience should be practiced.
-
-Following the telephone conversation, Bitidan Benjamin did not report to Benjamin Nettanyaku, but Iran's missiles were all down with the help of the United States.
-
-Faidan noted that the enemies have made a clear news that the best security skills have been revealed, which cannot threaten Israel's security.
-
-...
-
-[Data](articles/145b7233.json)
-
-[Extended Data](ext_articles/145b7233.ext.json)
 
 ---

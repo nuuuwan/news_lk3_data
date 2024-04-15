@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 11:34:00**
+As of **2024-04-15 11:52:54**
 
 ## Newspaper Stats
 
-*Scraped **18,877** Articles*
+*Scraped **18,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,052
 adalk | 1,573
 tamilmirrorlk | 2,210
 adaderanalk | 2,279
-virakesarilk | 2,804
+virakesarilk | 2,805
 dailymirrorlk | 2,904
 adaderanasinhalalk | 3,079
 
@@ -26,27 +26,49 @@ adaderanasinhalalk | 3,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,876 (100.0%) of 18,877 articles have been extended.
+18,877 (100.0%) of 18,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### மீண்டும் கொரோனா மரணம் பதிவு
+### உள்நாட்டு முட்டையின் விலை அதிகரிப்பு!
+
+*2024-04-15 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/181097) · `ta`
+
+இந்தியாவிலிருந்து  இறக்குமதி செய்யப்படும் முட்டைகளின் விலை  குறைக்கப்பட்டாலும்  உள்நாட்டு  முட்டையினது  விலை அதிகரித்து காணப்படுவதாக  நுகர்வோர் தெரிவிக்கினறனர்.
+
+பண்டிகைக் காலங்களில் மக்களுக்கு நிவாரணம் வழங்கும் நோக்கத்துடன்  லங்கா ச.தொ.ச முட்டையொன்றின் விலையை 42 ரூபாவில் இருந்து 36 ரூபாவாக குறைக்க நடவடிக்கை எடுத்துள்ளது.
+
+ஆனால், அண்மைய நாட்களில் 40,45 ரூபாவாக குறைக்கப்பட்ட உள்ளுர் முட்டையின் விலை புத்தாண்டின் போது 50 முதல் 60 ரூபா  வரை அதிகரித்துள்ளதாக வர்த்தகர்கள்  தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/0e601969.json)
+
+---
+
+### Corona's death again
 
 *2024-04-15 11:11:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-கொரோனா-மரணம்-பதிவு/175-335951) · `ta`
 
-நீண்ட காலத்துக்குப் பின்னர் கொரோனோ தொற்று காரணமாக யாழ் மாவட்டத்தில் பெண்ணொருவர் உயிரிழந்துள்ளார்.
+A 62-year-old woman from France, in Sri Lanka for Ayurvedic treatment, died of COVID-19 after a two-day hospital stay in Jaffna.
 
-பிரான்ஸ் நாட்டில் இருந்து தனக்கான ஆயுர்வேத சிகிச்சைக்காக இலங்கை வந்த 62 வயதான பெண்ணே இவ்வாறு கொரோனா தொற்று ஏற்பட்டு உயிரிழந்துள்ளார்.
+🟩
 
-இந்த பெண் வட்டுக்கோட்டை அராலியில் தங்கியிருந்த நிலையில் காய்ச்சல் காரணமாக இரண்டு நாட்களாக யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்துள்ளார்.
+A woman in Jaffna district has died after a long -term chrono infection.
 
-உயிரிழப்பின் பின்னர் மேற்கொள்ளப்பட்ட பரிசோதனையில் அந்த பெண்ணுக்கு கொரோனா தொற்று இருப்பது உறுதி செய்யப்பட்டுள்ளது.
+A 62 -year -old woman who came to Sri Lanka from France for her Ayurvedic treatment has died of Korona.
+
+The woman was staying in the Vaddukoddai Arali and has been admitted to the Jaffna Teaching Hospital for two days due to fever.
+
+An examination carried out after the death of the woman has confirmed that the woman has a corona infection.
 
 ◼️
 
 [Data](articles/3cce7339.json)
+
+[Extended Data](ext_articles/3cce7339.ext.json)
 
 ---
 
@@ -2343,23 +2365,5 @@ Faidan noted that the enemies have made a clear news that the best security skil
 [Data](articles/145b7233.json)
 
 [Extended Data](ext_articles/145b7233.ext.json)
-
----
-
-### LGBTQIA+ Rights: Europe and South Asia See Similar Discriminatory Practices
-
-*2024-04-14 11:33:00* · [`economynextcom`](https://economynext.com/lgbtqia-rights-europe-and-south-asia-see-similar-discriminatory-practices-158461/) · `en`
-
-ECONOMYNEXT – The rights and protections of the LGBTQIA+ community have been fraught with challenges and continue to be so, despite the many gains achieved in recent years.
-
-Nor are those handful of rights universally applied, a recent discussion which looked at the European and South Asian perspectives on same-sex rights and unions revealed.  Most developed nations have introduced protections for those identifying as LGBTQIA+, and a view from a distant lens paints a picture of tolerance. Yet, a closer look at the European arena throws up the many gaps that are evident in the application of the law.
-
-In the so-called conservative South Asian nations, changes to legislation are slow to be implemented.  That may come as a surprise, for, contrary to popular belief, same-sex relationships were culturally acceptable in the South Asian region and is not a Western concept points out Ruhaan Joshi, a Public Policy Practitioner from India.
-
-...
-
-[Data](articles/a14b1605.json)
-
-[Extended Data](ext_articles/a14b1605.ext.json)
 
 ---

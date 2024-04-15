@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 11:18:20**
+As of **2024-04-15 11:34:00**
 
 ## Newspaper Stats
 
-*Scraped **18,876** Articles*
+*Scraped **18,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,052
 adalk | 1,573
-tamilmirrorlk | 2,209
+tamilmirrorlk | 2,210
 adaderanalk | 2,279
 virakesarilk | 2,804
 dailymirrorlk | 2,904
@@ -26,49 +26,103 @@ adaderanasinhalalk | 3,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,874 (100.0%) of 18,876 articles have been extended.
+18,876 (100.0%) of 18,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### இன்று நாட்டில் இடியுடன் கூடிய  பலத்த மழை பெய்யும்
+### மீண்டும் கொரோனா மரணம் பதிவு
+
+*2024-04-15 11:11:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-கொரோனா-மரணம்-பதிவு/175-335951) · `ta`
+
+நீண்ட காலத்துக்குப் பின்னர் கொரோனோ தொற்று காரணமாக யாழ் மாவட்டத்தில் பெண்ணொருவர் உயிரிழந்துள்ளார்.
+
+பிரான்ஸ் நாட்டில் இருந்து தனக்கான ஆயுர்வேத சிகிச்சைக்காக இலங்கை வந்த 62 வயதான பெண்ணே இவ்வாறு கொரோனா தொற்று ஏற்பட்டு உயிரிழந்துள்ளார்.
+
+இந்த பெண் வட்டுக்கோட்டை அராலியில் தங்கியிருந்த நிலையில் காய்ச்சல் காரணமாக இரண்டு நாட்களாக யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்துள்ளார்.
+
+உயிரிழப்பின் பின்னர் மேற்கொள்ளப்பட்ட பரிசோதனையில் அந்த பெண்ணுக்கு கொரோனா தொற்று இருப்பது உறுதி செய்யப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/3cce7339.json)
+
+---
+
+### Woman dies in fire
+
+*2024-04-15 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/181088) · `ta`
+
+A woman died in a fire in Kotagala's Thimbulapathana. The fire started in a room, and she was taken to Kotagala hospital.
+
+🟩
+
+A woman was killed in a fire in a house in Kotagala area in Thimbulapathana.
+
+Police said that the fire broke out in a room of the house and the woman who was suffering from fire was admitted to the Kotagala hospital.
+
+◼️
+
+[Data](articles/639bd843.json)
+
+[Extended Data](ext_articles/639bd843.ext.json)
+
+---
+
+### Thundershowers in the country today
 
 *2024-04-15 11:01:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-நாட்டில்-இடியுடன்-கூடிய-பலத்த-மழை-பெய்யும்/175-335950) · `ta`
 
-கிழக்கு, ஊவா மற்றும் தென் மாகாணங்களில் மழையுடனான வானிலை இன்று ஓரளவு அதிகரித்துக் காணப்படுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Thundershowers expected in Eastern, Uva, Southern Provinces, and Mannar district. Increased temperatures in Western and North Western Provinces. Heavy rains in Sabaragamuwa, Upper, Southern, Uva provinces, and parts of Ampara and Batticaloa. Snow in Sabaragamuwa and Western Provinces. Rainfall or thunderstorms in sea regions from Trincomalee to Colombo and Hambantota. Strong winds and lightning may cause turbulence. Public advised to be vigilant.
 
-மேல்  மற்றும் வடமேல் மாகாணங்களிலும் அத்துடன் மன்னார்  மாவட்டத்திலும்  இன்று அதிகரித்த வெப்பநிலை காணப்படும்.
+🟩
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களிலும்  அத்துடன் ஹம்பாந்தோட்டை, நுவரெலியா மற்றும் மாத்தளை  மாவட்டங்களிலும் அடிக்கடி மழை  அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+The Department of Meteorology has said that the rainfall in the Eastern, Uva and Southern Provinces will be somewhat increased today.
 
-நாட்டின் ஏனைய பிரதேசங்களின் பல இடங்களில் பிற்பகல் இரண்டு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+Increased temperatures in the Western and North Western Provinces as well as in Mannar district today.
 
-சப்ரகமுவ, மேல்,தென் மற்றும் ஊவா  மாகாணங்களின் சில இடங்களிலும் அத்துடன் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களின் சில இடங்களிலும் 100 மில்லிமீற்றரிலும் கூடிய  பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+Rainfall or thunderstorms are expected in the Eastern and Uva provinces as well as in Hambantota, Nuwara Eliya and Matale districts.
 
-சப்ரகமுவ மற்றும்  மேல்  மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும் காலை வேளையில் பனிமூட்டம் காணப்படும்.
+Showers or thunderstorms are expected after two o'clock in the afternoon.
+
+Heavy rains are expected to occur in some parts of the Sabaragamuwa, Upper, Southern and Uva provinces, as well as some areas of Ampara and Batticaloa districts.
+
+In the morning, the snow will be seen in some parts of the Sabaragamuwa and Western Provinces as well as some of the Galle and Matara districts.
+
+Rainfall or thunderstorms can occur in the sea regions along the coast of Trincomalee to Batticaloa to Batticaloa.
+
+Rainfall or thunderstorms are expected in many parts of the sea regions from Mannar to Colombo and Hambantota.
 
 ...
 
 [Data](articles/19660423.json)
 
+[Extended Data](ext_articles/19660423.ext.json)
+
 ---
 
-### துப்பாக்கிச் சூட்டுச் சம்பவத்தில் சிறுமி காயம்
+### Miniser injury
 
 *2024-04-15 10:56:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டுச்-சம்பவத்தில்-சிறுமி-காயம்/175-335949) · `ta`
 
-மின்னேரியா, கிரித்தலேயில் நேற்று இரவு இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவத்தில் 17 வயது சிறுமி ஒருவர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A 17-year-old girl was injured in a shooting in Kiritale, Minneria, last night. Police are investigating after the girl was admitted to Polonnaruwa Hospital. It's unclear why the shooting occurred.
 
-சிறுமி படுகாயமடைந்து பொலன்னறுவை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக கிடைத்த தகவலையடுத்து மின்னேரிய பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+🟩
 
-சிறுமி தனது குடும்ப உறுப்பினர்களுடன் உறவினர் வீட்டுக்குச் சென்றிருந்த வேளையில் துப்பாக்கிச் சூடு நடத்தப்பட்டதாக விசாரணையில் தெரியவந்துள்ளது.
+A 17 -year -old girl was injured in the shooting that took place last night in Kiritale, Minneria, police said.
 
-துப்பாக்கிச் சூடு நடத்தப்பட்டதற்கான காரணம் இதுவரை வெளியிடப்படவில்லை மற்றும் விசாரணைகள் தொடர்ந்து நடைபெற்று வருகின்றன.
+The Minoriya police have begun investigations following information that the girl was injured and admitted to the Polonnaruwa Hospital.
+
+Investigations have revealed that the girl was firing while the girl went to her relative's house with her family members.
+
+The reason for the shooting has not yet been released and investigations are ongoing.
 
 ◼️
 
 [Data](articles/1207ef6b.json)
+
+[Extended Data](ext_articles/1207ef6b.ext.json)
 
 ---
 
@@ -113,26 +167,6 @@ The teenage girl who sustained injuries during the shooting is currently receivi
 [Data](articles/4d8928e8.json)
 
 [Extended Data](ext_articles/4d8928e8.ext.json)
-
----
-
-### Woman dies in fire
-
-*2024-04-15 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/181088) · `ta`
-
-A woman died in a fire in Kotagala's Thimbulapathana. The fire started in a room, and she was taken to Kotagala hospital.
-
-🟩
-
-A woman was killed in a fire in a house in Kotagala area in Thimbulapathana.
-
-Police said that the fire broke out in a room of the house and the woman who was suffering from fire was admitted to the Kotagala hospital.
-
-◼️
-
-[Data](articles/639bd843.json)
-
-[Extended Data](ext_articles/639bd843.ext.json)
 
 ---
 
@@ -2327,21 +2361,5 @@ In the so-called conservative South Asian nations, changes to legislation are sl
 [Data](articles/a14b1605.json)
 
 [Extended Data](ext_articles/a14b1605.ext.json)
-
----
-
-### Shots fired outside Salman Khan’s house
-
-*2024-04-14 11:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shots-fired-outside-Salman-Khans-house/108-280692) · `en`
-
-April 14 (Times of India) - Shots were fired outside actor Salman Khan's house in Mumbai's Bandra on Sunday morning.
-
-Mumbai Police's Crime Branch has reached the spot for investigation.
-
-◼️
-
-[Data](articles/69e8826b.json)
-
-[Extended Data](ext_articles/69e8826b.ext.json)
 
 ---

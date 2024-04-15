@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 14:33:54**
+As of **2024-04-15 14:51:00**
 
 ## Newspaper Stats
 
-*Scraped **18,900** Articles*
+*Scraped **18,902** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 165
+colombotelegraphcom | 166
 bbccomsinhala | 198
 dbsjeyarajcom | 215
 newsfirstlk | 363
@@ -18,7 +18,7 @@ economynextcom | 1,052
 adalk | 1,576
 tamilmirrorlk | 2,212
 adaderanalk | 2,280
-virakesarilk | 2,810
+virakesarilk | 2,811
 dailymirrorlk | 2,912
 adaderanasinhalalk | 3,082
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,082
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,900 (100.0%) of 18,900 articles have been extended.
+18,900 (100.0%) of 18,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-04-15 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181124) · `ta`
+
+இலங்கை மத்திய வங்கி இன்றைய தினம் திங்கட்கிழமை (15) வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை 303.25 ரூபாயாகவும் கொள்வனவு விலை 293.79 ரூபாயாகவும் பதிவாகியுள்ளது.
+
+அதைப்போன்று ஸ்ரேலிங் பவுண்ட் ஒன்றின் விற்பனை விலை 379.61 ரூபாய் மற்றும் கொள்வனவு விலை 364.37 ரூபாயாகும்.
+
+யூரோ ஒன்றின் விற்பனை விலை 324.77 ரூபாய் எனவும் கொள்வனவு விலை 311.10 ரூபாய் எனவும் குறிப்பிடப்பட்டுள்ளது.
+
+அதன்படி, ஏனைய வெளிநாட்டு நாணய மாற்று விகிதங்கள் தொடர்பாக இன்று (15.04.2024) மத்திய வங்கியினால் வெளியிடப்பட்டுள்ள தகவல்கள் கீழே தரப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/d358dc71.json)
+
+---
 
 ### Allow vehicles to be imported according to the needs of the future!
 
@@ -945,6 +963,20 @@ The department has the ability to raise heavy showers over 100 millisewarms toda
 [Data](articles/e65f6ad3.json)
 
 [Extended Data](ext_articles/e65f6ad3.ext.json)
+
+---
+
+### The Impact Of The Next Election On The Economic Reforms
+
+*2024-04-15 08:22:12* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-impact-of-the-next-election-on-the-economic-reforms/) · `en`
+
+The next election is going to be a presidential election and according to the constitution it will be held during September-October 2024. Last year we observed the postponement of the elections of local bodies and the explanation given was that there were not sufficient funds to allocate for the elections due to the economic crisis. As a country, solving the economic crisis should be the priority and not who solved it. The upcoming presidential election cannot be postponed while keeping the democratic status of the country.
+
+The government agreed with the IMF the conditions of the revival plan and in return Sri Lanka is getting IMF assistance in the form of  48-month Extended Fund Facility  of SDR 2.286 billion (around USD 3 billion) to be released in half yearly instalments. Next major step is external debt restructuring which is already delayed. With this delay the IMF delayed their second tranche and paid it last December amounting to USD 337 million.
+
+...
+
+[Data](articles/1b8598ea.json)
 
 ---
 
@@ -2309,49 +2341,5 @@ A total of three patients with STDs and AIDS dialogues have been identified as y
 [Data](articles/03318318.json)
 
 [Extended Data](ext_articles/03318318.ext.json)
-
----
-
-### Conflict at liquor party killed
-
-*2024-04-14 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195625) · `si`
-
-A 32-year-old custom vehicle driver was killed in a liquor party dispute, leading to the arrest of eight suspects.
-
-🟩
-
-The deceased has been identified as a 32-year-old custom vehicle driver from a 32-year-old profession.
-
-Police say that the murder had taken place when a dispute between two groups were far away during a liquor party.
-
-Police have arrested eight persons on suspicion of the murder.
-
-◼️
-
-[Data](articles/5b85380c.json)
-
-[Extended Data](ext_articles/5b85380c.ext.json)
-
----
-
-### 3.7 billion narrowers arrested
-
-*2024-04-14 16:39:45* · [`adalk`](https://www.ada.lk/breaking_news/බිලියන-3-7ක-මත්ද්‍රව්‍ය-නාවික-හමුදා-අත්අඩංගුවට/11-409075) · `si`
-
-Sri Lanka Navy arrested 16 suspects with a multi-day fishing vessel carrying over 3098 million rupees and 582 kg of heroin. Four more were arrested on April 12th, 2024, for drug exchange. The operation involved the Sri Lanka Coast Guard and Navy, leading to the seizure of 7.83 grams of ice drugs and 129 mines.
-
-🟩
-
-According to an intelligence operation carried out by the Sri Lanka Navy, Sri Lanka from the south of the Deep Coast Guard, which was about 133 nautcities (246 km) from the deep sea, the Sri Lanka Coast Guard, the Sri Lanka Coast Guard.Sixteen (06) suspects with a multi-day fishing vessel (1 kg of pack) with over 3098 million rupees and 582 kg of heroin) with over 3798 million.The Navy announced that he was arrested.
-
-Four suspects were arrested on 12th April 2024 with a one-day offering of the drug to be exchanged at the sea.On the 13th, the Galle Harbor was carried out at the Galle Harbor.
-
-The Department of Sri Lanka and Coast Guard operates regular patrols and search operations covering the coast and sea strip around the island.
-
-...
-
-[Data](articles/b059453e.json)
-
-[Extended Data](ext_articles/b059453e.ext.json)
 
 ---

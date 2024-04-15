@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 10:09:22**
+As of **2024-04-15 10:18:16**
 
 ## Newspaper Stats
 
-*Scraped **18,860** Articles*
+*Scraped **18,865** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
-economynextcom | 1,049
+economynextcom | 1,052
 adalk | 1,573
 tamilmirrorlk | 2,207
-adaderanalk | 2,275
+adaderanalk | 2,277
 virakesarilk | 2,802
 dailymirrorlk | 2,902
 adaderanasinhalalk | 3,077
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,077
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,848 (99.9%) of 18,860 articles have been extended.
+18,848 (99.9%) of 18,865 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### Special public transport services in place after New Year holidays
+
+*2024-04-15 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98638/special-public-transport-services-in-place-after-new-year-holidays) · `en`
+
+Special bus services are in operation on Monday (April 15) and Tuesday (April 16) for people to return to Colombo after the Sinhala and Tamil New Year holidays, the National Transport Commission (NTC) said.
+
+The Chairman of NTC Shashi Welgama stated that the additional buses have been deployed according to the requirements of passengers.
+
+Meanwhile, special train services are also in place from Badulla, Galle and Beliatta railway stations to Colombo Fort, according to the Department of Railways.
+
+◼️
+
+[Data](articles/bc773f3c.json)
+
+---
 
 ### 17 හැවිරිදි සිසුවියකට වෙඩිතබයි
 
@@ -83,6 +99,66 @@ The motive behind the shooting has not been disclosed as yet and investigations 
 ◼️
 
 [Data](articles/1186e754.json)
+
+---
+
+### Sri Lanka seeks parliamentary budget officer for Rs655,000
+
+*2024-04-15 09:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-parliamentary-budget-officer-for-rs655000-158487/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s is seeking an official on a five-year contract to set up a parliamentary budget office (PBO) which will vet financial legislation and proposals, according to a public notice.
+
+“Powerful PBO will work independently and coordinate via Committee on Public Finance and be accountable to Parliament,” COPF chief Harsha de Silva said.
+
+“PBO will analyse every public finance document and brief MPs on costs benefits plus.”
+
+According to the advertisement the applicant should have at least “10-years in government budgeting, financial policy, fiscal policy,  macroeconomic analysis, and/ or the expenditure management system in Sri Lanka.”
+
+The selected person should set up an office with 20 plus persons de Silva said.
+
+“Great opportunity for a former senior multilateral agency professional if below 65 years,” he said.
+
+...
+
+[Data](articles/b9318fc0.json)
+
+---
+
+### US will not take part in any Israeli retaliatory action against Iran
+
+*2024-04-15 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98637/us-will-not-take-part-in-any-israeli-retaliatory-action-against-iran) · `en`
+
+(Reuters) - President Joe Biden warned Prime Minister Benjamin Netanyahu the U.S. will not take part in a counter-offensive against Iran, an option Netanyahu’s war cabinet favors after a mass drone and missile attack on Israeli territory, according to officials.
+
+The threat of open warfare erupting between the arch Middle East foes and dragging in the United States put the region on edge, triggering calls for restraint from global powers and Arab nations.
+
+“The Middle East is on the brink. The people of the region are confronting a real danger of a devastating full-scale conflict. Now is the time to defuse and de-escalate,” United Nations Secretary-General Antonio Guterres told a Security Council meeting called on Sunday in response to the strikes.
+
+Deputy U.S. Ambassador to the U.N. Robert Wood called on the council to unequivocally condemn Iran’s attack.
+
+...
+
+[Data](articles/ceacb0f0.json)
+
+---
+
+### No rice imports permitted in Sri Lanka, says State FinMin
+
+*2024-04-15 09:00:00* · [`economynextcom`](https://economynext.com/no-rice-imports-permitted-in-sri-lanka-says-state-finmin-158476/) · `en`
+
+ECONOMYNEXT – Sri Lanka government has not allowed any rice imports and the permission to buy the staple food outside the country for the public consumption has not been granted to anybody, State Finance Minister Ranjith Siyambalapitiya said.
+
+The island nation, which is self sufficient in rice production, imports the staple food from time to time when there is scarcity or the traders stubbornly maintain high prices at retail level.
+
+President Ranil Wickremesinghe’s government reduced import tax on rice by 65 rupee per kilo to 1 rupee in January this year to import some rice and control high domestic prices.
+
+The move came after millers and collectors drove up the price due to lack of free trade.
+
+However, State Finance Minister Siyambalapitiya said no permission has been given for the import of rice and only the required quantity of Basmati rice has been given for the needs of tourist hotels.
+
+...
+
+[Data](articles/aaa9c33a.json)
 
 ---
 
@@ -191,6 +267,26 @@ Meanwhile, a few special trains traveling to the passenger people from the train
 [Data](articles/64b31496.json)
 
 [Extended Data](ext_articles/64b31496.ext.json)
+
+---
+
+### Sri Lanka private credit expands in February
+
+*2024-04-15 07:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-expands-in-february-158478/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s private credit from rupee banking units of commercial banks expanded 22.9 billion rupees in February 2024, after contracting 65.8 billion rupees in January, official data showed.
+
+Private credit along with US dollar denominated loans grew only 7.3 billion rupees to 7,321.5 billion rupees, with dollar denominated loans contracting to 529.6 billion rupees from 545.2 billion rupees amid rupee appreciation.
+
+With the appreciation of the rupee reducing stock holding costs of importers and other producers, working capital credit requirement could also fall giving more ‘bang for buck.’
+
+Central bank credit contracted 121 billion rupees in February, after contracting 91 billion rupees in January 2024, keeping the balance of payments in surplus.
+
+Credit to government from commercial banks went up by around 100 billion rupees to 6,153.4 billion rupees in February, but overall credit from the banking system was down amid the central bank credit contraction.
+
+...
+
+[Data](articles/243a959b.json)
 
 ---
 
@@ -708,7 +804,7 @@ Accordingly, the Peoples Department of Meteorology states that the people should
 
 ---
 
-### Sri Lanka eyes on speedy debt resolution at IMF/WB Spring Meetings: State Finmin
+### Sri Lanka eyes speedy debt resolution at IMF/WB Spring Meetings: State Finmin
 
 *2024-04-14 20:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-eyes-on-speedy-debt-resolution-at-imf-wb-spring-meetings-state-finmin-158467/) · `en`
 
@@ -731,8 +827,6 @@ Sri Lanka also expects to receive the third tranche of the IMF by mid this year 
 ### Sri Lanka undershoots inflation target in first quarter despite VAT hike
 
 *2024-04-14 20:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-undershoots-inflation-target-in-first-quarter-despite-vat-hike-158470/) · `en`
-
-Sri Lanka undershoots inflation target in first quarter despite VAT hike
 
 ECONOMYNEXT – Sri Lanka’s inflation is expected to lower than initially projected in 2024, despite a value added tax hike, Central Bank Governor Nandalal Weerasinghe has said
 
@@ -2193,119 +2287,5 @@ Caroline Silico has commented on her ex -husband Gaga and divorce. As he says ab
 [Data](articles/92b9bf05.json)
 
 [Extended Data](ext_articles/92b9bf05.ext.json)
-
----
-
-### Duty of all to preserve the wonder of New Year for future generations - PM
-
-*2024-04-14 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98621/duty-of-all-to-preserve-the-wonder-of-new-year-for-future-generations-pm) · `en`
-
-The Sinhala and Hindu New Year or Surya Mangalyaya (Solar Festival) is the greatest cultural festival of Sri Lanka, says Prime Minister Dinesh Gunawardena.
-
-Giving priority to auspicious rituals and religious activities, preserving the customary traditions, working together with the same purpose at the same moment in the same auspicious time cannot be seen in the cultures of any other country in the world, he said.
-
-“Our ancestors who dealt with nature everyday made it even more realistic in the New Year customs. As their descendants, we do not need to be taught again and again about food security, thrift, self-belonging and unity. What requires is, to implement them,” he said in his New Year message.
-
-He stated that the service rendered by the farmers to produce food for the country in the face of the recent food and economic crisis should be gratefully remembered in this New Year.
-
-...
-
-[Data](articles/36855dbf.json)
-
-[Extended Data](ext_articles/36855dbf.ext.json)
-
----
-
-### Negligence silinging a flower field
-
-*2024-04-14 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195613) · `si`
-
-A 3-year-old girl was killed in Aralaganugoda when a water tank fell on her. She was admitted to Polonnaruwa Hospital and a post-mortem is scheduled for today.
-
-🟩
-
-A small girl was killed in a plastic water tank in the Aralagangama area in Aralaganugoda.
-
-The accident had occurred while serving in a water tank from a water tank on a toilet.
-
-The water tank has fallen on the girl and has been admitted to the Polonnaruwa Hospital.
-
-The deceased has been identified as three and seven months old.
-
-The body is placed at the Polonnaruwa hospital morgue and the post mortem will be conducted today (14).
-
-◼️
-
-[Data](articles/a81d5053.json)
-
-[Extended Data](ext_articles/a81d5053.ext.json)
-
----
-
-### UN Security Council to meet on Sunday amid Iran’s attack on Israel
-
-*2024-04-14 09:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UN-Security-Council-to-meet-on-Sunday-amid-Irans-attack-on-Israel/108-280689) · `en`
-
-WASHINGTON, April 14 - The UN Security Council will meet Sunday after Israel demanded an urgent meeting following an Iranian airborne attack.
-
-The 15-member Council will gather at 4 p.m. local time in New York, according to a schedule that was released late Saturday.
-
-Israel's ambassador to the UN, Gilad Erdan, requested Saturday that the Council convene to condemn Iran for the "grave violations and immediately act to designate the IRGC (Iran's Revolutionary Guards) as a terrorist organization."
-
-In a letter to the Council's president, Erdan said the attack is a "serious threat" to global peace and security, indicating that he expects the Council to use every means to take concrete action against Iran.
-
-UN Secretary-General Antonio Guterres and General Assembly President Dennis Francis separately voiced concern about the attack and urged Israel and Iran to exercise the utmost restraint to avoid further escalation of tension in the region.
-
-...
-
-[Data](articles/8df8441a.json)
-
-[Extended Data](ext_articles/8df8441a.ext.json)
-
----
-
-### Six youth hospitalized following
-
-*2024-04-14 08:59:40* · [`adalk`](https://www.ada.lk/breaking_news/වෑන්-රථයක්-පෙරළී-තරුණයින්-6ක්-රෝහලේ/11-409074) · `si`
-
-Six youth hospitalized after a van crash in Wellawaya, severely damaged by Bandarawela Police. The van, carrying eight young people, was taken out of a stall in Ottakade, Bandarawela, this morning. Residents rescued the injured and transported them to the hospital. Further investigations are ongoing.
-
-🟩
-
-A van traveling from Wellawaya from Wellawaya from Wellawaya on Wellawaya on Wellawaya on Wellawaya on the Wellawaya Wellawaya was a 150-foot precipitated by Bandarawela Police, Bandarawela Police said.
-
-The van, which was traveling to eight young people, is in danger.
-
-According to the preliminary investigations, the accident had occurred that the van had to be taken out of the stall in a behest in the Ottakade area in Bandarawela this morning, police said.
-
-The van that has reached a tea estate has been severely damaged.Residents intervened and taken steps to hospital with the injured.The police are conducting further investigations.
-
-◼️
-
-[Data](articles/03095c2f.json)
-
-[Extended Data](ext_articles/03095c2f.ext.json)
-
----
-
-### Sri Lanka Navy brings ashore seized ICE, heroin worth Rs. 3.7 billion
-
-*2024-04-14 08:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Navy-brings-ashore-seized-ICE-heroin-worth-Rs-3-7-billion/108-280688) · `en`
-
-Galle, April 14 (Daily Mirror) - The Sri Lanka Navy brought ashore the seized narcotics, including 179 kgs and 906 gms of Crystal Methamphetamine (ICE) and 83 kgs and 582 gms of heroin, which were seized yesterday in the seas approximately 133 nautical miles (about 246 kms) off Dondra, south of Sri Lanka.
-
-The consignment of drugs, with an estimated street value exceeding Rs. 3,798 million, was seized during an intelligence operation conducted by the Sri Lanka Navy. A local multi-day fishing trawler, carrying six persons was intercepted during the operation.
-
-In addition, another local one-day fishing trawler with four persons was seized, suspected to be awaiting a mid-sea exchange of narcotics.
-
-The Sri Lanka Coast Guard Ship (SLCG) Samudraraksha played a crucial role in arresting the suspects and seizing the narcotics on 12 April 2024.
-
-The Commander of the Sri Lanka Navy Vice Admiral Priyantha Perera inspected the seized consignment at the Galle Harbour.
-
-...
-
-[Data](articles/79448d1f.json)
-
-[Extended Data](ext_articles/79448d1f.ext.json)
 
 ---

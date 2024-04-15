@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 23:52:45**
+As of **2024-04-16 00:03:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,096
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,975 (100.0%) of 18,977 articles have been extended.
+18,977 (100.0%) of 18,977 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ A large Indian and South Asian expat community lives in the UAE. (Colombo/Apr15/
 ◼️
 
 [Data](articles/bbd4d337.json)
+
+[Extended Data](ext_articles/bbd4d337.ext.json)
 
 ---
 
@@ -277,6 +279,8 @@ This is the first time an Iranian President coming to Sri Lanka Iranian after th
 ...
 
 [Data](articles/41f49ece.json)
+
+[Extended Data](ext_articles/41f49ece.ext.json)
 
 ---
 

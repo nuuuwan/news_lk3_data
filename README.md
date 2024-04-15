@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 01:18:30**
+As of **2024-04-16 01:34:05**
 
 ## Newspaper Stats
 
-*Scraped **18,995** Articles*
+*Scraped **19,004** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 199
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,017
-dailyftlk | 1,030
+dailyftlk | 1,039
 economynextcom | 1,064
 adalk | 1,583
 tamilmirrorlk | 2,219
@@ -26,11 +26,163 @@ adaderanasinhalalk | 3,096
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,995 (100.0%) of 18,995 articles have been extended.
+18,995 (100.0%) of 19,004 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### Uma Oya multi-purpose development project completes construction, begins hydropower generation
+
+*2024-04-16 00:59:46* · [`dailyftlk`](https://www.ft.lk/news/Uma-Oya-multi-purpose-development-project-completes-construction-begins-hydropower-generation/56-760649) · `en`
+
+The long-awaited Uma Oya Multi-Purpose Development Project has reached a significant milestone as construction wraps up and testing level operations for hydropower production commenced, Uma Oya Multipurpose Development Project Director Engineer D. C. S. Alakanda announced.
+
+He said the operations, which began around a month ago, mark a crucial step forward for the project.
+
+During the testing phase, Alakanda reported that the project has already generated electricity worth Rs. 1,000 million, contributing to the national grid.
+
+He further disclosed that commercial level operations have commenced, underscoring the project’s readiness to serve the nation.
+
+With its completion scheduled for 24 April, the Umaoya Multi-Purpose Development Project signifies a significant achievement in Sri Lanka’s infrastructure and energy landscape, promising lasting socio-economic benefits for the nation.
+
+...
+
+[Data](articles/6f05c9d6.json)
+
+---
+
+### Iranian President to inaugurate Uma Oya Project
+
+*2024-04-16 00:59:20* · [`dailyftlk`](https://www.ft.lk/news/Iranian-President-to-inaugurate-Uma-Oya-Project/56-760648) · `en`
+
+The Uma Oya Multipurpose Development Project is poised to be officially handed over to the public on 24 April.
+
+Iranian President Ebrahim Raisi is slated to visit Sri Lanka next week, to declare open this massive project, according to State Minister of Irrigation and Water Supply Shasheendra Rajapaksa.
+
+The Uma Oya Multipurpose Development Project is poised for a grand inauguration, jointly led by Iranian President Ebrahim Raisi and President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/a6f089d5.json)
+
+---
+
+### Applications open for Parliamentary Budget Office positions
+
+*2024-04-16 00:59:09* · [`dailyftlk`](https://www.ft.lk/news/Applications-open-for-Parliamentary-Budget-Office-positions/56-760647) · `en`
+
+Invites applications from competent citizens for positions of ‘Parliamentary Budget Officer’ and ‘Deputy Parliamentary Budget Officer’
+
+Establishment of Parliamentary Budget Office aims to support legislature in fulfilling its public finance responsibilities
+
+Office to be staffed with qualified economists tasked with producing high-quality analysis and reports
+
+Intends to operate as an independent, non-partisan entity, safeguarded against any political influence
+
+The Parliament is offering an opportunity for dedicated professionals to contribute to the effective oversight and management of public finances in the country.
+
+It has invited applications from competent citizens of Sri Lanka for the positions of ‘Parliamentary Budget Officer’ and ‘Deputy Parliamentary Budget Officer’ for the Parliamentary Budget Office.
+
+...
+
+[Data](articles/29dd63c6.json)
+
+---
+
+### Public lecture on Buddhist diplomacy on 19 April
+
+*2024-04-16 00:58:56* · [`dailyftlk`](https://www.ft.lk/news/Public-lecture-on-Buddhist-diplomacy-on-19-April/56-760646) · `en`
+
+The Sri Lanka Thailand Society, as a part of its annual programme of activities, has organised a public lecture on “Buddhist diplomacy: The symbiotic relationship between Sri Lanka and Thailand”. The lecture will be held on April 19, 2024, at 6 p.m., at the OPA Centre, Stanley Wijesundara Mawatha, Colombo 7, under the honoured patronage of the Ambassador of Thailand to Sri Lanka.
+
+The Guest Speaker is Dr. George Cooke, formerly in the Diplomatic Service and subsequently at the Bandaranaike Centre of International Studies, as its Deputy Director. He has authored many publications. The attendance for this event is free of charge. However as there is only a limited number of seats available, registration will be strictly on first -come, first- served basis. Those interested are requested to register themselves via email: [email protected] or on WhatsApp at 0742415507.
+
+◼️
+
+[Data](articles/61ffdf1c.json)
+
+---
+
+### IFC South Asia Regional Director’s visit emphasise support for SL’s development agenda
+
+*2024-04-16 00:58:27* · [`dailyftlk`](https://www.ft.lk/business/IFC-South-Asia-Regional-Director-s-visit-emphasise-support-for-SL-s-development-agenda/34-760645) · `en`
+
+Enters into partnership with CDB to foster green portfolio, fostering sustainable and inclusive growth
+
+International Finance Corporation’s Regional Director for South Asia Imad N. Fakhoury was in Sri Lanka reiterating the organisation’s dedication to support Sri Lanka’s development, climate readiness, and resilience efforts during his inaugural trip to the country.
+
+Fakhoury’s agenda included meetings with several private sector clients as well as Government dignitaries including the Minister of Power and Energy, State Minister of Finance, Advisor to the President of Sri Lanka, Governor of the Central Bank of Sri Lanka, and Secretary of Treasury, among others. His top priorities are to expand crucial private capital mobilisation and greater investment in Sri Lanka, while underscoring IFC’s commitment to support the country’s economic rebound.
+
+...
+
+[Data](articles/7b1fd4bc.json)
+
+---
+
+### Coca-Cola appoints Kaushali Kusumapala as first female Country Director for Sri Lanka and Maldives
+
+*2024-04-16 00:57:33* · [`dailyftlk`](https://www.ft.lk/business/Coca-Cola-appoints-Kaushali-Kusumapala-as-first-female-Country-Director-for-Sri-Lanka-and-Maldives/34-760644) · `en`
+
+Coca-Cola has announced Kaushali Kusumapala’s appointment as the new Country Director for Sri Lanka and Maldives.
+
+Making history as the first Sri Lankan woman in this position, Kaushali succeeds former Country Director, Pankaj Sinha, who assumed the role in 2019. In this position, Kaushali will closely collaborate with bottling teams, customers, partners, consumers and external stakeholders in Sri Lanka and Maldives.
+
+With a career spanning back to 2009, Kaushali has garnered diverse experience having worked with organisations and brands such as Leo Burnett, Fonterra Dairy and Domino’s Pizza. Notably, her journey to leadership includes significant achievements at Hemas International, where she served as Director of Marketing, contributing to market entry strategies, international market development and pioneering marketing initiatives.
+
+...
+
+[Data](articles/13a188dc.json)
+
+---
+
+### India lifts export ban on onions for Sri Lanka
+
+*2024-04-16 00:56:41* · [`dailyftlk`](https://www.ft.lk/business/India-lifts-export-ban-on-onions-for-Sri-Lanka/34-760643) · `en`
+
+In a gesture reaffirming India’s commitment to its Neighbourhood First policy, the Government of India has announced the lifting of the export ban on onions for Sri Lanka.
+
+Under the new directive issued by the Directorate General of Foreign Trade, Sri Lanka is now permitted to import up to 10,000 tons of onions from India.
+
+The decision to exempt Sri Lanka from the export ban on onions underscores the close bilateral ties between the two countries and comes as a timely move ahead of the Sinhala and Tamil New Year festivities in Sri Lanka.
+
+◼️
+
+[Data](articles/58070f84.json)
+
+---
+
+### Aspiring Sri Lankan tech start up to disrupt global EdTech landscape with HEAD
+
+*2024-04-16 00:56:33* · [`dailyftlk`](https://www.ft.lk/business/Aspiring-Sri-Lankan-tech-start-up-to-disrupt-global-EdTech-landscape-with-HEAD/34-760642) · `en`
+
+Sri Lankan technology start up 200ne CODE is making waves in the educational technology (EdTech) sector with the launch of HEADleads, the first pillar of its highly advanced innovative educational ecosystem – HEAD (Higher Education Academic Database).
+
+HEAD leads addresses a major pain point for institutions by offering a streamlined enrolment process including an AI-powered Know Your Customer (KYC) verification system ensuring secure and efficient student onboarding.
+
+...
+
+[Data](articles/94cb1885.json)
+
+---
+
+### Sajith issues clarion call against “classists, communists and extremists”
+
+*2024-04-16 00:56:03* · [`dailyftlk`](https://www.ft.lk/news/Sajith-issues-clarion-call-against-classists-communists-and-extremists/56-760641) · `en`
+
+SJB leader shares his vision at National Conference and Policy Dialogue Forum of the Samagi Buddhi Mandapaya featuring host of professionals who highlighted scientific and practical policies to rebuild Sri Lanka
+
+The Samagi Jana Balawegaya (SJB) leader and Presidential hopeful Sajith Premadasa on 7 April took the stage at the SJB National Conference with a clear message for the audience: “He stands apart from other politicians in Sri Lanka today.”
+
+In fact, while the event was organised to outline the party’s future policies, Premadasa in his speech made a concerted effort to distinguish himself from the current political system and issued a clarion call for the rejection of politicians he labelled as “classists, communists, and extremists.”
+
+Though he failed to explicitly name these “classists, communists, and extremists,” Premadasa asserted that these groups are incapable of delivering the essential economic and social reforms the country desperately needs.
+
+...
+
+[Data](articles/5ee04e6d.json)
+
+---
 
 ### Is the Indian Ocean “Zone of Peace” sinking in troubled waters?
 
@@ -2083,213 +2235,5 @@ The suspect has fled the area and Minneriya Police have commenced further invest
 [Data](articles/dfdb453c.json)
 
 [Extended Data](ext_articles/dfdb453c.ext.json)
-
----
-
-### High speed earnings on highway
-
-*2024-04-15 13:04:17* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගයේ-අධිවේගී-ආදායමක්/11-409086) · `si`
-
-From April 10-14, the Express Oil Order and Maintenance Unit earned 150 million from expressways, with 43 million vehicles operated, generating 40,000 hackore revenue. Future traffic areas will increase earnings.
-
-🟩
-
-The Director of the Express Oil Order and Maintenance Unit, the Director of the Expressway and Maintenance Unit stated that 150 million vehicles have been earned from the expressways from the 10th to 14th April.
-
-The Road Development Authority (Road Development Authority) stated that forty-three million vehicles have been operated on the Expressway during this period.
-
-The Road Development Authority (Road Development Authority) stated that the revenue earned on the highways was only 40,000 hackore.
-
-In the next few days, traffic areas will be operated on the highways, as the drivers drive their vehicles to operate their vehicles.
-
-◼️
-
-[Data](articles/1b0d5ee8.json)
-
-[Extended Data](ext_articles/1b0d5ee8.ext.json)
-
----
-
-### Oil anointing ceremony at Gangaramaya
-
-*2024-04-15 13:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Oil-anointing-ceremony-at-Gangaramaya/110-280708) · `en`
-
-Oil anointing ceremonies were held throughout the country this morning. This is from a ceremony held at the Hunupitiya Gangaramaya Temple in Colombo under the aegis of Ven. Dr. Kirinde Assaji Thera. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/fd84f92d.json)
-
-[Extended Data](ext_articles/fd84f92d.ext.json)
-
----
-
-### Rapid measures to protect the area affected by seaweed
-
-*2024-04-15 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181112) · `ta`
-
-Activists highlight seaweed impact on Sainthamaruthu Marudur Square. MSM Saban, a Natural Forum Operator, and the Coastal Department are implementing a stone dam. The area's beach, Marudur Square, is increasingly affected by rising sea levels, with a concrete road embedded into the sea and a risk of the fisherman's building collapsing. Despite previous sea security measures, the area lacks adequate protection. The Coastal Secretariat is urged to protect Marudur Square and fund the construction of the Kal Dam in the Kalaniyaru Malikaikkadu areas, as demanded by the local community.
-
-🟩
-
-The Sainthamaruthu Marudur Square and its adjoining fishing area have been pointed out by the Facebook and the media by the activists who love nature.
-
-MSM Saban, a Natural Forum Operator and Digamadulla District Parliamentarian ALM Ataullah Divisional Coordinating Committee Coordinator MSM Saban Sainthamaruthu Divisional Secretary and the Coastal Maintaining Department, has been implementing the stone dam.
-
-The Coordinator Saban, the Divisional Secretary, the District Engineer of the Coastal Department, the District Engineer and the Coastal Panchayat Department thanked the Natural Forum.
-
-Meanwhile, as the speed of the sea has increased again, the beach, known as the Marudur Square, which is gathering for entertainment, is increasingly affected.
-
-In addition, part of the concrete road, which is associated with the square, has been embedded into the sea and the fisherman's Baldeva building in the area is facing the danger of collapsing.
-
-...
-
-[Data](articles/db2f6e39.json)
-
-[Extended Data](ext_articles/db2f6e39.ext.json)
-
----
-
-### If I had been a police officer, I would have shot my son immediately - the father of the Sydney's attack on the attacker and apologized for tears.
-
-*2024-04-15 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181111) · `ta`
-
-Anthru Gauchi, father of the Sydney knife attacker, apologized for his son's actions, expressing regret and acknowledging the pain caused. He also mentioned his son's medical history and the support he received.
-
-🟩
-
-The father of a knife on Saturday in Australia's Ponti businessman has apologized for his son's actions.
-
-If I had been a police officer on that occasion, I would have fired and killed him, "Jol Gauchi's father Anthru Gauchi said.
-
-He said he was unable to withstand his 40 -year -old son.
-
-The father said that I could not tell anything that I could not report the pains of my son's actions.
-
-He said that he was seen as a painful soul and said, "I am sorry for his doing to your children and nation."
-
-Her father said that the person involved in the Sydney businessman in Australia had provided all the help to deal with his attitude.
-
-He said that my son I loved a dangerous man. He is a dangerous person to me.
-
-The father of the knife said that if I had seen something, I would have done something else.
-
-I brought it to a meal before. He embraced me completely. God is my son.
-
-The mother of a knife attack has said that her son has been receiving medical care for 18 years.
-
-...
-
-[Data](articles/f96657de.json)
-
-[Extended Data](ext_articles/f96657de.ext.json)
-
----
-
-### Two arrested with anoma
-
-*2024-04-15 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195645) · `si`
-
-Two individuals suspected of selling a statue designed by Dambaran and Gems were arrested in Mulleriyawa. Residents of Angoda and Kaduwela, they were caught based on police information. The Archaeological Department is now involved, and further investigations are underway.
-
-🟩
-
-Two persons who were trying to sell a statue who was suspected of designed to be created by Dambaran and Gems have been arrested in Mulleriyawa area.
-
-They were arrested on information received by the Mulleriyawa police.
-
-The suspects are residents of Angoda and Kaduwela.
-
-The Archaeological Department has been informed of the statue and the Mulleriyawa police are conducting further investigations.
-
-◼️
-
-[Data](articles/8308f953.json)
-
-[Extended Data](ext_articles/8308f953.ext.json)
-
----
-
-### Sydney mall stabbing: Probe underway why man targeted women
-
-*2024-04-15 12:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sydney-mall-stabbing-Probe-underway-why-man-targeted-women/108-280709) · `en`
-
-MELBOURNE, Australia (AP) — Australian police are examining why a lone assailant who stabbed six people to death in a busy Sydney shopping mall and injured more than a dozen others targeted women while avoiding men, a police commissioner said on Monday.
-
-Police shot and killed the homeless assailant, Joel Cauchi, during his knife attack in the Westfield Bondi Junction mall on Saturday near world-famous Bondi Beach.
-
-Police have ruled out terrorism and said the 40-year-old had a history of mental illness.
-
-New South Wales state Police Commissioner Karen Webb said detectives would question Cauchi’s family in a bid to determine his motive. CCTV footage from the mall showed Cauchi targeted women.
-
-“The videos speak for themselves, don’t they? And that’s certainly a line of inquiry for us,” Webb told Australian Broadcasting Corp.
-
-“It’s obvious to me, it’s obvious to detectives that that seems to be an area of interest: that the offender had focused on women and avoided the men,” Webb added.
-
-...
-
-[Data](articles/3b7d77f7.json)
-
-[Extended Data](ext_articles/3b7d77f7.ext.json)
-
----
-
-### Kaushali Kusumapala appointed Coca-Cola Country Director for Sri Lanka and the Maldives
-
-*2024-04-15 12:34:00* · [`economynextcom`](https://economynext.com/kaushali-kusumapala-appointed-coca-cola-country-director-for-sri-lanka-and-the-maldives-158522/) · `en`
-
-ECONOMYNEXT – Kaushali Kusumapala has been appointed Country Director for Sri Lanka and the Maldives, becoming the first woman to hold the position, the company said.
-
-“In this position, Kaushali will closely collaborate with bottling teams, customers, partners, consumers and external stakeholders in Sri Lanka and Maldives,” the company said.
-
-Kusumapala said she will collaborate with bottling partners, Coca-Cola Beverages Sri Lanka and Male’ Aerated Water Company, and other stakeholders.
-
-“For some years now, Coca-Cola holds a special place for me as a consumer and as a marketeer, and I am deeply committed to steering our loved brands and franchise operations to greater heights,” she said in the statement.
-
-She takes over from Pankaj Sinha, who was country director for 2019.
-
-...
-
-[Data](articles/efe01138.json)
-
-[Extended Data](ext_articles/efe01138.ext.json)
-
----
-
-### Police launch investigations into murders that occurred on April 14 and 15
-
-*2024-04-15 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98641/police-launch-investigations-into-murders-that-occurred-on-april-14-and-15) · `en`
-
-Sri Lanka Police announced that investigations have been launched by the respective police stations regarding the murders that took place on April 14 and 15 in Hakmana, Alayapattuwa, Serunuwara and Galewela areas.
-
-Issuing a statement the Police Media Division said that it was observed that the relevant crimes have taken place due to personal disputes. Preliminary investigations revealed that the suspects of these incidents were drunk, according to police.
-
-Furthermore, a total of eight road accidents with 10 deaths have been reported during the last 24 hours from various parts of the country, the police said, adding that these accidents have also left 10 other individuals injured.
-
-...
-
-[Data](articles/e54dffe2.json)
-
-[Extended Data](ext_articles/e54dffe2.ext.json)
-
----
-
-### Shot to a student
-
-*2024-04-15 12:19:10* · [`adalk`](https://www.ada.lk/breaking_news/සිසුවියකට-වෙඩිතබයි/11-409085) · `si`
-
-Minneriya, 17, shot by cousin, hospitalized. Shooting by Minneriya Police not revealed.
-
-🟩
-
-Minneriya, a 17-year-old student was admitted to the Polonnaruwa Hospital last night.
-
-The girl who was shot was facing a cousin with his family and had not yet revealed that the shooting was carried out by the Minneriya Police.
-
-◼️
-
-[Data](articles/b5a796ca.json)
-
-[Extended Data](ext_articles/b5a796ca.ext.json)
 
 ---

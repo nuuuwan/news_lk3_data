@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 15:04:09**
+As of **2024-04-15 15:18:09**
 
 ## Newspaper Stats
 
-*Scraped **18,904** Articles*
+*Scraped **18,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,052
 adalk | 1,576
-tamilmirrorlk | 2,212
-adaderanalk | 2,280
+tamilmirrorlk | 2,213
+adaderanalk | 2,281
 virakesarilk | 2,813
 dailymirrorlk | 2,912
 adaderanasinhalalk | 3,082
@@ -26,49 +26,103 @@ adaderanasinhalalk | 3,082
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,902 (100.0%) of 18,904 articles have been extended.
+18,904 (100.0%) of 18,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### நாடாளுமன்றத்தில் பாலியல் வன்முறைக்குள்ளான பெண்- - ஊடக செய்தி சரியானது என அவுஸ்திரேலிய நீதிமன்றம் தீர்ப்பு
+### தனது அழகின் இரகசியத்தை போட்டுடைத்தார் ஜனாதிபதி
 
-*2024-04-15 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181127) · `ta`
+*2024-04-15 15:06:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனது-அழகின்-இரகசியத்தை-போட்டுடைத்தார்-ஜனாதிபதி/175-335955) · `ta`
 
-அவுஸ்திரேலிய நாடாளுமன்றத்தில் பெண் பணியாளர் ஒருவர் பாலியல் வன்முறைக்குள்ளானார் என வெளியான தகவல்கள் உண்மையானவை என அவுஸ்திரேலிய நீதிமன்றம் தெரிவித்துள்ளது.
+நுவரெலியா மீபிலிமனேயில் இடம்பெற்ற புத்தாண்டு விளையாட்டு விழாவில்  கலந்து கொண்ட ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் கேட்ட கேள்விக்கு ஜனாதிபதி கூறிய பதில் புத்தாண்டு விழாவில் இருந்த அனைவரையும் சிரிப்பலையில் ஆழ்த்தியது.
 
-பிரிட்டனி ஹிக்கின்ஸ் என்ற அவுஸ்திரேலிய நாடாளுமன்ற பணியாளர் புரூஸ் லெஹ்மன் என்ற பணியாளரால் குற்றம்சாட்டியிருந்தார்.
+புத்தாண்டு விழா மைதானத்தில் போட்டிகளைப் பார்த்துக் கொண்டிருந்த ஜனாதிபதியின் அருகில் சென்ற அறிவிப்பாளர் “எப்படி இவ்வளவு அழகாக இருக்கிறீர்கள்?” என்று கேட்டார்.
 
-இது தொடர்பில் ஊடகமொன்று  வெளியிட்ட செய்திக்காக புரூஸ்லெஹ்மன் அந்த நிறுவனத்திற்கு எதிராக நீதிமன்ற நடவடிக்கையில் ஈடுபட்டார்.
+அதற்கு உடனடியாக பதில் அளித்த ஜனாதிபதி, “ஐ.தே.க.வில் இணைந்து நான் அழகாகிவிட்டேன்” என்று சிரித்துக் கொண்டே கூறினார்.
 
-இந்த நிலையில் ஊடகம்  தெரிவித்துள்ள விடயங்கள் சரியானவை என அவுஸ்திரேலிய நீதிமன்றம் இன்று தீர்ப்பு வழங்கியுள்ளது.
+ஜனாதிபதியிடம் அறிவிப்பாளர் கேட்ட கேள்வியும் அதற்கு கிடைத்த பதில்களும் ஒலிபெருக்கி மூலம் அரங்கம் முழுவதும் நேரலையாக ஒளிபரப்பப்பட்டு அனைவரையும் சிரிக்க வைத்தது.
 
-புரூஸ்லெஹ்மன் பிரிட்டனி ஹிக்கின்சை பாலியல் வன்முறைக்கு உட்படுத்தினார் வேண்டுமென்றே பொய்களை சொன்னார் என நீதிபதி தெரிவித்துள்ளார்.
+சுற்றுலா காணி மற்றும் விளையாட்டுத்துறை அமைச்சர்.ஹரின் பெர்னாண்டோவும் ஜனாதிபதியுடன் மீபிலிமனேயில் இடம்பெற்ற புத்தாண்டு விளையாட்டு விழாவை பார்வையிடச் சென்றிருந்தார் என்பது குறிப்பிடத்தக்கது.
 
-28 வயது லெஹ்மன் அந்த பெண்ணுடன் பாலியல் உறவில் ஈடுபடுவது குறித்து மிகவும் உறுதியாக காணப்பட்டார் அந்த பெண்ணிற்கு அது குறித்து விருப்பம் உள்ளதா இல்லையா என்பதை அவர் கருத்தில் எடுக்கவில்லை என நீதிபதி தெரிவித்துள்ளார்.
+◼️
 
-...
-
-[Data](articles/71b9069b.json)
+[Data](articles/21688a7b.json)
 
 ---
 
-### கோழி இறைச்சியின் விலை மீண்டும் உயர்ந்தது!
+### 19 more fishermen detained by Sri Lanka return home: Indian High Commission
+
+*2024-04-15 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98643/19-more-fishermen-detained-by-sri-lanka-return-home-indian-high-commission) · `en`
+
+Nineteen Indian fishermen detained by the Sri Lanka Navy were on Tuesday repatriated to India, the Indian High Commission said, almost a week after a similar number of fishermen were sent back to their home country.
+
+“19 Indian fishermen have been repatriated from Sri Lanka and are currently on their way to Chennai,” the Indian High Commission here said in a post on X.
+
+The Navy has so far held 23 Indian trawlers and 178 Indian fishermen for allegedly fishing in the island nation’s waters thus far in 2024, and handed them over to authorities for legal action, the Sri Lankan Navy late last month confirmed in a statement.
+
+The fishermen issue is a contentious one in the ties between India and Sri Lanka, with Lankan Navy personnel even firing at Indian fishermen in the Palk Strait and seizing their boats in several alleged incidents of illegally entering Sri Lankan territorial waters.
+
+...
+
+[Data](articles/d502017a.json)
+
+---
+
+### Australian court ruling that the media news is correct
+
+*2024-04-15 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181127) · `ta`
+
+An Australian court ruled that a media report about a parliamentary employee, British Hickins, being sexually assaulted by Bruce Lehman was correct. Lehman was found to have sexually assaulted Hickins, who had reported the incident three years ago, sparking widespread protests in Australia.
+
+🟩
+
+The Australian court said that a female employee in the Australian parliament was reported to be sexually assaulted.
+
+Australian parliamentary employee, British Hickins, was accused by an employee of Bruce Lehman.
+
+Brucelehman engaged in court proceedings against the company for a media report.
+
+The Australian court today ruled that the media's issues are correct.
+
+The judge said that Brucelehman had sexually assaulted the British Hikkins.
+
+The judge said that 28 -year -old Lehman was very sure of having sex with the woman.
+
+Higgins said he had been raped in parliamentary office three years ago, which caused a stir in Australia.
+
+Thousands of demonstrations took place.
+
+◼️
+
+[Data](articles/71b9069b.json)
+
+[Extended Data](ext_articles/71b9069b.ext.json)
+
+---
+
+### The price of chicken meat rose again!
 
 *2024-04-15 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/181125) · `ta`
 
-பண்டிகைக் காலங்களில் கோழி இறைச்சியின் விலையை வியாபாரிகள்  தன்னிச்சையாக உயர்த்தி வருவதாக நுகர்வோர் தெரிவித்துள்ளனர்.
+Chicken meat prices rise again, with traders accused of arbitrarily increasing prices during the festive season. The government promises to reduce prices but is accused of not intervening. Commerce Minister Nalin Fernando suggests importing eggs from India if prices rise further.
 
-பண்டிகைக் காலங்களில் கோழி  இறைச்சி மற்றும் முட்டைகளின் விலை குறைக்கப்படும் என அரசாங்கம் உறுதியளித்த போதிலும் அவ்வாறான நிலைமை சந்தையில் காணப்படவில்லையென மக்கள் குற்றம் சாட்டியுள்ளனர்.முன்னர் கோழி இறைச்சியின் விலையானது 1,100 ரூபாவாக காணப்பட்டதோடு தற்போது 1 கிலோ கோழி இறைச்சியின் விலையானது  1,500 ரூபாவாக காணப்படுகின்றது.
+🟩
+
+Consumers have said that traders are arbitrarily raising the price of poultry meat during the festive season.
+
+The government has promised to reduce the price of poultry meat and eggs during the festive season, but the people have accused the market of not being in the market.
 
 இதேவேளை,அதிகரித்துள்ள இறைச்சி மற்றும் முட்டையினது விலை எதிர்வரும் நாட்களில் குறைக்கப்படும் என   கோழி பண்ணையாளர்கள் சங்கத்தின்  தலைவர் அஜித் குணசேகர தெரிவித்துள்ளார்.
 
-பண்டிகைக் காலத்தையடுத்து முட்டையின் விலை மீண்டும் அதிகரித்துள்ளதுடன் மீண்டும் முட்டையின் விலை அதிகரித்தால் இந்தியாவிலிருந்து முட்டைகளை இறக்குமதி செய்யவுள்ளதாக வர்த்தக அமைச்சர் நளின் பெர்னாண்டோ தெரிவித்துள்ளார்.
+Commerce Minister Nalin Fernando has said that the price of eggs will be imported from India if the price of eggs will increase again.
 
 ◼️
 
 [Data](articles/50ac7bc0.json)
+
+[Extended Data](ext_articles/50ac7bc0.ext.json)
 
 ---
 
@@ -2301,45 +2355,5 @@ In early morning, Iran had a number of air drones and missile attacks.
 [Data](articles/11a5eb9d.json)
 
 [Extended Data](ext_articles/11a5eb9d.ext.json)
-
----
-
-### 30000 Patt of New Year Carnival
-
-*2024-04-14 17:01:38* · [`adalk`](https://www.ada.lk/breaking_news/අළුත්-අවුරුදු-සැණකෙළිවල-ආරක්ෂාවට-30000-ක-බල-ඇණියක්/11-409078) · `si`
-
-Deshaband Tennakoon orders OICs to ensure security for Sinhala and Hindu New Year, with 4500 festivals nationwide. Police Headquarters allocates 14,000 police officers, 500, 400, 15806, and 15806 Civil Defense members.
-
-🟩
-
-IGP Deshaband Tennakoon has instructed all OICs to provide special police protection to the security of the people of the Sinhala and Hindu New Year to join the Sinhala and Hindu New Year.
-
-Nearly 4500 festivals have been organized throughout the country, Police Headquarters says.
-
-The police headquarters said that 14,000 police officers, 500 police officers, 400 police officers, 15806 police officers, and 15806 members of the Civil Defense Committees as well.
-
-◼️
-
-[Data](articles/406666eb.json)
-
-[Extended Data](ext_articles/406666eb.ext.json)
-
----
-
-### Additional trains in operation after New Year holidays
-
-*2024-04-14 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98630/additional-trains-in-operation-after-new-year-holidays) · `en`
-
-Special train services are in operation from this evening (April 14) for people to return to Colombo after the Sinhala and Tamil New Year holidays, the Railways Department said.
-
-Deputy General Manager of Sri Lanka Railways N.J. Indipolage stated that accordingly, eight additional train journeys will be in operation from Badulla, Galle and Beliatta railway stations to Colombo Fort.
-
-Meanwhile, the Department of Railways also mentioned that the office trains will be operational as per usual from April 16.
-
-◼️
-
-[Data](articles/cbdcce8a.json)
-
-[Extended Data](ext_articles/cbdcce8a.ext.json)
 
 ---

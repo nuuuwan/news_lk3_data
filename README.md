@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 15:18:09**
+As of **2024-04-15 15:33:41**
 
 ## Newspaper Stats
 
-*Scraped **18,906** Articles*
+*Scraped **18,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,57 @@ tamilmirrorlk | 2,213
 adaderanalk | 2,281
 virakesarilk | 2,813
 dailymirrorlk | 2,912
-adaderanasinhalalk | 3,082
+adaderanasinhalalk | 3,083
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,904 (100.0%) of 18,906 articles have been extended.
+18,906 (100.0%) of 18,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### தனது அழகின் இரகசியத்தை போட்டுடைத்தார் ஜனாதிபதி
+### ජිරාෆ් පිළිරුව කඩාවැටී සිදුවූ ඛේදවාචකය
+
+*2024-04-15 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195649) · `si`
+
+කොන්ක්‍රීට්වලින් සාදන ලද ජිරාෆ් සත්ත්වයෙකුගේ පිළිරුවක් කඩා වැටීමෙන් කුඩා දරුවෙකු අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+
+අනතුරින් බරපතළ තුවාල ලැබූ දරුවා කුලියාපිටිය රෝහලට ඇතුළත් කිරීමෙන් පසුව මෙලෙස මියගොස් ඇත.
+
+එම දරුවාගේ නිවසේ මිදුලේ තබා තිබූ කොන්ක්‍රීට්වලින් සාදන ලද ජිරාෆ්ගේ පිළිරුවක් මෙලෙස දරුවාගේ සිරුර මතට කඩාවැටී ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/e143dce0.json)
+
+---
+
+### The president put on the secret of his beauty
 
 *2024-04-15 15:06:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனது-அழகின்-இரகசியத்தை-போட்டுடைத்தார்-ஜனாதிபதி/175-335955) · `ta`
 
-நுவரெலியா மீபிலிமனேயில் இடம்பெற்ற புத்தாண்டு விளையாட்டு விழாவில்  கலந்து கொண்ட ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் கேட்ட கேள்விக்கு ஜனாதிபதி கூறிய பதில் புத்தாண்டு விழாவில் இருந்த அனைவரையும் சிரிப்பலையில் ஆழ்த்தியது.
+President Ranil Wickremesinghe, at the New Year's Games, humorously responded to an announcer's compliment about his beauty, saying, "I am beautiful in the UNP." This interaction, broadcasted in the stadium, made everyone laugh.
 
-புத்தாண்டு விழா மைதானத்தில் போட்டிகளைப் பார்த்துக் கொண்டிருந்த ஜனாதிபதியின் அருகில் சென்ற அறிவிப்பாளர் “எப்படி இவ்வளவு அழகாக இருக்கிறீர்கள்?” என்று கேட்டார்.
+🟩
 
-அதற்கு உடனடியாக பதில் அளித்த ஜனாதிபதி, “ஐ.தே.க.வில் இணைந்து நான் அழகாகிவிட்டேன்” என்று சிரித்துக் கொண்டே கூறினார்.
+Asked by President Ranil Wickremesinghe, who was attending the New Year's Games at Nuwara Eliya Meebilimane, the President replied, "The New Year celebration was laughing."
 
-ஜனாதிபதியிடம் அறிவிப்பாளர் கேட்ட கேள்வியும் அதற்கு கிடைத்த பதில்களும் ஒலிபெருக்கி மூலம் அரங்கம் முழுவதும் நேரலையாக ஒளிபரப்பப்பட்டு அனைவரையும் சிரிக்க வைத்தது.
+The announcer who went near the president who was watching the matches at the New Year's Festival Ground, "How are you so beautiful?"He asked.
 
-சுற்றுலா காணி மற்றும் விளையாட்டுத்துறை அமைச்சர்.ஹரின் பெர்னாண்டோவும் ஜனாதிபதியுடன் மீபிலிமனேயில் இடம்பெற்ற புத்தாண்டு விளையாட்டு விழாவை பார்வையிடச் சென்றிருந்தார் என்பது குறிப்பிடத்தக்கது.
+Immediately, the president laughed, "I am beautiful in the UNP."
+
+The question of the president and the answers to the president and the answers to the loudspeaker broadcast the stadium and made everyone laugh.
+
+It is noteworthy that the Minister of Tourism and Sports. Herin Fernando also visited the New Year's Sports Festival with the President with the President.
 
 ◼️
 
 [Data](articles/21688a7b.json)
+
+[Extended Data](ext_articles/21688a7b.ext.json)
 
 ---
 
@@ -67,6 +89,8 @@ The fishermen issue is a contentious one in the ties between India and Sri Lanka
 ...
 
 [Data](articles/d502017a.json)
+
+[Extended Data](ext_articles/d502017a.ext.json)
 
 ---
 
@@ -2329,31 +2353,5 @@ Officers of the OIC Police Inspector Ruwan Gunatilleke and other officials are c
 [Data](articles/ef178154.json)
 
 [Extended Data](ext_articles/ef178154.ext.json)
-
----
-
-### British Royal Army before Israel
-
-*2024-04-14 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195627) · `si`
-
-British Royal Army jets deployed to protect Israel from Iranian drone attacks. British Prime Minister Rishi Suneake condemned Iran's attacks.
-
-🟩
-
-British fighter jets have been deployed to the drone from Iran to Israel to Israel.
-
-The jets belonging to the British royal army have been deployed in foreign media.
-
-The British king has announced that the jets have been deployed in the relevant airline.
-
-British Prime Minister Rishi Suneake has condemned the attacks on Iran and said they would continue to appear for the protection of Israel.
-
-In early morning, Iran had a number of air drones and missile attacks.
-
-◼️
-
-[Data](articles/11a5eb9d.json)
-
-[Extended Data](ext_articles/11a5eb9d.ext.json)
 
 ---

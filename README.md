@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 17:18:28**
+As of **2024-04-15 17:35:09**
 
 ## Newspaper Stats
 
-*Scraped **18,932** Articles*
+*Scraped **18,935** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,64 +19,122 @@ adalk | 1,578
 tamilmirrorlk | 2,217
 adaderanalk | 2,285
 virakesarilk | 2,820
-dailymirrorlk | 2,913
+dailymirrorlk | 2,916
 adaderanasinhalalk | 3,089
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,928 (100.0%) of 18,932 articles have been extended.
+18,932 (100.0%) of 18,935 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### சுந்தர் சி யின் 'அரண்மனை 4' அப்டேட்
+### Sundar C's 'Palace 4' update
 
 *2024-04-15 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/181153) · `ta`
 
-இயக்குநரும், நடிகருமான சுந்தர். சி கதையின் நாயகனாக நடித்திருக்கும் 'அரண்மனை 4' திரைப்படத்தைப் பற்றிய புதிய தகவல்கள் வெளியாகி இருக்கிறது.
+"Sundar C's 'Palace 4' update: New cast includes Sundar, Tamanna, Rasi Kanna, and others. E. Krishnaswamy's Hip Hop Tamil soundtrack. Initial release delayed due to AC Arun Kumar's election involvement. Now set for 26th release in Tamil and Telugu, with 'Oopscho' song featuring Tamanna and Rasi Kanna."
 
-ரசிகர்களின் எதிர்பார்ப்பை பொழுதுபோக்கு பார்வையில் பூர்த்தி செய்யும் படைப்பாளியான சுந்தர். சி இயக்கத்தில் உருவாகி இருக்கும் 'அரண்மனை 4 ' திரைப்படத்தில் சுந்தர். சி, தமன்னா, ராசி கண்ணா, யோகி பாபு, விடிவி கணேஷ், டெல்லி கணேஷ், கோவை சரளா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-ஈ. கிருஷ்ணசாமி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஹிப் ஹொப் தமிழா ஆதி இசையமைத்திருக்கிறார். ஹாரர் வித் காமெடி ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை பென்ஸ் மீடியா பிரைவேட் லிமிடெட் பட நிறுவனம் சார்பில் தயாரிப்பாளர் ஏ சி எஸ் அருண்குமார் தயாரித்திருக்கிறார். இந்த திரைப்படத்தை குஷ்பூ வழங்குகிறார்.
+Director and actor Sundar. New information about the movie 'Palace 4' starring the hero of the story has been released.
+
+Sundar, the creator who fulfills the expectation of the fans in entertainment. Sundar in the movie 'Palace 4'. C, Tamanna, Rasi Kanna, Yogi Babu, VTV Ganesh, Delhi Ganesh, Coimbatore Sarala and many others have been cast.
+
+E.. Krishnaswamy has composed the film Hip Hop Tamil. The film is being produced by Benz Media Private Limited on behalf of Benz Media Private Limited.. Khushboo presents this film.
+
+The film was first announced that the film will be released on the eleventh April. The film was not released on the date of his plan for Khushboo and the producer of the film, AC Arun Kumar, was involved in the Lok Sabha election.
 
 ...
 
 [Data](articles/6a240223.json)
 
+[Extended Data](ext_articles/6a240223.ext.json)
+
 ---
 
-### 'பென்ஸ்'
+### Train fails to halt, crashes onto Colombo Fort platform
+
+*2024-04-15 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-fails-to-halt-crashes-onto-Colombo-Fort-platform/108-280714) · `en`
+
+Colombo, April 15 (Daily Mirror) - A train crashed onto the railway platform at the Colombo Fort railway station today after failing to stop it at the designated place.
+
+According to railway authorities, the train was entering platform No. 1 of the Colombo Fort Railway Station to commence its journey from Colombo Fort to Chilaw at 2:35 pm.
+
+Fortunately, no injuries were reported as a result of the accident, although the front part of the train and a section of the platform were damaged.
+
+This incident did not disrupt railway traffic, and an investigation will be conducted at the Railway Department level to determine the cause of the incident.
+
+◼️
+
+[Data](articles/5ed7f899.json)
+
+---
+
+### 'Benz'
 
 *2024-04-15 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181150) · `ta`
 
-'சந்திரமுகி 2' எனும் தோல்வி படத்தையும், 'ஜிகிர்தண்டா டபுள் எக்ஸ்' என்ற வணிக ரீதியான வெற்றி படத்தையும் வழங்கிய ராகவா லோரன்ஸ் சிறிய இடைவெளிக்குப் பிறகு நடிக்க ஒப்புக் கொண்டிருக்கும் புதிய திரைப்படத்திற்கு, 'பென்ஸ்' என பெயரிடப்பட்டு, அதன் டைட்டில் லுக் வெளியிடப்பட்டிருக்கிறது.
+"Raghava Lawrence stars in 'Benz', directed by Bhakiraj Kannan, produced by Fashion Studios, The Root, and G Squad. The film, featuring a warrior theme, is written by Lokesh Kanakaraj. More stars and technicians will be announced soon."
 
-“ரெமோ' படத்தை இயக்கிய இயக்குநர் பாக்கியராஜ் கண்ணன் இயக்கத்தில் உருவாகும் 'பென்ஸ்' எனும் திரைப்படத்தில் ராகவா லோரன்ஸ் கதையின் நாயகனாக நடிக்கிறார்.
+🟩
 
-இந்த திரைப்படத்தை ஃபேஷன் ஸ்டுடியோஸ், தி ரூட் மற்றும் ஜி ஸ்குவாட் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் சுதன் சுந்தரம், ஜெகதீஷ் பழனிச்சாமி மற்றும் லோகேஷ் கனகராஜ் ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
+Raghava Lawrence, who gave 'Chandramukhi 2' and 'Jigirtanda Double X', a commercial hit film, has been named 'Benz' and has been released in its title.
 
-இயக்குநர் லோகேஷ் கனகராஜ் கதை எழுதியிருக்கும் இந்தத் திரைப்படத்தின் பணியாற்றும் ஏனைய நட்சத்திர நடிகர்கள் மற்றும் தொழில்நுட்ப கலைஞர்கள் குறித்த அதிகாரப்பூர்வமான அறிவிப்பு விரைவில் வெளியாகும் என எதிர்பார்க்கப்படுகிறது
+Directed by director Bhakiraj Kannan, directed by "Remo", Raghava is the hero of the story of 'Benz'.
 
-...
+The film is being produced by producers Sudan Sundaram, Jagadish Palanisamy and Lokesh Kanakaraj on behalf of Fashion Studios, The Root and G Squad.
+
+The official announcement of other star actors and technicians in the film, which is written by director Lokesh Kanakaraj, is expected to be released soon.
+
+In the title of the film, the film has been promoted as 'a warrior warrior and a very dangerous soldier'.
+
+Lokesh Kanakaraj -Bakiraj Kannan -Rawa Lawrence has designed a helmet in the title of 'Benz' which is ready for the alliance and printed it in English as Benz.
+
+◼️
 
 [Data](articles/a46ccae6.json)
 
+[Extended Data](ext_articles/a46ccae6.ext.json)
+
 ---
 
-### ඔස්ට්‍රේලියාවේ තවත් බිහිසුණු ප්‍රහාරයක්
+### Woman drowns, her husband missing in Victoria Reservoir
+
+*2024-04-15 16:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Woman-drowns-her-husband-missing-in-Victoria-Reservoir/108-280713) · `en`
+
+Colombo, April 15 (Daily Mirror) - A woman who was bathing in the Victoria Reservoir at Kumbukkadura in Theldeniya drowned and her husband is missing, police said.
+
+They said the woman is 22-year-old, and her husband who is missing is a 28 -year old resident of Tihariya.
+
+Police and local residents have launched an operation to find the missing person.
+
+◼️
+
+[Data](articles/8cbda66a.json)
+
+---
+
+### Another terrible attack in Australia
 
 *2024-04-15 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195655) · `si`
 
-ඉන් බිෂොප්වරයෙක් සහ තවත් පිරිසක් තුවාල ලබා ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+In Australia, a bishop and others were injured in a church attack by a person in black clothes.
 
-දේවස්ථානයේ පැවති දේවමෙහෙයක් අතරතුරදී කළු ඇඳුමින් සැරසුණු අයෙකු පැමිණ එක්වරම මෙම පිහි ප්‍රහාරය එල්ලකර තිබේ.
+🟩
+
+A bishop and others were injured in foreign media reports say.
+
+While in the church, someone who was dressed in a black clothes came to the knives at once.
 
 ◼️
 
 [Data](articles/a28617ae.json)
+
+[Extended Data](ext_articles/a28617ae.ext.json)
 
 ---
 
@@ -174,15 +232,21 @@ A number of others, including a 9-month-old baby, were also injured.
 
 ---
 
-### ගමේ ඉඳලා එන අයට දැනුම්දීමක්
+### A notification for those who are from the village
 
 *2024-04-15 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195654) · `si`
 
-අප්‍රේල් මස 14 වනදා සිට 17 වනදා දක්වා ක්‍රියාත්මකවන විශේෂ ප්‍රවාහන සේවා කාලසටනක් රජය විසින් නිකුත් කර තිබේ.
+"Villagers, from April 14-17, a special transport service schedule is in effect."
+
+🟩
+
+The government has issued a special transport service schedule implemented from April 14 to 17.
 
 ◼️
 
 [Data](articles/4a1ebaa0.json)
+
+[Extended Data](ext_articles/4a1ebaa0.ext.json)
 
 ---
 
@@ -339,6 +403,24 @@ Furthermore, there were only a few incidents of motor accidents, domestic accide
 [Data](articles/3fd0600b.json)
 
 [Extended Data](ext_articles/3fd0600b.ext.json)
+
+---
+
+### Drastic dip in accidents during festive season
+
+*2024-04-15 16:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Drastic-dip-in-accidents-during-festive-season/108-280712) · `en`
+
+Colombo, April 15 (Daily Mirror) - Health authorities have noticed a significant decrease in accidents, notably firecracker-related incidents, during the festive season.
+
+According to Deputy Director of the Colombo National Hospital Dr Rukshan Bellana, there were no admissions due to firecracker-related accidents during the period
+
+However, three patients sought treatment at the outpatient department for minor injuries at the National Hospital.
+
+Furthermore, there were only a few incidents of motor accidents, domestic accidents including falling. Nevertheless, none of the incidents were critical.
+
+◼️
+
+[Data](articles/73078d64.json)
 
 ---
 
@@ -2253,69 +2335,5 @@ All the other players who have played in the Indian Premier League cricket match
 [Data](articles/53d97be4.json)
 
 [Extended Data](ext_articles/53d97be4.ext.json)
-
----
-
-### Advisory issued for rising temperatures in parts of the island
-
-*2024-04-14 21:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98634/advisory-issued-for-rising-temperatures-in-parts-of-the-island) · `en`
-
-The heat index, the temperature felt on the human body, is expected to increase up to the ‘Caution’ level (39°C – 45°C) in some places in Western and North-Western provinces and Mannar district, says the Department of Meteorology.
-
-The advisory, issued at 04.00 p.m. today (14), is effective until tomorrow (15), it added.
-
-The advisory cautions of heat cramps and heat exhaustion; continued activity could result in heatstroke, it further warns.
-
-The Heat Index Forecast is calculated by using relative humidity and maximum temperature and this is the condition that is felt on the human body, says the Meteorology Department.
-
-The department further says this is not the forecast of maximum temperature. It is generated by the Department of Meteorology for the next day period and prepared by using global numerical weather prediction model data, the advisory further read.
-
-◼️
-
-[Data](articles/5400a977.json)
-
-[Extended Data](ext_articles/5400a977.ext.json)
-
----
-
-### Lack of years in danger
-
-*2024-04-14 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195634) · `si`
-
-In the past 24 hours, 162 people were admitted to Colombo National Hospital, with 37 due to road accidents, a spike from previous years.
-
-🟩
-
-The 24 hours of the past 24 hours in the past 24 hours, 162 people have been admitted to the Colombo National Hospital.
-
-Deputy Director of the National Hospital Dr. Rukshan Bellana stated that 37 persons have been hospitalized due to road accidents.
-
-However, there have been reports that there have been reported yesterday (13), reports say.
-
-According to Dr. Rukshan Bellana, it is reported that the accident occurred in the New Year's Day this year compared to previous years.
-
-◼️
-
-[Data](articles/8de71e22.json)
-
-[Extended Data](ext_articles/8de71e22.ext.json)
-
----
-
-### Fatal accident in Pussellawa claims two lives, injures four
-
-*2024-04-14 21:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fatal-accident-in-Pussellawa-claims-two-lives-injures-four/108-280699) · `en`
-
-Colombo, April 14 (Daily Mirror) - An accident in the Helboda area of Pussellawa today (Sunday) has left two individuals dead, including a child, and four others injured after a van plunged down a precipice.
-
-Police spokesman DIG Nihal Thalduwa confirmed the tragic incident, revealing that among the fatalities were a 2-year-old boy and a 70-year-old individual.
-
-Further, four individuals sustained injuries in the accident and were rushed to hospital for medical treatment.
-
-◼️
-
-[Data](articles/ed0a5908.json)
-
-[Extended Data](ext_articles/ed0a5908.ext.json)
 
 ---

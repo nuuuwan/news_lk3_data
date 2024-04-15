@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 15:33:41**
+As of **2024-04-15 15:51:09**
 
 ## Newspaper Stats
 
-*Scraped **18,907** Articles*
+*Scraped **18,908** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,052
 adalk | 1,576
-tamilmirrorlk | 2,213
+tamilmirrorlk | 2,214
 adaderanalk | 2,281
 virakesarilk | 2,813
 dailymirrorlk | 2,912
@@ -26,25 +26,49 @@ adaderanasinhalalk | 3,083
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,906 (100.0%) of 18,907 articles have been extended.
+18,907 (100.0%) of 18,908 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### ජිරාෆ් පිළිරුව කඩාවැටී සිදුවූ ඛේදවාචකය
+### திடீரென விலை அதிகரிப்பு
+
+*2024-04-15 15:33:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-விலை-அதிகரிப்பு/175-335956) · `ta`
+
+பண்டிகைக் காலங்களில் கோழி இறைச்சியின் விலையை வியாபாரிகள்  தன்னிச்சையாக உயர்த்தி வருவதாக தெரிவிக்கப்படுகின்றது.
+
+பண்டிகைக் காலங்களில் கோழி  இறைச்சி மற்றும் முட்டைகளின் விலை குறைக்கப்படும் என அரசாங்கம் உறுதியளித்த போதிலும் அவ்வாறான நிலைமை சந்தையில் காணப்படவில்லையென மக்கள் குற்றம் சாட்டியுள்ளனர்.
+
+முன்னர் கோழி இறைச்சியின் விலையானது 1,100 ரூபாவாக காணப்பட்டதோடு தற்போது 1 கிலோ கோழி இறைச்சியின் விலையானது  1,500 ரூபாவாக காணப்படுகின்றது.
+
+இதேவேளை,அதிகரித்துள்ள இறைச்சி மற்றும் முட்டையினது விலை எதிர்வரும் நாட்களில் குறைக்கப்படும் என   கோழி பண்ணையாளர்கள் சங்கத்தின்  தலைவர் அஜித் குணசேகர தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/69f94794.json)
+
+---
+
+### The tragedy where the giraff statue broke out
 
 *2024-04-15 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195649) · `si`
 
-කොන්ක්‍රීට්වලින් සාදන ලද ජිරාෆ් සත්ත්වයෙකුගේ පිළිරුවක් කඩා වැටීමෙන් කුඩා දරුවෙකු අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+A giraffe statue in a child's courtyard collapsed, crushing the child. Rushed to Kuliyapitiya Hospital.
 
-අනතුරින් බරපතළ තුවාල ලැබූ දරුවා කුලියාපිටිය රෝහලට ඇතුළත් කිරීමෙන් පසුව මෙලෙස මියගොස් ඇත.
+🟩
 
-එම දරුවාගේ නිවසේ මිදුලේ තබා තිබූ කොන්ක්‍රීට්වලින් සාදන ලද ජිරාෆ්ගේ පිළිරුවක් මෙලෙස දරුවාගේ සිරුර මතට කඩාවැටී ඇති බව පොලීසිය පවසයි.
+A small child is unfortunately after a statue of a giraffe creature made from concrete.
+
+The victim was rushed to the Kuliyapitiya Hospital.
+
+A statue of Giraffe, made in the courtyard of the child's house, has collapsed on the child's body, police said.
 
 ◼️
 
 [Data](articles/e143dce0.json)
+
+[Extended Data](ext_articles/e143dce0.ext.json)
 
 ---
 
@@ -2327,31 +2351,5 @@ They were conducting a large quantity of gold jewelery and the swords of gold je
 [Data](articles/96fecd16.json)
 
 [Extended Data](ext_articles/96fecd16.ext.json)
-
----
-
-### No journey to a dead house, a mother-in-law and daughter
-
-*2024-04-14 17:09:50* · [`adalk`](https://www.ada.lk/breaking_news/නෑ-ගමන-මළ-ගෙදරක්-වෙයි--නැන්දම්මා-හා-ලේලි-අනතුරකින්-මරුට/11-409079) · `si`
-
-Two women, Kamavathi (70) and Puthamahewa's Syria (51), seriously injured in a Hindu New Year accident near Bogahamaditta, are in ICU at Badulla Teaching Hospital. The accident occurred at the residence of HM NM, a Dompe, Gampaha resident. Police are investigating.
-
-🟩
-
-Two women have been seriously injured and admitted to the Badulla Teaching Hospital in the Badulla Main road to the Hindu New Year.
-
-HM NM, a resident of Dompe, Gampaha. The deceased was the death of Kamavathi (70), and Puthamahewa's Syria (51).
-
-The accident is receiving treatment at the ICU of the Badulla Teaching Hospital in the accident.
-
-The police said that the Hindu New Year's residence was crashed to the Hindu New Year to the house of his daughter in Bogahamaditta.
-
-Officers of the OIC Police Inspector Ruwan Gunatilleke and other officials are conducting further investigations.
-
-◼️
-
-[Data](articles/ef178154.json)
-
-[Extended Data](ext_articles/ef178154.ext.json)
 
 ---

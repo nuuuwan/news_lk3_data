@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 21:34:38**
+As of **2024-04-15 21:52:52**
 
 ## Newspaper Stats
 
-*Scraped **18,968** Articles*
+*Scraped **18,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,018
 economynextcom | 1,062
 adalk | 1,583
 tamilmirrorlk | 2,218
-adaderanalk | 2,289
+adaderanalk | 2,290
 virakesarilk | 2,825
 dailymirrorlk | 2,920
 adaderanasinhalalk | 3,093
@@ -26,39 +26,75 @@ adaderanasinhalalk | 3,093
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,965 (100.0%) of 18,968 articles have been extended.
+18,968 (100.0%) of 18,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### SRH කණ්ඩායමෙන් අලුත් වාර්තාවක්
+### Iranian President to inaugurate ‘Uma Oya’ project during Sri Lanka visit
+
+*2024-04-15 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98652/iranian-president-to-inaugurate-uma-oya-project-during-sri-lanka-visit) · `en`
+
+Several major water and energy projects are going to be inaugurated by the presidents of Iran and Sri Lanka in the near future, Iranian media reported.
+
+The Uma Oya Multipurpose project which includes two dams namely Dyraaba and Puhulpola and also 25 kilometers of water transmission tunnel, is expected to be inaugurated in May in the presence of Iranian President Ebrahim Raisi.
+
+The project also includes two major hydroelectric power plants each with a capacity of 60 megawatts.
+
+Uma Oya multipurpose project is regarded as one of the greatest technical and engineering service projects of Iranian companies in Sri Lanka.
+
+This project is located in the south-east of Sri Lanka 200km away from Colombo city.
+
+The purpose of the project is to improve irrigation of 5000 acres of agricultural land, transferring 145 million cubic meters of water and generating 290 GW/h of power in a year.
+
+One of the important features of the Uma Oya project is the scattered and diverse components of the project.
+
+...
+
+[Data](articles/b63085c8.json)
+
+---
+
+### A new record from the SRH team
 
 *2024-04-15 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195659) · `si`
 
-IPL ඉතිහාසයේ වැඩිම ලකුණු රැස්කිරීමේ වාර්තාව යළි අලුත් කිරීමට හයිද්‍රාබාද් කණ්ඩායම සමත්විය.
+SRH sets a new record with 277 runs against MI, breaking the previous highest score.
 
-ඒ SRH කණ්ඩායම මෙවර IPL තරගාවලියේදී MI කණ්ඩායමට එරෙහිව පැවති තරගයේදී ලකුණු 277ක් රැස්කරගෙන තිබූ වාර්තාව බිඳ හෙළමිනි.
+🟩
 
-ඒ අනුව RCB කණ්ඩායමට එරෙහිව දැන් පැවැත්වෙන තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදුන් SRH කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 3ක් පමණක් දැවී ලකුණු 287ක් රැස්කරගනිමිනි.
+Hyderabad won the highest score record of history.
+
+The SRH team broke the report that scored 277 runs in the match against MI team.
+
+Accordingly, the SRH scored 287 runs for the loss of 28 wickets at the end of 20 overs.
 
 ◼️
 
 [Data](articles/fa958055.json)
 
+[Extended Data](ext_articles/fa958055.ext.json)
+
 ---
 
-### வெங்காய ஏற்றுமதி தடையை நீக்கிய இந்திய
+### Indian to remove the onion export barrier
 
-*2024-04-15 21:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181182) · `ta`
+*2024-04-15 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/181182) · `ta`
 
-இந்திய அரசு 10000 மெட்ரிக் டன் வெங்காயம் ஏற்றுமதி செய்ய அனுமதிக்கப்பட்டுள்ள நிலையில், இலங்கைக்கான வெங்காயம் மீதான ஏற்றுமதி தடையையும் இந்திய அரசு நீக்கியுள்ளது.
+India lifts onion export ban to Sri Lanka, despite earlier restrictions.
 
-இந்தியாவின் அண்டை நாடு முதல் கொள்கையை மீண்டும் வலியுறுத்தியதுடன், இது இங்குள்ள சிங்கள மற்றும் தமிழ் புத்தாண்டு முன்னிட்டும் இலங்கைக்கான தடையை நீக்கியுள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+While the Government of India has been allowed to export 10000 metric tonnes of onions, the Government of India has lifted the export ban on Sri Lanka.
+
+It is noteworthy that India's neighboring country has reiterated the first policy and has lifted the ban on Sri Lanka in front of the Sinhala and Tamil New Year.
 
 ◼️
 
 [Data](articles/07ef3141.json)
+
+[Extended Data](ext_articles/07ef3141.ext.json)
 
 ---
 
@@ -81,6 +117,8 @@ Countries such as Sri Lanka, Bangladesh, Malaysia, Nepal and the United Arab Emi
 ...
 
 [Data](articles/b123b480.json)
+
+[Extended Data](ext_articles/b123b480.ext.json)
 
 ---
 
@@ -2275,27 +2313,5 @@ The shooting has not yet been revealed, and the Minneriya Police are conducting 
 [Data](articles/becc4dd5.json)
 
 [Extended Data](ext_articles/becc4dd5.ext.json)
-
----
-
-### Sri Lanka rupee opens at 298.40/60 to the US dollar
-
-*2024-04-15 09:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-298-40-60-to-the-us-dollar-158497/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 298.40/60 to the US dollar in the spot forex market on Monday, from 298.50/55 on Wednesday, dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 was quoted stable at 11.30/35 percent.
-
-A bond maturing on 15.09.2027 was quoted stable at 11.90/12.00 percent.
-
-A bond maturing on 15.12.2028 was quoted at 12.10/18 percent up from 12.10/15 percent.
-
-The Colombo Stock Market opened down; the All Share Price Index was down 0.22 percent at 12,007, and the S&P SL20 was down 0.32 percent at 3,561. (Colombo/Apr15/2024)
-
-◼️
-
-[Data](articles/92b2d2a0.json)
-
-[Extended Data](ext_articles/92b2d2a0.ext.json)
 
 ---

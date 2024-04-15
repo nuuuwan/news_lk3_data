@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 22:50:04**
+As of **2024-04-15 23:03:33**
 
 ## Newspaper Stats
 
-*Scraped **18,973** Articles*
+*Scraped **18,974** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,41 +20,65 @@ tamilmirrorlk | 2,218
 adaderanalk | 2,292
 virakesarilk | 2,825
 dailymirrorlk | 2,920
-adaderanasinhalalk | 3,095
+adaderanasinhalalk | 3,096
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,971 (100.0%) of 18,973 articles have been extended.
+18,973 (100.0%) of 18,974 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### ජීවිත 3ක් බිලිගත් වික්ටෝරියා ඛේදවාචකය
+### එංගලන්ත ක්‍රිකට් පිටියේ සුපිරි වැඩකරුවෙකු දිවියෙන් සමුගනී
+
+*2024-04-15 22:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195662) · `si`
+
+එතෙක් මෙතෙක් එංගලන්ත ටෙස්ට් ක්‍රිකට් ඉතිහාසයේ සිටි විශිෂ්ටතම දඟ පන්දු යවන්නා ලෙස සැලකෙන Derek Underwood මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+වර්ෂ 1966 සිට වර්ෂ 1982 දක්වා කාලය තුළ ටෙස්ට් තරග 86කට ක්‍රීඩා කළ Derek Underwood කඩුලු 297 දවාගැනීමට සමත්වී තිබේ.
+
+එවකට එංගලන්ත ක්‍රිකට් කණ්ඩායමේ සඟයන් ඔහුව හැඳින්වූයේ "Deadly" යන අන්වර්ථ නාමයෙනි.
+
+ලෝක ක්‍රිකට් ඉතිහාසයේ සිය නාමය ඉදිරියේ සුවිශේෂී පරිච්ඡේදයක් නිර්මාණය කළ මෙම සුවිශේෂී දඟ පන්දු යවන්නා icc hall of fame වෙත ද ඇතුළත් විය.
+
+◼️
+
+[Data](articles/e941ecc0.json)
+
+---
+
+### Victoria tragedy of 3 lives
 
 *2024-04-15 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195661) · `si`
 
-වික්ටෝරියා ජලාශයේ දියේ ගිලීමෙන් මියගිය යුවළ බේරාගැනීමට උත්සාහ කළ පුද්ගලයෙකුද අද පස්වරුවේ දියේ ගිලී මියගොස් ඇති බව පොලීසිය පවසයි.
+In Victoria Reservoir, a 30-year-old man and his 22-year-old wife drowned. A 30-year-old resident tried to save them but also drowned. The couple, from Thihariya, was found by locals and police.
 
-දිගන, කුඹුක්කඳුර ප්‍රදේශයෙන් වික්ටෝරියා ජලාශයේ දින නෑමට ගිය අඹුසැමි යුවළක් අද පස්වරුවේ දියේ ගිලී තිබුණි.
+🟩
 
-එහිදී ඔවුන් බේරාගැනීම සඳහා ඉදිරිපත් වූ 30 හැවිරිදි වියේ පසුවූ ප්‍රදේශවාසියෙකු ද මෙලෙස දියේ ගිලී මියගොස් ඇත.
+A person who was trying to save the deceased couples in the Victoria reservoir has also been drowned in drowning.
 
-දියේ ගිලී මියගිය අඹුසැමි යුවළ තිහාරිය ප්‍රදේශයේ පදිංචිකරුවන් වන අතර කාන්තාවගේ ගම් ප්‍රදේශයට ගිය අවස්ථාවේ මෙම අනතුරට මුහුණ දී තිබේ.
+A couple drowned in the Victoria Reservoir from the Kumbukkandura area this afternoon.
 
-මියගොස් ඇති සැමියාගේ වයස අවුරුදු 28ක් සහ බිරිඳගේ වයස අවුරුදු 22ක් ලෙසට වාර්තාවෙයි.
+A 30-year-old resident of the 30-year-old resident of which they were contesting to them were also killed.
 
-පළමුව කාන්තාව දියනෑම සඳහා ජලාශයට බැස ඇති අතර ඇය එක්වරම දියේ ගිලී තිබේ.
+The deceased couple are residents of Thihariya, and the accident is in the accident when he went to the woman's village.
 
-කෙසේවෙතත් එහිදී ජල පහරට හසුව එම දෙදෙනාම අතුරුදන්ව ඇති අතර ඔවුන් බේරාගැනීමට ප්‍රදේශවාසියෙක් ද ජලයට බැස ඇති බව වාර්තාවෙයි.
+The victim has aged 28 years and his wife is 22 years old.
 
-පළමුව බිරිඳගේ දේහය සොයාගෙන තිබුණු අතර පොලිසිය සහ ප්‍රදේශවාසීන් එක්ව සිදුකළ සෝදිසි මෙහෙයුමේදී සැමියා සහ ඔවුන් බේරාගැනීමට ගිය ප්‍රදේශවාසියාගේ සිරුරද සොයාගෙන තිබේ.
+First, the woman got down into the reservoir to damp and she was drowning at once.
+
+However, both were disappeared and a resident of the area had come down to save them.
+
+The body of the area was found in search of the husband and the residents of the police and the residents of the area.
 
 ◼️
 
 [Data](articles/d13658e2.json)
+
+[Extended Data](ext_articles/d13658e2.ext.json)
 
 ---
 
@@ -73,6 +97,8 @@ The regional African bondholder group had also rejected part of the proposed rew
 ...
 
 [Data](articles/dd6d2cc4.json)
+
+[Extended Data](ext_articles/dd6d2cc4.ext.json)
 
 ---
 
@@ -2303,27 +2329,5 @@ Attorney at Law, police spokesman, Nihal Talduuwa said that drivers will be requ
 [Data](articles/b3857455.json)
 
 [Extended Data](ext_articles/b3857455.ext.json)
-
----
-
-### The austerity of bowls is in dawn
-
-*2024-04-15 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195642) · `si`
-
-The Sinhala and Tamil New Year's ritual, involving bowls and headlines, was observed today at 10 am. The auspicious papers, dressed in white, were placed in the head of the white temple at the National Festival of Headhel Gardens at Anna Rajamaha Viharaya in Wattala.
-
-🟩
-
-Another unique Nakathala custom of the Sinhala and Tamil New Year, the ritual of the headlines were engaged today 10 am today.
-
-The auspicious sheet states that the auspicious papers, which is dressed in a white temple, and sheets the head of the white temple.
-
-The National Festival of Headhel Gardens will be held at the Anna Rajamaha Viharaya in Wattala.
-
-◼️
-
-[Data](articles/ca9cb08a.json)
-
-[Extended Data](ext_articles/ca9cb08a.ext.json)
 
 ---

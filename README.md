@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 02:34:58**
+As of **2024-04-16 02:51:13**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 3,096
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,005 (100.0%) of 19,006 articles have been extended.
+19,006 (100.0%) of 19,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### ஜனாதிபதி தேர்தலில் அரசியல் கணக்குகள்
+### Political accounts in the presidential election
 
 *2024-04-16 01:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181186) · `ta`
 
-ஜனாதிபதி தேர்தலில் செல்வாக்குச் செலுத்தவல்ல பிரதான வேட்பாளர்களான ரணில், சஜித், அநுர ஆகியோர் போட்டுள்ள வாக்குவங்கியை மையப்படுத்திய அரசியல் கணக்கைப் போன்றே சிறுபான்மை தேசின இனங்களான தமிழ், முஸ்லிம், மலையக கட்சிகளும் தத்தமது செல்வாக்குகளுக்கு அமைவாக பேரம்பேசல்களுக்கான அரசியல் கணக்குகளை போட்டுள்ளன.
+Minority parties, including Tamil, Muslim, and Upcountry groups, are negotiating political deals for influence, focusing on parliamentary victories and ministerial positions. Douglas Devananda, a key figure in the North, supports Ranil, influenced by past support from the TNA and his desire for autonomy. Ranil's potential support from SKK members and the All Ceylon People's Congress could secure his position in the UNP. Despite this, the UNP's chances in parliamentary elections are slim, leading to a strategic shift. Ranil is firm in the Vanni district, potentially leaving the PA for the UNP, with no immediate crisis for the UNP in Vanni. The Eastern Province's support for Ranil is also noted, with plans for ministry status in future elections. Other parties, including the Ceylon Workers Congress and the Tamil Progressive Alliance, have their positions, with the latter supporting Sajith. The Tamil National People's Front (TNA) plans to boycott the presidential election in the North and East, highlighting the complexity of uniting Tamil parties.
 
-குறிப்பாக இந்தக் கட்சிகள் அனைத்துமே பாராளுமன்றத் தேர்தலில் தமது வெற்றிகளை உறுதிப்படுத்துவதையும், அமைச்சுப்பதவிகள், இராஜாங்க அமைச்சுப்பதவிகள் ஆகியவற்றையும் மையப்படுத்தித் தான் அரசியல் கணக்குகளை போட்டு இறுதியான தீர்மானத்தினை எடுக்கின்றன.
+🟩
 
-அந்த வகையில், வடக்கில் டக்ளஸ் தேவானந்தா, நாடாளவிய ரீதியில் இருக்கின்ற அரசியல் கட்சிகளோ தனிநபர்களோ தீர்மானிப்பதற்கு முன்னதாகவே ரணிலை ஆதரிக்கும் தீர்மானத்தை எடுத்து விட்டார். இதற்கு இரண்டு காரணங்கள் உள்ளன.
+The minority nationals, the Tamil, Muslim and Upcountry parties, have put political accounts for bargains in accordance with their influence, like the political account centered on the main candidates of Ranil, Sajith and Anura.
 
-முதலாவது காரணம் 2015ஆம் ஆண்டு ஆட்சி மாற்றத்தின்போது, தமிழ்த் தேசியக் கூட்டமைப்பு மைத்திரி, ரணில் கூட்டாட்சிக்கு ஆதரவளித்தது. அதன்போது ரணில் டக்ளஸை இணைத்துக்கொள்ள விரும்பினாலும் கூட, கூட்டமைப்பு அதற்கு இடமளித்திருக்கவில்லை.
+In particular, all these parties make a final resolution, focusing on their victories in the parliamentary election, and the ministry and the ministry of the Ministry of State.
+
+In that respect, Douglas Devananda in the North took a decision to support Ranil before the political parties or individuals in the country decided.. There are two reasons for this.
+
+The first reason was during the 2015 regime change, the Tamil National Alliance (TNA) supported the Ranil Federation. Even if Ranil wanted to incorporate Douglas, the federation did not allow it.
+
+Even if the federation is currently in action, its membership parties are still in operation;Douglas may have thought it was appropriate to announce resolutions before such conditions occur.
 
 ...
 
 [Data](articles/716feae1.json)
+
+[Extended Data](ext_articles/716feae1.ext.json)
 
 ---
 

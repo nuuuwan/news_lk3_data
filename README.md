@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 23:33:57**
+As of **2024-04-15 23:52:45**
 
 ## Newspaper Stats
 
-*Scraped **18,975** Articles*
+*Scraped **18,977** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
-economynextcom | 1,062
+economynextcom | 1,064
 adalk | 1,583
 tamilmirrorlk | 2,218
 adaderanalk | 2,292
@@ -26,11 +26,33 @@ adaderanasinhalalk | 3,096
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,975 (100.0%) of 18,975 articles have been extended.
+18,975 (100.0%) of 18,977 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### Sri Lanka allowed to import 10,000MT of onions from India
+
+*2024-04-15 23:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-allowed-to-import-10000mt-of-onions-from-india-158570/) · `en`
+
+ECONOMYNEXT – India has relaxed an export ban allowing 10,000 metric tonnes of onions to be shipped to Sri Lanka, the Indian High Commission in Colombo said.
+
+“The exemption for Sri Lanka reiterated India’s Neighbourhood First policy, adding to the Sinhala and Tamil New Year festivities here,” the statement said.
+
+Onion prices went up in Sri Lanka after India and Pakistan banned exports.
+
+The Directorate General of Foreign Trade has issued a notice allowing National Co-operative Exports Limited to ship 10,000 MT of onions.
+
+The UAE has also been allowed to import 10,000MT of onions on top of 24,400MT already permitted.
+
+A large Indian and South Asian expat community lives in the UAE. (Colombo/Apr15/2024)
+
+◼️
+
+[Data](articles/bbd4d337.json)
+
+---
 
 ### The super-cricket of England citizes
 
@@ -237,6 +259,24 @@ Accordingly, the SRH scored 287 runs for the loss of 28 wickets at the end of 20
 [Data](articles/fa958055.json)
 
 [Extended Data](ext_articles/fa958055.ext.json)
+
+---
+
+### Iran President to visit Sr Lanka amid rising tension, inaugurate Uma Oya project
+
+*2024-04-15 21:17:00* · [`economynextcom`](https://economynext.com/iran-president-to-visit-sr-lanka-amid-rising-tension-inaugurate-uma-oya-project-158564/) · `en`
+
+ECONOMYNEXT – Iranian President Ebrahim Raisi will arrive in Sri Lanka on April 24 on a one-day official visit to inaugurate Tehran-assisted $529 million worth Uma Oya multipurpose development project with 120MW hydro power generation capacity, official sources said.
+
+The announcement on President Raisi’s visit comes two days after Iran launched explosive drones and fired missiles at Israel in its first direct attack on Israeli territory, a retaliatory strike that raised the threat of a wider regional conflict.
+
+“The President is visiting to inaugurate the Omaoya project. He will be on a one-day visit,” an official at Iran embassy in Colombo told EconomyNext.
+
+This is the first time an Iranian President coming to Sri Lanka Iranian after then President Mahmoud Ahmadinejad’s visit in April 2008.
+
+...
+
+[Data](articles/41f49ece.json)
 
 ---
 
@@ -2291,45 +2331,5 @@ In addition, some special rail trips have been arranged based on the facilities 
 [Data](articles/687d0d60.json)
 
 [Extended Data](ext_articles/687d0d60.ext.json)
-
----
-
-### 17-year-old girl injured in shooting in Giritale
-
-*2024-04-15 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98640/17-year-old-girl-injured-in-shooting-in-giritale-) · `en`
-
-A 17-year-old teenage girl has been hospitalized after reportedly being shot in the neck, police said.
-
-The shooting has taken place in Yaya 04 area of Giritale, Minneriya last night (April 14).
-
-The girl was injured in the shooting while she was at a relative’s house with her family.
-
-Police said that it is not yet known as to who carried out the shooting, and Minneriya Police is conducting further investigations into the incident.
-
-The teenage girl who sustained injuries during the shooting is currently receiving treatment at Polonnaruwa Hospital, according to police.
-
-◼️
-
-[Data](articles/4d8928e8.json)
-
-[Extended Data](ext_articles/4d8928e8.ext.json)
-
----
-
-### Ten deaths reported from 8 road accidents within 24 hours
-
-*2024-04-15 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98639/ten-deaths-reported-from-8-road-accidents-within-24-hours) · `en`
-
-A total of eight road accidents with 10 deaths have been reported during the last 24 hours from various parts of the country, Police Media Spokesman DIG Nihal Thalduwa said.
-
-He further revealed that five of the 08 road accidents were caused due to vehicles skidding off the roads.
-
-Meanwhile, the police state that most road accidents are observed to be due to driver negligence. Hence, drivers are requested to be more careful and to adhere to traffic rules.
-
-◼️
-
-[Data](articles/52e2cc34.json)
-
-[Extended Data](ext_articles/52e2cc34.ext.json)
 
 ---

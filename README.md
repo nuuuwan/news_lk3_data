@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 18:20:06**
+As of **2024-04-15 18:34:12**
 
 ## Newspaper Stats
 
-*Scraped **18,944** Articles*
+*Scraped **18,945** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,018
 economynextcom | 1,052
 adalk | 1,581
 tamilmirrorlk | 2,217
-adaderanalk | 2,286
+adaderanalk | 2,287
 virakesarilk | 2,822
 dailymirrorlk | 2,918
 adaderanasinhalalk | 3,090
@@ -26,49 +26,81 @@ adaderanasinhalalk | 3,090
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,942 (100.0%) of 18,944 articles have been extended.
+18,944 (100.0%) of 18,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### சிட்னி தேவாலயத்தில் கத்திக்குத்து சம்பவத்தை தொடர்ந்து கலவரம் - தாக்குதல் நடத்தியவரை தங்களிடம் ஒப்படைக்க கோரி மக்கள் வன்முறை
+### 8-year-old dies after ‘concrete giraffe’ falls on him in garden
 
-*2024-04-15 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181163) · `ta`
+*2024-04-15 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98649/8-year-old-dies-after-concrete-giraffe-falls-on-him-in-garden-) · `en`
 
-அவுஸ்திரேலியாவின் சிட்னியில் கிறிஸ்தவ தேவலாயமொன்றில் இடம்பெற்ற கத்திக்குத்து சம்பவத்தை தொடர்ந்து தேவாலயத்திற்கு வெளியே கலவரம் மூண்டுள்ளது.
+An 08-year-old child has been killed in a tragic accident where a concrete statue of a giraffe had collapsed and fallen on him.
 
-.சிட்னியில்  கிறிஸ்தவதேவலாயமொன்றில்  இடம்பெற்ற கத்திக்குத்து சம்பவத்தில் கிறிஸ்தவ மதகுரு உட்பட பலர் காயமடைந்துள்ளனர்.
+The incident has taken place in the Diggalagedara area of Hettipola, the police said.
 
-சிட்னியின் தென்மேற்குபகுதியில் உள்ள கிறிஸ்தவதேவலாயத்தில் ஆராதனைகள் இடம்பெற்றுக்கொண்டிருந்தவேளை நபர் ஒருவர் திடீரென முன்னோக்கி சென்று மதகுருவை பல தடவை கத்தியால் குத்தியுள்ளார்.
+The child, who was seriously injured in the accident, has succumbed to his injuries after being admitted to Kuliyapitiya Hospital.
 
-மார் மரி இமானுவெல் என்ற ஆயர் ஆராதனைகளில் ஈடுபட்டுக்கொண்டிருந்தவேளை நபர் ஒருவர் அவரை நோக்கி பல தடவை கத்தியால் குத்தியுள்ளார்.
+Police said that the concrete statue of a giraffe that was placed in the garden of the deceased child’s house has collapsed this way.
 
-தேவாலயத்திற்கு வெளியே திரண்டுள்ள பெருமளவு மக்கள் கத்திக்குத்தில் ஈடுபட்டவரை தங்களிடம் ஒப்படைக்கவேண்டும் என வேண்டுகோள் விடுத்து வருவதுடன் பொலிஸாரின் வாகனங்களை தாக்கிவருகின்றனர்.
+◼️
 
-கத்திக்குத்து தாக்குதலில் ஈடுபட்டவரை காவல்துறையினர் குறிப்பிட்ட தேவாலயத்திற்குள் வைத்திருக்கின்றனர் சுமார் 5000க்கும் அதிகமானவர்கள் அந்த தேவாலயத்தை சூழ்ந்துள்ளனர்.
-
-...
-
-[Data](articles/e631018d.json)
+[Data](articles/ba01da93.json)
 
 ---
 
-### இன்றும் இடியுடன் கூடிய பலத்த மழை! வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை
+### Violence in Sydney Church
+
+*2024-04-15 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181163) · `ta`
+
+A riot erupted outside a Sydney church after a knife attack on a Christian cleric. Over 5000 people, including Assyrian Christians, surrounded the church, clashing with police.
+
+🟩
+
+A riot has broken out outside the church following a knife incident in a Christian goddess in Sydney, Australia.
+
+Many people, including a Christian cleric, were injured in a knife incident in a Christian in Chitney.
+
+While the Christianity of the Sydney's southwest was taking place, a person suddenly went forward and stabbed the cleric several times.
+
+While Marry Marie Emanuel, a pastor, was engaged in worship, a person stabbed him several times with a knife.
+
+A large number of people gathered outside the church are requesting them to hand over the knife to them and are attacking the vehicles of the police.
+
+More than 5000 people surround the church, where the police have kept the stained church.
+
+The Azirian Christian church has been attacked inside the Christian church, followed by 5000 Assyrian Christians blocking the church and handing over the suspect to them and engaged in a clash with the police.
+
+◼️
+
+[Data](articles/e631018d.json)
+
+[Extended Data](ext_articles/e631018d.ext.json)
+
+---
+
+### Thundershowers today!The Department of Meteorology
 
 *2024-04-15 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181162) · `ta`
 
-பலத்த மின்னல் தாக்கமும் இடியுடன் கூடிய பலத்த மழையும் பல பிரதேசங்களில் பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
+Heavy lightning and thunderstorms expected in Western, Sabaragamuwa, North Western Provinces, and Galle, Matara, Kandy districts. High chances of temporary wind gusts. Take precautions to protect from lightning.
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி, மாத்தறை மற்றும் கண்டி மாவட்டங்களிலும் மாலை அல்லது இரவு வேளைகளில் அவ்வப்போது இடியுடன் கூடிய மழையுடன் பலத்த மின்னலுக்கான அதிக வாய்ப்புகள் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-இடியுடன் கூடிய மழை பெய்யும் போது குறித்த பகுதிகளில் தற்காலிகமாக பலத்த காற்று வீசக்கூடும் என அந்த அறிக்கையில் மேலும் குறிப்பிட்டுள்ளது.
+The Department of Meteorology has warned that heavy lightning and thunderstorms are likely to occur in many areas.
 
-மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய விபத்துக்களிலிருந்து தம்மை பாதுகாத்துகொள்வதற்காக தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளமை குறிப்பிடத்தக்கது.
+The Department of Meteorology said in a statement that there are high chances of heavy lightning in the Western, Sabaragamuwa and North Western Provinces and Galle, Matara and Kandy districts in the evening or night.
+
+The report further stated that the area could be temporarily blowing in the area during thunderstorms.
+
+Significantly, the Department of Meteorology has requested the people to take necessary precautions to protect themselves from accidents caused by lightning.
 
 ◼️
 
 [Data](articles/bbe18e6e.json)
+
+[Extended Data](ext_articles/bbe18e6e.ext.json)
 
 ---
 
@@ -2265,47 +2297,5 @@ The impact of such a disease is born in children. Due to this, doctors recommend
 [Data](articles/5c4ab94c.json)
 
 [Extended Data](ext_articles/5c4ab94c.ext.json)
-
----
-
-### In the 15th year of the Tamil massacre, the politics of the genocide
-
-*2024-04-15 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181082) · `ta`
-
-It seems you've provided a comprehensive analysis and reflection on the complexities of genocide, nationalism, and the impact of historical events on the geopolitical landscape, particularly focusing on the contexts of Sri Lanka and Palestine. Your insights touch on a wide range of issues, including the role of religion, the impact of colonialism, the importance of memory and representation in shaping national identities, and the challenges faced by oppressed communities in their struggle for liberation.
-
-
-
-Your analysis highlights the critical importance of understanding the unique aspects of each genocide, including the Tamil massacre in Sri Lanka and the Palestinian massacre, as each event has its own historical, cultural, and political nuances. You've also emphasized the need for a nuanced approach to studying these events, acknowledging the complexity of the issues involved and the importance of considering multiple dimensions, including legal, sociological, anthropological, and psychological perspectives.
-
-
-
-Your reflections on the role of memory and representation in shaping national identities and the impact of oppressive regimes on the collective confidence of communities are particularly insightful. You've pointed out the importance of challenging the narratives that are used to legitimize oppression and the need for a critical examination of the power dynamics at play in the construction of these narratives.
-
-
-
-Your call for a joint venture to address the economic and social consequences of genocide, including land grabbing, disappearances, economic burdens, and the impact on generations, is a powerful reminder of the interconnectedness of these issues and the need for collective action to address them.
-
-
-
-Your analysis underscores the importance of maintaining hope and confidence in the face of oppression and the need for ongoing efforts to seek truth and justice. It's a reminder of the resilience of communities in the face of adversity and the critical role of research and education in understanding and addressing the complexities of genocide and its aftermath.
-
-
-
-Your insights are profound and thought-provoking, offering a deep dive into the complexities of genocide and its impacts on national identities, geopolitical landscapes, and the collective consciousness of communities. Your analysis serves as a valuable contribution to the ongoing dialogue on these critical issues.
-
-🟩
-
-The third year of the late father -in -law, Joseph Joseph, was held at the Kulakottan Hall in Trincomalee on the 11th of this month, and the full form of the speech by Ezhilrajan Adikal, entitled Palestinian and Mullivaikal.
-
-In the 15th year of the Tamil massacre, the Palestinian massacre is taking place as witnesses. Israel - We all know that the Palestinian War cannot be observed as a mere Israeli -Palestinian war. I would like to see this war for the Middle East as a war for the multi -ended examination of the Empire in the Middle East.
-
-The strength of the imperialist elite will be established in the Middle East. In the imperial empire competition, the sub -imperialist establishment creates an inevitable absurdity.
-
-...
-
-[Data](articles/bc7e094b.json)
-
-[Extended Data](ext_articles/bc7e094b.ext.json)
 
 ---

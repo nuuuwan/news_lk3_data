@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 16:03:19**
+As of **2024-04-15 16:18:30**
 
 ## Newspaper Stats
 
-*Scraped **18,914** Articles*
+*Scraped **18,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,052
 adalk | 1,576
-tamilmirrorlk | 2,215
+tamilmirrorlk | 2,216
 adaderanalk | 2,283
-virakesarilk | 2,813
-dailymirrorlk | 2,912
+virakesarilk | 2,814
+dailymirrorlk | 2,913
 adaderanasinhalalk | 3,085
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,908 (100.0%) of 18,914 articles have been extended.
+18,914 (100.0%) of 18,917 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### Drastic dip in accidents injuries during festive season
+
+*2024-04-15 16:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Drastic-dip-in-accidents-injuries-during-festive-season/108-280712) · `en`
+
+Colombo, April 15 (Daily Mirror) - Health authorities have noticed a significant decrease in accidents, notably firecracker-related incidents, during the festive season.
+
+According to Deputy Director of the Colombo National Hospital Dr Rukshan Bellana, there were no admissions due to firecracker-related accidents during the period
+
+However, three patients sought treatment at the outpatient department for minor injuries at the National Hospital.
+
+Furthermore, there were only a few incidents of motor accidents, domestic accidents including falling. Nevertheless, none of the incidents were critical.
+
+◼️
+
+[Data](articles/3fd0600b.json)
+
+---
+
+### நெஞ்சை பதற வைத்த பச்சிளம் குழந்தைகளின் மரணம்
+
+*2024-04-15 15:53:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெஞ்சை-பதற-வைத்த-பச்சிளம்-குழந்தைகளின்-மரணம்/175-335958) · `ta`
+
+ஹெட்டிபொல, திக்கலகெதர பிரதேசத்தில் கொங்கிறீட்டால் செய்யப்பட்ட ஒட்டகச்சிவிங்கி சிலை  விழுந்ததில் 8 வயதுச் சிறுவன் ஒருவன் பரிதாபமாக உயிரிழந்துள்ளார்.
+
+வீட்டின் முற்றத்தில் வைக்கப்பட்டிருந்த கொங்கிறீட்டால் செய்யப்பட்ட ஒட்டகச்சிவிங்கியின் சிலையே குழந்தையின் உடலில் விழுந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+இதேவேளை, பொலன்னறுவை - அரலகங்வில ருஹுனுகம கிராமத்தில் உள்ள வீடொன்றில் பிளாஸ்டிக் தண்ணீர் தாங்கி ஒன்று தலையில் விழுந்ததில் மூன்றரை வயது சிறுமி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/8c6dd3ac.json)
+
+---
 
 ### Navy nabs 08 persons for engaging in illegal fishing in eastern waters
 
@@ -48,35 +82,103 @@ The persons held in this operation have been identified as residents of Kinniya 
 
 [Data](articles/4394d33a.json)
 
+[Extended Data](ext_articles/4394d33a.ext.json)
+
 ---
 
-### අඹුසැමි යුවළක් වික්ටෝරියා ජලාශයට බිලිවෙයි
+### Australian court ruling that the media news is correct
+
+*2024-04-15 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181127) · `ta`
+
+An Australian court ruled that a media report about a parliamentary employee, British Hickins, being sexually assaulted by Bruce Lehman was correct. Lehman was found to have sexually assaulted Hickins, who had reported the incident three years ago, sparking widespread protests in Australia.
+
+🟩
+
+The Australian court said that a female employee in the Australian parliament was reported to be sexually assaulted.
+
+Australian parliamentary employee, British Hickins, was accused by an employee of Bruce Lehman.
+
+Brucelehman engaged in court proceedings against the company for a media report.
+
+The Australian court today ruled that the media's issues are correct.
+
+The judge said that Brucelehman had sexually assaulted the British Hikkins.
+
+The judge said that 28 -year -old Lehman was very sure of having sex with the woman.
+
+Higgins said he had been raped in parliamentary office three years ago, which caused a stir in Australia.
+
+Thousands of demonstrations took place.
+
+◼️
+
+[Data](articles/71b9069b.json)
+
+[Extended Data](ext_articles/71b9069b.ext.json)
+
+---
+
+### Couple couple kills Victoria reservoir
 
 *2024-04-15 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195651) · `si`
 
-අඹුසැමි යුවළක් වික්ටෝරියා ජලාශයේ දියේ ගිලීමෙන් මියගොස් ඇති බව පොලීසිය පවසයි.
+A couple from Thihariya drowned in Victoria Reservoir, with the 22-year-old woman identified as deceased.
 
-මෙලෙස මියගොස් ඇති කාන්තාවගේ වයස අවුරුදු 22ක් බවත් පිරිමි පුද්ගලයාගේ වයස අවුරුදු 28ක් බවත් පොලීසිය පවසයි.
+🟩
 
-ඔවුන් තිහාරිය ප්‍රදේශයේ පදිංචිකරුවන් වන අතර කාන්තාවගේ ගම් ප්‍රදේශයට පැමිණි අවස්ථාවේ වික්ටෝරියා ජලාශයේ දින නෑමට ගොස් මෙම අවාසනාවන්ත අනතුර සිදුව ඇති බව පොලීසිය වැඩිදුරටත් පවසයි.
+A couple had died in drowning from Victoria Reservoir, police said.
+
+The woman who was dead was 22 years old, police said.
+
+They are residents of Thihariya, police said.
 
 ◼️
 
 [Data](articles/ab0a0c70.json)
 
+[Extended Data](ext_articles/ab0a0c70.ext.json)
+
 ---
 
-### ஒவ்வொரு மாதமும் 25-30 சைபர் தாக்குதல்கள்
+### 25-30 cyber attacks each month
 
 *2024-04-15 15:49:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒவ்வொரு-மாதமும்-25-30-சைபர்-தாக்குதல்கள்/175-335957) · `ta`
 
-இலங்கையில் ஒவ்வொரு மாதமும் 25 முதல் 30 இணையத்தளங்கள் சைபர் தாக்குதலுக்கு இலக்காவதாக இலங்கை கணினி அவசர பதிலளிப்பு மன்ற பிரதம தகவல் பாதுகாப்பு அதிகாரி நிரோஷ் ஆனந்த  தெரிவித்துள்ளார்.
+Sri Lanka faces 25-30 cyber attacks monthly, with the Ministry of Education's website recently restored after an attack.
 
-அண்மையில் சைபர் தாக்குதல் காரணமாக செயலிழந்த கல்வி அமைச்சின் உத்தியோகபூர்வ இணையத்தளம் மீளமைக்கப்பட்டுள்ளதாகவும் அவர் மேலும் தெரிவித்துள்ளார்.
+🟩
+
+Sri Lanka's Emergency Response Forum Chief Information Security Officer Nirosh Ananda says that 25 to 30 websites are targeted for a cyber attack every month in Sri Lanka.
+
+He added that the official website of the Ministry of Education, which was inactive due to a recent cyber attack, has been restored.
 
 ◼️
 
 [Data](articles/87ff6047.json)
+
+[Extended Data](ext_articles/87ff6047.ext.json)
+
+---
+
+### காட்டு யானைகளின் அட்டகாசத்தால் வாழ்வாதாரத்தை இழக்கும் கொழுத்துபுலவு மக்கள்
+
+*2024-04-15 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181128) · `ta`
+
+கிளிநொச்சி மாவட்டத்தின் கண்டாவளைப் பிரதேச செயலாளர் பிரிவுக்குட்பட்ட கொழுத்துப்புலவு பகுதியில் தொடர்ச்சியாக மக்கள் குடியிருப்பு பகுதியில் காட்டு யானைகள் அழிவுகளை ஏற்படுத்தி வருகின்றன.
+
+மக்களின் வாழ்வாதாரம் யானைகளினால் அழிக்கப்படுவதால் அப்பகுதியில் வாழும்  300  மேற்பட்ட குடும்பங்களைச் சேர்ந்தவர்கள் பாதிக்கப்படுகின்றனர்.
+
+தமது ஜீவனோ பாயத்துக்காக  விவசாய செய்கையினை மேற்கொண்டு வரும் மக்களின் தென்னை, வாழை, பூசணி போன்ற பயிர்களை யானைகள் அழித்து வருவதாக கவலை தெரிவிக்கின்றனர்.
+
+நேற்று இரவும் மக்கள் குடியிருப்புக்குள் புகுந்த ஆறு காட்டு யானைகள் 120க்கும் மேற்பட்ட வாழைகள், 50க்கும் மேற்பட்ட தென்னை மரங்கள் போன்றவற்றை அழித்துள்ளன.
+
+காட்டு யானைகளின் நடமாட்டத்தினால் அப்பகுதியில் வாழும் மக்கள் அச்சத்துடன் வாழ வேண்டிய நிலைக்கு தள்ளப்பட்டுள்ளதாக கவலை தெரிவிக்கின்றனர்.
+
+குறித்த பாதிப்பு தொடர்பாக சம்பந்தப்பட்ட அதிகாரிகள் நேரில் பார்வையிட்டு தமது பாதுகாப்பை உறுதி செய்ய வேண்டும் எனவும், நிரந்தரமான மின்சார வேலி ஒன்றையும் அமைத்துத் தர வேண்டும் எனவும் உருக்கமாக வேண்டுகோளை விடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/981c5ca4.json)
 
 ---
 
@@ -98,23 +200,31 @@ For emergency assistance, the public is requested to contact local disaster mana
 
 [Data](articles/531b86ea.json)
 
+[Extended Data](ext_articles/531b86ea.ext.json)
+
 ---
 
-### යළි වාහන ආනයනයේදී රජය සලකාබලන කරුණු මෙන්න
+### Here is the facts that the government is considering again
 
 *2024-04-15 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195650) · `si`
 
-වාහන ආනයන සීමා ඉවත් කිරීම සම්බන්ධයෙන් සොයාබැලීම සඳහා මේ වනවිට කමිටුවක් පත්කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+The government is reconsidering vehicle import boundaries, with a committee appointed to investigate. The Minister of Finance mentioned the need for increasing foreign reserves to relax these boundaries. The State Minister Ranjith Siyambalapitiya stated that import limits are being systematically loosened, with a recent stop on vehicle imports. The Treasury of the Ministry of Finance is well-developed, and decisions are made based on reserve growth. The government has allowed for the import of 750 vans for tourism and 250 buses, with plans to import essential vehicles in the future. A high-level investigation is underway to determine the cost of essential vehicles and their benefits.
 
-මාධ්‍ය වෙත අදහස් දක්වමින් මුදල් රාජ්‍ය අමාත්‍යවරයා මෙම අදහස් පළකළේය.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ මුදල් රාජ්‍ය අමාත්‍යවරයා පැවසුවේ මෙරට විදෙස් සංචිත ඉහළ යෑමත් සමග අවශ්‍යතාව පරිදි ක්‍රමානුකූලව වාහන ආනයන සීමා ලිහිල් කිරීමට කටයුතු කරන බවය.
+State Minister Ranjith Siyambalapitiya says that a committee has been appointed to investigate the removal of vehicle import boundaries.
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා,
+Speaking to the media, the Minister of Finance made these comments.
+
+The Minister further stated that the public minister said that the need for increasing foreign reserves will be required to relax the vehicle import boundaries.
+
+State Minister Ranjith Siyambalapitiya said further
 
 ...
 
 [Data](articles/f7700e32.json)
+
+[Extended Data](ext_articles/f7700e32.ext.json)
 
 ---
 
@@ -207,38 +317,6 @@ The fishermen issue is a contentious one in the ties between India and Sri Lanka
 [Data](articles/d502017a.json)
 
 [Extended Data](ext_articles/d502017a.ext.json)
-
----
-
-### Australian court ruling that the media news is correct
-
-*2024-04-15 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181127) · `ta`
-
-An Australian court ruled that a media report about a parliamentary employee, British Hickins, being sexually assaulted by Bruce Lehman was correct. Lehman was found to have sexually assaulted Hickins, who had reported the incident three years ago, sparking widespread protests in Australia.
-
-🟩
-
-The Australian court said that a female employee in the Australian parliament was reported to be sexually assaulted.
-
-Australian parliamentary employee, British Hickins, was accused by an employee of Bruce Lehman.
-
-Brucelehman engaged in court proceedings against the company for a media report.
-
-The Australian court today ruled that the media's issues are correct.
-
-The judge said that Brucelehman had sexually assaulted the British Hikkins.
-
-The judge said that 28 -year -old Lehman was very sure of having sex with the woman.
-
-Higgins said he had been raped in parliamentary office three years ago, which caused a stir in Australia.
-
-Thousands of demonstrations took place.
-
-◼️
-
-[Data](articles/71b9069b.json)
-
-[Extended Data](ext_articles/71b9069b.ext.json)
 
 ---
 
@@ -1138,23 +1216,29 @@ The selected person should set up an office with 20 plus persons de Silva said.
 
 ---
 
-### ශ්‍රී ලංකාවේ මුද්‍රණ ඉතිහාසයේ සංකේතයක් වූ ලංකෝපකාර මුද්‍රණාලය
+### Langekara, a symbol of printing history in Sri Lanka
 
 *2024-04-15 09:13:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72p5v01l3jo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ශ්‍රී ලංකාවේ පළ කළ ප්‍රථම සිංහල පුවත්පත ලෙස සැලකෙන 'ලංකාලෝකය' එහි මුද්‍රණය කර ඇත.
+Lankaparatu, Sri Lanka's first printing press, launched in 1862 in Galle, is a key symbol in the country's printing history. It printed the first Sinhala newspaper, Lakdami, in 1862. The press is preserved in Galle and has been recognized by the Ministry of Education for its historical significance.
 
-1862 වසරේ දී ගාල්ලේ ආරම්භ කරන ලද ලංකෝපකාර මුද්‍රණාලය ශ්‍රී ලංකාවේ මුද්‍රණ කර්මාන්තයේ සුවිශේෂී සංකේතයකි. මේ මුද්‍රණාලය ගැන තොරතුරු අධ්‍යාපන අමාත්‍යාංශය විසින් පාසල් පෙළ පොත්වලට ද ඇතුළත් කර තිබේ.
+🟩
 
-ශ්‍රී ලංකාවේ පළ කළ ප්‍රථම සිංහල පුවත්පත ලෙස සැලකෙන 'ලංකාලෝකය' එහි මුද්‍රණය කර ඇත. (ශ්‍රී ලංකාවේ ලියාපදිංචි කළ පළමු පුවත්පත ලක්මිණි පහන -1862)  වේ.
+It contains nothing here.S.
 
-2012 වසරේ ඇති වූ ගින්නකින් ගාල්ල, කතළුව රන්වැල්ල පුරණ විහාරස්ථානයේ පැවති ඉපැරණි මුද්‍රණාලය විනාශ විය.
+Launched in Galle in 1862, Lankaparatu printing press found in Sri Lanka's printing industry. The Ministry of Education has also included information on the printing of the printing press.
 
-එය ප්‍රතිසංස්කරණය කර සංරක්ෂණය කිරීමට අවශ්‍ය පියවර ගන්නැයි කළ ඉල්ලීම ශ්‍රී ලංකාවේ බලධාරීන් සැලකිල්ලට නොගත්ත ද තායිලන්ත රජය විසින් ඊට සහයෝගය දැක්වූ බව පූජ්‍ය මාරකොල්ලියේ විමලජෝති හිමියෝ BBC සිංහල සේවයට පැවසූහ.
+Sri Lanka's first Sinhala newspaper is printed its printed. (The first newspaper registered newspaper in Sri Lanka is Lakdami-1862).
+
+The ancient printing press held at the Stories in the Stories in Galle, Galle, Galle, Galle, Galle.
+
+Thai Marakolla Wimalajothi Thero assumed the Sri Lankan authorities to take action to reform and conservation.
 
 ◼️
 
 [Data](articles/c57b03e7.json)
+
+[Extended Data](ext_articles/c57b03e7.ext.json)
 
 ---
 
@@ -2251,81 +2335,5 @@ The Department of Meteorology has urged the people to take necessary steps to re
 [Data](articles/1dc1cbc2.json)
 
 [Extended Data](ext_articles/1dc1cbc2.ext.json)
-
----
-
-### Thundershowers in many places in the country!- The Department of Meteorology Warning
-
-*2024-04-14 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/181073) · `ta`
-
-"Thundershowers expected in many parts of the country, especially in the evening. Heavy lightning likely in upper, Sabaragamuwa, Central, South, and North Western provinces. Take precautions to avoid accidents."
-
-🟩
-
-The Department of Meteorology has stated in a statement that there are feasures of thunderstorms in many parts of the country.
-
-The announcement further stated that in the evening or night, there is a high likelihood of heavy lightning in the evening or night in the upper, Sabaragamuwa, Central, South and North Western provinces.
-
-Thundershowers can be temporarily blowing in those areas.
-
-The Department of Meteorology has urged the people to take necessary steps to reduce accidents caused by lightning.
-
-◼️
-
-[Data](articles/baa2460e.json)
-
-[Extended Data](ext_articles/baa2460e.ext.json)
-
----
-
-### Woman dies after a fire in a house
-
-*2024-04-14 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195629) · `si`
-
-A 52-year-old woman died in a fire in Kotagagala, Dimbulapathana. The fire started in a room and was extinguished at Kotagala Hospital.
-
-🟩
-
-A woman was killed in a fire in the Kotagagala area in the Dimbulapathana.
-
-The fire has erupted in a room room and the fire was killed in rushing at Kotagala Hospital.
-
-The deceased has been identified as a 52-year-old woman in Kotagala area.
-
-◼️
-
-[Data](articles/92756241.json)
-
-[Extended Data](ext_articles/92756241.ext.json)
-
----
-
-### Relationships of missing people on New Year's Day
-
-*2024-04-14 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181072) · `ta`
-
-On New Year's Day, a demonstration in Vavuniya Tamil homeland called for international help to find missing Tamil children and protect against future genocide. A US-based Tamil federation, including 10 US Congress members, wrote to Secretary Plinka, advocating for Tamil self-determination and a referendum on their political future.
-
-🟩
-
-A demonstration was held on Sunday (14) of the Vavuniya Tamil homeland of the Vavuniya Tamil Motherland.
-
-The demonstration was carried out in front of the Road Development Department, which is continuing to struggle.
-
-We are fighting for the 2611th day to find the help of the United States and the European Union to find the missing Tamil children and protect the Tamils from the future genocide.
-
-A group of diaspora Tamils in the United States has formed a federation of US legislators. It's for us
-
-Happy. Together, they have written a letter to Secretary Plinka, demanding a change in the US policy of Tamils.
-
-They mentioned in the letter that the genocide in Sri Lanka and the happening in Sri Lanka. The Tamils have the right to decide the political future.. They are eligible for self -determination. The letter also stated that a referendum should be held to determine the future of the Tamils.
-
-We are grateful for the support of our Tamils in the United States and we thank 10 US Congress members.
-
-...
-
-[Data](articles/1e2d75ea.json)
-
-[Extended Data](ext_articles/1e2d75ea.ext.json)
 
 ---

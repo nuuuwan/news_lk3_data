@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 19:50:59**
+As of **2024-04-15 20:03:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,949 (100.0%) of 18,950 articles have been extended.
+18,950 (100.0%) of 18,950 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Furthermore, the Chairman of the National Transport Commission (NTC), Shashi Wel
 ...
 
 [Data](articles/f9c362bd.json)
+
+[Extended Data](ext_articles/f9c362bd.ext.json)
 
 ---
 

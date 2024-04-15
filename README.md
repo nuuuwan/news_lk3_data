@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 00:18:20**
+As of **2024-04-16 00:33:58**
 
 ## Newspaper Stats
 
-*Scraped **18,981** Articles*
+*Scraped **18,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,20 +13,20 @@ bbccomsinhala | 199
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,017
-dailyftlk | 1,018
+dailyftlk | 1,028
 economynextcom | 1,064
 adalk | 1,583
 tamilmirrorlk | 2,218
 adaderanalk | 2,292
 virakesarilk | 2,827
-dailymirrorlk | 2,923
+dailymirrorlk | 2,924
 adaderanasinhalalk | 3,096
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,977 (100.0%) of 18,981 articles have been extended.
+18,981 (99.9%) of 18,992 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The World Bank and the IMF Spring meetings begin this week in Washington. And wi
 
 [Data](articles/333c8a68.json)
 
+[Extended Data](ext_articles/333c8a68.ext.json)
+
 ---
 
 ### CBK’s case against Sirisena and moral suitability of politicians
@@ -58,29 +60,137 @@ Interestingly, both conflicts involved a female member of the Bandaranaike famil
 
 [Data](articles/4515bec5.json)
 
+[Extended Data](ext_articles/4515bec5.ext.json)
+
 ---
 
 ### 2024-04-15 (Monday)
 
-### சாதனைகள் குவித்த சன்ரைசர்ஸ் ஹைதராபாத்திடம் பணிந்தது றோயல் செலஞ்சர்ஸ் பெங்களூரு
+### Sunrisers Hyderabad bowed to Hyderabad
 
 *2024-04-15 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/181184) · `ta`
 
-பெங்களூரு எம். சின்னஸ்வாமி விளையாட்டரங்கில் திங்கட்கிழமை (15) நடைபெற்ற இண்டியன் பிறீமியர் லீக் 30ஆவது போட்டியில் றோயல் செலஞ்சர்ஸ் பெங்களூருவை 25 ஓட்டங்களால் சன்ரைசர்ஸ் ஹைதராபாத் வெற்றிகொண்டது.
+Sunrisers Hyderabad defeated Royal Challengers Bangalore by 25 runs in IPL match 30, scoring 287/3. They set a record with 208 runs and 6 sixes. Key players included Abhishek Sharma (34 runs), Travis Head (102 runs), and Aiden Magram (67 runs). Royal Challengers Bangalore lost 7 wickets for 262 runs, with Virat Kohli scoring 42 runs.
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட சன்ரைசர்ஸ் ஹைதராபாத் அணி 20 ஓவர்களில் இரண்டு சாதனைகளுடன் 3 விக்கெட்களை இழந்து 287 ஓட்டங்களைக் குவித்தது.
+🟩
 
-முன்வரிசை வீரர்கள் ஐவரும் மிகத் திறமையாக துடுப்பெடுத்தாடி சன்ரைசர்ஸ் ஹைதராபாத்தின் சாதனைகளில் பங்காற்றியிருந்தனர்.
+Bangalore M. Sunrisers Hyderabad won the Royal Challengers Bangalore by 25 runs in the 30th match of the Indian Premier League held on Monday (15) at the Chinnaswamy Stadium.
 
-ஐபிஎல் வரலாற்றில் ஓர் இன்னிங்ஸில் அதிக சிக்ஸ்கள், அதிகூடிய எண்ணிக்கை ஆகிய இரண்டு சாதனைகளையே சன்ரைசர்ஸ் ஹைதராபாத் நிலைநாட்டியது.
+Sunrisers Hyderabad, who was first invited to bat first, scored 287 runs for the loss of 3 wickets in 20 overs.
 
-ஹைதராபாத்தில் மார்ச் 27ஆம் திகதி நடைபெற்ற மும்பை இண்டியன்ஸுக்கு எதிரான போட்டியில் 19 சிக்ஸ்களை விளாசியதுடன் 277 ஓட்டங்களை மொத்தமாக குவித்தது. இவை இரண்டும் சன்ரைசர்ஸ் ஹைதராபாத்தினால் நிலைநாட்டப்பட்டிருந்த முன்னைய சாதனைகளாகும்.
+Sunrisers Hyderabad's achievements have been played by the five frontier players.
 
-றோயல் செலஞ்ர்ஸ் பெங்களூரு அணிக்கு எதிரான இந்தப் போட்டியில் ஆரம்பம் முதல் கடைசிவரை சன்ரைசர்ஸ் ஹைதராபாத் துடுப்பாட்ட வீரர்களின் அதிரடி தொடர்ந்த வண்ணம் இருந்தது.
+Sunrisers Hyderabad established two records in IPL history in an innings.
+
+Mumbai Indians scored 19 sixes in a match against Mumbai Indians on March 27 in Hyderabad and scored 277 runs. Both are previous achievements established by Sunrisers Hyderabad.
+
+Sunrisers Hyderabad players continued to play from the start to the end of the match against Royal Selectors Bangalore.
+
+Also, the total number of Sunrisers Hyderabad was scored by 208 runs and sixes.
+
+In addition, the Sunrisers Hyderabad - Mumbai Indians won the record for the total number of 523 runs.
 
 ...
 
 [Data](articles/5335136d.json)
+
+[Extended Data](ext_articles/5335136d.ext.json)
+
+---
+
+### Hayleys Fabric celebrates triple triumph at ISPO Textrends Spring/Summer 2026
+
+*2024-04-15 23:28:11* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fabric-celebrates-triple-triumph-at-ISPO-Textrends-Spring-Summer-2026/34-760632) · `en`
+
+The Hayleys Fabric Innovation team with their ISPO Nextrend recognition
+
+In a remarkable demonstration of innovation and sustainability, Sri Lanka’s largest textile manufacturer Hayleys Fabric PLC proudly announced its achievement at the prestigious ISPO Textrends Spring/Summer 2026, where three pioneering innovations were recognised.
+
+Serving as a key global benchmark for innovation in the textile industry, the German platform showcases breakthrough advancements of the world’s most innovative and high-performance fabrics.
+
+...
+
+[Data](articles/6641ac60.json)
+
+---
+
+### Pearson unveils PTE Core English exam suite and recognises key agents
+
+*2024-04-15 23:27:31* · [`dailyftlk`](https://www.ft.lk/business/Pearson-unveils-PTE-Core-English-exam-suite-and-recognises-key-agents/34-760631) · `en`
+
+South Asia Marketing Manager Gayathrie Sivanathan, Canadian High Commission Political and Trade Counsellor Daniel Bood, South Asia Employability and Qualifications Director Premila Paulra, Sales Deputy General Manager Suriya Bibile
+
+Pearon’s recently launched its PTE core suit of English exams helping to facilitate young people as they seek to achieve their dreams on foreign shores.
+
+In fact, during 2023, over 3200 applications were made by Sri Lankans seeking Permant Residency status in Canada, with 84% receiving approval, highlighting the promising prospects for aspiring Sri Lankans.
+
+...
+
+[Data](articles/6259a668.json)
+
+---
+
+### Sri Lanka Pakistan Business Council engages in diplomatic outreach
+
+*2024-04-15 23:26:20* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Pakistan-Business-Council-engages-in-diplomatic-outreach/34-760630) · `en`
+
+From left: SLPBC Vice President Shameel Mohideen, Pakistan High Commission Trade and Investment Attaché Asmma Kamal, Pakistan High Commissioner Major General (R) Faheem Ul Aziz, HI (M), SLPBC President Indra Kaushal Rajapaksha, Vice President Wasantha de Silva, Committee Member Ehab Razak and Ceylon Chamber of Commerce Secretariat’s Dilini Yasendra
+
+The Sri Lanka Pakistan Business Council of The Ceylon Chamber of Commerce, recently paid a courtesy call on the newly appointed High Commissioner of Pakistan in Sri Lanka Major General (R) Faheem Ul Aziz, HI (M).
+
+...
+
+[Data](articles/40f99a25.json)
+
+---
+
+### Seamless travel from the Makumbura Multimodal Centre with Uber
+
+*2024-04-15 23:25:49* · [`dailyftlk`](https://www.ft.lk/business/Seamless-travel-from-the-Makumbura-Multimodal-Centre-with-Uber/34-760629) · `en`
+
+Government of Sri Lanka Ministry of Transport and Highways Secretary Eng. Ranjith Rubasinghe and Greater Colombo Urban Transport Development Project Project Director Nalaka Dissanayaka launched the Uber Pick-up point along with Uber Sri Lanka Country Manager Kaushalya Gunaratne
+
+Travellers arriving at the Makumbura Multimodal Centre (MMC) can now get a reliable, convenient and affordable Uber ride from a dedicated Uber pick-up point. Situated strategically within Sri Lanka’s expressway network, the MMC serves as a crucial intersection for travellers between Colombo and Southern coastal destinations.
+
+...
+
+[Data](articles/79b09261.json)
+
+---
+
+### Adani Green’s Khavda power plant world’s largest, 5 times the size of Paris
+
+*2024-04-15 23:25:15* · [`dailyftlk`](https://www.ft.lk/business/Adani-Green-s-Khavda-power-plant-world-s-largest-5-times-the-size-of-Paris/34-760628) · `en`
+
+A narrow airstrip that doesn’t even have an air traffic controller to guide incoming airplanes and whose only infrastructure is a portable toilet and a make-shift office in a container in the midst of miles of barren land bordering Pakistan is an unlikely gateway to the world’s largest renewable energy park.
+
+The airstrip was even smaller in December 2022, when Adani Group Head Gautam Adani, who was then the second richest person in the world, first used a small aircraft to reach the barren area that didn’t even have a pin code and got its name from a village 80-kilometers away.
+
+The land hardly had any vegetation due to its highly saline soil, leave alone any habitation. But Gautam Adani and his executives saw the potential that the area had.
+
+An 18-km drive from the airstrip through dusty arid land is the site for his group’s Khavda renewable energy park spread over 538 square kilometres (roughly five times the size of Paris).
+
+...
+
+[Data](articles/cde65b8d.json)
+
+---
+
+### International Coaching Week to feature 20 global experts
+
+*2024-04-15 23:24:49* · [`dailyftlk`](https://www.ft.lk/business/International-Coaching-Week-to-feature-20-global-experts/34-760627) · `en`
+
+International Coaching Week is a free week-long virtual event for both aspiring and established coaches, hosted by The International Authority for Professional Coaching and Mentoring (IAPC&M).
+
+It will be from 13 to 17 May 2024. And anyone can join using the link https://coach-accreditation.services/icw-event/
+
+It’s no secret, the coaching industry is well and truly on the rise, but did you know it’s the second fastest industry in the US behind IT? This means more people than ever need coaches! However, the coaching world is an unregulated market.
+
+Luckily, The International Authority for Professional Coaching and Mentoring (IAPC&M) is stepping up as a true leading expert. One of the reasons IAPC&M was founded in the first place is that as more and more people become coaches and mentors, standards are slipping in the industry. They are here to raise the standards in the industry!
+
+...
+
+[Data](articles/b41a303a.json)
 
 ---
 
@@ -108,17 +218,35 @@ A large Indian and South Asian expat community lives in the UAE. (Colombo/Apr15/
 
 ---
 
-### வாகன இறக்குமதிக்கான கட்டுப்பாடுகளை இலகுபடுத்த விரைவில் நடவடிக்கை - ரஞ்சித் சியம்பலாபிடிய
+### Ranjith Siyambalapitiya will soon be able to ease restrictions on vehicle imports - Ranjith Siyambalapitiya
 
 *2024-04-15 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181183) · `ta`
 
-நாட்டின் பொருளாதார நிலைமை இன்னும் ஓரளவு ஸ்திர நிலைக்கு வரும் சந்தர்ப்பத்தில் பொருட்கள் மற்றும் வாகனம் இறக்குமதி செய்யும் வரையறையை இலகுபடுத்த முடியும் என்ற நம்பிக்கை இருக்கிறது என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிடிய தெரிவித்தார்.
+Ranjith Siyambalapitiya, Finance Minister, expects to ease vehicle import restrictions as the economy stabilizes. He highlights the country's economic recovery, including increasing stockpiles and controlling inflation, while also mentioning the gradual lifting of restrictions on essential imports, including permitting tourism vehicles.
 
-நாட்டின் வெளிநாட்டுக் கையிருப்பு தொடர்பில் பதற்றப்படத் தேவையில்லை. எமது கையிருப்பை படிப்படியாக அதிகரித்து வருகிறோம், மத்திய வங்கியிடம் எமது கையிருப்பு தொகை பூஞ்சியத்திலேயே இருந்தது. என்றாலும் தற்போது அது 5பில்லியன் டொலர்வரை அதிகரித்துக்கொண்டிருக்கிறோம். பாரிய அர்ப்பணிப்புடனே இதனை மேற்கொள்ள முடியுமாகி இருக்கிறது. அதேபோன்று பாரியளவில் பொருட்களுக்கு தட்டுப்பாடு இருந்து வந்தது. அதனை தற்போது கட்டுப்படுத்த முடியுமாகி இருக்கிறது.
+🟩
+
+Finance Minister Ranjith Siyambalapitiya said that when the country's economic situation is still somewhat stabilized, there is hope that the definition of goods and vehicle imports can easily be ease.
+
+Needless to be worried about the country's foreign stockpile. We are gradually increasing our stockpile, our stockpile for the central bank was in the fungus. We are currently increasing $ 5 billion. It is possible to do this with a massive commitment. As well as the shortage of materials in large numbers. It is currently being controlled.
+
+Due to inflation the cost of goods increased massively. The cost of increased goods has been reduced to somewhat. Inflation is also controlled. The shortage of essential commodities especially. Unrest in the country came from the country due to the increase in prices. But that condition is currently restricted.
 
 ...
 
 [Data](articles/5be26fba.json)
+
+[Extended Data](ext_articles/5be26fba.ext.json)
+
+---
+
+### Monk’s imprisonment: Aragalaya Victory No. 2
+
+*2024-04-15 22:39:30* · [`dailyftlk`](https://www.ft.lk/columns/Monk-s-imprisonment-Aragalaya-Victory-No-2/4-760615) · `en`
+
+...
+
+[Data](articles/f3a760b2.json)
 
 ---
 
@@ -146,6 +274,38 @@ This unique spin, which created a special chapter in the history of the history 
 
 ---
 
+### Debate over profits of banks: Who shares them ultimately? – Part II
+
+*2024-04-15 22:36:21* · [`dailyftlk`](https://www.ft.lk/columns/Debate-over-profits-of-banks-Who-shares-them-ultimately-Part-II/4-760614) · `en`
+
+The largest recipient of the gross income of banks happens to be depositors and creditors who have invested in the debentures issued by banks
+
+The actual distribution of banks’ income shows that the major beneficiaries have been not the shareholders, but depositors, employees, other service providers, delinquent customers, and the government. All these categories together account for about 90% of banks’ income and only about 10% is left for shareholders. Hence, the wide-spread belief that banks fatten themselves at the expense of customers is not supported by evidence
+
+A reader of the Part I of this article (available at: https://www.ft.lk/columns/Debate-over-profits-of-banks-Who-shares-them-ultimately/4-760400) has brought to my notice that banks should make profits, in addition to the reasons mentioned earlier, to support them when they are financially insolvent.
+
+...
+
+[Data](articles/b533aa0f.json)
+
+---
+
+### Say no to NEPF; say no to abolishing free education
+
+*2024-04-15 22:32:18* · [`dailyftlk`](https://www.ft.lk/opinion/Say-no-to-NEPF-say-no-to-abolishing-free-education/14-760613) · `en`
+
+We must oppose NEPF in no uncertain terms, and make a call for a wide
+
+ranging consultative mechanism before any reforms in education are proposed or undertaken
+
+We are in the midst of an existentially threatening economic crisis. With an ever-increasing debt burden and low economic prospects, we continue to grapple with uncertain economic futures and related social and political distresses. As university teachers, we are concerned about the multiplicity of recent proposals seeking reforms in education that threaten to bring about a sea change in the way education is conceived of in this country: as a social good.
+
+...
+
+[Data](articles/8bfa285e.json)
+
+---
+
 ### Committee studying permitting vehicle imports on priority basis: Siyambalapitiya
 
 *2024-04-15 22:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Committee-studying-permitting-vehicle-imports-on-priority-basis-Siyambalapitiya/108-280734) · `en`
@@ -163,6 +323,20 @@ He said import of some 1,500 items had been restricted due to the economic crisi
 [Data](articles/a148db41.json)
 
 [Extended Data](ext_articles/a148db41.ext.json)
+
+---
+
+### Avurudu awakening for all
+
+*2024-04-15 22:30:38* · [`dailyftlk`](https://www.ft.lk/columns/Avurudu-awakening-for-all/4-760612) · `en`
+
+We just witnessed Avurudu this year. Having been plagued by a planetary pandemic, the multi-faceted economic crisis intensified in creating chaos. At least a ray of hope for an economic recovery comes with a cautious optimism. In such a context, Avurudu can be seen as an invitation for awakening, individually as well as interactively. Let us discuss it further.
+
+Avurudu invites us to awaken ourselves. Typically, it is the time to rejoice, relax, reflect, and reinforce. Celebrating as Sinhalese and Tamils alike is the central key. Collaboration, consensus, and connectivity are all coveted concepts associated with Avurudu. Cheerful, optimistic and an open mindset can be a good starting point. I know, it became challenging with COVID19-home-locked experience. Now, it appears to be more challenging amidst economics woes.
+
+...
+
+[Data](articles/3695825d.json)
 
 ---
 
@@ -2095,211 +2269,5 @@ It is reported that he did not have to attend the duty on that day, but he came 
 [Data](articles/bbe966eb.json)
 
 [Extended Data](ext_articles/bbe966eb.ext.json)
-
----
-
-### Youth arrested for abducting student
-
-*2024-04-15 12:06:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மாணவியை-கடத்திய-இளைஞன்-கைது/73-335952) · `ta`
-
-A 17-year-old from Trincomalee was arrested for abducting a 14-year-old student from Arayambathi Grankulam, Kattankudy. The arrest was based on information received on Sunday, after the student was found in Colombo. The youth will be produced before the magistrate, and the student was examined at the Batticaloa Teaching Hospital.
-
-🟩
-
-Kattankudy police arrested a 17 -year -old youth on charges of abducting a 14 -year -old student on Monday morning.
-
-A 17 -year -old youth from Trincomalee has been arrested for allegedly abducting the student from Arayambathi Grankulam in the Batticaloa Kattankudi police division.
-
-Kattankudy police have arrested the youth based on information available on Sunday (14) after she was abducted and stayed in Colombo on Sunday (14).
-
-The young man has been arrested by the Kattankudy police on the basis of information received from the crime on Sunday (14) from Colombo on Sunday (14).
-
-Kattankudy police said that the arrested youth magistrate will be produced before the arrested.
-
-The Kattankudy police said that the student was admitted to the Batticaloa Teaching Hospital for medical examination.
-
-◼️
-
-[Data](articles/ae9f0d16.json)
-
-[Extended Data](ext_articles/ae9f0d16.ext.json)
-
----
-
-### Special transport facilities to come to Colombo to come to Colombo
-
-*2024-04-15 11:48:23* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-ගිය-ජනතාවට-කොළඹ-එන්න-යන්න-විශේෂ-ප්‍රවාහන-පහසුකම්/11-409084) · `si`
-
-The National Transport Commission (NTC) and the Department of Railways are providing special transport facilities for people returning to Colombo for the New Year. 15 new trains will be introduced, and the SLTB and private buses will operate from Colombo to Departure.
-
-🟩
-
-The National Transport Commission (NTC) has said that the return of the people who were departing to the New Year.
-
-The Department of Railways says that 15 such trains will be implemented today for the New Year.. Deputy Railway General Manager N.J.. He said.
-
-Meanwhile, the SLTB and private buses will be operated from Colombo to Departure to the people who come to Colombo.
-
-◼️
-
-[Data](articles/9e356ad9.json)
-
-[Extended Data](ext_articles/9e356ad9.ext.json)
-
----
-
-### UN chief calls for restraint after Iran’s retaliatory attacks on Israel
-
-*2024-04-15 11:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UN-chief-calls-for-restraint-after-Irans-retaliatory-attacks-on-Israel/108-280705) · `en`
-
-April 15 - UN Secretary-General Antonio Guterres has called for maximum restraint after Iran's retaliatory attacks on Israel over the latter's deadly assault on the Iranian consulate in Syria.
-
-"The Middle East is on the brink. The people of the region are confronting a real danger of a devastating full-scale conflict. Now is the time to defuse and de-escalate. Now is the time for maximum restraint," he told an emergency meeting of the Security Council.
-
-According to the latest reports, Iran on Saturday launched hundreds of drones and missiles from its territory toward Israel, with most intercepted. Several missiles reportedly struck within Israeli territory, one of which damaged an Israeli military facility in the south of the country. Overall, a few civilians were injured, said Guterres.
-
-...
-
-[Data](articles/9dde782b.json)
-
-[Extended Data](ext_articles/9dde782b.ext.json)
-
----
-
-### Avurudu Perahera of Kataragama Dewalaya
-
-*2024-04-15 11:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Avurudu-Perahera-of-Kataragama-Dewalaya/110-280702) · `en`
-
-The annual traditional Avurudu Perahera of the Ruhunu Maha Kataragama Dewalaya was held yesterday, ushering in prosperity following timely rainfall. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/ad6767bf.json)
-
-[Extended Data](ext_articles/ad6767bf.ext.json)
-
----
-
-### Ten killed in road accidents within 24 hours
-
-*2024-04-15 11:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Ten-killed-in-road-accidents-within-24-hours/155-280706) · `en`
-
-Colombo, April 15 (Daily Mirror)- At least ten people were killed in eight road accidents within the past 24 hours in differenet parts of the country, Police said.
-
-Four people were killed in two accidents in Pussellawa and Hali-Ela while six individuals were killed in six seperate accidents in Mahiyangana, Kirindiwela, Ambalantota, Pugoda, Matara and Thanamalwila.
-
-Police Media Spokesman DIG Nihal Thalduwa said five of the eight road accidents were due to vehicles skidding off the roads.
-
-◼️
-
-[Data](articles/856fbeac.json)
-
-[Extended Data](ext_articles/856fbeac.ext.json)
-
----
-
-### Sri Lanka airport briefed on Boeing B777-9 operations
-
-*2024-04-15 11:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-airport-briefed-on-boeing-b777-9-operations-158504/) · `en`
-
-ECONOMYNEXT – America’s Boeing has briefed Sri Lanka’s main international airport on the B777-9 airliner which is expected to enter service in mid-2025, the state airport agency said.
-
-Richard Vaisvila, Lead Engineer of Airport Operations at Boeing Airport Operations Engineering conducted the technical session, state-run Airport and Aviation Services said.
-
-Officials from AASL and SriLankan Airlines had attended the session. SriLankan has the ground handling franchise at the airport.
-
-Boeing’s B-777X model promises greater fuel efficiency with the 777 dash 9 and can carry over 400 passengers in a two – class configuration.
-
-The aircraft has foldable wing-tips allowing it to be parked at airports that can accommodate earlier B-777 style aircraft with a smaller wingspan (Code E).
-
-◼️
-
-[Data](articles/be32b659.json)
-
-[Extended Data](ext_articles/be32b659.ext.json)
-
----
-
-### Ten killed in road accidents within 24 hours
-
-*2024-04-15 11:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ten-killed-in-road-accidents-within-24-hours/108-280706) · `en`
-
-Colombo, April 15 (Daily Mirror)- At least ten people were killed in eight road accidents within the past 24 hours in differenet parts of the country, Police said.
-
-Four people were killed in two accidents in Pussellawa and Hali-Ela while six individuals were killed in six seperate accidents in Mahiyangana, Kirindiwela, Ambalantota, Pugoda, Matara and Thanamalwila.
-
-Police Media Spokesman DIG Nihal Thalduwa said five of the eight road accidents were due to vehicles skidding off the roads.
-
-◼️
-
-[Data](articles/e91e339b.json)
-
-[Extended Data](ext_articles/e91e339b.ext.json)
-
----
-
-### Increase in domestic egg prices!
-
-*2024-04-15 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/181097) · `ta`
-
-Despite Sri Lanka CWC's efforts to reduce egg prices to 36 rupees, domestic egg prices rose from 40.45 to 60 rupees during New Year, despite a decrease in imported eggs' prices.
-
-🟩
-
-Consumers said the price of domestic eggs was increased despite the reduction in the prices of eggs imported from India.
-
-With the aim of providing relief to the people during the festive season, the Sri Lanka CWC has taken steps to reduce the price of an egg from 42 rupees to 36 rupees.
-
-However, in recent days, the price of local eggs, which was reduced to 40,45 rupees, increased from 50 to 60 rupees during the New Year, traders said.
-
-◼️
-
-[Data](articles/0e601969.json)
-
-[Extended Data](ext_articles/0e601969.ext.json)
-
----
-
-### Corona's death again
-
-*2024-04-15 11:11:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-கொரோனா-மரணம்-பதிவு/175-335951) · `ta`
-
-A 62-year-old woman from France, in Sri Lanka for Ayurvedic treatment, died of COVID-19 after a two-day hospital stay in Jaffna.
-
-🟩
-
-A woman in Jaffna district has died after a long -term chrono infection.
-
-A 62 -year -old woman who came to Sri Lanka from France for her Ayurvedic treatment has died of Korona.
-
-The woman was staying in the Vaddukoddai Arali and has been admitted to the Jaffna Teaching Hospital for two days due to fever.
-
-An examination carried out after the death of the woman has confirmed that the woman has a corona infection.
-
-◼️
-
-[Data](articles/3cce7339.json)
-
-[Extended Data](ext_articles/3cce7339.ext.json)
-
----
-
-### Woman dies in fire
-
-*2024-04-15 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/181088) · `ta`
-
-A woman died in a fire in Kotagala's Thimbulapathana. The fire started in a room, and she was taken to Kotagala hospital.
-
-🟩
-
-A woman was killed in a fire in a house in Kotagala area in Thimbulapathana.
-
-Police said that the fire broke out in a room of the house and the woman who was suffering from fire was admitted to the Kotagala hospital.
-
-◼️
-
-[Data](articles/639bd843.json)
-
-[Extended Data](ext_articles/639bd843.ext.json)
 
 ---

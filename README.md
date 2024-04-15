@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 09:16:23**
+As of **2024-04-15 09:45:04**
 
 ## Newspaper Stats
 
-*Scraped **18,848** Articles*
+*Scraped **18,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,049
-adalk | 1,570
-tamilmirrorlk | 2,203
+adalk | 1,572
+tamilmirrorlk | 2,207
 adaderanalk | 2,275
 virakesarilk | 2,802
 dailymirrorlk | 2,900
-adaderanasinhalalk | 3,074
+adaderanasinhalalk | 3,075
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,843 (100.0%) of 18,848 articles have been extended.
+18,848 (100.0%) of 18,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### අවස්ථාවක් ලැබෙන තුරු ඊශ්‍රායලය බලා සිටී
+
+*2024-04-15 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195639) · `si`
+
+ඉරානයට පහරදීමට සුදුසු අවස්ථාවක් ලැබෙන තුරු බලාසිටින බව ඊශ්‍රායලය පවසයි.
+
+මැදපෙරදිග කලාපය තුළ දරුණු යුද බියක් මවමින් ඉරානය පළමු වරට ඊශ්‍රායලයට දැවැන්ත ප්‍රහාර මාලාවක් දියත් කළේය.
+
+ඒ අනුව ඉරානය විසින් ඉකුත් 13 වනදා සහ ඊයේ (14) අලුයම් කාලයේදී ඊශ්‍රායලයට ඩ්‍රෝන සහ මිසයිල ප්‍රහාර රැසක් එල්ල කර තිබුණි.
+
+සිරියාවේ පිහිටි ඉරාන තානාපති කාර්යාලයට එල්ලවූ ඊශ්‍රායල ප්‍රහාරයට පළිගැනීමක් ලෙසින් මෙම ප්‍රහාර දියත් කර තිබුණි.
+
+කෙසේවෙතත් ඊශ්‍රායලය පවසන්නේ ඉරාන ප්‍රහාරවලින් සියයට 99ක්ම සාර්ථකව ව්‍යර්ථ කළ බවය.
+
+ඉරානය ඊශ්‍රායලයෙන් පළිගන්නා බවට අනතුරු අඟවා තිබුණේ සිරියාවේ පිහිටි ඉරාන තානාපති කාර්යාලයට ඊශ්‍රායලයෙන් පසුගිය අප්‍රේල් පළමුවැනිදා එල්ලවූ දරුණු ප්‍රහාරයත් සමගිනි.
+
+ඉරාන හමුදා ප්‍රධානියෙකු ඇතුළු 13 දෙනෙකු එම ප්‍රහාරයෙන් මියගොස් ඇත.
+
+එවන් පසුබිමක අමෙරිකාවද ඊශ්‍රායලයට දැනුම්දී තිබුණේ ඉතාම ආසන්න දිනක ඊශ්‍රායලය වෙත ප්‍රහාරයක් එල්ලවනු ඇති බවටය.
+
+ඉරානය, සිය හමුදා සහ අවි කලාපයේ ස්ථානගත කරමින් ඇති බවටත් අමෙරිකාව තහවුරු කර තිබුණි.
+
+...
+
+[Data](articles/697177a0.json)
+
+---
 
 ### Sri Lanka among countries that could benefit from debt-for-nature swaps, says report
 
@@ -48,21 +76,29 @@ The IMF and World Bank, whose figures the analysis is based on, estimate the cou
 
 [Data](articles/c8e82d0a.json)
 
+[Extended Data](ext_articles/c8e82d0a.ext.json)
+
 ---
 
-### ගමේ ගිය ජනතාවට කොළඹ එන්න විශේෂ ප්‍රවාහන පහසුකම්
+### Special transport facilities to Colombo to Colombo
 
 *2024-04-15 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195638) · `si`
 
-අලුත් අවුරුද්ද සැමරීම සඳහා ගම්බිම් බලා පිටත්ව ගිය ජනතාවට යළි පැමිණීම සඳහා අද (15) සහ හෙට (16) විශේෂ බස් රථ යෙදවීමට කටයුතු කර ඇති බව ජාතික ගමනාගමන කොමිෂන් සභාව පවසයි.
+The National Transport Commission (NTC) has re-employed special buses in Colombo for passenger convenience, with some special trains also deployed.
 
-එහි සභාපති ශෂී වෙල්ගම මහතා පැවසුවේ මගී අවශ්‍යතාව පරිදි එම බස් රථ යෙදවීමට කටයුතු කර ඇති බවය.
+🟩
 
-මේ අතර දුම්රියෙන් පැමිණෙන මගී ජනතාවට ද ඔවුන්ගේ පහසුව සඳහා විශේෂ දුම්රිය ගමන්වාර කිහිපයක් යොදවා ඇති බව දුම්රිය දෙපාර්තමේන්තුවේ නියෝජ්‍ය සාමාන්‍යාධිකාරී එන්.ජේ. ඉදිපොලගේ මහතා පැවසීය.
+The National Transport Commission (NTC) has said that he has taken steps to re-employment of special buses today (15) and tomorrow.
+
+Chairman of the company Shashi Welgama said that the buses had been deployed on passenger needs.
+
+Meanwhile, a few special trains traveling to the passenger people from the train have been deployed for their convenience, the Deputy General Manager NJ. He said.
 
 ◼️
 
 [Data](articles/64b31496.json)
+
+[Extended Data](ext_articles/64b31496.ext.json)
 
 ---
 
@@ -86,39 +122,67 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/096fada2.json)
 
+[Extended Data](ext_articles/096fada2.ext.json)
+
 ---
 
-### මුම්බායි වැනසූ මතීෂ තරගයේ වීරයා වෙයි
+### හිසතෙල් ගෑමේ නැතක අදයි
+
+*2024-04-15 07:29:09* · [`adalk`](https://www.ada.lk/breaking_news/හිසතෙල්-ගෑමේ-නැතක-අදයි/11-409081) · `si`
+
+සිංහල හා හින්දු අලුත් අවුරුදු මංගල්‍යයේ හිසතෙල් ගෑමේ ජාතික නැකත අද (15දා) යෙදි තිබේ. මෙහි ජාතික උත්සවය වත්තල හැඳල පුරාණ රජමහා විහාරයේදී අගමැති දිනේෂ් ගුණවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පැවැත්වීමට නියමිතය.
+
+දේශීය වෛද්‍ය අමාත්‍යාංශය විසින් මෙම ජාතික උත්සවය සංවිධානය කරනු ලබන අතර පෙරවරු 10.17ට යෙදෙන සුබ නැකතට හිස තෙල් ගෑමේ උත්සවය ආරම්භ වීමට නියමිතය.
+
+◼️
+
+[Data](articles/0b6d2421.json)
+
+---
+
+### The man of the Matience of Mumbai is the man of the match
 
 *2024-04-15 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195637) · `si`
 
-ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ මුම්බායි ඉන්දියන්ස් කණ්ඩායම සමග ඊයේ (14) පැවති තරගයෙන් ලකුණු 20ක ජයක් හිමිකර ගැනීමට චෙන්නායි සුපර් කිංග්ස් කණ්ඩායම සමත්විය.
+Chennai Super Kings won by 20 runs against Mumbai, with Shivam Dubbay scoring 66 runs.
 
-එම තරගයේදී සුපිරි පන්දුයැවීමක නිරතවූ මතීෂ පතිරණ ලකුණු 28ක කඩුලු  4ක් බිඳ දමමින් තරගයේ වීරයා සම්මානය හිමිකර ගැනීමට සමත් වුණි.
+🟩
 
-තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදුන් චෙන්නායි කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 4ක් දැවී ලකුණු 206ක් ලබාගත්තේය.
+Chennai Super Kings beat the Indian Premier League cricket team by 20 runs in yesterday (14).
 
-එම ඉනිම වෙනුවෙන් ශිවම් ඩුබේ නොදැවී ලකුණු 66ක් ලබා ගැනීමට සමත් වුණි.
+The man of the match award took 4 wickets in 28 runs in the match.
 
-පිළිතුරු ඉනිම සඳහා පිටියට පිවිසි මුම්බායි කණ්ඩායමට නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 6ක් දැවී ලබාගත හැකි වුයේ ලකුණු 186ක් පමණි.
+The Chanavian team scored 206 runs for the loss of 4 wickets at the end of the final.
+
+Shivam Dubbay was unseaded and 66 runs.
+
+The Mumbai team obtained only 186 runs for the loss of 6 wickets at the end of 20 overs.
 
 ◼️
 
 [Data](articles/06b1ec91.json)
 
+[Extended Data](ext_articles/06b1ec91.ext.json)
+
 ---
 
-### අද තද වැස්සක්
+### Today is a bold rain
 
 *2024-04-15 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195635) · `si`
 
-අද (15) දිනයේ ප්‍රදේශ රැසක වැසි තත්ත්වයේ තාවකාලික වැඩිවීමක් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+"Today's rain is bold, with Met Department forecasting over 100mm in Western, Sabaragamuwa, Uva, and Southern provinces, including Ampara and Batticaloa districts."
 
-ඒ අනුව බස්නාහිර, සබරගමුව, ඌව සහ දකුණු පළාත්වලත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී 100 ට වැඩි තද වැසි ඇතිවිය හැකිය.
+🟩
+
+The Met Department forecasts a temporary increase in several areas today (15).
+
+Accordingly, in the Western, Sabaragamuwa, Uva and Southern provinces, the Ampara and Batticaloa districts can occur at more than 100mm and Batticaloa districts.
 
 ◼️
 
 [Data](articles/c3a5314e.json)
+
+[Extended Data](ext_articles/c3a5314e.ext.json)
 
 ---
 
@@ -238,6 +302,20 @@ The strength of the imperialist elite will be established in the Middle East. In
 
 ---
 
+### டெங்கு நோயாளர்கள் அதிகரிப்பு
+
+*2024-04-15 00:26:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்கள்-அதிகரிப்பு/175-335948) · `ta`
+
+இதன்படி, இந்த வருடத்தின் இதுவரையான காலப்பகுதியில், பதிவாகியுள்ள டெங்கு நோயாளர்களின் எண்ணிக்கை 21,028 ஆக பதிவாகியுள்ளது.
+
+இதன்படி, கொழும்பு மாவட்டத்தில் இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 4,527 டெங்கு நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/926860cf.json)
+
+---
+
 ### A young teacher killed in diarrhea and diarrhea - misery in Jaffna!
 
 *2024-04-15 00:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/181080) · `ta`
@@ -293,6 +371,42 @@ Ruthuraj Gaygwad faced 40 balls and scored 69 runs with 5 pounds and 5 sixes.
 [Data](articles/a8187379.json)
 
 [Extended Data](ext_articles/a8187379.ext.json)
+
+---
+
+### புத்தாண்டு நிகழ்வில் ஜனாதிபதி பங்கேற்றார்
+
+*2024-04-15 00:22:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டு-நிகழ்வில்-ஜனாதிபதி-பங்கேற்றார்/175-335947) · `ta`
+
+நுவரெலியா – மீபிலிபான 'அபி யூத்' இளைஞர் அமைப்பினால் நுவரெலியா மாவட்டச் செயலகம், பிரதேச செயலகம் இணைந்து நேற்று ஏற்பாடு செய்திருந்த சித்திரைப் புத்தாண்டு நிகழ்வில் ஜனாதிபதி ரணில் விக்கிரமசிங்க பங்கேற்றார்.
+
+பாரம்பரிய சம்பிரதாயங்களுக்கு அமைவாக, இடம்பெற்ற இந்த நிகழ்வில், விளையாட்டு மற்றும் கலாச்சார அம்சங்கள் பலவும் உள்ளடக்கியிருந்தன.
+
+புத்தாண்டு நிகழ்வு நடைபெற்ற இடத்திற்கு வருகைத் தந்த ஜனாதிபதி ரணில் விக்கிரமசிங்க சில போட்டிகளைக் கண்டுகளித்த பின்னர், அங்கு இடம்பெற்ற சைக்கிளோட்ட போட்டியில் வெற்றி பெற்றவர்களும் பரிசுகளை வழங்கினார்.
+
+சித்திரைப் புத்தாண்டு நிகழ்வை கண்டுகளிக்க வந்த பிரதேச மக்களுடன் சிநேகபூர்வமாக கலந்துரையாடினார். அப்போது மக்கள் முன்வைத்த பிரச்சினைகளுக்கு தீர்வைத் தருவேன் என அவர் உறுதி அளித்தார். (a)
+
+◼️
+
+[Data](articles/ca382202.json)
+
+---
+
+### இஸ்ரேலில் இலங்கையர்கள் பாதுகாப்பாக உள்ளனர்
+
+*2024-04-15 00:17:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலில்-இலங்கையர்கள்-பாதுகாப்பாக-உள்ளனர்/175-335946) · `ta`
+
+இஸ்ரேலில் உள்ள இலங்கையர்கள் பாதுகாப்பாக உள்ளனர் என இஸ்ரேலுக்கான இலங்கை தூதரகம் தெரிவித்துள்ளது.
+
+இஸ்ரேல் மீது ஈரான் ஆளில்லா விமானம் மற்றும் ஏவுகனை தாக்குதல்களை நடத்தியுள்ள நிலையில் இஸ்ரேலில் உள்ள இலங்கையர்கள் தொடர்பில் இந்த அறிவிப்பு விடுக்கப்பட்டுள்ளது.
+
+அதன்படி, இஸ்ரேலில் உள்ள இலங்கையர்கள் பாதுகாப்பாக உள்ளனர் என இஸ்ரேலுக்கான இலங்கை தூதுவர் நிமல் பண்டார தெரிவித்துள்ளார்.
+
+இந்த நிலையில், டுபாயிலிருந்து இலங்கையர்கள் குழுவுடன் டெல் அவிவ் நோக்கி பயணித்த விமானம் தொடர்பில் அவர் தெளிவுப்படுத்தியுள்ளார். (a)
+
+◼️
+
+[Data](articles/896b019b.json)
 
 ---
 
@@ -920,6 +1034,24 @@ As several parts in Sri Lanka have experienced significant rainfall for the past
 
 ---
 
+### புஸ்ஸல்லாவ விபத்தில் இருவர் பலி
+
+*2024-04-14 17:23:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/புஸ்ஸல்லாவ-விபத்தில்-இருவர்-பலி/76-335930) · `ta`
+
+இறம்பொடை - கொழும்பு பிரதான வீதியில் எல்பொடைக்கும், புஸ்ஸலாவுக்கும் இடைப்பட்ட பகுதியில் இன்று மாலை வேன் ஒன்று பாதையை விட்டு விலகி பள்ளத்தில் வீழ்ந்து பாரிய விபத்துக்கு உள்ளாகியுள்ளதாக கொத்மலை பொலிஸார் தெரிவித்தனர்.
+
+சம்பவத்தில் விபத்துக்கு உள்ளான வேன் கொழும்பிலிருந்து நுவரெலியாவுக்கு 10 பேருடன் சுற்றுலாவுக்கு வருகைதந்து பின் கொழும்பை நோக்கி பயணிக்கையில் விபத்து சம்பவித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மேலும் இச்சம்பவத்தில் விபத்துக்கு உள்ளான வேனில் சிறு குழந்தைகளும் வயதானவர்களும் கூட இருந்ததாக தெரிவிக்கப்பட்டுள்ளது.
+
+அதேநேரம் விபத்தில் வேனில் சிக்கியுள்ளவர்களை மீட்கும் பணியில் பிரதேச மக்கள்,பொலிஸார் ஈடுப்பட்டுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/c3ca4edc.json)
+
+---
+
 ### Four killed in Pussellawa accident
 
 *2024-04-14 17:23:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/புஸ்ஸல்லாவ-விபத்தில்-நால்வர்-பலி/76-335930) · `ta`
@@ -965,6 +1097,20 @@ Twent up to 20 others in the attack and 12 of them were in critical condition.
 [Data](articles/25fa440c.json)
 
 [Extended Data](ext_articles/25fa440c.ext.json)
+
+---
+
+### කොස්ගොඩ බියවැද්දූ කොල්ලකල්ලියක් මෙහෙයවූ නැන්දා ,දුව අල්ලයි
+
+*2024-04-14 17:13:22* · [`adalk`](https://www.ada.lk/breaking_news/කොස්ගොඩ-බියවැද්දූ-කොල්ලකල්ලියක්-මෙහෙයවූ-නැන්දා--දුව-අල්ලයි/11-409080) · `si`
+
+කොස්ගොඩ  ඌරගස්මන්හන්දිය සහ අහුන්ගල්ල පොලිස් වසම්වල ජනතාව භීතියට පත්කරමින් කාලයක්  තිස්සේ රාත්‍රී කාලයේ නිවෙස් කොල්ලකෑම් රැසක් සිදුකළ කොල්ලකල්ලියක් මෙහෙයවූ මත්ද්‍රව්‍ය අලෙවියේද නිරතව සිටි බව කියන   කාන්තාවන් දෙදෙනෙකු සහ  කොල්ලකල්ලියේ සාමාජිකයන්වූ තරුණයන් දෙදෙනෙකු සැකපිට අත් අඩංගුවට ගත් බව කොස්ගොඩ පොලීසිය කියයි.
+
+නෑදෑ කමට නැන්දා සහ දුවක වන  සැකාරියන් දෙදෙනා වයස අවුරුදු 29 හා 40 වියේ පසුවන අතර අත් අඩංගුවට ගත් අවස්ථාවේ  ඔවුන් සන්තකයේ තිබී හෙරොයින් මිලිග්‍රෑම් 2410 ක් සහ අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 3112 ක් ද සොයාගත් බවත් කොල්ල කල්ලිය   මුලුමනින්ම මෙහෙයවා ඇති  මෙම කාන්තාවන් දෙදෙනාගේ උපදෙස්  පරිදි හා ඔවුන් ලබා දෙන මත්ද්‍රව්‍ය පානය කර තරුණයින් විසින්  දොරවල් කඩා නිවෙස්වලට ඇතුළු වී ආයුධ පෙන්වා නිවැසියන් බියවද්දා මෙම    කොල්ලකෑම් සිදුකර ඇතැයි පොලීසිය කියයි.
+
+...
+
+[Data](articles/96fecd16.json)
 
 ---
 
@@ -2201,169 +2347,5 @@ It is reported that these New Year's festivals are scheduled to be held in accor
 [Data](articles/296a6021.json)
 
 [Extended Data](ext_articles/296a6021.ext.json)
-
----
-
-### US President extends wishes for Sinhala and Tamil New Year
-
-*2024-04-14 08:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-President-extends-wishes-for-Sinhala-and-Tamil-New-Year/108-280687) · `en`
-
-Colombo, April 14 (DAily Mirror) - US President Joe Biden expressed heartfelt wishes to communities celebrating various cultural festivities worldwide including Sri Lankans.
-
-"To all those gathering around the world in celebration of Vaisakhi, Navratri, Songkran and the incoming New Year this week, Jill and I wish you warmth, community and joy.
-
-Happy Bengali, Khmer, Lao, Myanmarese, Nepali, Sinhalese, Tamil, Thai and Vishu New Year!" he posted on 'X'.
-
-◼️
-
-[Data](articles/24db71e6.json)
-
-[Extended Data](ext_articles/24db71e6.ext.json)
-
----
-
-### 679 health vehicles missing
-
-*2024-04-14 08:12:19* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-වාහන-679-ක්-අතුරුදන්-වෙලා/11-409071) · `si`
-
-The National Audit Office found 679 health vehicles missing, with the Ministry of Health only reporting 240. The audit has been ongoing for four years without resolution.
-
-🟩
-
-The National Audit office reveals that 679 varied vehicles owned by the Ministry of Health cannot find any information.
-
-A special audit investigation into the Ministry of Health by the National Audit Office was first revealed in 2019.
-
-The Ministry of Health states that the Ministry has informed the audit that has been identified about 240 vehicles.
-
-The Audit Monitoring of the Ministry of Health has pointed out that the National Audit Office has not been able to find any information for four years.
-
-◼️
-
-[Data](articles/766233da.json)
-
-[Extended Data](ext_articles/766233da.ext.json)
-
----
-
-### US shoots down Iranian drones bound for Israel
-
-*2024-04-14 08:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/US-shoots-down-Iranian-drones-bound-for-Israel/107-280686) · `en`
-
-Israel, April 14 (BBC) - The US has shot down Iranian drones headed to Israel after Iran launched its retaliatory attack early on Sunday.
-
-The UK meanwhile said its Royal Air Force (RAF) would intercept drones "as required".
-
-Both US president Joe Biden and Rishi Sunak, the UK's prime minister, condemned Iran's attack and reiterated their support for Israel.
-
-Two US officials told CBS, the BBC's official partner, that "several" drones had been shot down by US assets.
-
-Tehran launched its overnight attack in response to the killing of its Quds Force commander, Major General Mohammad Reza Zahedi, two weeks ago in an air strike on the Iranian consulate in Damascus, Syria.
-
-Iran blamed Israel for the attack shortly after and said it would retaliate.
-
-Daniel Hagari, spokesman for the Israel Defense Forces (IDF), said that around 200 drones and missiles were launched towards Israel by Iran. The vast majority were intercepted by the IDF and its partners, he added.
-
-...
-
-[Data](articles/55d7fb72.json)
-
-[Extended Data](ext_articles/55d7fb72.ext.json)
-
----
-
-### Congratulations for the New Year
-
-*2024-04-14 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195611) · `si`
-
-"Congratulations on the New Year! Sri Lanka marks the Sinhala and Tamil New Year with President Joe Biden, who added a greeting. He and his wife wish to benefit all who celebrate this unique opportunity."
-
-🟩
-
-The people of Sri Lanka have joined the people of Sri Lanka to mark the Sinhala and Tamil year of America President Joe Biden.
-
-Joe Buyn had added his greeting by putting a note of X account.
-
-He says that he and his wife will benefit all the world who celebrate this unique opportunity.
-
-◼️
-
-[Data](articles/f0615592.json)
-
-[Extended Data](ext_articles/f0615592.ext.json)
-
----
-
-### How Long Can The People Be Fooled?
-
-*2024-04-14 08:00:43* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/how-long-can-the-people-be-fooled/) · `en`
-
-Since gaining independence, Sri Lanka has navigated a turbulent political landscape, swinging between left and right-wing ideologies until the early ’90s. Since then, the nation has largely sought a middle path. The prolonged  war, spanning nearly three decades, hampered development and progress but benefitted a segment from the nature of war economy.
-
-However, 2009 marked a turning point with the war’s end, heralding an era of peace and offering Sri Lanka a golden opportunity to ascend to the ranks of developed nations. Country missed the bus, not necessarily due to known reasons but also the refusal to accept the fact the universal law ‘no one wins in a war’ and ‘All must benefit from peace’. This is history now.
-
-Future potential thereafter has been overshadowed by a myriad of challenges.
-
-...
-
-[Data](articles/d3c9eb27.json)
-
-[Extended Data](ext_articles/d3c9eb27.ext.json)
-
----
-
-### A nation is coming forward to renewal - President
-
-*2024-04-14 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195610) · `si`
-
-President Ranil Wickremesinghe highlights renewal as a source of hope, emphasizing the traditional year's significance in Sinhala and Tamil New Year. Prime Minister Dinesh Gunawardena underscores the importance of new concepts and protecting beauty in the New Year. Opposition Leader Sajith Premadasa expresses optimism for the country's prosperity and acknowledges the challenges of new normalization.
-
-🟩
-
-President Ranil Wickremesinghe says that the renewal will add a new hope for life.
-
-The President pointed out that a nation is a world from renewal.
-
-President Ranil Wickremesinghe says that the new year's new year is new in the world that the people of the world have been renewed by the renewal of the traditional year.
-
-The President points out that the traditional years of the world is based on the connection and collective years in the Sinhala and Tamil New Year.
-
-President Ranil Wickremesinghe, President Ranil Wickremesinghe, congratulates its greeting as a social connection and solidarity in the New Year.
-
-Prime Minister Dinesh Gunawardena says that the new year should begin a New Year through the new concepts.
-
-The Prime Minister points out that the real rights of the New Year is the duty of all of us to protect that beauty.
-
-Prime Minister Dinesh Gunawardena says that the new year should be gratefully recalled in the New Year, the new year should be convinced in the New Year.
-
-...
-
-[Data](articles/6b3c8df1.json)
-
-[Extended Data](ext_articles/6b3c8df1.ext.json)
-
----
-
-### Iran attack - Israel's southern territory damage
-
-*2024-04-14 07:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181061) · `ta`
-
-Iran's attack damaged a military site in Israel's south, causing minor infrastructure damage. Iran's unmanned aircraft lost missiles within Israel's borders. Israel has assisted strategic partners in this incident.
-
-🟩
-
-The Israeli military has said that a military site in the south of Israel has been damaged due to Iran's attack.
-
-Israeli military spokesman Rear Admiral Daniel Hakari said there were minor damage to the site's infrastructure.
-
-He said that Iran's unmanned aircraft had lost many missiles within the limits of Israel.
-
-We have helped our strategic colleagues in this activity.
-
-◼️
-
-[Data](articles/2b4d9c97.json)
-
-[Extended Data](ext_articles/2b4d9c97.ext.json)
 
 ---

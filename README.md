@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 05:37:21**
+As of **2024-04-15 09:16:23**
 
 ## Newspaper Stats
 
-*Scraped **18,843** Articles*
+*Scraped **18,848** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,110 @@ dailyftlk | 1,018
 economynextcom | 1,049
 adalk | 1,570
 tamilmirrorlk | 2,203
-adaderanalk | 2,273
+adaderanalk | 2,275
 virakesarilk | 2,802
 dailymirrorlk | 2,900
-adaderanasinhalalk | 3,071
+adaderanasinhalalk | 3,074
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,842 (100.0%) of 18,843 articles have been extended.
+18,843 (100.0%) of 18,848 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### Sri Lanka among countries that could benefit from debt-for-nature swaps, says report
+
+*2024-04-15 07:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98636/sri-lanka-among-countries-that-could-benefit-from-debt-for-nature-swaps-says-report) · `en`
+
+(Reuters) - Debt-for-nature swaps, where poorer countries have debt written off in return for protecting ecosystems such as barrier reefs or rainforests, could provide $100 billion for the fight against climate change, a new report has calculated.
+
+The UK-based, non-profit International Institute for Environment and Development (IIED) based the estimate on the possibility of debt swaps in many of the 49 less developed countries seen as most at risk of debt crises.
+
+Belize, Ecuador, Barbados, Gabon and Cabo Verde have all done such swaps in recent years and Laura Kelly, the director of IIED’s sustainable markets research group, said many of those in debt distress and also often most threatened by global warming, were looking at them.
+
+The IMF and World Bank, whose figures the analysis is based on, estimate the countries focused on collectively owe $431 billion, mostly to wealthier governments, the IMF itself and pension and hedge funds.
+
+...
+
+[Data](articles/c8e82d0a.json)
+
+---
+
+### ගමේ ගිය ජනතාවට කොළඹ එන්න විශේෂ ප්‍රවාහන පහසුකම්
+
+*2024-04-15 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195638) · `si`
+
+අලුත් අවුරුද්ද සැමරීම සඳහා ගම්බිම් බලා පිටත්ව ගිය ජනතාවට යළි පැමිණීම සඳහා අද (15) සහ හෙට (16) විශේෂ බස් රථ යෙදවීමට කටයුතු කර ඇති බව ජාතික ගමනාගමන කොමිෂන් සභාව පවසයි.
+
+එහි සභාපති ශෂී වෙල්ගම මහතා පැවසුවේ මගී අවශ්‍යතාව පරිදි එම බස් රථ යෙදවීමට කටයුතු කර ඇති බවය.
+
+මේ අතර දුම්රියෙන් පැමිණෙන මගී ජනතාවට ද ඔවුන්ගේ පහසුව සඳහා විශේෂ දුම්රිය ගමන්වාර කිහිපයක් යොදවා ඇති බව දුම්රිය දෙපාර්තමේන්තුවේ නියෝජ්‍ය සාමාන්‍යාධිකාරී එන්.ජේ. ඉදිපොලගේ මහතා පැවසීය.
+
+◼️
+
+[Data](articles/64b31496.json)
+
+---
+
+### Showery conditions expected to enhance over several provinces
+
+*2024-04-15 07:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98635/showery-conditions-expected-to-enhance-over-several-provinces) · `en`
+
+The Meteorology Department says showery weather condition is expected to temporarily enhance over Eastern, Uva and Southern provinces today (15).
+
+Showers or thundershowers will occur at times in Eastern and Uva provinces and in Hambantota, Nuwara Eliya and Matale districts while several spells of showers may occur in Northern and North central provinces.
+
+Showers or thundershowers will occur at several places elsewhere over the island after 2.00 p.m.
+
+Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, Uva and southern provinces and in Ampara and Batticaloa districts.
+
+Misty conditions can be expected at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/096fada2.json)
+
+---
+
+### මුම්බායි වැනසූ මතීෂ තරගයේ වීරයා වෙයි
+
+*2024-04-15 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195637) · `si`
+
+ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ මුම්බායි ඉන්දියන්ස් කණ්ඩායම සමග ඊයේ (14) පැවති තරගයෙන් ලකුණු 20ක ජයක් හිමිකර ගැනීමට චෙන්නායි සුපර් කිංග්ස් කණ්ඩායම සමත්විය.
+
+එම තරගයේදී සුපිරි පන්දුයැවීමක නිරතවූ මතීෂ පතිරණ ලකුණු 28ක කඩුලු  4ක් බිඳ දමමින් තරගයේ වීරයා සම්මානය හිමිකර ගැනීමට සමත් වුණි.
+
+තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදුන් චෙන්නායි කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 4ක් දැවී ලකුණු 206ක් ලබාගත්තේය.
+
+එම ඉනිම වෙනුවෙන් ශිවම් ඩුබේ නොදැවී ලකුණු 66ක් ලබා ගැනීමට සමත් වුණි.
+
+පිළිතුරු ඉනිම සඳහා පිටියට පිවිසි මුම්බායි කණ්ඩායමට නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 6ක් දැවී ලබාගත හැකි වුයේ ලකුණු 186ක් පමණි.
+
+◼️
+
+[Data](articles/06b1ec91.json)
+
+---
+
+### අද තද වැස්සක්
+
+*2024-04-15 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195635) · `si`
+
+අද (15) දිනයේ ප්‍රදේශ රැසක වැසි තත්ත්වයේ තාවකාලික වැඩිවීමක් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව බස්නාහිර, සබරගමුව, ඌව සහ දකුණු පළාත්වලත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී 100 ට වැඩි තද වැසි ඇතිවිය හැකිය.
+
+◼️
+
+[Data](articles/c3a5314e.json)
+
+---
 
 ### People Selvan: Vijay Sethupathi - Arya's 'Ons Aban A Time in Madras'
 
@@ -208,21 +298,27 @@ Ruthuraj Gaygwad faced 40 balls and scored 69 runs with 5 pounds and 5 sixes.
 
 ### 2024-04-14 (Sunday)
 
-### அதிவேக நெடுஞ்சாலை போக்குவரத்து அதிகரிப்பு
+### Increase in high -speed highway traffic
 
 *2024-04-14 23:55:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலை-போக்குவரத்து-அதிகரிப்பு/175-335945) · `ta`
 
-அதிவேக நெடுஞ்சாலைகளின் போக்குவரத்து 10 சதவீதத்தால் அதிகரித்துள்ளதாக அதிவேக நெடுஞ்சாலையின் செயற்பாட்டு மற்றும் பராமரிப்பு பிரிவு தெரிவித்துள்ளது.
+Highway traffic increased by 10%, with 128,000 vehicles yesterday, earning Rs 4.44 crore. Revenue from 10th to yesterday exceeded Rs 15 crore.
 
-அதற்கமைய, நேற்று முன்தினம் மாத்திரம் அதிவேக நெடுஞ்சாலைகளில் 128,000 வாகனங்கள் போக்குவரத்தில் ஈடுபட்டுள்ளன என அந்த பிரிவின் பணிப்பாளர் ஆர்.ஐ.டீ. கஹடபிட்டிய தெரிவித்துள்ளார்.
+🟩
 
-இதனூடாக 4 கோடியே 44 லட்சம் ரூபாய் வருமானம் கிடைத்துள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+Traffic on highways has increased by 10 per cent, the Expressway's Operations and Maintenance Unit said.
 
-இதேவேளை, கடந்த 10ஆம் திகதி முதல் நேற்று முன்தினம் வரையான காலப்பகுதியில் அதிவேக நெடுஞ்சாலைகள் மூலம் கிடைத்த வருமானம் 15 கோடி ரூபாய்க்கும் அதிகமாகும் என தெரிவிக்கப்பட்டுள்ளது. (a)
+Accordingly, the Director of the Division RID said that 128,000 vehicles were traffic on highways yesterday.. Said Kahadapitiya.
+
+He added that 4 crore 44 lakhs of rupees have been earned through this.
+
+Meanwhile, from the 10th to yesterday, the revenue of highways will be over Rs 15 crore.. (A)
 
 ◼️
 
 [Data](articles/bbea3dd7.json)
+
+[Extended Data](ext_articles/bbea3dd7.ext.json)
 
 ---
 
@@ -403,6 +499,26 @@ Accordingly, the Peoples Department of Meteorology states that the people should
 [Data](articles/6d7f166b.json)
 
 [Extended Data](ext_articles/6d7f166b.ext.json)
+
+---
+
+### Sri Lanka eyes on speedy debt resolution at IMF/WB Spring Meetings: State Finmin
+
+*2024-04-14 20:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-eyes-on-speedy-debt-resolution-at-imf-wb-spring-meetings-state-finmin-158467/) · `en`
+
+ECONOMYNEXT – Sri Lanka is looking forward to have discussions for a speedy debt resolution and restore debt sustainability at the Spring Meetings of the International Monetary Fund (IMF) and World Bank (WB) starting on Monday (15) in Washington, State Finance Minister Shehan Semasinghe said.
+
+Minister Semasinghe is leading the Sri Lankas delegation for this year’s IMF/WB Spring Meetings that includes Central Bank Governor Nandalal Weerasinghe and Treasury Secretary Mahinda Siriwardana.
+
+The island nation expects to conclude the debt restructuring negotiation with its private creditors and sovereign bond holders and formalize the already agreed deal with bilateral creditors by end of the first half of this year, government sources have told EconomyNext.
+
+Sri Lanka also expects to receive the third tranche of the IMF by mid this year after the completion of the second review of a $3 billion loan program last month.
+
+...
+
+[Data](articles/fa783eb1.json)
+
+[Extended Data](ext_articles/fa783eb1.ext.json)
 
 ---
 
@@ -923,26 +1039,6 @@ The police headquarters said that 14,000 police officers, 500 police officers, 4
 [Data](articles/406666eb.json)
 
 [Extended Data](ext_articles/406666eb.ext.json)
-
----
-
-### Sri Lanka eyes on speedy debt resolution at IMF/WB Spring Meetings: State Finmin
-
-*2024-04-14 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-eyes-on-speedy-debt-resolution-at-imf-wb-spring-meetings-state-finmin-158467/) · `en`
-
-ECONOMYNEXT – Sri Lanka is looking forward to have discussions for a speedy debt resolution and restore debt sustainability at the Spring Meetings of the International Monetary Fund (IMF) and World Bank (WB) starting on Monday (15) in Washington, State Finance Minister Shehan Semasinghe said.
-
-Minister Semasinghe is leading the Sri Lankas delegation for this year’s IMF/WB Spring Meetings that includes Central Bank Governor Nandalal Weerasinghe and Treasury Secretary Mahinda Siriwardana.
-
-The island nation expects to conclude the debt restructuring negotiation with its private creditors and sovereign bond holders and formalize the already agreed deal with bilateral creditors by end of the first half of this year, government sources have told EconomyNext.
-
-Sri Lanka also expects to receive the third tranche of the IMF by mid this year after the completion of the second review of a $3 billion loan program last month.
-
-...
-
-[Data](articles/fa783eb1.json)
-
-[Extended Data](ext_articles/fa783eb1.ext.json)
 
 ---
 
@@ -2269,121 +2365,5 @@ We have helped our strategic colleagues in this activity.
 [Data](articles/2b4d9c97.json)
 
 [Extended Data](ext_articles/2b4d9c97.ext.json)
-
----
-
-### A strong attack on Israel
-
-*2024-04-14 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195609) · `si`
-
-Iran retaliates against Israel for an attack on its Syrian consulate, killing 13 and 5 army chiefs. The US monitors the situation, with the President discussing it at the White House.
-
-🟩
-
-Foreign media reports that the drones and cruise missiles were attacked by drone missiles to the identified places in Israel yesterday.
-
-It is said that Iran has been attacked by Iran as a result of the attack on the Iran in the Iranian Consul of Syria last April.
-
-Thirteen persons at Iranian consulate were killed and five army chiefs.
-
-The Iranian leader stated that the attack had been launched last night as a result of the attack.
-
-With the attack on Israel, flights in the Middle East had been stopped.
-
-The US has focused on this military situation and the US President has also called a special discussion at the White House.
-
-◼️
-
-[Data](articles/e5986b17.json)
-
-[Extended Data](ext_articles/e5986b17.ext.json)
-
----
-
-### Bitton emergency with key officials
-
-*2024-04-14 07:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181062) · `ta`
-
-"Bitton emergency: US President Joe Biden reportedly informed about Iran's attack, emphasizing strong commitment to protect against threats from Iran and Israel."
-
-🟩
-
-The White House said it was immediately reported to US President Joe Faidan about Iran's attack.
-
-"Our commitment to protect the country from the danger of Israel from Iran and their colleagues is very strong," Biden said.
-
-◼️
-
-[Data](articles/3dd897bc.json)
-
-[Extended Data](ext_articles/3dd897bc.ext.json)
-
----
-
-### Iran launches more than one hundred unmanned air strikes
-
-*2024-04-14 06:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181059) · `ta`
-
-Iran responds to Israel's use of unmanned aircraft and missiles with over 100 unmanned air strikes, targeting areas in the middle of the country.
-
-🟩
-
-According to reports, Iran has launched a response to the use of large numbers of unmanned aircraft and missiles and is able to hear the sounds of Israel in the middle of the country.
-
-◼️
-
-[Data](articles/557caab3.json)
-
-[Extended Data](ext_articles/557caab3.ext.json)
-
----
-
-### Sri Lanka making new economic laws to embed structural reforms
-
-*2024-04-14 06:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-making-new-economic-laws-to-embed-structural-reforms-158444/) · `en`
-
-ECONOMYNEXT – Sri Lanka is making new laws and also revising old legislation following a comprehensive review of past experience and lessons learned, Treasury Secretary Mahinda Siriwardana has said.
-
-Most of these new laws focus on structural changes of the existing executive and administrative structures, Siriwardana was quoted as saying in a speech to ministry officials on April 08.
-
-The laws related to public finance, procurement, public private partnerships, state enterprises and also a law on the offshore economy.
-
-n. New law for facilitating proposed agricultural land lease programme
-
-◼️
-
-[Data](articles/5bafc82c.json)
-
-[Extended Data](ext_articles/5bafc82c.ext.json)
-
----
-
-### The sun tops in several areas
-
-*2024-04-14 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195608) · `si`
-
-Sri Lanka's weather varies across provinces and districts, with sunny days in Western, Sabaragamuwa, Southern, Central, North Western, and Uva provinces, and Ampara and Batticaloa Districts. Showers or thundershowers are expected in several areas, with heavy showers possible in the Western, Central, Sabaragamuwa, and Uva provinces, and Galle, Matara, and Ampara districts. The population is advised to prepare for strong winds and thunderstorm damage.
-
-🟩
-
-At the Western, Sabaragamuwa, Southern, Central, North Western and Uva provinces and Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places, about 2.00.
-
-Showers will occur in the morning of the Eastern Province and can occur in the rest of the island.
-
-Some locations in the Western and Sabaragamuwa Provincial and Galle, Matara and Ampara Districts. Heavy showers can occur at about 75 times.
-
-Some locations in the Western, Central, Sabaragamuwa and Uva provinces are also in some places in Galle, Matara and Kurunegala districts.
-
-The people have been asked to take necessary steps to reduce temporary strong winds and the damages caused by thunderstorms.
-
-The sun is directly above Sri Lanka at 5th April, while the sun traveled to the North.
-
-The sun will overcome the day of Nainathivu, Punchunutthi, Manalkadu, and the Ucongia (14).
-
-◼️
-
-[Data](articles/a3924c35.json)
-
-[Extended Data](ext_articles/a3924c35.ext.json)
 
 ---

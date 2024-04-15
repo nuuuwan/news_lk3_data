@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 21:18:21**
+As of **2024-04-15 21:34:38**
 
 ## Newspaper Stats
 
-*Scraped **18,965** Articles*
+*Scraped **18,968** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ dailyftlk | 1,018
 economynextcom | 1,062
 adalk | 1,583
 tamilmirrorlk | 2,218
-adaderanalk | 2,288
-virakesarilk | 2,824
+adaderanalk | 2,289
+virakesarilk | 2,825
 dailymirrorlk | 2,920
-adaderanasinhalalk | 3,092
+adaderanasinhalalk | 3,093
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,953 (99.9%) of 18,965 articles have been extended.
+18,965 (100.0%) of 18,968 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### SRH කණ්ඩායමෙන් අලුත් වාර්තාවක්
+
+*2024-04-15 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195659) · `si`
+
+IPL ඉතිහාසයේ වැඩිම ලකුණු රැස්කිරීමේ වාර්තාව යළි අලුත් කිරීමට හයිද්‍රාබාද් කණ්ඩායම සමත්විය.
+
+ඒ SRH කණ්ඩායම මෙවර IPL තරගාවලියේදී MI කණ්ඩායමට එරෙහිව පැවති තරගයේදී ලකුණු 277ක් රැස්කරගෙන තිබූ වාර්තාව බිඳ හෙළමිනි.
+
+ඒ අනුව RCB කණ්ඩායමට එරෙහිව දැන් පැවැත්වෙන තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදුන් SRH කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 3ක් පමණක් දැවී ලකුණු 287ක් රැස්කරගනිමිනි.
+
+◼️
+
+[Data](articles/fa958055.json)
+
+---
+
+### வெங்காய ஏற்றுமதி தடையை நீக்கிய இந்திய
+
+*2024-04-15 21:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181182) · `ta`
+
+இந்திய அரசு 10000 மெட்ரிக் டன் வெங்காயம் ஏற்றுமதி செய்ய அனுமதிக்கப்பட்டுள்ள நிலையில், இலங்கைக்கான வெங்காயம் மீதான ஏற்றுமதி தடையையும் இந்திய அரசு நீக்கியுள்ளது.
+
+இந்தியாவின் அண்டை நாடு முதல் கொள்கையை மீண்டும் வலியுறுத்தியதுடன், இது இங்குள்ள சிங்கள மற்றும் தமிழ் புத்தாண்டு முன்னிட்டும் இலங்கைக்கான தடையை நீக்கியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/07ef3141.json)
+
+---
+
+### India lifts ban on onion exports to Sri Lanka
+
+*2024-04-15 21:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98651/india-lifts-ban-on-onion-exports-to-sri-lanka) · `en`
+
+The Government of India has lifted the export ban on onions for Sri Lanka, according to the Indian High Commission in Colombo.
+
+It said the export of onions has been permitted to Sri Lanka, with export of up to 10,000 MT of onions permitted vide the notification of India’s Directorate General of Foreign Trade.
+
+The exemption for Sri Lanka reiterated India’s Neighbourhood First policy, adding to the Sinhala and Tamil New Year festivities here, the High Commission said in a statement on Monday.
+
+Last month, India extended its ban on onion exports indefinitely in a surprise move that had exacerbated high prices in some overseas markets.
+
+Imposed by India - the world’s biggest exporter of the vegetable - in December, the ban was due to expire on March 31.
+
+Countries such as Sri Lanka, Bangladesh, Malaysia, Nepal and the United Arab Emirates rely on imports from India to fill domestic gaps in onion supply and many of those nations have struggled with high prices since the ban.
+
+...
+
+[Data](articles/b123b480.json)
+
+---
 
 ### India lifts export restrictions on onions to Sri Lanka
 
@@ -43,6 +95,8 @@ The Indian High Commission said the exemption for Sri Lanka reiterated India’s
 ◼️
 
 [Data](articles/b2826dc5.json)
+
+[Extended Data](ext_articles/b2826dc5.ext.json)
 
 ---
 
@@ -121,6 +175,8 @@ According to matters already in the public domain, sovereign bond holders are ke
 ...
 
 [Data](articles/8914b319.json)
+
+[Extended Data](ext_articles/8914b319.ext.json)
 
 ---
 
@@ -263,6 +319,8 @@ Several BIMSTEC countries have bilateral trade agreements, such as Sri Lanka and
 ...
 
 [Data](articles/6365af51.json)
+
+[Extended Data](ext_articles/6365af51.ext.json)
 
 ---
 
@@ -410,6 +468,8 @@ A bond maturing on 15.09.2029 closed stable at 12.20/40 percent. (Colombo/Apr15/
 
 [Data](articles/e603f30f.json)
 
+[Extended Data](ext_articles/e603f30f.ext.json)
+
 ---
 
 ### Don't worry about Sri Lankans in Israel
@@ -554,21 +614,33 @@ Lokesh Kanakaraj -Bakiraj Kannan -Rawa Lawrence has designed a helmet in the tit
 
 ---
 
-### “பிரபாகரனுக்கு பின் தமிழ்  இல்லை”
+### "There is no Tamil after Prabhakaran"
 
 *2024-04-15 16:59:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பிரபாகரனுக்கு-பின்-தமிழ்-இல்லை/72-335962) · `ta`
 
-வடக்கு ,கிழக்கு ,மலையகம் மற்றும்கொழும்பை பொறுத்த வகையில் அங்குள்ள தமிழர்கள் தலைவர் வேலுப்பிள்ளை பிரபாகரனுக்கு பின்னர் ஒரு தமிழ் தலைமையை   இன்னும் அடையாளம் காணவில்லை.எனவே  தமிழ் பொது வேட்பாளர் தொடர்பாக தமிழ் மக்கள் ஆர்வமற்றவர்களாகவே இருக்கின்றனர் என பாராளுமன்ற உறுப்பினர் சாள்ஸ் நிர்மலநாதன் தெரிவித்தார்.
+"No Tamil leadership identified after Prabhakaran. TNA hasn't consulted on Tamil general candidate for presidential election. Media comments suggest denial of Tamil rights in elections. Difficulty in identifying a unifying Tamil leader. Tamils not interested in a Tamil general candidate."
 
--மன்னாரில் உள்ள அலுவலகத்தில்  திங்கட்கிழமை (15) காலை இடம்பெற்ற ஊடக சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-தமிழரசு கட்சி எதிர்வரும் ஜனாதிபதி தேர்தலின் போது யாரை ஆதரிப்பது  அல்லது தமிழ் பொது வேட்பாளர் குறித்து இதுவரை எவ்வித கலந்தாலோசனைகளையும் முன்னெடுக்கவில்லை.
+In the case of the North, East and the hill country and the Tamil leader Velupillai Prabhakaran, a Tamil leadership has not yet been identified.
 
-தமிழ் பொது வேட்பாளர் குறித்து ஊடகங்களில் கருத்துக்கள் வெளிவருகின்றன. என்னை பொருத்தமட்டில் அவர்கள் கூறுவதன் பிரதான காரணம் தொடர்ச்சியாக ஜனாதிபதி தேர்தலில் தமிழர்கள் வாக்களித்தாலும் தமிழர்களின் உரிமைகள் தொடர்ச்சியாக மறுக்கப்பட்டு வருகின்றன. இதன் காரணமாக தமிழ் பொது வேட்பாளர் ஒருவரை நிறுத்த வேண்டும் என்கின்ற சிலரது கருத்துக்கள் நிலவுகின்றன.
+He was speaking at a media briefing held at the office in Mannar on Monday morning.
+
+The Tamil National Alliance (TNA) has not yet held any consultation on who supports or the Tamil general candidate during the upcoming presidential election.
+
+Comments on the Tamil general candidate are coming out in the media. The main reason they say that the main reason for me is that Tamils vote in the presidential election are constantly denied the rights of Tamils.. As a result, there are some people who say that a Tamil general candidate should be stopped.
+
+My personal opinion is a very difficult thing to stop a Tamil general candidate.
+
+In the North -East, the people of Colombo, the Tamil leader Velupillai Prabhakaran has not yet recognized a Tamil leadership after the Tamil leader.
+
+It is a difficult answer to identify a party leader or common to all people.
 
 ...
 
 [Data](articles/d0a04ff0.json)
+
+[Extended Data](ext_articles/d0a04ff0.ext.json)
 
 ---
 
@@ -964,6 +1036,8 @@ Melstacorp Plc also saw investor interest (Rs354mn) and closed down at 92.00. (C
 
 [Data](articles/e890af35.json)
 
+[Extended Data](ext_articles/e890af35.ext.json)
+
 ---
 
 ### The death of children
@@ -1268,6 +1342,8 @@ Though entities like the CEB have taken loans for infrastructure, CPC and SriLan
 
 [Data](articles/235caafb.json)
 
+[Extended Data](ext_articles/235caafb.ext.json)
+
 ---
 
 ### The price of chicken meat rose again!
@@ -1349,6 +1425,8 @@ The Company’s revenue increased by 38 percent to 784 million rupees during the
 ...
 
 [Data](articles/476ae1f8.json)
+
+[Extended Data](ext_articles/476ae1f8.ext.json)
 
 ---
 
@@ -1620,6 +1698,8 @@ She takes over from Pankaj Sinha, who was country director for 2019.
 
 [Data](articles/efe01138.json)
 
+[Extended Data](ext_articles/efe01138.ext.json)
+
 ---
 
 ### Police launch investigations into murders that occurred on April 14 and 15
@@ -1845,6 +1925,8 @@ The aircraft has foldable wing-tips allowing it to be parked at airports that ca
 ◼️
 
 [Data](articles/be32b659.json)
+
+[Extended Data](ext_articles/be32b659.ext.json)
 
 ---
 
@@ -2214,72 +2296,6 @@ The Colombo Stock Market opened down; the All Share Price Index was down 0.22 pe
 
 [Data](articles/92b2d2a0.json)
 
----
-
-### A knife and a person who states a person who states
-
-*2024-04-15 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195640) · `si`
-
-A 37-year-old man was murdered in a personal dispute near Wastapattuwa police division. A 21-year-old was assaulted in Hakmana. A 41-year-old man was killed with a sharp weapon in Mahaweligama, Serunuwara.
-
-🟩
-
-Police said that a 37-year-old man had been murdered yesterday (14) at a personal dispute.
-
-The murder had been carried out on the road to the Wastapattuwa police division.
-
-Meanwhile, a 21-year-old person has been assaulted by a 21-year-old man in the Hakmana Police Division in the Hakmana Police Division this morning (15).
-
-A 41-year-old man was killed with a sharp weapon in Mahaweligama area in Serunuwara.
-
-◼️
-
-[Data](articles/67ef7ade.json)
-
-[Extended Data](ext_articles/67ef7ade.ext.json)
-
----
-
-### Teen girl injured in Minneriya shooting
-
-*2024-04-15 09:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teen-girl-injured-in-Minneriya-shooting/108-280701) · `en`
-
-Minneriya, April 15 (Daily Mirror) - A 17-year-old girl was injured in a shooting incident at Girithale in Minneriya last night, Police said.
-
-They said that the Minneriya Police initiated an investigation upon receiving information that the girl had been injured and subsequently admitted to the Polonnaruwa Hospital.
-
-Investigations revealed the shooting had occurred while the girl was visiting her relative's house with her family members.
-
-The motive behind the shooting has not been disclosed as yet and investigations are ongoing.
-
-◼️
-
-[Data](articles/1186e754.json)
-
-[Extended Data](ext_articles/1186e754.ext.json)
-
----
-
-### Sri Lanka seeks parliamentary budget officer for Rs655,000
-
-*2024-04-15 09:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-parliamentary-budget-officer-for-rs655000-158487/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s is seeking an official on a five-year contract to set up a parliamentary budget office (PBO) which will vet financial legislation and proposals, according to a public notice.
-
-“Powerful PBO will work independently and coordinate via Committee on Public Finance and be accountable to Parliament,” COPF chief Harsha de Silva said.
-
-“PBO will analyse every public finance document and brief MPs on costs benefits plus.”
-
-According to the advertisement the applicant should have at least “10-years in government budgeting, financial policy, fiscal policy,  macroeconomic analysis, and/ or the expenditure management system in Sri Lanka.”
-
-The selected person should set up an office with 20 plus persons de Silva said.
-
-“Great opportunity for a former senior multilateral agency professional if below 65 years,” he said.
-
-...
-
-[Data](articles/b9318fc0.json)
-
-[Extended Data](ext_articles/b9318fc0.ext.json)
+[Extended Data](ext_articles/92b2d2a0.ext.json)
 
 ---

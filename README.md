@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 12:48:23**
+As of **2024-04-15 13:03:32**
 
 ## Newspaper Stats
 
-*Scraped **18,886** Articles*
+*Scraped **18,891** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,95 @@ economynextcom | 1,052
 adalk | 1,575
 tamilmirrorlk | 2,212
 adaderanalk | 2,279
-virakesarilk | 2,805
-dailymirrorlk | 2,908
-adaderanasinhalalk | 3,079
+virakesarilk | 2,808
+dailymirrorlk | 2,909
+adaderanasinhalalk | 3,080
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,881 (100.0%) of 18,886 articles have been extended.
+18,886 (100.0%) of 18,891 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### දේව ප්‍රතිමාවක් සමග දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-04-15 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195645) · `si`
+
+දඹරන් සහ මැණික්වලින් නිර්මාණය කළ බවට සැක කෙරෙන දේව ප්‍රතිමාවක් අලෙවි කිරීමට උත්සාහ කළ පුද්ගලයින් දෙදෙනෙකු මුල්ලේරියාව ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+මුල්ලේරියාව පොලීසියට ලද තොරතුරක් මත ඔවුන් අත්අඩංගුවට ගෙන ඇති බව සඳහන් ය.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අංගොඩ සහ කඩුවෙල යන ප්‍රදේශවල පදිංචිකරුවන් වෙයි.
+
+අදාළ දේව ප්‍රතිමාව සම්බන්ධයෙන් පුරාවිද්‍යා දෙපාර්තමේන්තුව දැනුවත් කර ඇති අතර මුල්ලේරියාව පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/8308f953.json)
+
+---
+
+### நான் பொலிஸ் உத்தியோகத்தராகயிருந்திருந்தால் எனது மகனை உடனடியாக சுட்டுகொன்றிருப்பேன் - சிட்னி வணிகவளாக தாக்குதலில் ஈடுபட்டவரின் தந்தை தெரிவிப்பு -  கண்ணீர் மல்க மன்னிப்பும் கோரினார்.
+
+*2024-04-15 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181111) · `ta`
+
+அவுஸ்திரேலியாவின் பொன்டி வணிகவளாகத்தில் சனிக்கிழமை  கத்திக்குத்தில் ஈடுபட்டவரின் தந்தை தனது மகனின் செயலிற்காக கண்ணீர் மல்க மன்னிப்பு கோரியுள்ளார்.
+
+அந்த சந்தர்ப்பத்தில் நான் பொலிஸ் உத்தியோகத்தராகயிருந்திருந்தால் நான் துப்பாக்கி பிரயோகம் மேற்கொண்டு அவரை கொன்றிருப்பேன் என ஜோல் கவுச்சியின் தந்தை அன்ரூ கவுச்சி தெரிவித்துள்ளார்.
+
+தனது 40 வயது மகனின் செயலினை தாங்கிக்கொள்ள முடியாத நிலையில் உள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+எனது மகன் செய்த செயலினால் ஏற்பட்ட வலிகளை வேதனைகளை போக்க கூடிய விதத்தில் என்னால் எதனையும் தெரிவிக்க முடியவில்லை தெரிவிக்க முடியாது என தந்தை தெரிவித்துள்ளார்.
+
+அவர் ஒரு வேதனையான ஆன்மாவாக காணப்பட்டார் வேதனைப்பட்டார் விரக்தியடைந்தார் என தெரிவித்துள்ள அன்ரூ உங்கள் குழந்தைகளிற்கும் தேசத்திற்கும் அவர் செய்தமைக்காக வருந்துகின்றேன் எனவும் தெரிவித்துள்ளார்.
+
+அவுஸ்திரேலியாவின் சிட்னி வணிகவளாகத்தில் கத்திக்குத்தில் ஈடுபட்டவர் தனது மனோநிலை பாதிப்பை கையாள்வதற்கு உரிய உதவிகள் அனைத்தையும் வழங்கியதாக அவரின் தந்தை தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/f96657de.json)
+
+---
+
+### Sydney mall stabbing: Probe underway why man targeted women
+
+*2024-04-15 12:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sydney-mall-stabbing-Probe-underway-why-man-targeted-women/108-280709) · `en`
+
+MELBOURNE, Australia (AP) — Australian police are examining why a lone assailant who stabbed six people to death in a busy Sydney shopping mall and injured more than a dozen others targeted women while avoiding men, a police commissioner said on Monday.
+
+Police shot and killed the homeless assailant, Joel Cauchi, during his knife attack in the Westfield Bondi Junction mall on Saturday near world-famous Bondi Beach.
+
+Police have ruled out terrorism and said the 40-year-old had a history of mental illness.
+
+New South Wales state Police Commissioner Karen Webb said detectives would question Cauchi’s family in a bid to determine his motive. CCTV footage from the mall showed Cauchi targeted women.
+
+“The videos speak for themselves, don’t they? And that’s certainly a line of inquiry for us,” Webb told Australian Broadcasting Corp.
+
+“It’s obvious to me, it’s obvious to detectives that that seems to be an area of interest: that the offender had focused on women and avoided the men,” Webb added.
+
+...
+
+[Data](articles/3b7d77f7.json)
+
+---
+
+### அதிவேக நெடுஞ்சாலைகளின் வருமானம் 15 கோடி ரூபாவை தாண்டியது!
+
+*2024-04-15 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181107) · `ta`
+
+புத்தாண்டு  காலத்தில் நெடுஞ்சாலைகளின் வருமானம் 15 கோடி ரூபா தாண்டியுள்ளது. கடந்த 10ஆம் திகதி முதல் 13ஆம் திகதி வரையில் நெடுஞ்சாலைகள் மூலம்   15 கோடியே 98 இலட்சம் ரூபா வருமானம் கிடைத்துள்ளதாக நெடுஞ்சாலை நடவடிக்கை மற்றும் பராமரிப்புப் பிரிவின் பணிப்பாளர் ஆர்.ஐ.டி.கஹடபிட்டிய தெரிவித்துள்ளார்.
+
+மற்றும்  13ஆம் திகதி  சனிக்கிழமை மட்டும் பெறப்பட்ட நெடுஞ்சாலைகளின் வருமானம் சுமார்  இரண்டு கோடியே 49  இலட்சம்  ரூபாவாக  காணப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/9283f05a.json)
+
+---
 
 ### 10 people die in 24 hours in the country
 
@@ -51,6 +127,26 @@ Drivers of traffic rules;Police Media Spokesperson Nihal Talduwa said that he is
 [Data](articles/dbefa9a9.json)
 
 [Extended Data](ext_articles/dbefa9a9.ext.json)
+
+---
+
+### இலங்கையிலிருந்து அவுஸ்திரேலியாவிற்கு சென்ற பாகிஸ்தான் அகதியும் கத்திக்குத்து தாக்குதலில்  பலி
+
+*2024-04-15 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/181106) · `ta`
+
+இலங்கையிலிருந்து அவுஸ்திரேலியாவிற்கு சென்ற பாகிஸ்தான் அகதியொருவர் சனிக்கிழமை சிட்னியின் பொன்டி வணிக வளாகத்தில் இடம்பெற்ற கத்திக்குத்து தாக்குதலில் கொல்லப்பட்டுள்ளார்.
+
+பொன்டியின் வெஸ்ட்பீல்ட் வணிகவளாகத்தில் பாதுகாப்பு உத்தியோகத்தராக பணியாற்றியவேளை 30வயது பராஜ் தாஹிர் கத்திக்குத்திற்கு இலக்காகி கொல்லப்பட்டுள்ளார்.
+
+ஒருவருடத்திற்கு முன்னர்  ஐக்கியநாடுகளின் அகதிகளிக்கான தூதரகலாயம் ஊடாக அவர் இலங்கையிலிருந்து அவுஸ்திரேலியா சென்றார்.
+
+பாக்கிஸ்தானின் அரசமைபின் கீழ் முஸ்லீம்கள் அல்லாதவர்கள் என அறிவிக்கப்பட்ட சமூகத்தினர் தொடர்ச்சியாக வன்முறைகளை எதிர்கொண்டுள்ள நிலையிலேயே இவர் அங்கிருந்து தப்பிவெளியேறினார்.
+
+அன்று இவர் கடமைக்கு சமூகமளிக்கவேண்டியதில்லை என்ற போதிலும் சில பணியாளர்கள் வருகைதராததால் இவர் பணிக்கு வந்தார் என தகவல்கள் வெளியாகியுள்ளன.
+
+◼️
+
+[Data](articles/bbe966eb.json)
 
 ---
 
@@ -82,19 +178,25 @@ The Kattankudy police said that the student was admitted to the Batticaloa Teach
 
 ---
 
-### අවුරුදු ගිය ජනතාවට කොළඹ එන්න යන්න විශේෂ ප්‍රවාහන පහසුකම්
+### Special transport facilities to come to Colombo to come to Colombo
 
 *2024-04-15 11:48:23* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-ගිය-ජනතාවට-කොළඹ-එන්න-යන්න-විශේෂ-ප්‍රවාහන-පහසුකම්/11-409084) · `si`
 
-අලුත් අවුරුද්දට ගම්බිම් බලා පිටත්ව ගිය ජනතාවට යළි පැමිණීම සඳහා අද 15 සහ හෙට 16 විශේෂ බස් රථ යෙදවීමට කටයුතු කර ඇති බව ජාතික ගමනාගමන කොමිෂන් සභාව පවසයි.
+The National Transport Commission (NTC) and the Department of Railways are providing special transport facilities for people returning to Colombo for the New Year. 15 new trains will be introduced, and the SLTB and private buses will operate from Colombo to Departure.
 
-එමෙන්ම අළුත් අවුරුද්දට  විශේෂ දුම්රිය සේවාක්ද අද 15 ක්‍රියාත්මක කෙරෙන බව දුම්රිය දෙපාර්තමෙන්තුව පවසයි. එම විශේෂ දුම්රිය බදුල්ල, ගාල්ල හා බෙලිඅත්ත සිට කොළඹ දක්වා ධාවනය කෙරෙන බව නියෝජ්‍ය දුම්රිය සාමාන්‍යාධිකාරී එන්.ජේ. ඉදිපොලගේ මහතා පැවසීය.
+🟩
 
-මේ අතර දුම්රියෙන් කොළඹට පැමිණෙන ජනතාව සඳහා කොළඹ සිට පිටපළාත් දක්වා ලංගම හා පෞද්ගලික බස් රථ ක්‍රියාත්මක කෙරෙන බව ප්‍රවාහන අමාත්‍යාංශය පවසයි.
+The National Transport Commission (NTC) has said that the return of the people who were departing to the New Year.
+
+The Department of Railways says that 15 such trains will be implemented today for the New Year.. Deputy Railway General Manager N.J.. He said.
+
+Meanwhile, the SLTB and private buses will be operated from Colombo to Departure to the people who come to Colombo.
 
 ◼️
 
 [Data](articles/9e356ad9.json)
+
+[Extended Data](ext_articles/9e356ad9.ext.json)
 
 ---
 
@@ -112,6 +214,8 @@ According to the latest reports, Iran on Saturday launched hundreds of drones an
 
 [Data](articles/9dde782b.json)
 
+[Extended Data](ext_articles/9dde782b.ext.json)
+
 ---
 
 ### Avurudu Perahera of Kataragama Dewalaya
@@ -123,6 +227,8 @@ The annual traditional Avurudu Perahera of the Ruhunu Maha Kataragama Dewalaya w
 ◼️
 
 [Data](articles/ad6767bf.json)
+
+[Extended Data](ext_articles/ad6767bf.ext.json)
 
 ---
 
@@ -139,6 +245,8 @@ Police Media Spokesman DIG Nihal Thalduwa said five of the eight road accidents 
 ◼️
 
 [Data](articles/e91e339b.json)
+
+[Extended Data](ext_articles/e91e339b.ext.json)
 
 ---
 
@@ -225,6 +333,8 @@ Emergency response efforts have been complicated by poor weather conditions and 
 ...
 
 [Data](articles/95d4eee8.json)
+
+[Extended Data](ext_articles/95d4eee8.ext.json)
 
 ---
 
@@ -2225,107 +2335,5 @@ Showers or thundershowers will occur at several places elsewhere over the island
 [Data](articles/aa1cfd00.json)
 
 [Extended Data](ext_articles/aa1cfd00.ext.json)
-
----
-
-### Israel hails ‘success’ after blocking unprecedented attack from Iran
-
-*2024-04-14 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98627/israel-hails-success-after-blocking-unprecedented-attack-from-iran) · `en`
-
-Israel on Sunday hailed its successful air defenses in the face of an unprecedented attack by Iran, saying it and its allies thwarted 99% of the more than 300 drones and missiles launched toward its territory. But regional tensions remain high, amid fears of further escalation in the event of a possible Israeli counter-strike.
-
-U.S. President Joe Biden said he would convene a meeting of the Group of Seven advanced democracies on Sunday “to coordinate a united diplomatic response to Iran’s brazen attack.” The language indicated that the Biden administration does not want Iran’s assault to spiral into a broader military conflict.
-
-Iran launched the attack in response to a strike widely blamed on Israel on an Iranian consular building in Syria earlier this month which killed two Iranian generals. Israel said Iran launched 170 drones, more than 30 cruise missiles and more than 120 ballistic missiles early Sunday.
-
-...
-
-[Data](articles/2d23b16b.json)
-
-[Extended Data](ext_articles/2d23b16b.ext.json)
-
----
-
-### Drugs seized from trawler off south coast estimated to be worth over Rs. 3, 798 mn
-
-*2024-04-14 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98626/drugs-seized-from-trawler-off-south-coast-estimated-to-be-worth-over-rs-3-798-mn) · `en`
-
-The local multi-day fishing trawler seized by Sri Lanka Navy while carrying a large haul of narcotics off Dondra, in southern Sri Lanka has been brought to the Galle Harbour, along with the arrested suspects.
-
-The Commander of the Navy, Vice Admiral Priyantha Perera arrived at the Galle Harbour to inspect the massive consignment of narcotics taken into custody in this operation.
-
-Sri Lanka Navy intercepted a local multi-day fishing trawler carrying a large haul of narcotics, with 06 suspects aboard about 133 nautical miles (about 246 km) off Dondra, in southern Sri Lanka.
-
-During the operation, the navy seized another local one-day fishing trawler with 04 suspects, believed to have been there to fetch the consignment of narcotics mid-sea.
-
-The operation was mounted by deploying Sri Lanka Coast Guard Ship (SLCG) Samudraraksha which made the apprehension on April 12, 2024.
-
-...
-
-[Data](articles/a28f2688.json)
-
-[Extended Data](ext_articles/a28f2688.ext.json)
-
----
-
-### Superssed to the eups
-
-*2024-04-14 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195619) · `si`
-
-Sri Lanka's Fern Abeykoon won the 150m ephok in Italy, setting a new personal best of 15.9 seconds, the second fastest time ever.
-
-🟩
-
-Sri Lanka Supermarket Fern Abeykoon has won the 150 meters ephok in Italy.
-
-The next 150m event, the 150-meter event, was placed first in the event of 15 and 9 seconds.
-
-That time was the second fastest time he had ever recorded.
-
-◼️
-
-[Data](articles/e10820e4.json)
-
-[Extended Data](ext_articles/e10820e4.ext.json)
-
----
-
-### Two women killed, two injured in car tragedy at Hali-Ela
-
-*2024-04-14 13:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-women-killed-two-injured-in-car-tragedy-at-Hali-Ela/108-280694) · `en`
-
-Badulla, April 14 (Daily Mirror)- Two women were killed and another two injured when a car veered off the road and crashed onto a tree at Hali-Ela on the Badulla-Bandarawela main road.
-
-A group from the same family met with the tragedy while they were visiting a relative's house in Hali-Ela in view of the New Year.
-
-The deceased are a 70-year-old woman and a 51-year-old woman from Dompe, Puwakwatte.
-
-The 53-year-old father and a 22-year-old daughter have been admitted to the Badulla Teaching Hospital.
-
-◼️
-
-[Data](articles/77db4d07.json)
-
-[Extended Data](ext_articles/77db4d07.ext.json)
-
----
-
-### Efficient healthcare services ensured during festive season: Health Ministry
-
-*2024-04-14 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Efficient-healthcare-services-ensured-during-festive-season-Health-Ministry/108-280693) · `en`
-
-Colombo, April 14 (Daily Mirror) Health authorities have been instructed by Health Minister Ramesh Pathirana to take necessary steps to ensure efficient and continuous healthcare services during the festive season, Health Secretary Palitha Maheepala said.
-
-Accidents, incidents of food poisoning and non-communicable diseases are usually on the rise during the festive season.
-
-Dr. Maheepala said all steps have been taken to provide prompt services to patients who are admitted to hospitals due to accidents, incidents of food poisoning and non-communicable diseases.
-
-He said ambulance services are also on standby for twenty-four hours to provide services in cases of emergency.
-
-◼️
-
-[Data](articles/ff71b4b8.json)
-
-[Extended Data](ext_articles/ff71b4b8.ext.json)
 
 ---

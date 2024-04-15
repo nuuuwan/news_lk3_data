@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 18:34:12**
+As of **2024-04-15 18:51:59**
 
 ## Newspaper Stats
 
-*Scraped **18,945** Articles*
+*Scraped **18,946** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ tamilmirrorlk | 2,217
 adaderanalk | 2,287
 virakesarilk | 2,822
 dailymirrorlk | 2,918
-adaderanasinhalalk | 3,090
+adaderanasinhalalk | 3,091
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,944 (100.0%) of 18,945 articles have been extended.
+18,945 (100.0%) of 18,946 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### ඉපැරණි පතහා ළිඳට පුංචි දරුවෙකු බිලිවෙයි
+
+*2024-04-15 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195657) · `si`
+
+ගම්පොළ නගරයේ අඹගමුව වීදියේ ඇති ඉපැරණි අනාරක්ෂිත ළිඳක් වන පතහා ළිඳට ඇදවැටීමෙන් කුඩා දරුවෙකු මියගොස් ඇත.
+
+මෙලෙස මියගොස් ඇත්තේ එම කොළඹ ජාවත්ත ප්‍රදේශයේ පදිංචිව සිටි වයස අවුරුදු 9ක කුඩා දරුවෙකි.
+
+දරුවාගේ මව්පියන් ගම්පොළ ප්‍රදේශයේ පදිංචිකරුවන් වන අතර නිවාඩු කාලයේ ඔවුන් සිය මහගෙදර වෙත පැමිණ සිටි අවස්ථාවේ මෙම අනතුර සිදුව ඇත.
+
+එහිදී දරුවා නිවසේ සෙල්ලම් කරමින් සිට ඇති අතර මව වෙළෙඳසැලකට ගොස් සිට ඇත.
+
+නැවත සිය නිවස වෙත පැමිණි මව දරුවා නොමැති බව දැක කලබලයට පත්ව සොයාබැලීමේදී ප්‍රදේශවාසීන්ද දරුවා සෙවීමට එක්ව තිබේ.
+
+එහිදී ප්‍රදේශවාසීන් එම නිවස ආසන්නයේ ඇති පතහා ළිඳට බැස සෝදිසි කිරීමේදී එහි වැටී දියේ ගිලී සිටි දරුවා සොයාගෙන ඇති බවට වාර්තාවෙයි.
+
+අනතුරුව දරුවා කඩිනමින් ගම්පොළ රෝහල වෙත ඇතුළත් කිරීමට පියවර ගෙන තිබුණ ද ඒ වනවිටත් දරුවා මියගොස් තිබූ බව අනාවරණය වී ඇත.
+
+ප්‍රදේශවාසීන් පවසන්නේ මීට පෙර ද එම අනාරක්ෂිත ළිඳට ම ඇදවැටීමෙන් කාන්තාවක් සහ කුඩා දරුවෙකු ද මියගොස් ඇති බවය.
+
+◼️
+
+[Data](articles/2472973e.json)
+
+---
 
 ### 8-year-old dies after ‘concrete giraffe’ falls on him in garden
 
@@ -47,6 +73,8 @@ Police said that the concrete statue of a giraffe that was placed in the garden 
 ◼️
 
 [Data](articles/ba01da93.json)
+
+[Extended Data](ext_articles/ba01da93.ext.json)
 
 ---
 
@@ -2275,27 +2303,5 @@ Tourism, Land, Sports and Youth Affairs Minister Harin Fernando and some local p
 [Data](articles/fd94ca9c.json)
 
 [Extended Data](ext_articles/fd94ca9c.ext.json)
-
----
-
-### Synthetic fibrosis
-
-*2024-04-15 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181083) · `ta`
-
-Cystic fibrosis, a hereditary genetic disorder, severely damages organs like lungs and digestive systems. It's recommended for affected children to undergo annual lung functionality tests. Symptoms include coughing, sinus infections, and abnormal growth. Ignoring these can lead to respiratory infections, diabetes, and more. Treatment varies by organ, including pharmaceuticals, surgery, and oxygen therapy.
-
-🟩
-
-If one of the ten thousand babies born in South Asian countries, a genetic defect called cystic fibrosis, is a complete relief treatment.. Doctors say they can live over the age of fifty.
-
-Cystic fifthrosis is a genetic disorder that is hereditary. Such affected people cause severe damage in other organs, including lungs and digestive systems. Especially in the lung area causes mucus stagnant. It also affects not only the lungs but also the digestive tract and the reproductive organs.
-
-The impact of such a disease is born in children. Due to this, doctors recommend that they undergo a test of lung functionality annually, especially when they are born, doctors recommend that children who are born with such a respiratory disease should not be affected by respiratory illness annually.
-
-...
-
-[Data](articles/5c4ab94c.json)
-
-[Extended Data](ext_articles/5c4ab94c.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 01:03:25**
+As of **2024-04-16 01:18:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,096
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,989 (100.0%) of 18,995 articles have been extended.
+18,995 (100.0%) of 18,995 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ As a result, the island’s fragile defences attracted a rash of free-lance merc
 ...
 
 [Data](articles/17aab942.json)
+
+[Extended Data](ext_articles/17aab942.ext.json)
 
 ---
 
@@ -74,21 +76,29 @@ Indian High Commissioner to Sri Lanka Santosh Jha stressed that India will conti
 
 [Data](articles/6ccfe305.json)
 
+[Extended Data](ext_articles/6ccfe305.ext.json)
+
 ---
 
-### நீர்த்தேக்கத்தில் மூழ்கி மூவர் உயிரிழப்பு
+### Drowning in the reservoir
 
 *2024-04-16 00:45:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்த்தேக்கத்தில்-மூழ்கி-மூவர்-உயிரிழப்பு/175-335975) · `ta`
 
-தெல்தெனிய கும்புக்கந்துர பகுதியில் விக்டோரியா நீர்த்தேக்கத்தில் மூழ்கி பெண் ஒருவர் உள்ளிட்ட மூவர் உயிரிழந்துள்ளனர்.
+Three people drowned in Victoria Reservoir, Kumbukandura, Teldeniya. A 37-year-old man from Aluthwella jumped in to save them.
 
-திஹாரிய பகுதியை வசிப்பிடமாகக் கொண்ட தம்பதியினர் தெல்தெனிய பகுதியிலுள்ள தமது உறவினர் வீட்டுக்குச் சென்றிருந்தபோது விக்டோரியா நீர்த்தேக்கத்தில் நீராடச் சென்றுள்ளனர் என்று  பொலிஸார் தெரிவித்துள்ளனர். 23 வயதான கணவன், 22 வயதான மனைவியும் நீரில் மூழ்கி உயிரிழந்துள்ளனர்.
+🟩
 
-நீரில் மூழ்கியவர்களைக் காப்பாற்றுவதற்காக நீர்த்தேக்கத்தில் குதித்த திகனை அளுத்வெல்ல பகுதியைச் சேர்ந்த 37 வயதான நபரும் உயிரிழந்துள்ளார். (a)
+Three people, including a woman drowned in the Victoria reservoir in Kumbukandura area in Teldeniya.
+
+The couple, who lived in the Tihariya area, had gone to their relative's home in the Teldeniya area, police said that the Victoria reservoir had been swimming in the reservoir.. The 23 -year -old husband and a 22 -year -old wife are drowned.
+
+A 37 -year -old man from Aluthwella, who jumped into the reservoir to save the drowning. (A)
 
 ◼️
 
 [Data](articles/21718c31.json)
+
+[Extended Data](ext_articles/21718c31.ext.json)
 
 ---
 
@@ -380,6 +390,8 @@ We are in the midst of an existentially threatening economic crisis. With an eve
 
 [Data](articles/8bfa285e.json)
 
+[Extended Data](ext_articles/8bfa285e.ext.json)
+
 ---
 
 ### Committee studying permitting vehicle imports on priority basis: Siyambalapitiya
@@ -413,6 +425,8 @@ Avurudu invites us to awaken ourselves. Typically, it is the time to rejoice, re
 ...
 
 [Data](articles/3695825d.json)
+
+[Extended Data](ext_articles/3695825d.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 13:03:32**
+As of **2024-04-15 13:18:23**
 
 ## Newspaper Stats
 
-*Scraped **18,891** Articles*
+*Scraped **18,895** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,60 +15,122 @@ newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,052
-adalk | 1,575
+adalk | 1,576
 tamilmirrorlk | 2,212
-adaderanalk | 2,279
-virakesarilk | 2,808
+adaderanalk | 2,280
+virakesarilk | 2,809
 dailymirrorlk | 2,909
-adaderanasinhalalk | 3,080
+adaderanasinhalalk | 3,081
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,886 (100.0%) of 18,891 articles have been extended.
+18,891 (100.0%) of 18,895 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### දේව ප්‍රතිමාවක් සමග දෙදෙනෙක් අත්අඩංගුවට
+### වෙඩිවැදුණු තරුණිය මරුට
+
+*2024-04-15 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195646) · `si`
+
+පොළොන්නරුව ගිරිතලේ යාය 4 ප්‍රදේශයේ ඊයේ (14) රාත්‍රියේ සිදුවූ වෙඩිතැබීමකින් තුවාල ලැබූ 17 හැවිරිදි තරුණිය මියගොස් තිබේ.
+
+40 හැවිරිදි පුද්ගලයෙකු විසින් අදාළ වෙඩිතැබීම සිදුකර ඇති අතර ඔහු හා තරුණිය අතර තිබු පෞද්ගලික ආරවුලක් මත වෙඩිතැබීම සිදුකර ඇති බව වාර්තා වෙයි.
+
+පොළොන්නරුව ගිරිතලේ යාය 4 ප්‍රදේශයේදී ඊයේ රාත්‍රි 8.45ට පමණ වෙඩිතැබීම සිදුවී තිබුණි.
+
+ඝාතනයට ලක්වූ තරුණිය වෙඩිතැබීම සිදුකළ පුද්ගලයා සමග කලකට ඉහතදී ප්‍රේම සම්බන්ධතාවයක් ආරම්භ කර ඇති අතර පසුව මීට වසර දෙකකට ඉහතදී ඔහු සමඟ එක්ව විසීමට නිවසකට ගොස් තිබේ.
+
+කෙසේ වෙතත් එම තැනැත්තාගෙන් නිතර සිදුවූ කරදර හා හිරිහැර හේතුවෙන් තරුණිය යළි සිය මව්පියන්ගේ නිවසට පැමිණ ඇත්තේ මීට සති කිහිපයකට පෙරය.
+
+පසුව එම පුද්ගලයා යළි තමා සමඟ වාසයට පැමිණෙන ලෙස තරුණියට අවස්ථා ගණනාවකදී බලපෑම් කළද තරුණියට ඊට කැමැත්ත පළ කර නොමැත.
+
+එවැනි පසුබිමක අදාළ තරුණිය ඊයේ රාත්‍රියේ සිය මව සමග අසල්වැසි නිවසක රාත්‍රියේ අවුරුදු සාදයකට සහභාගිවීමට ගොස් තිබුණි.
+
+එම ස්ථානයට පැමිණි සැකකරු හෙවත් 40 හැවිරිදි පුද්ගලයා තරුණියට වෙඩිතබා පළා ගොස් ඇත.
+
+...
+
+[Data](articles/dfdb453c.json)
+
+---
+
+### சாய்ந்தமருதில் கடலரிப்பால் பாதிக்கப்பட்டுள்ள பிரதேசத்தை பாதுகாக்க துரித நடவடிக்கை
+
+*2024-04-15 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181112) · `ta`
+
+சாய்ந்தமருது மருதூர் சதுக்கம் மற்றும் அதனை அண்டிய மீன்பிடி பிரதேசம் கடலரிப்பால் பாதிக்கப்பட்டுள்ளமை தொடர்பில்  சாய்ந்தமருது இயற்கையை நேசிக்கும் மன்ற செயற்பாட்டாளர்களினால் முகநூல் மற்றும் ஊடகங்கள் வாயிலாக சுட்டிக் காட்டப்பட்டிருந்தது.
+
+இவ்விடயம் தொடர்பில்  இயற்கையை நேசிக்கும் மன்ற செயற்பாட்டாளரும், திகாமடுல்ல மாவட்ட பாராளுமன்ற உறுப்பினர்  ஏ.எல்.எம்.அதாஉல்லாஹ்வின்  சாய்ந்தமருது பிரதேச ஒருங்கிணைப்புக்குழு இணைப்பாளருமான எம்.எஸ்.எம்.சபான் சாய்ந்தமருது பிரதேச செயலாளர் மற்றும் கரையோரம் பேணல் திணைக்களம் என்பவற்றின் கவனத்திற்கு கொண்டுவந்ததையடுத்து கல் அணை போடும் நடவடிக்கை தற்போது துரித கதியில் முன்னெடுக்கப்பட்டு வருகின்றது.
+
+இதற்காக முயற்சி செய்த இணைப்பாளர் சபான், பிரதேச செயலாளர், கரையோரம் பேணல் திணைக்கள மாவட்ட பொறியியலாளர், கரையோரம் பேணல் திணைக்கள அதிகாரிகள் உட்பட அனைவருக்கும் இயற்கையை நேசிக்கும் மன்றம் நன்றி தெரிவிக்கின்றது.
+
+...
+
+[Data](articles/db2f6e39.json)
+
+---
+
+### If I had been a police officer, I would have shot my son immediately - the father of the Sydney's attack on the attacker and apologized for tears.
+
+*2024-04-15 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181111) · `ta`
+
+Anthru Gauchi, father of the Sydney knife attacker, apologized for his son's actions, expressing regret and acknowledging the pain caused. He also mentioned his son's medical history and the support he received.
+
+🟩
+
+The father of a knife on Saturday in Australia's Ponti businessman has apologized for his son's actions.
+
+If I had been a police officer on that occasion, I would have fired and killed him, "Jol Gauchi's father Anthru Gauchi said.
+
+He said he was unable to withstand his 40 -year -old son.
+
+The father said that I could not tell anything that I could not report the pains of my son's actions.
+
+He said that he was seen as a painful soul and said, "I am sorry for his doing to your children and nation."
+
+Her father said that the person involved in the Sydney businessman in Australia had provided all the help to deal with his attitude.
+
+He said that my son I loved a dangerous man. He is a dangerous person to me.
+
+The father of the knife said that if I had seen something, I would have done something else.
+
+I brought it to a meal before. He embraced me completely. God is my son.
+
+The mother of a knife attack has said that her son has been receiving medical care for 18 years.
+
+...
+
+[Data](articles/f96657de.json)
+
+[Extended Data](ext_articles/f96657de.ext.json)
+
+---
+
+### Two arrested with anoma
 
 *2024-04-15 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195645) · `si`
 
-දඹරන් සහ මැණික්වලින් නිර්මාණය කළ බවට සැක කෙරෙන දේව ප්‍රතිමාවක් අලෙවි කිරීමට උත්සාහ කළ පුද්ගලයින් දෙදෙනෙකු මුල්ලේරියාව ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+Two individuals suspected of selling a statue designed by Dambaran and Gems were arrested in Mulleriyawa. Residents of Angoda and Kaduwela, they were caught based on police information. The Archaeological Department is now involved, and further investigations are underway.
 
-මුල්ලේරියාව පොලීසියට ලද තොරතුරක් මත ඔවුන් අත්අඩංගුවට ගෙන ඇති බව සඳහන් ය.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරුවන් අංගොඩ සහ කඩුවෙල යන ප්‍රදේශවල පදිංචිකරුවන් වෙයි.
+Two persons who were trying to sell a statue who was suspected of designed to be created by Dambaran and Gems have been arrested in Mulleriyawa area.
 
-අදාළ දේව ප්‍රතිමාව සම්බන්ධයෙන් පුරාවිද්‍යා දෙපාර්තමේන්තුව දැනුවත් කර ඇති අතර මුල්ලේරියාව පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+They were arrested on information received by the Mulleriyawa police.
+
+The suspects are residents of Angoda and Kaduwela.
+
+The Archaeological Department has been informed of the statue and the Mulleriyawa police are conducting further investigations.
 
 ◼️
 
 [Data](articles/8308f953.json)
 
----
-
-### நான் பொலிஸ் உத்தியோகத்தராகயிருந்திருந்தால் எனது மகனை உடனடியாக சுட்டுகொன்றிருப்பேன் - சிட்னி வணிகவளாக தாக்குதலில் ஈடுபட்டவரின் தந்தை தெரிவிப்பு -  கண்ணீர் மல்க மன்னிப்பும் கோரினார்.
-
-*2024-04-15 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181111) · `ta`
-
-அவுஸ்திரேலியாவின் பொன்டி வணிகவளாகத்தில் சனிக்கிழமை  கத்திக்குத்தில் ஈடுபட்டவரின் தந்தை தனது மகனின் செயலிற்காக கண்ணீர் மல்க மன்னிப்பு கோரியுள்ளார்.
-
-அந்த சந்தர்ப்பத்தில் நான் பொலிஸ் உத்தியோகத்தராகயிருந்திருந்தால் நான் துப்பாக்கி பிரயோகம் மேற்கொண்டு அவரை கொன்றிருப்பேன் என ஜோல் கவுச்சியின் தந்தை அன்ரூ கவுச்சி தெரிவித்துள்ளார்.
-
-தனது 40 வயது மகனின் செயலினை தாங்கிக்கொள்ள முடியாத நிலையில் உள்ளதாக அவர் தெரிவித்துள்ளார்.
-
-எனது மகன் செய்த செயலினால் ஏற்பட்ட வலிகளை வேதனைகளை போக்க கூடிய விதத்தில் என்னால் எதனையும் தெரிவிக்க முடியவில்லை தெரிவிக்க முடியாது என தந்தை தெரிவித்துள்ளார்.
-
-அவர் ஒரு வேதனையான ஆன்மாவாக காணப்பட்டார் வேதனைப்பட்டார் விரக்தியடைந்தார் என தெரிவித்துள்ள அன்ரூ உங்கள் குழந்தைகளிற்கும் தேசத்திற்கும் அவர் செய்தமைக்காக வருந்துகின்றேன் எனவும் தெரிவித்துள்ளார்.
-
-அவுஸ்திரேலியாவின் சிட்னி வணிகவளாகத்தில் கத்திக்குத்தில் ஈடுபட்டவர் தனது மனோநிலை பாதிப்பை கையாள்வதற்கு உரிய உதவிகள் அனைத்தையும் வழங்கியதாக அவரின் தந்தை தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/f96657de.json)
+[Extended Data](ext_articles/8308f953.ext.json)
 
 ---
 
@@ -92,19 +154,57 @@ New South Wales state Police Commissioner Karen Webb said detectives would quest
 
 [Data](articles/3b7d77f7.json)
 
+[Extended Data](ext_articles/3b7d77f7.ext.json)
+
 ---
 
-### அதிவேக நெடுஞ்சாலைகளின் வருமானம் 15 கோடி ரூபாவை தாண்டியது!
+### Police launch investigations into murders that occurred on April 14 and 15
+
+*2024-04-15 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98641/police-launch-investigations-into-murders-that-occurred-on-april-14-and-15) · `en`
+
+Sri Lanka Police announced that investigations have been launched by the respective police stations regarding the murders that took place on April 14 and 15 in Hakmana, Alayapattuwa, Serunuwara and Galewela areas.
+
+Issuing a statement the Police Media Division said that it was observed that the relevant crimes have taken place due to personal disputes. Preliminary investigations revealed that the suspects of these incidents were drunk, according to police.
+
+Furthermore, a total of eight road accidents with 10 deaths have been reported during the last 24 hours from various parts of the country, the police said, adding that these accidents have also left 10 other individuals injured.
+
+...
+
+[Data](articles/e54dffe2.json)
+
+---
+
+### සිසුවියකට වෙඩිතබයි
+
+*2024-04-15 12:19:10* · [`adalk`](https://www.ada.lk/breaking_news/සිසුවියකට-වෙඩිතබයි/11-409085) · `si`
+
+මින්නේරිය යාය 04 ගිරිතලේ ප්‍රදේශයේදී  වෙඩි වැදුණු 17 හැවිරිදි සිසුවියක් ඊයේ 14දා රාත්‍රියේ පොළොන්නරුව රෝහලට ඇතුලත් කර ඇති බව මින්නේරිය පොලීසිය පවසයි.
+
+වෙඩි වැදුණු සිසුවිය පවුලේ අය සමග ඥාති නිවසකට ගොස් සිටියදී මෙම සිද්ධියට මුහුණදී ඇති අතර මෙම වෙඩි තැබීම කවුරුන් විසින් සිදු කළේද යන්න තවම අනාවරණය වී නොමැති බවත් වැඩිදුර පරීක්ෂණ  මින්නේරිය පොලීසිය විසින් සිදුකරන බව සදහන් කරයි.
+
+◼️
+
+[Data](articles/b5a796ca.json)
+
+---
+
+### The revenue of the highways exceeds 15 crores!
 
 *2024-04-15 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181107) · `ta`
 
-புத்தாண்டு  காலத்தில் நெடுஞ்சாலைகளின் வருமானம் 15 கோடி ரூபா தாண்டியுள்ளது. கடந்த 10ஆம் திகதி முதல் 13ஆம் திகதி வரையில் நெடுஞ்சாலைகள் மூலம்   15 கோடியே 98 இலட்சம் ரூபா வருமானம் கிடைத்துள்ளதாக நெடுஞ்சாலை நடவடிக்கை மற்றும் பராமரிப்புப் பிரிவின் பணிப்பாளர் ஆர்.ஐ.டி.கஹடபிட்டிய தெரிவித்துள்ளார்.
+Highways revenue surpassed Rs 15 crore during New Year, with Rs 15 crore 98 lakhs earned from 10th to 13th.
 
-மற்றும்  13ஆம் திகதி  சனிக்கிழமை மட்டும் பெறப்பட்ட நெடுஞ்சாலைகளின் வருமானம் சுமார்  இரண்டு கோடியே 49  இலட்சம்  ரூபாவாக  காணப்பட்டுள்ளது.
+🟩
+
+During the New Year, the revenue of highways has exceeded Rs 15 crore.The Director of Highway Action and Maintenance Division RIT Kahadapitiya said that the highways have earned 15 crores 98 lakhs of rupees through highways from 10th to 13th.
+
+And on Saturday only on Saturday, the income of the highways was about Rs.
 
 ◼️
 
 [Data](articles/9283f05a.json)
+
+[Extended Data](ext_articles/9283f05a.ext.json)
 
 ---
 
@@ -130,23 +230,29 @@ Drivers of traffic rules;Police Media Spokesperson Nihal Talduwa said that he is
 
 ---
 
-### இலங்கையிலிருந்து அவுஸ்திரேலியாவிற்கு சென்ற பாகிஸ்தான் அகதியும் கத்திக்குத்து தாக்குதலில்  பலி
+### Pakistani refugee who traveled from Sri Lanka to Australia
 
 *2024-04-15 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/181106) · `ta`
 
-இலங்கையிலிருந்து அவுஸ்திரேலியாவிற்கு சென்ற பாகிஸ்தான் அகதியொருவர் சனிக்கிழமை சிட்னியின் பொன்டி வணிக வளாகத்தில் இடம்பெற்ற கத்திக்குத்து தாக்குதலில் கொல்லப்பட்டுள்ளார்.
+A Pakistani refugee, Paraj Tahir, was killed in a knife attack at Sydney's Pontie Business Complex. He had escaped persecution in Pakistan and traveled to Australia through the UNHCR.
 
-பொன்டியின் வெஸ்ட்பீல்ட் வணிகவளாகத்தில் பாதுகாப்பு உத்தியோகத்தராக பணியாற்றியவேளை 30வயது பராஜ் தாஹிர் கத்திக்குத்திற்கு இலக்காகி கொல்லப்பட்டுள்ளார்.
+🟩
 
-ஒருவருடத்திற்கு முன்னர்  ஐக்கியநாடுகளின் அகதிகளிக்கான தூதரகலாயம் ஊடாக அவர் இலங்கையிலிருந்து அவுஸ்திரேலியா சென்றார்.
+A Pakistani refugee from Sri Lanka to Australia has been killed in a knife attack at Sydney's Pontie Business Complex on Saturday.
 
-பாக்கிஸ்தானின் அரசமைபின் கீழ் முஸ்லீம்கள் அல்லாதவர்கள் என அறிவிக்கப்பட்ட சமூகத்தினர் தொடர்ச்சியாக வன்முறைகளை எதிர்கொண்டுள்ள நிலையிலேயே இவர் அங்கிருந்து தப்பிவெளியேறினார்.
+30 -year -old Paraj Tahir has been killed and killed when he worked as a security officer in Pontie's Westfield Business.
 
-அன்று இவர் கடமைக்கு சமூகமளிக்கவேண்டியதில்லை என்ற போதிலும் சில பணியாளர்கள் வருகைதராததால் இவர் பணிக்கு வந்தார் என தகவல்கள் வெளியாகியுள்ளன.
+A year ago, he traveled from Sri Lanka to Australia through the embassy of the United Nations Refugee.
+
+He escaped from the state of Pakistan, who were continuously confronted by the communities who were declared non -Muslim under the state of Pakistan.
+
+It is reported that he did not have to attend the duty on that day, but he came to work because some employees did not visit.
 
 ◼️
 
 [Data](articles/bbe966eb.json)
+
+[Extended Data](ext_articles/bbe966eb.ext.json)
 
 ---
 
@@ -2247,93 +2353,5 @@ Sri Lankan Ambassador Nimal Bandara further requested that the embassy is in foc
 [Data](articles/18edad2e.json)
 
 [Extended Data](ext_articles/18edad2e.ext.json)
-
----
-
-### Group of Sri Lankans enroute to Israel stranded in Dubai due to tension in region
-
-*2024-04-14 15:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Group-of-Sri-Lankans-enroute-to-Israel-stranded-in-Dubai-due-to-tension-in-region/108-280696) · `en`
-
-Colombo, April 14 (Daily Mirror)- A group of Sri Lankans enroute to Tel Aviv in Israel on board Fly Dubai flight FZ 1625 have been stranded in Dubai because air travel is disrupted due to tensions in the region between Iran and Israel.
-
-Sri Lankan Ambassador in Israel Nimal Bandara told the Daily Mirror that the flight with some Sri Lankans among the passengers on board was diverted to Dubai following the information about the air strikes by Iran into Israeli territory.
-
-He said there are flight delays in the region and requested Sri Lankans travelling to or via the region to contact their respective airlines for possible changes in flight schedules.
-
-◼️
-
-[Data](articles/38c9b41b.json)
-
-[Extended Data](ext_articles/38c9b41b.ext.json)
-
----
-
-### Ambulance Services are ready 24 hours a day
-
-*2024-04-14 15:12:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்புலன்ஸ்-சேவைகள்-24-மணி-நேரமும்-தயார்-நிலையில்-உள்ளன/175-335929) · `ta`
-
-Health Secretary Palitha Mahebala emphasized the readiness of ambulance services 24/7 to ensure efficient health services during the festive season, addressing increased accidents, food poisoning, and infectious diseases.
-
-🟩
-
-Health Secretary Palitha Mahebala said that the authorities have been given a directive by the Minister of Health Ramesh Pathirana to take necessary steps to ensure the efficiency and continuous health services during the festive season.
-
-In general, accidents, food poisoning and infectious diseases are increasing during the festive season.
-
-Dr. Mahebala said that all measures have been taken to provide fast services to patients admitted to hospitals due to accidents, food poisonous incidents and infectious diseases.
-
-He said ambulance services were ready for twenty -four hours to provide services in times of emergency.
-
-◼️
-
-[Data](articles/33ad0870.json)
-
-[Extended Data](ext_articles/33ad0870.ext.json)
-
----
-
-### Ambulance Services 24 hours alert
-
-*2024-04-14 15:12:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்புலன்ஸ்-சேவைகள்-24-மணி-நேரமும்-உஷார்/175-335929) · `ta`
-
-Health Secretary Palitha Mahebala emphasized the importance of efficient health services during the festive season, highlighting the increase in accidents, food poisoning, and infectious diseases. All measures have been taken to ensure fast services for patients admitted due to these incidents. Ambulance services are ready 24/7 for emergencies.
-
-🟩
-
-Health Secretary Palitha Mahebala said that the authorities have been given a directive by the Minister of Health Ramesh Pathirana to take necessary steps to ensure the efficiency and continuous health services during the festive season.
-
-In general, accidents, food poisoning and infectious diseases are increasing during the festive season.
-
-Dr. Mahebala said that all measures have been taken to provide fast services to patients admitted to hospitals due to accidents, food poisonous incidents and infectious diseases.
-
-He said ambulance services were ready for twenty -four hours to provide services in times of emergency.
-
-◼️
-
-[Data](articles/fcfb5ea5.json)
-
-[Extended Data](ext_articles/fcfb5ea5.ext.json)
-
----
-
-### Advisory issued on severe lightning, heavy showers
-
-*2024-04-14 14:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Advisory-issued-on-severe-lightning-heavy-showers/108-280695) · `en`
-
-Colombo, April 14 (Daily Mirror)- The Natural Hazards Early Warning Centre of the Meteorology Department has issued a weather warning for thundershowers accompanied by severe lightning at several places in the Western, Sabaragamuwa, Southern, Central and North-Western Provinces.
-
-Thundershowers accompanied by severe lightning can occur at several places in the Western, Sabaragamuwa, Southern, Central and North-Western Provinces, the Department said.
-
-It said heavy showers of about 100 mm can be expected at some places in the Western, Sabaragamuwa, Uva and Southern Provinces and in the Ampara district.
-
-The Department said showers or thundershowers will occur at times in the Eastern and Uva Provinces and in the Hambantota, Nuwara Eliya and Matale districts while several spells of showers may occur in the Northern and North-Central Provinces.
-
-Showers or thundershowers will occur at several places elsewhere over the island after 2.00 p.m., the Department said.
-
-...
-
-[Data](articles/aa1cfd00.json)
-
-[Extended Data](ext_articles/aa1cfd00.ext.json)
 
 ---

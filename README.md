@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 13:18:23**
+As of **2024-04-15 13:33:46**
 
 ## Newspaper Stats
 
@@ -26,51 +26,69 @@ adaderanasinhalalk | 3,081
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,891 (100.0%) of 18,895 articles have been extended.
+18,895 (100.0%) of 18,895 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
 
-### වෙඩිවැදුණු තරුණිය මරුට
+### Woman girl shot dead
 
 *2024-04-15 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195646) · `si`
 
-පොළොන්නරුව ගිරිතලේ යාය 4 ප්‍රදේශයේ ඊයේ (14) රාත්‍රියේ සිදුවූ වෙඩිතැබීමකින් තුවාල ලැබූ 17 හැවිරිදි තරුණිය මියගොස් තිබේ.
+A 17-year-old girl was shot dead in Polonnaruwa, Sri Lanka, in a dispute with her 40-year-old ex-boyfriend. The incident occurred at Giritale on the 4th night. The girl had left her ex-boyfriend due to harassment but was persuaded to return. The suspect fled, and police are investigating.
 
-40 හැවිරිදි පුද්ගලයෙකු විසින් අදාළ වෙඩිතැබීම සිදුකර ඇති අතර ඔහු හා තරුණිය අතර තිබු පෞද්ගලික ආරවුලක් මත වෙඩිතැබීම සිදුකර ඇති බව වාර්තා වෙයි.
+🟩
 
-පොළොන්නරුව ගිරිතලේ යාය 4 ප්‍රදේශයේදී ඊයේ රාත්‍රි 8.45ට පමණ වෙඩිතැබීම සිදුවී තිබුණි.
+The 17-year-old girl was killed in a shooting at Giritale in Polonnaruwa yesterday (14).
 
-ඝාතනයට ලක්වූ තරුණිය වෙඩිතැබීම සිදුකළ පුද්ගලයා සමග කලකට ඉහතදී ප්‍රේම සම්බන්ධතාවයක් ආරම්භ කර ඇති අතර පසුව මීට වසර දෙකකට ඉහතදී ඔහු සමඟ එක්ව විසීමට නිවසකට ගොස් තිබේ.
+The shooting has been carried out by a 40-year-old man and has been shooting on a personal dispute between him and his girl.
 
-කෙසේ වෙතත් එම තැනැත්තාගෙන් නිතර සිදුවූ කරදර හා හිරිහැර හේතුවෙන් තරුණිය යළි සිය මව්පියන්ගේ නිවසට පැමිණ ඇත්තේ මීට සති කිහිපයකට පෙරය.
+The shooting was shooting at the 4th night in Polonnaruwa Giritale.
 
-පසුව එම පුද්ගලයා යළි තමා සමඟ වාසයට පැමිණෙන ලෙස තරුණියට අවස්ථා ගණනාවකදී බලපෑම් කළද තරුණියට ඊට කැමැත්ත පළ කර නොමැත.
+Along with the person who was shot, had commenced a romantic relationship.
 
-එවැනි පසුබිමක අදාළ තරුණිය ඊයේ රාත්‍රියේ සිය මව සමග අසල්වැසි නිවසක රාත්‍රියේ අවුරුදු සාදයකට සහභාගිවීමට ගොස් තිබුණි.
+However, the girl had returned to their parents home a few weeks after the frequent trouble and harassment.
 
-එම ස්ථානයට පැමිණි සැකකරු හෙවත් 40 හැවිරිදි පුද්ගලයා තරුණියට වෙඩිතබා පළා ගොස් ඇත.
+The girl had later influenced a number of occasions to the young woman to return to the country.
 
-...
+In such a background, the girl had gone to attend a neighboring house in a neighboring house with her mother last night.
+
+The suspect, or 40, has been shot dead.
+
+The suspect has fled the area and Minneriya Police have commenced further investigations into the suspect.
+
+◼️
 
 [Data](articles/dfdb453c.json)
 
+[Extended Data](ext_articles/dfdb453c.ext.json)
+
 ---
 
-### சாய்ந்தமருதில் கடலரிப்பால் பாதிக்கப்பட்டுள்ள பிரதேசத்தை பாதுகாக்க துரித நடவடிக்கை
+### Rapid measures to protect the area affected by seaweed
 
 *2024-04-15 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181112) · `ta`
 
-சாய்ந்தமருது மருதூர் சதுக்கம் மற்றும் அதனை அண்டிய மீன்பிடி பிரதேசம் கடலரிப்பால் பாதிக்கப்பட்டுள்ளமை தொடர்பில்  சாய்ந்தமருது இயற்கையை நேசிக்கும் மன்ற செயற்பாட்டாளர்களினால் முகநூல் மற்றும் ஊடகங்கள் வாயிலாக சுட்டிக் காட்டப்பட்டிருந்தது.
+Activists highlight seaweed impact on Sainthamaruthu Marudur Square. MSM Saban, a Natural Forum Operator, and the Coastal Department are implementing a stone dam. The area's beach, Marudur Square, is increasingly affected by rising sea levels, with a concrete road embedded into the sea and a risk of the fisherman's building collapsing. Despite previous sea security measures, the area lacks adequate protection. The Coastal Secretariat is urged to protect Marudur Square and fund the construction of the Kal Dam in the Kalaniyaru Malikaikkadu areas, as demanded by the local community.
 
-இவ்விடயம் தொடர்பில்  இயற்கையை நேசிக்கும் மன்ற செயற்பாட்டாளரும், திகாமடுல்ல மாவட்ட பாராளுமன்ற உறுப்பினர்  ஏ.எல்.எம்.அதாஉல்லாஹ்வின்  சாய்ந்தமருது பிரதேச ஒருங்கிணைப்புக்குழு இணைப்பாளருமான எம்.எஸ்.எம்.சபான் சாய்ந்தமருது பிரதேச செயலாளர் மற்றும் கரையோரம் பேணல் திணைக்களம் என்பவற்றின் கவனத்திற்கு கொண்டுவந்ததையடுத்து கல் அணை போடும் நடவடிக்கை தற்போது துரித கதியில் முன்னெடுக்கப்பட்டு வருகின்றது.
+🟩
 
-இதற்காக முயற்சி செய்த இணைப்பாளர் சபான், பிரதேச செயலாளர், கரையோரம் பேணல் திணைக்கள மாவட்ட பொறியியலாளர், கரையோரம் பேணல் திணைக்கள அதிகாரிகள் உட்பட அனைவருக்கும் இயற்கையை நேசிக்கும் மன்றம் நன்றி தெரிவிக்கின்றது.
+The Sainthamaruthu Marudur Square and its adjoining fishing area have been pointed out by the Facebook and the media by the activists who love nature.
+
+MSM Saban, a Natural Forum Operator and Digamadulla District Parliamentarian ALM Ataullah Divisional Coordinating Committee Coordinator MSM Saban Sainthamaruthu Divisional Secretary and the Coastal Maintaining Department, has been implementing the stone dam.
+
+The Coordinator Saban, the Divisional Secretary, the District Engineer of the Coastal Department, the District Engineer and the Coastal Panchayat Department thanked the Natural Forum.
+
+Meanwhile, as the speed of the sea has increased again, the beach, known as the Marudur Square, which is gathering for entertainment, is increasingly affected.
+
+In addition, part of the concrete road, which is associated with the square, has been embedded into the sea and the fisherman's Baldeva building in the area is facing the danger of collapsing.
 
 ...
 
 [Data](articles/db2f6e39.json)
+
+[Extended Data](ext_articles/db2f6e39.ext.json)
 
 ---
 
@@ -172,19 +190,27 @@ Furthermore, a total of eight road accidents with 10 deaths have been reported d
 
 [Data](articles/e54dffe2.json)
 
+[Extended Data](ext_articles/e54dffe2.ext.json)
+
 ---
 
-### සිසුවියකට වෙඩිතබයි
+### Shot to a student
 
 *2024-04-15 12:19:10* · [`adalk`](https://www.ada.lk/breaking_news/සිසුවියකට-වෙඩිතබයි/11-409085) · `si`
 
-මින්නේරිය යාය 04 ගිරිතලේ ප්‍රදේශයේදී  වෙඩි වැදුණු 17 හැවිරිදි සිසුවියක් ඊයේ 14දා රාත්‍රියේ පොළොන්නරුව රෝහලට ඇතුලත් කර ඇති බව මින්නේරිය පොලීසිය පවසයි.
+Minneriya, 17, shot by cousin, hospitalized. Shooting by Minneriya Police not revealed.
 
-වෙඩි වැදුණු සිසුවිය පවුලේ අය සමග ඥාති නිවසකට ගොස් සිටියදී මෙම සිද්ධියට මුහුණදී ඇති අතර මෙම වෙඩි තැබීම කවුරුන් විසින් සිදු කළේද යන්න තවම අනාවරණය වී නොමැති බවත් වැඩිදුර පරීක්ෂණ  මින්නේරිය පොලීසිය විසින් සිදුකරන බව සදහන් කරයි.
+🟩
+
+Minneriya, a 17-year-old student was admitted to the Polonnaruwa Hospital last night.
+
+The girl who was shot was facing a cousin with his family and had not yet revealed that the shooting was carried out by the Minneriya Police.
 
 ◼️
 
 [Data](articles/b5a796ca.json)
+
+[Extended Data](ext_articles/b5a796ca.ext.json)
 
 ---
 

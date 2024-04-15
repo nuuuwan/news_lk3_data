@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 00:03:58**
+As of **2024-04-16 00:18:20**
 
 ## Newspaper Stats
 
-*Scraped **18,977** Articles*
+*Scraped **18,981** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,71 @@ economynextcom | 1,064
 adalk | 1,583
 tamilmirrorlk | 2,218
 adaderanalk | 2,292
-virakesarilk | 2,825
-dailymirrorlk | 2,921
+virakesarilk | 2,827
+dailymirrorlk | 2,923
 adaderanasinhalalk | 3,096
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,977 (100.0%) of 18,977 articles have been extended.
+18,977 (100.0%) of 18,981 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-04-16 (Tuesday)
+
+### Deflationary policies for debt repayment
+
+*2024-04-16 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Deflationary-policies-for-debt-repayment/172-280720) · `en`
+
+World Bank and the IMF are not unaware of the economic devastation caused by their policies
+
+The World Bank and the IMF Spring meetings begin this week in Washington. And with the worst sovereign debt crisis in decades, the pronouncements at these meetings will be monitored closely by many for the relief that debt-distressed countries in the Global South can expect. However, regardless of what is discussed and announced, the policies of the World Bank and the IMF will continue to safeguard the interests of global finance capital to the detriment of the social and economic lives of the people affected by the debt crisis.
+
+...
+
+[Data](articles/333c8a68.json)
+
+---
+
+### CBK’s case against Sirisena and moral suitability of politicians
+
+*2024-04-16 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/CBKs-case-against-Sirisena-and-moral-suitability-of-politicians/172-280718) · `en`
+
+The Sri Lanka Freedom Party (SLFP) which ruled the country alone and under coalitions for the most part (40 years) of the 76 years since  independence is currently entangled in the second toughest leadership feud in its history. The first leadership tussle occurred in early 1980s, soon after the World’s first Prime Minister Sirimavo Bandaranaike was deprived of her civic rights.
+
+Interestingly, both conflicts involved a female member of the Bandaranaike family and a person by the name of Maithripala – the first tussle was between Sirimavo Bandaranaike and a former minister Maithripala Senanayake and the second between former Presidents Chandrika Bandaranaike Kumaratunga and Maithripala Sirisena. Both battles went to courts.
+
+...
+
+[Data](articles/4515bec5.json)
+
+---
+
 ### 2024-04-15 (Monday)
+
+### சாதனைகள் குவித்த சன்ரைசர்ஸ் ஹைதராபாத்திடம் பணிந்தது றோயல் செலஞ்சர்ஸ் பெங்களூரு
+
+*2024-04-15 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/181184) · `ta`
+
+பெங்களூரு எம். சின்னஸ்வாமி விளையாட்டரங்கில் திங்கட்கிழமை (15) நடைபெற்ற இண்டியன் பிறீமியர் லீக் 30ஆவது போட்டியில் றோயல் செலஞ்சர்ஸ் பெங்களூருவை 25 ஓட்டங்களால் சன்ரைசர்ஸ் ஹைதராபாத் வெற்றிகொண்டது.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட சன்ரைசர்ஸ் ஹைதராபாத் அணி 20 ஓவர்களில் இரண்டு சாதனைகளுடன் 3 விக்கெட்களை இழந்து 287 ஓட்டங்களைக் குவித்தது.
+
+முன்வரிசை வீரர்கள் ஐவரும் மிகத் திறமையாக துடுப்பெடுத்தாடி சன்ரைசர்ஸ் ஹைதராபாத்தின் சாதனைகளில் பங்காற்றியிருந்தனர்.
+
+ஐபிஎல் வரலாற்றில் ஓர் இன்னிங்ஸில் அதிக சிக்ஸ்கள், அதிகூடிய எண்ணிக்கை ஆகிய இரண்டு சாதனைகளையே சன்ரைசர்ஸ் ஹைதராபாத் நிலைநாட்டியது.
+
+ஹைதராபாத்தில் மார்ச் 27ஆம் திகதி நடைபெற்ற மும்பை இண்டியன்ஸுக்கு எதிரான போட்டியில் 19 சிக்ஸ்களை விளாசியதுடன் 277 ஓட்டங்களை மொத்தமாக குவித்தது. இவை இரண்டும் சன்ரைசர்ஸ் ஹைதராபாத்தினால் நிலைநாட்டப்பட்டிருந்த முன்னைய சாதனைகளாகும்.
+
+றோயல் செலஞ்ர்ஸ் பெங்களூரு அணிக்கு எதிரான இந்தப் போட்டியில் ஆரம்பம் முதல் கடைசிவரை சன்ரைசர்ஸ் ஹைதராபாத் துடுப்பாட்ட வீரர்களின் அதிரடி தொடர்ந்த வண்ணம் இருந்தது.
+
+...
+
+[Data](articles/5335136d.json)
+
+---
 
 ### Sri Lanka allowed to import 10,000MT of onions from India
 
@@ -53,6 +105,20 @@ A large Indian and South Asian expat community lives in the UAE. (Colombo/Apr15/
 [Data](articles/bbd4d337.json)
 
 [Extended Data](ext_articles/bbd4d337.ext.json)
+
+---
+
+### வாகன இறக்குமதிக்கான கட்டுப்பாடுகளை இலகுபடுத்த விரைவில் நடவடிக்கை - ரஞ்சித் சியம்பலாபிடிய
+
+*2024-04-15 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181183) · `ta`
+
+நாட்டின் பொருளாதார நிலைமை இன்னும் ஓரளவு ஸ்திர நிலைக்கு வரும் சந்தர்ப்பத்தில் பொருட்கள் மற்றும் வாகனம் இறக்குமதி செய்யும் வரையறையை இலகுபடுத்த முடியும் என்ற நம்பிக்கை இருக்கிறது என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிடிய தெரிவித்தார்.
+
+நாட்டின் வெளிநாட்டுக் கையிருப்பு தொடர்பில் பதற்றப்படத் தேவையில்லை. எமது கையிருப்பை படிப்படியாக அதிகரித்து வருகிறோம், மத்திய வங்கியிடம் எமது கையிருப்பு தொகை பூஞ்சியத்திலேயே இருந்தது. என்றாலும் தற்போது அது 5பில்லியன் டொலர்வரை அதிகரித்துக்கொண்டிருக்கிறோம். பாரிய அர்ப்பணிப்புடனே இதனை மேற்கொள்ள முடியுமாகி இருக்கிறது. அதேபோன்று பாரியளவில் பொருட்களுக்கு தட்டுப்பாடு இருந்து வந்தது. அதனை தற்போது கட்டுப்படுத்த முடியுமாகி இருக்கிறது.
+
+...
+
+[Data](articles/5be26fba.json)
 
 ---
 
@@ -2235,105 +2301,5 @@ Police said that the fire broke out in a room of the house and the woman who was
 [Data](articles/639bd843.json)
 
 [Extended Data](ext_articles/639bd843.ext.json)
-
----
-
-### At least 18 dead as landslides hit Indonesia's Sulawesi island
-
-*2024-04-15 11:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/At-least-18-dead-as-landslides-hit-Indonesia-s-Sulawesi-island/108-280704) · `en`
-
-JAKARTA, April 14 (Reuters) - Landslides on Indonesia's Sulawesi island on the weekend killed at least 18 people with rescue efforts, including police sniffer dogs, still ongoing for two missing people, local authorities said on Monday.
-
-The local government in South Sulawesi also reported that two people were in a critical condition in hospital.
-
-Landslides, triggered by high-intensity rains, affected two villages in the region of Tana Toraja, in South Sulawesi and destroyed four homes, according to the country's disaster mitigation data on Sunday.
-
-Photos of affected villages provided by the agency showed rescuers trawling through the rubble for survivors, with homes flattened and reduced to planks of wood and concrete.
-
-Emergency response efforts have been complicated by poor weather conditions and damage to roads into the affected areas, making it difficult for vehicles, including ambulances to evacuate victims, the agency previously said.
-
-...
-
-[Data](articles/95d4eee8.json)
-
-[Extended Data](ext_articles/95d4eee8.ext.json)
-
----
-
-### Thundershowers in the country today
-
-*2024-04-15 11:01:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-நாட்டில்-இடியுடன்-கூடிய-பலத்த-மழை-பெய்யும்/175-335950) · `ta`
-
-Thundershowers expected in Eastern, Uva, Southern Provinces, and Mannar district. Increased temperatures in Western and North Western Provinces. Heavy rains in Sabaragamuwa, Upper, Southern, Uva provinces, and parts of Ampara and Batticaloa. Snow in Sabaragamuwa and Western Provinces. Rainfall or thunderstorms in sea regions from Trincomalee to Colombo and Hambantota. Strong winds and lightning may cause turbulence. Public advised to be vigilant.
-
-🟩
-
-The Department of Meteorology has said that the rainfall in the Eastern, Uva and Southern Provinces will be somewhat increased today.
-
-Increased temperatures in the Western and North Western Provinces as well as in Mannar district today.
-
-Rainfall or thunderstorms are expected in the Eastern and Uva provinces as well as in Hambantota, Nuwara Eliya and Matale districts.
-
-Showers or thunderstorms are expected after two o'clock in the afternoon.
-
-Heavy rains are expected to occur in some parts of the Sabaragamuwa, Upper, Southern and Uva provinces, as well as some areas of Ampara and Batticaloa districts.
-
-In the morning, the snow will be seen in some parts of the Sabaragamuwa and Western Provinces as well as some of the Galle and Matara districts.
-
-Rainfall or thunderstorms can occur in the sea regions along the coast of Trincomalee to Batticaloa to Batticaloa.
-
-Rainfall or thunderstorms are expected in many parts of the sea regions from Mannar to Colombo and Hambantota.
-
-...
-
-[Data](articles/19660423.json)
-
-[Extended Data](ext_articles/19660423.ext.json)
-
----
-
-### Miniser injury
-
-*2024-04-15 10:56:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டுச்-சம்பவத்தில்-சிறுமி-காயம்/175-335949) · `ta`
-
-A 17-year-old girl was injured in a shooting in Kiritale, Minneria, last night. Police are investigating after the girl was admitted to Polonnaruwa Hospital. It's unclear why the shooting occurred.
-
-🟩
-
-A 17 -year -old girl was injured in the shooting that took place last night in Kiritale, Minneria, police said.
-
-The Minoriya police have begun investigations following information that the girl was injured and admitted to the Polonnaruwa Hospital.
-
-Investigations have revealed that the girl was firing while the girl went to her relative's house with her family members.
-
-The reason for the shooting has not yet been released and investigations are ongoing.
-
-◼️
-
-[Data](articles/1207ef6b.json)
-
-[Extended Data](ext_articles/1207ef6b.ext.json)
-
----
-
-### Special Transport Service to people who go to their own places
-
-*2024-04-15 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181092) · `ta`
-
-The National Transport Commission has arranged special bus services for villagers returning home on New Year's Day and the next day. Chairman Sashi Welgama highlighted the arrangements to meet passenger needs. Additionally, special rail trips are available, as noted by NJ Idipolake, Deputy Manager of the Railway Department.
-
-🟩
-
-The National Transport Commission has said that arrangements have been made to conduct special bus services today (15) and tomorrow (16) for the people who went to their villages on the occasion of the New Year.
-
-Transport Commission Chairman Sashi Welgama said that arrangements have been made to serve the buses in accordance with the needs of passengers.
-
-In addition, some special rail trips have been arranged based on the facilities of the passengers on the train, said the Deputy Manager of the Railway Department NJ Idipolake.
-
-◼️
-
-[Data](articles/687d0d60.json)
-
-[Extended Data](ext_articles/687d0d60.ext.json)
 
 ---

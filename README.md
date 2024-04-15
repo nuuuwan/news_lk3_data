@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 21:52:52**
+As of **2024-04-15 22:03:21**
 
 ## Newspaper Stats
 
-*Scraped **18,969** Articles*
+*Scraped **18,970** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,018
 economynextcom | 1,062
 adalk | 1,583
 tamilmirrorlk | 2,218
-adaderanalk | 2,290
+adaderanalk | 2,291
 virakesarilk | 2,825
 dailymirrorlk | 2,920
 adaderanasinhalalk | 3,093
@@ -26,11 +26,49 @@ adaderanasinhalalk | 3,093
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,968 (100.0%) of 18,969 articles have been extended.
+18,969 (100.0%) of 18,970 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### BIMSTEC Secretary General visits Sri Lanka; briefs President on expectations from 6th summit
+
+*2024-04-15 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98653/bimstec-secretary-general-visits-sri-lanka-briefs-president-on-expectations-from-6th-summit) · `en`
+
+The Secretary General of the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) Indra Mani Pandey has undertaken an official visit to Sri Lanka recently.
+
+This was his first official visit to Sri Lanka since taking charge as Secretary General on 4 January this year.
+
+During the visit, the secretary general called on Ranil Wickremesinghe, President of Sri Lanka, M.U.M. Ali Sabry, PC., MP., Minister of Foreign Affairs of Sri Lanka, and Ramesh Pathirana, Minister of Health of Sri Lanka, said the BIMSTEC headquarters on Monday.
+
+He also held meetings with the Secretary to the Ministry of Foreign Affairs, Aruni Wijewardane; Secretary to the Prime Minister, Anura Dissanayake; Secretary to the Ministry of Health, Dr Palitha Maheepala; and the Secretary to the Ministry of Education, Thilaka Jayasundara.
+
+...
+
+[Data](articles/772b41f7.json)
+
+---
+
+### Indian to remove the onion export barrier
+
+*2024-04-15 21:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/181182) · `ta`
+
+India lifts onion export ban to Sri Lanka, despite earlier restrictions.
+
+🟩
+
+While the Government of India has been allowed to export 10000 metric tonnes of onions, the Government of India has lifted the export ban on Sri Lanka.
+
+It is noteworthy that India's neighboring country has reiterated the first policy and has lifted the ban on Sri Lanka in front of the Sinhala and Tamil New Year.
+
+◼️
+
+[Data](articles/07ef3141.json)
+
+[Extended Data](ext_articles/07ef3141.ext.json)
+
+---
 
 ### Iranian President to inaugurate ‘Uma Oya’ project during Sri Lanka visit
 
@@ -54,6 +92,8 @@ One of the important features of the Uma Oya project is the scattered and divers
 
 [Data](articles/b63085c8.json)
 
+[Extended Data](ext_articles/b63085c8.ext.json)
+
 ---
 
 ### A new record from the SRH team
@@ -75,26 +115,6 @@ Accordingly, the SRH scored 287 runs for the loss of 28 wickets at the end of 20
 [Data](articles/fa958055.json)
 
 [Extended Data](ext_articles/fa958055.ext.json)
-
----
-
-### Indian to remove the onion export barrier
-
-*2024-04-15 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/181182) · `ta`
-
-India lifts onion export ban to Sri Lanka, despite earlier restrictions.
-
-🟩
-
-While the Government of India has been allowed to export 10000 metric tonnes of onions, the Government of India has lifted the export ban on Sri Lanka.
-
-It is noteworthy that India's neighboring country has reiterated the first policy and has lifted the ban on Sri Lanka in front of the Sinhala and Tamil New Year.
-
-◼️
-
-[Data](articles/07ef3141.json)
-
-[Extended Data](ext_articles/07ef3141.ext.json)
 
 ---
 
@@ -2289,29 +2309,5 @@ Pandya said Pathirana made the difference for CSK as the target for definitely g
 [Data](articles/7067570e.json)
 
 [Extended Data](ext_articles/7067570e.ext.json)
-
----
-
-### Shot dead to a 17 year old girl
-
-*2024-04-15 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195641) · `si`
-
-A 17-year-old girl was shot and hospitalized in Giritale last night. The incident involved a family member and is under investigation by the Minneriya Police.
-
-🟩
-
-A 17-year-old student was hospitalized, police said.
-
-The shooting was carried out in the Giritale area at the Giritale area last night.
-
-The student was facing a cousin with his family.
-
-The shooting has not yet been revealed, and the Minneriya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/becc4dd5.json)
-
-[Extended Data](ext_articles/becc4dd5.ext.json)
 
 ---

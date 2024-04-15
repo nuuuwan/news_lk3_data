@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 00:33:58**
+As of **2024-04-16 01:03:25**
 
 ## Newspaper Stats
 
-*Scraped **18,992** Articles*
+*Scraped **18,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ bbccomsinhala | 199
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,017
-dailyftlk | 1,028
+dailyftlk | 1,030
 economynextcom | 1,064
 adalk | 1,583
-tamilmirrorlk | 2,218
+tamilmirrorlk | 2,219
 adaderanalk | 2,292
 virakesarilk | 2,827
 dailymirrorlk | 2,924
@@ -26,11 +26,71 @@ adaderanasinhalalk | 3,096
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,981 (99.9%) of 18,992 articles have been extended.
+18,989 (100.0%) of 18,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### Is the Indian Ocean “Zone of Peace” sinking in troubled waters?
+
+*2024-04-16 00:52:18* · [`dailyftlk`](https://www.ft.lk/opinion/Is-the-Indian-Ocean-Zone-of-Peace-sinking-in-troubled-waters/14-760640) · `en`
+
+An aerial view of the Village of Kolhuvaariyaafushi, Mulaaku Atoll, the Maldives, after the Indian Ocean Tsunami in December 2004. Credit: UN Photo/Evan Schneider
+
+UNITED NATIONS (IDN) – Just after a group of mercenaries tried to unsuccessfully oust the government of Maldives in 1979, I asked a Maldivian diplomat, using a military jargon, about the strength of his country’s “standing army.”
+
+“Standing army?”, the UN diplomat asked with mock surprise, and remarked perhaps jokingly, “We don’t even have a sitting army.”
+
+With a population of about 250,000, in a bygone era, (currently over 500,000), the Maldives was perhaps one of the world’s few countries, along with Costa Rica, with no armed forces, fighter planes, combat helicopters, warships, missiles or battle tanks.
+
+As a result, the island’s fragile defences attracted a rash of free-lance mercenaries and bounty hunters who tried to take over the country twice-- once in 1979, and a second time in 1988.
+
+...
+
+[Data](articles/17aab942.json)
+
+---
+
+### India remains Sri Lanka’s most reliable ally, trusted partner: High Commissioner
+
+*2024-04-16 00:51:41* · [`dailyftlk`](https://www.ft.lk/opinion/India-remains-Sri-Lanka-s-most-reliable-ally-trusted-partner-High-Commissioner/14-760639) · `en`
+
+Highlight broadening bilateral cooperation boosted by India’s advancing national capabilities
+
+Describes relationship between India and Sri Lanka as uniquely fraternal, unlike any other
+
+Says cooperation between two countries driven by sense of duty, obligation rooted in India’s neighbourhood-first policy and SAGAR vision
+
+Outlines broadening scope of collaboration spanning to infrastructure, economic engagement, trade, investment, culture, education, tourism, security and defence
+
+Emphasis India’s strides in defence capability development as exports soar to $ 2. 6 b
+
+Assures to provide viable, affordable, and modern solutions for the Sri Lankan military, strengthening bilateral defence ties
+
+Indian High Commissioner to Sri Lanka Santosh Jha stressed that India will continue to be Sri Lanka’s most steadfast ally and a reliable, trustworthy partner.
+
+...
+
+[Data](articles/6ccfe305.json)
+
+---
+
+### நீர்த்தேக்கத்தில் மூழ்கி மூவர் உயிரிழப்பு
+
+*2024-04-16 00:45:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்த்தேக்கத்தில்-மூழ்கி-மூவர்-உயிரிழப்பு/175-335975) · `ta`
+
+தெல்தெனிய கும்புக்கந்துர பகுதியில் விக்டோரியா நீர்த்தேக்கத்தில் மூழ்கி பெண் ஒருவர் உள்ளிட்ட மூவர் உயிரிழந்துள்ளனர்.
+
+திஹாரிய பகுதியை வசிப்பிடமாகக் கொண்ட தம்பதியினர் தெல்தெனிய பகுதியிலுள்ள தமது உறவினர் வீட்டுக்குச் சென்றிருந்தபோது விக்டோரியா நீர்த்தேக்கத்தில் நீராடச் சென்றுள்ளனர் என்று  பொலிஸார் தெரிவித்துள்ளனர். 23 வயதான கணவன், 22 வயதான மனைவியும் நீரில் மூழ்கி உயிரிழந்துள்ளனர்.
+
+நீரில் மூழ்கியவர்களைக் காப்பாற்றுவதற்காக நீர்த்தேக்கத்தில் குதித்த திகனை அளுத்வெல்ல பகுதியைச் சேர்ந்த 37 வயதான நபரும் உயிரிழந்துள்ளார். (a)
+
+◼️
+
+[Data](articles/21718c31.json)
+
+---
 
 ### Deflationary policies for debt repayment
 
@@ -112,6 +172,8 @@ Serving as a key global benchmark for innovation in the textile industry, the Ge
 
 [Data](articles/6641ac60.json)
 
+[Extended Data](ext_articles/6641ac60.ext.json)
+
 ---
 
 ### Pearson unveils PTE Core English exam suite and recognises key agents
@@ -128,6 +190,8 @@ In fact, during 2023, over 3200 applications were made by Sri Lankans seeking Pe
 
 [Data](articles/6259a668.json)
 
+[Extended Data](ext_articles/6259a668.ext.json)
+
 ---
 
 ### Sri Lanka Pakistan Business Council engages in diplomatic outreach
@@ -142,6 +206,8 @@ The Sri Lanka Pakistan Business Council of The Ceylon Chamber of Commerce, recen
 
 [Data](articles/40f99a25.json)
 
+[Extended Data](ext_articles/40f99a25.ext.json)
+
 ---
 
 ### Seamless travel from the Makumbura Multimodal Centre with Uber
@@ -155,6 +221,8 @@ Travellers arriving at the Makumbura Multimodal Centre (MMC) can now get a relia
 ...
 
 [Data](articles/79b09261.json)
+
+[Extended Data](ext_articles/79b09261.ext.json)
 
 ---
 
@@ -174,6 +242,8 @@ An 18-km drive from the airstrip through dusty arid land is the site for his gro
 
 [Data](articles/cde65b8d.json)
 
+[Extended Data](ext_articles/cde65b8d.ext.json)
+
 ---
 
 ### International Coaching Week to feature 20 global experts
@@ -191,6 +261,8 @@ Luckily, The International Authority for Professional Coaching and Mentoring (IA
 ...
 
 [Data](articles/b41a303a.json)
+
+[Extended Data](ext_articles/b41a303a.ext.json)
 
 ---
 
@@ -248,6 +320,8 @@ Due to inflation the cost of goods increased massively. The cost of increased go
 
 [Data](articles/f3a760b2.json)
 
+[Extended Data](ext_articles/f3a760b2.ext.json)
+
 ---
 
 ### The super-cricket of England citizes
@@ -287,6 +361,8 @@ A reader of the Part I of this article (available at: https://www.ft.lk/columns/
 ...
 
 [Data](articles/b533aa0f.json)
+
+[Extended Data](ext_articles/b533aa0f.ext.json)
 
 ---
 
@@ -2201,73 +2277,5 @@ The girl who was shot was facing a cousin with his family and had not yet reveal
 [Data](articles/b5a796ca.json)
 
 [Extended Data](ext_articles/b5a796ca.ext.json)
-
----
-
-### The revenue of the highways exceeds 15 crores!
-
-*2024-04-15 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181107) · `ta`
-
-Highways revenue surpassed Rs 15 crore during New Year, with Rs 15 crore 98 lakhs earned from 10th to 13th.
-
-🟩
-
-During the New Year, the revenue of highways has exceeded Rs 15 crore.The Director of Highway Action and Maintenance Division RIT Kahadapitiya said that the highways have earned 15 crores 98 lakhs of rupees through highways from 10th to 13th.
-
-And on Saturday only on Saturday, the income of the highways was about Rs.
-
-◼️
-
-[Data](articles/9283f05a.json)
-
-[Extended Data](ext_articles/9283f05a.ext.json)
-
----
-
-### 10 people die in 24 hours in the country
-
-*2024-04-15 12:12:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-24-மணித்தியாலத்தில்-10-பேர்-மரணம்/175-335953) · `ta`
-
-In the last 24 hours, 10 people died in 8 road accidents across the country, with 5 crashes attributed to driver errors.
-
-🟩
-
-In the last 24 hours, 10 people have died in 8 road accidents in different parts of the country.
-
-Police say that 5 of these eight accidents were due to the crash on the road.
-
-Drivers of traffic rules;Police Media Spokesperson Nihal Talduwa said that he is being asked to follow the appropriately.
-
-◼️
-
-[Data](articles/dbefa9a9.json)
-
-[Extended Data](ext_articles/dbefa9a9.ext.json)
-
----
-
-### Pakistani refugee who traveled from Sri Lanka to Australia
-
-*2024-04-15 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/181106) · `ta`
-
-A Pakistani refugee, Paraj Tahir, was killed in a knife attack at Sydney's Pontie Business Complex. He had escaped persecution in Pakistan and traveled to Australia through the UNHCR.
-
-🟩
-
-A Pakistani refugee from Sri Lanka to Australia has been killed in a knife attack at Sydney's Pontie Business Complex on Saturday.
-
-30 -year -old Paraj Tahir has been killed and killed when he worked as a security officer in Pontie's Westfield Business.
-
-A year ago, he traveled from Sri Lanka to Australia through the embassy of the United Nations Refugee.
-
-He escaped from the state of Pakistan, who were continuously confronted by the communities who were declared non -Muslim under the state of Pakistan.
-
-It is reported that he did not have to attend the duty on that day, but he came to work because some employees did not visit.
-
-◼️
-
-[Data](articles/bbe966eb.json)
-
-[Extended Data](ext_articles/bbe966eb.ext.json)
 
 ---

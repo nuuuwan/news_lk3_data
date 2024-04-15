@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 13:51:24**
+As of **2024-04-15 14:04:18**
 
 ## Newspaper Stats
 
-*Scraped **18,896** Articles*
+*Scraped **18,897** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,052
 adalk | 1,576
 tamilmirrorlk | 2,212
 adaderanalk | 2,280
-virakesarilk | 2,809
+virakesarilk | 2,810
 dailymirrorlk | 2,910
 adaderanasinhalalk | 3,081
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 3,081
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,895 (100.0%) of 18,896 articles have been extended.
+18,896 (100.0%) of 18,897 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### எதிர்காலத்தின் தேவைக்கு ஏற்ப வாகனங்களை இறக்குமதி செய்ய அனுமதி!
+
+*2024-04-15 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181120) · `ta`
+
+எதிர்காலத்தின் தேவைக்கு ஏற்ப வாகனங்களை இறக்குமதி செய்ய அனுமதி வழங்கப்படும் என  நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய  ஊடகங்களுக்கு தெரிவித்துள்ளார்.
+
+தற்போது மத்திய வங்கிக்கு சொந்தமான வெளிநாட்டு கையிருப்பு 5 பில்லியன் அமெரிக்க டொலராக காணப்படுவதாகவும் அவர் மேலும்  தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/455bb3f9.json)
+
+---
 
 ### Covid death reported from Jaffna Hospital
 
@@ -47,6 +61,8 @@ Public Health Inspectors (PHIs) have taken steps to trace her close contacts.
 ◼️
 
 [Data](articles/ec3c0495.json)
+
+[Extended Data](ext_articles/ec3c0495.ext.json)
 
 ---
 
@@ -2341,29 +2357,5 @@ Mr. Bandara expressed that there were Sri Lankans on the flight, who were on the
 [Data](articles/0051ae4d.json)
 
 [Extended Data](ext_articles/0051ae4d.ext.json)
-
----
-
-### Showers with strong lightning into several provinces
-
-*2024-04-14 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195621) · `si`
-
-The Meteorological Department warns of strong lightning in Western, Sabaragamuwa, Central, and Southern provinces, advising the public to take precautions against lightning dangers.
-
-🟩
-
-The Department of Meteorological Department has issued a pronouncement of strong lightning.
-
-The announcement states that there is an increase in lightning with thundershowers in the Western, Sabaragamuwa, Central, Southern provinces.
-
-There may be temporary strong winds in those areas when thunderstorms occur.
-
-The Department of Meteorology urges the public to take necessary steps to reduce the dangers of lightning.
-
-◼️
-
-[Data](articles/f39c3772.json)
-
-[Extended Data](ext_articles/f39c3772.ext.json)
 
 ---

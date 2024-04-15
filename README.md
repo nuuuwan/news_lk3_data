@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-15 09:45:04**
+As of **2024-04-15 09:58:54**
 
 ## Newspaper Stats
 
-*Scraped **18,855** Articles*
+*Scraped **18,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ newsfirstlk | 363
 islandlk | 1,017
 dailyftlk | 1,018
 economynextcom | 1,049
-adalk | 1,572
+adalk | 1,573
 tamilmirrorlk | 2,207
 adaderanalk | 2,275
 virakesarilk | 2,802
-dailymirrorlk | 2,900
-adaderanasinhalalk | 3,075
+dailymirrorlk | 2,902
+adaderanasinhalalk | 3,077
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-18,848 (100.0%) of 18,855 articles have been extended.
+18,848 (99.9%) of 18,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-15 (Monday)
+
+### 17 හැවිරිදි සිසුවියකට වෙඩිතබයි
+
+*2024-04-15 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195641) · `si`
+
+ගෙලට වෙඩි වැදුණු 17 හැවිරිදි සිසුවියක් රෝහල්ගත කර ඇති බව පොලීසිය පවසයි.
+
+ඊයේ (14) රාත්‍රියේදී මින්නේරිය යාය 04 ගිරිතලේ ප්‍රදේශයේදී මෙම වෙඩිතැබීම සිදුකර තිබේ.
+
+අදාළ සිසුවිය පවුලේ අය සමග ඥාති නිවසකට ගොස් සිටියදී මෙම සිද්ධියට මුහුණදී ඇත.
+
+වෙඩිතැබීම කවුරුන් විසින් සිදු කළේය යන්න මෙතෙක් අනාවරණය වී නොමැති අතර මින්නේරිය පොලීසිය විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/becc4dd5.json)
+
+---
+
+### පිහියකින් සහ කතුරකින් ඇන පුද්ගලයෙකු ඝාතනය කරයි
+
+*2024-04-15 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195640) · `si`
+
+පොලීසිය සඳහන් කළේ පුද්ගලික ආරවුලක් මත ඊයේ (14) 37 හැවිරිදි පුද්ගලයෙකුව මෙලෙස ඝාතනය කර ඇති බවය.
+
+ඇලයාපත්තුව පොලිස් වසමේ තිබ්බටුවාගම විහාරස්ථානයට යන මාර්ගයේදී මෙම ඝාතනය සිදුකර තිබුණි.
+
+මේ අතර අද (15) අලුයම හක්මන පොලිස් වසමේ කහටගහකොරටුව ප්‍රදේශයේදී 21 හැවිරිදි පුද්ගලයෙකුට තියුණු ආයුධයකින් පහරදී ඝාතනය කර ඇත.
+
+සේරුනුවර මහවැලිගම ප්‍රදේශයේදී ද තියුණු ආයුධයකින් ඇන 41 හැවිරිදි පුද්ගලයෙකු ඝාතනය කර තිබේ.
+
+◼️
+
+[Data](articles/67ef7ade.json)
+
+---
+
+### Teen girl injured in Minneriya shooting
+
+*2024-04-15 09:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teen-girl-injured-in-Minneriya-shooting/108-280701) · `en`
+
+Minneriya, April 15 (Daily Mirror) - A 17-year-old girl was injured in a shooting incident at Girithale in Minneriya last night, Police said.
+
+They said that the Minneriya Police initiated an investigation upon receiving information that the girl had been injured and subsequently admitted to the Polonnaruwa Hospital.
+
+Investigations revealed the shooting had occurred while the girl was visiting her relative's house with her family members.
+
+The motive behind the shooting has not been disclosed as yet and investigations are ongoing.
+
+◼️
+
+[Data](articles/1186e754.json)
+
+---
 
 ### අවස්ථාවක් ලැබෙන තුරු ඊශ්‍රායලය බලා සිටී
 
@@ -57,6 +111,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/697177a0.json)
+
+---
+
+### Rainy conditions to intensify with showers above 100 mm pegged
+
+*2024-04-15 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rainy-conditions-to-intensify-with-showers-above-100-mm-pegged/108-280700) · `en`
+
+Colombo, April 15 (Daily Mirror) -The Meteorological Department has issued a weather advisory for several provinces in Sri Lanka, forecasting heavy showers exceeding 100 mm in some areas.
+
+The Western, Sabaragamuwa, Uva and Southern Provinces, as well as Ampara and Batticaloa districts are likely to experience these heavy downpours.
+
+In addition, the Eastern, Uva and Southern Provinces are expected to experience temporary enhancement in showery weather conditions today, with showers or thundershowers predicted in various districts including Hambantota, Nuwara Eliya and Matale.
+
+In the Eastern and Uva Provinces, as well as in the Hambantota, Nuwara Eliya and Matale districts, showers or thundershowers will occur at times.
+
+Meanwhile, the Northern and North Central Provinces may experience several spells of showers.
+
+For the rest of the island, showers or thundershowers are forecast at several places after 2:00 p.m. today.
+
+...
+
+[Data](articles/2902a7f6.json)
+
+---
+
+### වෑන් රථයක් ප්‍රපාතයකට පෙරලී දරුවෙක් හා වැඩිහිටියෙක් මරුට
+
+*2024-04-15 08:01:45* · [`adalk`](https://www.ada.lk/breaking_news/වෑන්-රථයක්-ප්‍රපාතයකට-පෙරලී-දරුවෙක්-හා-වැඩිහිටියෙක්-මරුට/11-409082) · `si`
+
+පුස්සැල්ලාව පොලිස් වසමේ, කටුකිතුල ප්‍ර දේශයේදී නුවරඑළිය දෙස සිට ගම්පොල දෙසට ධාවනය වූ වෑන් රථයක්ප්‍ෙරපාතයකට පෙරළී අනතුරක් සිදුව ඇතැයි පොලීසිය කියයි. අනතුරින් වෑන් රථයේ රියදුරු ඇතුළු 07 දෙනෙකු තුවාල ලබා වහුගපිටිය රෝහලට ඇතුළත් කර කර තිබේ. ඊයේ සවස සිදුවූ මෙම අනතුරින් රිදීගම පදිිංචි වයස අවුරුදු 02 ක පිරිමි දරුවෙකු හා අවුරුදු 65 ක් වන පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+වෑන් රථයේ ගමන් කල පුද්ගලයින් රිදීගම පදිංචි එකම පවුලේ අයවලුන් වන අතර ඔවුන් නුවරඑළියේ සිට කුරුණෑගලට ගමන්කරමින් සිටියදී මෙම අනතුරට ලක්ව ඇත.
+
+අනතුරින් තුවාල ලැබූ කාන්තාවක් තිදෙනෙක් හා පිරිමි පුද්ගලයන් දෙදෙනෙක් වැඩිදුරට ප්‍රතිකාර සඳහා ගම්පොල රෝහලට මාරු කර යවා තිබේ.
+
+◼️
+
+[Data](articles/0ba7bd35.json)
 
 ---
 
@@ -2215,137 +2307,5 @@ The Commander of the Sri Lanka Navy Vice Admiral Priyantha Perera inspected the 
 [Data](articles/79448d1f.json)
 
 [Extended Data](ext_articles/79448d1f.ext.json)
-
----
-
-### Sri Lanka Navy brings ashore seized ICE, heroin worth Rs. 3.7 billion
-
-*2024-04-14 08:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-Navy-brings-ashore-seized-ICE-heroin-worth-Rs-3-7-billion/155-280688) · `en`
-
-Galle, April 14 (Daily Mirror) - The Sri Lanka Navy brought ashore the seized narcotics, including 179 kgs and 906 gms of Crystal Methamphetamine (ICE) and 83 kgs and 582 gms of heroin, which were seized yesterday in the seas approximately 133 nautical miles (about 246 kms) off Dondra, south of Sri Lanka.
-
-The consignment of drugs, with an estimated street value exceeding Rs. 3,798 million, was seized during an intelligence operation conducted by the Sri Lanka Navy. A local multi-day fishing trawler, carrying six persons was intercepted during the operation.
-
-In addition, another local one-day fishing trawler with four persons was seized, suspected to be awaiting a mid-sea exchange of narcotics.
-
-The Sri Lanka Coast Guard Ship (SLCG) Samudraraksha played a crucial role in arresting the suspects and seizing the narcotics on 12 April 2024.
-
-The Commander of the Sri Lanka Navy Vice Admiral Priyantha Perera inspected the seized consignment at the Galle Harbour.
-
-...
-
-[Data](articles/c0744b45.json)
-
-[Extended Data](ext_articles/c0744b45.ext.json)
-
----
-
-### Children in children's centers due to President
-
-*2024-04-14 08:50:05* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-නිසා-ළමා-මධ්‍යස්ථානවල-දරුවන්ටත්-අවුරුදු/11-409073) · `si`
-
-President Ranil Wickremesinghe distributed New Year's gifts to children in 336 child development centers across Sri Lanka, organized by the Presidential Office and Ceylon Biscuits. The Army, under Silva, assisted in the distribution.
-
-🟩
-
-According to President Ranil Wickremesinghe, 336 child development centers, which are under security under the Sinhala, 336 child development centers across the country, was held island wide yesterday (13).
-
-The program commenced this morning in Colombo, Kalutara and Gampaha districts, this program was distributed to the new year sweets and gift parcel to cover every district.
-
-The program was organized by the Presidential Office, Ceylon Biscuits, Ceylon Biscuits, Ceylon Biscuits, Ceylon Biscuits, Ceylon Biscuits, Ceylon Biscuits.
-
-More than 10,000 conventions and rewards parcels were distributed among children with the President's New Year's message.
-
-The Army was distributed by the Army under the guidance of the Chief of Defense Standard Silva on the instructions of the President of the President.
-
-...
-
-[Data](articles/507bac38.json)
-
-[Extended Data](ext_articles/507bac38.ext.json)
-
----
-
-### Fairly heavy showers likely in parts of the country
-
-*2024-04-14 08:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98620/fairly-heavy-showers-likely-in-parts-of-the-country) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Southern, Central, North-western and Uva provinces and in Ampara and Batticaloa districts.
-
-Showers are likely in the Eastern province during the morning too while several spells of light showers may occur elsewhere of the island.
-
-Fairly heavy showers about 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle, Matara and Ampara districts.
-
-Misty conditions can be expected at some places in Western, Central, Sabaragamuwa and Uva provinces and in Galle, Matara and Kurunegala districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-On the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka during 05th to 15th of April in this year.
-
-...
-
-[Data](articles/127c8a3b.json)
-
-[Extended Data](ext_articles/127c8a3b.ext.json)
-
----
-
-### Madagascar woman arrested
-
-*2024-04-14 08:46:38* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-350ක්-ගිල-දමා-පැමිණි-මැඩගස්කර්-කාන්තාවක්-අල්ලයි/11-409072) · `si`
-
-A Madagascar woman was arrested in Mumbai for attempting to smuggle 35 million cocaine gulfs worth about 75 crores. She was caught with cocaine taped to her body and taken to Negombo General Hospital, where doctors tried to remove it. The cocaine is now with the Police Narcotics Unit of Katunayake for further investigation.
-
-🟩
-
-A number of cocaine has been devoured by a 35 million cocaine gulfs worth about 75 crores.
-
-She came to the Mumbai Kandy from Ethiopia, from Ethiopia, India, and the flight of the airport at the Katunayake airport.
-
-She had been pasted by Cello tape if she was baptized in the cocaine in the cocaine.
-
-The arrested woman had taken steps to admit the cocaine to the Negombo General Hospital while her doctors, the doctors of the hospital, had tried to take out the stock.
-
-The cocaine is to be handed over to the Police Narcotics Unit of Katunayake to conduct further investigations into the stock of the drug.
-
-◼️
-
-[Data](articles/67026274.json)
-
-[Extended Data](ext_articles/67026274.ext.json)
-
----
-
-### Celebrating the New Year across the country
-
-*2024-04-14 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195612) · `si`
-
-The Sinhala and Tamil New Year was celebrated with joy, including cultural programs and festivals. Ada Derana News Division highlighted the significance of the New Year's dawn and the auspicious juice. Special security measures were in place for the festivals, supported by the police and armed forces.
-
-🟩
-
-The Sinhala and Tamil New Year, which was a Happy New Year, we wish you all the Ada Derana News Division.
-
-The New Year's dawn took place yesterday (13) from the sun from the sun.
-
-The cooking prompt was on the right direction at 11.06 pm and to prepare a cock-jagged milk, a mixed cow, a mixed coach and a cock jaggery.
-
-Working, transaction, and diet was held at 12.06 midnight yesterday, and the vacant sheet should be done to work south and coordinate all the work.
-
-The aimed at the Sinhala and Tamil New Year has been played tomorrow (15) tomorrow (15).
-
-The auspicious sheet states that the auspicious juice is not dressed in a white garment, and to the head.
-
-Ada Derana reporters said that the New Year's dawn was zealously celebrated yesterday.
-
-Meanwhile, a number of cultural programs including New Year's festivals have been organized to mark the Sinhala and Tamil New Year.
-
-It is reported that these New Year's festivals are scheduled to be held in accordance with old customs.
-
-...
-
-[Data](articles/296a6021.json)
-
-[Extended Data](ext_articles/296a6021.ext.json)
 
 ---

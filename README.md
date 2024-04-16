@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 03:18:28**
+As of **2024-04-17 03:33:53**
 
 ## Newspaper Stats
 
-*Scraped **19,235** Articles*
+*Scraped **19,237** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 201
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,029
-dailyftlk | 1,056
+dailyftlk | 1,058
 economynextcom | 1,082
 adalk | 1,600
 tamilmirrorlk | 2,241
@@ -26,11 +26,37 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,235 (100.0%) of 19,235 articles have been extended.
+19,235 (100.0%) of 19,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### What I learnt and what Tamil political leaders never learnt
+
+*2024-04-17 03:11:08* · [`dailyftlk`](https://www.ft.lk/columns/What-I-learnt-and-what-Tamil-political-leaders-never-learnt/4-760701) · `en`
+
+Who is responsible for emerging religious extremism in Tamil North? Let me tell you, it’s the callously irresponsible Colombo resident Tamil leaderships. In democratic electoral politics, the strength of leaderships lies in how open and committed they stand against injustice and for democratic and fundamental rights. In Sinhala South, mainstream political leaderships took over majoritarian extremism. In post-war Tamil politics, established political leaders failing to stand with their people allows religious extremism.
+
+...
+
+[Data](articles/778d31b3.json)
+
+---
+
+### Broadening medical education: Who’s paying, and for what?
+
+*2024-04-17 03:07:36* · [`dailyftlk`](https://www.ft.lk/columns/Broadening-medical-education-Who-s-paying-and-for-what/4-760700) · `en`
+
+What is required for medical education is a decentralised incentive-based solution that makes the best use of taxpayer funds
+
+According to the University Grants Commission (UGC), the second most expensive undergraduate degree program offered by state universities is the MBBS (after dental). Battles over who gets to be a doctor under what terms have been ongoing since the 1980s with no clear resolution. Workaround measures implemented at various times are posing significant challenges, which are being met with further ad hoc remedies, the latest being the Cabinet decision to allow students satisfying UGC requirements to be admitted to the Kotelawala Defence University’s (KDU) medical faculty.
+
+...
+
+[Data](articles/f84df3c4.json)
+
+---
 
 ### Range Bandara invites key SJB MPs to rejoin party
 
@@ -2213,49 +2239,5 @@ No injuries were reported as a result of the accident, although the front part o
 [Data](articles/915fb20a.json)
 
 [Extended Data](ext_articles/915fb20a.ext.json)
-
----
-
-### Mother Bhupathi tributes in Vavuniya
-
-*2024-04-16 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/181216) · `ta`
-
-The 36th commemoration of Anna Bhupathi in Vavuniya honored with Tamil National People's Munnani and floral tribute by Jayavanitha.
-
-🟩
-
-The 36th commemoration of the patriotic Anna Bhupathi was celebrated in Vavuniya today.
-
-The Tamil National People's Munnani arrangement was brought to all districts in the North and East today before the struggle of relatives of the missing persons in Vavuniya.
-
-The President of the Relatives of the Disappeared. Jayavanitha loaded the eagle and paid a floral tribute to the mother's garland.
-
-◼️
-
-[Data](articles/285aed01.json)
-
-[Extended Data](ext_articles/285aed01.ext.json)
-
----
-
-### Sydney knife attack hero welcome to stay in Australia, PM says
-
-*2024-04-16 14:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sydney-knife-attack-hero-welcome-to-stay-in-Australia-PM-says/108-280772) · `en`
-
-SYDNEY, April 16 (Reuters) - A French national who confronted a knife-wielding attacker during a rampage in a mall in the Sydney suburb of Bondi is welcome to stay in Australia for as long as he wants, Prime Minister Anthony Albanese said on Tuesday.
-
-Six people were killed and 12 hurt in Saturday's attack at the beachside mall, one of the city's worst violent crimes in recent years. The attacker, identified as Joel Cauchi, was shot down by Inspector Amy Scott, who confronted him solo during his rampage.
-
-The Frenchman, Damien Guerot, was seen on video images circulated online holding up a shopping centre bollard to try and stop Cauchi from hurting more people.
-
-Later Guerot told local news networks he was on a work visa set to expire within a couple of months.
-
-"I say this to Damien Guerot, who is dealing with his visa applications, that you are welcome here," Albanese told a press conference, in reply to a question his heroics.
-
-...
-
-[Data](articles/31da47da.json)
-
-[Extended Data](ext_articles/31da47da.ext.json)
 
 ---

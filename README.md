@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 06:55:14**
+As of **2024-04-16 07:17:13**
 
 ## Newspaper Stats
 
-*Scraped **19,011** Articles*
+*Scraped **19,018** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 167
 bbccomsinhala | 199
 dbsjeyarajcom | 215
 newsfirstlk | 363
-islandlk | 1,020
+islandlk | 1,027
 dailyftlk | 1,039
 economynextcom | 1,064
 adalk | 1,583
@@ -26,29 +26,35 @@ adaderanasinhalalk | 3,097
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,007 (100.0%) of 19,011 articles have been extended.
+19,011 (100.0%) of 19,018 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### අද පස්වරුවේ ප්‍රදේශ කිහිපයකට වැසි
+### Showers in several areas this afternoon
 
 *2024-04-16 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195664) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (16) ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers and thundershowers expected in Western, Sabaragamuwa, Central, North Western Provinces, Uva Province, Batticaloa, Ampara, Hambantota districts, and Galle and Matara. Heavy showers in some areas. Public advised to take precautions.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, ඌව පළාතේත්, මඩකලපුව, අම්පාර සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වල ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවේ.
+The Galle and Matara Districts today (16) in the Western, Sabaragamuwa, Central and North Western Provinces.. Showers or thundershowers will occur at several places, after about 2.00.
 
-බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත්  ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පවතී.
+Showers or thundershowers will occur at times in the Uva Province, Batticaloa, Ampara and Hambantota districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Some locations in the Western, Sabaragamuwa and North Western Provinces. Heavy showers are about 75 times.
+
+Some locations in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts have a murder.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/91a84ee7.json)
+
+[Extended Data](ext_articles/91a84ee7.ext.json)
 
 ---
 
@@ -600,6 +606,8 @@ I am learning new things daily. I apply Biblical insight to my daily life. 69 ye
 
 [Data](articles/85c35d77.json)
 
+[Extended Data](ext_articles/85c35d77.ext.json)
+
 ---
 
 ### Monk’s imprisonment: Aragalaya Victory No. 2
@@ -742,6 +750,38 @@ The body of the area was found in search of the husband and the residents of the
 
 ---
 
+### A Lost Development Opportunity: Regional integration to empower Sri Lankan women
+
+*2024-04-15 22:20:00* · [`islandlk`](http://island.lk/a-lost-development-opportunity-regional-integration-to-empower-sri-lankan-women/) · `en`
+
+Dr Lakmini Fernando is a Research Fellow at IPS with primary research interests in Development Economics, Public Finance and Climate Change. She has expertise in econometric data analysis, research design and causal methodologies. Dr Fernando holds a BSc in Agriculture from the University of Peradeniya, a Master of Development Economics (Advanced) from the University of Queensland, Australia and a PhD in Economics from the University of Adelaide, Australia.
+
+Sulochana Silva is a Research Assistant at the Institute of Policy Studies of Sri Lanka (IPS). She holds a BSc (Hons) in Agricultural Technology and Management specialising in Applied Economics and Business Management from the University of Peradeniya. Her research interests are agriculture policies and institutions, environment and natural resource policies, food security and climate change.
+
+On average, women are paid approximately 20% less than men in Sri Lanka.
+
+...
+
+[Data](articles/106afb0c.json)
+
+---
+
+### Unisyst Engineering to de-list from CSE at exit offer price of Rs. 6 per share
+
+*2024-04-15 22:14:00* · [`islandlk`](http://island.lk/unisyst-engineering-to-de-list-from-cse-at-exit-offer-price-of-rs-6-per-share/) · `en`
+
+Unisyst Engineering PLC, a subsidiary of the Hayleys Group, has announced it would be delisting from the CSE.
+
+‘The Securities and Exchange Commission has granted their approval to delist the shares of Unisyst Engineering from the Official List of the CSE, at an exit offer price of Rs.6 per share, a CSE source said. The company said an offer letter will be sent to the shareholders shortly.
+
+Formerly Alufab PLC, Unisyst Engineering is an aluminium supplier in Sri Lanka. The company’s revenue increased by 38 percent to Rs 784 million during the last financial year, according to sources: “Unisyst Engineering PLC will continue to leverage the strengths of its partnership with Hayleys Advantis as it seeks to drive increased penetration in selected customer segments, they said.
+
+...
+
+[Data](articles/e1d31219.json)
+
+---
+
 ### Ghana fails to reach debt deal with international bondholders
 
 *2024-04-15 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98654/ghana-fails-to-reach-debt-deal-with-international-bondholders) · `en`
@@ -759,6 +799,20 @@ The regional African bondholder group had also rejected part of the proposed rew
 [Data](articles/dd6d2cc4.json)
 
 [Extended Data](ext_articles/dd6d2cc4.ext.json)
+
+---
+
+### HNB ushers in new era with Damith Pallewatte at the helm as Acting CEO
+
+*2024-04-15 22:11:00* · [`islandlk`](http://island.lk/hnb-ushers-in-new-era-with-damith-pallewatte-at-the-helm-as-acting-ceo/) · `en`
+
+Sri Lanka’s largest private sector retail bank, HNB PLC announced the appointment of Damith Pallewatte as Acting CEO, effective from 6th April 2024, subject to approval of his fit & propriety from Central Bank of Sri Lanka. The strategic appointment comes as part of a planned leadership transition first announced in May 2023.
+
+A qualified Banking and Risk Management Professional with over 27 years of experience including more than 14 years in Senior and Corporate Management positions, Pallewatte brings a wealth of diverse experience to his new role. His career has spanned the full spectrum of banking operations, including Strategy and Risk Management, Credit, Branch Banking and Operations, before his most recent tenure as Deputy General Manager of HNB’s Wholesale Banking Group.
+
+...
+
+[Data](articles/a3145de3.json)
 
 ---
 
@@ -2177,67 +2231,5 @@ Though entities like the CEB have taken loans for infrastructure, CPC and SriLan
 [Data](articles/235caafb.json)
 
 [Extended Data](ext_articles/235caafb.ext.json)
-
----
-
-### The price of chicken meat rose again!
-
-*2024-04-15 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/181125) · `ta`
-
-Chicken meat prices rise again, with traders accused of arbitrarily increasing prices during the festive season. The government promises to reduce prices but is accused of not intervening. Commerce Minister Nalin Fernando suggests importing eggs from India if prices rise further.
-
-🟩
-
-Consumers have said that traders are arbitrarily raising the price of poultry meat during the festive season.
-
-The government has promised to reduce the price of poultry meat and eggs during the festive season, but the people have accused the market of not being in the market.
-
-இதேவேளை,அதிகரித்துள்ள இறைச்சி மற்றும் முட்டையினது விலை எதிர்வரும் நாட்களில் குறைக்கப்படும் என   கோழி பண்ணையாளர்கள் சங்கத்தின்  தலைவர் அஜித் குணசேகர தெரிவித்துள்ளார்.
-
-Commerce Minister Nalin Fernando has said that the price of eggs will be imported from India if the price of eggs will increase again.
-
-◼️
-
-[Data](articles/50ac7bc0.json)
-
-[Extended Data](ext_articles/50ac7bc0.ext.json)
-
----
-
-### Growth in tourist arrivals...
-
-*2024-04-15 14:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Growth-in-tourist-arrivals/110-280711) · `en`
-
-Even after the Sinhala and Tamil New Year festivals, some foreign tourists were seen walking in the streets of Colombo. According to the reports by the Sri Lanka Tourism Development Authority, Sri Lanka crossed the 50,000 mark of tourist arrivals during the first nine days of April. Pix By Pradeep Pathirana
-
-◼️
-
-[Data](articles/862059b5.json)
-
-[Extended Data](ext_articles/862059b5.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-04-15 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181124) · `ta`
-
-The Central Bank of Sri Lanka announced today's exchange rates: USD to Rs 379.61 (sale) and 364.37 (purchase), GBP to Rs 379.61 (sale) and 364.37 (purchase), and EUR to Rs 324.77 (sale) and 311.10 (purchase).
-
-🟩
-
-The Central Bank of Sri Lanka (Central Bank) today (15), the US dollar sales price of Rs.
-
-Similarly, the sales price of a Srealing pound is Rs 379.61 and the purchase price is Rs 364.37.
-
-The sales price of the euro is Rs 324.77 and the purchase price is 311.10 rupees.
-
-Accordingly, the information issued by the Central Bank today (15.04.2024) on other foreign currency exchange rates has been issued.
-
-◼️
-
-[Data](articles/d358dc71.json)
-
-[Extended Data](ext_articles/d358dc71.ext.json)
 
 ---

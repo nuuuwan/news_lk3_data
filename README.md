@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 07:17:13**
+As of **2024-04-16 07:40:23**
 
 ## Newspaper Stats
 
-*Scraped **19,018** Articles*
+*Scraped **19,023** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 167
+colombotelegraphcom | 168
 bbccomsinhala | 199
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,027
 dailyftlk | 1,039
-economynextcom | 1,064
+economynextcom | 1,065
 adalk | 1,583
-tamilmirrorlk | 2,219
+tamilmirrorlk | 2,222
 adaderanalk | 2,292
 virakesarilk | 2,829
 dailymirrorlk | 2,924
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,097
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,011 (100.0%) of 19,018 articles have been extended.
+19,016 (100.0%) of 19,023 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -107,6 +107,32 @@ Police said the suspect had admitted that he had stolen for drug use and that th
 [Data](articles/22669d91.json)
 
 [Extended Data](ext_articles/22669d91.ext.json)
+
+---
+
+### இலங்கை - இஸ்ரேல் விமான சேவை இடைநிறுத்தம்
+
+*2024-04-16 01:30:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இஸ்ரேல்-விமான-சேவை-இடைநிறுத்தம்/175-335977) · `ta`
+
+இலங்கை மற்றும் இஸ்ரேல் இடையிலான விமான சேவைகள் தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ளன என அந்த நாட்டுக்கான இலங்கை தூதுவர் தெரிவித்துள்ளார்.
+
+எதிர்வரும் நாள்களில் இஸ்ரேலுக்கு பயணிப்பதற்காக விமான ஆசனங்களைப் பதிவு செய்த இலங்கையர்கள், அந்தந்த நிறுவனங்களைத் தொடர்புகொண்டு பயணத் திகதியை மாற்றிக்கொள்ளுமாறு இஸ்ரேலுக்கான இலங்கை தூதுவர் அறிவுறுத்தியுள்ளார். (a)
+
+◼️
+
+[Data](articles/f278de38.json)
+
+---
+
+### Nettles Needing To Be Grasped By Future Leaders Of Sri Lanka
+
+*2024-04-16 01:30:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/nettles-needing-to-be-grasped-by-future-leaders-of-sri-lanka/) · `en`
+
+The New Year celebrations this year were low key compared to the past. The loud sound of crackers and other fireworks that traditionally accompany the dawn of the New Year were less than in the past. The economic burden on the people has begun to tell and was evident in the reduced purchase of new clothes and other items in preparation for the New Year. It can be surmised that the general population has less savings to utilize due to those savings being consumed in earlier months when people’s expenditures exceeded their income. The latest World Bank publication titled ‘World Bank Update: Bridges to Recovery’ released on April 2 shows that poverty has increased over the past four years—from 11 percent in 2019 to almost 26 percent in 2024 in Sri Lanka. According to it, approximately 60 percent of Sri Lankan households have decreased incomes, with many facing increased food insecurity, malnutrition and stunted growth.
+
+...
+
+[Data](articles/d2becd9b.json)
 
 ---
 
@@ -223,6 +249,22 @@ With a career spanning back to 2009, Kaushali has garnered diverse experience ha
 [Data](articles/13a188dc.json)
 
 [Extended Data](ext_articles/13a188dc.ext.json)
+
+---
+
+### மின்னல் தாக்கங்கள் தொடர்பில் எச்சரிக்கை
+
+*2024-04-16 00:56:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கங்கள்-தொடர்பில்-எச்சரிக்கை/175-335976) · `ta`
+
+மழையுடன் ஏற்படக்கூடிய பலத்த மின்னல் தாக்கங்கள் தொடர்பில் அவதானமாக இருக்குமாறு வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
+
+மேல், சபரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி, மாத்தறை மற்றும் கண்டி மாவட்டங்களிலும்  இடியுடன் கூடிய மழை பெய்யக்கூடும் என அந்த திணைக்களம் தெரிவித்துள்ளது.
+
+மழை பெய்யும் வேளையில் பலத்த மின்னல் ஏற்படக்கூடிய அபாயம் காணப்படுவதாகவும், இது தொடர்பில் அவதானமாக இருக்குமாறும் வளிமண்டலவியல் திணைக்களம் மக்களை அறிவுறுத்தியுள்ளது. (a)
+
+◼️
+
+[Data](articles/cc4f40a6.json)
 
 ---
 
@@ -764,6 +806,8 @@ On average, women are paid approximately 20% less than men in Sri Lanka.
 
 [Data](articles/106afb0c.json)
 
+[Extended Data](ext_articles/106afb0c.ext.json)
+
 ---
 
 ### Unisyst Engineering to de-list from CSE at exit offer price of Rs. 6 per share
@@ -779,6 +823,8 @@ Formerly Alufab PLC, Unisyst Engineering is an aluminium supplier in Sri Lanka. 
 ...
 
 [Data](articles/e1d31219.json)
+
+[Extended Data](ext_articles/e1d31219.ext.json)
 
 ---
 
@@ -813,6 +859,8 @@ A qualified Banking and Risk Management Professional with over 27 years of exper
 ...
 
 [Data](articles/a3145de3.json)
+
+[Extended Data](ext_articles/a3145de3.ext.json)
 
 ---
 
@@ -1502,6 +1550,24 @@ Lokesh Kanakaraj -Bakiraj Kannan -Rawa Lawrence has designed a helmet in the tit
 
 ---
 
+### “பிரபாகரனுக்கு பின் தமிழ் தலைமை  இல்லை”
+
+*2024-04-15 16:59:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பிரபாகரனுக்கு-பின்-தமிழ்-தலைமை-இல்லை/72-335962) · `ta`
+
+வடக்கு ,கிழக்கு ,மலையகம் மற்றும்கொழும்பை பொறுத்த வகையில் அங்குள்ள தமிழர்கள் தலைவர் வேலுப்பிள்ளை பிரபாகரனுக்கு பின்னர் ஒரு தமிழ் தலைமையை   இன்னும் அடையாளம் காணவில்லை.எனவே  தமிழ் பொது வேட்பாளர் தொடர்பாக தமிழ் மக்கள் ஆர்வமற்றவர்களாகவே இருக்கின்றனர் என பாராளுமன்ற உறுப்பினர் சாள்ஸ் நிர்மலநாதன் தெரிவித்தார்.
+
+-மன்னாரில் உள்ள அலுவலகத்தில்  திங்கட்கிழமை (15) காலை இடம்பெற்ற ஊடக சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+தமிழரசு கட்சி எதிர்வரும் ஜனாதிபதி தேர்தலின் போது யாரை ஆதரிப்பது  அல்லது தமிழ் பொது வேட்பாளர் குறித்து இதுவரை எவ்வித கலந்தாலோசனைகளையும் முன்னெடுக்கவில்லை.
+
+தமிழ் பொது வேட்பாளர் குறித்து ஊடகங்களில் கருத்துக்கள் வெளிவருகின்றன. என்னை பொருத்தமட்டில் அவர்கள் கூறுவதன் பிரதான காரணம் தொடர்ச்சியாக ஜனாதிபதி தேர்தலில் தமிழர்கள் வாக்களித்தாலும் தமிழர்களின் உரிமைகள் தொடர்ச்சியாக மறுக்கப்பட்டு வருகின்றன. இதன் காரணமாக தமிழ் பொது வேட்பாளர் ஒருவரை நிறுத்த வேண்டும் என்கின்ற சிலரது கருத்துக்கள் நிலவுகின்றன.
+
+...
+
+[Data](articles/1e79f6fd.json)
+
+---
+
 ### "There is no Tamil after Prabhakaran"
 
 *2024-04-15 16:59:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பிரபாகரனுக்கு-பின்-தமிழ்-இல்லை/72-335962) · `ta`
@@ -2139,97 +2205,5 @@ Meanwhile, the prices of increased meat and eggs will be reduced in the coming d
 [Data](articles/69f94794.json)
 
 [Extended Data](ext_articles/69f94794.ext.json)
-
----
-
-### The tragedy where the giraff statue broke out
-
-*2024-04-15 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195649) · `si`
-
-A giraffe statue in a child's courtyard collapsed, crushing the child. Rushed to Kuliyapitiya Hospital.
-
-🟩
-
-A small child is unfortunately after a statue of a giraffe creature made from concrete.
-
-The victim was rushed to the Kuliyapitiya Hospital.
-
-A statue of Giraffe, made in the courtyard of the child's house, has collapsed on the child's body, police said.
-
-◼️
-
-[Data](articles/e143dce0.json)
-
-[Extended Data](ext_articles/e143dce0.ext.json)
-
----
-
-### The president put on the secret of his beauty
-
-*2024-04-15 15:06:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனது-அழகின்-இரகசியத்தை-போட்டுடைத்தார்-ஜனாதிபதி/175-335955) · `ta`
-
-President Ranil Wickremesinghe, at the New Year's Games, humorously responded to an announcer's compliment about his beauty, saying, "I am beautiful in the UNP." This interaction, broadcasted in the stadium, made everyone laugh.
-
-🟩
-
-Asked by President Ranil Wickremesinghe, who was attending the New Year's Games at Nuwara Eliya Meebilimane, the President replied, "The New Year celebration was laughing."
-
-The announcer who went near the president who was watching the matches at the New Year's Festival Ground, "How are you so beautiful?"He asked.
-
-Immediately, the president laughed, "I am beautiful in the UNP."
-
-The question of the president and the answers to the president and the answers to the loudspeaker broadcast the stadium and made everyone laugh.
-
-It is noteworthy that the Minister of Tourism and Sports. Herin Fernando also visited the New Year's Sports Festival with the President with the President.
-
-◼️
-
-[Data](articles/21688a7b.json)
-
-[Extended Data](ext_articles/21688a7b.ext.json)
-
----
-
-### 19 more fishermen detained by Sri Lanka return home: Indian High Commission
-
-*2024-04-15 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98643/19-more-fishermen-detained-by-sri-lanka-return-home-indian-high-commission) · `en`
-
-Nineteen Indian fishermen detained by the Sri Lanka Navy were on Tuesday repatriated to India, the Indian High Commission said, almost a week after a similar number of fishermen were sent back to their home country.
-
-“19 Indian fishermen have been repatriated from Sri Lanka and are currently on their way to Chennai,” the Indian High Commission here said in a post on X.
-
-The Navy has so far held 23 Indian trawlers and 178 Indian fishermen for allegedly fishing in the island nation’s waters thus far in 2024, and handed them over to authorities for legal action, the Sri Lankan Navy late last month confirmed in a statement.
-
-The fishermen issue is a contentious one in the ties between India and Sri Lanka, with Lankan Navy personnel even firing at Indian fishermen in the Palk Strait and seizing their boats in several alleged incidents of illegally entering Sri Lankan territorial waters.
-
-...
-
-[Data](articles/d502017a.json)
-
-[Extended Data](ext_articles/d502017a.ext.json)
-
----
-
-### Sri Lanka SOEs place Rs33,949 debt on each citizen: restructuring unit
-
-*2024-04-15 14:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-soes-place-rs33949-on-each-citizen-restructuring-unit-158535/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-owned enterprises incurred 744.6 billion rupees in losses in 2022, the SOE restructuring unit has said.
-
-“52 State-Owned Enterprises in Sri Lanka incurred losses of LKR 744.6 billion in 2022,” SOERU said in a social media post.
-
-“When divided by the total number of Citizen, each citizen needs bare LKR  33,949.”
-
-🔴52 State-Owned Enterprises in Sri Lanka incurred losses of LKR 744.6 billion in 2022. When divided by the total number of Citizen, each citizen needs bare LKR 33,949.Updates of SOERU – https://t.co/UVuBd7zmrb#SriLanka #lka #soereforms pic.twitter.com/cZFFKXjr2L
-
-When state enterprises ran losses they were covered by loans taken from domestic banks as well as from capital markets.
-
-Though entities like the CEB have taken loans for infrastructure, CPC and SriLankan Airlines have taken loans simply to cover losses.
-
-...
-
-[Data](articles/235caafb.json)
-
-[Extended Data](ext_articles/235caafb.ext.json)
 
 ---

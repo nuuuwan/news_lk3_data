@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 03:03:35**
+As of **2024-04-17 03:18:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,228 (100.0%) of 19,235 articles have been extended.
+19,235 (100.0%) of 19,235 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Addressing a press conference, Range Bandara accordingly invited SJB MPs Harsha 
 
 [Data](articles/1c787982.json)
 
+[Extended Data](ext_articles/1c787982.ext.json)
+
 ---
 
 ### Wijeyadasa contemplates Presidential bid amidst calls for candidacy
@@ -68,6 +70,8 @@ The Justice Minister indicated that he will deliberate on these requests and ann
 
 [Data](articles/1e3ccf2a.json)
 
+[Extended Data](ext_articles/1e3ccf2a.ext.json)
+
 ---
 
 ### Gammanpila seeks official docs on Katchatheevu from FM
@@ -85,6 +89,8 @@ The Katchatheevu issue was raised on Indian political platforms by Prime Ministe
 ...
 
 [Data](articles/4038a6ec.json)
+
+[Extended Data](ext_articles/4038a6ec.ext.json)
 
 ---
 
@@ -106,6 +112,8 @@ In a statement, the BASL condemned the use of brutality by police during the per
 
 [Data](articles/378d552a.json)
 
+[Extended Data](ext_articles/378d552a.ext.json)
+
 ---
 
 ### Sarvodaya founder A.T. Ariyaratne no more
@@ -124,6 +132,8 @@ He was nominated to the Constitutional Council as a civil representative on 10 S
 
 [Data](articles/1fd907d8.json)
 
+[Extended Data](ext_articles/1fd907d8.ext.json)
+
 ---
 
 ### Former UNP MP Palitha Thewarapperuma passes away in tragic accident
@@ -140,6 +150,8 @@ Thewarapperuma, born on 3 May 1960, was a prominent figure in the political aren
 
 [Data](articles/0f85661c.json)
 
+[Extended Data](ext_articles/0f85661c.ext.json)
+
 ---
 
 ### NextGenSL facilitates cross-party collaboration on governance and economic development framework
@@ -155,6 +167,8 @@ Under the auspices of NextGenSL, delegates from diverse political backgrounds en
 ...
 
 [Data](articles/ba6a8ec8.json)
+
+[Extended Data](ext_articles/ba6a8ec8.ext.json)
 
 ---
 

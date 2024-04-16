@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 19:19:07**
+As of **2024-04-16 19:33:48**
 
 ## Newspaper Stats
 
-*Scraped **19,167** Articles*
+*Scraped **19,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,84 @@ newsfirstlk | 363
 islandlk | 1,029
 dailyftlk | 1,040
 economynextcom | 1,072
-adalk | 1,596
-tamilmirrorlk | 2,238
-adaderanalk | 2,307
+adalk | 1,597
+tamilmirrorlk | 2,239
+adaderanalk | 2,309
 virakesarilk | 2,864
-dailymirrorlk | 2,952
+dailymirrorlk | 2,953
 adaderanasinhalalk | 3,123
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,167 (100.0%) of 19,167 articles have been extended.
+19,167 (100.0%) of 19,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### Former MP Palitha Thewarapperuma passes away
+
+*2024-04-16 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98669/former-mp-palitha-thewarapperuma-passes-away) · `en`
+
+Former Deputy Minister and former UNP parliamentarian Palitha Thewarapperuma has passed away at the age of 64 years, according to sources.
+
+◼️
+
+[Data](articles/33bc3019.json)
+
+---
+
+### Former MP Palitha Thewarapperuma dies from electrocution
+
+*2024-04-16 19:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-MP-Palitha-Thewarapperuma-dies-from-electrocution/108-280784) · `en`
+
+Kalutara, April 16 (Daily Mirror) - Former State Minister Palitha Thewarapperuma has died from electrocution this evening.
+
+It was reported that he was electrocuted when he attempted to connect two electrical circuits at his home and died after being admitted to the Nagoda Hospital.
+
+Born on 3 May 1960,  Thewarapperuma was a former member of Parliament from the UNP.
+
+He was given the position of Deputy Minister of Internal Affairs, Wayamba Development and Cultural Affairs in the United National Party led national government in 2015.
+
+◼️
+
+[Data](articles/c2930328.json)
+
+---
+
+### Sarvodaya founder Dr. A.T. Ariyaratne passes away
+
+*2024-04-16 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98668/sarvodaya-founder-dr-at-ariyaratne-passes-away) · `en`
+
+The founder of the Sarvodaya Shramadana Movement of Sri Lanka, Dr. A.T. Ariyaratne has passed away at the age of 93.
+
+The former Constitutional Council (CC) member had passed away on Tuesday (16) at a private hospital in Colombo, according to family sources.
+
+Sri Lankabhimanya Ahangamage Tudor Ariyaratne is the Founder and the President Emeritus of the Sarvodaya Shramadana Movement of Sri Lanka, a grass-roots humanitarian organization based on the concept of ‘sharing of labour, thought and energy for the awakening of all’.
+
+Sarvodaya has been active throughout Sri Lanka since 1958 despite numerous hardships it has faced over the years.
+
+...
+
+[Data](articles/322e3fad.json)
+
+---
+
+### பாலித தெவரபெரும மின்சாரம் தாக்கி பலி
+
+*2024-04-16 18:59:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலித-தெவரபெரும-மின்சாரம்-தாக்கி-பலி/175-335995) · `ta`
+
+வீட்டில் இரண்டு மின்சுற்றுகளை இணைக்கச் சென்ற போது மின்சாரம் தாக்கி நாகொட வைத்தியசாலையில் அனுமதிக்கப்பட்ட அவர் உயிரிழந்துள்ளதாக வைத்தியசாலைப் பேச்சாளர் தெரிவித்தார்.
+
+தபாலித தெவரப்பெரும ஐக்கிய தேசியக் கட்சியின் முன்னாள் களுத்துறை நாடாளுமன்ற உறுப்பினரும் முன்னாள் வனவிலங்கு இராஜாங்க அமைச்சரும் ஆவார்.
+
+◼️
+
+[Data](articles/741cd929.json)
+
+---
 
 ### “We don't care who will join”
 
@@ -55,6 +117,26 @@ The General Secretary of the United National Party has called on the United Nati
 [Data](articles/496c307c.json)
 
 [Extended Data](ext_articles/496c307c.ext.json)
+
+---
+
+### පිකෝ ට්‍රේල් මංපෙත සංවර්ධනයට අවධානය.
+
+*2024-04-16 18:19:25* · [`adalk`](https://www.ada.lk/breaking_news/පිකෝ-ට්‍රේල්-මංපෙත-සංවර්ධනයට-අවධානය-/11-409108) · `si`
+
+නුවරඑළිය සුන්දර කඳුකරය ආශ්‍රිතව යළි පිබිඳෙන සංචාරක කාර්මාන්තය පිළිබඳ සොයා බලමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (16) පෙරවරුවේ නුවරඑළිය උඩුපුස්සැල්ලාව වැවිලි සමාගමට අයත් කෝට් ලොජ් වතු යායේ සංචාරයක නිරත විය.
+
+“පිකෝ ට්‍රේල් (Peko Trail) මංපෙත හරහා ජනාධිපතිවරයා පා ගමනින් මෙම සංචාරයට එක් වීම විශේෂත්වයකි.
+
+“පිකෝ ට්‍රේල්” යනු ශ්‍රී ලංකාවේ මධ්‍යම කඳුකරය හරහා දිවෙන කිලෝ මීටර් 300ක පමණ කඳු නැගීමේ මාර්ගයකි. එය ආසියාවේ හොඳම රහසිගත මාර්ගවලින් එකක් ලෙස සැළකේ.
+
+“පිකෝ ට්‍රේල්” නම් මෙම මංපෙත සුප්‍රසිද්ධ මහනුවර නගරයෙන් ආරම්භ වී දකුණු දෙසින් හැටන් සහ හෝර්ටන් තැන්න ජාතික වනෝද්‍යානය දෙසට ගමන් කරයි.ඉන්පසු එය හපුතලේ සහ ඇල්ල හරහා නැගෙනහිර දෙසට ගමන් කර සුන්දර නුවරඑළිය නගරය වටා ගමන් කර අවසන් වේ. මෙම මාර්ගය බ්‍රිතාන්‍ය යටත් විජිත සමයේදී විශාල වතුවල සිට කර්මාන්තශාලා වෙත තේ ප්‍රවාහනය කිරීම සඳහා භාවිතා කරන ලද්දකි.
+
+“පිකෝ ට්‍රේල්” මාර්ගය ඔස්සේ කිලෝමීටර 3.2ක පමණ දුරක් පාගමනින් ඇවිද ගිය ජනාධිපතිවරයා කෝට් ලොජ් වතුයායේ සේවයේ නිරතව සිටින කම්කරු ජනතාවගේ ද තොරතුරු විමසමින් සුහද කථා බහක නිරත විය.
+
+...
+
+[Data](articles/937c1327.json)
 
 ---
 
@@ -2257,113 +2339,5 @@ The Bandaranawala Urban Council Fire Brigade and the Falls have to hold the fire
 [Data](articles/f615fd09.json)
 
 [Extended Data](ext_articles/f615fd09.ext.json)
-
----
-
-### Father killed in Marathon race
-
-*2024-04-16 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/181194) · `ta`
-
-A 60-year-old father from Belmatullai, supporting his 16-year-old son at the Marathon race, fell unconscious and was admitted to Belmatullah Hospital. Police are investigating.
-
-🟩
-
-A father who went to support his son, who attended the Marathon race during this year's New Year celebrations held in Belmatulla Padalanda area.
-
-When his 16 -year -old son was attending the Marathon race, he ran with him to encourage and support his son.
-
-He was admitted to the Belmatullah Hospital after he fell unconscious, police said.
-
-The deceased is a 60 -year -old from Belmatullai area. The police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/a28bfe71.json)
-
-[Extended Data](ext_articles/a28bfe71.ext.json)
-
----
-
-### Cancel 11 trains scheduled today
-
-*2024-04-16 10:19:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-திட்டமிடப்பட்ட-11-ரயில்கள்-ரத்து/175-335981) · `ta`
-
-11 trains from Colombo Fort to Moratuwa, Ambepussa, Panadura, Negombo, and Ragama canceled due to engine directors and railway guards failure.
-
-🟩
-
-The Railway Department said that 11 trains planned today have been canceled due to the failure of the engine directors and railway guards.
-
-As a result, trains from Colombo Fort to Moratuwa, Ambepussa, Panadura, Negombo and Ragama have been affected by the cancellation.
-
-◼️
-
-[Data](articles/cd9ddc83.json)
-
-[Extended Data](ext_articles/cd9ddc83.ext.json)
-
----
-
-### Stranded at Fort station...
-
-*2024-04-16 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Stranded-at-Fort-station/110-280752) · `en`
-
-Commuters along with their children and belongings, were stranded at the Fort Railway Station due to train cancellations. Eleven scheduled trains were cancelled today due to the absence of locomotive operators and railway guards. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/44fe2c82.json)
-
-[Extended Data](ext_articles/44fe2c82.ext.json)
-
----
-
-### Northern Provincial Transport Group notifes
-
-*2024-04-16 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181189) · `ta`
-
-The Northern Provincial Transport Group announced that the newly opened passenger bus station in Jaffna cannot accommodate private buses. The Sri Lanka Transport Board (SLTB) buses to outer districts can operate on a night schedule but not with private services. Trade unions oppose merging with private bus drivers due to potential conflicts.
-
-🟩
-
-The Chairman of the Northern Provincial Council of the Sri Lanka Transport Board said that the newly opened long -operated passenger bus station in Jaffna cannot be provided with private buses.
-
-The Sri Lanka Transport Board buses traveling from the newly built long -lasted passenger bus stand to the outer districts can travel on a tonight schedule but cannot be provided from the relevant service.
-
-Minister Douglas Devananda and the Governor of the Northern Province on Monday on Monday, the Governor of the Northern Province and the Sri Lanka Transport Board and the Private Bus Association were discussed in connection with the new bus stand.
-
-The trade unions refuse to agree to the merger as they have been urged to provide a joint service in the new bus stand in the discussion.
-
-The reasons for this are strong.
-
-The Sri Lanka Transport Board (SLTB) operators and private bus drivers are pending, and the trade unions think that they may face various crises while working with them.
-
-...
-
-[Data](articles/36172fdf.json)
-
-[Extended Data](ext_articles/36172fdf.ext.json)
-
----
-
-### China’s economy grew 5.3% in the first quarter, beating expectations
-
-*2024-04-16 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98658/chinas-economy-grew-53-in-the-first-quarter-beating-expectations) · `en`
-
-China’s economy in the first quarter grew faster than expected, official data released Tuesday by China’s National Bureau of Statistics showed.
-
-Gross domestic product in the January to March period grew 5.3% compared to a year ago — faster than the 5.2% expansion in the fourth quarter of 2023 and 4.6% growth expected by economists polled by Reuters.
-
-On a quarter-on-quarter basis, China’s GDP grew 1.6% in the first quarter, compared to a Reuters poll expectations of 1.4% and a revised fourth quarter expansion of 1.2%. Beijing has set a 2024 growth target of around 5%.
-
-Growth was driven in part by external demand, as export volume grew by 14% year on year, said Zhiwei Zhang, president and chief economist at Pinpoint Asset Management.
-
-The strong first quarter growth will make the government comfortable with its current policy stance, he said in a note on Tuesday.
-
-...
-
-[Data](articles/c8070d0d.json)
-
-[Extended Data](ext_articles/c8070d0d.ext.json)
 
 ---

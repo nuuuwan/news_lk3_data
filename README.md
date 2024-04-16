@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 13:04:14**
+As of **2024-04-16 13:18:27**
 
 ## Newspaper Stats
 
-*Scraped **19,102** Articles*
+*Scraped **19,104** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 168
 bbccomsinhala | 199
 dbsjeyarajcom | 215
 newsfirstlk | 363
-islandlk | 1,027
+islandlk | 1,028
 dailyftlk | 1,040
 economynextcom | 1,072
 adalk | 1,588
 tamilmirrorlk | 2,231
 adaderanalk | 2,300
-virakesarilk | 2,848
+virakesarilk | 2,849
 dailymirrorlk | 2,940
 adaderanasinhalalk | 3,111
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,111
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,100 (100.0%) of 19,102 articles have been extended.
+19,102 (100.0%) of 19,104 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,26 @@ The post-mortem is slated to be performed following the completion of the magist
 ◼️
 
 [Data](articles/dc620e6e.json)
+
+[Extended Data](ext_articles/dc620e6e.ext.json)
+
+---
+
+### யாழில் இரண்டரை கோடி ரூபாய் மோசடி செய்த பெண் கொழும்பில் கைது
+
+*2024-04-16 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181220) · `ta`
+
+வெளிநாடுகளுக்கு அனுப்பி வைப்பதாக யாழ்ப்பாணத்தை சேர்ந்தவர்களிடம் சுமார் 2 கோடியே 50 இலட்ச ரூபாய் பணத்தை மோசடி செய்து, கொழும்பில் தலைமறைவாகி இருந்த பெண்ணை பொலிஸார் கைது செய்துள்ளனர்.
+
+வெளிநாடுகளுக்கு அனுப்பி வைப்பதாகவும், வெளிநாடுகளில் வேலை வாய்ப்புக்களை பெற்று தருவதாகவும், சமூக ஊடகங்கள் ஊடாக விளம்பரங்களை செய்து யாழ்ப்பாணத்தைச் சேர்ந்த பலரிடம் சுமார் இரண்டரை கோடி ரூபாய் பணத்தினை மோசடி செய்துள்ளார்.
+
+மோசடி தொடர்பில் யாழ்.மாவட்ட குற்றத்தடுப்பு பொலிஸாருக்கு கிடைக்கப்பெற்ற முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த வேளை குறித்த பெண் கொழும்பில் பதுங்கியிருப்பதாக தகவல் கிடைத்துள்ளது.
+
+கொழும்பிலும் அப்பெண் மோசடிகளில் ஈடுபட்டுள்ளாரா? என்பது தொடர்பில் பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர் எனவும், அதன் பின்னர் யாழ்ப்பாண பொலிஸாரிடம் அவரை கையளிக்க நடவடிக்கை எடுக்கப்படும் என பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/6816a8e2.json)
 
 ---
 
@@ -71,6 +91,8 @@ Graphic videos of the attack - and the aftermath - spread like wildfire on socia
 ...
 
 [Data](articles/8441b032.json)
+
+[Extended Data](ext_articles/8441b032.ext.json)
 
 ---
 
@@ -2211,21 +2233,5 @@ The Sri Lanka Pakistan Business Council of The Ceylon Chamber of Commerce, recen
 [Data](articles/40f99a25.json)
 
 [Extended Data](ext_articles/40f99a25.ext.json)
-
----
-
-### Seamless travel from the Makumbura Multimodal Centre with Uber
-
-*2024-04-15 23:25:49* · [`dailyftlk`](https://www.ft.lk/business/Seamless-travel-from-the-Makumbura-Multimodal-Centre-with-Uber/34-760629) · `en`
-
-Government of Sri Lanka Ministry of Transport and Highways Secretary Eng. Ranjith Rubasinghe and Greater Colombo Urban Transport Development Project Project Director Nalaka Dissanayaka launched the Uber Pick-up point along with Uber Sri Lanka Country Manager Kaushalya Gunaratne
-
-Travellers arriving at the Makumbura Multimodal Centre (MMC) can now get a reliable, convenient and affordable Uber ride from a dedicated Uber pick-up point. Situated strategically within Sri Lanka’s expressway network, the MMC serves as a crucial intersection for travellers between Colombo and Southern coastal destinations.
-
-...
-
-[Data](articles/79b09261.json)
-
-[Extended Data](ext_articles/79b09261.ext.json)
 
 ---

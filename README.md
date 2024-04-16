@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 01:03:27**
+As of **2024-04-17 01:18:11**
 
 ## Newspaper Stats
 
-*Scraped **19,216** Articles*
+*Scraped **19,222** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 201
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,029
-dailyftlk | 1,040
+dailyftlk | 1,045
 economynextcom | 1,082
 adalk | 1,600
 tamilmirrorlk | 2,241
 adaderanalk | 2,314
-virakesarilk | 2,871
+virakesarilk | 2,872
 dailymirrorlk | 2,962
 adaderanasinhalalk | 3,130
 
@@ -26,11 +26,111 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,216 (100.0%) of 19,216 articles have been extended.
+19,216 (100.0%) of 19,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### புத்தாண்டு காலத்தில் நுகர்வோர் சட்டத்தை மீறிய வர்த்தகர்களுக்கு எதிராக நடவடிக்கை - நுகர்வோர் அதிகார சபை
+
+*2024-04-17 00:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/181264) · `ta`
+
+சிங்கள மற்றும் தமிழ் புத்தாண்டு காலத்தில் நுகர்வோர் சட்டத்தை மீறி  கண்டி மாவட்டத்தில் பொருட்களை விற்பனை செய்த  86 வர்த்தகர்களுக்கு எதிராக வழக்குத் தொடர கண்டி மாவட்ட நுகர்வோர் அதிகார சபை நடவடிக்கை எடுத்துள்ளது.
+
+விலையைக் காட்சிப்படுத்தாமை, காலாவதியான பொருட்களை விற்பனை செய்தமை, விற்பனை செய்யப்பட்ட பொருட்களின் எடையைச் சரியாக வைத்திருக்காமை மற்றும்  விதிகளை மீறியமை  உள்ளிட்ட குற்றச்சாட்டுகளின் கீழ் சம்பந்தப்பட்ட நபர்கள் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டுள்ளனர்.
+
+கண்டி மாவட்ட நுகர்வோர் சேவை அதிகார சபை இந்த வருடம் மார்ச் மாதம் வரை மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் மூலம் 156 வழக்குகளைத் தாக்கல் செய்து மூன்று இலட்சத்து எண்பத்து மூவாயிரம் ரூபா தண்டப்பணம் அறவிடப்பட்டுள்ளதாகவும் துஷார ரணபன தெரிவித்தார்.
+
+நாவலப்பிட்டி, திகன, தெல்தெனிய, அக்குரணை, கலகெதர, முருதலாவ உள்ளிட்ட பல நகரங்களில் இந்த சோதனைகள் நடத்தப்பட்டதாகவும், புத்தாண்டின் பின்னரும் இந்த சோதனைகள் தொடரும் என்றும் கண்டி மாவட்ட நுகர்வோர்  சேவை அதிகார சபையின் சிரேஷ்ட விசாரணை அதிகாரி துஷார ரணபன தெரிவித்தார்.
+
+◼️
+
+[Data](articles/c28c86ad.json)
+
+---
+
+### CEAT Kelani launches 3 new radial tyre variants in ‘Orion Brawo’ range
+
+*2024-04-17 00:45:55* · [`dailyftlk`](https://www.ft.lk/business/CEAT-Kelani-launches-3-new-radial-tyre-variants-in-Orion-Brawo-range/34-760672) · `en`
+
+Sri Lanka’s leading pneumatic tyre manufacturer CEAT-Kelani has introduced three new variants of high-performance radial tyres into the market, widening choice for a significant segment of vehicle owners.
+
+Joining CEAT’s ‘Orion Brawo’ range, the new radials are in the sizes 155/65 R14, 165/70 R14 and 165 R13, with the first two sizes designated for popular models of compact and small cars, and the third for mid-sized vans, the company said.
+
+The CEAT Orion Brawo 155/65 R14 and 165/70 R14 tyres both feature a tread pattern of a centre rib with three circumferential grooves and a high land area, which translate to improved tread life and higher resistance to impacts, cuts and other damage.
+
+The 155/65 R14 is designed for Suzuki Wagon R, Daihatsu Mira ES, Daihatsu Hijet, Nissan Dayz and Honda N-WGN, while the 165/70 R14 fits Toyota Vitz, Toyota Aqua, Renault Kwid and Toyota Passo, seen in large numbers on Sri Lankan roads.
+
+...
+
+[Data](articles/8698c6fa.json)
+
+---
+
+### Meridian Maritime appoints Sanjeewa Kotalawala as new CEO
+
+*2024-04-17 00:45:30* · [`dailyftlk`](https://www.ft.lk/business/Meridian-Maritime-appoints-Sanjeewa-Kotalawala-as-new-CEO/34-760671) · `en`
+
+Meridian Maritime Services Ltd., (MMS) said yesterday it has appointed Sanjeewa Kotalawala as the new Chief Executive Officer.
+
+With a rich history of leadership spanning over 25 years in the maritime industry, Kotalawala brings invaluable expertise and strategic foresight to steer MMS towards continued success and growth.
+
+Kotalawala’s distinguished career spans pivotal senior leadership roles across various industries, including Höegh Autoliners (Norway) in the Middle East, Groz-Beckert (Germany), GE Gas Power (USA) in the Asia Pacific region, and McLarens Shipping, Sri Lanka, among others.
+
+“Throughout his tenure, he has consistently demonstrated a dedicated focus on operational excellence, revenue growth, talent leadership, safety enhancement, and the promotion of sustainable business practices,” MMS said in a statement.
+
+...
+
+[Data](articles/8b4d1fc0.json)
+
+---
+
+### Hayleys Solar opens new experience centres in Negombo and Kandy
+
+*2024-04-17 00:44:05* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Solar-opens-new-experience-centres-in-Negombo-and-Kandy/34-760670) · `en`
+
+The grand opening of the Negombo Hayleys Solar Experience Centre by Hayleys Solar Executive Director and CEO Roshane Perera and Deputy General Manager, National Sales Akhila Jayasena
+
+Hayleys Solar, the renewable energy arm of Hayleys Fentons, has opened doors to two new Experience Centres in Negombo (669, Puttalam - Colombo Rd) and Kandy (No 465/A, William Gopallawa Mawatha) respectively, bringing their total to four across Sri Lanka.
+
+These new centres offer residents a one-stop shop to explore solar energy solutions. Hayleys Solar Experience Centres provide a comprehensive range of world-class solar products, including rooftop PV systems, batteries, and inverters. Visitors can also witness live demonstrations of solar-powered water pumps, solar-powered hot water systems, lighting systems, and PV systems in action.
+
+...
+
+[Data](articles/892f7622.json)
+
+---
+
+### CSE Chief on capital raising and stock market outlook for 2024
+
+*2024-04-17 00:27:21* · [`dailyftlk`](https://www.ft.lk/opinion/CSE-Chief-on-capital-raising-and-stock-market-outlook-for-2024/14-760665) · `en`
+
+The performance of the current market landscape hasn’t been very impressive since, the market yet remains undervalued. The current market PE is 10.27 and the price-to-book value is at 1.02. However, historically we have had our market trade at multiples of 17 times price earnings, one and a half times book value. Overall, we are quite optimistic that activity and turnover will increase driving yields and the market will perform well for the year 2024 as economic conditions continue to improve
+
+The Colombo Stock Exchange (CSE) Chairman Dilshan Wirasekara in this interview discusses the opportunities for capital raising and stock market outlook for 2024
+
+Q: Give us an overview of the current market landscape and discuss the CSE's overall outlook for the year 2024?
+
+...
+
+[Data](articles/ea89bb11.json)
+
+---
+
+### Why all the fuss for a downtown duty-free?
+
+*2024-04-17 00:16:51* · [`dailyftlk`](https://www.ft.lk/opinion/Why-all-the-fuss-for-a-downtown-duty-free/14-760664) · `en`
+
+MP Harsha in 2019 said the laws will be very conducive for incentives to attract foreign investment to the Colombo Port City
+
+A Parliamentary Committee led by MP Harsha de Silva has had a lot to say about the Colombo Port City Duty-Free recently by posting videos on YouTube. Unfortunately these videos get into the hands of potential investors. Sri Lanka attracts so much investment, so I guess it does not matter to them. Globally the easiest thing for an opposition politician to get noticed is to criticise.
+
+...
+
+[Data](articles/20203b1a.json)
+
+---
 
 ### The new visa system from today
 
@@ -2149,157 +2249,5 @@ After taking the pledge on April 22, the couple will have to sever all family ti
 [Data](articles/0b66eff6.json)
 
 [Extended Data](ext_articles/0b66eff6.ext.json)
-
----
-
-### Fake doctor trapped at fake medical station
-
-*2024-04-16 13:20:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/போலி-மருத்துவ-நிலையத்தில்-போலி-வைத்தியர்-சிக்கினார்/73-335989) · `ta`
-
-A fake doctor operating an illegal medical center in Sainthamaruthu, Pandaruppu, and Maruthamunai was arrested by Dr. Shakeela Isadheen, Director of Kalmunai Regional Health Services, following complaints. The center, operating without state recognition, was seized, and the doctor's unauthorized medical practices and drugs were confiscated. Legal action is being taken against the center for endangering human life and health.
-
-🟩
-
-An illegal medical center was identified as an illegal medical center in Sainthamaruthu, Pandaruppu and Maruthamunai areas on Tuesday (16).
-
-The sudden surrounding operation took place under the guidance of Dr. Shakeela Isadheen, Director of Kalmunai Regional Health Services, following the complaints received by the Government Medical Officers Association, Kalmunai Regional Health Services Workshop and Health Medical Officers.
-
-During the roundup, the person who identified himself as a doctor and operated without any state recognition was complied with the person who operated without any state recognition and seized the human use of the human use.
-
-In addition, a person who has no proper education or industrialization has been identified as the use of medical recommendations and the unauthorized drugs of the National Drug Regulatory Authority and the evidence he identified as a doctor was seized.
-
-...
-
-[Data](articles/8bc912bd.json)
-
-[Extended Data](ext_articles/8bc912bd.ext.json)
-
----
-
-### At least 17 dead after flash floods in Oman
-
-*2024-04-16 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98662/at-least-17-dead-after-flash-floods-in-oman) · `en`
-
-At least 17 people have died in flash floods triggered by heavy rain across Oman since Sunday, the country’s National Committee for Emergency Management (NCEM) reports.
-
-On Tuesday, the government suspended the work of employees and workers in the public and private sectors in five governorates, including Musandam, Al Buraimi, Al Dhahirah, and Al Dakhiliyah, due to the weather conditions.
-
-The government has allowed employees to work remotely if possible.
-
-Authorities in Oman are conducting “rescue operations” after announcing all schools in six governorates including Muscat, would be closed Monday “due to unstable weather conditions,” according to a Monday UNOCHA statement.
-
-Moderate heavy rainfall is expected across north-eastern and northern Oman over the next few days.
-
-◼️
-
-[Data](articles/1cabb822.json)
-
-[Extended Data](ext_articles/1cabb822.ext.json)
-
----
-
-### The attack on the face camera
-
-*2024-04-16 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195682) · `si`
-
-In Georgia, a video shows an opposition parliamentarian attacking the leader of the Georgian Dream party, leading to a heated debate on a controversial law.
-
-🟩
-
-A video of the Parliament in Georgia has reportedly reported a video of Parliament.
-
-The video states how a opposition parliamentarian attacks the Leader of the Georgian Dream party in Georgia.
-
-There was a terrible exchange between the opposition group and the parliamentary group of the ruling party.
-
-The conflict between the foreigner's debate on the law, which has been in place between the conflict between the controversy, has been infected with controversy, is restricted.
-
-◼️
-
-[Data](articles/5e2f6e31.json)
-
-[Extended Data](ext_articles/5e2f6e31.ext.json)
-
----
-
-### A young man who cut his girlfriend and mother
-
-*2024-04-16 13:13:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/காதலியையும்-தாயையும்-வெட்டிய-இளைஞன்-தன்னுயிரை-மாய்த்தார்/71-335988) · `ta`
-
-A young man in Jaffna, after a violent incident involving his girlfriend and her mother, tragically died. The couple had been in conflict, leading to the fatal attack. Neighbors rescued the victims, who were taken to the hospital.
-
-🟩
-
-A young man, after cutting his girlfriend and a girlfriend's mother with a sharp weapon, died of his life.
-
-The incident took place in the early hours of Tuesday (16) in Jaffna
-
-The young man and the woman from the area are in love. There has been a conflict between lovers over the past few days. In this case, the young man who had gone to the girlfriend's house and opened the door of the house, entered the house, cut the girlfriend and his mother with a sharp weapon.
-
-Neighbors who hear the noise are rescued by the mother and daughter who have been found with cut wounds and allowed the hospital to the hospital.
-
-A young man suspected of cutting a girlfriend in a land that was a little farther away from home
-
-◼️
-
-[Data](articles/5eda6248.json)
-
-[Extended Data](ext_articles/5eda6248.ext.json)
-
----
-
-### A person killed in a district lodge
-
-*2024-04-16 13:09:08* · [`adalk`](https://www.ada.lk/breaking_news/කලුතර-ලැගුම්හලක-පදංචිව-සිටි-රුසියන්-කතක්-මරුට/11-409103) · `si`
-
-A 74-year-old Russian woman, Nandasda Bodner, was found dead in a lodge in Kalutara North. She had been in Sri Lanka for 11 months. Investigations led by OIC Chief Inspector Damith Jayatilake are ongoing.
-
-🟩
-
-Kalutara North Police states that a Russian woman has been deceased in a bed of a lodge in Kalutara.
-
-The deceased has been identified as a 74 year old woman named Nandasda Bodner.
-
-The woman who had arrived in the island about 11 months ago, the resort has been rented.
-
-The woman with the lodge owned woman has commenced investigations today (16).
-
-Kalutara Criminal Laboratory Officers have been investigated and the body is to be taken to the Kalutara Teaching Hospital following the magisterial inquiry.
-
-OIC Chief Inspector Damith Jayatilake
-
-◼️
-
-[Data](articles/47fcc524.json)
-
-[Extended Data](ext_articles/47fcc524.ext.json)
-
----
-
-### Wijayadasa Rajapakse decision on presidential election
-
-*2024-04-16 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195681) · `si`
-
-Dr. Wijayadasa Rajapaksa, Justice Minister, plans to run in the next presidential election with support from several parties, including the SLFP Central Committee and religious leaders. He aims to make a decision within weeks, acknowledging the current lack of trust in political parties and the importance of individual voter choice.
-
-🟩
-
-Minister of Justice Dr. Wijayadasa Rajapaksa says that he has come forward with several parties to contest the next presidential election.
-
-The majority members representing the SLFP central committee have made requests.
-
-According to Wijayadasa Rajapakse, he said that he would make a decision on the next few weeks, Mr. Wijeyadasa Rajapaksa said.
-
-"I have requested a large number of groups. The majority of the Sri Lanka Freedom Party (SLFP) Central Committee has made the request. And our honorable Maha Sangha, the Leader of other religions have made that request. I thought further in the next few weeks. "
-
-Q. What is the party you do?Or independently?
-
-"People have no confidence in any political party in our country today. Therefore, the next election is a very different election, and also an election in a decree. Voters are not in the future. According to the individual, the people think of the election. "
-
-◼️
-
-[Data](articles/f874e8ea.json)
-
-[Extended Data](ext_articles/f874e8ea.ext.json)
 
 ---

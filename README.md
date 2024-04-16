@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 00:18:12**
+As of **2024-04-17 00:33:33**
 
 ## Newspaper Stats
 
-*Scraped **19,213** Articles*
+*Scraped **19,215** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 168
-bbccomsinhala | 200
+bbccomsinhala | 201
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,029
@@ -18,7 +18,7 @@ economynextcom | 1,082
 adalk | 1,600
 tamilmirrorlk | 2,240
 adaderanalk | 2,314
-virakesarilk | 2,870
+virakesarilk | 2,871
 dailymirrorlk | 2,962
 adaderanasinhalalk | 3,130
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,213 (100.0%) of 19,213 articles have been extended.
+19,213 (100.0%) of 19,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### பண்டைய ஒலிம்பியாவில் ஒலிம்பிக் சுடர் ஏற்றப்பட்டது
+
+*2024-04-16 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181263) · `ta`
+
+பாரிஸ் 2024 ஒலிம்பிக் விளையாட்டு விழாவுக்கு இன்னும் 100 நாட்களே உள்ள நிலையில், ஒலிம்பிக் பிறப்பிடமான கிரேக்கத்தின் பண்டைய ஒலிம்பியாவில் செவ்வாய்க்கிழமை (16) பாரம்பரிய முறைப்படி ஒலிம்பிக் சுடர் ஏற்றி வைக்கப்பட்டது.
+
+பண்டைய பெண் பாதிரியார்கள் போன்று உடை அணிந்த நடிகைகளால் குழிவு வில்லை கண்ணாடியைக் கொண்டு சூரிய கதிரிலிருந்து ஒலிம்பிக் சுடர் ஏற்றப்பட்டது.
+
+கிறிஸ்துவுக்கு முன்னர் 776ஆம் ஆண்டில் பண்டைய ஒலிம்பிக்கின் பிறப்பிடமான ஒலிம்பியாவில் ஆரம்பமான இயற்கையாக தீபச் சுடரை ஏற்றும் இந்த நடைமுறை பல நூற்றாண்டுகளாக பின்பற்றப்பட்டுவருகிறது.
+
+இந்த நிகழ்வின் ஆரம்பத்தில் ஒலிம்பிக் கீதத்தை அமெரிக்க பாடகி ஜொய்ஸ் டிடோனட்டோ பாடினார்.
+
+...
+
+[Data](articles/62e06763.json)
+
+---
 
 ### Dubai International Airport operations temporarily suspended; dozens of flights cancelled
 
@@ -771,6 +789,28 @@ Carring Thushara has pointed to the Commission that the Cabinet has been able to
 [Data](articles/61c97564.json)
 
 [Extended Data](ext_articles/61c97564.ext.json)
+
+---
+
+### පාලිත තෙවරප්පෙරුම : දිවි ගමනට සමුදුන් ජනතා සේවකයා
+
+*2024-04-16 18:32:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw8qpnpl2wlo) · `si`
+
+එක්සත් ජාතික පක්ෂය නියෝජනය කළ හිටපු පාර්ලිමේන්තු මන්ත්‍රී පාලිත තෙවරප්පෙරුම අද (අප්‍රේල් මස 16 වෙනිදා) අභාවප්‍රාප්ත විය.
+
+1960 මැයි මස 3 වැනිදා උපත ලැබූ පාලිත තෙවරප්පෙරුම මිය යන විට 64 වන වියේ පසුවිය.
+
+බීබීසී සිංහල සේවයට අදහස් දක්වමින් පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දුව ප්‍රකාශ කළේ මතුගම, යටදොලවත්ත ප්‍රදේශයේ පිහිටි හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයාට අයත් පොල් වත්තක දී සිදුවූ අනතුරකින් පාලිත තෙවරප්පෙරුම ජිවිතක්ෂයට පත්වී ඇති බවයි.
+
+" අපිට හරියටම කියන්න අමාරුයි සිදුවුණු අනතුර මොකක්ද කියලා. ඒ ගැන පරීක්ෂණයක් සිදුකරනවා." පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
+
+පාලිත තෙවරප්පෙරුම 2002 වසරේ පැවති මැතිවරණයෙන් දේශපාලනයට පිවිසි අතර ඔහු එක්සත් ජාතික පක්ෂය නියෝජනය කරමින් මතුගම ප්‍රාදේශීය සභාවේ සභාපතිවරයා ලෙස තේරී පත්වුයේ මනාප 7,000ක් ලබා ගනිමිනි.
+
+පසුව ඔහු බස්නාහිර පළාත් සභාවට තේරී පත්වූ අතර, එම මැතිවරණයේදී ඔහු ලබා ගත් ජන්ද සංඛ්‍යාව 39,167කි.
+
+...
+
+[Data](articles/da879a90.json)
 
 ---
 
@@ -2243,49 +2283,5 @@ There were about ten to ten thousand accidents a day, and there were no fatal ac
 [Data](articles/b116922d.json)
 
 [Extended Data](ext_articles/b116922d.ext.json)
-
----
-
-### Lis Trasp said Trump to be President
-
-*2024-04-16 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195680) · `si`
-
-Lis Traders, former British PM, supports Trump as the most secure president, warning of conflicts and a "strong America now." Trump is the Republican candidate for the November US presidential election.
-
-🟩
-
-Former President Donald Trump, former British Prime Minister Lis Traders, says the former British Prime Minister Lis Traders.
-
-She says Trump is the "most secure" when the Trump is in the White House.
-
-Trosperson of the British Yattuarus, Trosman, is currently in danger of conflicts, and that the world is in danger of "strong America now" now.
-
-Trump is the Republican Party candidate for the US presidential election in November.
-
-◼️
-
-[Data](articles/8dc0afb5.json)
-
-[Extended Data](ext_articles/8dc0afb5.ext.json)
-
----
-
-### 52-year-old man hacked to death while sleeping
-
-*2024-04-16 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98661/52-year-old-man-hacked-to-death-while-sleeping) · `en`
-
-A 52-year-old man was hacked to death with a sharp weapon in Borupana, Rathmalana early this morning (16).
-
-According to the police report, two assailants had killed the man while he was sleeping inside his bedroom.
-
-Mount Lavinia police have launched an investigation to hunt down the perpetrators who are yet to be identified. The motive behind the murder was not immediately clear.
-
-The post-mortem is slated to be performed following the completion of the magistrate’s inquest into the death.
-
-◼️
-
-[Data](articles/dc620e6e.json)
-
-[Extended Data](ext_articles/dc620e6e.ext.json)
 
 ---

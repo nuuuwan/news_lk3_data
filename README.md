@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 19:03:28**
+As of **2024-04-16 19:19:07**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 3,123
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,166 (100.0%) of 19,167 articles have been extended.
+19,167 (100.0%) of 19,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### ”யார் இணைவார்கள் என்பது எங்களுக்கு கவலையில்லை”
+### “We don't care who will join”
 
 *2024-04-16 18:26:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யார்-இணைவார்கள்-என்பது-எங்களுக்கு-கவலையில்லை/175-335994) · `ta`
 
-கட்சி அரசியலை மறக்க வேண்டிய தருணம் இது என்பதை வலியுறுத்தி, நிலையான நாட்டை உருவாக்குவதற்கு கைகோர்க்குமாறு அனைத்து அரசியல் கட்சிகளுக்கும் ஐக்கிய தேசியக் கட்சி இன்று அழைப்பு விடுத்துள்ளது.
+The United National Party (UNP) calls for all political parties to unite, focusing on national stability. UNP General Secretary Palitha Range Bandara invites all parties, including the Sri Lanka Freedom Party (SLFP), to join for the nation's welfare. He also criticizes Samaki Jana Balavegaya (SJB) MPs for opposing their party leader and urges SJB and National People's Power (NPP) to focus on the economy, not debates.
 
-“நாங்கள் நினைப்பது கட்சி அரசியலுக்கு அப்பாற்பட்ட கூட்டு முயற்சி. எனவே இலங்கையை நிலையான நாடாக மாற்றுவதற்கான பொதுவான இலக்கை அடைய அனைத்து அரசியல் கட்சிகளையும் கைகோர்க்குமாறு அழைப்பு விடுக்கின்றோம் என ஐக்கிய தேசியக் கட்சியின் பொதுச் செயலாளர் பாலித ரங்கே பண்டார தெரிவித்துள்ளார்.
+🟩
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியினர் தற்போது நெருக்கடியை எதிர்நோக்கியிருக்கும் நிலையில், ஸ்ரீலங்கா சுதந்திரக் கட்சி உறுப்பினர்கள் கைகோர்ப்பதை ஐக்கிய தேசியக் கட்சி வரவேற்குமா என ஊடகவியலாளர்கள் எழுப்பிய கேள்விக்கு பதிலளிக்கையிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+The United National Party today has called for all political parties to join hands, emphasizing that this is the time to forget party politics.
 
-"தேசத்தின் நலனுக்காக கைகோர்க்க தயாராக இருக்கும் வரை எங்களுடன் யார் இணைவார்கள் என்பது எங்களுக்கு கவலையில்லை," என்று அவர் மேலும் கூறினார்.
+“What we think is a joint venture beyond party politics. The General Secretary of the United National Party, Palitha Range Bandara, said that we are invited to join hands with all political parties to achieve the common goal of transforming Sri Lanka into a stable country.
+
+In response to a question raised by journalists whether the United National Party would welcome the Sri Lanka Freedom Party (SLFP) members, as the Sri Lanka Freedom Party (SLFP) is currently facing a crisis.
+
+“We do not care who will join us until he is ready to join hands for the welfare of the nation,” he added.
+
+The General Secretary of the United National Party has called on the United National Party to join the United National Party to all the MPs in the Samaki Jana Balavegaya (SJB), which is in conflict with his party leader.
 
 ...
 
 [Data](articles/496c307c.json)
+
+[Extended Data](ext_articles/496c307c.ext.json)
 
 ---
 

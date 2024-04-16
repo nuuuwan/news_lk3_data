@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 21:34:10**
+As of **2024-04-16 21:52:59**
 
 ## Newspaper Stats
 
-*Scraped **19,191** Articles*
+*Scraped **19,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ dailyftlk | 1,040
 economynextcom | 1,072
 adalk | 1,600
 tamilmirrorlk | 2,239
-adaderanalk | 2,310
+adaderanalk | 2,311
 virakesarilk | 2,868
-dailymirrorlk | 2,959
+dailymirrorlk | 2,960
 adaderanasinhalalk | 3,128
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,189 (100.0%) of 19,191 articles have been extended.
+19,191 (100.0%) of 19,193 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### Street food vendor arrested for price-gouging and verbally harassing a foreigner
+
+*2024-04-16 21:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98671/street-food-vendor-arrested-for-price-gouging-and-verbally-harassing-a-foreigner-) · `en`
+
+Police have arrested the owner of a street food stall in Aluthkade (Hulftsdorp) for price-gouging and verbally harassing a foreigner.
+
+The arrest was made by the officers of Keselwatta Police based on a viral video of the said vendor who appeared to charge Rs. 1,900 from a foreigner for a Kottu Roti.
+
+The vendor was then seen behaving in a verbally aggressive manner when the foreigner refused to buy the Kottu Roti at the quoted price.
+
+The 51-year-old is reportedly a resident of Colombo 12 area. He will be produced before the Aluthkade Magistrate’s Court tomorrow (17).
+
+◼️
+
+[Data](articles/cbf61d1e.json)
+
+---
+
+### Keheliya’s official vehicles not handed over yet?
+
+*2024-04-16 21:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliyas-official-vehicles-not-handed-over-yet/108-280790) · `en`
+
+Colombo, April 16 (Daily Mirror) - Since the remanding of former Health Minister Keheliya Rambukwella, the two official vehicles provided to him while he was Minister are still being used by his family members, a Health Ministry official alleged.
+
+He claimed that the official residence provided to the former Minister at Wijerama Mawatha has also not been handed over yet.
+
+If a public official is in remand custody, all the privileges he has received will be revoked immediately. Hence, the official questioned why former Minister Rambukwella is being given special consideration.
+
+The official also alleged that the family members of Minister Rambukwella, who is on remand, come to the Welikada Prison in the same official vehicles.
+
+A Toyota Prado and a Mercedes-type vehicle are being used by his family members to visit him.
+
+...
+
+[Data](articles/269d9563.json)
+
+---
 
 ### Kadi Kadalai arrested for demanding Rs.
 
@@ -50,17 +88,23 @@ A person has been arrested in connection with Street Food Marketing, Colombo for
 
 ---
 
-### சர்வோதய இயக்க ஸ்தாபகர் ஆரியரத்ன காலமானார்!
+### Sarvodaya Movement Founder Aryaratne passed away!
 
 *2024-04-16 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181260) · `ta`
 
-சர்வோதய இயக்கத்தின் ஸ்தாபகரான கலாநிதி ஏ.டி.ஆரியரத்ன செவ்வாய்க்கிழமை (16) மாலை கொழும்பில் உள்ள தனியார் வைத்தியசாலையில் காலமானார். இறக்கும் போது அவருக்கு வயது 92.
+Dr. AT Ariyarathna, founder of the Sarvodaya Movement, died at 92. A continuous activist in Sri Lankan politics and social development, he passed away on Tuesday evening.
 
-1931 ஆம் ஆண்டு நவம்பர் மாதம் 5 ஆம் திகதி காலி மாவட்டத்தின் உனவடுன பிரதேசத்தில் பிறந்த ஆரியரத்ன இலங்கை அரசியலிலும் சமூக அபிவிருத்தியிலும் தொடர்ச்சியான செயற்பாட்டாளராக அறியப்பட்டவர்.
+🟩
+
+Dr. AT Ariyarathna, the founder of the Sarvodaya Movement, passed away at a private hospital in Colombo on Tuesday evening (16). He is 92 years old at his death.
+
+Born on November 5, 1931, Aryaratne was known as a continuous activist in Sri Lankan politics and social development.
 
 ◼️
 
 [Data](articles/8743c2ca.json)
+
+[Extended Data](ext_articles/8743c2ca.ext.json)
 
 ---
 
@@ -434,19 +478,25 @@ Postalitha Thevarapperuma is a former United National Party (UNP) Member of Parl
 
 ---
 
-### වේදිකාවට දුම්රිය ගෙනා රියදුරුගේ වැඩ තහනම්
+### Driver's work for the stage is banned
 
 *2024-04-16 18:46:40* · [`adalk`](https://www.ada.lk/breaking_news/වේදිකාවට-දුම්රිය-ගෙනා-රියදුරුගේ-වැඩ-තහනම්/11-409110) · `si`
 
-හලාවත බලා ධාවනය කිරීමට සූදානම්ව තිබියදී කොළඹ කොටුව දුම්රිය ස්ථානයේ පළමු වේදිකාවේ ගැටුණු දුම්රියේ රියදුරුගේ සේවය තාවකාලිකව අත්හිටුවූ බව දුම්රිය නියෝජ්‍ය සාමාන්‍යාධිකාරී (ගමනාගමන) එන්.ජේ. ඉඳිපොළගේ මහතා 'අද' පුවත්පතට  පැවැසීය.
+The Venerable Vidiage announced the suspension of a driver's work for the stage, following instructions from the General Manager of Railways. The Inspector General Manager is to submit a report by the end of this week.
 
-දුම්රිය සාමාන්‍යාධිකාරිවරයාගේ උපදෙස් මත මෙම අත්හිටුවීම සිදු කර ඇති අතර, අදාළ සිද්ධිය පිළිබඳව පරීක්‍ෂණයක් ආරම්භ කළ බවද හෙතෙම සඳහන් කළේය.
+🟩
 
-එම පරීක්ෂණය දිස්ත්‍රික් පරීක්ෂණ නිලධාරීන් දෙදෙනෙකු විසින් සිදු කරන අතර, මෙම සතිය අවසන් වීමට පෙර එම වාර්තාව ලබා දෙන ලෙස දුම්රිය සාමාන්‍යාධිකාරිවරයා උපදෙස් ලබා දී තිබේ.
+Deputy General Manager (Transport) NJ, Deputy General Manager (Transport) NG, Deprecated driver (Transportation). The Venerable Vidiage said to the newspaper today.
+
+He said that the suspension was carried out on the instructions of the General Manager of Railways.
+
+The Inspector General Manager of the Railways has been instructed to give the report before the end of this week.
 
 ◼️
 
 [Data](articles/e75745cc.json)
+
+[Extended Data](ext_articles/e75745cc.ext.json)
 
 ---
 
@@ -2247,61 +2297,5 @@ At the time of the attack, a stroke struggled to prevent the damster attacker wa
 [Data](articles/210f5aaa.json)
 
 [Extended Data](ext_articles/210f5aaa.ext.json)
-
----
-
-### I did surgery for a large number of boys - many of them were subject to six - British doctor who returned from Gaza
-
-*2024-04-16 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181212) · `ta`
-
-A British doctor from Gaza reports treating numerous young boys, many under 16, for war injuries, including gunshot wounds. He highlights the impact of inadequate food on their recovery.
-
-🟩
-
-A British doctor who recently returned from Gaza has said that he had been surrendering to a large number of children who were injured in the war.
-
-Doctor Victoria Ross said that the number of surgery for the wounded boys was shocked by me.
-
-He said that many of them under the age of 16 have been surgical and many of them are subject to six.
-
-He said that he was treated for victims of firing injuries and other injuries.
-
-He said that the injuries of those who were injured in Gaza were seen as a problem with the inadequate food.
-
-He said that all the others were younger than me and that they were under 16 years of age, six years old.
-
-He said that he was involved in the removal of other items found in the tissues and the removal of other materials found in the tissues, and the removal of the rifles found in the jawbone.
-
-The UN has warned that hunger conditions can be created in Gaza
-
-According to doctor Victoria Rose, it is difficult for patients to recover immediately.
-
-...
-
-[Data](articles/86a98215.json)
-
-[Extended Data](ext_articles/86a98215.ext.json)
-
----
-
-### A girlfriend and girlfriend's mother with sharp weapon!
-
-*2024-04-16 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/181211) · `ta`
-
-A man, Gunathakam Pranavan, 35, from Ilavalai, entered a woman's house with a weapon, killing her. He escaped at 4 am Tuesday. The woman and her mother were hospitalized. Ilavalai police are investigating.
-
-🟩
-
-The suspect dies after being hit by a sharp weapon. The deceased was Gunathakam Pranavan (age 35), who lived in the Ilavalai police division.
-
-The man entered the house of the woman and her mother with a sharp weapon and escaped from there at 4.00 am on Tuesday.
-
-In this case, the woman and the mother of the girl have been admitted to the Jaffna Teaching Hospital.. Further investigations are being carried out by the Ilavalai police.
-
-◼️
-
-[Data](articles/a630716e.json)
-
-[Extended Data](ext_articles/a630716e.ext.json)
 
 ---

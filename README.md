@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 14:03:22**
+As of **2024-04-16 14:18:44**
 
 ## Newspaper Stats
 
-*Scraped **19,114** Articles*
+*Scraped **19,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,38 @@ adalk | 1,589
 tamilmirrorlk | 2,234
 adaderanalk | 2,301
 virakesarilk | 2,849
-dailymirrorlk | 2,940
+dailymirrorlk | 2,941
 adaderanasinhalalk | 3,116
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,109 (100.0%) of 19,114 articles have been extended.
+19,114 (100.0%) of 19,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### අධිවේගයෙන් නොසිතූ ආදායමක්
+### An unexpected income from highway
 
 *2024-04-16 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195684) · `si`
 
-පසුගිය වසරට සාපේක්ෂව මෙවර අලුත් අවුරුදු සමයේ අධිවේගී මාර්ගවල ආදායම රුපියල් මිලියන 80කින් පමණ වර්ධනය වී ඇති බව මාර්ග සංවර්ධන අධිකාරිය පවසයි.
+The Road Development Authority reported a Rs. 80 million increase in New Year's Expressway revenue this year. Director General Priyantha Sooriyabandara noted a Rs. 235 million income from highways in 6 days from April 10 to 15.
 
-එහි අධ්‍යක්ෂ ජනරාල් ප්‍රියන්ත සුරියබණ්ඩාර මහතා අද (16) මාධ්‍ය වෙත අදහස් දක්වමින් මේ බව පැවසීය.
+🟩
 
-ඒ මහතා වැඩිදුරටත් පැවසුවේ මේ වසරේ අප්‍රේල් මස 10 වන දා සිට 15 වන දා දක්වා වු දින 06 තුළ අධිවේගී මාර්ගවල ආදායම රුපියල් මිලියන 235ක් ලෙසට වාර්තා වී ඇති බවය.
+The Road Development Authority (Road Development Authority) stated that the revenue on the New Year's Expressions increased by Rs. 80 million compared to last year.
+
+The Director General of the Director General Priyantha Sooriyabandara has commented today (16).
+
+He further stated that the revenue on highways was Rs. 235 million in 6 days from April 10 to the 15th of this year.
 
 ◼️
 
 [Data](articles/e8fbae19.json)
+
+[Extended Data](ext_articles/e8fbae19.ext.json)
 
 ---
 
@@ -76,19 +82,45 @@ He also emphasized the need to preserve the IMF program and maintain the need fo
 
 ---
 
-### போலி மருத்துவ நிலையத்தில் போலி வைத்தியர் சிக்கினார்
+### Gujarat businessman, wife donate Rs 200 crore wealth to become monks
+
+*2024-04-16 13:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gujarat-businessman-wife-donate-Rs-200-crore-wealth-to-become-monks/108-280769) · `en`
+
+An affluent Jain couple from Gujarat, India has donated nearly ₹ 200 crore and adopted monkhood, and now plans to set out on a journey for salvation.
+
+Bhavesh Bhandari, and his wife, donated all their wealth during a ceremony in February, and will officially commit to a life of renunciation at an event later this month.
+
+The businessman from Himmatnagar who was in the construction business follows in the footsteps of his 19-year-old daughter and 16-year-old son who adopted monkhood in 2022. People from their community say that Bhavesh and his wife were inspired by their children to "renounce their material attachments and join the ascetic path".
+
+After taking the pledge on April 22, the couple will have to sever all family ties and won't be allowed to keep any 'materialistic objects'. They will then walk barefoot across India and survive only on alms.
+
+...
+
+[Data](articles/0b66eff6.json)
+
+---
+
+### Fake doctor trapped at fake medical station
 
 *2024-04-16 13:20:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/போலி-மருத்துவ-நிலையத்தில்-போலி-வைத்தியர்-சிக்கினார்/73-335989) · `ta`
 
-பொதுமக்களின் சுகாதாரத்திற்கு அச்சுறுத்தலாக அமையும் இடங்கள் மீதான தொடர் சுற்றிவளைப்பின் மற்றுமோர் அங்கமாக சட்டவிரோத மருத்துவ நிலையம் ஒன்று   சாய்ந்தமருது, பாண்டிருப்பு, மருதமுனை பிரதேசங்களில் செவ்வாய்க்கிழமை (16) அடையாளம் காணப்பட்டு அந்த நிலையத்திற்கு எதிராக நடவடிக்கை எடுக்கப்பட்டது.
+A fake doctor operating an illegal medical center in Sainthamaruthu, Pandaruppu, and Maruthamunai was arrested by Dr. Shakeela Isadheen, Director of Kalmunai Regional Health Services, following complaints. The center, operating without state recognition, was seized, and the doctor's unauthorized medical practices and drugs were confiscated. Legal action is being taken against the center for endangering human life and health.
 
-அரச வைத்திய அதிகாரிகள் சங்கம், கல்முனை பிராந்திய சுகாதார சேவைகள் பணிமனை, சுகாதார வைத்திய அதிகாரி காரியாலயங்களுக்கு தொடர்ந்தும் கிடைக்கப்பெற்ற முறைப்பாடுகளை அடுத்து கல்முனை பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்திய கலாநிதி ஷகீலா இஸ்ஸதீனின் ஆலோசனை வழிகாட்டலில் இந்த திடீர் சுற்றிவளைப்பு நடவடிக்கை இடம்பெற்றது.
+🟩
 
-இந்த சுற்றிவளைப்பின் போது தன்னை வைத்தியராக அடையாளம் காட்டிக்கொண்டு எவ்வித அரச அங்கீகாரமுமின்றி இயங்கிவந்த மருத்துவ நிலையமும், அழகுக்கலை நிலையமும், பயற்சி நிலையமும் நடத்தி வந்த நபர் இணங்காணப்பட்டதுடன் அவரிடமிருந்த மனித பாவனைக்கு பொருத்தமற்ற மற்றும் ஆபத்தான மருந்துகளும் கைப்பற்றப்பட்டன.
+An illegal medical center was identified as an illegal medical center in Sainthamaruthu, Pandaruppu and Maruthamunai areas on Tuesday (16).
+
+The sudden surrounding operation took place under the guidance of Dr. Shakeela Isadheen, Director of Kalmunai Regional Health Services, following the complaints received by the Government Medical Officers Association, Kalmunai Regional Health Services Workshop and Health Medical Officers.
+
+During the roundup, the person who identified himself as a doctor and operated without any state recognition was complied with the person who operated without any state recognition and seized the human use of the human use.
+
+In addition, a person who has no proper education or industrialization has been identified as the use of medical recommendations and the unauthorized drugs of the National Drug Regulatory Authority and the evidence he identified as a doctor was seized.
 
 ...
 
 [Data](articles/8bc912bd.json)
+
+[Extended Data](ext_articles/8bc912bd.ext.json)
 
 ---
 
@@ -138,23 +170,29 @@ The conflict between the foreigner's debate on the law, which has been in place 
 
 ---
 
-### காதலியையும் தாயையும் வெட்டிய இளைஞன் தன்னுயிரை மாய்த்தார்
+### A young man who cut his girlfriend and mother
 
 *2024-04-16 13:13:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/காதலியையும்-தாயையும்-வெட்டிய-இளைஞன்-தன்னுயிரை-மாய்த்தார்/71-335988) · `ta`
 
-இளைஞன் ஒருவர், தனது காதலியையும் , காதலியின் தாயையும் கூரிய ஆயுதத்தால் வெட்டிய பின்னர் தனது உயிரை மாய்த்துள்ளார் .
+A young man in Jaffna, after a violent incident involving his girlfriend and her mother, tragically died. The couple had been in conflict, leading to the fatal attack. Neighbors rescued the victims, who were taken to the hospital.
 
-யாழ்ப்பாணம் - பண்டத்தரிப்பு , பணிப்புலம் பகுதியில்    செவ்வாய்க்கிழமை (16)  அதிகாலை இடம்பெற்ற சம்பவம் குறித்து தெரியவருவதாவது,
+🟩
 
-இளைஞனும் அப்பகுதியை சேர்ந்த யுவதியும் காதலித்து வந்துள்ளனர். இந்நிலையில் கடந்த சில நாட்களாக காதலர்களுக்கு இடையில் முரண்பாடு ஏற்பட்டுள்ளது. இந்நிலையில், காதலியின் வீட்டுக்கு சென்று மறைந்திருந்த இளைஞன் , வீட்டார் காலை வீட்டின் கதவை திறந்த வேளை , வீட்டினுள் நுழைந்து , காதலியையும் , அவரது தாயையும் கூரிய ஆயுதத்தால் வெட்டி விட்டு அங்கிருந்து தப்பி சென்றுள்ளார்.
+A young man, after cutting his girlfriend and a girlfriend's mother with a sharp weapon, died of his life.
 
-சத்தம் கேட்டு கூடிய அயலவர்கள் வெட்டு காயங்களுடன் காணப்பட்ட தாயையும் மகளையும் மீட்டு , வைத்தியசாலைக்கு அனுமதி வைத்துள்ளனர்.
+The incident took place in the early hours of Tuesday (16) in Jaffna
 
-அந்நிலையில் வீட்டில் இருந்து சற்று தொலைவில் இருந்த காணி ஒன்றில் காதலியை வெட்டியதாக சந்தேகிக்கப்படும் இளைஞன் தனது உயிரை மாய்த்த நிலையில் சடலமாக மீட்கப்பட்டுள்ளார்
+The young man and the woman from the area are in love. There has been a conflict between lovers over the past few days. In this case, the young man who had gone to the girlfriend's house and opened the door of the house, entered the house, cut the girlfriend and his mother with a sharp weapon.
+
+Neighbors who hear the noise are rescued by the mother and daughter who have been found with cut wounds and allowed the hospital to the hospital.
+
+A young man suspected of cutting a girlfriend in a land that was a little farther away from home
 
 ◼️
 
 [Data](articles/5eda6248.json)
+
+[Extended Data](ext_articles/5eda6248.ext.json)
 
 ---
 
@@ -860,19 +898,25 @@ Such a threat is condemned by the psychological attack and the literaryists and 
 
 ---
 
-### අවුරුදු නිවාඩු සමයේ ශ්‍රී පාද ස්ථානය
+### Sri Pada location during the year holiday season
 
 *2024-04-16 10:55:19* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-නිවාඩු-සමයේ-ශ්‍රී-පාද-ස්ථානය/11-409099) · `si`
 
-දිවයිනේ විවිධ ප්‍රදේශවල සිට බෞද්ධ, හින්දු ඇතුළු අන්‍යාගමිකයින් රැසක් මෙසේ ශ්‍රීපාදස්ථානය බලා පැමිණෙමින් සිටින බව නල්ලතන්නිය පොලීසිය කියයි.
+During the year-end holiday, Sri Pada attracts Buddhist and Hindu pilgrims from across the island. A special bus service connects Hatton to Nallathanniya, accommodating large numbers of visitors.
 
-දුම්රියෙන් හැටන් බලා පැමිණෙන වන්දනාකරුවන් සඳහා  විශේෂ බස් සේවාවක් හැටන් දුම්රිය ස්ථානයේ සිට නල්ලතන්නිය දක්වා හැටන් ලංගම ඩිපෝව මගින් යොදවා ඇති බව එම ඩිපෝවේ ධාවන අංශය පවසයි.
+🟩
 
-කුලී බස් හා වෑන් රථ වලින්ද විශාල වන්දනාකරුවන් පිරිසක් නල්ලතන්නිය බලා පැමිණෙමින් සිටිති. නල්ලතන්නියේ පිහිටි සියළු රථ ගාල්, වන්දනාකරුවන් රැගෙන පැමිණි බස් රථවලින් පිරී යාම නිසා  නල්ලතන්නිය-මස්කෙළිය ප්‍රධාන මාර්ගයේ ලක්ෂපාන ප්‍රදේශය දක්වා කිලෝ මීටර් 03 ක පමණ දුරක් මාර්ගයේ දෙපස බස් හා වෑන් රථ ගාල් කිරිම සිදු කර තිබුණි.
+Nallathaniya police say that many Buddhist and Hindu including Buddhist and Hindu from various parts of the island are coming to the Sri Pada.
+
+A special bus service has been deployed from Hatton to Nallathanniya from Hatton Station from Hatton to Nalluthaniya.
+
+Large pilgrims are coming to Nallathanniya. The bus and vans were parked on either side of the road to the Nallathan, Maskeliya main road due to buses from the Nalluthanwela.
 
 ◼️
 
 [Data](articles/baaba466.json)
+
+[Extended Data](ext_articles/baaba466.ext.json)
 
 ---
 
@@ -1356,21 +1400,27 @@ Accordingly, as many as 11 trains departing Colombo Fort to Moratuwa, Panadura, 
 
 ---
 
-### இராஜாங்க அமைச்சர் பயணித்த கார் திடீரென தீப்பற்றியது
+### The car that the diplomatic minister traveled was suddenly set on fire
 
 *2024-04-16 09:31:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இராஜாங்க-அமைச்சர்-பயணித்த-கார்-திடீரென-தீப்பற்றியது/76-335980) · `ta`
 
-இராஜாங்க அமைச்சர் சாமர சம்பத் தசநாயக்க பயணித்த கார் பண்டாரவளை - ஹல்பே பகுதியில் வைத்து  இன்று அதிகாலை 12.45 மணியளவில் திடீரென தீப்பற்றி எரிந்து விபத்துக்குள்ளாகியுள்ளது.
+Diplomatic minister's car caught fire in Bandarawela-Halbey, en route from Mahiyanganaya to Ella, at 12.45 am. No injuries. Fire extinguished by local fire brigade, police, and residents.
 
-இராஜாங்க அமைச்சர் மஹியங்கனையிலிருந்து எல்ல பிரதேசத்திற்கு சென்று கொண்டிருந்த போதே தீ விபத்து ஏற்பட்டுள்ளது.
+🟩
 
-எனினும், இந்த தீ விபத்தில் இராஜாங்க அமைச்சருக்கோ, சாரதிக்கோ காயங்கள் ஏதும் ஏற்படவில்லை.
+State Minister Samara Sampath Dasanayake was traveling in Bandarawela - Halbey area at around 12.45 am this morning.
 
-பண்டாரவளை மாநகரசபையின் தீயணைப்பு பிரிவினர், எல்ல பொலிஸார் மற்றும் பிரதேசவாசிகள் இணைந்து தீயை அணைக்கும் பணியில் ஈடுபட்டனர்.
+The fire broke out while traveling from the Minister of State Mahiyanganaya to Ella.
+
+However, the fire did not cause any injuries to the Minister of State or the driver.
+
+The fire brigade of the Bandarawela Municipal Council, all the police and the residents of the area worked to extinguish the fire.
 
 ◼️
 
 [Data](articles/19a9f3e3.json)
+
+[Extended Data](ext_articles/19a9f3e3.ext.json)
 
 ---
 
@@ -2229,27 +2279,5 @@ As a result, the island’s fragile defences attracted a rash of free-lance merc
 [Data](articles/17aab942.json)
 
 [Extended Data](ext_articles/17aab942.ext.json)
-
----
-
-### Is the Indian Ocean “Zone of Peace” sinking in troubled waters?
-
-*2024-04-16 00:52:18* · [`dailyftlk`](https://www.ft.lk/columns/Is-the-Indian-Ocean-Zone-of-Peace-sinking-in-troubled-waters/4-760640) · `en`
-
-An aerial view of the Village of Kolhuvaariyaafushi, Mulaaku Atoll, the Maldives, after the Indian Ocean Tsunami in December 2004. Credit: UN Photo/Evan Schneider
-
-UNITED NATIONS (IDN) – Just after a group of mercenaries tried to unsuccessfully oust the government of Maldives in 1979, I asked a Maldivian diplomat, using a military jargon, about the strength of his country’s “standing army.”
-
-“Standing army?”, the UN diplomat asked with mock surprise, and remarked perhaps jokingly, “We don’t even have a sitting army.”
-
-With a population of about 250,000, in a bygone era, (currently over 500,000), the Maldives was perhaps one of the world’s few countries, along with Costa Rica, with no armed forces, fighter planes, combat helicopters, warships, missiles or battle tanks.
-
-As a result, the island’s fragile defences attracted a rash of free-lance mercenaries and bounty hunters who tried to take over the country twice-- once in 1979, and a second time in 1988.
-
-...
-
-[Data](articles/bbfbaf0a.json)
-
-[Extended Data](ext_articles/bbfbaf0a.ext.json)
 
 ---

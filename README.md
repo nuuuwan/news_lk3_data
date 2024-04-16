@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 03:33:53**
+As of **2024-04-17 03:51:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,235 (100.0%) of 19,237 articles have been extended.
+19,237 (100.0%) of 19,237 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,6 +42,8 @@ Who is responsible for emerging religious extremism in Tamil North? Let me tell 
 
 [Data](articles/778d31b3.json)
 
+[Extended Data](ext_articles/778d31b3.ext.json)
+
 ---
 
 ### Broadening medical education: Who’s paying, and for what?
@@ -55,6 +57,8 @@ According to the University Grants Commission (UGC), the second most expensive u
 ...
 
 [Data](articles/f84df3c4.json)
+
+[Extended Data](ext_articles/f84df3c4.ext.json)
 
 ---
 

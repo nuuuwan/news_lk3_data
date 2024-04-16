@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 02:34:24**
+As of **2024-04-17 02:50:18**
 
 ## Newspaper Stats
 
-*Scraped **19,224** Articles*
+*Scraped **19,228** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 201
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,029
-dailyftlk | 1,045
+dailyftlk | 1,049
 economynextcom | 1,082
 adalk | 1,600
 tamilmirrorlk | 2,241
@@ -26,11 +26,83 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,224 (100.0%) of 19,224 articles have been extended.
+19,224 (100.0%) of 19,228 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### BIMSTEC Secretary-General discusses regional cooperation in Bay of Bengal Region at LKI
+
+*2024-04-17 02:33:55* · [`dailyftlk`](https://www.ft.lk/news/BIMSTEC-Secretary-General-discusses-regional-cooperation-in-Bay-of-Bengal-Region-at-LKI/56-760689) · `en`
+
+BIMSTEC Secretary-General Ambassador Indra Mani Pandey (centre) with LKI Executive Director Ambassador Ravinatha Aryasinha and Foreign Affairs Ministry Additional Secretary (Economic Affairs) Shanika Dissanayake
+
+The Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) Secretary-General Ambassador Indra Mani Pandey was hosted by the Lakshman Kadirgamar Institute (LKI) for a special guest lecture and interactive session titled “Regional Cooperation through BIMSTEC” on 9 April 2024 at the Lighthouse Auditorium.
+
+The program provided an opportunity for the gathering of Sri Lankan policymakers, academics, researchers, and university students to engage directly with the Secretary-General who was on his first official visit to Sri Lanka, in evaluating topics and concerns related to the region and BIMSTEC, in the context of global politics and Sri Lanka’s policy interests.
+
+...
+
+[Data](articles/267f7fe9.json)
+
+---
+
+### Sri Lanka and Kazakhstan successfully conclude 2nd round of Foreign Office Consultations
+
+*2024-04-17 02:32:16* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-Kazakhstan-successfully-conclude-2ndround-of-Foreign-Office-Consultations/56-760688) · `en`
+
+Sri Lanka and Kazakhstan successfully concluded the second round of Foreign Office Consultations in Astana 11 April.
+
+The Sri Lanka delegation was led by Foreign Secretary Aruni Wijewardane, and the delegation of Kazakhstan was led by Deputy Minister of Foreign Affairs of Kazakhstan Alibek Bakayev.  On high-level bilateral visits, the Kazakhstan delegation invited President Ranil Wickremesinghe to undertake an official visit to Kazakhstan. A visit by Foreign Minister Ali Sabry to participate in the Astana International Forum in June 2024 was also confirmed. On bilateral cooperation, trade, tourism, energy, transport and logistics were prioritized. It was acknowledged that the resumption of direct charter flights by Air Astana to Sri Lanka has contributed to increasing tourist arrivals from Kazakhstan to Sri Lanka and the two sides will explore a reciprocal visa free arrangement for normal passport holders.
+
+...
+
+[Data](articles/e6501b46.json)
+
+---
+
+### Inaugural Foreign Office Consultations between Sri Lanka and Kyrgyz Republic
+
+*2024-04-17 02:30:47* · [`dailyftlk`](https://www.ft.lk/news/Inaugural-Foreign-Office-Consultations-between-Sri-Lanka-and-Kyrgyz-Republic/56-760687) · `en`
+
+The inaugural Sri Lanka-Kyrgyz Republic Foreign Office consultations successfully concluded in Bishkek, Kyrgyz Republic on 15 April 2024.
+
+Foreign Secretary of Sri Lanka Aruni Wijewardane and Deputy Minister of Foreign Affairs of the Kyrgyz Republic Avazbek Atakhanov co-chaired the consultations.
+
+The consultations are part of Sri Lanka’s initiative to strengthen bilateral ties with the countries of the Central Asia region.
+
+A Memorandum of Understanding on Bilateral Cooperation was signed between the two Foreign Ministries. Sri Lanka established diplomatic relations with the Kyrgyz Republic in 1996, and this is the first high-level visit to take place between the two countries.
+
+During the official talks, the two sides prioritised expanding economic cooperation, focusing on apparel, gems and jewellery, tea, food and beverages, wellness and ayurvedic products, education services and ICT sectors
+
+...
+
+[Data](articles/89c7c811.json)
+
+---
+
+### Praise for Sri Lanka’s economic recovery at high-level discussions at IMF-World Bank spring meeting
+
+*2024-04-17 02:26:41* · [`dailyftlk`](https://www.ft.lk/business/Praise-for-Sri-Lanka-s-economic-recoveryat-high-level-discussions-at-IMF-World-Bank-spring-meeting/34-760686) · `en`
+
+Semasinghe participating in a discussion with the Business Council for International Understanding (BCIU) in Washington
+
+IMF Deputy Managing Director Kenji Okamura with State Minister Semasinghe, Treasury Secretary Mahinda Siriwardana and Central Bank Governor Dr. Nandalal Weerasinghe
+
+IMF Executive Director for India and Sri Lanka Dr. Krishnamurthy Subramanian with the Sri Lankan delegation
+
+Semasinghe with World Bank Executive Director for Sri Lanka Parameswaran Iyer
+
+A delegation led by the State Minister of Finance Shehan Semasinghe engaged in a series of high-level discussions at the IMF-World Bank spring meeting which began on Monday and received praise for Sri Lanka’s economic reforms and commitment to stability and growth.
+
+In a meeting with the IMF Deputy Managing Director Kenji Okamura, the State Minister highlighted the socio-economic advancements made by Sri Lanka and the sacrifices made to ensure macroeconomic stability.
+
+...
+
+[Data](articles/76c9e8c8.json)
+
+---
 
 ### Investment from $ 4 to 4.5 billion
 
@@ -2191,99 +2263,5 @@ The pineapple varieties of this pineapple variety of delicacies also have also b
 [Data](articles/22bece38.json)
 
 [Extended Data](ext_articles/22bece38.ext.json)
-
----
-
-### Wijeyadasa to contest upcoming presidential election?
-
-*2024-04-16 14:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98663/wijeyadasa-to-contest-upcoming-presidential-election) · `en`
-
-Justice Minister Wijeyadasa Rajapakshe says he has received several requests urging him to run for president in the upcoming election.
-
-Speaking to the media, the lawmaker revealed that the majority of these requests came from the members of the Central Committee of Sri Lanka Freedom Party (SLFP). Additionally, religious leaders including the Maha Sangha have sought the same, he said further.
-
-Rajapakshe said that he would take into account these requests and arrive at a final decision in the coming weeks.
-
-When asked if he intends to run for president independently, the minister said, “People have no trust in any of the political parties in the country. So, the upcoming election will be very different, and crucial. People do not cast their votes for the political party anymore, they vote for the individual who contest [the election].”
-
-◼️
-
-[Data](articles/ef7d930e.json)
-
-[Extended Data](ext_articles/ef7d930e.ext.json)
-
----
-
-### The driver of a train is suspended
-
-*2024-04-16 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195685) · `si`
-
-The driver of a train hit by the platform at Colombo Fort Railway Station is suspended pending investigation. The cause is unknown.
-
-🟩
-
-A committee has been appointed to investigate the train accident in Colombo Fort Railway Station yesterday.
-
-Deputy General Manager of the Railway Department (Transportation). J. Velapola made this statement.
-
-The train had been hit by the platform at the time of the first platform that was due to travel to Chilaw.
-
-The cause of the accident is yet to be ascertained and the railway driver's services have been suspended until the investigation is completed.. Mr. Withanage added.
-
-◼️
-
-[Data](articles/0631a7d6.json)
-
-[Extended Data](ext_articles/0631a7d6.ext.json)
-
----
-
-### An unexpected income from highway
-
-*2024-04-16 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195684) · `si`
-
-The Road Development Authority reported a Rs. 80 million increase in New Year's Expressway revenue this year. Director General Priyantha Sooriyabandara noted a Rs. 235 million income from highways in 6 days from April 10 to 15.
-
-🟩
-
-The Road Development Authority (Road Development Authority) stated that the revenue on the New Year's Expressions increased by Rs. 80 million compared to last year.
-
-The Director General of the Director General Priyantha Sooriyabandara has commented today (16).
-
-He further stated that the revenue on highways was Rs. 235 million in 6 days from April 10 to the 15th of this year.
-
-◼️
-
-[Data](articles/e8fbae19.json)
-
-[Extended Data](ext_articles/e8fbae19.ext.json)
-
----
-
-### IMF calls for Sri Lanka
-
-*2024-04-16 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195683) · `si`
-
-IMF's Kenji Okura urges Sri Lanka to continue its economic reforms, praised by local authorities. Discussions aim to enhance economic stability, sustainable development, and loan growth.
-
-🟩
-
-The Deputy Managing Director Kenji Ocque has called for Sri Lanka to protect the IMF program and run them up to the continuing dedicated victories.
-
-He was speaking at a discussion with State Minister Shehan Semasinghe and the civilians who participated in Washington's Sprinks.
-
-State Minister Shehan Semasinghe and other representatives have joined the Mid-World Sprring Conference on April 15.
-
-The International Monetary Fund, the IMF and other partners, talks will be held in Sri Lanka to end the economic stability, sustainable development and expeditious loan development in the country.
-
-Accordingly, the Finance Minister Shehan Semasinghe and the IM Deputy Managing Director, Managing Director, Managing Director Kenji Okura has been conducted and the Sri Lankan authorities have praised the Sri Lankan authorities to implement the country's strong reform.
-
-He also emphasized the need to preserve the IMF program and maintain the need for Sri Lanka to continue them.
-
-...
-
-[Data](articles/386d6781.json)
-
-[Extended Data](ext_articles/386d6781.ext.json)
 
 ---

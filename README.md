@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 15:33:42**
+As of **2024-04-16 15:52:05**
 
 ## Newspaper Stats
 
-*Scraped **19,133** Articles*
+*Scraped **19,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,56 @@ newsfirstlk | 363
 islandlk | 1,028
 dailyftlk | 1,040
 economynextcom | 1,072
-adalk | 1,590
+adalk | 1,591
 tamilmirrorlk | 2,236
 adaderanalk | 2,303
 virakesarilk | 2,853
-dailymirrorlk | 2,947
+dailymirrorlk | 2,948
 adaderanasinhalalk | 3,119
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,126 (100.0%) of 19,133 articles have been extended.
+19,133 (100.0%) of 19,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### සේවකයින් පිරිසක් ගෙදර යවන්න ඊලොන් මස්ක් සැරසෙයි
+### Ecomoffs prepare for a group of employees home
 
 *2024-04-16 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195688) · `si`
 
-ටෙස්ලා විද්‍යුත් මෝටර් රථ නිෂ්පාදන කර්මාන්ත ශාලාවල සේවය කරන සේවකයින්ගෙන් යම් ප්‍රතිශතයක් සේවයෙන් ඉවත් කිරීමට එම සමාගම තීරණය කර තිබේ.
+Ecomoffs plans to reduce Tesla's workforce by a percentage. Tesla, the world's largest car manufacturer, employs 140,473 globally.
 
-වෙළෙඳපොළ වටිනාකම අනුව ලොව විශාලතම මෝටර් වාහන නිෂ්පාදකයා වන ටෙස්ලා සමාගම ට සම්බන්ධව ලොව පුරා පසුගිය දෙසැම්බර් මාසය වනවිට සේවකයින් 140,473ක් සේවය කළේය.
+🟩
+
+The company has decided to remove a percentage of employees working in Tesla electronic manufacturing factories.
+
+By December, the world's largest motor vehicle manufacturer, the world's largest motor vehicle manufacturer, was served with 140,473 employees around the world.
 
 ◼️
 
 [Data](articles/19c5e6f6.json)
+
+[Extended Data](ext_articles/19c5e6f6.ext.json)
+
+---
+
+### NextGenSL facilitates cross-party collaboration
+
+*2024-04-16 15:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NextGenSL-facilitates-cross-party-collaboration/108-280775) · `en`
+
+Colombo, April 16 (Daily Mirror) - Marking a landmark initiative aimed at fostering cross-party cooperation, NextGenSL, a platform dedicated to empowering young leaders from the main political camps, convened representatives from 15 political parties for a two-day consultation session.
+
+The gathering culminated in the development of an initial draft for a cross-party governance and economic development framework, signaling a new step forward in Sri Lanka's political landscape.
+
+Under the auspices of NextGenSL, delegates from diverse political backgrounds engaged in constructive discussions, focusing on key issues concerning governance, economic development, and social progress. Over the course of the consultations, participants collaborated to craft a comprehensive framework that draws from a range of sources, including political manifestos, an IMF diagnostic report, and frameworks from civil organizations.
+
+...
+
+[Data](articles/3c50908d.json)
 
 ---
 
@@ -61,6 +83,8 @@ In a statement, Sri Lanka’s Finance Ministry said that the parties failed to c
 ...
 
 [Data](articles/d82ea574.json)
+
+[Extended Data](ext_articles/d82ea574.ext.json)
 
 ---
 
@@ -83,6 +107,8 @@ Accordingly he invited Harsha de Silva, Eran Wickramaratne, Kabir Hashim and Tha
 ...
 
 [Data](articles/87cb9429.json)
+
+[Extended Data](ext_articles/87cb9429.ext.json)
 
 ---
 
@@ -148,6 +174,8 @@ No injuries were reported as a result of the accident, although the front part o
 
 [Data](articles/915fb20a.json)
 
+[Extended Data](ext_articles/915fb20a.ext.json)
+
 ---
 
 ### Mother Bhupathi tributes in Vavuniya
@@ -190,6 +218,8 @@ Later Guerot told local news networks he was on a work visa set to expire within
 
 [Data](articles/31da47da.json)
 
+[Extended Data](ext_articles/31da47da.ext.json)
+
 ---
 
 ### Couple donated Rs 200 crore
@@ -230,6 +260,8 @@ For additional inquiries, individuals can contact the SLFEA hotline on 011-28004
 
 [Data](articles/2f43e9ef.json)
 
+[Extended Data](ext_articles/2f43e9ef.ext.json)
+
 ---
 
 ### Steps to cultivate the most delicious pineapple in the world in Sri Lanka
@@ -269,6 +301,8 @@ He said the price of an egg was between Rs.40 and Rs.45, but now an egg is being
 ◼️
 
 [Data](articles/b3544022.json)
+
+[Extended Data](ext_articles/b3544022.ext.json)
 
 ---
 
@@ -317,6 +351,22 @@ The cause of the accident has not yet been revealed and the train driver has bee
 [Data](articles/2a7af2de.json)
 
 [Extended Data](ext_articles/2a7af2de.ext.json)
+
+---
+
+### ලොව රසම අන්නාසි ප්‍රභේදය ලංකාවේත්
+
+*2024-04-16 14:17:00* · [`adalk`](https://www.ada.lk/breaking_news/ලොව-රසම-අන්නාසි-ප්‍රභේදය-ලංකාවේත්/11-409104) · `si`
+
+ලෝකයේ ජනප්‍රියම අන්නාසි ප්‍රභේදයක් වන MD2හෙවත්super sweet pineapple   (ananas comosus) අන්නාසි ප්‍රභේදය ශ්‍රී ලංකාවේ වගා කිරීම සඳහා කඩිනමින් නිර්දේශ කරන ලෙස කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා විසින් කෘෂිකර්ම දෙපාර්තමේන්තුවට උපදෙස් ලබා දී ඇත  .
+
+ශ්‍රී ලංකාවේ මේ වනතෙක් එම අන්නාසි ප්‍රභේදය වගා කිරීමට පියවර ගෙන නැති බව කෘෂිකර්ම දෙපාර්තමේන්තුව සඳහන් කරයි .
+
+ප්‍රණීත රසකින් ද  අවම ආම්ලිකතාවයකින්ද යුත් මෙම අන්නාසි ප්‍රභේදය මෙරට වගා කිරීම සඳහා සිදුකළ පර්යේෂණ ද සාර්ථක වී තිබේ.
+
+◼️
+
+[Data](articles/22bece38.json)
 
 ---
 
@@ -2259,43 +2309,5 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/91a84ee7.json)
 
 [Extended Data](ext_articles/91a84ee7.ext.json)
-
----
-
-### IMF urged Sri Lanka to preserve “hard earned gains” after economic crisis: State FinMin
-
-*2024-04-16 06:08:00* · [`economynextcom`](https://economynext.com/imf-urged-sri-lanka-to-preserve-hard-earned-gains-after-economic-crisis-state-finmin-158580/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund has urged Sri Lanka to preserve the hard earned gains after an unprecedented economic crisis under the global lender’s programme, State Finance Minister Shehan Semasinghe said.
-
-The Sri Lankan delegation led by Shehan Semasinghe met Kenji Okamura, the Deputy Managjng Director of the IMF on the first day of the IMF and  World Bank Spring meeting.
-
-“Mr. Okamura commended the Sri Lankan authorities on strong programme implementation and excellent reform progress. He emphasised the need to preserve the hard earned gains Sri Lanka has experienced since the beginning of the IMF programme and continue strong ownership,” the State Minister said in his X (Twitter) platform.
-
-He said the Sri Lankan delegation including Central Bank Governor Nandalal Weerasinghe and Secretary to the Treasury Mahinda Siriwardana explained the recent socio-economic developments to Okamura.
-
-...
-
-[Data](articles/fd1fd410.json)
-
-[Extended Data](ext_articles/fd1fd410.ext.json)
-
----
-
-### Sri Lanka State FinMin meets BCIU in US; discusses post-crisis investment prospects
-
-*2024-04-16 05:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-finmin-meets-bciu-in-us-discusses-post-crisis-investment-prospects-158577/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s State Finance Minister Shehan Semasinghe met Business Council for International Understanding( BCIU) in Washington on the sideline of the IMF/World Bank Spring Meetings late on Monday and discussed investment prospects in the island nation which is gradually recovering from an unprecedented economic crisis.
-
-“Our discussion centered on the potential that Sri Lanka offers for international investors. Explored various sectors, including education, tourism, renewable energy, agriculture and technology, where strategic investments can drive sustainable economic growth and development,” Semasinghe said in his X (Twitter) platform.
-
-“We reviewed the current macro-economic landscape of Sri Lanka, including recent reforms that have transformed to results. Glad to concluded the forum by marking constructive dialogue and a shared commitment to support the economic development of Sri Lanka.”
-
-...
-
-[Data](articles/c3a79949.json)
-
-[Extended Data](ext_articles/c3a79949.ext.json)
 
 ---

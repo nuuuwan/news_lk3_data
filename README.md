@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 00:48:52**
+As of **2024-04-17 01:03:27**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,215 (100.0%) of 19,216 articles have been extended.
+19,216 (100.0%) of 19,216 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### இன்று முதல் புதிய வீசா முறை
+### The new visa system from today
 
 *2024-04-17 00:10:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-புதிய-வீசா-முறை/175-336009) · `ta`
 
-குடிவரவு மற்றும் குடியகல்வுத் திணைக்களத்தின் புதிய வீசா முறையொன்றை நடைமுறைப்படுத்தல் மற்றும் புதிய இணைய வழிமுறையை செயற்படுத்தும் பணியை இன்று (17) முதல் ஆரம்பிப்பதற்கு அனைத்து நடவடிக்கைகளும் தயார்படுத்தப்பட்டுள்ளன.
+The Department of Immigration and Emigration launches a new visa system and internet mechanism today, led by ISHJ Ilukpitiya.
 
-குடிவரவு மற்றும் குடியகல்வுத் திணைக்களத்தின் கட்டுப்பாட்டாளர் நாயகம் ஐ.எஸ்.எச்.ஜே இலுக்பிட்டிய அறிக்கை ஒன்றை வௌியிட்டு இதனை தெரிவித்துள்ளார். R
+🟩
+
+All measures have been prepared to launch a new visa system of the Department of Immigration and Emigration and the implementation of the new Internet mechanism from today (17).
+
+The Controller of the Department of Immigration and Emigration, ISHJ Ilukpitiya, has said this.. Remble
 
 ◼️
 
 [Data](articles/5c6d086d.json)
+
+[Extended Data](ext_articles/5c6d086d.ext.json)
 
 ---
 

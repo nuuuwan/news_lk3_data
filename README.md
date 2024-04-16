@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 09:34:03**
+As of **2024-04-16 09:52:34**
 
 ## Newspaper Stats
 
-*Scraped **19,042** Articles*
+*Scraped **19,048** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,103 @@ islandlk | 1,027
 dailyftlk | 1,039
 economynextcom | 1,065
 adalk | 1,584
-tamilmirrorlk | 2,224
-adaderanalk | 2,294
-virakesarilk | 2,831
+tamilmirrorlk | 2,225
+adaderanalk | 2,295
+virakesarilk | 2,834
 dailymirrorlk | 2,931
-adaderanasinhalalk | 3,102
+adaderanasinhalalk | 3,103
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,040 (100.0%) of 19,042 articles have been extended.
+19,042 (100.0%) of 19,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### At least 11 commuter trains cancelled this morning
+
+*2024-04-16 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98657/at-least-11-commuter-trains-cancelled-this-morning) · `en`
+
+At least 11 commuter trains have been cancelled this morning (16), according to the Sri Lanka Railways.
+
+Train cancellations were attributed to the lack of locomotive operators and train guards who had not reported to work.
+
+Accordingly, as many as 11 trains departing Colombo Fort to Moratuwa, Panadura, Wadduwa, Negombo, Ambepussa, Padukka and Ragama have been cancelled.
+
+◼️
+
+[Data](articles/7d0e6901.json)
+
+---
+
+### இராஜாங்க அமைச்சர் பயணித்த கார் திடீரென தீப்பற்றியது
+
+*2024-04-16 09:31:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜாங்க-அமைச்சர்-பயணித்த-கார்-திடீரென-தீப்பற்றியது/175-335980) · `ta`
+
+இராஜாங்க அமைச்சர் சாமர சம்பத் தசநாயக்க பயணித்த கார் பண்டாரவளை - ஹல்பே பகுதியில் வைத்து  இன்று அதிகாலை 12.45 மணியளவில் திடீரென தீப்பற்றி எரிந்து விபத்துக்குள்ளாகியுள்ளது.
+
+இராஜாங்க அமைச்சர் மஹியங்கனையிலிருந்து எல்ல பிரதேசத்திற்கு சென்று கொண்டிருந்த போதே தீ விபத்து ஏற்பட்டுள்ளது.
+
+எனினும், இந்த தீ விபத்தில் இராஜாங்க அமைச்சருக்கோ, சாரதிக்கோ காயங்கள் ஏதும் ஏற்படவில்லை.
+
+பண்டாரவளை மாநகரசபையின் தீயணைப்பு பிரிவினர், எல்ல பொலிஸார் மற்றும் பிரதேசவாசிகள் இணைந்து தீயை அணைக்கும் பணியில் ஈடுபட்டனர்.
+
+◼️
+
+[Data](articles/e1dde850.json)
+
+---
+
+### பிணைமுறி பத்திர உரிமையாளர்கள் குழுவுடன் இறுதிக்கட்ட பேச்சு : சீனாவிடமிருந்து சாதகமான பதில் - அரசாங்கம்
+
+*2024-04-16 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181190) · `ta`
+
+இலங்கையின் கடன் மறுசீரமைப்பில் இருதரப்பு மறுசீரமைப்புகள் அனைத்தும் எதிர்வரும் ஜுன் மாதம் இறுதிக்குள் நிறைவுப்படுத்தப்படுவதுடன், பிணைமுறி பத்திர உரிமையாளர்கள் குழுவுடனான இணக்கப்பாட்டு பேச்சுவார்த்தைகள் இறுதிக்கட்டத்தை நோக்கி நகர்த்தப்பட்டுள்ளதாக தெரிவித்த ஜனாதிபதியின் அலுவலக பிரதானியும் தேசிய பாதுகாப்பு ஆலோசகருமான சாகல ரத்நாயக்க, பிரதமர் தினேஸ் குணவர்தனவின் சீன வியத்தின் பின்னர் கடன் மறுசீரப்பு தொடர்பில் சாதகான பதில் கிடைக்கப்பெற்றுள்ளதாகவும் குறிப்பிட்டார்.
+
+ஊடகங்களின் செய்தி பிரிவு தலைமை ஆசிரியர்களுடன் ஜனாதிபதி செயலகத்தில் திங்கட்கிழமை இடம்பெற்ற விசேட கலந்துரையாடலின் போதே தேசிய பாதுகாப்பு ஆலோசகருமான சாகல ரத்நாயக்க மேற்கண்டவாறு கூறினார்.
+
+இலங்கையின் கடன் மறுசீரமைப்பில் இருதரப்பு மறுசீரமைப்புகளே எஞ்சியுள்ளன. உத்தியோகப்பூர்வ கடன் வழங்குநர்கள் குழுவில் சீனாவை தவிர ஏனைய அனைத்து தரப்புளும் உள்ளன.
+
+...
+
+[Data](articles/b61ad9df.json)
+
+---
+
+### இராஜாங்க அமைச்சர் சாமர சம்பத் தசநாயக்கவின் வாகனத்தில் தீ விபத்து!
+
+*2024-04-16 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181191) · `ta`
+
+இந்த சம்பவமனது பண்டாரவளை ஹல்பே பகுதியில் ராஜாங்க அமைச்சர் பயணித்த வாகனத்தில்  இன்று (16) அதிகாலை 12.45 மணியளவில் இடம்பெற்றுள்ளது.
+
+இராஜாங்க அமைச்சர் மஹியங்கனையிலிருந்து எல்ல பிரதேசத்திற்கு சென்று கொண்டிருந்த போதே தீ விபத்து ஏற்பட்டுள்ளது.
+
+தீ விபத்தினால் அமைச்சருக்கோ அல்லது சாரதிக்கோ காயங்கள் ஏற்படவில்லை எனவும், பண்டாரவளை மாநகரசபையின் தீயணைப்பு பிரிவினர், எல்ல பொலிஸார் மற்றும் பிரதேசவாசிகள் இணைந்து தீயை அணைக்கும் பணிகளில் ஈடுபட்டதாகவும்  பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/fc9cef4f.json)
+
+---
+
+### දුම්රිය 11ක් අවලංගු වෙයි
+
+*2024-04-16 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195670) · `si`
+
+අද උදෑසන කාර්යාල දුම්රිය ගමන්වාර 11ක් අවලංගු කිරීමට සිදුව ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+දුම්රිය දෙපාර්තමේන්තුව පවසන්නේ රියදුරන් සහ නියාමකවරුන් සේවයට වාර්තා නොකිරීම හේතුවෙන් මෙලෙස දුම්රිය ගමන්වාර අවලංගු වී ඇති බවය.
+
+ඒ අනුව කොළඹ කොටුව සිට මොරටුව, පානදුර, වාද්දුව, මීගමුව, අඹේපුස්ස, පාදුක්ක සහ රාගම දක්වා සහ එම දුම්රිය ස්‌ථානවල සිට නැවත කොටුව දුම්රිය ස්ථාන වෙත පැමිණීමට නියමිත දුම්රිය ගමන්වාර මෙලෙස අවලංගු වී තිබේ.
+
+◼️
+
+[Data](articles/b6c5d559.json)
+
+---
 
 ### State Minister Chamara Sampath’s vehicle catches fire
 
@@ -62,13 +144,15 @@ State Minister Chamara Sampath Dasanayake’s vehicle has suddenly caught fire a
 
 The incident took place in the Halpe area of Bandarawela when the Dasanayake had been travelling from Mahiyanganaya to Ella.
 
-However, the state minister nor his driver have managed to escape the fire unharmed.
+However, the state minister and his driver have managed to escape the fire unharmed.
 
 The fire trucks of Bandarawela Municipal Council, Ella Police and the residents of the area had tackled the flames in a joint effort.
 
 ◼️
 
 [Data](articles/5ee1dd48.json)
+
+[Extended Data](ext_articles/5ee1dd48.ext.json)
 
 ---
 
@@ -92,23 +176,29 @@ The incident took place on Monday (15) and the deceased is the 65 -year -old fro
 
 ---
 
-### பல இடங்களில் மழை பெய்ய வாய்ப்பு
+### Chance of rain in many places
 
 *2024-04-16 08:51:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-இடங்களில்-மழை-பெய்ய-வாய்ப்பு/175-335979) · `ta`
 
-மேல், சப்ரகமுவ, மத்திய மற்றும் வடமேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல இடங்களில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+The Department of Meteorology predicts rain or thunderstorms in Western, Sabaragamuwa, Central, North Western Provinces, and Galle and Matara districts. Heavy rainfall expected in parts of upper Sabaragamuwa and North Western provinces. Snowfall in the morning in some Western, Sabaragamuwa, Central Provinces, Galle, and Matara districts. Thundershowers may occur. Take precautions for lightning impacts.
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+🟩
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களில் சில இடங்களில் 75 மி.மீ அளவான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+The Department of Meteorology has predicted that rain or thunderstorms are likely to occur in many places in the Western, Sabaragamuwa, Central and North Western Provinces and Galle and Matara districts.
 
-மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+There is a possibility of periodic rainfall or thunderstorms in the Eastern and Uva provinces and Hambantota district.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+75 mm of heavy rainfall is expected in some parts of the upper, Sabaragamuwa and North Western provinces.
+
+In the morning, in some places in the Western, Sabaragamuwa and Central Provinces, Galle and Matara districts, there is expected snowfall in the morning.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
 
 ◼️
 
 [Data](articles/75a41c5e.json)
+
+[Extended Data](ext_articles/75a41c5e.ext.json)
 
 ---
 
@@ -2109,115 +2199,5 @@ The shooting of the film has reached its final stage. In this case, the film is 
 [Data](articles/5a77cf9d.json)
 
 [Extended Data](ext_articles/5a77cf9d.ext.json)
-
----
-
-### Vijay tells fans and volunteers whistling
-
-*2024-04-15 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181147) · `ta`
-
-"Vijay's 'Visil Podu' from 'The Greatest of All Time' garners 7M views. Features stars like Venkat Prabhu, Prashant, and Yuvan Shankar Raja. Directed by Venkat Prabhu, produced by Kalpathi S, and co-produced by others. Currently filming in Russia. First song 'Party One Start' is a hit, written by Madan Karki and others, with Vijay's voice. Tamil community anticipates Vijay's political move."
-
-🟩
-
-The first song 'Visil Podu', which is featured in the Tamil film 'The Greatest of All Time', is being released in September, starring the founder of the Tamil Nadu Victory Club and the leading star star of the Tamil film industry.. Within a short period of time, more than seven million viewers have been visited and achieved.
-
-Actor and director Venkat Prabhu has starred in 'Goat' and many leading star artists including Vijay, Prashant, Prabhu Deva, Mohan, Jayaram, Sneha, Laila and Meenakshi Chaudhry.. Yuvan Shankar Raja has composed the film, which has been recorded by Siddhartha Nuni. Producer Kalpathi S is the producer of the film, which is being prepared as Exan Entertainer. Akoram, Kalpathi S. Suresh, Kalpathi S. Ganesh has co -produced.
-
-...
-
-[Data](articles/05e61f23.json)
-
-[Extended Data](ext_articles/05e61f23.ext.json)
-
----
-
-### Sydney rocked by second mass stabbing in days as knifeman attacks bishop and worshippers in church
-
-*2024-04-15 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98647/sydney-rocked-by-second-mass-stabbing-in-days-as-knifeman-attacks-bishop-and-worshippers-in-church) · `en`
-
-A bishop and several worshippers were attacked inside Christ the Good Shepherd Church in the suburb of Wakeley on Monday night just after 7pm.
-
-NSW Police confirmed a man has been arrested following reports a number of people were stabbed.
-
-The force said the injured people suffered non-life threatening injuries and are being treated by emergency services.
-
-The video shows Bishop Mar Mari Emmanuel speaking to the congregation before a man dressed in all black walks up to him and allegedly stabs him a number of times.
-
-Screams can be heard before a live feed of the Mass, which was being shown on YouTube, was quickly cut off.
-
-On Saturday, six people were killed at Westfield Bondi Junction complex.
-
-They have been named as Jade Young, 47, Dawn Singleton, 25, Pikria Darchia, 55, Faraz Tahir, 30, Ashlee Good, 38 and Cheng Yixuan, 25.
-
-A number of others, including a 9-month-old baby, were also injured.
-
-...
-
-[Data](articles/263f4b06.json)
-
-[Extended Data](ext_articles/263f4b06.ext.json)
-
----
-
-### A notification for those who are from the village
-
-*2024-04-15 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195654) · `si`
-
-"Villagers, from April 14-17, a special transport service schedule is in effect."
-
-🟩
-
-The government has issued a special transport service schedule implemented from April 14 to 17.
-
-◼️
-
-[Data](articles/4a1ebaa0.json)
-
-[Extended Data](ext_articles/4a1ebaa0.ext.json)
-
----
-
-### Special committee to remove vehicle import boundaries
-
-*2024-04-15 16:34:29* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයන-සීමා-ඉවත්-කිරීමට-විශේෂ-කමිටුවක්/11-409088) · `si`
-
-A special committee has been formed to ease import restrictions, including 750 vans and 250 buses for tourism, with plans to gradually relax import rules for vehicles.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya says that a special committee has been appointed to remove the limits on imports in accordance with the requirements.
-
-State Minister further stated that. 750 vans required for tourism and 250 buses were given to import. According to Ranjith Siyambalapitiya, gradually, relaxing the importation of electrical imports gradually, gradually liberate vehicle imports.
-
-◼️
-
-[Data](articles/b073a996.json)
-
-[Extended Data](ext_articles/b073a996.ext.json)
-
----
-
-### R J Vijay starrer 'Wife'
-
-*2024-04-15 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181142) · `ta`
-
-R J Vijay stars in 'Wife', his first hero role, directed by Hemanathan, featuring music by K. A. Jen Martin. Produced by S Ambedkumar, it's aimed at married couples, with a motion poster released to boost anticipation.
-
-🟩
-
-Radio host, host and actor R J Vijay has been released as the hero of the story for the first time.
-
-Director r. R J Vijay, Anjali Nair, Maitreyan, Redin Kingsley, Abhishek, Joseph, Vijay Babu, Kalyani Natarajan, Kadir and many others star in the film 'Wife' directed by Hemanathan.
-
-K. A.. Jen Martin has composed music for the film, which has been recorded by Sakthivel. The film, which is ready for the life of married young couples, has been produced by producer S Ambedkumar on behalf of Olympia Movies.
-
-The film's first look was released. In this case, the film's motion poster has been released. This, too, is designed to attract younger generations of fans, and the expectation of the film has increased.
-
-◼️
-
-[Data](articles/a2e754ad.json)
-
-[Extended Data](ext_articles/a2e754ad.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 09:18:18**
+As of **2024-04-16 09:34:03**
 
 ## Newspaper Stats
 
-*Scraped **19,040** Articles*
+*Scraped **19,042** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,027
 dailyftlk | 1,039
 economynextcom | 1,065
 adalk | 1,584
-tamilmirrorlk | 2,223
-adaderanalk | 2,293
+tamilmirrorlk | 2,224
+adaderanalk | 2,294
 virakesarilk | 2,831
 dailymirrorlk | 2,931
 adaderanasinhalalk | 3,102
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,102
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,039 (100.0%) of 19,040 articles have been extended.
+19,040 (100.0%) of 19,042 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,26 @@ The Fire Department of the Bandarawela Municipal Council, along with the Ella Po
 
 [Data](articles/bef309a7.json)
 
+[Extended Data](ext_articles/bef309a7.ext.json)
+
+---
+
+### State Minister Chamara Sampath’s vehicle catches fire in Halpe
+
+*2024-04-16 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98656/state-minister-chamara-sampaths-vehicle-catches-fire-in-halpe) · `en`
+
+State Minister Chamara Sampath Dasanayake’s vehicle has suddenly caught fire at around 12.45 a.m. today (16), Ada Derana learns.
+
+The incident took place in the Halpe area of Bandarawela when the Dasanayake had been travelling from Mahiyanganaya to Ella.
+
+However, the state minister nor his driver have managed to escape the fire unharmed.
+
+The fire trucks of Bandarawela Municipal Council, Ella Police and the residents of the area had tackled the flames in a joint effort.
+
+◼️
+
+[Data](articles/5ee1dd48.json)
+
 ---
 
 ### Lightning strikes one
@@ -69,6 +89,26 @@ The incident took place on Monday (15) and the deceased is the 65 -year -old fro
 [Data](articles/ad34cefc.json)
 
 [Extended Data](ext_articles/ad34cefc.ext.json)
+
+---
+
+### பல இடங்களில் மழை பெய்ய வாய்ப்பு
+
+*2024-04-16 08:51:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-இடங்களில்-மழை-பெய்ய-வாய்ப்பு/175-335979) · `ta`
+
+மேல், சப்ரகமுவ, மத்திய மற்றும் வடமேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல இடங்களில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களில் சில இடங்களில் 75 மி.மீ அளவான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+
+◼️
+
+[Data](articles/75a41c5e.json)
 
 ---
 
@@ -2179,49 +2219,5 @@ The film's first look was released. In this case, the film's motion poster has b
 [Data](articles/a2e754ad.json)
 
 [Extended Data](ext_articles/a2e754ad.ext.json)
-
----
-
-### Youth couple killed in Victoria
-
-*2024-04-15 16:23:26* · [`adalk`](https://www.ada.lk/breaking_news/වික්ටෝරියාවේ-දිය-නෑමට-ගිය-තරුණ-යුවළක්-ජීවිතක්ෂයට/11-409087) · `si`
-
-A young couple drowned in Victoria Reservoir, Thambukkandura. The 22-year-old woman's mother was found, but the 28-year-old man is missing. A resident of Thihariya died.
-
-🟩
-
-A young couple drowned in the Victoria Reservoir, police said in the Vicukkokadura Reservoir in Thambukkandura during the afternoon today.
-
-The mother of the 22-year-old woman has been found and the 28-year-old male disappeared. A resident of Thihariya has died.
-
-◼️
-
-[Data](articles/fd023ce0.json)
-
-[Extended Data](ext_articles/fd023ce0.ext.json)
-
----
-
-### A pronouncement of lightning
-
-*2024-04-15 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195653) · `si`
-
-The Department of Meteorology warns of powerful lightning in Western, Sabaragamuwa, and North Western provinces, including Western, Matara, and Kandy districts. Temporary strong winds may accompany thunderstorms. Take precautions to mitigate lightning risks.
-
-🟩
-
-The Department of Meteorology has issued an announcement in powerful lightning.
-
-The announcement is expected to occur in the Western, Sabaragamuwa and North Western provinces, in the Western, Matara and Kandy districts.
-
-There is also a temporary strong winds in those areas can also be temporarily at the time of thunderstorms.
-
-The Department of Meteorology urges the public to take necessary steps to reduce the dangers of lightning.
-
-◼️
-
-[Data](articles/3c1854ca.json)
-
-[Extended Data](ext_articles/3c1854ca.ext.json)
 
 ---

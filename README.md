@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 11:18:12**
+As of **2024-04-16 11:33:46**
 
 ## Newspaper Stats
 
@@ -26,41 +26,57 @@ adaderanasinhalalk | 3,107
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,065 (100.0%) of 19,073 articles have been extended.
+19,073 (100.0%) of 19,073 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### புத்தாண்டு காலத்தை இலக்காகக் கொண்டு நாடளாவிய ரீதியில் 700 சுற்றிவளைப்புகள்!
+### 700 roundabouts nationwide targeting the New Year!
 
 *2024-04-16 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181202) · `ta`
 
-புத்தாண்டு காலத்தை இலக்காகக் கொண்டு நாடளாவிய ரீதியில் 700 சுற்றிவளைப்புகள் மேற்கொள்ளப்பட்டதாக நுகர்வோர் விவகார அதிகார சபை தெரிவித்துள்ளது.
+The Consumer Affairs Authority (CAA) conducted 700 roundabouts nationwide for the New Year, targeting law violations. Director Sanjay Rasinghe warned of legal action against those caught, emphasizing consumer awareness in purchasing goods.
 
-இந்தச்  சோதனைகளின்போது  சட்டத்தின் கீழ் சிக்கிய நபர்களுக்கு எதிராக நீதிமன்றத்தில் வழக்குத் தாக்கல் செய்யவுள்ளதாக  அதிகார சபையின் சோதனைகள் மற்றும் விசேட புலனாய்வுப் பிரிவின் பணிப்பாளர் சஞ்சய் இராசிங்க தெரிவித்துள்ளார்.
+🟩
 
-பொருட்கள் வாங்கும் போது நுகர்வோர் கவனிக்க வேண்டிய சில விடயங்கள் குறித்தும்  சோதனை நடவடிக்கையின்போது அவர் தெளிவுபடுத்தினார்.
+The Consumer Affairs Authority (CAA) has said that 700 rounds have been carried out across the country, targeting the New Year.
+
+Sanjay Rasinghe, Director of the Special Investigation Division, said that the trials of the Authority and the Special Investigation Division said that they will file a case against the persons who were trapped under the law during these tests.
+
+He made it clear during the testing of some of the things that consumers need to look at when buying goods.
 
 ◼️
 
 [Data](articles/c3566bfb.json)
 
+[Extended Data](ext_articles/c3566bfb.ext.json)
+
 ---
 
-### தமிழர்களை பயங்கரவாதிகளென அடையாளப்படுத்தி முன்னெடுக்கும் அரசியல் நாட்டை அழிவுக்குள்ளேயே தள்ளும் - அருட்தந்தை மா.சக்திவேல்
+### The political country that identifies Tamils as terrorists
 
 *2024-04-16 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181198) · `ta`
 
-தமிழர்களை தொடர்ந்தும் பயங்கரவாதிகள் என அடையாளப்படுத்தி செய்ய முற்படும் அரசியல் நாட்டின் எதிர்காலத்தை மேலும் அழிவுக்குள்ளேயே தள்ளும் என சமூக நீதிக்கான செயற்பாட்டாளரும், அரசியல் கைதிகளை விடுதலை  செய்வதற்கான தேசிய அமைப்பின் இணைப்பாளருமான அருட்தந்தை மா.சக்திவேல் தெரிவித்துள்ளார்.
+Activist Aruttandanda Ma Sakthivel criticizes a country for labeling Tamils as terrorists, highlighting state terrorism and threats to freedom of expression.
 
-அருட்தந்தை மா.சக்திவேல் இன்று செவ்வாய்க்கிழமை (16) வெளியிட்டுள்ள ஊடக அறிக்கையிலே இவ்வாறு குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-அரச பயங்கரவாதம் தமிழர் தரப்பில் பேரினவாதத்தின் கைக்கூலிகளாக செயற்பட்டோரை தவிர ஏனைய அனைத்து தமிழர்களையும் தொடர்ந்து பயங்கரவாதிகளாகவே பார்க்கிறது என்பதை எழுத்தாளரும் கவிஞருமான தீபச்செல்வனை அண்மையில் பயங்கரவாத தடுப்பு பிரிவினர் அழைத்து நடத்திய நீண்ட விசாரணை மூலம் புலப்படுத்துகின்றது.
+Aruttandanda Ma Sakthivel, an activist for social justice and the liberation of political prisoners, said that the future of the political country, which is continuing to identify the Tamils as terrorists.
+
+This was stated in a media statement issued today (16).
+
+The recent investigation by the Terrorist Prevention Unit of the Terrorism Unit is that state terrorism continues to see all Tamils except those who have acted as chauvinism on the Tamil side.
+
+Asked if the book was called for the reason for the launch of a book launch, the investigation of the LTTE's regeneration of the LTTE is not only a threat but a fundamental rights violation against the freedom of the Tamil homeland's literaryists and writers.
+
+Such a threat is condemned by the psychological attack and the literaryists and writers should take the writing of democracy in the hands of democracy and express their opposition.
 
 ...
 
 [Data](articles/7c58f9bd.json)
+
+[Extended Data](ext_articles/7c58f9bd.ext.json)
 
 ---
 
@@ -98,21 +114,27 @@ And a bishiony sister had issued an internet message after the struggle.
 
 ---
 
-### அவர்கள் இறந்தால் இழப்பீட்டுக்கு என்ன உத்தரவாதம்?
+### What guarantees for compensation if they die?
 
 *2024-04-16 10:42:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவர்கள்-இறந்தால்-இழப்பீட்டுக்கு-என்ன-உத்தரவாதம்/175-335983) · `ta`
 
-உக்ரேனுக்கு எதிரான ரஷ்ய இராணுவ நடவடிக்கைகளில் இலங்கையைச் சேர்ந்த சில முன்னாள் இராணுவ வீரர்கள் இணைந்துள்ளனர் என்ற செய்திகளுக்கு மத்தியில், மொஸ்கோவிலுள்ள இலங்கைத் தூதுவர் பேராசிரியர் ஜனிதா லியனகே, ரஷ்ய இராணுவத்திடம் அவர்கள் பற்றிய விவரங்களைக் கேட்டறிந்தார்.
+Sri Lankan Ambassador inquired about former soldiers in Russian military operations against Ukraine, raising concerns about compensation if they die. The Ministry of Defense acknowledged potential illegal recruitment and warned against such activities, highlighting the lack of guarantees for compensation in case of death.
 
-இது தொடர்பான ஊடக அறிக்கைகள் தொடர்பில் எழுப்பப்பட்ட கேள்விக்கு பதிலளிக்கும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார். "அங்கு யாராவது அவ்வாறு இருப்பார்களாயின் ரஷ்ய இராணுவத்திடம் அத்தகைய விவரங்களை நான் கேட்டுள்ளேன்," என்று அவர் கூறினார்.
+🟩
 
-இது தொடர்பாக பாதுகாப்பு அமைச்சின் ஊடகப் பணிப்பாளர் கேர்ணல் நளின் ஹேரத் கருத்துக் தெரிவிக்கையில், ​​சில முன்னாள் வீரர்கள் ரஷ்ய இராணுவத்தில் சட்டத்திற்குப் புறம்பாகச் சேர்ந்திருக்கலாம் எனத் தெரிவித்தார். இவ்வாறான சட்டத்திற்கு புறம்பான செயல்களில் ஈடுபடும் ஆபத்துக்கள் குறித்து படையினருக்கு விளக்கமளிக்க அமைச்சு நடவடிக்கை எடுத்துள்ளதாக அவர் தெரிவித்துள்ளார்.
+Amid reports that some former soldiers from Sri Lanka have joined the Russian military operations against Ukraine, Sri Lankan Ambassador in Moscow, Professor Janita Liyanage, asked the Russian army about them.
 
-"அவர்கள் லாபகரமான சலுகைகள் மூலம் ஈர்க்கப்பட்டிருக்கலாம். அவர்களில் யாராவது சண்டையில் இறந்தால் இழப்பீட்டுக்கு என்ன உத்தரவாதம், ”என்று அவர் கூறினார்.
+In response to a question raised regarding the media reports, he said this.. "If someone is there, I have asked such details to the Russian army," he said.
+
+Commenting on this, Media Director of the Ministry of Defense Colonel Nalin said that some former soldiers may have been illegally in the Russian army.. The Ministry has taken steps to explain to the soldiers on the dangers of engaging in such illegal activities.
+
+“They may have been inspired by profitable offers. What is the guarantee of compensation if any of them dies in a fight, ”he said.
 
 ◼️
 
 [Data](articles/27bee3eb.json)
+
+[Extended Data](ext_articles/27bee3eb.ext.json)
 
 ---
 
@@ -303,6 +325,8 @@ The Colombo Stock Exchange opened down; The All Share Price Index dropped below 
 ◼️
 
 [Data](articles/c0e110fb.json)
+
+[Extended Data](ext_articles/c0e110fb.ext.json)
 
 ---
 
@@ -858,6 +882,8 @@ Gold prices fell from 800 to 284 dollars an ounce under Volcker-Bernanke, until 
 
 [Data](articles/9d4d704d.json)
 
+[Extended Data](ext_articles/9d4d704d.ext.json)
+
 ---
 
 ### IPL records new competition
@@ -954,6 +980,8 @@ He said the Sri Lankan delegation including Central Bank Governor Nandalal Weera
 
 [Data](articles/fd1fd410.json)
 
+[Extended Data](ext_articles/fd1fd410.ext.json)
+
 ---
 
 ### Sri Lanka State FinMin meets BCIU in US; discusses post-crisis investment prospects
@@ -969,6 +997,8 @@ ECONOMYNEXT – Sri Lanka’s State Finance Minister Shehan Semasinghe met Busin
 ...
 
 [Data](articles/c3a79949.json)
+
+[Extended Data](ext_articles/c3a79949.ext.json)
 
 ---
 
@@ -1607,6 +1637,8 @@ A large Indian and South Asian expat community lives in the UAE. (Colombo/Apr15/
 ◼️
 
 [Data](articles/57ae4d23.json)
+
+[Extended Data](ext_articles/57ae4d23.ext.json)
 
 ---
 

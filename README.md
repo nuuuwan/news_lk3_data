@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 14:18:44**
+As of **2024-04-16 14:33:45**
 
 ## Newspaper Stats
 
-*Scraped **19,115** Articles*
+*Scraped **19,119** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 islandlk | 1,028
 dailyftlk | 1,040
 economynextcom | 1,072
-adalk | 1,589
+adalk | 1,590
 tamilmirrorlk | 2,234
-adaderanalk | 2,301
+adaderanalk | 2,302
 virakesarilk | 2,849
-dailymirrorlk | 2,941
-adaderanasinhalalk | 3,116
+dailymirrorlk | 2,942
+adaderanasinhalalk | 3,117
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,114 (100.0%) of 19,115 articles have been extended.
+19,115 (100.0%) of 19,119 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### Wijeyadasa to contest upcoming presidential election?
+
+*2024-04-16 14:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98663/wijeyadasa-to-contest-upcoming-presidential-election) · `en`
+
+Justice Minister Wijeyadasa Rajapakshe says he has received several requests urging him to run for president in the upcoming election.
+
+Speaking to the media, the lawmaker revealed that the majority of these requests came from the members of the Central Committee of Sri Lanka Freedom Party (SLFP). Additionally, religious leaders including the Maha Sangha have sought the same, he said further.
+
+Rajapakshe said that he would take into account these requests and arrive at a final decision in the coming weeks.
+
+When asked if he intends to run for president independently, the minister said, “People have no trust in any of the political parties in the country. So, the upcoming election will be very different, and crucial. People do not cast their votes for the political party anymore, they vote for the individual who contest [the election].”
+
+◼️
+
+[Data](articles/ef7d930e.json)
+
+---
+
+### දුම්රියක් වේදිකාවේ හැප්පූ රියදුරාගේ වැඩ තහනම්
+
+*2024-04-16 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195685) · `si`
+
+කොළඹ කොටුව දුම්රිය ස්ථානයේදී ඊයේ (15) පස්වරුවේ සිදුවු දුම්රිය අනතුර සම්බන්ධයෙන් විමර්ශනයක් සිදුකිරීම සඳහා කමිටුවක් පත් කර තිබේ.
+
+ඒ සම්බන්ධයෙන් අදහස් දක්වමින් දුම්රිය දෙපාර්තමේන්තුවේ නියෝජ්‍ය සාමාන්‍යාධිකාරී (ගමනාගමන) එන්. ජේ ඉඳිපොලගේ මහතා මේ බව සඳහන් කළේය.
+
+හලාවත බලා ධාවනය වීමට නියමිතව තිබූ අදාළ දුම්රිය කොටුව දුම්රිය ස්ථානයේ පළමු වේදිකාවට පැමිණිමේදී දුම්රිය නියමිත ස්ථානයේ නතර කරගැනීමට නොහැකිවී වේදිකාවේ ගැටීමෙන් අනතුරට ලක්වී තිබුණි.
+
+අනතුරට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර විමර්ශන කටයුතු අවසන් වන තෙක් සිද්ධියට අදාළ දුම්රිය රියදුරුගේ සේවය අත්හිටුවා ඇති බව එන්.ජේ. ඉඳිපොලගේ මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/0631a7d6.json)
+
+---
 
 ### An unexpected income from highway
 
@@ -97,6 +133,8 @@ After taking the pledge on April 22, the couple will have to sever all family ti
 ...
 
 [Data](articles/0b66eff6.json)
+
+[Extended Data](ext_articles/0b66eff6.ext.json)
 
 ---
 
@@ -315,6 +353,42 @@ Graphic videos of the attack - and the aftermath - spread like wildfire on socia
 [Data](articles/8441b032.json)
 
 [Extended Data](ext_articles/8441b032.ext.json)
+
+---
+
+### බෙන්තොට මුහුදේදී දියේ ගිලුණු සාපෙළ අපේක්ෂක සිසුවාගේ සිරුර මොරගල්ල වෙරලේ
+
+*2024-04-16 12:20:47* · [`adalk`](https://www.ada.lk/breaking_news/බෙන්තොට-මුහුදේදී-දියේ-ගිලුණු-සාපෙළ-අපේක්ෂක-සිසුවාගේ-සිරුර-මොරගල්ල-වෙරලේ/11-409100) · `si`
+
+බෙන්තොට මුහුදු තීරයේ ඊයේ (15) සවස දිය නාමින් සිටියදී දිය රළකට හසුවී ගසාගෙන ගොස් අතුරුදන්වී සිටි පාසල් සිසුවාගේ මළ සිරුර අද දහවල් (16) අලුත්ගම මොරගල්ල වෙරළ තීරයට ගොඩගසා තිබියදී සොයාගත් බව බෙන්තොට පොලීසිය කියයි.
+
+මෙසේ මියගොස් ඇත්තේ දර්ගානගරය සහිරා විදුහලේ 11 ශ්‍රේණියේ ඉගෙනුම ලබන, ලබන මස ආරම්භවන සාමාන්‍ය පෙළ විභාගයට පෙනී සිටීමට සූදානම්ව සිටි දර්ගානගරය මිහිරිපැන්නේ පදිංචිව සිටි මොහමඩ සමීන් නැමති අවුරුදු 16 හැවිරිදි සිසුවෙකි.
+
+ඔහු ඊයේ සවස    නිවසේ අය හා මිතුරන් කිහිප දෙනෙකු  සමග පැමිණ බෙන්තොට නිවාඩු නිකේතනය අසල මුහුදේ දිය නාමින් සිටියදී  දිය රළකට හසුව දියඹට ගසා ගෙන ගොස් අතුරුදන්වු බව පොලීසිය පැවසීය.
+
+බෙන්තොට හා අලුත්ගම පොලීසි විසින් මේ මරණය පිළිබඳ වැඩිදුර පරීක්ෂණ පවත්වයි'
+
+◼️
+
+[Data](articles/09a8c6d8.json)
+
+---
+
+### Sri Lanka cannot be pushed into global conflict: SJB MP
+
+*2024-04-16 12:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-cannot-be-pushed-into-global-conflict-SJB-MP/108-280768) · `en`
+
+Colombo, April 16 (Daily Mirror)- Sri Lanka cannot be pushed and bumped into a global conflict and therefore it should be diligent in its dealings with various nations, a Samagi Jana Balawegaya (SJB) MP said today.
+
+SJB MP Harshana Rajakaruna came out with this remark when asked about his party’s stance on the visit of Iranian President Ebrahim Raisi to Sri Lanka on April 24 this year.
+
+“Sri Lanka cannot afford to be pushed and bumped into a global conflict and we expect the rulers of our country to be diligent in dealing with various nations. Sri Lanka should take a neutral stand on the conflict in the Middle East,” the MP said.
+
+“Sri Lanka should maintain sound diplomatic ties with all nations in the world,” he added.
+
+◼️
+
+[Data](articles/0583a319.json)
 
 ---
 
@@ -2203,81 +2277,5 @@ The Department of Meteorology has advised the people that there is a risk of lig
 [Data](articles/cc4f40a6.json)
 
 [Extended Data](ext_articles/cc4f40a6.ext.json)
-
----
-
-### India lifts export ban on onions for Sri Lanka
-
-*2024-04-16 00:56:41* · [`dailyftlk`](https://www.ft.lk/business/India-lifts-export-ban-on-onions-for-Sri-Lanka/34-760643) · `en`
-
-In a gesture reaffirming India’s commitment to its Neighbourhood First policy, the Government of India has announced the lifting of the export ban on onions for Sri Lanka.
-
-Under the new directive issued by the Directorate General of Foreign Trade, Sri Lanka is now permitted to import up to 10,000 tons of onions from India.
-
-The decision to exempt Sri Lanka from the export ban on onions underscores the close bilateral ties between the two countries and comes as a timely move ahead of the Sinhala and Tamil New Year festivities in Sri Lanka.
-
-◼️
-
-[Data](articles/58070f84.json)
-
-[Extended Data](ext_articles/58070f84.ext.json)
-
----
-
-### Aspiring Sri Lankan tech start up to disrupt global EdTech landscape with HEAD
-
-*2024-04-16 00:56:33* · [`dailyftlk`](https://www.ft.lk/business/Aspiring-Sri-Lankan-tech-start-up-to-disrupt-global-EdTech-landscape-with-HEAD/34-760642) · `en`
-
-Sri Lankan technology start up 200ne CODE is making waves in the educational technology (EdTech) sector with the launch of HEADleads, the first pillar of its highly advanced innovative educational ecosystem – HEAD (Higher Education Academic Database).
-
-HEAD leads addresses a major pain point for institutions by offering a streamlined enrolment process including an AI-powered Know Your Customer (KYC) verification system ensuring secure and efficient student onboarding.
-
-...
-
-[Data](articles/94cb1885.json)
-
-[Extended Data](ext_articles/94cb1885.ext.json)
-
----
-
-### Sajith issues clarion call against “classists, communists and extremists”
-
-*2024-04-16 00:56:03* · [`dailyftlk`](https://www.ft.lk/news/Sajith-issues-clarion-call-against-classists-communists-and-extremists/56-760641) · `en`
-
-SJB leader shares his vision at National Conference and Policy Dialogue Forum of the Samagi Buddhi Mandapaya featuring host of professionals who highlighted scientific and practical policies to rebuild Sri Lanka
-
-The Samagi Jana Balawegaya (SJB) leader and Presidential hopeful Sajith Premadasa on 7 April took the stage at the SJB National Conference with a clear message for the audience: “He stands apart from other politicians in Sri Lanka today.”
-
-In fact, while the event was organised to outline the party’s future policies, Premadasa in his speech made a concerted effort to distinguish himself from the current political system and issued a clarion call for the rejection of politicians he labelled as “classists, communists, and extremists.”
-
-Though he failed to explicitly name these “classists, communists, and extremists,” Premadasa asserted that these groups are incapable of delivering the essential economic and social reforms the country desperately needs.
-
-...
-
-[Data](articles/5ee04e6d.json)
-
-[Extended Data](ext_articles/5ee04e6d.ext.json)
-
----
-
-### Is the Indian Ocean “Zone of Peace” sinking in troubled waters?
-
-*2024-04-16 00:52:18* · [`dailyftlk`](https://www.ft.lk/opinion/Is-the-Indian-Ocean-Zone-of-Peace-sinking-in-troubled-waters/14-760640) · `en`
-
-An aerial view of the Village of Kolhuvaariyaafushi, Mulaaku Atoll, the Maldives, after the Indian Ocean Tsunami in December 2004. Credit: UN Photo/Evan Schneider
-
-UNITED NATIONS (IDN) – Just after a group of mercenaries tried to unsuccessfully oust the government of Maldives in 1979, I asked a Maldivian diplomat, using a military jargon, about the strength of his country’s “standing army.”
-
-“Standing army?”, the UN diplomat asked with mock surprise, and remarked perhaps jokingly, “We don’t even have a sitting army.”
-
-With a population of about 250,000, in a bygone era, (currently over 500,000), the Maldives was perhaps one of the world’s few countries, along with Costa Rica, with no armed forces, fighter planes, combat helicopters, warships, missiles or battle tanks.
-
-As a result, the island’s fragile defences attracted a rash of free-lance mercenaries and bounty hunters who tried to take over the country twice-- once in 1979, and a second time in 1988.
-
-...
-
-[Data](articles/17aab942.json)
-
-[Extended Data](ext_articles/17aab942.ext.json)
 
 ---

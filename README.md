@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 21:03:26**
+As of **2024-04-16 21:18:19**
 
 ## Newspaper Stats
 
-*Scraped **19,187** Articles*
+*Scraped **19,189** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,68 @@ dailyftlk | 1,040
 economynextcom | 1,072
 adalk | 1,599
 tamilmirrorlk | 2,239
-adaderanalk | 2,309
+adaderanalk | 2,310
 virakesarilk | 2,867
 dailymirrorlk | 2,959
-adaderanasinhalalk | 3,127
+adaderanasinhalalk | 3,128
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,185 (100.0%) of 19,187 articles have been extended.
+19,187 (100.0%) of 19,189 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### පාලිත තෙවරප්පෙරුමගේ මරණය ගැන තවත් තොරතුරු
+### කොත්තු රොටියට රු 1900ක් ඉල්ලූ කෑම කඩේ මුදලාලි අත්අඩංගුවට
+
+*2024-04-16 21:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195700) · `si`
+
+කොළඹ Street Food අලෙවි සැලකදී රුපියල් 1,900කට කොත්තු රොටියක් අලෙවි කිරීම සහ එය ප්‍රතික්ෂේප කිරීමේදී විදේශිකයෙකුට අඩත්තේට්ටම් කිරීමේ සිද්ධිය සම්බන්ධයෙක් පුද්ගලයෙකුව අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/f17bbcc5.json)
+
+---
+
+### Street food vendor arrested for price-gouging & verbally harassing a foreigner
+
+*2024-04-16 20:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98670/street-food-vendor-arrested-for-price-gouging-verbally-harassing-a-foreigner-) · `en`
+
+The police have arrested a street food vendor based in Hulftdorp for price-gouging and verbally harassing a foreigner.
+
+A video that had gone viral on social media showed the vendor demanding Rs. 1,900 for a Kottu Roti from the foreigner in question and behaving in a verbally aggressive manner when he refused to buy at the said price.
+
+◼️
+
+[Data](articles/abd89548.json)
+
+---
+
+### More information about the death of Palitha Thevarapperuma
 
 *2024-04-16 20:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195699) · `si`
 
-හිටපු නියෝජ්‍ය අමාත්‍යවරයෙකු වන පාලිත තෙවරප්පෙරුම මහතා අද (16) පස්වරුවේ අභාවප්‍රාප්ත වූ බව පවුලේ ඥාතීන් පවසයි.
+Palitha Thevarapperuma, former Deputy Minister, died this afternoon while working on his personal estate. He fell and was taken to the hospital, where he passed away after a 40-minute journey.
 
-ඔහුගේ පුද්ගලික වත්තේ කිසියම් කටයුත්තක නිරත වෙමින් සිටියදී විදුලිසැර වැදීමකින් මෙම මරණය සිදුවී ඇති බවද වාර්තා වෙයි.
+🟩
 
-පාලිත තෙවරප්පෙරුම මහතාගේ වැඩිමහල් සහෝදරයාගේ පුත්‍රයෙකු වන අරුන් තෙවරප්පෙරුම සිද්ධිය පැහැදිලි කළේ මෙලෙසිනි,
+The relatives of the family say that the former Deputy Minister Palitha Thevarapperuma has passed away this afternoon.
 
-"ඔහුගේ පුද්ගලික වත්තේ පොහොර දමමින් වැඩ කර කර හිටියේ.  ඒ වත්තේ ආලෝකය සඳහා තැනින් තැනට විදුලිය ලබාගෙන තිබෙනවා. නොදැනුවත්වම බිම තිබුණු එකක් පෑගිලා විදුලි සැර වැදිලා වැටිලා තිබෙනවා. එතන හිටපු සේවකයෝ ඔහුව රෝහලට රැගෙන ගිහින් තිබුණා. දුරත් එක්ක රෝහලට ගේන්න විනාඩි 40ක් විතර ගියා."
+It is reported that the death has occurred when he is involved in any work in his personal estate.
+
+The son of the elder brother of Palitha Thevarapperuma, the son of the elder brother, explained the incident,
+
+"He was fertilizing his personal estate. Electricity has been obtained from the estate line. It was unwittingly on the floor and had fallen. The employees there had taken him to the hospital. With the distance, about 40 minutes to get the hospital. "
 
 ◼️
 
 [Data](articles/dcd22340.json)
+
+[Extended Data](ext_articles/dcd22340.ext.json)
 
 ---
 
@@ -76,7 +108,7 @@ However Samagi Jana Balawegaya (SJB) MP and Chairman of Committee on Public Fina
 
 Colombo, April 16 (Daily Mirror) - The Immigration and Emigration Department today announced the implementation of new Visa procedures and the launch of an online Visa issuing system starting tomorrow,  Immigration and Emigration Conroller General I.S.H.J. Illukpitiya said.
 
-As per the new system, the fees for the issue of Vidas, necessary amenities and the duration of stays in Sri Lanka are detailed in a gazette notification (2360/24) released on November 27, 2023.
+As per the new system, the fees for the issue of Visas, necessary amenities and the duration of stays in Sri Lanka are detailed in a gazette notification (2360/24) released on November 27, 2023.
 
 According to the announcement, the durations and charges for Tourist, Business, Transit Visas are as follows:
 
@@ -204,21 +236,27 @@ Through his tireless efforts, he mobilized individuals and communities to partic
 
 ---
 
-### හිටපු රාජ්‍ය අමාත්‍ය පාලිත තෙවරප්පෙරුම මහතා විදුලි සැර වැදී මරුට
+### Former State Minister Palitha Thewarapperuma kills power
 
 *2024-04-16 19:31:06* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-රාජ්‍ය-අමාත්‍ය-පාලිත-තෙවරප්පෙරුම-මහතා-විදුලි-සැර-වැදී-මරුට/11-409112) · `si`
 
-හිටපු රාජ්‍ය අමාත්‍ය පාලිත තෙවරප්පෙරුම  මහතා විදුලි සැර වැදීමකින් අද (16) පස්වරුවේ මියගොස් ඇති බව කළුතර  නාගොඩ රෝහල් ආරංචි මාර්ග සඳහන් කරයි.
+Palitha Thewarapperuma, former State Minister, died after an electric shock incident. Investigations show he connected two wires, leading to his death. His body is at Kalutara Teaching Hospital for a post-mortem.
 
-හිටපු අමාත්‍යවරයා වයර් දෙකක් සම්බන්ධ කිරීමට ගොස් ඇති බවත් එහිදී විදුලිසර වැදී ඇති බවට මෙතෙක් කළ පරීක්ෂණවලදී තහවුරු ඇති බව පොලිසිය සඳහන් කරයි.
+🟩
 
-විදුලි සැර වැදීමෙන් අනතුරුව හිටපු  අමාත්‍යවරයා පෞද්ගලික වෑන් රථයකින් කළුතර ශික්ෂණ රෝහලට රැගෙන විත් ඇති අතර, ඒ වන විටත් මියගොස් ඇති බව රෝහල් ආරංචි මාර්ග සදහන් කළේය.
+Former State Minister Palitha Thewarapperuma has died this afternoon, police sources said.
 
-මෘත දේහය මේ වනවිට කළුතර ශික්ෂණ රෝහලේ හදිසි ප්‍රතිකාර ඒකකයේ තැන්පත් කර ඇති අතර, පශ්චාත් මරණ පරීක්ෂණයේ අද දින පැවැත්වීමට නියමිතව තිබේ.
+The suspects have been confirmed to connect two wires and investigations have been confirmed that he has done so far.
+
+After electric weaving, the former Minister has been taken to the Kalutara Teaching Hospital and has already been killed and has already died.
+
+The remains are placed in the Kalutara Teaching Hospital, and the post mortem will be held today.
 
 ◼️
 
 [Data](articles/b639c5da.json)
+
+[Extended Data](ext_articles/b639c5da.ext.json)
 
 ---
 
@@ -2269,63 +2307,5 @@ In this case, the examination of the pineapple in Sri Lanka has been successful,
 [Data](articles/0e1a334d.json)
 
 [Extended Data](ext_articles/0e1a334d.ext.json)
-
----
-
-### Hakmana killer arrested
-
-*2024-04-16 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195677) · `si`
-
-A 46-year-old from Kahatagahakothauwa, arrested for murdering a 21-year-old with a sharp weapon in Hakmana Kahatagahakahara, revealed to be his uncle, driven by old resentment.
-
-🟩
-
-The suspect is a 46 year old resident of Kahatagahakothauwa area.
-
-A 21-year-old youth was attacked with a sharp weapon in the Hakmana Kahatagahakahara.
-
-Investigations have revealed that the murder had been carried out by his uncle on an old resentment.
-
-However, the suspect had fled the area and was arrested in Hakanda area last night.
-
-◼️
-
-[Data](articles/ba140ddd.json)
-
-[Extended Data](ext_articles/ba140ddd.ext.json)
-
----
-
-### A revelation of Sydney attacker
-
-*2024-04-16 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195676) · `si`
-
-Australian police revealed a 16-year-old attacker at Sydney's church, where the bishop and others were stabbed. The incident, broadcast live, led to a peaceful gathering between the community and police.
-
-🟩
-
-Australian police states that the bishop of the Assyrian shrine and several people there were a knife in Sydney's church.
-
-A press conference has been held on a press conference based on religious extremism, the police said.
-
-New South Wales' Commissioner Karen Web says that "after studying all the facts," it concluded.
-
-The suspect was 16 year old, he said.
-
-The knife was wounded by Bishop, including Marie Emmanuel.
-
-Living to the bishop, armed with a knife, broadcast on the basis of the entinity.
-
-Because the Sermon of the Bishop was being broadcast live. As a result, the followers listening to that lecture had seen the attack.
-
-At a short time, many people gathered to the church and had a warm quality between them and the police.
-
-The suspects were in the use of the suspects to be handed over to them.
-
-◼️
-
-[Data](articles/84032191.json)
-
-[Extended Data](ext_articles/84032191.ext.json)
 
 ---

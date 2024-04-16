@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 00:33:33**
+As of **2024-04-17 00:48:52**
 
 ## Newspaper Stats
 
-*Scraped **19,215** Articles*
+*Scraped **19,216** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,029
 dailyftlk | 1,040
 economynextcom | 1,082
 adalk | 1,600
-tamilmirrorlk | 2,240
+tamilmirrorlk | 2,241
 adaderanalk | 2,314
 virakesarilk | 2,871
 dailymirrorlk | 2,962
@@ -26,27 +26,53 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,213 (100.0%) of 19,215 articles have been extended.
+19,215 (100.0%) of 19,216 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-04-17 (Wednesday)
+
+### இன்று முதல் புதிய வீசா முறை
+
+*2024-04-17 00:10:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-புதிய-வீசா-முறை/175-336009) · `ta`
+
+குடிவரவு மற்றும் குடியகல்வுத் திணைக்களத்தின் புதிய வீசா முறையொன்றை நடைமுறைப்படுத்தல் மற்றும் புதிய இணைய வழிமுறையை செயற்படுத்தும் பணியை இன்று (17) முதல் ஆரம்பிப்பதற்கு அனைத்து நடவடிக்கைகளும் தயார்படுத்தப்பட்டுள்ளன.
+
+குடிவரவு மற்றும் குடியகல்வுத் திணைக்களத்தின் கட்டுப்பாட்டாளர் நாயகம் ஐ.எஸ்.எச்.ஜே இலுக்பிட்டிய அறிக்கை ஒன்றை வௌியிட்டு இதனை தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/5c6d086d.json)
+
+---
+
 ### 2024-04-16 (Tuesday)
 
-### பண்டைய ஒலிம்பியாவில் ஒலிம்பிக் சுடர் ஏற்றப்பட்டது
+### Olympic flame loaded at ancient Olympia
 
 *2024-04-16 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181263) · `ta`
 
-பாரிஸ் 2024 ஒலிம்பிக் விளையாட்டு விழாவுக்கு இன்னும் 100 நாட்களே உள்ள நிலையில், ஒலிம்பிக் பிறப்பிடமான கிரேக்கத்தின் பண்டைய ஒலிம்பியாவில் செவ்வாய்க்கிழமை (16) பாரம்பரிய முறைப்படி ஒலிம்பிக் சுடர் ஏற்றி வைக்கப்பட்டது.
+The Olympic flame was lit in ancient Olympia, Greece, 100 days after the Paris 2024 Games. It was ignited by a mirror reflecting the sun, a practice dating back to 776 BC. American singer Joyce Didonato sang the anthem, and the flame, symbolizing peace and confidence, will travel across Greece before reaching Paris for the Games, starting July 26 and ending August 11.
 
-பண்டைய பெண் பாதிரியார்கள் போன்று உடை அணிந்த நடிகைகளால் குழிவு வில்லை கண்ணாடியைக் கொண்டு சூரிய கதிரிலிருந்து ஒலிம்பிக் சுடர் ஏற்றப்பட்டது.
+🟩
 
-கிறிஸ்துவுக்கு முன்னர் 776ஆம் ஆண்டில் பண்டைய ஒலிம்பிக்கின் பிறப்பிடமான ஒலிம்பியாவில் ஆரம்பமான இயற்கையாக தீபச் சுடரை ஏற்றும் இந்த நடைமுறை பல நூற்றாண்டுகளாக பின்பற்றப்பட்டுவருகிறது.
+The Olympic flame was lit on Tuesday (16) at the ancient Olympia of Greece, Greece, which is still 100 days after the Paris 2024 Olympic Games.
 
-இந்த நிகழ்வின் ஆரம்பத்தில் ஒலிம்பிக் கீதத்தை அமெரிக்க பாடகி ஜொய்ஸ் டிடோனட்டோ பாடினார்.
+The Olympic flame was mounted from the sun, with a mirror of a mirror by actress who dressed like ancient female priests.
+
+This practice, which began in the Olympia, the birthplace of the ancient Olympic in 776 before Christ, has been practiced for centuries.
+
+At the beginning of the event, American singer Joyce Didonato sang the Olympic anthem.
+
+The Greek Olympic Group Chairman Ketarina Chicellaropavlu, International Olympic Group Chairman Thomas Pech, French Olympic Group Chairman and International Olympic Group Member David Lapotion, French Sports Minister, Olympic and Paralympic Minister Amelee Olippu Gesthea flame.
+
+The Olympic Flame, which reflects peace and confidence, will travel across Greece before being taken to France where the Olympic Games will be held. The Olympic Flame will also be attended by the French state's jurisdiction abroad.
 
 ...
 
 [Data](articles/62e06763.json)
+
+[Extended Data](ext_articles/62e06763.ext.json)
 
 ---
 
@@ -792,25 +818,35 @@ Carring Thushara has pointed to the Commission that the Cabinet has been able to
 
 ---
 
-### පාලිත තෙවරප්පෙරුම : දිවි ගමනට සමුදුන් ජනතා සේවකයා
+### Palitha Thevarapperuma: The people of the people of the life of the life
 
 *2024-04-16 18:32:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw8qpnpl2wlo) · `si`
 
-එක්සත් ජාතික පක්ෂය නියෝජනය කළ හිටපු පාර්ලිමේන්තු මන්ත්‍රී පාලිත තෙවරප්පෙරුම අද (අප්‍රේල් මස 16 වෙනිදා) අභාවප්‍රාප්ත විය.
+Palitha Thevarapperuma, a former UNP parliamentarian, passed away on May 3, 1960. He entered politics in 2002, serving as Chairman of Matugama Pradeshiya Sabha and later as a Deputy Minister. Known for his involvement in controversial events, he was arrested multiple times. Despite facing challenges, he was praised for his efforts to provide relief during the 2020 COVID-19 pandemic.
 
-1960 මැයි මස 3 වැනිදා උපත ලැබූ පාලිත තෙවරප්පෙරුම මිය යන විට 64 වන වියේ පසුවිය.
+🟩
 
-බීබීසී සිංහල සේවයට අදහස් දක්වමින් පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දුව ප්‍රකාශ කළේ මතුගම, යටදොලවත්ත ප්‍රදේශයේ පිහිටි හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයාට අයත් පොල් වත්තක දී සිදුවූ අනතුරකින් පාලිත තෙවරප්පෙරුම ජිවිතක්ෂයට පත්වී ඇති බවයි.
+Former Parliamentarian Palitha Thevarapperuma, who represented the UNP, passed away today (16th April 16).
 
-" අපිට හරියටම කියන්න අමාරුයි සිදුවුණු අනතුර මොකක්ද කියලා. ඒ ගැන පරීක්ෂණයක් සිදුකරනවා." පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
+The 64th was the 64 year old when he died on May 3, 1960.
 
-පාලිත තෙවරප්පෙරුම 2002 වසරේ පැවති මැතිවරණයෙන් දේශපාලනයට පිවිසි අතර ඔහු එක්සත් ජාතික පක්ෂය නියෝජනය කරමින් මතුගම ප්‍රාදේශීය සභාවේ සභාපතිවරයා ලෙස තේරී පත්වුයේ මනාප 7,000ක් ලබා ගනිමිනි.
+Speaking to the BBC Sinhala
 
-පසුව ඔහු බස්නාහිර පළාත් සභාවට තේරී පත්වූ අතර, එම මැතිවරණයේදී ඔහු ලබා ගත් ජන්ද සංඛ්‍යාව 39,167කි.
+"It's hard to tell us exactly what the accident happened. An investigation is conducting an investigation. "
+
+Palitha Thevarapperuma entered politics in 2002 and was elected as the Chairman of the Matugama Pradeshiya Sabha, representing 7,000 preferential votes.
+
+He was elected to the Western Provincial Council and 39,167 votes were 39,167.
+
+Palitha Thevarapperuma, who was contesting the United National Institute of the United National Party for the first time representing the United National Election, was the first to represent the Parliament with 51,153 preferential votes.
+
+He was contesting for the parliamentary elections in 2015 and received 118,128 preferential votes and was elected to Parliament again.
 
 ...
 
 [Data](articles/da879a90.json)
+
+[Extended Data](ext_articles/da879a90.ext.json)
 
 ---
 
@@ -2259,29 +2295,5 @@ Q. What is the party you do?Or independently?
 [Data](articles/f874e8ea.json)
 
 [Extended Data](ext_articles/f874e8ea.ext.json)
-
----
-
-### Minimum 5 days of expressways. 235 revenue
-
-*2024-04-16 13:01:55* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගී-මාර්ගවලින්-දින-පහට-රු-මි--235ක-ආදායමක්/11-409102) · `si`
-
-Over 5 days, expressways earned Rs. 235 million, a 75 million increase from last year. Highest daily vehicles: 39,000 million, highest income: 46 million rupees. This year, 60,000 vehicles operated on 6 lakh highways, with 10-10,000 accidents daily, none fatal.
-
-🟩
-
-According to the Deputy Director General (Minister of Education) has been earned over Rs.
-
-It is an increase of 75 million over the past year. The highest number of vehicles, operating 39,000 million and the highest income received 46 million rupees.
-
-According to the Director, 6 lakhs of highways were operated on the five days of this year and 60000 vehicles over the past year.
-
-There were about ten to ten thousand accidents a day, and there were no fatal accidents a day.
-
-◼️
-
-[Data](articles/b116922d.json)
-
-[Extended Data](ext_articles/b116922d.ext.json)
 
 ---

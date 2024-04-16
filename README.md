@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 10:18:18**
+As of **2024-04-16 10:34:01**
 
 ## Newspaper Stats
 
-*Scraped **19,053** Articles*
+*Scraped **19,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,84 @@ newsfirstlk | 363
 islandlk | 1,027
 dailyftlk | 1,039
 economynextcom | 1,065
-adalk | 1,584
+adalk | 1,585
 tamilmirrorlk | 2,225
-adaderanalk | 2,295
+adaderanalk | 2,296
 virakesarilk | 2,834
 dailymirrorlk | 2,934
-adaderanasinhalalk | 3,105
+adaderanasinhalalk | 3,106
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,052 (100.0%) of 19,053 articles have been extended.
+19,053 (100.0%) of 19,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### ඉන්දියාවේ බිහිසුණු බෝට්ටු අනතුරක්
+### China’s economy grew 5.3% in the first quarter, beating expectations
+
+*2024-04-16 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98658/chinas-economy-grew-53-in-the-first-quarter-beating-expectations) · `en`
+
+China’s economy in the first quarter grew faster than expected, official data released Tuesday by China’s National Bureau of Statistics showed.
+
+Gross domestic product in the January to March period grew 5.3% compared to a year ago — faster than the 5.2% expansion in the fourth quarter of 2023 and 4.6% growth expected by economists polled by Reuters.
+
+On a quarter-on-quarter basis, China’s GDP grew 1.6% in the first quarter, compared to a Reuters poll expectations of 1.4% and a revised fourth quarter expansion of 1.2%. Beijing has set a 2024 growth target of around 5%.
+
+Growth was driven in part by external demand, as export volume grew by 14% year on year, said Zhiwei Zhang, president and chief economist at Pinpoint Asset Management.
+
+The strong first quarter growth will make the government comfortable with its current policy stance, he said in a note on Tuesday.
+
+...
+
+[Data](articles/c8070d0d.json)
+
+---
+
+### ඕමානයේ ගංවතුර ප්‍රචණ්ඩ වෙයි
+
+*2024-04-16 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195673) · `si`
+
+ඉරිදා දිනයේ සිට ඇදහැලෙන අධික වර්ෂාවත් සමග ඇතිවූ ආපදා තත්ත්වයෙන් ඕමානයේ මරණ 17ක් වාර්තා වන බව විදෙස් මාධ්‍ය සඳහන් කරයි.
+
+මේ අතර ඕමානයේ ප්‍රදේශ රැසක පාසල් සහ රජයේ ආයතන වසා දැමීමටද එරට රජය තීරණය කර තිබේ.
+
+අධික ජලගැලීම් හේතුවෙන් මෙම තීරණය ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එසේම ඉදිරි දින කිහිපය තුළ ද එරට ප්‍රදේශ රැසකට අධික වැසි තත්ත්වයක් අපේක්ෂා කරන බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එසේම අධික වර්ෂාවත් සමග මෝටර් රථ සහ දේපළ රැසකට හානි සිදුව ඇති අයුරු විදෙස් මාධ්‍ය මෙලෙස වාර්තා කර තිබුණි.
+
+◼️
+
+[Data](articles/8c5b8137.json)
+
+---
+
+### An horrific boat accident in India
 
 *2024-04-16 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195672) · `si`
 
-ඉන්දියාවේ බෝට්ටු අනතුරකින් කුඩා ළමුන් ඇතුළු පිරිසක් අතුරුදන්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+A boat accident in India's Jalam River, Jammu area, reportedly resulted in missing children. The boat was transporting passengers from Gandolb to Batura. A search mission has been initiated.
 
-ඉන්දියාවේ ජම්මු කාශ්මීර් ප්‍රදේශයේ ජේලම් ගංගාවේ බෝට්ටුවක් මෙලෙස අනතුරට ලක්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+🟩
 
-ගන්ඩාබල් සිට බට්වාරා දක්වා මගීන් ප්‍රවාහනය කරමින් සිටි බෝට්ටුවක් මෙලෙස අනතුරට ලක්ව ඇති බව එම වාර්තා සඳහන් කරයි.
+Foreign media reports that few children have gone missing in boat accident in India.
 
-ඉන්දීය මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත්තේ අතුරුදන්ව ඇති පිරිස සොයා මේ වනවිටත් මෙහෙයුමක් ආරම්භ කර ඇති බවය.
+Foreign media reports that Jalam River in Jaminu area in Jammu area in India has been reported.
+
+According to the reports, a boat was transporting passengers from Gandolb to Batura.
+
+Indian media further stated that a mission has already been launched by the missing persons.
 
 ◼️
 
 [Data](articles/81685c3e.json)
+
+[Extended Data](ext_articles/81685c3e.ext.json)
 
 ---
 
@@ -325,6 +371,20 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 [Data](articles/75a41c5e.json)
 
 [Extended Data](ext_articles/75a41c5e.ext.json)
+
+---
+
+### අතහැර දමා තිබූ ළිඳකට වැටී දරුවෙක් මිය යයි
+
+*2024-04-16 08:43:53* · [`adalk`](https://www.ada.lk/breaking_news/අතහැර-දමා-තිබූ-ළිඳකට-වැටී-දරුවෙක්-මිය-යයි/11-409095) · `si`
+
+ගම්පොල අඹගමුව පාර ප්‍ර දේශයේ නිවසක පිහිටි අතහැර දමා තිබූ ළිදකට වැටී දියේ ගිලීමෙන් දරුවෙක් මියගොස් ඇතැයි පොලීසිය කියයි.
+
+මියගිය දරුවා අවුරුදු අවුරුදු 09 ක් වන ටොරින්ටන් මාවත කොළඹ පදිංචිකරුවෙකි. ඔහු සිය මිත්තනිය පදිිංචි නිවසට ගොස් සිටියදී මෙම අනතුරට මුහුණ දී තිබේ. ඊයේ උදෑසන කාලයේදී මෙම අනතුර සිදුව තිබේ.
+
+◼️
+
+[Data](articles/9772304a.json)
 
 ---
 
@@ -2125,93 +2185,5 @@ This incident did not disrupt railway traffic, and an investigation will be cond
 [Data](articles/5ed7f899.json)
 
 [Extended Data](ext_articles/5ed7f899.ext.json)
-
----
-
-### 'Benz'
-
-*2024-04-15 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181150) · `ta`
-
-"Raghava Lawrence stars in 'Benz', directed by Bhakiraj Kannan, produced by Fashion Studios, The Root, and G Squad. The film, featuring a warrior theme, is written by Lokesh Kanakaraj. More stars and technicians will be announced soon."
-
-🟩
-
-Raghava Lawrence, who gave 'Chandramukhi 2' and 'Jigirtanda Double X', a commercial hit film, has been named 'Benz' and has been released in its title.
-
-Directed by director Bhakiraj Kannan, directed by "Remo", Raghava is the hero of the story of 'Benz'.
-
-The film is being produced by producers Sudan Sundaram, Jagadish Palanisamy and Lokesh Kanakaraj on behalf of Fashion Studios, The Root and G Squad.
-
-The official announcement of other star actors and technicians in the film, which is written by director Lokesh Kanakaraj, is expected to be released soon.
-
-In the title of the film, the film has been promoted as 'a warrior warrior and a very dangerous soldier'.
-
-Lokesh Kanakaraj -Bakiraj Kannan -Rawa Lawrence has designed a helmet in the title of 'Benz' which is ready for the alliance and printed it in English as Benz.
-
-◼️
-
-[Data](articles/a46ccae6.json)
-
-[Extended Data](ext_articles/a46ccae6.ext.json)
-
----
-
-### "Prabhakaran has no Tamil leadership"
-
-*2024-04-15 16:59:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பிரபாகரனுக்கு-பின்-தமிழ்-தலைமை-இல்லை/72-335962) · `ta`
-
-"Prabhakaran: No Tamil leadership identified in North, East, and hill country. TNA hasn't consulted on Tamil general candidate for upcoming presidential election. Tamils' rights in presidential elections are denied, leading to calls to stop a Tamil general candidate. Prabhakaran: Difficult to identify a Tamil leadership or general candidate. Tamil people not interested in a Tamil general candidate."
-
-🟩
-
-In the case of the North, East and the hill country and the Tamil leader Velupillai Prabhakaran, a Tamil leadership has not yet been identified.
-
-He was speaking at a media briefing held at the office in Mannar on Monday morning.
-
-The Tamil National Alliance (TNA) has not yet held any consultation on who supports or the Tamil general candidate during the upcoming presidential election.
-
-Comments on the Tamil general candidate are coming out in the media. The main reason they say that the main reason for me is that Tamils vote in the presidential election are constantly denied the rights of Tamils.. As a result, there are some people who say that a Tamil general candidate should be stopped.
-
-My personal opinion is a very difficult thing to stop a Tamil general candidate.
-
-In the North -East, the people of Colombo, the Tamil leader Velupillai Prabhakaran has not yet recognized a Tamil leadership after the Tamil leader.
-
-It is a difficult answer to identify a party leader or common to all people.
-
-...
-
-[Data](articles/1e79f6fd.json)
-
-[Extended Data](ext_articles/1e79f6fd.ext.json)
-
----
-
-### "There is no Tamil after Prabhakaran"
-
-*2024-04-15 16:59:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பிரபாகரனுக்கு-பின்-தமிழ்-இல்லை/72-335962) · `ta`
-
-"No Tamil leadership identified after Prabhakaran. TNA hasn't consulted on Tamil general candidate for presidential election. Media comments suggest denial of Tamil rights in elections. Difficulty in identifying a unifying Tamil leader. Tamils not interested in a Tamil general candidate."
-
-🟩
-
-In the case of the North, East and the hill country and the Tamil leader Velupillai Prabhakaran, a Tamil leadership has not yet been identified.
-
-He was speaking at a media briefing held at the office in Mannar on Monday morning.
-
-The Tamil National Alliance (TNA) has not yet held any consultation on who supports or the Tamil general candidate during the upcoming presidential election.
-
-Comments on the Tamil general candidate are coming out in the media. The main reason they say that the main reason for me is that Tamils vote in the presidential election are constantly denied the rights of Tamils.. As a result, there are some people who say that a Tamil general candidate should be stopped.
-
-My personal opinion is a very difficult thing to stop a Tamil general candidate.
-
-In the North -East, the people of Colombo, the Tamil leader Velupillai Prabhakaran has not yet recognized a Tamil leadership after the Tamil leader.
-
-It is a difficult answer to identify a party leader or common to all people.
-
-...
-
-[Data](articles/d0a04ff0.json)
-
-[Extended Data](ext_articles/d0a04ff0.ext.json)
 
 ---

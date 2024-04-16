@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 01:18:11**
+As of **2024-04-17 01:33:56**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,216 (100.0%) of 19,222 articles have been extended.
+19,222 (100.0%) of 19,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### புத்தாண்டு காலத்தில் நுகர்வோர் சட்டத்தை மீறிய வர்த்தகர்களுக்கு எதிராக நடவடிக்கை - நுகர்வோர் அதிகார சபை
+### Action against traders violating Consumer Act during New Year - Consumer Authority
 
 *2024-04-17 00:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/181264) · `ta`
 
-சிங்கள மற்றும் தமிழ் புத்தாண்டு காலத்தில் நுகர்வோர் சட்டத்தை மீறி  கண்டி மாவட்டத்தில் பொருட்களை விற்பனை செய்த  86 வர்த்தகர்களுக்கு எதிராக வழக்குத் தொடர கண்டி மாவட்ட நுகர்வோர் அதிகார சபை நடவடிக்கை எடுத்துள்ளது.
+The Kandy District Consumer Affairs Authority has fined 86 traders for violating the Consumer Act during the Sinhala and Tamil New Year, charging 383,000 rupees in 156 cases.
 
-விலையைக் காட்சிப்படுத்தாமை, காலாவதியான பொருட்களை விற்பனை செய்தமை, விற்பனை செய்யப்பட்ட பொருட்களின் எடையைச் சரியாக வைத்திருக்காமை மற்றும்  விதிகளை மீறியமை  உள்ளிட்ட குற்றச்சாட்டுகளின் கீழ் சம்பந்தப்பட்ட நபர்கள் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டுள்ளனர்.
+🟩
 
-கண்டி மாவட்ட நுகர்வோர் சேவை அதிகார சபை இந்த வருடம் மார்ச் மாதம் வரை மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் மூலம் 156 வழக்குகளைத் தாக்கல் செய்து மூன்று இலட்சத்து எண்பத்து மூவாயிரம் ரூபா தண்டப்பணம் அறவிடப்பட்டுள்ளதாகவும் துஷார ரணபன தெரிவித்தார்.
+During the Sinhala and Tamil New Year, the Kandy District Consumer Affairs Authority (CEB) has taken action against 86 traders who sold goods in Kandy district in violation of the Consumer Act.
 
-நாவலப்பிட்டி, திகன, தெல்தெனிய, அக்குரணை, கலகெதர, முருதலாவ உள்ளிட்ட பல நகரங்களில் இந்த சோதனைகள் நடத்தப்பட்டதாகவும், புத்தாண்டின் பின்னரும் இந்த சோதனைகள் தொடரும் என்றும் கண்டி மாவட்ட நுகர்வோர்  சேவை அதிகார சபையின் சிரேஷ்ட விசாரணை அதிகாரி துஷார ரணபன தெரிவித்தார்.
+Persons involved in the court have been presented in court under allegations, including lack of prices, selling outdated goods, lack of weight and violation of the rules.
+
+Dushara Ranapana said that three hundred and eighty -three thousand rupees have been charged with 156 cases by the Kandy District Consumer Service Authority till March this year.
+
+Senior Investigation Officer of the Kandy District Consumer Service Authority said that the tests were conducted in several cities including Nawalapitiya, Digana, Teldeniya, Akurana, Galagadera and Murudhawa.
 
 ◼️
 
 [Data](articles/c28c86ad.json)
+
+[Extended Data](ext_articles/c28c86ad.ext.json)
 
 ---
 
@@ -66,6 +72,8 @@ The 155/65 R14 is designed for Suzuki Wagon R, Daihatsu Mira ES, Daihatsu Hijet,
 
 [Data](articles/8698c6fa.json)
 
+[Extended Data](ext_articles/8698c6fa.ext.json)
+
 ---
 
 ### Meridian Maritime appoints Sanjeewa Kotalawala as new CEO
@@ -84,6 +92,8 @@ Kotalawala’s distinguished career spans pivotal senior leadership roles across
 
 [Data](articles/8b4d1fc0.json)
 
+[Extended Data](ext_articles/8b4d1fc0.ext.json)
+
 ---
 
 ### Hayleys Solar opens new experience centres in Negombo and Kandy
@@ -99,6 +109,8 @@ These new centres offer residents a one-stop shop to explore solar energy soluti
 ...
 
 [Data](articles/892f7622.json)
+
+[Extended Data](ext_articles/892f7622.ext.json)
 
 ---
 
@@ -116,6 +128,8 @@ Q: Give us an overview of the current market landscape and discuss the CSE's ove
 
 [Data](articles/ea89bb11.json)
 
+[Extended Data](ext_articles/ea89bb11.ext.json)
+
 ---
 
 ### Why all the fuss for a downtown duty-free?
@@ -129,6 +143,8 @@ A Parliamentary Committee led by MP Harsha de Silva has had a lot to say about t
 ...
 
 [Data](articles/20203b1a.json)
+
+[Extended Data](ext_articles/20203b1a.ext.json)
 
 ---
 

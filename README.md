@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 06:17:17**
+As of **2024-04-16 06:55:14**
 
 ## Newspaper Stats
 
-*Scraped **19,007** Articles*
+*Scraped **19,011** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 167
 bbccomsinhala | 199
 dbsjeyarajcom | 215
 newsfirstlk | 363
-islandlk | 1,017
+islandlk | 1,020
 dailyftlk | 1,039
 economynextcom | 1,064
 adalk | 1,583
@@ -20,17 +20,37 @@ tamilmirrorlk | 2,219
 adaderanalk | 2,292
 virakesarilk | 2,829
 dailymirrorlk | 2,924
-adaderanasinhalalk | 3,096
+adaderanasinhalalk | 3,097
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,007 (100.0%) of 19,007 articles have been extended.
+19,007 (100.0%) of 19,011 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### අද පස්වරුවේ ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-04-16 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195664) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (16) ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, ඌව පළාතේත්, මඩකලපුව, අම්පාර සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වල ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවේ.
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත්  ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පවතී.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/91a84ee7.json)
+
+---
 
 ### Political accounts in the presidential election
 
@@ -557,6 +577,28 @@ Due to inflation the cost of goods increased massively. The cost of increased go
 [Data](articles/5be26fba.json)
 
 [Extended Data](ext_articles/5be26fba.ext.json)
+
+---
+
+### Words…coming out strong
+
+*2024-04-15 22:42:00* · [`islandlk`](http://island.lk/wordscoming-out-strong/) · `en`
+
+Yes, golden words, indeed, from Chandral Fonseka, leader of the group Kings, who celebrated his 69th birthday on Saturday, 30th March.
+
+Says Chandral: “I am 69 and still very much active in the music field. I have no enemies in this world but only friends.
+
+In three Facebook accounts, I have 15,000 friends. Most of them are interacting with me often. I have 4000 contacts on my mobile. I always respond to their posts or calls.
+
+“I have always played music with better musicians than me and gained a lot of insight from them before becoming a leader myself.
+
+I have learned to give due respect to people where it is due. I have learned to live a righteous life in a corrupted world. I love to do good, but prefer to do the right thing always.
+
+I am learning new things daily. I apply Biblical insight to my daily life. 69 years is long and my happy moments are greater than the sad times.
+
+...
+
+[Data](articles/85c35d77.json)
 
 ---
 
@@ -2197,47 +2239,5 @@ Accordingly, the information issued by the Central Bank today (15.04.2024) on ot
 [Data](articles/d358dc71.json)
 
 [Extended Data](ext_articles/d358dc71.ext.json)
-
----
-
-### Sri Lanka’s Unisyst Engineering Plc delists from CSE
-
-*2024-04-15 14:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-unisyst-engineering-plc-delists-from-cse-158528/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hayleys Group company, Unisyst Engineering Plc, has announced it would be delisting from the Colombo Stock Exchange.
-
-“The Securities and Exchange Commission of Sri Lanka has granted their approval to delist the shares of Unisyst Engineering PLC from the Official List of the Colombo Stock Exchange, at an exit offer price of Rs. 6/- per share,” the Hayleys Group said in a stock exchange filing.
-
-The company said an offer letter will be sent to the shareholders shortly.
-
-Formerly Alufab Plc, Unisyst Engineering is an aluminium supplier in Sri Lanka.
-
-The Company’s revenue increased by 38 percent to 784 million rupees during the last financial year, according to its annual report: “Unisyst Engineering PLC will continue to leverage the strengths of its partnership with Hayleys Advantis as it seeks to drive increased penetration in selected customer segments.”
-
-...
-
-[Data](articles/476ae1f8.json)
-
-[Extended Data](ext_articles/476ae1f8.ext.json)
-
----
-
-### Allow vehicles to be imported according to the needs of the future!
-
-*2024-04-15 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181120) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya announced that vehicle imports will align with future needs, with the Central Bank's foreign reserves at $5 billion.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya has told the media that the import of vehicles will be allowed to be imported as per the needs of the future.
-
-He added that the Central Bank -owned foreign reserves are currently at US $ 5 billion.
-
-◼️
-
-[Data](articles/455bb3f9.json)
-
-[Extended Data](ext_articles/455bb3f9.ext.json)
 
 ---

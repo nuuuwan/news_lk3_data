@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 17:03:23**
+As of **2024-04-16 17:18:21**
 
 ## Newspaper Stats
 
-*Scraped **19,145** Articles*
+*Scraped **19,150** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,52 +17,154 @@ dailyftlk | 1,040
 economynextcom | 1,072
 adalk | 1,592
 tamilmirrorlk | 2,236
-adaderanalk | 2,304
-virakesarilk | 2,857
+adaderanalk | 2,305
+virakesarilk | 2,860
 dailymirrorlk | 2,949
-adaderanasinhalalk | 3,121
+adaderanasinhalalk | 3,122
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,143 (100.0%) of 19,145 articles have been extended.
+19,145 (100.0%) of 19,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### ලිස්සන ගස කඩාවැටී 4ක් රෝහලේ
+### Expressway generate revenue of Rs. 235 million in six days
+
+*2024-04-16 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98666/expressway-generate-revenue-of-rs-235-million-in-six-days) · `en`
+
+The Road Development Authority (RDA) says the expressways have generated an income of Rs. 235 million within the past six days from 10 - 15 April.
+
+According to the RDA’s director general, Eng. Priyantha Suriyabandara, this year’s expressway revenue improved by approximately Rs. 80 million during the Sinhala and Tamil New Year season, in comparison to 2023.
+
+During festive seasons, especially the traditional New Year, the RDA collects a substantial amount of revenue from expressways as traffic volume on the thoroughfare surges with many people visiting their hometowns and going on vacations.
+
+◼️
+
+[Data](articles/3234d23c.json)
+
+---
+
+### சுகாதாரத்துறையில் மருந்துப்பொருள் மோசடி மட்டுமல்ல ; சுகாதார அமைச்சுக்குச் சொந்தமான 679 வாகனங்கள் காணாமல் போயுள்ளன - சஜித் பிரேமதாச
+
+*2024-04-16 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/181246) · `ta`
+
+சுகாதாரத்துறையில் இடம்பெற்ற மருந்துப் பொருள் கொடுக்கல் வாங்கல்கள் மற்றும் இலஞ்ச மோசடிகள் தொடர்பில் வெளியான அம்பலத்தினால் பாராளுமன்றத்திற்கு உள்ளேயும் வெளியேயும் பல சவால்களுக்கு மத்தியில் ஐக்கிய மக்கள் சக்தி பெரும் போராட்டத்தை நடத்தி திருடர்களை நீதிமன்றில் நிறுத்தியது. மருந்துப்பொருள் மோசடி குறித்து பலர் பேசினாலும், சுகாதார அமைச்சுக்குச் சொந்தமான 679 வாகனங்கள் காணாமல் போயுள்ளதாக தேசிய கணக்காய்வு அலுவலகம் அறிவித்துள்ளதாகவும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/7e1f0780.json)
+
+---
+
+### மாறி மாறி வருகின்ற அரசாங்கத்துடன் கூட்டு சேர்வது இராஜதந்திரமாக இருந்தால் கருணாம்மான் செய்ததும் இராஜதந்திரமே -  ஜெயா சரவணா
+
+*2024-04-16 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/181250) · `ta`
+
+மாறி மாறி வருகின்ற அரசாங்கத்துடன் கூட்டு சேர்வது இராஜதந்திரமாக இருந்தால் கருணாம்மான் செய்ததும் இராஜதந்திரமே என தமிழர் ஐக்கிய சுதந்திர முன்னணியின் உப தலைவரும், அம்மான் படையணியின் தலைமை ஒருங்கிணைப்பாளருமான ஜெயா சரவணா தெரிவித்தார்.
+
+அம்மான் படையணியின் தலைவரால் ஆரம்பிக்கப்பட்ட வேலைத்திட்டங்கள் அனைத்தும் சரியான முறையில் சென்று கொண்டிருக்கின்றது. வன்னி பெருநிலப்பரப்பில் நூற்றுக்கணக்கான போராளிகள் எம்முடன் இணைந்து வேலைத்திட்டங்களை முன்னெடுத்து வருகிறார்கள்.
+
+அம்மான் படையணியின் செயற்பாடுகள் என்ன என அதிகமானோர் கேள்வி எழுப்பியிருந்தனர். ஆயுதத்தை தூக்கி இராணுவத்தினரை சுடுவதல்ல. சமூக சீர்திருத்தத்திற்காகவே உருவாக்கப்பட்டது. கடந்த காலங்களில் வவுனியாவில் போதைவஸ்து பாவனையை அடையாளம் காண உதவியிருந்தோம். அதேபோல் கடந்த வாரமளவில் மண் அகழ்வு, மரம் வெட்டுதல் போன்ற செயற்பாடுகளை பாதுகாப்பு தரப்பினரின் கவனத்திற்கு கொண்டு சென்று நடவடிக்கை எடுத்திருந்தோம். அவ்வாறு எமது பணி தொடர்ந்து கொண்டிருக்கின்றது. தற்போது எம்முடன் இணைந்த போராளிகள் குறித்த வேலைத்திட்டங்களினை முன்னெடுத்து வருகிறார்கள்.
+
+...
+
+[Data](articles/e3389be0.json)
+
+---
+
+### டென்மார்க்கில் வரலாற்றுச் சிறப்புமிக்க பங்குச் சந்தை கட்டிடத்தில் தீ பரவல்
+
+*2024-04-16 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181231) · `ta`
+
+டென்மார்க் தலைநகர் கோபன்ஹேகனின் மத்தியிலுள்ள  வரலாற்றுச்  சிறப்புமிக்க பழைய பங்குச் சந்தை  கட்டிடம் செவ்வாய்கிழமை (16) காலை  தீயில் எரிந்து நாசமாகியுள்ளது.
+
+இந்த  கட்டிடம் 17 ஆம் நூற்றாண்டின் போர்சன் நகரின் பழமையான கட்டிடங்களில் ஒன்றாகும்.
+
+தீ பரவியதும் கட்டிடத்திற்குள் இருந்த அனைவரும்  வெளியேறியுள்ளனர். இது வரை ஒருவருக்கும் பாதிப்பு ஏற்படவில்லை. சில வரலாற்று ஓவியங்களை மக்கள் விரைந்து  மீட்டுள்ளனர்.
+
+400 ஆண்டுகால டென்மார்க் கலாச்சார பாரம்பரியம் தீப்பிடித்து எரிந்துள்ளதாக அந்நாட்டு  கலாச்சார அமைச்சர் ஜாகோப் ஏங்கல்-ஷ்மிட்  தெரிவித்துள்ளார்.
+
+இது “தி ஃபோல்கெட்டிங்" எனப்படும் டென்மார்க்கின் பாராளுமன்றம் மற்றும் கிறிஸ்டியன்ஸ்போர்க் அரண்மனை ஆகியவற்றிலிருந்து குறுகிய தூரத்திலுள்ள  1625 ஆம் ஆண்டுக்கு முந்தைய கட்டிடமாகும்.
+
+இந்த பங்குச் சந்தை கட்டிடம் புதுப்பிக்கப்பட்டு  பாதுகாப்பிற்காக பிளாஸ்டிக் உறைகளால் மூடப்பட்டிருந்தது. இது தற்போது டென்டமார்க் வர்த்தக சபையைக் கொண்டுள்ளது.
+
+...
+
+[Data](articles/cb3335b5.json)
+
+---
+
+### පිකෝ ට්‍රේල් අත්දැකීම විඳගත් ජනපති
+
+*2024-04-16 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195692) · `si`
+
+නුවරඑළිය සුන්දර කඳුකරය ආශ්‍රිතව යළි පිබිඳෙන සංචාරක කාර්මාන්තය පිළිබඳ සොයා බලමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (16) පෙරවරුවේ නුවරඑළිය උඩුපුස්සැල්ලාව වැවිලි සමාගමට අයත් කෝට් ලොජ් වතුයායේ සංචාරයක නිරත විය.
+
+“පිකෝ ට්‍රේල් (Peko Trail) මංපෙත හරහා ජනාධිපතිවරයා පා ගමනින් මෙම සංචාරයට එක්වීම විශේෂත්වයකි.
+
+“පිකෝ ට්‍රේල්” යනු ශ්‍රී ලංකාවේ මධ්‍යම කඳුකරය හරහා දිවෙන කිලෝමීටර් 300ක පමණ කඳු නැගීමේ මාර්ගයකි. එය ආසියාවේ හොඳම රහසිගත මාර්ගවලින් එකක් ලෙස සැලකෙයි.
+
+“පිකෝ ට්‍රේල්” නම් මෙම මංපෙත සුප්‍රසිද්ධ මහනුවර නගරයෙන් ආරම්භවී දකුණු දෙසින් හැටන් සහ හෝර්ටන් තැන්න ජාතික වනෝද්‍යානය දෙසට ගමන් කරයි. ඉන්පසු එය හපුතලේ සහ ඇල්ල හරහා නැගෙනහිර දෙසට ගමන් කර සුන්දර නුවරඑළිය නගරය වටා ගමන් කර අවසන් වේ. මෙම මාර්ගය බ්‍රිතාන්‍ය යටත් විජිත සමයේදී විශාල වතුවල සිට කර්මාන්තශාලා වෙත තේ ප්‍රවාහනය කිරීම සඳහා භාවිතා කරන ලද්දකි.
+
+“පිකෝ ට්‍රේල්” මාර්ගය ඔස්සේ කිලෝමීටර 3.2ක පමණ දුරක් පාගමනින් ඇවිද ගිය ජනාධිපතිවරයා කෝට් ලොජ් වතුයායේ සේවයේ නිරතව සිටින කම්කරු ජනතාවගේ ද තොරතුරු විමසමින් සුහද කථා බහක නිරත විය.
+
+...
+
+[Data](articles/342bf19d.json)
+
+---
+
+### Four injured tree injunions
 
 *2024-04-16 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195691) · `si`
 
-අවුරුදු උත්සවයක් අතරතුර ලිස්සන ගස කඩා වැටීමෙන් සිදුවු අනතුරකින් සිව් දෙනෙකු තුවාල ලබා තිබේ.
+Four injured in a tree collapse at Rajaiwela, Gampola during a festival.
 
-ගම්පොළ, ගම්පලවෙල රාජඇලගම ප්‍රදේශයේදී ඊයේ (15) පස්වරුවේ මෙම අනතුර සිදුවී තිබුණි.
+🟩
 
-අවුරුදු උත්සවයේ ලිස්සන ගහේ නැගීමේ තරගය පැවැත්වෙන අතරතුර එය කඩා වැටී ඇති බව සඳහන් ය.
+Four were injured in a crash, collapsing the slippery tree collapsing during a festival.
 
-එම අවස්ථාවේ ලිස්සන ගසෙහි නැගීමට උත්සාහ දරමින් සිටි සිව් දෙනෙකු මෙලෙස අනතුරින් තුවාල ලබා තිබුණි.
+The accident had occurred in general area Rajaiwela, Gampola yesterday (15).
+
+It is said that it has collapsed during the festival of the festival.
+
+Four people were injured in the crash at the time of the sake of the slippery tree.
 
 ◼️
 
 [Data](articles/0b0b0a8d.json)
 
+[Extended Data](ext_articles/0b0b0a8d.ext.json)
+
 ---
 
-### தமிழ் மக்களின் சுமைதாங்கும் தர்ம தேவதையாக அமைச்சர் டக்ளஸ் இருக்கின்றார் – யாழ் பல்கலை துணைவேந்தர் புகழாரம்
+### Minister Douglas is the Loose of the Tamil people - the Vice Chancellor of Jaffna
 
 *2024-04-16 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/181245) · `ta`
 
-ஆயுதப் போராட்ட காலங்களிலும் சரி ஜனநாயக வழிமுறையினூடாகவும் சரி தமிழ் மக்களின் சுமைதாங்கும் தர்ம தேவதையாக அமைச்சர் டக்ளஸ் தேவானந்தா இருந்துவருகின்றார் என தெரிவித்த யாழ்ப்பாணம் பல்கலைக்கழகத்தின் துணைவேந்தர் சி.சிறிசற்குணராசா அமைச்சர் முன்னெடுக்கும் முயற்சிகள் தமிழ் மக்களுக்கும் நாட்டுக்கும் நன்மை பயர்ப்பனவாகவே இருந்து வந்துள்ளன என்றும் சுட்டிக்காட்டியுள்ளார்.
+Minister Douglas Devananda, Jaffna University's Vice Chancellor, praised the Tamil people's democratic struggle and its benefits. He highlighted his compassion for the people, their needs, and future. The Tamil people's education and the Faculty of Engineering at Jaffna University have overcome obstacles. Devananda's political efforts have provided benefits like labor to the people. He encourages solving future problems and appreciates the support of the National Employees Union and the people.
 
-யாழ்ப்பாண பல்கலைக்கழக ஜனநாயக ஊழியர் சங்கத்தின் 10 ஆவது ஆண்டு நிறைவை சிறப்பிக்கும் வகையில் ஏற்பாடு செய்யப்பட்ட சிறப்பு நிகழ்வில் பிரதம விருந்தினராக கலந்து உரையாற்றும் போதே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+🟩
 
-இதன்போது அவர் அமைச்சர் இளைஞராக இருந்த காலத்தில் அவரது செயற்பாடுகள் எவ்வாறானதாக இருந்ததென்பதை நினைவு கூர்ந்திருந்ததுடன் மேலும் கூறுகையில் –
+Minister Douglas Devananda, the Vice Chancellor of the Jaffna University, C. Sirisakkunarasa, said that the Dharma Devananda, the burden of the Tamil people, and the democratic means of the armed struggle, and the democratic means of the Tamil people, have been beneficial to the Tamil people and the country.
+
+He said this while addressing the special event organized by the Jaffna University Democratic Employees Union to highlight the 10th anniversary.
+
+At the time he was a young man, he recalled what his actions were.
+
+Minister Douglas Devananda is different from today's politicians. He is more compassionate for the people to know the need for the people, their future, their economy, or how to use the opportunity.
+
+The Tamil people should love such a person in that way. In addition, the Tamil people's education has succeeded in breaking various efforts to further enhance the obstacles, despite the obstacles.
 
 ...
 
 [Data](articles/236aa9a9.json)
+
+[Extended Data](ext_articles/236aa9a9.ext.json)
 
 ---
 
@@ -2191,113 +2293,5 @@ The Fire Department of the Bandarawela Municipal Council, along with the Ella Po
 [Data](articles/bef309a7.json)
 
 [Extended Data](ext_articles/bef309a7.ext.json)
-
----
-
-### State Minister Chamara Sampath’s vehicle catches fire in Halpe
-
-*2024-04-16 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98656/state-minister-chamara-sampaths-vehicle-catches-fire-in-halpe) · `en`
-
-State Minister Chamara Sampath Dasanayake’s vehicle has suddenly caught fire at around 12.45 a.m. today (16), Ada Derana learns.
-
-The incident took place in the Halpe area of Bandarawela when the Dasanayake had been travelling from Mahiyanganaya to Ella.
-
-However, the state minister and his driver have managed to escape the fire unharmed.
-
-The fire trucks of Bandarawela Municipal Council, Ella Police and the residents of the area had tackled the flames in a joint effort.
-
-◼️
-
-[Data](articles/5ee1dd48.json)
-
-[Extended Data](ext_articles/5ee1dd48.ext.json)
-
----
-
-### Lightning strikes one
-
-*2024-04-16 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181188) · `ta`
-
-A 65-year-old man from Kekalena, Kottiyagala, was killed by lightning on Monday.
-
-🟩
-
-The man who was working in the field was killed by lightning, police said.
-
-The incident took place on Monday (15) and the deceased is the 65 -year -old from Kekalena, Kottiyagala.
-
-◼️
-
-[Data](articles/ad34cefc.json)
-
-[Extended Data](ext_articles/ad34cefc.ext.json)
-
----
-
-### Chance of rain in many places
-
-*2024-04-16 08:51:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-இடங்களில்-மழை-பெய்ய-வாய்ப்பு/175-335979) · `ta`
-
-The Department of Meteorology predicts rain or thunderstorms in Western, Sabaragamuwa, Central, North Western Provinces, and Galle and Matara districts. Heavy rainfall expected in parts of upper Sabaragamuwa and North Western provinces. Snowfall in the morning in some Western, Sabaragamuwa, Central Provinces, Galle, and Matara districts. Thundershowers may occur. Take precautions for lightning impacts.
-
-🟩
-
-The Department of Meteorology has predicted that rain or thunderstorms are likely to occur in many places in the Western, Sabaragamuwa, Central and North Western Provinces and Galle and Matara districts.
-
-There is a possibility of periodic rainfall or thunderstorms in the Eastern and Uva provinces and Hambantota district.
-
-75 mm of heavy rainfall is expected in some parts of the upper, Sabaragamuwa and North Western provinces.
-
-In the morning, in some places in the Western, Sabaragamuwa and Central Provinces, Galle and Matara districts, there is expected snowfall in the morning.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/75a41c5e.json)
-
-[Extended Data](ext_articles/75a41c5e.ext.json)
-
----
-
-### Falling into a well-laid well and a child dies
-
-*2024-04-16 08:43:53* · [`adalk`](https://www.ada.lk/breaking_news/අතහැර-දමා-තිබූ-ළිඳකට-වැටී-දරුවෙක්-මිය-යයි/11-409095) · `si`
-
-A 9-year-old boy, Torrington Mawatha from Colombo, drowned in a well on Ambagamuwa Road in Gampola. The incident happened last morning while visiting his grandmother's home.
-
-🟩
-
-A child has died after a drowned well in the land of Ambagamuwa road in Gampola.
-
-The deceased is Torrington Mawatha in Colombo for nine years. The accident is in the accident while he went to his grandmakes home. The accident occurred last morning.
-
-◼️
-
-[Data](articles/9772304a.json)
-
-[Extended Data](ext_articles/9772304a.ext.json)
-
----
-
-### Fairly heavy rainfall of about 75mm expected in several areas
-
-*2024-04-16 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98655/fairly-heavy-rainfall-of-about-75mm-expected-in-several-areas) · `en`
-
-Showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central and North-western provinces and Mannar, Galle and Matara districts, the Department of Meteorology says.
-
-Showers or thundershowers will occur at times in Uva province and Batticaloa, Ampara and Hambantota districts.
-
-Fairly heavy showers of about 75 mm are likely at some places in Western, Sabaragamuwa and North-western provinces.
-
-Misty conditions can be expected in parts of the Western, Sabaragamuwa and Central provinces and Galle and Matara districts during the morning.
-
-The general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/e6db20c0.json)
-
-[Extended Data](ext_articles/e6db20c0.ext.json)
 
 ---

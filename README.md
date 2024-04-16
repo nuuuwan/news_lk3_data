@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 22:51:23**
+As of **2024-04-16 23:03:26**
 
 ## Newspaper Stats
 
-*Scraped **19,198** Articles*
+*Scraped **19,199** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,040
 economynextcom | 1,072
 adalk | 1,600
 tamilmirrorlk | 2,239
-adaderanalk | 2,312
+adaderanalk | 2,313
 virakesarilk | 2,869
 dailymirrorlk | 2,961
 adaderanasinhalalk | 3,130
@@ -26,17 +26,35 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,197 (100.0%) of 19,198 articles have been extended.
+19,198 (100.0%) of 19,199 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
+### President envisions developing ‘Pekoe Trail’ to boost tourist experience in central highlands
+
+*2024-04-16 22:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98673/president-envisions-developing-pekoe-trail-to-boost-tourist-experience-in-central-highlands) · `en`
+
+President Ranil Wickremesinghe visited the Court Lodge Estate, owned by the Udupusellawa Plantation Company in Nuwara Eliya this morning (16) to explore opportunities for the revival of the tourism industry around the picturesque hills of Nuwara Eliya. He embarked on this journey by traversing the Pekoe Trail.
+
+The “Pekoe Trail” stretches over more than 300km through the Central Highlands of Sri Lanka, regarded as one of Asia’s best-kept secret routes.
+
+Originating from the renowned city of Kandy, it extends south towards the Hatton and Horton Plains National Park, then east through Haputale and Ella, before meandering around the charming town of Nuwara Eliya. Originally constructed during the British colonial period to transport tea from vast plantations to factories, the trail holds historical significance.
+
+During his walk along the Pekoe Trail, covering a distance of 3.2km, the President engaged in friendly conversation with the workers employed at the Court Lodge estate.
+
+...
+
+[Data](articles/5eaef7fd.json)
+
+---
+
 ### Sri Lanka, Kyrgyzstan conclude inaugural foreign office consultations
 
 *2024-04-16 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98672/sri-lanka-kyrgyzstan-conclude-inaugural-foreign-office-consultations-) · `en`
 
-The inaugural Sri Lanka-Kyrgyz Republic Foreign Office consultations successfully have concluded in Bishkek, Kyrgyzstan on 15 April.
+The inaugural Sri Lanka-Kyrgyz Republic Foreign Office consultations have successfully concluded in Bishkek, Kyrgyzstan on 15 April.
 
 Foreign Secretary of Sri Lanka Aruni Wijewardane and Deputy Minister of Foreign Affairs of the Kyrgyz Republic Avazbek Atakhanov co-chaired the consultations.
 
@@ -44,7 +62,7 @@ The consultations are part of Sri Lanka’s initiative to strengthen bilateral t
 
 A Memorandum of Understanding (MoU) on Bilateral Cooperation was signed between the two Foreign Ministries. Sri Lanka established diplomatic relations with the Kyrgyz Republic in 1996, and this is the first high-level visit to take place between the two countries.
 
-During the official talks, the two sides prioritized expanding economic cooperation, focusing on apparel, gems and jewelry, tea, food and beverages, wellness and ayurvedic products, education services and ICT sectors
+During the official talks, the two sides prioritized expanding economic cooperation, focusing on apparel, gems and jewellery, tea, food and beverages, wellness and ayurvedic products, education services and ICT sectors
 
 ...
 
@@ -54,21 +72,29 @@ During the official talks, the two sides prioritized expanding economic cooperat
 
 ---
 
-### எழில் மிக்க நுவரெலியாவின் சுற்றுலா தொழில் துறை மறுமலர்ச்சி குறித்து ஆராய ஜனாதிபதி நேரடி சுற்றுலா விஜயம்
+### President's direct tourism visit to explore the renaissance of Nuwara Eliya's tourism industry
 
 *2024-04-16 22:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/181261) · `ta`
 
-நுவரெலியாவின் எழில் மிக்க மலைகளை அண்மித்துக் காணப்படும் சுற்றுலாத் தொழில்துறையின் மறுமலர்ச்சி தொடர்பில் ஆராய செவ்வாய்க்கிழமை (16) காலை ஜனாதிபதி ரணில் விக்ரமசிங்க நுவரெலியா - உடபுசலாவை - கோர்ட் லொட்ஜ் தோட்டத்திற்கு நேரடி விஜயம் மேற்கொண்டிருந்தார்.
+President Ranil Wickremesinghe visited Nuwara Eliya to assess the revival of its tourism industry, highlighting the Peko Trail, a 300km mountain range, and discussing the future of plantation workers. The visit also focused on education, health, housing, and the potential of the Peko Trail to boost tourism.
 
-“Peko Trail” என்பது இலங்கையின் மத்திய மலைப்பகுதிகளூடாகச் செல்லும்  300 கிலோ மீற்றர் மலையேறும் பாதையாகும். ஆசியாவின் மிக ரகசியமான பாதைகளில் இதுவும் ஒன்றாகும்.
+🟩
 
-Peko Trail என்று அறியப்படும் இந்தப் பாதையானது கண்டியில் ஆரம்பித்து அட்டன் ஊடாக ஹோட்டன் தென்ன தேசிய வனப் பூங்கா வரையில் செல்கிறது. அதன் பின்னர் ஹப்புத்தலை - எல்ல ஊடாக பயணித்து அழகிய நுவரெலியா நகரத்தில் பயணத்தை நிறைவு செய்யலாம்.  இந்த பாதை பிரித்தானிய காலணித்துவக் காலத்தில் பெருந்தோட்டங்களிலிருந்து தொழிற்சாலைகளுக்குச் செல்ல பயன்படுத்தப்பட்டுள்ளது.
+President Ranil Wickremesinghe made a direct visit to the Nuwara Eliya - Udapusalavai - Court Lodge Estate on Tuesday morning to investigate the revival of the tourism industry near Nuwara Eliya.
 
-Peko Trail பாதையினூடாக 3.2 கி.மீ தூரத்திற்கு நடைப் பயணமாக சென்ற ஜனாதிபதி கோர்ட் லொட்ஜ் தோட்ட மக்களுடனும் சிநேகபூர்வமாக கலந்துரையாடினார்.
+"Peko Trail" is a 300km mountain range that passes through the central hills of Sri Lanka. It is one of the most secret paths of Asia.
+
+The path, known as Peko Trail, starts in Kandy and passes through Hotton South National Forest Park. After that, you can travel through Haputtale - Ella and complete the journey in the beautiful city of Nuwara Eliya.This route has been used to transport from plantations to factories during the British shoemakers.
+
+President Court Lodge, who was on a walk for a 3.2 km walk through the Peko Trail road, also discussed with the people of the estate.
+
+The people of the area gave a special welcome to President Ranil Wickremesinghe and congratulated the Tamil and Sinhala New Year to the people.
 
 ...
 
 [Data](articles/464500ac.json)
+
+[Extended Data](ext_articles/464500ac.ext.json)
 
 ---
 
@@ -2267,23 +2293,5 @@ It should also be said that this project is one of the largest projects implemen
 [Data](articles/6ef08595.json)
 
 [Extended Data](ext_articles/6ef08595.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-04-16 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181213) · `ta`
-
-On April 16, the US dollar was bought for Rs 294.2057 and sold for Rs 303.5476.
-
-🟩
-
-The US dollar purchasing price was Rs 294.2057 and the sales price were Rs 303.5476, based on the Central Bank's currency exchange rate on Tuesday (April 16).
-
-◼️
-
-[Data](articles/45eaf8ce.json)
-
-[Extended Data](ext_articles/45eaf8ce.ext.json)
 
 ---

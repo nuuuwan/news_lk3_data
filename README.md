@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 09:52:34**
+As of **2024-04-16 10:03:26**
 
 ## Newspaper Stats
 
-*Scraped **19,048** Articles*
+*Scraped **19,052** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,68 @@ adalk | 1,584
 tamilmirrorlk | 2,225
 adaderanalk | 2,295
 virakesarilk | 2,834
-dailymirrorlk | 2,931
-adaderanasinhalalk | 3,103
+dailymirrorlk | 2,934
+adaderanasinhalalk | 3,104
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,042 (100.0%) of 19,048 articles have been extended.
+19,048 (100.0%) of 19,052 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### Ex-soldiers joining Russian military as mercenaries, Sri Lanka seeks details
+
+*2024-04-16 09:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ex-soldiers-joining-Russian-military-as-mercenaries-Sri-Lanka-seeks-details/108-280744) · `en`
+
+Amidst reports that some ex-military men from Sri Lanka have joined the Russian military operations against Ukraine, Sri Lankan Ambassador in Moscow Prof. Janita Liyanage said she asked for details about them from the Russian military if any. She said this in response to a query about media reports to that effect. “I sought such details from the Russian military if there is anyone there,” she said.
+
+Asked for a comment, Media Director of the Defence Ministry Colonel Nalin Herath said some ex-soldiers might have joined the Russian military, possibly through unlawful means. He said the Ministry had taken steps to educate soldiers about the dangers involved in such unlawful acts.
+
+“They might have been lured through lucrative offers. What is the guarantee for compensation in case any of them dies in fighting,” he said.
+
+◼️
+
+[Data](articles/10178c6a.json)
+
+---
+
+### 11 trains cancelled: Locomotive operators, guards fail to report for duty
+
+*2024-04-16 09:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/11-trains-cancelled-Locomotive-operators-guards-fail-to-report-for-duty/108-280741) · `en`
+
+Colombo, April 16 (Dailty Mirror) - The Railways Department said that 11 scheduled trains have been cancelled today due to locomotive operators and railway guards failing to report for duty.
+
+As a result, trains scheduled to depart from Colombo Fort to Moratuwa, Ambepussa, Panadura, Negombo and Ragama were affected by these cancellations.
+
+◼️
+
+[Data](articles/31271c3d.json)
+
+---
+
+### ඉරාන ජනපති ලංකාවට
+
+*2024-04-16 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195671) · `si`
+
+ඉරාන ජනාධිපති ඊබ්‍රහීම් රසියි මහතා ලබන සතියේ මෙරට සංචාරයක නිරත වීමට නියමිතව තිබේ.
+
+උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය නිල වශයෙන් මහජනතාවට බාරදීම සදහා වන උත්සවයට ඉරාන ජනාධිපතිවරයා සහභාගී වීමට නියමිතය.
+
+උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ඉරාන අපනයන සංවර්ධන බැංකුවේ ණය ආධාරයක් මත 2011 වසරේ දී ආරම්භ කෙරුණි.
+
+එමගින් ජාතික විදුලි බල පද්ධතියට මෙගාවොට් 120ක විදුලි ධාරිතාවත් එක්කිරීමට නියමිතය.
+
+මීට අමතරව පානීය ජල සැපයුම සහ කෘෂිකාර්මික අවශ්‍යතා සදහා ජලය සැපයීම ද මේ යටතේ සිදුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/721678c3.json)
+
+---
 
 ### At least 11 commuter trains cancelled this morning
 
@@ -46,71 +96,117 @@ Accordingly, as many as 11 trains departing Colombo Fort to Moratuwa, Panadura, 
 
 [Data](articles/7d0e6901.json)
 
+[Extended Data](ext_articles/7d0e6901.ext.json)
+
 ---
 
-### இராஜாங்க அமைச்சர் பயணித்த கார் திடீரென தீப்பற்றியது
+### The car that the diplomatic minister traveled was suddenly set on fire
 
 *2024-04-16 09:31:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜாங்க-அமைச்சர்-பயணித்த-கார்-திடீரென-தீப்பற்றியது/175-335980) · `ta`
 
-இராஜாங்க அமைச்சர் சாமர சம்பத் தசநாயக்க பயணித்த கார் பண்டாரவளை - ஹல்பே பகுதியில் வைத்து  இன்று அதிகாலை 12.45 மணியளவில் திடீரென தீப்பற்றி எரிந்து விபத்துக்குள்ளாகியுள்ளது.
+Diplomatic minister's car caught fire in Bandarawela-Halbey, en route from Mahiyanganaya to Ella, at 12.45 am. No injuries. Fire extinguished by local fire brigade, police, and residents.
 
-இராஜாங்க அமைச்சர் மஹியங்கனையிலிருந்து எல்ல பிரதேசத்திற்கு சென்று கொண்டிருந்த போதே தீ விபத்து ஏற்பட்டுள்ளது.
+🟩
 
-எனினும், இந்த தீ விபத்தில் இராஜாங்க அமைச்சருக்கோ, சாரதிக்கோ காயங்கள் ஏதும் ஏற்படவில்லை.
+State Minister Samara Sampath Dasanayake was traveling in Bandarawela - Halbey area at around 12.45 am this morning.
 
-பண்டாரவளை மாநகரசபையின் தீயணைப்பு பிரிவினர், எல்ல பொலிஸார் மற்றும் பிரதேசவாசிகள் இணைந்து தீயை அணைக்கும் பணியில் ஈடுபட்டனர்.
+The fire broke out while traveling from the Minister of State Mahiyanganaya to Ella.
+
+However, the fire did not cause any injuries to the Minister of State or the driver.
+
+The fire brigade of the Bandarawela Municipal Council, all the police and the residents of the area worked to extinguish the fire.
 
 ◼️
 
 [Data](articles/e1dde850.json)
 
+[Extended Data](ext_articles/e1dde850.ext.json)
+
 ---
 
-### பிணைமுறி பத்திர உரிமையாளர்கள் குழுவுடன் இறுதிக்கட்ட பேச்சு : சீனாவிடமிருந்து சாதகமான பதில் - அரசாங்கம்
+### Final Talk with Backed Bondslong Personnel
 
 *2024-04-16 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181190) · `ta`
 
-இலங்கையின் கடன் மறுசீரமைப்பில் இருதரப்பு மறுசீரமைப்புகள் அனைத்தும் எதிர்வரும் ஜுன் மாதம் இறுதிக்குள் நிறைவுப்படுத்தப்படுவதுடன், பிணைமுறி பத்திர உரிமையாளர்கள் குழுவுடனான இணக்கப்பாட்டு பேச்சுவார்த்தைகள் இறுதிக்கட்டத்தை நோக்கி நகர்த்தப்பட்டுள்ளதாக தெரிவித்த ஜனாதிபதியின் அலுவலக பிரதானியும் தேசிய பாதுகாப்பு ஆலோசகருமான சாகல ரத்நாயக்க, பிரதமர் தினேஸ் குணவர்தனவின் சீன வியத்தின் பின்னர் கடன் மறுசீரப்பு தொடர்பில் சாதகான பதில் கிடைக்கப்பெற்றுள்ளதாகவும் குறிப்பிட்டார்.
+Sri Lanka's debt restructuring, including bilateral agreements, is nearing completion by June, with negotiations progressing. The National Security Advisor, Sagala Ratnayake, discussed this with media heads. Sri Lanka is negotiating with official credit providers, excluding China, to sign agreements. The resolution of whether to sign a common agreement or separate bilateral agreements is under investigation. Negotiations with bail-owners have led to some solutions, but compliance is due by June, impacting Sri Lanka's relations with the IMF. India and Japan have shown favorable compliance, but China requires separate negotiations.
 
-ஊடகங்களின் செய்தி பிரிவு தலைமை ஆசிரியர்களுடன் ஜனாதிபதி செயலகத்தில் திங்கட்கிழமை இடம்பெற்ற விசேட கலந்துரையாடலின் போதே தேசிய பாதுகாப்பு ஆலோசகருமான சாகல ரத்நாயக்க மேற்கண்டவாறு கூறினார்.
+🟩
 
-இலங்கையின் கடன் மறுசீரமைப்பில் இருதரப்பு மறுசீரமைப்புகளே எஞ்சியுள்ளன. உத்தியோகப்பூர்வ கடன் வழங்குநர்கள் குழுவில் சீனாவை தவிர ஏனைய அனைத்து தரப்புளும் உள்ளன.
+The President's Office and National Security Advisor, Sagala Ratnayake, said that all bilateral restructuring in Sri Lanka's debt renovation will be completed by the end of June and that the negotiations with the Banking Personnel Committee have moved towards the final stage.
+
+National Security Advisor Sagala Ratnayake said this during a special discussion held at the Presidential Secretariat on Monday with the head teachers of the Media Division.
+
+Bilateral restructuring remains in Sri Lanka's debt restructuring. The official credit providers' group contains all other parties except China.
+
+In particular, Sri Lanka's bilateral debt systems have been unofficially reached with the official credit providers, but they have not yet been signed as official contracts.
 
 ...
 
 [Data](articles/b61ad9df.json)
 
+[Extended Data](ext_articles/b61ad9df.ext.json)
+
 ---
 
-### இராஜாங்க அமைச்சர் சாமர சம்பத் தசநாயக்கவின் வாகனத்தில் தீ விபத்து!
+### State Minister Samara Sampath Dasanayake's vehicle
 
 *2024-04-16 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181191) · `ta`
 
-இந்த சம்பவமனது பண்டாரவளை ஹல்பே பகுதியில் ராஜாங்க அமைச்சர் பயணித்த வாகனத்தில்  இன்று (16) அதிகாலை 12.45 மணியளவில் இடம்பெற்றுள்ளது.
+State Minister Samara Sampath Dasanayake's vehicle caught fire in Bandarawela Halbey, en route from Mahiyanganaya to Ella, around 12.45 am on 16th. Firefighters, police, and residents assisted. No injuries reported.
 
-இராஜாங்க அமைச்சர் மஹியங்கனையிலிருந்து எல்ல பிரதேசத்திற்கு சென்று கொண்டிருந்த போதே தீ விபத்து ஏற்பட்டுள்ளது.
+🟩
 
-தீ விபத்தினால் அமைச்சருக்கோ அல்லது சாரதிக்கோ காயங்கள் ஏற்படவில்லை எனவும், பண்டாரவளை மாநகரசபையின் தீயணைப்பு பிரிவினர், எல்ல பொலிஸார் மற்றும் பிரதேசவாசிகள் இணைந்து தீயை அணைக்கும் பணிகளில் ஈடுபட்டதாகவும்  பொலிஸார் தெரிவித்தனர்.
+The incident took place in the Bandarawela Halbey area at around 12.45 am today (16).
+
+The fire broke out while traveling from the Minister of State Mahiyanganaya to Ella.
+
+Police said that the fire had not been injured by the fire and that the fire brigade of the Bandarawela Municipal Council, all police and residents of the area were involved in the fire.
 
 ◼️
 
 [Data](articles/fc9cef4f.json)
 
+[Extended Data](ext_articles/fc9cef4f.ext.json)
+
 ---
 
-### දුම්රිය 11ක් අවලංගු වෙයි
+### 11 trains will be canceled
 
 *2024-04-16 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195670) · `si`
 
-අද උදෑසන කාර්යාල දුම්රිය ගමන්වාර 11ක් අවලංගු කිරීමට සිදුව ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+The Railway Department has canceled 11 off-office train services due to non-reporting by trainers. Trains from Colombo Fort to Fort Railway Stations and back have been affected.
 
-දුම්රිය දෙපාර්තමේන්තුව පවසන්නේ රියදුරන් සහ නියාමකවරුන් සේවයට වාර්තා නොකිරීම හේතුවෙන් මෙලෙස දුම්රිය ගමන්වාර අවලංගු වී ඇති බවය.
+🟩
 
-ඒ අනුව කොළඹ කොටුව සිට මොරටුව, පානදුර, වාද්දුව, මීගමුව, අඹේපුස්ස, පාදුක්ක සහ රාගම දක්වා සහ එම දුම්රිය ස්‌ථානවල සිට නැවත කොටුව දුම්රිය ස්ථාන වෙත පැමිණීමට නියමිත දුම්රිය ගමන්වාර මෙලෙස අවලංගු වී තිබේ.
+The Railway Department says that 11 off office train services have been canceled this morning.
+
+The Railways Department says that trainers have been canceled due to non-reporting to the work.
+
+Accordingly, the train traveling to the Fort Railway Stations from Colombo Fort from Colombo Fort, from Colombo Fort and return to Fort Railway Stations have been canceled again.
 
 ◼️
 
 [Data](articles/b6c5d559.json)
+
+[Extended Data](ext_articles/b6c5d559.ext.json)
+
+---
+
+### Effectiveness of Sri Lanka’s legal system is questioned over alleged corruption: Marie Antonia
+
+*2024-04-16 09:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Effectiveness-of-Sri-Lankas-legal-system-is-questioned-over-alleged-corruption-Marie-Antonia/108-280738) · `en`
+
+Colombo, April 16 (Daily Mirror) - The effectiveness of the legal system in handling investment-related matters in Sri Lanka is often questioned due to perceived corruption and inefficiency, an official said.
+
+Marie Antonia von Schönburg, Chief Delegate of the Delegation of German Industry and Commerce in Sri Lanka, in an interview with Daily Mirror, said that despite the existence of laws, implementation remains a challenge, which may deter investors from choosing Sri Lanka over other alternatives.
+
+By addressing investors' concerns about corruption and inefficiency, Sri Lanka is now seeking to create a transparent and predictable environment that facilitates investment and ensures the protection of investors' rights.
+
+Continued efforts to strengthen the rule of law will contribute to Sri Lanka's reputation as a trustworthy and business-friendly destination for both domestic and foreign investors, she said.
+
+◼️
+
+[Data](articles/3468dc9d.json)
 
 ---
 
@@ -2105,99 +2201,5 @@ Police and local residents have launched an operation to find the missing person
 [Data](articles/8cbda66a.json)
 
 [Extended Data](ext_articles/8cbda66a.ext.json)
-
----
-
-### Civil defenders captured by Sumanaratana Thero
-
-*2024-04-15 16:51:55* · [`adalk`](https://www.ada.lk/breaking_news/සුමනරතන-හිමිගේ-ආරක්ෂාවට-සිටි-සිවිල්-ආරක්ෂකයින්-ඉවත්-කරයි/11-409089) · `si`
-
-Sumanaratana Thero discusses the impact of removing civil defenders, citing a 30-year serious threat to their lives. Thembirigiya Sumanarata Thera highlights the unfair treatment of opposition police and security forces by extremist leaders, emphasizing the need for their removal.
-
-🟩
-
-Over the thirty years, despite a serious life threatening
-
-The Pasigaratra Thera had a discussion on the 15th in the Movement of the Paselgala Raja Maha Vihara, Batticaloa.
-
-The superior officers of all security officers who have been removed after their safety are harmful when they are removed after the dismissal of their security in the event of the investigation of their security.Sumanarathana Thera said.
-
-LB 5 in cruel war. Sinhalese in the Eastern Provinces clashing with the terrorists
-
-Thembirigiya Sumanarata Thera said that the removal of the rescued civil security guards had a profound effect on her life,
-
-The Thera said that since the leadership of the leaders of the Sinhalese and the leaders of the Sinhalese people, the leaders of the various extremist organizations and political conspirators have been noted that they are not fair for the opposition police and security forces.
-
-...
-
-[Data](articles/b234739e.json)
-
-[Extended Data](ext_articles/b234739e.ext.json)
-
----
-
-### Another terrible attack in Australia
-
-*2024-04-15 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195655) · `si`
-
-In Australia, a bishop and others were injured in a church attack by a person in black clothes.
-
-🟩
-
-A bishop and others were injured in foreign media reports say.
-
-While in the church, someone who was dressed in a black clothes came to the knives at once.
-
-◼️
-
-[Data](articles/a28617ae.json)
-
-[Extended Data](ext_articles/a28617ae.ext.json)
-
----
-
-### Raghava Lawrence starrer 'Hunter'
-
-*2024-04-15 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181145) · `ta`
-
-Raghava Lawrence stars in 'Hunter', directed by Venkat Mohan, produced by Manisha Shah for Goldman Films.
-
-🟩
-
-The new movie starring choreographer and star actor Raghava Lawrence is named 'Hunter' and has been released in its title.
-
-Raghava Lawrence is the hero of the story in the film 'Hunter' directed by debutant director Venkat Mohan.
-
-The film, which is being recorded by Om Prakash, is composed by Devi Sri Prasad.. Satyajodi Films DG. Producer Manisha Shah is produced on behalf of Goldman Films.
-
-After the success of 'Jigarthanda Double X', Raghava Lawrence continued to act in two films.
-
-◼️
-
-[Data](articles/50958a58.json)
-
-[Extended Data](ext_articles/50958a58.ext.json)
-
----
-
-### Director Muttiah's Sullon Sethu's first look release
-
-*2024-04-15 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181148) · `ta`
-
-"Director Muttiah's 'Sullon Sethu' stars Vijay Muttiah, featuring music by M. Jen Martin and cinematography by Sukumar. Produced by KKR Cinemas and Ramesh Pandian, it's a Tamil Nadu-based film with two poster releases."
-
-🟩
-
-The film is titled 'Sullon Sethu', which is being played by director Muttiah's successor actor Vijay Muttiah, who has created the soil -based works of Tamil Nadu and has been released.
-
-Director M.. Vijay Muttiah makes his debut as the hero of the film 'Sullan Sethu' directed by Muttiah. She is paired with actress Brigita Saka. M.. Jen Martin has composed the film, which has been recorded by Sukumar. The film is being produced by KKR Cinemas, a producer K.. K. Produced by Ramesh Pandian.
-
-The shooting of the film has reached its final stage. In this case, the film is titled 'Sullan Sethu'. As well as two posters as First Look and Second Look. In the first poster, Vijay Muttiah is a prisoner and the posters are designed to be in the second poster.
-
-◼️
-
-[Data](articles/5a77cf9d.json)
-
-[Extended Data](ext_articles/5a77cf9d.ext.json)
 
 ---

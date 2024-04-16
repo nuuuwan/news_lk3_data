@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 23:03:26**
+As of **2024-04-16 23:18:18**
 
 ## Newspaper Stats
 
-*Scraped **19,199** Articles*
+*Scraped **19,200** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,072
 adalk | 1,600
 tamilmirrorlk | 2,239
 adaderanalk | 2,313
-virakesarilk | 2,869
+virakesarilk | 2,870
 dailymirrorlk | 2,961
 adaderanasinhalalk | 3,130
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,198 (100.0%) of 19,199 articles have been extended.
+19,199 (100.0%) of 19,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### வைத்தியசாலை காவலாளிகள் மீது தாக்குதல் ஒருவர் காயம்!
+
+*2024-04-16 23:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/181262) · `ta`
+
+வவுனியா பொது வைத்தியசாலையின் காவலாளிகள் மீது இளைஞர் குழு ஒன்று திங்கட்கிழமை (15) இரவு தாக்குதல் மேற்கொண்டதில் ஒருவர் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+திங்கட்கிழமை (15) இரவு 11மணியளவில் வைத்தியசாலையில் நோயாளி ஒருவரைப் பார்வையிடுவதற்காக இளைஞர்கள் குழு ஒன்று வருகைதந்துள்ளது.
+
+இதன்போது கடமையிலிருந்த காவலாளிகளுக்கும் அவர்களுக்கும் இடையில் வாய் தர்க்கம் ஏற்பட்டுள்ளது. அது கைகலப்பாக மாறியது.
+
+சம்பவத்தில் தாக்குதலுக்கிலக்கான காவலாளி ஒருவர் காயமடைந்த நிலையில் வைத்தியசாலையின் விபத்து பிரிவில் அனுமதிக்கப்பட்டுள்ளார்.
+
+தாக்குதலை மேற்கொண்டவர்கள் தப்பிச்சென்றுள்ளனர். சம்பவம் தொடர்பாக வவுனியா பொலிசார் விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/9414be6d.json)
+
+---
 
 ### President envisions developing ‘Pekoe Trail’ to boost tourist experience in central highlands
 
@@ -47,6 +67,8 @@ During his walk along the Pekoe Trail, covering a distance of 3.2km, the Preside
 ...
 
 [Data](articles/5eaef7fd.json)
+
+[Extended Data](ext_articles/5eaef7fd.ext.json)
 
 ---
 
@@ -2269,29 +2291,5 @@ This is the first high-level visit to take place between the two countries since
 [Data](articles/71818114.json)
 
 [Extended Data](ext_articles/71818114.ext.json)
-
----
-
-### Iranian President to inaugurate Uma Oya project
-
-*2024-04-16 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iranian-President-to-inaugurate-Uma-Oya-project/108-280764) · `en`
-
-Iranian President Ebrahim Raisi is scheduled to visit Sri Lanka in May where he is expected to inaugurate the Uma Oya Multipurpose project, Iranian media reported.
-
-The project includes two dams namely Dyraaba and Puhulpola and also 25 kilometers of water transmission tunnel and two major hydroelectric power plants each with a capacity of 60 megawatts.
-
-Uma Oya multipurpose project is regarded as one of the greatest technical and engineering service projects of Iranian companies in Sri Lanka.
-
-The purpose of the project is to improve irrigation of 5000 acres of agricultural land, transferring 145 million cubic meters of water and generating 290 GW/h of power in a year.
-
-One of the important features of the Uma Oya project is the scattered and diverse components of the project.
-
-It should also be said that this project is one of the largest projects implemented by Iranian contractors abroad.
-
-...
-
-[Data](articles/6ef08595.json)
-
-[Extended Data](ext_articles/6ef08595.ext.json)
 
 ---

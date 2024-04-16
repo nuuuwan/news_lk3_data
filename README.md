@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 23:18:18**
+As of **2024-04-16 23:34:31**
 
 ## Newspaper Stats
 
-*Scraped **19,200** Articles*
+*Scraped **19,201** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,029
 dailyftlk | 1,040
 economynextcom | 1,072
 adalk | 1,600
-tamilmirrorlk | 2,239
+tamilmirrorlk | 2,240
 adaderanalk | 2,313
 virakesarilk | 2,870
 dailymirrorlk | 2,961
@@ -26,29 +26,51 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,199 (100.0%) of 19,200 articles have been extended.
+19,200 (100.0%) of 19,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### வைத்தியசாலை காவலாளிகள் மீது தாக்குதல் ஒருவர் காயம்!
+### ’’அமைச்சர் டக்ளஸ் தர்ம தேவதை’’
+
+*2024-04-16 23:15:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-டக்ளஸ்-தர்ம-தேவதை/175-336008) · `ta`
+
+ஆயுதப் போராட்ட காலங்களிலும் சரி ஜனநாயக வழிமுறையினூடாகவும் சரி தமிழ் மக்களின் சுமைதாங்கும் தர்ம தேவதையாக அமைச்சர் டக்ளஸ் தேவானந்தா இருந்துவருகின்றார் என தெரிவித்த யாழ்ப்பாணம் பல்கலைக்கழகத்தின் துணைவேந்தர் பேராசிரியர் சிறீ.பற்கணராஜா - அமைச்சர் முன்னெடுக்கும் முயற்சிகள் தமிழ் மக்களுக்கும் நாட்டுக்கும் நன்மை பயர்ப்பனவாகவே இருந்து வந்துள்ளன என்றும் சுட்டிக்காட்டியுள்ளார்.
+
+யாழ்ப்பாண பல்கலைக்கழக ஜனநாயக ஊழியர் சங்கத்தின் 10 ஆவது ஆண்டு நிறைவை சிறப்பிக்கும் வகையில் ஏற்பாடு செய்யப்பட்ட இன்றைய நிகழ்வில்  நிகழ்வில் சிறப்பு  விருந்தினராக கலந்து கொண்டு உரையாற்றும் போதே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+
+அமைச்சர் டக்ளஸ் தேவானந்தா  இளைஞராக இருந்த காலத்தில் அவரது செயற்பாடுகள் எவ்வாறானதாக இருந்ததென்பதை நினைவு கூர்ந்திருந்ததுடன் மேலும் கூறுகையில் –
+
+...
+
+[Data](articles/d0110f0e.json)
+
+---
+
+### An attack on hospital guards
 
 *2024-04-16 23:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/181262) · `ta`
 
-வவுனியா பொது வைத்தியசாலையின் காவலாளிகள் மீது இளைஞர் குழு ஒன்று திங்கட்கிழமை (15) இரவு தாக்குதல் மேற்கொண்டதில் ஒருவர் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+Youths attacked hospital guards on Monday night, leading to a melee. A policeman was injured and admitted to the hospital. The attackers escaped, and Vavuniya police are investigating.
 
-திங்கட்கிழமை (15) இரவு 11மணியளவில் வைத்தியசாலையில் நோயாளி ஒருவரைப் பார்வையிடுவதற்காக இளைஞர்கள் குழு ஒன்று வருகைதந்துள்ளது.
+🟩
 
-இதன்போது கடமையிலிருந்த காவலாளிகளுக்கும் அவர்களுக்கும் இடையில் வாய் தர்க்கம் ஏற்பட்டுள்ளது. அது கைகலப்பாக மாறியது.
+A youth group has been admitted to the hospital on Monday night after an attack on the guards of the Vavuniya General Hospital.
 
-சம்பவத்தில் தாக்குதலுக்கிலக்கான காவலாளி ஒருவர் காயமடைந்த நிலையில் வைத்தியசாலையின் விபத்து பிரிவில் அனுமதிக்கப்பட்டுள்ளார்.
+A group of youths visited a patient at the hospital around 11 pm on Monday (15).
 
-தாக்குதலை மேற்கொண்டவர்கள் தப்பிச்சென்றுள்ளனர். சம்பவம் தொடர்பாக வவுனியா பொலிசார் விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+There is a logic between the guards and them on duty. It became a melee.
+
+A policeman has been admitted to the hospital's accident unit after being injured.
+
+The attackers have escaped. Vavuniya police are conducting investigations into the incident.
 
 ◼️
 
 [Data](articles/9414be6d.json)
+
+[Extended Data](ext_articles/9414be6d.ext.json)
 
 ---
 
@@ -2269,27 +2291,5 @@ At one point, the woman also made efforts to take the police officer to the Swis
 [Data](articles/dc242a8b.json)
 
 [Extended Data](ext_articles/dc242a8b.ext.json)
-
----
-
-### Sri Lanka, Kyrgyz Republic to expand economic cooperation
-
-*2024-04-16 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-kyrgyz-republic-discuss-expanding-economic-cooperation-158651/) · `en`
-
-ECONOMYNEXT – Sri Lanka and the Kyrgyz Republic signed a memorandum of understanding on bilateral cooperation at the Foreign Office consultations that took place in Bishkek, on 15 April.
-
-During the consultations, “the two sides prioritized expanding economic cooperation, focusing on apparel, gems and jewelry, tea, food and beverages, wellness and ayurvedic products, education services and ICT sectors,” Sri Lanka’s Ministry of Foreign Affairs said in a statement.
-
-“The two sides also discussed the potential for the promotion of tourism to facilitate connectivity and to strengthen people to people linkages.”
-
-Cooperation at multilateral and regional fora and developments in the respective regions and current global issues were among the other areas taken up for discussion.
-
-This is the first high-level visit to take place between the two countries since Sri Lanka established diplomatic relations with the Kyrgyz Republic in 1996.
-
-...
-
-[Data](articles/71818114.json)
-
-[Extended Data](ext_articles/71818114.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 13:34:12**
+As of **2024-04-16 13:52:43**
 
 ## Newspaper Stats
 
-*Scraped **19,105** Articles*
+*Scraped **19,109** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 2,231
 adaderanalk | 2,301
 virakesarilk | 2,849
 dailymirrorlk | 2,940
-adaderanasinhalalk | 3,111
+adaderanasinhalalk | 3,115
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,104 (100.0%) of 19,105 articles have been extended.
+19,105 (100.0%) of 19,109 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### ඔහොම යං, IMF ශ්‍රී ලංකාවෙන් ඉල්ලයි
+
+*2024-04-16 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195683) · `si`
+
+IMF වැඩසටහන ආරම්භයේ සිට ශ්‍රී ලංකාව දැඩි කැපවීමෙන් උපයාගත් ජයග්‍රහණ ආරක්ෂා කරගනිමින් ඒවා ඉදිරියට පවත්වාගෙන යාමට කැපවන්නැයි එහි නියෝජ්‍ය කළමනාකාර අධ්‍යක්ෂ කෙන්ජි ඔකමුරා මහතා ශ්‍රී ලංකාවෙන් ඉල්ලා තිබේ.
+
+වොෂින්ටන් හි පැවත්වෙන වසර මැද ස්ප්‍රිං සමුළුවට සහභාගී වූ මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා ඇතුළු පිරිස සමඟ සාකච්ඡාවකට එක්වෙමින් ඔහු මේ අදහස් පළ කළේය.
+
+අප්‍රේල් 15 වනදා ආරම්භ වූ ජාත්‍යන්තර මූල්‍ය අරමුදලේ හා ලෝක බැංකුවේ වසර මැද ස්ප්‍රිං සමුළුව සඳහා මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා ඇතුළු නියෝජිතයින් පිරිසක් එක්ව සිටී.
+
+එහිදී ජාත්‍යන්තර මූල්‍ය අරමුදල, ලෝක බැංකුව සහ සෙසු හවුල්කරුවන් සමඟ පුළුල් ආර්ථික සහයෝගිතාවයෙන් කටයුතු කරමින් මෙරට තුළ ආර්ථික ස්ථාවරත්වය, තිරසර සංවර්ධනය හා කඩිනමින් ණය ප්‍රතිව්‍යුහගතකරණය අවසන් කිරීම වෙනුවෙන් සාකච්ඡා පැවැත්වීමට නියමිතය.
+
+...
+
+[Data](articles/386d6781.json)
+
+---
 
 ### At least 17 dead after flash floods in Oman
 
@@ -49,6 +67,64 @@ Moderate heavy rainfall is expected across north-eastern and northern Oman over 
 ◼️
 
 [Data](articles/1cabb822.json)
+
+[Extended Data](ext_articles/1cabb822.ext.json)
+
+---
+
+### මූණටම එල්ලවූ ප්‍රහාරය කැමරාවේ
+
+*2024-04-16 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195682) · `si`
+
+ජෝර්ජියාවේ පාර්ලිමේන්තුව තුළ ඇතිවූ ගැටුමක් දැක්වෙන වීඩියෝවක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+එම වීඩියෝවේ දැක්වෙන්නේ ජෝර්ජියාවේ පාලක ජෝර්ජියන් ඩ්‍රීම් පක්ෂයේ පාර්ලිමේන්තු කණ්ඩායම් නායකයාට විපක්ෂ පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු පහර දෙන ආකාරයයි.
+
+එහිදී විපක්ෂ පාර්ලිමේන්තු කණ්ඩායම සහ පාලක පක්ෂයේ පාර්ලිමේන්තු කණ්ඩායම අතර දරුණු ගුටිබැට හුවමාරුවක් සිදුව ඇත.
+
+මෙම ගැටුම සිදුව ඇත්තේදෙපාර්ශ්වය අතර මතභේදයකට හේතු වී ඇති ජෝර්ජියාවේ විදෙස් සංවිධානවලට දැඩි සීමා පනවන ෆොරීන් ඒජන්ට්ස් නීතිය පිළිබඳව පැවති විවාදයක් අතරතුරදීය.
+
+◼️
+
+[Data](articles/5e2f6e31.json)
+
+---
+
+### ජනාධිපතිවරණය ගැන විජයදාස රාජපක්ෂ තීරණයක් ගනී
+
+*2024-04-16 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195681) · `si`
+
+ඉදිරි ජනාධිපතිවරණයට තරග කරන ලෙස තමාට පාර්ශ්ව කිහිපයකින් ඉල්ලීම් ඉදිරිපත් වී ඇති බව අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතා පවසයි.
+
+විශේෂයෙන් ශ්‍රී ලංකා නිදහස් පක්ෂ මධ්‍යම කාරක සභාව නියෝජනය කරන බහුතර සාමාජිකයින් ඒ සම්බන්ධයෙන් ඉල්ලීම් ඉදිරිපත් කර ඇති බව අමාත්‍යවරයා සඳහන් කළේය.
+
+ඒ අනුව ඉදිරි සති කිහිපය තුළ ජනාධිපතිවරණයට ඉදිරිපත් වන්නේ ද යන්න සම්බන්ධයෙන් තමා තීරණයක් ගන්නා බව මාධ්‍යවේදීන් යොමුකළ පැනයකට පිළිතුරු ලබා දෙමින් විජයදාස රාජපක්ෂ මහතා සඳහන් කළේය.
+
+"මගෙන් ඉල්ලම් කරලා තියෙනවා කණ්ඩායම් විශාල සංඛ්‍යාවක්. විශේෂයෙන්ම ශ්‍රී ලංකා නිදහස් පක්ෂයේ මධ්‍යම කාරක සභාව නියෝජනය කරන අති බහුතරයක් දෙනා ඒ ඉල්ලීම කරලා තියෙනවා. ඒ වගේම අපේ ගෞරවනීය මහා සංඝරත්නය, අනෙක් ආගම්වල නායක තුමන්ලා ඒ ඉල්ලීමම කරලා තියෙනවා. ඒ පිළිබඳ තවදුරටත් කල්පනා කරලා මම ඉදිරි සති කිහිපය තුළ තීන්දුවක් ගන්න ඉන්නේ."
+
+ප්‍රශ්නය - ඒ කියන්නේ ඔබතුමා කුමණ පක්ෂයෙන්ද ? නැත්නම් ස්වාධීන වශයෙන්ද ?
+
+...
+
+[Data](articles/f874e8ea.json)
+
+---
+
+### ට්‍රම්ප් ජනපති වියයුතු බව ලිස් ට්‍රස් කියයි
+
+*2024-04-16 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195680) · `si`
+
+හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් එළැඹෙන අමෙරිකානු ජනාධිපතිවරණය ජයග්‍රහණය කළයුතු බව හිටපු බ්‍රිතාන්‍ය අගමැතිනී ලිස් ට්‍රස් පවසයි.
+
+ඇය පවසන්නේ ට්‍රම්ප් ධවල මන්දිරයේ සිටින විට "ලෝකය වඩාත් ආරක්ෂාකාරී" බවයි.
+
+බ්‍රිතාන්‍ය යේ කෙටිම කලක් අගමැති ධුරය දැරූ ට්‍රස් පවසන්නේ මේ වනවිට ගැටුම් හේතුවෙන් ලෝකයම ඉතා අවදානම් සහිත තත්ත්වයක පවතින බවත් වෙන කවදාකවත් වඩා "ශක්තිමත් අමෙරිකාවක්" දැන් අවශ්‍යව ඇති බවත් ය.
+
+නොවැම්බර් මාසයේදී පැවැත්වෙන අමෙරිකානු ජනපතිවරණය සඳහා රිපබ්ලිකන් පක්ෂයේ අපේක්ෂකයා ලෙස ට්‍රම්ප් ඉදිරියෙන්ම සිටියි.
+
+◼️
+
+[Data](articles/8dc0afb5.json)
 
 ---
 
@@ -2159,89 +2235,5 @@ The ADB asserted that this programme could be further strengthened with increase
 [Data](articles/e50428af.json)
 
 [Extended Data](ext_articles/e50428af.ext.json)
-
----
-
-### 2024-04-15 (Monday)
-
-### Sunrisers Hyderabad bowed to Hyderabad
-
-*2024-04-15 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/181184) · `ta`
-
-Sunrisers Hyderabad defeated Royal Challengers Bangalore by 25 runs in IPL match 30, scoring 287/3. They set a record with 208 runs and 6 sixes. Key players included Abhishek Sharma (34 runs), Travis Head (102 runs), and Aiden Magram (67 runs). Royal Challengers Bangalore lost 7 wickets for 262 runs, with Virat Kohli scoring 42 runs.
-
-🟩
-
-Bangalore M. Sunrisers Hyderabad won the Royal Challengers Bangalore by 25 runs in the 30th match of the Indian Premier League held on Monday (15) at the Chinnaswamy Stadium.
-
-Sunrisers Hyderabad, who was first invited to bat first, scored 287 runs for the loss of 3 wickets in 20 overs.
-
-Sunrisers Hyderabad's achievements have been played by the five frontier players.
-
-Sunrisers Hyderabad established two records in IPL history in an innings.
-
-Mumbai Indians scored 19 sixes in a match against Mumbai Indians on March 27 in Hyderabad and scored 277 runs. Both are previous achievements established by Sunrisers Hyderabad.
-
-Sunrisers Hyderabad players continued to play from the start to the end of the match against Royal Selectors Bangalore.
-
-Also, the total number of Sunrisers Hyderabad was scored by 208 runs and sixes.
-
-In addition, the Sunrisers Hyderabad - Mumbai Indians won the record for the total number of 523 runs.
-
-...
-
-[Data](articles/5335136d.json)
-
-[Extended Data](ext_articles/5335136d.ext.json)
-
----
-
-### Debate Over Profits Of Banks: Who Shares Them Ultimately? – Part II
-
-*2024-04-15 23:30:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/debate-over-profits-of-banks-who-shares-them-ultimately-part-ii/) · `en`
-
-A reader of the Part I of this article has brought to my notice that banks should make profits, in addition to the reasons mentioned earlier, to support them when they are financially insolvent. This argument has validity in the current legal context in Sri Lanka. It is the accepted policy of the Parliamentarians in Sri Lanka, as revealed in the new Central Bank Act and the Banking (Special Provisions) Act that when banks get into insolvency, they should not be rescued through printing of new money by the Central Bank. Section 6 of the Central Bank Act has stipulated that the primary objective of the bank is to achieve and maintain ‘domestic price stability’ and ‘the other objective’ shall be to secure ‘financial system stability’.
-
-...
-
-[Data](articles/594665c7.json)
-
-[Extended Data](ext_articles/594665c7.ext.json)
-
----
-
-### Hayleys Fabric celebrates triple triumph at ISPO Textrends Spring/Summer 2026
-
-*2024-04-15 23:28:11* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fabric-celebrates-triple-triumph-at-ISPO-Textrends-Spring-Summer-2026/34-760632) · `en`
-
-The Hayleys Fabric Innovation team with their ISPO Nextrend recognition
-
-In a remarkable demonstration of innovation and sustainability, Sri Lanka’s largest textile manufacturer Hayleys Fabric PLC proudly announced its achievement at the prestigious ISPO Textrends Spring/Summer 2026, where three pioneering innovations were recognised.
-
-Serving as a key global benchmark for innovation in the textile industry, the German platform showcases breakthrough advancements of the world’s most innovative and high-performance fabrics.
-
-...
-
-[Data](articles/6641ac60.json)
-
-[Extended Data](ext_articles/6641ac60.ext.json)
-
----
-
-### Pearson unveils PTE Core English exam suite and recognises key agents
-
-*2024-04-15 23:27:31* · [`dailyftlk`](https://www.ft.lk/business/Pearson-unveils-PTE-Core-English-exam-suite-and-recognises-key-agents/34-760631) · `en`
-
-South Asia Marketing Manager Gayathrie Sivanathan, Canadian High Commission Political and Trade Counsellor Daniel Bood, South Asia Employability and Qualifications Director Premila Paulra, Sales Deputy General Manager Suriya Bibile
-
-Pearon’s recently launched its PTE core suit of English exams helping to facilitate young people as they seek to achieve their dreams on foreign shores.
-
-In fact, during 2023, over 3200 applications were made by Sri Lankans seeking Permant Residency status in Canada, with 84% receiving approval, highlighting the promising prospects for aspiring Sri Lankans.
-
-...
-
-[Data](articles/6259a668.json)
-
-[Extended Data](ext_articles/6259a668.ext.json)
 
 ---

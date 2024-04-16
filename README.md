@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 16:03:40**
+As of **2024-04-16 16:18:15**
 
 ## Newspaper Stats
 
-*Scraped **19,135** Articles*
+*Scraped **19,137** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ colombotelegraphcom | 168
 bbccomsinhala | 199
 dbsjeyarajcom | 215
 newsfirstlk | 363
-islandlk | 1,028
+islandlk | 1,029
 dailyftlk | 1,040
 economynextcom | 1,072
-adalk | 1,591
+adalk | 1,592
 tamilmirrorlk | 2,236
 adaderanalk | 2,303
 virakesarilk | 2,853
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,135 (100.0%) of 19,135 articles have been extended.
+19,135 (100.0%) of 19,137 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -164,7 +164,7 @@ Over 1700 people were killed and more than 1700 people were killed and more than
 
 *2024-04-16 14:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-crashing-on-platform-Driver-suspended/108-280773) · `en`
 
-Colombo, April 16 (Daily Mirror) - The service of the driver of the train that crached on to the railway platform at the Colombo Fort railway station has been suspended, Railways Deputy General Manager N.J. Indipolage said.
+Colombo, April 16 (Daily Mirror) - The service of the driver of the train that crashed on to the railway platform at the Colombo Fort railway station has been suspended, Railways Deputy General Manager N.J. Indipolage said.
 
 He said an investigation into the incident was held and the final decision on the service of the driver will be taken after the report is received.
 
@@ -585,6 +585,28 @@ A young man suspected of cutting a girlfriend in a land that was a little farthe
 [Data](articles/5eda6248.json)
 
 [Extended Data](ext_articles/5eda6248.ext.json)
+
+---
+
+### කලුතර ලැගුම්හලක පදංචිව සිටි රුසියන් කතක් මරුට
+
+*2024-04-16 13:09:08* · [`adalk`](https://www.ada.lk/breaking_news/කලුතර-ලැගුම්හලක-පදංචිව-සිටි-රුසියන්-කතක්-මරුට/11-409103) · `si`
+
+කළුතර ලැගුම්හලක තාවකාලිකව පදිංචිව සිටි රුසියන් ජාතික කාන්තාවක කාමරයේ ඇඳක් මත මියගොස් සිටියදී සොයාගත් බව කළුතර උතුර පොලිසිය පවසයි.
+
+මෙසේ මියගොස් ඇත්තේ නඩීස්ඩා බොඩ්නර් නමැති 74 හැවිරිදි කාන්තාවක බව පොලිසිය කීය.
+
+මාස 11 කට පමණ පෙර දිවයිනට පැමිණි ඇති කාන්තාව එම නිවාඩු නිකේතනය කුලියට ගෙන පදිංචිව සිට ඇති බවත් පොලිසිය සඳහන් කරයි.
+
+ලැගුම්හල හිමි කාන්තාව අද (16) කළ පැමිණිල්ලක් අනුව පරීක්ෂණ ආරම්භ කළ බවද පොලිසිය සඳහන් කරයි.
+
+කළුතර අපරාධ ස්ථාන පරීක්ෂණාගාර නිලධාරීන් පරීක්ෂණ සිදුකර ඇති අතර, මහේස්ත්‍රාත් පරීක්ෂණයෙන් අනතුරුව මෘත දේහය කළුතර ශික්ෂණ රෝහලට රැගෙන යාමට නියමිතව බව පොලිසිය සඳහන් කරයි.
+
+ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක දමිත් ජයතිලක මහතාගේ ප්‍රධානත්වයෙන් පරීක්ෂණ පවත්වති.
+
+◼️
+
+[Data](articles/47fcc524.json)
 
 ---
 
@@ -2291,31 +2313,5 @@ Several MPs from both political factions have highlighted to parliamentary leade
 [Data](articles/26f2132d.json)
 
 [Extended Data](ext_articles/26f2132d.ext.json)
-
----
-
-### Showers in several areas this afternoon
-
-*2024-04-16 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195664) · `si`
-
-Showers and thundershowers expected in Western, Sabaragamuwa, Central, North Western Provinces, Uva Province, Batticaloa, Ampara, Hambantota districts, and Galle and Matara. Heavy showers in some areas. Public advised to take precautions.
-
-🟩
-
-The Galle and Matara Districts today (16) in the Western, Sabaragamuwa, Central and North Western Provinces.. Showers or thundershowers will occur at several places, after about 2.00.
-
-Showers or thundershowers will occur at times in the Uva Province, Batticaloa, Ampara and Hambantota districts.
-
-Some locations in the Western, Sabaragamuwa and North Western Provinces. Heavy showers are about 75 times.
-
-Some locations in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts have a murder.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/91a84ee7.json)
-
-[Extended Data](ext_articles/91a84ee7.ext.json)
 
 ---

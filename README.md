@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 16:49:15**
+As of **2024-04-16 17:03:23**
 
 ## Newspaper Stats
 
-*Scraped **19,143** Articles*
+*Scraped **19,145** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,47 +18,57 @@ economynextcom | 1,072
 adalk | 1,592
 tamilmirrorlk | 2,236
 adaderanalk | 2,304
-virakesarilk | 2,856
+virakesarilk | 2,857
 dailymirrorlk | 2,949
-adaderanasinhalalk | 3,120
+adaderanasinhalalk | 3,121
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,143 (100.0%) of 19,143 articles have been extended.
+19,143 (100.0%) of 19,145 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### President promises to find out on estate workers' salary
+### ලිස්සන ගස කඩාවැටී 4ක් රෝහලේ
 
-*2024-04-16 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195689) · `si`
+*2024-04-16 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195691) · `si`
 
-President Ranil Wickremesinghe promises to investigate estate workers' salaries, engaging with unions and companies. He addresses concerns over the Cot Lodge Estate, suggesting a compromise on wages and land.
+අවුරුදු උත්සවයක් අතරතුර ලිස්සන ගස කඩා වැටීමෙන් සිදුවු අනතුරකින් සිව් දෙනෙකු තුවාල ලබා තිබේ.
 
-🟩
+ගම්පොළ, ගම්පලවෙල රාජඇලගම ප්‍රදේශයේදී ඊයේ (15) පස්වරුවේ මෙම අනතුර සිදුවී තිබුණි.
 
-President Ranil Wickremesinghe says he will look into the daily wage of estate workers.
+අවුරුදු උත්සවයේ ලිස්සන ගහේ නැගීමේ තරගය පැවැත්වෙන අතරතුර එය කඩා වැටී ඇති බව සඳහන් ය.
 
-The President said that companies and the trade unions are looking into the matter.
-
-He was responding to a query meeting on the Cot Lodge Estate owned by the Plantation Company in Nuwara Eliya this morning (16).
-
-"I'm going to ask the Unionus. I think it's good to take what's promised right now. Later about the land ... 2-3 acres of acres. Asked Unions 1500. I think they're ready to give 1000. The other one can take the insint together. I'll ask what happened. "
+එම අවස්ථාවේ ලිස්සන ගසෙහි නැගීමට උත්සාහ දරමින් සිටි සිව් දෙනෙකු මෙලෙස අනතුරින් තුවාල ලබා තිබුණි.
 
 ◼️
 
-[Data](articles/cb3ae643.json)
+[Data](articles/0b0b0a8d.json)
 
-[Extended Data](ext_articles/cb3ae643.ext.json)
+---
+
+### தமிழ் மக்களின் சுமைதாங்கும் தர்ம தேவதையாக அமைச்சர் டக்ளஸ் இருக்கின்றார் – யாழ் பல்கலை துணைவேந்தர் புகழாரம்
+
+*2024-04-16 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/181245) · `ta`
+
+ஆயுதப் போராட்ட காலங்களிலும் சரி ஜனநாயக வழிமுறையினூடாகவும் சரி தமிழ் மக்களின் சுமைதாங்கும் தர்ம தேவதையாக அமைச்சர் டக்ளஸ் தேவானந்தா இருந்துவருகின்றார் என தெரிவித்த யாழ்ப்பாணம் பல்கலைக்கழகத்தின் துணைவேந்தர் சி.சிறிசற்குணராசா அமைச்சர் முன்னெடுக்கும் முயற்சிகள் தமிழ் மக்களுக்கும் நாட்டுக்கும் நன்மை பயர்ப்பனவாகவே இருந்து வந்துள்ளன என்றும் சுட்டிக்காட்டியுள்ளார்.
+
+யாழ்ப்பாண பல்கலைக்கழக ஜனநாயக ஊழியர் சங்கத்தின் 10 ஆவது ஆண்டு நிறைவை சிறப்பிக்கும் வகையில் ஏற்பாடு செய்யப்பட்ட சிறப்பு நிகழ்வில் பிரதம விருந்தினராக கலந்து உரையாற்றும் போதே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+
+இதன்போது அவர் அமைச்சர் இளைஞராக இருந்த காலத்தில் அவரது செயற்பாடுகள் எவ்வாறானதாக இருந்ததென்பதை நினைவு கூர்ந்திருந்ததுடன் மேலும் கூறுகையில் –
+
+...
+
+[Data](articles/236aa9a9.json)
 
 ---
 
 ### Fire at Nuwara Eliya Lindula Child Care Center
 
-*2024-04-16 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181241) · `ta`
+*2024-04-16 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181241) · `ta`
 
 A fire at the Nuwara Eliya Lindula Child Care Center in the Creedweston Calcutta Estate Division, Nuwara Eliya Lindula police division, occurred around 2 am today. The fire affected the children's development center, causing damage to the roof and children's educational materials. The cause is under investigation.
 
@@ -86,7 +96,7 @@ At the same time, the fire has affected the roof part of the children's care cen
 
 ### Police Constable arrested for illegally entering the land and breaking down woman's 14 teeth
 
-*2024-04-16 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/181239) · `ta`
+*2024-04-16 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181239) · `ta`
 
 A police constable was arrested for illegally entering land, breaking a woman's 14 teeth. The woman, receiving treatment at Anuradhapura Teaching Hospital, had her teeth examined and stretched. The constable was produced at court on the 13th.
 
@@ -105,6 +115,30 @@ Kapukkollawa police say that a 40 -year -old woman has been arrested on suspicio
 [Data](articles/93b43e1c.json)
 
 [Extended Data](ext_articles/93b43e1c.ext.json)
+
+---
+
+### President promises to find out on estate workers' salary
+
+*2024-04-16 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195689) · `si`
+
+President Ranil Wickremesinghe promises to investigate estate workers' salaries, engaging with unions and companies. He addresses concerns over the Cot Lodge Estate, suggesting a compromise on wages and land.
+
+🟩
+
+President Ranil Wickremesinghe says he will look into the daily wage of estate workers.
+
+The President said that companies and the trade unions are looking into the matter.
+
+He was responding to a query meeting on the Cot Lodge Estate owned by the Plantation Company in Nuwara Eliya this morning (16).
+
+"I'm going to ask the Unionus. I think it's good to take what's promised right now. Later about the land ... 2-3 acres of acres. Asked Unions 1500. I think they're ready to give 1000. The other one can take the insint together. I'll ask what happened. "
+
+◼️
+
+[Data](articles/cb3ae643.json)
+
+[Extended Data](ext_articles/cb3ae643.ext.json)
 
 ---
 
@@ -2265,53 +2299,5 @@ The general public is advised to take adequate precautions to minimize damages c
 [Data](articles/e6db20c0.json)
 
 [Extended Data](ext_articles/e6db20c0.ext.json)
-
----
-
-### Debt restructuring with bondholders hits a snag with disagreement on two areas
-
-*2024-04-16 08:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Debt-restructuring-with-bondholders-hits-a-snag-with-disagreement-on-two-areas/155-280737) · `en`
-
-Colombo, April 16 (Daily Mirror) - Sri Lanka’s debt restructuring process with private bondholders is stuck with two aspects of disagreement, whereas it is well underway with bilateral creditors, a top official said yesterday.
-
-Chief of Staff of the President Sagala Ratnayake told journalists that both parties, instructed by respective consultants, held two talks this year with each submitting proposals and counter-proposals.
-
-He said the International Monetary Fund (IMF) cited the government’s proposals as compliant, whereas the bondholders’ proposals were not.
-
-After that, he said there were four areas with disagreements were identified and subsequent negotiations resulted in narrowing them down to two.
-
-Asked whether it was the local dealer or foreign dealers (bondholders) who disagreed, Mr. Ratnayake said these details could not be divulged. “We cannot come out with details on these factors as we have agreed to maintain confidentiality concerning discussions,” he said in this regard.
-
-...
-
-[Data](articles/d5fc3165.json)
-
-[Extended Data](ext_articles/d5fc3165.ext.json)
-
----
-
-### State Minister Chamara travels off at once
-
-*2024-04-16 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195669) · `si`
-
-State Minister Chamara Sampath Dasanayake was involved in a fire accident near Ella, resulting in injuries. The Bandarawela Municipal Council's fire brigade is responding.
-
-🟩
-
-State Minister Chamara Sampath Dasanayake has been auditious.
-
-The State Minister in the Halpe area in Halpe area has been burned at the time.
-
-The public minister was on the way to the Ella to the Ella area from Mahiyanganaya.
-
-However, due to the fire, the Minister of State or the driver have been harmed.
-
-The fire brigade of the Bandarawela Municipal Council has taken steps to resign the fire.
-
-◼️
-
-[Data](articles/b4272332.json)
-
-[Extended Data](ext_articles/b4272332.ext.json)
 
 ---

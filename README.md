@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 01:33:56**
+As of **2024-04-17 01:51:25**
 
 ## Newspaper Stats
 
-*Scraped **19,222** Articles*
+*Scraped **19,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,082
 adalk | 1,600
 tamilmirrorlk | 2,241
 adaderanalk | 2,314
-virakesarilk | 2,872
+virakesarilk | 2,873
 dailymirrorlk | 2,962
 adaderanasinhalalk | 3,130
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,222 (100.0%) of 19,222 articles have been extended.
+19,222 (100.0%) of 19,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### ஜொஸ் பட்லர் 2ஆவது சதத்தைக் குவித்து ராஜஸ்தானை வெற்றிபெறச் செய்தார்; கொல்கத்தா வீரர் சுனில் நரேனின் சதம் வீணானது
+
+*2024-04-17 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181265) · `ta`
+
+கொல்கத்தா ஈடன் கார்ட்ன்ஸ் விளையாட்டரங்கில் செவ்வாய்க்கிழமை (16) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 31ஆவது போட்டியில் ஜொஸ் பட்லரின் அதிரடி சதத்தின் உதவியுடன் கொல்கத்தா நைட் ரைடர்ஸை 2 விக்கெட்களால் ராஜஸ்தான் றோயல்ஸ் கடைசிப் பந்தில் வெற்றிகொண்டது.
+
+இந்த வெற்றியுடன் ஐபிஎல் அணிகள் நிலையில் ராஜஸ்தான் றோயல்ஸ் தொடர்ந்தும் முதலிடத்தில் இருக்கிறது.
+
+சில தினங்களுக்கு முன்னர் றோயல் செலஞ்சர்ஸ் பெங்களூரு அணிக்கு எதிரான போட்டியில் விராத் கோஹ்லியின் சதத்தை வீணடித்து தனது சதத்தின் மூலம் ராஜஸ்தானை வெற்றி அடையச் செய்த ஜொஸ் பட்லர், இந்தப் போட்டியில் சுனில் நரேனின் சதத்தை வீணடித்து தனது இரண்டாவது சதத்தின் மூலம் அணி வெற்றி பெறுவதை உறுதி செய்தார்.
+
+கொல்கத்தா நைட் ரைடர்ஸினால் நிர்ணயிக்கப்பட்ட சுமாரான 224 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய ராஜஸ்தான் றோயல்ஸ் 20 ஓவர்களில் 8 விக்கெட்களை இழந்து 224 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+
+யஷஸ்வி ஜய்ஸ்வால் (19), அணித் தலைவர் சஞ்சு செம்சன் (12) ஆகிய இருவரும் குறைந்த எண்ணிக்கைகளுடன் ஆட்டம் இழந்தனர். (47 - 2 விக்.)
+
+...
+
+[Data](articles/6ae746ca.json)
+
+---
 
 ### Action against traders violating Consumer Act during New Year - Consumer Authority
 
@@ -2245,25 +2265,5 @@ Premajayantha, on an observation tour of the University of Illinois in Chicago, 
 [Data](articles/6e0b910d.json)
 
 [Extended Data](ext_articles/6e0b910d.ext.json)
-
----
-
-### Gujarat businessman, wife donate Rs 200 crore wealth to become monks
-
-*2024-04-16 13:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gujarat-businessman-wife-donate-Rs-200-crore-wealth-to-become-monks/108-280769) · `en`
-
-An affluent Jain couple from Gujarat, India has donated nearly ₹ 200 crore and adopted monkhood, and now plans to set out on a journey for salvation.
-
-Bhavesh Bhandari, and his wife, donated all their wealth during a ceremony in February, and will officially commit to a life of renunciation at an event later this month.
-
-The businessman from Himmatnagar who was in the construction business follows in the footsteps of his 19-year-old daughter and 16-year-old son who adopted monkhood in 2022. People from their community say that Bhavesh and his wife were inspired by their children to "renounce their material attachments and join the ascetic path".
-
-After taking the pledge on April 22, the couple will have to sever all family ties and won't be allowed to keep any 'materialistic objects'. They will then walk barefoot across India and survive only on alms.
-
-...
-
-[Data](articles/0b66eff6.json)
-
-[Extended Data](ext_articles/0b66eff6.ext.json)
 
 ---

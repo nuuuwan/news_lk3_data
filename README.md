@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 20:03:18**
+As of **2024-04-16 20:18:22**
 
 ## Newspaper Stats
 
-*Scraped **19,176** Articles*
+*Scraped **19,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 islandlk | 1,029
 dailyftlk | 1,040
 economynextcom | 1,072
-adalk | 1,597
+adalk | 1,598
 tamilmirrorlk | 2,239
 adaderanalk | 2,309
 virakesarilk | 2,866
-dailymirrorlk | 2,954
+dailymirrorlk | 2,956
 adaderanasinhalalk | 3,124
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,175 (100.0%) of 19,176 articles have been extended.
+19,176 (100.0%) of 19,179 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -34,7 +34,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### Palitha Devapperuma dies after electricity!
 
-*2024-04-16 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181258) · `ta`
+*2024-04-16 19:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181258) · `ta`
 
 Palitha Thevarapperuma, a former UNP MP and Minister of Wildlife, died from electrocution while connecting two electrical circuits.
 
@@ -51,6 +51,24 @@ Palitha Thevarapperuma is a former Member of Parliament of the United National P
 [Data](articles/3f4e1cee.json)
 
 [Extended Data](ext_articles/3f4e1cee.ext.json)
+
+---
+
+### Sarvodaya Shramadana Movement Founder A.T. Ariyaratne passes away
+
+*2024-04-16 19:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sarvodaya-Shramadana-Movement-Founder-A-T-Ariyaratne-passes-away/108-280787) · `en`
+
+Colombo, April 16 - Dr. Ahangamage Tudor Ariyaratne, the founder of the Sarvodaya Shramadana Movement passed away at the age of 92.
+
+His demise marks the end of an era for the socio-spiritual movement he pioneered, which has profoundly impacted communities across Sri Lanka and beyond.
+
+Born on November 5, 1931, Dr. Ariyaratne embarked on his transformative journey as a high school teacher at Nalanda College. It was in 1958 that he organized the inaugural shramadana work camp, laying the foundation for what would become the largest non-governmental organization in Sri Lanka.
+
+Through his tireless efforts, he mobilized individuals and communities to participate in selfless service for the betterment of society.
+
+◼️
+
+[Data](articles/1ada059b.json)
 
 ---
 
@@ -168,15 +186,21 @@ Sarvodaya has been active throughout Sri Lanka since 1958 despite numerous hards
 
 ---
 
-### පාලිත තෙවරප්පෙරුම ජීවිතක්ෂයට
+### Palitha Thevaturam died
 
 *2024-04-16 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195695) · `si`
 
-හිටපු නියෝජ්‍ය අමාත්‍යවරයෙකු වන පාලිත තෙවරප්පෙරුම මහතා අද (16) පස්වරුවේ අභාවප්‍රාප්ත වූ බව පවුලේ ඥාතීන් පවසයි.
+Palitha Thevaturam, former Deputy Minister, passed away this afternoon.
+
+🟩
+
+The relatives of the family say that the former Deputy Minister Palitha Thevarapperuma has passed away this afternoon.
 
 ◼️
 
 [Data](articles/9fd2ab64.json)
+
+[Extended Data](ext_articles/9fd2ab64.ext.json)
 
 ---
 
@@ -197,6 +221,22 @@ Postalitha Thevarapperuma is a former United National Party (UNP) Member of Parl
 [Data](articles/741cd929.json)
 
 [Extended Data](ext_articles/741cd929.ext.json)
+
+---
+
+### ගෑස් මිලට ගැනීමේදී වැඩි මිල ටෙන්ඩරය ගැනීමෙන් රජයට කෝටි 114ක පාඩුවක් වීම ගැන විමර්ශනය අරඹයි
+
+*2024-04-16 18:33:49* · [`adalk`](https://www.ada.lk/breaking_news/ගෑස්-මිලට-ගැනීමේදී-වැඩි-මිල-ටෙන්ඩරය-ගැනීමෙන්-රජයට-කෝටි-114ක-පාඩුවක්-වීම-ගැන-විමර්ශනය-අරඹයි/11-409109) · `si`
+
+අඩු මුදලකට ගෑස් සැපයීමට ඉදිරිපත් කර තිබු ටෙන්ඩරය අවලංගු කර වැඩි මිලට ගෑස් මිලදී ගැනීමෙන් රජයට රුපියල් කෝටි 114කට ආසන්න පාඩුවක් කිරීමේ සිද්ධිය සම්බන්ධයෙන් අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිසම විමර්ශනයක් ආරම්භ කර ඇත.
+
+අඩු මිලට ගෑස් සැපයීමට සියෑම් ගෑස් ටේ්‍රඩින් සමාගම ඉදිරිපත් කළ ටෙන්ඩරයට ප්‍රසම්පාදන හා ඇගයීමේ කමිටුවල අනුමැති හිමිව තිබියදී එම ටෙන්ඩරය අවලංගු කර වැඩි මිලට ඕමාන් ටේ්‍රඩින් සමාගමෙන් ගෑස් මිලදී ගැනීමෙන් දුෂණය නමැති වරද කර ඇතැයි පවසමින් ඒ සම්බන්ධයෙනන් විමර්ශනයක් කරන්නැයි ඉල්ලමින් ‘අල්ලස දූෂණය හා නාස්තියට එරෙහි පුරවැසි බළය සංවිධානය සහ සිවිල් සංවිධාන එකතුමුතුව’ සංවිධානයේ සභාපති කාමන්ත තුෂාර මහතා කළ පැමිණීල්ලකට අනුව අල්ලස් කොමිසම මෙම විමර්ශනය ආරම්භ කර ඇත.
+
+අල්ලස් කොමිසමේ දුෂණ විමර්ශන අංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්‍ෂක එම්.ඊ. අබේසිංහ මහතා කළ කැඳවීමකට අනුව අල්ලස් කොමිසමේ පෙනී සිටි කාමන්ත තුෂාර මහතා රජයට රුපියල් කෝටි 114කට ආසන්න පාඩුවක් කිරීමේ සිද්ධියට අදාළ විශේෂ විගණන වාර්තාද අල්ලස් කොමිසමට ඉදිරිපත් කරමින් සිද්ධිය සම්බන්ධයෙන් සවිස්තරාත්මක ප්‍රකාශයක් දුන්නේය.
+
+...
+
+[Data](articles/61c97564.json)
 
 ---
 
@@ -845,6 +885,18 @@ New Year celebrations this time did not weed up compared to the past. Fireworks 
 [Data](articles/7349543a.json)
 
 [Extended Data](ext_articles/7349543a.ext.json)
+
+---
+
+### Thailand’s ambassador in Kenya meets with Kananathan
+
+*2024-04-16 15:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Thailands-ambassador-in-Kenya-meets-with-Kananathan/110-280786) · `en`
+
+Ambassador of Thailand to Kenya Ms. Morakot Janemathukorn, paid a visit to Kenya's High Commissioner, Kana Kananathan, at the High Commission Offices in Nairobi .Both participated  in constructive talks concerning bilateral affairs of shared importance. The dialogue focused on bilateral matters that hold significance for both countries.
+
+◼️
+
+[Data](articles/7f6435f5.json)
 
 ---
 
@@ -2275,85 +2327,5 @@ Such a threat is condemned by the psychological attack and the literaryists and 
 [Data](articles/7c58f9bd.json)
 
 [Extended Data](ext_articles/7c58f9bd.ext.json)
-
----
-
-### Sri Pada location during the year holiday season
-
-*2024-04-16 10:55:19* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-නිවාඩු-සමයේ-ශ්‍රී-පාද-ස්ථානය/11-409099) · `si`
-
-During the year-end holiday, Sri Pada attracts Buddhist and Hindu pilgrims from across the island. A special bus service connects Hatton to Nallathanniya, accommodating large numbers of visitors.
-
-🟩
-
-Nallathaniya police say that many Buddhist and Hindu including Buddhist and Hindu from various parts of the island are coming to the Sri Pada.
-
-A special bus service has been deployed from Hatton to Nallathanniya from Hatton Station from Hatton to Nalluthaniya.
-
-Large pilgrims are coming to Nallathanniya. The bus and vans were parked on either side of the road to the Nallathan, Maskeliya main road due to buses from the Nalluthanwela.
-
-◼️
-
-[Data](articles/baaba466.json)
-
-[Extended Data](ext_articles/baaba466.ext.json)
-
----
-
-### Salman is a big mess
-
-*2024-04-16 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195675) · `si`
-
-Police arrested two suspects in Salman Khan's shooting incident in Mumbai. They were linked to the Bishnoi gang. Salman's security has been enhanced due to threats.
-
-🟩
-
-The police have arrested two suspects in suspicion of shooting the house of Indian super-actor Salman Khan.
-
-The arrested were the two persons who were arrested.
-
-They were arrested while he was arrested in a bohgege in the state of Gujarat.
-
-Foreign media reports that they will be associated with the bishnoy gang.
-
-The suspects were shot and fled the house of Salman Khan in Mumbai around 5 am last Sunday.
-
-With the shooting, the security forces of the security forces had taken measures to strengthen Salman's safety and to inform the police if they leave the house.
-
-The security media also reported that the security forces have notice that Salman Khan should not go out of their home with the present life threats.
-
-Salman had previously threatened the notorious bishnoi, who was accused of allegedly charges of murder incidents of India.
-
-And a bishiony sister had issued an internet message after the struggle.
-
-◼️
-
-[Data](articles/f8804be6.json)
-
-[Extended Data](ext_articles/f8804be6.ext.json)
-
----
-
-### What guarantees for compensation if they die?
-
-*2024-04-16 10:42:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவர்கள்-இறந்தால்-இழப்பீட்டுக்கு-என்ன-உத்தரவாதம்/175-335983) · `ta`
-
-Sri Lankan Ambassador inquired about former soldiers in Russian military operations against Ukraine, raising concerns about compensation if they die. The Ministry of Defense acknowledged potential illegal recruitment and warned against such activities, highlighting the lack of guarantees for compensation in case of death.
-
-🟩
-
-Amid reports that some former soldiers from Sri Lanka have joined the Russian military operations against Ukraine, Sri Lankan Ambassador in Moscow, Professor Janita Liyanage, asked the Russian army about them.
-
-In response to a question raised regarding the media reports, he said this.. "If someone is there, I have asked such details to the Russian army," he said.
-
-Commenting on this, Media Director of the Ministry of Defense Colonel Nalin said that some former soldiers may have been illegally in the Russian army.. The Ministry has taken steps to explain to the soldiers on the dangers of engaging in such illegal activities.
-
-“They may have been inspired by profitable offers. What is the guarantee of compensation if any of them dies in a fight, ”he said.
-
-◼️
-
-[Data](articles/27bee3eb.json)
-
-[Extended Data](ext_articles/27bee3eb.ext.json)
 
 ---

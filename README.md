@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 17:18:21**
+As of **2024-04-16 17:34:29**
 
 ## Newspaper Stats
 
-*Scraped **19,150** Articles*
+*Scraped **19,152** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,46 @@ newsfirstlk | 363
 islandlk | 1,029
 dailyftlk | 1,040
 economynextcom | 1,072
-adalk | 1,592
+adalk | 1,593
 tamilmirrorlk | 2,236
 adaderanalk | 2,305
 virakesarilk | 2,860
-dailymirrorlk | 2,949
+dailymirrorlk | 2,950
 adaderanasinhalalk | 3,122
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,145 (100.0%) of 19,150 articles have been extended.
+19,150 (100.0%) of 19,152 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### Court of Appeal orders re-allocation of Haj quotas
+
+*2024-04-16 17:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-of-Appeal-orders-re-allocation-of-Haj-quotas/108-280781) · `en`
+
+Colombo, April 16 (Daily Mirror) -  The Court of Appeal has ordered the suspension of the previous allocation of quotas for Haj pilgrims for 2024 and to include an aggrieved travel agent for proper allocation.
+
+Each year the Saudi Arabian government allocates quotas to each country in order to manage the influx of pilgrims.
+
+Sri Lanka had been allocated 3,500 pilgrims this year which had been allocated to different travel agents.
+
+The Court of Appeal made the interim order following a petition filed by a travel agent.
+
+The travel agent alleged that the Haj Committee had arbitrarily suspended their travel license for a period of two years.
+
+In the petition the petitioner United Travels said that the decision by the commitee to suspend his license for two years was done for collateral reasons.
+
+The petitioner asked that he be registered as a travel operator for 2024 and to suspend the allocation made in December 2023.
+
+...
+
+[Data](articles/b6ebe07f.json)
+
+---
 
 ### Expressway generate revenue of Rs. 235 million in six days
 
@@ -46,75 +70,113 @@ During festive seasons, especially the traditional New Year, the RDA collects a 
 
 [Data](articles/3234d23c.json)
 
+[Extended Data](ext_articles/3234d23c.ext.json)
+
 ---
 
-### சுகாதாரத்துறையில் மருந்துப்பொருள் மோசடி மட்டுமல்ல ; சுகாதார அமைச்சுக்குச் சொந்தமான 679 வாகனங்கள் காணாமல் போயுள்ளன - சஜித் பிரேமதாச
+### Not just pharmaceutical fraud in the health sector;679 vehicles belonging to the Ministry of Health are missing - Sajith Premadasa
 
 *2024-04-16 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/181246) · `ta`
 
-சுகாதாரத்துறையில் இடம்பெற்ற மருந்துப் பொருள் கொடுக்கல் வாங்கல்கள் மற்றும் இலஞ்ச மோசடிகள் தொடர்பில் வெளியான அம்பலத்தினால் பாராளுமன்றத்திற்கு உள்ளேயும் வெளியேயும் பல சவால்களுக்கு மத்தியில் ஐக்கிய மக்கள் சக்தி பெரும் போராட்டத்தை நடத்தி திருடர்களை நீதிமன்றில் நிறுத்தியது. மருந்துப்பொருள் மோசடி குறித்து பலர் பேசினாலும், சுகாதார அமைச்சுக்குச் சொந்தமான 679 வாகனங்கள் காணாமல் போயுள்ளதாக தேசிய கணக்காய்வு அலுவலகம் அறிவித்துள்ளதாகவும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Opposition Leader Sajith Premadasa highlights pharmaceutical fraud and missing vehicles in the health sector, vowing to investigate and prosecute. He also criticizes land robberies in the Eastern Province and calls for transparent state-private ventures to move the country forward.
+
+🟩
+
+Amidst many challenges in Parliament, the United People's Power has fought the thieves in court due to the exposure of pharmaceuticals and bribery in the health sector.. The Opposition Leader said that although many people have talked about pharmaceutical fraud, the National Audit Office has announced that 679 vehicles belonging to the Ministry of Health have disappeared.
+
+Of these, some information about 240 vehicles has been found, but the Ministry of Health has not handed over further information to the Audit Office. There is no information on 439 vehicles. Even in the bankrupttara country cannot be seen when such incidents happen. Opposition leader Sajith Premadasa said that due to many such irregularities in state institutions, each of these frauds and thefts will be clearly investigated and brought to court.
+
+Under the Universal Information Technology Program, smart classroom equipment worth Rs.. He said this while attending the event.
 
 ...
 
 [Data](articles/7e1f0780.json)
 
+[Extended Data](ext_articles/7e1f0780.ext.json)
+
 ---
 
-### மாறி மாறி வருகின்ற அரசாங்கத்துடன் கூட்டு சேர்வது இராஜதந்திரமாக இருந்தால் கருணாம்மான் செய்ததும் இராஜதந்திரமே -  ஜெயா சரவணா
+### If it is diplomatic to join the changing government, Karunamman is a diplomacy - Jaya Saravana
 
 *2024-04-16 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/181250) · `ta`
 
-மாறி மாறி வருகின்ற அரசாங்கத்துடன் கூட்டு சேர்வது இராஜதந்திரமாக இருந்தால் கருணாம்மான் செய்ததும் இராஜதந்திரமே என தமிழர் ஐக்கிய சுதந்திர முன்னணியின் உப தலைவரும், அம்மான் படையணியின் தலைமை ஒருங்கிணைப்பாளருமான ஜெயா சரவணா தெரிவித்தார்.
+Karunamman, a diplomat if joining the changing government is diplomatic, according to Jaya Saravana, Deputy Leader of the Tamil United Freedom Alliance. The Amman Regiment, led by Karunamman, is involved in social reform and has helped identify drug use in Vavuniya. Critics label Karunamman a traitor, but he defends his actions, arguing against betrayal based on Douglas Tamils and Liberation Tigers.
 
-அம்மான் படையணியின் தலைவரால் ஆரம்பிக்கப்பட்ட வேலைத்திட்டங்கள் அனைத்தும் சரியான முறையில் சென்று கொண்டிருக்கின்றது. வன்னி பெருநிலப்பரப்பில் நூற்றுக்கணக்கான போராளிகள் எம்முடன் இணைந்து வேலைத்திட்டங்களை முன்னெடுத்து வருகிறார்கள்.
+🟩
 
-அம்மான் படையணியின் செயற்பாடுகள் என்ன என அதிகமானோர் கேள்வி எழுப்பியிருந்தனர். ஆயுதத்தை தூக்கி இராணுவத்தினரை சுடுவதல்ல. சமூக சீர்திருத்தத்திற்காகவே உருவாக்கப்பட்டது. கடந்த காலங்களில் வவுனியாவில் போதைவஸ்து பாவனையை அடையாளம் காண உதவியிருந்தோம். அதேபோல் கடந்த வாரமளவில் மண் அகழ்வு, மரம் வெட்டுதல் போன்ற செயற்பாடுகளை பாதுகாப்பு தரப்பினரின் கவனத்திற்கு கொண்டு சென்று நடவடிக்கை எடுத்திருந்தோம். அவ்வாறு எமது பணி தொடர்ந்து கொண்டிருக்கின்றது. தற்போது எம்முடன் இணைந்த போராளிகள் குறித்த வேலைத்திட்டங்களினை முன்னெடுத்து வருகிறார்கள்.
+Jaya Sarawana, Deputy Leader of the Tamil United Freedom Alliance and Chief Coordinator of the Tamil United Freedom Alliance (UPFA) and the chief coordinator of the Amman Brigade, said that Karunamman was a diplomat if it was diplomatic to join the changing government.
+
+All the programs launched by the leader of the Amman Regiment are going properly. Hundreds of militants are carrying out programs with us in the Vanni mainland.
+
+Most people questioned the activities of the Amman Regiment. Not to lift the weapon and shoot the military. Created for social reform. In the past we have helped to identify drug use in Vavuniya. Last week, we had taken action to the attention of the security forces, such as soil excavations and lumbering.. Our work continues. Currently, we are carrying out programs for the militants affiliated with us.
 
 ...
 
 [Data](articles/e3389be0.json)
 
+[Extended Data](ext_articles/e3389be0.ext.json)
+
 ---
 
-### டென்மார்க்கில் வரலாற்றுச் சிறப்புமிக்க பங்குச் சந்தை கட்டிடத்தில் தீ பரவல்
+### Fire spread in historic stock market building in Denmark
 
 *2024-04-16 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181231) · `ta`
 
-டென்மார்க் தலைநகர் கோபன்ஹேகனின் மத்தியிலுள்ள  வரலாற்றுச்  சிறப்புமிக்க பழைய பங்குச் சந்தை  கட்டிடம் செவ்வாய்கிழமை (16) காலை  தீயில் எரிந்து நாசமாகியுள்ளது.
+A historic 17th-century stock market building in Copenhagen, Denmark, was destroyed by fire on Tuesday. No one was injured, and some historical paintings were saved. The building, a 400-year-old Cultural Heritage, was renovated and housed the Tentamark Chamber of Commerce.
 
-இந்த  கட்டிடம் 17 ஆம் நூற்றாண்டின் போர்சன் நகரின் பழமையான கட்டிடங்களில் ஒன்றாகும்.
+🟩
 
-தீ பரவியதும் கட்டிடத்திற்குள் இருந்த அனைவரும்  வெளியேறியுள்ளனர். இது வரை ஒருவருக்கும் பாதிப்பு ஏற்படவில்லை. சில வரலாற்று ஓவியங்களை மக்கள் விரைந்து  மீட்டுள்ளனர்.
+The historic old stock market building in the middle of the Denmark capital, Copenhagen, was destroyed on Tuesday morning.
 
-400 ஆண்டுகால டென்மார்க் கலாச்சார பாரம்பரியம் தீப்பிடித்து எரிந்துள்ளதாக அந்நாட்டு  கலாச்சார அமைச்சர் ஜாகோப் ஏங்கல்-ஷ்மிட்  தெரிவித்துள்ளார்.
+The building is one of the oldest buildings of the 17th century Porsche.
 
-இது “தி ஃபோல்கெட்டிங்" எனப்படும் டென்மார்க்கின் பாராளுமன்றம் மற்றும் கிறிஸ்டியன்ஸ்போர்க் அரண்மனை ஆகியவற்றிலிருந்து குறுகிய தூரத்திலுள்ள  1625 ஆம் ஆண்டுக்கு முந்தைய கட்டிடமாகும்.
+When the fire spreads, everyone inside the building has left. No one has been affected until now. People have recovered some historical paintings.
 
-இந்த பங்குச் சந்தை கட்டிடம் புதுப்பிக்கப்பட்டு  பாதுகாப்பிற்காக பிளாஸ்டிக் உறைகளால் மூடப்பட்டிருந்தது. இது தற்போது டென்டமார்க் வர்த்தக சபையைக் கொண்டுள்ளது.
+The 400-year Cultural Heritage of Denmark has been set on fire, said Cultural Minister Jakob Engal-Schmid.
+
+It is a short distance of 1625, from the Parliament of Denmark and the Christianfour Palace, called "The Folketing".
+
+This stock market was renovated and covered with plastic envelopes for protection. It currently has a Tentamark Chamber of Commerce.
+
+Local craftsman Henrik Grage said, “It's a sad day. This is our notra-dame, ”he compared the 2019 fire at the Nodere Dame Church in Paris.
+
+Residents who have crossed the phase with emergency services and Brian Mickelsen, the Director of the Denmark Chamber of Commerce, have also protected art treasures.
 
 ...
 
 [Data](articles/cb3335b5.json)
 
+[Extended Data](ext_articles/cb3335b5.ext.json)
+
 ---
 
-### පිකෝ ට්‍රේල් අත්දැකීම විඳගත් ජනපති
+### President enjoyed the pico trail experience
 
 *2024-04-16 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195692) · `si`
 
-නුවරඑළිය සුන්දර කඳුකරය ආශ්‍රිතව යළි පිබිඳෙන සංචාරක කාර්මාන්තය පිළිබඳ සොයා බලමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (16) පෙරවරුවේ නුවරඑළිය උඩුපුස්සැල්ලාව වැවිලි සමාගමට අයත් කෝට් ලොජ් වතුයායේ සංචාරයක නිරත විය.
+President Ranil Wickremesinghe visited the Coat Lodge Estate in Nuwara Eliya, enjoying the Pico Trail experience. This trail, a 300-kilometer route through Sri Lanka's central hills, is considered one of Asia's best secret roads. The President explored the trail, considering its potential to boost Sri Lanka's mountain tourism. Miguel Cunat, founder of the Pico Trail project, thanked the President for supporting its opening. The trail offers a unique cultural and historical experience, supported by USAID and EU Trail for Sri Lanka's tourism strategies.
 
-“පිකෝ ට්‍රේල් (Peko Trail) මංපෙත හරහා ජනාධිපතිවරයා පා ගමනින් මෙම සංචාරයට එක්වීම විශේෂත්වයකි.
+🟩
 
-“පිකෝ ට්‍රේල්” යනු ශ්‍රී ලංකාවේ මධ්‍යම කඳුකරය හරහා දිවෙන කිලෝමීටර් 300ක පමණ කඳු නැගීමේ මාර්ගයකි. එය ආසියාවේ හොඳම රහසිගත මාර්ගවලින් එකක් ලෙස සැලකෙයි.
+President Ranil Wickremesinghe visited the Coat Lodgestalla estuary of the Plantation in Nuwara Eliya this morning.
 
-“පිකෝ ට්‍රේල්” නම් මෙම මංපෙත සුප්‍රසිද්ධ මහනුවර නගරයෙන් ආරම්භවී දකුණු දෙසින් හැටන් සහ හෝර්ටන් තැන්න ජාතික වනෝද්‍යානය දෙසට ගමන් කරයි. ඉන්පසු එය හපුතලේ සහ ඇල්ල හරහා නැගෙනහිර දෙසට ගමන් කර සුන්දර නුවරඑළිය නගරය වටා ගමන් කර අවසන් වේ. මෙම මාර්ගය බ්‍රිතාන්‍ය යටත් විජිත සමයේදී විශාල වතුවල සිට කර්මාන්තශාලා වෙත තේ ප්‍රවාහනය කිරීම සඳහා භාවිතා කරන ලද්දකි.
+"The President join the visit through the Pico Trail (PEKO TRAIL).
 
-“පිකෝ ට්‍රේල්” මාර්ගය ඔස්සේ කිලෝමීටර 3.2ක පමණ දුරක් පාගමනින් ඇවිද ගිය ජනාධිපතිවරයා කෝට් ලොජ් වතුයායේ සේවයේ නිරතව සිටින කම්කරු ජනතාවගේ ද තොරතුරු විමසමින් සුහද කථා බහක නිරත විය.
+"Pico Trail" is a route of about 300 kilometers run through the central hills of Sri Lanka. It is considered one of the best secret roads in Asia.
+
+This pico trail is the well-known city of Kandy and heads to the Horton Plains of the Horton and Horton Plains.. Then it moves to the east across Haputale and Falls and pass around the city of beautiful Nuwara Eliya. This road was used to transport tea to the factory during the British colonial period.
+
+The President visited the Pico Trail "rolls along the" Pico Trail "route.
+
+The President also looked into the potential to promote the mountainside tourism industry in Sri Lanka through Pico Trail.
+
+Miguel Qunat (Miguel Cunat), Miguel Qunat, said that Sri Lanka was the founder of the "Pico Trail" project.
 
 ...
 
 [Data](articles/342bf19d.json)
+
+[Extended Data](ext_articles/342bf19d.ext.json)
 
 ---
 
@@ -305,6 +367,22 @@ New Year celebrations this time did not weed up compared to the past. Fireworks 
 [Data](articles/7349543a.json)
 
 [Extended Data](ext_articles/7349543a.ext.json)
+
+---
+
+### නිදියහනේදීම ඔහුව ඝාතනය වූයේ ඇයි?
+
+*2024-04-16 15:21:30* · [`adalk`](https://www.ada.lk/breaking_news/නිදියහනේදීම-ඔහුව-ඝාතනය-වූයේ-ඇයි-/11-409105) · `si`
+
+ගල්කිස්ස බොරුපන ප්‍රයේශයේදී තියුණු ආයුධයකින් හරදීමක්  හේතුවෙන්  පුද්ගලයකු මියයගාස් ඇති බවට අද උදෑසන (16 දා) ගල්කිස්ස පොලිසියට වාර්ථාවී ඇත.
+
+මියගිය පුද්ගලයා වයස අවුරුදු 52 ක බොරුපන, රත්මලාන ප්‍රදේශයේ දිංචිකරු කරුවෙකි.
+
+ඔහු තම නිවයස් නිදන කාමරයේ නිදා සිටින අවස්ථායේදී නාඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් තියුණු ආයුධවලින් හරදී යමම ඝාතනය සිදුකර ඇති බවට අනාවරණය වී ඇත. ඝාතනය සිදුකයල්ක කවුරුන්ද යන්න යමයතක් අනාවරණය වී ‌නොමැති අතර සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා ගල්කිස්ස පොලිසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/720e2fac.json)
 
 ---
 
@@ -2251,47 +2329,5 @@ Accordingly, the train traveling to the Fort Railway Stations from Colombo Fort 
 [Data](articles/b6c5d559.json)
 
 [Extended Data](ext_articles/b6c5d559.ext.json)
-
----
-
-### Effectiveness of Sri Lanka’s legal system is questioned over alleged corruption: Marie Antonia
-
-*2024-04-16 09:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Effectiveness-of-Sri-Lankas-legal-system-is-questioned-over-alleged-corruption-Marie-Antonia/108-280738) · `en`
-
-Colombo, April 16 (Daily Mirror) - The effectiveness of the legal system in handling investment-related matters in Sri Lanka is often questioned due to perceived corruption and inefficiency, an official said.
-
-Marie Antonia von Schönburg, Chief Delegate of the Delegation of German Industry and Commerce in Sri Lanka, in an interview with Daily Mirror, said that despite the existence of laws, implementation remains a challenge, which may deter investors from choosing Sri Lanka over other alternatives.
-
-By addressing investors' concerns about corruption and inefficiency, Sri Lanka is now seeking to create a transparent and predictable environment that facilitates investment and ensures the protection of investors' rights.
-
-Continued efforts to strengthen the rule of law will contribute to Sri Lanka's reputation as a trustworthy and business-friendly destination for both domestic and foreign investors, she said.
-
-◼️
-
-[Data](articles/3468dc9d.json)
-
-[Extended Data](ext_articles/3468dc9d.ext.json)
-
----
-
-### State Minister Chamara Sampath’s vehicle catches fire
-
-*2024-04-16 08:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/State-Minister-Chamara-Sampaths-vehicle-catches-fire/108-280739) · `en`
-
-Colombo, April 16 (Daily Mirror) - The official vehicle of Primary Industries State Minister Chamara Sampath Dassanayake caught fire this morning in the Halpe area, as reported by the Ella police.
-
-They said the vehicle caught fire due to a technical failure.
-
-The incident occurred at around 1 a.m. this morning while the State Minister was travelling from Mahiyangana to Ella.
-
-Neither the state minister nor the driver sustained any injuries.
-
-The Fire Department of the Bandarawela Municipal Council, along with the Ella Police and local residents extinguished the fire.
-
-◼️
-
-[Data](articles/bef309a7.json)
-
-[Extended Data](ext_articles/bef309a7.ext.json)
 
 ---

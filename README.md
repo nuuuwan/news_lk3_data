@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 13:52:43**
+As of **2024-04-16 14:03:22**
 
 ## Newspaper Stats
 
-*Scraped **19,109** Articles*
+*Scraped **19,114** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,80 @@ newsfirstlk | 363
 islandlk | 1,028
 dailyftlk | 1,040
 economynextcom | 1,072
-adalk | 1,588
-tamilmirrorlk | 2,231
+adalk | 1,589
+tamilmirrorlk | 2,234
 adaderanalk | 2,301
 virakesarilk | 2,849
 dailymirrorlk | 2,940
-adaderanasinhalalk | 3,115
+adaderanasinhalalk | 3,116
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,105 (100.0%) of 19,109 articles have been extended.
+19,109 (100.0%) of 19,114 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### ඔහොම යං, IMF ශ්‍රී ලංකාවෙන් ඉල්ලයි
+### අධිවේගයෙන් නොසිතූ ආදායමක්
+
+*2024-04-16 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195684) · `si`
+
+පසුගිය වසරට සාපේක්ෂව මෙවර අලුත් අවුරුදු සමයේ අධිවේගී මාර්ගවල ආදායම රුපියල් මිලියන 80කින් පමණ වර්ධනය වී ඇති බව මාර්ග සංවර්ධන අධිකාරිය පවසයි.
+
+එහි අධ්‍යක්ෂ ජනරාල් ප්‍රියන්ත සුරියබණ්ඩාර මහතා අද (16) මාධ්‍ය වෙත අදහස් දක්වමින් මේ බව පැවසීය.
+
+ඒ මහතා වැඩිදුරටත් පැවසුවේ මේ වසරේ අප්‍රේල් මස 10 වන දා සිට 15 වන දා දක්වා වු දින 06 තුළ අධිවේගී මාර්ගවල ආදායම රුපියල් මිලියන 235ක් ලෙසට වාර්තා වී ඇති බවය.
+
+◼️
+
+[Data](articles/e8fbae19.json)
+
+---
+
+### IMF calls for Sri Lanka
 
 *2024-04-16 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195683) · `si`
 
-IMF වැඩසටහන ආරම්භයේ සිට ශ්‍රී ලංකාව දැඩි කැපවීමෙන් උපයාගත් ජයග්‍රහණ ආරක්ෂා කරගනිමින් ඒවා ඉදිරියට පවත්වාගෙන යාමට කැපවන්නැයි එහි නියෝජ්‍ය කළමනාකාර අධ්‍යක්ෂ කෙන්ජි ඔකමුරා මහතා ශ්‍රී ලංකාවෙන් ඉල්ලා තිබේ.
+IMF's Kenji Okura urges Sri Lanka to continue its economic reforms, praised by local authorities. Discussions aim to enhance economic stability, sustainable development, and loan growth.
 
-වොෂින්ටන් හි පැවත්වෙන වසර මැද ස්ප්‍රිං සමුළුවට සහභාගී වූ මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා ඇතුළු පිරිස සමඟ සාකච්ඡාවකට එක්වෙමින් ඔහු මේ අදහස් පළ කළේය.
+🟩
 
-අප්‍රේල් 15 වනදා ආරම්භ වූ ජාත්‍යන්තර මූල්‍ය අරමුදලේ හා ලෝක බැංකුවේ වසර මැද ස්ප්‍රිං සමුළුව සඳහා මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා ඇතුළු නියෝජිතයින් පිරිසක් එක්ව සිටී.
+The Deputy Managing Director Kenji Ocque has called for Sri Lanka to protect the IMF program and run them up to the continuing dedicated victories.
 
-එහිදී ජාත්‍යන්තර මූල්‍ය අරමුදල, ලෝක බැංකුව සහ සෙසු හවුල්කරුවන් සමඟ පුළුල් ආර්ථික සහයෝගිතාවයෙන් කටයුතු කරමින් මෙරට තුළ ආර්ථික ස්ථාවරත්වය, තිරසර සංවර්ධනය හා කඩිනමින් ණය ප්‍රතිව්‍යුහගතකරණය අවසන් කිරීම වෙනුවෙන් සාකච්ඡා පැවැත්වීමට නියමිතය.
+He was speaking at a discussion with State Minister Shehan Semasinghe and the civilians who participated in Washington's Sprinks.
+
+State Minister Shehan Semasinghe and other representatives have joined the Mid-World Sprring Conference on April 15.
+
+The International Monetary Fund, the IMF and other partners, talks will be held in Sri Lanka to end the economic stability, sustainable development and expeditious loan development in the country.
+
+Accordingly, the Finance Minister Shehan Semasinghe and the IM Deputy Managing Director, Managing Director, Managing Director Kenji Okura has been conducted and the Sri Lankan authorities have praised the Sri Lankan authorities to implement the country's strong reform.
+
+He also emphasized the need to preserve the IMF program and maintain the need for Sri Lanka to continue them.
 
 ...
 
 [Data](articles/386d6781.json)
+
+[Extended Data](ext_articles/386d6781.ext.json)
+
+---
+
+### போலி மருத்துவ நிலையத்தில் போலி வைத்தியர் சிக்கினார்
+
+*2024-04-16 13:20:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/போலி-மருத்துவ-நிலையத்தில்-போலி-வைத்தியர்-சிக்கினார்/73-335989) · `ta`
+
+பொதுமக்களின் சுகாதாரத்திற்கு அச்சுறுத்தலாக அமையும் இடங்கள் மீதான தொடர் சுற்றிவளைப்பின் மற்றுமோர் அங்கமாக சட்டவிரோத மருத்துவ நிலையம் ஒன்று   சாய்ந்தமருது, பாண்டிருப்பு, மருதமுனை பிரதேசங்களில் செவ்வாய்க்கிழமை (16) அடையாளம் காணப்பட்டு அந்த நிலையத்திற்கு எதிராக நடவடிக்கை எடுக்கப்பட்டது.
+
+அரச வைத்திய அதிகாரிகள் சங்கம், கல்முனை பிராந்திய சுகாதார சேவைகள் பணிமனை, சுகாதார வைத்திய அதிகாரி காரியாலயங்களுக்கு தொடர்ந்தும் கிடைக்கப்பெற்ற முறைப்பாடுகளை அடுத்து கல்முனை பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்திய கலாநிதி ஷகீலா இஸ்ஸதீனின் ஆலோசனை வழிகாட்டலில் இந்த திடீர் சுற்றிவளைப்பு நடவடிக்கை இடம்பெற்றது.
+
+இந்த சுற்றிவளைப்பின் போது தன்னை வைத்தியராக அடையாளம் காட்டிக்கொண்டு எவ்வித அரச அங்கீகாரமுமின்றி இயங்கிவந்த மருத்துவ நிலையமும், அழகுக்கலை நிலையமும், பயற்சி நிலையமும் நடத்தி வந்த நபர் இணங்காணப்பட்டதுடன் அவரிடமிருந்த மனித பாவனைக்கு பொருத்தமற்ற மற்றும் ஆபத்தான மருந்துகளும் கைப்பற்றப்பட்டன.
+
+...
+
+[Data](articles/8bc912bd.json)
 
 ---
 
@@ -72,59 +114,99 @@ Moderate heavy rainfall is expected across north-eastern and northern Oman over 
 
 ---
 
-### මූණටම එල්ලවූ ප්‍රහාරය කැමරාවේ
+### The attack on the face camera
 
 *2024-04-16 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195682) · `si`
 
-ජෝර්ජියාවේ පාර්ලිමේන්තුව තුළ ඇතිවූ ගැටුමක් දැක්වෙන වීඩියෝවක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+In Georgia, a video shows an opposition parliamentarian attacking the leader of the Georgian Dream party, leading to a heated debate on a controversial law.
 
-එම වීඩියෝවේ දැක්වෙන්නේ ජෝර්ජියාවේ පාලක ජෝර්ජියන් ඩ්‍රීම් පක්ෂයේ පාර්ලිමේන්තු කණ්ඩායම් නායකයාට විපක්ෂ පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු පහර දෙන ආකාරයයි.
+🟩
 
-එහිදී විපක්ෂ පාර්ලිමේන්තු කණ්ඩායම සහ පාලක පක්ෂයේ පාර්ලිමේන්තු කණ්ඩායම අතර දරුණු ගුටිබැට හුවමාරුවක් සිදුව ඇත.
+A video of the Parliament in Georgia has reportedly reported a video of Parliament.
 
-මෙම ගැටුම සිදුව ඇත්තේදෙපාර්ශ්වය අතර මතභේදයකට හේතු වී ඇති ජෝර්ජියාවේ විදෙස් සංවිධානවලට දැඩි සීමා පනවන ෆොරීන් ඒජන්ට්ස් නීතිය පිළිබඳව පැවති විවාදයක් අතරතුරදීය.
+The video states how a opposition parliamentarian attacks the Leader of the Georgian Dream party in Georgia.
+
+There was a terrible exchange between the opposition group and the parliamentary group of the ruling party.
+
+The conflict between the foreigner's debate on the law, which has been in place between the conflict between the controversy, has been infected with controversy, is restricted.
 
 ◼️
 
 [Data](articles/5e2f6e31.json)
 
+[Extended Data](ext_articles/5e2f6e31.ext.json)
+
 ---
 
-### ජනාධිපතිවරණය ගැන විජයදාස රාජපක්ෂ තීරණයක් ගනී
+### காதலியையும் தாயையும் வெட்டிய இளைஞன் தன்னுயிரை மாய்த்தார்
+
+*2024-04-16 13:13:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/காதலியையும்-தாயையும்-வெட்டிய-இளைஞன்-தன்னுயிரை-மாய்த்தார்/71-335988) · `ta`
+
+இளைஞன் ஒருவர், தனது காதலியையும் , காதலியின் தாயையும் கூரிய ஆயுதத்தால் வெட்டிய பின்னர் தனது உயிரை மாய்த்துள்ளார் .
+
+யாழ்ப்பாணம் - பண்டத்தரிப்பு , பணிப்புலம் பகுதியில்    செவ்வாய்க்கிழமை (16)  அதிகாலை இடம்பெற்ற சம்பவம் குறித்து தெரியவருவதாவது,
+
+இளைஞனும் அப்பகுதியை சேர்ந்த யுவதியும் காதலித்து வந்துள்ளனர். இந்நிலையில் கடந்த சில நாட்களாக காதலர்களுக்கு இடையில் முரண்பாடு ஏற்பட்டுள்ளது. இந்நிலையில், காதலியின் வீட்டுக்கு சென்று மறைந்திருந்த இளைஞன் , வீட்டார் காலை வீட்டின் கதவை திறந்த வேளை , வீட்டினுள் நுழைந்து , காதலியையும் , அவரது தாயையும் கூரிய ஆயுதத்தால் வெட்டி விட்டு அங்கிருந்து தப்பி சென்றுள்ளார்.
+
+சத்தம் கேட்டு கூடிய அயலவர்கள் வெட்டு காயங்களுடன் காணப்பட்ட தாயையும் மகளையும் மீட்டு , வைத்தியசாலைக்கு அனுமதி வைத்துள்ளனர்.
+
+அந்நிலையில் வீட்டில் இருந்து சற்று தொலைவில் இருந்த காணி ஒன்றில் காதலியை வெட்டியதாக சந்தேகிக்கப்படும் இளைஞன் தனது உயிரை மாய்த்த நிலையில் சடலமாக மீட்கப்பட்டுள்ளார்
+
+◼️
+
+[Data](articles/5eda6248.json)
+
+---
+
+### Wijayadasa Rajapakse decision on presidential election
 
 *2024-04-16 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195681) · `si`
 
-ඉදිරි ජනාධිපතිවරණයට තරග කරන ලෙස තමාට පාර්ශ්ව කිහිපයකින් ඉල්ලීම් ඉදිරිපත් වී ඇති බව අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතා පවසයි.
+Dr. Wijayadasa Rajapaksa, Justice Minister, plans to run in the next presidential election with support from several parties, including the SLFP Central Committee and religious leaders. He aims to make a decision within weeks, acknowledging the current lack of trust in political parties and the importance of individual voter choice.
 
-විශේෂයෙන් ශ්‍රී ලංකා නිදහස් පක්ෂ මධ්‍යම කාරක සභාව නියෝජනය කරන බහුතර සාමාජිකයින් ඒ සම්බන්ධයෙන් ඉල්ලීම් ඉදිරිපත් කර ඇති බව අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-ඒ අනුව ඉදිරි සති කිහිපය තුළ ජනාධිපතිවරණයට ඉදිරිපත් වන්නේ ද යන්න සම්බන්ධයෙන් තමා තීරණයක් ගන්නා බව මාධ්‍යවේදීන් යොමුකළ පැනයකට පිළිතුරු ලබා දෙමින් විජයදාස රාජපක්ෂ මහතා සඳහන් කළේය.
+Minister of Justice Dr. Wijayadasa Rajapaksa says that he has come forward with several parties to contest the next presidential election.
 
-"මගෙන් ඉල්ලම් කරලා තියෙනවා කණ්ඩායම් විශාල සංඛ්‍යාවක්. විශේෂයෙන්ම ශ්‍රී ලංකා නිදහස් පක්ෂයේ මධ්‍යම කාරක සභාව නියෝජනය කරන අති බහුතරයක් දෙනා ඒ ඉල්ලීම කරලා තියෙනවා. ඒ වගේම අපේ ගෞරවනීය මහා සංඝරත්නය, අනෙක් ආගම්වල නායක තුමන්ලා ඒ ඉල්ලීමම කරලා තියෙනවා. ඒ පිළිබඳ තවදුරටත් කල්පනා කරලා මම ඉදිරි සති කිහිපය තුළ තීන්දුවක් ගන්න ඉන්නේ."
+The majority members representing the SLFP central committee have made requests.
 
-ප්‍රශ්නය - ඒ කියන්නේ ඔබතුමා කුමණ පක්ෂයෙන්ද ? නැත්නම් ස්වාධීන වශයෙන්ද ?
+According to Wijayadasa Rajapakse, he said that he would make a decision on the next few weeks, Mr. Wijeyadasa Rajapaksa said.
 
-...
+"I have requested a large number of groups. The majority of the Sri Lanka Freedom Party (SLFP) Central Committee has made the request. And our honorable Maha Sangha, the Leader of other religions have made that request. I thought further in the next few weeks. "
+
+Q. What is the party you do?Or independently?
+
+"People have no confidence in any political party in our country today. Therefore, the next election is a very different election, and also an election in a decree. Voters are not in the future. According to the individual, the people think of the election. "
+
+◼️
 
 [Data](articles/f874e8ea.json)
 
+[Extended Data](ext_articles/f874e8ea.ext.json)
+
 ---
 
-### ට්‍රම්ප් ජනපති වියයුතු බව ලිස් ට්‍රස් කියයි
+### Lis Trasp said Trump to be President
 
 *2024-04-16 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195680) · `si`
 
-හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් එළැඹෙන අමෙරිකානු ජනාධිපතිවරණය ජයග්‍රහණය කළයුතු බව හිටපු බ්‍රිතාන්‍ය අගමැතිනී ලිස් ට්‍රස් පවසයි.
+Lis Traders, former British PM, supports Trump as the most secure president, warning of conflicts and a "strong America now." Trump is the Republican candidate for the November US presidential election.
 
-ඇය පවසන්නේ ට්‍රම්ප් ධවල මන්දිරයේ සිටින විට "ලෝකය වඩාත් ආරක්ෂාකාරී" බවයි.
+🟩
 
-බ්‍රිතාන්‍ය යේ කෙටිම කලක් අගමැති ධුරය දැරූ ට්‍රස් පවසන්නේ මේ වනවිට ගැටුම් හේතුවෙන් ලෝකයම ඉතා අවදානම් සහිත තත්ත්වයක පවතින බවත් වෙන කවදාකවත් වඩා "ශක්තිමත් අමෙරිකාවක්" දැන් අවශ්‍යව ඇති බවත් ය.
+Former President Donald Trump, former British Prime Minister Lis Traders, says the former British Prime Minister Lis Traders.
 
-නොවැම්බර් මාසයේදී පැවැත්වෙන අමෙරිකානු ජනපතිවරණය සඳහා රිපබ්ලිකන් පක්ෂයේ අපේක්ෂකයා ලෙස ට්‍රම්ප් ඉදිරියෙන්ම සිටියි.
+She says Trump is the "most secure" when the Trump is in the White House.
+
+Trosperson of the British Yattuarus, Trosman, is currently in danger of conflicts, and that the world is in danger of "strong America now" now.
+
+Trump is the Republican Party candidate for the US presidential election in November.
 
 ◼️
 
 [Data](articles/8dc0afb5.json)
+
+[Extended Data](ext_articles/8dc0afb5.ext.json)
 
 ---
 
@@ -778,6 +860,22 @@ Such a threat is condemned by the psychological attack and the literaryists and 
 
 ---
 
+### අවුරුදු නිවාඩු සමයේ ශ්‍රී පාද ස්ථානය
+
+*2024-04-16 10:55:19* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-නිවාඩු-සමයේ-ශ්‍රී-පාද-ස්ථානය/11-409099) · `si`
+
+දිවයිනේ විවිධ ප්‍රදේශවල සිට බෞද්ධ, හින්දු ඇතුළු අන්‍යාගමිකයින් රැසක් මෙසේ ශ්‍රීපාදස්ථානය බලා පැමිණෙමින් සිටින බව නල්ලතන්නිය පොලීසිය කියයි.
+
+දුම්රියෙන් හැටන් බලා පැමිණෙන වන්දනාකරුවන් සඳහා  විශේෂ බස් සේවාවක් හැටන් දුම්රිය ස්ථානයේ සිට නල්ලතන්නිය දක්වා හැටන් ලංගම ඩිපෝව මගින් යොදවා ඇති බව එම ඩිපෝවේ ධාවන අංශය පවසයි.
+
+කුලී බස් හා වෑන් රථ වලින්ද විශාල වන්දනාකරුවන් පිරිසක් නල්ලතන්නිය බලා පැමිණෙමින් සිටිති. නල්ලතන්නියේ පිහිටි සියළු රථ ගාල්, වන්දනාකරුවන් රැගෙන පැමිණි බස් රථවලින් පිරී යාම නිසා  නල්ලතන්නිය-මස්කෙළිය ප්‍රධාන මාර්ගයේ ලක්ෂපාන ප්‍රදේශය දක්වා කිලෝ මීටර් 03 ක පමණ දුරක් මාර්ගයේ දෙපස බස් හා වෑන් රථ ගාල් කිරිම සිදු කර තිබුණි.
+
+◼️
+
+[Data](articles/baaba466.json)
+
+---
+
 ### Salman is a big mess
 
 *2024-04-16 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195675) · `si`
@@ -1255,6 +1353,24 @@ Accordingly, as many as 11 trains departing Colombo Fort to Moratuwa, Panadura, 
 [Data](articles/7d0e6901.json)
 
 [Extended Data](ext_articles/7d0e6901.ext.json)
+
+---
+
+### இராஜாங்க அமைச்சர் பயணித்த கார் திடீரென தீப்பற்றியது
+
+*2024-04-16 09:31:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இராஜாங்க-அமைச்சர்-பயணித்த-கார்-திடீரென-தீப்பற்றியது/76-335980) · `ta`
+
+இராஜாங்க அமைச்சர் சாமர சம்பத் தசநாயக்க பயணித்த கார் பண்டாரவளை - ஹல்பே பகுதியில் வைத்து  இன்று அதிகாலை 12.45 மணியளவில் திடீரென தீப்பற்றி எரிந்து விபத்துக்குள்ளாகியுள்ளது.
+
+இராஜாங்க அமைச்சர் மஹியங்கனையிலிருந்து எல்ல பிரதேசத்திற்கு சென்று கொண்டிருந்த போதே தீ விபத்து ஏற்பட்டுள்ளது.
+
+எனினும், இந்த தீ விபத்தில் இராஜாங்க அமைச்சருக்கோ, சாரதிக்கோ காயங்கள் ஏதும் ஏற்படவில்லை.
+
+பண்டாரவளை மாநகரசபையின் தீயணைப்பு பிரிவினர், எல்ல பொலிஸார் மற்றும் பிரதேசவாசிகள் இணைந்து தீயை அணைக்கும் பணியில் ஈடுபட்டனர்.
+
+◼️
+
+[Data](articles/19a9f3e3.json)
 
 ---
 
@@ -2135,105 +2251,5 @@ As a result, the island’s fragile defences attracted a rash of free-lance merc
 [Data](articles/bbfbaf0a.json)
 
 [Extended Data](ext_articles/bbfbaf0a.ext.json)
-
----
-
-### India remains Sri Lanka’s most reliable ally, trusted partner: High Commissioner
-
-*2024-04-16 00:51:41* · [`dailyftlk`](https://www.ft.lk/opinion/India-remains-Sri-Lanka-s-most-reliable-ally-trusted-partner-High-Commissioner/14-760639) · `en`
-
-Highlight broadening bilateral cooperation boosted by India’s advancing national capabilities
-
-Describes relationship between India and Sri Lanka as uniquely fraternal, unlike any other
-
-Says cooperation between two countries driven by sense of duty, obligation rooted in India’s neighbourhood-first policy and SAGAR vision
-
-Outlines broadening scope of collaboration spanning to infrastructure, economic engagement, trade, investment, culture, education, tourism, security and defence
-
-Emphasis India’s strides in defence capability development as exports soar to $ 2. 6 b
-
-Assures to provide viable, affordable, and modern solutions for the Sri Lankan military, strengthening bilateral defence ties
-
-Indian High Commissioner to Sri Lanka Santosh Jha stressed that India will continue to be Sri Lanka’s most steadfast ally and a reliable, trustworthy partner.
-
-...
-
-[Data](articles/6ccfe305.json)
-
-[Extended Data](ext_articles/6ccfe305.ext.json)
-
----
-
-### Drowning in the reservoir
-
-*2024-04-16 00:45:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்த்தேக்கத்தில்-மூழ்கி-மூவர்-உயிரிழப்பு/175-335975) · `ta`
-
-Three people drowned in Victoria Reservoir, Kumbukandura, Teldeniya. A 37-year-old man from Aluthwella jumped in to save them.
-
-🟩
-
-Three people, including a woman drowned in the Victoria reservoir in Kumbukandura area in Teldeniya.
-
-The couple, who lived in the Tihariya area, had gone to their relative's home in the Teldeniya area, police said that the Victoria reservoir had been swimming in the reservoir.. The 23 -year -old husband and a 22 -year -old wife are drowned.
-
-A 37 -year -old man from Aluthwella, who jumped into the reservoir to save the drowning. (A)
-
-◼️
-
-[Data](articles/21718c31.json)
-
-[Extended Data](ext_articles/21718c31.ext.json)
-
----
-
-### Deflationary policies for debt repayment
-
-*2024-04-16 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Deflationary-policies-for-debt-repayment/172-280720) · `en`
-
-World Bank and the IMF are not unaware of the economic devastation caused by their policies
-
-The World Bank and the IMF Spring meetings begin this week in Washington. And with the worst sovereign debt crisis in decades, the pronouncements at these meetings will be monitored closely by many for the relief that debt-distressed countries in the Global South can expect. However, regardless of what is discussed and announced, the policies of the World Bank and the IMF will continue to safeguard the interests of global finance capital to the detriment of the social and economic lives of the people affected by the debt crisis.
-
-...
-
-[Data](articles/333c8a68.json)
-
-[Extended Data](ext_articles/333c8a68.ext.json)
-
----
-
-### CBK’s case against Sirisena and moral suitability of politicians
-
-*2024-04-16 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/CBKs-case-against-Sirisena-and-moral-suitability-of-politicians/172-280718) · `en`
-
-The Sri Lanka Freedom Party (SLFP) which ruled the country alone and under coalitions for the most part (40 years) of the 76 years since  independence is currently entangled in the second toughest leadership feud in its history. The first leadership tussle occurred in early 1980s, soon after the World’s first Prime Minister Sirimavo Bandaranaike was deprived of her civic rights.
-
-Interestingly, both conflicts involved a female member of the Bandaranaike family and a person by the name of Maithripala – the first tussle was between Sirimavo Bandaranaike and a former minister Maithripala Senanayake and the second between former Presidents Chandrika Bandaranaike Kumaratunga and Maithripala Sirisena. Both battles went to courts.
-
-...
-
-[Data](articles/4515bec5.json)
-
-[Extended Data](ext_articles/4515bec5.ext.json)
-
----
-
-### Prioritise building inclusive social protection system: ADB tells Sri Lanka
-
-*2024-04-16 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prioritise-building-inclusive-social-protection-system-ADB-tells-Sri-Lanka/108-280728) · `en`
-
-The Asian Development Bank (ADB) stressed that for Sri Lanka, the near-term priority during economic recovery is to lay institutional and structural frameworks for an inclusive social protection system.
-
-In the absence of a cohesive social protection strategy and governance mechanism, programmes in the past have been fragmented, with low coverage, poor targeting, high inclusion and exclusion errors and low payments, the ADB said in its annual flagship economic publication, the Asian Development Outlook (ADO) April 2024.
-
-In 2023, the government introduced the Aswesuma programme to consolidate over 25 state-sponsored cash-transfer programmes that were previously managed by several government agencies.
-
-The ADB asserted that this programme could be further strengthened with increased individual support, better forward planning and an effective graduation mechanism with technical and life skill training, better financial literacy education and enhanced social and financial inclusion.
-
-...
-
-[Data](articles/e50428af.json)
-
-[Extended Data](ext_articles/e50428af.ext.json)
 
 ---

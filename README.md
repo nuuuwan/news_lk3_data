@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 19:51:45**
+As of **2024-04-16 20:03:18**
 
 ## Newspaper Stats
 
-*Scraped **19,175** Articles*
+*Scraped **19,176** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,51 +20,65 @@ tamilmirrorlk | 2,239
 adaderanalk | 2,309
 virakesarilk | 2,866
 dailymirrorlk | 2,954
-adaderanasinhalalk | 3,123
+adaderanasinhalalk | 3,124
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,172 (100.0%) of 19,175 articles have been extended.
+19,175 (100.0%) of 19,176 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### மின்சாரம் தாக்கி பாலித தேவப்பெரும உயிரிழந்தார்!
+### Palitha Devapperuma dies after electricity!
 
-*2024-04-16 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181258) · `ta`
+*2024-04-16 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181258) · `ta`
 
-முன்னாள் இராஜாங்க அமைச்சர் பாலித தெவரப்பெரும மின்சாரம் தாக்கி உயிரிழந்துள்ளதாக நாகொட வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+Palitha Thevarapperuma, a former UNP MP and Minister of Wildlife, died from electrocution while connecting two electrical circuits.
 
-வீட்டில் இரண்டு மின்சுற்றுகளை இணைக்கச் சென்ற போது மின்சாரம் தாக்கியதில் பாதிக்கப்பட்ட அவர் நாகொட வைத்தியசாலையில் அனுமதிக்கப்பட்ட  நிலையில் உயிரிழந்துள்ளதாக வைத்தியசாலைப் பேச்சாளர் தெரிவித்தார்.
+🟩
 
-பாலித தெவரப்பெரும ஐக்கிய தேசியக் கட்சியின் களுத்துறை  மாவட்ட முன்னாள் நாடாளுமன்ற உறுப்பினரும் முன்னாள் வனவிலங்கு இராஜாங்க அமைச்சரும் ஆவார்.
+Former Secretary of State Palitha Thevarapperuma has died after being electrocuted, Nagoda Hospital sources said.
+
+The hospital spokesman said that he was admitted to the Nagoda Hospital when he was hit by electricity when he went to connect two electrical circuits in the house.
+
+Palitha Thevarapperuma is a former Member of Parliament of the United National Party (UNP) and former Minister of Wildlife.
 
 ◼️
 
 [Data](articles/3f4e1cee.json)
 
+[Extended Data](ext_articles/3f4e1cee.ext.json)
+
 ---
 
-### நுவரெலியாவில் சித்திரை வசந்த கால கொண்டாட்டம் : குதிரைப் பந்தயத்தில் உள்ளூர் 'ஜொக்கி' ரவிகுமார் சாதனை
+### Chithira Spring Celebration in Nuwara Eliya
 
 *2024-04-16 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181257) · `ta`
 
-நுவரெலியாவில் சித்திரை புத்தாண்டுடன் நடைபெற்றுவரும் வசந்தகால கொண்டாட்டத்தின் ஓர் அம்சமான குதிரைப் பந்தயத்தில் மிக முக்கியமான றோயல் டேர்வ் க்ளப் கவனர்ஸ் (ஆளுநர்) கிண்ண பந்தயப் போட்டியில் ஹியர் அண்ட் நவ் குதிரையை செலுத்திய லோகேந்திரன் ரவிகுமார் வெற்றிபெற்று வரலாறு படைத்தார்.
+Lokendran Ravikumar from Jogi village won the Governor's Bowl Racing at the Nuwara Eliya Royal Tarve Club's Spring New Year's celebration, making the village and district proud.
 
-குதிரைப்பந்தயத் திடல் (ரேஸ் கோஸ்) கிராமத்தைச் சேர்ந்த குதிரையோட்டி (ஜொக்கி) லோகேந்திரன் ரவிகுமார் மிக முக்கிய குதிரைப் பந்தயப் போட்டியில் வெற்றிபெற்றதன் மூலம் கிராமத்திற்கும் நுவரெலியா மாவட்டத்திற்கும் பெருமை சேர்த்துக் கொடுத்துள்ளார்.
+🟩
 
-உள்நாட்டு மற்றும் வெளிநாட்டு சுற்றுலா பயணிகளை கவரும்வகையில் நுவரெலியா றோயல் டேர்வ் கிளப்பினால் 6 குதிரைப் பந்தயப் போட்டிகள் ஞாயிற்றுக்கிழமை (15) நடத்தப்பட்டது.
+Lokendran Ravikumar, who paid a Her and knight horse in the Royal Tarve Club Gavamen (Governor) Bowl Racing, was a part of the Spring New Year's celebration of the Spring New Year in Nuwara Eliya.
 
-அவற்றில் மிக முக்கியமான கவர்னர்ஸ் (ஆளுநர்) கிண்ண குதிரைப் பந்தயப் போட்டியில் ஹியர் அண்ட் நவ் குதிரை வெற்றிபெற்றதுடன் அந்தக் குதிரையை லோகேந்திரன் ரவிக்குமார் செலுத்தினார்.
+Lokendran Ravikumar, a horse -rise (Jogi) village in the village of Race Goos, has made the village and the Nuwara Eliya district proud by winning the most important horse racing competition.
 
-அப் போட்டியில் றோயல் கிறிஸ்டல் குதிரையை செலுத்திய பி. எஸ். கவிராஜ் 2ஆம் இடத்தையும் வெஸ்டன் விண்ட் குதிரையை செலுத்திய பி. விக்ரம் 3ஆம் இடத்தையும் பெற்றனர்.
+The Nuwara Eliya Royal Tarve Club was held on Sunday (15) to attract domestic and foreign tourists.
 
-...
+The most important governors (governor) bowled horse race won the Hear and knight horse and Lokendran Ravikumar paid the horse.
+
+Royal Crystal Horse Payed B.. S.. Gaviraj Payed 2nd and Weston Wind Horse. Vikram was also ranked 3rd.
+
+Minister of Youth Affairs, Sports and Tourism Harin Fernando participated as the chief guest and presented the prizes.
+
+◼️
 
 [Data](articles/5b1a2a48.json)
+
+[Extended Data](ext_articles/5b1a2a48.ext.json)
 
 ---
 
@@ -87,6 +101,8 @@ It must be stated that CSK found Pathirana before the national selectors even co
 ...
 
 [Data](articles/adba59ce.json)
+
+[Extended Data](ext_articles/adba59ce.ext.json)
 
 ---
 
@@ -149,6 +165,18 @@ Sarvodaya has been active throughout Sri Lanka since 1958 despite numerous hards
 [Data](articles/322e3fad.json)
 
 [Extended Data](ext_articles/322e3fad.ext.json)
+
+---
+
+### පාලිත තෙවරප්පෙරුම ජීවිතක්ෂයට
+
+*2024-04-16 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195695) · `si`
+
+හිටපු නියෝජ්‍ය අමාත්‍යවරයෙකු වන පාලිත තෙවරප්පෙරුම මහතා අද (16) පස්වරුවේ අභාවප්‍රාප්ත වූ බව පවුලේ ඥාතීන් පවසයි.
+
+◼️
+
+[Data](articles/9fd2ab64.json)
 
 ---
 
@@ -2327,33 +2355,5 @@ Commenting on this, Media Director of the Ministry of Defense Colonel Nalin said
 [Data](articles/27bee3eb.json)
 
 [Extended Data](ext_articles/27bee3eb.ext.json)
-
----
-
-### Iran's President visits Sri Lanka
-
-*2024-04-16 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/181192) · `ta`
-
-Iran's President Ibrahim Raisi visits Sri Lanka on 24th to open major water and energy projects, including Uma Oya Multipurpose Project and irrigation tunnel with two dams, two large water stations, and aims to improve irrigation, carry water, and generate electricity.
-
-🟩
-
-Iranian President Ibrahim Raisi will visit Sri Lanka on the 24th of this month to open several major water and energy projects.
-
-The President of Iran will also open the Uma Oya Multipurpose Project and 25 kilometers of irrigation tunnel, which includes two dams, Diaraba and Buhulpola.
-
-The project also constructed two large water stations with a capacity of 60 MW each.
-
-The Uma Oya Multi -Purpose Project is considered one of the largest technical and engineering service projects in Iranian companies in Sri Lanka.
-
-The project is located 200 kilometers from Colombo city in the southeast of Sri Lanka.
-
-The project is to improve the irrigation of 5,000 acres of agricultural land, carry 145 million cubic meters of water and generate 290 MW of electricity a year.
-
-◼️
-
-[Data](articles/2075ec8f.json)
-
-[Extended Data](ext_articles/2075ec8f.ext.json)
 
 ---

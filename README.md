@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 18:10:22**
+As of **2024-04-16 18:22:02**
 
 ## Newspaper Stats
 
-*Scraped **19,153** Articles*
+*Scraped **19,156** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ newsfirstlk | 363
 islandlk | 1,029
 dailyftlk | 1,040
 economynextcom | 1,072
-adalk | 1,594
+adalk | 1,595
 tamilmirrorlk | 2,236
 adaderanalk | 2,305
 virakesarilk | 2,860
-dailymirrorlk | 2,950
+dailymirrorlk | 2,952
 adaderanasinhalalk | 3,122
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,153 (100.0%) of 19,153 articles have been extended.
+19,153 (100.0%) of 19,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### Tesla laying off more than 10% of staff globally as sales fall
+
+*2024-04-16 18:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tesla-laying-off-more-than-10-of-staff-globally-as-sales-fall/108-280783) · `en`
+
+Berlin, April 15 (Reuters) - Tesla, opens new tab is laying off more than 10% of its global workforce, an internal memo seen by Reuters on Monday shows, as it grapples with falling sales and an intensifying price war for electric vehicles (EVs).
+
+"About every five years, we need to reorganize and streamline the company for the next phase of growth," CEO Elon Musk commented in a post on X. Two senior leaders, battery development chief Drew Baglino and vice president for public policy Rohan Patel, also announced their departures, drawing posts of thanks from Musk although some investors were concerned.
+
+Musk last announced a round of job cuts in 2022, after telling executives he had a "super bad feeling" about the economy. Still, Tesla headcount has risen from around 100,000 in late 2021 to over 140,000 in late 2023, according to filings with U.S. regulators.
+
+...
+
+[Data](articles/21e56f29.json)
+
+---
+
+### President at Court Lodge Estate
+
+*2024-04-16 18:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/President-at-Court-Lodge-Estate/110-280782) · `en`
+
+President Ranil Wickremesinghe visited the Court Lodge Estate, owned by the Udupusellawa Plantation Company in Nuwara Eliya this morning (16) to explore opportunities for the revival of the tourism industry around the picturesque hills of Nuwara Eliya. Notably, the President embarked on this journey by traversing the Pekoe Trail.
+
+◼️
+
+[Data](articles/1feeef4d.json)
+
+---
 
 ### Court of Appeal orders re-allocation of Haj quotas
 
@@ -1119,6 +1147,22 @@ Graphic videos of the attack - and the aftermath - spread like wildfire on socia
 [Data](articles/8441b032.json)
 
 [Extended Data](ext_articles/8441b032.ext.json)
+
+---
+
+### අනුලා චෛත්‍යයේ සංවර්ධන ගිවිසුම අවලංගු කරන්නැයි මල්වතු මහ නාහිමි ජනපතිගෙන් ඉල්ලති
+
+*2024-04-16 12:30:43* · [`adalk`](https://www.ada.lk/breaking_news/අනුලා-චෛත්‍යයේ-සංවර්ධන-ගිවිසුම-අවලංගු-කරන්නැයි-මල්වතු-මහ-නාහිමි-ජනපතිගෙන්-ඉල්ලති/11-409101) · `si`
+
+ඓතිහාසික මිහින්තලේ රජමහා විහාරස්ථානයට අයත්, අනුලා චෛත්‍යයේ ප්‍රතිසංස්කරණය කිරීමට අදාළව බුද්ධ ශාසන හා සංස්කෘතික කටයුතු අමාත්‍යවරයා සහ වෙනත් හිමිනමක් අතර ඇති කර ගත් බව කියන, දස වසරක ගිවිසුම අවලංගු කරන ලෙස ඉල්ලා, මල්වතු මහා විහාර පාර්ශවයේ මහනායක අති පූජ්‍ය තිබ්බටුවාවේ ශ්‍රී  සිද්ධාර්ථ සුමංගල නාහිමිපාණන් විසින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත ලිපියක් යොමු කර තිබේ.
+
+ලක්දිව භික්‍ෂුණී ශාසනය ආරම්භක ස්ථානය ලෙස සැලකෙන ඓතිහාසික වටිනාකමකින් යුත් මිහින්තලේ  අනුලා සෑය, මිහින්තලා රජමහා විහාරස්ථානය යටතේ පාලනය වන විහාරස්ථානයක් බවත්, එහි භාරකාරත්වය මිහින්තලා රජමහා විහාරාධිපති පූජ්‍ය වලවා හැංගුණ වැවේ ධම්මරතන හිමිපාණන් යටතේ පවතින බවත් මෙම ලිපියෙන් දන්වා තිබේ.
+
+එහෙත් මේ වන විට මහා නායක හිමිවරුන්ගේන් හා මිහින්තලා රජමහා විහාරාධිපති හිමියන්ගේ අනු දැනුමකින් තොරව එම අනුලා සෑය සංවර්ධනය කිරීම සඳහා බුද්ධ ශාසන හා සංස්කෘතික කටයුතු අමාත්‍යවරයා සහ වෙනත් හිමිනමක් දස වසරක ගිවිසුම් ගතව ඇති බවත් මහානායක හිමිපාණන් ජනාධිපතිවරයා වෙත යවා ඇති ලිපියේ සදහන්  වේ.
+
+...
+
+[Data](articles/a51989b7.json)
 
 ---
 
@@ -2269,75 +2313,5 @@ The fire brigade of the Bandarawela Municipal Council, all the police and the re
 [Data](articles/19a9f3e3.json)
 
 [Extended Data](ext_articles/19a9f3e3.ext.json)
-
----
-
-### The car that the diplomatic minister traveled was suddenly set on fire
-
-*2024-04-16 09:31:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜாங்க-அமைச்சர்-பயணித்த-கார்-திடீரென-தீப்பற்றியது/175-335980) · `ta`
-
-Diplomatic minister's car caught fire in Bandarawela-Halbey, en route from Mahiyanganaya to Ella, at 12.45 am. No injuries. Fire extinguished by local fire brigade, police, and residents.
-
-🟩
-
-State Minister Samara Sampath Dasanayake was traveling in Bandarawela - Halbey area at around 12.45 am this morning.
-
-The fire broke out while traveling from the Minister of State Mahiyanganaya to Ella.
-
-However, the fire did not cause any injuries to the Minister of State or the driver.
-
-The fire brigade of the Bandarawela Municipal Council, all the police and the residents of the area worked to extinguish the fire.
-
-◼️
-
-[Data](articles/e1dde850.json)
-
-[Extended Data](ext_articles/e1dde850.ext.json)
-
----
-
-### Final Talk with Backed Bondslong Personnel
-
-*2024-04-16 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181190) · `ta`
-
-Sri Lanka's debt restructuring, including bilateral agreements, is nearing completion by June, with negotiations progressing. The National Security Advisor, Sagala Ratnayake, discussed this with media heads. Sri Lanka is negotiating with official credit providers, excluding China, to sign agreements. The resolution of whether to sign a common agreement or separate bilateral agreements is under investigation. Negotiations with bail-owners have led to some solutions, but compliance is due by June, impacting Sri Lanka's relations with the IMF. India and Japan have shown favorable compliance, but China requires separate negotiations.
-
-🟩
-
-The President's Office and National Security Advisor, Sagala Ratnayake, said that all bilateral restructuring in Sri Lanka's debt renovation will be completed by the end of June and that the negotiations with the Banking Personnel Committee have moved towards the final stage.
-
-National Security Advisor Sagala Ratnayake said this during a special discussion held at the Presidential Secretariat on Monday with the head teachers of the Media Division.
-
-Bilateral restructuring remains in Sri Lanka's debt restructuring. The official credit providers' group contains all other parties except China.
-
-In particular, Sri Lanka's bilateral debt systems have been unofficially reached with the official credit providers, but they have not yet been signed as official contracts.
-
-...
-
-[Data](articles/b61ad9df.json)
-
-[Extended Data](ext_articles/b61ad9df.ext.json)
-
----
-
-### State Minister Samara Sampath Dasanayake's vehicle
-
-*2024-04-16 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181191) · `ta`
-
-State Minister Samara Sampath Dasanayake's vehicle caught fire in Bandarawela Halbey, en route from Mahiyanganaya to Ella, around 12.45 am on 16th. Firefighters, police, and residents assisted. No injuries reported.
-
-🟩
-
-The incident took place in the Bandarawela Halbey area at around 12.45 am today (16).
-
-The fire broke out while traveling from the Minister of State Mahiyanganaya to Ella.
-
-Police said that the fire had not been injured by the fire and that the fire brigade of the Bandarawela Municipal Council, all police and residents of the area were involved in the fire.
-
-◼️
-
-[Data](articles/fc9cef4f.json)
-
-[Extended Data](ext_articles/fc9cef4f.ext.json)
 
 ---

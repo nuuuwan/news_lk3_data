@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 16:18:15**
+As of **2024-04-16 16:33:49**
 
 ## Newspaper Stats
 
-*Scraped **19,137** Articles*
+*Scraped **19,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,130 @@ dailyftlk | 1,040
 economynextcom | 1,072
 adalk | 1,592
 tamilmirrorlk | 2,236
-adaderanalk | 2,303
-virakesarilk | 2,853
-dailymirrorlk | 2,948
-adaderanasinhalalk | 3,119
+adaderanalk | 2,304
+virakesarilk | 2,856
+dailymirrorlk | 2,949
+adaderanasinhalalk | 3,120
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,135 (100.0%) of 19,137 articles have been extended.
+19,137 (100.0%) of 19,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### වතු සේවක වැටුප ගැන සොයාබලන බවට ජනපතිගෙන් පොරොන්දුවක්
+
+*2024-04-16 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195689) · `si`
+
+වතු සේවකයින්ගේ දෛනික වැටුප සම්බන්ධයෙන් තමා සොයා බලන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ඒ සම්බන්ධයෙන් සමාගම් සහ වෘත්තීය සමිතිවල අදහස් සොයා බලන බවද ජනපතිවරයා පැවසීය.
+
+ඔහු මේ බව පැවසුවේ අද (16) පෙරවරුවේ නුවරඑළිය උඩුපුස්සැල්ලාව වැවිලි සමාගමට අයත් කෝට් ලොජ් වතු යායේ සංචාරයක නිරතවූ අවස්ථාවේදී හමුවූ ජනතාව සිදුකළ විමසීමකට පිළිතුරු දෙමිනි.
+
+"මම අහන්න යනවා යුනියන්ස් වලින් මොකක්ද කරන්නේ කියලා. මම හිතන්නේ දැනට පොරොන්දු වෙලා තියෙන දේ ගන්න එක හොඳයි. පස්සේ ඉඩම් ගැන...අක්කර 2-3 ඔයගොල්ලන්ට දෙන එකයි තියෙන්නේ. යුනියන්ස් වලින් ඉල්ලුවා 1500ක්. මම හිතන්නේ එකෙන් 1000ක් දෙන්න ඒගොල්ලෝ ලෑස්තියි. අනිත් එක ඉන්සේන්ටිව් එකට ගන්න පුළුවන්. මම අහන්නම් මොකද වුණේ කියලා."
+
+◼️
+
+[Data](articles/cb3ae643.json)
+
+---
+
+### நுவரெலியா லிந்துலை சிறுவர் பராமரிப்பு நிலையத்தில் தீ விபத்து
+
+*2024-04-16 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181241) · `ta`
+
+நுவரெலியா லிந்துலை பொலிஸ் பிரிவுக்குட்பட்ட கிறேட்வெஸ்டன் கல்கந்தை தோட்ட பிரிவில் தீ விபத்து சம்பவம் ஒன்று இன்று செவ்வாய்கிழமை (16) அதிகாலை 02 மணியளவில் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த தீ விபத்து சம்பவத்தில் கல்கந்தை தோட்டத்தில் இயங்கிய வரும் பிள்ளைகள் அபிவிருத்தி நிலையம்  திடீர் தீ விபத்துக்கு உள்ளாகியுள்ளதாக சம்பவம் தொடர்பில் விசாரணை செய்து வரும் லிந்துலை பொலிஸார் தெரிவித்தனர்.
+
+மேலும் இந்த தீ விபத்து சம்பவம் மின்சார ஒழுக்கு காரணமாகவா அல்லது யாரேனும் தீ வைத்துள்ளனரா என்ற கோணத்தில் பொலிஸார் விசாரணைகளை செய்து வருகின்றனர்.
+
+அதேநேரத்தில் குறித்த பிள்ளைகள் அபிவிருத்தி நிலையம் மக்கள் குடியிருப்பு பகுதிக்கு அருகில் காணப்படுகிறது.
+
+தீ விபத்து இடம்பெற்ற சமயத்தில் பாரிய வெளிச்சமும் புகை நாற்றமும் வருவது உணர்ந்த அருகில் வசிக்கும் மக்கள் வீட்டு விட்டு வெளியில் பதறி கொண்டு வந்து தீயை கட்டுப்பாட்டுக்குள் கொண்டு வந்ததாக தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/e536a5cf.json)
+
+---
+
+### சட்டவிரோதமாக காணிக்குள் நுழைந்து பெண்ணின் 14 பற்களை உடைத்த பொலிஸ் கான்ஸ்டபிள் கைது!
+
+*2024-04-16 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/181239) · `ta`
+
+திவுல்வெவ பிரதேசத்தில் காணி ஒன்றில் சட்டவிரோதமாக  உள்நுழைந்து அந்த காணியில் வசிப்பவரை தாக்கி பதினான்கு பற்களை உடைத்த சம்பவம் தொடர்பில் வந்தேகத்தில் பொலிஸ் கான்ஸ்டபிள் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+இதனையடுத்து இவர் கெப்பித்திகொல்லவ நீதிவான் நீதிமன்றில்  கடந்த (13) ஆம் திகதி ஆஜர்படுத்தியதன் பின்னர் எதிர்வரும் 22 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளதாக கபுகொல்லேவ பொலிஸார் தெரிவித்தனர்.
+
+தாக்குதலுக்குள்ளான பெண் அநுராதபுரம் போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வருவதோடு, பல் வைத்தியர்கள் அவரை பரிசோதித்து பதினான்கு பற்கள் வாயில் நீண்டு கொண்டிருப்பதாகவும்,பற்களை சரிசெய்வதற்கு சத்திரசிகிச்சை மேற்கொள்ளுமாறு பரிந்துரைத்துள்ளதாகவும் பொலிஸ் வட்டாரங்களிலிருந்து தெரியவந்துள்ளது.
+
+40  வயதான பெண் ஒருவரே இவ்வாறு தாக்குதலுக்குள்ளான  இவருடைய மகன் செய்த முறைப்பாட்டினையடுத்து  சந்தேகத்தின் அடிப்படையில் பொலிஸ் கான்ஸ்டபிளும் அவரது சகோதரர் ஒருவரும் கைது செய்யப்பட்டுள்ளதாக கபுகொல்லாவ பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/93b43e1c.json)
+
+---
+
+### Lightning and unusually heavy rain in Pakistan kill at least 39
+
+*2024-04-16 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98665/lightning-and-unusually-heavy-rain-in-pakistan-kill-at-least-39) · `en`
+
+At least 39 people have been killed in Pakistan after days of unusually heavy rains battered the country’s southwest.
+
+Some of those killed were farmers struck by lightning while harvesting wheat, authorities said.
+
+Images online show swathes of farmland engulfed by rainwater. Flash floods have also disrupted power supplies and transportation networks.
+
+Pakistan has experienced an increase in extreme weather events, as it grapples with the impacts of climate change.
+
+In 2022, parts of the country were completely submerged by unprecedented flooding, killing more than 1,700 people and injuring thousands. Millions were left homeless and lacked clean drinking water for months after.
+
+Some of the areas affected by the 2022 floods, including Khyber Pakhtunkhwa and Balochistan, are being impacted again by the recent storms.
+
+With more rain expected in the coming days, Pakistan’s National Disaster Management Authority has also warned of landslides and flash floods.
+
+...
+
+[Data](articles/45479934.json)
+
+---
+
+### Maxwell makes surprise request ahead of T20 World Cup
+
+*2024-04-16 16:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maxwell-makes-surprise-request-ahead-of-T20-World-Cup/108-280777) · `en`
+
+April 16 - Experienced Australia all-rounder Glenn Maxwell has revealed he asked to sit out a recent Indian Premier League (IPL) match to give himself a 'mental and physical break' ahead of June's ICC Men's T20 World Cup.
+
+Maxwell watched on from the sidelines as his Royal Challengers Bengaluru (RCB) fell to a 25-run loss to Sunrisers Hyderabad on Monday, with the Australia star admitting after the match that he had asked team management to omit him from the side.
+
+The 35-year-old has made an indifferent start to the ongoing IPL season with just 32 runs from six innings and the dip in form has seen the highly-rated RCB outfit manage just one win from seven matches and sees them languish at the bottom of the IPL table.
+
+With Maxwell set to play a major role in Australia's tilt for T20 World Cup success in the USA and Caribbean in June, the veteran said he requested to team management that he be dropped from the side so he could reset ahead of the 20-over showcase.
+
+...
+
+[Data](articles/c9a1cfeb.json)
+
+---
+
+### பரந்த கோட்பாடுகளில் இருந்து நடைமுறையில் பிரச்சினைகள் தீர்வுவரை......!
+
+*2024-04-16 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/181236) · `ta`
+
+கடந்த காலத்துடன் ஒப்பிடும்போது இந்த தடவை புத்தாண்டு கொண்டாட்டங்கள் களைகட்டவில்லை. புத்தாண்டுப் பிறப்புடன் பாரம்பரியமாக இணைந்ததாகக் காணப்படுகின்ற பட்டாசு சத்தங்களும் வாணவேடிக்கைகளும் கடந்த காலத்தையும் விட மிகவும் குறைந்ததாகவே இருந்தன.
+
+◼️
+
+[Data](articles/7349543a.json)
+
+---
 
 ### Ecomoffs prepare for a group of employees home
 
@@ -79,8 +189,6 @@ The government of Sri Lanka has concluded the initial restricted discussions wit
 During the discussions, which spanned over the past three weeks (Restricted Period), Sri Lanka was joined by its legal and financial advisors Clifford Chance and Lazard, respectively, while the restricted members of the Steering Committee were joined by the Group’s legal and financial advisors, White & Case and Rothschild & Co., respectively.
 
 The Steering Committee as a whole comprises ten of the largest members of the Group, with the Group controlling approximately 50% of the aggregate outstanding amount of ISBs.
-
-In a statement, Sri Lanka’s Finance Ministry said that the parties failed to come to an agreement on restructuring terms, despite the constructive discussions.
 
 ...
 
@@ -588,25 +696,31 @@ A young man suspected of cutting a girlfriend in a land that was a little farthe
 
 ---
 
-### කලුතර ලැගුම්හලක පදංචිව සිටි රුසියන් කතක් මරුට
+### A person killed in a district lodge
 
 *2024-04-16 13:09:08* · [`adalk`](https://www.ada.lk/breaking_news/කලුතර-ලැගුම්හලක-පදංචිව-සිටි-රුසියන්-කතක්-මරුට/11-409103) · `si`
 
-කළුතර ලැගුම්හලක තාවකාලිකව පදිංචිව සිටි රුසියන් ජාතික කාන්තාවක කාමරයේ ඇඳක් මත මියගොස් සිටියදී සොයාගත් බව කළුතර උතුර පොලිසිය පවසයි.
+A 74-year-old Russian woman, Nandasda Bodner, was found dead in a lodge in Kalutara North. She had been in Sri Lanka for 11 months. Investigations led by OIC Chief Inspector Damith Jayatilake are ongoing.
 
-මෙසේ මියගොස් ඇත්තේ නඩීස්ඩා බොඩ්නර් නමැති 74 හැවිරිදි කාන්තාවක බව පොලිසිය කීය.
+🟩
 
-මාස 11 කට පමණ පෙර දිවයිනට පැමිණි ඇති කාන්තාව එම නිවාඩු නිකේතනය කුලියට ගෙන පදිංචිව සිට ඇති බවත් පොලිසිය සඳහන් කරයි.
+Kalutara North Police states that a Russian woman has been deceased in a bed of a lodge in Kalutara.
 
-ලැගුම්හල හිමි කාන්තාව අද (16) කළ පැමිණිල්ලක් අනුව පරීක්ෂණ ආරම්භ කළ බවද පොලිසිය සඳහන් කරයි.
+The deceased has been identified as a 74 year old woman named Nandasda Bodner.
 
-කළුතර අපරාධ ස්ථාන පරීක්ෂණාගාර නිලධාරීන් පරීක්ෂණ සිදුකර ඇති අතර, මහේස්ත්‍රාත් පරීක්ෂණයෙන් අනතුරුව මෘත දේහය කළුතර ශික්ෂණ රෝහලට රැගෙන යාමට නියමිතව බව පොලිසිය සඳහන් කරයි.
+The woman who had arrived in the island about 11 months ago, the resort has been rented.
 
-ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක දමිත් ජයතිලක මහතාගේ ප්‍රධානත්වයෙන් පරීක්ෂණ පවත්වති.
+The woman with the lodge owned woman has commenced investigations today (16).
+
+Kalutara Criminal Laboratory Officers have been investigated and the body is to be taken to the Kalutara Teaching Hospital following the magisterial inquiry.
+
+OIC Chief Inspector Damith Jayatilake
 
 ◼️
 
 [Data](articles/47fcc524.json)
+
+[Extended Data](ext_articles/47fcc524.ext.json)
 
 ---
 
@@ -2169,149 +2283,5 @@ The fire brigade of the Bandarawela Municipal Council has taken steps to resign 
 [Data](articles/b4272332.json)
 
 [Extended Data](ext_articles/b4272332.ext.json)
-
----
-
-### Father who supported the son
-
-*2024-04-16 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195668) · `si`
-
-A 60-year-old father, supporting his son in a village run, was found unconscious and taken to Pelmadulla Hospital.
-
-🟩
-
-The deceased has been identified as a father who was involved in encouraging a son participating in the village running through the Pelgala area.
-
-The victim was a 60-year-old resident of the area.
-
-The father of the deceased has gone to support and assist his protection and assistance to his protection and assistance.
-
-At the time the 60-year-old father had been tired of being padded, he was revealed to the Pelmadulla Hospital.
-
-◼️
-
-[Data](articles/c9fbfbb5.json)
-
-[Extended Data](ext_articles/c9fbfbb5.ext.json)
-
----
-
-### Botal bodies of a boat at Braziliya Beach
-
-*2024-04-16 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195667) · `si`
-
-A boat found off Brazil's northeast coast contained nearly 20 bodies, believed to be from the Caribbean, not Brazil. Brazilian authorities are investigating.
-
-🟩
-
-Foreign media reports that a large number of bodies were found in a boat beyond the beach in the northeast Brazil.
-
-These reports further stated that nearly 20 bodies are assumed that it is there.
-
-Due to death, the Brazilian authorities have cited the Brazilian authorities that they are unaware of the delegation of the boat.
-
-Investigators who assumed that the group cannot be Brazilians say they can be mostly from the Caribbean.
-
-◼️
-
-[Data](articles/cafb1642.json)
-
-[Extended Data](ext_articles/cafb1642.ext.json)
-
----
-
-### Life in the desk
-
-*2024-04-16 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195666) · `si`
-
-A 65-year-old resident of Kotiyagala died from lightning while working in a paddy field in Ethimale, police reported on 15th.
-
-🟩
-
-Police say that a person has died after lightning in the Kotiyagala area in Ethimale, police said.
-
-Police say that a person who was working a paddy field was killed.
-
-The incident was reported yesterday (15th), police said.
-
-The deceased has been identified as a 65 year old resident of Kotiyagala.
-
-◼️
-
-[Data](articles/8105da3b.json)
-
-[Extended Data](ext_articles/8105da3b.ext.json)
-
----
-
-### Sri Lanka could get hit from a disorderly US tumble
-
-*2024-04-16 06:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-could-get-hit-from-a-disorderly-us-tumble-158583/) · `en`
-
-ECONOMYNEXT – Sri Lanka is recovering fast but the country could get hit from an unravelling of advanced economies, particularly the United States, which is skating on very thin ice, after exceptionally bad monetary policy, which has destroyed fiscal metrics as well.
-
-The US was running bad to atrocious monetary policy since 2001, when Ben Bernanke misled Alan Greenspan into printing money to run an 8-year cycle, firing a commodity and housing bubble which collapsed after rates were kept at around 5 percent for about a year.
-
-That was the end of the Great Moderation started by Paul Volcker and continued with some skill under Greenspan, until the Fed was infected by Bernanke, the depression scholar. Keynes was also a ‘depression scholar’, in essence.
-
-Gold prices fell from 800 to 284 dollars an ounce under Volcker-Bernanke, until Bernanke cooked up a false deflation scare with a healthy banking system and started to reverse it, firing the housing bubble and the Great Recession in its wake.
-
-...
-
-[Data](articles/9d4d704d.json)
-
-[Extended Data](ext_articles/9d4d704d.ext.json)
-
----
-
-### IPL records new competition
-
-*2024-04-16 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195665) · `si`
-
-SRH defeated RCB by 25 runs in IPL, scoring 287/3 in 20 overs. SRH's 22 sixes set a new IPL record.
-
-🟩
-
-The RCB team and SRH between the IPL and the SRH, the world was focused on the world's focus.
-
-The world's most popular tournament in the Twenty20 cricket is the renewal of IPL yesterday.
-
-The SRH won the RCB by 25 runs by 25 runs.
-
-SRH scored 287 runs for the loss of 03 wickets in their 20 overs.
-
-Three weeks ago, the SRH team was renewed by the SRH and the 137 runs for the loss of 03 wickets against Mumbai Indians.
-
-The RCB captained 26 runs for the loss of 07 wickets.
-
-Accordingly, 549 runs in the entire match were the highest scorers in a 20 overs.
-
-The SRH team took 22 sixes in the match, which was the highest six beaten in an IPL match.
-
-The match was hit with 38 hits and was also the highest six beat recorded in any overs.
-
-◼️
-
-[Data](articles/21c3317a.json)
-
-[Extended Data](ext_articles/21c3317a.ext.json)
-
----
-
-### MPs request lower-priced vehicle permits ahead of presidential election
-
-*2024-04-16 06:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MPs-request-lower-priced-vehicle-permits-ahead-of-presidential-election/108-280736) · `en`
-
-Colombo, April 16 (Daily Mirror) - A group of MPs from both the ruling party and the opposition have urged the speaker and government officials to provide vehicle permits at lower prices if the previously issued duty-free licenses cannot be granted before the upcoming presidential election.
-
-Sources said that the MPs plan to address this issue in the House Committee of Parliament in the near future.
-
-Several MPs from both political factions have highlighted to parliamentary leaders the significant challenge posed by the lack of vehicles for conducting political activities during the forthcoming elections. They have emphasized that several newly elected MPs do not possess any vehicles.
-
-...
-
-[Data](articles/26f2132d.json)
-
-[Extended Data](ext_articles/26f2132d.ext.json)
 
 ---

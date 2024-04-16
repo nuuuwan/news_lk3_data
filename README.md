@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 11:33:46**
+As of **2024-04-16 11:52:55**
 
 ## Newspaper Stats
 
-*Scraped **19,073** Articles*
+*Scraped **19,085** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,202 @@ bbccomsinhala | 199
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,027
-dailyftlk | 1,039
+dailyftlk | 1,040
 economynextcom | 1,070
 adalk | 1,586
-tamilmirrorlk | 2,228
+tamilmirrorlk | 2,231
 adaderanalk | 2,296
-virakesarilk | 2,841
-dailymirrorlk | 2,934
-adaderanasinhalalk | 3,107
+virakesarilk | 2,845
+dailymirrorlk | 2,936
+adaderanasinhalalk | 3,109
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,073 (100.0%) of 19,073 articles have been extended.
+19,073 (99.9%) of 19,085 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### மின்னல் தாக்கி ஒருவர் உயிரிழப்பு
+
+*2024-04-16 11:29:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கி-ஒருவர்-உயிரிழப்பு/175-335986) · `ta`
+
+வயலில் வேலை செய்து கொண்டிருந்த நபர் ஒருவரே இவ்வாறு மின்னல் தாக்கி உயிரிழந்துள்ளதாக பொலிஸார் கூறியுள்ளனர்.
+
+இந்த சம்பவம் நேற்று (15) பிற்பகல் இடம்பெற்றுள்ளதுடன், உயிரிழந்தவர் 65 வயதுடைய கெகெலன, கொட்டியாகல பிரதேசத்தைச் சேர்ந்தவராவார்.
+
+◼️
+
+[Data](articles/a2f1f9db.json)
+
+---
+
+### இலங்கையில் பயிரிடப்படவுள்ள உலகின் சுவையான அன்னாசி
+
+*2024-04-16 11:26:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-பயிரிடப்படவுள்ள-உலகின்-சுவையான-அன்னாசி/175-335985) · `ta`
+
+உலகின் மிகவும் பிரபலமான அன்னாசி வகைகளில் ஒன்றான MD 2 அல்லது Super Sweet pine apple அன்னாசிப்பழத்தை இலங்கையில் பயிரிடுவதற்கு உடனடியாக பரிந்துரைக்குமாறு விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர விவசாய திணைக்களத்துக்கு ஆலோசனை வழங்கியுள்ளார்.
+
+இந்த அன்னாசி வகைக்கு உலக சந்தையில் அதிக கிராக்கி இருந்தாலும், அந்த அன்னாசி வகையை இலங்கையில் பயிரிட இதுவரை நடவடிக்கை எடுக்கப்படவில்லை.
+
+இந்த நிலையில், குறித்த  அன்னாசி வகையை இலங்கையில் பயிரிடும் பரீட்சார்த்த நடவடிக்கை வெற்றியளித்துள்ளதாக அவர் கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/0e1a334d.json)
+
+---
+
+### හක්මන ඝාතකයා අත්අඩංගුවට
+
+*2024-04-16 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195677) · `si`
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ සැකකරු 46 හැවිරිදි වියේ පසුවන හක්මන කහටගහකොරටුව ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+හක්මන කහටගහකොරටුව ප්‍රදේශයේ දී 21 හැවිරිදි තරුණයෙකු ඊයේ තියුණු ආයුධයකින් පහර දී ඝාතනය කර තිබුණි.
+
+පැරණි අමනාපයක් මත ඔහුගේ බාප්පා විසින් එම ඝාතනය සිදුකර ඇති බව සිදුකළ විමර්ශනවලදී අනාවරණය වී ඇත.
+
+කෙසේවෙතත් එම ඝාතනයට සම්බන්ධ සැකකරු ප්‍රදේශයෙන් පළාගොස් ඇති අතර ඊයේ රාත්‍රියේ හක්මණ ගල්කන්ද ප්‍රදේශයේ දී ඔහු අත්අඩංගුවට ගත් බව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/ba140ddd.json)
+
+---
+
+### காதலியையும் காதலியின் தாயாரையும் கூரிய ஆயுதத்தால் தாக்கி விட்டு மாய்த்துக் கொண்ட நபர்!
+
+*2024-04-16 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181211) · `ta`
+
+காதலியையும் காதலியின் தாயாரையும் கூரிய ஆயுதத்தால் வெட்டித் தாக்கி விட்டு சந்தேகநபரும் தூக்கிட்டு உயிரிழந்துள்ளார். இதன்போது இளவாலை பொலிஸ் பிரிவிற்குட்பட்ட பனிப்புலம் பகுதியில் வசித்து வந்த குணத்திலகம் பிரணவன் (வயது 35) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த நபர் இன்று செவ்வாய்க்கிழமை அதிகாலை 4.00 மணியளவில் யுவதியின் வீட்டிற்குள் நுழைந்து குறித்த யுவதி மீதும் அவரது தாயார் மீதும் கூரிய ஆயுதத்தால் தாக்குதலை மேற்கொண்டுவிட்டு, அங்கிருந்து தப்பிச் சென்று வெற்றுக் காணி ஒன்றில் உயிர்மாய்த்துள்ளளார்.
+
+இந்நிலையில், யுவதியும் யுவதியின் தாயாரும் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றனர். இது குறித்து மேலதிக விசாரணைகளை இளவாலை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/a630716e.json)
+
+---
+
+### සිඩ්නි ප්‍රහාරකයා ගැන හෙළිදරව්වක්
+
+*2024-04-16 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195676) · `si`
+
+සිඩ්නි නගරාසන්නයේ පිහිටි දේවස්ථානයක දී ඇසිරියානු දේවස්ථානයේ බිෂොප්වරයෙකුට සහ එහි සිටි පුද්ගලයින් කිහිපදෙනෙකුට පිහියකින් ඇනීමේ සිද්ධිය ත්‍රස්ත ක්‍රියාවක් බව ඔස්ට්‍රේලියානු පොලීසිය පවසයි.
+
+ආගමික අන්තවාදය මුල්කරගෙන එම පිහි ඇනුම සිදුකර ඇති බව ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් එරට පොලීසිය පැවසීය.
+
+නිව් සවුත් වේල්ස් හි පොලිස් කොමසාරිස් කැරන් වෙබ් පවසන්නේ "සියලු කරුණු අධ්‍යයනය කිරීමෙන් අනතුරුව" එම නිගමනයට එළැඹි බවයි.
+
+සැකකරු 16 හැවිරිදි, පොලීසිය දැනගෙන සිටි පුද්ගලයෙක් බවද ඇය පැවසුවාය.
+
+එම පිහි ඇනුමෙන් බිෂොප් මා මාරි එම්මානුවෙල් ඇතුළු සිව් දෙනෙක් තුවාල ලැබීය.
+
+සැකකරු පිහියකින් සන්නද්ධව බිෂොප්වරයා වෙත කඩා පනින අයුරු සජීවීව අන්තරජාලය ඔස්සේ විකාශය වුණි.
+
+ඒ එම බිෂොප්වරයාගේ දේශනය සජීවීව විකාශය වෙමින් තිබූ බැවිනි. ඒ හේතුවෙන් එම දේශනයට සවන්දෙමින් සිටි අනුගාමිකයින් එම ප්‍රහාරය දැක තිබුණි.
+
+සුළු වෙලාවකින් බොහෝ පිරිසක් එම දේවස්ථානය අසලට රැස්වූ අතර ඔවුන් සහ පොලීසිය අතර උණුසුම් තත්ත්වයක් ද ඇතිවුණි.
+
+ඒ පොලීසිය බාරයේ සිටි සැකකරුව තමන්ට බාරදෙන ලෙස එම පිරිස ඉල්ලා සිටීම නිසා ය.
+
+◼️
+
+[Data](articles/84032191.json)
+
+---
+
+### கிணற்றில் விழுந்து 9 வயது சிறுவன் உயிரிழப்பு
+
+*2024-04-16 11:20:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிணற்றில்-விழுந்து-9-வயது-சிறுவன்-உயிரிழப்பு/175-335984) · `ta`
+
+கம்பளையில் உள்ள வீடொன்றில் காணப்பட்ட கைவிடப்பட்ட கிணற்றில் விழுந்து 09 வயது சிறுவன் திங்கட்கிழமை (15) உயிரிழந்துள்ளார்.
+
+தனது பாட்டியின் வீட்டிற்கு சென்றிருந்த போது இந்த சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/46c49e9b.json)
+
+---
+
+### அதிவேக நெடுஞ்சாலைகளின் 5 நாட்களின் வருமானம்  190 கோடி ரூபா!
+
+*2024-04-16 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/181208) · `ta`
+
+கடந்த 5 நாட்களில் அதிவேக நெடுஞ்சாலைகளில் போக்குவரத்து 10 சத வீதமாக  அதிகரித்துள்ளதாக நெடுஞ்சாலை நடவடிக்கை மற்றும் பராமரிப்புப் பிரிவின் பணிப்பாளர் ஆர்.ஐ.டி.கஹடபிட்டிய தெரிவித்துள்ளார்.
+
+ஏப்ரல் 10 ஆம் திகதி முதல் நேற்று திங்கட்கிழமை (ஏப்ரல் 14)  வரையிலான  5 நாட்களில் நெடுஞ்சாலைகள் மூலம் 190 மில்லியன் ரூபாவுக்கும்  அதிகமான வருமானம் கிடைத்துள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/7a616065.json)
+
+---
+
+### கொவிட் ஆலோசனைகள் குறித்து வைத்தியர் சத்தியமூர்த்தியின் தெளிவுபடுத்தல் !
+
+*2024-04-16 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181205) · `ta`
+
+கொவிட் தொற்று பற்றிய உலக சுகாதார நிறுவனம் மற்றும் இலங்கை சுகாதார அமைச்சின் ஆலோசனைகள் தொடர்பாக யாழ்ப்பாணம் போதனா வைத்தியசாலை பணிப்பாளர் த.சத்தியமூர்த்தி தெளிவுபடுத்தியுள்ளார்.
+
+யாழ் மாவட்டத்தில் நீண்ட காலத்திற்கு பின்னர் கொவிட்தொற்று காரணமாக பெண் ஒருவர் உயிரிழந்துள்ளநிலையில், மக்கள் மத்தியில் தேவையற்ற சந்தேகங்களை தீர்க்கும்வகையில் குறித்த தகவலை தனது சமூக வலைத்தளத்தில் வெளியிட்டுள்ளார்.
+
+இதன்படி 2023 ஒக்டோபர் 10ம் திகதி முதல் கீழ்வரும் 7 விடயங்கள் சுகாதார அமைச்சினால் சுற்றறிக்கையொன்று வெளியிடப்பட்டு பின்பற்றப்படுகிறது.
+
+1. கொவிட் தொற்று ஏற்பட்டவர்களுக்கு ஏனைய சுவாசத் தொற்று நோய்கள் ஏற்பட்டவர்களுக்கு வழங்கப்படுகின்ற அதே உரிய பாதுகாப்பும் பராமரிப்பும் வழங்கப்பட வேண்டும். பொருத்தமான சிகிச்சையும் வைத்தியசாலையில் வழங்கப்படும்.
+
+(பொதுவாக சுவாச தொற்று வருத்தம் இன்னொருவருக்கு இலகுவாக பரவலாம். ஆகவே சுவாசத் தொற்று உடையவர்கள் உரிய அடிப்படை சுகாதார விதிமுறைகளை கடைப்பிடிக்க வேண்டும். அவ்வாறே தொற்று உடையவருக்கு அருகில் இருப்பவர்கள் மற்றும் பராமரிப்பவர்கள் உரிய சுகாதார பழக்கவழக்கங்களைப்  பேண வேண்டும்.)
+
+...
+
+[Data](articles/c11637b7.json)
+
+---
+
+### மீனவர்கள் பிரச்சினைகள் தொடர்பில் இந்திய மத்திய அரசாங்கத்துடனேயே பேச்சுவார்த்தை நடத்த வேண்டும் - எம். ஏ.சுமந்திரன்
+
+*2024-04-16 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181207) · `ta`
+
+மீனவர்கள் பிரச்சினைகள் தொடர்பில் இந்திய மத்திய அரசாங்கத்துடனேயே பேச்சுவார்த்தை நடத்த வேண்டும் என பாராளுமன்ற உறுப்பினர் எம். ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+
+இழுவை மடி தொடர்பில் நான் கொண்டு வந்த தனிநபர் சட்டமூலம் சட்டமாக்கப்பட்டது. அதை நடைமுறைப்படுத்தாமல் இருந்தால் இந்த நிலை நீடிப்பதற்கான ஒரே ஒரு காரணமாக இருந்தது.
+
+இழுவை மடி விவகாரத்துக்கு முடிவு கொண்டு வரப்படவேண்டும் என 2016 ஆம் ஆண்டில் ஒரு கூட்ட அறிக்கையை இலங்கை - இந்திய அரசாங்கங்கள் விடுத்திருந்ததைத் தொடர்ந்து தான் அந்த சட்டமும் இயற்றப்பட்டது.
+
+மாநில அரசுக்கு இந்த இழுவை மடி படகுகளில் ஈடுபடுபவர்களுடன் சம்பந்தம் இருக்கலாம் ஆகையினாலே அவர்களுடனும் பேசவேண்டும் என்கின்ற ஒரு கருத்து இருக்கிறது என தெரிவித்தார்.
+
+◼️
+
+[Data](articles/34677892.json)
+
+---
+
+### FBI opens criminal probe into deadly Baltimore bridge collapse
+
+*2024-04-16 11:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/FBI-opens-criminal-probe-into-deadly-Baltimore-bridge-collapse/108-280755) · `en`
+
+Baltimore, April 16 (RNZ) - The FBI has opened a federal criminal investigation into the deadly collapse of a Baltimore bridge last month when a ship crashed into one of its supports, the bureau said on Monday.
+
+FBI agents had boarded the cargo ship Dali to conduct court-authorized law enforcement activity regarding the crash, a spokesperson told Reuters.
+
+There is no other public information available, and the FBI will have no further comment, the spokesperson said.
+
+In the early morning of March 26, the massive container ship lost power and crashed into a support pylon, sending the Francis Scott Key Bridge collapsing into the Patapsco River and killing six people who were working on the span at the time of the crash.
+
+The investigation into the collapse will focus in part on whether the crew of the cargo vessel Dali left the port knowing the freighter had serious problems with its systems, the Washington Post reported on Monday.
+
+...
+
+[Data](articles/58339889.json)
+
+---
 
 ### 700 roundabouts nationwide targeting the New Year!
 
@@ -257,6 +435,18 @@ As a result, trains from Colombo Fort to Moratuwa, Ambepussa, Panadura, Negombo 
 [Data](articles/cd9ddc83.json)
 
 [Extended Data](ext_articles/cd9ddc83.ext.json)
+
+---
+
+### Stranded at Fort station...
+
+*2024-04-16 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Stranded-at-Fort-station/110-280752) · `en`
+
+Commuters along with their children and belongings, were stranded at the Fort Railway Station due to train cancellations. Eleven scheduled trains were cancelled today due to the absence of locomotive operators and railway guards. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/44fe2c82.json)
 
 ---
 
@@ -1362,6 +1552,26 @@ As a result, the island’s fragile defences attracted a rash of free-lance merc
 
 ---
 
+### Is the Indian Ocean “Zone of Peace” sinking in troubled waters?
+
+*2024-04-16 00:52:18* · [`dailyftlk`](https://www.ft.lk/columns/Is-the-Indian-Ocean-Zone-of-Peace-sinking-in-troubled-waters/4-760640) · `en`
+
+An aerial view of the Village of Kolhuvaariyaafushi, Mulaaku Atoll, the Maldives, after the Indian Ocean Tsunami in December 2004. Credit: UN Photo/Evan Schneider
+
+UNITED NATIONS (IDN) – Just after a group of mercenaries tried to unsuccessfully oust the government of Maldives in 1979, I asked a Maldivian diplomat, using a military jargon, about the strength of his country’s “standing army.”
+
+“Standing army?”, the UN diplomat asked with mock surprise, and remarked perhaps jokingly, “We don’t even have a sitting army.”
+
+With a population of about 250,000, in a bygone era, (currently over 500,000), the Maldives was perhaps one of the world’s few countries, along with Costa Rica, with no armed forces, fighter planes, combat helicopters, warships, missiles or battle tanks.
+
+As a result, the island’s fragile defences attracted a rash of free-lance mercenaries and bounty hunters who tried to take over the country twice-- once in 1979, and a second time in 1988.
+
+...
+
+[Data](articles/bbfbaf0a.json)
+
+---
+
 ### India remains Sri Lanka’s most reliable ally, trusted partner: High Commissioner
 
 *2024-04-16 00:51:41* · [`dailyftlk`](https://www.ft.lk/opinion/India-remains-Sri-Lanka-s-most-reliable-ally-trusted-partner-High-Commissioner/14-760639) · `en`
@@ -1921,277 +2131,5 @@ A qualified Banking and Risk Management Professional with over 27 years of exper
 [Data](articles/a3145de3.json)
 
 [Extended Data](ext_articles/a3145de3.ext.json)
-
----
-
-### India a big decision on Sri Lanka
-
-*2024-04-15 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195660) · `si`
-
-India lifts ban on big onions for Sri Lanka, allowing export of 10,000 metric tons, marking a significant decision in their diplomatic relations.
-
-🟩
-
-India has decided to remove only for Sri Lanka's ban on big onions.
-
-High Commissioner in Sri Lanka Issues a statement
-
-Accordingly, it has been granted to export big onions to 10,000 metric tons of big onions.
-
-India took the foundation of the neighbor's foundation and the New Year festive season.
-
-◼️
-
-[Data](articles/a68a9dcf.json)
-
-[Extended Data](ext_articles/a68a9dcf.ext.json)
-
----
-
-### BIMSTEC Secretary General visits Sri Lanka; briefs President on expectations from 6th summit
-
-*2024-04-15 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98653/bimstec-secretary-general-visits-sri-lanka-briefs-president-on-expectations-from-6th-summit) · `en`
-
-The Secretary General of the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) Indra Mani Pandey has undertaken an official visit to Sri Lanka recently.
-
-This was his first official visit to Sri Lanka since taking charge as Secretary General on 4 January this year.
-
-During the visit, the secretary general called on Ranil Wickremesinghe, President of Sri Lanka, M.U.M. Ali Sabry, PC., MP., Minister of Foreign Affairs of Sri Lanka, and Ramesh Pathirana, Minister of Health of Sri Lanka, said the BIMSTEC headquarters on Monday.
-
-He also held meetings with the Secretary to the Ministry of Foreign Affairs, Aruni Wijewardane; Secretary to the Prime Minister, Anura Dissanayake; Secretary to the Ministry of Health, Dr Palitha Maheepala; and the Secretary to the Ministry of Education, Thilaka Jayasundara.
-
-...
-
-[Data](articles/772b41f7.json)
-
-[Extended Data](ext_articles/772b41f7.ext.json)
-
----
-
-### Indian to remove the onion export barrier
-
-*2024-04-15 21:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/181182) · `ta`
-
-India lifts onion export ban to Sri Lanka, despite earlier restrictions.
-
-🟩
-
-While the Government of India has been allowed to export 10000 metric tonnes of onions, the Government of India has lifted the export ban on Sri Lanka.
-
-It is noteworthy that India's neighboring country has reiterated the first policy and has lifted the ban on Sri Lanka in front of the Sinhala and Tamil New Year.
-
-◼️
-
-[Data](articles/07ef3141.json)
-
-[Extended Data](ext_articles/07ef3141.ext.json)
-
----
-
-### Iranian President to inaugurate ‘Uma Oya’ project during Sri Lanka visit
-
-*2024-04-15 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98652/iranian-president-to-inaugurate-uma-oya-project-during-sri-lanka-visit) · `en`
-
-Several major water and energy projects are going to be inaugurated by the presidents of Iran and Sri Lanka in the near future, Iranian media reported.
-
-The Uma Oya Multipurpose project which includes two dams namely Dyraaba and Puhulpola and also 25 kilometers of water transmission tunnel, is expected to be inaugurated in May in the presence of Iranian President Ebrahim Raisi.
-
-The project also includes two major hydroelectric power plants each with a capacity of 60 megawatts.
-
-Uma Oya multipurpose project is regarded as one of the greatest technical and engineering service projects of Iranian companies in Sri Lanka.
-
-This project is located in the south-east of Sri Lanka 200km away from Colombo city.
-
-The purpose of the project is to improve irrigation of 5000 acres of agricultural land, transferring 145 million cubic meters of water and generating 290 GW/h of power in a year.
-
-One of the important features of the Uma Oya project is the scattered and diverse components of the project.
-
-...
-
-[Data](articles/b63085c8.json)
-
-[Extended Data](ext_articles/b63085c8.ext.json)
-
----
-
-### A new record from the SRH team
-
-*2024-04-15 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195659) · `si`
-
-SRH sets a new record with 277 runs against MI, breaking the previous highest score.
-
-🟩
-
-Hyderabad won the highest score record of history.
-
-The SRH team broke the report that scored 277 runs in the match against MI team.
-
-Accordingly, the SRH scored 287 runs for the loss of 28 wickets at the end of 20 overs.
-
-◼️
-
-[Data](articles/fa958055.json)
-
-[Extended Data](ext_articles/fa958055.ext.json)
-
----
-
-### Iran President to visit Sr Lanka amid rising tension, inaugurate Uma Oya project
-
-*2024-04-15 21:17:00* · [`economynextcom`](https://economynext.com/iran-president-to-visit-sr-lanka-amid-rising-tension-inaugurate-uma-oya-project-158564/) · `en`
-
-ECONOMYNEXT – Iranian President Ebrahim Raisi will arrive in Sri Lanka on April 24 on a one-day official visit to inaugurate Tehran-assisted $529 million worth Uma Oya multipurpose development project with 120MW hydro power generation capacity, official sources said.
-
-The announcement on President Raisi’s visit comes two days after Iran launched explosive drones and fired missiles at Israel in its first direct attack on Israeli territory, a retaliatory strike that raised the threat of a wider regional conflict.
-
-“The President is visiting to inaugurate the Omaoya project. He will be on a one-day visit,” an official at Iran embassy in Colombo told EconomyNext.
-
-This is the first time an Iranian President coming to Sri Lanka Iranian after then President Mahmoud Ahmadinejad’s visit in April 2008.
-
-...
-
-[Data](articles/41f49ece.json)
-
-[Extended Data](ext_articles/41f49ece.ext.json)
-
----
-
-### India lifts ban on onion exports to Sri Lanka
-
-*2024-04-15 21:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98651/india-lifts-ban-on-onion-exports-to-sri-lanka) · `en`
-
-The Government of India has lifted the export ban on onions for Sri Lanka, according to the Indian High Commission in Colombo.
-
-It said the export of onions has been permitted to Sri Lanka, with export of up to 10,000 MT of onions permitted vide the notification of India’s Directorate General of Foreign Trade.
-
-The exemption for Sri Lanka reiterated India’s Neighbourhood First policy, adding to the Sinhala and Tamil New Year festivities here, the High Commission said in a statement on Monday.
-
-Last month, India extended its ban on onion exports indefinitely in a surprise move that had exacerbated high prices in some overseas markets.
-
-Imposed by India - the world’s biggest exporter of the vegetable - in December, the ban was due to expire on March 31.
-
-Countries such as Sri Lanka, Bangladesh, Malaysia, Nepal and the United Arab Emirates rely on imports from India to fill domestic gaps in onion supply and many of those nations have struggled with high prices since the ban.
-
-...
-
-[Data](articles/b123b480.json)
-
-[Extended Data](ext_articles/b123b480.ext.json)
-
----
-
-### India lifts export restrictions on onions to Sri Lanka
-
-*2024-04-15 20:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-lifts-export-restrictions-on-onions-to-Sri-Lanka/108-280719) · `en`
-
-Colombo, April 15 (Daily Mirror) - The government of India has lifted the export restrictions on onions to Sri Lanka, with export of up to 10,000 MT of onions permitted vide the enclosed notification of the Directorate General of Foreign Trade.
-
-The Indian High Commission said the exemption for Sri Lanka reiterated India’s Neighbourhood First policy, adding to the Sinhala and Tamil New Year festivities.
-
-◼️
-
-[Data](articles/b2826dc5.json)
-
-[Extended Data](ext_articles/b2826dc5.ext.json)
-
----
-
-### The Tamil party will make the decision that it is not possible to field a common candidate - K. Mastan
-
-*2024-04-15 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181181) · `ta`
-
-K. Mastan, Rural Economic Minister, stated it's impossible to field a common Tamil candidate for the presidential election, despite efforts to do so due to the election's proximity. He believes a National Party candidate will win, and the Tamil parties' intellectuals make a common candidate unfeasible.
-
-🟩
-
-"I think it is not possible to put up a common candidate on the Tamil party for the presidential election," said Rural Economic Minister K. Mastan.
-
-He said this while responding to a question raised by the journalist regarding the appointment of a common candidate on the presidential election.
-
-Although the presidential election has not yet been announced, such efforts are being made due to the presidential election to be held in the first two days in October.
-
-For me, it is okay if the general candidate for the presidential election will be suspended and winning. But as far as the presidential election is concerned, one of the National Party will win.
-
-As for us, we will make efforts to make the president who supports us.
-
-And we do not know how the common candidate on the Tamil side is possible or what benefits it will be.
-
-...
-
-[Data](articles/a6caaa36.json)
-
-[Extended Data](ext_articles/a6caaa36.ext.json)
-
----
-
-### The result is revealed to the Sanagala first
-
-*2024-04-15 19:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195658) · `si`
-
-Sagala Ratnayake, Senior Advisor to the Presidential Advisor, revealed four issues in London negotiations with Sri Lanka and International Bonds. Two can be agreed upon, but two remain unresolved. The Sri Lankan government is in a positive position for discussions.
-
-🟩
-
-Senior Advisor to the Presidential Advisor to the Presidential Advisor and Presidential Staff Head of the President Sagala Ratnayake says that four issues have erupted in the negotiations in London with the Government of Sri Lanka and International Bonds.
-
-He was speaking at the discussion with media institutions regarding the progress of the restructuring of the loan.
-
-Speaking further Mr. Sagala Ratnayake said that there was a problem with four issues in London with the Sri Lankan government and international bonds.
-
-However, it is currently possible to agree to two of them.
-
-He also said that the two things that have failed to reach an agreement in the future.
-
-Accordingly, the Sri Lankan government is currently in a positive stand for discussions.
-
-◼️
-
-[Data](articles/f6e43468.json)
-
-[Extended Data](ext_articles/f6e43468.ext.json)
-
----
-
-### Sri Lanka to discuss two contentious points with bondholders: report
-
-*2024-04-15 19:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-discuss-two-contentious-points-with-bondholders-report-158562/) · `en`
-
-ECONOMYNEXT – Sri Lanka and sovereign bondholders are to discuss two matters in the near future which the two sides failed to reach agreement at March talks in London, a media report quoting a top aide to President Wickremesinghe as saying.
-
-Sri Lanka and bondholders had discussed four matters on restructuring international sovereign bonds in late March and agreement had been reached on two, President’s Chief of Staff Sagala Ratnayake was quoted as saying on state-run ITN television.
-
-A restructuring proposal by bondholders was not in line with IMF requirements, and Sri Lanka had sent a counter proposal, he said.
-
-The matters will be discussed at round of talks in the near future.
-
-Sri Lanka was optimistic of reaching an agreement with the bondholders before June, officials have said.
-
-According to matters already in the public domain, sovereign bond holders are keen to get a bond tied to dollar gross domestic product, as they feel IMF growth projections are too low.
-
-...
-
-[Data](articles/8914b319.json)
-
-[Extended Data](ext_articles/8914b319.ext.json)
-
----
-
-### Public inconvenienced due to lack of transport
-
-*2024-04-15 19:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-inconvenienced-due-to-lack-of-transport/108-280717) · `en`
-
-Colombo, April 15 (Daily Mirror) - Despite assurances from transport authorities that sufficient facilities would be provided to accommodate commuters during the festive season, people were highly inconvenienced due to inadequate public transport, resulting in them risking their lives.
-
-However, the local transport authorities assured to provide sufficient transport facilities before and after the new year.
-
-In a notice issued by the Government Information Department, it was stated that many trains and buses have been scheduled to operate between April 14 and 17 to Colombo and its suburbs. Accordingly, buses will commence operations from 5 a.m. in the morning based on demand.
-
-Furthermore, the Chairman of the National Transport Commission (NTC), Shashi Welgama, informed the Daily Mirror that an ample number of buses have been allocated for the convenience of the public.
-
-...
-
-[Data](articles/f9c362bd.json)
-
-[Extended Data](ext_articles/f9c362bd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 12:03:44**
+As of **2024-04-16 12:18:23**
 
 ## Newspaper Stats
 
-*Scraped **19,088** Articles*
+*Scraped **19,095** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,93 @@ dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,027
 dailyftlk | 1,040
-economynextcom | 1,070
+economynextcom | 1,072
 adalk | 1,587
 tamilmirrorlk | 2,231
-adaderanalk | 2,297
-virakesarilk | 2,846
-dailymirrorlk | 2,936
-adaderanasinhalalk | 3,109
+adaderanalk | 2,298
+virakesarilk | 2,847
+dailymirrorlk | 2,937
+adaderanasinhalalk | 3,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,085 (100.0%) of 19,088 articles have been extended.
+19,088 (100.0%) of 19,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### Sri Lanka, Kyrgyz Republic discuss expanding economic cooperation
+
+*2024-04-16 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-kyrgyz-republic-discuss-expanding-economic-cooperation-158651/) · `en`
+
+ECONOMYNEXT – Sri Lanka and the Kyrgyz Republic signed a memorandum of understanding on bilateral cooperation at the Foreign Office consultations that took place in Bishkek, on 15 April.
+
+During the consultations, “the two sides prioritized expanding economic cooperation, focusing on apparel, gems and jewelry, tea, food and beverages, wellness and ayurvedic products, education services and ICT sectors,” Sri Lanka’s Ministry of Foreign Affairs said in a statement.
+
+“The two sides also discussed the potential for the promotion of tourism to facilitate connectivity and to strengthen people to people linkages.”
+
+Cooperation at multilateral and regional fora and developments in the respective regions and current global issues were among the other areas taken up for discussion.
+
+This is the first high-level visit to take place between the two countries since Sri Lanka established diplomatic relations with the Kyrgyz Republic in 1996.
+
+...
+
+[Data](articles/71818114.json)
+
+---
+
+### Iranian President to inaugurate Uma Oya project
+
+*2024-04-16 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iranian-President-to-inaugurate-Uma-Oya-project/108-280764) · `en`
+
+Iranian President Ebrahim Raisi is scheduled to visit Sri Lanka in May where he is expected to inaugurate the Uma Oya Multipurpose project, Iranian media reported.
+
+The project includes two dams namely Dyraaba and Puhulpola and also 25 kilometers of water transmission tunnel and two major hydroelectric power plants each with a capacity of 60 megawatts.
+
+Uma Oya multipurpose project is regarded as one of the greatest technical and engineering service projects of Iranian companies in Sri Lanka.
+
+The purpose of the project is to improve irrigation of 5000 acres of agricultural land, transferring 145 million cubic meters of water and generating 290 GW/h of power in a year.
+
+One of the important features of the Uma Oya project is the scattered and diverse components of the project.
+
+It should also be said that this project is one of the largest projects implemented by Iranian contractors abroad.
+
+...
+
+[Data](articles/6ef08595.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-04-16 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181213) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (ஏப்ரல் 16) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 294.2057 ஆகவும் விற்பனை விலை ரூபா 303.5476 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/45eaf8ce.json)
+
+---
+
+### Sri Lankan delegation calls on top IMF, World Bank officials at 2024 Spring Meetings
+
+*2024-04-16 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98659/sri-lankan-delegation-calls-on-top-imf-world-bank-officials-at-2024-spring-meetings) · `en`
+
+The Deputy Managing Director of the International Monetary Fund (IMF), Kenji Okamura has commended the Sri Lankan authorities on the implementation of a strong program and excellent reform progress, says Finance State Minister Shehan Semasinghe.
+
+Sri Lankan delegation led by Semasinghe met with Mr. Okamura during the IMF-World Bank Group (WBG) Spring Meetings 2024 that kicked off in Washington, D.C. on Monday (15). The event will go on until 19 April with the participation of policymakers, civil society, researchers and several other high-ranking officials.
+
+Taking to X (formerly Twitter), the state minister said the two sides had a ‘very productive’ discussion during which Mr. Okamura underscored the need to preserve the hard-earned gains that Sri Lanka has achieved since the beginning of the IMF program and to continue strong ownership.
+
+...
+
+[Data](articles/2086ade6.json)
+
+---
 
 ### IMF’s Deputy Managing Director commends Sri Lanka’s reform progress
 
@@ -46,25 +116,103 @@ Taking to X (formerly Twitter), the state minister said the two sides had a ‘v
 
 [Data](articles/73897779.json)
 
+[Extended Data](ext_articles/73897779.ext.json)
+
 ---
 
-### பெருமளவு சிறுவர்களுக்கு சத்திரசிகிச்சை செய்தேன் - அவர்களில் பலர் ஆறுவயதிற்கு உட்பட்டவர்கள் - காசாவிலிருந்து திரும்பிய பிரிட்டிஸ் மருத்துவர்
+### ගල්කිස්සේ ඝාතනයක්
+
+*2024-04-16 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195679) · `si`
+
+මෙලෙස ඝාතනයට ලක්ව ඇත්තේ 52 හැවිරිදි වියේ පසුවූ බොරුපන රත්මලාන ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+පොලීසිය පවසන්නේ නාඳුනන පුද්ගලයින් දෙදෙනෙකු පැමිණ මෙම ඝාතනය සිදුකර ඇති බවය.
+
+අද (16) අලුයම මෙම ඝාතනය සිදුව ඇති බව පොලීසිය වැඩිදුරටත් පවසයි.
+
+සිද්ධිය සම්බන්ධයෙන් ගල්කිස්ස පොලීසිය මේ වනවිට විශේෂ විමර්ශනයක් ආරම්භ කර ඇත.
+
+◼️
+
+[Data](articles/68eea1c3.json)
+
+---
+
+### බිහිසුණු ප්‍රහාරකයා ඉදිරියට පැන්න වීරයාට ලැබුණු සුවිශේෂී වරප්‍රසාදය
+
+*2024-04-16 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195678) · `si`
+
+ලොවම කම්පා කරවූ ඔස්ට්‍රේලියාවේ සිඩ්නි නුවර සාප්පු සංකීර්ණයක සිදුකළ පිහි ප්‍රහාරය නැවත්වීමට උත්සාහ කළ පුද්ගලයා පිළිබඳව මේ වනවිට ලෝකයේම දැඩි කතාබහක් ඇතිව තිබේ.
+
+ඔහුගේ ඔස්ට්‍රේලියානු වීසා කාලය නිමාවීමට ආසන්නව පැවතියද කිසිදු බාධාවකින් තොරව වීසා කාලය දීර්ඝ කිරීමට අවශ්‍ය පියවර ගන්නා බව ඔස්ට්‍රේලියානු අග්‍රාමාත්‍ය ඇල්බනීස් මාධ්‍ය වෙත පවසා තිබුණි.
+
+එසේම කැමති කාලයක් ඔහුට එරට රැඳී සිටිය හැකි බවද අග්‍රාමාත්‍යවරයා වැඩිදුරටත් පවසා තිබේ.
+
+කෙසේ වෙතත් ඔස්ට්‍රේලියාව විසින් ක්‍රියාත්මක කරනු ලබන නවතම නීතියට අනුව ඔහුට ඔස්ට්‍රේලියානු පුරවැසිභාවය ලබාදුනහොත් ඔහුගේ ප්‍රංශ පුරවැසිභාවය අහිමිව යනු ඇත.
+
+ඔස්ට්‍රේලියාවේ සිඩ්නි නුවර සාප්පු සංකීර්ණයක සිදුකළ පිහි ප්‍රහාරයෙන් පුද්ගලයින් හයදෙනෙකු මියගොස් 12කට ආසන්න පිරිසක් තුවාල ලැබීය.
+
+එම ප්‍රහාරය සිදුවන අවස්ථාවේ එහි සිටි ඩේමියන් ප්‍රහාරකයා වැළක්වීමට ගත් උත්සාහය දැක්වෙන වීදියෝවක් සමාජ මාධ්‍ය ඔස්සේ සංසරණය වීමත් සමග ලෝකය පුරා ඔහු පිළිබඳව කතාබහක් ඇතිවිය.
+
+◼️
+
+[Data](articles/210f5aaa.json)
+
+---
+
+### I did surgery for a large number of boys - many of them were subject to six - British doctor who returned from Gaza
 
 *2024-04-16 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181212) · `ta`
 
-சமீபத்தில் காசாவிலிருந்து திரும்பிய பிரிட்டனை சேர்ந்த மருத்துவர் ஒருவர் தான் யுத்தத்தினால் காயமடைந்த பெருமளவு சிறுவர்களிற்கு சத்திரகிசிச்சை செய்ததாக தெரிவித்துள்ளார்.
+A British doctor from Gaza reports treating numerous young boys, many under 16, for war injuries, including gunshot wounds. He highlights the impact of inadequate food on their recovery.
 
-காயமடைந்த பெருமளவு சிறுவர்களிற்கு சத்திரசிகிச்சை செய்தேன் அந்த எண்ணிக்கை என்னை அதிர்ச்சிக்குள்ளாக்கியது என மருத்துவர் விக்டோரியா ரோஸ் தெரிவித்துள்ளார்.
+🟩
 
-16 வயதிற்கு உட்பட்ட பலருக்கு சத்திரசிகிச்சை செய்ததாக தெரிவித்துள்ள அவர் அவர்களில் பலர் ஆறுவயதிற்கு உட்பட்டவர்கள் எனவும் தெரிவித்துள்ளார்.
+A British doctor who recently returned from Gaza has said that he had been surrendering to a large number of children who were injured in the war.
 
-துப்பாக்கி சூட்டு காயங்கள் எரிகாயங்கள் ஏனைய காயங்களால் பாதிக்கப்பட்டவர்களிற்கு சிகிச்சையளித்தேன் என அவர்தெரிவித்துள்ளார்.
+Doctor Victoria Ross said that the number of surgery for the wounded boys was shocked by me.
 
-போதிய உணவு இன்மையால் காசாவில் காயமடைந்தவர்களின் காயங்கள் குணமாவது பிரச்சினைக்குரிய விடயமாக காணப்படுகின்றது எனவும் தெரிவித்துள்ள அவர் காசாவில் மருத்துவமபணியில் ஈடுபட்டிருந்தவேளை என்னை விட வயது கூடிய ஒருவருக்கு மாத்திரமே -53 -சத்திரகிசிச்சைசெய்தேன் ஏனையவர்கள் அனைவரும் என்னை விட வயது குறைந்தவர்கள் எனவும் தெரிவித்துள்ளார்
+He said that many of them under the age of 16 have been surgical and many of them are subject to six.
+
+He said that he was treated for victims of firing injuries and other injuries.
+
+He said that the injuries of those who were injured in Gaza were seen as a problem with the inadequate food.
+
+He said that all the others were younger than me and that they were under 16 years of age, six years old.
+
+He said that he was involved in the removal of other items found in the tissues and the removal of other materials found in the tissues, and the removal of the rifles found in the jawbone.
+
+The UN has warned that hunger conditions can be created in Gaza
+
+According to doctor Victoria Rose, it is difficult for patients to recover immediately.
 
 ...
 
 [Data](articles/86a98215.json)
+
+[Extended Data](ext_articles/86a98215.ext.json)
+
+---
+
+### A girlfriend and girlfriend's mother with sharp weapon!
+
+*2024-04-16 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/181211) · `ta`
+
+A man, Gunathakam Pranavan, 35, from Ilavalai, entered a woman's house with a weapon, killing her. He escaped at 4 am Tuesday. The woman and her mother were hospitalized. Ilavalai police are investigating.
+
+🟩
+
+The suspect dies after being hit by a sharp weapon. The deceased was Gunathakam Pranavan (age 35), who lived in the Ilavalai police division.
+
+The man entered the house of the woman and her mother with a sharp weapon and escaped from there at 4.00 am on Tuesday.
+
+In this case, the woman and the mother of the girl have been admitted to the Jaffna Teaching Hospital.. Further investigations are being carried out by the Ilavalai police.
+
+◼️
+
+[Data](articles/a630716e.json)
+
+[Extended Data](ext_articles/a630716e.ext.json)
 
 ---
 
@@ -131,28 +279,6 @@ However, the suspect had fled the area and was arrested in Hakanda area last nig
 [Data](articles/ba140ddd.json)
 
 [Extended Data](ext_articles/ba140ddd.ext.json)
-
----
-
-### A girlfriend and girlfriend's mother with sharp weapon!
-
-*2024-04-16 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181211) · `ta`
-
-A man, Gunathakam Pranavan, 35, from Ilavalai, entered a woman's house with a weapon, killing her. He escaped at 4 am Tuesday. The woman and her mother were hospitalized. Ilavalai police are investigating.
-
-🟩
-
-The suspect dies after being hit by a sharp weapon. The deceased was Gunathakam Pranavan (age 35), who lived in the Ilavalai police division.
-
-The man entered the house of the woman and her mother with a sharp weapon and escaped from there at 4.00 am on Tuesday.
-
-In this case, the woman and the mother of the girl have been admitted to the Jaffna Teaching Hospital.. Further investigations are being carried out by the Ilavalai police.
-
-◼️
-
-[Data](articles/a630716e.json)
-
-[Extended Data](ext_articles/a630716e.ext.json)
 
 ---
 
@@ -277,6 +403,28 @@ The state government said that there is a suggestion that the tragic boats may b
 [Data](articles/34677892.json)
 
 [Extended Data](ext_articles/34677892.ext.json)
+
+---
+
+### Sri Lanka manufacturing expand amid falling prices, services surge: PMI
+
+*2024-04-16 11:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-manufacturing-expand-amid-falling-prices-services-surge-pmi-158629/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s manufacturing and services sectors expanded in March ahead of a traditional New Year, with resurgence in tourism also helping, according to a Purchasing Managers’ Index compiled by the central bank.
+
+The manufacturing PMI was 62.5 in March, compared to 56 points in February when the sector also expanded.
+
+“This marks the highest PMI-Manufacturing that was recorded in three years,” the statement said. “All the sub-indices expanded on a month-on-month basis contributing to this increase, mainly driven by the seasonal demand.”
+
+“Most of the manufacturers, especially in the food and beverage sector, were optimistic about the upcoming festive season,” the statement said.
+
+“Moreover, Employment and Stock of Purchases increased during the month in line with the New Orders and Production. Further, a decline in price levels was also evident.”
+
+The Services PMI was 67 percent, a notable 14 points up from 53 points in February.
+
+...
+
+[Data](articles/fc8a30b5.json)
 
 ---
 
@@ -486,19 +634,25 @@ He said that the 16 -year -old youth who was attacked by a knife attack had expr
 
 ---
 
-### රාජ්‍ය ඇමති චාමර සම්පත් ගමන්ගත් ජීප්රිය ගිනි ගනියි
+### State Minister Chamara resource fires
 
 *2024-04-16 10:29:48* · [`adalk`](https://www.ada.lk/picture_story/රාජ්‍ය-ඇමති-චාමර-සම්පත්-ගමන්ගත්-ජීප්රිය-ගිනි-ගනියි/10-409098) · `si`
 
-රාජ්‍ය අමාත්‍ය චාමර සම්පත් දසනායක මහතා ගමන් ගත් වහනය අද 16 අළුයම බණ්ඩාරවෙල හල්පේ ප්‍රදේශයේදී  හදිසි ගිනි ගැනීමකට ලක්ව තිබේ. ගින්න හේතුවෙන් ඇමතිවරයාට හෝ එහි රියදුරට කිසිදු හානියක් සිදුවී නොමැති බවද ඇල්ල පොලිසිය කියයි.
+State Minister Chamara Sampath Dasanayake's vehicle caught fire in Bandarawela, reportedly due to a technical fault, while returning from a festival. The fire was extinguished by the Bandaranawala Urban Council Fire Brigade and Ella Police are investigating.
 
-කාර්මික  දෝෂයක් හේතුවෙන් මෙම ගින්න හටගෙන ඇතැයි ද පොලිසිය කියයි.  මහියංගනයේ හා ඇල්ල ප්‍රදේශවල අවුරුදු උත්සවයකට සහභාගී වී අමාත්‍යවරයා ආපසු එන අතරතුර මෙම අනතුරට මුහුණ පා තිබේ.
+🟩
 
-බණ්ඩාරවල නගර සභා ගිනි නිවීම් ඒකකය  හා ඇල්ල පොලිසිය එක්ව ගින්න මැඩ පැවැත්වීමට කටයුතු කර තිබුණද වාහනේ  ඉදිරිපස කොටස විශාල වශයෙන් ගිනිගෙන ඇති බවද බවද පොලිසිය කියයි.  ඇල්ල පොලිසිය පරීක්ෂණ පවත්වයි
+State Minister Chamara Sampath Dasanayake has launched a sudden fire in the Halwela area in Bandarawela. The Ella said that due to the fire, the minister or its driver have been harmed.
+
+The fire has erupted due to a technical fault.The accident is involved in the accident while the Minister was returning at a festival in Mahiyanganaya and Ella areas.
+
+The Bandaranawala Urban Council Fire Brigade and the Falls have to hold the fire, but the front part of the vehicle is burning large.Ella Police are conducting further investigations
 
 ◼️
 
 [Data](articles/f615fd09.json)
+
+[Extended Data](ext_articles/f615fd09.ext.json)
 
 ---
 
@@ -2043,151 +2197,5 @@ I am learning new things daily. I apply Biblical insight to my daily life. 69 ye
 [Data](articles/f3a760b2.json)
 
 [Extended Data](ext_articles/f3a760b2.ext.json)
-
----
-
-### The super-cricket of England citizes
-
-*2024-04-15 22:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195662) · `si`
-
-Derek Underwood, England's legendary spinner, passed away. Known for his 86 Tests since 1962, he was affectionately called "Dadly" by his teammates. His unique spinning style made a significant impact, earning him a spot in the ICC Hall of Fame.
-
-🟩
-
-Foreign media reports that Derek Underwood has died as the excellent spinner in the history of England Test history.
-
-Drek under 86 Tests, played 86 Tests, has played 86 Tests since 1962.
-
-At the time, the monks of the England cricket team called him from the "Dadly."
-
-This unique spin, which created a special chapter in the history of the history of the history of the history of the history of the history of the history of the world, was included in the ICC Hall of Fame.
-
-◼️
-
-[Data](articles/e941ecc0.json)
-
-[Extended Data](ext_articles/e941ecc0.ext.json)
-
----
-
-### Debate over profits of banks: Who shares them ultimately? – Part II
-
-*2024-04-15 22:36:21* · [`dailyftlk`](https://www.ft.lk/columns/Debate-over-profits-of-banks-Who-shares-them-ultimately-Part-II/4-760614) · `en`
-
-The largest recipient of the gross income of banks happens to be depositors and creditors who have invested in the debentures issued by banks
-
-The actual distribution of banks’ income shows that the major beneficiaries have been not the shareholders, but depositors, employees, other service providers, delinquent customers, and the government. All these categories together account for about 90% of banks’ income and only about 10% is left for shareholders. Hence, the wide-spread belief that banks fatten themselves at the expense of customers is not supported by evidence
-
-A reader of the Part I of this article (available at: https://www.ft.lk/columns/Debate-over-profits-of-banks-Who-shares-them-ultimately/4-760400) has brought to my notice that banks should make profits, in addition to the reasons mentioned earlier, to support them when they are financially insolvent.
-
-...
-
-[Data](articles/b533aa0f.json)
-
-[Extended Data](ext_articles/b533aa0f.ext.json)
-
----
-
-### Say no to NEPF; say no to abolishing free education
-
-*2024-04-15 22:32:18* · [`dailyftlk`](https://www.ft.lk/opinion/Say-no-to-NEPF-say-no-to-abolishing-free-education/14-760613) · `en`
-
-We must oppose NEPF in no uncertain terms, and make a call for a wide
-
-ranging consultative mechanism before any reforms in education are proposed or undertaken
-
-We are in the midst of an existentially threatening economic crisis. With an ever-increasing debt burden and low economic prospects, we continue to grapple with uncertain economic futures and related social and political distresses. As university teachers, we are concerned about the multiplicity of recent proposals seeking reforms in education that threaten to bring about a sea change in the way education is conceived of in this country: as a social good.
-
-...
-
-[Data](articles/8bfa285e.json)
-
-[Extended Data](ext_articles/8bfa285e.ext.json)
-
----
-
-### Committee studying permitting vehicle imports on priority basis: Siyambalapitiya
-
-*2024-04-15 22:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Committee-studying-permitting-vehicle-imports-on-priority-basis-Siyambalapitiya/108-280734) · `en`
-
-Colombo, April 15 (Daily Mirror)- Claiming that only vehicle imports have been restricted by now, State Minister of Finance Ranjith Siyambalapitiya said today that a committee is studying the possibility of permitting vehicle imports on a priority basis in the future.
-
-He told reporters that 750 vans and 250 buses required for the tourism sector have already been permitted to be imported.
-
-He said import of some 1,500 items had been restricted due to the economic crisis and that restriction on all items except on vehicles had been lifted by now.
-
-“A special committee is studying the matters pertaining to the import of vehicles. The Committee is looking into what type of vehicles are essential, whether used vehicles are to be imported, what kind of used vehicles (number of years used), fuel consumption of vehicles and capacity of roads,” he said.
-
-...
-
-[Data](articles/a148db41.json)
-
-[Extended Data](ext_articles/a148db41.ext.json)
-
----
-
-### Avurudu awakening for all
-
-*2024-04-15 22:30:38* · [`dailyftlk`](https://www.ft.lk/columns/Avurudu-awakening-for-all/4-760612) · `en`
-
-We just witnessed Avurudu this year. Having been plagued by a planetary pandemic, the multi-faceted economic crisis intensified in creating chaos. At least a ray of hope for an economic recovery comes with a cautious optimism. In such a context, Avurudu can be seen as an invitation for awakening, individually as well as interactively. Let us discuss it further.
-
-Avurudu invites us to awaken ourselves. Typically, it is the time to rejoice, relax, reflect, and reinforce. Celebrating as Sinhalese and Tamils alike is the central key. Collaboration, consensus, and connectivity are all coveted concepts associated with Avurudu. Cheerful, optimistic and an open mindset can be a good starting point. I know, it became challenging with COVID19-home-locked experience. Now, it appears to be more challenging amidst economics woes.
-
-...
-
-[Data](articles/3695825d.json)
-
-[Extended Data](ext_articles/3695825d.ext.json)
-
----
-
-### Victoria tragedy of 3 lives
-
-*2024-04-15 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195661) · `si`
-
-In Victoria Reservoir, a 30-year-old man and his 22-year-old wife drowned. A 30-year-old resident tried to save them but also drowned. The couple, from Thihariya, was found by locals and police.
-
-🟩
-
-A person who was trying to save the deceased couples in the Victoria reservoir has also been drowned in drowning.
-
-A couple drowned in the Victoria Reservoir from the Kumbukkandura area this afternoon.
-
-A 30-year-old resident of the 30-year-old resident of which they were contesting to them were also killed.
-
-The deceased couple are residents of Thihariya, and the accident is in the accident when he went to the woman's village.
-
-The victim has aged 28 years and his wife is 22 years old.
-
-First, the woman got down into the reservoir to damp and she was drowning at once.
-
-However, both were disappeared and a resident of the area had come down to save them.
-
-The body of the area was found in search of the husband and the residents of the police and the residents of the area.
-
-◼️
-
-[Data](articles/d13658e2.json)
-
-[Extended Data](ext_articles/d13658e2.ext.json)
-
----
-
-### A Lost Development Opportunity: Regional integration to empower Sri Lankan women
-
-*2024-04-15 22:20:00* · [`islandlk`](http://island.lk/a-lost-development-opportunity-regional-integration-to-empower-sri-lankan-women/) · `en`
-
-Dr Lakmini Fernando is a Research Fellow at IPS with primary research interests in Development Economics, Public Finance and Climate Change. She has expertise in econometric data analysis, research design and causal methodologies. Dr Fernando holds a BSc in Agriculture from the University of Peradeniya, a Master of Development Economics (Advanced) from the University of Queensland, Australia and a PhD in Economics from the University of Adelaide, Australia.
-
-Sulochana Silva is a Research Assistant at the Institute of Policy Studies of Sri Lanka (IPS). She holds a BSc (Hons) in Agricultural Technology and Management specialising in Applied Economics and Business Management from the University of Peradeniya. Her research interests are agriculture policies and institutions, environment and natural resource policies, food security and climate change.
-
-On average, women are paid approximately 20% less than men in Sri Lanka.
-
-...
-
-[Data](articles/106afb0c.json)
-
-[Extended Data](ext_articles/106afb0c.ext.json)
 
 ---

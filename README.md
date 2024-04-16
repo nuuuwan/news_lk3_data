@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 08:18:18**
+As of **2024-04-16 08:34:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,102
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,028 (100.0%) of 19,029 articles have been extended.
+19,029 (100.0%) of 19,029 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -608,9 +608,7 @@ In addition, the Sunrisers Hyderabad - Mumbai Indians won the record for the tot
 
 *2024-04-15 23:30:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/debate-over-profits-of-banks-who-shares-them-ultimately-part-ii/) · `en`
 
-A reader of the Part I of this article has brought to my notice that banks should make profits, in addition to the reasons mentioned earlier, to support them when they are financially insolvent.
-
-This argument has validity in the current legal context in Sri Lanka. It is the accepted policy of the Parliamentarians in Sri Lanka, as revealed in the new Central Bank Act and the Banking (Special Provisions) Act that when banks get into insolvency, they should not be rescued through printing of new money by the Central Bank. Section 6 of the Central Bank Act has stipulated that the primary objective of the bank is to achieve and maintain ‘domestic price stability’ and ‘the other objective’ shall be to secure ‘financial system stability’.
+A reader of the Part I of this article has brought to my notice that banks should make profits, in addition to the reasons mentioned earlier, to support them when they are financially insolvent. This argument has validity in the current legal context in Sri Lanka. It is the accepted policy of the Parliamentarians in Sri Lanka, as revealed in the new Central Bank Act and the Banking (Special Provisions) Act that when banks get into insolvency, they should not be rescued through printing of new money by the Central Bank. Section 6 of the Central Bank Act has stipulated that the primary objective of the bank is to achieve and maintain ‘domestic price stability’ and ‘the other objective’ shall be to secure ‘financial system stability’.
 
 ...
 
@@ -2070,21 +2068,31 @@ Positions are a five -year contract period, while the minimum initial total mont
 
 ---
 
-### விக்னேஸ்வரனிடம் கால அவகாசம் கோரினார் வேலன் சுவாமிகள்
+### Vigneswaran asked for time
 
 *2024-04-15 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/181134) · `ta`
 
-ஜனாதிபதி தேர்தலில் தமிழர்கள் சார்பில் பொதுவேட்பாளரை களமிறக்குவதற்கான முயற்சிகள் முன்னெடுக்கப்படும் நிலையில் தவத்திரு வேலன் சுவாமிகளை வேட்பாளராக களமிறங்குமாறு சி.வி.விக்னேஸ்வரன், விடுத்த கோரிக்கை தொடர்பில் பதிலளிப்பதற்கு கால அவகாசததினை கோரியுள்ளார்.
+CV Wigneswaran, General Secretary of the Tamil People's Alliance, has asked for time to respond to Tawatru Velan Swamis's request for a common Tamil candidate in the presidential election. Velan Swamis, however, declined to participate in party politics. Wigneswaran emphasized that Velan Swamis would not be identified as a party-based Nabar, as all Tamil parties have agreed on a common candidate.
 
-ஜனாதிபதி தேர்தலில் தமிழர்கள் சார்பில் பொதுவேட்பாளராக களமிறக்குமாறு பொத்துவில் தொடக்கம் பொலிகண்டி வரை மக்கள் பேரெழுச்சி இயக்கத்தின் ஒருங்கிணைப்பாளரும் யாழ்ப்பாணம் சிவகுரு ஆதீன தவத்திரு வேலன் சுவாமிகளை தமிழ் மக்கள் கூட்டணியின் பொதுச்செயலாளர் சி.வி.விக்னேஸ்வரன் கோரியுள்ளார்.
+🟩
 
-எனினும் அரசியல் செயற்பாடுகளில் கட்சி சார்ந்து தான் செயற்படுவதற்கு விரும்பவில்லை என்று வேலன் சுவாமிகள் பதிலளித்துள்ளார்.
+CV Wigneswaran has demanded time to respond to the request made by Tawatru Velan Swamis as the candidate of the presidential election.
 
-இருப்பினும் அனைத்து தமிழ் கட்சிகளும் கூட்டிணைந்து பொதுவேட்பாளர் விடயத்தில் செயற்படுவதற்குரிய சாத்தியமான நிலைமைகள் இருப்பதால் தாங்கள்(வேலன் சுவாமிகள்) கட்சி சார்ந்த நபாராக அடையாளப்படுத்த மாட்டீர்கள் என்று சி.வி.விக்னேஸ்வரன் குறிப்பிட்டுள்ளார்.
+The General Secretary of the Tamil People's Alliance CV Wigneswaran has demanded that the Jaffna Sivaguru Adheena Thavathiru Vellan Swamis has demanded that the people's upliftment of the People's Movement from Pottuvil to Polikandi to be a common candidate on behalf of Tamils in the presidential election.
 
-...
+However, Velan Swamis responded that he did not want to act on the party in political activities.
+
+However, CV Wigneswaran has stated that they (Velan Swamis) will not identify as a party -based Nabar as all the Tamil parties have gathered and operated on the common candidate.
+
+Subsequently, he has requested a few days to express his position on the matter.
+
+CV Wigneswaran has demanded time to respond to the request made by Velan Swamis as a candidate.
+
+◼️
 
 [Data](articles/6ff8aa18.json)
+
+[Extended Data](ext_articles/6ff8aa18.ext.json)
 
 ---
 

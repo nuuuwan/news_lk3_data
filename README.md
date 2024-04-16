@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 23:52:37**
+As of **2024-04-17 00:03:30**
 
 ## Newspaper Stats
 
-*Scraped **19,211** Articles*
+*Scraped **19,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ dailyftlk | 1,040
 economynextcom | 1,082
 adalk | 1,600
 tamilmirrorlk | 2,240
-adaderanalk | 2,313
+adaderanalk | 2,314
 virakesarilk | 2,870
-dailymirrorlk | 2,961
+dailymirrorlk | 2,962
 adaderanasinhalalk | 3,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,201 (99.9%) of 19,211 articles have been extended.
+19,211 (100.0%) of 19,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### Dubai International Airport operations temporarily suspended; dozens of flights cancelled
+
+*2024-04-16 23:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98674/dubai-international-airport-operations-temporarily-suspended-dozens-of-flights-cancelled) · `en`
+
+Heavy rains and flooding persisted at Dubai International Airport (DXB), causing disruptions late into Tuesday evening. Operations halted for 25 mins in the afternoon, with 45 flights cancelled by 5:15 pm, a DXB spokesperson told Gulf News.
+
+“Due to the intense storm, operations were temporarily suspended for 25 minutes this afternoon, but have since recommenced, and are now in recovery mode,” the airport said in a statement.
+
+“A total of 21 outbound and 24 inbound flights have been cancelled since 12.02 am this morning, and 3 flights were diverted to other neighbouring airports,” the spokesperson said
+
+According to airline activity tracker flightradar24, Dubai International Airport arrivals showed an average disruption time of 74 minutes while departures were delayed by 85 minutes. Meanwhile, Zayed International Airport in Abu Dhabi arrivals were delayed by 45 minutes and departures were delayed by 55 minutes.
+
+...
+
+[Data](articles/69c80eeb.json)
+
+---
+
+### Advance Passenger Information could do wonders tracking drug smugglers – border agencies
+
+*2024-04-16 23:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Advance-Passenger-Information-could-do-wonders-tracking-drug-smugglers-border-agencies/108-280792) · `en`
+
+Colombo, April 16 (Daily Mirror) - The border surveillance agents will have to rely on traditional methods that enabled the recent arrest of a female Madagascar national with swallowed cocaine worth over Rs.34 million, whereas an Advance Passenger Information system at airport could do wonders in tracking down drug smugglers, the Daily Mirror learns.
+
+This came to light when the Customs officials intercepted a female Madagascar national arriving in Sri Lanka during Avurudu holidays and trying to smuggle in over 800grams of cocaine by carrying them in her abdomen.
+
+The officials have made the detection relying solely on the traditional methods of tracking down drug smugglers when a leading airport in the region like the Bandaranaike International Airport (BIA) should be equipped with an API system like any other international airport.
+
+...
+
+[Data](articles/a8b280a3.json)
+
+---
 
 ### Minister Douglas Dharma Fairy
 
@@ -375,6 +409,8 @@ RELATED Sri Lanka agrees to state contingent factor in ISB exchange, ESG bonds a
 ...
 
 [Data](articles/06352ba0.json)
+
+[Extended Data](ext_articles/06352ba0.ext.json)
 
 ---
 
@@ -884,6 +920,8 @@ Sri Lanka had made a proposal with combined plain vanilla (A-bonds) and a state 
 
 [Data](articles/345997fe.json)
 
+[Extended Data](ext_articles/345997fe.ext.json)
+
 ---
 
 ### Tesla laying off more than 10% of staff globally as sales fall
@@ -1088,6 +1126,8 @@ A bond maturing on 15.05.2030 closed at 12.25/50 percent. (Colombo/Apr16/2024)
 
 [Data](articles/e4df4c5e.json)
 
+[Extended Data](ext_articles/e4df4c5e.ext.json)
+
 ---
 
 ### Expressway generate revenue of Rs. 235 million in six days
@@ -1275,6 +1315,8 @@ The MP once again invited the NPP for whatever debate of their choosing.
 ...
 
 [Data](articles/0fef7b5a.json)
+
+[Extended Data](ext_articles/0fef7b5a.ext.json)
 
 ---
 
@@ -1464,6 +1506,8 @@ Sri Lanka agrees to state contingent factor in ISB exchange, ESG bonds also in p
 
 [Data](articles/edf355ed.json)
 
+[Extended Data](ext_articles/edf355ed.ext.json)
+
 ---
 
 ### Thailand’s ambassador in Kenya meets with Kananathan
@@ -1495,6 +1539,8 @@ SLFP members who left the party to join the ruling Sri Lanka Podujana Peramuna (
 ...
 
 [Data](articles/6acc1d72.json)
+
+[Extended Data](ext_articles/6acc1d72.ext.json)
 
 ---
 
@@ -1996,6 +2042,8 @@ Premajayantha, on an observation tour of the University of Illinois in Chicago, 
 
 [Data](articles/6e0b910d.json)
 
+[Extended Data](ext_articles/6e0b910d.ext.json)
+
 ---
 
 ### Gujarat businessman, wife donate Rs 200 crore wealth to become monks
@@ -2235,55 +2283,5 @@ The post-mortem is slated to be performed following the completion of the magist
 [Data](articles/dc620e6e.json)
 
 [Extended Data](ext_articles/dc620e6e.ext.json)
-
----
-
-### A woman arrested in Colombo for allegedly defrauding Rs.
-
-*2024-04-16 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181220) · `ta`
-
-A woman in Colombo is arrested for allegedly defrauding Rs. 2.5 crore from Jaffna residents by promising overseas employment via social media.
-
-🟩
-
-Police have arrested a woman who had been hiding in Colombo for allegedly defrauding about Rs 2 crore 50 lakhs of rupees from Jaffna for sending them overseas.
-
-He has defrauded about two and a half crore rupees from many people from Jaffna to advertise via social media to send them abroad and get employment overseas.
-
-It is reported that the woman was hiding in Colombo while investigating the complaint made by the Jaffna Crime Prevention Police regarding the fraud.
-
-Is she involved in fraud in Colombo?The police said that the police have launched investigations and then to hand over him to the Jaffna police.
-
-◼️
-
-[Data](articles/6816a8e2.json)
-
-[Extended Data](ext_articles/6816a8e2.ext.json)
-
----
-
-### Sydney church stabbing declared a ‘terrorist’ attack; 16-year-old under arrest
-
-*2024-04-16 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98660/sydney-church-stabbing-declared-a-terrorist-attack-16-year-old-under-arrest) · `en`
-
-Australian police have declared Monday’s stabbing at a Sydney church a religiously motivated “terrorist act”.
-
-A 16-year-old boy was arrested after a bishop, a priest and churchgoers were attacked during mass at the Assyrian Christ The Good Shepherd Church.
-
-At least four people suffered “non-life-threatening” injuries, police say. The attacker was also hurt.
-
-The incident was captured on a church livestream and quickly triggered unrest in the suburb of Wakeley.
-
-Australian police define terror offences as being ideologically motivated. Investigations are still under way, but they say they are satisfied this is a case of religious extremism.
-
-Authorities have repeatedly declined to state the religion of the alleged attacker.
-
-Graphic videos of the attack - and the aftermath - spread like wildfire on social media on Monday night, drawing an angry crowd to the Assyrian Orthodox Church, which is about 35km south-west of the city centre.
-
-...
-
-[Data](articles/8441b032.json)
-
-[Extended Data](ext_articles/8441b032.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 23:34:31**
+As of **2024-04-16 23:52:37**
 
 ## Newspaper Stats
 
-*Scraped **19,201** Articles*
+*Scraped **19,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,029
 dailyftlk | 1,040
-economynextcom | 1,072
+economynextcom | 1,082
 adalk | 1,600
 tamilmirrorlk | 2,240
 adaderanalk | 2,313
@@ -26,25 +26,37 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,200 (100.0%) of 19,201 articles have been extended.
+19,201 (99.9%) of 19,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### ’’அமைச்சர் டக்ளஸ் தர்ம தேவதை’’
+### Minister Douglas Dharma Fairy
 
 *2024-04-16 23:15:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-டக்ளஸ்-தர்ம-தேவதை/175-336008) · `ta`
 
-ஆயுதப் போராட்ட காலங்களிலும் சரி ஜனநாயக வழிமுறையினூடாகவும் சரி தமிழ் மக்களின் சுமைதாங்கும் தர்ம தேவதையாக அமைச்சர் டக்ளஸ் தேவானந்தா இருந்துவருகின்றார் என தெரிவித்த யாழ்ப்பாணம் பல்கலைக்கழகத்தின் துணைவேந்தர் பேராசிரியர் சிறீ.பற்கணராஜா - அமைச்சர் முன்னெடுக்கும் முயற்சிகள் தமிழ் மக்களுக்கும் நாட்டுக்கும் நன்மை பயர்ப்பனவாகவே இருந்து வந்துள்ளன என்றும் சுட்டிக்காட்டியுள்ளார்.
+Minister Douglas Devananda, Vice Chancellor of Jaffna University, praised the university's efforts for Tamil people and the country. He highlighted the 10th anniversary of the Jaffna University Democratic Employees Union event, emphasizing compassion, education, and livelihood improvements.
 
-யாழ்ப்பாண பல்கலைக்கழக ஜனநாயக ஊழியர் சங்கத்தின் 10 ஆவது ஆண்டு நிறைவை சிறப்பிக்கும் வகையில் ஏற்பாடு செய்யப்பட்ட இன்றைய நிகழ்வில்  நிகழ்வில் சிறப்பு  விருந்தினராக கலந்து கொண்டு உரையாற்றும் போதே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+🟩
 
-அமைச்சர் டக்ளஸ் தேவானந்தா  இளைஞராக இருந்த காலத்தில் அவரது செயற்பாடுகள் எவ்வாறானதாக இருந்ததென்பதை நினைவு கூர்ந்திருந்ததுடன் மேலும் கூறுகையில் –
+Minister Douglas Devananda, the Vice Chancellor of the University of Jaffna, said that the efforts of the Jaffna University, Professor Siri Parangarajah - The efforts of the Minister of Jaffna, have been beneficial to the Tamil people and the country.
+
+He was speaking as a special guest at today's event organized by the Jaffna University Democratic Employees Union to highlight the 10th anniversary of the event.
+
+Minister Douglas Devananda recalled what his actions were during his time as a youth and further said - "
+
+He has been very compassionate about how to know the need for the people and how to use their future, their future and their economy.
+
+In addition, the Tamil people's education has succeeded in breaking various efforts to further enhance the obstacles, despite the obstacles.
+
+As a result of this, the Kilinochchi science moves and the Jaffna University's Engineering Faculty.
 
 ...
 
 [Data](articles/d0110f0e.json)
+
+[Extended Data](ext_articles/d0110f0e.ext.json)
 
 ---
 
@@ -343,6 +355,26 @@ However Samagi Jana Balawegaya (SJB) MP and Chairman of Committee on Public Fina
 [Data](articles/6e77ce0f.json)
 
 [Extended Data](ext_articles/6e77ce0f.ext.json)
+
+---
+
+### Sri Lanka opposition welcomes ESG bond idea in ISB restructure, slams secrecy
+
+*2024-04-16 20:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-welcomes-esg-bond-idea-in-isb-restructure-slams-secrecy-158765/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s main opposition Samagi Jana Balawegaya has welcomed a proposal for governance linked bonds but re-voiced objections to underlying securities linked to economic performance that are sought by sovereign bondholders in a re-structuring.
+
+SJB said the bond holders clearly did not want to move away from macro-linked bonds, on a higher ‘alternative baseline’, based on the contents of a statement issued by the Finance Ministry after a first round of talks with bondholders in London.
+
+RELATED Sri Lanka agrees to state contingent factor in ISB exchange, ESG bonds also in play
+
+“The main problem with this approach from the point of view of Sri Lanka is with their proposed structure of sharing the upside,” opposition legislator Harsha de Silva, the economic spokesman of the SJB said in a statement.
+
+“It is not acceptable given the pain already incurred and will be incurred for decades to come by domestic creditors forced upon by the domestic debt restructure.”
+
+...
+
+[Data](articles/06352ba0.json)
 
 ---
 
@@ -836,6 +868,24 @@ The Sri Lanka Bar Association has appeared as an independent observation group i
 
 ---
 
+### Sri Lanka agrees to state contingent factor in ISB exchange, ESG bonds also in play
+
+*2024-04-16 18:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-agrees-to-state-contingent-factor-in-isb-exchange-esg-bonds-also-in-play-158683/) · `en`
+
+ECONOMYNEXT – Sri Lanka has agreed to issue bonds linked to economic performance (state contingent) when restructuring its defaulted sovereign bonds and had also indicated the willingness to consider a governance linked bond, a statement released after the first round of talks by the island’s Finance Ministry said.
+
+A committee representing bondholders had sent a revised proposal for a GDP linked bond (macro-linked bonds or MLB) in March with lower coupons for discussion at a meeting in London with Sri Lanka officials and advisors.
+
+“During the Meetings, it was agreed that the primary basis for the discussions would be the Group’s March Proposal,” the statement said.
+
+Sri Lanka had made a proposal with combined plain vanilla (A-bonds) and a state contingent adjustment factor (a bond which is based on economic performance) involving roughly a 28 percent hair cut, which was rejected by the bondholders.
+
+...
+
+[Data](articles/345997fe.json)
+
+---
+
 ### Tesla laying off more than 10% of staff globally as sales fall
 
 *2024-04-16 18:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tesla-laying-off-more-than-10-of-staff-globally-as-sales-fall/108-280783) · `en`
@@ -1018,6 +1068,28 @@ The petitioner asked that he be registered as a travel operator for 2024 and to 
 
 ---
 
+### Sri Lanka rupee closes weaker at 300.00/75 to the US dollar
+
+*2024-04-16 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-300-00-75-to-the-us-dollar-158735/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker to the US dollar in the spot forex market on Tuesday, rising over the 300 rupee mark at 300.00/75 for the first time this month, from 299.00/10 on Monday, dealers said. Bond yields remained broadly steady.
+
+A bond maturing on 15.12.2026 closed stable at 11.30/35 percent.
+
+A bond maturing on 15.09.2027 closed at 11.95/12.00 percent up from 11.90/12.00 percent.
+
+A bond maturing on 15.12.2028 closed at 12.10/15 percent down from 12.10/20 percent.
+
+A bond maturing on 15.09.2029 closed stable at 12.20/40 percent.
+
+A bond maturing on 15.05.2030 closed at 12.25/50 percent. (Colombo/Apr16/2024)
+
+◼️
+
+[Data](articles/e4df4c5e.json)
+
+---
+
 ### Expressway generate revenue of Rs. 235 million in six days
 
 *2024-04-16 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98666/expressway-generate-revenue-of-rs-235-million-in-six-days) · `en`
@@ -1181,6 +1253,28 @@ Four people were injured in the crash at the time of the sake of the slippery tr
 [Data](articles/0b0b0a8d.json)
 
 [Extended Data](ext_articles/0b0b0a8d.ext.json)
+
+---
+
+### SJB accuses NPP of avoiding calls for Sri Lanka presidential debate
+
+*2024-04-16 16:46:00* · [`economynextcom`](https://economynext.com/sjb-accuses-npp-of-avoiding-calls-for-sri-lanka-presidential-debate-158714/) · `en`
+
+ECONOMYNEXT — The leftist National People’s Power (NPP) is avoiding the main opposition Samagi Jana Balawegaya (SJB)’s call for a debate ahead of Sri Lanka’s upcoming presidential election, the SJB claimed.
+
+SJB MP Harshana Rajakaruna told reporters that when the SJB invited the Janatha Vimukthi Peramuna (JVP)-led NPP for a debate between the economic councils of the two parties, the NPP proposed a debate between the two party leaders instead.
+
+“We’re ready for both. The JVP is avoiding the issue,” said Rajakaruna, accusing the Marxist-Leninist party of obfuscating through various statements.
+
+Neither SJB leader Sajith Premadasa nor NPP leader Anura Kumara Dissanayake can govern alone and each would need a skilled team to implement their policies led by an honest leader, said Rajakaruna.
+
+“The most skilled team is with Premadasa in the SJB,” he said.
+
+The MP once again invited the NPP for whatever debate of their choosing.
+
+...
+
+[Data](articles/0fef7b5a.json)
 
 ---
 
@@ -1350,6 +1444,28 @@ New Year celebrations this time did not weed up compared to the past. Fireworks 
 
 ---
 
+### Sri Lanka stocks close down, banks take hit after ISB no deal
+
+*2024-04-16 15:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-banks-take-hit-after-isb-no-deal-158709/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
+
+The broader All Share Index closed down 1.78 percent, or 214.04 points, at 11,792; while the S&P SL20 Index closed down 2.66 percent, or 94.92 points, at 3,470.
+
+Turnover was at 1.4 billion. The banks (Rs302mn) and diversified financials (Rs234mn) sectors saw selling pressure.
+
+“There was a dip in the market. The run on the banks we saw earlier was on the expectation that there would be a positive outcome in the Government’s discussions with the international bond holders,” market participants said.
+
+“But with the government not reaching a deal, investors have taken it negatively. We saw the banks sector move down in value.
+
+Sri Lanka agrees to state contingent factor in ISB exchange, ESG bonds also in play
+
+...
+
+[Data](articles/edf355ed.json)
+
+---
+
 ### Thailand’s ambassador in Kenya meets with Kananathan
 
 *2024-04-16 15:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Thailands-ambassador-in-Kenya-meets-with-Kananathan/110-280786) · `en`
@@ -1361,6 +1477,24 @@ Ambassador of Thailand to Kenya Ms. Morakot Janemathukorn, paid a visit to Kenya
 [Data](articles/7f6435f5.json)
 
 [Extended Data](ext_articles/7f6435f5.ext.json)
+
+---
+
+### Crisis-hit Sri Lanka Freedom Party official accuses seniors of betrayal
+
+*2024-04-16 15:32:00* · [`economynextcom`](https://economynext.com/crisis-hit-sri-lanka-freedom-party-official-accuses-seniors-of-betrayal-158682/) · `en`
+
+ECONOMYNEXT — Tensions within the crisis-riddled Sri Lanka Freedom Party (SLFP) continue with the party’s acting general secretary now accusing party stalwarts of attempting to “betray” the party to its traditional rival the United National Party (UNP).
+
+MP Dushmantha Mithrapala told reporters that the SLFP, as one of the country’s leading centre-left parties, must continue to exist. He vowed to never allow the destruction of the party.
+
+“Some groups are trying to pin the SLFP on the UNP elephant’s tail, but the party members aren’t there. This leftist party should continue to exist in the country. A few people are trying to betray the SLFP to the UNP to retain their privileges,” he said.
+
+SLFP members who left the party to join the ruling Sri Lanka Podujana Peramuna (SLPP) and the party’s wider membership countrywide now have the opportunity to regroup and “rise strong as a party”, said Mithrapala.
+
+...
+
+[Data](articles/6acc1d72.json)
 
 ---
 
@@ -1848,6 +1982,22 @@ He also emphasized the need to preserve the IMF program and maintain the need fo
 
 ---
 
+### Peradeniya University Sri Lanka, University of Illinois sign MoU for exchange program
+
+*2024-04-16 13:25:00* · [`economynextcom`](https://economynext.com/peradeniya-university-sri-lanka-university-of-illinois-sign-mou-for-exchange-program-158675/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s University of Peradeniya has signed a Memorandum of Understanding (MoU) with the University of Illinois in Chicago, USA, to establish an exchange program.
+
+“This memorandum aimed to establish an exchange programme focusing on education and research, offering Sri Lankan students the opportunity to delve into innovative learning methods,” Minister of Education Susil Premajayantha said on his social media page.
+
+Premajayantha, on an observation tour of the University of Illinois in Chicago, “expressed a desire for the university to share its cutting-edge technical methods with students in Sri Lanka”. (Colombo/April16/2024)
+
+◼️
+
+[Data](articles/6e0b910d.json)
+
+---
+
 ### Gujarat businessman, wife donate Rs 200 crore wealth to become monks
 
 *2024-04-16 13:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gujarat-businessman-wife-donate-Rs-200-crore-wealth-to-become-monks/108-280769) · `en`
@@ -2135,161 +2285,5 @@ Graphic videos of the attack - and the aftermath - spread like wildfire on socia
 [Data](articles/8441b032.json)
 
 [Extended Data](ext_articles/8441b032.ext.json)
-
----
-
-### Malwatte Maha Nayaka demands the Development Agreement of Anula Chaitya
-
-*2024-04-16 12:30:43* · [`adalk`](https://www.ada.lk/breaking_news/අනුලා-චෛත්‍යයේ-සංවර්ධන-ගිවිසුම-අවලංගු-කරන්නැයි-මල්වතු-මහ-නාහිමි-ජනපතිගෙන්-ඉල්ලති/11-409101) · `si`
-
-Malwatte Maha Nayaka demands the Development Agreement of Anula Chaitya, sending a letter to President Wickremesinghe. This involves Mihintale Akula Sasana, the Chief Incumbent of Mihinthala Rajamaha Viharaya, and the Mahawanayake and Mihintala Rajamaha Viharaya. The Maha Nayaka requests proper use of the agreement for historical heritage.
-
-🟩
-
-President Ranil by President of the Malwathu Maha ViharayaA letter has been sent to Mr. Wickremesinghe.
-
-This article has informed Mihintale Akula Sasana, who is considered as the opening point in Sri Lanka, and is a temple from the Mihintamha Rajamaha Viharaya, the Chief Incumbent of the Mihinthala Rajamaha Viharaya.
-
-However, the letter of Buddha Sasana and the Cultural Affairs and other monkeys have been contracted to the President of the Mahanayaka and the Chief Incumbent of the Mihinthala Rajamaha Viharaya.
-
-Malwathu Maha Na Thera sent to take necessary steps to be carried out with the proper use of the agreement, the Mahawanayake and Mihintala Rajamaha Viharaya of this historical heritage, the Chief Incumbent of the Mahinaminla Rajamaha Viharaya of this historical holder.The letter further states.
-
-◼️
-
-[Data](articles/a51989b7.json)
-
-[Extended Data](ext_articles/a51989b7.ext.json)
-
----
-
-### The body of a candidate student drowned at Bentota Sath was in Moragalla
-
-*2024-04-16 12:20:47* · [`adalk`](https://www.ada.lk/breaking_news/බෙන්තොට-මුහුදේදී-දියේ-ගිලුණු-සාපෙළ-අපේක්ෂක-සිසුවාගේ-සිරුර-මොරගල්ල-වෙරලේ/11-409100) · `si`
-
-A 16-year-old student drowned near Bentota Resort, where she had disappeared while wandering the seastories. She was preparing for exams at Dirraya School and Durish College. Police are investigating.
-
-🟩
-
-The body of the schoolgirl who had disappeared while Wandering the Bentota seastories yesterday evening.
-
-The victim was a 16 year old student, who was ready to sit for the Ordinary Level Examination in the Dirraya School, and to sit for the Ordinary Level Examination in the Durish College.
-
-Police said he had gone to the neighborhood while claimed at sea near the Bentota Resort, police said.
-
-Bentota and Aluthgama Police are conducting further investigations
-
-◼️
-
-[Data](articles/09a8c6d8.json)
-
-[Extended Data](ext_articles/09a8c6d8.ext.json)
-
----
-
-### Sri Lanka cannot be pushed into global conflict: SJB MP
-
-*2024-04-16 12:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-cannot-be-pushed-into-global-conflict-SJB-MP/108-280768) · `en`
-
-Colombo, April 16 (Daily Mirror)- Sri Lanka cannot be pushed and bumped into a global conflict and therefore it should be diligent in its dealings with various nations, a Samagi Jana Balawegaya (SJB) MP said today.
-
-SJB MP Harshana Rajakaruna came out with this remark when asked about his party’s stance on the visit of Iranian President Ebrahim Raisi to Sri Lanka on April 24 this year.
-
-“Sri Lanka cannot afford to be pushed and bumped into a global conflict and we expect the rulers of our country to be diligent in dealing with various nations. Sri Lanka should take a neutral stand on the conflict in the Middle East,” the MP said.
-
-“Sri Lanka should maintain sound diplomatic ties with all nations in the world,” he added.
-
-◼️
-
-[Data](articles/0583a319.json)
-
-[Extended Data](ext_articles/0583a319.ext.json)
-
----
-
-### Sri Lanka cannot to be pushed into global conflict: SJB MP
-
-*2024-04-16 12:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-cannot-to-be-pushed-into-global-conflict-SJB-MP/108-280768) · `en`
-
-Colombo, April 16 (Daily Mirror)- Sri Lanka cannot be pushed and bumped into a global conflict and therefore it should be diligent in its dealings with various nations, a Samagi Jana Balawegaya (SJB) MP said today.
-
-SJB MP Harshana Rajakaruna came out with this remark when asked about his party’s stance on the visit of Iranian President Ebrahim Raisi to Sri Lanka on April 24 this year.
-
-“Sri Lanka cannot afford to be pushed and bumped into a global conflict and we expect the rulers of our country to be diligent in dealing with various nations. Sri Lanka should take a neutral stand on the conflict in the Middle East,” the MP said.
-
-“Sri Lanka should maintain sound diplomatic ties with all nations in the world,” he added.
-
-◼️
-
-[Data](articles/1aad96ec.json)
-
-[Extended Data](ext_articles/1aad96ec.ext.json)
-
----
-
-### Sri Lanka commences IMF/WBG Spring meeting with productive bilateral discussion: Semasinghe
-
-*2024-04-16 12:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-commences-IMFWBG-Spring-meeting-with-productive-bilateral-discussion-Semasinghe/108-280766) · `en`
-
-Colombo, April 1 (Daily Mirror)- Sri Lanka commenced the International Monetary Fund and the World Bank Group (IMF/WBG) Spring meeting with a very productive bilateral discussion with Kenji Okamura, Deputy Managjng Director of the IMF, State Minister of Finance Shehan Semasinghe said.
-
-He said in a post on X that Okamura commended the Sri Lankan authorities on the strong programme implementation and excellent reform progress.
-
-The Minister said Okamura emphasised the need to preserve the hard-earned gains Sri Lanka has experienced since the beginning of the IMF programme and continue strong ownership.
-
-"I, along with the Governor of the CBSL and Secretary to the Treasury, explained to Okamura the recent socio-economic developments and the authorities' commitment to ensuring continuity and consistency of macroeconomic policies and reforms undertaken under the programme," he said.
-
-◼️
-
-[Data](articles/36a34d6b.json)
-
-[Extended Data](ext_articles/36a34d6b.ext.json)
-
----
-
-### Guidance on MD 2 pineapple cultivation in Sri Lanka
-
-*2024-04-16 12:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Guidance-on-MD-2-pineapple-cultivation-in-Sri-Lanka/108-280767) · `en`
-
-Colombo, April 12 (Daily Mirror) - The Agriculture Department is set to provide urgent recommendations for the cultivating one of the world's most popular pineapple varieties, MD 2 or Super Sweet Pineapple (Ananas comosus) in Sri Lanka.
-
-Agriculture and Plantation Industries Minister Mahinda Amaraweera said the most delicious pineapple species in the world are reported from Sri Lanka. Therefore, there is a great demand in the world market for pineapples grown in Sri Lanka.
-
-Even though there is a huge demand for the MD 2 pineapple variety in the world market, no steps have been taken to cultivate this pineapple variety in this country. The research conducted to cultivate this pineapple variety with a sweet taste and minimum acidity in Sri Lanka has also been successful.
-
-Under the recommendations of the Crop Release Committee, the Minister advised the Agriculture Department to speed up the process of recommending this MD 2 pineapple variety for cultivation in Sri Lanka.
-
-...
-
-[Data](articles/8ee75dd1.json)
-
-[Extended Data](ext_articles/8ee75dd1.ext.json)
-
----
-
-### Jaffna Police Officer complained to a Swiss woman
-
-*2024-04-16 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/181215) · `ta`
-
-A Jaffna police officer allegedly defrauded a Swiss woman of 50 lakh rupees by marrying her, living with her children in Switzerland, and refusing to return money. The woman, who migrated to Switzerland, lodged a complaint in Jaffna, where the police officer was known to the Tamil police. Despite efforts to reconcile, the officer refused to return the money, leading to the woman's complaint.
-
-🟩
-
-A police officer has lodged a complaint with a police officer for allegedly defrauding about 50 lakh rupees for allegedly marrying a woman living in a Swiss country from Jaffna.
-
-A woman from Jaffna migrates and lives in Swiss. When he is married and has children, he is living with her children in the Swiss country.
-
-When the woman arrived in Jaffna a few years ago, she went to the police station to lodge a complaint about the conflicts of the native assets of the woman.
-
-At the time of the complaint, the Tamil police who were on duty at the police station became accustomed to the police officer.
-
-That habit continues even after the woman has gone abroad. At one point it blossomed in love. After that, the Swiss woman has been given money and jewelry to the police officer here.
-
-At one point, the woman also made efforts to take the police officer to the Swiss country. The police officer refused to do so and said he would not leave the country.
-
-...
-
-[Data](articles/dc242a8b.json)
-
-[Extended Data](ext_articles/dc242a8b.ext.json)
 
 ---

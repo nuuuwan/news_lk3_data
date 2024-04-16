@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 08:34:54**
+As of **2024-04-16 08:52:26**
 
 ## Newspaper Stats
 
-*Scraped **19,029** Articles*
+*Scraped **19,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,039
 economynextcom | 1,065
 adalk | 1,583
 tamilmirrorlk | 2,222
-adaderanalk | 2,292
+adaderanalk | 2,293
 virakesarilk | 2,830
 dailymirrorlk | 2,924
 adaderanasinhalalk | 3,102
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,102
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,029 (100.0%) of 19,029 articles have been extended.
+19,029 (100.0%) of 19,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### Fairly heavy rainfall of about 75mm expected in several areas
+
+*2024-04-16 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98655/fairly-heavy-rainfall-of-about-75mm-expected-in-several-areas) · `en`
+
+Showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central and North-western provinces and Mannar, Galle and Matara districts, the Department of Meteorology says.
+
+Showers or thundershowers will occur at times in Uva province and Batticaloa, Ampara and Hambantota districts.
+
+Fairly heavy showers of about 75 mm are likely at some places in Western, Sabaragamuwa and North-western provinces.
+
+Misty conditions can be expected in parts of the Western, Sabaragamuwa and Central provinces and Galle and Matara districts during the morning.
+
+The general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/e6db20c0.json)
+
+---
 
 ### State Minister Chamara travels off at once
 
@@ -2217,37 +2237,5 @@ The persons held in this operation have been identified as residents of Kinniya 
 [Data](articles/4394d33a.json)
 
 [Extended Data](ext_articles/4394d33a.ext.json)
-
----
-
-### Australian court ruling that the media news is correct
-
-*2024-04-15 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181127) · `ta`
-
-An Australian court ruled that a media report about a parliamentary employee, British Hickins, being sexually assaulted by Bruce Lehman was correct. Lehman was found to have sexually assaulted Hickins, who had reported the incident three years ago, sparking widespread protests in Australia.
-
-🟩
-
-The Australian court said that a female employee in the Australian parliament was reported to be sexually assaulted.
-
-Australian parliamentary employee, British Hickins, was accused by an employee of Bruce Lehman.
-
-Brucelehman engaged in court proceedings against the company for a media report.
-
-The Australian court today ruled that the media's issues are correct.
-
-The judge said that Brucelehman had sexually assaulted the British Hikkins.
-
-The judge said that 28 -year -old Lehman was very sure of having sex with the woman.
-
-Higgins said he had been raped in parliamentary office three years ago, which caused a stir in Australia.
-
-Thousands of demonstrations took place.
-
-◼️
-
-[Data](articles/71b9069b.json)
-
-[Extended Data](ext_articles/71b9069b.ext.json)
 
 ---

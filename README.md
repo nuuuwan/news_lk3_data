@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 08:52:26**
+As of **2024-04-16 09:03:21**
 
 ## Newspaper Stats
 
-*Scraped **19,030** Articles*
+*Scraped **19,039** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 islandlk | 1,027
 dailyftlk | 1,039
 economynextcom | 1,065
-adalk | 1,583
-tamilmirrorlk | 2,222
+adalk | 1,584
+tamilmirrorlk | 2,223
 adaderanalk | 2,293
-virakesarilk | 2,830
-dailymirrorlk | 2,924
+virakesarilk | 2,831
+dailymirrorlk | 2,930
 adaderanasinhalalk | 3,102
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,029 (100.0%) of 19,030 articles have been extended.
+19,030 (100.0%) of 19,039 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### மின்னல் தாக்கியதில் ஒருவர் உயிரிழப்பு!
+
+*2024-04-16 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181188) · `ta`
+
+வயலில்  வேலை செய்து கொண்டிருந்த ஒருவரே இவ்வாறு  மின்னல் தாக்கி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்தச் சம்பவமானது நேற்று திங்கட்கிழமை (15) இடம்பெற்றுள்ளதோடு, உயிரிழந்தவர் கெகெலான, கொட்டியாகலை பிரதேசத்தைச் சேர்ந்த 65  வயதுடையவராவார்.
+
+◼️
+
+[Data](articles/ad34cefc.json)
+
+---
 
 ### Fairly heavy rainfall of about 75mm expected in several areas
 
@@ -49,6 +63,28 @@ The general public is advised to take adequate precautions to minimize damages c
 ◼️
 
 [Data](articles/e6db20c0.json)
+
+[Extended Data](ext_articles/e6db20c0.ext.json)
+
+---
+
+### Debt restructuring with bondholders hits a snag with disagreement on two areas
+
+*2024-04-16 08:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Debt-restructuring-with-bondholders-hits-a-snag-with-disagreement-on-two-areas/155-280737) · `en`
+
+Colombo, April 16 (Daily Mirror) - Sri Lanka’s debt restructuring process with private bondholders is stuck with two aspects of disagreement, whereas it is well underway with bilateral creditors, a top official said yesterday.
+
+Chief of Staff of the President Sagala Ratnayake told journalists that both parties, instructed by respective consultants, held two talks this year with each submitting proposals and counter-proposals.
+
+He said the International Monetary Fund (IMF) cited the government’s proposals as compliant, whereas the bondholders’ proposals were not.
+
+After that, he said there were four areas with disagreements were identified and subsequent negotiations resulted in narrowing them down to two.
+
+Asked whether it was the local dealer or foreign dealers (bondholders) who disagreed, Mr. Ratnayake said these details could not be divulged. “We cannot come out with details on these factors as we have agreed to maintain confidentiality concerning discussions,” he said in this regard.
+
+...
+
+[Data](articles/d5fc3165.json)
 
 ---
 
@@ -184,6 +220,22 @@ The match was hit with 38 hits and was also the highest six beat recorded in any
 
 ---
 
+### MPs request lower-priced vehicle permits ahead of presidential election
+
+*2024-04-16 06:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MPs-request-lower-priced-vehicle-permits-ahead-of-presidential-election/108-280736) · `en`
+
+Colombo, April 16 (Daily Mirror) - A group of MPs from both the ruling party and the opposition have urged the speaker and government officials to provide vehicle permits at lower prices if the previously issued duty-free licenses cannot be granted before the upcoming presidential election.
+
+Sources said that the MPs plan to address this issue in the House Committee of Parliament in the near future.
+
+Several MPs from both political factions have highlighted to parliamentary leaders the significant challenge posed by the lack of vehicles for conducting political activities during the forthcoming elections. They have emphasized that several newly elected MPs do not possess any vehicles.
+
+...
+
+[Data](articles/26f2132d.json)
+
+---
+
 ### Showers in several areas this afternoon
 
 *2024-04-16 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195664) · `si`
@@ -210,6 +262,42 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
+### Global expansion of single-origin Sri Lankan chocolate a major struggle: Mendis
+
+*2024-04-16 04:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Global-expansion-of-single-origin-Sri-Lankan-chocolate-a-major-struggle-Mendis/108-280733) · `en`
+
+Chocolatier Mendis points out shortage of cocoa beans and poor cooperation of authorities as key challenges
+
+Says local growers stand to gain higher prices, due to limited availability of cocoa globally
+
+Sri Lanka’s celebrity chocolatier, chef and agriculture enthusiast Gerard Mendis faces an uphill battle in his bid to take single-origin Sri Lankan chocolates global. This is primarily due to the shortage of cocoa beans and absence of active cooperation of authorities.
+
+“In Sri Lanka, we have our own cocoa beans but we don’t have a sufficient quantity to cater to the demand of the local market. I took some (local) cocoa beans to a factory in Switzerland. Their feedback was that it (Sri Lankan cocoa) was one of the best they had ever tried and were keen on getting more. Unfortunately, we don’t have the quantity,” Mendis told Mirror Business.
+
+...
+
+[Data](articles/c97f108f.json)
+
+---
+
+### Central Bank’s March dollar purchases hit record high
+
+*2024-04-16 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Banks-March-dollar-purchases-hit-record-high/108-280732) · `en`
+
+The Central Bank has purchased the most amount of dollars for a single month in March, a sign that the country is currently in a very comfortable position in its foreign currency liquidity, after two years into the worst currency crisis in the country.
+
+According to the data released last week, the Central Bank purchased US $ 715.1 million in March, which is the highest ever in the last decade. While the monetary watchdog sold none, the dollar purchase is a sharp increase from the roughly US $ 240 million purchased from the banking system in February, on a net basis.
+
+In January, the Central Bank purchased US $ 245.3 million and thus, the March net absorptions brought the first three months’ purchases to US $ 1,199.0 million.
+
+The Central Bank later last month said it would intervene in the foreign currency market to prevent excessive volatility, as the rupee has in recent times appreciated quite significantly after it plunged to its lowest levels in 2022.
+
+...
+
+[Data](articles/86358c00.json)
+
+---
+
 ### Political accounts in the presidential election
 
 *2024-04-16 01:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181186) · `ta`
@@ -233,6 +321,20 @@ Even if the federation is currently in action, its membership parties are still 
 [Data](articles/716feae1.json)
 
 [Extended Data](ext_articles/716feae1.ext.json)
+
+---
+
+### வெங்காய ஏற்றுமதி தடையை நீக்கியது இந்தியா
+
+*2024-04-16 01:34:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெங்காய-ஏற்றுமதி-தடையை-நீக்கியது-இந்தியா/175-335978) · `ta`
+
+அத்துடன், 10 ஆயிரம் மெட்ரிக் தொன் வெங்காயத்தை இந்தியா இலங்கைக்கு ஏற்றுமதி செய்துள்ளது.
+
+இந்த வெங்காய ஏற்றுமதியுடன், இலங்கைக்கான வெங்காயம் மீதான ஏற்றுமதி தடை நீக்கப்பட்டுள்ளதாக கொழும்பில் உள்ள இந்திய உயர்ஸ்தானிகராலயம் தெரிவித்துள்ளது.  (a)
+
+◼️
+
+[Data](articles/d8ac1807.json)
 
 ---
 
@@ -587,6 +689,24 @@ Interestingly, both conflicts involved a female member of the Bandaranaike famil
 [Data](articles/4515bec5.json)
 
 [Extended Data](ext_articles/4515bec5.ext.json)
+
+---
+
+### Prioritise building inclusive social protection system: ADB tells Sri Lanka
+
+*2024-04-16 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prioritise-building-inclusive-social-protection-system-ADB-tells-Sri-Lanka/108-280728) · `en`
+
+The Asian Development Bank (ADB) stressed that for Sri Lanka, the near-term priority during economic recovery is to lay institutional and structural frameworks for an inclusive social protection system.
+
+In the absence of a cohesive social protection strategy and governance mechanism, programmes in the past have been fragmented, with low coverage, poor targeting, high inclusion and exclusion errors and low payments, the ADB said in its annual flagship economic publication, the Asian Development Outlook (ADO) April 2024.
+
+In 2023, the government introduced the Aswesuma programme to consolidate over 25 state-sponsored cash-transfer programmes that were previously managed by several government agencies.
+
+The ADB asserted that this programme could be further strengthened with increased individual support, better forward planning and an effective graduation mechanism with technical and life skill training, better financial literacy education and enhanced social and financial inclusion.
+
+...
+
+[Data](articles/e50428af.json)
 
 ---
 
@@ -1424,6 +1544,24 @@ Several BIMSTEC countries have bilateral trade agreements, such as Sri Lanka and
 
 ---
 
+### කුරුණෑගලින් කෝවිඩ් මරණයක්
+
+*2024-04-15 18:02:53* · [`adalk`](https://www.ada.lk/breaking_news/කුරුණෑගලින්-කෝවිඩ්-මරණයක්/11-409093) · `si`
+
+දිගු කලකට පසුව කුරුණෑගල ශික්ෂණ රෝහලෙන් කොවිඩ් ආසාදිත මරණයක් වාර්තා වේ.කුරුණෑගල ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මරණයට පත් කාන්තාවක් සම්බන්ධයෙන් ඇතිවූ සැකයක් මත කරන ලද පීසීආර්  පරික්ෂාවකදී එම මරණයට හේතුව කොවිඩ් වෛරසය ආසාදනය වීම බව අනාවරණය වී ඇත.
+
+මේ හේතුවෙන් එම රෝගියා බාහිර පරිසරයට නිරාවරණයවූ ප්‍රතිකාර ලැබූ වාට්ටුවේ රෝගීන් සහ කාර්ය මණ්ඩලය නිරෝධායනයට ලක් කිරීමට රෝහල් බලධාරීන් පියවර ගෙන තිබේ.
+
+කොවිඩ් වසංගත තත්ත්වය ජනතාව මෙන්ම ජනතාවද නොසලකා හැර තිබෙන අවස්ථාවක මෙය නැවත අවධානයට ලක් විය යුතු බරපතළ කරුණක් වන බවද රෝහල් ආරංචි මාර්ග සඳහන් කළේය.
+
+මේ වනවිට කොවිඩ් වසංගත තත්ත්වය සාමාන්‍ය මට්ටමෙන් සලකා මරණයට පත් වන රෝගීන්ගේ මෘත දේහ ආදාහනයකට ලක් නොකර පවුලේ ඥාතීන් වෙත බාර දීම සෞඛ්‍ය අංශ මගින් සිදුවේ.
+
+◼️
+
+[Data](articles/b9c2a4f4.json)
+
+---
+
 ### Violence in Sydney Church
 
 *2024-04-15 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181163) · `ta`
@@ -2061,181 +2199,5 @@ The Railway Department has launched a test at the Railway Department regarding t
 [Data](articles/66e4d1b5.json)
 
 [Extended Data](ext_articles/66e4d1b5.ext.json)
-
----
-
-### Employment in Parliament
-
-*2024-04-15 16:07:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தில்-வேலைவாய்ப்பு/175-335960) · `ta`
-
-Sri Lanka's Parliament seeks economists for "Parliament Budget Officer" and "Deputy Parliament Budget Officer" roles, aiming to independently assess financial laws. The Parliamentary Budget Office, established to support public financial responsibilities, will be free from political influence, with a five-year contract and a minimum initial monthly pay of Rs. 665,000 for the Budget Officer and Rs. 560,000 for the Deputy. Applications due by May 6, 2024.
-
-🟩
-
-Applications are requested for the posts of "Parliament Budget Officer" and "Deputy Parliament Budget Officer" for the Parliamentary Budget Office in Sri Lanka.
-
-According to vacancies announced on the official website of Parliament, the Parliamentary Budget Office has been established to assist the Legislature in carrying out public financial responsibilities under the Constitution.
-
-“The Parliament Budget Office is free, non -party, and exclusively protected from any political influence. It will be appropriately hired with qualified economists and will work on making high quality analysis and reports, ”the statement said.
-
-Positions are a five -year contract period, while the minimum initial total monthly pay for the post of Parliament Budget Officer along with all other allowances. 665,000 and for the post of Deputy Parliamentary Budget Officer Rs.. 560,000.
-
-...
-
-[Data](articles/171a3738.json)
-
-[Extended Data](ext_articles/171a3738.ext.json)
-
----
-
-### Vigneswaran asked for time
-
-*2024-04-15 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/181134) · `ta`
-
-CV Wigneswaran, General Secretary of the Tamil People's Alliance, has asked for time to respond to Tawatru Velan Swamis's request for a common Tamil candidate in the presidential election. Velan Swamis, however, declined to participate in party politics. Wigneswaran emphasized that Velan Swamis would not be identified as a party-based Nabar, as all Tamil parties have agreed on a common candidate.
-
-🟩
-
-CV Wigneswaran has demanded time to respond to the request made by Tawatru Velan Swamis as the candidate of the presidential election.
-
-The General Secretary of the Tamil People's Alliance CV Wigneswaran has demanded that the Jaffna Sivaguru Adheena Thavathiru Vellan Swamis has demanded that the people's upliftment of the People's Movement from Pottuvil to Polikandi to be a common candidate on behalf of Tamils in the presidential election.
-
-However, Velan Swamis responded that he did not want to act on the party in political activities.
-
-However, CV Wigneswaran has stated that they (Velan Swamis) will not identify as a party -based Nabar as all the Tamil parties have gathered and operated on the common candidate.
-
-Subsequently, he has requested a few days to express his position on the matter.
-
-CV Wigneswaran has demanded time to respond to the request made by Velan Swamis as a candidate.
-
-◼️
-
-[Data](articles/6ff8aa18.json)
-
-[Extended Data](ext_articles/6ff8aa18.ext.json)
-
----
-
-### Woman drowns, husband missing while bathing in Victoria Reservoir
-
-*2024-04-15 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98646/woman-drowns-husband-missing-while-bathing-in-victoria-reservoir) · `en`
-
-A woman has drowned while her husband is reported missing while they were bathing in the Victoria Reservoir at Kumbukkandura in the Teldeniya police area.
-
-Police said that the deceased is a 22-year-old woman and that her missing husband is 28 years old while they are residents of Thihariya.
-
-According to police, they were among a group of individuals bathing at the location, during a visit to the deceased’s hometown, when they had both gone underwater suddenly owing to strong currents.
-
-The young woman’s body has been recovered while police and residents in the area have launched a search operation to locate her missing husband, who is also feared drowned.
-
-◼️
-
-[Data](articles/f0e6c1ea.json)
-
-[Extended Data](ext_articles/f0e6c1ea.ext.json)
-
----
-
-### Drastic dip in accidents injuries during festive season
-
-*2024-04-15 16:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Drastic-dip-in-accidents-injuries-during-festive-season/108-280712) · `en`
-
-Colombo, April 15 (Daily Mirror) - Health authorities have noticed a significant decrease in accidents, notably firecracker-related incidents, during the festive season.
-
-According to Deputy Director of the Colombo National Hospital Dr Rukshan Bellana, there were no admissions due to firecracker-related accidents during the period
-
-However, three patients sought treatment at the outpatient department for minor injuries at the National Hospital.
-
-Furthermore, there were only a few incidents of motor accidents, domestic accidents including falling. Nevertheless, none of the incidents were critical.
-
-◼️
-
-[Data](articles/3fd0600b.json)
-
-[Extended Data](ext_articles/3fd0600b.ext.json)
-
----
-
-### Drastic dip in accidents during festive season
-
-*2024-04-15 16:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Drastic-dip-in-accidents-during-festive-season/108-280712) · `en`
-
-Colombo, April 15 (Daily Mirror) - Health authorities have noticed a significant decrease in accidents, notably firecracker-related incidents, during the festive season.
-
-According to Deputy Director of the Colombo National Hospital Dr Rukshan Bellana, there were no admissions due to firecracker-related accidents during the period
-
-However, three patients sought treatment at the outpatient department for minor injuries at the National Hospital.
-
-Furthermore, there were only a few incidents of motor accidents, domestic accidents including falling. Nevertheless, none of the incidents were critical.
-
-◼️
-
-[Data](articles/73078d64.json)
-
-[Extended Data](ext_articles/73078d64.ext.json)
-
----
-
-### Sri Lanka stocks close down, turnover at 2.5bn
-
-*2024-04-15 16:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-at-2-5bn-158545/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
-
-The broader All Share Index closed down 0.22 percent, or 26.90 points, at 12,006; while the S&P SL20 Index closed down 0.21 percent, or 7.51 points, at 3,565.
-
-Turnover was at 2.5 billion. Banks (Rs675mn) and the food, beverage and tobacco (Rs568mn) sectors brought in most of the value.
-
-Hatton National Bank Plc was the most traded stock at 404 million rupees in turnover. The share closed down at 199.00.
-
-Melstacorp Plc also saw investor interest (Rs354mn) and closed down at 92.00. (Colombo/Apr15/2024)
-
-◼️
-
-[Data](articles/e890af35.json)
-
-[Extended Data](ext_articles/e890af35.ext.json)
-
----
-
-### The death of children
-
-*2024-04-15 15:53:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெஞ்சை-பதற-வைத்த-பச்சிளம்-குழந்தைகளின்-மரணம்/175-335958) · `ta`
-
-In Hettipola, an 8-year-old boy died when a gingerbread camel statue fell on him. In Ruhunugama, a 3.5-year-old girl drowned after a plastic water bottle washed into her house.
-
-🟩
-
-An 8 -year -old boy died in a tragic death of a camera in Hettipola, Thikkaladera.
-
-Police say that a statue of a camel made of a gingerbread that was placed in the courtyard of the house fell on the child's body.
-
-Meanwhile, a three -and -a -half -year -old girl has died after a plastic water washed into a house in the village of Ruhunugama, Polonnaruwa - Aralangwila.
-
-◼️
-
-[Data](articles/8c6dd3ac.json)
-
-[Extended Data](ext_articles/8c6dd3ac.ext.json)
-
----
-
-### Navy nabs 08 persons for engaging in illegal fishing in eastern waters
-
-*2024-04-15 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98645/navy-nabs-08-persons-for-engaging-in-illegal-fishing-in-eastern-waters) · `en`
-
-The Sri Lanka Navy has apprehended 08 persons for their involvement in illegal fishing using unauthorized fishing nets, during a search operation conducted in Upparu sea area of Muthur on Sunday (14).
-
-During this operation, navy has also taken custody of a dinghy and unauthorized fishing equipment used for this illegal act.
-
-Having spotted the suspicious dinghy, SLNS Parakumba in the Eastern Naval Command has taken the eight individuals into custody, along with their fishing gear and the dinghy after conducting a more thorough search of the dinghy.
-
-The persons held in this operation have been identified as residents of Kinniya area, who are aged between 23 and 63. The individuals along with the seized items were handed over to the Fisheries Inspector of Muthur for onward legal action, the navy said.
-
-◼️
-
-[Data](articles/4394d33a.json)
-
-[Extended Data](ext_articles/4394d33a.ext.json)
 
 ---

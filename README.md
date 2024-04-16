@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 20:33:56**
+As of **2024-04-16 20:51:24**
 
 ## Newspaper Stats
 
-*Scraped **19,182** Articles*
+*Scraped **19,185** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,68 +19,124 @@ adalk | 1,598
 tamilmirrorlk | 2,239
 adaderanalk | 2,309
 virakesarilk | 2,867
-dailymirrorlk | 2,956
+dailymirrorlk | 2,959
 adaderanasinhalalk | 3,126
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,179 (100.0%) of 19,182 articles have been extended.
+19,182 (100.0%) of 19,185 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### ඒ. ටී. ආරියරත්න අභාවප්‍රාප්ත වෙයි
+### Parliament’s Budget Officer to get handsome salary of Rs 665,000
+
+*2024-04-16 20:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliaments-Budget-Officer-to-get-handsome-salary-of-Rs-665-000/108-280789) · `en`
+
+Colombo, April 16 (Daily Mirror) - Parliament is offering a total monthly salary of Rs 665,000 to a ‘budget officer’ which is a newly created post in the House.
+
+As per the official website the basic salary of the budget officer is said to be Rs 408,360 while it will come to a total of Rs 665,000 with all allowances.
+
+The age limit of the officer should be 65 years. Any eligible person should possess at least 15 years of experience in the government budgeting, financial policy, fiscal policy or macroeconomic analysis according to the official notice of the House.
+
+However Samagi Jana Balawegaya (SJB) MP and Chairman of Committee on Public Finance (COPF) Harsha de Silva in his X message said a former senior multilateral agency professional would fit in to the job. The budget officer will be hired on a five year contract according to him.
+
+...
+
+[Data](articles/6e77ce0f.json)
+
+---
+
+### New Visa procedure implemented
+
+*2024-04-16 20:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-Visa-procedure-implemented/108-280788) · `en`
+
+Colombo, April 16 (Daily Mirror) - The Immigration and Emigration Department today announced the implementation of new Visa procedures and the launch of an online Visa issuing system starting tomorrow,  Immigration and Emigration Conroller General I.S.H.J. Illukpitiya said.
+
+As per the new system, the fees for the issue of Vidas, necessary amenities and the duration of stays in Sri Lanka are detailed in a gazette notification (2360/24) released on November 27, 2023.
+
+According to the announcement, the durations and charges for Tourist, Business, Transit Visas are as follows:
+
+◼️
+
+[Data](articles/9fa020e5.json)
+
+---
+
+### it. T. Death of Eriyaratne
 
 *2024-04-16 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195698) · `si`
 
-සර්වෝදය ව්‍යාපාරයේ නිර්මාතෘ ආචාර්ය ඒ. ටී. ආරියරත්න මහතා අද (16) පස්වරුවේ අභාවප්‍රාප්ත වී තිබේ.
+T. Ariyaratne, founder of Sarvodaya Business, passed away today.
+
+🟩
+
+The founder of the Sarvodaya Business. T. Mr. Ariyaratne has passed away today (16).
 
 ◼️
 
 [Data](articles/e0d451bd.json)
 
+[Extended Data](ext_articles/e0d451bd.ext.json)
+
 ---
 
-### வெடுக்குநாறிமலை அட்டூழியம்! மனித உரிமைகள் ஆணைக்குழு விசாரணை!’
+### Wedgunnarimalai atrocity!Human Rights Commission Inquiry!
 
 *2024-04-16 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/181259) · `ta`
 
-கடந்த சிவராத்திரி தினத்தில் வெடுக்குநாறிமலையில் இடம்பெற்ற அட்டூழியங்கள் தொடர்பாக வவுனியா பிராந்திய மனித உரிமைகள் ஆணைக்குழு செவ்வாய்க்கிழமை (17) விசாரணைகளை முன்னெடுத்தது.
+The Vavuniya Regional Human Rights Commission is investigating atrocities at Vedukkunnarimalai on Shivaratri day. The Archaeological Department and temple officials were questioned. No evidence of burning was presented, and conflicting statements were noted. The commission revealed that a photo submitted was from the first day of police duties, not the incident day. The investigation continues, with the Nedungeni police and Forest Department expected to be involved.
 
-குறித்த விசாரணையில் தொல்பொருள் திணைக்களத்தின் அதிகாரிகள், மற்றும் ஆலயத்தின் செயலாளர், பொலிசாரால் கைதுசெய்யப்பட்ட இளைஞர்கள் அழைக்கப்பட்டிருந்தனர்.
+🟩
 
-நாங்கள் தொல்லியல் இடங்களை சேதப்படுத்தியதாக தொல்பொருள் திணைக்களத்தினர் சில ஆவணங்களை வழங்கியிருந்தனர்.குறிப்பாக மலை உச்சியில் தீ மூட்டியதாக ஒரு விடயத்தை முன்வைத்திருந்தனர். அதனாலேயே கைதுகள் இடம்பெற்றதாக தெரிவித்தனர்.
+The Vavuniya Regional Human Rights Commission on Tuesday (17) investigated the atrocities held at Vedukkunnarimalai on the last Shivaratri day.
 
-நாங்கள் அதனை எரித்தமைக்கான எந்த ஆதாரங்களும் சமர்ப்பிக்கபடவில்லை. அத்துடன் அவர்களது கருத்துக்களில் முரன்பாடுகள் காணப்பட்டது.
+Officials of the Archaeological Department, and the secretary of the temple, the youths arrested by the police were invited.
 
-அத்துடன் தீமூட்டியதாக இவர்கள் காட்டிய புகைப்படமானது முதல்நாள்இரவில் அங்கு காவல் கடமைகளில் இருந்த நெடுங்கேணி பொலிசார் கொழுத்தியதற்கான சான்றுகளை நாம் வெளிப்படுத்தியிருந்தோம். அந்த புகைப்படத்தினையே இன்றையதினம் அவர்கள் இங்கு சமர்பித்திருந்தார்கள். இது முற்றிலும் பொய்யானது. இதனை நாம் சுட்டிக்காட்டினோம். என்றார்.
+The Archaeological Department had provided some documents that we had damaged the archaeological places.. That is why the arrests were said.
 
-...
+No evidence of the burning of it has been submitted. As well as in their opinions, conflicts were found.
+
+We have revealed the evidence that the photo shown by them was on the first day of the police duties.. They had submitted that photo today. This is completely false. We have pointed out this. said.
+
+Meanwhile, the investigation will be held continuously and the Nedungeni police and the Forest Department are expected to be called in the coming days.
+
+◼️
 
 [Data](articles/268a2b5d.json)
 
+[Extended Data](ext_articles/268a2b5d.ext.json)
+
 ---
 
-### ඩොලර් බැඳුම්කර ප්‍රතිව්‍යුහගතකරණ සාකච්ඡා එකඟතාවයකින් තොරව අවසන්
+### The dollar bond restructuring discussion is over without agreement
 
 *2024-04-16 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195697) · `si`
 
-මෙරට ජාත්‍යන්තර ස්වෛරීත්ව බැඳුම්කර ප්‍රතිව්‍යුහගතකරණය සම්බන්ධයෙන් සාකච්ඡා එකඟතාවකින් තොරව අවසන් වී ඇති බව රජය අද (16) නිල වශයෙන් නිවේදනය කළේය.
+The dollar bond restructuring talks in Sri Lanka ended without an agreement, despite efforts to find a common foundation. Negotiations in London revealed four key issues, with two being agreed upon. The International Monetary Fund (IMF) remains optimistic about reaching a consensus on the Sri Lanka Credit Program.
 
-කෙසේවෙතත්, දෙපාර්ශ්වයටම එකඟතාවයකට පැමිණිය හැකි පොදු පදනමක් ඇති කරගැනීමට ඉදිරි සති කිහිපය තුළ කටයුතු කිරීම ශ්‍රී ලංකාවේ අභිලාෂය බව මුදල් අමාත්‍යාංශය පවසයි.
+🟩
 
-ණය ප්‍රතිව්‍යුහගතකරණය සම්බන්ධයෙන් ජාත්‍යන්තර බැඳුම්කරහිමියන් සමඟ පැවති සාකච්ඡාවල ප්‍රගතිය පිළිබඳ﻿ දැනුවත් කරමින් ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක හා ජනාධිපති කාර්යමණ්ඩල ප්‍රධානි සාගල රත්නායක මහතා ඊයේ පැවසුවේ, පසුගිය මාර්තු මස අවසානයේ දී ලන්ඩන් නුවර පැවති සාකච්ඡාවලදී කරුණු 4ක් සම්බන්ධයෙන් ගැටලුකාරීත්වයක් පැන නැඟුණු බවය.
+The government has officially announced that discussion has ended announcement regarding the restructuring of international sovereignty bonds in the country.
 
-කෙසේවෙතත් ඉන් කරුණු දෙකක් සම්බන්ධයෙන් එකඟතාවයකට පැමිණි බවත් සාකච්ඡා තවදුරටත් පැවැත්වෙන බවත් සාගල රත්නායක මහතා ප්‍රකාශ කළේය.
+However, the Ministry of Finance says that it is the ambition of Sri Lanka to have a common foundation for both parties.
 
-මේ අතර මුදල්, ආර්ථික ස්ථායිකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යාංශය අද නිවේදනය කළේ, ශ්‍රී ලංකාව විසින් පියවිය යුතු මෙරට ජාත්‍යන්තර ස්වෛරීත්ව බැඳුම්කර සම්බන්ධයෙන් එම බැඳුම්කරහිමියන්ගේ නියෝජිත කමිටුව සමග පසුගිය සති තුන මුළුල්ලේ පැවැත්වූ මූලික වටයේ සාකච්ඡා අවසන් කළ බවය.
+Senior Advisor and Presidential Head of Presidential Staff Sagala Ratnayake yesterday stated that four facts have erupted in the negotiations in London last March.
+
+However, Mr. Sagala Ratnayake said that two matters were agreed and discussed will continue.
+
+Meanwhile, the Ministry of Finance, Economic Straitters and National Policy were overcome with the representatives of the last three weeks on the international binding of Sri Lanka.
+
+In these discussions, there was no final agreement on the restructuring conditions.
 
 ...
 
 [Data](articles/f2b9d311.json)
+
+[Extended Data](ext_articles/f2b9d311.ext.json)
 
 ---
 
@@ -1063,6 +1119,28 @@ Accordingly he invited Harsha de Silva, Eran Wickramaratne, Kabir Hashim and Tha
 [Data](articles/87cb9429.json)
 
 [Extended Data](ext_articles/87cb9429.ext.json)
+
+---
+
+### UNP calls on all parties to join hands
+
+*2024-04-16 15:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/UNP-calls-on-all-parties-to-join-hands/155-280774) · `en`
+
+Colombo, April 16 (Daily Mirror)- Stressing that it is time to forget party politics, the United National Party (UNP) today invited all political parties to join hands to create a stable nation.
+
+“What we are thinking of is a joint effort which goes beyond party politics. Therefore we invite all political parties to join hands to achieve the common goal of making Sri Lanka a stable nation,” UNP General Secretary Palitha Range Bandara said.
+
+He said this in response to a question raised by journalists whether the UNP will welcome SLFP members to join hands, now that  the latter is facing a crisis.
+
+“We don’t care who will join us as long as they are ready to join hands for the sake of the nation,” he added.
+
+The UNP General Secretary made a specific invitation to all MPs in the Samagi Jana Balawegaya (SJB) who are at loggerheads with their party leader to join the UNP.
+
+Accordingly he invited Harsha de Silva, Eran Wickramaratne, Kabir Hashim and Thalatha Athukorala to join the UNP.
+
+...
+
+[Data](articles/bd9c357b.json)
 
 ---
 
@@ -2247,79 +2325,5 @@ He noted that highways have earned more than 190 million rupees in five days fro
 [Data](articles/7a616065.json)
 
 [Extended Data](ext_articles/7a616065.ext.json)
-
----
-
-### Clear the doctor Satyamurthy on the Govt's suggestions!
-
-*2024-04-16 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181205) · `ta`
-
-Dr. Sathiyamoorthy clarifies WHO and Sri Lanka's health ministry's stance on COVID-19. After a death in Jaffna, the ministry outlines measures from Oct 10, 2023: 1) Provide same protection to those with other respiratory infections, 2) No pre-treatment or pre-surgery testing for COVID-19, 3) No testing for those near COVID-19 patients, 4) Respiratory infection patients must follow health guidelines, 5) Home funerals for COVID-19 deaths with health rules, 6) Many not following health unit instructions.
-
-🟩
-
-Jaffna Teaching Hospital Director T. Sathiyamoorthy has made it clear that the World Health Organization and the Ministry of Health of Sri Lanka have made it clear on the Infection of the Infection.
-
-After a long time in the Jaffna district, a woman has died due to the death of a woman, and posted on her social media to solve unnecessary doubts among the people.
-
-Accordingly, from October 10, 2023, the following 7 issues have been published by the Ministry of Health.
-
-௧. The same appropriate protection and maintenance should be provided to those who are infected with other respiratory infections. Appropriate treatment is also provided at the hospital.
-
-(Generally respiratory infection can spread to another lighter. Therefore, those with respiratory infection must adhere to the right basic health regulations. Likewise, those who are neighbors and caregivers should maintain appropriate health habits.)
-
-...
-
-[Data](articles/c11637b7.json)
-
-[Extended Data](ext_articles/c11637b7.ext.json)
-
----
-
-### Fishermen should negotiate with the central government of India on issues - M. A. Sumanthiran
-
-*2024-04-16 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181207) · `ta`
-
-Fishermen's MP, A. Sumanthiran, advocates for negotiations with India's central government on drag net fishing issues. The law legalizing drag nets was enacted after a 2016 meeting to resolve the issue, with the state government suggesting that tragic boat incidents may be linked to those involved in the boats.
-
-🟩
-
-Member of Parliament for the fishermen should negotiate with the central government of India. A. Sumanthiran said.
-
-The individual bill I brought about the drag fold was legalized. The only reason for this situation was if it was not implemented.
-
-The law was enacted following the issuance of a meeting in 2016 to end the drag issue.
-
-The state government said that there is a suggestion that the tragic boats may be associated with those who are involved in the boats.
-
-◼️
-
-[Data](articles/34677892.json)
-
-[Extended Data](ext_articles/34677892.ext.json)
-
----
-
-### Sri Lanka manufacturing expand amid falling prices, services surge: PMI
-
-*2024-04-16 11:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-manufacturing-expand-amid-falling-prices-services-surge-pmi-158629/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s manufacturing and services sectors expanded in March ahead of a traditional New Year, with resurgence in tourism also helping, according to a Purchasing Managers’ Index compiled by the central bank.
-
-The manufacturing PMI was 62.5 in March, compared to 56 points in February when the sector also expanded.
-
-“This marks the highest PMI-Manufacturing that was recorded in three years,” the statement said. “All the sub-indices expanded on a month-on-month basis contributing to this increase, mainly driven by the seasonal demand.”
-
-“Most of the manufacturers, especially in the food and beverage sector, were optimistic about the upcoming festive season,” the statement said.
-
-“Moreover, Employment and Stock of Purchases increased during the month in line with the New Orders and Production. Further, a decline in price levels was also evident.”
-
-The Services PMI was 67 percent, a notable 14 points up from 53 points in February.
-
-...
-
-[Data](articles/fc8a30b5.json)
-
-[Extended Data](ext_articles/fc8a30b5.ext.json)
 
 ---

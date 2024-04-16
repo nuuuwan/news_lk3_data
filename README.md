@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 21:52:59**
+As of **2024-04-16 22:04:16**
 
 ## Newspaper Stats
 
-*Scraped **19,193** Articles*
+*Scraped **19,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ tamilmirrorlk | 2,239
 adaderanalk | 2,311
 virakesarilk | 2,868
 dailymirrorlk | 2,960
-adaderanasinhalalk | 3,128
+adaderanasinhalalk | 3,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,191 (100.0%) of 19,193 articles have been extended.
+19,193 (100.0%) of 19,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### මාලිංග සෙවූ අලුත්ම පන්දුයවන්නා හමුවෙයි
+
+*2024-04-16 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195702) · `si`
+
+සිය පන්දුයැවීමේ ඉරියව්වට සමාන ඉරියව්වකින් පන්දු යවන ක්‍රීඩකයෙකු පිළිබඳ ලසිත් මාලිංග සිය ෆේස්බුක් ගිණුමේ පළ කළ සටහනත් සමග එම පාසල් ක්‍රීඩකයා පිළිබද කාගේත් අවධානය යොමුවී තිබුණි.
+
+පාසලේ නිවාසාන්තර ක්‍රීඩා උළෙලේ ක්‍රිකට් තරග සඳහා පුහුණුවීම් සිදු කරන අවස්ථාවක ගත් වීඩියෝවක් හේතුවෙන් ලසිත් මාලිංගගේ පන්දුයැවීමේ ඉරියව්වට සමාන නිමේෂ්ගේ මෙම පන්දුයැවීම කාගේත්  අවධානයට ලක්වුණි.
+
+"අලුත් පන්දුවෙන් අවුට්ස්වින්ග් පන්දු වගේම, පැරණි පන්දුවෙන් රිවර්ස් ස්වින්ග් පන්දු යැවීමේ හැකියාවත් ඇති හොඳ පන්දුයැවීමේ ඉරියව්වක්. මෙම කුසලතාවන් වැඩි දියුණු කරගෙන නව අලුත් අලුත් දේවල් ඉගෙන ගනිමින් ඔහුගේ ශාරSරික යෝග්‍යතාව ඉදිරි වසර 4, 5ක කාලයක තුළ අඛණ්ඩව පවත්වාගෙන ගියහොත් ඔහුට බොහෝදුර යා හැකියි." යනුවෙන් ලසිත් මාලිංග සිය ෆේස්බුක් පිටුවේ සටහනක් තබා තිබුණි.
+
+◼️
+
+[Data](articles/d42f7d65.json)
+
+---
+
+### පාතාලයන්ට වෙඩි තියන්න STF එකට විශේෂ පුහුණුවක්
+
+*2024-04-16 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195701) · `si`
+
+පාතාල අපරාධකරුවන් යතුරුපැදිවලින් හඹාගොස් වෙඩිතැබීම සඳහා STF භටයින් 100 දෙනෙකු පුහුණු කර ඇති බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+
+ඇල්පිටිය පොලිස් කොට්ඨාසයේ සංචාරයකට අද (16) එක්වෙමින් ඔහු කියා සිටියේ පාතාලය සහ මත්කුඩු ජාවාරම් ඉදිරි මාස 03 තුළ ස්ථිර ලෙසම රටින් තුරන් කරන බවය.
+
+◼️
+
+[Data](articles/512aa8a6.json)
+
+---
 
 ### Street food vendor arrested for price-gouging and verbally harassing a foreigner
 
@@ -47,6 +77,8 @@ The 51-year-old is reportedly a resident of Colombo 12 area. He will be produced
 ◼️
 
 [Data](articles/cbf61d1e.json)
+
+[Extended Data](ext_articles/cbf61d1e.ext.json)
 
 ---
 
@@ -67,6 +99,8 @@ A Toyota Prado and a Mercedes-type vehicle are being used by his family members 
 ...
 
 [Data](articles/269d9563.json)
+
+[Extended Data](ext_articles/269d9563.ext.json)
 
 ---
 
@@ -112,9 +146,13 @@ Born on November 5, 1931, Aryaratne was known as a continuous activist in Sri La
 
 *2024-04-16 20:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98670/street-food-vendor-arrested-for-price-gouging-verbally-harassing-a-foreigner-) · `en`
 
-The police have arrested a street food vendor based in Hulftdorp for price-gouging and verbally harassing a foreigner.
+The police have arrested the owner of a street food stall in Aluthkade (Hulftsdorp) for price-gouging and verbally harassing a foreigner.
 
-A video that had gone viral on social media showed the vendor demanding Rs. 1,900 for a Kottu Roti from the foreigner in question and behaving in a verbally aggressive manner when he refused to buy at the said price.
+The arrest was made by the officers of Keselwatta Police based on a widely-circulated video of the said vendor who attempted to charge Rs. 1,900 from a foreigner for a Kottu Roti.
+
+The vendor was also seen behaving in a verbally aggressive manner when the foreigner refused to buy the food item at the quoted price.
+
+The 51-year-old is reportedly a resident of Colombo 12 area. He will be produced before the Aluthkade Magistrate’s Court tomorrow (17).
 
 ◼️
 
@@ -2245,57 +2283,5 @@ Taking to X (formerly Twitter), the state minister said the two sides had a ‘v
 [Data](articles/73897779.json)
 
 [Extended Data](ext_articles/73897779.ext.json)
-
----
-
-### Murder of Mt. Mt.
-
-*2024-04-16 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195679) · `si`
-
-A 52-year-old resident of Ratmalana was murdered this morning by two unidentified individuals. Mount Lavinia Police are investigating.
-
-🟩
-
-The victim was a 52-year-old, a resident of Ratmalana, a resident of Ratmalana.
-
-Police say that two unidentified persons had come and killed the murder.
-
-The murder had taken place this morning (16).
-
-Mount Lavinia Police have launched a special investigation into the incident.
-
-◼️
-
-[Data](articles/68eea1c3.json)
-
-[Extended Data](ext_articles/68eea1c3.ext.json)
-
----
-
-### The hero of the horrific attacker came forward
-
-*2024-04-16 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195678) · `si`
-
-The hero of the Sydney mall attack, who prevented a massacre, is now a focus of global attention. Australian PM Albena supports extending the hero's visa without interruption, but warns of losing French citizenship if granted Australian citizenship. Six were killed, 12 injured, and the attacker was identified via social media.
-
-🟩
-
-The world has now has a strong conversation about the person who tried to stop the attack in a shopping mall in Sydney, Australia.
-
-The Australian Prime Minister Albena has told the media that it is necessary to extend the period of visa without any interruption.
-
-The Prime Minister also added that he could stay in the country a time.
-
-However, if Australia's latest law is implemented by Australia, he will lose French citizenship if he is given Australian citizenship.
-
-Six persons were killed and six people were killed and 12 were injured in a shopping mall in Sydney, Australia.
-
-At the time of the attack, a stroke struggled to prevent the damster attacker was circulated by social media.
-
-◼️
-
-[Data](articles/210f5aaa.json)
-
-[Extended Data](ext_articles/210f5aaa.ext.json)
 
 ---

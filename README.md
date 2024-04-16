@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 14:33:45**
+As of **2024-04-16 14:51:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,115 (100.0%) of 19,119 articles have been extended.
+19,119 (100.0%) of 19,119 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,31 @@ When asked if he intends to run for president independently, the minister said, 
 
 [Data](articles/ef7d930e.json)
 
+[Extended Data](ext_articles/ef7d930e.ext.json)
+
 ---
 
-### දුම්රියක් වේදිකාවේ හැප්පූ රියදුරාගේ වැඩ තහනම්
+### The driver of a train is suspended
 
 *2024-04-16 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195685) · `si`
 
-කොළඹ කොටුව දුම්රිය ස්ථානයේදී ඊයේ (15) පස්වරුවේ සිදුවු දුම්රිය අනතුර සම්බන්ධයෙන් විමර්ශනයක් සිදුකිරීම සඳහා කමිටුවක් පත් කර තිබේ.
+The driver of a train hit by the platform at Colombo Fort Railway Station is suspended pending investigation. The cause is unknown.
 
-ඒ සම්බන්ධයෙන් අදහස් දක්වමින් දුම්රිය දෙපාර්තමේන්තුවේ නියෝජ්‍ය සාමාන්‍යාධිකාරී (ගමනාගමන) එන්. ජේ ඉඳිපොලගේ මහතා මේ බව සඳහන් කළේය.
+🟩
 
-හලාවත බලා ධාවනය වීමට නියමිතව තිබූ අදාළ දුම්රිය කොටුව දුම්රිය ස්ථානයේ පළමු වේදිකාවට පැමිණිමේදී දුම්රිය නියමිත ස්ථානයේ නතර කරගැනීමට නොහැකිවී වේදිකාවේ ගැටීමෙන් අනතුරට ලක්වී තිබුණි.
+A committee has been appointed to investigate the train accident in Colombo Fort Railway Station yesterday.
 
-අනතුරට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර විමර්ශන කටයුතු අවසන් වන තෙක් සිද්ධියට අදාළ දුම්රිය රියදුරුගේ සේවය අත්හිටුවා ඇති බව එන්.ජේ. ඉඳිපොලගේ මහතා වැඩිදුරටත් පැවසීය.
+Deputy General Manager of the Railway Department (Transportation). J. Velapola made this statement.
+
+The train had been hit by the platform at the time of the first platform that was due to travel to Chilaw.
+
+The cause of the accident is yet to be ascertained and the railway driver's services have been suspended until the investigation is completed.. Mr. Withanage added.
 
 ◼️
 
 [Data](articles/0631a7d6.json)
+
+[Extended Data](ext_articles/0631a7d6.ext.json)
 
 ---
 
@@ -356,21 +364,27 @@ Graphic videos of the attack - and the aftermath - spread like wildfire on socia
 
 ---
 
-### බෙන්තොට මුහුදේදී දියේ ගිලුණු සාපෙළ අපේක්ෂක සිසුවාගේ සිරුර මොරගල්ල වෙරලේ
+### The body of a candidate student drowned at Bentota Sath was in Moragalla
 
 *2024-04-16 12:20:47* · [`adalk`](https://www.ada.lk/breaking_news/බෙන්තොට-මුහුදේදී-දියේ-ගිලුණු-සාපෙළ-අපේක්ෂක-සිසුවාගේ-සිරුර-මොරගල්ල-වෙරලේ/11-409100) · `si`
 
-බෙන්තොට මුහුදු තීරයේ ඊයේ (15) සවස දිය නාමින් සිටියදී දිය රළකට හසුවී ගසාගෙන ගොස් අතුරුදන්වී සිටි පාසල් සිසුවාගේ මළ සිරුර අද දහවල් (16) අලුත්ගම මොරගල්ල වෙරළ තීරයට ගොඩගසා තිබියදී සොයාගත් බව බෙන්තොට පොලීසිය කියයි.
+A 16-year-old student drowned near Bentota Resort, where she had disappeared while wandering the seastories. She was preparing for exams at Dirraya School and Durish College. Police are investigating.
 
-මෙසේ මියගොස් ඇත්තේ දර්ගානගරය සහිරා විදුහලේ 11 ශ්‍රේණියේ ඉගෙනුම ලබන, ලබන මස ආරම්භවන සාමාන්‍ය පෙළ විභාගයට පෙනී සිටීමට සූදානම්ව සිටි දර්ගානගරය මිහිරිපැන්නේ පදිංචිව සිටි මොහමඩ සමීන් නැමති අවුරුදු 16 හැවිරිදි සිසුවෙකි.
+🟩
 
-ඔහු ඊයේ සවස    නිවසේ අය හා මිතුරන් කිහිප දෙනෙකු  සමග පැමිණ බෙන්තොට නිවාඩු නිකේතනය අසල මුහුදේ දිය නාමින් සිටියදී  දිය රළකට හසුව දියඹට ගසා ගෙන ගොස් අතුරුදන්වු බව පොලීසිය පැවසීය.
+The body of the schoolgirl who had disappeared while Wandering the Bentota seastories yesterday evening.
 
-බෙන්තොට හා අලුත්ගම පොලීසි විසින් මේ මරණය පිළිබඳ වැඩිදුර පරීක්ෂණ පවත්වයි'
+The victim was a 16 year old student, who was ready to sit for the Ordinary Level Examination in the Dirraya School, and to sit for the Ordinary Level Examination in the Durish College.
+
+Police said he had gone to the neighborhood while claimed at sea near the Bentota Resort, police said.
+
+Bentota and Aluthgama Police are conducting further investigations
 
 ◼️
 
 [Data](articles/09a8c6d8.json)
+
+[Extended Data](ext_articles/09a8c6d8.ext.json)
 
 ---
 
@@ -389,6 +403,8 @@ SJB MP Harshana Rajakaruna came out with this remark when asked about his party�
 ◼️
 
 [Data](articles/0583a319.json)
+
+[Extended Data](ext_articles/0583a319.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 17:34:29**
+As of **2024-04-16 17:54:21**
 
 ## Newspaper Stats
 
-*Scraped **19,152** Articles*
+*Scraped **19,153** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,029
 dailyftlk | 1,040
 economynextcom | 1,072
-adalk | 1,593
+adalk | 1,594
 tamilmirrorlk | 2,236
 adaderanalk | 2,305
 virakesarilk | 2,860
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,122
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,150 (100.0%) of 19,152 articles have been extended.
+19,152 (100.0%) of 19,153 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,8 @@ The petitioner asked that he be registered as a travel operator for 2024 and to 
 ...
 
 [Data](articles/b6ebe07f.json)
+
+[Extended Data](ext_articles/b6ebe07f.ext.json)
 
 ---
 
@@ -370,19 +372,25 @@ New Year celebrations this time did not weed up compared to the past. Fireworks 
 
 ---
 
-### නිදියහනේදීම ඔහුව ඝාතනය වූයේ ඇයි?
+### Why was he killed in sleep?
 
 *2024-04-16 15:21:30* · [`adalk`](https://www.ada.lk/breaking_news/නිදියහනේදීම-ඔහුව-ඝාතනය-වූයේ-ඇයි-/11-409105) · `si`
 
-ගල්කිස්ස බොරුපන ප්‍රයේශයේදී තියුණු ආයුධයකින් හරදීමක්  හේතුවෙන්  පුද්ගලයකු මියයගාස් ඇති බවට අද උදෑසන (16 දා) ගල්කිස්ස පොලිසියට වාර්ථාවී ඇත.
+A 52-year-old man in Ratmalana was killed by an unidentified person with a sharp weapon, believed to be a murder. Mount Lavinia Police are investigating.
 
-මියගිය පුද්ගලයා වයස අවුරුදු 52 ක බොරුපන, රත්මලාන ප්‍රදේශයේ දිංචිකරු කරුවෙකි.
+🟩
 
-ඔහු තම නිවයස් නිදන කාමරයේ නිදා සිටින අවස්ථායේදී නාඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් තියුණු ආයුධවලින් හරදී යමම ඝාතනය සිදුකර ඇති බවට අනාවරණය වී ඇත. ඝාතනය සිදුකයල්ක කවුරුන්ද යන්න යමයතක් අනාවරණය වී ‌නොමැති අතර සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා ගල්කිස්ස පොලිසිය වැඩිදුර විමර්ශන සිදුකරයි.
+Mount Lavinia Police have reportedly reportedly believed that a person has died due to a sharp weapon in Mount Lavinia.
+
+The deceased is a 52-year-old boy in Ratmalana area.
+
+It has been revealed that two unidentified persons have been delayed by two unidentified people in their homes in their homes.. There is no manner in the murder and Mount Lavinia Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/720e2fac.json)
+
+[Extended Data](ext_articles/720e2fac.ext.json)
 
 ---
 
@@ -996,6 +1004,24 @@ Q. What is the party you do?Or independently?
 
 ---
 
+### අධිවේගී මාර්ගවලින් දින පහට රු.මි. 235ක ආදායමක්
+
+*2024-04-16 13:01:55* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගී-මාර්ගවලින්-දින-පහට-රු-මි--235ක-ආදායමක්/11-409102) · `si`
+
+අධිවේගී මාර්ගවල ධාවනය වූ රථ වාහන වලින් ඉකුත් දින පහ  තුළ (10 සිට 15  දක්වා)  රුපියල් මිලියන 235 ආදායමක් ලැබී ඇතැයි නියෝජ්‍ය අධ්‍යක්ෂක ජනරාල් (අධ්‍යවේගී මාර්ග මෙහෙයුම් නඩත්තු හා කළමනාකරණ අංශය) ආර් ඒ ඩි කහටපිටිය මහතා පැවසීය.
+
+එය පසුගිය වසරට වඩා මිලියන 75ක වැඩිවීමක් බව අධ්‍යක්ෂවරයා කීය. වැඩිම වාහන සංඛ්‍යාවක් වන 1 ලක්ෂ 39000 ක ධාවනය වීම සහ වැඩිම ආදායමක් වන මිලියන 46 ක් ලැබී ඇත්තේ 10 වෙනි දිනය.
+
+මෙම වසරේ ගෙවුණු දින පහ තුළ අධිවේගී මාර්ගයන්හි වාහන  6 ලක්ෂ 74000 ධාවනය වී ඇතිවූ බවත් එය පසුගිය වසරට වඩා වාහන 60000 වැඩිවීමක් බව අධ්‍යක්ෂවරයා කීය.
+
+ඉකුත් දින පහ තුළ සාමාන්‍ය  දිනවල මෙන් දිනකට අනතුරු අටක් දහයක් අතර ප්‍රමාණයක් සිදු වී ඇති බවත් මාරක අනතුරු කිසිවක් නොමැති බවත් අධ්‍යක්ෂකවරයා වැඩිදුරටත් පැවසීය
+
+◼️
+
+[Data](articles/b116922d.json)
+
+---
+
 ### Lis Trasp said Trump to be President
 
 *2024-04-16 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195680) · `si`
@@ -1222,7 +1248,7 @@ At one point, the woman also made efforts to take the police officer to the Swis
 
 ---
 
-### Sri Lanka, Kyrgyz Republic discuss expanding economic cooperation
+### Sri Lanka, Kyrgyz Republic to expand economic cooperation
 
 *2024-04-16 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-kyrgyz-republic-discuss-expanding-economic-cooperation-158651/) · `en`
 
@@ -2307,27 +2333,5 @@ Police said that the fire had not been injured by the fire and that the fire bri
 [Data](articles/fc9cef4f.json)
 
 [Extended Data](ext_articles/fc9cef4f.ext.json)
-
----
-
-### 11 trains will be canceled
-
-*2024-04-16 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195670) · `si`
-
-The Railway Department has canceled 11 off-office train services due to non-reporting by trainers. Trains from Colombo Fort to Fort Railway Stations and back have been affected.
-
-🟩
-
-The Railway Department says that 11 off office train services have been canceled this morning.
-
-The Railways Department says that trainers have been canceled due to non-reporting to the work.
-
-Accordingly, the train traveling to the Fort Railway Stations from Colombo Fort from Colombo Fort, from Colombo Fort and return to Fort Railway Stations have been canceled again.
-
-◼️
-
-[Data](articles/b6c5d559.json)
-
-[Extended Data](ext_articles/b6c5d559.ext.json)
 
 ---

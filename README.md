@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 15:52:05**
+As of **2024-04-16 16:03:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,133 (100.0%) of 19,135 articles have been extended.
+19,135 (100.0%) of 19,135 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -65,6 +65,8 @@ Under the auspices of NextGenSL, delegates from diverse political backgrounds en
 ...
 
 [Data](articles/3c50908d.json)
+
+[Extended Data](ext_articles/3c50908d.ext.json)
 
 ---
 
@@ -354,19 +356,25 @@ The cause of the accident has not yet been revealed and the train driver has bee
 
 ---
 
-### ලොව රසම අන්නාසි ප්‍රභේදය ලංකාවේත්
+### Sri Lanka's delicious pineapple variety
 
 *2024-04-16 14:17:00* · [`adalk`](https://www.ada.lk/breaking_news/ලොව-රසම-අන්නාසි-ප්‍රභේදය-ලංකාවේත්/11-409104) · `si`
 
-ලෝකයේ ජනප්‍රියම අන්නාසි ප්‍රභේදයක් වන MD2හෙවත්super sweet pineapple   (ananas comosus) අන්නාසි ප්‍රභේදය ශ්‍රී ලංකාවේ වගා කිරීම සඳහා කඩිනමින් නිර්දේශ කරන ලෙස කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා විසින් කෘෂිකර්ම දෙපාර්තමේන්තුවට උපදෙස් ලබා දී ඇත  .
+Mahinda Amaraweera advises the Department of Agriculture to recommend Sri Lanka's popular pineapple variety, which hasn't been cultivated for this purpose, but has been successful in cultivation.
 
-ශ්‍රී ලංකාවේ මේ වනතෙක් එම අන්නාසි ප්‍රභේදය වගා කිරීමට පියවර ගෙන නැති බව කෘෂිකර්ම දෙපාර්තමේන්තුව සඳහන් කරයි .
+🟩
 
-ප්‍රණීත රසකින් ද  අවම ආම්ලිකතාවයකින්ද යුත් මෙම අන්නාසි ප්‍රභේදය මෙරට වගා කිරීම සඳහා සිදුකළ පර්යේෂණ ද සාර්ථක වී තිබේ.
+Minister of Agriculture Mahinda Amaraweera has advised the Department of Agriculture to promptly recommend the pineapple variety of the world's most popular pineapple variety.
+
+The pineapple variety of the pineapple has not been cultivated for this purpose.
+
+The pineapple varieties of this pineapple variety of delicacies also have also been successful in cultivation of this pineapple variety.
 
 ◼️
 
 [Data](articles/22bece38.json)
+
+[Extended Data](ext_articles/22bece38.ext.json)
 
 ---
 

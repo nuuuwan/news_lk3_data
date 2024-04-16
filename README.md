@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 12:33:39**
+As of **2024-04-16 12:51:53**
 
 ## Newspaper Stats
 
-*Scraped **19,096** Articles*
+*Scraped **19,100** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,102 @@ newsfirstlk | 363
 islandlk | 1,027
 dailyftlk | 1,040
 economynextcom | 1,072
-adalk | 1,587
+adalk | 1,588
 tamilmirrorlk | 2,231
 adaderanalk | 2,298
 virakesarilk | 2,848
-dailymirrorlk | 2,937
+dailymirrorlk | 2,940
 adaderanasinhalalk | 3,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,095 (100.0%) of 19,096 articles have been extended.
+19,096 (100.0%) of 19,100 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### சுவிஸ் நாட்டு பெண்ணை ஏமாற்றியதாக யாழ்.பொலிஸ் உத்தியோகத்தருக்கு எதிராக முறைப்பாடு
+### Sri Lanka cannot to be pushed into global conflict: SJB MP
+
+*2024-04-16 12:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-cannot-to-be-pushed-into-global-conflict-SJB-MP/108-280768) · `en`
+
+Colombo, April 16 (Daily Mirror)- Sri Lanka cannot be pushed and bumped into a global conflict and therefore it should be diligent in its dealings with various nations, a Samagi Jana Balawegaya (SJB) MP said today.
+
+SJB MP Harshana Rajakaruna came out with this remark when asked about his party’s stance on the visit of Iranian President Ebrahim Raisi to Sri Lanka on April 24 this year.
+
+“Sri Lanka cannot afford to be pushed and bumped into a global conflict and we expect the rulers of our country to be diligent in dealing with various nations. Sri Lanka should take a neutral stand on the conflict in the Middle East,” the MP said.
+
+“Sri Lanka should maintain sound diplomatic ties with all nations in the world,” he added.
+
+◼️
+
+[Data](articles/1aad96ec.json)
+
+---
+
+### Sri Lanka commences IMF/WBG Spring meeting with productive bilateral discussion: Semasinghe
+
+*2024-04-16 12:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-commences-IMFWBG-Spring-meeting-with-productive-bilateral-discussion-Semasinghe/108-280766) · `en`
+
+Colombo, April 1 (Daily Mirror)- Sri Lanka commenced the International Monetary Fund and the World Bank Group (IMF/WBG) Spring meeting with a very productive bilateral discussion with Kenji Okamura, Deputy Managjng Director of the IMF, State Minister of Finance Shehan Semasinghe said.
+
+He said in a post on X that Okamura commended the Sri Lankan authorities on the strong programme implementation and excellent reform progress.
+
+The Minister said Okamura emphasised the need to preserve the hard-earned gains Sri Lanka has experienced since the beginning of the IMF programme and continue strong ownership.
+
+"I, along with the Governor of the CBSL and Secretary to the Treasury, explained to Okamura the recent socio-economic developments and the authorities' commitment to ensuring continuity and consistency of macroeconomic policies and reforms undertaken under the programme," he said.
+
+◼️
+
+[Data](articles/36a34d6b.json)
+
+---
+
+### Guidance on MD 2 pineapple cultivation in Sri Lanka
+
+*2024-04-16 12:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Guidance-on-MD-2-pineapple-cultivation-in-Sri-Lanka/108-280767) · `en`
+
+Colombo, April 12 (Daily Mirror) - The Agriculture Department is set to provide urgent recommendations for the cultivating one of the world's most popular pineapple varieties, MD 2 or Super Sweet Pineapple (Ananas comosus) in Sri Lanka.
+
+Agriculture and Plantation Industries Minister Mahinda Amaraweera said the most delicious pineapple species in the world are reported from Sri Lanka. Therefore, there is a great demand in the world market for pineapples grown in Sri Lanka.
+
+Even though there is a huge demand for the MD 2 pineapple variety in the world market, no steps have been taken to cultivate this pineapple variety in this country. The research conducted to cultivate this pineapple variety with a sweet taste and minimum acidity in Sri Lanka has also been successful.
+
+Under the recommendations of the Crop Release Committee, the Minister advised the Agriculture Department to speed up the process of recommending this MD 2 pineapple variety for cultivation in Sri Lanka.
+
+...
+
+[Data](articles/8ee75dd1.json)
+
+---
+
+### Jaffna Police Officer complained to a Swiss woman
 
 *2024-04-16 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/181215) · `ta`
 
-யாழ்ப்பாணத்தில் இருந்து புலம்பெயர்ந்து சுவிஸ் நாட்டில் வசிக்கும் பெண்ணை திருமணம் செய்வதாக கூறி சுமார் 50 இலட்ச ரூபாயை மோசடி செய்ததாக பொலிஸ் உத்தியோகத்தர் ஒருவர் மீது முறைப்பாடு செய்யப்பட்டுள்ளது.
+A Jaffna police officer allegedly defrauded a Swiss woman of 50 lakh rupees by marrying her, living with her children in Switzerland, and refusing to return money. The woman, who migrated to Switzerland, lodged a complaint in Jaffna, where the police officer was known to the Tamil police. Despite efforts to reconcile, the officer refused to return the money, leading to the woman's complaint.
 
-யாழ்ப்பாணத்தைச் சேர்ந்த பெண்ணொருவர் புலம்பெயர்ந்து சுவிஸ் நாட்டில் வசித்து வருகின்றார். அவருக்கு திருமணமாகி பிள்ளைகள் உள்ள நிலையில் சுவிஸ் நாட்டில் கணவனை பிரிந்து பிள்ளைகளுடன் வாழ்ந்து வருகின்றார்.
+🟩
 
-இந்நிலையில் கடந்த சில வருடங்களுக்கு முன்னர் குறித்த பெண் யாழ்ப்பாணம் வந்திருந்த போது, பெண்ணின் பூர்வீக சொத்துக்கள் தொடர்பில் ஏற்பட்ட முரண்பாடுகள் தொடர்பில் பொலிஸ் நிலையத்திற்கு முறைப்பாடு செய்ய சென்று இருந்தார்.
+A police officer has lodged a complaint with a police officer for allegedly defrauding about 50 lakh rupees for allegedly marrying a woman living in a Swiss country from Jaffna.
 
-முறைப்பாடு செய்ய சென்ற நேரத்தில் பொலிஸ் நிலையத்தில் கடமையில் இருந்த தமிழ் பொலிஸ் பொலிஸ் உத்தியோகத்தருடன் பழக்கம் ஏற்பட்டுள்ளது.
+A woman from Jaffna migrates and lives in Swiss. When he is married and has children, he is living with her children in the Swiss country.
 
-அந்த பழக்கம் பெண் வெளிநாடு சென்ற பின்னரும் தொடர்ந்து உள்ளது. ஒரு கட்டத்தில் அது காதலாக மலர்ந்துள்ளது. அதனை அடுத்து சுவிஸ் நாட்டு பெண், இங்குள்ள பொலிஸ் உத்தியோகஸ்தருக்கு பணம், நகை என்பவற்றுடன் அன்பளிப்பு பொருட்கள் என பலவற்றை வழங்கி வந்துள்ளார்.
+When the woman arrived in Jaffna a few years ago, she went to the police station to lodge a complaint about the conflicts of the native assets of the woman.
+
+At the time of the complaint, the Tamil police who were on duty at the police station became accustomed to the police officer.
+
+That habit continues even after the woman has gone abroad. At one point it blossomed in love. After that, the Swiss woman has been given money and jewelry to the police officer here.
+
+At one point, the woman also made efforts to take the police officer to the Swiss country. The police officer refused to do so and said he would not leave the country.
 
 ...
 
 [Data](articles/dc242a8b.json)
+
+[Extended Data](ext_articles/dc242a8b.ext.json)
 
 ---
 
@@ -933,6 +995,20 @@ As a result, trains scheduled to depart from Colombo Fort to Moratuwa, Ambepussa
 [Data](articles/31271c3d.json)
 
 [Extended Data](ext_articles/31271c3d.ext.json)
+
+---
+
+### කාර්යාල දුම්රිය ගමන් වාර 11ක් අවලංගුයි
+
+*2024-04-16 09:42:56* · [`adalk`](https://www.ada.lk/breaking_news/කාර්යාල-දුම්රිය-ගමන්-වාර-11ක්-අවලංගුයි/11-409097) · `si`
+
+රියදුරන් සහ නියාමකවරුන් සේවයට වාර්තා නොකිරීම හේතුවෙන් අද උදෑසන කාර්යාල දුම්රිය ගමන්වාර 11ක් අවලංගු කිරීමට සිදුවූ  බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+කොළඹ කොටුව සිට මොරටුව, පානදුර, වාද්දුව, මීගමුව, අඹේපුස්ස, පාදුක්ක සහ රාගම දක්වා සහ එම දුම්රිය ස්‌ථානවල සිට නැවත කොටුව දුම්රිය ස්ථාන වෙත පැමිණීමට නියමිත දුම්රිය ගමන්වාර මෙලෙස අවලංගු වී තිබේ.
+
+◼️
+
+[Data](articles/91bc480d.json)
 
 ---
 
@@ -2137,99 +2213,5 @@ Luckily, The International Authority for Professional Coaching and Mentoring (IA
 [Data](articles/b41a303a.json)
 
 [Extended Data](ext_articles/b41a303a.ext.json)
-
----
-
-### India allows Sri Lanka to import 10,000MT of onions
-
-*2024-04-15 23:08:00* · [`economynextcom`](https://economynext.com/india-allows-sri-lanka-to-import-10000mt-of-onions-158570/) · `en`
-
-ECONOMYNEXT – India has relaxed an export ban allowing 10,000 metric tonnes of onions to be shipped to Sri Lanka, the Indian High Commission in Colombo said.
-
-“The exemption for Sri Lanka reiterated India’s Neighbourhood First policy, adding to the Sinhala and Tamil New Year festivities here,” the statement said.
-
-Onion prices went up in Sri Lanka after India and Pakistan banned exports.
-
-The Directorate General of Foreign Trade has issued a notice allowing National Co-operative Exports Limited to ship 10,000 MT of onions.
-
-The UAE has also been allowed to import 10,000MT of onions on top of 24,400MT already permitted.
-
-A large Indian and South Asian expat community lives in the UAE. (Colombo/Apr15/2024)
-
-◼️
-
-[Data](articles/57ae4d23.json)
-
-[Extended Data](ext_articles/57ae4d23.ext.json)
-
----
-
-### India allows Sri Lanka to import 10,000MT of onions
-
-*2024-04-15 23:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-allowed-to-import-10000mt-of-onions-from-india-158570/) · `en`
-
-ECONOMYNEXT – India has relaxed an export ban allowing 10,000 metric tonnes of onions to be shipped to Sri Lanka, the Indian High Commission in Colombo said.
-
-“The exemption for Sri Lanka reiterated India’s Neighbourhood First policy, adding to the Sinhala and Tamil New Year festivities here,” the statement said.
-
-Onion prices went up in Sri Lanka after India and Pakistan banned exports.
-
-The Directorate General of Foreign Trade has issued a notice allowing National Co-operative Exports Limited to ship 10,000 MT of onions.
-
-The UAE has also been allowed to import 10,000MT of onions on top of 24,400MT already permitted.
-
-A large Indian and South Asian expat community lives in the UAE. (Colombo/Apr15/2024)
-
-◼️
-
-[Data](articles/bbd4d337.json)
-
-[Extended Data](ext_articles/bbd4d337.ext.json)
-
----
-
-### Ranjith Siyambalapitiya will soon be able to ease restrictions on vehicle imports - Ranjith Siyambalapitiya
-
-*2024-04-15 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181183) · `ta`
-
-Ranjith Siyambalapitiya, Finance Minister, expects to ease vehicle import restrictions as the economy stabilizes. He highlights the country's economic recovery, including increasing stockpiles and controlling inflation, while also mentioning the gradual lifting of restrictions on essential imports, including permitting tourism vehicles.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya said that when the country's economic situation is still somewhat stabilized, there is hope that the definition of goods and vehicle imports can easily be ease.
-
-Needless to be worried about the country's foreign stockpile. We are gradually increasing our stockpile, our stockpile for the central bank was in the fungus. We are currently increasing $ 5 billion. It is possible to do this with a massive commitment. As well as the shortage of materials in large numbers. It is currently being controlled.
-
-Due to inflation the cost of goods increased massively. The cost of increased goods has been reduced to somewhat. Inflation is also controlled. The shortage of essential commodities especially. Unrest in the country came from the country due to the increase in prices. But that condition is currently restricted.
-
-...
-
-[Data](articles/5be26fba.json)
-
-[Extended Data](ext_articles/5be26fba.ext.json)
-
----
-
-### Words…coming out strong
-
-*2024-04-15 22:42:00* · [`islandlk`](http://island.lk/wordscoming-out-strong/) · `en`
-
-Yes, golden words, indeed, from Chandral Fonseka, leader of the group Kings, who celebrated his 69th birthday on Saturday, 30th March.
-
-Says Chandral: “I am 69 and still very much active in the music field. I have no enemies in this world but only friends.
-
-In three Facebook accounts, I have 15,000 friends. Most of them are interacting with me often. I have 4000 contacts on my mobile. I always respond to their posts or calls.
-
-“I have always played music with better musicians than me and gained a lot of insight from them before becoming a leader myself.
-
-I have learned to give due respect to people where it is due. I have learned to live a righteous life in a corrupted world. I love to do good, but prefer to do the right thing always.
-
-I am learning new things daily. I apply Biblical insight to my daily life. 69 years is long and my happy moments are greater than the sad times.
-
-...
-
-[Data](articles/85c35d77.json)
-
-[Extended Data](ext_articles/85c35d77.ext.json)
 
 ---

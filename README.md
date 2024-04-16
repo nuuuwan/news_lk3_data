@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 13:18:27**
+As of **2024-04-16 13:34:12**
 
 ## Newspaper Stats
 
-*Scraped **19,104** Articles*
+*Scraped **19,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,040
 economynextcom | 1,072
 adalk | 1,588
 tamilmirrorlk | 2,231
-adaderanalk | 2,300
+adaderanalk | 2,301
 virakesarilk | 2,849
 dailymirrorlk | 2,940
 adaderanasinhalalk | 3,111
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,111
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,102 (100.0%) of 19,104 articles have been extended.
+19,104 (100.0%) of 19,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### At least 17 dead after flash floods in Oman
+
+*2024-04-16 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98662/at-least-17-dead-after-flash-floods-in-oman) · `en`
+
+At least 17 people have died in flash floods triggered by heavy rain across Oman since Sunday, the country’s National Committee for Emergency Management (NCEM) reports.
+
+On Tuesday, the government suspended the work of employees and workers in the public and private sectors in five governorates, including Musandam, Al Buraimi, Al Dhahirah, and Al Dakhiliyah, due to the weather conditions.
+
+The government has allowed employees to work remotely if possible.
+
+Authorities in Oman are conducting “rescue operations” after announcing all schools in six governorates including Muscat, would be closed Monday “due to unstable weather conditions,” according to a Monday UNOCHA statement.
+
+Moderate heavy rainfall is expected across north-eastern and northern Oman over the next few days.
+
+◼️
+
+[Data](articles/1cabb822.json)
+
+---
 
 ### 52-year-old man hacked to death while sleeping
 
@@ -52,21 +72,27 @@ The post-mortem is slated to be performed following the completion of the magist
 
 ---
 
-### யாழில் இரண்டரை கோடி ரூபாய் மோசடி செய்த பெண் கொழும்பில் கைது
+### A woman arrested in Colombo for allegedly defrauding Rs.
 
 *2024-04-16 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181220) · `ta`
 
-வெளிநாடுகளுக்கு அனுப்பி வைப்பதாக யாழ்ப்பாணத்தை சேர்ந்தவர்களிடம் சுமார் 2 கோடியே 50 இலட்ச ரூபாய் பணத்தை மோசடி செய்து, கொழும்பில் தலைமறைவாகி இருந்த பெண்ணை பொலிஸார் கைது செய்துள்ளனர்.
+A woman in Colombo is arrested for allegedly defrauding Rs. 2.5 crore from Jaffna residents by promising overseas employment via social media.
 
-வெளிநாடுகளுக்கு அனுப்பி வைப்பதாகவும், வெளிநாடுகளில் வேலை வாய்ப்புக்களை பெற்று தருவதாகவும், சமூக ஊடகங்கள் ஊடாக விளம்பரங்களை செய்து யாழ்ப்பாணத்தைச் சேர்ந்த பலரிடம் சுமார் இரண்டரை கோடி ரூபாய் பணத்தினை மோசடி செய்துள்ளார்.
+🟩
 
-மோசடி தொடர்பில் யாழ்.மாவட்ட குற்றத்தடுப்பு பொலிஸாருக்கு கிடைக்கப்பெற்ற முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த வேளை குறித்த பெண் கொழும்பில் பதுங்கியிருப்பதாக தகவல் கிடைத்துள்ளது.
+Police have arrested a woman who had been hiding in Colombo for allegedly defrauding about Rs 2 crore 50 lakhs of rupees from Jaffna for sending them overseas.
 
-கொழும்பிலும் அப்பெண் மோசடிகளில் ஈடுபட்டுள்ளாரா? என்பது தொடர்பில் பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர் எனவும், அதன் பின்னர் யாழ்ப்பாண பொலிஸாரிடம் அவரை கையளிக்க நடவடிக்கை எடுக்கப்படும் என பொலிஸார் தெரிவித்துள்ளனர்.
+He has defrauded about two and a half crore rupees from many people from Jaffna to advertise via social media to send them abroad and get employment overseas.
+
+It is reported that the woman was hiding in Colombo while investigating the complaint made by the Jaffna Crime Prevention Police regarding the fraud.
+
+Is she involved in fraud in Colombo?The police said that the police have launched investigations and then to hand over him to the Jaffna police.
 
 ◼️
 
 [Data](articles/6816a8e2.json)
+
+[Extended Data](ext_articles/6816a8e2.ext.json)
 
 ---
 
@@ -2217,21 +2243,5 @@ In fact, during 2023, over 3200 applications were made by Sri Lankans seeking Pe
 [Data](articles/6259a668.json)
 
 [Extended Data](ext_articles/6259a668.ext.json)
-
----
-
-### Sri Lanka Pakistan Business Council engages in diplomatic outreach
-
-*2024-04-15 23:26:20* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Pakistan-Business-Council-engages-in-diplomatic-outreach/34-760630) · `en`
-
-From left: SLPBC Vice President Shameel Mohideen, Pakistan High Commission Trade and Investment Attaché Asmma Kamal, Pakistan High Commissioner Major General (R) Faheem Ul Aziz, HI (M), SLPBC President Indra Kaushal Rajapaksha, Vice President Wasantha de Silva, Committee Member Ehab Razak and Ceylon Chamber of Commerce Secretariat’s Dilini Yasendra
-
-The Sri Lanka Pakistan Business Council of The Ceylon Chamber of Commerce, recently paid a courtesy call on the newly appointed High Commissioner of Pakistan in Sri Lanka Major General (R) Faheem Ul Aziz, HI (M).
-
-...
-
-[Data](articles/40f99a25.json)
-
-[Extended Data](ext_articles/40f99a25.ext.json)
 
 ---

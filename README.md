@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 15:18:19**
+As of **2024-04-16 15:33:42**
 
 ## Newspaper Stats
 
-*Scraped **19,126** Articles*
+*Scraped **19,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,136 +17,306 @@ dailyftlk | 1,040
 economynextcom | 1,072
 adalk | 1,590
 tamilmirrorlk | 2,236
-adaderanalk | 2,302
+adaderanalk | 2,303
 virakesarilk | 2,853
-dailymirrorlk | 2,942
-adaderanasinhalalk | 3,118
+dailymirrorlk | 2,947
+adaderanasinhalalk | 3,119
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,119 (100.0%) of 19,126 articles have been extended.
+19,126 (100.0%) of 19,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### முட்டை விலை அதிகரிப்பினால் கேக் உற்பத்தி குறைவடைந்தது!
+### සේවකයින් පිරිසක් ගෙදර යවන්න ඊලොන් මස්ක් සැරසෙයි
+
+*2024-04-16 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195688) · `si`
+
+ටෙස්ලා විද්‍යුත් මෝටර් රථ නිෂ්පාදන කර්මාන්ත ශාලාවල සේවය කරන සේවකයින්ගෙන් යම් ප්‍රතිශතයක් සේවයෙන් ඉවත් කිරීමට එම සමාගම තීරණය කර තිබේ.
+
+වෙළෙඳපොළ වටිනාකම අනුව ලොව විශාලතම මෝටර් වාහන නිෂ්පාදකයා වන ටෙස්ලා සමාගම ට සම්බන්ධව ලොව පුරා පසුගිය දෙසැම්බර් මාසය වනවිට සේවකයින් 140,473ක් සේවය කළේය.
+
+◼️
+
+[Data](articles/19c5e6f6.json)
+
+---
+
+### Sri Lanka fails to reach deal with Ad Hoc Bondholders on ISBs
+
+*2024-04-16 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98664/sri-lanka-fails-to-reach-deal-with-ad-hoc-bondholders-on-isbs) · `en`
+
+The government of Sri Lanka has concluded the initial restricted discussions with nine members of the Steering Committee of the Ad Hoc Group of Bondholders regarding its international sovereign bonds (ISBs).
+
+During the discussions, which spanned over the past three weeks (Restricted Period), Sri Lanka was joined by its legal and financial advisors Clifford Chance and Lazard, respectively, while the restricted members of the Steering Committee were joined by the Group’s legal and financial advisors, White & Case and Rothschild & Co., respectively.
+
+The Steering Committee as a whole comprises ten of the largest members of the Group, with the Group controlling approximately 50% of the aggregate outstanding amount of ISBs.
+
+In a statement, Sri Lanka’s Finance Ministry said that the parties failed to come to an agreement on restructuring terms, despite the constructive discussions.
+
+...
+
+[Data](articles/d82ea574.json)
+
+---
+
+### UNP calls on all parties to join hands
+
+*2024-04-16 15:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNP-calls-on-all-parties-to-join-hands/108-280774) · `en`
+
+Colombo, April 16 (Daily Mirror)- Stressing that it is time to forget party politics, the United National Party (UNP) today invited all political parties to join hands to create a stable nation.
+
+“What we are thinking of is a joint effort which goes beyond party politics. Therefore we invite all political parties to join hands to achieve the common goal of making Sri Lanka a stable nation,” UNP General Secretary Palitha Range Bandara said.
+
+He said this in response to a question raised by journalists whether the UNP will welcome SLFP members to join hands, now that  the latter is facing a crisis.
+
+“We don’t care who will join us as long as they are ready to join hands for the sake of the nation,” he added.
+
+The UNP General Secretary made a specific invitation to all MPs in the Samagi Jana Balawegaya (SJB) who are at loggerheads with their party leader to join the UNP.
+
+Accordingly he invited Harsha de Silva, Eran Wickramaratne, Kabir Hashim and Thalatha Athukorala to join the UNP.
+
+...
+
+[Data](articles/87cb9429.json)
+
+---
+
+### Cake production has been reduced due to the increase in egg prices!
 
 *2024-04-16 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181230) · `ta`
 
-முட்டையின் விலை அதிகரிப்பினால் பண்டிகைக் காலங்களில் பேக்கரி உரிமையாளர்கள் கேக் உற்பத்தி  செய்யவில்லை என  பேக்கரி உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+Cake production decreased due to higher egg prices, impacting festive season sales. Large bakeries, accounting for 25% of cake production, were affected.
 
-அத்துடன்  பெரியளவிலான பேக்கரிகளின் உரிமையாளர்களே சுமார்  25 சதவீதமளவில் கேக் உற்பத்திகளை மேற்கொண்டதாக சங்கத்தின் தலைவர் என்.கே. ஜயவர்தன  இன்று (16) இடம்பெற்ற ஊடக சந்திப்பில் தெரிவித்துள்ளார்.
+🟩
+
+The Bakery Owners Association said that bakery owners did not produce cake during the festive season due to the increase in egg prices.
+
+The president of the association NK said that the owners of large -scale bakeries made about 25 per cent of the cake products.. Jayawardena told a media briefing held today (16).
 
 ◼️
 
 [Data](articles/b2aa53b9.json)
 
+[Extended Data](ext_articles/b2aa53b9.ext.json)
+
 ---
 
-### වැස්ස සහ අකුණු අනතුරුවලින් පාකිස්තානයේ 39ක් මරුට
+### 39 killed in Pakistan from sea and lightning
 
 *2024-04-16 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195687) · `si`
 
-නිරිතදිග පාකිස්තානයට ඇදහැලෙන අධික වර්ෂාපතනය සහ අකුණු අනතුරු මගින් පුද්ගලයින් 39 දෙනෙකු මියගොස් ඇති බව විදසේ මාධ්‍ය වාර්තා කරයි.
+In 2022, Pakistan experienced heavy rainfall and lightning, killing 39, mostly farmers, and injuring over 17,000. Electricity and transport services were also affected.
 
-මියගිය පිරිස අතර වැඩි දෙනෙක් ගොවීන් වන අතර ඔවුන් අස්වනු නෙළීමේ නිරතව සිටියදී අකුණු අනතුරුවලට ලක්වී ඇති බව පැවසෙයි.
+🟩
 
-ඇදහැලෙන අධික වර්ෂාපතනය හේතුවෙන් ගොවි බිම් රැසක් ද ජලයෙන් යටවී පවතී.
+According to the media reports, 39 people have been killed in southwestern heavy rainfall and lightning accidents.
 
-එමෙන්ම විදුලිබල සැපයුම සහ ප්‍රවාහන සේවා ද අඩාල වී ඇති බව වාර්තා වෙයි.
+Most of the deceased are the farmers and is said to be the farmers and they have been affected by lightning while they are harvesting.
 
-2022 වසරේදී පාකිස්තානයට බලපෑ ගංවතුර තත්ත්වය හේතුවෙන් ඇති වු අනතුරු මගින් පුද්ගලයින් 1700කට අධික පිරිසක් මියගොස් තවත් දහසකට අධික පිරිසක් තුවාල ලැබීය.
+A large number of farmer lands have been flooded due to heavy rainfall.
+
+It is reported that electricity supply and transport services are also hampered.
+
+Over 1700 people were killed and more than 1700 people were killed and more than 17,000 were injured in accidents caused by Pakistan in 2022.
 
 ◼️
 
 [Data](articles/49ba4956.json)
 
+[Extended Data](ext_articles/49ba4956.ext.json)
+
 ---
 
-### அன்னை பூபதிக்கு வவுனியாவில் அஞ்சலி
+### Train crashing on platform: Driver suspended
+
+*2024-04-16 14:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-crashing-on-platform-Driver-suspended/108-280773) · `en`
+
+Colombo, April 16 (Daily Mirror) - The service of the driver of the train that crached on to the railway platform at the Colombo Fort railway station has been suspended, Railways Deputy General Manager N.J. Indipolage said.
+
+He said an investigation into the incident was held and the final decision on the service of the driver will be taken after the report is received.
+
+The train, which was scheduled to depart for Chillaw, crashed on to platform No. 1 of the Colombo Fort Railway Station when commencing its journey from Colombo Fort to Chilaw at 2:35 p.m. yesterday.
+
+No injuries were reported as a result of the accident, although the front part of the train and a section of the platform were damaged.
+
+◼️
+
+[Data](articles/915fb20a.json)
+
+---
+
+### Mother Bhupathi tributes in Vavuniya
 
 *2024-04-16 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/181216) · `ta`
 
-நாட்டுப்பற்றாளர் அன்னை பூபதியின் 36 ஆம் ஆண்டு நினைவு நிகழ்வு அனுஷ்டிக்கப்பட்ட நிலையில் அவரின் திருவுருவப்படம் தாங்கிய ஊர்திக்கு இன்று வவுனியாவில் அஞ்சலி செலுத்தப்பட்டது.
+The 36th commemoration of Anna Bhupathi in Vavuniya honored with Tamil National People's Munnani and floral tribute by Jayavanitha.
 
-தமிழ் தேசிய மக்கள் முண்ணனியின் ஏற்பாட்டில் வடக்கு கிழக்கில் அனைத்து மாவட்டங்களுக்கும் செல்லவுள்ள ஊர்தியானது இன்று வவுனியாவில் காணாமல் ஆக்கப்பட்டோரின் உறவினர்களின் போராட்ட பந்தலுக்கு முன்பாக அஞ்சலிக்காக கொண்டுவரப்பட்டது.
+🟩
 
-இதன்போது காணாமல் ஆக்கப்பட்டோரின் உறவினர்களின் சங்க தலைவி கா. ஜெயவனிதா ஈகைச்சுடரினை ஏற்றி வைத்ததுடன் மற்றும் தாயார் மலர்மாலை அணிவித்து அடுத்து மலர் அஞ்சலி செலுத்தப்பட்டது.
+The 36th commemoration of the patriotic Anna Bhupathi was celebrated in Vavuniya today.
+
+The Tamil National People's Munnani arrangement was brought to all districts in the North and East today before the struggle of relatives of the missing persons in Vavuniya.
+
+The President of the Relatives of the Disappeared. Jayavanitha loaded the eagle and paid a floral tribute to the mother's garland.
 
 ◼️
 
 [Data](articles/285aed01.json)
 
+[Extended Data](ext_articles/285aed01.ext.json)
+
 ---
 
-### ’’ரூ.200 கோடி’’ சொத்தை தானம் கொடுத்த தம்பதி
+### Sydney knife attack hero welcome to stay in Australia, PM says
+
+*2024-04-16 14:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sydney-knife-attack-hero-welcome-to-stay-in-Australia-PM-says/108-280772) · `en`
+
+SYDNEY, April 16 (Reuters) - A French national who confronted a knife-wielding attacker during a rampage in a mall in the Sydney suburb of Bondi is welcome to stay in Australia for as long as he wants, Prime Minister Anthony Albanese said on Tuesday.
+
+Six people were killed and 12 hurt in Saturday's attack at the beachside mall, one of the city's worst violent crimes in recent years. The attacker, identified as Joel Cauchi, was shot down by Inspector Amy Scott, who confronted him solo during his rampage.
+
+The Frenchman, Damien Guerot, was seen on video images circulated online holding up a shopping centre bollard to try and stop Cauchi from hurting more people.
+
+Later Guerot told local news networks he was on a work visa set to expire within a couple of months.
+
+"I say this to Damien Guerot, who is dealing with his visa applications, that you are welcome here," Albanese told a press conference, in reply to a question his heroics.
+
+...
+
+[Data](articles/31da47da.json)
+
+---
+
+### Couple donated Rs 200 crore
 
 *2024-04-16 14:32:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-200-கோடி-சொத்தை-தானம்-கொடுத்த-தம்பதி/175-335992) · `ta`
 
-குஜராத்தைச் சேர்ந்த ஒரு கோடீஸ்வர தம்பதி தங்களின் ரூ.200 கோடி சொத்தை பொதுமக்களுக்கு நன்கொடையாக அளித்துவிட்டு துறவறத்தை ஏற்றுள்ளனர். மேலும், அவர்கள் விரைவில் ஆன்மீக பயணத்தைத் தொடங்க திட்டமிட்டுள்ளனர்.
+A Gujarat couple donated Rs 200 crore, embracing a monastic life, cutting off family ties, and pledging no material possessions.
 
-குஜராத்தைச் சேர்ந்த ஜெயின் தொழிலதிபர்கள் பவேஷ் பண்டாரி மற்றும் அவரது மனைவி தான் இப்படிச் செய்துள்ளனர். அவர்கள் கடந்த பெப்ரவரி மாதம் நடந்த நிகழ்ச்சி ஒன்றில் தங்கள் அனைத்து செல்வங்களையும் மக்களுக்கு நன்கொடையாக அளித்தனர். இந்த மாதம் நடக்கும் மத நிகழ்வில் அவர்கள் முழுமையாகத் துறவு வாழ்க்கைக்குச் செல்கிறார்கள்.
+🟩
 
-இதற்காக அவர்கள் ஏப்ரல் 22ஆம் திகதி உறுதிமொழி ஒன்றை ஏற்க உள்ளனர். அதன் பிறகு இந்த தம்பதியினர் அனைத்து குடும்ப உறவுகளையும் துண்டிக்க வேண்டும்.. அதாவது குடும்பம் உறவு என யாரையும் கருதக்கூடாது. ஒட்டுமொத்த உலகத்தையும் இவர்கள் குடும்பமாகக் கருத வேண்டும். மேலும், எந்த பொருளையும் இவர்கள் வைத்துக் கொள்ளக்கூடாது என்பதே விதியாகும்.
+A millionaire couple from Gujarat has donated Rs 200 crore to the public and accepted the monk.. Also, they are planning to start a spiritual journey soon.
+
+Jain businessmen from Gujarat have done this to Bavesh Bhandari and his wife. They donated all their wealth to the people at an event last February. At the religious event this month, they go to a fully monastic life.
+
+For this they will accept a pledge on April 22. After that, the couple must cut off all family relationships.. That means no one should be considered as a family relationship. They should consider the whole world as family. Also, the rule is that they should not have any material.
 
 ◼️
 
 [Data](articles/cb25aeb7.json)
 
+[Extended Data](ext_articles/cb25aeb7.ext.json)
+
 ---
 
-### உலகில் மிகவும் சுவையான அன்னாசிப்பழத்தை இலங்கையில் பயிரிட நடவடிக்கை
+### Singapore offers 200 auxilary police officer vacancies for Sri Lankans
+
+*2024-04-16 14:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Singapore-offers-200-auxilary-police-officer-vacancies-for-Sri-Lankans/108-280771) · `en`
+
+The Sri Lanka Foreign Employement Agency (SLFEA) has announced 200 vacancies in the Singapore auxilary police for Sri Lankans.
+
+According to a notice issued by the SLFEA, walk-in interviews for these vacancies will be held at the SLFEA office in Nawala today (16) and tomorrow (17).
+
+Applicants are requested to complete application forms, accessible online at https://forms.gle/8DzuH5LUooxg4czE6, and bring their Certificate of Advanced Level or IELTS along with their passport for the interview.
+
+For additional inquiries, individuals can contact the SLFEA hotline on 011-2800407
+
+◼️
+
+[Data](articles/2f43e9ef.json)
+
+---
+
+### Steps to cultivate the most delicious pineapple in the world in Sri Lanka
 
 *2024-04-16 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181224) · `ta`
 
-உலகில் மிகவும் சுவையான அன்னாசி வகைகளில் ஒன்றான MD 2 என்ற அன்னாசிப்பழத்தை இலங்கையில் பயிரிடுவதற்கு விவசாயத்திணைக்களம் பரிந்துரைத்துள்ளது.
+Sri Lanka's Department of Agriculture recommends cultivating MD 2 pineapple, known for its delicious taste and low acidity. Minister Mahinda Amaraweera urges immediate cultivation.
 
-இந்நிலையில், இனிப்புச் சுவை மற்றும் குறைந்த அமிலத்தன்மை கொண்ட MD 2 வகை அன்னாசிப்பழத்தை பயிரிட நடத்தப்பட்ட ஆய்வு வெற்றி அளித்துள்ளது.
+🟩
 
-எனவே, MD 2  வகை அன்னாசிப்பழத்தை பயிரிடுவதற்கான நடவடிக்கைகளை உடனடியாக  மேற்கொள்ளுமாறு விவசாயத் திணைக்களத்திற்கு விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர ஆலோசனை வழங்கியுள்ளார்.
+The Department of Agriculture has recommended the cultivation of MD 2, one of the most delicious pineapple in the world.
+
+In this case, a study conducted to cultivate the MD 2 type of pineapple with sweet taste and low acidity has been a success.
+
+Therefore, Minister of Agriculture and Plantation Industries Mahinda Amaraweera has advised the Department of Agriculture to take immediate steps to cultivate MD 2.
 
 ◼️
 
 [Data](articles/57380af1.json)
 
+[Extended Data](ext_articles/57380af1.ext.json)
+
 ---
 
-### கொழும்பு தேசிய வைத்தியசாலையில் வழங்கப்படும் உணவுகள் தரமற்றவை!
+### No shortages of eggs, chicken in country
+
+*2024-04-16 14:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-shortages-of-eggs-chicken-in-country/108-280770) · `en`
+
+Colombo, April 16 (Daily Mirror) - Despite an abundance of eggs and chicken in the country, prices have surged due to the inadequate supply to meet the demand, All Island Poultry Association (AIPA) President Ajith Gunasekara said.
+
+Sufficient eggs were available in the market by April 5. By that time the price of an egg was Rs.35 in the local market.
+
+But with the higher demand by April 10 in view of the Muslim festival (Eid al-Fitr) and Sinhala and Tamil New Year, the producers were unable to provide the sufficient requirements.
+
+He said the price of an egg was between Rs.40 and Rs.45, but now an egg is being sold at a price between Rs.50 to Rs.60.
+
+◼️
+
+[Data](articles/b3544022.json)
+
+---
+
+### Foods provided at the Colombo National Hospital are substandard!
 
 *2024-04-16 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181228) · `ta`
 
-கொழும்பு தேசிய வைத்தியசாலையில் நோயாளர்கள் மற்றும் ஊழியர்களுக்கு வழங்கப்படும் கணிசமான அளவு  உணவுப் பொருட்கள் தரமற்றவை என வைத்தியசாலையின் பிரதிப் பணிப்பாளர் வைத்தியர் ருக்க்ஷான் பெல்லன தெரிவித்துள்ளார்.
+Dr. Rukshan Bellana, Deputy Director of Colombo National Hospital, criticized substandard food, including rotten vegetables, expired flour and china, and unqualified fish, leading to employee complaints to the Ministry of Health.
 
-மேலும், சில நேரங்களில் நோயாளிகளின் உணவுக்காக வழங்கப்படும் காய்கறிகள்  ஓரளவு  அழுகிய நிலையில் காணப்படுவதாகவும் அவர் குற்றம் சாட்டியுள்ளார்.
+🟩
 
-நோயாளிகள் மற்றும் ஊழியர்களுக்கு வழங்கப்படும் தேநீருக்கு  பயன்படுத்தப்படும் மாவு மற்றும் சீனியும் காலாவதியாகவும் காணப்படுகின்றன.
+Deputy Director of the Hospital, Dr. Rukshan Bellana, said that a significant amount of food supplied to patients and staff at the Colombo National Hospital is substandard.
 
-சில சந்தர்ப்பங்களில், சம்பந்தப்பட்ட ஒப்பந்த நிறுவனம்  உணவுக்கு தகுதியற்ற மீன்களுடன் உணவை வழங்குகின்றன.
+He also alleges that sometimes the vegetables provided for the patient's food are somewhat rotten.
 
-இது குறித்து பல ஊழியர்கள் முறைப்பாடு செய்துள்ளதாகவும் இது தொடர்பில்  சுகாதார அமைச்சினால் முடிவெடுக்கப்பட வேண்டும் எனவும் வைத்தியசாலை அதிகாரிகளால் எதுவும் செய்ய முடியாது எனவும் வைத்தியர் பெல்லன  தெரிவித்துள்ளார்.
+The flour and china used for tea provided to patients and employees are found to be expired.
+
+In some cases, the concerned contracting company provides food with unqualified fish.
+
+Dr. Bellana said that many employees have lodged a complaint with the Ministry of Health and that the hospital authorities can do nothing.
 
 ◼️
 
 [Data](articles/0f6db509.json)
 
+[Extended Data](ext_articles/0f6db509.ext.json)
+
 ---
 
-### நடைமேடையில் ரயிலை மோதிய சாரதி இடைநிறுத்தம்
+### Driver suspended
 
 *2024-04-16 14:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடைமேடையில்-ரயிலை-மோதிய-சாரதி-இடைநிறுத்தம்/175-335991) · `ta`
 
-கொழும்பு கோட்டை ரயில் நிலையத்தில் நேற்று (15) பிற்பகல் இடம்பெற்ற ரயில் விபத்து தொடர்பில் விசாரணை நடத்த குழுவொன்று நியமிக்கப்பட்டுள்ளது.
+A train accident at Colombo Fort Railway Station yesterday afternoon, heading to Chilaw, led to a driver suspension and an investigation committee. Cause unknown.
 
-சிலாபம் நோக்கிச் சென்று கொண்டிருந்த குறித்த ரயில் கோட்டை ரயில் நிலையத்தின் முதலாவது நடைமேடையை அடைந்த போது குறித்த இடத்தில் ரயில் நிறுத்த முடியாமல் நடைமேடையில் மோதியுள்ளது.
+🟩
 
-விபத்துக்கான காரணம் இதுவரை தெரியவரவில்லை எனவும், சம்பவம் தொடர்பான ரயில் சாரதியின், விசாரணைகள் முடியும் வரை இடைநிறுத்தப்பட்டுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+A committee has been appointed to investigate the train accident which took place at the Colombo Fort Railway Station yesterday afternoon.
+
+The train was heading to Chilaw when the train reached the first stage of the railway station.
+
+The cause of the accident has not yet been revealed and the train driver has been suspended until the investigation is over.
 
 ◼️
 
 [Data](articles/2a7af2de.json)
+
+[Extended Data](ext_articles/2a7af2de.ext.json)
 
 ---
 
@@ -2127,151 +2297,5 @@ ECONOMYNEXT – Sri Lanka’s State Finance Minister Shehan Semasinghe met Busin
 [Data](articles/c3a79949.json)
 
 [Extended Data](ext_articles/c3a79949.ext.json)
-
----
-
-### Global expansion of single-origin Sri Lankan chocolate a major struggle: Mendis
-
-*2024-04-16 04:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Global-expansion-of-single-origin-Sri-Lankan-chocolate-a-major-struggle-Mendis/108-280733) · `en`
-
-Chocolatier Mendis points out shortage of cocoa beans and poor cooperation of authorities as key challenges
-
-Says local growers stand to gain higher prices, due to limited availability of cocoa globally
-
-Sri Lanka’s celebrity chocolatier, chef and agriculture enthusiast Gerard Mendis faces an uphill battle in his bid to take single-origin Sri Lankan chocolates global. This is primarily due to the shortage of cocoa beans and absence of active cooperation of authorities.
-
-“In Sri Lanka, we have our own cocoa beans but we don’t have a sufficient quantity to cater to the demand of the local market. I took some (local) cocoa beans to a factory in Switzerland. Their feedback was that it (Sri Lankan cocoa) was one of the best they had ever tried and were keen on getting more. Unfortunately, we don’t have the quantity,” Mendis told Mirror Business.
-
-...
-
-[Data](articles/c97f108f.json)
-
-[Extended Data](ext_articles/c97f108f.ext.json)
-
----
-
-### Central Bank’s March dollar purchases hit record high
-
-*2024-04-16 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Banks-March-dollar-purchases-hit-record-high/108-280732) · `en`
-
-The Central Bank has purchased the most amount of dollars for a single month in March, a sign that the country is currently in a very comfortable position in its foreign currency liquidity, after two years into the worst currency crisis in the country.
-
-According to the data released last week, the Central Bank purchased US $ 715.1 million in March, which is the highest ever in the last decade. While the monetary watchdog sold none, the dollar purchase is a sharp increase from the roughly US $ 240 million purchased from the banking system in February, on a net basis.
-
-In January, the Central Bank purchased US $ 245.3 million and thus, the March net absorptions brought the first three months’ purchases to US $ 1,199.0 million.
-
-The Central Bank later last month said it would intervene in the foreign currency market to prevent excessive volatility, as the rupee has in recent times appreciated quite significantly after it plunged to its lowest levels in 2022.
-
-...
-
-[Data](articles/86358c00.json)
-
-[Extended Data](ext_articles/86358c00.ext.json)
-
----
-
-### Political accounts in the presidential election
-
-*2024-04-16 01:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181186) · `ta`
-
-Minority parties, including Tamil, Muslim, and Upcountry groups, are negotiating political deals for influence, focusing on parliamentary victories and ministerial positions. Douglas Devananda, a key figure in the North, supports Ranil, influenced by past support from the TNA and his desire for autonomy. Ranil's potential support from SKK members and the All Ceylon People's Congress could secure his position in the UNP. Despite this, the UNP's chances in parliamentary elections are slim, leading to a strategic shift. Ranil is firm in the Vanni district, potentially leaving the PA for the UNP, with no immediate crisis for the UNP in Vanni. The Eastern Province's support for Ranil is also noted, with plans for ministry status in future elections. Other parties, including the Ceylon Workers Congress and the Tamil Progressive Alliance, have their positions, with the latter supporting Sajith. The Tamil National People's Front (TNA) plans to boycott the presidential election in the North and East, highlighting the complexity of uniting Tamil parties.
-
-🟩
-
-The minority nationals, the Tamil, Muslim and Upcountry parties, have put political accounts for bargains in accordance with their influence, like the political account centered on the main candidates of Ranil, Sajith and Anura.
-
-In particular, all these parties make a final resolution, focusing on their victories in the parliamentary election, and the ministry and the ministry of the Ministry of State.
-
-In that respect, Douglas Devananda in the North took a decision to support Ranil before the political parties or individuals in the country decided.. There are two reasons for this.
-
-The first reason was during the 2015 regime change, the Tamil National Alliance (TNA) supported the Ranil Federation. Even if Ranil wanted to incorporate Douglas, the federation did not allow it.
-
-Even if the federation is currently in action, its membership parties are still in operation;Douglas may have thought it was appropriate to announce resolutions before such conditions occur.
-
-...
-
-[Data](articles/716feae1.json)
-
-[Extended Data](ext_articles/716feae1.ext.json)
-
----
-
-### India lifted onion export barrier
-
-*2024-04-16 01:34:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெங்காய-ஏற்றுமதி-தடையை-நீக்கியது-இந்தியா/175-335978) · `ta`
-
-India removed onion export barrier, exported 10,000 metric tons to Sri Lanka, marking a significant step in trade relations.
-
-🟩
-
-In addition, India has exported 10 thousand metric tons of onions to Sri Lanka.
-
-The Indian High Commission in Colombo has said that with this export of onion exports to Sri Lanka.(a)
-
-◼️
-
-[Data](articles/d8ac1807.json)
-
-[Extended Data](ext_articles/d8ac1807.ext.json)
-
----
-
-### Arrested for drug use in Jaffna
-
-*2024-04-16 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181185) · `ta`
-
-A man was arrested in Jaffna for drug use, stealing 90,000 rupees and jewelry. The suspect, a 23-year-old, admitted to the theft for drug use and was handed over to the Jaffna Regional Criminal Investigation Division.
-
-🟩
-
-A man was arrested on Monday (15) on suspicion of involvement in drug use in the Jaffna - Gurunagar area.
-
-The arrest of the Jaffna District Senior Superintendent of Police, Jagath Vishantha, was received by the Police Intelligence Unit.
-
-He was arrested in the Gurunagar area last week, who stole 90,000 rupees and a pound of jewelery.
-
-The 23 -year -old suspect was handed over to the Jaffna Regional Criminal Investigation Division.
-
-Police said the suspect had admitted that he had stolen for drug use and that the suspect would be taken to court after the jewelery and money were recovered.
-
-◼️
-
-[Data](articles/22669d91.json)
-
-[Extended Data](ext_articles/22669d91.ext.json)
-
----
-
-### Sri Lanka - Israeli Airline Suspenting
-
-*2024-04-16 01:30:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இஸ்ரேல்-விமான-சேவை-இடைநிறுத்தம்/175-335977) · `ta`
-
-Sri Lanka-Israel airline flights suspended. Sri Lankan Ambassador advises affected travelers to contact airlines for date changes.
-
-🟩
-
-The Sri Lankan Ambassador to the country said the airlines between Sri Lanka and Israel have been suspended.
-
-Sri Lankan Ambassador to Israel has advised Sri Lankans who have registered flights to travel to Israel in the coming days to contact their respective companies and change their travel date.. (A)
-
-◼️
-
-[Data](articles/f278de38.json)
-
-[Extended Data](ext_articles/f278de38.ext.json)
-
----
-
-### Nettles Needing To Be Grasped By Future Leaders Of Sri Lanka
-
-*2024-04-16 01:30:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/nettles-needing-to-be-grasped-by-future-leaders-of-sri-lanka/) · `en`
-
-The New Year celebrations this year were low key compared to the past. The loud sound of crackers and other fireworks that traditionally accompany the dawn of the New Year were less than in the past. The economic burden on the people has begun to tell and was evident in the reduced purchase of new clothes and other items in preparation for the New Year. It can be surmised that the general population has less savings to utilize due to those savings being consumed in earlier months when people’s expenditures exceeded their income. The latest World Bank publication titled ‘World Bank Update: Bridges to Recovery’ released on April 2 shows that poverty has increased over the past four years—from 11 percent in 2019 to almost 26 percent in 2024 in Sri Lanka. According to it, approximately 60 percent of Sri Lankan households have decreased incomes, with many facing increased food insecurity, malnutrition and stunted growth.
-
-...
-
-[Data](articles/d2becd9b.json)
-
-[Extended Data](ext_articles/d2becd9b.ext.json)
 
 ---

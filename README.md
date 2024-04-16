@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 11:52:55**
+As of **2024-04-16 12:03:44**
 
 ## Newspaper Stats
 
-*Scraped **19,085** Articles*
+*Scraped **19,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,027
 dailyftlk | 1,040
 economynextcom | 1,070
-adalk | 1,586
+adalk | 1,587
 tamilmirrorlk | 2,231
-adaderanalk | 2,296
-virakesarilk | 2,845
+adaderanalk | 2,297
+virakesarilk | 2,846
 dailymirrorlk | 2,936
 adaderanasinhalalk | 3,109
 
@@ -26,167 +26,257 @@ adaderanasinhalalk | 3,109
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,073 (99.9%) of 19,085 articles have been extended.
+19,085 (100.0%) of 19,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### மின்னல் தாக்கி ஒருவர் உயிரிழப்பு
+### IMF’s Deputy Managing Director commends Sri Lanka’s reform progress
+
+*2024-04-16 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98659/imfs-deputy-managing-director-commends-sri-lankas-reform-progress) · `en`
+
+The Deputy Managing Director of the International Monetary Fund (IMF), Kenji Okamura has commended the Sri Lankan authorities on the implementation of a strong program and excellent reform progress, says Finance State Minister Shehan Semasinghe.
+
+Sri Lankan delegation led by Semasinghe met with Mr. Okamura during the IMF-World Bank Group (WBG) Spring Meetings 2024 that kicked off in Washington, D.C. on Monday (15). The event will go on until 19 April with the participation of policymakers, civil society, researchers and several other high-ranking officials.
+
+Taking to X (formerly Twitter), the state minister said the two sides had a ‘very productive’ discussion during which Mr. Okamura underscored the need to preserve the hard-earned gains that Sri Lanka has achieved since the beginning of the IMF program and to continue strong ownership.
+
+...
+
+[Data](articles/73897779.json)
+
+---
+
+### பெருமளவு சிறுவர்களுக்கு சத்திரசிகிச்சை செய்தேன் - அவர்களில் பலர் ஆறுவயதிற்கு உட்பட்டவர்கள் - காசாவிலிருந்து திரும்பிய பிரிட்டிஸ் மருத்துவர்
+
+*2024-04-16 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181212) · `ta`
+
+சமீபத்தில் காசாவிலிருந்து திரும்பிய பிரிட்டனை சேர்ந்த மருத்துவர் ஒருவர் தான் யுத்தத்தினால் காயமடைந்த பெருமளவு சிறுவர்களிற்கு சத்திரகிசிச்சை செய்ததாக தெரிவித்துள்ளார்.
+
+காயமடைந்த பெருமளவு சிறுவர்களிற்கு சத்திரசிகிச்சை செய்தேன் அந்த எண்ணிக்கை என்னை அதிர்ச்சிக்குள்ளாக்கியது என மருத்துவர் விக்டோரியா ரோஸ் தெரிவித்துள்ளார்.
+
+16 வயதிற்கு உட்பட்ட பலருக்கு சத்திரசிகிச்சை செய்ததாக தெரிவித்துள்ள அவர் அவர்களில் பலர் ஆறுவயதிற்கு உட்பட்டவர்கள் எனவும் தெரிவித்துள்ளார்.
+
+துப்பாக்கி சூட்டு காயங்கள் எரிகாயங்கள் ஏனைய காயங்களால் பாதிக்கப்பட்டவர்களிற்கு சிகிச்சையளித்தேன் என அவர்தெரிவித்துள்ளார்.
+
+போதிய உணவு இன்மையால் காசாவில் காயமடைந்தவர்களின் காயங்கள் குணமாவது பிரச்சினைக்குரிய விடயமாக காணப்படுகின்றது எனவும் தெரிவித்துள்ள அவர் காசாவில் மருத்துவமபணியில் ஈடுபட்டிருந்தவேளை என்னை விட வயது கூடிய ஒருவருக்கு மாத்திரமே -53 -சத்திரகிசிச்சைசெய்தேன் ஏனையவர்கள் அனைவரும் என்னை விட வயது குறைந்தவர்கள் எனவும் தெரிவித்துள்ளார்
+
+...
+
+[Data](articles/86a98215.json)
+
+---
+
+### Lightning strike
 
 *2024-04-16 11:29:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கி-ஒருவர்-உயிரிழப்பு/175-335986) · `ta`
 
-வயலில் வேலை செய்து கொண்டிருந்த நபர் ஒருவரே இவ்வாறு மின்னல் தாக்கி உயிரிழந்துள்ளதாக பொலிஸார் கூறியுள்ளனர்.
+A 65-year-old man, Kekalana from Kottiagala, was killed by lightning yesterday afternoon.
 
-இந்த சம்பவம் நேற்று (15) பிற்பகல் இடம்பெற்றுள்ளதுடன், உயிரிழந்தவர் 65 வயதுடைய கெகெலன, கொட்டியாகல பிரதேசத்தைச் சேர்ந்தவராவார்.
+🟩
+
+The man who was working in the field was killed by lightning, police said.
+
+The incident took place yesterday afternoon and the deceased is 65 -year -old Kekalana, a native of Kottiagala.
 
 ◼️
 
 [Data](articles/a2f1f9db.json)
 
+[Extended Data](ext_articles/a2f1f9db.ext.json)
+
 ---
 
-### இலங்கையில் பயிரிடப்படவுள்ள உலகின் சுவையான அன்னாசி
+### The world's delicious pineapple to be cultivated in Sri Lanka
 
 *2024-04-16 11:26:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-பயிரிடப்படவுள்ள-உலகின்-சுவையான-அன்னாசி/175-335985) · `ta`
 
-உலகின் மிகவும் பிரபலமான அன்னாசி வகைகளில் ஒன்றான MD 2 அல்லது Super Sweet pine apple அன்னாசிப்பழத்தை இலங்கையில் பயிரிடுவதற்கு உடனடியாக பரிந்துரைக்குமாறு விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர விவசாய திணைக்களத்துக்கு ஆலோசனை வழங்கியுள்ளார்.
+Mahinda Amaraweera recommends cultivating MD 2 or Super Sweet Pineapple in Sri Lanka, despite its high market value.
 
-இந்த அன்னாசி வகைக்கு உலக சந்தையில் அதிக கிராக்கி இருந்தாலும், அந்த அன்னாசி வகையை இலங்கையில் பயிரிட இதுவரை நடவடிக்கை எடுக்கப்படவில்லை.
+🟩
 
-இந்த நிலையில், குறித்த  அன்னாசி வகையை இலங்கையில் பயிரிடும் பரீட்சார்த்த நடவடிக்கை வெற்றியளித்துள்ளதாக அவர் கூறியுள்ளார்.
+Agriculture and Plantation Industries Minister Mahinda Amaraweera has advised the Department of Agriculture to recommend the cultivation of Pineapple in Sri Lanka, MD 2 or Super Sweet Pine Apple, one of the world's most popular pineapple.
+
+Although this pineapple type is high in the world market, it has not yet been taken to cultivate that pineapple in Sri Lanka.
+
+In this case, the examination of the pineapple in Sri Lanka has been successful, he said.
 
 ◼️
 
 [Data](articles/0e1a334d.json)
 
+[Extended Data](ext_articles/0e1a334d.ext.json)
+
 ---
 
-### හක්මන ඝාතකයා අත්අඩංගුවට
+### Hakmana killer arrested
 
 *2024-04-16 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195677) · `si`
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ සැකකරු 46 හැවිරිදි වියේ පසුවන හක්මන කහටගහකොරටුව ප්‍රදේශයේ පදිංචිකරුවෙකි.
+A 46-year-old from Kahatagahakothauwa, arrested for murdering a 21-year-old with a sharp weapon in Hakmana Kahatagahakahara, revealed to be his uncle, driven by old resentment.
 
-හක්මන කහටගහකොරටුව ප්‍රදේශයේ දී 21 හැවිරිදි තරුණයෙකු ඊයේ තියුණු ආයුධයකින් පහර දී ඝාතනය කර තිබුණි.
+🟩
 
-පැරණි අමනාපයක් මත ඔහුගේ බාප්පා විසින් එම ඝාතනය සිදුකර ඇති බව සිදුකළ විමර්ශනවලදී අනාවරණය වී ඇත.
+The suspect is a 46 year old resident of Kahatagahakothauwa area.
 
-කෙසේවෙතත් එම ඝාතනයට සම්බන්ධ සැකකරු ප්‍රදේශයෙන් පළාගොස් ඇති අතර ඊයේ රාත්‍රියේ හක්මණ ගල්කන්ද ප්‍රදේශයේ දී ඔහු අත්අඩංගුවට ගත් බව පොලීසිය පැවසීය.
+A 21-year-old youth was attacked with a sharp weapon in the Hakmana Kahatagahakahara.
+
+Investigations have revealed that the murder had been carried out by his uncle on an old resentment.
+
+However, the suspect had fled the area and was arrested in Hakanda area last night.
 
 ◼️
 
 [Data](articles/ba140ddd.json)
 
+[Extended Data](ext_articles/ba140ddd.ext.json)
+
 ---
 
-### காதலியையும் காதலியின் தாயாரையும் கூரிய ஆயுதத்தால் தாக்கி விட்டு மாய்த்துக் கொண்ட நபர்!
+### A girlfriend and girlfriend's mother with sharp weapon!
 
 *2024-04-16 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181211) · `ta`
 
-காதலியையும் காதலியின் தாயாரையும் கூரிய ஆயுதத்தால் வெட்டித் தாக்கி விட்டு சந்தேகநபரும் தூக்கிட்டு உயிரிழந்துள்ளார். இதன்போது இளவாலை பொலிஸ் பிரிவிற்குட்பட்ட பனிப்புலம் பகுதியில் வசித்து வந்த குணத்திலகம் பிரணவன் (வயது 35) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+A man, Gunathakam Pranavan, 35, from Ilavalai, entered a woman's house with a weapon, killing her. He escaped at 4 am Tuesday. The woman and her mother were hospitalized. Ilavalai police are investigating.
 
-குறித்த நபர் இன்று செவ்வாய்க்கிழமை அதிகாலை 4.00 மணியளவில் யுவதியின் வீட்டிற்குள் நுழைந்து குறித்த யுவதி மீதும் அவரது தாயார் மீதும் கூரிய ஆயுதத்தால் தாக்குதலை மேற்கொண்டுவிட்டு, அங்கிருந்து தப்பிச் சென்று வெற்றுக் காணி ஒன்றில் உயிர்மாய்த்துள்ளளார்.
+🟩
 
-இந்நிலையில், யுவதியும் யுவதியின் தாயாரும் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றனர். இது குறித்து மேலதிக விசாரணைகளை இளவாலை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+The suspect dies after being hit by a sharp weapon. The deceased was Gunathakam Pranavan (age 35), who lived in the Ilavalai police division.
+
+The man entered the house of the woman and her mother with a sharp weapon and escaped from there at 4.00 am on Tuesday.
+
+In this case, the woman and the mother of the girl have been admitted to the Jaffna Teaching Hospital.. Further investigations are being carried out by the Ilavalai police.
 
 ◼️
 
 [Data](articles/a630716e.json)
 
+[Extended Data](ext_articles/a630716e.ext.json)
+
 ---
 
-### සිඩ්නි ප්‍රහාරකයා ගැන හෙළිදරව්වක්
+### A revelation of Sydney attacker
 
 *2024-04-16 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195676) · `si`
 
-සිඩ්නි නගරාසන්නයේ පිහිටි දේවස්ථානයක දී ඇසිරියානු දේවස්ථානයේ බිෂොප්වරයෙකුට සහ එහි සිටි පුද්ගලයින් කිහිපදෙනෙකුට පිහියකින් ඇනීමේ සිද්ධිය ත්‍රස්ත ක්‍රියාවක් බව ඔස්ට්‍රේලියානු පොලීසිය පවසයි.
+Australian police revealed a 16-year-old attacker at Sydney's church, where the bishop and others were stabbed. The incident, broadcast live, led to a peaceful gathering between the community and police.
 
-ආගමික අන්තවාදය මුල්කරගෙන එම පිහි ඇනුම සිදුකර ඇති බව ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් එරට පොලීසිය පැවසීය.
+🟩
 
-නිව් සවුත් වේල්ස් හි පොලිස් කොමසාරිස් කැරන් වෙබ් පවසන්නේ "සියලු කරුණු අධ්‍යයනය කිරීමෙන් අනතුරුව" එම නිගමනයට එළැඹි බවයි.
+Australian police states that the bishop of the Assyrian shrine and several people there were a knife in Sydney's church.
 
-සැකකරු 16 හැවිරිදි, පොලීසිය දැනගෙන සිටි පුද්ගලයෙක් බවද ඇය පැවසුවාය.
+A press conference has been held on a press conference based on religious extremism, the police said.
 
-එම පිහි ඇනුමෙන් බිෂොප් මා මාරි එම්මානුවෙල් ඇතුළු සිව් දෙනෙක් තුවාල ලැබීය.
+New South Wales' Commissioner Karen Web says that "after studying all the facts," it concluded.
 
-සැකකරු පිහියකින් සන්නද්ධව බිෂොප්වරයා වෙත කඩා පනින අයුරු සජීවීව අන්තරජාලය ඔස්සේ විකාශය වුණි.
+The suspect was 16 year old, he said.
 
-ඒ එම බිෂොප්වරයාගේ දේශනය සජීවීව විකාශය වෙමින් තිබූ බැවිනි. ඒ හේතුවෙන් එම දේශනයට සවන්දෙමින් සිටි අනුගාමිකයින් එම ප්‍රහාරය දැක තිබුණි.
+The knife was wounded by Bishop, including Marie Emmanuel.
 
-සුළු වෙලාවකින් බොහෝ පිරිසක් එම දේවස්ථානය අසලට රැස්වූ අතර ඔවුන් සහ පොලීසිය අතර උණුසුම් තත්ත්වයක් ද ඇතිවුණි.
+Living to the bishop, armed with a knife, broadcast on the basis of the entinity.
 
-ඒ පොලීසිය බාරයේ සිටි සැකකරුව තමන්ට බාරදෙන ලෙස එම පිරිස ඉල්ලා සිටීම නිසා ය.
+Because the Sermon of the Bishop was being broadcast live. As a result, the followers listening to that lecture had seen the attack.
+
+At a short time, many people gathered to the church and had a warm quality between them and the police.
+
+The suspects were in the use of the suspects to be handed over to them.
 
 ◼️
 
 [Data](articles/84032191.json)
 
+[Extended Data](ext_articles/84032191.ext.json)
+
 ---
 
-### கிணற்றில் விழுந்து 9 வயது சிறுவன் உயிரிழப்பு
+### 9 -year -old boy dies after falling into well
 
 *2024-04-16 11:20:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிணற்றில்-விழுந்து-9-வயது-சிறுவன்-உயிரிழப்பு/175-335984) · `ta`
 
-கம்பளையில் உள்ள வீடொன்றில் காணப்பட்ட கைவிடப்பட்ட கிணற்றில் விழுந்து 09 வயது சிறுவன் திங்கட்கிழமை (15) உயிரிழந்துள்ளார்.
+A 9-year-old boy died after falling into an abandoned well in Gampala.
 
-தனது பாட்டியின் வீட்டிற்கு சென்றிருந்த போது இந்த சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
+
+A 9 -year -old boy died on Monday (15) after falling into an abandoned well found in a house in Gampala.
+
+Police said the incident took place when she went to his grandmother's house.
 
 ◼️
 
 [Data](articles/46c49e9b.json)
 
+[Extended Data](ext_articles/46c49e9b.ext.json)
+
 ---
 
-### அதிவேக நெடுஞ்சாலைகளின் 5 நாட்களின் வருமானம்  190 கோடி ரூபா!
+### 190 crores of revenues of 5 days of high -speed highways!
 
 *2024-04-16 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/181208) · `ta`
 
-கடந்த 5 நாட்களில் அதிவேக நெடுஞ்சாலைகளில் போக்குவரத்து 10 சத வீதமாக  அதிகரித்துள்ளதாக நெடுஞ்சாலை நடவடிக்கை மற்றும் பராமரிப்புப் பிரிவின் பணிப்பாளர் ஆர்.ஐ.டி.கஹடபிட்டிய தெரிவித்துள்ளார்.
+Highways earned 190 crores in 5 days, with traffic up 10%.
 
-ஏப்ரல் 10 ஆம் திகதி முதல் நேற்று திங்கட்கிழமை (ஏப்ரல் 14)  வரையிலான  5 நாட்களில் நெடுஞ்சாலைகள் மூலம் 190 மில்லியன் ரூபாவுக்கும்  அதிகமான வருமானம் கிடைத்துள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+🟩
+
+Director of Highway Action and Maintenance Division RIT Kahadapitiya said that traffic on highways has increased by 10 percent in the last five days.
+
+He noted that highways have earned more than 190 million rupees in five days from April 10 to Monday (April 14).
 
 ◼️
 
 [Data](articles/7a616065.json)
 
+[Extended Data](ext_articles/7a616065.ext.json)
+
 ---
 
-### கொவிட் ஆலோசனைகள் குறித்து வைத்தியர் சத்தியமூர்த்தியின் தெளிவுபடுத்தல் !
+### Clear the doctor Satyamurthy on the Govt's suggestions!
 
 *2024-04-16 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181205) · `ta`
 
-கொவிட் தொற்று பற்றிய உலக சுகாதார நிறுவனம் மற்றும் இலங்கை சுகாதார அமைச்சின் ஆலோசனைகள் தொடர்பாக யாழ்ப்பாணம் போதனா வைத்தியசாலை பணிப்பாளர் த.சத்தியமூர்த்தி தெளிவுபடுத்தியுள்ளார்.
+Dr. Sathiyamoorthy clarifies WHO and Sri Lanka's health ministry's stance on COVID-19. After a death in Jaffna, the ministry outlines measures from Oct 10, 2023: 1) Provide same protection to those with other respiratory infections, 2) No pre-treatment or pre-surgery testing for COVID-19, 3) No testing for those near COVID-19 patients, 4) Respiratory infection patients must follow health guidelines, 5) Home funerals for COVID-19 deaths with health rules, 6) Many not following health unit instructions.
 
-யாழ் மாவட்டத்தில் நீண்ட காலத்திற்கு பின்னர் கொவிட்தொற்று காரணமாக பெண் ஒருவர் உயிரிழந்துள்ளநிலையில், மக்கள் மத்தியில் தேவையற்ற சந்தேகங்களை தீர்க்கும்வகையில் குறித்த தகவலை தனது சமூக வலைத்தளத்தில் வெளியிட்டுள்ளார்.
+🟩
 
-இதன்படி 2023 ஒக்டோபர் 10ம் திகதி முதல் கீழ்வரும் 7 விடயங்கள் சுகாதார அமைச்சினால் சுற்றறிக்கையொன்று வெளியிடப்பட்டு பின்பற்றப்படுகிறது.
+Jaffna Teaching Hospital Director T. Sathiyamoorthy has made it clear that the World Health Organization and the Ministry of Health of Sri Lanka have made it clear on the Infection of the Infection.
 
-1. கொவிட் தொற்று ஏற்பட்டவர்களுக்கு ஏனைய சுவாசத் தொற்று நோய்கள் ஏற்பட்டவர்களுக்கு வழங்கப்படுகின்ற அதே உரிய பாதுகாப்பும் பராமரிப்பும் வழங்கப்பட வேண்டும். பொருத்தமான சிகிச்சையும் வைத்தியசாலையில் வழங்கப்படும்.
+After a long time in the Jaffna district, a woman has died due to the death of a woman, and posted on her social media to solve unnecessary doubts among the people.
 
-(பொதுவாக சுவாச தொற்று வருத்தம் இன்னொருவருக்கு இலகுவாக பரவலாம். ஆகவே சுவாசத் தொற்று உடையவர்கள் உரிய அடிப்படை சுகாதார விதிமுறைகளை கடைப்பிடிக்க வேண்டும். அவ்வாறே தொற்று உடையவருக்கு அருகில் இருப்பவர்கள் மற்றும் பராமரிப்பவர்கள் உரிய சுகாதார பழக்கவழக்கங்களைப்  பேண வேண்டும்.)
+Accordingly, from October 10, 2023, the following 7 issues have been published by the Ministry of Health.
+
+௧. The same appropriate protection and maintenance should be provided to those who are infected with other respiratory infections. Appropriate treatment is also provided at the hospital.
+
+(Generally respiratory infection can spread to another lighter. Therefore, those with respiratory infection must adhere to the right basic health regulations. Likewise, those who are neighbors and caregivers should maintain appropriate health habits.)
 
 ...
 
 [Data](articles/c11637b7.json)
 
+[Extended Data](ext_articles/c11637b7.ext.json)
+
 ---
 
-### மீனவர்கள் பிரச்சினைகள் தொடர்பில் இந்திய மத்திய அரசாங்கத்துடனேயே பேச்சுவார்த்தை நடத்த வேண்டும் - எம். ஏ.சுமந்திரன்
+### Fishermen should negotiate with the central government of India on issues - M. A. Sumanthiran
 
 *2024-04-16 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181207) · `ta`
 
-மீனவர்கள் பிரச்சினைகள் தொடர்பில் இந்திய மத்திய அரசாங்கத்துடனேயே பேச்சுவார்த்தை நடத்த வேண்டும் என பாராளுமன்ற உறுப்பினர் எம். ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+Fishermen's MP, A. Sumanthiran, advocates for negotiations with India's central government on drag net fishing issues. The law legalizing drag nets was enacted after a 2016 meeting to resolve the issue, with the state government suggesting that tragic boat incidents may be linked to those involved in the boats.
 
-இழுவை மடி தொடர்பில் நான் கொண்டு வந்த தனிநபர் சட்டமூலம் சட்டமாக்கப்பட்டது. அதை நடைமுறைப்படுத்தாமல் இருந்தால் இந்த நிலை நீடிப்பதற்கான ஒரே ஒரு காரணமாக இருந்தது.
+🟩
 
-இழுவை மடி விவகாரத்துக்கு முடிவு கொண்டு வரப்படவேண்டும் என 2016 ஆம் ஆண்டில் ஒரு கூட்ட அறிக்கையை இலங்கை - இந்திய அரசாங்கங்கள் விடுத்திருந்ததைத் தொடர்ந்து தான் அந்த சட்டமும் இயற்றப்பட்டது.
+Member of Parliament for the fishermen should negotiate with the central government of India. A. Sumanthiran said.
 
-மாநில அரசுக்கு இந்த இழுவை மடி படகுகளில் ஈடுபடுபவர்களுடன் சம்பந்தம் இருக்கலாம் ஆகையினாலே அவர்களுடனும் பேசவேண்டும் என்கின்ற ஒரு கருத்து இருக்கிறது என தெரிவித்தார்.
+The individual bill I brought about the drag fold was legalized. The only reason for this situation was if it was not implemented.
+
+The law was enacted following the issuance of a meeting in 2016 to end the drag issue.
+
+The state government said that there is a suggestion that the tragic boats may be associated with those who are involved in the boats.
 
 ◼️
 
 [Data](articles/34677892.json)
+
+[Extended Data](ext_articles/34677892.ext.json)
 
 ---
 
@@ -207,6 +297,8 @@ The investigation into the collapse will focus in part on whether the crew of th
 ...
 
 [Data](articles/58339889.json)
+
+[Extended Data](ext_articles/58339889.ext.json)
 
 ---
 
@@ -394,6 +486,22 @@ He said that the 16 -year -old youth who was attacked by a knife attack had expr
 
 ---
 
+### රාජ්‍ය ඇමති චාමර සම්පත් ගමන්ගත් ජීප්රිය ගිනි ගනියි
+
+*2024-04-16 10:29:48* · [`adalk`](https://www.ada.lk/picture_story/රාජ්‍ය-ඇමති-චාමර-සම්පත්-ගමන්ගත්-ජීප්රිය-ගිනි-ගනියි/10-409098) · `si`
+
+රාජ්‍ය අමාත්‍ය චාමර සම්පත් දසනායක මහතා ගමන් ගත් වහනය අද 16 අළුයම බණ්ඩාරවෙල හල්පේ ප්‍රදේශයේදී  හදිසි ගිනි ගැනීමකට ලක්ව තිබේ. ගින්න හේතුවෙන් ඇමතිවරයාට හෝ එහි රියදුරට කිසිදු හානියක් සිදුවී නොමැති බවද ඇල්ල පොලිසිය කියයි.
+
+කාර්මික  දෝෂයක් හේතුවෙන් මෙම ගින්න හටගෙන ඇතැයි ද පොලිසිය කියයි.  මහියංගනයේ හා ඇල්ල ප්‍රදේශවල අවුරුදු උත්සවයකට සහභාගී වී අමාත්‍යවරයා ආපසු එන අතරතුර මෙම අනතුරට මුහුණ පා තිබේ.
+
+බණ්ඩාරවල නගර සභා ගිනි නිවීම් ඒකකය  හා ඇල්ල පොලිසිය එක්ව ගින්න මැඩ පැවැත්වීමට කටයුතු කර තිබුණද වාහනේ  ඉදිරිපස කොටස විශාල වශයෙන් ගිනිගෙන ඇති බවද බවද පොලිසිය කියයි.  ඇල්ල පොලිසිය පරීක්ෂණ පවත්වයි
+
+◼️
+
+[Data](articles/f615fd09.json)
+
+---
+
 ### Father killed in Marathon race
 
 *2024-04-16 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/181194) · `ta`
@@ -447,6 +555,8 @@ Commuters along with their children and belongings, were stranded at the Fort Ra
 ◼️
 
 [Data](articles/44fe2c82.json)
+
+[Extended Data](ext_articles/44fe2c82.ext.json)
 
 ---
 
@@ -1570,6 +1680,8 @@ As a result, the island’s fragile defences attracted a rash of free-lance merc
 
 [Data](articles/bbfbaf0a.json)
 
+[Extended Data](ext_articles/bbfbaf0a.ext.json)
+
 ---
 
 ### India remains Sri Lanka’s most reliable ally, trusted partner: High Commissioner
@@ -2077,59 +2189,5 @@ On average, women are paid approximately 20% less than men in Sri Lanka.
 [Data](articles/106afb0c.json)
 
 [Extended Data](ext_articles/106afb0c.ext.json)
-
----
-
-### Unisyst Engineering to de-list from CSE at exit offer price of Rs. 6 per share
-
-*2024-04-15 22:14:00* · [`islandlk`](http://island.lk/unisyst-engineering-to-de-list-from-cse-at-exit-offer-price-of-rs-6-per-share/) · `en`
-
-Unisyst Engineering PLC, a subsidiary of the Hayleys Group, has announced it would be delisting from the CSE.
-
-‘The Securities and Exchange Commission has granted their approval to delist the shares of Unisyst Engineering from the Official List of the CSE, at an exit offer price of Rs.6 per share, a CSE source said. The company said an offer letter will be sent to the shareholders shortly.
-
-Formerly Alufab PLC, Unisyst Engineering is an aluminium supplier in Sri Lanka. The company’s revenue increased by 38 percent to Rs 784 million during the last financial year, according to sources: “Unisyst Engineering PLC will continue to leverage the strengths of its partnership with Hayleys Advantis as it seeks to drive increased penetration in selected customer segments, they said.
-
-...
-
-[Data](articles/e1d31219.json)
-
-[Extended Data](ext_articles/e1d31219.ext.json)
-
----
-
-### Ghana fails to reach debt deal with international bondholders
-
-*2024-04-15 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98654/ghana-fails-to-reach-debt-deal-with-international-bondholders) · `en`
-
-(Reuters) - Ghana has failed to agree a deal with two bondholder groups to restructure $13 billion of international bonds, the government said on Monday, in a blow to its efforts to swiftly emerge from default and economic crisis.
-
-Talks were on hold for now after the International Monetary Fund indicated that the deal would not fit its debt sustainability parameters, which set out how much debt it thinks a country can afford, the government said in a statement.
-
-Ghana had been in formal talks with two groups holding its international bonds since March 16 - one “international” group of Western asset managers and hedge funds and another one including regional African banks.
-
-The regional African bondholder group had also rejected part of the proposed rework, including an option to retain the original value of the bonds with a longer maturity and lower coupon.
-
-...
-
-[Data](articles/dd6d2cc4.json)
-
-[Extended Data](ext_articles/dd6d2cc4.ext.json)
-
----
-
-### HNB ushers in new era with Damith Pallewatte at the helm as Acting CEO
-
-*2024-04-15 22:11:00* · [`islandlk`](http://island.lk/hnb-ushers-in-new-era-with-damith-pallewatte-at-the-helm-as-acting-ceo/) · `en`
-
-Sri Lanka’s largest private sector retail bank, HNB PLC announced the appointment of Damith Pallewatte as Acting CEO, effective from 6th April 2024, subject to approval of his fit & propriety from Central Bank of Sri Lanka. The strategic appointment comes as part of a planned leadership transition first announced in May 2023.
-
-A qualified Banking and Risk Management Professional with over 27 years of experience including more than 14 years in Senior and Corporate Management positions, Pallewatte brings a wealth of diverse experience to his new role. His career has spanned the full spectrum of banking operations, including Strategy and Risk Management, Credit, Branch Banking and Operations, before his most recent tenure as Deputy General Manager of HNB’s Wholesale Banking Group.
-
-...
-
-[Data](articles/a3145de3.json)
-
-[Extended Data](ext_articles/a3145de3.ext.json)
 
 ---

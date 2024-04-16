@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 22:33:53**
+As of **2024-04-16 22:51:23**
 
 ## Newspaper Stats
 
-*Scraped **19,197** Articles*
+*Scraped **19,198** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,072
 adalk | 1,600
 tamilmirrorlk | 2,239
 adaderanalk | 2,312
-virakesarilk | 2,868
+virakesarilk | 2,869
 dailymirrorlk | 2,961
 adaderanasinhalalk | 3,130
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,196 (100.0%) of 19,197 articles have been extended.
+19,197 (100.0%) of 19,198 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,26 @@ During the official talks, the two sides prioritized expanding economic cooperat
 ...
 
 [Data](articles/63812c2b.json)
+
+[Extended Data](ext_articles/63812c2b.ext.json)
+
+---
+
+### எழில் மிக்க நுவரெலியாவின் சுற்றுலா தொழில் துறை மறுமலர்ச்சி குறித்து ஆராய ஜனாதிபதி நேரடி சுற்றுலா விஜயம்
+
+*2024-04-16 22:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/181261) · `ta`
+
+நுவரெலியாவின் எழில் மிக்க மலைகளை அண்மித்துக் காணப்படும் சுற்றுலாத் தொழில்துறையின் மறுமலர்ச்சி தொடர்பில் ஆராய செவ்வாய்க்கிழமை (16) காலை ஜனாதிபதி ரணில் விக்ரமசிங்க நுவரெலியா - உடபுசலாவை - கோர்ட் லொட்ஜ் தோட்டத்திற்கு நேரடி விஜயம் மேற்கொண்டிருந்தார்.
+
+“Peko Trail” என்பது இலங்கையின் மத்திய மலைப்பகுதிகளூடாகச் செல்லும்  300 கிலோ மீற்றர் மலையேறும் பாதையாகும். ஆசியாவின் மிக ரகசியமான பாதைகளில் இதுவும் ஒன்றாகும்.
+
+Peko Trail என்று அறியப்படும் இந்தப் பாதையானது கண்டியில் ஆரம்பித்து அட்டன் ஊடாக ஹோட்டன் தென்ன தேசிய வனப் பூங்கா வரையில் செல்கிறது. அதன் பின்னர் ஹப்புத்தலை - எல்ல ஊடாக பயணித்து அழகிய நுவரெலியா நகரத்தில் பயணத்தை நிறைவு செய்யலாம்.  இந்த பாதை பிரித்தானிய காலணித்துவக் காலத்தில் பெருந்தோட்டங்களிலிருந்து தொழிற்சாலைகளுக்குச் செல்ல பயன்படுத்தப்பட்டுள்ளது.
+
+Peko Trail பாதையினூடாக 3.2 கி.மீ தூரத்திற்கு நடைப் பயணமாக சென்ற ஜனாதிபதி கோர்ட் லொட்ஜ் தோட்ட மக்களுடனும் சிநேகபூர்வமாக கலந்துரையாடினார்.
+
+...
+
+[Data](articles/464500ac.json)
 
 ---
 
@@ -98,7 +118,7 @@ He was speaking to the Elpitiya Police Division today (16) and he was permanentl
 
 *2024-04-16 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Street-food-vendor-arrested-for-verbally-harassing-foreigner/108-280794) · `en`
 
-Colombo, April 16 (Daily Mirror)  - The street food vendor who attempted to charge a foreign customer an exorbitant amount for a Kottu Roti and verbally harassed, was arrested by the Police.
+Colombo, April 16 (Daily Mirror)  -The street food vendor who attempted to charge a foreign customer an exorbitant amount for a Kottu Roti and verbally harassed him, was arrested by the Police.
 
 The altercation unfolded when the vendor allegedly demanded a staggering Rs. 1,900 for a Kottu Roti from the foreign customer. When questioned about the inflated price, the vendor reportedly resorted to harassment tactics, escalating the situation.
 
@@ -2265,37 +2285,5 @@ The US dollar purchasing price was Rs 294.2057 and the sales price were Rs 303.5
 [Data](articles/45eaf8ce.json)
 
 [Extended Data](ext_articles/45eaf8ce.ext.json)
-
----
-
-### Distortion of a New Song: 'These things should take action to happen again' - Rohana's Fair
-
-*2024-04-16 11:55:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1vwgeqdpwdo) · `si`
-
-Rohana's Fair's new song distorted for Solar Festival sparks controversy. Veteran singer expresses concern over censorship, calling for action against distortion. National and international media report on the issue, with the Minister of Cultural Affairs announcing legal action.
-
-🟩
-
-Distortion of a New Song: 'These things should take action to happen again' - Rohana's Fair
-
-As the Solar Festival, the warmth of the New Year, the hot song is emerging.
-
-It is charged with a distortion of a song designed for the Solar Festival.
-
-'Who are we?'What will happen to 7 songs that have been censored?
-
-The Solar Television Network of the Independent Television Network of the Independent Television Network of the Independent Television Network has also contributed to Sahan Ranna Songs and the gold.
-
-However, the song's words have been published in Facebook social media network.
-
-The first singer artist, Veteran singer, the first singer artist, is worried about the song and publish this song.
-
-He told the BBC Sinhala service.
-
-...
-
-[Data](articles/32f4478a.json)
-
-[Extended Data](ext_articles/32f4478a.ext.json)
 
 ---

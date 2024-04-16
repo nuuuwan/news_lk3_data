@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 07:40:23**
+As of **2024-04-16 07:53:32**
 
 ## Newspaper Stats
 
-*Scraped **19,023** Articles*
+*Scraped **19,027** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,99 @@ tamilmirrorlk | 2,222
 adaderanalk | 2,292
 virakesarilk | 2,829
 dailymirrorlk | 2,924
-adaderanasinhalalk | 3,097
+adaderanasinhalalk | 3,101
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,016 (100.0%) of 19,023 articles have been extended.
+19,023 (100.0%) of 19,027 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### පුතුට සහාය වූ පියා මරුට
+
+*2024-04-16 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195668) · `si`
+
+පැල්මඩුල්ල බටලන්ද ප්‍රදේශයේ පැවති මෙම අවුරුදු උත්සවයේ ගම හරහා දිවීමේ තරගය සඳහා සහභාගී වූ පුතු දිරිමත් කිරීමට එක්වූ පියෙකු මෙලෙස මියගොස් ඇත.
+
+මෙලෙස මියගොස් ඇත්තේ එම ප්‍රදේශයේම පදිංචි 60 හැවිරිදි වියේ පසුවූ පුද්ගලයෙකි.
+
+සිය 16 හැවිරිදි වියේ පසුවන පුතු ගම හරහා දිවීමේ තරගයට සහභාගී වන බැවින් ඔහුගේ ආරක්ෂාවට සහ සහාය වීම පිණිස මියගොස් ඇති පියාද ඔහු සමග ගොස් තිබේ.
+
+එහිදී එක්වරම 60 හැවිරිදි වියේ පසුවූ පියා ක්ලාන්ත වී ඇදවැටීමෙන් අනතුරුව පැල්මඩුල්ල රෝහලට ඇතුළත් කිරීමේදී අනාවරණය වී ඇත්තේ ඔහු මියගොස් ඇති බවටය.
+
+◼️
+
+[Data](articles/c9fbfbb5.json)
+
+---
+
+### බ්‍රසීල වෙරළේ බෝට්ටුවක මළසිරුරු තොගයක්
+
+*2024-04-16 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195667) · `si`
+
+ඊසාන දිග බ්‍රසීලයේ වෙරළ තීරයට ඔබ්බෙන් වූ බෝට්ටුවක තිබී නරක් වූ මළසිරුරු විශාල ප්‍රමාණයක් සොයාගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+එම වාර්තා වැඩිදුරටත් සඳහන් කර ඇත්තේ මළසිරුරු 20කට ආසන්න ප්‍රමාණයක් එහි ඇති බවට අනුමාන කරන බවය.
+
+මළසිරුරු නරක් වීම හේතුවෙන් බෝට්ටුවේ කොපමණ සංඛ්‍යාවක් මියගොස් ඇත් ද යන්න සම්බන්ධයෙන් නිශ්චිතව නොදන්නා බව බ්‍රසීල බළධාරීන් උපුටා ගනිමින් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+අදාළ පිරිස බ්‍රසීල ජාතිකයන් විය නොහැකි බවට අනුමාන කරන විමර්ශකයින් පවසන්නේ බොහෝ දුරට ඔවුන් කැරිබියන් දූපත්වල සිට පැමිණි පුද්ගලයින් විය හැකි බවය.
+
+◼️
+
+[Data](articles/cafb1642.json)
+
+---
+
+### අකුණට බිලි වූ ජීවිතය
+
+*2024-04-16 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195666) · `si`
+
+ඇතිමලේ, කොටියාගල ප්‍රදේශයේදී අකුණු සැර වැදීමෙන් පුද්ගලයෙකු මියගොස් ඇති බව පොලීසිය පවසයි.
+
+පොලීසිය පවසන්නේ කුඹුරු යායක වැඩ කරමින් සිටි පුද්ගලයෙකු මෙලෙස අකුණු සැර වැදී ජීවිතක්ෂයට පත්ව ඇති බවය.
+
+ඊයේ (15) දහවල් කාලයේදී එම සිදුවීම වාර්තා වී ඇති බව පොලීසිය පවසයි.
+
+මෙලෙස මියගොස් ඇත්තේ, කැකැලාන, කොටියාගල ප්‍රදේශයේ පදිංචි 65 හැවිරිදි පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/8105da3b.json)
+
+---
+
+### IPL වාර්තා අලුත් කළ සුපිරි තරගයක්
+
+*2024-04-16 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195665) · `si`
+
+IPL තරගාවලියේ RCB කණ්ඩායම සහ SRH කණ්ඩායම අතර ඊයේ පැවති සුපිරි ක්‍රිකට් තරගය වෙත ලෝකයේම අවධානය යොමුවිය.
+
+ඒ විස්සයි විස්ස ක්‍රිකට් පිටියේ ලොව ජනප්‍රියම තරගාවලිය වන IPL හි වාර්තා ඊයේ දිනයේ අලුත්වීම හේතුවෙනි.
+
+ඊයේ පැවති තරගය RCB කණ්ඩායම ලකුණු 25කින් පරාජය කළ SRH කණ්ඩායම ජය හිමිකරගැනීමට සමත්විය.
+
+SRH කණ්ඩායම පන්දුවාර 20 දී කඩුලු 03ක් දැවී ලකුණු 287ක් ලබා ගත් අතර එය IPL පිටියේ කණ්ඩායමක් ලැබූ ඉහළම ලකුණු සංඛ්‍යාවයි.
+
+එය මීට සති තුනකට පෙර SRH කණ්ඩායම විසින්ම මුම්බායි ඉන්දියන්ස් කණ්ඩායමට එරෙහිව කඩුලු 03ක් දැවී ලකුණු 277ක් ලබා පිහිට වූ වාර්තාව අලුත් කිරීමකි.
+
+තරගයේ දී RCB කණ්ඩායම ද කඩුලු 07ක් දැවී ලකුණු 262ක් ලබා ගැනීමට සමත් වුණි.
+
+ඒ අනුව සමස්ත තරගයේ දී ලකුණු 549ක් වාර්තා වූ අතර එය පන්දුවාර විස්ස තරගයක දී කණ්ඩායම් දෙකක් වාර්තා කළ වැඩිම ලකුණු සංඛ්‍යාව ද වෙයි.
+
+එම තරගයේදී  SRH කණ්ඩායම හයේ පහර 22ක් එල්ල කළ අතර එය IPL තරගයක ඉනිමකදී එල්ලකළ වැඩිම හයේ පහර සංඛ්‍යාව විය.
+
+තරගය පුරා හයේ පහර 38ක් එල්ල වූ අතර එය ද ඕනෑම පන්දුවාර විස්සයි විස්ස තරගයක වාර්තා වූ වැඩිම හයේ පහර සංඛ්‍යාව ද විය.
+
+◼️
+
+[Data](articles/21c3317a.json)
+
+---
 
 ### Showers in several areas this afternoon
 
@@ -110,17 +192,23 @@ Police said the suspect had admitted that he had stolen for drug use and that th
 
 ---
 
-### இலங்கை - இஸ்ரேல் விமான சேவை இடைநிறுத்தம்
+### Sri Lanka - Israeli Airline Suspenting
 
 *2024-04-16 01:30:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இஸ்ரேல்-விமான-சேவை-இடைநிறுத்தம்/175-335977) · `ta`
 
-இலங்கை மற்றும் இஸ்ரேல் இடையிலான விமான சேவைகள் தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ளன என அந்த நாட்டுக்கான இலங்கை தூதுவர் தெரிவித்துள்ளார்.
+Sri Lanka-Israel airline flights suspended. Sri Lankan Ambassador advises affected travelers to contact airlines for date changes.
 
-எதிர்வரும் நாள்களில் இஸ்ரேலுக்கு பயணிப்பதற்காக விமான ஆசனங்களைப் பதிவு செய்த இலங்கையர்கள், அந்தந்த நிறுவனங்களைத் தொடர்புகொண்டு பயணத் திகதியை மாற்றிக்கொள்ளுமாறு இஸ்ரேலுக்கான இலங்கை தூதுவர் அறிவுறுத்தியுள்ளார். (a)
+🟩
+
+The Sri Lankan Ambassador to the country said the airlines between Sri Lanka and Israel have been suspended.
+
+Sri Lankan Ambassador to Israel has advised Sri Lankans who have registered flights to travel to Israel in the coming days to contact their respective companies and change their travel date.. (A)
 
 ◼️
 
 [Data](articles/f278de38.json)
+
+[Extended Data](ext_articles/f278de38.ext.json)
 
 ---
 
@@ -133,6 +221,8 @@ The New Year celebrations this year were low key compared to the past. The loud 
 ...
 
 [Data](articles/d2becd9b.json)
+
+[Extended Data](ext_articles/d2becd9b.ext.json)
 
 ---
 
@@ -252,19 +342,25 @@ With a career spanning back to 2009, Kaushali has garnered diverse experience ha
 
 ---
 
-### மின்னல் தாக்கங்கள் தொடர்பில் எச்சரிக்கை
+### Alert on lightning impacts
 
 *2024-04-16 00:56:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கங்கள்-தொடர்பில்-எச்சரிக்கை/175-335976) · `ta`
 
-மழையுடன் ஏற்படக்கூடிய பலத்த மின்னல் தாக்கங்கள் தொடர்பில் அவதானமாக இருக்குமாறு வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
+The Department of Meteorology warns of heavy lightning strikes in rainfall, affecting Western, Sabaragamuwa, and North Western Provinces and Galle, Matara, and Kandy districts. It advises caution during the rainy season.
 
-மேல், சபரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி, மாத்தறை மற்றும் கண்டி மாவட்டங்களிலும்  இடியுடன் கூடிய மழை பெய்யக்கூடும் என அந்த திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-மழை பெய்யும் வேளையில் பலத்த மின்னல் ஏற்படக்கூடிய அபாயம் காணப்படுவதாகவும், இது தொடர்பில் அவதானமாக இருக்குமாறும் வளிமண்டலவியல் திணைக்களம் மக்களை அறிவுறுத்தியுள்ளது. (a)
+The Department of Meteorology has warned that the heavy lightning strikes occur in the rainfall.
+
+Thundershowers will occur in the Western, Sabaragamuwa and North Western Provinces and Galle, Matara and Kandy districts, the department said.
+
+The Department of Meteorology has advised the people that there is a risk of lightning during the rainy season and to be careful in this regard.. (A)
 
 ◼️
 
 [Data](articles/cc4f40a6.json)
+
+[Extended Data](ext_articles/cc4f40a6.ext.json)
 
 ---
 
@@ -1550,21 +1646,33 @@ Lokesh Kanakaraj -Bakiraj Kannan -Rawa Lawrence has designed a helmet in the tit
 
 ---
 
-### “பிரபாகரனுக்கு பின் தமிழ் தலைமை  இல்லை”
+### "Prabhakaran has no Tamil leadership"
 
 *2024-04-15 16:59:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பிரபாகரனுக்கு-பின்-தமிழ்-தலைமை-இல்லை/72-335962) · `ta`
 
-வடக்கு ,கிழக்கு ,மலையகம் மற்றும்கொழும்பை பொறுத்த வகையில் அங்குள்ள தமிழர்கள் தலைவர் வேலுப்பிள்ளை பிரபாகரனுக்கு பின்னர் ஒரு தமிழ் தலைமையை   இன்னும் அடையாளம் காணவில்லை.எனவே  தமிழ் பொது வேட்பாளர் தொடர்பாக தமிழ் மக்கள் ஆர்வமற்றவர்களாகவே இருக்கின்றனர் என பாராளுமன்ற உறுப்பினர் சாள்ஸ் நிர்மலநாதன் தெரிவித்தார்.
+"Prabhakaran: No Tamil leadership identified in North, East, and hill country. TNA hasn't consulted on Tamil general candidate for upcoming presidential election. Tamils' rights in presidential elections are denied, leading to calls to stop a Tamil general candidate. Prabhakaran: Difficult to identify a Tamil leadership or general candidate. Tamil people not interested in a Tamil general candidate."
 
--மன்னாரில் உள்ள அலுவலகத்தில்  திங்கட்கிழமை (15) காலை இடம்பெற்ற ஊடக சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-தமிழரசு கட்சி எதிர்வரும் ஜனாதிபதி தேர்தலின் போது யாரை ஆதரிப்பது  அல்லது தமிழ் பொது வேட்பாளர் குறித்து இதுவரை எவ்வித கலந்தாலோசனைகளையும் முன்னெடுக்கவில்லை.
+In the case of the North, East and the hill country and the Tamil leader Velupillai Prabhakaran, a Tamil leadership has not yet been identified.
 
-தமிழ் பொது வேட்பாளர் குறித்து ஊடகங்களில் கருத்துக்கள் வெளிவருகின்றன. என்னை பொருத்தமட்டில் அவர்கள் கூறுவதன் பிரதான காரணம் தொடர்ச்சியாக ஜனாதிபதி தேர்தலில் தமிழர்கள் வாக்களித்தாலும் தமிழர்களின் உரிமைகள் தொடர்ச்சியாக மறுக்கப்பட்டு வருகின்றன. இதன் காரணமாக தமிழ் பொது வேட்பாளர் ஒருவரை நிறுத்த வேண்டும் என்கின்ற சிலரது கருத்துக்கள் நிலவுகின்றன.
+He was speaking at a media briefing held at the office in Mannar on Monday morning.
+
+The Tamil National Alliance (TNA) has not yet held any consultation on who supports or the Tamil general candidate during the upcoming presidential election.
+
+Comments on the Tamil general candidate are coming out in the media. The main reason they say that the main reason for me is that Tamils vote in the presidential election are constantly denied the rights of Tamils.. As a result, there are some people who say that a Tamil general candidate should be stopped.
+
+My personal opinion is a very difficult thing to stop a Tamil general candidate.
+
+In the North -East, the people of Colombo, the Tamil leader Velupillai Prabhakaran has not yet recognized a Tamil leadership after the Tamil leader.
+
+It is a difficult answer to identify a party leader or common to all people.
 
 ...
 
 [Data](articles/1e79f6fd.json)
+
+[Extended Data](ext_articles/1e79f6fd.ext.json)
 
 ---
 
@@ -2107,103 +2215,5 @@ He added that the official website of the Ministry of Education, which was inact
 [Data](articles/87ff6047.json)
 
 [Extended Data](ext_articles/87ff6047.ext.json)
-
----
-
-### People who lose their livelihood by the attraction of wild elephants
-
-*2024-04-15 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181128) · `ta`
-
-In Kilinochchi, wild elephants destroyed crops in Koluttupulavu, affecting over 300 families. Elephants damaged bananas, coconuts, and pumpkins, causing fear and livelihood loss. Authorities urge setting up an electric fence for safety.
-
-🟩
-
-Wild elephants have been destroyed in the residential area of the Koluttupulavu area of the Kandawala Divisional Secretariat of Kilinochchi District.
-
-More than 300 families living in the area suffer from the destruction of elephants by elephants.
-
-Elephants are worried that the crops such as coconut, banana and pumpkin crops are being destroyed by the people who are engaged in agriculture for their lives.
-
-Six wild elephants that entered the residence last night destroyed more than 120 bananas and more than 50 coconut trees.
-
-People living in the area are worried that the movement of wild elephants has been forced to live in fear.
-
-The relevant authorities have appealed to the concerned authorities to ensure their safety and set up a permanent electric fence.
-
-◼️
-
-[Data](articles/981c5ca4.json)
-
-[Extended Data](ext_articles/981c5ca4.ext.json)
-
----
-
-### Warning issued for severe lightning in several areas
-
-*2024-04-15 15:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98644/warning-issued-for-severe-lightning-in-several-areas) · `en`
-
-The Meteorology Department warns that thundershowers accompanied by severe lightning are likely to occur at several places in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
-
-There may be temporary localized strong winds during thundershowers, the Met. Department said.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
-
-The general public is further requested to avoid using wired telephones and connected electric appliances during thunderstorms and to also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
-
-For emergency assistance, the public is requested to contact local disaster management authorities.
-
-...
-
-[Data](articles/531b86ea.json)
-
-[Extended Data](ext_articles/531b86ea.ext.json)
-
----
-
-### Here is the facts that the government is considering again
-
-*2024-04-15 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195650) · `si`
-
-The government is reconsidering vehicle import boundaries, with a committee appointed to investigate. The Minister of Finance mentioned the need for increasing foreign reserves to relax these boundaries. The State Minister Ranjith Siyambalapitiya stated that import limits are being systematically loosened, with a recent stop on vehicle imports. The Treasury of the Ministry of Finance is well-developed, and decisions are made based on reserve growth. The government has allowed for the import of 750 vans for tourism and 250 buses, with plans to import essential vehicles in the future. A high-level investigation is underway to determine the cost of essential vehicles and their benefits.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya says that a committee has been appointed to investigate the removal of vehicle import boundaries.
-
-Speaking to the media, the Minister of Finance made these comments.
-
-The Minister further stated that the public minister said that the need for increasing foreign reserves will be required to relax the vehicle import boundaries.
-
-State Minister Ranjith Siyambalapitiya said further
-
-...
-
-[Data](articles/f7700e32.json)
-
-[Extended Data](ext_articles/f7700e32.ext.json)
-
----
-
-### An increase in prices
-
-*2024-04-15 15:33:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-விலை-அதிகரிப்பு/175-335956) · `ta`
-
-Merchants raise poultry meat prices during festive season, despite government promises to lower them. Prices have risen from 1,100 to 1,500 rupees per kg. Ajith Gunasekera, Poultry Farmers Association president, expects price reductions soon.
-
-🟩
-
-It is reported that merchants are arbitrarily raising the price of poultry meat during the festive season.
-
-The government has promised to reduce the price of poultry meat and eggs during the festive season, but people have accused the market of not being in the market.
-
-Previously the price of poultry meat was 1,100 rupees and the price of 1 kg of chicken meat is currently at 1,500 rupees.
-
-Meanwhile, the prices of increased meat and eggs will be reduced in the coming days, said Ajith Gunasekera, president of the Poultry Farmers Association.. Remble
-
-◼️
-
-[Data](articles/69f94794.json)
-
-[Extended Data](ext_articles/69f94794.ext.json)
 
 ---

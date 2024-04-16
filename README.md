@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 15:03:26**
+As of **2024-04-16 15:18:19**
 
 ## Newspaper Stats
 
-*Scraped **19,119** Articles*
+*Scraped **19,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,139 @@ islandlk | 1,028
 dailyftlk | 1,040
 economynextcom | 1,072
 adalk | 1,590
-tamilmirrorlk | 2,234
+tamilmirrorlk | 2,236
 adaderanalk | 2,302
-virakesarilk | 2,849
+virakesarilk | 2,853
 dailymirrorlk | 2,942
-adaderanasinhalalk | 3,117
+adaderanasinhalalk | 3,118
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,119 (100.0%) of 19,119 articles have been extended.
+19,119 (100.0%) of 19,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### முட்டை விலை அதிகரிப்பினால் கேக் உற்பத்தி குறைவடைந்தது!
+
+*2024-04-16 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181230) · `ta`
+
+முட்டையின் விலை அதிகரிப்பினால் பண்டிகைக் காலங்களில் பேக்கரி உரிமையாளர்கள் கேக் உற்பத்தி  செய்யவில்லை என  பேக்கரி உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+
+அத்துடன்  பெரியளவிலான பேக்கரிகளின் உரிமையாளர்களே சுமார்  25 சதவீதமளவில் கேக் உற்பத்திகளை மேற்கொண்டதாக சங்கத்தின் தலைவர் என்.கே. ஜயவர்தன  இன்று (16) இடம்பெற்ற ஊடக சந்திப்பில் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/b2aa53b9.json)
+
+---
+
+### වැස්ස සහ අකුණු අනතුරුවලින් පාකිස්තානයේ 39ක් මරුට
+
+*2024-04-16 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195687) · `si`
+
+නිරිතදිග පාකිස්තානයට ඇදහැලෙන අධික වර්ෂාපතනය සහ අකුණු අනතුරු මගින් පුද්ගලයින් 39 දෙනෙකු මියගොස් ඇති බව විදසේ මාධ්‍ය වාර්තා කරයි.
+
+මියගිය පිරිස අතර වැඩි දෙනෙක් ගොවීන් වන අතර ඔවුන් අස්වනු නෙළීමේ නිරතව සිටියදී අකුණු අනතුරුවලට ලක්වී ඇති බව පැවසෙයි.
+
+ඇදහැලෙන අධික වර්ෂාපතනය හේතුවෙන් ගොවි බිම් රැසක් ද ජලයෙන් යටවී පවතී.
+
+එමෙන්ම විදුලිබල සැපයුම සහ ප්‍රවාහන සේවා ද අඩාල වී ඇති බව වාර්තා වෙයි.
+
+2022 වසරේදී පාකිස්තානයට බලපෑ ගංවතුර තත්ත්වය හේතුවෙන් ඇති වු අනතුරු මගින් පුද්ගලයින් 1700කට අධික පිරිසක් මියගොස් තවත් දහසකට අධික පිරිසක් තුවාල ලැබීය.
+
+◼️
+
+[Data](articles/49ba4956.json)
+
+---
+
+### அன்னை பூபதிக்கு வவுனியாவில் அஞ்சலி
+
+*2024-04-16 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/181216) · `ta`
+
+நாட்டுப்பற்றாளர் அன்னை பூபதியின் 36 ஆம் ஆண்டு நினைவு நிகழ்வு அனுஷ்டிக்கப்பட்ட நிலையில் அவரின் திருவுருவப்படம் தாங்கிய ஊர்திக்கு இன்று வவுனியாவில் அஞ்சலி செலுத்தப்பட்டது.
+
+தமிழ் தேசிய மக்கள் முண்ணனியின் ஏற்பாட்டில் வடக்கு கிழக்கில் அனைத்து மாவட்டங்களுக்கும் செல்லவுள்ள ஊர்தியானது இன்று வவுனியாவில் காணாமல் ஆக்கப்பட்டோரின் உறவினர்களின் போராட்ட பந்தலுக்கு முன்பாக அஞ்சலிக்காக கொண்டுவரப்பட்டது.
+
+இதன்போது காணாமல் ஆக்கப்பட்டோரின் உறவினர்களின் சங்க தலைவி கா. ஜெயவனிதா ஈகைச்சுடரினை ஏற்றி வைத்ததுடன் மற்றும் தாயார் மலர்மாலை அணிவித்து அடுத்து மலர் அஞ்சலி செலுத்தப்பட்டது.
+
+◼️
+
+[Data](articles/285aed01.json)
+
+---
+
+### ’’ரூ.200 கோடி’’ சொத்தை தானம் கொடுத்த தம்பதி
+
+*2024-04-16 14:32:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-200-கோடி-சொத்தை-தானம்-கொடுத்த-தம்பதி/175-335992) · `ta`
+
+குஜராத்தைச் சேர்ந்த ஒரு கோடீஸ்வர தம்பதி தங்களின் ரூ.200 கோடி சொத்தை பொதுமக்களுக்கு நன்கொடையாக அளித்துவிட்டு துறவறத்தை ஏற்றுள்ளனர். மேலும், அவர்கள் விரைவில் ஆன்மீக பயணத்தைத் தொடங்க திட்டமிட்டுள்ளனர்.
+
+குஜராத்தைச் சேர்ந்த ஜெயின் தொழிலதிபர்கள் பவேஷ் பண்டாரி மற்றும் அவரது மனைவி தான் இப்படிச் செய்துள்ளனர். அவர்கள் கடந்த பெப்ரவரி மாதம் நடந்த நிகழ்ச்சி ஒன்றில் தங்கள் அனைத்து செல்வங்களையும் மக்களுக்கு நன்கொடையாக அளித்தனர். இந்த மாதம் நடக்கும் மத நிகழ்வில் அவர்கள் முழுமையாகத் துறவு வாழ்க்கைக்குச் செல்கிறார்கள்.
+
+இதற்காக அவர்கள் ஏப்ரல் 22ஆம் திகதி உறுதிமொழி ஒன்றை ஏற்க உள்ளனர். அதன் பிறகு இந்த தம்பதியினர் அனைத்து குடும்ப உறவுகளையும் துண்டிக்க வேண்டும்.. அதாவது குடும்பம் உறவு என யாரையும் கருதக்கூடாது. ஒட்டுமொத்த உலகத்தையும் இவர்கள் குடும்பமாகக் கருத வேண்டும். மேலும், எந்த பொருளையும் இவர்கள் வைத்துக் கொள்ளக்கூடாது என்பதே விதியாகும்.
+
+◼️
+
+[Data](articles/cb25aeb7.json)
+
+---
+
+### உலகில் மிகவும் சுவையான அன்னாசிப்பழத்தை இலங்கையில் பயிரிட நடவடிக்கை
+
+*2024-04-16 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181224) · `ta`
+
+உலகில் மிகவும் சுவையான அன்னாசி வகைகளில் ஒன்றான MD 2 என்ற அன்னாசிப்பழத்தை இலங்கையில் பயிரிடுவதற்கு விவசாயத்திணைக்களம் பரிந்துரைத்துள்ளது.
+
+இந்நிலையில், இனிப்புச் சுவை மற்றும் குறைந்த அமிலத்தன்மை கொண்ட MD 2 வகை அன்னாசிப்பழத்தை பயிரிட நடத்தப்பட்ட ஆய்வு வெற்றி அளித்துள்ளது.
+
+எனவே, MD 2  வகை அன்னாசிப்பழத்தை பயிரிடுவதற்கான நடவடிக்கைகளை உடனடியாக  மேற்கொள்ளுமாறு விவசாயத் திணைக்களத்திற்கு விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர ஆலோசனை வழங்கியுள்ளார்.
+
+◼️
+
+[Data](articles/57380af1.json)
+
+---
+
+### கொழும்பு தேசிய வைத்தியசாலையில் வழங்கப்படும் உணவுகள் தரமற்றவை!
+
+*2024-04-16 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181228) · `ta`
+
+கொழும்பு தேசிய வைத்தியசாலையில் நோயாளர்கள் மற்றும் ஊழியர்களுக்கு வழங்கப்படும் கணிசமான அளவு  உணவுப் பொருட்கள் தரமற்றவை என வைத்தியசாலையின் பிரதிப் பணிப்பாளர் வைத்தியர் ருக்க்ஷான் பெல்லன தெரிவித்துள்ளார்.
+
+மேலும், சில நேரங்களில் நோயாளிகளின் உணவுக்காக வழங்கப்படும் காய்கறிகள்  ஓரளவு  அழுகிய நிலையில் காணப்படுவதாகவும் அவர் குற்றம் சாட்டியுள்ளார்.
+
+நோயாளிகள் மற்றும் ஊழியர்களுக்கு வழங்கப்படும் தேநீருக்கு  பயன்படுத்தப்படும் மாவு மற்றும் சீனியும் காலாவதியாகவும் காணப்படுகின்றன.
+
+சில சந்தர்ப்பங்களில், சம்பந்தப்பட்ட ஒப்பந்த நிறுவனம்  உணவுக்கு தகுதியற்ற மீன்களுடன் உணவை வழங்குகின்றன.
+
+இது குறித்து பல ஊழியர்கள் முறைப்பாடு செய்துள்ளதாகவும் இது தொடர்பில்  சுகாதார அமைச்சினால் முடிவெடுக்கப்பட வேண்டும் எனவும் வைத்தியசாலை அதிகாரிகளால் எதுவும் செய்ய முடியாது எனவும் வைத்தியர் பெல்லன  தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/0f6db509.json)
+
+---
+
+### நடைமேடையில் ரயிலை மோதிய சாரதி இடைநிறுத்தம்
+
+*2024-04-16 14:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடைமேடையில்-ரயிலை-மோதிய-சாரதி-இடைநிறுத்தம்/175-335991) · `ta`
+
+கொழும்பு கோட்டை ரயில் நிலையத்தில் நேற்று (15) பிற்பகல் இடம்பெற்ற ரயில் விபத்து தொடர்பில் விசாரணை நடத்த குழுவொன்று நியமிக்கப்பட்டுள்ளது.
+
+சிலாபம் நோக்கிச் சென்று கொண்டிருந்த குறித்த ரயில் கோட்டை ரயில் நிலையத்தின் முதலாவது நடைமேடையை அடைந்த போது குறித்த இடத்தில் ரயில் நிறுத்த முடியாமல் நடைமேடையில் மோதியுள்ளது.
+
+விபத்துக்கான காரணம் இதுவரை தெரியவரவில்லை எனவும், சம்பவம் தொடர்பான ரயில் சாரதியின், விசாரணைகள் முடியும் வரை இடைநிறுத்தப்பட்டுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/2a7af2de.json)
+
+---
 
 ### Wijeyadasa to contest upcoming presidential election?
 
@@ -2155,143 +2273,5 @@ The New Year celebrations this year were low key compared to the past. The loud 
 [Data](articles/d2becd9b.json)
 
 [Extended Data](ext_articles/d2becd9b.ext.json)
-
----
-
-### Uma Oya multi-purpose development project completes construction, begins hydropower generation
-
-*2024-04-16 00:59:46* · [`dailyftlk`](https://www.ft.lk/news/Uma-Oya-multi-purpose-development-project-completes-construction-begins-hydropower-generation/56-760649) · `en`
-
-The long-awaited Uma Oya Multi-Purpose Development Project has reached a significant milestone as construction wraps up and testing level operations for hydropower production commenced, Uma Oya Multipurpose Development Project Director Engineer D. C. S. Alakanda announced.
-
-He said the operations, which began around a month ago, mark a crucial step forward for the project.
-
-During the testing phase, Alakanda reported that the project has already generated electricity worth Rs. 1,000 million, contributing to the national grid.
-
-He further disclosed that commercial level operations have commenced, underscoring the project’s readiness to serve the nation.
-
-With its completion scheduled for 24 April, the Umaoya Multi-Purpose Development Project signifies a significant achievement in Sri Lanka’s infrastructure and energy landscape, promising lasting socio-economic benefits for the nation.
-
-...
-
-[Data](articles/6f05c9d6.json)
-
-[Extended Data](ext_articles/6f05c9d6.ext.json)
-
----
-
-### Iranian President to inaugurate Uma Oya Project
-
-*2024-04-16 00:59:20* · [`dailyftlk`](https://www.ft.lk/news/Iranian-President-to-inaugurate-Uma-Oya-Project/56-760648) · `en`
-
-The Uma Oya Multipurpose Development Project is poised to be officially handed over to the public on 24 April.
-
-Iranian President Ebrahim Raisi is slated to visit Sri Lanka next week, to declare open this massive project, according to State Minister of Irrigation and Water Supply Shasheendra Rajapaksa.
-
-The Uma Oya Multipurpose Development Project is poised for a grand inauguration, jointly led by Iranian President Ebrahim Raisi and President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/a6f089d5.json)
-
-[Extended Data](ext_articles/a6f089d5.ext.json)
-
----
-
-### Applications open for Parliamentary Budget Office positions
-
-*2024-04-16 00:59:09* · [`dailyftlk`](https://www.ft.lk/news/Applications-open-for-Parliamentary-Budget-Office-positions/56-760647) · `en`
-
-Invites applications from competent citizens for positions of ‘Parliamentary Budget Officer’ and ‘Deputy Parliamentary Budget Officer’
-
-Establishment of Parliamentary Budget Office aims to support legislature in fulfilling its public finance responsibilities
-
-Office to be staffed with qualified economists tasked with producing high-quality analysis and reports
-
-Intends to operate as an independent, non-partisan entity, safeguarded against any political influence
-
-The Parliament is offering an opportunity for dedicated professionals to contribute to the effective oversight and management of public finances in the country.
-
-It has invited applications from competent citizens of Sri Lanka for the positions of ‘Parliamentary Budget Officer’ and ‘Deputy Parliamentary Budget Officer’ for the Parliamentary Budget Office.
-
-...
-
-[Data](articles/29dd63c6.json)
-
-[Extended Data](ext_articles/29dd63c6.ext.json)
-
----
-
-### Public lecture on Buddhist diplomacy on 19 April
-
-*2024-04-16 00:58:56* · [`dailyftlk`](https://www.ft.lk/news/Public-lecture-on-Buddhist-diplomacy-on-19-April/56-760646) · `en`
-
-The Sri Lanka Thailand Society, as a part of its annual programme of activities, has organised a public lecture on “Buddhist diplomacy: The symbiotic relationship between Sri Lanka and Thailand”. The lecture will be held on April 19, 2024, at 6 p.m., at the OPA Centre, Stanley Wijesundara Mawatha, Colombo 7, under the honoured patronage of the Ambassador of Thailand to Sri Lanka.
-
-The Guest Speaker is Dr. George Cooke, formerly in the Diplomatic Service and subsequently at the Bandaranaike Centre of International Studies, as its Deputy Director. He has authored many publications. The attendance for this event is free of charge. However as there is only a limited number of seats available, registration will be strictly on first -come, first- served basis. Those interested are requested to register themselves via email: [email protected] or on WhatsApp at 0742415507.
-
-◼️
-
-[Data](articles/61ffdf1c.json)
-
-[Extended Data](ext_articles/61ffdf1c.ext.json)
-
----
-
-### IFC South Asia Regional Director’s visit emphasise support for SL’s development agenda
-
-*2024-04-16 00:58:27* · [`dailyftlk`](https://www.ft.lk/business/IFC-South-Asia-Regional-Director-s-visit-emphasise-support-for-SL-s-development-agenda/34-760645) · `en`
-
-Enters into partnership with CDB to foster green portfolio, fostering sustainable and inclusive growth
-
-International Finance Corporation’s Regional Director for South Asia Imad N. Fakhoury was in Sri Lanka reiterating the organisation’s dedication to support Sri Lanka’s development, climate readiness, and resilience efforts during his inaugural trip to the country.
-
-Fakhoury’s agenda included meetings with several private sector clients as well as Government dignitaries including the Minister of Power and Energy, State Minister of Finance, Advisor to the President of Sri Lanka, Governor of the Central Bank of Sri Lanka, and Secretary of Treasury, among others. His top priorities are to expand crucial private capital mobilisation and greater investment in Sri Lanka, while underscoring IFC’s commitment to support the country’s economic rebound.
-
-...
-
-[Data](articles/7b1fd4bc.json)
-
-[Extended Data](ext_articles/7b1fd4bc.ext.json)
-
----
-
-### Coca-Cola appoints Kaushali Kusumapala as first female Country Director for Sri Lanka and Maldives
-
-*2024-04-16 00:57:33* · [`dailyftlk`](https://www.ft.lk/business/Coca-Cola-appoints-Kaushali-Kusumapala-as-first-female-Country-Director-for-Sri-Lanka-and-Maldives/34-760644) · `en`
-
-Coca-Cola has announced Kaushali Kusumapala’s appointment as the new Country Director for Sri Lanka and Maldives.
-
-Making history as the first Sri Lankan woman in this position, Kaushali succeeds former Country Director, Pankaj Sinha, who assumed the role in 2019. In this position, Kaushali will closely collaborate with bottling teams, customers, partners, consumers and external stakeholders in Sri Lanka and Maldives.
-
-With a career spanning back to 2009, Kaushali has garnered diverse experience having worked with organisations and brands such as Leo Burnett, Fonterra Dairy and Domino’s Pizza. Notably, her journey to leadership includes significant achievements at Hemas International, where she served as Director of Marketing, contributing to market entry strategies, international market development and pioneering marketing initiatives.
-
-...
-
-[Data](articles/13a188dc.json)
-
-[Extended Data](ext_articles/13a188dc.ext.json)
-
----
-
-### Alert on lightning impacts
-
-*2024-04-16 00:56:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கங்கள்-தொடர்பில்-எச்சரிக்கை/175-335976) · `ta`
-
-The Department of Meteorology warns of heavy lightning strikes in rainfall, affecting Western, Sabaragamuwa, and North Western Provinces and Galle, Matara, and Kandy districts. It advises caution during the rainy season.
-
-🟩
-
-The Department of Meteorology has warned that the heavy lightning strikes occur in the rainfall.
-
-Thundershowers will occur in the Western, Sabaragamuwa and North Western Provinces and Galle, Matara and Kandy districts, the department said.
-
-The Department of Meteorology has advised the people that there is a risk of lightning during the rainy season and to be careful in this regard.. (A)
-
-◼️
-
-[Data](articles/cc4f40a6.json)
-
-[Extended Data](ext_articles/cc4f40a6.ext.json)
 
 ---

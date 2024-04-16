@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 20:18:22**
+As of **2024-04-16 20:33:56**
 
 ## Newspaper Stats
 
-*Scraped **19,179** Articles*
+*Scraped **19,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,71 @@ economynextcom | 1,072
 adalk | 1,598
 tamilmirrorlk | 2,239
 adaderanalk | 2,309
-virakesarilk | 2,866
+virakesarilk | 2,867
 dailymirrorlk | 2,956
-adaderanasinhalalk | 3,124
+adaderanasinhalalk | 3,126
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,176 (100.0%) of 19,179 articles have been extended.
+19,179 (100.0%) of 19,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### ඒ. ටී. ආරියරත්න අභාවප්‍රාප්ත වෙයි
+
+*2024-04-16 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195698) · `si`
+
+සර්වෝදය ව්‍යාපාරයේ නිර්මාතෘ ආචාර්ය ඒ. ටී. ආරියරත්න මහතා අද (16) පස්වරුවේ අභාවප්‍රාප්ත වී තිබේ.
+
+◼️
+
+[Data](articles/e0d451bd.json)
+
+---
+
+### வெடுக்குநாறிமலை அட்டூழியம்! மனித உரிமைகள் ஆணைக்குழு விசாரணை!’
+
+*2024-04-16 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/181259) · `ta`
+
+கடந்த சிவராத்திரி தினத்தில் வெடுக்குநாறிமலையில் இடம்பெற்ற அட்டூழியங்கள் தொடர்பாக வவுனியா பிராந்திய மனித உரிமைகள் ஆணைக்குழு செவ்வாய்க்கிழமை (17) விசாரணைகளை முன்னெடுத்தது.
+
+குறித்த விசாரணையில் தொல்பொருள் திணைக்களத்தின் அதிகாரிகள், மற்றும் ஆலயத்தின் செயலாளர், பொலிசாரால் கைதுசெய்யப்பட்ட இளைஞர்கள் அழைக்கப்பட்டிருந்தனர்.
+
+நாங்கள் தொல்லியல் இடங்களை சேதப்படுத்தியதாக தொல்பொருள் திணைக்களத்தினர் சில ஆவணங்களை வழங்கியிருந்தனர்.குறிப்பாக மலை உச்சியில் தீ மூட்டியதாக ஒரு விடயத்தை முன்வைத்திருந்தனர். அதனாலேயே கைதுகள் இடம்பெற்றதாக தெரிவித்தனர்.
+
+நாங்கள் அதனை எரித்தமைக்கான எந்த ஆதாரங்களும் சமர்ப்பிக்கபடவில்லை. அத்துடன் அவர்களது கருத்துக்களில் முரன்பாடுகள் காணப்பட்டது.
+
+அத்துடன் தீமூட்டியதாக இவர்கள் காட்டிய புகைப்படமானது முதல்நாள்இரவில் அங்கு காவல் கடமைகளில் இருந்த நெடுங்கேணி பொலிசார் கொழுத்தியதற்கான சான்றுகளை நாம் வெளிப்படுத்தியிருந்தோம். அந்த புகைப்படத்தினையே இன்றையதினம் அவர்கள் இங்கு சமர்பித்திருந்தார்கள். இது முற்றிலும் பொய்யானது. இதனை நாம் சுட்டிக்காட்டினோம். என்றார்.
+
+...
+
+[Data](articles/268a2b5d.json)
+
+---
+
+### ඩොලර් බැඳුම්කර ප්‍රතිව්‍යුහගතකරණ සාකච්ඡා එකඟතාවයකින් තොරව අවසන්
+
+*2024-04-16 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195697) · `si`
+
+මෙරට ජාත්‍යන්තර ස්වෛරීත්ව බැඳුම්කර ප්‍රතිව්‍යුහගතකරණය සම්බන්ධයෙන් සාකච්ඡා එකඟතාවකින් තොරව අවසන් වී ඇති බව රජය අද (16) නිල වශයෙන් නිවේදනය කළේය.
+
+කෙසේවෙතත්, දෙපාර්ශ්වයටම එකඟතාවයකට පැමිණිය හැකි පොදු පදනමක් ඇති කරගැනීමට ඉදිරි සති කිහිපය තුළ කටයුතු කිරීම ශ්‍රී ලංකාවේ අභිලාෂය බව මුදල් අමාත්‍යාංශය පවසයි.
+
+ණය ප්‍රතිව්‍යුහගතකරණය සම්බන්ධයෙන් ජාත්‍යන්තර බැඳුම්කරහිමියන් සමඟ පැවති සාකච්ඡාවල ප්‍රගතිය පිළිබඳ﻿ දැනුවත් කරමින් ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක හා ජනාධිපති කාර්යමණ්ඩල ප්‍රධානි සාගල රත්නායක මහතා ඊයේ පැවසුවේ, පසුගිය මාර්තු මස අවසානයේ දී ලන්ඩන් නුවර පැවති සාකච්ඡාවලදී කරුණු 4ක් සම්බන්ධයෙන් ගැටලුකාරීත්වයක් පැන නැඟුණු බවය.
+
+කෙසේවෙතත් ඉන් කරුණු දෙකක් සම්බන්ධයෙන් එකඟතාවයකට පැමිණි බවත් සාකච්ඡා තවදුරටත් පැවැත්වෙන බවත් සාගල රත්නායක මහතා ප්‍රකාශ කළේය.
+
+මේ අතර මුදල්, ආර්ථික ස්ථායිකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යාංශය අද නිවේදනය කළේ, ශ්‍රී ලංකාව විසින් පියවිය යුතු මෙරට ජාත්‍යන්තර ස්වෛරීත්ව බැඳුම්කර සම්බන්ධයෙන් එම බැඳුම්කරහිමියන්ගේ නියෝජිත කමිටුව සමග පසුගිය සති තුන මුළුල්ලේ පැවැත්වූ මූලික වටයේ සාකච්ඡා අවසන් කළ බවය.
+
+...
+
+[Data](articles/f2b9d311.json)
+
+---
 
 ### Palitha Devapperuma dies after electricity!
 
@@ -69,6 +121,8 @@ Through his tireless efforts, he mobilized individuals and communities to partic
 ◼️
 
 [Data](articles/1ada059b.json)
+
+[Extended Data](ext_articles/1ada059b.ext.json)
 
 ---
 
@@ -224,19 +278,27 @@ Postalitha Thevarapperuma is a former United National Party (UNP) Member of Parl
 
 ---
 
-### ගෑස් මිලට ගැනීමේදී වැඩි මිල ටෙන්ඩරය ගැනීමෙන් රජයට කෝටි 114ක පාඩුවක් වීම ගැන විමර්ශනය අරඹයි
+### Purchase of gas begins investigation into loss of Rs.114 million
 
 *2024-04-16 18:33:49* · [`adalk`](https://www.ada.lk/breaking_news/ගෑස්-මිලට-ගැනීමේදී-වැඩි-මිල-ටෙන්ඩරය-ගැනීමෙන්-රජයට-කෝටි-114ක-පාඩුවක්-වීම-ගැන-විමර්ශනය-අරඹයි/11-409109) · `si`
 
-අඩු මුදලකට ගෑස් සැපයීමට ඉදිරිපත් කර තිබු ටෙන්ඩරය අවලංගු කර වැඩි මිලට ගෑස් මිලදී ගැනීමෙන් රජයට රුපියල් කෝටි 114කට ආසන්න පාඩුවක් කිරීමේ සිද්ධිය සම්බන්ධයෙන් අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිසම විමර්ශනයක් ආරම්භ කර ඇත.
+The Bribery or Corruption Commission has started an investigation into a government tender loss of Rs.114 million, involving the Citizenship Corruption Organization. Chairman Carring Thushara initiated the probe. The tender was for supplying gas at a lower price than the market rate, leading to a loss. The tender was for 147.83 metric tons of gas, with a price difference of $118.23 per ton.
 
-අඩු මිලට ගෑස් සැපයීමට සියෑම් ගෑස් ටේ්‍රඩින් සමාගම ඉදිරිපත් කළ ටෙන්ඩරයට ප්‍රසම්පාදන හා ඇගයීමේ කමිටුවල අනුමැති හිමිව තිබියදී එම ටෙන්ඩරය අවලංගු කර වැඩි මිලට ඕමාන් ටේ්‍රඩින් සමාගමෙන් ගෑස් මිලදී ගැනීමෙන් දුෂණය නමැති වරද කර ඇතැයි පවසමින් ඒ සම්බන්ධයෙනන් විමර්ශනයක් කරන්නැයි ඉල්ලමින් ‘අල්ලස දූෂණය හා නාස්තියට එරෙහි පුරවැසි බළය සංවිධානය සහ සිවිල් සංවිධාන එකතුමුතුව’ සංවිධානයේ සභාපති කාමන්ත තුෂාර මහතා කළ පැමිණීල්ලකට අනුව අල්ලස් කොමිසම මෙම විමර්ශනය ආරම්භ කර ඇත.
+🟩
 
-අල්ලස් කොමිසමේ දුෂණ විමර්ශන අංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්‍ෂක එම්.ඊ. අබේසිංහ මහතා කළ කැඳවීමකට අනුව අල්ලස් කොමිසමේ පෙනී සිටි කාමන්ත තුෂාර මහතා රජයට රුපියල් කෝටි 114කට ආසන්න පාඩුවක් කිරීමේ සිද්ධියට අදාළ විශේෂ විගණන වාර්තාද අල්ලස් කොමිසමට ඉදිරිපත් කරමින් සිද්ධිය සම්බන්ධයෙන් සවිස්තරාත්මක ප්‍රකාශයක් දුන්නේය.
+Bribery or Corruption Commission has commenced an investigation into the Government to a loss of approximately Rs.
+
+Citizenship Corruption Organization (Citizens) to be able to investigate the tender to supply the tender to the prices of the prices of the prices of the tender to supply the tender to the low price of the prices and the citizenship arrangement of the citizenship of the citizenshipAnd according to a complaint with a complaint with Mr. Carring Thushara, Chairman of the Organization, Chairman of the Organization, has commenced this investigation.
+
+අල්ලස් කොමිසමේ දුෂණ විමර්ශන අංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්‍ෂක එම්.ඊ. According to a calling of Mr. Abeysinghe, he also appeared at the Bribery Commission to a loss of approximately Rs.
+
+Carring Thushara has pointed to the Commission that the Cabinet has been able to cancel the tender to supply gas to a less than 2022 months of purchasing Rs.
 
 ...
 
 [Data](articles/61c97564.json)
+
+[Extended Data](ext_articles/61c97564.ext.json)
 
 ---
 
@@ -897,6 +959,8 @@ Ambassador of Thailand to Kenya Ms. Morakot Janemathukorn, paid a visit to Kenya
 ◼️
 
 [Data](articles/7f6435f5.json)
+
+[Extended Data](ext_articles/7f6435f5.ext.json)
 
 ---
 
@@ -2257,75 +2321,5 @@ The Services PMI was 67 percent, a notable 14 points up from 53 points in Februa
 [Data](articles/fc8a30b5.json)
 
 [Extended Data](ext_articles/fc8a30b5.ext.json)
-
----
-
-### FBI opens criminal probe into deadly Baltimore bridge collapse
-
-*2024-04-16 11:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/FBI-opens-criminal-probe-into-deadly-Baltimore-bridge-collapse/108-280755) · `en`
-
-Baltimore, April 16 (RNZ) - The FBI has opened a federal criminal investigation into the deadly collapse of a Baltimore bridge last month when a ship crashed into one of its supports, the bureau said on Monday.
-
-FBI agents had boarded the cargo ship Dali to conduct court-authorized law enforcement activity regarding the crash, a spokesperson told Reuters.
-
-There is no other public information available, and the FBI will have no further comment, the spokesperson said.
-
-In the early morning of March 26, the massive container ship lost power and crashed into a support pylon, sending the Francis Scott Key Bridge collapsing into the Patapsco River and killing six people who were working on the span at the time of the crash.
-
-The investigation into the collapse will focus in part on whether the crew of the cargo vessel Dali left the port knowing the freighter had serious problems with its systems, the Washington Post reported on Monday.
-
-...
-
-[Data](articles/58339889.json)
-
-[Extended Data](ext_articles/58339889.ext.json)
-
----
-
-### 700 roundabouts nationwide targeting the New Year!
-
-*2024-04-16 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181202) · `ta`
-
-The Consumer Affairs Authority (CAA) conducted 700 roundabouts nationwide for the New Year, targeting law violations. Director Sanjay Rasinghe warned of legal action against those caught, emphasizing consumer awareness in purchasing goods.
-
-🟩
-
-The Consumer Affairs Authority (CAA) has said that 700 rounds have been carried out across the country, targeting the New Year.
-
-Sanjay Rasinghe, Director of the Special Investigation Division, said that the trials of the Authority and the Special Investigation Division said that they will file a case against the persons who were trapped under the law during these tests.
-
-He made it clear during the testing of some of the things that consumers need to look at when buying goods.
-
-◼️
-
-[Data](articles/c3566bfb.json)
-
-[Extended Data](ext_articles/c3566bfb.ext.json)
-
----
-
-### The political country that identifies Tamils as terrorists
-
-*2024-04-16 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181198) · `ta`
-
-Activist Aruttandanda Ma Sakthivel criticizes a country for labeling Tamils as terrorists, highlighting state terrorism and threats to freedom of expression.
-
-🟩
-
-Aruttandanda Ma Sakthivel, an activist for social justice and the liberation of political prisoners, said that the future of the political country, which is continuing to identify the Tamils as terrorists.
-
-This was stated in a media statement issued today (16).
-
-The recent investigation by the Terrorist Prevention Unit of the Terrorism Unit is that state terrorism continues to see all Tamils except those who have acted as chauvinism on the Tamil side.
-
-Asked if the book was called for the reason for the launch of a book launch, the investigation of the LTTE's regeneration of the LTTE is not only a threat but a fundamental rights violation against the freedom of the Tamil homeland's literaryists and writers.
-
-Such a threat is condemned by the psychological attack and the literaryists and writers should take the writing of democracy in the hands of democracy and express their opposition.
-
-...
-
-[Data](articles/7c58f9bd.json)
-
-[Extended Data](ext_articles/7c58f9bd.ext.json)
 
 ---

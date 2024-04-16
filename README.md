@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 21:18:19**
+As of **2024-04-16 21:34:10**
 
 ## Newspaper Stats
 
-*Scraped **19,189** Articles*
+*Scraped **19,191** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,029
 dailyftlk | 1,040
 economynextcom | 1,072
-adalk | 1,599
+adalk | 1,600
 tamilmirrorlk | 2,239
 adaderanalk | 2,310
-virakesarilk | 2,867
+virakesarilk | 2,868
 dailymirrorlk | 2,959
 adaderanasinhalalk | 3,128
 
@@ -26,21 +26,41 @@ adaderanasinhalalk | 3,128
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,187 (100.0%) of 19,189 articles have been extended.
+19,189 (100.0%) of 19,191 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### කොත්තු රොටියට රු 1900ක් ඉල්ලූ කෑම කඩේ මුදලාලි අත්අඩංගුවට
+### Kadi Kadalai arrested for demanding Rs.
 
 *2024-04-16 21:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195700) · `si`
 
-කොළඹ Street Food අලෙවි සැලකදී රුපියල් 1,900කට කොත්තු රොටියක් අලෙවි කිරීම සහ එය ප්‍රතික්ෂේප කිරීමේදී විදේශිකයෙකුට අඩත්තේට්ටම් කිරීමේ සිද්ධිය සම්බන්ධයෙක් පුද්ගලයෙකුව අත්අඩංගුවට ගෙන තිබේ.
+Kadi Kadalai arrested for Rs. 1,900 demand in Colombo's Street Food Marketing.
+
+🟩
+
+A person has been arrested in connection with Street Food Marketing, Colombo for Rs 1,900.
 
 ◼️
 
 [Data](articles/f17bbcc5.json)
+
+[Extended Data](ext_articles/f17bbcc5.ext.json)
+
+---
+
+### சர்வோதய இயக்க ஸ்தாபகர் ஆரியரத்ன காலமானார்!
+
+*2024-04-16 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181260) · `ta`
+
+சர்வோதய இயக்கத்தின் ஸ்தாபகரான கலாநிதி ஏ.டி.ஆரியரத்ன செவ்வாய்க்கிழமை (16) மாலை கொழும்பில் உள்ள தனியார் வைத்தியசாலையில் காலமானார். இறக்கும் போது அவருக்கு வயது 92.
+
+1931 ஆம் ஆண்டு நவம்பர் மாதம் 5 ஆம் திகதி காலி மாவட்டத்தின் உனவடுன பிரதேசத்தில் பிறந்த ஆரியரத்ன இலங்கை அரசியலிலும் சமூக அபிவிருத்தியிலும் தொடர்ச்சியான செயற்பாட்டாளராக அறியப்பட்டவர்.
+
+◼️
+
+[Data](articles/8743c2ca.json)
 
 ---
 
@@ -55,6 +75,8 @@ A video that had gone viral on social media showed the vendor demanding Rs. 1,90
 ◼️
 
 [Data](articles/abd89548.json)
+
+[Extended Data](ext_articles/abd89548.ext.json)
 
 ---
 
@@ -409,6 +431,22 @@ Postalitha Thevarapperuma is a former United National Party (UNP) Member of Parl
 [Data](articles/741cd929.json)
 
 [Extended Data](ext_articles/741cd929.ext.json)
+
+---
+
+### වේදිකාවට දුම්රිය ගෙනා රියදුරුගේ වැඩ තහනම්
+
+*2024-04-16 18:46:40* · [`adalk`](https://www.ada.lk/breaking_news/වේදිකාවට-දුම්රිය-ගෙනා-රියදුරුගේ-වැඩ-තහනම්/11-409110) · `si`
+
+හලාවත බලා ධාවනය කිරීමට සූදානම්ව තිබියදී කොළඹ කොටුව දුම්රිය ස්ථානයේ පළමු වේදිකාවේ ගැටුණු දුම්රියේ රියදුරුගේ සේවය තාවකාලිකව අත්හිටුවූ බව දුම්රිය නියෝජ්‍ය සාමාන්‍යාධිකාරී (ගමනාගමන) එන්.ජේ. ඉඳිපොළගේ මහතා 'අද' පුවත්පතට  පැවැසීය.
+
+දුම්රිය සාමාන්‍යාධිකාරිවරයාගේ උපදෙස් මත මෙම අත්හිටුවීම සිදු කර ඇති අතර, අදාළ සිද්ධිය පිළිබඳව පරීක්‍ෂණයක් ආරම්භ කළ බවද හෙතෙම සඳහන් කළේය.
+
+එම පරීක්ෂණය දිස්ත්‍රික් පරීක්ෂණ නිලධාරීන් දෙදෙනෙකු විසින් සිදු කරන අතර, මෙම සතිය අවසන් වීමට පෙර එම වාර්තාව ලබා දෙන ලෙස දුම්රිය සාමාන්‍යාධිකාරිවරයා උපදෙස් ලබා දී තිබේ.
+
+◼️
+
+[Data](articles/e75745cc.json)
 
 ---
 
@@ -2265,47 +2303,5 @@ In this case, the woman and the mother of the girl have been admitted to the Jaf
 [Data](articles/a630716e.json)
 
 [Extended Data](ext_articles/a630716e.ext.json)
-
----
-
-### Lightning strike
-
-*2024-04-16 11:29:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கி-ஒருவர்-உயிரிழப்பு/175-335986) · `ta`
-
-A 65-year-old man, Kekalana from Kottiagala, was killed by lightning yesterday afternoon.
-
-🟩
-
-The man who was working in the field was killed by lightning, police said.
-
-The incident took place yesterday afternoon and the deceased is 65 -year -old Kekalana, a native of Kottiagala.
-
-◼️
-
-[Data](articles/a2f1f9db.json)
-
-[Extended Data](ext_articles/a2f1f9db.ext.json)
-
----
-
-### The world's delicious pineapple to be cultivated in Sri Lanka
-
-*2024-04-16 11:26:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-பயிரிடப்படவுள்ள-உலகின்-சுவையான-அன்னாசி/175-335985) · `ta`
-
-Mahinda Amaraweera recommends cultivating MD 2 or Super Sweet Pineapple in Sri Lanka, despite its high market value.
-
-🟩
-
-Agriculture and Plantation Industries Minister Mahinda Amaraweera has advised the Department of Agriculture to recommend the cultivation of Pineapple in Sri Lanka, MD 2 or Super Sweet Pine Apple, one of the world's most popular pineapple.
-
-Although this pineapple type is high in the world market, it has not yet been taken to cultivate that pineapple in Sri Lanka.
-
-In this case, the examination of the pineapple in Sri Lanka has been successful, he said.
-
-◼️
-
-[Data](articles/0e1a334d.json)
-
-[Extended Data](ext_articles/0e1a334d.ext.json)
 
 ---

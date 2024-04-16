@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 12:51:53**
+As of **2024-04-16 13:04:14**
 
 ## Newspaper Stats
 
-*Scraped **19,100** Articles*
+*Scraped **19,102** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,040
 economynextcom | 1,072
 adalk | 1,588
 tamilmirrorlk | 2,231
-adaderanalk | 2,298
+adaderanalk | 2,300
 virakesarilk | 2,848
 dailymirrorlk | 2,940
 adaderanasinhalalk | 3,111
@@ -26,11 +26,53 @@ adaderanasinhalalk | 3,111
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,096 (100.0%) of 19,100 articles have been extended.
+19,100 (100.0%) of 19,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### 52-year-old man hacked to death while sleeping
+
+*2024-04-16 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98661/52-year-old-man-hacked-to-death-while-sleeping) · `en`
+
+A 52-year-old man was hacked to death with a sharp weapon in Borupana, Rathmalana early this morning (16).
+
+According to the police report, two assailants had killed the man while he was sleeping inside his bedroom.
+
+Mount Lavinia police have launched an investigation to hunt down the perpetrators who are yet to be identified. The motive behind the murder was not immediately clear.
+
+The post-mortem is slated to be performed following the completion of the magistrate’s inquest into the death.
+
+◼️
+
+[Data](articles/dc620e6e.json)
+
+---
+
+### Sydney church stabbing declared a ‘terrorist’ attack; 16-year-old under arrest
+
+*2024-04-16 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98660/sydney-church-stabbing-declared-a-terrorist-attack-16-year-old-under-arrest) · `en`
+
+Australian police have declared Monday’s stabbing at a Sydney church a religiously motivated “terrorist act”.
+
+A 16-year-old boy was arrested after a bishop, a priest and churchgoers were attacked during mass at the Assyrian Christ The Good Shepherd Church.
+
+At least four people suffered “non-life-threatening” injuries, police say. The attacker was also hurt.
+
+The incident was captured on a church livestream and quickly triggered unrest in the suburb of Wakeley.
+
+Australian police define terror offences as being ideologically motivated. Investigations are still under way, but they say they are satisfied this is a case of religious extremism.
+
+Authorities have repeatedly declined to state the religion of the alleged attacker.
+
+Graphic videos of the attack - and the aftermath - spread like wildfire on social media on Monday night, drawing an angry crowd to the Assyrian Orthodox Church, which is about 35km south-west of the city centre.
+
+...
+
+[Data](articles/8441b032.json)
+
+---
 
 ### Sri Lanka cannot to be pushed into global conflict: SJB MP
 
@@ -47,6 +89,8 @@ SJB MP Harshana Rajakaruna came out with this remark when asked about his party�
 ◼️
 
 [Data](articles/1aad96ec.json)
+
+[Extended Data](ext_articles/1aad96ec.ext.json)
 
 ---
 
@@ -66,6 +110,8 @@ The Minister said Okamura emphasised the need to preserve the hard-earned gains 
 
 [Data](articles/36a34d6b.json)
 
+[Extended Data](ext_articles/36a34d6b.ext.json)
+
 ---
 
 ### Guidance on MD 2 pineapple cultivation in Sri Lanka
@@ -83,6 +129,8 @@ Under the recommendations of the Crop Release Committee, the Minister advised th
 ...
 
 [Data](articles/8ee75dd1.json)
+
+[Extended Data](ext_articles/8ee75dd1.ext.json)
 
 ---
 
@@ -998,17 +1046,23 @@ As a result, trains scheduled to depart from Colombo Fort to Moratuwa, Ambepussa
 
 ---
 
-### කාර්යාල දුම්රිය ගමන් වාර 11ක් අවලංගුයි
+### 11 office train services canceled
 
 *2024-04-16 09:42:56* · [`adalk`](https://www.ada.lk/breaking_news/කාර්යාල-දුම්රිය-ගමන්-වාර-11ක්-අවලංගුයි/11-409097) · `si`
 
-රියදුරන් සහ නියාමකවරුන් සේවයට වාර්තා නොකිරීම හේතුවෙන් අද උදෑසන කාර්යාල දුම්රිය ගමන්වාර 11ක් අවලංගු කිරීමට සිදුවූ  බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+11 office train services canceled due to non-reporting of drivers and regulators. Affected lines include Colombo Fort, Panadura, Panaduwa, Negombo, Ambepussa, and Ragama.
 
-කොළඹ කොටුව සිට මොරටුව, පානදුර, වාද්දුව, මීගමුව, අඹේපුස්ස, පාදුක්ක සහ රාගම දක්වා සහ එම දුම්රිය ස්‌ථානවල සිට නැවත කොටුව දුම්රිය ස්ථාන වෙත පැමිණීමට නියමිත දුම්රිය ගමන්වාර මෙලෙස අවලංගු වී තිබේ.
+🟩
+
+The Railway Department says that 11 in office train services had to be canceled this morning due to non-reporting of drivers and regulators.
+
+Railway lines have been canceled from Colombo Fort from Colombo, Panadura, Panaduwa, Negombo, Ambepussa and Ragama and the railway stations.
 
 ◼️
 
 [Data](articles/91bc480d.json)
+
+[Extended Data](ext_articles/91bc480d.ext.json)
 
 ---
 
@@ -2173,45 +2227,5 @@ Travellers arriving at the Makumbura Multimodal Centre (MMC) can now get a relia
 [Data](articles/79b09261.json)
 
 [Extended Data](ext_articles/79b09261.ext.json)
-
----
-
-### Adani Green’s Khavda power plant world’s largest, 5 times the size of Paris
-
-*2024-04-15 23:25:15* · [`dailyftlk`](https://www.ft.lk/business/Adani-Green-s-Khavda-power-plant-world-s-largest-5-times-the-size-of-Paris/34-760628) · `en`
-
-A narrow airstrip that doesn’t even have an air traffic controller to guide incoming airplanes and whose only infrastructure is a portable toilet and a make-shift office in a container in the midst of miles of barren land bordering Pakistan is an unlikely gateway to the world’s largest renewable energy park.
-
-The airstrip was even smaller in December 2022, when Adani Group Head Gautam Adani, who was then the second richest person in the world, first used a small aircraft to reach the barren area that didn’t even have a pin code and got its name from a village 80-kilometers away.
-
-The land hardly had any vegetation due to its highly saline soil, leave alone any habitation. But Gautam Adani and his executives saw the potential that the area had.
-
-An 18-km drive from the airstrip through dusty arid land is the site for his group’s Khavda renewable energy park spread over 538 square kilometres (roughly five times the size of Paris).
-
-...
-
-[Data](articles/cde65b8d.json)
-
-[Extended Data](ext_articles/cde65b8d.ext.json)
-
----
-
-### International Coaching Week to feature 20 global experts
-
-*2024-04-15 23:24:49* · [`dailyftlk`](https://www.ft.lk/business/International-Coaching-Week-to-feature-20-global-experts/34-760627) · `en`
-
-International Coaching Week is a free week-long virtual event for both aspiring and established coaches, hosted by The International Authority for Professional Coaching and Mentoring (IAPC&M).
-
-It will be from 13 to 17 May 2024. And anyone can join using the link https://coach-accreditation.services/icw-event/
-
-It’s no secret, the coaching industry is well and truly on the rise, but did you know it’s the second fastest industry in the US behind IT? This means more people than ever need coaches! However, the coaching world is an unregulated market.
-
-Luckily, The International Authority for Professional Coaching and Mentoring (IAPC&M) is stepping up as a true leading expert. One of the reasons IAPC&M was founded in the first place is that as more and more people become coaches and mentors, standards are slipping in the industry. They are here to raise the standards in the industry!
-
-...
-
-[Data](articles/b41a303a.json)
-
-[Extended Data](ext_articles/b41a303a.ext.json)
 
 ---

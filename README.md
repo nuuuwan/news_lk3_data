@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 09:03:21**
+As of **2024-04-16 09:18:18**
 
 ## Newspaper Stats
 
-*Scraped **19,039** Articles*
+*Scraped **19,040** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,56 @@ adalk | 1,584
 tamilmirrorlk | 2,223
 adaderanalk | 2,293
 virakesarilk | 2,831
-dailymirrorlk | 2,930
+dailymirrorlk | 2,931
 adaderanasinhalalk | 3,102
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,030 (100.0%) of 19,039 articles have been extended.
+19,039 (100.0%) of 19,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### மின்னல் தாக்கியதில் ஒருவர் உயிரிழப்பு!
+### State Minister Chamara Sampath’s vehicle catches fire
+
+*2024-04-16 08:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/State-Minister-Chamara-Sampaths-vehicle-catches-fire/108-280739) · `en`
+
+Colombo, April 16 (Daily Mirror) - The official vehicle of Primary Industries State Minister Chamara Sampath Dassanayake caught fire this morning in the Halpe area, as reported by the Ella police.
+
+They said the vehicle caught fire due to a technical failure.
+
+The incident occurred at around 1 a.m. this morning while the State Minister was travelling from Mahiyangana to Ella.
+
+Neither the state minister nor the driver sustained any injuries.
+
+The Fire Department of the Bandarawela Municipal Council, along with the Ella Police and local residents extinguished the fire.
+
+◼️
+
+[Data](articles/bef309a7.json)
+
+---
+
+### Lightning strikes one
 
 *2024-04-16 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181188) · `ta`
 
-வயலில்  வேலை செய்து கொண்டிருந்த ஒருவரே இவ்வாறு  மின்னல் தாக்கி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A 65-year-old man from Kekalena, Kottiyagala, was killed by lightning on Monday.
 
-இந்தச் சம்பவமானது நேற்று திங்கட்கிழமை (15) இடம்பெற்றுள்ளதோடு, உயிரிழந்தவர் கெகெலான, கொட்டியாகலை பிரதேசத்தைச் சேர்ந்த 65  வயதுடையவராவார்.
+🟩
+
+The man who was working in the field was killed by lightning, police said.
+
+The incident took place on Monday (15) and the deceased is the 65 -year -old from Kekalena, Kottiyagala.
 
 ◼️
 
 [Data](articles/ad34cefc.json)
+
+[Extended Data](ext_articles/ad34cefc.ext.json)
 
 ---
 
@@ -85,6 +111,8 @@ Asked whether it was the local dealer or foreign dealers (bondholders) who disag
 ...
 
 [Data](articles/d5fc3165.json)
+
+[Extended Data](ext_articles/d5fc3165.ext.json)
 
 ---
 
@@ -234,6 +262,8 @@ Several MPs from both political factions have highlighted to parliamentary leade
 
 [Data](articles/26f2132d.json)
 
+[Extended Data](ext_articles/26f2132d.ext.json)
+
 ---
 
 ### Showers in several areas this afternoon
@@ -278,6 +308,8 @@ Sri Lanka’s celebrity chocolatier, chef and agriculture enthusiast Gerard Mend
 
 [Data](articles/c97f108f.json)
 
+[Extended Data](ext_articles/c97f108f.ext.json)
+
 ---
 
 ### Central Bank’s March dollar purchases hit record high
@@ -295,6 +327,8 @@ The Central Bank later last month said it would intervene in the foreign currenc
 ...
 
 [Data](articles/86358c00.json)
+
+[Extended Data](ext_articles/86358c00.ext.json)
 
 ---
 
@@ -324,17 +358,23 @@ Even if the federation is currently in action, its membership parties are still 
 
 ---
 
-### வெங்காய ஏற்றுமதி தடையை நீக்கியது இந்தியா
+### India lifted onion export barrier
 
 *2024-04-16 01:34:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெங்காய-ஏற்றுமதி-தடையை-நீக்கியது-இந்தியா/175-335978) · `ta`
 
-அத்துடன், 10 ஆயிரம் மெட்ரிக் தொன் வெங்காயத்தை இந்தியா இலங்கைக்கு ஏற்றுமதி செய்துள்ளது.
+India removed onion export barrier, exported 10,000 metric tons to Sri Lanka, marking a significant step in trade relations.
 
-இந்த வெங்காய ஏற்றுமதியுடன், இலங்கைக்கான வெங்காயம் மீதான ஏற்றுமதி தடை நீக்கப்பட்டுள்ளதாக கொழும்பில் உள்ள இந்திய உயர்ஸ்தானிகராலயம் தெரிவித்துள்ளது.  (a)
+🟩
+
+In addition, India has exported 10 thousand metric tons of onions to Sri Lanka.
+
+The Indian High Commission in Colombo has said that with this export of onion exports to Sri Lanka.(a)
 
 ◼️
 
 [Data](articles/d8ac1807.json)
+
+[Extended Data](ext_articles/d8ac1807.ext.json)
 
 ---
 
@@ -707,6 +747,8 @@ The ADB asserted that this programme could be further strengthened with increase
 ...
 
 [Data](articles/e50428af.json)
+
+[Extended Data](ext_articles/e50428af.ext.json)
 
 ---
 
@@ -1544,21 +1586,27 @@ Several BIMSTEC countries have bilateral trade agreements, such as Sri Lanka and
 
 ---
 
-### කුරුණෑගලින් කෝවිඩ් මරණයක්
+### Cumod died in Kurunegala
 
 *2024-04-15 18:02:53* · [`adalk`](https://www.ada.lk/breaking_news/කුරුණෑගලින්-කෝවිඩ්-මරණයක්/11-409093) · `si`
 
-දිගු කලකට පසුව කුරුණෑගල ශික්ෂණ රෝහලෙන් කොවිඩ් ආසාදිත මරණයක් වාර්තා වේ.කුරුණෑගල ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මරණයට පත් කාන්තාවක් සම්බන්ධයෙන් ඇතිවූ සැකයක් මත කරන ලද පීසීආර්  පරික්ෂාවකදී එම මරණයට හේතුව කොවිඩ් වෛරසය ආසාදනය වීම බව අනාවරණය වී ඇත.
+Cumod died in Kurunegala, sparking a Covid-19 outbreak at the hospital. Patients and staff were quarantined, and the health sector faced criticism for handling the situation.
 
-මේ හේතුවෙන් එම රෝගියා බාහිර පරිසරයට නිරාවරණයවූ ප්‍රතිකාර ලැබූ වාට්ටුවේ රෝගීන් සහ කාර්ය මණ්ඩලය නිරෝධායනයට ලක් කිරීමට රෝහල් බලධාරීන් පියවර ගෙන තිබේ.
+🟩
 
-කොවිඩ් වසංගත තත්ත්වය ජනතාව මෙන්ම ජනතාවද නොසලකා හැර තිබෙන අවස්ථාවක මෙය නැවත අවධානයට ලක් විය යුතු බරපතළ කරුණක් වන බවද රෝහල් ආරංචි මාර්ග සඳහන් කළේය.
+A long time later, the Covid infected at Kurunegala Teaching Hospital was reported to be infected with a doubt on suspicion of a suspect in the Kurunegala Teaching Hospital.
 
-මේ වනවිට කොවිඩ් වසංගත තත්ත්වය සාමාන්‍ය මට්ටමෙන් සලකා මරණයට පත් වන රෝගීන්ගේ මෘත දේහ ආදාහනයකට ලක් නොකර පවුලේ ඥාතීන් වෙත බාර දීම සෞඛ්‍ය අංශ මගින් සිදුවේ.
+As a result, the patient had taken steps to quarantine patients and staff of the patient who were exposed to the external environment.
+
+Hospital sources said that when the Covid Epidemics, the people, as well as the people, is a serious matter.
+
+Health sector will be handed over to family relatives without considering the covor epidemic and the dead body bodies of patients who die.
 
 ◼️
 
 [Data](articles/b9c2a4f4.json)
+
+[Extended Data](ext_articles/b9c2a4f4.ext.json)
 
 ---
 
@@ -2175,29 +2223,5 @@ The Department of Meteorology urges the public to take necessary steps to reduce
 [Data](articles/3c1854ca.json)
 
 [Extended Data](ext_articles/3c1854ca.ext.json)
-
----
-
-### Train attempted to come up the first platform
-
-*2024-04-15 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195652) · `si`
-
-A train heading to Chilaw faced a risk at Fort Railway Station. The mishap happened on the first platform. No crashes were reported, but a train part was damaged by the train's movement and the platform. The Railway Department is investigating the incident.
-
-🟩
-
-A train that was to travel to Chilaw was in danger at the Fort Railway Station.
-
-The accident had occurred when he traveled to the first stage.
-
-No crashes were damaged and a part of the train was damaged by the flow of train and the stage.
-
-The Railway Department has launched a test at the Railway Department regarding the incident.
-
-◼️
-
-[Data](articles/66e4d1b5.json)
-
-[Extended Data](ext_articles/66e4d1b5.ext.json)
 
 ---

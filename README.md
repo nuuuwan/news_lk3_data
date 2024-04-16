@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 22:18:34**
+As of **2024-04-16 22:33:53**
 
 ## Newspaper Stats
 
-*Scraped **19,196** Articles*
+*Scraped **19,197** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,040
 economynextcom | 1,072
 adalk | 1,600
 tamilmirrorlk | 2,239
-adaderanalk | 2,311
+adaderanalk | 2,312
 virakesarilk | 2,868
 dailymirrorlk | 2,961
 adaderanasinhalalk | 3,130
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,195 (100.0%) of 19,196 articles have been extended.
+19,196 (100.0%) of 19,197 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### Sri Lanka, Kyrgyzstan conclude inaugural foreign office consultations
+
+*2024-04-16 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98672/sri-lanka-kyrgyzstan-conclude-inaugural-foreign-office-consultations-) · `en`
+
+The inaugural Sri Lanka-Kyrgyz Republic Foreign Office consultations successfully have concluded in Bishkek, Kyrgyzstan on 15 April.
+
+Foreign Secretary of Sri Lanka Aruni Wijewardane and Deputy Minister of Foreign Affairs of the Kyrgyz Republic Avazbek Atakhanov co-chaired the consultations.
+
+The consultations are part of Sri Lanka’s initiative to strengthen bilateral ties with the countries of the Central Asia region.
+
+A Memorandum of Understanding (MoU) on Bilateral Cooperation was signed between the two Foreign Ministries. Sri Lanka established diplomatic relations with the Kyrgyz Republic in 1996, and this is the first high-level visit to take place between the two countries.
+
+During the official talks, the two sides prioritized expanding economic cooperation, focusing on apparel, gems and jewelry, tea, food and beverages, wellness and ayurvedic products, education services and ICT sectors
+
+...
+
+[Data](articles/63812c2b.json)
+
+---
 
 ### Malinga meets the latest bowler
 
@@ -87,6 +107,8 @@ The incident, caught on camera and widely circulated on social media, has drawn 
 ◼️
 
 [Data](articles/894fa50e.json)
+
+[Extended Data](ext_articles/894fa50e.ext.json)
 
 ---
 
@@ -2275,23 +2297,5 @@ He told the BBC Sinhala service.
 [Data](articles/32f4478a.json)
 
 [Extended Data](ext_articles/32f4478a.ext.json)
-
----
-
-### Sri Lankan delegation calls on top IMF, World Bank officials at 2024 Spring Meetings
-
-*2024-04-16 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98659/sri-lankan-delegation-calls-on-top-imf-world-bank-officials-at-2024-spring-meetings) · `en`
-
-The Deputy Managing Director of the International Monetary Fund (IMF), Kenji Okamura has commended the Sri Lankan authorities on the implementation of a strong program and excellent reform progress, says Finance State Minister Shehan Semasinghe.
-
-Sri Lankan delegation led by Semasinghe met with Mr. Okamura during the IMF-World Bank Group (WBG) Spring Meetings 2024 that kicked off in Washington, D.C. on Monday (15). The event will go on until 19 April with the participation of policymakers, civil society, researchers and several other high-ranking officials.
-
-Taking to X (formerly Twitter), the state minister said the two sides had a ‘very productive’ discussion during which Mr. Okamura underscored the need to preserve the hard-earned gains that Sri Lanka has achieved since the beginning of the IMF program and to continue strong ownership.
-
-...
-
-[Data](articles/2086ade6.json)
-
-[Extended Data](ext_articles/2086ade6.ext.json)
 
 ---

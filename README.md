@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 10:03:26**
+As of **2024-04-16 10:18:18**
 
 ## Newspaper Stats
 
-*Scraped **19,052** Articles*
+*Scraped **19,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 2,225
 adaderanalk | 2,295
 virakesarilk | 2,834
 dailymirrorlk | 2,934
-adaderanasinhalalk | 3,104
+adaderanasinhalalk | 3,105
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,048 (100.0%) of 19,052 articles have been extended.
+19,052 (100.0%) of 19,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
+
+### ඉන්දියාවේ බිහිසුණු බෝට්ටු අනතුරක්
+
+*2024-04-16 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195672) · `si`
+
+ඉන්දියාවේ බෝට්ටු අනතුරකින් කුඩා ළමුන් ඇතුළු පිරිසක් අතුරුදන්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+ඉන්දියාවේ ජම්මු කාශ්මීර් ප්‍රදේශයේ ජේලම් ගංගාවේ බෝට්ටුවක් මෙලෙස අනතුරට ලක්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+ගන්ඩාබල් සිට බට්වාරා දක්වා මගීන් ප්‍රවාහනය කරමින් සිටි බෝට්ටුවක් මෙලෙස අනතුරට ලක්ව ඇති බව එම වාර්තා සඳහන් කරයි.
+
+ඉන්දීය මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත්තේ අතුරුදන්ව ඇති පිරිස සොයා මේ වනවිටත් මෙහෙයුමක් ආරම්භ කර ඇති බවය.
+
+◼️
+
+[Data](articles/81685c3e.json)
+
+---
 
 ### Ex-soldiers joining Russian military as mercenaries, Sri Lanka seeks details
 
@@ -46,6 +64,8 @@ Asked for a comment, Media Director of the Defence Ministry Colonel Nalin Herath
 
 [Data](articles/10178c6a.json)
 
+[Extended Data](ext_articles/10178c6a.ext.json)
+
 ---
 
 ### 11 trains cancelled: Locomotive operators, guards fail to report for duty
@@ -60,25 +80,33 @@ As a result, trains scheduled to depart from Colombo Fort to Moratuwa, Ambepussa
 
 [Data](articles/31271c3d.json)
 
+[Extended Data](ext_articles/31271c3d.ext.json)
+
 ---
 
-### ඉරාන ජනපති ලංකාවට
+### Iranian President to visit Sri Lanka
 
 *2024-04-16 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195671) · `si`
 
-ඉරාන ජනාධිපති ඊබ්‍රහීම් රසියි මහතා ලබන සතියේ මෙරට සංචාරයක නිරත වීමට නියමිතව තිබේ.
+Iran's President Razis visits Sri Lanka next week for the Uma Oya Project's public handover, a loan-funded initiative adding 120 MW to Sri Lanka's power system and improving water supply and agriculture.
 
-උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය නිල වශයෙන් මහජනතාවට බාරදීම සදහා වන උත්සවයට ඉරාන ජනාධිපතිවරයා සහභාගී වීමට නියමිතය.
+🟩
 
-උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ඉරාන අපනයන සංවර්ධන බැංකුවේ ණය ආධාරයක් මත 2011 වසරේ දී ආරම්භ කෙරුණි.
+Iran President Iran President Iraqi Razis is due to visit Sri Lanka next week.
 
-එමගින් ජාතික විදුලි බල පද්ධතියට මෙගාවොට් 120ක විදුලි ධාරිතාවත් එක්කිරීමට නියමිතය.
+The Iranian president will take part in the event of the Uma Oya Multipurpose Development Project officially handed over to the public.
 
-මීට අමතරව පානීය ජල සැපයුම සහ කෘෂිකාර්මික අවශ්‍යතා සදහා ජලය සැපයීම ද මේ යටතේ සිදුකිරීමට නියමිතය.
+The Uma Oya Multipurpose Development Project was launched in 2011 on a loan of Iranian Export Development Bank.
+
+It will add 120 MW of electricity to the national power system.
+
+In addition, water supply of drinking water supply and agricultural needs will be made under this program.
 
 ◼️
 
 [Data](articles/721678c3.json)
+
+[Extended Data](ext_articles/721678c3.ext.json)
 
 ---
 
@@ -207,6 +235,8 @@ Continued efforts to strengthen the rule of law will contribute to Sri Lanka's r
 ◼️
 
 [Data](articles/3468dc9d.json)
+
+[Extended Data](ext_articles/3468dc9d.ext.json)
 
 ---
 
@@ -2183,23 +2213,5 @@ It is a difficult answer to identify a party leader or common to all people.
 [Data](articles/d0a04ff0.json)
 
 [Extended Data](ext_articles/d0a04ff0.ext.json)
-
----
-
-### Woman drowns, her husband missing in Victoria Reservoir
-
-*2024-04-15 16:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Woman-drowns-her-husband-missing-in-Victoria-Reservoir/108-280713) · `en`
-
-Colombo, April 15 (Daily Mirror) - A woman who was bathing in the Victoria Reservoir at Kumbukkadura in Theldeniya drowned and her husband is missing, police said.
-
-They said the woman is 22-year-old, and her husband who is missing is a 28 -year old resident of Tihariya.
-
-Police and local residents have launched an operation to find the missing person.
-
-◼️
-
-[Data](articles/8cbda66a.json)
-
-[Extended Data](ext_articles/8cbda66a.ext.json)
 
 ---

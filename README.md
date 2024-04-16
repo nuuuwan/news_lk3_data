@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 19:33:48**
+As of **2024-04-16 19:51:45**
 
 ## Newspaper Stats
 
-*Scraped **19,172** Articles*
+*Scraped **19,175** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,29 +18,97 @@ economynextcom | 1,072
 adalk | 1,597
 tamilmirrorlk | 2,239
 adaderanalk | 2,309
-virakesarilk | 2,864
-dailymirrorlk | 2,953
+virakesarilk | 2,866
+dailymirrorlk | 2,954
 adaderanasinhalalk | 3,123
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,167 (100.0%) of 19,172 articles have been extended.
+19,172 (100.0%) of 19,175 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
+### மின்சாரம் தாக்கி பாலித தேவப்பெரும உயிரிழந்தார்!
+
+*2024-04-16 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181258) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர் பாலித தெவரப்பெரும மின்சாரம் தாக்கி உயிரிழந்துள்ளதாக நாகொட வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+வீட்டில் இரண்டு மின்சுற்றுகளை இணைக்கச் சென்ற போது மின்சாரம் தாக்கியதில் பாதிக்கப்பட்ட அவர் நாகொட வைத்தியசாலையில் அனுமதிக்கப்பட்ட  நிலையில் உயிரிழந்துள்ளதாக வைத்தியசாலைப் பேச்சாளர் தெரிவித்தார்.
+
+பாலித தெவரப்பெரும ஐக்கிய தேசியக் கட்சியின் களுத்துறை  மாவட்ட முன்னாள் நாடாளுமன்ற உறுப்பினரும் முன்னாள் வனவிலங்கு இராஜாங்க அமைச்சரும் ஆவார்.
+
+◼️
+
+[Data](articles/3f4e1cee.json)
+
+---
+
+### நுவரெலியாவில் சித்திரை வசந்த கால கொண்டாட்டம் : குதிரைப் பந்தயத்தில் உள்ளூர் 'ஜொக்கி' ரவிகுமார் சாதனை
+
+*2024-04-16 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181257) · `ta`
+
+நுவரெலியாவில் சித்திரை புத்தாண்டுடன் நடைபெற்றுவரும் வசந்தகால கொண்டாட்டத்தின் ஓர் அம்சமான குதிரைப் பந்தயத்தில் மிக முக்கியமான றோயல் டேர்வ் க்ளப் கவனர்ஸ் (ஆளுநர்) கிண்ண பந்தயப் போட்டியில் ஹியர் அண்ட் நவ் குதிரையை செலுத்திய லோகேந்திரன் ரவிகுமார் வெற்றிபெற்று வரலாறு படைத்தார்.
+
+குதிரைப்பந்தயத் திடல் (ரேஸ் கோஸ்) கிராமத்தைச் சேர்ந்த குதிரையோட்டி (ஜொக்கி) லோகேந்திரன் ரவிகுமார் மிக முக்கிய குதிரைப் பந்தயப் போட்டியில் வெற்றிபெற்றதன் மூலம் கிராமத்திற்கும் நுவரெலியா மாவட்டத்திற்கும் பெருமை சேர்த்துக் கொடுத்துள்ளார்.
+
+உள்நாட்டு மற்றும் வெளிநாட்டு சுற்றுலா பயணிகளை கவரும்வகையில் நுவரெலியா றோயல் டேர்வ் கிளப்பினால் 6 குதிரைப் பந்தயப் போட்டிகள் ஞாயிற்றுக்கிழமை (15) நடத்தப்பட்டது.
+
+அவற்றில் மிக முக்கியமான கவர்னர்ஸ் (ஆளுநர்) கிண்ண குதிரைப் பந்தயப் போட்டியில் ஹியர் அண்ட் நவ் குதிரை வெற்றிபெற்றதுடன் அந்தக் குதிரையை லோகேந்திரன் ரவிக்குமார் செலுத்தினார்.
+
+அப் போட்டியில் றோயல் கிறிஸ்டல் குதிரையை செலுத்திய பி. எஸ். கவிராஜ் 2ஆம் இடத்தையும் வெஸ்டன் விண்ட் குதிரையை செலுத்திய பி. விக்ரம் 3ஆம் இடத்தையும் பெற்றனர்.
+
+...
+
+[Data](articles/5b1a2a48.json)
+
+---
+
+### How does CSK get best out of Pathirana?
+
+*2024-04-16 19:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/How-does-CSK-get-best-out-of-Pathirana/108-280785) · `en`
+
+Colombo, April 16 (Daily Mirror) - Sri Lanka fast bowler Matheesha Pathirana delivered another match-winning performance for Chennai Super Kings (CSK) on Sunday when they defeated Mumbai Indians fairly comfortably.
+
+The right arm quick ended up taking four wickets for 28 runs keeping  CSK in the third spot of the points, very much in the running for play-offs.
+
+Pathirana has so far played three games in the IPL 2024 capturing eight wickets and the 21-year-old seems to be flourishing in Chennai colours.
+
+The former Trinity College speedster has done fairly reasonable job when representing the country. However, in certain games he was well below par.
+
+One would wonder how has CSK been able to get the best out of Pathirana far more regularly.
+
+It must be stated that CSK found Pathirana before the national selectors even considered him for Sri Lanka. Chennai probably have a better scouting system through which they had identified Matheesha Pathirana and Maheesh Theekshana.
+
+...
+
+[Data](articles/adba59ce.json)
+
+---
+
 ### Former MP Palitha Thewarapperuma passes away
 
 *2024-04-16 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98669/former-mp-palitha-thewarapperuma-passes-away) · `en`
 
-Former Deputy Minister and former UNP parliamentarian Palitha Thewarapperuma has passed away at the age of 64 years, according to sources.
+Former Deputy Minister and former UNP parliamentarian Palitha Thewarapperuma has passed away at the age of 64 years, sources told Ada Derana.
+
+According to unconfirmed reports, the former Kalutara District MP had died from electrocution while his body has been placed at the Kalutara Hospital.
+
+A prominent figure of the United National Party (UNP), Thewarapperuam had served as Deputy Minister of Internal Affairs, Wayamba Development and Cultural Affairs in the UNP-led national government in 2015.
+
+He is a former Chairman of the Mathugama Pradeshiya Saba (2002) and was also a member of the Western Provincial Council. He served as a Member of Parliament from Kalutara District during the period from 2010 to 2020.
+
+He was popular amongst the local masses for his social service activities and philanthropy while the politician also rose to fame, especially during the COVID-19 pandemic for having provided food, dry rations and other necessities to the rural population of his constituency.
 
 ◼️
 
 [Data](articles/33bc3019.json)
+
+[Extended Data](ext_articles/33bc3019.ext.json)
 
 ---
 
@@ -48,7 +116,7 @@ Former Deputy Minister and former UNP parliamentarian Palitha Thewarapperuma has
 
 *2024-04-16 19:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-MP-Palitha-Thewarapperuma-dies-from-electrocution/108-280784) · `en`
 
-Kalutara, April 16 (Daily Mirror) - Former State Minister Palitha Thewarapperuma has died from electrocution this evening.
+Kalutara, April 16 (Daily Mirror) - Former Deputy Minister Palitha Thewarapperuma has died from electrocution this evening.
 
 It was reported that he was electrocuted when he attempted to connect two electrical circuits at his home and died after being admitted to the Nagoda Hospital.
 
@@ -59,6 +127,8 @@ He was given the position of Deputy Minister of Internal Affairs, Wayamba Develo
 ◼️
 
 [Data](articles/c2930328.json)
+
+[Extended Data](ext_articles/c2930328.ext.json)
 
 ---
 
@@ -78,19 +148,27 @@ Sarvodaya has been active throughout Sri Lanka since 1958 despite numerous hards
 
 [Data](articles/322e3fad.json)
 
+[Extended Data](ext_articles/322e3fad.ext.json)
+
 ---
 
-### பாலித தெவரபெரும மின்சாரம் தாக்கி பலி
+### Palitha Thevaraperuma kills electricity
 
 *2024-04-16 18:59:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலித-தெவரபெரும-மின்சாரம்-தாக்கி-பலி/175-335995) · `ta`
 
-வீட்டில் இரண்டு மின்சுற்றுகளை இணைக்கச் சென்ற போது மின்சாரம் தாக்கி நாகொட வைத்தியசாலையில் அனுமதிக்கப்பட்ட அவர் உயிரிழந்துள்ளதாக வைத்தியசாலைப் பேச்சாளர் தெரிவித்தார்.
+Palitha Thevaraperuma, a former UNP MP and Minister of Wildlife, was electrocuted while attempting to connect two electrical circuits at his home.
 
-தபாலித தெவரப்பெரும ஐக்கிய தேசியக் கட்சியின் முன்னாள் களுத்துறை நாடாளுமன்ற உறுப்பினரும் முன்னாள் வனவிலங்கு இராஜாங்க அமைச்சரும் ஆவார்.
+🟩
+
+The hospital spokesman said that he was admitted to the Nagoda Hospital when he went to connect two electrical circuits in the house.
+
+Postalitha Thevarapperuma is a former United National Party (UNP) Member of Parliament and former Minister of Wildlife.
 
 ◼️
 
 [Data](articles/741cd929.json)
+
+[Extended Data](ext_articles/741cd929.ext.json)
 
 ---
 
@@ -120,23 +198,33 @@ The General Secretary of the United National Party has called on the United Nati
 
 ---
 
-### පිකෝ ට්‍රේල් මංපෙත සංවර්ධනයට අවධානය.
+### Attention to the development of pico trail.
 
 *2024-04-16 18:19:25* · [`adalk`](https://www.ada.lk/breaking_news/පිකෝ-ට්‍රේල්-මංපෙත-සංවර්ධනයට-අවධානය-/11-409108) · `si`
 
-නුවරඑළිය සුන්දර කඳුකරය ආශ්‍රිතව යළි පිබිඳෙන සංචාරක කාර්මාන්තය පිළිබඳ සොයා බලමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (16) පෙරවරුවේ නුවරඑළිය උඩුපුස්සැල්ලාව වැවිලි සමාගමට අයත් කෝට් ලොජ් වතු යායේ සංචාරයක නිරත විය.
+President Ranil Wickremesinghe visited the Cot Lodge Estate, focusing on the Pico Trail, a 300 km route through Sri Lanka's central hills, and the plantation community's future. He highlighted the importance of the trail for tourism and the need to address housing issues.
 
-“පිකෝ ට්‍රේල් (Peko Trail) මංපෙත හරහා ජනාධිපතිවරයා පා ගමනින් මෙම සංචාරයට එක් වීම විශේෂත්වයකි.
+🟩
 
-“පිකෝ ට්‍රේල්” යනු ශ්‍රී ලංකාවේ මධ්‍යම කඳුකරය හරහා දිවෙන කිලෝ මීටර් 300ක පමණ කඳු නැගීමේ මාර්ගයකි. එය ආසියාවේ හොඳම රහසිගත මාර්ගවලින් එකක් ලෙස සැළකේ.
+President Ranil Wickremesinghe visited the Cot Lodge Estate owned by the Plantation Company in Nuwara Eliya this morning.
 
-“පිකෝ ට්‍රේල්” නම් මෙම මංපෙත සුප්‍රසිද්ධ මහනුවර නගරයෙන් ආරම්භ වී දකුණු දෙසින් හැටන් සහ හෝර්ටන් තැන්න ජාතික වනෝද්‍යානය දෙසට ගමන් කරයි.ඉන්පසු එය හපුතලේ සහ ඇල්ල හරහා නැගෙනහිර දෙසට ගමන් කර සුන්දර නුවරඑළිය නගරය වටා ගමන් කර අවසන් වේ. මෙම මාර්ගය බ්‍රිතාන්‍ය යටත් විජිත සමයේදී විශාල වතුවල සිට කර්මාන්තශාලා වෙත තේ ප්‍රවාහනය කිරීම සඳහා භාවිතා කරන ලද්දකි.
+"The President join the visit through the Pico Trail (PEKO TRAIL) trail.
 
-“පිකෝ ට්‍රේල්” මාර්ගය ඔස්සේ කිලෝමීටර 3.2ක පමණ දුරක් පාගමනින් ඇවිද ගිය ජනාධිපතිවරයා කෝට් ලොජ් වතුයායේ සේවයේ නිරතව සිටින කම්කරු ජනතාවගේ ද තොරතුරු විමසමින් සුහද කථා බහක නිරත විය.
+"Pico Trail" is a route of about 300 km riding through the central hills of Sri Lanka. It is considered one of the best secret roads in Asia.
+
+"Pico Trail" is heading down from Kandy and heads to the Hatton and Horton Plains National Park.. This road was used to transport tea to the factory during the British colonial period.
+
+The President visited the Pico Trail "rolls along the" Pico Trail "route.
+
+The people were a great recognition to President Ranil Wickremesinghe and presented their greeting to them for the Sinhala and Tamil New Year.
+
+264 hectares of cot ledge estates under Browns Plantation Company and 349 employees. The President also focused on the future of the plantation working community of the estate working community, which was expelled after the estate public.
 
 ...
 
 [Data](articles/937c1327.json)
+
+[Extended Data](ext_articles/937c1327.ext.json)
 
 ---
 
@@ -2267,77 +2355,5 @@ The project is to improve the irrigation of 5,000 acres of agricultural land, ca
 [Data](articles/2075ec8f.json)
 
 [Extended Data](ext_articles/2075ec8f.ext.json)
-
----
-
-### Request to provide permits at low cost
-
-*2024-04-16 10:34:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்த-விலையில்-அனுமதிப்பத்திரங்களை-வழங்க-கோரிக்கை/175-335982) · `ta`
-
-Ruling and opposition MPs urge low-cost vehicle permits for political activities, citing lack of vehicles for campaigning. Despite past grants, licenses were discontinued in 2015 due to economic conditions. MPs demand tax licenses, but no government decision has been made.
-
-🟩
-
-A group of ruling party and opposition MPs have urged the Speaker and state officials to issue low -cost vehicle permits if they are unable to provide previously issued permits before the upcoming presidential election.
-
-Many parliamentarians from both political wing have explained to parliamentary leaders who have been challenging the lack of vehicles to carry out political activities during the upcoming elections.. Many newly elected MPs have insisted that there are no vehicles.
-
-In the past, every Member of Parliament has been granted unresolved vehicle permits and they have been allowed to buy a vehicle worth about 20 million rupees.
-
-However, due to the economic conditions of the country, these licenses were discontinued nearly nine years ago, last in 2015. It is noteworthy that the government has not taken a decision in this regard, although MPs have continued to demand a tax license.
-
-◼️
-
-[Data](articles/b0f01d01.json)
-
-[Extended Data](ext_articles/b0f01d01.ext.json)
-
----
-
-### Terrorist Attack at Sydney Church - Australian police
-
-*2024-04-16 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/181197) · `ta`
-
-Australian police identify a knife attack at Sydney's Azirian Christian Takut September Church as religious terrorism. The 16-year-old victim expressed religious comments, aiming to threaten visitors. Police in New South Wales are investigating.
-
-🟩
-
-Australian police have said that the knife at the Christian church in Sydney is a religious -purpose terrorism.
-
-Australian police have reported this on a knife attack at the Azirian Christian Takut September Church.
-
-Police have said that they are considering such a terrorist attack, saying that this is underway.
-
-The police commissioner of the New Zeutwales, Karen Web, said that he was survived.
-
-He said that the 16 -year -old youth who was attacked by a knife attack had expressed his religious comments and said that the aim was to threaten those who were visiting the attendees.
-
-◼️
-
-[Data](articles/9b46a4e4.json)
-
-[Extended Data](ext_articles/9b46a4e4.ext.json)
-
----
-
-### State Minister Chamara resource fires
-
-*2024-04-16 10:29:48* · [`adalk`](https://www.ada.lk/picture_story/රාජ්‍ය-ඇමති-චාමර-සම්පත්-ගමන්ගත්-ජීප්රිය-ගිනි-ගනියි/10-409098) · `si`
-
-State Minister Chamara Sampath Dasanayake's vehicle caught fire in Bandarawela, reportedly due to a technical fault, while returning from a festival. The fire was extinguished by the Bandaranawala Urban Council Fire Brigade and Ella Police are investigating.
-
-🟩
-
-State Minister Chamara Sampath Dasanayake has launched a sudden fire in the Halwela area in Bandarawela. The Ella said that due to the fire, the minister or its driver have been harmed.
-
-The fire has erupted due to a technical fault.The accident is involved in the accident while the Minister was returning at a festival in Mahiyanganaya and Ella areas.
-
-The Bandaranawala Urban Council Fire Brigade and the Falls have to hold the fire, but the front part of the vehicle is burning large.Ella Police are conducting further investigations
-
-◼️
-
-[Data](articles/f615fd09.json)
-
-[Extended Data](ext_articles/f615fd09.ext.json)
 
 ---

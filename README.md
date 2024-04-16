@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 22:04:16**
+As of **2024-04-16 22:18:34**
 
 ## Newspaper Stats
 
-*Scraped **19,195** Articles*
+*Scraped **19,196** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,46 +19,74 @@ adalk | 1,600
 tamilmirrorlk | 2,239
 adaderanalk | 2,311
 virakesarilk | 2,868
-dailymirrorlk | 2,960
+dailymirrorlk | 2,961
 adaderanasinhalalk | 3,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,193 (100.0%) of 19,195 articles have been extended.
+19,195 (100.0%) of 19,196 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### මාලිංග සෙවූ අලුත්ම පන්දුයවන්නා හමුවෙයි
+### Malinga meets the latest bowler
 
 *2024-04-16 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195702) · `si`
 
-සිය පන්දුයැවීමේ ඉරියව්වට සමාන ඉරියව්වකින් පන්දු යවන ක්‍රීඩකයෙකු පිළිබඳ ලසිත් මාලිංග සිය ෆේස්බුක් ගිණුමේ පළ කළ සටහනත් සමග එම පාසල් ක්‍රීඩකයා පිළිබද කාගේත් අවධානය යොමුවී තිබුණි.
+Malinga praises a promising bowler, Nensh, for his skills, suggesting he could progress in the next 4-5 years.
 
-පාසලේ නිවාසාන්තර ක්‍රීඩා උළෙලේ ක්‍රිකට් තරග සඳහා පුහුණුවීම් සිදු කරන අවස්ථාවක ගත් වීඩියෝවක් හේතුවෙන් ලසිත් මාලිංගගේ පන්දුයැවීමේ ඉරියව්වට සමාන නිමේෂ්ගේ මෙම පන්දුයැවීම කාගේත්  අවධානයට ලක්වුණි.
+🟩
 
-"අලුත් පන්දුවෙන් අවුට්ස්වින්ග් පන්දු වගේම, පැරණි පන්දුවෙන් රිවර්ස් ස්වින්ග් පන්දු යැවීමේ හැකියාවත් ඇති හොඳ පන්දුයැවීමේ ඉරියව්වක්. මෙම කුසලතාවන් වැඩි දියුණු කරගෙන නව අලුත් අලුත් දේවල් ඉගෙන ගනිමින් ඔහුගේ ශාරSරික යෝග්‍යතාව ඉදිරි වසර 4, 5ක කාලයක තුළ අඛණ්ඩව පවත්වාගෙන ගියහොත් ඔහුට බොහෝදුර යා හැකියි." යනුවෙන් ලසිත් මාලිංග සිය ෆේස්බුක් පිටුවේ සටහනක් තබා තිබුණි.
+With the expression on his Facebook account, a bowling a bowling posture had attracted the attention of the school player.
+
+Needing Nensh's bowleplay was attributed to Lash Malinga's bowling to the school's interide Games.
+
+"New ball Auswwing balls with a good bowling posture. If he continues to improve these skills and continuously maintaining new new things, he will also go to the next 4 and 5 years. "Lasith Malinga had placed a note in his Facebook page.
 
 ◼️
 
 [Data](articles/d42f7d65.json)
 
+[Extended Data](ext_articles/d42f7d65.ext.json)
+
 ---
 
-### පාතාලයන්ට වෙඩි තියන්න STF එකට විශේෂ පුහුණුවක්
+### STF is a special training to shoot the underworld
 
 *2024-04-16 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195701) · `si`
 
-පාතාල අපරාධකරුවන් යතුරුපැදිවලින් හඹාගොස් වෙඩිතැබීම සඳහා STF භටයින් 100 දෙනෙකු පුහුණු කර ඇති බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+STF trains to combat underworld, with 100,000 motorbikes and shooters. Deshabandu Tennakoon, IGP, predicts their elimination in 3 months.
 
-ඇල්පිටිය පොලිස් කොට්ඨාසයේ සංචාරයකට අද (16) එක්වෙමින් ඔහු කියා සිටියේ පාතාලය සහ මත්කුඩු ජාවාරම් ඉදිරි මාස 03 තුළ ස්ථිර ලෙසම රටින් තුරන් කරන බවය.
+🟩
+
+IGP Deshabandu Tennakoon says that underworld criminals have trained 100,000 motorbikes and trained the shooting.
+
+He was speaking to the Elpitiya Police Division today (16) and he was permanently eliminated in the next three months.
 
 ◼️
 
 [Data](articles/512aa8a6.json)
+
+[Extended Data](ext_articles/512aa8a6.ext.json)
+
+---
+
+### Street food vendor arrested for verbally harassing foreigner
+
+*2024-04-16 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Street-food-vendor-arrested-for-verbally-harassing-foreigner/108-280794) · `en`
+
+Colombo, April 16 (Daily Mirror)  - The street food vendor who attempted to charge a foreign customer an exorbitant amount for a Kottu Roti and verbally harassed, was arrested by the Police.
+
+The altercation unfolded when the vendor allegedly demanded a staggering Rs. 1,900 for a Kottu Roti from the foreign customer. When questioned about the inflated price, the vendor reportedly resorted to harassment tactics, escalating the situation.
+
+The incident, caught on camera and widely circulated on social media, has drawn attention to issues of overcharging and harassments faced by tourists.
+
+◼️
+
+[Data](articles/894fa50e.json)
 
 ---
 
@@ -2265,23 +2293,5 @@ Taking to X (formerly Twitter), the state minister said the two sides had a ‘v
 [Data](articles/2086ade6.json)
 
 [Extended Data](ext_articles/2086ade6.ext.json)
-
----
-
-### IMF’s Deputy Managing Director commends Sri Lanka’s reform progress
-
-*2024-04-16 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98659/imfs-deputy-managing-director-commends-sri-lankas-reform-progress) · `en`
-
-The Deputy Managing Director of the International Monetary Fund (IMF), Kenji Okamura has commended the Sri Lankan authorities on the implementation of a strong program and excellent reform progress, says Finance State Minister Shehan Semasinghe.
-
-Sri Lankan delegation led by Semasinghe met with Mr. Okamura during the IMF-World Bank Group (WBG) Spring Meetings 2024 that kicked off in Washington, D.C. on Monday (15). The event will go on until 19 April with the participation of policymakers, civil society, researchers and several other high-ranking officials.
-
-Taking to X (formerly Twitter), the state minister said the two sides had a ‘very productive’ discussion during which Mr. Okamura underscored the need to preserve the hard-earned gains that Sri Lanka has achieved since the beginning of the IMF program and to continue strong ownership.
-
-...
-
-[Data](articles/73897779.json)
-
-[Extended Data](ext_articles/73897779.ext.json)
 
 ---

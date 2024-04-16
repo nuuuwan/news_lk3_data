@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 02:50:18**
+As of **2024-04-17 03:03:35**
 
 ## Newspaper Stats
 
-*Scraped **19,228** Articles*
+*Scraped **19,235** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 201
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,029
-dailyftlk | 1,049
+dailyftlk | 1,056
 economynextcom | 1,082
 adalk | 1,600
 tamilmirrorlk | 2,241
@@ -26,11 +26,137 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,224 (100.0%) of 19,228 articles have been extended.
+19,228 (100.0%) of 19,235 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### Range Bandara invites key SJB MPs to rejoin party
+
+*2024-04-17 02:46:13* · [`dailyftlk`](https://www.ft.lk/news/Range-Bandara-invites-key-SJB-MPs-to-rejoin-party/56-760696) · `en`
+
+Invites MPs  Harsha de Silva, Thalatha Atukorale, Eran Wickramaratne and Kabir Hashim to strengthen President’s efforts in rebuilding SL
+
+Claims SJB leadership is marginalising these MPs after control has shifted to SLPP aligned group
+
+United National Party (UNP) General Secretary Palitha Range Bandara issued an open invitation to several prominent Samagi Jana Balawegaya (SJB) MPs yesterday to rejoin the UNP ahead of the upcoming polls.
+
+Addressing a press conference, Range Bandara accordingly invited SJB MPs Harsha de Silva, Thalatha Atukorale, Eran Wickramaratne and Kabir Hashim to rejoin the age-old party.
+
+“We are aware of the way MPs skilled in economic affairs such as Harsha de Silva and Eran Wickramaratne, as well as Ratnapura district MP Thalatha Atukorale, who led women’s movements, have been treated,” the UNP General Secretary said.
+
+...
+
+[Data](articles/1c787982.json)
+
+---
+
+### Wijeyadasa contemplates Presidential bid amidst calls for candidacy
+
+*2024-04-17 02:44:11* · [`dailyftlk`](https://www.ft.lk/news/Wijeyadasa-contemplates-Presidential-bid-amidst-calls-for-candidacy/56-760695) · `en`
+
+Justice Minister Dr. Wijeyadasa Rajapakshe disclosed that he has been approached by various quarters to consider contesting in the upcoming Presidential election.
+
+Speaking to journalists, he revealed that several requests have been forwarded by members of the Sri Lanka Freedom Party’s (SLFP) Central Working Committee.
+
+In addition, Minister Dr. Rajapakshe noted that he has received similar requests from religious leaders, including the Maha Sangha.
+
+The Justice Minister indicated that he will deliberate on these requests and announce his decision next week regarding his potential candidacy in the Presidential Election.  The announcement has sparked anticipation and speculation among political circles as the country awaits Dr. Rajapakshe’s final decision.
+
+◼️
+
+[Data](articles/1e3ccf2a.json)
+
+---
+
+### Gammanpila seeks official docs on Katchatheevu from FM
+
+*2024-04-17 02:42:34* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-seeks-official-docs-on-Katchatheevu-from-FM/56-760694) · `en`
+
+Pivithuru Hela Urumaya (PHU) leader Udaya Gammanpila has requested official documents from the Ministry of Foreign Affairs concerning the ceding of Katchatheevu Island from India to Sri Lanka. He submitted a Right to Information (RTI) request on 11 April.
+
+Gammanpila said the request was made at an opportune time, as India’s ruling Bharatiya Janata Party (BJP) has brought up the Katchatheevu issue during the lead-up to India’s general election, which begins on 19 April.
+
+He expressed a desire for the public to have access to the relevant documents, including what he termed historical evidence dating back to the 12th century BC and the exchange of letters between India and Sri Lanka on the subject.
+
+The Katchatheevu issue was raised on Indian political platforms by Prime Minister Narendra Modi recently, who accused the rival Congress party of underhandedly giving the island to Sri Lanka. Modi also criticised the Dravida Munnetra Kazhagam (DMK) for its alleged involvement in the matter.
+
+...
+
+[Data](articles/4038a6ec.json)
+
+---
+
+### BASL outraged at police brutality in Medawachchiya
+
+*2024-04-17 02:41:03* · [`dailyftlk`](https://www.ft.lk/news/BASL-outraged-at-police-brutality-in-Medawachchiya/56-760693) · `en`
+
+Condemns use of brutality by police in carrying out their duties
+
+Says such acts violate  fundamental principles of justice, human rights and international conventions
+
+Announces its intention to closely monitor proceedings and urges authorities to take swift legal measures
+
+The Bar Association of Sri Lanka (BASL) expressed deep concern and outrage over the weekend following reports of a young man allegedly assaulted by officers of the Medawachchiya Police Traffic Division. The incident resulted in the surgical removal of one of the man’s testicles at Anuradhapura Teaching Hospital.
+
+In a statement, the BASL condemned the use of brutality by police during the performance of their duties, asserting that such acts violate fundamental principles of justice and human rights.
+
+...
+
+[Data](articles/378d552a.json)
+
+---
+
+### Sarvodaya founder A.T. Ariyaratne no more
+
+*2024-04-17 02:40:28* · [`dailyftlk`](https://www.ft.lk/news/Sarvodaya-founder-A-T-Ariyaratne-no-more/56-760692) · `en`
+
+Sarvodaya founder A.T. Ariyaratne passed away yesterday after a brief illness at a private hospital. He was 92 years old at the time of his death.
+
+Born November 5, 1931, Dr. Ahangamage Tudor Ariyaratne is the founder of the Sarvodaya Shramadana Movement of Sri Lanka. A former high school teacher at Nalanda College, he conducted the first shramadana work camp in 1958, which eventually led to the establishment of the largest non-government organisation in the country.
+
+The father of six distinguished adult children, he has led tens of thousands of family gatherings and meditations with millions of people throughout Sri Lanka and other parts of the world.
+
+He was nominated to the Constitutional Council as a civil representative on 10 September 2015.
+
+...
+
+[Data](articles/1fd907d8.json)
+
+---
+
+### Former UNP MP Palitha Thewarapperuma passes away in tragic accident
+
+*2024-04-17 02:38:51* · [`dailyftlk`](https://www.ft.lk/news/Former-UNP-MP-Palitha-Thewarapperuma-passes-away-in-tragic-accident/56-760691) · `en`
+
+Former United National Party (UNP) member and Deputy Minister Palitha Thewarapperuma tragically passed away yesterday evening due to electrocution.
+
+The incident occurred when he attempted to connect two electrical circuits at his home, resulting in his untimely demise after being admitted to the Nagoda Hospital.
+
+Thewarapperuma, born on 3 May 1960, was a prominent figure in the political arena, having served as a Member of Parliament from the UNP. He was appointed as the Deputy Minister of Internal Affairs, Wayamba Development and Cultural Affairs during the tenure of the UNP-led coalition Government in 2015. He was known for his dedication to public service and his contributions to various development projects during his tenure as a Parliamentarian, Deputy Minister as well as during his retirement from politics.
+
+...
+
+[Data](articles/0f85661c.json)
+
+---
+
+### NextGenSL facilitates cross-party collaboration on governance and economic development framework
+
+*2024-04-17 02:37:06* · [`dailyftlk`](https://www.ft.lk/news/NextGenSL-facilitates-cross-party-collaboration-on-governance-and-economic-development-framework/56-760690) · `en`
+
+Marking a landmark initiative aimed at fostering cross-party cooperation, NextGenSL, a platform dedicated to empowering young leaders from the main political camps, convened representatives from 15 political parties for a two-day consultation session.
+
+The gathering culminated in the development of an initial draft for a cross-party governance and economic development framework, signalling a new step forward in Sri Lanka’s political landscape.
+
+Under the auspices of NextGenSL, delegates from diverse political backgrounds engaged in constructive discussions, focusing on key issues concerning governance, economic development, and social progress. Over the course of the consultations, participants collaborated to craft a comprehensive framework that draws from a range of sources, including political manifestos, an IMF diagnostic report, and frameworks from civil organisations.
+
+...
+
+[Data](articles/ba6a8ec8.json)
+
+---
 
 ### BIMSTEC Secretary-General discusses regional cooperation in Bay of Bengal Region at LKI
 
@@ -46,6 +172,8 @@ The program provided an opportunity for the gathering of Sri Lankan policymakers
 
 [Data](articles/267f7fe9.json)
 
+[Extended Data](ext_articles/267f7fe9.ext.json)
+
 ---
 
 ### Sri Lanka and Kazakhstan successfully conclude 2nd round of Foreign Office Consultations
@@ -59,6 +187,8 @@ The Sri Lanka delegation was led by Foreign Secretary Aruni Wijewardane, and the
 ...
 
 [Data](articles/e6501b46.json)
+
+[Extended Data](ext_articles/e6501b46.ext.json)
 
 ---
 
@@ -79,6 +209,8 @@ During the official talks, the two sides prioritised expanding economic cooperat
 ...
 
 [Data](articles/89c7c811.json)
+
+[Extended Data](ext_articles/89c7c811.ext.json)
 
 ---
 
@@ -101,6 +233,8 @@ In a meeting with the IMF Deputy Managing Director Kenji Okamura, the State Mini
 ...
 
 [Data](articles/76c9e8c8.json)
+
+[Extended Data](ext_articles/76c9e8c8.ext.json)
 
 ---
 
@@ -2109,159 +2243,5 @@ Later Guerot told local news networks he was on a work visa set to expire within
 [Data](articles/31da47da.json)
 
 [Extended Data](ext_articles/31da47da.ext.json)
-
----
-
-### Couple donated Rs 200 crore
-
-*2024-04-16 14:32:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-200-கோடி-சொத்தை-தானம்-கொடுத்த-தம்பதி/175-335992) · `ta`
-
-A Gujarat couple donated Rs 200 crore, embracing a monastic life, cutting off family ties, and pledging no material possessions.
-
-🟩
-
-A millionaire couple from Gujarat has donated Rs 200 crore to the public and accepted the monk.. Also, they are planning to start a spiritual journey soon.
-
-Jain businessmen from Gujarat have done this to Bavesh Bhandari and his wife. They donated all their wealth to the people at an event last February. At the religious event this month, they go to a fully monastic life.
-
-For this they will accept a pledge on April 22. After that, the couple must cut off all family relationships.. That means no one should be considered as a family relationship. They should consider the whole world as family. Also, the rule is that they should not have any material.
-
-◼️
-
-[Data](articles/cb25aeb7.json)
-
-[Extended Data](ext_articles/cb25aeb7.ext.json)
-
----
-
-### Singapore offers 200 auxilary police officer vacancies for Sri Lankans
-
-*2024-04-16 14:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Singapore-offers-200-auxilary-police-officer-vacancies-for-Sri-Lankans/108-280771) · `en`
-
-The Sri Lanka Foreign Employement Agency (SLFEA) has announced 200 vacancies in the Singapore auxilary police for Sri Lankans.
-
-According to a notice issued by the SLFEA, walk-in interviews for these vacancies will be held at the SLFEA office in Nawala today (16) and tomorrow (17).
-
-Applicants are requested to complete application forms, accessible online at https://forms.gle/8DzuH5LUooxg4czE6, and bring their Certificate of Advanced Level or IELTS along with their passport for the interview.
-
-For additional inquiries, individuals can contact the SLFEA hotline on 011-2800407
-
-◼️
-
-[Data](articles/2f43e9ef.json)
-
-[Extended Data](ext_articles/2f43e9ef.ext.json)
-
----
-
-### Steps to cultivate the most delicious pineapple in the world in Sri Lanka
-
-*2024-04-16 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181224) · `ta`
-
-Sri Lanka's Department of Agriculture recommends cultivating MD 2 pineapple, known for its delicious taste and low acidity. Minister Mahinda Amaraweera urges immediate cultivation.
-
-🟩
-
-The Department of Agriculture has recommended the cultivation of MD 2, one of the most delicious pineapple in the world.
-
-In this case, a study conducted to cultivate the MD 2 type of pineapple with sweet taste and low acidity has been a success.
-
-Therefore, Minister of Agriculture and Plantation Industries Mahinda Amaraweera has advised the Department of Agriculture to take immediate steps to cultivate MD 2.
-
-◼️
-
-[Data](articles/57380af1.json)
-
-[Extended Data](ext_articles/57380af1.ext.json)
-
----
-
-### No shortages of eggs, chicken in country
-
-*2024-04-16 14:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-shortages-of-eggs-chicken-in-country/108-280770) · `en`
-
-Colombo, April 16 (Daily Mirror) - Despite an abundance of eggs and chicken in the country, prices have surged due to the inadequate supply to meet the demand, All Island Poultry Association (AIPA) President Ajith Gunasekara said.
-
-Sufficient eggs were available in the market by April 5. By that time the price of an egg was Rs.35 in the local market.
-
-But with the higher demand by April 10 in view of the Muslim festival (Eid al-Fitr) and Sinhala and Tamil New Year, the producers were unable to provide the sufficient requirements.
-
-He said the price of an egg was between Rs.40 and Rs.45, but now an egg is being sold at a price between Rs.50 to Rs.60.
-
-◼️
-
-[Data](articles/b3544022.json)
-
-[Extended Data](ext_articles/b3544022.ext.json)
-
----
-
-### Foods provided at the Colombo National Hospital are substandard!
-
-*2024-04-16 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181228) · `ta`
-
-Dr. Rukshan Bellana, Deputy Director of Colombo National Hospital, criticized substandard food, including rotten vegetables, expired flour and china, and unqualified fish, leading to employee complaints to the Ministry of Health.
-
-🟩
-
-Deputy Director of the Hospital, Dr. Rukshan Bellana, said that a significant amount of food supplied to patients and staff at the Colombo National Hospital is substandard.
-
-He also alleges that sometimes the vegetables provided for the patient's food are somewhat rotten.
-
-The flour and china used for tea provided to patients and employees are found to be expired.
-
-In some cases, the concerned contracting company provides food with unqualified fish.
-
-Dr. Bellana said that many employees have lodged a complaint with the Ministry of Health and that the hospital authorities can do nothing.
-
-◼️
-
-[Data](articles/0f6db509.json)
-
-[Extended Data](ext_articles/0f6db509.ext.json)
-
----
-
-### Driver suspended
-
-*2024-04-16 14:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடைமேடையில்-ரயிலை-மோதிய-சாரதி-இடைநிறுத்தம்/175-335991) · `ta`
-
-A train accident at Colombo Fort Railway Station yesterday afternoon, heading to Chilaw, led to a driver suspension and an investigation committee. Cause unknown.
-
-🟩
-
-A committee has been appointed to investigate the train accident which took place at the Colombo Fort Railway Station yesterday afternoon.
-
-The train was heading to Chilaw when the train reached the first stage of the railway station.
-
-The cause of the accident has not yet been revealed and the train driver has been suspended until the investigation is over.
-
-◼️
-
-[Data](articles/2a7af2de.json)
-
-[Extended Data](ext_articles/2a7af2de.ext.json)
-
----
-
-### Sri Lanka's delicious pineapple variety
-
-*2024-04-16 14:17:00* · [`adalk`](https://www.ada.lk/breaking_news/ලොව-රසම-අන්නාසි-ප්‍රභේදය-ලංකාවේත්/11-409104) · `si`
-
-Mahinda Amaraweera advises the Department of Agriculture to recommend Sri Lanka's popular pineapple variety, which hasn't been cultivated for this purpose, but has been successful in cultivation.
-
-🟩
-
-Minister of Agriculture Mahinda Amaraweera has advised the Department of Agriculture to promptly recommend the pineapple variety of the world's most popular pineapple variety.
-
-The pineapple variety of the pineapple has not been cultivated for this purpose.
-
-The pineapple varieties of this pineapple variety of delicacies also have also been successful in cultivation of this pineapple variety.
-
-◼️
-
-[Data](articles/22bece38.json)
-
-[Extended Data](ext_articles/22bece38.ext.json)
 
 ---

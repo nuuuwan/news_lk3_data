@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-16 11:03:31**
+As of **2024-04-16 11:18:12**
 
 ## Newspaper Stats
 
-*Scraped **19,065** Articles*
+*Scraped **19,073** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,027
 dailyftlk | 1,039
-economynextcom | 1,065
+economynextcom | 1,070
 adalk | 1,586
-tamilmirrorlk | 2,227
+tamilmirrorlk | 2,228
 adaderanalk | 2,296
-virakesarilk | 2,839
+virakesarilk | 2,841
 dailymirrorlk | 2,934
 adaderanasinhalalk | 3,107
 
@@ -26,35 +26,121 @@ adaderanasinhalalk | 3,107
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,064 (100.0%) of 19,065 articles have been extended.
+19,065 (100.0%) of 19,073 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-16 (Tuesday)
 
-### රටම ආදරේ සල්මන් ලොකු අවුලක
+### புத்தாண்டு காலத்தை இலக்காகக் கொண்டு நாடளாவிய ரீதியில் 700 சுற்றிவளைப்புகள்!
 
-*2024-04-16 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195675) · `si`
+*2024-04-16 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181202) · `ta`
 
-ඉන්දීය සුපිරි නළු සල්මන් ඛාන්ගේ නිවසට වෙඩිතැබීමේ සිද්ධිය සම්බන්ධයෙන් එරට පොලීසිය විසින් සැකපිට දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+புத்தாண்டு காலத்தை இலக்காகக் கொண்டு நாடளாவிய ரீதியில் 700 சுற்றிவளைப்புகள் மேற்கொள்ளப்பட்டதாக நுகர்வோர் விவகார அதிகார சபை தெரிவித்துள்ளது.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ විකී සහබ් සහ සාගර් ශ්‍රීජෝගේන්ද්‍ර නමැති දෙදෙනෙකි.
+இந்தச்  சோதனைகளின்போது  சட்டத்தின் கீழ் சிக்கிய நபர்களுக்கு எதிராக நீதிமன்றத்தில் வழக்குத் தாக்கல் செய்யவுள்ளதாக  அதிகார சபையின் சோதனைகள் மற்றும் விசேட புலனாய்வுப் பிரிவின் பணிப்பாளர் சஞ்சய் இராசிங்க தெரிவித்துள்ளார்.
 
-ගුජරාට් ප්‍රාන්තයේ භූජ් විහාරයක සැඟව සිටියදී මොවුන් අත්අඩංගුවට ගෙන ඇති බව එම වාර්තා වැඩිදුරටත් සඳහන් කරයි.
+பொருட்கள் வாங்கும் போது நுகர்வோர் கவனிக்க வேண்டிய சில விடயங்கள் குறித்தும்  சோதனை நடவடிக்கையின்போது அவர் தெளிவுபடுத்தினார்.
 
-ඔවුන් කුප්‍රකට බිෂ්නෝයි කල්ලියට සම්බන්ධ බවට සැකපළ කරන බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර තිබේ.
+◼️
 
-පසුගිය ඉරිදා අලුයම 5ට පමණ යතුරුපැදියකින් පැමිණි සැකකරුවන් විසින් මුම්බායි හි පිහිටි සල්මන් ඛාන්ගේ නිවසට වෙඩි තබා පළාගොස් තිබුණි.
+[Data](articles/c3566bfb.json)
 
-මෙම වෙඩි ප්‍රහාරයත් සමග සල්මන්ගේ ආරක්ෂාව තර කිරීමට එරට ආරක්ෂක අංශ පියවර ගෙන තිබූ අතර නිවසින් පිටව යන්නේ නම් ඒ පිළිබඳව පොලීසිය දැනුවත් කරන ලෙසට ද දැනුම්දී තිබුණි.
+---
 
-එසේම විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ පවතින ජීවිත තර්ජන හේතුවෙන් සල්මන් ඛාන් හට අත්‍යවශ්‍ය කටයුතුවලට හැර සිය නිවසින් පිටතට නොයන ලෙසද ආරක්ෂක අංශ දැනුම්දී ඇති බවය.
+### தமிழர்களை பயங்கரவாதிகளென அடையாளப்படுத்தி முன்னெடுக்கும் அரசியல் நாட்டை அழிவுக்குள்ளேயே தள்ளும் - அருட்தந்தை மா.சக்திவேல்
 
-ඉන්දියාවේ ප්‍රසිද්ධ චරිත කිහිපයක ඝාතන සිද්ධීන්වලට චෝදනා එල්ලවී සිටින කුප්‍රකට බිෂ්නෝයි කල්ලිය විසින් මීට පෙර සල්මන්හට තර්ජනය කර තිබුණි.
+*2024-04-16 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181198) · `ta`
+
+தமிழர்களை தொடர்ந்தும் பயங்கரவாதிகள் என அடையாளப்படுத்தி செய்ய முற்படும் அரசியல் நாட்டின் எதிர்காலத்தை மேலும் அழிவுக்குள்ளேயே தள்ளும் என சமூக நீதிக்கான செயற்பாட்டாளரும், அரசியல் கைதிகளை விடுதலை  செய்வதற்கான தேசிய அமைப்பின் இணைப்பாளருமான அருட்தந்தை மா.சக்திவேல் தெரிவித்துள்ளார்.
+
+அருட்தந்தை மா.சக்திவேல் இன்று செவ்வாய்க்கிழமை (16) வெளியிட்டுள்ள ஊடக அறிக்கையிலே இவ்வாறு குறிப்பிடப்பட்டுள்ளது.
+
+அரச பயங்கரவாதம் தமிழர் தரப்பில் பேரினவாதத்தின் கைக்கூலிகளாக செயற்பட்டோரை தவிர ஏனைய அனைத்து தமிழர்களையும் தொடர்ந்து பயங்கரவாதிகளாகவே பார்க்கிறது என்பதை எழுத்தாளரும் கவிஞருமான தீபச்செல்வனை அண்மையில் பயங்கரவாத தடுப்பு பிரிவினர் அழைத்து நடத்திய நீண்ட விசாரணை மூலம் புலப்படுத்துகின்றது.
 
 ...
 
+[Data](articles/7c58f9bd.json)
+
+---
+
+### Salman is a big mess
+
+*2024-04-16 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195675) · `si`
+
+Police arrested two suspects in Salman Khan's shooting incident in Mumbai. They were linked to the Bishnoi gang. Salman's security has been enhanced due to threats.
+
+🟩
+
+The police have arrested two suspects in suspicion of shooting the house of Indian super-actor Salman Khan.
+
+The arrested were the two persons who were arrested.
+
+They were arrested while he was arrested in a bohgege in the state of Gujarat.
+
+Foreign media reports that they will be associated with the bishnoy gang.
+
+The suspects were shot and fled the house of Salman Khan in Mumbai around 5 am last Sunday.
+
+With the shooting, the security forces of the security forces had taken measures to strengthen Salman's safety and to inform the police if they leave the house.
+
+The security media also reported that the security forces have notice that Salman Khan should not go out of their home with the present life threats.
+
+Salman had previously threatened the notorious bishnoi, who was accused of allegedly charges of murder incidents of India.
+
+And a bishiony sister had issued an internet message after the struggle.
+
+◼️
+
 [Data](articles/f8804be6.json)
+
+[Extended Data](ext_articles/f8804be6.ext.json)
+
+---
+
+### அவர்கள் இறந்தால் இழப்பீட்டுக்கு என்ன உத்தரவாதம்?
+
+*2024-04-16 10:42:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவர்கள்-இறந்தால்-இழப்பீட்டுக்கு-என்ன-உத்தரவாதம்/175-335983) · `ta`
+
+உக்ரேனுக்கு எதிரான ரஷ்ய இராணுவ நடவடிக்கைகளில் இலங்கையைச் சேர்ந்த சில முன்னாள் இராணுவ வீரர்கள் இணைந்துள்ளனர் என்ற செய்திகளுக்கு மத்தியில், மொஸ்கோவிலுள்ள இலங்கைத் தூதுவர் பேராசிரியர் ஜனிதா லியனகே, ரஷ்ய இராணுவத்திடம் அவர்கள் பற்றிய விவரங்களைக் கேட்டறிந்தார்.
+
+இது தொடர்பான ஊடக அறிக்கைகள் தொடர்பில் எழுப்பப்பட்ட கேள்விக்கு பதிலளிக்கும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார். "அங்கு யாராவது அவ்வாறு இருப்பார்களாயின் ரஷ்ய இராணுவத்திடம் அத்தகைய விவரங்களை நான் கேட்டுள்ளேன்," என்று அவர் கூறினார்.
+
+இது தொடர்பாக பாதுகாப்பு அமைச்சின் ஊடகப் பணிப்பாளர் கேர்ணல் நளின் ஹேரத் கருத்துக் தெரிவிக்கையில், ​​சில முன்னாள் வீரர்கள் ரஷ்ய இராணுவத்தில் சட்டத்திற்குப் புறம்பாகச் சேர்ந்திருக்கலாம் எனத் தெரிவித்தார். இவ்வாறான சட்டத்திற்கு புறம்பான செயல்களில் ஈடுபடும் ஆபத்துக்கள் குறித்து படையினருக்கு விளக்கமளிக்க அமைச்சு நடவடிக்கை எடுத்துள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+"அவர்கள் லாபகரமான சலுகைகள் மூலம் ஈர்க்கப்பட்டிருக்கலாம். அவர்களில் யாராவது சண்டையில் இறந்தால் இழப்பீட்டுக்கு என்ன உத்தரவாதம், ”என்று அவர் கூறினார்.
+
+◼️
+
+[Data](articles/27bee3eb.json)
+
+---
+
+### Iran's President visits Sri Lanka
+
+*2024-04-16 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/181192) · `ta`
+
+Iran's President Ibrahim Raisi visits Sri Lanka on 24th to open major water and energy projects, including Uma Oya Multipurpose Project and irrigation tunnel with two dams, two large water stations, and aims to improve irrigation, carry water, and generate electricity.
+
+🟩
+
+Iranian President Ibrahim Raisi will visit Sri Lanka on the 24th of this month to open several major water and energy projects.
+
+The President of Iran will also open the Uma Oya Multipurpose Project and 25 kilometers of irrigation tunnel, which includes two dams, Diaraba and Buhulpola.
+
+The project also constructed two large water stations with a capacity of 60 MW each.
+
+The Uma Oya Multi -Purpose Project is considered one of the largest technical and engineering service projects in Iranian companies in Sri Lanka.
+
+The project is located 200 kilometers from Colombo city in the southeast of Sri Lanka.
+
+The project is to improve the irrigation of 5,000 acres of agricultural land, carry 145 million cubic meters of water and generate 290 MW of electricity a year.
+
+◼️
+
+[Data](articles/2075ec8f.json)
+
+[Extended Data](ext_articles/2075ec8f.ext.json)
 
 ---
 
@@ -111,6 +197,10 @@ He said that the 16 -year -old youth who was attacked by a knife attack had expr
 ### Father killed in Marathon race
 
 *2024-04-16 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/181194) · `ta`
+
+A 60-year-old father from Belmatullai, supporting his 16-year-old son at the Marathon race, fell unconscious and was admitted to Belmatullah Hospital. Police are investigating.
+
+🟩
 
 A father who went to support his son, who attended the Marathon race during this year's New Year celebrations held in Belmatulla Padalanda area.
 
@@ -198,6 +288,24 @@ The strong first quarter growth will make the government comfortable with its cu
 
 ---
 
+### Sri Lanka rupee opens at 299.00/25 to the US dollar
+
+*2024-04-16 10:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-299-00-25-to-the-us-dollar-158615/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 299.00/25 to the US dollar in the spot forex market on Tuesday, from 299.00/10 on Monday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 was quoted at 11.30/32 percent from 11.30/35 percent.
+
+A bond maturing on 15.12.2028 was quoted at 12.05/15 percent from 12.10/20 percent.
+
+The Colombo Stock Exchange opened down; The All Share Price Index dropped below the 12,000 mark – down 0.79 percent at 11,911. The S&P SL20 was also down 1.09 percent at 3,526. (Colombo/Apr16/2024)
+
+◼️
+
+[Data](articles/c0e110fb.json)
+
+---
+
 ### Floods in Oman are violent
 
 *2024-04-16 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195673) · `si`
@@ -267,34 +375,6 @@ Indian media further stated that a mission has already been launched by the miss
 [Data](articles/81685c3e.json)
 
 [Extended Data](ext_articles/81685c3e.ext.json)
-
----
-
-### Iran's President visits Sri Lanka
-
-*2024-04-16 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181192) · `ta`
-
-Iran's President Ibrahim Raisi visits Sri Lanka on 24th to open major water and energy projects, including Uma Oya Multipurpose Project and irrigation tunnel with two dams, two large water stations, and aims to improve irrigation, carry water, and generate electricity.
-
-🟩
-
-Iranian President Ibrahim Raisi will visit Sri Lanka on the 24th of this month to open several major water and energy projects.
-
-The President of Iran will also open the Uma Oya Multipurpose Project and 25 kilometers of irrigation tunnel, which includes two dams, Diaraba and Buhulpola.
-
-The project also constructed two large water stations with a capacity of 60 MW each.
-
-The Uma Oya Multi -Purpose Project is considered one of the largest technical and engineering service projects in Iranian companies in Sri Lanka.
-
-The project is located 200 kilometers from Colombo city in the southeast of Sri Lanka.
-
-The project is to improve the irrigation of 5,000 acres of agricultural land, carry 145 million cubic meters of water and generate 290 MW of electricity a year.
-
-◼️
-
-[Data](articles/2075ec8f.json)
-
-[Extended Data](ext_articles/2075ec8f.ext.json)
 
 ---
 
@@ -762,6 +842,24 @@ The deceased has been identified as a 65 year old resident of Kotiyagala.
 
 ---
 
+### Sri Lanka could get hit from a disorderly US tumble
+
+*2024-04-16 06:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-could-get-hit-from-a-disorderly-us-tumble-158583/) · `en`
+
+ECONOMYNEXT – Sri Lanka is recovering fast but the country could get hit from an unravelling of advanced economies, particularly the United States, which is skating on very thin ice, after exceptionally bad monetary policy, which has destroyed fiscal metrics as well.
+
+The US was running bad to atrocious monetary policy since 2001, when Ben Bernanke misled Alan Greenspan into printing money to run an 8-year cycle, firing a commodity and housing bubble which collapsed after rates were kept at around 5 percent for about a year.
+
+That was the end of the Great Moderation started by Paul Volcker and continued with some skill under Greenspan, until the Fed was infected by Bernanke, the depression scholar. Keynes was also a ‘depression scholar’, in essence.
+
+Gold prices fell from 800 to 284 dollars an ounce under Volcker-Bernanke, until Bernanke cooked up a false deflation scare with a healthy banking system and started to reverse it, firing the housing bubble and the Great Recession in its wake.
+
+...
+
+[Data](articles/9d4d704d.json)
+
+---
+
 ### IPL records new competition
 
 *2024-04-16 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195665) · `si`
@@ -837,6 +935,40 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/91a84ee7.json)
 
 [Extended Data](ext_articles/91a84ee7.ext.json)
+
+---
+
+### IMF urged Sri Lanka to preserve “hard earned gains” after economic crisis: State FinMin
+
+*2024-04-16 06:08:00* · [`economynextcom`](https://economynext.com/imf-urged-sri-lanka-to-preserve-hard-earned-gains-after-economic-crisis-state-finmin-158580/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund has urged Sri Lanka to preserve the hard earned gains after an unprecedented economic crisis under the global lender’s programme, State Finance Minister Shehan Semasinghe said.
+
+The Sri Lankan delegation led by Shehan Semasinghe met Kenji Okamura, the Deputy Managjng Director of the IMF on the first day of the IMF and  World Bank Spring meeting.
+
+“Mr. Okamura commended the Sri Lankan authorities on strong programme implementation and excellent reform progress. He emphasised the need to preserve the hard earned gains Sri Lanka has experienced since the beginning of the IMF programme and continue strong ownership,” the State Minister said in his X (Twitter) platform.
+
+He said the Sri Lankan delegation including Central Bank Governor Nandalal Weerasinghe and Secretary to the Treasury Mahinda Siriwardana explained the recent socio-economic developments to Okamura.
+
+...
+
+[Data](articles/fd1fd410.json)
+
+---
+
+### Sri Lanka State FinMin meets BCIU in US; discusses post-crisis investment prospects
+
+*2024-04-16 05:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-finmin-meets-bciu-in-us-discusses-post-crisis-investment-prospects-158577/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s State Finance Minister Shehan Semasinghe met Business Council for International Understanding( BCIU) in Washington on the sideline of the IMF/World Bank Spring Meetings late on Monday and discussed investment prospects in the island nation which is gradually recovering from an unprecedented economic crisis.
+
+“Our discussion centered on the potential that Sri Lanka offers for international investors. Explored various sectors, including education, tourism, renewable energy, agriculture and technology, where strategic investments can drive sustainable economic growth and development,” Semasinghe said in his X (Twitter) platform.
+
+“We reviewed the current macro-economic landscape of Sri Lanka, including recent reforms that have transformed to results. Glad to concluded the forum by marking constructive dialogue and a shared commitment to support the economic development of Sri Lanka.”
+
+...
+
+[Data](articles/c3a79949.json)
 
 ---
 
@@ -1458,6 +1590,28 @@ Luckily, The International Authority for Professional Coaching and Mentoring (IA
 
 ### India allows Sri Lanka to import 10,000MT of onions
 
+*2024-04-15 23:08:00* · [`economynextcom`](https://economynext.com/india-allows-sri-lanka-to-import-10000mt-of-onions-158570/) · `en`
+
+ECONOMYNEXT – India has relaxed an export ban allowing 10,000 metric tonnes of onions to be shipped to Sri Lanka, the Indian High Commission in Colombo said.
+
+“The exemption for Sri Lanka reiterated India’s Neighbourhood First policy, adding to the Sinhala and Tamil New Year festivities here,” the statement said.
+
+Onion prices went up in Sri Lanka after India and Pakistan banned exports.
+
+The Directorate General of Foreign Trade has issued a notice allowing National Co-operative Exports Limited to ship 10,000 MT of onions.
+
+The UAE has also been allowed to import 10,000MT of onions on top of 24,400MT already permitted.
+
+A large Indian and South Asian expat community lives in the UAE. (Colombo/Apr15/2024)
+
+◼️
+
+[Data](articles/57ae4d23.json)
+
+---
+
+### India allows Sri Lanka to import 10,000MT of onions
+
 *2024-04-15 23:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-allowed-to-import-10000mt-of-onions-from-india-158570/) · `en`
 
 ECONOMYNEXT – India has relaxed an export ban allowing 10,000 metric tonnes of onions to be shipped to Sri Lanka, the Indian High Commission in Colombo said.
@@ -2007,207 +2161,5 @@ Furthermore, the Chairman of the National Transport Commission (NTC), Shashi Wel
 [Data](articles/f9c362bd.json)
 
 [Extended Data](ext_articles/f9c362bd.ext.json)
-
----
-
-### In a historic first, Trump’s criminal hush money trial kicks off in New York
-
-*2024-04-15 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98650/in-a-historic-first-trumps-criminal-hush-money-trial-kicks-off-in-new-york) · `en`
-
-Donald Trump arrived at a Manhattan court for a historic criminal trial stemming from a hush-money payment to a porn star that could keep him in court for weeks and complicate his bid to win back the White House.
-
-Trump, 77, is the first former U.S. president to face a criminal trial. He is required to attend the trial in Manhattan, which could last through May. Jury selection is expected to take about a week, followed by witness testimony.
-
-Police stood guard in front of the courthouse amid a maze of barricades ahead of the trial’s 9:30 a.m. (1330 GMT) start, and helicopters shadowed the motorcade of black SUVs that ferried Trump from his Trump Tower apartment.
-
-A handful of protesters, gathered in the plaza across the street, carried hand-painted signs reading “LOSER” and “convict Trump already.”
-
-Though the case is regarded by some legal experts as the least consequential of the four criminal prosecutions he faces, it is the only one guaranteed to go to trial before the Nov. 5 election.
-
-...
-
-[Data](articles/58722dea.json)
-
-[Extended Data](ext_articles/58722dea.ext.json)
-
----
-
-### Nepal cricketer Tipendra Singh;6 sixes in the same over
-
-*2024-04-15 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181174) · `ta`
-
-Nepal's Tipendra Singh Ayree scored six sixes in one over, setting a record in the International T20 Premier Bowl Cricket Tournament. This follows Yuvraj Singh and Kieran Pollard's feats. Ayree, a former under-19 World Cup player, also achieved a half-century in 9 balls.
-
-🟩
-
-Nepal cricketer Tipendra Singh Ayree has made six sixes in the international T20 cricket match.
-
-Tipendra Singh is the third player in the international T20 cricket match.
-
-Tipendra Singh Ayree set this rare milestone record at the Al -Amirath Stadium against Qatar at the International R20 Premier Bowl Cricket Tournament organized by the Asian Cricket Council.
-
-India's Yuvraj Singh and Kieran Pollard of the West Indies are joining the list of records in the international T20 cricket match.
-
-Yuvraj Singh was the first player in the 2007 T20 World Cup in 2007 against England.. Yuvraj Singh first set this feat in Stuart Broadin over.
-
-Kieran Pollard was bowled out for 6 sixes in the over 14 years later in the International T20 cricket match against Sri Lanka in 2021 at the Gulij Stadium.
-
-In the 19 overs of the Asian Cricket Council's International T20 Bowl Cricket, Ayree was in the field with 28 runs off 15 balls.
-
-...
-
-[Data](articles/4002864d.json)
-
-[Extended Data](ext_articles/4002864d.ext.json)
-
----
-
-### Anchola and the well kills a little child
-
-*2024-04-15 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195657) · `si`
-
-A 9-year-old child from Jawatta, Colombo, was killed by an ancient well in Gampola. The incident occurred when the child went to a store near their home in Mahagedara. Residents found the child in the well and rushed them to the hospital, but the child had already died.
-
-🟩
-
-A child has been killed by an ancient well on the wells at Ambagamuwa Street, Gampola.
-
-The deceased has been identified as a 9 year old childhood in Jawatta, Colombo.
-
-The child's parents are residents of the Gampola area and the accident had occurred when they returned to his Mahagedara.
-
-The child was playing at home and had gone to a mother store.
-
-The residents of the area have participated in the search for the child when the mother returned to her home.
-
-It is reported that the residents of the area recovered the child who had dropped the well and dropped.
-
-The child had then admitted to the Gampola hospital, but the child had already died.
-
-Residents say that before they had died, a child and a child had died.
-
-◼️
-
-[Data](articles/2472973e.json)
-
-[Extended Data](ext_articles/2472973e.ext.json)
-
----
-
-### 8-year-old dies after ‘concrete giraffe’ falls on him in garden
-
-*2024-04-15 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98649/8-year-old-dies-after-concrete-giraffe-falls-on-him-in-garden-) · `en`
-
-An 08-year-old child has been killed in a tragic accident where a concrete statue of a giraffe had collapsed and fallen on him.
-
-The incident has taken place in the Diggalagedara area of Hettipola, the police said.
-
-The child, who was seriously injured in the accident, has succumbed to his injuries after being admitted to Kuliyapitiya Hospital.
-
-Police said that the concrete statue of a giraffe that was placed in the garden of the deceased child’s house has collapsed this way.
-
-◼️
-
-[Data](articles/ba01da93.json)
-
-[Extended Data](ext_articles/ba01da93.ext.json)
-
----
-
-### BIMSTEC Secretary General visits Sri Lanka, discusses regional cooperation
-
-*2024-04-15 18:03:00* · [`economynextcom`](https://economynext.com/bimstec-secretary-general-visits-sri-lanka-discusses-regional-cooperation-158553/) · `en`
-
-ECONOMYNEXT – The Secretary General of the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC), discussed measures to enhance regional cooperation, during his visit to the island last week.
-
-Ambassador Indra Mani Pandey, Secretary General of BIMSTEC visited Sri Lanka from 07 – 12 April 2024, following his assumption of office as Secretary General of BIMSTEC in January this year.
-
-The Secretary General “met with senior officials of relevant Ministries/Agencies to discuss measures to enhance regional cooperation under various BIMSTEC initiatives,” the Foreign Ministry said in a statement.
-
-Several BIMSTEC countries have bilateral trade agreements, such as Sri Lanka and India, Thailand and Myanmar, Sri Lanka and Thailand, but no collective regional agreement to enable intra-regional leverage.
-
-...
-
-[Data](articles/6365af51.json)
-
-[Extended Data](ext_articles/6365af51.ext.json)
-
----
-
-### Cumod died in Kurunegala
-
-*2024-04-15 18:02:53* · [`adalk`](https://www.ada.lk/breaking_news/කුරුණෑගලින්-කෝවිඩ්-මරණයක්/11-409093) · `si`
-
-Cumod died in Kurunegala, sparking a Covid-19 outbreak at the hospital. Patients and staff were quarantined, and the health sector faced criticism for handling the situation.
-
-🟩
-
-A long time later, the Covid infected at Kurunegala Teaching Hospital was reported to be infected with a doubt on suspicion of a suspect in the Kurunegala Teaching Hospital.
-
-As a result, the patient had taken steps to quarantine patients and staff of the patient who were exposed to the external environment.
-
-Hospital sources said that when the Covid Epidemics, the people, as well as the people, is a serious matter.
-
-Health sector will be handed over to family relatives without considering the covor epidemic and the dead body bodies of patients who die.
-
-◼️
-
-[Data](articles/b9c2a4f4.json)
-
-[Extended Data](ext_articles/b9c2a4f4.ext.json)
-
----
-
-### Violence in Sydney Church
-
-*2024-04-15 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181163) · `ta`
-
-A riot erupted outside a Sydney church after a knife attack on a Christian cleric. Over 5000 people, including Assyrian Christians, surrounded the church, clashing with police.
-
-🟩
-
-A riot has broken out outside the church following a knife incident in a Christian goddess in Sydney, Australia.
-
-Many people, including a Christian cleric, were injured in a knife incident in a Christian in Chitney.
-
-While the Christianity of the Sydney's southwest was taking place, a person suddenly went forward and stabbed the cleric several times.
-
-While Marry Marie Emanuel, a pastor, was engaged in worship, a person stabbed him several times with a knife.
-
-A large number of people gathered outside the church are requesting them to hand over the knife to them and are attacking the vehicles of the police.
-
-More than 5000 people surround the church, where the police have kept the stained church.
-
-The Azirian Christian church has been attacked inside the Christian church, followed by 5000 Assyrian Christians blocking the church and handing over the suspect to them and engaged in a clash with the police.
-
-◼️
-
-[Data](articles/e631018d.json)
-
-[Extended Data](ext_articles/e631018d.ext.json)
-
----
-
-### Thundershowers today!The Department of Meteorology
-
-*2024-04-15 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181162) · `ta`
-
-Heavy lightning and thunderstorms expected in Western, Sabaragamuwa, North Western Provinces, and Galle, Matara, Kandy districts. High chances of temporary wind gusts. Take precautions to protect from lightning.
-
-🟩
-
-The Department of Meteorology has warned that heavy lightning and thunderstorms are likely to occur in many areas.
-
-The Department of Meteorology said in a statement that there are high chances of heavy lightning in the Western, Sabaragamuwa and North Western Provinces and Galle, Matara and Kandy districts in the evening or night.
-
-The report further stated that the area could be temporarily blowing in the area during thunderstorms.
-
-Significantly, the Department of Meteorology has requested the people to take necessary precautions to protect themselves from accidents caused by lightning.
-
-◼️
-
-[Data](articles/bbe18e6e.json)
-
-[Extended Data](ext_articles/bbe18e6e.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 00:03:30**
+As of **2024-04-17 00:18:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,211 (100.0%) of 19,213 articles have been extended.
+19,213 (100.0%) of 19,213 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ According to airline activity tracker flightradar24, Dubai International Airport
 
 [Data](articles/69c80eeb.json)
 
+[Extended Data](ext_articles/69c80eeb.ext.json)
+
 ---
 
 ### Advance Passenger Information could do wonders tracking drug smugglers – border agencies
@@ -63,6 +65,8 @@ The officials have made the detection relying solely on the traditional methods 
 ...
 
 [Data](articles/a8b280a3.json)
+
+[Extended Data](ext_articles/a8b280a3.ext.json)
 
 ---
 

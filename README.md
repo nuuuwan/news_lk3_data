@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 13:03:39**
+As of **2024-04-17 13:18:30**
 
 ## Newspaper Stats
 
-*Scraped **19,322** Articles*
+*Scraped **19,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,60 +15,126 @@ newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,059
 economynextcom | 1,084
-adalk | 1,607
+adalk | 1,608
 tamilmirrorlk | 2,257
 adaderanalk | 2,323
-virakesarilk | 2,883
+virakesarilk | 2,885
 dailymirrorlk | 2,979
-adaderanasinhalalk | 3,144
+adaderanasinhalalk | 3,145
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,320 (100.0%) of 19,322 articles have been extended.
+19,322 (100.0%) of 19,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### ரூ.1,900 கொத்துரொட்டி வர்த்தகருக்கு பிணை
+### දැන් වමේ දේශපාලනයක් නෑ - නිමල්
 
-*2024-04-17 12:47:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-900-கொத்துரொட்டி-வர்த்தகருக்கு-பிணை/175-336039) · `ta`
+*2024-04-17 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195718) · `si`
 
-கொழும்பு புதுக்கடை பிரதேசத்தில் உள்ள  வீதி உணவுப் பகுதியில் உணவு வாங்க வந்த   வெளிநாட்டவரை அச்சுறுத்திய சம்பவம் தொடர்பில் செவ்வாய்க்கிழமை (16) கைது செய்யப்பட்ட  உணவக உரிமையாளரைப் பிணையில் விடுவிக்குமாறு கொழும்பு நீதிவான்  நீதிமன்றம் புதன்கிழமை (17) உத்தரவிட்டது.
+ලෝකයේ කිසිදු රටක මේ වනවිට වමේ දේශපාලනයක් නොමැති බවත් එය හුදෙක් බෝඩ් ලෑල්ලකට පමණක් සීමා වී ඇති බවත් අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පවසයි.
 
-இதன்படி சந்தேக நபர் 50 ஆயிரம் ரூபாய் ரொக்கப் பிணையிலும் 10 இலட்சம் ரூபாய் பெறுமதியான சரீரப் பிணையிலும் விடுதலை செய்யப்பட்டுள்ளார்.
+සිරිමාවෝ බණ්ඩාරනායක මැතිණියගේ 108 වන ජන්ම දින සංවත්සර උත්සවයට එක්වෙමින් අමාත්‍යවරයා මෙම අදහස් පළකළේය.
 
-கொழும்பு, வாழைத்தோட்டம் புதுக்கடை பிரதேசத்தின் வீதி உணவுப் பகுதியில் உணவு வாங்க வந்த வெளிநாட்டவரை  தகாத வார்த்தைகளால் திட்டிய சம்பவம் தொடர்பில் கடை உரிமையாளர் ஒருவர் வாழைத்தோட்ட பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-வெளிநாட்டவர் ஒரு கொத்து ரொட்டியின் விலையைக் கேட்டபோது, ​​ கடைக்காரர் 1900 ரூபாய் என்று கூறினார். வெளிநாட்டவர் அதை வாங்க மறுத்துவிட்டார்.
-
-இச்சம்பவம் தொடர்பான காணொளி ஒன்று சமூகவலைத்தளங்களில் வலுவாகப் பரவி வருகிறது. காணொளியின் அடிப்படையில் விசாரணைகளை ஆரம்பித்த பொலிஸார் சந்தேக நபரை கைது செய்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පැවසීය.
 
 ...
 
-[Data](articles/1b500998.json)
+[Data](articles/15d58346.json)
 
 ---
 
-### நீதிபதியின் காதில் அறைந்த சப் இன்ஸ்பெக்டர் கைது
+### வவுனியாவில் இளம் குடும்பஸ்தரை காணவில்லை
+
+*2024-04-17 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181289) · `ta`
+
+வவுனியா வேப்பங்குளம் மெதடிஸ்ட் தேவாலய வீதியில் தற்காலிகமாக வசித்து வந்த இளம் தம்பதிகளில் கணவனை கடந்த 12 ஆம் திகதி  முதல் காணவில்லை என மனைவியால் நெளுக்குளம் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+
+பதிவு திருமணம் செய்து ஒரு மாதகாலமான நிலையில் குறித்த இளம் குடும்பத்தினர் தற்காலிகமாக மேற்குறிப்பிட்ட முகவரியில் வசித்து வந்த நிலையில், கடந்த 12 ஆம் திகதி   மனைவியை அவரது பணித்தளத்தில் இறக்கிவிட்டு தான் தனது பணிக்கு செல்வதாக கூறிவிட்டு சென்றவர் மீண்டும் வரவில்லை என மனைவி தெரிவித்துள்ளார்.
+
+25 வயதுடைய வில்வராசா ரக்சன் என்பவரே காணாமல் போனவராவார் குறித்த நபரை அடையாளம் காண்பவர்கள் 0741822912 குறித்த தொலைபேசி இலக்கத்திற்கோ அல்லது அருகில் உள்ள பொலிஸ் நிலையத்திற்கோ அறிவிக்குமாறு மனைவி கேட்டுக்கொண்டுள்ளார்.
+
+◼️
+
+[Data](articles/6a82e6d9.json)
+
+---
+
+### Rs.
+
+*2024-04-17 12:47:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-900-கொத்துரொட்டி-வர்த்தகருக்கு-பிணை/175-336039) · `ta`
+
+A restaurant owner was released after being arrested for a threat by a foreigner in Colombo. A shop owner was arrested for allegedly scolding a foreigner over food prices, sparking a video that went viral.
+
+🟩
+
+The Colombo Magistrate's Court on Wednesday (17) ordered the release of a restaurant owner who was arrested on Tuesday (16) in connection with the threat of a foreigner who had come to buy food at the Pudukkadai area in Colombo.
+
+Accordingly, the suspect has been released in cash bail of 50 thousand rupees and a bail worth Rs 10 lakh.
+
+A shop owner has been arrested by the banana plantation police for allegedly scolding a foreigner who came to buy food in the Pudukkadai area of Pudukkadai, Colombo.
+
+When the foreigner asked for the price of a bunch of bread, the shopkeeper said 1900 rupees. The foreigner refused to buy it.
+
+A video on the incident is spreading strongly on social networks. Police said the suspect had been arrested on the basis of a video.
+
+The suspect is 51 years old from Colombo 12.
+
+◼️
+
+[Data](articles/1b500998.json)
+
+[Extended Data](ext_articles/1b500998.ext.json)
+
+---
+
+### Sub -Inspector arrested in the ear of the judge
 
 *2024-04-17 12:38:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/நீதிபதியின்-காதில்-அறைந்த-சப்-இன்ஸ்பெக்டர்-கைது/93-336038) · `ta`
 
-காலி லபுதுவ பிரதேசத்தில் உள்ள தனது மனைவியின் வீட்டிற்குச் சென்ற பத்தேகம மாவட்ட நீதிபதி ஒருவரை கடுமையான வார்த்தைகளால் திட்டித்தீர்த்து அறைந்த குற்றச்சாட்டில் அவரது மைத்துனரான உதவி பொலிஸ் பரிசோதகர் ஒருவரை அக்மீமன பொலிஸார் கைது செய்துள்ளனர்.
+An assistant police inspector was arrested for slapping a district judge during a dispute over a missing cat. The judge, visiting his wife's family, was found missing, and the suspect was later arrested by Akmeemana police.
 
-களுத்துறை தெற்கு பொலிஸ் நிலைய உதவிப் பொலிஸ் பரிசோதகர் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளதுடன், இவர் பத்தேகம மாவட்ட நீதிபதியின் மனைவியின் சகோதரராவார்.
+🟩
 
-பத்தேகம மாவட்ட நீதிபதி எல். கே. ஜி விஸ்வநாத் தனது மனைவி மற்றும் செல்லப் பிராணியான பூனையுடன் காலி, லபுதுவ பிரதேசத்தில் உள்ள தனது மனைவியின் தாயின் வீட்டுக்கு புத்தாண்டுக்குச் சென்றுள்ளார்.
+Akmemana police have arrested a brother -in -law, an assistant police inspector, on charges of slapping a Baddegama district judge who went to his wife's house in Galle Lubuduwa.
 
-இந்நிலையில், சம்பவம் இடம்பெற்ற மறுநாளான 16 ஆம் திகதி இரவு மாவட்ட நீதிபதி தனது மனைவி மற்றும்  பூனையுடன் தனது வீட்டிற்குச் செல்ல தயாரான போது அவரது பூனை காணாமல் போயுள்ளது.
+The arrested by the Assistant Police Inspector of the Kalutara Southern Police Station has been arrested and the brother of the wife of the Baddegama district judge.
 
-தனது பூனை காணாமல் போனது தொடர்பில் மாவட்ட  நீதிபதிக்கும் அவரது மைத்துனரான சப் இன்ஸ்பெக்டருக்கும் இடையில் வாக்குவாதம் ஏற்பட்ட நிலையில் சந்தேக நபர் நீதிபதியை கடுமையாக திட்டித்தீர்த்து அவரது காதில் அறைந்துள்ளார்.
+Battegama District Judge L. K. G. Viswanath has visited the New Year to his wife's mother in Lubuduwa with his wife and pet cat.
+
+In this case, on the night of the 16th of the incident, the district judge was missing when his wife and cat were ready to go home.
+
+The suspect has severely scolded the judge and slapped the judge as he was arguing between the district judge and his brother -in -law Sub Inspector over the disappearance of his cat.
+
+A police officer has gone to investigate the complaint lodged with the District Judge Akmeemana police regarding the incident.. The wife of the district judge who saw the police officer is shocked.
 
 ...
 
 [Data](articles/d48df456.json)
+
+[Extended Data](ext_articles/d48df456.ext.json)
+
+---
+
+### மலைநாட்டு எழுச்சி பத்தாண்டு திட்டத்தின் கீழ் 12 மாவட்டங்களில் 10,765 திட்டங்கள்
+
+*2024-04-17 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181287) · `ta`
+
+பல்நோக்கு கிராமிய மற்றும் சமூக அபிவிருத்தி திட்டத்தின் கீழ் இவ்வருடத்தின் முதல் காலாண்டு இறுதிக்குள் 10,765 திட்டங்கள் நடைமுறைப்படுத்தப்பட்டுள்ளதாக நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+
+இத்திட்டத்திற்காக தெரிவு செய்யப்பட்ட 12 மாவட்டங்களில் விடுவிக்கப்பட்டுள்ள தொகை 4,109.20 மில்லியன் ரூபாவாகும்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் ஆலோசனையின் பிரகாரம் இந்த வருட வரவு செலவு திட்டத்தில் மலைநாட்டு எழுச்சி பத்தாண்டு பத்து வருட பல்நோக்கு கிராமிய மற்றும் சமூக அபிவிருத்தி வேலைத்திட்டத்திற்கு ஒதுக்கப்பட்டுள்ள தொகை 10,000 மில்லியன் ரூபாவாகும். களுத்துறை, கண்டி, மாத்தளை, நுவரெலியா, காலி, மாத்தறை, குருநாகல், அம்பாறை ஆகிய மாவட்டங்களில் இந்த அபிவிருத்தித் திட்டம் செயற்படுத்தப்படுகிறது.
+
+முதல் காலாண்டில் 09 மாவட்டங்களுக்கு இத்  திட்டங்களுக்கு ஒதுக்கீடு செய்யப்பட்டுள்ளதுடன், இம்மாதத்தில் இரத்தினபுரி, கேகாலை மற்றும் பதுளை ஆகிய மாவட்டங்களுக்கும் ஒதுக்கீடுகள் வழங்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/58ce4ede.json)
 
 ---
 
@@ -129,6 +195,22 @@ Fort Magistrate’s Court also rejected a writ petition looking to prevent their
 [Data](articles/c27f1a81.json)
 
 [Extended Data](ext_articles/c27f1a81.ext.json)
+
+---
+
+### වසර ආරම්භයේ චීනයේ දළ දේශීය නිෂ්පාදිතයේ කැපීපෙනෙන වර්ධනයක්
+
+*2024-04-17 12:06:26* · [`adalk`](https://www.ada.lk/breaking_news/වසර-ආරම්භයේ-චීනයේ-දළ-දේශීය-නිෂ්පාදිතයේ-කැපීපෙනෙන-වර්ධනයක්/11-409120) · `si`
+
+2024 වසරේ පළමු කාර්තුවේ චීනයේ දළ දේශීය නිෂ්පාදිතය චීන යුවාන් බිලියන 29,629.9 ක් ලෙස වාර්තා වේ. එය පසුගිය වසරට සාපේක්ෂව 5.3% ක වර්ධනයක් බව චීන ජාතික සංඛ්‍යාලේඛන කාර්යාංශය නවතම දත්ත වාර්තා නිකුත් කරමින්පැවසීය.
+
+චීනයේ කෘෂිකාර්මික නිෂ්පාදන යහපත් තත්ත්වයේ පවතින අතර, කාර්මික නිෂ්පාදන අංශය ද වේගයෙන් වර්ධනය වෙමින් පවතී. රටේ වෙළඳපොළ විකුණුම් ද ස්ථාවර ලෙස වර්ධනය වන බව එම සංඛ්‍යාලේඛනයන් හි සඳහන් ය. ස්ථාවර වත්කම් ආයෝජන ක්‍රමයෙන් ඉහළ යමින් පවතී. භාණ්ඩ ආනයනය හා අපනයනය ද ස්ථාවර වර්ධනයක් පෙන්නුම් කරන අතර,  රැකියා තත්ත්වය ද ස්ථාවර වී තිබේ. ජනතාවගේ ආදායම ද ක්‍රමයෙන් වර්ධනය වී ඇත.
+
+මේ කාලය තුළ සමස්තයක් වශයෙන් ජාතික ආර්ථිකයේ ධනාත්මක සාධක තහවුරු වී ඇති අතර, එය වාර්ෂික ඉලක්ක සාක්ෂාත් කර ගැනීම සඳහා මනා පදනමක් සකසා ඇතැයි ද චීන ජාතික සංඛ්‍යාලේඛන කාර්යාංශය පෙන්වාදෙයි.
+
+◼️
+
+[Data](articles/6b60aabe.json)
 
 ---
 
@@ -2129,101 +2211,5 @@ The Controller of the Department of Immigration and Emigration, ISHJ Ilukpitiya,
 [Data](articles/5c6d086d.json)
 
 [Extended Data](ext_articles/5c6d086d.ext.json)
-
----
-
-### 2024-04-16 (Tuesday)
-
-### Olympic flame loaded at ancient Olympia
-
-*2024-04-16 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181263) · `ta`
-
-The Olympic flame was lit in ancient Olympia, Greece, 100 days after the Paris 2024 Games. It was ignited by a mirror reflecting the sun, a practice dating back to 776 BC. American singer Joyce Didonato sang the anthem, and the flame, symbolizing peace and confidence, will travel across Greece before reaching Paris for the Games, starting July 26 and ending August 11.
-
-🟩
-
-The Olympic flame was lit on Tuesday (16) at the ancient Olympia of Greece, Greece, which is still 100 days after the Paris 2024 Olympic Games.
-
-The Olympic flame was mounted from the sun, with a mirror of a mirror by actress who dressed like ancient female priests.
-
-This practice, which began in the Olympia, the birthplace of the ancient Olympic in 776 before Christ, has been practiced for centuries.
-
-At the beginning of the event, American singer Joyce Didonato sang the Olympic anthem.
-
-The Greek Olympic Group Chairman Ketarina Chicellaropavlu, International Olympic Group Chairman Thomas Pech, French Olympic Group Chairman and International Olympic Group Member David Lapotion, French Sports Minister, Olympic and Paralympic Minister Amelee Olippu Gesthea flame.
-
-The Olympic Flame, which reflects peace and confidence, will travel across Greece before being taken to France where the Olympic Games will be held. The Olympic Flame will also be attended by the French state's jurisdiction abroad.
-
-...
-
-[Data](articles/62e06763.json)
-
-[Extended Data](ext_articles/62e06763.ext.json)
-
----
-
-### Dubai International Airport operations temporarily suspended; dozens of flights cancelled
-
-*2024-04-16 23:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98674/dubai-international-airport-operations-temporarily-suspended-dozens-of-flights-cancelled) · `en`
-
-Heavy rains and flooding persisted at Dubai International Airport (DXB), causing disruptions late into Tuesday evening. Operations halted for 25 mins in the afternoon, with 45 flights cancelled by 5:15 pm, a DXB spokesperson told Gulf News.
-
-“Due to the intense storm, operations were temporarily suspended for 25 minutes this afternoon, but have since recommenced, and are now in recovery mode,” the airport said in a statement.
-
-“A total of 21 outbound and 24 inbound flights have been cancelled since 12.02 am this morning, and 3 flights were diverted to other neighbouring airports,” the spokesperson said
-
-According to airline activity tracker flightradar24, Dubai International Airport arrivals showed an average disruption time of 74 minutes while departures were delayed by 85 minutes. Meanwhile, Zayed International Airport in Abu Dhabi arrivals were delayed by 45 minutes and departures were delayed by 55 minutes.
-
-...
-
-[Data](articles/69c80eeb.json)
-
-[Extended Data](ext_articles/69c80eeb.ext.json)
-
----
-
-### Advance Passenger Information could do wonders tracking drug smugglers – border agencies
-
-*2024-04-16 23:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Advance-Passenger-Information-could-do-wonders-tracking-drug-smugglers-border-agencies/108-280792) · `en`
-
-Colombo, April 16 (Daily Mirror) - The border surveillance agents will have to rely on traditional methods that enabled the recent arrest of a female Madagascar national with swallowed cocaine worth over Rs.34 million, whereas an Advance Passenger Information system at airport could do wonders in tracking down drug smugglers, the Daily Mirror learns.
-
-This came to light when the Customs officials intercepted a female Madagascar national arriving in Sri Lanka during Avurudu holidays and trying to smuggle in over 800grams of cocaine by carrying them in her abdomen.
-
-The officials have made the detection relying solely on the traditional methods of tracking down drug smugglers when a leading airport in the region like the Bandaranaike International Airport (BIA) should be equipped with an API system like any other international airport.
-
-...
-
-[Data](articles/a8b280a3.json)
-
-[Extended Data](ext_articles/a8b280a3.ext.json)
-
----
-
-### Minister Douglas Dharma Fairy
-
-*2024-04-16 23:15:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-டக்ளஸ்-தர்ம-தேவதை/175-336008) · `ta`
-
-Minister Douglas Devananda, Vice Chancellor of Jaffna University, praised the university's efforts for Tamil people and the country. He highlighted the 10th anniversary of the Jaffna University Democratic Employees Union event, emphasizing compassion, education, and livelihood improvements.
-
-🟩
-
-Minister Douglas Devananda, the Vice Chancellor of the University of Jaffna, said that the efforts of the Jaffna University, Professor Siri Parangarajah - The efforts of the Minister of Jaffna, have been beneficial to the Tamil people and the country.
-
-He was speaking as a special guest at today's event organized by the Jaffna University Democratic Employees Union to highlight the 10th anniversary of the event.
-
-Minister Douglas Devananda recalled what his actions were during his time as a youth and further said - "
-
-He has been very compassionate about how to know the need for the people and how to use their future, their future and their economy.
-
-In addition, the Tamil people's education has succeeded in breaking various efforts to further enhance the obstacles, despite the obstacles.
-
-As a result of this, the Kilinochchi science moves and the Jaffna University's Engineering Faculty.
-
-...
-
-[Data](articles/d0110f0e.json)
-
-[Extended Data](ext_articles/d0110f0e.ext.json)
 
 ---

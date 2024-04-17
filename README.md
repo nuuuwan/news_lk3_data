@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 19:04:20**
+As of **2024-04-17 19:18:11**
 
 ## Newspaper Stats
 
-*Scraped **19,376** Articles*
+*Scraped **19,378** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,33 @@ economynextcom | 1,084
 adalk | 1,616
 tamilmirrorlk | 2,261
 adaderanalk | 2,329
-virakesarilk | 2,893
-dailymirrorlk | 2,988
+virakesarilk | 2,894
+dailymirrorlk | 2,989
 adaderanasinhalalk | 3,157
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,376 (100.0%) of 19,376 articles have been extended.
+19,376 (100.0%) of 19,378 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### கடன் மறுசீரமைப்பு பேச்சுவார்த்தை : உடன்பாட்டுக்காக தொடரும் கலந்துரையாடல் - ஷெஹான் சேமசிங்க
+
+*2024-04-17 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181332) · `ta`
+
+சர்வதேச இறையாண்மை பிணைமுறி பத்திரங்களை மறுசீரமைப்பது தொடர்பாக பத்திர உரிமையாளர்களுடன் உடன்பாடு எட்டப்படுவதற்காக தொடர்ந்து கலந்துரையாடல்களை மேற்கொள்ள எதிர்பார்க்கப்படுவதாக நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்தார்.
+
+கடன் மறுசீரமைப்பு பேச்சுவார்த்தையில் இலங்கை அதிகாரிகள் நல்லெண்ணத்துடன் இணைந்து கொள்வார்கள் என்றும், இலங்கை அதிகாரிகள் அனைவரையும் நியாயமாக கையாள்வதற்கும் அத்தகைய பேச்சுவார்த்தைகளில் எதிர்பார்க்கப்படும் அதிகபட்ச வெளிப்படைத்தன்மையை உருவாக்குவதற்கும் பணியாற்றுவார்கள் என்றும் இராஜாங்க அமைச்சர் மேலும் கூறுகிறார்.
+
+◼️
+
+[Data](articles/88e84c24.json)
+
+---
 
 ### Can a nurse make this crime like this?
 
@@ -663,6 +677,24 @@ Reliable sources told the Daily Mirror that under this Indian housing grant, tho
 [Data](articles/456b24f3.json)
 
 [Extended Data](ext_articles/456b24f3.ext.json)
+
+---
+
+### Plantation community alleges presence of ’scam’ behind Indian Housing project, CWC faces heat
+
+*2024-04-17 15:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Plantation-community-alleges-presence-of-scam-behind-Indian-Housing-project-CWC-faces-heat/155-280843) · `en`
+
+The Ceylon Workers Congress (CWC) is presently facing the heat as allegations have surfaced that the party is forcing Estate Superintendents within the estate community to select members loyal to the CWC as beneficiaries for an Indian grant which gives houses funded by the Indian government.
+
+Reliable sources told the Daily Mirror that under this Indian housing grant, those individuals who have left the estates, those who already have houses and reside in the estates, but work for other private entities are not eligible for these houses.
+
+"But sources linked to the project said they have come under tremendous pressure from the CWC to give houses to individuals falling into these categories; which is not the requirement of the Indian Government.
+
+"What we were told by the Indian High Commission offices is to select the most suitable beneficiaries, but not to do it based on affiliation to any trade union," sources said.
+
+...
+
+[Data](articles/63704ed1.json)
 
 ---
 
@@ -2303,43 +2335,5 @@ The ambassador said that all Sri Lankans who have been freedom have been freedom
 [Data](articles/92c8f1c5.json)
 
 [Extended Data](ext_articles/92c8f1c5.ext.json)
-
----
-
-### Lankan students to shine on global stage with robotics innovations
-
-*2024-04-17 08:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lankan-students-to-shine-on-global-stage-with-robotics-innovations/108-280793) · `en`
-
-Six students from the Burhani Serendib School in Colombo have qualified to take part in a prestigious global robotics competition, marking the first time Sri Lankan schoolchildren have qualified for this particular competition.
-
-Known as the International Creativity and Innovation Award (ICIA), the competition celebrates the most inventive young minds globally and will see the Sri Lankan students showcase their talents later this month in Thailand.
-
-The ICIA is not just a competition but a comprehensive learning platform that promotes creativity and innovation among youth. This initiative aligns with the World Creativity and Innovation Day, an event endorsed by the United Nations to foster inventive thinking worldwide.
-
-...
-
-[Data](articles/45309ac1.json)
-
-[Extended Data](ext_articles/45309ac1.ext.json)
-
----
-
-### Excise officer arrested for distorting ‘New Year’ song and sharing on social media
-
-*2024-04-17 07:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98676/excise-officer-arrested-for-distorting-new-year-song-and-sharing-on-social-media) · `en`
-
-A 31-year-old from Wariyapola has been arrested for allegedly singing a distorted version of the popular New Year song ‘Soorya Mangalya’ by Rohana Beddage and sharing it on social media, police said.
-
-The arrested individual is said to be an Excise Officer who is residing of the Thalathuoya area.
-
-The North Western Province Unit of the Computer Crime Investigation Division had launched an investigation into the matter based on a complaint received by the IGP alleging that the song in question, which is frequently aired during the Sinhala and Tamil New Year, had been distorted and shared on social media.
-
-Accordingly, the 31-year-old suspect was arrested yesterday (16) at the North Western Province Unit’s Wariyapola offices and is to be produced at the Kuliyapitiya Magistrate’s Court today (17).
-
-◼️
-
-[Data](articles/8de8004d.json)
-
-[Extended Data](ext_articles/8de8004d.ext.json)
 
 ---

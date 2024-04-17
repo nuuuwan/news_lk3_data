@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 01:03:28**
+As of **2024-04-18 01:18:30**
 
 ## Newspaper Stats
 
-*Scraped **19,432** Articles*
+*Scraped **19,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,56 @@ bbccomsinhala | 205
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,038
-dailyftlk | 1,062
+dailyftlk | 1,064
 economynextcom | 1,099
 adalk | 1,620
 tamilmirrorlk | 2,264
 adaderanalk | 2,333
 virakesarilk | 2,901
-dailymirrorlk | 3,000
+dailymirrorlk | 3,001
 adaderanasinhalalk | 3,164
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,430 (100.0%) of 19,432 articles have been extended.
+19,432 (100.0%) of 19,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### Role of governance and importance of eradication of corruption in attracting forex inflows
+
+*2024-04-18 01:06:08* · [`dailyftlk`](https://www.ft.lk/columns/Role-of-governance-and-importance-of-eradication-of-corruption-in-attracting-forex-inflows/4-760740) · `en`
+
+Corruption and investment have been synonymous in Sri Lanka for decades as investments paved the way for corrupt politicians and their close associates to embezzle public funds with ease. In a country where the term “governance” was used as a shield to cover corruption, hardly any room was left for transparency to play a role.
+
+It was no surprise for the country to be labelled as bankrupt by lenders, resulting from its inability to repay the debt. The way Sri Lankan politicians, their rogue business associates who spend lavishly for elections and high officials misused the public’s trust and the lack of financial discipline, fuelled by corruption paved the way for the public uprising in 2022. Even though former politicians have recently become authors to explain why they were chased away by people, in the eyes of the public, politicians were long regarded as looters of citizens’ future, particularly the future of children and the youth.
+
+...
+
+[Data](articles/1fa64666.json)
+
+---
+
+### Chamari Athapaththu’s record 195* levels ODI series against SA-W
+
+*2024-04-18 00:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chamari-Athapaththus-record-195-levels-ODI-series-against-SA-W/108-280880) · `en`
+
+Sri Lanka women's captain Chamari Athapaththu made history by registering the 3rd highest individual women's ODI score of 195* off 139 balls. Her stellar performance led Sri Lanka women's team to victory against South Africa Women, in the 3rd ODI leveling the 3-match ODI series 1-1.
+
+In the first innings, South Africa Women scored 301/5 in 50.0 overs, with Laura Wolvaardt scoring 184 (147) and Marizanne Kapp contributing 36 (34). Sri Lanka's Kavisha Dilhari took 2 wickets for 47 runs, while Athapaththu took 1 wicket for 59 runs.
+
+In response, Sri Lanka Women chased down the target, scoring 305/4 in 44.3 overs. Athapaththu's phenomenal innings of 195* was complemented by Nilakshi de Silva's 50 (71). Ayabonga Khaka took 2 wickets for 54 runs for South Africa, and Nadine de Klerk took 1 wicket for 59 runs.
+
+Athapaththu's 195 is also the highest individual women's ODI score for Sri Lanka.
+
+◼️
+
+[Data](articles/9204f2b7.json)
+
+---
 
 ### Sri Lanka's best in Asian boxing under 22 years of age
 
@@ -212,6 +244,8 @@ You have on many occasions in the recent past, publicly pronounced before differ
 
 [Data](articles/351b9298.json)
 
+[Extended Data](ext_articles/351b9298.ext.json)
+
 ---
 
 ### Blessed Sri Lankan Gamini
@@ -254,6 +288,22 @@ He said the process of declaring Easter Sunday victims as martyrs will begin on 
 
 ---
 
+### Centrist suicide: Probable extinction, possible survival of SLFP and SLPP
+
+*2024-04-17 22:25:59* · [`dailyftlk`](https://www.ft.lk/columns/Centrist-suicide-Probable-extinction-possible-survival-of-SLFP-and-SLPP/4-760717) · `en`
+
+Every stable democracy needs a political and ideological centre. In Ceylon/Sri Lanka, the political Centre as distinct from the Right and Left was always identified with the Sri Lanka Freedom Party (SLFP) founded by SWRD Bandaranaike.
+
+When he crossed the floor in Parliament in 1951, leaving DS Senanayake’s UNP government he was followed by only one MP, DA Rajapaksa, Mahinda’s father.
+
+When the SLFP or a faction of it shifted Right and went into alliance with Ranil Wickremesinghe’s UNP in 2005, Mahinda continued the centrist tradition (which he sincerely thought to be ‘left’). The SLFP’s successor party the SLPP, founded with Mahinda as leader, continued the centrist tradition, however distorted and wayward, until Gotabaya’s nomination in 2019.
+
+...
+
+[Data](articles/0ad5cec0.json)
+
+---
+
 ### A flare up in the Middle East
 
 *2024-04-17 22:04:16* · [`dailyftlk`](https://www.ft.lk/opinion/A-flare-up-in-the-Middle-East/14-760715) · `en`
@@ -271,6 +321,8 @@ Just like the electronic camera, it was the US that manufactured the first elect
 ...
 
 [Data](articles/b2b62303.json)
+
+[Extended Data](ext_articles/b2b62303.ext.json)
 
 ---
 
@@ -2171,75 +2223,5 @@ A police officer has gone to investigate the complaint lodged with the District 
 [Data](articles/d48df456.json)
 
 [Extended Data](ext_articles/d48df456.ext.json)
-
----
-
-### 10,765 projects in 12 districts under the Mountain Rise Scheme
-
-*2024-04-17 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181287) · `ta`
-
-Under the Mountain Rise Scheme, 10,765 projects worth 4,109.20 million rupees have been implemented in 12 districts, with the first quarter allocated to Ratnapura, Kegalle, and Badulla. The Decaded Decades Program in Kegalle has 2545 projects, with significant numbers in Kandy, Matale, Nuwara Eliya, Galle, Matara, Kurunegala, Ratnapura, and Badulla. Special projects are also being implemented in Kalutara, Kandy, Ampara, and Nuwara Eliya.
-
-🟩
-
-Urban Development and Housing Minister Prasanna Ranatunga said that 10,765 projects have been implemented by the end of the year under the Multipurpose Rural and Social Development Program.
-
-4,109.20 million released in 12 selected districts for this project.
-
-On the advice of President Ranil Wickremesinghe, this year's budget is 10,000 million rupees allocated to the Ten Year Ten Year Multipurpose Rural and Social Development Program.. The development project is being implemented in the districts of Kalutara, Kandy, Matale, Nuwara Eliya, Galle, Matara, Kurunegala and Ampara.
-
-The first quarter has been allocated for these projects and allocated to the districts of Ratnapura, Kegalle and Badulla this month.
-
-...
-
-[Data](articles/58ce4ede.json)
-
-[Extended Data](ext_articles/58ce4ede.ext.json)
-
----
-
-### Importers of hydroflookaban importers are compulsory
-
-*2024-04-17 12:33:21* · [`adalk`](https://www.ada.lk/breaking_news/හයිඩ්‍රොෆ්ලෝරෝකාබන්-ආනයනය-කරන්නන්-ලියාපදිංචිය-අනිවාර්ය-වෙයි/11-409123) · `si`
-
-Importers of Hydrofluorocarbon (HFC) must register with the Ministry of Environment, starting May 7, to limit consumption and protect the ozone layer.
-
-🟩
-
-The Ministry of Environment states that the importers of Hydroflookaban (HFCS) must be registered with the Environmental Ministry.
-
-Accordingly, the importation of Hydroflookban (HFCS) is for no matter any registration or individuals.
-
-The Hydroflookaban (HFCS) is used for air conditioning and refrigerators.
-
-Since 1989, the new program will be implemented to limit the consumption of Hydroflookaban (HFCS) to limit the consumption of Hydrofluorookaban (HFCS) from the Montreal Alliance and systematic reduction in the ozone layer.
-
-The Hydroflookaban (HFCS) is determined by a fixed-based value that uses the maximum limit for consumption.
-
-Accordingly, the Ministry of Environment will be distributed among the industrialized business establishments and individuals from this year from this year.
-
-Accordingly, the institutions and individuals who are willing to obtain the annual quota should be registered with the Ministry of Environment.
-
-...
-
-[Data](articles/eacf79cc.json)
-
-[Extended Data](ext_articles/eacf79cc.ext.json)
-
----
-
-### Fifteen Sri Lankan fishermen imprisoned in Myanmar granted amnesty
-
-*2024-04-17 12:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fifteen-Sri-Lankan-fishermen-imprisoned-in-Myanmar-granted-amnesty/108-280839) · `en`
-
-Colombo, April 17 (Daily Mirror)- The fifteen Sri Lankan fishermen who were imprisoned in Myanmar last December were granted amnesty, Sri Lankan Ambassador in Myanmar Janaka Bandara said.
-
-They were arrested along with two fishing vessels for violating Myanmar's maritime boundaries and engaging in fishing activities.
-
-◼️
-
-[Data](articles/5f6b49a2.json)
-
-[Extended Data](ext_articles/5f6b49a2.ext.json)
 
 ---

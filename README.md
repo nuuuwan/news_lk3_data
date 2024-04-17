@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 18:10:37**
+As of **2024-04-17 18:22:06**
 
 ## Newspaper Stats
 
-*Scraped **19,369** Articles*
+*Scraped **19,371** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,76 @@ dailyftlk | 1,059
 economynextcom | 1,084
 adalk | 1,613
 tamilmirrorlk | 2,261
-adaderanalk | 2,328
+adaderanalk | 2,329
 virakesarilk | 2,893
 dailymirrorlk | 2,987
-adaderanasinhalalk | 3,155
+adaderanasinhalalk | 3,156
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,368 (100.0%) of 19,369 articles have been extended.
+19,369 (100.0%) of 19,371 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### சர்வதேச கடன் வழங்னர்களுடனான இணக்கப்பாட்டு ஒப்பந்தங்களில் அரசாங்கம் வெளிப்படைத் தன்மையைப் பேண வேண்டும் - கலாநிதி ஹர்ஷ டி சில்வா வலியுறுத்தல்
+### Sri Lanka hoping to continue talks with bondholders after consulting IMF
+
+*2024-04-17 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98688/sri-lanka-hoping-to-continue-talks-with-bondholders-after-consulting-imf) · `en`
+
+The Government of Sri Lanka says it hopes to continue discussions with the bondholders with a view to reaching common ground ahead of the International Monetary Fund (IMF) board consideration of the second review of Sri Lanka’s Extended Fund Facility (EFF) program.
+
+The Finance Ministry, yesterday, issued a statement announcing that the government has concluded the initial restricted discussions with nine members of the Steering Committee of the Ad Hoc Group of Bondholders regarding its international sovereign bonds (ISBs).
+
+The Steering Committee as a whole comprises ten of the largest members of the Group, with the Group controlling approximately 50% of the aggregate outstanding amount of ISBs.
+
+...
+
+[Data](articles/82899d61.json)
+
+---
+
+### The government should maintain transparency in compliance agreements with international creditors - Dr. Harsha de Silva emphasizes
 
 *2024-04-17 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181323) · `ta`
 
-பொருளாதார வளர்ச்சி வேகத்துக்கமைய கடன் மறுசீரமைப்பை மேற்கொள்வதற்கு அரசாங்கம் இணக்கம் தெரிவித்துள்ளதாகவே தெரிகிறது. ஆனால் அது முழுமையாக அவ்வாறு இடம்பெறத் தேவையில்லை என்று நாம் எண்ணுகின்றோம். எவ்வாறிருப்பினும் சர்வதேச கடன் வழங்னர்களுடன் எட்டப்படும் இணக்கப்பாட்டு ஒப்பந்தங்களில் அரசாங்கம் வெளிப்படைத் தன்மையைப் பேண வேண்டும் என்று ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+Dr. Harsha de Silva urges transparency in debt restructuring agreements with international creditors, emphasizing the need for long-term compliance beyond the current government's term.
 
-கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் புதன்கிழமை (17) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-சர்வதேச கடன் வழங்குனர்களுடனான பேச்சுவார்த்தைகள் நிறைவடைந்துள்ளதாக அரசாங்கம் உத்தியோகபூர்வமாக அறிவித்துள்ளது. ஏப்ரலுக்குள் பேச்சுவார்த்தைகளை நிறைவு செய்து, 12.7 பில்லியன் டொலர் கடன் தொகையை மறுசீரமைப்பதற்கான இணக்கப்பாட்டை எட்டுவதே அரசாங்கத்தின் எதிர்பார்ப்பாகவிருந்தது.
+The government seems to have agreed to carry out debt restructuring in accordance with economic growth. But we think that it does not matter to it fully. However, United People's Power Parliamentarian Dr. Harsha de Silva said the government should maintain transparency in compliance agreements reached with international creditors.
+
+He further stated this at a press conference held at the Opposition Leader's Office in Colombo on Wednesday (17).
+
+The government has officially announced that talks with international credit providers have been completed. The government's expectation was to complete negotiations by April and reach a compliance with the reform of $ 12.7 billion.
+
+Go beyond politics and focus on this. It must be understood that they do it for the people of Sri Lanka, no matter who negotiations. We must act until 2040 in accordance with these negotiations.
 
 ...
 
 [Data](articles/a4ae88af.json)
+
+[Extended Data](ext_articles/a4ae88af.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවේ සූදානම ගැන මුදල් රාජ්‍ය ඇමති කියයි
+
+*2024-04-17 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195729) · `si`
+
+ජාත්‍යන්තර ස්වෛරී බැඳුම්කර ප්‍රතිව්‍යුහගතකරණය සම්බන්ධයෙන් බැඳුම්කරහිමියන් සමග එකඟතාවයකට පැමිණීම සඳහා තවදුරටත් සාකච්ඡා කිරීමට බලාපොරොත්තු වන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+රාජ්‍ය අමාත්‍යවරයා තවදුරටත් පවසන්නේ ණය ප්‍රතිව්‍යුහගතකරණ සාකච්ඡා සඳහා හොඳ විශ්වාසයකින් එක්වන බවත් එහිදී සියල්ලටම සාධාරණ ලෙස කටයුතු කිරීමටත් මෙන්ම එවැනි සාකච්ඡාවලදී බලාපොරොත්තු වන උපරිම විනිවිදභාවය ඇති කිරීමටත් ශ්‍රී ලංකා බලධාරීන් කටයුතු කරන බවත් ය.
+
+ශ්‍රී ලංකාව සහ ජාත්‍යන්තර ස්වෛරී බැඳුම්කරහිමියන්ගේ නියෝජිතයින් සමග පැවති සාකච්ඡාවල ප්‍රගතිය සම්බන්ධයෙන් ඊයේ මුදල් අමාත්‍යංශය නිවේදනයක් නිකුත් කරමින් පැවසුවේ එම සාකච්ඡා එකඟතාවයකින් තොර වූ බවය.
+
+ජාත්‍යන්තර ස්වෛරී බැඳුම්කරහිමියන්ගේ යෝජනා සම්බන්ධයෙන් ජාත්‍යන්තර මූල්‍ය අරමුදල දැනුවත් කර ඔවුන්ගේ උපදෙස් අනුව ඉදිරි සාකච්ඡා සිදුකරන බව ද රාජ්‍ය ඇමතිවරයා පවසයි.
+
+◼️
+
+[Data](articles/dc751096.json)
 
 ---
 
@@ -2269,55 +2311,5 @@ Later, the AT who was attached to the Teacher Training College and became a teac
 [Data](articles/733a0105.json)
 
 [Extended Data](ext_articles/733a0105.ext.json)
-
----
-
-### Excise Officer arrested for distorting, sharing song on social media
-
-*2024-04-17 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Excise-Officer-arrested-for-distorting-sharing-song-on-social-media/108-280813) · `en`
-
-Colombo, April 17 (Daily Mirror) - An Excise officer was arrested in Wariyapola for distorting and sharing the 'Sooriya Mangalya' song on social media.
-
-The Computer Crimes Investigation Division of the CID initiated an inquiry following a complaint to the Inspector General of Police regarding the distortion of this traditional New Year song sung by veteran artist Rohana Beddage with the Ranwala Corps.
-
-The North West Provincial Unit of the Computer Crimes Investigation Division conducted an investigation leading to the arrest of a 31-year-old Excise officer from Talathuoya.
-
-The suspect was handed over to the Wariyapola Police Station and is scheduled to produced before the Kuliyapitiya Magistrate's Court today.
-
-◼️
-
-[Data](articles/d7e7f1ac.json)
-
-[Extended Data](ext_articles/d7e7f1ac.ext.json)
-
----
-
-### Funeral of the late Palitha Thevarapperuma next Friday
-
-*2024-04-17 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195706) · `si`
-
-Palitha Thevarapperuma, a prominent Sri Lankan figure, passed away on 16th. His funeral is scheduled for next Friday at the Family Cemetery. Born in 1960, he served as a Deputy Minister of Home Affairs, Wildlife and Cultural Affairs from 2010 to 2020.
-
-🟩
-
-Family relatives stated that the funeral of the late Palitha Thevarapperuma is due to be held on Saturdays on the Family Cemetery.
-
-Former Deputy Minister Palitha Thevarapperuma was passed away yesterday (16).
-
-A relative of a relativu said that the death of the 64th Trepperuma's death to die.
-
-Born in 1960, Palitha Kumara Tharapperuma was a filtroid character in Sri Lanka.
-
-Palitha Thewarapperuma was also a member of the Western Provincial Council in 2002.
-
-He was a Member of the Kalutara District from 2010 to 2020, as a Deputy Minister of Home Affairs, Wildlife and Cultural Affairs.
-
-Palitha Thevarapperuma was designed while his Susan was alive while he was alive and another title in the country.
-
-◼️
-
-[Data](articles/105696ab.json)
-
-[Extended Data](ext_articles/105696ab.ext.json)
 
 ---

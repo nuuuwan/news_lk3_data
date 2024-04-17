@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 20:03:28**
+As of **2024-04-17 20:18:28**
 
 ## Newspaper Stats
 
-*Scraped **19,398** Articles*
+*Scraped **19,400** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 1,617
 tamilmirrorlk | 2,263
 adaderanalk | 2,330
 virakesarilk | 2,894
-dailymirrorlk | 2,989
-adaderanasinhalalk | 3,158
+dailymirrorlk | 2,990
+adaderanasinhalalk | 3,159
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,398 (100.0%) of 19,398 articles have been extended.
+19,398 (100.0%) of 19,400 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### ගසක් කඩාවැටී ප්‍රධාන මාර්ගයක් අවහිර වෙයි
+
+*2024-04-17 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195733) · `si`
+
+අධික වර්ෂාවත් සමග ප්‍රධාන මාර්ගයකට ගසක් කඩාවැටී ගමනාගමනයට බාධා එල්ලවී තිබේ.
+
+අප වාර්තාකරු සඳහන් කළේ අරණායක - මාවනැල්ල ප්‍රධාන මාර්ගය කප්පාගොඩ ප්‍රදෙශයෙන් මෙලෙස අවහිර වී ඇති බවය.
+
+මේ වනවිට ප්‍රධාන මාර්ගයේ ගමනාගමන කටයුතු සම්පුර්ණයෙන් අවහිර වී ඇති බැවින් මාවනැල්ල සිට අරණායක දෙසට ගමන් ගන්නා සියලු ජනතාවට වැලිගල්ල හරහා උස්සාපිටිය මාර්ගය භාවිත කරන ලෙස මාවනැල්ල පොලීසිය දැනුම්දී ඇති බව අප වාර්තාකරු වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/41a21437.json)
+
+---
+
+### Sri Lanka continues to engage in debt restructuring talks with bondholders
+
+*2024-04-17 19:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-continues-to-engage-in-debt-restructuring-talks-with-bondholders/108-280848) · `en`
+
+Colombo, April 17 - In a bid to address its financial challenges, Sri Lankan authorities will continue to engage in debt restructuring negotiations, demonstrating their commitment to equitable treatment among creditors and transparency within the norms of such negotiations.
+
+According to a recent media release issued by the State Minister of Finance, Shehan Semasinghe, discussions with the Ad Hoc Group of Bondholders, representing holders controlling more than 50% of the bonds, have been progressing positively.
+
+While confidentiality agreements limit the disclosure of specific details, the statement assures stakeholders of the highest possible level of transparency within internationally accepted practices.
+
+...
+
+[Data](articles/adbe3505.json)
+
+---
 
 ### New Year's Journey is a dead body
 
@@ -2239,55 +2271,5 @@ The suspect was arrested and the Gategoda Police have commenced further investig
 [Data](articles/6ce26476.json)
 
 [Extended Data](ext_articles/6ce26476.ext.json)
-
----
-
-### A man who can get more than 50 votes in the northeast should field a presidential election - Gnanamuthu Srinasan
-
-*2024-04-17 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181271) · `ta`
-
-Gnanamuthu Srinasan, a former TNA parliamentarian, emphasizes the need for a presidential candidate who can garner over 50 votes in the Northeast, reflecting the Tamil-speaking people's wishes. He criticizes the lack of solutions to ethnic issues, despite decades of efforts, and calls for Tamil national parties to engage with presidential candidates to seek solutions.
-
-🟩
-
-Former parliamentarian Gnanamuttu Srinasan, a former parliamentarian of the Sri Lanka Tamil National Alliance (TNA), said that a person who can get more than 50 votes in the North and East, which is a person who has the wishes of the Tamil -speaking people in the North and East and the Northeast.
-
-He was speaking at a media briefing held at his residence in Chettipalayam, Batticaloa on Tuesday (16.04.2024).
-
-What solution will the people give through other presidential candidates who say that a Tamil person should not stop the public candidate?Who can do so?Former Parliamentarian of the Batticaloa District of the Sri Lanka Tamil National Party (TNA), Gnanamuthu Srinesan said.
-
-It is expected that the Tamil people should decide properly and relaxed in the upcoming presidential election. Civil community and intellectuals are thinking about how to handle this election. It is also expected that the Tamil nationals parties should handle this election.
-
-...
-
-[Data](articles/79548884.json)
-
-[Extended Data](ext_articles/79548884.ext.json)
-
----
-
-### Keheliya's official vehicles are still in charge
-
-*2024-04-17 09:51:11* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-නිල-රථ-තවමත්-භාර-දි-නෑ/11-409118) · `si`
-
-Keheliya's official vehicles remain unreturned, despite his remand. The Daily Mirror reports that the former Minister of Health's vehicles, a Toyota Padoado and a Mercedes, are still in the Ministry's possession.
-
-🟩
-
-The Daily Mirror has reported that the two official vehicles provided by the former Minister of Health Keheliya Rambukwella.
-
-The official said that the former minister was not returning to the quarters of the Wijerama Mawatha.
-
-If a state officer is in remand custody, all the privileges he has. The official questioned why Mr. Rambukwella is concerned with former Minister Rambukwella.
-
-The official said that the family members of the Minister of Rambukwella who is remanded.
-
-A toyota Padoado and a Mercedes-type vehicle has not been returned to the Ministry.
-
-◼️
-
-[Data](articles/57a5c0a5.json)
-
-[Extended Data](ext_articles/57a5c0a5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 07:41:25**
+As of **2024-04-17 07:54:47**
 
 ## Newspaper Stats
 
-*Scraped **19,255** Articles*
+*Scraped **19,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,99 @@ islandlk | 1,038
 dailyftlk | 1,058
 economynextcom | 1,082
 adalk | 1,600
-tamilmirrorlk | 2,241
-adaderanalk | 2,314
+tamilmirrorlk | 2,244
+adaderanalk | 2,316
 virakesarilk | 2,874
-dailymirrorlk | 2,967
-adaderanasinhalalk | 3,134
+dailymirrorlk | 2,968
+adaderanasinhalalk | 3,135
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,253 (100.0%) of 19,255 articles have been extended.
+19,255 (100.0%) of 19,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### ප්‍රවීණ ගායන ශිල්පියාගේ ගීතයක් විකෘති කළ සුරාබදු නිලධාරියා අත්අඩංගුවට
+### Excise officer arrested for distorting New Year song and sharing on social media
+
+*2024-04-17 07:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98676/excise-officer-arrested-for-distorting-new-year-song-and-sharing-on-social-media) · `en`
+
+A 31-year-old from Wariyapola has been arrested for allegedly singing a distorted version of the ‘Soorya Mangalya’ New Year song by Rohana Beddage and sharing it on social media, police said.
+
+The arrested individual is said to be an Excise Officer who is residing in the Wariyapola area.
+
+◼️
+
+[Data](articles/8de8004d.json)
+
+---
+
+### සංචාරකයින් සඳහා "ඊ වීසා" ක්‍රමය අද සිට
+
+*2024-04-17 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195708) · `si`
+
+සංචාරකයින් සඳහා පමණක් අද (17) සිට "ඊ වීසා"  ක්‍රමවේදය ක්‍රියාත්මක කරන බව ආගමන විගමන දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/b3d8ba5a.json)
+
+---
+
+### Fairly heavy showers expected in several provinces
+
+*2024-04-17 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98675/fairly-heavy-showers-expected-in-several-provinces) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, North-western and Uva provinces and in Galle and Matara districts after 2.00 p.m.
+
+Fairly heavy showers about 50mm are likely at some places in Western, Sabaragamuwa and North-western provinces, it said.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/1887fa96.json)
+
+---
+
+### SL-bondholders talks on restructuring terms fail
+
+*2024-04-17 07:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-bondholders-talks-on-restructuring-terms-fail/108-280811) · `en`
+
+Colombo, April 17 (Daily Mirror) - Government officials continued to sound upbeat in striking a deal with the bondholders, however, authorities this week failed to reach a consensus regarding the terms of restructuring.
+
+Despite “constructive discussions”, authorities and the bondholders did not agree on restructuring terms, Sri Lanka said in a regulatory filing to the London Stock Exchange.
+
+The restructuring of the debt, amounting to over US$ 12 billion, is a mandatory requirement set by the International Monetary Fund (IMF) for the island nation to continue in its efforts to come out of the debt crisis.
+
+According to the filing, Sri Lanka rejected the ‘Macro-Linked Bond’ (MLB) proposal as it still had concerns, whereas the members of the Steering Committee articulated the reasons why they believed the terms of their MLB proposal were fair and reasonable.
+
+...
+
+[Data](articles/13ccf020.json)
+
+---
+
+### Excise officer arrested for distorting a veteran singer
 
 *2024-04-17 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195707) · `si`
 
-ප්‍රවීණ ගායන ශිල්පී රෝහණ බැද්දගේ මහතාගේ ගීතයක් විකෘත කළ බවට සැකකෙරෙන සුරාබදු නිලධාරියෙක් අත්අඩංගුවට ගෙන තිබේ.
+An Excise officer was arrested for allegedly selling a song by veteran singer Rohana Beddage.
+
+🟩
+
+An Excise was arrested by an Excise suspected to sell a song of Veteran singer Rohana Beddage.
 
 ◼️
 
 [Data](articles/4184fb1a.json)
+
+[Extended Data](ext_articles/4184fb1a.ext.json)
 
 ---
 
@@ -59,6 +127,8 @@ The suspect was handed over to the Wariyapola Police Station and is scheduled to
 ◼️
 
 [Data](articles/d7e7f1ac.json)
+
+[Extended Data](ext_articles/d7e7f1ac.ext.json)
 
 ---
 
@@ -205,6 +275,58 @@ The Business Committee of Parliament that met on on April 5 decided to have a th
 [Data](articles/d4f2d9bd.json)
 
 [Extended Data](ext_articles/d4f2d9bd.ext.json)
+
+---
+
+### தப்பியோடிய கைதிகள் மீண்டும் கைது
+
+*2024-04-17 06:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தப்பியோடிய-கைதிகள்-மீண்டும்-கைது/175-336014) · `ta`
+
+யாழ். சிறைச்சாலையில் இருந்து வழக்கு விசாரணைக்காக சாவகச்சேரி நீதவான் நீதிமன்றத்திற்கு அழைத்துச் செல்லப்பட்ட கைதிகளில் இருவர் தப்பியோடிய நிலையில், கைது செய்யப்பட்டுள்ளனர்.
+
+திருட்டுக் குற்றச்சாட்டிற்காக ஒரு வருட சிறைத்தண்டனை பெற்று வந்த கைதியும், விளக்கமறியல் கைதி ஒருவருமே நேற்று காலை  தப்பியோடினர்.
+
+உடனடியாக செயற்பட்ட சாவகச்சேரி பொலிஸார், 30 நிமிடங்களுக்குள் இருவரையும் கைது செய்து மீண்டும் நீதிமன்றில் ஆஜர்ப்படுத்தினர்.
+
+இதன்போது, தப்பியோடிய குற்றத்திற்காக இருவருக்கும் தலா 6 மாத சாதரண சிறைத்தண்டனையும், தலா 1500 ரூபா தண்டப்பணமும் விதித்து நீதவான் உத்தரவிட்டார். (a)
+
+◼️
+
+[Data](articles/d343beba.json)
+
+---
+
+### ஜனாதிபதி நுவரெலியாவுக்கு விஜயம்
+
+*2024-04-17 05:46:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நுவரெலியாவுக்கு-விஜயம்/175-336011) · `ta`
+
+நுவரெலியா - கோர்ட் லொட்ஜ் பெருந்தோட்டத்துக்கு ஜனாதிபதி ரணில் விக்ரமசிங்க நேற்று (16) விஜயமொன்றை மேற்கொண்டுள்ளார்.
+
+நுவரெலியாவின் மலைகளை சூழவுள்ள சுற்றுலா வாய்ப்புகள் தொடர்பிலும் இதன்போது அவர் அறிந்துகொண்டதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+இந்த விஜயத்தின் போது தோட்ட மக்கள் எதிர்கொள்ளும் கல்வி, சுகாதார பிரச்சினைகள் குறித்து ஜனாதிபதி அவதானம் செலுத்தியுள்ளார். உயர்தரத்தின் பின்னரான அப்பகுதி பிள்ளைகளின் எதிர்காலம் குறித்தும் ஆராய்ந்தார்.
+
+அதனையடுத்து தோட்ட மக்களின் வீட்டுப் பிரச்சினைகள் குறித்தும் ஜனாதிபதி விசேட கவனம் செலுத்தினார். (a)
+
+◼️
+
+[Data](articles/ef2c6c76.json)
+
+---
+
+### ’ஜனாதிபதி தேர்தலில் போட்டியிடுமாறு சு.க. அழைப்பு’
+
+*2024-04-17 05:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-போட்டியிடுமாறு-சு-க-அழைப்பு/175-336010) · `ta`
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் போட்டியிடுமாறு ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் மத்திய செயற்குழுவின் பெரும்பான்மையான உறுப்பினர்கள் தன்னிடம் கோரிக்கை விடுத்தனர் என நீதி அமைச்சர் கலாநிதி விஜேதாச ராஜபக்ஷ  தெரிவித்தார்.
+
+இதன்படி, ஜனாதிபதி தேர்தலில் போட்டியிடுவது குறித்து அடுத்த சில வாரங்களில் தீர்மானம் எடுப்பதாகவும் அவர் குறிப்பிட்டார்.
+
+நாட்டிலுள்ள எந்தவொரு அரசியல் கட்சியின் மீதும் பொதுமக்களுக்கு நம்பிக்கையில்லை எனவும்  விஜேதாச ராஜபக்ஷ  தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/9d02a685.json)
 
 ---
 
@@ -2039,181 +2161,5 @@ Miguel Qunat (Miguel Cunat), Miguel Qunat, said that Sri Lanka was the founder o
 [Data](articles/342bf19d.json)
 
 [Extended Data](ext_articles/342bf19d.ext.json)
-
----
-
-### Four injured tree injunions
-
-*2024-04-16 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195691) · `si`
-
-Four injured in a tree collapse at Rajaiwela, Gampola during a festival.
-
-🟩
-
-Four were injured in a crash, collapsing the slippery tree collapsing during a festival.
-
-The accident had occurred in general area Rajaiwela, Gampola yesterday (15).
-
-It is said that it has collapsed during the festival of the festival.
-
-Four people were injured in the crash at the time of the sake of the slippery tree.
-
-◼️
-
-[Data](articles/0b0b0a8d.json)
-
-[Extended Data](ext_articles/0b0b0a8d.ext.json)
-
----
-
-### SJB accuses NPP of avoiding calls for Sri Lanka presidential debate
-
-*2024-04-16 16:46:00* · [`economynextcom`](https://economynext.com/sjb-accuses-npp-of-avoiding-calls-for-sri-lanka-presidential-debate-158714/) · `en`
-
-ECONOMYNEXT — The leftist National People’s Power (NPP) is avoiding the main opposition Samagi Jana Balawegaya (SJB)’s call for a debate ahead of Sri Lanka’s upcoming presidential election, the SJB claimed.
-
-SJB MP Harshana Rajakaruna told reporters that when the SJB invited the Janatha Vimukthi Peramuna (JVP)-led NPP for a debate between the economic councils of the two parties, the NPP proposed a debate between the two party leaders instead.
-
-“We’re ready for both. The JVP is avoiding the issue,” said Rajakaruna, accusing the Marxist-Leninist party of obfuscating through various statements.
-
-Neither SJB leader Sajith Premadasa nor NPP leader Anura Kumara Dissanayake can govern alone and each would need a skilled team to implement their policies led by an honest leader, said Rajakaruna.
-
-“The most skilled team is with Premadasa in the SJB,” he said.
-
-The MP once again invited the NPP for whatever debate of their choosing.
-
-...
-
-[Data](articles/0fef7b5a.json)
-
-[Extended Data](ext_articles/0fef7b5a.ext.json)
-
----
-
-### Minister Douglas is the Loose of the Tamil people - the Vice Chancellor of Jaffna
-
-*2024-04-16 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/181245) · `ta`
-
-Minister Douglas Devananda, Jaffna University's Vice Chancellor, praised the Tamil people's democratic struggle and its benefits. He highlighted his compassion for the people, their needs, and future. The Tamil people's education and the Faculty of Engineering at Jaffna University have overcome obstacles. Devananda's political efforts have provided benefits like labor to the people. He encourages solving future problems and appreciates the support of the National Employees Union and the people.
-
-🟩
-
-Minister Douglas Devananda, the Vice Chancellor of the Jaffna University, C. Sirisakkunarasa, said that the Dharma Devananda, the burden of the Tamil people, and the democratic means of the armed struggle, and the democratic means of the Tamil people, have been beneficial to the Tamil people and the country.
-
-He said this while addressing the special event organized by the Jaffna University Democratic Employees Union to highlight the 10th anniversary.
-
-At the time he was a young man, he recalled what his actions were.
-
-Minister Douglas Devananda is different from today's politicians. He is more compassionate for the people to know the need for the people, their future, their economy, or how to use the opportunity.
-
-The Tamil people should love such a person in that way. In addition, the Tamil people's education has succeeded in breaking various efforts to further enhance the obstacles, despite the obstacles.
-
-...
-
-[Data](articles/236aa9a9.json)
-
-[Extended Data](ext_articles/236aa9a9.ext.json)
-
----
-
-### Fire at Nuwara Eliya Lindula Child Care Center
-
-*2024-04-16 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181241) · `ta`
-
-A fire at the Nuwara Eliya Lindula Child Care Center in the Creedweston Calcutta Estate Division, Nuwara Eliya Lindula police division, occurred around 2 am today. The fire affected the children's development center, causing damage to the roof and children's educational materials. The cause is under investigation.
-
-🟩
-
-A fire incident at the Creedweston Calcutta Estate Division, which belongs to the Nuwara Eliya Lindulai police division, took place at around 2 am today (16) at around 2 am.
-
-Lindula police, who are investigating the incident, said that the children who were operating in the Calcutta estate had suffered a sudden fire.
-
-Police are also investigating whether the fire was caused by electricity or whether someone was on fire.
-
-At the same time, the children's development center is found near the people's residential area.
-
-Residents of the neighborhood, who realized the massive light and the smell of smoke at the time of the fire, reported that the fire had been brought under control.
-
-At the same time, the fire has affected the roof part of the children's care center and the books and equipment of children of primary education have caused many fire.
-
-◼️
-
-[Data](articles/e536a5cf.json)
-
-[Extended Data](ext_articles/e536a5cf.ext.json)
-
----
-
-### Police Constable arrested for illegally entering the land and breaking down woman's 14 teeth
-
-*2024-04-16 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181239) · `ta`
-
-A police constable was arrested for illegally entering land, breaking a woman's 14 teeth. The woman, receiving treatment at Anuradhapura Teaching Hospital, had her teeth examined and stretched. The constable was produced at court on the 13th.
-
-🟩
-
-A police constable has been arrested in connection with a fourteenth incident in connection with a fourteen teeth attacked by a resident of the land.
-
-Subsequently, he was produced at the Keppithikollawa Magistrate's Court on the 13th of last month.
-
-According to police sources, the woman was receiving treatment at the Anuradhapura Teaching Hospital and that the dentists were examining him and stretching fourteen teeth in fourteen teeth.
-
-Kapukkollawa police say that a 40 -year -old woman has been arrested on suspicion of a 40 -year -old woman.
-
-◼️
-
-[Data](articles/93b43e1c.json)
-
-[Extended Data](ext_articles/93b43e1c.ext.json)
-
----
-
-### President promises to find out on estate workers' salary
-
-*2024-04-16 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195689) · `si`
-
-President Ranil Wickremesinghe promises to investigate estate workers' salaries, engaging with unions and companies. He addresses concerns over the Cot Lodge Estate, suggesting a compromise on wages and land.
-
-🟩
-
-President Ranil Wickremesinghe says he will look into the daily wage of estate workers.
-
-The President said that companies and the trade unions are looking into the matter.
-
-He was responding to a query meeting on the Cot Lodge Estate owned by the Plantation Company in Nuwara Eliya this morning (16).
-
-"I'm going to ask the Unionus. I think it's good to take what's promised right now. Later about the land ... 2-3 acres of acres. Asked Unions 1500. I think they're ready to give 1000. The other one can take the insint together. I'll ask what happened. "
-
-◼️
-
-[Data](articles/cb3ae643.json)
-
-[Extended Data](ext_articles/cb3ae643.ext.json)
-
----
-
-### Lightning and unusually heavy rain in Pakistan kill at least 39
-
-*2024-04-16 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98665/lightning-and-unusually-heavy-rain-in-pakistan-kill-at-least-39) · `en`
-
-At least 39 people have been killed in Pakistan after days of unusually heavy rains battered the country’s southwest.
-
-Some of those killed were farmers struck by lightning while harvesting wheat, authorities said.
-
-Images online show swathes of farmland engulfed by rainwater. Flash floods have also disrupted power supplies and transportation networks.
-
-Pakistan has experienced an increase in extreme weather events, as it grapples with the impacts of climate change.
-
-In 2022, parts of the country were completely submerged by unprecedented flooding, killing more than 1,700 people and injuring thousands. Millions were left homeless and lacked clean drinking water for months after.
-
-Some of the areas affected by the 2022 floods, including Khyber Pakhtunkhwa and Balochistan, are being impacted again by the recent storms.
-
-With more rain expected in the coming days, Pakistan’s National Disaster Management Authority has also warned of landslides and flash floods.
-
-...
-
-[Data](articles/45479934.json)
-
-[Extended Data](ext_articles/45479934.ext.json)
 
 ---

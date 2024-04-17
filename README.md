@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 14:34:02**
+As of **2024-04-17 14:51:41**
 
 ## Newspaper Stats
 
-*Scraped **19,335** Articles*
+*Scraped **19,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,134 @@ newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,059
 economynextcom | 1,084
-adalk | 1,609
-tamilmirrorlk | 2,257
+adalk | 1,610
+tamilmirrorlk | 2,259
 adaderanalk | 2,324
-virakesarilk | 2,885
+virakesarilk | 2,887
 dailymirrorlk | 2,983
-adaderanasinhalalk | 3,146
+adaderanasinhalalk | 3,147
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,335 (100.0%) of 19,335 articles have been extended.
+19,335 (100.0%) of 19,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### ஆங் சான் சூகிக்கு வீட்டு காவல்
+
+*2024-04-17 14:36:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆங்-சான்-சூகிக்கு-வீட்டு-காவல்/50-336041) · `ta`
+
+தென்கிழக்கு ஆசிய நாடான மியான்மரில் இராணுவ ஆட்சியை எதிர்த்து பல போராட்டங்களை நடத்தியவர் ஆங் சான் சூகி (வயது 78). அமைதிக்கான நோபல் பரிசு பெற்ற இவர் கடந்த 2020-ம் ஆண்டு தேசிய ஜனநாயக கட்சி சார்பில் தேர்தலில் போட்டியிட்டு தலைவராக தேர்ந்தெடுக்கப்பட்டார்.
+
+ஆனால் தேர்தலில் மோசடி செய்ததாக கூறி அடுத்த ஆண்டே இவரது பதவி பறிபோனது. இதனால் அங்கு மீண்டும் இராணுவ ஆட்சி கொண்டு வரப்பட்டது. மேலும் 2½ ஆண்டுகளுக்கு அங்கு அவசர நிலை உத்தரவு பிறப்பிக்கப்பட்டது. இதற்கிடையே ஆங் சான் சூகி உள்பட 100-க்கும் மேற்பட்டோர் கைது செய்யப்பட்டனர்.
+
+இதனையடுத்து ஆங் சான் சூகி மீது இராணுவத்துக்கு எதிரான கிளர்ச்சி, ஊழல் முறைகேடு உள்ளிட்ட பல்வேறு குற்றச்சாட்டுகள் சுமத்தப்பட்டன. இது தொடர்பாக பல வழக்குகள் அந்த நாட்டின் நீதிமன்றத்தில் நிலுவையில் உள்ளது. இவற்றுள் சில வழக்குகளில் அவருக்கு இதுவரை 27 ஆண்டுகள் சிறை தண்டனை விதிக்கப்பட்டு சிறையில் அடைக்கப்பட்டார்.
+
+...
+
+[Data](articles/8e03dc93.json)
+
+---
+
+### நடிகைக்கும் கணவனுக்கும் விளக்கமறியல் நீடிப்பு
+
+*2024-04-17 14:24:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகைக்கும்-கணவனுக்கும்-விளக்கமறியல்-நீடிப்பு/175-336040) · `ta`
+
+கொரியாவில் வேலைவாய்ப்பு பெற்றுத் தருவதாகக் கூறி 30 இலட்சம் ரூபாவை மோசடி செய்தார்கள் என்ற குற்றச்சாட்டில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள பிரபல நடிகை தமிதா அபேரத்ன மற்றும் அவரது கணவரான நெல்லி ஜோன்சன் ஆகியோரை எதிர்வரும் 24 ஆம் திகதி வரை தொடர்ந்து விளக்கமறியலில் வைக்குமாறு கொழும்பு மேலதிக நீதிவான் மஞ்சுள ரத்நாயக்க  புதன்கிழமை (17) உத்தரவிட்டார்.
+
+குற்றப்புலனாய்வு பிரிவினர் நீதிமன்றத்தில் முன்வைத்த விடயங்களை ஆராய்ந்த நீதவான் இவர்களின் விளக்கமறியலை நீடித்து உத்தரவிட்டுள்ளார்.  சந்தேக நபர்கள் தொடர்பான விசாரணைகள் தொடர்ந்து முன்னெடுக்கப்படுவதாகக் குற்றப் புலனாய்வு பிரிவினர் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/8aa0f3a5.json)
+
+---
+
+### අවුරුදු ගීතය විකෘති කළ සැකකරුට අධිකරණය දුන් නියෝගය
+
+*2024-04-17 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195720) · `si`
+
+අවුරුදු ගීතයක් විකෘති කිරීමේ චෝදනාව යටතේ අත්අඩංගුවට ගත් සැකකරු එළැඹෙන 22 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+
+රන්වල බළකාය සමග ප්‍රවීණ ගායන ශිල්පී රෝහණ බැද්දගේ මහතා විසින් ගයනු ලබන අවුරුදු ගීතයක් විකෘති කිරීම සම්බන්ධයෙන් එම සැකකරුට චෝදනා එල්ලවිය.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 31 හැවිරිදි වියේ පසුවන තලාතුඔය ප්‍රදේශයේ පදිංචි සුරාබදු නිලධාරියෙකි.
+
+සැකකරු අද (17) කුලියාපිටිය මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී ඇත.
+
+සිද්ධිය සම්බන්ධයෙන් පරිගණක අපරාධ විමර්ශන කොට්ඨාසයේ වයඹ පළාත් ඒකකය මඟින් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/48d4341f.json)
+
+---
+
+### 35 ஆடுகளை களவாடியவர் கைது ; காவலாளி வைத்தியசாலையில்
+
+*2024-04-17 14:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181295) · `ta`
+
+புதுக்குடியிருப்பு மல்லிகைதீவு பகுதியில் ஆட்டு காவலாளிகளை தாக்கிவிட்டு  ஆடுகளை களவாடிய குற்றச்சாட்டில்  ஒருவர் கைது செய்யப்பட்ட சம்பவம் ஒன்று நேற்று செவ்வாய்க்கிழமை (16) இடம்பெற்றுள்ளது.
+
+முல்லைத்தீவு புதுக்குடியிருப்பு பொலிஸ் பிரிவிற்குட்பட்ட புதுக்குடியிருப்பு 9ஆம் வட்டாரம், மல்லிகைதீவு பகுதியில் ஆட்டு மந்தையில் இருவர் காவல் கடமையில் இருந்த போது திடீரென வந்திறங்கிய குழுவினர்  ஆடுகளை களவாடி செல்ல காவல் கடமையில் இருந்த இருவரையும் தாக்கிவிட்டு 9 இலட்சத்தி முப்பத்தைந்தாயிரம் பெறுமதியான  35 ஆடுகளை கொண்டு சென்றுள்ளனர்.
+
+தாக்குதலுக்கு இலக்கான இருவரில் ஒருவர் 55 வயதுடைய நபர் காயங்களுக்கு உள்ளாகிய நிலையில் புதுக்குடியிருப்பு வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றார்.
+
+இதனையடுத்து குறித்த சம்பவம் தொடர்பில் புதுக்குடியிருப்பு பொலிஸாருக்கு  தெரியபடுத்தியதனையடுத்து  சந்தேகத்தின் பேரில் வற்றாப்பளை பகுதியை சேர்ந்த 32 வயதுடைய குடும்பஸ்தர் ஒருவரை கைது செய்துள்ளதுடன் 15 ஆடுகள் மீட்கப்பட்டு, ஆடுகளை கடத்தி செல்ல பயன்படுத்திய வொலிரோ கப் ரக வாகனமும்  பொலிஸாரால் கைப்பற்றப்பட்டுள்ளளது.
+
+...
+
+[Data](articles/7b629aa9.json)
+
+---
+
+### Theft at the Commissioner of the Nuwara Eliya Election Commission
+
+*2024-04-17 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181284) · `ta`
+
+Nuwara Eliya reported theft of gold, money, and electronics from a private hotel near the Commissioner of the Nuwara Eliya Election Commission. Thieves, who broke into residents' homes on New Year's Day, stole items including laptops and TVs. The incident was discovered when a resident returned home. Police are investigating with the Nuwara Eliya Forensic Police.
+
+🟩
+
+Nuwara Eliya has lodged a complaint at the Nuwara Eliya Police Station that many items such as gold jewelery, money and electronic equipment have been stolen when there is no one in the Commissioner of the Nuwara Eliya Election Commission.
+
+The theft took place in a private hotel provided to civil servants near the Nuwara Eliya - Udappusallawa main road.
+
+Police said that the residents of the private hotel had been stolen by the thieves who broke into their hometowns on the New Year, and had stolen many electronic devices, including gold jewelery, money and laptop and television box.
+
+The theft incident was revealed when he returned to his hometown on Wednesday (17).
+
+It is noteworthy that the Nuwara Eliya Police are conducting further investigations with the help of the Nuwara Eliya Forensic Police in connection with the incident.
+
+◼️
+
+[Data](articles/2888726d.json)
+
+[Extended Data](ext_articles/2888726d.ext.json)
+
+---
+
+### குழந்தை மீது கத்தியை வைத்து மிரட்டி நகை , மோட்டார் சைக்கிள் கொள்ளை
+
+*2024-04-17 13:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/181293) · `ta`
+
+வவுனியா நகரில் மோட்டார் சைக்கில் சென்றவர்களை வழிமறித்து அவர்களின் குழந்தை மீது கத்தியை வைத்து தயாரை மிரட்டி நகைகள் பறித்தமையுடன் அவர்கள் பயணித்த மோட்டார் சைக்கிலையும் அபகரித்துச் சென்றுள்ளனர்.
+
+குறித்த சம்பவம் வவுனியா தெற்கு வலயக்கல்வி பணிமனை முன்பாகவுள்ள கடவுச்சிட்டு அலுவலகத்திற்கு செல்லும் வீதியில் இன்று புதன்கிழமை (17) அதிகாலை இடம்பெற்றுள்ளது
+
+குறித்த பெண்மணி கடவுச்சீட்டு காரியாலத்திற்கு முன்பாக விண்ணப்படிவம் நிரப்பும் தொழிலில் ஈடுபட்டு வருபவர் ஆவார். அவர் இன்றையதினம் அதிகாலை  தனது தொழில் நிமித்தம் வவுனியா தெற்கு வலயக்கல்வி பணிமனை முன்பாகவுள்ள கடவுச்சீட்டு அலுவலகத்திற்கு மோட்டார் சைக்கிளில் தனது குழந்தையுடன் சென்றார்.
+
+இவ்வாறு சென்று கொண்டிருந்தவேளை வீதியில் மறைந்து நின்ற முகமூடியணித்த மூவர் குறித்த மோட்டார் சைக்கிளை வழிமறித்து குழந்தையின் கழுத்தில் கத்தியினை வைத்து மிரட்டி அவர்கள் அணிந்திருந்த நகைகளை அபரித்தமையுடன் அவர்கள் பயணித்த மோட்டார் சைக்கிளையும் அபகரித்துக்கொண்டு அங்கிருந்து தப்பித்து சென்றுள்ளனர்.
+
+...
+
+[Data](articles/44b2a9b7.json)
+
+---
 
 ### US sanctions again against Iran
 
@@ -268,6 +380,24 @@ They were arrested along with two fishing vessels for violating Myanmar's mariti
 
 ---
 
+### පෙම්වතියට සහ පෙම්වතියගේ මවට තියුණු ආයුධයකින් පහරදී පෙම්වතා දිවි නසා ගනියි
+
+*2024-04-17 12:17:10* · [`adalk`](https://www.ada.lk/breaking_news/පෙම්වතියට-සහ-පෙම්වතියගේ-මවට-තියුණු-ආයුධයකින්-පහරදී-පෙම්වතා-දිවි-නසා-ගනියි/11-409121) · `si`
+
+යාපනය ඉලවාලෙයි පොලිස් වසමට අයත් පණිප්පුලම් ප්‍රදේශයේදී මවකට හා දියණියකට තියුණු ආයුධවලින් පහර දී බරපතල තුවාල සිදුකලෙයි යැකකෙරෙුණු තරුණයෙකු එම ප්‍රදේශයේම ගෙලවැලලාගෙන මිය ගොස් සිටියදී ඊයේ (16) දින සිරුර හමු වූ බවට පොලීසිය පැවසීය.
+
+පොලීසිය අදාල ස්ථානයන්ට ගොස් සිදුකරන ලද පරික්ෂණ වලදී හෙලි වී ඇත්තේ සියදිවි හානිකරගත් තරුණයා සහ තියුණු ආයුධයකින් පහරකා තුවාල සිදුවූ තරුණිය පෙම්වතුන්ව සිට ඇති අතර පසුගිය දිනක ඇති වූ ආරවුලක් මත පෙම්වතිය විසින් පෙම්වතා ප්‍රතික්ෂේප කිරීම නිසා මෙම පහරදීම සිදුව ඇති බවටයි.
+
+එහිදී අදාල පෙමවතා විසින් පෙම්වතියගේ නිවසට රහසිගතව ඇතුලුවී නිවසේ සිටි පෙම්වතියට සහ පෙම්වතියගේ මවට තියුණු ආයුධයකින් පහරදී බරපතල කැපුම් තුවාල සිදුකොට පලා‌ ගොස් ඇති බවට පොලීසිය සැකපල කරයි.
+
+එහිදී බරපතල තත්වයේ සිටි තරුණිය සහ ඇගේ මව අසල්වාසීන් විසින් ඒම අවස්ථාවේදීම රෝහලගත කිරීමට පියවර ගෙන ඇති අතර මේ වන විට ඔවුන් යාපනය ශික්ෂණ රෝහලේ දැඩිසත්කාර එඒකකයේ ප්‍රතිකාර ලබමින් සිටිති.
+
+...
+
+[Data](articles/cf23cf42.json)
+
+---
+
 ### Dehiwala Zoo earns Rs. 4.85 million during New Year days
 
 *2024-04-17 12:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dehiwala-Zoo-earns-Rs-4-85-million-during-New-Year-days/108-280837) · `en`
@@ -413,32 +543,6 @@ The Colombo Magistrate's Court has set a carrier to release the delegation in co
 [Data](articles/1b7396d9.json)
 
 [Extended Data](ext_articles/1b7396d9.ext.json)
-
----
-
-### Theft at the Commissioner of the Nuwara Eliya Election Commission
-
-*2024-04-17 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/181284) · `ta`
-
-Nuwara Eliya reported theft of gold, money, and electronics from a private hotel near the Commissioner of the Nuwara Eliya Election Commission. Thieves, who broke into residents' homes on New Year's Day, stole items including laptops and TVs. The incident was discovered when a resident returned home. Police are investigating with the Nuwara Eliya Forensic Police.
-
-🟩
-
-Nuwara Eliya has lodged a complaint at the Nuwara Eliya Police Station that many items such as gold jewelery, money and electronic equipment have been stolen when there is no one in the Commissioner of the Nuwara Eliya Election Commission.
-
-The theft took place in a private hotel provided to civil servants near the Nuwara Eliya - Udappusallawa main road.
-
-Police said that the residents of the private hotel had been stolen by the thieves who broke into their hometowns on the New Year, and had stolen many electronic devices, including gold jewelery, money and laptop and television box.
-
-The theft incident was revealed when he returned to his hometown on Wednesday (17).
-
-It is noteworthy that the Nuwara Eliya Police are conducting further investigations with the help of the Nuwara Eliya Forensic Police in connection with the incident.
-
-◼️
-
-[Data](articles/2888726d.json)
-
-[Extended Data](ext_articles/2888726d.ext.json)
 
 ---
 
@@ -2093,155 +2197,5 @@ The Sri Lanka delegation was led by Foreign Secretary Aruni Wijewardane, and the
 [Data](articles/e6501b46.json)
 
 [Extended Data](ext_articles/e6501b46.ext.json)
-
----
-
-### Inaugural Foreign Office Consultations between Sri Lanka and Kyrgyz Republic
-
-*2024-04-17 02:30:47* · [`dailyftlk`](https://www.ft.lk/news/Inaugural-Foreign-Office-Consultations-between-Sri-Lanka-and-Kyrgyz-Republic/56-760687) · `en`
-
-The inaugural Sri Lanka-Kyrgyz Republic Foreign Office consultations successfully concluded in Bishkek, Kyrgyz Republic on 15 April 2024.
-
-Foreign Secretary of Sri Lanka Aruni Wijewardane and Deputy Minister of Foreign Affairs of the Kyrgyz Republic Avazbek Atakhanov co-chaired the consultations.
-
-The consultations are part of Sri Lanka’s initiative to strengthen bilateral ties with the countries of the Central Asia region.
-
-A Memorandum of Understanding on Bilateral Cooperation was signed between the two Foreign Ministries. Sri Lanka established diplomatic relations with the Kyrgyz Republic in 1996, and this is the first high-level visit to take place between the two countries.
-
-During the official talks, the two sides prioritised expanding economic cooperation, focusing on apparel, gems and jewellery, tea, food and beverages, wellness and ayurvedic products, education services and ICT sectors
-
-...
-
-[Data](articles/89c7c811.json)
-
-[Extended Data](ext_articles/89c7c811.ext.json)
-
----
-
-### Praise for Sri Lanka’s economic recovery at high-level discussions at IMF-World Bank spring meeting
-
-*2024-04-17 02:26:41* · [`dailyftlk`](https://www.ft.lk/business/Praise-for-Sri-Lanka-s-economic-recoveryat-high-level-discussions-at-IMF-World-Bank-spring-meeting/34-760686) · `en`
-
-Semasinghe participating in a discussion with the Business Council for International Understanding (BCIU) in Washington
-
-IMF Deputy Managing Director Kenji Okamura with State Minister Semasinghe, Treasury Secretary Mahinda Siriwardana and Central Bank Governor Dr. Nandalal Weerasinghe
-
-IMF Executive Director for India and Sri Lanka Dr. Krishnamurthy Subramanian with the Sri Lankan delegation
-
-Semasinghe with World Bank Executive Director for Sri Lanka Parameswaran Iyer
-
-A delegation led by the State Minister of Finance Shehan Semasinghe engaged in a series of high-level discussions at the IMF-World Bank spring meeting which began on Monday and received praise for Sri Lanka’s economic reforms and commitment to stability and growth.
-
-In a meeting with the IMF Deputy Managing Director Kenji Okamura, the State Minister highlighted the socio-economic advancements made by Sri Lanka and the sacrifices made to ensure macroeconomic stability.
-
-...
-
-[Data](articles/76c9e8c8.json)
-
-[Extended Data](ext_articles/76c9e8c8.ext.json)
-
----
-
-### Made in Sri Lanka: Mihin in Kuliyapitiya, who was won by All Sri Lanka
-
-*2024-04-17 02:12:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gedqz5rnjo) · `si`
-
-Mihin from Kuliyapitiya, Sri Lanka, won All Sri Lanka with a video head, showcasing his innovation at Saranath College. He secured first place in the All Island School Invention Competition in 2022.
-
-🟩
-
-Nothing here contains no. Video Head, Made in China, Mihin in Kuliyapitiya
-
-Made in Sri Lanka: Mihin in Kuliyapitiya, who was won by All Sri Lanka
-
-All Ceylon is a student from HA Mihin Zoological innovation for Grade 10 at Saranath College, Kuliyapitiya.
-
-In 2022, he has produced a first place in the All Island School Invention Competition in 2022.
-
-The Principal of Saram and the Principal of Saram and the Principal of Saramatath College, "Chaminda College Principal," the child is carrying out the education of the children.
-
-'' The technology I need to create and know the knowledge that I had acquired the knowledge of the child and on the Internet. I have a desire to go on this way and become a citizen of the world. "
-
-◼️
-
-[Data](articles/29820c3f.json)
-
-[Extended Data](ext_articles/29820c3f.ext.json)
-
----
-
-### March PMI indicates faster expansion in economic activities
-
-*2024-04-17 02:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MarchPMI-indicates-faster-expansion-in-economic-activities/108-280807) · `en`
-
-Further strengthening the health of the economy, the Purchasing Managers’ Index (PMI) showed continuous expansion in activities across manufacturing and services sectors, rekindling hopes that the ongoing recovery is going to be durable and solid.
-
-Accordingly, the manufacturing sector PMI recorded an index value of 62.5 in March, from 56.0 index points in February reflecting that the once languishing sector is now expanding at a rapid pace.
-
-In fact March PMI reading is the highest in three years, in a further sign that the economy has unequivocally exited the crisis although some uncertainties remain.
-
-...
-
-[Data](articles/14b725b2.json)
-
-[Extended Data](ext_articles/14b725b2.ext.json)
-
----
-
-### Investment from $ 4 to 4.5 billion
-
-*2024-04-17 01:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/181266) · `ta`
-
-Investment Minister Tilum Amunugama announced that all projects are ready to achieve the $4 to $4.5 billion investment target for this year, despite initial expectations of $1.5 billion. The country secured $1.8 billion in investments, surpassing last year's anticipation. This is due to a significant influx of investments post-IMF deal, overcoming the negative impacts of the previous year.
-
-🟩
-
-Investment Promotion Minister Tilum Amunugama has said that all projects have been prepared to bring the country to $ 4 to 4.5 billion this year.
-
-He said the country was able to get $ 1.8 billion investments, despite the anticipation of an investment of $ 1.5 billion last year.
-
-The Minister of State was speaking to the media on Tuesday (16) in Kandy.
-
-He said that after signing the deal with the International Monetary Fund, the investments are significantly coming into the country with a very monster speed.
-
-He said that due to the negative consequences of the last struggle, the investments have not been expected in the last year, but in the late later, investments have come into the country than expected.
-
-Minister Amunugama added that this year's $ 4.5 billion investment target is likely to be reached.
-
-◼️
-
-[Data](articles/93c01e48.json)
-
-[Extended Data](ext_articles/93c01e48.ext.json)
-
----
-
-### Jose Butler won the 2nd century and won Rajasthan;Kolkata player Sunil Naren's century is wasted
-
-*2024-04-17 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181265) · `ta`
-
-Rajasthan Royals won the IPL match against Kolkata Knight Riders, thanks to Jose Butler's century. Butler's 2nd century this year helped Rajasthan secure victory, despite Sunil Naren's century being wasted.
-
-🟩
-
-Rajasthan Royals won the last ball of Kolkata Knight Riders with the help of Jos Butler's action century in the 31st match of the 17th Indian Premier League chapter held at the Eden Cartz Stadium on Tuesday (16).
-
-With this victory, Rajasthan Royals continue to be the number one in the IPL teams.
-
-Jose Butler, who wasted Virat Kohli's century in the match against Royal Challengers Bangalore a few days ago, was wasting Sunil Naren's century in this match by wasting Sunil Naren's century in this match.
-
-Rajasthan Royals scored 224 runs for the loss of 8 wickets in 20 overs and scored 224 runs.
-
-Yaswvi Jaiswal (19) and team captain Sanju Semsan (12) lost the game with low number. (47 - 2 wig.)
-
-However, Jose Butler and Ryan Barak both temporarily prevented the team's fall in the 3rd wicket.
-
-Ryan Barak lost 14 balls with 34 runs. Rajasthan Royals faced a major crisis with him by 24 runs. (121 - 6 wig.)
-
-...
-
-[Data](articles/6ae746ca.json)
-
-[Extended Data](ext_articles/6ae746ca.ext.json)
 
 ---

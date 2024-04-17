@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 02:50:57**
+As of **2024-04-18 03:03:27**
 
 ## Newspaper Stats
 
-*Scraped **19,444** Articles*
+*Scraped **19,446** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,47 @@ economynextcom | 1,099
 adalk | 1,620
 tamilmirrorlk | 2,264
 adaderanalk | 2,333
-virakesarilk | 2,902
-dailymirrorlk | 3,002
+virakesarilk | 2,903
+dailymirrorlk | 3,003
 adaderanasinhalalk | 3,164
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,444 (100.0%) of 19,444 articles have been extended.
+19,444 (100.0%) of 19,446 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### ஹிருணிகாவுக்கு அழைப்பாணை
+
+*2024-04-18 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181341) · `ta`
+
+முன்னாள் நாடாளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமச்சந்திரவை எதிர்வரும் மே மாதம் 08ஆம் திகதி நீதிமன்றில் முன்னிலையாகுமாறு மேன்முறையீட்டு நீதிமன்றம் அழைப்பாணை விடுத்துள்ளது.
+
+◼️
+
+[Data](articles/672bb2a2.json)
+
+---
+
+### Highest possible level of transparency provided in bondholders talks: Semasinghe
+
+*2024-04-18 02:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Highest-possible-level-of-transparency-provided-in-bondholders-talks-Semasinghe/108-280854) · `en`
+
+Colombo, April 17 (Daily Mirror) - In a bid to set the record straight, State Minister Finance Shehan Semasinghe pointed out that authorities continue to engage all debt restructuring negotiations in good faith, within principles of equitable treatment among creditors, and with maximum transparency within the norms of such negotiations.
+
+Sections of the political and business community yesterday expressed disappointment in the government not being as open as it should be about the discussion on the debt restructuring with the bondholders.
+
+Sri Lanka yesterday officially announced that no agreement was reached with the bondholders in the first round of talks on the restructuring terms.
+
+...
+
+[Data](articles/1765e64b.json)
+
+---
 
 ### Siyambalapitiya assures forwarding Cabinet paper to address unpaid statutory payments for plantation workers
 
@@ -2175,49 +2203,5 @@ The Vavuniya Police Station Criminal Investigation Division is conducting seriou
 [Data](articles/44b2a9b7.json)
 
 [Extended Data](ext_articles/44b2a9b7.ext.json)
-
----
-
-### Sri Lanka’s SJB slams NPP’s ‘debt audit’ proposal, insists restructuring is essential
-
-*2024-04-17 13:43:00* · [`economynextcom`](https://economynext.com/sri-lankas-sjb-slams-npps-debt-audit-proposal-insists-restructuring-is-essential-158853/) · `en`
-
-ECONOMYNEXT — The main opposition the Samagi Jana Balawegaya (SJB) has slammed the leftist National People’s Power (NPP)’s proposal of a ‘debt audit’ prior to the restructuring of Sri Lanka’s international sovereign bonds (ISBs).
-
-Without naming names, SJB parliamentarian Harsha de Silva told reporters on Wednesday April 17 that “some political parties” have proposed a debt audit to ascertain what percentage of Sri Lanka’s debt was misappropriated or hidden away, after which “we’ll pay what we can”.
-
-“Please understand that the global financial market does not work this way. If we took a loan, we have to pay it back. If the money has been stolen, those responsible must be found. That’s a different matter. There is a mechanism to bring such thieves to book.
-
-“But understand that this issue and our agreement with ISB holders are two different matters. The proposals made by some politicians cannot be done. Restructuring this debt is essential,” said de Silva.
-
-...
-
-[Data](articles/c7e523dc.json)
-
-[Extended Data](ext_articles/c7e523dc.ext.json)
-
----
-
-### US sanctions again against Iran
-
-*2024-04-17 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195719) · `si`
-
-The US and EU impose sanctions on Iran following an attack on Israel, with no further sanctions expected. US Treasury Secretary Geneet Yeln and EU Head Joseph Boylle announced the action.
-
-🟩
-
-The US and the European Union say that no further sanctions are expected against Iran.
-
-They decided to impose sanctions on the weekend after the attack on Israel.
-
-United States Treasury Secretary Geneet Yeln said that the arrivals would be expected to take action in the coming days.
-
-The Head of EU, Joseph Boylle, said they were working to impose sanctions against Iran.
-
-◼️
-
-[Data](articles/8904d139.json)
-
-[Extended Data](ext_articles/8904d139.ext.json)
 
 ---

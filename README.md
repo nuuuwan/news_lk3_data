@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 21:34:06**
+As of **2024-04-17 21:53:24**
 
 ## Newspaper Stats
 
-*Scraped **19,411** Articles*
+*Scraped **19,415** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,54 +17,138 @@ dailyftlk | 1,059
 economynextcom | 1,099
 adalk | 1,619
 tamilmirrorlk | 2,263
-adaderanalk | 2,332
+adaderanalk | 2,333
 virakesarilk | 2,898
-dailymirrorlk | 2,991
-adaderanasinhalalk | 3,161
+dailymirrorlk | 2,993
+adaderanasinhalalk | 3,162
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,408 (100.0%) of 19,411 articles have been extended.
+19,411 (100.0%) of 19,415 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### ஓமான் வளைகுடா கடலில் கவிழ்ந்த கப்பலிலிருந்த 21 இலங்கை பணியாளர்கள் காப்பாற்றப்பட்டனர்!
+### Iran rescues 21 Sri Lankan crewmen from sinking ship in Gulf of Oman
+
+*2024-04-17 21:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98691/iran-rescues-21-sri-lankan-crewmen-from-sinking-ship-in-gulf-of-oman) · `en`
+
+Iranian emergency services rescued 21 Sri Lankan crew of a ship that capsized in heavy storms in the Gulf of Oman, state media reported Wednesday.
+
+The Cook Islands-flagged vessel carrying oil went down about 50 kilometres (30 miles) off the southern city of Jask, said the official IRNA news agency.
+
+“A rescue vessel was dispatched to the area and 21 crew were saved,” Mohammad Amin Amani, director of Jask Ports and Maritime Administration, was quoted as saying.
+
+“Five people who needed medical attention” were treated by Jask emergency services “and the physical condition of these sailors is good,” he added.
+
+Torrential rains have battered the Strait of Hormuz, Oman and the United Arab Emirates since Monday, and floods killed at least 18 people in Oman.
+
+◼️
+
+[Data](articles/79fa0947.json)
+
+---
+
+### ඉරානය ශ්‍රී ලාංකිකයන් 21ක් බේරා ගනී
+
+*2024-04-17 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195736) · `si`
+
+ඕමාන් බොක්ක ආසන්න මුහුදේ ගිලී යමින් තිබූ නැවක සිටි ශ්‍රී ලාංකික කාර්යමණ්ඩල‍ සාමාජිකයන් 21 දෙනෙක් ඉරානය විසින් බේරා ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එම වාර්තා වැඩිදුරටත් සඳහන් කරන්නේ අදාළ නෞකාව කුක් දූපත් ධජය යටතේ යාත්‍රා කළ නැවක බවය.
+
+◼️
+
+[Data](articles/94675441.json)
+
+---
+
+### 100 Police personnel trained to target criminal motorbike riders
+
+*2024-04-17 21:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/100-Police-personnel-trained-to-target-criminal-motorbike-riders/108-280852) · `en`
+
+Colombo, April 17 (Daily Mirror) - In response to alarming shootings by criminals, IGP Deshabandu Tennakoon said that a team of 100 police personnel is undergoing training to go after motorbike riders engaging in criminal activities.
+
+He said this team is being trained at the Police Special Task Force (STF) training camp at Katukurunda.
+
+"The team will be trained to respond to incidents involving gunmen committing crimes on motorcycles and take necessary actions against them," he said.
+
+These trained officers will receive special uniforms, 50 specialized motorcycles and firearms and they will commence anti-underworld duties starting May 1st.
+
+Accordingly, four officers will be assigned to each of the 25 selected police stations in the Western Province where crimes are reported the most.
+
+Meanwhile, the IGP said that the underworld and drug trafficking will be eliminated within the next three months.
+
+...
+
+[Data](articles/3f956869.json)
+
+---
+
+### Iran rescues 21 Sri Lankan crewmen from sinking tanker in Gulf of Oman
+
+*2024-04-17 21:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iran-rescues-21-Sri-Lankan-crewmen-from-sinking-tanker-in-Gulf-of-Oman/108-280855) · `en`
+
+Oman, April 17 (Reuters) - Iranian authorities said they rescued 21 Sri Lankan crewmen from a Cook Islands-flagged tanker sinking in the Gulf of Oman, the state news agency IRNA reported today, according to Reuters.
+
+The unnamed tanker suffered damage about 30 miles (50 kilometres) off the coast of Jask in Iran due to a storm, the report said.
+
+Five of the crewmen received medical care from Jask emergency services and were in good physical condition, the report added. It did not say when the rescue took place.
+
+◼️
+
+[Data](articles/1157a5b8.json)
+
+---
+
+### 21 Sri Lankan employees saved on a ship toppling the Oman Gulf
 
 *2024-04-17 21:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181336) · `ta`
 
-ஓமான் வளைகுடா கடலில் கடும் புயலில் சிக்கி கவிழ்ந்த கப்பலின்  காணப்பட்ட 21 இலங்கை பணியாளர்களை ஈரானிய அவசர சேவைகள்  பிரிவு காப்பாற்றியுள்ளதாக அரச ஊடகம் புதன்கிழமை செய்தி வெளியிட்டுள்ளது.
+21 Sri Lankan employees rescued from a shipwreck in the Gulf of Oman by Iranian emergency services.
 
-குக் தீவுகளின் கொடியுடன் எண்ணெய் ஏற்றிச் சென்ற கப்பல் தெற்கு நகரமான ஜாஸ்கில் இருந்து சுமார் 50 கிலோமீட்டர் (30 மைல்) தொலைவில் கவிழ்ந்த்தாக அதிகாரபூர்வ ஐஆர்என்ஏ செய்தி நிறுவனம் தெரிவித்துள்ளது.
+🟩
 
-'ஒரு மீட்புக் கப்பல் அப்பகுதிக்கு அனுப்பப்பட்டது மற்றும் 21 பணியாளர்கள் காப்பாற்றப்பட்டனர்" என்று ஜாஸ்க் துறைமுகங்கள் மற்றும் கடல்சார் நிர்வாகத்தின் இயக்குனர் முகமது அமீன் அமானி தெரிவித்துள்ளார்.
+The Iranian Emergency Services Division has rescued 21 Sri Lankan employees who were found in a severe storm in the Gulf of Oman, state media reported on Wednesday.
+
+The official IRNA news agency said that the ship carrying oil with the flag of the Kook Islands toppled the southern city of Jask, about 50 kilometers (30 miles).
+
+"A rescue ship was sent to the area and 21 employees were rescued," said Mohammed Amin Amani, director of the ports and maritime administration.
 
 ◼️
 
 [Data](articles/829c7799.json)
 
+[Extended Data](ext_articles/829c7799.ext.json)
+
 ---
 
-### රැඳවියෙක් බලන්න ආ පුද්ගලයෙක්ව සැකපිට අත්අඩංගුවට
+### A person arrested for visiting a detainee
 
 *2024-04-17 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195735) · `si`
 
-කොළඹ රිමාන්ඩ් බන්ධනාගාරයේ රඳවා සිටින සැකකරු වෙත ලබාදීමට රැගෙන ආ දන්තාලේප තුළ මත්ද්‍රව්‍ය තිබී සොයාගෙන ඇති බව වාර්තා වෙයි.
+A person visiting a detainee in Colombo Remand Prison was arrested for possessing drugs.
 
-අද (17) දින පස්වරු 01.40ට පමණ කොළඹ රිමාන්ඩ් බන්ධනාගාරයේ රඳවා සිටින සැකකරුවෙකු බැලීම සඳහා පුද්ගලයෙකු පැමිණ තිබුණි.
+🟩
 
-එහිදී සැකකරු වෙත ලබාදීමට ගෙනඑන ලද දන්තාලේප ටියුබයක් තුළ සූක්ෂම ලෙස හෙරොයින් යැයි සැක කළ හැකි පැකට් 01 හා අයිස් මත්ද්‍රව්‍ය යැයි සැක කළ හැකි පැකට් 01ක් සඟවා තිබී සොයාගෙන ඇත.
+It is reported that the drug has found drugs in the detest to the suspect to be handed over to the suspect in the Colombo Remand Prison.
 
-අමුත්තන් සෝදිසි කිරීම් රාජකාරී නියුතු බන්ධනාගාර හදිසි ප්‍රතිචාර උපක්‍රමික බළකා නිලධාරීන් විසින් සැකකරු අත්අඩංගුවට ගෙන ඇත.
+A person had come to see a suspect in the remand prison at the Colombo Remand Prison around 1.40 pm today.
 
-මෙසේ අත්අඩංගුවට ගත් පුද්ගලයා සැකකරුගේ මිතුරෙකු වන අතර, මට්ටක්කුලිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The detestposition used to the suspect has been recovered from a dentately, 1 packet or ice drugs that can be suspected to be metico.
+
+The suspect has been arrested by Prison Emergency Response Trick Patrol Officers.
+
+The suspect is a friend friend friend and is a resident of Mattakkuliya.
 
 ◼️
 
 [Data](articles/8f143172.json)
+
+[Extended Data](ext_articles/8f143172.ext.json)
 
 ---
 
@@ -99,6 +183,8 @@ Read more: Sri Lanka Bonds Fall as Restructuring Talks Need More Time
 ...
 
 [Data](articles/f3947f75.json)
+
+[Extended Data](ext_articles/f3947f75.ext.json)
 
 ---
 
@@ -2169,105 +2255,5 @@ Accordingly, school applicants can obtain permit cards through principals. Perso
 [Data](articles/392e091a.json)
 
 [Extended Data](ext_articles/392e091a.ext.json)
-
----
-
-### Dr. Ariyaratne’s final rites to be held with State Honours
-
-*2024-04-17 11:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dr-Ariyaratnes-final-rites-to-be-held-with-State-Honours/108-280838) · `en`
-
-Colombo, April 17 (Daily Mirror) -  Preparations are underway to bid farewell to late Dr. A.T. Ariyaratne, the founder and President Emeritus of the Sarvodaya Shramadana Movement, with full state honours.
-
-Dr. Ariyaratne, breathed his last on Tuesday (16) at the age of 93, while under medical care at a private hospital in Colombo. In the wake of his demise, President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena and officials of the Sarvodaya convened to coordinate the funeral arrangements.
-
-At the meeting, instructions were issued to ensure that the final rites of Dr. Ariyaratne are conducted with due reverence and respect, with the Secretary to the Ministry of Home Affairs, Public Administration & Provincial Councils, Pradeep Yasaratne tasked with overseeing the arrangements.
-
-...
-
-[Data](articles/235792f4.json)
-
-[Extended Data](ext_articles/235792f4.ext.json)
-
----
-
-### Dubai is submerged - flights
-
-*2024-04-17 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195715) · `si`
-
-Dubai, UAE, flooded severely after 75 years, killing 18 in Oman. Strong winds affected the region. This is the UAE's highest rainfall in 75 years. Dubai's advanced infrastructure, including the Emirates shopping complex and tunnels, was flooded. Dubai International Airport was inundated, forcing Emirates and Fly Dubai to temporarily halt flights. Despite floods, some aircrafts operated.
-
-🟩
-
-After 75 years, there was a severe flooding of the United Arab Emirates, including the UAE.
-
-As a result, 18 people have been killed in the Oman state alone.
-
-A strong winds in the region have been affected by the United Arab Emirates and regional countries.
-
-This is recorded as maximum rainfall recorded by the UAE after 75 years.
-
-With this, the Eeir State, including Dubai, was reported from seven countries.
-
-The streets of Dubai were the most advanced city in the world.
-
-The famous Dubai shopping complex, Emirates shopping complex was inundated until kneeling.
-
-Improved tunnels and roads were flooded with the problems of the functioning of the Emine's Waterian System.
-
-Dubai International Airport, which is considered the most busy airport in the world, was flooded during the floods.
-
-Accordingly, the authorities had to restrict their affairs, and steps were taken to submit a number of other travels to other airport.
-
-Emirates, Fly Dubai have been temporarily stopped operating to Dubai.
-
-...
-
-[Data](articles/fc26cab7.json)
-
-[Extended Data](ext_articles/fc26cab7.ext.json)
-
----
-
-### Ukraine War - Russia has lost 50,000 soldiers so far - BBC
-
-*2024-04-17 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/181276) · `ta`
-
-Russia has lost over 50,000 soldiers in the Ukraine war, with the BBC reporting a 25% increase in body counts over the past 12 years. The Independent Media Group and volunteers have been documenting these figures since 2022.
-
-🟩
-
-The BBC reports that Russia has lost more than 50000 soldiers in the Ukraine war.
-
-In the last 12 months, the number of bBC counted bodies has been 25 percent higher than 12 years.
-
-The Independent Media Group of BBC Russian Mediazona and volunteers have been counting the number of bodies since 2022, according to the BBC's new cemetery, which has predicted the number of soldiers who died in the past 12 months.
-
-BBC Russia has said that 27300 soldiers have died in the last 12 years and have seized Ukraine lands.
-
-PPP Meat Grinder Strategy has called Russia's tactics, which sending its soldiers to the front of the Ukrainian soldiers.
-
-◼️
-
-[Data](articles/a5aabb81.json)
-
-[Extended Data](ext_articles/a5aabb81.ext.json)
-
----
-
-### Fifteen imprisoned Sri Lankan fishermen in Myanmar pardoned
-
-*2024-04-17 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98680/fifteen-imprisoned-sri-lankan-fishermen-in-myanmar-pardoned) · `en`
-
-The 15 Sri Lankan fishermen, who were sentenced to 7-year rigorous imprisonment in Myanmar for violating the maritime boundaries, have been granted a general amnesty.
-
-This was communicated to the media by the Ambassador of Sri Lanka in Yangon.
-
-These fishers had been arrested by the authorities in Myanmar for illegally crossing the country’s maritime boundaries in December 2023.
-
-◼️
-
-[Data](articles/ca03a83e.json)
-
-[Extended Data](ext_articles/ca03a83e.ext.json)
 
 ---

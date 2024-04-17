@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 17:34:20**
+As of **2024-04-17 17:54:13**
 
 ## Newspaper Stats
 
-*Scraped **19,363** Articles*
+*Scraped **19,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,96 @@ newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,059
 economynextcom | 1,084
-adalk | 1,612
-tamilmirrorlk | 2,259
+adalk | 1,613
+tamilmirrorlk | 2,261
 adaderanalk | 2,328
 virakesarilk | 2,892
-dailymirrorlk | 2,986
-adaderanasinhalalk | 3,154
+dailymirrorlk | 2,987
+adaderanasinhalalk | 3,155
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,361 (100.0%) of 19,363 articles have been extended.
+19,363 (100.0%) of 19,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### සිරිල් ගාමිණී පියතුමන්ව CIDයට කැඳවයි
+### ஜீவனுக்கு ‘ஆடு‘ தெரியாதாம்
+
+*2024-04-17 17:28:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜீவனுக்கு-ஆடு-தெரியாதாம்/76-336054) · `ta`
+
+நுவரெலியா மாவட்டத்தில் ஆடு வளர்ப்பினை ஊக்கப்படுத்த முதல் கட்டமாக 25 பயனாளிகள் தெரிவு செய்யப்பட்டுள்ளனர். கடா மறி இவ்வாறு தெரிவு செய்யப்பட்டுள்ள 25 பயனாளிகள்  தலா ஒருவருக்கு ஒரு கடாவும் இரண்டு மறிகளுமாக 75 ஆடுகள் வழங்க நடவடிக்கை எடுக்கப்பட்டுள்ளதுடன் பயனாளிகளின் தெரிவு செய்யப்பட்டுள்ளனர்.
+
+இருப்பினும் இவ்வாறு தெரிவு செய்யப்பட்ட பயனாளிகளுக்கு தைப்பொங்கல் தினத்தில் குறித்த ஆடுகளை வழங்க தீர்மானிக்கப்பட்டிருந்தன. எனினும், இத்திட்டத்தை நடைமுறைப்படுத்தும் அதிகாரிகளின் தாமதமான செயற்பாட்டினால் இதுவரை பயனாளிகளுக்கு ஆடுகள் சென்றடையவில்லை.
+
+இந்த நிலையில் பயனாளிகள் 75 பேருக்கு வழங்குவதற்காக ஒரு தொகை ஆடுகள் லொறி ஒன்றின் ஊடாக கொட்டக்கலை (சி எல் எப் )க்கு செவ்வாய்க்கிழமை (16) கொண்டுவரப்பட்டுள்ளது.
+
+இவ்வாறு கொண்டுவரப்பட்டுள்ள ஆடுகளுக்கு முறையான பணம் வழங்கப்படவில்லை என்பதை காரணம் காட்டி அன்றையதினம் (16) மாலை ஆடுகளை ஏற்றி வந்த லொரியை மடக்கி  சிலர் வாக்குவாதத்தில் ஈடுப்பட்டதுடன் லொரிக்குத் தீ வைக்கப்போவதாகவும் எச்சரித்துள்ளனர்.
+
+...
+
+[Data](articles/413f87d2.json)
+
+---
+
+### පාලිත තෙවරප්පෙරුමගේ මරණ පරීක්ෂණ වාර්තාව නිකුත් කෙරේ
+
+*2024-04-17 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195728) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍යවරයෙකු වූ පාලිත තෙවරප්පෙරුම මහතාගේ මරණය විදුලිසැර වැදීමෙන් ශරීරයේ අභ්‍යන්තර ඉන්ද්‍රියන්වලට සිදුවූ බරපතළ හානි හේතුවෙන් සිදුවූ මරණයක් බව පශ්චාත් මරණ පරීක්ෂණයේදී තහවුරුවී තිබේ.
+
+කළුතර නාගොඩ මහ රෝහලේ අධිකරණ වෛද්‍ය ඒකකයේ ප්‍රධාන අධිකරණ වෛද්‍ය නිලධාරී කේ. එම්. ටී. බී. ගුණතිලක මහතාගේ ප්‍රධානත්වයෙන් අද (17 ) කළුතර නාගොඩ මහ රෝහලේ අධිකරණ වෛද්‍ය ඒකකයේදී පශ්චාත් මරණ පරීක්ෂණය පැවැත්වුණි.
+
+අමාත්‍යවරයා අනතුරට ලක්වූ යටදොළවත්ත, නවුත්තුඩුව කරම්පෑතර පිහිටි ස්ථානය ඊයේ (16) කළුතර අධිකරණ වෛද්‍ය නිලධාරී විශේෂඥ වෛද්‍ය කේ. එම්. ටී. බී. ගුණතිලක මහතා නිරීක්ෂණය කිරීමෙන් අනතුරුව පශ්චාත් මරණ පරීක්ෂණය සිදු කෙරුණි.
+
+හිටපු අමාත්‍යවරයාගේ බිරිඳ වන අමිතා නාලිංගනී අමරතුංග මහත්මිය විසින් කළුතර ශීක්ෂණ රෝහලේදී මෘත දේහය හඳුනාගන්නා ලදි.
+
+අනතුරුව කළුතර අපරාධ ස්ථාන පරීක්ෂණාගාර නිලධාරීන් අමාත්‍යවරයා අනතුරට ලක්වූ ස්ථානය නිරීක්‍ෂණය කරන ලද අතර, මතුගම අතිරේක මහෙස්ත්‍රාත්වරයා විසින් ස්ථානීය පරීක්ෂණයක්ද සිදු කර තිබේ.
+
+...
+
+[Data](articles/3393b196.json)
+
+---
+
+### CID summons Fr. Cyril Gamini Fernando
+
+*2024-04-17 17:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-summons-Fr-Cyril-Gamini-Fernando/108-280846) · `en`
+
+Colombo, April 17 (Daily Mirror) - Member of the Communications Committee of the Archdiocese of Colombo Fr. Cyril Gamini Fernando has been summoned by the CID for  questioning on Friday, April 19.
+
+Fr. Fernando who is also the editor of the Sinhalese Catholic Weekly Gnanartha Pradeepya said he has been summoned by the CID as they believe he is aware of certain details on the Easter Sunday attacks.
+
+Fr. Fernando was summoned by the CID earlier on November 3 to 8 2021. He obtained a stay order against a possible arrest during that year.
+
+◼️
+
+[Data](articles/4c510904.json)
+
+---
+
+### Cyril Gamini summoned father CID
 
 *2024-04-17 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195727) · `si`
 
-ගරු සිරිල් ගාමිණී ප්‍රනාන්දු පියතුමන්ව නැවත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත කැඳවා ඇත.
+Cyril Gamini Fernando, summoned by CID, to review Passover attack matter.
 
-පාස්කු ප්‍රහාරයට අදාළව කරුණු විමසීම සඳහා නැවත මෙලෙස සිරිල් ගාමිණී ප්‍රනාන්දු පියතුමන්ට කැඳවීමක් සිදුකර තිබේ.
+🟩
 
-ඒ අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව දැනුම්දී ඇත්තේ අප්‍රේල් මස 19 වන සිකුරාදා උදෑසන 10ට CIDය වෙත පැමිණෙන ලෙසටය.
+The Hon. Cyril Gamini Fernando has been called back to the Criminal Investigation Department.
+
+Cyril Gamini Fernando has been summoned to review the matter with regard to the Passover attack.
+
+Accordingly, the Criminal Investigation Department has informed the CID at 10 am on Friday, 19th April.
 
 ◼️
 
 [Data](articles/6e5fc7d9.json)
+
+[Extended Data](ext_articles/6e5fc7d9.ext.json)
 
 ---
 
@@ -61,6 +121,8 @@ In its advisory, the department cautioned that heat cramps and heat exhaustion; 
 ◼️
 
 [Data](articles/ed5c2019.json)
+
+[Extended Data](ext_articles/ed5c2019.ext.json)
 
 ---
 
@@ -219,6 +281,24 @@ Thirtes of 1370 houses were damaged due to the disaster situation in Northwester
 [Data](articles/f479baf9.json)
 
 [Extended Data](ext_articles/f479baf9.ext.json)
+
+---
+
+### සුන්දර හික්කඩුව අසුන්දර වෙයි
+
+*2024-04-17 15:59:17* · [`adalk`](https://www.ada.lk/breaking_news/සුන්දර-හික්කඩුව-අසුන්දර-වෙයි/11-409127) · `si`
+
+හික්කඩුවේ දෙස් විදෙස් සංචරකයන්ගේ ආකර්ශණීය ස්ථානයක් ලෙස හදුන්වන හික්කඩුව පන්නන්ගොඩ දැකුම් කළු වෙරළ තීරය ආසන්නයේ දැනට සතියකටත් වැඩි කාලයක් තිස්සේ සිට ගොඩ ගසා ඇති කසළ කන්දයි මේ.
+
+නිවාඩුවකට විවේකයෙන් සිටීමට දෙස් සංචාරයකන් මෙන්ම විදෙස් සංචාරකයන්  වැවශයෙන්  පැමිණීමට කැමැත්තක් දක්වන මේ වෙරළ තීරය ආසන්නයේ මෙසේ  ගොඩ ගසා ඇති කසළ කන්ද නිසා ඔවුහු දැඩි අසීරුතාවයට පත්වී සිටිති.
+
+මේ කසළ කන්දෙන් හමන දුර්ගන්ධයෙන් ඒ පළාතම ගද ගසන බව සංචාරකයන් මෙන්ම ප්‍රදේශවාසීන් ද කියති.
+
+මේ කසළ කන්ද අලුත් අවුරුදු දිනවල සිට මේ තාක් තිබෙන බවත් මෙය තමන්ට ඉමහත් කරදරයක් බවත් ඔවුහු කියති.
+
+◼️
+
+[Data](articles/4419e40f.json)
 
 ---
 
@@ -2217,79 +2297,5 @@ The island nation has set targets to become carbon neutral in 2050 and is lookin
 [Data](articles/437c3922.json)
 
 [Extended Data](ext_articles/437c3922.ext.json)
-
----
-
-### Leaving for work
-
-*2024-04-17 06:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Leaving-for-work/108-280585) · `en`
-
-In many parts of Sri Lanka, particularly in villages, people still wait until the auspicious time to commence work after the New Year. In urban areas, however, people typically do not adhere to a specific time and resume work immediately after the New Year holidays.
-
-◼️
-
-[Data](articles/02bd8e4f.json)
-
-[Extended Data](ext_articles/02bd8e4f.ext.json)
-
----
-
-### Departure prohibition for employment
-
-*2024-04-17 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195705) · `si`
-
-"Departure prohibition for employment. Office ritual held at 6.52 premises. Auspicious sheet shows gale and jaggery in green, creepy and crystal, north director. Planting ritual on Thursday (18), like tomorrow (18). Auspicious sheet in golden garment."
-
-🟩
-
-The ritual on office was held at 6.52 premises.
-
-The auspicious sheet states that a gale and jaggery dressed in green garments and a creepy and crystal, and the north director.
-
-Meanwhile, the planting ritual is on Thursday (18), such as tomorrow (18).
-
-The auspicious sheet is shown in the golden garment, dressed in a golden garment.
-
-◼️
-
-[Data](articles/e176d518.json)
-
-[Extended Data](ext_articles/e176d518.ext.json)
-
----
-
-### New direct flights between Colombo and Dhaka from today
-
-*2024-04-17 06:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-direct-flights-between-Colombo-and-Dhaka-from-today/108-280812) · `en`
-
-Colombo, April 17 (Daily Mirror) - Fits Air is expanding its wings, adding Colombo-Dhaka direct flights from today, the Airport and Aviation Services (Sri Lanka) (Pvt) Limited announced.
-
-Currently, Fits Air operates to three destinations from Colombo such as Dubai, Chennai and the Maldives.
-
-With this new route expansion, this will increase to four destinations, and it will contribute immensely to the development of the travel, trade, and tourism industries between Sri Lanka and Bangladesh.
-
-◼️
-
-[Data](articles/4c5cb8a8.json)
-
-[Extended Data](ext_articles/4c5cb8a8.ext.json)
-
----
-
-### Fits Air launches new direct flights between Colombo and Dhaka from today
-
-*2024-04-17 06:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fits-Air-launches-new-direct-flights-between-Colombo-and-Dhaka-from-today/108-280812) · `en`
-
-Colombo, April 17 (Daily Mirror) - Fits Air is expanding its wings, adding Colombo-Dhaka direct flights from today, the Airport and Aviation Services (Sri Lanka) (Pvt) Limited announced.
-
-Currently, Fits Air operates to three destinations from Colombo such as Dubai, Chennai and the Maldives.
-
-With this new route expansion, this will increase to four destinations, and it will contribute immensely to the development of the travel, trade, and tourism industries between Sri Lanka and Bangladesh.
-
-◼️
-
-[Data](articles/8b7ad82e.json)
-
-[Extended Data](ext_articles/8b7ad82e.ext.json)
 
 ---

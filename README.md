@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 16:18:40**
+As of **2024-04-17 16:33:42**
 
 ## Newspaper Stats
 
-*Scraped **19,352** Articles*
+*Scraped **19,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ dailyftlk | 1,059
 economynextcom | 1,084
 adalk | 1,612
 tamilmirrorlk | 2,259
-adaderanalk | 2,325
+adaderanalk | 2,326
 virakesarilk | 2,889
 dailymirrorlk | 2,986
-adaderanasinhalalk | 3,149
+adaderanasinhalalk | 3,151
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,351 (100.0%) of 19,352 articles have been extended.
+19,352 (100.0%) of 19,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### පාකිස්තානයේ ආපදා මරණ තවත් ඉහළට
+
+*2024-04-17 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195724) · `si`
+
+පාකිස්තානයේ ආපදා තත්ත්වය හේතුවෙන් මේ දක්වා පුද්ගලයින් 63 දෙනෙකු මියගොස් තිබේ.
+
+ගංවතුර, අකුණු සහ ගොඩනැඟිලි කඩාවැටීම් හේතුවෙන් සිදුවු අනතුරුවලින් මෙම මරණ සිදුවී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+වැඩිම මරණ සංඛ්‍යාවක් වයඹ දිග පාකිස්තානයෙන් වාර්තාවන අතර ගොඩනැගිලි කඩාවැටීම හේතුවෙන් එම පළාතේ ළමුන් 15 දෙනෙකු, කාන්තාවන් 5 දෙනෙකු ඇතුළු පුද්ගලයින් 32 දෙනෙකු මියගොස් තිබේ.
+
+ආපදා තත්ත්වය හේතුවෙන් වයඹ දිග පාකිස්තානයේ නිවාස 1370කට හානි සිදුවී ඇති බවද විදෙස් වාර්තා වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/f479baf9.json)
+
+---
+
+### රුසියානු භටයින් 50,000ක් මරුට
+
+*2024-04-17 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195723) · `si`
+
+යුක්‍රේනයේ දී මියගොස් ඇති රුසියානු හමුදා මරණ සංඛ්‍යාව 50,000 ඉක්මවා ඇති බව බී බී සී පුවත් සේවය වාර්තා කරයි.
+
+දෙරට අතර යුද ගැටුම් ආරම්භ වී වසර දෙකක් ගතවී ඇති අතර රුසියානු භටයින්ගේ මරණ පළමු වසරට වඩා 25%කින් වැඩිවී ඇති බව සංඛ්‍යාලේඛන අනුව පෙනීයයි.
+
+දෙවැනි වසර තුළදී රුසියානු භටයින් 27,300ක් මියගොස් ඇති බව බීබීසී සතුව ඇති දත්ත අනුව හෙළිවෙයි.
+
+◼️
+
+[Data](articles/cc249e4f.json)
+
+---
+
+### Excise officer remanded for distorting popular Avurudu song
+
+*2024-04-17 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98685/excise-officer-remanded-for-distorting-popular-avurudu-song) · `en`
+
+The 31-year-old, who was arrested for allegedly singing a distorted version of the popular New Year song ‘Sooriya Mangalle’ by veteran singer Rohana Beddage and sharing it on social media, has been remanded.
+
+The suspect was thus ordered to be remanded until April 22, on the orders of Kuliyapitiya Acting Magistrate Upul Alagiyawanna who rejected the defense counsels’ request for bail.
+
+He also called for a report on the suspect’s mental health and ordered to refer him to the Kurunegala Teaching Hospital’s mental health unit.
+
+The arrestee was identified as an Excise Officer attached to the sub-office in Dummalasuriya and a resident of Thalathuoya.
+
+The North Western Province Unit of the Computer Crime Investigation Division had launched an investigation into the matter based on a complaint received by the IGP alleging that the song in question, which is frequently aired during the Sinhala and Tamil New Year, had been distorted and shared on social media.
+
+...
+
+[Data](articles/71b85330.json)
+
+---
 
 ### The national folk force explains how justice does the Easter victims explain
 
@@ -296,21 +350,29 @@ Herath, Superintendent of Police, Herath, Police Sergery (70537)A team of police
 
 ---
 
-### පොලිසියේ සැරයන් වරයෙකුට පහරදී පොලිස් ගරාජයේ සැරයන් සහ ඔහුගේ පුත්‍රයා අත්අඩංගුවට
+### Sergeant and his son arrested for assaulting a police sergeant
 
 *2024-04-17 14:07:06* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-සැරයන්-වරයෙකුට-පහරදී-පොලිස්-ගරාජයේ-සැරයන්-සහ-ඔහුගේ-පුත්‍රයා-අත්අඩංගුවට/11-409125) · `si`
 
-රාජකාරී කටයුත්තක් සඳහා ගිය ගාලදිවුල්වැව පොලිසියේ සැරයෙන් වරයෙකුට අතින් පයින් පහරදී තුවාල සිදු කල,  වවුනියාව පොලිස්  පොලිස්  ගරාජයට අනුයුක්තව  රාජකාරී කරන සැරයන්වරයෙකු  සහ ඔහුගේ පුතා ඊයේ (16දා) අත්අඩංගුවට ගත් බව ගාලදිවුල්වැව  පොලිසිය පවසයි.
+A sergeant and his son were arrested for assaulting a police sergeant in Vavuniya. The son was detained, and the suspect sergeant is under investigation.
 
-ගාලදිවුල්වැව පොලිස් වසමේ නාවක්කුලම ප්‍රදේශයේ දෙපිරිසක් අතර ආරවුලක් හට ගෙන ඇති බවට පොලිස් හදිසි ඇමතුම් අංකයට (119) ලද තොරතුරකට අනුව එම ස්ථානයට ගිය ගාලදිවුල්වැව පොලිසියේ  කණ්ඩායමක  සැරයන් වරයකු හට එම ස්ථානයේ සිටි 45 හැවිරිදි  පුද්ගලයකු සහ ඔහුගේ පුත්‍රයා ඇතුළු පිරිසක් පහර දී තිබූ බව පොලිසිය කියයි.
+🟩
 
-මේ සම්බන්ධයෙන් වැඩි දුර විමර්ශන  සිදු කිරීමේදී පහර දීමට සම්බන්ධ පුද්ගලයා පොලිස් සැරයන්වරයෙකු  බව අනාවරණ වූ  බවත් එම සැරයෙන් වරයා සමග  පහර දීමට සම්බන්ධ වූ ඔහුගේ පුත්‍රයාද අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+A sergeant who has been assaulted by the Vavuniya Police Police and his son was attached to the Vavuniya Police Police Insunature yesterday (16).
 
-මෙම  සිද්ධියටම සම්බන්ධව ගාලදිවුල්වැව පොලිස්  නිලධාරියකු සහ  සිවිල් වැසියන් පිරිසක්  පහර දුන් බව පවසමින්  නාවක්කුලම පදිංචි 18 හැවිරිදි තරුණයෙකු අනුරාධපුර ශික්ෂණ රෝහලේ  ප්‍රතිකාර ලබන බව අප කල විමසීමකදී  අනුරාධපුර ශික්ෂණ රෝහල් ප්‍රකාශකයකු පැවසීය.
+According to the police, a 45-year-old man and his son had been assaulted at a group of police in the Gallewewa police area in the Gallewewa police area.
 
-...
+The son of his Son was arrested that the man involved in the attack was a police sergeant in carrying out further investigations.
+
+A 18-year-old youth residing in the Anuradhapura Teaching Hospital, a 18 year old resident of the Anuradhapura Teaching Hospital said he was receiving treatment at the Anuradhapura Teaching Hospital.
+
+The suspect sergeant and his son were to be produced in court.
+
+◼️
 
 [Data](articles/cfba5449.json)
+
+[Extended Data](ext_articles/cfba5449.ext.json)
 
 ---
 
@@ -2219,61 +2281,5 @@ Subsequently, the President also paid special attention to the housing issues of
 [Data](articles/ef2c6c76.json)
 
 [Extended Data](ext_articles/ef2c6c76.ext.json)
-
----
-
-### The SLFP to contest the presidential election. Call telephone
-
-*2024-04-17 05:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-போட்டியிடுமாறு-சு-க-அழைப்பு/175-336010) · `ta`
-
-Dr. Wijeyadasa Rajapakse, Sri Lanka Freedom Party (SLFP) central executive committee member, has been requested by most members to contest the presidential election. He plans to make a decision within the next few weeks.
-
-🟩
-
-Minister of Justice Dr. Wijeyadasa Rajapakse said that the majority of the members of the Sri Lanka Freedom Party (SLFP) central executive committee have requested him to contest the upcoming presidential election.
-
-Accordingly, he said that he would take a decision on the presidential election in the next few weeks.
-
-Wijeyadasa Rajapakse said that there is no confidence in any political party in the country. (A)
-
-◼️
-
-[Data](articles/9d02a685.json)
-
-[Extended Data](ext_articles/9d02a685.ext.json)
-
----
-
-### Addressing gender inequality key priority for Sri Lanka: ADB
-
-*2024-04-17 04:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Addressing-gender-inequality-key-priority-for-Sri-Lanka-ADB/108-280806) · `en`
-
-As Sri Lanka looks to reach higher growth aspirations, addressing gender inequality is a key priority, the Asian Development Bank said.
-
-In an economically active population of 8.5 million in 2022, female labour force participation in Sri Lanka was only 32.1 percent, down from 33.6 percent in 2018 prior to the economic crisis.
-
-Key reasons for this include lack of safe and affordable childcare facilities, inadequate provision for flexible working hours, onerous household responsibilities and care duties socially imposed on women, and public transport inadequacies for women.
-
-“While the private sector has addressed these shortcomings to some extent, the government can tackle gender inequality through a more supportive framework for female labour participation by introducing flexible work hours and mandating equal pay, the ADB said in its recent outlook report.
-
-...
-
-[Data](articles/fb0a34ca.json)
-
-[Extended Data](ext_articles/fb0a34ca.ext.json)
-
----
-
-### What I learnt and what Tamil political leaders never learnt
-
-*2024-04-17 03:11:08* · [`dailyftlk`](https://www.ft.lk/columns/What-I-learnt-and-what-Tamil-political-leaders-never-learnt/4-760701) · `en`
-
-Who is responsible for emerging religious extremism in Tamil North? Let me tell you, it’s the callously irresponsible Colombo resident Tamil leaderships. In democratic electoral politics, the strength of leaderships lies in how open and committed they stand against injustice and for democratic and fundamental rights. In Sinhala South, mainstream political leaderships took over majoritarian extremism. In post-war Tamil politics, established political leaders failing to stand with their people allows religious extremism.
-
-...
-
-[Data](articles/778d31b3.json)
-
-[Extended Data](ext_articles/778d31b3.ext.json)
 
 ---

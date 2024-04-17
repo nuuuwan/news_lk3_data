@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 11:53:39**
+As of **2024-04-17 12:05:13**
 
 ## Newspaper Stats
 
-*Scraped **19,309** Articles*
+*Scraped **19,313** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,79 +18,165 @@ economynextcom | 1,084
 adalk | 1,605
 tamilmirrorlk | 2,255
 adaderanalk | 2,321
-virakesarilk | 2,880
-dailymirrorlk | 2,977
-adaderanasinhalalk | 3,142
+virakesarilk | 2,882
+dailymirrorlk | 2,978
+adaderanasinhalalk | 3,143
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,301 (100.0%) of 19,309 articles have been extended.
+19,309 (100.0%) of 19,313 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### 50 நாடுகளிலிருந்து இலங்கை வரும் சுற்றுலாப் பயணிகளுக்கு இலவச வீசா
+### කොත්තු මුදලාලිට ඇප
+
+*2024-04-17 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195716) · `si`
+
+කොළඹ අලුත්කඩේ ප්‍රදේශයේ ආහාර මිලදී ගැනීමට පැමිණි විදේශිකයෙකුට තර්ජනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් ව්‍යපාරිකයෙකු ඇප මත මුදා හැරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කර තිබේ.
+
+◼️
+
+[Data](articles/1b7396d9.json)
+
+---
+
+### ஈஷி கேஷ்  மூலம் போதைப்பொருள் விநியோகம்: சிலாபத்தில் பெண் கைது!
+
+*2024-04-17 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181281) · `ta`
+
+சிலாபத்திலிருந்து பல பிரதேசங்களுக்கு ஈஷி கேஷ் மற்றும் வேறு பல முறைகளைப் பயன்படுத்தி ஐஸ் போதைப்பொருள் விநியோகத்தில் ஈடுபட்டிருந்த  பெண் ஒருவரை சந்தேகத்தின் பேரில்  முந்தல் பொலிஸார் கைது செய்துள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபரிடம் சுமார் இரண்டு இலட்சம் ரூபா பெறுமதியான ஐஸ் போதைப்பொருள், பல்வேறு வங்கிகளுக்கு சொந்தமான ஏ.ரி.எம் அட்டைகள் மற்றும் கைத்தொலைபேசிகள் மற்றும்   பத்தாயிரம் ரூபா பணம் ஆகியவற்றைப் பொலிஸார் கைப்பற்றியுள்ளனர்.
+
+முந்தல அகுணவில பிரதேசத்தை சேர்ந்த 35 வயதுடைய வயம்ப குமாரி என்ற பெண்ணே இவ்வாறு கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/541fbbfd.json)
+
+---
+
+### இஸ்ரேலிய படையினர் ஆக்கிரமித்திருந்த அல்ஸிபா மருத்துவமனைக்குள் மனித புதைகுழிகள் - தனது தாயாரின் உடலை அடையாளம் கண்டார் மகன்
+
+*2024-04-17 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181280) · `ta`
+
+இஸ்ரேலிய படையினர் ஆக்கிரமித்திருந்த காசாவின் அல்ஸிபா மருத்துவமனையில் பாரிய மனித புதைகுழியொன்றை மருத்துவ பணியாளர்கள் கண்டுபிடித்துள்ளனர் எனஅல்ஜசீரா தெரிவித்துள்ளது.
+
+காணாமல்போன தங்களின் குடும்பத்தவர்களின் உடல்கள் அங்கு காணப்படுகின்றனவா என்பதை பார்ப்பதாக பொதுமக்கள் அங்கு திரண்டனர் என அல்ஜசீரா தெரிவித்துள்ளது.
+
+முஸ்லீம்களின் புனித பண்டிகை காலம் முதல் நான் இந்த மனித புதைகுழியிலிருந்து உடல்கள் தோண்டப்படுவதை பார்வையிட்டு வந்துள்ளேன் அவ்;வேளை எனது தாயாரின் உடலை அடையாளம் கண்டேன் என  ஒருவர் தெரிவித்துள்ளார்.
+
+காலில் காணப்பட்ட வித்தியாசமான அடையாளத்தை வைத்தே அது எனது தாய் என்பதை உறுதி செய்தேன் என அவர்தெரிவித்துள்ளார்.
+
+அல்ஸிபா மருத்துவமனையில் அடையாளம் காணப்பட்டுள்ள பல மனித புதைகுழிகளில் இதுவும் ஒன்று என தெரிவித்துள்ள அல்ஜசீரா  இரண்டு வாரங்கள் மருத்துவமனையை தனது கட்டுப்பாட்டின் கீழ் வைத்திருந்த பின்னர் ஏப்பிரல் முதலாம் திகதி இஸ்ரேலிய படையினர் இந்த மனித புதைகுழிகள் மீட்கப்பட்டுள்ளன எனவும் குறிப்பிட்டுள்ளது.
+
+...
+
+[Data](articles/368b5003.json)
+
+---
+
+### GCE (O/L) admissions for candidates by next week
+
+*2024-04-17 11:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GCE-OL-admissions-for-candidates-by-next-week/108-280835) · `en`
+
+Admissions for the GCE Ordinary Level (O/L) examinations will be issued by next week, the Examinations Department said.
+
+Accordingly, admissions will be issued to school applicants through the respective principals and to private applicants by post.
+
+◼️
+
+[Data](articles/4830736c.json)
+
+---
+
+### Free visa for tourists from 50 countries
 
 *2024-04-17 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181274) · `ta`
 
-50க்கும் மேற்பட்ட நாடுகளில் இருந்து இலங்கைக்கு வரும் சுற்றுலாப் பயணிகளுக்கு இலவச வீசாவை வழங்குவது குறித்து பரிசீலிக்கப்பட்டு வருகின்றது.
+Sri Lanka may offer free visas to tourists from over 50 countries, a proposal by Ministers Ali Sabri and Tran Ales to be submitted to the Cabinet next week.
 
-இது தொடர்பான யோசனை  அடுத்த வாரம் அமைச்சரவையில் சமர்ப்பிக்கப்பட உள்ளதாக சுற்றுலாத்துறை அமைச்சு வட்டாரங்கள் தெரிவிக்கின்றன.
+🟩
 
-இது தொடர்பான பிரேரணை  சுற்றுலாத்துறை அமைச்சரால் வெளிவிவகார அமைச்சர் அலி சப்ரி மற்றும் பொதுப் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் ஆகியோருடன் இணைந்து தயாரிக்கப்பட்டவுள்ளமை குறிப்பிடத்தக்கது.
+Tourists coming to Sri Lanka from over 50 countries are being considered to provide free visa.
+
+The idea of this is to be submitted to the Cabinet next week, the Ministry of Tourism said.
+
+The proposal will be prepared by the Minister of Tourism, Ali Sabri and Public Security Minister Tran Ales.
 
 ◼️
 
 [Data](articles/bf050faf.json)
 
+[Extended Data](ext_articles/bf050faf.ext.json)
+
 ---
 
-### 7 வருடங்களாக மியன்மாரில் தடுத்துவைக்கப்பட்டுள்ள 15 இலங்கை மீனவர்களுக்கு பொதுமன்னிப்பு
+### Amnesty for 15 Sri Lankan fishermen detained in Myanmar for 7 years
 
 *2024-04-17 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/181278) · `ta`
 
-மியன்மாரில் கைதுசெய்யப்பட்டு 7 ஆண்டுகள் கடூழியச் சிறைத்தண்டனை விதிக்கப்பட்ட  15 இலங்கை மீனவர்களுக்கு பொதுமன்னிப்பு வழங்கப்பட்டுள்ளது.
+15 Sri Lankan fishermen granted amnesty in Myanmar, sentenced to 7 years for illegal entry in 2023.
 
-2023 ஆம் ஆண்டு டிசம்பர் மாதம் மியன்மார் கடல் எல்லைக்குள் சட்டவிரோதமாக நுழைந்ததையடுத்து 15 இலங்கை மீனவர்களும் கைது செய்யப்பட்டமை குறிப்பிடத்தக்கது.
+🟩
+
+15 Sri Lankan fishermen have been granted amnesty in Myanmar and sentenced to 7 years in prison.
+
+In December 2023, 15 Sri Lankan fishermen were arrested after the illegal entered the Myanmar waters.
 
 ◼️
 
 [Data](articles/e05a13a4.json)
 
+[Extended Data](ext_articles/e05a13a4.ext.json)
+
 ---
 
-### டுபாய் விமான நிலையம் வெள்ளத்தில் மிதக்கிறது
+### Dubai airport floats in flood
 
 *2024-04-17 11:28:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டுபாய்-விமான-நிலையம்-வெள்ளத்தில்-மிதக்கிறது/50-336036) · `ta`
 
-டுபாயில் பாலைவனம் நிறைந்த பகுதிகள் அதிகளவில் உள்ளன. வெப்பநிலையும் அதிகரித்து காணப்படும் சூழலில், ஐக்கிய அரபு அமீரகம் முழுவதும்  பெய்த கனமழையால் பல்வேறு இடங்களில் வெள்ளப்பெருக்கு ஏற்பட்டது. இதனால், சாலைகளில் நீர் தேங்கியது. பல இடங்களில் வாகன போக்குவரத்தும் முடங்கியது.
+Dubai airport flooded due to heavy rains, impacting air traffic and causing diversion of flights. Flooding affected roads, commercial areas, and residential zones, leading to school closures and work-from-home arrangements. The storm also hit Bahrain and Oman, with 18 deaths reported in Oman.
 
-கனமழை மற்றும் வெள்ளம் எதிரொலியாக, விமான போக்குவரத்து பாதிக்கப்பட்டது. டுபாயில் சர்வதேச பயணிகள் அதிகம் வரக்கூடிய, உலகில் பரபரப்புடன் இயங்க கூடிய டுபாய் சர்வதேச விமான நிலையத்தில் வெள்ளநீர் பெரும் பாதிப்பை ஏற்படுத்தியது.
+🟩
 
-இதனை தொடர்ந்து,  விமான நிலையத்திற்கு வந்த பல விமானங்கள் வேறு பகுதிகளுக்கு திருப்பி விடப்பட்டன. மாலையில் 100 விமானங்கள் வரை வந்து சேரக்கூடிய நிலையில்,  பல விமானங்களின் வருகை பாதிக்கப்பட்டது. எண்ணற்ற விமானங்கள் காலதாமதத்துடனும், ரத்து செய்யப்பட்டும் இருந்தன. இது விமான பயணிகளுக்கு பாதிப்பை ஏற்படுத்தியது.
+Dubai is high in the deserted areas. Heavy rains throughout the United Arab Emirates caused flooding in various places. Thus, the water on the roads is stagnant. Vehicle traffic was also paralyzed in many places.
 
-விமான ஓடுபாதையில் வெள்ளம் புகுந்ததில், விமானங்கள் மற்றும் கார்கள், நீரில் பாதியளவு மூழ்கின. விமானங்கள் நிறுத்தும் பகுதியில் வெள்ளநீர் புகுந்தது. விமான நிலையத்திற்கு வந்து சேரும் சாலைகளும் நீரில் மூழ்கி இருந்தன.
+As a result of heavy rains and floods, air traffic was affected. Flood water at the Dubai International Airport, which is the most popular in the world, has a major impact on international travelers in Dubai.
+
+Following this, many flights that arrived at the airport were diverted to other areas. The arrival of several flights was affected by the arrival of up to 100 flights in the evening. Countless flights were outdated and canceled. This was a damage to passengers.
+
+Floods and cars, in the water of the air, sinks half of the water. Flooding in the area of planes. The roads arriving at the airport were also submerged.
 
 ...
 
 [Data](articles/e6196100.json)
 
+[Extended Data](ext_articles/e6196100.ext.json)
+
 ---
 
-### O/L பரீட்சார்த்திகளின் கவனத்துக்கு
+### To the attention of the o/l examiners
 
 *2024-04-17 11:26:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சார்த்திகளின்-கவனத்துக்கு/175-336035) · `ta`
 
-2023ஆம் ஆண்டுக்கான கல்வி பொதுத் தராதர சாதாரண தர பரீட்சை மே 6ஆம் திகதி ஆரம்பமாகவுள்ள நிலையில், மாணவர்களுக்கான பரீட்சை அனுமதி அட்டை விநியோகம் அடுத்த வாரம் முதல் ஆரம்பிக்கப்படும் என்று பரீட்சைத் திணைக்களம் தெரிவித்துள்ளது.
+Starting May 6, 2023, the Department of Examinations will launch examination cards for students. School applicants can get cards from principals, while personal applicants can receive them by mail.
 
-அதற்கமைய, பாடசாலை விண்ணப்பதாரிகள் அதிபர்களினூடாக அனுமதி அட்டைகளைப் பெற்றுக்கொள்ள முடியும். தனிப்பட்ட விண்ணப்பதாரிகள் தபால் ஊடாக அனுமதி அட்டைகளைப் பெற்றுக் கொள்ள முடியும். R
+🟩
+
+The Department of Examinations has announced that the issue of examination card for students will be launched from next week, as the Education General Standard Examination begins on May 6, 2023.
+
+Accordingly, school applicants can obtain permit cards through principals. Personal applicants can obtain permit cards via post. Remble
 
 ◼️
 
 [Data](articles/392e091a.json)
+
+[Extended Data](ext_articles/392e091a.ext.json)
 
 ---
 
@@ -132,23 +218,29 @@ Emirates, Fly Dubai have been temporarily stopped operating to Dubai.
 
 ---
 
-### உக்ரைன் யுத்தம் - ரஸ்யா இதுவரை 50,000 படையினரை இழந்துள்ளது - பிபிசி
+### Ukraine War - Russia has lost 50,000 soldiers so far - BBC
 
 *2024-04-17 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/181276) · `ta`
 
-உக்ரைன் யுத்தத்தில் ரஸ்யா இதுவரை 50000க்கும் அதிகமான படையினரை இழந்துள்ளது என பிபிசி செய்தி வெளியிட்டுள்ளது.
+Russia has lost over 50,000 soldiers in the Ukraine war, with the BBC reporting a 25% increase in body counts over the past 12 years. The Independent Media Group and volunteers have been documenting these figures since 2022.
 
-கடந்த 12 மாதங்களில் ரஸ்ய உக்ரைனின் முன்னரங்கை நோக்கி பெருமளவு படையினரை அனுப்பியது  என தெரிவித்துள்ள பிபிசி  எண்ணப்பட்ட உடல்களின் எண்ணிக்கை முதல் 12 வருடங்களை விட 25 வீதம் அதிகமாக காணப்பட்டது எனவும் தெரிவித்துள்ளது.
+🟩
 
-பிபிசி ரஸ்யன் மீடியாஜோனா என்ற சுயாதீன ஊடக குழு மற்றும் தொண்டர்கள் 2022 முதல் உடல்களின் எண்ணிக்கையை எண்ணிவருகின்றனர் என தெரிவித்துள்ள பிபிசி புதிய கல்லறைகளில் காணப்படும் பெயர்களை அடிப்படையாக வைத்தும் கடந்த 12 மாதங்களில் உயிரிழந்த படையினரின்  எண்ணிக்கையை கணிப்பிட்டுள்ளதாக குறிப்பிட்டுள்ளது.
+The BBC reports that Russia has lost more than 50000 soldiers in the Ukraine war.
 
-கடந்த 12 வருடங்களில் 27300 படையினர் உயிரிழந்துள்ளனர் என தெரிவித்துள்ள பிபிசி ரஸ்யா பெருமளவு படையினரை இழந்தே உக்ரைன் நிலங்களை கைப்பற்றியுள்ளது எனவும் குறிப்பிட்டுள்ளது.
+In the last 12 months, the number of bBC counted bodies has been 25 percent higher than 12 years.
 
-உக்ரைன் படையினரின் முன்னரங்கை நோக்கி தனது படையினரை அலைஅலையாக அனுப்பும் ரஸ்யாவின் தந்திரோபாயத்தை  பிபிபிmeat grinder strategy - என தெரிவித்துள்ளது.
+The Independent Media Group of BBC Russian Mediazona and volunteers have been counting the number of bodies since 2022, according to the BBC's new cemetery, which has predicted the number of soldiers who died in the past 12 months.
+
+BBC Russia has said that 27300 soldiers have died in the last 12 years and have seized Ukraine lands.
+
+PPP Meat Grinder Strategy has called Russia's tactics, which sending its soldiers to the front of the Ukrainian soldiers.
 
 ◼️
 
 [Data](articles/a5aabb81.json)
+
+[Extended Data](ext_articles/a5aabb81.ext.json)
 
 ---
 
@@ -301,6 +393,8 @@ He had already prepared his burial plot in Kalutara for him to be laid to rest. 
 ◼️
 
 [Data](articles/08ba7e24.json)
+
+[Extended Data](ext_articles/08ba7e24.ext.json)
 
 ---
 
@@ -502,25 +596,31 @@ Under the Tobacco and Vapes Bill, children turning 15 this year or younger will 
 
 ---
 
-### ඩකා හා කොළඹ යා කරමින් තවත් ගුවන් ගමනක්
+### Another flight from connecting Dhaka and Colombo
 
 *2024-04-17 09:32:12* · [`adalk`](https://www.ada.lk/breaking_news/ඩකා-හා-කොළඹ-යා-කරමින්-තවත්-ගුවන්-ගමනක්/11-409117) · `si`
 
-ශ්‍රී ලංකාවේ කටුනායක ගුවන් තොටුපොළ හා බංග්ලාදේශයේ ඩකා ගුවන් තොටුපොළ අතර නව ගුවන් ගමන් සේවාවක් ආරම්භ කිරිමට ෆිට්ස් ගුවන් සේවය කටයුතු කර තිබේ.
+Fitz Airlines launched a new flight between Dhaka and Colombo, aiming to boost tourism and trade. Now operates in Sri Lanka, Maldives, Dubai, and Chennai.
 
-ඊයේ (16දා) මෙම ගුවන් ගමන ආරම්භ කර තිබේ. මේ හරහා දෙරට අතර සංචාරක හා වෙළඳ යන ක්ෂේත්‍රවල වර්ධනයක් සිදුවෙනු ඇතැයි ගුවන් තොටුපොල ශා ගුවන් සේවා සමාගම  පවසයි.
+🟩
 
-ෆිට්ස් ගුවන් සේවය මේ වන විට  මේ වන විට ශ්‍රී ලංකාවේ සිට මාලදිවයින,ඩුබායි හා චෙන්නායි වෙත ගුවන් ගමන් ක්‍රියාත්මක කරනු ලබයි.
+Fitz Airlines has commenced a new flight service between Sri Lanka's Katunayake airport and Dhaka airport in Bangladesh.
 
-Colombo, April 17 (Daily Mirror) - Fits Air is expanding its wings, adding Colombo-Dhaka direct flights from today, the Airport and Aviation Services (Sri Lanka) (Pvt) Limited announced.
+The flight has been launched yesterday (16th). The LTTE states that the two countries increase in the fields of tourism and trade among the two countries.
 
-Currently, Fits Air operates to three destinations from Colombo such as Dubai, Chennai and the Maldives.
+Fitz Airlines is currently operating in Sri Lanka, the Maldives, Dubai and Chennai.
 
-With this new route expansion, this will increase to four destinations, and it will contribute immensely to the development of the travel, trade, and tourism industries between Sri Lanka and Bangladesh.
+34 (DAILY MIRROR) - FITS Air is Expanding ITS Wings, Adding Colombo Direct Flights, The Airport and Aviation Services (Sri Lanka) (Pvt) Limited announced.
+
+Currently, Fits Air Owetetes to Three Destinations From Such Dubai, Chennai and the maldives.
+
+With this new route expansion, THIS WILL INCRASE TO FOUR DESTINATION, TRADE, and Tourism Industries Between Sri Lanka and BANGLADESH.
 
 ◼️
 
 [Data](articles/cc31f269.json)
+
+[Extended Data](ext_articles/cc31f269.ext.json)
 
 ---
 
@@ -2079,85 +2179,5 @@ The people of the area gave a special welcome to President Ranil Wickremesinghe 
 [Data](articles/464500ac.json)
 
 [Extended Data](ext_articles/464500ac.ext.json)
-
----
-
-### Malinga meets the latest bowler
-
-*2024-04-16 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195702) · `si`
-
-Malinga praises a promising bowler, Nensh, for his skills, suggesting he could progress in the next 4-5 years.
-
-🟩
-
-With the expression on his Facebook account, a bowling a bowling posture had attracted the attention of the school player.
-
-Needing Nensh's bowleplay was attributed to Lash Malinga's bowling to the school's interide Games.
-
-"New ball Auswwing balls with a good bowling posture. If he continues to improve these skills and continuously maintaining new new things, he will also go to the next 4 and 5 years. "Lasith Malinga had placed a note in his Facebook page.
-
-◼️
-
-[Data](articles/d42f7d65.json)
-
-[Extended Data](ext_articles/d42f7d65.ext.json)
-
----
-
-### STF is a special training to shoot the underworld
-
-*2024-04-16 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195701) · `si`
-
-STF trains to combat underworld, with 100,000 motorbikes and shooters. Deshabandu Tennakoon, IGP, predicts their elimination in 3 months.
-
-🟩
-
-IGP Deshabandu Tennakoon says that underworld criminals have trained 100,000 motorbikes and trained the shooting.
-
-He was speaking to the Elpitiya Police Division today (16) and he was permanently eliminated in the next three months.
-
-◼️
-
-[Data](articles/512aa8a6.json)
-
-[Extended Data](ext_articles/512aa8a6.ext.json)
-
----
-
-### Street food vendor arrested for verbally harassing foreigner
-
-*2024-04-16 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Street-food-vendor-arrested-for-verbally-harassing-foreigner/108-280794) · `en`
-
-Colombo, April 16 (Daily Mirror) - Following a contentious verbal exchange involving YouTuber Emeka Iwueze, a Sri Lankan street food vendor accused of charging an excessive amount for a Kottu Roti dish was apprehended by the police.
-
-According to a video shared on Emeka Iwueze's official YouTube channel, the American visitor to Sri Lanka embarked on a culinary exploration of the country's street food scene five days prior, aiming to familiarize himself with local cuisine.
-
-During his outings, Iwueze would stroll through the streets, sampling various dishes and engaging in friendly conversations with locals to better understand the culture and social dynamics.
-
-...
-
-[Data](articles/894fa50e.json)
-
-[Extended Data](ext_articles/894fa50e.ext.json)
-
----
-
-### Street food vendor arrested for price-gouging and verbally harassing a foreigner
-
-*2024-04-16 21:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98671/street-food-vendor-arrested-for-price-gouging-and-verbally-harassing-a-foreigner-) · `en`
-
-Police have arrested the owner of a street food stall in Aluthkade (Hulftsdorp) for price-gouging and verbally harassing a foreigner.
-
-The arrest was made by the officers of Keselwatta Police based on a viral video of the said vendor who appeared to charge Rs. 1,900 from a foreigner for a Kottu Roti.
-
-The vendor was then seen behaving in a verbally aggressive manner when the foreigner refused to buy the Kottu Roti at the quoted price.
-
-The 51-year-old is reportedly a resident of Colombo 12 area. He will be produced before the Aluthkade Magistrate’s Court tomorrow (17).
-
-◼️
-
-[Data](articles/cbf61d1e.json)
-
-[Extended Data](ext_articles/cbf61d1e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 06:55:39**
+As of **2024-04-17 07:17:29**
 
 ## Newspaper Stats
 
-*Scraped **19,247** Articles*
+*Scraped **19,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,122 @@ adalk | 1,600
 tamilmirrorlk | 2,241
 adaderanalk | 2,314
 virakesarilk | 2,874
-dailymirrorlk | 2,963
-adaderanasinhalalk | 3,130
+dailymirrorlk | 2,966
+adaderanasinhalalk | 3,133
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,245 (100.0%) of 19,247 articles have been extended.
+19,247 (100.0%) of 19,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### අභාවප්‍රාප්ත පාලිත තෙවරප්පෙරුමගේ අවසන් කටයුතු ලබන සිකුරාදා
+
+*2024-04-17 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195706) · `si`
+
+අභාවප්‍රාප්ත පාලිත තෙවරප්පෙරුම මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු ලබන සෙනසුරාදා පවුලේ සුසාන භූමියේදී සිදුකිරීමට නියමිත බව පවුලේ ඥාතීහු සඳහන් කළහ.
+
+එක්සත් ජාතික පක්ෂයේ හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු, හිටපු නියෝජ්‍ය අමාත්‍යවරයෙකු වූ පාලිත තෙවරප්පෙරුම මහතා ඊයේ (16) අභාවප්‍රාප්ත වී තිබිණි.
+
+මියයන විට 64 වැනි වියෙහි පසුවු තෙවරප්පෙරුම මහතාගේ මරණයට හේතුව විදුලි සැර වැදීමක් බව ඥාති පුත්‍රයෙකු සඳහන් කළේය.
+
+1960 වසරේදී උපත ලැබූ පාලිත කුමාර තෙවරප්පෙරුම මහතා ශ්‍රී ලාංකේය දේශපාලනයේ කතාබහට ලක්වුණු පෙරළිකාර චරිතයකි.
+
+2002 වසරේදී මතුගම ප්‍රාදේශීය සභාවේ සභාපතිවරයා වූ පාලිත තෙවරප්පෙරුම මහතා බස්නාහිර පළාත් සභාවේ සභිකයෙකු ලෙසද කටයුතු කළේය.
+
+2010 වසරේ සිට 2020 වසර දක්වා කළුතර දිස්ත්‍රික්කය නියෝජනය කරමින් පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස කටයුතු කළ ඔහු ස්වදේශ කටයුතු, වයඹ සංවර්ධන සහ සංස්කෘතික කටයුතු නියෝජ්‍ය අමාත්‍යවරයා ලෙසත් වනජීවි නියෝජ්‍ය අමාත්‍යවරයා ලෙසත් ක්‍රියා කළේය.
+
+පාලිත තෙවරප්පෙරුම මහතා සිය සුසානය ජීවතුන් අතර සිටියදීම නිර්මාණය කර තිබීමත් රට තුළ කතාබහට ලක්වුණු තවත් මාතෘකාවක් වුණි.
+
+◼️
+
+[Data](articles/105696ab.json)
+
+---
+
+### Leaving for work
+
+*2024-04-17 06:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Leaving-for-work/108-280585) · `en`
+
+In many parts of Sri Lanka, particularly in villages, people still wait until the auspicious time to commence work after the New Year. In urban areas, however, people typically do not adhere to a specific time and resume work immediately after the New Year holidays.
+
+◼️
+
+[Data](articles/02bd8e4f.json)
+
+---
+
+### රැකී රක්ෂා සඳහා පිටත්ව යෑමේ නැකැත උදාවෙයි
+
+*2024-04-17 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195705) · `si`
+
+රැකී රක්ෂා සඳහා පිටත්ව යාමේ චාරිත්‍රය අද පූර්ව භාග 6.52ට යෙදී තිබිණි.
+
+කොළ පැහැති වස්ත්‍රාභරණයෙන් සැරසී ගිතෙල් සහ හකුරු මිශ්‍ර කිරිබතක් සහ කැවිලි වර්ගයක් අනුභව කර උතුරු දිශාව බලා රැකි රක්ෂා සඳහා පිටත්ව යාම සුබ බව නැකැත් පත්‍රයේ සඳහන් වුණි.
+
+මේ අතර පැළ සිටුවීමේ චාරිත්‍රය හෙට (18) වැනි බ්‍රහස්පතින්දා පූර්වභාග 10.16ට යෙදී තිබේ.
+
+රන්වන් පැහැති වස්ත්‍රාභරණයෙන් සැරසී නැගෙනහිර දිශාව බලා පැළ සිටුවීම සුබ බව නැකත් පත්‍රයේ දක්වා ඇත.
+
+◼️
+
+[Data](articles/e176d518.json)
+
+---
+
+### New direct flights between Colombo and Dhaka from today
+
+*2024-04-17 06:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-direct-flights-between-Colombo-and-Dhaka-from-today/108-280812) · `en`
+
+Colombo, April 17 (Daily Mirror) - Fits Air is expanding its wings, adding Colombo-Dhaka direct flights from today, the Airport and Aviation Services (Sri Lanka) (Pvt) Limited announced.
+
+Currently, Fits Air operates to three destinations from Colombo such as Dubai, Chennai and the Maldives.
+
+With this new route expansion, this will increase to four destinations, and it will contribute immensely to the development of the travel, trade, and tourism industries between Sri Lanka and Bangladesh.
+
+◼️
+
+[Data](articles/4c5cb8a8.json)
+
+---
+
+### අදත් ප්‍රදේශ කිහිපයකට තද වැසි
+
+*2024-04-17 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195703) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව 2න් පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වල ඇතැම් ස්ථානවලට මි.මී 50ක පමණ තද වැසි ඇති විය හැකි බවය.
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට උදෑසන කාලයේ මීදුම් සහිත තත්ත්වයක් පවතී.
+
+ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/0aa0c6a4.json)
+
+---
+
+### Tax payers poised to cough up Rs.45 Mn on another debate on Easter attack
+
+*2024-04-17 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Tax-payers-poised-to-cough-up-Rs-45-Mn-on-another-debate-on-Easter-attack/155-280791) · `en`
+
+Colombo, April 16 (Daily Mirror) -  Tax payers will have to cough up as much as Rs. 45 million as the cost of conducting yet another three-day parliamentary debate on the Easter Sunday attack for the fourth time, with uncertainty looming whether it will be a meaningless exercise with key questions unanswered once again.
+
+Previously, three such debates took place in the House, but failed to leave the question regarding the mastermind behind the attack unanswered. People, mostly the victims are still disturbed by speculation and demand justice in the form of ascertaining the truth behind the whole saga.
+
+The Business Committee of Parliament that met on on April 5 decided to have a three day debate on the Easter Sunday attacks during the first week of sessions after the Sinhala and Tamil New year.
+
+...
+
+[Data](articles/bccbf179.json)
+
+---
 
 ### Tax payers poised to cough up Rs.45 Mn on another debate on Easter attack
 
@@ -45,6 +149,8 @@ The Business Committee of Parliament that met on on April 5 decided to have a th
 ...
 
 [Data](articles/d4f2d9bd.json)
+
+[Extended Data](ext_articles/d4f2d9bd.ext.json)
 
 ---
 
@@ -812,13 +918,13 @@ He was speaking to the Elpitiya Police Division today (16) and he was permanentl
 
 *2024-04-16 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Street-food-vendor-arrested-for-verbally-harassing-foreigner/108-280794) · `en`
 
-Colombo, April 16 (Daily Mirror)  -The street food vendor who attempted to charge a foreign customer an exorbitant amount for a Kottu Roti and verbally harassed him, was arrested by the Police.
+Colombo, April 16 (Daily Mirror) - Following a contentious verbal exchange involving YouTuber Emeka Iwueze, a Sri Lankan street food vendor accused of charging an excessive amount for a Kottu Roti dish was apprehended by the police.
 
-The altercation unfolded when the vendor allegedly demanded a staggering Rs. 1,900 for a Kottu Roti from the foreign customer. When questioned about the inflated price, the vendor reportedly resorted to harassment tactics, escalating the situation.
+According to a video shared on Emeka Iwueze's official YouTube channel, the American visitor to Sri Lanka embarked on a culinary exploration of the country's street food scene five days prior, aiming to familiarize himself with local cuisine.
 
-The incident, caught on camera and widely circulated on social media, has drawn attention to issues of overcharging and harassments faced by tourists.
+During his outings, Iwueze would stroll through the streets, sampling various dishes and engaging in friendly conversations with locals to better understand the culture and social dynamics.
 
-◼️
+...
 
 [Data](articles/894fa50e.json)
 
@@ -2093,123 +2199,5 @@ New Year celebrations this time did not weed up compared to the past. Fireworks 
 [Data](articles/7349543a.json)
 
 [Extended Data](ext_articles/7349543a.ext.json)
-
----
-
-### Sri Lanka stocks close down, banks take hit after ISB no deal
-
-*2024-04-16 15:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-banks-take-hit-after-isb-no-deal-158709/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
-
-The broader All Share Index closed down 1.78 percent, or 214.04 points, at 11,792; while the S&P SL20 Index closed down 2.66 percent, or 94.92 points, at 3,470.
-
-Turnover was at 1.4 billion. The banks (Rs302mn) and diversified financials (Rs234mn) sectors saw selling pressure.
-
-“There was a dip in the market. The run on the banks we saw earlier was on the expectation that there would be a positive outcome in the Government’s discussions with the international bond holders,” market participants said.
-
-“But with the government not reaching a deal, investors have taken it negatively. We saw the banks sector move down in value.
-
-Sri Lanka agrees to state contingent factor in ISB exchange, ESG bonds also in play
-
-...
-
-[Data](articles/edf355ed.json)
-
-[Extended Data](ext_articles/edf355ed.ext.json)
-
----
-
-### Thailand’s ambassador in Kenya meets with Kananathan
-
-*2024-04-16 15:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Thailands-ambassador-in-Kenya-meets-with-Kananathan/110-280786) · `en`
-
-Ambassador of Thailand to Kenya Ms. Morakot Janemathukorn, paid a visit to Kenya's High Commissioner, Kana Kananathan, at the High Commission Offices in Nairobi .Both participated  in constructive talks concerning bilateral affairs of shared importance. The dialogue focused on bilateral matters that hold significance for both countries.
-
-◼️
-
-[Data](articles/7f6435f5.json)
-
-[Extended Data](ext_articles/7f6435f5.ext.json)
-
----
-
-### Crisis-hit Sri Lanka Freedom Party official accuses seniors of betrayal
-
-*2024-04-16 15:32:00* · [`economynextcom`](https://economynext.com/crisis-hit-sri-lanka-freedom-party-official-accuses-seniors-of-betrayal-158682/) · `en`
-
-ECONOMYNEXT — Tensions within the crisis-riddled Sri Lanka Freedom Party (SLFP) continue with the party’s acting general secretary now accusing party stalwarts of attempting to “betray” the party to its traditional rival the United National Party (UNP).
-
-MP Dushmantha Mithrapala told reporters that the SLFP, as one of the country’s leading centre-left parties, must continue to exist. He vowed to never allow the destruction of the party.
-
-“Some groups are trying to pin the SLFP on the UNP elephant’s tail, but the party members aren’t there. This leftist party should continue to exist in the country. A few people are trying to betray the SLFP to the UNP to retain their privileges,” he said.
-
-SLFP members who left the party to join the ruling Sri Lanka Podujana Peramuna (SLPP) and the party’s wider membership countrywide now have the opportunity to regroup and “rise strong as a party”, said Mithrapala.
-
-...
-
-[Data](articles/6acc1d72.json)
-
-[Extended Data](ext_articles/6acc1d72.ext.json)
-
----
-
-### Why was he killed in sleep?
-
-*2024-04-16 15:21:30* · [`adalk`](https://www.ada.lk/breaking_news/නිදියහනේදීම-ඔහුව-ඝාතනය-වූයේ-ඇයි-/11-409105) · `si`
-
-A 52-year-old man in Ratmalana was killed by an unidentified person with a sharp weapon, believed to be a murder. Mount Lavinia Police are investigating.
-
-🟩
-
-Mount Lavinia Police have reportedly reportedly believed that a person has died due to a sharp weapon in Mount Lavinia.
-
-The deceased is a 52-year-old boy in Ratmalana area.
-
-It has been revealed that two unidentified persons have been delayed by two unidentified people in their homes in their homes.. There is no manner in the murder and Mount Lavinia Police are conducting further investigations.
-
-◼️
-
-[Data](articles/720e2fac.json)
-
-[Extended Data](ext_articles/720e2fac.ext.json)
-
----
-
-### Ecomoffs prepare for a group of employees home
-
-*2024-04-16 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195688) · `si`
-
-Ecomoffs plans to reduce Tesla's workforce by a percentage. Tesla, the world's largest car manufacturer, employs 140,473 globally.
-
-🟩
-
-The company has decided to remove a percentage of employees working in Tesla electronic manufacturing factories.
-
-By December, the world's largest motor vehicle manufacturer, the world's largest motor vehicle manufacturer, was served with 140,473 employees around the world.
-
-◼️
-
-[Data](articles/19c5e6f6.json)
-
-[Extended Data](ext_articles/19c5e6f6.ext.json)
-
----
-
-### NextGenSL facilitates cross-party collaboration
-
-*2024-04-16 15:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NextGenSL-facilitates-cross-party-collaboration/108-280775) · `en`
-
-Colombo, April 16 (Daily Mirror) - Marking a landmark initiative aimed at fostering cross-party cooperation, NextGenSL, a platform dedicated to empowering young leaders from the main political camps, convened representatives from 15 political parties for a two-day consultation session.
-
-The gathering culminated in the development of an initial draft for a cross-party governance and economic development framework, signaling a new step forward in Sri Lanka's political landscape.
-
-Under the auspices of NextGenSL, delegates from diverse political backgrounds engaged in constructive discussions, focusing on key issues concerning governance, economic development, and social progress. Over the course of the consultations, participants collaborated to craft a comprehensive framework that draws from a range of sources, including political manifestos, an IMF diagnostic report, and frameworks from civil organizations.
-
-...
-
-[Data](articles/3c50908d.json)
-
-[Extended Data](ext_articles/3c50908d.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 23:03:31**
+As of **2024-04-17 23:18:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,421 (100.0%) of 19,422 articles have been extended.
+19,422 (100.0%) of 19,422 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,6 +67,8 @@ He said the process of declaring Easter Sunday victims as martyrs will begin on 
 ...
 
 [Data](articles/552a5643.json)
+
+[Extended Data](ext_articles/552a5643.ext.json)
 
 ---
 

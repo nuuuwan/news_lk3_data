@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 20:34:00**
+As of **2024-04-17 20:52:37**
 
 ## Newspaper Stats
 
-*Scraped **19,402** Articles*
+*Scraped **19,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,059
 economynextcom | 1,099
-adalk | 1,617
+adalk | 1,618
 tamilmirrorlk | 2,263
 adaderanalk | 2,330
 virakesarilk | 2,895
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,159
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,400 (100.0%) of 19,402 articles have been extended.
+19,402 (100.0%) of 19,403 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,21 +48,31 @@ Family members announced that his funeral will be held this Friday (10).
 
 [Data](articles/8685cdd9.json)
 
+[Extended Data](ext_articles/8685cdd9.ext.json)
+
 ---
 
-### கல்முனை வடக்கு விவகாரம் :  நிர்வாக அடக்குமுறையை எதிர்த்து 24 நாளாகவும் தொடரும் கவனயீர்ப்பு போராட்டம்
+### Kalmunai Northern Provincial Council
 
 *2024-04-17 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/181333) · `ta`
 
-கல்முனை வடக்கு பிரதேச செயலகத்தின் மீதான தொடர்ச்சியாக நிர்வாக அடக்குமுறைகளுக்கு எதிராக அங்குள்ள பொதுமக்கள் 24 நாளாக புதன்கிழமை (17) கவனயீர்ப்பு போராட்டத்தை முன்னெடுத்து வருகின்றனர்.
+Public protests in Kalmunai Northern Provincial Council against administrative repression, demanding a settlement for the Kalmunai North Divisional Secretariat. Protests have been ongoing for 30 years, with the public fighting for their rights and against oppression.
 
-சுட்டெரிக்கும் வெயிலின் கொடூரத்திலும் நிழல் கூடாரம் அமைக்கத் தடை விதித்த நிலையில் கல்முனை வடக்கு பிரதேச செயலக தீர்விற்கான தமது கோரிக்கைகளை முன் வைத்து பொதுமக்கள் தம்மைக் காக்க பனைமட்டைகளைத் தாங்கி போராடி வருகின்றனர்.
+🟩
 
-குறித்த பிரதேச செயலகத்தின் முன்பாக கடந்த மார்ச் மாதம் திங்கட்கிழமை(25) பொதுமக்கள் பல்வேறு சுலோகங்களை உள்ளடக்கிய  பதாதைகளை தாங்கிய வண்ணம் அமைதி வழியில் ஒன்று கூடி போராட்டம் ஒன்றினை முன்னெடுத்து இருந்தனர். அத்துடன் கல்முனை வடக்கு பிரதேச செயலக நிருவாக செயற்பாடுகளுக்கெதிரான அடக்குமுறைகளுக்கும் அத்துமீறலுக்குமான குறித்த எதிர்ப்புப் போராட்டம் தொடர்ச்சியாக குறித்த பிரதேச செயலகத்தின் முன்பாக உள்ள வீதியின் இரு மருங்கிலும் காலை மாலை இரவு என இடமாறி மேற்கொள்ளப்பட்டு வருகின்றன.
+The public has been carrying out a protest on Wednesday (17) on Wednesday (17) against administrative repression on the Kalmunai North Divisional Secretariat.
+
+The public is fighting the palm leaves to protect themselves with their demands for the Kalmunai North Divisional Secretariat Settlement as the shade tent has been banned in the brutality of the sun.
+
+In front of the Divisional Secretariat on Monday (25), the public gathered together in a peaceful way, carrying various slogans.. In addition, the protest against the oppression and the violation of the Kalmunai North Divisional Secretariat has continued to be launched in the morning on both sides of the road in front of the Divisional Secretariat.
+
+The public said that the protest is being carried out in a series of protests against the oppression and violations of the Kalmunai North Divisional Secretariat.
 
 ...
 
 [Data](articles/957be218.json)
+
+[Extended Data](ext_articles/957be218.ext.json)
 
 ---
 
@@ -159,6 +169,24 @@ It is noteworthy that the Blessed Fernando was invited by the CIT from November 
 [Data](articles/c34a528d.json)
 
 [Extended Data](ext_articles/c34a528d.ext.json)
+
+---
+
+### පාස්කු ප්‍රහාරය ගැන විවෘත විමර්ශනයක් වෙයි කියලා හිතන්න බෑ
+
+*2024-04-17 19:15:16* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරය-ගැන-විවෘත-විමර්ශනයක්-වෙයි-කියලා-හිතන්න-බෑ/11-409133) · `si`
+
+පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය සිදුව වසර 05ක් සම්පූර්ණ වන ලබන 21 වැනිදා සිදු කරනු ලබන සියලු වැඩ කටයුතු ආධ්‍යාත්මික පසුබිමක් අනුව සිදු කරන බවත්, ඒ සඳහා දේශපාලනමය පැතිකඩක් ලබා දීමට බලාපොරොත්තු නොවන බවත් කොළඹ අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණෝ පැවසූහ.
+
+දේශපාලන පක්ෂ නායකයන් මේ පිළිබඳ විමර්ශනය සිදු කරන බවට පොරොන්දු ලබා දෙන අතර, එම පොරොන්දු ඉටු කරනු ඇති බවට බලාපොරොත්තු වන බවත්, කෙසේ වෙතත් හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා වාචිකව ලබා දුන් පොරොන්දුවක් මත විශ්වාසය තබා රැවටීමට ලක් වුණු බවත් උන්වහන්සේ සඳහන් කළහ.
+
+කොළඹ අගරදගුරු මැදුරේ අද (17දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් උන්වහන්සේ මේ බව සඳහන් කළහ.
+
+"පාස්කු ඉරිදා ප්‍රහාරයට 21 වැනිදාට අවුරුදු 05ක් සම්පූර්ණ වෙනවා. තවමත් අපට සතුටුදායක විට හැකි විවෘත විමර්ශනයක් හෝ විනිවිද පෙනෙන විමර්ශනයක් සිදු වෙලා නෑ කියලා තමයි කාගෙත් පිළිගැනීම.
+
+...
+
+[Data](articles/bf1b5328.json)
 
 ---
 
@@ -2249,29 +2277,5 @@ The arrested suspect is 51 years old from Colombo 12.
 [Data](articles/9b34cce5.json)
 
 [Extended Data](ext_articles/9b34cce5.ext.json)
-
----
-
-### Flooding in Dubai turns planes into boats
-
-*2024-04-17 10:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Flooding-in-Dubai-turns-planes-into-boats/107-280823) · `en`
-
-Dubai, April 17 (AFP) - A fierce storm has lashed Dubai with the “exceptional weather” conditions sparking travel chaos.
-
-Wild footage circulating on social media shows Dubai International Airport completely flooded as heavy rain and thunderstorms struck the United Arab Emirates over night, with more rainfall expected on Wednesday.
-
-Clips show the tarmac drowning in water as planes try to navigate their way through what now looks like a marina.
-
-Footage of an Emirates plane at its gate could be seen completely surrounded by water as the desert metropolis battles a year’s worth of rain in just one day, according to Sky News.
-
-“Due to adverse weather conditions, multiple flights to and from @DXB are experiencing delays or disruptions,” the Dubai-based airline wrote on X at 5.30am AEST.
-
-Its latest update shared at 2pm AEST reads: “Flooding and road blockages have left limited transport options for arriving and departing guests. Flights are delayed/diverted and impacted by displaced crew.
-
-...
-
-[Data](articles/d54d648a.json)
-
-[Extended Data](ext_articles/d54d648a.ext.json)
 
 ---

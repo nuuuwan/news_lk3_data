@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 00:48:48**
+As of **2024-04-18 01:03:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,429 (100.0%) of 19,432 articles have been extended.
+19,430 (100.0%) of 19,432 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -157,6 +157,8 @@ The Central Bank of Sri Lanka’s establishment of Business Revival Units (BRUs)
 ...
 
 [Data](articles/624338d6.json)
+
+[Extended Data](ext_articles/624338d6.ext.json)
 
 ---
 

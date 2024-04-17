@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 23:34:13**
+As of **2024-04-17 23:53:06**
 
 ## Newspaper Stats
 
-*Scraped **19,422** Articles*
+*Scraped **19,424** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ islandlk | 1,038
 dailyftlk | 1,059
 economynextcom | 1,099
 adalk | 1,620
-tamilmirrorlk | 2,263
+tamilmirrorlk | 2,264
 adaderanalk | 2,333
 virakesarilk | 2,899
-dailymirrorlk | 2,996
+dailymirrorlk | 2,997
 adaderanasinhalalk | 3,164
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,422 (100.0%) of 19,422 articles have been extended.
+19,422 (100.0%) of 19,424 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### We are struggling with severe shortage of staff: Excise Chief
+
+*2024-04-17 23:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/We-are-struggling-with-severe-shortage-of-staff-Excise-Chief/108-280851) · `en`
+
+Colombo, April 17 (Daily Mirror) - The Excise Department of Sri Lanka, one of the three main revenue generating arms of the country’s Ministry of Finance is struggling with a severe dearth of staff even to perform day-to-day duties, as the 17 top rung positions are vacant for months now, the Daily Mirror learns.
+
+The Daily Mirror broke the story on January 3 this year under the heading ‘Excise Department on the brink of collapse,’ as its entire top rung officials are to retire in the coming few months has not seen any solution to the matter but the situation is getting otherwise worse.
+
+Several remaining senior concerned officers on the account of anonymity said even carrying out daily routine duties has become a fresh challenge as the remaining officials have to cover the work of 17 other officers. Most of these officers are compelled to dispose the lunch they bring from home as they hardly get any time to consume their meals.
+
+...
+
+[Data](articles/24b90ba6.json)
+
+---
+
+### வளிமண்டலவியல் திணைக்களம் “செம்மஞ்சள் எச்சரிக்கை”
+
+*2024-04-17 23:15:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களம்-செம்மஞ்சள்-எச்சரிக்கை/175-336057) · `ta`
+
+இதன்படி, இந்த அறிவிப்பில் குறிப்பிடப்பட்டுள்ளபடி, வடக்கு, வடமத்திய, மேல், சப்ரகமுவ, கிழக்கு, தென் மற்றும் வடமேல் மாகாணங்களிலும் மொனராகலை மாவட்டத்தின் சில இடங்களிலும் வெப்பநிலை அதிகரிக்கலாம் என எதிர்வு கூறப்பட்டுள்ளது.
+
+குறித்த பகுதிகளில் மனித உடலால் உணரப்படும் வெப்பம் அவதானம் செலுத்த வேண்டிய மட்டத்தில் காணப்படுவதாகவும் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/3abf9983.json)
+
+---
 
 ### Blessed Sri Lankan Gamini
 
@@ -2215,47 +2245,5 @@ The Colombo Magistrate's Court has set a carrier to release the delegation in co
 [Data](articles/1b7396d9.json)
 
 [Extended Data](ext_articles/1b7396d9.ext.json)
-
----
-
-### Sri Lanka seeks continued support from bilateral and multilateral partners
-
-*2024-04-17 11:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-continued-support-from-bilateral-and-multilateral-partners-158825/) · `en`
-
-ECONOMYNEXT – Sri Lanka needs the continued support of bilateral and multilateral partners in these challenging times, Minister of Finance Shehan Semasinghe said at the G-24 Finance Ministers’ Conference yesterday (16).
-
-“We seek the continued support of our multilateral and bilateral partners, for us to meet the formidable challenges successfully, and it is imperative that we come together to share insights, strategies, and best practices at forums like today to navigate these turbulent times and build a more resilient and sustainable future,” the Minister posted on his X (Twitter) account.
-
-The G-24 Finance Ministers and Central Bank Governors’ meeting was held during the International Monetary Fund and World Bank Spring meetings in Washington DC in the United States.
-
-The Minister said that the government has adopted other reform programmes aside from the debt restructuring process to address the “fundamental macroeconomic vulnerabilities” that Sri Lanka faces at present.
-
-...
-
-[Data](articles/4c1fd0ff.json)
-
-[Extended Data](ext_articles/4c1fd0ff.ext.json)
-
----
-
-### Drug supplies by Ishi Cash: Woman arrested in Chilaw
-
-*2024-04-17 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181281) · `ta`
-
-Mundal police arrested a woman in Chilaw for distributing ice drugs using Ishi Cash. Seized an ice drug worth Rs. A 35-year-old from Mundala was detained.
-
-🟩
-
-Mundal police have arrested a woman who was involved in ice drugs using Ishi Cash and many other methods from Chilaw to several areas.
-
-Police have seized an ice drug of about Rs.
-
-A 35 -year -old woman from Mundala, Akunavila area, has been arrested.
-
-◼️
-
-[Data](articles/541fbbfd.json)
-
-[Extended Data](ext_articles/541fbbfd.ext.json)
 
 ---

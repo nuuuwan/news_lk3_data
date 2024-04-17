@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 17:03:34**
+As of **2024-04-17 17:18:20**
 
 ## Newspaper Stats
 
@@ -26,27 +26,57 @@ adaderanasinhalalk | 3,153
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,359 (100.0%) of 19,361 articles have been extended.
+19,361 (100.0%) of 19,361 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### නිවසක් තුළ පිළිස්සුණු මළසිරුරක්
+### Yall. Two prisoners arrested for fleeing the Chavakachcheri court premises
+
+*2024-04-17 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181311) · `ta`
+
+Two prisoners, sentenced to death for theft, fled Chavakachcheri court but were arrested 30 minutes later. The magistrate sentenced them to six months in prison and an additional month for not paying a fine.
+
+🟩
+
+Prisoners who fled the Jaffna - Chavakachcheri Magistrate's Court have been arrested for about 30 minutes.
+
+A prisoner who has been sentenced to death in the case of theft has fled the court premises after being brought to the Chavakachcheri court for a case for a case.
+
+They were arrested by the police at about 30 minutes of a break and produced in court.
+
+The Chavakachcheri Magistrate, who was sentenced to six months in prison for the two fugitives, sentenced a thousand rupees of Rs.. He ruled that a further monthly imprisonment should be imprisoned for failing to pay off the penalty.
+
+◼️
+
+[Data](articles/898e969e.json)
+
+[Extended Data](ext_articles/898e969e.ext.json)
+
+---
+
+### A burned bodies in a house
 
 *2024-04-17 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195726) · `si`
 
-නිවසක් තුළ ඇඳක් මත ගින්නකට හසුවී සැක කටයුතු ලෙස මියගිය පුද්ගලයෙකුගේ සිරුරක් අද (17) පෙරවරුවේ සොයාගෙන තිබේ.
+A 48-year-old man was found dead in his house after a dispute with his wife. The Embilipitiya Magistrate and Udawalawe Police are investigating.
 
-මියගොස් ඇත්තේ එම නිවසේ පදිංචිව සිටි 48 හැවිරිදි පුද්ගලයෙකු බව වාර්තා වෙයි.
+🟩
 
-අදාළ නිවස ආසන්නේ වෙළෙඳසැලක් පවත්වාගෙන යන ඔහුගේ බිරිඳ සමග අද අලුයම් කාලයේදී ආරවුලක් ඇති කරගැනීමෙන් අනතුරුව ඔහු නිවසට පැමිණ සිරුරට ගිනි තබාගෙන ඇති බවට බිරිඳ පොලීසිය හමුවේ ප්‍රකාශ කර තිබේ.
+A body of a person who was killed in a man was found on a bed of a house.
 
-ඇඹිලිපිටිය මහෙස්ත්‍රාත්වරයා විසින් මහෙස්ත්‍රාත් පරීක්ෂණය සිදු කර ඇති අතර සිද්ධිය සම්බන්ධයෙන් උඩවලව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The deceased has been identified as a 48 year old resident of the house.
+
+The wife has also stated that he had come to the house after a dispute with his wife with his wife with his wife with his wife, with his wife, with his wife.
+
+Embilipitiya Magistrate has conducted the magisterial inquiry and Udawalawe Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/0e1d8e96.json)
+
+[Extended Data](ext_articles/0e1d8e96.ext.json)
 
 ---
 
@@ -65,6 +95,8 @@ The party also presented a 7-point action plan that it intends to implement unde
 ◼️
 
 [Data](articles/edeea389.json)
+
+[Extended Data](ext_articles/edeea389.ext.json)
 
 ---
 
@@ -87,30 +119,6 @@ The heat of the human body in those areas is at a level focused on the Met Depar
 [Data](articles/bf7a7731.json)
 
 [Extended Data](ext_articles/bf7a7731.ext.json)
-
----
-
-### Yall. Two prisoners arrested for fleeing the Chavakachcheri court premises
-
-*2024-04-17 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181311) · `ta`
-
-Two prisoners, sentenced to death for theft, fled Chavakachcheri court but were arrested 30 minutes later. The magistrate sentenced them to six months in prison and an additional month for not paying a fine.
-
-🟩
-
-Prisoners who fled the Jaffna - Chavakachcheri Magistrate's Court have been arrested for about 30 minutes.
-
-A prisoner who has been sentenced to death in the case of theft has fled the court premises after being brought to the Chavakachcheri court for a case for a case.
-
-They were arrested by the police at about 30 minutes of a break and produced in court.
-
-The Chavakachcheri Magistrate, who was sentenced to six months in prison for the two fugitives, sentenced a thousand rupees of Rs.. He ruled that a further monthly imprisonment should be imprisoned for failing to pay off the penalty.
-
-◼️
-
-[Data](articles/898e969e.json)
-
-[Extended Data](ext_articles/898e969e.ext.json)
 
 ---
 

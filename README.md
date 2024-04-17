@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 06:17:35**
+As of **2024-04-17 06:55:39**
 
 ## Newspaper Stats
 
-*Scraped **19,246** Articles*
+*Scraped **19,247** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,600
 tamilmirrorlk | 2,241
 adaderanalk | 2,314
 virakesarilk | 2,874
-dailymirrorlk | 2,962
+dailymirrorlk | 2,963
 adaderanasinhalalk | 3,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,237 (100.0%) of 19,246 articles have been extended.
+19,245 (100.0%) of 19,247 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### Tax payers poised to cough up Rs.45 Mn on another debate on Easter attack
+
+*2024-04-17 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tax-payers-poised-to-cough-up-Rs-45-Mn-on-another-debate-on-Easter-attack/108-280791) · `en`
+
+Colombo, April 16 (Daily Mirror) -  Tax payers will have to cough up as much as Rs. 45 million as the cost of conducting yet another three-day parliamentary debate on the Easter Sunday attack for the fourth time, with uncertainty looming whether it will be a meaningless exercise with key questions unanswered once again.
+
+Previously, three such debates took place in the House, but failed to leave the question regarding the mastermind behind the attack unanswered. People, mostly the victims are still disturbed by speculation and demand justice in the form of ascertaining the truth behind the whole saga.
+
+The Business Committee of Parliament that met on on April 5 decided to have a three day debate on the Easter Sunday attacks during the first week of sessions after the Sinhala and Tamil New year.
+
+...
+
+[Data](articles/d4f2d9bd.json)
+
+---
 
 ### What I learnt and what Tamil political leaders never learnt
 
@@ -610,6 +626,8 @@ Sulochana Silva is a Research Assistant at the Institute of Policy Studies of Sr
 
 [Data](articles/94761680.json)
 
+[Extended Data](ext_articles/94761680.ext.json)
+
 ---
 
 ### Sri Lanka to focus on Green Entrepreneurship
@@ -624,6 +642,8 @@ Senior Advisor to the President on Climate Change, Ruwan Wijewardene, is activel
 
 [Data](articles/6938fd63.json)
 
+[Extended Data](ext_articles/6938fd63.ext.json)
+
 ---
 
 ### Coca-Cola appoints Kaushali Kusumapala as Country Director for Sri Lanka & Maldives
@@ -637,6 +657,8 @@ With a career spanning back to 2009, Kaushali has garnered diverse experience ha
 ...
 
 [Data](articles/c4d9ca1d.json)
+
+[Extended Data](ext_articles/c4d9ca1d.ext.json)
 
 ---
 
@@ -654,6 +676,8 @@ Thowfeek highlighted the detrimental impact state intervention in markets has on
 
 [Data](articles/50e06cb5.json)
 
+[Extended Data](ext_articles/50e06cb5.ext.json)
+
 ---
 
 ### CSE zigzagging from profit-takings to panic-selling
@@ -669,6 +693,8 @@ Further, the bourse also regressed to red territory led by the ongoing global un
 ...
 
 [Data](articles/7e919d6e.json)
+
+[Extended Data](ext_articles/7e919d6e.ext.json)
 
 ---
 
@@ -2185,23 +2211,5 @@ Under the auspices of NextGenSL, delegates from diverse political backgrounds en
 [Data](articles/3c50908d.json)
 
 [Extended Data](ext_articles/3c50908d.ext.json)
-
----
-
-### Sri Lanka fails to reach deal with Ad Hoc Bondholders on ISBs
-
-*2024-04-16 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98664/sri-lanka-fails-to-reach-deal-with-ad-hoc-bondholders-on-isbs) · `en`
-
-The government of Sri Lanka has concluded the initial restricted discussions with nine members of the Steering Committee of the Ad Hoc Group of Bondholders regarding its international sovereign bonds (ISBs).
-
-During the discussions, which spanned over the past three weeks (Restricted Period), Sri Lanka was joined by its legal and financial advisors Clifford Chance and Lazard, respectively, while the restricted members of the Steering Committee were joined by the Group’s legal and financial advisors, White & Case and Rothschild & Co., respectively.
-
-The Steering Committee as a whole comprises ten of the largest members of the Group, with the Group controlling approximately 50% of the aggregate outstanding amount of ISBs.
-
-...
-
-[Data](articles/d82ea574.json)
-
-[Extended Data](ext_articles/d82ea574.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 20:52:37**
+As of **2024-04-17 21:03:21**
 
 ## Newspaper Stats
 
-*Scraped **19,403** Articles*
+*Scraped **19,405** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ economynextcom | 1,099
 adalk | 1,618
 tamilmirrorlk | 2,263
 adaderanalk | 2,330
-virakesarilk | 2,895
+virakesarilk | 2,896
 dailymirrorlk | 2,991
-adaderanasinhalalk | 3,159
+adaderanasinhalalk | 3,160
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,402 (100.0%) of 19,403 articles have been extended.
+19,403 (100.0%) of 19,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### யாழ்ப்பாணத்தில் மனைவியைக் கூரிய ஆயுதத்தால் தாக்கிய கணவன்!
+
+*2024-04-17 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181334) · `ta`
+
+வட்டுக்கோட்டை பொலிஸ் பிரிவிற்குட்பட்ட அராலி பகுதியில் கணவன் ஒருவர் மனைவியை, கூரிய ஆயுதத்தால் வெட்டி தாக்கியுள்ளார். இச்சம்பவம் புதன்கிழமை (17) மாலை இடம்பெற்றுள்ளது.
+
+இந்நிலையில் படுகாயமடைந்த மனைவி யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகிறார்.
+
+குறித்த தாக்குதலை மேற்கொண்ட கணவன் தலைமறைவாகியுள்ள நிலையில் அவரை கைது செய்வதற்கான நடவடிக்கைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/768ecfc5.json)
+
+---
+
+### රාජ්‍ය වතු සේවකයන්ගේ EPF සහ ETF ගැන තීරණයක්
+
+*2024-04-17 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195734) · `si`
+
+රාජ්‍ය වැවිලි ව්‍යවසායන් යටතේ සේවය කරනු ලබන සේවකයන්ගේ නොගෙවූ ව්‍යවස්ථාපිත ගෙවීම් (EPF/ETF) සිදු කිරීමට අදාළ කැබිනට් පත්‍රිකාව ලබන සතියේ අමාත්‍ය මණ්ඩලය වෙත යොමු කිරීමට නියමිතය.
+
+රාජ්‍ය වැවිලි ව්‍යවසාය ප්‍රතිසංස්කරණ අමාත්‍ය සහ මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා ඒ බව පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ ඒ අනුව සේවක අර්ථසාධක අරමුදලේ සහ සේවා නියුක්තිකයන්ගේ භාර අරමුදලේ අධිභාරයන් සමග රුපියල් කෝටි 500කට අධික මුදලක් ගෙවීමට නියමිත බවය.
+
+වසරේ පළමු රාජකාරිය ලෙස තමන් ඊට අවශ්‍ය උපදෙස් අමාත්‍යාංශ ලේකම්වරයා වෙත ලබාදීමට කටයුතු කළ බව පෙන්වා දුන් අමාත්‍යවරයා කියා සිටියේ වැවිල ව්‍යවසාය ප්‍රතිසංස්කරණ ඇරැඹිය යුත්තේ කම්කරු ජනතාවගේ නීත්‍යානුකූල අයිතීන් ආරක්ෂා කරමින් බවය.
+
+මේ සම්බන්ධයෙන් දැනට සේවක පාර්ශ්වය විසින් නඩු 2000කට අධික ප්‍රමාණයක් පනවා ඇති අතර ඒ වෙනුවෙන් අදාළ ආයතනවලට නීතිඥ ගාස්තු ලෙස ද විශාල මුදලක් වැය වන බව අමාත්‍යවරයා වැඩි දුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/f83748e6.json)
+
+---
 
 ### Post-mortem reveals cause of Palitha Thewarapperuma’s death
 
@@ -172,21 +208,29 @@ It is noteworthy that the Blessed Fernando was invited by the CIT from November 
 
 ---
 
-### පාස්කු ප්‍රහාරය ගැන විවෘත විමර්ශනයක් වෙයි කියලා හිතන්න බෑ
+### Imagine that the Passover attack will be an open investigation
 
 *2024-04-17 19:15:16* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරය-ගැන-විවෘත-විමර්ශනයක්-වෙයි-කියලා-හිතන්න-බෑ/11-409133) · `si`
 
-පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය සිදුව වසර 05ක් සම්පූර්ණ වන ලබන 21 වැනිදා සිදු කරනු ලබන සියලු වැඩ කටයුතු ආධ්‍යාත්මික පසුබිමක් අනුව සිදු කරන බවත්, ඒ සඳහා දේශපාලනමය පැතිකඩක් ලබා දීමට බලාපොරොත්තු නොවන බවත් කොළඹ අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණෝ පැවසූහ.
+Cardinal Ranjith announced an open investigation into the Passover attack, which occurred on the 21st of the 21st of the 21st years. He emphasized the need for a transparent investigation, despite skepticism. The political party leaders have pledged to fulfill their promises of investigation.
 
-දේශපාලන පක්ෂ නායකයන් මේ පිළිබඳ විමර්ශනය සිදු කරන බවට පොරොන්දු ලබා දෙන අතර, එම පොරොන්දු ඉටු කරනු ඇති බවට බලාපොරොත්තු වන බවත්, කෙසේ වෙතත් හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා වාචිකව ලබා දුන් පොරොන්දුවක් මත විශ්වාසය තබා රැවටීමට ලක් වුණු බවත් උන්වහන්සේ සඳහන් කළහ.
+🟩
 
-කොළඹ අගරදගුරු මැදුරේ අද (17දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් උන්වහන්සේ මේ බව සඳහන් කළහ.
+The Degradation Cardinal Ranjith said that all the work carried out on the 21st of the 21st of the 21st years of the Passover attack.
 
-"පාස්කු ඉරිදා ප්‍රහාරයට 21 වැනිදාට අවුරුදු 05ක් සම්පූර්ණ වෙනවා. තවමත් අපට සතුටුදායක විට හැකි විවෘත විමර්ශනයක් හෝ විනිවිද පෙනෙන විමර්ශනයක් සිදු වෙලා නෑ කියලා තමයි කාගෙත් පිළිගැනීම.
+The Thero said that the political party leaders promise to investigate this and that those promises will be fulfilled and that the promises will be fulfilled.
+
+He was speaking at a media briefing held at the Archbishop of Colombo today (17).
+
+"Passover 5 years complete for the attack on Easter. It is the acceptance of a possible open investigation or transparent investigation when we are still happy.
+
+We have made it difficult to think that such an investigation will occur, no matter how many demands we were called.. But we will not give up our hope. We have to be bird that God will reveal this in religious belief. All the work done by all the work is done in accordance with a spiritual background. We do not expect a political profile.
 
 ...
 
 [Data](articles/bf1b5328.json)
+
+[Extended Data](ext_articles/bf1b5328.ext.json)
 
 ---
 
@@ -2235,47 +2279,5 @@ He had already prepared his burial plot in Kalutara for him to be laid to rest. 
 [Data](articles/08ba7e24.json)
 
 [Extended Data](ext_articles/08ba7e24.ext.json)
-
----
-
-### Final rites of Thewarapperuma to be held on Saturday
-
-*2024-04-17 10:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Final-rites-of-Thewarapperuma-to-be-held-on-Saturday/108-280832) · `en`
-
-Colombo, April 17 (Daily Mirror) - According to the family members, the funeral service for former Deputy Minister Palitha Thewarapperuma is scheduled to take place this Saturday (20).
-
-He had experienced an electric shock yesterday while attempting to connect two electrical wires at his residence and had passed away after being admitted to the Nagoda Hospital.
-
-He had already prepared his burial plot in Kalutara for him to be laid to rest. His last wish was for his burial to take place within 24 hours of his death and his remains to be taken for burial on his own carriage.
-
-◼️
-
-[Data](articles/21fdcf13.json)
-
-[Extended Data](ext_articles/21fdcf13.ext.json)
-
----
-
-### The man who tried to sell the bunch of bread for Rs.1900 was trapped
-
-*2024-04-17 10:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/கொத்து-ரொட்டியை-ரூ-1900-க்கு-விற்க-முயன்றவர்-சிக்கினார்/95-336025) · `ta`
-
-A shop owner in Pudukkadai, Colombo, was arrested for allegedly scolding a foreigner over a Rs.1900 bread price. The incident, captured on video, led to his arrest. The suspect, a 51-year-old from Colombo 12, is now under investigation.
-
-🟩
-
-A shop owner has been arrested by the banana plantation police for allegedly scolding a foreigner who came to buy food in the Pudukkadai area of Pudukkadai, Colombo.
-
-When the foreigner asked for the price of a bunch of bread, the shopkeeper said 1900 rupees. The foreigner refused to buy it.
-
-A video on the incident is spreading strongly on social networks. Police said the suspect had been arrested on the basis of a video.
-
-The arrested suspect is 51 years old from Colombo 12.
-
-◼️
-
-[Data](articles/9b34cce5.json)
-
-[Extended Data](ext_articles/9b34cce5.ext.json)
 
 ---

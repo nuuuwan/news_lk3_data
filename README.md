@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 08:06:17**
+As of **2024-04-17 08:18:19**
 
 ## Newspaper Stats
 
-*Scraped **19,264** Articles*
+*Scraped **19,266** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 168
-bbccomsinhala | 201
+bbccomsinhala | 202
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,058
 economynextcom | 1,084
-adalk | 1,600
+adalk | 1,601
 tamilmirrorlk | 2,244
 adaderanalk | 2,316
 virakesarilk | 2,874
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,135
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,262 (100.0%) of 19,264 articles have been extended.
+19,264 (100.0%) of 19,266 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -194,6 +194,8 @@ The island nation has set targets to become carbon neutral in 2050 and is lookin
 
 [Data](articles/437c3922.json)
 
+[Extended Data](ext_articles/437c3922.ext.json)
+
 ---
 
 ### Leaving for work
@@ -351,6 +353,8 @@ Since the operation was launched in mid-December, the police have arrested tens 
 ...
 
 [Data](articles/89c73a78.json)
+
+[Extended Data](ext_articles/89c73a78.ext.json)
 
 ---
 
@@ -647,6 +651,28 @@ In a meeting with the IMF Deputy Managing Director Kenji Okamura, the State Mini
 [Data](articles/76c9e8c8.json)
 
 [Extended Data](ext_articles/76c9e8c8.ext.json)
+
+---
+
+### Made in Sri Lanka : නව නිපැයුම් වලින් සමස්ත ලංකා ජය ලැබූ කුලියාපිටියේ මිහින්
+
+*2024-04-17 02:12:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gedqz5rnjo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, Made in Sri Lanka : නව නිපැයුම් වලින් සමස්ත ලංකා ජය ලැබූ කුලියාපිටියේ මිහින්
+
+Made in Sri Lanka : නව නිපැයුම් වලින් සමස්ත ලංකා ජය ලැබූ කුලියාපිටියේ මිහින්
+
+කුලියාපිටිය සාරනාත් විද්‍යාලයේ 10 ශ්‍රේණියේ අධ්‍යාපනය ලබන එච්.ඒ මිහින් නිදුවර නව නිපැයුම් තරගවලින් සමස්ත ලංකා ජගග්‍රහණ ලද සිසුවෙකි.
+
+ඔහු විසින් නිපදවන ලද ජීවිතාරක්ෂක බෝට්ටුවකට 2022 දී සමස්ත ලංකා පාසල් නව නිපැයුම් තරගයෙන් ප්‍රථම ස්ථානයක් හිමි වී ඇත.
+
+එමෙන්ම ඔහු නිපදවන ලද දරුවන්ගේ ආරක්ෂාව සහතික කෙරෙන 'ගෝ කාට්' එකක් සඳහා 2023 දී තවත් සමස්ත ලංකා ජයග්‍රහණයක් හිමි වූ අතර එම දරුවා අධ්‍යාපන කටයුතු ද ඉතා සමබරව සිදු කරන බව සාරනාත් විද්‍යාලයේ විදුහල්පති චමින්ද රන්දෙනි BBC සිංහල සේවයට පැවසුවේය.
+
+''මම මේ නිර්මාණ කරන්න අවශ්‍ය තාක්ෂණය, දැනුම ලබා ගත්තේ කුඩා කාලයේ පටන් ලබපු අත්දැකීම් වලින් සහ අන්තර්ජාලයෙන්. මට ලොකු ආසාවක් තියෙනවා මේ පැත්තෙන්ම ඉදිරියට ගිහින් රටට, ලෝකයට වැඩදායි පුරවැසියෙක් වෙන්න.'' යනුවෙන් මිහින් නිදුවර සිසුවා කියා සිටියේය.
+
+◼️
+
+[Data](articles/29820c3f.json)
 
 ---
 
@@ -1596,6 +1622,22 @@ He was given the position of Deputy Minister of Internal Affairs, Wayamba Develo
 
 ---
 
+### ඇඹුල් කෙසෙල් ගොවීන්ගෙන් සියයට 42ක් සුළු පරිමාණ ගොවීන් වෙලා
+
+*2024-04-16 19:12:05* · [`adalk`](https://www.ada.lk/breaking_news/ඇඹුල්-කෙසෙල්-ගොවීන්ගෙන්-සියයට-42ක්-සුළු-පරිමාණ-ගොවීන්-වෙලා/11-409111) · `si`
+
+මහා පරිමාණ හෙවත් අක්කර 05කට වැඩි ප්‍රමාණයක වගා කළ ඇඹුල් කෙසෙල් ගොවීන්ගෙන් 42%ක් පමණ ආර්ථික අර්බුදයේ බලපෑම මත සුළු පරිමාණ ගොවීන් බවට පත්ව ඇතැයි හෙක්ටර් කොබ්බෑකඩුව ගොවිකටයුතු පර්යේෂණ හා පුහුණු කිරීමේ ආයතනය විසින් සිදු කරන ලද පර්යේෂණයකින් අනාවරණය වී තිබේ.
+
+ඒ අනුව ගොවීන් අතර GAP(යහපත් කෘෂිකර්ම භාවිතය) පුළුල් ලෙස භාවිතය දිරිමත් කිරීම, නිෂ්පාදන පිරිවැය අඩු කිරීම සහ ඵලදායිතාව වැඩි කිරීම මගින් ඉහළ යන යෙදවුම් පිරිවැයේ ඍණාත්මක බලපෑම් මැඩලීමට උපකාරී වන බවත්, පලතුරු අගය එකතු කළ නිෂ්පාදන අපනයනය ප්‍රවර්ධනය කළ යුතු බවත් පර්යේෂණ වාර්තාව මගින් නිර්දේශ කර ඇත.
+
+ආර්ථික අර්බුදය හේතුවෙන් ශ්‍රී ලංකාවේ එළවළු සහ පලතුරු නිෂ්පාදනය හා අලෙවිකරණය වෙත සිදුවූ බලපෑම අධ්‍යයනය කිරීම සඳහා මෙම පර්යේෂණය සිදු කර ඇති අතර ශ්‍රී ලංකාව දශක කිහිපයක සිට මුහුණ දෙමින් සිටි මූල්‍ය අර්බුදය, ගැඹුරු ආර්ථික අර්බුදයක් කරා වර්ධනය වීම 2022 වසරේ මුල් කාර්තුව අවසන් වනවිට නිරීක්ෂණය වූ බවට වාර්තාවේ දක්වා ඇත.
+
+...
+
+[Data](articles/25ff4fbd.json)
+
+---
+
 ### Sarvodaya founder Dr. A.T. Ariyaratne passes away
 
 *2024-04-16 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98668/sarvodaya-founder-dr-at-ariyaratne-passes-away) · `en`
@@ -2125,49 +2167,5 @@ During festive seasons, especially the traditional New Year, the RDA collects a 
 [Data](articles/6a97b18a.json)
 
 [Extended Data](ext_articles/6a97b18a.ext.json)
-
----
-
-### Not just pharmaceutical fraud in the health sector;679 vehicles belonging to the Ministry of Health are missing - Sajith Premadasa
-
-*2024-04-16 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/181246) · `ta`
-
-Opposition Leader Sajith Premadasa highlights pharmaceutical fraud and missing vehicles in the health sector, vowing to investigate and prosecute. He also criticizes land robberies in the Eastern Province and calls for transparent state-private ventures to move the country forward.
-
-🟩
-
-Amidst many challenges in Parliament, the United People's Power has fought the thieves in court due to the exposure of pharmaceuticals and bribery in the health sector.. The Opposition Leader said that although many people have talked about pharmaceutical fraud, the National Audit Office has announced that 679 vehicles belonging to the Ministry of Health have disappeared.
-
-Of these, some information about 240 vehicles has been found, but the Ministry of Health has not handed over further information to the Audit Office. There is no information on 439 vehicles. Even in the bankrupttara country cannot be seen when such incidents happen. Opposition leader Sajith Premadasa said that due to many such irregularities in state institutions, each of these frauds and thefts will be clearly investigated and brought to court.
-
-Under the Universal Information Technology Program, smart classroom equipment worth Rs.. He said this while attending the event.
-
-...
-
-[Data](articles/7e1f0780.json)
-
-[Extended Data](ext_articles/7e1f0780.ext.json)
-
----
-
-### If it is diplomatic to join the changing government, Karunamman is a diplomacy - Jaya Saravana
-
-*2024-04-16 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/181250) · `ta`
-
-Karunamman, a diplomat if joining the changing government is diplomatic, according to Jaya Saravana, Deputy Leader of the Tamil United Freedom Alliance. The Amman Regiment, led by Karunamman, is involved in social reform and has helped identify drug use in Vavuniya. Critics label Karunamman a traitor, but he defends his actions, arguing against betrayal based on Douglas Tamils and Liberation Tigers.
-
-🟩
-
-Jaya Sarawana, Deputy Leader of the Tamil United Freedom Alliance and Chief Coordinator of the Tamil United Freedom Alliance (UPFA) and the chief coordinator of the Amman Brigade, said that Karunamman was a diplomat if it was diplomatic to join the changing government.
-
-All the programs launched by the leader of the Amman Regiment are going properly. Hundreds of militants are carrying out programs with us in the Vanni mainland.
-
-Most people questioned the activities of the Amman Regiment. Not to lift the weapon and shoot the military. Created for social reform. In the past we have helped to identify drug use in Vavuniya. Last week, we had taken action to the attention of the security forces, such as soil excavations and lumbering.. Our work continues. Currently, we are carrying out programs for the militants affiliated with us.
-
-...
-
-[Data](articles/e3389be0.json)
-
-[Extended Data](ext_articles/e3389be0.ext.json)
 
 ---

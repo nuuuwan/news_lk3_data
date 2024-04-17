@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 10:18:34**
+As of **2024-04-17 10:33:57**
 
 ## Newspaper Stats
 
-*Scraped **19,287** Articles*
+*Scraped **19,289** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,48 +19,96 @@ adalk | 1,603
 tamilmirrorlk | 2,249
 adaderanalk | 2,319
 virakesarilk | 2,877
-dailymirrorlk | 2,972
-adaderanasinhalalk | 3,139
+dailymirrorlk | 2,973
+adaderanasinhalalk | 3,140
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,284 (100.0%) of 19,287 articles have been extended.
+19,287 (100.0%) of 19,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### පවුල් ආරවුල ජීවිතයක් බිලිගනී
+### Flooding in Dubai turns planes into boats
+
+*2024-04-17 10:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Flooding-in-Dubai-turns-planes-into-boats/107-280823) · `en`
+
+Dubai, April 17 (AFP) - A fierce storm has lashed Dubai with the “exceptional weather” conditions sparking travel chaos.
+
+Wild footage circulating on social media shows Dubai International Airport completely flooded as heavy rain and thunderstorms struck the United Arab Emirates over night, with more rainfall expected on Wednesday.
+
+Clips show the tarmac drowning in water as planes try to navigate their way through what now looks like a marina.
+
+Footage of an Emirates plane at its gate could be seen completely surrounded by water as the desert metropolis battles a year’s worth of rain in just one day, according to Sky News.
+
+“Due to adverse weather conditions, multiple flights to and from @DXB are experiencing delays or disruptions,” the Dubai-based airline wrote on X at 5.30am AEST.
+
+Its latest update shared at 2pm AEST reads: “Flooding and road blockages have left limited transport options for arriving and departing guests. Flights are delayed/diverted and impacted by displaced crew.
+
+...
+
+[Data](articles/d54d648a.json)
+
+---
+
+### දමිතා අධිකරණයට රැගෙන එයි
+
+*2024-04-17 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195713) · `si`
+
+මුල්‍ය වංචා චෝදනා මත අත්අඩංගුවට ගත් රංගන ශිල්පිණී දමිතා අබේරත්න මහත්මියව අද (17) උදෑසන කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය වෙත රැගෙන විත් තිබේ.
+
+◼️
+
+[Data](articles/3e934d28.json)
+
+---
+
+### Family dispute lives
 
 *2024-04-17 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195712) · `si`
 
-කන්දේනුවර හුනුගල ප්‍රදේශයේදී තියුණු ආයුධයකින් පහර දී කාන්තාවක් ඝාතනය කර තිබේ.
+A woman was attacked in Kandagala, allegedly by her husband, in a family dispute. The husband claimed his wife was assassinated by her, leading to his arrest. Gategoda Police are investigating further.
 
-පොලීසිය පැවසුවේ, පවුල් ආරවුලක් දුරදිග යාම හේතුවෙන් සිය ස්වාමි පුරුෂයා විසින් සිය බිරිඳ මෙලෙස ඝාතනය සිදුකර ඇති බවට මූලික විමර්ශනවලදී අනාවරණය වී ඇති බවය.
+🟩
 
-ඝාතනය සිදුකළ සැකකරු අත්අඩංගුවට ගෙන ඇති අතර කන්දේනුවර පොලීසිය මඟින් වැඩිදුර විමර්ශන ආරම්භ කර තිබේ.
+A woman was attacked with a sharp weapon in the Hunugala area in Kandagala.
+
+According to the police, the husband had revealed that his wife had been assassinated by his wife by his husband, as a family dispute was over.
+
+The suspect was arrested and the Gategoda Police have commenced further investigations.
 
 ◼️
 
 [Data](articles/6ce26476.json)
 
+[Extended Data](ext_articles/6ce26476.ext.json)
+
 ---
 
-### வடகிழக்கில் 50 வீத்திற்கு மேல் வாக்குகளைப் பெறக்கூடிய ஒருவரை ஜனாதிபதித் தேர்தலில் களமிறக்க வேண்டும் - ஞானமுத்து ஸ்ரீநேசன்
+### A man who can get more than 50 votes in the northeast should field a presidential election - Gnanamuthu Srinasan
 
 *2024-04-17 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181271) · `ta`
 
-வடக்கு கிழக்கிலும், வடகிழக்கிற்கு வெளியிலும், தமிழ் பேசுகின்ற மக்களின் விருபுக்களைப் பெறுகின்ற ஆளுமையுள்ள, வடக்கு கிழக்கில் 50 வீத்திற்கு மேல் வாக்குகளைப் பெறக்கூடிய ஒருவரை எதிர்வரும் ஜனாதிபதித் தேர்தலில் களமிறக்க வேண்டும் இலங்கைத் தமிழரசுக் கட்சியின் மட்டக்களப்பு மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் ஞானமுத்து ஸ்ரீநேசன் தெரிவித்துள்ளார்.
+Gnanamuthu Srinasan, a former TNA parliamentarian, emphasizes the need for a presidential candidate who can garner over 50 votes in the Northeast, reflecting the Tamil-speaking people's wishes. He criticizes the lack of solutions to ethnic issues, despite decades of efforts, and calls for Tamil national parties to engage with presidential candidates to seek solutions.
 
-மட்டக்களப்பு செட்டிபாளையத்தில் உள்ள அவரது இல்லத்தில் செவ்வாய்கிழமை(16.04.2024) மாலை நடைபெற்ற ஊடகவியலாளர் சந்திப்பின்போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-தமிழர் ஒருவரை பொதுவேட்பாளரை நிறுத்தக்கூடாது என்று கூறுகின்றவர்கள், ஏனைய ஜனாதிபதி வேட்பாளர்கள் ஊடாக என்ன தீர்வைத் தருவார்கள்? அவ்வாறு தரக்கூடியவர்கள் யார்? என்பதை தெரிவிக்க வேண்டும் என இலங்கைத் தமிழரசுக் கட்சியின் மட்டக்களப்பு மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் ஞானமுத்து ஸ்ரீநேசன் தெரிவித்துள்ளார்.
+Former parliamentarian Gnanamuttu Srinasan, a former parliamentarian of the Sri Lanka Tamil National Alliance (TNA), said that a person who can get more than 50 votes in the North and East, which is a person who has the wishes of the Tamil -speaking people in the North and East and the Northeast.
+
+He was speaking at a media briefing held at his residence in Chettipalayam, Batticaloa on Tuesday (16.04.2024).
+
+What solution will the people give through other presidential candidates who say that a Tamil person should not stop the public candidate?Who can do so?Former Parliamentarian of the Batticaloa District of the Sri Lanka Tamil National Party (TNA), Gnanamuthu Srinesan said.
+
+It is expected that the Tamil people should decide properly and relaxed in the upcoming presidential election. Civil community and intellectuals are thinking about how to handle this election. It is also expected that the Tamil nationals parties should handle this election.
 
 ...
 
 [Data](articles/79548884.json)
+
+[Extended Data](ext_articles/79548884.ext.json)
 
 ---
 
@@ -127,6 +175,8 @@ Under the Tobacco and Vapes Bill, children turning 15 this year or younger will 
 ...
 
 [Data](articles/998afe0f.json)
+
+[Extended Data](ext_articles/998afe0f.ext.json)
 
 ---
 
@@ -2123,43 +2173,5 @@ Accordingly, all the crops used to study is, beans, eggplant, sour, sour, corkut
 [Data](articles/25ff4fbd.json)
 
 [Extended Data](ext_articles/25ff4fbd.ext.json)
-
----
-
-### Sarvodaya founder Dr. A.T. Ariyaratne passes away
-
-*2024-04-16 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98668/sarvodaya-founder-dr-at-ariyaratne-passes-away) · `en`
-
-The founder of the Sarvodaya Shramadana Movement of Sri Lanka, Dr. A.T. Ariyaratne has passed away at the age of 93.
-
-The former Constitutional Council (CC) member had passed away on Tuesday (16) at a private hospital in Colombo, according to family sources.
-
-Sri Lankabhimanya Ahangamage Tudor Ariyaratne is the Founder and the President Emeritus of the Sarvodaya Shramadana Movement of Sri Lanka, a grass-roots humanitarian organization based on the concept of ‘sharing of labour, thought and energy for the awakening of all’.
-
-Sarvodaya has been active throughout Sri Lanka since 1958 despite numerous hardships it has faced over the years.
-
-...
-
-[Data](articles/322e3fad.json)
-
-[Extended Data](ext_articles/322e3fad.ext.json)
-
----
-
-### Palitha Thevaturam died
-
-*2024-04-16 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195695) · `si`
-
-Palitha Thevaturam, former Deputy Minister, passed away this afternoon.
-
-🟩
-
-The relatives of the family say that the former Deputy Minister Palitha Thevarapperuma has passed away this afternoon.
-
-◼️
-
-[Data](articles/9fd2ab64.json)
-
-[Extended Data](ext_articles/9fd2ab64.ext.json)
 
 ---

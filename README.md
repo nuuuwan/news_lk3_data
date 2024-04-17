@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 09:53:05**
+As of **2024-04-17 10:03:35**
 
 ## Newspaper Stats
 
-*Scraped **19,282** Articles*
+*Scraped **19,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,63 @@ islandlk | 1,038
 dailyftlk | 1,058
 economynextcom | 1,084
 adalk | 1,603
-tamilmirrorlk | 2,248
+tamilmirrorlk | 2,249
 adaderanalk | 2,318
 virakesarilk | 2,876
 dailymirrorlk | 2,972
-adaderanasinhalalk | 3,137
+adaderanasinhalalk | 3,138
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,280 (100.0%) of 19,282 articles have been extended.
+19,282 (100.0%) of 19,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### இன்று முதல் புதிய விசா முறை அமுல்
+### New Visa System from today
 
-*2024-04-17 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181269) · `ta`
+*2024-04-17 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181269) · `ta`
 
-இன்று புதன்கிழமை (17) புதிய விசா  முறை மற்றும் புதிய இணைய வழிமுறையை செயற்படுத்தும் பணியை குடிவரவு மற்றும் குடியகல்வு திணைக்களம்  நடைமுறைப்படுத்தவுள்ளது.
+The Department of Immigration and Emigration will launch a new visa system and internet methods on Wednesday, replacing the E-Visa system with the ETA system, aiming for a faster and more efficient visa application process.
 
-"புதிய விசா  நடைமுறைகள், அதற்கான கட்டணங்கள், பூர்த்தி செய்யவேண்டிய தேவைப்பாடுகள் மற்றும் இலங்கையில் தங்கியிருக்க முடியுமான காலப் பிரிவு என்பன இலக்கம் 2360/24 மற்றும் 2023.11.27 ஆம் திகதிய அதி சிறப்பு அரசிதழ் அறிவித்தல் மூலம் வெளியிடப்பட்டுள்ளது.
+🟩
 
-தற்போது நடைமுறையிலுள்ள ETA (Electronic Travel Authorization) முறைக்குப் பதிலாக அறிமுகம் செய்யப்படும் இணைய வழிமுறையான E-Visa முறைமை GBS Technology Service & IVS Global நிறுவனத்துடன் இணைந்து செயற்படுத்துவதற்கான ஒழுங்குகள் செய்யப்பட்டுள்ளதோடு அந்த இணையத்தளத்தின் தொடர்பு கீழே தரப்பட்டுள்ளது. www.srilankaevisa.lk
+The Department of Immigration and Emigration will implement a new visa system and new internet methods on Wednesday (17).
 
-வெளிநாட்டு சுற்றுலாப் பயணிகள் மற்றும் முதலீட்டாளர்களை கவரும் வகையில், புதிய இணைய வழிமுறையை  அறிமுகப்படுத்துவதன் மூலம் விரைவான மற்றும் திறமையான விசா விண்ணப்ப செயல்முறையை வழங்க உத்தேசித்துள்ளதாக திணைக்களம் சுட்டிக்காட்டியுள்ளது.
+“The new visa procedures, the relevant fees, the requirements to be completed and the period of time in Sri Lanka have been issued by a special notification on No. 2360/24 and 2023.11.27.
+
+The ETA (Electronic Travel Authorization) system, which is being introduced instead of the existing E-Visa system, has been organized to co-operate with GBS Technology & IVS GLOBAL.. www.srilankaevisa.lk
+
+The Department has pointed out that it is intended to provide a rapid and efficient visa application process by introducing a new Internet method to attract foreign tourists and investors.
 
 ◼️
 
 [Data](articles/affab2e5.json)
+
+[Extended Data](ext_articles/affab2e5.ext.json)
+
+---
+
+### බෝට්ටු අනතුරින් ජීවිත 6ක් අහිමිවෙයි
+
+*2024-04-17 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195711) · `si`
+
+ඉන්දීය පාලනය යටතේ පවතින කාශ්මීර ශ්‍රීනගර් ප්‍රදේශයේ ළමුන් පාසල් ප්‍රවාහය කරමින් තිබූ බෝට්ටුවක් පෙරළීමෙන් පුද්ගලයන් 6 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+විදෙස් වාර්තා සඳහන් කළේ, මියගිය අය අතර කාන්තාවක් සහ ඇගේ දරුවන් දෙදෙනා ද වන බවය.
+
+ළමයින් තිදෙනෙකු තවදුරටත් අතුරුදහන් වී ඇති අතර ඔවුන් සෙවීමේ මෙහෙයුම් තවදුරටත් ක්‍රියාත්මක බව සඳහන්ය.
+
+ප්‍රදේශයට ඇදහැලුණු අධික වර්ෂාපතනය හේතුවෙන් ඟගේ ජල මට්ටම ඉහළ යාම හේතුවෙන් මෙම අනතුර සිදුව තිබේ.
+
+විදෙස් වාර්තා සඳහන් කළේ, අනතුර සිදුවන අවස්ථාවේදී පුද්ගලයින් 15 දෙනෙකු බෝට්ටුවේ ගමන් කර ඇති බවය.
+
+◼️
+
+[Data](articles/1efc5656.json)
 
 ---
 
@@ -162,19 +188,25 @@ A young man suspected of cutting a girlfriend in a land that was a little farthe
 
 ---
 
-### සූර්ය මංගල්‍ය ගීතය විකෘති කළ සුරාබදු නිලධාරියාට වැඩ වරදී
+### Solar Festival Distorted Excise officer at work
 
 *2024-04-17 08:28:44* · [`adalk`](https://www.ada.lk/breaking_news/සූර්ය-මංගල්‍ය-ගීතය-විකෘති-කළ-සුරාබදු-නිලධාරියාට-වැඩ-වරදී/11-409114) · `si`
 
-ප්‍රවීණ කලාකරුවෙක් වන රෝහන බැද්දගේ මහතාගේ සූර්ය මංගල්‍ය ගිතය විකෘති කර ගායනා කිරිම සම්බන්ධයෙන් සුරා බදු නිලධාරියෙක් අත්අඩංගුවට ගෙන තිබේ.
+An Excise Tax Officer was arrested for distorting and sharing a song during the Solar Festival of Veteran Artist, following a complaint by the IGP. The North Western provinces' Computer Criminal Division conducted the investigation.
 
-පොලිස්පතිවරයාට කරන ලද පැමිණිල්ලක් අනුව මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබේ. සැකකරු අදාළ ගීතය විකෘති කර ගායනා කර සමාජ මාධ්‍ය වෙතද මුදා හැර තිබේ.
+🟩
 
-මේ පිළිබඳව පරිගණක අපරාධ කොට්ඨාසයේ වයඹ පළාත් ඒකකය කරන ලද විමර්ශනයකින් අනතුරුව සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+An Excise Tax Officer has been arrested on distorting and shingling the Solar Festival of the Solar Festival of Veteran Artist.
+
+The arrest was carried out following a complaint lodged by the IGP. The suspect distorted the relevant song and released to social media.
+
+The suspect was arrested following a investigation made by the North Western provinces of the Computer Criminal Division.
 
 ◼️
 
 [Data](articles/299c83ee.json)
+
+[Extended Data](ext_articles/299c83ee.ext.json)
 
 ---
 
@@ -259,6 +291,26 @@ Meanwhile, the pediatrician cautioned of the prevalence of Typhoid fever among c
 [Data](articles/ef938a7b.json)
 
 [Extended Data](ext_articles/ef938a7b.ext.json)
+
+---
+
+### பொலிஸார் தாக்கியதில் இளைஞனுக்கு பாதிப்பு
+
+*2024-04-17 08:04:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பொலிஸார்-தாக்கியதில்-இளைஞனுக்கு-பாதிப்பு/72-336015) · `ta`
+
+வெளிநாட்டில் இருந்து வருகைதந்துள்ள நபர் ஒருவருடன் சேர்ந்து புளியங்குளம் பொலிஸார் தன்னை தாக்கியதாக தெரிவித்து வவுனியா வைத்தியசாலையில் குடும்பஸ்தர் ஒருவர் அனுமதிக்கப்பட்டுள்ளார்.
+
+குறித்த சம்பவம் நேற்றய தினம் மாலை இடம்பெற்றது. வவுனியா சின்னப்பூவரசங்குளத்தை சேர்ந்த ஒரு பிள்ளையின் தந்தையே  இவ்வாறு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்
+
+நேற்றயதினம் ஒரு விசாரணை ஒன்று இருப்பதாக புளியங்குளம் பொலிஸார் என்னை அழைத்தனர். நான் அங்கு சென்றநிலையில் எனது தொலைபேசி கைப்பை என்பன பறிக்கப்பட்டு இரு கைகளிலும் விலங்கு போடப்பட்டது.
+
+பொலிஸ் நிலையத்தின் பதில் பொறுப்பதிகாரி உட்பட ஏனைய பொலிஸாரும் என்னை பிடித்துவைத்திருக்க, வெளிநாட்டில் இருந்து வருகைதந்திருந்த நபர் ஒருவர் பொலிஸ் நிலையத்திற்குள் வைத்து என்னை தாக்கியிருந்தார்.
+
+பின்னர் நாய்போல என்னை இழுத்துச்சென்ற அவர்கள் அந்த நபரின் வாகனத்தில் ஏற்ற முற்பபட்டனர். இதன்போது நான் போதுமக்களின் உதவியினை நாடி பிரதான வீதியை மறித்திருந்தேன்.
+
+...
+
+[Data](articles/4725da85.json)
 
 ---
 
@@ -2111,63 +2163,5 @@ Carring Thushara has pointed to the Commission that the Cabinet has been able to
 [Data](articles/61c97564.json)
 
 [Extended Data](ext_articles/61c97564.ext.json)
-
----
-
-### Palitha Thevarapperuma: The people of the people of the life of the life
-
-*2024-04-16 18:32:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw8qpnpl2wlo) · `si`
-
-Palitha Thevarapperuma, a former UNP parliamentarian, passed away on May 3, 1960. He entered politics in 2002, serving as Chairman of Matugama Pradeshiya Sabha and later as a Deputy Minister. Known for his involvement in controversial events, he was arrested multiple times. Despite facing challenges, he was praised for his efforts to provide relief during the 2020 COVID-19 pandemic.
-
-🟩
-
-Former Parliamentarian Palitha Thevarapperuma, who represented the UNP, passed away today (16th April 16).
-
-The 64th was the 64 year old when he died on May 3, 1960.
-
-Speaking to the BBC Sinhala
-
-"It's hard to tell us exactly what the accident happened. An investigation is conducting an investigation. "
-
-Palitha Thevarapperuma entered politics in 2002 and was elected as the Chairman of the Matugama Pradeshiya Sabha, representing 7,000 preferential votes.
-
-He was elected to the Western Provincial Council and 39,167 votes were 39,167.
-
-Palitha Thevarapperuma, who was contesting the United National Institute of the United National Party for the first time representing the United National Election, was the first to represent the Parliament with 51,153 preferential votes.
-
-He was contesting for the parliamentary elections in 2015 and received 118,128 preferential votes and was elected to Parliament again.
-
-...
-
-[Data](articles/da879a90.json)
-
-[Extended Data](ext_articles/da879a90.ext.json)
-
----
-
-### “We don't care who will join”
-
-*2024-04-16 18:26:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யார்-இணைவார்கள்-என்பது-எங்களுக்கு-கவலையில்லை/175-335994) · `ta`
-
-The United National Party (UNP) calls for all political parties to unite, focusing on national stability. UNP General Secretary Palitha Range Bandara invites all parties, including the Sri Lanka Freedom Party (SLFP), to join for the nation's welfare. He also criticizes Samaki Jana Balavegaya (SJB) MPs for opposing their party leader and urges SJB and National People's Power (NPP) to focus on the economy, not debates.
-
-🟩
-
-The United National Party today has called for all political parties to join hands, emphasizing that this is the time to forget party politics.
-
-“What we think is a joint venture beyond party politics. The General Secretary of the United National Party, Palitha Range Bandara, said that we are invited to join hands with all political parties to achieve the common goal of transforming Sri Lanka into a stable country.
-
-In response to a question raised by journalists whether the United National Party would welcome the Sri Lanka Freedom Party (SLFP) members, as the Sri Lanka Freedom Party (SLFP) is currently facing a crisis.
-
-“We do not care who will join us until he is ready to join hands for the welfare of the nation,” he added.
-
-The General Secretary of the United National Party has called on the United National Party to join the United National Party to all the MPs in the Samaki Jana Balavegaya (SJB), which is in conflict with his party leader.
-
-...
-
-[Data](articles/496c307c.json)
-
-[Extended Data](ext_articles/496c307c.ext.json)
 
 ---

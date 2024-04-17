@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 07:17:29**
+As of **2024-04-17 07:41:25**
 
 ## Newspaper Stats
 
-*Scraped **19,253** Articles*
+*Scraped **19,255** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,76 @@ adalk | 1,600
 tamilmirrorlk | 2,241
 adaderanalk | 2,314
 virakesarilk | 2,874
-dailymirrorlk | 2,966
-adaderanasinhalalk | 3,133
+dailymirrorlk | 2,967
+adaderanasinhalalk | 3,134
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,247 (100.0%) of 19,253 articles have been extended.
+19,253 (100.0%) of 19,255 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### අභාවප්‍රාප්ත පාලිත තෙවරප්පෙරුමගේ අවසන් කටයුතු ලබන සිකුරාදා
+### ප්‍රවීණ ගායන ශිල්පියාගේ ගීතයක් විකෘති කළ සුරාබදු නිලධාරියා අත්අඩංගුවට
+
+*2024-04-17 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195707) · `si`
+
+ප්‍රවීණ ගායන ශිල්පී රෝහණ බැද්දගේ මහතාගේ ගීතයක් විකෘත කළ බවට සැකකෙරෙන සුරාබදු නිලධාරියෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/4184fb1a.json)
+
+---
+
+### Excise Officer arrested for distorting, sharing song on social media
+
+*2024-04-17 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Excise-Officer-arrested-for-distorting-sharing-song-on-social-media/108-280813) · `en`
+
+Colombo, April 17 (Daily Mirror) - An Excise officer was arrested in Wariyapola for distorting and sharing the 'Sooriya Mangalya' song on social media.
+
+The Computer Crimes Investigation Division of the CID initiated an inquiry following a complaint to the Inspector General of Police regarding the distortion of this traditional New Year song sung by veteran artist Rohana Beddage with the Ranwala Corps.
+
+The North West Provincial Unit of the Computer Crimes Investigation Division conducted an investigation leading to the arrest of a 31-year-old Excise officer from Talathuoya.
+
+The suspect was handed over to the Wariyapola Police Station and is scheduled to produced before the Kuliyapitiya Magistrate's Court today.
+
+◼️
+
+[Data](articles/d7e7f1ac.json)
+
+---
+
+### Funeral of the late Palitha Thevarapperuma next Friday
 
 *2024-04-17 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195706) · `si`
 
-අභාවප්‍රාප්ත පාලිත තෙවරප්පෙරුම මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු ලබන සෙනසුරාදා පවුලේ සුසාන භූමියේදී සිදුකිරීමට නියමිත බව පවුලේ ඥාතීහු සඳහන් කළහ.
+Palitha Thevarapperuma, a prominent Sri Lankan figure, passed away on 16th. His funeral is scheduled for next Friday at the Family Cemetery. Born in 1960, he served as a Deputy Minister of Home Affairs, Wildlife and Cultural Affairs from 2010 to 2020.
 
-එක්සත් ජාතික පක්ෂයේ හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු, හිටපු නියෝජ්‍ය අමාත්‍යවරයෙකු වූ පාලිත තෙවරප්පෙරුම මහතා ඊයේ (16) අභාවප්‍රාප්ත වී තිබිණි.
+🟩
 
-මියයන විට 64 වැනි වියෙහි පසුවු තෙවරප්පෙරුම මහතාගේ මරණයට හේතුව විදුලි සැර වැදීමක් බව ඥාති පුත්‍රයෙකු සඳහන් කළේය.
+Family relatives stated that the funeral of the late Palitha Thevarapperuma is due to be held on Saturdays on the Family Cemetery.
 
-1960 වසරේදී උපත ලැබූ පාලිත කුමාර තෙවරප්පෙරුම මහතා ශ්‍රී ලාංකේය දේශපාලනයේ කතාබහට ලක්වුණු පෙරළිකාර චරිතයකි.
+Former Deputy Minister Palitha Thevarapperuma was passed away yesterday (16).
 
-2002 වසරේදී මතුගම ප්‍රාදේශීය සභාවේ සභාපතිවරයා වූ පාලිත තෙවරප්පෙරුම මහතා බස්නාහිර පළාත් සභාවේ සභිකයෙකු ලෙසද කටයුතු කළේය.
+A relative of a relativu said that the death of the 64th Trepperuma's death to die.
 
-2010 වසරේ සිට 2020 වසර දක්වා කළුතර දිස්ත්‍රික්කය නියෝජනය කරමින් පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස කටයුතු කළ ඔහු ස්වදේශ කටයුතු, වයඹ සංවර්ධන සහ සංස්කෘතික කටයුතු නියෝජ්‍ය අමාත්‍යවරයා ලෙසත් වනජීවි නියෝජ්‍ය අමාත්‍යවරයා ලෙසත් ක්‍රියා කළේය.
+Born in 1960, Palitha Kumara Tharapperuma was a filtroid character in Sri Lanka.
 
-පාලිත තෙවරප්පෙරුම මහතා සිය සුසානය ජීවතුන් අතර සිටියදීම නිර්මාණය කර තිබීමත් රට තුළ කතාබහට ලක්වුණු තවත් මාතෘකාවක් වුණි.
+Palitha Thewarapperuma was also a member of the Western Provincial Council in 2002.
+
+He was a Member of the Kalutara District from 2010 to 2020, as a Deputy Minister of Home Affairs, Wildlife and Cultural Affairs.
+
+Palitha Thevarapperuma was designed while his Susan was alive while he was alive and another title in the country.
 
 ◼️
 
 [Data](articles/105696ab.json)
+
+[Extended Data](ext_articles/105696ab.ext.json)
 
 ---
 
@@ -66,23 +102,31 @@ In many parts of Sri Lanka, particularly in villages, people still wait until th
 
 [Data](articles/02bd8e4f.json)
 
+[Extended Data](ext_articles/02bd8e4f.ext.json)
+
 ---
 
-### රැකී රක්ෂා සඳහා පිටත්ව යෑමේ නැකැත උදාවෙයි
+### Departure prohibition for employment
 
 *2024-04-17 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195705) · `si`
 
-රැකී රක්ෂා සඳහා පිටත්ව යාමේ චාරිත්‍රය අද පූර්ව භාග 6.52ට යෙදී තිබිණි.
+"Departure prohibition for employment. Office ritual held at 6.52 premises. Auspicious sheet shows gale and jaggery in green, creepy and crystal, north director. Planting ritual on Thursday (18), like tomorrow (18). Auspicious sheet in golden garment."
 
-කොළ පැහැති වස්ත්‍රාභරණයෙන් සැරසී ගිතෙල් සහ හකුරු මිශ්‍ර කිරිබතක් සහ කැවිලි වර්ගයක් අනුභව කර උතුරු දිශාව බලා රැකි රක්ෂා සඳහා පිටත්ව යාම සුබ බව නැකැත් පත්‍රයේ සඳහන් වුණි.
+🟩
 
-මේ අතර පැළ සිටුවීමේ චාරිත්‍රය හෙට (18) වැනි බ්‍රහස්පතින්දා පූර්වභාග 10.16ට යෙදී තිබේ.
+The ritual on office was held at 6.52 premises.
 
-රන්වන් පැහැති වස්ත්‍රාභරණයෙන් සැරසී නැගෙනහිර දිශාව බලා පැළ සිටුවීම සුබ බව නැකත් පත්‍රයේ දක්වා ඇත.
+The auspicious sheet states that a gale and jaggery dressed in green garments and a creepy and crystal, and the north director.
+
+Meanwhile, the planting ritual is on Thursday (18), such as tomorrow (18).
+
+The auspicious sheet is shown in the golden garment, dressed in a golden garment.
 
 ◼️
 
 [Data](articles/e176d518.json)
+
+[Extended Data](ext_articles/e176d518.ext.json)
 
 ---
 
@@ -100,23 +144,31 @@ With this new route expansion, this will increase to four destinations, and it w
 
 [Data](articles/4c5cb8a8.json)
 
+[Extended Data](ext_articles/4c5cb8a8.ext.json)
+
 ---
 
-### අදත් ප්‍රදේශ කිහිපයකට තද වැසි
+### Heavy rains in several areas today
 
 *2024-04-17 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195703) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව 2න් පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+Heavy rains and thundershowers expected in Western, Sabaragamuwa, Central, North Western, and Uva provinces, and Galle and Matara districts. Meteorological Department warns of strong winds and lightning dangers.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වල ඇතැම් ස්ථානවලට මි.මී 50ක පමණ තද වැසි ඇති විය හැකි බවය.
+🟩
 
-බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට උදෑසන කාලයේ මීදුම් සහිත තත්ත්වයක් පවතී.
+Showers or thundershowers will occur at several places in the Western, Sabaragamuwa, Central, North Western and Uva provinces and in the Galle and Matara districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Department of Meteorological Department announced Heavy showers in the Western, Sabaragamuwa and North Western Provinces.
+
+Some places in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts have a murder.
+
+The Department of Meteorology has requested the public to take necessary temporary strong winds and lightning dangers with thunderstorms.
 
 ◼️
 
 [Data](articles/0aa0c6a4.json)
+
+[Extended Data](ext_articles/0aa0c6a4.ext.json)
 
 ---
 
@@ -133,6 +185,8 @@ The Business Committee of Parliament that met on on April 5 decided to have a th
 ...
 
 [Data](articles/bccbf179.json)
+
+[Extended Data](ext_articles/bccbf179.ext.json)
 
 ---
 
@@ -2161,43 +2215,5 @@ With more rain expected in the coming days, Pakistan’s National Disaster Manag
 [Data](articles/45479934.json)
 
 [Extended Data](ext_articles/45479934.ext.json)
-
----
-
-### Maxwell makes surprise request ahead of T20 World Cup
-
-*2024-04-16 16:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maxwell-makes-surprise-request-ahead-of-T20-World-Cup/108-280777) · `en`
-
-April 16 - Experienced Australia all-rounder Glenn Maxwell has revealed he asked to sit out a recent Indian Premier League (IPL) match to give himself a 'mental and physical break' ahead of June's ICC Men's T20 World Cup.
-
-Maxwell watched on from the sidelines as his Royal Challengers Bengaluru (RCB) fell to a 25-run loss to Sunrisers Hyderabad on Monday, with the Australia star admitting after the match that he had asked team management to omit him from the side.
-
-The 35-year-old has made an indifferent start to the ongoing IPL season with just 32 runs from six innings and the dip in form has seen the highly-rated RCB outfit manage just one win from seven matches and sees them languish at the bottom of the IPL table.
-
-With Maxwell set to play a major role in Australia's tilt for T20 World Cup success in the USA and Caribbean in June, the veteran said he requested to team management that he be dropped from the side so he could reset ahead of the 20-over showcase.
-
-...
-
-[Data](articles/c9a1cfeb.json)
-
-[Extended Data](ext_articles/c9a1cfeb.ext.json)
-
----
-
-### Problem problems from wide theories ......!
-
-*2024-04-16 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/181236) · `ta`
-
-New Year's celebrations lacked the usual fireworks, a traditionally festive aspect.
-
-🟩
-
-New Year celebrations this time did not weed up compared to the past. Fireworks and fireworks, which were traditionally connected to the New Year's birth, were much lower than the past.
-
-◼️
-
-[Data](articles/7349543a.json)
-
-[Extended Data](ext_articles/7349543a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 15:34:20**
+As of **2024-04-17 15:52:28**
 
 ## Newspaper Stats
 
-*Scraped **19,345** Articles*
+*Scraped **19,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,75 @@ economynextcom | 1,084
 adalk | 1,610
 tamilmirrorlk | 2,259
 adaderanalk | 2,325
-virakesarilk | 2,888
-dailymirrorlk | 2,984
-adaderanasinhalalk | 3,147
+virakesarilk | 2,889
+dailymirrorlk | 2,985
+adaderanasinhalalk | 3,148
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,343 (100.0%) of 19,345 articles have been extended.
+19,345 (100.0%) of 19,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### සංගීත කණ්ඩායමක් රැගත් වෑන් රථයක් ඇළකට පෙරළෙයි
+
+*2024-04-17 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195721) · `si`
+
+සංගීත කණ්ඩායමක් රැගෙන ගමන්කරමින් තිබූ වෑන් රථයක් ඇළකට පෙරළීයාමෙන් අනතුරක් සිදුව තිබේ.
+
+පොළොන්නරුව ඉෆෙක්ට් සංගීත කණ්ඩායම රැගෙන ගමන්කරමින් තිබූ වෑන් රථය මෙලෙස අනතුරට ලක්ව ඇත.
+
+අනතුරින් සංගීත කණ්ඩායමේ කිසිවෙකුටත් හානියක් සිදුව නොමැති අතර වෑන් රථයට හානි සිදුව ඇත.
+
+එම සංගීත කණ්ඩායමේම ශිල්පියෙක් වෑන් රථය පදවා ඇති අතර ප්‍රසංග රැසකට සහභාගී වී සිටීම හේතුවෙන් ඇතිවූ දැඩි වෙහෙස සමග ඔහුට නින්ද යාම හේතුවෙන් මෙම අනතුර සිදුවූ බව පොළොන්නරුව ඉෆෙක්ට් සංගීත කණ්ඩායම අද දෙරණට පැවසීය.
+
+පොළොන්නරුව ඕනෑගම මැදමළුව ප්‍රදේශයේ ප්‍රසංගයක් නිමාකර පැමිණමින් සිටියදී අද අලුයම ඔවුන් මෙම අනතුරට ලක්ව ඇත.
+
+◼️
+
+[Data](articles/ef0fce0c.json)
+
+---
+
+### புத்தாண்டு பாடலை  திரிபுபடுத்திப் பாடிய குற்றச்சாட்டில் கைதான கலால் அதிகாரிக்கு விளக்கமறியல்!
+
+*2024-04-17 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181302) · `ta`
+
+புத்தாண்டு பாடலை திரிபுபடுத்திப் பாடிய குற்றச்சாட்டில் கைது செய்யப்பட்ட சந்தேக நபர் எதிர்வரும் 22 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+சிரேஷ்ட பாடகர் ரோஹன பெத்தகே பாடிய புத்தாண்டு பாடலை  திரிபுபடுத்திப் பாடியதாக  சந்தேக நபர் மீது குற்றம் சுமத்தப்பட்டுள்ளது.
+
+தலாத்துஓயா பிரதேசத்தில் வசிக்கும் 31 வயதான கலால் அதிகாரி ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேகநபர் குளியாபிட்டிய நீதிவான் நீதிமன்றில் இன்று புதன்கிழமை (17) ஆஜர்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+சம்பவம் தொடர்பான மேலதிக விசாரணைகளை கணினி குற்றப் புலனாய்வுப் பிரிவின் வடமேற்கு மாகாணப் பிரிவினர் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/97f27ddd.json)
+
+---
+
+### Probe how Piumi Hansamali got Gota’s Range Rover: Mage Rata organisation
+
+*2024-04-17 15:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Probe-how-Piumi-Hansamali-got-Gotas-Range-Rover-Mage-Rata-organisation/108-280844) · `en`
+
+Colombo, April 17 (Daily Mirror) - Mage Rata organization president Sanjaya Mahawatta today, lodged a complaint with the Illegal Assets Investigations Division, calling for an inquiry into Sri Lankan television personality, beauty pageant contestant and model Piumi Hansamali using the Range Rover vehicle previously used  by former President Gotabaya Rajapaksa.
+
+"It is clear that an election is near and politicians tend to inject all their saved black money into the upcoming election campaigns and it has become a good time for the people who engage with money laundering activities.
+
+"Accordingly, we have some doubts on how Piumi Hansamal managed to get the Range Rover vehicle (CBH 1949) which was used by former President Gotabaya Rajapaksa.
+
+...
+
+[Data](articles/a4bcfa5f.json)
+
+---
 
 ### Plantation community alleges presence of ’scam’ behind Indian Housing project, CWC faces heat
 
@@ -48,11 +104,13 @@ Reliable sources told the Daily Mirror that under this Indian housing grant, tho
 
 [Data](articles/456b24f3.json)
 
+[Extended Data](ext_articles/456b24f3.ext.json)
+
 ---
 
 ### Today
 
-*2024-04-17 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/181298) · `ta`
+*2024-04-17 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/181298) · `ta`
 
 Today, the US $295.2800 was reported at Rs.
 
@@ -1598,29 +1656,39 @@ Then a police officer who arrived there had confessed me and sent me and my wife
 
 ---
 
-### මියන්මාර අවුරුදු දා සමාව  ලැබෙන එරට සිරගතව සිටින ලාංකිකයින් පිරිස කවුද ?
+### Who are the people who are sentenced to forgiven the New Years for Myanmar?
 
 *2024-04-17 08:01:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n1pwklydgo) · `si`
 
-මියන්මාර අවුරුදු දා සමාව  ලැබෙන එරට සිරගතව සිටින ලාංකිකයින් පිරිස කවුද ?
+Myanmar's Public Administration Council released over 3,000 prisoners, including 36 foreign nationals, under a general pardon on April 13. Among them, Sri Lankan fishermen were pardoned, with 15 fishermen from two vessels released. The Sri Lankan Embassy in Myanmar and the Sri Lankan Foreign Affairs in Myanmar committed to pardoning these fishermen.
 
-අප්‍රේල් මස 13 වෙනිදා සිට අප්‍රේල් මස 16 වෙනිදා දක්වා මියන්මාර ජනතාව "තින්ග්යන්" නව අවුරුදු උත්සවය සමරනු ලැබීය.
+🟩
 
-මෙම නව අවුරුදු උත්සවයට සමගාමිව මියන්මාරයේ රාජ්‍ය පරිපාලන සභාව විසින් සිරකරුවන් තුන්දහසකට අධික සංඛ්‍යාවක් පොදු සමාව යටතේ නිදහස් කිරීමට තීරණය කර ඇත.
+Who are the people who are sentenced to forgiven the New Years for Myanmar?
 
-එලෙස පොදු සමාව යටතේ නිදහස් කරනු ලබන සිරකරුවන් 3,303ක් අතර විදේශීය ජාතිකයින් 36 දෙනෙකු සිටින බව සඳහන් ය.
+Upon April 13, Myanmar people celebrated the New Year Festival until April 13.
 
-මියන්මාර අත්අඩංගුවේ සිටින ශ්‍රී ලංකා ධීවරයින්: ‘කළුවර කාමර වල සිර කරලා, ආහාරත් නැහැ’
+With this new New Year's Evil, the Public Administration Council of Myanmar has decided to release more than three prisoners under the general pardon.
 
-බීබීසී සිංහල සේවයට අදහස් දක්වමින් මියන්මාරයේ ශ්‍රී ලංකා තානාපති ජානක බණ්ඩාර පැවසුවේ ලබා දී ඇති පොදු සමාව යටතේ ශ්‍රී ලාංකිකයින් 15 දෙනෙකුට ද නිදහස හිමිව ඇති බවයි.
+There are 36 foreign nationals among 3,303 prisoners who are released under a common pardon.
 
-එලෙස පොදු සමාව යටතේ නිදහස ලබා ඇති සියලුම ශ්‍රී ලාංකිකයින් ධීවරයින් බව තානාපතිවරයා පැවසීය.
+Sri Lankan fishermen in Myanmar custody: Keep trapped in Kaluuwara rooms, food
 
-"පසුගිය වසරේදී මියන්මාර මුහුදු සීමාවේ අනවසරයෙන් ධීවර කටයුතු වල නියැලීම හේතුවෙන් ශ්‍රී ලංකාවේ බහුදින ධීවර යාත්‍රා දෙකක් මියන්මාර් බලධාරීන් සිය භාරයට ගත්තා"
+Speaking to BBC Sinhala Janaka, Ambassador of Myanmar Janaka, Janaka, Janaka, Janaka, has also been free.
+
+The ambassador said that all Sri Lankans who have been freedom have been freedom under the civil pardon are fishermen.
+
+"Two multi-day fishing vessels in Sri Lanka be taken away due to the hacking of myanmar sea last year
+
+"The 15 fishermen of the fishing vessels were now free under the Common Pardology
+
+"All fishermen leaving for fishing in Chilaw and Negombo"
 
 ...
 
 [Data](articles/92c8f1c5.json)
+
+[Extended Data](ext_articles/92c8f1c5.ext.json)
 
 ---
 
@@ -2193,67 +2261,5 @@ The Justice Minister indicated that he will deliberate on these requests and ann
 [Data](articles/1e3ccf2a.json)
 
 [Extended Data](ext_articles/1e3ccf2a.ext.json)
-
----
-
-### Gammanpila seeks official docs on Katchatheevu from FM
-
-*2024-04-17 02:42:34* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-seeks-official-docs-on-Katchatheevu-from-FM/56-760694) · `en`
-
-Pivithuru Hela Urumaya (PHU) leader Udaya Gammanpila has requested official documents from the Ministry of Foreign Affairs concerning the ceding of Katchatheevu Island from India to Sri Lanka. He submitted a Right to Information (RTI) request on 11 April.
-
-Gammanpila said the request was made at an opportune time, as India’s ruling Bharatiya Janata Party (BJP) has brought up the Katchatheevu issue during the lead-up to India’s general election, which begins on 19 April.
-
-He expressed a desire for the public to have access to the relevant documents, including what he termed historical evidence dating back to the 12th century BC and the exchange of letters between India and Sri Lanka on the subject.
-
-The Katchatheevu issue was raised on Indian political platforms by Prime Minister Narendra Modi recently, who accused the rival Congress party of underhandedly giving the island to Sri Lanka. Modi also criticised the Dravida Munnetra Kazhagam (DMK) for its alleged involvement in the matter.
-
-...
-
-[Data](articles/4038a6ec.json)
-
-[Extended Data](ext_articles/4038a6ec.ext.json)
-
----
-
-### BASL outraged at police brutality in Medawachchiya
-
-*2024-04-17 02:41:03* · [`dailyftlk`](https://www.ft.lk/news/BASL-outraged-at-police-brutality-in-Medawachchiya/56-760693) · `en`
-
-Condemns use of brutality by police in carrying out their duties
-
-Says such acts violate  fundamental principles of justice, human rights and international conventions
-
-Announces its intention to closely monitor proceedings and urges authorities to take swift legal measures
-
-The Bar Association of Sri Lanka (BASL) expressed deep concern and outrage over the weekend following reports of a young man allegedly assaulted by officers of the Medawachchiya Police Traffic Division. The incident resulted in the surgical removal of one of the man’s testicles at Anuradhapura Teaching Hospital.
-
-In a statement, the BASL condemned the use of brutality by police during the performance of their duties, asserting that such acts violate fundamental principles of justice and human rights.
-
-...
-
-[Data](articles/378d552a.json)
-
-[Extended Data](ext_articles/378d552a.ext.json)
-
----
-
-### Sarvodaya founder A.T. Ariyaratne no more
-
-*2024-04-17 02:40:28* · [`dailyftlk`](https://www.ft.lk/news/Sarvodaya-founder-A-T-Ariyaratne-no-more/56-760692) · `en`
-
-Sarvodaya founder A.T. Ariyaratne passed away yesterday after a brief illness at a private hospital. He was 92 years old at the time of his death.
-
-Born November 5, 1931, Dr. Ahangamage Tudor Ariyaratne is the founder of the Sarvodaya Shramadana Movement of Sri Lanka. A former high school teacher at Nalanda College, he conducted the first shramadana work camp in 1958, which eventually led to the establishment of the largest non-government organisation in the country.
-
-The father of six distinguished adult children, he has led tens of thousands of family gatherings and meditations with millions of people throughout Sri Lanka and other parts of the world.
-
-He was nominated to the Constitutional Council as a civil representative on 10 September 2015.
-
-...
-
-[Data](articles/1fd907d8.json)
-
-[Extended Data](ext_articles/1fd907d8.ext.json)
 
 ---

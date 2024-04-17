@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 15:52:28**
+As of **2024-04-17 16:03:44**
 
 ## Newspaper Stats
 
-*Scraped **19,348** Articles*
+*Scraped **19,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,60 +15,104 @@ newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,059
 economynextcom | 1,084
-adalk | 1,610
+adalk | 1,611
 tamilmirrorlk | 2,259
 adaderanalk | 2,325
 virakesarilk | 2,889
-dailymirrorlk | 2,985
-adaderanasinhalalk | 3,148
+dailymirrorlk | 2,986
+adaderanasinhalalk | 3,149
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,345 (100.0%) of 19,348 articles have been extended.
+19,348 (100.0%) of 19,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### සංගීත කණ්ඩායමක් රැගත් වෑන් රථයක් ඇළකට පෙරළෙයි
+### ජාතික ජන බලවේගය පාස්කු වින්දිතයන්ට යුක්තිය ඉටුකරන අයුරු පැහැදිලි කරයි
+
+*2024-04-17 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195722) · `si`
+
+2019 වර්ෂයේ අප්‍රේල් මස 21 පාස්කු ඉරුදින සිදුවූ ත්‍රස්ත ප්‍රහාරයේ වින්දිතයන්ට යුක්තිය ඉටුකිරීමෙහිලා වන ජාතික ජන බලවේගයේ ප්‍රතිඥාව එම පක්ෂය විසින් ප්‍රසිද්ධ කර තිබේ.
+
+ජාතික ජන බලවේගයේ ආණ්ඩුවකින් එම කරුණු සම්බන්ධයෙන් නිසි ලෙස නීතිය ක්‍රියාත්මක කරන බවටත් එම ප්‍රහාරයට ඍජු හෝ වක්‍ර ලෙස සම්බන්ධවූ පුද්ගලයන්ට එරෙහිව නිසි නීතිමය ක්‍රියාමාර්ග ගන්නා බවටත් අවධාරණය කරයි.
+
+◼️
+
+[Data](articles/496bf925.json)
+
+---
+
+### A van carrying a band rolls in canal
 
 *2024-04-17 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195721) · `si`
 
-සංගීත කණ්ඩායමක් රැගෙන ගමන්කරමින් තිබූ වෑන් රථයක් ඇළකට පෙරළීයාමෙන් අනතුරක් සිදුව තිබේ.
+A van carrying the Evt Band Bandu Polonnaruwa was in danger in a canal, but no one was hurt. The driver was asleep due to exhaustion from concerts.
 
-පොළොන්නරුව ඉෆෙක්ට් සංගීත කණ්ඩායම රැගෙන ගමන්කරමින් තිබූ වෑන් රථය මෙලෙස අනතුරට ලක්ව ඇත.
+🟩
 
-අනතුරින් සංගීත කණ්ඩායමේ කිසිවෙකුටත් හානියක් සිදුව නොමැති අතර වෑන් රථයට හානි සිදුව ඇත.
+A van that was carrying a band a band was in danger to the stream.
 
-එම සංගීත කණ්ඩායමේම ශිල්පියෙක් වෑන් රථය පදවා ඇති අතර ප්‍රසංග රැසකට සහභාගී වී සිටීම හේතුවෙන් ඇතිවූ දැඩි වෙහෙස සමග ඔහුට නින්ද යාම හේතුවෙන් මෙම අනතුර සිදුවූ බව පොළොන්නරුව ඉෆෙක්ට් සංගීත කණ්ඩායම අද දෙරණට පැවසීය.
+The van that was carrying the Evt Band Bandu Polonnaruwa, Polonnaruwa.
 
-පොළොන්නරුව ඕනෑගම මැදමළුව ප්‍රදේශයේ ප්‍රසංගයක් නිමාකර පැමිණමින් සිටියදී අද අලුයම ඔවුන් මෙම අනතුරට ලක්ව ඇත.
+No one has been harmed in the accident and damaged the van.
+
+The Polonnaruwa Evt Band today told Ada Derana that the van was driven by the van and was sleeping with the struggle caused by a number of concerts.
+
+They were inaugurated in the accident in general area Polonnaruwa.
 
 ◼️
 
 [Data](articles/ef0fce0c.json)
 
+[Extended Data](ext_articles/ef0fce0c.ext.json)
+
 ---
 
-### புத்தாண்டு பாடலை  திரிபுபடுத்திப் பாடிய குற்றச்சாட்டில் கைதான கலால் அதிகாரிக்கு விளக்கமறியல்!
+### Explain to Kalal Officer arrested on charges of distorting New Year's song!
 
 *2024-04-17 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181302) · `ta`
 
-புத்தாண்டு பாடலை திரிபுபடுத்திப் பாடிய குற்றச்சாட்டில் கைது செய்யப்பட்ட சந்தேக நபர் எதிர்வரும் 22 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+Kalal Officer arrested for distorting New Year's song by Rohana Betake, remanded until 22nd. Accused of singing a distorted version of the song.
 
-சிரேஷ்ட பாடகர் ரோஹன பெத்தகே பாடிய புத்தாண்டு பாடலை  திரிபுபடுத்திப் பாடியதாக  சந்தேக நபர் மீது குற்றம் சுமத்தப்பட்டுள்ளது.
+🟩
 
-தலாத்துஓயா பிரதேசத்தில் வசிக்கும் 31 வயதான கலால் அதிகாரி ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+The suspect arrested on charges of distorting the New Year's song has been remanded until the 22nd of this month.
 
-சந்தேகநபர் குளியாபிட்டிய நீதிவான் நீதிமன்றில் இன்று புதன்கிழமை (17) ஆஜர்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+The suspect has been accused of distorting and singing a New Year song sung by senior singer Rohana Betake.
 
-சம்பவம் தொடர்பான மேலதிக விசாரணைகளை கணினி குற்றப் புலனாய்வுப் பிரிவின் வடமேற்கு மாகாணப் பிரிவினர் மேற்கொண்டு வருகின்றனர்.
+The 31 -year -old Kalal officer living in the Talatuoya area has been arrested.
+
+The order was issued when the suspect was produced before the Kiliyapitiya Magistrate's Court on Wednesday (17).
+
+Further investigations into the incident are being carried out by the Northwest Provincial Division of the Computer Criminal Investigation Division.
 
 ◼️
 
 [Data](articles/97f27ddd.json)
+
+[Extended Data](ext_articles/97f27ddd.ext.json)
+
+---
+
+### Complaint lodged over Piumi Hansamali's possession of Gota’s Range Rover
+
+*2024-04-17 15:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Complaint-lodged-over-Piumi-Hansamali-s-possession-of-Gotas-Range-Rover/108-280844) · `en`
+
+Colombo, April 17 (Daily Mirror) - Mage Rata organization president Sanjaya Mahawatta today, lodged a complaint with the Illegal Assets Investigations Division, calling for an inquiry into model Piumi Hansamali using the Range Rover vehicle previously used  by former President Gotabaya Rajapaksa.
+
+"It is clear that an election is near and politicians tend to inject all their saved black money into the upcoming election campaigns and it has become a good time for the people who engage with money laundering activities.
+
+"Accordingly, we have some doubts on how Piumi Hansamal managed to get the Range Rover vehicle (CBH 1949) which was used by former President Gotabaya Rajapaksa.
+
+"The question arises whether the Range Rover vehicle was given to the former president or if Gotabaya has given it to Piyumi," said Mahawatta and further alleged that the model currently resides in a super luxury apartment, owns other properties and leads an exceedingly luxurious lifestyle.
+
+...
+
+[Data](articles/02a10bf9.json)
 
 ---
 
@@ -85,6 +129,8 @@ Colombo, April 17 (Daily Mirror) - Mage Rata organization president Sanjaya Maha
 ...
 
 [Data](articles/a4bcfa5f.json)
+
+[Extended Data](ext_articles/a4bcfa5f.ext.json)
 
 ---
 
@@ -2219,47 +2265,5 @@ According to the University Grants Commission (UGC), the second most expensive u
 [Data](articles/f84df3c4.json)
 
 [Extended Data](ext_articles/f84df3c4.ext.json)
-
----
-
-### Range Bandara invites key SJB MPs to rejoin party
-
-*2024-04-17 02:46:13* · [`dailyftlk`](https://www.ft.lk/news/Range-Bandara-invites-key-SJB-MPs-to-rejoin-party/56-760696) · `en`
-
-Invites MPs  Harsha de Silva, Thalatha Atukorale, Eran Wickramaratne and Kabir Hashim to strengthen President’s efforts in rebuilding SL
-
-Claims SJB leadership is marginalising these MPs after control has shifted to SLPP aligned group
-
-United National Party (UNP) General Secretary Palitha Range Bandara issued an open invitation to several prominent Samagi Jana Balawegaya (SJB) MPs yesterday to rejoin the UNP ahead of the upcoming polls.
-
-Addressing a press conference, Range Bandara accordingly invited SJB MPs Harsha de Silva, Thalatha Atukorale, Eran Wickramaratne and Kabir Hashim to rejoin the age-old party.
-
-“We are aware of the way MPs skilled in economic affairs such as Harsha de Silva and Eran Wickramaratne, as well as Ratnapura district MP Thalatha Atukorale, who led women’s movements, have been treated,” the UNP General Secretary said.
-
-...
-
-[Data](articles/1c787982.json)
-
-[Extended Data](ext_articles/1c787982.ext.json)
-
----
-
-### Wijeyadasa contemplates Presidential bid amidst calls for candidacy
-
-*2024-04-17 02:44:11* · [`dailyftlk`](https://www.ft.lk/news/Wijeyadasa-contemplates-Presidential-bid-amidst-calls-for-candidacy/56-760695) · `en`
-
-Justice Minister Dr. Wijeyadasa Rajapakshe disclosed that he has been approached by various quarters to consider contesting in the upcoming Presidential election.
-
-Speaking to journalists, he revealed that several requests have been forwarded by members of the Sri Lanka Freedom Party’s (SLFP) Central Working Committee.
-
-In addition, Minister Dr. Rajapakshe noted that he has received similar requests from religious leaders, including the Maha Sangha.
-
-The Justice Minister indicated that he will deliberate on these requests and announce his decision next week regarding his potential candidacy in the Presidential Election.  The announcement has sparked anticipation and speculation among political circles as the country awaits Dr. Rajapakshe’s final decision.
-
-◼️
-
-[Data](articles/1e3ccf2a.json)
-
-[Extended Data](ext_articles/1e3ccf2a.ext.json)
 
 ---

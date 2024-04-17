@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 19:34:07**
+As of **2024-04-17 19:51:25**
 
 ## Newspaper Stats
 
-*Scraped **19,396** Articles*
+*Scraped **19,398** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,56 +17,108 @@ dailyftlk | 1,059
 economynextcom | 1,099
 adalk | 1,617
 tamilmirrorlk | 2,263
-adaderanalk | 2,329
+adaderanalk | 2,330
 virakesarilk | 2,894
 dailymirrorlk | 2,989
-adaderanasinhalalk | 3,157
+adaderanasinhalalk | 3,158
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,378 (99.9%) of 19,396 articles have been extended.
+19,391 (100.0%) of 19,398 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### அருட்தந்தைக்கு  CID அழைப்பாணை
+### අවුරුදු නෑ ගමන මළගෙයක් වෙයි
+
+*2024-04-17 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195731) · `si`
+
+දකුණු පළාතේ දිසා විනිසුරුවරයෙකුට උප පොලිස් පරීක්ෂකවරයෙක් සිදුකළ පහරදීමක් සම්බන්ධයෙන් පුවතක් වාර්තාවිය.
+
+දිසා විනිසුරුවරයා සුරතලයට ඇතිකරන බළලා පිළිබඳ ඇති වූ ආරවුලක් දුරදිග ගොස් ගැටුම හටගෙන ඇති අතර සිද්ධියෙන් පසු විනිසුරුවරයාගේ බිරිඳ රෝගීව මියගොස් ඇති බව පොලීසිය පවසයි.
+
+අලුත් අවුරුදු දා දිසා විනිසුරුවරයා සුරතලයට ඇතිකරන බළලාද රැගෙන සිය බිරිඳ සමග උපපොලිස් පරීක්ෂකවරයෙක් වන ඇයගේ සොහොයුරාගේ නිවසට ගොස් ඇත.
+
+එහිදී නැවත නිවසට පැමිණීමට සූදානම් වූ අවස්ථාවේ සුරතලයට ඇතිකරන බළලා අතුරුදන්වීමත් සමග ඇතිවූ උණුසුම් කතාබහක් අතරතුරදී උප පොලිස් පරීක්ෂකවරයා විසින් දිසා විනිසුරුවරයාට පහරදී ඇති බව පොලීසිය පවසයි.
+
+පසුව විනිසුරුවරයා මේ පිළිබඳ දුරකථන මාර්ගයෙන් අක්මීමන පොලීසියට පැමිණිලි කර ඇති බව පොලීසිය පවසයි.
+
+ඒ් අනුව පොලිස් කණ්ඩායමක් එම නිවසට පැමිණ සිද්ධිය පිළිබඳ ප්‍රකාශ සටහන් කරගන්නා අවස්ථාවේදී විනිසුරුවරයාගේ බිරිඳ එනම් පහරදුන් බව කියන පොලිස් නිලධාරියාගේ නැගණිය සිය ළය ප්‍රදේශය රිදෙන බවට පවසා ඇතැයි වාර්තා වෙයි.
+
+නමුත් ඒ් පිළිබඳව වැඩි තැකීමක් නොකළ විනිසුරුවරයා සිය ප්‍රකාශය ලබාදුන් බව පොලීසිය පවසයි.
+
+...
+
+[Data](articles/d9366d0d.json)
+
+---
+
+### CID invitation to the blessing
 
 *2024-04-17 19:20:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அருட்தந்தைக்கு-CID-அழைப்பாணை/175-336056) · `ta`
 
-கொழும்பு உயர்மறைமாவட்டத்தின் தொடர்பாடல் குழு உறுப்பினர் Fr. சிறில் காமினி பெர்னாண்டோவை குற்றப் புலனாய்வுப் பிரிவினர் ஏப்ரல் 19 வெள்ளிக்கிழமை விசாரணைக்கு அழைத்துள்ளனர்.
+Cyril Gamini Fernando, a member of the Communication Team at the Colombo High Commission, has been invited by the Criminal Investigation Department (CID) for a trial on April 19, 2021. Aruttand Fernando, editor of Sinhala Pradeepa and Gnanartha Pradeepa, has been sent to the CID due to his knowledge of the Easter Sunday attacks. He was previously invited by the CIT from November 3 to 8, 2021, and arrested during that period.
 
-ஞானார்த்த பிரதீப்யா என்ற சிங்கள கத்தோலிக்க வார இதழின் ஆசிரியருமான அருட்தந்தை பெர்ணான்டோ , ஈஸ்டர் ஞாயிறு தாக்குதல்கள் தொடர்பான சில விவரங்கள் தனக்குத் தெரியும் என குற்றப் புலனாய்வுப் பிரிவினர் நம்புவதால் தமக்கு அழைப்பாணை அனுப்பப்பட்டுள்ளதாகத் தெரிவித்துள்ளார்.
+🟩
 
-அருட்தந்தை பெர்னாண்டோ 2021 நவம்பர் 3 முதல் 8 வரையான காலப்பகுதியிலும் சிஐடியால் அழைக்கப்பட்டதுடன் அந்த ஆண்டில் அவர் கைது செய்யப்படுவதற்கு எதிராக தடை உத்தரவைப் பெற்றமையும் குறிப்பிடத்தக்கது.
+Communication Team Member of Colombo High Commission. The Criminal Investigation Department (CID) has called on Cyril Gamini Fernando for trial on Friday, April 19.
+
+Aruttand Fernando, editor of Sinhala Pradeepa, Gnanartha Pradeepa, has said that he has been sent to the Criminal Investigation Department as he is aware of some details of the Easter Sunday attacks.
+
+It is noteworthy that the Blessed Fernando was invited by the CIT from November 3 to 8, 2021, and that he was arrested in that year.
 
 ◼️
 
 [Data](articles/c34a528d.json)
 
+[Extended Data](ext_articles/c34a528d.ext.json)
+
 ---
 
-### பாலித தெவரப்பெருமவின் மரணத்திற்கான காரணம் வெளியானது
+### Fr. Cyril Gamini Fernando summoned by the CID
+
+*2024-04-17 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98689/fr-cyril-gamini-fernando-summoned-by-the-cid) · `en`
+
+The Criminal Investigations Department (CID) has reportedly summoned Rev. Fr. Cyril Gamini Fernando, a Catholic Priest and a spokesperson of the Archdiocese of Colombo.
+
+He has been summoned to record a statement in relation to the Easter Sunday terror attacks.
+
+Accordingly, the CID has informed Rev. Fr. Cyril Gamini Fernando to appear at 10.00 a.m. on Friday (April 19).
+
+◼️
+
+[Data](articles/37d936d6.json)
+
+---
+
+### The cause of the death of Palitha Thevaraparuma has been released
 
 *2024-04-17 19:12:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலித-தெவரப்பெருமவின்-மரணத்திற்கான-காரணம்-வெளியானது/175-336055) · `ta`
 
-மின்சாரம் தாக்கியதில் உள்ளுறுப்புகளில் ஏற்பட்ட பலத்த சேதம் காரணமாகவே முன்னாள் இராஜாங்க அமைச்சர் பாலித தெவரப்பெருமவின் மரணம் சம்பவித்துள்ளதாக பிரேத பரிசோதனையில் உறுதிப்படுத்தப்பட்டுள்ளது.
+Autopsy confirms Palitha Thevarapperuma's death from severe viscera damage.
 
-களுத்துறை நாகொடை பொது வைத்தியசாலையின் சட்ட வைத்திய பிரிவின் பிரதம சட்ட வைத்திய அதிகாரி கே. எம். டி. பி. குணதிலக்க தலைமையில் வைத்தியசாலையின் சட்ட வைத்தியப் பிரிவில் பிரேத பரிசோதனை இன்று (17) நடைபெற்றது.
+🟩
 
-விபத்துக்குள்ளான இடத்தை நேற்று (16) களுத்துறை சட்ட வைத்திய அதிகாரி விசேட வைத்தியர் கலாநிதி கே. எம். டி. பி. குணதிலக்க அவதானித்த பின்னர், பிரேத பரிசோதனை இடம்பெற்றுள்ளது.
+An autopsy has confirmed that the death of former Secretary of State Palitha Thevarapperuma has been caused by severe damage in the viscera.
 
-பின்னர், களுத்துறை குற்றத்தடுப்பு விசாரணை ஆய்வக அதிகாரிகள் விபத்து நடந்த இடத்தை அவதானித்ததுடன், மத்துகம மேலதிக நீதவானும் சம்பவ இடத்தில் விசாரணைகளை மேற்கொண்டார்.
+Chief Law Officer of the Legal Hospital of Nagoda, Kalutara. M.. D. B.. An autopsy was held today (17) in the hospital's legal unit headed by Gunathilaka.
 
-பிரேத பரிசோதனைக்கு முன்னர், சடலத்தை களுத்துறை பிரதான நீதவான் நிதா ஹேமமாலி ஹல்பண்தெனியவும் பரிசோதனை செய்துள்ளார்.
+Kalutara Legal Officer, Specialist Dr. K.. M.. D. B.. After Gunathilaka observed, the autopsy took place.
 
-பிரேத பரிசோதனையின் பின்னர் பிற்பகல் 3.30 மணியளவில் அமைச்சரின் மனைவியிடம் சடலம் ஒப்படைக்கப்பட்டு களுத்துறையில் உள்ள மலர்ச்சாலைக்கு கொண்டு செல்லப்பட்டது. R
+Subsequently, the Kalutara Crime Investigation Department officials observed the site of the accident and the Mathugama Additional Magistrate conducted an investigation into the incident.
+
+Prior to the autopsy, the body of the Kalutara Chief Magistrate Nida Hemamali Halbanteniya had also been examined.
+
+The body was handed over to the minister's wife at 3.30 pm after the autopsy.. Remble
 
 ◼️
 
 [Data](articles/b541588b.json)
+
+[Extended Data](ext_articles/b541588b.ext.json)
 
 ---
 
@@ -166,23 +218,31 @@ Go beyond politics and focus on this. It must be understood that they do it for 
 
 ---
 
-### පාලිතගේ මරණයට හේතුව හෙළිවෙයි
+### The cause of Palitha's death reveals
 
 *2024-04-17 18:00:16* · [`adalk`](https://www.ada.lk/breaking_news/පාලිතගේ-මරණයට-හේතුව-හෙළිවෙයි/11-409130) · `si`
 
-හිටපු රාජ්‍ය අමාත්‍ය පාලිත තෙවරප්පෙරුම මහතාගේ මරණය විදුලි සැර වැදීමෙන් ශරීරයේ අභ්‍යන්තර ඉන්ද්‍රියන් වලට සිදුවූ බරපතළ හානි  හේතුවෙන්  සිදුවූ මරණයක් බව  පශ්චාත් පරීක්ෂණයේදී තහවුරු වී තිබේ.
+Palitha Thewarapperuma, former Minister of State, died from severe internal organ damage. Post-mortem examination by Kalutara Hospital's Judicial Medical Officer revealed the cause. The body was identified at Kalutara Survey Hospital and inspected by KM. The Minister was hit in Kalutara, where local tests were conducted. Mrs. Ama Rajapaksa Naltaangani Amaratunga, the Minister's wife, identified the body. UNP General Secretary Palitha Ranga Bandara visited the scene. The body was then taken to a flower hall in Kalutara, followed by condolences in Matugama.
 
-කළුතර නාගොඩ මහ රෝහලේ අධිකරණ වෛද්‍ය ඒකකයේ විශේෂඥ අධිකරණ වෛද්‍ය නිළධාරී  කේ එම් .ටී .බී. ගුණතිලක මහතාගේ ප්‍රධානත්වයෙන් අද (17 ) කළුතර  නාගොඩ මහ රෝහලේ අධිකරණ වෛද්‍ය ඒකකයේ දී  පශ්චාත් මරණ පරීක්ෂණය පැවැත්විණි.
+🟩
 
-අමාත්‍යවරයා අනතුරට ලක්වූ යටදොළවත්ත , නවුත්තුඩුව කරම්පෑතර පිහිටි ස්ථානය කළුතර විශේෂඥ  අධිකරණ වෛද්‍ය නිලධාරී  කේ.එම්.ටී.බීගුණතිලක මහතා නිරීක්ෂණය කිරීමෙන් අනතුරුව පශ්චාත් මරණ පරීක්ෂණය සිදු කරනු ලැබීය.
+The death of former Minister of State Palitha Thewarapperuma has confirmed death due to serious damage caused by the body of the body of internal organs.
 
-හිටපු අමාත්‍යවරයාගේ බිරිඳ වන අමිතා නාලිංගනී අමරතුංග මහත්මිය විසින් කළුතර ශීක්ෂණ  රෝහලේදී මෘත දේහය හඳුනාගන්නා ලදී.
+Specialist Judicial Medical Officer of the Nagoda Hospital, Kalutara. The post mortem examination was held today (17) under the patronage of Mr. Gunatilake.
 
-අනතුරුව කළුතර අපරාධ ස්ථාන පරීක්ෂණාගාර නිලධාරීන් අමාත්‍යවරයා අනතුරට ලක් වූ ස්ථානය නිරීක්‍ෂණය  කරන ලද අතර, මතුගම අතිරේක මහේස්ත්‍රාත්වරයා විසින් ස්ථානීය පරීක්ෂණයක්ද සිදුකරන ලදී .
+The Minister was in the Under-Numbola, Navaththawatta, Ughawalawatta, Navaththawela, has been inspected by Kalutara Specialist Judicial Medical Officer KM.
+
+Former minister's wife, Ama Rajapaksa Naltaangani Amaratunga, the body was identified at the Kalutara Survey Hospital.
+
+The Minister was observed where the Minister was hit by the Minister in Kalutara criminal laboratories and conducted a local test.
+
+Prior to the post mortem, Mrs. Kalutara Chief Magistrate Nathira Hemamali Hamfdhandeniya was also checked by Kalutara Chief Magistrate Nathira Hemali Hamfadandena.
 
 ...
 
 [Data](articles/711289d6.json)
+
+[Extended Data](ext_articles/711289d6.ext.json)
 
 ---
 
@@ -316,6 +376,8 @@ ECONOMYNEXT – Sri Lankan authorities continue to engage all debt restructuring
 
 [Data](articles/43b41f1f.json)
 
+[Extended Data](ext_articles/43b41f1f.ext.json)
+
 ---
 
 ### Palitha Thevarapperuma's death inspection report released
@@ -404,6 +466,8 @@ A bond maturing on 15.03.2031 closed at 12.30/50 percent. (Colombo/Apr17/2024)
 
 [Data](articles/165499f4.json)
 
+[Extended Data](ext_articles/165499f4.ext.json)
+
 ---
 
 ### Temperatures to reach ‘Caution’ level in 7 provinces tomorrow
@@ -488,6 +552,8 @@ The 12-month yield dropped 4 basis points to 10.23 percent with 18.01 billion ru
 
 [Data](articles/94cd150e.json)
 
+[Extended Data](ext_articles/94cd150e.ext.json)
+
 ---
 
 ### Easter attacks: NPP vows to properly institute legal action under its govt.
@@ -533,6 +599,8 @@ Retail activity was seen in several LOLC companies; LOLC Holdings Plc (up at 422
 ...
 
 [Data](articles/1849ee5d.json)
+
+[Extended Data](ext_articles/1849ee5d.ext.json)
 
 ---
 
@@ -688,6 +756,8 @@ Sri Lanka had previously petitioned the Myanmar government for clemency on behal
 
 [Data](articles/79c1309a.json)
 
+[Extended Data](ext_articles/79c1309a.ext.json)
+
 ---
 
 ### Excise officer remanded for distorting popular Avurudu song
@@ -800,6 +870,8 @@ Asked about the proposal for a debate between the SJB’s and the NPP’s econom
 
 [Data](articles/af026312.json)
 
+[Extended Data](ext_articles/af026312.ext.json)
+
 ---
 
 ### Complaint lodged over Piumi Hansamali's possession of Gota’s Range Rover
@@ -857,6 +929,8 @@ A team of 100 officers from the police Special Task Force (STF) is being trained
 ...
 
 [Data](articles/17a066d2.json)
+
+[Extended Data](ext_articles/17a066d2.ext.json)
 
 ---
 
@@ -977,6 +1051,8 @@ The two groups strongly urged “that the staff of Sethsiripaya (and other publi
 ...
 
 [Data](articles/b3145643.json)
+
+[Extended Data](ext_articles/b3145643.ext.json)
 
 ---
 
@@ -1146,6 +1222,8 @@ Without naming names, SJB parliamentarian Harsha de Silva told reporters on Wedn
 
 [Data](articles/c7e523dc.json)
 
+[Extended Data](ext_articles/c7e523dc.ext.json)
+
 ---
 
 ### US sanctions again against Iran
@@ -1225,6 +1303,8 @@ Comprising 22 stages, the Pekoe Trail can be tailored to suit one-day or multi-d
 ...
 
 [Data](articles/601631b6.json)
+
+[Extended Data](ext_articles/601631b6.ext.json)
 
 ---
 
@@ -2193,55 +2273,5 @@ A toyota Padoado and a Mercedes-type vehicle has not been returned to the Minist
 [Data](articles/57a5c0a5.json)
 
 [Extended Data](ext_articles/57a5c0a5.ext.json)
-
----
-
-### New Visa System from today
-
-*2024-04-17 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181269) · `ta`
-
-The Department of Immigration and Emigration will launch a new visa system and internet methods on Wednesday, replacing the E-Visa system with the ETA system, aiming for a faster and more efficient visa application process.
-
-🟩
-
-The Department of Immigration and Emigration will implement a new visa system and new internet methods on Wednesday (17).
-
-“The new visa procedures, the relevant fees, the requirements to be completed and the period of time in Sri Lanka have been issued by a special notification on No. 2360/24 and 2023.11.27.
-
-The ETA (Electronic Travel Authorization) system, which is being introduced instead of the existing E-Visa system, has been organized to co-operate with GBS Technology & IVS GLOBAL.. www.srilankaevisa.lk
-
-The Department has pointed out that it is intended to provide a rapid and efficient visa application process by introducing a new Internet method to attract foreign tourists and investors.
-
-◼️
-
-[Data](articles/affab2e5.json)
-
-[Extended Data](ext_articles/affab2e5.ext.json)
-
----
-
-### 6 lives lost in boat accident
-
-*2024-04-17 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195711) · `si`
-
-In Kashmati Sri Shinadagar, 6 lives were lost in a boat accident involving a school boat, with heavy rains contributing to the incident. Among the dead were a woman and her two children, and three children are missing.
-
-🟩
-
-Kashmati Sri Shinadagar, under Indian control, 6 people have died after a boat of schools that have been flowing.
-
-Foreign reports said that among the dead were a woman and her two children.
-
-Three children have disappeared and they continue to work operations.
-
-The accident had occurred due to heavy rains in the area due to heavy rainfall in the area.
-
-According to foreign reports, 15 people were traveling in the boat at the time of the accident.
-
-◼️
-
-[Data](articles/1efc5656.json)
-
-[Extended Data](ext_articles/1efc5656.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 18:52:54**
+As of **2024-04-17 19:04:20**
 
 ## Newspaper Stats
 
@@ -26,35 +26,41 @@ adaderanasinhalalk | 3,157
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,375 (100.0%) of 19,376 articles have been extended.
+19,376 (100.0%) of 19,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### හෙදියකට මේ වගේ අපරාධයක් කරන්න පුළුවන් ද ?
+### Can a nurse make this crime like this?
 
 *2024-04-17 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195730) · `si`
 
-රෝගී තත්ත්වයෙන් පෙළුණු සිය සැමියා ඝාතනය කිරීමට උත්සාහ කිරීම සම්බන්ධයෙන් හිටපු හෙදියකට චෝදනා එල්ලවී තිබේ.
+A 63-year-old ex-nurse was convicted for allegedly trying to kill her husband with dementia. The crime was committed in a hospital in 2021, and the husband survived but later died. The trial lasted nearly eight hours, leading to a life imprisonment sentence.
 
-මෙම චෝදනාවට වරදකරු වී ඇත්තේ 63 හැවිරිදි වියේ පසුවන හිටපු හෙද නිලධාරිනියකි.
+🟩
 
-අදාළ සැකකාර කාන්තාවගේ සැමියා ඩිමෙන්ෂියා රෝගී තත්ත්වයෙන් සිට ඇති බවද එම වාර්තා සඳහන් කර තිබේ.
+An ex-nurse has been accused of trying to kill his husband who suffered her condition.
 
-බටහිර ඔස්ට්‍රේලියාවේ ශ්‍රේෂ්ඨාධිකරණය විසින් අදාළ හිටපු හෙදිය සිය සැමියා ඝාතනය කිරීමට උත්සාහ ගැනීමේ සිද්ධියට වරදකරු ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+There is a 63-year-old nursing officer who is convicted of this allegation.
 
-2021 වර්ෂයේදී රෝහල තුළදී ඇය සිය සැමියාට එන්නතක් ශරීරගත කිරීම හරහා මෙම ඝාතනය සිදුකිරීමට උත්සාහ කිරීමේ චෝදනාව අධිකරණය හමුවේ ඔප්පු වී ඇති බව එම වාර්තා වැඩිදුරටත් පෙන්වා දී තිබේ.
+The suspect's husband has been diagnosed with dementizes.
 
-කෙසේ වෙතත් එම උත්සාහයෙන් අදාළ පුද්ගලයාගේ දිවි බේරුණු නමුත් ඊට මාස කිහිපයකට පසුව එම කාන්තාවගේ සැමියා මියගොස් තිබුණි.
+Foreign media reports that the former Superintendent of the Supreme Court of the Western Australia has been convicted of the execution of her husband.
 
-දීර්ඝ නඩු විභාගයකින් අනතුරුව පැය 8කට ආසන්න කාලයක් ජූරි සභාව සාකච්ඡාවක නිරතවීමෙන් පසුව එම කාන්තාව වැරදිකරු බවට පත්කර ඇත.
+According to reports, the allegations of attempting to carry out the murder in the hospital in 2021 have been proven to be killed in the courts.
 
-මිනී මැරීමේ චෝදනාව යටතේ වරදකරු වන තැනැත්තෙකුට ජීවිතාන්තය දක්වා සිර දඬුවම් ලබාදිය හැකිය.
+However, the woman survived the victim, but a few months later, the woman's husband had died.
+
+After a long trial, the woman has been convicted of the jury for nearly eight hours after a long trial.
+
+A person who is convicted may be sentenced to life in prison under the accusation of murder.
 
 ◼️
 
 [Data](articles/641f31f8.json)
+
+[Extended Data](ext_articles/641f31f8.ext.json)
 
 ---
 

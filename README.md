@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 21:18:36**
+As of **2024-04-17 21:34:06**
 
 ## Newspaper Stats
 
-*Scraped **19,408** Articles*
+*Scraped **19,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ dailyftlk | 1,059
 economynextcom | 1,099
 adalk | 1,619
 tamilmirrorlk | 2,263
-adaderanalk | 2,331
-virakesarilk | 2,897
+adaderanalk | 2,332
+virakesarilk | 2,898
 dailymirrorlk | 2,991
-adaderanasinhalalk | 3,160
+adaderanasinhalalk | 3,161
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,405 (100.0%) of 19,408 articles have been extended.
+19,408 (100.0%) of 19,411 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### ஓமான் வளைகுடா கடலில் கவிழ்ந்த கப்பலிலிருந்த 21 இலங்கை பணியாளர்கள் காப்பாற்றப்பட்டனர்!
+
+*2024-04-17 21:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181336) · `ta`
+
+ஓமான் வளைகுடா கடலில் கடும் புயலில் சிக்கி கவிழ்ந்த கப்பலின்  காணப்பட்ட 21 இலங்கை பணியாளர்களை ஈரானிய அவசர சேவைகள்  பிரிவு காப்பாற்றியுள்ளதாக அரச ஊடகம் புதன்கிழமை செய்தி வெளியிட்டுள்ளது.
+
+குக் தீவுகளின் கொடியுடன் எண்ணெய் ஏற்றிச் சென்ற கப்பல் தெற்கு நகரமான ஜாஸ்கில் இருந்து சுமார் 50 கிலோமீட்டர் (30 மைல்) தொலைவில் கவிழ்ந்த்தாக அதிகாரபூர்வ ஐஆர்என்ஏ செய்தி நிறுவனம் தெரிவித்துள்ளது.
+
+'ஒரு மீட்புக் கப்பல் அப்பகுதிக்கு அனுப்பப்பட்டது மற்றும் 21 பணியாளர்கள் காப்பாற்றப்பட்டனர்" என்று ஜாஸ்க் துறைமுகங்கள் மற்றும் கடல்சார் நிர்வாகத்தின் இயக்குனர் முகமது அமீன் அமானி தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/829c7799.json)
+
+---
+
+### රැඳවියෙක් බලන්න ආ පුද්ගලයෙක්ව සැකපිට අත්අඩංගුවට
+
+*2024-04-17 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195735) · `si`
+
+කොළඹ රිමාන්ඩ් බන්ධනාගාරයේ රඳවා සිටින සැකකරු වෙත ලබාදීමට රැගෙන ආ දන්තාලේප තුළ මත්ද්‍රව්‍ය තිබී සොයාගෙන ඇති බව වාර්තා වෙයි.
+
+අද (17) දින පස්වරු 01.40ට පමණ කොළඹ රිමාන්ඩ් බන්ධනාගාරයේ රඳවා සිටින සැකකරුවෙකු බැලීම සඳහා පුද්ගලයෙකු පැමිණ තිබුණි.
+
+එහිදී සැකකරු වෙත ලබාදීමට ගෙනඑන ලද දන්තාලේප ටියුබයක් තුළ සූක්ෂම ලෙස හෙරොයින් යැයි සැක කළ හැකි පැකට් 01 හා අයිස් මත්ද්‍රව්‍ය යැයි සැක කළ හැකි පැකට් 01ක් සඟවා තිබී සොයාගෙන ඇත.
+
+අමුත්තන් සෝදිසි කිරීම් රාජකාරී නියුතු බන්ධනාගාර හදිසි ප්‍රතිචාර උපක්‍රමික බළකා නිලධාරීන් විසින් සැකකරු අත්අඩංගුවට ගෙන ඇත.
+
+මෙසේ අත්අඩංගුවට ගත් පුද්ගලයා සැකකරුගේ මිතුරෙකු වන අතර, මට්ටක්කුලිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+◼️
+
+[Data](articles/8f143172.json)
+
+---
 
 ### Sri Lanka poised for bondholder deal by mid-May, Standard Chartered says
 
@@ -42,19 +78,47 @@ Sri Lanka may reach a deal with investors to restructure its USD 12 billion in d
 
 [Data](articles/91319470.json)
 
+[Extended Data](ext_articles/91319470.ext.json)
+
 ---
 
-### கட்டுநாயக்க - துபாய் விமான சேவைகள் இரத்து!
+### Sri Lanka poised for bondholder deal by mid-May, StanChart says
+
+*2024-04-17 20:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98690/sri-lanka-poised-for-bondholder-deal-by-mid-may-stanchart-says) · `en`
+
+Sri Lanka may reach a deal with investors to restructure its $12 billion in defaulted global bonds by mid-May, according to strategists at Standard Chartered.
+
+The South Asian nation has been hoping to reach a deal in the next few weeks, though the first round of direct talks with dollar bondholders failed to yield a breakthrough. The remaining disagreements relate to the structure of “macro-linked” bonds, an instrument proposed by bondholders, whose payout would vary depending on the nation’s economic performance.
+
+“We think timelines are critical and expect an agreement by mid-May,” strategists including Shankar Narayanaswamy wrote in a note.
+
+Further delays would take the talks too close to the planned presidential elections, Standard Chartered said.
+
+Read more: Sri Lanka Bonds Fall as Restructuring Talks Need More Time
+
+...
+
+[Data](articles/f3947f75.json)
+
+---
+
+### Katunayake - Dubai Airlines canceled!
 
 *2024-04-17 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/181335) · `ta`
 
-கட்டுநாயக்க விமான நிலையத்திலிருந்து புதன்கிழமை (17) மாலை 6 25 மணிக்கு துபாய்க்கு புறப்படவிருந்த மற்றும் அங்கிருந்து இலங்கைக்கு பயணிக்கவிருந்த விமான சேவைகளை இரத்துச் செய்துள்ளதாக ஸ்ரீலங்கன் எயார்லைன்ஸ் அறிவித்துள்ளது.
+Dubai Airlines flights from Katunayake airport to Sri Lanka canceled due to weather in UAE.
 
-ஐக்கிய அரபு அமீரகத்தில் தற்போது நிலவும் மோசமான வானிலையே இதற்குக் காரணம் எனக் குறிப்பிடப்படுகிறது.
+🟩
+
+SriLankan Airlines has announced that it has canceled the airline from Katunayake airport on Wednesday (17) at 6 pm and has canceled the flights from Sri Lanka to Sri Lanka.
+
+This is attributed to the prevailing weather in the United Arab Emirates.
 
 ◼️
 
 [Data](articles/2b017837.json)
+
+[Extended Data](ext_articles/2b017837.ext.json)
 
 ---
 
@@ -190,19 +254,27 @@ While confidentiality agreements limit the disclosure of specific details, the s
 
 ---
 
-### පාස්කු ප්‍රහාරයේ වින්දිතයන්ට යුක්තිය ඉටු කරන හැටි ජාතික ජන බලවේගය කියයි
+### The national folk force spends justice to victims of the Passover attack
 
 *2024-04-17 19:27:40* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරයේ-වින්දිතයන්ට-යුක්තිය-ඉටු-කරන-හැටි-ජාතික-ජන-බලවේගය-කියයි/11-409134) · `si`
 
-පාස්කු ප්‍රහාරයට සම්බන්ධ අපරාධකරුවන්,එහි මහ මොළකරු සහ සැලසුම්කරුවන් නීතිය ඉදිරියට ගෙන ඒමට කටයුතු කිරීම තම ආණ්ඩුවක ප්‍රමුඛ කටයුත්තක් බව ජාතික ජනබලවේගය පවසයි.
+The national folk force pledges justice for Passover attack victims, highlighting the government's responsibility to take legal action against those involved.
 
-2019 අප්‍රේල් මස 21 වැනිදා එල්ල කළ පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරයේ වින්දිතයන්ට යුක්තිය ඉටුකිරීමෙහිලා වන ප්‍රතිඥාව ලෙස නිවේදනයක් නිකුත් කරමින් ජාතික ජන බලවේගය එසේ පවසයි.
+🟩
 
-පාස්කු බෝම්බ ප්‍රහාරය ජාතීන් අතර අසමගිය නිර්මාණය කර, ජාතිවාදී කෝලාහල ඇති කරමින් විශාල ජන ජීවිත හා දේපළ හානියක් සිදු කිරීම මගින් පටු දේශපාලන අරමුණක් සාක්ෂාත් කරගැනීම සඳහා කිසියම් කණ්ඩායමක් විසින් මෙහෙයවනු ලැබූ කුමන්ත්‍රණයක් බව ද ජාතික ජනබලවේගය සඳහන් කරයි.
+The national popularity says that it is one of the priority of the governors of the Passover attack, its mastermind and planners to take the law.
+
+The National Folk Force issued a statement as a result of the Easter attack on April 21st 2019, saying the pledge to be executed.
+
+The national popularity states that the Easter bombing is a conspiracy by a group to achieve large and property damage by the Easter bombing.
+
+"Life lost from the Passover attack and the government is responsible for the delegation of destruction and the delegation that the attack has been made to the government as well as the public force as the national folk force.We are referred to that the government is properly implemented by a government of the national power and implementing proper legal action against people directly or indirectly involved in the attack.
 
 ...
 
 [Data](articles/26439b47.json)
+
+[Extended Data](ext_articles/26439b47.ext.json)
 
 ---
 
@@ -2197,69 +2269,5 @@ These fishers had been arrested by the authorities in Myanmar for illegally cros
 [Data](articles/ca03a83e.json)
 
 [Extended Data](ext_articles/ca03a83e.ext.json)
-
----
-
-### The last wish of polya
-
-*2024-04-17 10:44:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலிதவின்-கடைசி-ஆசை/175-336029) · `ta`
-
-Palitha Thevarapperuma, former Deputy Minister, died after an accident and his funeral is set for Saturday. He requested to be buried within 24 hours in his own cart.
-
-🟩
-
-Family members say that the funeral of former Deputy Minister Palitha Thevarapperuma will be held on Saturday (20).
-
-He died after being admitted to the Nagoda Hospital when he tried to attach two power lines at his home yesterday.
-
-Palitha had already prepared his grave in Kalutara to make him good. It is noteworthy that his last desire was to be buried within 24 hours of his death and his body was to be buried in his own cart.
-
-◼️
-
-[Data](articles/94668ff5.json)
-
-[Extended Data](ext_articles/94668ff5.ext.json)
-
----
-
-### A common pardon for Sri Lankans in Myanmar
-
-*2024-04-17 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195714) · `si`
-
-Sri Lankan fishermen in Australian custody, arrested by Myanmar last December, have been pardoned, confirmed by Myanmar's Ambassador.
-
-🟩
-
-The 15 Sri Lankan fishermen in Australian custody have been given a common pardon.
-
-The Ambassador of Myanmar has confirmed this.
-
-They were arrested by Myanmar authorities last December and later sentenced to seven years in prison.
-
-◼️
-
-[Data](articles/fe7f6756.json)
-
-[Extended Data](ext_articles/fe7f6756.ext.json)
-
----
-
-### Thousands of buses operative for people to return from hometowns after Avurudu
-
-*2024-04-17 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98679/thousands-of-buses-operative-for-people-to-return-from-hometowns-after-avurudu) · `en`
-
-The number of buses in operation across the country has been increased to facilitate the return of people who visited their hometowns for the Sinhala and Tamil New Year, says the Private Bus Owners’ Association.
-
-According to the president of the association Gemunu Wijeratne, as many as 9,000 buses are up and running today island-wide.
-
-Meanwhile, the General Manager of Railway N. J. Indipolage said the train operations also returned to normalcy today.
-
-His comments came after some 11 commuter trains were cancelled on Tuesday (16) due to the lack of locomotive engine operators and train guards who had not reported to work after the traditional New Year festivities.
-
-◼️
-
-[Data](articles/c199a51f.json)
-
-[Extended Data](ext_articles/c199a51f.ext.json)
 
 ---

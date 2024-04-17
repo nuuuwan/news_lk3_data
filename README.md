@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 02:03:47**
+As of **2024-04-18 02:18:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,442 (100.0%) of 19,444 articles have been extended.
+19,444 (100.0%) of 19,444 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ He assured that necessary instructions have been provided to the Ministry Secret
 
 [Data](articles/c75a1b92.json)
 
+[Extended Data](ext_articles/c75a1b92.ext.json)
+
 ---
 
 ### DP Education opens Sri Lanka’s first digital preschool in Bibile
@@ -69,6 +71,8 @@ A DP Silicon Valley IT office which houses those who have acquired software and 
 ◼️
 
 [Data](articles/0fc9015c.json)
+
+[Extended Data](ext_articles/0fc9015c.ext.json)
 
 ---
 

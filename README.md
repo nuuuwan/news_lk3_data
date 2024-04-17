@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 13:52:48**
+As of **2024-04-17 14:03:29**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,329 (100.0%) of 19,334 articles have been extended.
+19,334 (100.0%) of 19,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### ඉරානයට එරෙහිව අමෙරිකාවෙන් නැවතත් සම්බාධක
+### US sanctions again against Iran
 
 *2024-04-17 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195719) · `si`
 
-ඉරානයට එරෙහිව තවදුරටත් සම්බාධක පැනවීමට බලාපොරොත්තු වන බව එක්සත් ජනපදය සහ යුරෝපා සංගමය පවසයි.
+The US and EU impose sanctions on Iran following an attack on Israel, with no further sanctions expected. US Treasury Secretary Geneet Yeln and EU Head Joseph Boylle announced the action.
 
-ඔවුන් විසින් එසේ සම්බාධක පැනවීමට තීරණය ගෙන ඇත්තේ, සති අන්තයේ ඊශ්‍රායලයට එල්ල කළ ප්‍රහාරයෙන් පසුවය.
+🟩
 
-එක්සත් ජනපද භාණ්ඩාගාර ලේකම් ජැනට් යෙලන් පැවසුවේ ඉදිරි දිනවලදී එම පියවර ගැනීමට බලාපොරොත්තු වන බවය.
+The US and the European Union say that no further sanctions are expected against Iran.
 
-එමෙන්ම යුරෝපා සංගම් විදේශ ප්‍රතිපත්ති ප්‍රධානී ජෝසෆ් බොරෙල් පැවසුවේ ඔවුන් ඉරානයට එරෙහිව සම්බාධක පැනවීම සඳහා කටයුතු කරමින් සිටින බවය.
+They decided to impose sanctions on the weekend after the attack on Israel.
+
+United States Treasury Secretary Geneet Yeln said that the arrivals would be expected to take action in the coming days.
+
+The Head of EU, Joseph Boylle, said they were working to impose sanctions against Iran.
 
 ◼️
 
 [Data](articles/8904d139.json)
+
+[Extended Data](ext_articles/8904d139.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ The suspect, a resident of Colombo 12, was ordered to be released on a cash bail
 ◼️
 
 [Data](articles/a967716a.json)
+
+[Extended Data](ext_articles/a967716a.ext.json)
 
 ---
 
@@ -81,6 +89,8 @@ The arrest came hot on the heels of public outcry on social media after a video 
 ◼️
 
 [Data](articles/debe4d24.json)
+
+[Extended Data](ext_articles/debe4d24.ext.json)
 
 ---
 
@@ -1476,27 +1486,33 @@ An Excise was arrested by an Excise suspected to sell a song of Veteran singer R
 
 ---
 
-### ආචාර්ය ඒ.ටී. ආරියරත්න: ශ්‍රී ලංකාවේ ගම්මාන 15,000කට සහන සැලසූ සර්වෝදය ව්‍යාපාරයේ නිර්මාතෘවරයා
+### Dr. AT. Ariyaratne: The creator of the Sarvodaya Business for 15,000 villages in Sri Lanka
 
 *2024-04-17 07:09:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8vz9n63rvdo) · `si`
 
-ආචාර්ය ඒ.ටී. ආරියරත්න: ශ්‍රී ලංකාවේ ගම්මාන 15,000කට සහන සැලසූ සර්වෝදය ව්‍යාපාරයේ නිර්මාතෘවරයා
+Dr. AT. Ariyaratne, founder of Sarvodaya Shramadana Business, passed away at 93. He led the movement to eliminate poverty and build a conflict-free society, benefiting 15,000 villages in Sri Lanka.
 
-ශ්‍රී ලංකාවේ විශාලතම සහ පුළුල් ම ව්‍යාප්තියක් සහිත රාජ්‍ය නොවන සංවිධානයක් ලෙස සැලකෙන සර්වෝදය ශ්‍රමදාන ව්‍යාපාරයේ නිර්මාතෘ ආචාර්ය ඒ.ටී. ආරියරත්න අඟහරුවාදා (අප්‍රේල් 16) අභාවප්‍රාප්ත විය.
+🟩
 
-කොළඹ, පෞද්ගලික රෝහලකදී අභාවප්‍රාප්ත වන විට ඔහු 93 වන වියේ පසු විය.
+Dr. AT. Ariyaratne: The creator of the Sarvodaya Business for 15,000 villages in Sri Lanka
 
-"දිළිඳුකම තුරන් කිරීම සහ ගැටුම් රහිත සමාජයක් ගොඩනැගීම" සිය මෙහෙවර කර ගත් සර්වෝදය ශ්‍රමදාන ව්‍යාපාරය හරහා ආචාර්ය ඒ.ටී. ආරියරත්න ශ්‍රී ලංකාවේ දහස් ගණනක් පවුල් ආර්ථික වශයෙන් නගා සිටුවීමට කැපවූ අයෙකි.
+Sarvodaya Shramadana Business, the founder of Sarvodaya Shramadana Business, which is considered NGO with the largest and expansion expansion in Sri Lanka, Dr. AT. Ariyaratne has passed away Tuesday (April 16).
 
-අහංගමගේ ටියුඩර් ආරියරත්න හෙවත් ඒ.ටී. ආරියරත්න 1931 වසරේ නොවැම්බර් මස 05 වන දා ගාල්ල, උණවටුනේදී උපත ලැබීය.
+He was 93 years old when he passed away at a private hospital in Colombo.
 
-උණවටුන බෝන විස්ටා විද්‍යාලයෙන් ප්‍රාථමික අධ්‍යාපනය ලැබූ ඔහු, ගාල්ල මහින්ද විද්‍යාලයෙන් ද්විතීක අධ්‍යාපනය ලැබීය.
+Sarvodaya Shramadana Movement carried out by "Elimination of Poverty and Building a Conflict Society" Dr. AT. Ariyaratne is a dedicated person to raise thousands of families in Sri Lanka.
 
-පසුව, ගුරු අභ්‍යාස විද්‍යාලයට බැඳී ගුරුවරයෙකු බවට පත්වූ ඒ.ටී. ආරියරත්න, 1972 වසර වන තුරු කොළඹ නාලන්දා විද්‍යාලයේ ගුරුවරයෙකු ලෙස සේවය කළේය.
+Tudor Ariyaratne of Ahangama. Ariyaratne was born on November 5, 1931 at Unawatuna on November.
+
+He received primary education at Bona Vista College, Unawatuna, was secondary education from Mahinda College, Galle.
+
+Later, the AT who was attached to the Teacher Training College and became a teacher. Ariyaratne served as a teacher at Nalanda College, Colombo until 1972.
 
 ...
 
 [Data](articles/733a0105.json)
+
+[Extended Data](ext_articles/733a0105.ext.json)
 
 ---
 

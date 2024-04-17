@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 22:06:30**
+As of **2024-04-17 22:18:22**
 
 ## Newspaper Stats
 
-*Scraped **19,417** Articles*
+*Scraped **19,418** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,55 @@ tamilmirrorlk | 2,263
 adaderanalk | 2,333
 virakesarilk | 2,898
 dailymirrorlk | 2,994
-adaderanasinhalalk | 3,163
+adaderanasinhalalk | 3,164
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,415 (100.0%) of 19,417 articles have been extended.
+19,417 (100.0%) of 19,418 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### හිරුණිකාට නොතීසි
+### පාලිත තෙවරප්පෙරුමගේ දේහය නිවසට රැගෙන එයි
+
+*2024-04-17 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195738) · `si`
+
+අභාවප්‍රාප්ත හිටපු නියෝජ්‍ය අමාත්‍යවරයෙකු වු පාලිත තෙවරප්පෙරුම මහතාගේ දේහය අද (17) රාත්‍රියේ මතුගම පිහිටි ඔහුගේ නිවස වෙත රැගෙන ආවේය.
+
+තෙවරප්පෙරුම මහතාගේ පවුලේ ඥාතීන් සඳහන් කළේ දේහය පිළිබඳ අවසන් කටයුතු එළඹෙන 19 වන සිකුරාදා සිදුකරන බවය.
+
+පාලිත තෙවරප්පෙරුම මහතාගේ මරණය සැලවූ මොහොතේ සිට ප්‍රදේශවාසීන් ඇතුළු විශාල පිරිසක් කළුතර ශික්ෂණ රෝහල් පරිශ්‍රයට සහ ඔහුගේ නිවසට රැස්වී තිබුණි.
+
+ඔහු ජීවත්ව සිටියදීම සිය සුසානය නිර්මාණය කර තිබීමත් රට තුළ කතාබහට ලක්වුණු තවත් මාතෘකාවක් වුණි.
+
+අභාවප්‍රාප්ත තෙවරප්පෙරුම මහතාගේ දේහය ඔහු ජීවත් වු මතුගම යටදොළවත්ත පිහිටි නිවස වෙත මෙලෙස රැගෙනවිත් තිබේ.
+
+◼️
+
+[Data](articles/6858c712.json)
+
+---
+
+### Notice to Hirunika
 
 *2024-04-17 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195737) · `si`
 
-මැයි මස 08 වනදා අධිකරණය හමුවේ පෙනී සිට කරුණු දක්වන ලෙස දන්වා අභියාචනාධිකරණය විසින් හිටපු පාර්ලිමේන්තු මන්ත්‍රීනී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය වෙත නොතීසි නිකුත් කර තිබේ.
+The Court of Appeal has notified former MP Hirunika Premachandra to respond on May 8th regarding a petition criticizing a Mount Lavinia Magistrate's Court decree.
 
-ඒ, ගල්කිස්ස මහෙස්ත්‍රාත් අධිකරණය විසින් දුන් නියෝගයක් විවේචනය කිරීම තුළින් අධිකරණයට අපහාසයක් සිදුකර ඇතැයි චෝදනා කරමින් ඉදිරිපත් කර තිබෙන පෙත්සමක් සම්බන්ධයෙනි.
+🟩
+
+The Court of Appeal has issued notice to former MP Hirunika Premachandra to inform the court on May 08.
+
+It is connected with a petition accused of accusing the court by criticizing a decree made by the Mount Lavinia Magistrate's Court.
 
 ◼️
 
 [Data](articles/3d186cb3.json)
+
+[Extended Data](ext_articles/3d186cb3.ext.json)
 
 ---
 
@@ -57,6 +83,8 @@ The Fire Department of the Kandy Municipality is carrying out the necessary acti
 ◼️
 
 [Data](articles/19507a99.json)
+
+[Extended Data](ext_articles/19507a99.ext.json)
 
 ---
 
@@ -2229,27 +2257,5 @@ Accordingly, admissions will be issued to school applicants through the respecti
 [Data](articles/4830736c.json)
 
 [Extended Data](ext_articles/4830736c.ext.json)
-
----
-
-### Free visa for tourists from 50 countries
-
-*2024-04-17 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181274) · `ta`
-
-Sri Lanka may offer free visas to tourists from over 50 countries, a proposal by Ministers Ali Sabri and Tran Ales to be submitted to the Cabinet next week.
-
-🟩
-
-Tourists coming to Sri Lanka from over 50 countries are being considered to provide free visa.
-
-The idea of this is to be submitted to the Cabinet next week, the Ministry of Tourism said.
-
-The proposal will be prepared by the Minister of Tourism, Ali Sabri and Public Security Minister Tran Ales.
-
-◼️
-
-[Data](articles/bf050faf.json)
-
-[Extended Data](ext_articles/bf050faf.ext.json)
 
 ---

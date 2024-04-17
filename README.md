@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 16:33:42**
+As of **2024-04-17 16:49:55**
 
 ## Newspaper Stats
 
-*Scraped **19,355** Articles*
+*Scraped **19,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,51 +18,125 @@ economynextcom | 1,084
 adalk | 1,612
 tamilmirrorlk | 2,259
 adaderanalk | 2,326
-virakesarilk | 2,889
+virakesarilk | 2,892
 dailymirrorlk | 2,986
-adaderanasinhalalk | 3,151
+adaderanasinhalalk | 3,152
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,352 (100.0%) of 19,355 articles have been extended.
+19,355 (100.0%) of 19,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### පාකිස්තානයේ ආපදා මරණ තවත් ඉහළට
+### උණුසුම ගැන කාලගුණයෙන් අනතුරු ඇඟවීමක්
+
+*2024-04-17 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195725) · `si`
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් උණුසුම් කාලගුණ තත්ත්වය පිළිබඳව ඇම්බර් වර්ණයෙන් යුතු අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව මෙම නිවේදනයේ දැක්වෙන පරිදි උතුරු, උතුරු මැද, බස්නාහිර, සබරගමුව, නැගෙනහිර, දකුණ සහ වයඹ පලාත්වලත් මොනරාගල දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවලත් උණුසුම ඉහළ යා හැකිය.
+
+එම ප්‍රදේශවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතින බවද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+◼️
+
+[Data](articles/bf7a7731.json)
+
+---
+
+### யாழ். சாவகச்சேரி நீதிமன்ற வளாகத்தில் இருந்து தப்பியோடிய இரு கைதிகள் மீள கைது
+
+*2024-04-17 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181311) · `ta`
+
+யாழ்ப்பாணம் - சாவகச்சேரி நீதவான் நீதிமன்ற வளாகத்தில் இருந்து தப்பியோடிய கைதிகள் சுமார் 30 நிமிட இடைவெளியில் மீண்டும் கைது செய்யப்பட்டுள்ளனர்.
+
+திருட்டு குற்றச்சாட்டில் சிறைத்தண்டனை அனுபவித்து வரும் கைதி ஒருவரும், விளக்கமறியலில் தடுத்து வைக்கப்பட்டுள்ள ஒருவரும் வழக்கொன்றுக்காக யாழ்ப்பாண சிறைச்சாலையில் இருந்து, சாவகச்சேரி நீதிமன்றுக்கு அழைத்து வரப்பட்ட நிலையில் நீதிமன்ற வளாகத்தில் இருந்து தப்பியோடியுள்ளனர்.
+
+அவர்களை சுமார் 30 நிமிட இடைவேளையில் பொலிஸார் கைது செய்து நீதிமன்றில் முற்படுத்தினர்.
+
+அதனை அடுத்து, தப்பியோடிய இருவருக்கு தலா 6 மாத கால சிறைத்தண்டனை விதித்த சாவகச்சேரி நீதவான், ஆயிரத்து 500 ரூபாய் தண்டமும் விதித்தார். தண்ட பணத்தினை கட்ட தவறின் மேலும் ஒரு மாத சாதாரண சிறைத்தண்டனை அனுவிக்க வேண்டும் என தீர்ப்பளித்தார்.
+
+◼️
+
+[Data](articles/898e969e.json)
+
+---
+
+### யாழில் விஷ பூச்சி கடிக்குள்ளானவர் உயிரிழப்பு
+
+*2024-04-17 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181310) · `ta`
+
+யாழ்ப்பாணத்தில் காதின் கீழ் பகுதியில் விஷ பூச்சி கடித்ததில் சிகிச்சை பலனின்றி ஒருவர் உயிரிழந்துள்ளார்.
+
+கடந்த 14 ஆம் திகதி இவருக்கு காதின் கீழ் பகுதியில் விஷ பூச்சி ஒன்று கடித்துள்ளது.  வலி தீவிரமடைந்ததை அடுத்து நேற்று முன்தினம் திங்கட்கிழமை யாழ். போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில், சிகிச்சை பலனின்றி நேற்றைய தினம் செவ்வாய்க்கிழமை உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/28880d99.json)
+
+---
+
+### சாய்ந்தமருதில் உணவகங்களில் புற்றுநோயை உண்டாக்கும் தன்மை கொண்ட சுவையூட்டிகள்  கண்டுபிடிப்பு
+
+*2024-04-17 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181305) · `ta`
+
+கடந்த சில தினங்களாக திடீர் சோதனை நடவடிக்கையை சாய்ந்தமருது சுகாதார வைத்திய அதிகாரி வைத்தியர் எம்.ஜே.கே.எம். அர்ஷத் காரியப்பரின் தலைமையிலான சுகாதார குழுவினர் முன்னெடுத்து வருகின்றனர்.
+
+சாய்ந்தமருது பிரதேச உணவகங்கள்  சுகாதாரமற்ற உணவுகள் பொதுமக்களுக்கு விற்கப்படுவதாக கிடைக்கப்பெற்ற தகவல்களை அடுத்து உணவுப் பாதுகாப்பு மற்றும் சுத்தமான உணவை பொதுமக்களுக்கு உறுதிப்படுத்தல் என்ற நோக்கில் கல்முனை பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்திய கலாநிதி ஸஹீலா இஸ்ஸதீன் அவர்களின் ஆலோசனை மற்றும் வழிகாட்டலில் சாய்ந்தமருது பிரதேச இரவு நேர உணவகங்கள், டேஸ்ட் கடைகள், கோழி பதப்படுத்தி விற்கும் இடங்கள் போன்றவற்றில் செவ்வாய்க்கிழமை (16) இரவு திடீர் சோதனை நடவடிக்கையில் ஈடுபட்டனர்.
+
+...
+
+[Data](articles/344d620f.json)
+
+---
+
+### Top of disaster deaths in Pakistan
 
 *2024-04-17 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195724) · `si`
 
-පාකිස්තානයේ ආපදා තත්ත්වය හේතුවෙන් මේ දක්වා පුද්ගලයින් 63 දෙනෙකු මියගොස් තිබේ.
+In Pakistan, 63 people died from floods, lightning, and building collapses, with Northwestern Pakistan reporting the highest death toll, including 15 children and 5 women from building collapse. 30 of 1370 houses were damaged.
 
-ගංවතුර, අකුණු සහ ගොඩනැඟිලි කඩාවැටීම් හේතුවෙන් සිදුවු අනතුරුවලින් මෙම මරණ සිදුවී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+🟩
 
-වැඩිම මරණ සංඛ්‍යාවක් වයඹ දිග පාකිස්තානයෙන් වාර්තාවන අතර ගොඩනැගිලි කඩාවැටීම හේතුවෙන් එම පළාතේ ළමුන් 15 දෙනෙකු, කාන්තාවන් 5 දෙනෙකු ඇතුළු පුද්ගලයින් 32 දෙනෙකු මියගොස් තිබේ.
+63 people have been killed due to the disaster situation in Pakistan.
 
-ආපදා තත්ත්වය හේතුවෙන් වයඹ දිග පාකිස්තානයේ නිවාස 1370කට හානි සිදුවී ඇති බවද විදෙස් වාර්තා වැඩිදුරටත් සඳහන් කරයි.
+Foreign media reports that these deaths have been caused by floods, lightning and building collapses.
+
+The highest number of deaths have been reported from Northwestern Pakistan, 15 children, 5 women and 5 women have been killed due to the collapse of the building.
+
+Thirtes of 1370 houses were damaged due to the disaster situation in Northwestern Pakistan.
 
 ◼️
 
 [Data](articles/f479baf9.json)
 
+[Extended Data](ext_articles/f479baf9.ext.json)
+
 ---
 
-### රුසියානු භටයින් 50,000ක් මරුට
+### 50,000 Russian troops killed
 
 *2024-04-17 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195723) · `si`
 
-යුක්‍රේනයේ දී මියගොස් ඇති රුසියානු හමුදා මරණ සංඛ්‍යාව 50,000 ඉක්මවා ඇති බව බී බී සී පුවත් සේවය වාර්තා කරයි.
+Over 50,000 Russian troops have died in Ukraine since the war began two years ago, with 27,300 casualties in the second year.
 
-දෙරට අතර යුද ගැටුම් ආරම්භ වී වසර දෙකක් ගතවී ඇති අතර රුසියානු භටයින්ගේ මරණ පළමු වසරට වඩා 25%කින් වැඩිවී ඇති බව සංඛ්‍යාලේඛන අනුව පෙනීයයි.
+🟩
 
-දෙවැනි වසර තුළදී රුසියානු භටයින් 27,300ක් මියගොස් ඇති බව බීබීසී සතුව ඇති දත්ත අනුව හෙළිවෙයි.
+The number of Russian military deaths that have died in Ukraine have exceeded 50,000 deaths.
+
+Two years have passed since the commencement of the war between the two countries.
+
+According to the data data, 27,300 Russian troops have died in the second year.
 
 ◼️
 
 [Data](articles/cc249e4f.json)
+
+[Extended Data](ext_articles/cc249e4f.ext.json)
 
 ---
 
@@ -83,6 +157,8 @@ The North Western Province Unit of the Computer Crime Investigation Division had
 ...
 
 [Data](articles/71b85330.json)
+
+[Extended Data](ext_articles/71b85330.ext.json)
 
 ---
 
@@ -2195,91 +2271,5 @@ Meanwhile, the magistrate ordered the two men to be sentenced to six months' imp
 [Data](articles/d343beba.json)
 
 [Extended Data](ext_articles/d343beba.ext.json)
-
----
-
-### Sri Lanka police chief vows to step up fight against crime, drugs; hints to increase resources
-
-*2024-04-17 06:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-chief-vows-to-step-up-fight-against-crime-drugs-hints-to-increase-resources-158786/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Inspector General of Police (IGP) Deshabandu Tennakoon has vowed to increase resources and cadres in the fight against drug menace and crimes even by closing some unproductive divisions if required.
-
-The island nation’s police under Tennakoon have focused on eradicating drug menace through a special operation despite local and international criticism over human rights abuses.
-
-Sri Lanka has recognized the drug menace as one of the key threats and Tennakoon-led police have backed drastic measures in the special anti-drug operation titled “Yukthiya” (justice) to nab the drug distributors across the country.
-
-Since the operation was launched in mid-December, the police have arrested tens of thousands of 0 people mostly with drugs including heroin, cannabis, synthetic drugs, and cocaine, police data show.
-
-...
-
-[Data](articles/89c73a78.json)
-
-[Extended Data](ext_articles/89c73a78.ext.json)
-
----
-
-### Resolution on Onion Import Today
-
-*2024-04-17 05:56:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெங்காய-இறக்குமதி-தொடர்பில்-இன்று-தீர்மானம்/175-336013) · `ta`
-
-"Commerce Minister Nalin Fernando announced today's decision on importing large onions from India, either through the government or privately. India has granted permission to export 10,000 metric tonnes to Sri Lanka."
-
-🟩
-
-Commerce Minister Nalin Fernando said today will be decided to import large onions from India through the government or to import privately.
-
-The Indian High Commission for Sri Lanka has announced that India has given permission to export 10,000 metric tonnes of large onions to Sri Lanka. (A)
-
-◼️
-
-[Data](articles/242aa550.json)
-
-[Extended Data](ext_articles/242aa550.ext.json)
-
----
-
-### High -speed income on highways
-
-*2024-04-17 05:50:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலைகளில்-அதிக-வருமானம்/175-336012) · `ta`
-
-"High-speed income on highways: 6.74 lakh vehicles in 6 days. Road Development Authority advises drivers to be cautious, with 53 accidents reported."
-
-🟩
-
-The Director General of the Road Development Authority Priyantha Suriyabandara said that about 6 lakhs 74 thousand vehicles have been traveling on highways over the past six days.
-
-Meanwhile, the Road Development Authority has advised drivers to pay more attention to the situation of the vehicles when using highways.
-
-The Director General of the Authority Priyapandara said that 53 vehicle accidents have been reported in the streets, including highway highways in the past few days.. (A)
-
-◼️
-
-[Data](articles/e7f44302.json)
-
-[Extended Data](ext_articles/e7f44302.ext.json)
-
----
-
-### Visit President Nuwara Eliya
-
-*2024-04-17 05:46:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நுவரெலியாவுக்கு-விஜயம்/175-336011) · `ta`
-
-President Ranil Wickremesinghe visited Nuwara Eliya's Court Lodge Plantation, focusing on education, health, and housing for plantation people.
-
-🟩
-
-President Ranil Wickremesinghe made a visit to the Nuwara Eliya - Court Lodge Plantation yesterday (16).
-
-The Presidential Media Unit said that he was aware of the tournamental opportunities surrounding the mountains of Nuwara Eliya.
-
-During the visit, the President has paid attention to the education and health problems faced by the plantation people. He also examined the future of the children after the high level.
-
-Subsequently, the President also paid special attention to the housing issues of the plantation people. (A)
-
-◼️
-
-[Data](articles/ef2c6c76.json)
-
-[Extended Data](ext_articles/ef2c6c76.ext.json)
 
 ---

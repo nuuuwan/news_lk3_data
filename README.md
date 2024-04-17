@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 15:03:28**
+As of **2024-04-17 15:18:48**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 3,147
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,341 (100.0%) of 19,343 articles have been extended.
+19,343 (100.0%) of 19,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### இன்றைய நாண ய மாற்று விகிதம்
+### Today
 
 *2024-04-17 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/181298) · `ta`
 
-இன்று செவ்வாய்க்கிழமை (ஏப்ரல் 17) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 295.2800 ஆகவும் விற்பனை விலை ரூபா 305.1931 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+Today, the US $295.2800 was reported at Rs.
+
+🟩
+
+The US $ 295.2800 was reported at Rs.
 
 ◼️
 
 [Data](articles/b79a6a38.json)
+
+[Extended Data](ext_articles/b79a6a38.ext.json)
 
 ---
 
@@ -59,6 +65,8 @@ She said that the Treasury and State Department have taken previous action to co
 ...
 
 [Data](articles/0209797b.json)
+
+[Extended Data](ext_articles/0209797b.ext.json)
 
 ---
 

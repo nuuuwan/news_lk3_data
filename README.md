@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 21:03:21**
+As of **2024-04-17 21:18:36**
 
 ## Newspaper Stats
 
-*Scraped **19,405** Articles*
+*Scraped **19,408** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,059
 economynextcom | 1,099
-adalk | 1,618
+adalk | 1,619
 tamilmirrorlk | 2,263
-adaderanalk | 2,330
-virakesarilk | 2,896
+adaderanalk | 2,331
+virakesarilk | 2,897
 dailymirrorlk | 2,991
 adaderanasinhalalk | 3,160
 
@@ -26,45 +26,83 @@ adaderanasinhalalk | 3,160
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,403 (100.0%) of 19,405 articles have been extended.
+19,405 (100.0%) of 19,408 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### யாழ்ப்பாணத்தில் மனைவியைக் கூரிய ஆயுதத்தால் தாக்கிய கணவன்!
+### Sri Lanka poised for bondholder deal by mid-May, Standard Chartered says
 
-*2024-04-17 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181334) · `ta`
+*2024-04-17 20:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98690/sri-lanka-poised-for-bondholder-deal-by-mid-may-standard-chartered-says) · `en`
 
-வட்டுக்கோட்டை பொலிஸ் பிரிவிற்குட்பட்ட அராலி பகுதியில் கணவன் ஒருவர் மனைவியை, கூரிய ஆயுதத்தால் வெட்டி தாக்கியுள்ளார். இச்சம்பவம் புதன்கிழமை (17) மாலை இடம்பெற்றுள்ளது.
+Sri Lanka may reach a deal with investors to restructure its USD 12 billion in defaulted global bonds by mid-May, strategists at Standard Chartered were quoted as saying by Bloomberg.
 
-இந்நிலையில் படுகாயமடைந்த மனைவி யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகிறார்.
+◼️
 
-குறித்த தாக்குதலை மேற்கொண்ட கணவன் தலைமறைவாகியுள்ள நிலையில் அவரை கைது செய்வதற்கான நடவடிக்கைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+[Data](articles/91319470.json)
+
+---
+
+### கட்டுநாயக்க - துபாய் விமான சேவைகள் இரத்து!
+
+*2024-04-17 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/181335) · `ta`
+
+கட்டுநாயக்க விமான நிலையத்திலிருந்து புதன்கிழமை (17) மாலை 6 25 மணிக்கு துபாய்க்கு புறப்படவிருந்த மற்றும் அங்கிருந்து இலங்கைக்கு பயணிக்கவிருந்த விமான சேவைகளை இரத்துச் செய்துள்ளதாக ஸ்ரீலங்கன் எயார்லைன்ஸ் அறிவித்துள்ளது.
+
+ஐக்கிய அரபு அமீரகத்தில் தற்போது நிலவும் மோசமான வானிலையே இதற்குக் காரணம் எனக் குறிப்பிடப்படுகிறது.
+
+◼️
+
+[Data](articles/2b017837.json)
+
+---
+
+### Husband attacked his wife in Jaffna
+
+*2024-04-17 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/181334) · `ta`
+
+A husband in Jaffna attacked his wife with a weapon, leading to her hospitalization. The police are pursuing him.
+
+🟩
+
+A husband has been assaulted by a husband with a sharp weapon. The incident took place on Wednesday (17) evening.
+
+The injured wife has been admitted to the Jaffna Teaching Hospital and is being treated.
+
+The police are taking steps to arrest him as the husband has been hiding.
 
 ◼️
 
 [Data](articles/768ecfc5.json)
 
+[Extended Data](ext_articles/768ecfc5.ext.json)
+
 ---
 
-### රාජ්‍ය වතු සේවකයන්ගේ EPF සහ ETF ගැන තීරණයක්
+### Decision on EPF and ETF of state estate workers
 
 *2024-04-17 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195734) · `si`
 
-රාජ්‍ය වැවිලි ව්‍යවසායන් යටතේ සේවය කරනු ලබන සේවකයන්ගේ නොගෙවූ ව්‍යවස්ථාපිත ගෙවීම් (EPF/ETF) සිදු කිරීමට අදාළ කැබිනට් පත්‍රිකාව ලබන සතියේ අමාත්‍ය මණ්ඩලය වෙත යොමු කිරීමට නියමිතය.
+The cabinet will send a paper for unpaid statutory payments (EPF/ETF) to the Cabinet of Ministers. Dr. Ranjith Siyambalapitiya, Minister of Public Plantation Enterprise Reforms and Finance, is due to pay over Rs. 500 million with EPF/ETF. He was appointed as the first duty of the year to the Secretary to the Ministry. Over 2000 cases have been imposed, requiring significant action by relevant agencies.
 
-රාජ්‍ය වැවිලි ව්‍යවසාය ප්‍රතිසංස්කරණ අමාත්‍ය සහ මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා ඒ බව පවසයි.
+🟩
 
-ඔහු පෙන්වා දෙන්නේ ඒ අනුව සේවක අර්ථසාධක අරමුදලේ සහ සේවා නියුක්තිකයන්ගේ භාර අරමුදලේ අධිභාරයන් සමග රුපියල් කෝටි 500කට අධික මුදලක් ගෙවීමට නියමිත බවය.
+The cabinet paper to carry out the unpaid statutory payments (EPF / ETF) will be sent to the Cabinet of Ministers (EPF / ETF).
 
-වසරේ පළමු රාජකාරිය ලෙස තමන් ඊට අවශ්‍ය උපදෙස් අමාත්‍යාංශ ලේකම්වරයා වෙත ලබාදීමට කටයුතු කළ බව පෙන්වා දුන් අමාත්‍යවරයා කියා සිටියේ වැවිල ව්‍යවසාය ප්‍රතිසංස්කරණ ඇරැඹිය යුත්තේ කම්කරු ජනතාවගේ නීත්‍යානුකූල අයිතීන් ආරක්ෂා කරමින් බවය.
+Minister of Public Plantation Enterprise Reforms and Finance Dr. Ranjith Siyambalapitiya says this.
 
-මේ සම්බන්ධයෙන් දැනට සේවක පාර්ශ්වය විසින් නඩු 2000කට අධික ප්‍රමාණයක් පනවා ඇති අතර ඒ වෙනුවෙන් අදාළ ආයතනවලට නීතිඥ ගාස්තු ලෙස ද විශාල මුදලක් වැය වන බව අමාත්‍යවරයා වැඩි දුරටත් සඳහන් කළේය.
+Accordingly, he is due to pay over Rs. 500 million with the Employees Provident Fund and Employees' Trust Fund.
+
+The Minister said that he was appointed to the Secretary to the Ministry as the first duties of the year to the Secretary to the Ministry to the Secretary to the Ministry.
+
+The Minister further stated that over 2000 cases have been imposed in this regard and the relevant agencies will cost a large amount of action.
 
 ◼️
 
 [Data](articles/f83748e6.json)
+
+[Extended Data](ext_articles/f83748e6.ext.json)
 
 ---
 
@@ -72,13 +110,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-04-17 20:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Post-mortem-reveals-cause-of-Palitha-Thewarapperumas-death/108-280849) · `en`
 
-Kalutara, Apil 17 (Daily Mirror) - The post-mortem examination of former Deputy Minister Palitha Thewarapperuma has determined that severe internal organ damage from electrocution had caused his death.
+Kalutara, April 17 (Daily Mirror) - The post-mortem examination of former Deputy Minister Palitha Thewarapperuma has determined that severe internal organ damage from electrocution had caused his death.
 
 The post-mortem examination was conducted by the Chief Judicial Medical Officer at the Nagoda General Hospital today.
 
 Following the post-mortem, Thewarapperuma's remains were handed over to his wife.
 
-Family members announced that his funeral will be held this Friday (10).
+Family members announced that his funeral will be held this Friday (19).
 
 ◼️
 
@@ -149,6 +187,22 @@ While confidentiality agreements limit the disclosure of specific details, the s
 [Data](articles/adbe3505.json)
 
 [Extended Data](ext_articles/adbe3505.ext.json)
+
+---
+
+### පාස්කු ප්‍රහාරයේ වින්දිතයන්ට යුක්තිය ඉටු කරන හැටි ජාතික ජන බලවේගය කියයි
+
+*2024-04-17 19:27:40* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරයේ-වින්දිතයන්ට-යුක්තිය-ඉටු-කරන-හැටි-ජාතික-ජන-බලවේගය-කියයි/11-409134) · `si`
+
+පාස්කු ප්‍රහාරයට සම්බන්ධ අපරාධකරුවන්,එහි මහ මොළකරු සහ සැලසුම්කරුවන් නීතිය ඉදිරියට ගෙන ඒමට කටයුතු කිරීම තම ආණ්ඩුවක ප්‍රමුඛ කටයුත්තක් බව ජාතික ජනබලවේගය පවසයි.
+
+2019 අප්‍රේල් මස 21 වැනිදා එල්ල කළ පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරයේ වින්දිතයන්ට යුක්තිය ඉටුකිරීමෙහිලා වන ප්‍රතිඥාව ලෙස නිවේදනයක් නිකුත් කරමින් ජාතික ජන බලවේගය එසේ පවසයි.
+
+පාස්කු බෝම්බ ප්‍රහාරය ජාතීන් අතර අසමගිය නිර්මාණය කර, ජාතිවාදී කෝලාහල ඇති කරමින් විශාල ජන ජීවිත හා දේපළ හානියක් සිදු කිරීම මගින් පටු දේශපාලන අරමුණක් සාක්ෂාත් කරගැනීම සඳහා කිසියම් කණ්ඩායමක් විසින් මෙහෙයවනු ලැබූ කුමන්ත්‍රණයක් බව ද ජාතික ජනබලවේගය සඳහන් කරයි.
+
+...
+
+[Data](articles/26439b47.json)
 
 ---
 
@@ -2207,77 +2261,5 @@ His comments came after some 11 commuter trains were cancelled on Tuesday (16) d
 [Data](articles/c199a51f.json)
 
 [Extended Data](ext_articles/c199a51f.ext.json)
-
----
-
-### Arrested officer shared by the song
-
-*2024-04-17 10:40:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடலை-பகிர்ந்த-அதிகாரி-கைது/175-336028) · `ta`
-
-A department official was arrested in Wariyapola for distorting and sharing a traditional New Year song on social media. The CID is investigating after a complaint was lodged with the Inspector General of Police. The Northwest Provincial Division of the CID is also involved. The suspect, a 31-year-old officer from Talathu Oya, is to be produced in court today.
-
-🟩
-
-An official of the department has been arrested in Wariyapola on charges of distorting and sharing the song on social media.
-
-The Criminal Investigation Unit of the Criminal Investigation Division (CID) has begun investigations after a complaint was lodged with the Inspector General of Police regarding the disintegration of this traditional New Year song, which was sung by senior artist Rohana Betake Ranwala.
-
-The Northwest Provincial Division of the Computer Criminal Investigation Division (Northwestern Provincial) has investigated the arrest of a 31 -year -old kalal officer from Talathu Oya.
-
-The suspect has been handed over to the Boarda Police Station and is to be produced before the Kiliyapitiya Magistrate's Court today.
-
-◼️
-
-[Data](articles/2dff8c98.json)
-
-[Extended Data](ext_articles/2dff8c98.ext.json)
-
----
-
-### Academic disease
-
-*2024-04-17 10:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைகளிடையே-வயிற்றுப்போக்கு-நோய்-அதிகரிப்பு/175-336027) · `ta`
-
-Health officials warn parents about diarrhea in children, urging immediate medical treatment if symptoms occur. LRH pediatrician Deepal Perera advises parents to be cautious about their children's diet. Typhoid fever spread is also a concern. Diarrhea is the second leading cause of death in children under 5, according to WHO.
-
-🟩
-
-They have urged parents to be cautious after health officials have observed a significant amount of diarrhea spread among children these days.
-
-Speaking to the Daily Mirror, Lady Ridgeway Hospital (LRH) pediatrician Deepal Perera said, "It is a normal situation for children to eat too much food from the outside."
-
-Symptoms include frequent loose or stool with water, abdominal pain or cramps, appetite, nausea and vomiting.
-
-"If these symptoms are found in their children, parents are urged to take their children immediately for medical treatment."
-
-Also, parents are advised to be more vigilant on what feeds their children.
-
-In the meantime, the pediatrician warned the spread of typhoid fever among children.
-
-According to the World Health Organization (WHO), diarrhea is the second main cause of the death of children under the age of five.
-
-◼️
-
-[Data](articles/883f798e.json)
-
-[Extended Data](ext_articles/883f798e.ext.json)
-
----
-
-### Final rites of Thewarapperuma to be held on Friday
-
-*2024-04-17 10:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Final-rites-of-Thewarapperuma-to-be-held-on-Friday/108-280832) · `en`
-
-Colombo, April 17 (Daily Mirror) - According to the family members, the funeral service for former Deputy Minister Palitha Thewarapperuma is scheduled to take place this  Friday (10).
-
-He had experienced an electric shock yesterday while attempting to connect two electrical wires at his residence and had passed away after being admitted to the Nagoda Hospital.
-
-He had already prepared his burial plot in Kalutara for him to be laid to rest. His last wish was for his burial to take place within 24 hours of his death and his remains to be taken for burial on his own carriage.
-
-◼️
-
-[Data](articles/08ba7e24.json)
-
-[Extended Data](ext_articles/08ba7e24.ext.json)
 
 ---

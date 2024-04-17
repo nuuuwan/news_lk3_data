@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 01:34:00**
+As of **2024-04-18 01:51:16**
 
 ## Newspaper Stats
 
-*Scraped **19,436** Articles*
+*Scraped **19,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,32 +13,142 @@ bbccomsinhala | 205
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,038
-dailyftlk | 1,064
+dailyftlk | 1,069
 economynextcom | 1,099
 adalk | 1,620
 tamilmirrorlk | 2,264
 adaderanalk | 2,333
 virakesarilk | 2,902
-dailymirrorlk | 3,001
+dailymirrorlk | 3,002
 adaderanasinhalalk | 3,164
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,435 (100.0%) of 19,436 articles have been extended.
+19,436 (100.0%) of 19,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
+### CA Sri Lanka Kuwait Chapter partners Kuwait Accountants & Auditors Association
+
+*2024-04-18 01:33:01* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-Kuwait-Chapter-partners-Kuwait-Accountants-Auditors-Association/34-760750) · `en`
+
+CA Kuwait MoU 2024:  CA Sri Lanka President Heshana Kuruppu and KAAA Chairman Sabah Mubarak Al-Jalawi exchanging the MoU
+
+Initiative aimed at boosting professional growth opportunities for Sri Lankans
+
+Heralding a new era for both Sri Lankan and Kuwaiti accounting professionals, the Kuwait Chapter of the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) is poised to catalyze professional growth and knowledge exchange opportunities for Sri Lankans through an impactful partnership with the Kuwait Accountants & Auditors Association (KAAA).
+
+The Memorandum of Understanding (MoU) was signed by CA Sri Lanka President Heshana Kuruppu and KAAA Chairman Sabah Mubarak Al-Jalawi, in the presence of Ambassador of Sri Lanka in Kuwait Kandeepan Balasubramanaiam and CA Sri Lanka Kuwait Chapter President Dimuthu Ethugala at a recent event at the Crown Plaza Hotel, Kuwait.
+
+...
+
+[Data](articles/75956858.json)
+
+---
+
+### Ex-CIC fame Samantha Ranatunga new Chairman at HVA Foods
+
+*2024-04-18 01:32:27* · [`dailyftlk`](https://www.ft.lk/business/Ex-CIC-fame-Samantha-Ranatunga-new-Chairman-at-HVA-Foods/34-760749) · `en`
+
+Samantha Ranatunga has been appointed as the Chairman of HVA Foods PLC.
+
+The new appointment follows the resignation of previous Chairman B. S. M. De Silva.
+
+Ranatunga was the Managing Director of CIC Holdings PLC from 2010 to 2019. He joined the Company as an Executive in 1988 and held various senior positions and was Director of main subsidiaries of CIC Holdings PLC namely Chemanex PLC and Link Naturals Ltd.
+
+Ranatunga served on the Board of Directors of Seylan Bank PLC from 2010 – 2019. During this tenure, he chaired the Risk, Human Resources, Nomination, Marketing and Strategic Planning Committees of the Bank and served as a member of the Audit Committee. He was also the Chairman of Ceylon Chamber of Commerce from 2015 – 2017.
+
+Since 2019, he headed the pioneering Clinical Research Company, RemediumOne Ltd in Sri Lanka which is a public-private partnership with the University of Kelaniya.
+
+...
+
+[Data](articles/c1e60879.json)
+
+---
+
+### Concordia Estate achieves all-time record price
+
+*2024-04-18 01:30:21* · [`dailyftlk`](https://www.ft.lk/business/Concordia-Estate-achieves-all-time-record-price/34-760748) · `en`
+
+Concordia Estate, under the selling mark ‘Kenmare’, achieved an all-time record price of Rs. 1,800 per kg for an OP grade in the Nuwara Eliya category at the weekly online tea auctions.
+
+This Estate is situated in Kandapola, Nuwara Eliya at an elevation of 1,932 metres above sea level. Concordia Estate carries out an Orthodox Leafy manufacture, which has a distinctive Nuwara Eliya character. This estate is Rainforest Alliance certified.
+
+Concordia Estate is managed by Udapussellawa Plantations PLC, an associate of Browns Power Holdings Ltd., under the stewardship of Senior Manager Lasantha Samarakoon.
+
+This line of tea was sold and marketed by Forbes & Walker Tea Brokers Ltd.
+
+◼️
+
+[Data](articles/6f23de8b.json)
+
+---
+
+### Techtextil and Texprocess 2024 beckon Sri Lankan firms
+
+*2024-04-18 01:28:50* · [`dailyftlk`](https://www.ft.lk/business/Techtextil-and-Texprocess-2024-beckon-Sri-Lankan-firms/34-760747) · `en`
+
+Visitors engage with the innovative products on display at Techtextil and Texprocess
+
+Techtextil and Texprocess will take place from 23 to 26 April 2024 in Frankfurt am Main, Germany. Techtextil is the leading international trade fair for technical textiles and nonwovens, while Texprocess showcases the latest in garment and textile manufacturing machinery and services.
+
+These events provide numerous benefits for Sri Lanka’s technical textile sector, including market access, networking opportunities, knowledge sharing, promotion of innovation, attracting investment, and gaining insights into market trends. By leveraging these platforms effectively, Sri Lankan attendees can enhance their competitiveness and contribute to the continued growth and success of the technical textile industry in the country.
+
+...
+
+[Data](articles/68241d4f.json)
+
+---
+
+### Pelwatte Dairy welcomes new Non-Executive Directors: Mohamed Rizwie and Deepthie Wickramasuriya
+
+*2024-04-18 01:24:52* · [`dailyftlk`](https://www.ft.lk/business/Pelwatte-Dairy-welcomes-new-Non-Executive-Directors-Mohamed-Rizwie-and-Deepthie-Wickramasuriya/34-760746) · `en`
+
+Rizwie and  Wickramasuriya bring extensive experience and expertise to Pelwatte Dairy, strengthening the board’s strategic oversight and diversity. Their backgrounds align seamlessly with the company’s vision for continued success and leadership in the dairy industry.
+
+Pelwatte Dairy, a leading dairy company, announces the appointment of Mohamed Rizwie and Deepthie Wickramasuriya as Non-Executive Directors to its esteemed board. These appointments mark a significant milestone in Pelwatte Dairy’s commitment to innovation, growth, and corporate governance excellence.
+
+...
+
+[Data](articles/5d7989f6.json)
+
+---
+
+### Police CCTV Cameras to integrate public and private CCTVs for crime detection
+
+*2024-04-18 01:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-CCTV-Cameras-to-integrate-public-and-private-CCTVs-for-crime-detection/108-280853) · `en`
+
+Colombo, April 18 (Daily Mirror) - The Police department has decided to enhance crime detection by integrating public and private CCTV camera systems with the Police CCTV camera system, a senior police officer said.
+
+In the initial stage, around 2000 CCTV cameras from private entities, including residences in Colombo city, will be linked to the police's camera network.
+
+This initiative will be carried out in collaboration with interested participants. Individuals and private companies with CCTV systems are encouraged to connect their cameras to the Police CCTV system in Colombo, the official said.
+
+As the second stage, steps will be taken to integrate the police camera system with cameras across the country.
+
+While there is a notable presence of cameras in homes and private establishments in Colombo, their current impact on crime prevention is deemed minimal. The police department has only 176 CCTV cameras.
+
+Accordingly, direction has been issued to implement the programme as soon as possible.
+
+◼️
+
+[Data](articles/63cca7be.json)
+
+---
+
 ### Role of governance and importance of eradication of corruption in attracting forex inflows
 
 *2024-04-18 01:06:08* · [`dailyftlk`](https://www.ft.lk/columns/Role-of-governance-and-importance-of-eradication-of-corruption-in-attracting-forex-inflows/4-760740) · `en`
 
-Corruption and investment have been synonymous in Sri Lanka for decades as investments paved the way for corrupt politicians and their close associates to embezzle public funds with ease. In a country where the term “governance” was used as a shield to cover corruption, hardly any room was left for transparency to play a role.
+To cover up the reality, over-emphasis is placed to indicate that Sri Lankans are provided with too many subsidies and living beyond their means but a blind eye is turned to corruption and lack of governance
 
-It was no surprise for the country to be labelled as bankrupt by lenders, resulting from its inability to repay the debt. The way Sri Lankan politicians, their rogue business associates who spend lavishly for elections and high officials misused the public’s trust and the lack of financial discipline, fuelled by corruption paved the way for the public uprising in 2022. Even though former politicians have recently become authors to explain why they were chased away by people, in the eyes of the public, politicians were long regarded as looters of citizens’ future, particularly the future of children and the youth.
+Lack of governance and corruption is so mainstream, even after the current IMF program is implemented, such corrupt practices are continuing and this was highlighted in the Parliament as well. It’s no wonder, the implementation of the anti-corruption bill is progressing at a snail’s pace
+
+Corruption and investment have been synonymous in Sri Lanka for decades as investments paved the way for corrupt politicians and their close associates to embezzle public funds with ease. In a country where the term “governance” was used as a shield to cover corruption, hardly any room was left for transparency to play a role.
 
 ...
 
@@ -48,13 +158,19 @@ It was no surprise for the country to be labelled as bankrupt by lenders, result
 
 ---
 
-### நான் இருக்கும் வரை சுதந்திர கட்சியை பிரிதொரு கட்சியுடன் இணைப்பதற்கு இடமளிக்க மாட்டேன் -  மைத்திரிபால சிறிசேன
+### I will not allow the Independent Party to join the party as far as I am -Maithripala Sirisena
 
 *2024-04-18 00:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/181340) · `ta`
+
+Maithripala Sirisena opposes the Independent Party joining the party, highlighting his commitment to Sirimavo Bandaranaike's policies and his own leadership's challenges and successes.
+
+🟩
 
 ...
 
 [Data](articles/e368c3a3.json)
+
+[Extended Data](ext_articles/e368c3a3.ext.json)
 
 ---
 
@@ -2085,131 +2201,5 @@ The arrest came hot on the heels of public outcry on social media after a video 
 [Data](articles/debe4d24.json)
 
 [Extended Data](ext_articles/debe4d24.ext.json)
-
----
-
-### Sri Lanka tourism can be bolstered by leveraging the Pekoe Trail: President
-
-*2024-04-17 13:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourism-can-be-bolstered-by-leveraging-the-pekoe-trail-president-158852/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Pekoe Trail needs to be developed to enhance the tourist experience in the central highlands, President Ranil Wickremesinghe has said after walking a 3.2 km part of the Trail.
-
-During his walk along the Trail Wickremesinghe emphasized the importance “of providing Pekoe Trail tourists with the opportunity to savour a freshly brewed cup of tea,” and spoke of the need “to bolster the tourism industry associated with Sri Lanka’s central highlands by leveraging the Pekoe Trail,” a statement by his media division said.
-
-Wickremesinghe’s visit on Tuesday was to “explore opportunities for the revival of the tourism industry around the picturesque hills of Nuwara Eliya.”
-
-Comprising 22 stages, the Pekoe Trail can be tailored to suit one-day or multi-day excursions, catering to a range of preferences. Plans are underway to further develop the trail, enhancing it with necessary facilities to ensure a seamless and enjoyable experience for visitors.
-
-...
-
-[Data](articles/601631b6.json)
-
-[Extended Data](ext_articles/601631b6.ext.json)
-
----
-
-### There is no church politics - Nimal
-
-*2024-04-17 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195718) · `si`
-
-Minister Nimal Siripala de Silva, at the 108th Birth Anniversary of Sirimavo Bandaranaike, criticized the lack of organization in the party, praised her leadership, and argued against left politics, suggesting it's merely a board plan.
-
-🟩
-
-Minister Nimal Siripala de Silva says that no country in the world is not limited to a board.
-
-The Minister made these comments participating at the 108th Birth Anniversary of Sirimavo Bandaranaike.
-
-Speaking further Minister Nimal Siripala de Silva said.
-
-...
-
-[Data](articles/15d58346.json)
-
-[Extended Data](ext_articles/15d58346.ext.json)
-
----
-
-### Damitha and husband remanded again
-
-*2024-04-17 12:53:14* · [`adalk`](https://www.ada.lk/breaking_news/දමිතා-හා-සැමියා-යළි-රිමාන්ඩ්/11-409124) · `si`
-
-Damitha and her husband were remanded in custody by the Colombo Fort Magistrate's Court today, following a decision by the Criminal Investigations Department.
-
-🟩
-
-The Colombo Fort Magistrate's Court today (Fort) Court today (Fort) Court today remanded to remand custody.
-
-When the case was taken up today. The couple was remanded after considering the issues that the Criminal Investigations Department.
-
-◼️
-
-[Data](articles/6f86a65a.json)
-
-[Extended Data](ext_articles/6f86a65a.ext.json)
-
----
-
-### Missing Young Family in Vavuniya
-
-*2024-04-17 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181289) · `ta`
-
-A 25-year-old man, Vilvarasa Rakshan, reported his missing husband in Vavuniya on the 12th. The husband left for work but hasn't been seen since.
-
-🟩
-
-A complaint has been lodged at the Nelukkulam police station that the husband has been missing since the 12th of this month.
-
-The young family has temporarily lived at the above mentioned address after the registration marriage, and the man who left his wife on the 12th of this month, said that he was going to work.
-
-25 -year -old Vilvarasa Rakshan has asked the man to notify the telephone number or the nearest police station on 074182912.
-
-◼️
-
-[Data](articles/6a82e6d9.json)
-
-[Extended Data](ext_articles/6a82e6d9.ext.json)
-
----
-
-### Rs.
-
-*2024-04-17 12:47:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-900-கொத்துரொட்டி-வர்த்தகருக்கு-பிணை/175-336039) · `ta`
-
-A restaurant owner was released after being arrested for a threat by a foreigner in Colombo. A shop owner was arrested for allegedly scolding a foreigner over food prices, sparking a video that went viral.
-
-🟩
-
-The Colombo Magistrate's Court on Wednesday (17) ordered the release of a restaurant owner who was arrested on Tuesday (16) in connection with the threat of a foreigner who had come to buy food at the Pudukkadai area in Colombo.
-
-Accordingly, the suspect has been released in cash bail of 50 thousand rupees and a bail worth Rs 10 lakh.
-
-A shop owner has been arrested by the banana plantation police for allegedly scolding a foreigner who came to buy food in the Pudukkadai area of Pudukkadai, Colombo.
-
-When the foreigner asked for the price of a bunch of bread, the shopkeeper said 1900 rupees. The foreigner refused to buy it.
-
-A video on the incident is spreading strongly on social networks. Police said the suspect had been arrested on the basis of a video.
-
-The suspect is 51 years old from Colombo 12.
-
-◼️
-
-[Data](articles/1b500998.json)
-
-[Extended Data](ext_articles/1b500998.ext.json)
-
----
-
-### Damitha, husband further remanded
-
-*2024-04-17 12:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Damitha-husband-further-remanded/108-280840) · `en`
-
-Colombo, April 17 (Daily Mirror)- Popular actress Damitha Abeyratne and her husband, who were held in remand custody over an alleged financial fraud, were today ordered to be further remanded till April 24 after being produced before the Colombo Chief Magistrate’s Court.
-
-◼️
-
-[Data](articles/ec487d4a.json)
-
-[Extended Data](ext_articles/ec487d4a.ext.json)
 
 ---

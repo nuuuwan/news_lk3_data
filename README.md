@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 19:51:25**
+As of **2024-04-17 20:03:28**
 
 ## Newspaper Stats
 
@@ -26,33 +26,43 @@ adaderanasinhalalk | 3,158
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,391 (100.0%) of 19,398 articles have been extended.
+19,398 (100.0%) of 19,398 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### අවුරුදු නෑ ගමන මළගෙයක් වෙයි
+### New Year's Journey is a dead body
 
 *2024-04-17 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195731) · `si`
 
-දකුණු පළාතේ දිසා විනිසුරුවරයෙකුට උප පොලිස් පරීක්ෂකවරයෙක් සිදුකළ පහරදීමක් සම්බන්ධයෙන් පුවතක් වාර්තාවිය.
+A sub-inspector assaulted a District Judge in the Southern Province, leading to a dispute over a cat. The judge, after a fire incident, lodged a complaint with the police. The judge's wife was assaulted by a police officer's wife, but the judge claimed he gave his statement and left. The suspect was arrested, and the judge's wife was rushed to the hospital. The arrested officer was released the previous day.
 
-දිසා විනිසුරුවරයා සුරතලයට ඇතිකරන බළලා පිළිබඳ ඇති වූ ආරවුලක් දුරදිග ගොස් ගැටුම හටගෙන ඇති අතර සිද්ධියෙන් පසු විනිසුරුවරයාගේ බිරිඳ රෝගීව මියගොස් ඇති බව පොලීසිය පවසයි.
+🟩
 
-අලුත් අවුරුදු දා දිසා විනිසුරුවරයා සුරතලයට ඇතිකරන බළලාද රැගෙන සිය බිරිඳ සමග උපපොලිස් පරීක්ෂකවරයෙක් වන ඇයගේ සොහොයුරාගේ නිවසට ගොස් ඇත.
+A sub-inspector has been assaulted by a Sub Inspector's assault in the Southern Province.
 
-එහිදී නැවත නිවසට පැමිණීමට සූදානම් වූ අවස්ථාවේ සුරතලයට ඇතිකරන බළලා අතුරුදන්වීමත් සමග ඇතිවූ උණුසුම් කතාබහක් අතරතුරදී උප පොලිස් පරීක්ෂකවරයා විසින් දිසා විනිසුරුවරයාට පහරදී ඇති බව පොලීසිය පවසයි.
+The District Judge had a dispute over the cat suffered a dispute with the cat, police said.
 
-පසුව විනිසුරුවරයා මේ පිළිබඳ දුරකථන මාර්ගයෙන් අක්මීමන පොලීසියට පැමිණිලි කර ඇති බව පොලීසිය පවසයි.
+The District Judge had gone to the house of her wife, a suburb of the wife with his wife.
 
-ඒ් අනුව පොලිස් කණ්ඩායමක් එම නිවසට පැමිණ සිද්ධිය පිළිබඳ ප්‍රකාශ සටහන් කරගන්නා අවස්ථාවේදී විනිසුරුවරයාගේ බිරිඳ එනම් පහරදුන් බව කියන පොලිස් නිලධාරියාගේ නැගණිය සිය ළය ප්‍රදේශය රිදෙන බවට පවසා ඇතැයි වාර්තා වෙයි.
+The District Inspector has assaulted the District Judge during a heated catch with the disappearance caused by the fire in a hot celebration while preparing to return home.
 
-නමුත් ඒ් පිළිබඳව වැඩි තැකීමක් නොකළ විනිසුරුවරයා සිය ප්‍රකාශය ලබාදුන් බව පොලීසිය පවසයි.
+The judge has later lodged a complaint with Akmeemana Police by telephone.
+
+According to a policeman's wife, the sister of the judge's wife, has said that his wife's wife is assaulted by a police officer's wife.
+
+However, the judge who did not care about the men said he gave his statement.
+
+The judge who gave the statement had left the house and the suspect was arrested by the police.
+
+Meanwhile, the judge's wife's sickness has been rushed to the Karapitiya Hospital.
 
 ...
 
 [Data](articles/d9366d0d.json)
+
+[Extended Data](ext_articles/d9366d0d.ext.json)
 
 ---
 
@@ -91,6 +101,8 @@ Accordingly, the CID has informed Rev. Fr. Cyril Gamini Fernando to appear at 10
 ◼️
 
 [Data](articles/37d936d6.json)
+
+[Extended Data](ext_articles/37d936d6.ext.json)
 
 ---
 
@@ -1704,6 +1716,8 @@ The Minister said that the government has adopted other reform programmes aside 
 
 [Data](articles/4c1fd0ff.json)
 
+[Extended Data](ext_articles/4c1fd0ff.ext.json)
+
 ---
 
 ### Drug supplies by Ishi Cash: Woman arrested in Chilaw
@@ -1749,6 +1763,8 @@ The website says it is operated by companies called IVS-GBS and VFS Global.
 ...
 
 [Data](articles/058d1ce9.json)
+
+[Extended Data](ext_articles/058d1ce9.ext.json)
 
 ---
 

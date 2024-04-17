@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 11:03:23**
+As of **2024-04-17 11:18:19**
 
 ## Newspaper Stats
 
-*Scraped **19,293** Articles*
+*Scraped **19,297** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,38 +13,78 @@ bbccomsinhala | 202
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,038
-dailyftlk | 1,058
+dailyftlk | 1,059
 economynextcom | 1,084
 adalk | 1,604
 tamilmirrorlk | 2,250
-adaderanalk | 2,319
+adaderanalk | 2,321
 virakesarilk | 2,877
-dailymirrorlk | 2,974
+dailymirrorlk | 2,975
 adaderanasinhalalk | 3,141
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,290 (100.0%) of 19,293 articles have been extended.
+19,293 (100.0%) of 19,297 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### මියන්මාරයේ අත්අඩංගුවේ සිටි ලාංකිකයින්ට පොදු සමාවක්
+### Fifteen imprisoned Sri Lankan fishermen in Myanmar pardoned
+
+*2024-04-17 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98680/fifteen-imprisoned-sri-lankan-fishermen-in-myanmar-pardoned) · `en`
+
+The 15 Sri Lankan fishermen, who were sentenced to 7-year rigorous imprisonment in Myanmar for violating the maritime boundaries, have been granted a general amnesty.
+
+This was communicated by the Ambassador of Sri Lanka in Myanmar.
+
+These fishers had been arrested by the authorities in Myanmar for illegally crossing the country’s maritime boundaries in December 2023.
+
+◼️
+
+[Data](articles/ca03a83e.json)
+
+---
+
+### A common pardon for Sri Lankans in Myanmar
 
 *2024-04-17 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195714) · `si`
 
-මියන්මාරයේ අත්අඩංගුවේ සිටි ශ්‍රී ලාංකික ධීවරයින් 15 දෙනාට එරට රජය විසින් පොදු සමාවක් ලබා දී තිබේ.
+Sri Lankan fishermen in Australian custody, arrested by Myanmar last December, have been pardoned, confirmed by Myanmar's Ambassador.
 
-මියන්මාරයේ ශ්‍රී ලංකා තානාපතිවරයා විසින් මේ බව තහවුරු කර ඇත.
+🟩
 
-පසුගිය දෙසැම්බර් මාසයේ දී එම පිරිස මියන්මාර බලධාරීන් විසින් අත්අඩංගුවට ගත් අතර පසුව ඔවුන්ට වසර 7ක සිරදඬුවමක් නියම කෙරිණි.
+The 15 Sri Lankan fishermen in Australian custody have been given a common pardon.
+
+The Ambassador of Myanmar has confirmed this.
+
+They were arrested by Myanmar authorities last December and later sentenced to seven years in prison.
 
 ◼️
 
 [Data](articles/fe7f6756.json)
+
+[Extended Data](ext_articles/fe7f6756.ext.json)
+
+---
+
+### Thousands of buses operative for people to return from hometowns after Avurudu
+
+*2024-04-17 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98679/thousands-of-buses-operative-for-people-to-return-from-hometowns-after-avurudu) · `en`
+
+The number of buses in operation across the country has been increased to facilitate the return of people who visited their hometowns for the Sinhala and Tamil New Year, says the Private Bus Owners’ Association.
+
+According to the president of the association Gemunu Wijeratne, as many as 9,000 buses are up and running today island-wide.
+
+Meanwhile, the General Manager of Railway N. J. Indipolage said the train operations also returned to normalcy today.
+
+His comments came after some 11 commuter trains were cancelled on Tuesday (16) due to the lack of locomotive engine operators and train guards who had not reported to work after the traditional New Year festivities.
+
+◼️
+
+[Data](articles/c199a51f.json)
 
 ---
 
@@ -61,6 +101,8 @@ He had already prepared his burial plot in Kalutara for him to be laid to rest. 
 ◼️
 
 [Data](articles/21fdcf13.json)
+
+[Extended Data](ext_articles/21fdcf13.ext.json)
 
 ---
 
@@ -244,25 +286,33 @@ Under the Tobacco and Vapes Bill, children turning 15 this year or younger will 
 
 ---
 
-### ඒ. ටී. ආරියරත්න මහතාගේ අවසන් කටයුතු රාජ්‍ය ගෞරව සහිතව
+### it. T. The funeral work of Mr. Ariyaratne is respectful
 
 *2024-04-17 09:19:49* · [`adalk`](https://www.ada.lk/breaking_news/ඒ--ටී--ආරියරත්න-මහතාගේ-අවසන්-කටයුතු-රාජ්‍ය-ගෞරව-සහිතව/11-409116) · `si`
 
-අභාවප්‍රාප්ත වූ සර්වෝදය නිර්මාතෘ ආචාර්ය ඒ. ටී. ආරියරත්න මහතාගේ දේහය අද පස්වරුවේ සිට මොරටුවේ පිහිටි සර්වෝදය මූලස්ථානයේ තැම්පත් කිරීමට නියමිතය.
+Mr. Ariyaratne, founder of Sarvodaya Shramadana Movement, passed away at 93. His body will be at Sarvodaya Headquarters in Moratuwa this afternoon, then at Independence Square, Colombo, for his funeral. He was awarded Sri Lanka's top honor in 2007 and the Ramon Macedsey in the Philippines.
 
-ලබන 20 වනදා දහවල් 12.00 දක්වා එම ස්ථානයේ තැම්පත් කර තැබෙන ඒ.ටි. ආරියරත්න මහතාගේ දේහය එදින පස්වරුවේ කොළඹ නිදහස් චතුරස්‍රය වෙත රැගෙන යාමට නියමිතය.
+🟩
 
-20 වනදා පස්වරු 4ට කොළඹ නිදහස් චතුරස්‍රයේදී රාජ්‍ය ගෞරව සහිතව ආචාර්ය ඒ. ටී. ආරියරත්න මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු සිදුකිරීමට නියමිතව තිබේ.
+Dr. Av, the passing out of the latest Sarvodaya Founder. T. The body of Ariyaratne is to be used at the Sarvodaya Headquarters in Moratuwa this afternoon.
 
-ආචාර්ය ඒ.ටී. ආරියරත්න මහතා ඊයේ (16) රාත්‍රී ඒ මහතා පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදී අභාවප්‍රාප්ත වුණි.මියයන විට ඒ මහතා 93 වැනි වියේ පසුවුණි.
+A.Th, which is placed on the same place until 12.00 pm on the 20th.. The body of Ariyaratne is to be taken to the Independence Square of Colombo evening.
 
-1950 දශකයේදී එතුමාගේ සංකල්පයකට අනුව බිහිකෙරුණු සර්වෝදය ශ්‍රමදාන ව්‍යාපාරය දශක 06ක් පුරා මෙරට සරණක් අවැසි ජනතාවගේ උන්නතිය වෙනුවෙන් ක්‍රියාකාරීව කටයුතු කළ සංවිධානයකි.
+On the 20th of 4 pm at Independence Square, Colombo. T. The funeral of Ariyaratne's body is to be taken.
 
-ශ්‍රී ලංකාවේ විශාලතම රාජ්‍ය නොවන සංවිධානය වන සර්වෝදය ව්‍යාපාරය වෙනුවෙන් දෙස් විදෙස් ඇගයීම් රැසකට ද ආරියරත්න මහතා පාත්‍රවුණි.
+Dr. AT. He passed away while he was admitted to a private hospital yesterday last night. Now he was 93.
 
-...
+The Sarvodaya Shramadana Movement, which was created by his concept in the 1950s, is an organization active for the advancement of people of Sri Lanka for six decades.
+
+Mr. Ariyaratne has borrowed the Sarvodaya Business, Sri Lanka's largest NGO, Sri Lanka.
+
+Sri Lanka's top award for a Sri Lankan is awarded to him in 2007. He was also awarded the Ramon Macedsey in the Philippines.
+
+◼️
 
 [Data](articles/d86829c3.json)
+
+[Extended Data](ext_articles/d86829c3.ext.json)
 
 ---
 
@@ -1466,6 +1516,20 @@ A Parliamentary Committee led by MP Harsha de Silva has had a lot to say about t
 
 ---
 
+### Why all the fuss for a downtown duty-free?
+
+*2024-04-17 00:16:51* · [`dailyftlk`](https://www.ft.lk/columns/Why-all-the-fuss-for-a-downtown-duty-free/4-760664) · `en`
+
+MP Harsha in 2019 said the laws will be very conducive for incentives to attract foreign investment to the Colombo Port City
+
+A Parliamentary Committee led by MP Harsha de Silva has had a lot to say about the Colombo Port City Duty-Free recently by posting videos on YouTube. Unfortunately these videos get into the hands of potential investors. Sri Lanka attracts so much investment, so I guess it does not matter to them. Globally the easiest thing for an opposition politician to get noticed is to criticise.
+
+...
+
+[Data](articles/6641658d.json)
+
+---
+
 ### The new visa system from today
 
 *2024-04-17 00:10:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-புதிய-வீசா-முறை/175-336009) · `ta`
@@ -1483,6 +1547,22 @@ The Controller of the Department of Immigration and Emigration, ISHJ Ilukpitiya,
 [Data](articles/5c6d086d.json)
 
 [Extended Data](ext_articles/5c6d086d.ext.json)
+
+---
+
+### Lankan students to shine on global stage with robotics innovations
+
+*2024-04-17 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lankan-students-to-shine-on-global-stage-with-robotics-innovations/108-280793) · `en`
+
+Six students from the Burhani Serendib School in Colombo have qualified to take part in a prestigious global robotics competition, marking the first time Sri Lankan schoolchildren have qualified for this particular competition.
+
+Known as the International Creativity and Innovation Award (ICIA), the competition celebrates the most inventive young minds globally and will see the Sri Lankan students showcase their talents later this month in Thailand.
+
+The ICIA is not just a competition but a comprehensive learning platform that promotes creativity and innovation among youth. This initiative aligns with the World Creativity and Innovation Day, an event endorsed by the United Nations to foster inventive thinking worldwide.
+
+...
+
+[Data](articles/45309ac1.json)
 
 ---
 
@@ -2075,99 +2155,5 @@ In these discussions, there was no final agreement on the restructuring conditio
 [Data](articles/f2b9d311.json)
 
 [Extended Data](ext_articles/f2b9d311.ext.json)
-
----
-
-### Palitha Devapperuma dies after electricity!
-
-*2024-04-16 19:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181258) · `ta`
-
-Palitha Thevarapperuma, a former UNP MP and Minister of Wildlife, died from electrocution while connecting two electrical circuits.
-
-🟩
-
-Former Secretary of State Palitha Thevarapperuma has died after being electrocuted, Nagoda Hospital sources said.
-
-The hospital spokesman said that he was admitted to the Nagoda Hospital when he was hit by electricity when he went to connect two electrical circuits in the house.
-
-Palitha Thevarapperuma is a former Member of Parliament of the United National Party (UNP) and former Minister of Wildlife.
-
-◼️
-
-[Data](articles/3f4e1cee.json)
-
-[Extended Data](ext_articles/3f4e1cee.ext.json)
-
----
-
-### Sarvodaya Shramadana Movement Founder A.T. Ariyaratne passes away
-
-*2024-04-16 19:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sarvodaya-Shramadana-Movement-Founder-A-T-Ariyaratne-passes-away/108-280787) · `en`
-
-Colombo, April 16 - Dr. Ahangamage Tudor Ariyaratne, the founder of the Sarvodaya Shramadana Movement passed away at the age of 92.
-
-His demise marks the end of an era for the socio-spiritual movement he pioneered, which has profoundly impacted communities across Sri Lanka and beyond.
-
-Born on November 5, 1931, Dr. Ariyaratne embarked on his transformative journey as a high school teacher at Nalanda College. It was in 1958 that he organized the inaugural shramadana work camp, laying the foundation for what would become the largest non-governmental organization in Sri Lanka.
-
-Through his tireless efforts, he mobilized individuals and communities to participate in selfless service for the betterment of society.
-
-◼️
-
-[Data](articles/1ada059b.json)
-
-[Extended Data](ext_articles/1ada059b.ext.json)
-
----
-
-### Former State Minister Palitha Thewarapperuma kills power
-
-*2024-04-16 19:31:06* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-රාජ්‍ය-අමාත්‍ය-පාලිත-තෙවරප්පෙරුම-මහතා-විදුලි-සැර-වැදී-මරුට/11-409112) · `si`
-
-Palitha Thewarapperuma, former State Minister, died after an electric shock incident. Investigations show he connected two wires, leading to his death. His body is at Kalutara Teaching Hospital for a post-mortem.
-
-🟩
-
-Former State Minister Palitha Thewarapperuma has died this afternoon, police sources said.
-
-The suspects have been confirmed to connect two wires and investigations have been confirmed that he has done so far.
-
-After electric weaving, the former Minister has been taken to the Kalutara Teaching Hospital and has already been killed and has already died.
-
-The remains are placed in the Kalutara Teaching Hospital, and the post mortem will be held today.
-
-◼️
-
-[Data](articles/b639c5da.json)
-
-[Extended Data](ext_articles/b639c5da.ext.json)
-
----
-
-### Chithira Spring Celebration in Nuwara Eliya
-
-*2024-04-16 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181257) · `ta`
-
-Lokendran Ravikumar from Jogi village won the Governor's Bowl Racing at the Nuwara Eliya Royal Tarve Club's Spring New Year's celebration, making the village and district proud.
-
-🟩
-
-Lokendran Ravikumar, who paid a Her and knight horse in the Royal Tarve Club Gavamen (Governor) Bowl Racing, was a part of the Spring New Year's celebration of the Spring New Year in Nuwara Eliya.
-
-Lokendran Ravikumar, a horse -rise (Jogi) village in the village of Race Goos, has made the village and the Nuwara Eliya district proud by winning the most important horse racing competition.
-
-The Nuwara Eliya Royal Tarve Club was held on Sunday (15) to attract domestic and foreign tourists.
-
-The most important governors (governor) bowled horse race won the Hear and knight horse and Lokendran Ravikumar paid the horse.
-
-Royal Crystal Horse Payed B.. S.. Gaviraj Payed 2nd and Weston Wind Horse. Vikram was also ranked 3rd.
-
-Minister of Youth Affairs, Sports and Tourism Harin Fernando participated as the chief guest and presented the prizes.
-
-◼️
-
-[Data](articles/5b1a2a48.json)
-
-[Extended Data](ext_articles/5b1a2a48.ext.json)
 
 ---

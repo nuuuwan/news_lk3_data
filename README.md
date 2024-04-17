@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 12:34:08**
+As of **2024-04-17 12:51:15**
 
 ## Newspaper Stats
 
-*Scraped **19,315** Articles*
+*Scraped **19,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,128 @@ newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,059
 economynextcom | 1,084
-adalk | 1,606
+adalk | 1,607
 tamilmirrorlk | 2,255
-adaderanalk | 2,322
-virakesarilk | 2,882
-dailymirrorlk | 2,978
-adaderanasinhalalk | 3,143
+adaderanalk | 2,323
+virakesarilk | 2,883
+dailymirrorlk | 2,979
+adaderanasinhalalk | 3,144
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,315 (100.0%) of 19,315 articles have been extended.
+19,319 (100.0%) of 19,320 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### Dehiwala Zoo earns Rs. 4.85 million during New Year days
+
+*2024-04-17 12:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dehiwala-Zoo-earns-Rs-4-85-million-during-New-Year-days/108-280837) · `en`
+
+Colombo, April 17 (Daily Mirror) - The Dehiwala Zoological Gardens collected a total of Rs. 4.85 million as revenue during April 13, 14 and 15, Zoological Gardens Assistant Director Dinushika Manawadu said.
+
+She told the Daily Mirror that Rs. 1.35 million was collected on April 13, Rs. 1.65 million on April 14 and Rs. 1.85 million yesterday (April 15).
+
+◼️
+
+[Data](articles/4317cc18.json)
+
+[Extended Data](ext_articles/4317cc18.ext.json)
+
+---
+
+### Damitha further remanded
+
+*2024-04-17 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195717) · `si`
+
+The Colombo Magistrate's Court ordered remand for Damitha in a foreign employment cheating case, following CID's investigation.
+
+🟩
+
+The Colombo Magistrate's Court ordered the courts in connection with a claim of cheating a foreign employment.
+
+After considering the issues that the Criminal Investigations Department (CID) in the incident, the court issued the order.
+
+◼️
+
+[Data](articles/55549422.json)
+
+[Extended Data](ext_articles/55549422.ext.json)
+
+---
+
+### Damitha and her husband further remanded
+
+*2024-04-17 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98682/damitha-and-her-husband-further-remanded) · `en`
+
+Actress Damitha Abeyratne and her husband, who were arrested over alleged fraud, have been further remanded on the orders of Colombo Fort Magistrate’s Court.
+
+Accordingly, the couple will be behind bars on remand until 24 April.
+
+The actress and her spouse, who had been wanted by the CID, were arrested after they appeared before the court on 04 April.
+
+The CID is investigating Abeyratne and her husband, in connection with their involvement in an alleged money scam.
+
+The Computer Crimes Division of the CID initiated an investigation into the alleged defrauding of Rs. 3 million by the couple on the promise of employment in South Korea. Subsequently, the CID informed the court that Abeyratne and her husband would be named as suspects of the relevant case.
+
+Fort Magistrate’s Court also rejected a writ petition looking to prevent their arrest.
+
+◼️
+
+[Data](articles/c27f1a81.json)
+
+---
+
+### Amnesty for 15 Sri Lankan fishermen detained in Myanmar for 7 years
+
+*2024-04-17 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/181278) · `ta`
+
+15 Sri Lankan fishermen granted amnesty in Myanmar, sentenced to 7 years for illegal entry in 2023.
+
+🟩
+
+15 Sri Lankan fishermen have been granted amnesty in Myanmar and sentenced to 7 years in prison.
+
+In December 2023, 15 Sri Lankan fishermen were arrested after the illegal entered the Myanmar waters.
+
+◼️
+
+[Data](articles/e05a13a4.json)
+
+[Extended Data](ext_articles/e05a13a4.ext.json)
+
+---
+
+### The elderly couple has fled
+
+*2024-04-17 12:04:28* · [`adalk`](https://www.ada.lk/breaking_news/වයෝවෘද්ධ--යුවලක්--කොල්ලකා-පලා-ගිහින්/11-409119) · `si`
+
+An elderly couple fled from a robbery in Ugguswatte, leaving behind weapons, jewelry, and cash. Two robbers broke in, causing injuries, and threatened police. The victims were hospitalized.
+
+🟩
+
+Two persons who had fallen into a house of Ugguswatte, who had a sharp weapons with sharp weapons and had their faces and limbs and pirculars have fled.
+
+Three gold rings will be four mobile phones and Rs 37,000 / = in between robbery.
+
+Two robbers who had broken two doors about the house and collapsed in the house and collapse their facets and limbs in the house and put the limbs in the house and put in a room.
+
+Police investigations have revealed that the police had been threatened by the robbers to leave the house.
+
+After leaving the robbers, the man had strictly strictly strictly strictly tired, the guy who had tied up robbers had been robbed and his wife had been on the morning.
+
+The victims have been admitted to the Homagama Preliminary Hospital in the Homagama Base Hospital with a neighbors and telephones and intimidate the threats and intimidation of robbers.
+
+...
+
+[Data](articles/3b298e09.json)
+
+[Extended Data](ext_articles/3b298e09.ext.json)
+
+---
 
 ### Kottu Mudalai released on bail
 
@@ -47,6 +153,32 @@ The Colombo Magistrate's Court has set a carrier to release the delegation in co
 [Data](articles/1b7396d9.json)
 
 [Extended Data](ext_articles/1b7396d9.ext.json)
+
+---
+
+### Theft at the Commissioner of the Nuwara Eliya Election Commission
+
+*2024-04-17 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/181284) · `ta`
+
+Nuwara Eliya reported theft of gold, money, and electronics from a private hotel near the Commissioner of the Nuwara Eliya Election Commission. Thieves, who broke into residents' homes on New Year's Day, stole items including laptops and TVs. The incident was discovered when a resident returned home. Police are investigating with the Nuwara Eliya Forensic Police.
+
+🟩
+
+Nuwara Eliya has lodged a complaint at the Nuwara Eliya Police Station that many items such as gold jewelery, money and electronic equipment have been stolen when there is no one in the Commissioner of the Nuwara Eliya Election Commission.
+
+The theft took place in a private hotel provided to civil servants near the Nuwara Eliya - Udappusallawa main road.
+
+Police said that the residents of the private hotel had been stolen by the thieves who broke into their hometowns on the New Year, and had stolen many electronic devices, including gold jewelery, money and laptop and television box.
+
+The theft incident was revealed when he returned to his hometown on Wednesday (17).
+
+It is noteworthy that the Nuwara Eliya Police are conducting further investigations with the help of the Nuwara Eliya Forensic Police in connection with the incident.
+
+◼️
+
+[Data](articles/2888726d.json)
+
+[Extended Data](ext_articles/2888726d.ext.json)
 
 ---
 
@@ -157,26 +289,6 @@ The proposal will be prepared by the Minister of Tourism, Ali Sabri and Public S
 [Data](articles/bf050faf.json)
 
 [Extended Data](ext_articles/bf050faf.ext.json)
-
----
-
-### Amnesty for 15 Sri Lankan fishermen detained in Myanmar for 7 years
-
-*2024-04-17 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/181278) · `ta`
-
-15 Sri Lankan fishermen granted amnesty in Myanmar, sentenced to 7 years for illegal entry in 2023.
-
-🟩
-
-15 Sri Lankan fishermen have been granted amnesty in Myanmar and sentenced to 7 years in prison.
-
-In December 2023, 15 Sri Lankan fishermen were arrested after the illegal entered the Myanmar waters.
-
-◼️
-
-[Data](articles/e05a13a4.json)
-
-[Extended Data](ext_articles/e05a13a4.ext.json)
 
 ---
 
@@ -2113,93 +2225,5 @@ Sulochana Silva is a Research Assistant at the Institute of Policy Studies of Sr
 [Data](articles/94761680.json)
 
 [Extended Data](ext_articles/94761680.ext.json)
-
----
-
-### Sri Lanka to focus on Green Entrepreneurship
-
-*2024-04-16 23:00:00* · [`islandlk`](http://island.lk/sri-lanka-to-focus-on-green-entrepreneurship/) · `en`
-
-The United Nations has recently applauded Sri Lanka’s efforts to restore and expand the island’s mangrove cover by over 50 percent. The country has been selected as one of the seven UN World Restoration Flagships for its pioneering efforts in mangrove restoration.
-
-Senior Advisor to the President on Climate Change, Ruwan Wijewardene, is actively preparing for the next phase of efforts in this direction. A meeting was held with Ravi Pratap Singh, Managing Director of iLEAD International Academy, Sri Lanka, which has come up with a comprehensive plan to promote Green Entrepreneurship in the country and develop mangroves with the involvement of youth. Green entrepreneurship, the plan suggests, would create a sustainable mechanism for maintenance and growth of mangroves in the country.
-
-...
-
-[Data](articles/6938fd63.json)
-
-[Extended Data](ext_articles/6938fd63.ext.json)
-
----
-
-### Coca-Cola appoints Kaushali Kusumapala as Country Director for Sri Lanka & Maldives
-
-*2024-04-16 22:55:00* · [`islandlk`](http://island.lk/coca-cola-appoints-kaushali-kusumapala-as-country-director-for-sri-lanka-maldives/) · `en`
-
-Coca-Cola has announced Kaushali Kusumapala’s appointment as the new Country Director for Sri Lanka and Maldives, effective from 1st April 2024. Making history as the first Sri Lankan woman in this position, Kaushali succeeds former Country Director, Pankaj Sinha, who assumed the role in 2019. In this position, Kaushali will closely collaborate with bottling teams, customers, partners, consumers and external stakeholders in Sri Lanka and Maldives.
-
-With a career spanning back to 2009, Kaushali has garnered diverse experience having worked with organizations and brands such as Leo Burnett, Fonterra Dairy and Domino’s Pizza. Notably, her journey to leadership includes significant achievements at Hemas International, where she served as Director of Marketing, contributing to market entry strategies, international market development and pioneering marketing initiatives.
-
-...
-
-[Data](articles/c4d9ca1d.json)
-
-[Extended Data](ext_articles/c4d9ca1d.ext.json)
-
----
-
-### SOEs seen as failing SL’s ordinary citizens
-
-*2024-04-16 22:54:00* · [`islandlk`](http://island.lk/soes-seen-as-failing-sls-ordinary-citizens/) · `en`
-
-State-Owned Enterprises (SOEs) in Sri Lanka have long served the interests of its employees and politicians, neglecting the welfare of ordinary citizens, Research Consultant at the Advocata Institute Rehana Thowfeek said.
-
-Speaking at a recent media briefing titled, “Burden and The Urgency of State-Owned Enterprise Reform” held at the BMICH, Thowfeek emphasized the urgent need for reform, stating that despite Sri Lanka defaulting on its loan repayments for nearly two years, meaningful progress has been lacking in the country.
-
-Thowfeek highlighted the detrimental impact state intervention in markets has on consumer welfare, attributing inefficiencies to the enrichment of politicians at the expense of taxpayers. She outlined recent reform efforts, including the passing of the SOE Reforms Act and a new Banking Act, alongside the establishment of the State-Owned Enterprise Restructuring Unit (SOERU) and the Holding Company.
-
-...
-
-[Data](articles/50e06cb5.json)
-
-[Extended Data](ext_articles/50e06cb5.ext.json)
-
----
-
-### CSE zigzagging from profit-takings to panic-selling
-
-*2024-04-16 22:53:00* · [`islandlk`](http://island.lk/cse-zigzagging-from-profit-takings-to-panic-selling/) · `en`
-
-The stock market kicked off trading yesterday with profit- takings. Later, however, it indicated panic- selling due to apprehensions in some quarters that the government and bondholders are in disagreement over two out of four factors in the current debt restructuring exercise, market analysts said.
-
-The market began on a bearish note, dropping 100 points before rising to an intraday high of 12,048 and closing at 12,006, down 27 points. Foreign investors remained net sellers, with a net outflow of Rs. 315.2 million, amid moderate participation.
-
-Further, the bourse also regressed to red territory led by the ongoing global uncertainties hovering in the middle-east, breaking the streak of consecutive gains witnessed during the last three weeks.
-
-...
-
-[Data](articles/7e919d6e.json)
-
-[Extended Data](ext_articles/7e919d6e.ext.json)
-
----
-
-### President envisions developing ‘Pekoe Trail’ to boost tourist experience in central highlands
-
-*2024-04-16 22:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98673/president-envisions-developing-pekoe-trail-to-boost-tourist-experience-in-central-highlands) · `en`
-
-President Ranil Wickremesinghe visited the Court Lodge Estate, owned by the Udupusellawa Plantation Company in Nuwara Eliya this morning (16) to explore opportunities for the revival of the tourism industry around the picturesque hills of Nuwara Eliya. He embarked on this journey by traversing the Pekoe Trail.
-
-The “Pekoe Trail” stretches over more than 300km through the Central Highlands of Sri Lanka, regarded as one of Asia’s best-kept secret routes.
-
-Originating from the renowned city of Kandy, it extends south towards the Hatton and Horton Plains National Park, then east through Haputale and Ella, before meandering around the charming town of Nuwara Eliya. Originally constructed during the British colonial period to transport tea from vast plantations to factories, the trail holds historical significance.
-
-During his walk along the Pekoe Trail, covering a distance of 3.2km, the President engaged in friendly conversation with the workers employed at the Court Lodge estate.
-
-...
-
-[Data](articles/5eaef7fd.json)
-
-[Extended Data](ext_articles/5eaef7fd.ext.json)
 
 ---

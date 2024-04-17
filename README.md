@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 00:33:41**
+As of **2024-04-18 00:48:48**
 
 ## Newspaper Stats
 
-*Scraped **19,429** Articles*
+*Scraped **19,432** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 205
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,038
-dailyftlk | 1,059
+dailyftlk | 1,062
 economynextcom | 1,099
 adalk | 1,620
 tamilmirrorlk | 2,264
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,429 (100.0%) of 19,429 articles have been extended.
+19,429 (100.0%) of 19,432 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -148,6 +148,18 @@ Sai Sudarshan (12) and Rahul Devatia (10) received a double -digit number than h
 
 ---
 
+### Business Revival Units in Banks
+
+*2024-04-17 23:35:25* · [`dailyftlk`](https://www.ft.lk/columns/Business-Revival-Units-in-Banks/4-760721) · `en`
+
+The Central Bank of Sri Lanka’s establishment of Business Revival Units (BRUs) signifies a proactive approach to supporting the Sri Lankan economy. By facilitating the revival of viable businesses impacted by recent economic challenges, BRUs aim to improve loan recovery for banks while fostering business growth and national development. This initiative requires collaboration between Licenced banks and borrowers to ensure a successful outcome for all parties involved. With effective implementation, BRUs have the potential to strengthen the Sri Lankan economy and pave the way for a more sustainable future
+
+...
+
+[Data](articles/624338d6.json)
+
+---
+
 ### We are struggling with severe shortage of staff: Excise Chief
 
 *2024-04-17 23:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/We-are-struggling-with-severe-shortage-of-staff-Excise-Chief/108-280851) · `en`
@@ -183,6 +195,20 @@ The Department of Meteorology has said that the temperature of the human body is
 [Data](articles/3abf9983.json)
 
 [Extended Data](ext_articles/3abf9983.ext.json)
+
+---
+
+### Open letter to the President and Finance Minister
+
+*2024-04-17 22:53:55* · [`dailyftlk`](https://www.ft.lk/opinion/Open-letter-to-the-President-and-Finance-Minister/14-760719) · `en`
+
+Dawn of the New Year is the time for reflection and to redress citizens’ grievances due to the DDO
+
+You have on many occasions in the recent past, publicly pronounced before different audiences, as reflected in media releases of the Presidential Secretariat, that Sri Lanka is the only country in Asia that has completely protected democracy, you vow action against economic rights violations, always being respectful of societal rights of individuals (reference to burial rites), and most importantly your commitment to rectify mistakes of the past, whilst recognising the inability to change what has already transpired, but use the power to reverse the situation.
+
+...
+
+[Data](articles/351b9298.json)
 
 ---
 
@@ -223,6 +249,26 @@ He said the process of declaring Easter Sunday victims as martyrs will begin on 
 [Data](articles/552a5643.json)
 
 [Extended Data](ext_articles/552a5643.ext.json)
+
+---
+
+### A flare up in the Middle East
+
+*2024-04-17 22:04:16* · [`dailyftlk`](https://www.ft.lk/opinion/A-flare-up-in-the-Middle-East/14-760715) · `en`
+
+How will our electric vehicles run and what will be the plight of the low income groups?
+
+The Middle East may flare up, what with everybody coming out with their armaments.
+
+Sri Lanka purchased oil from Iran. It is said that the refinery is designed to handle crude oil from Iran. Iran is getting involved with the Middle East tension.
+
+If that happens, where will we be? How will our electric vehicles run and what will be the plight of the low income groups?
+
+Just like the electronic camera, it was the US that manufactured the first electric car. Just like the electronic camera, the manufacturers of the electric car killed it. The product was bought by far thinking Eastern gentry.
+
+...
+
+[Data](articles/b2b62303.json)
 
 ---
 
@@ -2193,69 +2239,5 @@ They were arrested along with two fishing vessels for violating Myanmar's mariti
 [Data](articles/5f6b49a2.json)
 
 [Extended Data](ext_articles/5f6b49a2.ext.json)
-
----
-
-### The mother of girlfriend and girlfriend's mother beaten with a sharp object and boyfriend suicide
-
-*2024-04-17 12:17:10* · [`adalk`](https://www.ada.lk/breaking_news/පෙම්වතියට-සහ-පෙම්වතියගේ-මවට-තියුණු-ආයුධයකින්-පහරදී-පෙම්වතා-දිවි-නසා-ගනියි/11-409121) · `si`
-
-In Barwipepulam, Jaffna, a mother and daughter assaulted another mother and daughter, leading to a police investigation. The incident involved a dispute over a shop, and it's suspected that the police's mother was attacked with a sharp object. The victim, a 37-year-old from Bwilpupe, is under investigation by the Ilavalai Police.
-
-🟩
-
-A mother and a daughter beat a mother and daughter in the Barwipepulam area belonging to the Jaffna Ilawlai Police Division.
-
-The youth who had gone to the police and the injured have been ballowed with a shop in a dispute over the recent dispute over the recent dispute over the past.
-
-The police suspect that the demonstrators have secretly entered the girlfriend's house and the mother of the police had been attacked with a sharp instrument and fled with a sharp object.
-
-The girl and her mother in the serious situation have taken steps to the hospital at the same time.
-
-However, the founder of the youth was uncovered while he was uncovered while he was committed to her girlfriend's home near his girlfriend's home.
-
-The victim was a 37 year old youth from the Bwilpupe area and the Ilavalai Police are conducting further investigations.
-
-◼️
-
-[Data](articles/cf23cf42.json)
-
-[Extended Data](ext_articles/cf23cf42.ext.json)
-
----
-
-### Dehiwala Zoo earns Rs. 4.85 million during New Year days
-
-*2024-04-17 12:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dehiwala-Zoo-earns-Rs-4-85-million-during-New-Year-days/108-280837) · `en`
-
-Colombo, April 17 (Daily Mirror) - The Dehiwala Zoological Gardens collected a total of Rs. 4.85 million as revenue during April 13, 14 and 15, Zoological Gardens Assistant Director Dinushika Manawadu said.
-
-She told the Daily Mirror that Rs. 1.35 million was collected on April 13, Rs. 1.65 million on April 14 and Rs. 1.85 million yesterday (April 15).
-
-◼️
-
-[Data](articles/4317cc18.json)
-
-[Extended Data](ext_articles/4317cc18.ext.json)
-
----
-
-### Damitha further remanded
-
-*2024-04-17 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195717) · `si`
-
-The Colombo Magistrate's Court ordered remand for Damitha in a foreign employment cheating case, following CID's investigation.
-
-🟩
-
-The Colombo Magistrate's Court ordered the courts in connection with a claim of cheating a foreign employment.
-
-After considering the issues that the Criminal Investigations Department (CID) in the incident, the court issued the order.
-
-◼️
-
-[Data](articles/55549422.json)
-
-[Extended Data](ext_articles/55549422.ext.json)
 
 ---

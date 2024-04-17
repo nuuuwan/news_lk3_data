@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 16:03:44**
+As of **2024-04-17 16:18:40**
 
 ## Newspaper Stats
 
-*Scraped **19,351** Articles*
+*Scraped **19,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,059
 economynextcom | 1,084
-adalk | 1,611
+adalk | 1,612
 tamilmirrorlk | 2,259
 adaderanalk | 2,325
 virakesarilk | 2,889
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,348 (100.0%) of 19,351 articles have been extended.
+19,351 (100.0%) of 19,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### ජාතික ජන බලවේගය පාස්කු වින්දිතයන්ට යුක්තිය ඉටුකරන අයුරු පැහැදිලි කරයි
+### The national folk force explains how justice does the Easter victims explain
 
 *2024-04-17 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195722) · `si`
 
-2019 වර්ෂයේ අප්‍රේල් මස 21 පාස්කු ඉරුදින සිදුවූ ත්‍රස්ත ප්‍රහාරයේ වින්දිතයන්ට යුක්තිය ඉටුකිරීමෙහිලා වන ජාතික ජන බලවේගයේ ප්‍රතිඥාව එම පක්ෂය විසින් ප්‍රසිද්ධ කර තිබේ.
+The national folk force pledges justice for Easter victims, promising to properly implement laws and take legal action against those involved in the April 21st, 2019, attack.
 
-ජාතික ජන බලවේගයේ ආණ්ඩුවකින් එම කරුණු සම්බන්ධයෙන් නිසි ලෙස නීතිය ක්‍රියාත්මක කරන බවටත් එම ප්‍රහාරයට ඍජු හෝ වක්‍ර ලෙස සම්බන්ධවූ පුද්ගලයන්ට එරෙහිව නිසි නීතිමය ක්‍රියාමාර්ග ගන්නා බවටත් අවධාරණය කරයි.
+🟩
+
+The party has promised the pledge of justice in justice to victims of the Sunday of the Sunday of the end of April 21st 2019.
+
+It is also emphasized that the government is implementing the law to the issue properly in the national promotion and to take proper legal action against individuals who are directly involved in the attack.
 
 ◼️
 
 [Data](articles/496bf925.json)
+
+[Extended Data](ext_articles/496bf925.ext.json)
 
 ---
 
@@ -113,6 +119,8 @@ Colombo, April 17 (Daily Mirror) - Mage Rata organization president Sanjaya Maha
 ...
 
 [Data](articles/02a10bf9.json)
+
+[Extended Data](ext_articles/02a10bf9.ext.json)
 
 ---
 
@@ -285,6 +293,24 @@ Herath, Superintendent of Police, Herath, Police Sergery (70537)A team of police
 [Data](articles/7b629aa9.json)
 
 [Extended Data](ext_articles/7b629aa9.ext.json)
+
+---
+
+### පොලිසියේ සැරයන් වරයෙකුට පහරදී පොලිස් ගරාජයේ සැරයන් සහ ඔහුගේ පුත්‍රයා අත්අඩංගුවට
+
+*2024-04-17 14:07:06* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-සැරයන්-වරයෙකුට-පහරදී-පොලිස්-ගරාජයේ-සැරයන්-සහ-ඔහුගේ-පුත්‍රයා-අත්අඩංගුවට/11-409125) · `si`
+
+රාජකාරී කටයුත්තක් සඳහා ගිය ගාලදිවුල්වැව පොලිසියේ සැරයෙන් වරයෙකුට අතින් පයින් පහරදී තුවාල සිදු කල,  වවුනියාව පොලිස්  පොලිස්  ගරාජයට අනුයුක්තව  රාජකාරී කරන සැරයන්වරයෙකු  සහ ඔහුගේ පුතා ඊයේ (16දා) අත්අඩංගුවට ගත් බව ගාලදිවුල්වැව  පොලිසිය පවසයි.
+
+ගාලදිවුල්වැව පොලිස් වසමේ නාවක්කුලම ප්‍රදේශයේ දෙපිරිසක් අතර ආරවුලක් හට ගෙන ඇති බවට පොලිස් හදිසි ඇමතුම් අංකයට (119) ලද තොරතුරකට අනුව එම ස්ථානයට ගිය ගාලදිවුල්වැව පොලිසියේ  කණ්ඩායමක  සැරයන් වරයකු හට එම ස්ථානයේ සිටි 45 හැවිරිදි  පුද්ගලයකු සහ ඔහුගේ පුත්‍රයා ඇතුළු පිරිසක් පහර දී තිබූ බව පොලිසිය කියයි.
+
+මේ සම්බන්ධයෙන් වැඩි දුර විමර්ශන  සිදු කිරීමේදී පහර දීමට සම්බන්ධ පුද්ගලයා පොලිස් සැරයන්වරයෙකු  බව අනාවරණ වූ  බවත් එම සැරයෙන් වරයා සමග  පහර දීමට සම්බන්ධ වූ ඔහුගේ පුත්‍රයාද අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+
+මෙම  සිද්ධියටම සම්බන්ධව ගාලදිවුල්වැව පොලිස්  නිලධාරියකු සහ  සිවිල් වැසියන් පිරිසක්  පහර දුන් බව පවසමින්  නාවක්කුලම පදිංචි 18 හැවිරිදි තරුණයෙකු අනුරාධපුර ශික්ෂණ රෝහලේ  ප්‍රතිකාර ලබන බව අප කල විමසීමකදී  අනුරාධපුර ශික්ෂණ රෝහල් ප්‍රකාශකයකු පැවසීය.
+
+...
+
+[Data](articles/cfba5449.json)
 
 ---
 
@@ -2249,21 +2275,5 @@ Who is responsible for emerging religious extremism in Tamil North? Let me tell 
 [Data](articles/778d31b3.json)
 
 [Extended Data](ext_articles/778d31b3.ext.json)
-
----
-
-### Broadening medical education: Who’s paying, and for what?
-
-*2024-04-17 03:07:36* · [`dailyftlk`](https://www.ft.lk/columns/Broadening-medical-education-Who-s-paying-and-for-what/4-760700) · `en`
-
-What is required for medical education is a decentralised incentive-based solution that makes the best use of taxpayer funds
-
-According to the University Grants Commission (UGC), the second most expensive undergraduate degree program offered by state universities is the MBBS (after dental). Battles over who gets to be a doctor under what terms have been ongoing since the 1980s with no clear resolution. Workaround measures implemented at various times are posing significant challenges, which are being met with further ad hoc remedies, the latest being the Cabinet decision to allow students satisfying UGC requirements to be admitted to the Kotelawala Defence University’s (KDU) medical faculty.
-
-...
-
-[Data](articles/f84df3c4.json)
-
-[Extended Data](ext_articles/f84df3c4.ext.json)
 
 ---

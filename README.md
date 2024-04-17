@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 17:18:20**
+As of **2024-04-17 17:34:20**
 
 ## Newspaper Stats
 
-*Scraped **19,361** Articles*
+*Scraped **19,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ dailyftlk | 1,059
 economynextcom | 1,084
 adalk | 1,612
 tamilmirrorlk | 2,259
-adaderanalk | 2,327
+adaderanalk | 2,328
 virakesarilk | 2,892
 dailymirrorlk | 2,986
-adaderanasinhalalk | 3,153
+adaderanasinhalalk | 3,154
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,361 (100.0%) of 19,361 articles have been extended.
+19,361 (100.0%) of 19,363 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### සිරිල් ගාමිණී පියතුමන්ව CIDයට කැඳවයි
+
+*2024-04-17 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195727) · `si`
+
+ගරු සිරිල් ගාමිණී ප්‍රනාන්දු පියතුමන්ව නැවත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත කැඳවා ඇත.
+
+පාස්කු ප්‍රහාරයට අදාළව කරුණු විමසීම සඳහා නැවත මෙලෙස සිරිල් ගාමිණී ප්‍රනාන්දු පියතුමන්ට කැඳවීමක් සිදුකර තිබේ.
+
+ඒ අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව දැනුම්දී ඇත්තේ අප්‍රේල් මස 19 වන සිකුරාදා උදෑසන 10ට CIDය වෙත පැමිණෙන ලෙසටය.
+
+◼️
+
+[Data](articles/6e5fc7d9.json)
+
+---
+
+### Temperatures to reach ‘Caution’ level in 7 provinces tomorrow
+
+*2024-04-17 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98687/temperatures-to-reach-caution-level-in-7-provinces-tomorrow) · `en`
+
+The Department of Meteorology has issued a weather alert for extreme heat in parts of the island tomorrow (18).
+
+Accordingly, the heat index, the temperature felt on the human body, is expected to reach ‘Caution’ level at some places in the Northern, North-central, Western, Sabaragamuwa, Eastern, Southern and North-Western provinces and Monaragala District.
+
+In its advisory, the department cautioned that heat cramps and heat exhaustion; continued activity could result in heatstroke.
+
+◼️
+
+[Data](articles/ed5c2019.json)
+
+---
 
 ### Yall. Two prisoners arrested for fleeing the Chavakachcheri court premises
 
@@ -86,11 +118,13 @@ Embilipitiya Magistrate has conducted the magisterial inquiry and Udawalawe Poli
 
 The National People’s Power (NPP) says that, under its administration, proper legal action will be instituted against those implicated, either directly or indirectly, in the 2019 Easter Sunday terror attacks that killed more than 250 people and injured hundreds of others.
 
-This promise comes days ahead of the fifth anniversary of the coordinated suicide bombings that falls on April 21.
+This promise comes days ahead of the fifth anniversary of the coordinated suicide bombings which falls on April 21.
 
-In a statement, the NPP highlighted that the government has an obligation towards the victims of this heinous act, while raising questions as to whether this has been properly fulfilled.
+In a statement, the NPP highlighted that the government has an obligation towards the victims of this heinous act while raising questions as to whether this has been properly fulfilled.
 
-The party also presented a 7-point action plan that it intends to implement under a future NPP government in order to serve justice to the Easter attack victims.
+The party also presented a 7-point action plan that it intends to implement under a future NPP government to serve justice to the Easter attack victims.
+
+Easter Attack - NPP Charter 2024 April by Adaderana Online on Scribd
 
 ◼️
 
@@ -2257,47 +2291,5 @@ With this new route expansion, this will increase to four destinations, and it w
 [Data](articles/8b7ad82e.json)
 
 [Extended Data](ext_articles/8b7ad82e.ext.json)
-
----
-
-### Heavy rains in several areas today
-
-*2024-04-17 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195703) · `si`
-
-Heavy rains and thundershowers expected in Western, Sabaragamuwa, Central, North Western, and Uva provinces, and Galle and Matara districts. Meteorological Department warns of strong winds and lightning dangers.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Western, Sabaragamuwa, Central, North Western and Uva provinces and in the Galle and Matara districts.
-
-The Department of Meteorological Department announced Heavy showers in the Western, Sabaragamuwa and North Western Provinces.
-
-Some places in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts have a murder.
-
-The Department of Meteorology has requested the public to take necessary temporary strong winds and lightning dangers with thunderstorms.
-
-◼️
-
-[Data](articles/0aa0c6a4.json)
-
-[Extended Data](ext_articles/0aa0c6a4.ext.json)
-
----
-
-### Tax payers poised to cough up Rs.45 Mn on another debate on Easter attack
-
-*2024-04-17 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Tax-payers-poised-to-cough-up-Rs-45-Mn-on-another-debate-on-Easter-attack/155-280791) · `en`
-
-Colombo, April 16 (Daily Mirror) -  Tax payers will have to cough up as much as Rs. 45 million as the cost of conducting yet another three-day parliamentary debate on the Easter Sunday attack for the fourth time, with uncertainty looming whether it will be a meaningless exercise with key questions unanswered once again.
-
-Previously, three such debates took place in the House, but failed to answer the question regarding the mastermind behind the attack. People, mostly the victims are still disturbed by speculation and demand justice in the form of ascertaining the truth behind the whole saga.
-
-The Business Committee of Parliament that met on on April 5 decided to have a three day debate on the Easter Sunday attacks during the first week of sessions after the Sinhala and Tamil New year.
-
-...
-
-[Data](articles/bccbf179.json)
-
-[Extended Data](ext_articles/bccbf179.ext.json)
 
 ---

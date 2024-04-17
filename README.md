@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 03:03:27**
+As of **2024-04-18 03:18:12**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 3,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,444 (100.0%) of 19,446 articles have been extended.
+19,446 (100.0%) of 19,446 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### ஹிருணிகாவுக்கு அழைப்பாணை
+### Invitation to Hirunika
 
 *2024-04-18 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181341) · `ta`
 
-முன்னாள் நாடாளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமச்சந்திரவை எதிர்வரும் மே மாதம் 08ஆம் திகதி நீதிமன்றில் முன்னிலையாகுமாறு மேன்முறையீட்டு நீதிமன்றம் அழைப்பாணை விடுத்துள்ளது.
+The Court of Appeal has summoned former MP Hirunika Premachandra to appear on May 8.
+
+🟩
+
+The Court of Appeal has summoned former MP Hirunika Premachandra to appear before the court on May 08.
 
 ◼️
 
 [Data](articles/672bb2a2.json)
+
+[Extended Data](ext_articles/672bb2a2.ext.json)
 
 ---
 
@@ -57,6 +63,8 @@ Sri Lanka yesterday officially announced that no agreement was reached with the 
 ...
 
 [Data](articles/1765e64b.json)
+
+[Extended Data](ext_articles/1765e64b.ext.json)
 
 ---
 

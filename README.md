@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 01:18:30**
+As of **2024-04-18 01:34:00**
 
 ## Newspaper Stats
 
-*Scraped **19,435** Articles*
+*Scraped **19,436** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,099
 adalk | 1,620
 tamilmirrorlk | 2,264
 adaderanalk | 2,333
-virakesarilk | 2,901
+virakesarilk | 2,902
 dailymirrorlk | 3,001
 adaderanasinhalalk | 3,164
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,432 (100.0%) of 19,435 articles have been extended.
+19,435 (100.0%) of 19,436 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,18 @@ It was no surprise for the country to be labelled as bankrupt by lenders, result
 ...
 
 [Data](articles/1fa64666.json)
+
+[Extended Data](ext_articles/1fa64666.ext.json)
+
+---
+
+### நான் இருக்கும் வரை சுதந்திர கட்சியை பிரிதொரு கட்சியுடன் இணைப்பதற்கு இடமளிக்க மாட்டேன் -  மைத்திரிபால சிறிசேன
+
+*2024-04-18 00:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/181340) · `ta`
+
+...
+
+[Data](articles/e368c3a3.json)
 
 ---
 
@@ -61,6 +73,8 @@ Athapaththu's 195 is also the highest individual women's ODI score for Sri Lanka
 ◼️
 
 [Data](articles/9204f2b7.json)
+
+[Extended Data](ext_articles/9204f2b7.ext.json)
 
 ---
 
@@ -301,6 +315,8 @@ When the SLFP or a faction of it shifted Right and went into alliance with Ranil
 ...
 
 [Data](articles/0ad5cec0.json)
+
+[Extended Data](ext_articles/0ad5cec0.ext.json)
 
 ---
 
@@ -2195,33 +2211,5 @@ Colombo, April 17 (Daily Mirror)- Popular actress Damitha Abeyratne and her husb
 [Data](articles/ec487d4a.json)
 
 [Extended Data](ext_articles/ec487d4a.ext.json)
-
----
-
-### Sub -Inspector arrested in the ear of the judge
-
-*2024-04-17 12:38:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/நீதிபதியின்-காதில்-அறைந்த-சப்-இன்ஸ்பெக்டர்-கைது/93-336038) · `ta`
-
-An assistant police inspector was arrested for slapping a district judge during a dispute over a missing cat. The judge, visiting his wife's family, was found missing, and the suspect was later arrested by Akmeemana police.
-
-🟩
-
-Akmemana police have arrested a brother -in -law, an assistant police inspector, on charges of slapping a Baddegama district judge who went to his wife's house in Galle Lubuduwa.
-
-The arrested by the Assistant Police Inspector of the Kalutara Southern Police Station has been arrested and the brother of the wife of the Baddegama district judge.
-
-Battegama District Judge L. K. G. Viswanath has visited the New Year to his wife's mother in Lubuduwa with his wife and pet cat.
-
-In this case, on the night of the 16th of the incident, the district judge was missing when his wife and cat were ready to go home.
-
-The suspect has severely scolded the judge and slapped the judge as he was arguing between the district judge and his brother -in -law Sub Inspector over the disappearance of his cat.
-
-A police officer has gone to investigate the complaint lodged with the District Judge Akmeemana police regarding the incident.. The wife of the district judge who saw the police officer is shocked.
-
-...
-
-[Data](articles/d48df456.json)
-
-[Extended Data](ext_articles/d48df456.ext.json)
 
 ---

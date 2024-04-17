@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 22:50:35**
+As of **2024-04-17 23:03:31**
 
 ## Newspaper Stats
 
-*Scraped **19,421** Articles*
+*Scraped **19,422** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,54 @@ adalk | 1,620
 tamilmirrorlk | 2,263
 adaderanalk | 2,333
 virakesarilk | 2,899
-dailymirrorlk | 2,995
+dailymirrorlk | 2,996
 adaderanasinhalalk | 3,164
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,420 (100.0%) of 19,421 articles have been extended.
+19,421 (100.0%) of 19,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### மீண்டும் சிஐடிக்கு அழைக்கப்பட்டுள்ள அருட்தந்தை சிறில காமினி!
+### Blessed Sri Lankan Gamini
 
-*2024-04-17 22:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181337) · `ta`
+*2024-04-17 22:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181337) · `ta`
 
-உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பான உண்மைகளை விசாரிப்பதற்காகவே அருட்தந்தை சிறில் காமினி பெர்னாண்டோ மீண்டும் அழைக்கப்பட்டுள்ளார்.
+Gamini Fernando, a Sri Lankan, is re-invited to probe the survival Sunday attack. The Criminal Investigation Division is to meet on April 19th.
 
-இதன்படி, ஏப்ரல் 19 ஆம் திகதி வெள்ளிக்கிழமை காலை 10 மணிக்கு குற்றப்  புலனாய்வுப் பிரிவுக்கு வருமாறு அறிவுறுத்தப்பட்டுள்ளார்.
+🟩
+
+Gamini Fernando has been re -invited to investigate the facts of the survival Sunday attack.
+
+Accordingly, the Criminal Investigation Division has been instructed to come to the Criminal Investigation Division on Friday 19th April.
 
 ◼️
 
 [Data](articles/b3193811.json)
+
+[Extended Data](ext_articles/b3193811.ext.json)
+
+---
+
+### Received full presidential commission report on Easter Sunday attacks: Cardinal
+
+*2024-04-17 22:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Received-full-presidential-commission-report-on-Easter-Sunday-attacks-Cardinal/108-280850) · `en`
+
+Colombo, April 17 (Daily Mirror) - The Catholic Church has received the remaining parts of the report submitted by the presidential commission which probed the Easter Sunday attacks, Archbishop of Colombo Cardinal Malcolm Ranjith said today.
+
+Cardinal Ranjith said the church had received it three weeks ago. “A team of lawyers are studying the report and we will come up with a statement on it once the study is completed,” he told a briefing.
+
+He said the process of declaring Easter Sunday victims as martyrs will begin on Sunday April 21 2024 when the country commemorates the fifth anniversary of the mayhem.
+
+“All names of those who perished in the explosions at the Katuwapitiya church, Kochchikade church and the Zion church will be handed over to Apostolate Nuncio ( Vatican Ambassador) during the commemoration programmes which are to be held on Sunday. The process of declaring these victims as martyrs will begin on that day,” he said.
+
+...
+
+[Data](articles/552a5643.json)
 
 ---
 
@@ -2231,31 +2255,5 @@ A 35 -year -old woman from Mundala, Akunavila area, has been arrested.
 [Data](articles/541fbbfd.json)
 
 [Extended Data](ext_articles/541fbbfd.ext.json)
-
----
-
-### Sri Lanka jacks up tourist visa fees 50-pct, adds another charge to scrap existing ETA
-
-*2024-04-17 11:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-jacks-up-tourist-visa-fees-50-pct-adds-another-charge-to-scrap-existing-eta-158822/) · `en`
-
-ECONOMYNEXT  – Sri Lanka has hiked tourist visa fees by at least 50 percent to 75 dollars, shifting to a global processing company, which appears to be charging an additional 18.5 dollars, according to information on the new online portal.
-
-Sri Lanka allowed double electronic travel authorization for tourists for 50 dollars with more than one entry allowing them to come to the island and also fly to neighboring destinations through a portal operated by the Department of Immigration.
-
-The ETA has drawn plaudits from Trip Advisor and Lonely Planet as a ‘hassle free’ system.
-
-According to information on the new website, SAARC country tourists will now be charged 35 dollars instead of 20 dollars for the standard visa.
-
-A 30-day single entry visa will be available to India and a few countries without a fee.
-
-According to the online notice, an 18.5 dollar additional fee will be charged from all visa categories.
-
-The website says it is operated by companies called IVS-GBS and VFS Global.
-
-...
-
-[Data](articles/058d1ce9.json)
-
-[Extended Data](ext_articles/058d1ce9.ext.json)
 
 ---

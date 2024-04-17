@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 00:03:26**
+As of **2024-04-18 00:18:14**
 
 ## Newspaper Stats
 
-*Scraped **19,425** Articles*
+*Scraped **19,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,39 +18,121 @@ economynextcom | 1,099
 adalk | 1,620
 tamilmirrorlk | 2,264
 adaderanalk | 2,333
-virakesarilk | 2,900
-dailymirrorlk | 2,997
+virakesarilk | 2,901
+dailymirrorlk | 3,000
 adaderanasinhalalk | 3,164
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,424 (100.0%) of 19,425 articles have been extended.
+19,425 (100.0%) of 19,429 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-04-18 (Thursday)
+
+### 22 வயதுக்குட்பட்ட ஆசிய குத்துச்சண்டையில் இலங்கையின் அதிசிறந்த நால்வர்
+
+*2024-04-18 00:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/181339) · `ta`
+
+கஸக்ஸ்தானின் அஸ்டானாவில் இம்மாதம் 25ஆம் திகதியிலிருந்து மே மாதம் 8ஆம் திகதிவரை நடைபெறவுள்ள  22 வயதுக்குட்பட்ட ஆசிய குத்துச்சண்டைப் போட்டியில் இலங்கையின் அதிசிறந்த நான்கு குத்துச்சண்டை வீரர்கள் பங்குபற்றவுள்ளனர்.
+
+இப் போட்டியில் 20க்கும் மேற்பட்ட ஆசிய நாடுகளைச் சேர்ந்த 400க்கும் மேற்பட்ட குத்துச்சண்டை வீரர்கள் பங்குபற்றுகின்றனர்.
+
+இலங்கை வீரர்களை கஸக்ஸ்தானுக்கு அனுப்பிவைப்பதற்கு விளையாட்டுத்துறை அமைச்சிடமிருந்து நிதி உதவி கிடைக்காத நிலையில் டயான் கோமஸின் முயற்சியால் வீரர்களுக்கான விமான டிக்கெட்களை சரவ்தேச குத்துச்சண்டை சங்கத் தலைவர் உமர் க்ரெம்லெவ் பெற்றுக்கொடுத்ததாக இலங்கை குத்துச்சண்டை சங்கம் விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+இலங்கை அணியின் தலைவராக ப்ளை வெய்ட் (52 கி.கி.) எடைப் பிரிவில் நடப்பு தேசிய சம்பியன் பசிந்து உமயங்க மிஹிரன் செயற்படுகிறார்.
+
+மலேசியாவில் நடைபெற்ற சர்வதேச குத்துச்சண்டைப் போட்டியில் தங்கப் பதக்கம் வென்ற மிஹிரன், அகில இலங்கை பாடசாலைகள் விளையாட்டு விழாவிலும் தேசிய சம்பியன்ஷிப்பிலும் அதிசிறந்த குத்துச்சண்டை வீரர் விருதுகளை வென்றிருந்தார்.
+
+...
+
+[Data](articles/0804b720.json)
+
+---
+
+### Kachchativu – Transforming  confrontation into  cooperation
+
+*2024-04-18 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Kachchativu-Transforming-confrontation-into-cooperation/172-280856) · `en`
+
+Katchatheevu is an uninhabited island-now in a sea of controversy-and sandwiched between India and Sri Lanka in the Palk Bay
+
+In the matter of Kachchativu too, it could have been taken before the ICJ or an Arbitration Tribunal, as in the case of the Rann of Katch dispute between India and Pakistan
+
+Article 15 of the 1982 Convention on the Law of the Sea, sets out the criteria for delimitation of the territorial sea between states with opposite or adjacent coasts
+
+In the case of India and Sri Lanka, the territorial sea in this area has been designated ‘historic waters’ and has been delimited by agreement
+
+...
+
+[Data](articles/a9048e88.json)
+
+---
+
+### To protect the welfare of Sri Lankan migrant workers, hold recruitment agencies accountable
+
+*2024-04-18 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/To-protect-the-welfare-of-Sri-Lankan-migrant-workers-hold-recruitment-agencies-accountable/172-280858) · `en`
+
+Many studies have documented the tremendous wage gains that migrant workers experience across borders.; however, it is also well understood that these riches come at a price and migrant stories of abuse are common knowledge
+
+The 2022 Football World Cup in Qatar centered the world’s attention on the abuse faced by thousands of primarily South Asian migrant construction workers. The spectacle was a rare opportunity to press the case for reform not just in Qatar, but across many Gulf-region governments whose glittering skylines conceal a staggering amount of migrant abuse. Yet, just as the fervour of fair weather football fans has waned, so too have international outrage and promises of reform.
+
+...
+
+[Data](articles/b01b8806.json)
+
+---
+
+### Life as we know depends on the health of the planet
+
+*2024-04-18 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Life-as-we-know-depends-on-the-health-of-the-planet/172-280857) · `en`
+
+While President Ranil Wickremesinghe, the splintered Sri Lanka Podujana Peramuna (SLPP) government and opposition parties are focusing on the elections, what election should be held or when and on what basis, more attention needs to be given to vital issues relating to Mother Earth, as the world marks Mother Earth day on Monday, April 22.
+
+In a statement, the United Nations said that Mother Earth is clearly urging a call to action. Nature is suffering. Oceans are being filled with plastic and turning more acidic. Extreme heat, wildfires and floods have affected millions of people.
+
+Climate change, human-made changes to nature, as well as crimes that disrupt biodiversity, such as deforestation, land-use change, intensified agriculture and livestock production or the growing illegal wildlife trade, can accelerate the speed of destruction of the planet.
+
+...
+
+[Data](articles/e858056c.json)
+
+---
+
 ### 2024-04-17 (Wednesday)
 
-### குஜராத்தை குறைந்த எண்ணிக்கைக்கு சுருட்டி வெற்றிபெற்ற டெல்ஹி 6ஆம் இடத்திற்கு முன்னேறியது
+### Telhi advanced to the 6th to the winner of Gujarat
 
 *2024-04-17 23:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181338) · `ta`
 
-அஹமதாபாத் நரேந்த்ர மோடி விளையாட்டரங்கில் புதன்கிழமை (17) நடைபெற்ற இந்த வருடத்துக்கான 32ஆவது இண்டியன் பிறீமியர் லீக் போட்டியில் குஜராத் டைட்டன்ஸை 89 ஓட்டங்களுக்கு சுருட்டிய டெல்ஹி கெப்பிட்டல்ஸ் 4விக்கெட்களால் இலகுவாக வெற்றிபெற்றது.
+Telhi Capitals, after a 89-run victory, moved from 9th to 6th in the IPL, thanks to Rishabh Bond's 2 stumps and 2 wickets. Gujarat Titans scored 89 in 17.3 overs, their lowest total.
 
-இந்த வெற்றியுடன் ஐபிஎல் அணிகள் நிலையில் டெல்ஹி கெப்பிட்டல்ஸ் 9ஆம் இடத்திலிருந்து 6ஆம் இடத்திற்கு முன்னேறியது.
+🟩
 
-வழமையாக ஒவ்வொரு போட்டியிலும் சராசரியாக 400 ஓட்டங்களுக்கு மேல் இரண்டு அணிகளால் பெறப்பட்டுவந்துள்ள போதிலும் இன்றைய போட்டியில் மொத்தமாக 181 ஓட்டங்களே பெறப்பட்டது.
+Telhi Capitles, who scored 89 runs in the 32nd Indian Premier League match for the Narendra Modi Stadium on Wednesday (17) at the Ahmedabad Narendra Modi Stadium.
 
-இன்றைய போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட குஜராத் டைட்டன்ஸ் 17.3 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 89 ஓட்டங்களைப் பெற்றது.
+With this victory, Telhi Capitols advanced to 6th from 9th place in the IPL teams.
 
-குஜராத் டைட்டன்ஸ் துடுப்பாட்ட வீரர்களின் கவனக் குறைவு ஒரு புறம் இருக்க டெல்ஹி கெப்பிட்டல்ஸின் அதிர்ஷ்டமும் குஜராத்தின் சரிவுக்கு காரணமாக அமைந்தன.
+Today's match was scored by two teams, but in today's match, a total of 181 runs were scored in each match.
 
-டெல்ஹி கெப்பிட்டல்ஸ் அணித் தலைவர் ரிஷாப் பான்ட் விக்கட் காப்பில் அற்புதமாக செயற்பட்டு 2 ஸ்டம்ப்களை செய்ததுடன் ஒரு பிடியையும் எடுத்தார்.
+Gujarat Titans, who was first invited to bat in today's match, scored 89 runs for the loss of all wickets in 17.3 overs.
+
+On the one hand, the fortunes of Tellhi Capitles have also caused Gujarat's decline.
+
+Telhi Capitals captain Rishabh Bond acted brilliantly on wickets and made 2 stumps and took a grip.
+
+This is the lowest total number of Gujarat in the Indian Premier League. It was also reported to be the lowest number of a team this year.
+
+Middle -ranking Rashid Khan scored only 31 runs off 24 balls.
+
+Sai Sudarshan (12) and Rahul Devatia (10) received a double -digit number than him.
 
 ...
 
 [Data](articles/73e62826.json)
+
+[Extended Data](ext_articles/73e62826.ext.json)
 
 ---
 
@@ -2163,99 +2245,5 @@ After considering the issues that the Criminal Investigations Department (CID) i
 [Data](articles/55549422.json)
 
 [Extended Data](ext_articles/55549422.ext.json)
-
----
-
-### Damitha and her husband further remanded
-
-*2024-04-17 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98682/damitha-and-her-husband-further-remanded) · `en`
-
-Actress Damitha Abeyratne and her husband, who were arrested over alleged fraud, have been further remanded on the orders of Colombo Fort Magistrate’s Court.
-
-Accordingly, the couple will be behind bars on remand until 24 April.
-
-The actress and her spouse, who had been wanted by the CID, were arrested after they appeared before the court on 04 April.
-
-The CID is investigating Abeyratne and her husband, in connection with their involvement in an alleged money scam.
-
-The Computer Crimes Division of the CID initiated an investigation into the alleged defrauding of Rs. 3 million by the couple on the promise of employment in South Korea. Subsequently, the CID informed the court that Abeyratne and her husband would be named as suspects of the relevant case.
-
-Fort Magistrate’s Court also rejected a writ petition looking to prevent their arrest.
-
-◼️
-
-[Data](articles/c27f1a81.json)
-
-[Extended Data](ext_articles/c27f1a81.ext.json)
-
----
-
-### An outstanding growth of China's GDP, China
-
-*2024-04-17 12:06:26* · [`adalk`](https://www.ada.lk/breaking_news/වසර-ආරම්භයේ-චීනයේ-දළ-දේශීය-නිෂ්පාදිතයේ-කැපීපෙනෙන-වර්ධනයක්/11-409120) · `si`
-
-China's GDP grew 5.3% to 29,629.9 billion Yuan in Q1 2024, with agriculture, industry, and exports thriving. Market sales, fixed assets, and job status are stable, and people's income has increased.
-
-🟩
-
-China's GDP recorded as 29,629.9 billion Chinese Yuan in the first quarter of 2024. The Chinese statistics bureau is a growth of 5.3% over the previous year.
-
-China's agricultural products are in good condition and the industrial production sector is also growing rapidly. It is stated in those statistics that the country's market sales will also grow stable. Fixed assets are increasingly increasing. Import and exports also show a steady growth, and the job status is also stable. People's income has also increased.
-
-The Chinese statistics show that positive factors of the national economy have been confirmed, and it has been established to achieve annual goals.
-
-◼️
-
-[Data](articles/6b60aabe.json)
-
-[Extended Data](ext_articles/6b60aabe.ext.json)
-
----
-
-### Amnesty for 15 Sri Lankan fishermen detained in Myanmar for 7 years
-
-*2024-04-17 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/181278) · `ta`
-
-15 Sri Lankan fishermen granted amnesty in Myanmar, sentenced to 7 years for illegal entry in 2023.
-
-🟩
-
-15 Sri Lankan fishermen have been granted amnesty in Myanmar and sentenced to 7 years in prison.
-
-In December 2023, 15 Sri Lankan fishermen were arrested after the illegal entered the Myanmar waters.
-
-◼️
-
-[Data](articles/e05a13a4.json)
-
-[Extended Data](ext_articles/e05a13a4.ext.json)
-
----
-
-### The elderly couple has fled
-
-*2024-04-17 12:04:28* · [`adalk`](https://www.ada.lk/breaking_news/වයෝවෘද්ධ--යුවලක්--කොල්ලකා-පලා-ගිහින්/11-409119) · `si`
-
-An elderly couple fled from a robbery in Ugguswatte, leaving behind weapons, jewelry, and cash. Two robbers broke in, causing injuries, and threatened police. The victims were hospitalized.
-
-🟩
-
-Two persons who had fallen into a house of Ugguswatte, who had a sharp weapons with sharp weapons and had their faces and limbs and pirculars have fled.
-
-Three gold rings will be four mobile phones and Rs 37,000 / = in between robbery.
-
-Two robbers who had broken two doors about the house and collapsed in the house and collapse their facets and limbs in the house and put the limbs in the house and put in a room.
-
-Police investigations have revealed that the police had been threatened by the robbers to leave the house.
-
-After leaving the robbers, the man had strictly strictly strictly strictly tired, the guy who had tied up robbers had been robbed and his wife had been on the morning.
-
-The victims have been admitted to the Homagama Preliminary Hospital in the Homagama Base Hospital with a neighbors and telephones and intimidate the threats and intimidation of robbers.
-
-...
-
-[Data](articles/3b298e09.json)
-
-[Extended Data](ext_articles/3b298e09.ext.json)
 
 ---

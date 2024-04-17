@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 16:49:55**
+As of **2024-04-17 17:03:34**
 
 ## Newspaper Stats
 
-*Scraped **19,359** Articles*
+*Scraped **19,361** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,80 +17,142 @@ dailyftlk | 1,059
 economynextcom | 1,084
 adalk | 1,612
 tamilmirrorlk | 2,259
-adaderanalk | 2,326
+adaderanalk | 2,327
 virakesarilk | 2,892
 dailymirrorlk | 2,986
-adaderanasinhalalk | 3,152
+adaderanasinhalalk | 3,153
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,355 (100.0%) of 19,359 articles have been extended.
+19,359 (100.0%) of 19,361 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### උණුසුම ගැන කාලගුණයෙන් අනතුරු ඇඟවීමක්
+### නිවසක් තුළ පිළිස්සුණු මළසිරුරක්
+
+*2024-04-17 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195726) · `si`
+
+නිවසක් තුළ ඇඳක් මත ගින්නකට හසුවී සැක කටයුතු ලෙස මියගිය පුද්ගලයෙකුගේ සිරුරක් අද (17) පෙරවරුවේ සොයාගෙන තිබේ.
+
+මියගොස් ඇත්තේ එම නිවසේ පදිංචිව සිටි 48 හැවිරිදි පුද්ගලයෙකු බව වාර්තා වෙයි.
+
+අදාළ නිවස ආසන්නේ වෙළෙඳසැලක් පවත්වාගෙන යන ඔහුගේ බිරිඳ සමග අද අලුයම් කාලයේදී ආරවුලක් ඇති කරගැනීමෙන් අනතුරුව ඔහු නිවසට පැමිණ සිරුරට ගිනි තබාගෙන ඇති බවට බිරිඳ පොලීසිය හමුවේ ප්‍රකාශ කර තිබේ.
+
+ඇඹිලිපිටිය මහෙස්ත්‍රාත්වරයා විසින් මහෙස්ත්‍රාත් පරීක්ෂණය සිදු කර ඇති අතර සිද්ධිය සම්බන්ධයෙන් උඩවලව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/0e1d8e96.json)
+
+---
+
+### Easter attacks: NPP vows to properly institute legal action under its govt.
+
+*2024-04-17 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98686/easter-attacks-npp-vows-to-properly-institute-legal-action-under-its-govt) · `en`
+
+The National People’s Power (NPP) says that, under its administration, proper legal action will be instituted against those implicated, either directly or indirectly, in the 2019 Easter Sunday terror attacks that killed more than 250 people and injured hundreds of others.
+
+This promise comes days ahead of the fifth anniversary of the coordinated suicide bombings that falls on April 21.
+
+In a statement, the NPP highlighted that the government has an obligation towards the victims of this heinous act, while raising questions as to whether this has been properly fulfilled.
+
+The party also presented a 7-point action plan that it intends to implement under a future NPP government in order to serve justice to the Easter attack victims.
+
+◼️
+
+[Data](articles/edeea389.json)
+
+---
+
+### A warning of the weather about heating
 
 *2024-04-17 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195725) · `si`
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් උණුසුම් කාලගුණ තත්ත්වය පිළිබඳව ඇම්බර් වර්ණයෙන් යුතු අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
+The Meteorological Department warns of increased heat in Northern, North Central, Western, Sabaragamuwa, Eastern, Southern, and Wayamba districts, focusing on the Moneragala area.
 
-ඒ අනුව මෙම නිවේදනයේ දැක්වෙන පරිදි උතුරු, උතුරු මැද, බස්නාහිර, සබරගමුව, නැගෙනහිර, දකුණ සහ වයඹ පලාත්වලත් මොනරාගල දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවලත් උණුසුම ඉහළ යා හැකිය.
+🟩
 
-එම ප්‍රදේශවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතින බවද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+The Department of Meteorological Department has issued an anticipal announcement in warm weather conditions.
+
+Accordingly, the Northern, North Central, Western, Sabaragamuwa, Eastern, Southern and Wayamba, Southern and Wayamba and Wayamba and Wayamba can be increased in certain places in some places in the Moneragala district.
+
+The heat of the human body in those areas is at a level focused on the Met Department.
 
 ◼️
 
 [Data](articles/bf7a7731.json)
 
+[Extended Data](ext_articles/bf7a7731.ext.json)
+
 ---
 
-### யாழ். சாவகச்சேரி நீதிமன்ற வளாகத்தில் இருந்து தப்பியோடிய இரு கைதிகள் மீள கைது
+### Yall. Two prisoners arrested for fleeing the Chavakachcheri court premises
 
 *2024-04-17 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181311) · `ta`
 
-யாழ்ப்பாணம் - சாவகச்சேரி நீதவான் நீதிமன்ற வளாகத்தில் இருந்து தப்பியோடிய கைதிகள் சுமார் 30 நிமிட இடைவெளியில் மீண்டும் கைது செய்யப்பட்டுள்ளனர்.
+Two prisoners, sentenced to death for theft, fled Chavakachcheri court but were arrested 30 minutes later. The magistrate sentenced them to six months in prison and an additional month for not paying a fine.
 
-திருட்டு குற்றச்சாட்டில் சிறைத்தண்டனை அனுபவித்து வரும் கைதி ஒருவரும், விளக்கமறியலில் தடுத்து வைக்கப்பட்டுள்ள ஒருவரும் வழக்கொன்றுக்காக யாழ்ப்பாண சிறைச்சாலையில் இருந்து, சாவகச்சேரி நீதிமன்றுக்கு அழைத்து வரப்பட்ட நிலையில் நீதிமன்ற வளாகத்தில் இருந்து தப்பியோடியுள்ளனர்.
+🟩
 
-அவர்களை சுமார் 30 நிமிட இடைவேளையில் பொலிஸார் கைது செய்து நீதிமன்றில் முற்படுத்தினர்.
+Prisoners who fled the Jaffna - Chavakachcheri Magistrate's Court have been arrested for about 30 minutes.
 
-அதனை அடுத்து, தப்பியோடிய இருவருக்கு தலா 6 மாத கால சிறைத்தண்டனை விதித்த சாவகச்சேரி நீதவான், ஆயிரத்து 500 ரூபாய் தண்டமும் விதித்தார். தண்ட பணத்தினை கட்ட தவறின் மேலும் ஒரு மாத சாதாரண சிறைத்தண்டனை அனுவிக்க வேண்டும் என தீர்ப்பளித்தார்.
+A prisoner who has been sentenced to death in the case of theft has fled the court premises after being brought to the Chavakachcheri court for a case for a case.
+
+They were arrested by the police at about 30 minutes of a break and produced in court.
+
+The Chavakachcheri Magistrate, who was sentenced to six months in prison for the two fugitives, sentenced a thousand rupees of Rs.. He ruled that a further monthly imprisonment should be imprisoned for failing to pay off the penalty.
 
 ◼️
 
 [Data](articles/898e969e.json)
 
+[Extended Data](ext_articles/898e969e.ext.json)
+
 ---
 
-### யாழில் விஷ பூச்சி கடிக்குள்ளானவர் உயிரிழப்பு
+### Poisonous insect bites in Jaffna
 
 *2024-04-17 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181310) · `ta`
 
-யாழ்ப்பாணத்தில் காதின் கீழ் பகுதியில் விஷ பூச்சி கடித்ததில் சிகிச்சை பலனின்றி ஒருவர் உயிரிழந்துள்ளார்.
+In Jaffna, a person died from untreated poisonous insect bites in the ear. Bitten on the 14th, pain worsened, leading to hospitalization and death on Tuesday.
 
-கடந்த 14 ஆம் திகதி இவருக்கு காதின் கீழ் பகுதியில் விஷ பூச்சி ஒன்று கடித்துள்ளது.  வலி தீவிரமடைந்ததை அடுத்து நேற்று முன்தினம் திங்கட்கிழமை யாழ். போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில், சிகிச்சை பலனின்றி நேற்றைய தினம் செவ்வாய்க்கிழமை உயிரிழந்துள்ளார்.
+🟩
+
+In Jaffna, a person has died without treatment of poisonous insect bites in the lower part of the ear.
+
+On the 14th, he was bitten by a poisonous insect.Jaffna on Monday after the pain intensified. He was admitted to the teaching hospital and died on Tuesday without treatment.
 
 ◼️
 
 [Data](articles/28880d99.json)
 
+[Extended Data](ext_articles/28880d99.ext.json)
+
 ---
 
-### சாய்ந்தமருதில் உணவகங்களில் புற்றுநோயை உண்டாக்கும் தன்மை கொண்ட சுவையூட்டிகள்  கண்டுபிடிப்பு
+### Innovation
 
 *2024-04-17 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181305) · `ta`
 
-கடந்த சில தினங்களாக திடீர் சோதனை நடவடிக்கையை சாய்ந்தமருது சுகாதார வைத்திய அதிகாரி வைத்தியர் எம்.ஜே.கே.எம். அர்ஷத் காரியப்பரின் தலைமையிலான சுகாதார குழுவினர் முன்னெடுத்து வருகின்றனர்.
+Dr. MJKM, led by Arshad Kariyapar, conducted a health inspection on Tuesday, advised by Dr. Saheela Isadheen. They visited various food establishments, inspecting for health practices, product quality, and issuing warnings. Inspectors seized inappropriate oils, cancer-causing sauces, and contaminated foods. Legal action was taken against some restaurants.
 
-சாய்ந்தமருது பிரதேச உணவகங்கள்  சுகாதாரமற்ற உணவுகள் பொதுமக்களுக்கு விற்கப்படுவதாக கிடைக்கப்பெற்ற தகவல்களை அடுத்து உணவுப் பாதுகாப்பு மற்றும் சுத்தமான உணவை பொதுமக்களுக்கு உறுதிப்படுத்தல் என்ற நோக்கில் கல்முனை பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்திய கலாநிதி ஸஹீலா இஸ்ஸதீன் அவர்களின் ஆலோசனை மற்றும் வழிகாட்டலில் சாய்ந்தமருது பிரதேச இரவு நேர உணவகங்கள், டேஸ்ட் கடைகள், கோழி பதப்படுத்தி விற்கும் இடங்கள் போன்றவற்றில் செவ்வாய்க்கிழமை (16) இரவு திடீர் சோதனை நடவடிக்கையில் ஈடுபட்டனர்.
+🟩
+
+Sainamarudu Health Officer Dr. MJKM. The health team led by Arshad Kariyapar is carrying out.
+
+Tuesday (16) on Tuesday (16) on Tuesday (16) on Tuesday (16) on Tuesday (16) on the advice and guidance of the Director of Kalmunai Regional Health Services Dr. Saheela Isadheen, the Director of Kalmunai Regional Health ServicesThey were involved in a raid on the night.
+
+In the past, he visited regional restaurants, market, retail stores, wholesalers, small supermarkets and small supermarkets to produce health practices for food makers.He also advised the quality of products to maintain the health system and warned the restaurants that had not been noticed.
 
 ...
 
 [Data](articles/344d620f.json)
+
+[Extended Data](ext_articles/344d620f.ext.json)
 
 ---
 
@@ -2229,47 +2291,5 @@ The Business Committee of Parliament that met on on April 5 decided to have a th
 [Data](articles/bccbf179.json)
 
 [Extended Data](ext_articles/bccbf179.ext.json)
-
----
-
-### Tax payers poised to cough up Rs.45 Mn on another debate on Easter attack
-
-*2024-04-17 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tax-payers-poised-to-cough-up-Rs-45-Mn-on-another-debate-on-Easter-attack/108-280791) · `en`
-
-Colombo, April 16 (Daily Mirror) -  Tax payers will have to cough up as much as Rs. 45 million as the cost of conducting yet another three-day parliamentary debate on the Easter Sunday attack for the fourth time, with uncertainty looming whether it will be a meaningless exercise with key questions unanswered once again.
-
-Previously, three such debates took place in the House, but failed to leave the question regarding the mastermind behind the attack unanswered. People, mostly the victims are still disturbed by speculation and demand justice in the form of ascertaining the truth behind the whole saga.
-
-The Business Committee of Parliament that met on on April 5 decided to have a three day debate on the Easter Sunday attacks during the first week of sessions after the Sinhala and Tamil New year.
-
-...
-
-[Data](articles/d4f2d9bd.json)
-
-[Extended Data](ext_articles/d4f2d9bd.ext.json)
-
----
-
-### Arrests again
-
-*2024-04-17 06:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தப்பியோடிய-கைதிகள்-மீண்டும்-கைது/175-336014) · `ta`
-
-Two inmates arrested for fleeing Chavakachcheri prison were sentenced to six months and fined 1500 rupees each.
-
-🟩
-
-Yall. Two of the inmates who were taken to the Chavakachcheri Magistrate's Court have been arrested after they have fled the prison.
-
-A prisoner and a prisoner who had been sentenced to one year in prison for theft alleged had fled yesterday morning.
-
-The Chavakachcheri police immediately arrested the two men within 30 minutes and produced them back to court.
-
-Meanwhile, the magistrate ordered the two men to be sentenced to six months' imprisonment and 1500 rupees each.. (A)
-
-◼️
-
-[Data](articles/d343beba.json)
-
-[Extended Data](ext_articles/d343beba.ext.json)
 
 ---

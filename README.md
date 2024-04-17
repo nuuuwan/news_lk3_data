@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 05:37:46**
+As of **2024-04-17 05:56:54**
 
 ## Newspaper Stats
 
-*Scraped **19,237** Articles*
+*Scraped **19,246** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 168
 bbccomsinhala | 201
 dbsjeyarajcom | 215
 newsfirstlk | 363
-islandlk | 1,029
+islandlk | 1,038
 dailyftlk | 1,058
 economynextcom | 1,082
 adalk | 1,600
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,237 (100.0%) of 19,237 articles have been extended.
+19,237 (100.0%) of 19,246 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -595,6 +595,80 @@ The attackers have escaped. Vavuniya police are conducting investigations into t
 [Data](articles/9414be6d.json)
 
 [Extended Data](ext_articles/9414be6d.ext.json)
+
+---
+
+### A Lost Development Opportunity: Regional integration to empower Sri Lankan women
+
+*2024-04-16 23:03:00* · [`islandlk`](http://island.lk/a-lost-development-opportunity-regional-integration-to-empower-sri-lankan-women-2/) · `en`
+
+Dr Lakmini Fernando is a Research Fellow at IPS with primary research interests in Development Economics, Public Finance and Climate Change. She has expertise in econometric data analysis, research design and causal methodologies. Dr Fernando holds a BSc in Agriculture from the University of Peradeniya, a Master of Development Economics (Advanced) from the University of Queensland, Australia and a PhD in Economics from the University of Adelaide, Australia.
+
+Sulochana Silva is a Research Assistant at the Institute of Policy Studies of Sri Lanka (IPS). She holds a BSc (Hons) in Agricultural Technology and Management specialising in Applied Economics and Business Management from the University of Peradeniya. Her research interests are agriculture policies and institutions, environment and natural resource policies, food security and climate change.
+
+...
+
+[Data](articles/94761680.json)
+
+---
+
+### Sri Lanka to focus on Green Entrepreneurship
+
+*2024-04-16 23:00:00* · [`islandlk`](http://island.lk/sri-lanka-to-focus-on-green-entrepreneurship/) · `en`
+
+The United Nations has recently applauded Sri Lanka’s efforts to restore and expand the island’s mangrove cover by over 50 percent. The country has been selected as one of the seven UN World Restoration Flagships for its pioneering efforts in mangrove restoration.
+
+Senior Advisor to the President on Climate Change, Ruwan Wijewardene, is actively preparing for the next phase of efforts in this direction. A meeting was held with Ravi Pratap Singh, Managing Director of iLEAD International Academy, Sri Lanka, which has come up with a comprehensive plan to promote Green Entrepreneurship in the country and develop mangroves with the involvement of youth. Green entrepreneurship, the plan suggests, would create a sustainable mechanism for maintenance and growth of mangroves in the country.
+
+...
+
+[Data](articles/6938fd63.json)
+
+---
+
+### Coca-Cola appoints Kaushali Kusumapala as Country Director for Sri Lanka & Maldives
+
+*2024-04-16 22:55:00* · [`islandlk`](http://island.lk/coca-cola-appoints-kaushali-kusumapala-as-country-director-for-sri-lanka-maldives/) · `en`
+
+Coca-Cola has announced Kaushali Kusumapala’s appointment as the new Country Director for Sri Lanka and Maldives, effective from 1st April 2024. Making history as the first Sri Lankan woman in this position, Kaushali succeeds former Country Director, Pankaj Sinha, who assumed the role in 2019. In this position, Kaushali will closely collaborate with bottling teams, customers, partners, consumers and external stakeholders in Sri Lanka and Maldives.
+
+With a career spanning back to 2009, Kaushali has garnered diverse experience having worked with organizations and brands such as Leo Burnett, Fonterra Dairy and Domino’s Pizza. Notably, her journey to leadership includes significant achievements at Hemas International, where she served as Director of Marketing, contributing to market entry strategies, international market development and pioneering marketing initiatives.
+
+...
+
+[Data](articles/c4d9ca1d.json)
+
+---
+
+### SOEs seen as failing SL’s ordinary citizens
+
+*2024-04-16 22:54:00* · [`islandlk`](http://island.lk/soes-seen-as-failing-sls-ordinary-citizens/) · `en`
+
+State-Owned Enterprises (SOEs) in Sri Lanka have long served the interests of its employees and politicians, neglecting the welfare of ordinary citizens, Research Consultant at the Advocata Institute Rehana Thowfeek said.
+
+Speaking at a recent media briefing titled, “Burden and The Urgency of State-Owned Enterprise Reform” held at the BMICH, Thowfeek emphasized the urgent need for reform, stating that despite Sri Lanka defaulting on its loan repayments for nearly two years, meaningful progress has been lacking in the country.
+
+Thowfeek highlighted the detrimental impact state intervention in markets has on consumer welfare, attributing inefficiencies to the enrichment of politicians at the expense of taxpayers. She outlined recent reform efforts, including the passing of the SOE Reforms Act and a new Banking Act, alongside the establishment of the State-Owned Enterprise Restructuring Unit (SOERU) and the Holding Company.
+
+...
+
+[Data](articles/50e06cb5.json)
+
+---
+
+### CSE zigzagging from profit-takings to panic-selling
+
+*2024-04-16 22:53:00* · [`islandlk`](http://island.lk/cse-zigzagging-from-profit-takings-to-panic-selling/) · `en`
+
+The stock market kicked off trading yesterday with profit- takings. Later, however, it indicated panic- selling due to apprehensions in some quarters that the government and bondholders are in disagreement over two out of four factors in the current debt restructuring exercise, market analysts said.
+
+The market began on a bearish note, dropping 100 points before rising to an intraday high of 12,048 and closing at 12,006, down 27 points. Foreign investors remained net sellers, with a net outflow of Rs. 315.2 million, amid moderate participation.
+
+Further, the bourse also regressed to red territory led by the ongoing global uncertainties hovering in the middle-east, breaking the streak of consecutive gains witnessed during the last three weeks.
+
+...
+
+[Data](articles/7e919d6e.json)
 
 ---
 
@@ -2129,119 +2203,5 @@ The Steering Committee as a whole comprises ten of the largest members of the Gr
 [Data](articles/d82ea574.json)
 
 [Extended Data](ext_articles/d82ea574.ext.json)
-
----
-
-### UNP calls on all parties to join hands
-
-*2024-04-16 15:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNP-calls-on-all-parties-to-join-hands/108-280774) · `en`
-
-Colombo, April 16 (Daily Mirror)- Stressing that it is time to forget party politics, the United National Party (UNP) today invited all political parties to join hands to create a stable nation.
-
-“What we are thinking of is a joint effort which goes beyond party politics. Therefore we invite all political parties to join hands to achieve the common goal of making Sri Lanka a stable nation,” UNP General Secretary Palitha Range Bandara said.
-
-He said this in response to a question raised by journalists whether the UNP will welcome SLFP members to join hands, now that  the latter is facing a crisis.
-
-“We don’t care who will join us as long as they are ready to join hands for the sake of the nation,” he added.
-
-The UNP General Secretary made a specific invitation to all MPs in the Samagi Jana Balawegaya (SJB) who are at loggerheads with their party leader to join the UNP.
-
-Accordingly he invited Harsha de Silva, Eran Wickramaratne, Kabir Hashim and Thalatha Athukorala to join the UNP.
-
-...
-
-[Data](articles/87cb9429.json)
-
-[Extended Data](ext_articles/87cb9429.ext.json)
-
----
-
-### UNP calls on all parties to join hands
-
-*2024-04-16 15:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/UNP-calls-on-all-parties-to-join-hands/155-280774) · `en`
-
-Colombo, April 16 (Daily Mirror)- Stressing that it is time to forget party politics, the United National Party (UNP) today invited all political parties to join hands to create a stable nation.
-
-“What we are thinking of is a joint effort which goes beyond party politics. Therefore we invite all political parties to join hands to achieve the common goal of making Sri Lanka a stable nation,” UNP General Secretary Palitha Range Bandara said.
-
-He said this in response to a question raised by journalists whether the UNP will welcome SLFP members to join hands, now that  the latter is facing a crisis.
-
-“We don’t care who will join us as long as they are ready to join hands for the sake of the nation,” he added.
-
-The UNP General Secretary made a specific invitation to all MPs in the Samagi Jana Balawegaya (SJB) who are at loggerheads with their party leader to join the UNP.
-
-Accordingly he invited Harsha de Silva, Eran Wickramaratne, Kabir Hashim and Thalatha Athukorala to join the UNP.
-
-...
-
-[Data](articles/bd9c357b.json)
-
-[Extended Data](ext_articles/bd9c357b.ext.json)
-
----
-
-### Cake production has been reduced due to the increase in egg prices!
-
-*2024-04-16 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181230) · `ta`
-
-Cake production decreased due to higher egg prices, impacting festive season sales. Large bakeries, accounting for 25% of cake production, were affected.
-
-🟩
-
-The Bakery Owners Association said that bakery owners did not produce cake during the festive season due to the increase in egg prices.
-
-The president of the association NK said that the owners of large -scale bakeries made about 25 per cent of the cake products.. Jayawardena told a media briefing held today (16).
-
-◼️
-
-[Data](articles/b2aa53b9.json)
-
-[Extended Data](ext_articles/b2aa53b9.ext.json)
-
----
-
-### 39 killed in Pakistan from sea and lightning
-
-*2024-04-16 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195687) · `si`
-
-In 2022, Pakistan experienced heavy rainfall and lightning, killing 39, mostly farmers, and injuring over 17,000. Electricity and transport services were also affected.
-
-🟩
-
-According to the media reports, 39 people have been killed in southwestern heavy rainfall and lightning accidents.
-
-Most of the deceased are the farmers and is said to be the farmers and they have been affected by lightning while they are harvesting.
-
-A large number of farmer lands have been flooded due to heavy rainfall.
-
-It is reported that electricity supply and transport services are also hampered.
-
-Over 1700 people were killed and more than 1700 people were killed and more than 17,000 were injured in accidents caused by Pakistan in 2022.
-
-◼️
-
-[Data](articles/49ba4956.json)
-
-[Extended Data](ext_articles/49ba4956.ext.json)
-
----
-
-### Train crashing on platform: Driver suspended
-
-*2024-04-16 14:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-crashing-on-platform-Driver-suspended/108-280773) · `en`
-
-Colombo, April 16 (Daily Mirror) - The service of the driver of the train that crashed on to the railway platform at the Colombo Fort railway station has been suspended, Railways Deputy General Manager N.J. Indipolage said.
-
-He said an investigation into the incident was held and the final decision on the service of the driver will be taken after the report is received.
-
-The train, which was scheduled to depart for Chillaw, crashed on to platform No. 1 of the Colombo Fort Railway Station when commencing its journey from Colombo Fort to Chilaw at 2:35 p.m. yesterday.
-
-No injuries were reported as a result of the accident, although the front part of the train and a section of the platform were damaged.
-
-◼️
-
-[Data](articles/915fb20a.json)
-
-[Extended Data](ext_articles/915fb20a.ext.json)
 
 ---

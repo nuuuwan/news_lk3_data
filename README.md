@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 10:03:35**
+As of **2024-04-17 10:18:34**
 
 ## Newspaper Stats
 
-*Scraped **19,284** Articles*
+*Scraped **19,287** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ dailyftlk | 1,058
 economynextcom | 1,084
 adalk | 1,603
 tamilmirrorlk | 2,249
-adaderanalk | 2,318
-virakesarilk | 2,876
+adaderanalk | 2,319
+virakesarilk | 2,877
 dailymirrorlk | 2,972
-adaderanasinhalalk | 3,138
+adaderanasinhalalk | 3,139
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,282 (100.0%) of 19,284 articles have been extended.
+19,284 (100.0%) of 19,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### පවුල් ආරවුල ජීවිතයක් බිලිගනී
+
+*2024-04-17 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195712) · `si`
+
+කන්දේනුවර හුනුගල ප්‍රදේශයේදී තියුණු ආයුධයකින් පහර දී කාන්තාවක් ඝාතනය කර තිබේ.
+
+පොලීසිය පැවසුවේ, පවුල් ආරවුලක් දුරදිග යාම හේතුවෙන් සිය ස්වාමි පුරුෂයා විසින් සිය බිරිඳ මෙලෙස ඝාතනය සිදුකර ඇති බවට මූලික විමර්ශනවලදී අනාවරණය වී ඇති බවය.
+
+ඝාතනය සිදුකළ සැකකරු අත්අඩංගුවට ගෙන ඇති අතර කන්දේනුවර පොලීසිය මඟින් වැඩිදුර විමර්ශන ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/6ce26476.json)
+
+---
+
+### வடகிழக்கில் 50 வீத்திற்கு மேல் வாக்குகளைப் பெறக்கூடிய ஒருவரை ஜனாதிபதித் தேர்தலில் களமிறக்க வேண்டும் - ஞானமுத்து ஸ்ரீநேசன்
+
+*2024-04-17 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181271) · `ta`
+
+வடக்கு கிழக்கிலும், வடகிழக்கிற்கு வெளியிலும், தமிழ் பேசுகின்ற மக்களின் விருபுக்களைப் பெறுகின்ற ஆளுமையுள்ள, வடக்கு கிழக்கில் 50 வீத்திற்கு மேல் வாக்குகளைப் பெறக்கூடிய ஒருவரை எதிர்வரும் ஜனாதிபதித் தேர்தலில் களமிறக்க வேண்டும் இலங்கைத் தமிழரசுக் கட்சியின் மட்டக்களப்பு மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் ஞானமுத்து ஸ்ரீநேசன் தெரிவித்துள்ளார்.
+
+மட்டக்களப்பு செட்டிபாளையத்தில் உள்ள அவரது இல்லத்தில் செவ்வாய்கிழமை(16.04.2024) மாலை நடைபெற்ற ஊடகவியலாளர் சந்திப்பின்போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+தமிழர் ஒருவரை பொதுவேட்பாளரை நிறுத்தக்கூடாது என்று கூறுகின்றவர்கள், ஏனைய ஜனாதிபதி வேட்பாளர்கள் ஊடாக என்ன தீர்வைத் தருவார்கள்? அவ்வாறு தரக்கூடியவர்கள் யார்? என்பதை தெரிவிக்க வேண்டும் என இலங்கைத் தமிழரசுக் கட்சியின் மட்டக்களப்பு மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் ஞானமுத்து ஸ்ரீநேசன் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/79548884.json)
+
+---
 
 ### New Visa System from today
 
@@ -56,23 +88,45 @@ The Department has pointed out that it is intended to provide a rapid and effici
 
 ---
 
-### බෝට්ටු අනතුරින් ජීවිත 6ක් අහිමිවෙයි
+### 6 lives lost in boat accident
 
 *2024-04-17 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195711) · `si`
 
-ඉන්දීය පාලනය යටතේ පවතින කාශ්මීර ශ්‍රීනගර් ප්‍රදේශයේ ළමුන් පාසල් ප්‍රවාහය කරමින් තිබූ බෝට්ටුවක් පෙරළීමෙන් පුද්ගලයන් 6 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+In Kashmati Sri Shinadagar, 6 lives were lost in a boat accident involving a school boat, with heavy rains contributing to the incident. Among the dead were a woman and her two children, and three children are missing.
 
-විදෙස් වාර්තා සඳහන් කළේ, මියගිය අය අතර කාන්තාවක් සහ ඇගේ දරුවන් දෙදෙනා ද වන බවය.
+🟩
 
-ළමයින් තිදෙනෙකු තවදුරටත් අතුරුදහන් වී ඇති අතර ඔවුන් සෙවීමේ මෙහෙයුම් තවදුරටත් ක්‍රියාත්මක බව සඳහන්ය.
+Kashmati Sri Shinadagar, under Indian control, 6 people have died after a boat of schools that have been flowing.
 
-ප්‍රදේශයට ඇදහැලුණු අධික වර්ෂාපතනය හේතුවෙන් ඟගේ ජල මට්ටම ඉහළ යාම හේතුවෙන් මෙම අනතුර සිදුව තිබේ.
+Foreign reports said that among the dead were a woman and her two children.
 
-විදෙස් වාර්තා සඳහන් කළේ, අනතුර සිදුවන අවස්ථාවේදී පුද්ගලයින් 15 දෙනෙකු බෝට්ටුවේ ගමන් කර ඇති බවය.
+Three children have disappeared and they continue to work operations.
+
+The accident had occurred due to heavy rains in the area due to heavy rainfall in the area.
+
+According to foreign reports, 15 people were traveling in the boat at the time of the accident.
 
 ◼️
 
 [Data](articles/1efc5656.json)
+
+[Extended Data](ext_articles/1efc5656.ext.json)
+
+---
+
+### UK lawmakers back landmark bill to gradually phase out smoking for good
+
+*2024-04-17 09:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98678/uk-lawmakers-back-landmark-bill-to-gradually-phase-out-smoking-for-good) · `en`
+
+The British government’s plan for a landmark smoking ban that aims to stop young people from ever smoking cleared its first hurdle in Parliament on Tuesday despite vocal opposition from within Prime Minister Rishi Sunak’s Conservative Party.
+
+The bill, a key policy announced by Sunak last year, would make it illegal to sell tobacco products to anyone born after January 1, 2009. If passed, the bill will give Britain some of the toughest anti-smoking measures in the world. Authorities say it will create modern Britain’s “first smoke-free generation.”
+
+Under the Tobacco and Vapes Bill, children turning 15 this year or younger will never be legally sold tobacco. Once implemented — officials are aiming for 2027 — the legal age of sale that people in England can buy cigarettes will be raised by one year, every year until it is eventually illegal for the whole population.
+
+...
+
+[Data](articles/998afe0f.json)
 
 ---
 
@@ -100,7 +154,7 @@ The officer has twisted the song "Surya Mangalya" sung by the Sinhalese Rohana B
 
 *2024-04-17 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98677/sri-lanka-implements-new-online-visa-system-from-today) · `en`
 
-A new visa process and the online visa application portal of the Department of Immigration and Emigration are implemented today (17).
+The Department of Immigration and Emigration says its new visa process and the online visa application portal will be implemented today (17).
 
 The new visa methodology, relevant fees, requirements to be met and the validity period in Sri Lanka were earlier published in the Extraordinary Gazette No. 2360/24, dated 27 November 2023.
 
@@ -294,23 +348,33 @@ Meanwhile, the pediatrician cautioned of the prevalence of Typhoid fever among c
 
 ---
 
-### பொலிஸார் தாக்கியதில் இளைஞனுக்கு பாதிப்பு
+### Youth victim of attacking police
 
 *2024-04-17 08:04:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பொலிஸார்-தாக்கியதில்-இளைஞனுக்கு-பாதிப்பு/72-336015) · `ta`
 
-வெளிநாட்டில் இருந்து வருகைதந்துள்ள நபர் ஒருவருடன் சேர்ந்து புளியங்குளம் பொலிஸார் தன்னை தாக்கியதாக தெரிவித்து வவுனியா வைத்தியசாலையில் குடும்பஸ்தர் ஒருவர் அனுமதிக்கப்பட்டுள்ளார்.
+A family member was assaulted by a foreigner, leading to a police investigation. During the incident, the victim's phone was stolen, and they were attacked by a foreigner in the police station. The victim was dragged and assaulted, but was eventually released with the help of a police officer. The attacker's wife has filed a complaint with the Vavuniya Human Rights Commission, and the hospital police have lodged a complaint with the hospital police.
 
-குறித்த சம்பவம் நேற்றய தினம் மாலை இடம்பெற்றது. வவுனியா சின்னப்பூவரசங்குளத்தை சேர்ந்த ஒரு பிள்ளையின் தந்தையே  இவ்வாறு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்
+🟩
 
-நேற்றயதினம் ஒரு விசாரணை ஒன்று இருப்பதாக புளியங்குளம் பொலிஸார் என்னை அழைத்தனர். நான் அங்கு சென்றநிலையில் எனது தொலைபேசி கைப்பை என்பன பறிக்கப்பட்டு இரு கைகளிலும் விலங்கு போடப்பட்டது.
+A family member has been admitted to the Vavuniya Hospital for allegedly assaulting a person from abroad.
 
-பொலிஸ் நிலையத்தின் பதில் பொறுப்பதிகாரி உட்பட ஏனைய பொலிஸாரும் என்னை பிடித்துவைத்திருக்க, வெளிநாட்டில் இருந்து வருகைதந்திருந்த நபர் ஒருவர் பொலிஸ் நிலையத்திற்குள் வைத்து என்னை தாக்கியிருந்தார்.
+The incident took place yesterday evening. The father of a child from Chinnapavaravarasankulam in Vavuniya has been admitted to the hospital
 
-பின்னர் நாய்போல என்னை இழுத்துச்சென்ற அவர்கள் அந்த நபரின் வாகனத்தில் ஏற்ற முற்பபட்டனர். இதன்போது நான் போதுமக்களின் உதவியினை நாடி பிரதான வீதியை மறித்திருந்தேன்.
+Puliyankulam police called me yesterday that there was an investigation. As I went there, my phone handbag was snatched and the animal was placed in both hands.
+
+Other policemen, including the officer in charge of the police station, caught me, and a man from abroad attacked me inside the police station.
+
+Then they dragged me like a dog and tried to load the man's vehicle. At this time, I had crossed the main road seeking the help of the people.
+
+Then again dragged me into the police station. There, the police officer in charge of the police officer attacked my chest with his Sabbath's legs.
+
+Then a police officer who arrived there had confessed me and sent me and my wife home from the police station.
 
 ...
 
 [Data](articles/4725da85.json)
+
+[Extended Data](ext_articles/4725da85.ext.json)
 
 ---
 
@@ -2097,71 +2161,5 @@ The relatives of the family say that the former Deputy Minister Palitha Thevarap
 [Data](articles/9fd2ab64.json)
 
 [Extended Data](ext_articles/9fd2ab64.ext.json)
-
----
-
-### Palitha Thevaraperuma kills electricity
-
-*2024-04-16 18:59:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலித-தெவரபெரும-மின்சாரம்-தாக்கி-பலி/175-335995) · `ta`
-
-Palitha Thevaraperuma, a former UNP MP and Minister of Wildlife, was electrocuted while attempting to connect two electrical circuits at his home.
-
-🟩
-
-The hospital spokesman said that he was admitted to the Nagoda Hospital when he went to connect two electrical circuits in the house.
-
-Postalitha Thevarapperuma is a former United National Party (UNP) Member of Parliament and former Minister of Wildlife.
-
-◼️
-
-[Data](articles/741cd929.json)
-
-[Extended Data](ext_articles/741cd929.ext.json)
-
----
-
-### Driver's work for the stage is banned
-
-*2024-04-16 18:46:40* · [`adalk`](https://www.ada.lk/breaking_news/වේදිකාවට-දුම්රිය-ගෙනා-රියදුරුගේ-වැඩ-තහනම්/11-409110) · `si`
-
-The Venerable Vidiage announced the suspension of a driver's work for the stage, following instructions from the General Manager of Railways. The Inspector General Manager is to submit a report by the end of this week.
-
-🟩
-
-Deputy General Manager (Transport) NJ, Deputy General Manager (Transport) NG, Deprecated driver (Transportation). The Venerable Vidiage said to the newspaper today.
-
-He said that the suspension was carried out on the instructions of the General Manager of Railways.
-
-The Inspector General Manager of the Railways has been instructed to give the report before the end of this week.
-
-◼️
-
-[Data](articles/e75745cc.json)
-
-[Extended Data](ext_articles/e75745cc.ext.json)
-
----
-
-### Purchase of gas begins investigation into loss of Rs.114 million
-
-*2024-04-16 18:33:49* · [`adalk`](https://www.ada.lk/breaking_news/ගෑස්-මිලට-ගැනීමේදී-වැඩි-මිල-ටෙන්ඩරය-ගැනීමෙන්-රජයට-කෝටි-114ක-පාඩුවක්-වීම-ගැන-විමර්ශනය-අරඹයි/11-409109) · `si`
-
-The Bribery or Corruption Commission has started an investigation into a government tender loss of Rs.114 million, involving the Citizenship Corruption Organization. Chairman Carring Thushara initiated the probe. The tender was for supplying gas at a lower price than the market rate, leading to a loss. The tender was for 147.83 metric tons of gas, with a price difference of $118.23 per ton.
-
-🟩
-
-Bribery or Corruption Commission has commenced an investigation into the Government to a loss of approximately Rs.
-
-Citizenship Corruption Organization (Citizens) to be able to investigate the tender to supply the tender to the prices of the prices of the prices of the tender to supply the tender to the low price of the prices and the citizenship arrangement of the citizenship of the citizenshipAnd according to a complaint with a complaint with Mr. Carring Thushara, Chairman of the Organization, Chairman of the Organization, has commenced this investigation.
-
-අල්ලස් කොමිසමේ දුෂණ විමර්ශන අංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්‍ෂක එම්.ඊ. According to a calling of Mr. Abeysinghe, he also appeared at the Bribery Commission to a loss of approximately Rs.
-
-Carring Thushara has pointed to the Commission that the Cabinet has been able to cancel the tender to supply gas to a less than 2022 months of purchasing Rs.
-
-...
-
-[Data](articles/61c97564.json)
-
-[Extended Data](ext_articles/61c97564.ext.json)
 
 ---

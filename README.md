@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 10:51:40**
+As of **2024-04-17 11:03:23**
 
 ## Newspaper Stats
 
-*Scraped **19,290** Articles*
+*Scraped **19,293** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,76 @@ newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,058
 economynextcom | 1,084
-adalk | 1,603
+adalk | 1,604
 tamilmirrorlk | 2,250
 adaderanalk | 2,319
 virakesarilk | 2,877
-dailymirrorlk | 2,973
-adaderanasinhalalk | 3,140
+dailymirrorlk | 2,974
+adaderanasinhalalk | 3,141
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,289 (100.0%) of 19,290 articles have been extended.
+19,290 (100.0%) of 19,293 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### கொத்து ரொட்டியை ரூ.1900 க்கு விற்க முயன்றவர் சிக்கினார்
+### මියන්මාරයේ අත්අඩංගුවේ සිටි ලාංකිකයින්ට පොදු සමාවක්
+
+*2024-04-17 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195714) · `si`
+
+මියන්මාරයේ අත්අඩංගුවේ සිටි ශ්‍රී ලාංකික ධීවරයින් 15 දෙනාට එරට රජය විසින් පොදු සමාවක් ලබා දී තිබේ.
+
+මියන්මාරයේ ශ්‍රී ලංකා තානාපතිවරයා විසින් මේ බව තහවුරු කර ඇත.
+
+පසුගිය දෙසැම්බර් මාසයේ දී එම පිරිස මියන්මාර බලධාරීන් විසින් අත්අඩංගුවට ගත් අතර පසුව ඔවුන්ට වසර 7ක සිරදඬුවමක් නියම කෙරිණි.
+
+◼️
+
+[Data](articles/fe7f6756.json)
+
+---
+
+### Final rites of Thewarapperuma to be held on Saturday
+
+*2024-04-17 10:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Final-rites-of-Thewarapperuma-to-be-held-on-Saturday/108-280832) · `en`
+
+Colombo, April 17 (Daily Mirror) - According to the family members, the funeral service for former Deputy Minister Palitha Thewarapperuma is scheduled to take place this Saturday (20).
+
+He had experienced an electric shock yesterday while attempting to connect two electrical wires at his residence and had passed away after being admitted to the Nagoda Hospital.
+
+He had already prepared his burial plot in Kalutara for him to be laid to rest. His last wish was for his burial to take place within 24 hours of his death and his remains to be taken for burial on his own carriage.
+
+◼️
+
+[Data](articles/21fdcf13.json)
+
+---
+
+### The man who tried to sell the bunch of bread for Rs.1900 was trapped
 
 *2024-04-17 10:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/கொத்து-ரொட்டியை-ரூ-1900-க்கு-விற்க-முயன்றவர்-சிக்கினார்/95-336025) · `ta`
 
-கொழும்பு, வாழைத்தோட்டம் புதுக்கடை பிரதேசத்தின் வீதி உணவுப் பகுதியில் உணவு வாங்க வந்த வெளிநாட்டவரை  தகாத வார்த்தைகளால் திட்டிய சம்பவம் தொடர்பில் கடை உரிமையாளர் ஒருவர் வாழைத்தோட்ட பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+A shop owner in Pudukkadai, Colombo, was arrested for allegedly scolding a foreigner over a Rs.1900 bread price. The incident, captured on video, led to his arrest. The suspect, a 51-year-old from Colombo 12, is now under investigation.
 
-வெளிநாட்டவர் ஒரு கொத்து ரொட்டியின் விலையைக் கேட்டபோது, ​​ கடைக்காரர் 1900 ரூபாய் என்று கூறினார். வெளிநாட்டவர் அதை வாங்க மறுத்துவிட்டார்.
+🟩
 
-இச்சம்பவம் தொடர்பான காணொளி ஒன்று சமூகவலைத்தளங்களில் வலுவாகப் பரவி வருகிறது. காணொளியின் அடிப்படையில் விசாரணைகளை ஆரம்பித்த பொலிஸார் சந்தேக நபரை கைது செய்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A shop owner has been arrested by the banana plantation police for allegedly scolding a foreigner who came to buy food in the Pudukkadai area of Pudukkadai, Colombo.
 
-கைது செய்யப்பட்ட சந்தேக நபர் கொழும்பு 12 பகுதியைச் சேர்ந்த 51 வயதுடையவர் என்பது குறிப்பிடத்தக்கது.
+When the foreigner asked for the price of a bunch of bread, the shopkeeper said 1900 rupees. The foreigner refused to buy it.
+
+A video on the incident is spreading strongly on social networks. Police said the suspect had been arrested on the basis of a video.
+
+The arrested suspect is 51 years old from Colombo 12.
 
 ◼️
 
 [Data](articles/9b34cce5.json)
+
+[Extended Data](ext_articles/9b34cce5.ext.json)
 
 ---
 
@@ -203,6 +241,28 @@ Under the Tobacco and Vapes Bill, children turning 15 this year or younger will 
 [Data](articles/998afe0f.json)
 
 [Extended Data](ext_articles/998afe0f.ext.json)
+
+---
+
+### ඒ. ටී. ආරියරත්න මහතාගේ අවසන් කටයුතු රාජ්‍ය ගෞරව සහිතව
+
+*2024-04-17 09:19:49* · [`adalk`](https://www.ada.lk/breaking_news/ඒ--ටී--ආරියරත්න-මහතාගේ-අවසන්-කටයුතු-රාජ්‍ය-ගෞරව-සහිතව/11-409116) · `si`
+
+අභාවප්‍රාප්ත වූ සර්වෝදය නිර්මාතෘ ආචාර්ය ඒ. ටී. ආරියරත්න මහතාගේ දේහය අද පස්වරුවේ සිට මොරටුවේ පිහිටි සර්වෝදය මූලස්ථානයේ තැම්පත් කිරීමට නියමිතය.
+
+ලබන 20 වනදා දහවල් 12.00 දක්වා එම ස්ථානයේ තැම්පත් කර තැබෙන ඒ.ටි. ආරියරත්න මහතාගේ දේහය එදින පස්වරුවේ කොළඹ නිදහස් චතුරස්‍රය වෙත රැගෙන යාමට නියමිතය.
+
+20 වනදා පස්වරු 4ට කොළඹ නිදහස් චතුරස්‍රයේදී රාජ්‍ය ගෞරව සහිතව ආචාර්ය ඒ. ටී. ආරියරත්න මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු සිදුකිරීමට නියමිතව තිබේ.
+
+ආචාර්ය ඒ.ටී. ආරියරත්න මහතා ඊයේ (16) රාත්‍රී ඒ මහතා පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදී අභාවප්‍රාප්ත වුණි.මියයන විට ඒ මහතා 93 වැනි වියේ පසුවුණි.
+
+1950 දශකයේදී එතුමාගේ සංකල්පයකට අනුව බිහිකෙරුණු සර්වෝදය ශ්‍රමදාන ව්‍යාපාරය දශක 06ක් පුරා මෙරට සරණක් අවැසි ජනතාවගේ උන්නතිය වෙනුවෙන් ක්‍රියාකාරීව කටයුතු කළ සංවිධානයකි.
+
+ශ්‍රී ලංකාවේ විශාලතම රාජ්‍ය නොවන සංවිධානය වන සර්වෝදය ව්‍යාපාරය වෙනුවෙන් දෙස් විදෙස් ඇගයීම් රැසකට ද ආරියරත්න මහතා පාත්‍රවුණි.
+
+...
+
+[Data](articles/d86829c3.json)
 
 ---
 
@@ -2109,71 +2169,5 @@ Minister of Youth Affairs, Sports and Tourism Harin Fernando participated as the
 [Data](articles/5b1a2a48.json)
 
 [Extended Data](ext_articles/5b1a2a48.ext.json)
-
----
-
-### How does CSK get best out of Pathirana?
-
-*2024-04-16 19:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/How-does-CSK-get-best-out-of-Pathirana/108-280785) · `en`
-
-Colombo, April 16 (Daily Mirror) - Sri Lanka fast bowler Matheesha Pathirana delivered another match-winning performance for Chennai Super Kings (CSK) on Sunday when they defeated Mumbai Indians fairly comfortably.
-
-The right arm quick ended up taking four wickets for 28 runs keeping  CSK in the third spot of the points, very much in the running for play-offs.
-
-Pathirana has so far played three games in the IPL 2024 capturing eight wickets and the 21-year-old seems to be flourishing in Chennai colours.
-
-The former Trinity College speedster has done fairly reasonable job when representing the country. However, in certain games he was well below par.
-
-One would wonder how has CSK been able to get the best out of Pathirana far more regularly.
-
-It must be stated that CSK found Pathirana before the national selectors even considered him for Sri Lanka. Chennai probably have a better scouting system through which they had identified Matheesha Pathirana and Maheesh Theekshana.
-
-...
-
-[Data](articles/adba59ce.json)
-
-[Extended Data](ext_articles/adba59ce.ext.json)
-
----
-
-### Former MP Palitha Thewarapperuma passes away
-
-*2024-04-16 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98669/former-mp-palitha-thewarapperuma-passes-away) · `en`
-
-Former Deputy Minister and former UNP parliamentarian Palitha Thewarapperuma has passed away at the age of 64 years, sources told Ada Derana.
-
-According to unconfirmed reports, the former Kalutara District MP had died from electrocution while his body has been placed at the Kalutara Hospital.
-
-A prominent figure of the United National Party (UNP), Thewarapperuam had served as Deputy Minister of Internal Affairs, Wayamba Development and Cultural Affairs in the UNP-led national government in 2015.
-
-He is a former Chairman of the Mathugama Pradeshiya Saba (2002) and was also a member of the Western Provincial Council. He served as a Member of Parliament from Kalutara District during the period from 2010 to 2020.
-
-He was popular amongst the local masses for his social service activities and philanthropy while the politician also rose to fame, especially during the COVID-19 pandemic for having provided food, dry rations and other necessities to the rural population of his constituency.
-
-◼️
-
-[Data](articles/33bc3019.json)
-
-[Extended Data](ext_articles/33bc3019.ext.json)
-
----
-
-### Former MP Palitha Thewarapperuma dies from electrocution
-
-*2024-04-16 19:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-MP-Palitha-Thewarapperuma-dies-from-electrocution/108-280784) · `en`
-
-Kalutara, April 16 (Daily Mirror) - Former Deputy Minister Palitha Thewarapperuma has died from electrocution this evening.
-
-It was reported that he was electrocuted when he attempted to connect two electrical circuits at his home and died after being admitted to the Nagoda Hospital.
-
-Born on 3 May 1960,  Thewarapperuma was a former member of Parliament from the UNP.
-
-He was given the position of Deputy Minister of Internal Affairs, Wayamba Development and Cultural Affairs in the United National Party led national government in 2015.
-
-◼️
-
-[Data](articles/c2930328.json)
-
-[Extended Data](ext_articles/c2930328.ext.json)
 
 ---

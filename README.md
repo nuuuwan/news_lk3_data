@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 13:34:05**
+As of **2024-04-17 13:52:48**
 
 ## Newspaper Stats
 
-*Scraped **19,329** Articles*
+*Scraped **19,334** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 168
-bbccomsinhala | 202
+bbccomsinhala | 204
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,038
@@ -17,20 +17,72 @@ dailyftlk | 1,059
 economynextcom | 1,084
 adalk | 1,608
 tamilmirrorlk | 2,257
-adaderanalk | 2,323
+adaderanalk | 2,324
 virakesarilk | 2,885
-dailymirrorlk | 2,982
-adaderanasinhalalk | 3,145
+dailymirrorlk | 2,983
+adaderanasinhalalk | 3,146
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,326 (100.0%) of 19,329 articles have been extended.
+19,329 (100.0%) of 19,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### ඉරානයට එරෙහිව අමෙරිකාවෙන් නැවතත් සම්බාධක
+
+*2024-04-17 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195719) · `si`
+
+ඉරානයට එරෙහිව තවදුරටත් සම්බාධක පැනවීමට බලාපොරොත්තු වන බව එක්සත් ජනපදය සහ යුරෝපා සංගමය පවසයි.
+
+ඔවුන් විසින් එසේ සම්බාධක පැනවීමට තීරණය ගෙන ඇත්තේ, සති අන්තයේ ඊශ්‍රායලයට එල්ල කළ ප්‍රහාරයෙන් පසුවය.
+
+එක්සත් ජනපද භාණ්ඩාගාර ලේකම් ජැනට් යෙලන් පැවසුවේ ඉදිරි දිනවලදී එම පියවර ගැනීමට බලාපොරොත්තු වන බවය.
+
+එමෙන්ම යුරෝපා සංගම් විදේශ ප්‍රතිපත්ති ප්‍රධානී ජෝසෆ් බොරෙල් පැවසුවේ ඔවුන් ඉරානයට එරෙහිව සම්බාධක පැනවීම සඳහා කටයුතු කරමින් සිටින බවය.
+
+◼️
+
+[Data](articles/8904d139.json)
+
+---
+
+### Using abusive language towards foreigner: Street food vendor granted bail
+
+*2024-04-17 13:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Using-abusive-language-towards-foreigner-Street-food-vendor-granted-bail/108-280841) · `en`
+
+Colombo, April 17 (Daily Mirror)- A street food vendor who used abusive language towards American YouTuber Emeka Iwueze after quoting the price for a portion of Kottu Roti at Rs.1,900 at a street food stall in Hulftsdorp, was granted bail today after being produced before the Colombo Chief Magistrate’s Court.
+
+The Keselwatta Police arrested the suspect for using abusive language towards a foreigner while negotiating the price for a portion of Kottu Roti.
+
+The suspect, a resident of Colombo 12, was ordered to be released on a cash bail of Rs.50,000 with a Rs.1 million surety bail.
+
+◼️
+
+[Data](articles/a967716a.json)
+
+---
+
+### Price-gouging & verbal hostility: Arrested street food vendor granted bail
+
+*2024-04-17 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98683/price-gouging-verbal-hostility-arrested-street-food-vendor-granted-bail) · `en`
+
+The owner of a street food eatery in Aluthkade, who was arrested for price-gouging a foreign tourist and behaving in a verbally aggressive manner, has been granted bail.
+
+When the accused was produced before the court earlier today (17), he was ordered to be released on a cash bail of Rs. 50,000 and surety bail of Rs. 1 million.
+
+On Tuesday (16), the police arrested the 51-year-old in question for trying to charge Rs. 1,900 from a foreigner for a Kottu Roti and verbally harassing him when he refused to buy the food item at the quoted price.
+
+The arrest came hot on the heels of public outcry on social media after a video of the incident went viral.
+
+◼️
+
+[Data](articles/debe4d24.json)
+
+---
 
 ### There is no church politics - Nimal
 
@@ -114,6 +166,8 @@ Colombo, April 17 (Daily Mirror)- Popular actress Damitha Abeyratne and her husb
 
 [Data](articles/ec487d4a.json)
 
+[Extended Data](ext_articles/ec487d4a.ext.json)
+
 ---
 
 ### Sub -Inspector arrested in the ear of the judge
@@ -148,6 +202,10 @@ A police officer has gone to investigate the complaint lodged with the District 
 
 *2024-04-17 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181287) · `ta`
 
+Under the Mountain Rise Scheme, 10,765 projects worth 4,109.20 million rupees have been implemented in 12 districts, with the first quarter allocated to Ratnapura, Kegalle, and Badulla. The Decaded Decades Program in Kegalle has 2545 projects, with significant numbers in Kandy, Matale, Nuwara Eliya, Galle, Matara, Kurunegala, Ratnapura, and Badulla. Special projects are also being implemented in Kalutara, Kandy, Ampara, and Nuwara Eliya.
+
+🟩
+
 Urban Development and Housing Minister Prasanna Ranatunga said that 10,765 projects have been implemented by the end of the year under the Multipurpose Rural and Social Development Program.
 
 4,109.20 million released in 12 selected districts for this project.
@@ -175,6 +233,8 @@ They were arrested along with two fishing vessels for violating Myanmar's mariti
 ◼️
 
 [Data](articles/5f6b49a2.json)
+
+[Extended Data](ext_articles/5f6b49a2.ext.json)
 
 ---
 
@@ -519,6 +579,8 @@ At the meeting, instructions were issued to ensure that the final rites of Dr. A
 ...
 
 [Data](articles/235792f4.json)
+
+[Extended Data](ext_articles/235792f4.ext.json)
 
 ---
 
@@ -1414,6 +1476,30 @@ An Excise was arrested by an Excise suspected to sell a song of Veteran singer R
 
 ---
 
+### ආචාර්ය ඒ.ටී. ආරියරත්න: ශ්‍රී ලංකාවේ ගම්මාන 15,000කට සහන සැලසූ සර්වෝදය ව්‍යාපාරයේ නිර්මාතෘවරයා
+
+*2024-04-17 07:09:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8vz9n63rvdo) · `si`
+
+ආචාර්ය ඒ.ටී. ආරියරත්න: ශ්‍රී ලංකාවේ ගම්මාන 15,000කට සහන සැලසූ සර්වෝදය ව්‍යාපාරයේ නිර්මාතෘවරයා
+
+ශ්‍රී ලංකාවේ විශාලතම සහ පුළුල් ම ව්‍යාප්තියක් සහිත රාජ්‍ය නොවන සංවිධානයක් ලෙස සැලකෙන සර්වෝදය ශ්‍රමදාන ව්‍යාපාරයේ නිර්මාතෘ ආචාර්ය ඒ.ටී. ආරියරත්න අඟහරුවාදා (අප්‍රේල් 16) අභාවප්‍රාප්ත විය.
+
+කොළඹ, පෞද්ගලික රෝහලකදී අභාවප්‍රාප්ත වන විට ඔහු 93 වන වියේ පසු විය.
+
+"දිළිඳුකම තුරන් කිරීම සහ ගැටුම් රහිත සමාජයක් ගොඩනැගීම" සිය මෙහෙවර කර ගත් සර්වෝදය ශ්‍රමදාන ව්‍යාපාරය හරහා ආචාර්ය ඒ.ටී. ආරියරත්න ශ්‍රී ලංකාවේ දහස් ගණනක් පවුල් ආර්ථික වශයෙන් නගා සිටුවීමට කැපවූ අයෙකි.
+
+අහංගමගේ ටියුඩර් ආරියරත්න හෙවත් ඒ.ටී. ආරියරත්න 1931 වසරේ නොවැම්බර් මස 05 වන දා ගාල්ල, උණවටුනේදී උපත ලැබීය.
+
+උණවටුන බෝන විස්ටා විද්‍යාලයෙන් ප්‍රාථමික අධ්‍යාපනය ලැබූ ඔහු, ගාල්ල මහින්ද විද්‍යාලයෙන් ද්විතීක අධ්‍යාපනය ලැබීය.
+
+පසුව, ගුරු අභ්‍යාස විද්‍යාලයට බැඳී ගුරුවරයෙකු බවට පත්වූ ඒ.ටී. ආරියරත්න, 1972 වසර වන තුරු කොළඹ නාලන්දා විද්‍යාලයේ ගුරුවරයෙකු ලෙස සේවය කළේය.
+
+...
+
+[Data](articles/733a0105.json)
+
+---
+
 ### Excise Officer arrested for distorting, sharing song on social media
 
 *2024-04-17 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Excise-Officer-arrested-for-distorting-sharing-song-on-social-media/108-280813) · `en`
@@ -2145,81 +2231,5 @@ Senior Investigation Officer of the Kandy District Consumer Service Authority sa
 [Data](articles/c28c86ad.json)
 
 [Extended Data](ext_articles/c28c86ad.ext.json)
-
----
-
-### CEAT Kelani launches 3 new radial tyre variants in ‘Orion Brawo’ range
-
-*2024-04-17 00:45:55* · [`dailyftlk`](https://www.ft.lk/business/CEAT-Kelani-launches-3-new-radial-tyre-variants-in-Orion-Brawo-range/34-760672) · `en`
-
-Sri Lanka’s leading pneumatic tyre manufacturer CEAT-Kelani has introduced three new variants of high-performance radial tyres into the market, widening choice for a significant segment of vehicle owners.
-
-Joining CEAT’s ‘Orion Brawo’ range, the new radials are in the sizes 155/65 R14, 165/70 R14 and 165 R13, with the first two sizes designated for popular models of compact and small cars, and the third for mid-sized vans, the company said.
-
-The CEAT Orion Brawo 155/65 R14 and 165/70 R14 tyres both feature a tread pattern of a centre rib with three circumferential grooves and a high land area, which translate to improved tread life and higher resistance to impacts, cuts and other damage.
-
-The 155/65 R14 is designed for Suzuki Wagon R, Daihatsu Mira ES, Daihatsu Hijet, Nissan Dayz and Honda N-WGN, while the 165/70 R14 fits Toyota Vitz, Toyota Aqua, Renault Kwid and Toyota Passo, seen in large numbers on Sri Lankan roads.
-
-...
-
-[Data](articles/8698c6fa.json)
-
-[Extended Data](ext_articles/8698c6fa.ext.json)
-
----
-
-### Meridian Maritime appoints Sanjeewa Kotalawala as new CEO
-
-*2024-04-17 00:45:30* · [`dailyftlk`](https://www.ft.lk/business/Meridian-Maritime-appoints-Sanjeewa-Kotalawala-as-new-CEO/34-760671) · `en`
-
-Meridian Maritime Services Ltd., (MMS) said yesterday it has appointed Sanjeewa Kotalawala as the new Chief Executive Officer.
-
-With a rich history of leadership spanning over 25 years in the maritime industry, Kotalawala brings invaluable expertise and strategic foresight to steer MMS towards continued success and growth.
-
-Kotalawala’s distinguished career spans pivotal senior leadership roles across various industries, including Höegh Autoliners (Norway) in the Middle East, Groz-Beckert (Germany), GE Gas Power (USA) in the Asia Pacific region, and McLarens Shipping, Sri Lanka, among others.
-
-“Throughout his tenure, he has consistently demonstrated a dedicated focus on operational excellence, revenue growth, talent leadership, safety enhancement, and the promotion of sustainable business practices,” MMS said in a statement.
-
-...
-
-[Data](articles/8b4d1fc0.json)
-
-[Extended Data](ext_articles/8b4d1fc0.ext.json)
-
----
-
-### Hayleys Solar opens new experience centres in Negombo and Kandy
-
-*2024-04-17 00:44:05* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Solar-opens-new-experience-centres-in-Negombo-and-Kandy/34-760670) · `en`
-
-The grand opening of the Negombo Hayleys Solar Experience Centre by Hayleys Solar Executive Director and CEO Roshane Perera and Deputy General Manager, National Sales Akhila Jayasena
-
-Hayleys Solar, the renewable energy arm of Hayleys Fentons, has opened doors to two new Experience Centres in Negombo (669, Puttalam - Colombo Rd) and Kandy (No 465/A, William Gopallawa Mawatha) respectively, bringing their total to four across Sri Lanka.
-
-These new centres offer residents a one-stop shop to explore solar energy solutions. Hayleys Solar Experience Centres provide a comprehensive range of world-class solar products, including rooftop PV systems, batteries, and inverters. Visitors can also witness live demonstrations of solar-powered water pumps, solar-powered hot water systems, lighting systems, and PV systems in action.
-
-...
-
-[Data](articles/892f7622.json)
-
-[Extended Data](ext_articles/892f7622.ext.json)
-
----
-
-### CSE Chief on capital raising and stock market outlook for 2024
-
-*2024-04-17 00:27:21* · [`dailyftlk`](https://www.ft.lk/opinion/CSE-Chief-on-capital-raising-and-stock-market-outlook-for-2024/14-760665) · `en`
-
-The performance of the current market landscape hasn’t been very impressive since, the market yet remains undervalued. The current market PE is 10.27 and the price-to-book value is at 1.02. However, historically we have had our market trade at multiples of 17 times price earnings, one and a half times book value. Overall, we are quite optimistic that activity and turnover will increase driving yields and the market will perform well for the year 2024 as economic conditions continue to improve
-
-The Colombo Stock Exchange (CSE) Chairman Dilshan Wirasekara in this interview discusses the opportunities for capital raising and stock market outlook for 2024
-
-Q: Give us an overview of the current market landscape and discuss the CSE's overall outlook for the year 2024?
-
-...
-
-[Data](articles/ea89bb11.json)
-
-[Extended Data](ext_articles/ea89bb11.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 22:18:22**
+As of **2024-04-17 22:33:56**
 
 ## Newspaper Stats
 
-*Scraped **19,418** Articles*
+*Scraped **19,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,66 @@ newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,059
 economynextcom | 1,099
-adalk | 1,619
+adalk | 1,620
 tamilmirrorlk | 2,263
 adaderanalk | 2,333
 virakesarilk | 2,898
-dailymirrorlk | 2,994
+dailymirrorlk | 2,995
 adaderanasinhalalk | 3,164
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,417 (100.0%) of 19,418 articles have been extended.
+19,418 (100.0%) of 19,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### පාලිත තෙවරප්පෙරුමගේ දේහය නිවසට රැගෙන එයි
+### The body of the controlled Thewarapperuma brings home
 
 *2024-04-17 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195738) · `si`
 
-අභාවප්‍රාප්ත හිටපු නියෝජ්‍ය අමාත්‍යවරයෙකු වු පාලිත තෙවරප්පෙරුම මහතාගේ දේහය අද (17) රාත්‍රියේ මතුගම පිහිටි ඔහුගේ නිවස වෙත රැගෙන ආවේය.
+The remains of late Deputy Minister Palitha Thewarapperuma were brought home to Matugama, with a funeral scheduled for next Friday. His death sparked a large public outpouring, highlighting his significant impact.
 
-තෙවරප්පෙරුම මහතාගේ පවුලේ ඥාතීන් සඳහන් කළේ දේහය පිළිබඳ අවසන් කටයුතු එළඹෙන 19 වන සිකුරාදා සිදුකරන බවය.
+🟩
 
-පාලිත තෙවරප්පෙරුම මහතාගේ මරණය සැලවූ මොහොතේ සිට ප්‍රදේශවාසීන් ඇතුළු විශාල පිරිසක් කළුතර ශික්ෂණ රෝහල් පරිශ්‍රයට සහ ඔහුගේ නිවසට රැස්වී තිබුණි.
+The remains of the late Deputy Minister Palitha Thewarapperuma was brought to his home at Matugama night.
 
-ඔහු ජීවත්ව සිටියදීම සිය සුසානය නිර්මාණය කර තිබීමත් රට තුළ කතාබහට ලක්වුණු තවත් මාතෘකාවක් වුණි.
+The relatives of Mr. Thevarapperuma family stated that the funeral will be held on Friday next 19th.
 
-අභාවප්‍රාප්ත තෙවරප්පෙරුම මහතාගේ දේහය ඔහු ජීවත් වු මතුගම යටදොළවත්ත පිහිටි නිවස වෙත මෙලෙස රැගෙනවිත් තිබේ.
+From the moment the death of Palitha Thevarapperuma, a large number of residents and residents met at the Kalutara Teaching Hospitals and his home.
+
+While he was still alive, he was created by another chatted topic in the country.
+
+The remains of the late Thewarapperuma's body have been raised to the house in Yadawalawatta, Matgama.
 
 ◼️
 
 [Data](articles/6858c712.json)
+
+[Extended Data](ext_articles/6858c712.ext.json)
+
+---
+
+### Decrease in personal monthly expenses
+
+*2024-04-17 22:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Decrease-in-personal-monthly-expenses/108-280862) · `en`
+
+Colombo, April 17 (Daily Mirror) - The monthly expenses of a person in Sri Lanka decreased in February compared to January, the Census and Statistics Department said.
+
+They said the minimum amount required for a person in this country to meet their basic needs is Rs. 16,975 per month, and a person living in the Colombo district needs Rs. 18,308 to meet the minimum basic needs.
+
+The Department revealed this while releasing the Official Poverty Line Chart for the month of February 2024.
+
+According to the National Consumer Price Index released for this month, the main reason for the reduction of the poverty line was that inflation in the country has decreased compared to the previous month.
+
+The Department further mentioned that the lowest monthly expenditure is Rs. 16,231 in the Moneragala district.
+
+◼️
+
+[Data](articles/0a959bfb.json)
 
 ---
 
@@ -405,6 +431,24 @@ While confidentiality agreements limit the disclosure of specific details, the s
 [Data](articles/adbe3505.json)
 
 [Extended Data](ext_articles/adbe3505.ext.json)
+
+---
+
+### සිරිල් ගාමිණී පියතුමන් යළිත් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කැඳවයි
+
+*2024-04-17 19:39:21* · [`adalk`](https://www.ada.lk/breaking_news/සිරිල්-ගාමිණී-පියතුමන්-යළිත්-අපරාධ-පරීක්ෂණ-දෙපාර්තමේන්තුවට-කැඳවයි/11-409136) · `si`
+
+පාස්කු ඉරිදා බෝම්බ ප්‍රහාරය පිළිබඳ කරුණු විමසීම සඳහා ගරු සිරිල් ගාමිණී ප්‍රනාන්දු පියතුමන් නැවත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවට කැඳවා තිබේ.
+
+19දාපෙරවරු 10ට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිටින ලෙස එම දෙපාර්තමේන්තුවේ විශේෂ විමර්ශන අංශයේ III ස්ථානාධිපති, කාන්තා ප්‍රධාන පොලිස් පරීක්ෂක නාලනී දිසානායක මහත්මියගේ අත්සනින් යුතුව ලැබුණු ලිපියකින් මේ බව දැනුම් දුන් බව උන්වහන්සේ සඳහන් කළහ.
+
+%පාස්කු ප්‍රහාරයට අදාළව අවස්ථාගත කරුණු තමන් දන්නා බවට තොරුතුරු ලැබී ඇති බැවින් ඒ සම්බන්ධයේන් කරුණු විමසීම සඳහා අදහස් කර අත^ යන්න එම ලිපියෙන් දැනුම් දුන් බවද සිරිල් ගාමිණී පියතුමා පැවසූහ.
+
+මීට පෙර රාජ්‍ය බුද්ධි අංශයේ අධ්‍යක්ෂ ජනරාල් සුරේෂ් සලේ මහතා විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත යොමු කළ පැමිණිල්ලකට අනුව 2021 නොවැම්බර් 03වැනිදා සිට 2021 නොවැම්බර් 08 දක්වා දින තුනක් සිරිල් ගාමිණී ප්‍රනාන්දු පියතුමන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවට කැඳවනු ලැබිණ.
+
+◼️
+
+[Data](articles/df8a7358.json)
 
 ---
 
@@ -2211,51 +2255,5 @@ During the meeting, the Secretary to the Ministry of Home Affairs, Public Admini
 [Data](articles/ed8cf6f7.json)
 
 [Extended Data](ext_articles/ed8cf6f7.ext.json)
-
----
-
-### Human burials inside the Alziba Hospital occupied by Israeli soldiers - son identified his mother's body
-
-*2024-04-17 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181280) · `ta`
-
-A son identified his mother's body among human burials found in Alziba Hospital, occupied by Israeli soldiers. Al Jazeera reported the discovery and the public's search for missing family members. The Israeli soldiers were removed on April 1st, after two weeks of control. Witnesses claimed some bodies were hospital patients. Medical staff and an ambulance driver confirmed the presence of bodies and the activities of the soldiers.
-
-🟩
-
-Alziba Hospital occupied by Israeli soldiers has found a massive human burial at Hospital, Alzheera said.
-
-Al Jazeera said the public gathered there to see if the bodies of their missing families were seen there.
-
-Since the holy festival of Muslims, I have been visiting the bodies from this human burial, and I have identified my mother's body.
-
-He confirmed that it was my mother with a different identity found on his feet.
-
-Al Jazeera has said that this is one of the many human burials identified at the Alziba Hospital and that the Israeli soldiers have been recovered on the first day of April after they have been under control of the hospital for two weeks.
-
-However, some of the witnesses said that some of the bodies recovered in the human body were the bodies of patients who were admitted to the hospital.
-
-Medical workers have said that we know where to search for the bodies as we have seen the killings.
-
-...
-
-[Data](articles/368b5003.json)
-
-[Extended Data](ext_articles/368b5003.ext.json)
-
----
-
-### GCE (O/L) admissions for candidates by next week
-
-*2024-04-17 11:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GCE-OL-admissions-for-candidates-by-next-week/108-280835) · `en`
-
-Admissions for the GCE Ordinary Level (O/L) examinations will be issued by next week, the Examinations Department said.
-
-Accordingly, admissions will be issued to school applicants through the respective principals and to private applicants by post.
-
-◼️
-
-[Data](articles/4830736c.json)
-
-[Extended Data](ext_articles/4830736c.ext.json)
 
 ---

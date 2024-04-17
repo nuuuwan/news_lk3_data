@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 21:53:24**
+As of **2024-04-17 22:06:30**
 
 ## Newspaper Stats
 
-*Scraped **19,415** Articles*
+*Scraped **19,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,46 @@ adalk | 1,619
 tamilmirrorlk | 2,263
 adaderanalk | 2,333
 virakesarilk | 2,898
-dailymirrorlk | 2,993
-adaderanasinhalalk | 3,162
+dailymirrorlk | 2,994
+adaderanasinhalalk | 3,163
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,411 (100.0%) of 19,415 articles have been extended.
+19,415 (100.0%) of 19,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### හිරුණිකාට නොතීසි
+
+*2024-04-17 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195737) · `si`
+
+මැයි මස 08 වනදා අධිකරණය හමුවේ පෙනී සිට කරුණු දක්වන ලෙස දන්වා අභියාචනාධිකරණය විසින් හිටපු පාර්ලිමේන්තු මන්ත්‍රීනී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය වෙත නොතීසි නිකුත් කර තිබේ.
+
+ඒ, ගල්කිස්ස මහෙස්ත්‍රාත් අධිකරණය විසින් දුන් නියෝගයක් විවේචනය කිරීම තුළින් අධිකරණයට අපහාසයක් සිදුකර ඇතැයි චෝදනා කරමින් ඉදිරිපත් කර තිබෙන පෙත්සමක් සම්බන්ධයෙනි.
+
+◼️
+
+[Data](articles/3d186cb3.json)
+
+---
+
+### Fire breaks out near Police DIG office in Kandy
+
+*2024-04-17 21:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fire-breaks-out-near-Police-DIG-office-in-Kandy/108-280860) · `en`
+
+Colombo, April 17 (Daily Mirror) - A fire broke out in the Mana forest area near the official residence of the Police DIG in the Bahirawakanda Grama Niladhari area in Kandy this evening, the Kandy Disaster Management office said.
+
+The Fire Department of the Kandy Municipality is carrying out the necessary activities to control the fire.
+
+◼️
+
+[Data](articles/19507a99.json)
+
+---
 
 ### Iran rescues 21 Sri Lankan crewmen from sinking ship in Gulf of Oman
 
@@ -50,19 +78,27 @@ Torrential rains have battered the Strait of Hormuz, Oman and the United Arab Em
 
 [Data](articles/79fa0947.json)
 
+[Extended Data](ext_articles/79fa0947.ext.json)
+
 ---
 
-### ඉරානය ශ්‍රී ලාංකිකයන් 21ක් බේරා ගනී
+### Iran saves 21 Sri Lankans
 
 *2024-04-17 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195736) · `si`
 
-ඕමාන් බොක්ක ආසන්න මුහුදේ ගිලී යමින් තිබූ නැවක සිටි ශ්‍රී ලාංකික කාර්යමණ්ඩල‍ සාමාජිකයන් 21 දෙනෙක් ඉරානය විසින් බේරා ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Iran rescues 21 Sri Lankans from a ship near Oman's coast, sailing under the Cook Islands flag.
 
-එම වාර්තා වැඩිදුරටත් සඳහන් කරන්නේ අදාළ නෞකාව කුක් දූපත් ධජය යටතේ යාත්‍රා කළ නැවක බවය.
+🟩
+
+According to Iran, 21 Sri Lankan staff members who were on the sea drowned in the sea near the bench of Oman have rescued.
+
+These reports further states that the ship was on a ship sailing under Cook Island Flag.
 
 ◼️
 
 [Data](articles/94675441.json)
+
+[Extended Data](ext_articles/94675441.ext.json)
 
 ---
 
@@ -86,6 +122,8 @@ Meanwhile, the IGP said that the underworld and drug trafficking will be elimina
 
 [Data](articles/3f956869.json)
 
+[Extended Data](ext_articles/3f956869.ext.json)
+
 ---
 
 ### Iran rescues 21 Sri Lankan crewmen from sinking tanker in Gulf of Oman
@@ -101,6 +139,8 @@ Five of the crewmen received medical care from Jask emergency services and were 
 ◼️
 
 [Data](articles/1157a5b8.json)
+
+[Extended Data](ext_articles/1157a5b8.ext.json)
 
 ---
 
@@ -178,7 +218,7 @@ The South Asian nation has been hoping to reach a deal in the next few weeks, th
 
 Further delays would take the talks too close to the planned presidential elections, Standard Chartered said.
 
-Read more: Sri Lanka Bonds Fall as Restructuring Talks Need More Time
+The nation’s dollar bonds were among top performers on Wednesday, with the March 2029 note advancing 2 cents to 56.4 cents per dollar. Bonds maturing in March 2030 and April 2028 also climbed.
 
 ...
 
@@ -2211,49 +2251,5 @@ The proposal will be prepared by the Minister of Tourism, Ali Sabri and Public S
 [Data](articles/bf050faf.json)
 
 [Extended Data](ext_articles/bf050faf.ext.json)
-
----
-
-### Dubai airport floats in flood
-
-*2024-04-17 11:28:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டுபாய்-விமான-நிலையம்-வெள்ளத்தில்-மிதக்கிறது/50-336036) · `ta`
-
-Dubai airport flooded due to heavy rains, impacting air traffic and causing diversion of flights. Flooding affected roads, commercial areas, and residential zones, leading to school closures and work-from-home arrangements. The storm also hit Bahrain and Oman, with 18 deaths reported in Oman.
-
-🟩
-
-Dubai is high in the deserted areas. Heavy rains throughout the United Arab Emirates caused flooding in various places. Thus, the water on the roads is stagnant. Vehicle traffic was also paralyzed in many places.
-
-As a result of heavy rains and floods, air traffic was affected. Flood water at the Dubai International Airport, which is the most popular in the world, has a major impact on international travelers in Dubai.
-
-Following this, many flights that arrived at the airport were diverted to other areas. The arrival of several flights was affected by the arrival of up to 100 flights in the evening. Countless flights were outdated and canceled. This was a damage to passengers.
-
-Floods and cars, in the water of the air, sinks half of the water. Flooding in the area of planes. The roads arriving at the airport were also submerged.
-
-...
-
-[Data](articles/e6196100.json)
-
-[Extended Data](ext_articles/e6196100.ext.json)
-
----
-
-### To the attention of the o/l examiners
-
-*2024-04-17 11:26:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சார்த்திகளின்-கவனத்துக்கு/175-336035) · `ta`
-
-Starting May 6, 2023, the Department of Examinations will launch examination cards for students. School applicants can get cards from principals, while personal applicants can receive them by mail.
-
-🟩
-
-The Department of Examinations has announced that the issue of examination card for students will be launched from next week, as the Education General Standard Examination begins on May 6, 2023.
-
-Accordingly, school applicants can obtain permit cards through principals. Personal applicants can obtain permit cards via post. Remble
-
-◼️
-
-[Data](articles/392e091a.json)
-
-[Extended Data](ext_articles/392e091a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 10:33:57**
+As of **2024-04-17 10:51:40**
 
 ## Newspaper Stats
 
-*Scraped **19,289** Articles*
+*Scraped **19,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,038
 dailyftlk | 1,058
 economynextcom | 1,084
 adalk | 1,603
-tamilmirrorlk | 2,249
+tamilmirrorlk | 2,250
 adaderanalk | 2,319
 virakesarilk | 2,877
 dailymirrorlk | 2,973
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,287 (100.0%) of 19,289 articles have been extended.
+19,289 (100.0%) of 19,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### கொத்து ரொட்டியை ரூ.1900 க்கு விற்க முயன்றவர் சிக்கினார்
+
+*2024-04-17 10:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/கொத்து-ரொட்டியை-ரூ-1900-க்கு-விற்க-முயன்றவர்-சிக்கினார்/95-336025) · `ta`
+
+கொழும்பு, வாழைத்தோட்டம் புதுக்கடை பிரதேசத்தின் வீதி உணவுப் பகுதியில் உணவு வாங்க வந்த வெளிநாட்டவரை  தகாத வார்த்தைகளால் திட்டிய சம்பவம் தொடர்பில் கடை உரிமையாளர் ஒருவர் வாழைத்தோட்ட பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+வெளிநாட்டவர் ஒரு கொத்து ரொட்டியின் விலையைக் கேட்டபோது, ​​ கடைக்காரர் 1900 ரூபாய் என்று கூறினார். வெளிநாட்டவர் அதை வாங்க மறுத்துவிட்டார்.
+
+இச்சம்பவம் தொடர்பான காணொளி ஒன்று சமூகவலைத்தளங்களில் வலுவாகப் பரவி வருகிறது. காணொளியின் அடிப்படையில் விசாரணைகளை ஆரம்பித்த பொலிஸார் சந்தேக நபரை கைது செய்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் கொழும்பு 12 பகுதியைச் சேர்ந்த 51 வயதுடையவர் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/9b34cce5.json)
+
+---
 
 ### Flooding in Dubai turns planes into boats
 
@@ -52,17 +70,25 @@ Its latest update shared at 2pm AEST reads: “Flooding and road blockages have 
 
 [Data](articles/d54d648a.json)
 
+[Extended Data](ext_articles/d54d648a.ext.json)
+
 ---
 
-### දමිතා අධිකරණයට රැගෙන එයි
+### Damitha is taken to court
 
 *2024-04-17 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195713) · `si`
 
-මුල්‍ය වංචා චෝදනා මත අත්අඩංගුවට ගත් රංගන ශිල්පිණී දමිතා අබේරත්න මහත්මියව අද (17) උදෑසන කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය වෙත රැගෙන විත් තිබේ.
+Damitha Abeyratne faces court today.
+
+🟩
+
+The actor Damitha Abeyratne has been taken to the Fort Magistrate's Court today (17).
 
 ◼️
 
 [Data](articles/3e934d28.json)
+
+[Extended Data](ext_articles/3e934d28.ext.json)
 
 ---
 
@@ -2149,29 +2175,5 @@ He was given the position of Deputy Minister of Internal Affairs, Wayamba Develo
 [Data](articles/c2930328.json)
 
 [Extended Data](ext_articles/c2930328.ext.json)
-
----
-
-### 42 percent of sour banana farmers have been small farmers
-
-*2024-04-16 19:12:05* · [`adalk`](https://www.ada.lk/breaking_news/ඇඹුල්-කෙසෙල්-ගොවීන්ගෙන්-සියයට-42ක්-සුළු-පරිමාණ-ගොවීන්-වෙලා/11-409111) · `si`
-
-42% of sour banana farmers are small-scale. Economic crisis impacts fruit and vegetable production, with bananas showing the most decline. The study suggests promoting fruit value-added products and GAP practices. No main sales chains for vegetables and fruits post-crisis, recommending intervention in seed, fertilizer, and agrochemical markets.
-
-🟩
-
-The HETE Kobbekaduwa farmers have revealed that about 42% of the sour banana farmers cultivated more than 5 acres of sour banana farmers have become small scale farmers.
-
-Accordingly, the export of fruit value added products should be promoted to encourage greater use of Gap (good agricultural use) among farmers.has been.
-
-The research has been conducted to study the impact of the production and marketing of vegetables and fruits in Sri Lanka due to the economic crisis.Up.
-
-Accordingly, all the crops used to study is, beans, eggplant, sour, sour, corkututtu banana and papaya cultivation. The largest decline has been observed in bananas cultivation and is 60 කාර්. Production costs, the decrease in the decrease, reducing the number of deportation, download, reduce the decrease, decrease in the decrease and profit.. Additional (10% -45%) and the number of frequency of the number of fertilizer use is observed in all crops.
-
-...
-
-[Data](articles/25ff4fbd.json)
-
-[Extended Data](ext_articles/25ff4fbd.ext.json)
 
 ---

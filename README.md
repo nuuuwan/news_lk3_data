@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 08:34:04**
+As of **2024-04-17 08:51:50**
 
 ## Newspaper Stats
 
-*Scraped **19,269** Articles*
+*Scraped **19,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,66 +15,126 @@ newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,058
 economynextcom | 1,084
-adalk | 1,601
+adalk | 1,602
 tamilmirrorlk | 2,246
 adaderanalk | 2,316
 virakesarilk | 2,874
-dailymirrorlk | 2,968
+dailymirrorlk | 2,972
 adaderanasinhalalk | 3,136
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,266 (100.0%) of 19,269 articles have been extended.
+19,269 (100.0%) of 19,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### අභාවප්‍රාප්ත ඒ. ටී. ආරියරත්නගේ අවසන් කටයුතු රාජ්‍ය ගෞරව සහිතව
+### Roads. T. Ariyaratne's funeral activities with State Honor
 
 *2024-04-17 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195709) · `si`
 
-සර්වෝදය ශ්‍රමදාන ව්‍යාපාරයේ නිර්මාතෘ ආචාර්ය ඒ.ටී. ආරියරත්න මහතා අභාවප්‍රාප්ත වී තිබේ.
+A.T. Ariyaratne, founder of Sarvodaya Shramadana, passed away while receiving treatment. Born in 1931, he was a teacher and a key figure in the Sri Lankan NGO scene, receiving the Sri Lanka Award in 2007. His body will be displayed at Sarvodaya Headquarters and Independence Square, Colombo, before the funeral.
 
-ඊයේ (16) රාත්‍රී ඒ මහතා පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදී අභාවප්‍රාප්ත වුණි.
+🟩
 
-1931 වසරේදී උපත ලද ඒ මහතා ගාල්ල මහින්ද විද්‍යාලයේ ආදි ශිෂ්‍යයෙකි.
+Sarvodaya Shramadana Business A.T. Mr. Ariyaratne has passed away.
 
-කොළඹ නාලන්දා විද්‍යාලයේ ගුරුවරයෙකු ලෙස කලක් කටයුතු කළ ආරියරත්න මහතා සර්වෝදය ශ්‍රමදාන පදනම බිහිකිරීම සඳහා මූලික අඩිතාලම දමන්නේ එම අවධියේදීය.
+He passed away while he was receiving treatment at a private hospital yesterday.
 
-1950 දශකයේදී එතුමාගේ සංකල්පයකට අනුව බිහිකෙරුණු සර්වෝදය ශ්‍රමදාන ව්‍යාපාරය දශක 06ක් පුරා මෙරට සරණක් අවැසි ජනතාවගේ උන්නතිය වෙනුවෙන් ක්‍රියාකාරීව කටයුතු කළ සංවිධානයකි.
+Born in 1931, he was a past pupil of Mahinda College, Galle.
 
-ශ්‍රී ලංකාවේ විශාලතම රාජ්‍ය නොවන සංවිධානය වන සර්වෝදය ව්‍යාපාරය වෙනුවෙන් දෙස් විදෙස් ඇගයීම් රැසකට ද ආරියරත්න මහතා පාත්‍රවුණි.
+At that time, Ariyaratne was a teacher at Nalanda College Colombo.
 
-ශ්‍රී ලාංකිකයෙකු වෙනුවෙන් මෙරට පිරිනැමෙන ඉහළම සම්මානය වන ශ්‍රී ලංකාභිමාන්‍ය සම්මානය ඔහුට පිරිනැමෙන්නේ 2007 වසරේදීය.
+The Sarvodaya Shramadana Movement, which was created by his concept in the 1950s, is an organization active for the advancement of people of Sri Lanka for six decades.
 
-එමෙන්ම පිලිපීනයේ රැමෝන් මැග්සේසේ සම්මානයට පවා එතුමා පාත්‍ර වූයේ සර්වෝදය ව්‍යාපාරය හරහා මෙරටට සිදුකළ සේවාව ඇගයීම වෙනුවෙනි.
+Mr. Ariyaratne has borrowed the Sarvodaya Business, Sri Lanka's largest NGO, Sri Lanka.
+
+The Sri Lanka Award, the highest award for a Sri Lankan, is awarded to him in 2007.
+
+He was also appointed as the Ramon Macedsey in the Philippines.
+
+Dr. A. T. The body of Ariyaratne is to be used at the Sarvodaya Headquarters in Moratuwa this afternoon.
+
+A.Th, which is placed on the same place until 12.00 pm on the 20th.. The body of Ariyaratne is to be taken to the Independence Square of Colombo evening.
 
 ...
 
 [Data](articles/efdc3747.json)
 
+[Extended Data](ext_articles/efdc3747.ext.json)
+
 ---
 
-### பொலிஸார் தாக்குதல்.. இளைஞன் வைத்தியசாலையில் அனுமதி
+### පාලිත සිකුරාදා යන්නම යයි
+
+*2024-04-17 08:11:30* · [`adalk`](https://www.ada.lk/breaking_news/පාලිත-සිකුරාදා-යන්නම-යයි/11-409113) · `si`
+
+අභාවප්‍රාප්ත වූ හිටපු නියෝජ්‍ය අමාත්‍යවරයෙක් වන පාලිත තේවරප්පෙරුම මහතාගේ අවසන් කටයුතු ලබන සිකුරාදා සිදු කිරීමට නියමිත බව වාර්තා වෙයි.
+
+විදුලිය සැර වැදීමකින් මියගිය ඒ මහතාගේ සිරුර පශ්චාත් මරණ පරීක්ෂණ කටයුතු සඳහා කලුතර ශික්ෂණ රෝහලේ තබා තිබේ.
+
+මිය යන විට 64 වැනි වියේ පසුවූ තේවරප්පෙරුම මහතා මෙරට දේශපාලනයේ පෙරළිකාර චරිතයක් වන අතර ඔහු සමාජ සේවකයෙක් ලෙසද ප්‍රකටය.
+
+ඔහු සිය සුසානය මිය යාමට පෙර සිටම සූදානම් කර තිබීම කා අතරත් කථා බහට ලක්වූ මාතෘකාවක් විය.
+
+◼️
+
+[Data](articles/485ba3b9.json)
+
+---
+
+### Child diarrhoea on the rise
+
+*2024-04-17 08:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Child-diarrhoea-on-the-rise/108-280795) · `en`
+
+Colombo, April 16 (Daily Mirror) -  Health officials have noticed significant prevalence of diarrhoeal disease among children these days, urging parents to exercise caution.
+
+Speaking to Daily Mirror, Lady Ridgeway Hospital (LRH) consultant pediatrician Dr. Deepal Perera said “It is a normal scenario to witness an uptick in cases of child diarrhoea following the extended holidays since children tend to consume more food from outside sources.’’
+
+The symptoms include frequent loose or watery stools, abdominal pain or cramps, loss of appetite, nausea and vomiting.
+
+“If these symptoms are visible in their children, parents are urged to immediately take their children for medical care.”
+
+Furthermore, parents are advised to be more vigilant about what they feed their children with.
+
+Meanwhile, the pediatrician cautioned of the prevalence of Typhoid fever among children.
+
+...
+
+[Data](articles/ef938a7b.json)
+
+---
+
+### Police attack.. Adolescent hospital
 
 *2024-04-17 08:04:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பொலிஸார்-தாக்குதல்-இளைஞன்-வைத்தியசாலையில்-அனுமதி/72-336015) · `ta`
 
-வெளிநாட்டில் இருந்து வருகைதந்துள்ள நபர் ஒருவருடன் சேர்ந்து புளியங்குளம் பொலிஸார் தன்னை தாக்கியதாக தெரிவித்து வவுனியா வைத்தியசாலையில் குடும்பஸ்தர் ஒருவர் அனுமதிக்கப்பட்டுள்ளார்.
+A family member was admitted to Vavuniya Hospital for assaulting a foreigner. The father from Chinnapavaravarasankulam was involved in a police investigation, during which he was attacked and detained. He was released after lodging a complaint with the Vavuniya Human Rights Commission.
 
-குறித்த சம்பவம் நேற்றய தினம் மாலை இடம்பெற்றது. வவுனியா சின்னப்பூவரசங்குளத்தை சேர்ந்த ஒரு பிள்ளையின் தந்தையே  இவ்வாறு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்
+🟩
 
-நேற்றயதினம் ஒரு விசாரணை ஒன்று இருப்பதாக புளியங்குளம் பொலிஸார் என்னை அழைத்தனர். நான் அங்கு சென்றநிலையில் எனது தொலைபேசி கைப்பை என்பன பறிக்கப்பட்டு இரு கைகளிலும் விலங்கு போடப்பட்டது.
+A family member has been admitted to the Vavuniya Hospital for allegedly assaulting a person from abroad.
 
-பொலிஸ் நிலையத்தின் பதில் பொறுப்பதிகாரி உட்பட ஏனைய பொலிஸாரும் என்னை பிடித்துவைத்திருக்க, வெளிநாட்டில் இருந்து வருகைதந்திருந்த நபர் ஒருவர் பொலிஸ் நிலையத்திற்குள் வைத்து என்னை தாக்கியிருந்தார்.
+The incident took place yesterday evening. The father of a child from Chinnapavaravarasankulam in Vavuniya has been admitted to the hospital
 
-பின்னர் நாய்போல என்னை இழுத்துச்சென்ற அவர்கள் அந்த நபரின் வாகனத்தில் ஏற்ற முற்பபட்டனர். இதன்போது நான் போதுமக்களின் உதவியினை நாடி பிரதான வீதியை மறித்திருந்தேன்.
+Puliyankulam police called me yesterday that there was an investigation. As I went there, my phone handbag was snatched and the animal was placed in both hands.
+
+Other policemen, including the officer in charge of the police station, had caught me, and a man from abroad attacked me inside the police station.
+
+Then they dragged me like a dog and tried to load the man's vehicle. At this time, I had crossed the main street with the help of the people.
+
+Then again dragged me into the police station. There, the police officer in charge of the police officer attacked my chest with his Sabbath's legs.
+
+Then a police officer who arrived there had confessed me and sent me and my wife home from the police station.
 
 ...
 
 [Data](articles/7fc86dde.json)
+
+[Extended Data](ext_articles/7fc86dde.ext.json)
 
 ---
 
@@ -300,6 +360,22 @@ With this new route expansion, this will increase to four destinations, and it w
 
 ---
 
+### Fits Air launches new direct flights between Colombo and Dhaka from today
+
+*2024-04-17 06:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fits-Air-launches-new-direct-flights-between-Colombo-and-Dhaka-from-today/108-280812) · `en`
+
+Colombo, April 17 (Daily Mirror) - Fits Air is expanding its wings, adding Colombo-Dhaka direct flights from today, the Airport and Aviation Services (Sri Lanka) (Pvt) Limited announced.
+
+Currently, Fits Air operates to three destinations from Colombo such as Dubai, Chennai and the Maldives.
+
+With this new route expansion, this will increase to four destinations, and it will contribute immensely to the development of the travel, trade, and tourism industries between Sri Lanka and Bangladesh.
+
+◼️
+
+[Data](articles/8b7ad82e.json)
+
+---
+
 ### Heavy rains in several areas today
 
 *2024-04-17 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195703) · `si`
@@ -404,19 +480,25 @@ Since the operation was launched in mid-December, the police have arrested tens 
 
 ---
 
-### அதிவேக நெடுஞ்சாலைகளில் அதிக வருமானம்
+### High -speed income on highways
 
 *2024-04-17 05:50:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலைகளில்-அதிக-வருமானம்/175-336012) · `ta`
 
-கடந்த 6 நாள்களில் அதிவேக நெடுஞ்சாலைகளில் சுமார் 6 லட்சத்து 74 ஆயிரம் வாகனங்கள் பயணித்துள்ளன என வீதி அபிவிருத்தி அதிகார சபையின் பணிப்பாளர் நாயகம் பிரியந்த சூரியபண்டார தெரிவித்துள்ளார்.
+"High-speed income on highways: 6.74 lakh vehicles in 6 days. Road Development Authority advises drivers to be cautious, with 53 accidents reported."
 
-இதேவேளை, அதிவேக நெடுஞ்சாலைகளை பயன்படுத்தும் போது வாகனங்களின் நிலைமை குறித்து அதிக கவனம் செலுத்துமாறு வீதி அபிவிருத்தி அதிகாரசபை சாரதிகளை அறிவுறுத்தியுள்ளது.
+🟩
 
-கடந்த சில நாள்களில் மாத்திரம் அதிவேக நெடுஞ்சாலைகள் உள்ளிட்ட வீதிகளில் 53 வாகன விபத்துகள் பதிவாகியுள்ளன என அந்த அதிகாரசபையின் பணிப்பாளர் நாயகம் பிரியந்த சூரியபண்டார தெரிவித்துள்ளார். (a)
+The Director General of the Road Development Authority Priyantha Suriyabandara said that about 6 lakhs 74 thousand vehicles have been traveling on highways over the past six days.
+
+Meanwhile, the Road Development Authority has advised drivers to pay more attention to the situation of the vehicles when using highways.
+
+The Director General of the Authority Priyapandara said that 53 vehicle accidents have been reported in the streets, including highway highways in the past few days.. (A)
 
 ◼️
 
 [Data](articles/e7f44302.json)
+
+[Extended Data](ext_articles/e7f44302.ext.json)
 
 ---
 
@@ -463,6 +545,24 @@ Wijeyadasa Rajapakse said that there is no confidence in any political party in 
 [Data](articles/9d02a685.json)
 
 [Extended Data](ext_articles/9d02a685.ext.json)
+
+---
+
+### Addressing gender inequality key priority for Sri Lanka: ADB
+
+*2024-04-17 04:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Addressing-gender-inequality-key-priority-for-Sri-Lanka-ADB/108-280806) · `en`
+
+As Sri Lanka looks to reach higher growth aspirations, addressing gender inequality is a key priority, the Asian Development Bank said.
+
+In an economically active population of 8.5 million in 2022, female labour force participation in Sri Lanka was only 32.1 percent, down from 33.6 percent in 2018 prior to the economic crisis.
+
+Key reasons for this include lack of safe and affordable childcare facilities, inadequate provision for flexible working hours, onerous household responsibilities and care duties socially imposed on women, and public transport inadequacies for women.
+
+“While the private sector has addressed these shortcomings to some extent, the government can tackle gender inequality through a more supportive framework for female labour participation by introducing flexible work hours and mandating equal pay, the ADB said in its recent outlook report.
+
+...
+
+[Data](articles/fb0a34ca.json)
 
 ---
 
@@ -741,6 +841,22 @@ The Principal of Saram and the Principal of Saram and the Principal of Saramatat
 [Data](articles/29820c3f.json)
 
 [Extended Data](ext_articles/29820c3f.ext.json)
+
+---
+
+### March PMI indicates faster expansion in economic activities
+
+*2024-04-17 02:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MarchPMI-indicates-faster-expansion-in-economic-activities/108-280807) · `en`
+
+Further strengthening the health of the economy, the Purchasing Managers’ Index (PMI) showed continuous expansion in activities across manufacturing and services sectors, rekindling hopes that the ongoing recovery is going to be durable and solid.
+
+Accordingly, the manufacturing sector PMI recorded an index value of 62.5 in March, from 56.0 index points in February reflecting that the once languishing sector is now expanding at a rapid pace.
+
+In fact March PMI reading is the highest in three years, in a further sign that the economy has unequivocally exited the crisis although some uncertainties remain.
+
+...
+
+[Data](articles/14b725b2.json)
 
 ---
 
@@ -2055,133 +2171,5 @@ In detention dwellers were submitted to the court, saying that the suspects were
 [Data](articles/4f74c3c2.json)
 
 [Extended Data](ext_articles/4f74c3c2.ext.json)
-
----
-
-### Raghava Lawrence supports the traditional art of Tamils
-
-*2024-04-16 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181247) · `ta`
-
-Raghava Lawrence, actor and choreographer, supports the traditional Tamil art of Mallar Kambam through the Lawrence Foundation. The group, trained in Maller Kambam, performs on stage in Chennai, showcasing their talent and receiving audience applause. Lawrence aims to aid the group's livelihood by offering free bicycles and plans a movie to fund house building for them.
-
-🟩
-
-Actor and choreographer Raghava is establishing a Lawrence Foundation. The Art Group of the Disabled Persons, which operates under the name of hand, entertains the audience to climb the stage at the participation of Raghava Lawrence.
-
-At this juncture, the group is now learning the art of the Tamil traditional art, Mallar Kambam, and has performed it on stage and receiving the attention and applause of the audience.
-
-The event was held in Chennai. During this time, a group of hand -held men who had been trained in the art of Maller Kambam participated in the arts and a team that taught them the art.
-
-Speaking about this, actor Raghava Lawrence said, “I am doing my best to help the livelihood of the transgender people in the hand -held art group.. The chances of the group's stage dance performances are currently declined.
-
-...
-
-[Data](articles/4adf85e2.json)
-
-[Extended Data](ext_articles/4adf85e2.ext.json)
-
----
-
-### Do you get the reception of digital site fans 'Salt tamarind' ...!?
-
-*2024-04-16 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181244) · `ta`
-
-"Digital site 'Salt Tamarind' by Disney Plus Hot Star, featuring new series like 'Madagam', 'Label', 'Heart Beat', and 'Salt Tiger', is gaining popularity among younger fans. Directed by M. Ramesh Bharati, it explores modern romance and social responsibility. The series, produced by Wicked Tele Wistas, has been well-received."
-
-🟩
-
-Wherever you have a leisure time, as home, travel and office, the younger generation fans are also increasing to find the works that are released on digital site.
-
-For these fans, leading digital site companies are producing new movies, internet series and shows.
-
-Disney Plus Hot Star, the leading digital site, which has the largest subscribers in India. 'Madagam', 'Label', 'Heart Beat' continued to support fans by providing internet series. Following the winning internet series, the new Internet series has been created under the name of 'Salt Tiger'.
-
-Director M. Ramesh Bharati has starred in the 'Salt Tuli Karam' website, including Ponvannan, Vanitha, Aisha, Naveen, Ashwini, Deepika, Krishna, Farina, Raj Iyappa.
-
-Sheikh has composed the video of Parthiban and Satish Kumar. The Internet series is produced by Wicked Tele Wistas for Disney Plus Hot Star.
-
-...
-
-[Data](articles/c8c8030a.json)
-
-[Extended Data](ext_articles/c8c8030a.ext.json)
-
----
-
-### Vishal's 'Ratnam' preview of the bad words
-
-*2024-04-16 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181248) · `ta`
-
-"Vishal's 'Ratnam' preview, featuring bad words, stars Vishal, Priya Bhavani Shankar, and others, directed by Hari. The film, produced by Karthikeyan Santhanam, has a unique screenplay and has garnered over a million views."
-
-🟩
-
-The preview of the film 'Ratnam', which will be released in Tamil and Telugu in Tamil and Telugu, has been released on the 26th of this month with 'Revolutionary Commander' Vishal.
-
-Vishal, Priya Bhavani Shankar, Samudrakani, Yogi Babu, Gautam Vasudev Menon have starred in the film 'Ratnam', directed by director Hari, who introduces himself a unique style in the Tamil film industry.
-
-M.. The film, which has been recorded by Sukumar, has composed the film 'Rockstar' Devi Sri Prasad. Producer Karthikeyan Santhanam has produced the film on behalf of Karthik Subburaj's Stone Bench Films for Ji Studios.
-
-The film's preview has been released as the first look, teaser and songs of the film have been released.
-
-In the preview of Chennai's favorite word and popular bad words throughout Tamil Nadu, the characters are emotionally reaching the expectations of the fans.
-
-...
-
-[Data](articles/de3079d3.json)
-
-[Extended Data](ext_articles/de3079d3.ext.json)
-
----
-
-### Teaser release of 'Hara' starring Mohan
-
-*2024-04-16 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/181249) · `ta`
-
-"Teaser of 'Hara' starring Mohan, directed by Vijay Sri Ji, features a cast including Manol, Yogi Babu, and others. Composed by Prakat Munusamy Mano Dinakaran, produced by Mohanraj, the film aims to raise awareness about the law."
-
-🟩
-
-The teaser of the movie 'Hara' has been released as the hero of the story after a short break, and the hero of the story, 'Mike Mohan'.
-
-Directed by director Vijay Sri Ji, Mohan, Manol, Yogi Babu, Kaushik, Anitra Nair, Motta Rajendran, Suresh Menon, Vanitha Vijayakumar, Mime Gopi, Adhavan, Singam Tiger, Manopala.
-
-Prakat Munusamy Mano Dinakaran +Mohan +Vijay Sreeji has composed the film and composed the film for the film.. The film was made on behalf of JM Studios and G. Media.. B.. Produced by Mohanraj.
-
-The film crew participated in the special launch held in Chennai. The film's director Vijay Sri Ji said, “Mohan is the hero of the film. When he told him the story, he said, 'What a market I have.
-
-Why do you play the hero. But the story is liked. He said that if only the little change in the storytelling would be better. We have accepted that and completed the picture. This movie is liked by all of us.
-
-...
-
-[Data](articles/274a1025.json)
-
-[Extended Data](ext_articles/274a1025.ext.json)
-
----
-
-### Court of Appeal orders re-allocation of Haj quotas
-
-*2024-04-16 17:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-of-Appeal-orders-re-allocation-of-Haj-quotas/108-280781) · `en`
-
-Colombo, April 16 (Daily Mirror) -  The Court of Appeal has ordered the suspension of the previous allocation of quotas for Haj pilgrims for 2024 and to include an aggrieved travel agent for proper allocation.
-
-Each year the Saudi Arabian government allocates quotas to each country in order to manage the influx of pilgrims.
-
-Sri Lanka had been allocated 3,500 pilgrims this year which had been allocated to different travel agents.
-
-The Court of Appeal made the interim order following a petition filed by a travel agent.
-
-The travel agent alleged that the Haj Committee had arbitrarily suspended their travel license for a period of two years.
-
-In the petition the petitioner United Travels said that the decision by the commitee to suspend his license for two years was done for collateral reasons.
-
-The petitioner asked that he be registered as a travel operator for 2024 and to suspend the allocation made in December 2023.
-
-...
-
-[Data](articles/b6ebe07f.json)
-
-[Extended Data](ext_articles/b6ebe07f.ext.json)
 
 ---

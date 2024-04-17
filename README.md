@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 14:18:30**
+As of **2024-04-17 14:34:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,334 (100.0%) of 19,335 articles have been extended.
+19,335 (100.0%) of 19,335 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -116,17 +116,23 @@ Speaking further Minister Nimal Siripala de Silva said.
 
 ---
 
-### දමිතා හා සැමියා යළි රිමාන්ඩ්
+### Damitha and husband remanded again
 
 *2024-04-17 12:53:14* · [`adalk`](https://www.ada.lk/breaking_news/දමිතා-හා-සැමියා-යළි-රිමාන්ඩ්/11-409124) · `si`
 
-කොරියාවේ රැකියා දෙන බව පවසා මුදල් වංචා කිරීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට රක්ෂිත බන්ධනාගාර ගත කර සිටින නිළි දමිතා අබේරත්න සහ ඇයගේ සැමියා මේ මස 24 වනදා දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය අද නියම කළේය.
+Damitha and her husband were remanded in custody by the Colombo Fort Magistrate's Court today, following a decision by the Criminal Investigations Department.
 
-ඒ එම නඩුව අද කැඳවූ අවස්ථාවේදීය. එහදි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඉදිරිපත් කළ කරුණු සලකා බැලිමෙන් අනතුරුව යුවළ යළි බන්ධනාගාර ගත කෙරිණි.
+🟩
+
+The Colombo Fort Magistrate's Court today (Fort) Court today (Fort) Court today remanded to remand custody.
+
+When the case was taken up today. The couple was remanded after considering the issues that the Criminal Investigations Department.
 
 ◼️
 
 [Data](articles/6f86a65a.json)
+
+[Extended Data](ext_articles/6f86a65a.ext.json)
 
 ---
 
@@ -1704,7 +1710,7 @@ The Department of Meteorology has requested the public to take necessary tempora
 
 Colombo, April 16 (Daily Mirror) -  Tax payers will have to cough up as much as Rs. 45 million as the cost of conducting yet another three-day parliamentary debate on the Easter Sunday attack for the fourth time, with uncertainty looming whether it will be a meaningless exercise with key questions unanswered once again.
 
-Previously, three such debates took place in the House, but failed to leave the question regarding the mastermind behind the attack unanswered. People, mostly the victims are still disturbed by speculation and demand justice in the form of ascertaining the truth behind the whole saga.
+Previously, three such debates took place in the House, but failed to answer the question regarding the mastermind behind the attack. People, mostly the victims are still disturbed by speculation and demand justice in the form of ascertaining the truth behind the whole saga.
 
 The Business Committee of Parliament that met on on April 5 decided to have a three day debate on the Easter Sunday attacks during the first week of sessions after the Sinhala and Tamil New year.
 

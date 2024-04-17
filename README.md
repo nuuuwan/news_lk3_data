@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 09:03:25**
+As of **2024-04-17 09:18:40**
 
 ## Newspaper Stats
 
-*Scraped **19,279** Articles*
+*Scraped **19,280** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,058
 economynextcom | 1,084
 adalk | 1,602
 tamilmirrorlk | 2,248
-adaderanalk | 2,317
+adaderanalk | 2,318
 virakesarilk | 2,875
 dailymirrorlk | 2,972
 adaderanasinhalalk | 3,137
@@ -26,23 +26,49 @@ adaderanasinhalalk | 3,137
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,274 (100.0%) of 19,279 articles have been extended.
+19,279 (100.0%) of 19,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### வாரியபொல கலால் திணைக்கள அதிகாரி கைது
+### Arrested by the Department of Warpola
 
 *2024-04-17 08:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/181268) · `ta`
 
-வாரியபொல பகுதியைச் சேர்ந்த 31 வயதான கலால் திணைக்கள அதிகாரி கைது செய்யப்பட்டுள்ளார்.
+A 31-year-old officer from Wariyapola was arrested for twisting "Surya Mangalya" by Sinhalese Rohana Bethake on social media.
 
-இந்த அதிகாரி புத்தாண்டை குறிக்கும்  சிங்களவர்களின் ரோஹன பெத்தகே பாடிய  “சூரிய மாங்கல்ய” என்ற பாடலை திரிபுபடுத்தி பாடி சமூக ஊடகங்களில் பதிவிட்டுள்ளார்.
+🟩
+
+A 31 -year -old excuse department officer from Wariyapola has been arrested.
+
+The officer has twisted the song "Surya Mangalya" sung by the Sinhalese Rohana Bethake, who refers to the New Year and posted it on social media.
 
 ◼️
 
 [Data](articles/c7048b56.json)
+
+[Extended Data](ext_articles/c7048b56.ext.json)
+
+---
+
+### Sri Lanka implements new online visa system from today
+
+*2024-04-17 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98677/sri-lanka-implements-new-online-visa-system-from-today) · `en`
+
+A new visa process and the online visa application portal of the Department of Immigration and Emigration are implemented today (17).
+
+The new visa methodology, relevant fees, requirements to be met and the validity period in Sri Lanka were earlier published in the Extraordinary Gazette No. 2360/24, dated 27 November 2023.
+
+In a press release, the department said arrangements have been made together with GBS Technology Service and IVS Global Institute to implement the e-visa system – the online methodology to be introduced in lieu of the ETA (Electronic Travel Authorization) methodology currently in use.
+
+More details about the online visa application portal can be accessed from www.srilankaevisa.lk, the press release read further.
+
+The department highlighted that it intends to provide a fast and efficient visa application process through the introduction of the new online portal, in a bid to woo foreign tourists and investors.
+
+◼️
+
+[Data](articles/4ce26c1f.json)
 
 ---
 
@@ -64,41 +90,55 @@ The department highlighted that it intends to provide a fast and efficient visa 
 
 [Data](articles/9613dd4f.json)
 
+[Extended Data](ext_articles/9613dd4f.ext.json)
+
 ---
 
-### බස් ධාවනය ගැන දැනුම්දීමක්
+### Notification about bus run
 
 *2024-04-17 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195710) · `si`
 
-අලුත් අවුරුද්ද සඳහා ගම්බිම් බලා ගිය මගී ජනතාවගේ පහසුව සඳහා අද (17) දිනයේ බස් රථ වැඩි ධාරිතාවයකින් ධාවනය කිරීමට සැලසුම් කර ඇති බව ලංකා පෞද්ගලික බස්රථ හිමයන්ගේ සංගමය පවසයි.
+The Lanka Private Buses Union plans to increase bus capacity for New Year, with 9,000 buses used nationwide. Deputy Train Rest works begin today, led by Deputy General Manager J. Yadapola. Chandana Vidowe, Railway Drivers Association, assures smooth train operations.
 
-එහි සභාපති ගැමුණු විජේරත්න මහතා පැවසුවේ, දිවයින පුරා බස්රථ 9,000ක් යොදා ඇති බවය.
+🟩
 
-අද සිට සමාන්‍ය පරිදි දුම්රිය ධාවන කටයුතු සිදුකරන බවද දුම්රිය දෙපාර්තමේන්තුවේ නියෝජ්‍ය සමාන්‍යාධිකාරී එන්. ජේ. ඉඳිපොලගේ මහතා පවසයි.
+The Lanka Private Buses Union states that the construction of the buses have been planned to operate a higher capacity of the country's passengers for the New Year.
 
-දුම්රිය රියදුරන්ගේ සංගමයේ සභාපති චන්දන වියන්දුව මහතා සඳහන් කළේ, සියලුම රියදුරන් ධාවනාගාර වෙත පැමිණීම හේතුවෙන් ගැටලුවකින් තොරව දුම්රිය ධාවනය සිදුකළ හැකි බවය.
+The Chairman of the country Mr. Gemunu Wijeratne said that 9,000 buses have been used island wide.
+
+Deputy Train Rest works will be held from today and is Deputy General Manager. J. Says Mr. Yadapola.
+
+The Railway Drivers Association Association Chandana Vidowe said that the trains could be carried out without a problem due to the arrival of all drivers.
 
 ◼️
 
 [Data](articles/4744c6f1.json)
 
+[Extended Data](ext_articles/4744c6f1.ext.json)
+
 ---
 
-### யாழில். காதலியையும், தாயையும் வெட்டிய இளைஞன் தற்கொலை?
+### In the yarns. A young man who cut his girlfriend and mother suicide?
 
 *2024-04-17 08:36:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-காதலியையும்-தாயையும்-வெட்டிய-இளைஞன்-தற்கொலை/71-336016) · `ta`
 
-யாழ்ப்பாணம் - பண்டத்தரிப்பு , பணிப்புலம் பகுதியில் நேற்றைய தினம் அதிகாலை இளைஞன் ஒருவர் தனது காதலியையும், காதலியின் தாயையும் கூரிய ஆயுதத்தால் வெட்டிய பின்னர் தனது உயிரை மாய்த்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+A young man in Jaffna's Pandithara area reportedly cut his girlfriend and her mother with a sharp weapon, leading to their rescue and hospitalization.
 
-இளைஞனும் அப்பகுதியை சேர்ந்த யுவதியும் காதலித்து வந்துள்ளனர். இந்நிலையில் கடந்த சில நாட்களாக காதலர்களுக்கு இடையில் முரண்பாடு ஏற்பட்ட நிலையில் , காதலியின் வீட்டுக்குச் சென்று மறைந்திருந்த இளைஞன் , வீட்டார் காலை வீட்டின் கதவை திறந்த போது , வீட்டினுள் நுழைந்து , காதலியையும் , அவரது தாயையும் கூரிய ஆயுதத்தால் வெட்டி விட்டு அங்கிருந்து தப்பி சென்றுள்ளார்.
+🟩
 
-சத்தம் கேட்டு கூடிய அயலவர்கள் வெட்டு காயங்களுடன் காணப்பட்ட தாயையும் மகளையும் மீட்டு , வைத்தியசாலைக்கு அனுப்பி வைத்துள்ளனர்.
+It is reported that a young man and a girlfriend's mother had been cut off after cutting a sharp weapon in Jaffna - Pandithara, Workshop area yesterday morning.
 
-அந்நிலையில் வீட்டில் இருந்து சற்று தொலைவில் இருந்த காணி ஒன்றில் காதலியை வெட்டியதாக சந்தேகிக்கப்படும் இளைஞன் தனது உயிரை மாய்த்த நிலையில் சடலமாக மீட்கப்பட்டுள்ளார்
+The young man and the woman from the area are in love. In the past few days, the young man, who had gone to the girlfriend's house, opened the door of the house, and entered the house, and his mother and his mother had fled with a sharp weapon.
+
+Neighbors who hear the noise have rescued their mother and daughter with cut wounds and sent it to the hospital.
+
+A young man suspected of cutting a girlfriend in a land that was a little farther away from home
 
 ◼️
 
 [Data](articles/d06274d6.json)
+
+[Extended Data](ext_articles/d06274d6.ext.json)
 
 ---
 
@@ -560,17 +600,23 @@ Since the operation was launched in mid-December, the police have arrested tens 
 
 ---
 
-### வெங்காய இறக்குமதி தொடர்பில் இன்று  தீர்மானம்
+### Resolution on Onion Import Today
 
 *2024-04-17 05:56:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெங்காய-இறக்குமதி-தொடர்பில்-இன்று-தீர்மானம்/175-336013) · `ta`
 
-இந்தியாவில் இருந்து பெரிய வெங்காயத்தை அரசாங்கத்தின் ஊடாக இறக்குமதிய செய்வதா அல்லது தனியார் மூலம் இறக்குமதி செய்வதா என்பது தொடர்பில் இன்று தீர்மானிக்கப்படும் என வர்த்தக அமைச்சர் நளின் பெர்னாண்டோ தெரிவித்துள்ளார்.
+"Commerce Minister Nalin Fernando announced today's decision on importing large onions from India, either through the government or privately. India has granted permission to export 10,000 metric tonnes to Sri Lanka."
 
-10,000 மெட்ரிக் தொன் பெரிய வெங்காயத்தை இலங்கைக்கு ஏற்றுமதி செய்வதற்கு இந்தியா அனுமதி வழங்கியுள்ளதாக இலங்கைக்கான இந்திய உயர்ஸ்தானிகராலயம் அறிவித்திருந்தனர். (a)
+🟩
+
+Commerce Minister Nalin Fernando said today will be decided to import large onions from India through the government or to import privately.
+
+The Indian High Commission for Sri Lanka has announced that India has given permission to export 10,000 metric tonnes of large onions to Sri Lanka. (A)
 
 ◼️
 
 [Data](articles/242aa550.json)
+
+[Extended Data](ext_articles/242aa550.ext.json)
 
 ---
 
@@ -2147,25 +2193,5 @@ The petitioner demanded that he register himself as the travel director for 2024
 [Data](articles/282ee4b5.json)
 
 [Extended Data](ext_articles/282ee4b5.ext.json)
-
----
-
-### Heat advisory issued for several provinces, districts
-
-*2024-04-16 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98667/heat-advisory-issued-for-several-provinces-districts) · `en`
-
-The Meteorology Department has issued a Heat Index Advisory for Northern, North-central, Eastern and North-Western provinces and Gampaha, Colombo districts for tomorrow (17).
-
-Heat index, the temperature felt on human body is expected to increase up to ‘Caution level’ at some places in Northern, North-central, Eastern and North-Western provinces and Gampaha, Colombo districts, it warned.
-
-As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity while continuing activity could result in heat cramps.
-
-Thus, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
-
-...
-
-[Data](articles/9d09c2c5.json)
-
-[Extended Data](ext_articles/9d09c2c5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 14:03:29**
+As of **2024-04-17 14:18:30**
 
 ## Newspaper Stats
 
-*Scraped **19,334** Articles*
+*Scraped **19,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,059
 economynextcom | 1,084
-adalk | 1,608
+adalk | 1,609
 tamilmirrorlk | 2,257
 adaderanalk | 2,324
 virakesarilk | 2,885
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,334 (100.0%) of 19,334 articles have been extended.
+19,334 (100.0%) of 19,335 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -113,6 +113,20 @@ Speaking further Minister Nimal Siripala de Silva said.
 [Data](articles/15d58346.json)
 
 [Extended Data](ext_articles/15d58346.ext.json)
+
+---
+
+### දමිතා හා සැමියා යළි රිමාන්ඩ්
+
+*2024-04-17 12:53:14* · [`adalk`](https://www.ada.lk/breaking_news/දමිතා-හා-සැමියා-යළි-රිමාන්ඩ්/11-409124) · `si`
+
+කොරියාවේ රැකියා දෙන බව පවසා මුදල් වංචා කිරීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට රක්ෂිත බන්ධනාගාර ගත කර සිටින නිළි දමිතා අබේරත්න සහ ඇයගේ සැමියා මේ මස 24 වනදා දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය අද නියම කළේය.
+
+ඒ එම නඩුව අද කැඳවූ අවස්ථාවේදීය. එහදි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඉදිරිපත් කළ කරුණු සලකා බැලිමෙන් අනතුරුව යුවළ යළි බන්ධනාගාර ගත කෙරිණි.
+
+◼️
+
+[Data](articles/6f86a65a.json)
 
 ---
 
@@ -2223,29 +2237,5 @@ Ryan Barak lost 14 balls with 34 runs. Rajasthan Royals faced a major crisis wit
 [Data](articles/6ae746ca.json)
 
 [Extended Data](ext_articles/6ae746ca.ext.json)
-
----
-
-### Action against traders violating Consumer Act during New Year - Consumer Authority
-
-*2024-04-17 00:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/181264) · `ta`
-
-The Kandy District Consumer Affairs Authority has fined 86 traders for violating the Consumer Act during the Sinhala and Tamil New Year, charging 383,000 rupees in 156 cases.
-
-🟩
-
-During the Sinhala and Tamil New Year, the Kandy District Consumer Affairs Authority (CEB) has taken action against 86 traders who sold goods in Kandy district in violation of the Consumer Act.
-
-Persons involved in the court have been presented in court under allegations, including lack of prices, selling outdated goods, lack of weight and violation of the rules.
-
-Dushara Ranapana said that three hundred and eighty -three thousand rupees have been charged with 156 cases by the Kandy District Consumer Service Authority till March this year.
-
-Senior Investigation Officer of the Kandy District Consumer Service Authority said that the tests were conducted in several cities including Nawalapitiya, Digana, Teldeniya, Akurana, Galagadera and Murudhawa.
-
-◼️
-
-[Data](articles/c28c86ad.json)
-
-[Extended Data](ext_articles/c28c86ad.ext.json)
 
 ---

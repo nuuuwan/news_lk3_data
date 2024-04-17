@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 12:05:13**
+As of **2024-04-17 12:18:21**
 
 ## Newspaper Stats
 
-*Scraped **19,313** Articles*
+*Scraped **19,315** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,059
 economynextcom | 1,084
-adalk | 1,605
+adalk | 1,606
 tamilmirrorlk | 2,255
-adaderanalk | 2,321
+adaderanalk | 2,322
 virakesarilk | 2,882
 dailymirrorlk | 2,978
 adaderanasinhalalk | 3,143
@@ -26,57 +26,97 @@ adaderanasinhalalk | 3,143
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,309 (100.0%) of 19,313 articles have been extended.
+19,313 (100.0%) of 19,315 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### කොත්තු මුදලාලිට ඇප
+### Kottu Mudalai released on bail
 
 *2024-04-17 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195716) · `si`
 
-කොළඹ අලුත්කඩේ ප්‍රදේශයේ ආහාර මිලදී ගැනීමට පැමිණි විදේශිකයෙකුට තර්ජනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් ව්‍යපාරිකයෙකු ඇප මත මුදා හැරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කර තිබේ.
+Kottu Mudalai released on bail by Colombo Magistrate's Court for threatening a foreigner in Aluthkade.
+
+🟩
+
+The Colombo Magistrate's Court has set a carrier to release the delegation in connection with the threatening a foreigner in the Aluthkade area in Colombo.
 
 ◼️
 
 [Data](articles/1b7396d9.json)
 
+[Extended Data](ext_articles/1b7396d9.ext.json)
+
 ---
 
-### ஈஷி கேஷ்  மூலம் போதைப்பொருள் விநியோகம்: சிலாபத்தில் பெண் கைது!
+### Drug supplies by Ishi Cash: Woman arrested in Chilaw
 
 *2024-04-17 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181281) · `ta`
 
-சிலாபத்திலிருந்து பல பிரதேசங்களுக்கு ஈஷி கேஷ் மற்றும் வேறு பல முறைகளைப் பயன்படுத்தி ஐஸ் போதைப்பொருள் விநியோகத்தில் ஈடுபட்டிருந்த  பெண் ஒருவரை சந்தேகத்தின் பேரில்  முந்தல் பொலிஸார் கைது செய்துள்ளனர்.
+Mundal police arrested a woman in Chilaw for distributing ice drugs using Ishi Cash. Seized an ice drug worth Rs. A 35-year-old from Mundala was detained.
 
-கைது செய்யப்பட்ட சந்தேக நபரிடம் சுமார் இரண்டு இலட்சம் ரூபா பெறுமதியான ஐஸ் போதைப்பொருள், பல்வேறு வங்கிகளுக்கு சொந்தமான ஏ.ரி.எம் அட்டைகள் மற்றும் கைத்தொலைபேசிகள் மற்றும்   பத்தாயிரம் ரூபா பணம் ஆகியவற்றைப் பொலிஸார் கைப்பற்றியுள்ளனர்.
+🟩
 
-முந்தல அகுணவில பிரதேசத்தை சேர்ந்த 35 வயதுடைய வயம்ப குமாரி என்ற பெண்ணே இவ்வாறு கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Mundal police have arrested a woman who was involved in ice drugs using Ishi Cash and many other methods from Chilaw to several areas.
+
+Police have seized an ice drug of about Rs.
+
+A 35 -year -old woman from Mundala, Akunavila area, has been arrested.
 
 ◼️
 
 [Data](articles/541fbbfd.json)
 
+[Extended Data](ext_articles/541fbbfd.ext.json)
+
 ---
 
-### இஸ்ரேலிய படையினர் ஆக்கிரமித்திருந்த அல்ஸிபா மருத்துவமனைக்குள் மனித புதைகுழிகள் - தனது தாயாரின் உடலை அடையாளம் கண்டார் மகன்
+### Final rites of Dr. Ariyaratne to be performed with full state honours
+
+*2024-04-17 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98681/final-rites-of-dr-ariyaratne-to-be-performed-with-full-state-honours-) · `en`
+
+The final rites of the late Dr. A. T. Ariyaratne, the founder and the President Emeritus of the Sarvodaya Shramadana Movement of Sri Lanka, will be performed with full state honours.
+
+Sri Lankabhimanya Ahangamage Tudor Ariyaratne passed away on Tuesday (16) at the age of 93 while receiving treatment at a private hospital in Colombo.
+
+Following his demise, President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena and the officials of Sarvodaya convened a meeting to discuss the funeral arrangements.
+
+During the meeting, the Secretary to the Ministry of Home Affairs, Public Administration & Provisional Councils, Pradeep Yasaratne was instructed to see to it that the final rites of the late Dr. Ariyaratne are performed with full state honours.
+
+...
+
+[Data](articles/ed8cf6f7.json)
+
+---
+
+### Human burials inside the Alziba Hospital occupied by Israeli soldiers - son identified his mother's body
 
 *2024-04-17 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181280) · `ta`
 
-இஸ்ரேலிய படையினர் ஆக்கிரமித்திருந்த காசாவின் அல்ஸிபா மருத்துவமனையில் பாரிய மனித புதைகுழியொன்றை மருத்துவ பணியாளர்கள் கண்டுபிடித்துள்ளனர் எனஅல்ஜசீரா தெரிவித்துள்ளது.
+A son identified his mother's body among human burials found in Alziba Hospital, occupied by Israeli soldiers. Al Jazeera reported the discovery and the public's search for missing family members. The Israeli soldiers were removed on April 1st, after two weeks of control. Witnesses claimed some bodies were hospital patients. Medical staff and an ambulance driver confirmed the presence of bodies and the activities of the soldiers.
 
-காணாமல்போன தங்களின் குடும்பத்தவர்களின் உடல்கள் அங்கு காணப்படுகின்றனவா என்பதை பார்ப்பதாக பொதுமக்கள் அங்கு திரண்டனர் என அல்ஜசீரா தெரிவித்துள்ளது.
+🟩
 
-முஸ்லீம்களின் புனித பண்டிகை காலம் முதல் நான் இந்த மனித புதைகுழியிலிருந்து உடல்கள் தோண்டப்படுவதை பார்வையிட்டு வந்துள்ளேன் அவ்;வேளை எனது தாயாரின் உடலை அடையாளம் கண்டேன் என  ஒருவர் தெரிவித்துள்ளார்.
+Alziba Hospital occupied by Israeli soldiers has found a massive human burial at Hospital, Alzheera said.
 
-காலில் காணப்பட்ட வித்தியாசமான அடையாளத்தை வைத்தே அது எனது தாய் என்பதை உறுதி செய்தேன் என அவர்தெரிவித்துள்ளார்.
+Al Jazeera said the public gathered there to see if the bodies of their missing families were seen there.
 
-அல்ஸிபா மருத்துவமனையில் அடையாளம் காணப்பட்டுள்ள பல மனித புதைகுழிகளில் இதுவும் ஒன்று என தெரிவித்துள்ள அல்ஜசீரா  இரண்டு வாரங்கள் மருத்துவமனையை தனது கட்டுப்பாட்டின் கீழ் வைத்திருந்த பின்னர் ஏப்பிரல் முதலாம் திகதி இஸ்ரேலிய படையினர் இந்த மனித புதைகுழிகள் மீட்கப்பட்டுள்ளன எனவும் குறிப்பிட்டுள்ளது.
+Since the holy festival of Muslims, I have been visiting the bodies from this human burial, and I have identified my mother's body.
+
+He confirmed that it was my mother with a different identity found on his feet.
+
+Al Jazeera has said that this is one of the many human burials identified at the Alziba Hospital and that the Israeli soldiers have been recovered on the first day of April after they have been under control of the hospital for two weeks.
+
+However, some of the witnesses said that some of the bodies recovered in the human body were the bodies of patients who were admitted to the hospital.
+
+Medical workers have said that we know where to search for the bodies as we have seen the killings.
 
 ...
 
 [Data](articles/368b5003.json)
+
+[Extended Data](ext_articles/368b5003.ext.json)
 
 ---
 
@@ -91,6 +131,8 @@ Accordingly, admissions will be issued to school applicants through the respecti
 ◼️
 
 [Data](articles/4830736c.json)
+
+[Extended Data](ext_articles/4830736c.ext.json)
 
 ---
 
@@ -525,6 +567,26 @@ It is expected that the Tamil people should decide properly and relaxed in the u
 [Data](articles/79548884.json)
 
 [Extended Data](ext_articles/79548884.ext.json)
+
+---
+
+### කෙහෙළියගේ නිල රථ තවමත් භාර දි නෑ
+
+*2024-04-17 09:51:11* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-නිල-රථ-තවමත්-භාර-දි-නෑ/11-409118) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා රක්ෂිත බන්ධනාගාරගත කිරීමෙන් පසුවත් ඔහු අමාත්‍යවරයාව සිටියදී ලබාදුන් නිල වාහන දෙක තවමත් ඔහු විසින් රජයට භාර දී නොමැති බවත් ඔහුගේ පවුලේ සාමාජිකයන් විසින් එම වාහන දෙක පරිහරණය කරන බවත් සෞඛ්‍ය අමාත්‍යාංශයේ නිලධාරියෙක් සඳහන් කළ බව ඩේලි මිරර් පුවත් සේවය වාර්තා කරයි.
+
+මීට අමතරව හිටපු අමාත්‍යවරයාට විජේරාම මාවතේ ලබාදී තිබූ නිල නිවසද මෙතෙක් ඔහු ආපසු භාර දී නෙමැති බව අදාළ නිලධාරියා සඳහන් කර තිබේ.
+
+රාජ්‍ය නිලධාරියකු රිමාන්ඩ් භාරයේ සිටී නම් ඔහුට ලැබී ඇති සියලු වරප්‍රසාද වහා අහෝසි වේ. එසේනම් හිටපු අමාත්‍ය රඹුක්වැල්ල මහතාට විශේෂ සැලකිල්ලක් දක්වන්නේ මන්දැයි එම නිලධාරියා ප්‍රශ්න කළේය.
+
+රක්ෂිත බන්ධනාගාරගතව සිටින රඹුක්වැල්ල අමාත්‍යවරයාගේ පවුලේ සාමාජිකයින් ද වැලිකඩ බන්ධනාගාරයේ මේ වන විට රඳවා සිටින අමාත්‍යවරයාගේ සුවදුක් විමසීම සඳහා පැමිණෙන්නේ අදාළ නිල රථ දෙකින් බවද එම නිලධාරියා සඳහන් කර තිබෙ.
+
+ටොයෝටා ප්‍රාඩෝ රථයක් සහ මර්සිඩීස් වර්ගයේ වාහනයක් මෙසේ ඔහු ආපසු අමාත්‍යාංශය වෙත භාර දී නොමැත.
+
+◼️
+
+[Data](articles/57a5c0a5.json)
 
 ---
 
@@ -2131,53 +2193,5 @@ During his walk along the Pekoe Trail, covering a distance of 3.2km, the Preside
 [Data](articles/5eaef7fd.json)
 
 [Extended Data](ext_articles/5eaef7fd.ext.json)
-
----
-
-### Sri Lanka, Kyrgyzstan conclude inaugural foreign office consultations
-
-*2024-04-16 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98672/sri-lanka-kyrgyzstan-conclude-inaugural-foreign-office-consultations-) · `en`
-
-The inaugural Sri Lanka-Kyrgyz Republic Foreign Office consultations have successfully concluded in Bishkek, Kyrgyzstan on 15 April.
-
-Foreign Secretary of Sri Lanka Aruni Wijewardane and Deputy Minister of Foreign Affairs of the Kyrgyz Republic Avazbek Atakhanov co-chaired the consultations.
-
-The consultations are part of Sri Lanka’s initiative to strengthen bilateral ties with the countries of the Central Asia region.
-
-A Memorandum of Understanding (MoU) on Bilateral Cooperation was signed between the two Foreign Ministries. Sri Lanka established diplomatic relations with the Kyrgyz Republic in 1996, and this is the first high-level visit to take place between the two countries.
-
-During the official talks, the two sides prioritized expanding economic cooperation, focusing on apparel, gems and jewellery, tea, food and beverages, wellness and ayurvedic products, education services and ICT sectors
-
-...
-
-[Data](articles/63812c2b.json)
-
-[Extended Data](ext_articles/63812c2b.ext.json)
-
----
-
-### President's direct tourism visit to explore the renaissance of Nuwara Eliya's tourism industry
-
-*2024-04-16 22:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/181261) · `ta`
-
-President Ranil Wickremesinghe visited Nuwara Eliya to assess the revival of its tourism industry, highlighting the Peko Trail, a 300km mountain range, and discussing the future of plantation workers. The visit also focused on education, health, housing, and the potential of the Peko Trail to boost tourism.
-
-🟩
-
-President Ranil Wickremesinghe made a direct visit to the Nuwara Eliya - Udapusalavai - Court Lodge Estate on Tuesday morning to investigate the revival of the tourism industry near Nuwara Eliya.
-
-"Peko Trail" is a 300km mountain range that passes through the central hills of Sri Lanka. It is one of the most secret paths of Asia.
-
-The path, known as Peko Trail, starts in Kandy and passes through Hotton South National Forest Park. After that, you can travel through Haputtale - Ella and complete the journey in the beautiful city of Nuwara Eliya.This route has been used to transport from plantations to factories during the British shoemakers.
-
-President Court Lodge, who was on a walk for a 3.2 km walk through the Peko Trail road, also discussed with the people of the estate.
-
-The people of the area gave a special welcome to President Ranil Wickremesinghe and congratulated the Tamil and Sinhala New Year to the people.
-
-...
-
-[Data](articles/464500ac.json)
-
-[Extended Data](ext_articles/464500ac.ext.json)
 
 ---

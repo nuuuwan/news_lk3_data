@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 01:51:16**
+As of **2024-04-18 02:03:47**
 
 ## Newspaper Stats
 
-*Scraped **19,442** Articles*
+*Scraped **19,444** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 205
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,038
-dailyftlk | 1,069
+dailyftlk | 1,071
 economynextcom | 1,099
 adalk | 1,620
 tamilmirrorlk | 2,264
@@ -26,11 +26,51 @@ adaderanasinhalalk | 3,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,436 (100.0%) of 19,442 articles have been extended.
+19,442 (100.0%) of 19,444 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### Siyambalapitiya assures forwarding Cabinet paper to address unpaid statutory payments for plantation workers
+
+*2024-04-18 01:40:17* · [`dailyftlk`](https://www.ft.lk/news/Siyambalapitiya-assures-forwarding-Cabinet-paper-to-address-unpaid-statutory-payments-for-plantation-workers/56-760752) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya assured yesterday that a Cabinet paper addressing unpaid statutory payments for plantation workers is set to be forwarded to the Cabinet next week.
+
+“Under this proposal, it is anticipated that Rs. 500 million will be disbursed, inclusive of surcharges for the Employees’ Provident Fund (EPF) and the Employees’ Trust Fund (ETF),” he added.
+
+Highlighting the significance of prioritising the legal rights of the working community, Siyambalapitiya noted that initiating reforms within the plantation sector should commence by safeguarding the rights of employees.
+
+The State Minister asserted that this initiative marks the first duty of the year, underscoring the importance of promptly addressing the longstanding issue.
+
+He assured that necessary instructions have been provided to the Ministry Secretary to expedite the process.
+
+...
+
+[Data](articles/c75a1b92.json)
+
+---
+
+### DP Education opens Sri Lanka’s first digital preschool in Bibile
+
+*2024-04-18 01:38:42* · [`dailyftlk`](https://www.ft.lk/news/DP-Education-opens-Sri-Lanka-s-first-digital-preschool-in-Bibile/56-760751) · `en`
+
+Further expands IT Campus initiative and DP Silicon Valley IT office program
+
+DP Education, the philanthropic initiative of MP Dhammika Perera’s DP Foundation, yesterday opened the country’s first digital pre-school in Bibile in Uva province.
+
+Perera also opened the latest branch of DP IT Campus at the Bibile Wagama Sri Saddaramalankara Pirivena consisting of 21 computers with internet connection enabling students and youth to learn software development and coding free of charge. The initiative at Bibile is with the blessings and support of Venerable Badullagammana Gunaratne Maha Thero.
+
+The opening of the DP IT Campus in Bibile is part of DP Education’s initiative to ensure a Campus in each of the 131 Divisional Secretariats in the country.
+
+A DP Silicon Valley IT office which houses those who have acquired software and coding skills to undertake projects was also opened in Bibile along with Language School.
+
+◼️
+
+[Data](articles/0fc9015c.json)
+
+---
 
 ### CA Sri Lanka Kuwait Chapter partners Kuwait Accountants & Auditors Association
 
@@ -47,6 +87,8 @@ The Memorandum of Understanding (MoU) was signed by CA Sri Lanka President Hesha
 ...
 
 [Data](articles/75956858.json)
+
+[Extended Data](ext_articles/75956858.ext.json)
 
 ---
 
@@ -68,6 +110,8 @@ Since 2019, he headed the pioneering Clinical Research Company, RemediumOne Ltd 
 
 [Data](articles/c1e60879.json)
 
+[Extended Data](ext_articles/c1e60879.ext.json)
+
 ---
 
 ### Concordia Estate achieves all-time record price
@@ -86,6 +130,8 @@ This line of tea was sold and marketed by Forbes & Walker Tea Brokers Ltd.
 
 [Data](articles/6f23de8b.json)
 
+[Extended Data](ext_articles/6f23de8b.ext.json)
+
 ---
 
 ### Techtextil and Texprocess 2024 beckon Sri Lankan firms
@@ -102,6 +148,8 @@ These events provide numerous benefits for Sri Lanka’s technical textile secto
 
 [Data](articles/68241d4f.json)
 
+[Extended Data](ext_articles/68241d4f.ext.json)
+
 ---
 
 ### Pelwatte Dairy welcomes new Non-Executive Directors: Mohamed Rizwie and Deepthie Wickramasuriya
@@ -115,6 +163,8 @@ Pelwatte Dairy, a leading dairy company, announces the appointment of Mohamed Ri
 ...
 
 [Data](articles/5d7989f6.json)
+
+[Extended Data](ext_articles/5d7989f6.ext.json)
 
 ---
 
@@ -137,6 +187,8 @@ Accordingly, direction has been issued to implement the programme as soon as pos
 ◼️
 
 [Data](articles/63cca7be.json)
+
+[Extended Data](ext_articles/63cca7be.ext.json)
 
 ---
 
@@ -2163,43 +2215,5 @@ The Head of EU, Joseph Boylle, said they were working to impose sanctions agains
 [Data](articles/8904d139.json)
 
 [Extended Data](ext_articles/8904d139.ext.json)
-
----
-
-### Using abusive language towards foreigner: Street food vendor granted bail
-
-*2024-04-17 13:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Using-abusive-language-towards-foreigner-Street-food-vendor-granted-bail/108-280841) · `en`
-
-Colombo, April 17 (Daily Mirror)- A street food vendor who used abusive language towards American YouTuber Emeka Iwueze after quoting the price for a portion of Kottu Roti at Rs.1,900 at a street food stall in Hulftsdorp, was granted bail today after being produced before the Colombo Chief Magistrate’s Court.
-
-The Keselwatta Police arrested the suspect for using abusive language towards a foreigner while negotiating the price for a portion of Kottu Roti.
-
-The suspect, a resident of Colombo 12, was ordered to be released on a cash bail of Rs.50,000 with a Rs.1 million surety bail.
-
-◼️
-
-[Data](articles/a967716a.json)
-
-[Extended Data](ext_articles/a967716a.ext.json)
-
----
-
-### Price-gouging & verbal hostility: Arrested street food vendor granted bail
-
-*2024-04-17 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98683/price-gouging-verbal-hostility-arrested-street-food-vendor-granted-bail) · `en`
-
-The owner of a street food eatery in Aluthkade, who was arrested for price-gouging a foreign tourist and behaving in a verbally aggressive manner, has been granted bail.
-
-When the accused was produced before the court earlier today (17), he was ordered to be released on a cash bail of Rs. 50,000 and surety bail of Rs. 1 million.
-
-On Tuesday (16), the police arrested the 51-year-old in question for trying to charge Rs. 1,900 from a foreigner for a Kottu Roti and verbally harassing him when he refused to buy the food item at the quoted price.
-
-The arrest came hot on the heels of public outcry on social media after a video of the incident went viral.
-
-◼️
-
-[Data](articles/debe4d24.json)
-
-[Extended Data](ext_articles/debe4d24.ext.json)
 
 ---

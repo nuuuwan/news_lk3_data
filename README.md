@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 00:18:14**
+As of **2024-04-18 00:33:41**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 3,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,425 (100.0%) of 19,429 articles have been extended.
+19,429 (100.0%) of 19,429 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### 22 வயதுக்குட்பட்ட ஆசிய குத்துச்சண்டையில் இலங்கையின் அதிசிறந்த நால்வர்
+### Sri Lanka's best in Asian boxing under 22 years of age
 
 *2024-04-18 00:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/181339) · `ta`
 
-கஸக்ஸ்தானின் அஸ்டானாவில் இம்மாதம் 25ஆம் திகதியிலிருந்து மே மாதம் 8ஆம் திகதிவரை நடைபெறவுள்ள  22 வயதுக்குட்பட்ட ஆசிய குத்துச்சண்டைப் போட்டியில் இலங்கையின் அதிசிறந்த நான்கு குத்துச்சண்டை வீரர்கள் பங்குபற்றவுள்ளனர்.
+Sri Lanka sends 4 boxers to Asian Boxing Tournament in Astana, Kazakhstan, from May 25-8. Team includes Umayanka Mihran, gold medalist in 52kg, Yasidu Premaratne in 60kg, Salman Faris, and Heshan Jayasinghe.
 
-இப் போட்டியில் 20க்கும் மேற்பட்ட ஆசிய நாடுகளைச் சேர்ந்த 400க்கும் மேற்பட்ட குத்துச்சண்டை வீரர்கள் பங்குபற்றுகின்றனர்.
+🟩
 
-இலங்கை வீரர்களை கஸக்ஸ்தானுக்கு அனுப்பிவைப்பதற்கு விளையாட்டுத்துறை அமைச்சிடமிருந்து நிதி உதவி கிடைக்காத நிலையில் டயான் கோமஸின் முயற்சியால் வீரர்களுக்கான விமான டிக்கெட்களை சரவ்தேச குத்துச்சண்டை சங்கத் தலைவர் உமர் க்ரெம்லெவ் பெற்றுக்கொடுத்ததாக இலங்கை குத்துச்சண்டை சங்கம் விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+Four Sri Lankan fanths will participate in the Asian Boxing Tournament under the age of 22 from the 25th to May 8 this month in Astana, Kazakhstan.
 
-இலங்கை அணியின் தலைவராக ப்ளை வெய்ட் (52 கி.கி.) எடைப் பிரிவில் நடப்பு தேசிய சம்பியன் பசிந்து உமயங்க மிஹிரன் செயற்படுகிறார்.
+More than 400 boxers from over 20 Asian countries participate in the competition.
 
-மலேசியாவில் நடைபெற்ற சர்வதேச குத்துச்சண்டைப் போட்டியில் தங்கப் பதக்கம் வென்ற மிஹிரன், அகில இலங்கை பாடசாலைகள் விளையாட்டு விழாவிலும் தேசிய சம்பியன்ஷிப்பிலும் அதிசிறந்த குத்துச்சண்டை வீரர் விருதுகளை வென்றிருந்தார்.
+In a statement issued by the Sri Lanka Boxing Association, Omar Kremlev, the president of the Saravadesa Boxing Association, Umar Kremlev, has received the air tickets for players by the efforts of Diane Gomez to send Sri Lankan players to Kazakhstan.
+
+Umayanka Mihran is the captain of the Sri Lankan team in the current national champion in the weight category (52kg) weight category.
+
+Mihran won the gold medal at the International Boxing Tournament in Malaysia and won the Best Boxer Awards at the All Ceylon Schools Sports Sports Festival and the National Championships.
 
 ...
 
 [Data](articles/0804b720.json)
+
+[Extended Data](ext_articles/0804b720.ext.json)
 
 ---
 
@@ -68,6 +74,8 @@ In the case of India and Sri Lanka, the territorial sea in this area has been de
 
 [Data](articles/a9048e88.json)
 
+[Extended Data](ext_articles/a9048e88.ext.json)
+
 ---
 
 ### To protect the welfare of Sri Lankan migrant workers, hold recruitment agencies accountable
@@ -81,6 +89,8 @@ The 2022 Football World Cup in Qatar centered the world’s attention on the abu
 ...
 
 [Data](articles/b01b8806.json)
+
+[Extended Data](ext_articles/b01b8806.ext.json)
 
 ---
 
@@ -97,6 +107,8 @@ Climate change, human-made changes to nature, as well as crimes that disrupt bio
 ...
 
 [Data](articles/e858056c.json)
+
+[Extended Data](ext_articles/e858056c.ext.json)
 
 ---
 

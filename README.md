@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 14:51:41**
+As of **2024-04-17 15:03:28**
 
 ## Newspaper Stats
 
-*Scraped **19,341** Articles*
+*Scraped **19,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 1,059
 economynextcom | 1,084
 adalk | 1,610
 tamilmirrorlk | 2,259
-adaderanalk | 2,324
-virakesarilk | 2,887
+adaderanalk | 2,325
+virakesarilk | 2,888
 dailymirrorlk | 2,983
 adaderanasinhalalk | 3,147
 
@@ -26,77 +26,135 @@ adaderanasinhalalk | 3,147
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,335 (100.0%) of 19,341 articles have been extended.
+19,341 (100.0%) of 19,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### ஆங் சான் சூகிக்கு வீட்டு காவல்
+### இன்றைய நாண ய மாற்று விகிதம்
 
-*2024-04-17 14:36:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆங்-சான்-சூகிக்கு-வீட்டு-காவல்/50-336041) · `ta`
+*2024-04-17 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/181298) · `ta`
 
-தென்கிழக்கு ஆசிய நாடான மியான்மரில் இராணுவ ஆட்சியை எதிர்த்து பல போராட்டங்களை நடத்தியவர் ஆங் சான் சூகி (வயது 78). அமைதிக்கான நோபல் பரிசு பெற்ற இவர் கடந்த 2020-ம் ஆண்டு தேசிய ஜனநாயக கட்சி சார்பில் தேர்தலில் போட்டியிட்டு தலைவராக தேர்ந்தெடுக்கப்பட்டார்.
+இன்று செவ்வாய்க்கிழமை (ஏப்ரல் 17) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 295.2800 ஆகவும் விற்பனை விலை ரூபா 305.1931 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
 
-ஆனால் தேர்தலில் மோசடி செய்ததாக கூறி அடுத்த ஆண்டே இவரது பதவி பறிபோனது. இதனால் அங்கு மீண்டும் இராணுவ ஆட்சி கொண்டு வரப்பட்டது. மேலும் 2½ ஆண்டுகளுக்கு அங்கு அவசர நிலை உத்தரவு பிறப்பிக்கப்பட்டது. இதற்கிடையே ஆங் சான் சூகி உள்பட 100-க்கும் மேற்பட்டோர் கைது செய்யப்பட்டனர்.
+◼️
 
-இதனையடுத்து ஆங் சான் சூகி மீது இராணுவத்துக்கு எதிரான கிளர்ச்சி, ஊழல் முறைகேடு உள்ளிட்ட பல்வேறு குற்றச்சாட்டுகள் சுமத்தப்பட்டன. இது தொடர்பாக பல வழக்குகள் அந்த நாட்டின் நீதிமன்றத்தில் நிலுவையில் உள்ளது. இவற்றுள் சில வழக்குகளில் அவருக்கு இதுவரை 27 ஆண்டுகள் சிறை தண்டனை விதிக்கப்பட்டு சிறையில் அடைக்கப்பட்டார்.
-
-...
-
-[Data](articles/8e03dc93.json)
+[Data](articles/b79a6a38.json)
 
 ---
 
-### நடிகைக்கும் கணவனுக்கும் விளக்கமறியல் நீடிப்பு
+### U.S. to hit Iran with new sanctions in “coming days”
+
+*2024-04-17 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98684/us-to-hit-iran-with-new-sanctions-in-coming-days) · `en`
+
+U.S. Treasury Secretary Janet Yellen on Tuesday warned that the U.S. intends to hit Iran with new sanctions in coming days over its unprecedented attack on Israel, and these actions could seek to reduce Iran’s capacity to export oil.
+
+“With respect to sanctions, I fully expect that we will take additional sanctions action against Iran in the coming days,” Yellen said told a news conference on the sidelines of the International Monetary Fund and World Bank spring meetings in Washington.
+
+“We don’t preview our sanctions tools. But in discussions I’ve had, all options to disrupt terrorist financing of Iran continue to be on the table,” Yellen added.
+
+She said that the Treasury and State Department have taken previous action to contain Iran’s “destabilizing” behavior by diminishing its ability to export oil.
+
+...
+
+[Data](articles/0209797b.json)
+
+---
+
+### Aung San Suki's house guard
+
+*2024-04-17 14:36:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆங்-சான்-சூகிக்கு-வீட்டு-காவல்/50-336041) · `ta`
+
+Aung San Suu Kyi, 78, Nobel Peace Prize winner, was Myanmar's president until 2021, when he claimed election fraud, reinstating military rule. Over 100, including him, were arrested. He faces allegations of rebellion and corruption, with some sentenced to 27 years. Recently, he was moved from prison to home custody due to a heat wave, with no public information on his location.
+
+🟩
+
+Aung San Suu Kyi (age 78) has fought many protests against military rule in Southeast Asian country of Myanmar. He was the winner of the Nobel Prize in Peace, and was elected president in 2020 on behalf of the National Democratic Party.
+
+But the next year, he claimed that he had defrauded the election. Thus the military rule was brought back there. An emergency order was issued there for a further 2½ years. Meanwhile, more than 100 people, including Aung San Suu Kyi, were arrested.
+
+This was followed by various allegations, including a rebellion and corruption scandal against Aung San Suu Kyi.. There are many cases pending in the country's court. In some cases, he was sentenced to 27 years in prison.
+
+In this case, the Myanmar military has reported that Aung San Suu Kyi has been transferred from the prison to home custody. The action has been reported due to the heat wave. There is no information on where Aung San Suu Kyi, who was transferred from prison, is.
+
+◼️
+
+[Data](articles/8e03dc93.json)
+
+[Extended Data](ext_articles/8e03dc93.ext.json)
+
+---
+
+### Exemption
 
 *2024-04-17 14:24:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகைக்கும்-கணவனுக்கும்-விளக்கமறியல்-நீடிப்பு/175-336040) · `ta`
 
-கொரியாவில் வேலைவாய்ப்பு பெற்றுத் தருவதாகக் கூறி 30 இலட்சம் ரூபாவை மோசடி செய்தார்கள் என்ற குற்றச்சாட்டில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள பிரபல நடிகை தமிதா அபேரத்ன மற்றும் அவரது கணவரான நெல்லி ஜோன்சன் ஆகியோரை எதிர்வரும் 24 ஆம் திகதி வரை தொடர்ந்து விளக்கமறியலில் வைக்குமாறு கொழும்பு மேலதிக நீதிவான் மஞ்சுள ரத்நாயக்க  புதன்கிழமை (17) உத்தரவிட்டார்.
+Manjul Ratnayake, Colombo Additional Justice, orders Tamitha Abeyratne and Nelly Johnson to remain in custody until 24th, as they face allegations of defrauding Rs 30 lakh in Korea. The Criminal Investigation Department is extending their interrogation.
 
-குற்றப்புலனாய்வு பிரிவினர் நீதிமன்றத்தில் முன்வைத்த விடயங்களை ஆராய்ந்த நீதவான் இவர்களின் விளக்கமறியலை நீடித்து உத்தரவிட்டுள்ளார்.  சந்தேக நபர்கள் தொடர்பான விசாரணைகள் தொடர்ந்து முன்னெடுக்கப்படுவதாகக் குற்றப் புலனாய்வு பிரிவினர் தெரிவித்தனர்.
+🟩
+
+Colombo Additional Justice Manjul Ratnayake on Wednesday (17) has been ordered to continue to be remanded until the 24th of this month, the famous actress Tamitha Abeyratne and her husband, Nelly Johnson, who have been arrested and interrogated for allegedly defrauding Rs 30 lakh in Korea.
+
+The Magistrate has ordered the Criminal Investigation Department to extend their interrogation.The Criminal Investigation Department said that investigations into the suspects are ongoing.
 
 ◼️
 
 [Data](articles/8aa0f3a5.json)
 
+[Extended Data](ext_articles/8aa0f3a5.ext.json)
+
 ---
 
-### අවුරුදු ගීතය විකෘති කළ සැකකරුට අධිකරණය දුන් නියෝගය
+### Court orders courts who distorted the story
 
 *2024-04-17 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195720) · `si`
 
-අවුරුදු ගීතයක් විකෘති කිරීමේ චෝදනාව යටතේ අත්අඩංගුවට ගත් සැකකරු එළැඹෙන 22 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+A court ordered the arrest of a suspect accused of distorting a song by Venerable Singer Rohana Badda, arrested by an Excise officer in Thalathuoya. The suspect was produced before the Kuliyapitiya Magistrate's Court today, with further investigations by the North Western Provincial Unit of the Computer Criminal Investigation Division underway.
 
-රන්වල බළකාය සමග ප්‍රවීණ ගායන ශිල්පී රෝහණ බැද්දගේ මහතා විසින් ගයනු ලබන අවුරුදු ගීතයක් විකෘති කිරීම සම්බන්ධයෙන් එම සැකකරුට චෝදනා එල්ලවිය.
+🟩
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 31 හැවිරිදි වියේ පසුවන තලාතුඔය ප්‍රදේශයේ පදිංචි සුරාබදු නිලධාරියෙකි.
+The suspect was arrested under the distortion of a year.
 
-සැකකරු අද (17) කුලියාපිටිය මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී ඇත.
+The suspect was accused of distorting a genius song by Venerable Singer Rohana Badda.
 
-සිද්ධිය සම්බන්ධයෙන් පරිගණක අපරාධ විමර්ශන කොට්ඨාසයේ වයඹ පළාත් ඒකකය මඟින් වැඩිදුර විමර්ශන සිදුකරයි.
+The arrested have been arrested by an Excise officer in Thalathuoya area.
+
+The suspect was produced before the Kuliyapitiya Magistrate's Court today (17).
+
+The North Western Provincial Unit of the Computer Criminal Investigation Division is conducting further investigations.
 
 ◼️
 
 [Data](articles/48d4341f.json)
 
+[Extended Data](ext_articles/48d4341f.ext.json)
+
 ---
 
-### 35 ஆடுகளை களவாடியவர் கைது ; காவலாளி வைத்தியசாலையில்
+### Arrested for stolen 35 goats;At the hospital hospital
 
 *2024-04-17 14:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181295) · `ta`
 
-புதுக்குடியிருப்பு மல்லிகைதீவு பகுதியில் ஆட்டு காவலாளிகளை தாக்கிவிட்டு  ஆடுகளை களவாடிய குற்றச்சாட்டில்  ஒருவர் கைது செய்யப்பட்ட சம்பவம் ஒன்று நேற்று செவ்வாய்க்கிழமை (16) இடம்பெற்றுள்ளது.
+Two men attacked in Pudukkudiyiruppu, stole 35 goats worth 90,000, injured one, and arrested a 32-year-old from Vadapalai.
 
-முல்லைத்தீவு புதுக்குடியிருப்பு பொலிஸ் பிரிவிற்குட்பட்ட புதுக்குடியிருப்பு 9ஆம் வட்டாரம், மல்லிகைதீவு பகுதியில் ஆட்டு மந்தையில் இருவர் காவல் கடமையில் இருந்த போது திடீரென வந்திறங்கிய குழுவினர்  ஆடுகளை களவாடி செல்ல காவல் கடமையில் இருந்த இருவரையும் தாக்கிவிட்டு 9 இலட்சத்தி முப்பத்தைந்தாயிரம் பெறுமதியான  35 ஆடுகளை கொண்டு சென்றுள்ளனர்.
+🟩
 
-தாக்குதலுக்கு இலக்கான இருவரில் ஒருவர் 55 வயதுடைய நபர் காயங்களுக்கு உள்ளாகிய நிலையில் புதுக்குடியிருப்பு வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றார்.
+An incident took place on Tuesday (16) for allegedly attacking goats and stolen goats in the Pudukkudiyiruppu Mallikadivu area.
 
-இதனையடுத்து குறித்த சம்பவம் தொடர்பில் புதுக்குடியிருப்பு பொலிஸாருக்கு  தெரியபடுத்தியதனையடுத்து  சந்தேகத்தின் பேரில் வற்றாப்பளை பகுதியை சேர்ந்த 32 வயதுடைய குடும்பஸ்தர் ஒருவரை கைது செய்துள்ளதுடன் 15 ஆடுகள் மீட்கப்பட்டு, ஆடுகளை கடத்தி செல்ல பயன்படுத்திய வொலிரோ கப் ரக வாகனமும்  பொலிஸாரால் கைப்பற்றப்பட்டுள்ளளது.
+Pudukkudiyiruppu police division of the Mullaitivu Pudukkudiyiruppu police division 9th Circle in the Mallikadivu area when two people were on duty in the Mallikadivu area and suddenly attacked the two men who were on duty to stole the sheep and took 35 goats worth 9 lakhs thirty thousand.
+
+One of the two victims of the attack is being admitted to the Pudukkudiyiruppu hospital after a 55 -year -old man was injured.
+
+The police have arrested a 32 -year -old family member from Vadapalai area on suspicion of informing the Pudukkudiyiruppu police.
+
+Herath, Superintendent of Police, Herath, Police Sergery (70537)A team of policemen, (105201), Laxan, Police Kostbal Driver (80425), Abayakon, were arrested.
 
 ...
 
 [Data](articles/7b629aa9.json)
+
+[Extended Data](ext_articles/7b629aa9.ext.json)
 
 ---
 
@@ -126,21 +184,29 @@ It is noteworthy that the Nuwara Eliya Police are conducting further investigati
 
 ---
 
-### குழந்தை மீது கத்தியை வைத்து மிரட்டி நகை , மோட்டார் சைக்கிள் கொள்ளை
+### Jewelry, motorcycle robbery
 
 *2024-04-17 13:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/181293) · `ta`
 
-வவுனியா நகரில் மோட்டார் சைக்கில் சென்றவர்களை வழிமறித்து அவர்களின் குழந்தை மீது கத்தியை வைத்து தயாரை மிரட்டி நகைகள் பறித்தமையுடன் அவர்கள் பயணித்த மோட்டார் சைக்கிலையும் அபகரித்துச் சென்றுள்ளனர்.
+In Vavuniya, a motorcyclist was robbed at knifepoint with his child present, near the Passport Office. Three masked men threatened the jewelry. The Vavuniya Police are investigating.
 
-குறித்த சம்பவம் வவுனியா தெற்கு வலயக்கல்வி பணிமனை முன்பாகவுள்ள கடவுச்சிட்டு அலுவலகத்திற்கு செல்லும் வீதியில் இன்று புதன்கிழமை (17) அதிகாலை இடம்பெற்றுள்ளது
+🟩
 
-குறித்த பெண்மணி கடவுச்சீட்டு காரியாலத்திற்கு முன்பாக விண்ணப்படிவம் நிரப்பும் தொழிலில் ஈடுபட்டு வருபவர் ஆவார். அவர் இன்றையதினம் அதிகாலை  தனது தொழில் நிமித்தம் வவுனியா தெற்கு வலயக்கல்வி பணிமனை முன்பாகவுள்ள கடவுச்சீட்டு அலுவலகத்திற்கு மோட்டார் சைக்கிளில் தனது குழந்தையுடன் சென்றார்.
+In Vavuniya, the motorcyclists have been rushed to the motorcycle and robbed them with a knife on their child and robbed their motorcycle.
 
-இவ்வாறு சென்று கொண்டிருந்தவேளை வீதியில் மறைந்து நின்ற முகமூடியணித்த மூவர் குறித்த மோட்டார் சைக்கிளை வழிமறித்து குழந்தையின் கழுத்தில் கத்தியினை வைத்து மிரட்டி அவர்கள் அணிந்திருந்த நகைகளை அபரித்தமையுடன் அவர்கள் பயணித்த மோட்டார் சைக்கிளையும் அபகரித்துக்கொண்டு அங்கிருந்து தப்பித்து சென்றுள்ளனர்.
+The incident took place on Wednesday morning on the road to the Passport office in front of the Vavuniya South Zonal Education Workshop.
 
-...
+The woman is a man who is engaged in the filing of an appointment in front of the passport office. He went to the Passport Office in front of the Vavuniya South Zonal Education Workshop for his career this morning with his child on a motorbike.
+
+While on the way, the three men who had been masked on the road were threatened with a motorcycle on the child's neck and threatened the jewelry they were wearing.
+
+The Vavuniya Police Station Criminal Investigation Division is conducting serious investigations as a complaint lodged to the Vavuniya Police Station immediately.
+
+◼️
 
 [Data](articles/44b2a9b7.json)
+
+[Extended Data](ext_articles/44b2a9b7.ext.json)
 
 ---
 
@@ -380,21 +446,31 @@ They were arrested along with two fishing vessels for violating Myanmar's mariti
 
 ---
 
-### පෙම්වතියට සහ පෙම්වතියගේ මවට තියුණු ආයුධයකින් පහරදී පෙම්වතා දිවි නසා ගනියි
+### The mother of girlfriend and girlfriend's mother beaten with a sharp object and boyfriend suicide
 
 *2024-04-17 12:17:10* · [`adalk`](https://www.ada.lk/breaking_news/පෙම්වතියට-සහ-පෙම්වතියගේ-මවට-තියුණු-ආයුධයකින්-පහරදී-පෙම්වතා-දිවි-නසා-ගනියි/11-409121) · `si`
 
-යාපනය ඉලවාලෙයි පොලිස් වසමට අයත් පණිප්පුලම් ප්‍රදේශයේදී මවකට හා දියණියකට තියුණු ආයුධවලින් පහර දී බරපතල තුවාල සිදුකලෙයි යැකකෙරෙුණු තරුණයෙකු එම ප්‍රදේශයේම ගෙලවැලලාගෙන මිය ගොස් සිටියදී ඊයේ (16) දින සිරුර හමු වූ බවට පොලීසිය පැවසීය.
+In Barwipepulam, Jaffna, a mother and daughter assaulted another mother and daughter, leading to a police investigation. The incident involved a dispute over a shop, and it's suspected that the police's mother was attacked with a sharp object. The victim, a 37-year-old from Bwilpupe, is under investigation by the Ilavalai Police.
 
-පොලීසිය අදාල ස්ථානයන්ට ගොස් සිදුකරන ලද පරික්ෂණ වලදී හෙලි වී ඇත්තේ සියදිවි හානිකරගත් තරුණයා සහ තියුණු ආයුධයකින් පහරකා තුවාල සිදුවූ තරුණිය පෙම්වතුන්ව සිට ඇති අතර පසුගිය දිනක ඇති වූ ආරවුලක් මත පෙම්වතිය විසින් පෙම්වතා ප්‍රතික්ෂේප කිරීම නිසා මෙම පහරදීම සිදුව ඇති බවටයි.
+🟩
 
-එහිදී අදාල පෙමවතා විසින් පෙම්වතියගේ නිවසට රහසිගතව ඇතුලුවී නිවසේ සිටි පෙම්වතියට සහ පෙම්වතියගේ මවට තියුණු ආයුධයකින් පහරදී බරපතල කැපුම් තුවාල සිදුකොට පලා‌ ගොස් ඇති බවට පොලීසිය සැකපල කරයි.
+A mother and a daughter beat a mother and daughter in the Barwipepulam area belonging to the Jaffna Ilawlai Police Division.
 
-එහිදී බරපතල තත්වයේ සිටි තරුණිය සහ ඇගේ මව අසල්වාසීන් විසින් ඒම අවස්ථාවේදීම රෝහලගත කිරීමට පියවර ගෙන ඇති අතර මේ වන විට ඔවුන් යාපනය ශික්ෂණ රෝහලේ දැඩිසත්කාර එඒකකයේ ප්‍රතිකාර ලබමින් සිටිති.
+The youth who had gone to the police and the injured have been ballowed with a shop in a dispute over the recent dispute over the recent dispute over the past.
 
-...
+The police suspect that the demonstrators have secretly entered the girlfriend's house and the mother of the police had been attacked with a sharp instrument and fled with a sharp object.
+
+The girl and her mother in the serious situation have taken steps to the hospital at the same time.
+
+However, the founder of the youth was uncovered while he was uncovered while he was committed to her girlfriend's home near his girlfriend's home.
+
+The victim was a 37 year old youth from the Bwilpupe area and the Ilavalai Police are conducting further investigations.
+
+◼️
 
 [Data](articles/cf23cf42.json)
+
+[Extended Data](ext_articles/cf23cf42.ext.json)
 
 ---
 
@@ -2163,39 +2239,5 @@ Under the auspices of NextGenSL, delegates from diverse political backgrounds en
 [Data](articles/ba6a8ec8.json)
 
 [Extended Data](ext_articles/ba6a8ec8.ext.json)
-
----
-
-### BIMSTEC Secretary-General discusses regional cooperation in Bay of Bengal Region at LKI
-
-*2024-04-17 02:33:55* · [`dailyftlk`](https://www.ft.lk/news/BIMSTEC-Secretary-General-discusses-regional-cooperation-in-Bay-of-Bengal-Region-at-LKI/56-760689) · `en`
-
-BIMSTEC Secretary-General Ambassador Indra Mani Pandey (centre) with LKI Executive Director Ambassador Ravinatha Aryasinha and Foreign Affairs Ministry Additional Secretary (Economic Affairs) Shanika Dissanayake
-
-The Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) Secretary-General Ambassador Indra Mani Pandey was hosted by the Lakshman Kadirgamar Institute (LKI) for a special guest lecture and interactive session titled “Regional Cooperation through BIMSTEC” on 9 April 2024 at the Lighthouse Auditorium.
-
-The program provided an opportunity for the gathering of Sri Lankan policymakers, academics, researchers, and university students to engage directly with the Secretary-General who was on his first official visit to Sri Lanka, in evaluating topics and concerns related to the region and BIMSTEC, in the context of global politics and Sri Lanka’s policy interests.
-
-...
-
-[Data](articles/267f7fe9.json)
-
-[Extended Data](ext_articles/267f7fe9.ext.json)
-
----
-
-### Sri Lanka and Kazakhstan successfully conclude 2nd round of Foreign Office Consultations
-
-*2024-04-17 02:32:16* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-Kazakhstan-successfully-conclude-2ndround-of-Foreign-Office-Consultations/56-760688) · `en`
-
-Sri Lanka and Kazakhstan successfully concluded the second round of Foreign Office Consultations in Astana 11 April.
-
-The Sri Lanka delegation was led by Foreign Secretary Aruni Wijewardane, and the delegation of Kazakhstan was led by Deputy Minister of Foreign Affairs of Kazakhstan Alibek Bakayev.  On high-level bilateral visits, the Kazakhstan delegation invited President Ranil Wickremesinghe to undertake an official visit to Kazakhstan. A visit by Foreign Minister Ali Sabry to participate in the Astana International Forum in June 2024 was also confirmed. On bilateral cooperation, trade, tourism, energy, transport and logistics were prioritized. It was acknowledged that the resumption of direct charter flights by Air Astana to Sri Lanka has contributed to increasing tourist arrivals from Kazakhstan to Sri Lanka and the two sides will explore a reciprocal visa free arrangement for normal passport holders.
-
-...
-
-[Data](articles/e6501b46.json)
-
-[Extended Data](ext_articles/e6501b46.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 08:51:50**
+As of **2024-04-17 09:03:25**
 
 ## Newspaper Stats
 
-*Scraped **19,274** Articles*
+*Scraped **19,279** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,91 @@ islandlk | 1,038
 dailyftlk | 1,058
 economynextcom | 1,084
 adalk | 1,602
-tamilmirrorlk | 2,246
-adaderanalk | 2,316
-virakesarilk | 2,874
+tamilmirrorlk | 2,248
+adaderanalk | 2,317
+virakesarilk | 2,875
 dailymirrorlk | 2,972
-adaderanasinhalalk | 3,136
+adaderanasinhalalk | 3,137
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,269 (100.0%) of 19,274 articles have been extended.
+19,274 (100.0%) of 19,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### வாரியபொல கலால் திணைக்கள அதிகாரி கைது
+
+*2024-04-17 08:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/181268) · `ta`
+
+வாரியபொல பகுதியைச் சேர்ந்த 31 வயதான கலால் திணைக்கள அதிகாரி கைது செய்யப்பட்டுள்ளார்.
+
+இந்த அதிகாரி புத்தாண்டை குறிக்கும்  சிங்களவர்களின் ரோஹன பெத்தகே பாடிய  “சூரிய மாங்கல்ய” என்ற பாடலை திரிபுபடுத்தி பாடி சமூக ஊடகங்களில் பதிவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/c7048b56.json)
+
+---
+
+### Sri Lanka implements new online visa application system today
+
+*2024-04-17 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98677/sri-lanka-implements-new-online-visa-application-system-today) · `en`
+
+A new visa process and the online visa application portal of the Department of Immigration and Emigration are implemented today (17).
+
+The new visa methodology, relevant fees, requirements to be met and the validity period in Sri Lanka were earlier published in the Extraordinary Gazette No. 2360/24, dated 27 November 2023.
+
+In a press release, the department said arrangements have been made together with GBS Technology Service and IVS Global Institute to implement the e-visa system – the online methodology to be introduced in lieu of the ETA (Electronic Travel Authorization) methodology currently in use.
+
+More details about the online visa application portal can be accessed from www.srilankaevisa.lk, the press release read further.
+
+The department highlighted that it intends to provide a fast and efficient visa application process through the introduction of the new online portal, in a bid to woo foreign tourists and investors.
+
+◼️
+
+[Data](articles/9613dd4f.json)
+
+---
+
+### බස් ධාවනය ගැන දැනුම්දීමක්
+
+*2024-04-17 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195710) · `si`
+
+අලුත් අවුරුද්ද සඳහා ගම්බිම් බලා ගිය මගී ජනතාවගේ පහසුව සඳහා අද (17) දිනයේ බස් රථ වැඩි ධාරිතාවයකින් ධාවනය කිරීමට සැලසුම් කර ඇති බව ලංකා පෞද්ගලික බස්රථ හිමයන්ගේ සංගමය පවසයි.
+
+එහි සභාපති ගැමුණු විජේරත්න මහතා පැවසුවේ, දිවයින පුරා බස්රථ 9,000ක් යොදා ඇති බවය.
+
+අද සිට සමාන්‍ය පරිදි දුම්රිය ධාවන කටයුතු සිදුකරන බවද දුම්රිය දෙපාර්තමේන්තුවේ නියෝජ්‍ය සමාන්‍යාධිකාරී එන්. ජේ. ඉඳිපොලගේ මහතා පවසයි.
+
+දුම්රිය රියදුරන්ගේ සංගමයේ සභාපති චන්දන වියන්දුව මහතා සඳහන් කළේ, සියලුම රියදුරන් ධාවනාගාර වෙත පැමිණීම හේතුවෙන් ගැටලුවකින් තොරව දුම්රිය ධාවනය සිදුකළ හැකි බවය.
+
+◼️
+
+[Data](articles/4744c6f1.json)
+
+---
+
+### யாழில். காதலியையும், தாயையும் வெட்டிய இளைஞன் தற்கொலை?
+
+*2024-04-17 08:36:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-காதலியையும்-தாயையும்-வெட்டிய-இளைஞன்-தற்கொலை/71-336016) · `ta`
+
+யாழ்ப்பாணம் - பண்டத்தரிப்பு , பணிப்புலம் பகுதியில் நேற்றைய தினம் அதிகாலை இளைஞன் ஒருவர் தனது காதலியையும், காதலியின் தாயையும் கூரிய ஆயுதத்தால் வெட்டிய பின்னர் தனது உயிரை மாய்த்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+இளைஞனும் அப்பகுதியை சேர்ந்த யுவதியும் காதலித்து வந்துள்ளனர். இந்நிலையில் கடந்த சில நாட்களாக காதலர்களுக்கு இடையில் முரண்பாடு ஏற்பட்ட நிலையில் , காதலியின் வீட்டுக்குச் சென்று மறைந்திருந்த இளைஞன் , வீட்டார் காலை வீட்டின் கதவை திறந்த போது , வீட்டினுள் நுழைந்து , காதலியையும் , அவரது தாயையும் கூரிய ஆயுதத்தால் வெட்டி விட்டு அங்கிருந்து தப்பி சென்றுள்ளார்.
+
+சத்தம் கேட்டு கூடிய அயலவர்கள் வெட்டு காயங்களுடன் காணப்பட்ட தாயையும் மகளையும் மீட்டு , வைத்தியசாலைக்கு அனுப்பி வைத்துள்ளனர்.
+
+அந்நிலையில் வீட்டில் இருந்து சற்று தொலைவில் இருந்த காணி ஒன்றில் காதலியை வெட்டியதாக சந்தேகிக்கப்படும் இளைஞன் தனது உயிரை மாய்த்த நிலையில் சடலமாக மீட்கப்பட்டுள்ளார்
+
+◼️
+
+[Data](articles/d06274d6.json)
+
+---
 
 ### Roads. T. Ariyaratne's funeral activities with State Honor
 
@@ -68,21 +138,27 @@ A.Th, which is placed on the same place until 12.00 pm on the 20th.. The body of
 
 ---
 
-### පාලිත සිකුරාදා යන්නම යයි
+### Palitha is going to Friday
 
 *2024-04-17 08:11:30* · [`adalk`](https://www.ada.lk/breaking_news/පාලිත-සිකුරාදා-යන්නම-යයි/11-409113) · `si`
 
-අභාවප්‍රාප්ත වූ හිටපු නියෝජ්‍ය අමාත්‍යවරයෙක් වන පාලිත තේවරප්පෙරුම මහතාගේ අවසන් කටයුතු ලබන සිකුරාදා සිදු කිරීමට නියමිත බව වාර්තා වෙයි.
+Palitha Thewarappepperuma, a former Deputy Minister and social worker, will have his funeral on Friday. His body is at the Kalutara Teaching Hospital for postmortem.
 
-විදුලිය සැර වැදීමකින් මියගිය ඒ මහතාගේ සිරුර පශ්චාත් මරණ පරීක්ෂණ කටයුතු සඳහා කලුතර ශික්ෂණ රෝහලේ තබා තිබේ.
+🟩
 
-මිය යන විට 64 වැනි වියේ පසුවූ තේවරප්පෙරුම මහතා මෙරට දේශපාලනයේ පෙරළිකාර චරිතයක් වන අතර ඔහු සමාජ සේවකයෙක් ලෙසද ප්‍රකටය.
+The funeral of Palitha Thewarappepperuma, a former Deputy Minister Palitha Rurapperuma is to be carried out on Friday.
 
-ඔහු සිය සුසානය මිය යාමට පෙර සිටම සූදානම් කර තිබීම කා අතරත් කථා බහට ලක්වූ මාතෘකාවක් විය.
+His body has been placed in the Kalutara Teaching Hospital for postmortem examination.
+
+The 64th year-old Traketarama is a reliable figure in Sri Lanka as a social worker.
+
+Before he died, he had been a title between whom he had died.
 
 ◼️
 
 [Data](articles/485ba3b9.json)
+
+[Extended Data](ext_articles/485ba3b9.ext.json)
 
 ---
 
@@ -105,6 +181,8 @@ Meanwhile, the pediatrician cautioned of the prevalence of Typhoid fever among c
 ...
 
 [Data](articles/ef938a7b.json)
+
+[Extended Data](ext_articles/ef938a7b.ext.json)
 
 ---
 
@@ -374,6 +452,8 @@ With this new route expansion, this will increase to four destinations, and it w
 
 [Data](articles/8b7ad82e.json)
 
+[Extended Data](ext_articles/8b7ad82e.ext.json)
+
 ---
 
 ### Heavy rains in several areas today
@@ -480,6 +560,20 @@ Since the operation was launched in mid-December, the police have arrested tens 
 
 ---
 
+### வெங்காய இறக்குமதி தொடர்பில் இன்று  தீர்மானம்
+
+*2024-04-17 05:56:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெங்காய-இறக்குமதி-தொடர்பில்-இன்று-தீர்மானம்/175-336013) · `ta`
+
+இந்தியாவில் இருந்து பெரிய வெங்காயத்தை அரசாங்கத்தின் ஊடாக இறக்குமதிய செய்வதா அல்லது தனியார் மூலம் இறக்குமதி செய்வதா என்பது தொடர்பில் இன்று தீர்மானிக்கப்படும் என வர்த்தக அமைச்சர் நளின் பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+10,000 மெட்ரிக் தொன் பெரிய வெங்காயத்தை இலங்கைக்கு ஏற்றுமதி செய்வதற்கு இந்தியா அனுமதி வழங்கியுள்ளதாக இலங்கைக்கான இந்திய உயர்ஸ்தானிகராலயம் அறிவித்திருந்தனர். (a)
+
+◼️
+
+[Data](articles/242aa550.json)
+
+---
+
 ### High -speed income on highways
 
 *2024-04-17 05:50:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலைகளில்-அதிக-வருமானம்/175-336012) · `ta`
@@ -563,6 +657,8 @@ Key reasons for this include lack of safe and affordable childcare facilities, i
 ...
 
 [Data](articles/fb0a34ca.json)
+
+[Extended Data](ext_articles/fb0a34ca.ext.json)
 
 ---
 
@@ -857,6 +953,8 @@ In fact March PMI reading is the highest in three years, in a further sign that 
 ...
 
 [Data](articles/14b725b2.json)
+
+[Extended Data](ext_articles/14b725b2.ext.json)
 
 ---
 
@@ -2069,107 +2167,5 @@ Thus, the members of the public are advised to stay hydrated, take breaks in the
 [Data](articles/9d09c2c5.json)
 
 [Extended Data](ext_articles/9d09c2c5.ext.json)
-
----
-
-### Two police officers were remanded again in Medawachchiya incident
-
-*2024-04-16 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195694) · `si`
-
-Two police officers remanded in Medawachchiya incident. Case postponed to 24th. Victim admitted to Anuradhapura Teaching Hospital. CID to investigate. Sri Lanka Bar Association observes.
-
-🟩
-
-The case was taken up at the Medawachchiya Magistrate's Court today (16) to the loss of a scrout to a young man.
-
-Mediawachchiya Magistrate Imasha Madhadasa ordered that the case will be taken back to the 24th and remanded the suspects to be summoned again.
-
-The Inspector General of Police was ordered to be referred to the CID to conduct investigations into the incident.
-
-The victim was admitted to the Anuradhapura Teaching Hospital on the 7th and was admitted to the Anuradhapura Teaching Hospital on the 7th and was admitted to the Anuradhapura Teaching Hospital.
-
-The two police officers who were arrested on suspicion were produced before the Medawachchiya Magistrate's Court today (16).
-
-The Sri Lanka Bar Association has appeared as an independent observation group in this case.
-
-◼️
-
-[Data](articles/90487795.json)
-
-[Extended Data](ext_articles/90487795.ext.json)
-
----
-
-### Sri Lanka agrees to state contingent factor in ISB exchange, ESG bonds also in play
-
-*2024-04-16 18:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-agrees-to-state-contingent-factor-in-isb-exchange-esg-bonds-also-in-play-158683/) · `en`
-
-ECONOMYNEXT – Sri Lanka has agreed to issue bonds linked to economic performance (state contingent) when restructuring its defaulted sovereign bonds and had also indicated the willingness to consider a governance linked bond, a statement released after the first round of talks by the island’s Finance Ministry said.
-
-A committee representing bondholders had sent a revised proposal for a GDP linked bond (macro-linked bonds or MLB) in March with lower coupons for discussion at a meeting in London with Sri Lanka officials and advisors.
-
-“During the Meetings, it was agreed that the primary basis for the discussions would be the Group’s March Proposal,” the statement said.
-
-Sri Lanka had made a proposal with combined plain vanilla (A-bonds) and a state contingent adjustment factor (a bond which is based on economic performance) involving roughly a 28 percent hair cut, which was rejected by the bondholders.
-
-...
-
-[Data](articles/345997fe.json)
-
-[Extended Data](ext_articles/345997fe.ext.json)
-
----
-
-### Tesla laying off more than 10% of staff globally as sales fall
-
-*2024-04-16 18:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tesla-laying-off-more-than-10-of-staff-globally-as-sales-fall/108-280783) · `en`
-
-Berlin, April 15 (Reuters) - Tesla, opens new tab is laying off more than 10% of its global workforce, an internal memo seen by Reuters on Monday shows, as it grapples with falling sales and an intensifying price war for electric vehicles (EVs).
-
-"About every five years, we need to reorganize and streamline the company for the next phase of growth," CEO Elon Musk commented in a post on X. Two senior leaders, battery development chief Drew Baglino and vice president for public policy Rohan Patel, also announced their departures, drawing posts of thanks from Musk although some investors were concerned.
-
-Musk last announced a round of job cuts in 2022, after telling executives he had a "super bad feeling" about the economy. Still, Tesla headcount has risen from around 100,000 in late 2021 to over 140,000 in late 2023, according to filings with U.S. regulators.
-
-...
-
-[Data](articles/21e56f29.json)
-
-[Extended Data](ext_articles/21e56f29.ext.json)
-
----
-
-### President at Court Lodge Estate
-
-*2024-04-16 18:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/President-at-Court-Lodge-Estate/110-280782) · `en`
-
-President Ranil Wickremesinghe visited the Court Lodge Estate, owned by the Udupusellawa Plantation Company in Nuwara Eliya this morning (16) to explore opportunities for the revival of the tourism industry around the picturesque hills of Nuwara Eliya. Notably, the President embarked on this journey by traversing the Pekoe Trail.
-
-◼️
-
-[Data](articles/1feeef4d.json)
-
-[Extended Data](ext_articles/1feeef4d.ext.json)
-
----
-
-### 380 crores for holding drug traffickers and interrogate
-
-*2024-04-16 17:52:12* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-380-මත්ද්‍රව්‍ය-ජවාරම්කරුවන්-රඳවාගෙන-ප්‍රශ්න-කිරීමට-අවසර/11-409107) · `si`
-
-Manjula Ratnayake, Colombo Additional Magistrate, detained for 380 crores, involved in drug trafficking. Requested Police Narcotics Bureau to investigate drug dealer network. Suspects captured include Sumudun Kumara, Sanjashan Edirisinghe, Manoj Kumara, Talwala, Suminda Jayatunga, Roshan Kodikara, and Devinuwara Susantha.
-
-🟩
-
-Colombo Additional Magistrate Manjula Ratnayake was detained in the Police Narcotics Bureau until the 22 crore worth over Rs. 22 billion.
-
-The Magistrate also managed to hold a request to the Police Narcotics Bureau to detect the network of drug dealers and interrogation.
-
-In detention dwellers were submitted to the court, saying that the suspects were captured in the courts while they were captured in the Manushage, Sumudun Kumara and Sanjashan Edirisinghe, Manoj Kumara and Talwala.And Suminda Jayatunga, Roshan Kodikara and Devinuwara Susantha are the Buddha.
-
-◼️
-
-[Data](articles/4f74c3c2.json)
-
-[Extended Data](ext_articles/4f74c3c2.ext.json)
 
 ---

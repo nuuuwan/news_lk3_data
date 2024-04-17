@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 11:34:16**
+As of **2024-04-17 11:53:39**
 
 ## Newspaper Stats
 
-*Scraped **19,301** Articles*
+*Scraped **19,309** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,50 +15,140 @@ newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,059
 economynextcom | 1,084
-adalk | 1,604
-tamilmirrorlk | 2,253
+adalk | 1,605
+tamilmirrorlk | 2,255
 adaderanalk | 2,321
-virakesarilk | 2,877
-dailymirrorlk | 2,975
+virakesarilk | 2,880
+dailymirrorlk | 2,977
 adaderanasinhalalk | 3,142
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,297 (100.0%) of 19,301 articles have been extended.
+19,301 (100.0%) of 19,309 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### ඩුබායි යටවෙයි - ගුවන් ගමනුත් නවතී
+### 50 நாடுகளிலிருந்து இலங்கை வரும் சுற்றுலாப் பயணிகளுக்கு இலவச வீசா
+
+*2024-04-17 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181274) · `ta`
+
+50க்கும் மேற்பட்ட நாடுகளில் இருந்து இலங்கைக்கு வரும் சுற்றுலாப் பயணிகளுக்கு இலவச வீசாவை வழங்குவது குறித்து பரிசீலிக்கப்பட்டு வருகின்றது.
+
+இது தொடர்பான யோசனை  அடுத்த வாரம் அமைச்சரவையில் சமர்ப்பிக்கப்பட உள்ளதாக சுற்றுலாத்துறை அமைச்சு வட்டாரங்கள் தெரிவிக்கின்றன.
+
+இது தொடர்பான பிரேரணை  சுற்றுலாத்துறை அமைச்சரால் வெளிவிவகார அமைச்சர் அலி சப்ரி மற்றும் பொதுப் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் ஆகியோருடன் இணைந்து தயாரிக்கப்பட்டவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/bf050faf.json)
+
+---
+
+### 7 வருடங்களாக மியன்மாரில் தடுத்துவைக்கப்பட்டுள்ள 15 இலங்கை மீனவர்களுக்கு பொதுமன்னிப்பு
+
+*2024-04-17 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/181278) · `ta`
+
+மியன்மாரில் கைதுசெய்யப்பட்டு 7 ஆண்டுகள் கடூழியச் சிறைத்தண்டனை விதிக்கப்பட்ட  15 இலங்கை மீனவர்களுக்கு பொதுமன்னிப்பு வழங்கப்பட்டுள்ளது.
+
+2023 ஆம் ஆண்டு டிசம்பர் மாதம் மியன்மார் கடல் எல்லைக்குள் சட்டவிரோதமாக நுழைந்ததையடுத்து 15 இலங்கை மீனவர்களும் கைது செய்யப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e05a13a4.json)
+
+---
+
+### டுபாய் விமான நிலையம் வெள்ளத்தில் மிதக்கிறது
+
+*2024-04-17 11:28:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டுபாய்-விமான-நிலையம்-வெள்ளத்தில்-மிதக்கிறது/50-336036) · `ta`
+
+டுபாயில் பாலைவனம் நிறைந்த பகுதிகள் அதிகளவில் உள்ளன. வெப்பநிலையும் அதிகரித்து காணப்படும் சூழலில், ஐக்கிய அரபு அமீரகம் முழுவதும்  பெய்த கனமழையால் பல்வேறு இடங்களில் வெள்ளப்பெருக்கு ஏற்பட்டது. இதனால், சாலைகளில் நீர் தேங்கியது. பல இடங்களில் வாகன போக்குவரத்தும் முடங்கியது.
+
+கனமழை மற்றும் வெள்ளம் எதிரொலியாக, விமான போக்குவரத்து பாதிக்கப்பட்டது. டுபாயில் சர்வதேச பயணிகள் அதிகம் வரக்கூடிய, உலகில் பரபரப்புடன் இயங்க கூடிய டுபாய் சர்வதேச விமான நிலையத்தில் வெள்ளநீர் பெரும் பாதிப்பை ஏற்படுத்தியது.
+
+இதனை தொடர்ந்து,  விமான நிலையத்திற்கு வந்த பல விமானங்கள் வேறு பகுதிகளுக்கு திருப்பி விடப்பட்டன. மாலையில் 100 விமானங்கள் வரை வந்து சேரக்கூடிய நிலையில்,  பல விமானங்களின் வருகை பாதிக்கப்பட்டது. எண்ணற்ற விமானங்கள் காலதாமதத்துடனும், ரத்து செய்யப்பட்டும் இருந்தன. இது விமான பயணிகளுக்கு பாதிப்பை ஏற்படுத்தியது.
+
+விமான ஓடுபாதையில் வெள்ளம் புகுந்ததில், விமானங்கள் மற்றும் கார்கள், நீரில் பாதியளவு மூழ்கின. விமானங்கள் நிறுத்தும் பகுதியில் வெள்ளநீர் புகுந்தது. விமான நிலையத்திற்கு வந்து சேரும் சாலைகளும் நீரில் மூழ்கி இருந்தன.
+
+...
+
+[Data](articles/e6196100.json)
+
+---
+
+### O/L பரீட்சார்த்திகளின் கவனத்துக்கு
+
+*2024-04-17 11:26:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சார்த்திகளின்-கவனத்துக்கு/175-336035) · `ta`
+
+2023ஆம் ஆண்டுக்கான கல்வி பொதுத் தராதர சாதாரண தர பரீட்சை மே 6ஆம் திகதி ஆரம்பமாகவுள்ள நிலையில், மாணவர்களுக்கான பரீட்சை அனுமதி அட்டை விநியோகம் அடுத்த வாரம் முதல் ஆரம்பிக்கப்படும் என்று பரீட்சைத் திணைக்களம் தெரிவித்துள்ளது.
+
+அதற்கமைய, பாடசாலை விண்ணப்பதாரிகள் அதிபர்களினூடாக அனுமதி அட்டைகளைப் பெற்றுக்கொள்ள முடியும். தனிப்பட்ட விண்ணப்பதாரிகள் தபால் ஊடாக அனுமதி அட்டைகளைப் பெற்றுக் கொள்ள முடியும். R
+
+◼️
+
+[Data](articles/392e091a.json)
+
+---
+
+### Dubai is submerged - flights
 
 *2024-04-17 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195715) · `si`
 
-වසර 75කට පසු එක්සත් අරාබි එමීර් රාජ්‍යය ඇතුළු කලාපීය රටවලට දරුණු ජලගැලීම් ආපදා තත්ත්වයක් ඇතිවී තිබේ.
+Dubai, UAE, flooded severely after 75 years, killing 18 in Oman. Strong winds affected the region. This is the UAE's highest rainfall in 75 years. Dubai's advanced infrastructure, including the Emirates shopping complex and tunnels, was flooded. Dubai International Airport was inundated, forcing Emirates and Fly Dubai to temporarily halt flights. Despite floods, some aircrafts operated.
 
-මේ හේතුවෙන් ඕමාන් රාජ්‍යය තුළ පමණක් පුද්ගලයින් 18 දෙනෙක් මියගොස් ඇති බව වාර්තා වේ.
+🟩
 
-කලාපය ඔස්සේ හමාගිය ප්‍රබල සුළි කුණාටුවක් හේතුවෙන් එක්සත් අරාබි එමීර් රාජ්‍යය ඇතුළු කලාපීය රටවලට අධික වර්ෂාපතනයක් බලපා තිබේ.
+After 75 years, there was a severe flooding of the United Arab Emirates, including the UAE.
 
-මෙය වාර්තාවන්නේ වසර 75 කින් පසුව එක්සත් අරාබි එමීර් රාජ්‍යයෙන් වාර්තාවූ උපරිම වර්ෂාපතනය ලෙසය.
+As a result, 18 people have been killed in the Oman state alone.
 
-මේ සමඟ ඩුබායි ඇතුළු එමීර් රාජ්‍යය කලාප හතෙන්ම ජලගැලීම් වාර්තා වී තිබිණි.
+A strong winds in the region have been affected by the United Arab Emirates and regional countries.
 
-ලොව වඩාත්ම දියුණු නගරයක් වන ඩුබායි හි වීථි ජලගැලීමට හසුව තිබුණි.
+This is recorded as maximum rainfall recorded by the UAE after 75 years.
 
-සුප්‍රකට ඩුබායි සාප්පු සංකීර්ණය, එමිරේට්ස් සාප්පු සංකීර්ණය දණක් තෙක් ජලයෙන් යටවී තිබිණි.
+With this, the Eeir State, including Dubai, was reported from seven countries.
 
-එමෙන්ම එහි දියුණු උමං දුම්රිය ස්ථාන සහ මාර්ග පවා ජලයෙන් යටවී තිබුණේ එමීර් රාජ්‍යයේ ජලඅපවහන පද්ධතිවල ක්‍රියාකාරිත්වය පිළිබඳ ගැටලු මතුකරමිනි.
+The streets of Dubai were the most advanced city in the world.
 
-ලොව වඩාත්ම කාර්යබහුල ගුවන්තොටුපොළක් ලෙස සැලකෙන ඩුබායි ජාත්‍යන්තර ගුවන්තොටුපොළ ජලගැලීම් අතරතුර ජලයෙන් යටවී තිබිණි.
+The famous Dubai shopping complex, Emirates shopping complex was inundated until kneeling.
 
-මේ අනුව එහි කටයුතු සීමා කිරීමට බලධාරීන්ට සිදුවූ අතර තවත් ගමන් වාර රැසක් වෙනත් ගුවන් තොටුපොළ වෙත යොමුකිරීමටත් පියවර ගැනුණි.
+Improved tunnels and roads were flooded with the problems of the functioning of the Emine's Waterian System.
+
+Dubai International Airport, which is considered the most busy airport in the world, was flooded during the floods.
+
+Accordingly, the authorities had to restrict their affairs, and steps were taken to submit a number of other travels to other airport.
+
+Emirates, Fly Dubai have been temporarily stopped operating to Dubai.
 
 ...
 
 [Data](articles/fc26cab7.json)
+
+[Extended Data](ext_articles/fc26cab7.ext.json)
+
+---
+
+### உக்ரைன் யுத்தம் - ரஸ்யா இதுவரை 50,000 படையினரை இழந்துள்ளது - பிபிசி
+
+*2024-04-17 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/181276) · `ta`
+
+உக்ரைன் யுத்தத்தில் ரஸ்யா இதுவரை 50000க்கும் அதிகமான படையினரை இழந்துள்ளது என பிபிசி செய்தி வெளியிட்டுள்ளது.
+
+கடந்த 12 மாதங்களில் ரஸ்ய உக்ரைனின் முன்னரங்கை நோக்கி பெருமளவு படையினரை அனுப்பியது  என தெரிவித்துள்ள பிபிசி  எண்ணப்பட்ட உடல்களின் எண்ணிக்கை முதல் 12 வருடங்களை விட 25 வீதம் அதிகமாக காணப்பட்டது எனவும் தெரிவித்துள்ளது.
+
+பிபிசி ரஸ்யன் மீடியாஜோனா என்ற சுயாதீன ஊடக குழு மற்றும் தொண்டர்கள் 2022 முதல் உடல்களின் எண்ணிக்கையை எண்ணிவருகின்றனர் என தெரிவித்துள்ள பிபிசி புதிய கல்லறைகளில் காணப்படும் பெயர்களை அடிப்படையாக வைத்தும் கடந்த 12 மாதங்களில் உயிரிழந்த படையினரின்  எண்ணிக்கையை கணிப்பிட்டுள்ளதாக குறிப்பிட்டுள்ளது.
+
+கடந்த 12 வருடங்களில் 27300 படையினர் உயிரிழந்துள்ளனர் என தெரிவித்துள்ள பிபிசி ரஸ்யா பெருமளவு படையினரை இழந்தே உக்ரைன் நிலங்களை கைப்பற்றியுள்ளது எனவும் குறிப்பிட்டுள்ளது.
+
+உக்ரைன் படையினரின் முன்னரங்கை நோக்கி தனது படையினரை அலைஅலையாக அனுப்பும் ரஸ்யாவின் தந்திரோபாயத்தை  பிபிபிmeat grinder strategy - என தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/a5aabb81.json)
 
 ---
 
@@ -80,19 +170,25 @@ These fishers had been arrested by the authorities in Myanmar for illegally cros
 
 ---
 
-### பாலிதவின் கடைசி ஆசை
+### The last wish of polya
 
 *2024-04-17 10:44:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலிதவின்-கடைசி-ஆசை/175-336029) · `ta`
 
-முன்னாள் பிரதி அமைச்சர் பாலித தெவரப்பெருமவின் இறுதிக்கிரியைகள் எதிர்வரும் சனிக்கிழமை (20) இடம்பெறவுள்ளதாக குடும்ப உறுப்பினர்கள் தெரிவிக்கின்றனர்.
+Palitha Thevarapperuma, former Deputy Minister, died after an accident and his funeral is set for Saturday. He requested to be buried within 24 hours in his own cart.
 
-இவர் நேற்று தனது வீட்டில் இரண்டு மின் கம்பிகளை இணைக்க முற்பட்ட போது மின்சாரம் தாக்கி நாகொட வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+🟩
 
-அவரை நல்லடக்கம் செய்வதற்காக களுத்துறையில் அவரது புதைகுழியை பாலித ஏற்கனவே தயார் செய்திருந்தார். அவர் இறந்த 24 மணி நேரத்திற்குள் அவரது அடக்கம் செய்யப்பட வேண்டும் என்பதும், அவரது உடலை அவரது சொந்த வண்டியில் அடக்கம் செய்ய எடுத்துச் செல்ல வேண்டும் என்பதும் அவரது கடைசி ஆசை என்பதும் குறிப்பிடத்தக்கது.
+Family members say that the funeral of former Deputy Minister Palitha Thevarapperuma will be held on Saturday (20).
+
+He died after being admitted to the Nagoda Hospital when he tried to attach two power lines at his home yesterday.
+
+Palitha had already prepared his grave in Kalutara to make him good. It is noteworthy that his last desire was to be buried within 24 hours of his death and his body was to be buried in his own cart.
 
 ◼️
 
 [Data](articles/94668ff5.json)
+
+[Extended Data](ext_articles/94668ff5.ext.json)
 
 ---
 
@@ -138,43 +234,73 @@ His comments came after some 11 commuter trains were cancelled on Tuesday (16) d
 
 ---
 
-### பாடலை பகிர்ந்த அதிகாரி கைது
+### Arrested officer shared by the song
 
 *2024-04-17 10:40:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடலை-பகிர்ந்த-அதிகாரி-கைது/175-336028) · `ta`
 
-‘சூரிய மங்கல்ய’ பாடலை சமூக வலைதளங்களில் திரித்து பகிர்ந்த குற்றச்சாட்டின் பேரில்  கலால் திணைக்கள அதிகாரி ஒருவர் வாரியபொலவில் கைது செய்யப்பட்டுள்ளார்.
+A department official was arrested in Wariyapola for distorting and sharing a traditional New Year song on social media. The CID is investigating after a complaint was lodged with the Inspector General of Police. The Northwest Provincial Division of the CID is also involved. The suspect, a 31-year-old officer from Talathu Oya, is to be produced in court today.
 
-மூத்த கலைஞர் ரோஹன பெத்தகே ரன்வல படையினருடன் இணைந்து பாடிய இந்த பாரம்பரிய புத்தாண்டு பாடலை சிதைத்தமை தொடர்பில் பொலிஸ்மா அதிபரிடம் முறைப்பாடு செய்யப்பட்டதை அடுத்து குற்றப் புலனாய்வுப் பிரிவின் கணினி குற்றப் புலனாய்வுப் பிரிவு விசாரணைகளை ஆரம்பித்துள்ளது.
+🟩
 
-தலத்துஓயாவைச் சேர்ந்த 31 வயதுடைய கலால் அதிகாரி ஒருவரைக் கைது செய்யும் நோக்கில் கணினி குற்றப் புலனாய்வுப் பிரிவின் வடமேற்கு மாகாணப் பிரிவினர் விசாரணைகளை மேற்கொண்டனர்.
+An official of the department has been arrested in Wariyapola on charges of distorting and sharing the song on social media.
 
-சந்தேக நபர் வாரியபொல பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டதுடன், இன்று குளியாப்பிட்டி நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளார்.
+The Criminal Investigation Unit of the Criminal Investigation Division (CID) has begun investigations after a complaint was lodged with the Inspector General of Police regarding the disintegration of this traditional New Year song, which was sung by senior artist Rohana Betake Ranwala.
+
+The Northwest Provincial Division of the Computer Criminal Investigation Division (Northwestern Provincial) has investigated the arrest of a 31 -year -old kalal officer from Talathu Oya.
+
+The suspect has been handed over to the Boarda Police Station and is to be produced before the Kiliyapitiya Magistrate's Court today.
 
 ◼️
 
 [Data](articles/2dff8c98.json)
 
+[Extended Data](ext_articles/2dff8c98.ext.json)
+
 ---
 
-### குழந்தைகளிடையே வயிற்றுப்போக்கு நோய் அதிகரிப்பு
+### Academic disease
 
 *2024-04-17 10:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைகளிடையே-வயிற்றுப்போக்கு-நோய்-அதிகரிப்பு/175-336027) · `ta`
 
-இந்த நாட்களில் குழந்தைகள் மத்தியில் கணிசமான அளவு வயிற்றுப்போக்கு நோய் பரவுவதை சுகாதார அதிகாரிகள் அவதானித்துள்ளதையடுத்து பெற்றோர்கள் எச்சரிக்கையுடன் இருக்குமாறு அவர்கள் வலியுறுத்தியுள்ளனர்.
+Health officials warn parents about diarrhea in children, urging immediate medical treatment if symptoms occur. LRH pediatrician Deepal Perera advises parents to be cautious about their children's diet. Typhoid fever spread is also a concern. Diarrhea is the second leading cause of death in children under 5, according to WHO.
 
-டெய்லி மிரருடன் பேசிய லேடி ரிட்ஜ்வே மருத்துவமனையின் (LRH) குழந்தை நல மருத்துவர் தீபால் பெரேரா, "நீடிக்கப்பட்ட விடுமுறை நாட்களைத் தொடர்ந்து குழந்தைகள் வெளியில் இருந்து அதிக உணவை உட்கொள்வதால் குழந்தைகளுக்கு வயிற்றுப்போக்கு ஏற்படுவது ஒரு சாதாரண சூழ்நிலையாகும்" என்றார்.
+🟩
 
-அறிகுறிகளில் அடிக்கடி தளர்வான அல்லது தண்ணீருடன் மலம் வெளியேறுதல், வயிற்று வலி அல்லது பிடிப்புகள், பசியின்மை, குமட்டல் மற்றும் வாந்தி ஆகியவை அடங்கும்.
+They have urged parents to be cautious after health officials have observed a significant amount of diarrhea spread among children these days.
 
-"இந்த அறிகுறிகள் தங்கள் குழந்தைகளில் காணப்பட்டால், பெற்றோர்கள் தங்கள் குழந்தைகளை உடனடியாக மருத்துவ சிகிச்சைக்கு அழைத்துச் செல்லுமாறு வலியுறுத்தப்படுகிறார்கள்."
+Speaking to the Daily Mirror, Lady Ridgeway Hospital (LRH) pediatrician Deepal Perera said, "It is a normal situation for children to eat too much food from the outside."
 
-மேலும், பெற்றோர்கள் தங்கள் குழந்தைகளுக்கு என்ன உணவளிக்கிறார்கள் என்பதில் அதிக விழிப்புடன் இருக்குமாறு அறிவுறுத்தப்படுகிறார்கள்.
+Symptoms include frequent loose or stool with water, abdominal pain or cramps, appetite, nausea and vomiting.
 
-இதற்கிடையில், குழந்தைகள் மத்தியில் டைபொய்ட் காய்ச்சல் பரவுவது குறித்து குழந்தை மருத்துவர் எச்சரித்தார்.
+"If these symptoms are found in their children, parents are urged to take their children immediately for medical treatment."
 
-...
+Also, parents are advised to be more vigilant on what feeds their children.
+
+In the meantime, the pediatrician warned the spread of typhoid fever among children.
+
+According to the World Health Organization (WHO), diarrhea is the second main cause of the death of children under the age of five.
+
+◼️
 
 [Data](articles/883f798e.json)
+
+[Extended Data](ext_articles/883f798e.ext.json)
+
+---
+
+### Final rites of Thewarapperuma to be held on Friday
+
+*2024-04-17 10:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Final-rites-of-Thewarapperuma-to-be-held-on-Friday/108-280832) · `en`
+
+Colombo, April 17 (Daily Mirror) - According to the family members, the funeral service for former Deputy Minister Palitha Thewarapperuma is scheduled to take place this  Friday (10).
+
+He had experienced an electric shock yesterday while attempting to connect two electrical wires at his residence and had passed away after being admitted to the Nagoda Hospital.
+
+He had already prepared his burial plot in Kalutara for him to be laid to rest. His last wish was for his burial to take place within 24 hours of his death and his remains to be taken for burial on his own carriage.
+
+◼️
+
+[Data](articles/08ba7e24.json)
 
 ---
 
@@ -373,6 +499,28 @@ Under the Tobacco and Vapes Bill, children turning 15 this year or younger will 
 [Data](articles/998afe0f.json)
 
 [Extended Data](ext_articles/998afe0f.ext.json)
+
+---
+
+### ඩකා හා කොළඹ යා කරමින් තවත් ගුවන් ගමනක්
+
+*2024-04-17 09:32:12* · [`adalk`](https://www.ada.lk/breaking_news/ඩකා-හා-කොළඹ-යා-කරමින්-තවත්-ගුවන්-ගමනක්/11-409117) · `si`
+
+ශ්‍රී ලංකාවේ කටුනායක ගුවන් තොටුපොළ හා බංග්ලාදේශයේ ඩකා ගුවන් තොටුපොළ අතර නව ගුවන් ගමන් සේවාවක් ආරම්භ කිරිමට ෆිට්ස් ගුවන් සේවය කටයුතු කර තිබේ.
+
+ඊයේ (16දා) මෙම ගුවන් ගමන ආරම්භ කර තිබේ. මේ හරහා දෙරට අතර සංචාරක හා වෙළඳ යන ක්ෂේත්‍රවල වර්ධනයක් සිදුවෙනු ඇතැයි ගුවන් තොටුපොල ශා ගුවන් සේවා සමාගම  පවසයි.
+
+ෆිට්ස් ගුවන් සේවය මේ වන විට  මේ වන විට ශ්‍රී ලංකාවේ සිට මාලදිවයින,ඩුබායි හා චෙන්නායි වෙත ගුවන් ගමන් ක්‍රියාත්මක කරනු ලබයි.
+
+Colombo, April 17 (Daily Mirror) - Fits Air is expanding its wings, adding Colombo-Dhaka direct flights from today, the Airport and Aviation Services (Sri Lanka) (Pvt) Limited announced.
+
+Currently, Fits Air operates to three destinations from Colombo such as Dubai, Chennai and the Maldives.
+
+With this new route expansion, this will increase to four destinations, and it will contribute immensely to the development of the travel, trade, and tourism industries between Sri Lanka and Bangladesh.
+
+◼️
+
+[Data](articles/cc31f269.json)
 
 ---
 
@@ -681,6 +829,24 @@ Then a police officer who arrived there had confessed me and sent me and my wife
 [Data](articles/7fc86dde.json)
 
 [Extended Data](ext_articles/7fc86dde.ext.json)
+
+---
+
+### Lankan students to shine on global stage with robotics innovations
+
+*2024-04-17 08:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lankan-students-to-shine-on-global-stage-with-robotics-innovations/108-280793) · `en`
+
+Six students from the Burhani Serendib School in Colombo have qualified to take part in a prestigious global robotics competition, marking the first time Sri Lankan schoolchildren have qualified for this particular competition.
+
+Known as the International Creativity and Innovation Award (ICIA), the competition celebrates the most inventive young minds globally and will see the Sri Lankan students showcase their talents later this month in Thailand.
+
+The ICIA is not just a competition but a comprehensive learning platform that promotes creativity and innovation among youth. This initiative aligns with the World Creativity and Innovation Day, an event endorsed by the United Nations to foster inventive thinking worldwide.
+
+...
+
+[Data](articles/45309ac1.json)
+
+[Extended Data](ext_articles/45309ac1.ext.json)
 
 ---
 
@@ -1642,24 +1808,6 @@ The Controller of the Department of Immigration and Emigration, ISHJ Ilukpitiya,
 
 ---
 
-### Lankan students to shine on global stage with robotics innovations
-
-*2024-04-17 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lankan-students-to-shine-on-global-stage-with-robotics-innovations/108-280793) · `en`
-
-Six students from the Burhani Serendib School in Colombo have qualified to take part in a prestigious global robotics competition, marking the first time Sri Lankan schoolchildren have qualified for this particular competition.
-
-Known as the International Creativity and Innovation Award (ICIA), the competition celebrates the most inventive young minds globally and will see the Sri Lankan students showcase their talents later this month in Thailand.
-
-The ICIA is not just a competition but a comprehensive learning platform that promotes creativity and innovation among youth. This initiative aligns with the World Creativity and Innovation Day, an event endorsed by the United Nations to foster inventive thinking worldwide.
-
-...
-
-[Data](articles/45309ac1.json)
-
-[Extended Data](ext_articles/45309ac1.ext.json)
-
----
-
 ### 2024-04-16 (Tuesday)
 
 ### Olympic flame loaded at ancient Olympia
@@ -2011,151 +2159,5 @@ The 51-year-old is reportedly a resident of Colombo 12 area. He will be produced
 [Data](articles/cbf61d1e.json)
 
 [Extended Data](ext_articles/cbf61d1e.ext.json)
-
----
-
-### Keheliya’s official vehicles not handed over yet?
-
-*2024-04-16 21:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliyas-official-vehicles-not-handed-over-yet/108-280790) · `en`
-
-Colombo, April 16 (Daily Mirror) - Since the remanding of former Health Minister Keheliya Rambukwella, the two official vehicles provided to him while he was Minister are still being used by his family members, a Health Ministry official alleged.
-
-He claimed that the official residence provided to the former Minister at Wijerama Mawatha has also not been handed over yet.
-
-If a public official is in remand custody, all the privileges he has received will be revoked immediately. Hence, the official questioned why former Minister Rambukwella is being given special consideration.
-
-The official also alleged that the family members of Minister Rambukwella, who is on remand, come to the Welikada Prison in the same official vehicles.
-
-A Toyota Prado and a Mercedes-type vehicle are being used by his family members to visit him.
-
-...
-
-[Data](articles/269d9563.json)
-
-[Extended Data](ext_articles/269d9563.ext.json)
-
----
-
-### Kadi Kadalai arrested for demanding Rs.
-
-*2024-04-16 21:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195700) · `si`
-
-Kadi Kadalai arrested for Rs. 1,900 demand in Colombo's Street Food Marketing.
-
-🟩
-
-A person has been arrested in connection with Street Food Marketing, Colombo for Rs 1,900.
-
-◼️
-
-[Data](articles/f17bbcc5.json)
-
-[Extended Data](ext_articles/f17bbcc5.ext.json)
-
----
-
-### Sarvodaya Movement Founder Aryaratne passed away!
-
-*2024-04-16 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181260) · `ta`
-
-Dr. AT Ariyarathna, founder of the Sarvodaya Movement, died at 92. A continuous activist in Sri Lankan politics and social development, he passed away on Tuesday evening.
-
-🟩
-
-Dr. AT Ariyarathna, the founder of the Sarvodaya Movement, passed away at a private hospital in Colombo on Tuesday evening (16). He is 92 years old at his death.
-
-Born on November 5, 1931, Aryaratne was known as a continuous activist in Sri Lankan politics and social development.
-
-◼️
-
-[Data](articles/8743c2ca.json)
-
-[Extended Data](ext_articles/8743c2ca.ext.json)
-
----
-
-### Street food vendor arrested for price-gouging & verbally harassing a foreigner
-
-*2024-04-16 20:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98670/street-food-vendor-arrested-for-price-gouging-verbally-harassing-a-foreigner-) · `en`
-
-The police have arrested the owner of a street food stall in Aluthkade (Hulftsdorp) for price-gouging and verbally harassing a foreigner.
-
-The arrest was made by the officers of Keselwatta Police based on a widely-circulated video of the said vendor who attempted to charge Rs. 1,900 from a foreigner for a Kottu Roti.
-
-The vendor was also seen behaving in a verbally aggressive manner when the foreigner refused to buy the food item at the quoted price.
-
-The 51-year-old is reportedly a resident of Colombo 12 area. He will be produced before the Aluthkade Magistrate’s Court tomorrow (17).
-
-◼️
-
-[Data](articles/abd89548.json)
-
-[Extended Data](ext_articles/abd89548.ext.json)
-
----
-
-### More information about the death of Palitha Thevarapperuma
-
-*2024-04-16 20:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195699) · `si`
-
-Palitha Thevarapperuma, former Deputy Minister, died this afternoon while working on his personal estate. He fell and was taken to the hospital, where he passed away after a 40-minute journey.
-
-🟩
-
-The relatives of the family say that the former Deputy Minister Palitha Thevarapperuma has passed away this afternoon.
-
-It is reported that the death has occurred when he is involved in any work in his personal estate.
-
-The son of the elder brother of Palitha Thevarapperuma, the son of the elder brother, explained the incident,
-
-"He was fertilizing his personal estate. Electricity has been obtained from the estate line. It was unwittingly on the floor and had fallen. The employees there had taken him to the hospital. With the distance, about 40 minutes to get the hospital. "
-
-◼️
-
-[Data](articles/dcd22340.json)
-
-[Extended Data](ext_articles/dcd22340.ext.json)
-
----
-
-### Parliament’s Budget Officer to get handsome salary of Rs 665,000
-
-*2024-04-16 20:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliaments-Budget-Officer-to-get-handsome-salary-of-Rs-665-000/108-280789) · `en`
-
-Colombo, April 16 (Daily Mirror) - Parliament is offering a total monthly salary of Rs 665,000 to a ‘budget officer’ which is a newly created post in the House.
-
-As per the official website the basic salary of the budget officer is said to be Rs 408,360 while it will come to a total of Rs 665,000 with all allowances.
-
-The age limit of the officer should be 65 years. Any eligible person should possess at least 15 years of experience in the government budgeting, financial policy, fiscal policy or macroeconomic analysis according to the official notice of the House.
-
-However Samagi Jana Balawegaya (SJB) MP and Chairman of Committee on Public Finance (COPF) Harsha de Silva in his X message said a former senior multilateral agency professional would fit in to the job. The budget officer will be hired on a five year contract according to him.
-
-...
-
-[Data](articles/6e77ce0f.json)
-
-[Extended Data](ext_articles/6e77ce0f.ext.json)
-
----
-
-### Sri Lanka opposition welcomes ESG bond idea in ISB restructure, slams secrecy
-
-*2024-04-16 20:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-welcomes-esg-bond-idea-in-isb-restructure-slams-secrecy-158765/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s main opposition Samagi Jana Balawegaya has welcomed a proposal for governance linked bonds but re-voiced objections to underlying securities linked to economic performance that are sought by sovereign bondholders in a re-structuring.
-
-SJB said the bond holders clearly did not want to move away from macro-linked bonds, on a higher ‘alternative baseline’, based on the contents of a statement issued by the Finance Ministry after a first round of talks with bondholders in London.
-
-RELATED Sri Lanka agrees to state contingent factor in ISB exchange, ESG bonds also in play
-
-“The main problem with this approach from the point of view of Sri Lanka is with their proposed structure of sharing the upside,” opposition legislator Harsha de Silva, the economic spokesman of the SJB said in a statement.
-
-“It is not acceptable given the pain already incurred and will be incurred for decades to come by domestic creditors forced upon by the domestic debt restructure.”
-
-...
-
-[Data](articles/06352ba0.json)
-
-[Extended Data](ext_articles/06352ba0.ext.json)
 
 ---

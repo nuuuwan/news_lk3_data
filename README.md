@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 07:54:47**
+As of **2024-04-17 08:06:17**
 
 ## Newspaper Stats
 
-*Scraped **19,262** Articles*
+*Scraped **19,264** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,058
-economynextcom | 1,082
+economynextcom | 1,084
 adalk | 1,600
 tamilmirrorlk | 2,244
 adaderanalk | 2,316
@@ -26,35 +26,47 @@ adaderanasinhalalk | 3,135
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,255 (100.0%) of 19,262 articles have been extended.
+19,262 (100.0%) of 19,264 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### Excise officer arrested for distorting New Year song and sharing on social media
+### Excise officer arrested for distorting ‘New Year’ song and sharing on social media
 
 *2024-04-17 07:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98676/excise-officer-arrested-for-distorting-new-year-song-and-sharing-on-social-media) · `en`
 
-A 31-year-old from Wariyapola has been arrested for allegedly singing a distorted version of the ‘Soorya Mangalya’ New Year song by Rohana Beddage and sharing it on social media, police said.
+A 31-year-old from Wariyapola has been arrested for allegedly singing a distorted version of the popular New Year song ‘Soorya Mangalya’ by Rohana Beddage and sharing it on social media, police said.
 
-The arrested individual is said to be an Excise Officer who is residing in the Wariyapola area.
+The arrested individual is said to be an Excise Officer who is residing of the Thalathuoya area.
+
+The North Western Province Unit of the Computer Crime Investigation Division had launched an investigation into the matter based on a complaint received by the IGP alleging that the song in question, which is frequently aired during the Sinhala and Tamil New Year, had been distorted and shared on social media.
+
+Accordingly, the 31-year-old suspect was arrested yesterday (16) at the North Western Province Unit’s Wariyapola offices and is to be produced at the Kuliyapitiya Magistrate’s Court today (17).
 
 ◼️
 
 [Data](articles/8de8004d.json)
 
+[Extended Data](ext_articles/8de8004d.ext.json)
+
 ---
 
-### සංචාරකයින් සඳහා "ඊ වීසා" ක්‍රමය අද සිට
+### "E Visa" method for tourists
 
 *2024-04-17 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195708) · `si`
 
-සංචාරකයින් සඳහා පමණක් අද (17) සිට "ඊ වීසා"  ක්‍රමවේදය ක්‍රියාත්මක කරන බව ආගමන විගමන දෙපාර්තමේන්තුව පවසයි.
+"E Visa" for tourists implemented by Immigration since 2017.
+
+🟩
+
+The Department of Immigration and Emigration says that "E Visa" system will be implemented only since (17).
 
 ◼️
 
 [Data](articles/b3d8ba5a.json)
+
+[Extended Data](ext_articles/b3d8ba5a.ext.json)
 
 ---
 
@@ -74,6 +86,8 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/1887fa96.json)
 
+[Extended Data](ext_articles/1887fa96.ext.json)
+
 ---
 
 ### SL-bondholders talks on restructuring terms fail
@@ -91,6 +105,8 @@ According to the filing, Sri Lanka rejected the ‘Macro-Linked Bond’ (MLB) pr
 ...
 
 [Data](articles/13ccf020.json)
+
+[Extended Data](ext_articles/13ccf020.ext.json)
 
 ---
 
@@ -159,6 +175,24 @@ Palitha Thevarapperuma was designed while his Susan was alive while he was alive
 [Data](articles/105696ab.json)
 
 [Extended Data](ext_articles/105696ab.ext.json)
+
+---
+
+### Eyeing Green Bonds, Sri Lanka State FinMin takes part at WB Biodiversity Financing forum
+
+*2024-04-17 07:00:00* · [`economynextcom`](https://economynext.com/eyeing-green-bonds-sri-lanka-state-finmin-takes-part-at-wb-biodiversity-financing-forum-158783/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s State Finance Minister Shehan Semasinghe took part in the World Bank’s Bio-Diversity Financing Forum on the sideline of the IMF/World Bank Spring Meeting in Washington late on Tuesday as the island nation is looking to borrow through nature-lined Green Bonds.
+
+Sri Lanka’s Colombo Stock Exchange (CSE) introduced listing of Green Bonds in April last year and officials say a few parties have expressed interests in listing. However, so far no listing has been done.
+
+The money raised from Green Bonds, a nature-linked debt instrument, could be used only for green projects like renewable energy, unlike conventional corporate debenture, which could be used for anything the government wants.
+
+The island nation has set targets to become carbon neutral in 2050 and is looking for $11.26 billion in investment to meet its renewable energy targets in eight years through 2030, government officials have said.
+
+...
+
+[Data](articles/437c3922.json)
 
 ---
 
@@ -278,55 +312,91 @@ The Business Committee of Parliament that met on on April 5 decided to have a th
 
 ---
 
-### தப்பியோடிய கைதிகள் மீண்டும் கைது
+### Arrests again
 
 *2024-04-17 06:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தப்பியோடிய-கைதிகள்-மீண்டும்-கைது/175-336014) · `ta`
 
-யாழ். சிறைச்சாலையில் இருந்து வழக்கு விசாரணைக்காக சாவகச்சேரி நீதவான் நீதிமன்றத்திற்கு அழைத்துச் செல்லப்பட்ட கைதிகளில் இருவர் தப்பியோடிய நிலையில், கைது செய்யப்பட்டுள்ளனர்.
+Two inmates arrested for fleeing Chavakachcheri prison were sentenced to six months and fined 1500 rupees each.
 
-திருட்டுக் குற்றச்சாட்டிற்காக ஒரு வருட சிறைத்தண்டனை பெற்று வந்த கைதியும், விளக்கமறியல் கைதி ஒருவருமே நேற்று காலை  தப்பியோடினர்.
+🟩
 
-உடனடியாக செயற்பட்ட சாவகச்சேரி பொலிஸார், 30 நிமிடங்களுக்குள் இருவரையும் கைது செய்து மீண்டும் நீதிமன்றில் ஆஜர்ப்படுத்தினர்.
+Yall. Two of the inmates who were taken to the Chavakachcheri Magistrate's Court have been arrested after they have fled the prison.
 
-இதன்போது, தப்பியோடிய குற்றத்திற்காக இருவருக்கும் தலா 6 மாத சாதரண சிறைத்தண்டனையும், தலா 1500 ரூபா தண்டப்பணமும் விதித்து நீதவான் உத்தரவிட்டார். (a)
+A prisoner and a prisoner who had been sentenced to one year in prison for theft alleged had fled yesterday morning.
+
+The Chavakachcheri police immediately arrested the two men within 30 minutes and produced them back to court.
+
+Meanwhile, the magistrate ordered the two men to be sentenced to six months' imprisonment and 1500 rupees each.. (A)
 
 ◼️
 
 [Data](articles/d343beba.json)
 
+[Extended Data](ext_articles/d343beba.ext.json)
+
 ---
 
-### ஜனாதிபதி நுவரெலியாவுக்கு விஜயம்
+### Sri Lanka police chief vows to step up fight against crime, drugs; hints to increase resources
+
+*2024-04-17 06:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-chief-vows-to-step-up-fight-against-crime-drugs-hints-to-increase-resources-158786/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Inspector General of Police (IGP) Deshabandu Tennakoon has vowed to increase resources and cadres in the fight against drug menace and crimes even by closing some unproductive divisions if required.
+
+The island nation’s police under Tennakoon have focused on eradicating drug menace through a special operation despite local and international criticism over human rights abuses.
+
+Sri Lanka has recognized the drug menace as one of the key threats and Tennakoon-led police have backed drastic measures in the special anti-drug operation titled “Yukthiya” (justice) to nab the drug distributors across the country.
+
+Since the operation was launched in mid-December, the police have arrested tens of thousands of 0 people mostly with drugs including heroin, cannabis, synthetic drugs, and cocaine, police data show.
+
+...
+
+[Data](articles/89c73a78.json)
+
+---
+
+### Visit President Nuwara Eliya
 
 *2024-04-17 05:46:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நுவரெலியாவுக்கு-விஜயம்/175-336011) · `ta`
 
-நுவரெலியா - கோர்ட் லொட்ஜ் பெருந்தோட்டத்துக்கு ஜனாதிபதி ரணில் விக்ரமசிங்க நேற்று (16) விஜயமொன்றை மேற்கொண்டுள்ளார்.
+President Ranil Wickremesinghe visited Nuwara Eliya's Court Lodge Plantation, focusing on education, health, and housing for plantation people.
 
-நுவரெலியாவின் மலைகளை சூழவுள்ள சுற்றுலா வாய்ப்புகள் தொடர்பிலும் இதன்போது அவர் அறிந்துகொண்டதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது.
+🟩
 
-இந்த விஜயத்தின் போது தோட்ட மக்கள் எதிர்கொள்ளும் கல்வி, சுகாதார பிரச்சினைகள் குறித்து ஜனாதிபதி அவதானம் செலுத்தியுள்ளார். உயர்தரத்தின் பின்னரான அப்பகுதி பிள்ளைகளின் எதிர்காலம் குறித்தும் ஆராய்ந்தார்.
+President Ranil Wickremesinghe made a visit to the Nuwara Eliya - Court Lodge Plantation yesterday (16).
 
-அதனையடுத்து தோட்ட மக்களின் வீட்டுப் பிரச்சினைகள் குறித்தும் ஜனாதிபதி விசேட கவனம் செலுத்தினார். (a)
+The Presidential Media Unit said that he was aware of the tournamental opportunities surrounding the mountains of Nuwara Eliya.
+
+During the visit, the President has paid attention to the education and health problems faced by the plantation people. He also examined the future of the children after the high level.
+
+Subsequently, the President also paid special attention to the housing issues of the plantation people. (A)
 
 ◼️
 
 [Data](articles/ef2c6c76.json)
 
+[Extended Data](ext_articles/ef2c6c76.ext.json)
+
 ---
 
-### ’ஜனாதிபதி தேர்தலில் போட்டியிடுமாறு சு.க. அழைப்பு’
+### The SLFP to contest the presidential election. Call telephone
 
 *2024-04-17 05:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-போட்டியிடுமாறு-சு-க-அழைப்பு/175-336010) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் போட்டியிடுமாறு ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் மத்திய செயற்குழுவின் பெரும்பான்மையான உறுப்பினர்கள் தன்னிடம் கோரிக்கை விடுத்தனர் என நீதி அமைச்சர் கலாநிதி விஜேதாச ராஜபக்ஷ  தெரிவித்தார்.
+Dr. Wijeyadasa Rajapakse, Sri Lanka Freedom Party (SLFP) central executive committee member, has been requested by most members to contest the presidential election. He plans to make a decision within the next few weeks.
 
-இதன்படி, ஜனாதிபதி தேர்தலில் போட்டியிடுவது குறித்து அடுத்த சில வாரங்களில் தீர்மானம் எடுப்பதாகவும் அவர் குறிப்பிட்டார்.
+🟩
 
-நாட்டிலுள்ள எந்தவொரு அரசியல் கட்சியின் மீதும் பொதுமக்களுக்கு நம்பிக்கையில்லை எனவும்  விஜேதாச ராஜபக்ஷ  தெரிவித்தார். (a)
+Minister of Justice Dr. Wijeyadasa Rajapakse said that the majority of the members of the Sri Lanka Freedom Party (SLFP) central executive committee have requested him to contest the upcoming presidential election.
+
+Accordingly, he said that he would take a decision on the presidential election in the next few weeks.
+
+Wijeyadasa Rajapakse said that there is no confidence in any political party in the country. (A)
 
 ◼️
 
 [Data](articles/9d02a685.json)
+
+[Extended Data](ext_articles/9d02a685.ext.json)
 
 ---
 
@@ -2099,67 +2169,5 @@ Most people questioned the activities of the Amman Regiment. Not to lift the wea
 [Data](articles/e3389be0.json)
 
 [Extended Data](ext_articles/e3389be0.ext.json)
-
----
-
-### Fire spread in historic stock market building in Denmark
-
-*2024-04-16 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181231) · `ta`
-
-A historic 17th-century stock market building in Copenhagen, Denmark, was destroyed by fire on Tuesday. No one was injured, and some historical paintings were saved. The building, a 400-year-old Cultural Heritage, was renovated and housed the Tentamark Chamber of Commerce.
-
-🟩
-
-The historic old stock market building in the middle of the Denmark capital, Copenhagen, was destroyed on Tuesday morning.
-
-The building is one of the oldest buildings of the 17th century Porsche.
-
-When the fire spreads, everyone inside the building has left. No one has been affected until now. People have recovered some historical paintings.
-
-The 400-year Cultural Heritage of Denmark has been set on fire, said Cultural Minister Jakob Engal-Schmid.
-
-It is a short distance of 1625, from the Parliament of Denmark and the Christianfour Palace, called "The Folketing".
-
-This stock market was renovated and covered with plastic envelopes for protection. It currently has a Tentamark Chamber of Commerce.
-
-Local craftsman Henrik Grage said, “It's a sad day. This is our notra-dame, ”he compared the 2019 fire at the Nodere Dame Church in Paris.
-
-Residents who have crossed the phase with emergency services and Brian Mickelsen, the Director of the Denmark Chamber of Commerce, have also protected art treasures.
-
-...
-
-[Data](articles/cb3335b5.json)
-
-[Extended Data](ext_articles/cb3335b5.ext.json)
-
----
-
-### President enjoyed the pico trail experience
-
-*2024-04-16 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195692) · `si`
-
-President Ranil Wickremesinghe visited the Coat Lodge Estate in Nuwara Eliya, enjoying the Pico Trail experience. This trail, a 300-kilometer route through Sri Lanka's central hills, is considered one of Asia's best secret roads. The President explored the trail, considering its potential to boost Sri Lanka's mountain tourism. Miguel Cunat, founder of the Pico Trail project, thanked the President for supporting its opening. The trail offers a unique cultural and historical experience, supported by USAID and EU Trail for Sri Lanka's tourism strategies.
-
-🟩
-
-President Ranil Wickremesinghe visited the Coat Lodgestalla estuary of the Plantation in Nuwara Eliya this morning.
-
-"The President join the visit through the Pico Trail (PEKO TRAIL).
-
-"Pico Trail" is a route of about 300 kilometers run through the central hills of Sri Lanka. It is considered one of the best secret roads in Asia.
-
-This pico trail is the well-known city of Kandy and heads to the Horton Plains of the Horton and Horton Plains.. Then it moves to the east across Haputale and Falls and pass around the city of beautiful Nuwara Eliya. This road was used to transport tea to the factory during the British colonial period.
-
-The President visited the Pico Trail "rolls along the" Pico Trail "route.
-
-The President also looked into the potential to promote the mountainside tourism industry in Sri Lanka through Pico Trail.
-
-Miguel Qunat (Miguel Cunat), Miguel Qunat, said that Sri Lanka was the founder of the "Pico Trail" project.
-
-...
-
-[Data](articles/342bf19d.json)
-
-[Extended Data](ext_articles/342bf19d.ext.json)
 
 ---

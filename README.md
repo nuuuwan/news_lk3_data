@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 19:18:11**
+As of **2024-04-17 19:34:07**
 
 ## Newspaper Stats
 
-*Scraped **19,378** Articles*
+*Scraped **19,396** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,9 +14,9 @@ dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,059
-economynextcom | 1,084
-adalk | 1,616
-tamilmirrorlk | 2,261
+economynextcom | 1,099
+adalk | 1,617
+tamilmirrorlk | 2,263
 adaderanalk | 2,329
 virakesarilk | 2,894
 dailymirrorlk | 2,989
@@ -26,23 +26,67 @@ adaderanasinhalalk | 3,157
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,376 (100.0%) of 19,378 articles have been extended.
+19,378 (99.9%) of 19,396 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### கடன் மறுசீரமைப்பு பேச்சுவார்த்தை : உடன்பாட்டுக்காக தொடரும் கலந்துரையாடல் - ஷெஹான் சேமசிங்க
+### அருட்தந்தைக்கு  CID அழைப்பாணை
+
+*2024-04-17 19:20:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அருட்தந்தைக்கு-CID-அழைப்பாணை/175-336056) · `ta`
+
+கொழும்பு உயர்மறைமாவட்டத்தின் தொடர்பாடல் குழு உறுப்பினர் Fr. சிறில் காமினி பெர்னாண்டோவை குற்றப் புலனாய்வுப் பிரிவினர் ஏப்ரல் 19 வெள்ளிக்கிழமை விசாரணைக்கு அழைத்துள்ளனர்.
+
+ஞானார்த்த பிரதீப்யா என்ற சிங்கள கத்தோலிக்க வார இதழின் ஆசிரியருமான அருட்தந்தை பெர்ணான்டோ , ஈஸ்டர் ஞாயிறு தாக்குதல்கள் தொடர்பான சில விவரங்கள் தனக்குத் தெரியும் என குற்றப் புலனாய்வுப் பிரிவினர் நம்புவதால் தமக்கு அழைப்பாணை அனுப்பப்பட்டுள்ளதாகத் தெரிவித்துள்ளார்.
+
+அருட்தந்தை பெர்னாண்டோ 2021 நவம்பர் 3 முதல் 8 வரையான காலப்பகுதியிலும் சிஐடியால் அழைக்கப்பட்டதுடன் அந்த ஆண்டில் அவர் கைது செய்யப்படுவதற்கு எதிராக தடை உத்தரவைப் பெற்றமையும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c34a528d.json)
+
+---
+
+### பாலித தெவரப்பெருமவின் மரணத்திற்கான காரணம் வெளியானது
+
+*2024-04-17 19:12:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலித-தெவரப்பெருமவின்-மரணத்திற்கான-காரணம்-வெளியானது/175-336055) · `ta`
+
+மின்சாரம் தாக்கியதில் உள்ளுறுப்புகளில் ஏற்பட்ட பலத்த சேதம் காரணமாகவே முன்னாள் இராஜாங்க அமைச்சர் பாலித தெவரப்பெருமவின் மரணம் சம்பவித்துள்ளதாக பிரேத பரிசோதனையில் உறுதிப்படுத்தப்பட்டுள்ளது.
+
+களுத்துறை நாகொடை பொது வைத்தியசாலையின் சட்ட வைத்திய பிரிவின் பிரதம சட்ட வைத்திய அதிகாரி கே. எம். டி. பி. குணதிலக்க தலைமையில் வைத்தியசாலையின் சட்ட வைத்தியப் பிரிவில் பிரேத பரிசோதனை இன்று (17) நடைபெற்றது.
+
+விபத்துக்குள்ளான இடத்தை நேற்று (16) களுத்துறை சட்ட வைத்திய அதிகாரி விசேட வைத்தியர் கலாநிதி கே. எம். டி. பி. குணதிலக்க அவதானித்த பின்னர், பிரேத பரிசோதனை இடம்பெற்றுள்ளது.
+
+பின்னர், களுத்துறை குற்றத்தடுப்பு விசாரணை ஆய்வக அதிகாரிகள் விபத்து நடந்த இடத்தை அவதானித்ததுடன், மத்துகம மேலதிக நீதவானும் சம்பவ இடத்தில் விசாரணைகளை மேற்கொண்டார்.
+
+பிரேத பரிசோதனைக்கு முன்னர், சடலத்தை களுத்துறை பிரதான நீதவான் நிதா ஹேமமாலி ஹல்பண்தெனியவும் பரிசோதனை செய்துள்ளார்.
+
+பிரேத பரிசோதனையின் பின்னர் பிற்பகல் 3.30 மணியளவில் அமைச்சரின் மனைவியிடம் சடலம் ஒப்படைக்கப்பட்டு களுத்துறையில் உள்ள மலர்ச்சாலைக்கு கொண்டு செல்லப்பட்டது. R
+
+◼️
+
+[Data](articles/b541588b.json)
+
+---
+
+### Debt Reorganization negotiations: Continuing Discussion for Agreement
 
 *2024-04-17 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181332) · `ta`
 
-சர்வதேச இறையாண்மை பிணைமுறி பத்திரங்களை மறுசீரமைப்பது தொடர்பாக பத்திர உரிமையாளர்களுடன் உடன்பாடு எட்டப்படுவதற்காக தொடர்ந்து கலந்துரையாடல்களை மேற்கொள்ள எதிர்பார்க்கப்படுவதாக நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்தார்.
+Debt Reorganization talks continue, with Sri Lankan officials aiming for transparency and agreement with bond owners on restoring international sovereignty bonds.
 
-கடன் மறுசீரமைப்பு பேச்சுவார்த்தையில் இலங்கை அதிகாரிகள் நல்லெண்ணத்துடன் இணைந்து கொள்வார்கள் என்றும், இலங்கை அதிகாரிகள் அனைவரையும் நியாயமாக கையாள்வதற்கும் அத்தகைய பேச்சுவார்த்தைகளில் எதிர்பார்க்கப்படும் அதிகபட்ச வெளிப்படைத்தன்மையை உருவாக்குவதற்கும் பணியாற்றுவார்கள் என்றும் இராஜாங்க அமைச்சர் மேலும் கூறுகிறார்.
+🟩
+
+Finance Minister Shehan Semasinghe said that continuing discussions are expected to be held to reach the bonds with bond owners regarding the restoration of international sovereignty bonds.
+
+The Minister of State also says that Sri Lankan officials will join goodwill in the debt renovation talks and work to handle all Sri Lankan officials and create the maximum transparency expected in such negotiations.
 
 ◼️
 
 [Data](articles/88e84c24.json)
+
+[Extended Data](ext_articles/88e84c24.ext.json)
 
 ---
 
@@ -119,6 +163,26 @@ Go beyond politics and focus on this. It must be understood that they do it for 
 [Data](articles/a4ae88af.json)
 
 [Extended Data](ext_articles/a4ae88af.ext.json)
+
+---
+
+### පාලිතගේ මරණයට හේතුව හෙළිවෙයි
+
+*2024-04-17 18:00:16* · [`adalk`](https://www.ada.lk/breaking_news/පාලිතගේ-මරණයට-හේතුව-හෙළිවෙයි/11-409130) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍ය පාලිත තෙවරප්පෙරුම මහතාගේ මරණය විදුලි සැර වැදීමෙන් ශරීරයේ අභ්‍යන්තර ඉන්ද්‍රියන් වලට සිදුවූ බරපතළ හානි  හේතුවෙන්  සිදුවූ මරණයක් බව  පශ්චාත් පරීක්ෂණයේදී තහවුරු වී තිබේ.
+
+කළුතර නාගොඩ මහ රෝහලේ අධිකරණ වෛද්‍ය ඒකකයේ විශේෂඥ අධිකරණ වෛද්‍ය නිළධාරී  කේ එම් .ටී .බී. ගුණතිලක මහතාගේ ප්‍රධානත්වයෙන් අද (17 ) කළුතර  නාගොඩ මහ රෝහලේ අධිකරණ වෛද්‍ය ඒකකයේ දී  පශ්චාත් මරණ පරීක්ෂණය පැවැත්විණි.
+
+අමාත්‍යවරයා අනතුරට ලක්වූ යටදොළවත්ත , නවුත්තුඩුව කරම්පෑතර පිහිටි ස්ථානය කළුතර විශේෂඥ  අධිකරණ වෛද්‍ය නිලධාරී  කේ.එම්.ටී.බීගුණතිලක මහතා නිරීක්ෂණය කිරීමෙන් අනතුරුව පශ්චාත් මරණ පරීක්ෂණය සිදු කරනු ලැබීය.
+
+හිටපු අමාත්‍යවරයාගේ බිරිඳ වන අමිතා නාලිංගනී අමරතුංග මහත්මිය විසින් කළුතර ශීක්ෂණ  රෝහලේදී මෘත දේහය හඳුනාගන්නා ලදී.
+
+අනතුරුව කළුතර අපරාධ ස්ථාන පරීක්ෂණාගාර නිලධාරීන් අමාත්‍යවරයා අනතුරට ලක් වූ ස්ථානය නිරීක්‍ෂණය  කරන ලද අතර, මතුගම අතිරේක මහේස්ත්‍රාත්වරයා විසින් ස්ථානීය පරීක්ෂණයක්ද සිදුකරන ලදී .
+
+...
+
+[Data](articles/711289d6.json)
 
 ---
 
@@ -238,6 +302,22 @@ Beneficiaries have been selected to provide goats when they questioned the relev
 
 ---
 
+### Sri Lanka’s discussions with bondholders constructive: State finance minister
+
+*2024-04-17 17:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-discussions-with-bondholders-constructive-state-finance-minister-158922/) · `en`
+
+ECONOMYNEXT – Sri Lankan authorities continue to engage all debt restructuring negotiations in good faith, within principles of equitable treatment among creditors, and with maximum transparency within the norms of such negotiations, State Minister of Finance, Shehan Semasinghe has said.
+
+“It is standard practice, when a representative group of bondholders is formed, to entertain confidential discussions with such group and its appointed advisors. In the case of Sri Lanka, the Ad Hoc Group of Bondholders represents holders controlling more than 50% of the bonds, which make them a privileged interlocutor for Sri Lanka,” Semasinghe said on X (twitter).
+
+“It is well understood that given the price sensitive nature of the negotiations, and according to market regulations, discussions with the Group and its advisors are to be conducted under non-disclosure agreements. This evidently restricts the ability of the Government to unilaterally report about the substance of the discussions.
+
+...
+
+[Data](articles/43b41f1f.json)
+
+---
+
 ### Palitha Thevarapperuma's death inspection report released
 
 *2024-04-17 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195728) · `si`
@@ -303,6 +383,26 @@ Accordingly, the Criminal Investigation Department has informed the CID at 10 am
 [Data](articles/6e5fc7d9.json)
 
 [Extended Data](ext_articles/6e5fc7d9.ext.json)
+
+---
+
+### Sri Lanka rupee weakens at 301.00/302.05 to the US dollar
+
+*2024-04-17 17:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weakens-at-301-00-302-05-to-the-us-dollar-158915/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.00/302.05 to the US dollar in the spot forex market on Tuesday, from 299.00/10 on Tuesday, dealers said. Bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed stable at 11.30/35 percent.
+
+A bond maturing on 15.09.2027 closed at 11.90/12.05 percent up from 11.95/12.00 percent.
+
+A bond maturing on 15.12.2028 closed at 12.10/20 percent down from 12.10/15 percent.
+
+A bond maturing on 15.03.2031 closed at 12.30/50 percent. (Colombo/Apr17/2024)
+
+◼️
+
+[Data](articles/165499f4.json)
 
 ---
 
@@ -372,6 +472,24 @@ Embilipitiya Magistrate has conducted the magisterial inquiry and Udawalawe Poli
 
 ---
 
+### Sri Lanka Treasury Bill yields down across maturities
+
+*2024-04-17 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-down-across-maturities-158910/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasuries yields were down across maturities at Wednesday’s auction with the 3-month yield moving down 7 basis points to 10.03 percent, data from the state debt office showed.
+
+The debt office sold all 30 billion rupees of 3-month bills offered.
+
+The 6-month yield fell 5 basis points to 10.22 percent, with 25 billion rupees of bills offered and 29.98 billion rupees sold.
+
+The 12-month yield dropped 4 basis points to 10.23 percent with 18.01 billion rupees of bills sold after offering 23 billion rupees. (Colombo/Apr17/2024)
+
+◼️
+
+[Data](articles/94cd150e.json)
+
+---
+
 ### Easter attacks: NPP vows to properly institute legal action under its govt.
 
 *2024-04-17 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98686/easter-attacks-npp-vows-to-properly-institute-legal-action-under-its-govt) · `en`
@@ -391,6 +509,30 @@ Easter Attack - NPP Charter 2024 April by Adaderana Online on Scribd
 [Data](articles/edeea389.json)
 
 [Extended Data](ext_articles/edeea389.ext.json)
+
+---
+
+### Sri Lanka stocks close up, banks and index heavyweights see interest
+
+*2024-04-17 16:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-and-index-heavyweights-see-interest-158905/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader All Share Index closed up 0.33 percent, or 38.78 points, at 11,830; while the S&P SL20 Index closed up 0.61 percent, or 21.07 points, at 3,491.
+
+Turnover was at 2 billion. The banks (Rs619mn) and diversified financials (Rs244mn) sectors brought in the most value and saw a pick up after yesterday’s selling.
+
+“The market was a bit volatile today, it fell in the morning before recovering later,” market participants said.
+
+“There were mixed sentiments. Interest came into banks and index heavyweights.”
+
+Commercial Bank of Ceylon Plc was up at 105.75, John Keells Holdings Plc was up at 203.00, Lanka IOC Plc was up at 129.75, National Development Bank Plc was down at 74.10, and DFCC Bank Plc closed down at 79.10.
+
+Retail activity was seen in several LOLC companies; LOLC Holdings Plc (up at 422.50). Browns Investments Plc (flat at 5.50); LOLC Finance Plc (up at 6.00).
+
+...
+
+[Data](articles/1849ee5d.json)
 
 ---
 
@@ -528,6 +670,26 @@ According to the data data, 27,300 Russian troops have died in the second year.
 
 ---
 
+### Sri Lankan fishermen released from Myanmar prison on Burmese new year
+
+*2024-04-17 15:58:00* · [`economynextcom`](https://economynext.com/sri-lankan-fishermen-released-from-myanmar-prison-on-burmese-new-year-158894/) · `en`
+
+ECONOMYNEXT – A total of 15 Sri Lankan fishermen arrested in Myanmar and sentenced to 7 years of rigorous imprisonment were released today, Minister of Foreign Affairs Ali Sabry has said.
+
+“The 15 Sri Lankan fishermen taken into custody last December by Myanmar authorities sentenced to 07 years rigorous imprisonment, granted a general amnesty,” the Minister said on X (twitter).
+
+Today marks the first day of the traditional Burmese new year’s day, during which the junta government released more than 3,000 prisoners, according to CGTN, a Chinese state-run English news channel.
+
+It reports that among the released, 3,303 were Myanmar nationals, 36 “foreigners”, 13 Indonesians and 15 Sri Lankans.
+
+Sri Lanka had previously petitioned the Myanmar government for clemency on behalf of the detained Sri Lankan fishermen.
+
+...
+
+[Data](articles/79c1309a.json)
+
+---
+
 ### Excise officer remanded for distorting popular Avurudu song
 
 *2024-04-17 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98685/excise-officer-remanded-for-distorting-popular-avurudu-song) · `en`
@@ -622,6 +784,24 @@ Further investigations into the incident are being carried out by the Northwest 
 
 ---
 
+### Sri Lanka’s UNP scoffs at SJB v NPP debate, calls it ‘battle of empty rhetoric’
+
+*2024-04-17 15:24:00* · [`economynextcom`](https://economynext.com/sri-lankas-unp-scoffs-at-sjb-v-npp-debate-calls-it-battle-of-empty-rhetoric-158886/) · `en`
+
+ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe’s United National Party (UNP) has dismissed a proposed debate between its rivals Samagi Jana Balawegaya (SJB) and National People’s Power (NPP) as a battle of empty rhetoric.
+
+UNP general secretary Palitha Range Bandara told reporters on Wednesday April 17 that the two opposition parties, having shirked their responsibility in taking up the challenge of governing the country at the height of the 2022 financial crisis, is now talking about a debate once the hard work of stabilising the economy has already been done by a UNP president.
+
+“Two sides that engage in empty rhetoric are about to get on a stage. We can see that. It’s a battle of empty rhetoric. It’s not about developing the country,” said Bandara.
+
+Asked about the proposal for a debate between the SJB’s and the NPP’s economic councils, the former MP said: “If there is a team with such profound knowledge on the economy, why did they not take up the job?”
+
+...
+
+[Data](articles/af026312.json)
+
+---
+
 ### Complaint lodged over Piumi Hansamali's possession of Gota’s Range Rover
 
 *2024-04-17 15:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Complaint-lodged-over-Piumi-Hansamali-s-possession-of-Gotas-Range-Rover/108-280844) · `en`
@@ -660,6 +840,26 @@ Colombo, April 17 (Daily Mirror) - Mage Rata organization president Sanjaya Maha
 
 ---
 
+### Sri Lanka bike mounted police learning to shoot from the seat
+
+*2024-04-17 15:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-bike-mounted-police-learning-to-shoot-from-the-seat-158887/) · `en`
+
+ECONONOMYNEXT – A special task force team is being trained to go after motorbike riders who are carrying out increasingly daring criminal acts, according to Police Chief Deshabandu Tennakoon.
+
+“They are being trained to take aim while riding, Inspector General of Police of Sri Lanka Tennakoon said in comments broadcast over Sri Lanka’s Sirasa TV.
+
+A team of 100 officers from the police Special Task Force (STF) is being trained in the STF training camp in Katukurunda, Tennakoon said.
+
+20 special teams from the Police Special Task Force (STF) are being trained to pursue and arrest members of organized criminal gangs in the western and southern areas, Sri Lanka Police said in a statement.
+
+අපරාධ කල්ලි සාමාජිකයන් හඹා ගොස් අත්අඩංගුවට ගැනීමට විශේෂ පොලිස් කණ්ඩායම් 20ක්https://t.co/0JVVB3AgNE#srilankapolice #policemedia #Police pic.twitter.com/FF635tLp6y
+
+...
+
+[Data](articles/17a066d2.json)
+
+---
+
 ### Plantation community alleges presence of ’scam’ behind Indian Housing project, CWC faces heat
 
 *2024-04-17 15:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Plantation-community-alleges-presence-of-scam-behind-Indian-Housing-project-CWC-faces-heat/108-280843) · `en`
@@ -695,6 +895,8 @@ Reliable sources told the Daily Mirror that under this Indian housing grant, tho
 ...
 
 [Data](articles/63704ed1.json)
+
+[Extended Data](ext_articles/63704ed1.ext.json)
 
 ---
 
@@ -757,6 +959,24 @@ In this case, the Myanmar military has reported that Aung San Suu Kyi has been t
 [Data](articles/8e03dc93.json)
 
 [Extended Data](ext_articles/8e03dc93.ext.json)
+
+---
+
+### Sri Lanka Parliamentary groups call for sensitivity training for staff at public places
+
+*2024-04-17 14:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliamentary-groups-call-for-sensitivity-training-for-staff-at-public-places-158865/) · `en`
+
+ECONOMYNEXT – Two parliamentary groups have called for sensitivity training for staff at public spaces after a woman with disabilities was harassed at a government office, adding that the Government is obliged to ensure persons with disabilities have comfortable access to all public buildings.
+
+“We strongly condemn the incident that took place on 5th April 2024 at the Sethsiripaya where a woman with disabilities was obstructed from utilising her transportation services to leave the premises,” the Women Parliamentarians’ Caucus (WPC) and the Parliamentary Caucus for the Inclusion of Persons with Disabilities (PCIPD) said in a joint statement.
+
+“It has been brought to our notice that the language used by the relevant Security Officers has been highly insensitive, disrespectful and hurtful.”
+
+The two groups strongly urged “that the staff of Sethsiripaya (and other public spaces) be appropriately sensitised and informed about the rights of persons with disabilities.”
+
+...
+
+[Data](articles/b3145643.json)
 
 ---
 
@@ -910,6 +1130,24 @@ The Vavuniya Police Station Criminal Investigation Division is conducting seriou
 
 ---
 
+### Sri Lanka’s SJB slams NPP’s ‘debt audit’ proposal, insists restructuring is essential
+
+*2024-04-17 13:43:00* · [`economynextcom`](https://economynext.com/sri-lankas-sjb-slams-npps-debt-audit-proposal-insists-restructuring-is-essential-158853/) · `en`
+
+ECONOMYNEXT — The main opposition the Samagi Jana Balawegaya (SJB) has slammed the leftist National People’s Power (NPP)’s proposal of a ‘debt audit’ prior to the restructuring of Sri Lanka’s international sovereign bonds (ISBs).
+
+Without naming names, SJB parliamentarian Harsha de Silva told reporters on Wednesday April 17 that “some political parties” have proposed a debt audit to ascertain what percentage of Sri Lanka’s debt was misappropriated or hidden away, after which “we’ll pay what we can”.
+
+“Please understand that the global financial market does not work this way. If we took a loan, we have to pay it back. If the money has been stolen, those responsible must be found. That’s a different matter. There is a mechanism to bring such thieves to book.
+
+“But understand that this issue and our agreement with ISB holders are two different matters. The proposals made by some politicians cannot be done. Restructuring this debt is essential,” said de Silva.
+
+...
+
+[Data](articles/c7e523dc.json)
+
+---
+
 ### US sanctions again against Iran
 
 *2024-04-17 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195719) · `si`
@@ -969,6 +1207,24 @@ The arrest came hot on the heels of public outcry on social media after a video 
 [Data](articles/debe4d24.json)
 
 [Extended Data](ext_articles/debe4d24.ext.json)
+
+---
+
+### Sri Lanka tourism can be bolstered by leveraging the Pekoe Trail: President
+
+*2024-04-17 13:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourism-can-be-bolstered-by-leveraging-the-pekoe-trail-president-158852/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Pekoe Trail needs to be developed to enhance the tourist experience in the central highlands, President Ranil Wickremesinghe has said after walking a 3.2 km part of the Trail.
+
+During his walk along the Trail Wickremesinghe emphasized the importance “of providing Pekoe Trail tourists with the opportunity to savour a freshly brewed cup of tea,” and spoke of the need “to bolster the tourism industry associated with Sri Lanka’s central highlands by leveraging the Pekoe Trail,” a statement by his media division said.
+
+Wickremesinghe’s visit on Tuesday was to “explore opportunities for the revival of the tourism industry around the picturesque hills of Nuwara Eliya.”
+
+Comprising 22 stages, the Pekoe Trail can be tailored to suit one-day or multi-day excursions, catering to a range of preferences. Plans are underway to further develop the trail, enhancing it with necessary facilities to ensure a seamless and enjoyable experience for visitors.
+
+...
+
+[Data](articles/601631b6.json)
 
 ---
 
@@ -1352,6 +1608,24 @@ The Colombo Magistrate's Court has set a carrier to release the delegation in co
 
 ---
 
+### Sri Lanka seeks continued support from bilateral and multilateral partners
+
+*2024-04-17 11:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-continued-support-from-bilateral-and-multilateral-partners-158825/) · `en`
+
+ECONOMYNEXT – Sri Lanka needs the continued support of bilateral and multilateral partners in these challenging times, Minister of Finance Shehan Semasinghe said at the G-24 Finance Ministers’ Conference yesterday (16).
+
+“We seek the continued support of our multilateral and bilateral partners, for us to meet the formidable challenges successfully, and it is imperative that we come together to share insights, strategies, and best practices at forums like today to navigate these turbulent times and build a more resilient and sustainable future,” the Minister posted on his X (Twitter) account.
+
+The G-24 Finance Ministers and Central Bank Governors’ meeting was held during the International Monetary Fund and World Bank Spring meetings in Washington DC in the United States.
+
+The Minister said that the government has adopted other reform programmes aside from the debt restructuring process to address the “fundamental macroeconomic vulnerabilities” that Sri Lanka faces at present.
+
+...
+
+[Data](articles/4c1fd0ff.json)
+
+---
+
 ### Drug supplies by Ishi Cash: Woman arrested in Chilaw
 
 *2024-04-17 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181281) · `ta`
@@ -1371,6 +1645,30 @@ A 35 -year -old woman from Mundala, Akunavila area, has been arrested.
 [Data](articles/541fbbfd.json)
 
 [Extended Data](ext_articles/541fbbfd.ext.json)
+
+---
+
+### Sri Lanka jacks up tourist visa fees 50-pct, adds another charge to scrap existing ETA
+
+*2024-04-17 11:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-jacks-up-tourist-visa-fees-50-pct-adds-another-charge-to-scrap-existing-eta-158822/) · `en`
+
+ECONOMYNEXT  – Sri Lanka has hiked tourist visa fees by at least 50 percent to 75 dollars, shifting to a global processing company, which appears to be charging an additional 18.5 dollars, according to information on the new online portal.
+
+Sri Lanka allowed double electronic travel authorization for tourists for 50 dollars with more than one entry allowing them to come to the island and also fly to neighboring destinations through a portal operated by the Department of Immigration.
+
+The ETA has drawn plaudits from Trip Advisor and Lonely Planet as a ‘hassle free’ system.
+
+According to information on the new website, SAARC country tourists will now be charged 35 dollars instead of 20 dollars for the standard visa.
+
+A 30-day single entry visa will be available to India and a few countries without a fee.
+
+According to the online notice, an 18.5 dollar additional fee will be charged from all visa categories.
+
+The website says it is operated by companies called IVS-GBS and VFS Global.
+
+...
+
+[Data](articles/058d1ce9.json)
 
 ---
 
@@ -1945,395 +2243,5 @@ According to foreign reports, 15 people were traveling in the boat at the time o
 [Data](articles/1efc5656.json)
 
 [Extended Data](ext_articles/1efc5656.ext.json)
-
----
-
-### UK lawmakers back landmark bill to gradually phase out smoking for good
-
-*2024-04-17 09:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98678/uk-lawmakers-back-landmark-bill-to-gradually-phase-out-smoking-for-good) · `en`
-
-The British government’s plan for a landmark smoking ban that aims to stop young people from ever smoking cleared its first hurdle in Parliament on Tuesday despite vocal opposition from within Prime Minister Rishi Sunak’s Conservative Party.
-
-The bill, a key policy announced by Sunak last year, would make it illegal to sell tobacco products to anyone born after January 1, 2009. If passed, the bill will give Britain some of the toughest anti-smoking measures in the world. Authorities say it will create modern Britain’s “first smoke-free generation.”
-
-Under the Tobacco and Vapes Bill, children turning 15 this year or younger will never be legally sold tobacco. Once implemented — officials are aiming for 2027 — the legal age of sale that people in England can buy cigarettes will be raised by one year, every year until it is eventually illegal for the whole population.
-
-...
-
-[Data](articles/998afe0f.json)
-
-[Extended Data](ext_articles/998afe0f.ext.json)
-
----
-
-### Another flight from connecting Dhaka and Colombo
-
-*2024-04-17 09:32:12* · [`adalk`](https://www.ada.lk/breaking_news/ඩකා-හා-කොළඹ-යා-කරමින්-තවත්-ගුවන්-ගමනක්/11-409117) · `si`
-
-Fitz Airlines launched a new flight between Dhaka and Colombo, aiming to boost tourism and trade. Now operates in Sri Lanka, Maldives, Dubai, and Chennai.
-
-🟩
-
-Fitz Airlines has commenced a new flight service between Sri Lanka's Katunayake airport and Dhaka airport in Bangladesh.
-
-The flight has been launched yesterday (16th). The LTTE states that the two countries increase in the fields of tourism and trade among the two countries.
-
-Fitz Airlines is currently operating in Sri Lanka, the Maldives, Dubai and Chennai.
-
-34 (DAILY MIRROR) - FITS Air is Expanding ITS Wings, Adding Colombo Direct Flights, The Airport and Aviation Services (Sri Lanka) (Pvt) Limited announced.
-
-Currently, Fits Air Owetetes to Three Destinations From Such Dubai, Chennai and the maldives.
-
-With this new route expansion, THIS WILL INCRASE TO FOUR DESTINATION, TRADE, and Tourism Industries Between Sri Lanka and BANGLADESH.
-
-◼️
-
-[Data](articles/cc31f269.json)
-
-[Extended Data](ext_articles/cc31f269.ext.json)
-
----
-
-### it. T. The funeral work of Mr. Ariyaratne is respectful
-
-*2024-04-17 09:19:49* · [`adalk`](https://www.ada.lk/breaking_news/ඒ--ටී--ආරියරත්න-මහතාගේ-අවසන්-කටයුතු-රාජ්‍ය-ගෞරව-සහිතව/11-409116) · `si`
-
-Mr. Ariyaratne, founder of Sarvodaya Shramadana Movement, passed away at 93. His body will be at Sarvodaya Headquarters in Moratuwa this afternoon, then at Independence Square, Colombo, for his funeral. He was awarded Sri Lanka's top honor in 2007 and the Ramon Macedsey in the Philippines.
-
-🟩
-
-Dr. Av, the passing out of the latest Sarvodaya Founder. T. The body of Ariyaratne is to be used at the Sarvodaya Headquarters in Moratuwa this afternoon.
-
-A.Th, which is placed on the same place until 12.00 pm on the 20th.. The body of Ariyaratne is to be taken to the Independence Square of Colombo evening.
-
-On the 20th of 4 pm at Independence Square, Colombo. T. The funeral of Ariyaratne's body is to be taken.
-
-Dr. AT. He passed away while he was admitted to a private hospital yesterday last night. Now he was 93.
-
-The Sarvodaya Shramadana Movement, which was created by his concept in the 1950s, is an organization active for the advancement of people of Sri Lanka for six decades.
-
-Mr. Ariyaratne has borrowed the Sarvodaya Business, Sri Lanka's largest NGO, Sri Lanka.
-
-Sri Lanka's top award for a Sri Lankan is awarded to him in 2007. He was also awarded the Ramon Macedsey in the Philippines.
-
-◼️
-
-[Data](articles/d86829c3.json)
-
-[Extended Data](ext_articles/d86829c3.ext.json)
-
----
-
-### Arrested by the Department of Warpola
-
-*2024-04-17 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/181268) · `ta`
-
-A 31-year-old officer from Wariyapola was arrested for twisting "Surya Mangalya" by Sinhalese Rohana Bethake on social media.
-
-🟩
-
-A 31 -year -old excuse department officer from Wariyapola has been arrested.
-
-The officer has twisted the song "Surya Mangalya" sung by the Sinhalese Rohana Bethake, who refers to the New Year and posted it on social media.
-
-◼️
-
-[Data](articles/c7048b56.json)
-
-[Extended Data](ext_articles/c7048b56.ext.json)
-
----
-
-### Sri Lanka implements new online visa system from today
-
-*2024-04-17 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98677/sri-lanka-implements-new-online-visa-system-from-today) · `en`
-
-The Department of Immigration and Emigration says its new visa process and the online visa application portal will be implemented today (17).
-
-The new visa methodology, relevant fees, requirements to be met and the validity period in Sri Lanka were earlier published in the Extraordinary Gazette No. 2360/24, dated 27 November 2023.
-
-In a press release, the department said arrangements have been made together with GBS Technology Service and IVS Global Institute to implement the e-visa system – the online methodology to be introduced in lieu of the ETA (Electronic Travel Authorization) methodology currently in use.
-
-More details about the online visa application portal can be accessed from www.srilankaevisa.lk, the press release read further.
-
-The department highlighted that it intends to provide a fast and efficient visa application process through the introduction of the new online portal, in a bid to woo foreign tourists and investors.
-
-◼️
-
-[Data](articles/4ce26c1f.json)
-
-[Extended Data](ext_articles/4ce26c1f.ext.json)
-
----
-
-### Sri Lanka implements new online visa application system today
-
-*2024-04-17 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98677/sri-lanka-implements-new-online-visa-application-system-today) · `en`
-
-A new visa process and the online visa application portal of the Department of Immigration and Emigration are implemented today (17).
-
-The new visa methodology, relevant fees, requirements to be met and the validity period in Sri Lanka were earlier published in the Extraordinary Gazette No. 2360/24, dated 27 November 2023.
-
-In a press release, the department said arrangements have been made together with GBS Technology Service and IVS Global Institute to implement the e-visa system – the online methodology to be introduced in lieu of the ETA (Electronic Travel Authorization) methodology currently in use.
-
-More details about the online visa application portal can be accessed from www.srilankaevisa.lk, the press release read further.
-
-The department highlighted that it intends to provide a fast and efficient visa application process through the introduction of the new online portal, in a bid to woo foreign tourists and investors.
-
-◼️
-
-[Data](articles/9613dd4f.json)
-
-[Extended Data](ext_articles/9613dd4f.ext.json)
-
----
-
-### Notification about bus run
-
-*2024-04-17 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195710) · `si`
-
-The Lanka Private Buses Union plans to increase bus capacity for New Year, with 9,000 buses used nationwide. Deputy Train Rest works begin today, led by Deputy General Manager J. Yadapola. Chandana Vidowe, Railway Drivers Association, assures smooth train operations.
-
-🟩
-
-The Lanka Private Buses Union states that the construction of the buses have been planned to operate a higher capacity of the country's passengers for the New Year.
-
-The Chairman of the country Mr. Gemunu Wijeratne said that 9,000 buses have been used island wide.
-
-Deputy Train Rest works will be held from today and is Deputy General Manager. J. Says Mr. Yadapola.
-
-The Railway Drivers Association Association Chandana Vidowe said that the trains could be carried out without a problem due to the arrival of all drivers.
-
-◼️
-
-[Data](articles/4744c6f1.json)
-
-[Extended Data](ext_articles/4744c6f1.ext.json)
-
----
-
-### In the yarns. A young man who cut his girlfriend and mother suicide?
-
-*2024-04-17 08:36:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-காதலியையும்-தாயையும்-வெட்டிய-இளைஞன்-தற்கொலை/71-336016) · `ta`
-
-A young man in Jaffna's Pandithara area reportedly cut his girlfriend and her mother with a sharp weapon, leading to their rescue and hospitalization.
-
-🟩
-
-It is reported that a young man and a girlfriend's mother had been cut off after cutting a sharp weapon in Jaffna - Pandithara, Workshop area yesterday morning.
-
-The young man and the woman from the area are in love. In the past few days, the young man, who had gone to the girlfriend's house, opened the door of the house, and entered the house, and his mother and his mother had fled with a sharp weapon.
-
-Neighbors who hear the noise have rescued their mother and daughter with cut wounds and sent it to the hospital.
-
-A young man suspected of cutting a girlfriend in a land that was a little farther away from home
-
-◼️
-
-[Data](articles/d06274d6.json)
-
-[Extended Data](ext_articles/d06274d6.ext.json)
-
----
-
-### Solar Festival Distorted Excise officer at work
-
-*2024-04-17 08:28:44* · [`adalk`](https://www.ada.lk/breaking_news/සූර්ය-මංගල්‍ය-ගීතය-විකෘති-කළ-සුරාබදු-නිලධාරියාට-වැඩ-වරදී/11-409114) · `si`
-
-An Excise Tax Officer was arrested for distorting and sharing a song during the Solar Festival of Veteran Artist, following a complaint by the IGP. The North Western provinces' Computer Criminal Division conducted the investigation.
-
-🟩
-
-An Excise Tax Officer has been arrested on distorting and shingling the Solar Festival of the Solar Festival of Veteran Artist.
-
-The arrest was carried out following a complaint lodged by the IGP. The suspect distorted the relevant song and released to social media.
-
-The suspect was arrested following a investigation made by the North Western provinces of the Computer Criminal Division.
-
-◼️
-
-[Data](articles/299c83ee.json)
-
-[Extended Data](ext_articles/299c83ee.ext.json)
-
----
-
-### Roads. T. Ariyaratne's funeral activities with State Honor
-
-*2024-04-17 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195709) · `si`
-
-A.T. Ariyaratne, founder of Sarvodaya Shramadana, passed away while receiving treatment. Born in 1931, he was a teacher and a key figure in the Sri Lankan NGO scene, receiving the Sri Lanka Award in 2007. His body will be displayed at Sarvodaya Headquarters and Independence Square, Colombo, before the funeral.
-
-🟩
-
-Sarvodaya Shramadana Business A.T. Mr. Ariyaratne has passed away.
-
-He passed away while he was receiving treatment at a private hospital yesterday.
-
-Born in 1931, he was a past pupil of Mahinda College, Galle.
-
-At that time, Ariyaratne was a teacher at Nalanda College Colombo.
-
-The Sarvodaya Shramadana Movement, which was created by his concept in the 1950s, is an organization active for the advancement of people of Sri Lanka for six decades.
-
-Mr. Ariyaratne has borrowed the Sarvodaya Business, Sri Lanka's largest NGO, Sri Lanka.
-
-The Sri Lanka Award, the highest award for a Sri Lankan, is awarded to him in 2007.
-
-He was also appointed as the Ramon Macedsey in the Philippines.
-
-Dr. A. T. The body of Ariyaratne is to be used at the Sarvodaya Headquarters in Moratuwa this afternoon.
-
-A.Th, which is placed on the same place until 12.00 pm on the 20th.. The body of Ariyaratne is to be taken to the Independence Square of Colombo evening.
-
-...
-
-[Data](articles/efdc3747.json)
-
-[Extended Data](ext_articles/efdc3747.ext.json)
-
----
-
-### Palitha is going to Friday
-
-*2024-04-17 08:11:30* · [`adalk`](https://www.ada.lk/breaking_news/පාලිත-සිකුරාදා-යන්නම-යයි/11-409113) · `si`
-
-Palitha Thewarappepperuma, a former Deputy Minister and social worker, will have his funeral on Friday. His body is at the Kalutara Teaching Hospital for postmortem.
-
-🟩
-
-The funeral of Palitha Thewarappepperuma, a former Deputy Minister Palitha Rurapperuma is to be carried out on Friday.
-
-His body has been placed in the Kalutara Teaching Hospital for postmortem examination.
-
-The 64th year-old Traketarama is a reliable figure in Sri Lanka as a social worker.
-
-Before he died, he had been a title between whom he had died.
-
-◼️
-
-[Data](articles/485ba3b9.json)
-
-[Extended Data](ext_articles/485ba3b9.ext.json)
-
----
-
-### Child diarrhoea on the rise
-
-*2024-04-17 08:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Child-diarrhoea-on-the-rise/108-280795) · `en`
-
-Colombo, April 16 (Daily Mirror) -  Health officials have noticed significant prevalence of diarrhoeal disease among children these days, urging parents to exercise caution.
-
-Speaking to Daily Mirror, Lady Ridgeway Hospital (LRH) consultant pediatrician Dr. Deepal Perera said “It is a normal scenario to witness an uptick in cases of child diarrhoea following the extended holidays since children tend to consume more food from outside sources.’’
-
-The symptoms include frequent loose or watery stools, abdominal pain or cramps, loss of appetite, nausea and vomiting.
-
-“If these symptoms are visible in their children, parents are urged to immediately take their children for medical care.”
-
-Furthermore, parents are advised to be more vigilant about what they feed their children with.
-
-Meanwhile, the pediatrician cautioned of the prevalence of Typhoid fever among children.
-
-...
-
-[Data](articles/ef938a7b.json)
-
-[Extended Data](ext_articles/ef938a7b.ext.json)
-
----
-
-### Youth victim of attacking police
-
-*2024-04-17 08:04:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பொலிஸார்-தாக்கியதில்-இளைஞனுக்கு-பாதிப்பு/72-336015) · `ta`
-
-A family member was assaulted by a foreigner, leading to a police investigation. During the incident, the victim's phone was stolen, and they were attacked by a foreigner in the police station. The victim was dragged and assaulted, but was eventually released with the help of a police officer. The attacker's wife has filed a complaint with the Vavuniya Human Rights Commission, and the hospital police have lodged a complaint with the hospital police.
-
-🟩
-
-A family member has been admitted to the Vavuniya Hospital for allegedly assaulting a person from abroad.
-
-The incident took place yesterday evening. The father of a child from Chinnapavaravarasankulam in Vavuniya has been admitted to the hospital
-
-Puliyankulam police called me yesterday that there was an investigation. As I went there, my phone handbag was snatched and the animal was placed in both hands.
-
-Other policemen, including the officer in charge of the police station, caught me, and a man from abroad attacked me inside the police station.
-
-Then they dragged me like a dog and tried to load the man's vehicle. At this time, I had crossed the main road seeking the help of the people.
-
-Then again dragged me into the police station. There, the police officer in charge of the police officer attacked my chest with his Sabbath's legs.
-
-Then a police officer who arrived there had confessed me and sent me and my wife home from the police station.
-
-...
-
-[Data](articles/4725da85.json)
-
-[Extended Data](ext_articles/4725da85.ext.json)
-
----
-
-### Police attack.. Adolescent hospital
-
-*2024-04-17 08:04:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பொலிஸார்-தாக்குதல்-இளைஞன்-வைத்தியசாலையில்-அனுமதி/72-336015) · `ta`
-
-A family member was admitted to Vavuniya Hospital for assaulting a foreigner. The father from Chinnapavaravarasankulam was involved in a police investigation, during which he was attacked and detained. He was released after lodging a complaint with the Vavuniya Human Rights Commission.
-
-🟩
-
-A family member has been admitted to the Vavuniya Hospital for allegedly assaulting a person from abroad.
-
-The incident took place yesterday evening. The father of a child from Chinnapavaravarasankulam in Vavuniya has been admitted to the hospital
-
-Puliyankulam police called me yesterday that there was an investigation. As I went there, my phone handbag was snatched and the animal was placed in both hands.
-
-Other policemen, including the officer in charge of the police station, had caught me, and a man from abroad attacked me inside the police station.
-
-Then they dragged me like a dog and tried to load the man's vehicle. At this time, I had crossed the main street with the help of the people.
-
-Then again dragged me into the police station. There, the police officer in charge of the police officer attacked my chest with his Sabbath's legs.
-
-Then a police officer who arrived there had confessed me and sent me and my wife home from the police station.
-
-...
-
-[Data](articles/7fc86dde.json)
-
-[Extended Data](ext_articles/7fc86dde.ext.json)
-
----
-
-### Who are the people who are sentenced to forgiven the New Years for Myanmar?
-
-*2024-04-17 08:01:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n1pwklydgo) · `si`
-
-Myanmar's Public Administration Council released over 3,000 prisoners, including 36 foreign nationals, under a general pardon on April 13. Among them, Sri Lankan fishermen were pardoned, with 15 fishermen from two vessels released. The Sri Lankan Embassy in Myanmar and the Sri Lankan Foreign Affairs in Myanmar committed to pardoning these fishermen.
-
-🟩
-
-Who are the people who are sentenced to forgiven the New Years for Myanmar?
-
-Upon April 13, Myanmar people celebrated the New Year Festival until April 13.
-
-With this new New Year's Evil, the Public Administration Council of Myanmar has decided to release more than three prisoners under the general pardon.
-
-There are 36 foreign nationals among 3,303 prisoners who are released under a common pardon.
-
-Sri Lankan fishermen in Myanmar custody: Keep trapped in Kaluuwara rooms, food
-
-Speaking to BBC Sinhala Janaka, Ambassador of Myanmar Janaka, Janaka, Janaka, Janaka, has also been free.
-
-The ambassador said that all Sri Lankans who have been freedom have been freedom under the civil pardon are fishermen.
-
-"Two multi-day fishing vessels in Sri Lanka be taken away due to the hacking of myanmar sea last year
-
-"The 15 fishermen of the fishing vessels were now free under the Common Pardology
-
-"All fishermen leaving for fishing in Chilaw and Negombo"
-
-...
-
-[Data](articles/92c8f1c5.json)
-
-[Extended Data](ext_articles/92c8f1c5.ext.json)
 
 ---

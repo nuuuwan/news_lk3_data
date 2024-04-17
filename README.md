@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 22:33:56**
+As of **2024-04-17 22:50:35**
 
 ## Newspaper Stats
 
-*Scraped **19,420** Articles*
+*Scraped **19,421** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,099
 adalk | 1,620
 tamilmirrorlk | 2,263
 adaderanalk | 2,333
-virakesarilk | 2,898
+virakesarilk | 2,899
 dailymirrorlk | 2,995
 adaderanasinhalalk | 3,164
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 3,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,418 (100.0%) of 19,420 articles have been extended.
+19,420 (100.0%) of 19,421 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### மீண்டும் சிஐடிக்கு அழைக்கப்பட்டுள்ள அருட்தந்தை சிறில காமினி!
+
+*2024-04-17 22:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181337) · `ta`
+
+உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பான உண்மைகளை விசாரிப்பதற்காகவே அருட்தந்தை சிறில் காமினி பெர்னாண்டோ மீண்டும் அழைக்கப்பட்டுள்ளார்.
+
+இதன்படி, ஏப்ரல் 19 ஆம் திகதி வெள்ளிக்கிழமை காலை 10 மணிக்கு குற்றப்  புலனாய்வுப் பிரிவுக்கு வருமாறு அறிவுறுத்தப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/b3193811.json)
+
+---
 
 ### The body of the controlled Thewarapperuma brings home
 
@@ -75,6 +89,8 @@ The Department further mentioned that the lowest monthly expenditure is Rs. 16,2
 ◼️
 
 [Data](articles/0a959bfb.json)
+
+[Extended Data](ext_articles/0a959bfb.ext.json)
 
 ---
 
@@ -434,21 +450,27 @@ While confidentiality agreements limit the disclosure of specific details, the s
 
 ---
 
-### සිරිල් ගාමිණී පියතුමන් යළිත් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කැඳවයි
+### Cyril Gamini summoned to the CID
 
 *2024-04-17 19:39:21* · [`adalk`](https://www.ada.lk/breaking_news/සිරිල්-ගාමිණී-පියතුමන්-යළිත්-අපරාධ-පරීක්ෂණ-දෙපාර්තමේන්තුවට-කැඳවයි/11-409136) · `si`
 
-පාස්කු ඉරිදා බෝම්බ ප්‍රහාරය පිළිබඳ කරුණු විමසීම සඳහා ගරු සිරිල් ගාමිණී ප්‍රනාන්දු පියතුමන් නැවත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවට කැඳවා තිබේ.
+Cyril Gamini summoned to CID. Mrs. N. of Special Investigation Division informed of Easter attack signature. Gamini intends to be informed of the incident. Director General of State Intelligence Suresh S Sarshie sent to CID.
 
-19දාපෙරවරු 10ට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිටින ලෙස එම දෙපාර්තමේන්තුවේ විශේෂ විමර්ශන අංශයේ III ස්ථානාධිපති, කාන්තා ප්‍රධාන පොලිස් පරීක්ෂක නාලනී දිසානායක මහත්මියගේ අත්සනින් යුතුව ලැබුණු ලිපියකින් මේ බව දැනුම් දුන් බව උන්වහන්සේ සඳහන් කළහ.
+🟩
 
-%පාස්කු ප්‍රහාරයට අදාළව අවස්ථාගත කරුණු තමන් දන්නා බවට තොරුතුරු ලැබී ඇති බැවින් ඒ සම්බන්ධයේන් කරුණු විමසීම සඳහා අදහස් කර අත^ යන්න එම ලිපියෙන් දැනුම් දුන් බවද සිරිල් ගාමිණී පියතුමා පැවසූහ.
+The Hon.
 
-මීට පෙර රාජ්‍ය බුද්ධි අංශයේ අධ්‍යක්ෂ ජනරාල් සුරේෂ් සලේ මහතා විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත යොමු කළ පැමිණිල්ලකට අනුව 2021 නොවැම්බර් 03වැනිදා සිට 2021 නොවැම්බර් 08 දක්වා දින තුනක් සිරිල් ගාමිණී ප්‍රනාන්දු පියතුමන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවට කැඳවනු ලැබිණ.
+The Thero said that this was informed of the signature of Mrs. N. of the Special Investigation Division of the Department of Ex Inspector, OIC of the Department of Investigation at 10 December.
+
+Fr. Gamini said he intended to be informed of the incident, as they were aware of the events of the Easter attack.
+
+Previously, the Director General of State Intelligence Suresh S Sarshie S Sarsh S Sarsh Slay sent to the CID to the CID to the CID, Fr.
 
 ◼️
 
 [Data](articles/df8a7358.json)
+
+[Extended Data](ext_articles/df8a7358.ext.json)
 
 ---
 
@@ -2235,25 +2257,5 @@ The website says it is operated by companies called IVS-GBS and VFS Global.
 [Data](articles/058d1ce9.json)
 
 [Extended Data](ext_articles/058d1ce9.ext.json)
-
----
-
-### Final rites of Dr. Ariyaratne to be performed with full state honours
-
-*2024-04-17 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98681/final-rites-of-dr-ariyaratne-to-be-performed-with-full-state-honours-) · `en`
-
-The final rites of the late Dr. A. T. Ariyaratne, the founder and the President Emeritus of the Sarvodaya Shramadana Movement of Sri Lanka, will be performed with full state honours.
-
-Sri Lankabhimanya Ahangamage Tudor Ariyaratne passed away on Tuesday (16) at the age of 93 while receiving treatment at a private hospital in Colombo.
-
-Following his demise, President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena and the officials of Sarvodaya convened a meeting to discuss the funeral arrangements.
-
-During the meeting, the Secretary to the Ministry of Home Affairs, Public Administration & Provisional Councils, Pradeep Yasaratne was instructed to see to it that the final rites of the late Dr. Ariyaratne are performed with full state honours.
-
-...
-
-[Data](articles/ed8cf6f7.json)
-
-[Extended Data](ext_articles/ed8cf6f7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 09:35:05**
+As of **2024-04-17 09:53:05**
 
 ## Newspaper Stats
 
-*Scraped **19,280** Articles*
+*Scraped **19,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,058
 economynextcom | 1,084
-adalk | 1,602
+adalk | 1,603
 tamilmirrorlk | 2,248
 adaderanalk | 2,318
-virakesarilk | 2,875
+virakesarilk | 2,876
 dailymirrorlk | 2,972
 adaderanasinhalalk | 3,137
 
@@ -26,15 +26,33 @@ adaderanasinhalalk | 3,137
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,280 (100.0%) of 19,280 articles have been extended.
+19,280 (100.0%) of 19,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
+### இன்று முதல் புதிய விசா முறை அமுல்
+
+*2024-04-17 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181269) · `ta`
+
+இன்று புதன்கிழமை (17) புதிய விசா  முறை மற்றும் புதிய இணைய வழிமுறையை செயற்படுத்தும் பணியை குடிவரவு மற்றும் குடியகல்வு திணைக்களம்  நடைமுறைப்படுத்தவுள்ளது.
+
+"புதிய விசா  நடைமுறைகள், அதற்கான கட்டணங்கள், பூர்த்தி செய்யவேண்டிய தேவைப்பாடுகள் மற்றும் இலங்கையில் தங்கியிருக்க முடியுமான காலப் பிரிவு என்பன இலக்கம் 2360/24 மற்றும் 2023.11.27 ஆம் திகதிய அதி சிறப்பு அரசிதழ் அறிவித்தல் மூலம் வெளியிடப்பட்டுள்ளது.
+
+தற்போது நடைமுறையிலுள்ள ETA (Electronic Travel Authorization) முறைக்குப் பதிலாக அறிமுகம் செய்யப்படும் இணைய வழிமுறையான E-Visa முறைமை GBS Technology Service & IVS Global நிறுவனத்துடன் இணைந்து செயற்படுத்துவதற்கான ஒழுங்குகள் செய்யப்பட்டுள்ளதோடு அந்த இணையத்தளத்தின் தொடர்பு கீழே தரப்பட்டுள்ளது. www.srilankaevisa.lk
+
+வெளிநாட்டு சுற்றுலாப் பயணிகள் மற்றும் முதலீட்டாளர்களை கவரும் வகையில், புதிய இணைய வழிமுறையை  அறிமுகப்படுத்துவதன் மூலம் விரைவான மற்றும் திறமையான விசா விண்ணப்ப செயல்முறையை வழங்க உத்தேசித்துள்ளதாக திணைக்களம் சுட்டிக்காட்டியுள்ளது.
+
+◼️
+
+[Data](articles/affab2e5.json)
+
+---
+
 ### Arrested by the Department of Warpola
 
-*2024-04-17 08:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/181268) · `ta`
+*2024-04-17 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/181268) · `ta`
 
 A 31-year-old officer from Wariyapola was arrested for twisting "Surya Mangalya" by Sinhalese Rohana Bethake on social media.
 
@@ -141,6 +159,22 @@ A young man suspected of cutting a girlfriend in a land that was a little farthe
 [Data](articles/d06274d6.json)
 
 [Extended Data](ext_articles/d06274d6.ext.json)
+
+---
+
+### සූර්ය මංගල්‍ය ගීතය විකෘති කළ සුරාබදු නිලධාරියාට වැඩ වරදී
+
+*2024-04-17 08:28:44* · [`adalk`](https://www.ada.lk/breaking_news/සූර්ය-මංගල්‍ය-ගීතය-විකෘති-කළ-සුරාබදු-නිලධාරියාට-වැඩ-වරදී/11-409114) · `si`
+
+ප්‍රවීණ කලාකරුවෙක් වන රෝහන බැද්දගේ මහතාගේ සූර්ය මංගල්‍ය ගිතය විකෘති කර ගායනා කිරිම සම්බන්ධයෙන් සුරා බදු නිලධාරියෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස්පතිවරයාට කරන ලද පැමිණිල්ලක් අනුව මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබේ. සැකකරු අදාළ ගීතය විකෘති කර ගායනා කර සමාජ මාධ්‍ය වෙතද මුදා හැර තිබේ.
+
+මේ පිළිබඳව පරිගණක අපරාධ කොට්ඨාසයේ වයඹ පළාත් ඒකකය කරන ලද විමර්ශනයකින් අනතුරුව සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/299c83ee.json)
 
 ---
 
@@ -2135,65 +2169,5 @@ The General Secretary of the United National Party has called on the United Nati
 [Data](articles/496c307c.json)
 
 [Extended Data](ext_articles/496c307c.ext.json)
-
----
-
-### Attention to the development of pico trail.
-
-*2024-04-16 18:19:25* · [`adalk`](https://www.ada.lk/breaking_news/පිකෝ-ට්‍රේල්-මංපෙත-සංවර්ධනයට-අවධානය-/11-409108) · `si`
-
-President Ranil Wickremesinghe visited the Cot Lodge Estate, focusing on the Pico Trail, a 300 km route through Sri Lanka's central hills, and the plantation community's future. He highlighted the importance of the trail for tourism and the need to address housing issues.
-
-🟩
-
-President Ranil Wickremesinghe visited the Cot Lodge Estate owned by the Plantation Company in Nuwara Eliya this morning.
-
-"The President join the visit through the Pico Trail (PEKO TRAIL) trail.
-
-"Pico Trail" is a route of about 300 km riding through the central hills of Sri Lanka. It is considered one of the best secret roads in Asia.
-
-"Pico Trail" is heading down from Kandy and heads to the Hatton and Horton Plains National Park.. This road was used to transport tea to the factory during the British colonial period.
-
-The President visited the Pico Trail "rolls along the" Pico Trail "route.
-
-The people were a great recognition to President Ranil Wickremesinghe and presented their greeting to them for the Sinhala and Tamil New Year.
-
-264 hectares of cot ledge estates under Browns Plantation Company and 349 employees. The President also focused on the future of the plantation working community of the estate working community, which was expelled after the estate public.
-
-...
-
-[Data](articles/937c1327.json)
-
-[Extended Data](ext_articles/937c1327.ext.json)
-
----
-
-### Court Judgment on Hajj Allocation
-
-*2024-04-16 18:19:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹஜ்-ஒதுக்கீடுகள்-குறித்து-நீதிமன்றம்-தீர்ப்பு/175-335993) · `ta`
-
-The Court of Appeal suspends Hajj reservations for 2024, orders merger of travel agents for allocation, and registers United Travels as Tour Travel Director for 2024, suspending December 2023 quota.
-
-🟩
-
-The Court of Appeal has ordered the suspension of the reservations for the Haj pilgrims for 2024 and the merger of the affected travel agent for proper allocation.
-
-Every year the Saudi Arabian government allocates to every country to manage the arrival of pilgrims.
-
-This year, 3,500 pilgrims have been allocated to Sri Lanka, which has been assigned to different travel agents.
-
-The Court of Appeal has issued an interim order following a petition filed by a travel agent.
-
-The travel agent accused the Haj Committee of canceling its travel license for two years.
-
-Petitioner United Travels said in his petition that the decision of the committee to suspend his license for two years was made for network reasons.
-
-The petitioner demanded that he register himself as the travel director for 2024 and to suspend the quota made in December 2023.
-
-...
-
-[Data](articles/282ee4b5.json)
-
-[Extended Data](ext_articles/282ee4b5.ext.json)
 
 ---

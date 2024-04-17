@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 13:18:30**
+As of **2024-04-17 13:34:05**
 
 ## Newspaper Stats
 
-*Scraped **19,326** Articles*
+*Scraped **19,329** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,48 +19,60 @@ adalk | 1,608
 tamilmirrorlk | 2,257
 adaderanalk | 2,323
 virakesarilk | 2,885
-dailymirrorlk | 2,979
+dailymirrorlk | 2,982
 adaderanasinhalalk | 3,145
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,322 (100.0%) of 19,326 articles have been extended.
+19,326 (100.0%) of 19,329 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### දැන් වමේ දේශපාලනයක් නෑ - නිමල්
+### There is no church politics - Nimal
 
 *2024-04-17 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195718) · `si`
 
-ලෝකයේ කිසිදු රටක මේ වනවිට වමේ දේශපාලනයක් නොමැති බවත් එය හුදෙක් බෝඩ් ලෑල්ලකට පමණක් සීමා වී ඇති බවත් අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පවසයි.
+Minister Nimal Siripala de Silva, at the 108th Birth Anniversary of Sirimavo Bandaranaike, criticized the lack of organization in the party, praised her leadership, and argued against left politics, suggesting it's merely a board plan.
 
-සිරිමාවෝ බණ්ඩාරනායක මැතිණියගේ 108 වන ජන්ම දින සංවත්සර උත්සවයට එක්වෙමින් අමාත්‍යවරයා මෙම අදහස් පළකළේය.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පැවසීය.
+Minister Nimal Siripala de Silva says that no country in the world is not limited to a board.
+
+The Minister made these comments participating at the 108th Birth Anniversary of Sirimavo Bandaranaike.
+
+Speaking further Minister Nimal Siripala de Silva said.
 
 ...
 
 [Data](articles/15d58346.json)
 
+[Extended Data](ext_articles/15d58346.ext.json)
+
 ---
 
-### வவுனியாவில் இளம் குடும்பஸ்தரை காணவில்லை
+### Missing Young Family in Vavuniya
 
 *2024-04-17 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181289) · `ta`
 
-வவுனியா வேப்பங்குளம் மெதடிஸ்ட் தேவாலய வீதியில் தற்காலிகமாக வசித்து வந்த இளம் தம்பதிகளில் கணவனை கடந்த 12 ஆம் திகதி  முதல் காணவில்லை என மனைவியால் நெளுக்குளம் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+A 25-year-old man, Vilvarasa Rakshan, reported his missing husband in Vavuniya on the 12th. The husband left for work but hasn't been seen since.
 
-பதிவு திருமணம் செய்து ஒரு மாதகாலமான நிலையில் குறித்த இளம் குடும்பத்தினர் தற்காலிகமாக மேற்குறிப்பிட்ட முகவரியில் வசித்து வந்த நிலையில், கடந்த 12 ஆம் திகதி   மனைவியை அவரது பணித்தளத்தில் இறக்கிவிட்டு தான் தனது பணிக்கு செல்வதாக கூறிவிட்டு சென்றவர் மீண்டும் வரவில்லை என மனைவி தெரிவித்துள்ளார்.
+🟩
 
-25 வயதுடைய வில்வராசா ரக்சன் என்பவரே காணாமல் போனவராவார் குறித்த நபரை அடையாளம் காண்பவர்கள் 0741822912 குறித்த தொலைபேசி இலக்கத்திற்கோ அல்லது அருகில் உள்ள பொலிஸ் நிலையத்திற்கோ அறிவிக்குமாறு மனைவி கேட்டுக்கொண்டுள்ளார்.
+A complaint has been lodged at the Nelukkulam police station that the husband has been missing since the 12th of this month.
+
+The young family has temporarily lived at the above mentioned address after the registration marriage, and the man who left his wife on the 12th of this month, said that he was going to work.
+
+25 -year -old Vilvarasa Rakshan has asked the man to notify the telephone number or the nearest police station on 074182912.
 
 ◼️
 
 [Data](articles/6a82e6d9.json)
+
+[Extended Data](ext_articles/6a82e6d9.ext.json)
 
 ---
 
@@ -92,6 +104,18 @@ The suspect is 51 years old from Colombo 12.
 
 ---
 
+### Damitha, husband further remanded
+
+*2024-04-17 12:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Damitha-husband-further-remanded/108-280840) · `en`
+
+Colombo, April 17 (Daily Mirror)- Popular actress Damitha Abeyratne and her husband, who were held in remand custody over an alleged financial fraud, were today ordered to be further remanded till April 24 after being produced before the Colombo Chief Magistrate’s Court.
+
+◼️
+
+[Data](articles/ec487d4a.json)
+
+---
+
 ### Sub -Inspector arrested in the ear of the judge
 
 *2024-04-17 12:38:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/நீதிபதியின்-காதில்-அறைந்த-சப்-இன்ஸ்பெக்டர்-கைது/93-336038) · `ta`
@@ -120,21 +144,37 @@ A police officer has gone to investigate the complaint lodged with the District 
 
 ---
 
-### மலைநாட்டு எழுச்சி பத்தாண்டு திட்டத்தின் கீழ் 12 மாவட்டங்களில் 10,765 திட்டங்கள்
+### 10,765 projects in 12 districts under the Mountain Rise Scheme
 
 *2024-04-17 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181287) · `ta`
 
-பல்நோக்கு கிராமிய மற்றும் சமூக அபிவிருத்தி திட்டத்தின் கீழ் இவ்வருடத்தின் முதல் காலாண்டு இறுதிக்குள் 10,765 திட்டங்கள் நடைமுறைப்படுத்தப்பட்டுள்ளதாக நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+Urban Development and Housing Minister Prasanna Ranatunga said that 10,765 projects have been implemented by the end of the year under the Multipurpose Rural and Social Development Program.
 
-இத்திட்டத்திற்காக தெரிவு செய்யப்பட்ட 12 மாவட்டங்களில் விடுவிக்கப்பட்டுள்ள தொகை 4,109.20 மில்லியன் ரூபாவாகும்.
+4,109.20 million released in 12 selected districts for this project.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் ஆலோசனையின் பிரகாரம் இந்த வருட வரவு செலவு திட்டத்தில் மலைநாட்டு எழுச்சி பத்தாண்டு பத்து வருட பல்நோக்கு கிராமிய மற்றும் சமூக அபிவிருத்தி வேலைத்திட்டத்திற்கு ஒதுக்கப்பட்டுள்ள தொகை 10,000 மில்லியன் ரூபாவாகும். களுத்துறை, கண்டி, மாத்தளை, நுவரெலியா, காலி, மாத்தறை, குருநாகல், அம்பாறை ஆகிய மாவட்டங்களில் இந்த அபிவிருத்தித் திட்டம் செயற்படுத்தப்படுகிறது.
+On the advice of President Ranil Wickremesinghe, this year's budget is 10,000 million rupees allocated to the Ten Year Ten Year Multipurpose Rural and Social Development Program.. The development project is being implemented in the districts of Kalutara, Kandy, Matale, Nuwara Eliya, Galle, Matara, Kurunegala and Ampara.
 
-முதல் காலாண்டில் 09 மாவட்டங்களுக்கு இத்  திட்டங்களுக்கு ஒதுக்கீடு செய்யப்பட்டுள்ளதுடன், இம்மாதத்தில் இரத்தினபுரி, கேகாலை மற்றும் பதுளை ஆகிய மாவட்டங்களுக்கும் ஒதுக்கீடுகள் வழங்கப்பட்டுள்ளன.
+The first quarter has been allocated for these projects and allocated to the districts of Ratnapura, Kegalle and Badulla this month.
 
 ...
 
 [Data](articles/58ce4ede.json)
+
+[Extended Data](ext_articles/58ce4ede.ext.json)
+
+---
+
+### Fifteen Sri Lankan fishermen imprisoned in Myanmar granted amnesty
+
+*2024-04-17 12:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fifteen-Sri-Lankan-fishermen-imprisoned-in-Myanmar-granted-amnesty/108-280839) · `en`
+
+Colombo, April 17 (Daily Mirror)- The fifteen Sri Lankan fishermen who were imprisoned in Myanmar last December were granted amnesty, Sri Lankan Ambassador in Myanmar Janaka Bandara said.
+
+They were arrested along with two fishing vessels for violating Myanmar's maritime boundaries and engaging in fishing activities.
+
+◼️
+
+[Data](articles/5f6b49a2.json)
 
 ---
 
@@ -198,19 +238,25 @@ Fort Magistrate’s Court also rejected a writ petition looking to prevent their
 
 ---
 
-### වසර ආරම්භයේ චීනයේ දළ දේශීය නිෂ්පාදිතයේ කැපීපෙනෙන වර්ධනයක්
+### An outstanding growth of China's GDP, China
 
 *2024-04-17 12:06:26* · [`adalk`](https://www.ada.lk/breaking_news/වසර-ආරම්භයේ-චීනයේ-දළ-දේශීය-නිෂ්පාදිතයේ-කැපීපෙනෙන-වර්ධනයක්/11-409120) · `si`
 
-2024 වසරේ පළමු කාර්තුවේ චීනයේ දළ දේශීය නිෂ්පාදිතය චීන යුවාන් බිලියන 29,629.9 ක් ලෙස වාර්තා වේ. එය පසුගිය වසරට සාපේක්ෂව 5.3% ක වර්ධනයක් බව චීන ජාතික සංඛ්‍යාලේඛන කාර්යාංශය නවතම දත්ත වාර්තා නිකුත් කරමින්පැවසීය.
+China's GDP grew 5.3% to 29,629.9 billion Yuan in Q1 2024, with agriculture, industry, and exports thriving. Market sales, fixed assets, and job status are stable, and people's income has increased.
 
-චීනයේ කෘෂිකාර්මික නිෂ්පාදන යහපත් තත්ත්වයේ පවතින අතර, කාර්මික නිෂ්පාදන අංශය ද වේගයෙන් වර්ධනය වෙමින් පවතී. රටේ වෙළඳපොළ විකුණුම් ද ස්ථාවර ලෙස වර්ධනය වන බව එම සංඛ්‍යාලේඛනයන් හි සඳහන් ය. ස්ථාවර වත්කම් ආයෝජන ක්‍රමයෙන් ඉහළ යමින් පවතී. භාණ්ඩ ආනයනය හා අපනයනය ද ස්ථාවර වර්ධනයක් පෙන්නුම් කරන අතර,  රැකියා තත්ත්වය ද ස්ථාවර වී තිබේ. ජනතාවගේ ආදායම ද ක්‍රමයෙන් වර්ධනය වී ඇත.
+🟩
 
-මේ කාලය තුළ සමස්තයක් වශයෙන් ජාතික ආර්ථිකයේ ධනාත්මක සාධක තහවුරු වී ඇති අතර, එය වාර්ෂික ඉලක්ක සාක්ෂාත් කර ගැනීම සඳහා මනා පදනමක් සකසා ඇතැයි ද චීන ජාතික සංඛ්‍යාලේඛන කාර්යාංශය පෙන්වාදෙයි.
+China's GDP recorded as 29,629.9 billion Chinese Yuan in the first quarter of 2024. The Chinese statistics bureau is a growth of 5.3% over the previous year.
+
+China's agricultural products are in good condition and the industrial production sector is also growing rapidly. It is stated in those statistics that the country's market sales will also grow stable. Fixed assets are increasingly increasing. Import and exports also show a steady growth, and the job status is also stable. People's income has also increased.
+
+The Chinese statistics show that positive factors of the national economy have been confirmed, and it has been established to achieve annual goals.
 
 ◼️
 
 [Data](articles/6b60aabe.json)
+
+[Extended Data](ext_articles/6b60aabe.ext.json)
 
 ---
 
@@ -457,6 +503,22 @@ Accordingly, school applicants can obtain permit cards through principals. Perso
 [Data](articles/392e091a.json)
 
 [Extended Data](ext_articles/392e091a.ext.json)
+
+---
+
+### Dr. Ariyaratne’s final rites to be held with State Honours
+
+*2024-04-17 11:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dr-Ariyaratnes-final-rites-to-be-held-with-State-Honours/108-280838) · `en`
+
+Colombo, April 17 (Daily Mirror) -  Preparations are underway to bid farewell to late Dr. A.T. Ariyaratne, the founder and President Emeritus of the Sarvodaya Shramadana Movement, with full state honours.
+
+Dr. Ariyaratne, breathed his last on Tuesday (16) at the age of 93, while under medical care at a private hospital in Colombo. In the wake of his demise, President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena and officials of the Sarvodaya convened to coordinate the funeral arrangements.
+
+At the meeting, instructions were issued to ensure that the final rites of Dr. Ariyaratne are conducted with due reverence and respect, with the Secretary to the Ministry of Home Affairs, Public Administration & Provincial Councils, Pradeep Yasaratne tasked with overseeing the arrangements.
+
+...
+
+[Data](articles/235792f4.json)
 
 ---
 
@@ -2159,57 +2221,5 @@ Q: Give us an overview of the current market landscape and discuss the CSE's ove
 [Data](articles/ea89bb11.json)
 
 [Extended Data](ext_articles/ea89bb11.ext.json)
-
----
-
-### Why all the fuss for a downtown duty-free?
-
-*2024-04-17 00:16:51* · [`dailyftlk`](https://www.ft.lk/opinion/Why-all-the-fuss-for-a-downtown-duty-free/14-760664) · `en`
-
-MP Harsha in 2019 said the laws will be very conducive for incentives to attract foreign investment to the Colombo Port City
-
-A Parliamentary Committee led by MP Harsha de Silva has had a lot to say about the Colombo Port City Duty-Free recently by posting videos on YouTube. Unfortunately these videos get into the hands of potential investors. Sri Lanka attracts so much investment, so I guess it does not matter to them. Globally the easiest thing for an opposition politician to get noticed is to criticise.
-
-...
-
-[Data](articles/20203b1a.json)
-
-[Extended Data](ext_articles/20203b1a.ext.json)
-
----
-
-### Why all the fuss for a downtown duty-free?
-
-*2024-04-17 00:16:51* · [`dailyftlk`](https://www.ft.lk/columns/Why-all-the-fuss-for-a-downtown-duty-free/4-760664) · `en`
-
-MP Harsha in 2019 said the laws will be very conducive for incentives to attract foreign investment to the Colombo Port City
-
-A Parliamentary Committee led by MP Harsha de Silva has had a lot to say about the Colombo Port City Duty-Free recently by posting videos on YouTube. Unfortunately these videos get into the hands of potential investors. Sri Lanka attracts so much investment, so I guess it does not matter to them. Globally the easiest thing for an opposition politician to get noticed is to criticise.
-
-...
-
-[Data](articles/6641658d.json)
-
-[Extended Data](ext_articles/6641658d.ext.json)
-
----
-
-### The new visa system from today
-
-*2024-04-17 00:10:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-புதிய-வீசா-முறை/175-336009) · `ta`
-
-The Department of Immigration and Emigration launches a new visa system and internet mechanism today, led by ISHJ Ilukpitiya.
-
-🟩
-
-All measures have been prepared to launch a new visa system of the Department of Immigration and Emigration and the implementation of the new Internet mechanism from today (17).
-
-The Controller of the Department of Immigration and Emigration, ISHJ Ilukpitiya, has said this.. Remble
-
-◼️
-
-[Data](articles/5c6d086d.json)
-
-[Extended Data](ext_articles/5c6d086d.ext.json)
 
 ---

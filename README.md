@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 20:18:28**
+As of **2024-04-17 20:34:00**
 
 ## Newspaper Stats
 
-*Scraped **19,400** Articles*
+*Scraped **19,402** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,73 @@ economynextcom | 1,099
 adalk | 1,617
 tamilmirrorlk | 2,263
 adaderanalk | 2,330
-virakesarilk | 2,894
-dailymirrorlk | 2,990
+virakesarilk | 2,895
+dailymirrorlk | 2,991
 adaderanasinhalalk | 3,159
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,398 (100.0%) of 19,400 articles have been extended.
+19,400 (100.0%) of 19,402 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### ගසක් කඩාවැටී ප්‍රධාන මාර්ගයක් අවහිර වෙයි
+### Post-mortem reveals cause of Palitha Thewarapperuma’s death
+
+*2024-04-17 20:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Post-mortem-reveals-cause-of-Palitha-Thewarapperumas-death/108-280849) · `en`
+
+Kalutara, Apil 17 (Daily Mirror) - The post-mortem examination of former Deputy Minister Palitha Thewarapperuma has determined that severe internal organ damage from electrocution had caused his death.
+
+The post-mortem examination was conducted by the Chief Judicial Medical Officer at the Nagoda General Hospital today.
+
+Following the post-mortem, Thewarapperuma's remains were handed over to his wife.
+
+Family members announced that his funeral will be held this Friday (10).
+
+◼️
+
+[Data](articles/8685cdd9.json)
+
+---
+
+### கல்முனை வடக்கு விவகாரம் :  நிர்வாக அடக்குமுறையை எதிர்த்து 24 நாளாகவும் தொடரும் கவனயீர்ப்பு போராட்டம்
+
+*2024-04-17 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/181333) · `ta`
+
+கல்முனை வடக்கு பிரதேச செயலகத்தின் மீதான தொடர்ச்சியாக நிர்வாக அடக்குமுறைகளுக்கு எதிராக அங்குள்ள பொதுமக்கள் 24 நாளாக புதன்கிழமை (17) கவனயீர்ப்பு போராட்டத்தை முன்னெடுத்து வருகின்றனர்.
+
+சுட்டெரிக்கும் வெயிலின் கொடூரத்திலும் நிழல் கூடாரம் அமைக்கத் தடை விதித்த நிலையில் கல்முனை வடக்கு பிரதேச செயலக தீர்விற்கான தமது கோரிக்கைகளை முன் வைத்து பொதுமக்கள் தம்மைக் காக்க பனைமட்டைகளைத் தாங்கி போராடி வருகின்றனர்.
+
+குறித்த பிரதேச செயலகத்தின் முன்பாக கடந்த மார்ச் மாதம் திங்கட்கிழமை(25) பொதுமக்கள் பல்வேறு சுலோகங்களை உள்ளடக்கிய  பதாதைகளை தாங்கிய வண்ணம் அமைதி வழியில் ஒன்று கூடி போராட்டம் ஒன்றினை முன்னெடுத்து இருந்தனர். அத்துடன் கல்முனை வடக்கு பிரதேச செயலக நிருவாக செயற்பாடுகளுக்கெதிரான அடக்குமுறைகளுக்கும் அத்துமீறலுக்குமான குறித்த எதிர்ப்புப் போராட்டம் தொடர்ச்சியாக குறித்த பிரதேச செயலகத்தின் முன்பாக உள்ள வீதியின் இரு மருங்கிலும் காலை மாலை இரவு என இடமாறி மேற்கொள்ளப்பட்டு வருகின்றன.
+
+...
+
+[Data](articles/957be218.json)
+
+---
+
+### A path will bloom a tree
 
 *2024-04-17 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195733) · `si`
 
-අධික වර්ෂාවත් සමග ප්‍රධාන මාර්ගයකට ගසක් කඩාවැටී ගමනාගමනයට බාධා එල්ලවී තිබේ.
+Heavy rains disrupt traffic on Aranayan-Mawanella main road, blocking Katagodagoda. Mawanella police advise using Ussapitiya road via Weligalla road.
 
-අප වාර්තාකරු සඳහන් කළේ අරණායක - මාවනැල්ල ප්‍රධාන මාර්ගය කප්පාගොඩ ප්‍රදෙශයෙන් මෙලෙස අවහිර වී ඇති බවය.
+🟩
 
-මේ වනවිට ප්‍රධාන මාර්ගයේ ගමනාගමන කටයුතු සම්පුර්ණයෙන් අවහිර වී ඇති බැවින් මාවනැල්ල සිට අරණායක දෙසට ගමන් ගන්නා සියලු ජනතාවට වැලිගල්ල හරහා උස්සාපිටිය මාර්ගය භාවිත කරන ලෙස මාවනැල්ල පොලීසිය දැනුම්දී ඇති බව අප වාර්තාකරු වැඩිදුරටත් පැවසීය.
+Traffic has been disrupted with a major route with heavy rains.
+
+Our correspondent stated that Aranayan-Mawanella main road was blocked by Katagodagoda.
+
+The Mawanella police have informed the Ussapitiya road through the Weligalla road since the main road is completely blocked.
 
 ◼️
 
 [Data](articles/41a21437.json)
+
+[Extended Data](ext_articles/41a21437.ext.json)
 
 ---
 
@@ -61,6 +101,8 @@ While confidentiality agreements limit the disclosure of specific details, the s
 ...
 
 [Data](articles/adbe3505.json)
+
+[Extended Data](ext_articles/adbe3505.ext.json)
 
 ---
 
@@ -2231,45 +2273,5 @@ Its latest update shared at 2pm AEST reads: “Flooding and road blockages have 
 [Data](articles/d54d648a.json)
 
 [Extended Data](ext_articles/d54d648a.ext.json)
-
----
-
-### Damitha is taken to court
-
-*2024-04-17 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195713) · `si`
-
-Damitha Abeyratne faces court today.
-
-🟩
-
-The actor Damitha Abeyratne has been taken to the Fort Magistrate's Court today (17).
-
-◼️
-
-[Data](articles/3e934d28.json)
-
-[Extended Data](ext_articles/3e934d28.ext.json)
-
----
-
-### Family dispute lives
-
-*2024-04-17 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195712) · `si`
-
-A woman was attacked in Kandagala, allegedly by her husband, in a family dispute. The husband claimed his wife was assassinated by her, leading to his arrest. Gategoda Police are investigating further.
-
-🟩
-
-A woman was attacked with a sharp weapon in the Hunugala area in Kandagala.
-
-According to the police, the husband had revealed that his wife had been assassinated by his wife by his husband, as a family dispute was over.
-
-The suspect was arrested and the Gategoda Police have commenced further investigations.
-
-◼️
-
-[Data](articles/6ce26476.json)
-
-[Extended Data](ext_articles/6ce26476.ext.json)
 
 ---

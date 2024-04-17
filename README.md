@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 17:54:13**
+As of **2024-04-17 18:10:37**
 
 ## Newspaper Stats
 
-*Scraped **19,368** Articles*
+*Scraped **19,369** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,084
 adalk | 1,613
 tamilmirrorlk | 2,261
 adaderanalk | 2,328
-virakesarilk | 2,892
+virakesarilk | 2,893
 dailymirrorlk | 2,987
 adaderanasinhalalk | 3,155
 
@@ -26,47 +26,81 @@ adaderanasinhalalk | 3,155
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,363 (100.0%) of 19,368 articles have been extended.
+19,368 (100.0%) of 19,369 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### ஜீவனுக்கு ‘ஆடு‘ தெரியாதாம்
+### சர்வதேச கடன் வழங்னர்களுடனான இணக்கப்பாட்டு ஒப்பந்தங்களில் அரசாங்கம் வெளிப்படைத் தன்மையைப் பேண வேண்டும் - கலாநிதி ஹர்ஷ டி சில்வா வலியுறுத்தல்
+
+*2024-04-17 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181323) · `ta`
+
+பொருளாதார வளர்ச்சி வேகத்துக்கமைய கடன் மறுசீரமைப்பை மேற்கொள்வதற்கு அரசாங்கம் இணக்கம் தெரிவித்துள்ளதாகவே தெரிகிறது. ஆனால் அது முழுமையாக அவ்வாறு இடம்பெறத் தேவையில்லை என்று நாம் எண்ணுகின்றோம். எவ்வாறிருப்பினும் சர்வதேச கடன் வழங்னர்களுடன் எட்டப்படும் இணக்கப்பாட்டு ஒப்பந்தங்களில் அரசாங்கம் வெளிப்படைத் தன்மையைப் பேண வேண்டும் என்று ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+
+கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் புதன்கிழமை (17) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+சர்வதேச கடன் வழங்குனர்களுடனான பேச்சுவார்த்தைகள் நிறைவடைந்துள்ளதாக அரசாங்கம் உத்தியோகபூர்வமாக அறிவித்துள்ளது. ஏப்ரலுக்குள் பேச்சுவார்த்தைகளை நிறைவு செய்து, 12.7 பில்லியன் டொலர் கடன் தொகையை மறுசீரமைப்பதற்கான இணக்கப்பாட்டை எட்டுவதே அரசாங்கத்தின் எதிர்பார்ப்பாகவிருந்தது.
+
+...
+
+[Data](articles/a4ae88af.json)
+
+---
+
+### Jeevan does not know the goat
 
 *2024-04-17 17:28:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜீவனுக்கு-ஆடு-தெரியாதாம்/76-336054) · `ta`
 
-நுவரெலியா மாவட்டத்தில் ஆடு வளர்ப்பினை ஊக்கப்படுத்த முதல் கட்டமாக 25 பயனாளிகள் தெரிவு செய்யப்பட்டுள்ளனர். கடா மறி இவ்வாறு தெரிவு செய்யப்பட்டுள்ள 25 பயனாளிகள்  தலா ஒருவருக்கு ஒரு கடாவும் இரண்டு மறிகளுமாக 75 ஆடுகள் வழங்க நடவடிக்கை எடுக்கப்பட்டுள்ளதுடன் பயனாளிகளின் தெரிவு செய்யப்பட்டுள்ளனர்.
+Jeevan Thondaman is uninvolved in a goat farming scheme in Nuwara Eliya district, where 25 beneficiaries were supposed to receive 75 goats each. Delays led to a minor tension over the goats' delivery and quality. The program, run by the Ministry of Water Supply and Plantation Infrastructure Development, faced controversy over the selection process and the quality of the goats.
 
-இருப்பினும் இவ்வாறு தெரிவு செய்யப்பட்ட பயனாளிகளுக்கு தைப்பொங்கல் தினத்தில் குறித்த ஆடுகளை வழங்க தீர்மானிக்கப்பட்டிருந்தன. எனினும், இத்திட்டத்தை நடைமுறைப்படுத்தும் அதிகாரிகளின் தாமதமான செயற்பாட்டினால் இதுவரை பயனாளிகளுக்கு ஆடுகள் சென்றடையவில்லை.
+🟩
 
-இந்த நிலையில் பயனாளிகள் 75 பேருக்கு வழங்குவதற்காக ஒரு தொகை ஆடுகள் லொறி ஒன்றின் ஊடாக கொட்டக்கலை (சி எல் எப் )க்கு செவ்வாய்க்கிழமை (16) கொண்டுவரப்பட்டுள்ளது.
+25 beneficiaries have been selected for the first phase to encourage goat farming in Nuwara Eliya district. Steps have been taken to provide 75 goats for one person and two for each of the 25 beneficiaries who have been selected.
 
-இவ்வாறு கொண்டுவரப்பட்டுள்ள ஆடுகளுக்கு முறையான பணம் வழங்கப்படவில்லை என்பதை காரணம் காட்டி அன்றையதினம் (16) மாலை ஆடுகளை ஏற்றி வந்த லொரியை மடக்கி  சிலர் வாக்குவாதத்தில் ஈடுப்பட்டதுடன் லொரிக்குத் தீ வைக்கப்போவதாகவும் எச்சரித்துள்ளனர்.
+However, the selected beneficiaries were decided to provide the goats on Taipongal Day. However, due to the delay in implementing the scheme, the goats have not reached the beneficiaries.
+
+In this case, a sum of goats were brought to Kotakkal (CLF) on Tuesday (16) to provide 75 beneficiaries.
+
+Some have warned that the lorry, which was loaded with goats that evening (16), was warned and that the Lorry was set to set fire to the fact that the goats were not paid properly.
+
+This caused a minor tension in the shed. Some of the rushed officials quenched the tension.
+
+Beneficiaries have been selected to provide goats when they questioned the relevant parties regarding the goat affair. It is reported that the programs are being carried out through Thondaman Memorial Forum.
 
 ...
 
 [Data](articles/413f87d2.json)
 
+[Extended Data](ext_articles/413f87d2.ext.json)
+
 ---
 
-### පාලිත තෙවරප්පෙරුමගේ මරණ පරීක්ෂණ වාර්තාව නිකුත් කෙරේ
+### Palitha Thevarapperuma's death inspection report released
 
 *2024-04-17 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195728) · `si`
 
-හිටපු රාජ්‍ය අමාත්‍යවරයෙකු වූ පාලිත තෙවරප්පෙරුම මහතාගේ මරණය විදුලිසැර වැදීමෙන් ශරීරයේ අභ්‍යන්තර ඉන්ද්‍රියන්වලට සිදුවූ බරපතළ හානි හේතුවෙන් සිදුවූ මරණයක් බව පශ්චාත් මරණ පරීක්ෂණයේදී තහවුරුවී තිබේ.
+Palitha Thevarapperuma's post-mortem report revealed severe internal organ damage. The examination, led by M. T. B. at Nagoda Hospital, was attended by high-profile officials including the Chief Justice Officer, the Minister of Ughawalawatta, and the UNP General Secretary General. The remains were then taken to a flower hall in Kalutara, where condolences were expressed.
 
-කළුතර නාගොඩ මහ රෝහලේ අධිකරණ වෛද්‍ය ඒකකයේ ප්‍රධාන අධිකරණ වෛද්‍ය නිලධාරී කේ. එම්. ටී. බී. ගුණතිලක මහතාගේ ප්‍රධානත්වයෙන් අද (17 ) කළුතර නාගොඩ මහ රෝහලේ අධිකරණ වෛද්‍ය ඒකකයේදී පශ්චාත් මරණ පරීක්ෂණය පැවැත්වුණි.
+🟩
 
-අමාත්‍යවරයා අනතුරට ලක්වූ යටදොළවත්ත, නවුත්තුඩුව කරම්පෑතර පිහිටි ස්ථානය ඊයේ (16) කළුතර අධිකරණ වෛද්‍ය නිලධාරී විශේෂඥ වෛද්‍ය කේ. එම්. ටී. බී. ගුණතිලක මහතා නිරීක්ෂණය කිරීමෙන් අනතුරුව පශ්චාත් මරණ පරීක්ෂණය සිදු කෙරුණි.
+Palitha Thewarapperumakitha Thevarapperuma has been inspected at the post mortemic vehicle that caused serious damage to the internal organs of the body.
 
-හිටපු අමාත්‍යවරයාගේ බිරිඳ වන අමිතා නාලිංගනී අමරතුංග මහත්මිය විසින් කළුතර ශීක්ෂණ රෝහලේදී මෘත දේහය හඳුනාගන්නා ලදි.
+Chief Justice Officer of the Judicial Medical Unit of the Nagoda Hospital in Kalutara. M. T. B. The post mortem examination was held today (17) under the patronage of Mr. Gunatullaka.
 
-අනතුරුව කළුතර අපරාධ ස්ථාන පරීක්ෂණාගාර නිලධාරීන් අමාත්‍යවරයා අනතුරට ලක්වූ ස්ථානය නිරීක්‍ෂණය කරන ලද අතර, මතුගම අතිරේක මහෙස්ත්‍රාත්වරයා විසින් ස්ථානීය පරීක්ෂණයක්ද සිදු කර තිබේ.
+Minister of Ughawalawatta, Navaththanda, Navaththanda, Ughaduwalawatta, Navattu yesterday (16).. M. T. B. After inspecting Mr. Gunatilake, the post mortem was carried out.
+
+Former minister's wife, Amaitan Naltaangani Amaratunga was identified at the Kalutara Survey Hospital.
+
+The Minister was observed where the Minister was hit by the Minister in Kalutara criminal laboratories and had a site investigation.
+
+Prior to the post mortem, Mrs. Kalutara Chief Magistrate Nathira Hemamali Hamfadandena was also checked by Hon.
 
 ...
 
 [Data](articles/3393b196.json)
+
+[Extended Data](ext_articles/3393b196.ext.json)
 
 ---
 
@@ -83,6 +117,8 @@ Fr. Fernando was summoned by the CID earlier on November 3 to 8 2021. He obtaine
 ◼️
 
 [Data](articles/4c510904.json)
+
+[Extended Data](ext_articles/4c510904.ext.json)
 
 ---
 
@@ -284,21 +320,27 @@ Thirtes of 1370 houses were damaged due to the disaster situation in Northwester
 
 ---
 
-### සුන්දර හික්කඩුව අසුන්දර වෙයි
+### Beautiful Hikkaduwa becomes inhand
 
 *2024-04-17 15:59:17* · [`adalk`](https://www.ada.lk/breaking_news/සුන්දර-හික්කඩුව-අසුන්දර-වෙයි/11-409127) · `si`
 
-හික්කඩුවේ දෙස් විදෙස් සංචරකයන්ගේ ආකර්ශණීය ස්ථානයක් ලෙස හදුන්වන හික්කඩුව පන්නන්ගොඩ දැකුම් කළු වෙරළ තීරය ආසන්නයේ දැනට සතියකටත් වැඩි කාලයක් තිස්සේ සිට ගොඩ ගසා ඇති කසළ කන්දයි මේ.
+Hikkaduwa's Mount of Garbage is a significant issue, causing distress to locals and tourists. It's a longstanding problem, dating back to New Year's, affecting the coast and foreign visitors alike.
 
-නිවාඩුවකට විවේකයෙන් සිටීමට දෙස් සංචාරයකන් මෙන්ම විදෙස් සංචාරකයන්  වැවශයෙන්  පැමිණීමට කැමැත්තක් දක්වන මේ වෙරළ තීරය ආසන්නයේ මෙසේ  ගොඩ ගසා ඇති කසළ කන්ද නිසා ඔවුහු දැඩි අසීරුතාවයට පත්වී සිටිති.
+🟩
 
-මේ කසළ කන්දෙන් හමන දුර්ගන්ධයෙන් ඒ පළාතම ගද ගසන බව සංචාරකයන් මෙන්ම ප්‍රදේශවාසීන් ද කියති.
+The garbage mountain is the Mount of Hikkaduwa, Hikkaduwa, Hikkaduwa, Hikkaduwa.
 
-මේ කසළ කන්ද අලුත් අවුරුදු දිනවල සිට මේ තාක් තිබෙන බවත් මෙය තමන්ට ඉමහත් කරදරයක් බවත් ඔවුහු කියති.
+They have been very difficult for the coast of the coast of the coast of the coast of the beach and the coast of foreign tourists.
+
+It is also called on the ruling from the garbage, and the residents of the area.
+
+They say that the garbage Mountaine has been since the New Year's New Year and it is a great trouble.
 
 ◼️
 
 [Data](articles/4419e40f.json)
+
+[Extended Data](ext_articles/4419e40f.ext.json)
 
 ---
 
@@ -2277,25 +2319,5 @@ Palitha Thevarapperuma was designed while his Susan was alive while he was alive
 [Data](articles/105696ab.json)
 
 [Extended Data](ext_articles/105696ab.ext.json)
-
----
-
-### Eyeing Green Bonds, Sri Lanka State FinMin takes part at WB Biodiversity Financing forum
-
-*2024-04-17 07:00:00* · [`economynextcom`](https://economynext.com/eyeing-green-bonds-sri-lanka-state-finmin-takes-part-at-wb-biodiversity-financing-forum-158783/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s State Finance Minister Shehan Semasinghe took part in the World Bank’s Bio-Diversity Financing Forum on the sideline of the IMF/World Bank Spring Meeting in Washington late on Tuesday as the island nation is looking to borrow through nature-lined Green Bonds.
-
-Sri Lanka’s Colombo Stock Exchange (CSE) introduced listing of Green Bonds in April last year and officials say a few parties have expressed interests in listing. However, so far no listing has been done.
-
-The money raised from Green Bonds, a nature-linked debt instrument, could be used only for green projects like renewable energy, unlike conventional corporate debenture, which could be used for anything the government wants.
-
-The island nation has set targets to become carbon neutral in 2050 and is looking for $11.26 billion in investment to meet its renewable energy targets in eight years through 2030, government officials have said.
-
-...
-
-[Data](articles/437c3922.json)
-
-[Extended Data](ext_articles/437c3922.ext.json)
 
 ---

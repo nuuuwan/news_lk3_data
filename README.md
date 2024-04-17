@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 15:18:48**
+As of **2024-04-17 15:34:20**
 
 ## Newspaper Stats
 
-*Scraped **19,343** Articles*
+*Scraped **19,345** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 168
-bbccomsinhala | 204
+bbccomsinhala | 205
 dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,038
@@ -19,18 +19,36 @@ adalk | 1,610
 tamilmirrorlk | 2,259
 adaderanalk | 2,325
 virakesarilk | 2,888
-dailymirrorlk | 2,983
+dailymirrorlk | 2,984
 adaderanasinhalalk | 3,147
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,343 (100.0%) of 19,343 articles have been extended.
+19,343 (100.0%) of 19,345 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### Plantation community alleges presence of ’scam’ behind Indian Housing project, CWC faces heat
+
+*2024-04-17 15:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Plantation-community-alleges-presence-of-scam-behind-Indian-Housing-project-CWC-faces-heat/108-280843) · `en`
+
+The Ceylon Workers Congress (CWC) is presently facing the heat as allegations have surfaced that the party is forcing Estate Superintendents within the estate community to select members loyal to the CWC as beneficiaries for an Indian grant which gives houses funded by the Indian government.
+
+Reliable sources told the Daily Mirror that under this Indian housing grant, those individuals who have left the estates, those who already have houses and reside in the estates, but work for other private entities are not eligible for these houses.
+
+"But sources linked to the project said they have come under tremendous pressure from the CWC to give houses to individuals falling into these categories; which is not the requirement of the Indian Government.
+
+"What we were told by the Indian High Commission offices is to select the most suitable beneficiaries, but not to do it based on affiliation to any trade union," sources said.
+
+...
+
+[Data](articles/456b24f3.json)
+
+---
 
 ### Today
 
@@ -1580,6 +1598,32 @@ Then a police officer who arrived there had confessed me and sent me and my wife
 
 ---
 
+### මියන්මාර අවුරුදු දා සමාව  ලැබෙන එරට සිරගතව සිටින ලාංකිකයින් පිරිස කවුද ?
+
+*2024-04-17 08:01:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n1pwklydgo) · `si`
+
+මියන්මාර අවුරුදු දා සමාව  ලැබෙන එරට සිරගතව සිටින ලාංකිකයින් පිරිස කවුද ?
+
+අප්‍රේල් මස 13 වෙනිදා සිට අප්‍රේල් මස 16 වෙනිදා දක්වා මියන්මාර ජනතාව "තින්ග්යන්" නව අවුරුදු උත්සවය සමරනු ලැබීය.
+
+මෙම නව අවුරුදු උත්සවයට සමගාමිව මියන්මාරයේ රාජ්‍ය පරිපාලන සභාව විසින් සිරකරුවන් තුන්දහසකට අධික සංඛ්‍යාවක් පොදු සමාව යටතේ නිදහස් කිරීමට තීරණය කර ඇත.
+
+එලෙස පොදු සමාව යටතේ නිදහස් කරනු ලබන සිරකරුවන් 3,303ක් අතර විදේශීය ජාතිකයින් 36 දෙනෙකු සිටින බව සඳහන් ය.
+
+මියන්මාර අත්අඩංගුවේ සිටින ශ්‍රී ලංකා ධීවරයින්: ‘කළුවර කාමර වල සිර කරලා, ආහාරත් නැහැ’
+
+බීබීසී සිංහල සේවයට අදහස් දක්වමින් මියන්මාරයේ ශ්‍රී ලංකා තානාපති ජානක බණ්ඩාර පැවසුවේ ලබා දී ඇති පොදු සමාව යටතේ ශ්‍රී ලාංකිකයින් 15 දෙනෙකුට ද නිදහස හිමිව ඇති බවයි.
+
+එලෙස පොදු සමාව යටතේ නිදහස ලබා ඇති සියලුම ශ්‍රී ලාංකිකයින් ධීවරයින් බව තානාපතිවරයා පැවසීය.
+
+"පසුගිය වසරේදී මියන්මාර මුහුදු සීමාවේ අනවසරයෙන් ධීවර කටයුතු වල නියැලීම හේතුවෙන් ශ්‍රී ලංකාවේ බහුදින ධීවර යාත්‍රා දෙකක් මියන්මාර් බලධාරීන් සිය භාරයට ගත්තා"
+
+...
+
+[Data](articles/92c8f1c5.json)
+
+---
+
 ### Lankan students to shine on global stage with robotics innovations
 
 *2024-04-17 08:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lankan-students-to-shine-on-global-stage-with-robotics-innovations/108-280793) · `en`
@@ -2211,41 +2255,5 @@ He was nominated to the Constitutional Council as a civil representative on 10 S
 [Data](articles/1fd907d8.json)
 
 [Extended Data](ext_articles/1fd907d8.ext.json)
-
----
-
-### Former UNP MP Palitha Thewarapperuma passes away in tragic accident
-
-*2024-04-17 02:38:51* · [`dailyftlk`](https://www.ft.lk/news/Former-UNP-MP-Palitha-Thewarapperuma-passes-away-in-tragic-accident/56-760691) · `en`
-
-Former United National Party (UNP) member and Deputy Minister Palitha Thewarapperuma tragically passed away yesterday evening due to electrocution.
-
-The incident occurred when he attempted to connect two electrical circuits at his home, resulting in his untimely demise after being admitted to the Nagoda Hospital.
-
-Thewarapperuma, born on 3 May 1960, was a prominent figure in the political arena, having served as a Member of Parliament from the UNP. He was appointed as the Deputy Minister of Internal Affairs, Wayamba Development and Cultural Affairs during the tenure of the UNP-led coalition Government in 2015. He was known for his dedication to public service and his contributions to various development projects during his tenure as a Parliamentarian, Deputy Minister as well as during his retirement from politics.
-
-...
-
-[Data](articles/0f85661c.json)
-
-[Extended Data](ext_articles/0f85661c.ext.json)
-
----
-
-### NextGenSL facilitates cross-party collaboration on governance and economic development framework
-
-*2024-04-17 02:37:06* · [`dailyftlk`](https://www.ft.lk/news/NextGenSL-facilitates-cross-party-collaboration-on-governance-and-economic-development-framework/56-760690) · `en`
-
-Marking a landmark initiative aimed at fostering cross-party cooperation, NextGenSL, a platform dedicated to empowering young leaders from the main political camps, convened representatives from 15 political parties for a two-day consultation session.
-
-The gathering culminated in the development of an initial draft for a cross-party governance and economic development framework, signalling a new step forward in Sri Lanka’s political landscape.
-
-Under the auspices of NextGenSL, delegates from diverse political backgrounds engaged in constructive discussions, focusing on key issues concerning governance, economic development, and social progress. Over the course of the consultations, participants collaborated to craft a comprehensive framework that draws from a range of sources, including political manifestos, an IMF diagnostic report, and frameworks from civil organisations.
-
-...
-
-[Data](articles/ba6a8ec8.json)
-
-[Extended Data](ext_articles/ba6a8ec8.ext.json)
 
 ---

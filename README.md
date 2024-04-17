@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 18:22:06**
+As of **2024-04-17 18:34:05**
 
 ## Newspaper Stats
 
-*Scraped **19,371** Articles*
+*Scraped **19,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,44 @@ newsfirstlk | 363
 islandlk | 1,038
 dailyftlk | 1,059
 economynextcom | 1,084
-adalk | 1,613
+adalk | 1,616
 tamilmirrorlk | 2,261
 adaderanalk | 2,329
 virakesarilk | 2,893
-dailymirrorlk | 2,987
+dailymirrorlk | 2,988
 adaderanasinhalalk | 3,156
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,369 (100.0%) of 19,371 articles have been extended.
+19,371 (100.0%) of 19,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
 
-### Sri Lanka hoping to continue talks with bondholders after consulting IMF
+### Be cautious when eating more sweets, different food after New Year
 
-*2024-04-17 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98688/sri-lanka-hoping-to-continue-talks-with-bondholders-after-consulting-imf) · `en`
+*2024-04-17 18:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Be-cautious-when-eating-more-sweets-different-food-after-New-Year/108-280847) · `en`
 
-The Government of Sri Lanka says it hopes to continue discussions with the bondholders with a view to reaching common ground ahead of the International Monetary Fund (IMF) board consideration of the second review of Sri Lanka’s Extended Fund Facility (EFF) program.
+Colombo, April 17 (Daily Mirror) - Eating a wide range of foods, including sweets, during the Sinhala and Tamil New Year festivities can lead to higher blood sugar and cholesterol levels, Registrar in Clinical Nutrition at the Health Ministry Dr. Janaka Marasinghe said.
 
-The Finance Ministry, yesterday, issued a statement announcing that the government has concluded the initial restricted discussions with nine members of the Steering Committee of the Ad Hoc Group of Bondholders regarding its international sovereign bonds (ISBs).
+He pointed out that people should pay more attention to food and drinks during festive seasons.
 
-The Steering Committee as a whole comprises ten of the largest members of the Group, with the Group controlling approximately 50% of the aggregate outstanding amount of ISBs.
+"Most of the sweets made during the New Year will come out after the festival. Every house has a considerable collection of different types of food, including sweets and it automatically causes the increase in consumption of these foods. New Year foods consists of more sugar and flour which makes people overweight and increase their diabetic conditions," Dr. Marasinghe said.
+
+Accordingly, it is more important to follow a diet plan that avoids unnecessary sugar and cholesterol levels getting in to the blood stream.
 
 ...
 
-[Data](articles/82899d61.json)
+[Data](articles/d3a621e5.json)
 
 ---
 
 ### The government should maintain transparency in compliance agreements with international creditors - Dr. Harsha de Silva emphasizes
 
-*2024-04-17 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181323) · `ta`
+*2024-04-17 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/181323) · `ta`
 
 Dr. Harsha de Silva urges transparency in debt restructuring agreements with international creditors, emphasizing the need for long-term compliance beyond the current government's term.
 
@@ -72,21 +74,75 @@ Go beyond politics and focus on this. It must be understood that they do it for 
 
 ---
 
-### ශ්‍රී ලංකාවේ සූදානම ගැන මුදල් රාජ්‍ය ඇමති කියයි
+### Sri Lanka hoping to continue talks with bondholders after consulting IMF
+
+*2024-04-17 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98688/sri-lanka-hoping-to-continue-talks-with-bondholders-after-consulting-imf) · `en`
+
+The Government of Sri Lanka says it hopes to continue discussions with the bondholders with a view to reaching common ground ahead of the International Monetary Fund (IMF) board consideration of the second review of Sri Lanka’s Extended Fund Facility (EFF) program.
+
+The Finance Ministry, yesterday, issued a statement announcing that the government has concluded the initial restricted discussions with nine members of the Steering Committee of the Ad Hoc Group of Bondholders regarding its international sovereign bonds (ISBs).
+
+The Steering Committee as a whole comprises ten of the largest members of the Group, with the Group controlling approximately 50% of the aggregate outstanding amount of ISBs.
+
+...
+
+[Data](articles/82899d61.json)
+
+[Extended Data](ext_articles/82899d61.ext.json)
+
+---
+
+### දින තුනට දෙහිවල ලක්ෂ 47ක් හොයයි
+
+*2024-04-17 17:47:55* · [`adalk`](https://www.ada.lk/breaking_news/දින-තුනට-දෙහිවල-ලක්ෂ-47ක්-හොයයි/11-409129) · `si`
+
+දෙහිවල ජාතික සත්වෝද්‍යානය නැරඹීම සඳහා  අලුත් අවුරුදු දින තුන තුළ පැමිණි නරඹන්නන්ගෙන්   රුපියල් ලක්ෂ 47කට අධික ආදායමක් උපයා ඇතැයි දෙහිවල සත්වෝද්‍යානයේ සහකාර අධ්‍යක්ෂිකා දිනුෂිකා මානවඩු මහත්මිය සඳහන් කරයි.
+
+අප්‍රේල් 13 ,14,15 යන තෙදින තුළ ළමා, තරුණ , වැඩිහිටි ,මහළු , නරඹන්නන් ලක්ෂ ගණනක් දිවයිනේ සතර දිසාවෙන් පැමිණ ඇත. ඔවුන් ප්‍රවේශපත්‍ර මිලදී ගැනීමෙන් අප්‍රේල් 13  දින ලක්ෂ 13 ක් ද, අප්‍රේල් 14 දින ලක්ෂ 16 ක්ද ,අප්‍රේල් 15 දින ලක්ෂ 18 ක්ද සත්වෝද්‍යානයට මේ ලෙස ආදායම උපයා දී තිබේ.
+
+◼️
+
+[Data](articles/e4443b74.json)
+
+---
+
+### State Minister speaks of preparations in Sri Lanka
 
 *2024-04-17 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195729) · `si`
 
-ජාත්‍යන්තර ස්වෛරී බැඳුම්කර ප්‍රතිව්‍යුහගතකරණය සම්බන්ධයෙන් බැඳුම්කරහිමියන් සමග එකඟතාවයකට පැමිණීම සඳහා තවදුරටත් සාකච්ඡා කිරීමට බලාපොරොත්තු වන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+State Minister Shehan Semasinghe discusses Sri Lanka's preparations for restructuring international sovereign bonds, aiming for transparency and trust. The Ministry of Finance and the International Monetary Fund are involved in these discussions.
 
-රාජ්‍ය අමාත්‍යවරයා තවදුරටත් පවසන්නේ ණය ප්‍රතිව්‍යුහගතකරණ සාකච්ඡා සඳහා හොඳ විශ්වාසයකින් එක්වන බවත් එහිදී සියල්ලටම සාධාරණ ලෙස කටයුතු කිරීමටත් මෙන්ම එවැනි සාකච්ඡාවලදී බලාපොරොත්තු වන උපරිම විනිවිදභාවය ඇති කිරීමටත් ශ්‍රී ලංකා බලධාරීන් කටයුතු කරන බවත් ය.
+🟩
 
-ශ්‍රී ලංකාව සහ ජාත්‍යන්තර ස්වෛරී බැඳුම්කරහිමියන්ගේ නියෝජිතයින් සමග පැවති සාකච්ඡාවල ප්‍රගතිය සම්බන්ධයෙන් ඊයේ මුදල් අමාත්‍යංශය නිවේදනයක් නිකුත් කරමින් පැවසුවේ එම සාකච්ඡා එකඟතාවයකින් තොර වූ බවය.
+Minister of State Shehan Semasinghe says that he is looking to further discuss with the restructuring of international sovereign bonds.
 
-ජාත්‍යන්තර ස්වෛරී බැඳුම්කරහිමියන්ගේ යෝජනා සම්බන්ධයෙන් ජාත්‍යන්තර මූල්‍ය අරමුදල දැනුවත් කර ඔවුන්ගේ උපදෙස් අනුව ඉදිරි සාකච්ඡා සිදුකරන බව ද රාජ්‍ය ඇමතිවරයා පවසයි.
+The State Minister further states that the Sri Lankan authorities are working to be a good trust for the restructuring discussions and to act as well and to create a maximum transparency that is expected in such discussions.
+
+The Ministry of Finance issued a statement yesterday regarding the progress of discussions with representatives of Sri Lanka and the International Sovereign Bonds of the International Sovereign Bonds.
+
+The International Monetary Fund is informed by the International Monetary Fund to educate the international sovereignty bonds and discussing future discussions.
 
 ◼️
 
 [Data](articles/dc751096.json)
+
+[Extended Data](ext_articles/dc751096.ext.json)
+
+---
+
+### කොත්තු මුදලාලිට ඇප
+
+*2024-04-17 17:43:29* · [`adalk`](https://www.ada.lk/breaking_news/කොත්තු-මුදලාලිට-ඇප/11-409128) · `si`
+
+කොළඹ වීදී ආහාර අලෙවි සැලකදී කොත්තු රොටියක් මිලදී ගැනීම ප්‍රතික්‍ෂෙප කළ විදේශිකයෙකුට බැන තර්ජනය කර අඩත්තේට්ටම් කළ කොළඹ අලුත්කඩේ වීදී ආහාර අලෙවි කරන්නා ශ්‍රී ලංකාව ජාත්‍යන්තර වශයෙන් විශාල අපකීර්තියකට පත්වන කටයුත්තක නිරත වී ඇති බව සෛල්වත්ත පොලිසිය කොළඹ අතිරේක මහේස්ත්‍රාත් මංජුල රත්නායක මහතාට අද (17) දැනුම් දුන්නේය.
+
+විදේශිකයෙකුට බැණ තර්ජනය කර අඩත්තේට්ටම් කළැයි කියමින් සැකපිට අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ කොළඹ අලුත්කඩේ වීදී ආහාර අලෙවි කරන්නා රුපියල් 50,000/-ක මුදල් හා ලක්ෂ දහයක් වටිනා ඇපකරුවකුගේ ශරීර ඇපයක් මත සැකකරු මුදා හැරීමට නියම කළ මහෙස්ත්‍රාත්වරයා සෑම ඉරුදිනකම කෙසෙල්වත්ත පොලිසියේ පෙනී සිටීමේ ඇප කොන්දේසියක්ද පැනවීය.
+
+ඉදිරිපත් වු කරුණු සළකා බැලීමෙන් අනතුරුව මෙලෙස ඇප මත මුදාහරින ලද්දේ කොළඹ අලුත්කඩේ පදිංචි මොහොමඩ් අමීර් හම්සා අමීර් නමැත්තාටය.
+
+...
+
+[Data](articles/d2b6e230.json)
 
 ---
 
@@ -989,6 +1045,28 @@ The first quarter has been allocated for these projects and allocated to the dis
 [Data](articles/58ce4ede.json)
 
 [Extended Data](ext_articles/58ce4ede.ext.json)
+
+---
+
+### හයිඩ්‍රොෆ්ලෝරෝකාබන් ආනයනය කරන්නන් ලියාපදිංචිය අනිවාර්ය වෙයි
+
+*2024-04-17 12:33:21* · [`adalk`](https://www.ada.lk/breaking_news/හයිඩ්‍රොෆ්ලෝරෝකාබන්-ආනයනය-කරන්නන්-ලියාපදිංචිය-අනිවාර්ය-වෙයි/11-409123) · `si`
+
+ඉදිරියේදී මෙරටට හයිඩ්‍රොෆ්ලෝරෝකාබන් (HFCs) ආනයනය කරන්නන් තමන්ට ලබා දෙන එම කෝටාව තීරණය කිරීම සඳහා අනිවාර්යයෙන් පරිසර අමාත්‍යාංශයේ ලියාපදිංචි විය යුතු බව පරිසර අමාත්‍යාංශය පවසයි.
+
+ඒ අනුව ලියාපදිංචි නැති කිසිම ආයතනයකට හෝ පුද්ගලයන්ට කිසිම කරුණක් සඳහා මෙරටට හයිඩ්‍රොෆ්ලෝරෝකාබන් (HFCs) ආනයනය කිරීම තහනම් බව පරිසර අමාත්‍යාංශය සඳහන් කරයි.
+
+වායු සමීකරණ හා ශීතකරණ යන්ත්‍ර සඳහා මෙරට හයිඩ්‍රොෆ්ලෝරෝකාබන් (HFCs) භාවිතා කරයි.
+
+ඕසෝන් ස්ථරය ක්ෂය කරන ද්‍රව්‍ය පිළිබඳව   මොන්ට්‍රියල් සන්ධානයේ සාමාජික  රටක් ලෙස 1989 සිට  ශ්‍රී ලංකාවේ  හයිඩ්‍රොෆ්ලෝරෝකාබන් (HFCs) පරිභෝජනය සීමා කිරීම හා ක්‍රමානුකූලව අඩු කිරීමට ඇති  කරගත් එකගතාවය මේ වසරේ සිට ක්‍රියාත්මක කිරීමට පරිසර අමාත්‍යාංශය පියවර ගැනීම මත මේ නව වැඩ පිළිවෙළ ක්‍රියාත්මක කෙරේ.
+
+මොන්ට්‍රියල්  සාමාජික රටවල හයිඩ්‍රොෆ්ලෝරෝකාබන් (HFCs) පරිභෝජනය සඳහා උපරිම සීමාව පාවිච්චි කරන  ස්ථාවර  පාදක අගයක් අනුව තීරණය කරනු ලැබේ.
+
+මේ අනුව පරිසර අමාත්‍යාංශය විසින් මෙම වසරේ සිට සුදුසු ව්‍යාපාරික ආයතන හා පුද්ගලයන්  අතර වාර්ෂික හයිඩ්‍රොෆ්ලෝරෝකාබන් (HFCs)  කෝටාව බෙදා හරිනු ලබේ.
+
+...
+
+[Data](articles/eacf79cc.json)
 
 ---
 
@@ -2223,93 +2301,5 @@ The Department of Immigration and Emigration says that "E Visa" system will be i
 [Data](articles/b3d8ba5a.json)
 
 [Extended Data](ext_articles/b3d8ba5a.ext.json)
-
----
-
-### Fairly heavy showers expected in several provinces
-
-*2024-04-17 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98675/fairly-heavy-showers-expected-in-several-provinces) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, North-western and Uva provinces and in Galle and Matara districts after 2.00 p.m.
-
-Fairly heavy showers about 50mm are likely at some places in Western, Sabaragamuwa and North-western provinces, it said.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/1887fa96.json)
-
-[Extended Data](ext_articles/1887fa96.ext.json)
-
----
-
-### SL-bondholders talks on restructuring terms fail
-
-*2024-04-17 07:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-bondholders-talks-on-restructuring-terms-fail/108-280811) · `en`
-
-Colombo, April 17 (Daily Mirror) - Government officials continued to sound upbeat in striking a deal with the bondholders, however, authorities this week failed to reach a consensus regarding the terms of restructuring.
-
-Despite “constructive discussions”, authorities and the bondholders did not agree on restructuring terms, Sri Lanka said in a regulatory filing to the London Stock Exchange.
-
-The restructuring of the debt, amounting to over US$ 12 billion, is a mandatory requirement set by the International Monetary Fund (IMF) for the island nation to continue in its efforts to come out of the debt crisis.
-
-According to the filing, Sri Lanka rejected the ‘Macro-Linked Bond’ (MLB) proposal as it still had concerns, whereas the members of the Steering Committee articulated the reasons why they believed the terms of their MLB proposal were fair and reasonable.
-
-...
-
-[Data](articles/13ccf020.json)
-
-[Extended Data](ext_articles/13ccf020.ext.json)
-
----
-
-### Excise officer arrested for distorting a veteran singer
-
-*2024-04-17 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195707) · `si`
-
-An Excise officer was arrested for allegedly selling a song by veteran singer Rohana Beddage.
-
-🟩
-
-An Excise was arrested by an Excise suspected to sell a song of Veteran singer Rohana Beddage.
-
-◼️
-
-[Data](articles/4184fb1a.json)
-
-[Extended Data](ext_articles/4184fb1a.ext.json)
-
----
-
-### Dr. AT. Ariyaratne: The creator of the Sarvodaya Business for 15,000 villages in Sri Lanka
-
-*2024-04-17 07:09:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8vz9n63rvdo) · `si`
-
-Dr. AT. Ariyaratne, founder of Sarvodaya Shramadana Business, passed away at 93. He led the movement to eliminate poverty and build a conflict-free society, benefiting 15,000 villages in Sri Lanka.
-
-🟩
-
-Dr. AT. Ariyaratne: The creator of the Sarvodaya Business for 15,000 villages in Sri Lanka
-
-Sarvodaya Shramadana Business, the founder of Sarvodaya Shramadana Business, which is considered NGO with the largest and expansion expansion in Sri Lanka, Dr. AT. Ariyaratne has passed away Tuesday (April 16).
-
-He was 93 years old when he passed away at a private hospital in Colombo.
-
-Sarvodaya Shramadana Movement carried out by "Elimination of Poverty and Building a Conflict Society" Dr. AT. Ariyaratne is a dedicated person to raise thousands of families in Sri Lanka.
-
-Tudor Ariyaratne of Ahangama. Ariyaratne was born on November 5, 1931 at Unawatuna on November.
-
-He received primary education at Bona Vista College, Unawatuna, was secondary education from Mahinda College, Galle.
-
-Later, the AT who was attached to the Teacher Training College and became a teacher. Ariyaratne served as a teacher at Nalanda College, Colombo until 1972.
-
-...
-
-[Data](articles/733a0105.json)
-
-[Extended Data](ext_articles/733a0105.ext.json)
 
 ---

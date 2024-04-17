@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-17 11:18:19**
+As of **2024-04-17 11:34:16**
 
 ## Newspaper Stats
 
-*Scraped **19,297** Articles*
+*Scraped **19,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ islandlk | 1,038
 dailyftlk | 1,059
 economynextcom | 1,084
 adalk | 1,604
-tamilmirrorlk | 2,250
+tamilmirrorlk | 2,253
 adaderanalk | 2,321
 virakesarilk | 2,877
 dailymirrorlk | 2,975
-adaderanasinhalalk | 3,141
+adaderanasinhalalk | 3,142
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,293 (100.0%) of 19,297 articles have been extended.
+19,297 (100.0%) of 19,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-17 (Wednesday)
+
+### ඩුබායි යටවෙයි - ගුවන් ගමනුත් නවතී
+
+*2024-04-17 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195715) · `si`
+
+වසර 75කට පසු එක්සත් අරාබි එමීර් රාජ්‍යය ඇතුළු කලාපීය රටවලට දරුණු ජලගැලීම් ආපදා තත්ත්වයක් ඇතිවී තිබේ.
+
+මේ හේතුවෙන් ඕමාන් රාජ්‍යය තුළ පමණක් පුද්ගලයින් 18 දෙනෙක් මියගොස් ඇති බව වාර්තා වේ.
+
+කලාපය ඔස්සේ හමාගිය ප්‍රබල සුළි කුණාටුවක් හේතුවෙන් එක්සත් අරාබි එමීර් රාජ්‍යය ඇතුළු කලාපීය රටවලට අධික වර්ෂාපතනයක් බලපා තිබේ.
+
+මෙය වාර්තාවන්නේ වසර 75 කින් පසුව එක්සත් අරාබි එමීර් රාජ්‍යයෙන් වාර්තාවූ උපරිම වර්ෂාපතනය ලෙසය.
+
+මේ සමඟ ඩුබායි ඇතුළු එමීර් රාජ්‍යය කලාප හතෙන්ම ජලගැලීම් වාර්තා වී තිබිණි.
+
+ලොව වඩාත්ම දියුණු නගරයක් වන ඩුබායි හි වීථි ජලගැලීමට හසුව තිබුණි.
+
+සුප්‍රකට ඩුබායි සාප්පු සංකීර්ණය, එමිරේට්ස් සාප්පු සංකීර්ණය දණක් තෙක් ජලයෙන් යටවී තිබිණි.
+
+එමෙන්ම එහි දියුණු උමං දුම්රිය ස්ථාන සහ මාර්ග පවා ජලයෙන් යටවී තිබුණේ එමීර් රාජ්‍යයේ ජලඅපවහන පද්ධතිවල ක්‍රියාකාරිත්වය පිළිබඳ ගැටලු මතුකරමිනි.
+
+ලොව වඩාත්ම කාර්යබහුල ගුවන්තොටුපොළක් ලෙස සැලකෙන ඩුබායි ජාත්‍යන්තර ගුවන්තොටුපොළ ජලගැලීම් අතරතුර ජලයෙන් යටවී තිබිණි.
+
+මේ අනුව එහි කටයුතු සීමා කිරීමට බලධාරීන්ට සිදුවූ අතර තවත් ගමන් වාර රැසක් වෙනත් ගුවන් තොටුපොළ වෙත යොමුකිරීමටත් පියවර ගැනුණි.
+
+...
+
+[Data](articles/fc26cab7.json)
+
+---
 
 ### Fifteen imprisoned Sri Lankan fishermen in Myanmar pardoned
 
@@ -38,13 +68,31 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The 15 Sri Lankan fishermen, who were sentenced to 7-year rigorous imprisonment in Myanmar for violating the maritime boundaries, have been granted a general amnesty.
 
-This was communicated by the Ambassador of Sri Lanka in Myanmar.
+This was communicated to the media by the Ambassador of Sri Lanka in Yangon.
 
-These fishers had been arrested by the authorities in Myanmar for illegally crossing the country’s maritime boundaries in December 2023.
+These fishers had been arrested by the authorities in Myanmar for illegally crossing the country’s maritime boundaries in December 2023.
 
 ◼️
 
 [Data](articles/ca03a83e.json)
+
+[Extended Data](ext_articles/ca03a83e.ext.json)
+
+---
+
+### பாலிதவின் கடைசி ஆசை
+
+*2024-04-17 10:44:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலிதவின்-கடைசி-ஆசை/175-336029) · `ta`
+
+முன்னாள் பிரதி அமைச்சர் பாலித தெவரப்பெருமவின் இறுதிக்கிரியைகள் எதிர்வரும் சனிக்கிழமை (20) இடம்பெறவுள்ளதாக குடும்ப உறுப்பினர்கள் தெரிவிக்கின்றனர்.
+
+இவர் நேற்று தனது வீட்டில் இரண்டு மின் கம்பிகளை இணைக்க முற்பட்ட போது மின்சாரம் தாக்கி நாகொட வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+
+அவரை நல்லடக்கம் செய்வதற்காக களுத்துறையில் அவரது புதைகுழியை பாலித ஏற்கனவே தயார் செய்திருந்தார். அவர் இறந்த 24 மணி நேரத்திற்குள் அவரது அடக்கம் செய்யப்பட வேண்டும் என்பதும், அவரது உடலை அவரது சொந்த வண்டியில் அடக்கம் செய்ய எடுத்துச் செல்ல வேண்டும் என்பதும் அவரது கடைசி ஆசை என்பதும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/94668ff5.json)
 
 ---
 
@@ -85,6 +133,48 @@ His comments came after some 11 commuter trains were cancelled on Tuesday (16) d
 ◼️
 
 [Data](articles/c199a51f.json)
+
+[Extended Data](ext_articles/c199a51f.ext.json)
+
+---
+
+### பாடலை பகிர்ந்த அதிகாரி கைது
+
+*2024-04-17 10:40:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடலை-பகிர்ந்த-அதிகாரி-கைது/175-336028) · `ta`
+
+‘சூரிய மங்கல்ய’ பாடலை சமூக வலைதளங்களில் திரித்து பகிர்ந்த குற்றச்சாட்டின் பேரில்  கலால் திணைக்கள அதிகாரி ஒருவர் வாரியபொலவில் கைது செய்யப்பட்டுள்ளார்.
+
+மூத்த கலைஞர் ரோஹன பெத்தகே ரன்வல படையினருடன் இணைந்து பாடிய இந்த பாரம்பரிய புத்தாண்டு பாடலை சிதைத்தமை தொடர்பில் பொலிஸ்மா அதிபரிடம் முறைப்பாடு செய்யப்பட்டதை அடுத்து குற்றப் புலனாய்வுப் பிரிவின் கணினி குற்றப் புலனாய்வுப் பிரிவு விசாரணைகளை ஆரம்பித்துள்ளது.
+
+தலத்துஓயாவைச் சேர்ந்த 31 வயதுடைய கலால் அதிகாரி ஒருவரைக் கைது செய்யும் நோக்கில் கணினி குற்றப் புலனாய்வுப் பிரிவின் வடமேற்கு மாகாணப் பிரிவினர் விசாரணைகளை மேற்கொண்டனர்.
+
+சந்தேக நபர் வாரியபொல பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டதுடன், இன்று குளியாப்பிட்டி நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளார்.
+
+◼️
+
+[Data](articles/2dff8c98.json)
+
+---
+
+### குழந்தைகளிடையே வயிற்றுப்போக்கு நோய் அதிகரிப்பு
+
+*2024-04-17 10:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைகளிடையே-வயிற்றுப்போக்கு-நோய்-அதிகரிப்பு/175-336027) · `ta`
+
+இந்த நாட்களில் குழந்தைகள் மத்தியில் கணிசமான அளவு வயிற்றுப்போக்கு நோய் பரவுவதை சுகாதார அதிகாரிகள் அவதானித்துள்ளதையடுத்து பெற்றோர்கள் எச்சரிக்கையுடன் இருக்குமாறு அவர்கள் வலியுறுத்தியுள்ளனர்.
+
+டெய்லி மிரருடன் பேசிய லேடி ரிட்ஜ்வே மருத்துவமனையின் (LRH) குழந்தை நல மருத்துவர் தீபால் பெரேரா, "நீடிக்கப்பட்ட விடுமுறை நாட்களைத் தொடர்ந்து குழந்தைகள் வெளியில் இருந்து அதிக உணவை உட்கொள்வதால் குழந்தைகளுக்கு வயிற்றுப்போக்கு ஏற்படுவது ஒரு சாதாரண சூழ்நிலையாகும்" என்றார்.
+
+அறிகுறிகளில் அடிக்கடி தளர்வான அல்லது தண்ணீருடன் மலம் வெளியேறுதல், வயிற்று வலி அல்லது பிடிப்புகள், பசியின்மை, குமட்டல் மற்றும் வாந்தி ஆகியவை அடங்கும்.
+
+"இந்த அறிகுறிகள் தங்கள் குழந்தைகளில் காணப்பட்டால், பெற்றோர்கள் தங்கள் குழந்தைகளை உடனடியாக மருத்துவ சிகிச்சைக்கு அழைத்துச் செல்லுமாறு வலியுறுத்தப்படுகிறார்கள்."
+
+மேலும், பெற்றோர்கள் தங்கள் குழந்தைகளுக்கு என்ன உணவளிக்கிறார்கள் என்பதில் அதிக விழிப்புடன் இருக்குமாறு அறிவுறுத்தப்படுகிறார்கள்.
+
+இதற்கிடையில், குழந்தைகள் மத்தியில் டைபொய்ட் காய்ச்சல் பரவுவது குறித்து குழந்தை மருத்துவர் எச்சரித்தார்.
+
+...
+
+[Data](articles/883f798e.json)
 
 ---
 
@@ -1528,6 +1618,8 @@ A Parliamentary Committee led by MP Harsha de Silva has had a lot to say about t
 
 [Data](articles/6641658d.json)
 
+[Extended Data](ext_articles/6641658d.ext.json)
+
 ---
 
 ### The new visa system from today
@@ -1563,6 +1655,8 @@ The ICIA is not just a competition but a comprehensive learning platform that pr
 ...
 
 [Data](articles/45309ac1.json)
+
+[Extended Data](ext_articles/45309ac1.ext.json)
 
 ---
 
@@ -2063,97 +2157,5 @@ RELATED Sri Lanka agrees to state contingent factor in ISB exchange, ESG bonds a
 [Data](articles/06352ba0.json)
 
 [Extended Data](ext_articles/06352ba0.ext.json)
-
----
-
-### New Visa procedure implemented
-
-*2024-04-16 20:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-Visa-procedure-implemented/108-280788) · `en`
-
-Colombo, April 16 (Daily Mirror) - The Immigration and Emigration Department today announced the implementation of new Visa procedures and the launch of an online Visa issuing system starting tomorrow,  Immigration and Emigration Conroller General I.S.H.J. Illukpitiya said.
-
-As per the new system, the fees for the issue of Visas, necessary amenities and the duration of stays in Sri Lanka are detailed in a gazette notification (2360/24) released on November 27, 2023.
-
-According to the announcement, the durations and charges for Tourist, Business, Transit Visas are as follows:
-
-◼️
-
-[Data](articles/9fa020e5.json)
-
-[Extended Data](ext_articles/9fa020e5.ext.json)
-
----
-
-### it. T. Death of Eriyaratne
-
-*2024-04-16 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195698) · `si`
-
-T. Ariyaratne, founder of Sarvodaya Business, passed away today.
-
-🟩
-
-The founder of the Sarvodaya Business. T. Mr. Ariyaratne has passed away today (16).
-
-◼️
-
-[Data](articles/e0d451bd.json)
-
-[Extended Data](ext_articles/e0d451bd.ext.json)
-
----
-
-### Wedgunnarimalai atrocity!Human Rights Commission Inquiry!
-
-*2024-04-16 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/181259) · `ta`
-
-The Vavuniya Regional Human Rights Commission is investigating atrocities at Vedukkunnarimalai on Shivaratri day. The Archaeological Department and temple officials were questioned. No evidence of burning was presented, and conflicting statements were noted. The commission revealed that a photo submitted was from the first day of police duties, not the incident day. The investigation continues, with the Nedungeni police and Forest Department expected to be involved.
-
-🟩
-
-The Vavuniya Regional Human Rights Commission on Tuesday (17) investigated the atrocities held at Vedukkunnarimalai on the last Shivaratri day.
-
-Officials of the Archaeological Department, and the secretary of the temple, the youths arrested by the police were invited.
-
-The Archaeological Department had provided some documents that we had damaged the archaeological places.. That is why the arrests were said.
-
-No evidence of the burning of it has been submitted. As well as in their opinions, conflicts were found.
-
-We have revealed the evidence that the photo shown by them was on the first day of the police duties.. They had submitted that photo today. This is completely false. We have pointed out this. said.
-
-Meanwhile, the investigation will be held continuously and the Nedungeni police and the Forest Department are expected to be called in the coming days.
-
-◼️
-
-[Data](articles/268a2b5d.json)
-
-[Extended Data](ext_articles/268a2b5d.ext.json)
-
----
-
-### The dollar bond restructuring discussion is over without agreement
-
-*2024-04-16 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195697) · `si`
-
-The dollar bond restructuring talks in Sri Lanka ended without an agreement, despite efforts to find a common foundation. Negotiations in London revealed four key issues, with two being agreed upon. The International Monetary Fund (IMF) remains optimistic about reaching a consensus on the Sri Lanka Credit Program.
-
-🟩
-
-The government has officially announced that discussion has ended announcement regarding the restructuring of international sovereignty bonds in the country.
-
-However, the Ministry of Finance says that it is the ambition of Sri Lanka to have a common foundation for both parties.
-
-Senior Advisor and Presidential Head of Presidential Staff Sagala Ratnayake yesterday stated that four facts have erupted in the negotiations in London last March.
-
-However, Mr. Sagala Ratnayake said that two matters were agreed and discussed will continue.
-
-Meanwhile, the Ministry of Finance, Economic Straitters and National Policy were overcome with the representatives of the last three weeks on the international binding of Sri Lanka.
-
-In these discussions, there was no final agreement on the restructuring conditions.
-
-...
-
-[Data](articles/f2b9d311.json)
-
-[Extended Data](ext_articles/f2b9d311.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 15:33:57**
+As of **2024-04-18 15:52:44**
 
 ## Newspaper Stats
 
-*Scraped **19,560** Articles*
+*Scraped **19,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,108
-adalk | 1,631
+adalk | 1,632
 tamilmirrorlk | 2,281
 adaderanalk | 2,346
 virakesarilk | 2,917
@@ -26,57 +26,73 @@ adaderanasinhalalk | 3,183
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,557 (100.0%) of 19,560 articles have been extended.
+19,560 (100.0%) of 19,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### හෙට ඇරඹෙන ඉන්දීය මැතිවරණය ගැන මේ කරුණු දැන සිටියාද ?
+### Did you know about the Indian election which begins tomorrow?
 
 *2024-04-18 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195758) · `si`
 
-ලොව වැඩිම ඡන්ද දායකයින් සහිත රට වන ඉන්දියාවේ මහ මැතිවරණය හෙට (19) ඇරඹෙයි.
+India's largest general election begins tomorrow, with 1.42 billion eligible voters, including 40 million women and 18 million first-time voters. Elections in 7 states, including Tamil Nadu, will be held until June 1, with varying voting days. Results are expected on June 4th.
 
-ලෝක් සභාව සඳහා නියෝජිතයින් මෙම මැතිවරණයෙන් තෝරාගන්නා අතර වර්තමාන අගමැති නරේන්ද්‍ර මෝදි ද තවත් 5 වසරක් සඳහා බලය ඉල්ලයි.
+🟩
 
-තමිල්නාඩුව ඇතුළු ප්‍රාන්ත 7ක මැතිවරණය හෙට ආරම්භ වන අතර ඉන්දියාව පුරා ඡන්ද විමසීම ජුනි 01 වනදා දක්වා පැවැත්වෙයි.
+The general election in the world, the largest electoral national elections begin tomorrow (19).
 
-සමහර ප්‍රාන්ත වල ඡන්දය එක් දිනක් පමණක් පැවැත්වෙන අතර ඉන්දියාවේ ජනගහනය අධික ප්‍රාන්තයක් වන උත්තර් ප්‍රදේශ් හි සහ බිහාර්, බටහිර බෙන්ගාල වැනි ප්‍රාන්තවල මැතිවරණය සතියක් පුරා පැවැත්වෙයි.
+Representatives for the Lok Sabha are selective of this election and the present Prime Minister Narendra Modi and the other 5 years are asking for another 5 years.
 
-මැතිවරණ ප්‍රතිඵල ජූනි 4 වනදා වනවිට ප්‍රකාශයට පත්කිරීමට හැකිවෙතැයි අනුමාන කෙරේ.
+The election of 7 states including Tamil Nadu will commence tomorrow and the ballot is throughout India until June 01.
 
-බිලියන 1.42ක් වන ඉන්දීය ජනගහනයෙන් මිලියන 969ක් ඡන්දය ප්‍රකාශ කිරීමට සුදුසුකම් ලබා තිබේ.
+The vote in some states is only held one day, and Uttar Pradesh and Bengal, West Bengala, is held for a week.
 
-එම ප්‍රමාණය උතුරු ඇමෙරිකාවේ සහ යුරෝපීය සංගමයේ ජනගහනය එක්කළ විට ලැබෙන අගයට වඩා වැඩි බව සී එන් එන් පුවත් සේවය වාර්තා කරයි.
+The electoral results are expected to be announced on June 4th.
 
-2019 පැවති මැතිවරණයට වඩා කාන්තාවන් මිලියන 40ක් මෙවර මැතිවරණය සඳහා සුදුසුකම් ලබා ඇති බව සඳහන් ය.
+The Indian population, the 1.42 billion, qualified to vote.
 
-එසේම පළමුවර ඡන්දය ප්‍රකාශ කරන පිරිස මිලියන 18කි. ඡන්ද දායකයින්ගෙන් 218,000ක් වයස අවුරුදු 100ට වැඩි අය වීම විශේෂත්වයකි.
+The SWNN News reports that when the proportion is taken by the population of North America and the European Union.
+
+40 million women have qualified for the election this year's election rather than the 2019 election.
+
+18 million people who vote for the first time. Of the ages of 218,000 of voters were over 100 years old.
 
 ...
 
 [Data](articles/b037b190.json)
 
+[Extended Data](ext_articles/b037b190.ext.json)
+
 ---
 
-### 2024ம் ஆண்டுக்கான 100 செல்வாக்கு மனிதர்களில் ஒருவர் காசாவின் புகைப்படப்பிடிப்பாளர் - டைம்ஸ் தெரிவு
+### One of the 100 influence for 2024 is Gaza's photographer - Times Choosing
 
 *2024-04-18 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181378) · `ta`
 
-2024ம் ஆண்டு செல்வாக்கு செலுத்திய 100 நபர்களில் ஒருவராக பாலதீன புகைப்படப்பிடிப்பாளர் மொட்டாஸ் அசைசாவை டைம்ஸ் தெரிவுசெய்துள்ளது.
+Motas Asiza, a Balatina photographer from Gaza, is recognized by The Times as one of the 100 most influential people in 2024. Over 108 days, he documented the impact of Israel's bombings, capturing the plight of displaced women and the dangers faced by journalists. His work has raised global awareness and highlighted the need to end the conflict.
 
-கடந்த 108 நாட்களாக அவரது சொந்த ஊரான காசா குறித்த உலகின் குரலாகவும் பார்வையாகவும் அசைசா விளங்கினார்.
+🟩
 
-கமராவுடனும் பிரெஸ் என்ற எழுத்துக்கள்பொறிக்கப்பட்ட ஜக்கெட்டுடனும் அவர் நான்கு மாதங்களாக இஸ்ரேலின் குண்டுவீச்சின் கீழ் வாழ்க்கை வீடுகளில் இருந்து இடம்பெயர்ந்த மக்கள் தங்கள் நேசத்துக்குரியவர்களை இழந்து கதறும் பெண்கள் இடிபாடுகளின் கீழ் சிக்கி உயிரிழந்த நபர் போன்ற விடயங்களை பதிவு செய்தார்.
+The Times has selected Balatina photographer Motas Asiza as one of the 100 influential people in 2024.
 
-காசாவிற்குள் நுழைவதற்கு அனுமதி மறுக்கப்பட்டுள்ள ஊடகவியலாளர்களுக்கு சவாலாக அமையக்கூடிய விதத்தில் காணப்பட்ட அவரது படங்கள் காசாவில் என்ன நடைபெறுகின்றது என்பதை உலகிற்கு தெரிவித்தன.
+For the past 108 days, Aziza has been the voice and vision of his hometown of Gaza.
 
-ஒக்டோபர் ஏழாம் திகதி முதல் 98 பத்திரிகையாளர்கள் காசாவில் கொல்லப்பட்டுள்ளனர். மேலும் பலர் கொல்லப்பட்டுள்ளனர் கைதுசெய்யப்பட்டுள்ளனர்.
+He also recorded things like a camera and a jacket, who had been trapped under the wreckage of women who had been displaced from the homes of Israel under Israel's bombing for four months.
+
+His pictures, which were seen as a challenge to journalists who were denied permission to enter Gaza, told the world what was going on.
+
+98 journalists have been killed in Gaza since October Seventh. Many more have been killed and arrested.
+
+This year has been the most dangerous year for journalists since 1992 to register the attack on journalists.
+
+Since his departure from Gaza in January, his work has become a raising awareness of the crisis and attracting international attention.
 
 ...
 
 [Data](articles/42b527d5.json)
+
+[Extended Data](ext_articles/42b527d5.ext.json)
 
 ---
 
@@ -146,17 +162,25 @@ NPP members Professor Krishantha Abeysinghe, Attorney-at-Law Sunil Watagala, Pre
 
 ---
 
-### பழுகாமம் கண்டுமணி மகாவித்தியாலயத்திற்கு முன்னால் ஆர்ப்பாட்டம்
+### Demonstration in front of the Pulukamam Kandumani Maha Vidyalaya
 
 *2024-04-18 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181375) · `ta`
 
-மட்டக்களப்பு மாவட்டத்தின் பட்டிருப்பு வலயக் கல்வி அலுவலகத்தின் கீளுள்ள பழுகாமம் கண்டுமணி மகாவித்தியாலயத்தின் முன்னால், பாழுகாமத்திலுள்ள மூன்று பாடசாலைகளிலும் கல்வி பயிலும் மாணவர்களின் பெற்றோர்கள், பழைய மாணவர்கள், பாடசாலை அபிவிருத்திச் சங்க உறுப்பினர்கள் என பலரும் ஒன்றிணைந்து ஆர்ப்பாட்டத்தில் வியாழக்கிழமை (18) ஈடுபட்டிருந்தனர்.
+Parents, alumni, and school development association members from three schools in Divakamami demonstrated peacefully on Thursday, opposing the Director of Education's transfer and condemning political revenge.
 
-குறுகிய காலத்தில் வலயத்தை முன்னேற்றிய கல்விப் பணிப்பாளர் எமக்கு வேண்டும், அரச அதிகாரிகள் மீதான அரசியல் பழிவாங்கலை உடன் நிறுத்து, பட்டிருப்பு வலயக் கல்விப் பணிப்பாளரின் முறைகேடான இடமாற்றத்தை வன்மையாக கண்டிக்கின்றோம் போன்ற பல வாசகங்கள் எழுதிய பாதாகைகளை ஏந்தியவாறு அமைதியான முறையில் இவ் ஆர்ப்பாட்டம் இடம்பெற்றது.
+🟩
 
-...
+Parents, alumni and school development association members of the school in the three schools in Divakamami, in front of the Pudukkam Kandumani Maha Vidyalaya in the Batticaloa District of the Batticaloa District, were involved in a demonstration on Thursday (18).
+
+The demonstration took place peacefully, carrying a number of words, such as the Director of Education, who had improved the Zone in a short period of time, stopped political revenge on state officials, and condemned the improper replacement of the Director of Education.
+
+Sivinandam Sridharan, who was serving as the Director of the Zonal Education Office at the Pattupuru Zonal Education Office, was opposed to the transfer of Sivinandam Sridharan and the re -appointment of the Director of Education for the Portrait Zone.
+
+◼️
 
 [Data](articles/c3b6b5ee.json)
+
+[Extended Data](ext_articles/c3b6b5ee.ext.json)
 
 ---
 
@@ -417,6 +441,22 @@ The International Monetary Fund says it is ready to help Sri Lanka for discussio
 [Data](articles/5547d315.json)
 
 [Extended Data](ext_articles/5547d315.ext.json)
+
+---
+
+### ගෝඨාගේ රේන්ජ් රෝවර් රථය පියුමි හංසමාලි ගැනීම ගැන පරීක්ෂණයක් ඉල්ලයි
+
+*2024-04-18 13:00:52* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාගේ-රේන්ජ්-රෝවර්-රථය-පියුමි-හංසමාලි-ගැනීම-ගැන-පරීක්ෂණයක්-ඉල්ලයි/11-409145) · `si`
+
+හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා භාවිත කළ රුපියල් කෝටි දහයක් පමණ වටිනා රේන්ජ් රෝවර්  රථය ප්‍රකට නිරූපිකාවක වන පියුමි හංසමාලි ලබා ගැනීම සැක සහිත බවත් ඇයගේ සියලු වත්කම් ගැන විමර්ශනයක් කරන ලෙසත් ඉල්ලා ඊයේ (17) මගේ රටට සංවිධානයේ සභාපති සංජය මහවත්ත  නීති විරෝධී වත්කම් ඒකකයට පැමිණිල්ලක් ඉදිරිපත් කළේය.
+
+මෙම පැමිණිල්ල ඉදිරිපත් කරමින් ඔහු පවසා සිටින්නේ රංගන ක්ෂේත්‍රයේ සැලකිය යුතු රගපෑමක් නොකරන   රූපලාවන්‍ය  ක්‍රීම් වර්ග පමණක් අලෙවි කරන පියුමි හංස මාලි වැනි කාන්තාවක හිටපු ජනාධිපතිවරයා භාවිත කළ  කෝටි දහයක් පමණ  වටිනා ජීප් රථයක් ඇය සතු කර ගැනීම ගැටලු සහගත බවයි.
+
+මේ පිළිබඳව ඉක්මනින් විමර්ශනයක් කොට සත්‍ය රටට හෙළි කර ගැනීමට අවස්ථාව ලබා දෙන්නයි සංජය මහවත්ත  නීති විරෝධී වත්කම්  ඒකකයට කළ මෙම පැමිණිල්ලෙන් ඉල්ලා සිටියි.
+
+...
+
+[Data](articles/6cd4ea57.json)
 
 ---
 
@@ -2231,27 +2271,5 @@ Sri Lanka yesterday officially announced that no agreement was reached with the 
 [Data](articles/1765e64b.json)
 
 [Extended Data](ext_articles/1765e64b.ext.json)
-
----
-
-### Siyambalapitiya assures forwarding Cabinet paper to address unpaid statutory payments for plantation workers
-
-*2024-04-18 01:40:17* · [`dailyftlk`](https://www.ft.lk/news/Siyambalapitiya-assures-forwarding-Cabinet-paper-to-address-unpaid-statutory-payments-for-plantation-workers/56-760752) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya assured yesterday that a Cabinet paper addressing unpaid statutory payments for plantation workers is set to be forwarded to the Cabinet next week.
-
-“Under this proposal, it is anticipated that Rs. 500 million will be disbursed, inclusive of surcharges for the Employees’ Provident Fund (EPF) and the Employees’ Trust Fund (ETF),” he added.
-
-Highlighting the significance of prioritising the legal rights of the working community, Siyambalapitiya noted that initiating reforms within the plantation sector should commence by safeguarding the rights of employees.
-
-The State Minister asserted that this initiative marks the first duty of the year, underscoring the importance of promptly addressing the longstanding issue.
-
-He assured that necessary instructions have been provided to the Ministry Secretary to expedite the process.
-
-...
-
-[Data](articles/c75a1b92.json)
-
-[Extended Data](ext_articles/c75a1b92.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 12:18:15**
+As of **2024-04-18 12:33:53**
 
 ## Newspaper Stats
 
-*Scraped **19,530** Articles*
+*Scraped **19,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,49 @@ tamilmirrorlk | 2,279
 adaderanalk | 2,342
 virakesarilk | 2,909
 dailymirrorlk | 3,015
-adaderanasinhalalk | 3,179
+adaderanasinhalalk | 3,180
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,520 (99.9%) of 19,530 articles have been extended.
+19,530 (100.0%) of 19,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### ஞாயிறன்று 2 நிமிட மௌன அஞ்சலி செலுத்தவும்
+### මෙම ජාවාරම්කරුවන්ට අහුවෙන්න එපා
+
+*2024-04-18 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195755) · `si`
+
+රුසියානු හමුදාවේ සේවය සඳහා යවන බවට පවසමින් පුද්ගලයින්ගෙන් මුදල් ලබාගත් දෙදෙනෙක්ව අත්අඩංගුවට ගත් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/528b3130.json)
+
+---
+
+### Pay a 2 -minute silent tribute on Sunday
 
 *2024-04-18 12:02:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஞாயிறன்று-2-நிமிட-மௌன-அஞ்சலி-செலுத்தவும்/175-336073) · `ta`
 
-'உயிர்த்த ஞாயிறு பயங்கரவாதத் தாக்குதலின் ஐந்தாண்டுகளை நினைவுகூரும் வகையில் எதிர்வரும் ஞாயிற்றுக்கிழமை (21) காலை 8.45 மணியளவில் இரண்டு நிமிட மௌன அஞ்சலி செலுத்துமாறு அனைவரையும் கொழும்பு பேராயர் மல்கம் கர்தினால் ரஞ்சித் கேட்டுக் கொண்டார்.
+Archbishop of Colombo Malcolm Cardinal Ranjith requests a 2-minute silent tribute on Sunday, 8.45 am, to honor the five-year terrorist attack. A religious procession from Kochchikadai Church to Duwapitiya church is planned.
 
-இத்தாக்குதல் தொடர்பில் கவனத்தை ஈர்க்கும் வகையில் எதிர்வரும் ஞாயிற்றுக்கிழமை (21) ஆன்மிக தரப்பினரின் கவனத்தை ஈர்ப்பதாகவும், அதன்படி 20 ஆம் திகதி பிற்பகல் முதல் 21 ஆம் திகதி காலை வரை கொழும்பு கொச்சிக்கடை தேவாலயத்தில் இருந்து சமய ஊர்வலம் இடம்பெறவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-கட்டுவாப்பிட்டி புனித செபஸ்தியார் தேவாலயத்திற்கு, இரவு முழுவதும் பிரார்த்தனை செய்துவிட்டு, காலை 8.30 மணியளவில் துவாபிட்டிய தேவாலயத்தை சென்றடைய திட்டமிடப்பட்டுள்ளதாகவும் அவர் தெரிவித்தார்.
+“Archbishop of Colombo Malcolm Cardinal Ranjith asked everyone to pay a two -minute silent tribute at 8.45 am on Sunday (21) to commemorate the five -year terrorist attack.
+
+It is reported that a religious procession will be held from the Kochchikadai Church in Colombo from the 20th to the 21st of this month.
+
+He said that he was planning to reach the Duwapitiya church at 8.30 am after praying for the St. Sebastiyar Church of Katuvapitiya.
 
 ◼️
 
 [Data](articles/453fc918.json)
+
+[Extended Data](ext_articles/453fc918.ext.json)
 
 ---
 
@@ -64,6 +82,8 @@ Meanwhile in December 2023, it was reported that three Sri Lankan mercenaries we
 
 [Data](articles/9fdea2ab.json)
 
+[Extended Data](ext_articles/9fdea2ab.ext.json)
+
 ---
 
 ### Sri Lanka firms expected to start gender equality panels in planned law
@@ -82,6 +102,8 @@ The Gender Focal Point would have to prepare a plan of activities on gender-equa
 
 [Data](articles/a667a6e5.json)
 
+[Extended Data](ext_articles/a667a6e5.ext.json)
+
 ---
 
 ### Sri Lanka’s Piyumi Wijesekara among NASA’s new crew for next simulated Mars journey
@@ -95,6 +117,8 @@ Jason Lee, Stephanie Navarro, Shareef Al Romaithi, and Piyumi Wijesekara will st
 ...
 
 [Data](articles/71fdcfd5.json)
+
+[Extended Data](ext_articles/71fdcfd5.ext.json)
 
 ---
 
@@ -135,6 +159,10 @@ In 2018, the arrival of tourists needs an advanced speed to reach the country.
 ### Common periods of military personnel who have not reported to work
 
 *2024-04-18 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195754) · `si`
+
+Army personnel legally leave the Army.
+
+🟩
 
 Army personnel have been legally announced to leave the Army to leave the Army.
 
@@ -233,6 +261,8 @@ In December 2023, media reports shed light on the plight of a group of nearly 60
 ...
 
 [Data](articles/a6a74919.json)
+
+[Extended Data](ext_articles/a6a74919.ext.json)
 
 ---
 
@@ -456,6 +486,8 @@ The trading of Dilaog Axiata shares on the Colombo Stock Exchange was halted pen
 
 [Data](articles/cd50b814.json)
 
+[Extended Data](ext_articles/cd50b814.ext.json)
+
 ---
 
 ### Invitation to Hirunika
@@ -503,6 +535,8 @@ The SOERU has already called for bids for Request for Qualification (RfQ) to div
 ...
 
 [Data](articles/830f46a8.json)
+
+[Extended Data](ext_articles/830f46a8.ext.json)
 
 ---
 
@@ -613,6 +647,8 @@ The CEB consists of around 26,000 workers when the enterprise needs only around 
 ...
 
 [Data](articles/3ee07c78.json)
+
+[Extended Data](ext_articles/3ee07c78.ext.json)
 
 ---
 
@@ -744,6 +780,8 @@ In the ASEAN region, citizens of member countries can travel without any visa an
 
 [Data](articles/c71fc2b1.json)
 
+[Extended Data](ext_articles/c71fc2b1.ext.json)
+
 ---
 
 ### Tsunami warning to Indonesia
@@ -815,6 +853,8 @@ The Colombo Stock exchange opened down; the All Share Price Index was down 0.04 
 ◼️
 
 [Data](articles/dc337b56.json)
+
+[Extended Data](ext_articles/dc337b56.ext.json)
 
 ---
 
@@ -2169,27 +2209,5 @@ The Fire Department of the Kandy Municipality is carrying out the necessary acti
 [Data](articles/19507a99.json)
 
 [Extended Data](ext_articles/19507a99.ext.json)
-
----
-
-### Iran rescues 21 Sri Lankan crewmen from sinking ship in Gulf of Oman
-
-*2024-04-17 21:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98691/iran-rescues-21-sri-lankan-crewmen-from-sinking-ship-in-gulf-of-oman) · `en`
-
-Iranian emergency services rescued 21 Sri Lankan crew of a ship that capsized in heavy storms in the Gulf of Oman, state media reported Wednesday.
-
-The Cook Islands-flagged vessel carrying oil went down about 50 kilometres (30 miles) off the southern city of Jask, said the official IRNA news agency.
-
-“A rescue vessel was dispatched to the area and 21 crew were saved,” Mohammad Amin Amani, director of Jask Ports and Maritime Administration, was quoted as saying.
-
-“Five people who needed medical attention” were treated by Jask emergency services “and the physical condition of these sailors is good,” he added.
-
-Torrential rains have battered the Strait of Hormuz, Oman and the United Arab Emirates since Monday, and floods killed at least 18 people in Oman.
-
-◼️
-
-[Data](articles/79fa0947.json)
-
-[Extended Data](ext_articles/79fa0947.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 10:18:21**
+As of **2024-04-18 10:33:48**
 
 ## Newspaper Stats
 
@@ -26,35 +26,41 @@ adaderanasinhalalk | 3,173
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,491 (100.0%) of 19,493 articles have been extended.
+19,493 (100.0%) of 19,493 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### ඉන්දුනීසියාවට සුනාමි අනතුරු ඇඟවීමක්
+### Tsunami warning to Indonesia
 
 *2024-04-18 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195748) · `si`
 
-ඉන්දුනීසියාවේ රුවන්ග් ගිනි කන්ද සක්‍රිය වීම හේතුවෙන් සුනාමි අනතුරු ඇඟවීමක් නිකුත් කර ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+A tsunami warning has been issued for Indonesia due to the activation of Ruwanagas. The volcano, one of the world's most active, is located in a region with the highest number of active volcanoes. The 1871 tsunami incident led to the collapse of a raised fire, resulting in the evacuation of about 11,000 people.
 
-බලධාරීන් අනතුරු අඟවන්නේ, විධාරණය වෙමින් පවතින ගිනි කන්දේ කොටස් මුහුදට වැටී සුනාමි තත්ත්වයක් ඇති විය හැකි බවට සැක පළ කරන බවය.
+🟩
 
-1871 වසරේදී එලෙස විදාරණය වූ ගිනි කන්දේ කොටස් මුහුදට කඩාවැටීමෙන් සුනාමි අනතුරක් ද සිදුවුණි.
+International media reports that a tsunami warning has been issued due to the activation of Ruwanagas in Indonesia.
 
-මේ හේතුවෙන් ගිනි කන්ද අවට වාසය කළ 11,000ක පමණ පිරිසක් ආරක්ෂිත කලාප වෙත යොමුකිරීමට බලධාරීන්ට සිදුවුණි.
+Authorities warn that the sections of the campaign will be sealed in the sea.
 
-නිරන්තරයෙන් සක්‍රියව පවතින රුවන්ග් ගිනි කන්ද පිහිටා ඇත්තේ ඉන්දුනීසියාවේ උතුරුදිග සුලවේසි කලාපයේ දූපතකය.
+In 1871 Tsunami accident, the collapse of the raised fire.
 
-එම ගිනිකන්ද මේ වනවිට විදාරණය වී ඇති අතර ඉන් ලාවා සහ අළු විහිඳුවමින් පවතින බව විදෙස් වාර්තා සඳහන් කරයි.
+As a result, the authorities had to contest about 11,000 people in the surrounding fire.
 
-ඉන්දුනීසියාව ලොව වඩාත්ම සක්‍රිය ගිනි කඳු පවතින ගිනි වළල්ල කලාපයේ පිහිටා තිබේ.
+The island is located on the island in Indonesia, constantly active active.
 
-මීටර් 725ක උසින් යුතු රුවන්ග් ගිනි කන්ද සැලකෙන්නේ ඉන් වඩාත් සක්‍රියම ගිනි කන්දක් ලෙසය.
+The volcanoes have already been widely widened and the collapse of the lava and gray are collapsing.
+
+Indonesia is located in the region's most active volcanoes with the world's most active volcano.
+
+Ruwan of 725 meters is considered a more activated volcano.
 
 ◼️
 
 [Data](articles/ba44cc91.json)
+
+[Extended Data](ext_articles/ba44cc91.ext.json)
 
 ---
 
